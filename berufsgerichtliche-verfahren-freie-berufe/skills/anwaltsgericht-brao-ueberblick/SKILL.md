@@ -1,6 +1,6 @@
 ---
 name: anwaltsgericht-brao-ueberblick
-description: "Wenn es um Anwaltsgericht nach BRAO Überblick in Berufsgerichtliche Verfahren Freie Berufe geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Anwaltsgericht nach BRAO Überblick: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Anwaltsgericht nach BRAO Überblick

@@ -1,6 +1,6 @@
 ---
 name: vorzeitige-altersrente-abschlag-ausgleich
-description: "Wenn es um Vorzeitige Altersrente Abschlag Ausgleich in Rentenprüfer geht: entwickelt Verhandlungsziel, Vergleichskorridor und Eskalationspfad; liefert eine Verhandlungs- oder Eskalationslinie mit Optionen."
+description: "Für Vorzeitige Altersrente Abschlag Ausgleich: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Vorzeitige Altersrente Abschlag Ausgleich

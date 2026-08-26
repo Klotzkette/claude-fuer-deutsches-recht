@@ -1,6 +1,6 @@
 ---
 name: nachtragsmanagement-planer
-description: "Wenn es um HOAI Querschnitt: Prüft zusatzleistung in HOAI Leistungsphasen Praxis geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen."
+description: "Für HOAI Querschnitt: Prüft zusatzleistung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # HOAI Querschnitt: Prüft zusatzleistung

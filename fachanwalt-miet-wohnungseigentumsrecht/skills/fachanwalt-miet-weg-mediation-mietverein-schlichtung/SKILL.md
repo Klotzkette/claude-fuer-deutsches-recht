@@ -1,6 +1,6 @@
 ---
 name: fachanwalt-miet-weg-mediation-mietverein-schlichtung
-description: "Wenn es um Miet-/WEG-Mediation und Mietvereins-Schlichtung in Fachanwalt Miet- und Wohnungseigentumsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Miet-/WEG-Mediation und Mietvereins-Schlichtung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Miet-/WEG-Mediation und Mietvereins-Schlichtung

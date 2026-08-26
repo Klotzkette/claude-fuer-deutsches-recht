@@ -1,6 +1,6 @@
 ---
 name: kaltstart-verfahrensstand-und-mandatsziel
-description: "Wenn es um Kaltstart Verfahrensstand und Mandatsziel in Datenschutz-Sanktionsverfahren und Verteidigung geht: klärt Rolle, Ziel, Frist, Unterlagen und den passenden nächsten Fachskill; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Kaltstart Verfahrensstand und Mandatsziel: routet Rolle, Frist, Unterlagen und Fachschritt; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Kaltstart Verfahrensstand und Mandatsziel

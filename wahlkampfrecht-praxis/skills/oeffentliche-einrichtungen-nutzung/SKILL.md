@@ -1,6 +1,6 @@
 ---
 name: oeffentliche-einrichtungen-nutzung
-description: "Wenn es um Oeffentliche Einrichtungen Nutzung in Wahlkampfrecht Praxis geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Öffentliche Einrichtungen Nutzung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Oeffentliche Einrichtungen Nutzung

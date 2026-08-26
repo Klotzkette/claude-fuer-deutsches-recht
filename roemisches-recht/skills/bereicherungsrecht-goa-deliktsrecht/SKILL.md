@@ -1,6 +1,6 @@
 ---
 name: bereicherungsrecht-goa-deliktsrecht
-description: "Wenn es um Bereicherungsrecht im Vergleich in Römisches Recht geht: entwickelt Verhandlungsziel, Vergleichskorridor und Eskalationspfad; liefert eine Verhandlungs- oder Eskalationslinie mit Optionen."
+description: "Für Bereicherungsrecht im Vergleich: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Bereicherungsrecht im Vergleich

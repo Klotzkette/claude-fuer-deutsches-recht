@@ -1,6 +1,6 @@
 ---
 name: opposition-risikoampel-und-gegenargumente
-description: "Wenn es um Opposition: Risikoampel, Gegenargumente und Verteidigungslinien in Legistik-Werkstatt geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten. Auswahlstichwort: Opposition Risikoampel Und Gegenargumente; Arbeitsfeld: Legistik-Werkstatt."
+description: "Für Opposition: Risikoampel, Gegenargumente und Verteidigungslinien: prüft Ergebnis, Beweislast und Gegenposition; Ergebnis: Fristen- und Risikoampel. Fachgebiet: Legistik-Werkstatt. Route: opposition-risikoampel-und-gegenargumente."
 ---
 
 # Opposition: Risikoampel, Gegenargumente und Verteidigungslinien

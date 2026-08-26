@@ -1,6 +1,6 @@
 ---
 name: foermlich-behoerden-gericht-und-registerweg
-description: "Wenn es um Foermlich: Behörden-, Gerichts- oder Registerweg in mandantenanfragen-assistent geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Förmlich: Behörden-, Gerichts- oder Registerweg: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Einreichungsplan mit Form- und Nachweischeck."
 ---
 
 # Foermlich: Behörden-, Gerichts- oder Registerweg

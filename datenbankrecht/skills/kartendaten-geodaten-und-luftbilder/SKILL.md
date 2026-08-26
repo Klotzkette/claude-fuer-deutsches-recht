@@ -1,6 +1,6 @@
 ---
 name: kartendaten-geodaten-und-luftbilder
-description: "Wenn es um Kartendaten, Geodaten und Luftbilder — Datenbankrecht für Geodatenbanken in Datenbankrecht und Datenbankherstellerrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Kartendaten, Geodaten und Luftbilder — Datenbankrecht für Geodatenbanken: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Kartendaten, Geodaten und Luftbilder — Datenbankrecht für Geodatenbanken

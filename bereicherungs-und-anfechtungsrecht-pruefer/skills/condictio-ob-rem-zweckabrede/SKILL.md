@@ -1,6 +1,6 @@
 ---
 name: condictio-ob-rem-zweckabrede
-description: "Wenn es um Condictio ob rem: Zweckabrede in bereicherungs-und-anfechtungsrecht-prüfer geht: rechnet Schwellen, Beträge, Varianten und Kontrollannahmen durch; liefert eine Berechnungstabelle mit Schwellen, Annahmen und Kontrollfragen."
+description: "Für Condictio ob rem: Zweckabrede: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Condictio ob rem: Zweckabrede

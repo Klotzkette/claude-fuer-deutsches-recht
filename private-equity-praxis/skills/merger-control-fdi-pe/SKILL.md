@@ -1,6 +1,6 @@
 ---
 name: merger-control-fdi-pe
-description: "Wenn es um Fusionskontrolle und FDI für PE in Private Equity Praxis geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Fusionskontrolle und FDI für PE: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Fusionskontrolle und FDI für PE

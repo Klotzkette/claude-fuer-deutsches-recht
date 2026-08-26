@@ -1,6 +1,6 @@
 ---
 name: p-konto-sofortschutz
-description: "Wenn es um P Konto Sofortschutz in Verbraucherinsolvenz und Schuldenbereinigung geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für P Konto Sofortschutz: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # P-Konto-Sofortschutz: Umwandlung, Freibeträge, Bescheinigung, Nachzahlungen, Kindergeld und Doppelpfändung.

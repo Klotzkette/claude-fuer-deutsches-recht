@@ -1,6 +1,6 @@
 ---
 name: gmbh-kapitalherabsetzung-und-schutzjahr
-description: "Wenn es um Kapitalherabsetzung in Handelsregister Praxis geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Dokumentenmatrix mit Nachforderungsliste."
+description: "Für Kapitalherabsetzung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Kapitalherabsetzung

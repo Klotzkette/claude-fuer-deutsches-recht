@@ -1,6 +1,6 @@
 ---
 name: 15-antrag-beschleunigtes-verfahren-paragraf-417
-description: "Wenn es um 15 Antrag Beschleunigtes Verfahren Paragraf 417 in Staatsanwaltschaft und Amtsanwaltschaft geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
+description: "Für 15 Antrag Beschleunigtes Verfahren Paragraf 417: erstellt Entwurf mit Antrag, Beweis und Anlagen; Ergebnis: Schriftsatz mit Begründungs- und Anlagenlogik."
 ---
 
 # 15 Antrag Beschleunigtes Verfahren Paragraf 417

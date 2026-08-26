@@ -1,6 +1,6 @@
 ---
 name: einfuehrung-sonderfall-edge-case
-description: "Wenn es um Einfuehrung: Sonderfall und Edge-Case-Prüfung in Fachanwalt Versicherungsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Einführung: Sonderfall und Edge-Case-Prüfung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Einfuehrung: Sonderfall und Edge-Case-Prüfung

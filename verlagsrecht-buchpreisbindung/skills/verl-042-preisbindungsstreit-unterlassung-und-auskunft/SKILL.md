@@ -1,6 +1,6 @@
 ---
 name: verl-042-preisbindungsstreit-unterlassung-und-auskunft
-description: "Wenn es um Verlagsrecht: Preisbindungsstreit Unterlassung und Auskunft in Verlagsrecht und Buchpreisbindung geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Verlagsrecht: Preisbindungsstreit Unterlassung und Auskunft: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Verlagsrecht: Preisbindungsstreit Unterlassung und Auskunft

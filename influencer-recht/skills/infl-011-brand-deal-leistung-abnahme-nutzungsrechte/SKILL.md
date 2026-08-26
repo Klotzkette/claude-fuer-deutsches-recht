@@ -1,6 +1,6 @@
 ---
 name: infl-011-brand-deal-leistung-abnahme-nutzungsrechte
-description: "Wenn es um Influencer-Recht: Brand Deal Leistungsbeschreibung Abnahme und Nutzungsrechte in Influencer-Recht geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Influencer-Recht: Brand Deal Leistungsbeschreibung Abnahme und Nutzungsrechte: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Influencer-Recht: Brand Deal Leistungsbeschreibung Abnahme und Nutzungsrechte

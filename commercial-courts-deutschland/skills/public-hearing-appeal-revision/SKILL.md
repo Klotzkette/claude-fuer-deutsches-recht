@@ -1,6 +1,6 @@
 ---
 name: public-hearing-appeal-revision
-description: "Wenn es um Öffentlichkeit und Presse in commercial-courts-deutschland geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen."
+description: "Für Öffentlichkeit und Presse: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Öffentlichkeit und Presse

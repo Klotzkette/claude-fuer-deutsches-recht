@@ -1,6 +1,6 @@
 ---
 name: spezial-glaeubigerausschuss-fristennotiz-und-naechster-schritt
-description: "Wenn es um Glaeubigerausschuss: Fristennotiz und nächster Schritt in Insolvenzrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Gläubigerausschuss: Fristennotiz und nächster Schritt: prüft Frist, Form, Zuständigkeit und Eilbedarf; Ergebnis: Fristen- und Risikoampel. Fachgebiet: Insolvenzrecht. Route: spezial-glaeubigerausschuss-fristennotiz-und-naechster-schritt."
 ---
 
 # Glaeubigerausschuss: Fristennotiz und nächster Schritt

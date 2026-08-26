@@ -1,6 +1,6 @@
 ---
 name: regress-forderungsuebergang-und-sicherheitenfreigabe
-description: "Wenn es um Regress, Forderungsübergang und Sicherheitenfreigabe in Bank-Rechtsabteilung geht: entwickelt Verhandlungsziel, Vergleichskorridor und Eskalationspfad; liefert eine Verhandlungs- oder Eskalationslinie mit Optionen."
+description: "Für Regress, Forderungsübergang und Sicherheitenfreigabe: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Regress, Forderungsübergang und Sicherheitenfreigabe

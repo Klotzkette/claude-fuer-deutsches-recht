@@ -1,6 +1,6 @@
 ---
 name: barrierefreie-erklaerung
-description: "Wenn es um Barrierefreie Erklaerung in Juristische Sprache Deutsch als Zweitsprache geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Barrierefreie Erklärung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Barrierefreie Erklaerung

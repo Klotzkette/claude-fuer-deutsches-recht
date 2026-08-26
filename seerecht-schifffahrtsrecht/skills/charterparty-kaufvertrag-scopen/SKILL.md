@@ -1,6 +1,6 @@
 ---
 name: charterparty-kaufvertrag-scopen
-description: "Wenn es um Charterparty – Kaufvertrag scopen in See- und Schifffahrtsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Charterparty – Kaufvertrag scopen: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Charterparty – Kaufvertrag scopen

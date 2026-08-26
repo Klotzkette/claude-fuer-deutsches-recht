@@ -1,6 +1,6 @@
 ---
 name: schwerbehindertenanzeige-sgb-verpackg
-description: "Wenn es um Schwerbehindertenanzeige und Ausgleichsabgabe in Berichtspflichten-Erlediger geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Schwerbehindertenanzeige und Ausgleichsabgabe: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Schwerbehindertenanzeige und Ausgleichsabgabe

@@ -1,6 +1,6 @@
 ---
 name: diligence-dokumentenmatrix-und-lueckenliste
-description: "Wenn es um Diligence: Dokumentenmatrix, Lückenliste und Nachforderung in Gesellschaftsrecht geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Dokumentenmatrix mit Nachforderungsliste."
+description: "Für Diligence: Dokumentenmatrix, Lückenliste und Nachforderung: ordnet Akte, Belege und Lücken; Ergebnis: Dokumentenmatrix mit Nachforderungsliste."
 ---
 
 # Diligence: Dokumentenmatrix, Lückenliste und Nachforderung

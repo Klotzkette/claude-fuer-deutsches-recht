@@ -1,6 +1,6 @@
 ---
 name: prozessuale-kniffe-und-rechtsprechungsanker
-description: "Wenn es um Prozessuale Kniffe und Rechtsprechungsanker in Insolvenz- und Restrukturierungsgericht am Amtsgericht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
+description: "Für Prozessuale Kniffe und Rechtsprechungsanker: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt. Fachgebiet: Insolvenz- und Restrukturierungsgericht am Amtsgericht."
 ---
 # Prozessuale Kniffe und Rechtsprechungsanker
 

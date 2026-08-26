@@ -1,6 +1,6 @@
 ---
 name: chronologie
-description: "Wenn es um Sachverhalts-Chronologie in Prozessrecht geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert eine Chronologie mit Belegmatrix und Widerspruchsliste."
+description: "Für Sachverhalts-Chronologie: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Chronologie mit Beleg- und Widerspruchsmatrix."
 ---
 
 # Sachverhalts-Chronologie

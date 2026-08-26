@@ -1,6 +1,6 @@
 ---
 name: dba-grenzgaenger-frankreich-allem-elsass
-description: "Wenn es um Grenzgaengerregelung DBA-Frankreich (Elsass-Lothringen 20-km-Zone) in Steuerrecht – Steuerberater und Anwälte geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
+description: "Für Grenzgängerregelung DBA-Frankreich (Elsass-Lothringen 20-km-Zone): ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Grenzgaengerregelung DBA-Frankreich (Elsass-Lothringen 20-km-Zone)

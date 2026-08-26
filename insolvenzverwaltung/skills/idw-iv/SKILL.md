@@ -1,6 +1,6 @@
 ---
 name: idw-iv
-description: "Wenn es um Sanierungsfähigkeit-Gate für Insolvenzverwaltung in Insolvenzverwaltung - IV-Cockpit geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Sanierungsfähigkeit-Gate für Insolvenzverwaltung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Sanierungsfähigkeit-Gate für Insolvenzverwaltung

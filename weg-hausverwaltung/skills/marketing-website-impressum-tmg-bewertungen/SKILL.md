@@ -1,6 +1,6 @@
 ---
 name: marketing-website-impressum-tmg-bewertungen
-description: "Wenn es um Marketing: Website-Impressum, DDG und Bewertungsmanagement in WEG- und Hausverwaltung geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
+description: "Für Marketing: Website-Impressum, DDG und Bewertungsmanagement: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Marketing: Website-Impressum, DDG und Bewertungsmanagement

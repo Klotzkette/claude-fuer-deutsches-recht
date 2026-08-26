@@ -1,6 +1,6 @@
 ---
 name: notfallkontakte-und-erste-hilfe
-description: "Wenn es um Notfallkontakte Und Erste Hilfe in Start-up-HR-Personalabteilung Berlin geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
+description: "Für Notfallkontakte und Erste Hilfe: ordnet Akte, Belege und Lücken; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Notfallkontakte Und Erste Hilfe

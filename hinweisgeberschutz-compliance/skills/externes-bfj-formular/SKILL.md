@@ -1,6 +1,6 @@
 ---
 name: externes-bfj-formular
-description: "Wenn es um Externes BfJ Formular in Hinweisgeberschutz, Meldestellen und NDA-Konflikte geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Externes BfJ Formular: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Einreichungsplan mit Form- und Nachweischeck."
 ---
 
 # Externes BfJ Formular

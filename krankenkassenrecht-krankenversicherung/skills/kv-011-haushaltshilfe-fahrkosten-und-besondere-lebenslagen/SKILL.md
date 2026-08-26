@@ -1,6 +1,6 @@
 ---
 name: kv-011-haushaltshilfe-fahrkosten-und-besondere-lebenslagen
-description: "Wenn es um Krankenversicherung: Haushaltshilfe Fahrkosten und besondere Lebenslagen in Krankenkassenrecht und Krankenversicherung geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Krankenversicherung: Haushaltshilfe Fahrkosten und besondere Lebenslagen: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Krankenversicherung: Haushaltshilfe Fahrkosten und besondere Lebenslagen

@@ -1,6 +1,6 @@
 ---
 name: patentanwaelte-patentrecherche-patents
-description: "Wenn es um Patentanwaelte: Tatbestandsmerkmale, Beweisfragen und Beleglage in patentrecherche geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Beweislast- und Substantiierungsmatrix."
+description: "Für Patentanwälte: Tatbestandsmerkmale, Beweisfragen und Beleglage: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Patentanwaelte: Tatbestandsmerkmale, Beweisfragen und Beleglage

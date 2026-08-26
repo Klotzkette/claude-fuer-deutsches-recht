@@ -1,6 +1,6 @@
 ---
 name: apas-verfahren
-description: "Wenn es um Apas Verfahren in Berufsrecht Wirtschaftsprüfer geht: klärt Rolle, Ziel, Frist, Unterlagen und den passenden nächsten Fachskill; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Apas Verfahren: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Wirtschaftsprüfer: apas verfahren antwortstrategie - Kaltstart mit Faktenmatrix, Risikoampel und fehlenden Unterlagen

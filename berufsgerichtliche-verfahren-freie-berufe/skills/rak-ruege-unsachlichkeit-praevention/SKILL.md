@@ -1,6 +1,6 @@
 ---
 name: rak-ruege-unsachlichkeit-praevention
-description: "Wenn es um RAK-Rüge wegen Unsachlichkeit: Präventions- und Organisationspaket in Berufsgerichtliche Verfahren Freie Berufe geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
+description: "Für RAK-Rüge wegen Unsachlichkeit: Präventions- und Organisationspaket: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # RAK-Rüge wegen Unsachlichkeit: Präventions- und Organisationspaket

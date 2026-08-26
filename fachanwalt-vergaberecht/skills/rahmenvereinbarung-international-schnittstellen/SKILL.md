@@ -1,6 +1,6 @@
 ---
 name: rahmenvereinbarung-international-schnittstellen
-description: "Wenn es um Rahmenvereinbarung: Internationaler Bezug und Schnittstellen in Fachanwalt Vergaberecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Rahmenvereinbarung: Internationaler Bezug und Schnittstellen: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Schnittstellenkarte mit Zuständigkeits- und Nachweisfragen."
 ---
 
 # Rahmenvereinbarung: Internationaler Bezug und Schnittstellen

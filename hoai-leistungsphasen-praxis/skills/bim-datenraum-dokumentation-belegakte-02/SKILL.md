@@ -1,6 +1,6 @@
 ---
 name: bim-datenraum-dokumentation-belegakte-02
-description: "Wenn es um LPH 2 Vorplanung: Ordnet digitale modelle in HOAI Leistungsphasen Praxis geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Verhandlungs- oder Eskalationslinie mit Optionen."
+description: "Für LPH 2 Vorplanung: Ordnet digitale modelle: ordnet Akte, Belege und Lücken; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # LPH 2 Vorplanung: Ordnet digitale modelle

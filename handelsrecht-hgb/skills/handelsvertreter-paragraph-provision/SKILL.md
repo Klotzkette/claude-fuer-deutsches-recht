@@ -1,6 +1,6 @@
 ---
 name: handelsvertreter-paragraph-provision
-description: "Wenn es um Handelsvertreter Paragraf 84 HGB in Handelsrecht HGB geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Handelsvertreter Paragraf 84 HGB: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Handelsvertreter § 84 HGB

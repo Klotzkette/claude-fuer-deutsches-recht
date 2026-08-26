@@ -1,6 +1,6 @@
 ---
 name: verwahrungsanzeige-gnotkg
-description: "Wenn es um Verwahrungsanzeige Gnotkg in Berufsrecht Notare geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Verhandlungs- oder Eskalationslinie mit Optionen."
+description: "Für Verwahrungsanzeige Gnotkg: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Notare: verwahrungsanzeige und gnotkg - Kammerantwort mit Verfahrensstrategie, Tonlage und Belegplan

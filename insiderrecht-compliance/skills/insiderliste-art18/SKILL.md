@@ -1,6 +1,6 @@
 ---
 name: insiderliste-art18
-description: "Wenn es um Insiderliste nach Art. 18 MAR in Insiderrecht Compliance geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Insiderliste nach Art. 18 MAR: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Insiderliste nach Art. 18 MAR

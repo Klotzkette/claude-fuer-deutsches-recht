@@ -1,6 +1,6 @@
 ---
 name: tr3d-feststellungsklage-tabellenfeststellung
-description: "Wenn es um TR3D: Feststellungsklage Tabelle in Tabellenreview 3D geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert eine Fristen- und Risikoampel mit Sofortschritten. Auswahlstichwort: Tr3d Feststellungsklage Tabellenfeststellung; Arbeitsfeld: Tabellenreview 3D."
+description: "Für TR3D: Feststellungsklage Tabelle: erstellt Entwurf mit Antrag, Beweis und Anlagen; Ergebnis: Schriftsatz mit Begründungs- und Anlagenlogik. Fachgebiet: Tabellenreview 3D. Route: tr3d-feststellungsklage-tabellenfeststellung."
 ---
 
 # TR3D: Feststellungsklage Tabelle

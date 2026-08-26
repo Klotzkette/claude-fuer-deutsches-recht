@@ -1,6 +1,6 @@
 ---
 name: dokumentengeschaeft-akkreditiv-inkasso-standby
-description: "Wenn es um Dokumentengeschäft: Akkreditiv, Inkasso, Standby in Bank-Rechtsabteilung geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
+description: "Für Dokumentengeschäft: Akkreditiv, Inkasso, Standby: ordnet Akte, Belege und Lücken; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Dokumentengeschäft: Akkreditiv, Inkasso, Standby

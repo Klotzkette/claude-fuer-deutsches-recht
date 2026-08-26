@@ -1,6 +1,6 @@
 ---
 name: 08-schaetzung-und-betriebspruefung
-description: "Wenn es um 08 Schaetzung und Betriebsprüfung in Finanzgericht geht: entwickelt Verhandlungsziel, Vergleichskorridor und Eskalationspfad; liefert eine Beweislast- und Substantiierungsmatrix."
+description: "Für 08 Schätzung und Betriebsprüfung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Tatbestands- oder Anspruchsmatrix."
 ---
 
 # 08 Schaetzung und Betriebsprüfung

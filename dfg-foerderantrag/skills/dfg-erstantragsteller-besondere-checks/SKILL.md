@@ -1,6 +1,6 @@
 ---
 name: dfg-erstantragsteller-besondere-checks
-description: "Wenn es um Erstantragsteller-Sondercheck in DFG-Förderantrag geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
+description: "Für Erstantragsteller-Sondercheck: erstellt Entwurf mit Antrag, Beweis und Anlagen; Ergebnis: Schriftsatz mit Begründungs- und Anlagenlogik."
 ---
 
 # Erstantragsteller-Sondercheck

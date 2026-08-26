@@ -1,6 +1,6 @@
 ---
 name: brki-rag-vertraulichkeit-spezial
-description: "Wenn es um BRKI: RAG-Vertraulichkeit in diesem Spezialbereich geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen Stichwort für die Auswahl: Brki Rag Vertraulichkeit Spezial."
+description: "Für BRKI: RAG-Vertraulichkeit: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt. Fachgebiet: anwaltlichem Berufsrecht und Vertragsprüfung. Route: brki-rag-vertraulichkeit-spezial."
 ---
 
 # BRKI: RAG-Vertraulichkeit

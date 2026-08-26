@@ -1,6 +1,6 @@
 ---
 name: kostenfeststellungsklage-verzugsschaden-erledigung
-description: "Wenn es um Kostenfeststellungsklage nach Zahlung auf die Forderung in Forderungsmanagement — Klagewerkstatt geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
+description: "Für Kostenfeststellungsklage nach Zahlung auf die Forderung: erstellt Entwurf mit Antrag, Beweis und Anlagen; Ergebnis: Schriftsatz mit Begründungs- und Anlagenlogik."
 ---
 
 # Kostenfeststellungsklage nach Zahlung auf die Forderung

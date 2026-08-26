@@ -1,6 +1,6 @@
 ---
 name: innen-aussenverhaeltnis-insolvenznaehe
-description: "Wenn es um Innen Aussenverhaeltnis in Gesellschaftsrechtliche Treuepflicht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen."
+description: "Für Innen Außenverhältnis: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Innen Aussenverhaeltnis

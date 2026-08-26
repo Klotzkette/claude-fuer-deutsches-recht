@@ -1,6 +1,6 @@
 ---
 name: euipo-nichtigkeit-eu-design
-description: "Wenn es um Euipo Nichtigkeit Eu Design in designrecht-geschmacksmusterrecht geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
+description: "Für Euipo Nichtigkeit Eu Design: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Schnittstellenkarte mit Zuständigkeits- und Nachweisfragen."
 ---
 
 # Euipo Nichtigkeit Eu Design

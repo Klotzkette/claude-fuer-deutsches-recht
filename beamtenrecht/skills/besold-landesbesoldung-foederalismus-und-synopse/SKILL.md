@@ -1,6 +1,6 @@
 ---
 name: besold-landesbesoldung-foederalismus-und-synopse
-description: "Wenn es um Besold Landesbesoldung Foederalismus Und Synopse in Beamtenrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Besold Landesbesoldung Föderalismus und Synopse: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Besold Landesbesoldung Foederalismus Und Synopse

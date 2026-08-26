@@ -1,6 +1,6 @@
 ---
 name: bankprozess-versandmappe-endfertigen
-description: "Endfertigt Darlehens-, Anlageberatungs-, Zahlungsdienste-, Prospekt- und Kapitalmarkt-Schriftsätze: liest Vertrag, Beratungsdokumentation, Konto- und Transaktionsdaten, Prospekt, Widerruf und Abrechnung zuerst, prüft Antrag, Aktivlegitimation, Verjährung und Rechenweg, bündelt Serienanlagen kontrolliert und liefert beA-Einzeldateien mit Betrags- und Eingangskontrolle."
+description: "Endfertigt Darlehens-, Anlageberatungs-, Zahlungsdienste-, Prospekt- und Kapitalmarkt-Schriftsätze: liest Vertrag, Beratungsdokumentation, Konto- und Transaktionsdaten, Prospekt, Widerruf und Abrechnung zuerst, prüft Antrag, Aktivlegitimation, Verjährung und Rechenweg, bündelt Serienanlagen kontrolliert und liefert beA-Einzeldateien mit Betrags- und."
 ---
 
 # Bankprozess-Versandmappe endfertigen

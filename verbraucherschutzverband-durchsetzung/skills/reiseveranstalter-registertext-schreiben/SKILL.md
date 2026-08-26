@@ -1,6 +1,6 @@
 ---
 name: reiseveranstalter-registertext-schreiben
-description: "Wenn es um Reiseveranstalter Registertext Schreib in Verbraucherschutzverband Durchsetzung geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Reiseveranstalter Registertext Schreib: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Einreichungsplan mit Form- und Nachweischeck."
 ---
 
 # Reiseveranstalter Registertext Schreib

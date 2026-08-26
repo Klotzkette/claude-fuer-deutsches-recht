@@ -1,6 +1,6 @@
 ---
 name: einspruchsverfahren-und-conflict-check-rechtspre
-description: "Wenn es um Einspruchsverfahren Und Conflict Check Rechtspre in Berufsrecht Patentanwälte geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Gegenprüfung mit Fehler-, Beweis- und Fristencheck."
+description: "Für Einspruchsverfahren und Conflict Check Rechtspre: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Patentanwälte: einspruchsverfahren und conflict check - Rechtsprechungscheck, stärkste Gegenansicht und Red-Team-Korrektur

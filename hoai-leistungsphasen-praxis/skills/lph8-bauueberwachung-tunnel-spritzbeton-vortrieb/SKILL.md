@@ -1,6 +1,6 @@
 ---
 name: lph8-bauueberwachung-tunnel-spritzbeton-vortrieb
-description: "Wenn es um Bauueberwachung Tunnel Spritzbeton Vortrieb (LPH 8) in HOAI Leistungsphasen Praxis geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Bauüberwachung Tunnel Spritzbeton Vortrieb (LPH 8): ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Bauueberwachung Tunnel Spritzbeton Vortrieb (LPH 8)

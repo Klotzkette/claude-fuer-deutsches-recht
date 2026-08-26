@@ -1,6 +1,6 @@
 ---
 name: bankkonto-kyc-beirat
-description: "Wenn es um Bankkonto und KYC-Paket in gesellschaftsgründer — Gründungsassistent für deutsche geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Dokumentenmatrix mit Nachforderungsliste."
+description: "Für Bankkonto und KYC-Paket: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Bankkonto und KYC-Paket

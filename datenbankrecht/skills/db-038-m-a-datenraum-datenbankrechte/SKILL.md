@@ -1,6 +1,6 @@
 ---
 name: db-038-m-a-datenraum-datenbankrechte
-description: "Wenn es um Datenbankrecht: M&A Datenraum Datenbankrechte in Datenbankrecht und Datenbankherstellerrecht geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Datenbankrecht: M&A Datenraum Datenbankrechte: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Datenbankrecht: M&A Datenraum Datenbankrechte

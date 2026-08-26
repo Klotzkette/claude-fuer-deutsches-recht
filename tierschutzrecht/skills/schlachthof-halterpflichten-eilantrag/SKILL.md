@@ -1,6 +1,6 @@
 ---
 name: schlachthof-halterpflichten-eilantrag
-description: "Wenn es um Schlachthof Halterpflichten Erklaeren in Tierschutzrecht geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
+description: "Für Schlachthof Halterpflichten Erklären: erstellt Entwurf mit Antrag, Beweis und Anlagen; Ergebnis: Schriftsatz mit Begründungs- und Anlagenlogik."
 ---
 
 # Schlachthof Halterpflichten Erklaeren

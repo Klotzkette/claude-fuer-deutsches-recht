@@ -1,6 +1,6 @@
 ---
 name: fran-041-influencer-werbung-im-franchisesystem
-description: "Wenn es um Franchiserecht: Influencer Werbung im Franchisesystem in Franchiserecht Praxis geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Franchiserecht: Influencer Werbung im Franchisesystem: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Franchiserecht: Influencer Werbung im Franchisesystem

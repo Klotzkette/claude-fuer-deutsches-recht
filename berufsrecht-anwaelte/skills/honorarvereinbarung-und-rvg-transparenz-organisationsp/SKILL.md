@@ -1,6 +1,6 @@
 ---
 name: honorarvereinbarung-und-rvg-transparenz-organisationsp
-description: "Wenn es um Honorarvereinbarung Und Rvg Transparenz Organisationsp in Berufsrecht Anwälte geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Honorarvereinbarung und RVG Transparenz Organisationsp: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Anwälte: honorarvereinbarung und rvg transparenz - Organisationspflichten, Prävention, Team-Anweisung und Fristenkontrolle

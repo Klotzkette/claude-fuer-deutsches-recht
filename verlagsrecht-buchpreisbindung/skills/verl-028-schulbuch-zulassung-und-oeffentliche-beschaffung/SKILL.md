@@ -1,6 +1,6 @@
 ---
 name: verl-028-schulbuch-zulassung-und-oeffentliche-beschaffung
-description: "Wenn es um Verlagsrecht: Schulbuch Zulassung und öffentliche Beschaffung in Verlagsrecht und Buchpreisbindung geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Verlagsrecht: Schulbuch Zulassung und öffentliche Beschaffung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Verlagsrecht: Schulbuch Zulassung und öffentliche Beschaffung

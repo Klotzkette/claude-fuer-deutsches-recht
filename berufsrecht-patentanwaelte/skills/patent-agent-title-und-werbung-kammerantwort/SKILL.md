@@ -1,6 +1,6 @@
 ---
 name: patent-agent-title-und-werbung-kammerantwort
-description: "Wenn es um Patent Agent Title Und Werbung Kammerantwort in Berufsrecht Patentanwälte geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Verhandlungs- oder Eskalationslinie mit Optionen."
+description: "Für Patent Agent Title und Werbung Kammerantwort: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Patentanwälte: patent agent title und werbung - Kammerantwort mit Verfahrensstrategie, Tonlage und Belegplan

@@ -1,6 +1,6 @@
 ---
 name: krankenhaus-mvz-gruendung-zulassung-compliance
-description: "Wenn es um Krankenhaus-MVZ Gründung Zulassung Compliance in Krankenhausrecht geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
+description: "Für Krankenhaus-MVZ Gründung Zulassung Compliance: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Krankenhaus-MVZ Gründung Zulassung Compliance

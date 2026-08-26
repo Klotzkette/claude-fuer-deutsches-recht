@@ -1,6 +1,6 @@
 ---
 name: anbietern-belehrung-sonderfall-edge
-description: "Wenn es um Anbietern Belehrung Sonderfall Edge in diesem Spezialbereich geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
+description: "Für Anbietern Belehrung Sonderfall Edge: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 ## Memo-Baustein für Geschäftsleitung
 - **Empfehlung in 3 Optionen**: (1) Freigeben mit Auflagen, (2) Pilotbetrieb mit eingeschränkten Daten, (3) Sperren.

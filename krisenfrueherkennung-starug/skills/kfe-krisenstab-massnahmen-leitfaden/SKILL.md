@@ -1,6 +1,6 @@
 ---
 name: kfe-krisenstab-massnahmen-leitfaden
-description: "Wenn es um KFE: Krisenstab Massnahmen in Krisenfrüherkennung und StaRUG-Management geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für KFE: Krisenstab Maßnahmen: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt. Fachgebiet: Krisenfrüherkennung und StaRUG-Management. Route: kfe-krisenstab-massnahmen-leitfaden."
 ---
 
 # KFE: Krisenstab Massnahmen

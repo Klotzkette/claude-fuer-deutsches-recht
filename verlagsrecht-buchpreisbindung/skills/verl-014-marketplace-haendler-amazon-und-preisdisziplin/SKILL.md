@@ -1,6 +1,6 @@
 ---
 name: verl-014-marketplace-haendler-amazon-und-preisdisziplin
-description: "Wenn es um Verlagsrecht: Marketplace Händler Amazon und Preisdisziplin in Verlagsrecht und Buchpreisbindung geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Verlagsrecht: Marketplace Händler Amazon und Preisdisziplin: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Verlagsrecht: Marketplace Händler Amazon und Preisdisziplin

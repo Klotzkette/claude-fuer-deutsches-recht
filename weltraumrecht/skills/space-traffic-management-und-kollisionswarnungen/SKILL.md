@@ -1,6 +1,6 @@
 ---
 name: space-traffic-management-und-kollisionswarnungen
-description: "Wenn es um Weltraumrecht: Space Traffic Management und Kollisionswarnungen in Weltraumrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Weltraumrecht: Space Traffic Management und Kollisionswarnungen: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Weltraumrecht: Space Traffic Management und Kollisionswarnungen

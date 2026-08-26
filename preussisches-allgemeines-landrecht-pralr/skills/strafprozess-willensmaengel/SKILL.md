@@ -1,6 +1,6 @@
 ---
 name: strafprozess-willensmaengel
-description: "Wenn es um Pralr Strafprozess Und Inquisition in Preußisches Allgemeines Landrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. Auswahlstichwort: Strafprozess Willensmaengel; Arbeitsfeld: Preußisches Allgemeines Landrecht."
+description: "Für Pralr Strafprozess und Inquisition: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt. Fachgebiet: Preußisches Allgemeines Landrecht. Route: strafprozess-willensmaengel."
 ---
 
 # Pralr Strafprozess Und Inquisition

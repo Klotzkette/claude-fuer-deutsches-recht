@@ -1,6 +1,6 @@
 ---
 name: dropshipping-drittland-oss-ioss-abmahnung
-description: "Wenn es um Dropshipping Drittland Zoll Einfuhrumsatzsteuer in E-Commerce-Recht geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen."
+description: "Für Dropshipping Drittland Zoll Einfuhrumsatzsteuer: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Dropshipping Drittland Zoll Einfuhrumsatzsteuer

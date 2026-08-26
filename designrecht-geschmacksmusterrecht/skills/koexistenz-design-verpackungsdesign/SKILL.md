@@ -1,6 +1,6 @@
 ---
 name: koexistenz-design-verpackungsdesign
-description: "Wenn es um Vergleich Koexistenz Design in designrecht-geschmacksmusterrecht geht: entwickelt Verhandlungsziel, Vergleichskorridor und Eskalationspfad; liefert eine Verhandlungs- oder Eskalationslinie mit Optionen."
+description: "Für Vergleich Koexistenz Design: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Vergleich Koexistenz Design

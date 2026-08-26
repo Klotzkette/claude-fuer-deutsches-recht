@@ -1,6 +1,6 @@
 ---
 name: erbe-compliance-dokumentation-aktenvermerk
-description: "Wenn es um Erbe: Compliance-Dokumentation und Aktenvermerk in Betreuungsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Erbe: Compliance-Dokumentation und Aktenvermerk: ordnet Akte, Belege und Lücken; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Erbe: Compliance-Dokumentation und Aktenvermerk

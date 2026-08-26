@@ -1,6 +1,6 @@
 ---
 name: kueschk-klageschrift-laie-baustein
-description: "Wenn es um Bauklastenartige Klageschrift für Laien: Rubrum-Vorlage in Arbeitsrecht geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
+description: "Für Bauklastenartige Klageschrift für Laien: Rubrum-Vorlage: erstellt Entwurf mit Antrag, Beweis und Anlagen; Ergebnis: Schriftsatz mit Begründungs- und Anlagenlogik."
 ---
 
 # Bauklastenartige Klageschrift für Laien: Rubrum-Vorlage

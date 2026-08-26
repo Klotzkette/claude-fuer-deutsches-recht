@@ -1,6 +1,6 @@
 ---
 name: umwelt-owi-verjaehrung-berechnen
-description: "Wenn es um Umwelt Owi Verjährung Berechnen in Ordnungswidrigkeitenrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Umwelt Owi Verjährung Berechnen: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt. Fachgebiet: Ordnungswidrigkeitenrecht. Route: umwelt-owi-verjaehrung-berechnen."
 ---
 
 # Umwelt Owi Verjährung Berechnen

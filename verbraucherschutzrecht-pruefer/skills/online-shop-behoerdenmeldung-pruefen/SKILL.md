@@ -1,6 +1,6 @@
 ---
 name: online-shop-behoerdenmeldung-pruefen
-description: "Wenn es um Online Shop Behördenmeldung Prüfen in Verbraucherschutzrecht Prüfer geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Online Shop Behördenmeldung Prüfen: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt. Fachgebiet: Verbraucherschutzrecht Prüfer. Route: online-shop-behoerdenmeldung-pruefen."
 ---
 
 # Online Shop Behördenmeldung Prüfen

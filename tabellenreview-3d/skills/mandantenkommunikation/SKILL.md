@@ -1,6 +1,6 @@
 ---
 name: mandantenkommunikation
-description: "Wenn es um Mandantenkommunikation in Tabellenreview 3D geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Chronologie mit Belegmatrix und Widerspruchsliste."
+description: "Für Mandantenkommunikation: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Mandantennachricht oder Entscheidungsvorlage. Fachgebiet: Tabellenreview 3D."
 ---
 
 # Mandantenkommunikation

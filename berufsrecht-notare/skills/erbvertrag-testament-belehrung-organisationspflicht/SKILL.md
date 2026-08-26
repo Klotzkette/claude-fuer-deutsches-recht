@@ -1,6 +1,6 @@
 ---
 name: erbvertrag-testament-belehrung-organisationspflicht
-description: "Wenn es um Erbvertrag Testament Belehrung Organisationspflicht in Berufsrecht Notare geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Erbvertrag Testament Belehrung Organisationspflicht: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Notare: erbvertrag testament belehrung - Organisationspflichten, Prävention, Team-Anweisung und Fristenkontrolle

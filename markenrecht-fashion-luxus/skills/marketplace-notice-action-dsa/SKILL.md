@@ -1,6 +1,6 @@
 ---
 name: marketplace-notice-action-dsa
-description: "Wenn es um Marketplace Notice-and-Action in markenrecht-fashion-luxus geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Verhandlungs- oder Eskalationslinie mit Optionen."
+description: "Für Marketplace Notice-and-Action: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Marketplace Notice-and-Action

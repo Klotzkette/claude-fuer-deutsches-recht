@@ -1,6 +1,6 @@
 ---
 name: hundehaltung-eilantrag-bauen
-description: "Wenn es um Hundehaltung Eilantrag Bauen in Tierschutzrecht geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
+description: "Für Hundehaltung Eilantrag Bauen: erstellt Entwurf mit Antrag, Beweis und Anlagen; Ergebnis: Schriftsatz mit Begründungs- und Anlagenlogik."
 ---
 
 # Hundehaltung Eilantrag Bauen

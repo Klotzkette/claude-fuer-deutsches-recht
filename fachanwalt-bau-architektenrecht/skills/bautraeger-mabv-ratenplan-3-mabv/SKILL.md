@@ -1,6 +1,6 @@
 ---
 name: bautraeger-mabv-ratenplan-3-mabv
-description: "Wenn es um MaBV Paragraf 3 Ratenplan — 7 Raten nach Baufortschritt in Fachanwalt Bau Architektenrecht geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
+description: "Für MaBV Paragraf 3 Ratenplan — 7 Raten nach Baufortschritt: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # MaBV § 3 Ratenplan — 7 Raten nach Baufortschritt

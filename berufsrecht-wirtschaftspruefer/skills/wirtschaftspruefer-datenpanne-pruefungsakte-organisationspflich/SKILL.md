@@ -1,6 +1,6 @@
 ---
 name: wirtschaftspruefer-datenpanne-pruefungsakte-organisationspflich
-description: "Wenn es um Wirtschaftspruefer Datenpanne Pruefungsakte Organisationspflich in Berufsrecht Wirtschaftsprüfer geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Wirtschaftsprüfer Datenpanne Prüfungsakte Organisationspflich: ordnet Akte, Belege und Lücken; Ergebnis: Tatbestands- oder Anspruchsmatrix."
 ---
 
 # Wirtschaftsprüfer: datenpanne pruefungsakte - Organisationspflichten, Prävention, Team-Anweisung und Fristenkontrolle

@@ -1,6 +1,6 @@
 ---
 name: gutachten-rechtsbestand-insolvenz-verwertung
-description: "Wenn es um Gutachten Rechtsbestand in gebrauchsmusterrecht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Tatbestands- oder Anspruchsmatrix mit Gegenargumenten."
+description: "Für Gutachten Rechtsbestand: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Gutachten Rechtsbestand

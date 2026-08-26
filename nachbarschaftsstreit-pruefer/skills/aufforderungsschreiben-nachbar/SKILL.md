@@ -1,6 +1,6 @@
 ---
 name: aufforderungsschreiben-nachbar
-description: "Wenn es um Aufforderungsschreiben an den Nachbarn in Nachbarschaftsstreit-Prüfer geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Aufforderungsschreiben an den Nachbarn: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Aufforderungsschreiben an den Nachbarn

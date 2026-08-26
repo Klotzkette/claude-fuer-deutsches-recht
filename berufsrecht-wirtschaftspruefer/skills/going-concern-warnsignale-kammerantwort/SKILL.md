@@ -1,6 +1,6 @@
 ---
 name: going-concern-warnsignale-kammerantwort
-description: "Wenn es um Going Concern Warnsignale Kammerantwort in Berufsrecht Wirtschaftsprüfer geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Verhandlungs- oder Eskalationslinie mit Optionen."
+description: "Für Going Concern Warnsignale Kammerantwort: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Wirtschaftsprüfer: going concern warnsignale - Kammerantwort mit Verfahrensstrategie, Tonlage und Belegplan

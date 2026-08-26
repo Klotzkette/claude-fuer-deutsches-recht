@@ -1,6 +1,6 @@
 ---
 name: anschluss-router
-description: "Wenn es um Regulatorisches Recht — Allgemein in Regulatorisches Recht – Plugin für deutsches geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Regulatorisches Recht — Allgemein: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Regulatorisches Recht — Allgemein

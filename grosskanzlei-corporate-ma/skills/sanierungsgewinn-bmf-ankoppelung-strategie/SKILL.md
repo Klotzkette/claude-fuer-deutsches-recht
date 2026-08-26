@@ -1,6 +1,6 @@
 ---
 name: sanierungsgewinn-bmf-ankoppelung-strategie
-description: "Wenn es um Sanierungsgewinn – BMF-Ankoppelung und Strategie in Großkanzlei Corporate/M&A geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. Auswahlstichwort: Sanierungsgewinn Bmf Ankoppelung Strategie; Arbeitsfeld: Großkanzlei Corporate/M&A."
+description: "Für Sanierungsgewinn – BMF-Ankoppelung und Strategie: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Verhandlungs- oder Eskalationslinie. Fachgebiet: Großkanzlei Corporate/M&A. Route: sanierungsgewinn-bmf-ankoppelung-strategie."
 ---
 
 # Sanierungsgewinn – BMF-Ankoppelung und Strategie

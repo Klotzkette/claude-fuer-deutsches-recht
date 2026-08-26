@@ -1,6 +1,6 @@
 ---
 name: kv-012-zahnersatz-heil-und-kostenplan-bonusheft-festzuschuss
-description: "Wenn es um Krankenversicherung: Zahnersatz Heil- und Kostenplan Bonusheft Festzuschuss in Krankenkassenrecht und Krankenversicherung geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Krankenversicherung: Zahnersatz Heil- und Kostenplan Bonusheft Festzuschuss: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Krankenversicherung: Zahnersatz Heil- und Kostenplan Bonusheft Festzuschuss

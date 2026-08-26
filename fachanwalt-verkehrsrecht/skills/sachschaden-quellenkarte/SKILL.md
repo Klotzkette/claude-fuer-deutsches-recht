@@ -1,6 +1,6 @@
 ---
 name: sachschaden-quellenkarte
-description: "Wenn es um Sachschaden Quellenkarte in Fachanwalt Verkehrsrecht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Tatbestands- oder Anspruchsmatrix mit Gegenargumenten."
+description: "Für Sachschaden Quellenkarte: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Sachschaden Quellenkarte

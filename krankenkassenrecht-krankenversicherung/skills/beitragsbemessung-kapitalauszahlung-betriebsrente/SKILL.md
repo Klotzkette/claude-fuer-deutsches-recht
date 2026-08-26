@@ -1,6 +1,6 @@
 ---
 name: beitragsbemessung-kapitalauszahlung-betriebsrente
-description: "Wenn es um Beitragsbemessung: Kapitalauszahlung und Betriebsrente in Krankenkassenrecht und Krankenversicherung geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Beitragsbemessung: Kapitalauszahlung und Betriebsrente: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Beitragsbemessung: Kapitalauszahlung und Betriebsrente

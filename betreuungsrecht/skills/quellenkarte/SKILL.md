@@ -1,6 +1,6 @@
 ---
 name: quellenkarte
-description: "Wenn es um Betreuungsrecht Quellenkarte in Betreuungsrecht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen."
+description: "Für Betreuungsrecht Quellenkarte: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Betreuungsrecht Quellenkarte

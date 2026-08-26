@@ -1,6 +1,6 @@
 ---
 name: relationship-redflags
-description: "Wenn es um Relationship Red Flags in Kanzlei-Mandant Lifecycle geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Relationship Red Flags: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Relationship Red Flags

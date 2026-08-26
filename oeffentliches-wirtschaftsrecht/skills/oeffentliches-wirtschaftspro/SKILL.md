@@ -1,6 +1,6 @@
 ---
 name: oeffentliches-wirtschaftspro
-description: "Wenn es um Kaltstart Öffentliches Wirtschaftsprojekt in Öffentliches Wirtschaftsrecht geht: klärt Rolle, Ziel, Frist, Unterlagen und den passenden nächsten Fachskill; liefert eine Mandantennachricht oder Entscheidungsvorlage."
+description: "Für Kaltstart Öffentliches Wirtschaftsprojekt: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Kaltstart Öffentliches Wirtschaftsprojekt

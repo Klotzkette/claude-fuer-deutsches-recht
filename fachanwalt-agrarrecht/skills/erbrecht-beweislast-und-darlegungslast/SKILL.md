@@ -1,6 +1,6 @@
 ---
 name: erbrecht-beweislast-und-darlegungslast
-description: "Wenn es um Erbrecht: Beweislast, Darlegungslast und Substantiierung in Fachanwalt Agrarrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Erbrecht: Beweislast, Darlegungslast und Substantiierung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Beweislast- und Substantiierungsmatrix."
 ---
 
 # Erbrecht: Beweislast, Darlegungslast und Substantiierung

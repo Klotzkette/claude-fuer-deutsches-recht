@@ -1,6 +1,6 @@
 ---
 name: belehrungspflicht-und-verbraucher-organisationspflicht-u
-description: "Wenn es um Belehrungspflicht Und Verbraucher Organisationspflicht U in Berufsrecht Notare geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Belehrungspflicht und Verbraucher Organisationspflicht U: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Notare: belehrungspflicht und verbraucher - Organisationspflichten, Prävention, Team-Anweisung und Fristenkontrolle

@@ -1,6 +1,6 @@
 ---
 name: partner-performance-review
-description: "Wenn es um Partner Performance Review in Kanzlei Management geht: rechnet Schwellen, Beträge, Varianten und Kontrollannahmen durch; liefert eine Berechnungstabelle mit Schwellen, Annahmen und Kontrollfragen."
+description: "Für Partner Performance Review: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Partner Performance Review

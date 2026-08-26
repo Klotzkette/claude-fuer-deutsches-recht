@@ -1,6 +1,6 @@
 ---
 name: verbraucherrecht-saas-verbraucher-vergleich-behoerdenmeldung
-description: "Wenn es um Saas Für Verbraucher Vergleich Vorsch in Verbraucherschutzrecht Prüfer geht: entwickelt Verhandlungsziel, Vergleichskorridor und Eskalationspfad; liefert eine Verhandlungs- oder Eskalationslinie mit Optionen."
+description: "Für Saas für Verbraucher Vergleich Vorsch: entwickelt Ziel, Vergleich und Eskalation; Ergebnis: Verhandlungs- oder Eskalationslinie. Fachgebiet: Verbraucherschutzrecht Prüfer. Route: verbraucherrecht-saas-verbraucher-vergleich-behoerdenmeldung."
 ---
 
 # Saas Für Verbraucher Vergleich Vorsch

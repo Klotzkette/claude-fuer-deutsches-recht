@@ -1,6 +1,6 @@
 ---
 name: lebensversicherung-rueckkaufswert
-description: "Wenn es um Lebensversicherung: Rückkaufswert, Abschlusskosten, Widerspruch in Versicherungsrecht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
+description: "Für Lebensversicherung: Rückkaufswert, Abschlusskosten, Widerspruch: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Lebensversicherung: Rückkaufswert, Abschlusskosten, Widerspruch

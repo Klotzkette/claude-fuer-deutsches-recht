@@ -1,6 +1,6 @@
 ---
 name: methodenstreit-red-team-gutachten
-description: "Wenn es um Methodenstreit Red-Team-Gutachten in Methodenlehre bürgerliches Recht geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Methodenstreit Red-Team-Gutachten: prüft Ergebnis, Beweislast und Gegenposition; Ergebnis: Gegenprüfung mit Beweis- und Fristencheck."
 ---
 
 # Methodenstreit Red-Team-Gutachten

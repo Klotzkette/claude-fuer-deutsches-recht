@@ -1,6 +1,6 @@
 ---
 name: lieferantenregress-und-indemnity
-description: "Wenn es um Lieferantenregress und Indemnity in robotik-recht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Lieferantenregress und Indemnity: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Lieferantenregress und Indemnity

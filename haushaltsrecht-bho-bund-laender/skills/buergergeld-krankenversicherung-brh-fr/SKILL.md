@@ -1,6 +1,6 @@
 ---
 name: buergergeld-krankenversicherung-brh-fr
-description: "Wenn es um Buergergeld Krankenversicherung Brh Fr in Haushaltsrecht BHO Bund und Länder geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Bürgergeld Krankenversicherung BRH Fr: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Buergergeld Krankenversicherung Brh Fr

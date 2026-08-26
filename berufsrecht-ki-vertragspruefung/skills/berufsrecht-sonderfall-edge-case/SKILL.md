@@ -1,6 +1,6 @@
 ---
 name: berufsrecht-sonderfall-edge-case
-description: "Wenn es um Berufsrecht: Sonderfall und Edge-Case-Prüfung in diesem Spezialbereich geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Berufsrecht: Sonderfall und Edge-Case-Prüfung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt. Fachgebiet: anwaltlichem Berufsrecht und Vertragsprüfung. Route: berufsrecht-sonderfall-edge-case."
 ---
 
 # Berufsrecht: Sonderfall und Edge-Case-Prüfung

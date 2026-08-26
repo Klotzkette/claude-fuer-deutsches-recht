@@ -1,6 +1,6 @@
 ---
 name: ki-plagiat-hausarbeit-schule
-description: "Wenn es um digitale Werkzeuge, Plagiat und Hausarbeit Schule in Schulrecht der Bundesländer geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für digitale Werkzeuge, Plagiat und Hausarbeit Schule: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # KI, Plagiat und Hausarbeit Schule

@@ -1,6 +1,6 @@
 ---
 name: baubesprechung-protokoll-baugrund
-description: "Wenn es um HOAI Querschnitt: Erstellt präzises protokoll mit verantwortlichen in HOAI Leistungsphasen Praxis geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für HOAI Querschnitt: Erstellt präzises protokoll mit verantwortlichen: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # HOAI Querschnitt: Erstellt präzises protokoll mit verantwortlichen

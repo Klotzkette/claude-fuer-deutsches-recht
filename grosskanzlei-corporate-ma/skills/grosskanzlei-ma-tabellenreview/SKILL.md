@@ -1,6 +1,6 @@
 ---
 name: grosskanzlei-ma-tabellenreview
-description: "Wenn es um Freistehender Tabellenreview in Großkanzlei Corporate/M&A geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Berechnungstabelle mit Schwellen, Annahmen und Kontrollfragen."
+description: "Für Freistehender Tabellenreview: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Freistehender Tabellenreview

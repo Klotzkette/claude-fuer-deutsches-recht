@@ -1,6 +1,6 @@
 ---
 name: abmahnung-compliance-dokumentation-und-akte
-description: "Wenn es um Spezial: Abmahnung – Compliance-Dokumentation und Aktenführung in Plugin: Gewerblicher Rechtsschutz geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
+description: "Für Spezial: Abmahnung – Compliance-Dokumentation und Aktenführung: ordnet Akte, Belege und Lücken; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Spezial: Abmahnung – Compliance-Dokumentation und Aktenführung
@@ -158,3 +158,7 @@ Abmahnakte [Mandant] ./. [Gegner] – [Datum]
 ## Quellenkontrolle
 
 Das betroffene Schutzrecht zuerst bestimmen und Patentgesetz, Markengesetz, Designgesetz, Urheberrechtsgesetz, Gesetz gegen den unlauteren Wettbewerb sowie Unionsrecht nicht vermischen. Eine Entscheidung wird nur mit Streitgegenstand, Tatbestandsmerkmal, tragender Aussage und Quelle zugeordnet; allgemeine Aktenzeichenlisten sind für Anmeldung, Abmahnung und Prozessstrategie ungeeignet.
+
+## Vertiefung bei Bedarf
+
+- Bei `spezial-abmahnung-compliance-dokumentation-und-akte` beziehungsweise Abmahnung: Compliance-Dokumentation und Aktenvermerk: [die zusätzliche Vertiefung laden](./references/vertiefung-spezial-abmahnung-compliance-dokumentation-und-akte.md).

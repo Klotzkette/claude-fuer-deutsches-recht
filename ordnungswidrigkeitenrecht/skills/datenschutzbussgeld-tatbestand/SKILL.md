@@ -1,6 +1,6 @@
 ---
 name: datenschutzbussgeld-tatbestand
-description: "Wenn es um Datenschutzbussgeld Tatbestand Zerlege in Ordnungswidrigkeitenrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Datenschutzbussgeld Tatbestand Zerlege: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Tatbestands- oder Anspruchsmatrix."
 ---
 
 # Datenschutzbussgeld Tatbestand Zerlege

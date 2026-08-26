@@ -1,6 +1,6 @@
 ---
 name: plan-pension-erisa-classification
-description: "Wenn es um Pension, ERISA and PBGC in US Bankruptcy Code geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Pension, ERISA and PBGC: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Pension, ERISA and PBGC

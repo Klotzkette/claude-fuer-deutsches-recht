@@ -1,6 +1,6 @@
 ---
 name: ki-vo-laienmodus-robotikrecht-litigation
-description: "Wenn es um europäischer Technikregulierungsrahmen Integrationscheck in robotik-recht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen."
+description: "Für europäischer Technikregulierungsrahmen Integrationscheck: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt. Fachgebiet: robotik-recht. Route: ki-vo-laienmodus-robotikrecht-litigation."
 ---
 
 # KI-VO Integrationscheck

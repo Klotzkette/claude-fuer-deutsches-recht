@@ -1,6 +1,6 @@
 ---
 name: promotion-promotionsordnung
-description: "Wenn es um Promotion Und Promotionsordnung in Hochschulrecht der Bundesländer geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Promotion und Promotionsordnung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Promotion Und Promotionsordnung

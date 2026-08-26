@@ -1,6 +1,6 @@
 ---
 name: schedules-sofa-disclosure
-description: "Wenn es um Schedules and SOFA Disclosure in US Bankruptcy Code geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
+description: "Für Schedules and SOFA Disclosure: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Schedules and SOFA Disclosure

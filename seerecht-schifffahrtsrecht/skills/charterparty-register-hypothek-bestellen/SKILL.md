@@ -1,6 +1,6 @@
 ---
 name: charterparty-register-hypothek-bestellen
-description: "Wenn es um Charterparty – Registerprüfung in See- und Schifffahrtsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Charterparty – Registerprüfung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Einreichungsplan mit Form- und Nachweischeck."
 ---
 
 # Charterparty – Registerprüfung

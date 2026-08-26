@@ -1,6 +1,6 @@
 ---
 name: rechenblatt
-description: "Wenn es um JVEG-Rechenblatt in JVEG-Kostenprüfer geht: rechnet Schwellen, Beträge, Varianten und Kontrollannahmen durch; liefert eine Berechnungstabelle mit Schwellen, Annahmen und Kontrollfragen."
+description: "Für JVEG-Rechenblatt: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # JVEG-Rechenblatt

@@ -1,6 +1,6 @@
 ---
 name: fund-formation-deutschland-kagb-scope
-description: "Wenn es um Fund Formation: KAGB-Scope und Strukturentscheidung in Private Equity Praxis geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Fund Formation: KAGB-Scope und Strukturentscheidung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Schnittstellenkarte mit Zuständigkeits- und Nachweisfragen."
 ---
 
 # Fund Formation: KAGB-Scope und Strukturentscheidung

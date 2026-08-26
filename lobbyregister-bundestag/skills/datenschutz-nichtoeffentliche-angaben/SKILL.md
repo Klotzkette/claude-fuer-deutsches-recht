@@ -1,6 +1,6 @@
 ---
 name: datenschutz-nichtoeffentliche-angaben
-description: "Wenn es um Datenschutz und nicht öffentliche Angaben in Lobbyregister Bundestag geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Datenschutz und nicht öffentliche Angaben: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Datenschutz und nicht öffentliche Angaben

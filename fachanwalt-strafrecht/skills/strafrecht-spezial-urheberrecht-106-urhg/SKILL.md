@@ -1,6 +1,6 @@
 ---
 name: strafrecht-spezial-urheberrecht-106-urhg
-description: "Wenn es um Unerlaubte Verwertung urheberrechtlich geschuetzter Werke nach Paragraph 106 UrhG in Fachanwalt Strafrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Unerlaubte Verwertung urheberrechtlich geschützter Werke nach Paragraph 106 UrhG: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Unerlaubte Verwertung urheberrechtlich geschuetzter Werke nach Paragraph 106 UrhG

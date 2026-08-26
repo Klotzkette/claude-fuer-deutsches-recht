@@ -1,6 +1,6 @@
 ---
 name: fachanwalt-vergaberecht-olg-sofortige-beschwerde
-description: "Wenn es um Sofortige Beschwerde OLG-Vergabesenat in Fachanwalt Vergaberecht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
+description: "Für Sofortige Beschwerde OLG-Vergabesenat: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Sofortige Beschwerde OLG-Vergabesenat

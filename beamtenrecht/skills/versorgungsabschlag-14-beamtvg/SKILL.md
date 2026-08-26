@@ -1,6 +1,6 @@
 ---
 name: versorgungsabschlag-14-beamtvg
-description: "Wenn es um Versorgungsabschlag Paragraf 14 Abs. 3 BeamtVG in Beamtenrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Versorgungsabschlag Paragraf 14 Abs. 3 BeamtVG: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Versorgungsabschlag § 14 Abs. 3 BeamtVG

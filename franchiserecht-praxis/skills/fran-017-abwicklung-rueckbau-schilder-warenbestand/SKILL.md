@@ -1,6 +1,6 @@
 ---
 name: fran-017-abwicklung-rueckbau-schilder-warenbestand
-description: "Wenn es um Franchiserecht: Abwicklung Rückbau Schilder Warenbestand in Franchiserecht Praxis geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Franchiserecht: Abwicklung Rückbau Schilder Warenbestand: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Franchiserecht: Abwicklung Rückbau Schilder Warenbestand

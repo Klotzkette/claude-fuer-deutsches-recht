@@ -1,6 +1,6 @@
 ---
 name: zeugnis-ueberblick-extraktion
-description: "Wenn es um Zeugnis-Überblick und Kopfdaten-Extraktion in Arbeitszeugnis-Analyse geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Zeugnis-Überblick und Kopfdaten-Extraktion: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Schnittstellenkarte mit Zuständigkeits- und Nachweisfragen."
 ---
 
 # Zeugnis-Überblick und Kopfdaten-Extraktion

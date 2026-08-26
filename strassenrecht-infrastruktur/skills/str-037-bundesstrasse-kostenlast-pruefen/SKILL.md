@@ -1,6 +1,6 @@
 ---
 name: str-037-bundesstrasse-kostenlast-pruefen
-description: "Wenn es um Bundesstrasse Kostenlast Pruefen in Straßenrecht und Infrastruktur geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Bundesstrasse Kostenlast Prüfen: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt. Fachgebiet: Straßenrecht und Infrastruktur. Route: str-037-bundesstrasse-kostenlast-pruefen."
 ---
 
 # Bundesstrasse Kostenlast Pruefen

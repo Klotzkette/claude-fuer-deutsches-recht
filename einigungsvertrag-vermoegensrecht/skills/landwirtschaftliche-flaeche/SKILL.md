@@ -1,6 +1,6 @@
 ---
 name: landwirtschaftliche-flaeche
-description: "Wenn es um Landwirtschaftliche Flaeche Grundbuch in Einigungsvertrag und Vermögensrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Landwirtschaftliche Fläche Grundbuch: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Landwirtschaftliche Flaeche Grundbuch

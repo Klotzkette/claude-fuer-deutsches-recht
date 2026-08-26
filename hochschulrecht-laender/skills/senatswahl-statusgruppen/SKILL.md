@@ -1,6 +1,6 @@
 ---
 name: senatswahl-statusgruppen
-description: "Wenn es um Senatswahl und Statusgruppen in Hochschulrecht der Bundesländer geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Senatswahl und Statusgruppen: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Senatswahl und Statusgruppen

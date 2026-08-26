@@ -1,6 +1,6 @@
 ---
 name: pruefmodus-fristennotiz-datenraum-sharepoint
-description: "Wenn es um Prüfmodus, Fristennotiz und nächster Schritt in Anlagen zu Schriftsätzen geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. Auswahlstichwort: Pruefmodus Fristennotiz Datenraum Sharepoint; Arbeitsfeld: Anlagen zu Schriftsätzen."
+description: "Für Prüfmodus, Fristennotiz und nächster Schritt: prüft Frist, Form, Zuständigkeit und Eilbedarf; Ergebnis: Fristen- und Risikoampel. Fachgebiet: Anlagen zu Schriftsätzen. Route: pruefmodus-fristennotiz-datenraum-sharepoint."
 ---
 
 # Prüfmodus, Fristennotiz und nächster Schritt

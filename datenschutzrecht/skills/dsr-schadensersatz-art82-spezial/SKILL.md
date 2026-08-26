@@ -1,6 +1,6 @@
 ---
 name: dsr-schadensersatz-art82-spezial
-description: "Wenn es um DSR: Art-82-Schadensersatz in Datenschutzrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für DSR: Art-82-Schadensersatz: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # DSR: Art-82-Schadensersatz

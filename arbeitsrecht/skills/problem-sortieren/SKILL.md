@@ -1,6 +1,6 @@
 ---
 name: problem-sortieren
-description: "Wenn es um Sehr allgemeiner Einstiegsskill für unklare arbeitsrechtliche Anliegen in Arbeitsrecht geht: klärt Rolle, Ziel, Frist, Unterlagen und den passenden nächsten Fachskill; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Sehr allgemeiner Einstiegsskill für unklare arbeitsrechtliche Anliegen: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Sehr allgemeiner Einstiegsskill für unklare arbeitsrechtliche Anliegen

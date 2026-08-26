@@ -1,6 +1,6 @@
 ---
 name: methodenlehre-gutachtenstil-risikoampel-gegenargumente
-description: "Wenn es um Gutachtenstil, Risikoampel und Gegenargumente in Methodenlehre bürgerliches Recht geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Gutachtenstil, Risikoampel und Gegenargumente: prüft Ergebnis, Beweislast und Gegenposition; Ergebnis: Fristen- und Risikoampel."
 ---
 
 # Gutachtenstil, Risikoampel und Gegenargumente

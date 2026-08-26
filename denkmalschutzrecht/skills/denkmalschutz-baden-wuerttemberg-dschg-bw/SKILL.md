@@ -1,6 +1,6 @@
 ---
 name: denkmalschutz-baden-wuerttemberg-dschg-bw
-description: "Wenn es um Denkmalschutz Baden-Württemberg (DSchG-BW) in Denkmalschutzrecht — Bundesweiter Rahmen und sechzehn geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Denkmalschutz Baden-Württemberg (DSchG-BW): ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Denkmalschutz Baden-Württemberg (DSchG-BW)

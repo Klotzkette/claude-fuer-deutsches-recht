@@ -1,6 +1,6 @@
 ---
 name: us-open-source-license-enforcement
-description: "Wenn es um US Open Source Enforcement in Softwarerecht Deutschland/EU/International/USA geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für US Open Source Enforcement: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # US Open Source Enforcement

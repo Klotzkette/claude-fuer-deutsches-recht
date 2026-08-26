@@ -1,6 +1,6 @@
 ---
 name: technik-formular-portal-und-einreichung
-description: "Wenn es um Technik: Formular, Portal und Einreichungslogik in patentrecherche geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Technik: Formular, Portal und Einreichungslogik: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Einreichungsplan mit Form- und Nachweischeck."
 ---
 
 # Technik: Formular, Portal und Einreichungslogik

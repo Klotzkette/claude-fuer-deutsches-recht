@@ -1,6 +1,6 @@
 ---
 name: leistungsschutz-kuenstler-label
-description: "Wenn es um Leistungsschutzrechte Künstler und Label in Urheberrecht DE EU geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Leistungsschutzrechte Künstler und Label: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Leistungsschutzrechte Künstler und Label

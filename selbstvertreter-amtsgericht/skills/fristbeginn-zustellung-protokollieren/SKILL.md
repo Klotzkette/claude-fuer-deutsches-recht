@@ -1,6 +1,6 @@
 ---
 name: fristbeginn-zustellung-protokollieren
-description: "Wenn es um Wann beginnt die Frist? Zustellung protokollieren in selbstvertreter-amtsgericht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Wann beginnt die Frist? Zustellung protokollieren: prüft Frist, Form, Zuständigkeit und Eilbedarf; Ergebnis: Fristen- und Risikoampel."
 ---
 
 # Wann beginnt die Frist? Zustellung protokollieren

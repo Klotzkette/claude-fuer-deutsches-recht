@@ -1,6 +1,6 @@
 ---
 name: subsumtion-schritt-verfassungsrecht
-description: "Wenn es um Subsumtion Schritt für Schritt in hausarbeitenmacher — Didaktisches Plugin für juristische geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Subsumtion Schritt für Schritt: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Tatbestands- oder Anspruchsmatrix."
 ---
 
 # Subsumtion Schritt für Schritt

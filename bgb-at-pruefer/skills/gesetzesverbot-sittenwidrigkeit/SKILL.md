@@ -1,6 +1,6 @@
 ---
 name: gesetzesverbot-sittenwidrigkeit
-description: "Wenn es um Gesetzesverbot und Sittenwidrigkeit — Paragrafen 134 und 138 BGB in BGB AT Prüfer geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Beweislast- und Substantiierungsmatrix. Auswahlstichwort: Gesetzesverbot Sittenwidrigkeit; Arbeitsfeld: BGB AT Prüfer."
+description: "Für Gesetzesverbot und Sittenwidrigkeit — Paragrafen 134 und 138 BGB: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt. Fachgebiet: BGB AT Prüfer. Route: gesetzesverbot-sittenwidrigkeit."
 ---
 
 # Gesetzesverbot und Sittenwidrigkeit — §§ 134 und 138 BGB

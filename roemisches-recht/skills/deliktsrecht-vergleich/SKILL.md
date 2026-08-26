@@ -1,6 +1,6 @@
 ---
 name: deliktsrecht-vergleich
-description: "Wenn es um Deliktsrecht Vergleich in Römisches Recht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Deliktsrecht Vergleich: entwickelt Ziel, Vergleich und Eskalation; Ergebnis: Verhandlungs- oder Eskalationslinie."
 ---
 
 # Deliktsrecht Vergleich

@@ -1,6 +1,6 @@
 ---
 name: auftrag-und-unentgeltliche-taetigkeit
-description: "Wenn es um Auftrag und unentgeltliche Tätigkeit in BGB BT Prüfer geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Auftrag und unentgeltliche Tätigkeit: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Auftrag und unentgeltliche Tätigkeit

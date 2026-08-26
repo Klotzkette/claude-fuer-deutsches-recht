@@ -1,6 +1,6 @@
 ---
 name: aussenwirtschaft-aktive-veredelung
-description: "Wenn es um Aktive Veredelung: Bewilligung, Mengenueberwachung und Abschlussabrechnung in Außenwirtschaft, Sanktionen, Zoll und CBAM geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
+description: "Für Aktive Veredelung: Bewilligung, Mengenüberwachung und Abschlussabrechnung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Aktive Veredelung: Bewilligung, Mengenueberwachung und Abschlussabrechnung

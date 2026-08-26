@@ -1,6 +1,6 @@
 ---
 name: buyouts-quellenkarte
-description: "Wenn es um Buyouts Quellenkarte in BAV Strategie Konzern — Treuenfels Yamamoto Rechtsanwälte geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Tatbestands- oder Anspruchsmatrix mit Gegenargumenten."
+description: "Für Buyouts Quellenkarte: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Buyouts Quellenkarte

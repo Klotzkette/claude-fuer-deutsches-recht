@@ -1,6 +1,6 @@
 ---
 name: quarterly-portfolio-recap
-description: "Wenn es um Quarterly Portfolio Recap in Venture Capital Geber geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Quarterly Portfolio Recap: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Quarterly Portfolio Recap

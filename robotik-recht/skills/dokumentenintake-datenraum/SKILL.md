@@ -1,6 +1,6 @@
 ---
 name: dokumentenintake-datenraum
-description: "Wenn es um Dokumentenintake Datenraum in robotik-recht geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Dokumentenmatrix mit Nachforderungsliste."
+description: "Für Dokumentenintake Datenraum: ordnet Akte, Belege und Lücken; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Dokumentenintake Datenraum

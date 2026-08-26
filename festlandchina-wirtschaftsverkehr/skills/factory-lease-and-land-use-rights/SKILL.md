@@ -1,6 +1,6 @@
 ---
 name: factory-lease-and-land-use-rights
-description: "Wenn es um Fabrikmiete und Bodennutzungsrechte China: LUR und Mietrecht in China-Wirtschaftsverkehr geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Fabrikmiete und Bodennutzungsrechte China: LUR und Mietrecht: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Fabrikmiete und Bodennutzungsrechte China: LUR und Mietrecht

@@ -1,6 +1,6 @@
 ---
 name: saldotheorie-rueckabwicklung-nichtiger-vertraege
-description: "Wenn es um Saldotheorie: Rückabwicklung nichtiger gegenseitiger Verträge in bereicherungs-und-anfechtungsrecht-prüfer geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. Auswahlstichwort: Saldotheorie Rueckabwicklung Nichtiger Vertraege; Arbeitsfeld: bereicherungs-und-anfechtungsrecht-prüfer."
+description: "Für Saldotheorie: Rückabwicklung nichtiger gegenseitiger Verträge: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt. Fachgebiet: bereicherungs-und-anfechtungsrecht-prüfer. Route: saldotheorie-rueckabwicklung-nichtiger-vertraege."
 ---
 
 # Saldotheorie: Rückabwicklung nichtiger gegenseitiger Verträge

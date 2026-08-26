@@ -1,6 +1,6 @@
 ---
 name: chronologie-und-belegmatrix
-description: "Wenn es um Chronologie und Belegmatrix Arbeitszeugnis in Arbeitszeugnis-Analyse geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Chronologie mit Belegmatrix und Widerspruchsliste."
+description: "Für Chronologie und Belegmatrix Arbeitszeugnis: ordnet Akte, Belege und Lücken; Ergebnis: Chronologie mit Beleg- und Widerspruchsmatrix."
 ---
 
 # Chronologie und Belegmatrix Arbeitszeugnis

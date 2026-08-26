@@ -1,6 +1,6 @@
 ---
 name: berichtswesen-besitzuebernahme-bestellung
-description: "Wenn es um Berichtswesen an das Vollstreckungsgericht in ZVG-Zwangsverwaltung - Verwalter-Cockpit geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Berichtswesen an das Vollstreckungsgericht: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Berichtswesen an das Vollstreckungsgericht

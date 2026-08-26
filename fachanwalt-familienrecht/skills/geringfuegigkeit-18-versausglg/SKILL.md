@@ -1,6 +1,6 @@
 ---
 name: geringfuegigkeit-18-versausglg
-description: "Wenn es um Geringfuegigkeit 18 Versausglg in Fachanwalt Familienrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Geringfügigkeit 18 Versausglg: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Geringfügigkeit Paragraf 18 VersAusglG: prüft die einschlägigen Voraussetzungen, Dokumente, Risiken und Ausnahmen

@@ -1,6 +1,6 @@
 ---
 name: khub-mandantenkonferenz-paralegal-rollen
-description: "Wenn es um Khub: Mandantenkonferenz-Templates in Kanzlei-Builder-Hub geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Khub: Mandantenkonferenz-Templates: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Khub: Mandantenkonferenz-Templates

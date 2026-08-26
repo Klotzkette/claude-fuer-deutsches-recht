@@ -1,6 +1,6 @@
 ---
 name: implantateregister-rueckruf
-description: "Wenn es um Implantateregister Rueckruf in Fachanwalt Medizinrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Implantateregister Rückruf: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Einreichungsplan mit Form- und Nachweischeck."
 ---
 
 # Implantateregister und Rückruf: moderner Medizinrechts-Skill für Implantateregister, Rückruf, Field Safety Notice, Patientennachverfolgung und Beweis

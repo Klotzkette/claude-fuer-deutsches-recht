@@ -1,6 +1,6 @@
 ---
 name: emobility-wasserstoff
-description: "Wenn es um E-Mobilität und Wasserstoff in Energierecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für E-Mobilität und Wasserstoff: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # E-Mobilität und Wasserstoff

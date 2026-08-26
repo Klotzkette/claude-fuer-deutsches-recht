@@ -1,6 +1,6 @@
 ---
 name: chn-068-whistleblower-channel-china-supply
-description: "Wenn es um Whistleblower Channel China Supply in China-Wirtschaftsverkehr geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Whistleblower Channel China Supply: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Whistleblower Channel China Supply

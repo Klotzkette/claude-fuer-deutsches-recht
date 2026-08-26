@@ -1,6 +1,6 @@
 ---
 name: ki-preisgestaltung-konsistenzpruefung
-description: "Wenn es um digitale Werkzeuge Preisgestaltung Kartellrecht in Kartellrecht — Marktabgrenzungsprüfung geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen."
+description: "Für digitale Werkzeuge Preisgestaltung Kartellrecht: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Tatbestands- oder Anspruchsmatrix."
 ---
 
 # KI Preisgestaltung Kartellrecht

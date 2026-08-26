@@ -1,6 +1,6 @@
 ---
 name: offshore-schiff-klagepfad-waehlen-risiko
-description: "Wenn es um Offshore-Schiff – Closing planen in See- und Schifffahrtsrecht geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
+description: "Für Offshore-Schiff – Closing planen: erstellt Entwurf mit Antrag, Beweis und Anlagen; Ergebnis: Schriftsatz mit Begründungs- und Anlagenlogik."
 ---
 
 # Offshore-Schiff – Closing planen

@@ -1,6 +1,6 @@
 ---
 name: strafr-dysfunk-mandant-strategie-schuetzen
-description: "Wenn es um Mandant und Verteidigungsstrategie gegen institutionellen Druck schuetzen in Fachanwalt Strafrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Mandant und Verteidigungsstrategie gegen institutionellen Druck schützen: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Verhandlungs- oder Eskalationslinie."
 ---
 
 # Mandant und Verteidigungsstrategie gegen institutionellen Druck schuetzen

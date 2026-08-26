@@ -1,6 +1,6 @@
 ---
 name: code-of-practice-und-harmonisierte-normen
-description: "Wenn es um Verhaltenskodizes, harmonisierte Normen und ISO-Standards in diesem Spezialbereich geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Beweislast- und Substantiierungsmatrix."
+description: "Für Verhaltenskodizes, harmonisierte Normen und ISO-Standards: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Tatbestands- oder Anspruchsmatrix."
 ---
 
 # Verhaltenskodizes, harmonisierte Normen und ISO-Standards

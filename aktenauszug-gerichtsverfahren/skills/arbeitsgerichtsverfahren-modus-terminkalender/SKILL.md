@@ -1,6 +1,6 @@
 ---
 name: arbeitsgerichtsverfahren-modus-terminkalender
-description: "Wenn es um Arbeitsgerichtsverfahren-Modus (ArbGG) in aktenauszug-gerichtsverfahren geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Arbeitsgerichtsverfahren-Modus (ArbGG): ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Arbeitsgerichtsverfahren-Modus (ArbGG)

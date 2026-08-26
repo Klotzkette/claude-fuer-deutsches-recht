@@ -1,6 +1,6 @@
 ---
 name: spezial-dealroom-livequellen-und-rechtsprechungscheck
-description: "Wenn es um Dealroom: Livequellen- und Rechtsprechungscheck in Didaktisches Gesellschaftsrecht — English Business Terms geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Dealroom: Livequellen- und Rechtsprechungscheck: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Dealroom: Livequellen- und Rechtsprechungscheck

@@ -1,6 +1,6 @@
 ---
 name: handelsrecht-und-hgb-geschichte
-description: "Wenn es um Handelsrecht und HGB Geschichte in Deutsche Rechtsgeschichte geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Handelsrecht und HGB Geschichte: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Handelsrecht und HGB Geschichte

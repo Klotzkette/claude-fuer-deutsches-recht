@@ -1,6 +1,6 @@
 ---
 name: stellungnahmen-gutachten-suche-open
-description: "Wenn es um Stellungnahmen und Gutachten Upload in Lobbyregister Bundestag geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Stellungnahmen und Gutachten Upload: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Stellungnahmen und Gutachten Upload

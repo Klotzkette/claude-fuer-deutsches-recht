@@ -1,6 +1,6 @@
 ---
 name: erb-erstgespraech-checkliste
-description: "Wenn es um Erb Erstgespraech Checkliste in Fachanwalt Erbrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Erb Erstgespräch Checkliste: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Erstgespraechs-Checkliste Erbrecht: Familienverhaeltnisse, vorhandene Testamente, Nachlassbestand, Schulden, internationaler Bezug, Pflichtteilsberechtigte, Streitlage

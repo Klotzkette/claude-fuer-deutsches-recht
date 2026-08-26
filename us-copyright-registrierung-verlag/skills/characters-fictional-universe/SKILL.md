@@ -1,6 +1,6 @@
 ---
 name: characters-fictional-universe
-description: "Wenn es um Characters und Fictional Universe in US Copyright Act und Registrierung für deutsche Verlage geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Characters und Fictional Universe: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Characters und Fictional Universe

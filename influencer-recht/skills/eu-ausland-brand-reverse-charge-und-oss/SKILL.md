@@ -1,6 +1,6 @@
 ---
 name: eu-ausland-brand-reverse-charge-und-oss
-description: "Wenn es um Influencer-Recht: EU-Ausland Brand – Reverse Charge und OSS in Influencer-Recht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen."
+description: "Für Influencer-Recht: EU-Ausland Brand – Reverse Charge und OSS: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Schnittstellenkarte mit Zuständigkeits- und Nachweisfragen."
 ---
 
 # Influencer-Recht: EU-Ausland Brand – Reverse Charge und OSS

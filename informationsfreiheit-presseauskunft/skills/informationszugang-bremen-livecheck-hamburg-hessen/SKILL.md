@@ -1,6 +1,6 @@
 ---
 name: informationszugang-bremen-livecheck-hamburg-hessen
-description: "Wenn es um Informationszugang Bremen Livecheck in Informationsfreiheit und Presseauskunft geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
+description: "Für Informationszugang Bremen Livecheck: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Informationszugang Bremen Livecheck

@@ -1,6 +1,6 @@
 ---
 name: berufsrechtliche-notfallkommunikation-kammerantwort
-description: "Wenn es um Berufsrechtliche Notfallkommunikation Kammerantwort in Berufsrecht Anwälte geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Verhandlungs- oder Eskalationslinie mit Optionen."
+description: "Für Berufsrechtliche Notfallkommunikation Kammerantwort: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Anwälte: berufsrechtliche notfallkommunikation - Kammerantwort mit Verfahrensstrategie, Tonlage und Belegplan

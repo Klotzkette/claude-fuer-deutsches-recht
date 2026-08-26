@@ -1,6 +1,6 @@
 ---
 name: kuendigung-rahmenvertrag-exit-und-rueckuebertragung
-description: "Wenn es um Kündigung Rahmenvertrag Exit und Rückübertragung in Factoring-Recht geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
+description: "Für Kündigung Rahmenvertrag Exit und Rückübertragung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Kündigung Rahmenvertrag Exit und Rückübertragung

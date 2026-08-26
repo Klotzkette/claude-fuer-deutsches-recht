@@ -1,6 +1,6 @@
 ---
 name: veraenderungssperre-zurueckstellung-14-15-baugb
-description: "Wenn es um Veränderungssperre und Zurückstellung — Paragrafen 14. 15 BauGB in Normenkontrolle Bauleitplanung — Paragraf 47 VwGO geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt. Auswahlstichwort: Veraenderungssperre Zurueckstellung 14 15 Baugb; Arbeitsfeld: Normenkontrolle Bauleitplanung — Paragraf 47 VwGO."
+description: "Für Veränderungssperre und Zurückstellung — Paragrafen 14. 15 BauGB: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt. Fachgebiet: Normenkontrolle Bauleitplanung — Paragraf 47 VwGO. Route: veraenderungssperre-zurueckstellung-14-15-baugb."
 ---
 
 # Veränderungssperre und Zurückstellung — §§ 14, 15 BauGB

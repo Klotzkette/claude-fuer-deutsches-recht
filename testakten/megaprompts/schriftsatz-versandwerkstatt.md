@@ -8,10 +8,10 @@ Diese Vollprüfung enthält alle 10 Skills des Plugins `schriftsatz-versandwerks
 
 1. **juristischer-argumentationskern** — Schaltet sich ein, wenn in Schriftsatz Versandwerkstatt ein juristisches Arbeitsprodukt tragfähig begründet werden muss;…
 2. **versandmappe-endfertigen** — Orchestriert die vollständige Endfertigung eines bereits geschriebenen Schriftsatzes mit gemischten Anlagen: liest den A…
-3. **signaturweg-und-absender-pruefen** — Klärt vor der Freigabe die verantwortende Person, den tatsächlichen Versender, das verwendete sichere Postfach und die v…
-4. **anlagen-konvertieren-und-sichtpruefen** — Konvertiert bereits ausgewählte Anlagen aus Office-, Tabellen-, Bild-, E-Mail-, Text- und Webformaten in getrennte PDFs,…
+3. **versandfreigabe-und-eingang-sichern** — Führt die letzte technische und organisatorische Freigabe der Versandmappe durch: öffnet jede Enddatei, gleicht Empfänge…
+4. **signaturweg-und-absender-pruefen** — Klärt vor der Freigabe die verantwortende Person, den tatsächlichen Versender, das verwendete sichere Postfach und die v…
 5. **stoerung-und-nachreichung-dokumentieren** — Erstellt bei technischer Übermittlungsstörung, ungeeignetem elektronischem Dokument oder gerichtlichem Nachreichungshinw…
-6. **versandfreigabe-und-eingang-sichern** — Führt die letzte technische und organisatorische Freigabe der Versandmappe durch: öffnet jede Enddatei, gleicht Empfänge…
+6. **anlagen-konvertieren-und-sichtpruefen** — Konvertiert bereits ausgewählte Anlagen aus Office-, Tabellen-, Bild-, E-Mail-, Text- und Webformaten in getrennte PDFs,…
 7. **dateinamen-und-paketgrenzen-pruefen** — Vergibt robuste, sprechende beA-Dateinamen mit ASCII, Unterstrichen, logischer Reihenfolge und höchstens 80 Zeichen eins…
 8. **ordneraufnahme-und-produktionsmatrix** — Liest einen vorhandenen Schriftsatz- und Anlagenordner vor jeder Rückfrage, erkennt Hauptdokument, Fassungen, bereits ve…
 9. **hauptdokument-pdf-endfertigen** — Endfertigt den bereits freigegebenen Schriftsatz technisch als separates PDF: sichert die maßgebliche Quelldatei, konver…
@@ -142,7 +142,7 @@ Ausgangspunkt für dieses Plugin: Bearbeiter für Version, Fundstelle, Rechenweg
 
 ## Skill: `versandmappe-endfertigen`
 
-_Orchestriert die vollständige Endfertigung eines bereits geschriebenen Schriftsatzes mit gemischten Anlagen: liest den Arbeitsordner zuerst, erzeugt eine Produktionsmatrix, konvertiert Quellen kontrolliert in PDF, stempelt und benennt Anlagen, prüft ERVB-Grenzen, Absender und Signaturroute und liefert Versandordner, Manifest, Freigabevermerk und Eingangskontrolle, ohne selbst zu versenden._
+_Orchestriert die vollständige Endfertigung eines bereits geschriebenen Schriftsatzes mit gemischten Anlagen: liest den Arbeitsordner zuerst, erzeugt eine Produktionsmatrix, konvertiert Quellen kontrolliert in PDF, stempelt und benennt Anlagen, prüft ERVB-Grenzen, Absender und Signaturroute und liefert Versandordner, Manifest, Freigabevermerk und._
 
 # Versandmappe endfertigen
 
@@ -226,9 +226,53 @@ Stoppe die Freigabe bei unklarem Empfänger, offener Frist, nicht finalem Hauptd
 
 ---
 
+## Skill: `versandfreigabe-und-eingang-sichern`
+
+_Führt die letzte technische und organisatorische Freigabe der Versandmappe durch: öffnet jede Enddatei, gleicht Empfänger, Aktenzeichen, Frist, Schriftsatzfassung, Anlagenfolge, Bytes, Hashes, Signaturroute und Nachrichtenteile ab, erzeugt einen unterschriftsreifen Freigabevermerk und bereitet die Prüfung und Ablage der automatisierten Eingangsbestätigung._
+
+# Versandfreigabe und Eingang sichern
+
+## 1. Vorversandkontrolle
+
+Öffne die finalen Dateien aus `versandfertig/`, nicht die Quellen. Prüfe:
+
+1. richtiges Gericht und richtiges Aktenzeichen oder eindeutig `Neueingang`,
+2. finale Schriftsatzfassung und sichtbare einfache Signatur,
+3. lückenlose Anlagenfolge und Übereinstimmung mit dem Schriftsatz,
+4. jede PDF lesbar, unverschlüsselt, druckbar und ohne aktive Inhalte,
+5. Dateinamen, Anzahl und Gesamtbytes,
+6. verantwortende Person, tatsächlicher Versender und Signaturroute,
+7. Frist mit Datum, Uhrzeit und Sicherheitsreserve,
+8. bei mehreren Nachrichten Teilfolge und Anlagenbereich.
+
+## 2. Ampel
+
+- `rot`: Formroute, Empfänger, Frist, Hauptdokument oder Anlage offen; keine Freigabe.
+- `gelb`: rein organisatorischer Punkt mit ausreichend Zeit offen; Verantwortlichen und Termin nennen.
+- `grün`: technische Produktion abgeschlossen und anwaltliche Freigabe dokumentiert; Versand bleibt eine bewusste Handlung außerhalb des Werkzeugs.
+
+## 3. Freigabevermerk
+
+Erzeuge aus `assets/freigabevermerk.md` einen konkreten Vermerk. Keine Kästchen als erledigt markieren, wenn der Prüfschritt nicht tatsächlich erfolgt ist. Nenne Hauptdokument, Anlagenbereich, Dateien, Bytes, Hash des Hauptdokuments, Frist, Signaturroute, Verantwortlichen und Versender.
+
+## 4. Eingangskontrolle
+
+Bereite vor dem Versand eine Zeile je Nachricht vor:
+
+| Teil | Empfänger | Versandzeit | Eingangszeit | Status | Dateien | Prüfender | Frist erledigt |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+
+Nach Versand die automatisierte Eingangsbestätigung auf richtigen Empfänger, Zeitstempel, positiven Status und vollständige Nachricht prüfen. Speichere Exportnachricht, Eingangsbestätigung, Versanddateien und Freigabevermerk gemeinsam. Eine Frist darf erst nach positiver Prüfung erledigt werden.
+
+## 5. Ausgabe
+
+Liefere Freigabeampel, ausgefüllten Freigabevermerk, offene Stop-Punkte und Eingangskontrollblatt. Löse niemals selbst einen Versand aus.
+
+---
+
 ## Skill: `signaturweg-und-absender-pruefen`
 
-_Klärt vor der Freigabe die verantwortende Person, den tatsächlichen Versender, das verwendete sichere Postfach und die verfahrensbezogene Formroute; unterscheidet persönlichen sicheren Versand mit einfacher Signatur von der qualifizierten elektronischen Signatur, prüft die Namenszeile im Hauptdokument und stoppt bei fremdem Postfach, Mitarbeiter-Versand oder ungeklärter Verantwortung._
+_Klärt vor der Freigabe die verantwortende Person, den tatsächlichen Versender, das verwendete sichere Postfach und die verfahrensbezogene Formroute; unterscheidet persönlichen sicheren Versand mit einfacher Signatur von der qualifizierten elektronischen Signatur, prüft die Namenszeile im Hauptdokument und stoppt bei fremdem Postfach, Mitarbeiter-Versand._
 
 # Signaturweg und Absender prüfen
 
@@ -269,50 +313,9 @@ Dieser Skill bringt keine qualifizierte elektronische Signatur an und behauptet 
 
 ---
 
-## Skill: `anlagen-konvertieren-und-sichtpruefen`
-
-_Konvertiert bereits ausgewählte Anlagen aus Office-, Tabellen-, Bild-, E-Mail-, Text- und Webformaten in getrennte PDFs, ohne Beweisinhalt zu verändern: protokolliert Quelle und Hash, erhält Absender- und Zeitangaben, meldet Anhänge und nicht unterstützte Container, vergleicht jede Ausgabeseite visuell und stoppt bei Beschnitt, fehlenden Blättern oder unlesbarer Darstellung._
-
-# Anlagen konvertieren und sichtprüfen
-
-## 1. Grundsatz
-
-Eine erfolgreich erzeugte PDF ist noch keine freigegebene Anlage. Jede Konvertierung bleibt bis zum Seitenvergleich im Status `prüfen`.
-
-## 2. Formatroute
-
-| Quelle | Route | besondere Kontrolle |
-| --- | --- | --- |
-| DOC, DOCX, ODT, RTF | LibreOffice nach PDF | Kommentare, Änderungen, Kopf-/Fußzeilen, Seitenumbruch |
-| XLS, XLSX, ODS | LibreOffice nach PDF | alle Tabellenblätter, Druckbereiche, Spalten, Formelergebnisse, wiederholte Kopfzeilen |
-| PPT, PPTX, ODP | LibreOffice nach PDF | Folgenreihenfolge, Notizen nur bei ausdrücklichem Auftrag |
-| JPG, JPEG, PNG | A4-PDF ohne Beschnitt | Orientierung, Auflösung, Farbinhalt, mehrere Bilder als getrennte Quellen |
-| EML | Kopfzeilen plus Nachrichtentext | Absender, Empfänger, Datum, Betreff, Text und Hinweis auf Anhänge |
-| TXT, CSV, TSV, Markdown, HTML | paginierte Textfassung | Zeichensatz, Spaltentrenner, Zeilenumbrüche, Vollständigkeit |
-| PDF | technische Prüfung | Verschlüsselung, aktive Inhalte, Leerseiten, Lesbarkeit |
-
-## 3. E-Mail
-
-Für jede EML-Datei müssen Von, An, Cc, Datum, Betreff und Nachrichtentext sichtbar sein. Liste eingebettete Anhänge im PDF-Kopf. Anhänge werden nicht unsichtbar Teil der E-Mail-PDF; erforderliche Anhänge sind als eigene Anlagenquelle bereitzustellen.
-
-MSG, PST, MBOX und vergleichbare Container werden nicht improvisiert ausgelesen. Verlange einen Export als EML oder überprüfbares PDF und die benötigten Anhänge separat.
-
-## 4. Tabellen
-
-Stoppe, wenn Spalten abgeschnitten, Formeln als Fehlerwerte dargestellt, Tabellenblätter ausgelassen oder Zahlen durch wissenschaftliche Schreibweise verändert erscheinen. Eine Tabelle darf auf Querformat oder mehrere Seiten verteilt werden, muss aber ihre Kopfzeilen und Zuordnung behalten.
-
-## 5. Protokoll
-
-| Anlage | Quelle | Quellhash | Konverter | Zielseiten | Sichtkontrolle | Abweichung |
-| --- | --- | --- | --- | --- | --- | --- |
-
-Keine Quelle überschreiben. Bewahre nur die Versand-PDF im Versandordner auf; Quell- und Prüfdateien bleiben intern. Übergib freigegebene PDFs an `anlagen-nummerieren-und-stempeln`.
-
----
-
 ## Skill: `stoerung-und-nachreichung-dokumentieren`
 
-_Erstellt bei technischer Übermittlungsstörung, ungeeignetem elektronischem Dokument oder gerichtlichem Nachreichungshinweis eine belastbare Ereignis- und Dateichronologie: sichert Fehlermeldungen, Versandversuche, Systemstatus, Ersatzweg, Inhaltsgleichheit, korrigierte PDF, Frist und Eingangsnachweise und hält Störung, Formmangel und bloßen Bedienfehler strikt auseinander._
+_Erstellt bei technischer Übermittlungsstörung, ungeeignetem elektronischem Dokument oder gerichtlichem Nachreichungshinweis eine belastbare Ereignis- und Dateichronologie: sichert Fehlermeldungen, Versandversuche, Systemstatus, Ersatzweg, Inhaltsgleichheit, korrigierte PDF, Frist und Eingangsnachweise und hält Störung, Formmangel und bloßen Bedienfehler._
 
 # Störung und Nachreichung dokumentieren
 
@@ -354,47 +357,44 @@ Liefere Ereignisprotokoll, Belegliste, korrigierte Versandmatrix, Entwurf des te
 
 ---
 
-## Skill: `versandfreigabe-und-eingang-sichern`
+## Skill: `anlagen-konvertieren-und-sichtpruefen`
 
-_Führt die letzte technische und organisatorische Freigabe der Versandmappe durch: öffnet jede Enddatei, gleicht Empfänger, Aktenzeichen, Frist, Schriftsatzfassung, Anlagenfolge, Bytes, Hashes, Signaturroute und Nachrichtenteile ab, erzeugt einen unterschriftsreifen Freigabevermerk und bereitet die Prüfung und Ablage der automatisierten Eingangsbestätigung vor._
+_Konvertiert bereits ausgewählte Anlagen aus Office-, Tabellen-, Bild-, E-Mail-, Text- und Webformaten in getrennte PDFs, ohne Beweisinhalt zu verändern: protokolliert Quelle und Hash, erhält Absender- und Zeitangaben, meldet Anhänge und nicht unterstützte Container, vergleicht jede Ausgabeseite visuell und stoppt bei Beschnitt, fehlenden Blättern oder._
 
-# Versandfreigabe und Eingang sichern
+# Anlagen konvertieren und sichtprüfen
 
-## 1. Vorversandkontrolle
+## 1. Grundsatz
 
-Öffne die finalen Dateien aus `versandfertig/`, nicht die Quellen. Prüfe:
+Eine erfolgreich erzeugte PDF ist noch keine freigegebene Anlage. Jede Konvertierung bleibt bis zum Seitenvergleich im Status `prüfen`.
 
-1. richtiges Gericht und richtiges Aktenzeichen oder eindeutig `Neueingang`,
-2. finale Schriftsatzfassung und sichtbare einfache Signatur,
-3. lückenlose Anlagenfolge und Übereinstimmung mit dem Schriftsatz,
-4. jede PDF lesbar, unverschlüsselt, druckbar und ohne aktive Inhalte,
-5. Dateinamen, Anzahl und Gesamtbytes,
-6. verantwortende Person, tatsächlicher Versender und Signaturroute,
-7. Frist mit Datum, Uhrzeit und Sicherheitsreserve,
-8. bei mehreren Nachrichten Teilfolge und Anlagenbereich.
+## 2. Formatroute
 
-## 2. Ampel
+| Quelle | Route | besondere Kontrolle |
+| --- | --- | --- |
+| DOC, DOCX, ODT, RTF | LibreOffice nach PDF | Kommentare, Änderungen, Kopf-/Fußzeilen, Seitenumbruch |
+| XLS, XLSX, ODS | LibreOffice nach PDF | alle Tabellenblätter, Druckbereiche, Spalten, Formelergebnisse, wiederholte Kopfzeilen |
+| PPT, PPTX, ODP | LibreOffice nach PDF | Folgenreihenfolge, Notizen nur bei ausdrücklichem Auftrag |
+| JPG, JPEG, PNG | A4-PDF ohne Beschnitt | Orientierung, Auflösung, Farbinhalt, mehrere Bilder als getrennte Quellen |
+| EML | Kopfzeilen plus Nachrichtentext | Absender, Empfänger, Datum, Betreff, Text und Hinweis auf Anhänge |
+| TXT, CSV, TSV, Markdown, HTML | paginierte Textfassung | Zeichensatz, Spaltentrenner, Zeilenumbrüche, Vollständigkeit |
+| PDF | technische Prüfung | Verschlüsselung, aktive Inhalte, Leerseiten, Lesbarkeit |
 
-- `rot`: Formroute, Empfänger, Frist, Hauptdokument oder Anlage offen; keine Freigabe.
-- `gelb`: rein organisatorischer Punkt mit ausreichend Zeit offen; Verantwortlichen und Termin nennen.
-- `grün`: technische Produktion abgeschlossen und anwaltliche Freigabe dokumentiert; Versand bleibt eine bewusste Handlung außerhalb des Werkzeugs.
+## 3. E-Mail
 
-## 3. Freigabevermerk
+Für jede EML-Datei müssen Von, An, Cc, Datum, Betreff und Nachrichtentext sichtbar sein. Liste eingebettete Anhänge im PDF-Kopf. Anhänge werden nicht unsichtbar Teil der E-Mail-PDF; erforderliche Anhänge sind als eigene Anlagenquelle bereitzustellen.
 
-Erzeuge aus `assets/freigabevermerk.md` einen konkreten Vermerk. Keine Kästchen als erledigt markieren, wenn der Prüfschritt nicht tatsächlich erfolgt ist. Nenne Hauptdokument, Anlagenbereich, Dateien, Bytes, Hash des Hauptdokuments, Frist, Signaturroute, Verantwortlichen und Versender.
+MSG, PST, MBOX und vergleichbare Container werden nicht improvisiert ausgelesen. Verlange einen Export als EML oder überprüfbares PDF und die benötigten Anhänge separat.
 
-## 4. Eingangskontrolle
+## 4. Tabellen
 
-Bereite vor dem Versand eine Zeile je Nachricht vor:
+Stoppe, wenn Spalten abgeschnitten, Formeln als Fehlerwerte dargestellt, Tabellenblätter ausgelassen oder Zahlen durch wissenschaftliche Schreibweise verändert erscheinen. Eine Tabelle darf auf Querformat oder mehrere Seiten verteilt werden, muss aber ihre Kopfzeilen und Zuordnung behalten.
 
-| Teil | Empfänger | Versandzeit | Eingangszeit | Status | Dateien | Prüfender | Frist erledigt |
-| --- | --- | --- | --- | --- | --- | --- | --- |
+## 5. Protokoll
 
-Nach Versand die automatisierte Eingangsbestätigung auf richtigen Empfänger, Zeitstempel, positiven Status und vollständige Nachricht prüfen. Speichere Exportnachricht, Eingangsbestätigung, Versanddateien und Freigabevermerk gemeinsam. Eine Frist darf erst nach positiver Prüfung erledigt werden.
+| Anlage | Quelle | Quellhash | Konverter | Zielseiten | Sichtkontrolle | Abweichung |
+| --- | --- | --- | --- | --- | --- | --- |
 
-## 5. Ausgabe
-
-Liefere Freigabeampel, ausgefüllten Freigabevermerk, offene Stop-Punkte und Eingangskontrollblatt. Löse niemals selbst einen Versand aus.
+Keine Quelle überschreiben. Bewahre nur die Versand-PDF im Versandordner auf; Quell- und Prüfdateien bleiben intern. Übergib freigegebene PDFs an `anlagen-nummerieren-und-stempeln`.
 
 ---
 

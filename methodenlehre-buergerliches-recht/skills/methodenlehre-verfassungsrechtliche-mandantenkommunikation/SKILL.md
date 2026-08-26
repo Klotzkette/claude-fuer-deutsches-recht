@@ -1,6 +1,6 @@
 ---
 name: methodenlehre-verfassungsrechtliche-mandantenkommunikation
-description: "Wenn es um Verfassungsrechtliche Mandantenkommunikation und Entscheidungsvorlage in Methodenlehre bürgerliches Recht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Verfassungsrechtliche Mandantenkommunikation und Entscheidungsvorlage: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Mandantennachricht oder Entscheidungsvorlage."
 ---
 
 # Verfassungsrechtliche Mandantenkommunikation und Entscheidungsvorlage

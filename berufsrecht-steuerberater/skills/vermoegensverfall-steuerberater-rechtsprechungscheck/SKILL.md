@@ -1,6 +1,6 @@
 ---
 name: vermoegensverfall-steuerberater-rechtsprechungscheck
-description: "Wenn es um Vermoegensverfall Steuerberater Rechtsprechungscheck in Berufsrecht Steuerberater geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Gegenprüfung mit Fehler-, Beweis- und Fristencheck."
+description: "Für Vermögensverfall Steuerberater Rechtsprechungscheck: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Schnittstellenkarte mit Zuständigkeits- und Nachweisfragen."
 ---
 
 # Steuerberater: vermögensverfall steuerberater - Rechtsprechungscheck, stärkste Gegenansicht und Red-Team-Korrektur

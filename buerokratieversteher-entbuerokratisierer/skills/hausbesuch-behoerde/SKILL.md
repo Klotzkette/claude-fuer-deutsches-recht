@@ -1,6 +1,6 @@
 ---
 name: hausbesuch-behoerde
-description: "Wenn es um Hausbesuch Behörde in Bürokratieversteher und Entbürokratisierer geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
+description: "Für Hausbesuch Behörde: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Hausbesuch Behörde

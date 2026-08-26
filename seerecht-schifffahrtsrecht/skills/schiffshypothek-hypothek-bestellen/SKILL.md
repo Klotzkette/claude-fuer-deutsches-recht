@@ -1,6 +1,6 @@
 ---
 name: schiffshypothek-hypothek-bestellen
-description: "Wenn es um Schiffshypothek – Schiffshypothek bestellen in See- und Schifffahrtsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Schiffshypothek – Schiffshypothek bestellen: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Schiffshypothek – Schiffshypothek bestellen

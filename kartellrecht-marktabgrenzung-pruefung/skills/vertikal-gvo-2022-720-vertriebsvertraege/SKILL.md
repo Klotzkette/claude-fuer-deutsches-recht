@@ -1,6 +1,6 @@
 ---
 name: vertikal-gvo-2022-720-vertriebsvertraege
-description: "Wenn es um Vertikal-GVO 2022/720 Vertriebsverträge in Kartellrecht — Marktabgrenzungsprüfung geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen."
+description: "Für Vertikal-GVO 2022/720 Vertriebsverträge: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Vertikal-GVO 2022/720 Vertriebsverträge

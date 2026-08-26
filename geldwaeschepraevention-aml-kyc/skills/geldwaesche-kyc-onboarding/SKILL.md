@@ -1,6 +1,6 @@
 ---
 name: geldwaesche-kyc-onboarding
-description: "Wenn es um KYC-Onboarding und Kundenprüfung in Geldwäscheprävention, AML und KYC geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für KYC-Onboarding und Kundenprüfung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # KYC-Onboarding und Kundenprüfung

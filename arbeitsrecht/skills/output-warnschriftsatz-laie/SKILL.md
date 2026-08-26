@@ -1,6 +1,6 @@
 ---
 name: output-warnschriftsatz-laie
-description: "Wenn es um Ausgabe: Vollständige Klageschrift mit Pflicht-Disclaimer (Laie) in Arbeitsrecht geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
+description: "Für Ausgabe: Vollständige Klageschrift mit Pflicht-Disclaimer (Laie): erstellt Entwurf mit Antrag, Beweis und Anlagen; Ergebnis: Schriftsatz mit Begründungs- und Anlagenlogik."
 ---
 
 # Ausgabe: Vollständige Klageschrift mit Pflicht-Disclaimer (Laie)

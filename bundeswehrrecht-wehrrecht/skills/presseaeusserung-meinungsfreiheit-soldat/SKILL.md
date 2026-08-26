@@ -1,6 +1,6 @@
 ---
 name: presseaeusserung-meinungsfreiheit-soldat
-description: "Wenn es um Presseäußerung und Meinungsfreiheit des Soldaten in Bundeswehrrecht und Wehrrecht geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen."
+description: "Für Presseäußerung und Meinungsfreiheit des Soldaten: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Schnittstellenkarte mit Zuständigkeits- und Nachweisfragen."
 ---
 
 # Presseäußerung und Meinungsfreiheit des Soldaten

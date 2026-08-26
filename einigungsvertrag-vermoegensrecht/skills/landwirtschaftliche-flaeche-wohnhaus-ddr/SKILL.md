@@ -1,6 +1,6 @@
 ---
 name: landwirtschaftliche-flaeche-wohnhaus-ddr
-description: "Wenn es um Landwirtschaftliche Flaeche Vergleich in Einigungsvertrag und Vermögensrecht geht: entwickelt Verhandlungsziel, Vergleichskorridor und Eskalationspfad; liefert eine Verhandlungs- oder Eskalationslinie mit Optionen."
+description: "Für Landwirtschaftliche Fläche Vergleich: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Landwirtschaftliche Flaeche Vergleich

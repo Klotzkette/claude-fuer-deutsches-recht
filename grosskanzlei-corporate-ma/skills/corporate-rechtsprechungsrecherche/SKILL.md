@@ -1,6 +1,6 @@
 ---
 name: corporate-rechtsprechungsrecherche
-description: "Wenn es um Corporate-Rechtsprechungsrecherche in Großkanzlei Corporate/M&A geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
+description: "Für Corporate-Rechtsprechungsrecherche: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt. Fachgebiet: Großkanzlei Corporate/M&A."
 ---
 
 # Corporate-Rechtsprechungsrecherche

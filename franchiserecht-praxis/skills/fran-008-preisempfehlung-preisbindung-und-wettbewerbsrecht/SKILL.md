@@ -1,6 +1,6 @@
 ---
 name: fran-008-preisempfehlung-preisbindung-und-wettbewerbsrecht
-description: "Wenn es um Franchiserecht: Preisempfehlung Preisbindung und Wettbewerbsrecht in Franchiserecht Praxis geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Franchiserecht: Preisempfehlung Preisbindung und Wettbewerbsrecht: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Franchiserecht: Preisempfehlung Preisbindung und Wettbewerbsrecht

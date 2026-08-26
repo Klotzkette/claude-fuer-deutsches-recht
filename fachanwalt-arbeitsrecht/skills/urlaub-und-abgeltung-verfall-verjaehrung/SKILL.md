@@ -1,6 +1,6 @@
 ---
 name: urlaub-und-abgeltung-verfall-verjaehrung
-description: "Prüft offenen Urlaub und Urlaubsabgeltung periodengenau. Trennt Verfall und Verjährung des Freistellungsanspruchs im laufenden Arbeitsverhältnis von Verjährung und Ausschlussfristen des Geldanspruchs nach Beendigung und erstellt Urlaubskonto, Fristenmatrix und bezifferten Zahlungsantrag."
+description: "Für Urlaub und Urlaubsabgeltung zeitlich richtig prüfen: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Urlaub und Urlaubsabgeltung zeitlich richtig prüfen

@@ -1,6 +1,6 @@
 ---
 name: postpetition-transfers-preference-ordinary
-description: "Wenn es um Postpetition Transfers Paragraf 549 in US Bankruptcy Code geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Postpetition Transfers Paragraf 549: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Postpetition Transfers § 549

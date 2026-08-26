@@ -1,6 +1,6 @@
 ---
 name: werbung-robe-kanzleimarketing-praevention
-description: "Wenn es um Werbung, Robe und Kanzleimarketing: Präventions- und Organisationspaket in Berufsgerichtliche Verfahren Freie Berufe geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen."
+description: "Für Werbung, Robe und Kanzleimarketing: Präventions- und Organisationspaket: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Werbung, Robe und Kanzleimarketing: Präventions- und Organisationspaket

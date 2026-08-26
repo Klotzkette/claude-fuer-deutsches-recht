@@ -1,6 +1,6 @@
 ---
 name: mehrsprachige-erklaerung-meldebehoerde
-description: "Wenn es um Mehrsprachige Erklärung in Bürokratieversteher und Entbürokratisierer geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen."
+description: "Für Mehrsprachige Erklärung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Mehrsprachige Erklärung

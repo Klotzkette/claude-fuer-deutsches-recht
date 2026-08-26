@@ -1,6 +1,6 @@
 ---
 name: rechtsabteilung-gun-informationsaustausch
-description: "Wenn es um Rechtsabteilung: Gun-Jumping im Signing-to-Closing-Fenster in Kartellrecht — Marktabgrenzungsprüfung geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Chronologie mit Belegmatrix und Widerspruchsliste."
+description: "Für Rechtsabteilung: Gun-Jumping im Signing-to-Closing-Fenster: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Rechtsabteilung: Gun-Jumping im Signing-to-Closing-Fenster

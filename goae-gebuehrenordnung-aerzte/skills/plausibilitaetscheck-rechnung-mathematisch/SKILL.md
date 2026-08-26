@@ -1,6 +1,6 @@
 ---
 name: plausibilitaetscheck-rechnung-mathematisch
-description: "Wenn es um Plausibilitätscheck Rechnung mathematisch in GOÄ Gebührenordnung für Ärzte geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Berechnungstabelle mit Schwellen, Annahmen und Kontrollfragen."
+description: "Für Plausibilitätscheck Rechnung mathematisch: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Plausibilitätscheck Rechnung mathematisch

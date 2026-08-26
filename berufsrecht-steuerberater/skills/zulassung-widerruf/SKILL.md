@@ -1,6 +1,6 @@
 ---
 name: zulassung-widerruf
-description: "Wenn es um Zulassung Widerruf in Berufsrecht Steuerberater geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Verhandlungs- oder Eskalationslinie mit Optionen."
+description: "Für Zulassung Widerruf: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Steuerberater: zulassung und widerruf - Kammerantwort mit Verfahrensstrategie, Tonlage und Belegplan

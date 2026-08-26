@@ -1,6 +1,6 @@
 ---
 name: szenario-cap-table-bereinigung
-description: "Wenn es um Szenario Cap Table Bereinigung in Plugin: status-navigator-step-plan geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Szenario Cap Table Bereinigung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Szenario Cap Table Bereinigung

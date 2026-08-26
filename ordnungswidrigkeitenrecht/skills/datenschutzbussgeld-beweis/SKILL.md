@@ -1,6 +1,6 @@
 ---
 name: datenschutzbussgeld-beweis
-description: "Wenn es um Datenschutzbussgeld Beweis Ruegen in Ordnungswidrigkeitenrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Datenschutzbussgeld Beweis Rügen: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Beweislast- und Substantiierungsmatrix."
 ---
 
 # Datenschutzbussgeld Beweis Ruegen

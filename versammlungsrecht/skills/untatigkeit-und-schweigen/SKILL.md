@@ -1,6 +1,6 @@
 ---
 name: untatigkeit-und-schweigen
-description: "Wenn es um Schweigen ist kein Plan in Versammlungsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Schweigen ist kein Plan: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Schweigen ist kein Plan

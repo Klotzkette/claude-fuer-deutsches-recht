@@ -1,6 +1,6 @@
 ---
 name: dpa-en-controller-controller-tmpl
-description: "Wenn es um Dpa En Controller Controller Tmpl in Datenschutzrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Dpa En Controller Controller Tmpl: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # English language Controller-to-Controller data sharing agreement template used between two independent controllers exchanging personal data under the GDPR

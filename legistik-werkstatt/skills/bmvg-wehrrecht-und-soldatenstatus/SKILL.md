@@ -1,6 +1,6 @@
 ---
 name: bmvg-wehrrecht-und-soldatenstatus
-description: "Wenn es um Wehrrecht und Soldatenstatus (BMVg) in Legistik-Werkstatt geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen."
+description: "Für Wehrrecht und Soldatenstatus (BMVg): ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Wehrrecht und Soldatenstatus (BMVg)

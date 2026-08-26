@@ -1,6 +1,6 @@
 ---
 name: werftvertrag-arrest-vorbereiten
-description: "Wenn es um Werftvertrag – Arrest vorbereiten in See- und Schifffahrtsrecht geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Werftvertrag – Arrest vorbereiten: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Werftvertrag – Arrest vorbereiten

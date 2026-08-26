@@ -1,6 +1,6 @@
 ---
 name: ownership-transfer-writing
-description: "Wenn es um Ownership, Assignment und Writing Requirement in US Copyright Act und Registrierung für deutsche Verlage geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Ownership, Assignment und Writing Requirement: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Ownership, Assignment und Writing Requirement

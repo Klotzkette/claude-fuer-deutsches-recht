@@ -1,6 +1,6 @@
 ---
 name: public-ma
-description: "Wenn es um Public M&A, Kapitalmarkt und MAR in Großkanzlei Corporate/M&A geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
+description: "Für Public M&A, Kapitalmarkt und MAR: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt. Fachgebiet: Großkanzlei Corporate/M&A."
 ---
 
 # Public M&A, Kapitalmarkt und MAR

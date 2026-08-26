@@ -1,6 +1,6 @@
 ---
 name: telekommunikation-universaldienst-telekommunikation
-description: "Wenn es um Telekommunikation: Universaldienst Telekommunikation in Bundesnetzagentur-Verfahren geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
+description: "Für Telekommunikation: Universaldienst Telekommunikation: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Telekommunikation: Universaldienst Telekommunikation

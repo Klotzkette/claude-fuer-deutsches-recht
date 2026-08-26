@@ -1,6 +1,6 @@
 ---
 name: bescheinigung-vs-pruefungsurteil
-description: "Wenn es um Bescheinigung Vs Pruefungsurteil in Berufsrecht Wirtschaftsprüfer geht: klärt Rolle, Ziel, Frist, Unterlagen und den passenden nächsten Fachskill; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Bescheinigung Vs Prüfungsurteil: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Tatbestands- oder Anspruchsmatrix."
 ---
 
 # Wirtschaftsprüfer: bescheinigung vs prüfungsurteil - Kaltstart mit Faktenmatrix, Risikoampel und fehlenden Unterlagen

@@ -1,6 +1,6 @@
 ---
 name: katzenkolonie-bussgeld-pferdestall
-description: "Wenn es um Katzenkolonie Bussgeld Verteidigen in Tierschutzrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Katzenkolonie Bussgeld Verteidigen: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Katzenkolonie Bussgeld Verteidigen

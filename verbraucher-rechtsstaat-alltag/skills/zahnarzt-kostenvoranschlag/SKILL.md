@@ -1,6 +1,6 @@
 ---
 name: zahnarzt-kostenvoranschlag
-description: "Wenn es um Zahnarzt Kostenvoranschlag in Verbraucher im Rechtsstaat Alltag geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Zahnarzt Kostenvoranschlag: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Zahnarzt Kostenvoranschlag

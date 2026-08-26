@@ -1,6 +1,6 @@
 ---
 name: strafrecht-spezial-ip-strafrecht-grenzbeschlagnahme
-description: "Wenn es um Grenzbeschlagnahme bei IP-Verletzungen VO (EU) 608/2013 Paragraph 142a MarkenG in Fachanwalt Strafrecht geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
+description: "Für Grenzbeschlagnahme bei IP-Verletzungen VO (EU) 608/2013 Paragraph 142a MarkenG: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Grenzbeschlagnahme bei IP-Verletzungen VO (EU) 608/2013 Paragraph 142a MarkenG

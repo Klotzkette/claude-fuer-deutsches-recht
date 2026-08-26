@@ -1,6 +1,6 @@
 ---
 name: bitv-checkout-beweislast-ecommerce
-description: "Wenn es um BITV: Dokumentenmatrix, Lückenliste und Nachforderung in Barrierefreiheit Web Checker geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Dokumentenmatrix mit Nachforderungsliste."
+description: "Für BITV: Dokumentenmatrix, Lückenliste und Nachforderung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Beweislast- und Substantiierungsmatrix."
 ---
 
 # BITV: Dokumentenmatrix, Lückenliste und Nachforderung

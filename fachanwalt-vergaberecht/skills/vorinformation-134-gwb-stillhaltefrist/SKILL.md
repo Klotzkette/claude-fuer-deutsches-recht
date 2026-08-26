@@ -1,6 +1,6 @@
 ---
 name: vorinformation-134-gwb-stillhaltefrist
-description: "Wenn es um Vorinformation 134 Gwb Stillhaltefrist in Fachanwalt Vergaberecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Vorinformation 134 GWB Stillhaltefrist: prüft Frist, Form, Zuständigkeit und Eilbedarf; Ergebnis: Fristen- und Risikoampel."
 ---
 
 # Vorabinformation nach Paragraph 134 GWB und Stillhaltefrist prüfen: Inhalt, Versandweg, Fristlauf, Zuschlagsverbot, Fehlerfolgen und taktische Sofortmassnahmen.

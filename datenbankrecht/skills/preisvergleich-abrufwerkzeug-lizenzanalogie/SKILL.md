@@ -1,6 +1,6 @@
 ---
 name: preisvergleich-abrufwerkzeug-lizenzanalogie
-description: "Wenn es um Preisvergleich-Abrufwerkzeuge und Plattformverträge — Datenbankrecht und P2B in Datenbankrecht und Datenbankherstellerrecht geht: entwickelt Verhandlungsziel, Vergleichskorridor und Eskalationspfad; liefert einen Einreichungsplan mit Form-, Portal- und Nachweischeck."
+description: "Für Preisvergleich-Abrufwerkzeuge und Plattformverträge — Datenbankrecht und P2B: entwickelt Ziel, Vergleich und Eskalation; Ergebnis: Verhandlungs- oder Eskalationslinie."
 ---
 
 # Preisvergleich-Abrufwerkzeuge und Plattformverträge — Datenbankrecht und P2B

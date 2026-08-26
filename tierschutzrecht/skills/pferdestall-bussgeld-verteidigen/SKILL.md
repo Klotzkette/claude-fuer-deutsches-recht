@@ -1,6 +1,6 @@
 ---
 name: pferdestall-bussgeld-verteidigen
-description: "Wenn es um Pferdestall Bussgeld Verteidigen in Tierschutzrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Pferdestall Bussgeld Verteidigen: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Pferdestall Bussgeld Verteidigen

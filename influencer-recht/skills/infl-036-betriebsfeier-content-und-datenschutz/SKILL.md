@@ -1,6 +1,6 @@
 ---
 name: infl-036-betriebsfeier-content-und-datenschutz
-description: "Wenn es um Influencer-Recht: Betriebsfeier Content und Datenschutz in Influencer-Recht geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Influencer-Recht: Betriebsfeier Content und Datenschutz: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Influencer-Recht: Betriebsfeier Content und Datenschutz

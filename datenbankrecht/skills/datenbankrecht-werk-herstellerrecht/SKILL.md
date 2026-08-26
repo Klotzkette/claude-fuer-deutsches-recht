@@ -1,6 +1,6 @@
 ---
 name: datenbankrecht-werk-herstellerrecht
-description: "Wenn es um Kaltstart Datenbankrecht: Werk oder Herstellerrecht? in Datenbankrecht und Datenbankherstellerrecht geht: klärt Rolle, Ziel, Frist, Unterlagen und den passenden nächsten Fachskill; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
+description: "Für Kaltstart Datenbankrecht: Werk oder Herstellerrecht?: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Kaltstart Datenbankrecht: Werk oder Herstellerrecht?

@@ -1,6 +1,6 @@
 ---
 name: interessenjurisprudenz-heck
-description: "Wenn es um Interessenjurisprudenz nach Philipp Heck in Methodenlehre bürgerliches Recht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Interessenjurisprudenz nach Philipp Heck: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Interessenjurisprudenz nach Philipp Heck

@@ -1,6 +1,6 @@
 ---
 name: client-mandantenkommunikation-entscheidungsvorlage
-description: "Wenn es um Client: Mandantenkommunikation und Entscheidungsvorlage in Common-Law-Kompass für deutsche Wirtschaftsjuristen geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Client: Mandantenkommunikation und Entscheidungsvorlage: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Mandantennachricht oder Entscheidungsvorlage."
 ---
 
 # Client: Mandantenkommunikation und Entscheidungsvorlage

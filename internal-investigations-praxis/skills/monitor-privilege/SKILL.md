@@ -1,6 +1,6 @@
 ---
 name: monitor-privilege
-description: "Wenn es um Externer Compliance-Monitor und Monitor-Reporting in Internal Investigations Praxis geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Verhandlungs- oder Eskalationslinie mit Optionen."
+description: "Für Externer Compliance-Monitor und Monitor-Reporting: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Externer Compliance-Monitor und Monitor-Reporting

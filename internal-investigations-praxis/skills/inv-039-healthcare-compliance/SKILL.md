@@ -1,6 +1,6 @@
 ---
 name: inv-039-healthcare-compliance
-description: "Wenn es um Internal Investigation: Healthcare Compliance in Internal Investigations Praxis geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Beweislast- und Substantiierungsmatrix."
+description: "Für Internal Investigation: Healthcare Compliance: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Internal Investigation: Healthcare Compliance

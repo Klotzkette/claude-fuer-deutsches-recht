@@ -1,6 +1,6 @@
 ---
 name: gesindeordnung-gesinderecht
-description: "Wenn es um Pralr Gesindeordnung 1810 Und Folgereformen in Preußisches Allgemeines Landrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. Auswahlstichwort: Gesindeordnung Gesinderecht; Arbeitsfeld: Preußisches Allgemeines Landrecht."
+description: "Für Pralr Gesindeordnung 1810 und Folgereformen: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt. Fachgebiet: Preußisches Allgemeines Landrecht. Route: gesindeordnung-gesinderecht."
 ---
 
 # Pralr Gesindeordnung 1810 Und Folgereformen

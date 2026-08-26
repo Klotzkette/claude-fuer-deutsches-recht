@@ -1,6 +1,6 @@
 ---
 name: belgien-redelijkheid-evenredigheid
-description: "Wenn es um Belgien Redelijkheid und Evenredigheid in Verhältnismäßigkeitsprüfer geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
+description: "Für Belgien Redelijkheid und Evenredigheid: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Belgien Redelijkheid und Evenredigheid

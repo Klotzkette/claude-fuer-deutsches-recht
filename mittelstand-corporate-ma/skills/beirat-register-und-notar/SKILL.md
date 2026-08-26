@@ -1,6 +1,6 @@
 ---
 name: beirat-register-und-notar
-description: "Wenn es um Beirat Register Und Notar in Mittelstands-Corporate/M&A geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert einen Einreichungsplan mit Form-, Portal- und Nachweischeck."
+description: "Für Beirat Register und Notar: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Einreichungsplan mit Form- und Nachweischeck. Fachgebiet: Mittelstands-Corporate/M&A."
 ---
 
 # Beirat Register Und Notar

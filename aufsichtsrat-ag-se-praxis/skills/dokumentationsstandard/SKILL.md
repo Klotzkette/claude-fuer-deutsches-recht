@@ -1,6 +1,6 @@
 ---
 name: dokumentationsstandard
-description: "Wenn es um Dokumentationsstandard in AG/SE-Aufsichtsrat Praxis geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
+description: "Für Dokumentationsstandard: ordnet Akte, Belege und Lücken; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Dokumentationsstandard

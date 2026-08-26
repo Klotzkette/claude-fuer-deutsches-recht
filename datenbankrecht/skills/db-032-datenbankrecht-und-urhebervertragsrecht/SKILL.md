@@ -1,6 +1,6 @@
 ---
 name: db-032-datenbankrecht-und-urhebervertragsrecht
-description: "Wenn es um Datenbankrecht: Datenbankrecht und Urhebervertragsrecht in Datenbankrecht und Datenbankherstellerrecht geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Datenbankrecht: Datenbankrecht und Urhebervertragsrecht: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Datenbankrecht: Datenbankrecht und Urhebervertragsrecht

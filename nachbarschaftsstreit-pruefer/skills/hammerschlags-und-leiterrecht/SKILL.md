@@ -1,6 +1,6 @@
 ---
 name: hammerschlags-und-leiterrecht
-description: "Wenn es um Hammerschlags- und Leiterrecht in Nachbarschaftsstreit-Prüfer geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
+description: "Für Hammerschlags- und Leiterrecht: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Hammerschlags- und Leiterrecht

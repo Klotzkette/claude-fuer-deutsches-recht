@@ -1,6 +1,6 @@
 ---
 name: widerspruch-gegen-gutachten-laien
-description: "Wenn es um Sich gegen ein negatives Gutachten wehren in selbstvertreter-sozialgericht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Sich gegen ein negatives Gutachten wehren: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Sich gegen ein negatives Gutachten wehren

@@ -1,6 +1,6 @@
 ---
 name: wandlungspruefung-trigger-liquidation
-description: "Wenn es um Wandlungsprüfung – Trigger Liquidation Event in Wandeldarlehen-Lebenszyklus geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Wandlungsprüfung – Trigger Liquidation Event: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Tatbestands- oder Anspruchsmatrix."
 ---
 
 # Wandlungsprüfung – Trigger Liquidation Event

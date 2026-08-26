@@ -1,6 +1,6 @@
 ---
 name: doppelabtretung-prioritaet-und-gutglaubensprobleme
-description: "Wenn es um Doppelabtretung Priorität und Gutglaubensprobleme in Factoring-Recht geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
+description: "Für Doppelabtretung Priorität und Gutglaubensprobleme: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Doppelabtretung Priorität und Gutglaubensprobleme

@@ -1,6 +1,6 @@
 ---
 name: gefluegelmast-schutzbedarf
-description: "Wenn es um Gefluegelmast Schutzbedarf Prüfen in Tierschutzrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Geflügelmast Schutzbedarf Prüfen: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt. Fachgebiet: Tierschutzrecht. Route: gefluegelmast-schutzbedarf."
 ---
 
 # Gefluegelmast Schutzbedarf Prüfen

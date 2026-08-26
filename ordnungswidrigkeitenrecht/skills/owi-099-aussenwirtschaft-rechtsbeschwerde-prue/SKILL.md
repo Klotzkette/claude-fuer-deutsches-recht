@@ -1,6 +1,6 @@
 ---
 name: owi-099-aussenwirtschaft-rechtsbeschwerde-prue
-description: "Wenn es um Aussenwirtschaft Rechtsbeschwerde Prue in Ordnungswidrigkeitenrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Außenwirtschaft Rechtsbeschwerde Prü: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Aussenwirtschaft Rechtsbeschwerde Prue

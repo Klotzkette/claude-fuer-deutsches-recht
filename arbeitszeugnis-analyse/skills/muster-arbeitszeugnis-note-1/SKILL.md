@@ -1,6 +1,6 @@
 ---
 name: muster-arbeitszeugnis-note-1
-description: "Wenn es um Muster-Arbeitszeugnis Note 1 (Referenzdokument) in Arbeitszeugnis-Analyse geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Verhandlungs- oder Eskalationslinie mit Optionen."
+description: "Für Muster-Arbeitszeugnis Note 1 (Referenzdokument): ordnet Norm, Beweislast und Gegenargument; Ergebnis: Schnittstellenkarte mit Zuständigkeits- und Nachweisfragen."
 ---
 
 # Muster-Arbeitszeugnis Note 1 (Referenzdokument)

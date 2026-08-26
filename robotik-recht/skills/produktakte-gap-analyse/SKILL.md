@@ -1,6 +1,6 @@
 ---
 name: produktakte-gap-analyse
-description: "Wenn es um Produktakte Gap-Analyse in robotik-recht geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt. Auswahlstichwort: Produktakte Gap Analyse; Arbeitsfeld: robotik-recht."
+description: "Für Produktakte Gap-Analyse: ordnet Akte, Belege und Lücken; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt. Fachgebiet: robotik-recht. Route: produktakte-gap-analyse."
 ---
 
 # Produktakte Gap-Analyse

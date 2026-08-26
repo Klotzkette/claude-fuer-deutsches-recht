@@ -1,6 +1,6 @@
 ---
 name: echtes-und-unechtes-factoring-risikoverteilung
-description: "Wenn es um Echtes und unechtes Factoring Risikoverteilung in Factoring-Recht geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
+description: "Für Echtes und unechtes Factoring Risikoverteilung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Echtes und unechtes Factoring Risikoverteilung

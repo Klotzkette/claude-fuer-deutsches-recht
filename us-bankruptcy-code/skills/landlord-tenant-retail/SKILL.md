@@ -1,6 +1,6 @@
 ---
 name: landlord-tenant-retail
-description: "Wenn es um Landlord Tenant and Retail Bankruptcy in US Bankruptcy Code geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Landlord Tenant and Retail Bankruptcy: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Landlord Tenant and Retail Bankruptcy

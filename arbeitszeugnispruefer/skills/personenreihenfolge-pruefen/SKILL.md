@@ -1,6 +1,6 @@
 ---
 name: personenreihenfolge-pruefen
-description: "Wenn es um Personenreihenfolge pruefen in Arbeitszeugnispruefer geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen."
+description: "Für Personenreihenfolge prüfen: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Personenreihenfolge pruefen

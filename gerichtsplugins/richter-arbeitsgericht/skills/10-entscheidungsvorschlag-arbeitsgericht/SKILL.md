@@ -1,6 +1,6 @@
 ---
 name: 10-entscheidungsvorschlag-arbeitsgericht
-description: "Wenn es um 10 Entscheidungsvorschlag Arbeitsgericht in Arbeitsgericht geht: entwickelt Verhandlungsziel, Vergleichskorridor und Eskalationspfad; liefert eine Verhandlungs- oder Eskalationslinie mit Optionen."
+description: "Für 10 Entscheidungsvorschlag Arbeitsgericht: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # 10 Entscheidungsvorschlag Arbeitsgericht

@@ -1,6 +1,6 @@
 ---
 name: staedtebaulicher-vertrag-folgekostenvertrag
-description: "Wenn es um Folgekostenvertrag: Bedarf, Kausalität und Gesamtkonzept in Normenkontrolle Bauleitplanung — Paragraf 47 VwGO geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
+description: "Für Folgekostenvertrag: Bedarf, Kausalität und Gesamtkonzept: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Folgekostenvertrag: Bedarf, Kausalität und Gesamtkonzept

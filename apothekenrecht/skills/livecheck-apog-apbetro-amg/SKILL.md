@@ -1,6 +1,6 @@
 ---
 name: livecheck-apog-apbetro-amg
-description: "Wenn es um Livecheck ApoG ApBetrO AMG in Apothekenrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Livecheck ApoG ApBetrO AMG: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Livecheck ApoG ApBetrO AMG

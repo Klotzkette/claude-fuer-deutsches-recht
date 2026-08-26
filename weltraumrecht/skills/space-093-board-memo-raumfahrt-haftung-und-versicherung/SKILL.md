@@ -1,6 +1,6 @@
 ---
 name: space-093-board-memo-raumfahrt-haftung-und-versicherung
-description: "Wenn es um Weltraumrecht: Board Memo Raumfahrt Haftung und Versicherung in Weltraumrecht geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Weltraumrecht: Board Memo Raumfahrt Haftung und Versicherung: erstellt Entwurf mit Antrag, Beweis und Anlagen; Ergebnis: Schriftsatz mit Begründungs- und Anlagenlogik."
 ---
 
 # Weltraumrecht: Board Memo Raumfahrt Haftung und Versicherung

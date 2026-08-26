@@ -1,6 +1,6 @@
 ---
 name: entscheidungsvorlage
-description: "Wenn es um Entscheidungsvorlage in Berufsgerichtliche Verfahren Freie Berufe geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Mandantennachricht oder Entscheidungsvorlage."
+description: "Für Entscheidungsvorlage: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Mandantennachricht oder Entscheidungsvorlage. Fachgebiet: Berufsgerichtliche Verfahren Freie Berufe."
 ---
 
 # Entscheidungsvorlage

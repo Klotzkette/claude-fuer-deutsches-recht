@@ -1,6 +1,6 @@
 ---
 name: actio-denken-und-rechtsmechanik
-description: "Wenn es um Actio-Denken und Rechtsmechanik in Römisches Recht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen."
+description: "Für Actio-Denken und Rechtsmechanik: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Actio-Denken und Rechtsmechanik

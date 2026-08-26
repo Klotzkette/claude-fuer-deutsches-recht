@@ -1,6 +1,6 @@
 ---
 name: mr-betriebskostenabrechnung-mr
-description: "Wenn es um Mietrecht: Betriebskosten-Fehler in Mietrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Mietrecht: Betriebskosten-Fehler: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Mietrecht: Betriebskosten-Fehler

@@ -1,6 +1,6 @@
 ---
 name: grundbuchamt-flurbereinigung-und-umlegung
-description: "Wenn es um Flurbereinigung/Umlegung in Grundbuchamt Praxis geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Flurbereinigung/Umlegung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Flurbereinigung/Umlegung

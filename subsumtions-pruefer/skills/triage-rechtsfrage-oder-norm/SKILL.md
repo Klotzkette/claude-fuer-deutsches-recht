@@ -1,6 +1,6 @@
 ---
 name: triage-rechtsfrage-oder-norm
-description: "Wenn es um Triage: Rechtsfrage oder Norm? in Subsumtions-Prüfer geht: klärt Rolle, Ziel, Frist, Unterlagen und den passenden nächsten Fachskill; liefert eine Tatbestands- oder Anspruchsmatrix mit Gegenargumenten."
+description: "Für Triage: Rechtsfrage oder Norm?: routet Rolle, Frist, Unterlagen und Fachschritt; Ergebnis: Tatbestands- oder Anspruchsmatrix."
 ---
 
 # Triage: Rechtsfrage oder Norm?

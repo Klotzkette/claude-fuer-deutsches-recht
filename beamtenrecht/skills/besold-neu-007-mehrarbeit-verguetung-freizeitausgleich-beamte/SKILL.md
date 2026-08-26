@@ -1,6 +1,6 @@
 ---
 name: besold-neu-007-mehrarbeit-verguetung-freizeitausgleich-beamte
-description: "Wenn es um Beamtenrecht: Mehrarbeit Vergütung Freizeitausgleich Beamte in Beamtenrecht geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Beamtenrecht: Mehrarbeit Vergütung Freizeitausgleich Beamte: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Schnittstellenkarte mit Zuständigkeits- und Nachweisfragen."
 ---
 
 # Beamtenrecht: Mehrarbeit Vergütung Freizeitausgleich Beamte

@@ -1,6 +1,6 @@
 ---
 name: agb-formulararbeitsvertrag-305ff-bgb
-description: "Wenn es um Formulararbeitsvertrag in AGB-Recht-Prüfer geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert einen Einreichungsplan mit Form-, Portal- und Nachweischeck. Auswahlstichwort: Agb Formulararbeitsvertrag 305ff BGB; Arbeitsfeld: AGB-Recht-Prüfer."
+description: "Für Formulararbeitsvertrag: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Einreichungsplan mit Form- und Nachweischeck. Fachgebiet: AGB-Recht-Prüfer. Route: agb-formulararbeitsvertrag-305ff-bgb."
 ---
 
 # Formulararbeitsvertrag

@@ -1,6 +1,6 @@
 ---
 name: gwg-ubo-transparenzregister
-description: "Wenn es um UBO und Transparenzregister in Venture Capital Geber geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert einen Einreichungsplan mit Form-, Portal- und Nachweischeck."
+description: "Für UBO und Transparenzregister: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Einreichungsplan mit Form- und Nachweischeck."
 ---
 
 # UBO und Transparenzregister

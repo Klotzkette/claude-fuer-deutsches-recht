@@ -1,6 +1,6 @@
 ---
 name: anfg-einreden-verteidigung-grundtatbestand
-description: "Wenn es um Einreden und Verteidigung des Anfechtungsgegners — AnfG in bereicherungs-und-anfechtungsrecht-prüfer geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik. Auswahlstichwort: Anfg Einreden Verteidigung Grundtatbestand; Arbeitsfeld: bereicherungs-und-anfechtungsrecht-prüfer."
+description: "Für Einreden und Verteidigung des Anfechtungsgegners — AnfG: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Tatbestands- oder Anspruchsmatrix."
 ---
 
 # Einreden und Verteidigung des Anfechtungsgegners — AnfG

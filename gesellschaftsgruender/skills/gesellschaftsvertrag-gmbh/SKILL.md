@@ -1,6 +1,6 @@
 ---
 name: gesellschaftsvertrag-gmbh
-description: "Wenn es um GmbH-Gesellschaftsvertrag (Satzung) in gesellschaftsgründer — Gründungsassistent für deutsche geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für GmbH-Gesellschaftsvertrag (Satzung): ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # GmbH-Gesellschaftsvertrag (Satzung)

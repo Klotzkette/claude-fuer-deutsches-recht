@@ -1,6 +1,6 @@
 ---
 name: padlet-spalte-4-workflow
-description: "Wenn es um Padlet Reiter 4 Workflow aufbauen in Plugin: status-navigator-step-plan geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Padlet Reiter 4 Workflow aufbauen: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Padlet Reiter 4 Workflow aufbauen

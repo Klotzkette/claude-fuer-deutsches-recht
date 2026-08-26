@@ -1,6 +1,6 @@
 ---
 name: bmvg-reservisten-und-zivilschutzrecht
-description: "Wenn es um Reservistenrecht und Zivilschutzrecht (BMVg) in Legistik-Werkstatt geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen. Auswahlstichwort: Bmvg Reservisten Und Zivilschutzrecht; Arbeitsfeld: Legistik-Werkstatt."
+description: "Für Reservistenrecht und Zivilschutzrecht (BMVg): ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt. Fachgebiet: Legistik-Werkstatt. Route: bmvg-reservisten-und-zivilschutzrecht."
 ---
 
 # Reservistenrecht und Zivilschutzrecht (BMVg)

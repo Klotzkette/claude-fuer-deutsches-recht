@@ -1,6 +1,6 @@
 ---
 name: sanktion-einspruch-67-owig-frist-und-form
-description: "Wenn es um Einspruch Paragraf 67 OWiG Frist und Form in Datenschutzrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Einspruch Paragraf 67 OWiG Frist und Form: prüft Frist, Form, Zuständigkeit und Eilbedarf; Ergebnis: Fristen- und Risikoampel. Fachgebiet: Datenschutzrecht."
 ---
 
 # Einspruch § 67 OWiG Frist und Form
@@ -49,3 +49,7 @@ Bei substanziellem Bußgeld-, Art.-58- oder Gerichtsrisiko lade zusätzlich `dat
 - Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und offizieller oder frei zugänglicher Quelle verwenden. Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate.
 - EuGH C-807/21 und C-683/21 nur mit sauberer Kernaussage nutzen: unmittelbare Unternehmensgeldbuße ja; verschuldenslose Haftung nein.
 - Wenn ein Punkt nicht verifiziert ist, als Prüfpunkt markieren und keine Scheinpräzision erzeugen.
+
+## Vertiefung bei Bedarf
+
+- Bei `dsv-sanktion-einspruch-67-owig-frist-und-form` beziehungsweise Datenschutzrecht-Brückenskill: Einspruch § 67 OWiG Frist und Form: Zweiwochenfrist sichern und fristwahrenden Einspruch ohne unnötige Begründung einlegen: [die zusätzliche Vertiefung laden](./references/vertiefung-dsv-sanktion-einspruch-67-owig-frist-und-form.md).

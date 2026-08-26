@@ -1,6 +1,6 @@
 ---
 name: chronologie-und-belegmappe
-description: "Wenn es um Chronologie Und Belegmappe in Einigungsvertrag und Vermögensrecht geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Chronologie mit Belegmatrix und Widerspruchsliste."
+description: "Für Chronologie und Belegmappe: ordnet Akte, Belege und Lücken; Ergebnis: Chronologie mit Beleg- und Widerspruchsmatrix."
 ---
 
 # Chronologie Und Belegmappe

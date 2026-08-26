@@ -1,6 +1,6 @@
 ---
 name: 19-sitzungsdienst-und-fragerecht-hauptverhandlung
-description: "Wenn es um 19 Sitzungsdienst und Fragerecht Hauptverhandlung in Staatsanwaltschaft und Amtsanwaltschaft geht: entwickelt Verhandlungsziel, Vergleichskorridor und Eskalationspfad; liefert eine Beweislast- und Substantiierungsmatrix."
+description: "Für 19 Sitzungsdienst und Fragerecht Hauptverhandlung: entwickelt Ziel, Vergleich und Eskalation; Ergebnis: Verhandlungs- oder Eskalationslinie."
 ---
 
 # 19 Sitzungsdienst und Fragerecht Hauptverhandlung

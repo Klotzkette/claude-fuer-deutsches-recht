@@ -1,6 +1,6 @@
 ---
 name: lieferkettenereignis
-description: "Wenn es um Lieferkettenereignis – Insiderrecht und Ad-hoc-Pflicht in Insiderrecht Compliance geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Gegenprüfung mit Fehler-, Beweis- und Fristencheck."
+description: "Für Lieferkettenereignis – Insiderrecht und Ad-hoc-Pflicht: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Lieferkettenereignis – Insiderrecht und Ad-hoc-Pflicht

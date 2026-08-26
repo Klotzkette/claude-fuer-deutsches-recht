@@ -1,6 +1,6 @@
 ---
 name: uwg-irrefuehrung-verbraucherbezug
-description: "Wenn es um Uwg Irrefuehrung Verbraucherbezug in Verbraucherschutzrecht Prüfer geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Uwg Irreführung Verbraucherbezug: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Uwg Irrefuehrung Verbraucherbezug

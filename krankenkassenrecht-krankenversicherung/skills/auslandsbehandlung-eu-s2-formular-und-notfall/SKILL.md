@@ -1,6 +1,6 @@
 ---
 name: auslandsbehandlung-eu-s2-formular-und-notfall
-description: "Wenn es um Auslandsbehandlung: EU, S2-Formular und Notfall in Krankenkassenrecht und Krankenversicherung geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Auslandsbehandlung: EU, S2-Formular und Notfall: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Einreichungsplan mit Form- und Nachweischeck."
 ---
 
 # Auslandsbehandlung: EU, S2-Formular und Notfall

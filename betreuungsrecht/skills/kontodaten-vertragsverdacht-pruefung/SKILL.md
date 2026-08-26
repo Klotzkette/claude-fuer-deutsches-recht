@@ -1,6 +1,6 @@
 ---
 name: kontodaten-vertragsverdacht-pruefung
-description: "Wenn es um Kontodaten- und Vertragsverdacht-Prüfung in Betreuungsrecht geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Dokumentenmatrix mit Nachforderungsliste."
+description: "Für Kontodaten- und Vertragsverdacht-Prüfung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Tatbestands- oder Anspruchsmatrix."
 ---
 
 # Kontodaten- und Vertragsverdacht-Prüfung

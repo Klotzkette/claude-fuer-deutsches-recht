@@ -1,6 +1,6 @@
 ---
 name: versorgungslastenteilung-107b-beamtvg
-description: "Wenn es um Versorgungslastenteilung bei Dienstherrenwechsel in Beamtenrecht geht: rechnet Schwellen, Beträge, Varianten und Kontrollannahmen durch; liefert eine Berechnungstabelle mit Schwellen, Annahmen und Kontrollfragen."
+description: "Für Versorgungslastenteilung bei Dienstherrenwechsel: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Versorgungslastenteilung bei Dienstherrenwechsel

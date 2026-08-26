@@ -1,6 +1,6 @@
 ---
 name: klauseln-beweislast-darlegungslast
-description: "Wenn es um Klauseln: Beweislast, Darlegungslast und Substantiierung in diesem Spezialbereich geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Klauseln: Beweislast, Darlegungslast und Substantiierung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Beweislast- und Substantiierungsmatrix. Fachgebiet: anwaltlichem Berufsrecht und Vertragsprüfung. Route: klauseln-beweislast-darlegungslast."
 ---
 
 # Klauseln: Beweislast, Darlegungslast und Substantiierung

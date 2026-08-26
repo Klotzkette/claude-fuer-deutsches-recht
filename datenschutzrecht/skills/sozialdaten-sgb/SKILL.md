@@ -1,6 +1,6 @@
 ---
 name: sozialdaten-sgb
-description: "Wenn es um Sozialdaten im Datenschutzvorfall — SGB I und SGB X in Datenschutzrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Sozialdaten im Datenschutzvorfall — SGB I und SGB X: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Sozialdaten im Datenschutzvorfall — SGB I und SGB X
@@ -47,3 +47,7 @@ Berichtsformate parallel halten; Konsistenz beachten.
 
 - `dsv-art-9-besondere-kategorien` deckt Gesundheitsdaten ab.
 - `dsv-paragraf-203-stgb-berufsgeheimnis` deckt aerztliches Geheimnis ab.
+
+## Vertiefung bei Bedarf
+
+- Bei `dsv-sozialdaten-sgb` beziehungsweise Bewertet einen Datenschutzvorfall bei Sozialleistungsträgern, Sozialversicherungen und sozialen Diensten nach den Sondervorschriften der Sozialgesetzbücher: [die zusätzliche Vertiefung laden](./references/vertiefung-dsv-sozialdaten-sgb.md).

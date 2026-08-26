@@ -1,6 +1,6 @@
 ---
 name: rechtshilfe-international-ristbv-finden
-description: "Wenn es um Internationale Rechtshilfe in Staatsanwaltschaft Praxis-Einstieg geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Internationale Rechtshilfe: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Schnittstellenkarte mit Zuständigkeits- und Nachweisfragen. Fachgebiet: Staatsanwaltschaft Praxis-Einstieg. Route: rechtshilfe-international-ristbv-finden."
 ---
 
 # Internationale Rechtshilfe

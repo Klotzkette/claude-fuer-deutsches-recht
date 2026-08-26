@@ -1,6 +1,6 @@
 ---
 name: bankentgelte-betroffenenformular-bauen
-description: "Wenn es um Bankentgelte Betroffenenformular Bauen in Verbraucherschutzverband Durchsetzung geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Bankentgelte Betroffenenformular Bauen: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Einreichungsplan mit Form- und Nachweischeck."
 ---
 
 # Bankentgelte Betroffenenformular Bauen

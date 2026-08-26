@@ -1,6 +1,6 @@
 ---
 name: int-verrechnungspreise-1-astg
-description: "Wenn es um Int Verrechnungspreise 1 Astg in Steuerrecht – Steuerberater und Anwälte geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Verhandlungs- oder Eskalationslinie mit Optionen."
+description: "Für Int Verrechnungspreise 1 Astg: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Verrechnungspreise im Internationalen Steuerrecht — § 1 AStG und Dokumentation § 90 Abs. 3 AO

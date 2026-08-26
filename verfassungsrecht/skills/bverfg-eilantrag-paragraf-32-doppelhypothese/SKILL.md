@@ -1,6 +1,6 @@
 ---
 name: bverfg-eilantrag-paragraf-32-doppelhypothese
-description: "Wenn es um BVerfG-Eilantrag nach Paragraf 32 BVerfGG in verfassungsrecht geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert eine Gegenprüfung mit Fehler-, Beweis- und Fristencheck."
+description: "Für BVerfG-Eilantrag nach Paragraf 32 BVerfGG: erstellt Entwurf mit Antrag, Beweis und Anlagen; Ergebnis: Schriftsatz mit Begründungs- und Anlagenlogik."
 ---
 
 # BVerfG-Eilantrag nach § 32 BVerfGG

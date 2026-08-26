@@ -1,6 +1,6 @@
 ---
 name: table-term-interessen
-description: "Wenn es um Table: Zahlen, Schwellenwerte und Berechnung in Didaktisches Gesellschaftsrecht — English Business Terms geht: rechnet Schwellen, Beträge, Varianten und Kontrollannahmen durch; liefert eine Berechnungstabelle mit Schwellen, Annahmen und Kontrollfragen."
+description: "Für Table: Zahlen, Schwellenwerte und Berechnung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Table: Zahlen, Schwellenwerte und Berechnung

@@ -1,6 +1,6 @@
 ---
 name: tbm-grundrechte-grch-kandidatenloesung
-description: "Wenn es um Gegen-TBM und Einreden prüfen in Subsumtions-Prüfer geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
+description: "Für Gegen-TBM und Einreden prüfen: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Gegen-TBM und Einreden prüfen

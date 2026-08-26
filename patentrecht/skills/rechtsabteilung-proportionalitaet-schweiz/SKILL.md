@@ -1,6 +1,6 @@
 ---
 name: rechtsabteilung-proportionalitaet-schweiz
-description: "Wenn es um Rechtsabteilung: Proportionalität der Unterlassung Paragraf 139 PatG in patentrecht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
+description: "Für Rechtsabteilung: Proportionalität der Unterlassung Paragraf 139 PatG: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Rechtsabteilung: Proportionalität der Unterlassung § 139 PatG

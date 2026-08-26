@@ -1,6 +1,6 @@
 ---
 name: ip-it-data-assets-dd
-description: "Wenn es um Ip It Data Assets Dd in Großkanzlei Corporate/M&A geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Ip It Data Assets Dd: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # IP, IT und Data Assets Due Diligence: prüft Rechteketten, Software, Open Source, Lizenzen, Datenrechte, KI-Assets, Cyberrisiken und Change-of-Control.

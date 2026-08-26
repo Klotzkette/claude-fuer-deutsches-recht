@@ -1,6 +1,6 @@
 ---
 name: manager-dawn
-description: "Wenn es um Interviews mit Führungskräften und Organmitgliedern in Internal Investigations Praxis geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Verhandlungs- oder Eskalationslinie mit Optionen."
+description: "Für Interviews mit Führungskräften und Organmitgliedern: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Interviews mit Führungskräften und Organmitgliedern

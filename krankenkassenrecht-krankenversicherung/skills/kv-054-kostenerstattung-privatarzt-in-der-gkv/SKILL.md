@@ -1,6 +1,6 @@
 ---
 name: kv-054-kostenerstattung-privatarzt-in-der-gkv
-description: "Wenn es um Krankenversicherung: Kostenerstattung Privatarzt in der GKV in Krankenkassenrecht und Krankenversicherung geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Krankenversicherung: Kostenerstattung Privatarzt in der GKV: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Krankenversicherung: Kostenerstattung Privatarzt in der GKV

@@ -1,6 +1,6 @@
 ---
 name: grundbuchanalyse-zahlen-schwellen-und-berechnung
-description: "Wenn es um Grundbuchanalyse: Zahlen, Schwellenwerte und Berechnung in Immobilienrechtspraxis geht: rechnet Schwellen, Beträge, Varianten und Kontrollannahmen durch; liefert eine Berechnungstabelle mit Schwellen, Annahmen und Kontrollfragen."
+description: "Für Grundbuchanalyse: Zahlen, Schwellenwerte und Berechnung: rechnet Beträge, Schwellen und Varianten; Ergebnis: Berechnungstabelle mit Annahmen und Kontrollfragen."
 ---
 
 # Grundbuchanalyse: Zahlen, Schwellenwerte und Berechnung

@@ -1,6 +1,6 @@
 ---
 name: einstweilige-verfuegung-markennutzung-stoppen
-description: "Wenn es um Franchiserecht: Einstweilige Verfügung – Markennutzung stoppen in Franchiserecht Praxis geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Tatbestands- oder Anspruchsmatrix mit Gegenargumenten."
+description: "Für Franchiserecht: Einstweilige Verfügung – Markennutzung stoppen: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Franchiserecht: Einstweilige Verfügung – Markennutzung stoppen

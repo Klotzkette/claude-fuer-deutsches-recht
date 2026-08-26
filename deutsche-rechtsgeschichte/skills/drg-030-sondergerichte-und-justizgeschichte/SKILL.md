@@ -1,6 +1,6 @@
 ---
 name: drg-030-sondergerichte-und-justizgeschichte
-description: "Wenn es um Sondergerichte Und Justizgeschichte in Deutsche Rechtsgeschichte geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Sondergerichte und Justizgeschichte: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Sondergerichte Und Justizgeschichte

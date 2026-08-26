@@ -1,6 +1,6 @@
 ---
 name: minority-investment-und-protective-rights
-description: "Wenn es um Minority Investment und Protective Rights in Private Equity Praxis geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Minority Investment und Protective Rights: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Minority Investment und Protective Rights

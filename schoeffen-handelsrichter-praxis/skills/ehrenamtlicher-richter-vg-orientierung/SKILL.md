@@ -1,6 +1,6 @@
 ---
 name: ehrenamtlicher-richter-vg-orientierung
-description: "Wenn es um Ehrenamtlicher Richter Verwaltungsgericht: Orientierung in Schöffen und Handelsrichter Praxis geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
+description: "Für Ehrenamtlicher Richter Verwaltungsgericht: Orientierung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Ehrenamtlicher Richter Verwaltungsgericht: Orientierung

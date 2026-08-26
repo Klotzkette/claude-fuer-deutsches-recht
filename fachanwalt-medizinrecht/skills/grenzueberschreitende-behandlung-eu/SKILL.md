@@ -1,6 +1,6 @@
 ---
 name: grenzueberschreitende-behandlung-eu
-description: "Wenn es um Grenzueberschreitende Behandlung EU in Fachanwalt Medizinrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Grenzüberschreitende Behandlung EU: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Schnittstellenkarte mit Zuständigkeits- und Nachweisfragen."
 ---
 
 # Grenzüberschreitende Behandlung EU: moderner Medizinrechts-Skill für Auslandsbehandlung, Richtlinie 2011/24/EU, Erstattung, Haftungsstatut und Beweis

@@ -1,6 +1,6 @@
 ---
 name: vertreter-beweislast-und-darlegungslast
-description: "Wenn es um Vertreter: Beweislast, Darlegungslast und Substantiierung in DSA, DMA und Digitalregulierung der EU geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Vertreter: Beweislast, Darlegungslast und Substantiierung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Beweislast- und Substantiierungsmatrix."
 ---
 
 # Vertreter: Beweislast, Darlegungslast und Substantiierung

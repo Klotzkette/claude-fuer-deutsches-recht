@@ -1,6 +1,6 @@
 ---
 name: transaktionsstruktur
-description: "Wenn es um Transaktionsstruktur in Corporate-Kanzlei geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Beweislast- und Substantiierungsmatrix. Auswahlstichwort: Transaktionsstruktur; Arbeitsfeld: Corporate-Kanzlei."
+description: "Für Transaktionsstruktur: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt. Fachgebiet: Corporate-Kanzlei. Route: transaktionsstruktur."
 ---
 
 # Transaktionsstruktur

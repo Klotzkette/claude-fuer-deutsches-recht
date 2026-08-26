@@ -1,6 +1,6 @@
 ---
 name: evvollzug-auslandszustellung-ev-abmahnung
-description: "Wenn es um EV-Vollzug 006: Auslandszustellung der EV und Übersetzungspflicht in Plugin: Gewerblicher Rechtsschutz geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für EV-Vollzug 006: Auslandszustellung der EV und Übersetzungspflicht: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Schnittstellenkarte mit Zuständigkeits- und Nachweisfragen."
 ---
 
 # EV-Vollzug 006: Auslandszustellung der EV und Übersetzungspflicht

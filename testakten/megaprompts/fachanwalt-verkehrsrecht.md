@@ -8,14 +8,14 @@ Diese Vollprüfung enthält top-10 von 79 Skills des Plugins `fachanwalt-verkehr
 
 1. **juristischer-argumentationskern** — Schaltet sich ein, wenn in Fachanwalt Verkehrsrecht ein juristisches Arbeitsprodukt tragfähig begründet werden muss; ver…
 2. **verkehrsprozess-versandmappe-endfertigen** — Endfertigt Verkehrsunfall-, Kaskoversicherungs-, Fahrerlaubnis- und Bußgeldschriftsätze: trennt Zivil-, Verwaltungs-, St…
-3. **einstieg-routing** — Wenn es um Anwalts-Dashboard Fachanwalt Verkehrsrecht in Fachanwalt Verkehrsrecht geht: klärt Rolle, Ziel, Frist, Unterl…
-4. **mandat-triage-verkehrsrecht** — Wenn es um Neues Verkehrsrechtsmandat kommt rein und Anwalt muss Sachgebiet klären und Fristen prüfen in Fachanwalt Verk…
-5. **fachanwalt-verkehrsrecht-orientierung** — Wenn es um Fachanwalt für Verkehrsrecht — Orientierung in Fachanwalt Verkehrsrecht geht: prüft Frist, Form, Zuständigkei…
-6. **erstgespraech-mandatsannahme** — Wenn es um Erstgespraech Mandatsannahme in Fachanwalt Verkehrsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg un…
-7. **erstpruefung-und-mandatsziel** — Wenn es um Fachanwalt: Erstprüfung, Rollenklärung und Mandatsziel in Fachanwalt Verkehrsrecht geht: klärt Rolle, Ziel, F…
-8. **fachanwalt-verkehrsrecht-regulierungsanforderung** — Wenn es um Regulierungsanforderung in Fachanwalt Verkehrsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sof…
-9. **kaskoversicherung-unfallort-aufklaerungsobliegenheit** — Prüft Kaskoleistung nach Entfernen vom Unfallort oder fehlerhafter Schadenmeldung. Trennt Herbeiführung des Versicherung…
-10. **regulierungsanforderung** — Wenn es um Regulierungsanforderung in Fachanwalt Verkehrsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sof…
+3. **einstieg-routing** — Für Anwalts-Dashboard Fachanwalt Verkehrsrecht: routet Rolle, Frist, Unterlagen und Fachschritt; Ergebnis: Prüfprodukt m…
+4. **mandat-triage-verkehrsrecht** — Für Neues Verkehrsrechtsmandat kommt rein und Anwalt muss Sachgebiet klären und Fristen prüfen: routet Rolle, Frist, Unt…
+5. **fachanwalt-verkehrsrecht-orientierung** — Für Fachanwalt für Verkehrsrecht — Orientierung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Ri…
+6. **erstgespraech-mandatsannahme** — Für Erstgespräch Mandatsannahme: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächste…
+7. **erstpruefung-und-mandatsziel** — Für Fachanwalt: Erstprüfung, Rollenklärung und Mandatsziel: routet Rolle, Frist, Unterlagen und Fachschritt; Ergebnis: T…
+8. **fachanwalt-verkehrsrecht-regulierungsanforderung** — Für Regulierungsanforderung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Sc…
+9. **fahrerlaubnis-punktesystem-paragraf-4-stvg** — Prüft Maßnahmen des Fahreignungs-Bewertungssystems anhand Tattag, Rechtskraft, Punktestand und Tilgung, rekonstruiert Er…
+10. **regulierungsanforderung** — Für Regulierungsanforderung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Sc…
 
 ---
 
@@ -164,7 +164,7 @@ Liefere je Verfahrensspur Schriftsatz, Einzelanlagen, Fristenblatt, Haftungs- od
 
 ## Skill: `einstieg-routing`
 
-_Wenn es um Anwalts-Dashboard Fachanwalt Verkehrsrecht in Fachanwalt Verkehrsrecht geht: klärt Rolle, Ziel, Frist, Unterlagen und den passenden nächsten Fachskill; liefert eine Fristen- und Risikoampel mit Sofortschritten._
+_Für Anwalts-Dashboard Fachanwalt Verkehrsrecht: routet Rolle, Frist, Unterlagen und Fachschritt; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt._
 
 # Anwalts-Dashboard Fachanwalt Verkehrsrecht
 
@@ -230,7 +230,7 @@ Diese Triage ist Ihre Vorbereitung, nicht Ihre Entscheidung. Sie führen das Man
 
 ## Skill: `mandat-triage-verkehrsrecht`
 
-_Wenn es um Neues Verkehrsrechtsmandat kommt rein und Anwalt muss Sachgebiet klären und Fristen prüfen in Fachanwalt Verkehrsrecht geht: klärt Rolle, Ziel, Frist, Unterlagen und den passenden nächsten Fachskill; liefert eine Fristen- und Risikoampel mit Sofortschritten._
+_Für Neues Verkehrsrechtsmandat kommt rein und Anwalt muss Sachgebiet klären und Fristen prüfen: routet Rolle, Frist, Unterlagen und Fachschritt; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt._
 
 # Neues Verkehrsrechtsmandat kommt rein und Anwalt muss Sachgebiet klären und Fristen prüfen
 
@@ -393,7 +393,7 @@ Verifizierte Aktenzeichen mit offener Quelle (vor Versand jeweils Volltext in de
 
 ## Skill: `fachanwalt-verkehrsrecht-orientierung`
 
-_Wenn es um Fachanwalt für Verkehrsrecht — Orientierung in Fachanwalt Verkehrsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten._
+_Für Fachanwalt für Verkehrsrecht — Orientierung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt._
 
 # Fachanwalt für Verkehrsrecht — Orientierung
 
@@ -460,7 +460,7 @@ Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwiss
 
 ## Skill: `erstgespraech-mandatsannahme`
 
-_Wenn es um Erstgespraech Mandatsannahme in Fachanwalt Verkehrsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten._
+_Für Erstgespräch Mandatsannahme: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt. Fachgebiet: Fachanwalt Verkehrsrecht._
 
 # Strukturierter Erstgespraechsleitfaden für Verkehrsrecht (Unfall-, OWi- und Verkehrsstrafrecht): Erfassung der Konstellation, Konflikt- und GwG-Check, Vollmacht, Streitwert/Gebührenvereinbarung, Fristen-Erstprognose und Handlungsweichen.
 
@@ -638,7 +638,7 @@ Frueheres Mandat mit derselben Gegnerin oder gleichem Sachzusammenhang. Prüfung
 
 ## Skill: `erstpruefung-und-mandatsziel`
 
-_Wenn es um Fachanwalt: Erstprüfung, Rollenklärung und Mandatsziel in Fachanwalt Verkehrsrecht geht: klärt Rolle, Ziel, Frist, Unterlagen und den passenden nächsten Fachskill; liefert eine Fristen- und Risikoampel mit Sofortschritten._
+_Für Fachanwalt: Erstprüfung, Rollenklärung und Mandatsziel: routet Rolle, Frist, Unterlagen und Fachschritt; Ergebnis: Tatbestands- oder Anspruchsmatrix. Fachgebiet: Fachanwalt Verkehrsrecht._
 
 # Fachanwalt: Erstprüfung, Rollenklärung und Mandatsziel
 
@@ -699,7 +699,7 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 
 ## Skill: `fachanwalt-verkehrsrecht-regulierungsanforderung`
 
-_Wenn es um Regulierungsanforderung in Fachanwalt Verkehrsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. Auswahlstichwort: Fachanwalt Verkehrsrecht Regulierungsanforderung; Arbeitsfeld: Fachanwalt Verkehrsrecht._
+_Für Regulierungsanforderung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt. Fachgebiet: Fachanwalt Verkehrsrecht. Route: fachanwalt-verkehrsrecht-regulierungsanforderung._
 
 # Regulierungsanforderung
 
@@ -1017,57 +1017,47 @@ Aktueller Stand Mai 2026 (verifizierte Aktenzeichen mit offener Quelle):
 
 ---
 
-## Skill: `kaskoversicherung-unfallort-aufklaerungsobliegenheit`
+## Skill: `fahrerlaubnis-punktesystem-paragraf-4-stvg`
 
-_Prüft Kaskoleistung nach Entfernen vom Unfallort oder fehlerhafter Schadenmeldung. Trennt Herbeiführung des Versicherungsfalls nach Paragraf 81 VVG von nachträglicher Aufklärungsobliegenheit nach Paragraf 28 VVG und liefert AKB-Prüfung, Kausalitätsgegenbeweis und Deckungsklage._
+_Prüft Maßnahmen des Fahreignungs-Bewertungssystems anhand Tattag, Rechtskraft, Punktestand und Tilgung, rekonstruiert Ermahnung, Verwarnung und Entziehung und liefert eine belastbare Rechtsbehelfsstrategie._
 
-# Kaskoleistung und Aufklärungsobliegenheit prüfen
+# Fahrerlaubnis-Punktesystem prüfen
 
-## 1. Einsatzlage
+## 1. Einsatz und Ziel
 
-Nach einem Fahrzeugschaden verlässt der Fahrer den Unfallort, meldet verspätet oder macht unvollständige Angaben. Das Entfernen nach dem Ereignis ist grundsätzlich eine Frage der vertraglichen Aufklärungsobliegenheit und Paragraf 28 VVG; Paragraf 81 VVG betrifft dagegen die vorsätzliche oder grob fahrlässige Herbeiführung des Versicherungsfalls selbst.
+Rekonstruiere den Punktestand ereignisbezogen. Ein aktueller Registerauszug allein beantwortet nicht, welcher Punktestand bei Ergreifen einer Maßnahme maßgeblich war.
 
 ## 2. Normenanker
 
-- Paragraf 81 VVG: vorsätzliche oder grob fahrlässige Herbeiführung des Versicherungsfalls und Quotelung.
-- Paragraf 28 VVG: Rechtsfolgen einer vertraglichen Obliegenheitsverletzung, Verschulden, Kausalitätsgegenbeweis und Arglist.
-- Paragrafen 30 und 31 VVG: Anzeige des Versicherungsfalls und Auskunfts- sowie Belegpflicht.
-- Paragraf 142 StGB: strafrechtliche Feststellungspflichten als möglicher Bezugspunkt, ohne automatische Gleichsetzung mit der versicherungsvertraglichen Obliegenheit.
-- AKB in der bei Vertragsschluss einbezogenen Fassung: konkrete Melde-, Warte-, Aufklärungs- und Polizeipflichten.
+- Paragraf 4 StVG: Fahreignungs-Bewertungssystem, Maßnahmenstufen und Entziehung.
+- Paragraf 28 StVG: Eintragung in das Fahreignungsregister.
+- Paragraf 29 StVG: Tilgung und Überliegefrist.
+- Paragraf 40 FeV in Verbindung mit Anlage 13 FeV: Bewertung einzelner Zuwiderhandlungen.
+- Paragraf 80 Absatz 5 VwGO: vorläufiger Rechtsschutz gegen die sofort vollziehbare Entziehung.
 
-## 3. Rechtsprechungsanker
+## 3. Prüfprogramm
 
-- BGH, Urteil vom 21. November 2012 - IV ZR 97/11: Strafrechtliche Pflicht und versicherungsvertragliche Aufklärungsobliegenheit sind nicht deckungsgleich. Wer sich erlaubt entfernt, kann durch rechtzeitige nachträgliche Feststellungen die Versichererinteressen wahren; die konkrete Kausalität bleibt zu prüfen.
-- BGH, Urteil vom 26. Januar 2005 - IV ZR 239/03: Aufklärungsobliegenheiten schützen das Informationsinteresse des Versicherers. Kennt der Versicherer den maßgeblichen Umstand bereits, fehlt insoweit ein schutzwürdiges Aufklärungsbedürfnis. Die Entscheidung erging zum alten VVG; die Wertung ist nur im Rahmen des heutigen Paragraf 28 VVG und der konkreten AKB zu übertragen.
-- Die Entscheidung IV ZR 25/21 ist kein verifizierter Leitanker für diese Fallgruppe und wird nicht verwendet.
+1. Für jede Tat Tattag, Rechtskraftdatum, Punktezahl, Tilgungsbeginn und Tilgungsende erfassen.
+2. Punktestand bei Ermahnung, Verwarnung und Entziehung getrennt berechnen.
+3. Prüfen, ob die Behörde die gesetzliche Stufenfolge beachtet und die gesetzlich vorgesehene Reduzierung bei übersprungener Maßnahme angewandt hat.
+4. Fahreignungsseminar, Punkteabzug und zeitliche Grenzen nur anhand der im jeweiligen Zeitpunkt geltenden Fassung bewerten.
+5. Registerfehler, Identität, Doppelbewertung und noch nicht rechtskräftige Eintragungen ausscheiden.
 
-## 4. Prüfprogramm
+## 4. Beweis- und Fristenmerker
 
-1. Versicherungsvertrag, AKB, Fahrer, versichertes Ereignis und Schadenzeitpunkt feststellen. Kollision, Eigenschaden, Diebstahl und Vandalismus nicht vermischen.
-2. Herbeiführung des Versicherungsfalls nach Paragraf 81 VVG getrennt prüfen: Fahrverhalten, Alkohol, Geschwindigkeit, Vorsatz und grobe Fahrlässigkeit.
-3. Verhalten nach dem Ereignis chronologisch erfassen: Wartezeit, Rückkehr, Polizei, Geschädigter, Versicherer, Schadenanzeige und Korrekturen.
-4. Konkrete AKB-Obliegenheit auslegen und objektive Verletzung prüfen. Ein Verstoß gegen Paragraf 142 StGB ersetzt diese Vertragsprüfung nicht.
-5. Verschuldensgrad bestimmen. Bei vorsätzlicher Verletzung droht Leistungsfreiheit, bei grober Fahrlässigkeit Quotelung; gesetzliche Beweisregeln beachten.
-6. Kausalitätsgegenbeweis nach Paragraf 28 Absatz 3 VVG führen: Alkohol, Fahrereigenschaft, Unfallhergang und Schadenhöhe müssen trotz Verstoß zuverlässig feststellbar geblieben sein. Arglist gesondert prüfen.
-7. Belehrungsanforderungen, Regulierungsverhalten und rechtzeitige Berufung des Versicherers auf Leistungsfreiheit kontrollieren.
+- Vollständige Registerauskunft und sämtliche Maßnahmeschreiben beiziehen.
+- Zustellung und Rechtsbehelfsbelehrung dokumentieren.
+- Eine Entziehung bei acht oder mehr Punkten ist keine Ermessensentscheidung; angreifen lassen sich vor allem Berechnung, Verfahrensstufe und Registergrundlage.
 
 ## 5. Arbeitsergebnis
 
-Erstelle Ereignis- und Meldungszeitachse, getrennte Matrix zu Paragraf 81 und Paragraf 28 VVG, AKB-Auslegung, Verschuldens- und Kausalitätsprüfung, Quotenrechnung und Deckungsklage oder Regulierungsentscheidung.
-
-## 6. Belege und Aktenlücken
-
-- Versicherungsschein und vollständige AKB
-- Polizeivorgang, Unfallaufnahme und Strafakte
-- Fotos, Telematik, Gutachten und Reparaturunterlagen
-- Schadenanzeigen, Nachfragen und Korrespondenz
-- Alkohol-, Fahrer- und Zeugenbeweise
+Liefere eine chronologische Punktetabelle, eine Maßnahmenprüfung und einen begründeten Widerspruchs-, Klage- oder Eilantragsentwurf.
 
 ---
 
 ## Skill: `regulierungsanforderung`
 
-_Wenn es um Regulierungsanforderung in Fachanwalt Verkehrsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. Auswahlstichwort: Regulierungsanforderung; Arbeitsfeld: Fachanwalt Verkehrsrecht._
+_Für Regulierungsanforderung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt. Fachgebiet: Fachanwalt Verkehrsrecht. Route: regulierungsanforderung._
 
 # Mandant hat Verkehrsunfall und fordert Schadensersatz vom Haftpflichtversicherer des Unfallverursachers
 

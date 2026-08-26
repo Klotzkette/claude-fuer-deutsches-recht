@@ -1,6 +1,6 @@
 ---
 name: plan-stabilisierung-stakeholder
-description: "Wenn es um IV-integrierte StaRUG-Stabilisierung in Insolvenzverwaltung - IV-Cockpit geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
+description: "Für IV-integrierte StaRUG-Stabilisierung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # IV-integrierte StaRUG-Stabilisierung

@@ -1,6 +1,6 @@
 ---
 name: untreue-urheberrecht
-description: "Wenn es um Untreue Paragraf 266 StGB in Strafanzeige-Vorbereiter geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Untreue Paragraf 266 StGB: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Schnittstellenkarte mit Zuständigkeits- und Nachweisfragen."
 ---
 
 # Untreue § 266 StGB

@@ -1,6 +1,6 @@
 ---
 name: juniorprofessur-tenure-track
-description: "Wenn es um Juniorprofessur Tenure Track in Hochschulrecht der Bundesländer geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Juniorprofessur Tenure Track: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Juniorprofessur Tenure Track

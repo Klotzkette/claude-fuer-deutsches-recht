@@ -1,6 +1,6 @@
 ---
 name: auszahlungsvoraussetzungen-kaufpreis
-description: "Wenn es um Notariat im Alltag: Auszahlungsvoraussetzungen – Kaufpreis, Löschungsunterlagen in Notariat im Alltag geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Dokumentenmatrix mit Nachforderungsliste."
+description: "Für Notariat im Alltag: Auszahlungsvoraussetzungen – Kaufpreis, Löschungsunterlagen: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Notariat im Alltag: Auszahlungsvoraussetzungen – Kaufpreis, Löschungsunterlagen

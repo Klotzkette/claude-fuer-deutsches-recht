@@ -1,6 +1,6 @@
 ---
 name: anhoerung-verkehrsowi-einspruch-messverfahren
-description: "Wenn es um Anhörung: Fristen, Form, Zuständigkeit und Rechtsweg in VerkehrsOWi-Verteidiger geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Anhörung: Fristen, Form, Zuständigkeit und Rechtsweg: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Anhörung: Fristen, Form, Zuständigkeit und Rechtsweg

@@ -1,6 +1,6 @@
 ---
 name: lektorat-struktur-manuskriptaufnahme
-description: "Wenn es um Lektorat, Struktur und Redaktion in Verlagsredaktion geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
+description: "Für Lektorat, Struktur und Redaktion: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Lektorat, Struktur und Redaktion

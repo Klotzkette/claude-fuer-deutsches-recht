@@ -1,6 +1,6 @@
 ---
 name: beschlussanfechtung-compliance-dokumentation-und-akte
-description: "Wenn es um Beschlussanfechtung Compliance Dokumentation Und Akte in Fachanwalt Miet- und Wohnungseigentumsrecht geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
+description: "Für Beschlussanfechtung Compliance Dokumentation und Akte: ordnet Akte, Belege und Lücken; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Beschlussanfechtung: Compliance-Dokumentation und Aktenvermerk im Miet- und WEG-Recht: fachlich vertieftes Modul mit Normenradar (BGB/WEG/BetrKV/GEG), Tatbestands-/Beweislastmatrix, Fristen- und Formcheck, Gegenargumenten, Fehlerbremse und direkt nutzbarem Arbeitsprodukt.
@@ -51,3 +51,7 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 - **Streitwert § 49 GKG:** Bedeutung des Beschlusses für den Kläger und die übrigen Wohnungseigentümer; gedeckelt auf 7,5-fachen Wert des Klägerinteresses, mindestens das halbe Gemeinschaftsinteresse, maximal das volle Verkehrsinteresse.
 - **Vorläufige Vollziehbarkeit:** Beschluss ist trotz Anfechtung wirksam bis zur Rechtskraft des stattgebenden Urteils (§ 23 Abs. 4 WEG), d. h. Zahlungsbeschlüsse sind sofort vollstreckbar.
 - **Praktiker-Tipp:** Versammlungsprotokoll, Einladung und Tagesordnung sofort sichern; Beweis des Beschlussinhalts liegt häufig im Verwalterbesitz - Anspruch auf Einsicht aus § 18 Abs. 4 WEG ggf. einstweilig durchsetzen.
+
+## Vertiefung bei Bedarf
+
+- Bei `spezial-beschlussanfechtung-compliance-dokumentation-und-akte` beziehungsweise Beschlussanfechtung: Compliance-Dokumentation und Aktenvermerk: [die zusätzliche Vertiefung laden](./references/vertiefung-spezial-beschlussanfechtung-compliance-dokumentation-und-akte.md).

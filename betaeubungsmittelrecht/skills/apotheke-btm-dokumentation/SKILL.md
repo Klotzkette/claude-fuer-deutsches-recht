@@ -1,6 +1,6 @@
 ---
 name: apotheke-btm-dokumentation
-description: "Wenn es um Apotheke Btm Dokumentation in Betäubungsmittelrecht geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen."
+description: "Für Apotheke Btm Dokumentation: ordnet Akte, Belege und Lücken; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Apotheke Btm Dokumentation

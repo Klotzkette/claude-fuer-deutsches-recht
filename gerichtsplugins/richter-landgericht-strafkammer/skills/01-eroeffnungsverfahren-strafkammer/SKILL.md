@@ -1,6 +1,6 @@
 ---
 name: 01-eroeffnungsverfahren-strafkammer
-description: "Wenn es um 01 Eröffnungsverfahren Strafkammer in Strafkammer am Landgericht geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
+description: "Für 01 Eröffnungsverfahren Strafkammer: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # 01 Eröffnungsverfahren Strafkammer

@@ -1,6 +1,6 @@
 ---
 name: steuerberater-153-ao-berichtigung-verteidigung
-description: "Wenn es um Steuerberater Paragraf 153 AO Berichtigung: Verteidigungs- und Kammerantwort in Berufsgerichtliche Verfahren Freie Berufe geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen."
+description: "Für Steuerberater Paragraf 153 AO Berichtigung: Verteidigungs- und Kammerantwort: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Schnittstellenkarte mit Zuständigkeits- und Nachweisfragen."
 ---
 
 # Steuerberater § 153 AO Berichtigung: Verteidigungs- und Kammerantwort

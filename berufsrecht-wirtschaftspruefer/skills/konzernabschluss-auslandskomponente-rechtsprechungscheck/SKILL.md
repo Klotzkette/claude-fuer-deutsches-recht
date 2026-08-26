@@ -1,6 +1,6 @@
 ---
 name: konzernabschluss-auslandskomponente-rechtsprechungscheck
-description: "Wenn es um Konzernabschluss Auslandskomponente Rechtsprechungscheck in Berufsrecht Wirtschaftsprüfer geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Gegenprüfung mit Fehler-, Beweis- und Fristencheck."
+description: "Für Konzernabschluss Auslandskomponente Rechtsprechungscheck: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Schnittstellenkarte mit Zuständigkeits- und Nachweisfragen."
 ---
 
 # Wirtschaftsprüfer: konzernabschluss auslandskomponente - Rechtsprechungscheck, stärkste Gegenansicht und Red-Team-Korrektur

@@ -1,6 +1,6 @@
 ---
 name: bess-dieselgenerator-notstrom
-description: "Wenn es um Dieselgenerator, Notstrom und Schwarzstart in Energierecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Dieselgenerator, Notstrom und Schwarzstart: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Dieselgenerator, Notstrom und Schwarzstart

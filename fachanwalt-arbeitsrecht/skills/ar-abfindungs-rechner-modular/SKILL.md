@@ -1,6 +1,6 @@
 ---
 name: ar-abfindungs-rechner-modular
-description: "Wenn es um Ar Abfindungs Rechner Modular in Fachanwalt Arbeitsrecht geht: entwickelt Verhandlungsziel, Vergleichskorridor und Eskalationspfad; liefert eine Verhandlungs- oder Eskalationslinie mit Optionen."
+description: "Für Ar Abfindungs Rechner Modular: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Abfindungsrechner modular: Faustformel 0 und5 Monatsgehälter pro Beschäftigungsjahr nach BAG-Linie, Anpassung nach Verhandlungsmacht, Sperrzeit ALG I Paragraf 159 SGB III, steuerliche Fünftelregelung Paragraf 34 EStG

@@ -1,6 +1,6 @@
 ---
 name: wahlleistungsvereinbarung-chefarzt-zentren
-description: "Wenn es um Wahlleistungsvereinbarung Chefarzt Leistungskette in Krankenhausrecht geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
+description: "Für Wahlleistungsvereinbarung Chefarzt Leistungskette: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Wahlleistungsvereinbarung Chefarzt Leistungskette

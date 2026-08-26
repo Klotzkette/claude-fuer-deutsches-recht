@@ -1,6 +1,6 @@
 ---
 name: sektor-adtech-und-digitale-werbung
-description: "Wenn es um Sektor AdTech und digitale Werbung in Kartellrecht — Marktabgrenzungsprüfung geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Sektor AdTech und digitale Werbung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Sektor AdTech und digitale Werbung

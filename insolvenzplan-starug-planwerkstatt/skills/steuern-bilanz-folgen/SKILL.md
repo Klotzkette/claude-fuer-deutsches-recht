@@ -1,6 +1,6 @@
 ---
 name: steuern-bilanz-folgen
-description: "Wenn es um Steuern und Bilanzfolgen in Insolvenzplan- und StaRUG-Planwerkstatt geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Steuern und Bilanzfolgen: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Schnittstellenkarte mit Zuständigkeits- und Nachweisfragen."
 ---
 
 # Steuern und Bilanzfolgen

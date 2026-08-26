@@ -1,6 +1,6 @@
 ---
 name: fachanwalt-it-recht-software-mangel
-description: "Wenn es um Software-Mangel in Fachanwalt It Recht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Software-Mangel: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Software-Mangel

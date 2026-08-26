@@ -1,6 +1,6 @@
 ---
 name: mandat-einordnen-bearbeitungsroute
-description: "Wenn es um Urheber- und Medienrechtsmandat einordnen und Bearbeitungsroute bestimmen in Fachanwalt Urheber Medienrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Urheber- und Medienrechtsmandat einordnen und Bearbeitungsroute bestimmen: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Urheber- und Medienrechtsmandat einordnen und Bearbeitungsroute bestimmen

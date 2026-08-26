@@ -1,6 +1,6 @@
 ---
 name: rechtsgeschichte-anwaltschaft-berufsrecht-historisch-richterbild
-description: "Wenn es um Anwaltschaft und Berufsrecht historisch in Deutsche Rechtsgeschichte geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Anwaltschaft und Berufsrecht historisch: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Anwaltschaft und Berufsrecht historisch

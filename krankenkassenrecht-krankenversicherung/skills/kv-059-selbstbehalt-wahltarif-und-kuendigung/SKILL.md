@@ -1,6 +1,6 @@
 ---
 name: kv-059-selbstbehalt-wahltarif-und-kuendigung
-description: "Wenn es um Krankenversicherung: Selbstbehalt Wahltarif und Kündigung in Krankenkassenrecht und Krankenversicherung geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Krankenversicherung: Selbstbehalt Wahltarif und Kündigung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Krankenversicherung: Selbstbehalt Wahltarif und Kündigung

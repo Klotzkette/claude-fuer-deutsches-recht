@@ -1,6 +1,6 @@
 ---
 name: beschlagnahme-oeffentliche-lasten
-description: "Wenn es um Red-Team Qualitygate in ZVG-Zwangsverwaltung - Verwalter-Cockpit geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Red-Team Qualitygate: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Red-Team Qualitygate

@@ -1,6 +1,6 @@
 ---
 name: upc-verletzung-und-rechtsbestand
-description: "Wenn es um UPC: Verletzung, Rechtsbestand und Zuständigkeit in patentrecht geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
+description: "Für UPC: Verletzung, Rechtsbestand und Zuständigkeit: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # UPC: Verletzung, Rechtsbestand und Zuständigkeit

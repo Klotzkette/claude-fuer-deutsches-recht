@@ -1,6 +1,6 @@
 ---
 name: fa-stu-grundsteuer-bundesmodell
-description: "Wenn es um Grundsteuer — Reform 2025 Bundesmodell und Laendermodelle in Steuerrecht – Steuerberater und Anwälte geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen."
+description: "Für Grundsteuer — Reform 2025 Bundesmodell und Ländermodelle: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Schnittstellenkarte mit Zuständigkeits- und Nachweisfragen. Fachgebiet: Steuerrecht – Steuerberater und Anwälte. Route: fa-stu-grundsteuer-bundesmodell."
 ---
 
 # Grundsteuer — Reform 2025 Bundesmodell und Laendermodelle

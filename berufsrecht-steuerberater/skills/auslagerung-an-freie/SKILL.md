@@ -1,6 +1,6 @@
 ---
 name: auslagerung-an-freie
-description: "Wenn es um Auslagerung An Freie in Berufsrecht Steuerberater geht: klärt Rolle, Ziel, Frist, Unterlagen und den passenden nächsten Fachskill; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Auslagerung an Freie: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Steuerberater: auslagerung an freie mitarbeiter - Kaltstart mit Faktenmatrix, Risikoampel und fehlenden Unterlagen

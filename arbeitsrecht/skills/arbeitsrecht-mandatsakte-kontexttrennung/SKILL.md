@@ -1,6 +1,6 @@
 ---
 name: arbeitsrecht-mandatsakte-kontexttrennung
-description: "Wenn es um Arbeitsrechtliche Mandatsakte und Kontexttrennung in Arbeitsrecht geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen."
+description: "Für Arbeitsrechtliche Mandatsakte und Kontexttrennung: ordnet Akte, Belege und Lücken; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Arbeitsrechtliche Mandatsakte und Kontexttrennung

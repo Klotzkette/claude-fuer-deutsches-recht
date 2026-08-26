@@ -1,6 +1,6 @@
 ---
 name: spezial-immobiliendarlehen-red-team-und-qualitaetskontrolle
-description: "Wenn es um Immobiliendarlehen: Red-Team und Qualitätskontrolle in Fachanwalt Bank Kapitalmarktrecht geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Immobiliendarlehen: Red-Team und Qualitätskontrolle: prüft Ergebnis, Beweislast und Gegenposition; Ergebnis: Gegenprüfung mit Beweis- und Fristencheck."
 ---
 
 # Immobiliendarlehen: Red-Team und Qualitätskontrolle

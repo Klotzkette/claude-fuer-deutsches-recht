@@ -1,6 +1,6 @@
 ---
 name: insichgeschaeft-paragraph-irrtumsanfechtung
-description: "Wenn es um Insichgeschäft — Paragraf 181 BGB in BGB AT Prüfer geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt. Auswahlstichwort: Insichgeschaeft Paragraph Irrtumsanfechtung; Arbeitsfeld: BGB AT Prüfer."
+description: "Für Insichgeschäft — Paragraf 181 BGB: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt. Fachgebiet: BGB AT Prüfer. Route: insichgeschaeft-paragraph-irrtumsanfechtung."
 ---
 
 # Insichgeschäft — § 181 BGB

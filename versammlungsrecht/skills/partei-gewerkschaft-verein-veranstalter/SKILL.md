@@ -1,6 +1,6 @@
 ---
 name: partei-gewerkschaft-verein-veranstalter
-description: "Wenn es um Wer lädt eigentlich ein? in Versammlungsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Wer lädt eigentlich ein?: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Wer lädt eigentlich ein?

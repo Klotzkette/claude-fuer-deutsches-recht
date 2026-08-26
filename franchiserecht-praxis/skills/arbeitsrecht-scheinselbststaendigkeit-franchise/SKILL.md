@@ -1,6 +1,6 @@
 ---
 name: arbeitsrecht-scheinselbststaendigkeit-franchise
-description: "Wenn es um Franchiserecht: Arbeitsrecht und Scheinselbstständigkeit im Franchise in Franchiserecht Praxis geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Franchiserecht: Arbeitsrecht und Scheinselbstständigkeit im Franchise: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Franchiserecht: Arbeitsrecht und Scheinselbstständigkeit im Franchise

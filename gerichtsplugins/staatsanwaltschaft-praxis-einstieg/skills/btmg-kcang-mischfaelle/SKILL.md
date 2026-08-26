@@ -1,6 +1,6 @@
 ---
 name: btmg-kcang-mischfaelle
-description: "Wenn es um BtMG/KCanG-Mischfälle: Besitz, Handel, Grenzwerte in Staatsanwaltschaft Praxis-Einstieg geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Beweislast- und Substantiierungsmatrix."
+description: "Für BtMG/KCanG-Mischfälle: Besitz, Handel, Grenzwerte: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # BtMG/KCanG-Mischfälle: Besitz, Handel, Grenzwerte

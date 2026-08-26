@@ -1,6 +1,6 @@
 ---
 name: notare-kollegialitaet-und-zustaendigkeit-rechtsprechungscheck-u
-description: "Wenn es um Notare Kollegialitaet Und Zuständigkeit Rechtsprechungscheck U in Berufsrecht Notare geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Gegenprüfung mit Fehler-, Beweis- und Fristencheck."
+description: "Für Notare Kollegialität und Zuständigkeit Rechtsprechungscheck U: prüft Frist, Form, Zuständigkeit und Eilbedarf; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Notare: kollegialitaet und zustaendigkeit - Rechtsprechungscheck, stärkste Gegenansicht und Red-Team-Korrektur

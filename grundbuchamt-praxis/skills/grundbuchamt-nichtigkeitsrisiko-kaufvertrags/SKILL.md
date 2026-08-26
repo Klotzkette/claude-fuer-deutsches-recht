@@ -1,6 +1,6 @@
 ---
 name: grundbuchamt-nichtigkeitsrisiko-kaufvertrags
-description: "Wenn es um Nichtigkeitsrisiko im Kaufvertragsvollzug in Grundbuchamt Praxis geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
+description: "Für Nichtigkeitsrisiko im Kaufvertragsvollzug: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Nichtigkeitsrisiko im Kaufvertragsvollzug

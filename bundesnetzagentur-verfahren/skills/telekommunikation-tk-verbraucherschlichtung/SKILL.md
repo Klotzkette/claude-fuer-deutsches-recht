@@ -1,6 +1,6 @@
 ---
 name: telekommunikation-tk-verbraucherschlichtung
-description: "Wenn es um Telekommunikation: TK-Verbraucherschlichtung in Bundesnetzagentur-Verfahren geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
+description: "Für Telekommunikation: TK-Verbraucherschlichtung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Telekommunikation: TK-Verbraucherschlichtung

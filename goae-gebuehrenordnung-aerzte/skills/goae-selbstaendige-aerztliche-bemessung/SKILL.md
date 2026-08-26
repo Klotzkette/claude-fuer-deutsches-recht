@@ -1,6 +1,6 @@
 ---
 name: goae-selbstaendige-aerztliche-bemessung
-description: "Wenn es um GOÄ Paragraf 4 selbständige ärztliche Leistung Zielleistungsprinzip in GOÄ Gebührenordnung für Ärzte geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für GOÄ Paragraf 4 selbständige ärztliche Leistung Zielleistungsprinzip: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # GOÄ § 4 selbständige ärztliche Leistung Zielleistungsprinzip

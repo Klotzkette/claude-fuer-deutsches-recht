@@ -1,6 +1,6 @@
 ---
 name: preisangaben-rabatt-countdown-dark-patterns
-description: "Wenn es um Influencer-Recht: Preisangaben, Rabatt, Countdown und Dark Patterns in Influencer-Recht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
+description: "Für Influencer-Recht: Preisangaben, Rabatt, Countdown und Dark Patterns: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Influencer-Recht: Preisangaben, Rabatt, Countdown und Dark Patterns

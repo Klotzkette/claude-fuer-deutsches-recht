@@ -1,6 +1,6 @@
 ---
 name: fallnarrativ-tatsachen-beweis
-description: "Wenn es um Fallnarrativ, Tatsachen, Beweis in Rechtstheorie und Rechtsphilosophie geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Fallnarrativ, Tatsachen, Beweis: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Beweislast- und Substantiierungsmatrix."
 ---
 
 # Fallnarrativ, Tatsachen, Beweis

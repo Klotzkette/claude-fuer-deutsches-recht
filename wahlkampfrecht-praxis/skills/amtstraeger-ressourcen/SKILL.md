@@ -1,6 +1,6 @@
 ---
 name: amtstraeger-ressourcen
-description: "Wenn es um Amtstraeger Ressourcen in Wahlkampfrecht Praxis geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Amtsträger Ressourcen: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Amtstraeger Ressourcen

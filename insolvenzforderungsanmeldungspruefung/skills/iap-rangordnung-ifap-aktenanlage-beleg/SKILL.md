@@ -1,6 +1,6 @@
 ---
 name: iap-rangordnung-ifap-aktenanlage-beleg
-description: "Wenn es um IAP: Rangordnung-Checkliste in Insolvenzforderungsanmeldungsprüfung geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Tatbestands- oder Anspruchsmatrix mit Gegenargumenten."
+description: "Für IAP: Rangordnung-Checkliste: ordnet Akte, Belege und Lücken; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # IAP: Rangordnung-Checkliste

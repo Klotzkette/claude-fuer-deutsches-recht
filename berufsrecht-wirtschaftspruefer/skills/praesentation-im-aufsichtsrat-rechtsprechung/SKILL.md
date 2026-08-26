@@ -1,6 +1,6 @@
 ---
 name: praesentation-im-aufsichtsrat-rechtsprechung
-description: "Wenn es um Praesentation Im Aufsichtsrat Rechtsprechung in Berufsrecht Wirtschaftsprüfer geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Gegenprüfung mit Fehler-, Beweis- und Fristencheck."
+description: "Für Präsentation im Aufsichtsrat Rechtsprechung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Wirtschaftsprüfer: praesentation im aufsichtsrat - Rechtsprechungscheck, stärkste Gegenansicht und Red-Team-Korrektur

@@ -1,6 +1,6 @@
 ---
 name: output-rechtstexte-risikoampel-tickets
-description: "Wenn es um Output Rechtstexte Risikoampel Tickets in E-Commerce-Recht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Output Rechtstexte Risikoampel Tickets: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Fristen- und Risikoampel."
 ---
 
 # Output Rechtstexte Risikoampel Tickets

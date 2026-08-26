@@ -1,6 +1,6 @@
 ---
 name: lieferantenqualifizierung-sensor
-description: "Wenn es um Lieferantenqualifizierung Sensor Cloud in robotik-recht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. Auswahlstichwort: Lieferantenqualifizierung Sensor; Arbeitsfeld: robotik-recht."
+description: "Für Lieferantenqualifizierung Sensor Cloud: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt. Fachgebiet: robotik-recht. Route: lieferantenqualifizierung-sensor."
 ---
 
 # Lieferantenqualifizierung Sensor Cloud

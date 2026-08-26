@@ -1,6 +1,6 @@
 ---
 name: verbatim-transcript-video-hearing
-description: "Wenn es um Verbatim Transcript in commercial-courts-deutschland geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
+description: "Für Verbatim Transcript: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Verbatim Transcript

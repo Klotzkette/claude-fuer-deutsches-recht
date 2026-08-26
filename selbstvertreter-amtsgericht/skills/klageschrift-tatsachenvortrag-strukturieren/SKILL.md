@@ -1,6 +1,6 @@
 ---
 name: klageschrift-tatsachenvortrag-strukturieren
-description: "Wenn es um Den Sachverhalt richtig in die Klage schreiben in selbstvertreter-amtsgericht geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
+description: "Für Den Sachverhalt richtig in die Klage schreiben: erstellt Entwurf mit Antrag, Beweis und Anlagen; Ergebnis: Schriftsatz mit Begründungs- und Anlagenlogik."
 ---
 
 # Den Sachverhalt richtig in die Klage schreiben

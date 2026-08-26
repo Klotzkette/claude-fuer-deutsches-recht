@@ -1,6 +1,6 @@
 ---
 name: bergung-und-wrack
-description: "Wenn es um Bergung und Wrack – Bergungslohn und Beseitigungspflicht in See- und Schifffahrtsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Bergung und Wrack – Bergungslohn und Beseitigungspflicht: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Bergung und Wrack – Bergungslohn und Beseitigungspflicht

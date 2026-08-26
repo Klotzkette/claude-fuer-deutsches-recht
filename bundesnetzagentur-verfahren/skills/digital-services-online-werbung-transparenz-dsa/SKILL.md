@@ -1,6 +1,6 @@
 ---
 name: digital-services-online-werbung-transparenz-dsa
-description: "Wenn es um Online-Werbung Transparenz nach Art. 26 und Art. 39 DSA in Bundesnetzagentur-Verfahren geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
+description: "Für Online-Werbung Transparenz nach Art. 26 und Art. 39 DSA: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Online-Werbung Transparenz nach Art. 26 und Art. 39 DSA

@@ -1,6 +1,6 @@
 ---
 name: workflow-staatsangehoerigkeit-gebiet-status
-description: "Wenn es um Staatsangehörigkeit/Gebiet/Status: Prüfungslinie für Migrationsrecht in Fachanwalt Migrationsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Staatsangehörigkeit/Gebiet/Status: Prüfungslinie für Migrationsrecht: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Staatsangehörigkeit/Gebiet/Status: Prüfungslinie für Migrationsrecht

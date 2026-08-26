@@ -1,6 +1,6 @@
 ---
 name: fusion-transrapid-anbindung
-description: "Wenn es um Fusion und Transrapid-Anschluss in Energierecht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen."
+description: "Für Fusion und Transrapid-Anschluss: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Fusion und Transrapid-Anschluss

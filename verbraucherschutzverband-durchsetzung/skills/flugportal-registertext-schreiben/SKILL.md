@@ -1,6 +1,6 @@
 ---
 name: flugportal-registertext-schreiben
-description: "Wenn es um Flugportal Registertext Schreiben in Verbraucherschutzverband Durchsetzung geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Flugportal Registertext Schreiben: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Einreichungsplan mit Form- und Nachweischeck."
 ---
 
 # Flugportal Registertext Schreiben

@@ -1,6 +1,6 @@
 ---
 name: strafrecht-spezial-aussagepsy-mimik-emotionsbewertung
-description: "Wenn es um Strafrecht Spezial Aussagepsy Mimik Emotionsbewertung in Fachanwalt Strafrecht geht: entwickelt Verhandlungsziel, Vergleichskorridor und Eskalationspfad; liefert eine Verhandlungs- oder Eskalationslinie mit Optionen."
+description: "Für Strafrecht Spezial Aussagepsy Mimik Emotionsbewertung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Emotionsbewertung in der Vernehmung und Hauptverhandlung: Gefahren der Mimik-Lese, micro expressions, demeanor evidence

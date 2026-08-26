@@ -1,6 +1,6 @@
 ---
 name: verbraucherrecht-right-to-repair
-description: "Wenn es um Verbraucherrecht Right To Repair in Verbraucherschutzrecht Prüfer geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
+description: "Für Verbraucherrecht Right To Repair: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Right to Repair und Reparaturanspruch: Nacherfüllung, Ersatzteile, Reparaturinformation, Herstellergarantie und Nachhaltigkeitsargument.

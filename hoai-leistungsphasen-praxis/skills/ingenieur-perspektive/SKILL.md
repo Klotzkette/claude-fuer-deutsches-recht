@@ -1,6 +1,6 @@
 ---
 name: ingenieur-perspektive
-description: "Wenn es um HOAI Querschnitt: Ordnet tga/tragwerk/ingenieurbau-schnittstellen in HOAI Leistungsphasen Praxis geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen."
+description: "Für HOAI Querschnitt: Ordnet tga/tragwerk/ingenieurbau-schnittstellen: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Schnittstellenkarte mit Zuständigkeits- und Nachweisfragen."
 ---
 
 # HOAI Querschnitt: Ordnet tga/tragwerk/ingenieurbau-schnittstellen

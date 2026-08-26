@@ -1,6 +1,6 @@
 ---
 name: chn-004-eu-china-trade-risk-dashboard
-description: "Wenn es um EU China Trade Risk Dashboard in China-Wirtschaftsverkehr geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für EU China Trade Risk Dashboard: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Schnittstellenkarte mit Zuständigkeits- und Nachweisfragen."
 ---
 
 # EU China Trade Risk Dashboard

@@ -1,6 +1,6 @@
 ---
 name: notariat-vollzugsauftrag-grundbuch
-description: "Wenn es um Notariat und Vollzugsauftrag in Grundbuchamt Praxis geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Mandantennachricht oder Entscheidungsvorlage."
+description: "Für Notariat und Vollzugsauftrag: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Notariat und Vollzugsauftrag

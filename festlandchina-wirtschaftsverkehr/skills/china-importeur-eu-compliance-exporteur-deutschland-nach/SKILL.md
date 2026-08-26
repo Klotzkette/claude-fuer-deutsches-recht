@@ -1,6 +1,6 @@
 ---
 name: china-importeur-eu-compliance-exporteur-deutschland-nach
-description: "Wenn es um Importeur EU-Compliance: Waren aus China in China-Wirtschaftsverkehr geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Importeur EU-Compliance: Waren aus China: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Schnittstellenkarte mit Zuständigkeits- und Nachweisfragen."
 ---
 
 # Importeur EU-Compliance: Waren aus China

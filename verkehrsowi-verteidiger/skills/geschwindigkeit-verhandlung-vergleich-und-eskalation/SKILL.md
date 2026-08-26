@@ -1,6 +1,6 @@
 ---
 name: geschwindigkeit-verhandlung-vergleich-und-eskalation
-description: "Wenn es um Geschwindigkeit: Verhandlung, Vergleich und Eskalation in VerkehrsOWi-Verteidiger geht: entwickelt Verhandlungsziel, Vergleichskorridor und Eskalationspfad; liefert eine Verhandlungs- oder Eskalationslinie mit Optionen."
+description: "Für Geschwindigkeit: Verhandlung, Vergleich und Eskalation: entwickelt Ziel, Vergleich und Eskalation; Ergebnis: Verhandlungs- oder Eskalationslinie."
 ---
 
 # Geschwindigkeit: Verhandlung, Vergleich und Eskalation

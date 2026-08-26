@@ -1,6 +1,6 @@
 ---
 name: eisenbahn-regulierungsvereinbarung-db-netz-infrago
-description: "Wenn es um Eisenbahn: Regulierungsvereinbarung DB Netz InfraGO in Bundesnetzagentur-Verfahren geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
+description: "Für Eisenbahn: Regulierungsvereinbarung DB Netz InfraGO: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Eisenbahn: Regulierungsvereinbarung DB Netz InfraGO

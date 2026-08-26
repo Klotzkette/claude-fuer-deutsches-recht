@@ -1,6 +1,6 @@
 ---
 name: betreuungsgericht-kommunikation-angehoerige
-description: "Wenn es um Betreuungsgericht-Kommunikation für Angehörige in Betreuungsrecht geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert eine Fristen- und Risikoampel mit Sofortschritten. Auswahlstichwort: Betreuungsgericht Kommunikation Angehoerige; Arbeitsfeld: Betreuungsrecht."
+description: "Für Betreuungsgericht-Kommunikation für Angehörige: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Schnittstellenkarte mit Zuständigkeits- und Nachweisfragen. Fachgebiet: Betreuungsrecht. Route: betreuungsgericht-kommunikation-angehoerige."
 ---
 
 # Betreuungsgericht-Kommunikation für Angehörige

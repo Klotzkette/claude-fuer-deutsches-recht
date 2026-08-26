@@ -1,6 +1,6 @@
 ---
 name: grundrechte-und-psychische-belastung
-description: "Wenn es um Grundrechte und psychische Belastung in robotik-recht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Grundrechte und psychische Belastung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Grundrechte und psychische Belastung

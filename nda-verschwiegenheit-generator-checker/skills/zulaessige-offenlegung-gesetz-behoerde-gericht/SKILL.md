@@ -1,6 +1,6 @@
 ---
 name: zulaessige-offenlegung-gesetz-behoerde-gericht
-description: "Wenn es um Zulaessige Offenlegung Gesetz Behörde Gericht in NDA-Generator und Verschwiegenheitsvereinbarungs-Checker geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
+description: "Für Zulässige Offenlegung Gesetz Behörde Gericht: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Zulaessige Offenlegung Gesetz Behörde Gericht

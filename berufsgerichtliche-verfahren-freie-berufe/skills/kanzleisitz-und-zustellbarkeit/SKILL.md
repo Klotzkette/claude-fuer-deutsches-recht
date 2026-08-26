@@ -1,6 +1,6 @@
 ---
 name: kanzleisitz-und-zustellbarkeit
-description: "Wenn es um Kanzleisitz und Zustellbarkeit in Berufsgerichtliche Verfahren Freie Berufe geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert einen Einreichungsplan mit Form-, Portal- und Nachweischeck."
+description: "Für Kanzleisitz und Zustellbarkeit: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Kanzleisitz und Zustellbarkeit

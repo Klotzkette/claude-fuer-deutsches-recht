@@ -1,6 +1,6 @@
 ---
 name: aktenauszug-strukturpruefung-akzg-bauleiter
-description: "Wenn es um Aktenauszug — Strukturprüfung in aktenauszug-gerichtsverfahren geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Aktenauszug — Strukturprüfung: ordnet Akte, Belege und Lücken; Ergebnis: Tatbestands- oder Anspruchsmatrix."
 ---
 
 # Aktenauszug — Strukturprüfung

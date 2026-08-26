@@ -1,6 +1,6 @@
 ---
 name: tier-072-gefluegelmast-behoerdenantrag-schreibe
-description: "Wenn es um Gefluegelmast Behoerdenantrag Schreibe in Tierschutzrecht geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
+description: "Für Geflügelmast Behördenantrag Schreibe: erstellt Entwurf mit Antrag, Beweis und Anlagen; Ergebnis: Schriftsatz mit Begründungs- und Anlagenlogik. Fachgebiet: Tierschutzrecht. Route: tier-072-gefluegelmast-behoerdenantrag-schreibe."
 ---
 
 # Gefluegelmast Behoerdenantrag Schreibe

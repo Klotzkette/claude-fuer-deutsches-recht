@@ -1,6 +1,6 @@
 ---
 name: bmftr-raumfahrt-und-weltraumrecht-wrgg
-description: "Wenn es um Raumfahrt- und Weltraumrecht (BMFTR) in Legistik-Werkstatt geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen."
+description: "Für Raumfahrt- und Weltraumrecht (BMFTR): ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Raumfahrt- und Weltraumrecht (BMFTR)

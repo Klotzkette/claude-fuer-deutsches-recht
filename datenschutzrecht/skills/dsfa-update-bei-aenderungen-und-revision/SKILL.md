@@ -1,6 +1,6 @@
 ---
 name: dsfa-update-bei-aenderungen-und-revision
-description: "Wenn es um DSFA Update bei Änderungen und Revision in Datenschutzrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für DSFA Update bei Änderungen und Revision: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # DSFA Update bei Änderungen und Revision

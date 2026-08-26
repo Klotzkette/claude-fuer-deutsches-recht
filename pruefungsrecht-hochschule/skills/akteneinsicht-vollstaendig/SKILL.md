@@ -1,6 +1,6 @@
 ---
 name: akteneinsicht-vollstaendig
-description: "Wenn es um Vollständige Akteneinsicht in Prüfungsrecht an Hochschulen und Universitäten geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Tatbestands- oder Anspruchsmatrix mit Gegenargumenten."
+description: "Für Vollständige Akteneinsicht: ordnet Akte, Belege und Lücken; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Vollständige Akteneinsicht

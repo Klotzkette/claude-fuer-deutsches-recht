@@ -1,6 +1,6 @@
 ---
 name: klausel-lizenzumfang-territorium-zeit-feld
-description: "Wenn es um Klausel Lizenzumfang — Territorium, Zeit, Feld in Lizenzvertragsersteller geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Klausel Lizenzumfang — Territorium, Zeit, Feld: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Klausel Lizenzumfang — Territorium, Zeit, Feld

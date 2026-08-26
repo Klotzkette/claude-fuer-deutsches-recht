@@ -1,6 +1,6 @@
 ---
 name: verfassungstreue-extremismus-chatgruppen-disziplinarrecht
-description: "Wenn es um Verfassungstreue, Chatgruppen und politische Grenzfälle in Beamtenrecht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Beweislast- und Substantiierungsmatrix."
+description: "Für Verfassungstreue, Chatgruppen und politische Grenzfälle: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Schnittstellenkarte mit Zuständigkeits- und Nachweisfragen."
 ---
 
 # Verfassungstreue, Chatgruppen und politische Grenzfälle

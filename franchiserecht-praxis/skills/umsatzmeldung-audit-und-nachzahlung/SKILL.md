@@ -1,6 +1,6 @@
 ---
 name: umsatzmeldung-audit-und-nachzahlung
-description: "Wenn es um Franchiserecht: Umsatzmeldung, Audit und Nachzahlung in Franchiserecht Praxis geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Beweislast- und Substantiierungsmatrix."
+description: "Für Franchiserecht: Umsatzmeldung, Audit und Nachzahlung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Franchiserecht: Umsatzmeldung, Audit und Nachzahlung

@@ -1,6 +1,6 @@
 ---
 name: workflow-first-year-associate-robotik
-description: "Wenn es um First-Year-Associate-Modus in robotik-recht geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert eine Gegenprüfung mit Fehler-, Beweis- und Fristencheck."
+description: "Für First-Year-Associate-Modus: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt. Fachgebiet: robotik-recht. Route: workflow-first-year-associate-robotik."
 ---
 
 # First-Year-Associate-Modus

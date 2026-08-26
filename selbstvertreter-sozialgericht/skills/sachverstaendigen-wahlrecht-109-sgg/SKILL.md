@@ -1,6 +1,6 @@
 ---
 name: sachverstaendigen-wahlrecht-109-sgg
-description: "Wenn es um Eigenes Gutachten — Paragraf 109 SGG in selbstvertreter-sozialgericht geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
+description: "Für Eigenes Gutachten — Paragraf 109 SGG: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Eigenes Gutachten — § 109 SGG

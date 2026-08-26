@@ -1,6 +1,6 @@
 ---
 name: kueschk-formfehler-pruefen
-description: "Wenn es um Formfehler-Prüfung bei Kündigungen: Schriftform Paragraf 623 BGB in Arbeitsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Formfehler-Prüfung bei Kündigungen: Schriftform Paragraf 623 BGB: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Formfehler-Prüfung bei Kündigungen: Schriftform Paragraf 623 BGB

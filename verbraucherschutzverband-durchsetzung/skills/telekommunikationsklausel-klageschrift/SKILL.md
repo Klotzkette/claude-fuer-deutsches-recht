@@ -1,6 +1,6 @@
 ---
 name: telekommunikationsklausel-klageschrift
-description: "Wenn es um Telekommunikationsklausel Klageschrift in Verbraucherschutzverband Durchsetzung geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
+description: "Für Telekommunikationsklausel Klageschrift: erstellt Entwurf mit Antrag, Beweis und Anlagen; Ergebnis: Schriftsatz mit Begründungs- und Anlagenlogik."
 ---
 
 # Telekommunikationsklausel Klageschrift

@@ -1,6 +1,6 @@
 ---
 name: archivrecht-zustaendigkeit-pruefen-frist-setzen
-description: "Wenn es um Archivrecht Zuständigkeit Prüfen in Informationsfreiheit und Presseauskunft geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Archivrecht Zuständigkeit Prüfen: prüft Frist, Form, Zuständigkeit und Eilbedarf; Ergebnis: Fristen- und Risikoampel."
 ---
 
 # Archivrecht Zuständigkeit Prüfen

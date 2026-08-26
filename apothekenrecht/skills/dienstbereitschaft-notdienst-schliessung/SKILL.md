@@ -1,6 +1,6 @@
 ---
 name: dienstbereitschaft-notdienst-schliessung
-description: "Wenn es um Dienstbereitschaft Notdienst Schließung in Apothekenrecht geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
+description: "Für Dienstbereitschaft Notdienst Schließung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Dienstbereitschaft Notdienst Schließung

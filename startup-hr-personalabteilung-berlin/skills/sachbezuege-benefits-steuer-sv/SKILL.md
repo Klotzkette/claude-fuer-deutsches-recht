@@ -1,6 +1,6 @@
 ---
 name: sachbezuege-benefits-steuer-sv
-description: "Wenn es um Sachbezuege Benefits Steuer SV in Start-up-HR-Personalabteilung Berlin geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Sachbezüge Benefits Steuer SV: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Schnittstellenkarte mit Zuständigkeits- und Nachweisfragen."
 ---
 
 # Sachbezuege Benefits Steuer SV

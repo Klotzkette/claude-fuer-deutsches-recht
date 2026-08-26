@@ -1,6 +1,6 @@
 ---
 name: widerspruch
-description: "Wenn es um Fahrgastrechte-Widerspruch — Skill in Fahrgastrechte geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
+description: "Für Fahrgastrechte-Widerspruch — Skill: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Fahrgastrechte-Widerspruch — Skill

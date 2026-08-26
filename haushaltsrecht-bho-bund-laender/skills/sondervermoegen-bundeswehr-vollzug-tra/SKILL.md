@@ -1,6 +1,6 @@
 ---
 name: sondervermoegen-bundeswehr-vollzug-tra
-description: "Wenn es um Sondervermoegen Bundeswehr Vollzug Tra in Haushaltsrecht BHO Bund und Länder geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Sondervermögen Bundeswehr Vollzug Tra: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Sondervermoegen Bundeswehr Vollzug Tra

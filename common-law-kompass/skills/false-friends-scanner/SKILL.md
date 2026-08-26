@@ -1,6 +1,6 @@
 ---
 name: false-friends-scanner
-description: "Wenn es um False-Friends-Scanner in Common-Law-Kompass für deutsche Wirtschaftsjuristen geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
+description: "Für False-Friends-Scanner: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # False-Friends-Scanner

@@ -1,6 +1,6 @@
 ---
 name: khentgg-budgetverhandlung-drg-pepp-abgrenzung
-description: "Wenn es um KHEntgG Budgetverhandlung DRG PEPP Abgrenzung in Krankenhausrecht geht: entwickelt Verhandlungsziel, Vergleichskorridor und Eskalationspfad; liefert eine Verhandlungs- oder Eskalationslinie mit Optionen."
+description: "Für KHEntgG Budgetverhandlung DRG PEPP Abgrenzung: entwickelt Ziel, Vergleich und Eskalation; Ergebnis: Verhandlungs- oder Eskalationslinie."
 ---
 
 # KHEntgG Budgetverhandlung DRG PEPP Abgrenzung

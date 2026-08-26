@@ -1,6 +1,6 @@
 ---
 name: produktdaten-pim-datenkatalog-hersteller
-description: "Wenn es um Produktdaten, PIM-Systeme und Datenkataloge — Datenbankrecht für Hersteller in Datenbankrecht und Datenbankherstellerrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Produktdaten, PIM-Systeme und Datenkataloge — Datenbankrecht für Hersteller: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Produktdaten, PIM-Systeme und Datenkataloge — Datenbankrecht für Hersteller

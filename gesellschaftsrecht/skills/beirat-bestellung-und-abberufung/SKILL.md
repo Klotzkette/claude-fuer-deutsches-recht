@@ -1,6 +1,6 @@
 ---
 name: beirat-bestellung-und-abberufung
-description: "Wenn es um Beirat Bestellung Und Abberufung in Gesellschaftsrecht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
+description: "Für Beirat Bestellung und Abberufung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt. Fachgebiet: Gesellschaftsrecht."
 ---
 
 # Beirat Bestellung Und Abberufung

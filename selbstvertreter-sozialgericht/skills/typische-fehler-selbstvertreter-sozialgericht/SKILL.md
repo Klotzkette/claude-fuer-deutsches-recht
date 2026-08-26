@@ -1,6 +1,6 @@
 ---
 name: typische-fehler-selbstvertreter-sozialgericht
-description: "Wenn es um Typische Fehler — und wie Sie sie vermeiden in selbstvertreter-sozialgericht geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Typische Fehler — und wie Sie sie vermeiden: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Typische Fehler — und wie Sie sie vermeiden

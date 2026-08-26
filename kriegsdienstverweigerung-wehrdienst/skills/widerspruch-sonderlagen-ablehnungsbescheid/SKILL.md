@@ -1,6 +1,6 @@
 ---
 name: widerspruch-sonderlagen-ablehnungsbescheid
-description: "Wenn es um Widerspruchsfristen Sonderlagen in Kriegsdienstverweigerung und Wehrdienst geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Widerspruchsfristen Sonderlagen: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Widerspruchsfristen Sonderlagen

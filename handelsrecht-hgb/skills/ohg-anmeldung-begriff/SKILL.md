@@ -1,6 +1,6 @@
 ---
 name: ohg-anmeldung-begriff
-description: "Wenn es um OHG Anmeldung und Statuswechsel Paragraf 106 HGB in Handelsrecht HGB geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für OHG Anmeldung und Statuswechsel Paragraf 106 HGB: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # OHG Anmeldung und Statuswechsel § 106 HGB

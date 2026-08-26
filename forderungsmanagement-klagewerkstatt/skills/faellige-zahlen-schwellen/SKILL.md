@@ -1,6 +1,6 @@
 ---
 name: faellige-zahlen-schwellen
-description: "Wenn es um Faellige Zahlen und Schwellen in Forderungsmanagement — Klagewerkstatt geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
+description: "Für Fällige Zahlen und Schwellen: rechnet Beträge, Schwellen und Varianten; Ergebnis: Berechnungstabelle mit Annahmen und Kontrollfragen."
 ---
 
 # Faellige Zahlen und Schwellen

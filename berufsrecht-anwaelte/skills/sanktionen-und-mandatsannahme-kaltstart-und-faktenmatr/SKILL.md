@@ -1,6 +1,6 @@
 ---
 name: sanktionen-und-mandatsannahme-kaltstart-und-faktenmatr
-description: "Wenn es um Sanktionen Und Mandatsannahme Kaltstart Und Faktenmatr in Berufsrecht Anwälte geht: klärt Rolle, Ziel, Frist, Unterlagen und den passenden nächsten Fachskill; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Sanktionen und Mandatsannahme Kaltstart und Faktenmatr: routet Rolle, Frist, Unterlagen und Fachschritt; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Anwälte: sanktionen und mandatsannahme - Kaltstart mit Faktenmatrix, Risikoampel und fehlenden Unterlagen

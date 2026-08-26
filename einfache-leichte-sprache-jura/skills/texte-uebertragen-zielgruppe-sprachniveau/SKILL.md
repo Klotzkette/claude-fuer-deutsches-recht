@@ -1,6 +1,6 @@
 ---
 name: texte-uebertragen-zielgruppe-sprachniveau
-description: "Wenn es um Texte: Tatbestandsmerkmale, Beweisfragen und Beleglage in Einfache und Leichte Sprache für juristische Texte geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Beweislast- und Substantiierungsmatrix."
+description: "Für Texte: Tatbestandsmerkmale, Beweisfragen und Beleglage: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt. Fachgebiet: Einfache und Leichte Sprache für juristische Texte. Route: texte-uebertragen-zielgruppe-sprachniveau."
 ---
 
 # Texte: Tatbestandsmerkmale, Beweisfragen und Beleglage

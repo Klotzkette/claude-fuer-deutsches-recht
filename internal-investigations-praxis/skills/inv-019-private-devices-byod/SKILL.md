@@ -1,6 +1,6 @@
 ---
 name: inv-019-private-devices-byod
-description: "Wenn es um Internal Investigation: Private Devices BYOD in Internal Investigations Praxis geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Beweislast- und Substantiierungsmatrix."
+description: "Für Internal Investigation: Private Devices BYOD: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Internal Investigation: Private Devices BYOD

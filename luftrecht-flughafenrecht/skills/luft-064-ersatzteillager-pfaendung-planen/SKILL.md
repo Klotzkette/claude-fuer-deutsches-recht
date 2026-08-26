@@ -1,6 +1,6 @@
 ---
 name: luft-064-ersatzteillager-pfaendung-planen
-description: "Wenn es um Ersatzteillager Pfaendung Planen in Luftrecht und Flughafenrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Ersatzteillager Pfändung Planen: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Ersatzteillager Pfaendung Planen

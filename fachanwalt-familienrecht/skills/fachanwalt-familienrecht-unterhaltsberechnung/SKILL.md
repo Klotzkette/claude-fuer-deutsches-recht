@@ -1,6 +1,6 @@
 ---
 name: fachanwalt-familienrecht-unterhaltsberechnung
-description: "Berechnet Kindes-, Trennungs- und nachehelichen Unterhalt aus belegtem Einkommen, Betreuung, Bedarf, Rang und Selbstbehalt. Prüft Auskunft, Vertretung des Kindes, Mehrjahresbild bei Selbstständigen, erweiterten Umgang, Mangelfall und Rückstände und liefert Rechenmemo, Stufenantrag oder Vergleich."
+description: "Berechnet Kindes-, Trennungs- und nachehelichen Unterhalt aus belegtem Einkommen, Betreuung, Bedarf, Rang und Selbstbehalt."
 ---
 
 # Unterhaltsberechnung

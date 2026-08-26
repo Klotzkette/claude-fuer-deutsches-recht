@@ -1,6 +1,6 @@
 ---
 name: ewpg-registerwechsel-registerfehler
-description: "Wenn es um eWpG Registerfehler in Bank-Rechtsabteilung geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert einen Einreichungsplan mit Form-, Portal- und Nachweischeck."
+description: "Für eWpG Registerfehler: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Einreichungsplan mit Form- und Nachweischeck."
 ---
 
 # eWpG Registerfehler

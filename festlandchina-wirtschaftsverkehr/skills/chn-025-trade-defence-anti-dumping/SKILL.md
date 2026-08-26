@@ -1,6 +1,6 @@
 ---
 name: chn-025-trade-defence-anti-dumping
-description: "Wenn es um Trade Defence Anti Dumping in China-Wirtschaftsverkehr geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Trade Defence Anti Dumping: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Trade Defence Anti Dumping

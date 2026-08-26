@@ -1,6 +1,6 @@
 ---
 name: filmrecht-paragraf-89-urhg
-description: "Wenn es um Filmrecht Paragraf 89 UrhG in Fachanwalt Urheber Medienrecht geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Filmrecht Paragraf 89 UrhG: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Filmrecht § 89 UrhG

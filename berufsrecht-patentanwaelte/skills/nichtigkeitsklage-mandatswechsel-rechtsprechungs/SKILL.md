@@ -1,6 +1,6 @@
 ---
 name: nichtigkeitsklage-mandatswechsel-rechtsprechungs
-description: "Wenn es um Nichtigkeitsklage Mandatswechsel Rechtsprechungs in Berufsrecht Patentanwälte geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert eine Gegenprüfung mit Fehler-, Beweis- und Fristencheck."
+description: "Für Nichtigkeitsklage Mandatswechsel Rechtsprechungs: erstellt Entwurf mit Antrag, Beweis und Anlagen; Ergebnis: Schriftsatz mit Begründungs- und Anlagenlogik."
 ---
 
 # Patentanwälte: nichtigkeitsklage mandatswechsel - Rechtsprechungscheck, stärkste Gegenansicht und Red-Team-Korrektur

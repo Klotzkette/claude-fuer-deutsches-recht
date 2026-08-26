@@ -1,6 +1,6 @@
 ---
 name: erfolgshonorar-und-prozessfinanzierung-kaltstart-und-f
-description: "Wenn es um Erfolgshonorar Und Prozessfinanzierung Kaltstart Und F in Berufsrecht Anwälte geht: klärt Rolle, Ziel, Frist, Unterlagen und den passenden nächsten Fachskill; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Erfolgshonorar und Prozessfinanzierung Kaltstart und F: routet Rolle, Frist, Unterlagen und Fachschritt; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Anwälte: erfolgshonorar und prozessfinanzierung - Kaltstart mit Faktenmatrix, Risikoampel und fehlenden Unterlagen

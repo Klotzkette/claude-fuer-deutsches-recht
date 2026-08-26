@@ -1,6 +1,6 @@
 ---
 name: kumulierung-beihilfen-agvo
-description: "Wenn es um Kumulierung und Beihilfen (AGVO) in Forschungszulage-Antragstellung geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
+description: "Für Kumulierung und Beihilfen (AGVO): ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Kumulierung und Beihilfen (AGVO)

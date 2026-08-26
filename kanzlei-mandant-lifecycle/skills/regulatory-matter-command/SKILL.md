@@ -1,6 +1,6 @@
 ---
 name: regulatory-matter-command
-description: "Wenn es um Regulatory Matter Command in Kanzlei-Mandant Lifecycle geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Regulatory Matter Command: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Regulatory Matter Command

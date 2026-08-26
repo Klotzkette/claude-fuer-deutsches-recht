@@ -1,6 +1,6 @@
 ---
 name: kostenrisiko-bei-portfolio-cleanup-organisations
-description: "Wenn es um Kostenrisiko Bei Portfolio Cleanup Organisations in Berufsrecht Patentanwälte geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Kostenrisiko bei Portfolio Cleanup Organisations: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Patentanwälte: kostenrisiko bei portfolio cleanup - Organisationspflichten, Prävention, Team-Anweisung und Fristenkontrolle

@@ -1,6 +1,6 @@
 ---
 name: kanzlei-mandatsintake-hoai
-description: "Wenn es um HOAI Querschnitt: Fragt anwaltlich alle unterlagen für hoai-/bauprojektmandat ab in HOAI Leistungsphasen Praxis geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Dokumentenmatrix mit Nachforderungsliste."
+description: "Für HOAI Querschnitt: Fragt anwaltlich alle unterlagen für HOAI-/bauprojektmandat ab: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # HOAI Querschnitt: Fragt anwaltlich alle unterlagen für hoai-/bauprojektmandat ab

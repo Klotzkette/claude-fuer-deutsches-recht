@@ -1,6 +1,6 @@
 ---
 name: klage-gegen-vlop-einordnung-art-263-aeuv
-description: "Wenn es um Klage gegen Designations-Beschluss — Art. 263 AEUV in DSA, DMA und Digitalregulierung der EU geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
+description: "Für Klage gegen Designations-Beschluss — Art. 263 AEUV: erstellt Entwurf mit Antrag, Beweis und Anlagen; Ergebnis: Schriftsatz mit Begründungs- und Anlagenlogik."
 ---
 
 # Klage gegen Designations-Beschluss — Art. 263 AEUV

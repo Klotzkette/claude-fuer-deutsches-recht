@@ -1,6 +1,6 @@
 ---
 name: saumselig-sonderfall-edge-case
-description: "Wenn es um Saumselige Sonderfaelle in Forderungsmanagement — Klagewerkstatt geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
+description: "Für Saumselige Sonderfälle: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Saumselige Sonderfaelle

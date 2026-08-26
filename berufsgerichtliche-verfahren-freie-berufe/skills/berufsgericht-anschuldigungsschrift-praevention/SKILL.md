@@ -1,6 +1,6 @@
 ---
 name: berufsgericht-anschuldigungsschrift-praevention
-description: "Wenn es um Berufsgericht Anschuldigungsschrift: Präventions- und Organisationspaket in Berufsgerichtliche Verfahren Freie Berufe geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Beweislast- und Substantiierungsmatrix."
+description: "Für Berufsgericht Anschuldigungsschrift: Präventions- und Organisationspaket: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Berufsgericht Anschuldigungsschrift: Präventions- und Organisationspaket

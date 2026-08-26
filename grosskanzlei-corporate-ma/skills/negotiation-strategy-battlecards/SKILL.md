@@ -1,6 +1,6 @@
 ---
 name: negotiation-strategy-battlecards
-description: "Wenn es um Negotiation Strategy Battlecards in Großkanzlei Corporate/M&A geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Negotiation Strategy Battlecards: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt. Fachgebiet: Großkanzlei Corporate/M&A. Route: negotiation-strategy-battlecards."
 ---
 
 # Verhandlungsstrategie und Battlecards für SPA, APA, Term Sheet, W&I, CPs und Disclosure: erstellt Position, Fallbacks, rote Linien, Gegenargumente und Formulierungsvorschlaege.

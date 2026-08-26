@@ -1,6 +1,6 @@
 ---
 name: umwandlung-registersperre
-description: "Wenn es um Umwandlung Registersperre in Berufsrecht Notare geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Gegenprüfung mit Fehler-, Beweis- und Fristencheck."
+description: "Für Umwandlung Registersperre: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Einreichungsplan mit Form- und Nachweischeck."
 ---
 
 # Notare: umwandlung und registersperre - Rechtsprechungscheck, stärkste Gegenansicht und Red-Team-Korrektur

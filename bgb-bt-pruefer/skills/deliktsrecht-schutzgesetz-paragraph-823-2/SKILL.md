@@ -1,6 +1,6 @@
 ---
 name: deliktsrecht-schutzgesetz-paragraph-823-2
-description: "Wenn es um Deliktsrecht: Schutzgesetz Paragraf 823 Abs. 2 BGB in BGB BT Prüfer geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
+description: "Für Deliktsrecht: Schutzgesetz Paragraf 823 Abs. 2 BGB: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Deliktsrecht: Schutzgesetz § 823 Abs. 2 BGB

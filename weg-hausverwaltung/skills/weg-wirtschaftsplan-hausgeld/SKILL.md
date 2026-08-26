@@ -1,6 +1,6 @@
 ---
 name: weg-wirtschaftsplan-hausgeld
-description: "Wenn es um Wirtschaftsplan: Verhandlung, Vergleich und Eskalation in WEG- und Hausverwaltung geht: entwickelt Verhandlungsziel, Vergleichskorridor und Eskalationspfad; liefert eine Verhandlungs- oder Eskalationslinie mit Optionen."
+description: "Für Wirtschaftsplan: Verhandlung, Vergleich und Eskalation: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Wirtschaftsplan: Verhandlung, Vergleich und Eskalation

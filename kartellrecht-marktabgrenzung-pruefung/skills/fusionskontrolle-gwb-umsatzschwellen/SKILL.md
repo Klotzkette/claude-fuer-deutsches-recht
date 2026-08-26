@@ -1,6 +1,6 @@
 ---
 name: fusionskontrolle-gwb-umsatzschwellen
-description: "Wenn es um Fusionskontrolle GWB Umsatzschwellen in Kartellrecht — Marktabgrenzungsprüfung geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Fusionskontrolle GWB Umsatzschwellen: prüft Ergebnis, Beweislast und Gegenposition; Ergebnis: Gegenprüfung mit Beweis- und Fristencheck."
 ---
 
 # Fusionskontrolle GWB Umsatzschwellen

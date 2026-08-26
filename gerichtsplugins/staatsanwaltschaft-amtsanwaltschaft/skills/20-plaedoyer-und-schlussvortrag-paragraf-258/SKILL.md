@@ -1,6 +1,6 @@
 ---
 name: 20-plaedoyer-und-schlussvortrag-paragraf-258
-description: "Wenn es um 20 Plaedoyer und Schlussvortrag Paragraf 258 in Staatsanwaltschaft und Amtsanwaltschaft geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
+description: "Für 20 Plädoyer und Schlussvortrag Paragraf 258: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # 20 Plaedoyer und Schlussvortrag Paragraf 258

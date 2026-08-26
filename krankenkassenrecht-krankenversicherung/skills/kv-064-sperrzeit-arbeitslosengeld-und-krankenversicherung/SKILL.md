@@ -1,6 +1,6 @@
 ---
 name: kv-064-sperrzeit-arbeitslosengeld-und-krankenversicherung
-description: "Wenn es um Krankenversicherung: Sperrzeit Arbeitslosengeld und Krankenversicherung in Krankenkassenrecht und Krankenversicherung geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Krankenversicherung: Sperrzeit Arbeitslosengeld und Krankenversicherung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Krankenversicherung: Sperrzeit Arbeitslosengeld und Krankenversicherung

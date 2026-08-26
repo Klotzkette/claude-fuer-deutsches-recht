@@ -1,6 +1,6 @@
 ---
 name: beitragsnachforderung-haftung
-description: "Wenn es um Beitragsnachforderung und Haftung in Sozialversicherungsstatus-Prüfer / DRV-Statusfeststellung geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Beitragsnachforderung und Haftung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Beitragsnachforderung und Haftung

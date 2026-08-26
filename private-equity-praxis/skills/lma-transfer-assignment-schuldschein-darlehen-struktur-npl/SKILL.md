@@ -1,6 +1,6 @@
 ---
 name: lma-transfer-assignment-schuldschein-darlehen-struktur-npl
-description: "Wenn es um LMA-Transfer: Assignment, Novation, Transfer Certificate in Private Equity Praxis geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert einen Einreichungsplan mit Form-, Portal- und Nachweischeck."
+description: "Für LMA-Transfer: Assignment, Novation, Transfer Certificate: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # LMA-Transfer: Assignment, Novation, Transfer Certificate

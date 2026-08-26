@@ -1,6 +1,6 @@
 ---
 name: vierstufige-schranken-schranke
-description: "Wenn es um Vierstufige Schranken Schranke in Verhältnismäßigkeitsprüfer geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Vierstufige Schranken Schranke: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Vierstufige Schranken Schranke

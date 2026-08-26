@@ -1,6 +1,6 @@
 ---
 name: sozialgerichtsverfahren
-description: "Wenn es um ELS-J Sozialgerichtsverfahren in Einfache und Leichte Sprache für juristische Texte geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
+description: "Für ELS-J Sozialgerichtsverfahren: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt. Fachgebiet: Einfache und Leichte Sprache für juristische Texte. Route: sozialgerichtsverfahren."
 ---
 
 # ELS-J Sozialgerichtsverfahren

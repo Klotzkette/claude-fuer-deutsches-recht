@@ -1,6 +1,6 @@
 ---
 name: konversion-und-volle-gemeinschaft
-description: "Wenn es um Konversion und volle Gemeinschaft in Römisch-katholisches Kirchenrecht CIC und Katechismus geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Konversion und volle Gemeinschaft: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Konversion und volle Gemeinschaft

@@ -1,6 +1,6 @@
 ---
 name: strassenverkehr-akteneinsicht-schreibe
-description: "Wenn es um Strassenverkehr Akteneinsicht Schreibe in Ordnungswidrigkeitenrecht geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
+description: "Für Strassenverkehr Akteneinsicht Schreibe: ordnet Akte, Belege und Lücken; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Strassenverkehr Akteneinsicht Schreibe

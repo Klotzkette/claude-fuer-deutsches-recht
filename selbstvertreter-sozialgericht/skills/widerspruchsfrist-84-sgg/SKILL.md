@@ -1,6 +1,6 @@
 ---
 name: widerspruchsfrist-84-sgg
-description: "Wenn es um Die Widerspruchsfrist — Paragraf 84 SGG in selbstvertreter-sozialgericht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Die Widerspruchsfrist — Paragraf 84 SGG: prüft Frist, Form, Zuständigkeit und Eilbedarf; Ergebnis: Fristen- und Risikoampel."
 ---
 
 # Die Widerspruchsfrist — § 84 SGG

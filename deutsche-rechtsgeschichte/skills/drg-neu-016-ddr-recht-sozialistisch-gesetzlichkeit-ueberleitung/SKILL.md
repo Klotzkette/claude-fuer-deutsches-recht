@@ -1,6 +1,6 @@
 ---
 name: drg-neu-016-ddr-recht-sozialistisch-gesetzlichkeit-ueberleitung
-description: "Wenn es um Deutsche Rechtsgeschichte: DDR-Recht sozialistische Gesetzlichkeit und Überleitung in Deutsche Rechtsgeschichte geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Deutsche Rechtsgeschichte: DDR-Recht sozialistische Gesetzlichkeit und Überleitung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Schnittstellenkarte mit Zuständigkeits- und Nachweisfragen."
 ---
 
 # Deutsche Rechtsgeschichte: DDR-Recht sozialistische Gesetzlichkeit und Überleitung

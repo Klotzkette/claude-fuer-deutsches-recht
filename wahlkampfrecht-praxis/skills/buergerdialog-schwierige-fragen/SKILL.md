@@ -1,6 +1,6 @@
 ---
 name: buergerdialog-schwierige-fragen
-description: "Wenn es um Buergerdialog Schwierige Fragen in Wahlkampfrecht Praxis geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Bürgerdialog Schwierige Fragen: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Buergerdialog Schwierige Fragen

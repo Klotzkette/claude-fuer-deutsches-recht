@@ -1,6 +1,6 @@
 ---
 name: eidas-behoerden-gericht-und-registerweg
-description: "Wenn es um Eidas: Behörden-, Gerichts- oder Registerweg in DSA, DMA und Digitalregulierung der EU geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Eidas: Behörden-, Gerichts- oder Registerweg: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Einreichungsplan mit Form- und Nachweischeck."
 ---
 
 # Eidas: Behörden-, Gerichts- oder Registerweg

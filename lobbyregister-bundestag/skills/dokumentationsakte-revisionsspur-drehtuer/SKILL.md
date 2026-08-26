@@ -1,6 +1,6 @@
 ---
 name: dokumentationsakte-revisionsspur-drehtuer
-description: "Wenn es um Dokumentationsakte und Revisionsspur in Lobbyregister Bundestag geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert einen Einreichungsplan mit Form-, Portal- und Nachweischeck."
+description: "Für Dokumentationsakte und Revisionsspur: ordnet Akte, Belege und Lücken; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Dokumentationsakte und Revisionsspur

@@ -1,6 +1,6 @@
 ---
 name: ki-vo-integrationscheck
-description: "Wenn es um europäischer Technikregulierungsrahmen Integrationscheck in robotik-recht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für europäischer Technikregulierungsrahmen Integrationscheck: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt. Fachgebiet: robotik-recht. Route: ki-vo-integrationscheck."
 ---
 
 # KI-VO Integrationscheck

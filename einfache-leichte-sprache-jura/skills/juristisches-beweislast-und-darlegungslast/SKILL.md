@@ -1,6 +1,6 @@
 ---
 name: juristisches-beweislast-und-darlegungslast
-description: "Wenn es um Juristisches: Beweislast, Darlegungslast und Substantiierung in Einfache und Leichte Sprache für juristische Texte geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. Auswahlstichwort: Juristisches Beweislast Und Darlegungslast; Arbeitsfeld: Einfache und Leichte Sprache für juristische Texte."
+description: "Für Juristisches: Beweislast, Darlegungslast und Substantiierung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Beweislast- und Substantiierungsmatrix. Fachgebiet: Einfache und Leichte Sprache für juristische Texte. Route: juristisches-beweislast-und-darlegungslast."
 ---
 
 # Juristisches: Beweislast, Darlegungslast und Substantiierung

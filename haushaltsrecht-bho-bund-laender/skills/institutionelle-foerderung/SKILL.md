@@ -1,6 +1,6 @@
 ---
 name: institutionelle-foerderung
-description: "Wenn es um Institutionelle Förderung Deckung Fin in Haushaltsrecht BHO Bund und Länder geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Institutionelle Förderung Deckung Fin: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Institutionelle Förderung Deckung Fin

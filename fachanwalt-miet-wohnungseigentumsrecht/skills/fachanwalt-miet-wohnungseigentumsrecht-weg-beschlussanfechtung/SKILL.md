@@ -1,6 +1,6 @@
 ---
 name: fachanwalt-miet-wohnungseigentumsrecht-weg-beschlussanfechtung
-description: "Wenn es um WEG-Beschlussanfechtung (Paragraf 44 WEG) in Fachanwalt Miet- und Wohnungseigentumsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für WEG-Beschlussanfechtung (Paragraf 44 WEG): ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # WEG-Beschlussanfechtung (§ 44 WEG)

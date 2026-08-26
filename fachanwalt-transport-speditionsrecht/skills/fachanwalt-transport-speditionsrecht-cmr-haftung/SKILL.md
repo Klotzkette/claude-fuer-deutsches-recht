@@ -1,6 +1,6 @@
 ---
 name: fachanwalt-transport-speditionsrecht-cmr-haftung
-description: "Wenn es um CMR-Haftung – Grenzüberschreitender Straßengüterverkehr in Fachanwalt Transport Speditionsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für CMR-Haftung – Grenzüberschreitender Straßengüterverkehr: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # CMR-Haftung – Grenzüberschreitender Straßengüterverkehr

@@ -1,6 +1,6 @@
 ---
 name: kundenupdate
-description: "Wenn es um Kundenupdate in Solo-Selbstständige Praxis geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Kundenupdate: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Dokumente und Kommunikation: Schreibt statusmail mit nächstem schritt und offener mitwirkung

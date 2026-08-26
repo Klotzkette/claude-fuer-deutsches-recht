@@ -1,6 +1,6 @@
 ---
 name: deaktivieren
-description: "Wenn es um /deaktivieren — Skill deaktivieren (ohne Dateilöschung) in Kanzlei-Builder-Hub geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für /deaktivieren — Skill deaktivieren (ohne Dateilöschung): ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # /deaktivieren — Skill deaktivieren (ohne Dateilöschung)

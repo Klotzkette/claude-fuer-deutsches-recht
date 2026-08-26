@@ -1,6 +1,6 @@
 ---
 name: rechtsabteilung-haftungsdeckel-daten-ki
-description: "Wenn es um Rechtsabteilung: Haftungsdeckel für Daten- und digitale Werkzeuge-Schäden in AGB-Recht-Prüfer geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Chronologie mit Belegmatrix und Widerspruchsliste. Auswahlstichwort: Rechtsabteilung Haftungsdeckel Daten Ki; Arbeitsfeld: AGB-Recht-Prüfer."
+description: "Für Rechtsabteilung: Haftungsdeckel für Daten- und digitale Werkzeuge-Schäden: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt. Fachgebiet: AGB-Recht-Prüfer. Route: rechtsabteilung-haftungsdeckel-daten-ki."
 ---
 
 # Rechtsabteilung: Haftungsdeckel für Daten- und KI-Schäden

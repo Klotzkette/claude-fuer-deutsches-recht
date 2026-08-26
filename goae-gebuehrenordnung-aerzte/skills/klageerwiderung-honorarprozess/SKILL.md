@@ -1,6 +1,6 @@
 ---
 name: klageerwiderung-honorarprozess
-description: "Wenn es um Klageerwiderung Honorarprozess in GOÄ Gebührenordnung für Ärzte geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
+description: "Für Klageerwiderung Honorarprozess: erstellt Entwurf mit Antrag, Beweis und Anlagen; Ergebnis: Schriftsatz mit Begründungs- und Anlagenlogik."
 ---
 
 # Klageerwiderung Honorarprozess

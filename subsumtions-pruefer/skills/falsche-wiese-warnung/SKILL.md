@@ -1,6 +1,6 @@
 ---
 name: falsche-wiese-warnung
-description: "Wenn es um Falsche-Wiese-Warnung in Subsumtions-Prüfer geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Falsche-Wiese-Warnung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Falsche-Wiese-Warnung

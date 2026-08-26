@@ -1,6 +1,6 @@
 ---
 name: richterbild-in-diktatur-und-rechtsstaat
-description: "Wenn es um Richterbild in Diktatur und Rechtsstaat in Deutsche Rechtsgeschichte geht: entwickelt Verhandlungsziel, Vergleichskorridor und Eskalationspfad; liefert eine Verhandlungs- oder Eskalationslinie mit Optionen. Auswahlstichwort: Richterbild In Diktatur Und Rechtsstaat; Arbeitsfeld: Deutsche Rechtsgeschichte."
+description: "Für Richterbild in Diktatur und Rechtsstaat: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt. Fachgebiet: Deutsche Rechtsgeschichte. Route: richterbild-in-diktatur-und-rechtsstaat."
 ---
 
 # Richterbild in Diktatur und Rechtsstaat

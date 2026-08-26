@@ -1,6 +1,6 @@
 ---
 name: rechtsbeschwerde-79-owig
-description: "Wenn es um Rechtsbeschwerde Paragraf 79 OWiG in Datenschutz-Sanktionsverfahren und Verteidigung geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Rechtsbeschwerde Paragraf 79 OWiG: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt. Fachgebiet: Datenschutz-Sanktionsverfahren und Verteidigung."
 ---
 
 # Rechtsbeschwerde § 79 OWiG

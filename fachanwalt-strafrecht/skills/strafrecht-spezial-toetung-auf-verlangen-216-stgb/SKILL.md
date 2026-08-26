@@ -1,6 +1,6 @@
 ---
 name: strafrecht-spezial-toetung-auf-verlangen-216-stgb
-description: "Wenn es um Toetung auf Verlangen nach Paragraf 216 StGB in Fachanwalt Strafrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Tötung auf Verlangen nach Paragraf 216 StGB: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Toetung auf Verlangen nach § 216 StGB

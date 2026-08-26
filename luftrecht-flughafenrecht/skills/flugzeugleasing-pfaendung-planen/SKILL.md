@@ -1,6 +1,6 @@
 ---
 name: flugzeugleasing-pfaendung-planen
-description: "Wenn es um Flugzeugleasing – Pfändung planen in Luftrecht und Flughafenrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Flugzeugleasing – Pfändung planen: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Schnittstellenkarte mit Zuständigkeits- und Nachweisfragen."
 ---
 
 # Flugzeugleasing – Pfändung planen

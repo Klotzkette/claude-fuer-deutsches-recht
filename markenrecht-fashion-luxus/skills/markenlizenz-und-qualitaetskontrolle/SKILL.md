@@ -1,6 +1,6 @@
 ---
 name: markenlizenz-und-qualitaetskontrolle
-description: "Wenn es um Markenlizenz und Qualitätskontrolle in markenrecht-fashion-luxus geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Gegenprüfung mit Fehler-, Beweis- und Fristencheck."
+description: "Für Markenlizenz und Qualitätskontrolle: prüft Ergebnis, Beweislast und Gegenposition; Ergebnis: Gegenprüfung mit Beweis- und Fristencheck."
 ---
 
 # Markenlizenz und Qualitätskontrolle

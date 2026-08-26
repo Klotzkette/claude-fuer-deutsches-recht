@@ -1,6 +1,6 @@
 ---
 name: berufshaftpflicht-und-claim-risk-rechtsprechungs
-description: "Wenn es um Berufshaftpflicht Und Claim Risk Rechtsprechungs in Berufsrecht Patentanwälte geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Gegenprüfung mit Fehler-, Beweis- und Fristencheck."
+description: "Für Berufshaftpflicht und Claim Risk Rechtsprechungs: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Patentanwälte: berufshaftpflicht und claim risk - Rechtsprechungscheck, stärkste Gegenansicht und Red-Team-Korrektur

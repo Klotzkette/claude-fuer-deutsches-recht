@@ -1,6 +1,6 @@
 ---
 name: termin-behoerde-vorbereiten
-description: "Wenn es um Termin bei Behörde in Bürokratieversteher und Entbürokratisierer geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Dokumentenmatrix mit Nachforderungsliste."
+description: "Für Termin bei Behörde: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Termin bei Behörde

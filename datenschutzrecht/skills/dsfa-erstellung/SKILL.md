@@ -1,6 +1,6 @@
 ---
 name: dsfa-erstellung
-description: "Wenn es um DSFA – Datenschutz-Folgenabschätzung Art. 35 DSGVO in Datenschutzrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für DSFA – Datenschutz-Folgenabschätzung Art. 35 DSGVO: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # DSFA – Datenschutz-Folgenabschätzung Art. 35 DSGVO

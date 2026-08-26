@@ -1,6 +1,6 @@
 ---
 name: anonymisierung-pseudonymisierung
-description: "Wenn es um Anonymisierung und Pseudonymisierung in diesem Spezialbereich geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen."
+description: "Für Anonymisierung und Pseudonymisierung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Schnittstellenkarte mit Zuständigkeits- und Nachweisfragen."
 ---
 
 # Anonymisierung und Pseudonymisierung

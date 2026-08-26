@@ -1,6 +1,6 @@
 ---
 name: pushtan-schlichtung-sonderfall
-description: "Wenn es um Prüfer: Dokumentenmatrix, Lückenliste und Nachforderung in Phishing-Vorfall-Prüfer geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Dokumentenmatrix mit Nachforderungsliste."
+description: "Für Prüfer: Dokumentenmatrix, Lückenliste und Nachforderung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Prüfer: Dokumentenmatrix, Lückenliste und Nachforderung

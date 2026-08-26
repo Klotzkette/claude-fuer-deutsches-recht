@@ -1,6 +1,6 @@
 ---
 name: franchise-warenbezugsbindung-vbe
-description: "Wenn es um Franchise: Warenbezugsbindung und VBE-Verordnung in Franchiserecht Praxis geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Franchise: Warenbezugsbindung und VBE-Verordnung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Franchise: Warenbezugsbindung und VBE-Verordnung

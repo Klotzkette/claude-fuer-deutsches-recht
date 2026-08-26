@@ -1,6 +1,6 @@
 ---
 name: barrierefreiheit-arbeitsplatz-accommodation
-description: "Wenn es um Barrierefreiheit Arbeitsplatz Accommodation in Start-up-HR-Personalabteilung Berlin geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
+description: "Für Barrierefreiheit Arbeitsplatz Accommodation: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Barrierefreiheit Arbeitsplatz Accommodation

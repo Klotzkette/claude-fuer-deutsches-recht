@@ -1,6 +1,6 @@
 ---
 name: franchise-vorvertragliche-aufklaerung-bgh
-description: "Wenn es um Franchise Vorvertragliche Aufklaerung Bgh in Franchiserecht Praxis geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Franchise Vorvertragliche Aufklärung BGH: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Franchise Vorvertragliche Aufklaerung Bgh

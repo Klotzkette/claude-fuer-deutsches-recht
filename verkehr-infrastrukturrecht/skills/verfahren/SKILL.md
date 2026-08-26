@@ -1,6 +1,6 @@
 ---
 name: verfahren
-description: "Wenn es um Verkehrsrechtliche Verfahren — Widerspruch, Klage, Eilschutz in Verkehrs- und Infrastrukturrecht geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
+description: "Für Verkehrsrechtliche Verfahren — Widerspruch, Klage, Eilschutz: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Verkehrsrechtliche Verfahren — Widerspruch, Klage, Eilschutz

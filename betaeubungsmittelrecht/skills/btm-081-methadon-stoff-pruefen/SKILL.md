@@ -1,6 +1,6 @@
 ---
 name: btm-081-methadon-stoff-pruefen
-description: "Wenn es um Methadon Stoff Pruefen in Betäubungsmittelrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Methadon Stoff Prüfen: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt. Fachgebiet: Betäubungsmittelrecht. Route: btm-081-methadon-stoff-pruefen."
 ---
 
 # Methadon Stoff Pruefen

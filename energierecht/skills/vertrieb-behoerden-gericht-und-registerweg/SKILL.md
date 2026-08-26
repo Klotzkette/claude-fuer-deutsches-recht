@@ -1,6 +1,6 @@
 ---
 name: vertrieb-behoerden-gericht-und-registerweg
-description: "Wenn es um Vertrieb: Behörden-, Gerichts- oder Registerweg in Energierecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Vertrieb: Behörden-, Gerichts- oder Registerweg: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Einreichungsplan mit Form- und Nachweischeck."
 ---
 
 # Vertrieb: Behörden-, Gerichts- oder Registerweg

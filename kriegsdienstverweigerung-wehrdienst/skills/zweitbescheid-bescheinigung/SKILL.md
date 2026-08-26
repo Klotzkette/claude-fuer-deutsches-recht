@@ -1,6 +1,6 @@
 ---
 name: zweitbescheid-bescheinigung
-description: "Wenn es um Zweitausfertigung Bescheinigung in Kriegsdienstverweigerung und Wehrdienst geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
+description: "Für Zweitausfertigung Bescheinigung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Zweitausfertigung Bescheinigung

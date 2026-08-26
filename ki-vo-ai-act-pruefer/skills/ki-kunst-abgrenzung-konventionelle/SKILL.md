@@ -1,6 +1,6 @@
 ---
 name: ki-kunst-abgrenzung-konventionelle
-description: "Wenn es um digitale Werkzeuge-Kunst: Lizenzierung und Kennzeichnung in europäischem Technikregulierungsrecht geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen. Auswahlstichwort: Ki Kunst Abgrenzung Konventionelle; Arbeitsfeld: europäischem Technikregulierungsrecht."
+description: "Für digitale Werkzeuge-Kunst: Lizenzierung und Kennzeichnung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt. Fachgebiet: europäischem Technikregulierungsrecht. Route: ki-kunst-abgrenzung-konventionelle."
 ---
 
 # KI-Kunst: Lizenzierung und Kennzeichnung

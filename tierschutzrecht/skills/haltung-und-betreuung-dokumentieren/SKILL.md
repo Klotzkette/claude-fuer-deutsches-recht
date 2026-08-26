@@ -1,6 +1,6 @@
 ---
 name: haltung-und-betreuung-dokumentieren
-description: "Wenn es um Haltung Und Betreuung Dokumentieren in Tierschutzrecht geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen."
+description: "Für Haltung und Betreuung Dokumentieren: ordnet Akte, Belege und Lücken; Ergebnis: Schnittstellenkarte mit Zuständigkeits- und Nachweisfragen."
 ---
 
 # Haltung Und Betreuung Dokumentieren

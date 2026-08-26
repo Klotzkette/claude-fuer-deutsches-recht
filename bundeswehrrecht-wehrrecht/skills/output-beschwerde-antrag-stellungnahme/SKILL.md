@@ -1,6 +1,6 @@
 ---
 name: output-beschwerde-antrag-stellungnahme
-description: "Wenn es um Output: Beschwerde, Antrag, Stellungnahme erstellen in Bundeswehrrecht und Wehrrecht geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
+description: "Für Output: Beschwerde, Antrag, Stellungnahme erstellen: erstellt Entwurf mit Antrag, Beweis und Anlagen; Ergebnis: Schriftsatz mit Begründungs- und Anlagenlogik."
 ---
 
 # Output: Beschwerde, Antrag, Stellungnahme erstellen

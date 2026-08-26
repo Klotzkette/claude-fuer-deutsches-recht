@@ -1,6 +1,6 @@
 ---
 name: elternnachzug
-description: "Wenn es um Elternnachzug: Fachmodul im Migrationsrecht in Fachanwalt Migrationsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Elternnachzug: Fachmodul im Migrationsrecht: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Elternnachzug: Fachmodul im Migrationsrecht
@@ -38,3 +38,7 @@ description: "Wenn es um Elternnachzug: Fachmodul im Migrationsrecht in Fachanwa
 - Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei prüfbarer Quelle ausgeben.
 - Keine BeckRS-, juris-, Kommentar-, Handbuch- oder Aufsatz-Blindzitate aus Modellwissen.
 - Annahmen, fehlende Unterlagen, Beweisrisiken und Fristen ausdrücklich markieren.
+
+## Vertiefung bei Bedarf
+
+- Bei `spezial-elternnachzug` beziehungsweise Elternnachzug: [die zusätzliche Vertiefung laden](./references/vertiefung-spezial-elternnachzug.md).

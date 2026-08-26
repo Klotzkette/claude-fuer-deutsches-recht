@@ -1,6 +1,6 @@
 ---
 name: vc-097-tokenisierung-digital-shares
-description: "Wenn es um Vc 097 Tokenisierung Digital Shares in Venture Capital Geber geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert einen Einreichungsplan mit Form-, Portal- und Nachweischeck."
+description: "Für Vc 097 Tokenisierung Digital Shares: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Prüft tokenisierte Investments, eWpG, MiCAR, Wallets, Register, Verwahrung und Anlegerkommunikation.

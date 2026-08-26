@@ -1,6 +1,6 @@
 ---
 name: europarecht-simulation-behoerde-gericht
-description: "Wenn es um Simulation Behörde, Gericht und Kommission in Europarecht-Kompass für deutsche Juristen geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Simulation Behörde, Gericht und Kommission: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Schnittstellenkarte mit Zuständigkeits- und Nachweisfragen."
 ---
 
 # Simulation Behörde, Gericht und Kommission

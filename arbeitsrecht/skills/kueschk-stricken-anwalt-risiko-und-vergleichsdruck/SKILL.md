@@ -1,6 +1,6 @@
 ---
 name: kueschk-stricken-anwalt-risiko-und-vergleichsdruck
-description: "Wenn es um KERNSKILL: Warnung vor der Stricken-Strategie des Arbeitgeberanwalts in Arbeitsrecht geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
+description: "Für KERNSKILL: Warnung vor der Stricken-Strategie des Arbeitgeberanwalts: entwickelt Ziel, Vergleich und Eskalation; Ergebnis: Verhandlungs- oder Eskalationslinie."
 ---
 
 # KERNSKILL: Warnung vor der Stricken-Strategie des Arbeitgeberanwalts

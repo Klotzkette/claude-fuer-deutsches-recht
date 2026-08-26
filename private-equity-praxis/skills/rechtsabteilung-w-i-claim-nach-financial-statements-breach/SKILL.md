@@ -1,6 +1,6 @@
 ---
 name: rechtsabteilung-w-i-claim-nach-financial-statements-breach
-description: "Wenn es um Rechtsabteilung W I Claim Nach Financial Statements Breach in Private Equity Praxis geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Rechtsabteilung W I Claim nach Financial Statements Breach: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Rechtsabteilungs-Fachmodul für W&I-Claim nach Financial Statements Breach: Claim Notice, Loss Quantification und Versichererkommunikation werden taktisch vorbereitet

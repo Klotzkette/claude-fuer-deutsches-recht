@@ -1,6 +1,6 @@
 ---
 name: exportkontrolle-forschung
-description: "Wenn es um Exportkontrolle in der Forschung in Hochschulrecht der Bundesländer geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Exportkontrolle in der Forschung: prüft Ergebnis, Beweislast und Gegenposition; Ergebnis: Gegenprüfung mit Beweis- und Fristencheck."
 ---
 
 # Exportkontrolle in der Forschung

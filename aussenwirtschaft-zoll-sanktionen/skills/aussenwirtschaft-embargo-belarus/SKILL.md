@@ -1,6 +1,6 @@
 ---
 name: aussenwirtschaft-embargo-belarus
-description: "Wenn es um Embargo Belarus: Sanktionsregime und Umgehungsrisiken in Außenwirtschaft, Sanktionen, Zoll und CBAM geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Embargo Belarus: Sanktionsregime und Umgehungsrisiken: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Embargo Belarus: Sanktionsregime und Umgehungsrisiken

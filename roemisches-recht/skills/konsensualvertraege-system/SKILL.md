@@ -1,6 +1,6 @@
 ---
 name: konsensualvertraege-system
-description: "Wenn es um Konsensualvertraege System in Römisches Recht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Konsensualverträge System: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Konsensualvertraege System

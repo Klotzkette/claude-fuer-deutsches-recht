@@ -1,6 +1,6 @@
 ---
 name: privaten-risikoampel-gegenargumente
-description: "Wenn es um Privaten: Risikoampel, Gegenargumente und Verteidigungslinien in diesem Spezialbereich geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Privaten: Risikoampel, Gegenargumente und Verteidigungslinien: prüft Ergebnis, Beweislast und Gegenposition; Ergebnis: Fristen- und Risikoampel."
 ---
 
 # Privaten: Risikoampel, Gegenargumente und Verteidigungslinien

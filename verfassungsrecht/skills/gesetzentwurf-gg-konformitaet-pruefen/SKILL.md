@@ -1,6 +1,6 @@
 ---
 name: gesetzentwurf-gg-konformitaet-pruefen
-description: "Wenn es um Gesetzentwurf — GG-Konformität prüfen (Gesetzgebersicht) in verfassungsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Gesetzentwurf — GG-Konformität prüfen (Gesetzgebersicht): ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Gesetzentwurf — GG-Konformität prüfen (Gesetzgebersicht)

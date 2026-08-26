@@ -1,6 +1,6 @@
 ---
 name: postlauf-zustellung-pruefungsamt
-description: "Wenn es um Postlauf und Zustellung Prüfungsamt in Prüfungsrecht an Hochschulen und Universitäten geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Postlauf und Zustellung Prüfungsamt: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Tatbestands- oder Anspruchsmatrix."
 ---
 
 # Postlauf und Zustellung Prüfungsamt

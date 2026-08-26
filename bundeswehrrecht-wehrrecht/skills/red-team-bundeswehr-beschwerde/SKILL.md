@@ -1,6 +1,6 @@
 ---
 name: red-team-bundeswehr-beschwerde
-description: "Wenn es um Red-Team: Bundeswehr-Beschwerde kritisch prüfen in Bundeswehrrecht und Wehrrecht geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Red-Team: Bundeswehr-Beschwerde kritisch prüfen: prüft Ergebnis, Beweislast und Gegenposition; Ergebnis: Gegenprüfung mit Beweis- und Fristencheck."
 ---
 
 # Red-Team: Bundeswehr-Beschwerde kritisch prüfen

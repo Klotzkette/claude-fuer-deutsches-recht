@@ -1,6 +1,6 @@
 ---
 name: pilotbetrieb-beta-prodhaftg-pld
-description: "Wenn es um Pilotbetrieb und Beta Robotik in robotik-recht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
+description: "Für Pilotbetrieb und Beta Robotik: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt. Fachgebiet: robotik-recht. Route: pilotbetrieb-beta-prodhaftg-pld."
 ---
 
 # Pilotbetrieb und Beta Robotik

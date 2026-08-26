@@ -1,6 +1,6 @@
 ---
 name: 07-buergergeld-und-sgb-ii
-description: "Wenn es um 07 Bürgergeld und Sgb Ii in Sozialgericht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Tatbestands- oder Anspruchsmatrix mit Gegenargumenten."
+description: "Für 07 Bürgergeld und SGB Ii: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # 07 Bürgergeld und Sgb Ii

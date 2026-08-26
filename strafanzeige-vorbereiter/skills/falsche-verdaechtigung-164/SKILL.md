@@ -1,6 +1,6 @@
 ---
 name: falsche-verdaechtigung-164
-description: "Wenn es um Falsche Verdächtigung Paragraf 164 StGB in Strafanzeige-Vorbereiter geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
+description: "Für Falsche Verdächtigung Paragraf 164 StGB: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Falsche Verdächtigung § 164 StGB

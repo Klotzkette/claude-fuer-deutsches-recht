@@ -1,6 +1,6 @@
 ---
 name: owi-kaltstart-bussgeldverfahren-sta-rolle
-description: "Wenn es um Owi Kaltstart Bussgeldverfahren Sta Rolle in Staatsanwaltschaft Praxis-Einstieg geht: klärt Rolle, Ziel, Frist, Unterlagen und den passenden nächsten Fachskill; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Owi Kaltstart Bussgeldverfahren Sta Rolle: routet Rolle, Frist, Unterlagen und Fachschritt; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # OWiG-Kaltstart: Strafsache oder Ordnungswidrigkeit, Verwaltungsbehörde, Staatsanwaltschaft, Gericht und richtige Verfahrenssprache trennen

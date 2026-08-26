@@ -1,6 +1,6 @@
 ---
 name: aufsichtsrat-esg-und-lieferkette
-description: "Wenn es um Aufsichtsrat ESG Und Lieferkette in AG/SE-Aufsichtsrat Praxis geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
+description: "Für Aufsichtsrat ESG und Lieferkette: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Aufsichtsrat ESG Und Lieferkette

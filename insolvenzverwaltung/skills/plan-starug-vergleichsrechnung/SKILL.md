@@ -1,6 +1,6 @@
 ---
 name: plan-starug-vergleichsrechnung
-description: "Wenn es um IV-integrierte StaRUG-Plan-Architektur in Insolvenzverwaltung - IV-Cockpit geht: entwickelt Verhandlungsziel, Vergleichskorridor und Eskalationspfad; liefert eine Verhandlungs- oder Eskalationslinie mit Optionen."
+description: "Für IV-integrierte StaRUG-Plan-Architektur: entwickelt Ziel, Vergleich und Eskalation; Ergebnis: Verhandlungs- oder Eskalationslinie."
 ---
 
 # IV-integrierte StaRUG-Plan-Architektur

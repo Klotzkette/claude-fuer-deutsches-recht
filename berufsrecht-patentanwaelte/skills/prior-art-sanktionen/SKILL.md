@@ -1,6 +1,6 @@
 ---
 name: prior-art-sanktionen
-description: "Wenn es um Prior Art Sanktionen in Berufsrecht Patentanwälte geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Gegenprüfung mit Fehler-, Beweis- und Fristencheck."
+description: "Für Prior Art Sanktionen: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Patentanwälte: prior art fehler und meldepflicht - Rechtsprechungscheck, stärkste Gegenansicht und Red-Team-Korrektur

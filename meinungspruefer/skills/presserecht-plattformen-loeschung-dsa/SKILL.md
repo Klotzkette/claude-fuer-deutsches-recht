@@ -1,6 +1,6 @@
 ---
 name: presserecht-plattformen-loeschung-dsa
-description: "Wenn es um Presse, Plattformen und DSA-Schnittstelle in Meinungsprüfer geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Beweislast- und Substantiierungsmatrix."
+description: "Für Presse, Plattformen und DSA-Schnittstelle: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Presse, Plattformen und DSA-Schnittstelle

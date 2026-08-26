@@ -1,6 +1,6 @@
 ---
 name: verpflichtungsermaechtigung-pruefen
-description: "Wenn es um Verpflichtungsermaechtigung Prüfen in Haushaltsrecht BHO Bund und Länder geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
+description: "Für Verpflichtungsermächtigung Prüfen: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Verpflichtungsermaechtigung Prüfen

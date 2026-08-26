@@ -1,6 +1,6 @@
 ---
 name: kirchliche-hochschulen-mandatum-kunst-heilige
-description: "Wenn es um Kirchliche Hochschulen und Mandatum in Römisch-katholisches Kirchenrecht CIC und Katechismus geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Kirchliche Hochschulen und Mandatum: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt. Fachgebiet: Römisch-katholisches Kirchenrecht CIC und Katechismus. Route: kirchliche-hochschulen-mandatum-kunst-heilige."
 ---
 
 # Kirchliche Hochschulen und Mandatum

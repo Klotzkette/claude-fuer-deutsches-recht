@@ -1,6 +1,6 @@
 ---
 name: predatory-pricing-preisalgorithmen-kollusives
-description: "Wenn es um Predatory Pricing Kampfpreise in Kartellrecht — Marktabgrenzungsprüfung geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen."
+description: "Für Predatory Pricing Kampfpreise: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Predatory Pricing Kampfpreise

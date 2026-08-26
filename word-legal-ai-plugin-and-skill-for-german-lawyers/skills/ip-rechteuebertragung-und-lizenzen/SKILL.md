@@ -1,6 +1,6 @@
 ---
 name: ip-rechteuebertragung-und-lizenzen
-description: "Wenn es um IP-Rechteübertragung und Lizenzen in diesem Spezialbereich geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Beweislast- und Substantiierungsmatrix."
+description: "Für IP-Rechteübertragung und Lizenzen: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Schnittstellenkarte mit Zuständigkeits- und Nachweisfragen."
 ---
 
 # IP-Rechteübertragung und Lizenzen

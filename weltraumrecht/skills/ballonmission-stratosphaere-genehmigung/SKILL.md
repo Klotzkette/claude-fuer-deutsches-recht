@@ -1,6 +1,6 @@
 ---
 name: ballonmission-stratosphaere-genehmigung
-description: "Wenn es um Weltraumrecht: Ballonmission Stratosphäre: Genehmigung in Weltraumrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Weltraumrecht: Ballonmission Stratosphäre: Genehmigung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Weltraumrecht: Ballonmission Stratosphäre: Genehmigung

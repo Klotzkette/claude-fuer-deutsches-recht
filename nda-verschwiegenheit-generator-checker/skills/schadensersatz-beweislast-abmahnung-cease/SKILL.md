@@ -1,6 +1,6 @@
 ---
 name: schadensersatz-beweislast-abmahnung-cease
-description: "Wenn es um Schadensersatz Und Beweislast in NDA-Generator und Verschwiegenheitsvereinbarungs-Checker geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Beweislast- und Substantiierungsmatrix."
+description: "Für Schadensersatz und Beweislast: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Beweislast- und Substantiierungsmatrix."
 ---
 
 # Schadensersatz Und Beweislast

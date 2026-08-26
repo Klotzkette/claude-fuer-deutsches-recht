@@ -1,6 +1,6 @@
 ---
 name: inso-inkongruente-deckung-131
-description: "Wenn es um Inkongruente Deckung — Paragraf 131 InsO in bereicherungs-und-anfechtungsrecht-prüfer geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Inkongrünte Deckung — Paragraf 131 InsO: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Inkongruente Deckung — § 131 InsO

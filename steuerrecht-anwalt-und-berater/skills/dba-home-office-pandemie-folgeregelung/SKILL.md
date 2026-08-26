@@ -1,6 +1,6 @@
 ---
 name: dba-home-office-pandemie-folgeregelung
-description: "Wenn es um Home-Office und Konsultations-Vereinbarungen DBA (Pandemie-Folgeregelung) in Steuerrecht – Steuerberater und Anwälte geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
+description: "Für Home-Office und Konsultations-Vereinbarungen DBA (Pandemie-Folgeregelung): ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Home-Office und Konsultations-Vereinbarungen DBA (Pandemie-Folgeregelung)

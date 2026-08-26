@@ -1,6 +1,6 @@
 ---
 name: weg-umlaufbeschluss
-description: "Wenn es um Umlaufbeschluss: Fachmodul im Miet- und Wohnungseigentumsrecht in Fachanwalt Miet- und Wohnungseigentumsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Umlaufbeschluss: Fachmodul im Miet- und Wohnungseigentumsrecht: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Umlaufbeschluss: Fachmodul im Miet- und Wohnungseigentumsrecht

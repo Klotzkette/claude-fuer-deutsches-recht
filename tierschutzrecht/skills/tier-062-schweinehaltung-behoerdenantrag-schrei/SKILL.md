@@ -1,6 +1,6 @@
 ---
 name: tier-062-schweinehaltung-behoerdenantrag-schrei
-description: "Wenn es um Schweinehaltung Behoerdenantrag Schrei in Tierschutzrecht geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
+description: "Für Schweinehaltung Behördenantrag Schrei: erstellt Entwurf mit Antrag, Beweis und Anlagen; Ergebnis: Schriftsatz mit Begründungs- und Anlagenlogik. Fachgebiet: Tierschutzrecht. Route: tier-062-schweinehaltung-behoerdenantrag-schrei."
 ---
 
 # Schweinehaltung Behoerdenantrag Schrei

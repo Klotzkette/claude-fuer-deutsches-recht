@@ -1,6 +1,6 @@
 ---
 name: mauer-quellenkarte
-description: "Wenn es um Mauer Quellenkarte in Nachbarschaftsstreit-Prüfer geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Tatbestands- oder Anspruchsmatrix mit Gegenargumenten."
+description: "Für Mauer Quellenkarte: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Mauer Quellenkarte

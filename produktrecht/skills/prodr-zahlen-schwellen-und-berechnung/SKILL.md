@@ -1,6 +1,6 @@
 ---
 name: prodr-zahlen-schwellen-und-berechnung
-description: "Wenn es um Prodr: Zahlen, Schwellenwerte und Berechnung in Produkthaftung und Produktrecht geht: rechnet Schwellen, Beträge, Varianten und Kontrollannahmen durch; liefert eine Berechnungstabelle mit Schwellen, Annahmen und Kontrollfragen."
+description: "Für Prodr: Zahlen, Schwellenwerte und Berechnung: rechnet Beträge, Schwellen und Varianten; Ergebnis: Berechnungstabelle mit Annahmen und Kontrollfragen."
 ---
 
 # Prodr: Zahlen, Schwellenwerte und Berechnung

@@ -1,6 +1,6 @@
 ---
 name: rechtsfolgen-rueckabwicklung-agb
-description: "Wenn es um Rechtsfolgen Rückabwicklung AGB in AGB-Recht-Prüfer geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Gegenprüfung mit Fehler-, Beweis- und Fristencheck."
+description: "Für Rechtsfolgen Rückabwicklung AGB: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Rechtsfolgen Rückabwicklung AGB

@@ -7,15 +7,15 @@ Diese Vollprüfung enthält top-10 von 66 Skills des Plugins `rechtstheorie-rech
 ## Inhaltsverzeichnis
 
 1. **juristischer-argumentationskern** — Schaltet sich ein, wenn in Rechtstheorie Rechtsphilosophie ein juristisches Arbeitsprodukt tragfähig begründet werden mu…
-2. **kaltstart-triage** — Wenn es um Allgemeiner Einstieg in Rechtstheorie und Rechtsphilosophie geht: klärt Rolle, Ziel, Frist, Unterlagen und de…
-3. **methodenkritik-larenz-canaris-ordnung-system** — Wenn es um Methodenkritik: Larenz, Canaris, Systemdenken und konkrete Ordnung in Rechtstheorie und Rechtsphilosophie geh…
-4. **dworkin-law-as-integrity-hard-cases** — Wenn es um Dworkin: Recht als Integrität, Prinzipien und hard cases in Rechtstheorie und Rechtsphilosophie geht: ordnet …
-5. **besitzdogmatik-historische-schule** — Wenn es um Besitzdogmatik, historische Schule und Systemdenken in Rechtstheorie und Rechtsphilosophie geht: ordnet Sachv…
-6. **wissensproblem-dezentrale-information** — Wenn es um Wissensproblem, dezentrale Information und Recht in Rechtstheorie und Rechtsphilosophie geht: ordnet Sachverh…
-7. **regeln-tacit-knowledge-kognitive-entlastung** — Wenn es um Regeln, stilles Wissen und kognitive Entlastung in Rechtstheorie und Rechtsphilosophie geht: ordnet Sachverha…
-8. **staat-ordnungsmacht-anti-autoritaerer-check** — Wenn es um Staat als Ordnungsmacht: anti-autoritärer Check in Rechtstheorie und Rechtsphilosophie geht: ordnet Sachverha…
-9. **legalitaetsprinzipien-als-rechtsstaatsmotor** — Wenn es um Legalitätsprinzipien als Rechtsstaatsmotor in Rechtstheorie und Rechtsphilosophie geht: ordnet Sachverhalt, N…
-10. **daseinsvorsorge-verwaltungsrealismus** — Wenn es um Daseinsvorsorge und Verwaltungsrealismus in Rechtstheorie und Rechtsphilosophie geht: ordnet Sachverhalt, Nor…
+2. **kaltstart-triage** — Für Allgemeiner Einstieg: routet Rolle, Frist, Unterlagen und Fachschritt; Ergebnis: Prüfprodukt mit Risiko und nächstem…
+3. **v392-lesefreude-rechtstheorie-rechtsphilosophie** — Erschließt eine rechtstheoretische Streitfrage über präzise These, stärkste Gegenposition, Methodenwahl und institutione…
+4. **methodenkritik-larenz-canaris-ordnung-system** — Für Methodenkritik: Larenz, Canaris, Systemdenken und konkrete Ordnung: ordnet Norm, Beweislast und Gegenargument; Ergeb…
+5. **kelsen-stufenbau-gueltigkeit** — Für Kelsen: Stufenbau, Geltung, Kompetenz und Methodendisziplin: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Pr…
+6. **freund-feind-rhetorik-und-pluralismuscheck** — Für Freund-Feind-Rhetorik und Pluralismuscheck: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Schnittstellenkarte…
+7. **dworkin-law-as-integrity-hard-cases** — Für Dworkin: Recht als Integrität, Prinzipien und hard cases: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfp…
+8. **daseinsvorsorge-verwaltungsrealismus-rechtsstaatscheck** — Für Daseinsvorsorge Verwaltungsrealismus Rechtsstaatscheck: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfpro…
+9. **institutionenrhetorik-konkrete-ordnung-red-team-korrektur** — Für Institutionenrhetorik und konkrete Ordnung: Red-Team: prüft Ergebnis, Beweislast und Gegenposition; Ergebnis: Gegenp…
+10. **besitzdogmatik-historische-schule** — Für Besitzdogmatik, historische Schule und Systemdenken: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfproduk…
 
 ---
 
@@ -142,7 +142,7 @@ Ausgangspunkt für dieses Plugin: Anspruchsteller für anspruchsbegründende Tat
 
 ## Skill: `kaltstart-triage`
 
-_Wenn es um Allgemeiner Einstieg in Rechtstheorie und Rechtsphilosophie geht: klärt Rolle, Ziel, Frist, Unterlagen und den passenden nächsten Fachskill; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt._
+_Für Allgemeiner Einstieg: routet Rolle, Frist, Unterlagen und Fachschritt; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt._
 
 # Allgemeiner Einstieg
 
@@ -216,9 +216,51 @@ Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei pr
 
 ---
 
+## Skill: `v392-lesefreude-rechtstheorie-rechtsphilosophie`
+
+_Erschließt eine rechtstheoretische Streitfrage über präzise These, stärkste Gegenposition, Methodenwahl und institutionelle Folgen; liefert eine verständliche Kontroverse mit Praxisbrücke, Quellenstatus und offen gelegten Wertungsentscheidungen._
+
+# Lesefreude Rechtstheorie und Rechtsphilosophie
+
+## 1. Konkreter Streit statt Etiketten
+
+Beginne mit einer entscheidbaren Frage und einer knappen Fallvignette. Formuliere danach zwei gegensätzliche Thesen so stark, dass ein Vertreter der jeweiligen Position sie akzeptieren könnte. Namen von Schulen oder Autoren ersetzen weder Prämisse noch Argument.
+
+## 2. Argumentationsmatrix
+
+2.1. Welche Vorstellung von Geltung, Auslegung, Legitimation oder Gerechtigkeit setzt die Position voraus?
+
+2.2. Welche Text-, System-, Folgen- oder Institutionenargumente tragen sie?
+
+2.3. Welche Tatsachenannahme oder Wertung ist verborgen und wie verändert eine Gegenannahme das Ergebnis?
+
+2.4. Welche Folgen hat die Position für Gesetzgeber, Gericht, Verwaltung, Vertragsparteien oder Bürger?
+
+2.5. Wo endet die begriffliche Analyse und wo beginnt eine normative Entscheidung?
+
+## 3. Rechtspraktische Anker
+
+3.1. GG Artikel 20 Absatz 3 bildet den positiven Ausgangspunkt für Bindung an Gesetz und Recht; daraus folgt nicht ohne weitere Begründung eine bestimmte philosophische Theorie.
+
+3.2. BGB Paragrafen 133 und 157 zeigen, dass Auslegung Text, wirklichen Willen, Treu und Glauben sowie Verkehrssitte in Beziehung setzt.
+
+3.3. BVerfG, Urteil vom 15.01.1958 - 1 BvR 400/51, Lüth: Grundrechte prägen als objektive Wertordnung die Auslegung des einfachen Rechts. Verwende die Entscheidung als institutionellen Anwendungsfall, nicht als Universalbeleg für jede Abwägung.
+
+3.4. ZPO Paragrafen 138 und 286 verdeutlichen die Trennung zwischen normativer Bewertung, Parteivortrag und richterlicher Tatsachenwürdigung.
+
+## 4. Ausgabe
+
+Liefere eine Kontroversenkarte mit These, Prämissen, stärkstem Argument, stärkstem Einwand, Antwort, institutioneller Folge und Praxisbeispiel. Danach folgt ein kurzer Text, der erklärt, welche Position im konkreten Problem mehr trägt und an welchem Punkt vernünftiger Dissens verbleibt.
+
+## 5. Qualitätskontrolle
+
+Trenne Beschreibung, Rekonstruktion und eigene Bewertung. Zitiere Primärtexte nur nach Prüfung und kennzeichne Übersetzungen. Vermeide Scheinpräzision, Autoritätslisten und das nachträgliche Zuschreiben heutiger Begriffe. Der Schluss muss eine konkrete dogmatische oder institutionelle Anschlussfrage eröffnen.
+
+---
+
 ## Skill: `methodenkritik-larenz-canaris-ordnung-system`
 
-_Wenn es um Methodenkritik: Larenz, Canaris, Systemdenken und konkrete Ordnung in Rechtstheorie und Rechtsphilosophie geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt._
+_Für Methodenkritik: Larenz, Canaris, Systemdenken und konkrete Ordnung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt._
 
 # Methodenkritik: Larenz, Canaris, Systemdenken und konkrete Ordnung
 
@@ -253,9 +295,115 @@ Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei pr
 
 ---
 
+## Skill: `kelsen-stufenbau-gueltigkeit`
+
+_Für Kelsen: Stufenbau, Geltung, Kompetenz und Methodendisziplin: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt._
+
+# Kelsen: Stufenbau, Geltung, Kompetenz und Methodendisziplin
+
+## Leitidee
+Kelsen zwingt die juristische Arbeit zur Disziplin: Eine Aussage ist nicht schon Recht, weil sie sinnvoll, moralisch oder praktisch wirkt. Sie braucht eine Quelle, eine Kompetenz, ein Verfahren und einen Platz im Normengefüge.
+
+## Prüfschritte
+1. **Normtyp:** Verfassung, EU-Recht, Gesetz, Verordnung, Satzung, Verwaltungsakt, Vertrag, Urteil, Soft Law.
+2. **Kompetenzkette:** Wer durfte das setzen und in welchem Verfahren?
+3. **Rang und Konflikt:** Lex superior, lex specialis, lex posterior, unionsrechtlicher Anwendungsvorrang, Grundrechtsbindung.
+4. **Geltung vs. Bewertung:** Ist die Norm gültig, anwendbar, nichtig, unanwendbar oder nur moralisch/politisch problematisch?
+5. **Rechtsschutz:** Welcher Weg kontrolliert sie, wer ist antragsbefugt, welche Frist gilt?
+
+## Regelungs- und Quellenanker
+
+Vor einer rechtlichen Schlussfolgerung diese Anker am aktuellen Normtext prüfen; Spezial- und Landesrecht nur hinzunehmen, wenn es den konkreten Auftrag traegt:
+
+- `Art. 1 Abs. 1 GG` — normative Grenze jeder Rechtsanwendung.
+- `Art. 20 Abs. 3 GG` — Gesetzesbindung und Rechtsbindung.
+- `Art. 19 Abs. 4 GG` — effektiver Rechtsschutz.
+- `Art. 97 Abs. 1 GG` — richterliche Unabhaengigkeit.
+- `§ 133 BGB` — Auslegung von Willenserklaerungen.
+- `§ 157 BGB` — Vertragsauslegung nach Treu und Glauben.
+- `§ 242 BGB` — Korrektiv der Rechtsausuebung.
+- `§ 1 StGB` — Bestimmtheit im Strafrecht.
+- `Art. 6 Abs. 1 EMRK` — faires Verfahren.
+- `Art. 47 GRCh` — wirksamer Rechtsbehelf.
+
+Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei prüfbare Quelle vorliegen; keine BeckRS-/juris-Blindzitate verwenden.
+
+## Powersprint-Vertiefung
+
+- **Argumentationsdisziplin:** Bei `Kelsen: Stufenbau, Geltung, Kompetenz und Methodendisziplin` positive Normbindung, Präjudizien, Prinzipien, institutionelle Kompetenz und rechtspolitische Wertung getrennt halten.
+- **Methodischer Streit:** Gesetzespositivistische, prinzipienorientierte, systematische, historische und realistische Lesarten als Alternativen sichtbar machen; keine Methode als Zauberformel ausgeben.
+- **Fehlerbremse:** Keine bloße Berufung auf „objektive Auslegung“, „Ausnahme eng“ oder „Natur der Sache“, ohne zu zeigen, wer dadurch Kompetenz gewinnt und welche Normbindung bleibt.
+- **Output:** Thesenpapier, Schriftsatzargument, Gegenargument-Matrix und Grenze richterlicher Rechtsfortbildung.
+
+---
+
+## Skill: `freund-feind-rhetorik-und-pluralismuscheck`
+
+_Für Freund-Feind-Rhetorik und Pluralismuscheck: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Schnittstellenkarte mit Zuständigkeits- und Nachweisfragen._
+
+# Freund-Feind-Rhetorik und Pluralismuscheck
+
+## Fachlicher Anker
+
+- **Normen:** die einschlägigen Normen dieses Sachgebiets.
+- **Entscheidungs-/Quellenanker:** Tragende Rechtsprechung nur mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle einsetzen; keine Entscheidung aus Modellwissen erzwingen.
+- **Quellenhygiene:** `references/quellenhygiene.md` und `references/zitierweise.md` beachten.
+
+## Fachkern: Freund-Feind-Rhetorik und Pluralismuscheck
+- **Normen-/Quellenanker:** Rechtsquellenlehre, Positivismus/Naturrecht, Normgeltung, Gewaltenteilung, Methodenlehre, Grundrechte, Rechtsstaat, Demokratie und kritische Ideengeschichte.
+- **Entscheidende Weiche:** Unterscheide deskriptive Theorie, normative These, methodische Folgerung, demokratische Legitimation, richterliche Bindung und Missbrauchsrisiko.
+- **Arbeitsprodukt:** Liefere eine fallbezogene `Norm / Tatsache / Beleg / Wertung / Gegenargument / nächster Schritt`-Matrix und einen direkt nutzbaren Textbaustein, wenn der Nutzer einen Entwurf braucht.
+
+## Sofort klären
+
+1. Wer wird als Gegner, Gefahr, illoyal, systemfremd oder untragbar markiert?
+2. Ist die Markierung rechtlich relevant oder nur politische Abwertung?
+3. Welche konkrete Handlung, Normverletzung oder Gefahr wird behauptet?
+4. Welche Rechte schützen gerade unpopuläre, störende oder oppositionelle Positionen?
+
+## Prüfprogramm
+
+1. **Label entfernen:** Schreibe die Aussage ohne Kampfbegriffe neu.
+2. **Tatsachenkern isolieren:** Welche überprüfbaren Handlungen bleiben übrig?
+3. **Rechtsnorm suchen:** Welche Norm knüpft an diese Handlung an?
+4. **Schutzbereich prüfen:** Meinungsfreiheit, Vereinigungsfreiheit, Berufsfreiheit, Gleichheit, Datenschutz, Verfahrensrechte.
+5. **Intensität abstufen:** Kritik, Sanktion, Ausschluss, Überwachung, Verbot, strafrechtliche Verfolgung.
+6. **Verhältnismäßigkeit prüfen:** Legitimer Zweck, Geeignetheit, Erforderlichkeit, Angemessenheit.
+
+## Anti-Schmitt-Kern
+
+Eine rechtsstaatliche Ordnung darf politische Gegnerschaft nicht automatisch in Rechtlosigkeit übersetzen. Wer aus `Gegner` `Feind` macht, verkürzt die Prüfung. Gerade die unangenehmen Fälle müssen durch Normen, Belege, Verfahren und Rechtsschutz laufen.
+
+## Warnsignale
+
+- `Wer nicht zustimmt, steht außerhalb der Ordnung.`
+- `Diese Person verdient keinen Rechtsschutz.`
+- `Formalitäten schützen nur die Falschen.`
+- `Neutralität ist Komplizenschaft.`
+- `Pluralismus ist Schwäche.`
+
+## Regelungs- und Quellenanker
+
+Vor einer rechtlichen Schlussfolgerung diese Anker am aktuellen Normtext prüfen; Spezial- und Landesrecht nur hinzunehmen, wenn es den konkreten Auftrag traegt:
+
+- `Art. 1 Abs. 1 GG` — normative Grenze jeder Rechtsanwendung.
+- `Art. 20 Abs. 3 GG` — Gesetzesbindung und Rechtsbindung.
+- `Art. 19 Abs. 4 GG` — effektiver Rechtsschutz.
+- `Art. 97 Abs. 1 GG` — richterliche Unabhaengigkeit.
+- `§ 133 BGB` — Auslegung von Willenserklaerungen.
+- `§ 157 BGB` — Vertragsauslegung nach Treu und Glauben.
+- `§ 242 BGB` — Korrektiv der Rechtsausuebung.
+- `§ 1 StGB` — Bestimmtheit im Strafrecht.
+- `Art. 6 Abs. 1 EMRK` — faires Verfahren.
+- `Art. 47 GRCh` — wirksamer Rechtsbehelf.
+
+Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei prüfbare Quelle vorliegen; keine BeckRS-/juris-Blindzitate verwenden.
+
+---
+
 ## Skill: `dworkin-law-as-integrity-hard-cases`
 
-_Wenn es um Dworkin: Recht als Integrität, Prinzipien und hard cases in Rechtstheorie und Rechtsphilosophie geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt._
+_Für Dworkin: Recht als Integrität, Prinzipien und hard cases: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt._
 
 # Dworkin: Recht als Integrität, Prinzipien und hard cases
 
@@ -288,42 +436,12 @@ Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei pr
 
 ---
 
-## Skill: `besitzdogmatik-historische-schule`
+## Skill: `daseinsvorsorge-verwaltungsrealismus-rechtsstaatscheck`
 
-_Wenn es um Besitzdogmatik, historische Schule und Systemdenken in Rechtstheorie und Rechtsphilosophie geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt._
+_Für Daseinsvorsorge Verwaltungsrealismus Rechtsstaatscheck: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt._
 
-# Besitzdogmatik, historische Schule und Systemdenken
+# Prüft Daseinsvorsorge, Infrastruktur, Verwaltung als Leistungs- und Ordnungsmacht: realistische Aufgabenanalyse ohne Preisgabe von Grundrechten, Gesetzesbindung und Rechtsschutz.
 
-## Fachlicher Anker
-
-- **Normen:** die einschlägigen Normen dieses Sachgebiets.
-- **Entscheidungs-/Quellenanker:** Tragende Rechtsprechung nur mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle einsetzen; keine Entscheidung aus Modellwissen erzwingen.
-- **Quellenhygiene:** `references/quellenhygiene.md` und `references/zitierweise.md` beachten.
-
-## Fachkern: Besitzdogmatik, historische Schule und Systemdenken
-- **Normen-/Quellenanker:** Rechtsquellenlehre, Positivismus/Naturrecht, Normgeltung, Gewaltenteilung, Methodenlehre, Grundrechte, Rechtsstaat, Demokratie und kritische Ideengeschichte.
-- **Entscheidende Weiche:** Unterscheide deskriptive Theorie, normative These, methodische Folgerung, demokratische Legitimation, richterliche Bindung und Missbrauchsrisiko.
-- **Arbeitsprodukt:** Liefere eine fallbezogene `Norm / Tatsache / Beleg / Wertung / Gegenargument / nächster Schritt`-Matrix und einen direkt nutzbaren Textbaustein, wenn der Nutzer einen Entwurf braucht.
-
-## Sofort klären
-
-1. Geht es um Besitz, Eigentum, Herausgabe, verbotene Eigenmacht, Fund, Verwahrung, Ersitzung, Grenze, Zubehör, Teil eines Ganzen oder faktische Sachherrschaft?
-2. Welche dogmatische Figur wird verwendet: Sachherrschaft, Besitzwille, Besitzdiener, mittelbarer Besitz, Mitbesitz, Besitzschutz, Besitzkonstitut?
-3. Ist die Figur im geltenden Recht verankert oder nur historisch plausibel?
-4. Welche praktische Funktion soll sie erfüllen: Beweisvereinfachung, Friedensschutz, Verkehrsschutz, Investitionsschutz, Ressourcenzuordnung?
-
-## Prüfprogramm
-
-1. **Dogmatischen Kern isolieren:** Welche Begriffe entscheiden den Fall?
-2. **Historische Herkunft nur als Material nutzen:** Tradition erklärt, warum eine Figur so aussieht, ersetzt aber nicht die geltende Norm.
-3. **Systemfrage stellen:** Passt das Ergebnis zu Besitzschutz, Eigentumsschutz, Deliktsrecht, Bereicherungsrecht und Verjährung?
-4. **Grenzfall testen:** Schlüssel, Lager, versteckte Sache, Tier, Teil einer Sache, Miteigentum, Mitbesitz, fremdnützige Verwahrung.
-5. **Funktion prüfen:** Welches soziale Problem löst die Regel wirklich?
-6. **Deduktionsfalle markieren:** Wird aus einem schönen Begriff mehr herausgelesen, als das geltende Recht trägt?
-
-## Leitgedanke
-
-Historische Dogmatik kann Ordnung, Sprache und Vergleichsmaterial liefern. Sie wird problematisch, wenn sie so tut, als könne man moderne Fälle rein aus einem ursprünglichen Prinzip lösen. Gute Rechtsanwendung braucht beides: systematische Disziplin und Sinn für praktische Fallgruppen.
 
 ## Regelungs- und Quellenanker
 
@@ -342,273 +460,25 @@ Vor einer rechtlichen Schlussfolgerung diese Anker am aktuellen Normtext prüfen
 
 Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei prüfbare Quelle vorliegen; keine BeckRS-/juris-Blindzitate verwenden.
 
----
-
-## Skill: `wissensproblem-dezentrale-information`
-
-_Wenn es um Wissensproblem, dezentrale Information und Recht in Rechtstheorie und Rechtsphilosophie geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt._
-
-# Wissensproblem, dezentrale Information und Recht
-
-## Fachlicher Anker
-
-- **Normen:** die einschlägigen Normen dieses Sachgebiets.
-- **Entscheidungs-/Quellenanker:** Tragende Rechtsprechung nur mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle einsetzen; keine Entscheidung aus Modellwissen erzwingen.
-- **Quellenhygiene:** `references/quellenhygiene.md` und `references/zitierweise.md` beachten.
-
-## Fachkern: Wissensproblem, dezentrale Information und Recht
-- **Normen-/Quellenanker:** Rechtsquellenlehre, Positivismus/Naturrecht, Normgeltung, Gewaltenteilung, Methodenlehre, Grundrechte, Rechtsstaat, Demokratie und kritische Ideengeschichte.
-- **Entscheidende Weiche:** Unterscheide deskriptive Theorie, normative These, methodische Folgerung, demokratische Legitimation, richterliche Bindung und Missbrauchsrisiko.
-- **Arbeitsprodukt:** Liefere eine fallbezogene `Norm / Tatsache / Beleg / Wertung / Gegenargument / nächster Schritt`-Matrix und einen direkt nutzbaren Textbaustein, wenn der Nutzer einen Entwurf braucht.
-
-## Sofort klären
-
-1. Wer besitzt die entscheidenden Informationen: Marktteilnehmer, Verwaltung, Gericht, Sachverständige, Betroffene, Verbände, Plattformen, Unternehmen?
-2. Sind die Informationen kodifiziert, statistisch messbar, lokal-praktisch, stillschweigend, preisförmig oder nur durch Erfahrung zugänglich?
-3. Soll die Rechtsordnung zentral planen, allgemein rahmen, dezentral beobachten, experimentieren oder nachträglich korrigieren?
-4. Welche Freiheit, Gleichheit, Sicherheit oder Drittschäden stehen auf dem Spiel?
-
-## Prüfprogramm
-
-1. **Informationskarte:** Liste auf, welche Informationen für eine gute Regel nötig wären.
-2. **Verteilungsanalyse:** Ordne jede Information der Stelle zu, die sie am besten kennt.
-3. **Kommunizierbarkeit:** Prüfe, ob die Information als Datenpunkt, Gutachten, Preis, Branchenstandard, Erfahrungswissen oder gar nicht sauber übertragbar ist.
-4. **Regelungsmodus:** Wähle zwischen harter Regel, Standard, Vermutung, Experimentierklausel, Berichtspflicht, Audit, Haftung, Marktmechanismus oder gerichtlicher Einzelfallkontrolle.
-5. **Fehlerkosten:** Was passiert bei Überregulierung, Unterregulierung, falscher Standardisierung oder Informationsasymmetrie?
-6. **Kontrolle:** Wer kann nachsteuern, wenn sich Wissen verändert?
-
-## Leitgedanke
-
-Das Wissensproblem ist ein starkes Argument gegen allzu selbstgewisse zentrale Detailsteuerung. Es ist aber kein Argument gegen Rechtsetzung überhaupt. Gerade weil Wissen verteilt ist, braucht Recht oft Verfahren, Transparenz, Haftung, Standards, Rückmeldeschleifen und gute Korrekturmechanismen.
-
-## Warnsignale
-
-- `Der Gesetzgeber kann das alles vorab wissen.`
-- `Der Markt weiß es immer besser.`
-- `Die Behörde hat die Daten, also hat sie auch das Wissen.`
-- `Die Branche macht das so, also ist es richtig.`
-- `Komplexität verbietet Regulierung.`
-
-## Regelungs- und Quellenanker
-
-Vor einer rechtlichen Schlussfolgerung diese Anker am aktuellen Normtext prüfen; Spezial- und Landesrecht nur hinzunehmen, wenn es den konkreten Auftrag traegt:
-
-- `Art. 1 Abs. 1 GG` — normative Grenze jeder Rechtsanwendung.
-- `Art. 20 Abs. 3 GG` — Gesetzesbindung und Rechtsbindung.
-- `Art. 19 Abs. 4 GG` — effektiver Rechtsschutz.
-- `Art. 97 Abs. 1 GG` — richterliche Unabhaengigkeit.
-- `§ 133 BGB` — Auslegung von Willenserklaerungen.
-- `§ 157 BGB` — Vertragsauslegung nach Treu und Glauben.
-- `§ 242 BGB` — Korrektiv der Rechtsausuebung.
-- `§ 1 StGB` — Bestimmtheit im Strafrecht.
-- `Art. 6 Abs. 1 EMRK` — faires Verfahren.
-- `Art. 47 GRCh` — wirksamer Rechtsbehelf.
-
-Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei prüfbare Quelle vorliegen; keine BeckRS-/juris-Blindzitate verwenden.
-
----
-
-## Skill: `regeln-tacit-knowledge-kognitive-entlastung`
-
-_Wenn es um Regeln, stilles Wissen und kognitive Entlastung in Rechtstheorie und Rechtsphilosophie geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt._
-
-# Regeln, stilles Wissen und kognitive Entlastung
-
-## Fachlicher Anker
-
-- **Normen:** die einschlägigen Normen dieses Sachgebiets.
-- **Entscheidungs-/Quellenanker:** Tragende Rechtsprechung nur mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle einsetzen; keine Entscheidung aus Modellwissen erzwingen.
-- **Quellenhygiene:** `references/quellenhygiene.md` und `references/zitierweise.md` beachten.
-
-## Fachkern: Regeln, stilles Wissen und kognitive Entlastung
-- **Normen-/Quellenanker:** Rechtsquellenlehre, Positivismus/Naturrecht, Normgeltung, Gewaltenteilung, Methodenlehre, Grundrechte, Rechtsstaat, Demokratie und kritische Ideengeschichte.
-- **Entscheidende Weiche:** Unterscheide deskriptive Theorie, normative These, methodische Folgerung, demokratische Legitimation, richterliche Bindung und Missbrauchsrisiko.
-- **Arbeitsprodukt:** Liefere eine fallbezogene `Norm / Tatsache / Beleg / Wertung / Gegenargument / nächster Schritt`-Matrix und einen direkt nutzbaren Textbaustein, wenn der Nutzer einen Entwurf braucht.
-
-## Sofort klären
-
-1. Welche Regel oder Routine wird angewendet?
-2. Welches Erfahrungswissen könnte in ihr stecken?
-3. Muss die Anwenderin den Zweck jedes Mal neu verstehen oder reicht ein einfacher Trigger?
-4. Gibt es Konstellationen, in denen blinde Regelbefolgung schädlich wird?
-
-## Prüfprogramm
-
-1. **Regelzweck rekonstruieren:** Was soll die Regel vermeiden, vereinfachen oder sichern?
-2. **Wissensspeicher:** Welche Erfahrung steckt in der Regel: Unfallvermeidung, Marktbrauch, Beweisvereinfachung, Gleichbehandlung, Transaktionskosten, Datenschutz, Fristenklarheit?
-3. **Trigger:** Welche wenigen Tatsachen lösen die Regel aus?
-4. **Standard-Alternative:** Wäre ein offener Standard gerechter, aber teurer?
-5. **Ausnahmebedarf:** Gibt es atypische Fälle, in denen die Regel ihren Zweck verfehlt?
-6. **Blindheitsrisiko:** Ist der ursprüngliche Grund der Regel entfallen, unbekannt oder falsch geworden?
-
-## Regel-vs-Standard-Check
-
-- **Regel:** gut bei hoher Wiederholung, niedriger Toleranz für Streit, klaren Tatsachen, hohem Bedürfnis nach Vorhersehbarkeit.
-- **Standard:** gut bei vielfältigen Fallgestaltungen, hohem Einzelfallgerechtigkeitsbedarf, schwer vorhersehbaren Risiken.
-- **Hybrid:** Regel mit Ausnahmeklausel, Vermutung, Safe Harbor, Audit, Berichtspflicht oder Nachsteuerung.
-
-## Leitgedanke
-
-Regelbindung kann rational sein, auch wenn die Anwenderin den vollen Grund der Regel nicht kennt. Das ist keine Kapitulation vor Denken, sondern kognitive Ökonomie. Gefährlich wird es, wenn die Regel gegen neue Tatsachen immunisiert wird oder als Autoritätsersatz dient.
-
-## Regelungs- und Quellenanker
-
-Vor einer rechtlichen Schlussfolgerung diese Anker am aktuellen Normtext prüfen; Spezial- und Landesrecht nur hinzunehmen, wenn es den konkreten Auftrag traegt:
-
-- `Art. 1 Abs. 1 GG` — normative Grenze jeder Rechtsanwendung.
-- `Art. 20 Abs. 3 GG` — Gesetzesbindung und Rechtsbindung.
-- `Art. 19 Abs. 4 GG` — effektiver Rechtsschutz.
-- `Art. 97 Abs. 1 GG` — richterliche Unabhaengigkeit.
-- `§ 133 BGB` — Auslegung von Willenserklaerungen.
-- `§ 157 BGB` — Vertragsauslegung nach Treu und Glauben.
-- `§ 242 BGB` — Korrektiv der Rechtsausuebung.
-- `§ 1 StGB` — Bestimmtheit im Strafrecht.
-- `Art. 6 Abs. 1 EMRK` — faires Verfahren.
-- `Art. 47 GRCh` — wirksamer Rechtsbehelf.
-
-Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei prüfbare Quelle vorliegen; keine BeckRS-/juris-Blindzitate verwenden.
-
----
-
-## Skill: `staat-ordnungsmacht-anti-autoritaerer-check`
-
-_Wenn es um Staat als Ordnungsmacht: anti-autoritärer Check in Rechtstheorie und Rechtsphilosophie geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt._
-
-# Staat als Ordnungsmacht: anti-autoritärer Check
-
-## Fachlicher Anker
-
-- **Normen:** die einschlägigen Normen dieses Sachgebiets.
-- **Entscheidungs-/Quellenanker:** Tragende Rechtsprechung nur mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle einsetzen; keine Entscheidung aus Modellwissen erzwingen.
-- **Quellenhygiene:** `references/quellenhygiene.md` und `references/zitierweise.md` beachten.
-
-## Fachkern: Staat als Ordnungsmacht: anti-autoritärer Check
-- **Normen-/Quellenanker:** Rechtsquellenlehre, Positivismus/Naturrecht, Normgeltung, Gewaltenteilung, Methodenlehre, Grundrechte, Rechtsstaat, Demokratie und kritische Ideengeschichte.
-- **Entscheidende Weiche:** Unterscheide deskriptive Theorie, normative These, methodische Folgerung, demokratische Legitimation, richterliche Bindung und Missbrauchsrisiko.
-- **Arbeitsprodukt:** Liefere eine fallbezogene `Norm / Tatsache / Beleg / Wertung / Gegenargument / nächster Schritt`-Matrix und einen direkt nutzbaren Textbaustein, wenn der Nutzer einen Entwurf braucht.
-
-## Sofort klären
-
-1. Welche Ordnung soll geschützt werden?
-2. Welche Gefahr wird behauptet?
-3. Welche Maßnahme soll der Staat ergreifen?
-4. Welche Norm, Kompetenz und Kontrolle begrenzen die Maßnahme?
-5. Wer wird zum Objekt staatlicher Ordnung gemacht?
-
-## Prüfprogramm
-
-1. **Gefahrenkern:** Tatsachen, Prognose, Wahrscheinlichkeit, Schadenshöhe.
-2. **Norm:** konkrete Ermächtigung statt allgemeiner Ordnungsformel.
-3. **Kompetenz:** zuständige Behörde, Verfahren, Form, Dokumentation.
-4. **Verhältnismäßigkeit:** Geeignetheit, Erforderlichkeit, Angemessenheit.
-5. **Nichtdiskriminierung:** Keine pauschale Stigmatisierung von Gruppen.
-6. **Rechtsschutz:** Effektiver Angriff gegen Maßnahme und Vollzug.
-7. **Nachkontrolle:** Befristung, Bericht, Entschädigung, Löschung, Folgenprüfung.
-
-## Leitbild
-
-Ein Staat darf und muss handlungsfähig sein. Rechtsstaatliche Handlungsfähigkeit unterscheidet sich aber gerade dadurch von autoritärer Macht, dass sie sich selbst an Norm, Verfahren, Begründung und Kontrolle bindet.
-
-## Warnsignale
-
-- `Ordnung` wird nicht definiert.
-- Gefahr wird behauptet, aber nicht belegt.
-- Gruppen werden kollektiv verdächtigt.
-- Rechtsschutz wird als Störung beschrieben.
-- Eilmaßnahmen werden nicht befristet.
-- Die Exekutive prüft ihre eigenen Grenzen ohne externe Kontrolle.
-
-## Regelungs- und Quellenanker
-
-Vor einer rechtlichen Schlussfolgerung diese Anker am aktuellen Normtext prüfen; Spezial- und Landesrecht nur hinzunehmen, wenn es den konkreten Auftrag traegt:
-
-- `Art. 1 Abs. 1 GG` — normative Grenze jeder Rechtsanwendung.
-- `Art. 20 Abs. 3 GG` — Gesetzesbindung und Rechtsbindung.
-- `Art. 19 Abs. 4 GG` — effektiver Rechtsschutz.
-- `Art. 97 Abs. 1 GG` — richterliche Unabhaengigkeit.
-- `§ 133 BGB` — Auslegung von Willenserklaerungen.
-- `§ 157 BGB` — Vertragsauslegung nach Treu und Glauben.
-- `§ 242 BGB` — Korrektiv der Rechtsausuebung.
-- `§ 1 StGB` — Bestimmtheit im Strafrecht.
-- `Art. 6 Abs. 1 EMRK` — faires Verfahren.
-- `Art. 47 GRCh` — wirksamer Rechtsbehelf.
-
-Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei prüfbare Quelle vorliegen; keine BeckRS-/juris-Blindzitate verwenden.
-
----
-
-## Skill: `legalitaetsprinzipien-als-rechtsstaatsmotor`
-
-_Wenn es um Legalitätsprinzipien als Rechtsstaatsmotor in Rechtstheorie und Rechtsphilosophie geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt._
-
-# Legalitätsprinzipien als Rechtsstaatsmotor
-
-## Fachlicher Anker
-
-- **Normen:** die einschlägigen Normen dieses Sachgebiets.
-- **Entscheidungs-/Quellenanker:** Tragende Rechtsprechung nur mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle einsetzen; keine Entscheidung aus Modellwissen erzwingen.
-- **Quellenhygiene:** `references/quellenhygiene.md` und `references/zitierweise.md` beachten.
-
-## Fachkern: Legalitätsprinzipien als Rechtsstaatsmotor
-- **Normen-/Quellenanker:** Rechtsquellenlehre, Positivismus/Naturrecht, Normgeltung, Gewaltenteilung, Methodenlehre, Grundrechte, Rechtsstaat, Demokratie und kritische Ideengeschichte.
-- **Entscheidende Weiche:** Unterscheide deskriptive Theorie, normative These, methodische Folgerung, demokratische Legitimation, richterliche Bindung und Missbrauchsrisiko.
-- **Arbeitsprodukt:** Liefere eine fallbezogene `Norm / Tatsache / Beleg / Wertung / Gegenargument / nächster Schritt`-Matrix und einen direkt nutzbaren Textbaustein, wenn der Nutzer einen Entwurf braucht.
-
-## Acht Prüfsteine
-
-1. **Allgemeinheit:** Regeln dürfen nicht bloß verkleidete Einzelfallbefehle sein. Prüfe, ob sie nach Fallgruppen, Rollen und Tatbestandsmerkmalen arbeiten.
-2. **Publizität:** Eine Regel muss zugänglich, auffindbar und verständlich bekannt gemacht sein. Geheime Maßstäbe sind ein Warnsignal.
-3. **Prospektivität:** Recht soll Verhalten für die Zukunft lenken. Rückwirkung braucht besondere Rechtfertigung und Vertrauensschutzprüfung.
-4. **Klarheit:** Adressaten müssen erkennen können, was verlangt, verboten, erlaubt oder riskiert wird.
-5. **Widerspruchsfreiheit:** Normen und Behördenpraxis dürfen keine unauflösbaren Doppelbindungen erzeugen.
-6. **Erfüllbarkeit:** Niemand darf rechtlich auf etwas verpflichtet werden, das tatsächlich oder rechtlich unmöglich ist.
-7. **Stabilität:** Häufige Richtungswechsel zerstören Orientierung; Änderungen brauchen Übergangslogik.
-8. **Kongruenz:** Amts- und Gerichtspraxis müssen zu den angekündigten Regeln passen. Eine schöne Norm nützt wenig, wenn sie praktisch anders vollzogen wird.
-
-## Arbeitsprogramm
-
-1. Formuliere den behaupteten Rechtsmaßstab in einem Satz.
-2. Prüfe die acht Legalitätssteine und markiere Bruchstellen.
-3. Trenne bloße Unschärfe von rechtsstaatlich gefährlicher Unberechenbarkeit.
-4. Bestimme, welche Institution den Mangel beheben kann: Gesetzgeber, Verwaltung, Gericht, Satzungsgeber, Vertragsparteien oder interne Governance.
-5. Gib eine kurze Reparaturformel aus: Klarstellung, Übergangsregel, Begründung, Veröffentlichung, Härtefallmechanismus, Rechtsschutz.
-
-## Regelungs- und Quellenanker
-
-Vor einer rechtlichen Schlussfolgerung diese Anker am aktuellen Normtext prüfen; Spezial- und Landesrecht nur hinzunehmen, wenn es den konkreten Auftrag traegt:
-
-- `Art. 1 Abs. 1 GG` — normative Grenze jeder Rechtsanwendung.
-- `Art. 20 Abs. 3 GG` — Gesetzesbindung und Rechtsbindung.
-- `Art. 19 Abs. 4 GG` — effektiver Rechtsschutz.
-- `Art. 97 Abs. 1 GG` — richterliche Unabhaengigkeit.
-- `§ 133 BGB` — Auslegung von Willenserklaerungen.
-- `§ 157 BGB` — Vertragsauslegung nach Treu und Glauben.
-- `§ 242 BGB` — Korrektiv der Rechtsausuebung.
-- `§ 1 StGB` — Bestimmtheit im Strafrecht.
-- `Art. 6 Abs. 1 EMRK` — faires Verfahren.
-- `Art. 47 GRCh` — wirksamer Rechtsbehelf.
-
-Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei prüfbare Quelle vorliegen; keine BeckRS-/juris-Blindzitate verwenden.
-
-## Quellen- und Zitierdisziplin
-
-- Keine Literatur-, Kommentar-, Aufsatz-, BeckRS- oder juris-Blindzitate.
-- Theoretische Begriffe sind Arbeitswerkzeuge, keine Autoritätsbeweise.
-- Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei prüfbarer Quelle verwenden.
-
----
-
-## Skill: `daseinsvorsorge-verwaltungsrealismus`
-
-_Wenn es um Daseinsvorsorge und Verwaltungsrealismus in Rechtstheorie und Rechtsphilosophie geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt._
-
-# Daseinsvorsorge und Verwaltungsrealismus
-
-## Fachlicher Anker
-
-- **Normen:** die einschlägigen Normen dieses Sachgebiets.
-- **Entscheidungs-/Quellenanker:** Tragende Rechtsprechung nur mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle einsetzen; keine Entscheidung aus Modellwissen erzwingen.
-- **Quellenhygiene:** `references/quellenhygiene.md` und `references/zitierweise.md` beachten.
+## Arbeitsweg
+
+- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
+- Fristen und Eilrisiken zuerst markieren: keine prozessualen Fristen — Argumentationslast hingegen verfahrenslogisch (Begründungsdichte, Subsumtionsspielraum, Auslegungsmethoden).
+- Tragende Normen verifizieren: GG Art. 20 Abs. 3, Art. 79 Abs. 3, Art. 103 Abs. 2, methodische Grundlagen: Larenz/Canaris, Bydlinski, Engisch, Alexy (Theorie der juristischen Argumentation), Radbruch'sche Formel, Hart, Kelsen — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
+- Zuständige Stelle bestimmen und Adressaten richtig wählen: Wissenschaft, Gesetzgeber, Verfassungsgericht (BVerfG), Rechtsprechung, juristische Methodik in Studium und Praxis.
+- Dokumente und Beweismittel sammeln und auf Lücken prüfen: Methodengutachten, dogmatische Stellungnahme, BVerfG-Verfassungsbeschwerde-Schriftsatz, akademische Argumentationskette, juristische Hausarbeit — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
+
+**Fokus:** Prüft Daseinsvorsorge, Infrastruktur, Verwaltung als Leistungs- und Ordnungsmacht: realistische Aufgabenanalyse ohne Preisgabe von Grundrechten, Gesetzesbindung und Rechtsschutz.
+
+### Daseinsvorsorge und Verwaltungsrealismus
+
+## Fachlicher Kern — Rechtstheorie und Rechtsphilosophie
+- **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `Daseinsvorsorge und Verwaltungsrealismus` und löse die dort angelegte Fachfrage; arbeite mit konkreten Tatbestandsmerkmalen, Beweisfragen und dem unmittelbar benötigten Arbeitsprodukt. Routingfragen bleiben Hilfsmittel, wenn Frist, Zuständigkeit oder Verfahrensart offen sind.
+- **Normenradar:** Rechtsquellen, Kompetenz, Normstufe, Verfahren, Grundrechte, Demokratieprinzip, Gewaltenteilung und Rechtsschutz als harte Prüfachsen; Theorie dient der Präzision, nicht als Autoritätsersatz.
+- **Verifizierte Anker:** Dworkin: Regeln/Prinzipien, Recht als Integrität, beste rechtliche Begründung in hard cases; Kelsen: Reine Rechtslehre, Stufenbau, Trennung von Geltung und Bewertung; Larenz/Canaris nur kritisch-historisch kontrolliert verwenden, insbesondere wegen Larenz’ nationalsozialistischer Verstrickung und Nähe zu konkreten Ordnungsdenkfiguren.
+- **Arbeitsmodus:** Argumente erst rechtsquellenklar machen, dann methodisch einordnen, dann politische/moralische Prämissen offenlegen; dezisionistische, autoritäre oder scheinobjektive Systemrhetorik red-teamen.
+- **Outputpflicht:** Theorie-Memo, Methodenmatrix, Red-Team, Gerichts-/Ministeriumsbaustein, Argumentkarte oder Grenzenprotokoll.
+- **Fehlerbremse:** Tragende Normen/Entscheidungen live oder aus der Akte verifizieren; Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei prüfbarer Quelle. Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen.
 
 ## Fachkern: Daseinsvorsorge und Verwaltungsrealismus
 - **Normen-/Quellenanker:** Rechtsquellenlehre, Positivismus/Naturrecht, Normgeltung, Gewaltenteilung, Methodenlehre, Grundrechte, Rechtsstaat, Demokratie und kritische Ideengeschichte.
@@ -644,6 +514,111 @@ Verwaltungsrealismus ist nützlich, solange er Wirklichkeit in Recht übersetzt.
 - Schul- und Hochschulorganisation;
 - Plattform- oder Datenzugang im öffentlichen Auftrag;
 - Krisenbeschaffung und Notfallverwaltung.
+
+---
+
+## Skill: `institutionenrhetorik-konkrete-ordnung-red-team-korrektur`
+
+_Für Institutionenrhetorik und konkrete Ordnung: Red-Team: prüft Ergebnis, Beweislast und Gegenposition; Ergebnis: Gegenprüfung mit Beweis- und Fristencheck._
+
+# Institutionenrhetorik und konkrete Ordnung: Red-Team
+
+## Fachlicher Kern — Rechtstheorie und Rechtsphilosophie
+- **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `Institutionenrhetorik und konkrete Ordnung: Red-Team` und löse die dort angelegte Fachfrage; arbeite mit konkreten Tatbestandsmerkmalen, Beweisfragen und dem unmittelbar benötigten Arbeitsprodukt. Routingfragen bleiben Hilfsmittel, wenn Frist, Zuständigkeit oder Verfahrensart offen sind.
+- **Normenradar:** Rechtsquellen, Kompetenz, Normstufe, Verfahren, Grundrechte, Demokratieprinzip, Gewaltenteilung und Rechtsschutz als harte Prüfachsen; Theorie dient der Präzision, nicht als Autoritätsersatz.
+- **Verifizierte Anker:** Dworkin: Regeln/Prinzipien, Recht als Integrität, beste rechtliche Begründung in hard cases; Kelsen: Reine Rechtslehre, Stufenbau, Trennung von Geltung und Bewertung; Larenz/Canaris nur kritisch-historisch kontrolliert verwenden, insbesondere wegen Larenz’ nationalsozialistischer Verstrickung und Nähe zu konkreten Ordnungsdenkfiguren.
+- **Arbeitsmodus:** Argumente erst rechtsquellenklar machen, dann methodisch einordnen, dann politische/moralische Prämissen offenlegen; dezisionistische, autoritäre oder scheinobjektive Systemrhetorik red-teamen.
+- **Outputpflicht:** Theorie-Memo, Methodenmatrix, Red-Team, Gerichts-/Ministeriumsbaustein, Argumentkarte oder Grenzenprotokoll.
+- **Fehlerbremse:** Tragende Normen/Entscheidungen live oder aus der Akte verifizieren; Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei prüfbarer Quelle. Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen.
+
+## Fachkern: Institutionenrhetorik und konkrete Ordnung: Red-Team
+- **Normen-/Quellenanker:** Rechtsquellenlehre, Positivismus/Naturrecht, Normgeltung, Gewaltenteilung, Methodenlehre, Grundrechte, Rechtsstaat, Demokratie und kritische Ideengeschichte.
+- **Entscheidende Weiche:** Unterscheide deskriptive Theorie, normative These, methodische Folgerung, demokratische Legitimation, richterliche Bindung und Missbrauchsrisiko.
+- **Arbeitsprodukt:** Liefere eine fallbezogene `Norm / Tatsache / Beleg / Wertung / Gegenargument / nächster Schritt`-Matrix und einen direkt nutzbaren Textbaustein, wenn der Nutzer einen Entwurf braucht.
+
+## Sofort klären
+
+1. Welche Institution wird angerufen?
+2. Ist sie rechtlich geregelt oder nur sozial beschrieben?
+3. Welche Rechtsfolge soll aus ihr abgeleitet werden?
+4. Wer profitiert davon, wer verliert Rechte?
+
+## Prüfprogramm
+
+1. **Beschreibung:** Was ist empirisch gemeint?
+2. **Normanschluss:** Welche Norm erkennt diese Institution an?
+3. **Kompetenz:** Wer darf daraus Rechtsfolgen ableiten?
+4. **Gegenrechte:** Welche Grundrechte, Gleichheitsrechte oder Verfahrensrechte begrenzen die Institution?
+5. **Machtanalyse:** Stabilisiert das Argument eine bestehende Hierarchie?
+6. **Alternativformulierung:** Übersetze die Institutionenrede in prüfbare Tatbestandsmerkmale.
+
+## Warnsignale
+
+- `Das war schon immer so.`
+- `Die Institution lebt von Vertrauen, deshalb stören Rechte nur.`
+- `Die Funktionsfähigkeit verlangt Gehorsam.`
+- `Die Ordnung ist konkreter als das Gesetz.`
+- `Wer die Institution kritisiert, stellt sich außerhalb.`
+
+## Arbeitsregel
+
+Institutionen können rechtliche Auslegung informieren, wenn das Gesetz dafür offen ist. Sie dürfen aber nicht heimlich eine eigenständige, höherrangige Ordnung bilden. Jede institutionelle Behauptung muss durch Norm, Kompetenz, Verfahren und Rechte zurückgebunden werden.
+
+## Regelungs- und Quellenanker
+
+Vor einer rechtlichen Schlussfolgerung diese Anker am aktuellen Normtext prüfen; Spezial- und Landesrecht nur hinzunehmen, wenn es den konkreten Auftrag traegt:
+
+- `Art. 1 Abs. 1 GG` — normative Grenze jeder Rechtsanwendung.
+- `Art. 20 Abs. 3 GG` — Gesetzesbindung und Rechtsbindung.
+- `Art. 19 Abs. 4 GG` — effektiver Rechtsschutz.
+- `Art. 97 Abs. 1 GG` — richterliche Unabhaengigkeit.
+- `§ 133 BGB` — Auslegung von Willenserklaerungen.
+- `§ 157 BGB` — Vertragsauslegung nach Treu und Glauben.
+- `§ 242 BGB` — Korrektiv der Rechtsausuebung.
+- `§ 1 StGB` — Bestimmtheit im Strafrecht.
+- `Art. 6 Abs. 1 EMRK` — faires Verfahren.
+- `Art. 47 GRCh` — wirksamer Rechtsbehelf.
+
+Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei prüfbare Quelle vorliegen; keine BeckRS-/juris-Blindzitate verwenden.
+
+---
+
+## Skill: `besitzdogmatik-historische-schule`
+
+_Für Besitzdogmatik, historische Schule und Systemdenken: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt._
+
+# Besitzdogmatik, historische Schule und Systemdenken
+
+## Fachlicher Anker
+
+- **Normen:** die einschlägigen Normen dieses Sachgebiets.
+- **Entscheidungs-/Quellenanker:** Tragende Rechtsprechung nur mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle einsetzen; keine Entscheidung aus Modellwissen erzwingen.
+- **Quellenhygiene:** `references/quellenhygiene.md` und `references/zitierweise.md` beachten.
+
+## Fachkern: Besitzdogmatik, historische Schule und Systemdenken
+- **Normen-/Quellenanker:** Rechtsquellenlehre, Positivismus/Naturrecht, Normgeltung, Gewaltenteilung, Methodenlehre, Grundrechte, Rechtsstaat, Demokratie und kritische Ideengeschichte.
+- **Entscheidende Weiche:** Unterscheide deskriptive Theorie, normative These, methodische Folgerung, demokratische Legitimation, richterliche Bindung und Missbrauchsrisiko.
+- **Arbeitsprodukt:** Liefere eine fallbezogene `Norm / Tatsache / Beleg / Wertung / Gegenargument / nächster Schritt`-Matrix und einen direkt nutzbaren Textbaustein, wenn der Nutzer einen Entwurf braucht.
+
+## Sofort klären
+
+1. Geht es um Besitz, Eigentum, Herausgabe, verbotene Eigenmacht, Fund, Verwahrung, Ersitzung, Grenze, Zubehör, Teil eines Ganzen oder faktische Sachherrschaft?
+2. Welche dogmatische Figur wird verwendet: Sachherrschaft, Besitzwille, Besitzdiener, mittelbarer Besitz, Mitbesitz, Besitzschutz, Besitzkonstitut?
+3. Ist die Figur im geltenden Recht verankert oder nur historisch plausibel?
+4. Welche praktische Funktion soll sie erfüllen: Beweisvereinfachung, Friedensschutz, Verkehrsschutz, Investitionsschutz, Ressourcenzuordnung?
+
+## Prüfprogramm
+
+1. **Dogmatischen Kern isolieren:** Welche Begriffe entscheiden den Fall?
+2. **Historische Herkunft nur als Material nutzen:** Tradition erklärt, warum eine Figur so aussieht, ersetzt aber nicht die geltende Norm.
+3. **Systemfrage stellen:** Passt das Ergebnis zu Besitzschutz, Eigentumsschutz, Deliktsrecht, Bereicherungsrecht und Verjährung?
+4. **Grenzfall testen:** Schlüssel, Lager, versteckte Sache, Tier, Teil einer Sache, Miteigentum, Mitbesitz, fremdnützige Verwahrung.
+5. **Funktion prüfen:** Welches soziale Problem löst die Regel wirklich?
+6. **Deduktionsfalle markieren:** Wird aus einem schönen Begriff mehr herausgelesen, als das geltende Recht trägt?
+
+## Leitgedanke
+
+Historische Dogmatik kann Ordnung, Sprache und Vergleichsmaterial liefern. Sie wird problematisch, wenn sie so tut, als könne man moderne Fälle rein aus einem ursprünglichen Prinzip lösen. Gute Rechtsanwendung braucht beides: systematische Disziplin und Sinn für praktische Fallgruppen.
 
 ## Regelungs- und Quellenanker
 

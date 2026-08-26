@@ -1,6 +1,6 @@
 ---
 name: gebietsschutz-standortanalyse-und-kannibalisierung
-description: "Wenn es um Franchiserecht: Gebietsschutz, Standortanalyse und Kannibalisierung in Franchiserecht Praxis geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Franchiserecht: Gebietsschutz, Standortanalyse und Kannibalisierung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Franchiserecht: Gebietsschutz, Standortanalyse und Kannibalisierung

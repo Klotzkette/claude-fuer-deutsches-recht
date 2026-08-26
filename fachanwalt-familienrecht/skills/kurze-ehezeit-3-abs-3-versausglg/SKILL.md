@@ -1,6 +1,6 @@
 ---
 name: kurze-ehezeit-3-abs-3-versausglg
-description: "Wenn es um Kurze Ehezeit 3 Abs 3 Versausglg in Fachanwalt Familienrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Kurze Ehezeit 3 Abs 3 Versausglg: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Kurze Ehezeit Paragraf 3 Abs 3 VersAusglG: prüft die einschlägigen Voraussetzungen, Dokumente, Risiken und Ausnahmen

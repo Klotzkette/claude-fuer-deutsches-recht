@@ -1,6 +1,6 @@
 ---
 name: honorarstreit-und-unabhaengigkeit-kammerantwort
-description: "Wenn es um Honorarstreit Und Unabhaengigkeit Kammerantwort in Berufsrecht Wirtschaftsprüfer geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Verhandlungs- oder Eskalationslinie mit Optionen."
+description: "Für Honorarstreit und Unabhängigkeit Kammerantwort: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Wirtschaftsprüfer: honorarstreit und unabhaengigkeit - Kammerantwort mit Verfahrensstrategie, Tonlage und Belegplan

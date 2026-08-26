@@ -1,6 +1,6 @@
 ---
 name: tenure-track-evaluation
-description: "Wenn es um Tenure Track Evaluation in Hochschulrecht der Bundesländer geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Tenure Track Evaluation: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Tenure Track Evaluation

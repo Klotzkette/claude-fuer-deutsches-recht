@@ -1,6 +1,6 @@
 ---
 name: schulung-policy
-description: "Wenn es um Schulung und Compliance-Policy für Insiderrecht in Insiderrecht Compliance geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
+description: "Für Schulung und Compliance-Policy für Insiderrecht: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Schulung und Compliance-Policy für Insiderrecht

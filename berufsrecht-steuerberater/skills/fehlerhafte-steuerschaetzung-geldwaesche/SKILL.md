@@ -1,6 +1,6 @@
 ---
 name: fehlerhafte-steuerschaetzung-geldwaesche
-description: "Wenn es um Fehlerhafte Steuerschaetzung Geldwaesche in Berufsrecht Steuerberater geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Fehlerhafte Steuerschätzung Geldwäsche: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Schnittstellenkarte mit Zuständigkeits- und Nachweisfragen."
 ---
 
 # Steuerberater: fehlerhafte steuerschätzung - Organisationspflichten, Prävention, Team-Anweisung und Fristenkontrolle

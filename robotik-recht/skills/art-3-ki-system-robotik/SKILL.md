@@ -1,6 +1,6 @@
 ---
 name: art-3-ki-system-robotik
-description: "Wenn es um Art. 3 digitale Werkzeuge-System Robotik in robotik-recht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
+description: "Für Art. 3 digitale Werkzeuge-System Robotik: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Art. 3 KI-System Robotik

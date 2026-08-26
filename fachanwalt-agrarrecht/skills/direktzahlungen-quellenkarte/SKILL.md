@@ -1,6 +1,6 @@
 ---
 name: direktzahlungen-quellenkarte
-description: "Wenn es um Direktzahlungen Quellenkarte in Fachanwalt Agrarrecht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Tatbestands- oder Anspruchsmatrix mit Gegenargumenten."
+description: "Für Direktzahlungen Quellenkarte: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Direktzahlungen Quellenkarte

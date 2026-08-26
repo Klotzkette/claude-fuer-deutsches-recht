@@ -1,6 +1,6 @@
 ---
 name: word-dokument-finish-und-layout
-description: "Wenn es um Word-Dokument Finish und Layout in diesem Spezialbereich geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
+description: "Für Word-Dokument Finish und Layout: ordnet Akte, Belege und Lücken; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Word-Dokument Finish und Layout

@@ -1,6 +1,6 @@
 ---
 name: workflow-ladestation-tiefgarage
-description: "Wenn es um Ladestation Tiefgarage: Prüfungslinie für Miet- und WEG-Recht in Fachanwalt Miet- und Wohnungseigentumsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Chronologie mit Belegmatrix und Widerspruchsliste."
+description: "Für Ladestation Tiefgarage: Prüfungslinie für Miet- und WEG-Recht: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Ladestation Tiefgarage: Prüfungslinie für Miet- und WEG-Recht

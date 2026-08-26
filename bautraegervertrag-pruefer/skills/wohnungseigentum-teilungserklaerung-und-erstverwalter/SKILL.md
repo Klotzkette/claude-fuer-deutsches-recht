@@ -1,6 +1,6 @@
 ---
 name: wohnungseigentum-teilungserklaerung-und-erstverwalter
-description: "Wenn es um Wohnungseigentum, Teilungserklärung und Erstverwalter in Bauträgervertrag-Prüfer geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
+description: "Für Wohnungseigentum, Teilungserklärung und Erstverwalter: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Wohnungseigentum, Teilungserklärung und Erstverwalter

@@ -1,6 +1,6 @@
 ---
 name: qualitygate-quellen-rechtsprechung
-description: "Wenn es um Qualitygate Quellen Rechtsprechung in designrecht-geschmacksmusterrecht geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Qualitygate Quellen Rechtsprechung: prüft Ergebnis, Beweislast und Gegenposition; Ergebnis: Gegenprüfung mit Beweis- und Fristencheck."
 ---
 
 # Qualitygate Quellen Rechtsprechung

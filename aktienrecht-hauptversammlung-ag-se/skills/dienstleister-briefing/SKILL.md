@@ -1,6 +1,6 @@
 ---
 name: dienstleister-briefing
-description: "Wenn es um Dienstleister Briefing in Hauptversammlung AG und SE geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
+description: "Für Dienstleister Briefing: erstellt Entwurf mit Antrag, Beweis und Anlagen; Ergebnis: Schriftsatz mit Begründungs- und Anlagenlogik."
 ---
 
 # Dienstleister Briefing

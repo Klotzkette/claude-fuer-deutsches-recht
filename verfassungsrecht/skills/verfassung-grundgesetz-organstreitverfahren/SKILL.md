@@ -1,6 +1,6 @@
 ---
 name: verfassung-grundgesetz-organstreitverfahren
-description: "Wenn es um Organstreitverfahren nach dem Grundgesetz in verfassungsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Organstreitverfahren nach dem Grundgesetz: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Organstreitverfahren nach dem Grundgesetz

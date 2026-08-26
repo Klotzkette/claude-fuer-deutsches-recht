@@ -1,6 +1,6 @@
 ---
 name: tk-regulierungsakte-tk-aktenzugang
-description: "Wenn es um TK-Regulierungsakte: Nummernverwaltung — Stellungnahme-Entwurf in Bundesnetzagentur-Verfahren geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
+description: "Für TK-Regulierungsakte: Nummernverwaltung — Stellungnahme-Entwurf: ordnet Akte, Belege und Lücken; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # TK-Regulierungsakte: Nummernverwaltung — Stellungnahme-Entwurf

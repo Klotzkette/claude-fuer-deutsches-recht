@@ -1,6 +1,6 @@
 ---
 name: mandatsbeziehung-qualitygate
-description: "Wenn es um Mandatsbeziehung Qualitygate in Kanzlei-Mandant Lifecycle geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Mandatsbeziehung Qualitygate: prüft Ergebnis, Beweislast und Gegenposition; Ergebnis: Gegenprüfung mit Beweis- und Fristencheck."
 ---
 
 # Mandatsbeziehung Qualitygate

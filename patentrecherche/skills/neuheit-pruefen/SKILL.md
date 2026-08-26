@@ -1,6 +1,6 @@
 ---
 name: neuheit-pruefen
-description: "Wenn es um neuheit-prüfen in patentrecherche geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für neuheit-prüfen: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Schnittstellenkarte mit Zuständigkeits- und Nachweisfragen."
 ---
 
 # neuheit-prüfen

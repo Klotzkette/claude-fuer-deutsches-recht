@@ -1,6 +1,6 @@
 ---
 name: erklaerung-interessen-formulare-pdfs
-description: "Wenn es um Erklaerung: Mehrparteienkonflikt und Interessenmatrix in Barrierefreiheit Web Checker geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Erklärung: Mehrparteienkonflikt und Interessenmatrix: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Einreichungsplan mit Form- und Nachweischeck."
 ---
 
 # Erklaerung: Mehrparteienkonflikt und Interessenmatrix

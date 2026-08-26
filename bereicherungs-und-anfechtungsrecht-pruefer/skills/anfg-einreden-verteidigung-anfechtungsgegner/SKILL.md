@@ -1,6 +1,6 @@
 ---
 name: anfg-einreden-verteidigung-anfechtungsgegner
-description: "Wenn es um Einreden und Verteidigung des Anfechtungsgegners — AnfG in bereicherungs-und-anfechtungsrecht-prüfer geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik. Auswahlstichwort: Anfg Einreden Verteidigung Anfechtungsgegner; Arbeitsfeld: bereicherungs-und-anfechtungsrecht-prüfer."
+description: "Für Einreden und Verteidigung des Anfechtungsgegners — AnfG: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Einreden und Verteidigung des Anfechtungsgegners — AnfG

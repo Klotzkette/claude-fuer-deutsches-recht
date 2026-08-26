@@ -1,6 +1,6 @@
 ---
 name: alters-krankheitskuendigung
-description: "Wenn es um Kündigung wegen Alters oder Krankheit des Handelsvertreters nach Paragraf 89 Abs. 3 HGB in Handelsvertreterrecht und Vertriebsverträge geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
+description: "Für Kündigung wegen Alters oder Krankheit des Handelsvertreters nach Paragraf 89 Abs. 3 HGB: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Kündigung wegen Alters oder Krankheit des Handelsvertreters nach § 89 Abs. 3 HGB

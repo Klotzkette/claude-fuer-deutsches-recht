@@ -1,6 +1,6 @@
 ---
 name: bmds-ki-verordnung-und-aufsichtsstruktur
-description: "Wenn es um digitale Werkzeuge-Verordnung und Aufsichtsstruktur (BMDS) in Legistik-Werkstatt geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen."
+description: "Für digitale Werkzeuge-Verordnung und Aufsichtsstruktur (BMDS): ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # KI-Verordnung und Aufsichtsstruktur (BMDS)

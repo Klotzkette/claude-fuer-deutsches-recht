@@ -1,6 +1,6 @@
 ---
 name: anschreiben-kurz-antrag-bapersbw
-description: "Wenn es um Anschreiben kurz und würdig in Kriegsdienstverweigerung und Wehrdienst geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
+description: "Für Anschreiben kurz und würdig: erstellt Entwurf mit Antrag, Beweis und Anlagen; Ergebnis: Schriftsatz mit Begründungs- und Anlagenlogik."
 ---
 
 # Anschreiben kurz und würdig

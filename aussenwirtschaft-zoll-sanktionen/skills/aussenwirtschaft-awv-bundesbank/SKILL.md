@@ -1,6 +1,6 @@
 ---
 name: aussenwirtschaft-awv-bundesbank
-description: "Wenn es um AWV-Bundesbank-Meldungen: Z-Formulare und Kapitalverkehrspflichten in Außenwirtschaft, Sanktionen, Zoll und CBAM geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für AWV-Bundesbank-Meldungen: Z-Formulare und Kapitalverkehrspflichten: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # AWV-Bundesbank-Meldungen: Z-Formulare und Kapitalverkehrspflichten

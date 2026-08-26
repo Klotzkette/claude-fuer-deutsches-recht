@@ -1,6 +1,6 @@
 ---
 name: arbeitsrecht-von-gewerbeordnung-bis-betrvg
-description: "Wenn es um Arbeitsrecht: Von der Gewerbeordnung bis zum BetrVG in Deutsche Rechtsgeschichte geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Arbeitsrecht: von der Gewerbeordnung bis zum BetrVG: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Arbeitsrecht: Von der Gewerbeordnung bis zum BetrVG

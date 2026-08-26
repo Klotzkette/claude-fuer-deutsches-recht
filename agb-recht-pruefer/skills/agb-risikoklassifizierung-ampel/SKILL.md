@@ -1,6 +1,6 @@
 ---
 name: agb-risikoklassifizierung-ampel
-description: "Wenn es um AGB Risikoklassifizierung Ampel in AGB-Recht-Prüfer geht: klärt Rolle, Ziel, Frist, Unterlagen und den passenden nächsten Fachskill; liefert eine Tatbestands- oder Anspruchsmatrix mit Gegenargumenten."
+description: "Für AGB Risikoklassifizierung Ampel: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # AGB Risikoklassifizierung Ampel

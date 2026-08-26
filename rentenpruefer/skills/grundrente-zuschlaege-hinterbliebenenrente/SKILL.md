@@ -1,6 +1,6 @@
 ---
 name: grundrente-zuschlaege-hinterbliebenenrente
-description: "Wenn es um grundrente-und-zuschlaege in Rentenprüfer geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für grundrente-und-zuschlaege: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # grundrente-und-zuschlaege

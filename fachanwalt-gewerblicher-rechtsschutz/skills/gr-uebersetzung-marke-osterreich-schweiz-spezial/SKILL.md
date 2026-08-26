@@ -1,6 +1,6 @@
 ---
 name: gr-uebersetzung-marke-osterreich-schweiz-spezial
-description: "Wenn es um Gr Uebersetzung Marke Osterreich Schweiz Spezial in Fachanwalt Gewerblicher Rechtsschutz geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Gr Übersetzung Marke Osterreich Schweiz Spezial: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Markenrecht in Österreich und der Schweiz: Österreichisches Markengesetz (MSchG), Österreichisches Patentamt (ÖPA), Schweizer Markenschutzgesetz (MSchG CH), IGE/IPI Bern, IR-Marke als Erweiterungsweg, EUIPO-Ausschluss Schweiz, Besonderheiten und Fallstricke.

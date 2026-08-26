@@ -1,6 +1,6 @@
 ---
 name: pralr-040-carmer-svarez-klein-redaktion
-description: "Wenn es um Redaktionsgeschichte in Preußisches Allgemeines Landrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. Auswahlstichwort: Pralr 040 Carmer Svarez Klein Redaktion; Arbeitsfeld: Preußisches Allgemeines Landrecht."
+description: "Für Redaktionsgeschichte: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt. Fachgebiet: Preußisches Allgemeines Landrecht. Route: pralr-040-carmer-svarez-klein-redaktion."
 ---
 
 # Redaktionsgeschichte

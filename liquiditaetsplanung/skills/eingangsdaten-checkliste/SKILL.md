@@ -1,6 +1,6 @@
 ---
 name: eingangsdaten-checkliste
-description: "Wenn es um Liqui: Eingangsdaten-Checkliste in Liquiditätsplanung — Power geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen."
+description: "Für Liqui: Eingangsdaten-Checkliste: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Liqui: Eingangsdaten-Checkliste

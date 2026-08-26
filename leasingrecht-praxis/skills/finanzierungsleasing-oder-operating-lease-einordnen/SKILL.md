@@ -1,6 +1,6 @@
 ---
 name: finanzierungsleasing-oder-operating-lease-einordnen
-description: "Wenn es um Finanzierungsleasing oder Operating-Lease: Systematische Einordnung in Leasingrecht Praxis geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Finanzierungsleasing oder Operating-Lease: Systematische Einordnung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Finanzierungsleasing oder Operating-Lease: Systematische Einordnung

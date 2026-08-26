@@ -1,6 +1,6 @@
 ---
 name: laenderrecht-und-rechtszersplitterung
-description: "Wenn es um Länderrecht und Rechtszersplitterung in Deutsche Rechtsgeschichte geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Länderrecht und Rechtszersplitterung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt. Fachgebiet: Deutsche Rechtsgeschichte. Route: laenderrecht-und-rechtszersplitterung."
 ---
 
 # Länderrecht und Rechtszersplitterung

@@ -1,6 +1,6 @@
 ---
 name: bk-einfuehrung-aufsichtsstruktur
-description: "Wenn es um Aufsichtsstruktur einfuehrend: EZB-SSM, BaFin, Bundesbank, ESMA in Fachanwalt Bank Kapitalmarktrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Aufsichtsstruktur einführend: EZB-SSM, BaFin, Bundesbank, ESMA: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Aufsichtsstruktur einfuehrend: EZB-SSM, BaFin, Bundesbank, ESMA

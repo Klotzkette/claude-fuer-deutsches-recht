@@ -1,6 +1,6 @@
 ---
 name: spezial-gate-red-team-und-qualitaetskontrolle
-description: "Wenn es um Gate: Red-Team und Qualitätskontrolle in Common-Law-Kompass für deutsche Wirtschaftsjuristen geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Gate: Red-Team und Qualitätskontrolle: prüft Ergebnis, Beweislast und Gegenposition; Ergebnis: Gegenprüfung mit Beweis- und Fristencheck. Fachgebiet: Common-Law-Kompass für deutsche Wirtschaftsjuristen."
 ---
 
 # Gate: Red-Team und Qualitätskontrolle

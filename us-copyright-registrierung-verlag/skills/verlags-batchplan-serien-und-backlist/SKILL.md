@@ -1,6 +1,6 @@
 ---
 name: verlags-batchplan-serien-und-backlist
-description: "Wenn es um Verlags-Batchplan, Serien und Backlist in US Copyright Act und Registrierung für deutsche Verlage geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen."
+description: "Für Verlags-Batchplan, Serien und Backlist: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Verlags-Batchplan, Serien und Backlist

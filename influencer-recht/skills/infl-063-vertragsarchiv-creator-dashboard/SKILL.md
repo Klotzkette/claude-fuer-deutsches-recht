@@ -1,6 +1,6 @@
 ---
 name: infl-063-vertragsarchiv-creator-dashboard
-description: "Wenn es um Influencer-Recht: Vertragsarchiv Creator Dashboard in Influencer-Recht geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Influencer-Recht: Vertragsarchiv Creator Dashboard: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Influencer-Recht: Vertragsarchiv Creator Dashboard

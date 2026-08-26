@@ -1,6 +1,6 @@
 ---
 name: edsa-und-dsk-praxis-livecheck
-description: "Wenn es um EDPB und DSK Praxis Livecheck in Datenschutz-Sanktionsverfahren und Verteidigung geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für EDPB und DSK Praxis Livecheck: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # EDPB und DSK Praxis Livecheck

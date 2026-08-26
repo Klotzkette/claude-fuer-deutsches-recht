@@ -1,6 +1,6 @@
 ---
 name: vo-hochrisiko-kirk-fortbildung-bauleiter
-description: "Wenn es um europäischer Technikregulierungsrahmen Hochrisiko Personalwesen in diesem Spezialbereich geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Beweislast- und Substantiierungsmatrix."
+description: "Für europäischer Technikregulierungsrahmen Hochrisiko Personalwesen: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # KI-VO Hochrisiko Personalwesen

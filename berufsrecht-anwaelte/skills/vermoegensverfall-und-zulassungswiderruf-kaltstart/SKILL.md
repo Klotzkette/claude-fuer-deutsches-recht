@@ -1,6 +1,6 @@
 ---
 name: vermoegensverfall-und-zulassungswiderruf-kaltstart
-description: "Wenn es um Vermoegensverfall Und Zulassungswiderruf Kaltstart in Berufsrecht Anwälte geht: klärt Rolle, Ziel, Frist, Unterlagen und den passenden nächsten Fachskill; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Vermögensverfall und Zulassungswiderruf Kaltstart: routet Rolle, Frist, Unterlagen und Fachschritt; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Anwälte: vermögensverfall und zulassungswiderruf - Kaltstart mit Faktenmatrix, Risikoampel und fehlenden Unterlagen

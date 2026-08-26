@@ -1,6 +1,6 @@
 ---
 name: geschaeftsordnung-parteitag
-description: "Wenn es um Geschäftsordnung Parteitag in Parteienrecht und Parteiorganisation geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
+description: "Für Geschäftsordnung Parteitag: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Geschäftsordnung Parteitag

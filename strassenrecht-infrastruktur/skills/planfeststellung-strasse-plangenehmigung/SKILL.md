@@ -1,6 +1,6 @@
 ---
 name: planfeststellung-strasse-plangenehmigung
-description: "Wenn es um Planfeststellung Strasse in Straßenrecht und Infrastruktur geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Planfeststellung Strasse: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Planfeststellung Strasse

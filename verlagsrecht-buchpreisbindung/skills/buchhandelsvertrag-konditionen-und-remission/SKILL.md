@@ -1,6 +1,6 @@
 ---
 name: buchhandelsvertrag-konditionen-und-remission
-description: "Wenn es um Verl-032 · Buchhandelsvertrag, Konditionen und Remission in Verlagsrecht und Buchpreisbindung geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Verl-032 · Buchhandelsvertrag, Konditionen und Remission: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Verl-032 · Buchhandelsvertrag, Konditionen und Remission

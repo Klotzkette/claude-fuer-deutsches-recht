@@ -1,6 +1,6 @@
 ---
 name: rechtsabteilung-stimmbindung-und-beschlussmangel-nach-hannover-9
-description: "Wenn es um Rechtsabteilung: Stimmbindung und Beschlussmangel nach Hannover-96-Linie in Gesellschaftsrecht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
+description: "Für Rechtsabteilung: Stimmbindung und Beschlussmangel nach Hannover-96-Linie: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Rechtsabteilung: Stimmbindung und Beschlussmangel nach Hannover-96-Linie

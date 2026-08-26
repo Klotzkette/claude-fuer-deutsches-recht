@@ -1,6 +1,6 @@
 ---
 name: laienhilfe-reha-antrag
-description: "Wenn es um Laienverstaendlicher Sozialrechts-Skill zu Reha Antrag in Fachanwalt Sozialrecht geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Laienverständlicher Sozialrechts-Skill zu Reha Antrag: erstellt Entwurf mit Antrag, Beweis und Anlagen; Ergebnis: Schriftsatz mit Begründungs- und Anlagenlogik."
 ---
 
 # Laienverstaendlicher Sozialrechts-Skill zu Reha Antrag

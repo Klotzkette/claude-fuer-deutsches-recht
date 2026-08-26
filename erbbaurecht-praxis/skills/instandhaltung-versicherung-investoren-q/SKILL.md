@@ -1,6 +1,6 @@
 ---
 name: instandhaltung-versicherung-investoren-q
-description: "Wenn es um Instandhaltung, Versicherung und Betriebspflichten in Erbbaurecht Praxis geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen."
+description: "Für Instandhaltung, Versicherung und Betriebspflichten: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Instandhaltung, Versicherung und Betriebspflichten

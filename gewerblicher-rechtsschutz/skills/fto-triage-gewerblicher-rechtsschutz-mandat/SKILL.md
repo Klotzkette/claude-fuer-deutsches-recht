@@ -1,6 +1,6 @@
 ---
 name: fto-triage-gewerblicher-rechtsschutz-mandat
-description: "Wenn es um Freedom-to-Operate-Triage (FTO) in Plugin: Gewerblicher Rechtsschutz geht: klärt Rolle, Ziel, Frist, Unterlagen und den passenden nächsten Fachskill; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Freedom-to-Operate-Triage (FTO): routet Rolle, Frist, Unterlagen und Fachschritt; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Freedom-to-Operate-Triage (FTO)

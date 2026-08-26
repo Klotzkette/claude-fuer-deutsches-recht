@@ -1,6 +1,6 @@
 ---
 name: neu-018-bgb-inkrafttreten-und-partikularrechtsabloesung
-description: "Wenn es um Deutsche Rechtsgeschichte: 018 Bgb Inkrafttreten Und Partikularrechtsabloesung in Deutsche Rechtsgeschichte geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Deutsche Rechtsgeschichte: 018 BGB Inkrafttreten und Partikularrechtsablösung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Schnittstellenkarte mit Zuständigkeits- und Nachweisfragen."
 ---
 
 # Deutsche Rechtsgeschichte: 018 Bgb Inkrafttreten Und Partikularrechtsabloesung

@@ -1,6 +1,6 @@
 ---
 name: geoblocking-und-kartellrecht-schnittstelle
-description: "Wenn es um Geoblocking und Kartellrecht Schnittstelle in Kartellrecht — Marktabgrenzungsprüfung geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen."
+description: "Für Geoblocking und Kartellrecht Schnittstelle: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Geoblocking und Kartellrecht Schnittstelle

@@ -1,6 +1,6 @@
 ---
 name: wohnung-und-obdachlosigkeit
-description: "Wenn es um Wohnung und Obdachlosigkeit in Bürokratieversteher und Entbürokratisierer geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Wohnung und Obdachlosigkeit: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Wohnung und Obdachlosigkeit

@@ -1,6 +1,6 @@
 ---
 name: smart-device-beschwerde-schreiben
-description: "Wenn es um Smart Device Beschwerde Schreiben in Verbraucherschutzrecht Prüfer geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Smart Device Beschwerde Schreiben: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Smart Device Beschwerde Schreiben

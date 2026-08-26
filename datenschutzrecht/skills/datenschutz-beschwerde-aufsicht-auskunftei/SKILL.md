@@ -1,6 +1,6 @@
 ---
 name: datenschutz-beschwerde-aufsicht-auskunftei
-description: "Wenn es um Aufsichtsbeschwerde gegen Auskunftei in Datenschutzrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Aufsichtsbeschwerde gegen Auskunftei: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Aufsichtsbeschwerde gegen Auskunftei

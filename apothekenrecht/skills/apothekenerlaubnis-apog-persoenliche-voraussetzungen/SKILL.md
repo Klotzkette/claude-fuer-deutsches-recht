@@ -1,6 +1,6 @@
 ---
 name: apothekenerlaubnis-apog-persoenliche-voraussetzungen
-description: "Wenn es um Apothekenerlaubnis ApoG persönliche Voraussetzungen in Apothekenrecht geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
+description: "Für Apothekenerlaubnis ApoG persönliche Voraussetzungen: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Apothekenerlaubnis ApoG persönliche Voraussetzungen

@@ -1,6 +1,6 @@
 ---
 name: transparenzgesetz-archivrecht
-description: "Wenn es um Transparenzgesetz Tracking Aktualisier in Informationsfreiheit und Presseauskunft geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Transparenzgesetz Tracking Aktualisier: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Transparenzgesetz Tracking Aktualisier

@@ -1,6 +1,6 @@
 ---
 name: biometrie-emotionserkennung-polizei-grenzen
-description: "Wenn es um Biometrie, Emotionserkennung und Polizeigrenzen in europäischem Technikregulierungsrecht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen."
+description: "Für Biometrie, Emotionserkennung und Polizeigrenzen: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Biometrie, Emotionserkennung und Polizeigrenzen

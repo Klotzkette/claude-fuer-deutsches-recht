@@ -7,15 +7,15 @@ Diese Vollprüfung enthält top-10 von 101 Skills des Plugins `kanzlei-managemen
 ## Inhaltsverzeichnis
 
 1. **juristischer-argumentationskern** — Schaltet sich ein, wenn in Kanzlei Management ein juristisches Arbeitsprodukt tragfähig begründet werden muss; verbindet…
-2. **kaltstart-triage** — Wenn es um Kaltstart Kanzlei-Management in Kanzlei Management geht: klärt Rolle, Ziel, Frist, Unterlagen und den passend…
-3. **workload-balance** — Wenn es um Misst Überlast und Leerlauf nach Person, Team, Mandat und Woche in Kanzlei Management geht: prüft Frist, Form…
-4. **managing-partner-wochenbrief** — Wenn es um Managing-Partner-Wochenbrief in Kanzlei Management geht: erstellt den passenden Entwurf aus Sachverhalt, Norm…
-5. **dashboard-board-pack** — Wenn es um Board Pack fürs Management Committee in Kanzlei Management geht: rechnet Schwellen, Beträge, Varianten und Ko…
-6. **rvg-und-honorarvereinbarung** — Wenn es um RVG und Honorarvereinbarung in Kanzlei Management geht: ordnet Akteninhalt, Belege, Lücken und Nachforderunge…
-7. **dms-eakten-equity-partner-esg** — Wenn es um DMS und E-Akten Governance in Kanzlei Management geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen…
-8. **merger-talks-nachfolge-practice-office** — Wenn es um Kanzleifusion und Merger Talks in Kanzlei Management geht: rechnet Schwellen, Beträge, Varianten und Kontroll…
-9. **ai-legal-ops** — Wenn es um digitale Werkzeuge und Legal Ops in der Kanzlei in Kanzlei Management geht: prüft Frist, Form, Zuständigkeit,…
-10. **partnerverguetung-lockstep-merit** — Wenn es um Partnervergütung Lockstep Merit Hybrid in Kanzlei Management geht: entwickelt Verhandlungsziel, Vergleichskor…
+2. **kaltstart-triage** — Für Kaltstart Kanzlei-Management: routet Rolle, Frist, Unterlagen und Fachschritt; Ergebnis: Prüfprodukt mit Risiko und …
+3. **workload-balance** — Für Misst Überlast und Leerlauf nach Person, Team, Mandat und Woche: ordnet Norm, Beweislast und Gegenargument; Ergebnis…
+4. **ai-legal-ops** — Für digitale Werkzeuge und Legal Ops in der Kanzlei: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mi…
+5. **decision-log** — Für Decision Log: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt. Fach…
+6. **market-positioning** — Für Marktpositionierung Mittelstandskanzlei: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko…
+7. **karrierepfad-associate-key-account-knowledge** — Für Karrierepfad Associate Counsel Partner: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko …
+8. **partnerverguetung-lockstep-merit** — Für Partnervergütung Lockstep Merit Hybrid: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko …
+9. **partner-austritt-client-transition** — Für Partneraustritt und Mandantenübergabe: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko u…
+10. **dashboard-board-pack** — Für Board Pack fürs Management Committee: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko un…
 
 ---
 
@@ -142,7 +142,7 @@ Ausgangspunkt für dieses Plugin: Verantwortlicher Bearbeiter für Annahme, Voll
 
 ## Skill: `kaltstart-triage`
 
-_Wenn es um Kaltstart Kanzlei-Management in Kanzlei Management geht: klärt Rolle, Ziel, Frist, Unterlagen und den passenden nächsten Fachskill; liefert eine Fristen- und Risikoampel mit Sofortschritten._
+_Für Kaltstart Kanzlei-Management: routet Rolle, Frist, Unterlagen und Fachschritt; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt._
 
 # Kaltstart Kanzlei-Management
 
@@ -224,7 +224,7 @@ Bei Vergütung, Honorarvereinbarung, Erfolgshonorar, Mandatsannahme, Verschwiege
 
 ## Skill: `workload-balance`
 
-_Wenn es um Misst Überlast und Leerlauf nach Person, Team, Mandat und Woche in Kanzlei Management geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten._
+_Für Misst Überlast und Leerlauf nach Person, Team, Mandat und Woche: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt._
 
 # Misst Überlast und Leerlauf nach Person, Team, Mandat und Woche
 
@@ -302,367 +302,9 @@ Bei Vergütung, Honorarvereinbarung, Erfolgshonorar, Mandatsannahme, Verschwiege
 
 ---
 
-## Skill: `managing-partner-wochenbrief`
-
-_Wenn es um Managing-Partner-Wochenbrief in Kanzlei Management geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik._
-
-# Managing-Partner-Wochenbrief
-
-## Normenanker
-
-Vor einer rechtlichen Schlussfolgerung diese Anker am aktuellen Normtext prüfen; Spezial- und Landesrecht nur hinzunehmen, wenn es den konkreten Auftrag traegt:
-
-- `§ 43 BRAO` — allgemeine Berufspflicht.
-- `§ 43a Abs. 2 BRAO` — Verschwiegenheit.
-- `§ 43a Abs. 4 BRAO` — Interessenkollision.
-- `§ 49b BRAO` — Verguetungsrechtliche Grenzen.
-- `§ 50 BRAO` — Handakten.
-- `§ 2 BORA` — Verschwiegenheit.
-- `§ 3 BORA` — Interessenkollision.
-- `§ 10 BORA` — Briefbogen/Information.
-- `§ 4 RVG` — Verguetungsvereinbarung.
-- `§ 10 RVG` — Abrechnung.
-
-Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei prüfbare Quelle vorliegen; keine BeckRS-/juris-Blindzitate verwenden.
-
-## Arbeitsweg
-
-- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
-- Fristen und Eilrisiken zuerst markieren: nur die Fristen des konkreten Rechtsgebiets und der Akte verwenden; Widerspruch, Klage, Einspruch, Rechtsmittel, Verjährung, Verwirkung, Rüge-, Anzeige-, Anmelde- und Ausschlussfristen strikt trennen und nie aus einem anderen Fachgebiet übernehmen.
-- Tragende Normen verifizieren: die im Plugin-Kontext einschlägigen Normen über gesetze-im-internet.de, dejure.org, eur-lex.europa.eu und die amtlichen Bundes-/Landesportale live prüfen — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
-- Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
-- Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
-
-## Fachkern: Managing-Partner-Wochenbrief
-
-- **Managementproblem (Managing-Partner-Wochenbrief):** Wochenbrief mit Lage, Cash, Pipeline, People und Entscheidungen. Für Managing Partner, Management Committee oder COO/CFO einer deutschen mittelständischen Kanzlei mit konkreten Abfragen, Kennzahlen, Entscheidungen und berufsrechtlicher Quellenhygiene.
-- **Kennzahlenanker:** Umsatz, UBT, FTE, Utilization, Realization, WIP, DSO, Lock-up, Write-offs, Pipeline, Leverage, Fluktuation und Mandatsrisiko nur zweckbezogen verwenden.
-- **Governance-Weiche:** Partnerpolitik, Mandatsgeheimnis, Interessenkollision, Berufsrecht, People-Risiko und Cashflow getrennt entscheiden; keine hübschen Dashboards ohne Beschlussfrage.
-- **Arbeitsprodukt:** Entscheidungsboard mit drei Optionen, Owner, Frist, Gegenrechnung, Kommunikationslinie und Review-Datum.
-
-## Ausgangspunkt
-
-Wochenbrief mit Lage, Cash, Pipeline, People und Entscheidungen. Der Skill denkt aus der Perspektive einer deutschen mittelständischen Kanzlei mit Partnerkreis, Associates, Counsel, Business Services, Mandatsgeheimnis, Berufsrecht, RVG/BRAO-Grenzen, Mandantenbeziehungen und echter Liquiditätslogik.
-
-## Erste Abfragen
-
-1. Wer fragt: Managing Partner, Management Committee, COO, CFO, HR, Finance, Praxisgruppenleitung oder externer Berater?
-2. Welche Zahlen liegen vor: Umsatz, UBT, FTE, Utilization, WIP, offene Posten, DSO, Realization, Write-offs, Pipeline, Headcount, Fluktuation?
-3. Welche Entscheidung steht an und wer darf sie treffen?
-4. Welche Menschen sind betroffen: Partnerkreis, Team, Associates, Assistenz, Mandant, Finance, HR?
-5. Gibt es berufsrechtliche Grenzen: Vergütung, Mandatsgeheimnis, Interessenkollision, beA/ERV, Datenschutz, Fristen oder Werbung?
-
-## Standard-Output
-
-Erzeuge:
-
-- Kurzbefund in fünf Sätzen.
-- Fakten- und Datenlückenliste.
-- Dashboard oder Matrix mit Ampel nur dort, wo sie eine Entscheidung erleichtert.
-- Drei Optionen: defensiv, ausgewogen, mutig.
-- Empfehlung mit Owner, Frist, Review-Datum und Kommunikationsvorschlag.
-
-## Rote Flaggen
-
-- WIP wird wie Umsatz behandelt, obwohl keine Rechnung gestellt ist.
-- Utilization steigt, aber Realization, Ausbildung und Stimmung fallen.
-- Rabatte werden als Beziehungspflege verkauft, ohne Scope oder Gegenleistung.
-- Partnerpolitik ersetzt Daten oder Daten werden zur Partnerpolitik hübsch gebogen.
-- Associates arbeiten dauerhaft am Limit, während die Kanzlei von Kultur spricht.
-- Das Dashboard sieht edel aus, beantwortet aber keine Managementfrage.
-
-## Quellen- und Compliance-Hygiene
-
-Bei Vergütung, Honorarvereinbarung, Erfolgshonorar, Mandatsannahme, Verschwiegenheit, Interessenkollision, Datenschutz, KI-/Cloud-Tooling, beA/ERV und Fristen nie aus Modellgefühl entscheiden. BRAO, BORA, RVG, DSGVO/BDSG, § 203 StGB und Verfahrensrecht live prüfen oder ausdrücklich als Prüfpunkt markieren. Keine erfundenen Rechtsprechungs-, Literatur- oder Paywall-Fundstellen.
-
----
-
-## Skill: `dashboard-board-pack`
-
-_Wenn es um Board Pack fürs Management Committee in Kanzlei Management geht: rechnet Schwellen, Beträge, Varianten und Kontrollannahmen durch; liefert eine Berechnungstabelle mit Schwellen, Annahmen und Kontrollfragen._
-
-# Board Pack fürs Management Committee
-
-## Normenanker
-
-Vor einer rechtlichen Schlussfolgerung diese Anker am aktuellen Normtext prüfen; Spezial- und Landesrecht nur hinzunehmen, wenn es den konkreten Auftrag traegt:
-
-- `§ 43 BRAO` — allgemeine Berufspflicht.
-- `§ 43a Abs. 2 BRAO` — Verschwiegenheit.
-- `§ 43a Abs. 4 BRAO` — Interessenkollision.
-- `§ 49b BRAO` — Verguetungsrechtliche Grenzen.
-- `§ 50 BRAO` — Handakten.
-- `§ 2 BORA` — Verschwiegenheit.
-- `§ 3 BORA` — Interessenkollision.
-- `§ 10 BORA` — Briefbogen/Information.
-- `§ 4 RVG` — Verguetungsvereinbarung.
-- `§ 10 RVG` — Abrechnung.
-
-Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei prüfbare Quelle vorliegen; keine BeckRS-/juris-Blindzitate verwenden.
-
-## Arbeitsweg
-
-- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
-- Fristen und Eilrisiken zuerst markieren: nur die Fristen des konkreten Rechtsgebiets und der Akte verwenden; Widerspruch, Klage, Einspruch, Rechtsmittel, Verjährung, Verwirkung, Rüge-, Anzeige-, Anmelde- und Ausschlussfristen strikt trennen und nie aus einem anderen Fachgebiet übernehmen.
-- Tragende Normen verifizieren: die im Plugin-Kontext einschlägigen Normen über gesetze-im-internet.de, dejure.org, eur-lex.europa.eu und die amtlichen Bundes-/Landesportale live prüfen — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
-- Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
-- Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
-
-## Fachkern: Board Pack fürs Management Committee
-
-- **Managementproblem (Board Pack fürs Management Committee):** Erstellt MC-Pack mit Zahlen, Kommentierung, Entscheidungen und Anhang. Für Managing Partner, Management Committee oder COO/CFO einer deutschen mittelständischen Kanzlei mit konkreten Abfragen, Kennzahlen, Entscheidungen und berufsrechtlicher Quellenhygiene.
-- **Kennzahlenanker:** Umsatz, UBT, FTE, Utilization, Realization, WIP, DSO, Lock-up, Write-offs, Pipeline, Leverage, Fluktuation und Mandatsrisiko nur zweckbezogen verwenden.
-- **Governance-Weiche:** Partnerpolitik, Mandatsgeheimnis, Interessenkollision, Berufsrecht, People-Risiko und Cashflow getrennt entscheiden; keine hübschen Dashboards ohne Beschlussfrage.
-- **Arbeitsprodukt:** Entscheidungsboard mit drei Optionen, Owner, Frist, Gegenrechnung, Kommunikationslinie und Review-Datum.
-
-## Ausgangspunkt
-
-Erstellt MC-Pack mit Zahlen, Kommentierung, Entscheidungen und Anhang. Der Skill denkt aus der Perspektive einer deutschen mittelständischen Kanzlei mit Partnerkreis, Associates, Counsel, Business Services, Mandatsgeheimnis, Berufsrecht, RVG/BRAO-Grenzen, Mandantenbeziehungen und echter Liquiditätslogik.
-
-## Erste Abfragen
-
-1. Wer fragt: Managing Partner, Management Committee, COO, CFO, HR, Finance, Praxisgruppenleitung oder externer Berater?
-2. Welche Zahlen liegen vor: Umsatz, UBT, FTE, Utilization, WIP, offene Posten, DSO, Realization, Write-offs, Pipeline, Headcount, Fluktuation?
-3. Welche Entscheidung steht an und wer darf sie treffen?
-4. Welche Menschen sind betroffen: Partnerkreis, Team, Associates, Assistenz, Mandant, Finance, HR?
-5. Gibt es berufsrechtliche Grenzen: Vergütung, Mandatsgeheimnis, Interessenkollision, beA/ERV, Datenschutz, Fristen oder Werbung?
-
-## Standard-Output
-
-Erzeuge:
-
-- Kurzbefund in fünf Sätzen.
-- Fakten- und Datenlückenliste.
-- Dashboard oder Matrix mit Ampel nur dort, wo sie eine Entscheidung erleichtert.
-- Drei Optionen: defensiv, ausgewogen, mutig.
-- Empfehlung mit Owner, Frist, Review-Datum und Kommunikationsvorschlag.
-
-## Rote Flaggen
-
-- WIP wird wie Umsatz behandelt, obwohl keine Rechnung gestellt ist.
-- Utilization steigt, aber Realization, Ausbildung und Stimmung fallen.
-- Rabatte werden als Beziehungspflege verkauft, ohne Scope oder Gegenleistung.
-- Partnerpolitik ersetzt Daten oder Daten werden zur Partnerpolitik hübsch gebogen.
-- Associates arbeiten dauerhaft am Limit, während die Kanzlei von Kultur spricht.
-- Das Dashboard sieht edel aus, beantwortet aber keine Managementfrage.
-
-## Quellen- und Compliance-Hygiene
-
-Bei Vergütung, Honorarvereinbarung, Erfolgshonorar, Mandatsannahme, Verschwiegenheit, Interessenkollision, Datenschutz, KI-/Cloud-Tooling, beA/ERV und Fristen nie aus Modellgefühl entscheiden. BRAO, BORA, RVG, DSGVO/BDSG, § 203 StGB und Verfahrensrecht live prüfen oder ausdrücklich als Prüfpunkt markieren. Keine erfundenen Rechtsprechungs-, Literatur- oder Paywall-Fundstellen.
-
----
-
-## Skill: `rvg-und-honorarvereinbarung`
-
-_Wenn es um RVG und Honorarvereinbarung in Kanzlei Management geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt._
-
-# RVG und Honorarvereinbarung
-
-## Arbeitsweg
-
-- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
-- Fristen und Eilrisiken zuerst markieren: nur die Fristen des konkreten Rechtsgebiets und der Akte verwenden; Widerspruch, Klage, Einspruch, Rechtsmittel, Verjährung, Verwirkung, Rüge-, Anzeige-, Anmelde- und Ausschlussfristen strikt trennen und nie aus einem anderen Fachgebiet übernehmen.
-- Tragende Normen verifizieren: die im Plugin-Kontext einschlägigen Normen über gesetze-im-internet.de, dejure.org, eur-lex.europa.eu und die amtlichen Bundes-/Landesportale live prüfen — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
-- Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
-- Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
-
-## Fachkern: RVG und Honorarvereinbarung
-
-- **Managementproblem (RVG und Honorarvereinbarung):** Prüft Pricing gegen RVG, § 3a RVG, § 49b BRAO und Dokumentation. Für Managing Partner, Management Committee oder COO/CFO einer deutschen mittelständischen Kanzlei mit konkreten Abfragen, Kennzahlen, Entscheidungen und berufsrechtlicher Quellenhygiene.
-- **Kennzahlenanker:** Umsatz, UBT, FTE, Utilization, Realization, WIP, DSO, Lock-up, Write-offs, Pipeline, Leverage, Fluktuation und Mandatsrisiko nur zweckbezogen verwenden.
-- **Governance-Weiche:** Partnerpolitik, Mandatsgeheimnis, Interessenkollision, Berufsrecht, People-Risiko und Cashflow getrennt entscheiden; keine hübschen Dashboards ohne Beschlussfrage.
-- **Arbeitsprodukt:** Entscheidungsboard mit drei Optionen, Owner, Frist, Gegenrechnung, Kommunikationslinie und Review-Datum.
-
-## Ausgangspunkt
-
-Prüft Pricing gegen RVG, § 3a RVG, § 49b BRAO und Dokumentation. Der Skill denkt aus der Perspektive einer deutschen mittelständischen Kanzlei mit Partnerkreis, Associates, Counsel, Business Services, Mandatsgeheimnis, Berufsrecht, RVG/BRAO-Grenzen, Mandantenbeziehungen und echter Liquiditätslogik.
-
-## Erste Abfragen
-
-1. Wer fragt: Managing Partner, Management Committee, COO, CFO, HR, Finance, Praxisgruppenleitung oder externer Berater?
-2. Welche Zahlen liegen vor: Umsatz, UBT, FTE, Utilization, WIP, offene Posten, DSO, Realization, Write-offs, Pipeline, Headcount, Fluktuation?
-3. Welche Entscheidung steht an und wer darf sie treffen?
-4. Welche Menschen sind betroffen: Partnerkreis, Team, Associates, Assistenz, Mandant, Finance, HR?
-5. Gibt es berufsrechtliche Grenzen: Vergütung, Mandatsgeheimnis, Interessenkollision, beA/ERV, Datenschutz, Fristen oder Werbung?
-
-## Standard-Output
-
-Erzeuge:
-
-- Kurzbefund in fünf Sätzen.
-- Fakten- und Datenlückenliste.
-- Dashboard oder Matrix mit Ampel nur dort, wo sie eine Entscheidung erleichtert.
-- Drei Optionen: defensiv, ausgewogen, mutig.
-- Empfehlung mit Owner, Frist, Review-Datum und Kommunikationsvorschlag.
-
-## Rote Flaggen
-
-- WIP wird wie Umsatz behandelt, obwohl keine Rechnung gestellt ist.
-- Utilization steigt, aber Realization, Ausbildung und Stimmung fallen.
-- Rabatte werden als Beziehungspflege verkauft, ohne Scope oder Gegenleistung.
-- Partnerpolitik ersetzt Daten oder Daten werden zur Partnerpolitik hübsch gebogen.
-- Associates arbeiten dauerhaft am Limit, während die Kanzlei von Kultur spricht.
-- Das Dashboard sieht edel aus, beantwortet aber keine Managementfrage.
-
-## Quellen- und Compliance-Hygiene
-
-Bei Vergütung, Honorarvereinbarung, Erfolgshonorar, Mandatsannahme, Verschwiegenheit, Interessenkollision, Datenschutz, KI-/Cloud-Tooling, beA/ERV und Fristen nie aus Modellgefühl entscheiden. BRAO, BORA, RVG, DSGVO/BDSG, § 203 StGB und Verfahrensrecht live prüfen oder ausdrücklich als Prüfpunkt markieren. Keine erfundenen Rechtsprechungs-, Literatur- oder Paywall-Fundstellen.
-
----
-
-## Skill: `dms-eakten-equity-partner-esg`
-
-_Wenn es um DMS und E-Akten Governance in Kanzlei Management geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt._
-
-# DMS und E-Akten Governance
-
-## Normenanker
-
-Vor einer rechtlichen Schlussfolgerung diese Anker am aktuellen Normtext prüfen; Spezial- und Landesrecht nur hinzunehmen, wenn es den konkreten Auftrag traegt:
-
-- `§ 43 BRAO` — allgemeine Berufspflicht.
-- `§ 43a Abs. 2 BRAO` — Verschwiegenheit.
-- `§ 43a Abs. 4 BRAO` — Interessenkollision.
-- `§ 49b BRAO` — Verguetungsrechtliche Grenzen.
-- `§ 50 BRAO` — Handakten.
-- `§ 2 BORA` — Verschwiegenheit.
-- `§ 3 BORA` — Interessenkollision.
-- `§ 10 BORA` — Briefbogen/Information.
-- `§ 4 RVG` — Verguetungsvereinbarung.
-- `§ 10 RVG` — Abrechnung.
-
-Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei prüfbare Quelle vorliegen; keine BeckRS-/juris-Blindzitate verwenden.
-
-## Arbeitsweg
-
-- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
-- Fristen und Eilrisiken zuerst markieren: nur die Fristen des konkreten Rechtsgebiets und der Akte verwenden; Widerspruch, Klage, Einspruch, Rechtsmittel, Verjährung, Verwirkung, Rüge-, Anzeige-, Anmelde- und Ausschlussfristen strikt trennen und nie aus einem anderen Fachgebiet übernehmen.
-- Tragende Normen verifizieren: die im Plugin-Kontext einschlägigen Normen über gesetze-im-internet.de, dejure.org, eur-lex.europa.eu und die amtlichen Bundes-/Landesportale live prüfen — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
-- Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
-- Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
-
-## Fachkern: DMS und E-Akten Governance
-
-- **Managementproblem (DMS und E-Akten Governance):** Regelt Aktenstruktur, Versionen, Zugriffe, Archiv und Exportfähigkeit. Für Managing Partner, Management Committee oder COO/CFO einer deutschen mittelständischen Kanzlei mit konkreten Abfragen, Kennzahlen, Entscheidungen und berufsrechtlicher Quellenhygiene.
-- **Kennzahlenanker:** Umsatz, UBT, FTE, Utilization, Realization, WIP, DSO, Lock-up, Write-offs, Pipeline, Leverage, Fluktuation und Mandatsrisiko nur zweckbezogen verwenden.
-- **Governance-Weiche:** Partnerpolitik, Mandatsgeheimnis, Interessenkollision, Berufsrecht, People-Risiko und Cashflow getrennt entscheiden; keine hübschen Dashboards ohne Beschlussfrage.
-- **Arbeitsprodukt:** Entscheidungsboard mit drei Optionen, Owner, Frist, Gegenrechnung, Kommunikationslinie und Review-Datum.
-
-## Ausgangspunkt
-
-Regelt Aktenstruktur, Versionen, Zugriffe, Archiv und Exportfähigkeit. Der Skill denkt aus der Perspektive einer deutschen mittelständischen Kanzlei mit Partnerkreis, Associates, Counsel, Business Services, Mandatsgeheimnis, Berufsrecht, RVG/BRAO-Grenzen, Mandantenbeziehungen und echter Liquiditätslogik.
-
-## Erste Abfragen
-
-1. Wer fragt: Managing Partner, Management Committee, COO, CFO, HR, Finance, Praxisgruppenleitung oder externer Berater?
-2. Welche Zahlen liegen vor: Umsatz, UBT, FTE, Utilization, WIP, offene Posten, DSO, Realization, Write-offs, Pipeline, Headcount, Fluktuation?
-3. Welche Entscheidung steht an und wer darf sie treffen?
-4. Welche Menschen sind betroffen: Partnerkreis, Team, Associates, Assistenz, Mandant, Finance, HR?
-5. Gibt es berufsrechtliche Grenzen: Vergütung, Mandatsgeheimnis, Interessenkollision, beA/ERV, Datenschutz, Fristen oder Werbung?
-
-## Standard-Output
-
-Erzeuge:
-
-- Kurzbefund in fünf Sätzen.
-- Fakten- und Datenlückenliste.
-- Dashboard oder Matrix mit Ampel nur dort, wo sie eine Entscheidung erleichtert.
-- Drei Optionen: defensiv, ausgewogen, mutig.
-- Empfehlung mit Owner, Frist, Review-Datum und Kommunikationsvorschlag.
-
-## Rote Flaggen
-
-- WIP wird wie Umsatz behandelt, obwohl keine Rechnung gestellt ist.
-- Utilization steigt, aber Realization, Ausbildung und Stimmung fallen.
-- Rabatte werden als Beziehungspflege verkauft, ohne Scope oder Gegenleistung.
-- Partnerpolitik ersetzt Daten oder Daten werden zur Partnerpolitik hübsch gebogen.
-- Associates arbeiten dauerhaft am Limit, während die Kanzlei von Kultur spricht.
-- Das Dashboard sieht edel aus, beantwortet aber keine Managementfrage.
-
-## Quellen- und Compliance-Hygiene
-
-Bei Vergütung, Honorarvereinbarung, Erfolgshonorar, Mandatsannahme, Verschwiegenheit, Interessenkollision, Datenschutz, KI-/Cloud-Tooling, beA/ERV und Fristen nie aus Modellgefühl entscheiden. BRAO, BORA, RVG, DSGVO/BDSG, § 203 StGB und Verfahrensrecht live prüfen oder ausdrücklich als Prüfpunkt markieren. Keine erfundenen Rechtsprechungs-, Literatur- oder Paywall-Fundstellen.
-
----
-
-## Skill: `merger-talks-nachfolge-practice-office`
-
-_Wenn es um Kanzleifusion und Merger Talks in Kanzlei Management geht: rechnet Schwellen, Beträge, Varianten und Kontrollannahmen durch; liefert eine Berechnungstabelle mit Schwellen, Annahmen und Kontrollfragen._
-
-# Kanzleifusion und Merger Talks
-
-## Normenanker
-
-Vor einer rechtlichen Schlussfolgerung diese Anker am aktuellen Normtext prüfen; Spezial- und Landesrecht nur hinzunehmen, wenn es den konkreten Auftrag traegt:
-
-- `§ 43 BRAO` — allgemeine Berufspflicht.
-- `§ 43a Abs. 2 BRAO` — Verschwiegenheit.
-- `§ 43a Abs. 4 BRAO` — Interessenkollision.
-- `§ 49b BRAO` — Verguetungsrechtliche Grenzen.
-- `§ 50 BRAO` — Handakten.
-- `§ 2 BORA` — Verschwiegenheit.
-- `§ 3 BORA` — Interessenkollision.
-- `§ 10 BORA` — Briefbogen/Information.
-- `§ 4 RVG` — Verguetungsvereinbarung.
-- `§ 10 RVG` — Abrechnung.
-
-Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei prüfbare Quelle vorliegen; keine BeckRS-/juris-Blindzitate verwenden.
-
-## Arbeitsweg
-
-- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
-- Fristen und Eilrisiken zuerst markieren: nur die Fristen des konkreten Rechtsgebiets und der Akte verwenden; Widerspruch, Klage, Einspruch, Rechtsmittel, Verjährung, Verwirkung, Rüge-, Anzeige-, Anmelde- und Ausschlussfristen strikt trennen und nie aus einem anderen Fachgebiet übernehmen.
-- Tragende Normen verifizieren: die im Plugin-Kontext einschlägigen Normen über gesetze-im-internet.de, dejure.org, eur-lex.europa.eu und die amtlichen Bundes-/Landesportale live prüfen — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
-- Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
-- Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
-
-## Fachkern: Kanzleifusion und Merger Talks
-
-- **Managementproblem (Kanzleifusion und Merger Talks):** Strukturiert Fusionsgespräche mit Kultur, Zahlen, Konflikten und Integration. Für Managing Partner, Management Committee oder COO/CFO einer deutschen mittelständischen Kanzlei mit konkreten Abfragen, Kennzahlen, Entscheidungen und berufsrechtlicher Quellenhygiene.
-- **Kennzahlenanker:** Umsatz, UBT, FTE, Utilization, Realization, WIP, DSO, Lock-up, Write-offs, Pipeline, Leverage, Fluktuation und Mandatsrisiko nur zweckbezogen verwenden.
-- **Governance-Weiche:** Partnerpolitik, Mandatsgeheimnis, Interessenkollision, Berufsrecht, People-Risiko und Cashflow getrennt entscheiden; keine hübschen Dashboards ohne Beschlussfrage.
-- **Arbeitsprodukt:** Entscheidungsboard mit drei Optionen, Owner, Frist, Gegenrechnung, Kommunikationslinie und Review-Datum.
-
-## Ausgangspunkt
-
-Strukturiert Fusionsgespräche mit Kultur, Zahlen, Konflikten und Integration. Der Skill denkt aus der Perspektive einer deutschen mittelständischen Kanzlei mit Partnerkreis, Associates, Counsel, Business Services, Mandatsgeheimnis, Berufsrecht, RVG/BRAO-Grenzen, Mandantenbeziehungen und echter Liquiditätslogik.
-
-## Erste Abfragen
-
-1. Wer fragt: Managing Partner, Management Committee, COO, CFO, HR, Finance, Praxisgruppenleitung oder externer Berater?
-2. Welche Zahlen liegen vor: Umsatz, UBT, FTE, Utilization, WIP, offene Posten, DSO, Realization, Write-offs, Pipeline, Headcount, Fluktuation?
-3. Welche Entscheidung steht an und wer darf sie treffen?
-4. Welche Menschen sind betroffen: Partnerkreis, Team, Associates, Assistenz, Mandant, Finance, HR?
-5. Gibt es berufsrechtliche Grenzen: Vergütung, Mandatsgeheimnis, Interessenkollision, beA/ERV, Datenschutz, Fristen oder Werbung?
-
-## Standard-Output
-
-Erzeuge:
-
-- Kurzbefund in fünf Sätzen.
-- Fakten- und Datenlückenliste.
-- Dashboard oder Matrix mit Ampel nur dort, wo sie eine Entscheidung erleichtert.
-- Drei Optionen: defensiv, ausgewogen, mutig.
-- Empfehlung mit Owner, Frist, Review-Datum und Kommunikationsvorschlag.
-
-## Rote Flaggen
-
-- WIP wird wie Umsatz behandelt, obwohl keine Rechnung gestellt ist.
-- Utilization steigt, aber Realization, Ausbildung und Stimmung fallen.
-- Rabatte werden als Beziehungspflege verkauft, ohne Scope oder Gegenleistung.
-- Partnerpolitik ersetzt Daten oder Daten werden zur Partnerpolitik hübsch gebogen.
-- Associates arbeiten dauerhaft am Limit, während die Kanzlei von Kultur spricht.
-- Das Dashboard sieht edel aus, beantwortet aber keine Managementfrage.
-
-## Quellen- und Compliance-Hygiene
-
-Bei Vergütung, Honorarvereinbarung, Erfolgshonorar, Mandatsannahme, Verschwiegenheit, Interessenkollision, Datenschutz, KI-/Cloud-Tooling, beA/ERV und Fristen nie aus Modellgefühl entscheiden. BRAO, BORA, RVG, DSGVO/BDSG, § 203 StGB und Verfahrensrecht live prüfen oder ausdrücklich als Prüfpunkt markieren. Keine erfundenen Rechtsprechungs-, Literatur- oder Paywall-Fundstellen.
-
----
-
 ## Skill: `ai-legal-ops`
 
-_Wenn es um digitale Werkzeuge und Legal Ops in der Kanzlei in Kanzlei Management geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten._
+_Für digitale Werkzeuge und Legal Ops in der Kanzlei: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt._
 
 # KI und Legal Ops in der Kanzlei
 
@@ -735,9 +377,234 @@ Bei Vergütung, Honorarvereinbarung, Erfolgshonorar, Mandatsannahme, Verschwiege
 
 ---
 
+## Skill: `decision-log`
+
+_Für Decision Log: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt. Fachgebiet: Kanzlei Management._
+
+# Decision Log
+
+## Normenanker
+
+Vor einer rechtlichen Schlussfolgerung diese Anker am aktuellen Normtext prüfen; Spezial- und Landesrecht nur hinzunehmen, wenn es den konkreten Auftrag traegt:
+
+- `§ 43 BRAO` — allgemeine Berufspflicht.
+- `§ 43a Abs. 2 BRAO` — Verschwiegenheit.
+- `§ 43a Abs. 4 BRAO` — Interessenkollision.
+- `§ 49b BRAO` — Verguetungsrechtliche Grenzen.
+- `§ 50 BRAO` — Handakten.
+- `§ 2 BORA` — Verschwiegenheit.
+- `§ 3 BORA` — Interessenkollision.
+- `§ 10 BORA` — Briefbogen/Information.
+- `§ 4 RVG` — Verguetungsvereinbarung.
+- `§ 10 RVG` — Abrechnung.
+
+Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei prüfbare Quelle vorliegen; keine BeckRS-/juris-Blindzitate verwenden.
+
+## Arbeitsweg
+
+- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
+- Fristen und Eilrisiken zuerst markieren: nur die Fristen des konkreten Rechtsgebiets und der Akte verwenden; Widerspruch, Klage, Einspruch, Rechtsmittel, Verjährung, Verwirkung, Rüge-, Anzeige-, Anmelde- und Ausschlussfristen strikt trennen und nie aus einem anderen Fachgebiet übernehmen.
+- Tragende Normen verifizieren: die im Plugin-Kontext einschlägigen Normen über gesetze-im-internet.de, dejure.org, eur-lex.europa.eu und die amtlichen Bundes-/Landesportale live prüfen — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
+- Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
+- Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
+
+## Fachkern: Decision Log
+
+- **Managementproblem (Decision Log):** Protokolliert Managemententscheidungen mit Option, Gegenargument, Owner und Review. Für Managing Partner, Management Committee oder COO/CFO einer deutschen mittelständischen Kanzlei mit konkreten Abfragen, Kennzahlen, Entscheidungen und berufsrechtlicher Quellenhygiene.
+- **Kennzahlenanker:** Umsatz, UBT, FTE, Utilization, Realization, WIP, DSO, Lock-up, Write-offs, Pipeline, Leverage, Fluktuation und Mandatsrisiko nur zweckbezogen verwenden.
+- **Governance-Weiche:** Partnerpolitik, Mandatsgeheimnis, Interessenkollision, Berufsrecht, People-Risiko und Cashflow getrennt entscheiden; keine hübschen Dashboards ohne Beschlussfrage.
+- **Arbeitsprodukt:** Entscheidungsboard mit drei Optionen, Owner, Frist, Gegenrechnung, Kommunikationslinie und Review-Datum.
+
+## Ausgangspunkt
+
+Protokolliert Managemententscheidungen mit Option, Gegenargument, Owner und Review. Der Skill denkt aus der Perspektive einer deutschen mittelständischen Kanzlei mit Partnerkreis, Associates, Counsel, Business Services, Mandatsgeheimnis, Berufsrecht, RVG/BRAO-Grenzen, Mandantenbeziehungen und echter Liquiditätslogik.
+
+## Erste Abfragen
+
+1. Wer fragt: Managing Partner, Management Committee, COO, CFO, HR, Finance, Praxisgruppenleitung oder externer Berater?
+2. Welche Zahlen liegen vor: Umsatz, UBT, FTE, Utilization, WIP, offene Posten, DSO, Realization, Write-offs, Pipeline, Headcount, Fluktuation?
+3. Welche Entscheidung steht an und wer darf sie treffen?
+4. Welche Menschen sind betroffen: Partnerkreis, Team, Associates, Assistenz, Mandant, Finance, HR?
+5. Gibt es berufsrechtliche Grenzen: Vergütung, Mandatsgeheimnis, Interessenkollision, beA/ERV, Datenschutz, Fristen oder Werbung?
+
+## Standard-Output
+
+Erzeuge:
+
+- Kurzbefund in fünf Sätzen.
+- Fakten- und Datenlückenliste.
+- Dashboard oder Matrix mit Ampel nur dort, wo sie eine Entscheidung erleichtert.
+- Drei Optionen: defensiv, ausgewogen, mutig.
+- Empfehlung mit Owner, Frist, Review-Datum und Kommunikationsvorschlag.
+
+## Rote Flaggen
+
+- WIP wird wie Umsatz behandelt, obwohl keine Rechnung gestellt ist.
+- Utilization steigt, aber Realization, Ausbildung und Stimmung fallen.
+- Rabatte werden als Beziehungspflege verkauft, ohne Scope oder Gegenleistung.
+- Partnerpolitik ersetzt Daten oder Daten werden zur Partnerpolitik hübsch gebogen.
+- Associates arbeiten dauerhaft am Limit, während die Kanzlei von Kultur spricht.
+- Das Dashboard sieht edel aus, beantwortet aber keine Managementfrage.
+
+## Quellen- und Compliance-Hygiene
+
+Bei Vergütung, Honorarvereinbarung, Erfolgshonorar, Mandatsannahme, Verschwiegenheit, Interessenkollision, Datenschutz, KI-/Cloud-Tooling, beA/ERV und Fristen nie aus Modellgefühl entscheiden. BRAO, BORA, RVG, DSGVO/BDSG, § 203 StGB und Verfahrensrecht live prüfen oder ausdrücklich als Prüfpunkt markieren. Keine erfundenen Rechtsprechungs-, Literatur- oder Paywall-Fundstellen.
+
+---
+
+## Skill: `market-positioning`
+
+_Für Marktpositionierung Mittelstandskanzlei: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt._
+
+# Marktpositionierung Mittelstandskanzlei
+
+## Normenanker
+
+Vor einer rechtlichen Schlussfolgerung diese Anker am aktuellen Normtext prüfen; Spezial- und Landesrecht nur hinzunehmen, wenn es den konkreten Auftrag traegt:
+
+- `§ 43 BRAO` — allgemeine Berufspflicht.
+- `§ 43a Abs. 2 BRAO` — Verschwiegenheit.
+- `§ 43a Abs. 4 BRAO` — Interessenkollision.
+- `§ 49b BRAO` — Verguetungsrechtliche Grenzen.
+- `§ 50 BRAO` — Handakten.
+- `§ 2 BORA` — Verschwiegenheit.
+- `§ 3 BORA` — Interessenkollision.
+- `§ 10 BORA` — Briefbogen/Information.
+- `§ 4 RVG` — Verguetungsvereinbarung.
+- `§ 10 RVG` — Abrechnung.
+
+Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei prüfbare Quelle vorliegen; keine BeckRS-/juris-Blindzitate verwenden.
+
+## Arbeitsweg
+
+- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
+- Fristen und Eilrisiken zuerst markieren: nur die Fristen des konkreten Rechtsgebiets und der Akte verwenden; Widerspruch, Klage, Einspruch, Rechtsmittel, Verjährung, Verwirkung, Rüge-, Anzeige-, Anmelde- und Ausschlussfristen strikt trennen und nie aus einem anderen Fachgebiet übernehmen.
+- Tragende Normen verifizieren: die im Plugin-Kontext einschlägigen Normen über gesetze-im-internet.de, dejure.org, eur-lex.europa.eu und die amtlichen Bundes-/Landesportale live prüfen — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
+- Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
+- Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
+
+## Fachkern: Marktpositionierung Mittelstandskanzlei
+
+- **Managementproblem (Marktpositionierung Mittelstandskanzlei):** Schärft Positionierung zwischen Boutique, Full Service und regionalem Platzhirsch. Für Managing Partner, Management Committee oder COO/CFO einer deutschen mittelständischen Kanzlei mit konkreten Abfragen, Kennzahlen, Entscheidungen und berufsrechtlicher Quellenhygiene.
+- **Kennzahlenanker:** Umsatz, UBT, FTE, Utilization, Realization, WIP, DSO, Lock-up, Write-offs, Pipeline, Leverage, Fluktuation und Mandatsrisiko nur zweckbezogen verwenden.
+- **Governance-Weiche:** Partnerpolitik, Mandatsgeheimnis, Interessenkollision, Berufsrecht, People-Risiko und Cashflow getrennt entscheiden; keine hübschen Dashboards ohne Beschlussfrage.
+- **Arbeitsprodukt:** Entscheidungsboard mit drei Optionen, Owner, Frist, Gegenrechnung, Kommunikationslinie und Review-Datum.
+
+## Ausgangspunkt
+
+Schärft Positionierung zwischen Boutique, Full Service und regionalem Platzhirsch. Der Skill denkt aus der Perspektive einer deutschen mittelständischen Kanzlei mit Partnerkreis, Associates, Counsel, Business Services, Mandatsgeheimnis, Berufsrecht, RVG/BRAO-Grenzen, Mandantenbeziehungen und echter Liquiditätslogik.
+
+## Erste Abfragen
+
+1. Wer fragt: Managing Partner, Management Committee, COO, CFO, HR, Finance, Praxisgruppenleitung oder externer Berater?
+2. Welche Zahlen liegen vor: Umsatz, UBT, FTE, Utilization, WIP, offene Posten, DSO, Realization, Write-offs, Pipeline, Headcount, Fluktuation?
+3. Welche Entscheidung steht an und wer darf sie treffen?
+4. Welche Menschen sind betroffen: Partnerkreis, Team, Associates, Assistenz, Mandant, Finance, HR?
+5. Gibt es berufsrechtliche Grenzen: Vergütung, Mandatsgeheimnis, Interessenkollision, beA/ERV, Datenschutz, Fristen oder Werbung?
+
+## Standard-Output
+
+Erzeuge:
+
+- Kurzbefund in fünf Sätzen.
+- Fakten- und Datenlückenliste.
+- Dashboard oder Matrix mit Ampel nur dort, wo sie eine Entscheidung erleichtert.
+- Drei Optionen: defensiv, ausgewogen, mutig.
+- Empfehlung mit Owner, Frist, Review-Datum und Kommunikationsvorschlag.
+
+## Rote Flaggen
+
+- WIP wird wie Umsatz behandelt, obwohl keine Rechnung gestellt ist.
+- Utilization steigt, aber Realization, Ausbildung und Stimmung fallen.
+- Rabatte werden als Beziehungspflege verkauft, ohne Scope oder Gegenleistung.
+- Partnerpolitik ersetzt Daten oder Daten werden zur Partnerpolitik hübsch gebogen.
+- Associates arbeiten dauerhaft am Limit, während die Kanzlei von Kultur spricht.
+- Das Dashboard sieht edel aus, beantwortet aber keine Managementfrage.
+
+## Quellen- und Compliance-Hygiene
+
+Bei Vergütung, Honorarvereinbarung, Erfolgshonorar, Mandatsannahme, Verschwiegenheit, Interessenkollision, Datenschutz, KI-/Cloud-Tooling, beA/ERV und Fristen nie aus Modellgefühl entscheiden. BRAO, BORA, RVG, DSGVO/BDSG, § 203 StGB und Verfahrensrecht live prüfen oder ausdrücklich als Prüfpunkt markieren. Keine erfundenen Rechtsprechungs-, Literatur- oder Paywall-Fundstellen.
+
+---
+
+## Skill: `karrierepfad-associate-key-account-knowledge`
+
+_Für Karrierepfad Associate Counsel Partner: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt._
+
+# Karrierepfad Associate Counsel Partner
+
+## Normenanker
+
+Vor einer rechtlichen Schlussfolgerung diese Anker am aktuellen Normtext prüfen; Spezial- und Landesrecht nur hinzunehmen, wenn es den konkreten Auftrag traegt:
+
+- `§ 43 BRAO` — allgemeine Berufspflicht.
+- `§ 43a Abs. 2 BRAO` — Verschwiegenheit.
+- `§ 43a Abs. 4 BRAO` — Interessenkollision.
+- `§ 49b BRAO` — Verguetungsrechtliche Grenzen.
+- `§ 50 BRAO` — Handakten.
+- `§ 2 BORA` — Verschwiegenheit.
+- `§ 3 BORA` — Interessenkollision.
+- `§ 10 BORA` — Briefbogen/Information.
+- `§ 4 RVG` — Verguetungsvereinbarung.
+- `§ 10 RVG` — Abrechnung.
+
+Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei prüfbare Quelle vorliegen; keine BeckRS-/juris-Blindzitate verwenden.
+
+## Arbeitsweg
+
+- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
+- Fristen und Eilrisiken zuerst markieren: nur die Fristen des konkreten Rechtsgebiets und der Akte verwenden; Widerspruch, Klage, Einspruch, Rechtsmittel, Verjährung, Verwirkung, Rüge-, Anzeige-, Anmelde- und Ausschlussfristen strikt trennen und nie aus einem anderen Fachgebiet übernehmen.
+- Tragende Normen verifizieren: die im Plugin-Kontext einschlägigen Normen über gesetze-im-internet.de, dejure.org, eur-lex.europa.eu und die amtlichen Bundes-/Landesportale live prüfen — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
+- Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
+- Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
+
+## Fachkern: Karrierepfad Associate Counsel Partner
+
+- **Managementproblem (Karrierepfad Associate Counsel Partner):** Macht Erwartungen, Fachlichkeit, BD und Führung sichtbar. Für Managing Partner, Management Committee oder COO/CFO einer deutschen mittelständischen Kanzlei mit konkreten Abfragen, Kennzahlen, Entscheidungen und berufsrechtlicher Quellenhygiene.
+- **Kennzahlenanker:** Umsatz, UBT, FTE, Utilization, Realization, WIP, DSO, Lock-up, Write-offs, Pipeline, Leverage, Fluktuation und Mandatsrisiko nur zweckbezogen verwenden.
+- **Governance-Weiche:** Partnerpolitik, Mandatsgeheimnis, Interessenkollision, Berufsrecht, People-Risiko und Cashflow getrennt entscheiden; keine hübschen Dashboards ohne Beschlussfrage.
+- **Arbeitsprodukt:** Entscheidungsboard mit drei Optionen, Owner, Frist, Gegenrechnung, Kommunikationslinie und Review-Datum.
+
+## Ausgangspunkt
+
+Macht Erwartungen, Fachlichkeit, BD und Führung sichtbar. Der Skill denkt aus der Perspektive einer deutschen mittelständischen Kanzlei mit Partnerkreis, Associates, Counsel, Business Services, Mandatsgeheimnis, Berufsrecht, RVG/BRAO-Grenzen, Mandantenbeziehungen und echter Liquiditätslogik.
+
+## Erste Abfragen
+
+1. Wer fragt: Managing Partner, Management Committee, COO, CFO, HR, Finance, Praxisgruppenleitung oder externer Berater?
+2. Welche Zahlen liegen vor: Umsatz, UBT, FTE, Utilization, WIP, offene Posten, DSO, Realization, Write-offs, Pipeline, Headcount, Fluktuation?
+3. Welche Entscheidung steht an und wer darf sie treffen?
+4. Welche Menschen sind betroffen: Partnerkreis, Team, Associates, Assistenz, Mandant, Finance, HR?
+5. Gibt es berufsrechtliche Grenzen: Vergütung, Mandatsgeheimnis, Interessenkollision, beA/ERV, Datenschutz, Fristen oder Werbung?
+
+## Standard-Output
+
+Erzeuge:
+
+- Kurzbefund in fünf Sätzen.
+- Fakten- und Datenlückenliste.
+- Dashboard oder Matrix mit Ampel nur dort, wo sie eine Entscheidung erleichtert.
+- Drei Optionen: defensiv, ausgewogen, mutig.
+- Empfehlung mit Owner, Frist, Review-Datum und Kommunikationsvorschlag.
+
+## Rote Flaggen
+
+- WIP wird wie Umsatz behandelt, obwohl keine Rechnung gestellt ist.
+- Utilization steigt, aber Realization, Ausbildung und Stimmung fallen.
+- Rabatte werden als Beziehungspflege verkauft, ohne Scope oder Gegenleistung.
+- Partnerpolitik ersetzt Daten oder Daten werden zur Partnerpolitik hübsch gebogen.
+- Associates arbeiten dauerhaft am Limit, während die Kanzlei von Kultur spricht.
+- Das Dashboard sieht edel aus, beantwortet aber keine Managementfrage.
+
+## Quellen- und Compliance-Hygiene
+
+Bei Vergütung, Honorarvereinbarung, Erfolgshonorar, Mandatsannahme, Verschwiegenheit, Interessenkollision, Datenschutz, KI-/Cloud-Tooling, beA/ERV und Fristen nie aus Modellgefühl entscheiden. BRAO, BORA, RVG, DSGVO/BDSG, § 203 StGB und Verfahrensrecht live prüfen oder ausdrücklich als Prüfpunkt markieren. Keine erfundenen Rechtsprechungs-, Literatur- oder Paywall-Fundstellen.
+
+---
+
 ## Skill: `partnerverguetung-lockstep-merit`
 
-_Wenn es um Partnervergütung Lockstep Merit Hybrid in Kanzlei Management geht: entwickelt Verhandlungsziel, Vergleichskorridor und Eskalationspfad; liefert eine Verhandlungs- oder Eskalationslinie mit Optionen._
+_Für Partnervergütung Lockstep Merit Hybrid: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt._
 
 # Partnervergütung Lockstep Merit Hybrid
 
@@ -776,6 +643,156 @@ Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei pr
 ## Ausgangspunkt
 
 Vergleicht Vergütungsmodelle und falsche Anreize. Der Skill denkt aus der Perspektive einer deutschen mittelständischen Kanzlei mit Partnerkreis, Associates, Counsel, Business Services, Mandatsgeheimnis, Berufsrecht, RVG/BRAO-Grenzen, Mandantenbeziehungen und echter Liquiditätslogik.
+
+## Erste Abfragen
+
+1. Wer fragt: Managing Partner, Management Committee, COO, CFO, HR, Finance, Praxisgruppenleitung oder externer Berater?
+2. Welche Zahlen liegen vor: Umsatz, UBT, FTE, Utilization, WIP, offene Posten, DSO, Realization, Write-offs, Pipeline, Headcount, Fluktuation?
+3. Welche Entscheidung steht an und wer darf sie treffen?
+4. Welche Menschen sind betroffen: Partnerkreis, Team, Associates, Assistenz, Mandant, Finance, HR?
+5. Gibt es berufsrechtliche Grenzen: Vergütung, Mandatsgeheimnis, Interessenkollision, beA/ERV, Datenschutz, Fristen oder Werbung?
+
+## Standard-Output
+
+Erzeuge:
+
+- Kurzbefund in fünf Sätzen.
+- Fakten- und Datenlückenliste.
+- Dashboard oder Matrix mit Ampel nur dort, wo sie eine Entscheidung erleichtert.
+- Drei Optionen: defensiv, ausgewogen, mutig.
+- Empfehlung mit Owner, Frist, Review-Datum und Kommunikationsvorschlag.
+
+## Rote Flaggen
+
+- WIP wird wie Umsatz behandelt, obwohl keine Rechnung gestellt ist.
+- Utilization steigt, aber Realization, Ausbildung und Stimmung fallen.
+- Rabatte werden als Beziehungspflege verkauft, ohne Scope oder Gegenleistung.
+- Partnerpolitik ersetzt Daten oder Daten werden zur Partnerpolitik hübsch gebogen.
+- Associates arbeiten dauerhaft am Limit, während die Kanzlei von Kultur spricht.
+- Das Dashboard sieht edel aus, beantwortet aber keine Managementfrage.
+
+## Quellen- und Compliance-Hygiene
+
+Bei Vergütung, Honorarvereinbarung, Erfolgshonorar, Mandatsannahme, Verschwiegenheit, Interessenkollision, Datenschutz, KI-/Cloud-Tooling, beA/ERV und Fristen nie aus Modellgefühl entscheiden. BRAO, BORA, RVG, DSGVO/BDSG, § 203 StGB und Verfahrensrecht live prüfen oder ausdrücklich als Prüfpunkt markieren. Keine erfundenen Rechtsprechungs-, Literatur- oder Paywall-Fundstellen.
+
+---
+
+## Skill: `partner-austritt-client-transition`
+
+_Für Partneraustritt und Mandantenübergabe: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt._
+
+# Partneraustritt und Mandantenübergabe
+
+## Normenanker
+
+Vor einer rechtlichen Schlussfolgerung diese Anker am aktuellen Normtext prüfen; Spezial- und Landesrecht nur hinzunehmen, wenn es den konkreten Auftrag traegt:
+
+- `§ 43 BRAO` — allgemeine Berufspflicht.
+- `§ 43a Abs. 2 BRAO` — Verschwiegenheit.
+- `§ 43a Abs. 4 BRAO` — Interessenkollision.
+- `§ 49b BRAO` — Verguetungsrechtliche Grenzen.
+- `§ 50 BRAO` — Handakten.
+- `§ 2 BORA` — Verschwiegenheit.
+- `§ 3 BORA` — Interessenkollision.
+- `§ 10 BORA` — Briefbogen/Information.
+- `§ 4 RVG` — Verguetungsvereinbarung.
+- `§ 10 RVG` — Abrechnung.
+
+Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei prüfbare Quelle vorliegen; keine BeckRS-/juris-Blindzitate verwenden.
+
+## Arbeitsweg
+
+- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
+- Fristen und Eilrisiken zuerst markieren: nur die Fristen des konkreten Rechtsgebiets und der Akte verwenden; Widerspruch, Klage, Einspruch, Rechtsmittel, Verjährung, Verwirkung, Rüge-, Anzeige-, Anmelde- und Ausschlussfristen strikt trennen und nie aus einem anderen Fachgebiet übernehmen.
+- Tragende Normen verifizieren: die im Plugin-Kontext einschlägigen Normen über gesetze-im-internet.de, dejure.org, eur-lex.europa.eu und die amtlichen Bundes-/Landesportale live prüfen — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
+- Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
+- Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
+
+## Fachkern: Partneraustritt und Mandantenübergabe
+
+- **Managementproblem (Partneraustritt und Mandantenübergabe):** Plant Ausscheiden, Retirement, Kanzleiwechsel und Mandatskontinuität. Für Managing Partner, Management Committee oder COO/CFO einer deutschen mittelständischen Kanzlei mit konkreten Abfragen, Kennzahlen, Entscheidungen und berufsrechtlicher Quellenhygiene.
+- **Kennzahlenanker:** Umsatz, UBT, FTE, Utilization, Realization, WIP, DSO, Lock-up, Write-offs, Pipeline, Leverage, Fluktuation und Mandatsrisiko nur zweckbezogen verwenden.
+- **Governance-Weiche:** Partnerpolitik, Mandatsgeheimnis, Interessenkollision, Berufsrecht, People-Risiko und Cashflow getrennt entscheiden; keine hübschen Dashboards ohne Beschlussfrage.
+- **Arbeitsprodukt:** Entscheidungsboard mit drei Optionen, Owner, Frist, Gegenrechnung, Kommunikationslinie und Review-Datum.
+
+## Ausgangspunkt
+
+Plant Ausscheiden, Retirement, Kanzleiwechsel und Mandatskontinuität. Der Skill denkt aus der Perspektive einer deutschen mittelständischen Kanzlei mit Partnerkreis, Associates, Counsel, Business Services, Mandatsgeheimnis, Berufsrecht, RVG/BRAO-Grenzen, Mandantenbeziehungen und echter Liquiditätslogik.
+
+## Erste Abfragen
+
+1. Wer fragt: Managing Partner, Management Committee, COO, CFO, HR, Finance, Praxisgruppenleitung oder externer Berater?
+2. Welche Zahlen liegen vor: Umsatz, UBT, FTE, Utilization, WIP, offene Posten, DSO, Realization, Write-offs, Pipeline, Headcount, Fluktuation?
+3. Welche Entscheidung steht an und wer darf sie treffen?
+4. Welche Menschen sind betroffen: Partnerkreis, Team, Associates, Assistenz, Mandant, Finance, HR?
+5. Gibt es berufsrechtliche Grenzen: Vergütung, Mandatsgeheimnis, Interessenkollision, beA/ERV, Datenschutz, Fristen oder Werbung?
+
+## Standard-Output
+
+Erzeuge:
+
+- Kurzbefund in fünf Sätzen.
+- Fakten- und Datenlückenliste.
+- Dashboard oder Matrix mit Ampel nur dort, wo sie eine Entscheidung erleichtert.
+- Drei Optionen: defensiv, ausgewogen, mutig.
+- Empfehlung mit Owner, Frist, Review-Datum und Kommunikationsvorschlag.
+
+## Rote Flaggen
+
+- WIP wird wie Umsatz behandelt, obwohl keine Rechnung gestellt ist.
+- Utilization steigt, aber Realization, Ausbildung und Stimmung fallen.
+- Rabatte werden als Beziehungspflege verkauft, ohne Scope oder Gegenleistung.
+- Partnerpolitik ersetzt Daten oder Daten werden zur Partnerpolitik hübsch gebogen.
+- Associates arbeiten dauerhaft am Limit, während die Kanzlei von Kultur spricht.
+- Das Dashboard sieht edel aus, beantwortet aber keine Managementfrage.
+
+## Quellen- und Compliance-Hygiene
+
+Bei Vergütung, Honorarvereinbarung, Erfolgshonorar, Mandatsannahme, Verschwiegenheit, Interessenkollision, Datenschutz, KI-/Cloud-Tooling, beA/ERV und Fristen nie aus Modellgefühl entscheiden. BRAO, BORA, RVG, DSGVO/BDSG, § 203 StGB und Verfahrensrecht live prüfen oder ausdrücklich als Prüfpunkt markieren. Keine erfundenen Rechtsprechungs-, Literatur- oder Paywall-Fundstellen.
+
+---
+
+## Skill: `dashboard-board-pack`
+
+_Für Board Pack fürs Management Committee: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt._
+
+# Board Pack fürs Management Committee
+
+## Normenanker
+
+Vor einer rechtlichen Schlussfolgerung diese Anker am aktuellen Normtext prüfen; Spezial- und Landesrecht nur hinzunehmen, wenn es den konkreten Auftrag traegt:
+
+- `§ 43 BRAO` — allgemeine Berufspflicht.
+- `§ 43a Abs. 2 BRAO` — Verschwiegenheit.
+- `§ 43a Abs. 4 BRAO` — Interessenkollision.
+- `§ 49b BRAO` — Verguetungsrechtliche Grenzen.
+- `§ 50 BRAO` — Handakten.
+- `§ 2 BORA` — Verschwiegenheit.
+- `§ 3 BORA` — Interessenkollision.
+- `§ 10 BORA` — Briefbogen/Information.
+- `§ 4 RVG` — Verguetungsvereinbarung.
+- `§ 10 RVG` — Abrechnung.
+
+Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei prüfbare Quelle vorliegen; keine BeckRS-/juris-Blindzitate verwenden.
+
+## Arbeitsweg
+
+- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
+- Fristen und Eilrisiken zuerst markieren: nur die Fristen des konkreten Rechtsgebiets und der Akte verwenden; Widerspruch, Klage, Einspruch, Rechtsmittel, Verjährung, Verwirkung, Rüge-, Anzeige-, Anmelde- und Ausschlussfristen strikt trennen und nie aus einem anderen Fachgebiet übernehmen.
+- Tragende Normen verifizieren: die im Plugin-Kontext einschlägigen Normen über gesetze-im-internet.de, dejure.org, eur-lex.europa.eu und die amtlichen Bundes-/Landesportale live prüfen — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
+- Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
+- Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
+
+## Fachkern: Board Pack fürs Management Committee
+
+- **Managementproblem (Board Pack fürs Management Committee):** Erstellt MC-Pack mit Zahlen, Kommentierung, Entscheidungen und Anhang. Für Managing Partner, Management Committee oder COO/CFO einer deutschen mittelständischen Kanzlei mit konkreten Abfragen, Kennzahlen, Entscheidungen und berufsrechtlicher Quellenhygiene.
+- **Kennzahlenanker:** Umsatz, UBT, FTE, Utilization, Realization, WIP, DSO, Lock-up, Write-offs, Pipeline, Leverage, Fluktuation und Mandatsrisiko nur zweckbezogen verwenden.
+- **Governance-Weiche:** Partnerpolitik, Mandatsgeheimnis, Interessenkollision, Berufsrecht, People-Risiko und Cashflow getrennt entscheiden; keine hübschen Dashboards ohne Beschlussfrage.
+- **Arbeitsprodukt:** Entscheidungsboard mit drei Optionen, Owner, Frist, Gegenrechnung, Kommunikationslinie und Review-Datum.
+
+## Ausgangspunkt
+
+Erstellt MC-Pack mit Zahlen, Kommentierung, Entscheidungen und Anhang. Der Skill denkt aus der Perspektive einer deutschen mittelständischen Kanzlei mit Partnerkreis, Associates, Counsel, Business Services, Mandatsgeheimnis, Berufsrecht, RVG/BRAO-Grenzen, Mandantenbeziehungen und echter Liquiditätslogik.
 
 ## Erste Abfragen
 

@@ -1,6 +1,6 @@
 ---
 name: fa-stu-bewertung-immobilien-bewg
-description: "Wenn es um Bewertung von Immobilien fuer Erbschaft und Schenkung — Paragrafen 176 ff. BewG in Steuerrecht – Steuerberater und Anwälte geht: entwickelt Verhandlungsziel, Vergleichskorridor und Eskalationspfad; liefert eine Verhandlungs- oder Eskalationslinie mit Optionen."
+description: "Für Bewertung von Immobilien für Erbschaft und Schenkung — Paragrafen 176 ff. BewG: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt. Fachgebiet: Steuerrecht – Steuerberater und Anwälte. Route: fa-stu-bewertung-immobilien-bewg."
 ---
 
 # Bewertung von Immobilien fuer Erbschaft und Schenkung — §§ 176 ff. BewG

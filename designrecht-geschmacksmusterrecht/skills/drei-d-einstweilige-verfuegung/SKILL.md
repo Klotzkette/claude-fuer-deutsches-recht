@@ -1,6 +1,6 @@
 ---
 name: drei-d-einstweilige-verfuegung
-description: "Wenn es um Drei D Druck Digitales Design in designrecht-geschmacksmusterrecht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Beweislast- und Substantiierungsmatrix."
+description: "Für Drei D Druck Digitales Design: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Drei D Druck Digitales Design

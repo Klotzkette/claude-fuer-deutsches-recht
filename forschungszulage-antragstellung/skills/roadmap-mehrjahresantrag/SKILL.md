@@ -1,6 +1,6 @@
 ---
 name: roadmap-mehrjahresantrag
-description: "Wenn es um Mehrjahresroadmap Forschungszulage in Forschungszulage-Antragstellung geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Mehrjahresroadmap Forschungszulage: erstellt Entwurf mit Antrag, Beweis und Anlagen; Ergebnis: Schriftsatz mit Begründungs- und Anlagenlogik."
 ---
 
 # Mehrjahresroadmap Forschungszulage

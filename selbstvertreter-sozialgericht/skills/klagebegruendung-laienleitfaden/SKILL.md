@@ -1,6 +1,6 @@
 ---
 name: klagebegruendung-laienleitfaden
-description: "Wenn es um So begruenden Sie Ihre Klage — für Laien in selbstvertreter-sozialgericht geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
+description: "Für So begründen Sie Ihre Klage — für Laien: erstellt Entwurf mit Antrag, Beweis und Anlagen; Ergebnis: Schriftsatz mit Begründungs- und Anlagenlogik."
 ---
 
 # So begruenden Sie Ihre Klage — für Laien

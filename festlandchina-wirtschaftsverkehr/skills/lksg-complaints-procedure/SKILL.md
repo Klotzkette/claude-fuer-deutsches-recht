@@ -1,6 +1,6 @@
 ---
 name: lksg-complaints-procedure
-description: "Wenn es um LkSG-Beschwerdeverfahren China-Lieferkette: Gestaltung und Pflichten in China-Wirtschaftsverkehr geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für LkSG-Beschwerdeverfahren China-Lieferkette: Gestaltung und Pflichten: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # LkSG-Beschwerdeverfahren China-Lieferkette: Gestaltung und Pflichten

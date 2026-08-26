@@ -1,6 +1,6 @@
 ---
 name: rechtsbehelfsbelehrung-pruefungsbescheid
-description: "Wenn es um Rechtsbehelfsbelehrung Prüfungsbescheid in Prüfungsrecht an Hochschulen und Universitäten geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Rechtsbehelfsbelehrung Prüfungsbescheid: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Tatbestands- oder Anspruchsmatrix."
 ---
 
 # Rechtsbehelfsbelehrung Prüfungsbescheid

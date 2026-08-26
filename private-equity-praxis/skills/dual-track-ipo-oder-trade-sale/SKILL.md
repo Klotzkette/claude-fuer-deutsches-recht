@@ -1,6 +1,6 @@
 ---
 name: dual-track-ipo-oder-trade-sale
-description: "Wenn es um Dual Track: IPO oder Trade Sale in Private Equity Praxis geht: entwickelt Verhandlungsziel, Vergleichskorridor und Eskalationspfad; liefert eine Verhandlungs- oder Eskalationslinie mit Optionen."
+description: "Für Dual Track: IPO oder Trade Sale: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Dual Track: IPO oder Trade Sale

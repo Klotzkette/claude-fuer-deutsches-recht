@@ -1,6 +1,6 @@
 ---
 name: specific
-description: "Wenn es um Specific Indemnities Risk Transfer in Großkanzlei Corporate/M&A geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen."
+description: "Für Specific Indemnities Risk Transfer: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt. Fachgebiet: Großkanzlei Corporate/M&A. Route: specific."
 ---
 
 # Specific Indemnities Risk Transfer

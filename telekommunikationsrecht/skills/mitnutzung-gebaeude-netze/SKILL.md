@@ -1,6 +1,6 @@
 ---
 name: mitnutzung-gebaeude-netze
-description: "Wenn es um Mitnutzung von Gebäudenetzen und passiver Infrastruktur in Telekommunikationsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Mitnutzung von Gebäudenetzen und passiver Infrastruktur: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Schnittstellenkarte mit Zuständigkeits- und Nachweisfragen."
 ---
 
 # Mitnutzung von Gebäudenetzen und passiver Infrastruktur

@@ -1,6 +1,6 @@
 ---
 name: internationale-datenpanne-und-multi-notification
-description: "Wenn es um Internationale Datenpanne und Multi-Notification in Datenschutz-Sanktionsverfahren und Verteidigung geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Verhandlungs- oder Eskalationslinie mit Optionen."
+description: "Für Internationale Datenpanne und Multi-Notification: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Schnittstellenkarte mit Zuständigkeits- und Nachweisfragen."
 ---
 
 # Internationale Datenpanne und Multi-Notification

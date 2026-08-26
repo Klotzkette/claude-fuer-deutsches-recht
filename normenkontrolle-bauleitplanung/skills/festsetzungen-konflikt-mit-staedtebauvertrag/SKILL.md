@@ -1,6 +1,6 @@
 ---
 name: festsetzungen-konflikt-mit-staedtebauvertrag
-description: "Wenn es um Konflikt zwischen Festsetzung und städtebaulichem Vertrag in Normenkontrolle Bauleitplanung — Paragraf 47 VwGO geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Tatbestands- oder Anspruchsmatrix mit Gegenargumenten."
+description: "Für Konflikt zwischen Festsetzung und städtebaulichem Vertrag: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Konflikt zwischen Festsetzung und städtebaulichem Vertrag

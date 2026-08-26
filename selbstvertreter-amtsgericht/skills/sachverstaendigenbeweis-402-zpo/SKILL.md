@@ -1,6 +1,6 @@
 ---
 name: sachverstaendigenbeweis-402-zpo
-description: "Wenn es um Sachverstaendigenbeweis: Wenn Fachfrage entscheidet in selbstvertreter-amtsgericht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Sachverständigenbeweis: Wenn Fachfrage entscheidet: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Beweislast- und Substantiierungsmatrix."
 ---
 
 # Sachverstaendigenbeweis: Wenn Fachfrage entscheidet

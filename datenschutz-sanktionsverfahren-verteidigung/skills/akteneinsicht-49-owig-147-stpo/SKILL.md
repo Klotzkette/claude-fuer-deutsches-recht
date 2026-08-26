@@ -1,6 +1,6 @@
 ---
 name: akteneinsicht-49-owig-147-stpo
-description: "Wenn es um Akteneinsicht Paragraf 49 OWiG und Paragraf 147 StPO in Datenschutz-Sanktionsverfahren und Verteidigung geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Dokumentenmatrix mit Nachforderungsliste."
+description: "Für Akteneinsicht Paragraf 49 OWiG und Paragraf 147 StPO: ordnet Akte, Belege und Lücken; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt. Fachgebiet: Datenschutz-Sanktionsverfahren und Verteidigung."
 ---
 
 # Akteneinsicht § 49 OWiG und § 147 StPO

@@ -1,6 +1,6 @@
 ---
 name: laufbahnrecht-laender-lehrer-schule-live
-description: "Wenn es um Laufbahnrecht Länder Matrix in Beamtenrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Laufbahnrecht Länder Matrix: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt. Fachgebiet: Beamtenrecht. Route: laufbahnrecht-laender-lehrer-schule-live."
 ---
 
 # Laufbahnrecht Länder Matrix

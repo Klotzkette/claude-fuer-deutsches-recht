@@ -1,6 +1,6 @@
 ---
 name: auditrechte-stichproben-forderungspruefung
-description: "Wenn es um Auditrechte Stichproben Forderungsprüfung in Factoring-Recht geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Auditrechte Stichproben Forderungsprüfung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Tatbestands- oder Anspruchsmatrix."
 ---
 
 # Auditrechte Stichproben Forderungsprüfung

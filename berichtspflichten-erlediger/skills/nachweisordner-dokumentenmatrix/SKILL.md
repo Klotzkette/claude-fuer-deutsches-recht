@@ -1,6 +1,6 @@
 ---
 name: nachweisordner-dokumentenmatrix
-description: "Wenn es um Nachweisordner und Dokumentenmatrix in Berichtspflichten-Erlediger geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Dokumentenmatrix mit Nachforderungsliste."
+description: "Für Nachweisordner und Dokumentenmatrix: ordnet Akte, Belege und Lücken; Ergebnis: Dokumentenmatrix mit Nachforderungsliste."
 ---
 
 # Nachweisordner und Dokumentenmatrix

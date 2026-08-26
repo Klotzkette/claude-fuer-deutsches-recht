@@ -1,6 +1,6 @@
 ---
 name: europawahl-partei-fraktionsschnittstelle
-description: "Wenn es um Europawahl in Parteienrecht und Parteiorganisation geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. Auswahlstichwort: Europawahl Partei Fraktionsschnittstelle; Arbeitsfeld: Parteienrecht und Parteiorganisation."
+description: "Für Europawahl: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Schnittstellenkarte mit Zuständigkeits- und Nachweisfragen. Fachgebiet: Parteienrecht und Parteiorganisation. Route: europawahl-partei-fraktionsschnittstelle."
 ---
 
 # Europawahl

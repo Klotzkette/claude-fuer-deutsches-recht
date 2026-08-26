@@ -1,6 +1,6 @@
 ---
 name: pfaendung-flugzeug-deutschland
-description: "Wenn es um Pfändung Flugzeug Deutschland – Zwangsvollstreckung und Gegenargumentation in Luftrecht und Flughafenrecht geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
+description: "Für Pfändung Flugzeug Deutschland – Zwangsvollstreckung und Gegenargumentation: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Schnittstellenkarte mit Zuständigkeits- und Nachweisfragen."
 ---
 
 # Pfändung Flugzeug Deutschland – Zwangsvollstreckung und Gegenargumentation

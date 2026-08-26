@@ -1,6 +1,6 @@
 ---
 name: medr-einfuehrung-themen
-description: "Wenn es um Medr Einfuehrung Themen in Fachanwalt Medizinrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Medr Einführung Themen: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Medizinrecht einfuehrend: Arzthaftung, Berufsrecht, Vertragsarztrecht, Krankenhausrecht, Arzneimittel- und Medizinprodukterecht, Heilmittelwerberecht, MVZ-Strukturen

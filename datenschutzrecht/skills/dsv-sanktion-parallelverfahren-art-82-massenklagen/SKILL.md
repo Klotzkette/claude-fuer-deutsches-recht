@@ -1,6 +1,6 @@
 ---
 name: dsv-sanktion-parallelverfahren-art-82-massenklagen
-description: "Wenn es um Datenschutzrecht-Brückenskill: Parallelverfahren Art in Datenschutzrecht geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
+description: "Für Datenschutzrecht-Brückenskill: Parallelverfahren Art: erstellt Entwurf mit Antrag, Beweis und Anlagen; Ergebnis: Schriftsatz mit Begründungs- und Anlagenlogik."
 ---
 
 # Datenschutzrecht-Brückenskill: Parallelverfahren Art

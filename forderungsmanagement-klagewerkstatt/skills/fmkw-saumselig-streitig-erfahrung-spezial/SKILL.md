@@ -1,6 +1,6 @@
 ---
 name: fmkw-saumselig-streitig-erfahrung-spezial
-description: "Wenn es um FMKW: Saumselig Streitig in Forderungsmanagement — Klagewerkstatt geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
+description: "Für FMKW: Saumselig Streitig: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # FMKW: Saumselig Streitig

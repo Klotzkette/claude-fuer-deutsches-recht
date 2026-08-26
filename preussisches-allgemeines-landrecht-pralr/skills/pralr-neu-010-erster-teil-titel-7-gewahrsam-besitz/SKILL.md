@@ -1,6 +1,6 @@
 ---
 name: pralr-neu-010-erster-teil-titel-7-gewahrsam-besitz
-description: "Wenn es um PrALR: Erster Teil Titel 7 Gewahrsam Besitz und Eigentumsverfolgung in Preußisches Allgemeines Landrecht geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für PrALR: Erster Teil Titel 7 Gewahrsam Besitz und Eigentumsverfolgung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Schnittstellenkarte mit Zuständigkeits- und Nachweisfragen."
 ---
 
 # PrALR: Erster Teil Titel 7 Gewahrsam Besitz und Eigentumsverfolgung

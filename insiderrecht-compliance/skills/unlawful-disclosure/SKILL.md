@@ -1,6 +1,6 @@
 ---
 name: unlawful-disclosure
-description: "Wenn es um Unzulässige Offenlegung nach Art. 10 MAR in Insiderrecht Compliance geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Unzulässige Offenlegung nach Art. 10 MAR: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Unzulässige Offenlegung nach Art. 10 MAR

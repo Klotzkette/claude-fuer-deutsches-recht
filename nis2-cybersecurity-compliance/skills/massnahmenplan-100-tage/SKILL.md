@@ -1,6 +1,6 @@
 ---
 name: massnahmenplan-100-tage
-description: "Wenn es um Massnahmenplan 100 Tage in NIS-2, Cybersecurity und IT-Sicherheits-Compliance geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Maßnahmenplan 100 Tage: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt. Fachgebiet: NIS-2, Cybersecurity und IT-Sicherheits-Compliance. Route: massnahmenplan-100-tage."
 ---
 
 # Massnahmenplan 100 Tage

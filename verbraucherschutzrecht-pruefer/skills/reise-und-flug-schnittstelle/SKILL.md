@@ -1,6 +1,6 @@
 ---
 name: reise-und-flug-schnittstelle
-description: "Wenn es um Reise Und Flug Schnittstelle in Verbraucherschutzrecht Prüfer geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Reise und Flug Schnittstelle: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Reise Und Flug Schnittstelle

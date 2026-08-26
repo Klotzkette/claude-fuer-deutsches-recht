@@ -1,6 +1,6 @@
 ---
 name: hauptverhandlung-71-owig
-description: "Wenn es um Hauptverhandlung Paragraf 71 OWiG in Datenschutz-Sanktionsverfahren und Verteidigung geht: entwickelt Verhandlungsziel, Vergleichskorridor und Eskalationspfad; liefert eine Beweislast- und Substantiierungsmatrix."
+description: "Für Hauptverhandlung Paragraf 71 OWiG: entwickelt Ziel, Vergleich und Eskalation; Ergebnis: Verhandlungs- oder Eskalationslinie. Fachgebiet: Datenschutz-Sanktionsverfahren und Verteidigung."
 ---
 
 # Hauptverhandlung § 71 OWiG

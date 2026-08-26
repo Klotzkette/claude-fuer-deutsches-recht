@@ -1,6 +1,6 @@
 ---
 name: erbsch-betriebsvermoegen-13a-13b-erbstg
-description: "Wenn es um Erbschaftsteuerliche Verschonung Betriebsvermoegen — Paragrafen 13a 13b ErbStG in Steuerrecht – Steuerberater und Anwälte geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. Auswahlstichwort: Erbsch Betriebsvermoegen 13a 13b Erbstg; Arbeitsfeld: Steuerrecht – Steuerberater und Anwälte."
+description: "Für Erbschaftsteuerliche Verschonung Betriebsvermögen — Paragrafen 13a 13b ErbStG: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt. Fachgebiet: Steuerrecht – Steuerberater und Anwälte. Route: erbsch-betriebsvermoegen-13a-13b-erbstg."
 ---
 
 # Erbschaftsteuerliche Verschonung Betriebsvermoegen — §§ 13a 13b ErbStG

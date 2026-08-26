@@ -1,6 +1,6 @@
 ---
 name: schrems-ii-drittlandsuebermittlung-c-311-18
-description: "Prüft Drittlandübermittlungen nach Schrems II und aktuellem Kapitel V der DSGVO. Bestimmt Datenfluss, Angemessenheitsbeschluss, Zertifizierung, Standardklauseln, Transferfolgenabschätzung und zusätzliche Maßnahmen und liefert Freigabe, Restrestrisiko und umsetzbaren Maßnahmenplan."
+description: "Prüft Drittlandübermittlungen nach Schrems II und aktuellem Kapitel V der DSGVO."
 ---
 
 # Drittlandübermittlung nach Schrems II prüfen

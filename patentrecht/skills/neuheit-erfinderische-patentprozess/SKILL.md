@@ -1,6 +1,6 @@
 ---
 name: neuheit-erfinderische-patentprozess
-description: "Wenn es um Neuheit und erfinderische Tätigkeit in patentrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Neuheit und erfinderische Tätigkeit: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Schnittstellenkarte mit Zuständigkeits- und Nachweisfragen."
 ---
 
 # Neuheit und erfinderische Tätigkeit

@@ -1,6 +1,6 @@
 ---
 name: prioritaet-anmeldetag-produktlaunch-neuheit
-description: "Wenn es um Prioritaet Und Anmeldetag in gebrauchsmusterrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Priorität und Anmeldetag: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Schnittstellenkarte mit Zuständigkeits- und Nachweisfragen."
 ---
 
 # Prioritaet Und Anmeldetag

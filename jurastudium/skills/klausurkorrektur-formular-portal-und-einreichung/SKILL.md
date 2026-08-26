@@ -1,6 +1,6 @@
 ---
 name: klausurkorrektur-formular-portal-und-einreichung
-description: "Wenn es um Klausurkorrektur: Formular, Portal und Einreichungslogik in Jurastudium geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Klausurkorrektur: Formular, Portal und Einreichungslogik: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Einreichungsplan mit Form- und Nachweischeck."
 ---
 
 # Klausurkorrektur: Formular, Portal und Einreichungslogik

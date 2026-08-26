@@ -1,6 +1,6 @@
 ---
 name: commercial-court-kaltstart-interview
-description: "Wenn es um Kaltstart-Interview in commercial-courts-deutschland geht: klärt Rolle, Ziel, Frist, Unterlagen und den passenden nächsten Fachskill; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Kaltstart-Interview: routet Rolle, Frist, Unterlagen und Fachschritt; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt. Fachgebiet: commercial-courts-deutschland."
 ---
 
 # Kaltstart-Interview

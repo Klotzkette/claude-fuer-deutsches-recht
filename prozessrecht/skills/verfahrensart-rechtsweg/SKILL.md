@@ -1,6 +1,6 @@
 ---
 name: verfahrensart-rechtsweg
-description: "Wenn es um Fristen: Fristen, Form, Zuständigkeit und Rechtsweg in Prozessrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Fristen: Fristen, Form, Zuständigkeit und Rechtsweg: prüft Frist, Form, Zuständigkeit und Eilbedarf; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Fristen: Fristen, Form, Zuständigkeit und Rechtsweg

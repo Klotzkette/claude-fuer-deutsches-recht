@@ -1,6 +1,6 @@
 ---
 name: beleidigung-betrug
-description: "Wenn es um Beleidigung Paragrafen 185. 194 StGB in Strafanzeige-Vorbereiter geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
+description: "Für Beleidigung Paragrafen 185. 194 StGB: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Beleidigung §§ 185, 194 StGB

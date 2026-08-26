@@ -1,6 +1,6 @@
 ---
 name: workflow-mietkonto-kontoauszug
-description: "Wenn es um Mietkonto und Kontoauszug: Prüfungslinie für Miet- und WEG-Recht in Fachanwalt Miet- und Wohnungseigentumsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Chronologie mit Belegmatrix und Widerspruchsliste."
+description: "Für Mietkonto und Kontoauszug: Prüfungslinie für Miet- und WEG-Recht: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Mietkonto und Kontoauszug: Prüfungslinie für Miet- und WEG-Recht

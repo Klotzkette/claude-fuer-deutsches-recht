@@ -1,6 +1,6 @@
 ---
 name: haeusliche-gewalt-opferschutz-und-beweis
-description: "Wenn es um Häusliche Gewalt: Opferschutz, Aussage und Beweis in Staatsanwaltschaft Praxis-Einstieg geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Beweislast- und Substantiierungsmatrix."
+description: "Für Häusliche Gewalt: Opferschutz, Aussage und Beweis: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Beweislast- und Substantiierungsmatrix."
 ---
 
 # Häusliche Gewalt: Opferschutz, Aussage und Beweis

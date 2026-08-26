@@ -1,6 +1,6 @@
 ---
 name: ifg-oder-presseauskunft-richtig-routen
-description: "Wenn es um Ifg Oder Presseauskunft Richtig Routen in Informationsfreiheit und Presseauskunft geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
+description: "Für Ifg oder Presseauskunft Richtig Routen: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Ifg Oder Presseauskunft Richtig Routen

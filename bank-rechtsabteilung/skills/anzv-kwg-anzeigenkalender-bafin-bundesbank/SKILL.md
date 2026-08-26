@@ -1,6 +1,6 @@
 ---
 name: anzv-kwg-anzeigenkalender-bafin-bundesbank
-description: "Wenn es um AnzV/KWG-Anzeigenkalender BaFin und Bundesbank in Bank-Rechtsabteilung geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für AnzV/KWG-Anzeigenkalender BaFin und Bundesbank: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # AnzV/KWG-Anzeigenkalender BaFin und Bundesbank

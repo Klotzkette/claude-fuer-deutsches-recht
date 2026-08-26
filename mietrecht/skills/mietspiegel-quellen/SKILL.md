@@ -1,6 +1,6 @@
 ---
 name: mietspiegel-quellen
-description: "Wenn es um Mietspiegel-Quellen (amtlich) in Mietrecht geht: entwickelt Verhandlungsziel, Vergleichskorridor und Eskalationspfad; liefert eine Verhandlungs- oder Eskalationslinie mit Optionen."
+description: "Für Mietspiegel-Quellen (amtlich): ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Mietspiegel-Quellen (amtlich)

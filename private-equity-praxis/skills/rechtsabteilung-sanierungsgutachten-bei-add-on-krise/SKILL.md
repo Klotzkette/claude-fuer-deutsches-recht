@@ -1,6 +1,6 @@
 ---
 name: rechtsabteilung-sanierungsgutachten-bei-add-on-krise
-description: "Wenn es um Rechtsabteilung: Sanierungsgutachten bei Add-on-Krise in Private Equity Praxis geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
+description: "Für Rechtsabteilung: Sanierungsgutachten bei Add-on-Krise: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Rechtsabteilung: Sanierungsgutachten bei Add-on-Krise

@@ -1,6 +1,6 @@
 ---
 name: gesetzliche-vertreter-rechtsbehelfe
-description: "Wenn es um Gesetzliche Vertreter in Kriegsdienstverweigerung und Wehrdienst geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Gesetzliche Vertreter: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Gesetzliche Vertreter

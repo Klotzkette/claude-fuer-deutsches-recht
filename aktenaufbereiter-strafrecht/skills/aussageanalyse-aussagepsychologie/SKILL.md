@@ -1,6 +1,6 @@
 ---
 name: aussageanalyse-aussagepsychologie
-description: "Wenn es um Aussageanalyse Aussagepsychologie in Aktenaufbereiter Strafrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Aussageanalyse Aussagepsychologie: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Aussageanalyse Aussagepsychologie

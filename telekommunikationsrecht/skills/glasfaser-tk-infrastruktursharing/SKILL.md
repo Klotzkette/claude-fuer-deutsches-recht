@@ -1,6 +1,6 @@
 ---
 name: glasfaser-tk-infrastruktursharing
-description: "Wenn es um Glasfaser-Hausanschluss und Wegerecht in Telekommunikationsrecht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
+description: "Für Glasfaser-Hausanschluss und Wegerecht: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Glasfaser-Hausanschluss und Wegerecht

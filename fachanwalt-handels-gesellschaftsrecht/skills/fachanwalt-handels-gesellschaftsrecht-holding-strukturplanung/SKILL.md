@@ -1,6 +1,6 @@
 ---
 name: fachanwalt-handels-gesellschaftsrecht-holding-strukturplanung
-description: "Wenn es um Fachanwalt Handels Gesellschaftsrecht Holding Strukturplanung in Fachanwalt Handels- und Gesellschaftsrecht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen."
+description: "Für Fachanwalt Handels Gesellschaftsrecht Holding Strukturplanung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 ## Mandantenfragen beim Kaltstart

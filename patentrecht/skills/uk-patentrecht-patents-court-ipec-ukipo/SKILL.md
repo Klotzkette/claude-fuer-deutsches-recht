@@ -1,6 +1,6 @@
 ---
 name: uk-patentrecht-patents-court-ipec-ukipo
-description: "Wenn es um UK: UKIPO, Patents Court und IPEC in patentrecht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert einen Einreichungsplan mit Form-, Portal- und Nachweischeck."
+description: "Für UK: UKIPO, Patents Court und IPEC: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # UK: UKIPO, Patents Court und IPEC

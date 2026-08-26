@@ -1,6 +1,6 @@
 ---
 name: dual-sourcing-und-china-plus-one
-description: "Wenn es um Dual-Sourcing und China-Plus-One: Planung und Umsetzung in China-Wirtschaftsverkehr geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Dual-Sourcing und China-Plus-One: Planung und Umsetzung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Dual-Sourcing und China-Plus-One: Planung und Umsetzung

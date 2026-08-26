@@ -1,6 +1,6 @@
 ---
 name: konkurrenzen-anspruchsgrundlagen
-description: "Wenn es um Konkurrenzen und Anspruchsgrundlagen in Subsumtions-Prüfer geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Tatbestands- oder Anspruchsmatrix mit Gegenargumenten."
+description: "Für Konkurrenzen und Anspruchsgrundlagen: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Tatbestands- oder Anspruchsmatrix."
 ---
 
 # Konkurrenzen und Anspruchsgrundlagen

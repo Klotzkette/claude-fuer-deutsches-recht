@@ -1,6 +1,6 @@
 ---
 name: regulatory-fdi-restructuring-starug
-description: "Wenn es um Regulatory, FDI und Fusionskontrolle in Corporate-Kanzlei geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten. Auswahlstichwort: Regulatory Fdi Restructuring Starug; Arbeitsfeld: Corporate-Kanzlei."
+description: "Für Regulatory, FDI und Fusionskontrolle: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt. Fachgebiet: Corporate-Kanzlei. Route: regulatory-fdi-restructuring-starug."
 ---
 
 # Regulatory, FDI und Fusionskontrolle

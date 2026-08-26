@@ -1,6 +1,6 @@
 ---
 name: datenpunkt-dokument-excel-beweislast
-description: "Wenn es um Datenpunkt: Dokumentenmatrix, Lückenliste und Nachforderung in Tabellenreview 3D geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Dokumentenmatrix mit Nachforderungsliste."
+description: "Für Datenpunkt: Dokumentenmatrix, Lückenliste und Nachforderung: ordnet Akte, Belege und Lücken; Ergebnis: Beweislast- und Substantiierungsmatrix."
 ---
 
 # Datenpunkt: Dokumentenmatrix, Lückenliste und Nachforderung

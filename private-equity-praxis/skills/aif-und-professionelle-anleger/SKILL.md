@@ -1,6 +1,6 @@
 ---
 name: aif-und-professionelle-anleger
-description: "Wenn es um Spezial-AIF: professionelle und semiprofessionelle Anleger in Private Equity Praxis geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Spezial-AIF: professionelle und semiprofessionelle Anleger: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Spezial-AIF: professionelle und semiprofessionelle Anleger

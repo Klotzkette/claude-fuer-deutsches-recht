@@ -1,6 +1,6 @@
 ---
 name: wallfahrt-und-pilgerpastoral
-description: "Wenn es um Wallfahrt und Pilgerpastoral in Römisch-katholisches Kirchenrecht CIC und Katechismus geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Wallfahrt und Pilgerpastoral: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Wallfahrt und Pilgerpastoral

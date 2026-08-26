@@ -1,6 +1,6 @@
 ---
 name: firma-paragraphen-firmenfortfuehrung
-description: "Wenn es um Firma Paragrafen 17 ff. HGB in Handelsrecht HGB geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Firma Paragrafen 17 ff. HGB: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Firma §§ 17 ff. HGB

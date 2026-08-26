@@ -1,6 +1,6 @@
 ---
 name: source-internationaler-bezug-und-schnittstellen
-description: "Wenn es um Source: Internationaler Bezug und Schnittstellen in Fachanwalt It Recht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Source: Internationaler Bezug und Schnittstellen: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Schnittstellenkarte mit Zuständigkeits- und Nachweisfragen."
 ---
 
 # Source: Internationaler Bezug und Schnittstellen

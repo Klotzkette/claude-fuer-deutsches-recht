@@ -1,6 +1,6 @@
 ---
 name: finanzanlagenvermittler-franchise-abgrenzung
-description: "Wenn es um Finanzanlagenvermittler als Handelsvertreter nach Paragraf 84 HGB und Paragraf 34f GewO in Handelsvertreterrecht und Vertriebsverträge geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Finanzanlagenvermittler als Handelsvertreter nach Paragraf 84 HGB und Paragraf 34f GewO: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Finanzanlagenvermittler als Handelsvertreter nach § 84 HGB und § 34f GewO

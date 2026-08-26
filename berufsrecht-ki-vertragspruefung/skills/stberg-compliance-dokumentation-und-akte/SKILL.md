@@ -1,6 +1,6 @@
 ---
 name: stberg-compliance-dokumentation-und-akte
-description: "Wenn es um Stberg: Compliance-Dokumentation und Aktenvermerk in diesem Spezialbereich geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Tatbestands- oder Anspruchsmatrix mit Gegenargumenten."
+description: "Für Stberg: Compliance-Dokumentation und Aktenvermerk: ordnet Akte, Belege und Lücken; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt. Fachgebiet: anwaltlichem Berufsrecht und Vertragsprüfung. Route: stberg-compliance-dokumentation-und-akte."
 ---
 
 # Stberg: Compliance-Dokumentation und Aktenvermerk

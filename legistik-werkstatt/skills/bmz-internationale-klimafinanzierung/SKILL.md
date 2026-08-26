@@ -1,6 +1,6 @@
 ---
 name: bmz-internationale-klimafinanzierung
-description: "Wenn es um Internationale Klimafinanzierung (BMZ) in Legistik-Werkstatt geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen."
+description: "Für Internationale Klimafinanzierung (BMZ): ordnet Norm, Beweislast und Gegenargument; Ergebnis: Schnittstellenkarte mit Zuständigkeits- und Nachweisfragen."
 ---
 
 # Internationale Klimafinanzierung (BMZ)

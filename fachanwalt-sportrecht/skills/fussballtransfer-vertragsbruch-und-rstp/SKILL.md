@@ -1,6 +1,6 @@
 ---
 name: fussballtransfer-vertragsbruch-und-rstp
-description: "Bearbeitet internationale Fußballtransfers mit vorzeitiger Vertragsbeendigung, Entschädigung, Registrierung und Verbandsverfahren. Liefert Rechtsstandsweiche, Vertrags- und Zuständigkeitsmatrix, Schadensrechnung, Beweisplan und verfahrensfähigen Antrag oder Gegenantrag."
+description: "Bearbeitet internationale Fußballtransfers mit vorzeitiger Vertragsbeendigung, Entschädigung, Registrierung und Verbandsverfahren."
 ---
 
 # 1. Fußballtransfer und Vertragsbeendigung

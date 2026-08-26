@@ -1,6 +1,6 @@
 ---
 name: rechtsabteilung-locked-box-leakage
-description: "Wenn es um Rechtsabteilung: Locked Box Leakage aus Konzerncashpool in Großkanzlei Corporate/M&A geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
+description: "Für Rechtsabteilung: Locked Box Leakage aus Konzerncashpool: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Rechtsabteilung: Locked Box Leakage aus Konzerncashpool

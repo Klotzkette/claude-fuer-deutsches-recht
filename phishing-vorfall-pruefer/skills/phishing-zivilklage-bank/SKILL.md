@@ -1,6 +1,6 @@
 ---
 name: phishing-zivilklage-bank
-description: "Wenn es um Zivilklage gegen Bank in Phishing-Vorfall-Prüfer geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
+description: "Für Zivilklage gegen Bank: erstellt Entwurf mit Antrag, Beweis und Anlagen; Ergebnis: Schriftsatz mit Begründungs- und Anlagenlogik."
 ---
 
 # Zivilklage gegen Bank

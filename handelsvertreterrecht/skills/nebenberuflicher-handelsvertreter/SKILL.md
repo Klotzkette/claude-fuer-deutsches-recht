@@ -1,6 +1,6 @@
 ---
 name: nebenberuflicher-handelsvertreter
-description: "Wenn es um Nebenberuflicher Handelsvertreter — HGB-Recht und Sozialversicherung in Handelsvertreterrecht und Vertriebsverträge geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Nebenberuflicher Handelsvertreter — HGB-Recht und Sozialversicherung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Nebenberuflicher Handelsvertreter — HGB-Recht und Sozialversicherung

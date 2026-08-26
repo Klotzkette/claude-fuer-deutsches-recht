@@ -1,6 +1,6 @@
 ---
 name: ihl-083-public-policy-and-mandatory-law
-description: "Wenn es um Public Policy And Mandatory Law in Internationales Handelsrecht und Lex Mercatoria geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Public Policy And Mandatory Law: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Public Policy And Mandatory Law

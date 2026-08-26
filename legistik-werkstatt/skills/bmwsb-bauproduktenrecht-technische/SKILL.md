@@ -1,6 +1,6 @@
 ---
 name: bmwsb-bauproduktenrecht-technische
-description: "Wenn es um Bauproduktenrecht und technische Normen (BMWSB) in Legistik-Werkstatt geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen. Auswahlstichwort: Bmwsb Bauproduktenrecht Technische; Arbeitsfeld: Legistik-Werkstatt."
+description: "Für Bauproduktenrecht und technische Normen (BMWSB): ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Bauproduktenrecht und technische Normen (BMWSB)

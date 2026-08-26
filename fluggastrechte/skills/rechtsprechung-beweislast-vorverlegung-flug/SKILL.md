@@ -1,6 +1,6 @@
 ---
 name: rechtsprechung-beweislast-vorverlegung-flug
-description: "Wenn es um Rechtsprechung: Beweislast, Darlegungslast und Substantiierung in Fluggastrechte geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. Auswahlstichwort: Rechtsprechung Beweislast Vorverlegung Flug; Arbeitsfeld: Fluggastrechte."
+description: "Für Rechtsprechung: Beweislast, Darlegungslast und Substantiierung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Beweislast- und Substantiierungsmatrix. Fachgebiet: Fluggastrechte. Route: rechtsprechung-beweislast-vorverlegung-flug."
 ---
 
 # Rechtsprechung: Beweislast, Darlegungslast und Substantiierung

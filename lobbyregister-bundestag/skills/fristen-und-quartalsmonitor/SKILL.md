@@ -1,6 +1,6 @@
 ---
 name: fristen-und-quartalsmonitor
-description: "Wenn es um Fristen- und Quartalsmonitor in Lobbyregister Bundestag geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Fristen- und Quartalsmonitor: prüft Frist, Form, Zuständigkeit und Eilbedarf; Ergebnis: Fristen- und Risikoampel."
 ---
 
 # Fristen- und Quartalsmonitor

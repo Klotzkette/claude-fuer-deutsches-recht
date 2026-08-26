@@ -1,6 +1,6 @@
 ---
 name: marken-und-designmandate-rechtsprechungscheck
-description: "Wenn es um Marken Und Designmandate Rechtsprechungscheck in Berufsrecht Patentanwälte geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Gegenprüfung mit Fehler-, Beweis- und Fristencheck."
+description: "Für Marken und Designmandate Rechtsprechungscheck: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Patentanwälte: marken und designmandate - Rechtsprechungscheck, stärkste Gegenansicht und Red-Team-Korrektur

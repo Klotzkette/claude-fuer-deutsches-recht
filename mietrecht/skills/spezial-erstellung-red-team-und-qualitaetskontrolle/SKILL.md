@@ -1,6 +1,6 @@
 ---
 name: spezial-erstellung-red-team-und-qualitaetskontrolle
-description: "Wenn es um Erstellung: Red-Team und Qualitätskontrolle in Mietrecht geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Erstellung: Red-Team und Qualitätskontrolle: prüft Ergebnis, Beweislast und Gegenposition; Ergebnis: Gegenprüfung mit Beweis- und Fristencheck."
 ---
 
 # Erstellung: Red-Team und Qualitätskontrolle

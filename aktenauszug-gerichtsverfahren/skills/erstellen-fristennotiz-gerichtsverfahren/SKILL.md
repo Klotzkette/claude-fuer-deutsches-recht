@@ -1,6 +1,6 @@
 ---
 name: erstellen-fristennotiz-gerichtsverfahren
-description: "Wenn es um Erstellen: Fristennotiz und nächster Schritt in aktenauszug-gerichtsverfahren geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Erstellen: Fristennotiz und nächster Schritt: prüft Frist, Form, Zuständigkeit und Eilbedarf; Ergebnis: Fristen- und Risikoampel."
 ---
 
 # Erstellen: Fristennotiz und nächster Schritt

@@ -2,20 +2,20 @@
 
 ## Zusammensetzung
 
-Diese Vollprüfung enthält top-10 von 96 Skills des Plugins `fachanwalt-handels-gesellschaftsrecht`.
+Diese Vollprüfung enthält top-10 von 81 Skills des Plugins `fachanwalt-handels-gesellschaftsrecht`.
 
 ## Inhaltsverzeichnis
 
 1. **juristischer-argumentationskern** — Schaltet sich ein, wenn in Fachanwalt Handels Gesellschaftsrecht ein juristisches Arbeitsprodukt tragfähig begründet wer…
 2. **gesellschaftsprozess-versandmappe-endfertigen** — Endfertigt Beschlussmängel-, Organhaftungs-, Auskunfts-, Abfindungs- und Gesellschafterstreitigkeiten: liest Satzung, Re…
-3. **einstieg-routing** — Wenn es um Anwalts-Dashboard Fachanwalt Handels- und Gesellschaftsrecht in Fachanwalt Handels- und Gesellschaftsrecht ge…
-4. **fachanwalt-handels-gesellschaftsrecht-orientierung** — Wenn es um Orientierung Handels- und Gesellschaftsrecht in Fachanwalt Handels- und Gesellschaftsrecht geht: prüft Frist,…
-5. **erstgespraech-mandatsannahme** — Wenn es um Erstgespraech Mandatsannahme in Fachanwalt Handels- und Gesellschaftsrecht geht: prüft Frist, Form, Zuständig…
-6. **erstpruefung-und-mandatsziel** — Wenn es um Erstpruefung Und Mandatsziel in Fachanwalt Handels- und Gesellschaftsrecht geht: klärt Rolle, Ziel, Frist, Un…
-7. **fachanwalt-handels-gesellschaftsrecht-ma-due-diligence-findings** — Wenn es um M&A Due Diligence Findings in Fachanwalt Handels- und Gesellschaftsrecht geht: prüft Frist, Form, Zuständigke…
-8. **ma-due-diligence-findings** — Wenn es um M&A Due Diligence Findings in Fachanwalt Handels- und Gesellschaftsrecht geht: prüft Frist, Form, Zuständigke…
-9. **fachanwalt-handels-gesellschaftsrecht-holding-strukturplanung** — Wenn es um Fachanwalt Handels Gesellschaftsrecht Holding Strukturplanung in Fachanwalt Handels- und Gesellschaftsrecht g…
-10. **einstieg-schnelltriage-fallrouting** — Wenn es um Einstieg, Schnelltriage und Fallrouting in Fachanwalt Handels Gesellschaftsrecht in Fachanwalt Handels- und G…
+3. **einstieg-routing** — Für Anwalts-Dashboard Fachanwalt Handels- und Gesellschaftsrecht: routet Rolle, Frist, Unterlagen und Fachschritt; Ergeb…
+4. **fachanwalt-handels-gesellschaftsrecht-orientierung** — Für Orientierung Handels- und Gesellschaftsrecht: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit R…
+5. **erstgespraech-mandatsannahme** — Für Erstgespräch Mandatsannahme: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächste…
+6. **erstpruefung-und-mandatsziel** — Für Erstprüfung und Mandatsziel: routet Rolle, Frist, Unterlagen und Fachschritt; Ergebnis: Tatbestands- oder Anspruchsm…
+7. **hgb-informationsrecht-kommanditist-paragraf-166** — Prüft Informations-, Auskunfts- und Einsichtsrechte des Kommanditisten nach dem seit 2024 geltenden Paragraf 166 HGB, or…
+8. **fachanwalt-handels-gesellschaftsrecht-ma-due-diligence-findings** — Für M&A Due Diligence Findings: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem…
+9. **kapitalerhaltung-paragraf-30-gmbhg-pruefen** — Prüft Auszahlungen und gleichwertige Vermögensverschiebungen an GmbH-Gesellschafter nach den Kapitalerhaltungsregeln, be…
+10. **beschlussmaengel-personengesellschaft-pruefen** — Prüft Beschlussmängel bei GbR, OHG und KG rechtsform- und übergangsrechtlich, trennt Nichtigkeit von Anfechtbarkeit, bes…
 
 ---
 
@@ -138,7 +138,7 @@ Ausgangspunkt für dieses Plugin: Anspruchsteller für Pflichtverletzung, Schade
 
 ## Skill: `gesellschaftsprozess-versandmappe-endfertigen`
 
-_Endfertigt Beschlussmängel-, Organhaftungs-, Auskunfts-, Abfindungs- und Gesellschafterstreitigkeiten: liest Satzung, Register, Gesellschafterliste, Einladung, Protokoll, Beschlüsse, Verträge und Bewertungen zuerst, prüft Partei, Antrag, Frist und Vertretung, ordnet Corporate-Belege zu und liefert beA-Einzeldateien mit Beschluss-, Versions- und Eingangskontrolle._
+_Endfertigt Beschlussmängel-, Organhaftungs-, Auskunfts-, Abfindungs- und Gesellschafterstreitigkeiten: liest Satzung, Register, Gesellschafterliste, Einladung, Protokoll, Beschlüsse, Verträge und Bewertungen zuerst, prüft Partei, Antrag, Frist und Vertretung, ordnet Corporate-Belege zu und liefert beA-Einzeldateien mit Beschluss-, Versions- und._
 
 # Gesellschaftsprozess-Versandmappe endfertigen
 
@@ -160,7 +160,7 @@ Liefere Schriftsatz, Einzelanlagen, Organ- und Beschlussmatrix, Versionsregister
 
 ## Skill: `einstieg-routing`
 
-_Wenn es um Anwalts-Dashboard Fachanwalt Handels- und Gesellschaftsrecht in Fachanwalt Handels- und Gesellschaftsrecht geht: klärt Rolle, Ziel, Frist, Unterlagen und den passenden nächsten Fachskill; liefert eine Fristen- und Risikoampel mit Sofortschritten._
+_Für Anwalts-Dashboard Fachanwalt Handels- und Gesellschaftsrecht: routet Rolle, Frist, Unterlagen und Fachschritt; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt._
 
 # Anwalts-Dashboard Fachanwalt Handels- und Gesellschaftsrecht
 
@@ -226,7 +226,7 @@ Diese Triage ist Ihre Vorbereitung, nicht Ihre Entscheidung. Sie führen das Man
 
 ## Skill: `fachanwalt-handels-gesellschaftsrecht-orientierung`
 
-_Wenn es um Orientierung Handels- und Gesellschaftsrecht in Fachanwalt Handels- und Gesellschaftsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten._
+_Für Orientierung Handels- und Gesellschaftsrecht: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt._
 
 # Orientierung Handels- und Gesellschaftsrecht
 
@@ -288,7 +288,7 @@ Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwiss
 
 ## Skill: `erstgespraech-mandatsannahme`
 
-_Wenn es um Erstgespraech Mandatsannahme in Fachanwalt Handels- und Gesellschaftsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten._
+_Für Erstgespräch Mandatsannahme: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt. Fachgebiet: Fachanwalt Handels- und Gesellschaftsrecht._
 
 # Strukturierter Erstgespraechsleitfaden für Handels- und Gesellschaftsrecht: Erfassung der Konstellation, Konflikt- und GwG-Check, Vollmacht, Streitwert/Gebührenvereinbarung, Fristen-Erstprognose und Handlungsweichen.
 
@@ -473,7 +473,7 @@ Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwiss
 
 ## Skill: `erstpruefung-und-mandatsziel`
 
-_Wenn es um Erstpruefung Und Mandatsziel in Fachanwalt Handels- und Gesellschaftsrecht geht: klärt Rolle, Ziel, Frist, Unterlagen und den passenden nächsten Fachskill; liefert eine Fristen- und Risikoampel mit Sofortschritten._
+_Für Erstprüfung und Mandatsziel: routet Rolle, Frist, Unterlagen und Fachschritt; Ergebnis: Tatbestands- oder Anspruchsmatrix. Fachgebiet: Fachanwalt Handels- und Gesellschaftsrecht._
 
 # Fachanwalt: Erstprüfung, Rollenklärung und Mandatsziel im Handels- und Gesellschaftsrecht: fachlich vertieftes Modul mit Normenradar (HGB/GmbHG/AktG/UmwG), Tatbestands-/Beweislastmatrix, Fristen- und Formcheck, Gegenargumenten, Fehlerbremse und direkt nutzbarem Arbeitsprodukt.
 
@@ -517,9 +517,39 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 
 ---
 
+## Skill: `hgb-informationsrecht-kommanditist-paragraf-166`
+
+_Prüft Informations-, Auskunfts- und Einsichtsrechte des Kommanditisten nach dem seit 2024 geltenden Paragraf 166 HGB, ordnet Altgesellschaften und Vertragsklauseln ein und erstellt ein bestimmtes Informationsverlangen samt Erforderlichkeits- und Geheimnisschutzmatrix._
+
+# Informationsrecht des Kommanditisten prüfen
+
+## 1. Aktueller Normenanker
+
+Paragraf 166 HGB gewährt dem Kommanditisten eine Abschrift des Jahresabschlusses und Einsicht in die zugehörigen Geschäftsunterlagen. Ergänzend kann er Auskunft über Gesellschaftsangelegenheiten verlangen, soweit dies zur Wahrnehmung seiner Mitgliedschaftsrechte erforderlich ist, insbesondere bei Anhaltspunkten für unredliche Geschäftsführung. Diese Rechte können gesellschaftsvertraglich nicht ausgeschlossen werden.
+
+## 2. Zeitliche Einordnung der Rechtsprechung
+
+BGH, Beschluss vom 14.06.2016 - II ZB 10/15, betraf Paragraf 166 HGB in der bis Ende 2023 geltenden Fassung. Danach war das außerordentliche Informationsrecht an einen wichtigen Grund gebunden und nach Eignung, Erforderlichkeit sowie den Interessen der Gesellschaft zu begrenzen. Die Entscheidung darf nicht dazu verwendet werden, den seit 1. Januar 2024 erweiterten gesetzlichen Anspruch wieder auf das alte Regelungsmodell zu verkürzen; ihre Abwägungserwägungen können bei Umfang und Missbrauchskontrolle weiterhin Orientierung geben.
+
+## 3. Prüfprogramm
+
+1. Gesellschaft, Beteiligungsart, Beitrittsdatum und aktuellen Gesellschaftsvertrag erfassen.
+2. Verlangen in Jahresabschlussprüfung und ergänzende mitgliedschaftsbezogene Auskunft aufteilen.
+3. Für jede Information das Mitgliedschaftsrecht, den Anlass und die Erforderlichkeit bezeichnen.
+4. Geheimhaltungsinteressen, personenbezogene Daten und Wettbewerbsbezug durch mildere Mittel absichern, nicht pauschal zur Ablehnung verwenden.
+5. Vertragsklauseln am zwingenden Paragraf 166 Absatz 2 HGB messen.
+6. Adressat, Frist, Einsichtsort, Datenformat und zulässige sachverständige Begleitung festlegen.
+7. Bei Verweigerung Anspruch, Zuständigkeit, Antrag und Beweisangebote ausformulieren.
+
+## 4. Ausgabe
+
+Liefere eine Informationsmatrix und ein bestimmtes Auskunfts- oder Einsichtsverlangen, das jede Unterlage, den Zeitraum, den Rechtsgrund und den mitgliedschaftlichen Zweck nennt.
+
+---
+
 ## Skill: `fachanwalt-handels-gesellschaftsrecht-ma-due-diligence-findings`
 
-_Wenn es um M&A Due Diligence Findings in Fachanwalt Handels- und Gesellschaftsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. Auswahlstichwort: Fachanwalt Handels Gesellschaftsrecht M&A Due Diligence Findings; Arbeitsfeld: Fachanwalt Handels- und Gesellschaftsrecht._
+_Für M&A Due Diligence Findings: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt. Fachgebiet: Fachanwalt Handels- und Gesellschaftsrecht. Route: fachanwalt-handels-gesellschaftsrecht-ma-due-diligence-findings._
 
 # M&A Due Diligence Findings
 
@@ -776,688 +806,79 @@ OFFENE PUNKTE
 
 ---
 
-## Skill: `ma-due-diligence-findings`
+## Skill: `kapitalerhaltung-paragraf-30-gmbhg-pruefen`
 
-_Wenn es um M&A Due Diligence Findings in Fachanwalt Handels- und Gesellschaftsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. Auswahlstichwort: M&A Due Diligence Findings; Arbeitsfeld: Fachanwalt Handels- und Gesellschaftsrecht._
+_Prüft Auszahlungen und gleichwertige Vermögensverschiebungen an GmbH-Gesellschafter nach den Kapitalerhaltungsregeln, bewertet Unterbilanz, Gegenleistung, Rückgewähr und Organhaftung und liefert eine stichtagsbezogene Bilanzmatrix._
 
-# Anwalt hat Datensichtung abgeschlossen und muss Due-Diligence-Bericht für M&A-Transaktion strukturieren
+# Kapitalerhaltung nach Paragraf 30 GmbHG prüfen
 
+## 1. Einsatz und Ziel
 
-## Arbeitsweg
+Prüfe jede Vermögensverschiebung zum Gesellschafter aus Sicht der Gesellschaft. Die bloße Bezeichnung als Darlehen, Entgelt oder Verrechnung schließt eine verbotene Auszahlung nicht aus.
 
-- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
-- Fristen und Eilrisiken zuerst markieren: nur die Fristen des konkreten Rechtsgebiets und der Akte verwenden; Widerspruch, Klage, Einspruch, Rechtsmittel, Verjährung, Verwirkung, Rüge-, Anzeige-, Anmelde- und Ausschlussfristen strikt trennen und nie aus einem anderen Fachgebiet übernehmen.
-- Tragende Normen verifizieren: HGB §§ 1-7, 17-37 (Firma/Register), 48-58 (Prokura), 84-92c (Handelsvertreter), 343 ff. (Handelsgeschäfte), 373 ff. (Handelskauf); HGB §§ 84-92c, EuGH zu Ausgleichsanspruch, BGB §§ 305 ff.; § 14i. HGB. AktG. GmbHG. PartGG. UmwG. Geschäftsführerhaftung; § 89b HGB. MoPeG GbR seit 2024. Schnittstellen kanzlei-allgemein — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
-- Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
-- Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
+## 2. Normenanker
 
-**Fokus:** Anwalt hat Datensichtung abgeschlossen und muss Due-Diligence-Bericht für M&A-Transaktion strukturieren. M&A Due Diligence Report Legal Tax Commercial. Prüfraster: Red Flags Yellow Flags Green Findings strukturiert Risikobewertung Materialitaet aufschiebende Bedingungen Garantien Kaufpreisanpassung Disclosure Schedules. Output: Findings-Report Risikomatrix. Abgrenzung zu fachanwalt-handels-gesellschaftsrecht-holding-strukturplanung (Strukturierung) und vergleichsverhandlung-strategie.
+- Paragraf 30 GmbHG: Erhaltung des zur Deckung des Stammkapitals erforderlichen Vermögens und gesetzliche Ausnahmen.
+- Paragraf 31 GmbHG: Erstattung verbotener Rückzahlungen.
+- Paragraf 43 Absatz 3 GmbHG: Geschäftsführerhaftung bei Verstoß gegen Paragraf 30 GmbHG.
+- Paragraf 19 Absatz 2 Satz 2 InsO: gesonderte insolvenzrechtliche Behandlung qualifizierter Nachrangvereinbarungen.
+- Paragrafen 135 und 39 Absatz 1 Nummer 5 InsO: Gesellschafterdarlehen in der Insolvenz.
 
-### M&A Due Diligence Findings
+## 3. Prüfprogramm
 
-## Fachlicher Kern — Gesellschaftsrecht und Corporate Law
-- **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `M&A Due Diligence Findings` und löse die dort angelegte Fachfrage; arbeite mit konkreten Tatbestandsmerkmalen, Beweisfragen und dem unmittelbar benötigten Arbeitsprodukt. Routingfragen bleiben Hilfsmittel, wenn Frist, Zuständigkeit oder Verfahrensart offen sind.
-- **Arbeitsmodus:** Erst Gesellschaftsform, Organ, Beschlussweg, Vertretung, Registerlage, wirtschaftliches Ziel und Minderheitenposition sortieren; dann Treuepflicht, Kapitalerhaltung, Haftung, Transaktions-Closing und Beweis-/Vollzugsrisiko prüfen.
-- **Outputpflicht:** Beschluss-/Listenmatrix, Register-To-do, Board-/Beiratsvorlage, Closing-CP-Liste, Treuepflicht-Red-Team, Geschäftsführerhaftungsmemo oder Mandanten-Decision-Paper.
-- **Fehlerbremse:** Tragende Normen/Entscheidungen live oder aus der Akte verifizieren; Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei prüfbarer Quelle. Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen.
+1. Leistung, Empfänger, Näheverhältnis, Rechtsgrund und wirtschaftlichen Endbegünstigten bestimmen.
+2. Vermögensstatus unmittelbar vor und nach der Leistung anhand fortgeführter Handelsbilanzwerte erstellen.
+3. Vollwertigen Gegenleistungs- oder Rückgewähranspruch am Auszahlungstag prüfen; spätere Entwicklungen nicht rückwirkend einblenden.
+4. Cash-Pooling, Sicherheiten, Gesellschafterdarlehen, verdeckte Gewinnausschüttung und Leistungen an nahestehende Dritte gesondert würdigen.
+5. Anspruch aus Paragraf 31 GmbHG, Organhaftung, Verjährung und insolvenzrechtliche Anfechtung getrennt berechnen.
 
-## 1) Eingangs-Abfrage
+## 4. Beweismerker
 
-1. Deal-Phase: vor Letter of Intent, vor LOI, nach LOI?
-2. Deal-Volumen?
-3. Zielunternehmen-Branche und Komplexitaet?
-4. Eigene Rolle: Kaeufer-Beratung oder Verkaeufer-Beratung?
-5. Bisheriger Datenraum (VDR)-Zugang?
+- Tagesgenaue Konten, Verträge, Gesellschafterbeschlüsse und Bewertungsunterlagen sichern.
+- Gegenleistung nach Bonität, Durchsetzbarkeit und Besicherung bewerten.
+- Steuerliche Anerkennung ersetzt keine gesellschaftsrechtliche Kapitalerhaltungsprüfung.
 
-## 2) DD-Bereiche
+## 5. Arbeitsergebnis
 
-| Bereich | Schwerpunkt |
-|---|---|
-| Legal | Verträge, Litigation, Compliance, Korruption, GwG, KartellR |
-| Tax | Steuerliche Risiken, Verlustvortraege, Verrechnungspreise, Steuerstrafrecht |
-| Commercial | Markt-Position, Kunden-Konzentration, Wettbewerb |
-| Financial | Bilanz, GuV, Cash-Flow, EBITDA-Adjustments |
-| Operational | Lieferketten, IT, HR, Compliance |
-| Environmental | Altlasten, Umweltauflagen |
-
-## 3) Findings-Klassifizierung
-
-### Red Flag
-
-- Deal-killer
-- Beispiel: laufende Strafverfolgung des CEO wegen Korruption
-- Beispiel: ausstehende Verkaeufer-Eigentums-Streitigkeit
-
-### Yellow Flag
-
-- Materielle, aber loesbare Risiken
-- Beispiel: laufende ungeklärte Steuerprüfung
-- Beispiel: Bestehender Kündigungsschutz-Prozess wesentlicher MA
-
-### Green Flag
-
-- Üblich-akzeptables Risiko
-- Beispiel: kleinere Marken-Klagen
-- Beispiel: routinemäßige Steuer-Veranlagungen
-
-## 4) Materialitaets-Schwellen
-
-### Vertraglich definiert
-
-- Kaufpreis-Anpassungs-Schwelle (typisch 1-3 % des EV)
-- Garantie-Auszahlungs-Schwelle (de minimis 50-200 K)
-- Cap-Limit Garantie (typisch 10-30 % Kaufpreis)
-
-### Praxis
-
-- Single-Item-Threshold
-- Aggregations-Threshold
-- Cap (Maximum-Haftung)
-
-## 5) Verkaeufer-Auskunft (Disclosure)
-
-### Disclosure Schedules
-
-- Anhaenge zum SPA mit konkreten Ausnahmen
-- Bekannte Risiken offenbart
-- Was offenbart ist, ist nicht garantiebewehrt
-
-### Disclosure Letter
-
-- Allgemeine Disclosure mit Verweis auf VDR-Inhalt
-- BGH-Linie zur Auskunfts-Reichweite
-
-### Vorsicht bei Knowledge-Qualifiers
-
-- "To the seller's knowledge" — limitiert Garantie
-- "Material" qualifier — Schwellen-Frage
-
-## 6) Workflow
-
-### Phase 1 — VDR-Strukturierung
-
-- Indexierung
-- Prüf-Listen je Bereich
-- Q&A-Liste
-
-### Phase 2 — Findings-Erfassung
-
-- Excel-Master-Liste mit:
- - Bereich, Subbereich
- - Finding-Beschreibung
- - Klassifizierung (Red/Yellow/Green)
- - Materialitaet (EUR-Wert oder %-Auswirkung)
- - Lösungs-Vorschlag
-
-### Phase 3 — Risiko-Matrix
-
-- Wahrscheinlichkeit (Niedrig/Mittel/Hoch)
-- Auswirkung (Niedrig/Mittel/Hoch)
-- Risk-Score
-
-### Phase 4 — Kaufvertrags-Konsequenzen
-
-- Aufschiebende Bedingung (Condition Precedent)
-- Spezifische Garantie + Indemnity
-- Kaufpreis-Reduzierung
-- Escrow / Holdback
-
-## 7) Aufschiebende Bedingungen (CPs)
-
-### Typische CPs
-
-- Kartellrechtliche Freigabe BKartA / EU-Kommission
-- BaFin / Investitionsprüfung AWG
-- Wesentliche Mitarbeiter-Zustimmung
-- Drittpartei-Zustimmungen (Change-of-Control-Klauseln)
-- Materielle Nicht-Veränderung (MAC-Klausel)
-
-## 8) Garantien (Reps & Warranties)
-
-### Standard-Garantien
-
-- Eigentum am Aktiva
-- Bilanz-Richtigkeit
-- Steuer-Konformität
-- Litigation
-- Compliance
-- IP
-- Mitarbeiter
-- Verträge
-
-### Indemnities
-
-- Spezifische Risiken (nicht durch Garantie gedeckt)
-- Beispiel: Steuer-Risiko aus laufender Prüfung
-- Beispiel: Umwelt-Altlasten-Sanierung
-
-### Verzogenheit
-
-- Verjährung Garantien: 18-36 Monate
-- Steuer-Garantien: 7 Jahre (Steuerverjaehrung)
-
-## 9) Kaufpreis-Anpassung
-
-### Mechanismen
-
-- Locked-Box-Mechanismus (fester KP zum Effective Date)
-- Closing-Account-Mechanismus (Anpassung nach Closing-Bilanz)
-- Earn-out (Erfolgsabhängig)
-
-### Bei DD-Befunden
-
-- Direct Reduction
-- Escrow (Verkaeufer-Haftung)
-- Spezial-Indemnity
-
-## 10) Typische Fehler
-
-1. **Findings nicht klassifiziert** — Risiko unentdeckt
-2. **Materialitaet nicht beziffert** — Garantie-Schwellen nicht greifbar
-3. **Knowledge-Qualifier ignoriert** — Verkaeufer entzieht sich Haftung
-4. **CP-Erfüllung nicht überwacht** — Closing verschoben
-5. **Verjährungs-Frist falsch verhandelt** — Garantie nicht greifbar
-
-## 11) Reporting-Templates
-
-### Executive Summary
-
-- Top-5 Findings
-- Deal-Empfehlung
-- Wichtigste Verhandlungs-Punkte
-
-### Detailed Findings Report
-
-- Pro Bereich strukturiert
-- Mit Begründung und Quellenangaben (VDR-Dok-Nummer)
-
-## Anschluss
-
-- `corporate-kanzlei` — Big-Law-Begleitung
-- `gesellschaftsrecht/skills/dd-findings-extraktion` — bei reiner Befund-Extraktion
-- `fachanwalt-handels-gesellschaftsrecht-holding-strukturplanung` — bei Strukturierung
-
-## Vertiefung — Aktuelle Rechtsprechung und Normen
-
-### Paragrafenkette
-
-§§ 311, 241 BGB (Garantien als eigenständige Haftungsversprechen) → § 442 BGB (Kenntnis des Käufers, Ausschluss Gewährleistung) → §§ 280, 281 BGB (Schadensersatz bei Garantieverletzung) → § 275 BGB (Unmöglichkeit bei MAC) → §§ 437, 439-441 BGB (Kaufrechtliche Gewährleistung — subsidiär bei Share Deal ohne Garantien) → § 123 BGB (Anfechtung wegen arglistiger Täuschung) → § 15 GmbHG (Anteilsabtretung, Formerfordernis) → §§ 17 ff. AktG (Aktienübertragung)
-
-### Quellenregel
-
-Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
-### Fristen-Übersicht
-
-| Situation | Frist | Norm |
-|---|---|---|
-| Anzeige Garantieverletzung (i.d.R. vertraglich) | laut SPA (typisch 30-90 Tage) | SPA-Klausel |
-| Verjährung Garantieansprüche | laut SPA (typisch 12-36 Monate) | SPA-Klausel / § 195 BGB |
-| Anfechtung wegen arglistiger Täuschung | 1 Jahr ab Kenntnis | § 124 BGB |
-| MAC-Ausübung | vor Closing oder laut Vertragsklausel | SPA-MAC-Klausel |
-
-## Triage — Sofortprüfung M&A Due Diligence
-
-1. **Deal-Phase:** Pre-LOI (vertrauliche Erstinformation) → LOI (Exklusivität) → DD-Phase → SPA-Verhandlung → Signing → Closing?
-2. **Eigene Rolle:** Käufer-Beratung (Red-Flag-Identifikation, Preisanpassung) oder Verkäufer-Beratung (Disclosure Schedule, Warranty & Indemnity Insurance)?
-3. **Scope der DD:** Full DD (Legal/Tax/Financial/Commercial/Operational) oder nur Legal/Tax? Ressourcen anpassen.
-4. **Red Flags identifizieren:** Laufende Rechtsstreitigkeiten, unbekannte Steuerschulden, fehlende Compliance-Dokumentation, Kartellverdacht, offene Behördenverfahren.
-5. **Kaufpreisauswirkung:** Jeder Red Flag hat einen USD/EUR-Wert → Price Chip, Escrow, Earn-Out-Anpassung oder Kaufvertragsbedingung (Condition Precedent)?
-
-**Entscheidungsbaum DD-Befund:**
-```
-Red Flag identifiziert?
-├─ Hoch (Material): Closing-Bedingung oder Kaufpreisreduktion
-│ ├─ Quantifizierbar → Spezifische Entschädigung (Indemnity) im SPA
-│ └─ Nicht quantifizierbar → MAC-Klausel, Rücktrittsrecht verhandeln
-├─ Mittel (Yellow): Garantie-Abdeckung im SPA ausreichend?
-│ └─ W&I-Versicherung als Alternative prüfen
-└─ Niedrig (Green): Nur in Protokoll; kein SPA-Einfluss
-```
-
-## Output-Template — DD-Befund (Red Flag)
-
-```
-DD-BEFUND [RED FLAG / YELLOW FLAG / GREEN]
-
-Titel: [KURZTITEL, z.B. "Steuerprüfung 2021-2023 offen"]
-Datum: [DATUM]
-Erstellt von: [ANWALT/IN]
-DD-Bereich: [LEGAL / TAX / FINANCIAL / COMMERCIAL]
-
-SACHVERHALT
-[Beschreibung des Befunds, Quelle (Dokument/Datenraum-Referenz)]
-
-RECHTLICHE QUALIFIKATION
-[Anwendbare Norm, Rechtsprechung, Risikobewertung]
-
-QUANTIFIZIERUNG
-Bestes Szenario: EUR [MIN]
-Realistisch: EUR [REAL]
-Schlimmstes Szenario: EUR [MAX]
-
-EMPFEHLUNG
-[ ] Closing-Bedingung (Condition Precedent)
-[ ] Kaufpreisreduktion: EUR [BETRAG]
-[ ] Spezifische Indemnity / Escrow-Betrag: EUR [BETRAG]
-[ ] Garantie-Abdeckung im SPA
-[ ] W&I-Versicherung
-
-OFFENE PUNKTE
-[Liste der noch benötigten Dokumente oder Klärungen]
-```
-
-> Quellenregel: Entscheidungen nur nach Prüfung einer amtlichen oder frei zugänglichen Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage ausgeben.
+Liefere Stichtagsbilanz, Empfänger- und Haftungsmatrix, Rückforderungsbetrag sowie einen Beschluss- oder Anspruchsentwurf.
 
 ---
 
-## Skill: `fachanwalt-handels-gesellschaftsrecht-holding-strukturplanung`
+## Skill: `beschlussmaengel-personengesellschaft-pruefen`
 
-_Wenn es um Fachanwalt Handels Gesellschaftsrecht Holding Strukturplanung in Fachanwalt Handels- und Gesellschaftsrecht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen._
+_Prüft Beschlussmängel bei GbR, OHG und KG rechtsform- und übergangsrechtlich, trennt Nichtigkeit von Anfechtbarkeit, bestimmt Klagegegner und Frist und entwickelt eine prozessfähige Angriffs- oder Verteidigungsstrategie._
 
-## Mandantenfragen beim Kaltstart
+# Beschlussmängel in Personengesellschaften prüfen
 
-1. Wie ist die aktuelle Struktur — Einzelunternehmen, einfache GmbH, GmbH & Co. KG, AG?
-2. Welche Aktivitäten sollen über die Holding abgewickelt werden — operatives Geschäft, M&A-Beteiligungen, Immobilienvermögen, Familienerbfolge?
-3. Wie hoch ist der geschätzte Unternehmenswert und in welchem Zeithorizont ist ein Exit oder eine Unternehmensübertragung geplant?
-4. Besteht eine Nachfolgeplanung innerhalb der Familie — Übertragung an Kinder, Stiftungsgründung?
-5. Ist die Holding-GmbH bereits gegründet, oder muss sie neu gegründet werden (Zeitreihenfolge beachten)?
-6. Gibt es Auslandsbezug (Gesellschafter wohnt im Ausland, geplanter Wegzug — § 6 AStG Wegzugsbesteuerung)?
-7. Sind pflichtteilsrelevante Schenkungen geplant (§ 2325 BGB 10-Jahres-Frist)?
-8. Soll eine Familienstiftung als oberste Ebene eingesetzt werden (Pflichtteils- und Erbschaftsteuervorteile)?
-- **Was will der Mandant wirklich erreichen?** (Nicht: was steht im Standardweg, sondern: welches Ergebnis ist fuer den Mandanten persoenlich/wirtschaftlich das beste? Manchmal ist der schnellere Vergleich besser als der formal "richtige" Weg.)
+## 1. Einsatz und Ziel
 
-## Rechtsgrundlagen
+Bestimme zuerst Rechtsform, Beschlussdatum und Vertragsregime. Seit dem 01.01.2024 enthält das HGB für OHG und KG ein gesetzliches Beschlussmängelrecht; auf die GbR darf es nicht ohne Vertrags- oder Analogievoraussetzungen übertragen werden.
 
-| Norm | Inhalt |
-|------|--------|
-| § 8b Abs. 2 KStG | Schachtelprivileg Veräußerung: 95 % des Veräußerungsgewinns steuerfrei bei der Holding-GmbH |
-| § 8b Abs. 1 KStG | Schachtelprivileg Dividenden: 95 % der Dividende steuerfrei bei mindestens 10 % Beteiligung |
-| § 8b Abs. 3 S. 1 KStG | Hinzurechnung 5 % als nichtabziehbare Betriebsausgaben (Schein-Betriebsausgabe) |
-| § 8b Abs. 4 KStG | Mindestbeteiligung 10 % zu Beginn des Kalenderjahres für Dividenden-Schachtelprivileg |
-| § 9 Nr. 1 S. 2 GewStG | Erweiterte Gewerbesteuerkürzung: Immobilien-Holding mit ausschließlich Verwaltung von Immobilien; volle GewSt-Befreiung der Mieterträge |
-| § 8 GewStG | Hinzurechnungen (Zinsen, Mieten, Pachten) beim operativen Unternehmen |
-| § 6 AStG | Wegzugsbesteuerung: Entstrickung stiller Reserven bei Wegzug ins Ausland mit GmbH-Anteilen (stille Reserven sofort besteuert) |
-| § 2325 BGB | Pflichtteilsergänzungsanspruch: Schenkungen innerhalb der letzten 10 Jahre werden Nachlasswert hinzugerechnet |
-| § 2303 BGB | Pflichtteilsanspruch: 1/2 des gesetzlichen Erbteils als Minimalanspruch |
-| §§ 80 ff. BGB | Stiftungsgründung (Bundes-Stiftungsrecht); Landesstiftungsgesetze |
-| § 58 KStG | Stiftungen: Thesaurierungsfreibetrag EUR 5.000/Jahr |
-| § 3 Nr. 2 GrEStG | Grunderwerbsteuer-Befreiung bei Grundstücksübertragung auf Personengesellschaft unter bestimmten Bedingungen |
-| § 6a GrEStG | Konzernklausel: Umstrukturierungen im Konzern grunderwerb-steuerfrei (95 %-Beteiligung, 5-Jahres-Behaltefrist) |
-| § 17 EStG | Veräußerungsgewinn bei wesentlicher Beteiligung (> 1 %): 25 % Abgeltungssteuer oder Teileinkünfteverfahren § 3 Nr. 40 EStG |
+## 2. Normenanker
 
-## Leitentscheidungen
+- Paragrafen 109 bis 115 HGB: Beschlussfassung, Nichtigkeits- und Anfechtungsklage bei OHG und über Paragraf 161 Absatz 2 HGB bei KG.
+- Gesellschaftsvertrag: Mehrheiten, Ladung, Zuständigkeit, abweichendes Beschlussmängelregime und Fristverlängerung.
+- Paragrafen 705 bis 739 BGB: GbR-Recht; Beschlussmängel nach Vertragsauslegung und allgemeinen Grundsätzen prüfen.
+- Paragrafen 256 und 167 ZPO: Feststellung und Klagezustellung.
 
-| Gericht | Aktenzeichen | Datum | Kernaussage |
-|---------|-------------|-------|-------------|
-| OFD Frankfurt | S 2241 A – 11 – St 211 | 2019 | Praktische Anwendung § 8b KStG: Kettenausschüttung Tochter → Holding → Privat |
+## 3. Prüfprogramm
 
-## Struktur-Varianten im Vergleich
+1. Beschlussdatum vor oder nach dem 01.01.2024 und anwendbares Übergangsrecht klären.
+2. Rechtsform, Klagegegner, Vertretung der Gesellschaft und zuständiges Gericht bestimmen.
+3. Einberufung, Tagesordnung, Teilnahme, Stimmverbote, Mehrheit und Protokoll prüfen.
+4. Materielle Kompetenz, Treuepflicht, Gleichbehandlung und Kernbereichsschutz untersuchen.
+5. Nichtigkeitsgründe von bloßer Anfechtbarkeit trennen und die grundsätzlich dreimonatige HGB-Anfechtungsfrist samt vertraglicher Verlängerung berechnen.
+6. Einstweiligen Rechtsschutz und Vollzugsfolgen des angegriffenen Beschlusses planen.
 
-| Variante | Struktur | Steuerlicher Kernvorteil | Besondere Eignung |
-|---------|---------|--------------------------|-----------------|
-| A — Einzel-Holding | Privatperson → Holding-GmbH → Operative GmbH | § 8b KStG: 95 % steuerfreier Exit | Klassisches Start-up; einmaliger Exit-Fokus |
-| B — Vermögens-Holding | Privatperson → Vermögens-Holding → [Operative + Immobilien + Beteiligungen] | § 8b KStG + § 9 Nr. 1 S. 2 GewStG kombiniert | Konglomerats-Vermögensverwaltung |
-| C — Doppel-Holding | Familienstiftung → Holding-GmbH 1 → Holding-GmbH 2 → Operative Töchter | Pflichtteils-Schutz; Generationen-Trennung; Erbschaftsteuer-Optimierung | Familienunternehmen; Nachfolge |
-| D — GmbH & Co. KG-Holding | Privatperson (Kommanditist) → KG als Holding → Tochtergesellschaften | Gewerbesteuerliche Transparenz; § 15 EStG | Mittelstand mit KG-Tradition |
+## 4. Beweismerker
 
-## Rechenbeispiel Exit-Vorteil
+- Einladung, Zugangsnachweise, Gesellschaftsvertrag, Vollmachten, Abstimmung und Protokoll sichern.
+- Bei der GbR keine aktienrechtliche Monatsfrist behaupten.
+- Für Altbeschlüsse das vor dem MoPeG geltende Vertrags- und Rechtsprechungsmodell gesondert ausweisen.
 
-### Ohne Holding (Direktverkauf GmbH-Anteile)
+## 5. Arbeitsergebnis
 
-```
-Kaufpreis Anteile:                      EUR 10.000.000
-Anschaffungskosten:                   ./. EUR  1.000.000
-Veräußerungsgewinn:                     EUR  9.000.000
-
-Teileinkünfteverfahren § 3 Nr. 40 EStG: 60 % steuerpflichtig = EUR 5.400.000
-Einkommensteuer ca. 42 %:             ./. EUR  2.268.000
-Solidaritätszuschlag 5,5 %:          ./. EUR    124.740
-
-Netto-Erlös:                            EUR  7.607.260
-```
-
-### Mit Holding (§ 8b KStG)
-
-```
-Holding-GmbH verkauft Anteile:          EUR 10.000.000
-Anschaffungskosten:                   ./. EUR  1.000.000
-Veräußerungsgewinn:                     EUR  9.000.000
-
-§ 8b Abs. 2 KStG: 95 % steuerfrei       EUR  8.550.000
-5 % Schein-Betriebsausgabe:             EUR    450.000 steuerpflichtig
-KSt 15 % + Soli + GewSt ca. 30 %:    ./. EUR    135.000
-
-Netto-Holding-Vermögen:                 EUR  9.865.000
-
-Vorteil gegenüber Direktverkauf:        EUR  2.257.740 (Steueraufschub)
-
-Bei späterer Ausschüttung Holding → Privat:
-§ 20 EStG Abgeltungssteuer 25 %:      ./. EUR  2.221.250 (auf Netto-9.865.000)
-Tatsächlicher Nettoerlös Privat:        EUR  7.393.750
-
-Steueraufschub-Vorteil (Reinvestition): Erheblich bei mehrjährigem
-Aufschub; Zinseffekt auf EUR 2.258.000 über 5–10 Jahre
-```
-
-## Prüfschema Holding-Aufbau
-
-**Vorab:** Der untenstehende Workflow ist die typische Standardlinie. Wenn die Mandantenlage abweicht (siehe "Strategische Optionen" oben), sind die Schritte entsprechend zu verkuerzen, umzustellen oder durch ein anderes Skill zu ersetzen — der Workflow ist Leitfaden, nicht Pflichtprogramm.
-
-
-| Schritt | Prüfpunkt | Norm | Rechtsfolge |
-|---------|-----------|------|-------------|
-| 1 | Zeitreihenfolge: Holding VOR operativer GmbH? | § 8b KStG; Umwandlungsrecht | Nachträgliche Holding: Einbringungsaufwand und ggf. Sperrfrist |
-| 2 | Mindestbeteiligung 10 % für § 8b KStG? | § 8b Abs. 4 KStG | Stichtag = Beginn des Wirtschaftsjahres der Dividende |
-| 3 | Erweiterte Kürzung § 9 Nr. 1 S. 2 GewStG anwendbar? | § 9 Nr. 1 S. 2 GewStG | Ausschließlich Immobilienverwaltung; keine gewerbliche Beimengung |
-| 4 | § 6a GrEStG Konzernklausel bei Umstrukturierung? | § 6a GrEStG | 95 %-Beteiligung ununterbrochen 5 Jahre vor und nach Umstrukturierung |
-| 5 | Wegzug ins Ausland geplant? | § 6 AStG | Stille Reserven bei GmbH-Anteilen sofort versteuert; Ratenzahlung möglich |
-| 6 | Pflichtteilsrelevante Schenkungen? | § 2325 BGB | 10-Jahres-Frist läuft; Nießbrauchsvorbehalt stoppt Frist nicht |
-| 7 | Familienstiftung als oberste Ebene? | §§ 80 ff. BGB; § 58 KStG | Pflichtteils-Schutz; Erbschaftsteuerpflicht Stiftungsgründung beachten |
-| 8 | GmbH-Gründungsaufwand und laufende Pflichten? | GmbHG; HGB | Bilanzierungspflicht; Offenlegung; Jahresabschluss Holding |
-
-## Strategische Optionen (vor dem Template entscheiden)
-
-Bevor das Template eins-zu-eins gefuellt wird, ist zu pruefen welche Variante zur Mandantenkonstellation passt. Das Template ist **eine** moegliche Form — nicht die einzige.
-
-| Konstellation | Empfohlener Weg |
-|---|---|
-| Standard — Holding-Struktur planen | Struktur-Varianten-Vergleich; Anteilsuebertragungsvertrag unten |
-| Variante A — Exit-Optimierung im Vordergrund | § 8b KStG-Vorteil berechnen; Holding prioritaer empfehlen |
-| Variante B — Haftungsschutz vorrangig | Operative Risiken in Tochter-GmbH halten; Holding schirmt ab |
-| Variante C — Erbschaft / Unternehmensnachfolge | Familienpool-Holding und Niesbrauchsvorbehalt pruefen |
-
-Wenn die Mandantenkonstellation **nicht** ins Standardschema passt, ist das Template anzupassen oder durch ein anderes Skill abzuloesen — nicht das Mandat in das Schema zu pressen.
-
-## Schriftsatz-Bausteine
-
-### Anteilsübertragungsvertrag (Operative GmbH auf Holding-GmbH)
-
-```
-ANTEILSÜBERTRAGUNGSVERTRAG
-
-Parteien:
-Übertragender: [Name/GmbH], [Anschrift] (nachfolgend "Übertragender")
-Erwerber: [Holding-GmbH], vertreten durch Geschäftsführer [Name] (nachfolgend "Holding")
-
-§ 1 Übertragungsgegenstand
-Der Übertragende ist Inhaber eines Geschäftsanteils von EUR [Betrag] (nominal)
-an der [Operative GmbH], [Sitz], HRB [Nr.] (nachfolgend "Gesellschaft").
-Der Übertragende überträgt diesen Geschäftsanteil auf die Holding.
-
-§ 2 Kaufpreis / Einbringungswert
-[Variante A - Kauf:]
-Die Holding zahlt einen Kaufpreis von EUR [Betrag] (Verkehrswert).
-Zahlbar bis zum [Datum] auf Konto [IBAN].
-
-[Variante B - Einbringung gegen Gesellschafterrechte:]
-Die Einbringung erfolgt gegen Gewährung neuer Gesellschafterrechte an der
-Holding gemäß §§ 20, 21 UmwStG zu Buchwerten [alternativ: zu Verkehrswerten].
-Steuerliche Behandlung nach UmwStG (Einbringungsgewinnbesteuerung prüfen).
-
-§ 3 Notarielle Form
-Dieser Vertrag bedarf der notariellen Beurkundung (§ 15 Abs. 3 GmbHG).
-Beurkundung durch Notar [Name], [Ort], am [Datum].
-
-§ 4 Gewährleistung
-Der Übertragende gewährleistet, dass der Geschäftsanteil frei von Rechten
-Dritter, nicht verpfändet und nicht mit Treuhandpflichten belastet ist.
-
-[Ort, Datum]
-[Unterschriften]
-```
-
-### Holding-GmbH-Gründung (Checkliste Anwaltsmandat)
-
-```
-Checkliste Holding-GmbH-Gründung:
-
-Schritt 1: Vorab
-[ ] Firmenrecherche beim Handelsregister (Namensexklusivität)
-[ ] Geschäftsadresse festlegen
-[ ] Geschäftsführer(in) benennen (kein Berufsverbot § 6 Abs. 2 GmbHG)
-
-Schritt 2: Notartermin
-[ ] Gesellschaftsvertrag (Satzung) vorbereiten:
-    - Firma: [Name] Holding GmbH
-    - Stammkapital: mind. EUR 25.000 (§ 5 GmbHG)
-    - Gesellschafterzweck: "Erwerb, Verwaltung und Veräußerung von
-      Unternehmensbeteiligungen"
-    - Geschäftsführer(-in) benennen
-    - Stammeinlagen aufteilen
-[ ] Notarielle Beurkundung Gesellschaftsvertrag + Geschäftsführerbestellung
-[ ] Gründungsprotokoll
-
-Schritt 3: Anmeldung
-[ ] Handelsregistereintragung (durch Notar)
-[ ] Stammkapital mind. EUR 12.500 einzahlen vor Anmeldung (§ 7 Abs. 2 GmbHG)
-[ ] Steuerliche Anmeldung beim Finanzamt (USt-IdNr.; KSt-Voranmeldung)
-
-Schritt 4: Post-Gründung
-[ ] Geschäftskonto eröffnen (Holding getrennt von Operativ-GmbH)
-[ ] Konzernstruktur beim Steuerberater hinterlegen
-[ ] Cash-Pooling-Vertrag prüfen (Zinsmarktverhältnisse § 8 Abs. 3 KStG)
-
-Kosten ca.:
-- Notar Gründung: EUR 500–1.000 (Stammkapital EUR 25.000)
-- Gerichtsgebühr HReg: ca. EUR 150
-- Steuerberater Strukturberatung: EUR 3.000–15.000 je Komplexität
-- Anwaltshonorar: EUR 5.000–30.000 je Komplexität
-```
-
---- vor Versand klaeren ---
-1. Welches Verhandlungsziel hat der Mandant? [Bestand / Abfindung / Reputation / Schnelle Loesung]
-2. Welche Kompromisslinien sind absolut? [Mindestabfindung / Freistellung / Zeugnisformulierung]
-3. Sind Anschlusswege erwuenscht? [Mediation / Direktgespraech / Settlement vor Klageerhebung]
-
-
-## Beweislast / Steuerliche Dokumentation
-
-| Thema | Nachweis | Dokument |
-|-------|---------|---------|
-| § 8b KStG Beteiligungsquote 10 % | Gesellschafterliste zum Stichtag | Notarielle Gesellschafterliste; HR-Auszug |
-| Erweiterte Kürzung § 9 Nr. 1 S. 2 GewStG | Ausschließlich Immobilienverwaltung | GewSt-Erklärung; Gesellschaftsvertrag ohne gewerbliche Klausel |
-| Wegzugsbesteuerung § 6 AStG (Ratenzahlung) | Antrag + Sicherheitsleistung | Antrag beim FA; Bürgschaft oder Grundpfandrecht |
-| Pflichtteilsergänzung § 2325 BGB (10 Jahre) | Schenkungsdatum | Schenkungsvertrag notariell; Steuerbescheid SchenkSt |
-| Konzernklausel § 6a GrEStG | 95 % Beteiligungsdurchgängigkeit | Beteiligungsstruktur 5 Jahre vor + nach Umstrukturierung |
-
-## Fristen
-
-| Frist | Inhalt | Norm |
-|-------|--------|------|
-| 10 Jahre | Pflichtteilsergänzungsanspruch bei Schenkungen | § 2325 BGB |
-| 5 Jahre | § 6a GrEStG Konzernklausel: Behaltefrist vor und nach Umstrukturierung | § 6a GrEStG |
-| 7 Jahre | Aufbewahrungspflicht Buchhaltungsunterlagen Holding | § 257 HGB |
-| 5 Jahre | Körperschaftsteuer-Festsetzungsfrist | § 169 Abs. 2 Nr. 2 AO |
-| 10 Jahre | FA-Festsetzung bei leichtfertiger Steuerverkürzung | § 169 Abs. 2 Nr. 1 AO |
-
-## Gegenargumente und Reaktion
-
-| Gegenargument | Herkunft | Reaktion |
-|--------------|---------|----------|
-| "§ 8b KStG Beteiligung < 10 %" | Finanzamt | Stichtag = Beginn des Wirtschaftsjahres; unterjährigen Erwerb so planen, dass Jahresbeginn überschritten |
-| "Gewerbliche Beimengung schadet § 9 Nr. 1 S. 2 GewStG" | Finanzamt | Nebentätigkeiten aus Immobilien-GmbH ausgliedern; reine Verwaltungsgesellschaft sicherstellen |
-| "Wegzugsbesteuerung bei Wohnsitzwechsel" | Steuerberater/Mandant | § 6 AStG Ratenzahlung bei EU/EWR-Wohnsitz; Rückkehroption innerhalb 7 Jahre |
-| "Holding nach operativer GmbH gegründet — Umwandlung nötig" | Mandant | §§ 20, 21 UmwStG: Einbringung zu Buchwerten möglich; Sperrfrist 7 Jahre beachten |
-| "Pflichtteils-Schutz durch Stiftung fraglich" | Erbe | Stiftung muss seit > 10 Jahren bestehen für vollständigen Schutz; BGH-Linie beachten |
-| "Doppelbesteuerung Holding → Privat" | Mandant | Holding thesauriert; Ausschüttung strategisch planen; Vermögensaufbau in Holding günstiger als Direkteinnahme |
-
-## Streitwert und Kosten
-
-**Notar- und Gründungskosten:**
-- Holding-GmbH-Gründung (Stammkapital EUR 25.000): Notargebühr ca. EUR 500–1.000 nach GNotKG; Handelsregistergebühr ca. EUR 150.
-- Anteilsübertragung (Kaufpreis EUR 1 Mio.): Notargebühr nach GNotKG ca. EUR 2.000–4.000 (nach Gebührentabelle).
-
-**Steuerberater:** Strukturberatung EUR 3.000–15.000 je Komplexität; laufende Buchhaltung Holding EUR 1.500–5.000/Jahr.
-
-**Anwaltliche Beratung:** Gesellschaftsrechtliche Strukturierung EUR 5.000–30.000 (abhängig von Komplexität, Beteiligungszahl, Stiftungsgründung).
-
-**Steuerlicher Exit-Vorteil (Rechenbeispiel EUR 9 Mio. Gewinn):**
-- Direktverkauf Privatperson: ca. EUR 2,4 Mio. Steuern.
-- Verkauf durch Holding: ca. EUR 135.000 Steuern im Jahr des Exits.
-- Vorteil: EUR 2,25 Mio. Steueraufschub (zusätzlicher Investitionsspielraum).
-
-## Strategische Empfehlung
-
-| Situation | Empfehlung | Begründung |
-|-----------|------------|-----------|
-| Junges Start-up vor erstem Investor | Holding-GmbH zuerst gründen, dann operative GmbH darunter | § 8b KStG-Vorteil ab erster Runde sichergestellt |
-| Bestehende GmbH, Exit in 5 Jahren | Einbringung in Holding nach §§ 20, 21 UmwStG; Sperrfrist 7 Jahre beachten | Frühzeitige Umstrukturierung spart Steuern bei Exit |
-| Immobilienvermögen strukturieren | Eigenständige Immobilien-GmbH unter Vermögens-Holding; § 9 Nr. 1 S. 2 GewStG | Volle GewSt-Befreiung der Mieterträge; keine operative Beimengung |
-| Familienunternehmen mit Nachfolge | Familienstiftung + Holding; frühzeitige Schenkung Anteile an Kinder (10-Jahres-Frist § 2325 BGB) | Pflichtteils- und ErbSt-Optimierung kombiniert |
-| Gesellschafter plant Wegzug | § 6 AStG-Beratung vor Wohnsitzverlegung; Ratenzahlung in EU | Wegzugsbesteuerung frühzeitig planen |
-
-## Anschluss-Skills
-
-- `fachanwalt-handels-gesellschaftsrecht-gesellschafterstreit` — Gesellschafterstreit in der Holding-Struktur
-- `fachanwalt-handels-gesellschaftsrecht-geschaeftsfuehrerhaftung` — GF-Haftung in mehrstufiger Holding
-- `fachanwalt-erbrecht-pflichtteilsberechnung` — Pflichtteilsansprüche bei Holding-Schenkung
-- `fachanwalt-insolvenz-sanierungsrecht-restrukturierungsplan` — Holding-Restrukturierung bei Krise
-
-## Quellen
-
-- § 8b KStG: https://www.gesetze-im-internet.de/kstg_1977/__8b.html
-- § 9 GewStG: https://www.gesetze-im-internet.de/gewstg/__9.html
-- § 6a GrEStG: https://www.gesetze-im-internet.de/grestg_1983/__6a.html
-- § 6 AStG: https://www.gesetze-im-internet.de/astg/__6.html
-- UmwStG: https://www.gesetze-im-internet.de/umwstg_2006/
-- Rechtsprechung live prüfen: Keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über amtliche oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-
----
-
-## Skill: `einstieg-schnelltriage-fallrouting`
-
-_Wenn es um Einstieg, Schnelltriage und Fallrouting in Fachanwalt Handels Gesellschaftsrecht in Fachanwalt Handels- und Gesellschaftsrecht geht: klärt Rolle, Ziel, Frist, Unterlagen und den passenden nächsten Fachskill; liefert eine Fristen- und Risikoampel mit Sofortschritten._
-
-# Einstieg, Schnelltriage und Fallrouting im Fachanwalt Handels Gesellschaftsrecht-Plugin
-
-
-## Arbeitsweg
-
-- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
-- Fristen und Eilrisiken zuerst markieren: nur die Fristen des konkreten Rechtsgebiets und der Akte verwenden; Widerspruch, Klage, Einspruch, Rechtsmittel, Verjährung, Verwirkung, Rüge-, Anzeige-, Anmelde- und Ausschlussfristen strikt trennen und nie aus einem anderen Fachgebiet übernehmen.
-- Tragende Normen verifizieren: HGB §§ 1-7, 17-37 (Firma/Register), 48-58 (Prokura), 84-92c (Handelsvertreter), 343 ff. (Handelsgeschäfte), 373 ff. (Handelskauf); HGB §§ 84-92c, EuGH zu Ausgleichsanspruch, BGB §§ 305 ff.; § 14i. HGB. AktG. GmbHG. PartGG. UmwG. Geschäftsführerhaftung; § 89b HGB. MoPeG GbR seit 2024. Schnittstellen kanzlei-allgemein — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
-- Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
-- Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
-
-**Fokus:** Einstieg, Schnelltriage und Fallrouting im Fachanwalt Handels Gesellschaftsrecht-Plugin. Fragt Rolle, Ziel, Fristen, Unterlagen, Risiken und Wunsch-Output ab, schlägt passende Fachmodule aus diesem Plugin vor und führt in einen klaren Arbeitsplan. Bei Dokument-Upload ohne Begleittext reagiert der Skill eigenständig: ordnet das Material, prüft Eil- und Fristenhinweise, routet in passende Fachmodule oder stellt genau eine gezielte Rückfrage.
-
-## Fachlicher Kern — Gesellschaftsrecht und Corporate Law
-- **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `Fachanwalt Handels Gesellschaftsrecht — Allgemein` und löse die dort angelegte Fachfrage; arbeite mit konkreten Tatbestandsmerkmalen, Beweisfragen und dem unmittelbar benötigten Arbeitsprodukt. Routingfragen bleiben Hilfsmittel, wenn Frist, Zuständigkeit oder Verfahrensart offen sind.
-- **Arbeitsmodus:** Erst Gesellschaftsform, Organ, Beschlussweg, Vertretung, Registerlage, wirtschaftliches Ziel und Minderheitenposition sortieren; dann Treuepflicht, Kapitalerhaltung, Haftung, Transaktions-Closing und Beweis-/Vollzugsrisiko prüfen.
-- **Outputpflicht:** Beschluss-/Listenmatrix, Register-To-do, Board-/Beiratsvorlage, Closing-CP-Liste, Treuepflicht-Red-Team, Geschäftsführerhaftungsmemo oder Mandanten-Decision-Paper.
-- **Fehlerbremse:** Tragende Normen/Entscheidungen live oder aus der Akte verifizieren; Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei prüfbarer Quelle. Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen.
-
-## Schnellstart-Workflow
-
-Dieser Allgemein-Skill ist der schöne, schnelle Eingang in das Plugin **Fachanwalt Handels Gesellschaftsrecht**. Er funktioniert wie Empfang, Triage, Projektsteuerung und Qualitätskontrolle in einem: erst knapp klären, dann den richtigen Arbeitsweg wählen, dann passende Fachmodule aus diesem Plugin vorschlagen.
-
-**Plugin-Fokus:** Plugin Fachanwalt für Handels- und Gesellschaftsrecht nach FAO § 14i. HGB. AktG. GmbHG. PartGG. UmwG. Geschäftsführerhaftung §§ 43 GmbHG 93 AktG. Gesellschafterstreit Beschlussanfechtung. Handelsvertreterausgleich § 89b HGB. MoPeG GbR seit 2024. Schnittstellen kanzlei-allgemein.
-
-### 0. Stummer Upload — Material ohne Begleittext
-
-Wenn der Nutzer nur ein Dokument, einen Screenshot, eine Tabelle, ein ZIP oder ein Aktenkonvolut hochlädt und keinen Auftrag dazuschreibt, behandle den Upload als Arbeitsauftrag. Warte nicht auf einen Prompt. Arbeite als aufmerksamer juristischer Co-Pilot: erst sichern, was eilt, dann das Material einordnen, dann den besten nächsten Arbeitsschritt anbieten.
-
-**Pflicht-Reihenfolge bei stummem Upload:**
-
-1. **Eil- und Fristenscan:** Prüfe sofort sichtbare Zustellungen, Rechtsbehelfsbelehrungen, Fristen, Termine, Vollziehungsrisiken, Zahlungsziele, Verjährungs- oder Ausschlussfristen. Wenn etwas eilt, beginne die Antwort mit `Frist zuerst: ...`.
-2. **Material-Klassifikation:** Benenne in einem Satz, was vorliegt: Bescheid, Klageschrift, Vertrag, Mandantenmail, Gerichtsentscheidung, Schriftsatz, Tabellenwerk, Registerauszug, Rechnung, beA-/EGVP-Nachricht, Screenshot, Foto, Chatverlauf oder Aktenkonvolut.
-3. **Kontextanker:** Notiere Absender, Adressat, Aktenzeichen, Gericht/Behörde/Gegenseite, Datum und erkennbaren Lebenssachverhalt. Wenn der Text unleserlich ist, sage genau, welcher Teil fehlt.
-4. **Rechts- und Arbeitsthema:** Ordne das Material knapp einem Rechtsgebiet, einer Normengruppe oder einem Arbeitsmodus zu. Zitiere nur, was im Material oder im Plugin-Kontext wirklich trägt.
-5. **Routing:** Schlage zuerst einen passenden Fachmodul aus diesem Plugin vor. Wenn der Treffer eindeutig ist, arbeite direkt in dessen Richtung weiter. Wenn mehrere Wege sinnvoll sind, nenne einen bevorzugten Primärpfad und höchstens zwei Alternativen mit Nutzen.
-6. **Nur eine Rückfrage:** Frage nur dann nach, wenn ohne die Antwort ein falscher nächster Schritt droht. Die Rückfrage muss konkret sein und an das erkannte Material anknüpfen.
-
-**Was du bei stummem Upload nicht machst:**
-
-- Keine generische Upload-Bestätigung.
-- Keine vollständige Intake-Liste aus Abschnitt 1.
-- Keine erfundenen Dokumentdetails, Fristen, Anlagen oder Fundstellen.
-- Keine unnötige Begrenzungsrhetorik; mache klar, wie das Material jetzt praktisch weiterverarbeitet werden kann.
-
-**Antwortformat bei stummem Upload:**
-
-- **Erkannt:** [Materialart, Absender/Aktenzeichen falls sichtbar]
-- **Frist zuerst:** [konkretes Datum/Risiko oder `keine Frist erkennbar`]
-- **Einordnung:** [Rechtsgebiet/Normengruppe/Arbeitsmodus]
-- **Primärer Pfad:** Wähle nach Aktenlage den nächsten passenden Skill und begründe in einem Satz, welche Frist, Zuständigkeit, Beweislast oder welches Arbeitsprodukt dadurch geklärt wird.
-- **Alternativen:** `...`, `...`
-- **Nächster Schritt:** [direkte Bearbeitung oder genau eine konkrete Rückfrage]
-
-### 1. Intake in 60 Sekunden
-
-Nutze die folgenden Punkte als stille Checkliste, nicht als Fragenkatalog. Wenn der Nutzer schon genug geliefert hat, sichtbar zusammenfassen und direkt weiterarbeiten; frage nur fehlende Punkte ab, die die nächste Weiche wirklich verändern.
-
-| Punkt | Frage | Warum wichtig? |
-|---|---|---|
-| Rolle | Wer fragt: Anwalt, Kanzlei, Rechtsabteilung, Verwalter, Betroffener, Unternehmen, Behörde? | Perspektive und Ton bestimmen. |
-| Ziel | Was soll am Ende entstehen: Prüfung, Schriftsatz, Memo, Checkliste, Vertrag, E-Mail, Strategie, Datenraum-Auswertung? | Output sofort sauber ausrichten. |
-| Sachverhalt | Was ist passiert, wer sind die Beteiligten, welche Daten und Beträge sind sicher? | Keine Arbeit auf Luft bauen. |
-| Fristen | Gibt es Termine, Fristablauf, Zustellung, Einspruch, Klagefrist, Behördenfrist oder Closing-Datum? | Eilsachen zuerst sichern. |
-| Unterlagen | Welche Dateien, Registerauszüge, Bescheide, Verträge, Tabellen, E-Mails oder PDFs liegen vor? | Aktenarbeit statt Raten. |
-| Risiko | Wo drohen Haftung, Verjährung, Bußgeld, Strafbarkeit, Kosten, Reputationsschaden oder Eskalation? | Priorität und Vorsicht einstellen. |
-| Format | Wie ausführlich, für wen, in welchem Stil und mit welcher Zitier-/Ausgabeform? | Ergebnis direkt verwendbar machen. |
-
-### 2. Sofort-Triage
-
-Arbeite danach in dieser Reihenfolge:
-
-1. **Eilprüfung:** Fristen, Zuständigkeiten, Formerfordernisse und irreversible Schritte sofort markieren.
-2. **Sachverhaltskern:** In drei bis sieben Sätzen festhalten, was sicher ist, was streitig ist und was fehlt.
-3. **Arbeitsmodus wählen:** Kurzprüfung, Deep Dive, Dokumententwurf, Verhandlungsstrategie, Aktenextraktion, Red Team oder Mandantenkommunikation.
-4. **Primärskill wählen:** Genau einen passenden Skill aus diesem Plugin bestimmen und unmittelbar einsetzen. Höchstens zwei Alternativen nur nennen, wenn eine echte Weiche offen ist.
-5. **Nächsten Schritt anbieten:** Wenn ein Skill eindeutig passt, mit diesem Skill weiterarbeiten; wenn mehrere passen, eine knappe Auswahl anbieten.
-6. **Qualitätsgate:** Am Ende prüfen: Quellen, Fristen, Annahmen, offene Tatsachen, nächste Handlung.
-
-### 3. Routing-Regeln
-
-- Schlage **immer zuerst Skills aus diesem Plugin** vor. Andere Plugins nur als Schnittstelle nennen, wenn das Thema sichtbar auswandert.
-- Nenne nie nur einen Skillnamen. Immer auch sagen: **wofür**, **wann**, **welcher Input fehlt** und **was als Output kommt**.
-- Wenn die Akte groß oder unordentlich ist, zuerst einen Akten-, Tabellen- oder Triage-Skill vorschlagen, bevor materiell geprüft wird.
-- Wenn ein Schriftsatz, Vertrag oder Register-/Behördenoutput gewünscht ist, zuerst die Prüfung strukturieren und danach den passenden Output-Skill nehmen.
-- Wenn Rechtslage, Rechtsprechung oder Behördenpraxis aktuell sein kann, ausdrücklich Quellen-/Aktualitätsprüfung einplanen.
-- Wenn der Nutzer nur schnell arbeiten will, mit einem **Minimalpfad** starten: Frist sichern, Sachverhalt ordnen, nächster Fachmodul.
-
-### 4. Antwortformat für den Einstieg
-
-Nutze als erste Antwort nach Aktivierung möglichst dieses kompakte Format:
-
-**Kurzbild**
-- Ziel: [...]
-- Rolle/Perspektive: [...]
-- Eilt wegen: [...]
-- Fehlende Unterlagen: [...]
-
-**Vorgeschlagener Workflow**
-1. [...]
-2. [...]
-3. [...]
-
-**Passende Skills aus diesem Plugin**
-| Skill | Warum jetzt? | Erwarteter Output |
-|---|---|---|
-| `...` | [...] | [...] |
-
-**Nächste Frage**
-[Eine kurze, entscheidende Frage stellen, wenn wirklich etwas fehlt.]
-
-### 5. Fachmodule gezielt und sparsam laden
-
-1. Wähle zunächst genau einen Primärskill, der zum Auftrag und gewünschten Arbeitsprodukt passt. Weitere Skills kommen nur bei einer konkreten Schnittstelle hinzu.
-2. Sind im Arbeitsordner bereits Unterlagen vorhanden, lies zuerst Dateinamen, Metadaten und Inhaltsübersichten. Frage nur nach Informationen, die daraus nicht verlässlich hervorgehen.
-3. Grenze Suchen in Microsoft 365 nach Website, Bibliothek oder Ordner, Zeitraum, Absender, Dateityp und prägnantem Suchbegriff ein. Erfasse im ersten Durchgang höchstens 20 Treffer und öffne höchstens fünf tragende Unterlagen.
-4. Lies Word- und PDF-Dokumente einmal vollständig, Tabellen nur in den einschlägigen Blättern und Bereichen sowie E-Mails im maßgeblichen Gesprächsverlauf. Verwende gewonnene Extrakte weiter, statt dieselbe Quelle erneut zu öffnen.
-5. Die [vollständige Fachmodulkarte](https://github.com/Klotzkette/claude-fuer-deutsches-recht/blob/main/fachanwalt-handels-gesellschaftsrecht/skills/einstieg-schnelltriage-fallrouting/references/fachmodule.md) wird nur konsultiert, wenn kein eindeutiger Primärskill feststeht oder eine echte Querschnittsfrage verbleibt.
-
-## Qualitätsversprechen
-
-- Arbeite schnell, aber nicht hektisch.
-- Frage nur nach, wenn die Antwort den nächsten Schritt wirklich verändert.
-- Mache Annahmen sichtbar und halte sie knapp.
-- Schlage passende Fachmodule aus diesem Plugin vor, bevor du in Randthemen ausweichst.
-- Liefere am Ende immer einen klaren nächsten Schritt.
-
----
-
-Hinweis: Dieser Skill stärkt die anwaltliche Arbeit, indem er Workflow, Intake und Routing strukturiert; die fachliche Endverantwortung bleibt beim zuständigen Menschen.
+Erstelle Fristenblatt, Mängelmatrix, Antragssatz und wahlweise Klageentwurf oder Verteidigung mit Vollzugsstrategie.
 
 ---
 

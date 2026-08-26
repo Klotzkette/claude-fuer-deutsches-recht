@@ -1,6 +1,6 @@
 ---
 name: haltelinien-setzt-standard
-description: "Wenn es um Haltelinien: Verhandlung, Vergleich und Eskalation in NDA-Abgleich geht: entwickelt Verhandlungsziel, Vergleichskorridor und Eskalationspfad; liefert eine Verhandlungs- oder Eskalationslinie mit Optionen."
+description: "Für Haltelinien: Verhandlung, Vergleich und Eskalation: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Haltelinien: Verhandlung, Vergleich und Eskalation

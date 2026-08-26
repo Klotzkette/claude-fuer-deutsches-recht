@@ -1,6 +1,6 @@
 ---
 name: unfallversicherung-paragrafe-178-vvg
-description: "Wenn es um Unfallversicherung Paragrafen 178 VVG in Fachanwalt Versicherungsrecht geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Unfallversicherung Paragrafen 178 VVG: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Unfallversicherung §§ 178 VVG

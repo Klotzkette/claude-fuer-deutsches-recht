@@ -1,6 +1,6 @@
 ---
 name: mehrdeutigkeit-305c2
-description: "Wenn es um Mehrdeutigkeit 305c2 in AGB-Recht-Prüfer geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Gegenprüfung mit Fehler-, Beweis- und Fristencheck."
+description: "Für Mehrdeutigkeit 305c2: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Schnittstellenkarte mit Zuständigkeits- und Nachweisfragen."
 ---
 
 # Mehrdeutigkeit 305c2

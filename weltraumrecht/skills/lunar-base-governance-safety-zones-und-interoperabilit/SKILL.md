@@ -1,6 +1,6 @@
 ---
 name: lunar-base-governance-safety-zones-und-interoperabilit
-description: "Wenn es um Weltraumrecht: Lunar Base Governance: Safety Zones und Interoperabilität in Weltraumrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Weltraumrecht: Lunar Base Governance: Safety Zones und Interoperabilität: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Weltraumrecht: Lunar Base Governance: Safety Zones und Interoperabilität

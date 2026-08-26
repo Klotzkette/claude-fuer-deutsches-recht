@@ -1,6 +1,6 @@
 ---
 name: exhibits-translation-608-zpo
-description: "Wenn es um Exhibits und Übersetzung in commercial-courts-deutschland geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen."
+description: "Für Exhibits und Übersetzung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Exhibits und Übersetzung

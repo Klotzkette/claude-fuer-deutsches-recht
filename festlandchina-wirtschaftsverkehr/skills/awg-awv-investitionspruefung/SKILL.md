@@ -1,6 +1,6 @@
 ---
 name: awg-awv-investitionspruefung
-description: "Wenn es um AWG/AWV-Investitionsprüfung: Verfahren und Fallgruppen in China-Wirtschaftsverkehr geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für AWG/AWV-Investitionsprüfung: Verfahren und Fallgruppen: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Tatbestands- oder Anspruchsmatrix."
 ---
 
 # AWG/AWV-Investitionsprüfung: Verfahren und Fallgruppen

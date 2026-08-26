@@ -1,6 +1,6 @@
 ---
 name: drittlandstransfer-tia-scc
-description: "Wenn es um Drittlandstransfer: Verhandlung, Vergleich und Eskalation in Datenschutzrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Drittlandstransfer: Verhandlung, Vergleich und Eskalation: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Drittlandstransfer: Verhandlung, Vergleich und Eskalation

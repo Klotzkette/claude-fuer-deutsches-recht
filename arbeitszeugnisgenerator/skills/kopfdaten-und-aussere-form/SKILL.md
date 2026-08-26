@@ -1,6 +1,6 @@
 ---
 name: kopfdaten-und-aussere-form
-description: "Prüft Briefkopf, Datum, Überschrift, Beschäftigungszeitraum, Fließtext, Unterzeichner und Papier- oder elektronische Form eines Arbeitszeugnisses. Liefert eine Formalienmängelliste und eine ausgabefertige, geschäftsübliche Fassung."
+description: "Prüft Briefkopf, Datum, Überschrift, Beschäftigungszeitraum, Fließtext, Unterzeichner und Papier- oder elektronische Form eines Arbeitszeugnisses."
 ---
 
 # Kopfdaten und äußere Form

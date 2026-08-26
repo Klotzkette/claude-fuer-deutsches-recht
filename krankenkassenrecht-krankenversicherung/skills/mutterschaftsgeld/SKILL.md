@@ -1,6 +1,6 @@
 ---
 name: mutterschaftsgeld
-description: "Wenn es um Mutterschaftsgeld und Schwangerschaftsleistungen in Krankenkassenrecht und Krankenversicherung geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Mutterschaftsgeld und Schwangerschaftsleistungen: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Mutterschaftsgeld und Schwangerschaftsleistungen

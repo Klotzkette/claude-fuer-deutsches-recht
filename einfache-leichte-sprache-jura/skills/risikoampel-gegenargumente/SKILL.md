@@ -1,6 +1,6 @@
 ---
 name: risikoampel-gegenargumente
-description: "Wenn es um Leichte: Risikoampel, Gegenargumente und Verteidigungslinien in Einfache und Leichte Sprache für juristische Texte geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten. Auswahlstichwort: Risikoampel Gegenargumente; Arbeitsfeld: Einfache und Leichte Sprache für juristische Texte."
+description: "Für Leichte: Risikoampel, Gegenargumente und Verteidigungslinien: prüft Ergebnis, Beweislast und Gegenposition; Ergebnis: Fristen- und Risikoampel."
 ---
 
 # Leichte: Risikoampel, Gegenargumente und Verteidigungslinien

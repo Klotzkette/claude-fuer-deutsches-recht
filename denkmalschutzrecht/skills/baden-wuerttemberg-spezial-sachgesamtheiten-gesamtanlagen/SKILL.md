@@ -1,6 +1,6 @@
 ---
 name: baden-wuerttemberg-spezial-sachgesamtheiten-gesamtanlagen
-description: "Wenn es um Sachgesamtheiten und Gesamtanlagen in Baden-Wuerttemberg in Denkmalschutzrecht — Bundesweiter Rahmen und sechzehn geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Sachgesamtheiten und Gesamtanlagen in Baden-Württemberg: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Sachgesamtheiten und Gesamtanlagen in Baden-Wuerttemberg

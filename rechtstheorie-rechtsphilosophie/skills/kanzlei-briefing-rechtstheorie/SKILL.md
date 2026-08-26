@@ -1,6 +1,6 @@
 ---
 name: kanzlei-briefing-rechtstheorie
-description: "Wenn es um Kanzlei-Briefing Rechtstheorie in Rechtstheorie und Rechtsphilosophie geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert eine Mandantennachricht oder Entscheidungsvorlage."
+description: "Für Kanzlei-Briefing Rechtstheorie: erstellt Entwurf mit Antrag, Beweis und Anlagen; Ergebnis: Schriftsatz mit Begründungs- und Anlagenlogik."
 ---
 
 # Kanzlei-Briefing Rechtstheorie

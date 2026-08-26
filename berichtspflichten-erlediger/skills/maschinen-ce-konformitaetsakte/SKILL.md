@@ -1,6 +1,6 @@
 ---
 name: maschinen-ce-konformitaetsakte
-description: "Wenn es um Maschinen CE und technische Dokumentation in Berichtspflichten-Erlediger geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen."
+description: "Für Maschinen CE und technische Dokumentation: ordnet Akte, Belege und Lücken; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Maschinen CE und technische Dokumentation

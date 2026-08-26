@@ -1,6 +1,6 @@
 ---
 name: pralr-002-editionsvergleich-pdf-digitalisat
-description: "Wenn es um Editionsvergleich und Digitalisat in Preußisches Allgemeines Landrecht geht: entwickelt Verhandlungsziel, Vergleichskorridor und Eskalationspfad; liefert eine Verhandlungs- oder Eskalationslinie mit Optionen. Auswahlstichwort: Pralr 002 Editionsvergleich Pdf Digitalisat; Arbeitsfeld: Preußisches Allgemeines Landrecht."
+description: "Für Editionsvergleich und Digitalisat: entwickelt Ziel, Vergleich und Eskalation; Ergebnis: Verhandlungs- oder Eskalationslinie. Fachgebiet: Preußisches Allgemeines Landrecht. Route: pralr-002-editionsvergleich-pdf-digitalisat."
 ---
 
 # Editionsvergleich und Digitalisat

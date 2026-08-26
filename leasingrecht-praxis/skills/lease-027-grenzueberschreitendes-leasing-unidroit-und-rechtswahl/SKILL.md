@@ -1,6 +1,6 @@
 ---
 name: lease-027-grenzueberschreitendes-leasing-unidroit-und-rechtswahl
-description: "Wenn es um Leasingrecht: Grenzüberschreitendes Leasing UNIDROIT und Rechtswahl in Leasingrecht Praxis geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Leasingrecht: Grenzüberschreitendes Leasing UNIDROIT und Rechtswahl: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Leasingrecht: Grenzüberschreitendes Leasing UNIDROIT und Rechtswahl

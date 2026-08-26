@@ -1,6 +1,6 @@
 ---
 name: beirat-register-und-notar
-description: "Wenn es um Beirat Register Und Notar in Gesellschaftsrecht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert einen Einreichungsplan mit Form-, Portal- und Nachweischeck."
+description: "Für Beirat Register und Notar: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Einreichungsplan mit Form- und Nachweischeck. Fachgebiet: Gesellschaftsrecht."
 ---
 
 # Beirat Register Und Notar

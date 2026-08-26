@@ -1,6 +1,6 @@
 ---
 name: robotik-haftungsampel
-description: "Wenn es um Haftungsampel in robotik-recht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. Auswahlstichwort: Robotik Haftungsampel; Arbeitsfeld: robotik-recht."
+description: "Für Haftungsampel: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt. Fachgebiet: robotik-recht. Route: robotik-haftungsampel."
 ---
 
 # Haftungsampel

@@ -1,6 +1,6 @@
 ---
 name: forschung-studien-gewaltschutz
-description: "Wenn es um Forschung Studien Ethikkommission Datenschutz in Krankenhausrecht geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
+description: "Für Forschung Studien Ethikkommission Datenschutz: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Forschung Studien Ethikkommission Datenschutz

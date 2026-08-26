@@ -1,6 +1,6 @@
 ---
 name: staedtebauvertrag-haftung-und-rueckabwicklung
-description: "Wenn es um Haftung und Rückabwicklung städtebaulicher Verträge in Fachanwalt Bau Architektenrecht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
+description: "Für Haftung und Rückabwicklung städtebaulicher Verträge: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Haftung und Rückabwicklung städtebaulicher Verträge

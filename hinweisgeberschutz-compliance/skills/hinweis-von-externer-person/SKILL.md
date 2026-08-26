@@ -1,6 +1,6 @@
 ---
 name: hinweis-von-externer-person
-description: "Wenn es um Hinweis Von Externer Person in Hinweisgeberschutz, Meldestellen und NDA-Konflikte geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Hinweis von Externer Person: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Hinweis Von Externer Person

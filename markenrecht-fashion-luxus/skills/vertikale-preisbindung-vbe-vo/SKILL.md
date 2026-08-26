@@ -1,6 +1,6 @@
 ---
 name: vertikale-preisbindung-vbe-vo
-description: "Wenn es um Vertikale Preisbindung und Vertikal-GVO in markenrecht-fashion-luxus geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Vertikale Preisbindung und Vertikal-GVO: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Vertikale Preisbindung und Vertikal-GVO

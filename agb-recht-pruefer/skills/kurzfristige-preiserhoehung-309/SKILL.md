@@ -1,6 +1,6 @@
 ---
 name: kurzfristige-preiserhoehung-309
-description: "Wenn es um Kurzfristige Preiserhöhung 309 in AGB-Recht-Prüfer geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten. Auswahlstichwort: Kurzfristige Preiserhoehung 309; Arbeitsfeld: AGB-Recht-Prüfer."
+description: "Für Kurzfristige Preiserhöhung 309: prüft Frist, Form, Zuständigkeit und Eilbedarf; Ergebnis: Fristen- und Risikoampel. Fachgebiet: AGB-Recht-Prüfer. Route: kurzfristige-preiserhoehung-309."
 ---
 
 # Kurzfristige Preiserhöhung 309

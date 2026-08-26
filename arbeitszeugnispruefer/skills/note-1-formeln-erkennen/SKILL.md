@@ -1,6 +1,6 @@
 ---
 name: note-1-formeln-erkennen
-description: "Wenn es um Note-1-Formeln erkennen in Arbeitszeugnispruefer geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen."
+description: "Für Note-1-Formeln erkennen: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Note-1-Formeln erkennen

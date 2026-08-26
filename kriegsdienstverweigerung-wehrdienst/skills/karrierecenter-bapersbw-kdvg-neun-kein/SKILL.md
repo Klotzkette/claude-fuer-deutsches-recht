@@ -1,6 +1,6 @@
 ---
 name: karrierecenter-bapersbw-kdvg-neun-kein
-description: "Wenn es um Karrierecenter und BAPersBw in Kriegsdienstverweigerung und Wehrdienst geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Karrierecenter und BAPersBw: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Schnittstellenkarte mit Zuständigkeits- und Nachweisfragen."
 ---
 
 # Karrierecenter und BAPersBw

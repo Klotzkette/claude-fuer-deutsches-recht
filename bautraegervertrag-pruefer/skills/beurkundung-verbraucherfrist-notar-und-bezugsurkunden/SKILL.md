@@ -1,6 +1,6 @@
 ---
 name: beurkundung-verbraucherfrist-notar-und-bezugsurkunden
-description: "Wenn es um Beurkundung, Verbraucherfrist, Notar und Bezugsurkunden in Bauträgervertrag-Prüfer geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Beurkundung, Verbraucherfrist, Notar und Bezugsurkunden: prüft Frist, Form, Zuständigkeit und Eilbedarf; Ergebnis: Fristen- und Risikoampel."
 ---
 
 # Beurkundung, Verbraucherfrist, Notar und Bezugsurkunden

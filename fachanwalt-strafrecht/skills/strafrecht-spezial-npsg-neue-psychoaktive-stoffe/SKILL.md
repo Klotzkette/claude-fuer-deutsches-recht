@@ -1,6 +1,6 @@
 ---
 name: strafrecht-spezial-npsg-neue-psychoaktive-stoffe
-description: "Wenn es um Strafrecht Spezial Npsg Neue Psychoaktive Stoffe in Fachanwalt Strafrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Strafrecht Spezial Npsg Neue Psychoaktive Stoffe: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Schnittstellenkarte mit Zuständigkeits- und Nachweisfragen."
 ---
 
 # NpSG Neue-psychoaktive-Stoffe-Gesetz seit 26.11.2016: Strafrahmen § 4 NpSG, Stoffgruppenliste Anlage, Abgrenzung zu BtMG und Arzneimittelrecht

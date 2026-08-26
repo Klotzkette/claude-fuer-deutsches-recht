@@ -1,6 +1,6 @@
 ---
 name: b2c-b2b-b2b2c-rollencheck
-description: "Wenn es um B2C B2B B2B2C Rollencheck in AGB-Recht-Prüfer geht: klärt Rolle, Ziel, Frist, Unterlagen und den passenden nächsten Fachskill; liefert eine Tatbestands- oder Anspruchsmatrix mit Gegenargumenten."
+description: "Für B2C B2B B2B2C Rollencheck: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # B2C B2B B2B2C Rollencheck

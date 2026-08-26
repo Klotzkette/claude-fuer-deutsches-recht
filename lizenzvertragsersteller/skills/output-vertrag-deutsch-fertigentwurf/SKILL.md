@@ -1,6 +1,6 @@
 ---
 name: output-vertrag-deutsch-fertigentwurf
-description: "Wenn es um Output: Lizenzvertrag in deutscher Sprache in Lizenzvertragsersteller geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Output: Lizenzvertrag in deutscher Sprache: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Schnittstellenkarte mit Zuständigkeits- und Nachweisfragen."
 ---
 
 # Output: Lizenzvertrag in deutscher Sprache

@@ -1,6 +1,6 @@
 ---
 name: outsourcing-von-zeichnungen-kammerantwort
-description: "Wenn es um Outsourcing Von Zeichnungen Kammerantwort in Berufsrecht Patentanwälte geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Verhandlungs- oder Eskalationslinie mit Optionen."
+description: "Für Outsourcing von Zeichnungen Kammerantwort: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Patentanwälte: outsourcing von zeichnungen - Kammerantwort mit Verfahrensstrategie, Tonlage und Belegplan

@@ -1,6 +1,6 @@
 ---
 name: paketdienst-haftung-paragraf-449-hgb
-description: "Wenn es um Paketdienst Haftung Paragraf 449 HGB in Fachanwalt Transport Speditionsrecht geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Paketdienst Haftung Paragraf 449 HGB: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Paketdienst Haftung § 449 HGB

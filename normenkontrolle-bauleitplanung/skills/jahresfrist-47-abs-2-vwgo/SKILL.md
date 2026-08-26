@@ -1,6 +1,6 @@
 ---
 name: jahresfrist-47-abs-2-vwgo
-description: "Wenn es um Jahresfrist Paragraf 47 Abs. 2 VwGO in Normenkontrolle Bauleitplanung — Paragraf 47 VwGO geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Jahresfrist Paragraf 47 Abs. 2 VwGO: prüft Frist, Form, Zuständigkeit und Eilbedarf; Ergebnis: Fristen- und Risikoampel."
 ---
 
 # Jahresfrist § 47 Abs. 2 VwGO

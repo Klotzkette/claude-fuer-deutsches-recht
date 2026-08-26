@@ -1,6 +1,6 @@
 ---
 name: boilerplate-klauseln-definitionen
-description: "Wenn es um Boilerplate-Klauseln: Katalog mit Mustertexten in diesem Spezialbereich geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Beweislast- und Substantiierungsmatrix."
+description: "Für Boilerplate-Klauseln: Katalog mit Mustertexten: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Boilerplate-Klauseln: Katalog mit Mustertexten

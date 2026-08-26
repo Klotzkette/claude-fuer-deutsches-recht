@@ -1,6 +1,6 @@
 ---
 name: aufenthaltstitel-antrag
-description: "Wenn es um Aufenthaltstitel Antrag in Fachanwalt Migrationsrecht geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
+description: "Für Aufenthaltstitel Antrag: erstellt Entwurf mit Antrag, Beweis und Anlagen; Ergebnis: Schriftsatz mit Begründungs- und Anlagenlogik."
 ---
 
 # Antrag auf Erteilung oder Verlaengerung eines Aufenthaltstitels nach AufenthG bei der Ausländerbehoerde

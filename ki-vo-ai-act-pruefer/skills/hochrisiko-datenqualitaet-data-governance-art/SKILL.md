@@ -1,6 +1,6 @@
 ---
 name: hochrisiko-datenqualitaet-data-governance-art
-description: "Wenn es um Datenqualität und Data Governance — Art. 10 europäischer Technikregulierungsrahmen in europäischem Technikregulierungsrecht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Gegenprüfung mit Fehler-, Beweis- und Fristencheck."
+description: "Für Datenqualität und Data Governance — Art. 10 europäischer Technikregulierungsrahmen: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Gegenprüfung mit Beweis- und Fristencheck."
 ---
 
 # Datenqualität und Data Governance — Art. 10 KI-VO

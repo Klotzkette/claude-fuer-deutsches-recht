@@ -1,6 +1,6 @@
 ---
 name: industrieanlage-kommunikation-schaerfe
-description: "Wenn es um Industrieanlage Kommunikation Schaerfe in Umweltschutzverband Verbandsklage geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
+description: "Für Industrieanlage Kommunikation Schärfe: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Industrieanlage Kommunikation Schaerfe

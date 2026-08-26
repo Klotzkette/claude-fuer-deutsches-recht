@@ -1,6 +1,6 @@
 ---
 name: strafrecht-spezial-besonders-schwerer-bankrott-283a-stgb
-description: "Wenn es um Besonders schwerer Fall des Bankrotts nach Paragraph 283a StGB in Fachanwalt Strafrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Besonders schwerer Fall des Bankrotts nach Paragraph 283a StGB: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Besonders schwerer Fall des Bankrotts nach Paragraph 283a StGB

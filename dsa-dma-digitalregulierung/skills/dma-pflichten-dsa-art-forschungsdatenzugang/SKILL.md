@@ -1,6 +1,6 @@
 ---
 name: dma-pflichten-dsa-art-forschungsdatenzugang
-description: "Wenn es um DMA: Pflichtenuebersicht in DSA, DMA und Digitalregulierung der EU geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für DMA: Pflichtenübersicht: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # DMA: Pflichtenuebersicht

@@ -1,6 +1,6 @@
 ---
 name: export-forecast-fortbestehensprognose
-description: "Wenn es um Export Forecast Fortbestehensprognose in Liquiditätsplanung — Power geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Export Forecast Fortbestehensprognose: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Export Forecast Fortbestehensprognose

@@ -1,6 +1,6 @@
 ---
 name: long-covid-erwerbsminderung-leistungsbild
-description: "Wenn es um Long Covid Erwerbsminderung Leistungsbild in Fachanwalt Sozialrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Long Covid Erwerbsminderung Leistungsbild: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Long-Covid/Post-Covid und Erwerbsminderung: Leistungsvermögen unter 3/6 Stunden, Fatigue, PEM, neurokognitive Defizite, Reha-Bericht, Gutachtenkritik.

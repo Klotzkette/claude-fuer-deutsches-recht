@@ -1,6 +1,6 @@
 ---
 name: timesheet-aktenzeitung-umgang-ki
-description: "Wenn es um Timesheet und Aktenzeitung in Kanzlei-Allgemein geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
+description: "Für Timesheet und Aktenzeitung: ordnet Akte, Belege und Lücken; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Timesheet und Aktenzeitung

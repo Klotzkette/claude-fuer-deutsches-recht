@@ -1,6 +1,6 @@
 ---
 name: schutzdauer-paragraf-64-urhg
-description: "Wenn es um Schutzdauer Paragraf 64 UrhG in Fachanwalt Urheber Medienrecht geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Schutzdauer Paragraf 64 UrhG: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Schutzdauer § 64 UrhG

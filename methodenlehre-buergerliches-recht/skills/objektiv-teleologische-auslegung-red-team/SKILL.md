@@ -1,6 +1,6 @@
 ---
 name: objektiv-teleologische-auslegung-red-team
-description: "Wenn es um Objektiv-teleologische Auslegung: Red-Team-Analyse in Methodenlehre bürgerliches Recht geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Objektiv-teleologische Auslegung: Red-Team-Analyse: prüft Ergebnis, Beweislast und Gegenposition; Ergebnis: Gegenprüfung mit Beweis- und Fristencheck."
 ---
 
 # Objektiv-teleologische Auslegung: Red-Team-Analyse

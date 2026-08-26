@@ -1,6 +1,6 @@
 ---
 name: blaue-karte-gehalt-abschluss
-description: "Wenn es um Blaue Karte: Gehalt und Abschluss: Fachmodul im Migrationsrecht in Fachanwalt Migrationsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Blaue Karte: Gehalt und Abschluss: Fachmodul im Migrationsrecht: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Blaue Karte: Gehalt und Abschluss: Fachmodul im Migrationsrecht
@@ -38,3 +38,7 @@ description: "Wenn es um Blaue Karte: Gehalt und Abschluss: Fachmodul im Migrati
 - Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei prüfbarer Quelle ausgeben.
 - Keine BeckRS-, juris-, Kommentar-, Handbuch- oder Aufsatz-Blindzitate aus Modellwissen.
 - Annahmen, fehlende Unterlagen, Beweisrisiken und Fristen ausdrücklich markieren.
+
+## Vertiefung bei Bedarf
+
+- Bei `spezial-blaue-karte-gehalt-abschluss` beziehungsweise Blaue Karte: Gehalt und Abschluss: [die zusätzliche Vertiefung laden](./references/vertiefung-spezial-blaue-karte-gehalt-abschluss.md).

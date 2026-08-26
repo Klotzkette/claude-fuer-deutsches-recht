@@ -1,6 +1,6 @@
 ---
 name: geldwaesche-risikoanalyse-honorarstreit
-description: "Wenn es um Geldwaesche Risikoanalyse Honorarstreit in Berufsrecht Steuerberater geht: klärt Rolle, Ziel, Frist, Unterlagen und den passenden nächsten Fachskill; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Geldwäsche Risikoanalyse Honorarstreit: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Steuerberater: geldwaesche risikoanalyse steuerkanzlei - Kaltstart mit Faktenmatrix, Risikoampel und fehlenden Unterlagen

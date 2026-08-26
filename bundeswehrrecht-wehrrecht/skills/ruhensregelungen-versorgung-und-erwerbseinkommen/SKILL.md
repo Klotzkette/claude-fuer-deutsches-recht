@@ -1,6 +1,6 @@
 ---
 name: ruhensregelungen-versorgung-und-erwerbseinkommen
-description: "Wenn es um Ruhensregelungen: Versorgung und Erwerbseinkommen in Bundeswehrrecht und Wehrrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Ruhensregelungen: Versorgung und Erwerbseinkommen: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Ruhensregelungen: Versorgung und Erwerbseinkommen

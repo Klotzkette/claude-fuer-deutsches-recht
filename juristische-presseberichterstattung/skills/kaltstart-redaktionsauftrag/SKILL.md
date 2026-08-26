@@ -1,6 +1,6 @@
 ---
 name: kaltstart-redaktionsauftrag
-description: "Wenn es um Kaltstart Redaktionsauftrag in Juristische Presseberichterstattung geht: klärt Format, Quelle, Status, Betroffene, Redaktionsschluss und Ausgabeform; liefert sofort eine Redaktionsmatrix mit nächstem Textprodukt."
+description: "Für Kaltstart Redaktionsauftrag: routet Rolle, Frist, Unterlagen und Fachschritt; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Kaltstart Redaktionsauftrag

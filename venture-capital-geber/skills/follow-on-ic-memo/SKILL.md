@@ -1,6 +1,6 @@
 ---
 name: follow-on-ic-memo
-description: "Wenn es um Follow-on IC Memo in Venture Capital Geber geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert eine Mandantennachricht oder Entscheidungsvorlage."
+description: "Für Follow-on IC Memo: erstellt Entwurf mit Antrag, Beweis und Anlagen; Ergebnis: Schriftsatz mit Begründungs- und Anlagenlogik."
 ---
 
 # Follow-on IC Memo

@@ -1,6 +1,6 @@
 ---
 name: luft-084-luftfracht-pfaendung-planen
-description: "Wenn es um Luftfracht Pfaendung Planen in Luftrecht und Flughafenrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Luftfracht Pfändung Planen: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Luftfracht Pfaendung Planen

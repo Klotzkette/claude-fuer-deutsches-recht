@@ -1,6 +1,6 @@
 ---
 name: zag-negativauskunft-feststellung-bafin
-description: "Wenn es um ZAG-Feststellung und Negativauskunft in Bank-Rechtsabteilung geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen."
+description: "Für ZAG-Feststellung und Negativauskunft: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # ZAG-Feststellung und Negativauskunft

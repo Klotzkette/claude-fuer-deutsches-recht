@@ -1,6 +1,6 @@
 ---
 name: bankaufsichtsrecht-kwg-bankgeheimnis
-description: "Wenn es um Bankaufsichtsrecht KWG/MaRisk-Triage in Bank-Rechtsabteilung geht: klärt Rolle, Ziel, Frist, Unterlagen und den passenden nächsten Fachskill; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
+description: "Für Bankaufsichtsrecht KWG/MaRisk-Triage: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Bankaufsichtsrecht KWG/MaRisk-Triage

@@ -1,6 +1,6 @@
 ---
 name: anlagen-bilder-screenshots
-description: "Wenn es um Bilder/Screenshots als Anlagen in Anlagen zu Schriftsätzen geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Bilder/Screenshots als Anlagen: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Bilder/Screenshots als Anlagen

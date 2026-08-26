@@ -1,6 +1,6 @@
 ---
 name: registerrecht-registerzeichen-und-aktenzeichen
-description: "Wenn es um Registerzeichen verstehen in Handelsregister Praxis geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert einen Einreichungsplan mit Form-, Portal- und Nachweischeck."
+description: "Für Registerzeichen verstehen: ordnet Akte, Belege und Lücken; Ergebnis: Einreichungsplan mit Form- und Nachweischeck."
 ---
 
 # Registerzeichen verstehen

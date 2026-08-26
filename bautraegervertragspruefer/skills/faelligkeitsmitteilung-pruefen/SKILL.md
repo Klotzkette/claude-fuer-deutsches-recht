@@ -1,6 +1,6 @@
 ---
 name: faelligkeitsmitteilung-pruefen
-description: "Wenn es um Fälligkeitsmitteilung prüfen in Bauträgervertragspruefer geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Fälligkeitsmitteilung prüfen: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Fälligkeitsmitteilung prüfen

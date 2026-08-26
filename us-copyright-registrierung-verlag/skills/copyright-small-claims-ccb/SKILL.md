@@ -1,6 +1,6 @@
 ---
 name: copyright-small-claims-ccb
-description: "Wenn es um Copyright Claims Board CCB in US Copyright Act und Registrierung für deutsche Verlage geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
+description: "Für Copyright Claims Board CCB: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Copyright Claims Board CCB

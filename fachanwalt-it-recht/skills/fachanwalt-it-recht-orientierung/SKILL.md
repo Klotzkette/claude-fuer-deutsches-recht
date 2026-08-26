@@ -1,6 +1,6 @@
 ---
 name: fachanwalt-it-recht-orientierung
-description: "Wenn es um Fachanwalt für Informationstechnologierecht — Orientierung in Fachanwalt It Recht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Fachanwalt für Informationstechnologierecht — Orientierung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Fachanwalt für Informationstechnologierecht — Orientierung

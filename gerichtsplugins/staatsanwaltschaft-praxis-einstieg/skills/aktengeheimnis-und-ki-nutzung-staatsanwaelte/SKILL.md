@@ -1,6 +1,6 @@
 ---
 name: aktengeheimnis-und-ki-nutzung-staatsanwaelte
-description: "Wenn es um Aktengeheimnis und digitale Werkzeuge-Nutzung in der Staatsanwaltschaft in Staatsanwaltschaft Praxis-Einstieg geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Beweislast- und Substantiierungsmatrix."
+description: "Für Aktengeheimnis und digitale Werkzeuge-Nutzung in der Staatsanwaltschaft: ordnet Akte, Belege und Lücken; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Aktengeheimnis und KI-Nutzung in der Staatsanwaltschaft

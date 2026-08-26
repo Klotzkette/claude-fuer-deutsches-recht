@@ -1,6 +1,6 @@
 ---
 name: itr-incident-response-runbook-spezial
-description: "Wenn es um Itr Incident Response Runbook Spezial in Fachanwalt It Recht geht: rechnet Schwellen, Beträge, Varianten und Kontrollannahmen durch; liefert eine Berechnungstabelle mit Schwellen, Annahmen und Kontrollfragen."
+description: "Für Itr Incident Response Runbook Spezial: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Spezialfall Incident-Response-Runbook nach IT-SiG 2.0 und NIS2: Meldepflichten BSI, ENISA-Schwellen, Forensik, Kommunikation

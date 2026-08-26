@@ -1,6 +1,6 @@
 ---
 name: verhandlungsbrief-zu-harten-klauseln
-description: "Wenn es um Verhandlungsbrief Zu Harten Klauseln in NDA-Generator und Verschwiegenheitsvereinbarungs-Checker geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
+description: "Für Verhandlungsbrief zu Harten Klauseln: erstellt Entwurf mit Antrag, Beweis und Anlagen; Ergebnis: Schriftsatz mit Begründungs- und Anlagenlogik."
 ---
 
 # Verhandlungsbrief Zu Harten Klauseln

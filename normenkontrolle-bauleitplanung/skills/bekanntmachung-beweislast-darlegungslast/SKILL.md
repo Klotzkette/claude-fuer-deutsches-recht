@@ -1,6 +1,6 @@
 ---
 name: bekanntmachung-beweislast-darlegungslast
-description: "Wenn es um Bekanntmachung: Beweislast, Darlegungslast und Substantiierung in Normenkontrolle Bauleitplanung — Paragraf 47 VwGO geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten. Auswahlstichwort: Bekanntmachung Beweislast Darlegungslast; Arbeitsfeld: Normenkontrolle Bauleitplanung — Paragraf 47 VwGO."
+description: "Für Bekanntmachung: Beweislast, Darlegungslast und Substantiierung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Beweislast- und Substantiierungsmatrix. Fachgebiet: Normenkontrolle Bauleitplanung — Paragraf 47 VwGO. Route: bekanntmachung-beweislast-darlegungslast."
 ---
 
 # Bekanntmachung: Beweislast, Darlegungslast und Substantiierung

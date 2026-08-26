@@ -1,6 +1,6 @@
 ---
 name: bilingual-client-board-briefing
-description: "Wenn es um Bilingual Board Briefing in commercial-courts-deutschland geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert eine Chronologie mit Belegmatrix und Widerspruchsliste."
+description: "Für Bilingual Board Briefing: erstellt Entwurf mit Antrag, Beweis und Anlagen; Ergebnis: Schriftsatz mit Begründungs- und Anlagenlogik."
 ---
 
 # Bilingual Board Briefing

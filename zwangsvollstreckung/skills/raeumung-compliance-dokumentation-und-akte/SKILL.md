@@ -1,6 +1,6 @@
 ---
 name: raeumung-compliance-dokumentation-und-akte
-description: "Wenn es um Raeumung: Compliance-Dokumentation und Aktenvermerk in Zwangsvollstreckung geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen."
+description: "Für Räumung: Compliance-Dokumentation und Aktenvermerk: ordnet Akte, Belege und Lücken; Ergebnis: Schnittstellenkarte mit Zuständigkeits- und Nachweisfragen."
 ---
 
 # Raeumung: Compliance-Dokumentation und Aktenvermerk

@@ -1,6 +1,6 @@
 ---
 name: insolvenzgerichtliche-versandmappe-endfertigen
-description: "Endfertigt Eigen- und Gläubigerantrag, Schutzschrift, Forderungs- oder Anfechtungsschriftsatz im Insolvenzrecht: trennt Insolvenzgericht und streitigen Zivilprozess, liest Liquiditätsstatus, Titel, Forderungsbelege, Registerdaten und Anlagen zuerst, prüft Antrag, Glaubhaftmachung und Nummernkreis und liefert formular-, PDF- und beA-gerechte Versandordner mit Freigabekontrolle."
+description: "Endfertigt Eigen- und Gläubigerantrag, Schutzschrift, Forderungs- oder Anfechtungsschriftsatz im Insolvenzrecht: trennt Insolvenzgericht und streitigen Zivilprozess, liest Liquiditätsstatus, Titel, Forderungsbelege, Registerdaten und Anlagen zuerst, prüft Antrag, Glaubhaftmachung und Nummernkreis und liefert formular-, PDF- und beA-gerechte Versandordner."
 ---
 
 # Insolvenzgerichtliche Versandmappe endfertigen

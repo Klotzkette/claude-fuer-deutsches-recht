@@ -1,6 +1,6 @@
 ---
 name: systemtheorie-luhmann-rechtssystem-autopoiese
-description: "Wenn es um Systemtheorie Luhmanns und das Recht in Methodenlehre bürgerliches Recht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Systemtheorie Luhmanns und das Recht: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Systemtheorie Luhmanns und das Recht

@@ -1,6 +1,6 @@
 ---
 name: 077-digitale-inhalte-schlichtung-waehlen
-description: "Wenn es um Digitale Inhalte Schlichtung Wählen in Verbraucherschutzrecht Prüfer geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Digitale Inhalte Schlichtung Wählen: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt. Fachgebiet: Verbraucherschutzrecht Prüfer. Route: 077-digitale-inhalte-schlichtung-waehlen."
 ---
 
 # Digitale Inhalte Schlichtung Wählen

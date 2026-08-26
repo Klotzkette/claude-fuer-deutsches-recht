@@ -1,6 +1,6 @@
 ---
 name: dsv-sanktion-behoerdenstrategie-kooperation-oder-schweigen
-description: "Wenn es um Dsv Sanktion Behoerdenstrategie Kooperation Oder Schweigen in Datenschutzrecht geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
+description: "Für Dsv Sanktion Behördenstrategie Kooperation oder Schweigen: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Verhandlungs- oder Eskalationslinie."
 ---
 
 # Datenschutzrecht-Brückenskill: Kooperation oder Schweigen strategisch wählen: Kooperationsnutzen, Art.-83-Milderung, Aussagefreiheit, Scope-Erweiterung und Folgeklagen abwägen

@@ -1,6 +1,6 @@
 ---
 name: lehman-zertifikat-anlageberatung-risiken-provisionen
-description: "Prüft Anlageberatung zu Lehman- und vergleichbaren Zertifikaten. Rekonstruiert Beratungsvertrag, Anlegerziel, Produktstruktur, Emittentenrisiko, Kapitalschutz, Sonderkündigungsrechte, Eigengeschäft oder Kommission, Provisionen, Kausalität, Schaden und Verjährung und erstellt Beratungsfehlermatrix und Klage."
+description: "Für Beratung zu Zertifikaten prüfen: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Beratung zu Zertifikaten prüfen

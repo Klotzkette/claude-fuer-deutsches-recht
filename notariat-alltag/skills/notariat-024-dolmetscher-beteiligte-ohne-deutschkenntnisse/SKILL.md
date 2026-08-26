@@ -1,6 +1,6 @@
 ---
 name: notariat-024-dolmetscher-beteiligte-ohne-deutschkenntnisse
-description: "Wenn es um Notariat im Alltag: Dolmetscher Beteiligte ohne Deutschkenntnisse und Sprachvermerk in Notariat im Alltag geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Notariat im Alltag: Dolmetscher Beteiligte ohne Deutschkenntnisse und Sprachvermerk: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Schnittstellenkarte mit Zuständigkeits- und Nachweisfragen."
 ---
 
 # Notariat im Alltag: Dolmetscher Beteiligte ohne Deutschkenntnisse und Sprachvermerk

@@ -1,6 +1,6 @@
 ---
 name: kg-begriff-kommanditist
-description: "Wenn es um KG Begriff und Kommanditist in Handelsrecht HGB geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für KG Begriff und Kommanditist: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # KG Begriff und Kommanditist

@@ -1,6 +1,6 @@
 ---
 name: medizinprodukt-haftung-paragraf-1-prodhaftg
-description: "Wenn es um Medizinprodukt Haftung Paragraf 1 ProdHaftG in Fachanwalt Medizinrecht geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Medizinprodukt Haftung Paragraf 1 ProdHaftG: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Medizinprodukt Haftung § 1 ProdHaftG

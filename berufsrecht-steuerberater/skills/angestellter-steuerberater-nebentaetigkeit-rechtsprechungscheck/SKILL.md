@@ -1,6 +1,6 @@
 ---
 name: angestellter-steuerberater-nebentaetigkeit-rechtsprechungscheck
-description: "Wenn es um Angestellter Steuerberater Nebentaetigkeit Rechtsprechungscheck in Berufsrecht Steuerberater geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Gegenprüfung mit Fehler-, Beweis- und Fristencheck."
+description: "Für Angestellter Steuerberater Nebentätigkeit Rechtsprechungscheck: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Schnittstellenkarte mit Zuständigkeits- und Nachweisfragen."
 ---
 
 # Steuerberater: angestellter steuerberater nebentaetigkeit - Rechtsprechungscheck, stärkste Gegenansicht und Red-Team-Korrektur

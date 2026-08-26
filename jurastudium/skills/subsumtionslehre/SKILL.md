@@ -1,6 +1,6 @@
 ---
 name: subsumtionslehre
-description: "Wenn es um Subsumtionslehre in Jurastudium geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Subsumtionslehre: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Tatbestands- oder Anspruchsmatrix."
 ---
 
 # Subsumtionslehre

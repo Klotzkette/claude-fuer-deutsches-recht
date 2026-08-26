@@ -1,6 +1,6 @@
 ---
 name: strafrecht-spezial-amtstraegerbestechung-332-334-stgb
-description: "Wenn es um Strafrecht Spezial Amtstraegerbestechung 332 334 Stgb in Fachanwalt Strafrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Strafrecht Spezial Amtsträgerbestechung 332 334 Stgb: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Bestechlichkeit § 332 StGB und Bestechung § 334 StGB von Amtstraegern: Anwendungsfall Verteidigung bei Vorwurf pflichtwidriger Diensthandlung gegen Vorteil

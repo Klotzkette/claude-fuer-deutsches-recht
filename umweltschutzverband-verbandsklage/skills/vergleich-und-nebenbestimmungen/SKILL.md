@@ -1,6 +1,6 @@
 ---
 name: vergleich-und-nebenbestimmungen
-description: "Wenn es um Vergleich Und Nebenbestimmungen in Umweltschutzverband Verbandsklage geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
+description: "Für Vergleich und Nebenbestimmungen: entwickelt Ziel, Vergleich und Eskalation; Ergebnis: Verhandlungs- oder Eskalationslinie."
 ---
 
 # Vergleich Und Nebenbestimmungen

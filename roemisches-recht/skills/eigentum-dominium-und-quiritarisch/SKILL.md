@@ -1,6 +1,6 @@
 ---
 name: eigentum-dominium-und-quiritarisch
-description: "Wenn es um Eigentum Dominium Und Quiritarisch in Römisches Recht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Eigentum Dominium und Quiritarisch: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Eigentum Dominium Und Quiritarisch

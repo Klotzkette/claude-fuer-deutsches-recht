@@ -1,6 +1,6 @@
 ---
 name: kv-080-qualitaetsgate-krankenversicherungsakte
-description: "Wenn es um Kv 080 Qualitaetsgate Krankenversicherungsakte in Krankenkassenrecht und Krankenversicherung geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Kv 080 Qualitätsgate Krankenversicherungsakte: ordnet Akte, Belege und Lücken; Ergebnis: Gegenprüfung mit Beweis- und Fristencheck."
 ---
 
 # Qualitätssicherung und Schlusscheck für Krankenversicherungsakte: vollständige Unterlagenprüfung, Fristen, Rechtswegerklärung, Dokumentationslücken und Handlungsempfehlungen.

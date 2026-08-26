@@ -1,6 +1,6 @@
 ---
 name: forderungsschreiben-airline
-description: "Wenn es um Forderungsschreiben: Formular, Portal und Einreichungslogik in Fluggastrechte geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. Auswahlstichwort: Forderungsschreiben Airline; Arbeitsfeld: Fluggastrechte."
+description: "Für Forderungsschreiben: Formular, Portal und Einreichungslogik: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Forderungsschreiben: Formular, Portal und Einreichungslogik

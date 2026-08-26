@@ -1,6 +1,6 @@
 ---
 name: telefon-konfiguration
-description: "Wenn es um Telefon-Konfiguration in mandantenanfragen-assistent geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Telefon-Konfiguration: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Telefon-Konfiguration

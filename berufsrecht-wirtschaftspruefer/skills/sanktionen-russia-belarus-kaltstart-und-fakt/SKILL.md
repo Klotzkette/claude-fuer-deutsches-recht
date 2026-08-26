@@ -1,6 +1,6 @@
 ---
 name: sanktionen-russia-belarus-kaltstart-und-fakt
-description: "Wenn es um Sanktionen Russia Belarus Kaltstart Und Fakt in Berufsrecht Wirtschaftsprüfer geht: klärt Rolle, Ziel, Frist, Unterlagen und den passenden nächsten Fachskill; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Sanktionen Russia Belarus Kaltstart und Fakt: routet Rolle, Frist, Unterlagen und Fachschritt; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Wirtschaftsprüfer: sanktionen russia belarus - Kaltstart mit Faktenmatrix, Risikoampel und fehlenden Unterlagen

@@ -1,6 +1,6 @@
 ---
 name: fbp-integrierte-planung-bauleiter
-description: "Wenn es um FBP: Integrierte Planung Bauleiter in Fortbestehensprognose geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für FBP: Integrierte Planung Bauleiter: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # FBP: Integrierte Planung Bauleiter

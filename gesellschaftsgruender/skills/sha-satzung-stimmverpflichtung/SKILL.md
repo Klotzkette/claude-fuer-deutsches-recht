@@ -1,6 +1,6 @@
 ---
 name: sha-satzung-stimmverpflichtung
-description: "Wenn es um Stimmverpflichtung SHA gegenüber Satzung in gesellschaftsgründer — Gründungsassistent für deutsche geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Stimmverpflichtung SHA gegenüber Satzung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Stimmverpflichtung SHA <-> Satzung

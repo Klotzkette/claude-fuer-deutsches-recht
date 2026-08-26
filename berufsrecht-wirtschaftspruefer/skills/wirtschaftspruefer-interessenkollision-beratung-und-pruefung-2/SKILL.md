@@ -1,6 +1,6 @@
 ---
 name: wirtschaftspruefer-interessenkollision-beratung-und-pruefung-2
-description: "Wenn es um Wirtschaftspruefer Interessenkollision Beratung Und Prüfung 2 in Berufsrecht Wirtschaftsprüfer geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Verhandlungs- oder Eskalationslinie mit Optionen."
+description: "Für Wirtschaftsprüfer Interessenkollision Beratung und Prüfung 2: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Tatbestands- oder Anspruchsmatrix."
 ---
 
 # Wirtschaftsprüfer: interessenkollision beratung und pruefung - Kammerantwort mit Verfahrensstrategie, Tonlage und Belegplan

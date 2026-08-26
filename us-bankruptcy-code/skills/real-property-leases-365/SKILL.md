@@ -1,6 +1,6 @@
 ---
 name: real-property-leases-365
-description: "Wenn es um Real Property Leases Paragraf 365 in US Bankruptcy Code geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Real Property Leases Paragraf 365: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Real Property Leases § 365

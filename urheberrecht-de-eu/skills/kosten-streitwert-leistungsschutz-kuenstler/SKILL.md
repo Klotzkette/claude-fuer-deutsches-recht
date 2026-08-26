@@ -1,6 +1,6 @@
 ---
 name: kosten-streitwert-leistungsschutz-kuenstler
-description: "Wenn es um Kosten, Streitwert und Wirtschaftlichkeit in Urheberrecht DE EU geht: entwickelt Verhandlungsziel, Vergleichskorridor und Eskalationspfad; liefert eine Verhandlungs- oder Eskalationslinie mit Optionen."
+description: "Für Kosten, Streitwert und Wirtschaftlichkeit: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Kosten, Streitwert und Wirtschaftlichkeit

@@ -1,6 +1,6 @@
 ---
 name: allgemein
-description: "Wenn es um Normenkontrollrat-NKR — Einstieg und Routing in Normenkontrollrat (NKR) — Prüfung von Gesetzentwuerfen geht: klärt Rolle, Ziel, Frist, Unterlagen und den passenden nächsten Fachskill; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Normenkontrollrat-NKR — Einstieg und Routing: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Normenkontrollrat-NKR — Einstieg und Routing

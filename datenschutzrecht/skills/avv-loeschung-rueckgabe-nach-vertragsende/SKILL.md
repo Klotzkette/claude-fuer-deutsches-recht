@@ -1,6 +1,6 @@
 ---
 name: avv-loeschung-rueckgabe-nach-vertragsende
-description: "Wenn es um Loeschung und Rueckgabe nach Vertragsende – Art. 28 Abs. 3 lit. g DSGVO in Datenschutzrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Löschung und Rückgabe nach Vertragsende – Art. 28 Abs. 3 lit. g DSGVO: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Loeschung und Rueckgabe nach Vertragsende – Art. 28 Abs. 3 lit. g DSGVO

@@ -1,6 +1,6 @@
 ---
 name: musterklauseln-it-vertrag
-description: "Wenn es um Musterklauseln IT-Vertrag in diesem Spezialbereich geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Beweislast- und Substantiierungsmatrix."
+description: "Für Musterklauseln IT-Vertrag: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Musterklauseln IT-Vertrag

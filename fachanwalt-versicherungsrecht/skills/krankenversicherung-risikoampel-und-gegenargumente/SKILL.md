@@ -1,6 +1,6 @@
 ---
 name: krankenversicherung-risikoampel-und-gegenargumente
-description: "Wenn es um Krankenversicherung: Risikoampel, Gegenargumente und Verteidigungslinien in Fachanwalt Versicherungsrecht geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Krankenversicherung: Risikoampel, Gegenargumente und Verteidigungslinien: prüft Ergebnis, Beweislast und Gegenposition; Ergebnis: Fristen- und Risikoampel."
 ---
 
 # Krankenversicherung: Risikoampel, Gegenargumente und Verteidigungslinien

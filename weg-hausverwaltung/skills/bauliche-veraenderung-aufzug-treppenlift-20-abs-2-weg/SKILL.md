@@ -1,6 +1,6 @@
 ---
 name: bauliche-veraenderung-aufzug-treppenlift-20-abs-2-weg
-description: "Wenn es um Aufzug-Nachrüstung und Treppenlift als privilegierte bauliche Veränderung nach Paragraf 20 Abs in WEG- und Hausverwaltung geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Aufzug-Nachrüstung und Treppenlift als privilegierte bauliche Veränderung nach Paragraf 20 Abs: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Aufzug-Nachrüstung und Treppenlift als privilegierte bauliche Veränderung nach § 20 Abs

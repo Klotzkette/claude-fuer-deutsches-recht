@@ -1,6 +1,6 @@
 ---
 name: arbeitszeugnis-negative-zahlen-schwellenwerte-berechnung
-description: "Wenn es um Negative: Zahlen, Schwellenwerte und Berechnung in Arbeitszeugnis-Analyse geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Negative: Zahlen, Schwellenwerte und Berechnung: rechnet Beträge, Schwellen und Varianten; Ergebnis: Berechnungstabelle mit Annahmen und Kontrollfragen."
 ---
 
 # Negative: Zahlen, Schwellenwerte und Berechnung

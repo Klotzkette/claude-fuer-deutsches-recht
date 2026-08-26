@@ -1,6 +1,6 @@
 ---
 name: verl-024-druckvertrag-papier-krise-lieferverzug
-description: "Wenn es um Verlagsrecht: Druckvertrag Papier Krise Lieferverzug in Verlagsrecht und Buchpreisbindung geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Verlagsrecht: Druckvertrag Papier Krise Lieferverzug: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Verlagsrecht: Druckvertrag Papier Krise Lieferverzug

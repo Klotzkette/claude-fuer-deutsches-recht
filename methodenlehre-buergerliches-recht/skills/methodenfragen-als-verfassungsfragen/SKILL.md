@@ -1,6 +1,6 @@
 ---
 name: methodenfragen-als-verfassungsfragen
-description: "Wenn es um Methodenfragen als Verfassungsfragen in Methodenlehre bürgerliches Recht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Methodenfragen als Verfassungsfragen: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Methodenfragen als Verfassungsfragen

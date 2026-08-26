@@ -1,6 +1,6 @@
 ---
 name: kundgebung-stationaer-landesrecht-behoerde
-description: "Wenn es um Der Ort spricht mit in Versammlungsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Der Ort spricht mit: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Der Ort spricht mit

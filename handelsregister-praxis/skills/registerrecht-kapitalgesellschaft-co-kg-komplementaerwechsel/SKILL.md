@@ -1,6 +1,6 @@
 ---
 name: registerrecht-kapitalgesellschaft-co-kg-komplementaerwechsel
-description: "Wenn es um Komplementärwechsel in Handelsregister Praxis geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Komplementärwechsel: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Einreichungsplan mit Form- und Nachweischeck."
 ---
 
 # Komplementärwechsel

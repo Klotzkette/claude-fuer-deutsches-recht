@@ -1,6 +1,6 @@
 ---
 name: actio-pauliana-glaeubigeranfechtung
-description: "Wenn es um Rom 115 Actio Pauliana Gläubigeranfechtung in Römisches Recht geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
+description: "Für Rom 115 Actio Pauliana Gläubigeranfechtung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Schnittstellenkarte mit Zuständigkeits- und Nachweisfragen."
 ---
 
 # Rom 115 Actio Pauliana Gläubigeranfechtung

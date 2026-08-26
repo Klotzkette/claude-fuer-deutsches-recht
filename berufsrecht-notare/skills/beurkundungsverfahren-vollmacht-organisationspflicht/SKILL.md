@@ -1,6 +1,6 @@
 ---
 name: beurkundungsverfahren-vollmacht-organisationspflicht
-description: "Wenn es um Beurkundungsverfahren Vollmacht Organisationspflicht in Berufsrecht Notare geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Beurkundungsverfahren Vollmacht Organisationspflicht: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Schnittstellenkarte mit Zuständigkeits- und Nachweisfragen."
 ---
 
 # Notare: beurkundungsverfahren vollmacht - Organisationspflichten, Prävention, Team-Anweisung und Fristenkontrolle

@@ -1,6 +1,6 @@
 ---
 name: verfahren-durchsuchung-nachpruefung-dawn-raid
-description: "Wenn es um Verfahren: Durchsuchung Nachprüfung Dawn Raid in Bundesnetzagentur-Verfahren geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Tatbestands- oder Anspruchsmatrix mit Gegenargumenten."
+description: "Für Verfahren: Durchsuchung Nachprüfung Dawn Raid: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Tatbestands- oder Anspruchsmatrix."
 ---
 
 # Verfahren: Durchsuchung Nachprüfung Dawn Raid

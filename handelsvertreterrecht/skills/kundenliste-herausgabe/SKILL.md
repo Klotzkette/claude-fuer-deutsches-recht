@@ -1,6 +1,6 @@
 ---
 name: kundenliste-herausgabe
-description: "Wenn es um Kundenliste Herausgabe in Handelsvertreterrecht und Vertriebsverträge geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Kundenliste Herausgabe: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Kundenliste Herausgabe

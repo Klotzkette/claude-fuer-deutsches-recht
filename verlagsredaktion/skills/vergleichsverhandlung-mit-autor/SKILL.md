@@ -1,6 +1,6 @@
 ---
 name: vergleichsverhandlung-mit-autor
-description: "Wenn es um Vergleichsverhandlung mit Autor in Verlagsredaktion geht: entwickelt Verhandlungsziel, Vergleichskorridor und Eskalationspfad; liefert eine Verhandlungs- oder Eskalationslinie mit Optionen."
+description: "Für Vergleichsverhandlung mit Autor: entwickelt Ziel, Vergleich und Eskalation; Ergebnis: Verhandlungs- oder Eskalationslinie."
 ---
 
 # Vergleichsverhandlung mit Autor

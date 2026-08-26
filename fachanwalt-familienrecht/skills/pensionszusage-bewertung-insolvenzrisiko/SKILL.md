@@ -1,6 +1,6 @@
 ---
 name: pensionszusage-bewertung-insolvenzrisiko
-description: "Wenn es um Pensionszusage Bewertung Insolvenzrisiko in Fachanwalt Familienrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Pensionszusage Bewertung Insolvenzrisiko: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Pensionszusage Bewertung Insolvenzrisiko: prüft die einschlägigen Voraussetzungen, Dokumente, Risiken und Ausnahmen

@@ -1,6 +1,6 @@
 ---
 name: schulung-quellenkarte
-description: "Wenn es um Schulung Quellenkarte in Geldwäscheprävention, AML und KYC geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Tatbestands- oder Anspruchsmatrix mit Gegenargumenten."
+description: "Für Schulung Quellenkarte: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Schulung Quellenkarte

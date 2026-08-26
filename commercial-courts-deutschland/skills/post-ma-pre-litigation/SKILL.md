@@ -1,6 +1,6 @@
 ---
 name: post-ma-pre-litigation
-description: "Wenn es um Post-M&A Warranty Claims in commercial-courts-deutschland geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen."
+description: "Für Post-M&A Warranty Claims: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Post-M&A Warranty Claims

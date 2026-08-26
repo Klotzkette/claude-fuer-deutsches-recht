@@ -1,6 +1,6 @@
 ---
 name: ins-012-vorstand-aufsichtsrat
-description: "Wenn es um Vorstand und Aufsichtsrat in Insiderrecht Compliance geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Vorstand und Aufsichtsrat: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Vorstand und Aufsichtsrat

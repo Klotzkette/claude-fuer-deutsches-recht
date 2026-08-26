@@ -1,6 +1,6 @@
 ---
 name: kanzleisitz-und-zweigstelle-kaltstart-und-faktenmatrix
-description: "Wenn es um Kanzleisitz Und Zweigstelle Kaltstart Und Faktenmatrix in Berufsrecht Anwälte geht: klärt Rolle, Ziel, Frist, Unterlagen und den passenden nächsten Fachskill; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Kanzleisitz und Zweigstelle Kaltstart und Faktenmatrix: routet Rolle, Frist, Unterlagen und Fachschritt; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Anwälte: kanzleisitz und zweigstelle - Kaltstart mit Faktenmatrix, Risikoampel und fehlenden Unterlagen

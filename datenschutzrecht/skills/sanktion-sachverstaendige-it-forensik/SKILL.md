@@ -1,6 +1,6 @@
 ---
 name: sanktion-sachverstaendige-it-forensik
-description: "Wenn es um IT-Forensik und Sachverständige in Datenschutzrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für IT-Forensik und Sachverständige: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt. Fachgebiet: Datenschutzrecht."
 ---
 
 # IT-Forensik und Sachverständige

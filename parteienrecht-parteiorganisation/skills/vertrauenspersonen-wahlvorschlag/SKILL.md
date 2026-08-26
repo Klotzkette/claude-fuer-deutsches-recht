@@ -1,6 +1,6 @@
 ---
 name: vertrauenspersonen-wahlvorschlag
-description: "Wenn es um Vertrauenspersonen Wahlvorschlag in Parteienrecht und Parteiorganisation geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Vertrauenspersonen Wahlvorschlag: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Vertrauenspersonen Wahlvorschlag

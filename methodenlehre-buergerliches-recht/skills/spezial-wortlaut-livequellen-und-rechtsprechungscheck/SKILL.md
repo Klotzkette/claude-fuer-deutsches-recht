@@ -1,6 +1,6 @@
 ---
 name: spezial-wortlaut-livequellen-und-rechtsprechungscheck
-description: "Wenn es um Wortlaut: Livequellen- und Rechtsprechungscheck in Methodenlehre bürgerliches Recht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Wortlaut: Livequellen- und Rechtsprechungscheck: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Wortlaut: Livequellen- und Rechtsprechungscheck

@@ -1,6 +1,6 @@
 ---
 name: prodr-machinery-produktrueckruf
-description: "Wenn es um ProdR: Machinery Regulation in Produkthaftung und Produktrecht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen."
+description: "Für ProdR: Machinery Regulation: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # ProdR: Machinery Regulation

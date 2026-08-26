@@ -1,6 +1,6 @@
 ---
 name: fachanwalt-bau-architektenrecht-werkmangel-pruefen
-description: "Wenn es um Werkmangel prüfen — Bau- und Werkvertragsrecht in Fachanwalt Bau Architektenrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Werkmangel prüfen — Bau- und Werkvertragsrecht: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Werkmangel prüfen — Bau- und Werkvertragsrecht

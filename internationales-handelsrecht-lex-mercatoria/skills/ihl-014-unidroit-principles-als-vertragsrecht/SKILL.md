@@ -1,6 +1,6 @@
 ---
 name: ihl-014-unidroit-principles-als-vertragsrecht
-description: "Wenn es um Unidroit Principles Als Vertragsrecht in Internationales Handelsrecht und Lex Mercatoria geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Unidroit Principles als Vertragsrecht: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Unidroit Principles Als Vertragsrecht

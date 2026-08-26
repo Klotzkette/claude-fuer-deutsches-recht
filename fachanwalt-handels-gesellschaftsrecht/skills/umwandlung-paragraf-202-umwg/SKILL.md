@@ -1,6 +1,6 @@
 ---
 name: umwandlung-paragraf-202-umwg
-description: "Wenn es um Umwandlung Paragraf 202 UmwG in Fachanwalt Handels- und Gesellschaftsrecht geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Umwandlung Paragraf 202 UmwG: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Umwandlung § 202 UmwG

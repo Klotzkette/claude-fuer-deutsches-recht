@@ -1,6 +1,6 @@
 ---
 name: output-memo-und-mandantenbrief
-description: "Wenn es um Output: Memo und Mandantenbrief in Subsumtions-Prüfer geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
+description: "Für Output: Memo und Mandantenbrief: erstellt Entwurf mit Antrag, Beweis und Anlagen; Ergebnis: Schriftsatz mit Begründungs- und Anlagenlogik."
 ---
 
 # Output: Memo und Mandantenbrief

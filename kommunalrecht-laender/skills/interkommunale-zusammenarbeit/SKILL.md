@@ -1,6 +1,6 @@
 ---
 name: interkommunale-zusammenarbeit
-description: "Wenn es um Interkommunale Zusammenarbeit in Kommunalrecht der Länder geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Interkommunale Zusammenarbeit: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Interkommunale Zusammenarbeit

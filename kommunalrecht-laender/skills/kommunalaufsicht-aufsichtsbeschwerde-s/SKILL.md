@@ -1,6 +1,6 @@
 ---
 name: kommunalaufsicht-aufsichtsbeschwerde-s
-description: "Wenn es um Kommunalaufsicht Aufsichtsbeschwerde S in Kommunalrecht der Länder geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Kommunalaufsicht Aufsichtsbeschwerde S: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Kommunalaufsicht Aufsichtsbeschwerde S

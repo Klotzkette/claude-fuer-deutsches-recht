@@ -1,6 +1,6 @@
 ---
 name: gesellschafterliste-legitimation-und-widerspruch
-description: "Wenn es um Gesellschafterliste, Legitimation und Widerspruch in Gesellschaftsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Gesellschafterliste, Legitimation und Widerspruch: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 # Gesellschafterliste, Legitimation und Widerspruch
 

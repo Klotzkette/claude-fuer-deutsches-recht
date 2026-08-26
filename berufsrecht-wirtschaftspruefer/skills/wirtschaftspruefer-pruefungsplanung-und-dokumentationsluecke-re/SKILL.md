@@ -1,6 +1,6 @@
 ---
 name: wirtschaftspruefer-pruefungsplanung-und-dokumentationsluecke-re
-description: "Wenn es um Wirtschaftspruefer Pruefungsplanung Und Dokumentationsluecke Re in Berufsrecht Wirtschaftsprüfer geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Gegenprüfung mit Fehler-, Beweis- und Fristencheck."
+description: "Für Wirtschaftsprüfer Prüfungsplanung und Dokumentationslücke Re: ordnet Akte, Belege und Lücken; Ergebnis: Tatbestands- oder Anspruchsmatrix."
 ---
 
 # Wirtschaftsprüfer: pruefungsplanung und dokumentationsluecke - Rechtsprechungscheck, stärkste Gegenansicht und Red-Team-Korrektur

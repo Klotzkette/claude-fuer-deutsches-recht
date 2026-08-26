@@ -1,6 +1,6 @@
 ---
 name: hausarbeit-workflow-start
-description: "Wenn es um Master-Hausarbeiten- und Seminararbeitenmacher in hausarbeitenmacher — Didaktisches Plugin für juristische geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Master-Hausarbeiten- und Seminararbeitenmacher: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Master-Hausarbeiten- und Seminararbeitenmacher

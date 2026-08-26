@@ -1,6 +1,6 @@
 ---
 name: aussenwirtschaft-embargo-iran-myanmar
-description: "Wenn es um Embargo Iran: Nukleare Sanktionen und Doppelverwendungsrisiken in Außenwirtschaft, Sanktionen, Zoll und CBAM geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Embargo Iran: Nukleare Sanktionen und Doppelverwendungsrisiken: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Embargo Iran: Nukleare Sanktionen und Doppelverwendungsrisiken

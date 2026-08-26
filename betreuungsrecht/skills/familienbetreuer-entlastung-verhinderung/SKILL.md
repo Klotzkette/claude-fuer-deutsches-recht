@@ -1,6 +1,6 @@
 ---
 name: familienbetreuer-entlastung-verhinderung
-description: "Wenn es um Familienbetreuer: Entlastung, Verhinderung, Wechsel in Betreuungsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Familienbetreuer: Entlastung, Verhinderung, Wechsel: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Schnittstellenkarte mit Zuständigkeits- und Nachweisfragen. Fachgebiet: Betreuungsrecht. Route: familienbetreuer-entlastung-verhinderung."
 ---
 
 # Familienbetreuer: Entlastung, Verhinderung, Wechsel

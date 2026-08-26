@@ -1,6 +1,6 @@
 ---
 name: haftungsausschluss-haftungsbegrenzung
-description: "Wenn es um Haftungsausschluss und Haftungsbegrenzung in diesem Spezialbereich geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Beweislast- und Substantiierungsmatrix."
+description: "Für Haftungsausschluss und Haftungsbegrenzung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Haftungsausschluss und Haftungsbegrenzung

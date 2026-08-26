@@ -1,6 +1,6 @@
 ---
 name: vergleich-vorschlag-101-sgg
-description: "Wenn es um Der Vergleich im SG-Verfahren — Paragraf 101 SGG in selbstvertreter-sozialgericht geht: entwickelt Verhandlungsziel, Vergleichskorridor und Eskalationspfad; liefert eine Verhandlungs- oder Eskalationslinie mit Optionen."
+description: "Für Der Vergleich im SG-Verfahren — Paragraf 101 SGG: entwickelt Ziel, Vergleich und Eskalation; Ergebnis: Verhandlungs- oder Eskalationslinie."
 ---
 
 # Der Vergleich im SG-Verfahren — § 101 SGG

@@ -1,6 +1,6 @@
 ---
 name: konto-kuendigung-sperre
-description: "Wenn es um Konto Kündigung Sperre in AGB-Recht-Prüfer geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Konto Kündigung Sperre: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Konto Kündigung Sperre

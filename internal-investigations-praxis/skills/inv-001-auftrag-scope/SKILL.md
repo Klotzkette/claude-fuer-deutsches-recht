@@ -1,6 +1,6 @@
 ---
 name: inv-001-auftrag-scope
-description: "Wenn es um Untersuchungsauftrag und Scope in Internal Investigations Praxis geht: entwickelt Verhandlungsziel, Vergleichskorridor und Eskalationspfad; liefert eine Verhandlungs- oder Eskalationslinie mit Optionen. Auswahlstichwort: Inv 001 Auftrag Scope; Arbeitsfeld: Internal Investigations Praxis."
+description: "Für Untersuchungsauftrag und Scope: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt. Fachgebiet: Internal Investigations Praxis. Route: inv-001-auftrag-scope."
 ---
 
 # Untersuchungsauftrag und Scope

@@ -1,6 +1,6 @@
 ---
 name: pension-und-gesetzliche-rente-55-beamtvg
-description: "Wenn es um pension-und-gesetzliche-rente-55-beamtvg in Beamtenrecht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen."
+description: "Für pension-und-gesetzliche-rente-55-beamtvg: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # pension-und-gesetzliche-rente-55-beamtvg

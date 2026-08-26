@@ -1,6 +1,6 @@
 ---
 name: exceptiones-repliken-interdicta-praxis
-description: "Wenn es um Exceptiones und Repliken im Formularprozess in Römisches Recht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Exceptiones und Repliken im Formularprozess: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Exceptiones und Repliken im Formularprozess

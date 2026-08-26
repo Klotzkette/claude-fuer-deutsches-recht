@@ -1,6 +1,6 @@
 ---
 name: energie-regulierungsakte-ladesaeulen-elektromobilitaet-stellungn
-description: "Wenn es um Energie-Regulierungsakte: Ladesäulen Elektromobilität — Stellungnahme-Entwurf in Bundesnetzagentur-Verfahren geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen."
+description: "Für Energie-Regulierungsakte: Ladesäulen Elektromobilität — Stellungnahme-Entwurf: ordnet Akte, Belege und Lücken; Ergebnis: Schnittstellenkarte mit Zuständigkeits- und Nachweisfragen."
 ---
 
 # Energie-Regulierungsakte: Ladesäulen Elektromobilität — Stellungnahme-Entwurf

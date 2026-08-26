@@ -1,6 +1,6 @@
 ---
 name: owi-004-bussgeldbescheid-pruefen
-description: "Wenn es um Bussgeldbescheid Pruefen in Ordnungswidrigkeitenrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Bussgeldbescheid Prüfen: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt. Fachgebiet: Ordnungswidrigkeitenrecht. Route: owi-004-bussgeldbescheid-pruefen."
 ---
 
 # Bussgeldbescheid Pruefen

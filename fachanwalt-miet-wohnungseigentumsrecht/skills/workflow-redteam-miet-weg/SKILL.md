@@ -1,6 +1,6 @@
 ---
 name: workflow-redteam-miet-weg
-description: "Wenn es um Red-Team Miet/WEG: Prüfungslinie für Miet- und WEG-Recht in Fachanwalt Miet- und Wohnungseigentumsrecht geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Chronologie mit Belegmatrix und Widerspruchsliste."
+description: "Für Red-Team Miet/WEG: Prüfungslinie für Miet- und WEG-Recht: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Red-Team Miet/WEG: Prüfungslinie für Miet- und WEG-Recht

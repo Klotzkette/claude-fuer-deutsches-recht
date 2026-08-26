@@ -1,6 +1,6 @@
 ---
 name: legal-behoerden-gerichts-registerweg
-description: "Wenn es um Legal: Behörden-, Gerichts- oder Registerweg in diesem Spezialbereich geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Legal: Behörden-, Gerichts- oder Registerweg: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Einreichungsplan mit Form- und Nachweischeck. Fachgebiet: anwaltlichem Berufsrecht und Vertragsprüfung. Route: legal-behoerden-gerichts-registerweg."
 ---
 
 # Legal: Behörden-, Gerichts- oder Registerweg

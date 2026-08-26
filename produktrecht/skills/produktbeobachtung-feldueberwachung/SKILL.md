@@ -1,6 +1,6 @@
 ---
 name: produktbeobachtung-feldueberwachung
-description: "Wenn es um Produktbeobachtung Feldueberwachung in Produkthaftung und Produktrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Produktbeobachtung Feldüberwachung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Produktbeobachtung Feldueberwachung

@@ -1,6 +1,6 @@
 ---
 name: drg-110-rechtshistorische-biografiekritik
-description: "Wenn es um Rechtshistorische Biografiekritik in Deutsche Rechtsgeschichte geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen. Auswahlstichwort: Drg 110 Rechtshistorische Biografiekritik; Arbeitsfeld: Deutsche Rechtsgeschichte."
+description: "Für Rechtshistorische Biografiekritik: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt. Fachgebiet: Deutsche Rechtsgeschichte. Route: drg-110-rechtshistorische-biografiekritik."
 ---
 # Rechtshistorische Biografiekritik
 

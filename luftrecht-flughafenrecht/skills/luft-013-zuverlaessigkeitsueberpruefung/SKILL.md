@@ -1,6 +1,6 @@
 ---
 name: luft-013-zuverlaessigkeitsueberpruefung
-description: "Wenn es um Zuverlaessigkeitsueberpruefung in Luftrecht und Flughafenrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Zuverlässigkeitsüberprüfung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Tatbestands- oder Anspruchsmatrix."
 ---
 
 # Zuverlaessigkeitsueberpruefung

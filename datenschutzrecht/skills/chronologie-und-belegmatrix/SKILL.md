@@ -1,6 +1,6 @@
 ---
 name: chronologie-und-belegmatrix
-description: "Wenn es um Chronologie und Belegmatrix in Datenschutzrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Chronologie mit Belegmatrix und Widerspruchsliste."
+description: "Für Chronologie und Belegmatrix: ordnet Akte, Belege und Lücken; Ergebnis: Chronologie mit Beleg- und Widerspruchsmatrix. Fachgebiet: Datenschutzrecht."
 ---
 
 # Chronologie und Belegmatrix

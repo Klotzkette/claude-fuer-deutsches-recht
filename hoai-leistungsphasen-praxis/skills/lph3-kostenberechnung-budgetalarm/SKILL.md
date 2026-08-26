@@ -1,6 +1,6 @@
 ---
 name: lph3-kostenberechnung-budgetalarm
-description: "Wenn es um LPH 3 Kostenberechnung Und Budgetalarm in HOAI Leistungsphasen Praxis geht: rechnet Schwellen, Beträge, Varianten und Kontrollannahmen durch; liefert eine Berechnungstabelle mit Schwellen, Annahmen und Kontrollfragen."
+description: "Für LPH 3 Kostenberechnung und Budgetalarm: rechnet Beträge, Schwellen und Varianten; Ergebnis: Berechnungstabelle mit Annahmen und Kontrollfragen."
 ---
 
 # LPH 3 Kostenberechnung Und Budgetalarm

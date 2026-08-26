@@ -1,6 +1,6 @@
 ---
 name: normgeber-verhandlung-vergleich-und-eskalation
-description: "Wenn es um Normgeber: Verhandlung, Vergleich und Eskalation in Legistik-Werkstatt geht: entwickelt Verhandlungsziel, Vergleichskorridor und Eskalationspfad; liefert eine Verhandlungs- oder Eskalationslinie mit Optionen."
+description: "Für Normgeber: Verhandlung, Vergleich und Eskalation: entwickelt Ziel, Vergleich und Eskalation; Ergebnis: Verhandlungs- oder Eskalationslinie. Fachgebiet: Legistik-Werkstatt. Route: normgeber-verhandlung-vergleich-und-eskalation."
 ---
 
 # Normgeber: Verhandlung, Vergleich und Eskalation

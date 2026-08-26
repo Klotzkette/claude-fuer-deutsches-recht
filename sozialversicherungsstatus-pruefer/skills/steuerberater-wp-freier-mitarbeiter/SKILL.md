@@ -1,6 +1,6 @@
 ---
 name: steuerberater-wp-freier-mitarbeiter
-description: "Wenn es um Freier Mitarbeiter Steuerberater/WP in Sozialversicherungsstatus-Prüfer / DRV-Statusfeststellung geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen."
+description: "Für Freier Mitarbeiter Steuerberater/WP: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Schnittstellenkarte mit Zuständigkeits- und Nachweisfragen."
 ---
 
 # Freier Mitarbeiter Steuerberater/WP

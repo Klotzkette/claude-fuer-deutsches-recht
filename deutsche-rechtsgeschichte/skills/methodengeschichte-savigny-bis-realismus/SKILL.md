@@ -1,6 +1,6 @@
 ---
 name: methodengeschichte-savigny-bis-realismus
-description: "Wenn es um Methodengeschichte: Savigny bis Rechtsrealismus in Deutsche Rechtsgeschichte geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Methodengeschichte: Savigny bis Rechtsrealismus: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Methodengeschichte: Savigny bis Rechtsrealismus

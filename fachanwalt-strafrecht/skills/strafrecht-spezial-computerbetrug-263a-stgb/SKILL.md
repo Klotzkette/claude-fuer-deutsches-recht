@@ -1,6 +1,6 @@
 ---
 name: strafrecht-spezial-computerbetrug-263a-stgb
-description: "Wenn es um Strafrecht Spezial Computerbetrug 263a Stgb in Fachanwalt Strafrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Strafrecht Spezial Computerbetrug 263a Stgb: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Computerbetrug § 263a StGB: Anwendungsfall Verteidigung bei Manipulation EC- und Kreditkarte, Skimming, Phishing, missbraeuchliche Online-Banking-Nutzung, Crypto-Wallet-Drainage

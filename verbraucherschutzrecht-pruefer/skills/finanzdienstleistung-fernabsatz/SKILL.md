@@ -1,6 +1,6 @@
 ---
 name: finanzdienstleistung-fernabsatz
-description: "Wenn es um Finanzdienstleistung Fernabsatz in Verbraucherschutzrecht Prüfer geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Finanzdienstleistung Fernabsatz: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Finanzdienstleistung Fernabsatz

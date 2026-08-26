@@ -1,6 +1,6 @@
 ---
 name: plakat-vandalismus-beweissicherung
-description: "Wenn es um Plakat Vandalismus Beweissicherung in Wahlkampfrecht Praxis geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Plakat Vandalismus Beweissicherung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Beweislast- und Substantiierungsmatrix."
 ---
 
 # Plakat Vandalismus Beweissicherung

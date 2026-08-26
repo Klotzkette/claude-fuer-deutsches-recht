@@ -1,6 +1,6 @@
 ---
 name: wer-zeugenliste
-description: "Wenn es um Sachverhalt: wer, was, wann, wo, wie in Strafanzeige-Vorbereiter geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen."
+description: "Für Sachverhalt: wer, was, wann, wo, wie: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Schnittstellenkarte mit Zuständigkeits- und Nachweisfragen."
 ---
 
 # Sachverhalt: wer, was, wann, wo, wie

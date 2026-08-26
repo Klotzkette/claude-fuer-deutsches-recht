@@ -1,6 +1,6 @@
 ---
 name: chn-033-battery-ev-solar-supply-chain
-description: "Wenn es um Battery Ev Solar Supply Chain in China-Wirtschaftsverkehr geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Battery Ev Solar Supply Chain: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Battery Ev Solar Supply Chain

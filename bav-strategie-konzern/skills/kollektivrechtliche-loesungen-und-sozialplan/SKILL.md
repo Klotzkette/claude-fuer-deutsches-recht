@@ -1,6 +1,6 @@
 ---
 name: kollektivrechtliche-loesungen-und-sozialplan
-description: "Wenn es um Kollektivrechtliche Lösungen und Sozialplan bei BAV-Restrukturierungen in BAV Strategie Konzern — Treuenfels Yamamoto Rechtsanwälte geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Kollektivrechtliche Lösungen und Sozialplan bei BAV-Restrukturierungen: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Kollektivrechtliche Lösungen und Sozialplan bei BAV-Restrukturierungen

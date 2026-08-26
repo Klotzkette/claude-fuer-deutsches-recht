@@ -1,6 +1,6 @@
 ---
 name: vorstands-und-gf-briefing
-description: "Wenn es um Vorstands- und Geschäftsführungsbriefing in Datenschutz-Sanktionsverfahren und Verteidigung geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Vorstands- und Geschäftsführungsbriefing: erstellt Entwurf mit Antrag, Beweis und Anlagen; Ergebnis: Schriftsatz mit Begründungs- und Anlagenlogik."
 ---
 
 # Vorstands- und Geschäftsführungsbriefing

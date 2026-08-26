@@ -1,6 +1,6 @@
 ---
 name: boesglaeubigkeit-kenntnis-und-819-timing
-description: "Wenn es um Bösgläubigkeit, Kenntnis und Paragraf 819 Timing in bereicherungs-und-anfechtungsrecht-prüfer geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Bösgläubigkeit, Kenntnis und Paragraf 819 Timing: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Schnittstellenkarte mit Zuständigkeits- und Nachweisfragen."
 ---
 
 # Bösgläubigkeit, Kenntnis und § 819 Timing

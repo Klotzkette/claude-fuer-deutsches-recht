@@ -1,6 +1,6 @@
 ---
 name: paragraf-18-gwb-pruefung
-description: "Wenn es um Paragraf 18 GWB — Marktbeherrschung: Prüfung in Kartellrecht — Marktabgrenzungsprüfung geht: rechnet Schwellen, Beträge, Varianten und Kontrollannahmen durch; liefert eine Berechnungstabelle mit Schwellen, Annahmen und Kontrollfragen."
+description: "Für Paragraf 18 GWB — Marktbeherrschung: Prüfung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Tatbestands- oder Anspruchsmatrix."
 ---
 
 # § 18 GWB — Marktbeherrschung: Prüfung

@@ -1,6 +1,6 @@
 ---
 name: vertragsverlaengerungs-monitor
-description: "Wenn es um Verlängerungstracker in Vertragsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Verlängerungstracker: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Verlängerungstracker

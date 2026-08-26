@@ -1,6 +1,6 @@
 ---
 name: document-cost
-description: "Wenn es um Dokumentenaufbewahrung und -vernichtung nach Internal Investigations in Internal Investigations Praxis geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Dokumentenaufbewahrung und -vernichtung nach Internal Investigations: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Dokumentenaufbewahrung und -vernichtung nach Internal Investigations

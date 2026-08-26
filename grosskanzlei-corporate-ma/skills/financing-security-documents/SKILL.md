@@ -1,6 +1,6 @@
 ---
 name: financing-security-documents
-description: "Wenn es um Financing Security Documents in Großkanzlei Corporate/M&A geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Financing Security Documents: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt. Fachgebiet: Großkanzlei Corporate/M&A. Route: financing-security-documents."
 ---
 
 # Financing und Security Documents Skill: prüft Akquisitionsfinanzierung, Sicherheiten, Intercreditor, Conditions, Funds Flow und Bank-Deliverables.

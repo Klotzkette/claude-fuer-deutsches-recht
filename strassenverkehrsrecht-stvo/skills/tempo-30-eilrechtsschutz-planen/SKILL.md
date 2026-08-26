@@ -1,6 +1,6 @@
 ---
 name: tempo-30-eilrechtsschutz-planen
-description: "Wenn es um Tempo 30 Eilrechtsschutz Planen in Straßenverkehrsrecht StVO geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Tempo 30 Eilrechtsschutz Planen: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Tempo 30 Eilrechtsschutz Planen

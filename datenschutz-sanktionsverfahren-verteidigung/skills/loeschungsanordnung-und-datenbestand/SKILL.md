@@ -1,6 +1,6 @@
 ---
 name: loeschungsanordnung-und-datenbestand
-description: "Wenn es um Löschungsanordnung und Datenbestand in Datenschutz-Sanktionsverfahren und Verteidigung geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Löschungsanordnung und Datenbestand: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Löschungsanordnung und Datenbestand

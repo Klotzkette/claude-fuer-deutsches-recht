@@ -1,6 +1,6 @@
 ---
 name: verwaltungsverfahren-wiederaufgreifen
-description: "Wenn es um Verwaltungsverfahren Wiederaufgreifen in Einigungsvertrag und Vermögensrecht geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
+description: "Für Verwaltungsverfahren Wiederaufgreifen: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Verwaltungsverfahren Wiederaufgreifen

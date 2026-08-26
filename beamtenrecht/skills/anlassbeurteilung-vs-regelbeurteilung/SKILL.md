@@ -1,6 +1,6 @@
 ---
 name: anlassbeurteilung-vs-regelbeurteilung
-description: "Wenn es um Anlassbeurteilung vs. Regelbeurteilung — Aktualitaet und Vergleichbarkeit in Beamtenrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Anlassbeurteilung vs. Regelbeurteilung — Aktualität und Vergleichbarkeit: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Schnittstellenkarte mit Zuständigkeits- und Nachweisfragen."
 ---
 
 # Anlassbeurteilung vs. Regelbeurteilung — Aktualitaet und Vergleichbarkeit

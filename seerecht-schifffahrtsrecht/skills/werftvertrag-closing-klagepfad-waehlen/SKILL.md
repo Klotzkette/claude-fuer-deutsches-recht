@@ -1,6 +1,6 @@
 ---
 name: werftvertrag-closing-klagepfad-waehlen
-description: "Wenn es um Werftvertrag – Closing planen in See- und Schifffahrtsrecht geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
+description: "Für Werftvertrag – Closing planen: erstellt Entwurf mit Antrag, Beweis und Anlagen; Ergebnis: Schriftsatz mit Begründungs- und Anlagenlogik."
 ---
 
 # Werftvertrag – Closing planen

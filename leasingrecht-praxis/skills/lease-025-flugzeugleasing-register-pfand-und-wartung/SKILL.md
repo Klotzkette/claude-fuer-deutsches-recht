@@ -1,6 +1,6 @@
 ---
 name: lease-025-flugzeugleasing-register-pfand-und-wartung
-description: "Wenn es um Leasingrecht: Flugzeugleasing Register Pfand und Wartung in Leasingrecht Praxis geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Leasingrecht: Flugzeugleasing Register Pfand und Wartung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Einreichungsplan mit Form- und Nachweischeck."
 ---
 
 # Leasingrecht: Flugzeugleasing Register Pfand und Wartung

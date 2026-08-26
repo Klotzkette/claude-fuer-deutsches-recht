@@ -1,6 +1,6 @@
 ---
 name: stadtwerke-beihilfe-wirtschaftlichkeit
-description: "Wenn es um Stadtwerke Beihilfe Markieren in Öffentliches Wirtschaftsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Stadtwerke Beihilfe Markieren: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Stadtwerke Beihilfe Markieren

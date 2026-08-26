@@ -1,6 +1,6 @@
 ---
 name: lph6-lv-lph7-bieterspiegel-lph8-maengel
-description: "Wenn es um LPH 6 Leistungsverzeichnis, Mengen Und Vergabereife in HOAI Leistungsphasen Praxis geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen."
+description: "Für LPH 6 Leistungsverzeichnis, Mengen und Vergabereife: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # LPH 6 Leistungsverzeichnis, Mengen Und Vergabereife

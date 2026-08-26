@@ -1,6 +1,6 @@
 ---
 name: zentren-zuschlaege-besondere-aufgaben
-description: "Wenn es um Zentren Zuschläge besondere Aufgaben in Krankenhausrecht geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
+description: "Für Zentren Zuschläge besondere Aufgaben: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Zentren Zuschläge besondere Aufgaben

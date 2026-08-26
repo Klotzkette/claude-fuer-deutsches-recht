@@ -1,6 +1,6 @@
 ---
 name: evidence-map-exhibits-translation
-description: "Wenn es um Evidence Map ZPO/Common Law in commercial-courts-deutschland geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Beweislast- und Substantiierungsmatrix."
+description: "Für Evidence Map ZPO/Common Law: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Evidence Map ZPO/Common Law

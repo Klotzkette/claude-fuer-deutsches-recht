@@ -1,6 +1,6 @@
 ---
 name: handelsrichter-handelskauf-orientierung
-description: "Wenn es um Handelsrichter Handelskauf: Orientierung in Schöffen und Handelsrichter Praxis geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
+description: "Für Handelsrichter Handelskauf: Orientierung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Handelsrichter Handelskauf: Orientierung

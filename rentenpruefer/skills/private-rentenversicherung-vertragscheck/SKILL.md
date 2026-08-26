@@ -1,6 +1,6 @@
 ---
 name: private-rentenversicherung-vertragscheck
-description: "Wenn es um Private Rentenversicherung im Rentenfahrplan in Rentenprüfer geht: entwickelt Verhandlungsziel, Vergleichskorridor und Eskalationspfad; liefert eine Verhandlungs- oder Eskalationslinie mit Optionen."
+description: "Für Private Rentenversicherung im Rentenfahrplan: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Private Rentenversicherung im Rentenfahrplan

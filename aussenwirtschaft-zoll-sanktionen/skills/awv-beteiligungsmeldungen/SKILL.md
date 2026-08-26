@@ -1,6 +1,6 @@
 ---
 name: awv-beteiligungsmeldungen
-description: "Wenn es um AWV-Beteiligungsmeldungen: Direktinvestitionen und Bundesbank-Meldepflicht in Außenwirtschaft, Sanktionen, Zoll und CBAM geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für AWV-Beteiligungsmeldungen: Direktinvestitionen und Bundesbank-Meldepflicht: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # AWV-Beteiligungsmeldungen: Direktinvestitionen und Bundesbank-Meldepflicht

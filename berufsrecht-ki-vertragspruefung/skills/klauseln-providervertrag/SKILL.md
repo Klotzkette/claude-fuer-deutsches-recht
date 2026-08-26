@@ -1,6 +1,6 @@
 ---
 name: klauseln-providervertrag
-description: "Wenn es um Klauselvorschläge — Bausteine in diesem Spezialbereich geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Beweislast- und Substantiierungsmatrix Stichwort für die Auswahl: Klauseln Providervertrag."
+description: "Für Klauselvorschläge — Bausteine: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt. Fachgebiet: anwaltlichem Berufsrecht und Vertragsprüfung. Route: klauseln-providervertrag."
 ---
 
 # Klauselvorschläge — Bausteine

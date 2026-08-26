@@ -1,6 +1,6 @@
 ---
 name: plattform-sperre-sammelfaehigkeit-prue
-description: "Wenn es um Plattform Sperre Sammelfaehigkeit Prue in Verbraucherschutzverband Durchsetzung geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Plattform Sperre Sammelfähigkeit Prü: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Plattform Sperre Sammelfaehigkeit Prue

@@ -1,6 +1,6 @@
 ---
 name: eintragungsverfahren-allgemein
-description: "Wenn es um Eintragungsverfahren allgemein in Denkmalschutzrecht — Bundesweiter Rahmen und sechzehn geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Eintragungsverfahren allgemein: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Eintragungsverfahren allgemein

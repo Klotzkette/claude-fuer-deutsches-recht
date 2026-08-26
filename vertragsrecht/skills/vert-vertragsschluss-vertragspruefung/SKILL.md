@@ -1,6 +1,6 @@
 ---
 name: vert-vertragsschluss-vertragspruefung
-description: "Wenn es um Vert: Vertragsschluss Bauleiter in Vertragsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Vert: Vertragsschluss Bauleiter: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Tatbestands- oder Anspruchsmatrix."
 ---
 
 # Vert: Vertragsschluss Bauleiter

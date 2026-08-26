@@ -1,6 +1,6 @@
 ---
 name: interne-untersuchung-ip-rechte-krankmeldung
-description: "Wenn es um Interne Untersuchung HR Light in Start-up-HR-Personalabteilung Berlin geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
+description: "Für Interne Untersuchung HR Light: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Interne Untersuchung HR Light

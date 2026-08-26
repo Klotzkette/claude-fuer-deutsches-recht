@@ -1,6 +1,6 @@
 ---
 name: urlaubskalender-und-burlg
-description: "Wenn es um Urlaubskalender Und BUrlG in Start-up-HR-Personalabteilung Berlin geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
+description: "Für Urlaubskalender und BUrlG: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Urlaubskalender Und BUrlG

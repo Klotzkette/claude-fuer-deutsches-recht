@@ -1,6 +1,6 @@
 ---
 name: muster-arbeitszeugnis-gemischte-noten
-description: "Wenn es um Muster-Arbeitszeugnis mit gemischten Noten (Schulungsmaterial) in Arbeitszeugnis-Analyse geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Muster-Arbeitszeugnis mit gemischten Noten (Schulungsmaterial): ordnet Norm, Beweislast und Gegenargument; Ergebnis: Schnittstellenkarte mit Zuständigkeits- und Nachweisfragen."
 ---
 
 # Muster-Arbeitszeugnis mit gemischten Noten (Schulungsmaterial)

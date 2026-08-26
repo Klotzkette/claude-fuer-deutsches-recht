@@ -1,6 +1,6 @@
 ---
 name: beweissicherung-einstweilige-verfuegung
-description: "Wenn es um Aufbewahrungspflicht und Beweissicherung in Prozessrecht geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
+description: "Für Aufbewahrungspflicht und Beweissicherung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Beweislast- und Substantiierungsmatrix."
 ---
 
 # Aufbewahrungspflicht und Beweissicherung

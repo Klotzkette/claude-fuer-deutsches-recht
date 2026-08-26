@@ -1,6 +1,6 @@
 ---
 name: versorgungsausgleich
-description: "Wenn es um Versorgungsausgleich im Scheidungsverbund durchführen: Rentenanrechte aus Ehe aufteilen in Fachanwalt Familienrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Versorgungsausgleich im Scheidungsverbund durchführen: Rentenanrechte aus Ehe aufteilen: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Versorgungsausgleich im Scheidungsverbund durchführen: Rentenanrechte aus Ehe aufteilen

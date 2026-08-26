@@ -1,6 +1,6 @@
 ---
 name: joint-venture-trade-manufacturing-agreement-oem
-description: "Wenn es um Joint Venture im internationalen Handel in Internationales Handelsrecht und Lex Mercatoria geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Joint Venture im internationalen Handel: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Joint Venture im internationalen Handel

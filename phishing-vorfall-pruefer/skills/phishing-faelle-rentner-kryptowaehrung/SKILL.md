@@ -1,6 +1,6 @@
 ---
 name: phishing-faelle-rentner-kryptowaehrung
-description: "Wenn es um Phishing-Faelle aelterer Mandanten in Phishing-Vorfall-Prüfer geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Phishing-Fälle älterer Mandanten: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Phishing-Faelle aelterer Mandanten

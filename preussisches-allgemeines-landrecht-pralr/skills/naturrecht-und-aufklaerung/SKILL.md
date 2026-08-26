@@ -1,6 +1,6 @@
 ---
 name: naturrecht-und-aufklaerung
-description: "Wenn es um Naturrecht und Aufklärung in Preußisches Allgemeines Landrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. Auswahlstichwort: Naturrecht Und Aufklaerung; Arbeitsfeld: Preußisches Allgemeines Landrecht."
+description: "Für Naturrecht und Aufklärung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt. Fachgebiet: Preußisches Allgemeines Landrecht. Route: naturrecht-und-aufklaerung."
 ---
 
 # Naturrecht und Aufklärung

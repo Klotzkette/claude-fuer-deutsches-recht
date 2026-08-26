@@ -1,6 +1,6 @@
 ---
 name: e-rechnung-b2b
-description: "Wenn es um Rechnung und Umsatzsteuer: Prüft e-rechnungspflichten in Solo-Selbstständige Praxis geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Rechnung und Umsatzsteuer: Prüft e-rechnungspflichten: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Rechnung und Umsatzsteuer: Prüft e-rechnungspflichten

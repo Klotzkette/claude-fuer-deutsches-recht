@@ -1,6 +1,6 @@
 ---
 name: aussenwirtschaft-cites-artenschutz
-description: "Wenn es um CITES-Artenschutz: Genehmigungen für geschuetzte Arten im Aussenhandel in Außenwirtschaft, Sanktionen, Zoll und CBAM geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für CITES-Artenschutz: Genehmigungen für geschützte Arten im Außenhandel: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # CITES-Artenschutz: Genehmigungen für geschuetzte Arten im Aussenhandel

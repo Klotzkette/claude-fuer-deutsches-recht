@@ -1,6 +1,6 @@
 ---
 name: kostenfrei-vs-aufwendungsersatz-193-sgg
-description: "Wenn es um Aufwendungs-Ersatz — Paragraf 193 SGG in selbstvertreter-sozialgericht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Aufwendungs-Ersatz — Paragraf 193 SGG: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Aufwendungs-Ersatz — § 193 SGG

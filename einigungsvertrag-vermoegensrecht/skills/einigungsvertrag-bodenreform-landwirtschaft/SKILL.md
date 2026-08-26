@@ -1,6 +1,6 @@
 ---
 name: einigungsvertrag-bodenreform-landwirtschaft
-description: "Wenn es um Landwirtschaftliche Flaeche Anspruchsp in Einigungsvertrag und Vermögensrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Landwirtschaftliche Fläche Anspruchsp: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Landwirtschaftliche Flaeche Anspruchsp

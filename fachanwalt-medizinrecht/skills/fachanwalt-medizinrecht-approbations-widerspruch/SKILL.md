@@ -1,6 +1,6 @@
 ---
 name: fachanwalt-medizinrecht-approbations-widerspruch
-description: "Wenn es um Approbations-Widerspruch in Fachanwalt Medizinrecht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
+description: "Für Approbations-Widerspruch: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Approbations-Widerspruch

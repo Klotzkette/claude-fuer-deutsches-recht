@@ -1,6 +1,6 @@
 ---
 name: werbung-abmahnung
-description: "Wenn es um Verl-040 · Werbung mit Bestseller-Siegel und Rezensionen in Verlagsrecht und Buchpreisbindung geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Verl-040 · Werbung mit Bestseller-Siegel und Rezensionen: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Verl-040 · Werbung mit Bestseller-Siegel und Rezensionen

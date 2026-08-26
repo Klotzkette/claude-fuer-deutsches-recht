@@ -1,6 +1,6 @@
 ---
 name: kueschk-muendliche-verhandlung-praxistipps-laie
-description: "Wenn es um Praxistipps für Laien in der muendlichen Verhandlung beim Arbeitsgericht: Auftreten in Arbeitsrecht geht: entwickelt Verhandlungsziel, Vergleichskorridor und Eskalationspfad; liefert eine Verhandlungs- oder Eskalationslinie mit Optionen."
+description: "Für Praxistipps für Laien in der mündlichen Verhandlung beim Arbeitsgericht: Auftreten: entwickelt Ziel, Vergleich und Eskalation; Ergebnis: Verhandlungs- oder Eskalationslinie."
 ---
 
 # Praxistipps für Laien in der muendlichen Verhandlung beim Arbeitsgericht: Auftreten

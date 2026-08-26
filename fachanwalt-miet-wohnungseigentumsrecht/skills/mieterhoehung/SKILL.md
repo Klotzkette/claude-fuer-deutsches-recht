@@ -1,6 +1,6 @@
 ---
 name: mieterhoehung
-description: "Wenn es um Vermieter will Miete erhoehen oder Mieter prüft Zustimmungspflicht zur Mieterhoehung in Fachanwalt Miet- und Wohnungseigentumsrecht geht: entwickelt Verhandlungsziel, Vergleichskorridor und Eskalationspfad; liefert eine Verhandlungs- oder Eskalationslinie mit Optionen."
+description: "Für Vermieter will Miete erhöhen oder Mieter prüft Zustimmungspflicht zur Mieterhöhung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Vermieter will Miete erhoehen oder Mieter prüft Zustimmungspflicht zur Mieterhoehung

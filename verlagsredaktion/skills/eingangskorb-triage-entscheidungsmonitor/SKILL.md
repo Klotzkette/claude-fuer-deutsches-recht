@@ -1,6 +1,6 @@
 ---
 name: eingangskorb-triage-entscheidungsmonitor
-description: "Wenn es um Eingangskorb-Triage in Verlagsredaktion geht: klärt Rolle, Ziel, Frist, Unterlagen und den passenden nächsten Fachskill; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Eingangskorb-Triage: routet Rolle, Frist, Unterlagen und Fachschritt; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Eingangskorb-Triage

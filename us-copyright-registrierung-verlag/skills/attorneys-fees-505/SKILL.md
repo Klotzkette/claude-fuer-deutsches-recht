@@ -1,6 +1,6 @@
 ---
 name: attorneys-fees-505
-description: "Wenn es um Attorney’s Fees Paragraf 505 in US Copyright Act und Registrierung für deutsche Verlage geht: entwickelt Verhandlungsziel, Vergleichskorridor und Eskalationspfad; liefert eine Verhandlungs- oder Eskalationslinie mit Optionen."
+description: "Für Attorney’s Fees Paragraf 505: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Attorney’s Fees § 505

@@ -1,6 +1,6 @@
 ---
 name: installiert-tatbestand-beweis-und-belege
-description: "Wenn es um Installiert: Tatbestandsmerkmale, Beweisfragen und Beleglage in Kanzlei-Builder-Hub geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Beweislast- und Substantiierungsmatrix."
+description: "Für Installiert: Tatbestandsmerkmale, Beweisfragen und Beleglage: ordnet Akte, Belege und Lücken; Ergebnis: Beweislast- und Substantiierungsmatrix."
 ---
 
 # Installiert: Tatbestandsmerkmale, Beweisfragen und Beleglage

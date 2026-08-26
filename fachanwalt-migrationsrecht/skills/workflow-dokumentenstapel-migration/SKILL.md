@@ -1,6 +1,6 @@
 ---
 name: workflow-dokumentenstapel-migration
-description: "Wenn es um Dokumentenstapel Migration: Prüfungslinie für Migrationsrecht in Fachanwalt Migrationsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Dokumentenstapel Migration: Prüfungslinie für Migrationsrecht: ordnet Akte, Belege und Lücken; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Dokumentenstapel Migration: Prüfungslinie für Migrationsrecht

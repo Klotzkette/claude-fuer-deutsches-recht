@@ -1,6 +1,6 @@
 ---
 name: dsv-verdacht-vs-festgestellt
-description: "Wenn es um Bewertet, ob der Mandant bereits Kenntnis von einer Verletzung im Sinne Art in Fachanwalt It Recht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Bewertet, ob der Mandant bereits Kenntnis von einer Verletzung im Sinne Art: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Bewertet, ob der Mandant bereits Kenntnis von einer Verletzung im Sinne Art

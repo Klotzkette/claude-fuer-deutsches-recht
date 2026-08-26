@@ -1,6 +1,6 @@
 ---
 name: paragraf-95-sgb-v-zulassung
-description: "Wenn es um Paragraf 95 sgb v Zulassung in Fachanwalt Medizinrecht geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Paragraf 95 SGB v Zulassung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # § 95 sgb v Zulassung

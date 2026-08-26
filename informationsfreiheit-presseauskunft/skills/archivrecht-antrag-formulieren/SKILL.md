@@ -1,6 +1,6 @@
 ---
 name: archivrecht-antrag-formulieren
-description: "Wenn es um Archivrecht Antrag Formulieren in Informationsfreiheit und Presseauskunft geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
+description: "Für Archivrecht Antrag Formulieren: erstellt Entwurf mit Antrag, Beweis und Anlagen; Ergebnis: Schriftsatz mit Begründungs- und Anlagenlogik."
 ---
 
 # Archivrecht Antrag Formulieren

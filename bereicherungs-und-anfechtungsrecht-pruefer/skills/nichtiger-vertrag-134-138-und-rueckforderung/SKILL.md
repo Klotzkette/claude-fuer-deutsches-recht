@@ -1,6 +1,6 @@
 ---
 name: nichtiger-vertrag-134-138-und-rueckforderung
-description: "Wenn es um Nichtiger Vertrag nach Paragrafen 134 und 138 BGB in bereicherungs-und-anfechtungsrecht-prüfer geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Nichtiger Vertrag nach Paragrafen 134 und 138 BGB: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Nichtiger Vertrag nach §§ 134 und 138 BGB

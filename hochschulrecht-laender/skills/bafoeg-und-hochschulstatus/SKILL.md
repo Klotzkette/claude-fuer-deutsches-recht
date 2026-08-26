@@ -1,6 +1,6 @@
 ---
 name: bafoeg-und-hochschulstatus
-description: "Wenn es um BAföG Und Hochschulstatus in Hochschulrecht der Bundesländer geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für BAföG und Hochschulstatus: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # BAföG Und Hochschulstatus

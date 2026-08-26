@@ -1,6 +1,6 @@
 ---
 name: verbraucherrecht-reise-flug-pauschal
-description: "Wenn es um Verbraucherrecht Reise Flug Pauschal in Verbraucherschutzrecht Prüfer geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert eine Beweislast- und Substantiierungsmatrix."
+description: "Für Verbraucherrecht Reise Flug Pauschal: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Reise, Flug und Pauschalreise: Mängelanzeige, Ausgleich, Rücktritt, höhere Gewalt, Insolvenzabsicherung.

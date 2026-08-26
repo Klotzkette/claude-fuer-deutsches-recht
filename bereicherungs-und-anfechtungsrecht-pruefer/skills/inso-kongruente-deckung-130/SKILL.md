@@ -1,6 +1,6 @@
 ---
 name: inso-kongruente-deckung-130
-description: "Wenn es um Kongruente Deckung — Paragraf 130 InsO in bereicherungs-und-anfechtungsrecht-prüfer geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik. Auswahlstichwort: Inso Kongruente Deckung 130; Arbeitsfeld: bereicherungs-und-anfechtungsrecht-prüfer."
+description: "Für Kongrünte Deckung — Paragraf 130 InsO: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt. Fachgebiet: bereicherungs-und-anfechtungsrecht-prüfer. Route: inso-kongruente-deckung-130."
 ---
 
 # Kongruente Deckung — § 130 InsO

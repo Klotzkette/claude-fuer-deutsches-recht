@@ -1,6 +1,6 @@
 ---
 name: beweis-sicherung
-description: "Wenn es um Beweissicherung im Handelsvertreterstreit nach Paragrafen 485 ff. ZPO in Handelsvertreterrecht und Vertriebsverträge geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Beweislast- und Substantiierungsmatrix."
+description: "Für Beweissicherung im Handelsvertreterstreit nach Paragrafen 485 ff. ZPO: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Beweislast- und Substantiierungsmatrix."
 ---
 
 # Beweissicherung im Handelsvertreterstreit nach §§ 485 ff. ZPO

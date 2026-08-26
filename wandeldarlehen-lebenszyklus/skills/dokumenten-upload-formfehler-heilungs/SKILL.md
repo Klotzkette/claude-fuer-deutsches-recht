@@ -1,6 +1,6 @@
 ---
 name: dokumenten-upload-formfehler-heilungs
-description: "Wenn es um Dokumenten-Upload und Datenextraktion in Wandeldarlehen-Lebenszyklus geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
+description: "Für Dokumenten-Upload und Datenextraktion: ordnet Akte, Belege und Lücken; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Dokumenten-Upload und Datenextraktion

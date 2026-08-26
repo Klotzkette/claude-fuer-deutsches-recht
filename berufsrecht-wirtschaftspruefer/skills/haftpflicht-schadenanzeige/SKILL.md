@@ -1,6 +1,6 @@
 ---
 name: haftpflicht-schadenanzeige
-description: "Wenn es um Haftpflicht Schadenanzeige in Berufsrecht Wirtschaftsprüfer geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Gegenprüfung mit Fehler-, Beweis- und Fristencheck."
+description: "Für Haftpflicht Schadenanzeige: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Wirtschaftsprüfer: haftpflicht und schadenanzeige - Rechtsprechungscheck, stärkste Gegenansicht und Red-Team-Korrektur

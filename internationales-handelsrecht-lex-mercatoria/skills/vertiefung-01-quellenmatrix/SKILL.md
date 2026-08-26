@@ -1,6 +1,6 @@
 ---
 name: vertiefung-01-quellenmatrix
-description: "Wenn es um Quellenmatrix Internationales Handelsrecht in Internationales Handelsrecht und Lex Mercatoria geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Quellenmatrix Internationales Handelsrecht: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Quellenmatrix Internationales Handelsrecht

@@ -1,6 +1,6 @@
 ---
 name: robotik-uebergangsrecht-eu-produktsicherheit
-description: "Wenn es um Fristen und Übergangsrecht in robotik-recht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. Auswahlstichwort: Robotik Uebergangsrecht EU Produktsicherheit; Arbeitsfeld: robotik-recht."
+description: "Für Fristen und Übergangsrecht: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Schnittstellenkarte mit Zuständigkeits- und Nachweisfragen."
 ---
 
 # Fristen und Übergangsrecht

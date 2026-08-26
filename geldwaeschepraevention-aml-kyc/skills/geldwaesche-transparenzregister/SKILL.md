@@ -1,6 +1,6 @@
 ---
 name: geldwaesche-transparenzregister
-description: "Wenn es um Transparenzregister und Unstimmigkeitsmeldung in Geldwäscheprävention, AML und KYC geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Transparenzregister und Unstimmigkeitsmeldung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Einreichungsplan mit Form- und Nachweischeck."
 ---
 
 # Transparenzregister und Unstimmigkeitsmeldung

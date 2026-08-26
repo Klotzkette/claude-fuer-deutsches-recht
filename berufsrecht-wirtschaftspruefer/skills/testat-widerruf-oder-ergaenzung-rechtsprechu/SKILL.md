@@ -1,6 +1,6 @@
 ---
 name: testat-widerruf-oder-ergaenzung-rechtsprechu
-description: "Wenn es um Testat Widerruf Oder Ergaenzung Rechtsprechu in Berufsrecht Wirtschaftsprüfer geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Gegenprüfung mit Fehler-, Beweis- und Fristencheck."
+description: "Für Testat Widerruf oder Ergänzung Rechtsprechu: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Wirtschaftsprüfer: testat widerruf oder ergänzung - Rechtsprechungscheck, stärkste Gegenansicht und Red-Team-Korrektur

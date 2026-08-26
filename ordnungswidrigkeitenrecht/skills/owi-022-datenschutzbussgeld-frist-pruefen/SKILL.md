@@ -1,6 +1,6 @@
 ---
 name: owi-022-datenschutzbussgeld-frist-pruefen
-description: "Wenn es um Datenschutzbussgeld Frist Pruefen in Ordnungswidrigkeitenrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Datenschutzbussgeld Frist Prüfen: prüft Frist, Form, Zuständigkeit und Eilbedarf; Ergebnis: Fristen- und Risikoampel. Fachgebiet: Ordnungswidrigkeitenrecht. Route: owi-022-datenschutzbussgeld-frist-pruefen."
 ---
 
 # Datenschutzbussgeld Frist Pruefen

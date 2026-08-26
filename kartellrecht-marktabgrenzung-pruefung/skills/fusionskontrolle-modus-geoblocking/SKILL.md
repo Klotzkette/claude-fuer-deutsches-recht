@@ -1,6 +1,6 @@
 ---
 name: fusionskontrolle-modus-geoblocking
-description: "Wenn es um Fusionskontrolle — Modus in Kartellrecht — Marktabgrenzungsprüfung geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Fusionskontrolle — Modus: prüft Ergebnis, Beweislast und Gegenposition; Ergebnis: Gegenprüfung mit Beweis- und Fristencheck."
 ---
 
 # Fusionskontrolle — Modus

@@ -1,6 +1,6 @@
 ---
 name: einstieg-schnelltriage-fallrouting
-description: "Wenn es um Einstieg Schnelltriage Fallrouting in Fachanwalt Miet- und Wohnungseigentumsrecht geht: klärt Rolle, Ziel, Frist, Unterlagen und den passenden nächsten Fachskill; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Einstieg Schnelltriage Fallrouting: routet Rolle, Frist, Unterlagen und Fachschritt; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt. Fachgebiet: Fachanwalt Miet- und Wohnungseigentumsrecht."
 ---
 
 # Einstieg, Schnelltriage und Fallrouting im Fachanwalt Miet- und Wohnungseigentumsrecht-Plugin: führt Laien, neue Anwältinnen und erfahrene Praktiker durch Wohnraummiete, Gewerberaum, Betriebskosten, Modernisierung, Kündigung, WEG, Beschlüsse, Verwaltung, Beweise, Fristen und passende Anschluss-Skills.

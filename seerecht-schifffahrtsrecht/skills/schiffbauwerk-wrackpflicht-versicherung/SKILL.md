@@ -1,6 +1,6 @@
 ---
 name: schiffbauwerk-wrackpflicht-versicherung
-description: "Wenn es um Schiffbauwerk – Wrackbeseitigungspflicht prüfen in See- und Schifffahrtsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Schiffbauwerk – Wrackbeseitigungspflicht prüfen: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Schiffbauwerk – Wrackbeseitigungspflicht prüfen

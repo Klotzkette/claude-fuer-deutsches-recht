@@ -1,6 +1,6 @@
 ---
 name: schlachtenplan-ethik-und-taktik
-description: "Wenn es um Schlachtenplan Ethik Und Taktik in Wahlkampfrecht Praxis geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Schlachtenplan Ethik und Taktik: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Schlachtenplan Ethik Und Taktik

@@ -1,6 +1,6 @@
 ---
 name: see-054-yachtkauf-arrest-vorbereiten
-description: "Wenn es um Yachtkauf Arrest Vorbereiten in See- und Schifffahrtsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Yachtkauf Arrest Vorbereiten: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Yachtkauf Arrest Vorbereiten

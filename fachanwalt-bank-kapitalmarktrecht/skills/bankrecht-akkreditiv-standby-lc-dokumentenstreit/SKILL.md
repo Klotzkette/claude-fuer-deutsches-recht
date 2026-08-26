@@ -1,6 +1,6 @@
 ---
 name: bankrecht-akkreditiv-standby-lc-dokumentenstreit
-description: "Wenn es um Bankrecht Akkreditiv Standby Lc Dokumentenstreit in Fachanwalt Bank Kapitalmarktrecht geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
+description: "Für Bankrecht Akkreditiv Standby Lc Dokumentenstreit: ordnet Akte, Belege und Lücken; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Akkreditiv, Standby Letter of Credit und Dokumentenstreit im Bankmandat prüfen: Dokumentenstrenge, Discrepancies, Fraud, Sanktionen, Zahlungsstopp, Begünstigtenrechte und Bankhaftung.

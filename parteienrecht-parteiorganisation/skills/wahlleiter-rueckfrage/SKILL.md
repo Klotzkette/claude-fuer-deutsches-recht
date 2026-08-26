@@ -1,6 +1,6 @@
 ---
 name: wahlleiter-rueckfrage
-description: "Wenn es um Wahlleiter-Rückfrage in Parteienrecht und Parteiorganisation geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Dokumentenmatrix mit Nachforderungsliste."
+description: "Für Wahlleiter-Rückfrage: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Wahlleiter-Rückfrage

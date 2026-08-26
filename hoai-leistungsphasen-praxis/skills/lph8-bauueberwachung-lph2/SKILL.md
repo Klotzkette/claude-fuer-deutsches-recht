@@ -1,6 +1,6 @@
 ---
 name: lph8-bauueberwachung-lph2
-description: "Wenn es um Bauueberwachung Erdbau und Bodenkennwerte in HOAI Leistungsphasen Praxis geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Bauüberwachung Erdbau und Bodenkennwerte: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Bauueberwachung Erdbau und Bodenkennwerte

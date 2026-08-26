@@ -1,6 +1,6 @@
 ---
 name: nutzungen-verwendungen-gefahrtragung-818
-description: "Wenn es um Nutzungen, Verwendungen und Gefahrtragung bei Paragraf 818 BGB in bereicherungs-und-anfechtungsrecht-prüfer geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Nutzungen, Verwendungen und Gefahrtragung bei Paragraf 818 BGB: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Nutzungen, Verwendungen und Gefahrtragung bei § 818 BGB

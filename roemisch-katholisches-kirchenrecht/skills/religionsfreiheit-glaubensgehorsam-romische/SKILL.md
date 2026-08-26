@@ -1,6 +1,6 @@
 ---
 name: religionsfreiheit-glaubensgehorsam-romische
-description: "Wenn es um Religionsfreiheit und Glaubensgehorsam in Römisch-katholisches Kirchenrecht CIC und Katechismus geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Religionsfreiheit und Glaubensgehorsam: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt. Fachgebiet: Römisch-katholisches Kirchenrecht CIC und Katechismus. Route: religionsfreiheit-glaubensgehorsam-romische."
 ---
 
 # Religionsfreiheit und Glaubensgehorsam

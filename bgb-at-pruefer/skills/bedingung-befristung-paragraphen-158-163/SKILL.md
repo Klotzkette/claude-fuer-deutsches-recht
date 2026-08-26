@@ -1,6 +1,6 @@
 ---
 name: bedingung-befristung-paragraphen-158-163
-description: "Wenn es um Bedingung und Befristung — Paragrafen 158 bis 163 BGB in BGB AT Prüfer geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Bedingung und Befristung — Paragrafen 158 bis 163 BGB: prüft Frist, Form, Zuständigkeit und Eilbedarf; Ergebnis: Fristen- und Risikoampel."
 ---
 
 # Bedingung und Befristung — §§ 158 bis 163 BGB

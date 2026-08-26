@@ -1,6 +1,6 @@
 ---
 name: sanierungsgewinn-vorbescheid-verbindliche
-description: "Wenn es um Sanierungsgewinn – Vorbescheid und verbindliche Auskunft in Großkanzlei Corporate/M&A geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert eine Chronologie mit Belegmatrix und Widerspruchsliste."
+description: "Für Sanierungsgewinn – Vorbescheid und verbindliche Auskunft: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Sanierungsgewinn – Vorbescheid und verbindliche Auskunft

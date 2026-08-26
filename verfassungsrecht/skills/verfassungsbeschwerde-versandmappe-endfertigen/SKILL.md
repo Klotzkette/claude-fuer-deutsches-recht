@@ -1,6 +1,6 @@
 ---
 name: verfassungsbeschwerde-versandmappe-endfertigen
-description: "Endfertigt Verfassungsbeschwerde und Eilantrag für das Bundesverfassungsgericht: liest angegriffene Entscheidungen und Zustellnachweise zuerst, prüft Beschwerdegegenstand, Beschwerdebefugnis, Rechtswegerschöpfung, Subsidiarität, Monats- oder Jahresfrist und Vollmachtslage, baut eine vollständige Entscheidungskette und liefert anwaltlich elektronisch einreichbare Einzel-PDFs samt Anlagenregister."
+description: "Endfertigt Verfassungsbeschwerde und Eilantrag für das Bundesverfassungsgericht: liest angegriffene Entscheidungen und Zustellnachweise zuerst, prüft Beschwerdegegenstand, Beschwerdebefugnis, Rechtswegerschöpfung, Subsidiarität, Monats- oder Jahresfrist und Vollmachtslage, baut eine vollständige Entscheidungskette und liefert anwaltlich elektronisch."
 ---
 
 # Verfassungsbeschwerde-Versandmappe endfertigen

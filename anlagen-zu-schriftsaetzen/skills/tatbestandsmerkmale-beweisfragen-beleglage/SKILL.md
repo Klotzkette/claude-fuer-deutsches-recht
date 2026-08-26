@@ -1,6 +1,6 @@
 ---
 name: tatbestandsmerkmale-beweisfragen-beleglage
-description: "Wenn es um Anlagen: Tatbestandsmerkmale, Beweisfragen und Beleglage in Anlagen zu Schriftsätzen geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Anlagen: Tatbestandsmerkmale, Beweisfragen und Beleglage: ordnet Akte, Belege und Lücken; Ergebnis: Beweislast- und Substantiierungsmatrix. Fachgebiet: Anlagen zu Schriftsätzen. Route: tatbestandsmerkmale-beweisfragen-beleglage."
 ---
 
 # Anlagen: Tatbestandsmerkmale, Beweisfragen und Beleglage

@@ -1,6 +1,6 @@
 ---
 name: chn-009-fabrikbetrieb-in-china
-description: "Wenn es um Fabrikbetrieb In China in China-Wirtschaftsverkehr geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Fabrikbetrieb in China: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Fabrikbetrieb In China

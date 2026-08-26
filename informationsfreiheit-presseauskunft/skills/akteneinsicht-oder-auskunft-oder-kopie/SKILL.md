@@ -1,6 +1,6 @@
 ---
 name: akteneinsicht-oder-auskunft-oder-kopie
-description: "Wenn es um Akteneinsicht Oder Auskunft Oder Kopie in Informationsfreiheit und Presseauskunft geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
+description: "Für Akteneinsicht oder Auskunft oder Kopie: ordnet Akte, Belege und Lücken; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Akteneinsicht Oder Auskunft Oder Kopie

@@ -1,6 +1,6 @@
 ---
 name: ehegattenrecht-internationales-art-13-egbgb
-description: "Prüft Zustandekommen, Form und Anerkennung einer Ehe mit Auslandsbezug nach Artikel 13 EGBGB und grenzt Scheidung, Güterrecht, Unterhalt und Versorgungsausgleich ab. Liefert Statutenmatrix, Urkundenplan und einen verfahrensfesten Anerkennungs- oder Personenstandsantrag."
+description: "Prüft Zustandekommen, Form und Anerkennung einer Ehe mit Auslandsbezug nach Artikel 13 EGBGB und grenzt Scheidung, Güterrecht, Unterhalt und Versorgungsausgleich ab."
 ---
 
 # 1. Internationale Eheschließung

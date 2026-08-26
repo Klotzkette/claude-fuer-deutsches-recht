@@ -1,6 +1,6 @@
 ---
 name: schweinehaltung-schutzbedarf-pruefen
-description: "Wenn es um Schweinehaltung Schutzbedarf Prüfen in Tierschutzrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Schweinehaltung Schutzbedarf Prüfen: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt. Fachgebiet: Tierschutzrecht. Route: schweinehaltung-schutzbedarf-pruefen."
 ---
 
 # Schweinehaltung Schutzbedarf Prüfen

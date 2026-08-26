@@ -1,6 +1,6 @@
 ---
 name: notfallstufen-sicherstellungszuschlaege
-description: "Wenn es um Notfallstufen und Sicherstellungszuschlaege in Krankenhausrecht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
+description: "Für Notfallstufen und Sicherstellungszuschläge: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Notfallstufen und Sicherstellungszuschlaege

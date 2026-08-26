@@ -1,6 +1,6 @@
 ---
 name: rechtsabteilung-vertragsstrafe-in-einheitspreis-und-liefervertra
-description: "Wenn es um Rechtsabteilung: Vertragsstrafe in Einheitspreis- und Lieferverträgen in AGB-Recht-Prüfer geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Beweislast- und Substantiierungsmatrix. Auswahlstichwort: Rechtsabteilung Vertragsstrafe In Einheitspreis Und Liefervertra; Arbeitsfeld: AGB-Recht-Prüfer."
+description: "Für Rechtsabteilung: Vertragsstrafe in Einheitspreis- und Lieferverträgen: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt. Fachgebiet: AGB-Recht-Prüfer. Route: rechtsabteilung-vertragsstrafe-in-einheitspreis-und-liefervertra."
 ---
 
 # Rechtsabteilung: Vertragsstrafe in Einheitspreis- und Lieferverträgen

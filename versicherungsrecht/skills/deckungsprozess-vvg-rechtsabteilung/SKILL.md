@@ -1,6 +1,6 @@
 ---
 name: deckungsprozess-vvg-rechtsabteilung
-description: "Wenn es um Deckungsprozess und Gerichtsstand Paragraf 215 VVG in Versicherungsrecht geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
+description: "Für Deckungsprozess und Gerichtsstand Paragraf 215 VVG: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Deckungsprozess und Gerichtsstand § 215 VVG

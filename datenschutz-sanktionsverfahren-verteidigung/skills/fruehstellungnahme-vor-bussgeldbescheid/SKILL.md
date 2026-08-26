@@ -1,6 +1,6 @@
 ---
 name: fruehstellungnahme-vor-bussgeldbescheid
-description: "Wenn es um Frühstellungnahme vor Bußgeldbescheid in Datenschutz-Sanktionsverfahren und Verteidigung geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Frühstellungnahme vor Bußgeldbescheid: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt. Fachgebiet: Datenschutz-Sanktionsverfahren und Verteidigung."
 ---
 
 # Frühstellungnahme vor Bußgeldbescheid

@@ -1,6 +1,6 @@
 ---
 name: massenentlassung-17-kschg-realitaetscheck
-description: "Wenn es um Massenentlassung 17 Kschg Realitaetscheck in Fachanwalt Arbeitsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Massenentlassung 17 Kschg Realitätscheck: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Massenentlassung: Anzeige, Konsultation, Agentur für Arbeit, Fehlerfolgen, neue Rechtsprechung und Rettungsstrategie.

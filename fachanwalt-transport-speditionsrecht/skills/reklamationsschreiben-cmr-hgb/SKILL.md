@@ -1,6 +1,6 @@
 ---
 name: reklamationsschreiben-cmr-hgb
-description: "Wenn es um Reklamationsschreiben für Ladungsschaeden nach HGB oder CMR verfassen: Fristen beachten in Fachanwalt Transport Speditionsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Reklamationsschreiben für Ladungsschäden nach HGB oder CMR verfassen: Fristen beachten: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Reklamationsschreiben für Ladungsschaeden nach HGB oder CMR verfassen: Fristen beachten

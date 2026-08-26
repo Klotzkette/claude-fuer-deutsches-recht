@@ -1,6 +1,6 @@
 ---
 name: technische-besichtigung-und-geheimnisschutz
-description: "Wenn es um Technische Besichtigung und Geheimnisschutz in robotik-recht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Technische Besichtigung und Geheimnisschutz: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt. Fachgebiet: robotik-recht. Route: technische-besichtigung-und-geheimnisschutz."
 ---
 
 # Technische Besichtigung und Geheimnisschutz

@@ -1,6 +1,6 @@
 ---
 name: bverfg-prozessarten-navigator-parteien-antraege
-description: "Wenn es um BVerfG-Prozessarten-Navigator in verfassungsrecht geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert eine Gegenprüfung mit Fehler-, Beweis- und Fristencheck."
+description: "Für BVerfG-Prozessarten-Navigator: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # BVerfG-Prozessarten-Navigator

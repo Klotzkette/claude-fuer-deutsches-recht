@@ -1,6 +1,6 @@
 ---
 name: rueckfragebrief-mandantenentscheidung
-description: "Wenn es um Rueckfragebrief: Mandantenkommunikation und Entscheidungsvorlage in diesem Spezialbereich geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert eine Mandantennachricht oder Entscheidungsvorlage."
+description: "Für Rückfragebrief: Mandantenkommunikation und Entscheidungsvorlage: erstellt Entwurf mit Antrag, Beweis und Anlagen; Ergebnis: Schriftsatz mit Begründungs- und Anlagenlogik."
 ---
 
 # Rueckfragebrief: Mandantenkommunikation und Entscheidungsvorlage

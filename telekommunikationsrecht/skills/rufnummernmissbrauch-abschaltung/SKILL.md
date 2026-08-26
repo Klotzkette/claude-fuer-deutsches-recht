@@ -1,6 +1,6 @@
 ---
 name: rufnummernmissbrauch-abschaltung
-description: "Wenn es um Rufnummernmissbrauch, Abschaltung und Inkassoverbot in Telekommunikationsrecht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
+description: "Für Rufnummernmissbrauch, Abschaltung und Inkassoverbot: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Rufnummernmissbrauch, Abschaltung und Inkassoverbot

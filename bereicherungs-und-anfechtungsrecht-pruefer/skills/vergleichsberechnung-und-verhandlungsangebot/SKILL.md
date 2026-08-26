@@ -1,6 +1,6 @@
 ---
 name: vergleichsberechnung-und-verhandlungsangebot
-description: "Wenn es um Vergleichsberechnung und Verhandlungsangebot in bereicherungs-und-anfechtungsrecht-prüfer geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
+description: "Für Vergleichsberechnung und Verhandlungsangebot: rechnet Beträge, Schwellen und Varianten; Ergebnis: Berechnungstabelle mit Annahmen und Kontrollfragen."
 ---
 
 # Vergleichsberechnung und Verhandlungsangebot

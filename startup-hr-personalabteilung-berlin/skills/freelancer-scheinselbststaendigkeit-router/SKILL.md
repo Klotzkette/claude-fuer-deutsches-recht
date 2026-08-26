@@ -1,6 +1,6 @@
 ---
 name: freelancer-scheinselbststaendigkeit-router
-description: "Wenn es um Freelancer Scheinselbststaendigkeit Router in Start-up-HR-Personalabteilung Berlin geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Freelancer Scheinselbstständigkeit Router: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Freelancer Scheinselbststaendigkeit Router

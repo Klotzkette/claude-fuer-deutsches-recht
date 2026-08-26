@@ -1,6 +1,6 @@
 ---
 name: rahmenvereinbarung-abrufe-mini-wettbewerb
-description: "Wenn es um Rahmenvereinbarung Abrufe Mini Wettbewerb in Fachanwalt Vergaberecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Rahmenvereinbarung Abrufe Mini Wettbewerb: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Rahmenvereinbarungen, Abrufe und Mini-Wettbewerbe steuern: Laufzeit, Hoechstmengen, Abrufmechanik, Rangfolge, Transparenz und Vertragsmanagement.

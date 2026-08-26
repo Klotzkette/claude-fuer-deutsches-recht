@@ -1,6 +1,6 @@
 ---
 name: 010-pompeji-inschriften-wahlaufrufe-geschaeftspraxis
-description: "Wenn es um Rom Pompeji Inschriften Wahlaufrufe Geschäftspraxis Und in Römisches Recht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Rom Pompeji Inschriften Wahlaufrufe Geschäftspraxis und: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Rom Pompeji Inschriften Wahlaufrufe Geschäftspraxis Und
@@ -31,3 +31,7 @@ XII-Tafel-Sätze nicht als wörtliche Zitate ausgeben, wenn nur der Inhalt bezeu
 2. Epochen trennen: vorklassisch — klassisch — justinianisch — Rezeption; nichts rückprojizieren.
 3. Funktional vergleichen: erst die römische Funktion, dann die heutige Norm mit gleicher Aufgabe; Unterschiede ausdrücklich benennen.
 4. Für Klausur/Lehre: Institutionensystem (personae — res — actiones) als Gliederungsraster nutzen; lateinische Begriffe beim ersten Auftreten übersetzen.
+
+## Vertiefung bei Bedarf
+
+- Bei `rom-neu-010-pompeji-inschriften-wahlaufrufe-geschaeftspraxis` beziehungsweise Römisches Recht: Pompeji Inschriften Wahlaufrufe Geschäftspraxis und Alltagsnormen: [die zusätzliche Vertiefung laden](./references/vertiefung-rom-neu-010-pompeji-inschriften-wahlaufrufe-geschaeftspraxis.md).

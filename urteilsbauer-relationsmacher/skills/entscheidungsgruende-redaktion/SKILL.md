@@ -1,6 +1,6 @@
 ---
 name: entscheidungsgruende-redaktion
-description: "Wenn es um Entscheidungsgründe redaktionell, beweisfest und berufungsfest bauen in Urteilsbauer und Relationsmacher geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Beweislast- und Substantiierungsmatrix. Auswahlstichwort: Entscheidungsgruende Redaktion; Arbeitsfeld: Urteilsbauer und Relationsmacher."
+description: "Für Entscheidungsgründe redaktionell, beweisfest und berufungsfest bauen: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt. Fachgebiet: Urteilsbauer und Relationsmacher. Route: entscheidungsgruende-redaktion."
 ---
 
 # Entscheidungsgründe redaktionell, beweisfest und berufungsfest bauen

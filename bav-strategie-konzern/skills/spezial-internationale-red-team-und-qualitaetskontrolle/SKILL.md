@@ -1,6 +1,6 @@
 ---
 name: spezial-internationale-red-team-und-qualitaetskontrolle
-description: "Wenn es um Internationale: Red-Team und Qualitätskontrolle in BAV Strategie Konzern — Treuenfels Yamamoto Rechtsanwälte geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Internationale: Red-Team und Qualitätskontrolle: prüft Ergebnis, Beweislast und Gegenposition; Ergebnis: Gegenprüfung mit Beweis- und Fristencheck."
 ---
 
 # Internationale: Red-Team und Qualitätskontrolle

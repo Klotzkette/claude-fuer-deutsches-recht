@@ -1,6 +1,6 @@
 ---
 name: erschoepfung-parallelimport-graumarkt
-description: "Wenn es um Erschöpfung, Parallelimport und Graumarkt in markenrecht-fashion-luxus geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Beweislast- und Substantiierungsmatrix."
+description: "Für Erschöpfung, Parallelimport und Graumarkt: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Erschöpfung, Parallelimport und Graumarkt

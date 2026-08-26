@@ -1,6 +1,6 @@
 ---
 name: wasserentnahme-einwendung-bauen
-description: "Wenn es um Wasserentnahme Einwendung Bauen in Umweltschutzverband Verbandsklage geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
+description: "Für Wasserentnahme Einwendung Bauen: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Wasserentnahme Einwendung Bauen

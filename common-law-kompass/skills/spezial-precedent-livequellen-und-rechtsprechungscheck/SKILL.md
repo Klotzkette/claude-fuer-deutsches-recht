@@ -1,6 +1,6 @@
 ---
 name: spezial-precedent-livequellen-und-rechtsprechungscheck
-description: "Wenn es um Precedent: Livequellen- und Rechtsprechungscheck in Common-Law-Kompass für deutsche Wirtschaftsjuristen geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Precedent: Livequellen- und Rechtsprechungscheck: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Precedent: Livequellen- und Rechtsprechungscheck

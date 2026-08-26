@@ -1,6 +1,6 @@
 ---
 name: sanktionen-russia-belarus-organisationspflic
-description: "Wenn es um Sanktionen Russia Belarus Organisationspflic in Berufsrecht Wirtschaftsprüfer geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Sanktionen Russia Belarus Organisationspflic: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Wirtschaftsprüfer: sanktionen russia belarus - Organisationspflichten, Prävention, Team-Anweisung und Fristenkontrolle

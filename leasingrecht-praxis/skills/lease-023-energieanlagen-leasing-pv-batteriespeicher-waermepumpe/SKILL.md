@@ -1,6 +1,6 @@
 ---
 name: lease-023-energieanlagen-leasing-pv-batteriespeicher-waermepumpe
-description: "Wenn es um Leasingrecht: Energieanlagen Leasing PV Batteriespeicher Wärmepumpe in Leasingrecht Praxis geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Leasingrecht: Energieanlagen Leasing PV Batteriespeicher Wärmepumpe: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Leasingrecht: Energieanlagen Leasing PV Batteriespeicher Wärmepumpe

@@ -1,6 +1,6 @@
 ---
 name: foerderstrategie-schnell-grossgeraete-cluster
-description: "Wenn es um DFG-Förderstrategie: schnell, schlank oder groß? in DFG-Förderantrag geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Verhandlungs- oder Eskalationslinie mit Optionen. Auswahlstichwort: Foerderstrategie Schnell Grossgeraete Cluster; Arbeitsfeld: DFG-Förderantrag."
+description: "Für DFG-Förderstrategie: schnell, schlank oder groß?: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Verhandlungs- oder Eskalationslinie. Fachgebiet: DFG-Förderantrag. Route: foerderstrategie-schnell-grossgeraete-cluster."
 ---
 
 # DFG-Förderstrategie: schnell, schlank oder groß?

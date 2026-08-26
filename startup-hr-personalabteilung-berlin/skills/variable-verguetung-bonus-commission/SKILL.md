@@ -1,6 +1,6 @@
 ---
 name: variable-verguetung-bonus-commission
-description: "Wenn es um Variable Vergütung Bonus Commission in Start-up-HR-Personalabteilung Berlin geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Variable Vergütung Bonus Commission: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Variable Vergütung Bonus Commission

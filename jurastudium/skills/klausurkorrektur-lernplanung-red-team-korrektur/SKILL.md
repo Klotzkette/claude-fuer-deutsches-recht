@@ -1,6 +1,6 @@
 ---
 name: klausurkorrektur-lernplanung-red-team-korrektur
-description: "Wenn es um Jurastudium: Mandantenkommunikation und Entscheidungsvorlage in Jurastudium geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Jurastudium: Mandantenkommunikation und Entscheidungsvorlage: prüft Ergebnis, Beweislast und Gegenposition; Ergebnis: Gegenprüfung mit Beweis- und Fristencheck."
 ---
 
 # Jurastudium: Mandantenkommunikation und Entscheidungsvorlage

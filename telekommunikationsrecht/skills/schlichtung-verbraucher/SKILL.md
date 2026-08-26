@@ -1,6 +1,6 @@
 ---
 name: schlichtung-verbraucher
-description: "Wenn es um Verbraucherschlichtung Telekommunikation in Telekommunikationsrecht geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Verbraucherschlichtung Telekommunikation: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Verbraucherschlichtung Telekommunikation

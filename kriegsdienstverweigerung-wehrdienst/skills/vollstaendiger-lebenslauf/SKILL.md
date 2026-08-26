@@ -1,6 +1,6 @@
 ---
 name: vollstaendiger-lebenslauf
-description: "Wenn es um Tabellarischer Lebenslauf in Kriegsdienstverweigerung und Wehrdienst geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Tabellarischer Lebenslauf: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Tabellarischer Lebenslauf

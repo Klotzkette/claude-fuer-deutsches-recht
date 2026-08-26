@@ -1,6 +1,6 @@
 ---
 name: arbeitszeugnis-schaufenster-verhandlung-vergleich-eskalation
-description: "Wenn es um Schaufenster: Verhandlung, Vergleich und Eskalation in Arbeitszeugnis-Analyse geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Schaufenster: Verhandlung, Vergleich und Eskalation: entwickelt Ziel, Vergleich und Eskalation; Ergebnis: Verhandlungs- oder Eskalationslinie."
 ---
 
 # Schaufenster: Verhandlung, Vergleich und Eskalation

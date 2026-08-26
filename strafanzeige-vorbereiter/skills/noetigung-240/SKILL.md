@@ -1,6 +1,6 @@
 ---
 name: noetigung-240
-description: "Wenn es um Nötigung Paragraf 240 StGB in Strafanzeige-Vorbereiter geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Nötigung Paragraf 240 StGB: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Nötigung § 240 StGB

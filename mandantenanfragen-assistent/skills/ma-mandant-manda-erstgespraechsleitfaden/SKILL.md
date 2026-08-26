@@ -1,6 +1,6 @@
 ---
 name: ma-mandant-manda-erstgespraechsleitfaden
-description: "Wenn es um Mandant mit Betreuung in mandantenanfragen-assistent geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Mandant mit Betreuung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Mandant mit Betreuung

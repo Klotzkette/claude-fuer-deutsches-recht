@@ -1,6 +1,6 @@
 ---
 name: video-verhandlung-128a-zpo
-description: "Wenn es um Video-Verhandlung nach Paragraf 128a ZPO in selbstvertreter-amtsgericht geht: entwickelt Verhandlungsziel, Vergleichskorridor und Eskalationspfad; liefert eine Verhandlungs- oder Eskalationslinie mit Optionen."
+description: "Für Video-Verhandlung nach Paragraf 128a ZPO: entwickelt Ziel, Vergleich und Eskalation; Ergebnis: Verhandlungs- oder Eskalationslinie."
 ---
 
 # Video-Verhandlung nach § 128a ZPO

@@ -1,6 +1,6 @@
 ---
 name: pflegekasse-verhinderungs-und-kurzzeitpflege
-description: "Wenn es um Pflegekasse Verhinderungs Und Kurzzeitpflege in selbstvertreter-sozialgericht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Pflegekasse Verhinderungs und Kurzzeitpflege: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Pflegekasse Verhinderungs Und Kurzzeitpflege

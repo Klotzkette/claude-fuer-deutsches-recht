@@ -1,6 +1,6 @@
 ---
 name: luft-005-luftfahrzeugpfandrecht
-description: "Wenn es um Luftfahrzeugpfandrecht in Luftrecht und Flughafenrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Luftfahrzeugpfandrecht: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Schnittstellenkarte mit Zuständigkeits- und Nachweisfragen."
 ---
 
 # Luftfahrzeugpfandrecht

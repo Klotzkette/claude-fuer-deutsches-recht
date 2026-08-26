@@ -1,6 +1,6 @@
 ---
 name: zeugenbeweis-sozialgericht-373-zpo-analog
-description: "Wenn es um Zeugen vor dem Sozialgericht in selbstvertreter-sozialgericht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Zeugen vor dem Sozialgericht: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Beweislast- und Substantiierungsmatrix."
 ---
 
 # Zeugen vor dem Sozialgericht

@@ -1,6 +1,6 @@
 ---
 name: cloud-plattform-schule-m365
-description: "Wenn es um Cloud-Plattform Schule und M365 in Schulrecht der Bundesländer geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Cloud-Plattform Schule und M365: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Cloud-Plattform Schule und M365

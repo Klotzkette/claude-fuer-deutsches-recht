@@ -1,6 +1,6 @@
 ---
 name: restitutio-integrum-seehandel-lex-fenus
-description: "Wenn es um Rom 121 Restitutio In Integrum Ob Aetatem Vermögensschutz in Römisches Recht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. Auswahlstichwort: Restitutio Integrum Seehandel Lex Fenus; Arbeitsfeld: Römisches Recht."
+description: "Für Rom 121 Restitutio in Integrum Ob Aetatem Vermögensschutz: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt. Fachgebiet: Römisches Recht. Route: restitutio-integrum-seehandel-lex-fenus."
 ---
 
 # Rom 121 Restitutio In Integrum Ob Aetatem Vermögensschutz

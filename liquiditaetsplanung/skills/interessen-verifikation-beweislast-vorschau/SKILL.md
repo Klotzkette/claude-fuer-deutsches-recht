@@ -1,6 +1,6 @@
 ---
 name: interessen-verifikation-beweislast-vorschau
-description: "Wenn es um Interessen Verifikation Beweislast Vorschau in Liquiditätsplanung — Power geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Interessen Verifikation Beweislast Vorschau: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Beweislast- und Substantiierungsmatrix."
 ---
 
 # Interessen Verifikation Beweislast Vorschau

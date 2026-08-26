@@ -1,6 +1,6 @@
 ---
 name: anwaelte-vermoegensverfall-und-zulassungswiderruf-rechtsprechun
-description: "Wenn es um Anwaelte Vermoegensverfall Und Zulassungswiderruf Rechtsprechun in Berufsrecht Anwälte geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Gegenprüfung mit Fehler-, Beweis- und Fristencheck."
+description: "Für Anwälte Vermögensverfall und Zulassungswiderruf Rechtsprechun: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Anwälte: vermoegensverfall und zulassungswiderruf - Rechtsprechungscheck, stärkste Gegenansicht und Red-Team-Korrektur

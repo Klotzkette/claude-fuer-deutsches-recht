@@ -1,6 +1,6 @@
 ---
 name: geldbetraege-berechnungen-gerichtstermin
-description: "Wenn es um Geldbetraege Berechnungen in Juristische Sprache Deutsch als Zweitsprache geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Geldbeträge Berechnungen: rechnet Beträge, Schwellen und Varianten; Ergebnis: Berechnungstabelle mit Annahmen und Kontrollfragen."
 ---
 
 # Geldbetraege Berechnungen

@@ -1,6 +1,6 @@
 ---
 name: pralr-001-kaltstart-textzeuge-und-ziel
-description: "Wenn es um Kaltstart: Textzeuge und Ziel in Preußisches Allgemeines Landrecht geht: klärt Rolle, Ziel, Frist, Unterlagen und den passenden nächsten Fachskill; liefert eine Fristen- und Risikoampel mit Sofortschritten. Auswahlstichwort: Pralr 001 Kaltstart Textzeuge Und Ziel; Arbeitsfeld: Preußisches Allgemeines Landrecht."
+description: "Für Kaltstart: Textzeuge und Ziel: routet Rolle, Frist, Unterlagen und Fachschritt; Ergebnis: Schnittstellenkarte mit Zuständigkeits- und Nachweisfragen. Fachgebiet: Preußisches Allgemeines Landrecht. Route: pralr-001-kaltstart-textzeuge-und-ziel."
 ---
 
 # Kaltstart: Textzeuge und Ziel

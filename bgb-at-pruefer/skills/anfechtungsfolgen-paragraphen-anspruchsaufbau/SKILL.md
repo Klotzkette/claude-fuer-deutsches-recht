@@ -1,6 +1,6 @@
 ---
 name: anfechtungsfolgen-paragraphen-anspruchsaufbau
-description: "Wenn es um Anfechtungsfolgen — Paragrafen 142 und 122 BGB in BGB AT Prüfer geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Beweislast- und Substantiierungsmatrix. Auswahlstichwort: Anfechtungsfolgen Paragraphen Anspruchsaufbau; Arbeitsfeld: BGB AT Prüfer."
+description: "Für Anfechtungsfolgen — Paragrafen 142 und 122 BGB: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Tatbestands- oder Anspruchsmatrix."
 ---
 
 # Anfechtungsfolgen — §§ 142 und 122 BGB

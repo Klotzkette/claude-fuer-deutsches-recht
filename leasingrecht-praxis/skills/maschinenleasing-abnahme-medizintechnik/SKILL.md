@@ -1,6 +1,6 @@
 ---
 name: maschinenleasing-abnahme-medizintechnik
-description: "Wenn es um Maschinenleasing: Abnahme, Wartung und Stillstand in Leasingrecht Praxis geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Maschinenleasing: Abnahme, Wartung und Stillstand: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Maschinenleasing: Abnahme, Wartung und Stillstand

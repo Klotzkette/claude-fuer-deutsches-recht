@@ -1,6 +1,6 @@
 ---
 name: confirmation-1129
-description: "Wenn es um Confirmation Paragraf 1129 in US Bankruptcy Code geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
+description: "Für Confirmation Paragraf 1129: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Confirmation § 1129

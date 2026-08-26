@@ -1,6 +1,6 @@
 ---
 name: schenkungen-sponsoring
-description: "Wenn es um Schenkungen und Sponsoring in Lobbyregister Bundestag geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Schenkungen und Sponsoring: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Schenkungen und Sponsoring

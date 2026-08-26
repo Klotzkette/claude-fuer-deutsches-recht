@@ -1,6 +1,6 @@
 ---
 name: 72-stunden-sprint
-description: "Wenn es um 72 Stunden Sprint in Wahlkampfrecht Praxis geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für 72 Stunden Sprint: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # 72 Stunden Sprint

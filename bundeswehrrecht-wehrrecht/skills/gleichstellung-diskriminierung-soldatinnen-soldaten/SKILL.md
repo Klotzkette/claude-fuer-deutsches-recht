@@ -1,6 +1,6 @@
 ---
 name: gleichstellung-diskriminierung-soldatinnen-soldaten
-description: "Wenn es um Gleichstellung Diskriminierung Soldatinnen Soldaten in Bundeswehrrecht und Wehrrecht geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
+description: "Für Gleichstellung Diskriminierung Soldatinnen Soldaten: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Gleichstellung Diskriminierung Soldatinnen Soldaten

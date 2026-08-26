@@ -1,6 +1,6 @@
 ---
 name: pyramide-check-dsgvo-p2b-anti-steering
-description: "Wenn es um Digitalregulierung — Pyramiden-Check in DSA, DMA und Digitalregulierung der EU geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen."
+description: "Für Digitalregulierung — Pyramiden-Check: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Digitalregulierung — Pyramiden-Check

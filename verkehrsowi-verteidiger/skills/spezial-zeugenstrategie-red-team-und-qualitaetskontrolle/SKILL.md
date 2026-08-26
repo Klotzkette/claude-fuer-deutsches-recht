@@ -1,6 +1,6 @@
 ---
 name: spezial-zeugenstrategie-red-team-und-qualitaetskontrolle
-description: "Wenn es um Zeugenstrategie: Red-Team und Qualitätskontrolle in VerkehrsOWi-Verteidiger geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Zeugenstrategie: Red-Team und Qualitätskontrolle: prüft Ergebnis, Beweislast und Gegenposition; Ergebnis: Gegenprüfung mit Beweis- und Fristencheck."
 ---
 
 # Zeugenstrategie: Red-Team und Qualitätskontrolle

@@ -1,6 +1,6 @@
 ---
 name: sachenrecht-des-weltraums-register-pfandrecht-und-sich
-description: "Wenn es um Weltraumrecht: Sachenrecht des Weltraums: Register, Pfandrecht, Sicherungsübereignung in Weltraumrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Weltraumrecht: Sachenrecht des Weltraums: Register, Pfandrecht, Sicherungsübereignung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Einreichungsplan mit Form- und Nachweischeck."
 ---
 
 # Weltraumrecht: Sachenrecht des Weltraums: Register, Pfandrecht, Sicherungsübereignung

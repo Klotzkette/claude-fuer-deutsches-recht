@@ -1,6 +1,6 @@
 ---
 name: beanstandung-durch-aufsichtsbehoerde-anhoerung
-description: "Wenn es um Beanstandung durch Aufsichtsbehörde Anhörung in Apothekenrecht geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
+description: "Für Beanstandung durch Aufsichtsbehörde Anhörung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Beanstandung durch Aufsichtsbehörde Anhörung

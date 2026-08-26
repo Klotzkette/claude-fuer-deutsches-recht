@@ -1,6 +1,6 @@
 ---
 name: strafrecht-spezial-btmg-35-therapie-statt-strafe
-description: "Wenn es um Paragraf 35 BtMG Zurueckstellung der Strafvollstreckung zugunsten einer Therapie in Fachanwalt Strafrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Paragraf 35 BtMG Zurückstellung der Strafvollstreckung zugunsten einer Therapie: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # § 35 BtMG Zurueckstellung der Strafvollstreckung zugunsten einer Therapie

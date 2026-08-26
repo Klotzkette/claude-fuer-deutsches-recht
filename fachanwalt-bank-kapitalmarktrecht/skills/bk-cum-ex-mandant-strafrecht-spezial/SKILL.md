@@ -1,6 +1,6 @@
 ---
 name: bk-cum-ex-mandant-strafrecht-spezial
-description: "Wenn es um Bk Cum Ex Mandant Strafrecht Spezial in Fachanwalt Bank Kapitalmarktrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Bk Cum Ex Mandant Strafrecht Spezial: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Spezialfall Cum-Ex und Cum-Cum Mandate: Steuerstrafrecht § 370 AO, Verjährung, Selbstanzeige, Anrechnung KapErtSt

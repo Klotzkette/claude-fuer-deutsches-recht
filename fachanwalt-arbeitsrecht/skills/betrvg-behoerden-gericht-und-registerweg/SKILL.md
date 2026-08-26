@@ -1,6 +1,6 @@
 ---
 name: betrvg-behoerden-gericht-und-registerweg
-description: "Wenn es um BetrVG: Behörden, Gerichte und Registerwege — Beschlussverfahren Paragrafen 80 ff in Fachanwalt Arbeitsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für BetrVG: Behörden, Gerichte und Registerwege — Beschlussverfahren Paragrafen 80 ff: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Einreichungsplan mit Form- und Nachweischeck."
 ---
 
 # BetrVG: Behörden, Gerichte und Registerwege — Beschlussverfahren Paragrafen 80 ff
@@ -132,3 +132,7 @@ Nur bei besonders schwerwiegenden Mängeln, z.B. wenn kein Betrieb vorhanden war
 ## Was dieser Arbeitsgang nicht macht
 - Keine Beratung zu europäischen Betriebsräten oder internationalem Betriebsverfassungsrecht.
 - Keine abschließende Prüfung der Beteiligtenstellung ohne vollständige Sachverhaltskenntnis.
+
+## Vertiefung bei Bedarf
+
+- Bei `spezial-betrvg-behoerden-gericht-und-registerweg` beziehungsweise Betrvg: Behörden-, Gerichts- oder Registerweg: [die zusätzliche Vertiefung laden](./references/vertiefung-spezial-betrvg-behoerden-gericht-und-registerweg.md).

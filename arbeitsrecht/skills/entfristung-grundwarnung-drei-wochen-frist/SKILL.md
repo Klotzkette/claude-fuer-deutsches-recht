@@ -1,6 +1,6 @@
 ---
 name: entfristung-grundwarnung-drei-wochen-frist
-description: "Wenn es um Grundwarnung Entfristungsklage: Paragraf 17 TzBfG drei Wochen ab vereinbartem Vertragsende in Arbeitsrecht geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Grundwarnung Entfristungsklage: Paragraf 17 TzBfG drei Wochen ab vereinbartem Vertragsende: prüft Frist, Form, Zuständigkeit und Eilbedarf; Ergebnis: Fristen- und Risikoampel."
 ---
 
 # Grundwarnung Entfristungsklage: Paragraf 17 TzBfG drei Wochen ab vereinbartem Vertragsende

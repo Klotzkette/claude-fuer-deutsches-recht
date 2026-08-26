@@ -1,6 +1,6 @@
 ---
 name: evvollzug-neu-006-auslandszustellung-ev-und-uebersetzung
-description: "Wenn es um Gewerblicher Rechtsschutz: Auslandszustellung eV und Übersetzung in Plugin: Gewerblicher Rechtsschutz geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Gewerblicher Rechtsschutz: Auslandszustellung eV und Übersetzung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Schnittstellenkarte mit Zuständigkeits- und Nachweisfragen."
 ---
 
 # Gewerblicher Rechtsschutz: Auslandszustellung eV und Übersetzung

@@ -1,6 +1,6 @@
 ---
 name: zivilrecht-tatbestand-beweis-und-belege
-description: "Wenn es um Zivilrecht: Tatbestandsmerkmale, Beweisfragen und Beleglage in Schriftform und Textform im BGB geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Beweislast- und Substantiierungsmatrix."
+description: "Für Zivilrecht: Tatbestandsmerkmale, Beweisfragen und Beleglage: ordnet Akte, Belege und Lücken; Ergebnis: Beweislast- und Substantiierungsmatrix."
 ---
 
 # Zivilrecht: Tatbestandsmerkmale, Beweisfragen und Beleglage

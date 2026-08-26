@@ -1,6 +1,6 @@
 ---
 name: luft-095-acc3-genehmigung-pruefen
-description: "Wenn es um Acc3 Genehmigung Pruefen in Luftrecht und Flughafenrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Acc3 Genehmigung Prüfen: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Acc3 Genehmigung Pruefen

@@ -1,6 +1,6 @@
 ---
 name: roadshow-dual
-description: "Wenn es um Roadshows – Insiderrechtliche Compliance in Insiderrecht Compliance geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
+description: "Für Roadshows – Insiderrechtliche Compliance: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Roadshows – Insiderrechtliche Compliance

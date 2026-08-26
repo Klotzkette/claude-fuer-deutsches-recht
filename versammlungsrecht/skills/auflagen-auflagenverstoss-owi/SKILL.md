@@ -1,6 +1,6 @@
 ---
 name: auflagen-auflagenverstoss-owi
-description: "Wenn es um Auflagen brauchen mehr als Bauchgefühl in Versammlungsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Auflagen brauchen mehr als Bauchgefühl: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Auflagen brauchen mehr als Bauchgefühl

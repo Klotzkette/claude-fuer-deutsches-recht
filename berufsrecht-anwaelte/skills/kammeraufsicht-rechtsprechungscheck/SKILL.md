@@ -1,6 +1,6 @@
 ---
 name: kammeraufsicht-rechtsprechungscheck
-description: "Wenn es um Kammeraufsicht Rechtsprechungscheck in Berufsrecht Anwälte geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Gegenprüfung mit Fehler-, Beweis- und Fristencheck."
+description: "Für Kammeraufsicht Rechtsprechungscheck: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Anwälte: vergleich mit kammeraufsicht - Rechtsprechungscheck, stärkste Gegenansicht und Red-Team-Korrektur

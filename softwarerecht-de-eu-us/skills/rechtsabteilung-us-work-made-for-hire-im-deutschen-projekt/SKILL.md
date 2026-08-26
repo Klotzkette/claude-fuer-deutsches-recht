@@ -1,6 +1,6 @@
 ---
 name: rechtsabteilung-us-work-made-for-hire-im-deutschen-projekt
-description: "Wenn es um Rechtsabteilung: US Work Made for Hire im deutschen Projekt in Softwarerecht Deutschland/EU/International/USA geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen."
+description: "Für Rechtsabteilung: US Work Made for Hire im deutschen Projekt: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Schnittstellenkarte mit Zuständigkeits- und Nachweisfragen."
 ---
 
 # Rechtsabteilung: US Work Made for Hire im deutschen Projekt

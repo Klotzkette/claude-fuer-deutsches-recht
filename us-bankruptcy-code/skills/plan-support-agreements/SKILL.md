@@ -1,6 +1,6 @@
 ---
 name: plan-support-agreements
-description: "Wenn es um Plan Support Agreements in US Bankruptcy Code geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Plan Support Agreements: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Plan Support Agreements

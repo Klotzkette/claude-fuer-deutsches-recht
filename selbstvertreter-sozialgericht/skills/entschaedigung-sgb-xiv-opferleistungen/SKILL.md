@@ -1,6 +1,6 @@
 ---
 name: entschaedigung-sgb-xiv-opferleistungen
-description: "Wenn es um Soziales Entschaedigungsrecht — SGB XIV in selbstvertreter-sozialgericht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Soziales Entschädigungsrecht — SGB XIV: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Soziales Entschaedigungsrecht — SGB XIV

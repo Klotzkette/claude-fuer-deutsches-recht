@@ -1,6 +1,6 @@
 ---
 name: see-086-binnenschiff-versicherung-melden
-description: "Wenn es um Binnenschiff Versicherung Melden in See- und Schifffahrtsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Binnenschiff Versicherung Melden: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Binnenschiff Versicherung Melden

@@ -1,6 +1,6 @@
 ---
 name: eskalation-bei-deadline-konflikt
-description: "Wenn es um Eskalation bei Deadline-Konflikt in Verlagsredaktion geht: entwickelt Verhandlungsziel, Vergleichskorridor und Eskalationspfad; liefert eine Verhandlungs- oder Eskalationslinie mit Optionen."
+description: "Für Eskalation bei Deadline-Konflikt: entwickelt Ziel, Vergleich und Eskalation; Ergebnis: Verhandlungs- oder Eskalationslinie."
 ---
 
 # Eskalation bei Deadline-Konflikt

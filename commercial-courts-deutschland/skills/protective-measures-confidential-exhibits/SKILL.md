@@ -1,6 +1,6 @@
 ---
 name: protective-measures-confidential-exhibits
-description: "Wenn es um Confidential Exhibits in commercial-courts-deutschland geht: entwickelt Verhandlungsziel, Vergleichskorridor und Eskalationspfad; liefert eine Verhandlungs- oder Eskalationslinie mit Optionen."
+description: "Für Confidential Exhibits: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Confidential Exhibits

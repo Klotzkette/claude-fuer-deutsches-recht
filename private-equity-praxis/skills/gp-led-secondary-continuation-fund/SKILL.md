@@ -1,6 +1,6 @@
 ---
 name: gp-led-secondary-continuation-fund
-description: "Wenn es um GP-led Secondary und Continuation Fund in Private Equity Praxis geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für GP-led Secondary und Continuation Fund: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # GP-led Secondary und Continuation Fund

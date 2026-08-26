@@ -1,6 +1,6 @@
 ---
 name: lehrer-schule-beamtenrecht
-description: "Wenn es um Lehrer Schule Beamtenrecht in Beamtenrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Lehrer Schule Beamtenrecht: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Lehrer Schule Beamtenrecht

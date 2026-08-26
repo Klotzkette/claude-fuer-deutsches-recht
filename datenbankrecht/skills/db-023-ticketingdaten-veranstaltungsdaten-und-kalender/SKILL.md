@@ -1,6 +1,6 @@
 ---
 name: db-023-ticketingdaten-veranstaltungsdaten-und-kalender
-description: "Wenn es um Datenbankrecht: Ticketingdaten Veranstaltungsdaten und Kalender in Datenbankrecht und Datenbankherstellerrecht geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Datenbankrecht: Ticketingdaten Veranstaltungsdaten und Kalender: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Datenbankrecht: Ticketingdaten Veranstaltungsdaten und Kalender

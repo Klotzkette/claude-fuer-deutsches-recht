@@ -1,6 +1,6 @@
 ---
 name: zugang-neu-004-persoenliche-uebergabe-empfangsverweigerung
-description: "Wenn es um Arbeitsrecht: Persönliche Übergabe Empfangsverweigerung und Zeugen in Arbeitsrecht geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Arbeitsrecht: Persönliche Übergabe Empfangsverweigerung und Zeugen: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Schnittstellenkarte mit Zuständigkeits- und Nachweisfragen."
 ---
 
 # Arbeitsrecht: Persönliche Übergabe Empfangsverweigerung und Zeugen

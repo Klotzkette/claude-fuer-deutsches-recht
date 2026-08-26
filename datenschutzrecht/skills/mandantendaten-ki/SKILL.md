@@ -1,6 +1,6 @@
 ---
 name: mandantendaten-ki
-description: "Wenn es um Mandantendaten und digitale Werkzeuge-Dienstleister (Paragraf 203 StGB, Art. 28 DSGVO) in Datenschutzrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Mandantendaten und digitale Werkzeuge-Dienstleister (Paragraf 203 StGB, Art. 28 DSGVO): ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Mandantendaten und KI-Dienstleister (§ 203 StGB, Art. 28 DSGVO)

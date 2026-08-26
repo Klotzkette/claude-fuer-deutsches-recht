@@ -1,6 +1,6 @@
 ---
 name: ihl-025-spediteur-und-logistikvertrag
-description: "Wenn es um Spediteur Und Logistikvertrag in Internationales Handelsrecht und Lex Mercatoria geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Spediteur und Logistikvertrag: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Schnittstellenkarte mit Zuständigkeits- und Nachweisfragen."
 ---
 
 # Spediteur Und Logistikvertrag

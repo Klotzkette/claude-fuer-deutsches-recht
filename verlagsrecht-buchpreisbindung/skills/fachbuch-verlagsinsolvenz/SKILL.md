@@ -1,6 +1,6 @@
 ---
 name: fachbuch-verlagsinsolvenz
-description: "Wenn es um Verl-022 · Fachbuch, Aktualisierung, Loseblatt und Online-Datenbank in Verlagsrecht und Buchpreisbindung geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Verl-022 · Fachbuch, Aktualisierung, Loseblatt und Online-Datenbank: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Verl-022 · Fachbuch, Aktualisierung, Loseblatt und Online-Datenbank

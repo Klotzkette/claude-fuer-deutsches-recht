@@ -1,6 +1,6 @@
 ---
 name: nda-typen-vergleich
-description: "Wenn es um NDA-Typen Vergleich in NDA-Abgleich geht: entwickelt Verhandlungsziel, Vergleichskorridor und Eskalationspfad; liefert eine Verhandlungs- oder Eskalationslinie mit Optionen."
+description: "Für NDA-Typen Vergleich: entwickelt Ziel, Vergleich und Eskalation; Ergebnis: Verhandlungs- oder Eskalationslinie."
 ---
 
 # NDA-Typen Vergleich

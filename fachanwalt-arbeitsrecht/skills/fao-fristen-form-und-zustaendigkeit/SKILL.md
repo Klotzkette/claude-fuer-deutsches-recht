@@ -1,6 +1,6 @@
 ---
 name: fao-fristen-form-und-zustaendigkeit
-description: "Wenn es um Fao Fristen Form Und Zuständigkeit in Fachanwalt Arbeitsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Fao Fristen Form und Zuständigkeit: prüft Frist, Form, Zuständigkeit und Eilbedarf; Ergebnis: Fristen- und Risikoampel."
 ---
 
 # Fachanwalt für Arbeitsrecht (FAO Paragraf 10): Verfahrensrecht ArbGG, Zuständigkeit Paragrafen 2 und 2a ArbGG, Urteilsverfahren vs
@@ -118,3 +118,7 @@ Angelegenheiten aus dem BetrVG, MitbestG, TVG (Paragraf 2a ArbGG); Beteiligte si
 ## Was dieser Arbeitsgang nicht macht
 - Keine abschließende Zuständigkeitsprüfung bei internationalem Sachverhalt (EuGVVO, Brüssel Ia-VO).
 - Keine Prüfung von Sondergerichtsbarkeiten (Verwaltungsgericht für Beamte, Sozialgericht für SGB-Ansprüche).
+
+## Vertiefung bei Bedarf
+
+- Bei `spezial-fao-fristen-form-und-zustaendigkeit` beziehungsweise FAO: Fristen, Form, Zuständigkeit und Rechtsweg: [die zusätzliche Vertiefung laden](./references/vertiefung-spezial-fao-fristen-form-und-zustaendigkeit.md).

@@ -1,6 +1,6 @@
 ---
 name: telefonische-terminvergabe-interessen
-description: "Wenn es um Telefonische: Compliance-Dokumentation und Aktenvermerk in mandantenanfragen-assistent geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
+description: "Für Telefonische: Compliance-Dokumentation und Aktenvermerk: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Telefonische: Compliance-Dokumentation und Aktenvermerk

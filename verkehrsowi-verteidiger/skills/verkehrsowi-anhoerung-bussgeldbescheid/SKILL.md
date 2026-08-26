@@ -1,6 +1,6 @@
 ---
 name: verkehrsowi-anhoerung-bussgeldbescheid
-description: "Wenn es um Anhörung und Bussgeldbescheid — Paragrafen 55 und 66 OWiG in VerkehrsOWi-Verteidiger geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Anhörung und Bussgeldbescheid — Paragrafen 55 und 66 OWiG: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Anhörung und Bussgeldbescheid — §§ 55 und 66 OWiG

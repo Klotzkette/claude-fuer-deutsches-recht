@@ -1,6 +1,6 @@
 ---
 name: lph8-bauueberwachung-wasserwerk-rohrleitung
-description: "Wenn es um Bauueberwachung Wasserwerk und Trinkwasserrohrleitung in HOAI Leistungsphasen Praxis geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Bauüberwachung Wasserwerk und Trinkwasserrohrleitung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Bauueberwachung Wasserwerk und Trinkwasserrohrleitung

@@ -1,6 +1,6 @@
 ---
 name: libertaere-methodenkritik-privatautonomie
-description: "Wenn es um Libertäre Methodenkritik: Privatautonomie und minimale Inhaltskontrolle in Methodenlehre bürgerliches Recht geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Libertäre Methodenkritik: Privatautonomie und minimale Inhaltskontrolle: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Libertäre Methodenkritik: Privatautonomie und minimale Inhaltskontrolle

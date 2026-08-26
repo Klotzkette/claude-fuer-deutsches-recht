@@ -1,6 +1,6 @@
 ---
 name: krypto-wallet-nachlass-multisig
-description: "Wenn es um Krypto-Vermögenswerte und digitale Wallets im Erbfall sichern und auf Erben uebertragen in Fachanwalt Erbrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Krypto-Vermögenswerte und digitale Wallets im Erbfall sichern und auf Erben übertragen: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Krypto-Vermögenswerte und digitale Wallets im Erbfall sichern und auf Erben uebertragen

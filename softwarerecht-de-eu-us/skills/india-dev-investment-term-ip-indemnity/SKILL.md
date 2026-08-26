@@ -1,6 +1,6 @@
 ---
 name: india-dev-investment-term-ip-indemnity
-description: "Wenn es um India Development Outsourcing in Softwarerecht Deutschland/EU/International/USA geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für India Development Outsourcing: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # India Development Outsourcing

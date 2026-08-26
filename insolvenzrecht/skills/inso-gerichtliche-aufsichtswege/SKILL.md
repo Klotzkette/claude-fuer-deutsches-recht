@@ -1,6 +1,6 @@
 ---
 name: inso-gerichtliche-aufsichtswege
-description: "Wenn es um Gerichtliche und aufsichtsrechtliche Wege gegen Auskunfteien in Insolvenzrecht geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
+description: "Für Gerichtliche und aufsichtsrechtliche Wege gegen Auskunfteien: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Gerichtliche und aufsichtsrechtliche Wege gegen Auskunfteien

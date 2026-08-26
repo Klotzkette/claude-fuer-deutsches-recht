@@ -1,6 +1,6 @@
 ---
 name: medr-aufklaerung-und-einwilligung-praxis
-description: "Wenn es um Medr Aufklaerung Und Einwilligung Praxis in Fachanwalt Medizinrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Medr Aufklärung und Einwilligung Praxis: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Aufklaerung und Einwilligung in der Praxis: § 630e BGB, Form, Zeitpunkt, Inhalt, Sprachbarrieren, Stellvertretung Minderjaehriger, Notfallausnahme

@@ -1,6 +1,6 @@
 ---
 name: abstimmung-mit-produktion-satz-druck
-description: "Wenn es um Abstimmung Produktion / Satz / Druck in Verlagsredaktion geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
+description: "Für Abstimmung Produktion / Satz / Druck: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Abstimmung Produktion / Satz / Druck

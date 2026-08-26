@@ -1,6 +1,6 @@
 ---
 name: managing-partner-wochenbrief
-description: "Wenn es um Managing-Partner-Wochenbrief in Kanzlei Management geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
+description: "Für Managing-Partner-Wochenbrief: erstellt Entwurf mit Antrag, Beweis und Anlagen; Ergebnis: Schriftsatz mit Begründungs- und Anlagenlogik."
 ---
 
 # Managing-Partner-Wochenbrief

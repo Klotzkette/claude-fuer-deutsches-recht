@@ -1,6 +1,6 @@
 ---
 name: umgangsregelung-mustervorlagen
-description: "Formuliert vollziehbare Umgangsregelungen mit Wochen-, Ferien-, Übergabe-, Ausfall- und Nachholmechanik. Prüft Kindesanhörung, Verfahrensbeistand, gerichtliche Billigung, Schutzbedarf und Ordnungsmittel und trennt private Elternabsprache, gebilligten Vergleich und gerichtlichen Beschluss."
+description: "Formuliert vollziehbare Umgangsregelungen mit Wochen-, Ferien-, Übergabe-, Ausfall- und Nachholmechanik."
 ---
 
 # Umgangsregelungen nach Paragrafen 1684 und 1685 BGB formulieren: Regelmäßiger Umgang oder Streit um Umgangsrecht soll durch Vereinbarung oder Beschluss gelöst werden

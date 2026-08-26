@@ -1,6 +1,6 @@
 ---
 name: besold-neu-002-landesbesoldung-foederalismus-und-synopse
-description: "Wenn es um Beamtenrecht: Landesbesoldung Föderalismus und Synopse in Beamtenrecht geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Beamtenrecht: Landesbesoldung Föderalismus und Synopse: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Schnittstellenkarte mit Zuständigkeits- und Nachweisfragen."
 ---
 
 # Beamtenrecht: Landesbesoldung Föderalismus und Synopse

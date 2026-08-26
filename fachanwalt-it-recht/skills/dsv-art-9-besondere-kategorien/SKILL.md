@@ -1,6 +1,6 @@
 ---
 name: dsv-art-9-besondere-kategorien
-description: "Wenn es um Dsv Art 9 Besondere Kategorien in Fachanwalt It Recht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Dsv Art 9 Besondere Kategorien: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Bewertet einen Datenschutzvorfall mit besonderen Kategorien personenbezogener Daten nach Art

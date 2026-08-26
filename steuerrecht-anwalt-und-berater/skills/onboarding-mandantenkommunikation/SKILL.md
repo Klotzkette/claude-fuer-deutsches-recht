@@ -1,6 +1,6 @@
 ---
 name: onboarding-mandantenkommunikation
-description: "Wenn es um Mandantenkommunikation und Aufklaerungspflicht im Steuerrecht in Steuerrecht – Steuerberater und Anwälte geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Mandantennachricht oder Entscheidungsvorlage."
+description: "Für Mandantenkommunikation und Aufklärungspflicht im Steuerrecht: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Mandantennachricht oder Entscheidungsvorlage."
 ---
 
 # Mandantenkommunikation und Aufklaerungspflicht im Steuerrecht

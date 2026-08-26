@@ -1,6 +1,6 @@
 ---
 name: krankenkassen-wahltarife-und-sonderkuendigung
-description: "Wenn es um Krankenkassen Wahltarife Und Sonderkuendigung in selbstvertreter-sozialgericht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Krankenkassen Wahltarife und Sonderkündigung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Krankenkassen Wahltarife Und Sonderkuendigung

@@ -1,6 +1,6 @@
 ---
 name: erstpruefung-und-mandatsziel
-description: "Wenn es um Fachanwalt: Erstprüfung, Rollenklärung und Mandatsziel in Fachanwalt Internationales Wirtschaftsrecht geht: klärt Rolle, Ziel, Frist, Unterlagen und den passenden nächsten Fachskill; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Fachanwalt: Erstprüfung, Rollenklärung und Mandatsziel: routet Rolle, Frist, Unterlagen und Fachschritt; Ergebnis: Tatbestands- oder Anspruchsmatrix. Fachgebiet: Fachanwalt Internationales Wirtschaftsrecht."
 ---
 
 # Fachanwalt: Erstprüfung, Rollenklärung und Mandatsziel

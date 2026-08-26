@@ -1,6 +1,6 @@
 ---
 name: beweise-und-darlegungslast-bereicherungsrecht
-description: "Wenn es um Beweise und Darlegungslast im Bereicherungsrecht in bereicherungs-und-anfechtungsrecht-prüfer geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Beweislast- und Substantiierungsmatrix."
+description: "Für Beweise und Darlegungslast im Bereicherungsrecht: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Beweislast- und Substantiierungsmatrix."
 ---
 
 # Beweise und Darlegungslast im Bereicherungsrecht

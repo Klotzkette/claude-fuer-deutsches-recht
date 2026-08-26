@@ -1,6 +1,6 @@
 ---
 name: sechs-u-haft-aussageanalyse
-description: "Wenn es um Sechs: Fristen, Form, Zuständigkeit und Rechtsweg in Aktenaufbereiter Strafrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Sechs: Fristen, Form, Zuständigkeit und Rechtsweg: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Sechs: Fristen, Form, Zuständigkeit und Rechtsweg

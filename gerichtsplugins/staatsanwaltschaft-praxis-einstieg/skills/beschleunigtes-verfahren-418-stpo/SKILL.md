@@ -1,6 +1,6 @@
 ---
 name: beschleunigtes-verfahren-418-stpo
-description: "Wenn es um Beschleunigtes Verfahren nach Paragraf 418 StPO in Staatsanwaltschaft Praxis-Einstieg geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Beweislast- und Substantiierungsmatrix."
+description: "Für Beschleunigtes Verfahren nach Paragraf 418 StPO: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Schnittstellenkarte mit Zuständigkeits- und Nachweisfragen."
 ---
 
 # Beschleunigtes Verfahren nach Paragraf 418 StPO

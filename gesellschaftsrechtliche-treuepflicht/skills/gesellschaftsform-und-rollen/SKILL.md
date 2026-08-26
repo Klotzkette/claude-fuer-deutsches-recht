@@ -1,6 +1,6 @@
 ---
 name: gesellschaftsform-und-rollen
-description: "Wenn es um Gesellschaftsform Und Rollen in Gesellschaftsrechtliche Treuepflicht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen."
+description: "Für Gesellschaftsform und Rollen: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Gesellschaftsform Und Rollen

@@ -1,6 +1,6 @@
 ---
 name: datenschutz-kreditagentur-auskunft-art15-scorelogik
-description: "Wenn es um Datenschutz Kreditagentur Auskunft Art15 Scorelogik in Datenschutzrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Datenschutz Kreditagentur Auskunft Art15 Scorelogik: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Auskunft gegenüber Auskunfteien: gespeicherte Daten, Empfänger, Herkunft, Scorelogik, Kategorien, Löschfristen und Kopie.

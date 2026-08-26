@@ -1,6 +1,6 @@
 ---
 name: barrierefreiheit-fehlerkatalog
-description: "Wenn es um Barrierefreiheit Fehlerkatalog in Barrierefreiheit Web Checker geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Barrierefreiheit Fehlerkatalog: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Barrierefreiheit Fehlerkatalog

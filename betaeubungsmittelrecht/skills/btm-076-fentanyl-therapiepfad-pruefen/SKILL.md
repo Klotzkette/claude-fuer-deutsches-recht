@@ -1,6 +1,6 @@
 ---
 name: btm-076-fentanyl-therapiepfad-pruefen
-description: "Wenn es um Fentanyl Therapiepfad Pruefen in Betäubungsmittelrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Fentanyl Therapiepfad Prüfen: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt. Fachgebiet: Betäubungsmittelrecht. Route: btm-076-fentanyl-therapiepfad-pruefen."
 ---
 
 # Fentanyl Therapiepfad Pruefen

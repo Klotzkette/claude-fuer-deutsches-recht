@@ -1,6 +1,6 @@
 ---
 name: ropa-en-processor-template
-description: "Wenn es um Records of Processing Activities (RoPA) – Processor Template (English) in Datenschutzrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Records of Processing Activities (RoPA) – Processor Template (English): ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Records of Processing Activities (RoPA) – Processor Template (English)

@@ -1,6 +1,6 @@
 ---
 name: kegelclub-freizeitverein-verein-kulturverein
-description: "Wenn es um Kegelclub/Freizeitverein in Vereinsrecht und Vereinsmanager geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
+description: "Für Kegelclub/Freizeitverein: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Kegelclub/Freizeitverein

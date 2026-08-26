@@ -1,6 +1,6 @@
 ---
 name: presserecht-und-meinungsfreiheit-historisch
-description: "Wenn es um Presserecht und Meinungsfreiheit historisch in Deutsche Rechtsgeschichte geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Presserecht und Meinungsfreiheit historisch: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Presserecht und Meinungsfreiheit historisch

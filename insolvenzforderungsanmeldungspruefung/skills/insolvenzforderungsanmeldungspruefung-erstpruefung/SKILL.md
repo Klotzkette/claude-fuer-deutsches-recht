@@ -1,6 +1,6 @@
 ---
 name: insolvenzforderungsanmeldungspruefung-erstpruefung
-description: "Wenn es um Insolvenzforderungsanmeldungspruefung: Erstprüfung, Rollenklärung und Mandatsziel in Insolvenzforderungsanmeldungsprüfung geht: klärt Rolle, Ziel, Frist, Unterlagen und den passenden nächsten Fachskill; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Insolvenzforderungsanmeldungsprüfung: Erstprüfung, Rollenklärung und Mandatsziel: routet Rolle, Frist, Unterlagen und Fachschritt; Ergebnis: Tatbestands- oder Anspruchsmatrix."
 ---
 
 # Insolvenzforderungsanmeldungspruefung: Erstprüfung, Rollenklärung und Mandatsziel

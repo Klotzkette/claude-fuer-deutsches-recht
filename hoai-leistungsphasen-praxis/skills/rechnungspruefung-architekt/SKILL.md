@@ -1,6 +1,6 @@
 ---
 name: rechnungspruefung-architekt
-description: "Wenn es um HOAI Querschnitt: Prüft unternehmerrechnung in HOAI Leistungsphasen Praxis geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Gegenprüfung mit Fehler-, Beweis- und Fristencheck."
+description: "Für HOAI Querschnitt: Prüft unternehmerrechnung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Tatbestands- oder Anspruchsmatrix."
 ---
 
 # HOAI Querschnitt: Prüft unternehmerrechnung

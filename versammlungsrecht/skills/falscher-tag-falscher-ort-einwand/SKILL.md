@@ -1,6 +1,6 @@
 ---
 name: falscher-tag-falscher-ort-einwand
-description: "Wenn es um Nicht jeder Behördenwunsch ist Recht in Versammlungsrecht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
+description: "Für Nicht jeder Behördenwunsch ist Recht: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Nicht jeder Behördenwunsch ist Recht

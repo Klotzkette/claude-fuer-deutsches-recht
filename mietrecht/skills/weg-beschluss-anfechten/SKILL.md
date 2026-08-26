@@ -1,6 +1,6 @@
 ---
 name: weg-beschluss-anfechten
-description: "Wenn es um WEG-Beschluss anfechten in Mietrecht geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
+description: "Für WEG-Beschluss anfechten: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # WEG-Beschluss anfechten

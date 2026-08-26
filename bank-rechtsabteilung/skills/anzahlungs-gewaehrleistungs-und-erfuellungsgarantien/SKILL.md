@@ -1,6 +1,6 @@
 ---
 name: anzahlungs-gewaehrleistungs-und-erfuellungsgarantien
-description: "Wenn es um Anzahlungs-, Gewährleistungs- und Erfüllungsgarantien in Bank-Rechtsabteilung geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
+description: "Für Anzahlungs-, Gewährleistungs- und Erfüllungsgarantien: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Anzahlungs-, Gewährleistungs- und Erfüllungsgarantien

@@ -1,6 +1,6 @@
 ---
 name: klausur-pruefungsschema-kompakt
-description: "Wenn es um Klausurschema Verhältnismäßigkeit — kompakt in Verhältnismäßigkeitsprüfer geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Klausurschema Verhältnismäßigkeit — kompakt: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Tatbestands- oder Anspruchsmatrix."
 ---
 
 # Klausurschema Verhältnismäßigkeit — kompakt

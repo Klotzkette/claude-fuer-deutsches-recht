@@ -1,6 +1,6 @@
 ---
 name: land-dokumentenmatrix-lueckenliste
-description: "Wenn es um Land: Dokumentenmatrix, Lückenliste und Nachforderung in Urteilsbauer und Relationsmacher geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Land: Dokumentenmatrix, Lückenliste und Nachforderung: ordnet Akte, Belege und Lücken; Ergebnis: Dokumentenmatrix mit Nachforderungsliste."
 ---
 
 # Land: Dokumentenmatrix, Lückenliste und Nachforderung

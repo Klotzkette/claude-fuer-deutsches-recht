@@ -1,6 +1,6 @@
 ---
 name: aussenwirtschaft-pruefung-ermittlung
-description: "Wenn es um BAFA-Aussenpruefung und Zollbetriebspruefung: Verteidigung und Protokollierung in Außenwirtschaft, Sanktionen, Zoll und CBAM geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für BAFA-Außenprüfung und Zollbetriebsprüfung: Verteidigung und Protokollierung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Tatbestands- oder Anspruchsmatrix."
 ---
 
 # BAFA-Aussenpruefung und Zollbetriebspruefung: Verteidigung und Protokollierung

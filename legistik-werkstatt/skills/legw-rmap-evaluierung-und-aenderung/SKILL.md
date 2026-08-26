@@ -1,6 +1,6 @@
 ---
 name: legw-rmap-evaluierung-und-aenderung
-description: "Wenn es um Evaluierung und Aenderung von Rulemap-Normen in Legistik-Werkstatt geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Gegenprüfung mit Fehler-, Beweis- und Fristencheck."
+description: "Für Evaluierung und Änderung von Rulemap-Normen: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt. Fachgebiet: Legistik-Werkstatt. Route: legw-rmap-evaluierung-und-aenderung."
 ---
 
 # Evaluierung und Aenderung von Rulemap-Normen

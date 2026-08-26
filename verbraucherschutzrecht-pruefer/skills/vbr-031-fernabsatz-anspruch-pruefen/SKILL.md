@@ -1,6 +1,6 @@
 ---
 name: vbr-031-fernabsatz-anspruch-pruefen
-description: "Wenn es um Fernabsatz Anspruch Pruefen in Verbraucherschutzrecht Prüfer geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Fernabsatz Anspruch Prüfen: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Tatbestands- oder Anspruchsmatrix. Fachgebiet: Verbraucherschutzrecht Prüfer. Route: vbr-031-fernabsatz-anspruch-pruefen."
 ---
 
 # Fernabsatz Anspruch Pruefen

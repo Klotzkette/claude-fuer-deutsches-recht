@@ -1,6 +1,6 @@
 ---
 name: krisenstadien-fristennotiz-starug-gf-haftung
-description: "Wenn es um Krisenstadien: Fristennotiz und nächster Schritt in Krisenfrüherkennung und StaRUG-Management geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Krisenstadien: Fristennotiz und nächster Schritt: prüft Frist, Form, Zuständigkeit und Eilbedarf; Ergebnis: Fristen- und Risikoampel."
 ---
 
 # Krisenstadien: Fristennotiz und nächster Schritt

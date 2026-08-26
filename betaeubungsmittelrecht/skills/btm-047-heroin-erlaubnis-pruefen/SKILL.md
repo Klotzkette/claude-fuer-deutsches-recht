@@ -1,6 +1,6 @@
 ---
 name: btm-047-heroin-erlaubnis-pruefen
-description: "Wenn es um Heroin Erlaubnis Pruefen in Betäubungsmittelrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Heroin Erlaubnis Prüfen: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt. Fachgebiet: Betäubungsmittelrecht. Route: btm-047-heroin-erlaubnis-pruefen."
 ---
 
 # Heroin Erlaubnis Pruefen

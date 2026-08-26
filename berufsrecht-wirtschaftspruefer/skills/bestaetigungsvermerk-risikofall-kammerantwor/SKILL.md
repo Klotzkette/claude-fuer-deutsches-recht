@@ -1,6 +1,6 @@
 ---
 name: bestaetigungsvermerk-risikofall-kammerantwor
-description: "Wenn es um Bestaetigungsvermerk Risikofall Kammerantwor in Berufsrecht Wirtschaftsprüfer geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Verhandlungs- oder Eskalationslinie mit Optionen."
+description: "Für Bestätigungsvermerk Risikofall Kammerantwor: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Wirtschaftsprüfer: bestätigungsvermerk risikofall - Kammerantwort mit Verfahrensstrategie, Tonlage und Belegplan

@@ -1,6 +1,6 @@
 ---
 name: kontinuitaet-und-bruch-pruefen
-description: "Wenn es um Kontinuitaet und Bruch prüfen in Deutsche Rechtsgeschichte geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Kontinuität und Bruch prüfen: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Kontinuitaet und Bruch prüfen

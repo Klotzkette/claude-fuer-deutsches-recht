@@ -1,6 +1,6 @@
 ---
 name: beweismittel-katalog-beweisverwertungsverbote
-description: "Wenn es um Beweismittel-Katalog in Aktenaufbereiter Strafrecht geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Beweislast- und Substantiierungsmatrix."
+description: "Für Beweismittel-Katalog: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Beweislast- und Substantiierungsmatrix."
 ---
 
 # Beweismittel-Katalog

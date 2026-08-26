@@ -1,6 +1,6 @@
 ---
 name: onboarding-online-vertrieb-pharma-medtech
-description: "Wenn es um Onboarding eines neuen Handelsvertreters — Vertragsstart und erste Pflichten nach Paragraf 86 HGB in Handelsvertreterrecht und Vertriebsverträge geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Onboarding eines neuen Handelsvertreters — Vertragsstart und erste Pflichten nach Paragraf 86 HGB: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Onboarding eines neuen Handelsvertreters — Vertragsstart und erste Pflichten nach § 86 HGB

@@ -1,6 +1,6 @@
 ---
 name: plan-kommandocenter
-description: "Wenn es um IV-integrierte Kommandocenter für Planverfahren in Insolvenzverwaltung - IV-Cockpit geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für IV-integrierte Kommandocenter für Planverfahren: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # IV-integrierte Kommandocenter für Planverfahren

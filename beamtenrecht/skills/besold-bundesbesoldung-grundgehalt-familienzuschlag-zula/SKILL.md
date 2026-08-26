@@ -1,6 +1,6 @@
 ---
 name: besold-bundesbesoldung-grundgehalt-familienzuschlag-zula
-description: "Wenn es um Besold Bundesbesoldung Grundgehalt Familienzuschlag Zula in Beamtenrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Besold Bundesbesoldung Grundgehalt Familienzuschlag Zula: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Besold Bundesbesoldung Grundgehalt Familienzuschlag Zula

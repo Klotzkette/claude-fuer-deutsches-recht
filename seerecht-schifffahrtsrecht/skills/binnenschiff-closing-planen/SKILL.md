@@ -1,6 +1,6 @@
 ---
 name: binnenschiff-closing-planen
-description: "Wenn es um Binnenschiff – Closing planen in See- und Schifffahrtsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Binnenschiff – Closing planen: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Binnenschiff – Closing planen

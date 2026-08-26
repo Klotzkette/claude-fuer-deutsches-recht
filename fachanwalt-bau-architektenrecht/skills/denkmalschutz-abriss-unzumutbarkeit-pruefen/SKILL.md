@@ -1,6 +1,6 @@
 ---
 name: denkmalschutz-abriss-unzumutbarkeit-pruefen
-description: "Prüft die Ablehnung einer Abbruch- oder Veränderungserlaubnis für ein Baudenkmal. Bestimmt das einschlägige Landesdenkmalrecht, Denkmalwert, Erhaltungsalternativen, objektbezogene Wirtschaftlichkeit, Förderungen, Verkaufsmöglichkeit, Darlegungslast und Eigentumsschutz und erstellt Wirtschaftlichkeits- und Klagevermerk."
+description: "Prüft die Ablehnung einer Abbruch- oder Veränderungserlaubnis für ein Baudenkmal."
 ---
 
 # Abriss eines Baudenkmals prüfen

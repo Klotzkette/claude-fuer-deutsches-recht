@@ -1,6 +1,6 @@
 ---
 name: mandatsannahme-gwg
-description: "Wenn es um Mandatsannahme und Geldwäscheprüfung in Kanzlei-Allgemein geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert einen Einreichungsplan mit Form-, Portal- und Nachweischeck."
+description: "Für Mandatsannahme und Geldwäscheprüfung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Mandatsannahme und Geldwäscheprüfung

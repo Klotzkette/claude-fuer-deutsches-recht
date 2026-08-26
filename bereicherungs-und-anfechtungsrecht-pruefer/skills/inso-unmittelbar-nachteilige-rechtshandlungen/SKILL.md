@@ -1,6 +1,6 @@
 ---
 name: inso-unmittelbar-nachteilige-rechtshandlungen
-description: "Wenn es um Unmittelbar nachteilige Rechtshandlungen — Paragraf 132 InsO in bereicherungs-und-anfechtungsrecht-prüfer geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. Auswahlstichwort: Inso Unmittelbar Nachteilige Rechtshandlungen; Arbeitsfeld: bereicherungs-und-anfechtungsrecht-prüfer."
+description: "Für Unmittelbar nachteilige Rechtshandlungen — Paragraf 132 InsO: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt. Fachgebiet: bereicherungs-und-anfechtungsrecht-prüfer. Route: inso-unmittelbar-nachteilige-rechtshandlungen."
 ---
 
 # Unmittelbar nachteilige Rechtshandlungen — § 132 InsO

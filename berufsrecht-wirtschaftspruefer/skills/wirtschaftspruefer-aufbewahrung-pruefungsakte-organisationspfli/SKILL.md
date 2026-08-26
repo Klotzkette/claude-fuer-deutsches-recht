@@ -1,6 +1,6 @@
 ---
 name: wirtschaftspruefer-aufbewahrung-pruefungsakte-organisationspfli
-description: "Wenn es um Wirtschaftspruefer Aufbewahrung Pruefungsakte Organisationspfli in Berufsrecht Wirtschaftsprüfer geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Wirtschaftsprüfer Aufbewahrung Prüfungsakte Organisationspfli: ordnet Akte, Belege und Lücken; Ergebnis: Tatbestands- oder Anspruchsmatrix."
 ---
 
 # Wirtschaftsprüfer: aufbewahrung pruefungsakte - Organisationspflichten, Prävention, Team-Anweisung und Fristenkontrolle

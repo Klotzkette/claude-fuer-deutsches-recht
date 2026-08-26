@@ -1,6 +1,6 @@
 ---
 name: grenzueberschreitender-verbrauchervertrag-rom-i-bruessel-ia
-description: "Wenn es um Grenzüberschreitender Verbrauchervertrag Rom I Brüssel Ia in E-Commerce-Recht geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Grenzüberschreitender Verbrauchervertrag Rom I Brüssel Ia: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Grenzüberschreitender Verbrauchervertrag Rom I Brüssel Ia

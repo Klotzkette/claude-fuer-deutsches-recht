@@ -1,6 +1,6 @@
 ---
 name: reichskammergericht-und-reichshofrat
-description: "Wenn es um Reichskammergericht und Reichshofrat in Deutsche Rechtsgeschichte geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Reichskammergericht und Reichshofrat: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Reichskammergericht und Reichshofrat

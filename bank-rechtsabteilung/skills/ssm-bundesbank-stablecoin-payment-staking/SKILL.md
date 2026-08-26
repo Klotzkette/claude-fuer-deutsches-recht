@@ -1,6 +1,6 @@
 ---
 name: ssm-bundesbank-stablecoin-payment-staking
-description: "Wenn es um SSM und Bundesbank in Bank-Rechtsabteilung geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für SSM und Bundesbank: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # SSM und Bundesbank

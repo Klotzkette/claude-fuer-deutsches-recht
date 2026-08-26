@@ -1,6 +1,6 @@
 ---
 name: betreiber-mitverschulden-und-fehlbedienung
-description: "Wenn es um Betreiber-Mitverschulden und Fehlbedienung in robotik-recht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Betreiber-Mitverschulden und Fehlbedienung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt. Fachgebiet: robotik-recht. Route: betreiber-mitverschulden-und-fehlbedienung."
 ---
 
 # Betreiber-Mitverschulden und Fehlbedienung

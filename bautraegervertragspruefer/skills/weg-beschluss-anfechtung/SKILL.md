@@ -1,6 +1,6 @@
 ---
 name: weg-beschluss-anfechtung
-description: "Wenn es um WEG-Beschluss-Anfechtung in Bauträgervertragspruefer geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für WEG-Beschluss-Anfechtung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # WEG-Beschluss-Anfechtung

@@ -1,6 +1,6 @@
 ---
 name: 05-anspruchsgrundlagen-identifizieren
-description: "Wenn es um 05 Anspruchsgrundlagen Identifizieren in Relationstechnik Zivilrecht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Tatbestands- oder Anspruchsmatrix mit Gegenargumenten."
+description: "Für 05 Anspruchsgrundlagen Identifizieren: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Tatbestands- oder Anspruchsmatrix."
 ---
 
 # 05 Anspruchsgrundlagen Identifizieren

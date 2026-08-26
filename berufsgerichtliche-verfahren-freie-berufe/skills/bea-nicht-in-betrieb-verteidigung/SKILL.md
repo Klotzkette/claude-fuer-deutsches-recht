@@ -1,6 +1,6 @@
 ---
 name: bea-nicht-in-betrieb-verteidigung
-description: "Wenn es um beA nicht in Betrieb: Verteidigungs- und Kammerantwort in Berufsgerichtliche Verfahren Freie Berufe geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für beA nicht in Betrieb: Verteidigungs- und Kammerantwort: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # beA nicht in Betrieb: Verteidigungs- und Kammerantwort

@@ -1,6 +1,6 @@
 ---
 name: 006-etruskische-rechtsvorformen
-description: "Wenn es um Römisches Recht: Etruskische Rechtsvorformen Quellenarmut und Ritualrecht in Römisches Recht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Römisches Recht: Etruskische Rechtsvorformen Quellenarmut und Ritualrecht: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Römisches Recht: Etruskische Rechtsvorformen Quellenarmut und Ritualrecht

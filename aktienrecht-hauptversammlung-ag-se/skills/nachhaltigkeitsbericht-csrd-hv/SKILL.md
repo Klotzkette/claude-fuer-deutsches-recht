@@ -1,6 +1,6 @@
 ---
 name: nachhaltigkeitsbericht-csrd-hv
-description: "Wenn es um Nachhaltigkeitsbericht Csrd HV in Hauptversammlung AG und SE geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Nachhaltigkeitsbericht Csrd HV: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Nachhaltigkeitsbericht Csrd HV

@@ -1,6 +1,6 @@
 ---
 name: infl-044-buchhaltung-datev-creator-kontenplan
-description: "Wenn es um Influencer-Recht: Buchhaltung DATEV Creator Kontenplan in Influencer-Recht geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Influencer-Recht: Buchhaltung DATEV Creator Kontenplan: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Influencer-Recht: Buchhaltung DATEV Creator Kontenplan

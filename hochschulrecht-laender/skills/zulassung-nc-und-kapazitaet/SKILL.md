@@ -1,6 +1,6 @@
 ---
 name: zulassung-nc-und-kapazitaet
-description: "Wenn es um Zulassung NC Und Kapazitaet in Hochschulrecht der Bundesländer geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Zulassung NC und Kapazität: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Zulassung NC Und Kapazitaet

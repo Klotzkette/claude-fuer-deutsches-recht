@@ -1,6 +1,6 @@
 ---
 name: erbbaurechtsvertrag-pflichtinhalt
-description: "Wenn es um Erbbaurechtsvertrag entwerfen in Erbbaurecht Praxis geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
+description: "Für Erbbaurechtsvertrag entwerfen: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Erbbaurechtsvertrag entwerfen

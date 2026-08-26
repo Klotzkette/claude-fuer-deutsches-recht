@@ -1,6 +1,6 @@
 ---
 name: 017-erbbaurecht-bestellung-aenderung-heimfall-und-rang
-description: "Wenn es um Notariat im Alltag: Erbbaurecht – Bestellung, Änderung, Heimfall, Rang in Notariat im Alltag geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Notariat im Alltag: Erbbaurecht – Bestellung, Änderung, Heimfall, Rang: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Notariat im Alltag: Erbbaurecht – Bestellung, Änderung, Heimfall, Rang

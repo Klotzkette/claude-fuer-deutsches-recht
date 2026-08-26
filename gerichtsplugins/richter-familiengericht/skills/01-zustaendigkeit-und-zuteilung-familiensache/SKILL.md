@@ -1,6 +1,6 @@
 ---
 name: 01-zustaendigkeit-und-zuteilung-familiensache
-description: "Wenn es um 01 Zuständigkeit und Zuteilung Familiensache in Familiengericht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für 01 Zuständigkeit und Zuteilung Familiensache: prüft Frist, Form, Zuständigkeit und Eilbedarf; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # 01 Zuständigkeit und Zuteilung Familiensache

@@ -1,6 +1,6 @@
 ---
 name: datenbankrecht-und-datenschutz-personenbezogene-datensaet
-description: "Wenn es um Datenbankrecht und DSGVO — Personenbezogene Datenbanken in Datenbankrecht und Datenbankherstellerrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Datenbankrecht und DSGVO — Personenbezogene Datenbanken: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Datenbankrecht und DSGVO — Personenbezogene Datenbanken

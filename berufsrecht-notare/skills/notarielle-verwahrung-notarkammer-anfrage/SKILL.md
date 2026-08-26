@@ -1,6 +1,6 @@
 ---
 name: notarielle-verwahrung-notarkammer-anfrage
-description: "Wenn es um Notarielle Verwahrung Notarkammer Anfrage in Berufsrecht Notare geht: klärt Rolle, Ziel, Frist, Unterlagen und den passenden nächsten Fachskill; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Notarielle Verwahrung Notarkammer Anfrage: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Notare: notarielle verwahrung von daten - Kaltstart mit Faktenmatrix, Risikoampel und fehlenden Unterlagen

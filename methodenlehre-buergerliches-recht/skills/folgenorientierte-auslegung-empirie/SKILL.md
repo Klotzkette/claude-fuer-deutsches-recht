@@ -1,6 +1,6 @@
 ---
 name: folgenorientierte-auslegung-empirie
-description: "Wenn es um Folgenorientierte Auslegung: Methodik und empirische Anforderungen in Methodenlehre bürgerliches Recht geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
+description: "Für Folgenorientierte Auslegung: Methodik und empirische Anforderungen: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Folgenorientierte Auslegung: Methodik und empirische Anforderungen

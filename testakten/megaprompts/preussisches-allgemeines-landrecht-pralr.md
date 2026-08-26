@@ -7,13 +7,13 @@ Diese Vollprüfung enthält top-8 von 209 Skills (gekürzt für das Arbeitsfenst
 ## Inhaltsverzeichnis
 
 1. **juristischer-argumentationskern** — Schaltet sich ein, wenn in Preussisches Allgemeines Landrecht Pralr ein juristisches Arbeitsprodukt tragfähig begründet …
-2. **kaltstart-triage** — Wenn es um PrALR - Allgemeiner Einstieg in Preußisches Allgemeines Landrecht geht: klärt Rolle, Ziel, Frist, Unterlagen …
-3. **pralr-005-historische-anwendung-vs-heutiges-recht** — Wenn es um Historisch oder heute? in Preußisches Allgemeines Landrecht geht: ordnet Sachverhalt, Norm, Beweislast, Gegen…
-4. **sklaverei-aufhebung-und-edikte-1807-1857** — Wenn es um Aufhebung Sklaverei und Erbuntertaenigkeit in Preussen 1794-1857 in Preußisches Allgemeines Landrecht geht: p…
-5. **historische-anwendung-vs-heutiges-recht** — Wenn es um Historisch oder heute? in Preußisches Allgemeines Landrecht geht: ordnet Sachverhalt, Norm, Beweislast, Gegen…
-6. **pralr-046-nachbarrecht-heutiger-schriftsatz** — Wenn es um Nachbarrecht im Schriftsatz in Preußisches Allgemeines Landrecht geht: erstellt den passenden Entwurf aus Sac…
-7. **pralr-045-aufopferung-heutiger-schriftsatz** — Wenn es um Aufopferung im Schriftsatz in Preußisches Allgemeines Landrecht geht: erstellt den passenden Entwurf aus Sach…
-8. **sklaverei-aufhebung-edikte-1807** — Wenn es um Aufhebung Sklaverei und Erbuntertaenigkeit in Preussen 1794-1857 in Preußisches Allgemeines Landrecht geht: p…
+2. **kaltstart-triage** — Für PrALR - Allgemeiner Einstieg: routet Rolle, Frist, Unterlagen und Fachschritt; Ergebnis: Prüfprodukt mit Risiko und …
+3. **arbeitsrecht-vorgaenger-im-alr** — Ordnet Gesinde, Tagelohn, Handlungsgehilfen und freie Berufe nach den einschlägigen Titeln des Allgemeinen Landrechts ei…
+4. **aufwendungsersatz-im-vertrag** — Erschließt den Aufwendungsersatz im Allgemeinen Landrecht für Auftrag, Verwahrung, Vormundschaft und Pfand; ordnet erfor…
+5. **sklaverei-aufhebung-und-edikte-1807-1857** — Für Aufhebung Sklaverei und Erbuntertänigkeit in Preussen 1794-1857: ordnet Norm, Beweislast und Gegenargument; Ergebnis…
+6. **sklavenrecht-rechtsvergleich-somerset-code-noir** — Für Rechtsvergleich Sklavenrecht — Preussen, England, Frankreich: entwickelt Ziel, Vergleich und Eskalation; Ergebnis: V…
+7. **sklaverei-aufhebung-edikte-1807** — Für Aufhebung Sklaverei und Erbuntertänigkeit in Preussen 1794-1857: ordnet Norm, Beweislast und Gegenargument; Ergebnis…
+8. **aufopferung-historische-faelle-pockenimpfung** — Für Pralr Aufopferung Historische Fälle Pockenimpfung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt …
 
 ---
 
@@ -140,7 +140,7 @@ Ausgangspunkt für dieses Plugin: Bearbeiter für Textzeuge, Fassung, Übersetzu
 
 ## Skill: `kaltstart-triage`
 
-_Wenn es um PrALR - Allgemeiner Einstieg in Preußisches Allgemeines Landrecht geht: klärt Rolle, Ziel, Frist, Unterlagen und den passenden nächsten Fachskill; liefert eine Fristen- und Risikoampel mit Sofortschritten. Auswahlstichwort: Kaltstart Triage; Arbeitsfeld: Preußisches Allgemeines Landrecht._
+_Für PrALR - Allgemeiner Einstieg: routet Rolle, Frist, Unterlagen und Fachschritt; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt._
 
 # PrALR - Allgemeiner Einstieg
 
@@ -193,48 +193,134 @@ Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei pr
 
 ---
 
-## Skill: `pralr-005-historische-anwendung-vs-heutiges-recht`
+## Skill: `arbeitsrecht-vorgaenger-im-alr`
 
-_Wenn es um Historisch oder heute? in Preußisches Allgemeines Landrecht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen. Auswahlstichwort: Pralr 005 Historische Anwendung Vs Heutiges Recht; Arbeitsfeld: Preußisches Allgemeines Landrecht._
+_Ordnet Gesinde, Tagelohn, Handlungsgehilfen und freie Berufe nach den einschlägigen Titeln des Allgemeinen Landrechts ein; trennt ständische Dienstverhältnisse, frühe Schutzgedanken und die spätere Sozialgesetzgebung und liefert eine quellenkritische Synopse zur heutigen Arbeitsrechtsdogmatik._
 
-# Historisch oder heute?
+# Pralr Arbeitsrecht Vorgaenger Im Alr
 
-## Aufgabe
+## Differenzierung
 
-Trenne drei Ebenen: damals geltendes Recht, heute fortwirkendes Landes-/Gewohnheitsrecht, dogmengeschichtliches Argument ohne unmittelbare Normgeltung.
+### Gesinde
+- ALR II 5 — Hausgenossen.
 
-Dieser Skill arbeitet mit dem Allgemeinen Landrecht für die Preußischen Staaten als historischer Normquelle. Er behandelt das PrALR nicht als dekorativen Alttext, sondern als konkrete Quelle mit Ausgabejahr, Textzeugen, Geltungsraum, systematischem Ort und möglicher heutiger Fortwirkung.
+### Tagelohn
+- Freie Arbeit ohne Hausgenossenstellung.
+- ALR I 11 — locatio conductio operarum.
 
-## Startfragen
+### Handlungsgehilfe
+- Im kaufmaennischen Geschäft.
+- Später HGB §§ 59 ff.
 
-1. Welche Quelle liegt vor: Scan, OCR, PDF, Transkription, Sekundärtext, Urteil oder Aktenvermerk?
-2. Welches Jahr, welcher Band, welcher Teil, welcher Titel und welcher Paragraph sind sicher?
-3. Geht es um historische Erklärung, heutige Fortwirkung, Dogmengeschichte, Unterricht oder Schriftsatzargument?
-4. Welcher Ort und welches Jahr sind für den Sachverhalt maßgeblich?
-5. Brauchen wir einen Live-Check, weil heutiges Recht, Landesrecht oder Rechtsprechung betroffen ist?
+### Freie Berufe
+- Aerzte Anwaelte Lehrer Beamte.
 
-## Prüfroutine
+## Schutzvorschriften
 
-1. **Textzeuge sichern:** Ausgabe, Druck, Band, Seite/Scan, OCR-Fassung und Fundstelle erfassen.
-2. **Systemstelle finden:** Einleitung, Teil, Titel, Paragraph und Nachbarvorschriften bestimmen.
-3. **Geltung trennen:** historisch geltendes Recht, subsidiäre Anwendung, lokale Abweichung und heutige Fortwirkung unterscheiden.
-4. **Begriffe entschlüsseln:** alte Orthographie, ständische Begriffe und heutige Übersetzung offenlegen.
-5. **Anachronismus prüfen:** moderne Kategorien nur als Vergleich verwenden, nicht in den Normtext hineinlesen.
-6. **Output bauen:** Quellenmatrix, Kurzvermerk, Gutachtenbaustein, Unterrichtsfolie oder Schriftsatzpassage erstellen.
+- ALR I 11 — Vereinbarungsfreiheit, aber Schutz vor sittenwidriger Loehnung.
+- Wucher-Verbote.
 
-## Ausgabeformat
+## Sozialversicherung Bismarcks
 
-- **Kurzbefund:** Was sagt die Quelle sicher?
-- **Textzeugenstand:** Welche Fassung wurde benutzt und wo ist sie unsicher?
-- **Historische Einordnung:** Systemstelle, Geltungsraum, gesellschaftliche Funktion.
-- **Heutiger Anschluss:** Fortwirkung, Gewohnheitsrecht, bloße Dogmengeschichte oder keine heutige Relevanz.
-- **Nächster Schritt:** zweite Quelle, Scan-Gegenprobe, aktuelles Landesrecht oder Rechtsprechungsrecherche.
+- 1883 Krankenversicherung.
+- 1884 Unfallversicherung.
+- 1889 Rentenversicherung.
+- Trennung von ALR-Tradition und Sozialgesetzgebung.
+
+## Prüfraster
+
+1. Welcher Arbeitsverhaeltnistyp?
+2. Schutzvorschriften?
+3. Sozialversicherung anwendbar?
+
+## Normenanker
+
+Vor einer rechtlichen Schlussfolgerung diese Anker am aktuellen Normtext prüfen; Spezial- und Landesrecht nur hinzunehmen, wenn es den konkreten Auftrag traegt:
+
+- `§ 611a Abs. 1 BGB` — Arbeitsvertrag und Weisungsbindung.
+- `§ 241 Abs. 2 BGB` — Rücksichtnahmepflichten.
+- `§ 626 Abs. 1 BGB` — fristlose Kuendigung.
+- `§ 1 Abs. 2 KSchG` — soziale Rechtfertigung.
+- `§ 4 Satz 1 KSchG` — Klagefrist.
+- `§ 7 KSchG` — Fiktionswirkung.
+- `§ 102 Abs. 1 BetrVG` — Betriebsratsanhoerung.
+- `§ 2 Abs. 1 NachwG` — Nachweis wesentlicher Arbeitsbedingungen.
+- `§ 46 Abs. 2 ArbGG` — ZPO-Anwendung im arbeitsgerichtlichen Verfahren.
+
+Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei prüfbare Quelle vorliegen; keine BeckRS-/juris-Blindzitate verwenden.
+
+## Powersprint-Vertiefung
+
+- **Quellenarbeit:** Vor einer Aussage die betroffene ALR-Stelle mit Teil, Titel und Paragraph aus der 1794er oder 1804er Fassung festhalten; Abweichungen zwischen Fassungen nur behaupten, wenn sie am Text belegt sind.
+- **Historische Funktion:** Erkläre, ob `Pralr Arbeitsrecht Vorgaenger Im Alr` eher ständische Ordnung, Kameralstaat, Privatrechtsdogmatik, Polizeirecht oder frühe Verfahrensrationalisierung abbildet.
+- **Moderner Vergleich:** Stelle die heutige Parallele nur als Vergleich daneben, etwa BGB, ZPO, FamFG, StGB/StPO oder öffentliches Recht; niemals so tun, als gelte ALR-Recht noch unmittelbar.
+- **Output:** Liefere eine Mini-Synopse `ALR-Regel / historisches Problem / heutige Vergleichsnorm / didaktischer Nutzen / offene Quellenprüfung`.
+
+---
+
+## Skill: `aufwendungsersatz-im-vertrag`
+
+_Erschließt den Aufwendungsersatz im Allgemeinen Landrecht für Auftrag, Verwahrung, Vormundschaft und Pfand; ordnet erforderliche Auslagen der historischen Vertrags- oder Amtsbeziehung zu und stellt die Regel mit gesicherter ALR-Fundstelle den heutigen Paragrafen 670 und 683 BGB gegenüber._
+
+# Pralr Aufwendungsersatz Im Vertrag
+
+## Normenanker
+
+Vor einer rechtlichen Schlussfolgerung diese Anker am aktuellen Normtext prüfen; Spezial- und Landesrecht nur hinzunehmen, wenn es den konkreten Auftrag traegt:
+
+- `§ 241 Abs. 2 BGB` — Rücksichtnahme-, Schutz- und Organisationspflichten.
+- `§ 242 BGB` — Treu und Glauben als Korrektiv enger Klausel- und Anspruchsarbeit.
+- `§ 280 Abs. 1 BGB` — Pflichtverletzung, Vertretenmuessen, Schaden.
+- `§ 286 Abs. 1 BGB` — Verzug und Fristlogik.
+- `§ 195 BGB` — regelmäßige Verjährung.
+- `§ 199 Abs. 1 BGB` — Beginn der regelmäßigen Verjährung.
+- `§ 253 Abs. 2 ZPO` — Bestimmtheit von Antrag und Klagegrund.
+- `§ 138 Abs. 1 ZPO` — Wahrheitspflicht und vollstaendiger Tatsachenvortrag.
+
+Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei prüfbare Quelle vorliegen; keine BeckRS-/juris-Blindzitate verwenden.
+
+
+## Anwendungsfaelle
+
+### Mandatum
+- ALR I 13 — Auftraggeber muss notwendige Aufwendungen des Beauftragten ersetzen.
+- Erstreckt sich auch auf eingegangene Verbindlichkeiten.
+
+### Depositum
+- Verwahrer hat Anspruch auf Ersatz seiner Aufwendungen.
+- ALR I 14 — Verwahrung.
+
+### Tutela (Vormundschaft)
+- Vormund kann Aufwendungen aus dem Muendelvermoegen entnehmen.
+- ALR II 18.
+
+### Pfandnehmer
+- Aufwendungen zur Erhaltung des Pfandes ersatzfaehig.
+
+## Fortwirkung BGB
+
+- § 670 BGB Aufwendungsersatz.
+- § 683 BGB GoA.
+
+## Prüfraster
+
+1. Welcher Vertragstyp?
+2. Aufwendung "für den anderen"?
+3. Erforderlich?
+4. Ersatzfaehig?
+
+## Powersprint-Vertiefung
+
+- **Quellenarbeit:** Vor einer Aussage die betroffene ALR-Stelle mit Teil, Titel und Paragraph aus der 1794er oder 1804er Fassung festhalten; Abweichungen zwischen Fassungen nur behaupten, wenn sie am Text belegt sind.
+- **Historische Funktion:** Erkläre, ob `Pralr Aufwendungsersatz Im Vertrag` eher ständische Ordnung, Kameralstaat, Privatrechtsdogmatik, Polizeirecht oder frühe Verfahrensrationalisierung abbildet.
+- **Moderner Vergleich:** Stelle die heutige Parallele nur als Vergleich daneben, etwa BGB, ZPO, FamFG, StGB/StPO oder öffentliches Recht; niemals so tun, als gelte ALR-Recht noch unmittelbar.
+- **Output:** Liefere eine Mini-Synopse `ALR-Regel / historisches Problem / heutige Vergleichsnorm / didaktischer Nutzen / offene Quellenprüfung`.
 
 ---
 
 ## Skill: `sklaverei-aufhebung-und-edikte-1807-1857`
 
-_Wenn es um Aufhebung Sklaverei und Erbuntertaenigkeit in Preussen 1794-1857 in Preußisches Allgemeines Landrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. Auswahlstichwort: Sklaverei Aufhebung Und Edikte 1807 1857; Arbeitsfeld: Preußisches Allgemeines Landrecht._
+_Für Aufhebung Sklaverei und Erbuntertänigkeit in Preussen 1794-1857: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt. Fachgebiet: Preußisches Allgemeines Landrecht. Route: sklaverei-aufhebung-und-edikte-1807-1857._
 
 # Aufhebung Sklaverei und Erbuntertaenigkeit in Preussen 1794-1857
 
@@ -299,11 +385,11 @@ Beide Institute werden umgangssprachlich vermengt, sind rechtshistorisch aber zu
 
 ---
 
-## Skill: `historische-anwendung-vs-heutiges-recht`
+## Skill: `sklavenrecht-rechtsvergleich-somerset-code-noir`
 
-_Wenn es um Historisch oder heute? in Preußisches Allgemeines Landrecht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen. Auswahlstichwort: Historische Anwendung Vs Heutiges Recht; Arbeitsfeld: Preußisches Allgemeines Landrecht._
+_Für Rechtsvergleich Sklavenrecht — Preussen, England, Frankreich: entwickelt Ziel, Vergleich und Eskalation; Ergebnis: Verhandlungs- oder Eskalationslinie. Fachgebiet: Preußisches Allgemeines Landrecht. Route: sklavenrecht-rechtsvergleich-somerset-code-noir._
 
-# Historisch oder heute?
+# Rechtsvergleich Sklavenrecht — Preussen, England, Frankreich
 
 ## Normenanker
 
@@ -328,122 +414,75 @@ Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei pr
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Rechtshistoriker, Lehrstühle, Restitutionsverfahren mit Altrecht-Bezug, Boden- und Erbschaftsstreite mit historischer Wurzel.
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Rechtsvergleichende Stellungnahme, ALR-Auszug aus historischer Edition, dogmatische Untersuchung, Restitutionsgutachten, Erbschaftsgutachten — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
-## Startfragen
+## Preussen — ALR 1794
 
-1. Welche Quelle liegt vor: Scan, OCR, PDF, Transkription, Sekundärtext, Urteil oder Aktenvermerk?
-2. Welches Jahr, welcher Band, welcher Teil, welcher Titel und welcher Paragraph sind sicher?
-3. Geht es um historische Erklärung, heutige Fortwirkung, Dogmengeschichte, Unterricht oder Schriftsatzargument?
-4. Welcher Ort und welches Jahr sind für den Sachverhalt maßgeblich?
-5. Brauchen wir einen Live-Check, weil heutiges Recht, Landesrecht oder Rechtsprechung betroffen ist?
+- ALR II 5 §§ 196 ff. (vor Zitat verifizieren): "Sklaverei soll in den koeniglichen Staaten nicht geduldet werden."
+- **Sofortige Befreiung** bei Grenzuebertritt.
+- Keine ausdrueckliche Fristenkonstruktion.
 
-## Prüfroutine
+## England — Common Law
 
-1. **Textzeuge sichern:** Ausgabe, Druck, Band, Seite/Scan, OCR-Fassung und Fundstelle erfassen.
-2. **Systemstelle finden:** Einleitung, Teil, Titel, Paragraph und Nachbarvorschriften bestimmen.
-3. **Geltung trennen:** historisch geltendes Recht, subsidiäre Anwendung, lokale Abweichung und heutige Fortwirkung unterscheiden.
-4. **Begriffe entschlüsseln:** alte Orthographie, ständische Begriffe und heutige Übersetzung offenlegen.
-5. **Anachronismus prüfen:** moderne Kategorien nur als Vergleich verwenden, nicht in den Normtext hineinlesen.
-6. **Output bauen:** Quellenmatrix, Kurzvermerk, Gutachtenbaustein, Unterrichtsfolie oder Schriftsatzpassage erstellen.
+### Somerset's Case 1772
+- **Somerset v. Stewart**, Court of King's Bench, **22.06.1772**, Lord Mansfield als Vorsitzender Richter.
+- Sachverhalt: James Somerset, in den USA versklavter Schwarzer, wurde von seinem Herrn nach London gebracht. Er entkam, wurde wieder gefangen und sollte zwecks Wiederverkaufs nach Jamaika verbracht werden. Habeas-Corpus-Antrag fuehrte zur Entscheidung.
+- Lord Mansfield: "The state of slavery is of such a nature, that it is incapable of being introduced on any reasons, moral or political, but only by positive law" — und positives englisches Recht erlaubte Sklaverei nicht.
+- Sofortige Freilassung.
 
----
+### Slavery Abolition Act 1833
+- Abschaffung der Sklaverei im Empire (mit Uebergangsregeln und Entschaedigung der Sklavenhalter).
 
-## Skill: `pralr-046-nachbarrecht-heutiger-schriftsatz`
+## Frankreich — Code Noir und freie-Luft-Klausel
 
-_Wenn es um Nachbarrecht im Schriftsatz in Preußisches Allgemeines Landrecht geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik. Auswahlstichwort: Pralr 046 Nachbarrecht Heutiger Schriftsatz; Arbeitsfeld: Preußisches Allgemeines Landrecht._
+### Code Noir 1685 (Louis XIV)
+- Kolonialordnung für die franzoesischen Kolonien (Karibik, La Reunion, Louisiana).
+- Sklaverei in den Kolonien gesetzlich geregelt.
+- Im Mutterland Frankreich grundsätzlich keine Sklaverei (Tradition "Le sol de France affranchit l'esclave qui le touche").
 
-# Nachbarrecht im Schriftsatz
+### Edit du Roi de Juin 1716
+- Erlaubt die zeitweilige Mitnahme von Sklaven aus den Kolonien nach Frankreich zwecks Erziehung in Religion oder Beruf — Sklavenstatus bleibt **für maximal drei Jahre** erhalten.
+- Im Anschluss Befreiung.
 
-## Aufgabe
+### Declaration du Roi 1738
+- Praezisierung — verschaerfte Registrierungspflicht.
 
-Frage: Grundstücksort, Landesrecht, alte Provinz, lokale Fortgeltung, einschlägige Norm, aktuelle Gerichtsentscheidung.
+### Decret 04.02.1794 / Decret 27.04.1848
+- 1794: Erstmals Abschaffung in den Kolonien (durch die Franzoesische Revolution).
+- 1802: Wiedereinfuehrung durch Napoleon.
+- **1848**: Endgueltige Abschaffung durch das Decret du Gouvernement Provisoire (Victor Schoelcher).
 
-Dieser Skill arbeitet mit dem Allgemeinen Landrecht für die Preußischen Staaten als historischer Normquelle. Er behandelt das PrALR nicht als dekorativen Alttext, sondern als konkrete Quelle mit Ausgabejahr, Textzeugen, Geltungsraum, systematischem Ort und möglicher heutiger Fortwirkung.
+## USA (Vergleichsblick)
 
-## Startfragen
+- **13. Zusatzartikel** zur US-Verfassung **18.12.1865**: Abschaffung der Sklaverei.
+- Dred Scott v. Sandford (1857): vor 1865 verneinte der Supreme Court Schwarzen die Buergerschaft — Aufhebung durch den Buergerkrieg und 13./14./15. Amendment.
 
-1. Welche Quelle liegt vor: Scan, OCR, PDF, Transkription, Sekundärtext, Urteil oder Aktenvermerk?
-2. Welches Jahr, welcher Band, welcher Teil, welcher Titel und welcher Paragraph sind sicher?
-3. Geht es um historische Erklärung, heutige Fortwirkung, Dogmengeschichte, Unterricht oder Schriftsatzargument?
-4. Welcher Ort und welches Jahr sind für den Sachverhalt maßgeblich?
-5. Brauchen wir einen Live-Check, weil heutiges Recht, Landesrecht oder Rechtsprechung betroffen ist?
+## Synopse — Wann erlischt der Sklavenstatus?
 
-## Prüfroutine
+| Rechtsordnung | Wirkung | Frist |
+|---|---|---|
+| Preussen ALR 1794 | Sofort | Keine |
+| England Common Law (Somerset 1772) | Sofort | Keine |
+| Frankreich Code Noir 1685 / Edit 1716 | Aufschiebend | 3 Jahre (Edit 1716) |
+| Niederlande (uebersee) | Verschieden je Provinz | — |
+| Spanien (Kolonien) | Spaet, Las Siete Partidas | Lange Sklaverei |
 
-1. **Textzeuge sichern:** Ausgabe, Druck, Band, Seite/Scan, OCR-Fassung und Fundstelle erfassen.
-2. **Systemstelle finden:** Einleitung, Teil, Titel, Paragraph und Nachbarvorschriften bestimmen.
-3. **Geltung trennen:** historisch geltendes Recht, subsidiäre Anwendung, lokale Abweichung und heutige Fortwirkung unterscheiden.
-4. **Begriffe entschlüsseln:** alte Orthographie, ständische Begriffe und heutige Übersetzung offenlegen.
-5. **Anachronismus prüfen:** moderne Kategorien nur als Vergleich verwenden, nicht in den Normtext hineinlesen.
-6. **Output bauen:** Quellenmatrix, Kurzvermerk, Gutachtenbaustein, Unterrichtsfolie oder Schriftsatzpassage erstellen.
+## Bedeutung für das ALR
 
-## Ausgabeformat
+- ALR steht in **eindeutig befreiender Tradition** zusammen mit England.
+- Frankreich-Modell (Edit 1716) mit Aufschub kennen die deutschen Staaten **nicht**.
 
-- **Kurzbefund:** Was sagt die Quelle sicher?
-- **Textzeugenstand:** Welche Fassung wurde benutzt und wo ist sie unsicher?
-- **Historische Einordnung:** Systemstelle, Geltungsraum, gesellschaftliche Funktion.
-- **Heutiger Anschluss:** Fortwirkung, Gewohnheitsrecht, bloße Dogmengeschichte oder keine heutige Relevanz.
-- **Nächster Schritt:** zweite Quelle, Scan-Gegenprobe, aktuelles Landesrecht oder Rechtsprechungsrecherche.
+## Prüfraster
 
-<!-- BEGIN ausformulierungspflicht (autogen) -->
-> **Ausformulierungspflicht und Formatstandard.** Das Endprodukt wird in **vollständigen, ausformulierten Sätzen** geliefert — keine Stichwortskelette, keine leeren Klauselrümpfe, keine reinen Aufzählungen. Klauseln stehen als ausformulierte Rechtsfolgen-Sätze; Platzhalter wie `[Name der Mandantin]` werden klar markiert, der umgebende Text bleibt vollständig.
->
-> **Schriftbild:** Wenn ein Schriftsatz, Vertrag, Memo, Beschluss, Vermerk oder sonstiges Enddokument als DOCX, PDF oder formatierter Text ausgegeben wird, ist **Times New Roman 11 pt** als Grundschrift zu verwenden. Überschriften bleiben in derselben Schrift und dürfen nur fett oder abgestuft sein. Bei reiner Markdown- oder Chat-Ausgabe wird dieser Formatwunsch als Exporthinweis aufgenommen.
->
-> **Nummerierung:** Gliederung ausschließlich dezimal (`1`, `1.1`, `1.1.1` und so weiter). Keine römischen Ziffern, keine Buchstaben- oder Mischgliederung.
-<!-- END ausformulierungspflicht (autogen) -->
-
----
-
-## Skill: `pralr-045-aufopferung-heutiger-schriftsatz`
-
-_Wenn es um Aufopferung im Schriftsatz in Preußisches Allgemeines Landrecht geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik. Auswahlstichwort: Pralr 045 Aufopferung Heutiger Schriftsatz; Arbeitsfeld: Preußisches Allgemeines Landrecht._
-
-# Aufopferung im Schriftsatz
-
-## Aufgabe
-
-Verwende PrALR als historische/dogmatische Herkunft, nicht als alleinige Anspruchsgrundlage ohne heutige Herleitung.
-
-Dieser Skill arbeitet mit dem Allgemeinen Landrecht für die Preußischen Staaten als historischer Normquelle. Er behandelt das PrALR nicht als dekorativen Alttext, sondern als konkrete Quelle mit Ausgabejahr, Textzeugen, Geltungsraum, systematischem Ort und möglicher heutiger Fortwirkung.
-
-## Startfragen
-
-1. Welche Quelle liegt vor: Scan, OCR, PDF, Transkription, Sekundärtext, Urteil oder Aktenvermerk?
-2. Welches Jahr, welcher Band, welcher Teil, welcher Titel und welcher Paragraph sind sicher?
-3. Geht es um historische Erklärung, heutige Fortwirkung, Dogmengeschichte, Unterricht oder Schriftsatzargument?
-4. Welcher Ort und welches Jahr sind für den Sachverhalt maßgeblich?
-5. Brauchen wir einen Live-Check, weil heutiges Recht, Landesrecht oder Rechtsprechung betroffen ist?
-
-## Prüfroutine
-
-1. **Textzeuge sichern:** Ausgabe, Druck, Band, Seite/Scan, OCR-Fassung und Fundstelle erfassen.
-2. **Systemstelle finden:** Einleitung, Teil, Titel, Paragraph und Nachbarvorschriften bestimmen.
-3. **Geltung trennen:** historisch geltendes Recht, subsidiäre Anwendung, lokale Abweichung und heutige Fortwirkung unterscheiden.
-4. **Begriffe entschlüsseln:** alte Orthographie, ständische Begriffe und heutige Übersetzung offenlegen.
-5. **Anachronismus prüfen:** moderne Kategorien nur als Vergleich verwenden, nicht in den Normtext hineinlesen.
-6. **Output bauen:** Quellenmatrix, Kurzvermerk, Gutachtenbaustein, Unterrichtsfolie oder Schriftsatzpassage erstellen.
-
-## Ausgabeformat
-
-- **Kurzbefund:** Was sagt die Quelle sicher?
-- **Textzeugenstand:** Welche Fassung wurde benutzt und wo ist sie unsicher?
-- **Historische Einordnung:** Systemstelle, Geltungsraum, gesellschaftliche Funktion.
-- **Heutiger Anschluss:** Fortwirkung, Gewohnheitsrecht, bloße Dogmengeschichte oder keine heutige Relevanz.
-- **Nächster Schritt:** zweite Quelle, Scan-Gegenprobe, aktuelles Landesrecht oder Rechtsprechungsrecherche.
-
-<!-- BEGIN ausformulierungspflicht (autogen) -->
-> **Ausformulierungspflicht und Formatstandard.** Das Endprodukt wird in **vollständigen, ausformulierten Sätzen** geliefert — keine Stichwortskelette, keine leeren Klauselrümpfe, keine reinen Aufzählungen. Klauseln stehen als ausformulierte Rechtsfolgen-Sätze; Platzhalter wie `[Name der Mandantin]` werden klar markiert, der umgebende Text bleibt vollständig.
->
-> **Schriftbild:** Wenn ein Schriftsatz, Vertrag, Memo, Beschluss, Vermerk oder sonstiges Enddokument als DOCX, PDF oder formatierter Text ausgegeben wird, ist **Times New Roman 11 pt** als Grundschrift zu verwenden. Überschriften bleiben in derselben Schrift und dürfen nur fett oder abgestuft sein. Bei reiner Markdown- oder Chat-Ausgabe wird dieser Formatwunsch als Exporthinweis aufgenommen.
->
-> **Nummerierung:** Gliederung ausschließlich dezimal (`1`, `1.1`, `1.1.1` und so weiter). Keine römischen Ziffern, keine Buchstaben- oder Mischgliederung.
-<!-- END ausformulierungspflicht (autogen) -->
+1. Welche Rechtsordnung?
+2. Wann hat der Status geendet?
+3. Ausnahmeregelungen (Edit 1716)?
+4. Beweisfragen?
+5. Aktuelle voelkerrechtliche Bezuege.
 
 ---
 
 ## Skill: `sklaverei-aufhebung-edikte-1807`
 
-_Wenn es um Aufhebung Sklaverei und Erbuntertaenigkeit in Preussen 1794-1857 in Preußisches Allgemeines Landrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. Auswahlstichwort: Sklaverei Aufhebung Edikte 1807; Arbeitsfeld: Preußisches Allgemeines Landrecht._
+_Für Aufhebung Sklaverei und Erbuntertänigkeit in Preussen 1794-1857: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt. Fachgebiet: Preußisches Allgemeines Landrecht. Route: sklaverei-aufhebung-edikte-1807._
 
 # Aufhebung Sklaverei und Erbuntertaenigkeit in Preussen 1794-1857
 
@@ -497,6 +536,53 @@ Beide Institute werden umgangssprachlich vermengt, sind rechtshistorisch aber zu
 2. Sklaverei oder Erbuntertaenigkeit (begriffliche Trennung!)?
 3. Welches Folge-Edikt einschlaegig?
 4. Heutige Äquivalenz?
+
+---
+
+## Skill: `aufopferung-historische-faelle-pockenimpfung`
+
+_Für Pralr Aufopferung Historische Fälle Pockenimpfung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt. Fachgebiet: Preußisches Allgemeines Landrecht. Route: aufopferung-historische-faelle-pockenimpfung._
+
+# Pralr Aufopferung Historische Faelle Pockenimpfung
+
+## Arbeitsweg
+
+- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
+- Fristen und Eilrisiken zuerst markieren: historisch — Verjährung nach ALR-Vorschriften (z. B. 30-jährige actio); heutige Anwendung über Art. 184 ff. EGBGB und § 195 BGB.
+- Tragende Normen verifizieren: ALR Einleitung §§ 1-100, Erster Teil (Personen-/Sachenrecht), Zweiter Teil (Personenstand, Familie, Erbrecht), Allgemeine Gerichtsordnung; abgelöst durch BGB (1900), aber dogmenhistorisch fortwirkend — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
+- Zuständige Stelle bestimmen und Adressaten richtig wählen: Rechtshistoriker, Lehrstühle, Restitutionsverfahren mit Altrecht-Bezug, Boden- und Erbschaftsstreite mit historischer Wurzel.
+- Dokumente und Beweismittel sammeln und auf Lücken prüfen: Rechtsvergleichende Stellungnahme, ALR-Auszug aus historischer Edition, dogmatische Untersuchung, Restitutionsgutachten, Erbschaftsgutachten — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
+
+## Historischer Hintergrund
+
+- Pockenimpfpflicht ab Mitte 19. Jh. in einzelnen Staaten Preussens.
+- Reichsimpfgesetz 08.04.1874 fuehrte Pflichtimpfung gegen Pocken reichsweit ein.
+- Bei Impfschaeden Ansprueche der Geschaedigten auf Aufopferungsentschaedigung.
+
+## Aufopferungsanspruch
+
+- Anker: Einl. §§ 74-75 ALR.
+- "Sonderopfer" — der Buerger erbringt eine Sonderlast für die Allgemeinheit (Schutz gegen Seuchen).
+- Entschaedigung verlangt rechtshistorisch zuerst die rechtliche Anerkennung des Eingriffs.
+
+## Frueheste Klagen
+
+- Preussische Gerichte erkannten erste Aufopferungsansprueche im Zusammenhang mit der Impfung.
+- Erlass des Preussischen Innenministers (Daten und Inhalte vor Zitat verifizieren).
+
+## Fortwirkung im 20. Jahrhundert
+
+- BGHZ 9 Seite 83 — Aufopferungsanspruch im Polizeischadensfall.
+- Reichsversorgungsgesetz und spaetere Reform.
+- Heute IfSG §§ 60 ff. für Impfschaeden.
+
+## Prüfraster
+
+1. Hoheitliche Maßnahme im Allgemeininteresse?
+2. Sonderbelastung des Einzelnen?
+3. Spezialgesetz greift (IfSG, POG)?
+4. Allgemeiner Aufopferungsanspruch subsidiaer?
+5. Quellenstellen Einl. §§ 74-75 ALR; BGHZ 9.
 
 ---
 

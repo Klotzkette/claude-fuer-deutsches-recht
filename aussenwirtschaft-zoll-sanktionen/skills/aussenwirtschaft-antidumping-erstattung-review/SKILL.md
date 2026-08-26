@@ -1,6 +1,6 @@
 ---
 name: aussenwirtschaft-antidumping-erstattung-review
-description: "Wenn es um Antidumping-Erstattung und Review: Margenkorrektur und Rueckforderung in Außenwirtschaft, Sanktionen, Zoll und CBAM geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Antidumping-Erstattung und Review: Margenkorrektur und Rückforderung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Antidumping-Erstattung und Review: Margenkorrektur und Rueckforderung

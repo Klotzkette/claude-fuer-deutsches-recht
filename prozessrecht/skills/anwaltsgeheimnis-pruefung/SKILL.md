@@ -1,6 +1,6 @@
 ---
 name: anwaltsgeheimnis-pruefung
-description: "Wenn es um Vertraulichkeitsschutz-Erstprüfung (Vorlagepflicht und Verschwiegenheit) in Prozessrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Vertraulichkeitsschutz-Erstprüfung (Vorlagepflicht und Verschwiegenheit): ordnet Norm, Beweislast und Gegenargument; Ergebnis: Tatbestands- oder Anspruchsmatrix."
 ---
 
 # Vertraulichkeitsschutz-Erstprüfung (Vorlagepflicht und Verschwiegenheit)

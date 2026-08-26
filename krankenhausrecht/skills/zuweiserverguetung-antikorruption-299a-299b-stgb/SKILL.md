@@ -1,6 +1,6 @@
 ---
 name: zuweiserverguetung-antikorruption-299a-299b-stgb
-description: "Wenn es um Zuweiservergütung Antikorruption Paragrafen 299a 299b StGB in Krankenhausrecht geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
+description: "Für Zuweiservergütung Antikorruption Paragrafen 299a 299b StGB: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Zuweiservergütung Antikorruption §§ 299a 299b StGB

@@ -1,6 +1,6 @@
 ---
 name: einstieg-routing
-description: "Wenn es um Anwalts-Dashboard Fachanwalt Arbeitsrecht in Fachanwalt Arbeitsrecht geht: klärt Rolle, Ziel, Frist, Unterlagen und den passenden nächsten Fachskill; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Anwalts-Dashboard Fachanwalt Arbeitsrecht: routet Rolle, Frist, Unterlagen und Fachschritt; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Anwalts-Dashboard Fachanwalt Arbeitsrecht

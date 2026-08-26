@@ -1,6 +1,6 @@
 ---
 name: marktabgrenzung-kontextanalyse-mehrseitige
-description: "Wenn es um Marktabgrenzung — Kontextanalyse in Kartellrecht — Marktabgrenzungsprüfung geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Marktabgrenzung — Kontextanalyse: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Marktabgrenzung — Kontextanalyse

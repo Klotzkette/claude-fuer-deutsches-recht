@@ -1,6 +1,6 @@
 ---
 name: doppelversicherung-und-erstattung
-description: "Wenn es um doppelversicherung-und-erstattung in Rentenprüfer geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für doppelversicherung-und-erstattung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # doppelversicherung-und-erstattung

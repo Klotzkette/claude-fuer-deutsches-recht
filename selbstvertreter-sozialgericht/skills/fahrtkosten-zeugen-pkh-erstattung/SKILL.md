@@ -1,6 +1,6 @@
 ---
 name: fahrtkosten-zeugen-pkh-erstattung
-description: "Wenn es um Fahrtkosten und Zeugen-Auslagen erstatten in selbstvertreter-sozialgericht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Fahrtkosten und Zeugen-Auslagen erstatten: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Schnittstellenkarte mit Zuständigkeits- und Nachweisfragen."
 ---
 
 # Fahrtkosten und Zeugen-Auslagen erstatten

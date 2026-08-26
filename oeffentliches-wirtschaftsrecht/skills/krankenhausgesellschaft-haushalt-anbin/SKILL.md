@@ -1,6 +1,6 @@
 ---
 name: krankenhausgesellschaft-haushalt-anbin
-description: "Wenn es um Krankenhausgesellschaft Haushalt Anbin in Öffentliches Wirtschaftsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Krankenhausgesellschaft Haushalt Anbin: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Krankenhausgesellschaft Haushalt Anbin

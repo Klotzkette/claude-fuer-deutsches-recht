@@ -1,6 +1,6 @@
 ---
 name: specific-indemnities-risk-transfer
-description: "Wenn es um Specific Indemnities Risk Transfer in Großkanzlei Corporate/M&A geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Specific Indemnities Risk Transfer: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt. Fachgebiet: Großkanzlei Corporate/M&A. Route: specific-indemnities-risk-transfer."
 ---
 
 # Specific Indemnities und Risk Transfer Skill: entwickelt Sonderfreistellungen, Escrow, W&I-Schnittstellen, Tax Deeds und Risikoallokation für erkannte Findings.

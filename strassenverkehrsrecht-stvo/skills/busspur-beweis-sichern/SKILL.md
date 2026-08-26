@@ -1,6 +1,6 @@
 ---
 name: busspur-beweis-sichern
-description: "Wenn es um Busspur Beweis Sichern in Straßenverkehrsrecht StVO geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Busspur Beweis Sichern: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Beweislast- und Substantiierungsmatrix."
 ---
 
 # Busspur Beweis Sichern

@@ -1,6 +1,6 @@
 ---
 name: steuern-umsatzsteuer
-description: "Wenn es um Steürn Umsatzsteür in AGB-Recht-Prüfer geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Fristen- und Risikoampel mit Sofortschritten. Auswahlstichwort: Steuern Umsatzsteuer; Arbeitsfeld: AGB-Recht-Prüfer."
+description: "Für Steuern Umsatzsteuer: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Schnittstellenkarte mit Zuständigkeits- und Nachweisfragen. Fachgebiet: AGB-Recht-Prüfer. Route: steuern-umsatzsteuer."
 ---
 
 # Steürn Umsatzsteür

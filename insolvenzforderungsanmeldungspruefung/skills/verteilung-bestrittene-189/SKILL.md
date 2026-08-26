@@ -1,6 +1,6 @@
 ---
 name: verteilung-bestrittene-189
-description: "Wenn es um Verteilung bei bestrittenen Forderungen in Insolvenzforderungsanmeldungsprüfung geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Verteilung bei bestrittenen Forderungen: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Verteilung bei bestrittenen Forderungen

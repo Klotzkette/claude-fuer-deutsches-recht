@@ -1,6 +1,6 @@
 ---
 name: datenschutz-dsgvo-meldeakte
-description: "Wenn es um Datenschutz DSGVO Meldeakte in Hinweisgeberschutz, Meldestellen und NDA-Konflikte geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
+description: "Für Datenschutz DSGVO Meldeakte: ordnet Akte, Belege und Lücken; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Datenschutz DSGVO Meldeakte

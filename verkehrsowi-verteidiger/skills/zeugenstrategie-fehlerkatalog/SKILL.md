@@ -1,6 +1,6 @@
 ---
 name: zeugenstrategie-fehlerkatalog
-description: "Wenn es um Zeugenstrategie Fehlerkatalog in VerkehrsOWi-Verteidiger geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Zeugenstrategie Fehlerkatalog: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Verhandlungs- oder Eskalationslinie."
 ---
 
 # Zeugenstrategie Fehlerkatalog

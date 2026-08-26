@@ -1,6 +1,6 @@
 ---
 name: ein-077-kommunalvermoegen-behoerdenbrief-schre
-description: "Wenn es um Kommunalvermoegen Behoerdenbrief Schre in Einigungsvertrag und Vermögensrecht geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
+description: "Für Kommunalvermögen Behördenbrief Schre: erstellt Entwurf mit Antrag, Beweis und Anlagen; Ergebnis: Schriftsatz mit Begründungs- und Anlagenlogik."
 ---
 
 # Kommunalvermoegen Behoerdenbrief Schre

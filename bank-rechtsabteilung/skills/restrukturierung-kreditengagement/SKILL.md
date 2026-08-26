@@ -1,6 +1,6 @@
 ---
 name: restrukturierung-kreditengagement
-description: "Wenn es um Kreditrestrukturierung in Bank-Rechtsabteilung geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Verhandlungs- oder Eskalationslinie mit Optionen."
+description: "Für Kreditrestrukturierung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Kreditrestrukturierung

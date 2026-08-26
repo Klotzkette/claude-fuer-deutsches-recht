@@ -1,6 +1,6 @@
 ---
 name: nachweis-beleg-erstellen
-description: "Wenn es um Beweis Nachweis Beleg in Juristische Sprache Deutsch als Zweitsprache geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Beweis Nachweis Beleg: ordnet Akte, Belege und Lücken; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Beweis Nachweis Beleg

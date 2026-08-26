@@ -1,6 +1,6 @@
 ---
 name: 630a-dokumentenmatrix-und-lueckenliste
-description: "Wenn es um 630A: Dokumentenmatrix, Lückenliste und Nachforderung in Fachanwalt Medizinrecht geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Dokumentenmatrix mit Nachforderungsliste."
+description: "Für 630A: Dokumentenmatrix, Lückenliste und Nachforderung: ordnet Akte, Belege und Lücken; Ergebnis: Dokumentenmatrix mit Nachforderungsliste."
 ---
 
 # 630A: Dokumentenmatrix, Lückenliste und Nachforderung

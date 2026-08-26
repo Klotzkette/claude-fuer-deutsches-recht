@@ -1,6 +1,6 @@
 ---
 name: franchisegeber-handbuch-compliance-dashboard
-description: "Wenn es um Franchiserecht: Franchisegeber-Handbuch und Compliance-Dashboard in Franchiserecht Praxis geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
+description: "Für Franchiserecht: Franchisegeber-Handbuch und Compliance-Dashboard: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Franchiserecht: Franchisegeber-Handbuch und Compliance-Dashboard

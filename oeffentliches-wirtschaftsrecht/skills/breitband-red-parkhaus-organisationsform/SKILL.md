@@ -1,6 +1,6 @@
 ---
 name: breitband-red-parkhaus-organisationsform
-description: "Wenn es um Breitband Red Flags Listen in Öffentliches Wirtschaftsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Breitband Red Flags Listen: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Breitband Red Flags Listen

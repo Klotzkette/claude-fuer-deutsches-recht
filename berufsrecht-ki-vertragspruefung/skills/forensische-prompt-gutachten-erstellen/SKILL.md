@@ -1,6 +1,6 @@
 ---
 name: forensische-prompt-gutachten-erstellen
-description: "Wenn es um Prompt-Injection: Prüfung in diesem Spezialbereich geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Tatbestands- oder Anspruchsmatrix mit Gegenargumenten."
+description: "Für Prompt-Injection: Prüfung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Prompt-Injection: Prüfung

@@ -1,6 +1,6 @@
 ---
 name: patientenverfuegung-klinik
-description: "Wenn es um Patientenverfuegung Klinik in Fachanwalt Medizinrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Patientenverfügung Klinik: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Patientenverfügung in der Klinik: moderner Medizinrechts-Skill für Auslegung von Patientenverfügung, Vorsorgevollmacht, Ethikkomitee und Haftungsangst

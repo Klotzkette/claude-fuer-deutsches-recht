@@ -1,6 +1,6 @@
 ---
 name: bmg-infektionsschutz-und-pandemierecht
-description: "Wenn es um Infektionsschutz und Pandemierecht (BMG) in Legistik-Werkstatt geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen."
+description: "Für Infektionsschutz und Pandemierecht (BMG): ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Infektionsschutz und Pandemierecht (BMG)

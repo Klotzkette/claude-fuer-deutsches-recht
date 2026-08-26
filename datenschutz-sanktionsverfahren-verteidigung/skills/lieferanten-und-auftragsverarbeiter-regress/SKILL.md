@@ -1,6 +1,6 @@
 ---
 name: lieferanten-und-auftragsverarbeiter-regress
-description: "Wenn es um Lieferanten und Auftragsverarbeiter Regress in Datenschutz-Sanktionsverfahren und Verteidigung geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Beweislast- und Substantiierungsmatrix."
+description: "Für Lieferanten und Auftragsverarbeiter Regress: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Lieferanten und Auftragsverarbeiter Regress

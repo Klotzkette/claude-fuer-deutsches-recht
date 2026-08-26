@@ -1,6 +1,6 @@
 ---
 name: lagebild-medienresonanz
-description: "Wenn es um Lagebild Medienresonanz in Wahlkampfrecht Praxis geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Lagebild Medienresonanz: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Lagebild Medienresonanz

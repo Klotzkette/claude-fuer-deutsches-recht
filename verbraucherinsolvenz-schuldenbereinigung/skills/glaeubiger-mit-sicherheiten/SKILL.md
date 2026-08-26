@@ -1,6 +1,6 @@
 ---
 name: glaeubiger-mit-sicherheiten
-description: "Wenn es um Glaeubiger Mit Sicherheiten in Verbraucherinsolvenz und Schuldenbereinigung geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Gläubiger mit Sicherheiten: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Schnittstellenkarte mit Zuständigkeits- und Nachweisfragen."
 ---
 
 # Gläubiger mit Sicherheiten: Absonderung, Aussonderung, Sicherungseigentum, Eigentumsvorbehalt und Auto.

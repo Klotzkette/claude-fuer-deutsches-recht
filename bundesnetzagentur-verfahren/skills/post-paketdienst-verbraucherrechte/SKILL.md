@@ -1,6 +1,6 @@
 ---
 name: post-paketdienst-verbraucherrechte
-description: "Wenn es um Post: Paketdienst Verbraucherrechte in Bundesnetzagentur-Verfahren geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
+description: "Für Post: Paketdienst Verbraucherrechte: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Post: Paketdienst Verbraucherrechte

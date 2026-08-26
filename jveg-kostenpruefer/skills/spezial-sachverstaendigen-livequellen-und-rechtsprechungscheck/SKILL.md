@@ -1,6 +1,6 @@
 ---
 name: spezial-sachverstaendigen-livequellen-und-rechtsprechungscheck
-description: "Wenn es um Sachverstaendigen: Livequellen- und Rechtsprechungscheck in JVEG-Kostenprüfer geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Sachverständigen: Livequellen- und Rechtsprechungscheck: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Sachverstaendigen: Livequellen- und Rechtsprechungscheck

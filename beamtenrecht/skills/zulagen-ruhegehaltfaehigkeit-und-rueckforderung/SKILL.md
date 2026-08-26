@@ -1,6 +1,6 @@
 ---
 name: zulagen-ruhegehaltfaehigkeit-und-rueckforderung
-description: "Wenn es um zulagen-ruhegehaltfaehigkeit-und-rueckforderung in Beamtenrecht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
+description: "Für zulagen-ruhegehaltfaehigkeit-und-rueckforderung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # zulagen-ruhegehaltfaehigkeit-und-rueckforderung

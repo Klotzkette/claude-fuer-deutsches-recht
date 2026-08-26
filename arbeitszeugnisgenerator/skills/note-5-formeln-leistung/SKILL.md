@@ -1,6 +1,6 @@
 ---
 name: note-5-formeln-leistung
-description: "Bearbeitet mangelhaft bewertete Leistung nur bei tragfähiger Tatsachengrundlage. Prüft Dokumentation, Gesamtzusammenhang, Beweislast und Zeugnisklarheit und erzeugt eine sachliche, nicht codierte Fassung samt Warnung vor unbelegten oder ironischen Abwertungen."
+description: "Bearbeitet mangelhaft bewertete Leistung nur bei tragfähiger Tatsachengrundlage."
 ---
 
 # Note 5 — Formeln Leistung

@@ -1,6 +1,6 @@
 ---
 name: steuerluecke-erkennen-steuernummer-ust
-description: "Wenn es um Krise Schulden und Neustart: Ordnet steuerschulden in Solo-Selbstständige Praxis geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Krise Schulden und Neustart: Ordnet steuerschulden: ordnet Akte, Belege und Lücken; Ergebnis: Schnittstellenkarte mit Zuständigkeits- und Nachweisfragen."
 ---
 
 # Krise Schulden und Neustart: Ordnet steuerschulden

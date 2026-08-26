@@ -1,6 +1,6 @@
 ---
 name: nachvertragliches-wettbewerbsverbot
-description: "Wenn es um Franchiserecht: Nachvertragliches Wettbewerbsverbot in Franchiserecht Praxis geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Franchiserecht: Nachvertragliches Wettbewerbsverbot: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Franchiserecht: Nachvertragliches Wettbewerbsverbot

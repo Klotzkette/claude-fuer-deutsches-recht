@@ -1,6 +1,6 @@
 ---
 name: fahrradstrasse-beweis-sichern
-description: "Wenn es um Fahrradstrasse Beweis Sichern in Straßenverkehrsrecht StVO geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Fahrradstrasse Beweis Sichern: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Beweislast- und Substantiierungsmatrix."
 ---
 
 # Fahrradstrasse Beweis Sichern

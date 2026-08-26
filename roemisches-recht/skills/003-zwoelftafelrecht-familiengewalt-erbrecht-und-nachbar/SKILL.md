@@ -1,6 +1,6 @@
 ---
 name: 003-zwoelftafelrecht-familiengewalt-erbrecht-und-nachbar
-description: "Wenn es um Rom Zwoelftafelrecht Familiengewalt Erbrecht Und Nachbar in Römisches Recht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Rom Zwölftafelrecht Familiengewalt Erbrecht und Nachbar: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Rom Zwoelftafelrecht Familiengewalt Erbrecht Und Nachbar

@@ -1,6 +1,6 @@
 ---
 name: lph4-genehmigungsrisiko-bauantrag-auflagen
-description: "Wenn es um LPH 4 Genehmigungsrisiko, Bauantrag Und Auflagen in HOAI Leistungsphasen Praxis geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
+description: "Für LPH 4 Genehmigungsrisiko, Bauantrag und Auflagen: erstellt Entwurf mit Antrag, Beweis und Anlagen; Ergebnis: Schriftsatz mit Begründungs- und Anlagenlogik."
 ---
 
 # LPH 4 Genehmigungsrisiko, Bauantrag Und Auflagen

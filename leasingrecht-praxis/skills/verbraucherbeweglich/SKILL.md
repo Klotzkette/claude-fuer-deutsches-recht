@@ -1,6 +1,6 @@
 ---
 name: verbraucherbeweglich
-description: "Wenn es um Verbraucherleasing beweglicher Sachen: Pflichten und Widerruf in Leasingrecht Praxis geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
+description: "Für Verbraucherleasing beweglicher Sachen: Pflichten und Widerruf: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Verbraucherleasing beweglicher Sachen: Pflichten und Widerruf

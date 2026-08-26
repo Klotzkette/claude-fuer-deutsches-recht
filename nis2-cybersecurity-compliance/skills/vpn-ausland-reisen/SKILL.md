@@ -1,6 +1,6 @@
 ---
 name: vpn-ausland-reisen
-description: "Wenn es um VPN Ausland Reisen in NIS-2, Cybersecurity und IT-Sicherheits-Compliance geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für VPN Ausland Reisen: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Schnittstellenkarte mit Zuständigkeits- und Nachweisfragen."
 ---
 
 # VPN Ausland Reisen

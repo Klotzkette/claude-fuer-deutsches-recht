@@ -1,6 +1,6 @@
 ---
 name: kaltstart-triage
-description: "Wenn es um Umweltschutzverband Verbandsklage - Allgemeiner Einstieg in Umweltschutzverband Verbandsklage geht: klärt Rolle, Ziel, Frist, Unterlagen und den passenden nächsten Fachskill; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Umweltschutzverband Verbandsklage - Allgemeiner Einstieg: routet Rolle, Frist, Unterlagen und Fachschritt; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Umweltschutzverband Verbandsklage - Allgemeiner Einstieg

@@ -1,6 +1,6 @@
 ---
 name: zugang-formgerechter-erklaerung-bgh-viii-zr-159-23
-description: "Wenn es um Zugang Formgerechter Erklaerung Bgh Viii Zr 159 23 in Schriftform und Textform im BGB geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Zugang Formgerechter Erklärung BGH Viii Zr 159 23: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 

@@ -1,6 +1,6 @@
 ---
 name: berufsgericht-und-disziplinarverfahren
-description: "Wenn es um Berufsgericht und Disziplinarverfahren in Berufsrecht Anwälte geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Beweislast- und Substantiierungsmatrix."
+description: "Für Berufsgericht und Disziplinarverfahren: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt. Fachgebiet: Berufsrecht Anwälte."
 ---
 
 # Berufsgericht und Disziplinarverfahren

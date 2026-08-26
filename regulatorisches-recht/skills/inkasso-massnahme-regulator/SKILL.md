@@ -1,6 +1,6 @@
 ---
 name: inkasso-massnahme-regulator
-description: "Wenn es um Inkasso: Verhandlung, Vergleich und Eskalation in Regulatorisches Recht – Plugin für deutsches geht: entwickelt Verhandlungsziel, Vergleichskorridor und Eskalationspfad; liefert eine Verhandlungs- oder Eskalationslinie mit Optionen."
+description: "Für Inkasso: Verhandlung, Vergleich und Eskalation: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Inkasso: Verhandlung, Vergleich und Eskalation

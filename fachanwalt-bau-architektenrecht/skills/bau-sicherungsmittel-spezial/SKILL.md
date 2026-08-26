@@ -1,6 +1,6 @@
 ---
 name: bau-sicherungsmittel-spezial
-description: "Wenn es um Bau Sicherungsmittel Spezial in Fachanwalt Bau Architektenrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Bau Sicherungsmittel Spezial: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Spezialfall Sicherungsmittel: § 650f BGB Bauhandwerkersicherung, Vertragserfuellungsbuergschaft, Gewaehrleistungsbuergschaft, Insolvenz Bauunternehmer

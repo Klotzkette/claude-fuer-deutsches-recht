@@ -1,6 +1,6 @@
 ---
 name: bmukn-atom-und-strahlenschutzrecht
-description: "Wenn es um Atom- und Strahlenschutzrecht (BMUKN) in Legistik-Werkstatt geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen."
+description: "Für Atom- und Strahlenschutzrecht (BMUKN): ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Atom- und Strahlenschutzrecht (BMUKN)

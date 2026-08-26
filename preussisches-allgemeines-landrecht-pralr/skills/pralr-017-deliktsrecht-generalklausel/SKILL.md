@@ -1,6 +1,6 @@
 ---
 name: pralr-017-deliktsrecht-generalklausel
-description: "Wenn es um Deliktsrecht in Preußisches Allgemeines Landrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. Auswahlstichwort: Pralr 017 Deliktsrecht Generalklausel; Arbeitsfeld: Preußisches Allgemeines Landrecht."
+description: "Für Deliktsrecht: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt. Fachgebiet: Preußisches Allgemeines Landrecht. Route: pralr-017-deliktsrecht-generalklausel."
 ---
 
 # Deliktsrecht

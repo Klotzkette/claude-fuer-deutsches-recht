@@ -1,6 +1,6 @@
 ---
 name: belastbarkeit-formeln
-description: "Entwickelt belegbare Aussagen zu Belastbarkeit, Priorisierung und Leistung unter Zeit- oder Mengendruck, ohne Krankheit, Fehlzeiten oder Einschränkungen zu codieren. Liefert zur Funktion passende Formulierungsvarianten mit Tatsachenkern und Notenwirkung."
+description: "Entwickelt belegbare Aussagen zu Belastbarkeit, Priorisierung und Leistung unter Zeit- oder Mengendruck, ohne Krankheit, Fehlzeiten oder Einschränkungen zu codieren."
 ---
 
 # Belastbarkeit-Formeln

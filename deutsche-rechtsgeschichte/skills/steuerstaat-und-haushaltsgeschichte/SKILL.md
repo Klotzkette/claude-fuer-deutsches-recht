@@ -1,6 +1,6 @@
 ---
 name: steuerstaat-und-haushaltsgeschichte
-description: "Wenn es um Steuerstaat und Haushaltsgeschichte in Deutsche Rechtsgeschichte geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Steuerstaat und Haushaltsgeschichte: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Schnittstellenkarte mit Zuständigkeits- und Nachweisfragen."
 ---
 
 # Steuerstaat und Haushaltsgeschichte

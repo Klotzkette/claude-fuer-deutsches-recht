@@ -1,6 +1,6 @@
 ---
 name: staatsanwaltschaft-im-dsgvo-owig
-description: "Wenn es um Staatsanwaltschaft im DSGVO-OWiG-Verfahren in Datenschutz-Sanktionsverfahren und Verteidigung geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
+description: "Für Staatsanwaltschaft im DSGVO-OWiG-Verfahren: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt. Fachgebiet: Datenschutz-Sanktionsverfahren und Verteidigung."
 ---
 
 # Staatsanwaltschaft im DSGVO-OWiG-Verfahren

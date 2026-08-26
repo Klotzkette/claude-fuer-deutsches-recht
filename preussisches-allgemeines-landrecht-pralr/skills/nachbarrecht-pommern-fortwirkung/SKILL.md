@@ -1,6 +1,6 @@
 ---
 name: nachbarrecht-pommern-fortwirkung
-description: "Wenn es um Nachbarrechtliche Fortwirkung in Preußisches Allgemeines Landrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. Auswahlstichwort: Nachbarrecht Pommern Fortwirkung; Arbeitsfeld: Preußisches Allgemeines Landrecht."
+description: "Für Nachbarrechtliche Fortwirkung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt. Fachgebiet: Preußisches Allgemeines Landrecht. Route: nachbarrecht-pommern-fortwirkung."
 ---
 
 # Nachbarrechtliche Fortwirkung

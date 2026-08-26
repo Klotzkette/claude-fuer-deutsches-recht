@@ -1,6 +1,6 @@
 ---
 name: mandantenbrief-hoai
-description: "Wenn es um HOAI Querschnitt: Erklärt bauherrn oder planer den stand in normalem deutsch in HOAI Leistungsphasen Praxis geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
+description: "Für HOAI Querschnitt: Erklärt bauherrn oder planer den stand in normalem deutsch: erstellt Entwurf mit Antrag, Beweis und Anlagen; Ergebnis: Schriftsatz mit Begründungs- und Anlagenlogik."
 ---
 
 # HOAI Querschnitt: Erklärt bauherrn oder planer den stand in normalem deutsch

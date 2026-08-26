@@ -1,6 +1,6 @@
 ---
 name: datev-finance-interface
-description: "Wenn es um DATEV Finance Interface in Kanzlei Management geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für DATEV Finance Interface: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # DATEV Finance Interface

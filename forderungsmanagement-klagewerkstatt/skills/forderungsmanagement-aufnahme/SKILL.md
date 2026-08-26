@@ -1,6 +1,6 @@
 ---
 name: forderungsmanagement-aufnahme
-description: "Wenn es um Forderung aufnehmen in Forderungsmanagement — Klagewerkstatt geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Berechnungstabelle mit Schwellen, Annahmen und Kontrollfragen."
+description: "Für Forderung aufnehmen: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Forderung aufnehmen

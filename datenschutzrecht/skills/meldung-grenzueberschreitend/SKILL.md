@@ -1,6 +1,6 @@
 ---
 name: meldung-grenzueberschreitend
-description: "Wenn es um Meldung grenzüberschreitender Datenschutzvorfälle — EU und Drittstaaten in Datenschutzrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Meldung grenzüberschreitender Datenschutzvorfälle — EU und Drittstaaten: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Meldung grenzüberschreitender Datenschutzvorfälle — EU und Drittstaaten
@@ -42,3 +42,7 @@ Spalte 1: Land; Spalte 2: Behörde; Spalte 3: Pflicht oder freiwillig; Spalte 4:
 - `dsv-bussgeldverteidigung-art-83` und `dsv-schadensersatz-art-82` decken die anwaltliche Nachbearbeitung ab.
 
 - `dsv-lead-authority-konzern` deckt die Bestimmung der federfuehrenden Behörde ab.
+
+## Vertiefung bei Bedarf
+
+- Bei `dsv-meldung-grenzueberschreitend` beziehungsweise Steuert die Meldung eines Datenschutzvorfalls mit Bezug zu mehreren Mitgliedstaaten oder Drittstaaten: [die zusätzliche Vertiefung laden](./references/vertiefung-dsv-meldung-grenzueberschreitend.md).

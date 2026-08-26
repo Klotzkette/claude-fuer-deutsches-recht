@@ -1,6 +1,6 @@
 ---
 name: fachanwalt-medizinrecht-kassenarztrecht
-description: "Wenn es um Kassenarztrecht in Fachanwalt Medizinrecht geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik. Auswahlstichwort: Fachanwalt Medizinrecht Kassenarztrecht; Arbeitsfeld: Fachanwalt Medizinrecht."
+description: "Für Kassenarztrecht: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt. Fachgebiet: Fachanwalt Medizinrecht. Route: fachanwalt-medizinrecht-kassenarztrecht."
 ---
 
 # Kassenarztrecht

@@ -1,6 +1,6 @@
 ---
 name: methodenlehre-anwenden
-description: "Wenn es um Methodenlehre und Rechtsanwendung im bürgerlichen Recht (Anwaltsperspektive) in Methodenlehre bürgerliches Recht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Methodenlehre und Rechtsanwendung im bürgerlichen Recht (Anwaltsperspektive): ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Methodenlehre und Rechtsanwendung im bürgerlichen Recht (Anwaltsperspektive)

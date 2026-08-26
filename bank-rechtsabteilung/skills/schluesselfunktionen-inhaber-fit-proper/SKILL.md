@@ -1,6 +1,6 @@
 ---
 name: schluesselfunktionen-inhaber-fit-proper
-description: "Wenn es um Schlüsselfunktionen Fit and Proper in Bank-Rechtsabteilung geht: entwickelt Verhandlungsziel, Vergleichskorridor und Eskalationspfad; liefert eine Verhandlungs- oder Eskalationslinie mit Optionen."
+description: "Für Schlüsselfunktionen Fit and Proper: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Schlüsselfunktionen Fit and Proper

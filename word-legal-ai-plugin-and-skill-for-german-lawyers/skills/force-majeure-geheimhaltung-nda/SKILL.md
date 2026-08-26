@@ -1,6 +1,6 @@
 ---
 name: force-majeure-geheimhaltung-nda
-description: "Wenn es um Force Majeure und Paragraf 313 BGB (Wegfall der Geschäftsgrundlage) in diesem Spezialbereich geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Beweislast- und Substantiierungsmatrix."
+description: "Für Force Majeure und Paragraf 313 BGB (Wegfall der Geschäftsgrundlage): ordnet Norm, Beweislast und Gegenargument; Ergebnis: Schnittstellenkarte mit Zuständigkeits- und Nachweisfragen."
 ---
 
 # Force Majeure und § 313 BGB (Wegfall der Geschäftsgrundlage)

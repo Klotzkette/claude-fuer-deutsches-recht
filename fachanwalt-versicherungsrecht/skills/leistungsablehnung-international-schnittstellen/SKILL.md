@@ -1,6 +1,6 @@
 ---
 name: leistungsablehnung-international-schnittstellen
-description: "Wenn es um Leistungsablehnung: Internationaler Bezug und Schnittstellen in Fachanwalt Versicherungsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Leistungsablehnung: Internationaler Bezug und Schnittstellen: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Schnittstellenkarte mit Zuständigkeits- und Nachweisfragen."
 ---
 
 # Leistungsablehnung: Internationaler Bezug und Schnittstellen

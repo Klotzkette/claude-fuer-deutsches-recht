@@ -1,6 +1,6 @@
 ---
 name: nkr-pruefumfang-was-prueft-der-nkr-nicht
-description: "Wenn es um NKR-Pruefumfang — was prueft der NKR nicht in Normenkontrollrat (NKR) — Prüfung von Gesetzentwuerfen geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für NKR-Prüfumfang — was prüft der NKR nicht: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt. Fachgebiet: Normenkontrollrat (NKR) — Prüfung von Gesetzentwürfen. Route: nkr-pruefumfang-was-prueft-der-nkr-nicht."
 ---
 
 # NKR-Pruefumfang — was prueft der NKR nicht

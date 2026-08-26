@@ -1,6 +1,6 @@
 ---
 name: forderungsgrund-rang-und-belegpruefung
-description: "Wenn es um Forderungsgrund, Rang und Belegprüfung zur Tabelle in Insolvenzforderungsanmeldungsprüfung geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen."
+description: "Für Forderungsgrund, Rang und Belegprüfung zur Tabelle: ordnet Akte, Belege und Lücken; Ergebnis: Tatbestands- oder Anspruchsmatrix."
 ---
 
 # Forderungsgrund, Rang und Belegprüfung zur Tabelle

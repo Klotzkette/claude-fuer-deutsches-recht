@@ -1,6 +1,6 @@
 ---
 name: 03-zahlungsklage-lohn-und-gehalt
-description: "Wenn es um 03 Zahlungsklage Lohn und Gehalt in Arbeitsgericht geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
+description: "Für 03 Zahlungsklage Lohn und Gehalt: erstellt Entwurf mit Antrag, Beweis und Anlagen; Ergebnis: Schriftsatz mit Begründungs- und Anlagenlogik."
 ---
 
 # 03 Zahlungsklage Lohn und Gehalt

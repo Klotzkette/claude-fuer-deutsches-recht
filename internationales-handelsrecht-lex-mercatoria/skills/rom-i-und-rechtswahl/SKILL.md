@@ -1,6 +1,6 @@
 ---
 name: rom-i-und-rechtswahl
-description: "Wenn es um Rom I-VO und Rechtswahl im internationalen Handel in Internationales Handelsrecht und Lex Mercatoria geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Rom I-VO und Rechtswahl im internationalen Handel: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Rom I-VO und Rechtswahl im internationalen Handel

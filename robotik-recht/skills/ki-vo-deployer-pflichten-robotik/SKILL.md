@@ -1,6 +1,6 @@
 ---
 name: ki-vo-deployer-pflichten-robotik
-description: "Wenn es um Deployer-Pflichten Robotik in robotik-recht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Deployer-Pflichten Robotik: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Deployer-Pflichten Robotik

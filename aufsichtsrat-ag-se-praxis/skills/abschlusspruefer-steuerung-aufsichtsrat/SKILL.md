@@ -1,6 +1,6 @@
 ---
 name: abschlusspruefer-steuerung-aufsichtsrat
-description: "Wenn es um Abschlusspruefer Steuerung in AG/SE-Aufsichtsrat Praxis geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen."
+description: "Für Abschlussprüfer Steuerung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Schnittstellenkarte mit Zuständigkeits- und Nachweisfragen."
 ---
 
 # Abschlusspruefer Steuerung

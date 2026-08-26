@@ -1,6 +1,6 @@
 ---
 name: tierhaltung-immissionsabwehr-paragraf-906-bgb-ta-luft
-description: "Prüft Geruchs-, Ammoniak-, Staub- und Lärmimmissionen aus Tierhaltung im privaten und öffentlichen Nachbarrecht. Trennt Genehmigung, Schutzpflichten, Wesentlichkeit, Ortsüblichkeit, Abhilfemaßnahmen und Ausgleich und erstellt Immissionsmatrix, Gutachtenauftrag und Klage- oder Genehmigungsbaustein."
+description: "Prüft Geruchs-, Ammoniak-, Staub- und Lärmimmissionen aus Tierhaltung im privaten und öffentlichen Nachbarrecht."
 ---
 
 # Immissionen aus Tierhaltung prüfen

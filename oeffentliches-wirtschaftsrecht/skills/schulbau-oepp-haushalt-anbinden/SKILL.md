@@ -1,6 +1,6 @@
 ---
 name: schulbau-oepp-haushalt-anbinden
-description: "Wenn es um Schulbau Oepp Kontrolle Sichern in Öffentliches Wirtschaftsrecht geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Schulbau ÖPP Kontrolle Sichern: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Schulbau Oepp Kontrolle Sichern

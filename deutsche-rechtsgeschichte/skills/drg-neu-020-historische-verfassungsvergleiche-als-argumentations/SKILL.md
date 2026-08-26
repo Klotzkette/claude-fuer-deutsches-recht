@@ -1,6 +1,6 @@
 ---
 name: drg-neu-020-historische-verfassungsvergleiche-als-argumentations
-description: "Wenn es um Drg Neu 020 Historische Verfassungsvergleiche Als Argumentations in Deutsche Rechtsgeschichte geht: entwickelt Verhandlungsziel, Vergleichskorridor und Eskalationspfad; liefert eine Verhandlungs- oder Eskalationslinie mit Optionen."
+description: "Für Drg Neu 020 Historische Verfassungsvergleiche als Argumentations: entwickelt Ziel, Vergleich und Eskalation; Ergebnis: Verhandlungs- oder Eskalationslinie."
 ---
 
 # Deutsche Rechtsgeschichte: Historische Verfassungsvergleiche als Argumentationshilfe mit konkreter Fachprüfung, Quellenhygiene, Fehlerbremse und verwertbarem Arbeitsergebnis.

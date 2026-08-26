@@ -1,6 +1,6 @@
 ---
 name: sozialversicherung-status
-description: "Wenn es um Sozialversicherungsstatus des Handelsvertreters nach Paragraf 7 SGB IV und Paragraf 84 HGB in Handelsvertreterrecht und Vertriebsverträge geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Sozialversicherungsstatus des Handelsvertreters nach Paragraf 7 SGB IV und Paragraf 84 HGB: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Sozialversicherungsstatus des Handelsvertreters nach § 7 SGB IV und § 84 HGB

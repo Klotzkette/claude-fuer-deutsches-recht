@@ -1,6 +1,6 @@
 ---
 name: mobile-device-ot-industrial-admin-offboarding
-description: "Wenn es um Mobile Device Loss in NIS-2, Cybersecurity und IT-Sicherheits-Compliance geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Mobile Device Loss: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Mobile Device Loss

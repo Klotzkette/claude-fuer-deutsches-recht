@@ -1,6 +1,6 @@
 ---
 name: 016-mittelalterliches-roemisches-recht-glossatoren-bolog
-description: "Wenn es um Rom Mittelalterliches Roemisches Recht Glossatoren Bolog in Römisches Recht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Rom Mittelalterliches Römisches Recht Glossatoren Bolog: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Rom Mittelalterliches Roemisches Recht Glossatoren Bolog

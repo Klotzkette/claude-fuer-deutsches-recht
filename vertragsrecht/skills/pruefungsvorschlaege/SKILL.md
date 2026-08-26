@@ -1,6 +1,6 @@
 ---
 name: pruefungsvorschlaege
-description: "Wenn es um Playbook-Vorschläge prüfen und genehmigen in Vertragsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Playbook-Vorschläge prüfen und genehmigen: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Tatbestands- oder Anspruchsmatrix."
 ---
 
 # Playbook-Vorschläge prüfen und genehmigen

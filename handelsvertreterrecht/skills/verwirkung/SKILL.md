@@ -1,6 +1,6 @@
 ---
 name: verwirkung
-description: "Wenn es um Verwirkung von Handelsvertreter-Ansprüchen nach Paragraf 242 BGB in Handelsvertreterrecht und Vertriebsverträge geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Verwirkung von Handelsvertreter-Ansprüchen nach Paragraf 242 BGB: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Verwirkung von Handelsvertreter-Ansprüchen nach § 242 BGB

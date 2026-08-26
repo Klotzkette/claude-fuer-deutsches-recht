@@ -1,6 +1,6 @@
 ---
 name: fusionskontrolle-anmeldung-routing
-description: "Wenn es um Fusionskontrolle Anmeldung Routing in Kartellrecht — Marktabgrenzungsprüfung geht: klärt Rolle, Ziel, Frist, Unterlagen und den passenden nächsten Fachskill; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Fusionskontrolle Anmeldung Routing: routet Rolle, Frist, Unterlagen und Fachschritt; Ergebnis: Gegenprüfung mit Beweis- und Fristencheck."
 ---
 
 # Fusionskontrolle Anmeldung Routing

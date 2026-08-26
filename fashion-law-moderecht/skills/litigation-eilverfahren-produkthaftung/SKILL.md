@@ -1,6 +1,6 @@
 ---
 name: litigation-eilverfahren-produkthaftung
-description: "Wenn es um Litigation Und Eilverfahren Fashion in fashion-law-moderecht geht: entwickelt Verhandlungsziel, Vergleichskorridor und Eskalationspfad; liefert eine Verhandlungs- oder Eskalationslinie mit Optionen."
+description: "Für Litigation und Eilverfahren Fashion: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Litigation Und Eilverfahren Fashion

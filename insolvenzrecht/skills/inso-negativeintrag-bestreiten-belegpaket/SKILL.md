@@ -1,6 +1,6 @@
 ---
 name: inso-negativeintrag-bestreiten-belegpaket
-description: "Wenn es um Negativeintrag bestreiten: Belegpaket in Insolvenzrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Negativeintrag bestreiten: Belegpaket: ordnet Akte, Belege und Lücken; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Negativeintrag bestreiten: Belegpaket

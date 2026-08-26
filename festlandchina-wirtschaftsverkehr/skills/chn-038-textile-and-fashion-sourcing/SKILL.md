@@ -1,6 +1,6 @@
 ---
 name: chn-038-textile-and-fashion-sourcing
-description: "Wenn es um Textile And Fashion Sourcing in China-Wirtschaftsverkehr geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Textile And Fashion Sourcing: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Textile And Fashion Sourcing

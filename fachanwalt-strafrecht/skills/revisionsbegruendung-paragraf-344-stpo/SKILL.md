@@ -1,6 +1,6 @@
 ---
 name: revisionsbegruendung-paragraf-344-stpo
-description: "Wenn es um Revisionsbegruendung Paragraf 344 StPO in Fachanwalt Strafrecht geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Revisionsbegründung Paragraf 344 StPO: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Revisionsbegruendung § 344 StPO

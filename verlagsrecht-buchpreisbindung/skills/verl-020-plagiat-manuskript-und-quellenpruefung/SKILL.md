@@ -1,6 +1,6 @@
 ---
 name: verl-020-plagiat-manuskript-und-quellenpruefung
-description: "Wenn es um Verlagsrecht: Plagiat Manuskript und Quellenprüfung in Verlagsrecht und Buchpreisbindung geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Verlagsrecht: Plagiat Manuskript und Quellenprüfung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Tatbestands- oder Anspruchsmatrix."
 ---
 
 # Verlagsrecht: Plagiat Manuskript und Quellenprüfung

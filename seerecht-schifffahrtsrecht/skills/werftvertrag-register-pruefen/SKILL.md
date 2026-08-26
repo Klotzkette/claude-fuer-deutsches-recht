@@ -1,6 +1,6 @@
 ---
 name: werftvertrag-register-pruefen
-description: "Wenn es um Werftvertrag – Registerprüfung in See- und Schifffahrtsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Werftvertrag – Registerprüfung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Einreichungsplan mit Form- und Nachweischeck."
 ---
 
 # Werftvertrag – Registerprüfung

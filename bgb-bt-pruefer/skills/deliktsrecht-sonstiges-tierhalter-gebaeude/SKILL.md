@@ -1,6 +1,6 @@
 ---
 name: deliktsrecht-sonstiges-tierhalter-gebaeude
-description: "Wenn es um Deliktsrecht: Sonstiges Recht in BGB BT Prüfer geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. Auswahlstichwort: Deliktsrecht Sonstiges Tierhalter Gebaeude; Arbeitsfeld: BGB BT Prüfer."
+description: "Für Deliktsrecht: Sonstiges Recht: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Schnittstellenkarte mit Zuständigkeits- und Nachweisfragen."
 ---
 
 # Deliktsrecht: Sonstiges Recht

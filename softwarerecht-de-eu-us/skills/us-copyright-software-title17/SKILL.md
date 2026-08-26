@@ -1,6 +1,6 @@
 ---
 name: us-copyright-software-title17
-description: "Wenn es um US Copyright Software Title 17 in Softwarerecht Deutschland/EU/International/USA geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für US Copyright Software Title 17: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # US Copyright Software Title 17

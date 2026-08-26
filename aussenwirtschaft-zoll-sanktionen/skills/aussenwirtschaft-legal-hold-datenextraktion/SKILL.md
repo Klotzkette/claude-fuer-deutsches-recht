@@ -1,6 +1,6 @@
 ---
 name: aussenwirtschaft-legal-hold-datenextraktion
-description: "Wenn es um Legal Hold Datenextraktion in Außenwirtschaft, Sanktionen, Zoll und CBAM geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Legal Hold Datenextraktion: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Legal Hold Datenextraktion

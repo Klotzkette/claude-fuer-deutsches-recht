@@ -1,6 +1,6 @@
 ---
 name: 023-roemisches-stadtrechte
-description: "Wenn es um Römisches Recht: Römisches Recht und Stadtrechte Norditalien in Römisches Recht geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Dokumentenmatrix mit Nachforderungsliste."
+description: "Für Römisches Recht: Römisches Recht und Stadtrechte Norditalien: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Römisches Recht: Römisches Recht und Stadtrechte Norditalien

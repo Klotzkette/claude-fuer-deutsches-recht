@@ -1,6 +1,6 @@
 ---
 name: rechtsabteilung-right-to-repair-im-geraetevertrieb
-description: "Wenn es um Rechtsabteilung: Right to Repair im Gerätevertrieb in Produkthaftung und Produktrecht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
+description: "Für Rechtsabteilung: Right to Repair im Gerätevertrieb: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Rechtsabteilung: Right to Repair im Gerätevertrieb

@@ -1,6 +1,6 @@
 ---
 name: stellungnahme-und-compliance-aktionsplan
-description: "Wenn es um Stellungnahme und Compliance-Aktionsplan in Bundesnetzagentur-Verfahren geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Stellungnahme und Compliance-Aktionsplan: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Stellungnahme und Compliance-Aktionsplan

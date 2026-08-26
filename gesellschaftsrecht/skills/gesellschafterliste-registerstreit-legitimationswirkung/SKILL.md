@@ -1,6 +1,6 @@
 ---
 name: gesellschafterliste-registerstreit-legitimationswirkung
-description: "Wenn es um Gesellschafterliste Registerstreit Legitimationswirkung in Gesellschaftsrecht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert einen Einreichungsplan mit Form-, Portal- und Nachweischeck."
+description: "Für Gesellschafterliste Registerstreit Legitimationswirkung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Einreichungsplan mit Form- und Nachweischeck."
 ---
 
 # GmbH-Gesellschafterliste: Registerstreit, Legitimationswirkung und einstweiliger Rechtsschutz

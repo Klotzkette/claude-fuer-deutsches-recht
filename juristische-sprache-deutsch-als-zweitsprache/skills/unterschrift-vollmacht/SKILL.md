@@ -1,6 +1,6 @@
 ---
 name: unterschrift-vollmacht
-description: "Wenn es um Unterschrift Vollmacht in Juristische Sprache Deutsch als Zweitsprache geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Unterschrift Vollmacht: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Unterschrift Vollmacht

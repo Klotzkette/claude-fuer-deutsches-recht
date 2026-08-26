@@ -1,6 +1,6 @@
 ---
 name: handelsregisterabruf
-description: "Wenn es um Handelsregister- und Registerabruf in Mittelstands-Corporate/M&A geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert einen Einreichungsplan mit Form-, Portal- und Nachweischeck."
+description: "Für Handelsregister- und Registerabruf: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Einreichungsplan mit Form- und Nachweischeck."
 ---
 
 # Handelsregister- und Registerabruf

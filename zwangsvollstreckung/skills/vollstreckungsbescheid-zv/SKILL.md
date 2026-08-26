@@ -1,6 +1,6 @@
 ---
 name: vollstreckungsbescheid-zv
-description: "Wenn es um Vollstreckungsbescheid und Folgeverfahren in Zwangsvollstreckung geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
+description: "Für Vollstreckungsbescheid und Folgeverfahren: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Vollstreckungsbescheid und Folgeverfahren

@@ -1,6 +1,6 @@
 ---
 name: verbraucherinsolvenz-belegchaos-strukturieren
-description: "Wenn es um Schuldnerberatungsstelle: Strukturierung des Belegchaos in Verbraucherinsolvenz und Schuldenbereinigung geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
+description: "Für Schuldnerberatungsstelle: Strukturierung des Belegchaos: ordnet Akte, Belege und Lücken; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Schuldnerberatungsstelle: Strukturierung des Belegchaos

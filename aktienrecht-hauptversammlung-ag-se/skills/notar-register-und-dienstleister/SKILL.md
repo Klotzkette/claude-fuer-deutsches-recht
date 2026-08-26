@@ -1,6 +1,6 @@
 ---
 name: notar-register-und-dienstleister
-description: "Wenn es um Notar Register Und Dienstleister in Hauptversammlung AG und SE geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Notar Register und Dienstleister: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Einreichungsplan mit Form- und Nachweischeck."
 ---
 
 # Notar Register Und Dienstleister

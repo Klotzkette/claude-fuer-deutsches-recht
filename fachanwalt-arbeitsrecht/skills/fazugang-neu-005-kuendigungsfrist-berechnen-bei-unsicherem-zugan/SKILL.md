@@ -1,6 +1,6 @@
 ---
 name: fazugang-neu-005-kuendigungsfrist-berechnen-bei-unsicherem-zugan
-description: "Wenn es um Fazugang Neu 005 Kuendigungsfrist Berechnen Bei Unsicherem Zugan in Fachanwalt Arbeitsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Fazugang Neu 005 Kündigungsfrist Berechnen bei Unsicherem Zugan: prüft Frist, Form, Zuständigkeit und Eilbedarf; Ergebnis: Fristen- und Risikoampel."
 ---
 
 # Kündigungsfrist berechnen bei unsicherem Zugangsdatum: frühest- und spätestmöglicher Zugang, Fristberechnung Paragrafen 187 ff

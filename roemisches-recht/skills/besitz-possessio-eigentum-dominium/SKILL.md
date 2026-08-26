@@ -1,6 +1,6 @@
 ---
 name: besitz-possessio-eigentum-dominium
-description: "Wenn es um Besitz (possessio) - Grundlagen in Römisches Recht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Besitz (possessio) - Grundlagen: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Besitz (possessio) - Grundlagen

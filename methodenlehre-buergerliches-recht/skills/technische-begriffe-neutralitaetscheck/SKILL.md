@@ -1,6 +1,6 @@
 ---
 name: technische-begriffe-neutralitaetscheck
-description: "Wenn es um Technische Begriffe und Neutralitätscheck in der Rechtsanwendung in Methodenlehre bürgerliches Recht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Technische Begriffe und Neutralitätscheck in der Rechtsanwendung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Schnittstellenkarte mit Zuständigkeits- und Nachweisfragen."
 ---
 
 # Technische Begriffe und Neutralitätscheck in der Rechtsanwendung

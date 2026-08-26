@@ -1,6 +1,6 @@
 ---
 name: digestenstelle-in-argumentation
-description: "Wenn es um Digestenstelle In Argumentation in Römisches Recht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Digestenstelle in Argumentation: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Digestenstelle In Argumentation

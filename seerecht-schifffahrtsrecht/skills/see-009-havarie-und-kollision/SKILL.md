@@ -1,6 +1,6 @@
 ---
 name: see-009-havarie-und-kollision
-description: "Wenn es um Havarie Und Kollision in See- und Schifffahrtsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Havarie und Kollision: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Havarie Und Kollision

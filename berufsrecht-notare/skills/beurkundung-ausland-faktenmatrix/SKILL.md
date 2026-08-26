@@ -1,6 +1,6 @@
 ---
 name: beurkundung-ausland-faktenmatrix
-description: "Wenn es um Beurkundung Ausland Faktenmatrix in Berufsrecht Notare geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Beurkundung Ausland Faktenmatrix: ordnet Akte, Belege und Lücken; Ergebnis: Schnittstellenkarte mit Zuständigkeits- und Nachweisfragen."
 ---
 
 # Notare: beurkundung im ausland bezug - Kaltstart mit Faktenmatrix, Risikoampel und fehlenden Unterlagen

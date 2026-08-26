@@ -1,6 +1,6 @@
 ---
 name: eilrechtsschutz-tierhalter
-description: "Wenn es um Eilrechtsschutz Gegen Haltungsverbot in Tierschutzrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Eilrechtsschutz gegen Haltungsverbot: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Eilrechtsschutz Gegen Haltungsverbot

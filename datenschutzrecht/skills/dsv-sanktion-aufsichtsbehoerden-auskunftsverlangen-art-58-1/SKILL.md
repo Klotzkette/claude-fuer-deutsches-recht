@@ -1,6 +1,6 @@
 ---
 name: dsv-sanktion-aufsichtsbehoerden-auskunftsverlangen-art-58-1
-description: "Wenn es um Datenschutzrecht-Brückenskill: Auskunftsverlangen Art in Datenschutzrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Datenschutzrecht-Brückenskill: Auskunftsverlangen Art: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Datenschutzrecht-Brückenskill: Auskunftsverlangen Art

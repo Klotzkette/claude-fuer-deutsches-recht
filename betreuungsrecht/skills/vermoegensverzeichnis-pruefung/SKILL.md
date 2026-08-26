@@ -1,6 +1,6 @@
 ---
 name: vermoegensverzeichnis-pruefung
-description: "Wenn es um Vermögensverzeichnis und Rechnungslegung (Paragrafen 1835. 1839. 1865 BGB) in Betreuungsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Vermögensverzeichnis und Rechnungslegung (Paragrafen 1835. 1839. 1865 BGB): ordnet Norm, Beweislast und Gegenargument; Ergebnis: Tatbestands- oder Anspruchsmatrix."
 ---
 
 # Vermögensverzeichnis und Rechnungslegung (§§ 1835, 1839, 1865 BGB)

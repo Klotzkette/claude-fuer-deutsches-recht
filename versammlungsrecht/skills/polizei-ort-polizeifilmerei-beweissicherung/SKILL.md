@@ -1,6 +1,6 @@
 ---
 name: polizei-ort-polizeifilmerei-beweissicherung
-description: "Wenn es um Vor Ort ruhig und dokumentiert in Versammlungsrecht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Beweislast- und Substantiierungsmatrix."
+description: "Für Vor Ort ruhig und dokumentiert: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Beweislast- und Substantiierungsmatrix."
 ---
 
 # Vor Ort ruhig und dokumentiert

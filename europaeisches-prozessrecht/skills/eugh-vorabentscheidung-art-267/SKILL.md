@@ -1,6 +1,6 @@
 ---
 name: eugh-vorabentscheidung-art-267
-description: "Entwickelt Vorlagefragen, Vorlagebeschluss, Parteivortrag und nationale Verfahrensstrategie nach Art. 267 AEUV, inklusive Entscheidungserheblichkeit, acte clair, acte éclairé und Vorlagepflicht letzter Instanzen."
+description: "Entwickelt Vorlagefragen, Vorlagebeschluss, Parteivortrag und nationale Verfahrensstrategie nach Art."
 ---
 # Vorabentscheidung nach Art. 267 AEUV
 

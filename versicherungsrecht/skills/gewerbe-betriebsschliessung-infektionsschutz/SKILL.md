@@ -1,6 +1,6 @@
 ---
 name: gewerbe-betriebsschliessung-infektionsschutz
-description: "Wenn es um Betriebsschließungsversicherung und Infektionsschutz in Versicherungsrecht geht: entwickelt Verhandlungsziel, Vergleichskorridor und Eskalationspfad; liefert eine Verhandlungs- oder Eskalationslinie mit Optionen."
+description: "Für Betriebsschließungsversicherung und Infektionsschutz: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Betriebsschließungsversicherung und Infektionsschutz

@@ -1,6 +1,6 @@
 ---
 name: btr-betreuer-gegen-vorsorgevollmacht
-description: "Wenn es um Btr: Bevollmaechtigter gegen Betreuer in Betreuungsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Btr: Bevollmächtigter gegen Betreuer: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Schnittstellenkarte mit Zuständigkeits- und Nachweisfragen."
 ---
 
 # Btr: Bevollmaechtigter gegen Betreuer

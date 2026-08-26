@@ -1,6 +1,6 @@
 ---
 name: zwvw-anordnung-zwangsverwaltung
-description: "Wenn es um ZwVw: Anordnung Bauleiter in ZVG-Zwangsverwaltung - Verwalter-Cockpit geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
+description: "Für ZwVw: Anordnung Bauleiter: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # ZwVw: Anordnung Bauleiter

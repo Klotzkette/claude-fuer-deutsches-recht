@@ -1,6 +1,6 @@
 ---
 name: datenpunkt-dokumentenmatrix-lueckenliste
-description: "Wenn es um Datenpunkt: Dokumentenmatrix, Lückenliste und Nachforderung in Tabellenreview 3D geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Datenpunkt: Dokumentenmatrix, Lückenliste und Nachforderung: ordnet Akte, Belege und Lücken; Ergebnis: Dokumentenmatrix mit Nachforderungsliste."
 ---
 
 # Datenpunkt: Dokumentenmatrix, Lückenliste und Nachforderung

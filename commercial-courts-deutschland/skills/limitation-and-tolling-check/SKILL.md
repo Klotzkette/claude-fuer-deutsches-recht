@@ -1,6 +1,6 @@
 ---
 name: limitation-and-tolling-check
-description: "Wenn es um Limitation and Tolling in commercial-courts-deutschland geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
+description: "Für Limitation and Tolling: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Limitation and Tolling

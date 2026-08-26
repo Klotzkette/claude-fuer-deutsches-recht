@@ -1,6 +1,6 @@
 ---
 name: fachanwalt-urheber-medienrecht-tdm-44b-urhg-ki-training-opt-out
-description: "Wenn es um TDM Paragraf 44b UrhG – digitale Werkzeuge-Training und Opt-out in Fachanwalt Urheber Medienrecht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen."
+description: "Für TDM Paragraf 44b UrhG – digitale Werkzeuge-Training und Opt-out: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # TDM § 44b UrhG – KI-Training und Opt-out

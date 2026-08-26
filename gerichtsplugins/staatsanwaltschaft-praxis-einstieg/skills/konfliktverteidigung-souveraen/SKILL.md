@@ -1,6 +1,6 @@
 ---
 name: konfliktverteidigung-souveraen
-description: "Wenn es um Umgang mit harter Verteidigung in Staatsanwaltschaft Praxis-Einstieg geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Umgang mit harter Verteidigung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Umgang mit harter Verteidigung

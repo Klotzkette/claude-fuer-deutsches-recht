@@ -1,6 +1,6 @@
 ---
 name: verfassungsrecht-grundrechtspruefung
-description: "Wenn es um Verfassungsrecht — Grundrechts-Prüfung in hausarbeitenmacher — Didaktisches Plugin für juristische geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Verfassungsrecht — Grundrechts-Prüfung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Tatbestands- oder Anspruchsmatrix."
 ---
 
 # Verfassungsrecht — Grundrechts-Prüfung

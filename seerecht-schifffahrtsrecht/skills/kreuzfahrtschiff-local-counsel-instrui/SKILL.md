@@ -1,6 +1,6 @@
 ---
 name: kreuzfahrtschiff-local-counsel-instrui
-description: "Wenn es um Kreuzfahrtschiff – Local Counsel instruieren in See- und Schifffahrtsrecht geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
+description: "Für Kreuzfahrtschiff – Local Counsel instruieren: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Schnittstellenkarte mit Zuständigkeits- und Nachweisfragen."
 ---
 
 # Kreuzfahrtschiff – Local Counsel instruieren

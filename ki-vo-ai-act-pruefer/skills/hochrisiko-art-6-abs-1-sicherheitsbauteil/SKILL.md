@@ -1,6 +1,6 @@
 ---
 name: hochrisiko-art-6-abs-1-sicherheitsbauteil
-description: "Wenn es um Hochrisiko-digitale Werkzeuge: Sicherheitsbauteil — Art. 6 Abs. 1 europäischer Technikregulierungsrahmen in europäischem Technikregulierungsrecht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen."
+description: "Für Hochrisiko-digitale Werkzeuge: Sicherheitsbauteil — Art. 6 Abs. 1 europäischer Technikregulierungsrahmen: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Hochrisiko-KI: Sicherheitsbauteil — Art. 6 Abs. 1 KI-VO

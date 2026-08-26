@@ -1,6 +1,6 @@
 ---
 name: online-abruf-registerportal-unternehmensregister
-description: "Wenn es um Registerabruf richtig dokumentieren in Handelsregister Praxis geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Chronologie mit Belegmatrix und Widerspruchsliste."
+description: "Für Registerabruf richtig dokumentieren: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Einreichungsplan mit Form- und Nachweischeck."
 ---
 
 # Registerabruf richtig dokumentieren

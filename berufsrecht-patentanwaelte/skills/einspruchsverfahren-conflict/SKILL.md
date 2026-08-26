@@ -1,6 +1,6 @@
 ---
 name: einspruchsverfahren-conflict
-description: "Wenn es um Einspruchsverfahren Conflict in Berufsrecht Patentanwälte geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Einspruchsverfahren Conflict: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Patentanwälte: einspruchsverfahren und conflict check - Organisationspflichten, Prävention, Team-Anweisung und Fristenkontrolle

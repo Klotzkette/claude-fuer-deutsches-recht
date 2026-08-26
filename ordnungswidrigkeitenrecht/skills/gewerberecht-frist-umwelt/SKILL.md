@@ -1,6 +1,6 @@
 ---
 name: gewerberecht-frist-umwelt
-description: "Wenn es um Gewerberecht Frist Prüfen in Ordnungswidrigkeitenrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Gewerberecht Frist Prüfen: prüft Frist, Form, Zuständigkeit und Eilbedarf; Ergebnis: Fristen- und Risikoampel. Fachgebiet: Ordnungswidrigkeitenrecht. Route: gewerberecht-frist-umwelt."
 ---
 
 # Gewerberecht Frist Prüfen

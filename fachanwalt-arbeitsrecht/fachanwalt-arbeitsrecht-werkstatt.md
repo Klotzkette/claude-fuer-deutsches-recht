@@ -79,7 +79,7 @@ Arbeitsgriff Arbeitsprodukt: Vertrag, Personalvermerk, Anhörung, Abmahnung, Bet
 | --- | --- | --- | --- |
 | Fallkern | Anhörung des Betriebsrats (Paragraf 102 BetrVG) | BGB Paragraf 611a | Sofortvermerk mit Ergebnisrichtung, Risiko und nächstem Schritt |
 | Zulässigkeit und Frist | Frist, Form, Zuständigkeit, Rolle und statthafter Weg | BGB Paragraf 241 Absatz 2, Paragraf 612a und GewO Paragraf 106 | Fristenblatt oder Prozess-/Verfahrensroute |
-| Begründetheit | Abmahnung und Personalaktenentfernung prüfen | BGB Paragraf 241 Absatz 2, Paragraf 612a und GewO Paragraf 106 | Tatbestandsmatrix mit Beleg und Gegenargument |
+| Begründetheit | Fachanwaltsblick Arbeitsrecht | BGB Paragraf 241 Absatz 2, Paragraf 612a und GewO Paragraf 106 | Tatbestandsmatrix mit Beleg und Gegenargument |
 | Rechtsfolge | Vertrag, Personalvermerk, Zeit- oder Vergütungskorrektur, Beteiligungsvorlage, Abmahnung, Feststellungsklage, Vergleich oder Abwicklung | Wer sich auf den Zugang einer Erklärung beruft, beweist ihn; bei einer Arbeitgeberkündigung daher regelmäßig der Arbeitgeber. Der Arbeitgeber trägt außerdem Kündigungsgrund, ordnungsgemäße Betriebsratsanhörung und Erfüllung; der Arbeitnehmer Arbeitsleistung, eigene Anspruchsvoraussetzungen, rechtzeitige Klageerhebung und Gegenbelege | Antrag, Entwurf, Entscheidungsvorschlag oder Mandantenbrief |
 
 ## 5. Normenanker, Tatbestandswichtigkeiten und Beweislast
@@ -194,6 +194,7 @@ Die Landkarte dient der schnellen Auswahl. Sie ersetzt nicht die darunter ausfor
 | Arbeitsfeld | Entscheidende Weiche | Erstes Lieferstück |
 | --- | --- | --- |
 | Anhörung des Betriebsrats (Paragraf 102 BetrVG) | Bearbeite Anhörung des Betriebsrats (Paragraf 102 BetrVG): zugang, Dreiwochenfrist, Schriftform, Beteiligungsrechte, Darlegungslast und Klage- oder Vergleichsziel sofort trennen. | Fachvotum zu Anhörung des Betriebsrats (Paragraf 102 BetrVG) mit Tatbestandsmerkmalen, Aktenfundstellen, Beweislast, stärkster Gegenposition, Risiko und ausformulierter Rechtsfolge |
+| Fachanwaltsblick Arbeitsrecht | Trenne Individualarbeitsrecht, kollektives Arbeitsrecht und sozialrechtliche Folgefragen. Ordne das Mandat einem Schwerpunkt aus FAO Paragraf 10 zu und benenne Schnittstellen, ohne die Kernprüfung auszulagern. | Fachvotum zu Fachanwaltsblick Arbeitsrecht mit Tatbestandsmerkmalen, Aktenfundstellen, Beweislast, stärkster Gegenposition, Risiko und ausformulierter Rechtsfolge |
 | Abmahnung und Personalaktenentfernung prüfen | AZR 782/11: Eine unberechtigte Abmahnung ist zu entfernen, wenn sie unbestimmt ist, falsche Tatsachen enthält, das Verhalten rechtlich falsch bewertet oder unverhältnismäßig ist. | versandfertiges Schreiben mit Betreff, Sachverhaltskern, Rechtsgrund, konkretem Begehren, Frist und Anlagenverzeichnis |
 | Arbeitsgerichtliche Versandmappe endfertigen | Typische Belegfolge ist nicht schematisch, sondern folgt dem Vortrag: Vertrag, Kündigung und Zugang, Vollmacht oder Anhörung, Abmahnungen, Abrechnungen, Zeiterfassung, Schriftverkehr. | Fachvotum zu Arbeitsgerichtliche Versandmappe endfertigen mit Tatbestandsmerkmalen, Aktenfundstellen, Beweislast, stärkster Gegenposition, Risiko und ausformulierter Rechtsfolge |
 | Aufhebungsvertrag und faires Verhandeln prüfen | Ein Arbeitnehmer hat einen Aufhebungsvertrag in einem überraschenden Gespräch unterschrieben und beruft sich auf Druck, Krankheit, sprachliche Unterlegenheit, unzutreffende Vorwürfe oder eine angedrohte Kündigung. | verhandlungsfähige Fassung mit Ausgangstext, Änderung, Begründung, Rückfallposition und Vollzugscheck |
@@ -201,7 +202,6 @@ Die Landkarte dient der schnellen Auswahl. Sie ersetzt nicht die darunter ausfor
 | Fachanwalt Arbeitsrecht BAG Equal Pay Paarvergleich | Liegt eine konkrete Entgeltdifferenz zwischen der Mandantin und einem männlichen Kollegen vor? Verrichten beide gleiche oder gleichwertige Arbeit (Tätigkeit, Anforderungen, Verantwortung, Belastung)? | Verhandlungsblatt zu Fachanwalt Arbeitsrecht BAG Equal Pay Paarvergleich mit Ziel, Mindestposition, Tauschmasse, Risiko, Regelungstext und Vollzug |
 | Kontrolle im Homeoffice rechtmäßig gestalten | Ein Arbeitgeber will Bildschirmaufzeichnungen, Tastaturprotokolle, Aktivitätsdaten oder Kamerabilder aus dem Homeoffice erheben oder bereits erhobene Daten arbeitsrechtlich verwerten. | Kontrollvermerk zu Kontrolle im Homeoffice rechtmäßig gestalten mit Pflicht, Ist-Nachweis, Abweichung, Risiko, Verantwortlichem, Frist und Freigabe |
 | Leiharbeitnehmer bei der Betriebsratswahl prüfen | ABR 69/11: Regelmäßig eingesetzte Leiharbeitnehmer sind bei der für die Betriebsratsgröße maßgeblichen Belegschaftsstärke des Entleiherbetriebs zu berücksichtigen. | Fachvotum zu Leiharbeitnehmer bei der Betriebsratswahl prüfen mit Tatbestandsmerkmalen, Aktenfundstellen, Beweislast, stärkster Gegenposition, Risiko und ausformulierter. |
-| Massenentlassung und Anzeige prüfen | Vor einer Aussage zur Wirksamkeit sind Schwellenwert, Konsultationsverfahren und Anzeigeverfahren getrennt und anschließend in ihrer Reihenfolge zu prüfen. | vollständige Einreichungs- oder Registervorlage mit Zuständigkeit, Pflichtfeldern, Nachweisen, Freigabe und Vollzugskontrolle |
 
 ## 16. Fachspezifische Praxisrouten
 
@@ -214,63 +214,64 @@ Prüfschritte: Gibt es einen Betriebsrat im Betrieb; — Paragraf 1 BetrVG: mind
 Norm- oder Entscheidungsbezug aus dem Fachmaterial: Paragraf 1 BetrVG: mindestens 5 wahlberechtigte, 3 wählbare Arbeitnehmer; Betriebsabgrenzung nach Paragraf 1 BetrVG beachten; Gibt es einen Betriebsrat im Betrieb; — Paragraf 1 BetrVG: mindestens 5 wahlberechtigte, 3 wählbare Arbeitnehmer; Betriebsabgrenzung nach Paragraf 1 BetrVG beachten.
 Lieferstück: Fachvotum zu Anhörung des Betriebsrats (Paragraf 102 BetrVG) mit Tatbestandsmerkmalen, Aktenfundstellen, Beweislast, stärkster Gegenposition, Risiko und ausformulierter Rechtsfolge.
 
-### 16.2. Abmahnung und Personalaktenentfernung prüfen
+### 16.2. Fachanwaltsblick Arbeitsrecht
+
+Bearbeitungsauftrag: Trenne Individualarbeitsrecht, kollektives Arbeitsrecht und sozialrechtliche Folgefragen. Ordne das Mandat einem Schwerpunkt aus FAO Paragraf 10 zu und benenne Schnittstellen, ohne die Kernprüfung auszulagern. Bei Vergütung und Arbeitszeit führe Anspruchszeitraum, vereinbarte Sollzeit, dokumentierte Istzeit, Vergütungsabrede, Ausschlussfristen, Erfüllung und Darlegungslast positionsweise zusammen.
+Prüfschritte: Werte zuerst Arbeitsvertrag, Nachträge, Abrechnungen, Zeitdaten, Personalakte, Betriebsratsunterlagen und Zustellnachweise aus; Liefere dann eine Fristenampel und den ersten verwertbaren Baustein; Frage nur nach Tatsachen, die Kündigungsschutz, Befristung, Anspruchshöhe, Ausschlussfrist oder Beweisführung ändern.
+Lieferstück: Fachvotum zu Fachanwaltsblick Arbeitsrecht mit Tatbestandsmerkmalen, Aktenfundstellen, Beweislast, stärkster Gegenposition, Risiko und ausformulierter Rechtsfolge.
+
+### 16.3. Abmahnung und Personalaktenentfernung prüfen
 
 Bearbeitungsauftrag: AZR 782/11: Eine unberechtigte Abmahnung ist zu entfernen, wenn sie unbestimmt ist, falsche Tatsachen enthält, das Verhalten rechtlich falsch bewertet oder unverhältnismäßig ist. Eine berechtigte Abmahnung ist erst zu entfernen, wenn das gerügte Verhalten für das Arbeitsverhältnis unter jedem rechtlichen Gesichtspunkt bedeutungslos geworden ist. AZR 593/09: Der Entfernungsanspruch folgt aus der Beeinträchtigung des beruflichen Fortkommens und des Persönlichkeitsrechts; Inhalt und Funktion der konkreten Abmahnung sind maßgeblich.
 Prüfschritte: Ein Arbeitnehmer verlangt die Entfernung einer Abmahnung; Zu unterscheiden sind eine von Anfang an rechtswidrige Abmahnung und eine ursprünglich berechtigte Abmahnung, deren weiterer Verbleib später jede rechtliche Bedeutung verloren haben soll.
 Lieferstück: versandfertiges Schreiben mit Betreff, Sachverhaltskern, Rechtsgrund, konkretem Begehren, Frist und Anlagenverzeichnis.
 
-### 16.3. Arbeitsgerichtliche Versandmappe endfertigen
+### 16.4. Arbeitsgerichtliche Versandmappe endfertigen
 
 Bearbeitungsauftrag: Typische Belegfolge ist nicht schematisch, sondern folgt dem Vortrag: Vertrag, Kündigung und Zugang, Vollmacht oder Anhörung, Abmahnungen, Abrechnungen, Zeiterfassung, Schriftverkehr. Jede Seite trägt rechts oben die endgültige Bezeichnung. Hauptdokument und jede Anlage werden getrennt als lesbare PDF ausgegeben.
 Prüfschritte: Lies Klage oder Erwiderung, Arbeitsvertrag und Nachträge, Kündigungsurkunde samt Umschlag oder Zustellnachweis, Abmahnungen, Betriebsratsunterlagen, Lohnabrechnungen, Arbeitszeitdaten, BEM-Unterlagen und gerichtliche Verfügungen; Liefere sofort Frist- und Belegmatrix; Frage nach Gestaltung nur, wenn weder Kanzleivorlage noch Alt-Schriftsatz den Stil erkennen lassen; Klägeranlagen beginnen oder laufen als K, Beklagtenanlagen als B; Replik und Duplik setzen die höchste vergebene Nummer fort.
 Lieferstück: Fachvotum zu Arbeitsgerichtliche Versandmappe endfertigen mit Tatbestandsmerkmalen, Aktenfundstellen, Beweislast, stärkster Gegenposition, Risiko und ausformulierter Rechtsfolge.
 
-### 16.4. Aufhebungsvertrag und faires Verhandeln prüfen
+### 16.5. Aufhebungsvertrag und faires Verhandeln prüfen
 
 Bearbeitungsauftrag: Ein Arbeitnehmer hat einen Aufhebungsvertrag in einem überraschenden Gespräch unterschrieben und beruft sich auf Druck, Krankheit, sprachliche Unterlegenheit, unzutreffende Vorwürfe oder eine angedrohte Kündigung. Eine schuldhafte Verletzung kann einen Anspruch auf Herstellung des Zustands begründen, der ohne den Aufhebungsvertrag bestünde. AZR 333/21: Ein nur sofort annehmbares Angebot und die verweigerte weitere Bedenkzeit sind für sich allein nicht unfair.
 Prüfschritte: Nicht jede harte Verhandlung ist unfair; entscheidend sind Zustandekommen, Entscheidungsfreiheit und konkrete Gesamtumstände.
 Lieferstück: verhandlungsfähige Fassung mit Ausgangstext, Änderung, Begründung, Rückfallposition und Vollzugscheck.
 
-### 16.5. Kündigung wegen Minderleistung prüfen
+### 16.6. Kündigung wegen Minderleistung prüfen
 
 Bearbeitungsauftrag: AZR 667/02: Der Arbeitnehmer schuldet keine objektive Durchschnittsleistung, sondern Arbeit unter angemessener Ausschöpfung seiner persönlichen Leistungsfähigkeit. Er darf das Verhältnis von Leistung und Gegenleistung nicht willkürlich beeinträchtigen. AZR 536/06: Eine längerfristige deutliche Unterschreitung des Durchschnitts vergleichbarer Arbeitnehmer kann ein Indiz dafür sein, dass die persönliche Leistungsfähigkeit nicht ausgeschöpft wird.
 Prüfschritte: Zuerst ist zu klären, ob der Arbeitnehmer nicht leisten will, nicht leisten kann oder ob die Kennzahlen ungeeignet, verzerrt oder durch Arbeitsbedingungen verursacht sind.
 Lieferstück: Fachvotum zu Kündigung wegen Minderleistung prüfen mit Tatbestandsmerkmalen, Aktenfundstellen, Beweislast, stärkster Gegenposition, Risiko und ausformulierter Rechtsfolge.
 
-### 16.6. Fachanwalt Arbeitsrecht BAG Equal Pay Paarvergleich
+### 16.7. Fachanwalt Arbeitsrecht BAG Equal Pay Paarvergleich
 
 Bearbeitungsauftrag: Liegt eine konkrete Entgeltdifferenz zwischen der Mandantin und einem männlichen Kollegen vor? Verrichten beide gleiche oder gleichwertige Arbeit (Tätigkeit, Anforderungen, Verantwortung, Belastung)? Ist der Auskunftsanspruch nach Paragraf 10 EntgTranspG bereits geltend gemacht worden?
 Lieferstück: Verhandlungsblatt zu Fachanwalt Arbeitsrecht BAG Equal Pay Paarvergleich mit Ziel, Mindestposition, Tauschmasse, Risiko, Regelungstext und Vollzug.
 
-### 16.7. Kontrolle im Homeoffice rechtmäßig gestalten
+### 16.8. Kontrolle im Homeoffice rechtmäßig gestalten
 
 Bearbeitungsauftrag: Ein Arbeitgeber will Bildschirmaufzeichnungen, Tastaturprotokolle, Aktivitätsdaten oder Kamerabilder aus dem Homeoffice erheben oder bereits erhobene Daten arbeitsrechtlich verwerten. AZR 681/16: Ein Software-Keylogger ist ohne einen auf konkrete Tatsachen gestützten Verdacht einer Straftat oder anderen schwerwiegenden Pflichtverletzung unzulässig; rechtswidrig gewonnene Erkenntnisse können im Kündigungsschutzprozess unverwertbar sein.
 Lieferstück: Kontrollvermerk zu Kontrolle im Homeoffice rechtmäßig gestalten mit Pflicht, Ist-Nachweis, Abweichung, Risiko, Verantwortlichem, Frist und Freigabe.
 
-### 16.8. Leiharbeitnehmer bei der Betriebsratswahl prüfen
+### 16.9. Leiharbeitnehmer bei der Betriebsratswahl prüfen
 
 Bearbeitungsauftrag: ABR 69/11: Regelmäßig eingesetzte Leiharbeitnehmer sind bei der für die Betriebsratsgröße maßgeblichen Belegschaftsstärke des Entleiherbetriebs zu berücksichtigen. ABR 60/15: Regelmäßig eingesetzte Leiharbeitnehmer zählen auch für die Schwelle freizustellender Betriebsratsmitglieder; maßgeblich ist der durch ihren Einsatz verursachte Tätigkeitsaufwand. Für jeden Leiharbeitnehmer Verleiher, Einsatzbeginn, geplantes Einsatzende, Unterbrechungen und tatsächliche Eingliederung dokumentieren.
 Lieferstück: Fachvotum zu Leiharbeitnehmer bei der Betriebsratswahl prüfen mit Tatbestandsmerkmalen, Aktenfundstellen, Beweislast, stärkster Gegenposition, Risiko und ausformulierter Rechtsfolge.
 
-### 16.9. Massenentlassung und Anzeige prüfen
+### 16.10. Massenentlassung und Anzeige prüfen
 
 Bearbeitungsauftrag: Vor einer Aussage zur Wirksamkeit sind Schwellenwert, Konsultationsverfahren und Anzeigeverfahren getrennt und anschließend in ihrer Reihenfolge zu prüfen. Konsultation und erforderliche Anzeige müssen deshalb vor Zugang der Kündigung in der rechtlich gebotenen Reihenfolge erfolgen. G GmbH: Die Pflicht, der Behörde eine Abschrift der das Konsultationsverfahren einleitenden Mitteilung zuzuleiten, vermittelt keinen Individualschutz zugunsten des einzelnen Arbeitnehmers.
 Lieferstück: vollständige Einreichungs- oder Registervorlage mit Zuständigkeit, Pflichtfeldern, Nachweisen, Freigabe und Vollzugskontrolle.
 
-### 16.10. Späten Widerspruch beim Betriebsübergang prüfen
+### 16.11. Späten Widerspruch beim Betriebsübergang prüfen
 
 Bearbeitungsauftrag: Ein Arbeitnehmer wurde möglicherweise unvollständig über einen Betriebsübergang unterrichtet und erwägt erst Monate oder Jahre später den Widerspruch. AZR 6/21: Es gibt für die Verwirkung keine starre Höchst- oder Mindestfrist. AZR 201/18: Ordnungsgemäße Unterrichtung, Beginn der Monatsfrist, Disposition über das Arbeitsverhältnis und Verwirkung sind getrennt zu prüfen; Darlegungs- und Beweislast folgen dem jeweils streitigen Merkmal.
 Prüfschritte: Eine fehlerhafte Unterrichtung hält die Monatsfrist offen, schützt aber nicht automatisch vor Verwirkung.
 Norm- oder Entscheidungsbezug aus dem Fachmaterial: Prüfe einen späten Widerspruch gegen den Übergang des Arbeitsverhältnisses nach Paragraf 613a BGB.
 Lieferstück: frist- und formgerechter Entwurf mit Antrag, tragenden Tatsachen, Beweisangeboten, Anlagen und Einreichungsweg.
 
-### 16.11. Fachanwalt Arbeitsrecht: Einwurf-Einschreiben Risiko nach aktueller BAG-Linie
+### 16.12. Urlaub und Urlaubsabgeltung zeitlich richtig prüfen
 
-Bearbeitungsauftrag: Geht es um Prüfung, Entwurf, Verteidigung, Anmeldung, Register, Frist, Verhandlung, Compliance, Streit oder Dokumentation? Welche Dokumente liegen vor und welche fehlen: Vertrag, Bescheid, Registerauszug, Screenshot, E-Mail, Rechnung, Gutachten, Normtext, Protokoll? Welche Rechtsordnung, Branche, Epoche, Sprache oder technische Umgebung ist betroffen?
-Lieferstück: versandfertiges Schreiben mit Betreff, Sachverhaltskern, Rechtsgrund, konkretem Begehren, Frist und Anlagenverzeichnis.
-
-### 16.12. Status eines IT-Freelancers feststellen
-
-Bearbeitungsauftrag: Ein IT-Spezialist arbeitet projektbezogen beim Kunden oder in einer mehrgliedrigen Vertragskette. Vertragsbezeichnungen, Homeoffice und hohe Vergütung entscheiden den Status nicht; maßgeblich ist das Gesamtbild jedes einzelnen Einsatzes. Vertragswille und Honorarhöhe sind nur begrenzt aussagekräftig; maßgeblich bleiben die konkreten Einzelaufträge und ihre gelebte Durchführung.
-Lieferstück: Fachvotum zu Status eines IT-Freelancers feststellen mit Tatbestandsmerkmalen, Aktenfundstellen, Beweislast, stärkster Gegenposition, Risiko und ausformulierter Rechtsfolge.
+Bearbeitungsauftrag: Max-Planck-Gesellschaft: Gesetzlicher Urlaub verfällt grundsätzlich nur, wenn der Arbeitgeber den Arbeitnehmer konkret in die Lage versetzt hat, ihn rechtzeitig zu nehmen. AZR 266/20: Auch die Verjährung des Urlaubsanspruchs im laufenden Arbeitsverhältnis beginnt grundsätzlich erst, wenn der Arbeitgeber über den konkreten Anspruch informiert und zur rechtzeitigen Inanspruchnahme aufgefordert hat. AZR 456/20: Mit Beendigung entsteht ein reiner Geldanspruch.
+Lieferstück: Fachvotum zu Urlaub und Urlaubsabgeltung zeitlich richtig prüfen mit Tatbestandsmerkmalen, Aktenfundstellen, Beweislast, stärkster Gegenposition, Risiko und ausformulierter Rechtsfolge.

@@ -1,6 +1,6 @@
 ---
 name: muendliche-atmosphaere-druck
-description: "Wenn es um Mündliche Atmosphäre und Druck in Prüfungsrecht an Hochschulen und Universitäten geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Mündliche Atmosphäre und Druck: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Mündliche Atmosphäre und Druck

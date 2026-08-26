@@ -1,6 +1,6 @@
 ---
 name: fazugang-neu-006-arbeitgeber-zustellworkflow-rechtssicher-organi
-description: "Wenn es um Fazugang Neu 006 Arbeitgeber Zustellworkflow Rechtssicher Organi in Fachanwalt Arbeitsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Fazugang Neu 006 Arbeitgeber Zustellworkflow Rechtssicher Organi: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Schnittstellenkarte mit Zuständigkeits- und Nachweisfragen."
 ---
 
 # Arbeitgeber-Zustellworkflow: rechtssichere Organisation der Kündigungszustellung, Parallelwege (Bote + Einschreiben + Gerichtsvollzieher), Checklisten, Kuvertierungsprotokoll, Risikomanagement bei mehreren Empfängern (Massenentlassung).

@@ -1,6 +1,6 @@
 ---
 name: grundbuchamt-vollstreckungsunterwerfung
-description: "Wenn es um Unterwerfung und Vollstreckung in Grundbuchamt Praxis geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Unterwerfung und Vollstreckung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Unterwerfung und Vollstreckung

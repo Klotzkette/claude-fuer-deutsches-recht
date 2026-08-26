@@ -1,6 +1,6 @@
 ---
 name: unverhaeltnismaessigkeit-und-existenzgefahr
-description: "Wenn es um Verhältnismäßigkeit und Existenzgefahr in Datenschutz-Sanktionsverfahren und Verteidigung geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Verhältnismäßigkeit und Existenzgefahr: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Verhältnismäßigkeit und Existenzgefahr

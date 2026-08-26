@@ -1,6 +1,6 @@
 ---
 name: nda-grundstruktur-pruefen
-description: "Wenn es um NDA-Grundstruktur in NDA-Abgleich geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
+description: "Für NDA-Grundstruktur: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # NDA-Grundstruktur

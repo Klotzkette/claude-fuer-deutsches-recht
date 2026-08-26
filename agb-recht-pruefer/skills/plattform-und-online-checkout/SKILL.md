@@ -1,6 +1,6 @@
 ---
 name: plattform-und-online-checkout
-description: "Wenn es um Plattform und Online Checkout in AGB-Recht-Prüfer geht: klärt Rolle, Ziel, Frist, Unterlagen und den passenden nächsten Fachskill; liefert eine Tatbestands- oder Anspruchsmatrix mit Gegenargumenten. Auswahlstichwort: Plattform Und Online Checkout; Arbeitsfeld: AGB-Recht-Prüfer."
+description: "Für Plattform und Online Checkout: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt. Fachgebiet: AGB-Recht-Prüfer. Route: plattform-und-online-checkout."
 ---
 
 # Plattform und Online Checkout

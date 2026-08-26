@@ -1,6 +1,6 @@
 ---
 name: b2b-harte-fassung
-description: "Wenn es um B2B Harte Fassung in AGB-Recht-Prüfer geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Dokumentenmatrix mit Nachforderungsliste."
+description: "Für B2B Harte Fassung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # B2B Harte Fassung

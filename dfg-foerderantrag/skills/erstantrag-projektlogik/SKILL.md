@@ -1,6 +1,6 @@
 ---
 name: erstantrag-projektlogik
-description: "Wenn es um Foerderantragssteller: Tatbestandsmerkmale, Beweisfragen und Beleglage in DFG-Förderantrag geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Förderantragssteller: Tatbestandsmerkmale, Beweisfragen und Beleglage: erstellt Entwurf mit Antrag, Beweis und Anlagen; Ergebnis: Schriftsatz mit Begründungs- und Anlagenlogik. Fachgebiet: DFG-Förderantrag. Route: erstantrag-projektlogik."
 ---
 
 # Foerderantragssteller: Tatbestandsmerkmale, Beweisfragen und Beleglage

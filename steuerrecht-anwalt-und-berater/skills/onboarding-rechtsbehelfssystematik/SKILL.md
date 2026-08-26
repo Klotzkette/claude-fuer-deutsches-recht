@@ -1,6 +1,6 @@
 ---
 name: onboarding-rechtsbehelfssystematik
-description: "Wenn es um Rechtsbehelfe im Steuerrecht — Systematik vom Einspruch bis zur Verfassungsbeschwerde in Steuerrecht – Steuerberater und Anwälte geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Rechtsbehelfe im Steuerrecht — Systematik vom Einspruch bis zur Verfassungsbeschwerde: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Rechtsbehelfe im Steuerrecht — Systematik vom Einspruch bis zur Verfassungsbeschwerde

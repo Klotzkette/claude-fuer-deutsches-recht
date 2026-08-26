@@ -1,6 +1,6 @@
 ---
 name: migr-ausweisung-abschiebung-spezial
-description: "Wenn es um Migr Ausweisung Abschiebung Spezial in Fachanwalt Migrationsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Migr Ausweisung Abschiebung Spezial: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Spezialfall Ausweisung und Abschiebung §§ 53 ff

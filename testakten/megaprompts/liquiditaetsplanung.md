@@ -7,15 +7,15 @@ Diese Vollprüfung enthält top-10 von 74 Skills des Plugins `liquiditaetsplanun
 ## Inhaltsverzeichnis
 
 1. **juristischer-argumentationskern** — Schaltet sich ein, wenn in Liquiditätsplanung ein juristisches Arbeitsprodukt tragfähig begründet werden muss; verbindet…
-2. **einstieg-routing** — Wenn es um Einstieg und Routing in Liquiditätsplanung — Power geht: klärt Rolle, Ziel, Frist, Unterlagen und den passend…
-3. **kaltstart-triage** — Wenn es um Kaltstart Triage in Liquiditätsplanung — Power geht: klärt Rolle, Ziel, Frist, Unterlagen und den passenden n…
-4. **liquiditaetsvorschau-3-6-12-monate** — Wenn es um Rollierende Liquiditätsvorschau 3/6/12 Monate mit Fortführungsprognose (Paragrafen 17. 19 InsO) in Liquidität…
-5. **liquiditaetsvorschau-insolvenzrechtlich** — Wenn es um Insolvenzrechtliche Liquiditätsbilanz und Liquiditätsvorschau in Liquiditätsplanung — Power geht: ordnet Sach…
-6. **liquiditaetsvorschau-3wochen** — Wenn es um Drei-Wochen-Liquiditätsvorschau (Paragraf 17 InsO, wochenaktuell) in Liquiditätsplanung — Power geht: ordnet …
-7. **liquiditaetsstatus-quellenbelege** — Wenn es um Liquiditätsstatus nur aus belastbaren Quellenbelegen in Liquiditätsplanung — Power geht: ordnet Akteninhalt, …
-8. **eingangsdaten-checkliste** — Wenn es um Liqui: Eingangsdaten-Checkliste in Liquiditätsplanung — Power geht: ordnet Sachverhalt, Norm, Beweislast, Geg…
-9. **sondereffekt-grossauftrag** — Wenn es um Sondereffekt Grossauftrag in Liquiditätsplanung — Power geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargu…
-10. **forecast-risikoampel-gegenargumente** — Wenn es um Forecast: Risikoampel, Gegenargumente und Verteidigungslinien in Liquiditätsplanung — Power geht: zerlegt Erg…
+2. **einstieg-routing** — Für Einstieg und Routing: routet Rolle, Frist, Unterlagen und Fachschritt; Ergebnis: Prüfprodukt mit Risiko und nächstem…
+3. **kaltstart-triage** — Für Kaltstart Triage: routet Rolle, Frist, Unterlagen und Fachschritt; Ergebnis: Prüfprodukt mit Risiko und nächstem Sch…
+4. **liquiditaetsvorschau-3-6-12-monate** — Für Rollierende Liquiditätsvorschau 3/6/12 Monate mit Fortführungsprognose (Paragrafen 17. 19 InsO): ordnet Norm, Beweis…
+5. **liqui-fuer-bankgespraech** — Für Liqui für Bankgespräch: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Sch…
+6. **fuer-bankgespraech** — Für Liqui für Bankgespräch: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Sch…
+7. **fortbestehensprognose-international** — Für Fortbestehensprognose: Internationaler Bezug und Schnittstellen: ordnet Norm, Beweislast und Gegenargument; Ergebnis…
+8. **schnittstellen-mehrparteienkonflikt** — Für Schnittstellen: Mehrparteienkonflikt und Interessenmatrix: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Schn…
+9. **workflow-kaltstart-und-routing** — Für Kaltstart und Routing: routet Rolle, Frist, Unterlagen und Fachschritt; Ergebnis: Prüfprodukt mit Risiko und nächste…
+10. **liquiditaetsvorschau-3wochen** — Für Drei-Wochen-Liquiditätsvorschau (Paragraf 17 InsO, wochenaktuell): ordnet Norm, Beweislast und Gegenargument; Ergebn…
 
 ---
 
@@ -139,7 +139,7 @@ Ausgangspunkt für dieses Plugin: Geschäftsleitung muss Status, Fälligkeiten u
 
 ## Skill: `einstieg-routing`
 
-_Wenn es um Einstieg und Routing in Liquiditätsplanung — Power geht: klärt Rolle, Ziel, Frist, Unterlagen und den passenden nächsten Fachskill; liefert eine Fristen- und Risikoampel mit Sofortschritten._
+_Für Einstieg und Routing: routet Rolle, Frist, Unterlagen und Fachschritt; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt. Fachgebiet: Liquiditätsplanung — Power._
 
 # Einstieg und Routing
 
@@ -183,7 +183,7 @@ Dieser Einstieg routet **Liquiditaetsplanung** vom ersten Sachverhalt zu Rollen,
 
 ## Skill: `kaltstart-triage`
 
-_Wenn es um Kaltstart Triage in Liquiditätsplanung — Power geht: klärt Rolle, Ziel, Frist, Unterlagen und den passenden nächsten Fachskill; liefert eine Fristen- und Risikoampel mit Sofortschritten._
+_Für Kaltstart Triage: routet Rolle, Frist, Unterlagen und Fachschritt; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt. Fachgebiet: Liquiditätsplanung — Power._
 
 ## Schnellstart-Workflow
 
@@ -361,7 +361,7 @@ Zielgruppe sind Berater und Organe von GmbH, UG und AG in wirtschaftlichen Krise
 
 ## Skill: `liquiditaetsvorschau-3-6-12-monate`
 
-_Wenn es um Rollierende Liquiditätsvorschau 3/6/12 Monate mit Fortführungsprognose (Paragrafen 17. 19 InsO) in Liquiditätsplanung — Power geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt._
+_Für Rollierende Liquiditätsvorschau 3/6/12 Monate mit Fortführungsprognose (Paragrafen 17. 19 InsO): ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt. Fachgebiet: Liquiditätsplanung — Power._
 
 # Rollierende Liquiditätsvorschau 3/6/12 Monate mit Fortführungsprognose (§§ 17, 19 InsO)
 
@@ -592,210 +592,280 @@ ANNAHMEN: [Auflistung der Schluesselannahmen]
 
 ---
 
-## Skill: `liquiditaetsvorschau-insolvenzrechtlich`
+## Skill: `liqui-fuer-bankgespraech`
 
-_Wenn es um Insolvenzrechtliche Liquiditätsbilanz und Liquiditätsvorschau in Liquiditätsplanung — Power geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt._
+_Für Liqui für Bankgespräch: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt. Fachgebiet: Liquiditätsplanung — Power. Route: liqui-fuer-bankgespraech._
 
-# Insolvenzrechtliche Liquiditätsbilanz und Liquiditätsvorschau
+# Liqui fuer Bankgespraech
 
-## Fachkern: Insolvenzrechtliche Liquiditätsbilanz und Liquiditätsvorschau
+## Aufgabe
+Liquiditaetsplanung fuer Bankgespraech: kompakte Vorlage 13 Wochen + Jahresansicht, Annahmen-Block, Sensitivitaet, Kreditlinien-Ausnutzung, Begleittext.
+
+
+## Fachlicher Arbeitskern
+
+Dieser Skill ist kein allgemeiner Chat-Modus, sondern ein Arbeitswerkzeug fuer `liquiditaetsplanung` zum Thema `liqui-fuer-bankgespraech`. Ausgangspunkt ist immer die konkrete Aufgabe aus der Beschreibung: Liquiditaetsplanung fuer Bankgespraech: kompakte Vorlage 13 Wochen + Jahresansicht, Annahmen-Block, Sensitivitaet, Kreditlinien-Ausnutzung, Begleittext. Empfehlung: realistisch, nicht zu optimistisch, mit Fallback-Hebeln..
+
+Arbeite deshalb fallnah:
+
+1. **Falltyp erkennen:** Einordnung, ob es um Erstberatung, Anspruchs-/Pflichtenpruefung, Vertrags-/Bescheid-/Schriftsatzarbeit, Strategie oder Fristenrettung geht.
+2. **Entscheidungspunkte bilden:** Welche zwei bis fuenf Weichen entscheiden den Fall wirklich?
+3. **Belege anfordern:** Nur die Unterlagen nachfordern, die fuer diese Weichen gebraucht werden; keine Frageboegen um ihrer selbst willen.
+4. **Spezialwissen anwenden:** Die im Skill genannten Normen, Behoerden, Verfahrensarten, Branchenlogiken oder typischen Streitpunkte sichtbar abarbeiten.
+5. **Nutzbaren Output liefern:** Am Ende steht ein Memo, eine Matrix, ein Textbaustein, ein Schriftsatzgeruest, ein Mandantenbrief oder eine klare Naechste-Schritte-Liste.
+
+Wenn ein anderer Skill desselben Plugins genauer passt, schlage ihn aktiv vor und erklaere in einem Satz, warum der Wechsel die Arbeit beschleunigt.
+
+## Kaltstart
+Frage zu Beginn nur ab, was fuer den naechsten Schritt unverzichtbar ist. Wenn Material vorliegt, mit dem Material arbeiten und nur eine gezielte Rueckfrage stellen.
+
+1. **Rolle und Ziel:** Wer fragt, welche Rolle, welcher gewuenschte Output (Memo, Schriftsatz, Tabelle, Checkliste)?
+2. **Sachverhalt:** Welche unstreitigen Tatsachen liegen vor, was ist streitig, was fehlt noch?
+3. **Fristen:** Gibt es Termine, Fristen, eilbeduerftige Schritte?
+4. **Unterlagen:** Welche Dokumente, Bescheide, Vertraege, Auszuege liegen vor?
+5. **Format:** Wie ausfuehrlich, fuer wen, in welcher Tonalitaet?
+
+## Pruefraster
+
+Der Skill erwartet folgenden inhaltlichen Aufbau im Output:
+
+1. **Sachverhalt fixieren** – streitige und unstreitige Tatsachen trennen, Lueckentafel.
+2. **Rechtliche Einordnung** - nur einschlaegige Normen, verifizierte Rechtsprechung und frei pruefbare amtliche Quellen; keine Literatur- oder Datenbankfundstellen erfinden.
+3. **Pruefung im Gutachtenstil** – Obersatz, Definition, Subsumtion, Zwischenergebnis.
+4. **Handlungsempfehlung** – konkret, mit naechstem Schritt, verantwortlicher Person, Frist.
+
+## Plugin-Kontext
+Dieser Skill gehoert zum Plugin `liquiditaetsplanung`. Er ergaenzt die uebrigen Skills des Plugins um einen vertieften Spezialfall oder eine systematische Einfuehrung. Bei Folgefragen werden andere Skills des Plugins als Anschluss vorgeschlagen.
+
+## Output-Module
+- Strukturierter Pruefvermerk im Gutachtenstil mit klaren Ueberschriften.
+- Tabellen/Checklisten, wo das die Lesbarkeit erhoeht.
+- Anschreiben-, Antrags- oder Klageschriftsatz-Geruest, wenn die Aufgabe das verlangt.
+- Quellenliste mit Gericht, Datum, Aktenzeichen, frei pruefbarem Link.
+
+<!-- BEGIN ausformulierungspflicht (autogen) -->
+> **Ausformulierungspflicht und Formatstandard.** Das Endprodukt wird in **vollständigen, ausformulierten Sätzen** geliefert — keine Stichwortskelette, keine leeren Klauselrümpfe, keine reinen Aufzählungen. Klauseln stehen als ausformulierte Rechtsfolgen-Sätze; Platzhalter wie `[Name der Mandantin]` werden klar markiert, der umgebende Text bleibt vollständig.
+>
+> **Schriftbild:** Wenn ein Schriftsatz, Vertrag, Memo, Beschluss, Vermerk oder sonstiges Enddokument als DOCX, PDF oder formatierter Text ausgegeben wird, ist **Times New Roman 11 pt** als Grundschrift zu verwenden. Überschriften bleiben in derselben Schrift und dürfen nur fett oder abgestuft sein. Bei reiner Markdown- oder Chat-Ausgabe wird dieser Formatwunsch als Exporthinweis aufgenommen.
+>
+> **Nummerierung:** Gliederung ausschließlich dezimal (`1`, `1.1`, `1.1.1` und so weiter). Keine römischen Ziffern, keine Buchstaben- oder Mischgliederung.
+<!-- END ausformulierungspflicht (autogen) -->
+
+## Quellenregel
+- Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei pruefbarem Link ausgeben; bei Unsicherheit erst verifizieren oder als zu pruefen markieren.
+- Keine Paywall-, Kommentar-, Aufsatz- oder Datenbankfundstelle als tragende Aussage verwenden, wenn sie nicht durch Nutzerquelle oder dokumentierten Live-Zugriff verifiziert ist.
+- Keine Kommentar-, Handbuch-, Aufsatz- oder BeckRS-/juris-Blindzitate aus Modellwissen. Literatur nur verwenden, wenn der Nutzer die Quelle bereitstellt oder ein lizenzierter Live-Zugriff im konkreten Arbeitskontext dokumentiert ist.
+- Annahmen explizit als solche kennzeichnen; keine erfundenen Fundstellen, keine erfundenen Tatsachen, keine erfundenen Behoerdenpraxis-Saetze.
+
+## Was dieser Skill nicht macht
+- Kein Ersatz fuer eine vollstaendige Mandantenberatung.
+- Keine Festlegung des Mandanten ohne dessen ausdrueckliche Entscheidung.
+- Keine Bewertung von Tatsachen, die nicht durch Unterlagen oder klare Mandantenangaben gedeckt sind.
+- Bei erkennbaren Interessenkonflikten oder Berufsrechtsfragen Hinweis an den fallfuehrenden Anwalt.
+
+---
+
+## Skill: `fuer-bankgespraech`
+
+_Für Liqui für Bankgespräch: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt. Fachgebiet: Liquiditätsplanung — Power. Route: fuer-bankgespraech._
+
+# Liqui für Bankgespraech
+
+## Fachkern: Liqui für Bankgespraech
 - **Normen-/Quellenanker:** InsO §§ 17, 18, 19, 15a, StaRUG-Früherkennung, IDW-S-6-/Planungslogik, 3-Wochen- und 13-Wochen-Forecast, Zahlungsstatus und Fortbestehensprognose.
 - **Entscheidende Weiche:** Trenne fällige Verbindlichkeiten, liquide Mittel, harte Zahlungszusagen, Planannahmen, Quote/Lücke, Organpflicht und Dokumentationsspur.
 
-## Zweck
+## Fallweichen
+Frage zu Beginn nur ab, was für den naechsten Schritt unverzichtbar ist. Wenn Material vorliegt, mit dem Material arbeiten und nur eine gezielte Rueckfrage stellen.
 
-Dieser Skill erstellt eine **gerichtsfähig dokumentierte Liquiditätsbilanz** auf einen Stichtag und eine zugehörige **wochenaktuelle Liquiditätsvorschau** über mindestens drei Wochen, regelmäßig bis 13 Wochen, in der für § 17 InsO benötigten Form. Das Standardergebnis ist eine Excel-Tabelle auf Wochenbasis nach hinterlegter Vorlage (`assets/excel/Liquiditaetsplan-Wochenbasis.xlsx`). Auf Nutzerwunsch wird zusätzlich ein interaktives HTML-Padlet oder ein Markdown-Artefakt geliefert; ein Memo wird nur auf ausdrückliche Anfrage erstellt.
+1. **Rolle und Ziel:** Wer fragt, welche Rolle, welcher gewuenschte Output (Memo, Schriftsatz, Tabelle, Checkliste)?
+2. **Sachverhalt:** Welche unstreitigen Tatsachen liegen vor, was ist streitig, was fehlt noch?
+3. **Fristen:** Gibt es Termine, Fristen, eilbeduerftige Schritte?
+4. **Unterlagen:** Welche Dokumente, Bescheide, Verträge, Auszuege liegen vor?
+5. **Format:** Wie ausfuehrlich, für wen, in welcher Tonalitaet?
 
-Anwendungsfälle:
+## Prüfraster
 
-- Geschäftsführerhaftung nach § 15b InsO; Insolvenzanfechtung nach §§ 129 ff. InsO.
-- Gläubigerantrag § 14 InsO (Substantiierung der Forderung und Zahlungsunfähigkeit).
-- Insolvenzverwaltermandat, Anfechtungsabwehr und Gläubigerantrag, insbesondere nach BGH IX ZR 129/22 vom 18.04.2024 zur konkreten Darlegung von Liquiditätsstatus, Einzelposten und Belegen.
-- Berater im Sanierungs- oder StaRUG-Kontext (Fortbestehensprognose § 19 InsO).
-- Sanierungskonzept-Vorarbeit, wenn aus der kurzfristigen Liquiditätsbilanz eine integrierte Sanierungsplanung werden soll.
+Der Output muss als verwertbares Arbeitsprodukt aufgebaut sein:
 
-## Eingaben
+1. **Sachverhalt fixieren** – streitige und unstreitige Tatsachen trennen, Lueckentafel.
+2. **Rechtliche Einordnung** - nur einschlaegige Normen, verifizierte Rechtsprechung und frei prüfbare amtliche Quellen; keine Literatur- oder Datenbankfundstellen erfinden.
+3. **Prüfung im Gutachtenstil** – Obersatz, Definition, Subsumtion, Zwischenergebnis.
+4. **Handlungsempfehlung** – konkret, mit naechstem Schritt, verantwortlicher Person, Frist.
 
-Der Skill fragt strukturiert die folgenden Felder ab. Was fehlt, wird im Worst Case angesetzt und im Padlet/Artefakt als Annahme protokolliert.
+## Plugin-Kontext
+Dieses Fachmodul arbeitet den konkreten Schwerpunkt aus, prüft Aktenlage, Normen, Fristen, Belege und Gegenargumente und erzeugt einen unmittelbar nutzbaren nächsten Schritt.
 
-- **Stichtag** (z. B. Tag der Antragstellung, frühester Eintritt § 17 InsO für Anfechtungszwecke).
-- **Aktiva I**: Bankguthaben, Kasse, ungenutzter und zugesagter Kontokorrent, sofort verwertbares Vermögen.
-- **Aktiva II**: konkret zu erwartende Zahlungseingänge KW *t* bis *t+2* (bzw. *t+12* bei 13-Wochen-Plan), freie Kreditzusagen, schnell verwertbares Umlaufvermögen, mit realistischer Ausfallquote.
-- **Passiva I**: alle am Stichtag fälligen und ernsthaft eingeforderten Verbindlichkeiten; Stundungen nur, wenn echt vereinbart und dokumentiert.
-- **Passiva II**: binnen drei Wochen fällig werdende Verbindlichkeiten, einzeln aufgeführt nach Gläubiger und Fälligkeitsdatum.
-- **Echte Stundung** (mit beiderseitigem Einvernehmen und Fälligkeitsverschiebung) beseitigt Passiva I; faktische Duldung des Zahlungsverzugs nicht. Konkrete BGH-Linie über offene Quellen verifizieren.
-- **Streitige oder titulierte Forderungen**: materieller Bestand, Fälligkeit, Titel, Vollstreckungsbeginn, Einstellung der Vollstreckung und Beleg getrennt erfassen; keine Prozentquote nach Prozessrisiko. Summen-OPOS ohne Einzelposten, Rechtsgrund und Beleg wird als Darlegungslücke markiert.
-- **Indizien** nach § 17 Abs. 2 S. 2 InsO (Lohnsteuer-Rückstände, SV-Rückstände, Lastschriftrückläufer, Stundungsbitten, eingestellte Zahlungen FA/KK, Pfändungen, Insolvenzanträge anderer Gläubiger, Wechselproteste).
+## Output-Module
+- Strukturierter Prüfvermerk im Gutachtenstil mit klaren Ueberschriften.
+- Tabellen/Checklisten, wo das die Lesbarkeit erhoeht.
+- Anschreiben-, Antrags- oder Klageschriftsatz-Geruest, wenn die Aufgabe das verlangt.
+- Quellenliste mit Gericht, Datum, Aktenzeichen, frei prüfbarem Link.
 
-## Bezugsquellen der Eingabedaten
+<!-- BEGIN ausformulierungspflicht (autogen) -->
+> **Ausformulierungspflicht und Formatstandard.** Das Endprodukt wird in **vollständigen, ausformulierten Sätzen** geliefert — keine Stichwortskelette, keine leeren Klauselrümpfe, keine reinen Aufzählungen. Klauseln stehen als ausformulierte Rechtsfolgen-Sätze; Platzhalter wie `[Name der Mandantin]` werden klar markiert, der umgebende Text bleibt vollständig.
+>
+> **Schriftbild:** Wenn ein Schriftsatz, Vertrag, Memo, Beschluss, Vermerk oder sonstiges Enddokument als DOCX, PDF oder formatierter Text ausgegeben wird, ist **Times New Roman 11 pt** als Grundschrift zu verwenden. Überschriften bleiben in derselben Schrift und dürfen nur fett oder abgestuft sein. Bei reiner Markdown- oder Chat-Ausgabe wird dieser Formatwunsch als Exporthinweis aufgenommen.
+>
+> **Nummerierung:** Gliederung ausschließlich dezimal (`1`, `1.1`, `1.1.1` und so weiter). Keine römischen Ziffern, keine Buchstaben- oder Mischgliederung.
+<!-- END ausformulierungspflicht (autogen) -->
 
-Vor der Aufstellung folgende Frage stellen:
+## Was dieser Arbeitsgang nicht macht
+- Kein Ersatz für eine vollstaendige Mandantenberatung.
+- Keine Festlegung des Mandanten ohne dessen ausdrueckliche Entscheidung.
+- Keine Bewertung von Tatsachen, die nicht durch Unterlagen oder klare Mandantenangaben gedeckt sind.
+- Bei erkennbaren Interessenkonflikten oder Berufsrechtsfragen Hinweis an den fallfuehrenden Anwalt.
 
-> Wie sollen die Daten einfließen — manuell, per Datei-Import (CAMT.053, MT940, CSV-Bankexport, DATEV-OPOS-Export), oder über einen verbundenen Bankzugang (PSD2 / FinTS / vorhandener Connector)?
+---
 
-Detailregeln siehe Schwester-Skill `liquiditaetsvorschau-3wochen`, Abschnitt "Bezugsquellen der Eingabedaten" — der Skill selbst baut keinen Open-Banking-Client.
+## Skill: `fortbestehensprognose-international`
 
-## Ablauf
+_Für Fortbestehensprognose: Internationaler Bezug und Schnittstellen: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Schnittstellenkarte mit Zuständigkeits- und Nachweisfragen._
 
-**Schritt 1 — Format- und Padlet-Wahl**: identisch zum Schwester-Skill. Standard: Excel-Tabelle + HTML-Padlet, sofern nicht anders gewünscht.
+# Fortbestehensprognose: Internationaler Bezug und Schnittstellen
 
-**Schritt 2 — Stichtagsbestimmung**: konkretes Datum festlegen. Im Haftungs- und Anfechtungskontext ist nicht der Antragstag, sondern der tatsächliche Eintritt der Zahlungsunfähigkeit maßgeblich. Stichtag dokumentieren.
+## Normenanker
 
-**Schritt 3 — Aufstellung der Liquiditätsbilanz**
+Vor einer rechtlichen Schlussfolgerung diese Anker am aktuellen Normtext prüfen; Spezial- und Landesrecht nur hinzunehmen, wenn es den konkreten Auftrag traegt:
 
-```
-Aktiva I (am Stichtag sofort verfügbar) €
-+ Aktiva II (binnen 3 Wochen flüssig) €
-= Σ Liquide Mittel €
+- `§ 1 InsO` — Ziele des Insolvenzverfahrens.
+- `§ 13 InsO` — Insolvenzantrag.
+- `§ 15a InsO` — Antragspflicht juristischer Personen.
+- `§ 17 InsO` — Zahlungsunfaehigkeit.
+- `§ 18 InsO` — drohende Zahlungsunfaehigkeit.
+- `§ 19 InsO` — Ueberschuldung.
+- `§ 21 InsO` — Sicherungsmaßnahmen.
+- `§ 35 InsO` — Insolvenzmasse.
+- `§ 80 InsO` — Verwaltungs- und Verfuegungsbefugnis.
+- `§ 129 InsO` — Insolvenzanfechtung.
 
-Passiva I (am Stichtag fällig & eingefordert) €
-+ Passiva II (binnen 3 Wochen fällig) €
-= Σ Fällige Verbindlichkeiten €
+Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei prüfbare Quelle vorliegen; keine BeckRS-/juris-Blindzitate verwenden.
 
-Liquiditätslücke (absolut) = Σ Fällig − Σ Liquide
-Liquiditätsquote = Liquiditätslücke ÷ Σ Fällig
-```
+## Fachkern: Fortbestehensprognose: Internationaler Bezug und Schnittstellen
+- **Normen-/Quellenanker:** InsO §§ 17, 18, 19, 15a, StaRUG-Früherkennung, IDW-S-6-/Planungslogik, 3-Wochen- und 13-Wochen-Forecast, Zahlungsstatus und Fortbestehensprognose.
+- **Entscheidende Weiche:** Trenne fällige Verbindlichkeiten, liquide Mittel, harte Zahlungszusagen, Planannahmen, Quote/Lücke, Organpflicht und Dokumentationsspur.
 
-Maßstab: BGH-Linie zur Liquiditätsbilanz; konkrete Aktenzeichen und Randnummern vor Ausgabe über dejure.org / openjur.de verifizieren.
+## Fallweichen
+Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur Rückfragen, die die nächste Weiche verändern:
 
-Sonderlogik für streitige Posten: Eine streitige Verbindlichkeit wird nicht geschätzt. Wenn sie materiell besteht und fällig ist, gehört sie mit Nennwert in Passiva I oder Passiva II. Wenn sie materiell nicht besteht, nicht fällig ist oder wirksam gestundet wurde, gehört sie nicht in die Passiva. Bei nicht titulierten streitigen Verbindlichkeiten entscheidet allein die objektive Rechtslage, nicht die Prozessrisikowahrscheinlichkeit. Wenn ein vorläufig vollstreckbarer Titel vorliegt und die Vollstreckung eingeleitet ist, wird der Nennwert angesetzt. Wenn eine Einstellung der Zwangsvollstreckung erreicht wurde, wird die Beweiswirkung des Titels gesondert bewertet und die Forderung in einem Szenarioblock geführt. Aktivseitig werden eigene Forderungen nur angesetzt, wenn der Zahlungseingang binnen drei Wochen realistisch belegt ist. Für die gerichtliche Darlegung wird jeder Posten einzeln mit Gläubiger, Fälligkeit, Rechtsgrund, Beleg, Bestreitensstand und Vollstreckungsstand geführt; pauschale Summenlisten sind nach BGH IX ZR 129/22 angreifbar.
+1. Welche Rolle hat die fragende Person und wer ist Gegenüber?
+2. Welches konkrete Ziel soll erreicht oder verhindert werden?
+3. Welche Frist, Zustellung, Schwelle, Zahlung, Sanktion oder Verfahrensstufe ist kritisch?
+4. Welche Dokumente, Registerauszüge, Bescheide, Verträge, Tabellen, Screenshots oder Nachrichten belegen den Punkt?
+5. Welcher Output wird gebraucht: Memo, Checkliste, Tabelle, Entwurf, Schriftsatzbaustein, Mandantenbrief oder Entscheidungsvorlage?
 
-**Schritt 4 — Subsumtion nach BGH-Schema**
+## Arbeitsworkflow
+1. **Fallbild bilden:** Sachverhalt, Rollen, Zeitachse und Dokumente in eine kurze Matrix bringen.
+2. **Rechtsrahmen setzen:** Normen, Zuständigkeiten, Fristen, Formfragen und Verfahrensstand zum Themenfeld **Fortbestehensprognose** prüfen.
+3. **Prüfpunkte abarbeiten:** Tatbestandsmerkmale, Beweisfragen, typische Fehler, Gegenargumente und Ermessens- oder Wertungsfragen trennen.
+4. **Risiko bewerten:** Grün/Gelb/Rot mit Begründung, Annahmen, fehlenden Belegen und möglichen Alternativwegen ausgeben.
+5. **Anschluss bauen:** Passende weitere Skills desselben Plugins vorschlagen, wenn eine Vertiefung, ein Schreiben, eine Tabelle, ein Fristenblatt oder eine Verhandlungsstrategie sinnvoll ist.
 
-- **Liquiditätsquote < 10 % und Lücke binnen drei Wochen schließbar**: nur Zahlungsstockung.
-- **Liquiditätsquote ≥ 10 % und Lücke nicht binnen drei Wochen schließbar**: regelmäßig Zahlungsunfähigkeit.
-- Konkretes Az. der grundlegenden BGH-Entscheidung zum 10-%-/3-Wochen-Schema vor Ausgabe verifizieren.
+---
 
-**Schritt 5 — Würdigung der Indizien § 17 Abs. 2 S. 2 InsO**
+## Skill: `schnittstellen-mehrparteienkonflikt`
 
-Indizienkatalog für die Zahlungseinstellung umfasst insb. verspätete Lohnzahlungen, offene SV-Beiträge, erfolglose Stundungsbitten, Pfändungsmaßnahmen anderer Gläubiger, Wechselproteste und eigenen Insolvenzantrag. Konkrete BGH-Linie über offene Quellen verifizieren.
+_Für Schnittstellen: Mehrparteienkonflikt und Interessenmatrix: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Schnittstellenkarte mit Zuständigkeits- und Nachweisfragen._
 
-**Schritt 6 — Titulierte Forderungen**
+# Schnittstellen: Mehrparteienkonflikt und Interessenmatrix
 
-Bei titulierten Forderungen nicht bei "streitig" stehen bleiben. Das Prüfraster lautet:
+## Normenanker
 
-1. Besteht die Forderung materiell und ist sie fällig? Dann mit Nennwert passivieren, auch wenn sie bestritten wird.
-2. Besteht die Forderung materiell nicht oder ist sie aus Rechtsgründen nicht fällig? Dann nicht passivieren, auch wenn sie behauptet wird.
-3. Gibt es einen vorläufig vollstreckbaren Titel, liegen die Vollstreckungsvoraussetzungen vor und hat der Gläubiger Vollstreckung eingeleitet? Dann Nennwert passivieren; kein Abschlag nach Prozessrisiko.
-4. Ist die Zwangsvollstreckung aus dem Titel einstweilen eingestellt? Dann Beweiswirkung für den Gläubigerantrag und Liquiditätsabfluss gesondert würdigen.
-5. Ist der Titel nur ein Indiz in einer breiteren Liquiditätslage? Dann den titulierten Betrag und die sonstigen fälligen Verbindlichkeiten getrennt ausweisen.
+Vor einer rechtlichen Schlussfolgerung diese Anker am aktuellen Normtext prüfen; Spezial- und Landesrecht nur hinzunehmen, wenn es den konkreten Auftrag traegt:
 
-**Schritt 6a — Herausgenommene Forderungen verteidigen**
+- `§ 1 InsO` — Ziele des Insolvenzverfahrens.
+- `§ 13 InsO` — Insolvenzantrag.
+- `§ 15a InsO` — Antragspflicht juristischer Personen.
+- `§ 17 InsO` — Zahlungsunfaehigkeit.
+- `§ 18 InsO` — drohende Zahlungsunfaehigkeit.
+- `§ 19 InsO` — Ueberschuldung.
+- `§ 21 InsO` — Sicherungsmaßnahmen.
+- `§ 35 InsO` — Insolvenzmasse.
+- `§ 80 InsO` — Verwaltungs- und Verfuegungsbefugnis.
+- `§ 129 InsO` — Insolvenzanfechtung.
 
-Jede nicht berücksichtigte streitige Verbindlichkeit erhält einen Haftungsvermerk:
+Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei prüfbare Quelle vorliegen; keine BeckRS-/juris-Blindzitate verwenden.
 
-| Feld | Inhalt |
-| --- | --- |
-| Rechtsgrund des Herausnehmens | Nichtbestehen, Nichtfälligkeit, Stundung, Aufrechnung, Durchsetzungssperre oder Vollstreckungseinstellung |
-| Gegenbeweis | Vertrag, Schriftwechsel, Gutachten, Beschluss, Vergleich, Titelstand |
-| Prozesslage | Kann ein Verwalter aus Aktenlage schlüssig zum Bestand vortragen? |
-| Geschäftsleiterstandpunkt | finales Gutachten vorhanden, Annahmen vollständig, Aktualisierungspflicht notiert |
-| Restrisiko | Übertragung der engen Irrtumsrechtsprechung aus dem Anfechtungsrecht auf Haftungsprozess offen |
+## Fachkern: Schnittstellen: Mehrparteienkonflikt und Interessenmatrix
+- **Normen-/Quellenanker:** InsO §§ 17, 18, 19, 15a, StaRUG-Früherkennung, IDW-S-6-/Planungslogik, 3-Wochen- und 13-Wochen-Forecast, Zahlungsstatus und Fortbestehensprognose.
+- **Entscheidende Weiche:** Trenne fällige Verbindlichkeiten, liquide Mittel, harte Zahlungszusagen, Planannahmen, Quote/Lücke, Organpflicht und Dokumentationsspur.
 
-**Schritt 7 — Objektivität**
+## Fallweichen
+Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur Rückfragen, die die nächste Weiche verändern:
 
-Maßstab der Zahlungsunfähigkeit ist objektiv; das Bewusstsein des Schuldners ist nur für die Verschuldensfrage relevant (§ 15a InsO). Konkrete BGH-Linie zur "Erkennbarkeit der Insolvenzreife" vor Ausgabe über offene Quellen prüfen.
+1. Welche Rolle hat die fragende Person und wer ist Gegenüber?
+2. Welches konkrete Ziel soll erreicht oder verhindert werden?
+3. Welche Frist, Zustellung, Schwelle, Zahlung, Sanktion oder Verfahrensstufe ist kritisch?
+4. Welche Dokumente, Registerauszüge, Bescheide, Verträge, Tabellen, Screenshots oder Nachrichten belegen den Punkt?
+5. Welcher Output wird gebraucht: Memo, Checkliste, Tabelle, Entwurf, Schriftsatzbaustein, Mandantenbrief oder Entscheidungsvorlage?
 
-**Schritt 8 — Ausgabe und Eskalation**
+## Arbeitsworkflow
+1. **Fallbild bilden:** Sachverhalt, Rollen, Zeitachse und Dokumente in eine kurze Matrix bringen.
+2. **Rechtsrahmen setzen:** Normen, Zuständigkeiten, Fristen, Formfragen und Verfahrensstand zum Themenfeld **Schnittstellen** prüfen.
+3. **Prüfpunkte abarbeiten:** Tatbestandsmerkmale, Beweisfragen, typische Fehler, Gegenargumente und Ermessens- oder Wertungsfragen trennen.
+4. **Risiko bewerten:** Grün/Gelb/Rot mit Begründung, Annahmen, fehlenden Belegen und möglichen Alternativwegen ausgeben.
+5. **Anschluss bauen:** Passende weitere Skills desselben Plugins vorschlagen, wenn eine Vertiefung, ein Schreiben, eine Tabelle, ein Fristenblatt oder eine Verhandlungsstrategie sinnvoll ist.
 
-- Excel-Datei aus der Vorlage befüllen (zwingend).
-- HTML-Padlet oder Markdown-Artefakt nur, wenn so gewählt.
-- Bei einer erheblichen, nicht kurzfristig schließbaren Lücke an `antragspflicht-15a-inso` übergeben. Paragraf 102 StaRUG nur bei Jahresabschlussauftrag, offenkundigen Anhaltspunkten und vermuteter Unkenntnis des Mandanten anwenden; andere Mandatspflichten getrennt prüfen.
-- Wenn die Vorschau für Bank, StaRUG, Schutzschirm, Eigenverwaltung oder Insolvenzplan genutzt werden soll: ausdrücklich festhalten, dass die Liquiditätsbilanz nur die Cash-Seite liefert. Danach an `idw-s6-integrierte-sanierungsplanung` übergeben, um GuV, Planbilanz, Maßnahmenwirkung, Leitbild und nachhaltige Sanierungsfähigkeit zu prüfen.
-- Memo nur auf Anfrage.
+---
 
-## Rechtlicher Rahmen
+## Skill: `workflow-kaltstart-und-routing`
 
-### Primärnormen
+_Für Kaltstart und Routing: routet Rolle, Frist, Unterlagen und Fachschritt; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt. Fachgebiet: Liquiditätsplanung — Power._
 
-§ 17 InsO, § 15a InsO, § 18 InsO, § 19 InsO, § 102 StaRUG.
+# Kaltstart und Routing
 
-### Leitentscheidungen (Stand Juni 2026; vor Ausgabe konkrete Aktenzeichen über dejure.org / openjur.de / bundesgerichtshof.de prüfen)
+## Aufgabe
+Nutze diesen Workflow-Skill für Kaltstart und Routing: führt vom ersten Satz oder Dokument in den passenden Arbeitsweg, erkennt Rolle, Ziel, Risiko und Anschluss-Skills.
 
-1. **BGH IX ZR 229/22 vom 23.01.2025** — Randnummer 34 und 35: Zahlungsunfähigkeit objektiv; nicht titulierte streitige Forderung nach objektiver Rechtslage; vorläufig vollstreckbar titulierte streitige Forderung bei eingeleiteter Vollstreckung mit Nennwert; keine anteilige Bewertung nach Prozessrisiko. Randnummer 27: Irrtum nur bei seit langem ungeklärter Rechtsfrage, nicht bei eigener Vertragsauslegung.
-2. **BGH, Beschluss vom 11.03.2025 - II ZR 139/23** — bestätigt im Nichtzulassungsbeschwerdeverfahren den materiellen Bestand als Maßstab; nicht als eigenständiges Grundsatzurteil verwenden.
-3. **BGH IX ZB 38/24 vom 22.05.2025** — bei allein auf einen Titel gestütztem Gläubigerantrag kann die Beweiswirkung entfallen, wenn die Zwangsvollstreckung aus dem Urteil eingestellt ist.
-- BGH, Urteil vom 18.04.2024 - IX ZR 129/22: Ein außenstehender Dritter darf einen nur pauschal aufgestellten und nicht mit Einzelpositionen oder Belegen unterlegten Liquiditätsstatus grundsätzlich einfach bestreiten. Die Entscheidung ist ein Darlegungsanker zu Paragraf 17 InsO, kein pauschaler Beleg für geringere Anfechtungsrisiken.
-5. **BGH IX ZR 122/23 vom 05.12.2024** — Unlauterkeit beim Bargeschäft nach Paragraf 142 Absatz 1 Halbsatz 2 InsO. Quelle: https://dejure.org/dienste/vernetzung/rechtsprechung?Gericht=BGH&Datum=05.12.2024&Aktenzeichen=IX+ZR+122/23
-6. **BGH II ZR 206/22 vom 23.07.2024** — Fortwirkende Haftung des ausgeschiedenen Geschäftsführers nach Paragraf 823 Absatz 2 BGB in Verbindung mit Paragraf 15a InsO. Quelle: https://dejure.org/dienste/vernetzung/rechtsprechung?Gericht=BGH&Datum=23.07.2024&Aktenzeichen=II+ZR+206/22
-7. Grundlegende ältere BGH-Linie zum 10-%-/3-Wochen-Schema und zur Zahlungseinstellung: konkrete Az. zur Liquiditätsbilanz, zu Stundungen, zu titulierten Forderungen und zur Erkennbarkeit der Insolvenzreife vor Ausgabe in offener Quelle prüfen.
+## Kaltstart
+Wenn Material vorliegt, arbeite zuerst mit dem Material. Stelle nur Rückfragen, die für die nächste Weiche nötig sind:
 
-### Quellenregel
+1. Wer fragt in welcher Rolle?
+2. Was ist das gewünschte Ergebnis?
+3. Gibt es Fristen, Termine, Zustellungen, Zahlungen oder Sanktionen?
+4. Welche Unterlagen, Daten oder Belege liegen bereits vor?
 
-Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
-### Berufsständischer Hintergrund
+## Arbeitsworkflow
+1. Rolle, Ziel, Frist und Unterlagenlage in höchstens fünf Fragen klären.
+2. Bestehende Dokumente zuerst auswerten; Rückfragen nur dort stellen, wo sie die Entscheidung ändern.
+3. Passende Spezialskills aus diesem Plugin vorschlagen und begründen.
+4. Ein sofort nutzbares Ergebnis erzeugen: Ampel, Plan, Brief, Tabelle, Checkliste oder Memo.
 
-- **IDW S 11** (Stand 12.08.2021), Tz. 16 f., 31–37 — Beurteilung des Eröffnungsgrundes der Zahlungsunfähigkeit.
-- **IDW S 6** — Anforderungen an Sanierungskonzepte und integrierte Planung.
+## Output-Standard
+- Kurzbild: worum es geht, was gesichert ist, was offen ist.
+- Prüf- oder Bearbeitungsmatrix mit den entscheidenden Punkten.
+- Konkreter nächster Schritt mit Frist, Zuständigkeit und Unterlagen.
+- Bei Außenkommunikation: knapper, sachlicher Textbaustein ohne unnötige Nebenangaben.
 
-## Ausgabeformat
+## Quellenregel
+- Aktuelle Normen, Behördenhinweise, Gerichtsseiten, Register, Formulare und EU-/Landesrecht live prüfen, wenn sie für das Ergebnis tragend sind.
+- Rechtsprechung nur mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle ausgeben.
+- Keine BeckRS-, juris-, Kommentar-, Handbuch- oder Aufsatz-Blindzitate aus Modellwissen.
+- Unsicherheiten und Annahmen ausdrücklich markieren.
 
-1. **Excel** auf Basis von `assets/excel/Liquiditaetsplan-Wochenbasis.xlsx` — Wochenraster, BGH-Block, Block "Offene Forderungen", Hinweise zur BGH-Rechtsprechung.
-2. **HTML-Padlet** (auf Wunsch).
-3. **Markdown-Artefakt** (auf Wunsch).
-4. **Memo** (nur auf Anfrage) im Gutachtenstil: Sachverhalt, Rechtliche Grundlagen, Liquiditätsbilanz, Subsumtion BGH-Schema, Indizienanalyse, Ergebnis, Quellennachweis.
+## Routing-Weichen Liquiditätsplanung
+- **Zweck der Planung?**
+  - **13-Wochen-Liquidität** (Standard in der Krise): Wochengranularität, taggenaue Cash-In/Cash-Out — Grundlage für ZU-Prüfung § 17 InsO und Sanierungssteuerung.
+  - **24-Monats-Liquiditätsplan** (StaRUG/§ 18 InsO): Monatsgranularität, integriert mit GuV und Bilanz — Grundlage für drohende ZU und Frühwarnsystem § 1 StaRUG.
+  - **12-Monats-Plan** für Fortbestehensprognose § 19 InsO (Überschuldung) — Methodik nach IDW EPS 11.
+- **Datenbasis?**
+  - **Direkte Methode** (bevorzugt in der Krise): Cash-Inflows aus OPOS-Listen, Cash-Outflows aus Fälligkeitslisten — robust gegen Bilanzeffekte.
+  - **Indirekte Methode** (aus GuV/Bilanz abgeleitet): Cashflow aus Jahresabschluss-Forecast — geeignet für langfristige Planung, anfällig bei Krise.
+- **Mandantenrolle?**
+  - Geschäftsführer (Haftung § 15a, § 15b InsO): operative Steuerung.
+  - Sanierungsberater: CRO, Erstellung 13-Wochen-Plan.
+  - Insolvenzverwalter: Massesteuerung, § 158 InsO Fortführungsentscheidung.
+  - Kreditgeber: Standstill-Begleitung, Covenants-Monitoring.
 
-## Beispiel
-
-Siehe Schwester-Skill `liquiditaetsvorschau-3wochen` (Beispielfall Edelholz Manufaktur Berlin GmbH). Für gerichtsfeste Verwendung wird zusätzlich die Buchhaltungsherkunft (SuSa-/OPOS-Stand) protokolliert und die Indizienliste belegt.
-
-## Typische Fehler
-
-- **Faktische Duldung als Stundung behandeln**: nur echte schriftliche Stundungsvereinbarung mit Fälligkeitsverschiebung beseitigt Passiva I. Konkrete BGH-Linie über offene Quellen verifizieren.
-- **Aussetzung der Vollziehung (§ 361 AO / § 69 FGO) als Stundung behandeln**: AdV hemmt nur die Vollziehung; die Fälligkeit der Steuerforderung bleibt unberührt. AdV-Beträge sind weiter **Passiva I**, soweit nicht zusätzlich eine schriftliche § 222 AO-Stundung mit Fälligkeitsverschiebung über den Stichtag hinaus vorliegt.
-- **Titulierte Forderung nur anteilig nach Prozessrisiko ansetzen**: bei eingeleiteter Vollstreckung aus vorläufig vollstreckbarem Titel Nennwert, nicht Wahrscheinlichkeitswert.
-- **Liquiditätsstatus nur als Summenblock übernehmen**: nach BGH IX ZR 129/22 braucht die beweissichere Fassung Einzelposten, Fälligkeit, Rechtsgrund und Beleg; sonst kann ein außenstehender Gegner einfach bestreiten.
-- **SV-Beiträge oder Lohnsteuer übersehen**: gesetzlich sofort fällig, zugleich Indizien.
-- **Künftige Verträge / hypothetische Verwertungserlöse einbeziehen**: nicht zulässig in Aktiva I/II.
-- **Stichtag im Haftungskontext zu spät ansetzen**: tatsächlicher Eintritt maßgeblich.
-- BGH, Urteil vom 18.04.2024 - IX ZR 129/22: Ein außenstehender Dritter darf einen nur pauschal aufgestellten und nicht mit Einzelpositionen oder Belegen unterlegten Liquiditätsstatus grundsätzlich einfach bestreiten. Die Entscheidung ist ein Darlegungsanker zu Paragraf 17 InsO, kein pauschaler Beleg für geringere Anfechtungsrisiken.
-- **Liquiditätsbilanz mit Sanierungskonzept verwechselt**: Für Sanierungsfähigkeit reicht die insolvenzrechtliche Cash-Prüfung nicht. Es braucht zusätzlich Krisenursachenanalyse, Leitbild, Maßnahmenprogramm, GuV-/Bilanzplanung, Szenarien und Dokumentation.
-
-## Quellenpflicht
-
-Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
-
-## Übergabe
-
-Bei 🔴: `antragspflicht-15a-inso` und `zahlungsunfaehigkeit-pruefung-17-inso` (Plugin `insolvenzrecht`). Für mittel- und langfristige Sicht: `liquiditaetsvorschau-3-6-12-monate` (dieses Plugin). Für Sanierungskonzept-/Bankfähigkeit: `idw-s6-integrierte-sanierungsplanung` (dieses Plugin).
-
-## Triage — Liquiditaetsvorschau Einordnung
-
-Bevor losgelegt wird, klaere:
-
-1. **Zweck der Vorschau?** ZU-Prüfung § 17 InsO (3-Wochen-Fenster) → insolvenzrechtliche Vorschau; Fortbestehensprognose § 19 InsO (12 Monate); Gläubigernachweis (13-Wochen-Vorschau); Bankverhandlung (24 Monate)?
-2. **Methode?** Direkte Methode (Cash-In / Cash-Out) für insolvenzrechtliche Zwecke; indirekte Methode (EBIT-Ableitung) für langfristige Unternehmensplanung.
-3. **Datenbasis?** OPOS (offene Posten), Kontoauszuege, Steuer- und SV-Verbindlichkeiten — alle aktuell?
-4. **Stichtag?** Für InsO-Beurteilung tag-genau festlegen; für Prognose ab aktuellem Tag.
-5. **Sanierungsmassnahmen einbeziehen?** Stundungen, Zuschuss, neue Kreditlinie — nur wenn verbindlich zugesagt.
-
-## Output-Template 13-Wochen-Liquiditaetsvorschau
-
-**Adressat:** Insolvenzgericht / Gläubigerausschuss / Bank — Tonfall: sachlich-betriebswirtschaftlich
-
-```
-13-WOCHEN-LIQUIDITAETSVORSCHAU (direkte Methode)
-Gesellschaft: [FIRMA] Erstellt: [DATUM] Ersteller: [NAME]
-
-Woche | Anfangsbestand | Einzahlungen | Auszahlungen | Endbestand | Kreditlinie | Freie Liqui
- 1 | EUR [XXX] | EUR [YYY] | EUR [ZZZ] | EUR [AAA] | EUR [BBB] | EUR [CCC]
- 2 | ... | ... | ... | ... | ... | ...
- 13 | ... | ... | ... | ... | ... | ...
-
-AMPEL-STATUS:
-Wochen 1-4 (kurzfristig): [GRUEN / GELB / ROT]
-Wochen 5-9 (mittelfristig): [...]
-Wochen 10-13 (langfristig): [...]
-
-ENGPAESSE: [Beschreibung kritischer Wochen und Gegenmassnahmen]
-ANNAHMEN: [Auflistung der Schluesselannahmen]
-```
+## Eilige Trigger
+- Liquiditätslücke erkennbar: Stichtagsstatus und Dreiwochen-Finanzplan nach Paragraf 17 InsO erstellen. Eine Deckungslücke von zehn Prozent ist eine wichtige Prüfmarke, löst aber nicht mechanisch die Antragspflicht aus. Besteht objektiv Zahlungsunfähigkeit, ist der Antrag ohne schuldhaftes Zögern und spätestens binnen drei Wochen zu stellen.
+- Liquiditätsplan zeigt nur Vergangenheit, keine Vorausschau → unbrauchbar als Frühwarninstrument, Pflichtverletzung § 1 StaRUG.
 
 ---
 
 ## Skill: `liquiditaetsvorschau-3wochen`
 
-_Wenn es um Drei-Wochen-Liquiditätsvorschau (Paragraf 17 InsO, wochenaktuell) in Liquiditätsplanung — Power geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt._
+_Für Drei-Wochen-Liquiditätsvorschau (Paragraf 17 InsO, wochenaktuell): ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt._
 
 # Drei-Wochen-Liquiditätsvorschau (§ 17 InsO, wochenaktuell)
 
@@ -990,192 +1060,6 @@ ANNAHMEN: [Auflistung der Schluesselannahmen]
 ```
 
 > Quellenregel: Entscheidungen nur nach Prüfung einer amtlichen oder frei zugänglichen Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage ausgeben.
-
----
-
-## Skill: `liquiditaetsstatus-quellenbelege`
-
-_Wenn es um Liquiditätsstatus nur aus belastbaren Quellenbelegen in Liquiditätsplanung — Power geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen._
-
-# Liquiditätsstatus nur aus belastbaren Quellenbelegen
-
-## Fachkern: Liquiditätsstatus nur aus belastbaren Quellenbelegen
-- **Normen-/Quellenanker:** InsO §§ 17, 18, 19, 15a, StaRUG-Früherkennung, IDW-S-6-/Planungslogik, 3-Wochen- und 13-Wochen-Forecast, Zahlungsstatus und Fortbestehensprognose.
-- **Entscheidende Weiche:** Trenne fällige Verbindlichkeiten, liquide Mittel, harte Zahlungszusagen, Planannahmen, Quote/Lücke, Organpflicht und Dokumentationsspur.
-
-## Einstieg
-Wenn Material vorliegt, nutze es zuerst. Frage nur nach, was für die nächste Entscheidung fehlt:
-
-1. Wer handelt in welcher Rolle und gegen wen?
-2. Welches praktische Ziel soll erreicht werden?
-3. Welche Fristen, Termine, Zustellungen, Schwellenwerte oder Sanktionen stehen im Raum?
-4. Welche Unterlagen, Daten, Registerauszüge, Bescheide, Verträge, Screenshots oder sonstigen Belege liegen vor?
-5. Soll der Output intern, für Mandantschaft, Behörde, Gericht, Gegnerseite oder Gremium formuliert werden?
-
-## Arbeitsworkflow
-1. **Sortieren:** Sachverhalt, Dokumente und offene Punkte in eine knappe Fallmatrix bringen.
-2. **Rechtsrahmen:** Einschlägige Normen, Zuständigkeiten, Verfahren, Fristen und formelle Anforderungen live prüfen, soweit Aktualität tragend ist.
-3. **Materielle Weichen:** Die Kernfragen zu **Liquiditätsstatus nur aus belastbaren Quellenbelegen** mit Tatbestandsmerkmalen, Belegen, Gegenargumenten und typischen Praxisfehlern abarbeiten.
-4. **Risikoampel:** Ergebnis in Grün/Gelb/Rot mit Begründung, Unsicherheiten und Beweisbedarf einordnen.
-5. **Anschluss:** Passende weitere Skills desselben Plugins vorschlagen, wenn Spezialprüfung, Schriftsatz, Tabelle, Brief oder Verhandlungsstrategie sinnvoll ist.
-
-## Belegpflicht bei Liquiditätsstatus
-
-Jede Zahl wird auf die Einzelpostenebene heruntergebrochen. Für Passiva sind Gläubiger, Rechtsgrund, Betrag, Fälligkeit, Mahn- oder Vollstreckungsstand, Titel, Einwendung und Beleg zu führen. Für Aktiva sind Bankverfügbarkeit, Zahlungszusage, Zahlungshistorie und Realisierbarkeit im Drei-Wochen-Fenster zu belegen. BGH IX ZR 129/22 vom 18.04.2024 wird als Warnanker genutzt: Eine bloße Summenliste ohne Rechnungen, Kontoauszüge oder sonstige Unterlagen ist gegenüber außenstehenden Dritten angreifbar.
-
-Bei nicht titulierten streitigen Verbindlichkeiten gilt nach BGH IX ZR 229/22 vom 23.01.2025 die objektive Rechtslage. Eine Position wird nur herausgenommen, wenn Nichtbestehen, Nichtfälligkeit, Stundung, Aufrechnung oder Durchsetzungssperre belegbar sind. Ein finales Rechtsgutachten wird als Beleg zum Kenntnisstand geführt, aber mit Restrisiko markiert.
-
-## Ausgabe
-
-Erstelle eine Quellenmatrix:
-
-| Position | Betrag | Rechtsgrund | Fälligkeit | Beleg | Bestreitensrisiko | Entscheidung |
-| --- | --- | --- | --- | --- | --- | --- |
-
-Wenn eine Position nicht belegbar ist, steht im Ergebnis nicht "geschätzt", sondern "nicht belastbar; Beleg nachfordern oder Szenario trennen".
-
----
-
-## Skill: `eingangsdaten-checkliste`
-
-_Wenn es um Liqui: Eingangsdaten-Checkliste in Liquiditätsplanung — Power geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen._
-
-# Liqui: Eingangsdaten-Checkliste
-
-## Fachkern: Liqui: Eingangsdaten-Checkliste
-- **Normen-/Quellenanker:** InsO §§ 17, 18, 19, 15a, StaRUG-Früherkennung, IDW-S-6-/Planungslogik, 3-Wochen- und 13-Wochen-Forecast, Zahlungsstatus und Fortbestehensprognose.
-- **Entscheidende Weiche:** Trenne fällige Verbindlichkeiten, liquide Mittel, harte Zahlungszusagen, Planannahmen, Quote/Lücke, Organpflicht und Dokumentationsspur.
-
-## Fallweichen
-Frage zu Beginn nur ab, was für den naechsten Schritt unverzichtbar ist. Wenn Material vorliegt, mit dem Material arbeiten und nur eine gezielte Rueckfrage stellen.
-
-1. **Rolle und Ziel:** Wer fragt, welche Rolle, welcher gewuenschte Output (Memo, Schriftsatz, Tabelle, Checkliste)?
-2. **Sachverhalt:** Welche unstreitigen Tatsachen liegen vor, was ist streitig, was fehlt noch?
-3. **Fristen:** Gibt es Termine, Fristen, eilbeduerftige Schritte?
-4. **Unterlagen:** Welche Dokumente, Bescheide, Verträge, Auszuege liegen vor?
-5. **Format:** Wie ausfuehrlich, für wen, in welcher Tonalitaet?
-
-## Prüfraster
-
-Der Output muss als verwertbares Arbeitsprodukt aufgebaut sein:
-
-1. **Sachverhalt fixieren** – streitige und unstreitige Tatsachen trennen, Lueckentafel.
-2. **Rechtliche Einordnung** - nur einschlaegige Normen, verifizierte Rechtsprechung und frei prüfbare amtliche Quellen; keine Literatur- oder Datenbankfundstellen erfinden.
-3. **Prüfung im Gutachtenstil** – Obersatz, Definition, Subsumtion, Zwischenergebnis.
-4. **Handlungsempfehlung** – konkret, mit naechstem Schritt, verantwortlicher Person, Frist.
-
-## Plugin-Kontext
-Dieses Fachmodul arbeitet den konkreten Schwerpunkt aus, prüft Aktenlage, Normen, Fristen, Belege und Gegenargumente und erzeugt einen unmittelbar nutzbaren nächsten Schritt.
-
-## Output-Module
-- Strukturierter Prüfvermerk im Gutachtenstil mit klaren Ueberschriften.
-- Tabellen/Checklisten, wo das die Lesbarkeit erhoeht.
-- Anschreiben-, Antrags- oder Klageschriftsatz-Geruest, wenn die Aufgabe das verlangt.
-- Quellenliste mit Gericht, Datum, Aktenzeichen, frei prüfbarem Link.
-
-<!-- BEGIN ausformulierungspflicht (autogen) -->
-> **Ausformulierungspflicht und Formatstandard.** Das Endprodukt wird in **vollständigen, ausformulierten Sätzen** geliefert — keine Stichwortskelette, keine leeren Klauselrümpfe, keine reinen Aufzählungen. Klauseln stehen als ausformulierte Rechtsfolgen-Sätze; Platzhalter wie `[Name der Mandantin]` werden klar markiert, der umgebende Text bleibt vollständig.
->
-> **Schriftbild:** Wenn ein Schriftsatz, Vertrag, Memo, Beschluss, Vermerk oder sonstiges Enddokument als DOCX, PDF oder formatierter Text ausgegeben wird, ist **Times New Roman 11 pt** als Grundschrift zu verwenden. Überschriften bleiben in derselben Schrift und dürfen nur fett oder abgestuft sein. Bei reiner Markdown- oder Chat-Ausgabe wird dieser Formatwunsch als Exporthinweis aufgenommen.
->
-> **Nummerierung:** Gliederung ausschließlich dezimal (`1`, `1.1`, `1.1.1` und so weiter). Keine römischen Ziffern, keine Buchstaben- oder Mischgliederung.
-<!-- END ausformulierungspflicht (autogen) -->
-
-## Was dieser Arbeitsgang nicht macht
-- Kein Ersatz für eine vollstaendige Mandantenberatung.
-- Keine Festlegung des Mandanten ohne dessen ausdrueckliche Entscheidung.
-- Keine Bewertung von Tatsachen, die nicht durch Unterlagen oder klare Mandantenangaben gedeckt sind.
-- Bei erkennbaren Interessenkonflikten oder Berufsrechtsfragen Hinweis an den fallfuehrenden Anwalt.
-
----
-
-## Skill: `sondereffekt-grossauftrag`
-
-_Wenn es um Sondereffekt Grossauftrag in Liquiditätsplanung — Power geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt._
-
-# Sondereffekt Grossauftrag
-
-## Fachkern: Sondereffekt Grossauftrag
-- **Normen-/Quellenanker:** InsO §§ 17, 18, 19, 15a, StaRUG-Früherkennung, IDW-S-6-/Planungslogik, 3-Wochen- und 13-Wochen-Forecast, Zahlungsstatus und Fortbestehensprognose.
-- **Entscheidende Weiche:** Trenne fällige Verbindlichkeiten, liquide Mittel, harte Zahlungszusagen, Planannahmen, Quote/Lücke, Organpflicht und Dokumentationsspur.
-
-## Fallweichen
-Frage zu Beginn nur ab, was für den naechsten Schritt unverzichtbar ist. Wenn Material vorliegt, mit dem Material arbeiten und nur eine gezielte Rueckfrage stellen.
-
-1. **Rolle und Ziel:** Wer fragt, welche Rolle, welcher gewuenschte Output (Memo, Schriftsatz, Tabelle, Checkliste)?
-2. **Sachverhalt:** Welche unstreitigen Tatsachen liegen vor, was ist streitig, was fehlt noch?
-3. **Fristen:** Gibt es Termine, Fristen, eilbeduerftige Schritte?
-4. **Unterlagen:** Welche Dokumente, Bescheide, Verträge, Auszuege liegen vor?
-5. **Format:** Wie ausfuehrlich, für wen, in welcher Tonalitaet?
-
-## Prüfraster
-
-Der Output muss als verwertbares Arbeitsprodukt aufgebaut sein:
-
-1. **Sachverhalt fixieren** – streitige und unstreitige Tatsachen trennen, Lueckentafel.
-2. **Rechtliche Einordnung** - nur einschlaegige Normen, verifizierte Rechtsprechung und frei prüfbare amtliche Quellen; keine Literatur- oder Datenbankfundstellen erfinden.
-3. **Prüfung im Gutachtenstil** – Obersatz, Definition, Subsumtion, Zwischenergebnis.
-4. **Handlungsempfehlung** – konkret, mit naechstem Schritt, verantwortlicher Person, Frist.
-
-## Plugin-Kontext
-Dieses Fachmodul arbeitet den konkreten Schwerpunkt aus, prüft Aktenlage, Normen, Fristen, Belege und Gegenargumente und erzeugt einen unmittelbar nutzbaren nächsten Schritt.
-
-## Output-Module
-- Strukturierter Prüfvermerk im Gutachtenstil mit klaren Ueberschriften.
-- Tabellen/Checklisten, wo das die Lesbarkeit erhoeht.
-- Anschreiben-, Antrags- oder Klageschriftsatz-Geruest, wenn die Aufgabe das verlangt.
-- Quellenliste mit Gericht, Datum, Aktenzeichen, frei prüfbarem Link.
-
-## Was dieser Arbeitsgang nicht macht
-- Kein Ersatz für eine vollstaendige Mandantenberatung.
-- Keine Festlegung des Mandanten ohne dessen ausdrueckliche Entscheidung.
-- Keine Bewertung von Tatsachen, die nicht durch Unterlagen oder klare Mandantenangaben gedeckt sind.
-- Bei erkennbaren Interessenkonflikten oder Berufsrechtsfragen Hinweis an den fallfuehrenden Anwalt.
-
----
-
-## Skill: `forecast-risikoampel-gegenargumente`
-
-_Wenn es um Forecast: Risikoampel, Gegenargumente und Verteidigungslinien in Liquiditätsplanung — Power geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten._
-
-# Forecast: Risikoampel, Gegenargumente und Verteidigungslinien
-
-## Normenanker
-
-Vor einer rechtlichen Schlussfolgerung diese Anker am aktuellen Normtext prüfen; Spezial- und Landesrecht nur hinzunehmen, wenn es den konkreten Auftrag traegt:
-
-- `§ 1 InsO` — Ziele des Insolvenzverfahrens.
-- `§ 13 InsO` — Insolvenzantrag.
-- `§ 15a InsO` — Antragspflicht juristischer Personen.
-- `§ 17 InsO` — Zahlungsunfaehigkeit.
-- `§ 18 InsO` — drohende Zahlungsunfaehigkeit.
-- `§ 19 InsO` — Ueberschuldung.
-- `§ 21 InsO` — Sicherungsmaßnahmen.
-- `§ 35 InsO` — Insolvenzmasse.
-- `§ 80 InsO` — Verwaltungs- und Verfuegungsbefugnis.
-- `§ 129 InsO` — Insolvenzanfechtung.
-
-Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei prüfbare Quelle vorliegen; keine BeckRS-/juris-Blindzitate verwenden.
-
-## Fachkern: Forecast: Risikoampel, Gegenargumente und Verteidigungslinien
-- **Normen-/Quellenanker:** InsO §§ 17, 18, 19, 15a, StaRUG-Früherkennung, IDW-S-6-/Planungslogik, 3-Wochen- und 13-Wochen-Forecast, Zahlungsstatus und Fortbestehensprognose.
-- **Entscheidende Weiche:** Trenne fällige Verbindlichkeiten, liquide Mittel, harte Zahlungszusagen, Planannahmen, Quote/Lücke, Organpflicht und Dokumentationsspur.
-
-## Fallweichen
-Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur Rückfragen, die die nächste Weiche verändern:
-
-1. Welche Rolle hat die fragende Person und wer ist Gegenüber?
-2. Welches konkrete Ziel soll erreicht oder verhindert werden?
-3. Welche Frist, Zustellung, Schwelle, Zahlung, Sanktion oder Verfahrensstufe ist kritisch?
-4. Welche Dokumente, Registerauszüge, Bescheide, Verträge, Tabellen, Screenshots oder Nachrichten belegen den Punkt?
-5. Welcher Output wird gebraucht: Memo, Checkliste, Tabelle, Entwurf, Schriftsatzbaustein, Mandantenbrief oder Entscheidungsvorlage?
-
-## Arbeitsworkflow
-1. **Fallbild bilden:** Sachverhalt, Rollen, Zeitachse und Dokumente in eine kurze Matrix bringen.
-2. **Rechtsrahmen setzen:** Normen, Zuständigkeiten, Fristen, Formfragen und Verfahrensstand zum Themenfeld **Forecast** prüfen.
-3. **Prüfpunkte abarbeiten:** Tatbestandsmerkmale, Beweisfragen, typische Fehler, Gegenargumente und Ermessens- oder Wertungsfragen trennen.
-4. **Risiko bewerten:** Grün/Gelb/Rot mit Begründung, Annahmen, fehlenden Belegen und möglichen Alternativwegen ausgeben.
-5. **Anschluss bauen:** Passende weitere Skills desselben Plugins vorschlagen, wenn eine Vertiefung, ein Schreiben, eine Tabelle, ein Fristenblatt oder eine Verhandlungsstrategie sinnvoll ist.
 
 ---
 

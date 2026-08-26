@@ -1,6 +1,6 @@
 ---
 name: vollmacht-vorsorgevollmacht-grundbuch
-description: "Wenn es um Vollmacht grundbuchtauglich machen in Grundbuchamt Praxis geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen."
+description: "Für Vollmacht grundbuchtauglich machen: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Vollmacht grundbuchtauglich machen

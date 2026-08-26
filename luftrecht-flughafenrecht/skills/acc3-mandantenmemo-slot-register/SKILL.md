@@ -1,6 +1,6 @@
 ---
 name: acc3-mandantenmemo-slot-register
-description: "Wenn es um ACC3 – Mandantenmemo schreiben in Luftrecht und Flughafenrecht geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
+description: "Für ACC3 – Mandantenmemo schreiben: erstellt Entwurf mit Antrag, Beweis und Anlagen; Ergebnis: Schriftsatz mit Begründungs- und Anlagenlogik."
 ---
 
 # ACC3 – Mandantenmemo schreiben

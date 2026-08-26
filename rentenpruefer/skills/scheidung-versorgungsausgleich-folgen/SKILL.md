@@ -1,6 +1,6 @@
 ---
 name: scheidung-versorgungsausgleich-folgen
-description: "Wenn es um scheidung-versorgungsausgleich-folgen in Rentenprüfer geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
+description: "Für scheidung-versorgungsausgleich-folgen: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # scheidung-versorgungsausgleich-folgen

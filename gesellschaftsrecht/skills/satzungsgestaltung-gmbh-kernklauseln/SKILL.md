@@ -1,6 +1,6 @@
 ---
 name: satzungsgestaltung-gmbh-kernklauseln
-description: "Wenn es um Satzungsgestaltung GmbH-Kernklauseln in Gesellschaftsrecht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
+description: "Für Satzungsgestaltung GmbH-Kernklauseln: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 # Satzungsgestaltung GmbH-Kernklauseln
 

@@ -1,6 +1,6 @@
 ---
 name: vvg-arglist-taeuschung-anfechtung
-description: "Wenn es um Arglistanfechtung des Versicherers in Versicherungsrecht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Beweislast- und Substantiierungsmatrix."
+description: "Für Arglistanfechtung des Versicherers: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Schnittstellenkarte mit Zuständigkeits- und Nachweisfragen."
 ---
 
 # Arglistanfechtung des Versicherers

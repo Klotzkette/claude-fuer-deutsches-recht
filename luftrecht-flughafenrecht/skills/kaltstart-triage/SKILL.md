@@ -1,6 +1,6 @@
 ---
 name: kaltstart-triage
-description: "Wenn es um Luftrecht und Flughafenrecht - Allgemeiner Einstieg in Luftrecht und Flughafenrecht geht: klärt Rolle, Ziel, Frist, Unterlagen und den passenden nächsten Fachskill; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Luftrecht und Flughafenrecht - Allgemeiner Einstieg: routet Rolle, Frist, Unterlagen und Fachschritt; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Luftrecht und Flughafenrecht - Allgemeiner Einstieg

@@ -1,6 +1,6 @@
 ---
 name: out-court-pflichten-pyramide-systemic-risk
-description: "Wenn es um DSA: Out-of-Court-Streit in DSA, DMA und Digitalregulierung der EU geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für DSA: Out-of-Court-Streit: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # DSA: Out-of-Court-Streit

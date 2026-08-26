@@ -1,6 +1,6 @@
 ---
 name: spaltenprompts-fristen-form-zustaendigkeit
-description: "Wenn es um Spaltenprompts: Fristen, Form, Zuständigkeit und Rechtsweg in Tabellenreview 3D geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. Auswahlstichwort: Spaltenprompts Fristen Form Zuständigkeit; Arbeitsfeld: Tabellenreview 3D."
+description: "Für Spaltenprompts: Fristen, Form, Zuständigkeit und Rechtsweg: prüft Frist, Form, Zuständigkeit und Eilbedarf; Ergebnis: Fristen- und Risikoampel. Fachgebiet: Tabellenreview 3D. Route: spaltenprompts-fristen-form-zustaendigkeit."
 ---
 
 # Spaltenprompts: Fristen, Form, Zuständigkeit und Rechtsweg

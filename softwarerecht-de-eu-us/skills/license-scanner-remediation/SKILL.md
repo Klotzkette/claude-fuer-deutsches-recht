@@ -1,6 +1,6 @@
 ---
 name: license-scanner-remediation
-description: "Wenn es um License Scanner Remediation in Softwarerecht Deutschland/EU/International/USA geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für License Scanner Remediation: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # License Scanner Remediation

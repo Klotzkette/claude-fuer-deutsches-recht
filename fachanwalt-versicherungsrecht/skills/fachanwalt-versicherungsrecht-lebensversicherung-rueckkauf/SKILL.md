@@ -1,6 +1,6 @@
 ---
 name: fachanwalt-versicherungsrecht-lebensversicherung-rueckkauf
-description: "Prüft Kündigung, Rückkaufswert, Stornoabzug, Überschussbeteiligung und einen möglichen Widerruf von Lebens- und Rentenversicherungen nach Vertragsgeneration und Bedingungswerk. Liefert eine belegte Berechnung, Anspruchsmatrix und einen versandfähigen Entwurf."
+description: "Prüft Kündigung, Rückkaufswert, Stornoabzug, Überschussbeteiligung und einen möglichen Widerruf von Lebens- und Rentenversicherungen nach Vertragsgeneration und Bedingungswerk."
 ---
 
 # Rückkaufswert und Rückabwicklung einer Lebensversicherung

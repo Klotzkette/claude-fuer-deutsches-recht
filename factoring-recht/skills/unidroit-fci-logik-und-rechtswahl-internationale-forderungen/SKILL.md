@@ -1,6 +1,6 @@
 ---
 name: unidroit-fci-logik-und-rechtswahl-internationale-forderungen
-description: "Wenn es um UNIDROIT/FCI Logik und Rechtswahl internationale Forderungen in Factoring-Recht geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen."
+description: "Für UNIDROIT/FCI Logik und Rechtswahl internationale Forderungen: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Schnittstellenkarte mit Zuständigkeits- und Nachweisfragen."
 ---
 
 # UNIDROIT/FCI Logik und Rechtswahl internationale Forderungen

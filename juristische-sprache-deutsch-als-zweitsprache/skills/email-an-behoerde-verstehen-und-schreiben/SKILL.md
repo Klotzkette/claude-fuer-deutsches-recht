@@ -1,6 +1,6 @@
 ---
 name: email-an-behoerde-verstehen-und-schreiben
-description: "Wenn es um E-Mail An Behörde Verstehen Und Schreiben in Juristische Sprache Deutsch als Zweitsprache geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für E-Mail an Behörde Verstehen und Schreiben: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # E-Mail An Behörde Verstehen Und Schreiben

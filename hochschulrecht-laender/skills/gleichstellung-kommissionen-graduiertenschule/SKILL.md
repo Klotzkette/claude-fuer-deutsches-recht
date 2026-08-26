@@ -1,6 +1,6 @@
 ---
 name: gleichstellung-kommissionen-graduiertenschule
-description: "Wenn es um Gleichstellung in Kommissionen in Hochschulrecht der Bundesländer geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Gleichstellung in Kommissionen: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Gleichstellung in Kommissionen

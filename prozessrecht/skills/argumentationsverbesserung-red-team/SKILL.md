@@ -1,6 +1,6 @@
 ---
 name: argumentationsverbesserung-red-team
-description: "Wenn es um Argumentationsverbesserung und Red Team in Prozessrecht geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Argumentationsverbesserung und Red Team: prüft Ergebnis, Beweislast und Gegenposition; Ergebnis: Gegenprüfung mit Beweis- und Fristencheck."
 ---
 
 # Argumentationsverbesserung und Red Team

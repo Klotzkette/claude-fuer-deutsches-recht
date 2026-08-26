@@ -1,6 +1,6 @@
 ---
 name: familiennachzug
-description: "Wenn es um Familiennachzug in Fachanwalt Migrationsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. Auswahlstichwort: Familiennachzug; Arbeitsfeld: Fachanwalt Migrationsrecht."
+description: "Für Familiennachzug: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt. Fachgebiet: Fachanwalt Migrationsrecht. Route: familiennachzug."
 ---
 
 # Mandant will Ehegatten Kinder oder Eltern nach Deutschland holen und fragt nach Voraussetzungen und Verfahren

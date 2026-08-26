@@ -1,6 +1,6 @@
 ---
 name: klageschrift-antrag-bestimmt-formulieren
-description: "Wenn es um Den Klageantrag richtig formulieren in selbstvertreter-amtsgericht geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
+description: "Für Den Klageantrag richtig formulieren: erstellt Entwurf mit Antrag, Beweis und Anlagen; Ergebnis: Schriftsatz mit Begründungs- und Anlagenlogik."
 ---
 
 # Den Klageantrag richtig formulieren

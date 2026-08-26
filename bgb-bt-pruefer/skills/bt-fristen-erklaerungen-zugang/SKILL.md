@@ -1,6 +1,6 @@
 ---
 name: bt-fristen-erklaerungen-zugang
-description: "Wenn es um BT-Fristen, Erklärungen und Zugang in BGB BT Prüfer geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für BT-Fristen, Erklärungen und Zugang: prüft Frist, Form, Zuständigkeit und Eilbedarf; Ergebnis: Fristen- und Risikoampel."
 ---
 
 # BT-Fristen, Erklärungen und Zugang

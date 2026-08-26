@@ -1,6 +1,6 @@
 ---
 name: bmds-it-ki-verordnung
-description: "Wenn es um IT-Sicherheit (BSIG) (BMDS) in Legistik-Werkstatt geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen. Auswahlstichwort: Bmds It Ki Verordnung; Arbeitsfeld: Legistik-Werkstatt."
+description: "Für IT-Sicherheit (BSIG) (BMDS): ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt. Fachgebiet: Legistik-Werkstatt. Route: bmds-it-ki-verordnung."
 ---
 
 # IT-Sicherheit (BSIG) (BMDS)

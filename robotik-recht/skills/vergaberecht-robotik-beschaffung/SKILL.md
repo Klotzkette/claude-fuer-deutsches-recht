@@ -1,6 +1,6 @@
 ---
 name: vergaberecht-robotik-beschaffung
-description: "Wenn es um Vergaberecht Robotikbeschaffung in robotik-recht geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Dokumentenmatrix mit Nachforderungsliste."
+description: "Für Vergaberecht Robotikbeschaffung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Vergaberecht Robotikbeschaffung

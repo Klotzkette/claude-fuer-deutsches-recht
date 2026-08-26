@@ -1,6 +1,6 @@
 ---
 name: bundeslaender-synopse
-description: "Wenn es um Landesrecht als Arbeitskarte in Versammlungsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Landesrecht als Arbeitskarte: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Landesrecht als Arbeitskarte

@@ -1,6 +1,6 @@
 ---
 name: change-control-dingliche-vorkaufsrechte
-description: "Wenn es um Change of Control beim Erbbauberechtigten in Erbbaurecht Praxis geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
+description: "Für Change of Control beim Erbbauberechtigten: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Change of Control beim Erbbauberechtigten

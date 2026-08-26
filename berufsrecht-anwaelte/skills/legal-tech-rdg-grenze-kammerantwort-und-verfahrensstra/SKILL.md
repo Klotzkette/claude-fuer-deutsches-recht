@@ -1,6 +1,6 @@
 ---
 name: legal-tech-rdg-grenze-kammerantwort-und-verfahrensstra
-description: "Wenn es um Legal Tech Rdg Grenze Kammerantwort Und Verfahrensstra in Berufsrecht Anwälte geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Verhandlungs- oder Eskalationslinie mit Optionen."
+description: "Für Legal Tech Rdg Grenze Kammerantwort und Verfahrensstra: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Anwälte: legal tech rdg grenze - Kammerantwort mit Verfahrensstrategie, Tonlage und Belegplan

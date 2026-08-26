@@ -1,6 +1,6 @@
 ---
 name: autobahnprojekt-kontrolle-sichern
-description: "Wenn es um Autobahnprojekt Kontrolle Sichern in Öffentliches Wirtschaftsrecht geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Autobahnprojekt Kontrolle Sichern: prüft Ergebnis, Beweislast und Gegenposition; Ergebnis: Gegenprüfung mit Beweis- und Fristencheck."
 ---
 
 # Autobahnprojekt Kontrolle Sichern

@@ -1,6 +1,6 @@
 ---
 name: vorlageanordnung-zeuge-vorbereitung
-description: "Wenn es um Triage Gerichtliche und Behördliche Beweisanordnungen in Prozessrecht geht: klärt Rolle, Ziel, Frist, Unterlagen und den passenden nächsten Fachskill; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Triage Gerichtliche und Behördliche Beweisanordnungen: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Schnittstellenkarte mit Zuständigkeits- und Nachweisfragen."
 ---
 
 # Triage Gerichtliche und Behördliche Beweisanordnungen

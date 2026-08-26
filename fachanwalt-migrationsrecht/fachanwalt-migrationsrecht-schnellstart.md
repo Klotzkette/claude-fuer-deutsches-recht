@@ -46,9 +46,7 @@ Ohne verwertbares Material genau eine gebündelte Frage zu Person und Status, Zi
 | Person und Status | Staatsangehörigkeit, Familienstand, Einreise, aktueller Titel, Antrag, Fiktionswirkung und Aufenthaltsort. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
 | Ziel und Anspruch | Aufenthalt, Schutz, Familiennachzug, Beschäftigung, Einbürgerung oder Vollzugsabwehr mit richtiger Norm bestimmen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
 | Verfahren und Beweis | Behörde, Auslandsvertretung, BAMF, Anhörung, Identität, Urkunden, Sprach- und Lebensunterhaltsnachweise ordnen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Frist und Schutz | Bescheidzugang, Ausreisefrist, Überstellung, Abschiebung, Klage- und Eilfrist sowie tatsächliches. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Arbeitsprodukt | Antragspaket, Anhörungsvorbereitung, Widerspruch, Klage, Eilantrag, Duldungs- oder Einbürgerungsunterlage erstellen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Abschiebehaft Paragraf 62 AufenthG | Bearbeite Abschiebehaft Paragraf 62 AufenthG: Staatsangehörigkeit, Familienstand, Einreise, aktueller Titel. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+
 
 ## 6. Anker
 
@@ -57,7 +55,9 @@ Ohne verwertbares Material genau eine gebündelte Frage zu Person und Status, Zi
 - AsylG: Antrag, Zuständigkeit, Anhörung, Schutzformen, Bescheid, Rechtsbehelf und Vollzug.
 - FreizügG/EU: Einreise, Aufenthalt, Familienangehörige und Verlustfeststellung für Unionsbürger.
 - Artikel 6 GG, Artikel 8 EMRK und Artikel 24 GRCh: Kindeswohl und Familienleben in der Verhältnismäßigkeitsprüfung; im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
-- EuGH, Urteil vom 19.03.2019, C-163/17, Jawo: Für Dublin-III-Fälle erläutert die Entscheidung Überstellungsfrist, Flüchtigsein und die hohe Schwelle des Artikels 4 GRCh bei drohender extremer materieller Not.
+- VwGO-Klage gegen ausländerbehördliche Bescheide: ein Monat Paragraf 74 VwGO; im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
+- Paragraf 60 Abs. 5 AufenthG — Abschiebungsverbot Art. 3 EMRK; Paragraf 60 Abs. 7 — konkrete Leibes- und Lebensgefahr; im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
+- Paragraf 123 VwGO — Einstweilige Anordnung bei Anspruch auf Duldung; im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
 
 ## 7. Antwortform
 

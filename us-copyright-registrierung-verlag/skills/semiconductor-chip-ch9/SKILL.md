@@ -1,6 +1,6 @@
 ---
 name: semiconductor-chip-ch9
-description: "Wenn es um Semiconductor Chip Protection in US Copyright Act und Registrierung für deutsche Verlage geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Semiconductor Chip Protection: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Semiconductor Chip Protection

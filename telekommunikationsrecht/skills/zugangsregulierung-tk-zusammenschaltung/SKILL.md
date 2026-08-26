@@ -1,6 +1,6 @@
 ---
 name: zugangsregulierung-tk-zusammenschaltung
-description: "Wenn es um Zugangsregulierung und Vorleistungen in Telekommunikationsrecht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen."
+description: "Für Zugangsregulierung und Vorleistungen: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Zugangsregulierung und Vorleistungen

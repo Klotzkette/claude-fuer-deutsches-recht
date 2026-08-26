@@ -1,6 +1,6 @@
 ---
 name: uebernachtung-verdienstausfall-vorschuss
-description: "Wenn es um Uebernachtung: Schriftsatz-, Brief- und Memo-Bausteine in JVEG-Kostenprüfer geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
+description: "Für Übernachtung: Schriftsatz-, Brief- und Memo-Bausteine: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Uebernachtung: Schriftsatz-, Brief- und Memo-Bausteine

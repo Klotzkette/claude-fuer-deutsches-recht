@@ -1,6 +1,6 @@
 ---
 name: vert-leistungsstoerungen-leitfaden
-description: "Wenn es um Vert: Leistungsstoerungen in Vertragsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Vert: Leistungsstörungen: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Vert: Leistungsstoerungen

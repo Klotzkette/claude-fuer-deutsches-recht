@@ -1,6 +1,6 @@
 ---
 name: lohnpfaendung-unterhalt-pfaendungsfreigrenzen
-description: "Wenn es um Lohnpfaendung Unterhalt Pfaendungsfreigrenzen in Start-up-HR-Personalabteilung Berlin geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
+description: "Für Lohnpfändung Unterhalt Pfändungsfreigrenzen: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Lohnpfaendung Unterhalt Pfaendungsfreigrenzen

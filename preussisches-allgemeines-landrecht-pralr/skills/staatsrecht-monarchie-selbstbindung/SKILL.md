@@ -1,6 +1,6 @@
 ---
 name: staatsrecht-monarchie-selbstbindung
-description: "Wenn es um Staatsrecht in Preußisches Allgemeines Landrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. Auswahlstichwort: Staatsrecht Monarchie Selbstbindung; Arbeitsfeld: Preußisches Allgemeines Landrecht."
+description: "Für Staatsrecht: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt. Fachgebiet: Preußisches Allgemeines Landrecht. Route: staatsrecht-monarchie-selbstbindung."
 ---
 
 # Staatsrecht

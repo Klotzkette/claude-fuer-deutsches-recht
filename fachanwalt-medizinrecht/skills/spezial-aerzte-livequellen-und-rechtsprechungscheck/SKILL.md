@@ -1,6 +1,6 @@
 ---
 name: spezial-aerzte-livequellen-und-rechtsprechungscheck
-description: "Wenn es um Aerzte: Livequellen- und Rechtsprechungscheck in Fachanwalt Medizinrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Ärzte: Livequellen- und Rechtsprechungscheck: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Aerzte: Livequellen- und Rechtsprechungscheck

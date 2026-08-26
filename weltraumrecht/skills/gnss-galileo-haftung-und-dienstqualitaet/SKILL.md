@@ -1,6 +1,6 @@
 ---
 name: gnss-galileo-haftung-und-dienstqualitaet
-description: "Wenn es um Weltraumrecht: GNSS/Galileo: Haftung und Dienstqualität in Weltraumrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Weltraumrecht: GNSS/Galileo: Haftung und Dienstqualität: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Gegenprüfung mit Beweis- und Fristencheck."
 ---
 
 # Weltraumrecht: GNSS/Galileo: Haftung und Dienstqualität

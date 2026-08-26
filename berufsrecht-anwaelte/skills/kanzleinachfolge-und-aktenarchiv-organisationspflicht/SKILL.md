@@ -1,6 +1,6 @@
 ---
 name: kanzleinachfolge-und-aktenarchiv-organisationspflicht
-description: "Wenn es um Kanzleinachfolge Und Aktenarchiv Organisationspflicht in Berufsrecht Anwälte geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Kanzleinachfolge und Aktenarchiv Organisationspflicht: ordnet Akte, Belege und Lücken; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Anwälte: kanzleinachfolge und aktenarchiv - Organisationspflichten, Prävention, Team-Anweisung und Fristenkontrolle

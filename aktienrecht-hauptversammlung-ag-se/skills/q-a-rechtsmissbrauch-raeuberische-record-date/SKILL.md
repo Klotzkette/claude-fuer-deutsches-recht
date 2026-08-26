@@ -1,6 +1,6 @@
 ---
 name: q-a-rechtsmissbrauch-raeuberische-record-date
-description: "Wenn es um Q&and A Vorstandsantworten in Hauptversammlung AG und SE geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Q&and A Vorstandsantworten: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Schnittstellenkarte mit Zuständigkeits- und Nachweisfragen."
 ---
 
 # Q&and A Vorstandsantworten

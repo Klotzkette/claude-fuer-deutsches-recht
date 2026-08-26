@@ -1,6 +1,6 @@
 ---
 name: zitiergebot-art-19-i-2-gg
-description: "Wenn es um Zitiergebot Art 19 I 2 GG in Verhältnismäßigkeitsprüfer geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
+description: "Für Zitiergebot Art 19 I 2 GG: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Zitiergebot Art 19 I 2 GG

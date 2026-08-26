@@ -1,6 +1,6 @@
 ---
 name: defensive-drafting-deutscher-kanzleistil
-description: "Wenn es um Defensive Drafting und Fallen-Erkennung in diesem Spezialbereich geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Beweislast- und Substantiierungsmatrix."
+description: "Für Defensive Drafting und Fallen-Erkennung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Schnittstellenkarte mit Zuständigkeits- und Nachweisfragen."
 ---
 
 # Defensive Drafting und Fallen-Erkennung

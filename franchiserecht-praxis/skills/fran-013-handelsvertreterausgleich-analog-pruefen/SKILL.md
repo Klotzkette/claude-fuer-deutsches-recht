@@ -1,6 +1,6 @@
 ---
 name: fran-013-handelsvertreterausgleich-analog-pruefen
-description: "Wenn es um Franchiserecht: Handelsvertreterausgleich analog prüfen in Franchiserecht Praxis geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Franchiserecht: Handelsvertreterausgleich analog prüfen: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Franchiserecht: Handelsvertreterausgleich analog prüfen

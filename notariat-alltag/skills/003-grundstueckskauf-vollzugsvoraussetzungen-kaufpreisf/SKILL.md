@@ -1,6 +1,6 @@
 ---
 name: 003-grundstueckskauf-vollzugsvoraussetzungen-kaufpreisf
-description: "Wenn es um Grundstueckskauf Vollzugsvoraussetzungen Kaufpreisf in Notariat im Alltag geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Grundstückskauf Vollzugsvoraussetzungen Kaufpreisf: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Notariat im Alltag: Grundstückskauf – Vollzugsvoraussetzungen, Kaufpreisfälligkeit, Auflassungsvormerkung

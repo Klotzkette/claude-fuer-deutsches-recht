@@ -1,6 +1,6 @@
 ---
 name: zinsberechnung-288-bgb
-description: "Wenn es um Zinsberechnung Paragraf 288 BGB in Forderungsmanagement — Klagewerkstatt geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
+description: "Für Zinsberechnung Paragraf 288 BGB: rechnet Beträge, Schwellen und Varianten; Ergebnis: Berechnungstabelle mit Annahmen und Kontrollfragen."
 ---
 
 # Zinsberechnung Paragraf 288 BGB

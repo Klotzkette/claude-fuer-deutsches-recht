@@ -1,6 +1,6 @@
 ---
 name: versand-mehrparteien-konflikt-und-interessen
-description: "Wenn es um Spezial: Mehrparteien-Konstellationen und Interessenkonflikte in Plugin: Gewerblicher Rechtsschutz geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
+description: "Für Spezial: Mehrparteien-Konstellationen und Interessenkonflikte: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Spezial: Mehrparteien-Konstellationen und Interessenkonflikte
@@ -136,3 +136,7 @@ Mandatsbezug: Lizenzgeber und Lizenznehmer streiten über Verletzung durch Dritt
 - `spezial-operate-verhandlung-vergleich-und-eskalation` – Vergleichsverhandlung
 - `spezial-gewerblicher-erstpruefung-und-mandatsziel` – Erstprüfung und Mandatsziel
 - `mandat-triage-gewerblicher-rechtsschutz` – Mandatstriage
+
+## Vertiefung bei Bedarf
+
+- Bei `spezial-versand-mehrparteien-konflikt-und-interessen` beziehungsweise Versand: Mehrparteienkonflikt und Interessenmatrix: [die zusätzliche Vertiefung laden](./references/vertiefung-spezial-versand-mehrparteien-konflikt-und-interessen.md).

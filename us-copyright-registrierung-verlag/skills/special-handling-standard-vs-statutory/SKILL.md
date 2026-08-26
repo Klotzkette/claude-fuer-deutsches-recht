@@ -1,6 +1,6 @@
 ---
 name: special-handling-standard-vs-statutory
-description: "Wenn es um Special Handling und Eilbedarf in US Copyright Act und Registrierung für deutsche Verlage geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Special Handling und Eilbedarf: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Special Handling und Eilbedarf

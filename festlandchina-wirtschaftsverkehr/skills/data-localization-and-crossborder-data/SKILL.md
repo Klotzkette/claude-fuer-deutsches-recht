@@ -1,6 +1,6 @@
 ---
 name: data-localization-and-crossborder-data
-description: "Wenn es um Datenlokalisierung China: Cybersecurity Law/DSL/PIPL in China-Wirtschaftsverkehr geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Datenlokalisierung China: Cybersecurity Law/DSL/PIPL: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Datenlokalisierung China: Cybersecurity Law/DSL/PIPL

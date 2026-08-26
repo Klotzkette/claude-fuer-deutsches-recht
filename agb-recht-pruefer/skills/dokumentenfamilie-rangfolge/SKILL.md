@@ -1,6 +1,6 @@
 ---
 name: dokumentenfamilie-rangfolge
-description: "Wenn es um Dokumentenfamilie Rangfolge in AGB-Recht-Prüfer geht: klärt Rolle, Ziel, Frist, Unterlagen und den passenden nächsten Fachskill; liefert eine Tatbestands- oder Anspruchsmatrix mit Gegenargumenten."
+description: "Für Dokumentenfamilie Rangfolge: ordnet Akte, Belege und Lücken; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Dokumentenfamilie Rangfolge

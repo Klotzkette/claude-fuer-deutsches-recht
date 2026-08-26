@@ -1,6 +1,6 @@
 ---
 name: dsgvo-compliance-bausteine
-description: "Wenn es um DSGVO-Compliance-Bausteine in diesem Spezialbereich geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
+description: "Für DSGVO-Compliance-Bausteine: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # DSGVO-Compliance-Bausteine

@@ -1,6 +1,6 @@
 ---
 name: minimis-inlandsauswirkung-digital-platforms
-description: "Wenn es um De-minimis Inlandsauswirkung Fusionskontrolle in Kartellrecht — Marktabgrenzungsprüfung geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für De-minimis Inlandsauswirkung Fusionskontrolle: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # De-minimis Inlandsauswirkung Fusionskontrolle

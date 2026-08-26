@@ -1,6 +1,6 @@
 ---
 name: tier-047-pferdestall-kosten-klaeren
-description: "Wenn es um Pferdestall Kosten Klaeren in Tierschutzrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Pferdestall Kosten Klären: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt. Fachgebiet: Tierschutzrecht. Route: tier-047-pferdestall-kosten-klaeren."
 ---
 
 # Pferdestall Kosten Klaeren

@@ -1,6 +1,6 @@
 ---
 name: medr-grundpfeiler-igel-und-aerztewerbung-spezial
-description: "Wenn es um Medr Grundpfeiler Igel Und Aerztewerbung Spezial in Fachanwalt Medizinrecht geht: entwickelt Verhandlungsziel, Vergleichskorridor und Eskalationspfad; liefert einen Einreichungsplan mit Form-, Portal- und Nachweischeck."
+description: "Für Medr Grundpfeiler Igel und Ärztewerbung Spezial: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Spezialfall IGeL-Leistungen und Aerztewerbung: § 18 MBO-Aerzte, sachliche berufsbezogene Information, unsachlich-anpreisende Werbung, Preisvergleichsportale (Jameda, Doctolib), Bewertungsplattformen-Recht.

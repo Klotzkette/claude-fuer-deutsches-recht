@@ -1,6 +1,6 @@
 ---
 name: mobile-roboter-nis2-betreiber
-description: "Wenn es um Mobile Roboter AMR AGV in robotik-recht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
+description: "Für Mobile Roboter AMR AGV: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt. Fachgebiet: robotik-recht. Route: mobile-roboter-nis2-betreiber."
 ---
 
 # Mobile Roboter AMR AGV

@@ -1,6 +1,6 @@
 ---
 name: schule-universitaet-schutz-vorauseilendem
-description: "Wenn es um Junge Versammlungen brauchen klare Rollen in Versammlungsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Junge Versammlungen brauchen klare Rollen: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Junge Versammlungen brauchen klare Rollen

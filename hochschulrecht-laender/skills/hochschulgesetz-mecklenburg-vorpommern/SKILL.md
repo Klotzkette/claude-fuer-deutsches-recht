@@ -1,6 +1,6 @@
 ---
 name: hochschulgesetz-mecklenburg-vorpommern
-description: "Wenn es um Hochschulgesetz Mecklenburg Vorpommern in Hochschulrecht der Bundesländer geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
+description: "Für Hochschulgesetz Mecklenburg Vorpommern: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Hochschulgesetz Mecklenburg Vorpommern

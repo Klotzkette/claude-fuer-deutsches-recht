@@ -1,6 +1,6 @@
 ---
 name: insolvenzgeld-165-sgb-iii
-description: "Wenn es um Insolvenzgeld nach Paragraf 165 SGB III in Insolvenzrecht geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
+description: "Für Insolvenzgeld nach Paragraf 165 SGB III: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Insolvenzgeld nach § 165 SGB III

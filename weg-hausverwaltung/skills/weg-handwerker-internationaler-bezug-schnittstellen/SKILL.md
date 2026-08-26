@@ -1,6 +1,6 @@
 ---
 name: weg-handwerker-internationaler-bezug-schnittstellen
-description: "Wenn es um Handwerker: Internationaler Bezug und Schnittstellen in WEG- und Hausverwaltung geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Handwerker: Internationaler Bezug und Schnittstellen: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Schnittstellenkarte mit Zuständigkeits- und Nachweisfragen."
 ---
 
 # Handwerker: Internationaler Bezug und Schnittstellen

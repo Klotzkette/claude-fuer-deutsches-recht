@@ -1,6 +1,6 @@
 ---
 name: grenzgaenger-auslandskrankenversicherung-und-koordinierun
-description: "Wenn es um Grenzgänger, Auslandskrankenversicherung und Koordinierungsrecht in Krankenkassenrecht und Krankenversicherung geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Grenzgänger, Auslandskrankenversicherung und Koordinierungsrecht: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Schnittstellenkarte mit Zuständigkeits- und Nachweisfragen."
 ---
 
 # Grenzgänger, Auslandskrankenversicherung und Koordinierungsrecht

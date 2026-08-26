@@ -1,6 +1,6 @@
 ---
 name: netzentgelte-rechtsfragen-redispatch-spezial-typ-anfrage
-description: "Wenn es um Netzentgelte: Rechtsfragen in Energierecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Netzentgelte: Rechtsfragen: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Netzentgelte: Rechtsfragen

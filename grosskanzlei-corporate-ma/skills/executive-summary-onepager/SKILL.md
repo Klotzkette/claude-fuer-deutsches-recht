@@ -1,6 +1,6 @@
 ---
 name: executive-summary-onepager
-description: "Wenn es um Executive Summary Onepager in Großkanzlei Corporate/M&A geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Executive Summary Onepager: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt. Fachgebiet: Großkanzlei Corporate/M&A. Route: executive-summary-onepager."
 ---
 
 # Executive Summary und Onepager für Board, Investment Committee und Partner: verdichtet komplexe M&A-Befunde in klare, entscheidbare, nicht ueberverkaufte Kurzformate.

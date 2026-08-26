@@ -1,6 +1,6 @@
 ---
 name: ressort-bmds
-description: "Wenn es um Ressort-Heranfuehrung BMDS in Legistik-Werkstatt geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. Auswahlstichwort: Ressort Bmds; Arbeitsfeld: Legistik-Werkstatt."
+description: "Für Ressort-Heranführung BMDS: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt. Fachgebiet: Legistik-Werkstatt. Route: ressort-bmds."
 ---
 
 # Ressort-Heranfuehrung BMDS

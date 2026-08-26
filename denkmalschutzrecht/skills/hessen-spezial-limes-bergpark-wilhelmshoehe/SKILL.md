@@ -1,6 +1,6 @@
 ---
 name: hessen-spezial-limes-bergpark-wilhelmshoehe
-description: "Wenn es um Limes und Bergpark Wilhelmshoehe als UNESCO-Welterbe in Hessen in Denkmalschutzrecht — Bundesweiter Rahmen und sechzehn geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
+description: "Für Limes und Bergpark Wilhelmshöhe als UNESCO-Welterbe in Hessen: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Limes und Bergpark Wilhelmshoehe als UNESCO-Welterbe in Hessen

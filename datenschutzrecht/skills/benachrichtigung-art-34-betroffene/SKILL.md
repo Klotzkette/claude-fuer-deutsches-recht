@@ -1,6 +1,6 @@
 ---
 name: benachrichtigung-art-34-betroffene
-description: "Wenn es um Benachrichtigung der Betroffenen nach Art. 34 DSGVO in Datenschutzrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Benachrichtigung der Betroffenen nach Art. 34 DSGVO: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Benachrichtigung der Betroffenen nach Art. 34 DSGVO
@@ -63,3 +63,7 @@ Mit freundlichen Grüßen, [Geschäftsleitung]
 
 - `dsv-benachrichtigung-art-34-schwelle-hohes-risiko` deckt die Schwellenwertentscheidung ab.
 - `dsv-benachrichtigung-art-34-ausnahmen` deckt die Ausnahmen ab.
+
+## Vertiefung bei Bedarf
+
+- Bei `dsv-benachrichtigung-art-34-betroffene` beziehungsweise Erstellt das Benachrichtigungsschreiben an die von einer Datenschutzverletzung betroffenen Personen nach Art: [die zusätzliche Vertiefung laden](./references/vertiefung-dsv-benachrichtigung-art-34-betroffene.md).

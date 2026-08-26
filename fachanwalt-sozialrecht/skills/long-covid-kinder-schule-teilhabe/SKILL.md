@@ -1,6 +1,6 @@
 ---
 name: long-covid-kinder-schule-teilhabe
-description: "Wenn es um Long Covid Kinder Schule Teilhabe in Fachanwalt Sozialrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Long Covid Kinder Schule Teilhabe: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Long-Covid bei Kindern und Jugendlichen: Schule, Nachteilsausgleich, Teilhabe, Eingliederungshilfe und pädiatrische Beweisführung.

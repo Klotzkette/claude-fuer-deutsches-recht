@@ -1,6 +1,6 @@
 ---
 name: strafbefehl-deal-verstaendigung
-description: "Wenn es um Verstaendigung im Strafbefehlsverfahren — Paragraf 257c StPO in Strafbefehl-Verteidiger geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Verständigung im Strafbefehlsverfahren — Paragraf 257c StPO: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Verstaendigung im Strafbefehlsverfahren — § 257c StPO

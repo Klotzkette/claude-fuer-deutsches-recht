@@ -1,6 +1,6 @@
 ---
 name: haftpflicht-und-schadenmeldung-organisationspflicht
-description: "Wenn es um Haftpflicht Und Schadenmeldung Organisationspflicht in Berufsrecht Notare geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Haftpflicht und Schadenmeldung Organisationspflicht: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Notare: haftpflicht und schadenmeldung - Organisationspflichten, Prävention, Team-Anweisung und Fristenkontrolle

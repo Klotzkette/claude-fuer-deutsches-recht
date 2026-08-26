@@ -1,6 +1,6 @@
 ---
 name: post-arbeitsbedingungen-postmarkt-beschwerde
-description: "Wenn es um Post: Arbeitsbedingungen Postmarkt Schnittstelle in Bundesnetzagentur-Verfahren geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
+description: "Für Post: Arbeitsbedingungen Postmarkt Schnittstelle: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Post: Arbeitsbedingungen Postmarkt Schnittstelle

@@ -1,6 +1,6 @@
 ---
 name: jurisdiction-clause-drafting-de-en
-description: "Wenn es um Klauselgestaltung DE/EN in commercial-courts-deutschland geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen."
+description: "Für Klauselgestaltung DE/EN: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Klauselgestaltung DE/EN

@@ -148,7 +148,7 @@ Arbeitsgriff Arbeitsprodukt: Risikomemo, Abstellungszusage, Schadensmatrix, Klag
 10.5. Beweislast: Anspruchsteller oder Behörde für Markt, Abstimmung, Marktmacht und Schaden; Unternehmen für Effizienz, Rechtfertigung, Compliance und Einwendungen. Zeige ausdrücklich, welche Folge ein offener Beweis hat.
 10.6. Gegenposition: Formuliere den stärksten ernsthaften Angriff; hier setzt die Gegenseite typischerweise bei welches Verhalten beschränkt Wettbewerb nach Zweck oder Wirkung an.
 10.7. Erwiderung: Antworte mit konkretem Gegenbeleg, Auslegung oder Beweislastregel und ziehe die Folge auf Kartellschadensmatrix, Abstellungszusage, Bußgeldverteidigung, Compliance-Maßnahme, Klage oder Vergleich; ein bloßes Bestreiten genügt nicht.
-10.8. Arbeitsprodukt: Schließe mit Antrag, Tenor, Klausel, Entscheidung oder nächstem Schritt; hier typischerweise Ausgabe entlang der Kernfelder Auswirkungen auf Marktanteile und Marktbeherrschung, Disclosure Paragraf 33g GWB Akteneinsicht, Jurisdiktion Albanien: Competition Authority Check, Organhaftung und Kartellrecht: Kurzvermerk, Prüfmatrix, Entwurf, Fristenblatt oder Fragenliste mit nächstem Schritt.
+10.8. Arbeitsprodukt: Schließe mit Antrag, Tenor, Klausel, Entscheidung oder nächstem Schritt; hier typischerweise Ausgabe entlang der Kernfelder Auswirkungen auf Marktanteile und Marktbeherrschung, Disclosure Paragraf 33g GWB Akteneinsicht, Kartellschadensersatz Paragraf 33a GWB, Internationale Kartellrechtsjurisdiktionen: Kurzvermerk, Prüfmatrix, Entwurf, Fristenblatt oder Fragenliste mit nächstem Schritt.
 10.9. Quellenstatus: Ordne Rechtsprechung nach Tragweite ein; erste Fallanker sind EuGH, Urteil vom 04.06.2009 - C-8/08; EuGH, Urteil vom 30.01.2020 - C-307/18.
 
 ## 11. Outputvarianten und Empfängerwunsch
@@ -185,13 +185,13 @@ Die Landkarte dient der schnellen Auswahl. Sie ersetzt nicht die darunter ausfor
 | --- | --- | --- |
 | Auswirkungen auf Marktanteile und Marktbeherrschung | Quantifiziert Auswirkungen alternativer Marktabgrenzungen auf Marktanteile und Marktbeherrschungsvermutungen. | Fachvotum zu Auswirkungen auf Marktanteile und Marktbeherrschung mit Tatbestandsmerkmalen, Aktenfundstellen, Beweislast, stärkster Gegenposition, Risiko und ausformulierter. |
 | Disclosure Paragraf 33g GWB Akteneinsicht | Disclosure Paragraf 33g GWB Akteneinsicht: prüft die einschlägigen Voraussetzungen, Dokumente, Risiken und Ausnahmen. | Akten- und Belegmatrix zu Disclosure Paragraf 33g GWB Akteneinsicht mit Datum, Urheber, Fundstelle, Widerspruch, Fehlteil und nächstem Bearbeitungsschritt |
-| Jurisdiktion Albanien: Competition Authority Check | Materielle Achsen: Kartellverbot, abgestimmte Verhaltensweisen, Informationsaustausch, Missbrauch marktbeherrschender Stellung, Zusammenschlusskontrolle, Gun-Jumping, Dawn Raid, Settlement/Leniency und private. | gewichtete Prüfmatrix mit Tatbestandsmerkmalen, Fundstellen, Gegenposition, Beweislast, Risiko und Empfehlung |
+| Kartellschadensersatz Paragraf 33a GWB | Kartellschadensersatz Paragraf 33a GWB: prüft die einschlägigen Voraussetzungen, Dokumente, Risiken und Ausnahmen. | Fachvotum zu Kartellschadensersatz Paragraf 33a GWB mit Tatbestandsmerkmalen, Aktenfundstellen, Beweislast, stärkster Gegenposition, Risiko und ausformulierter Rechtsfolge |
+| Internationale Kartellrechtsjurisdiktionen | Bestimme zuerst betroffene Staaten, Umsatz- oder Transaktionsbezug, Verhalten, Vollzugszeitpunkt und gewünschten Behördenkontakt. | Fachvotum zu Internationale Kartellrechtsjurisdiktionen mit Tatbestandsmerkmalen, Aktenfundstellen, Beweislast, stärkster Gegenposition, Risiko und ausformulierter Rechtsfolge |
 | Organhaftung und Kartellrecht | Bearbeite Organhaftung und Kartellrecht: markt, Beteiligte, Verhalten, Zweck oder Wirkung, Beleg, Rechtfertigung, Schaden und Bußgeldrisiko zusammenführen. | gewichtete Prüfmatrix mit Tatbestandsmerkmalen, Fundstellen, Gegenposition, Beweislast, Risiko und Empfehlung |
 | Art 101 AEUV Tatbestand Vereinbarung Beschluss abgestimmte Verhaltensweise | Erzeuge eine konkrete Prüf- oder Entscheidungsmatrix mit Norm, Tatbestand, Beleg, Einwand, Risikoampel und nächstem Schritt; Anschluss-Skills nur bei echter Vertiefung nennen. | verhandlungsfähige Fassung mit Ausgangstext, Änderung, Begründung, Rückfallposition und Vollzugscheck |
 | EU-Fusionskontrolle FKVO Zuständigkeit | Einordnen: Rolle, Ziel, Verfahrensstand, Vertragstyp, Behörde/Gericht, Frist und Risiken festhalten. Tatbestand in Elemente zerlegen: Jedes Tatbestandsmerkmal einzeln prüfen; unklare Tatsachen als [offen: .] markieren. | Kontrollvermerk zu EU-Fusionskontrolle FKVO Zuständigkeit mit Pflicht, Ist-Nachweis, Abweichung, Risiko, Verantwortlichem, Frist und Freigabe |
 | EuGH-Rechtsprechung — Leitentscheidungen zur Marktdefinition | Vor Verwendung im Schriftsatz immer über curia.europa.eu Volltext und Rn. nachschlagen. 6/72 (Continental Can / Kommission): Erstmalige Anerkennung der Marktdefinition als Voraussetzung für Artikel 102 AEUV-Anwendung. | Fachvotum zu EuGH-Rechtsprechung — Leitentscheidungen zur Marktdefinition mit Tatbestandsmerkmalen, Aktenfundstellen, Beweislast, stärkster Gegenposition, Risiko. |
 | Evidenz-Qualitätsbewertung | Die EU-Bekanntmachung 2024 unterscheidet zwischen quantitativen und qualitativen Belegen und verlangt eine kohärente, vollständige Darstellung. Warenkorbanalysen (werden Produkte zusammen oder alternativ gekauft?). | Fachvotum zu Evidenz-Qualitätsbewertung mit Tatbestandsmerkmalen, Aktenfundstellen, Beweislast, stärkster Gegenposition, Risiko und ausformulierter Rechtsfolge |
-| Algorithmic Collusion und algorithmische Systeme Pricing | Bearbeite Algorithmic Collusion und algorithmische Systeme Pricing: markt, Beteiligte, Verhalten, Zweck oder Wirkung, Beleg, Rechtfertigung, Schaden und Bußgeldrisiko zusammenführen. | Fachvotum zu Algorithmic Collusion und algorithmische Systeme Pricing mit Tatbestandsmerkmalen, Aktenfundstellen, Beweislast, stärkster Gegenposition, Risiko und ausformulierter Rechtsfolge |
 
 ## 16. Fachspezifische Praxisrouten
 
@@ -207,53 +207,54 @@ Lieferstück: Fachvotum zu Auswirkungen auf Marktanteile und Marktbeherrschung m
 Bearbeitungsauftrag: Disclosure Paragraf 33g GWB Akteneinsicht: prüft die einschlägigen Voraussetzungen, Dokumente, Risiken und Ausnahmen. Markt, Verhalten, Beteiligte, Schwelle, Effekt, Effizienzrechtfertigung, Verfahren, Dawn Raid/Leniency und Schadensersatz getrennt ordnen. Erzeuge eine konkrete Prüf- oder Entscheidungsmatrix mit Norm, Tatbestand, Beleg, Einwand, Risikoampel und nächstem Schritt; Anschluss-Skills nur bei echter Vertiefung nennen.
 Lieferstück: Akten- und Belegmatrix zu Disclosure Paragraf 33g GWB Akteneinsicht mit Datum, Urheber, Fundstelle, Widerspruch, Fehlteil und nächstem Bearbeitungsschritt.
 
-### 16.3. Jurisdiktion Albanien: Competition Authority Check
+### 16.3. Kartellschadensersatz Paragraf 33a GWB
 
-Bearbeitungsauftrag: Materielle Achsen: Kartellverbot, abgestimmte Verhaltensweisen, Informationsaustausch, Missbrauch marktbeherrschender Stellung, Zusammenschlusskontrolle, Gun-Jumping, Dawn Raid, Settlement/Leniency und private Schadensersatzrisiken. EU-/International-Schnittstelle: Bei EU/EWR-Bezug Artikel 101/102 AEUV, VO 1/2003, EU-Fusionskontrollverordnung und ECN-Kooperation prüfen; bei globalen Deals HSR/UK/China/Brasilien/Indien/sonstige parallele Filings als Timing-Risiko führen.
-Lieferstück: gewichtete Prüfmatrix mit Tatbestandsmerkmalen, Fundstellen, Gegenposition, Beweislast, Risiko und Empfehlung.
+Bearbeitungsauftrag: Kartellschadensersatz Paragraf 33a GWB: prüft die einschlägigen Voraussetzungen, Dokumente, Risiken und Ausnahmen. Markt, Verhalten, Beteiligte, Schwelle, Effekt, Effizienzrechtfertigung, Verfahren, Dawn Raid/Leniency und Schadensersatz getrennt ordnen. Erzeuge eine konkrete Prüf- oder Entscheidungsmatrix mit Norm, Tatbestand, Beleg, Einwand, Risikoampel und nächstem Schritt; Anschluss-Skills nur bei echter Vertiefung nennen.
+Lieferstück: Fachvotum zu Kartellschadensersatz Paragraf 33a GWB mit Tatbestandsmerkmalen, Aktenfundstellen, Beweislast, stärkster Gegenposition, Risiko und ausformulierter Rechtsfolge.
 
-### 16.4. Organhaftung und Kartellrecht
+### 16.4. Internationale Kartellrechtsjurisdiktionen
+
+Bearbeitungsauftrag: Bestimme zuerst betroffene Staaten, Umsatz- oder Transaktionsbezug, Verhalten, Vollzugszeitpunkt und gewünschten Behördenkontakt. Nach der Vertiefung unmittelbar das Arbeitsprodukt erstellen und nur entscheidungserhebliche Lücken nachfragen. Liefere eine Jurisdiktionsmatrix mit Behörde, Rechtsgrundlage, Schwelle oder Anknüpfung, Frist, Vollzugsverbot, Formular, Sprache, lokalem Beratungsbedarf und offenem Quellencheck.
+Prüfschritte: Schwellen, Behördenzuständigkeit und Formulare werden vor Verwendung aus Primärquellen aktualisiert.
+Lieferstück: Fachvotum zu Internationale Kartellrechtsjurisdiktionen mit Tatbestandsmerkmalen, Aktenfundstellen, Beweislast, stärkster Gegenposition, Risiko und ausformulierter Rechtsfolge.
+
+### 16.5. Organhaftung und Kartellrecht
 
 Bearbeitungsauftrag: Bearbeite Organhaftung und Kartellrecht: markt, Beteiligte, Verhalten, Zweck oder Wirkung, Beleg, Rechtfertigung, Schaden und Bußgeldrisiko zusammenführen. Zerlege Anspruchsgrund, Pflichtenkreis, Pflichtverletzung, Zurechnung, Kausalität und Schaden; ordne Einwendungen, Mitverantwortung, Verjährung, Beweislast, Versicherung und jede bezifferte Rechtsfolge den konkreten Aktenbelegen zu.
 Lieferstück: gewichtete Prüfmatrix mit Tatbestandsmerkmalen, Fundstellen, Gegenposition, Beweislast, Risiko und Empfehlung.
 
-### 16.5. Art 101 AEUV Tatbestand Vereinbarung Beschluss abgestimmte Verhaltensweise
+### 16.6. Art 101 AEUV Tatbestand Vereinbarung Beschluss abgestimmte Verhaltensweise
 
 Bearbeitungsauftrag: Erzeuge eine konkrete Prüf- oder Entscheidungsmatrix mit Norm, Tatbestand, Beleg, Einwand, Risikoampel und nächstem Schritt; Anschluss-Skills nur bei echter Vertiefung nennen. Welche Tatsachen sind sicher, welche sind streitig und welche Annahmen müssen sichtbar markiert werden? Welche live zu prüfenden Normen, Behördenhinweise oder Formulare tragen das Ergebnis?
 Lieferstück: verhandlungsfähige Fassung mit Ausgangstext, Änderung, Begründung, Rückfallposition und Vollzugscheck.
 
-### 16.6. EU-Fusionskontrolle FKVO Zuständigkeit
+### 16.7. EU-Fusionskontrolle FKVO Zuständigkeit
 
 Bearbeitungsauftrag: Einordnen: Rolle, Ziel, Verfahrensstand, Vertragstyp, Behörde/Gericht, Frist und Risiken festhalten. Tatbestand in Elemente zerlegen: Jedes Tatbestandsmerkmal einzeln prüfen; unklare Tatsachen als [offen: .] markieren. Belege führen: Für jede relevante Behauptung Dokument, Datum, Absender, Anlage, Registerfund oder Quelle notieren.
 Lieferstück: Kontrollvermerk zu EU-Fusionskontrolle FKVO Zuständigkeit mit Pflicht, Ist-Nachweis, Abweichung, Risiko, Verantwortlichem, Frist und Freigabe.
 
-### 16.7. EuGH-Rechtsprechung — Leitentscheidungen zur Marktdefinition
+### 16.8. EuGH-Rechtsprechung — Leitentscheidungen zur Marktdefinition
 
 Bearbeitungsauftrag: Vor Verwendung im Schriftsatz immer über curia.europa.eu Volltext und Rn. nachschlagen. 6/72 (Continental Can / Kommission): Erstmalige Anerkennung der Marktdefinition als Voraussetzung für Artikel 102 AEUV-Anwendung. Drei getrennte Märkte für Fleischkonserven, Fischwaren und Metalldeckel.
 Lieferstück: Fachvotum zu EuGH-Rechtsprechung — Leitentscheidungen zur Marktdefinition mit Tatbestandsmerkmalen, Aktenfundstellen, Beweislast, stärkster Gegenposition, Risiko und ausformulierter Rechtsfolge.
 
-### 16.8. Evidenz-Qualitätsbewertung
+### 16.9. Evidenz-Qualitätsbewertung
 
 Bearbeitungsauftrag: Die EU-Bekanntmachung 2024 unterscheidet zwischen quantitativen und qualitativen Belegen und verlangt eine kohärente, vollständige Darstellung. Warenkorbanalysen (werden Produkte zusammen oder alternativ gekauft?). Kundenbefragungen zu Wechselabsichten (Diversion Surveys).
 Prüfschritte: Eine Marktabgrenzung ist nur so stark wie die sie stützenden Belege; Qualität: Sehr hoch — spiegeln tatsächliche Geschäftssicht wider; Marktanalysen für Investoren / Vorstand; Produktentwicklungs-Strategien (zeigen wahrgenommene Substitute); Preissetzungsdokumente (wer wird als Preisreferenz genutzt?).
 Lieferstück: Fachvotum zu Evidenz-Qualitätsbewertung mit Tatbestandsmerkmalen, Aktenfundstellen, Beweislast, stärkster Gegenposition, Risiko und ausformulierter Rechtsfolge.
 
-### 16.9. Algorithmic Collusion und algorithmische Systeme Pricing
+### 16.10. Algorithmic Collusion und algorithmische Systeme Pricing
 
 Bearbeitungsauftrag: Bearbeite Algorithmic Collusion und algorithmische Systeme Pricing: markt, Beteiligte, Verhalten, Zweck oder Wirkung, Beleg, Rechtfertigung, Schaden und Bußgeldrisiko zusammenführen. Verbinde den konkreten Aktenfund mit Tatbestandsmerkmal, Gegenposition, Beweislast, Rechtsfolge und dem nächsten vollständig ausformulierten Arbeitsprodukt.
 Lieferstück: Fachvotum zu Algorithmic Collusion und algorithmische Systeme Pricing mit Tatbestandsmerkmalen, Aktenfundstellen, Beweislast, stärkster Gegenposition, Risiko und ausformulierter Rechtsfolge.
 
-### 16.10. Alleinvertrieb Kundengruppen Gebietsschutz
+### 16.11. Alleinvertrieb Kundengruppen Gebietsschutz
 
 Bearbeitungsauftrag: Welche Dokumente, Zahlen, Registerdaten, Bescheide, Verträge oder Korrespondenz liegen vor? Welche Tatsachen sind sicher, welche sind streitig und welche Annahmen müssen sichtbar markiert werden? Welche live zu prüfenden Normen, Behördenhinweise oder Formulare tragen das Ergebnis?
 Lieferstück: Fachvotum zu Alleinvertrieb Kundengruppen Gebietsschutz mit Tatbestandsmerkmalen, Aktenfundstellen, Beweislast, stärkster Gegenposition, Risiko und ausformulierter Rechtsfolge.
 
-### 16.11. Cluster- und Systemmärkte
+### 16.12. Cluster- und Systemmärkte
 
 Bearbeitungsauftrag: Behörde oder Gegenseite argumentiert mit Cluster-Markt oder Aftermarkt-Doktrin oder Mandant will dies nutzen. Prüfe Cluster-Maerkte Bündelung nicht-substitutiver Produkte und Systemmaerkte Primärmarkt plus Aftermarkt. Output Marktdefinitions-Memo mit Cluster-Analyse und Angreifbarkeits-Risiko.
 Lieferstück: Fachvotum zu Cluster- und Systemmärkte mit Tatbestandsmerkmalen, Aktenfundstellen, Beweislast, stärkster Gegenposition, Risiko und ausformulierter Rechtsfolge.
-
-### 16.12. Cross-Border Evidence Sharing
-
-Bearbeitungsauftrag: Bearbeite Cross-Border Evidence Sharing: markt, Beteiligte, Verhalten, Zweck oder Wirkung, Beleg, Rechtfertigung, Schaden und Bußgeldrisiko zusammenführen. Verbinde den konkreten Aktenfund mit Tatbestandsmerkmal, Gegenposition, Beweislast, Rechtsfolge und dem nächsten vollständig ausformulierten Arbeitsprodukt.
-Lieferstück: Fachvotum zu Cross-Border Evidence Sharing mit Tatbestandsmerkmalen, Aktenfundstellen, Beweislast, stärkster Gegenposition, Risiko und ausformulierter Rechtsfolge.

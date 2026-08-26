@@ -1,6 +1,6 @@
 ---
 name: energierecht-erstpruefung-und-mandatsziel
-description: "Wenn es um Energierecht: Erstprüfung, Rollenklärung und Mandatsziel in Energierecht geht: klärt Rolle, Ziel, Frist, Unterlagen und den passenden nächsten Fachskill; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Energierecht: Erstprüfung, Rollenklärung und Mandatsziel: routet Rolle, Frist, Unterlagen und Fachschritt; Ergebnis: Tatbestands- oder Anspruchsmatrix."
 ---
 
 # Energierecht: Erstprüfung, Rollenklärung und Mandatsziel

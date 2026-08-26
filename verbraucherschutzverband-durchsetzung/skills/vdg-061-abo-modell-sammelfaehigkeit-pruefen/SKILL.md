@@ -1,6 +1,6 @@
 ---
 name: vdg-061-abo-modell-sammelfaehigkeit-pruefen
-description: "Wenn es um Abo Modell Sammelfaehigkeit Pruefen in Verbraucherschutzverband Durchsetzung geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Abo Modell Sammelfähigkeit Prüfen: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Abo Modell Sammelfaehigkeit Pruefen

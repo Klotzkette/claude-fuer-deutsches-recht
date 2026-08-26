@@ -1,6 +1,6 @@
 ---
 name: fakultaetsrat-kompetenzen-forschungsdaten
-description: "Wenn es um Fakultätsrat und Kompetenzen in Hochschulrecht der Bundesländer geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Fakultätsrat und Kompetenzen: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Fakultätsrat und Kompetenzen

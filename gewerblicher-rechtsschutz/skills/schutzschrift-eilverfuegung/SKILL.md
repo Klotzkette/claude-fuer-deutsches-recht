@@ -1,6 +1,6 @@
 ---
 name: schutzschrift-eilverfuegung
-description: "Wenn es um Schutzschrift gegen Eilverfügung in Plugin: Gewerblicher Rechtsschutz geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Schutzschrift gegen Eilverfügung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Schutzschrift gegen Eilverfügung

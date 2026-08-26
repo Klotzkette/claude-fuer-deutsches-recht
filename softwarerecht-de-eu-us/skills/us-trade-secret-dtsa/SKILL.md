@@ -1,6 +1,6 @@
 ---
 name: us-trade-secret-dtsa
-description: "Wenn es um US Trade Secret DTSA Software in Softwarerecht Deutschland/EU/International/USA geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen."
+description: "Für US Trade Secret DTSA Software: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # US Trade Secret DTSA Software

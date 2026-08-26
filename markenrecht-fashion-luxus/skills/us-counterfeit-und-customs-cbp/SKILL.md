@@ -1,6 +1,6 @@
 ---
 name: us-counterfeit-und-customs-cbp
-description: "Wenn es um US Counterfeit Enforcement und CBP Recordation in markenrecht-fashion-luxus geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für US Counterfeit Enforcement und CBP Recordation: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # US Counterfeit Enforcement und CBP Recordation

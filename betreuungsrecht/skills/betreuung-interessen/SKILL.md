@@ -1,6 +1,6 @@
 ---
 name: betreuung-interessen
-description: "Wenn es um Betreuung: Mehrparteienkonflikt und Interessenmatrix in Betreuungsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. Auswahlstichwort: Betreuung Interessen; Arbeitsfeld: Betreuungsrecht."
+description: "Für Betreuung: Mehrparteienkonflikt und Interessenmatrix: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Schnittstellenkarte mit Zuständigkeits- und Nachweisfragen. Fachgebiet: Betreuungsrecht. Route: betreuung-interessen."
 ---
 
 # Betreuung: Mehrparteienkonflikt und Interessenmatrix

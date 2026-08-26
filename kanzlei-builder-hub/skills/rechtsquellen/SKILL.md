@@ -1,6 +1,6 @@
 ---
 name: rechtsquellen
-description: "Wenn es um Rechtsquellen: Compliance-Dokumentation und Aktenvermerk in Kanzlei-Builder-Hub geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Tatbestands- oder Anspruchsmatrix mit Gegenargumenten."
+description: "Für Rechtsquellen: Compliance-Dokumentation und Aktenvermerk: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Rechtsquellen: Compliance-Dokumentation und Aktenvermerk

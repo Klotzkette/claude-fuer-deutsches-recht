@@ -1,6 +1,6 @@
 ---
 name: private-enforcement-rechtsabteilung
-description: "Wenn es um Private Enforcement Schadensersatz Intake in Kartellrecht — Marktabgrenzungsprüfung geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Private Enforcement Schadensersatz Intake: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Private Enforcement Schadensersatz Intake

@@ -1,6 +1,6 @@
 ---
 name: handelsverbot-unlawful
-description: "Wenn es um Insiderhandelsverbot nach Art. 14 MAR in Insiderrecht Compliance geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Insiderhandelsverbot nach Art. 14 MAR: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Insiderhandelsverbot nach Art. 14 MAR

@@ -1,6 +1,6 @@
 ---
 name: anpassen
-description: "Wenn es um Customize – Praxisprofil anpassen in Datenschutzrecht geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen."
+description: "Für Customize – Praxisprofil anpassen: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Customize – Praxisprofil anpassen

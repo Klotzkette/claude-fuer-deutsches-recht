@@ -1,6 +1,6 @@
 ---
 name: klausel-mindestlizenzen-meldungen-audit
-description: "Wenn es um Klausel Mindestlizenzen, Meldungen, Audit in Lizenzvertragsersteller geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
+description: "Für Klausel Mindestlizenzen, Meldungen, Audit: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Klausel Mindestlizenzen, Meldungen, Audit

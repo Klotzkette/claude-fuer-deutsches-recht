@@ -1,6 +1,6 @@
 ---
 name: amtsangemessene-alimentation
-description: "Wenn es um Amtsangemessene Alimentation in Beamtenrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Amtsangemessene Alimentation: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Amtsangemessene Alimentation

@@ -1,6 +1,6 @@
 ---
 name: identitaetspruefung-ausweis-rechtsprechungscheck
-description: "Wenn es um Identitaetspruefung Ausweis Rechtsprechungscheck in Berufsrecht Notare geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Gegenprüfung mit Fehler-, Beweis- und Fristencheck."
+description: "Für Identitätsprüfung Ausweis Rechtsprechungscheck: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Tatbestands- oder Anspruchsmatrix."
 ---
 
 # Notare: identitaetspruefung ausweis - Rechtsprechungscheck, stärkste Gegenansicht und Red-Team-Korrektur

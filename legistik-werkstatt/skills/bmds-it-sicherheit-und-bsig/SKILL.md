@@ -1,6 +1,6 @@
 ---
 name: bmds-it-sicherheit-und-bsig
-description: "Wenn es um IT-Sicherheit (BSIG) (BMDS) in Legistik-Werkstatt geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen. Auswahlstichwort: Bmds It Sicherheit Und Bsig; Arbeitsfeld: Legistik-Werkstatt."
+description: "Für IT-Sicherheit (BSIG) (BMDS): ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt. Fachgebiet: Legistik-Werkstatt. Route: bmds-it-sicherheit-und-bsig."
 ---
 
 # IT-Sicherheit (BSIG) (BMDS)

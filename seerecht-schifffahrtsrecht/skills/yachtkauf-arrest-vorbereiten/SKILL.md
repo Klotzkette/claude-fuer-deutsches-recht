@@ -1,6 +1,6 @@
 ---
 name: yachtkauf-arrest-vorbereiten
-description: "Wenn es um Yachtkauf – Arrest vorbereiten in See- und Schifffahrtsrecht geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Yachtkauf – Arrest vorbereiten: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Yachtkauf – Arrest vorbereiten

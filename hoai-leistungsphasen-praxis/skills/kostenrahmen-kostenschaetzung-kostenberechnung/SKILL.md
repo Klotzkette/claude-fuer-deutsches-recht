@@ -1,6 +1,6 @@
 ---
 name: kostenrahmen-kostenschaetzung-kostenberechnung
-description: "Wenn es um HOAI Querschnitt: Vergleicht kostenermittlungsstufen und warnpflichten in HOAI Leistungsphasen Praxis geht: rechnet Schwellen, Beträge, Varianten und Kontrollannahmen durch; liefert eine Berechnungstabelle mit Schwellen, Annahmen und Kontrollfragen."
+description: "Für HOAI Querschnitt: Vergleicht kostenermittlungsstufen und warnpflichten: rechnet Beträge, Schwellen und Varianten; Ergebnis: Berechnungstabelle mit Annahmen und Kontrollfragen."
 ---
 
 # HOAI Querschnitt: Vergleicht kostenermittlungsstufen und warnpflichten

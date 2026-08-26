@@ -1,6 +1,6 @@
 ---
 name: treuhand-parteivermoegen-vermoegensgesetz
-description: "Wenn es um Treuhand Zuordnung Rekonstruieren in Einigungsvertrag und Vermögensrecht geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen."
+description: "Für Treuhand Zuordnung Rekonstruieren: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Schnittstellenkarte mit Zuständigkeits- und Nachweisfragen."
 ---
 
 # Treuhand Zuordnung Rekonstruieren

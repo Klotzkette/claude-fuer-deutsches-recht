@@ -1,6 +1,6 @@
 ---
 name: geschaeftsgeheimnis-geschgehg
-description: "Wenn es um Geschäftsgeheimnis Geschgehg in Hinweisgeberschutz, Meldestellen und NDA-Konflikte geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Geschäftsgeheimnis Geschgehg: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Geschäftsgeheimnis Geschgehg

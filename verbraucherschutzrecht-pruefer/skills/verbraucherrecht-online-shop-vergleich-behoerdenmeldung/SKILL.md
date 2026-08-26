@@ -1,6 +1,6 @@
 ---
 name: verbraucherrecht-online-shop-vergleich-behoerdenmeldung
-description: "Wenn es um Online Shop Vergleich Vorschlagen in Verbraucherschutzrecht Prüfer geht: entwickelt Verhandlungsziel, Vergleichskorridor und Eskalationspfad; liefert eine Verhandlungs- oder Eskalationslinie mit Optionen."
+description: "Für Online Shop Vergleich Vorschlagen: entwickelt Ziel, Vergleich und Eskalation; Ergebnis: Verhandlungs- oder Eskalationslinie."
 ---
 
 # Online Shop Vergleich Vorschlagen

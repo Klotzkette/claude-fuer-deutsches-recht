@@ -1,6 +1,6 @@
 ---
 name: creator-fonds-jahresabschluss-risiken
-description: "Wenn es um Influencer-Recht: Creator-Fonds und Plattformauszahlung in Influencer-Recht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen."
+description: "Für Influencer-Recht: Creator-Fonds und Plattformauszahlung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Influencer-Recht: Creator-Fonds und Plattformauszahlung

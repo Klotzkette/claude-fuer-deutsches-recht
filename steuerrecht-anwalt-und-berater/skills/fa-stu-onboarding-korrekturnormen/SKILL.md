@@ -1,6 +1,6 @@
 ---
 name: fa-stu-onboarding-korrekturnormen
-description: "Wenn es um Korrektur von Steuerbescheiden — Paragrafen 129 164 165 172 173 174 175 AO im Ueberblick in Steuerrecht – Steuerberater und Anwälte geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Korrektur von Steuerbescheiden — Paragrafen 129 164 165 172 173 174 175 AO im Überblick: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Tatbestands- oder Anspruchsmatrix. Fachgebiet: Steuerrecht – Steuerberater und Anwälte. Route: fa-stu-onboarding-korrekturnormen."
 ---
 
 # Korrektur von Steuerbescheiden — §§ 129 164 165 172 173 174 175 AO im Ueberblick

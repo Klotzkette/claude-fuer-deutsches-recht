@@ -7,20 +7,20 @@ Diese Vollprüfung enthält top-15 von 59 Skills des Plugins `vereinsrecht-verei
 ## Inhaltsverzeichnis
 
 1. **juristischer-argumentationskern** — Schaltet sich ein, wenn in Vereinsrecht Vereinsmanager ein juristisches Arbeitsprodukt tragfähig begründet werden muss; …
-2. **kaltstart-triage** — Wenn es um Vereinsrecht — Allgemein in Vereinsrecht und Vereinsmanager geht: klärt Rolle, Ziel, Frist, Unterlagen und de…
-3. **satzungszweck-gemeinnuetzigkeit** — Wenn es um Satzungszweck und Gemeinnützigkeit in Vereinsrecht und Vereinsmanager geht: ordnet Sachverhalt, Norm, Beweisl…
-4. **protokoll-mitgliederversammlung** — Wenn es um Protokoll Mitgliederversammlung in Vereinsrecht und Vereinsmanager geht: ordnet Sachverhalt, Norm, Beweislast…
-5. **gruendung-nicht-eingetragen** — Wenn es um Nicht eingetragener Verein in Vereinsrecht und Vereinsmanager geht: ordnet Sachverhalt, Norm, Beweislast, Geg…
-6. **kegelclub-freizeitverein-verein-kulturverein** — Wenn es um Kegelclub/Freizeitverein in Vereinsrecht und Vereinsmanager geht: ordnet Sachverhalt, Norm, Beweislast, Gegen…
-7. **tagesordnung-erstellen** — Wenn es um Tagesordnung erstellen in Vereinsrecht und Vereinsmanager geht: ordnet Sachverhalt, Norm, Beweislast, Gegenar…
-8. **satzung-grundstruktur** — Wenn es um Satzung Grundstruktur in Vereinsrecht und Vereinsmanager geht: ordnet Sachverhalt, Norm, Beweislast, Gegenarg…
-9. **vorstand-rollen** — Wenn es um Vorstand und Rollen in Vereinsrecht und Vereinsmanager geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargum…
-10. **ruecklagen-mittelverwendung-rundbrief** — Wenn es um Rücklagen und Mittelverwendung in Vereinsrecht und Vereinsmanager geht: erstellt den passenden Entwurf aus Sa…
-11. **mitgliedschaft-beendigung** — Wenn es um Austritt, Streichung, Ausschluss in Vereinsrecht und Vereinsmanager geht: ordnet Akteninhalt, Belege, Lücken …
-12. **ehrenamtspauschale-uebungsleiter** — Wenn es um Ehrenamtspauschale und Übungsleiter in Vereinsrecht und Vereinsmanager geht: ordnet Akteninhalt, Belege, Lück…
-13. **sportverein** — Wenn es um Sportverein in Vereinsrecht und Vereinsmanager geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und…
-14. **gemeinnuetzigkeit-antrag** — Wenn es um Gemeinnützigkeit Antrag in Vereinsrecht und Vereinsmanager geht: erstellt den passenden Entwurf aus Sachverha…
-15. **rundbrief-mitglieder** — Wenn es um Rundbrief an Mitglieder in Vereinsrecht und Vereinsmanager geht: erstellt den passenden Entwurf aus Sachverha…
+2. **kaltstart-triage** — Für Vereinsrecht — Allgemein: routet Rolle, Frist, Unterlagen und Fachschritt; Ergebnis: Prüfprodukt mit Risiko und näch…
+3. **geschaeftsordnung-vorstand-gruendung** — Für Geschäftsordnung Vorstand: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem …
+4. **satzungsaenderung-satzungszweck** — Für Satzungsänderung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt. …
+5. **umlaufbeschluss** — Für Umlaufbeschluss: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt. F…
+6. **ruecklagen-mittelverwendung-rundbrief** — Für Rücklagen und Mittelverwendung: erstellt Entwurf mit Antrag, Beweis und Anlagen; Ergebnis: Schriftsatz mit Begründun…
+7. **ehrenamtspauschale-uebungsleiter** — Für Ehrenamtspauschale und Übungsleiter: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und…
+8. **satzungszweck-gemeinnuetzigkeit** — Für Satzungszweck und Gemeinnützigkeit: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und …
+9. **hybride-virtuelle-versammlung** — Für Hybride und virtuelle Versammlung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und n…
+10. **spenden-zuwendungsbestaetigung-sportverein** — Für Spenden und Zuwendungsbestätigung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und n…
+11. **mitgliederversammlung-einberufung** — Für Mitgliederversammlung einberufen: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nä…
+12. **mitgliedschaft-beendigung** — Für Austritt, Streichung, Ausschluss: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nä…
+13. **gemeinnuetzigkeit-antrag** — Für Gemeinnützigkeit Antrag: erstellt Entwurf mit Antrag, Beweis und Anlagen; Ergebnis: Schriftsatz mit Begründungs- und…
+14. **protokoll-mitgliederversammlung** — Für Protokoll Mitgliederversammlung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und näc…
+15. **rundbrief-mitglieder** — Für Rundbrief an Mitglieder: erstellt Entwurf mit Antrag, Beweis und Anlagen; Ergebnis: Schriftsatz mit Begründungs- und…
 
 ---
 
@@ -141,7 +141,7 @@ Ausgangspunkt für dieses Plugin: Anspruchsteller für anspruchsbegründende Tat
 
 ## Skill: `kaltstart-triage`
 
-_Wenn es um Vereinsrecht — Allgemein in Vereinsrecht und Vereinsmanager geht: klärt Rolle, Ziel, Frist, Unterlagen und den passenden nächsten Fachskill; liefert einen Einreichungsplan mit Form-, Portal- und Nachweischeck._
+_Für Vereinsrecht — Allgemein: routet Rolle, Frist, Unterlagen und Fachschritt; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt._
 
 # Vereinsrecht — Allgemein
 
@@ -198,53 +198,11 @@ Erst verstehen, dann gezielt antworten. Keine unnötigen Tatsachen, Wertungen, G
 
 ---
 
-## Skill: `satzungszweck-gemeinnuetzigkeit`
+## Skill: `geschaeftsordnung-vorstand-gruendung`
 
-_Wenn es um Satzungszweck und Gemeinnützigkeit in Vereinsrecht und Vereinsmanager geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt._
+_Für Geschäftsordnung Vorstand: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt. Fachgebiet: Vereinsrecht und Vereinsmanager._
 
-# Satzungszweck und Gemeinnützigkeit
-
-## Arbeitsweg
-
-- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
-- Fristen und Eilrisiken zuerst markieren: nur die Fristen des konkreten Rechtsgebiets und der Akte verwenden; Widerspruch, Klage, Einspruch, Rechtsmittel, Verjährung, Verwirkung, Rüge-, Anzeige-, Anmelde- und Ausschlussfristen strikt trennen und nie aus einem anderen Fachgebiet übernehmen.
-- Tragende Normen verifizieren: BGB §§ 21-79, insbesondere §§ 26, 27, 32, 33, 40, 41, 54, 55, 57-59, 67, 71, AO §§ 51-68, insbesondere §§ 52, 55, 58, 60a, 63, 64, ZPO § 50, FamFG/Registerrecht und DSGVO nur fallbezogen live prüfen; keine Modellwissen-Zitate.
-- Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
-- Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
-
-## Einstieg
-Wenn ein Dokument vorliegt, lies zuerst das Dokument. Frage höchstens vier Punkte nach:
-
-1. Welche Rolle hat die betroffene Person oder Organisation?
-2. Welche Frist, welcher Termin oder welche Sanktion steht im Raum?
-3. Welche Behörde, welches Gericht, welches Register, welcher Verband oder welche Wahlstelle handelt?
-4. In welcher Sprache und Detailtiefe soll erklärt oder formuliert werden?
-
-## Arbeitsworkflow
-1. **Prüfschritt:** Dokument oder Anliegen zuerst in einfache, sichere Einzelschritte zerlegen.
-2. **Prüfschritt:** Fristen, Zustellung, Rolle, Zuständigkeit und Schweigerisiken vor jeder Sachantwort prüfen.
-3. **Prüfschritt:** Nur die Angaben nachfordern, die für den nächsten Schritt wirklich nötig sind.
-4. **Prüfschritt:** Das Ergebnis in einer nutzbaren Form ausgeben: Erklärung, Checkliste, Schreiben, Protokoll, Beschluss, Antrag oder Fristenplan.
-
-## Vorsichtsregel
-Erst verstehen, dann gezielt antworten. Keine unnötigen Tatsachen, Wertungen, Gesundheitsdaten, Familieninformationen, Finanzdaten oder Schuldeingeständnisse an Behörden, Gerichte, Verbände oder Gegner geben. Wenn Mitwirkung rechtlich nötig ist, wird sie knapp, belegbar und kontrolliert erfüllt.
-
-## Quellen- und Aktualitätsregel
-- BGB §§ 21-79, insbesondere § 32 BGB für Versammlung/Beschluss
-- Vereinsregisterverordnung/FamFG/Registergericht live prüfen
-- AO §§ 51-68 bei Gemeinnützigkeit
-- Satzung und Vereinsordnungen als Primärquelle
-- Landes-/Kommunalrecht je Veranstaltung oder Fördermittel live prüfen
-- Bei Landesrecht, Kommunalrecht, Satzungen, Wahlvorschriften, Formularen, Fristen oder Behördenpraxis immer Live-Check markieren, wenn keine aktuelle amtliche Quelle vorliegt.
-- Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate; Rechtsprechung nur verifiziert mit Gericht, Datum, Aktenzeichen und frei prüfbarem Link.
-
----
-
-## Skill: `protokoll-mitgliederversammlung`
-
-_Wenn es um Protokoll Mitgliederversammlung in Vereinsrecht und Vereinsmanager geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt._
-
-# Protokoll Mitgliederversammlung
+# Geschäftsordnung Vorstand
 
 ## Arbeitsweg
 
@@ -282,53 +240,11 @@ Erst verstehen, dann gezielt antworten. Keine unnötigen Tatsachen, Wertungen, G
 
 ---
 
-## Skill: `gruendung-nicht-eingetragen`
+## Skill: `satzungsaenderung-satzungszweck`
 
-_Wenn es um Nicht eingetragener Verein in Vereinsrecht und Vereinsmanager geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt._
+_Für Satzungsänderung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt. Fachgebiet: Vereinsrecht und Vereinsmanager._
 
-# Nicht eingetragener Verein
-
-## Arbeitsweg
-
-- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
-- Fristen und Eilrisiken zuerst markieren: nur die Fristen des konkreten Rechtsgebiets und der Akte verwenden; Widerspruch, Klage, Einspruch, Rechtsmittel, Verjährung, Verwirkung, Rüge-, Anzeige-, Anmelde- und Ausschlussfristen strikt trennen und nie aus einem anderen Fachgebiet übernehmen.
-- Tragende Normen verifizieren: BGB §§ 21-79, insbesondere §§ 26, 27, 32, 33, 40, 41, 54, 55, 57-59, 67, 71, AO §§ 51-68, insbesondere §§ 52, 55, 58, 60a, 63, 64, ZPO § 50, FamFG/Registerrecht und DSGVO nur fallbezogen live prüfen; keine Modellwissen-Zitate.
-- Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
-- Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
-
-## Einstieg
-Wenn ein Dokument vorliegt, lies zuerst das Dokument. Frage höchstens vier Punkte nach:
-
-1. Welche Rolle hat die betroffene Person oder Organisation?
-2. Welche Frist, welcher Termin oder welche Sanktion steht im Raum?
-3. Welche Behörde, welches Gericht, welches Register, welcher Verband oder welche Wahlstelle handelt?
-4. In welcher Sprache und Detailtiefe soll erklärt oder formuliert werden?
-
-## Arbeitsworkflow
-1. **Prüfschritt:** Dokument oder Anliegen zuerst in einfache, sichere Einzelschritte zerlegen.
-2. **Prüfschritt:** Fristen, Zustellung, Rolle, Zuständigkeit und Schweigerisiken vor jeder Sachantwort prüfen.
-3. **Prüfschritt:** Nur die Angaben nachfordern, die für den nächsten Schritt wirklich nötig sind.
-4. **Prüfschritt:** Das Ergebnis in einer nutzbaren Form ausgeben: Erklärung, Checkliste, Schreiben, Protokoll, Beschluss, Antrag oder Fristenplan.
-
-## Vorsichtsregel
-Erst verstehen, dann gezielt antworten. Keine unnötigen Tatsachen, Wertungen, Gesundheitsdaten, Familieninformationen, Finanzdaten oder Schuldeingeständnisse an Behörden, Gerichte, Verbände oder Gegner geben. Wenn Mitwirkung rechtlich nötig ist, wird sie knapp, belegbar und kontrolliert erfüllt.
-
-## Quellen- und Aktualitätsregel
-- BGB §§ 21-79, insbesondere § 32 BGB für Versammlung/Beschluss
-- Vereinsregisterverordnung/FamFG/Registergericht live prüfen
-- AO §§ 51-68 bei Gemeinnützigkeit
-- Satzung und Vereinsordnungen als Primärquelle
-- Landes-/Kommunalrecht je Veranstaltung oder Fördermittel live prüfen
-- Bei Landesrecht, Kommunalrecht, Satzungen, Wahlvorschriften, Formularen, Fristen oder Behördenpraxis immer Live-Check markieren, wenn keine aktuelle amtliche Quelle vorliegt.
-- Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate; Rechtsprechung nur verifiziert mit Gericht, Datum, Aktenzeichen und frei prüfbarem Link.
-
----
-
-## Skill: `kegelclub-freizeitverein-verein-kulturverein`
-
-_Wenn es um Kegelclub/Freizeitverein in Vereinsrecht und Vereinsmanager geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt._
-
-# Kegelclub/Freizeitverein
+# Satzungsänderung
 
 ## Arbeitsweg
 
@@ -366,95 +282,11 @@ Erst verstehen, dann gezielt antworten. Keine unnötigen Tatsachen, Wertungen, G
 
 ---
 
-## Skill: `tagesordnung-erstellen`
+## Skill: `umlaufbeschluss`
 
-_Wenn es um Tagesordnung erstellen in Vereinsrecht und Vereinsmanager geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt._
+_Für Umlaufbeschluss: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt. Fachgebiet: Vereinsrecht und Vereinsmanager._
 
-# Tagesordnung erstellen
-
-## Arbeitsweg
-
-- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
-- Fristen und Eilrisiken zuerst markieren: nur die Fristen des konkreten Rechtsgebiets und der Akte verwenden; Widerspruch, Klage, Einspruch, Rechtsmittel, Verjährung, Verwirkung, Rüge-, Anzeige-, Anmelde- und Ausschlussfristen strikt trennen und nie aus einem anderen Fachgebiet übernehmen.
-- Tragende Normen verifizieren: BGB §§ 21-79, insbesondere §§ 26, 27, 32, 33, 40, 41, 54, 55, 57-59, 67, 71, AO §§ 51-68, insbesondere §§ 52, 55, 58, 60a, 63, 64, ZPO § 50, FamFG/Registerrecht und DSGVO nur fallbezogen live prüfen; keine Modellwissen-Zitate.
-- Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
-- Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
-
-## Einstieg
-Wenn ein Dokument vorliegt, lies zuerst das Dokument. Frage höchstens vier Punkte nach:
-
-1. Welche Rolle hat die betroffene Person oder Organisation?
-2. Welche Frist, welcher Termin oder welche Sanktion steht im Raum?
-3. Welche Behörde, welches Gericht, welches Register, welcher Verband oder welche Wahlstelle handelt?
-4. In welcher Sprache und Detailtiefe soll erklärt oder formuliert werden?
-
-## Arbeitsworkflow
-1. **Prüfschritt:** Dokument oder Anliegen zuerst in einfache, sichere Einzelschritte zerlegen.
-2. **Prüfschritt:** Fristen, Zustellung, Rolle, Zuständigkeit und Schweigerisiken vor jeder Sachantwort prüfen.
-3. **Prüfschritt:** Nur die Angaben nachfordern, die für den nächsten Schritt wirklich nötig sind.
-4. **Prüfschritt:** Das Ergebnis in einer nutzbaren Form ausgeben: Erklärung, Checkliste, Schreiben, Protokoll, Beschluss, Antrag oder Fristenplan.
-
-## Vorsichtsregel
-Erst verstehen, dann gezielt antworten. Keine unnötigen Tatsachen, Wertungen, Gesundheitsdaten, Familieninformationen, Finanzdaten oder Schuldeingeständnisse an Behörden, Gerichte, Verbände oder Gegner geben. Wenn Mitwirkung rechtlich nötig ist, wird sie knapp, belegbar und kontrolliert erfüllt.
-
-## Quellen- und Aktualitätsregel
-- BGB §§ 21-79, insbesondere § 32 BGB für Versammlung/Beschluss
-- Vereinsregisterverordnung/FamFG/Registergericht live prüfen
-- AO §§ 51-68 bei Gemeinnützigkeit
-- Satzung und Vereinsordnungen als Primärquelle
-- Landes-/Kommunalrecht je Veranstaltung oder Fördermittel live prüfen
-- Bei Landesrecht, Kommunalrecht, Satzungen, Wahlvorschriften, Formularen, Fristen oder Behördenpraxis immer Live-Check markieren, wenn keine aktuelle amtliche Quelle vorliegt.
-- Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate; Rechtsprechung nur verifiziert mit Gericht, Datum, Aktenzeichen und frei prüfbarem Link.
-
----
-
-## Skill: `satzung-grundstruktur`
-
-_Wenn es um Satzung Grundstruktur in Vereinsrecht und Vereinsmanager geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt._
-
-# Satzung Grundstruktur
-
-## Arbeitsweg
-
-- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
-- Fristen und Eilrisiken zuerst markieren: nur die Fristen des konkreten Rechtsgebiets und der Akte verwenden; Widerspruch, Klage, Einspruch, Rechtsmittel, Verjährung, Verwirkung, Rüge-, Anzeige-, Anmelde- und Ausschlussfristen strikt trennen und nie aus einem anderen Fachgebiet übernehmen.
-- Tragende Normen verifizieren: BGB §§ 21-79, insbesondere §§ 26, 27, 32, 33, 40, 41, 54, 55, 57-59, 67, 71, AO §§ 51-68, insbesondere §§ 52, 55, 58, 60a, 63, 64, ZPO § 50, FamFG/Registerrecht und DSGVO nur fallbezogen live prüfen; keine Modellwissen-Zitate.
-- Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
-- Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
-
-## Einstieg
-Wenn ein Dokument vorliegt, lies zuerst das Dokument. Frage höchstens vier Punkte nach:
-
-1. Welche Rolle hat die betroffene Person oder Organisation?
-2. Welche Frist, welcher Termin oder welche Sanktion steht im Raum?
-3. Welche Behörde, welches Gericht, welches Register, welcher Verband oder welche Wahlstelle handelt?
-4. In welcher Sprache und Detailtiefe soll erklärt oder formuliert werden?
-
-## Arbeitsworkflow
-1. **Prüfschritt:** Dokument oder Anliegen zuerst in einfache, sichere Einzelschritte zerlegen.
-2. **Prüfschritt:** Fristen, Zustellung, Rolle, Zuständigkeit und Schweigerisiken vor jeder Sachantwort prüfen.
-3. **Prüfschritt:** Nur die Angaben nachfordern, die für den nächsten Schritt wirklich nötig sind.
-4. **Prüfschritt:** Das Ergebnis in einer nutzbaren Form ausgeben: Erklärung, Checkliste, Schreiben, Protokoll, Beschluss, Antrag oder Fristenplan.
-
-## Vorsichtsregel
-Erst verstehen, dann gezielt antworten. Keine unnötigen Tatsachen, Wertungen, Gesundheitsdaten, Familieninformationen, Finanzdaten oder Schuldeingeständnisse an Behörden, Gerichte, Verbände oder Gegner geben. Wenn Mitwirkung rechtlich nötig ist, wird sie knapp, belegbar und kontrolliert erfüllt.
-
-## Quellen- und Aktualitätsregel
-- BGB §§ 21-79, insbesondere § 32 BGB für Versammlung/Beschluss
-- Vereinsregisterverordnung/FamFG/Registergericht live prüfen
-- AO §§ 51-68 bei Gemeinnützigkeit
-- Satzung und Vereinsordnungen als Primärquelle
-- Landes-/Kommunalrecht je Veranstaltung oder Fördermittel live prüfen
-- Bei Landesrecht, Kommunalrecht, Satzungen, Wahlvorschriften, Formularen, Fristen oder Behördenpraxis immer Live-Check markieren, wenn keine aktuelle amtliche Quelle vorliegt.
-- Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate; Rechtsprechung nur verifiziert mit Gericht, Datum, Aktenzeichen und frei prüfbarem Link.
-
----
-
-## Skill: `vorstand-rollen`
-
-_Wenn es um Vorstand und Rollen in Vereinsrecht und Vereinsmanager geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt._
-
-# Vorstand und Rollen
+# Umlaufbeschluss
 
 ## Arbeitsweg
 
@@ -494,7 +326,7 @@ Erst verstehen, dann gezielt antworten. Keine unnötigen Tatsachen, Wertungen, G
 
 ## Skill: `ruecklagen-mittelverwendung-rundbrief`
 
-_Wenn es um Rücklagen und Mittelverwendung in Vereinsrecht und Vereinsmanager geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik._
+_Für Rücklagen und Mittelverwendung: erstellt Entwurf mit Antrag, Beweis und Anlagen; Ergebnis: Schriftsatz mit Begründungs- und Anlagenlogik._
 
 # Rücklagen und Mittelverwendung
 
@@ -534,51 +366,9 @@ Erst verstehen, dann gezielt antworten. Keine unnötigen Tatsachen, Wertungen, G
 
 ---
 
-## Skill: `mitgliedschaft-beendigung`
-
-_Wenn es um Austritt, Streichung, Ausschluss in Vereinsrecht und Vereinsmanager geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt._
-
-# Austritt, Streichung, Ausschluss
-
-## Arbeitsweg
-
-- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
-- Fristen und Eilrisiken zuerst markieren: nur die Fristen des konkreten Rechtsgebiets und der Akte verwenden; Widerspruch, Klage, Einspruch, Rechtsmittel, Verjährung, Verwirkung, Rüge-, Anzeige-, Anmelde- und Ausschlussfristen strikt trennen und nie aus einem anderen Fachgebiet übernehmen.
-- Tragende Normen verifizieren: BGB §§ 21-79, insbesondere §§ 26, 27, 32, 33, 40, 41, 54, 55, 57-59, 67, 71, AO §§ 51-68, insbesondere §§ 52, 55, 58, 60a, 63, 64, ZPO § 50, FamFG/Registerrecht und DSGVO nur fallbezogen live prüfen; keine Modellwissen-Zitate.
-- Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
-- Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
-
-## Einstieg
-Wenn ein Dokument vorliegt, lies zuerst das Dokument. Frage höchstens vier Punkte nach:
-
-1. Welche Rolle hat die betroffene Person oder Organisation?
-2. Welche Frist, welcher Termin oder welche Sanktion steht im Raum?
-3. Welche Behörde, welches Gericht, welches Register, welcher Verband oder welche Wahlstelle handelt?
-4. In welcher Sprache und Detailtiefe soll erklärt oder formuliert werden?
-
-## Arbeitsworkflow
-1. **Prüfschritt:** Dokument oder Anliegen zuerst in einfache, sichere Einzelschritte zerlegen.
-2. **Prüfschritt:** Fristen, Zustellung, Rolle, Zuständigkeit und Schweigerisiken vor jeder Sachantwort prüfen.
-3. **Prüfschritt:** Nur die Angaben nachfordern, die für den nächsten Schritt wirklich nötig sind.
-4. **Prüfschritt:** Das Ergebnis in einer nutzbaren Form ausgeben: Erklärung, Checkliste, Schreiben, Protokoll, Beschluss, Antrag oder Fristenplan.
-
-## Vorsichtsregel
-Erst verstehen, dann gezielt antworten. Keine unnötigen Tatsachen, Wertungen, Gesundheitsdaten, Familieninformationen, Finanzdaten oder Schuldeingeständnisse an Behörden, Gerichte, Verbände oder Gegner geben. Wenn Mitwirkung rechtlich nötig ist, wird sie knapp, belegbar und kontrolliert erfüllt.
-
-## Quellen- und Aktualitätsregel
-- BGB §§ 21-79, insbesondere § 32 BGB für Versammlung/Beschluss
-- Vereinsregisterverordnung/FamFG/Registergericht live prüfen
-- AO §§ 51-68 bei Gemeinnützigkeit
-- Satzung und Vereinsordnungen als Primärquelle
-- Landes-/Kommunalrecht je Veranstaltung oder Fördermittel live prüfen
-- Bei Landesrecht, Kommunalrecht, Satzungen, Wahlvorschriften, Formularen, Fristen oder Behördenpraxis immer Live-Check markieren, wenn keine aktuelle amtliche Quelle vorliegt.
-- Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate; Rechtsprechung nur verifiziert mit Gericht, Datum, Aktenzeichen und frei prüfbarem Link.
-
----
-
 ## Skill: `ehrenamtspauschale-uebungsleiter`
 
-_Wenn es um Ehrenamtspauschale und Übungsleiter in Vereinsrecht und Vereinsmanager geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen._
+_Für Ehrenamtspauschale und Übungsleiter: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt._
 
 # Ehrenamtspauschale und Übungsleiter
 
@@ -628,11 +418,258 @@ Erst verstehen, dann gezielt antworten. Keine unnötigen Tatsachen, Wertungen, G
 
 ---
 
-## Skill: `sportverein`
+## Skill: `satzungszweck-gemeinnuetzigkeit`
 
-_Wenn es um Sportverein in Vereinsrecht und Vereinsmanager geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt._
+_Für Satzungszweck und Gemeinnützigkeit: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt._
 
-# Sportverein
+# Satzungszweck und Gemeinnützigkeit
+
+## Arbeitsweg
+
+- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
+- Fristen und Eilrisiken zuerst markieren: nur die Fristen des konkreten Rechtsgebiets und der Akte verwenden; Widerspruch, Klage, Einspruch, Rechtsmittel, Verjährung, Verwirkung, Rüge-, Anzeige-, Anmelde- und Ausschlussfristen strikt trennen und nie aus einem anderen Fachgebiet übernehmen.
+- Tragende Normen verifizieren: BGB §§ 21-79, insbesondere §§ 26, 27, 32, 33, 40, 41, 54, 55, 57-59, 67, 71, AO §§ 51-68, insbesondere §§ 52, 55, 58, 60a, 63, 64, ZPO § 50, FamFG/Registerrecht und DSGVO nur fallbezogen live prüfen; keine Modellwissen-Zitate.
+- Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
+- Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
+
+## Einstieg
+Wenn ein Dokument vorliegt, lies zuerst das Dokument. Frage höchstens vier Punkte nach:
+
+1. Welche Rolle hat die betroffene Person oder Organisation?
+2. Welche Frist, welcher Termin oder welche Sanktion steht im Raum?
+3. Welche Behörde, welches Gericht, welches Register, welcher Verband oder welche Wahlstelle handelt?
+4. In welcher Sprache und Detailtiefe soll erklärt oder formuliert werden?
+
+## Arbeitsworkflow
+1. **Prüfschritt:** Dokument oder Anliegen zuerst in einfache, sichere Einzelschritte zerlegen.
+2. **Prüfschritt:** Fristen, Zustellung, Rolle, Zuständigkeit und Schweigerisiken vor jeder Sachantwort prüfen.
+3. **Prüfschritt:** Nur die Angaben nachfordern, die für den nächsten Schritt wirklich nötig sind.
+4. **Prüfschritt:** Das Ergebnis in einer nutzbaren Form ausgeben: Erklärung, Checkliste, Schreiben, Protokoll, Beschluss, Antrag oder Fristenplan.
+
+## Vorsichtsregel
+Erst verstehen, dann gezielt antworten. Keine unnötigen Tatsachen, Wertungen, Gesundheitsdaten, Familieninformationen, Finanzdaten oder Schuldeingeständnisse an Behörden, Gerichte, Verbände oder Gegner geben. Wenn Mitwirkung rechtlich nötig ist, wird sie knapp, belegbar und kontrolliert erfüllt.
+
+## Quellen- und Aktualitätsregel
+- BGB §§ 21-79, insbesondere § 32 BGB für Versammlung/Beschluss
+- Vereinsregisterverordnung/FamFG/Registergericht live prüfen
+- AO §§ 51-68 bei Gemeinnützigkeit
+- Satzung und Vereinsordnungen als Primärquelle
+- Landes-/Kommunalrecht je Veranstaltung oder Fördermittel live prüfen
+- Bei Landesrecht, Kommunalrecht, Satzungen, Wahlvorschriften, Formularen, Fristen oder Behördenpraxis immer Live-Check markieren, wenn keine aktuelle amtliche Quelle vorliegt.
+- Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate; Rechtsprechung nur verifiziert mit Gericht, Datum, Aktenzeichen und frei prüfbarem Link.
+
+---
+
+## Skill: `hybride-virtuelle-versammlung`
+
+_Für Hybride und virtuelle Versammlung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt._
+
+# Hybride und virtuelle Versammlung
+
+## Arbeitsweg
+
+- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
+- Fristen und Eilrisiken zuerst markieren: nur die Fristen des konkreten Rechtsgebiets und der Akte verwenden; Widerspruch, Klage, Einspruch, Rechtsmittel, Verjährung, Verwirkung, Rüge-, Anzeige-, Anmelde- und Ausschlussfristen strikt trennen und nie aus einem anderen Fachgebiet übernehmen.
+- Tragende Normen verifizieren: BGB §§ 21-79, insbesondere §§ 26, 27, 32, 33, 40, 41, 54, 55, 57-59, 67, 71, AO §§ 51-68, insbesondere §§ 52, 55, 58, 60a, 63, 64, ZPO § 50, FamFG/Registerrecht und DSGVO nur fallbezogen live prüfen; keine Modellwissen-Zitate.
+- Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
+- Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
+
+## Einstieg
+Wenn ein Dokument vorliegt, lies zuerst das Dokument. Frage höchstens vier Punkte nach:
+
+1. Welche Rolle hat die betroffene Person oder Organisation?
+2. Welche Frist, welcher Termin oder welche Sanktion steht im Raum?
+3. Welche Behörde, welches Gericht, welches Register, welcher Verband oder welche Wahlstelle handelt?
+4. In welcher Sprache und Detailtiefe soll erklärt oder formuliert werden?
+
+## Arbeitsworkflow
+1. **Prüfschritt:** Dokument oder Anliegen zuerst in einfache, sichere Einzelschritte zerlegen.
+2. **Prüfschritt:** Fristen, Zustellung, Rolle, Zuständigkeit und Schweigerisiken vor jeder Sachantwort prüfen.
+3. **Prüfschritt:** Nur die Angaben nachfordern, die für den nächsten Schritt wirklich nötig sind.
+4. **Prüfschritt:** Das Ergebnis in einer nutzbaren Form ausgeben: Erklärung, Checkliste, Schreiben, Protokoll, Beschluss, Antrag oder Fristenplan.
+
+## Vorsichtsregel
+Erst verstehen, dann gezielt antworten. Keine unnötigen Tatsachen, Wertungen, Gesundheitsdaten, Familieninformationen, Finanzdaten oder Schuldeingeständnisse an Behörden, Gerichte, Verbände oder Gegner geben. Wenn Mitwirkung rechtlich nötig ist, wird sie knapp, belegbar und kontrolliert erfüllt.
+
+## Quellen- und Aktualitätsregel
+- BGB §§ 21-79, insbesondere § 32 BGB für Versammlung/Beschluss
+- Vereinsregisterverordnung/FamFG/Registergericht live prüfen
+- AO §§ 51-68 bei Gemeinnützigkeit
+- Satzung und Vereinsordnungen als Primärquelle
+- Landes-/Kommunalrecht je Veranstaltung oder Fördermittel live prüfen
+- Bei Landesrecht, Kommunalrecht, Satzungen, Wahlvorschriften, Formularen, Fristen oder Behördenpraxis immer Live-Check markieren, wenn keine aktuelle amtliche Quelle vorliegt.
+- Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate; Rechtsprechung nur verifiziert mit Gericht, Datum, Aktenzeichen und frei prüfbarem Link.
+
+---
+
+## Skill: `spenden-zuwendungsbestaetigung-sportverein`
+
+_Für Spenden und Zuwendungsbestätigung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt._
+
+# Spenden und Zuwendungsbestätigung
+
+## Arbeitsweg
+
+- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
+- Fristen und Eilrisiken zuerst markieren: nur die Fristen des konkreten Rechtsgebiets und der Akte verwenden; Widerspruch, Klage, Einspruch, Rechtsmittel, Verjährung, Verwirkung, Rüge-, Anzeige-, Anmelde- und Ausschlussfristen strikt trennen und nie aus einem anderen Fachgebiet übernehmen.
+- Tragende Normen verifizieren: BGB §§ 21-79, insbesondere §§ 26, 27, 32, 33, 40, 41, 54, 55, 57-59, 67, 71, AO §§ 51-68, insbesondere §§ 52, 55, 58, 60a, 63, 64, ZPO § 50, FamFG/Registerrecht und DSGVO nur fallbezogen live prüfen; keine Modellwissen-Zitate.
+- Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
+- Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
+
+## Einstieg
+Wenn ein Dokument vorliegt, lies zuerst das Dokument. Frage höchstens vier Punkte nach:
+
+1. Welche Rolle hat die betroffene Person oder Organisation?
+2. Welche Frist, welcher Termin oder welche Sanktion steht im Raum?
+3. Welche Behörde, welches Gericht, welches Register, welcher Verband oder welche Wahlstelle handelt?
+4. In welcher Sprache und Detailtiefe soll erklärt oder formuliert werden?
+
+## Arbeitsworkflow
+1. **Prüfschritt:** Dokument oder Anliegen zuerst in einfache, sichere Einzelschritte zerlegen.
+2. **Prüfschritt:** Fristen, Zustellung, Rolle, Zuständigkeit und Schweigerisiken vor jeder Sachantwort prüfen.
+3. **Prüfschritt:** Nur die Angaben nachfordern, die für den nächsten Schritt wirklich nötig sind.
+4. **Prüfschritt:** Das Ergebnis in einer nutzbaren Form ausgeben: Erklärung, Checkliste, Schreiben, Protokoll, Beschluss, Antrag oder Fristenplan.
+
+## Vorsichtsregel
+Erst verstehen, dann gezielt antworten. Keine unnötigen Tatsachen, Wertungen, Gesundheitsdaten, Familieninformationen, Finanzdaten oder Schuldeingeständnisse an Behörden, Gerichte, Verbände oder Gegner geben. Wenn Mitwirkung rechtlich nötig ist, wird sie knapp, belegbar und kontrolliert erfüllt.
+
+## Quellen- und Aktualitätsregel
+- BGB §§ 21-79, insbesondere § 32 BGB für Versammlung/Beschluss
+- Vereinsregisterverordnung/FamFG/Registergericht live prüfen
+- AO §§ 51-68 bei Gemeinnützigkeit
+- Satzung und Vereinsordnungen als Primärquelle
+- Landes-/Kommunalrecht je Veranstaltung oder Fördermittel live prüfen
+- Bei Landesrecht, Kommunalrecht, Satzungen, Wahlvorschriften, Formularen, Fristen oder Behördenpraxis immer Live-Check markieren, wenn keine aktuelle amtliche Quelle vorliegt.
+- Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate; Rechtsprechung nur verifiziert mit Gericht, Datum, Aktenzeichen und frei prüfbarem Link.
+
+---
+
+## Skill: `mitgliederversammlung-einberufung`
+
+_Für Mitgliederversammlung einberufen: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt._
+
+# Mitgliederversammlung einberufen
+
+## Arbeitsweg
+
+- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
+- Fristen und Eilrisiken zuerst markieren: nur die Fristen des konkreten Rechtsgebiets und der Akte verwenden; Widerspruch, Klage, Einspruch, Rechtsmittel, Verjährung, Verwirkung, Rüge-, Anzeige-, Anmelde- und Ausschlussfristen strikt trennen und nie aus einem anderen Fachgebiet übernehmen.
+- Tragende Normen verifizieren: BGB §§ 21-79, insbesondere §§ 26, 27, 32, 33, 40, 41, 54, 55, 57-59, 67, 71, AO §§ 51-68, insbesondere §§ 52, 55, 58, 60a, 63, 64, ZPO § 50, FamFG/Registerrecht und DSGVO nur fallbezogen live prüfen; keine Modellwissen-Zitate.
+- Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
+- Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
+
+## Einstieg
+Wenn ein Dokument vorliegt, lies zuerst das Dokument. Frage höchstens vier Punkte nach:
+
+1. Welche Rolle hat die betroffene Person oder Organisation?
+2. Welche Frist, welcher Termin oder welche Sanktion steht im Raum?
+3. Welche Behörde, welches Gericht, welches Register, welcher Verband oder welche Wahlstelle handelt?
+4. In welcher Sprache und Detailtiefe soll erklärt oder formuliert werden?
+
+## Arbeitsworkflow
+1. **Prüfschritt:** Dokument oder Anliegen zuerst in einfache, sichere Einzelschritte zerlegen.
+2. **Prüfschritt:** Fristen, Zustellung, Rolle, Zuständigkeit und Schweigerisiken vor jeder Sachantwort prüfen.
+3. **Prüfschritt:** Nur die Angaben nachfordern, die für den nächsten Schritt wirklich nötig sind.
+4. **Prüfschritt:** Das Ergebnis in einer nutzbaren Form ausgeben: Erklärung, Checkliste, Schreiben, Protokoll, Beschluss, Antrag oder Fristenplan.
+
+## Mitgliederversammlung — Materielles Prüfraster
+
+### 1. Einberufungspflicht (§ 36 BGB)
+- **Regelmäßig** in den von Satzung vorgesehenen Fällen (mindestens 1x jährlich üblich).
+- **Außerordentlich** wenn:
+ - Interesse des Vereins es erfordert (§ 36 BGB),
+ - schriftliches Verlangen von 10 % der Mitglieder (§ 37 BGB; Satzung kann andere Quote bestimmen).
+- **Notfalleinberufung** durch Mitglieder § 37 II BGB bei Verweigerung des Vorstands.
+
+### 2. Einberufungsorgan (§ 36 BGB)
+- Regelmäßig **Vorstand** (§ 26 BGB).
+- Satzung kann anderes Organ bestimmen (z. B. Vorsitzender allein, geschäftsführender Vorstand).
+
+### 3. Form (§ 32 I 2 BGB)
+- Satzung bestimmt Form (Schrift, Brief, E-Mail, Aushang, Vereinszeitschrift).
+- Bei Schweigen Satzung: **schriftlich** an jede in der Mitgliederliste eingetragene Adresse.
+- **E-Mail-Einladung**: nach BGH zulässig, wenn Mitglieder E-Mail-Adressen angegeben haben (BGH II ZR 76/12, 9.7.2013); Satzung sollte konkretisieren.
+
+### 4. Frist (§ 32 I 2 BGB)
+- **Satzungsfrist** maßgeblich; üblich: 14 Tage, 21 Tage, 4 Wochen vor Versammlung.
+- **Berechnung** § 187 ff. BGB (Stichtag rückrechnen; Tag des Versands maßgeblich bei "Versendung").
+- **Drei-Tages-Fiktion** § 130 BGB analog: Brief gilt am dritten Tag als zugegangen.
+
+### 5. Tagesordnung
+- **Bestimmtheit**: Beschlussgegenstände müssen so konkret bezeichnet sein, dass Mitglieder sich vorbereiten können.
+- Beispiel: "Beschlussfassung über Satzungsänderung § 5 Abs. 2: Aufnahme einer Beitragsstaffelung" — präzise.
+- **Unzureichend**: "Sonstiges" für substanzielle Beschlüsse; "Verschiedenes" nicht für satzungsrelevante Punkte.
+- **Erweiterung der TO**: nur bei satzungsmäßiger Möglichkeit; im Übrigen vorab schriftlich ankündigen.
+
+### 6. Versendung und Nachweis
+- **Versandadresse**: zuletzt mitgeteilte Adresse des Mitglieds.
+- **Nachweis**: Postausgangsbuch, E-Mail-Versandbestätigung; bei Streitfall trägt Vorstand die Beweislast (§ 32 BGB).
+- **Aushang in Vereinslokal**: bei kleinen Vereinen mit Satzungsregelung möglich.
+
+### 7. Online- / Hybride Versammlung (§ 32 II BGB iF seit 2023)
+- **Online** zulässig, sofern Satzung nicht ausschließt (umgedrehte Regel: Satzung muss ggf. Ausschluss anordnen).
+- **Hybride** Versammlung (gemischt) zulässig.
+- **Technische Voraussetzungen**: alle Mitglieder müssen teilnehmen können (Login, Berechtigung); Identitäts- und Stimmensicherung.
+- **Aufzeichnung** nur mit Zustimmung der Aufgezeichneten.
+
+### 8. Mängelfolgen
+- **Ladungsmangel**: Beschluss anfechtbar bzw. nichtig (siehe Skill `anfechtung-beschluss`).
+- **Heilung** durch Vollversammlung mit Zustimmung aller (§§ 32 ff. BGB).
+
+## Mustertext Einladung
+
+> An die Mitglieder des [Vereinsname]
+>
+> Einladung zur ordentlichen Mitgliederversammlung
+>
+> Liebe Mitglieder,
+>
+> hiermit lade ich Sie zur ordentlichen Mitgliederversammlung am [Datum] um [Uhrzeit] in [Ort / per Videokonferenz unter [Link]] ein.
+>
+> Tagesordnung:
+> 1. Begrüßung und Feststellung der Beschlussfähigkeit
+> 2. Genehmigung Protokoll der Vorversammlung
+> 3. Bericht des Vorstands
+> 4. Bericht des Schatzmeisters und der Kassenprüfer
+> 5. Entlastung des Vorstands
+> 6. [Konkrete Beschlussgegenstände]
+> 7. Wahlen (falls Amtsperiode endet)
+> 8. Anträge der Mitglieder
+> 9. Verschiedenes
+>
+> Anträge zur Tagesordnung sind bis [Datum] schriftlich beim Vorstand einzureichen.
+>
+> Mit freundlichen Grüßen
+> [Name], Vorsitzender
+
+## Praxisfallen
+
+- **Frist ab Tag des Versands** oder **ab Tag des Zugangs** — Satzung präzisieren, sonst Streit.
+- **Adressänderung Mitglied nicht mitgeteilt**: nach BGH-Linie genügt Versand an letztbekannte Adresse.
+- **TO-Erweiterung in der Versammlung** ist nur eingeschränkt zulässig: für Sachanträge möglich, für Satzungsänderung und Vorstandswahl nicht (oder nur mit Vollversammlung).
+- **Beschluss zur "Sonstigen Frage"**: anfechtbar, wenn nicht konkret in TO genannt.
+- **Online-Versammlung** ohne ausreichende Technikalternative: kann Beteiligungsrecht verletzen (Art. 9 GG, einfachrechtlich § 32 II BGB).
+- **Dringlichkeitsbeschluss**: nur in eng begrenzten Notfällen ohne TO.
+
+## Vorsichtsregel
+Erst verstehen, dann gezielt antworten. Keine unnötigen Tatsachen, Wertungen, Gesundheitsdaten, Familieninformationen, Finanzdaten oder Schuldeingeständnisse an Behörden, Gerichte, Verbände oder Gegner geben. Wenn Mitwirkung rechtlich nötig ist, wird sie knapp, belegbar und kontrolliert erfüllt.
+
+## Quellen- und Aktualitätsregel
+- BGB §§ 21-79, insbesondere § 32 BGB für Versammlung/Beschluss
+- Vereinsregisterverordnung/FamFG/Registergericht live prüfen
+- AO §§ 51-68 bei Gemeinnützigkeit
+- Satzung und Vereinsordnungen als Primärquelle
+- Landes-/Kommunalrecht je Veranstaltung oder Fördermittel live prüfen
+- Bei Landesrecht, Kommunalrecht, Satzungen, Wahlvorschriften, Formularen, Fristen oder Behördenpraxis immer Live-Check markieren, wenn keine aktuelle amtliche Quelle vorliegt.
+- Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate; Rechtsprechung nur verifiziert mit Gericht, Datum, Aktenzeichen und frei prüfbarem Link.
+
+---
+
+## Skill: `mitgliedschaft-beendigung`
+
+_Für Austritt, Streichung, Ausschluss: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt._
+
+# Austritt, Streichung, Ausschluss
 
 ## Arbeitsweg
 
@@ -672,7 +709,7 @@ Erst verstehen, dann gezielt antworten. Keine unnötigen Tatsachen, Wertungen, G
 
 ## Skill: `gemeinnuetzigkeit-antrag`
 
-_Wenn es um Gemeinnützigkeit Antrag in Vereinsrecht und Vereinsmanager geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik._
+_Für Gemeinnützigkeit Antrag: erstellt Entwurf mit Antrag, Beweis und Anlagen; Ergebnis: Schriftsatz mit Begründungs- und Anlagenlogik._
 
 # Gemeinnützigkeit Antrag
 
@@ -765,9 +802,51 @@ Erst verstehen, dann gezielt antworten. Keine unnötigen Tatsachen, Wertungen, G
 
 ---
 
+## Skill: `protokoll-mitgliederversammlung`
+
+_Für Protokoll Mitgliederversammlung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt._
+
+# Protokoll Mitgliederversammlung
+
+## Arbeitsweg
+
+- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
+- Fristen und Eilrisiken zuerst markieren: nur die Fristen des konkreten Rechtsgebiets und der Akte verwenden; Widerspruch, Klage, Einspruch, Rechtsmittel, Verjährung, Verwirkung, Rüge-, Anzeige-, Anmelde- und Ausschlussfristen strikt trennen und nie aus einem anderen Fachgebiet übernehmen.
+- Tragende Normen verifizieren: BGB §§ 21-79, insbesondere §§ 26, 27, 32, 33, 40, 41, 54, 55, 57-59, 67, 71, AO §§ 51-68, insbesondere §§ 52, 55, 58, 60a, 63, 64, ZPO § 50, FamFG/Registerrecht und DSGVO nur fallbezogen live prüfen; keine Modellwissen-Zitate.
+- Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
+- Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
+
+## Einstieg
+Wenn ein Dokument vorliegt, lies zuerst das Dokument. Frage höchstens vier Punkte nach:
+
+1. Welche Rolle hat die betroffene Person oder Organisation?
+2. Welche Frist, welcher Termin oder welche Sanktion steht im Raum?
+3. Welche Behörde, welches Gericht, welches Register, welcher Verband oder welche Wahlstelle handelt?
+4. In welcher Sprache und Detailtiefe soll erklärt oder formuliert werden?
+
+## Arbeitsworkflow
+1. **Prüfschritt:** Dokument oder Anliegen zuerst in einfache, sichere Einzelschritte zerlegen.
+2. **Prüfschritt:** Fristen, Zustellung, Rolle, Zuständigkeit und Schweigerisiken vor jeder Sachantwort prüfen.
+3. **Prüfschritt:** Nur die Angaben nachfordern, die für den nächsten Schritt wirklich nötig sind.
+4. **Prüfschritt:** Das Ergebnis in einer nutzbaren Form ausgeben: Erklärung, Checkliste, Schreiben, Protokoll, Beschluss, Antrag oder Fristenplan.
+
+## Vorsichtsregel
+Erst verstehen, dann gezielt antworten. Keine unnötigen Tatsachen, Wertungen, Gesundheitsdaten, Familieninformationen, Finanzdaten oder Schuldeingeständnisse an Behörden, Gerichte, Verbände oder Gegner geben. Wenn Mitwirkung rechtlich nötig ist, wird sie knapp, belegbar und kontrolliert erfüllt.
+
+## Quellen- und Aktualitätsregel
+- BGB §§ 21-79, insbesondere § 32 BGB für Versammlung/Beschluss
+- Vereinsregisterverordnung/FamFG/Registergericht live prüfen
+- AO §§ 51-68 bei Gemeinnützigkeit
+- Satzung und Vereinsordnungen als Primärquelle
+- Landes-/Kommunalrecht je Veranstaltung oder Fördermittel live prüfen
+- Bei Landesrecht, Kommunalrecht, Satzungen, Wahlvorschriften, Formularen, Fristen oder Behördenpraxis immer Live-Check markieren, wenn keine aktuelle amtliche Quelle vorliegt.
+- Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate; Rechtsprechung nur verifiziert mit Gericht, Datum, Aktenzeichen und frei prüfbarem Link.
+
+---
+
 ## Skill: `rundbrief-mitglieder`
 
-_Wenn es um Rundbrief an Mitglieder in Vereinsrecht und Vereinsmanager geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik._
+_Für Rundbrief an Mitglieder: erstellt Entwurf mit Antrag, Beweis und Anlagen; Ergebnis: Schriftsatz mit Begründungs- und Anlagenlogik._
 
 # Rundbrief an Mitglieder
 

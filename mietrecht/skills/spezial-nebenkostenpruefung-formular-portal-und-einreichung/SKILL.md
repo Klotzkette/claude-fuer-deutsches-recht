@@ -1,6 +1,6 @@
 ---
 name: spezial-nebenkostenpruefung-formular-portal-und-einreichung
-description: "Wenn es um Nebenkostenpruefung: Formular, Portal und Einreichungslogik in Mietrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Nebenkostenprüfung: Formular, Portal und Einreichungslogik: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Einreichungsplan mit Form- und Nachweischeck."
 ---
 
 # Nebenkostenpruefung: Formular, Portal und Einreichungslogik

@@ -1,6 +1,6 @@
 ---
 name: spenden-stiftungen-und-zweckbindung
-description: "Wenn es um Spenden, Stiftungen und Zweckbindung in Römisch-katholisches Kirchenrecht CIC und Katechismus geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
+description: "Für Spenden, Stiftungen und Zweckbindung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Spenden, Stiftungen und Zweckbindung

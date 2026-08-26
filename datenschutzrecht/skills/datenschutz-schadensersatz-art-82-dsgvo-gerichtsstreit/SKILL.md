@@ -1,6 +1,6 @@
 ---
 name: datenschutz-schadensersatz-art-82-dsgvo-gerichtsstreit
-description: "Wenn es um Datenschutz Schadensersatz — Gerichtsstreit nach Art. 82 DSGVO in Datenschutzrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. Auswahlstichwort: Datenschutz Schadensersatz Art 82 Dsgvo Gerichtsstreit; Arbeitsfeld: Datenschutzrecht."
+description: "Für Datenschutz Schadensersatz — Gerichtsstreit nach Art. 82 DSGVO: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt. Fachgebiet: Datenschutzrecht. Route: datenschutz-schadensersatz-art-82-dsgvo-gerichtsstreit."
 ---
 
 # Datenschutz Schadensersatz — Gerichtsstreit nach Art. 82 DSGVO

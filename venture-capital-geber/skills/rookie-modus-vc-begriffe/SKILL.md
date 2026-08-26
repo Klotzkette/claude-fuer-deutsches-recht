@@ -1,6 +1,6 @@
 ---
 name: rookie-modus-vc-begriffe
-description: "Wenn es um Rookie-Modus Venture Capital in Venture Capital Geber geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Rookie-Modus Venture Capital: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Rookie-Modus Venture Capital

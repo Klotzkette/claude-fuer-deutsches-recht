@@ -1,6 +1,6 @@
 ---
 name: rechtsschutz-beweislast-und-darlegungslast
-description: "Wenn es um Rechtsschutz: Beweislast, Darlegungslast und Substantiierung in Fachanwalt Verwaltungsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Rechtsschutz: Beweislast, Darlegungslast und Substantiierung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Beweislast- und Substantiierungsmatrix. Fachgebiet: Fachanwalt Verwaltungsrecht."
 ---
 
 # Rechtsschutz: Beweislast, Darlegungslast und Substantiierung

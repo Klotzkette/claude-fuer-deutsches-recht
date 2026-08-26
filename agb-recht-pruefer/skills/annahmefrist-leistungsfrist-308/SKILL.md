@@ -1,6 +1,6 @@
 ---
 name: annahmefrist-leistungsfrist-308
-description: "Wenn es um Annahmefrist Leistungsfrist 308 in AGB-Recht-Prüfer geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Annahmefrist Leistungsfrist 308: prüft Frist, Form, Zuständigkeit und Eilbedarf; Ergebnis: Fristen- und Risikoampel."
 ---
 
 # Annahmefrist Leistungsfrist 308

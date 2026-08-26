@@ -1,6 +1,6 @@
 ---
 name: relation-verhandlung-vergleich
-description: "Wenn es um Relation: Verhandlung, Vergleich und Eskalation in Urteilsbauer und Relationsmacher geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Relation: Verhandlung, Vergleich und Eskalation: entwickelt Ziel, Vergleich und Eskalation; Ergebnis: Verhandlungs- oder Eskalationslinie. Fachgebiet: Urteilsbauer und Relationsmacher. Route: relation-verhandlung-vergleich."
 ---
 
 # Relation: Verhandlung, Vergleich und Eskalation

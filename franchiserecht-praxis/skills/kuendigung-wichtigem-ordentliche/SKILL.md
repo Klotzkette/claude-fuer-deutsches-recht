@@ -1,6 +1,6 @@
 ---
 name: kuendigung-wichtigem-ordentliche
-description: "Wenn es um Franchiserecht: Kündigung aus wichtigem Grund in Franchiserecht Praxis geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Beweislast- und Substantiierungsmatrix."
+description: "Für Franchiserecht: Kündigung aus wichtigem Grund: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Franchiserecht: Kündigung aus wichtigem Grund

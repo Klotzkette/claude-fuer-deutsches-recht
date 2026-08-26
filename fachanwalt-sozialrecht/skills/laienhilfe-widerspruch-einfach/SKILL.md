@@ -1,6 +1,6 @@
 ---
 name: laienhilfe-widerspruch-einfach
-description: "Wenn es um Laienverstaendlicher Sozialrechts-Skill zu Widerspruch Einfach in Fachanwalt Sozialrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Laienverständlicher Sozialrechts-Skill zu Widerspruch Einfach: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Laienverstaendlicher Sozialrechts-Skill zu Widerspruch Einfach

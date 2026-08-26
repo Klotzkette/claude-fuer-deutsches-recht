@@ -1,6 +1,6 @@
 ---
 name: buy-now-pay-later-verbraucherkredit
-description: "Wenn es um Buy now pay later Verbraucherkredit in E-Commerce-Recht geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
+description: "Für Buy now pay later Verbraucherkredit: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Buy now pay later Verbraucherkredit

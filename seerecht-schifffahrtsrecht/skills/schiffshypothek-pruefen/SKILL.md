@@ -1,6 +1,6 @@
 ---
 name: schiffshypothek-pruefen
-description: "Wenn es um Schiffshypothek prüfen in See- und Schifffahrtsrecht geht: rechnet Schwellen, Beträge, Varianten und Kontrollannahmen durch; liefert eine Berechnungstabelle mit Schwellen, Annahmen und Kontrollfragen."
+description: "Für Schiffshypothek prüfen: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Schiffshypothek prüfen

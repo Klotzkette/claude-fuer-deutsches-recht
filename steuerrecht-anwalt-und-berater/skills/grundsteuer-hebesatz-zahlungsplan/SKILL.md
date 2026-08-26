@@ -1,6 +1,6 @@
 ---
 name: grundsteuer-hebesatz-zahlungsplan
-description: "Wenn es um Grundsteuer: Hebesatz, Zahlung und Gemeindeebene in Steuerrecht – Steuerberater und Anwälte geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen."
+description: "Für Grundsteuer: Hebesatz, Zahlung und Gemeindeebene: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Schnittstellenkarte mit Zuständigkeits- und Nachweisfragen."
 ---
 
 # Grundsteuer: Hebesatz, Zahlung und Gemeindeebene

@@ -1,6 +1,6 @@
 ---
 name: long-covid-gdb-funktionsbeeintraechtigung
-description: "Wenn es um Long Covid Gdb Funktionsbeeintraechtigung in Fachanwalt Sozialrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Long Covid Gdb Funktionsbeeinträchtigung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Long-Covid und GdB: nicht Diagnose zählen, sondern objektivierbare Funktionsbeeinträchtigungen, Teilhabe, Fatigue, kognitive Belastbarkeit und Analogiebewertung.

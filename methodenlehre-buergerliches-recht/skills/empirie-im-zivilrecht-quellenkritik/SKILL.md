@@ -1,6 +1,6 @@
 ---
 name: empirie-im-zivilrecht-quellenkritik
-description: "Wenn es um Empirie im Zivilrecht: Quellenkritik und methodischer Umgang in Methodenlehre bürgerliches Recht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Empirie im Zivilrecht: Quellenkritik und methodischer Umgang: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Empirie im Zivilrecht: Quellenkritik und methodischer Umgang

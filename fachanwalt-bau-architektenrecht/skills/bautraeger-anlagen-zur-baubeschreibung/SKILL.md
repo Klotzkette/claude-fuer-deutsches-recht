@@ -1,6 +1,6 @@
 ---
 name: bautraeger-anlagen-zur-baubeschreibung
-description: "Wenn es um Anlagen zur Baubeschreibung beim Bautraegervertrag in Fachanwalt Bau Architektenrecht geht: rechnet Schwellen, Beträge, Varianten und Kontrollannahmen durch; liefert eine Berechnungstabelle mit Schwellen, Annahmen und Kontrollfragen."
+description: "Für Anlagen zur Baubeschreibung beim Bauträgervertrag: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Anlagen zur Baubeschreibung beim Bautraegervertrag

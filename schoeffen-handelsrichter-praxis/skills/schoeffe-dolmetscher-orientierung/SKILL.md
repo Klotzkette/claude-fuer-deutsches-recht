@@ -1,6 +1,6 @@
 ---
 name: schoeffe-dolmetscher-orientierung
-description: "Wenn es um Schöffe und Dolmetscher: Orientierung in Schöffen und Handelsrichter Praxis geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
+description: "Für Schöffe und Dolmetscher: Orientierung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Schöffe und Dolmetscher: Orientierung

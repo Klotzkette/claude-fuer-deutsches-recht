@@ -1,6 +1,6 @@
 ---
 name: kv-062-familienversicherung-einkommensgrenze-minijob
-description: "Wenn es um Krankenversicherung: Familienversicherung Einkommensgrenze Minijob in Krankenkassenrecht und Krankenversicherung geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Krankenversicherung: Familienversicherung Einkommensgrenze Minijob: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Krankenversicherung: Familienversicherung Einkommensgrenze Minijob

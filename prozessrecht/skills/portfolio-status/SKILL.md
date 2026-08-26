@@ -1,6 +1,6 @@
 ---
 name: portfolio-status
-description: "Wenn es um Prozessportfolio-Status in Prozessrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Prozessportfolio-Status: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Prozessportfolio-Status

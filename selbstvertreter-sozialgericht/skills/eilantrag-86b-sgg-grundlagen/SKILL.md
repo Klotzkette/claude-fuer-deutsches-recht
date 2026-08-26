@@ -1,6 +1,6 @@
 ---
 name: eilantrag-86b-sgg-grundlagen
-description: "Wenn es um Eilrechtsschutz beim Sozialgericht — Paragraf 86b SGG in selbstvertreter-sozialgericht geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
+description: "Für Eilrechtsschutz beim Sozialgericht — Paragraf 86b SGG: erstellt Entwurf mit Antrag, Beweis und Anlagen; Ergebnis: Schriftsatz mit Begründungs- und Anlagenlogik."
 ---
 
 # Eilrechtsschutz beim Sozialgericht — § 86b SGG

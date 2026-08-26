@@ -1,6 +1,6 @@
 ---
 name: u-haft-fristenwacht
-description: "Wenn es um U-Haft-Fristenwacht in Aktenaufbereiter Strafrecht geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für U-Haft-Fristenwacht: prüft Frist, Form, Zuständigkeit und Eilbedarf; Ergebnis: Fristen- und Risikoampel."
 ---
 
 # U-Haft-Fristenwacht

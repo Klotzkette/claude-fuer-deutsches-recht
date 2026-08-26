@@ -1,6 +1,6 @@
 ---
 name: non-solicitation-norm-live-open-source
-description: "Wenn es um Non Solicitation in AGB-Recht-Prüfer geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Fristen- und Risikoampel mit Sofortschritten. Auswahlstichwort: Non Solicitation Norm Live Open Source; Arbeitsfeld: AGB-Recht-Prüfer."
+description: "Für Non Solicitation: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Tatbestands- oder Anspruchsmatrix."
 ---
 
 # Non Solicitation

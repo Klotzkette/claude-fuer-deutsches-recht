@@ -1,6 +1,6 @@
 ---
 name: anspruchsgrundlagen-pruefen
-description: "Wenn es um Anspruchsgrundlagen-Prüfung in Urteilsbauer und Relationsmacher geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Anspruchsgrundlagen-Prüfung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Tatbestands- oder Anspruchsmatrix."
 ---
 
 # Anspruchsgrundlagen-Prüfung

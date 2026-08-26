@@ -1,6 +1,6 @@
 ---
 name: rinderbetrieb-vergleich-suchen
-description: "Wenn es um Rinderbetrieb Vergleich Suchen in Tierschutzrecht geht: entwickelt Verhandlungsziel, Vergleichskorridor und Eskalationspfad; liefert eine Verhandlungs- oder Eskalationslinie mit Optionen."
+description: "Für Rinderbetrieb Vergleich Suchen: entwickelt Ziel, Vergleich und Eskalation; Ergebnis: Verhandlungs- oder Eskalationslinie."
 ---
 
 # Rinderbetrieb Vergleich Suchen

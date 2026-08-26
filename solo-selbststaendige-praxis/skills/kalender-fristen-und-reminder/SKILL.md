@@ -1,6 +1,6 @@
 ---
 name: kalender-fristen-und-reminder
-description: "Wenn es um Büro Alltag und Tools: Richtet fristen in Solo-Selbstständige Praxis geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Büro Alltag und Tools: Richtet fristen: prüft Frist, Form, Zuständigkeit und Eilbedarf; Ergebnis: Fristen- und Risikoampel."
 ---
 
 # Büro Alltag und Tools: Richtet fristen

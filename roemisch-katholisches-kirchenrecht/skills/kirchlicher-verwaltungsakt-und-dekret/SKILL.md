@@ -1,6 +1,6 @@
 ---
 name: kirchlicher-verwaltungsakt-und-dekret
-description: "Wenn es um Kirchlicher Verwaltungsakt und Dekret in Römisch-katholisches Kirchenrecht CIC und Katechismus geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
+description: "Für Kirchlicher Verwaltungsakt und Dekret: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt. Fachgebiet: Römisch-katholisches Kirchenrecht CIC und Katechismus. Route: kirchlicher-verwaltungsakt-und-dekret."
 ---
 
 # Kirchlicher Verwaltungsakt und Dekret

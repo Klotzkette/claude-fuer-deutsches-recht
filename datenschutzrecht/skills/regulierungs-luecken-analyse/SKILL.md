@@ -1,6 +1,6 @@
 ---
 name: regulierungs-luecken-analyse
-description: "Wenn es um DS-Gap-Analyse – Datenschutzrecht in Datenschutzrecht geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
+description: "Für DS-Gap-Analyse – Datenschutzrecht: ordnet Akte, Belege und Lücken; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # DS-Gap-Analyse – Datenschutzrecht

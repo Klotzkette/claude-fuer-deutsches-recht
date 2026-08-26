@@ -1,6 +1,6 @@
 ---
 name: abrechnung-goae-goz-und-erstattung
-description: "Wenn es um Abrechnung GOÄ/GOZ und Erstattung in Krankenkassenrecht und Krankenversicherung geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Abrechnung GOÄ/GOZ und Erstattung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Abrechnung GOÄ/GOZ und Erstattung

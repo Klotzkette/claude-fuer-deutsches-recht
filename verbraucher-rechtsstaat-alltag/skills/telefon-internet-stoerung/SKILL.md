@@ -1,6 +1,6 @@
 ---
 name: telefon-internet-stoerung
-description: "Wenn es um Telefon und Internet Störung in Verbraucher im Rechtsstaat Alltag geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Telefon und Internet Störung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Telefon und Internet Störung

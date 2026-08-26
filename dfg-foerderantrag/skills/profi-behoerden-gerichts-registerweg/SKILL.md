@@ -1,6 +1,6 @@
 ---
 name: profi-behoerden-gerichts-registerweg
-description: "Wenn es um Profi: Behörden-, Gerichts- oder Registerweg in DFG-Förderantrag geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Profi: Behörden-, Gerichts- oder Registerweg: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Einreichungsplan mit Form- und Nachweischeck."
 ---
 
 # Profi: Behörden-, Gerichts- oder Registerweg

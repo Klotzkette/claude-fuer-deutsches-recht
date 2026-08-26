@@ -1,6 +1,6 @@
 ---
 name: m-a-open-source-kollektive-datensammlung
-description: "Wenn es um M&A-Datenraum und Datenbankrechte — Due Diligence und Transaktion in Datenbankrecht und Datenbankherstellerrecht geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Verhandlungs- oder Eskalationslinie mit Optionen."
+description: "Für M&A-Datenraum und Datenbankrechte — Due Diligence und Transaktion: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # M&A-Datenraum und Datenbankrechte — Due Diligence und Transaktion

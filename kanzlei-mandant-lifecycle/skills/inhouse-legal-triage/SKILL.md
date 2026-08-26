@@ -1,6 +1,6 @@
 ---
 name: inhouse-legal-triage
-description: "Wenn es um Inhouse Legal Triage in Kanzlei-Mandant Lifecycle geht: klärt Rolle, Ziel, Frist, Unterlagen und den passenden nächsten Fachskill; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Inhouse Legal Triage: routet Rolle, Frist, Unterlagen und Fachschritt; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Inhouse Legal Triage

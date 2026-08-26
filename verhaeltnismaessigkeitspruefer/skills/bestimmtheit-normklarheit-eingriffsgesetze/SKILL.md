@@ -1,6 +1,6 @@
 ---
 name: bestimmtheit-normklarheit-eingriffsgesetze
-description: "Wenn es um Bestimmtheit und Normklarheit in Verhältnismäßigkeitsprüfer geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Tatbestands- oder Anspruchsmatrix mit Gegenargumenten."
+description: "Für Bestimmtheit und Normklarheit: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Tatbestands- oder Anspruchsmatrix."
 ---
 
 # Bestimmtheit und Normklarheit

@@ -1,6 +1,6 @@
 ---
 name: digitalbeweise-flucht
-description: "Wenn es um Digitale Beweise Flucht: Fachmodul im Migrationsrecht in Fachanwalt Migrationsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Digitale Beweise Flucht: Fachmodul im Migrationsrecht: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Beweislast- und Substantiierungsmatrix."
 ---
 
 # Digitale Beweise Flucht: Fachmodul im Migrationsrecht
@@ -38,3 +38,7 @@ description: "Wenn es um Digitale Beweise Flucht: Fachmodul im Migrationsrecht i
 - Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei prüfbarer Quelle ausgeben.
 - Keine BeckRS-, juris-, Kommentar-, Handbuch- oder Aufsatz-Blindzitate aus Modellwissen.
 - Annahmen, fehlende Unterlagen, Beweisrisiken und Fristen ausdrücklich markieren.
+
+## Vertiefung bei Bedarf
+
+- Bei `spezial-digitalbeweise-flucht` beziehungsweise Digitale Beweise Flucht: [die zusätzliche Vertiefung laden](./references/vertiefung-spezial-digitalbeweise-flucht.md).

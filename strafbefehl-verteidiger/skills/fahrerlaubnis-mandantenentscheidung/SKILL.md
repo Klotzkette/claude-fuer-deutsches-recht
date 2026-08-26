@@ -1,6 +1,6 @@
 ---
 name: fahrerlaubnis-mandantenentscheidung
-description: "Wenn es um Fahrerlaubnis: Mandantenkommunikation und Entscheidungsvorlage in Strafbefehl-Verteidiger geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Fahrerlaubnis: Mandantenkommunikation und Entscheidungsvorlage: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Fahrerlaubnis: Mandantenkommunikation und Entscheidungsvorlage

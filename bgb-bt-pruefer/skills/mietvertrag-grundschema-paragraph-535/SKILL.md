@@ -1,6 +1,6 @@
 ---
 name: mietvertrag-grundschema-paragraph-535
-description: "Wenn es um Mietvertrag Grundschema Paragraf 535 BGB in BGB BT Prüfer geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Mietvertrag Grundschema Paragraf 535 BGB: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Mietvertrag Grundschema § 535 BGB

@@ -1,6 +1,6 @@
 ---
 name: vergaberechtliche-vertragsbedingungen
-description: "Wenn es um Vergaberechtliche Vertragsbedingungen in AGB-Recht-Prüfer geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen. Auswahlstichwort: Vergaberechtliche Vertragsbedingungen; Arbeitsfeld: AGB-Recht-Prüfer."
+description: "Für Vergaberechtliche Vertragsbedingungen: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt. Fachgebiet: AGB-Recht-Prüfer. Route: vergaberechtliche-vertragsbedingungen."
 ---
 
 # Vergaberechtliche Vertragsbedingungen

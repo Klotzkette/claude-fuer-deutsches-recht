@@ -1,6 +1,6 @@
 ---
 name: auslandsvertreter-und-correspondent-risk-kaltsta
-description: "Wenn es um Auslandsvertreter Und Correspondent Risk Kaltsta in Berufsrecht Patentanwälte geht: klärt Rolle, Ziel, Frist, Unterlagen und den passenden nächsten Fachskill; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Auslandsvertreter und Correspondent Risk Kaltsta: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Schnittstellenkarte mit Zuständigkeits- und Nachweisfragen."
 ---
 
 # Patentanwälte: auslandsvertreter und correspondent risk - Kaltstart mit Faktenmatrix, Risikoampel und fehlenden Unterlagen

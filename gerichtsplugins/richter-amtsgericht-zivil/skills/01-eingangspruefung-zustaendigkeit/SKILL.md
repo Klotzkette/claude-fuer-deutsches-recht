@@ -1,6 +1,6 @@
 ---
 name: 01-eingangspruefung-zustaendigkeit
-description: "Wenn es um 01 Eingangsprüfung Zuständigkeit in Richter Amtsgericht Zivilsachen geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für 01 Eingangsprüfung Zuständigkeit: prüft Frist, Form, Zuständigkeit und Eilbedarf; Ergebnis: Tatbestands- oder Anspruchsmatrix."
 ---
 
 # 01 Eingangsprüfung Zuständigkeit

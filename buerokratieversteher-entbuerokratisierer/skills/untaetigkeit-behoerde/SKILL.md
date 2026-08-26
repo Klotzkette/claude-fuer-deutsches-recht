@@ -1,6 +1,6 @@
 ---
 name: untaetigkeit-behoerde
-description: "Wenn es um Untätigkeit der Behörde in Bürokratieversteher und Entbürokratisierer geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Untätigkeit der Behörde: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Untätigkeit der Behörde

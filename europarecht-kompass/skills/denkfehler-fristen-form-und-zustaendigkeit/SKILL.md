@@ -1,6 +1,6 @@
 ---
 name: denkfehler-fristen-form-und-zustaendigkeit
-description: "Wenn es um Denkfehler: Fristen, Form, Zuständigkeit und Rechtsweg in Europarecht-Kompass für deutsche Juristen geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Denkfehler: Fristen, Form, Zuständigkeit und Rechtsweg: prüft Frist, Form, Zuständigkeit und Eilbedarf; Ergebnis: Fristen- und Risikoampel."
 ---
 
 # Denkfehler: Fristen, Form, Zuständigkeit und Rechtsweg

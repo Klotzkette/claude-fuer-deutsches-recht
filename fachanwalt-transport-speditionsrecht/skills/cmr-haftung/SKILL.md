@@ -1,6 +1,6 @@
 ---
 name: cmr-haftung
-description: "Wenn es um CMR-Haftung des Frachtführers im internationalen Strassengueterverkehr prüfen in Fachanwalt Transport Speditionsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für CMR-Haftung des Frachtführers im internationalen Strassengüterverkehr prüfen: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # CMR-Haftung des Frachtführers im internationalen Strassengueterverkehr prüfen

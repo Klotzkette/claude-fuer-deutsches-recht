@@ -1,6 +1,6 @@
 ---
 name: felder-behoerden-gericht-und-registerweg
-description: "Wenn es um Felder: Behörden-, Gerichts- oder Registerweg in Vertragsausfüller geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Felder: Behörden-, Gerichts- oder Registerweg: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Einreichungsplan mit Form- und Nachweischeck."
 ---
 
 # Felder: Behörden-, Gerichts- oder Registerweg

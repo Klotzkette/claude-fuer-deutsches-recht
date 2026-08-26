@@ -1,6 +1,6 @@
 ---
 name: financial-contract-safe-harbors
-description: "Wenn es um Financial Contract Safe Harbors in US Bankruptcy Code geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Financial Contract Safe Harbors: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Financial Contract Safe Harbors

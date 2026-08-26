@@ -1,6 +1,6 @@
 ---
 name: notar-registergericht-kommunikation
-description: "Wenn es um Notar und Registergericht steuern in Handelsregister Praxis geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert einen Einreichungsplan mit Form-, Portal- und Nachweischeck."
+description: "Für Notar und Registergericht steuern: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Einreichungsplan mit Form- und Nachweischeck."
 ---
 
 # Notar und Registergericht steuern

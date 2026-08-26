@@ -1,6 +1,6 @@
 ---
 name: weitergabe-und-822-verteidigung
-description: "Wenn es um Weitergabe und Paragraf 822 BGB Verteidigung in bereicherungs-und-anfechtungsrecht-prüfer geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Weitergabe und Paragraf 822 BGB Verteidigung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Weitergabe und § 822 BGB Verteidigung

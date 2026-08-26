@@ -1,6 +1,6 @@
 ---
 name: bodenreform-grundbuch-registerlage
-description: "Wenn es um Bodenreform Grundbuch Lesen in Einigungsvertrag und Vermögensrecht geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert einen Einreichungsplan mit Form-, Portal- und Nachweischeck."
+description: "Für Bodenreform Grundbuch Lesen: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Einreichungsplan mit Form- und Nachweischeck."
 ---
 
 # Bodenreform Grundbuch Lesen

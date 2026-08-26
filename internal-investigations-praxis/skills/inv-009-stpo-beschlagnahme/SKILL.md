@@ -1,6 +1,6 @@
 ---
 name: inv-009-stpo-beschlagnahme
-description: "Wenn es um StPO Beschlagnahme Risiko in Internal Investigations Praxis geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für StPO Beschlagnahme Risiko: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # StPO Beschlagnahme Risiko

@@ -1,6 +1,6 @@
 ---
 name: games-software-gebuehren-paygov-government
-description: "Wenn es um Games, Software und AV Assets in US Copyright Act und Registrierung für deutsche Verlage geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Games, Software und AV Assets: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Berechnungstabelle mit Annahmen und Kontrollfragen."
 ---
 
 # Games, Software und AV Assets

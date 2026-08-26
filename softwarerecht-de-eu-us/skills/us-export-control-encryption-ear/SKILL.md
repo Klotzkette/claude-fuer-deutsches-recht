@@ -1,6 +1,6 @@
 ---
 name: us-export-control-encryption-ear
-description: "Wenn es um US Export Control Encryption EAR in Softwarerecht Deutschland/EU/International/USA geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für US Export Control Encryption EAR: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # US Export Control Encryption EAR

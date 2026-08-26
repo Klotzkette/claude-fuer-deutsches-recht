@@ -1,6 +1,6 @@
 ---
 name: rezensionsexemplar-influencer-und-steuer
-description: "Wenn es um Verl-030 · Rezensionsexemplare, Influencer und Steuer in Verlagsrecht und Buchpreisbindung geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Verl-030 · Rezensionsexemplare, Influencer und Steuer: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Schnittstellenkarte mit Zuständigkeits- und Nachweisfragen."
 ---
 
 # Verl-030 · Rezensionsexemplare, Influencer und Steuer

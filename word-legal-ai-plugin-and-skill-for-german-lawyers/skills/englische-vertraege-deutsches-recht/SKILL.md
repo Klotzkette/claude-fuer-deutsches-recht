@@ -1,6 +1,6 @@
 ---
 name: englische-vertraege-deutsches-recht
-description: "Wenn es um Englische Verträge nach deutschem Recht stil- und risikofest formulieren in Word-Workflows für deutsche Juristen geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen."
+description: "Für Englische Verträge nach deutschem Recht stil- und risikofest formulieren: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Schnittstellenkarte mit Zuständigkeits- und Nachweisfragen."
 ---
 
 # Englische Verträge nach deutschem Recht stil- und risikofest formulieren

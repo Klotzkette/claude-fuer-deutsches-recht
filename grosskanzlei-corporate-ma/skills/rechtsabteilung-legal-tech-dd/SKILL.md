@@ -1,6 +1,6 @@
 ---
 name: rechtsabteilung-legal-tech-dd
-description: "Wenn es um Rechtsabteilung: Legal Tech DD mit Halluzinationsschutz in Großkanzlei Corporate/M&A geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert einen Einreichungsplan mit Form-, Portal- und Nachweischeck."
+description: "Für Rechtsabteilung: Legal Tech DD mit Halluzinationsschutz: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Rechtsabteilung: Legal Tech DD mit Halluzinationsschutz

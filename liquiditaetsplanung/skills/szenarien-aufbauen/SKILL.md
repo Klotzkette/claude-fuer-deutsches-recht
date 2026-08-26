@@ -1,6 +1,6 @@
 ---
 name: szenarien-aufbauen
-description: "Wenn es um Liqui-Szenarien in Liquiditätsplanung — Power geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Liqui-Szenarien: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Liqui-Szenarien

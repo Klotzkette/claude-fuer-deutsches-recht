@@ -1,6 +1,6 @@
 ---
 name: kundenakten-datenschutz-solo-kundenupdate
-description: "Wenn es um Datenschutz IT und Website: Ordnet speicherung in Solo-Selbstständige Praxis geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Datenschutz IT und Website: Ordnet speicherung: ordnet Akte, Belege und Lücken; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Datenschutz IT und Website: Ordnet speicherung

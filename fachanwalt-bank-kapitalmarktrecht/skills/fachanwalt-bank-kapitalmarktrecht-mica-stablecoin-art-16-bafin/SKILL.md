@@ -1,6 +1,6 @@
 ---
 name: fachanwalt-bank-kapitalmarktrecht-mica-stablecoin-art-16-bafin
-description: "Wenn es um MiCA-Stablecoin-Emittenten — Art. 16-21 Lizenzierung (BaFin) in Fachanwalt Bank Kapitalmarktrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für MiCA-Stablecoin-Emittenten — Art. 16-21 Lizenzierung (BaFin): ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # MiCA-Stablecoin-Emittenten — Art. 16-21 Lizenzierung (BaFin)

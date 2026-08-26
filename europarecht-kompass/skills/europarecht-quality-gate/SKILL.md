@@ -1,6 +1,6 @@
 ---
 name: europarecht-quality-gate
-description: "Wenn es um Europarecht-Qualitätstor in Europarecht-Kompass für deutsche Juristen geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
+description: "Für Europarecht-Qualitätstor: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Schnittstellenkarte mit Zuständigkeits- und Nachweisfragen."
 ---
 
 # Europarecht-Qualitätstor

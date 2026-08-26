@@ -1,6 +1,6 @@
 ---
 name: sachverhaltschronologie-textbausteine
-description: "Wenn es um Sachverhaltschronologie: Schriftsatz-, Brief- und Memo-Bausteine in aktenauszug-gerichtsverfahren geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert eine Chronologie mit Belegmatrix und Widerspruchsliste."
+description: "Für Sachverhaltschronologie: Schriftsatz-, Brief- und Memo-Bausteine: erstellt Entwurf mit Antrag, Beweis und Anlagen; Ergebnis: Chronologie mit Beleg- und Widerspruchsmatrix."
 ---
 
 # Sachverhaltschronologie: Schriftsatz-, Brief- und Memo-Bausteine

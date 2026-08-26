@@ -1,6 +1,6 @@
 ---
 name: nebenkostenabrechnung-pruefen
-description: "Wenn es um Betriebskostenabrechnung prüfen in Mietrecht geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Betriebskostenabrechnung prüfen: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt. Fachgebiet: Mietrecht."
 ---
 
 # Betriebskostenabrechnung prüfen

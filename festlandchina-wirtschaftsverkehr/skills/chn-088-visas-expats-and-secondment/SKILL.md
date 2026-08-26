@@ -1,6 +1,6 @@
 ---
 name: chn-088-visas-expats-and-secondment
-description: "Wenn es um Visas Expats And Secondment in China-Wirtschaftsverkehr geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Visas Expats And Secondment: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Visas Expats And Secondment

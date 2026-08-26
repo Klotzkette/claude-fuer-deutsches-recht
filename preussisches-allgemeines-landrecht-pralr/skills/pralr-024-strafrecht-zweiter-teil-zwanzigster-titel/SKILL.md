@@ -1,6 +1,6 @@
 ---
 name: pralr-024-strafrecht-zweiter-teil-zwanzigster-titel
-description: "Wenn es um Strafrecht in Preußisches Allgemeines Landrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. Auswahlstichwort: Pralr 024 Strafrecht Zweiter Teil Zwanzigster Titel; Arbeitsfeld: Preußisches Allgemeines Landrecht."
+description: "Für Strafrecht: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt. Fachgebiet: Preußisches Allgemeines Landrecht. Route: pralr-024-strafrecht-zweiter-teil-zwanzigster-titel."
 ---
 
 # Strafrecht

@@ -1,6 +1,6 @@
 ---
 name: eisenbahn-anreizsetzung-schiene
-description: "Wenn es um Anreizsetzungssystem im Eisenbahnverkehr (ASS) nach Paragraf 39 ERegG in Bundesnetzagentur-Verfahren geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
+description: "Für Anreizsetzungssystem im Eisenbahnverkehr (ASS) nach Paragraf 39 ERegG: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Anreizsetzungssystem im Eisenbahnverkehr (ASS) nach § 39 ERegG

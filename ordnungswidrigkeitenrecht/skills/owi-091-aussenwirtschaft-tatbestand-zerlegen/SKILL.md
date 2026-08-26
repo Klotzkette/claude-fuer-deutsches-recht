@@ -1,6 +1,6 @@
 ---
 name: owi-091-aussenwirtschaft-tatbestand-zerlegen
-description: "Wenn es um Aussenwirtschaft Tatbestand Zerlegen in Ordnungswidrigkeitenrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Außenwirtschaft Tatbestand Zerlegen: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Tatbestands- oder Anspruchsmatrix. Fachgebiet: Ordnungswidrigkeitenrecht. Route: owi-091-aussenwirtschaft-tatbestand-zerlegen."
 ---
 
 # Aussenwirtschaft Tatbestand Zerlegen

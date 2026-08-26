@@ -1,6 +1,6 @@
 ---
 name: note-2-formeln-leistung
-description: "Formuliert eine gute Leistungsbeurteilung mit konsistenter Zufriedenheitsformel und konkreten Belegen für überdurchschnittliche Arbeit. Prüft, ob einzelne Spitzen- oder Durchschnittssätze die Gesamtnote verzerren, und liefert eine ausgewogene Gesamtfassung."
+description: "Formuliert eine gute Leistungsbeurteilung mit konsistenter Zufriedenheitsformel und konkreten Belegen für überdurchschnittliche Arbeit."
 ---
 
 # Note 2 — Formeln Leistung

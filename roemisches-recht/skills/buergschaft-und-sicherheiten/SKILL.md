@@ -1,6 +1,6 @@
 ---
 name: buergschaft-und-sicherheiten
-description: "Wenn es um Buergschaft Und Sicherheiten in Römisches Recht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Bürgschaft und Sicherheiten: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Buergschaft Und Sicherheiten

@@ -1,6 +1,6 @@
 ---
 name: neu-009-spaetkaiserreich-sozialgesetzgebung-und-verwaltungss
-description: "Wenn es um Deutsche Rechtsgeschichte: 009 Spaetkaiserreich Sozialgesetzgebung Und Verwaltungss in Deutsche Rechtsgeschichte geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Deutsche Rechtsgeschichte: 009 Spätkaiserreich Sozialgesetzgebung und Verwaltungss: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Schnittstellenkarte mit Zuständigkeits- und Nachweisfragen."
 ---
 
 # Deutsche Rechtsgeschichte: 009 Spaetkaiserreich Sozialgesetzgebung Und Verwaltungss

@@ -1,6 +1,6 @@
 ---
 name: bmvg-nato-und-stationierungsrecht
-description: "Wenn es um NATO-Recht und Stationierungsrecht (BMVg) in Legistik-Werkstatt geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen."
+description: "Für NATO-Recht und Stationierungsrecht (BMVg): ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # NATO-Recht und Stationierungsrecht (BMVg)

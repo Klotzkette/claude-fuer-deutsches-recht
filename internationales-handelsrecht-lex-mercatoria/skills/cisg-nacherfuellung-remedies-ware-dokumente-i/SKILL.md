@@ -1,6 +1,6 @@
 ---
 name: cisg-nacherfuellung-remedies-ware-dokumente-i
-description: "Wenn es um Rechtsbehelfe des Käufers (CISG Art. 45-52) in Internationales Handelsrecht und Lex Mercatoria geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
+description: "Für Rechtsbehelfe des Käufers (CISG Art. 45-52): ordnet Akte, Belege und Lücken; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Rechtsbehelfe des Käufers (CISG Art. 45-52)

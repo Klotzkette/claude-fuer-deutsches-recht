@@ -1,6 +1,6 @@
 ---
 name: fuehrung-schriftsatz-brief-memo-bausteine
-description: "Wenn es um Fuehrung: Schriftsatz-, Brief- und Memo-Bausteine in DFG-Förderantrag geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Führung: Schriftsatz-, Brief- und Memo-Bausteine: erstellt Entwurf mit Antrag, Beweis und Anlagen; Ergebnis: Schriftsatz mit Begründungs- und Anlagenlogik. Fachgebiet: DFG-Förderantrag. Route: fuehrung-schriftsatz-brief-memo-bausteine."
 ---
 
 # Fuehrung: Schriftsatz-, Brief- und Memo-Bausteine

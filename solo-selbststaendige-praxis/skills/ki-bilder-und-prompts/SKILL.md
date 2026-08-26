@@ -1,6 +1,6 @@
 ---
 name: ki-bilder-und-prompts
-description: "Wenn es um IP Content und Arbeitsergebnisse: Prüft ki-bilder in Solo-Selbstständige Praxis geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für IP Content und Arbeitsergebnisse: Prüft ki-bilder: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # IP Content und Arbeitsergebnisse: Prüft ki-bilder

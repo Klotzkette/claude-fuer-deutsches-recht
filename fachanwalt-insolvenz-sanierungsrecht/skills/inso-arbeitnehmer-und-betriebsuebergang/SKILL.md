@@ -1,6 +1,6 @@
 ---
 name: inso-arbeitnehmer-und-betriebsuebergang
-description: "Wenn es um Inso Arbeitnehmer Und Betriebsuebergang in Fachanwalt Insolvenz- und Sanierungsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für InsO Arbeitnehmer und Betriebsübergang: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Arbeitnehmer und Insolvenz: Insolvenzgeld bis 3 Monate, Sozialplan Hoechstgrenzen § 123 InsO, § 113 InsO Kuendigungsmaximum 3 Monate, Betriebsuebergang § 613a BGB im Insolvenz-Asset-Deal

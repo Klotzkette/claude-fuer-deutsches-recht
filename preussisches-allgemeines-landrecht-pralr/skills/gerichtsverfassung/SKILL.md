@@ -1,6 +1,6 @@
 ---
 name: gerichtsverfassung
-description: "Wenn es um Pralr Gerichtsverfassung Patrimonialgerichte in Preußisches Allgemeines Landrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. Auswahlstichwort: Gerichtsverfassung; Arbeitsfeld: Preußisches Allgemeines Landrecht."
+description: "Für Pralr Gerichtsverfassung Patrimonialgerichte: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt. Fachgebiet: Preußisches Allgemeines Landrecht. Route: gerichtsverfassung."
 ---
 
 # Pralr Gerichtsverfassung Patrimonialgerichte

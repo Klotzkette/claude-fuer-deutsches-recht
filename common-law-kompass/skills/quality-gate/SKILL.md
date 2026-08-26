@@ -1,6 +1,6 @@
 ---
 name: quality-gate
-description: "Wenn es um Common-Law-Qualitätstor in Common-Law-Kompass für deutsche Wirtschaftsjuristen geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Common-Law-Qualitätstor: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Common-Law-Qualitätstor

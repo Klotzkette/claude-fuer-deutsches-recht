@@ -1,6 +1,6 @@
 ---
 name: kredit-darlehen-leistungsbegriff-bewusste
-description: "Wenn es um Kredit, Darlehen und Zinsenrückforderung in bereicherungs-und-anfechtungsrecht-prüfer geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. Auswahlstichwort: Kredit Darlehen Leistungsbegriff Bewusste; Arbeitsfeld: bereicherungs-und-anfechtungsrecht-prüfer."
+description: "Für Kredit, Darlehen und Zinsenrückforderung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt. Fachgebiet: bereicherungs-und-anfechtungsrecht-prüfer. Route: kredit-darlehen-leistungsbegriff-bewusste."
 ---
 
 # Kredit, Darlehen und Zinsenrückforderung

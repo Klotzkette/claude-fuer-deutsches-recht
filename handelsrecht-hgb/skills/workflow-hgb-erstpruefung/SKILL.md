@@ -1,6 +1,6 @@
 ---
 name: workflow-hgb-erstpruefung
-description: "Wenn es um HGB Erstprüfung in Handelsrecht HGB geht: klärt Rolle, Ziel, Frist, Unterlagen und den passenden nächsten Fachskill; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für HGB Erstprüfung: routet Rolle, Frist, Unterlagen und Fachschritt; Ergebnis: Tatbestands- oder Anspruchsmatrix."
 ---
 
 # HGB Erstprüfung

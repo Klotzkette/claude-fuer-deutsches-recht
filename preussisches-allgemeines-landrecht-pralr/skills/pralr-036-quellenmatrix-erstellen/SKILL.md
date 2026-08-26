@@ -1,6 +1,6 @@
 ---
 name: pralr-036-quellenmatrix-erstellen
-description: "Wenn es um Quellenmatrix in Preußisches Allgemeines Landrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. Auswahlstichwort: Pralr 036 Quellenmatrix Erstellen; Arbeitsfeld: Preußisches Allgemeines Landrecht."
+description: "Für Quellenmatrix: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt. Fachgebiet: Preußisches Allgemeines Landrecht. Route: pralr-036-quellenmatrix-erstellen."
 ---
 
 # Quellenmatrix

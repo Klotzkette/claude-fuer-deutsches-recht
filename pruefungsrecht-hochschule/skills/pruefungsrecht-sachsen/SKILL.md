@@ -1,6 +1,6 @@
 ---
 name: pruefungsrecht-sachsen
-description: "Wenn es um Prüfungsrecht Sachsen in Prüfungsrecht an Hochschulen und Universitäten geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Prüfungsrecht Sachsen: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Tatbestands- oder Anspruchsmatrix."
 ---
 
 # Prüfungsrecht Sachsen

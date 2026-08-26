@@ -1,6 +1,6 @@
 ---
 name: sanierungsgewinn-3a-estg-im-starug-plan
-description: "Wenn es um Sanierungsgewinn — Paragraph 3a EStG bei StaRUG-Restrukturierungsplan in Insolvenzrecht geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
+description: "Für Sanierungsgewinn — Paragraph 3a EStG bei StaRUG-Restrukturierungsplan: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Sanierungsgewinn — Paragraph 3a EStG bei StaRUG-Restrukturierungsplan

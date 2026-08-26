@@ -1,6 +1,6 @@
 ---
 name: akten-und-grundstuecksaufnahme
-description: "Wenn es um Akten- und Grundstücksaufnahme in Nachbarschaftsstreit-Prüfer geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Chronologie mit Belegmatrix und Widerspruchsliste."
+description: "Für Akten- und Grundstücksaufnahme: ordnet Akte, Belege und Lücken; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Akten- und Grundstücksaufnahme

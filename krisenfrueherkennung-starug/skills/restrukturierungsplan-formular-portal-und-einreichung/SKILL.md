@@ -1,6 +1,6 @@
 ---
 name: restrukturierungsplan-formular-portal-und-einreichung
-description: "Wenn es um Restrukturierungsplan: Formular, Portal und Einreichungslogik in Krisenfrüherkennung und StaRUG-Management geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Restrukturierungsplan: Formular, Portal und Einreichungslogik: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Einreichungsplan mit Form- und Nachweischeck."
 ---
 
 # Restrukturierungsplan: Formular, Portal und Einreichungslogik

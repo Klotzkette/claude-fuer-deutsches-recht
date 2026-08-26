@@ -1,6 +1,6 @@
 ---
 name: employment-contract-software-engineer-de
-description: "Wenn es um Arbeitsvertrag Software Engineer DE in Softwarerecht Deutschland/EU/International/USA geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen."
+description: "Für Arbeitsvertrag Software Engineer DE: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Arbeitsvertrag Software Engineer DE

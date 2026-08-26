@@ -1,6 +1,6 @@
 ---
 name: erbschein-antrag
-description: "Wenn es um Erbschein beantragen wenn Erbfolge nachgewiesen werden muss in Fachanwalt Erbrecht geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
+description: "Für Erbschein beantragen wenn Erbfolge nachgewiesen werden muss: erstellt Entwurf mit Antrag, Beweis und Anlagen; Ergebnis: Schriftsatz mit Begründungs- und Anlagenlogik."
 ---
 
 # Erbschein beantragen wenn Erbfolge nachgewiesen werden muss

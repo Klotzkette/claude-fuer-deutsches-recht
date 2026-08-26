@@ -1,6 +1,6 @@
 ---
 name: verarbeitungsverzeichnis-art30
-description: "Wenn es um Verarbeitungsverzeichnis: Formular, Portal und Einreichungslogik in Datenschutzrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. Auswahlstichwort: Verarbeitungsverzeichnis Art30; Arbeitsfeld: Datenschutzrecht."
+description: "Für Verarbeitungsverzeichnis: Formular, Portal und Einreichungslogik: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Verarbeitungsverzeichnis: Formular, Portal und Einreichungslogik

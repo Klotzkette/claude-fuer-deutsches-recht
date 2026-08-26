@@ -1,6 +1,6 @@
 ---
 name: versand-check-weihnachtskarten
-description: "Wenn es um Versand-Vor-Check (Pflicht vor jedem Versand) in Kanzlei-Allgemein geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
+description: "Für Versand-Vor-Check (Pflicht vor jedem Versand): ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Versand-Vor-Check (Pflicht vor jedem Versand)

@@ -1,6 +1,6 @@
 ---
 name: eingliederungshilfe-sgb-ix-rehabilitation
-description: "Wenn es um Eingliederungshilfe Sgb Ix Rehabilitation in selbstvertreter-sozialgericht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Eingliederungshilfe SGB Ix Rehabilitation: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Eingliederungshilfe Sgb Ix Rehabilitation

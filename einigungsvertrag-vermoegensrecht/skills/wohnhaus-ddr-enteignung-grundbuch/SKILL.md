@@ -1,6 +1,6 @@
 ---
 name: wohnhaus-ddr-enteignung-grundbuch
-description: "Wenn es um Wohnhaus Ddr Enteignung Berechtigte Er in Einigungsvertrag und Vermögensrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Wohnhaus Ddr Enteignung Berechtigte Er: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Wohnhaus Ddr Enteignung Berechtigte Er

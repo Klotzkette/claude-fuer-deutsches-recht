@@ -1,6 +1,6 @@
 ---
 name: sektor-ki-foundation-models-compute-daten
-description: "Wenn es um Sektor digitale Werkzeuge-Foundation-Models, Compute und Daten in Kartellrecht — Marktabgrenzungsprüfung geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Sektor digitale Werkzeuge-Foundation-Models, Compute und Daten: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Sektor KI-Foundation-Models, Compute und Daten

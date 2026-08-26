@@ -2,25 +2,25 @@
 
 ## Zusammensetzung
 
-Diese Vollprüfung enthält top-15 von 61 Skills des Plugins `insolvenzforderungsanmeldungspruefung`.
+Diese Vollprüfung enthält top-15 von 59 Skills des Plugins `insolvenzforderungsanmeldungspruefung`.
 
 ## Inhaltsverzeichnis
 
 1. **juristischer-argumentationskern** — Schaltet sich ein, wenn in Insolvenzforderungsanmeldungsprüfung ein juristisches Arbeitsprodukt tragfähig begründet werd…
-2. **einstieg-routing** — Wenn es um Einstieg und Routing in Insolvenzforderungsanmeldungsprüfung geht: klärt Rolle, Ziel, Frist, Unterlagen und d…
-3. **insolvenzforderungsanmeldungspruefung-erstpruefung** — Wenn es um Insolvenzforderungsanmeldungspruefung: Erstprüfung, Rollenklärung und Mandatsziel in Insolvenzforderungsanmel…
-4. **rang-tabellenauszug-tabellenimport** — Wenn es um Rang: Schriftsatz-, Brief- und Memo-Bausteine in Insolvenzforderungsanmeldungsprüfung geht: erstellt den pass…
-5. **tabellenimport-zahlen-schwellen-und-berechnung** — Wenn es um Tabellenimport: Zahlen, Schwellenwerte und Berechnung in Insolvenzforderungsanmeldungsprüfung geht: rechnet S…
-6. **streitige-forderung-179-180** — Wenn es um Streitige Forderung und Feststellungsklage in Insolvenzforderungsanmeldungsprüfung geht: erstellt den passend…
-7. **forderungsgrund-rang-und-belegpruefung** — Wenn es um Forderungsgrund, Rang und Belegprüfung zur Tabelle in Insolvenzforderungsanmeldungsprüfung geht: ordnet Akten…
-8. **betrag-behoerden-gericht-und-registerweg** — Wenn es um Betrag: Behörden-, Gerichts- oder Registerweg in Insolvenzforderungsanmeldungsprüfung geht: rechnet Schwellen…
-9. **grund-risikoampel-und-gegenargumente** — Wenn es um Grund: Risikoampel, Gegenargumente und Verteidigungslinien in Insolvenzforderungsanmeldungsprüfung geht: zerl…
-10. **pruefungstermin-compliance-dokumentation-und-akte** — Wenn es um Prüfungstermin: Compliance-Dokumentation und Aktenvermerk in Insolvenzforderungsanmeldungsprüfung geht: zerle…
-11. **kanalcheck-beweislast-masseverbindlichkeit** — Wenn es um Kanalcheck: Beweislast, Darlegungslast und Substantiierung in Insolvenzforderungsanmeldungsprüfung geht: prüf…
-12. **spezial-pruefungstermin-compliance-dokumentation-und-akte** — Wenn es um Pruefungstermin: Compliance-Dokumentation und Aktenvermerk in Insolvenzforderungsanmeldungsprüfung geht: prüf…
-13. **feststellung-forderungsgrund-rang-grund** — Wenn es um Feststellung: Internationaler Bezug und Schnittstellen in Insolvenzforderungsanmeldungsprüfung geht: prüft Fr…
-14. **inso-forderungsanmeldung-start-chronologie-fristen** — Wenn es um Insolvenzforderungsanmeldungspruefung — Allgemein in Insolvenzforderungsanmeldungsprüfung geht: prüft Frist, …
-15. **masseverbindlichkeit-sonderfall-und-edge-case** — Wenn es um Masseverbindlichkeit: Sonderfall und Edge-Case-Prüfung in Insolvenzforderungsanmeldungsprüfung geht: prüft Fr…
+2. **einstieg-routing** — Für Einstieg und Routing: routet Rolle, Frist, Unterlagen und Fachschritt; Ergebnis: Prüfprodukt mit Risiko und nächstem…
+3. **workflow-kaltstart-und-routing** — Für Kaltstart und Routing: routet Rolle, Frist, Unterlagen und Fachschritt; Ergebnis: Prüfprodukt mit Risiko und nächste…
+4. **insolvenzforderungsanmeldungspruefung-erstpruefung** — Für Insolvenzforderungsanmeldungsprüfung: Erstprüfung, Rollenklärung und Mandatsziel: routet Rolle, Frist, Unterlagen un…
+5. **anschluss-routing** — Für Anschluss-Routing: routet Rolle, Frist, Unterlagen und Fachschritt; Ergebnis: Prüfprodukt mit Risiko und nächstem Sc…
+6. **forderungsanmeldung-mandantenkommunikation-redteam-qualitygate** — Für Mandantenkommunikation: prüft Ergebnis, Beweislast und Gegenposition; Ergebnis: Gegenprüfung mit Beweis- und Fristen…
+7. **quellen-livecheck** — Für Rechtsquellen-Livecheck: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Sc…
+8. **workflow-redteam-qualitygate** — Für Red-Team Qualitygate: prüft Ergebnis, Beweislast und Gegenposition; Ergebnis: Gegenprüfung mit Beweis- und Fristench…
+9. **workflow-chronologie-und-belegmatrix** — Für Chronologie und Belegmatrix: ordnet Akte, Belege und Lücken; Ergebnis: Chronologie mit Beleg- und Widerspruchsmatrix…
+10. **output-waehlen** — Für Output wählen: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt. Fac…
+11. **workflow-unterlagen-lueckenliste** — Für Unterlagen- und Lückenliste: ordnet Akte, Belege und Lücken; Ergebnis: Dokumentenmatrix mit Nachforderungsliste. Fac…
+12. **bestreiten-interessen-betrag** — Für Belege: Dokumentenmatrix, Lückenliste und Nachforderung: rechnet Beträge, Schwellen und Varianten; Ergebnis: Berechn…
+13. **workflow-fristen-und-risikoampel** — Für Fristen- und Risikoampel: prüft Frist, Form, Zuständigkeit und Eilbedarf; Ergebnis: Fristen- und Risikoampel. Fachge…
+14. **tabellenimport-zahlen-schwellen-und-berechnung** — Für Tabellenimport: Zahlen, Schwellenwerte und Berechnung: rechnet Beträge, Schwellen und Varianten; Ergebnis: Berechnun…
+15. **unterlagen-luecken** — Für Unterlagen und Lücken: ordnet Akte, Belege und Lücken; Ergebnis: Dokumentenmatrix mit Nachforderungsliste. Fachgebie…
 
 ---
 
@@ -144,7 +144,7 @@ Ausgangspunkt für dieses Plugin: Verwalter oder Anspruchsteller für Insolvenzr
 
 ## Skill: `einstieg-routing`
 
-_Wenn es um Einstieg und Routing in Insolvenzforderungsanmeldungsprüfung geht: klärt Rolle, Ziel, Frist, Unterlagen und den passenden nächsten Fachskill; liefert eine Fristen- und Risikoampel mit Sofortschritten._
+_Für Einstieg und Routing: routet Rolle, Frist, Unterlagen und Fachschritt; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt. Fachgebiet: Insolvenzforderungsanmeldungsprüfung._
 
 # Einstieg und Routing
 
@@ -186,9 +186,65 @@ Dieser Einstieg routet **Insolvenzforderungsanmeldungspruefung** vom ersten Sach
 
 ---
 
+## Skill: `workflow-kaltstart-und-routing`
+
+_Für Kaltstart und Routing: routet Rolle, Frist, Unterlagen und Fachschritt; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt. Fachgebiet: Insolvenzforderungsanmeldungsprüfung._
+
+# Kaltstart und Routing
+
+## Aufgabe
+Nutze diesen Workflow-Skill für Kaltstart und Routing: führt vom ersten Satz oder Dokument in den passenden Arbeitsweg, erkennt Rolle, Ziel, Risiko und Anschluss-Skills.
+
+## Kaltstart
+Wenn Material vorliegt, arbeite zuerst mit dem Material. Stelle nur Rückfragen, die für die nächste Weiche nötig sind:
+
+1. Wer fragt in welcher Rolle?
+2. Was ist das gewünschte Ergebnis?
+3. Gibt es Fristen, Termine, Zustellungen, Zahlungen oder Sanktionen?
+4. Welche Unterlagen, Daten oder Belege liegen bereits vor?
+
+## Arbeitsworkflow
+1. Rolle, Ziel, Frist und Unterlagenlage in höchstens fünf Fragen klären.
+2. Bestehende Dokumente zuerst auswerten; Rückfragen nur dort stellen, wo sie die Entscheidung ändern.
+3. Passende Spezialskills aus diesem Plugin vorschlagen und begründen.
+4. Ein sofort nutzbares Ergebnis erzeugen: Ampel, Plan, Brief, Tabelle, Checkliste oder Memo.
+
+## Output-Standard
+- Kurzbild: worum es geht, was gesichert ist, was offen ist.
+- Prüf- oder Bearbeitungsmatrix mit den entscheidenden Punkten.
+- Konkreter nächster Schritt mit Frist, Zuständigkeit und Unterlagen.
+- Bei Außenkommunikation: knapper, sachlicher Textbaustein ohne unnötige Nebenangaben.
+
+## Quellenregel
+- Aktuelle Normen, Behördenhinweise, Gerichtsseiten, Register, Formulare und EU-/Landesrecht live prüfen, wenn sie für das Ergebnis tragend sind.
+- Rechtsprechung nur mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle ausgeben.
+- Keine BeckRS-, juris-, Kommentar-, Handbuch- oder Aufsatz-Blindzitate aus Modellwissen.
+- Unsicherheiten und Annahmen ausdrücklich markieren.
+
+## Routing-Weichen Forderungsanmeldung
+- **Rolle des Mandanten?**
+  - Gläubiger meldet an: §§ 174–177 InsO, formgerecht (Schriftsatz oder Online-Portal, je nach Gericht).
+  - Insolvenzverwalter prüft: §§ 175, 176 InsO Tabellenprüfung, Bestreiten Grund oder Rang.
+  - Schuldner bestreitet: § 178 Abs. 1 S. 2 InsO — wirkt nur gegen Vollstreckung nach Verfahrensaufhebung § 201 Abs. 2 InsO.
+- **Rangordnung sofort klären:**
+  - **Aussonderung** §§ 47 InsO: Eigentum, EV-Vorbehalt — kein Anmelden nötig, aber Geltendmachung gegen Verwalter.
+  - **Absonderung** §§ 49–52 InsO: Sicherungseigentum, Pfandrecht, Grundpfandrecht — nachrangige Anmeldung des Ausfalls (§ 52 InsO).
+  - **Masseverbindlichkeit** § 55 InsO: nach Verfahrenseröffnung entstandene Verbindlichkeiten — keine Anmeldung, direkter Anspruch gegen Verwalter.
+  - **Insolvenzforderung** § 38 InsO: einfach quotal — Standardanmeldung.
+  - **Nachrangige Forderung** § 39 InsO: Zinsen, Geldstrafen, Gesellschafterdarlehen § 39 Abs. 1 Nr. 5 InsO — nur auf besondere Aufforderung des Gerichts (§ 174 Abs. 3 InsO).
+- **Vorrechte / Insolvenzgeld?**
+  - Insolvenzgeld § 165 SGB III: Bundesagentur tritt in Lohnforderungen ein (3 Monate vor Eröffnung).
+  - Steuer/Sozialversicherung: kein Vorrecht im deutschen Recht — einfache Insolvenzforderung.
+
+## Eilige Trigger
+- **Anmeldefrist** § 28 InsO (Beschluss legt Frist fest, regelmäßig 4–6 Wochen): nach Ablauf ist Anmeldung als nachträgliche Anmeldung § 177 InsO möglich, Sondertermin erforderlich.
+- **Prüfungstermin** § 176 InsO: vor diesem Termin sollte Anmeldung vorliegen.
+
+---
+
 ## Skill: `insolvenzforderungsanmeldungspruefung-erstpruefung`
 
-_Wenn es um Insolvenzforderungsanmeldungspruefung: Erstprüfung, Rollenklärung und Mandatsziel in Insolvenzforderungsanmeldungsprüfung geht: klärt Rolle, Ziel, Frist, Unterlagen und den passenden nächsten Fachskill; liefert eine Fristen- und Risikoampel mit Sofortschritten._
+_Für Insolvenzforderungsanmeldungsprüfung: Erstprüfung, Rollenklärung und Mandatsziel: routet Rolle, Frist, Unterlagen und Fachschritt; Ergebnis: Tatbestands- oder Anspruchsmatrix._
 
 # Insolvenzforderungsanmeldungspruefung: Erstprüfung, Rollenklärung und Mandatsziel
 
@@ -256,11 +312,356 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 
 ---
 
-## Skill: `rang-tabellenauszug-tabellenimport`
+## Skill: `anschluss-routing`
 
-_Wenn es um Rang: Schriftsatz-, Brief- und Memo-Bausteine in Insolvenzforderungsanmeldungsprüfung geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik._
+_Für Anschluss-Routing: routet Rolle, Frist, Unterlagen und Fachschritt; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt. Fachgebiet: Insolvenzforderungsanmeldungsprüfung._
 
-# Rang: Schriftsatz-, Brief- und Memo-Bausteine
+# Anschluss-Routing
+
+## Einsatzlage
+
+Dieses Anschluss-Routing für **Insolvenzforderungsanmeldungspruefung** wählt nach dem ersten Ergebnis die passende Vertiefung, Eskalation, Fristensicherung oder Dokumentenerstellung.
+
+## Fachlandkarte dieses Plugins
+
+- `aktenanlage-batchregister` — Aktenanlage Batchregister
+- `beleg-und-urkundencheck` — Beleg und Urkundencheck
+- `bestreiten-interessen-betrag` — Bestreiten Interessen Betrag
+- `bestreiten-mehrparteien-konflikt-und-interessen` — Bestreiten Mehrparteien Konflikt und Interessen
+- `betrag-behoerden-gericht-und-registerweg` — Betrag Behoerden Gericht und Registerweg
+- `dubletten-serienforderungen` — Dubletten Serienforderungen
+- `feststellung-forderungsgrund-rang-grund` — Feststellung Forderungsgrund Rang Grund
+- `forderungsanmeldung-mandantenkommunikation-redteam-qualitygate` — Forderungsanmeldung Mandantenkommunikation Redteam Qualitygate
+- `vbuh-verhandlung-vergleich-und-eskalation` — Forderungsanmeldung Vbuh Verhandlung Vergleich Eskalation
+- `forderungsgrund-rang-und-belegpruefung` — Forderungsgrund Rang und Belegpruefung
+- `formalpruefung-174` — Formalpruefung 174
+- `grund-betrag-zinsen` — Grund Betrag Zinsen
+- `grund-risikoampel-und-gegenargumente` — Grund Risikoampel und Gegenargumente
+- `dokumente-intake` — Dokumente Intake
+- `einstieg-routing` — Einstieg Routing
+
+## Arbeitsweg
+
+- Ergebnis sichten: Welche Insolvenzforderungsanmeldungspruefung-Fragen sind nach diesem Skill beantwortet, welche bleiben offen oder neu entstehen?
+- Anschlussweichen identifizieren: drohende Frist (die im Fachgebiet einschlägigen Verfahrens- und materiellen Fristen pflichtmäßig vorab markieren und nicht aus Modellwissen finalisieren), notwendige Dokumente (Vertragsurkunden, Schriftsätze, Verwaltungsakte, Protokolle, Bescheide und externe Beweismittel des Fachgebiets), nächste Verfahrensstufe oder Sachgebiet.
+- Konkreten Folge-Skill aus der Fachlandkarte oben benennen — nicht generisch "weitermachen", sondern Skill-Slug nennen.
+- Eskalation an Mandant, Gegner, zuständiges Gericht oder Behörde, etwaige Sachverständige oder beauftragte Stellen oder Spezialisten klären, wenn der Vorgang die Skill-Grenze überschreitet.
+- Mandantenkommunikation vorbereiten: Was muss der Mandant tun, bis wann, welche Unterlagen bringen, welche Risiken sind offen?
+
+## Qualitätsanker
+
+- Normen und Rechtsprechung nach `references/quellenhygiene.md` und `references/zitierweise.md` behandeln.
+- Wenn eine Spezialfrage sichtbar wird, den passenden Skill nennen und kurz erklären, warum genau dieser Arbeitsgang passt.
+- Bei Zeitdruck zuerst Frist, Zuständigkeit, Form und Beweislast sichern.
+
+---
+
+## Skill: `forderungsanmeldung-mandantenkommunikation-redteam-qualitygate`
+
+_Für Mandantenkommunikation: prüft Ergebnis, Beweislast und Gegenposition; Ergebnis: Gegenprüfung mit Beweis- und Fristencheck. Fachgebiet: Insolvenzforderungsanmeldungsprüfung._
+
+# Mandantenkommunikation
+
+## Arbeitsauftrag
+
+Dieser Arbeitsgang macht **Mandantenkommunikation** im Bereich **insolvenzforderungsanmeldungspruefung** sofort bearbeitbar: erst Akte lesen, dann Rollen, Ziel, Fristen, Belege und Entscheidungspunkte ordnen. Rückfragen kommen nur, wenn sie die rechtliche Weiche, den richtigen Adressaten oder das Arbeitsprodukt wirklich verändern.
+
+## Aktenstart ohne Leerlauf
+
+1. Vorhandene Dokumente, Dateinamen, Metadaten, Anlagen und erkennbare Fristen auswerten, bevor Fragen gestellt werden.
+2. Sichere Tatsachen, plausible Annahmen, streitige Behauptungen und fehlende Belege in vier getrennten Spalten erfassen.
+3. Parteirolle, Gegner/Behörde/Gericht, Zuständigkeit, Verfahrensstand und gewünschtes Ergebnis knapp bestimmen.
+4. Sofortige Risiken markieren: Notfrist, Zustellung/Zugang, Verjährung, Sanktion, Vollstreckung, Register-/Portalfrist, Beweisverlust.
+5. Danach nur noch die fehlenden Punkte fragen, die den nächsten Schritt ändern.
+
+## Fachliche Anker
+
+- BGB §§ 194 ff., 280 ff., 286, 288, 362 ff.; ZPO §§ 253, 688 ff., 794, 802a ff.; RVG/GKG für Kosten.
+- InsO §§ 38, 87, 174 ff. bei Insolvenzbezug; Hemmung/Neubeginn der Verjährung stets gesondert prüfen.
+- Parteien, Anspruchsgrundlage, Fälligkeit, Mahnung, Einwendungen, Belege, Zustellung und Vollstreckbarkeit getrennt ausgeben.
+
+## Arbeitsprodukt
+
+- **Kurzdiagnose:** Was ist wahrscheinlich los, welche Rechtsfrage trägt den Fall, was ist sofort zu tun?
+- **Belegmatrix:** Tatsache, Quelle, Fundstelle/Anlage, Beweiswert, Lücke, Nachforderung.
+- **Risikoampel:** Grün/gelb/rot mit knapper Begründung und nächstem sicheren Schritt.
+- **Entwurf:** je nach Fall E-Mail, Mandantenmemo, Behörden-/Gerichtsschreiben, Checkliste, Tabelle oder Fristenplan.
+- **Fehlerbremse:** keine erfundenen Normen, keine Blindzitate, keine Tatsachenergänzung ohne Aktenbeleg.
+
+## Ergänzende Hinweise
+
+## Kommunikation Forderungsanmeldung — was die Mandantin wissen muss
+- **Anmeldefrist § 28 InsO:** Frist vom Insolvenzgericht im Eröffnungsbeschluss bestimmt. Bei verspäteter Anmeldung (§ 177 InsO): Sonderprüfungstermin auf Kosten des Anmelders.
+- **Erwartete Quote realistisch einschätzen:** Bei Unternehmensinsolvenzen sind Quoten von 5–10 % auf einfache Insolvenzforderungen (§ 38 InsO) typisch; nachrangige Forderungen (§ 39 InsO) erhalten meist 0 %.
+- **Sicherheiten getrennt behandeln:** Wer Aussonderungsrecht (§ 47 InsO) hat, ist nicht Insolvenzgläubiger; bei Absonderungsrecht (§§ 49–51 InsO) wird Ausfallbetrag (§ 52 InsO) angemeldet.
+- **Vorsicht bei Massegläubigern:** Wer nach Eröffnung Leistungen erbringt, hat Anspruch gegen die Masse (§ 55 InsO) — direkte Zahlungsklage, keine Anmeldung.
+- **Anfechtungsrisiko nicht unterschätzen:** Zahlungen, die in der Krise oder im Anfechtungszeitraum geleistet wurden (§§ 130, 131, 133 InsO), können vom Verwalter zurückgefordert werden — Mandantin frühzeitig informieren.
+- **Kostenrisiko:** Tabellenklage löst Gerichtskosten und Anwaltskosten aus. Bei kleinen Forderungen oft wirtschaftlich nicht sinnvoll — Mandantin auf Quote/Kosten-Verhältnis hinweisen.
+
+---
+
+## Skill: `quellen-livecheck`
+
+_Für Rechtsquellen-Livecheck: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt. Fachgebiet: Insolvenzforderungsanmeldungsprüfung._
+
+# Rechtsquellen-Livecheck
+
+## Einsatzlage
+
+Dieser Quellen-Livecheck für **Insolvenzforderungsanmeldungspruefung** trennt amtliche Normfassung, frei prüfbare Rechtsprechung, Behördenhinweise, Formularstand und offene Aktualitätsrisiken.
+
+## Fachlandkarte dieses Plugins
+
+- `aktenanlage-batchregister` — Aktenanlage Batchregister
+- `beleg-und-urkundencheck` — Beleg und Urkundencheck
+- `bestreiten-interessen-betrag` — Bestreiten Interessen Betrag
+- `bestreiten-mehrparteien-konflikt-und-interessen` — Bestreiten Mehrparteien Konflikt und Interessen
+- `betrag-behoerden-gericht-und-registerweg` — Betrag Behoerden Gericht und Registerweg
+- `dubletten-serienforderungen` — Dubletten Serienforderungen
+- `feststellung-forderungsgrund-rang-grund` — Feststellung Forderungsgrund Rang Grund
+- `forderungsanmeldung-mandantenkommunikation-redteam-qualitygate` — Forderungsanmeldung Mandantenkommunikation Redteam Qualitygate
+- `vbuh-verhandlung-vergleich-und-eskalation` — Forderungsanmeldung Vbuh Verhandlung Vergleich Eskalation
+- `forderungsgrund-rang-und-belegpruefung` — Forderungsgrund Rang und Belegpruefung
+- `formalpruefung-174` — Formalpruefung 174
+- `grund-betrag-zinsen` — Grund Betrag Zinsen
+- `grund-risikoampel-und-gegenargumente` — Grund Risikoampel und Gegenargumente
+- `anschluss-routing` — Anschluss Routing
+- `dokumente-intake` — Dokumente Intake
+
+## Arbeitsweg
+
+- Tragende Normen (§ 174 InsO, Belege, Grund, Betrag, Rang, vbuH, Nachforderungen, Tabellenimport, Pr) zuerst amtlich verifizieren: gesetze-im-internet.de oder spezialisiertes Bundesgesetzblatt-Portal; nicht aus Modellwissen finalisieren.
+- Rechtsprechung nur mit vollständiger Zitatkette: Gericht, Senat, Entscheidungsform, Datum, Aktenzeichen, Fundstelle (BGHZ/BVerfGE/amtl. Sammlung) und frei prüfbare Quelle (dejure.org, openJur, Pressemitteilungen des Gerichts, BGH-/BVerfG-Datenbank).
+- Paywall-Quellen (juris, beck-online) nicht als alleinige Verifikation nutzen; immer eine freie Bestätigung beilegen.
+- Dynamische Bereiche im Insolvenzforderungsanmeldungspruefung (Rechtsverordnungen, Verwaltungspraxis, Mietspiegel, Tarife) gesondert tagesaktuell prüfen, weil Modellwissen veraltet ist.
+- Quellenstand und offene Unsicherheit im Output sichtbar machen — kein Pseudo-Zitat ohne Live-Check.
+
+## Qualitätsanker
+
+- Normen und Rechtsprechung nach `references/quellenhygiene.md` und `references/zitierweise.md` behandeln.
+- Wenn eine Spezialfrage sichtbar wird, den passenden Skill nennen und kurz erklären, warum genau dieser Arbeitsgang passt.
+- Bei Zeitdruck zuerst Frist, Zuständigkeit, Form und Beweislast sichern.
+
+---
+
+## Skill: `workflow-redteam-qualitygate`
+
+_Für Red-Team Qualitygate: prüft Ergebnis, Beweislast und Gegenposition; Ergebnis: Gegenprüfung mit Beweis- und Fristencheck. Fachgebiet: Insolvenzforderungsanmeldungsprüfung._
+
+# Red-Team Qualitygate
+
+## Arbeitsauftrag
+
+Dieser Arbeitsgang macht **Red-Team Qualitygate** im Bereich **insolvenzforderungsanmeldungspruefung** sofort bearbeitbar: erst Akte lesen, dann Rollen, Ziel, Fristen, Belege und Entscheidungspunkte ordnen. Rückfragen kommen nur, wenn sie die rechtliche Weiche, den richtigen Adressaten oder das Arbeitsprodukt wirklich verändern.
+
+## Aktenstart ohne Leerlauf
+
+1. Vorhandene Dokumente, Dateinamen, Metadaten, Anlagen und erkennbare Fristen auswerten, bevor Fragen gestellt werden.
+2. Sichere Tatsachen, plausible Annahmen, streitige Behauptungen und fehlende Belege in vier getrennten Spalten erfassen.
+3. Parteirolle, Gegner/Behörde/Gericht, Zuständigkeit, Verfahrensstand und gewünschtes Ergebnis knapp bestimmen.
+4. Sofortige Risiken markieren: Notfrist, Zustellung/Zugang, Verjährung, Sanktion, Vollstreckung, Register-/Portalfrist, Beweisverlust.
+5. Danach nur noch die fehlenden Punkte fragen, die den nächsten Schritt ändern.
+
+## Fachliche Anker
+
+- BGB §§ 194 ff., 280 ff., 286, 288, 362 ff.; ZPO §§ 253, 688 ff., 794, 802a ff.; RVG/GKG für Kosten.
+- InsO §§ 38, 87, 174 ff. bei Insolvenzbezug; Hemmung/Neubeginn der Verjährung stets gesondert prüfen.
+- Parteien, Anspruchsgrundlage, Fälligkeit, Mahnung, Einwendungen, Belege, Zustellung und Vollstreckbarkeit getrennt ausgeben.
+
+## Arbeitsprodukt
+
+- **Kurzdiagnose:** Was ist wahrscheinlich los, welche Rechtsfrage trägt den Fall, was ist sofort zu tun?
+- **Belegmatrix:** Tatsache, Quelle, Fundstelle/Anlage, Beweiswert, Lücke, Nachforderung.
+- **Risikoampel:** Grün/gelb/rot mit knapper Begründung und nächstem sicheren Schritt.
+- **Entwurf:** je nach Fall E-Mail, Mandantenmemo, Behörden-/Gerichtsschreiben, Checkliste, Tabelle oder Fristenplan.
+- **Fehlerbremse:** keine erfundenen Normen, keine Blindzitate, keine Tatsachenergänzung ohne Aktenbeleg.
+
+## Ergänzende Hinweise
+
+## Red-Team Forderungsanmeldung
+- **Anspruchsgrund präzise?** Vertrag mit Datum, Parteien, Leistung — nicht "diverse Rechnungen". § 174 Abs. 2 InsO verlangt Bezeichnung des Grundes.
+- **Forderungsbetrag aufgegliedert?** Hauptforderung, Verzugszinsen mit Zeitraum und Zinssatz, Kosten — nicht alles "klassisch addiert". Ohne Aufgliederung droht Bestreiten.
+- **Rang richtig?** § 38 InsO (einfache Forderung) vs. § 39 InsO (nachrangig) — insbesondere Zinsen ab Eröffnung sind § 39 Abs. 1 Nr. 1 InsO; Gesellschafterdarlehen § 39 Abs. 1 Nr. 5 InsO.
+- **Sicherheiten getrennt geprüft?** Eigentumsvorbehalt → Aussonderung § 47 InsO; Sicherungseigentum/Globalzession → Absonderung §§ 49, 51 InsO; Ausfallbetrag § 52 InsO.
+- **Vorsatzanfechtung übersehen?** Ist die Forderung in den letzten 4 Jahren entstanden und gab es Kenntnis der Zahlungsunfähigkeit? § 133 Abs. 1 InsO (10-Jahres-Frist a. F. / 4-Jahres-Frist bei kongruenten Leistungen seit SanInsFoG, Stand prüfen).
+- **Frist nicht versäumt?** § 28 InsO Anmeldefrist im Eröffnungsbeschluss; bei Verspätung Sonderprüfungstermin mit Kosten zu Lasten des Anmelders.
+- **Beleg-Halluzination ausgeschlossen?** Keine erfundenen Rechnungsnummern oder Datumsangaben — alles muss in den Unterlagen belegt sein.
+
+---
+
+## Skill: `workflow-chronologie-und-belegmatrix`
+
+_Für Chronologie und Belegmatrix: ordnet Akte, Belege und Lücken; Ergebnis: Chronologie mit Beleg- und Widerspruchsmatrix. Fachgebiet: Insolvenzforderungsanmeldungsprüfung._
+
+# Chronologie und Belegmatrix
+
+## Arbeitsauftrag
+
+Dieser Arbeitsgang macht **Chronologie und Belegmatrix** im Bereich **insolvenzforderungsanmeldungspruefung** sofort bearbeitbar: erst Akte lesen, dann Rollen, Ziel, Fristen, Belege und Entscheidungspunkte ordnen. Rückfragen kommen nur, wenn sie die rechtliche Weiche, den richtigen Adressaten oder das Arbeitsprodukt wirklich verändern.
+
+## Aktenstart ohne Leerlauf
+
+1. Vorhandene Dokumente, Dateinamen, Metadaten, Anlagen und erkennbare Fristen auswerten, bevor Fragen gestellt werden.
+2. Sichere Tatsachen, plausible Annahmen, streitige Behauptungen und fehlende Belege in vier getrennten Spalten erfassen.
+3. Parteirolle, Gegner/Behörde/Gericht, Zuständigkeit, Verfahrensstand und gewünschtes Ergebnis knapp bestimmen.
+4. Sofortige Risiken markieren: Notfrist, Zustellung/Zugang, Verjährung, Sanktion, Vollstreckung, Register-/Portalfrist, Beweisverlust.
+5. Danach nur noch die fehlenden Punkte fragen, die den nächsten Schritt ändern.
+
+## Fachliche Anker
+
+- BGB §§ 194 ff., 280 ff., 286, 288, 362 ff.; ZPO §§ 253, 688 ff., 794, 802a ff.; RVG/GKG für Kosten.
+- InsO §§ 38, 87, 174 ff. bei Insolvenzbezug; Hemmung/Neubeginn der Verjährung stets gesondert prüfen.
+- Parteien, Anspruchsgrundlage, Fälligkeit, Mahnung, Einwendungen, Belege, Zustellung und Vollstreckbarkeit getrennt ausgeben.
+
+## Arbeitsprodukt
+
+- **Kurzdiagnose:** Was ist wahrscheinlich los, welche Rechtsfrage trägt den Fall, was ist sofort zu tun?
+- **Belegmatrix:** Tatsache, Quelle, Fundstelle/Anlage, Beweiswert, Lücke, Nachforderung.
+- **Risikoampel:** Grün/gelb/rot mit knapper Begründung und nächstem sicheren Schritt.
+- **Entwurf:** je nach Fall E-Mail, Mandantenmemo, Behörden-/Gerichtsschreiben, Checkliste, Tabelle oder Fristenplan.
+- **Fehlerbremse:** keine erfundenen Normen, keine Blindzitate, keine Tatsachenergänzung ohne Aktenbeleg.
+
+## Ergänzende Hinweise
+
+## Forderungsanmeldungs-Chronologie
+- **Vor Verfahrenseröffnung:**
+ - Forderungsbegründung (Vertrag, Lieferung, Leistung, Urteil) — Stichtag entscheidet für vorinsolvenzliche Anmeldung in StaRUG/Vergleich oder Insolvenzanmeldung.
+ - ggf. Sicherungsabreden (Eigentumsvorbehalt § 449 BGB, Sicherungsabtretung, Pfandrecht) — werden später § 47 InsO Aus-/§§ 49–51 InsO Absonderungsrechte.
+- **Verfahrenseröffnung (§ 27 InsO):**
+ - Insolvenzbekanntmachung mit Anmeldefrist (regelmäßig 4–6 Wochen, im Eröffnungsbeschluss konkret bezeichnet).
+ - Verwalter wird namentlich benannt und ist Anmeldeadressat (§ 174 Abs. 1 InsO).
+- **Anmeldephase:**
+ - Anmeldung § 174 InsO mit Grund, Betrag, ggf. Rang und Beleg.
+ - Bei nachträglicher Anmeldung § 177 InsO: nach Frist möglich, Sondertermin erforderlich.
+- **Prüfungstermin § 176 InsO:**
+ - Verwalter erklärt zu jeder Forderung: anerkannt, bestritten (Grund/Rang) oder nicht angemeldet.
+ - Tabellenführung beim Insolvenzgericht.
+- **Bestreiten und Feststellungsklage § 180 InsO:**
+ - Bestreitende Partei (Verwalter oder anderer Gläubiger) erklärt Bestreiten im Prüfungstermin.
+ - Anmelder erhebt Feststellungsklage § 180 InsO — bei vor Insolvenz bereits Titel: § 179 InsO Umkehr der Klagelast (Bestreitender klagt auf Negation).
+ - Frist § 189 Abs. 2 InsO: Feststellung der Forderung muss erfolgen, sonst keine Verteilung.
+- **Verteilung:**
+ - Abschlagsverteilung § 187 InsO oder Schlussverteilung § 196 InsO an in Tabelle festgestellte Forderungen.
+
+## Belegmatrix-Spalten
+| Datum | Ereignis | Norm | Beleg | Konsequenz |
+|---|---|---|---|---|
+| TT.MM.JJJJ | Forderungsbegründung | Vertrag / Urteil | Rechnung, Lieferschein, Urteil | Status der Forderung |
+| TT.MM.JJJJ | Anmeldung | § 174 InsO | Anmeldeschreiben mit Belegen | Eintragung in Tabelle |
+| TT.MM.JJJJ | Prüfungstermin | § 176 InsO | Tabellenauszug | Anerkennung / Bestreiten |
+| TT.MM.JJJJ | Feststellung / Bestreiten | § 178 InsO | Tabellenfortschreibung | ggf. Feststellungsklage § 180 InsO |
+
+## Widersprüche markieren
+- Doppelte Anmeldung gleicher Forderung (typisch bei Gesamtschuldnerschaft, Bürgschaft, Abtretung).
+- Anmeldung mit unklarem Rang (einfache § 38 InsO vs. nachrangige § 39 InsO).
+- Nicht angezeigte Sicherheit (Verwalter merkt Absonderung nicht).
+
+---
+
+## Skill: `output-waehlen`
+
+_Für Output wählen: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt. Fachgebiet: Insolvenzforderungsanmeldungsprüfung._
+
+# Output wählen
+
+## Einsatzlage
+
+Diese Output-Weiche für **Insolvenzforderungsanmeldungspruefung** entscheidet, ob Memo, Antrag, Schriftsatz, Tabelle, Risikoampel, Fragenliste oder Mandantenbrief der richtige nächste Schritt ist.
+
+## Fachlandkarte dieses Plugins
+
+- `aktenanlage-batchregister` — Aktenanlage Batchregister
+- `beleg-und-urkundencheck` — Beleg und Urkundencheck
+- `bestreiten-interessen-betrag` — Bestreiten Interessen Betrag
+- `bestreiten-mehrparteien-konflikt-und-interessen` — Bestreiten Mehrparteien Konflikt und Interessen
+- `betrag-behoerden-gericht-und-registerweg` — Betrag Behoerden Gericht und Registerweg
+- `dubletten-serienforderungen` — Dubletten Serienforderungen
+- `feststellung-forderungsgrund-rang-grund` — Feststellung Forderungsgrund Rang Grund
+- `forderungsanmeldung-mandantenkommunikation-redteam-qualitygate` — Forderungsanmeldung Mandantenkommunikation Redteam Qualitygate
+- `vbuh-verhandlung-vergleich-und-eskalation` — Forderungsanmeldung Vbuh Verhandlung Vergleich Eskalation
+- `forderungsgrund-rang-und-belegpruefung` — Forderungsgrund Rang und Belegpruefung
+- `formalpruefung-174` — Formalpruefung 174
+- `grund-betrag-zinsen` — Grund Betrag Zinsen
+- `grund-risikoampel-und-gegenargumente` — Grund Risikoampel und Gegenargumente
+- `anschluss-routing` — Anschluss Routing
+- `dokumente-intake` — Dokumente Intake
+
+## Arbeitsweg
+
+- Ergebnistyp bestimmen: Schriftsatz an Mandant, Gegner, zuständiges Gericht oder Behörde, etwaige Sachverständige oder beauftragte Stellen, Mandantenmemo, Risikobericht, Vertragsentwurf, Entscheidungsvorlage, Behörden-Stellungnahme — was braucht der Mandant wirklich?
+- Pflichtformate festlegen: Tenor / Antrag / Begründung (Anspruchsgrundlage, Tatbestand, Subsumtion, Ergebnis); konkrete Norm-Pinpoints im Insolvenzforderungsanmeldungspruefung (§ 174 InsO, Belege, Grund, Betrag, Rang, vbuH, Nachforderungen, Tabellenimport, Pr) einarbeiten.
+- Adressat-Klarheit: Sprache, Detailtiefe und juristische Vorbildung des Empfängers berücksichtigen; bei Mandant ohne Vorbildung Klartext-Zusammenfassung voranstellen.
+- Beweis- und Anlagenstruktur planen (chronologisch, thematisch, K- und B-Anlagen); Bezugnahmen sauber kennzeichnen.
+- Quellenfußnoten und Zitierweise sichern; offene Punkte und Annahmen explizit als solche kennzeichnen.
+
+## Qualitätsanker
+
+- Normen und Rechtsprechung nach `references/quellenhygiene.md` und `references/zitierweise.md` behandeln.
+- Wenn eine Spezialfrage sichtbar wird, den passenden Skill nennen und kurz erklären, warum genau dieser Arbeitsgang passt.
+- Bei Zeitdruck zuerst Frist, Zuständigkeit, Form und Beweislast sichern.
+
+---
+
+## Skill: `workflow-unterlagen-lueckenliste`
+
+_Für Unterlagen- und Lückenliste: ordnet Akte, Belege und Lücken; Ergebnis: Dokumentenmatrix mit Nachforderungsliste. Fachgebiet: Insolvenzforderungsanmeldungsprüfung._
+
+# Unterlagen- und Lückenliste
+
+## Aufgabe
+Nutze diesen Workflow-Skill für Unterlagen- und Lückenliste: erstellt eine präzise Nachforderungsliste statt allgemeiner Fragebögen.
+
+## Kaltstart
+Wenn Material vorliegt, arbeite zuerst mit dem Material. Stelle nur Rückfragen, die für die nächste Weiche nötig sind:
+
+1. Wer fragt in welcher Rolle?
+2. Was ist das gewünschte Ergebnis?
+3. Gibt es Fristen, Termine, Zustellungen, Zahlungen oder Sanktionen?
+4. Welche Unterlagen, Daten oder Belege liegen bereits vor?
+
+## Arbeitsworkflow
+1. Rolle, Ziel, Frist und Unterlagenlage in höchstens fünf Fragen klären.
+2. Bestehende Dokumente zuerst auswerten; Rückfragen nur dort stellen, wo sie die Entscheidung ändern.
+3. Passende Spezialskills aus diesem Plugin vorschlagen und begründen.
+4. Ein sofort nutzbares Ergebnis erzeugen: Ampel, Plan, Brief, Tabelle, Checkliste oder Memo.
+
+## Output-Standard
+- Kurzbild: worum es geht, was gesichert ist, was offen ist.
+- Prüf- oder Bearbeitungsmatrix mit den entscheidenden Punkten.
+- Konkreter nächster Schritt mit Frist, Zuständigkeit und Unterlagen.
+- Bei Außenkommunikation: knapper, sachlicher Textbaustein ohne unnötige Nebenangaben.
+
+<!-- BEGIN ausformulierungspflicht (autogen) -->
+> **Ausformulierungspflicht und Formatstandard.** Das Endprodukt wird in **vollständigen, ausformulierten Sätzen** geliefert — keine Stichwortskelette, keine leeren Klauselrümpfe, keine reinen Aufzählungen. Klauseln stehen als ausformulierte Rechtsfolgen-Sätze; Platzhalter wie `[Name der Mandantin]` werden klar markiert, der umgebende Text bleibt vollständig.
+>
+> **Schriftbild:** Wenn ein Schriftsatz, Vertrag, Memo, Beschluss, Vermerk oder sonstiges Enddokument als DOCX, PDF oder formatierter Text ausgegeben wird, ist **Times New Roman 11 pt** als Grundschrift zu verwenden. Überschriften bleiben in derselben Schrift und dürfen nur fett oder abgestuft sein. Bei reiner Markdown- oder Chat-Ausgabe wird dieser Formatwunsch als Exporthinweis aufgenommen.
+>
+> **Nummerierung:** Gliederung ausschließlich dezimal (`1`, `1.1`, `1.1.1` und so weiter). Keine römischen Ziffern, keine Buchstaben- oder Mischgliederung.
+<!-- END ausformulierungspflicht (autogen) -->
+
+## Mindestunterlagen Forderungsanmeldung § 174 InsO
+- **Anspruchsbegründende Dokumente:** Vertrag(e), AGB, Rechnungen, Lieferscheine, Abnahmeprotokolle, Korrespondenz.
+- **Mahnung/Verzug:** Erste Mahnung (für Verzugsbeginn, § 286 BGB), Mahnbescheid/Vollstreckungsbescheid, Vollstreckungstitel.
+- **Saldenberechnung:** Hauptforderung, Zinsen aufgegliedert nach Zeitraum und Zinssatz, Kosten (vorgerichtliche Anwaltskosten, Mahnkosten, Inkassokosten, Gerichtskosten).
+- **Sicherheiten:** Sicherungsvertrag, Sicherungsschein, Bürgschaftsurkunde, Eigentumsvorbehalts-Klausel mit Annahmebestätigung des Schuldners.
+- **Insolvenzdaten:** Eröffnungsbeschluss, Anmeldeformular des Insolvenzverwalters, Anmeldefrist, Prüfungstermin.
+- **Vollmacht:** Falls Vertreter handelt — Original- oder beglaubigte Kopie für die Anmeldung.
+- **Rang § 39 InsO prüfen:** Insbesondere bei Gesellschafterdarlehen (§ 39 Abs. 1 Nr. 5 InsO), Zinsen ab Eröffnung (§ 39 Abs. 1 Nr. 1 InsO), Geldstrafen/Bußgelder (§ 39 Abs. 1 Nr. 3 InsO).
+- **Trade-off:** Eine zu schmale Beleglage führt zum Bestreiten im Prüfungstermin; eine zu breite Beleglage verzögert die Anmeldung. Pareto: Vertrag + Rechnung + Verzugsschreiben deckt 80 % der Standardfälle.
+
+## Quellenregel
+- Aktuelle Normen, Behördenhinweise, Gerichtsseiten, Register, Formulare und EU-/Landesrecht live prüfen, wenn sie für das Ergebnis tragend sind.
+- Rechtsprechung nur mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle ausgeben.
+- Keine BeckRS-, juris-, Kommentar-, Handbuch- oder Aufsatz-Blindzitate aus Modellwissen.
+- Unsicherheiten und Annahmen ausdrücklich markieren.
+
+---
+
+## Skill: `bestreiten-interessen-betrag`
+
+_Für Belege: Dokumentenmatrix, Lückenliste und Nachforderung: rechnet Beträge, Schwellen und Varianten; Ergebnis: Berechnungstabelle mit Annahmen und Kontrollfragen._
+
+# Belege: Dokumentenmatrix, Lückenliste und Nachforderung
 
 ## Arbeitsweg
 
@@ -271,12 +672,12 @@ _Wenn es um Rang: Schriftsatz-, Brief- und Memo-Bausteine in Insolvenzforderungs
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
 ## Fachlicher Kern — Insolvenz- und Sanierungsrecht
-- **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `Rang: Schriftsatz-, Brief- und Memo-Bausteine` und löse die dort angelegte Fachfrage; arbeite mit konkreten Tatbestandsmerkmalen, Beweisfragen und dem unmittelbar benötigten Arbeitsprodukt. Routingfragen bleiben Hilfsmittel, wenn Frist, Zuständigkeit oder Verfahrensart offen sind.
+- **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `Belege: Dokumentenmatrix, Lückenliste und Nachforderung` und löse die dort angelegte Fachfrage; arbeite mit konkreten Tatbestandsmerkmalen, Beweisfragen und dem unmittelbar benötigten Arbeitsprodukt. Routingfragen bleiben Hilfsmittel, wenn Frist, Zuständigkeit oder Verfahrensart offen sind.
 - **Arbeitsmodus:** Zuerst Insolvenzgrund, Frist, Organpflicht, Verfahrensstand, Sicherheiten, Massebezug und Anfechtungszeitraum klären; dann Sanierungsfähigkeit, Plan/StaRUG, Haftung und Dokumentationsschutz.
 - **Outputpflicht:** Krisenzeitachse, Liquiditätsstatus, Anfechtungsmatrix, Sicherheitenradar, IDW-S6-/Sanierungscheck, Register-/Grundbuch-Nachweispaket oder Schriftsatzbaustein.
 - **Fehlerbremse:** Tragende Normen/Entscheidungen live oder aus der Akte verifizieren; Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei prüfbarer Quelle. Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen.
 
-## Spezialwissen: Rang: Schriftsatz-, Brief- und Memo-Bausteine
+## Spezialwissen: Belege: Dokumentenmatrix, Lückenliste und Nachforderung
 - **Normen-/Quellenanker:** InsO.
 
 ## Fallweichen
@@ -290,30 +691,70 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 
 ## Arbeitsworkflow
 1. **Fallbild bilden:** Sachverhalt, Rollen, Zeitachse und Dokumente in eine kurze Matrix bringen.
-2. **Rechtsrahmen setzen:** Normen, Zuständigkeiten, Fristen, Formfragen und Verfahrensstand zum Themenfeld **Rang** prüfen.
+2. **Rechtsrahmen setzen:** Normen, Zuständigkeiten, Fristen, Formfragen und Verfahrensstand zum Themenfeld **Belege** prüfen.
 3. **Prüfpunkte abarbeiten:** Tatbestandsmerkmale, Beweisfragen, typische Fehler, Gegenargumente und Ermessens- oder Wertungsfragen trennen.
 4. **Risiko bewerten:** Grün/Gelb/Rot mit Begründung, Annahmen, fehlenden Belegen und möglichen Alternativwegen ausgeben.
 5. **Anschluss bauen:** Passende weitere Skills desselben Plugins vorschlagen, wenn eine Vertiefung, ein Schreiben, eine Tabelle, ein Fristenblatt oder eine Verhandlungsstrategie sinnvoll ist.
 
-## Rangsystematik nach §§ 38, 39 InsO und Sonderränge
-- **§ 38 InsO einfache Insolvenzforderung:** Standardfall; Befriedigung nach § 187 ff. InsO im Quotenverhältnis.
-- **§ 39 Abs. 1 InsO nachrangig:**
- - Nr. 1: Zinsen und Säumniszuschläge seit Eröffnung;
- - Nr. 2: Verfahrenskosten des Insolvenzgläubigers;
- - Nr. 3: Geldstrafen, Geldbußen und Zwangsmittel;
- - Nr. 4: Schenkungen seit Eröffnung;
- - Nr. 5: Rückzahlung von Gesellschafterdarlehen und gleichgestellte Forderungen (Sanierungsprivileg § 39 Abs. 4 InsO beachten).
-- **Aussonderung § 47 InsO:** Eigentumsrechte, Treuhand, einfacher Eigentumsvorbehalt — keine Insolvenzforderung; gesonderte Verfolgung.
-- **Absonderung §§ 49–52 InsO:** Pfandrechte, Sicherungseigentum, Sicherungszession, Vermieterpfandrecht — Befriedigung aus dem belasteten Gegenstand; Ausfallbetrag (§ 52 InsO) wird als § 38-Forderung angemeldet.
-- **Massegläubiger §§ 53–55 InsO:** Verfahrens- und Verwalterhandlungen nach Eröffnung — vorrangig zu befriedigen; bei Masseunzulänglichkeit § 209 InsO Reihenfolge zu beachten.
-- **Trade-off:** Höher gestaffelte Rangangabe in der Anmeldung erhöht den Anteil der Quote — wirtschaftlich aber meist marginal, weil nachrangige Forderungen idR ohne Quote bleiben.
-- **Praxis:** Bei Gesellschafterdarlehen unbedingt die Sanierungsprivilegien (§ 39 Abs. 4, Abs. 5 InsO) prüfen.
+---
+
+## Skill: `workflow-fristen-und-risikoampel`
+
+_Für Fristen- und Risikoampel: prüft Frist, Form, Zuständigkeit und Eilbedarf; Ergebnis: Fristen- und Risikoampel. Fachgebiet: Insolvenzforderungsanmeldungsprüfung._
+
+# Fristen- und Risikoampel
+
+## Arbeitsauftrag
+
+Dieser Arbeitsgang macht **Fristen- und Risikoampel** im Bereich **insolvenzforderungsanmeldungspruefung** sofort bearbeitbar: erst Akte lesen, dann Rollen, Ziel, Fristen, Belege und Entscheidungspunkte ordnen. Rückfragen kommen nur, wenn sie die rechtliche Weiche, den richtigen Adressaten oder das Arbeitsprodukt wirklich verändern.
+
+## Aktenstart ohne Leerlauf
+
+1. Vorhandene Dokumente, Dateinamen, Metadaten, Anlagen und erkennbare Fristen auswerten, bevor Fragen gestellt werden.
+2. Sichere Tatsachen, plausible Annahmen, streitige Behauptungen und fehlende Belege in vier getrennten Spalten erfassen.
+3. Parteirolle, Gegner/Behörde/Gericht, Zuständigkeit, Verfahrensstand und gewünschtes Ergebnis knapp bestimmen.
+4. Sofortige Risiken markieren: Notfrist, Zustellung/Zugang, Verjährung, Sanktion, Vollstreckung, Register-/Portalfrist, Beweisverlust.
+5. Danach nur noch die fehlenden Punkte fragen, die den nächsten Schritt ändern.
+
+## Fachliche Anker
+
+- BGB §§ 194 ff., 280 ff., 286, 288, 362 ff.; ZPO §§ 253, 688 ff., 794, 802a ff.; RVG/GKG für Kosten.
+- InsO §§ 38, 87, 174 ff. bei Insolvenzbezug; Hemmung/Neubeginn der Verjährung stets gesondert prüfen.
+- Parteien, Anspruchsgrundlage, Fälligkeit, Mahnung, Einwendungen, Belege, Zustellung und Vollstreckbarkeit getrennt ausgeben.
+
+## Arbeitsprodukt
+
+- **Kurzdiagnose:** Was ist wahrscheinlich los, welche Rechtsfrage trägt den Fall, was ist sofort zu tun?
+- **Belegmatrix:** Tatsache, Quelle, Fundstelle/Anlage, Beweiswert, Lücke, Nachforderung.
+- **Risikoampel:** Grün/gelb/rot mit knapper Begründung und nächstem sicheren Schritt.
+- **Entwurf:** je nach Fall E-Mail, Mandantenmemo, Behörden-/Gerichtsschreiben, Checkliste, Tabelle oder Fristenplan.
+- **Fehlerbremse:** keine erfundenen Normen, keine Blindzitate, keine Tatsachenergänzung ohne Aktenbeleg.
+
+## Ergänzende Hinweise
+
+## Forderungsanmeldungs-Ampel
+- **ROT — Bestreiten droht oder Frist läuft ab:**
+ - Verwalter bestreitet Grund § 178 InsO → Feststellungsklage § 180 InsO innerhalb von 1 Monat ab Prüfungstermin geboten.
+ - Anmeldefrist (regelmäßig 4–6 Wochen ab Eröffnung) verstrichen → Sondertermin § 177 InsO erforderlich, Verwalter kann Mehrkosten verlangen.
+ - Forderung steht im Range § 39 InsO und Aufforderung des Gerichts wurde nicht beachtet.
+- **GELB — Belege unvollständig:**
+ - Forderungsgrund nicht hinreichend substantiiert (§ 174 Abs. 2 InsO verlangt Grund und Betrag).
+ - Rangbestimmung unklar — Aussonderung, Absonderung, einfache Forderung, Nachrang nicht differenziert.
+ - Bei Anfechtbarkeit: Verwalter könnte aufrechnen oder zurückfordern (§§ 129 ff. InsO).
+- **GRÜN — Standardfall:**
+ - Form (Schriftsatz oder Portal), Frist, Belege, Vertretungsnachweis vollständig.
+
+## Risiken
+- **Aufrechnungsverbote:** § 96 InsO — Aufrechnungsverbote nach Eröffnung beachten.
+- **Steuerforderungen:** Finanzamt meldet routinemäßig an; bei umstrittenen Steuerbescheiden Vorbehalt erklären.
+- **Bürgschaft/Gesamtschuldner:** Anmeldung möglich, aber keine Doppelausschüttung (§ 43 InsO).
+- **Forderung mit Sicherheit:** zuerst aus Sicherheit befriedigen, Ausfall anmelden (§ 52 InsO).
 
 ---
 
 ## Skill: `tabellenimport-zahlen-schwellen-und-berechnung`
 
-_Wenn es um Tabellenimport: Zahlen, Schwellenwerte und Berechnung in Insolvenzforderungsanmeldungsprüfung geht: rechnet Schwellen, Beträge, Varianten und Kontrollannahmen durch; liefert eine Berechnungstabelle mit Schwellen, Annahmen und Kontrollfragen._
+_Für Tabellenimport: Zahlen, Schwellenwerte und Berechnung: rechnet Beträge, Schwellen und Varianten; Ergebnis: Berechnungstabelle mit Annahmen und Kontrollfragen._
 
 # Tabellenimport: Zahlen, Schwellenwerte und Berechnung
 
@@ -362,718 +803,47 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 
 ---
 
-## Skill: `streitige-forderung-179-180`
+## Skill: `unterlagen-luecken`
 
-_Wenn es um Streitige Forderung und Feststellungsklage in Insolvenzforderungsanmeldungsprüfung geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik._
+_Für Unterlagen und Lücken: ordnet Akte, Belege und Lücken; Ergebnis: Dokumentenmatrix mit Nachforderungsliste. Fachgebiet: Insolvenzforderungsanmeldungsprüfung._
 
-# Streitige Forderung und Feststellungsklage
+# Unterlagen und Lücken
 
-## Arbeitsbereich
+## Einsatzlage
 
-Streitige Forderungen nach §§ 179 und 180 InsO nachverfolgen: Anwendungsfall Forderung wurde beim Prüfungstermin bestritten und Gläubiger muss Feststellungsklage erheben oder laufenden Rechtsstreit aufnehmen. § 179 InsO Feststellungsklage, § 180 InsO Tabellenklage, § 184 InsO Schuldnerwiderspruch. Prüfraster Bestreitungsprotokoll, Klagefrist, Zuständiges Gericht, Titelumkehr bei Titel-Inhaber. Output Nachlaufprotokoll für bestrittene Forderungen mit Fristen und Klageempfehlung. Abgrenzung zu Schuldnerwiderspruch-184 und zu Verteilung-189. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Diese Unterlagenprüfung für **Insolvenzforderungsanmeldungspruefung** benennt fehlende Dokumente, streitige Tatsachen, Beweisrisiken und die kürzeste sichere Nachforderung.
 
-## Arbeitsweg
+## Fachlandkarte dieses Plugins
 
-- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
-- Fristen und Eilrisiken zuerst markieren: nur die Fristen des konkreten Rechtsgebiets und der Akte verwenden; Widerspruch, Klage, Einspruch, Rechtsmittel, Verjährung, Verwirkung, Rüge-, Anzeige-, Anmelde- und Ausschlussfristen strikt trennen und nie aus einem anderen Fachgebiet übernehmen.
-- Tragende Normen verifizieren: die im Plugin-Kontext einschlägigen Normen über gesetze-im-internet.de, dejure.org, eur-lex.europa.eu und die amtlichen Bundes-/Landesportale live prüfen — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
-- Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
-- Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
-
-## Fachlicher Kern — Insolvenz- und Sanierungsrecht
-- **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `Streitige Forderung und Feststellungsklage` und löse die dort angelegte Fachfrage; arbeite mit konkreten Tatbestandsmerkmalen, Beweisfragen und dem unmittelbar benötigten Arbeitsprodukt. Routingfragen bleiben Hilfsmittel, wenn Frist, Zuständigkeit oder Verfahrensart offen sind.
-- **Arbeitsmodus:** Zuerst Insolvenzgrund, Frist, Organpflicht, Verfahrensstand, Sicherheiten, Massebezug und Anfechtungszeitraum klären; dann Sanierungsfähigkeit, Plan/StaRUG, Haftung und Dokumentationsschutz.
-- **Outputpflicht:** Krisenzeitachse, Liquiditätsstatus, Anfechtungsmatrix, Sicherheitenradar, IDW-S6-/Sanierungscheck, Register-/Grundbuch-Nachweispaket oder Schriftsatzbaustein.
-- **Fehlerbremse:** Tragende Normen/Entscheidungen live oder aus der Akte verifizieren; Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei prüfbarer Quelle. Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen.
-
-## Startet bei
-
-- Forderung wurde bestritten
-- Gläubiger verlangt Tabellenauszug
-- Titel liegt vor
-- Rechtsstreit war anhängig
-
-## Workflow
-
-1. Bestreitenden identifizieren: Verwalter, Insolvenzgläubiger oder beide.
-2. Titelstatus prüfen, weil bei Titel oder Endurteil die Verfolgungslast anders liegen kann.
-3. Zuständigkeit nach § 180 InsO und anhängige Verfahren markieren.
-4. Umfang nach § 181 InsO prüfen: Feststellung nur wie angemeldet oder im Prüfungstermin bezeichnet.
-5. Nachlaufakte mit Klagefrist, Verantwortlichem, Prozessstand, Vergleichsoption und Tabellenberichtigung anlegen.
-
-## Ausgabe
-
-- Streitnachlaufkarte
-- Tabellenauszug-Anforderung
-- Feststellungsklage-Checkliste
-- Wiedervorlagen
-
-<!-- BEGIN ausformulierungspflicht (autogen) -->
-> **Ausformulierungspflicht und Formatstandard.** Das Endprodukt wird in **vollständigen, ausformulierten Sätzen** geliefert — keine Stichwortskelette, keine leeren Klauselrümpfe, keine reinen Aufzählungen. Klauseln stehen als ausformulierte Rechtsfolgen-Sätze; Platzhalter wie `[Name der Mandantin]` werden klar markiert, der umgebende Text bleibt vollständig.
->
-> **Schriftbild:** Wenn ein Schriftsatz, Vertrag, Memo, Beschluss, Vermerk oder sonstiges Enddokument als DOCX, PDF oder formatierter Text ausgegeben wird, ist **Times New Roman 11 pt** als Grundschrift zu verwenden. Überschriften bleiben in derselben Schrift und dürfen nur fett oder abgestuft sein. Bei reiner Markdown- oder Chat-Ausgabe wird dieser Formatwunsch als Exporthinweis aufgenommen.
->
-> **Nummerierung:** Gliederung ausschließlich dezimal (`1`, `1.1`, `1.1.1` und so weiter). Keine römischen Ziffern, keine Buchstaben- oder Mischgliederung.
-<!-- END ausformulierungspflicht (autogen) -->
-
-## Qualitätsgates
-
-- Klageumfang darf Anmeldung nicht überschreiten.
-- Titelumkehr wird ausdrücklich geprüft.
-- Anhängige Verfahren werden nicht doppelt neu geklagt.
-
-## Arbeitsstil
-
-Freundlich, präzise, aktennah. Der Skill trennt interne Bewertung, Tabellenvermerk und Außenkommunikation. Bei echten Mandatsdaten sind Berufsgeheimnis, Datenschutz und Kanzleifreigaben zwingend zu beachten.
-
-## Rechtliche Grundlagen und BGH-Leitentscheidungen (Stand Mai 2026)
-
-- **BGH IX ZR 114/23 vom 19.12.2024** — Forderungsanmeldung bei Abtretung: Zedent und Zessionar müssen jeweils separat anmelden und einen eigenen Prüfungstermin durchlaufen. Bestreiten kann auch auf Individualisierung gestützt werden. <https://dejure.org/dienste/vernetzung/rechtsprechung?Gericht=BGH&Datum=19.12.2024&Aktenzeichen=IX+ZR+114/23>
-- **BGH IX ZR 127/24 vom 13.11.2025** (Wirecard) — Bei Anmeldungen kapitalmarktrechtlicher Schadensersatzforderungen geschädigter Aktionäre den Nachrang einwenden (keine § 38 InsO-Forderung).
-
-## Paragrafenkette (Kernbereich)
-
-§ 174 InsO (Anmeldung) → § 175 InsO (Eintragung) → § 176 InsO (Prüfungstermin) → § 177 InsO (nachtraegliche Anmeldung) → § 178 InsO (Tabellenwirkung) → § 179 InsO (Bestreiten) → § 180 InsO (Feststellungsklage) → § 181 InsO (Klageumfang) → § 184 InsO (Schuldnerwiderspruch) → § 189 InsO (Verteilung bestrittene Forderungen)
-
-## Triage
-
-Bevor losgelegt wird, klaere:
-1. **Prüfungstermin-Datum?** § 176 InsO — Ladungsfrist 7 Tage; Tabelle vollstaendig vor Termin.
-2. **Rang der Forderung?** § 38 InsO (Regelrang), § 39 InsO (Nachrang), §§ 49-51 InsO (Absonderung).
-3. **Masseverbindlichkeit oder Insolvenzforderung?** §§ 54-55 InsO vs. § 38 InsO — entscheidend für Zahlungsreihenfolge.
-4. **Bestreitung substantiiert?** Wer bestreitet, muss konkret begründen (Grund, Höhe, Rang). Bei Vorsatz-Forderungen § 184 InsO Schuldnerwiderspruch eigenständig prüfen.
-
----
-
-## Skill: `forderungsgrund-rang-und-belegpruefung`
-
-_Wenn es um Forderungsgrund, Rang und Belegprüfung zur Tabelle in Insolvenzforderungsanmeldungsprüfung geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen._
-
-# Forderungsgrund, Rang und Belegprüfung zur Tabelle
+- `aktenanlage-batchregister` — Aktenanlage Batchregister
+- `beleg-und-urkundencheck` — Beleg und Urkundencheck
+- `bestreiten-interessen-betrag` — Bestreiten Interessen Betrag
+- `bestreiten-mehrparteien-konflikt-und-interessen` — Bestreiten Mehrparteien Konflikt und Interessen
+- `betrag-behoerden-gericht-und-registerweg` — Betrag Behoerden Gericht und Registerweg
+- `dubletten-serienforderungen` — Dubletten Serienforderungen
+- `feststellung-forderungsgrund-rang-grund` — Feststellung Forderungsgrund Rang Grund
+- `forderungsanmeldung-mandantenkommunikation-redteam-qualitygate` — Forderungsanmeldung Mandantenkommunikation Redteam Qualitygate
+- `vbuh-verhandlung-vergleich-und-eskalation` — Forderungsanmeldung Vbuh Verhandlung Vergleich Eskalation
+- `forderungsgrund-rang-und-belegpruefung` — Forderungsgrund Rang und Belegpruefung
+- `formalpruefung-174` — Formalpruefung 174
+- `grund-betrag-zinsen` — Grund Betrag Zinsen
+- `grund-risikoampel-und-gegenargumente` — Grund Risikoampel und Gegenargumente
+- `anschluss-routing` — Anschluss Routing
+- `dokumente-intake` — Dokumente Intake
 
 ## Arbeitsweg
 
-- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
-- Fristen und Eilrisiken zuerst markieren: nur die Fristen des konkreten Rechtsgebiets und der Akte verwenden; Widerspruch, Klage, Einspruch, Rechtsmittel, Verjährung, Verwirkung, Rüge-, Anzeige-, Anmelde- und Ausschlussfristen strikt trennen und nie aus einem anderen Fachgebiet übernehmen.
-- Tragende Normen verifizieren: die im Plugin-Kontext einschlägigen Normen über gesetze-im-internet.de, dejure.org, eur-lex.europa.eu und die amtlichen Bundes-/Landesportale live prüfen — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
-- Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
-- Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
-
-## Fachlicher Kern — Insolvenz- und Sanierungsrecht
-- **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `Forderungsgrund, Rang und Belegprüfung zur Tabelle` und löse die dort angelegte Fachfrage; arbeite mit konkreten Tatbestandsmerkmalen, Beweisfragen und dem unmittelbar benötigten Arbeitsprodukt. Routingfragen bleiben Hilfsmittel, wenn Frist, Zuständigkeit oder Verfahrensart offen sind.
-- **Arbeitsmodus:** Zuerst Insolvenzgrund, Frist, Organpflicht, Verfahrensstand, Sicherheiten, Massebezug und Anfechtungszeitraum klären; dann Sanierungsfähigkeit, Plan/StaRUG, Haftung und Dokumentationsschutz.
-- **Outputpflicht:** Krisenzeitachse, Liquiditätsstatus, Anfechtungsmatrix, Sicherheitenradar, IDW-S6-/Sanierungscheck, Register-/Grundbuch-Nachweispaket oder Schriftsatzbaustein.
-- **Fehlerbremse:** Tragende Normen/Entscheidungen live oder aus der Akte verifizieren; Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei prüfbarer Quelle. Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen.
-
-## Einstieg
-Wenn Material vorliegt, nutze es zuerst. Frage nur nach, was für die nächste Entscheidung fehlt:
-
-1. Wer handelt in welcher Rolle und gegen wen?
-2. Welches praktische Ziel soll erreicht werden?
-3. Welche Fristen, Termine, Zustellungen, Schwellenwerte oder Sanktionen stehen im Raum?
-4. Welche Unterlagen, Daten, Registerauszüge, Bescheide, Verträge, Screenshots oder sonstigen Belege liegen vor?
-5. Soll der Output intern, für Mandantschaft, Behörde, Gericht, Gegnerseite oder Gremium formuliert werden?
-
-## Arbeitsworkflow
-1. **Sortieren:** Sachverhalt, Dokumente und offene Punkte in eine knappe Fallmatrix bringen.
-2. **Rechtsrahmen:** Einschlägige Normen, Zuständigkeiten, Verfahren, Fristen und formelle Anforderungen live prüfen, soweit Aktualität tragend ist.
-3. **Materielle Weichen:** Die Kernfragen zu **Forderungsgrund, Rang und Belegprüfung zur Tabelle** mit Tatbestandsmerkmalen, Belegen, Gegenargumenten und typischen Praxisfehlern abarbeiten.
-4. **Risikoampel:** Ergebnis in Grün/Gelb/Rot mit Begründung, Unsicherheiten und Beweisbedarf einordnen.
-5. **Anschluss:** Passende weitere Skills desselben Plugins vorschlagen, wenn Spezialprüfung, Schriftsatz, Tabelle, Brief oder Verhandlungsstrategie sinnvoll ist.
-
-## Forderungsgrund nach § 174 Abs. 2 InsO
-
-- **Pflicht zur Substantiierung:** Forderungsgrund so darstellen, dass der Verwalter prüfen kann — Vertrag (Datum, Parteien, Inhalt), Lieferung/Leistung (Lieferschein, Stundenzettel), Rechnung (Datum, Nummer, Betrag), ggf. titulierter Anspruch (Urteil, Vollstreckungsbescheid).
-- **Bei vorsätzlich unerlaubter Handlung** (§ 174 Abs. 2 InsO i.V.m. § 302 InsO): **gesondert** als „vbuH-Forderung" anmelden — sonst kein Schutz vor Restschuldbefreiung.
-- **Bei Zinsen:** beziffern (Hauptforderung, Zinssatz, Startdatum) — bei nicht-bezifferten Zinsen separate Anmeldung erforderlich.
-
-## Rangstufen — Differenzierung zwingend
-
-- **Aussonderung § 47 InsO:**
- - Eigentum, Eigentumsvorbehalt (§ 449 BGB), Treuhand.
- - **Keine Anmeldung zur Tabelle**, aber Verwalter ist über das Aussonderungsrecht zu informieren — Herausgabeanspruch.
-- **Absonderung §§ 49–52 InsO:**
- - Pfandrecht (§ 50 InsO), Sicherungsabtretung (§ 51 Nr. 1 InsO), Sicherungseigentum (§ 51 Nr. 1 InsO), Grundpfandrecht (§ 49 InsO).
- - Anmeldung **mit Hinweis auf Sicherung**; Ausfall (§ 52 InsO) wird **nachträglich** angemeldet, wenn Sicherheit nicht ausreicht.
-- **Masseverbindlichkeit § 55 InsO:**
- - **Keine Anmeldung zur Tabelle** — direkter Anspruch gegen Verwalter aus der Masse.
- - Entstanden nach Verfahrenseröffnung durch Verwalter (§ 55 Abs. 1 Nr. 1 InsO) oder aus gegenseitigen Verträgen, deren Erfüllung der Verwalter wählt (§ 55 Abs. 1 Nr. 2 InsO).
-- **Einfache Insolvenzforderung § 38 InsO:**
- - Quotale Befriedigung — Standardanmeldung.
-- **Nachrangige Forderung § 39 InsO:**
- - § 39 Abs. 1 Nr. 1 Zinsen ab Eröffnung, Nr. 2 Kosten, Nr. 3 Geldstrafen/-bußen, Nr. 4 Schenkungen, Nr. 5 **Gesellschafterdarlehen** und gleichgestellte Forderungen.
- - Anmeldung **nur auf gesonderte Aufforderung** des Gerichts (§ 174 Abs. 3 InsO).
-
-## Belegpflicht und typische Fehler
-
-- **Beleg-Kopie reicht** — Original nicht erforderlich.
-- **Buchhaltungsauszüge** zur Substantiierung des Saldos.
-- **Bei Bürgschaft / Gesamtschuldnerschaft:** klar dokumentieren, sonst Doppelausschüttung droht (§ 43 InsO sperrt das).
-
-## Risikoampel
-- ROT: Anmeldung ohne Substantiierung — Verwalter wird bestreiten, Feststellungsklage erforderlich (§ 180 InsO).
-- GELB: Rang unklar gesetzt (Vermischung von § 38 und § 39 InsO) — Korrekturzeit bis zum Prüfungstermin.
-- GRÜN: Form, Substantiierung, Rangkennzeichnung, Beleg vollständig.
-
----
-
-## Skill: `betrag-behoerden-gericht-und-registerweg`
-
-_Wenn es um Betrag: Behörden-, Gerichts- oder Registerweg in Insolvenzforderungsanmeldungsprüfung geht: rechnet Schwellen, Beträge, Varianten und Kontrollannahmen durch; liefert eine Berechnungstabelle mit Schwellen, Annahmen und Kontrollfragen._
-
-# Betrag: Behörden-, Gerichts- oder Registerweg
-
-## Arbeitsweg
-
-- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
-- Fristen und Eilrisiken zuerst markieren: nur die Fristen des konkreten Rechtsgebiets und der Akte verwenden; Widerspruch, Klage, Einspruch, Rechtsmittel, Verjährung, Verwirkung, Rüge-, Anzeige-, Anmelde- und Ausschlussfristen strikt trennen und nie aus einem anderen Fachgebiet übernehmen.
-- Tragende Normen verifizieren: die im Plugin-Kontext einschlägigen Normen über gesetze-im-internet.de, dejure.org, eur-lex.europa.eu und die amtlichen Bundes-/Landesportale live prüfen — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
-- Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
-- Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
-
-## Fachlicher Kern — Insolvenz- und Sanierungsrecht
-- **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `Betrag: Behörden-, Gerichts- oder Registerweg` und löse die dort angelegte Fachfrage; arbeite mit konkreten Tatbestandsmerkmalen, Beweisfragen und dem unmittelbar benötigten Arbeitsprodukt. Routingfragen bleiben Hilfsmittel, wenn Frist, Zuständigkeit oder Verfahrensart offen sind.
-- **Arbeitsmodus:** Zuerst Insolvenzgrund, Frist, Organpflicht, Verfahrensstand, Sicherheiten, Massebezug und Anfechtungszeitraum klären; dann Sanierungsfähigkeit, Plan/StaRUG, Haftung und Dokumentationsschutz.
-- **Outputpflicht:** Krisenzeitachse, Liquiditätsstatus, Anfechtungsmatrix, Sicherheitenradar, IDW-S6-/Sanierungscheck, Register-/Grundbuch-Nachweispaket oder Schriftsatzbaustein.
-- **Fehlerbremse:** Tragende Normen/Entscheidungen live oder aus der Akte verifizieren; Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei prüfbarer Quelle. Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen.
-
-## Spezialwissen: Betrag: Behörden-, Gerichts- oder Registerweg
-- **Normen-/Quellenanker:** InsO.
-
-## Fallweichen
-Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur Rückfragen, die die nächste Weiche verändern:
-
-1. Welche Rolle hat die fragende Person und wer ist Gegenüber?
-2. Welches konkrete Ziel soll erreicht oder verhindert werden?
-3. Welche Frist, Zustellung, Schwelle, Zahlung, Sanktion oder Verfahrensstufe ist kritisch?
-4. Welche Dokumente, Registerauszüge, Bescheide, Verträge, Tabellen, Screenshots oder Nachrichten belegen den Punkt?
-5. Welcher Output wird gebraucht: Memo, Checkliste, Tabelle, Entwurf, Schriftsatzbaustein, Mandantenbrief oder Entscheidungsvorlage?
-
-## Arbeitsworkflow
-1. **Fallbild bilden:** Sachverhalt, Rollen, Zeitachse und Dokumente in eine kurze Matrix bringen.
-2. **Rechtsrahmen setzen:** Normen, Zuständigkeiten, Fristen, Formfragen und Verfahrensstand zum Themenfeld **Betrag** prüfen.
-3. **Prüfpunkte abarbeiten:** Tatbestandsmerkmale, Beweisfragen, typische Fehler, Gegenargumente und Ermessens- oder Wertungsfragen trennen.
-4. **Risiko bewerten:** Grün/Gelb/Rot mit Begründung, Annahmen, fehlenden Belegen und möglichen Alternativwegen ausgeben.
-5. **Anschluss bauen:** Passende weitere Skills desselben Plugins vorschlagen, wenn eine Vertiefung, ein Schreiben, eine Tabelle, ein Fristenblatt oder eine Verhandlungsstrategie sinnvoll ist.
-
----
-
-## Skill: `grund-risikoampel-und-gegenargumente`
-
-_Wenn es um Grund: Risikoampel, Gegenargumente und Verteidigungslinien in Insolvenzforderungsanmeldungsprüfung geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten._
-
-# Grund: Risikoampel, Gegenargumente und Verteidigungslinien
-
-## Arbeitsweg
-
-- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
-- Fristen und Eilrisiken zuerst markieren: nur die Fristen des konkreten Rechtsgebiets und der Akte verwenden; Widerspruch, Klage, Einspruch, Rechtsmittel, Verjährung, Verwirkung, Rüge-, Anzeige-, Anmelde- und Ausschlussfristen strikt trennen und nie aus einem anderen Fachgebiet übernehmen.
-- Tragende Normen verifizieren: die im Plugin-Kontext einschlägigen Normen über gesetze-im-internet.de, dejure.org, eur-lex.europa.eu und die amtlichen Bundes-/Landesportale live prüfen — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
-- Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
-- Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
-
-## Fachlicher Kern — Insolvenz- und Sanierungsrecht
-- **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `Grund: Risikoampel, Gegenargumente und Verteidigungslinien` und löse die dort angelegte Fachfrage; arbeite mit konkreten Tatbestandsmerkmalen, Beweisfragen und dem unmittelbar benötigten Arbeitsprodukt. Routingfragen bleiben Hilfsmittel, wenn Frist, Zuständigkeit oder Verfahrensart offen sind.
-- **Arbeitsmodus:** Zuerst Insolvenzgrund, Frist, Organpflicht, Verfahrensstand, Sicherheiten, Massebezug und Anfechtungszeitraum klären; dann Sanierungsfähigkeit, Plan/StaRUG, Haftung und Dokumentationsschutz.
-- **Outputpflicht:** Krisenzeitachse, Liquiditätsstatus, Anfechtungsmatrix, Sicherheitenradar, IDW-S6-/Sanierungscheck, Register-/Grundbuch-Nachweispaket oder Schriftsatzbaustein.
-- **Fehlerbremse:** Tragende Normen/Entscheidungen live oder aus der Akte verifizieren; Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei prüfbarer Quelle. Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen.
-
-## Spezialwissen: Grund: Risikoampel, Gegenargumente und Verteidigungslinien
-- **Normen-/Quellenanker:** InsO.
-
-## Fallweichen
-Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur Rückfragen, die die nächste Weiche verändern:
-
-1. Welche Rolle hat die fragende Person und wer ist Gegenüber?
-2. Welches konkrete Ziel soll erreicht oder verhindert werden?
-3. Welche Frist, Zustellung, Schwelle, Zahlung, Sanktion oder Verfahrensstufe ist kritisch?
-4. Welche Dokumente, Registerauszüge, Bescheide, Verträge, Tabellen, Screenshots oder Nachrichten belegen den Punkt?
-5. Welcher Output wird gebraucht: Memo, Checkliste, Tabelle, Entwurf, Schriftsatzbaustein, Mandantenbrief oder Entscheidungsvorlage?
-
-## Arbeitsworkflow
-1. **Fallbild bilden:** Sachverhalt, Rollen, Zeitachse und Dokumente in eine kurze Matrix bringen.
-2. **Rechtsrahmen setzen:** Normen, Zuständigkeiten, Fristen, Formfragen und Verfahrensstand zum Themenfeld **Grund** prüfen.
-3. **Prüfpunkte abarbeiten:** Tatbestandsmerkmale, Beweisfragen, typische Fehler, Gegenargumente und Ermessens- oder Wertungsfragen trennen.
-4. **Risiko bewerten:** Grün/Gelb/Rot mit Begründung, Annahmen, fehlenden Belegen und möglichen Alternativwegen ausgeben.
-5. **Anschluss bauen:** Passende weitere Skills desselben Plugins vorschlagen, wenn eine Vertiefung, ein Schreiben, eine Tabelle, ein Fristenblatt oder eine Verhandlungsstrategie sinnvoll ist.
-
-## Bestreitungsgrund — Risikoampel
-- **Rot (Bestreiten regelmäßig erfolgreich):** Forderung nicht ausreichend bezeichnet (§ 174 Abs. 2 InsO); Verjährung; Erfüllung dokumentiert; Aufrechnung mit Gegenforderung; vbuH-Behauptung ohne Tatsachenvortrag.
-- **Gelb (Bestreiten mit Risiko):** Höhe streitig (Zinsen, Verzug, Mahnkosten); Rang streitig (§ 38 vs. § 39 InsO); Sicherheiten/Absonderung statt Tabellenforderung.
-- **Grün (Bestreiten schwierig):** Titulierte Forderung mit ordentlichem Urteil; Forderung aus rechtskräftigem Mahnbescheid; klar dokumentierte Vertragsverletzung mit Quittung.
-- **Verteidigung Anmelder:** Bei Bestreiten Substantiierung verstärken (Vertrag, Rechnung, Verzugsschreiben, Mahnbescheid), ggf. Zeugenbeweis und Sachverständigenbeweis im Tabellenklage-Verfahren.
-- **Verteidigung Verwalter:** Bei pauschaler Anmeldung Substantiierung anfordern; bei vbuH-Behauptung nach Tatsachenvortrag verlangen; Verjährung prüfen; Eigentumsvorbehalt oder Sicherungseigentum (§ 47 / §§ 49–51 InsO) statt einfache Forderung.
-- **Anfechtungsklage Verwalter:** Erhaltene Zahlung in den letzten 4 (kongruent)/10 (Vorsatz, § 133 InsO) Jahren? Aufrechnung als kongruente/inkongruente Deckung (§§ 130, 131 InsO)? Gesellschafterdarlehen (§ 135 InsO)?
-- **Praxis:** Bei Bestreiten Tabellenklage § 180 InsO innerhalb der gesetzten Frist; verspätet bedeutet Forderung gilt als nicht festgestellt.
-
----
-
-## Skill: `pruefungstermin-compliance-dokumentation-und-akte`
-
-_Wenn es um Prüfungstermin: Compliance-Dokumentation und Aktenvermerk in Insolvenzforderungsanmeldungsprüfung geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten._
-
-# Prüfungstermin: Compliance-Dokumentation und Aktenvermerk
-
-## Arbeitsweg
-
-- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
-- Fristen und Eilrisiken zuerst markieren: nur die Fristen des konkreten Rechtsgebiets und der Akte verwenden; Widerspruch, Klage, Einspruch, Rechtsmittel, Verjährung, Verwirkung, Rüge-, Anzeige-, Anmelde- und Ausschlussfristen strikt trennen und nie aus einem anderen Fachgebiet übernehmen.
-- Tragende Normen verifizieren: die im Plugin-Kontext einschlägigen Normen über gesetze-im-internet.de, dejure.org, eur-lex.europa.eu und die amtlichen Bundes-/Landesportale live prüfen — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
-- Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
-- Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
-
-## Fachlicher Kern — Insolvenz- und Sanierungsrecht
-- **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `Pruefungstermin: Compliance-Dokumentation und Aktenvermerk` und löse die dort angelegte Fachfrage; arbeite mit konkreten Tatbestandsmerkmalen, Beweisfragen und dem unmittelbar benötigten Arbeitsprodukt. Routingfragen bleiben Hilfsmittel, wenn Frist, Zuständigkeit oder Verfahrensart offen sind.
-- **Arbeitsmodus:** Zuerst Insolvenzgrund, Frist, Organpflicht, Verfahrensstand, Sicherheiten, Massebezug und Anfechtungszeitraum klären; dann Sanierungsfähigkeit, Plan/StaRUG, Haftung und Dokumentationsschutz.
-- **Outputpflicht:** Krisenzeitachse, Liquiditätsstatus, Anfechtungsmatrix, Sicherheitenradar, IDW-S6-/Sanierungscheck, Register-/Grundbuch-Nachweispaket oder Schriftsatzbaustein.
-- **Fehlerbremse:** Tragende Normen/Entscheidungen live oder aus der Akte verifizieren; Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei prüfbarer Quelle. Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen.
-
-## Spezialwissen: Prüfungstermin: Compliance-Dokumentation und Aktenvermerk
-- **Normen-/Quellenanker:** InsO.
-
-## Fallweichen
-Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur Rückfragen, die die nächste Weiche verändern:
-
-1. Welche Rolle hat die fragende Person und wer ist Gegenüber?
-2. Welches konkrete Ziel soll erreicht oder verhindert werden?
-3. Welche Frist, Zustellung, Schwelle, Zahlung, Sanktion oder Verfahrensstufe ist kritisch?
-4. Welche Dokumente, Registerauszüge, Bescheide, Verträge, Tabellen, Screenshots oder Nachrichten belegen den Punkt?
-5. Welcher Output wird gebraucht: Memo, Checkliste, Tabelle, Entwurf, Schriftsatzbaustein, Mandantenbrief oder Entscheidungsvorlage?
-
-## Arbeitsworkflow
-1. **Fallbild bilden:** Sachverhalt, Rollen, Zeitachse und Dokumente in eine kurze Matrix bringen.
-2. **Rechtsrahmen setzen:** Normen, Zuständigkeiten, Fristen, Formfragen und Verfahrensstand zum Themenfeld **Prüfungstermin** prüfen.
-3. **Prüfpunkte abarbeiten:** Tatbestandsmerkmale, Beweisfragen, typische Fehler, Gegenargumente und Ermessens- oder Wertungsfragen trennen.
-4. **Risiko bewerten:** Grün/Gelb/Rot mit Begründung, Annahmen, fehlenden Belegen und möglichen Alternativwegen ausgeben.
-5. **Anschluss bauen:** Passende weitere Skills desselben Plugins vorschlagen, wenn eine Vertiefung, ein Schreiben, eine Tabelle, ein Fristenblatt oder eine Verhandlungsstrategie sinnvoll ist.
-
-## Prüfungstermin §§ 175–178 InsO — Ablauf und Dokumentation
-- **§ 176 InsO Prüfungstermin:** Vom Gericht bestimmt; Verwalter und Schuldnerin sind zu laden; angemeldete Gläubiger können teilnehmen.
-- **§ 175 InsO Aufgabe Verwalter:** Bearbeitung der angemeldeten Forderungen; Eintragung in die Tabelle mit Stellungnahme (anerkannt / bestritten / vorbehalten).
-- **§ 178 Abs. 1 InsO Forderungsfeststellung:** Wenn weder Verwalter noch ein Gläubiger widerspricht, gilt die Forderung als festgestellt — Wirkung wie rechtskräftiges Urteil (§ 178 Abs. 3 InsO).
-- **§ 178 Abs. 2 InsO Widerspruch:** Wirkt zugunsten und gegen alle Gläubiger; Stamm-Widerspruch vom Schuldner: nur Wirkung für Restschuldbefreiung, sofern juristische Person — keine Restschuldbefreiung; bei natürlichen Personen § 184 InsO.
-- **§ 179 Abs. 1 InsO Tabellenklage:** Nach Bestreiten muss Anmelder Feststellungsklage erheben — Anmelder muss bei zuständigem Gericht klagen (Insolvenzgericht ist nicht zuständig).
-- **Aktenvermerk Pflichtbausteine:** Eingang Eröffnungsbeschluss, Anmeldung mit Datum, Stellungnahme Verwalter, Bestreitens-Begründung, Frist Tabellenklage, Klageerhebung.
-- **Compliance:** Bestreitens-Grund präzise dokumentieren — bei späterer Tabellenklage muss Verwalter die Substantiierung der Bestreiten-Gründe vortragen können.
-- **Praxis:** Sondertermin nach § 177 InsO bei verspäteter Anmeldung — Kostentragungsrisiko (§ 177 Abs. 1 Satz 2 InsO); rechtzeitig anmelden!
-
----
-
-## Skill: `kanalcheck-beweislast-masseverbindlichkeit`
-
-_Wenn es um Kanalcheck: Beweislast, Darlegungslast und Substantiierung in Insolvenzforderungsanmeldungsprüfung geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten._
-
-# Kanalcheck: Beweislast, Darlegungslast und Substantiierung
-
-## Arbeitsweg
-
-- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
-- Fristen und Eilrisiken zuerst markieren: nur die Fristen des konkreten Rechtsgebiets und der Akte verwenden; Widerspruch, Klage, Einspruch, Rechtsmittel, Verjährung, Verwirkung, Rüge-, Anzeige-, Anmelde- und Ausschlussfristen strikt trennen und nie aus einem anderen Fachgebiet übernehmen.
-- Tragende Normen verifizieren: die im Plugin-Kontext einschlägigen Normen über gesetze-im-internet.de, dejure.org, eur-lex.europa.eu und die amtlichen Bundes-/Landesportale live prüfen — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
-- Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
-- Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
-
-## Fachlicher Kern — Insolvenz- und Sanierungsrecht
-- **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `Kanalcheck: Beweislast, Darlegungslast und Substantiierung` und löse die dort angelegte Fachfrage; arbeite mit konkreten Tatbestandsmerkmalen, Beweisfragen und dem unmittelbar benötigten Arbeitsprodukt. Routingfragen bleiben Hilfsmittel, wenn Frist, Zuständigkeit oder Verfahrensart offen sind.
-- **Arbeitsmodus:** Zuerst Insolvenzgrund, Frist, Organpflicht, Verfahrensstand, Sicherheiten, Massebezug und Anfechtungszeitraum klären; dann Sanierungsfähigkeit, Plan/StaRUG, Haftung und Dokumentationsschutz.
-- **Outputpflicht:** Krisenzeitachse, Liquiditätsstatus, Anfechtungsmatrix, Sicherheitenradar, IDW-S6-/Sanierungscheck, Register-/Grundbuch-Nachweispaket oder Schriftsatzbaustein.
-- **Fehlerbremse:** Tragende Normen/Entscheidungen live oder aus der Akte verifizieren; Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei prüfbarer Quelle. Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen.
-
-## Spezialwissen: Kanalcheck: Beweislast, Darlegungslast und Substantiierung
-- **Normen-/Quellenanker:** InsO.
-
-## Fallweichen
-Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur Rückfragen, die die nächste Weiche verändern:
-
-1. Welche Rolle hat die fragende Person und wer ist Gegenüber?
-2. Welches konkrete Ziel soll erreicht oder verhindert werden?
-3. Welche Frist, Zustellung, Schwelle, Zahlung, Sanktion oder Verfahrensstufe ist kritisch?
-4. Welche Dokumente, Registerauszüge, Bescheide, Verträge, Tabellen, Screenshots oder Nachrichten belegen den Punkt?
-5. Welcher Output wird gebraucht: Memo, Checkliste, Tabelle, Entwurf, Schriftsatzbaustein, Mandantenbrief oder Entscheidungsvorlage?
-
-## Arbeitsworkflow
-1. **Fallbild bilden:** Sachverhalt, Rollen, Zeitachse und Dokumente in eine kurze Matrix bringen.
-2. **Rechtsrahmen setzen:** Normen, Zuständigkeiten, Fristen, Formfragen und Verfahrensstand zum Themenfeld **Kanalcheck** prüfen.
-3. **Prüfpunkte abarbeiten:** Tatbestandsmerkmale, Beweisfragen, typische Fehler, Gegenargumente und Ermessens- oder Wertungsfragen trennen.
-4. **Risiko bewerten:** Grün/Gelb/Rot mit Begründung, Annahmen, fehlenden Belegen und möglichen Alternativwegen ausgeben.
-5. **Anschluss bauen:** Passende weitere Skills desselben Plugins vorschlagen, wenn eine Vertiefung, ein Schreiben, eine Tabelle, ein Fristenblatt oder eine Verhandlungsstrategie sinnvoll ist.
-
----
-
-## Skill: `spezial-pruefungstermin-compliance-dokumentation-und-akte`
-
-_Wenn es um Pruefungstermin: Compliance-Dokumentation und Aktenvermerk in Insolvenzforderungsanmeldungsprüfung geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten._
-
-# Pruefungstermin: Compliance-Dokumentation und Aktenvermerk
-
-## Aufgabe
-Dieser Skill ist ein konkreter Fachbaustein für `insolvenzforderungsanmeldungspruefung`. Ausgangspunkt ist: Freistehendes Plugin für die Insolvenzforderungsanmeldungsprüfung: Intake, § 174 InsO, Belege, Grund, Betrag, Rang, vbuH, Nachforderungen, Tabellenimport, Prüfungstermin, Bestreiten, Feststellung, Tabellenauszug und Verteilung.
-
-Er führt durch **Compliance-Dokumentation und Aktenvermerk** im Themenfeld **Pruefungstermin**. Ziel ist nicht ein abstrakter Lexikontext, sondern ein belastbares Arbeitsprodukt für die nächste anwaltliche, behördliche, gerichtliche, organisatorische oder mandantenbezogene Entscheidung.
-
-
-## Fachlicher Zuschnitt
-
-- **Thema:** Pruefungstermin.
-- **Arbeitsfokus:** Compliance-Dokumentation und Aktenvermerk.
-- **Plugin-Rahmen:** Freistehendes Plugin für die Insolvenzforderungsanmeldungsprüfung: Intake, § 174 InsO, Belege, Grund, Betrag, Rang, vbuH, Nachforderungen, Tabellenimpor....
-- **Qualitätsanspruch:** Antworte nicht mit einer austauschbaren Standard-Checkliste. Nutze die Fachlogik dieses Plugins, benenne die konkret einschlägigen Normgruppen, Behörden, Register, Fristen, Dokumente oder Verfahrenshandlungen und trenne sichere Punkte von Live-Check-Bedarf.
-- **Eloquenz und Nutzen:** Führe die Nutzerin oder den Nutzer wie eine erfahrene Fachperson: kurze Orientierung, präzise Rückfragen, dann ein verwertbares Produkt mit Varianten, Gegenargumenten und nächstem Handgriff.
-
-## Kaltstart
-Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur Rückfragen, die die nächste Weiche verändern:
-
-1. Welche Rolle hat die fragende Person und wer ist Gegenüber?
-2. Welches konkrete Ziel soll erreicht oder verhindert werden?
-3. Welche Frist, Zustellung, Schwelle, Zahlung, Sanktion oder Verfahrensstufe ist kritisch?
-4. Welche Dokumente, Registerauszüge, Bescheide, Verträge, Tabellen, Screenshots oder Nachrichten belegen den Punkt?
-5. Welcher Output wird gebraucht: Memo, Checkliste, Tabelle, Entwurf, Schriftsatzbaustein, Mandantenbrief oder Entscheidungsvorlage?
-
-## Arbeitsworkflow
-1. **Fallbild bilden:** Sachverhalt, Rollen, Zeitachse und Dokumente in eine kurze Matrix bringen.
-2. **Rechtsrahmen setzen:** Normen, Zuständigkeiten, Fristen, Formfragen und Verfahrensstand zum Themenfeld **Pruefungstermin** prüfen.
-3. **Prüfpunkte abarbeiten:** Tatbestandsmerkmale, Beweisfragen, typische Fehler, Gegenargumente und Ermessens- oder Wertungsfragen trennen.
-4. **Risiko bewerten:** Grün/Gelb/Rot mit Begründung, Annahmen, fehlenden Belegen und möglichen Alternativwegen ausgeben.
-5. **Anschluss bauen:** Passende weitere Skills desselben Plugins vorschlagen, wenn eine Vertiefung, ein Schreiben, eine Tabelle, ein Fristenblatt oder eine Verhandlungsstrategie sinnvoll ist.
-
-## Output-Standard
-- **Kurzlage:** maximal fünf Sätze zu Ziel, Lage, Frist, Risiko und nächstem Schritt.
-- **Prüfmatrix:** Punkt, Norm/Quelle, Tatsache, Beleg, Bewertung, To-do.
-- **Arbeitsprodukt:** direkt nutzbarer Entwurf oder Baustein in der passenden Tonalität.
-- **Qualitätsgate:** keine Scheingenauigkeit; Lücken, Annahmen und Live-Check-Bedarf ausdrücklich markieren.
-
-<!-- BEGIN ausformulierungspflicht (autogen) -->
-> **Ausformulierungspflicht und Formatstandard.** Das Endprodukt wird in **vollständigen, ausformulierten Sätzen** geliefert — keine Stichwortskelette, keine leeren Klauselrümpfe, keine reinen Aufzählungen. Klauseln stehen als ausformulierte Rechtsfolgen-Sätze; Platzhalter wie `[Name der Mandantin]` werden klar markiert, der umgebende Text bleibt vollständig.
->
-> **Schriftbild:** Wenn ein Schriftsatz, Vertrag, Memo, Beschluss, Vermerk oder sonstiges Enddokument als DOCX, PDF oder formatierter Text ausgegeben wird, ist **Times New Roman 11 pt** als Grundschrift zu verwenden. Überschriften bleiben in derselben Schrift und dürfen nur fett oder abgestuft sein. Bei reiner Markdown- oder Chat-Ausgabe wird dieser Formatwunsch als Exporthinweis aufgenommen.
->
-> **Nummerierung:** Gliederung ausschließlich dezimal (`1`, `1.1`, `1.1.1` und so weiter). Keine römischen Ziffern, keine Buchstaben- oder Mischgliederung.
-<!-- END ausformulierungspflicht (autogen) -->
-
-## Prüfungstermin §§ 175–178 InsO — Ablauf und Dokumentation
-- **§ 176 InsO Prüfungstermin:** Vom Gericht bestimmt; Verwalter und Schuldnerin sind zu laden; angemeldete Gläubiger können teilnehmen.
-- **§ 175 InsO Aufgabe Verwalter:** Bearbeitung der angemeldeten Forderungen; Eintragung in die Tabelle mit Stellungnahme (anerkannt / bestritten / vorbehalten).
-- **§ 178 Abs. 1 InsO Forderungsfeststellung:** Wenn weder Verwalter noch ein Gläubiger widerspricht, gilt die Forderung als festgestellt — Wirkung wie rechtskräftiges Urteil (§ 178 Abs. 3 InsO).
-- **§ 178 Abs. 2 InsO Widerspruch:** Wirkt zugunsten und gegen alle Gläubiger; Stamm-Widerspruch vom Schuldner: nur Wirkung für Restschuldbefreiung, sofern juristische Person — keine Restschuldbefreiung; bei natürlichen Personen § 184 InsO.
-- **§ 179 Abs. 1 InsO Tabellenklage:** Nach Bestreiten muss Anmelder Feststellungsklage erheben — Anmelder muss bei zuständigem Gericht klagen (Insolvenzgericht ist nicht zuständig).
-- **Aktenvermerk Pflichtbausteine:** Eingang Eröffnungsbeschluss, Anmeldung mit Datum, Stellungnahme Verwalter, Bestreitens-Begründung, Frist Tabellenklage, Klageerhebung.
-- **Compliance:** Bestreitens-Grund präzise dokumentieren — bei späterer Tabellenklage muss Verwalter die Substantiierung der Bestreiten-Gründe vortragen können.
-- **Praxis:** Sondertermin nach § 177 InsO bei verspäteter Anmeldung — Kostentragungsrisiko (§ 177 Abs. 1 Satz 2 InsO); rechtzeitig anmelden!
-
-## Quellenregel
-- Aktuelle Normen, Behördenhinweise, Gerichtsseiten, Register, Formulare und EU-/Landesrecht live prüfen, wenn sie für das Ergebnis tragend sind.
-- Rechtsprechung nur mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle ausgeben.
-- Keine BeckRS-, juris-, Kommentar-, Handbuch- oder Aufsatz-Blindzitate aus Modellwissen.
-- Paywall-Literatur nur verwerten, wenn sie von der Nutzerin oder dem Nutzer als Text bereitgestellt wurde; dann nicht als frei verifizierte Quelle ausgeben.
-
----
-
-## Skill: `feststellung-forderungsgrund-rang-grund`
-
-_Wenn es um Feststellung: Internationaler Bezug und Schnittstellen in Insolvenzforderungsanmeldungsprüfung geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten._
-
-# Feststellung: Internationaler Bezug und Schnittstellen
-
-## Arbeitsweg
-
-- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
-- Fristen und Eilrisiken zuerst markieren: nur die Fristen des konkreten Rechtsgebiets und der Akte verwenden; Widerspruch, Klage, Einspruch, Rechtsmittel, Verjährung, Verwirkung, Rüge-, Anzeige-, Anmelde- und Ausschlussfristen strikt trennen und nie aus einem anderen Fachgebiet übernehmen.
-- Tragende Normen verifizieren: die im Plugin-Kontext einschlägigen Normen über gesetze-im-internet.de, dejure.org, eur-lex.europa.eu und die amtlichen Bundes-/Landesportale live prüfen — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
-- Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
-- Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
-
-## Fachlicher Kern — Insolvenz- und Sanierungsrecht
-- **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `Feststellung: Internationaler Bezug und Schnittstellen` und löse die dort angelegte Fachfrage; arbeite mit konkreten Tatbestandsmerkmalen, Beweisfragen und dem unmittelbar benötigten Arbeitsprodukt. Routingfragen bleiben Hilfsmittel, wenn Frist, Zuständigkeit oder Verfahrensart offen sind.
-- **Arbeitsmodus:** Zuerst Insolvenzgrund, Frist, Organpflicht, Verfahrensstand, Sicherheiten, Massebezug und Anfechtungszeitraum klären; dann Sanierungsfähigkeit, Plan/StaRUG, Haftung und Dokumentationsschutz.
-- **Outputpflicht:** Krisenzeitachse, Liquiditätsstatus, Anfechtungsmatrix, Sicherheitenradar, IDW-S6-/Sanierungscheck, Register-/Grundbuch-Nachweispaket oder Schriftsatzbaustein.
-- **Fehlerbremse:** Tragende Normen/Entscheidungen live oder aus der Akte verifizieren; Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei prüfbarer Quelle. Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen.
-
-## Spezialwissen: Feststellung: Internationaler Bezug und Schnittstellen
-- **Normen-/Quellenanker:** InsO.
-
-## Fallweichen
-Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur Rückfragen, die die nächste Weiche verändern:
-
-1. Welche Rolle hat die fragende Person und wer ist Gegenüber?
-2. Welches konkrete Ziel soll erreicht oder verhindert werden?
-3. Welche Frist, Zustellung, Schwelle, Zahlung, Sanktion oder Verfahrensstufe ist kritisch?
-4. Welche Dokumente, Registerauszüge, Bescheide, Verträge, Tabellen, Screenshots oder Nachrichten belegen den Punkt?
-5. Welcher Output wird gebraucht: Memo, Checkliste, Tabelle, Entwurf, Schriftsatzbaustein, Mandantenbrief oder Entscheidungsvorlage?
-
-## Arbeitsworkflow
-1. **Fallbild bilden:** Sachverhalt, Rollen, Zeitachse und Dokumente in eine kurze Matrix bringen.
-2. **Rechtsrahmen setzen:** Normen, Zuständigkeiten, Fristen, Formfragen und Verfahrensstand zum Themenfeld **Feststellung** prüfen.
-3. **Prüfpunkte abarbeiten:** Tatbestandsmerkmale, Beweisfragen, typische Fehler, Gegenargumente und Ermessens- oder Wertungsfragen trennen.
-4. **Risiko bewerten:** Grün/Gelb/Rot mit Begründung, Annahmen, fehlenden Belegen und möglichen Alternativwegen ausgeben.
-5. **Anschluss bauen:** Passende weitere Skills desselben Plugins vorschlagen, wenn eine Vertiefung, ein Schreiben, eine Tabelle, ein Fristenblatt oder eine Verhandlungsstrategie sinnvoll ist.
-
----
-
-## Skill: `inso-forderungsanmeldung-start-chronologie-fristen`
-
-_Wenn es um Insolvenzforderungsanmeldungspruefung — Allgemein in Insolvenzforderungsanmeldungsprüfung geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Chronologie mit Belegmatrix und Widerspruchsliste._
-
-# Insolvenzforderungsanmeldungspruefung — Allgemein
-
-## Arbeitsweg
-
-- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
-- Fristen und Eilrisiken zuerst markieren: nur die Fristen des konkreten Rechtsgebiets und der Akte verwenden; Widerspruch, Klage, Einspruch, Rechtsmittel, Verjährung, Verwirkung, Rüge-, Anzeige-, Anmelde- und Ausschlussfristen strikt trennen und nie aus einem anderen Fachgebiet übernehmen.
-- Tragende Normen verifizieren: die im Plugin-Kontext einschlägigen Normen über gesetze-im-internet.de, dejure.org, eur-lex.europa.eu und die amtlichen Bundes-/Landesportale live prüfen — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
-- Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
-- Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
-
-## Fachlicher Kern — Insolvenz- und Sanierungsrecht
-- **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `Insolvenzforderungsanmeldungspruefung — Allgemein` und löse die dort angelegte Fachfrage; arbeite mit konkreten Tatbestandsmerkmalen, Beweisfragen und dem unmittelbar benötigten Arbeitsprodukt. Routingfragen bleiben Hilfsmittel, wenn Frist, Zuständigkeit oder Verfahrensart offen sind.
-- **Arbeitsmodus:** Zuerst Insolvenzgrund, Frist, Organpflicht, Verfahrensstand, Sicherheiten, Massebezug und Anfechtungszeitraum klären; dann Sanierungsfähigkeit, Plan/StaRUG, Haftung und Dokumentationsschutz.
-- **Outputpflicht:** Krisenzeitachse, Liquiditätsstatus, Anfechtungsmatrix, Sicherheitenradar, IDW-S6-/Sanierungscheck, Register-/Grundbuch-Nachweispaket oder Schriftsatzbaustein.
-- **Fehlerbremse:** Tragende Normen/Entscheidungen live oder aus der Akte verifizieren; Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei prüfbarer Quelle. Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen.
-
-## Schnellstart-Workflow
-
-Dieser Allgemein-Skill ist der schöne, schnelle Eingang in das Plugin **Insolvenzforderungsanmeldungspruefung**. Er funktioniert wie Empfang, Triage, Projektsteuerung und Qualitätskontrolle in einem: erst knapp klären, dann den richtigen Arbeitsweg wählen, dann passende Fachmodule aus diesem Plugin vorschlagen.
-
-**Plugin-Fokus:** Freistehendes Plugin für die Insolvenzforderungsanmeldungsprüfung: Intake, § 174 InsO, Belege, Grund, Betrag, Rang, vbuH, Nachforderungen, Tabellenimport, Prüfungstermin, Bestreiten, Feststellung, Tabellenauszug und Verteilung.
-
-### 0. Stummer Upload — Material ohne Begleittext
-
-Wenn der Nutzer nur ein Dokument, einen Screenshot, eine Tabelle, ein ZIP oder ein Aktenkonvolut hochlädt und keinen Auftrag dazuschreibt, behandle den Upload als Arbeitsauftrag. Warte nicht auf einen Prompt. Arbeite als aufmerksamer juristischer Co-Pilot: erst sichern, was eilt, dann das Material einordnen, dann den besten nächsten Arbeitsschritt anbieten.
-
-**Pflicht-Reihenfolge bei stummem Upload:**
-
-1. **Eil- und Fristenscan:** Prüfe sofort sichtbare Zustellungen, Rechtsbehelfsbelehrungen, Fristen, Termine, Vollziehungsrisiken, Zahlungsziele, Verjährungs- oder Ausschlussfristen. Wenn etwas eilt, beginne die Antwort mit `Frist zuerst: ...`.
-2. **Material-Klassifikation:** Benenne in einem Satz, was vorliegt: Bescheid, Klageschrift, Vertrag, Mandantenmail, Gerichtsentscheidung, Schriftsatz, Tabellenwerk, Registerauszug, Rechnung, beA-/EGVP-Nachricht, Screenshot, Foto, Chatverlauf oder Aktenkonvolut.
-3. **Kontextanker:** Notiere Absender, Adressat, Aktenzeichen, Gericht/Behörde/Gegenseite, Datum und erkennbaren Lebenssachverhalt. Wenn der Text unleserlich ist, sage genau, welcher Teil fehlt.
-4. **Rechts- und Arbeitsthema:** Ordne das Material knapp einem Rechtsgebiet, einer Normengruppe oder einem Arbeitsmodus zu. Zitiere nur, was im Material oder im Plugin-Kontext wirklich trägt.
-5. **Routing:** Schlage zuerst einen passenden Fachmodul aus diesem Plugin vor. Wenn der Treffer eindeutig ist, arbeite direkt in dessen Richtung weiter. Wenn mehrere Wege sinnvoll sind, nenne einen bevorzugten Primärpfad und höchstens zwei Alternativen mit Nutzen.
-6. **Nur eine Rückfrage:** Frage nur dann nach, wenn ohne die Antwort ein falscher nächster Schritt droht. Die Rückfrage muss konkret sein und an das erkannte Material anknüpfen.
-
-**Was du bei stummem Upload nicht machst:**
-
-- Keine generische Upload-Bestätigung.
-- Keine vollständige Intake-Liste aus Abschnitt 1.
-- Keine erfundenen Dokumentdetails, Fristen, Anlagen oder Fundstellen.
-- Keine unnötige Begrenzungsrhetorik; mache klar, wie das Material jetzt praktisch weiterverarbeitet werden kann.
-
-**Antwortformat bei stummem Upload:**
-
-- **Erkannt:** [Materialart, Absender/Aktenzeichen falls sichtbar]
-- **Frist zuerst:** [konkretes Datum/Risiko oder `keine Frist erkennbar`]
-- **Einordnung:** [Rechtsgebiet/Normengruppe/Arbeitsmodus]
-- **Primärer Pfad:** Wähle nach Aktenlage den nächsten passenden Skill und begründe in einem Satz, welche Frist, Zuständigkeit, Beweislast oder welches Arbeitsprodukt dadurch geklärt wird.
-- **Alternativen:** `...`, `...`
-- **Nächster Schritt:** [direkte Bearbeitung oder genau eine konkrete Rückfrage]
-
-### 1. Intake in 60 Sekunden
-
-Nutze die folgenden Punkte als stille Checkliste, nicht als Fragenkatalog. Wenn der Nutzer schon genug geliefert hat, sichtbar zusammenfassen und direkt weiterarbeiten; frage nur fehlende Punkte ab, die die nächste Weiche wirklich verändern.
-
-| Punkt | Frage | Warum wichtig? |
-|---|---|---|
-| Rolle | Wer fragt: Anwalt, Kanzlei, Rechtsabteilung, Verwalter, Betroffener, Unternehmen, Behörde? | Perspektive und Ton bestimmen. |
-| Ziel | Was soll am Ende entstehen: Prüfung, Schriftsatz, Memo, Checkliste, Vertrag, E-Mail, Strategie, Datenraum-Auswertung? | Output sofort sauber ausrichten. |
-| Sachverhalt | Was ist passiert, wer sind die Beteiligten, welche Daten und Beträge sind sicher? | Keine Arbeit auf Luft bauen. |
-| Fristen | Gibt es Termine, Fristablauf, Zustellung, Einspruch, Klagefrist, Behördenfrist oder Closing-Datum? | Eilsachen zuerst sichern. |
-| Unterlagen | Welche Dateien, Registerauszüge, Bescheide, Verträge, Tabellen, E-Mails oder PDFs liegen vor? | Aktenarbeit statt Raten. |
-| Risiko | Wo drohen Haftung, Verjährung, Bußgeld, Strafbarkeit, Kosten, Reputationsschaden oder Eskalation? | Priorität und Vorsicht einstellen. |
-| Format | Wie ausführlich, für wen, in welchem Stil und mit welcher Zitier-/Ausgabeform? | Ergebnis direkt verwendbar machen. |
-
-### 2. Sofort-Triage
-
-Arbeite danach in dieser Reihenfolge:
-
-1. **Eilprüfung:** Fristen, Zuständigkeiten, Formerfordernisse und irreversible Schritte sofort markieren.
-2. **Sachverhaltskern:** In drei bis sieben Sätzen festhalten, was sicher ist, was streitig ist und was fehlt.
-3. **Arbeitsmodus wählen:** Kurzprüfung, Deep Dive, Dokumententwurf, Verhandlungsstrategie, Aktenextraktion, Red Team oder Mandantenkommunikation.
-4. **Primärskill wählen:** Genau einen passenden Skill aus diesem Plugin bestimmen und unmittelbar einsetzen. Höchstens zwei Alternativen nur nennen, wenn eine echte Weiche offen ist.
-5. **Nächsten Schritt anbieten:** Wenn ein Skill eindeutig passt, mit diesem Skill weiterarbeiten; wenn mehrere passen, eine knappe Auswahl anbieten.
-6. **Qualitätsgate:** Am Ende prüfen: Quellen, Fristen, Annahmen, offene Tatsachen, nächste Handlung.
-
-### 3. Routing-Regeln
-
-- Schlage **immer zuerst Skills aus diesem Plugin** vor. Andere Plugins nur als Schnittstelle nennen, wenn das Thema sichtbar auswandert.
-- Nenne nie nur einen Skillnamen. Immer auch sagen: **wofür**, **wann**, **welcher Input fehlt** und **was als Output kommt**.
-- Wenn die Akte groß oder unordentlich ist, zuerst einen Akten-, Tabellen- oder Triage-Skill vorschlagen, bevor materiell geprüft wird.
-- Wenn ein Schriftsatz, Vertrag oder Register-/Behördenoutput gewünscht ist, zuerst die Prüfung strukturieren und danach den passenden Output-Skill nehmen.
-- Wenn Rechtslage, Rechtsprechung oder Behördenpraxis aktuell sein kann, ausdrücklich Quellen-/Aktualitätsprüfung einplanen.
-- Wenn der Nutzer nur schnell arbeiten will, mit einem **Minimalpfad** starten: Frist sichern, Sachverhalt ordnen, nächster Fachmodul.
-
-### 4. Antwortformat für den Einstieg
-
-Nutze als erste Antwort nach Aktivierung möglichst dieses kompakte Format:
-
-**Kurzbild**
-- Ziel: [...]
-- Rolle/Perspektive: [...]
-- Eilt wegen: [...]
-- Fehlende Unterlagen: [...]
-
-**Vorgeschlagener Workflow**
-1. [...]
-2. [...]
-3. [...]
-
-**Passende Skills aus diesem Plugin**
-| Skill | Warum jetzt? | Erwarteter Output |
-|---|---|---|
-| `...` | [...] | [...] |
-
-**Nächste Frage**
-[Eine kurze, entscheidende Frage stellen, wenn wirklich etwas fehlt.]
-
-### 5. Fachmodule gezielt und sparsam laden
-
-1. Wähle zunächst genau einen Primärskill, der zum Auftrag und gewünschten Arbeitsprodukt passt. Weitere Skills kommen nur bei einer konkreten Schnittstelle hinzu.
-2. Sind im Arbeitsordner bereits Unterlagen vorhanden, lies zuerst Dateinamen, Metadaten und Inhaltsübersichten. Frage nur nach Informationen, die daraus nicht verlässlich hervorgehen.
-3. Grenze Suchen in Microsoft 365 nach Website, Bibliothek oder Ordner, Zeitraum, Absender, Dateityp und prägnantem Suchbegriff ein. Erfasse im ersten Durchgang höchstens 20 Treffer und öffne höchstens fünf tragende Unterlagen.
-4. Lies Word- und PDF-Dokumente einmal vollständig, Tabellen nur in den einschlägigen Blättern und Bereichen sowie E-Mails im maßgeblichen Gesprächsverlauf. Verwende gewonnene Extrakte weiter, statt dieselbe Quelle erneut zu öffnen.
-5. Die [vollständige Fachmodulkarte](https://github.com/Klotzkette/claude-fuer-deutsches-recht/blob/main/insolvenzforderungsanmeldungspruefung/skills/inso-forderungsanmeldung-start-chronologie-fristen/references/fachmodule.md) wird nur konsultiert, wenn kein eindeutiger Primärskill feststeht oder eine echte Querschnittsfrage verbleibt.
-
-## Worum geht es?
-
-Dieses Plugin unterstuetzt Insolvenzverwalter, Prüfungsstellen und Kanzleien bei der strukturierten Prüfung von Insolvenzforderungsanmeldungen nach §§ 174-189 InsO. Es deckt den gesamten Prüfpfad ab: vom kanaluebergreifenden Eingang der Anmeldungen über Formalprüfung, Belegprüfung, Anspruchsgrundlage, Betrag, Zinsen, Rangprüfung und vorsaetzlich begangene unerlaubte Handlung (vbuH) bis hin zu Prüfungstermin, Bestreitungsverfahren, Tabelleneintrag, Tabellenauszug und Verteilung.
-
-Das Plugin ist freistehend und eignet sich sowohl für Einzelforderungen als auch für Massenverfahren mit strukturiertem Batchregister.
-
-## Wann brauchen Sie diese Skill?
-
-- Sie sind Insolvenzverwalter und erhalten einen neuen Stapel von Forderungsanmeldungen nach § 174 InsO.
-- Sie müssen Formalmaengel in einer Forderungsanmeldung identifizieren und ein Maengelschreiben erstellen.
-- Sie bereiten den Prüfungstermin nach § 176 InsO vor und benoetigen eine strukturierte Terminmappe.
-- Ein Gläubiger hat die Forderung als vbuH gekennzeichnet und Sie müssen die Restschuldbefreiungsrelevanz prüfen.
-- Sie bereiten die Schlussverteilung vor und müssen bestrittene Forderungen nach § 189 InsO korrekt behandeln.
-
-## Fachbegriffe (kurz erklaert)
-
-- **Forderungsanmeldung** — Erklaerung des Gläubiger gegenueber dem Insolvenzgericht oder Insolvenzverwalter über seine Insolvenzforderung (§ 174 InsO).
-- **Tabelle** — Das vom Insolvenzgericht gefuehrte Verzeichnis aller angemeldeten Insolvenzforderungen (§ 175 InsO).
-- **Prüfungstermin** — Termin beim Insolvenzgericht, in dem Forderungen auf Feststellung oder Bestreitung geprüft werden (§ 176 InsO).
-- **Feststellungswirkung** — Die anerkannte Forderung wirkt wie ein rechtskraeftiger Titel gegen den Schuldner (§ 178 InsO).
-- **vbuH** — Vorsaetzlich begangene unerlaubte Handlung; Forderungen aus vbuH sind von der Restschuldbefreiung ausgenommen (§ 302 Nr. 1 InsO).
-- **Nachrang** — Insolvenzforderungen, die erst nach den einfachen Insolvenzforderungen befriedigt werden (§ 39 InsO).
-- **Absonderungsrecht** — Recht bestimmter Gläubiger, aus bestimmten Gegenstanden der Insolvenzmasse vorab befriedigt zu werden (§§ 49-51 InsO).
-
-## Rechtsgrundlagen
-
-- §§ 38-39 InsO — Insolvenzforderungen und Nachrang
-- §§ 47-51 InsO — Aussonderung und Absonderungsrechte
-- §§ 53-55 InsO — Masseverbindlichkeiten
-- §§ 174-177 InsO — Anmeldung und Nachtragsanmeldung
-- §§ 178-183 InsO — Feststellung, Bestreiten und Wirkung
-- §§ 184-186 InsO — Schuldnerwiderspruch
-- §§ 188-196 InsO — Verteilung und Schlussverteilung
-- § 302 InsO — Ausnahmen von der Restschuldbefreiung (vbuH)
-- § 850f Abs. 2 ZPO — Pfaendungsfreigrenze bei vbuH
-
-## Schritt-für-Schritt: Einstieg ins Plugin
-
-1. Mandantenkonstellation klären: Verwalterrolle, Verfahrensstand (Eroeffnung, Prüfungstermin, Verteilung), Forderungstyp.
-2. Phase des Mandats bestimmen: Eingangserfassung, Formalprüfung, inhaltliche Prüfung, Entscheidung, Termin oder Verteilung.
-3. Passenden Skill auswaehlen (siehe Skill-Tour).
-4. Eilfristen prüfen: Prüfungstermin-Termin, Frist Schuldnerwiderspruch (§ 184 InsO Monatsfrist), Verteilungs-Nachweis (§ 189 InsO).
-5. Anschluss-Skill bestimmen: nach Formalprüfung folgt inhaltliche Prüfung; nach Prüfungstermin folgt Tabelleneintrag oder Streitverfahren.
-
-## Skill-Tour (was gibt es hier?)
-
-**Einstieg und Steuerung**
-
-- `ifap-kommandocenter` — Steuerung des gesamten Prüfpfads von Eingang bis Tabelle; zeigt naechste Schritte und Fristen an.
-- `ifap-intake-kanalcheck` — Kanaluebergreifende Eingangserfassung: Post, E-Mail, Portal, Tabellenexport und Nachtrag.
-- `ifap-aktenanlage-batchregister` — Strukturiertes Batchregister für Massenverfahren mit Gläubigerstamm, Fristen und Audit-Trail.
-
-**Formalprüfung**
-
-- `ifap-formalpruefung-174` — Formalprüfung nach § 174 InsO: Pflichtinhalt, Gläubiger, Anspruchsgrund, Betrag, Urkundenvorlage.
-- `ifap-beleg-und-urkundencheck` — Prüft Belegkette (Rechnungen, Verträge, Titel) auf Vollstaendigkeit und Beweiswert.
-- `ifap-dubletten-serienforderungen` — Erkennt Doppelerfassungen und Serienforderungen (z.B. Inkasso und Originalglaeubiger parallel).
-- `ifap-nachtraegliche-anmeldung-177` — Behandlung verspaeteter Forderungsanmeldungen nach § 177 InsO mit Kostenpflicht und Sondertermin.
-- `ifap-nachforderung-maengelschreiben` — Erstellt praezises Maengelschreiben bei unvollstaendiger Anmeldung mit konkreten Nachforderungen.
-
-**Inhaltliche Prüfung**
-
-- `ifap-grund-betrag-zinsen` — Prüft Anspruchsgrundlage, Betrag und Zinsberechnung der angemeldeten Forderung.
-- `ifap-rang-nachrang-absonderung` — Klassifiziert Forderung nach Rang: einfach, Nachrang, Absonderungsrecht oder Aussonderungsrecht.
-- `ifap-masseverbindlichkeit-abgrenzen` — Grenzt Masseverbindlichkeiten von Insolvenzforderungen nach Entstehungszeitpunkt ab.
-- `ifap-vbuh-pruefung` — Prüft Kennzeichnung als vbuH, Restschuldbefreiungsrelevanz und Begruendungsanforderungen.
-
-**Prüfungsentscheidung und Termin**
-
-- `ifap-pruefentscheidung` — Entscheidung über Feststellung, Teilfeststellung, Bestreiten oder Rueckstellung.
-- `ifap-pruefungstermin-176` — Vorbereitung des Prüfungstermins nach § 176 InsO: Terminmappe, Widersprueche, schriftliches Verfahren.
-- `ifap-quality-gate` — Qualitaetsgate vor Tabelleneintrag, Prüfungstermin und Verteilung: Vollstaendigkeit und Plausibilitaet.
-
-**Bestreiten und Streit**
-
-- `ifap-streitige-forderung-179-180` — Nachverfolgung bestrittener Forderungen: Feststellungsklage (§ 179 InsO), Tabellenklage (§ 180 InsO).
-- `ifap-schuldnerwiderspruch-184` — Schuldnerwiderspruch nach § 184 InsO prüfen und Monatsfrist für Aufnahme des Rechtsstreits einhalten.
-
-**Tabelle und Verteilung**
-
-- `ifap-tabellenimport-175` — Tabelleneintrag und CSV-Import nach § 175 InsO mit tabellenfaehiger Ausgabe.
-- `ifap-tabellenauszug-178` — Tabellenauszug als vollstreckbaren Titel nach § 178 InsO erstellen.
-- `ifap-verteilung-bestrittene-189` — Verteilung bei bestrittenen Forderungen nach § 189 InsO: Rueckbehalt-Berechnung.
-
-## Worauf besonders achten
-
-- **Formalmaengel fruehzeitig behandeln.** Eine formal unvollstaendige Anmeldung nach § 174 InsO kann nicht festgestellt werden; Maengelschreiben sofort nach Eingang erstellen.
-- **vbuH-Kennzeichnung erfordert Tatsachengrundlage.** Nicht jede Deliktsforderung ist automatisch vbuH; der Gläubiger muss Tatsachen darlegen (§ 174 Abs. 2 InsO).
-- **Masseverbindlichkeiten nicht als Insolvenzforderungen behandeln.** Entstehungszeitpunkt (vor oder nach Eroeffnung) und Verwalterhandeln sind entscheidend.
-- **Monatsfrist nach Prüfungstermin beachten.** Bei Schuldnerwiderspruch zu titulierten Forderungen laeuft die Aufnahme-Frist nach § 184 InsO ab Prüfungstermin.
-- **Verteilung korrekt berechnen.** Bestrittene Forderungen nach § 189 InsO können nur beruecksichtigt werden, wenn der Gläubiger rechtzeitig Nachweis erbringt.
-
-## Typische Fehler
-
-- Rang wird nicht geprueft; Nachrang-Forderungen (§ 39 InsO) werden als einfache Insolvenzforderungen eingetragen.
-- Belegkette ist unvollstaendig; Forderung wird festgestellt ohne dass Anspruchsgrundlage belegt ist.
-- Dubletten werden nicht erkannt; Doppelzahlung im Verteilungsverfahren ist moegliche Folge.
-- Prüfungstermin wird ohne Terminmappe angegangen; streitige Forderungen können nicht geordnet behandelt werden.
-- Schuldnerwiderspruch bei titulierten Forderungen wird nicht nachverfolgt; Gläubiger verliert Feststellungswirkung durch Fristversaeumnis.
-
-## Quellen und Aktualitaet
-
-- Stand: 05/2026
-- Gesetzesfassungen zum Stand-Datum (InsO, ZPO, BGB)
-
----
-
-## Skill: `masseverbindlichkeit-sonderfall-und-edge-case`
-
-_Wenn es um Masseverbindlichkeit: Sonderfall und Edge-Case-Prüfung in Insolvenzforderungsanmeldungsprüfung geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten._
-
-# Masseverbindlichkeit: Sonderfall und Edge-Case-Prüfung
-
-## Arbeitsweg
-
-- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
-- Fristen und Eilrisiken zuerst markieren: nur die Fristen des konkreten Rechtsgebiets und der Akte verwenden; Widerspruch, Klage, Einspruch, Rechtsmittel, Verjährung, Verwirkung, Rüge-, Anzeige-, Anmelde- und Ausschlussfristen strikt trennen und nie aus einem anderen Fachgebiet übernehmen.
-- Tragende Normen verifizieren: die im Plugin-Kontext einschlägigen Normen über gesetze-im-internet.de, dejure.org, eur-lex.europa.eu und die amtlichen Bundes-/Landesportale live prüfen — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
-- Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
-- Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
-
-## Fachlicher Kern — Insolvenz- und Sanierungsrecht
-- **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `Masseverbindlichkeit: Sonderfall und Edge-Case-Prüfung` und löse die dort angelegte Fachfrage; arbeite mit konkreten Tatbestandsmerkmalen, Beweisfragen und dem unmittelbar benötigten Arbeitsprodukt. Routingfragen bleiben Hilfsmittel, wenn Frist, Zuständigkeit oder Verfahrensart offen sind.
-- **Arbeitsmodus:** Zuerst Insolvenzgrund, Frist, Organpflicht, Verfahrensstand, Sicherheiten, Massebezug und Anfechtungszeitraum klären; dann Sanierungsfähigkeit, Plan/StaRUG, Haftung und Dokumentationsschutz.
-- **Outputpflicht:** Krisenzeitachse, Liquiditätsstatus, Anfechtungsmatrix, Sicherheitenradar, IDW-S6-/Sanierungscheck, Register-/Grundbuch-Nachweispaket oder Schriftsatzbaustein.
-- **Fehlerbremse:** Tragende Normen/Entscheidungen live oder aus der Akte verifizieren; Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei prüfbarer Quelle. Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen.
-
-## Spezialwissen: Masseverbindlichkeit: Sonderfall und Edge-Case-Prüfung
-- **Normen-/Quellenanker:** InsO.
-
-## Fallweichen
-Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur Rückfragen, die die nächste Weiche verändern:
-
-1. Welche Rolle hat die fragende Person und wer ist Gegenüber?
-2. Welches konkrete Ziel soll erreicht oder verhindert werden?
-3. Welche Frist, Zustellung, Schwelle, Zahlung, Sanktion oder Verfahrensstufe ist kritisch?
-4. Welche Dokumente, Registerauszüge, Bescheide, Verträge, Tabellen, Screenshots oder Nachrichten belegen den Punkt?
-5. Welcher Output wird gebraucht: Memo, Checkliste, Tabelle, Entwurf, Schriftsatzbaustein, Mandantenbrief oder Entscheidungsvorlage?
-
-## Arbeitsworkflow
-1. **Fallbild bilden:** Sachverhalt, Rollen, Zeitachse und Dokumente in eine kurze Matrix bringen.
-2. **Rechtsrahmen setzen:** Normen, Zuständigkeiten, Fristen, Formfragen und Verfahrensstand zum Themenfeld **Masseverbindlichkeit** prüfen.
-3. **Prüfpunkte abarbeiten:** Tatbestandsmerkmale, Beweisfragen, typische Fehler, Gegenargumente und Ermessens- oder Wertungsfragen trennen.
-4. **Risiko bewerten:** Grün/Gelb/Rot mit Begründung, Annahmen, fehlenden Belegen und möglichen Alternativwegen ausgeben.
-5. **Anschluss bauen:** Passende weitere Skills desselben Plugins vorschlagen, wenn eine Vertiefung, ein Schreiben, eine Tabelle, ein Fristenblatt oder eine Verhandlungsstrategie sinnvoll ist.
+- Sollkatalog aufstellen: Welche Dokumente brauche ich für die konkrete Insolvenzforderungsanmeldungspruefung-Frage zwingend (Vertragsurkunden, Schriftsätze, Verwaltungsakte, Protokolle, Bescheide und externe Beweismittel des Fachgebiets)?
+- Ist-Abgleich: Welche Dokumente sind vorhanden, welche fehlen, welche sind unvollständig, undatiert oder ohne Unterschrift?
+- Lückenliste priorisieren nach: fristrelevant (die im Fachgebiet einschlägigen Verfahrens- und materiellen Fristen pflichtmäßig vorab markieren und nicht aus Modellwissen finalisieren), beweisrelevant, formerheblich.
+- Rückfrageschreiben an Mandant, Gegner, zuständiges Gericht oder Behörde, etwaige Sachverständige oder beauftragte Stellen entwerfen — Wer hat das Dokument, woher kann es beschafft werden, bis wann?
+- Bei behördlichen Lücken: Akteneinsichtsrecht (z. B. § 29 VwVfG, § 147 StPO, § 25 SGB X) prüfen und nutzen.
+
+## Qualitätsanker
+
+- Normen und Rechtsprechung nach `references/quellenhygiene.md` und `references/zitierweise.md` behandeln.
+- Wenn eine Spezialfrage sichtbar wird, den passenden Skill nennen und kurz erklären, warum genau dieser Arbeitsgang passt.
+- Bei Zeitdruck zuerst Frist, Zuständigkeit, Form und Beweislast sichern.
 
 ---
 

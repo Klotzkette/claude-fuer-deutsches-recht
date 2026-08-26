@@ -1,6 +1,6 @@
 ---
 name: ce-kennzeichnung-routenplan
-description: "Wenn es um CE-Kennzeichnung Routenplan in Produkthaftung und Produktrecht geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen."
+description: "Für CE-Kennzeichnung Routenplan: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # CE-Kennzeichnung Routenplan

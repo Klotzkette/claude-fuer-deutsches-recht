@@ -7,13 +7,13 @@ Diese Vollprüfung enthält top-8 von 222 Skills (gekürzt für das Arbeitsfenst
 ## Inhaltsverzeichnis
 
 1. **juristischer-argumentationskern** — Schaltet sich ein, wenn in Bundesnetzagentur Verfahren ein juristisches Arbeitsprodukt tragfähig begründet werden muss; …
-2. **kaltstart-triage** — Wenn es um Bundesnetzagentur-Verfahren — Allgemein in Bundesnetzagentur-Verfahren geht: klärt Rolle, Ziel, Frist, Unterl…
-3. **eisenbahn-beschwerde-evu-gegen-infrastrukturbetreiber** — Wenn es um Beschwerde eines EVU gegen den Infrastrukturbetreiber nach Paragraf 66 ERegG in Bundesnetzagentur-Verfahren g…
-4. **eisenbahn-eisenbahnregulierung-eregg** — Wenn es um Eisenbahnregulierung nach dem ERegG: Überblick und anwaltlicher Einstieg in Bundesnetzagentur-Verfahren geht:…
-5. **tk-regulierungsakte-tkg-marktregulierung** — Wenn es um TK-Regulierungsakte: TKG Marktregulierung beträchtliche Marktmacht — Stellungnahme-Entwurf in Bundesnetzagent…
-6. **digital-services-digital-services-coordinator-ddg** — Wenn es um Digital Services Coordinator nach DDG: Behördenstruktur und Verfahren in Bundesnetzagentur-Verfahren geht: or…
-7. **eisenbahn-anreizsetzung-schiene** — Wenn es um Anreizsetzungssystem im Eisenbahnverkehr (ASS) nach Paragraf 39 ERegG in Bundesnetzagentur-Verfahren geht: or…
-8. **energie-regulierungsakte-eeg-netzanschluss-einspeisemanagement-s** — Wenn es um Energie-Regulierungsakte: EEG Netzanschluss Einspeisemanagement — Stellungnahme-Entwurf in Bundesnetzagentur-…
+2. **kaltstart-triage** — Für Bundesnetzagentur-Verfahren — Allgemein: routet Rolle, Frist, Unterlagen und Fachschritt; Ergebnis: Prüfprodukt mit …
+3. **energie-ladesaeulen-elektromobilitaet-rechtsmittel** — Für Energie-Regulierungsakte: Ladesäulen Elektromobilität — Rechtsmittel-Check: ordnet Norm, Beweislast und Gegenargumen…
+4. **tk-marktregulierung-marktmacht-rechtsmittel** — Für TK-Regulierungsakte: TKG Marktregulierung beträchtliche Marktmacht — Rechtsmittel-Check: ordnet Norm, Beweislast und…
+5. **energie-regulierungsakte-ladesaeulen-elektromobilitaet-stellungn** — Für Energie-Regulierungsakte: Ladesäulen Elektromobilität — Stellungnahme-Entwurf: ordnet Akte, Belege und Lücken; Ergeb…
+6. **energie-regulierungsakte-ladesaeulen-elektromobilitaet-unterlage** — Für Energie-Regulierungsakte: Ladesäulen Elektromobilität — Unterlagenanforderung: ordnet Akte, Belege und Lücken; Ergeb…
+7. **energie-regulierungsakte-anreizregulierung-erloesobergrenze-fris** — Für Energie-Regulierungsakte: Anreizregulierung Erlösobergrenze — Fristen- und Bescheidanalyse: ordnet Akte, Belege und …
+8. **energie-versorgungssicherheit-monitoring-rechtsmittel** — Für Energie-Regulierungsakte: Versorgungssicherheit Monitoring — Rechtsmittel-Check: ordnet Norm, Beweislast und Gegenar…
 
 ---
 
@@ -136,7 +136,7 @@ Ausgangspunkt für dieses Plugin: Behörde trägt Tatsachengrundlage, Ermessen u
 
 ## Skill: `kaltstart-triage`
 
-_Wenn es um Bundesnetzagentur-Verfahren — Allgemein in Bundesnetzagentur-Verfahren geht: klärt Rolle, Ziel, Frist, Unterlagen und den passenden nächsten Fachskill; liefert eine Fristen- und Risikoampel mit Sofortschritten._
+_Für Bundesnetzagentur-Verfahren — Allgemein: routet Rolle, Frist, Unterlagen und Fachschritt; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt._
 
 # Bundesnetzagentur-Verfahren — Allgemein
 
@@ -342,144 +342,11 @@ Weitere Skills: insgesamt 220 Anschluss-Skills in diesem Plugin.
 
 ---
 
-## Skill: `eisenbahn-beschwerde-evu-gegen-infrastrukturbetreiber`
+## Skill: `energie-ladesaeulen-elektromobilitaet-rechtsmittel`
 
-_Wenn es um Beschwerde eines EVU gegen den Infrastrukturbetreiber nach Paragraf 66 ERegG in Bundesnetzagentur-Verfahren geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt._
+_Für Energie-Regulierungsakte: Ladesäulen Elektromobilität — Rechtsmittel-Check: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Schnittstellenkarte mit Zuständigkeits- und Nachweisfragen._
 
-# Beschwerde eines EVU gegen den Infrastrukturbetreiber nach § 66 ERegG
-
-## Arbeitsweg
-
-- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
-- Fristen und Eilrisiken zuerst markieren: Anhörung i.d.R. 4-6 Wochen, Beschlussfristen sektorspezifisch (EnWG Festlegungen, TKG Marktanalyse 3 Jahre), Beschwerde nach VwGO/EnWG.
-- Tragende Normen verifizieren: BNetzAG, EnWG §§ 21 ff. (Anreizregulierung), TKG §§ 9 ff. (Frequenz/Marktregulierung), PostG, EisbG, MessEG, NIS2-Aufsicht, BSI-KritisV, DigiNetzG — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
-- Zuständige Stelle bestimmen und Adressaten richtig wählen: BNetzA, Beschlusskammer, betroffenes Unternehmen (Netzbetreiber, TK-Unternehmen, Postunternehmen), Bundeskartellamt, OVG NRW, BVerwG.
-- Dokumente und Beweismittel sammeln und auf Lücken prüfen: Festlegungsbeschluss, Anhörungsschreiben, Marktdefinition/-analyse, Konsultationsdokument, Beschwerdeschrift, Konzessionsbescheid — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
-
-## Zweck und Anwendungsfall
-Anwaltliche Führung einer Beschwerde eines Eisenbahnverkehrsunternehmens (EVU) oder eines Zugangsberechtigten gegen ein Eisenbahninfrastrukturunternehmen (EIU) bei der Bundesnetzagentur nach § 66 ERegG. Typische Streitgegenstände: Diskriminierung beim Trassenzugang, beim Zugang zu Serviceeinrichtungen, beim Stationszugang, in den Schienennetz-Benutzungsbedingungen, bei Entgelten und Bonus-Malus-Anwendung. Adressat ist die BNetzA als Regulierungsstelle Eisenbahn (Spartenkammer für Eisenbahn nach BNetzAG; konkrete BK-Bezeichnung vom Anwender zu verifizieren).
-
-## Eingaben
-- Beschwerdeführer (EVU, Zugangsberechtigter, Halterverband, Schienenpersonenverkehr-Besteller).
-- Beschwerdegegner (DB InfraGO, regionaler Betreiber, Halterstation-Betreiber, Wartungseinrichtung).
-- Konkreter Streitgegenstand und Datum der Maßnahme.
-- Vorprozessuale Schritte (interne Reklamation, Schlichtung).
-- Bestehende Verträge (Infrastruktur-Nutzungs-Vertrag INV, Trassen-Vereinbarung).
-
-## Rechtsrahmen
-- §§ 66–73 ERegG (Beschwerdeverfahren der BNetzA).
-- § 66 ERegG (Beschwerderecht der Zugangsberechtigten).
-- § 67 ERegG (Auskunfts- und Prüfungsrechte BNetzA).
-- § 68 ERegG (einstweilige Anordnung).
-- § 73 ERegG (Verpflichtung des EIU, BNetzA-Entscheidungen umzusetzen).
-- § 76 ERegG (Genehmigungsvorbehalt Entgelte).
-- § 79 ERegG (sofortige Vollziehbarkeit).
-- RL (EU) 2012/34 (SERA-Richtlinie), VO (EU) 2017/2177 (Serviceeinrichtungen).
-- §§ 5a, 14, 14f AEG (Aufsicht EBA als Schnittstelle).
-- §§ 19, 20 GWB (Diskriminierungs- und Behinderungsverbote als Parallelweg).
-
-## Ablauf
-1. **Aktivlegitimation prüfen.** EVU mit Sicherheitsbescheinigung, Halter, Trassenanmelder mit eigenem Recht; § 1 Abs. 12 ERegG-Definition prüfen.
-2. **Verfahrensgegenstand strukturieren.** Konkrete Maßnahme (Ablehnung Trasse, Entgeltforderung, Sperrpausen-Anordnung, AGB-Klausel SNB).
-3. **Tatsachenbasis dokumentieren.** Datum, Korrespondenz, Trassen-Anmeldung, Antworten EIU, alternative Marktdaten.
-4. **Diskriminierungs-Vergleich.** Vergleich zu konzernverbundenen EVU (DB-Konzern); Bündelungs- und Vorzugsbehandlungs-Indikatoren.
-5. **Konkrete Anträge.** Untersagung, Modifikation, Festsetzung des Entgelts, Verpflichtung zur Zuweisung, einstweilige Anordnung § 68 ERegG.
-6. **Parallel-Verfahren.** Kartellrechtliche Klage nach §§ 19, 20 GWB beim LG bzw. OLG Frankfurt für Kartellbeschwerden; nicht durch ERegG ausgeschlossen.
-7. **Akteneinsicht.** § 71 i. V. m. § 67 ERegG; Schwärzungs-Streit (siehe Schwärzungs-Skill im selben Plugin).
-8. **Rechtsschutz.** Klage VG Köln gegen ablehnende BNetzA-Entscheidung; § 80 Abs. 5 VwGO gegen § 79 ERegG-Vollziehbarkeit.
-
-## Mustertexte
-- Beschwerdeschrift § 66 ERegG: Beschwerdeführer, Beschwerdegegner, Sachverhalt, Diskriminierungs-/Verstoß-Beleg, Anträge, Beweismittel.
-- Eilantrag § 68 ERegG mit Glaubhaftmachung.
-- Stellungnahme des EIU als Beschwerdegegner: Verteidigung der Entscheidung, Verhältnismäßigkeit, Alternativvorschläge.
-
-## Quellenpflicht
-- ERegG aktueller Stand.
-- BNetzA-Berichte (Marktuntersuchungen Eisenbahn, Jahresbericht Eisenbahn).
-- Az. BNetzA-Beschlüsse generisch (z. B. BK10-XX-XXX-XX); konkretes Az. vom Anwender zu verifizieren.
-- VG Köln, OVG Münster, BVerwG mit Datum, Az., freier Fundstelle.
-- EuGH zu RL 2012/34 mit konkretem Datum und Az.
-- Zitierweise nach `references/zitierweise.md`.
-
-## Beispiele
-- Privates Güter-EVU rügt Ablehnung einer Trasse zugunsten DB Cargo. Beschwerde § 66 ERegG, Beweis durch Vergleich Trassen-Anfrage und -Bescheid.
-- EVU Personenverkehr rügt überhöhte Stationsentgelte. Beschwerde § 66 ERegG, gleichzeitig Genehmigungsverfahren § 33 ERegG.
-- Schienenersatzverkehr-Logistiker rügt Zugang zu Wartungseinrichtung. Beschwerde § 66 ERegG i. V. m. § 11 ERegG.
-
-## Qualitätsgate
-Aktivlegitimation tragfähig? Streitgegenstand präzise eingegrenzt? Diskriminierungs-Vergleich belegt? Eilfristen kalendarisiert? Parallelweg GWB-Klage abgewogen? Akteneinsicht/Schwärzungs-Strategie geklärt?
-
----
-
-## Skill: `eisenbahn-eisenbahnregulierung-eregg`
-
-_Wenn es um Eisenbahnregulierung nach dem ERegG: Überblick und anwaltlicher Einstieg in Bundesnetzagentur-Verfahren geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt._
-
-# Eisenbahnregulierung nach dem ERegG: Überblick und anwaltlicher Einstieg
-
-## Arbeitsweg
-
-- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
-- Fristen und Eilrisiken zuerst markieren: Anhörung i.d.R. 4-6 Wochen, Beschlussfristen sektorspezifisch (EnWG Festlegungen, TKG Marktanalyse 3 Jahre), Beschwerde nach VwGO/EnWG.
-- Tragende Normen verifizieren: BNetzAG, EnWG §§ 21 ff. (Anreizregulierung), TKG §§ 9 ff. (Frequenz/Marktregulierung), PostG, EisbG, MessEG, NIS2-Aufsicht, BSI-KritisV, DigiNetzG — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
-- Zuständige Stelle bestimmen und Adressaten richtig wählen: BNetzA, Beschlusskammer, betroffenes Unternehmen (Netzbetreiber, TK-Unternehmen, Postunternehmen), Bundeskartellamt, OVG NRW, BVerwG.
-- Dokumente und Beweismittel sammeln und auf Lücken prüfen: Festlegungsbeschluss, Anhörungsschreiben, Marktdefinition/-analyse, Konsultationsdokument, Beschwerdeschrift, Konzessionsbescheid — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
-
-## Zweck und Anwendungsfall
-Anwaltlicher Allgemein-Skill für Mandate nach dem Eisenbahnregulierungsgesetz (ERegG). Das ERegG setzt die SERA-Richtlinie (RL 2012/34/EU) um und ordnet die regulatorische Aufsicht der Bundesnetzagentur über die Eisenbahninfrastruktur, das Trassen- und Entgeltsystem und die Wettbewerbsneutralität zwischen integrierten und nicht-integrierten EVU. Der Skill steuert die Erfassung des Mandats, die Wahl des passenden Fachmodule (Trassenzugang, Entgelte, Serviceeinrichtungen, Beschwerde EVU gegen EIU usw.) und die Sicherung der Fristen.
-
-## Eingaben
-- Mandantenrolle (EVU, EIU, Halter, Trassenbörse, Verband, Aufgabenträger ÖPNV, Speditions-Kunde).
-- Sektor (Personenfern, Personennah, Güter, Werks- und Anschlussbahnen).
-- Regulierungsanliegen (Zugang, Entgelt, Diskriminierung, Sperrpause, Anreizsystem, Genehmigung).
-- Verfahrensstand bei BNetzA, EBA, EuGH.
-- Vertragslage (Infrastrukturnutzungsvertrag INV, Trassenvereinbarung, Bahnhofs-Nutzungsvertrag).
-
-## Rechtsrahmen
-- ERegG vom 29. August 2016 in der jeweils aktuellen Fassung.
-- Allgemeines Eisenbahngesetz (AEG); §§ 5a, 14, 14f AEG.
-- RL (EU) 2012/34 (SERA, einheitlicher europäischer Eisenbahnraum); RL (EU) 2016/2370 (vierter Eisenbahnpaket, market pillar).
-- DVO (EU) 2015/909 (direkte Kosten); DVO (EU) 2015/10 (Antragsberechtigte); VO (EU) 2017/2177 (Serviceeinrichtungen); VO (EU) 2018/545 (Fahrzeuggenehmigung); VO (EU) 2017/2225 (Lizenzen).
-- §§ 102 ff. GWB (Vergaberecht bei Beschaffungen für Eisenbahninfrastruktur).
-- Eisenbahnbundesamt (EBA) als Sicherheits- und Aufsichtsbehörde (§ 5 AEG).
-
-## Ablauf
-1. **Mandatsstruktur erfassen.** Rolle, Streitwert, Zeithorizont, Konflikt mit DB-Konzern oder regionalem Betreiber.
-2. **Verfahrensschiene wählen.** Konsultation der Schienennetz-Benutzungsbedingungen (§§ 26 ff. ERegG), Beschwerde § 66 ERegG, Genehmigungsverfahren Entgelte § 76 ERegG, einstweilige Anordnung § 68 ERegG.
-3. **EU-Rechtsbezug klären.** SERA-Konformität, EuGH-Auslegung, Schnittstelle zu RailNetEurope-Standards.
-4. **Schnittstelle EBA und sonstige Behörden.** Sicherheits- und Aufsichtsfragen (EBA), Genehmigungen, Schnittstelle zu Aufgabenträgern (Bestellerentgelte SPNV).
-5. **Vertrags-Layer.** Welche Klauseln im INV sind Streitthema? Schnittstelle zu §§ 280, 281 BGB-Schadensersatz bei vertraglicher Trassenzusage.
-6. **Wettbewerbsrechtlicher Parallelweg.** § 19 GWB (marktbeherrschender Infrastrukturbetreiber), § 20 GWB (Diskriminierungsverbot), private Durchsetzung beim LG.
-7. **Akteneinsicht und Schwärzungen.** § 71 i. V. m. § 67 ERegG; Bezug zum Skill aktenzugang-geschaeftsgeheimnisse-schwaerzung.
-8. **Rechtsschutz.** Klage VG Köln gegen BNetzA-Entscheidungen; § 80 Abs. 5 VwGO gegen § 79 ERegG-Vollziehbarkeit; Vorlage EuGH bei unklarer SERA-Auslegung.
-
-## Mustertexte
-- Mandats-Triage-Memo: Rolle, Sachverhalt, Fachmodul-Routing, Frist, erste Maßnahmen.
-- Beschwerde § 66 ERegG (Grobgliederung).
-- Stellungnahme im Konsultationsverfahren §§ 26, 56 ERegG.
-
-## Quellenpflicht
-- ERegG, AEG, einschlägige Durchführungsverordnungen aus dem amtlichen Quellen (BGBl., BAnz, EUR-Lex).
-- BNetzA-Marktuntersuchung Eisenbahn (Jahresbericht).
-- BNetzA-Beschluss-Az. (z. B. BK10-XX-XXX-XX) generisch; konkrete Beschlüsse vom Anwender zu verifizieren.
-- BVerwG, OVG Münster, VG Köln, EuGH mit Datum, Az., freier Fundstelle.
-- Zitierweise nach `references/zitierweise.md`.
-
-## Beispiele
-- Personenfern-EVU bittet um Erstkontakt zur Streitlage Trassen 2026. Triage: Routing in Fachmodul eisenbahn-trassenzugang.
-- Aufgabenträger SPNV bittet um Memo zu Stationsentgelten. Triage: Routing in eisenbahn-stationszugang.
-- Schienengüter-EVU bittet um Erstkontakt wegen Bonus-Malus. Triage: Routing in eisenbahn-anreizsetzung-schiene.
-
-## Qualitätsgate
-Mandantenrolle eindeutig? Fachmodul-Routing klar? Frist sofort kalendarisiert? Konsultations- und Konflikt-Statuspunkt erfasst? EuGH-Vorlagerisiko reflektiert?
-
----
-
-## Skill: `tk-regulierungsakte-tkg-marktregulierung`
-
-_Wenn es um TK-Regulierungsakte: TKG Marktregulierung beträchtliche Marktmacht — Stellungnahme-Entwurf in Bundesnetzagentur-Verfahren geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt._
-
-# TK-Regulierungsakte: TKG Marktregulierung beträchtliche Marktmacht — Stellungnahme-Entwurf
+# Energie-Regulierungsakte: Ladesäulen Elektromobilität — Rechtsmittel-Check
 
 ## Normenanker
 
@@ -506,7 +373,64 @@ Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei pr
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: BNetzA, Beschlusskammer, betroffenes Unternehmen (Netzbetreiber, TK-Unternehmen, Postunternehmen), Bundeskartellamt, OVG NRW, BVerwG.
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Festlegungsbeschluss, Anhörungsschreiben, Marktdefinition/-analyse, Konsultationsdokument, Beschwerdeschrift, Konzessionsbescheid — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
-## Fachkern: TK-Regulierungsakte: TKG Marktregulierung beträchtliche Marktmacht — Stellungnahme-Entwurf
+## Fachkern: Energie-Regulierungsakte: Ladesäulen Elektromobilität — Rechtsmittel-Check
+- **Normen- und Behördenanker:** EnWG, ARegV, StromNEV/GasNEV, MsbG, EEG, KWKG, REMIT, NABEG und die einschlägige Beschlusskammerpraxis der BNetzA.
+- **Spezifische Weiche:** Zerlege Netzbetreiberrolle, Erlösobergrenze/Kostenbasis, Regulierungskonto, Investitionsmaßnahme, Netzzugang, Anschlussbegehren, Bilanzkreis oder Marktmissbrauch; Zahlen müssen aus Bescheid, Datenmeldung oder Erhebungsbogen kommen.
+- **Beleglogik:** Jede Zahl, Schwelle, Netzkomponente, Frist oder technische Behauptung braucht Quelle: Bescheid, Konsultationsdokument, Erhebungsbogen, Registerauszug, Vertrag, Messdaten, Ticket oder Behördenmail.
+- **Taktischer Output:** Erzeuge nicht nur eine Checkliste, sondern eine Beschlusskammer-taugliche Kurzposition mit Antrag/Einwand, Beleganlage, offener Live-Quelle und nächstem Verfahrensschritt.
+
+## Fachliche Weichenfragen
+- Wer fragt in welcher Rolle und welches Arbeitsergebnis wird gebraucht?
+- Welche Frist, Zuständigkeit, Behörde, Gericht oder Vertragssituation ist erkennbar?
+- Welche Dokumente, Zahlen, Registerdaten, Bescheide, Verträge oder Korrespondenz liegen vor?
+- Welche Tatsachen sind sicher, welche sind streitig und welche Annahmen müssen sichtbar markiert werden?
+- Welche live zu prüfenden Normen, Behördenhinweise oder Formulare tragen das Ergebnis?
+
+## Prüf- und Arbeitslogik
+1. **Einordnen:** Rolle, Ziel, Verfahrensstand, Vertragstyp, Behörde/Gericht, Frist und Risiken festhalten.
+2. **Normen live prüfen:** Vor tragenden Aussagen den aktuellen Stand aus amtlichen oder frei zugänglichen Quellen kontrollieren. Besonders prüfen: die im Fachkern genannten Normen-/Quellenanker, aktuellen amtlichen oder frei zugänglichen Fachquellen und die für diese Speziallage tragenden Formulare/Behördenhinweise.
+3. **Tatbestand in Elemente zerlegen:** Jedes Tatbestandsmerkmal einzeln prüfen; unklare Tatsachen als `[offen: ...]` markieren.
+4. **Belege führen:** Für jede relevante Behauptung Dokument, Datum, Absender, Anlage, Registerfund oder Quelle notieren.
+5. **Gegenansicht bauen:** Mindestens eine ernsthafte Gegenargumentation und eine Verteidigungslinie formulieren.
+6. **Ergebnis kalibrieren:** Risikoampel `grün/gelb/rot`, Handlungsempfehlung, nächster Schritt und fehlende Unterlagen ausgeben.
+
+## Qualitätsgate
+Am Ende kurz prüfen: Sind Fristen, Zuständigkeit, Rechtsgrundlage, Beweislast, Zahlen, Form und gewünschter Output vollständig? Ist erkennbar, was sicher ist und was noch Sachverhaltsarbeit braucht?
+
+---
+
+## Skill: `tk-marktregulierung-marktmacht-rechtsmittel`
+
+_Für TK-Regulierungsakte: TKG Marktregulierung beträchtliche Marktmacht — Rechtsmittel-Check: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt._
+
+# TK-Regulierungsakte: TKG Marktregulierung beträchtliche Marktmacht — Rechtsmittel-Check
+
+## Normenanker
+
+Vor einer rechtlichen Schlussfolgerung diese Anker am aktuellen Normtext prüfen; Spezial- und Landesrecht nur hinzunehmen, wenn es den konkreten Auftrag traegt:
+
+- `§ 29 EnWG` — Festlegung und Genehmigung durch Regulierungsbehoerde.
+- `§ 65 EnWG` — Aufsichtsmassnahmen.
+- `§ 75 EnWG` — Beschwerde gegen Entscheidungen der Regulierungsbehoerde.
+- `§ 80 EnWG` — Rechtsbeschwerde.
+- `§ 67 TKG` — Anordnungen der Bundesnetzagentur.
+- `§ 149 TKG` — Bussgeldvorschriften.
+- `§ 40 PostG` — Aufsicht.
+- `§ 44 VwVfG` — Nichtigkeit Verwaltungsakt.
+- `§ 80 Abs. 5 VwGO` — Eilrechtsschutz.
+- `§ 123 Abs. 1 VwGO` — einstweilige Anordnung.
+
+Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei prüfbare Quelle vorliegen; keine BeckRS-/juris-Blindzitate verwenden.
+
+## Arbeitsweg
+
+- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
+- Fristen und Eilrisiken zuerst markieren: Anhörung i.d.R. 4-6 Wochen, Beschlussfristen sektorspezifisch (EnWG Festlegungen, TKG Marktanalyse 3 Jahre), Beschwerde nach VwGO/EnWG.
+- Tragende Normen verifizieren: BNetzAG, EnWG §§ 21 ff. (Anreizregulierung), TKG §§ 9 ff. (Frequenz/Marktregulierung), PostG, EisbG, MessEG, NIS2-Aufsicht, BSI-KritisV, DigiNetzG — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
+- Zuständige Stelle bestimmen und Adressaten richtig wählen: BNetzA, Beschlusskammer, betroffenes Unternehmen (Netzbetreiber, TK-Unternehmen, Postunternehmen), Bundeskartellamt, OVG NRW, BVerwG.
+- Dokumente und Beweismittel sammeln und auf Lücken prüfen: Festlegungsbeschluss, Anhörungsschreiben, Marktdefinition/-analyse, Konsultationsdokument, Beschwerdeschrift, Konzessionsbescheid — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
+
+## Fachkern: TK-Regulierungsakte: TKG Marktregulierung beträchtliche Marktmacht — Rechtsmittel-Check
 - **Normen- und Behördenanker:** TKG, TDDDG, EECC-Rahmen, Frequenz-/Rufnummernzuteilung, Universaldienst, Marktregulierung, Missbrauchsaufsicht, Kundenschutz und BNetzA-Schlichtung.
 - **Spezifische Weiche:** Prüfe zuerst, ob es um Endkundenrechte, Zugang/Interconnection, Frequenzen, Rufnummern, Sicherheit/Resilienz oder Marktregulierung geht; davon hängen Formular, Beschlusskammer, Beiladung und Rechtsweg ab.
 - **Beleglogik:** Jede Zahl, Schwelle, Netzkomponente, Frist oder technische Behauptung braucht Quelle: Bescheid, Konsultationsdokument, Erhebungsbogen, Registerauszug, Vertrag, Messdaten, Ticket oder Behördenmail.
@@ -532,145 +456,11 @@ Am Ende kurz prüfen: Sind Fristen, Zuständigkeit, Rechtsgrundlage, Beweislast,
 
 ---
 
-## Skill: `digital-services-digital-services-coordinator-ddg`
+## Skill: `energie-regulierungsakte-ladesaeulen-elektromobilitaet-stellungn`
 
-_Wenn es um Digital Services Coordinator nach DDG: Behördenstruktur und Verfahren in Bundesnetzagentur-Verfahren geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt._
+_Für Energie-Regulierungsakte: Ladesäulen Elektromobilität — Stellungnahme-Entwurf: ordnet Akte, Belege und Lücken; Ergebnis: Schnittstellenkarte mit Zuständigkeits- und Nachweisfragen._
 
-# Digital Services Coordinator nach DDG: Behördenstruktur und Verfahren
-
-## Arbeitsweg
-
-- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
-- Fristen und Eilrisiken zuerst markieren: Anhörung i.d.R. 4-6 Wochen, Beschlussfristen sektorspezifisch (EnWG Festlegungen, TKG Marktanalyse 3 Jahre), Beschwerde nach VwGO/EnWG.
-- Tragende Normen verifizieren: BNetzAG, EnWG §§ 21 ff. (Anreizregulierung), TKG §§ 9 ff. (Frequenz/Marktregulierung), PostG, EisbG, MessEG, NIS2-Aufsicht, BSI-KritisV, DigiNetzG — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
-- Zuständige Stelle bestimmen und Adressaten richtig wählen: BNetzA, Beschlusskammer, betroffenes Unternehmen (Netzbetreiber, TK-Unternehmen, Postunternehmen), Bundeskartellamt, OVG NRW, BVerwG.
-- Dokumente und Beweismittel sammeln und auf Lücken prüfen: Festlegungsbeschluss, Anhörungsschreiben, Marktdefinition/-analyse, Konsultationsdokument, Beschwerdeschrift, Konzessionsbescheid — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
-
-## Zweck und Anwendungsfall
-Steuerung von anwaltlichen Verfahren gegenüber der Bundesnetzagentur in ihrer Rolle als Digital Services Coordinator (DSC) nach § 12 DDG. Der DSC ist die zentrale Stelle für die Durchsetzung des Digital Services Act in Deutschland und koordiniert mit der Bundeszentrale für Kinder- und Jugendmedienschutz (BzKJ), der/dem Bundesbeauftragten für den Datenschutz (BfDI), den Landesmedienanstalten und der EU-Kommission. Typische Anwendungen: Eingaben gegen rechtswidrige Aufsichtsverfügungen, Stellungnahmen in Verfahren nach Art. 51 DSA, Auskunftsersuchen § 18 DDG, Anhörung vor Bußgeldverhängung § 24 DDG, Klagen vor dem VG Köln.
-
-## Eingaben
-- Konkretes Verfahren der BNetzA (Az., Verfahrensgegenstand, Verfahrensstand).
-- Rolle des Mandanten: betroffene Plattform, Hosting-Anbieter, Suchmaschine, Trusted Flagger, Streitbeilegungsstelle, Beschwerdeführer.
-- Nationale Kooperationsfrage (gemeinsame Untersuchung mit BzKJ, BfDI, Landesmedienanstalten).
-- EU-Schnittstelle (Sitzlandprinzip Art. 56 DSA, EU-Kommissions-Befugnisse über VLOPs).
-- Frist (Stellungnahmefrist § 28 VwVfG, Beschwerdefrist Art. 53 DSA).
-
-## Rechtsrahmen
-- §§ 12–30 DDG (Digitale-Dienste-Gesetz, in Kraft seit 14.05.2024).
-- §§ 12, 14 DDG (Zuständigkeit und Aufgaben der BNetzA als DSC).
-- § 16 DDG (Beirat).
-- § 17 DDG (gemeinsame Aufsicht mit BzKJ und BfDI bei spezifischen Pflichten).
-- § 18 DDG (Auskunftsverlangen, Vor-Ort-Untersuchungen).
-- § 19 DDG (Untersagungsbefugnisse, Anordnung von Abhilfemaßnahmen).
-- § 23 DDG (Zusammenarbeit mit anderen Behörden).
-- § 24 DDG (Bußgeldvorschriften; Höchstbetrag 6 Prozent des Vorjahresumsatzes).
-- VO (EU) 2022/2065 (DSA), insbesondere Art. 49–63 (DSC-System) und Art. 64–88 (Aufsicht über VLOPs durch EU-Kommission).
-- §§ 51 Abs. 1 Nr. 7 VwGO, § 6 VwVfG (Zuständigkeit VG Köln für BNetzA-Sachen).
-
-## Ablauf
-1. **Verfahrensphase einordnen.** Vorermittlung, formelles Aufsichtsverfahren, Anhörung, Untersagung, Bußgeld. Verfahrensphase steuert die Beteiligungsrechte.
-2. **Zuständigkeitsfragen.** Sitzlandprinzip (Art. 56 DSA): Welcher Mitgliedstaat ist primär zuständig? Bei VLOP: ausschließliche EU-Kommissionszuständigkeit für Pflichten aus Kap. III Abschnitt 5 DSA.
-3. **Nationale Kooperation prüfen.** Beteiligungsrechte BzKJ (Jugendmedienschutz), BfDI (Datenschutz nach Art. 27 DSGVO i. V. m. DSA), Landesmedienanstalten (Sendebezug, JMStV).
-4. **Anhörung nach § 28 VwVfG vorbereiten.** Sachverhaltsdarstellung, rechtliche Würdigung, Verpflichtungszusagen-Vorschlag (Art. 73 DSA), Alternativvorschläge.
-5. **Verpflichtungszusagen.** Art. 73 DSA erlaubt einvernehmliche Lösungen mit Verbindlichmachung; Kommissions-Praxis aus dem Wettbewerbsrecht ist Auslegungsanker (Art. 9 VO 1/2003).
-6. **Bußgeldverteidigung.** § 24 DDG bei Verstoß gegen Auskunftspflicht; nemo tenetur; Verhältnismäßigkeitskontrolle.
-7. **Akteneinsicht und Geheimnisschutz.** Schwärzungsstrategie für Konkurrentenbeteiligung; Bezug zum Schwärzungs-Skill im selben Plugin.
-8. **Rechtsschutz.** Anfechtungsklage VG Köln; Eilantrag § 80 Abs. 5 VwGO; Beschwerde an EU-Gremium über DSC-Praxis (Art. 64 DSA).
-
-## Mustertexte
-- Stellungnahme an den DSC: Sachverhaltsteil, Rechtsteil mit Gliederung nach DSA-Pflichten, Verpflichtungszusagen-Vorschlag.
-- Antrag auf Akteneinsicht nach § 29 VwVfG i. V. m. § 18 DDG mit Schwärzungstabelle.
-- Verteidigungsschriftsatz gegen Bußgeldbescheid (§ 67 OWiG; sofortige Einspruch beim AG, anwaltliche Strategie vorab).
-
-## Quellenpflicht
-- DDG-Originaltext aus BGBl. 2024 I Nr. 149.
-- DSA-Originaltext und delegierte Rechtsakte aus EUR-Lex.
-- BNetzA-DSC-Veröffentlichungen (Webseite, Jahresberichte nach § 16 DDG).
-- VG Köln-Entscheidungen mit Az., Datum, Fundstelle.
-- Zitierweise nach `references/zitierweise.md`.
-
-## Beispiele
-- Hosting-Anbieter erhält Auskunftsverlangen nach § 18 DDG. Strategie: zügige Lieferung mit klarem Schutz von Geschäftsgeheimnissen.
-- Online-Plattform wird Untersagung gem. § 19 DDG angedroht wegen fehlender Notice-and-Action-Schnittstelle. Verpflichtungszusagen-Vorschlag nach Art. 73 DSA.
-- Verband stellt eine Anzeige nach Art. 53 DSA, DSC eröffnet Vorermittlung, anwaltliche Plattform-Begleitung.
-
-## Qualitätsgate
-Zuständigkeit DSC vs. Kommission geklärt? Nationale Behördenbeteiligung berücksichtigt? Verpflichtungszusagen geprüft? Anhörungsrechte gewahrt? Bußgeldrisiken quantifiziert (Umsatzbasis)?
-
----
-
-## Skill: `eisenbahn-anreizsetzung-schiene`
-
-_Wenn es um Anreizsetzungssystem im Eisenbahnverkehr (ASS) nach Paragraf 39 ERegG in Bundesnetzagentur-Verfahren geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt._
-
-# Anreizsetzungssystem im Eisenbahnverkehr (ASS) nach § 39 ERegG
-
-## Arbeitsweg
-
-- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
-- Fristen und Eilrisiken zuerst markieren: Anhörung i.d.R. 4-6 Wochen, Beschlussfristen sektorspezifisch (EnWG Festlegungen, TKG Marktanalyse 3 Jahre), Beschwerde nach VwGO/EnWG.
-- Tragende Normen verifizieren: BNetzAG, EnWG §§ 21 ff. (Anreizregulierung), TKG §§ 9 ff. (Frequenz/Marktregulierung), PostG, EisbG, MessEG, NIS2-Aufsicht, BSI-KritisV, DigiNetzG — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
-- Zuständige Stelle bestimmen und Adressaten richtig wählen: BNetzA, Beschlusskammer, betroffenes Unternehmen (Netzbetreiber, TK-Unternehmen, Postunternehmen), Bundeskartellamt, OVG NRW, BVerwG.
-- Dokumente und Beweismittel sammeln und auf Lücken prüfen: Festlegungsbeschluss, Anhörungsschreiben, Marktdefinition/-analyse, Konsultationsdokument, Beschwerdeschrift, Konzessionsbescheid — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
-
-## Zweck und Anwendungsfall
-Anwaltliche Begleitung des Anreizsetzungssystems (ASS) für Pünktlichkeit und Zuverlässigkeit im Eisenbahnverkehr. Eisenbahninfrastrukturunternehmen (insbesondere DB InfraGO AG) müssen nach § 39 ERegG ein leistungsabhängiges Bonus-Malus-System gegenüber Eisenbahnverkehrsunternehmen (EVU) anwenden. Die Bundesnetzagentur prüft das System auf Diskriminierungsfreiheit, sachgerechte Kalibrierung der Schwellen und transparente Verrechnung. Anwaltliche Mandate: EVU bei Streit über Malus-Berechnung; EIU bei Verteidigung der eigenen Systemausgestaltung; Verbände bei Konsultationen.
-
-## Eingaben
-- Beteiligte Unternehmen (EVU, EIU).
-- Aktuell geltendes Anreizsystem (Schienennetz-Benutzungsbedingungen SNB).
-- Konkrete Streitpunkte (Schwellenwerte, Verspätungs- und Stornierungsdefinition, Datengrundlage, Sanktionierung).
-- Verfahrensstand bei der BNetzA (Konsultation, Festlegungsentwurf, Beschluss).
-- Schnittstellen zu Trassenpreissystem und Stationspreissystem.
-
-## Rechtsrahmen
-- § 39 ERegG (Anreizsetzung im Eisenbahnverkehr).
-- §§ 26–32 ERegG (Schienennetz-Benutzungsbedingungen SNB).
-- §§ 45 ff. ERegG (Entgeltregulierung).
-- §§ 66–68 ERegG (Beschwerdeverfahren und einstweilige Anordnung der BNetzA).
-- § 76 ERegG (Genehmigungsvorbehalt für Entgelte).
-- § 79 ERegG (sofortige Vollziehbarkeit).
-- Anhang VI RL (EU) 2012/34 (SERA-Richtlinie, performance scheme).
-- DVO (EU) 2015/909 (direkte Kosten).
-
-## Ablauf
-1. **Klassifizierung des ASS prüfen.** Anwendungsbereich (Personen- und Güterverkehr unterschiedlich), Verspätungsdefinition (in Deutschland regelmäßig ab 6 Minuten), Ausnahmen (höhere Gewalt, Streik, gegenseitige Verursachung).
-2. **Datenbasis prüfen.** Quelle (Leit- und Steuerungssystem, automatisierte Erfassung), Datenqualität, Audit.
-3. **Bonus-Malus-Logik prüfen.** Symmetrie (Bonus bei pünktlichem EIU vs. Malus bei verspätetem EVU), Kappung, Übergangsfristen, sektorbezogene Differenzierung (Personenfern, Personennah, Güter).
-4. **Diskriminierungsfreiheit Art. 56 RL 2012/34/EU.** Gleichbehandlung verschiedener EVU, kein Vorteil für integrierte Wettbewerber.
-5. **Verfahren bei der BNetzA.** Konsultation der SNB nach § 26 ERegG, Festlegung und Genehmigung; Beschwerde nach § 66 ERegG bei EVU-Konstellationen.
-6. **Stellungnahme entwerfen.** Tatsachen-Substantiierung (Belastung im konkreten Geschäftsjahr), Vergleich zu Best Practice in anderen EU-Mitgliedstaaten, Verhältnismäßigkeitsgrenzen.
-7. **Eilverfahren.** § 68 ERegG (einstweilige Anordnung BNetzA); VG Köln § 80 Abs. 5 VwGO gegen § 79 ERegG-Vollziehbarkeit.
-8. **Schnittstellen.** Auswirkungen auf Trassenpreis (§ 31 ERegG), Stationsentgelte (§ 33 ERegG), Kapazitätszuweisung (§§ 51 ff. ERegG).
-
-## Mustertexte
-- EVU-Beschwerde nach § 66 ERegG gegen Malus-Berechnung mit Datentabellen.
-- EIU-Stellungnahme im Konsultationsverfahren mit Datenbasis und Verteilungsmodell.
-- Antrag auf einstweilige Anordnung § 68 ERegG bzw. § 80 Abs. 5 VwGO VG Köln.
-
-## Quellenpflicht
-- ERegG aktueller Stand.
-- RL (EU) 2012/34 und DVO (EU) 2015/909 aus EUR-Lex.
-- BNetzA-Beschlüsse, Az. (z. B. BK10-XX-XXX-XX) generisch; konkretes Az. vom Anwender zu verifizieren.
-- BVerwG/VG Köln-Rechtsprechung mit Datum, Az., freier Fundstelle.
-- Zitierweise nach `references/zitierweise.md`.
-
-## Beispiele
-- EVU rügt unverhältnismäßigen Malus bei Verspätungen, die durch Bautätigkeit des EIU verursacht wurden. Bezug auf § 39 i. V. m. Verursacherprinzip.
-- EIU verteidigt Differenzierung Personen- vs. Güterverkehr mit unterschiedlichen Pünktlichkeitsmetriken.
-- Verband BNE oder mofair stellt im Konsultationsverfahren Vergleich zu österreichischem oder schweizerischem System dar.
-
-## Qualitätsgate
-ASS-Definition und Verspätungs-Schwellen klar? Datenbasis vor Streitwert genau beziffert? Diskriminierungs-Maßstab vergleichend belegt? Verfahrensstand bei der BNetzA korrekt eingeordnet? Eil-Optionen § 68 ERegG / VG Köln benannt?
-
----
-
-## Skill: `energie-regulierungsakte-eeg-netzanschluss-einspeisemanagement-s`
-
-_Wenn es um Energie-Regulierungsakte: EEG Netzanschluss Einspeisemanagement — Stellungnahme-Entwurf in Bundesnetzagentur-Verfahren geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt._
-
-# Energie-Regulierungsakte: EEG Netzanschluss Einspeisemanagement — Stellungnahme-Entwurf
+# Energie-Regulierungsakte: Ladesäulen Elektromobilität — Stellungnahme-Entwurf
 
 ## Normenanker
 
@@ -697,7 +487,178 @@ Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei pr
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: BNetzA, Beschlusskammer, betroffenes Unternehmen (Netzbetreiber, TK-Unternehmen, Postunternehmen), Bundeskartellamt, OVG NRW, BVerwG.
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Festlegungsbeschluss, Anhörungsschreiben, Marktdefinition/-analyse, Konsultationsdokument, Beschwerdeschrift, Konzessionsbescheid — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
-## Fachkern: Energie-Regulierungsakte: EEG Netzanschluss Einspeisemanagement — Stellungnahme-Entwurf
+## Fachkern: Energie-Regulierungsakte: Ladesäulen Elektromobilität — Stellungnahme-Entwurf
+- **Normen- und Behördenanker:** EnWG, ARegV, StromNEV/GasNEV, MsbG, EEG, KWKG, REMIT, NABEG und die einschlägige Beschlusskammerpraxis der BNetzA.
+- **Spezifische Weiche:** Zerlege Netzbetreiberrolle, Erlösobergrenze/Kostenbasis, Regulierungskonto, Investitionsmaßnahme, Netzzugang, Anschlussbegehren, Bilanzkreis oder Marktmissbrauch; Zahlen müssen aus Bescheid, Datenmeldung oder Erhebungsbogen kommen.
+- **Beleglogik:** Jede Zahl, Schwelle, Netzkomponente, Frist oder technische Behauptung braucht Quelle: Bescheid, Konsultationsdokument, Erhebungsbogen, Registerauszug, Vertrag, Messdaten, Ticket oder Behördenmail.
+- **Taktischer Output:** Erzeuge nicht nur eine Checkliste, sondern eine Beschlusskammer-taugliche Kurzposition mit Antrag/Einwand, Beleganlage, offener Live-Quelle und nächstem Verfahrensschritt.
+
+## Fachliche Weichenfragen
+- Wer fragt in welcher Rolle und welches Arbeitsergebnis wird gebraucht?
+- Welche Frist, Zuständigkeit, Behörde, Gericht oder Vertragssituation ist erkennbar?
+- Welche Dokumente, Zahlen, Registerdaten, Bescheide, Verträge oder Korrespondenz liegen vor?
+- Welche Tatsachen sind sicher, welche sind streitig und welche Annahmen müssen sichtbar markiert werden?
+- Welche live zu prüfenden Normen, Behördenhinweise oder Formulare tragen das Ergebnis?
+
+## Prüf- und Arbeitslogik
+1. **Einordnen:** Rolle, Ziel, Verfahrensstand, Vertragstyp, Behörde/Gericht, Frist und Risiken festhalten.
+2. **Normen live prüfen:** Vor tragenden Aussagen den aktuellen Stand aus amtlichen oder frei zugänglichen Quellen kontrollieren. Besonders prüfen: die im Fachkern genannten Normen-/Quellenanker, aktuellen amtlichen oder frei zugänglichen Fachquellen und die für diese Speziallage tragenden Formulare/Behördenhinweise.
+3. **Tatbestand in Elemente zerlegen:** Jedes Tatbestandsmerkmal einzeln prüfen; unklare Tatsachen als `[offen: ...]` markieren.
+4. **Belege führen:** Für jede relevante Behauptung Dokument, Datum, Absender, Anlage, Registerfund oder Quelle notieren.
+5. **Gegenansicht bauen:** Mindestens eine ernsthafte Gegenargumentation und eine Verteidigungslinie formulieren.
+6. **Ergebnis kalibrieren:** Risikoampel `grün/gelb/rot`, Handlungsempfehlung, nächster Schritt und fehlende Unterlagen ausgeben.
+
+## Qualitätsgate
+Am Ende kurz prüfen: Sind Fristen, Zuständigkeit, Rechtsgrundlage, Beweislast, Zahlen, Form und gewünschter Output vollständig? Ist erkennbar, was sicher ist und was noch Sachverhaltsarbeit braucht?
+
+---
+
+## Skill: `energie-regulierungsakte-ladesaeulen-elektromobilitaet-unterlage`
+
+_Für Energie-Regulierungsakte: Ladesäulen Elektromobilität — Unterlagenanforderung: ordnet Akte, Belege und Lücken; Ergebnis: Schnittstellenkarte mit Zuständigkeits- und Nachweisfragen._
+
+# Energie-Regulierungsakte: Ladesäulen Elektromobilität — Unterlagenanforderung
+
+## Normenanker
+
+Vor einer rechtlichen Schlussfolgerung diese Anker am aktuellen Normtext prüfen; Spezial- und Landesrecht nur hinzunehmen, wenn es den konkreten Auftrag traegt:
+
+- `§ 29 EnWG` — Festlegung und Genehmigung durch Regulierungsbehoerde.
+- `§ 65 EnWG` — Aufsichtsmassnahmen.
+- `§ 75 EnWG` — Beschwerde gegen Entscheidungen der Regulierungsbehoerde.
+- `§ 80 EnWG` — Rechtsbeschwerde.
+- `§ 67 TKG` — Anordnungen der Bundesnetzagentur.
+- `§ 149 TKG` — Bussgeldvorschriften.
+- `§ 40 PostG` — Aufsicht.
+- `§ 44 VwVfG` — Nichtigkeit Verwaltungsakt.
+- `§ 80 Abs. 5 VwGO` — Eilrechtsschutz.
+- `§ 123 Abs. 1 VwGO` — einstweilige Anordnung.
+
+Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei prüfbare Quelle vorliegen; keine BeckRS-/juris-Blindzitate verwenden.
+
+## Arbeitsweg
+
+- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
+- Fristen und Eilrisiken zuerst markieren: Anhörung i.d.R. 4-6 Wochen, Beschlussfristen sektorspezifisch (EnWG Festlegungen, TKG Marktanalyse 3 Jahre), Beschwerde nach VwGO/EnWG.
+- Tragende Normen verifizieren: BNetzAG, EnWG §§ 21 ff. (Anreizregulierung), TKG §§ 9 ff. (Frequenz/Marktregulierung), PostG, EisbG, MessEG, NIS2-Aufsicht, BSI-KritisV, DigiNetzG — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
+- Zuständige Stelle bestimmen und Adressaten richtig wählen: BNetzA, Beschlusskammer, betroffenes Unternehmen (Netzbetreiber, TK-Unternehmen, Postunternehmen), Bundeskartellamt, OVG NRW, BVerwG.
+- Dokumente und Beweismittel sammeln und auf Lücken prüfen: Festlegungsbeschluss, Anhörungsschreiben, Marktdefinition/-analyse, Konsultationsdokument, Beschwerdeschrift, Konzessionsbescheid — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
+
+## Fachkern: Energie-Regulierungsakte: Ladesäulen Elektromobilität — Unterlagenanforderung
+- **Normen- und Behördenanker:** EnWG, ARegV, StromNEV/GasNEV, MsbG, EEG, KWKG, REMIT, NABEG und die einschlägige Beschlusskammerpraxis der BNetzA.
+- **Spezifische Weiche:** Zerlege Netzbetreiberrolle, Erlösobergrenze/Kostenbasis, Regulierungskonto, Investitionsmaßnahme, Netzzugang, Anschlussbegehren, Bilanzkreis oder Marktmissbrauch; Zahlen müssen aus Bescheid, Datenmeldung oder Erhebungsbogen kommen.
+- **Beleglogik:** Jede Zahl, Schwelle, Netzkomponente, Frist oder technische Behauptung braucht Quelle: Bescheid, Konsultationsdokument, Erhebungsbogen, Registerauszug, Vertrag, Messdaten, Ticket oder Behördenmail.
+- **Taktischer Output:** Erzeuge nicht nur eine Checkliste, sondern eine Beschlusskammer-taugliche Kurzposition mit Antrag/Einwand, Beleganlage, offener Live-Quelle und nächstem Verfahrensschritt.
+
+## Fachliche Weichenfragen
+- Wer fragt in welcher Rolle und welches Arbeitsergebnis wird gebraucht?
+- Welche Frist, Zuständigkeit, Behörde, Gericht oder Vertragssituation ist erkennbar?
+- Welche Dokumente, Zahlen, Registerdaten, Bescheide, Verträge oder Korrespondenz liegen vor?
+- Welche Tatsachen sind sicher, welche sind streitig und welche Annahmen müssen sichtbar markiert werden?
+- Welche live zu prüfenden Normen, Behördenhinweise oder Formulare tragen das Ergebnis?
+
+## Prüf- und Arbeitslogik
+1. **Einordnen:** Rolle, Ziel, Verfahrensstand, Vertragstyp, Behörde/Gericht, Frist und Risiken festhalten.
+2. **Normen live prüfen:** Vor tragenden Aussagen den aktuellen Stand aus amtlichen oder frei zugänglichen Quellen kontrollieren. Besonders prüfen: die im Fachkern genannten Normen-/Quellenanker, aktuellen amtlichen oder frei zugänglichen Fachquellen und die für diese Speziallage tragenden Formulare/Behördenhinweise.
+3. **Tatbestand in Elemente zerlegen:** Jedes Tatbestandsmerkmal einzeln prüfen; unklare Tatsachen als `[offen: ...]` markieren.
+4. **Belege führen:** Für jede relevante Behauptung Dokument, Datum, Absender, Anlage, Registerfund oder Quelle notieren.
+5. **Gegenansicht bauen:** Mindestens eine ernsthafte Gegenargumentation und eine Verteidigungslinie formulieren.
+6. **Ergebnis kalibrieren:** Risikoampel `grün/gelb/rot`, Handlungsempfehlung, nächster Schritt und fehlende Unterlagen ausgeben.
+
+## Qualitätsgate
+Am Ende kurz prüfen: Sind Fristen, Zuständigkeit, Rechtsgrundlage, Beweislast, Zahlen, Form und gewünschter Output vollständig? Ist erkennbar, was sicher ist und was noch Sachverhaltsarbeit braucht?
+
+---
+
+## Skill: `energie-regulierungsakte-anreizregulierung-erloesobergrenze-fris`
+
+_Für Energie-Regulierungsakte: Anreizregulierung Erlösobergrenze — Fristen- und Bescheidanalyse: ordnet Akte, Belege und Lücken; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt._
+
+# Energie-Regulierungsakte: Anreizregulierung Erlösobergrenze — Fristen- und Bescheidanalyse
+
+## Normenanker
+
+Vor einer rechtlichen Schlussfolgerung diese Anker am aktuellen Normtext prüfen; Spezial- und Landesrecht nur hinzunehmen, wenn es den konkreten Auftrag traegt:
+
+- `§ 29 EnWG` — Festlegung und Genehmigung durch Regulierungsbehoerde.
+- `§ 65 EnWG` — Aufsichtsmassnahmen.
+- `§ 75 EnWG` — Beschwerde gegen Entscheidungen der Regulierungsbehoerde.
+- `§ 80 EnWG` — Rechtsbeschwerde.
+- `§ 67 TKG` — Anordnungen der Bundesnetzagentur.
+- `§ 149 TKG` — Bussgeldvorschriften.
+- `§ 40 PostG` — Aufsicht.
+- `§ 44 VwVfG` — Nichtigkeit Verwaltungsakt.
+- `§ 80 Abs. 5 VwGO` — Eilrechtsschutz.
+- `§ 123 Abs. 1 VwGO` — einstweilige Anordnung.
+
+Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei prüfbare Quelle vorliegen; keine BeckRS-/juris-Blindzitate verwenden.
+
+## Arbeitsweg
+
+- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
+- Fristen und Eilrisiken zuerst markieren: Anhörung i.d.R. 4-6 Wochen, Beschlussfristen sektorspezifisch (EnWG Festlegungen, TKG Marktanalyse 3 Jahre), Beschwerde nach VwGO/EnWG.
+- Tragende Normen verifizieren: BNetzAG, EnWG §§ 21 ff. (Anreizregulierung), TKG §§ 9 ff. (Frequenz/Marktregulierung), PostG, EisbG, MessEG, NIS2-Aufsicht, BSI-KritisV, DigiNetzG — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
+- Zuständige Stelle bestimmen und Adressaten richtig wählen: BNetzA, Beschlusskammer, betroffenes Unternehmen (Netzbetreiber, TK-Unternehmen, Postunternehmen), Bundeskartellamt, OVG NRW, BVerwG.
+- Dokumente und Beweismittel sammeln und auf Lücken prüfen: Festlegungsbeschluss, Anhörungsschreiben, Marktdefinition/-analyse, Konsultationsdokument, Beschwerdeschrift, Konzessionsbescheid — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
+
+## Fachkern: Energie-Regulierungsakte: Anreizregulierung Erlösobergrenze — Fristen- und Bescheidanalyse
+- **Normen- und Behördenanker:** EnWG, ARegV, StromNEV/GasNEV, MsbG, EEG, KWKG, REMIT, NABEG und die einschlägige Beschlusskammerpraxis der BNetzA.
+- **Spezifische Weiche:** Zerlege Netzbetreiberrolle, Erlösobergrenze/Kostenbasis, Regulierungskonto, Investitionsmaßnahme, Netzzugang, Anschlussbegehren, Bilanzkreis oder Marktmissbrauch; Zahlen müssen aus Bescheid, Datenmeldung oder Erhebungsbogen kommen.
+- **Beleglogik:** Jede Zahl, Schwelle, Netzkomponente, Frist oder technische Behauptung braucht Quelle: Bescheid, Konsultationsdokument, Erhebungsbogen, Registerauszug, Vertrag, Messdaten, Ticket oder Behördenmail.
+- **Taktischer Output:** Erzeuge nicht nur eine Checkliste, sondern eine Beschlusskammer-taugliche Kurzposition mit Antrag/Einwand, Beleganlage, offener Live-Quelle und nächstem Verfahrensschritt.
+
+## Fachliche Weichenfragen
+- Wer fragt in welcher Rolle und welches Arbeitsergebnis wird gebraucht?
+- Welche Frist, Zuständigkeit, Behörde, Gericht oder Vertragssituation ist erkennbar?
+- Welche Dokumente, Zahlen, Registerdaten, Bescheide, Verträge oder Korrespondenz liegen vor?
+- Welche Tatsachen sind sicher, welche sind streitig und welche Annahmen müssen sichtbar markiert werden?
+- Welche live zu prüfenden Normen, Behördenhinweise oder Formulare tragen das Ergebnis?
+
+## Prüf- und Arbeitslogik
+1. **Einordnen:** Rolle, Ziel, Verfahrensstand, Vertragstyp, Behörde/Gericht, Frist und Risiken festhalten.
+2. **Normen live prüfen:** Vor tragenden Aussagen den aktuellen Stand aus amtlichen oder frei zugänglichen Quellen kontrollieren. Besonders prüfen: die im Fachkern genannten Normen-/Quellenanker, aktuellen amtlichen oder frei zugänglichen Fachquellen und die für diese Speziallage tragenden Formulare/Behördenhinweise.
+3. **Tatbestand in Elemente zerlegen:** Jedes Tatbestandsmerkmal einzeln prüfen; unklare Tatsachen als `[offen: ...]` markieren.
+4. **Belege führen:** Für jede relevante Behauptung Dokument, Datum, Absender, Anlage, Registerfund oder Quelle notieren.
+5. **Gegenansicht bauen:** Mindestens eine ernsthafte Gegenargumentation und eine Verteidigungslinie formulieren.
+6. **Ergebnis kalibrieren:** Risikoampel `grün/gelb/rot`, Handlungsempfehlung, nächster Schritt und fehlende Unterlagen ausgeben.
+
+## Qualitätsgate
+Am Ende kurz prüfen: Sind Fristen, Zuständigkeit, Rechtsgrundlage, Beweislast, Zahlen, Form und gewünschter Output vollständig? Ist erkennbar, was sicher ist und was noch Sachverhaltsarbeit braucht?
+
+---
+
+## Skill: `energie-versorgungssicherheit-monitoring-rechtsmittel`
+
+_Für Energie-Regulierungsakte: Versorgungssicherheit Monitoring — Rechtsmittel-Check: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt._
+
+# Energie-Regulierungsakte: Versorgungssicherheit Monitoring — Rechtsmittel-Check
+
+## Normenanker
+
+Vor einer rechtlichen Schlussfolgerung diese Anker am aktuellen Normtext prüfen; Spezial- und Landesrecht nur hinzunehmen, wenn es den konkreten Auftrag traegt:
+
+- `§ 29 EnWG` — Festlegung und Genehmigung durch Regulierungsbehoerde.
+- `§ 65 EnWG` — Aufsichtsmassnahmen.
+- `§ 75 EnWG` — Beschwerde gegen Entscheidungen der Regulierungsbehoerde.
+- `§ 80 EnWG` — Rechtsbeschwerde.
+- `§ 67 TKG` — Anordnungen der Bundesnetzagentur.
+- `§ 149 TKG` — Bussgeldvorschriften.
+- `§ 40 PostG` — Aufsicht.
+- `§ 44 VwVfG` — Nichtigkeit Verwaltungsakt.
+- `§ 80 Abs. 5 VwGO` — Eilrechtsschutz.
+- `§ 123 Abs. 1 VwGO` — einstweilige Anordnung.
+
+Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei prüfbare Quelle vorliegen; keine BeckRS-/juris-Blindzitate verwenden.
+
+## Arbeitsweg
+
+- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
+- Fristen und Eilrisiken zuerst markieren: Anhörung i.d.R. 4-6 Wochen, Beschlussfristen sektorspezifisch (EnWG Festlegungen, TKG Marktanalyse 3 Jahre), Beschwerde nach VwGO/EnWG.
+- Tragende Normen verifizieren: BNetzAG, EnWG §§ 21 ff. (Anreizregulierung), TKG §§ 9 ff. (Frequenz/Marktregulierung), PostG, EisbG, MessEG, NIS2-Aufsicht, BSI-KritisV, DigiNetzG — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
+- Zuständige Stelle bestimmen und Adressaten richtig wählen: BNetzA, Beschlusskammer, betroffenes Unternehmen (Netzbetreiber, TK-Unternehmen, Postunternehmen), Bundeskartellamt, OVG NRW, BVerwG.
+- Dokumente und Beweismittel sammeln und auf Lücken prüfen: Festlegungsbeschluss, Anhörungsschreiben, Marktdefinition/-analyse, Konsultationsdokument, Beschwerdeschrift, Konzessionsbescheid — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
+
+## Fachkern: Energie-Regulierungsakte: Versorgungssicherheit Monitoring — Rechtsmittel-Check
 - **Normen- und Behördenanker:** EnWG, ARegV, StromNEV/GasNEV, MsbG, EEG, KWKG, REMIT, NABEG und die einschlägige Beschlusskammerpraxis der BNetzA.
 - **Spezifische Weiche:** Zerlege Netzbetreiberrolle, Erlösobergrenze/Kostenbasis, Regulierungskonto, Investitionsmaßnahme, Netzzugang, Anschlussbegehren, Bilanzkreis oder Marktmissbrauch; Zahlen müssen aus Bescheid, Datenmeldung oder Erhebungsbogen kommen.
 - **Beleglogik:** Jede Zahl, Schwelle, Netzkomponente, Frist oder technische Behauptung braucht Quelle: Bescheid, Konsultationsdokument, Erhebungsbogen, Registerauszug, Vertrag, Messdaten, Ticket oder Behördenmail.

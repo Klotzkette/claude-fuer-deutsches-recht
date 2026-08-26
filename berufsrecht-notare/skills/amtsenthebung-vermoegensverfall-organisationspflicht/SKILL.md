@@ -1,6 +1,6 @@
 ---
 name: amtsenthebung-vermoegensverfall-organisationspflicht
-description: "Wenn es um Amtsenthebung Vermoegensverfall Organisationspflicht in Berufsrecht Notare geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Amtsenthebung Vermögensverfall Organisationspflicht: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Notare: amtsenthebung vermögensverfall - Organisationspflichten, Prävention, Team-Anweisung und Fristenkontrolle

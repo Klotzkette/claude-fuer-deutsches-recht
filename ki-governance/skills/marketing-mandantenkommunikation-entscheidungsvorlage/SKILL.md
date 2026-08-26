@@ -1,6 +1,6 @@
 ---
 name: marketing-mandantenkommunikation-entscheidungsvorlage
-description: "Wenn es um Marketing: Mandantenkommunikation und Entscheidungsvorlage in diesem Spezialbereich geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Mandantennachricht oder Entscheidungsvorlage."
+description: "Für Marketing: Mandantenkommunikation und Entscheidungsvorlage: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Mandantennachricht oder Entscheidungsvorlage."
 ---
 
 # Marketing: Mandantenkommunikation und Entscheidungsvorlage

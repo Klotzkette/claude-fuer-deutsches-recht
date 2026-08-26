@@ -1,6 +1,6 @@
 ---
 name: chn-072-tibet-xinjiang-public-communications
-description: "Wenn es um Tibet Xinjiang Public Communications in China-Wirtschaftsverkehr geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Tibet Xinjiang Public Communications: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Tibet Xinjiang Public Communications

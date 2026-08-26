@@ -1,6 +1,6 @@
 ---
 name: cisg-wesentliche-vertragsverletzung
-description: "Wenn es um Wesentliche Vertragsverletzung (CISG Art. 25) in Internationales Handelsrecht und Lex Mercatoria geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
+description: "Für Wesentliche Vertragsverletzung (CISG Art. 25): ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Wesentliche Vertragsverletzung (CISG Art. 25)

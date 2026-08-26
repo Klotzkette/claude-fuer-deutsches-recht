@@ -1,6 +1,6 @@
 ---
 name: anonymisierung-identifizierbarkeit
-description: "Wenn es um Anonymisierung und Identifizierbarkeit in Juristische Presseberichterstattung geht: entwirft Anonymisierung, Kürzung und Kontextreduktion, ohne den Bericht unverständlich zu machen."
+description: "Für Anonymisierung und Identifizierbarkeit: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Anonymisierung und Identifizierbarkeit

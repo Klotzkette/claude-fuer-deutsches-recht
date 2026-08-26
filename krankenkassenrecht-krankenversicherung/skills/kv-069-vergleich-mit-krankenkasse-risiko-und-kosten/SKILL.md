@@ -1,6 +1,6 @@
 ---
 name: kv-069-vergleich-mit-krankenkasse-risiko-und-kosten
-description: "Wenn es um Krankenversicherung: Vergleich mit Krankenkasse Risiko und Kosten in Krankenkassenrecht und Krankenversicherung geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Krankenversicherung: Vergleich mit Krankenkasse Risiko und Kosten: entwickelt Ziel, Vergleich und Eskalation; Ergebnis: Verhandlungs- oder Eskalationslinie."
 ---
 
 # Krankenversicherung: Vergleich mit Krankenkasse Risiko und Kosten

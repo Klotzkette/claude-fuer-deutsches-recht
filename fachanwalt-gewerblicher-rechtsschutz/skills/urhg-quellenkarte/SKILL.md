@@ -1,6 +1,6 @@
 ---
 name: urhg-quellenkarte
-description: "Wenn es um Urhg Quellenkarte in Fachanwalt Gewerblicher Rechtsschutz geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Tatbestands- oder Anspruchsmatrix mit Gegenargumenten."
+description: "Für Urhg Quellenkarte: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Urhg Quellenkarte

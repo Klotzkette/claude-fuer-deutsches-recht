@@ -1,6 +1,6 @@
 ---
 name: freight-forwarder-and-customs-broker
-description: "Wenn es um Spediteur und Zollmakler China-Handel: Haftung und Beauftragung in China-Wirtschaftsverkehr geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Spediteur und Zollmakler China-Handel: Haftung und Beauftragung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Spediteur und Zollmakler China-Handel: Haftung und Beauftragung

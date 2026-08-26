@@ -1,6 +1,6 @@
 ---
 name: normzweck-historisch-rekonstruieren
-description: "Wenn es um Normzweck historisch rekonstruieren in Deutsche Rechtsgeschichte geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Normzweck historisch rekonstruieren: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Tatbestands- oder Anspruchsmatrix."
 ---
 
 # Normzweck historisch rekonstruieren

@@ -1,6 +1,6 @@
 ---
 name: wiedergabe-ansichten-fotos-linien
-description: "Wenn es um Wiedergabe Ansichten Fotos Linien in designrecht-geschmacksmusterrecht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
+description: "Für Wiedergabe Ansichten Fotos Linien: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Wiedergaben, Ansichten, Fotos, Linienzeichnungen und Disclaimer prüfen: was sichtbar ist, ist Schutzbasis

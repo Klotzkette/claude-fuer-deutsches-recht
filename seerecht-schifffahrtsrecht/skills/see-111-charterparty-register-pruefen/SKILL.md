@@ -1,6 +1,6 @@
 ---
 name: see-111-charterparty-register-pruefen
-description: "Wenn es um Charterparty Register Pruefen in See- und Schifffahrtsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Charterparty Register Prüfen: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Einreichungsplan mit Form- und Nachweischeck."
 ---
 
 # Charterparty Register Pruefen

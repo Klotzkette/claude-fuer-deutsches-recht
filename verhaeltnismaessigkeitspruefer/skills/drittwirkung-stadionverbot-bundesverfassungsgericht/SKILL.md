@@ -1,6 +1,6 @@
 ---
 name: drittwirkung-stadionverbot-bundesverfassungsgericht
-description: "Wenn es um Stadionverbot — Verhältnismäßigkeit zwischen Privaten bei oeffentlicher Funktion in Verhältnismäßigkeitsprüfer geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Stadionverbot — Verhältnismäßigkeit zwischen Privaten bei öffentlicher Funktion: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Stadionverbot — Verhältnismäßigkeit zwischen Privaten bei oeffentlicher Funktion

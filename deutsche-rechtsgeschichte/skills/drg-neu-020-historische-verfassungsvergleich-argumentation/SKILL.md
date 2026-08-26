@@ -1,6 +1,6 @@
 ---
 name: drg-neu-020-historische-verfassungsvergleich-argumentation
-description: "Wenn es um Deutsche Rechtsgeschichte: Historische Verfassungsvergleiche als Argumentationshilfe in Deutsche Rechtsgeschichte geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Deutsche Rechtsgeschichte: Historische Verfassungsvergleiche als Argumentationshilfe: entwickelt Ziel, Vergleich und Eskalation; Ergebnis: Verhandlungs- oder Eskalationslinie."
 ---
 
 # Deutsche Rechtsgeschichte: Historische Verfassungsvergleiche als Argumentationshilfe

@@ -1,6 +1,6 @@
 ---
 name: lph8-bauueberwachung-videoanalyse-tagesbaustelle
-description: "Wenn es um Videoanalyse Tagesbaustelle in der Bauueberwachung LPH 8 in HOAI Leistungsphasen Praxis geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Videoanalyse Tagesbaustelle in der Bauüberwachung LPH 8: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Videoanalyse Tagesbaustelle in der Bauueberwachung LPH 8

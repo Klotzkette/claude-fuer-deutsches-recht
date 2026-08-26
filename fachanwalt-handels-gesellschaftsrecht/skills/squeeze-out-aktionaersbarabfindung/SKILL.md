@@ -1,6 +1,6 @@
 ---
 name: squeeze-out-aktionaersbarabfindung
-description: "Wenn es um Squeeze out Aktionaersbarabfindung in Fachanwalt Handels- und Gesellschaftsrecht geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Squeeze out Aktionärsbarabfindung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Squeeze out Aktionaersbarabfindung

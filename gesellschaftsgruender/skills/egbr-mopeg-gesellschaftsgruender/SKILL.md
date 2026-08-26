@@ -1,6 +1,6 @@
 ---
 name: egbr-mopeg-gesellschaftsgruender
-description: "Prüft Gründung, Eintragung und Folgevollzug einer GbR oder eGbR nach dem MoPeG. Trennt Gesellschaftsregister, Grundbuch, GmbH-Gesellschafterliste, Haftung und Statuswechsel und liefert eine belastbare Vollzugsmatrix."
+description: "Für eGbR und GbR nach MoPeG 2024: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # eGbR und GbR nach MoPeG 2024

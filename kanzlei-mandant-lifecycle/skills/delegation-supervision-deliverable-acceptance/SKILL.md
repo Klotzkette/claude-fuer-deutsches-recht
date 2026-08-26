@@ -1,6 +1,6 @@
 ---
 name: delegation-supervision-deliverable-acceptance
-description: "Wenn es um Delegation und Supervision in Kanzlei-Mandant Lifecycle geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Delegation und Supervision: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Delegation und Supervision

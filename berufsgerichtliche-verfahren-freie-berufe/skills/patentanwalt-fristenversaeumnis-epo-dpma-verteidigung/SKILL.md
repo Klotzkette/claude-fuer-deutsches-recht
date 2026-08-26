@@ -1,6 +1,6 @@
 ---
 name: patentanwalt-fristenversaeumnis-epo-dpma-verteidigung
-description: "Wenn es um Patentanwalt Fristenversäumnis DPMA/EPO: Verteidigungs- und Kammerantwort in Berufsgerichtliche Verfahren Freie Berufe geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Patentanwalt Fristenversäumnis DPMA/EPO: Verteidigungs- und Kammerantwort: prüft Frist, Form, Zuständigkeit und Eilbedarf; Ergebnis: Fristen- und Risikoampel."
 ---
 
 # Patentanwalt Fristenversäumnis DPMA/EPO: Verteidigungs- und Kammerantwort

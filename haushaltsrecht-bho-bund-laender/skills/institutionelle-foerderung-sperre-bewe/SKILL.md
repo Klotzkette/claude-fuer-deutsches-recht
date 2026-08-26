@@ -1,6 +1,6 @@
 ---
 name: institutionelle-foerderung-sperre-bewe
-description: "Wenn es um Institutionelle Förderung Sperre Bewe in Haushaltsrecht BHO Bund und Länder geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Institutionelle Förderung Sperre Bewe: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Institutionelle Förderung Sperre Bewe

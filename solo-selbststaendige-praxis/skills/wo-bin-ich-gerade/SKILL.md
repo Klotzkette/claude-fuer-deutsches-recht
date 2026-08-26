@@ -1,6 +1,6 @@
 ---
 name: wo-bin-ich-gerade
-description: "Wenn es um Wo Bin Ich Gerade in Solo-Selbstständige Praxis geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Wo Bin Ich Gerade: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Kaltstart und Orientierung: Erstellt eine lagekarte vom gedankenchaos bis zum konkreten nächsten schritt

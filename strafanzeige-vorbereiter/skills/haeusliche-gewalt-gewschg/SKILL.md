@@ -1,6 +1,6 @@
 ---
 name: haeusliche-gewalt-gewschg
-description: "Wenn es um Häusliche Gewalt und GewSchG in Strafanzeige-Vorbereiter geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Beweislast- und Substantiierungsmatrix."
+description: "Für Häusliche Gewalt und GewSchG: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Schnittstellenkarte mit Zuständigkeits- und Nachweisfragen."
 ---
 
 # Häusliche Gewalt und GewSchG

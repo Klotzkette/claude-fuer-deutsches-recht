@@ -1,6 +1,6 @@
 ---
 name: zitierweise-und-fundstellen
-description: "Wenn es um Zitierweise in Preußisches Allgemeines Landrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. Auswahlstichwort: Zitierweise Und Fundstellen; Arbeitsfeld: Preußisches Allgemeines Landrecht."
+description: "Für Zitierweise: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt. Fachgebiet: Preußisches Allgemeines Landrecht. Route: zitierweise-und-fundstellen."
 ---
 
 # Zitierweise

@@ -1,6 +1,6 @@
 ---
 name: jahresabschluss-bundesanzeiger-keine
-description: "Wenn es um Jahresabschluss und Offenlegung in Berichtspflichten-Erlediger geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Jahresabschluss und Offenlegung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Jahresabschluss und Offenlegung

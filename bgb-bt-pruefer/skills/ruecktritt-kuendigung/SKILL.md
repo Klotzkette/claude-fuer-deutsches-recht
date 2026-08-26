@@ -1,6 +1,6 @@
 ---
 name: ruecktritt-kuendigung
-description: "Wenn es um Workflow: Fristen, Rücktritt und Kündigung in BGB BT Prüfer geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. Auswahlstichwort: Ruecktritt Kuendigung; Arbeitsfeld: BGB BT Prüfer."
+description: "Für Workflow: Fristen, Rücktritt und Kündigung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Workflow: Fristen, Rücktritt und Kündigung

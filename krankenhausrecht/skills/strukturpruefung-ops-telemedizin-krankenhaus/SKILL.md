@@ -1,6 +1,6 @@
 ---
 name: strukturpruefung-ops-telemedizin-krankenhaus
-description: "Wenn es um Strukturprüfung OPS und MD in Krankenhausrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Strukturprüfung OPS und MD: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Tatbestands- oder Anspruchsmatrix."
 ---
 
 # Strukturprüfung OPS und MD

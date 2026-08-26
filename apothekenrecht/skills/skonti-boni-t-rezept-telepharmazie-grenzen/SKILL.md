@@ -1,6 +1,6 @@
 ---
 name: skonti-boni-t-rezept-telepharmazie-grenzen
-description: "Wenn es um Skonti Boni Rabatte Zuweisungsverbot in Apothekenrecht geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
+description: "Für Skonti Boni Rabatte Zuweisungsverbot: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Skonti Boni Rabatte Zuweisungsverbot

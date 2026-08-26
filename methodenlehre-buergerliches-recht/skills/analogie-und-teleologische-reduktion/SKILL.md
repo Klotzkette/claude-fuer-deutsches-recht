@@ -1,6 +1,6 @@
 ---
 name: analogie-und-teleologische-reduktion
-description: "Wenn es um Analogie und teleologische Reduktion (Rechtsfortbildung) in Methodenlehre bürgerliches Recht geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Verhandlungs- oder Eskalationslinie mit Optionen."
+description: "Für Analogie und teleologische Reduktion (Rechtsfortbildung): ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Analogie und teleologische Reduktion (Rechtsfortbildung)

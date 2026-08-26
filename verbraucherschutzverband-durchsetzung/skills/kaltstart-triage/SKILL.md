@@ -1,6 +1,6 @@
 ---
 name: kaltstart-triage
-description: "Wenn es um Verbraucherschutzverband Durchsetzung - Allgemeiner Einstieg in Verbraucherschutzverband Durchsetzung geht: klärt Rolle, Ziel, Frist, Unterlagen und den passenden nächsten Fachskill; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Verbraucherschutzverband Durchsetzung - Allgemeiner Einstieg: routet Rolle, Frist, Unterlagen und Fachschritt; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Verbraucherschutzverband Durchsetzung - Allgemeiner Einstieg

@@ -1,6 +1,6 @@
 ---
 name: forderungsschreiben-formular-portal-und-einreichung
-description: "Wenn es um Forderungsschreiben: Formular, Portal und Einreichungslogik in Fluggastrechte geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. Auswahlstichwort: Forderungsschreiben Formular Portal Und Einreichung; Arbeitsfeld: Fluggastrechte."
+description: "Für Forderungsschreiben: Formular, Portal und Einreichungslogik: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Einreichungsplan mit Form- und Nachweischeck."
 ---
 
 # Forderungsschreiben: Formular, Portal und Einreichungslogik

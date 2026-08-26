@@ -1,6 +1,6 @@
 ---
 name: per-seat-per-core-usage-metrics
-description: "Wenn es um Seat/Core/Usage-Metriken in Softwarerecht Deutschland/EU/International/USA geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Seat/Core/Usage-Metriken: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Seat/Core/Usage-Metriken

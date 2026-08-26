@@ -1,6 +1,6 @@
 ---
 name: parteienrecht-vertreterversammlung-delegierte
-description: "Wenn es um Vertreterversammlung in Parteienrecht und Parteiorganisation geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. Auswahlstichwort: Parteienrecht Vertreterversammlung Delegierte; Arbeitsfeld: Parteienrecht und Parteiorganisation."
+description: "Für Vertreterversammlung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt. Fachgebiet: Parteienrecht und Parteiorganisation. Route: parteienrecht-vertreterversammlung-delegierte."
 ---
 
 # Vertreterversammlung

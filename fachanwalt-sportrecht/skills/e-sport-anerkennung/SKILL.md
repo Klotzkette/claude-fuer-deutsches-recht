@@ -1,6 +1,6 @@
 ---
 name: e-sport-anerkennung
-description: "Wenn es um e Sport Anerkennung in Fachanwalt Sportrecht geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für e Sport Anerkennung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # e Sport Anerkennung

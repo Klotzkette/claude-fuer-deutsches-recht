@@ -1,6 +1,6 @@
 ---
 name: projektfoerderung-brh-frage-formuliere
-description: "Wenn es um Projektfoerderung Brh Frage Formuliere in Haushaltsrecht BHO Bund und Länder geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Projektförderung BRH Frage Formuliere: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Projektfoerderung Brh Frage Formuliere

@@ -1,6 +1,6 @@
 ---
 name: e-verletzung-dokumentieren
-description: "Wenn es um Datenbankrecht im E-Commerce-Marktplatz — Schutz und Compliance in Datenbankrecht und Datenbankherstellerrecht geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
+description: "Für Datenbankrecht im E-Commerce-Marktplatz — Schutz und Compliance: ordnet Akte, Belege und Lücken; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Datenbankrecht im E-Commerce-Marktplatz — Schutz und Compliance

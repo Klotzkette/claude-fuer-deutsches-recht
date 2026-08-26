@@ -1,6 +1,6 @@
 ---
 name: mutterschutz-gefaehrdungsbeurteilung
-description: "Wenn es um Mutterschutz Gefährdungsbeurteilung und Meldung in Berichtspflichten-Erlediger geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen."
+description: "Für Mutterschutz Gefährdungsbeurteilung und Meldung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Schnittstellenkarte mit Zuständigkeits- und Nachweisfragen."
 ---
 
 # Mutterschutz Gefährdungsbeurteilung und Meldung

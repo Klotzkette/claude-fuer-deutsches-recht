@@ -1,6 +1,6 @@
 ---
 name: datenraum-kapitalerhoehung-insiderrecht
-description: "Wenn es um Datenraum-Management in Transaktionen – Insiderrechtliche Anforderungen in Insiderrecht Compliance geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Gegenprüfung mit Fehler-, Beweis- und Fristencheck."
+description: "Für Datenraum-Management in Transaktionen – Insiderrechtliche Anforderungen: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Datenraum-Management in Transaktionen – Insiderrechtliche Anforderungen

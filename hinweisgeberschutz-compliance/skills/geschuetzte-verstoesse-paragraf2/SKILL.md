@@ -1,6 +1,6 @@
 ---
 name: geschuetzte-verstoesse-paragraf2
-description: "Wenn es um Geschuetzte Verstoesse Paragraf2 in Hinweisgeberschutz, Meldestellen und NDA-Konflikte geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Geschützte Verstöße Paragraf2: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Geschuetzte Verstoesse Paragraf2

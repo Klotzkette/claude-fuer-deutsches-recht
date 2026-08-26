@@ -1,6 +1,6 @@
 ---
 name: workflow-first-year-associate-migration
-description: "Wenn es um First-Year-Associate-Coach Migration: Prüfungslinie für Migrationsrecht in Fachanwalt Migrationsrecht geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für First-Year-Associate-Coach Migration: Prüfungslinie für Migrationsrecht: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # First-Year-Associate-Coach Migration: Prüfungslinie für Migrationsrecht

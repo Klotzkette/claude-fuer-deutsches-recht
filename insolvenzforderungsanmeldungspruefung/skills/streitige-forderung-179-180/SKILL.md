@@ -1,6 +1,6 @@
 ---
 name: streitige-forderung-179-180
-description: "Wenn es um Streitige Forderung und Feststellungsklage in Insolvenzforderungsanmeldungsprüfung geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
+description: "Für Streitige Forderung und Feststellungsklage: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Streitige Forderung und Feststellungsklage

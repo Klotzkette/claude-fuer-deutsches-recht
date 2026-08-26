@@ -1,6 +1,6 @@
 ---
 name: umsatzsteuer-fallen-digitalleistungen
-description: "Wenn es um Rechnung und Umsatzsteuer: Prüft digitale produkte in Solo-Selbstständige Praxis geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Rechnung und Umsatzsteuer: Prüft digitale produkte: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Schnittstellenkarte mit Zuständigkeits- und Nachweisfragen."
 ---
 
 # Rechnung und Umsatzsteuer: Prüft digitale produkte

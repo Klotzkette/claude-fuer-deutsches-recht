@@ -1,6 +1,6 @@
 ---
 name: kirchliche-hochschulen-und-mandatum
-description: "Wenn es um Kirchliche Hochschulen und Mandatum in Römisch-katholisches Kirchenrecht CIC und Katechismus geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
+description: "Für Kirchliche Hochschulen und Mandatum: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt. Fachgebiet: Römisch-katholisches Kirchenrecht CIC und Katechismus. Route: kirchliche-hochschulen-und-mandatum."
 ---
 
 # Kirchliche Hochschulen und Mandatum

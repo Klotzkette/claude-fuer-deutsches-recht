@@ -1,6 +1,6 @@
 ---
 name: verbot-beschraenkung-verkehr-rettungswege
-description: "Wenn es um Verbot ist Ultima Ratio in Versammlungsrecht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Verhandlungs- oder Eskalationslinie mit Optionen."
+description: "Für Verbot ist Ultima Ratio: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Verbot ist Ultima Ratio

@@ -1,6 +1,6 @@
 ---
 name: sport-anti-doping
-description: "Wenn es um Sport Anti Doping in Fachanwalt Sportrecht geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Sport Anti Doping: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Sport Anti Doping

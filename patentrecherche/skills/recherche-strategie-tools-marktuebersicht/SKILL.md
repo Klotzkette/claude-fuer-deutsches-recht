@@ -1,6 +1,6 @@
 ---
 name: recherche-strategie-tools-marktuebersicht
-description: "Wenn es um Recherche-Strategie in patentrecherche geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Verhandlungs- oder Eskalationslinie mit Optionen."
+description: "Für Recherche-Strategie: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Verhandlungs- oder Eskalationslinie."
 ---
 
 # Recherche-Strategie

@@ -1,6 +1,6 @@
 ---
 name: schutzrechtsrecherche-und-haftung-rechtsprechung
-description: "Wenn es um Schutzrechtsrecherche Und Haftung Rechtsprechung in Berufsrecht Patentanwälte geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Gegenprüfung mit Fehler-, Beweis- und Fristencheck."
+description: "Für Schutzrechtsrecherche und Haftung Rechtsprechung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Patentanwälte: schutzrechtsrecherche und haftung - Rechtsprechungscheck, stärkste Gegenansicht und Red-Team-Korrektur

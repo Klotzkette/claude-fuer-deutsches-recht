@@ -1,6 +1,6 @@
 ---
 name: see-094-kreuzfahrtschiff-arrest-vorbereiten
-description: "Wenn es um Kreuzfahrtschiff Arrest Vorbereiten in See- und Schifffahrtsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Kreuzfahrtschiff Arrest Vorbereiten: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Schnittstellenkarte mit Zuständigkeits- und Nachweisfragen."
 ---
 
 # Kreuzfahrtschiff Arrest Vorbereiten

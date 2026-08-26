@@ -1,6 +1,6 @@
 ---
 name: zielgruppe-zahlen-schwellenwerte-berechnung
-description: "Wenn es um Zielgruppe: Zahlen, Schwellenwerte und Berechnung in Einfache und Leichte Sprache für juristische Texte geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Zielgruppe: Zahlen, Schwellenwerte und Berechnung: rechnet Beträge, Schwellen und Varianten; Ergebnis: Berechnungstabelle mit Annahmen und Kontrollfragen. Fachgebiet: Einfache und Leichte Sprache für juristische Texte. Route: zielgruppe-zahlen-schwellenwerte-berechnung."
 ---
 
 # Zielgruppe: Zahlen, Schwellenwerte und Berechnung

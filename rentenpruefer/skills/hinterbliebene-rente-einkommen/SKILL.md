@@ -1,6 +1,6 @@
 ---
 name: hinterbliebene-rente-einkommen
-description: "Wenn es um Hinterbliebenenrente und Einkommen in Rentenprüfer geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
+description: "Für Hinterbliebenenrente und Einkommen: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Hinterbliebenenrente und Einkommen

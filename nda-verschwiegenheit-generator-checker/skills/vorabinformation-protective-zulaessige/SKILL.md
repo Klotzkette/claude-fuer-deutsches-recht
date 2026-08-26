@@ -1,6 +1,6 @@
 ---
 name: vorabinformation-protective-zulaessige
-description: "Wenn es um Vorabinformation Und Protective Order in NDA-Generator und Verschwiegenheitsvereinbarungs-Checker geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
+description: "Für Vorabinformation und Protective Order: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Vorabinformation Und Protective Order

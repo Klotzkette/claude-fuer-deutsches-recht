@@ -1,6 +1,6 @@
 ---
 name: ai-training-anticircumvention-architectural
-description: "Wenn es um digitale Werkzeuge Training und Fair Use Risk in US Copyright Act und Registrierung für deutsche Verlage geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen."
+description: "Für digitale Werkzeuge Training und Fair Use Risk: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # AI Training und Fair Use Risk

@@ -1,6 +1,6 @@
 ---
 name: nutzerquelle-fehlerkatalog
-description: "Wenn es um Nutzerquelle Fehlerkatalog in Zitierweise deutsches Recht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Nutzerquelle Fehlerkatalog: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Nutzerquelle Fehlerkatalog

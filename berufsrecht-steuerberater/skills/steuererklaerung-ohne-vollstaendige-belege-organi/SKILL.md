@@ -1,6 +1,6 @@
 ---
 name: steuererklaerung-ohne-vollstaendige-belege-organi
-description: "Wenn es um Steuererklaerung Ohne Vollstaendige Belege Organi in Berufsrecht Steuerberater geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Steuererklärung ohne Vollständige Belege Organi: ordnet Akte, Belege und Lücken; Ergebnis: Schnittstellenkarte mit Zuständigkeits- und Nachweisfragen."
 ---
 
 # Steuerberater: steuererklaerung ohne vollstaendige belege - Organisationspflichten, Prävention, Team-Anweisung und Fristenkontrolle

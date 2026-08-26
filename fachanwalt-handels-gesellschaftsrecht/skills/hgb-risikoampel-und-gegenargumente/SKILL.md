@@ -1,6 +1,6 @@
 ---
 name: hgb-risikoampel-und-gegenargumente
-description: "Wenn es um HGB Risikoampel Und Gegenargumente in Fachanwalt Handels- und Gesellschaftsrecht geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für HGB Risikoampel und Gegenargumente: prüft Ergebnis, Beweislast und Gegenposition; Ergebnis: Fristen- und Risikoampel."
 ---
 
 # HGB: Risikoampel, Gegenargumente und Verteidigungslinien im Handels- und Gesellschaftsrecht: fachlich vertieftes Modul mit Normenradar (HGB/GmbHG/AktG/UmwG), Tatbestands-/Beweislastmatrix, Fristen- und Formcheck, Gegenargumenten, Fehlerbremse und direkt nutzbarem Arbeitsprodukt.
@@ -45,3 +45,7 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
  - **Grün:** klare AG/GmbH-Rechtsform, vollständige Handelsregisterlage, Bilanzprüfung erfolgt, Verträge dokumentiert.
 4. **Gegenargumente entwickeln:** § 25 HGB Firmenfortführung (Erwerberhaftung bei Unternehmenskauf, Ausschluss nur mit Veröffentlichung); § 28 HGB Eintritt in bestehendes Geschäft; § 130 HGB Haftung Eintretender in OHG/KG für Altverbindlichkeiten; § 161 Abs. 2 HGB Kommanditistenhaftung bis Hafteinlage.
 5. **Anschluss:** Verteidigungslinien je nach Lager (Schuldner: Haftungsbegrenzung; Gläubiger: Durchgriff); Mandantenbrief mit Risikoampel und konkretem Handlungsbedarf.
+
+## Vertiefung bei Bedarf
+
+- Bei `spezial-hgb-risikoampel-und-gegenargumente` beziehungsweise HGB: Risikoampel, Gegenargumente und Verteidigungslinien: [die zusätzliche Vertiefung laden](./references/vertiefung-spezial-hgb-risikoampel-und-gegenargumente.md).

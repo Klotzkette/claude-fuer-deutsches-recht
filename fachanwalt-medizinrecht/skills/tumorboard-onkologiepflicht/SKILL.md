@@ -1,6 +1,6 @@
 ---
 name: tumorboard-onkologiepflicht
-description: "Wenn es um Tumorboard Onkologiepflicht in Fachanwalt Medizinrecht geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
+description: "Für Tumorboard Onkologiepflicht: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Tumorboard und Onkologiepflicht: moderner Medizinrechts-Skill für Tumorboard-Dokumentation, Leitlinienabweichung, molekulare Diagnostik und Therapieoptionen

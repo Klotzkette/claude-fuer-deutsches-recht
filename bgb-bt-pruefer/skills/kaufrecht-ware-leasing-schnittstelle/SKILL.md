@@ -1,6 +1,6 @@
 ---
 name: kaufrecht-ware-leasing-schnittstelle
-description: "Wenn es um Kaufrecht: Ware mit digitalen Elementen Paragraf 475b BGB in BGB BT Prüfer geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. Auswahlstichwort: Kaufrecht Ware Leasing Schnittstelle; Arbeitsfeld: BGB BT Prüfer."
+description: "Für Kaufrecht: Ware mit digitalen Elementen Paragraf 475b BGB: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt. Fachgebiet: BGB BT Prüfer. Route: kaufrecht-ware-leasing-schnittstelle."
 ---
 
 # Kaufrecht: Ware mit digitalen Elementen § 475b BGB

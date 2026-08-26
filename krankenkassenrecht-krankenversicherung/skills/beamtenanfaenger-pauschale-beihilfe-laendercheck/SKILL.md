@@ -1,6 +1,6 @@
 ---
 name: beamtenanfaenger-pauschale-beihilfe-laendercheck
-description: "Wenn es um Beamtenanfänger: Pauschale Beihilfe, Ländercheck in Krankenkassenrecht und Krankenversicherung geht: entwickelt Verhandlungsziel, Vergleichskorridor und Eskalationspfad; liefert eine Verhandlungs- oder Eskalationslinie mit Optionen."
+description: "Für Beamtenanfänger: Pauschale Beihilfe, Ländercheck: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Beamtenanfänger: Pauschale Beihilfe, Ländercheck

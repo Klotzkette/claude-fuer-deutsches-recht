@@ -1,6 +1,6 @@
 ---
 name: kom-068-buergermeister-zustaendigkeit-pruefen
-description: "Wenn es um Buergermeister Zustaendigkeit Pruefen in Kommunalrecht der Länder geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Bürgermeister Zuständigkeit Prüfen: prüft Frist, Form, Zuständigkeit und Eilbedarf; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt. Fachgebiet: Kommunalrecht der Länder. Route: kom-068-buergermeister-zustaendigkeit-pruefen."
 ---
 
 # Buergermeister Zustaendigkeit Pruefen

@@ -1,6 +1,6 @@
 ---
 name: umstufung-und-teileinziehung
-description: "Wenn es um Umstufung Und Teileinziehung in Straßenrecht und Infrastruktur geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Umstufung und Teileinziehung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Umstufung Und Teileinziehung

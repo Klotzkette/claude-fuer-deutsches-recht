@@ -1,6 +1,6 @@
 ---
 name: korrekturfrist-und-verzoegerung
-description: "Wenn es um Korrekturfrist und Verzögerung in Prüfungsrecht an Hochschulen und Universitäten geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Korrekturfrist und Verzögerung: prüft Frist, Form, Zuständigkeit und Eilbedarf; Ergebnis: Fristen- und Risikoampel."
 ---
 
 # Korrekturfrist und Verzögerung

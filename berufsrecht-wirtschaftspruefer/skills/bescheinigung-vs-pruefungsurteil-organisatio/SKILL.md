@@ -1,6 +1,6 @@
 ---
 name: bescheinigung-vs-pruefungsurteil-organisatio
-description: "Wenn es um Bescheinigung Vs Pruefungsurteil Organisatio in Berufsrecht Wirtschaftsprüfer geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Bescheinigung Vs Prüfungsurteil Organisatio: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Tatbestands- oder Anspruchsmatrix."
 ---
 
 # Wirtschaftsprüfer: bescheinigung vs prüfungsurteil - Organisationspflichten, Prävention, Team-Anweisung und Fristenkontrolle

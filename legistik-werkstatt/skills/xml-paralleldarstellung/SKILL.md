@@ -1,6 +1,6 @@
 ---
 name: xml-paralleldarstellung
-description: "Wenn es um XML-Paralleldarstellung in Legistik-Werkstatt geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für XML-Paralleldarstellung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # XML-Paralleldarstellung

@@ -1,6 +1,6 @@
 ---
 name: verbraucherrecht-widerruf-fernabsatz
-description: "Wenn es um Verbraucherrecht Widerruf Fernabsatz in Verbraucherschutzrecht Prüfer geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Verbraucherrecht Widerruf Fernabsatz: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Widerruf im Fernabsatz: Belehrung, Fristbeginn, digitale Inhalte, Dienstleistungen, Wertersatz und Button-Lösung.

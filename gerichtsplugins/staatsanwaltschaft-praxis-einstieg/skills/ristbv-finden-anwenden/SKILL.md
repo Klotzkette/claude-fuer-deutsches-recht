@@ -1,6 +1,6 @@
 ---
 name: ristbv-finden-anwenden
-description: "Wenn es um RiStBV finden und anwenden in Staatsanwaltschaft Praxis-Einstieg geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für RiStBV finden und anwenden: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # RiStBV finden und anwenden

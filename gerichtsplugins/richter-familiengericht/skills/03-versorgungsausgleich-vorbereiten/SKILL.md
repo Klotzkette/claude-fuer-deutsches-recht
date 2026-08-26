@@ -1,6 +1,6 @@
 ---
 name: 03-versorgungsausgleich-vorbereiten
-description: "Wenn es um Versorgungsausgleich vorbereiten in Familiengericht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
+description: "Für Versorgungsausgleich vorbereiten: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Versorgungsausgleich vorbereiten

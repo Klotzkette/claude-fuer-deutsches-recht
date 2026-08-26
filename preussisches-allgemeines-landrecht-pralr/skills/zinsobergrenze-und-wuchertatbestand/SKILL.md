@@ -1,6 +1,6 @@
 ---
 name: zinsobergrenze-und-wuchertatbestand
-description: "Wenn es um Pralr Zinsobergrenze Und Wuchertatbestand in Preußisches Allgemeines Landrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. Auswahlstichwort: Zinsobergrenze Und Wuchertatbestand; Arbeitsfeld: Preußisches Allgemeines Landrecht."
+description: "Für Pralr Zinsobergrenze und Wuchertatbestand: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Tatbestands- oder Anspruchsmatrix. Fachgebiet: Preußisches Allgemeines Landrecht. Route: zinsobergrenze-und-wuchertatbestand."
 ---
 
 # Pralr Zinsobergrenze Und Wuchertatbestand

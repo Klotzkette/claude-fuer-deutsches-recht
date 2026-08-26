@@ -1,6 +1,6 @@
 ---
 name: aussenwirtschaft-kontingente-lizenzen-trq
-description: "Wenn es um Kontingente Lizenzen Trq in Außenwirtschaft, Sanktionen, Zoll und CBAM geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Kontingente Lizenzen Trq: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Kontingente Lizenzen Trq

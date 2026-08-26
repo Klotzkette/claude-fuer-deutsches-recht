@@ -1,6 +1,6 @@
 ---
 name: sprache-uebersetzung-solo-standardvorlagen
-description: "Wenn es um Internationales und Auslandskunden: Setzt klare sprachregel für angebot in Solo-Selbstständige Praxis geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Internationales und Auslandskunden: Setzt klare sprachregel für angebot: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Internationales und Auslandskunden: Setzt klare sprachregel für angebot

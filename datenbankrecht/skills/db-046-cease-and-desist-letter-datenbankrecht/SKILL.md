@@ -1,6 +1,6 @@
 ---
 name: db-046-cease-and-desist-letter-datenbankrecht
-description: "Wenn es um Datenbankrecht: Cease-and-desist Letter Datenbankrecht in Datenbankrecht und Datenbankherstellerrecht geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Datenbankrecht: Cease-and-desist Letter Datenbankrecht: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Datenbankrecht: Cease-and-desist Letter Datenbankrecht

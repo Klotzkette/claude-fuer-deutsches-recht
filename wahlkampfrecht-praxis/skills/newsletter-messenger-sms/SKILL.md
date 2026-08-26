@@ -1,6 +1,6 @@
 ---
 name: newsletter-messenger-sms
-description: "Wenn es um Newsletter Messenger Sms in Wahlkampfrecht Praxis geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Newsletter Messenger Sms: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Newsletter Messenger Sms

@@ -1,6 +1,6 @@
 ---
 name: weg-bauliche-formular-portal-einreichungslogik
-description: "Wenn es um Bauliche: Formular, Portal und Einreichungslogik in WEG- und Hausverwaltung geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Bauliche: Formular, Portal und Einreichungslogik: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Einreichungsplan mit Form- und Nachweischeck."
 ---
 
 # Bauliche: Formular, Portal und Einreichungslogik

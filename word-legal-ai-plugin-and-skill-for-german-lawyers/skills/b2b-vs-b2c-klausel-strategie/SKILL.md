@@ -1,6 +1,6 @@
 ---
 name: b2b-vs-b2c-klausel-strategie
-description: "Wenn es um B2B vs. B2C Klauselstrategie in Word-Workflows für deutsche Juristen geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Verhandlungs- oder Eskalationslinie mit Optionen."
+description: "Für B2B vs. B2C Klauselstrategie: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Verhandlungs- oder Eskalationslinie."
 ---
 
 # B2B vs. B2C Klauselstrategie

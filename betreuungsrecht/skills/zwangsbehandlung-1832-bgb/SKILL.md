@@ -1,6 +1,6 @@
 ---
 name: zwangsbehandlung-1832-bgb
-description: "Wenn es um Zwangsbehandlung Paragraf 1832 BGB in Betreuungsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Zwangsbehandlung Paragraf 1832 BGB: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Zwangsbehandlung § 1832 BGB

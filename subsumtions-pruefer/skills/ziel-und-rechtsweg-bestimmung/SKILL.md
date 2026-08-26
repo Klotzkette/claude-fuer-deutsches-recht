@@ -1,6 +1,6 @@
 ---
 name: ziel-und-rechtsweg-bestimmung
-description: "Wenn es um Ziel- und Rechtsweg-Bestimmung in Subsumtions-Prüfer geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
+description: "Für Ziel- und Rechtsweg-Bestimmung: prüft Frist, Form, Zuständigkeit und Eilbedarf; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Ziel- und Rechtsweg-Bestimmung

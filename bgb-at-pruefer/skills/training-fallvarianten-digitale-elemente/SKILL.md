@@ -1,6 +1,6 @@
 ---
 name: training-fallvarianten-digitale-elemente
-description: "Wenn es um Training mit Fallvarianten — BGB Allgemeiner Teil Examen in BGB AT Prüfer geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Tatbestands- oder Anspruchsmatrix mit Gegenargumenten. Auswahlstichwort: Training Fallvarianten Digitale Elemente; Arbeitsfeld: BGB AT Prüfer."
+description: "Für Training mit Fallvarianten — BGB Allgemeiner Teil Examen: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt. Fachgebiet: BGB AT Prüfer. Route: training-fallvarianten-digitale-elemente."
 ---
 
 # Training mit Fallvarianten — BGB Allgemeiner Teil Examen

@@ -1,6 +1,6 @@
 ---
 name: cum-ex-beihilfe-bgh-1-str-519-20
-description: "Analysiert straf- und einziehungsrechtliche Risiken konkreter Cum-Ex-Abläufe. Ordnet Steueranmeldung, nicht einbehaltene Kapitalertragsteuer, Handels- und Bescheinigungskette, Tatbeitrag, Vorsatz, Beihilfe, berufstypisches Verhalten und Einziehung und erstellt Transaktionsmatrix, Beweisplan und Verteidigungs- oder Ermittlungsvermerk."
+description: "Für Cum-Ex-Tatbeitrag und Einziehung prüfen: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Cum-Ex-Tatbeitrag und Einziehung prüfen

@@ -1,6 +1,6 @@
 ---
 name: b2c-b2b-plattform-marktplatz-routing
-description: "Wenn es um B2C B2B Plattform Marktplatz Routing in E-Commerce-Recht geht: klärt Rolle, Ziel, Frist, Unterlagen und den passenden nächsten Fachskill; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für B2C B2B Plattform Marktplatz Routing: routet Rolle, Frist, Unterlagen und Fachschritt; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # B2C B2B Plattform Marktplatz Routing

@@ -1,6 +1,6 @@
 ---
 name: verkehrsowi-fristen-einspruch
-description: "Wenn es um Einspruchsfrist und Einspruch — Paragraf 67 OWiG in VerkehrsOWi-Verteidiger geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Einspruchsfrist und Einspruch — Paragraf 67 OWiG: prüft Frist, Form, Zuständigkeit und Eilbedarf; Ergebnis: Fristen- und Risikoampel."
 ---
 
 # Einspruchsfrist und Einspruch — § 67 OWiG

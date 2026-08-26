@@ -1,6 +1,6 @@
 ---
 name: arbeitsunfall-dguv-audit-trail
-description: "Wenn es um Arbeitsunfallanzeige DGUV in Berichtspflichten-Erlediger geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
+description: "Für Arbeitsunfallanzeige DGUV: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Arbeitsunfallanzeige DGUV

@@ -1,6 +1,6 @@
 ---
 name: handlungsvollmacht-paragraph-geschaeftsbriefe
-description: "Wenn es um Handlungsvollmacht Paragraf 54 HGB in Handelsrecht HGB geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
+description: "Für Handlungsvollmacht Paragraf 54 HGB: erstellt Entwurf mit Antrag, Beweis und Anlagen; Ergebnis: Schriftsatz mit Begründungs- und Anlagenlogik."
 ---
 
 # Handlungsvollmacht § 54 HGB

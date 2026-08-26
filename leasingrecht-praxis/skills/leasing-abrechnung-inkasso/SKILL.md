@@ -1,6 +1,6 @@
 ---
 name: leasing-abrechnung-inkasso
-description: "Wenn es um Leasingabrechnung, Nachforderung und Verjährung in Leasingrecht Praxis geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Leasingabrechnung, Nachforderung und Verjährung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Leasingabrechnung, Nachforderung und Verjährung

@@ -1,6 +1,6 @@
 ---
 name: reiseveranstalter-umsetzung-ueberwache
-description: "Wenn es um Reiseveranstalter Umsetzung Ueberwache in Verbraucherschutzverband Durchsetzung geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Reiseveranstalter Umsetzung Überwache: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Reiseveranstalter Umsetzung Ueberwache

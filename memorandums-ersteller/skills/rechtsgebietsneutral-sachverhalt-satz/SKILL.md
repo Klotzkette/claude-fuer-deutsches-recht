@@ -1,6 +1,6 @@
 ---
 name: rechtsgebietsneutral-sachverhalt-satz
-description: "Wenn es um Rechtsgebietsneutral: Abschlussprodukt und Übergabe in Memorandums-Ersteller geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
+description: "Für Rechtsgebietsneutral: Abschlussprodukt und Übergabe: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Schnittstellenkarte mit Zuständigkeits- und Nachweisfragen."
 ---
 
 # Rechtsgebietsneutral: Abschlussprodukt und Übergabe

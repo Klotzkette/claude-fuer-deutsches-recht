@@ -1,6 +1,6 @@
 ---
 name: zag-payment-flow-red-team
-description: "Wenn es um ZAG Payment-Flow Red-Team in Bank-Rechtsabteilung geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Gegenprüfung mit Fehler-, Beweis- und Fristencheck."
+description: "Für ZAG Payment-Flow Red-Team: prüft Ergebnis, Beweislast und Gegenposition; Ergebnis: Gegenprüfung mit Beweis- und Fristencheck."
 ---
 
 # ZAG Payment-Flow Red-Team

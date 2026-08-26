@@ -1,6 +1,6 @@
 ---
 name: deal-sourcing-thesis
-description: "Wenn es um Deal-Sourcing und Investmentthese in Venture Capital Geber geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Deal-Sourcing und Investmentthese: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Deal-Sourcing und Investmentthese

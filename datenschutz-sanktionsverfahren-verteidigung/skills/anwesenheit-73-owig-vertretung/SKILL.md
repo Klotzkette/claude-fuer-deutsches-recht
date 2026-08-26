@@ -1,6 +1,6 @@
 ---
 name: anwesenheit-73-owig-vertretung
-description: "Wenn es um Anwesenheit und Entbindung Paragraf 73 OWiG in Datenschutz-Sanktionsverfahren und Verteidigung geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Anwesenheit und Entbindung Paragraf 73 OWiG: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt. Fachgebiet: Datenschutz-Sanktionsverfahren und Verteidigung."
 ---
 
 # Anwesenheit und Entbindung § 73 OWiG

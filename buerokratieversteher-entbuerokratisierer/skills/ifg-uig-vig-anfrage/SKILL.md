@@ -1,6 +1,6 @@
 ---
 name: ifg-uig-vig-anfrage
-description: "Wenn es um IFG/UIG/VIG-Anfrage in Bürokratieversteher und Entbürokratisierer geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
+description: "Für IFG/UIG/VIG-Anfrage: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # IFG/UIG/VIG-Anfrage

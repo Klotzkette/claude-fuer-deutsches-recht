@@ -1,6 +1,6 @@
 ---
 name: erb-internationales-erbrecht-spezial
-description: "Wenn es um Erb Internationales Erbrecht Spezial in Fachanwalt Erbrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Erb Internationales Erbrecht Spezial: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Schnittstellenkarte mit Zuständigkeits- und Nachweisfragen."
 ---
 
 # Spezialfall internationales Erbrecht: EuErbVO 650/2012, gewoehnlicher Aufenthalt als Anknuepfungspunkt, Rechtswahl, Europaeisches Nachlasszeugnis ENZ

@@ -1,6 +1,6 @@
 ---
 name: whistleblowing-hinschg-hr-schnittstelle
-description: "Wenn es um Whistleblowing Hinschg Hr Schnittstelle in Start-up-HR-Personalabteilung Berlin geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Whistleblowing Hinschg Hr Schnittstelle: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Berliner Start-up-HR: Hinweisgeberschutz und HR: Meldekanal, Vertraulichkeit, Repressalienverbot, NDA-Konflikte und Personalmaßnahmen

@@ -1,6 +1,6 @@
 ---
 name: betriebsuebergang-widerspruch-paragraf-613a-bgb-spaetlauf
-description: "Prüft einen späten Widerspruch gegen den Übergang des Arbeitsverhältnisses nach Paragraf 613a BGB. Analysiert Betriebsübergang, Unterrichtung, Monatsfrist, Adressat, Rechtsfolgen und Verwirkung und erstellt Chronologie, Risikomatrix, Widerspruch oder Feststellungsantrag."
+description: "Prüft einen späten Widerspruch gegen den Übergang des Arbeitsverhältnisses nach Paragraf 613a BGB."
 ---
 
 # Späten Widerspruch beim Betriebsübergang prüfen

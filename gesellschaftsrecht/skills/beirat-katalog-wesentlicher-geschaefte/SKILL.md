@@ -1,6 +1,6 @@
 ---
 name: beirat-katalog-wesentlicher-geschaefte
-description: "Wenn es um Beirat Katalog Wesentlicher Geschäfte in Gesellschaftsrecht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
+description: "Für Beirat Katalog Wesentlicher Geschäfte: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Beirat Katalog Wesentlicher Geschäfte

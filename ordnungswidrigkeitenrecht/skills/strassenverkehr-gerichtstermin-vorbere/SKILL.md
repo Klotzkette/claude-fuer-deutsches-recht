@@ -1,6 +1,6 @@
 ---
 name: strassenverkehr-gerichtstermin-vorbere
-description: "Wenn es um Strassenverkehr Gerichtstermin Vorbere in Ordnungswidrigkeitenrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Strassenverkehr Gerichtstermin Vorbere: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Strassenverkehr Gerichtstermin Vorbere

@@ -1,6 +1,6 @@
 ---
 name: meth-auslegung-vertrag-leitfaden
-description: "Wenn es um Vertragsauslegung: Vollständiger Methodenleitfaden in Methodenlehre bürgerliches Recht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Vertragsauslegung: Vollständiger Methodenleitfaden: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Vertragsauslegung: Vollständiger Methodenleitfaden

@@ -1,6 +1,6 @@
 ---
 name: rechtsabteilung-transfer-pricing-bei-ip-und-softwarelizenzen
-description: "Wenn es um Rechtsabteilung: Transfer Pricing bei IP- und Softwarelizenzen in Steuerrecht – Steuerberater und Anwälte geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen. Auswahlstichwort: Rechtsabteilung Transfer Pricing Bei Ip Und Softwarelizenzen; Arbeitsfeld: Steuerrecht – Steuerberater und Anwälte."
+description: "Für Rechtsabteilung: Transfer Pricing bei IP- und Softwarelizenzen: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt. Fachgebiet: Steuerrecht – Steuerberater und Anwälte. Route: rechtsabteilung-transfer-pricing-bei-ip-und-softwarelizenzen."
 ---
 
 # Rechtsabteilung: Transfer Pricing bei IP- und Softwarelizenzen

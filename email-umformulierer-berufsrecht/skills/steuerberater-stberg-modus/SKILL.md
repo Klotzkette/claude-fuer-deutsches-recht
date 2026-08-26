@@ -1,6 +1,6 @@
 ---
 name: steuerberater-stberg-modus
-description: "Wenn es um Steuerberater-Modus (StBerG/BOStB) in E-Mail-Umformulierer geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. Auswahlstichwort: Steuerberater Stberg Modus; Arbeitsfeld: E-Mail-Umformulierer."
+description: "Für Steuerberater-Modus (StBerG/BOStB): ordnet Norm, Beweislast und Gegenargument; Ergebnis: Schnittstellenkarte mit Zuständigkeits- und Nachweisfragen. Fachgebiet: E-Mail-Umformulierer. Route: steuerberater-stberg-modus."
 ---
 
 # Steuerberater-Modus (StBerG/BOStB)

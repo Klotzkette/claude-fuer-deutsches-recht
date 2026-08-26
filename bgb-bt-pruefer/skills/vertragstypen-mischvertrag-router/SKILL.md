@@ -1,6 +1,6 @@
 ---
 name: vertragstypen-mischvertrag-router
-description: "Wenn es um Vertragstypen und Mischvertrag Router in BGB BT Prüfer geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. Auswahlstichwort: Vertragstypen Mischvertrag Router; Arbeitsfeld: BGB BT Prüfer."
+description: "Für Vertragstypen und Mischvertrag Router: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt. Fachgebiet: BGB BT Prüfer. Route: vertragstypen-mischvertrag-router."
 ---
 
 # Vertragstypen und Mischvertrag Router

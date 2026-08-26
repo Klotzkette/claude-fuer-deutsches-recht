@@ -1,6 +1,6 @@
 ---
 name: dawn-raid-playbook
-description: "Wenn es um Dawn Raid Playbook in Internal Investigations Praxis geht: entwickelt Verhandlungsziel, Vergleichskorridor und Eskalationspfad; liefert eine Verhandlungs- oder Eskalationslinie mit Optionen."
+description: "Für Dawn Raid Playbook: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Dawn Raid Playbook

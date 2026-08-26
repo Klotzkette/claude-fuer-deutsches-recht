@@ -1,6 +1,6 @@
 ---
 name: vorschuss-kostenrisiko-spezial
-description: "Wenn es um JVEG: Vorschuss Kostenrisiko in JVEG-Kostenprüfer geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
+description: "Für JVEG: Vorschuss Kostenrisiko: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # JVEG: Vorschuss Kostenrisiko

@@ -1,6 +1,6 @@
 ---
 name: proz-zustaendigkeit-bauleiter
-description: "Wenn es um Proz: Zuständigkeit Bauleiter in Prozessrecht geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
+description: "Für Proz: Zuständigkeit Bauleiter: prüft Frist, Form, Zuständigkeit und Eilbedarf; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Proz: Zuständigkeit Bauleiter

@@ -1,6 +1,6 @@
 ---
 name: privatautonomie-trennungs-abstraktionsprinzip
-description: "Wenn es um Privatautonomie, Trennungs- und Abstraktionsprinzip in BGB AT Prüfer geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
+description: "Für Privatautonomie, Trennungs- und Abstraktionsprinzip: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Privatautonomie, Trennungs- und Abstraktionsprinzip

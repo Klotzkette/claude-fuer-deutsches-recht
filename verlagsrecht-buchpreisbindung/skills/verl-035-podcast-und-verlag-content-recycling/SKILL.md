@@ -1,6 +1,6 @@
 ---
 name: verl-035-podcast-und-verlag-content-recycling
-description: "Wenn es um Verlagsrecht: Podcast und Verlag Content-Recycling in Verlagsrecht und Buchpreisbindung geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Verlagsrecht: Podcast und Verlag Content-Recycling: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Verlagsrecht: Podcast und Verlag Content-Recycling

@@ -1,6 +1,6 @@
 ---
 name: dmca-safe-harbor-512-notice
-description: "Wenn es um DMCA Safe Harbor Paragraf 512 Notice in US Copyright Act und Registrierung für deutsche Verlage geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
+description: "Für DMCA Safe Harbor Paragraf 512 Notice: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # DMCA Safe Harbor § 512 Notice

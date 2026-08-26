@@ -1,6 +1,6 @@
 ---
 name: datenschutz-gewissensakte-dienststelle
-description: "Wenn es um Datenschutz Gewissensakte in Kriegsdienstverweigerung und Wehrdienst geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
+description: "Für Datenschutz Gewissensakte: ordnet Akte, Belege und Lücken; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Datenschutz Gewissensakte

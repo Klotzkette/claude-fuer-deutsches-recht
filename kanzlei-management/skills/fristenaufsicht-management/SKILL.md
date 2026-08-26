@@ -1,6 +1,6 @@
 ---
 name: fristenaufsicht-management
-description: "Wenn es um Fristenaufsicht Management in Kanzlei Management geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Fristenaufsicht Management: prüft Frist, Form, Zuständigkeit und Eilbedarf; Ergebnis: Fristen- und Risikoampel."
 ---
 
 # Fristenaufsicht Management

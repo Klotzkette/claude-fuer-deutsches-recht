@@ -1,6 +1,6 @@
 ---
 name: mandanteninterview-agb
-description: "Wenn es um Mandanteninterview AGB in AGB-Recht-Prüfer geht: klärt Rolle, Ziel, Frist, Unterlagen und den passenden nächsten Fachskill; liefert eine Tatbestands- oder Anspruchsmatrix mit Gegenargumenten."
+description: "Für Mandanteninterview AGB: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Mandanteninterview AGB

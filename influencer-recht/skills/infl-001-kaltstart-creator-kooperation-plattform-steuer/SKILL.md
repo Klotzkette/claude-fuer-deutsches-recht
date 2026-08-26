@@ -1,6 +1,6 @@
 ---
 name: infl-001-kaltstart-creator-kooperation-plattform-steuer
-description: "Wenn es um Influencer-Recht: Kaltstart Creator Kooperation Plattform Steuer in Influencer-Recht geht: klärt Rolle, Ziel, Frist, Unterlagen und den passenden nächsten Fachskill; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Influencer-Recht: Kaltstart Creator Kooperation Plattform Steuer: routet Rolle, Frist, Unterlagen und Fachschritt; Ergebnis: Schnittstellenkarte mit Zuständigkeits- und Nachweisfragen."
 ---
 
 # Influencer-Recht: Kaltstart Creator Kooperation Plattform Steuer

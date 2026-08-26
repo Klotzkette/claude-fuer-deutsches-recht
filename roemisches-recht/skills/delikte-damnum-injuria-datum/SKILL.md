@@ -1,6 +1,6 @@
 ---
 name: delikte-damnum-injuria-datum
-description: "Wenn es um Delikte Damnum Injuria Datum in Römisches Recht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Delikte Damnum Injuria Datum: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Delikte Damnum Injuria Datum

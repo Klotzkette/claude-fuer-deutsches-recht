@@ -1,0 +1,372 @@
+# Beirat: Gestaltung und Governance: Zustimmung und Konflikt
+
+Diese Datei wird nur geladen, wenn der konkrete Vorgang in diese Fallgruppe fällt.
+
+## Beirat Beschlussfassung
+
+Auswahlsignal: Wenn es um Beirat Beschlussfassung in Großkanzlei Corporate/M&A geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt.
+
+### Beirat Beschlussfassung
+
+#### Fachlicher Anker
+
+- **Normenradar:** Paragraf 15, 16, 40, 43, 46 GmbHG; Paragraf 76, 93, 111 AktG; HGB-, UmwG-, GWB- und AWV-Bezug nur, wenn der konkrete Vorgang ihn trägt.
+- **Quellenhygiene:** `references/quellenhygiene.md` und `references/zitierweise.md` beachten.
+
+#### Fachkern: Beirat Beschlussfassung
+- **Prüfachse:** Ordne den konkreten Auftrag nach Gesellschaftsform, Dokument, Entscheidungsträger, Form, Frist, Beleg und Rechtsfolge; Spezialnormen nur nennen, wenn sie den Fall tragen.
+- **Entscheidende Weiche:** Trenne Sachverhalt, Zuständigkeit, Zustimmung, Haftung, Vollzug und taktischen nächsten Schritt.
+- **Arbeitsprodukt:** Liefere eine verwertbare Matrix mit `Tatsache / Norm / Beleg / Wertung / Gegenargument / nächster Schritt` und bei Bedarf einen ausformulierten Textbaustein.
+
+#### Kaltstart-Fragen
+
+Frage nur nach, wenn es die rechtliche Weiche wirklich verändert:
+
+1. Wer handelt, in welcher Rolle, und welches Ergebnis wird gebraucht?
+2. Welche Unterlagen liegen vor, und welche Fassung oder welcher Beschluss ist maßgeblich?
+3. Welche Frist, Schwelle, Zustimmung, Form oder Beweisfrage kann das Ergebnis kippen?
+4. Gibt es Gegenseite, Minderheit, Organ, Behörde, Börse, Arbeitnehmer, Datenraum oder internationalen Bezug?
+5. Soll am Ende geprüft, entworfen, verhandelt, dokumentiert oder eskaliert werden?
+
+#### Spezifische Prüfachse
+
+- Einberufung, Beschlussfähigkeit, Mehrheiten, Umlaufbeschlüsse, Enthaltungen und Protokollierung in Satzung/Geschäftsordnung spiegeln.
+- Register-/Notarfragen entstehen, wenn Satzungsänderung, Organwechsel oder Vertretungsregeln berührt sind.
+- Protokoll so führen, dass Kompetenz, Information und Abstimmung später nachvollziehbar sind.
+
+#### Arbeitsmodus
+
+1. **Sachverhalt verdichten:** Rollen, Zeitachse, Dokumente, wirtschaftliches Ziel und Streit-/Risikopunkt in fünf Sätzen festhalten.
+2. **Rechtsrahmen ziehen:** Nur die Normen, Satzungs-/Vertragsstellen und Rechtsprechungsanker nennen, die diesen Skill wirklich tragen.
+3. **Varianten bilden:** konservativ, verhandlungsstark, pragmatisch und prozessfest getrennt ausgeben.
+4. **Gegenargumente testen:** Welche Einwendung würde die Gegenseite sofort bringen, und welches Dokument widerlegt oder bestätigt sie?
+5. **Anschluss vorschlagen:** Zwei bis vier passende weitere Skills aus demselben Plugin nennen, wenn der Fall dadurch besser geführt wird.
+
+#### Quellenhygiene
+
+Arbeite primär mit: GmbHG Paragraf 37, 43, 46, 47, 48, 52, 53; BGB Paragraf 133, 157, 241 Abs. 2, 242; MitbestG/DrittelbG bei Abgrenzung zum obligatorischen Aufsichtsrat; Satzung, Geschäftsordnung, Gesellschafterbeschluss; GeschGehG und Datenschutzrecht bei Vertraulichkeit und Datenzugriff.
+
+Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen. Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen, tragender Aussage und frei prüfbarer Quelle ausgeben. Wenn keine freie Quelle gefunden wird, als unverified markieren und nicht als tragenden Beleg verwenden.
+## Beirat Beschlussmaengel
+
+Auswahlsignal: Wenn es um Beirat Beschlussmaengel in Großkanzlei Corporate/M&A geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt.
+
+### Beirat Beschlussmaengel
+
+#### Fachlicher Anker
+
+- **Normenradar:** Paragraf 15, 16, 40, 43, 46 GmbHG; Paragraf 76, 93, 111 AktG; HGB-, UmwG-, GWB- und AWV-Bezug nur, wenn der konkrete Vorgang ihn trägt.
+- **Quellenhygiene:** `references/quellenhygiene.md` und `references/zitierweise.md` beachten.
+
+#### Fachkern: Beirat Beschlussmaengel
+- **Prüfachse:** Ordne den konkreten Auftrag nach Gesellschaftsform, Dokument, Entscheidungsträger, Form, Frist, Beleg und Rechtsfolge; Spezialnormen nur nennen, wenn sie den Fall tragen.
+- **Entscheidende Weiche:** Trenne Sachverhalt, Zuständigkeit, Zustimmung, Haftung, Vollzug und taktischen nächsten Schritt.
+- **Arbeitsprodukt:** Liefere eine verwertbare Matrix mit `Tatsache / Norm / Beleg / Wertung / Gegenargument / nächster Schritt` und bei Bedarf einen ausformulierten Textbaustein.
+
+#### Kaltstart-Fragen
+
+Frage nur nach, wenn es die rechtliche Weiche wirklich verändert:
+
+1. Wer handelt, in welcher Rolle, und welches Ergebnis wird gebraucht?
+2. Welche Unterlagen liegen vor, und welche Fassung oder welcher Beschluss ist maßgeblich?
+3. Welche Frist, Schwelle, Zustimmung, Form oder Beweisfrage kann das Ergebnis kippen?
+4. Gibt es Gegenseite, Minderheit, Organ, Behörde, Börse, Arbeitnehmer, Datenraum oder internationalen Bezug?
+5. Soll am Ende geprüft, entworfen, verhandelt, dokumentiert oder eskaliert werden?
+
+#### Spezifische Prüfachse
+
+- Einberufung, Beschlussfähigkeit, Mehrheiten, Umlaufbeschlüsse, Enthaltungen und Protokollierung in Satzung/Geschäftsordnung spiegeln.
+- Register-/Notarfragen entstehen, wenn Satzungsänderung, Organwechsel oder Vertretungsregeln berührt sind.
+- Protokoll so führen, dass Kompetenz, Information und Abstimmung später nachvollziehbar sind.
+
+#### Arbeitsmodus
+
+1. **Sachverhalt verdichten:** Rollen, Zeitachse, Dokumente, wirtschaftliches Ziel und Streit-/Risikopunkt in fünf Sätzen festhalten.
+2. **Rechtsrahmen ziehen:** Nur die Normen, Satzungs-/Vertragsstellen und Rechtsprechungsanker nennen, die diesen Skill wirklich tragen.
+3. **Varianten bilden:** konservativ, verhandlungsstark, pragmatisch und prozessfest getrennt ausgeben.
+4. **Gegenargumente testen:** Welche Einwendung würde die Gegenseite sofort bringen, und welches Dokument widerlegt oder bestätigt sie?
+5. **Anschluss vorschlagen:** Zwei bis vier passende weitere Skills aus demselben Plugin nennen, wenn der Fall dadurch besser geführt wird.
+
+#### Quellenhygiene
+
+Arbeite primär mit: GmbHG Paragraf 37, 43, 46, 47, 48, 52, 53; BGB Paragraf 133, 157, 241 Abs. 2, 242; MitbestG/DrittelbG bei Abgrenzung zum obligatorischen Aufsichtsrat; Satzung, Geschäftsordnung, Gesellschafterbeschluss; GeschGehG und Datenschutzrecht bei Vertraulichkeit und Datenzugriff.
+
+Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen. Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen, tragender Aussage und frei prüfbarer Quelle ausgeben. Wenn keine freie Quelle gefunden wird, als unverified markieren und nicht als tragenden Beleg verwenden.
+## Beirat Deadlock Mechanik
+
+Auswahlsignal: Wenn es um Beirat Deadlock Mechanik in Großkanzlei Corporate/M&A geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt.
+
+### Beirat Deadlock Mechanik
+
+#### Fachlicher Anker
+
+- **Normenradar:** Paragraf 15, 16, 40, 43, 46 GmbHG; Paragraf 76, 93, 111 AktG; HGB-, UmwG-, GWB- und AWV-Bezug nur, wenn der konkrete Vorgang ihn trägt.
+- **Quellenhygiene:** `references/quellenhygiene.md` und `references/zitierweise.md` beachten.
+
+#### Fachkern: Beirat Deadlock Mechanik
+- **Prüfachse:** Ordne den konkreten Auftrag nach Gesellschaftsform, Dokument, Entscheidungsträger, Form, Frist, Beleg und Rechtsfolge; Spezialnormen nur nennen, wenn sie den Fall tragen.
+- **Entscheidende Weiche:** Trenne Sachverhalt, Zuständigkeit, Zustimmung, Haftung, Vollzug und taktischen nächsten Schritt.
+- **Arbeitsprodukt:** Liefere eine verwertbare Matrix mit `Tatsache / Norm / Beleg / Wertung / Gegenargument / nächster Schritt` und bei Bedarf einen ausformulierten Textbaustein.
+
+#### Kaltstart-Fragen
+
+Frage nur nach, wenn es die rechtliche Weiche wirklich verändert:
+
+1. Wer handelt, in welcher Rolle, und welches Ergebnis wird gebraucht?
+2. Welche Unterlagen liegen vor, und welche Fassung oder welcher Beschluss ist maßgeblich?
+3. Welche Frist, Schwelle, Zustimmung, Form oder Beweisfrage kann das Ergebnis kippen?
+4. Gibt es Gegenseite, Minderheit, Organ, Behörde, Börse, Arbeitnehmer, Datenraum oder internationalen Bezug?
+5. Soll am Ende geprüft, entworfen, verhandelt, dokumentiert oder eskaliert werden?
+
+#### Spezifische Prüfachse
+
+- Familiengesellschaften brauchen Beirat als Konfliktfilter: Nachfolge, Abfindung, Ehe-/Erbstreit, Geschäftsführernachfolge und Kommunikation.
+- Deadlock-Mechaniken so bauen, dass sie nicht den stärksten Konfliktakteur belohnen.
+- Beiratssitzung und Gesellschafterversammlung als getrennte Bühnen führen.
+
+#### Arbeitsmodus
+
+1. **Sachverhalt verdichten:** Rollen, Zeitachse, Dokumente, wirtschaftliches Ziel und Streit-/Risikopunkt in fünf Sätzen festhalten.
+2. **Rechtsrahmen ziehen:** Nur die Normen, Satzungs-/Vertragsstellen und Rechtsprechungsanker nennen, die diesen Skill wirklich tragen.
+3. **Varianten bilden:** konservativ, verhandlungsstark, pragmatisch und prozessfest getrennt ausgeben.
+4. **Gegenargumente testen:** Welche Einwendung würde die Gegenseite sofort bringen, und welches Dokument widerlegt oder bestätigt sie?
+5. **Anschluss vorschlagen:** Zwei bis vier passende weitere Skills aus demselben Plugin nennen, wenn der Fall dadurch besser geführt wird.
+
+#### Quellenhygiene
+
+Arbeite primär mit: GmbHG Paragraf 37, 43, 46, 47, 48, 52, 53; BGB Paragraf 133, 157, 241 Abs. 2, 242; MitbestG/DrittelbG bei Abgrenzung zum obligatorischen Aufsichtsrat; Satzung, Geschäftsordnung, Gesellschafterbeschluss; GeschGehG und Datenschutzrecht bei Vertraulichkeit und Datenzugriff.
+
+Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen. Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen, tragender Aussage und frei prüfbarer Quelle ausgeben. Wenn keine freie Quelle gefunden wird, als unverified markieren und nicht als tragenden Beleg verwenden.
+## GmbH-Beirat: Zustimmungskatalog, Konfliktmatrix und Satzungslogik
+
+Auswahlsignal: Wenn es um GmbH-Beirat: Zustimmungskatalog, Konfliktmatrix und Satzungslogik in Großkanzlei Corporate/M&A geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten.
+
+### GmbH-Beirat: Zustimmungskatalog, Konfliktmatrix und Satzungslogik
+
+#### Kernproblem
+Der GmbH-Beirat ist Vertragstechnik mit Organwirkungspotenzial. Der Skill hilft, einen Beirat nicht als Dekoration, sondern als präzise Governance-Maschine zu bauen: mächtig genug für Kontrolle, nicht so mächtig, dass Geschäftsführung, Haftung und Finanzierung blockieren.
+
+#### Prüfpunkte
+1. Kompetenzquelle: Satzung, Geschäftsordnung, Shareholders' Agreement, Stimmbindung.
+2. Zustimmungskatalog: Budget, Capex, Debt, M&A, IP, Litigation, Related Party, Geschäftsführerbestellung, Insolvenzantrag.
+3. Mehrheit: einfache Mehrheit, qualifizierte Mehrheit, Investor Consent, Vetorecht, Deadlock-Mechanismus.
+4. Haftung/D&O: Organnähe, Informationsgrundlage, Protokoll, Interessenkonflikte.
+5. Exit/Finanzierung: Drag/Tag, Liquidation Preference, Reserved Matters, Bank Covenants.
+
+#### Powersprint-Vertiefung
+
+- **Konkreter Arbeitsauftrag:** `GmbH-Beirat: Zustimmungskatalog, Konfliktmatrix und Satzungslogik` immer als eigenes Fachproblem behandeln: Rolle, Ziel, Frist, Zuständigkeit, Beleglage und gewünschten Output trennen.
+- **Normen- und Quellenradar:** Tragende Normen, Behördenpraxis und Rechtsprechung nur verwenden, wenn sie aus der Akte, amtlicher Quelle oder frei prüfbarer Quelle belastbar sind.
+- **Fehlerbremse:** Keine allgemeinen Einstiegssätze, wenn schon ein Spezialproblem vorliegt; stattdessen direkt mit Matrix `Tatbestand / Beleg / Risiko / Gegenargument / nächster Schritt` arbeiten.
+- **Output:** Kurzmemo, Prüfraster, Dokumententwurf, Fristenliste oder Rückfragenliste mit höchstens einer wirklich entscheidenden Rückfrage.
+## Prüft und entwirft GmbH-Beiratsregeln für mittelständische und Corporate-Mandate: Vetorechte, Investorenschutz, Haftung, Protokoll, Deadlock und Geschäftsführerautonomie.
+
+Auswahlsignal: Wenn es um Beirat GmbH Zustimmungskatalog Und Konfliktmatrix in Großkanzlei Corporate/M&A geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten.
+
+### Prüft und entwirft GmbH-Beiratsregeln für mittelständische und Corporate-Mandate: Vetorechte, Investorenschutz, Haftung, Protokoll, Deadlock und Geschäftsführerautonomie.
+
+
+#### Arbeitsweg
+
+- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
+- Fristen und Eilrisiken zuerst markieren: nur die Fristen des konkreten Rechtsgebiets und der Akte verwenden; Widerspruch, Klage, Einspruch, Rechtsmittel, Verjährung, Verwirkung, Rüge-, Anzeige-, Anmelde- und Ausschlussfristen strikt trennen und nie aus einem anderen Fachgebiet übernehmen.
+- Tragende Normen verifizieren: BRAO, BORA, FAO, BNotO, StBerG, WPO, PAO; AO Paragraf 38, 42, 90, 93, 153, 162, 164, 169-171, 173, 233a, 370-378, UStG, EStG, KStG, GewStG, GrEStG, ErbStG, FGO; UmwG; UmwStG; StaRUG — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
+- Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
+- Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
+
+**Fokus:** Prüft und entwirft GmbH-Beiratsregeln für mittelständische und Corporate-Mandate: Vetorechte, Investorenschutz, Haftung, Protokoll, Deadlock und Geschäftsführerautonomie.
+
+##### GmbH-Beirat: Zustimmungskatalog, Konfliktmatrix und Satzungslogik
+
+#### Kernproblem
+Der GmbH-Beirat ist Vertragstechnik mit Organwirkungspotenzial. Der Skill hilft, einen Beirat nicht als Dekoration, sondern als präzise Governance-Maschine zu bauen: mächtig genug für Kontrolle, nicht so mächtig, dass Geschäftsführung, Haftung und Finanzierung blockieren.
+
+#### Prüfpunkte
+1. Kompetenzquelle: Satzung, Geschäftsordnung, Shareholders' Agreement, Stimmbindung.
+2. Zustimmungskatalog: Budget, Capex, Debt, M&A, IP, Litigation, Related Party, Geschäftsführerbestellung, Insolvenzantrag.
+3. Mehrheit: einfache Mehrheit, qualifizierte Mehrheit, Investor Consent, Vetorecht, Deadlock-Mechanismus.
+4. Haftung/D&O: Organnähe, Informationsgrundlage, Protokoll, Interessenkonflikte.
+5. Exit/Finanzierung: Drag/Tag, Liquidation Preference, Reserved Matters, Bank Covenants.
+## Beirat Interessenkonflikte
+
+Auswahlsignal: Wenn es um Beirat Interessenkonflikte in Großkanzlei Corporate/M&A geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt.
+
+### Beirat Interessenkonflikte
+
+#### Fachlicher Anker
+
+- **Normenradar:** Paragraf 15, 16, 40, 43, 46 GmbHG; Paragraf 76, 93, 111 AktG; HGB-, UmwG-, GWB- und AWV-Bezug nur, wenn der konkrete Vorgang ihn trägt.
+- **Quellenhygiene:** `references/quellenhygiene.md` und `references/zitierweise.md` beachten.
+
+#### Fachkern: Beirat Interessenkonflikte
+- **Prüfachse:** Ordne den konkreten Auftrag nach Gesellschaftsform, Dokument, Entscheidungsträger, Form, Frist, Beleg und Rechtsfolge; Spezialnormen nur nennen, wenn sie den Fall tragen.
+- **Entscheidende Weiche:** Trenne Sachverhalt, Zuständigkeit, Zustimmung, Haftung, Vollzug und taktischen nächsten Schritt.
+- **Arbeitsprodukt:** Liefere eine verwertbare Matrix mit `Tatsache / Norm / Beleg / Wertung / Gegenargument / nächster Schritt` und bei Bedarf einen ausformulierten Textbaustein.
+
+#### Kaltstart-Fragen
+
+Frage nur nach, wenn es die rechtliche Weiche wirklich verändert:
+
+1. Wer handelt, in welcher Rolle, und welches Ergebnis wird gebraucht?
+2. Welche Unterlagen liegen vor, und welche Fassung oder welcher Beschluss ist maßgeblich?
+3. Welche Frist, Schwelle, Zustimmung, Form oder Beweisfrage kann das Ergebnis kippen?
+4. Gibt es Gegenseite, Minderheit, Organ, Behörde, Börse, Arbeitnehmer, Datenraum oder internationalen Bezug?
+5. Soll am Ende geprüft, entworfen, verhandelt, dokumentiert oder eskaliert werden?
+
+#### Spezifische Prüfachse
+
+- Beiratshaftung nach Funktion, Organähnlichkeit, übernommenen Aufgaben und faktischer Einflussnahme prüfen.
+- Interessenkonflikte offenlegen, Stimmverbote/Enthaltungen regeln und Protokollspur schaffen.
+- Vergütung und D&O/Haftungsfreistellung nur mit transparenter Grundlage und Gesellschafterbeschluss.
+
+#### Arbeitsmodus
+
+1. **Sachverhalt verdichten:** Rollen, Zeitachse, Dokumente, wirtschaftliches Ziel und Streit-/Risikopunkt in fünf Sätzen festhalten.
+2. **Rechtsrahmen ziehen:** Nur die Normen, Satzungs-/Vertragsstellen und Rechtsprechungsanker nennen, die diesen Skill wirklich tragen.
+3. **Varianten bilden:** konservativ, verhandlungsstark, pragmatisch und prozessfest getrennt ausgeben.
+4. **Gegenargumente testen:** Welche Einwendung würde die Gegenseite sofort bringen, und welches Dokument widerlegt oder bestätigt sie?
+5. **Anschluss vorschlagen:** Zwei bis vier passende weitere Skills aus demselben Plugin nennen, wenn der Fall dadurch besser geführt wird.
+
+#### Quellenhygiene
+
+Arbeite primär mit: GmbHG Paragraf 37, 43, 46, 47, 48, 52, 53; BGB Paragraf 133, 157, 241 Abs. 2, 242; MitbestG/DrittelbG bei Abgrenzung zum obligatorischen Aufsichtsrat; Satzung, Geschäftsordnung, Gesellschafterbeschluss; GeschGehG und Datenschutzrecht bei Vertraulichkeit und Datenzugriff.
+
+Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen. Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen, tragender Aussage und frei prüfbarer Quelle ausgeben. Wenn keine freie Quelle gefunden wird, als unverified markieren und nicht als tragenden Beleg verwenden.
+## Beirat Streit Gesellschafter
+
+Auswahlsignal: Wenn es um Beirat Streit Gesellschafter in Großkanzlei Corporate/M&A geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt.
+
+### Beirat Streit Gesellschafter
+
+#### Fachlicher Anker
+
+- **Normenradar:** Paragraf 15, 16, 40, 43, 46 GmbHG; Paragraf 76, 93, 111 AktG; HGB-, UmwG-, GWB- und AWV-Bezug nur, wenn der konkrete Vorgang ihn trägt.
+- **Quellenhygiene:** `references/quellenhygiene.md` und `references/zitierweise.md` beachten.
+
+#### Fachkern: Beirat Streit Gesellschafter
+- **Prüfachse:** Ordne den konkreten Auftrag nach Gesellschaftsform, Dokument, Entscheidungsträger, Form, Frist, Beleg und Rechtsfolge; Spezialnormen nur nennen, wenn sie den Fall tragen.
+- **Entscheidende Weiche:** Trenne Sachverhalt, Zuständigkeit, Zustimmung, Haftung, Vollzug und taktischen nächsten Schritt.
+- **Arbeitsprodukt:** Liefere eine verwertbare Matrix mit `Tatsache / Norm / Beleg / Wertung / Gegenargument / nächster Schritt` und bei Bedarf einen ausformulierten Textbaustein.
+
+#### Kaltstart-Fragen
+
+Frage nur nach, wenn es die rechtliche Weiche wirklich verändert:
+
+1. Wer handelt, in welcher Rolle, und welches Ergebnis wird gebraucht?
+2. Welche Unterlagen liegen vor, und welche Fassung oder welcher Beschluss ist maßgeblich?
+3. Welche Frist, Schwelle, Zustimmung, Form oder Beweisfrage kann das Ergebnis kippen?
+4. Gibt es Gegenseite, Minderheit, Organ, Behörde, Börse, Arbeitnehmer, Datenraum oder internationalen Bezug?
+5. Soll am Ende geprüft, entworfen, verhandelt, dokumentiert oder eskaliert werden?
+
+#### Spezifische Prüfachse
+
+- Familiengesellschaften brauchen Beirat als Konfliktfilter: Nachfolge, Abfindung, Ehe-/Erbstreit, Geschäftsführernachfolge und Kommunikation.
+- Deadlock-Mechaniken so bauen, dass sie nicht den stärksten Konfliktakteur belohnen.
+- Beiratssitzung und Gesellschafterversammlung als getrennte Bühnen führen.
+
+#### Arbeitsmodus
+
+1. **Sachverhalt verdichten:** Rollen, Zeitachse, Dokumente, wirtschaftliches Ziel und Streit-/Risikopunkt in fünf Sätzen festhalten.
+2. **Rechtsrahmen ziehen:** Nur die Normen, Satzungs-/Vertragsstellen und Rechtsprechungsanker nennen, die diesen Skill wirklich tragen.
+3. **Varianten bilden:** konservativ, verhandlungsstark, pragmatisch und prozessfest getrennt ausgeben.
+4. **Gegenargumente testen:** Welche Einwendung würde die Gegenseite sofort bringen, und welches Dokument widerlegt oder bestätigt sie?
+5. **Anschluss vorschlagen:** Zwei bis vier passende weitere Skills aus demselben Plugin nennen, wenn der Fall dadurch besser geführt wird.
+
+#### Quellenhygiene
+
+Arbeite primär mit: GmbHG Paragraf 37, 43, 46, 47, 48, 52, 53; BGB Paragraf 133, 157, 241 Abs. 2, 242; MitbestG/DrittelbG bei Abgrenzung zum obligatorischen Aufsichtsrat; Satzung, Geschäftsordnung, Gesellschafterbeschluss; GeschGehG und Datenschutzrecht bei Vertraulichkeit und Datenzugriff.
+
+Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen. Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen, tragender Aussage und frei prüfbarer Quelle ausgeben. Wenn keine freie Quelle gefunden wird, als unverified markieren und nicht als tragenden Beleg verwenden.
+## Beirat Veto Rechte
+
+Auswahlsignal: Wenn es um Beirat Veto Rechte in Großkanzlei Corporate/M&A geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt.
+
+### Beirat Veto Rechte
+
+#### Fachlicher Anker
+
+- **Normenradar:** Paragraf 15, 16, 40, 43, 46 GmbHG; Paragraf 76, 93, 111 AktG; HGB-, UmwG-, GWB- und AWV-Bezug nur, wenn der konkrete Vorgang ihn trägt.
+- **Quellenhygiene:** `references/quellenhygiene.md` und `references/zitierweise.md` beachten.
+
+#### Fachkern: Beirat Veto Rechte
+- **Prüfachse:** Ordne den konkreten Auftrag nach Gesellschaftsform, Dokument, Entscheidungsträger, Form, Frist, Beleg und Rechtsfolge; Spezialnormen nur nennen, wenn sie den Fall tragen.
+- **Entscheidende Weiche:** Trenne Sachverhalt, Zuständigkeit, Zustimmung, Haftung, Vollzug und taktischen nächsten Schritt.
+- **Arbeitsprodukt:** Liefere eine verwertbare Matrix mit `Tatsache / Norm / Beleg / Wertung / Gegenargument / nächster Schritt` und bei Bedarf einen ausformulierten Textbaustein.
+
+#### Kaltstart-Fragen
+
+Frage nur nach, wenn es die rechtliche Weiche wirklich verändert:
+
+1. Wer handelt, in welcher Rolle, und welches Ergebnis wird gebraucht?
+2. Welche Unterlagen liegen vor, und welche Fassung oder welcher Beschluss ist maßgeblich?
+3. Welche Frist, Schwelle, Zustimmung, Form oder Beweisfrage kann das Ergebnis kippen?
+4. Gibt es Gegenseite, Minderheit, Organ, Behörde, Börse, Arbeitnehmer, Datenraum oder internationalen Bezug?
+5. Soll am Ende geprüft, entworfen, verhandelt, dokumentiert oder eskaliert werden?
+
+#### Spezifische Prüfachse
+
+- Zustimmungsvorbehalte konkret, messbar und geschäftsführungspraktisch formulieren: Schwellen, Ausnahmen, Eilkompetenz, Budgetbezug.
+- Veto-Rechte dürfen Geschäftsführung nicht handlungsunfähig machen; Deadlock-Mechanik und Ersatzentscheid prüfen.
+- Kompetenzverlagerung braucht Satzungsgrundlage und klare Grenze zu Geschäftsführungs-/Gesellschafterkompetenz.
+
+#### Arbeitsmodus
+
+1. **Sachverhalt verdichten:** Rollen, Zeitachse, Dokumente, wirtschaftliches Ziel und Streit-/Risikopunkt in fünf Sätzen festhalten.
+2. **Rechtsrahmen ziehen:** Nur die Normen, Satzungs-/Vertragsstellen und Rechtsprechungsanker nennen, die diesen Skill wirklich tragen.
+3. **Varianten bilden:** konservativ, verhandlungsstark, pragmatisch und prozessfest getrennt ausgeben.
+4. **Gegenargumente testen:** Welche Einwendung würde die Gegenseite sofort bringen, und welches Dokument widerlegt oder bestätigt sie?
+5. **Anschluss vorschlagen:** Zwei bis vier passende weitere Skills aus demselben Plugin nennen, wenn der Fall dadurch besser geführt wird.
+
+#### Quellenhygiene
+
+Arbeite primär mit: GmbHG Paragraf 37, 43, 46, 47, 48, 52, 53; BGB Paragraf 133, 157, 241 Abs. 2, 242; MitbestG/DrittelbG bei Abgrenzung zum obligatorischen Aufsichtsrat; Satzung, Geschäftsordnung, Gesellschafterbeschluss; GeschGehG und Datenschutzrecht bei Vertraulichkeit und Datenzugriff.
+
+Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen. Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen, tragender Aussage und frei prüfbarer Quelle ausgeben. Wenn keine freie Quelle gefunden wird, als unverified markieren und nicht als tragenden Beleg verwenden.
+## Beirat Zustimmungsvorbehalte
+
+Auswahlsignal: Wenn es um Beirat Zustimmungsvorbehalte in Großkanzlei Corporate/M&A geht: rechnet Schwellen, Beträge, Varianten und Kontrollannahmen durch; liefert eine Berechnungstabelle mit Schwellen, Annahmen und Kontrollfragen.
+
+### Beirat Zustimmungsvorbehalte
+
+#### Fachlicher Anker
+
+- **GmbH-Kompetenzordnung:** Paragraf 37, 43, 46, 47, 48, 52, 53 GmbHG; Satzung, Geschäftsordnung und Gesellschafterbeschluss.
+- **Aktienrechtlicher Vergleichsanker:** Paragraf 76, 93, 111 AktG für Leitung, Sorgfalt und Überwachungslogik, ohne die GmbH-Satzung zu überspielen.
+- **Auslegung und Missbrauchskontrolle:** Paragraf 133, 157, 242 BGB bei unklaren Schwellen, Vetos und Deadlock-Lagen.
+- **Leitentscheidung:** BGH, 21.04.1997 - II ZR 175/95 als Maßstab für dokumentierte Organentscheidung und Anspruchsverfolgung.
+- **Quellenhygiene:** `references/quellenhygiene.md` und `references/zitierweise.md` beachten.
+
+#### Fachkern: Beirat Zustimmungsvorbehalte
+- **Entscheidende Weiche:** Zustimmungsvorbehalt ist kein Ersatzgeschäftsführer. Prüfe Schwelle, Ausnahme, Eilkompetenz, Informationsrecht, Frist und Rechtsfolge bei unterlassener Zustimmung getrennt.
+- **Verteilungslogik:** Nicht jede Governance-Frage gehört in den Beirat. Satzung, Geschäftsordnung, Gesellschafterbeschluss und Gesellschaftervereinbarung müssen funktional verteilt werden.
+- **Arbeitsprodukt:** Liefere eine `Maßnahme / Schwelle / Gremium / Frist / Ausnahme / Rechtsfolge / Formulierung`-Matrix.
+
+#### Kaltstart-Fragen
+
+Frage nur nach, wenn es die rechtliche Weiche wirklich verändert:
+
+1. Wer handelt, in welcher Rolle, und welches Ergebnis wird gebraucht?
+2. Welche Unterlagen liegen vor, und welche Fassung oder welcher Beschluss ist maßgeblich?
+3. Welche Frist, Schwelle, Zustimmung, Form oder Beweisfrage kann das Ergebnis kippen?
+4. Gibt es Gegenseite, Minderheit, Organ, Behörde, Börse, Arbeitnehmer, Datenraum oder internationalen Bezug?
+5. Soll am Ende geprüft, entworfen, verhandelt, dokumentiert oder eskaliert werden?
+
+#### Spezifische Prüfachse
+
+- Zustimmungsvorbehalte konkret, messbar und geschäftsführungspraktisch formulieren: Schwellen, Ausnahmen, Eilkompetenz, Budgetbezug.
+- Veto-Rechte dürfen Geschäftsführung nicht handlungsunfähig machen; Deadlock-Mechanik und Ersatzentscheid prüfen.
+- Kompetenzverlagerung braucht Satzungsgrundlage und klare Grenze zu Geschäftsführungs-/Gesellschafterkompetenz.
+
+#### Arbeitsmodus
+
+1. **Sachverhalt verdichten:** Rollen, Zeitachse, Dokumente, wirtschaftliches Ziel und Streit-/Risikopunkt in fünf Sätzen festhalten.
+2. **Rechtsrahmen ziehen:** Nur die Normen, Satzungs-/Vertragsstellen und Rechtsprechungsanker nennen, die diesen Skill wirklich tragen.
+3. **Varianten bilden:** konservativ, verhandlungsstark, pragmatisch und prozessfest getrennt ausgeben.
+4. **Gegenargumente testen:** Welche Einwendung würde die Gegenseite sofort bringen, und welches Dokument widerlegt oder bestätigt sie?
+5. **Anschluss vorschlagen:** Zwei bis vier passende weitere Skills aus demselben Plugin nennen, wenn der Fall dadurch besser geführt wird.
+
+#### Quellenhygiene
+
+Arbeite primär mit: GmbHG Paragraf 37, 43, 46, 47, 48, 52, 53; BGB Paragraf 133, 157, 241 Absatz 2, 242; MitbestG/DrittelbG bei Abgrenzung zum obligatorischen Aufsichtsrat; Satzung, Geschäftsordnung, Gesellschafterbeschluss; GeschGehG bei Vertraulichkeit und Datenzugriff.
+
+Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen. Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen, tragender Aussage und frei prüfbarer Quelle ausgeben. Wenn keine freie Quelle gefunden wird, als unverified markieren und nicht als tragenden Beleg verwenden.

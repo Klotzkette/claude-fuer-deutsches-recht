@@ -1,6 +1,6 @@
 ---
 name: lph-outputpaket-planfreigabe
-description: "Wenn es um LPH 7 Mitwirkung bei der Vergabe: Liefert alle dokumente in HOAI Leistungsphasen Praxis geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Dokumentenmatrix mit Nachforderungsliste."
+description: "Für LPH 7 Mitwirkung bei der Vergabe: Liefert alle dokumente: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # LPH 7 Mitwirkung bei der Vergabe: Liefert alle dokumente

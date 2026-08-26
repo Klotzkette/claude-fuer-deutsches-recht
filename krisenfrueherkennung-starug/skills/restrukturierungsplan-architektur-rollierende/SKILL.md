@@ -1,6 +1,6 @@
 ---
 name: restrukturierungsplan-architektur-rollierende
-description: "Baut einen Restrukturierungsplan nach Paragrafen 2 bis 28 StaRUG belastbar auf: Planbetroffene, darstellender und gestaltender Teil, Auswahl, Gruppen, Gleichbehandlung, Anlagen, Abstimmung, Cram-Down und Bestätigung. Liefert Planstruktur, Gruppenmatrix, Vergleichsrechnung, Zeitachse und Qualitätsgate."
+description: "Baut einen Restrukturierungsplan nach Paragrafen 2 bis 28 StaRUG belastbar auf: Planbetroffene, darstellender und gestaltender Teil, Auswahl, Gruppen, Gleichbehandlung, Anlagen, Abstimmung, Cram-Down und Bestätigung."
 ---
 
 # 1. Restrukturierungsplan-Architektur

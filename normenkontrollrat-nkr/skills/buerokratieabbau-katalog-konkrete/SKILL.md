@@ -1,6 +1,6 @@
 ---
 name: buerokratieabbau-katalog-konkrete
-description: "Wenn es um NKR-Buerokratieabbau-Katalog — konkrete Vorschlaege in Normenkontrollrat (NKR) — Prüfung von Gesetzentwuerfen geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für NKR-Bürokratieabbau-Katalog — konkrete Vorschläge: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # NKR-Buerokratieabbau-Katalog — konkrete Vorschlaege

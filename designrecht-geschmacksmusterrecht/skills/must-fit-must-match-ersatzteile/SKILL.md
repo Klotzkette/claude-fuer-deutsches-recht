@@ -1,6 +1,6 @@
 ---
 name: must-fit-must-match-ersatzteile
-description: "Wenn es um Must Fit Must Match Ersatzteile in designrecht-geschmacksmusterrecht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen."
+description: "Für Must Fit Must Match Ersatzteile: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Must Fit Must Match Ersatzteile

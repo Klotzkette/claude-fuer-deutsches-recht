@@ -1,6 +1,6 @@
 ---
 name: stb-liquiditaetsvorschau-3wochen
-description: "Wenn es um Drei-Wochen-Liquiditaetsvorschau in Steuerrecht – Steuerberater und Anwälte geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Drei-Wochen-Liquiditätsvorschau: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Drei-Wochen-Liquiditaetsvorschau

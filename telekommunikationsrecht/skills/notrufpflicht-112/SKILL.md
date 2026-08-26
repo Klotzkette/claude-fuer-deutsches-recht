@@ -1,6 +1,6 @@
 ---
 name: notrufpflicht-112
-description: "Wenn es um Notrufpflicht und Ausfallsicherheit in Telekommunikationsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Notrufpflicht und Ausfallsicherheit: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Notrufpflicht und Ausfallsicherheit

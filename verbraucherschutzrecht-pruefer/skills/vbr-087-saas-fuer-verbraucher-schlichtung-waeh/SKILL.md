@@ -1,6 +1,6 @@
 ---
 name: vbr-087-saas-fuer-verbraucher-schlichtung-waeh
-description: "Wenn es um Saas Fuer Verbraucher Schlichtung Waeh in Verbraucherschutzrecht Prüfer geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Saas für Verbraucher Schlichtung Waeh: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt. Fachgebiet: Verbraucherschutzrecht Prüfer. Route: vbr-087-saas-fuer-verbraucher-schlichtung-waeh."
 ---
 
 # Saas Fuer Verbraucher Schlichtung Waeh

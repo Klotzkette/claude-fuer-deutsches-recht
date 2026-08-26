@@ -1,6 +1,6 @@
 ---
 name: pangv-prodr-produktbeobachtung
-description: "Wenn es um Pangv: Risikoampel, Gegenargumente und Verteidigungslinien in Produkthaftung und Produktrecht geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Pangv: Risikoampel, Gegenargumente und Verteidigungslinien: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Pangv: Risikoampel, Gegenargumente und Verteidigungslinien

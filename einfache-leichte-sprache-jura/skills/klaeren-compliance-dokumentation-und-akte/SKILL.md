@@ -1,6 +1,6 @@
 ---
 name: klaeren-compliance-dokumentation-und-akte
-description: "Wenn es um Klären: Compliance-Dokumentation und Aktenvermerk in Einfache und Leichte Sprache für juristische Texte geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
+description: "Für Klären: Compliance-Dokumentation und Aktenvermerk: ordnet Akte, Belege und Lücken; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt. Fachgebiet: Einfache und Leichte Sprache für juristische Texte. Route: klaeren-compliance-dokumentation-und-akte."
 ---
 
 # Klären: Compliance-Dokumentation und Aktenvermerk
@@ -40,3 +40,7 @@ Konkret zu prüfen:
 - BGG (Behindertengleichstellungsgesetz) § 11
 - BITV 2.0 (Barrierefreie Informationstechnik-Verordnung)
 - UN-BRK Art. 9, 21
+
+## Vertiefung bei Bedarf
+
+- Bei `spezial-klaeren-compliance-dokumentation-und-akte` beziehungsweise Klaeren: Compliance-Dokumentation und Aktenvermerk: [die zusätzliche Vertiefung laden](./references/vertiefung-spezial-klaeren-compliance-dokumentation-und-akte.md).

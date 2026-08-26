@@ -1,6 +1,6 @@
 ---
 name: versorgungsordnung-und-betriebsvereinbarung-drafting
-description: "Wenn es um Versorgungsordnung und Betriebsvereinbarung zur bAV-Einführung entwerfen in BAV Strategie Konzern — Treuenfels Yamamoto Rechtsanwälte geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Versorgungsordnung und Betriebsvereinbarung zur bAV-Einführung entwerfen: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Versorgungsordnung und Betriebsvereinbarung zur bAV-Einführung entwerfen

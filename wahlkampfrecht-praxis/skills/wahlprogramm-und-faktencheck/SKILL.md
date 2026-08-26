@@ -1,6 +1,6 @@
 ---
 name: wahlprogramm-und-faktencheck
-description: "Wenn es um Wahlprogramm Und Faktencheck in Wahlkampfrecht Praxis geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
+description: "Für Wahlprogramm und Faktencheck: ordnet Akte, Belege und Lücken; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Wahlprogramm Und Faktencheck

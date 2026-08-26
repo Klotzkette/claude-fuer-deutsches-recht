@@ -1,6 +1,6 @@
 ---
 name: it-recht-saas-avv-und-tia-bundle
-description: "Wenn es um SaaS-Vertrag mit AVV nach Art in Fachanwalt It Recht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für SaaS-Vertrag mit AVV nach Art: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # SaaS-Vertrag mit AVV nach Art

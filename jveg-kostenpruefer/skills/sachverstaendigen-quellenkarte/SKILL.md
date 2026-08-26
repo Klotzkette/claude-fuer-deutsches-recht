@@ -1,6 +1,6 @@
 ---
 name: sachverstaendigen-quellenkarte
-description: "Wenn es um Sachverstaendigen Quellenkarte in JVEG-Kostenprüfer geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Tatbestands- oder Anspruchsmatrix mit Gegenargumenten."
+description: "Für Sachverständigen Quellenkarte: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Sachverstaendigen Quellenkarte

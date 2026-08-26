@@ -1,6 +1,6 @@
 ---
 name: quellenkritik-digesten-und-institutionen
-description: "Wenn es um Quellenkritik: Digesten und Institutionen in Römisches Recht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Quellenkritik: Digesten und Institutionen: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Quellenkritik: Digesten und Institutionen

@@ -1,6 +1,6 @@
 ---
 name: bwbes-verwendungsfaehigkeit-tauglichkeit
-description: "Wenn es um Verwendungsfähigkeit, Tauglichkeit und finanzielle Folgen in Bundeswehrrecht und Wehrrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Verwendungsfähigkeit, Tauglichkeit und finanzielle Folgen: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Verwendungsfähigkeit, Tauglichkeit und finanzielle Folgen

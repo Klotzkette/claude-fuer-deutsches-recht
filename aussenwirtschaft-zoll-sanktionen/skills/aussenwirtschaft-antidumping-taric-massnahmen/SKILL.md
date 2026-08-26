@@ -1,6 +1,6 @@
 ---
 name: aussenwirtschaft-antidumping-taric-massnahmen
-description: "Wenn es um TARIC-Maßnahmen: Antidumping und Ausgleichszoelle in der Zollabfertigung in Außenwirtschaft, Sanktionen, Zoll und CBAM geht: rechnet Schwellen, Beträge, Varianten und Kontrollannahmen durch; liefert eine Berechnungstabelle mit Schwellen, Annahmen und Kontrollfragen."
+description: "Für TARIC-Maßnahmen: Antidumping und Ausgleichszölle in der Zollabfertigung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # TARIC-Maßnahmen: Antidumping und Ausgleichszoelle in der Zollabfertigung

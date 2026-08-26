@@ -1,6 +1,6 @@
 ---
 name: 99-finale-entscheidung-volltext
-description: "Wenn es um Finale Entscheidung als Volltext (Beschluss Handelsregister) in Handelsregisterrichter am Amtsgericht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert einen Einreichungsplan mit Form-, Portal- und Nachweischeck."
+description: "Für Finale Entscheidung als Volltext (Beschluss Handelsregister): ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Finale Entscheidung als Volltext (Beschluss Handelsregister)

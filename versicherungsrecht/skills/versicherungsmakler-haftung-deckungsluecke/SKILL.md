@@ -1,6 +1,6 @@
 ---
 name: versicherungsmakler-haftung-deckungsluecke
-description: "Wenn es um Versicherungsmaklerhaftung bei Deckungslücken in Versicherungsrecht geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
+description: "Für Versicherungsmaklerhaftung bei Deckungslücken: ordnet Akte, Belege und Lücken; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Versicherungsmaklerhaftung bei Deckungslücken

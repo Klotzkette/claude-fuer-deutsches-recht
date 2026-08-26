@@ -1,6 +1,6 @@
 ---
 name: schoeffe-strafgericht-kaltstart
-description: "Wenn es um Schöffe am Strafgericht Kaltstart in Schöffen und Handelsrichter Praxis geht: klärt Rolle, Ziel, Frist, Unterlagen und den passenden nächsten Fachskill; liefert eine Beweislast- und Substantiierungsmatrix."
+description: "Für Schöffe am Strafgericht Kaltstart: routet Rolle, Frist, Unterlagen und Fachschritt; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Schöffe am Strafgericht Kaltstart

@@ -1,6 +1,6 @@
 ---
 name: suspendierung-38-bdg-63-bdg-eilrechtsschutz
-description: "Wenn es um Suspendierung und Bezügeeinbehalt nach BDG in Beamtenrecht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
+description: "Für Suspendierung und Bezügeeinbehalt nach BDG: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Suspendierung und Bezügeeinbehalt nach BDG

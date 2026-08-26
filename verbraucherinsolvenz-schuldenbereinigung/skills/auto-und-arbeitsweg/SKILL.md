@@ -1,6 +1,6 @@
 ---
 name: auto-und-arbeitsweg
-description: "Wenn es um Auto Und Arbeitsweg in Verbraucherinsolvenz und Schuldenbereinigung geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Auto und Arbeitsweg: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Auto und Arbeitsweg: notwendiges Fahrzeug, Verwertung, Austauschpfändung, Berufserhalt und Familienbedarf.

@@ -1,6 +1,6 @@
 ---
 name: bittet-internationaler-bezug-und-schnittstellen
-description: "Wenn es um Bittet: Internationaler Bezug und Schnittstellen in mandantenanfragen-assistent geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Bittet: Internationaler Bezug und Schnittstellen: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Schnittstellenkarte mit Zuständigkeits- und Nachweisfragen."
 ---
 
 # Bittet: Internationaler Bezug und Schnittstellen

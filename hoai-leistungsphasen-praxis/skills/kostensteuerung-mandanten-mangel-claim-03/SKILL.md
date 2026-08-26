@@ -1,6 +1,6 @@
 ---
 name: kostensteuerung-mandanten-mangel-claim-03
-description: "Wenn es um LPH 1 Grundlagenermittlung: Prüft kostenermittlung in HOAI Leistungsphasen Praxis geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen."
+description: "Für LPH 1 Grundlagenermittlung: Prüft kostenermittlung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Schnittstellenkarte mit Zuständigkeits- und Nachweisfragen."
 ---
 
 # LPH 1 Grundlagenermittlung: Prüft kostenermittlung

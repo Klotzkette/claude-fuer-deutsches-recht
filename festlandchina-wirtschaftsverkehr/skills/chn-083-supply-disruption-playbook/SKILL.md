@@ -1,6 +1,6 @@
 ---
 name: chn-083-supply-disruption-playbook
-description: "Wenn es um Supply Disruption Playbook in China-Wirtschaftsverkehr geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Supply Disruption Playbook: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Supply Disruption Playbook

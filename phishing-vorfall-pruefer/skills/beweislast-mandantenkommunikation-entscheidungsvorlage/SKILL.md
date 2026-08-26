@@ -1,6 +1,6 @@
 ---
 name: beweislast-mandantenkommunikation-entscheidungsvorlage
-description: "Wenn es um Beweislast: Mandantenkommunikation und Entscheidungsvorlage in Phishing-Vorfall-Prüfer geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Beweislast: Mandantenkommunikation und Entscheidungsvorlage: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Mandantennachricht oder Entscheidungsvorlage."
 ---
 
 # Beweislast: Mandantenkommunikation und Entscheidungsvorlage

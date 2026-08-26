@@ -1,6 +1,6 @@
 ---
 name: kuendigung-wegen-nichtausuebung
-description: "Wenn es um Verl-045 · Kündigung wegen Nichtausübung (UrhG Paragraf 41) in Verlagsrecht und Buchpreisbindung geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Verl-045 · Kündigung wegen Nichtausübung (UrhG Paragraf 41): ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Verl-045 · Kündigung wegen Nichtausübung (UrhG § 41)

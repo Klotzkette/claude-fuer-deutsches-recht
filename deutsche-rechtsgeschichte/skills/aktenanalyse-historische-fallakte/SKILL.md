@@ -1,6 +1,6 @@
 ---
 name: aktenanalyse-historische-fallakte
-description: "Wenn es um Aktenanalyse: Historische Fallakte in Deutsche Rechtsgeschichte geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen."
+description: "Für Aktenanalyse: Historische Fallakte: ordnet Akte, Belege und Lücken; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Aktenanalyse: Historische Fallakte

@@ -1,6 +1,6 @@
 ---
 name: dworkin-law-as-integrity-hard-cases
-description: "Wenn es um Dworkin: Recht als Integrität, Prinzipien und hard cases in Rechtstheorie und Rechtsphilosophie geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
+description: "Für Dworkin: Recht als Integrität, Prinzipien und hard cases: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Dworkin: Recht als Integrität, Prinzipien und hard cases

@@ -1,6 +1,6 @@
 ---
 name: chn-048-data-localization-and-crossborder-data
-description: "Wenn es um Data Localization And Crossborder Data in China-Wirtschaftsverkehr geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Data Localization And Crossborder Data: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Data Localization And Crossborder Data

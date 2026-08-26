@@ -1,6 +1,6 @@
 ---
 name: eu-behoerde-familiengericht-vorladung
-description: "Wenn es um EU-Behörde und SOLVIT in Bürokratieversteher und Entbürokratisierer geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für EU-Behörde und SOLVIT: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Schnittstellenkarte mit Zuständigkeits- und Nachweisfragen."
 ---
 
 # EU-Behörde und SOLVIT

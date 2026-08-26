@@ -1,6 +1,6 @@
 ---
 name: bmwsb-mietrecht-und-wohnungspolitik
-description: "Wenn es um Mietrecht und Wohnungspolitik (BMWSB) in Legistik-Werkstatt geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen."
+description: "Für Mietrecht und Wohnungspolitik (BMWSB): ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Mietrecht und Wohnungspolitik (BMWSB)

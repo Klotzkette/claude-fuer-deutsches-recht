@@ -1,6 +1,6 @@
 ---
 name: strafrecht-spezial-markenrecht-143-markeng
-description: "Wenn es um Strafvorschriften nach Paragraph 143 MarkenG in Fachanwalt Strafrecht geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
+description: "Für Strafvorschriften nach Paragraph 143 MarkenG: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Strafvorschriften nach Paragraph 143 MarkenG

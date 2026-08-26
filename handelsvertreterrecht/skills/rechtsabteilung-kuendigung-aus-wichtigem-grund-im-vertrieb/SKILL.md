@@ -1,6 +1,6 @@
 ---
 name: rechtsabteilung-kuendigung-aus-wichtigem-grund-im-vertrieb
-description: "Wenn es um Rechtsabteilung: Kündigung aus wichtigem Grund im Vertrieb in Handelsvertreterrecht und Vertriebsverträge geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
+description: "Für Rechtsabteilung: Kündigung aus wichtigem Grund im Vertrieb: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Rechtsabteilung: Kündigung aus wichtigem Grund im Vertrieb

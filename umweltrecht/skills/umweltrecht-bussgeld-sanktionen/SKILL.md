@@ -1,6 +1,6 @@
 ---
 name: umweltrecht-bussgeld-sanktionen
-description: "Wenn es um Bussgeld, Sanktionen und Anhoerung im Umweltrecht in Umweltrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Bussgeld, Sanktionen und Anhörung im Umweltrecht: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt. Fachgebiet: Umweltrecht. Route: umweltrecht-bussgeld-sanktionen."
 ---
 
 # Bussgeld, Sanktionen und Anhoerung im Umweltrecht

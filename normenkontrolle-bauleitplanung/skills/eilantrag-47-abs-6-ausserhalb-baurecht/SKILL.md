@@ -1,6 +1,6 @@
 ---
 name: eilantrag-47-abs-6-ausserhalb-baurecht
-description: "Wenn es um Eilantrag 47 Abs 6 Ausserhalb Baurecht in Normenkontrolle Bauleitplanung — Paragraf 47 VwGO geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Eilantrag 47 Abs 6 Ausserhalb Baurecht: erstellt Entwurf mit Antrag, Beweis und Anlagen; Ergebnis: Schriftsatz mit Begründungs- und Anlagenlogik."
 ---
 
 # Eilantrag nach § 47 Abs. 6 VwGO außerhalb des Baurechts: schwere Nachteile, wichtige Gründe, Vollzugsfolgen und Antragsstrategie.

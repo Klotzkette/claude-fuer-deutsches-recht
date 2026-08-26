@@ -1,6 +1,6 @@
 ---
 name: ancillary-documents
-description: "Wenn es um Ancillary Documents TSA SLA in Großkanzlei Corporate/M&A geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
+description: "Für Ancillary Documents TSA SLA: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Ancillary Documents TSA SLA

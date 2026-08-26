@@ -1,6 +1,6 @@
 ---
 name: qualitaetsgate-bekanntgabe-route-aufzug
-description: "Wenn es um Noch einmal durchatmen in Versammlungsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Noch einmal durchatmen: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Gegenprüfung mit Beweis- und Fristencheck."
 ---
 
 # Noch einmal durchatmen

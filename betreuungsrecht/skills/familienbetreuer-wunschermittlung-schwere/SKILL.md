@@ -1,6 +1,6 @@
 ---
 name: familienbetreuer-wunschermittlung-schwere
-description: "Wenn es um Familienbetreuer: Wunschermittlung bei schwerer Demenz in Betreuungsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Familienbetreuer: Wunschermittlung bei schwerer Demenz: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Schnittstellenkarte mit Zuständigkeits- und Nachweisfragen. Fachgebiet: Betreuungsrecht. Route: familienbetreuer-wunschermittlung-schwere."
 ---
 
 # Familienbetreuer: Wunschermittlung bei schwerer Demenz

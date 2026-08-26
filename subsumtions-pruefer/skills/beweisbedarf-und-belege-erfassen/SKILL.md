@@ -1,6 +1,6 @@
 ---
 name: beweisbedarf-und-belege-erfassen
-description: "Wenn es um Beweisbedarf und Belege erfassen in Subsumtions-Prüfer geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Beweislast- und Substantiierungsmatrix."
+description: "Für Beweisbedarf und Belege erfassen: ordnet Akte, Belege und Lücken; Ergebnis: Beweislast- und Substantiierungsmatrix."
 ---
 
 # Beweisbedarf und Belege erfassen

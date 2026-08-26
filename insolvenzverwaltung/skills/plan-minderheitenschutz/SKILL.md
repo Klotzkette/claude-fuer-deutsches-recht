@@ -1,6 +1,6 @@
 ---
 name: plan-minderheitenschutz
-description: "Wenn es um IV-integrierte Minderheitenschutz in Insolvenzverwaltung - IV-Cockpit geht: entwickelt Verhandlungsziel, Vergleichskorridor und Eskalationspfad; liefert eine Verhandlungs- oder Eskalationslinie mit Optionen."
+description: "Für IV-integrierte Minderheitenschutz: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # IV-integrierte Minderheitenschutz

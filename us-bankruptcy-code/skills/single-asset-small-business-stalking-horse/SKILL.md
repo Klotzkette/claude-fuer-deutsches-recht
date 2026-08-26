@@ -1,6 +1,6 @@
 ---
 name: single-asset-small-business-stalking-horse
-description: "Wenn es um Single Asset Real Estate in US Bankruptcy Code geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Chronologie mit Belegmatrix und Widerspruchsliste."
+description: "Für Single Asset Real Estate: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Single Asset Real Estate

@@ -1,6 +1,6 @@
 ---
 name: verstaendigung-paragraf-257c-stpo-bverfg-2-bvr-2628-10
-description: "Prüft Vorbereitung, Durchführung und Revision einer Verständigung im Strafverfahren. Kontrolliert zulässigen Gegenstand, Offenlegung, Belehrung, Protokoll, Geständnisprüfung, Bindungswegfall und Beruhen und liefert Verhandlungsplan, Protokollanträge und ausgeführte Revisionsrüge."
+description: "Prüft Vorbereitung, Durchführung und Revision einer Verständigung im Strafverfahren."
 ---
 
 # Verständigung im Strafverfahren kontrollieren

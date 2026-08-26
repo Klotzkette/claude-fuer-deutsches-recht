@@ -1,6 +1,6 @@
 ---
 name: organrollen-vorstand-aufsichtsrat-versammlungsleiter
-description: "Wenn es um Organrollen Vorstand Aufsichtsrat Versammlungsleiter in Hauptversammlung AG und SE geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Organrollen Vorstand Aufsichtsrat Versammlungsleiter: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Organrollen Vorstand Aufsichtsrat Versammlungsleiter

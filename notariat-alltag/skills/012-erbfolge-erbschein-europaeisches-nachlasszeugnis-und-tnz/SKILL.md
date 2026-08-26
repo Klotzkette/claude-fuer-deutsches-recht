@@ -1,6 +1,6 @@
 ---
 name: 012-erbfolge-erbschein-europaeisches-nachlasszeugnis-und-tnz
-description: "Wenn es um Notariat im Alltag: Erbfolge – Erbschein, ENZ, Grundbuchberichtigung in Notariat im Alltag geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Notariat im Alltag: Erbfolge – Erbschein, ENZ, Grundbuchberichtigung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Schnittstellenkarte mit Zuständigkeits- und Nachweisfragen."
 ---
 
 # Notariat im Alltag: Erbfolge – Erbschein, ENZ, Grundbuchberichtigung

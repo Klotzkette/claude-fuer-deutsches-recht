@@ -1,6 +1,6 @@
 ---
 name: paragraph-102-starug-warnpflicht-bei-rechtsberatern
-description: "Prüft den eng begrenzten Hinweis nach Paragraf 102 StaRUG bei der Erstellung eines Jahresabschlusses. Trennt den gesetzlichen Tatbestand von sonstigen Mandatspflichten, ordnet offenkundige Insolvenzindizien und Mandantenkenntnis belegt ein und liefert Warnschreiben, Aktenvermerk sowie eine belastbare Anschlussroute."
+description: "Prüft den eng begrenzten Hinweis nach Paragraf 102 StaRUG bei der Erstellung eines Jahresabschlusses."
 ---
 
 # 1. Hinweis nach Paragraf 102 StaRUG

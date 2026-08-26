@@ -1,6 +1,6 @@
 ---
 name: nichtpraeferenzieller-ursprung-ofac-sdn-post
-description: "Wenn es um Nichtpraeferenzieller Ursprung und Made-in-Bezeichnung: Berechnung und Nachweis in Außenwirtschaft, Sanktionen, Zoll und CBAM geht: rechnet Schwellen, Beträge, Varianten und Kontrollannahmen durch; liefert eine Berechnungstabelle mit Schwellen, Annahmen und Kontrollfragen."
+description: "Für Nichtpräferenzieller Ursprung und Made-in-Bezeichnung: Berechnung und Nachweis: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Nichtpraeferenzieller Ursprung und Made-in-Bezeichnung: Berechnung und Nachweis

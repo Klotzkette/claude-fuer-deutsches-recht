@@ -1,6 +1,6 @@
 ---
 name: ki-erfindung-und-erfinderbenennung-kaltstart
-description: "Wenn es um Ki Erfindung Und Erfinderbenennung Kaltstart in Berufsrecht Patentanwälte geht: klärt Rolle, Ziel, Frist, Unterlagen und den passenden nächsten Fachskill; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Ki Erfindung und Erfinderbenennung Kaltstart: routet Rolle, Frist, Unterlagen und Fachschritt; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Patentanwälte: ki erfindung und erfinderbenennung - Kaltstart mit Faktenmatrix, Risikoampel und fehlenden Unterlagen

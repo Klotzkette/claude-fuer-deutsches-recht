@@ -1,6 +1,6 @@
 ---
 name: stb-bwa-monatsabschluss-routine
-description: "Wenn es um Monatsabschluss-Routine fuer den Steuerberater in Steuerrecht – Steuerberater und Anwälte geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Monatsabschluss-Routine für den Steuerberater: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Monatsabschluss-Routine fuer den Steuerberater

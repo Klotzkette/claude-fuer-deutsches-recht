@@ -1,6 +1,6 @@
 ---
 name: haftpflichtversicherung-und-schadenmeldung-rechtsprechungscheck
-description: "Wenn es um Haftpflichtversicherung Und Schadenmeldung Rechtsprechungscheck in Berufsrecht Steuerberater geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Gegenprüfung mit Fehler-, Beweis- und Fristencheck."
+description: "Für Haftpflichtversicherung und Schadenmeldung Rechtsprechungscheck: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Steuerberater: haftpflichtversicherung und schadenmeldung - Rechtsprechungscheck, stärkste Gegenansicht und Red-Team-Korrektur

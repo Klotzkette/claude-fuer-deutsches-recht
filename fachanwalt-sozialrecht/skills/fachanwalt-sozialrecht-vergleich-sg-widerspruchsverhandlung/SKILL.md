@@ -1,6 +1,6 @@
 ---
 name: fachanwalt-sozialrecht-vergleich-sg-widerspruchsverhandlung
-description: "Wenn es um Sozialrecht — Vergleich vor SG / Widerspruchsverhandlung in Fachanwalt Sozialrecht geht: entwickelt Verhandlungsziel, Vergleichskorridor und Eskalationspfad; liefert eine Verhandlungs- oder Eskalationslinie mit Optionen."
+description: "Für Sozialrecht — Vergleich vor SG / Widerspruchsverhandlung: entwickelt Ziel, Vergleich und Eskalation; Ergebnis: Verhandlungs- oder Eskalationslinie."
 ---
 
 # Sozialrecht — Vergleich vor SG / Widerspruchsverhandlung

@@ -1,6 +1,6 @@
 ---
 name: schwerbehindertenausweis-merkzeichen-pruefen
-description: "Wenn es um Schwerbehindertenausweis Merkzeichen Prüfen in selbstvertreter-sozialgericht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Schwerbehindertenausweis Merkzeichen Prüfen: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Schwerbehindertenausweis Merkzeichen Prüfen

@@ -1,6 +1,6 @@
 ---
 name: formalia-fehlerkatalog
-description: "Wenn es um Formalia Fehlerkatalog in DFG-Förderantrag geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Formalia Fehlerkatalog: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Formalia Fehlerkatalog

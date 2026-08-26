@@ -1,6 +1,6 @@
 ---
 name: fachanwalt-miet-wohnungseigentumsrecht-mieterhoehung
-description: "Wenn es um Mieterhöhung bis zur ortsüblichen Vergleichsmiete in Fachanwalt Miet- und Wohnungseigentumsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Mieterhöhung bis zur ortsüblichen Vergleichsmiete: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Mieterhöhung bis zur ortsüblichen Vergleichsmiete

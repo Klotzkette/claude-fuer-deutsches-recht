@@ -1,6 +1,6 @@
 ---
 name: strafrecht-spezial-aussagepsychologie-konstanzanalyse
-description: "Wenn es um Konstanzanalyse: Aussagekonstanz vs in Fachanwalt Strafrecht geht: entwickelt Verhandlungsziel, Vergleichskorridor und Eskalationspfad; liefert eine Verhandlungs- oder Eskalationslinie mit Optionen."
+description: "Für Konstanzanalyse: Aussagekonstanz vs: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Konstanzanalyse: Aussagekonstanz vs

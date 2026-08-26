@@ -1,6 +1,6 @@
 ---
 name: eintrittsgebuehr-laufende-gebietsschutz
-description: "Wenn es um Franchiserecht: Eintrittsgebühr, laufende Gebühren und Marketingfee in Franchiserecht Praxis geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Franchiserecht: Eintrittsgebühr, laufende Gebühren und Marketingfee: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Berechnungstabelle mit Annahmen und Kontrollfragen."
 ---
 
 # Franchiserecht: Eintrittsgebühr, laufende Gebühren und Marketingfee

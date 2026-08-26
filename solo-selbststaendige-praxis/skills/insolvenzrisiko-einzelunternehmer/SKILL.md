@@ -1,6 +1,6 @@
 ---
 name: insolvenzrisiko-einzelunternehmer
-description: "Wenn es um Krise Schulden und Neustart: Prüft zahlungsfähigkeit in Solo-Selbstständige Praxis geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Krise Schulden und Neustart: Prüft zahlungsfähigkeit: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Krise Schulden und Neustart: Prüft zahlungsfähigkeit

@@ -1,6 +1,6 @@
 ---
 name: vermoegensarrest-einziehung
-description: "Wenn es um Vermögensarrest und Einziehung in Staatsanwaltschaft Praxis-Einstieg geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen."
+description: "Für Vermögensarrest und Einziehung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Vermögensarrest und Einziehung

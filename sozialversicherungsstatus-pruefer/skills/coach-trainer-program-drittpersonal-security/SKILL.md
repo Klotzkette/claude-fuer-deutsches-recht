@@ -1,6 +1,6 @@
 ---
 name: coach-trainer-program-drittpersonal-security
-description: "Wenn es um Coach Trainer Seminarleiter in Sozialversicherungsstatus-Prüfer / DRV-Statusfeststellung geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
+description: "Für Coach Trainer Seminarleiter: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Coach Trainer Seminarleiter

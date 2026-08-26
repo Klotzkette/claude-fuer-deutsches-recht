@@ -1,6 +1,6 @@
 ---
 name: zulassung-bestellung-und-register
-description: "Wenn es um Zulassung, Bestellung und Register in Berufsrecht Anwälte geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Zulassung, Bestellung und Register: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Einreichungsplan mit Form- und Nachweischeck. Fachgebiet: Berufsrecht Anwälte."
 ---
 
 # Zulassung, Bestellung und Register

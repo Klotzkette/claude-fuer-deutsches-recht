@@ -1,6 +1,6 @@
 ---
 name: konform-interessen
-description: "Wenn es um Konform: Mehrparteienkonflikt und Interessenmatrix in Anlagen zu Schriftsätzen geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. Auswahlstichwort: Konform Interessen; Arbeitsfeld: Anlagen zu Schriftsätzen."
+description: "Für Konform: Mehrparteienkonflikt und Interessenmatrix: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt. Fachgebiet: Anlagen zu Schriftsätzen. Route: konform-interessen."
 ---
 
 # Konform: Mehrparteienkonflikt und Interessenmatrix

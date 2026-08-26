@@ -1,6 +1,6 @@
 ---
 name: betreuung-vormundschaft
-description: "Wenn es um ELS-J für Betreute/Muendel in Einfache und Leichte Sprache für juristische Texte geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für ELS-J für Betreute/Mündel: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Schnittstellenkarte mit Zuständigkeits- und Nachweisfragen. Fachgebiet: Einfache und Leichte Sprache für juristische Texte. Route: betreuung-vormundschaft."
 ---
 
 # ELS-J für Betreute/Muendel

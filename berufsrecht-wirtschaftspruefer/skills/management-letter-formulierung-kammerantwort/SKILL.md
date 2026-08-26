@@ -1,6 +1,6 @@
 ---
 name: management-letter-formulierung-kammerantwort
-description: "Wenn es um Management Letter Formulierung Kammerantwort in Berufsrecht Wirtschaftsprüfer geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Verhandlungs- oder Eskalationslinie mit Optionen."
+description: "Für Management Letter Formulierung Kammerantwort: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Wirtschaftsprüfer: management letter formulierung - Kammerantwort mit Verfahrensstrategie, Tonlage und Belegplan

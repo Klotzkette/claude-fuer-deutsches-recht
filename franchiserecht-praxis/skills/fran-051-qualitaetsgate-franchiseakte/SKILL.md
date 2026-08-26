@@ -1,6 +1,6 @@
 ---
 name: fran-051-qualitaetsgate-franchiseakte
-description: "Wenn es um Franchiserecht: Qualitätsgate Franchiseakte in Franchiserecht Praxis geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Franchiserecht: Qualitätsgate Franchiseakte: ordnet Akte, Belege und Lücken; Ergebnis: Gegenprüfung mit Beweis- und Fristencheck."
 ---
 
 # Franchiserecht: Qualitätsgate Franchiseakte

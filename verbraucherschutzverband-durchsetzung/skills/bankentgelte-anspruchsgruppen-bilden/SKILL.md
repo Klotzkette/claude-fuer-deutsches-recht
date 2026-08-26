@@ -1,6 +1,6 @@
 ---
 name: bankentgelte-anspruchsgruppen-bilden
-description: "Wenn es um Bankentgelte Anspruchsgruppen Bilden in Verbraucherschutzverband Durchsetzung geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Bankentgelte Anspruchsgruppen Bilden: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Tatbestands- oder Anspruchsmatrix."
 ---
 
 # Bankentgelte Anspruchsgruppen Bilden

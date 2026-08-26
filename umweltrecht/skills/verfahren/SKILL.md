@@ -1,6 +1,6 @@
 ---
 name: verfahren
-description: "Wenn es um Umweltrechtliche Verwaltungs- und Gerichtsverfahren in Umweltrecht geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
+description: "Für Umweltrechtliche Verwaltungs- und Gerichtsverfahren: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Umweltrechtliche Verwaltungs- und Gerichtsverfahren

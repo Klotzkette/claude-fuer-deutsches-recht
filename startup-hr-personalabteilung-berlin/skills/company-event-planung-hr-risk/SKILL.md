@@ -1,6 +1,6 @@
 ---
 name: company-event-planung-hr-risk
-description: "Wenn es um Company Event Planung HR Risk in Start-up-HR-Personalabteilung Berlin geht: entwickelt Verhandlungsziel, Vergleichskorridor und Eskalationspfad; liefert eine Verhandlungs- oder Eskalationslinie mit Optionen."
+description: "Für Company Event Planung HR Risk: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Company Event Planung HR Risk

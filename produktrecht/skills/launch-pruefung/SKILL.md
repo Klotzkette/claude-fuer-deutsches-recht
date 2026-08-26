@@ -1,6 +1,6 @@
 ---
 name: launch-pruefung
-description: "Wenn es um Produkt-Launch-Freigabeprüfung in Produkthaftung und Produktrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Produkt-Launch-Freigabeprüfung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Tatbestands- oder Anspruchsmatrix."
 ---
 
 # Produkt-Launch-Freigabeprüfung

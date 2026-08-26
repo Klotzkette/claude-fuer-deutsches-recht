@@ -1,6 +1,6 @@
 ---
 name: faevvollzug-neu-004-vollstreckung-unterlassungsverfuegung
-description: "Wenn es um Faevvollzug Neu 004 Vollstreckung Unterlassungsverfuegung in Fachanwalt Gewerblicher Rechtsschutz geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Faevvollzug Neu 004 Vollstreckung Unterlassungsverfügung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Schnittstellenkarte mit Zuständigkeits- und Nachweisfragen."
 ---
 
 # Fachanwalt Gewerblicher Rechtsschutz: Vollstreckung aus Unterlassungsverfügung Ordnungsmittel

@@ -1,6 +1,6 @@
 ---
 name: baurecht-zerlegen-akteneinsicht-schreiben
-description: "Wenn es um Baurecht Tatbestand Zerlegen in Ordnungswidrigkeitenrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Baurecht Tatbestand Zerlegen: ordnet Akte, Belege und Lücken; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Baurecht Tatbestand Zerlegen

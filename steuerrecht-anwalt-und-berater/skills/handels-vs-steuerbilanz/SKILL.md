@@ -1,6 +1,6 @@
 ---
 name: handels-vs-steuerbilanz
-description: "Wenn es um Massgeblichkeit Handelsbilanz zur Steuerbilanz — Paragraf 5 EStG und Abweichungen in Steuerrecht – Steuerberater und Anwälte geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Massgeblichkeit Handelsbilanz zur Steuerbilanz — Paragraf 5 EStG und Abweichungen: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Schnittstellenkarte mit Zuständigkeits- und Nachweisfragen."
 ---
 
 # Massgeblichkeit Handelsbilanz zur Steuerbilanz — § 5 EStG und Abweichungen

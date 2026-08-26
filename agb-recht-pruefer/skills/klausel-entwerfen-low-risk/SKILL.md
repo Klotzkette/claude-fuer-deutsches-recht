@@ -1,6 +1,6 @@
 ---
 name: klausel-entwerfen-low-risk
-description: "Wenn es um Klausel Entwerfen Low Risk in AGB-Recht-Prüfer geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Dokumentenmatrix mit Nachforderungsliste."
+description: "Für Klausel Entwerfen Low Risk: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Klausel Entwerfen Low Risk

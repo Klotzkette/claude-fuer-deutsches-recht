@@ -1,6 +1,6 @@
 ---
 name: strafrecht-spezial-schwerer-raub-250-stgb
-description: "Wenn es um Schwerer Raub nach Paragraf 250 Abs in Fachanwalt Strafrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Schwerer Raub nach Paragraf 250 Abs: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Schwerer Raub nach § 250 Abs

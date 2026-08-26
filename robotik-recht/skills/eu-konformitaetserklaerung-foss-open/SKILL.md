@@ -1,6 +1,6 @@
 ---
 name: eu-konformitaetserklaerung-foss-open
-description: "Wenn es um EU-Konformitäts- und Einbauerklärung in robotik-recht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. Auswahlstichwort: EU Konformitaetserklaerung Foss Open; Arbeitsfeld: robotik-recht."
+description: "Für EU-Konformitäts- und Einbauerklärung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Schnittstellenkarte mit Zuständigkeits- und Nachweisfragen. Fachgebiet: robotik-recht. Route: eu-konformitaetserklaerung-foss-open."
 ---
 
 # EU-Konformitäts- und Einbauerklärung

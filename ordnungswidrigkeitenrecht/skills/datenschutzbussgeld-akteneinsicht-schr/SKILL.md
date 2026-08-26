@@ -1,6 +1,6 @@
 ---
 name: datenschutzbussgeld-akteneinsicht-schr
-description: "Wenn es um Datenschutzbussgeld Akteneinsicht Schr in Ordnungswidrigkeitenrecht geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
+description: "Für Datenschutzbussgeld Akteneinsicht Schr: ordnet Akte, Belege und Lücken; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Datenschutzbussgeld Akteneinsicht Schr

@@ -1,6 +1,6 @@
 ---
 name: treuwidrige-anfechtung-unterlassung-mediation
-description: "Wenn es um Treuwidrige Anfechtung in Gesellschaftsrechtliche Treuepflicht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen."
+description: "Für Treuwidrige Anfechtung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Schnittstellenkarte mit Zuständigkeits- und Nachweisfragen."
 ---
 
 # Treuwidrige Anfechtung

@@ -1,6 +1,6 @@
 ---
 name: review-engagement-rotation-cooling
-description: "Wenn es um Review Engagement Rotation Cooling in Berufsrecht Wirtschaftsprüfer geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Review Engagement Rotation Cooling: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Wirtschaftsprüfer: review engagement abgrenzung - Organisationspflichten, Prävention, Team-Anweisung und Fristenkontrolle

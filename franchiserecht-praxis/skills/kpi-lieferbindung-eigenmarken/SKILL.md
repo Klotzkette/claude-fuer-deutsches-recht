@@ -1,6 +1,6 @@
 ---
 name: kpi-lieferbindung-eigenmarken
-description: "Wenn es um Franchise: KPI-Audit und Kündigungsreife in Franchiserecht Praxis geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Chronologie mit Belegmatrix und Widerspruchsliste."
+description: "Für Franchise: KPI-Audit und Kündigungsreife: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Franchise: KPI-Audit und Kündigungsreife

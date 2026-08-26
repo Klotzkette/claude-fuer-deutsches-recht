@@ -1,6 +1,6 @@
 ---
 name: chn-045-tooling-and-molds-ownership
-description: "Wenn es um Tooling And Molds Ownership in China-Wirtschaftsverkehr geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Tooling And Molds Ownership: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Tooling And Molds Ownership

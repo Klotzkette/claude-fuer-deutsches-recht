@@ -1,6 +1,6 @@
 ---
 name: link-haftung-paragraf-7-tmg
-description: "Prüft Linkhaftung nach Urheberrecht, DDG und DSA. Trennt eigene öffentliche Wiedergabe des Linksetzers von der beschränkten Verantwortlichkeit eines Vermittlungsdienstes, gewichtet Gewinnerzielungsabsicht und Kenntnis, sichert Hinweis und Reaktion und liefert Abmahnungs-, Verteidigungs- oder Entfernungstext."
+description: "Für Linkhaftung nach Urheberrecht, DDG und DSA: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Linkhaftung nach Urheberrecht, DDG und DSA

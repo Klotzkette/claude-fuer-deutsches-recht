@@ -1,6 +1,6 @@
 ---
 name: ihk-und-berufsgenossenschaft
-description: "Wenn es um IHK und Berufsgenossenschaft in gesellschaftsgründer — Gründungsassistent für deutsche geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für IHK und Berufsgenossenschaft: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # IHK und Berufsgenossenschaft

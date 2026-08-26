@@ -1,6 +1,6 @@
 ---
 name: encrochat-sky-ecc-anom-beweiswert
-description: "Wenn es um EncroChat, Sky ECC und ANOM: Beweiswert und Verwertungsangriff in Staatsanwaltschaft Praxis-Einstieg geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Beweislast- und Substantiierungsmatrix."
+description: "Für EncroChat, Sky ECC und ANOM: Beweiswert und Verwertungsangriff: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Beweislast- und Substantiierungsmatrix."
 ---
 
 # EncroChat, Sky ECC und ANOM: Beweiswert und Verwertungsangriff

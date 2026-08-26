@@ -1,6 +1,6 @@
 ---
 name: tia-zusaetzliche-schutzmassnahmen-encryption
-description: "Wenn es um Zusaetzliche Schutzmassnahmen für das TIA (Schritt 4 EDPB-Roadmap) in Datenschutzrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Zusätzliche Schutzmassnahmen für das TIA (Schritt 4 EDPB-Roadmap): ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Zusaetzliche Schutzmassnahmen für das TIA (Schritt 4 EDPB-Roadmap)

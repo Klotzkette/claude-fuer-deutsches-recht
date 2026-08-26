@@ -1,6 +1,6 @@
 ---
 name: vertragsredline
-description: "Wenn es um Vertragsredline für den Handelsvertretervertrag nach Paragrafen 84–92c HGB in Handelsvertreterrecht und Vertriebsverträge geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Vertragsredline für den Handelsvertretervertrag nach Paragrafen 84–92c HGB: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Vertragsredline für den Handelsvertretervertrag nach §§ 84–92c HGB

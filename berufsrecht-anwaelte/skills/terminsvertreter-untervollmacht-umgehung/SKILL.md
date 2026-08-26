@@ -1,6 +1,6 @@
 ---
 name: terminsvertreter-untervollmacht-umgehung
-description: "Wenn es um Terminsvertreter Untervollmacht Umgehung in Berufsrecht Anwälte geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Terminsvertreter Untervollmacht Umgehung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Anwälte: terminsvertreter und untervollmacht - Organisationspflichten, Prävention, Team-Anweisung und Fristenkontrolle

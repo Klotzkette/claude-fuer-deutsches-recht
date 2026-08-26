@@ -1,6 +1,6 @@
 ---
 name: geldwaesche-datenqualitaet-register
-description: "Wenn es um Datenqualität, Register und Screening-Tools in Geldwäscheprävention, AML und KYC geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Datenqualität, Register und Screening-Tools: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Gegenprüfung mit Beweis- und Fristencheck."
 ---
 
 # Datenqualität, Register und Screening-Tools

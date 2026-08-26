@@ -1,6 +1,6 @@
 ---
 name: methodenlehre-reihenfolge-bausteine-schriftsatz-brief-memo
-description: "Wenn es um Reihenfolge und Bausteine für Schriftsatz, Brief und Memo in Methodenlehre bürgerliches Recht geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
+description: "Für Reihenfolge und Bausteine für Schriftsatz, Brief und Memo: erstellt Entwurf mit Antrag, Beweis und Anlagen; Ergebnis: Schriftsatz mit Begründungs- und Anlagenlogik."
 ---
 
 # Reihenfolge und Bausteine für Schriftsatz, Brief und Memo

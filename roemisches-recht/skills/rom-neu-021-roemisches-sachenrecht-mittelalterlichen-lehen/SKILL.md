@@ -1,6 +1,6 @@
 ---
 name: rom-neu-021-roemisches-sachenrecht-mittelalterlichen-lehen
-description: "Wenn es um Römisches Recht: Römisches Sachenrecht im mittelalterlichen Lehnskontext in Römisches Recht geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Römisches Recht: Römisches Sachenrecht im mittelalterlichen Lehnskontext: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Schnittstellenkarte mit Zuständigkeits- und Nachweisfragen."
 ---
 
 # Römisches Recht: Römisches Sachenrecht im mittelalterlichen Lehnskontext

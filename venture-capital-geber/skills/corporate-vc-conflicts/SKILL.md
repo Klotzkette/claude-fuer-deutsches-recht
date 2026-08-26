@@ -1,6 +1,6 @@
 ---
 name: corporate-vc-conflicts
-description: "Wenn es um Corporate VC und Konflikte in Venture Capital Geber geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Corporate VC und Konflikte: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Corporate VC und Konflikte

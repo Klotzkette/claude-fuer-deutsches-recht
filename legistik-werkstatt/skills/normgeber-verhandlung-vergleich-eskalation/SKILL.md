@@ -1,6 +1,6 @@
 ---
 name: normgeber-verhandlung-vergleich-eskalation
-description: "Wenn es um Normgeber: Verhandlung, Vergleich und Eskalation in Legistik-Werkstatt geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Normgeber: Verhandlung, Vergleich und Eskalation: entwickelt Ziel, Vergleich und Eskalation; Ergebnis: Verhandlungs- oder Eskalationslinie. Fachgebiet: Legistik-Werkstatt. Route: normgeber-verhandlung-vergleich-eskalation."
 ---
 
 # Normgeber: Verhandlung, Vergleich und Eskalation

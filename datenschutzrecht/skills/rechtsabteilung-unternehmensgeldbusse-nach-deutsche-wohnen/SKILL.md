@@ -1,6 +1,6 @@
 ---
 name: rechtsabteilung-unternehmensgeldbusse-nach-deutsche-wohnen
-description: "Wenn es um Rechtsabteilung Unternehmensgeldbusse Nach Deutsche Wohnen in Datenschutzrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Rechtsabteilung Unternehmensgeldbusse nach Deutsche Wohnen: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Schnittstellenkarte mit Zuständigkeits- und Nachweisfragen."
 ---
 
 # Rechtsabteilungs-Fachmodul für Unternehmensgeldbuße nach Deutsche Wohnen: Rechtsabteilungen verteidigen Bußgelder ohne die falsche Fixierung auf eine identifizierte natürliche Täterperson

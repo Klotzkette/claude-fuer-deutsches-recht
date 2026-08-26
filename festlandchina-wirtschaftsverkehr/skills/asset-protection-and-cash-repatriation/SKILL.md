@@ -1,6 +1,6 @@
 ---
 name: asset-protection-and-cash-repatriation
-description: "Wenn es um Vermögensschutz und Cash-Repatriierung China: SAFE und Steuern in China-Wirtschaftsverkehr geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Vermögensschutz und Cash-Repatriierung China: SAFE und Steuern: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Vermögensschutz und Cash-Repatriierung China: SAFE und Steuern

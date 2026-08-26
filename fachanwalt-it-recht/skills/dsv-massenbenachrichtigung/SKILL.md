@@ -1,6 +1,6 @@
 ---
 name: dsv-massenbenachrichtigung
-description: "Wenn es um Steuert die Massenbenachrichtigung tausender oder Millionen Betroffener nach Art in Fachanwalt It Recht geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
+description: "Für Steuert die Massenbenachrichtigung tausender oder Millionen Betroffener nach Art: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Steuert die Massenbenachrichtigung tausender oder Millionen Betroffener nach Art

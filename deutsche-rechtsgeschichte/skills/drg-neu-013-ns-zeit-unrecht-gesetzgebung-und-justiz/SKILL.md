@@ -1,6 +1,6 @@
 ---
 name: drg-neu-013-ns-zeit-unrecht-gesetzgebung-und-justiz
-description: "Wenn es um Deutsche Rechtsgeschichte: NS-Zeit Unrecht Gesetzgebung und Justiz in Deutsche Rechtsgeschichte geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Deutsche Rechtsgeschichte: NS-Zeit Unrecht Gesetzgebung und Justiz: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Schnittstellenkarte mit Zuständigkeits- und Nachweisfragen."
 ---
 
 # Deutsche Rechtsgeschichte: NS-Zeit Unrecht Gesetzgebung und Justiz

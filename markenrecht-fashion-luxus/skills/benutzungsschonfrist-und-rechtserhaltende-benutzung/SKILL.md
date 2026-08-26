@@ -1,6 +1,6 @@
 ---
 name: benutzungsschonfrist-und-rechtserhaltende-benutzung
-description: "Wenn es um Rechtserhaltende Benutzung in markenrecht-fashion-luxus geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Rechtserhaltende Benutzung: prüft Frist, Form, Zuständigkeit und Eilbedarf; Ergebnis: Fristen- und Risikoampel."
 ---
 
 # Rechtserhaltende Benutzung

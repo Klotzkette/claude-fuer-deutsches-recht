@@ -2,25 +2,25 @@
 
 ## Zusammensetzung
 
-Diese Vollprüfung enthält top-15 von 59 Skills des Plugins `insolvenzplan-starug-planwerkstatt`.
+Diese Vollprüfung enthält top-15 von 58 Skills des Plugins `insolvenzplan-starug-planwerkstatt`.
 
 ## Inhaltsverzeichnis
 
 1. **juristischer-argumentationskern** — Schaltet sich ein, wenn in Insolvenzplan StaRUG Planwerkstatt ein juristisches Arbeitsprodukt tragfähig begründet werden…
-2. **einstieg-routing** — Wenn es um Einstieg und Routing in Insolvenzplan- und StaRUG-Planwerkstatt geht: klärt Rolle, Ziel, Frist, Unterlagen un…
-3. **gruppen-schriftsatz-brief-und-memo-bausteine** — Wenn es um Gruppen: Schriftsatz-, Brief- und Memo-Bausteine in Insolvenzplan- und StaRUG-Planwerkstatt geht: erstellt de…
-4. **sanierungskonzept-starug-spezial-teil** — Wenn es um Sanierungskonzept: Risikoampel, Gegenargumente und Verteidigungslinien in Insolvenzplan- und StaRUG-Planwerks…
-5. **teil-compliance-dokumentation-und-akte** — Wenn es um Teil: Compliance-Dokumentation und Aktenvermerk in Insolvenzplan- und StaRUG-Planwerkstatt geht: ordnet Akten…
-6. **gestaltender-zahlen-schwellen-und-berechnung** — Wenn es um Gestaltender: Zahlen, Schwellenwerte und Berechnung in Insolvenzplan- und StaRUG-Planwerkstatt geht: rechnet …
-7. **sanierungsmoderation-94-starug** — Wenn es um Sanierungsmoderation Paragraf 94 StaRUG in Insolvenzplan- und StaRUG-Planwerkstatt geht: erstellt den passend…
-8. **vergleichsrechnung-behoerden-gericht-und-registerweg** — Wenn es um Vergleichsrechnung Behoerden Gericht Und Registerweg in Insolvenzplan- und StaRUG-Planwerkstatt geht: entwick…
-9. **restrukturierungsplan-fristen-form-und-zustaendigkeit** — Wenn es um Restrukturierungsplan: Fristen, Form, Zuständigkeit und Rechtsweg in Insolvenzplan- und StaRUG-Planwerkstatt …
-10. **anschluss-routing** — Wenn es um Anschluss-Routing in Insolvenzplan- und StaRUG-Planwerkstatt geht: klärt Rolle, Ziel, Frist, Unterlagen und d…
-11. **insolvenzplan-intake-klassen** — Wenn es um Insolvenzplan: Erstprüfung, Rollenklärung und Mandatsziel in Insolvenzplan- und StaRUG-Planwerkstatt geht: pr…
-12. **spezial-vergleichsrechnung-behoerden-gericht-und-registerweg** — Wenn es um Vergleichsrechnung: Behörden-, Gerichts- oder Registerweg in Insolvenzplan- und StaRUG-Planwerkstatt geht: pr…
-13. **inso-starug-planwerkstatt-start-chronologie-fristen** — Wenn es um Insolvenzplan und StaRUG-Planwerkstatt — Allgemein in Insolvenzplan- und StaRUG-Planwerkstatt geht: prüft Fri…
-14. **verfahrenswahl-restrukturierungsplan** — Wenn es um Verfahrenswahl und Routenentscheidung in Insolvenzplan- und StaRUG-Planwerkstatt geht: rechnet Schwellen, Bet…
-15. **klassen-verhandlung-vergleich-und-eskalation** — Wenn es um Klassen: Verhandlung, Vergleich und Eskalation in Insolvenzplan- und StaRUG-Planwerkstatt geht: entwickelt Ve…
+2. **einstieg-routing** — Für Einstieg und Routing: routet Rolle, Frist, Unterlagen und Fachschritt; Ergebnis: Prüfprodukt mit Risiko und nächstem…
+3. **workflow-kaltstart-und-routing** — Für Kaltstart und Routing: routet Rolle, Frist, Unterlagen und Fachschritt; Ergebnis: Prüfprodukt mit Risiko und nächste…
+4. **kaltstart-interview** — Für Kaltstart-Interview: routet Rolle, Frist, Unterlagen und Fachschritt; Ergebnis: Prüfprodukt mit Risiko und nächstem …
+5. **anschluss-routing** — Für Anschluss-Routing: routet Rolle, Frist, Unterlagen und Fachschritt; Ergebnis: Prüfprodukt mit Risiko und nächstem Sc…
+6. **quellen-livecheck** — Für Rechtsquellen-Livecheck: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Sc…
+7. **minderheitenschutz-planbetroffene** — Für Minderheitenschutz: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt…
+8. **workflow-chronologie-und-belegmatrix** — Für Chronologie und Belegmatrix: ordnet Akte, Belege und Lücken; Ergebnis: Chronologie mit Beleg- und Widerspruchsmatrix…
+9. **sanierungskonzept-starug-spezial-teil** — Für Sanierungskonzept: Risikoampel, Gegenargumente und Verteidigungslinien: ordnet Norm, Beweislast und Gegenargument; E…
+10. **output-waehlen** — Für Output wählen: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt. Fac…
+11. **workflow-unterlagen-lueckenliste** — Für Unterlagen- und Lückenliste: ordnet Akte, Belege und Lücken; Ergebnis: Dokumentenmatrix mit Nachforderungsliste. Fac…
+12. **workflow-fristen-und-risikoampel** — Für Fristen- und Risikoampel: prüft Frist, Form, Zuständigkeit und Eilbedarf; Ergebnis: Fristen- und Risikoampel. Fachge…
+13. **unterlagen-luecken** — Für Unterlagen und Lücken: ordnet Akte, Belege und Lücken; Ergebnis: Dokumentenmatrix mit Nachforderungsliste. Fachgebie…
+14. **dokumente-intake** — Für Dokumentenintake: ordnet Akte, Belege und Lücken; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt. Fachgebiet:…
+15. **gestaltender-zahlen-schwellen-und-berechnung** — Für Gestaltender: Zahlen, Schwellenwerte und Berechnung: rechnet Beträge, Schwellen und Varianten; Ergebnis: Berechnungs…
 
 ---
 
@@ -144,7 +144,7 @@ Ausgangspunkt für dieses Plugin: Verwalter oder Anspruchsteller für Insolvenzr
 
 ## Skill: `einstieg-routing`
 
-_Wenn es um Einstieg und Routing in Insolvenzplan- und StaRUG-Planwerkstatt geht: klärt Rolle, Ziel, Frist, Unterlagen und den passenden nächsten Fachskill; liefert eine Fristen- und Risikoampel mit Sofortschritten._
+_Für Einstieg und Routing: routet Rolle, Frist, Unterlagen und Fachschritt; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt. Fachgebiet: Insolvenzplan- und StaRUG-Planwerkstatt._
 
 # Einstieg und Routing
 
@@ -186,11 +186,245 @@ Dieser Einstieg routet **Insolvenzplan Starug Planwerkstatt** vom ersten Sachver
 
 ---
 
-## Skill: `gruppen-schriftsatz-brief-und-memo-bausteine`
+## Skill: `workflow-kaltstart-und-routing`
 
-_Wenn es um Gruppen: Schriftsatz-, Brief- und Memo-Bausteine in Insolvenzplan- und StaRUG-Planwerkstatt geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik._
+_Für Kaltstart und Routing: routet Rolle, Frist, Unterlagen und Fachschritt; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt. Fachgebiet: Insolvenzplan- und StaRUG-Planwerkstatt._
 
-# Gruppen: Schriftsatz-, Brief- und Memo-Bausteine
+# Kaltstart und Routing
+
+## Aufgabe
+Nutze diesen Workflow-Skill für Kaltstart und Routing: führt vom ersten Satz oder Dokument in den passenden Arbeitsweg, erkennt Rolle, Ziel, Risiko und Anschluss-Skills.
+
+## Kaltstart
+Wenn Material vorliegt, arbeite zuerst mit dem Material. Stelle nur Rückfragen, die für die nächste Weiche nötig sind:
+
+1. Wer fragt in welcher Rolle?
+2. Was ist das gewünschte Ergebnis?
+3. Gibt es Fristen, Termine, Zustellungen, Zahlungen oder Sanktionen?
+4. Welche Unterlagen, Daten oder Belege liegen bereits vor?
+
+## Arbeitsworkflow
+1. Rolle, Ziel, Frist und Unterlagenlage in höchstens fünf Fragen klären.
+2. Bestehende Dokumente zuerst auswerten; Rückfragen nur dort stellen, wo sie die Entscheidung ändern.
+3. Passende Spezialskills aus diesem Plugin vorschlagen und begründen.
+4. Ein sofort nutzbares Ergebnis erzeugen: Ampel, Plan, Brief, Tabelle, Checkliste oder Memo.
+
+## Output-Standard
+- Kurzbild: worum es geht, was gesichert ist, was offen ist.
+- Prüf- oder Bearbeitungsmatrix mit den entscheidenden Punkten.
+- Konkreter nächster Schritt mit Frist, Zuständigkeit und Unterlagen.
+- Bei Außenkommunikation: knapper, sachlicher Textbaustein ohne unnötige Nebenangaben.
+
+## Quellenregel
+- Aktuelle Normen, Behördenhinweise, Gerichtsseiten, Register, Formulare und EU-/Landesrecht live prüfen, wenn sie für das Ergebnis tragend sind.
+- Rechtsprechung nur mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle ausgeben.
+- Keine BeckRS-, juris-, Kommentar-, Handbuch- oder Aufsatz-Blindzitate aus Modellwissen.
+- Unsicherheiten und Annahmen ausdrücklich markieren.
+
+## Routing-Weichen Insolvenzplan vs. StaRUG-Plan
+- **Welches Verfahren?**
+  - Insolvenzplan §§ 217 ff. InsO: voraussetzungslos Eröffnungsgrund (§§ 17, 18, 19 InsO) plus eröffnetes Verfahren (Regel oder Eigenverwaltung).
+  - StaRUG-Restrukturierungsplan §§ 4 ff. StaRUG: nur bei drohender Zahlungsunfähigkeit § 18 InsO (24-Monats-Prognose). Eintritt der Zahlungsunfähigkeit § 17 InsO oder Überschuldung § 19 InsO blockt StaRUG.
+- **Wer initiiert?**
+  - Insolvenzplan: Schuldner (§ 218 Abs. 1 InsO) oder Verwalter (Auftrag durch Gläubigerversammlung § 157 InsO).
+  - StaRUG: ausschließlich Schuldner (§ 31 StaRUG, Anzeige beim Restrukturierungsgericht).
+- **Eingriffstiefe?**
+  - Insolvenzplan: alle Forderungen außer Aussonderungsrechten; Kapitalmaßnahmen § 225a InsO (Debt-to-Equity).
+  - StaRUG: nur gestaltbare Forderungen; persönliche Ansprüche von Arbeitnehmern, Steuer- und Sozialversicherungsforderungen sind tendenziell ausgeschlossen (§ 4 StaRUG, Ausnahmen prüfen).
+- **Mehrheiten:**
+  - Insolvenzplan § 244 InsO: 50 Prozent Kopf- und Summenmehrheit je Gruppe; Obstruktionsverbot § 245 InsO.
+  - StaRUG § 25 StaRUG: 75 Prozent Summenmehrheit je Gruppe; Cross-Class Cram-Down §§ 26–28 StaRUG.
+- **Abstimmungsweg:**
+  - Insolvenzplan: Erörterungs- und Abstimmungstermin § 235 InsO.
+  - StaRUG: gerichtliche Planabstimmung § 23 StaRUG oder außergerichtlich.
+
+## Eilige Trigger
+- Drohende ZU + Gestaltungsbedarf → StaRUG-Anzeige sofort prüfen (§ 31 StaRUG Stabilisierungsanordnung § 49 StaRUG).
+- Bereits insolvenzreif → Antragspflicht § 15a InsO vorgehend; ggf. Eigenverwaltung mit Insolvenzplan.
+
+---
+
+## Skill: `kaltstart-interview`
+
+_Für Kaltstart-Interview: routet Rolle, Frist, Unterlagen und Fachschritt; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt. Fachgebiet: Insolvenzplan- und StaRUG-Planwerkstatt._
+
+# Kaltstart-Interview
+
+## Direktstart: lesen, entscheiden, liefern
+
+Beginne nicht mit einem Fragenkatalog. Wenn Material vorliegt, lies es zuerst und starte mit einer verwertbaren Arbeitshypothese:
+
+- Frist oder Sofortrisiko.
+- erkannte Rolle, Zielrichtung und Verfahrensstand.
+- tragende Tatsachen aus dem Material.
+- bester nächster Arbeitsschritt mit direkt nutzbarem Output.
+
+Frage höchstens zwei Punkte nach, und nur wenn ohne diese Antwort der nächste Schritt falsch oder riskant würde. Fehlt Material vollständig, verlange nicht allgemein alle Unterlagen, sondern nenne die drei wichtigsten Dokumente und arbeite mit sichtbaren Annahmen weiter.
+
+Starte mit einem Arbeitsprodukt, nicht mit einer Inventarliste: Kurzvermerk, Fristenblatt, Prüfmatrix, Entwurf, Fragenliste oder Entscheidungsvorschlag. Routing ist nur Mittel zum Zweck. Wenn ein Fachskill eindeutig passt, arbeite unmittelbar in dessen Richtung weiter.
+
+Arbeitsmodus: Liefere zuerst einen nutzbaren Zwischenstand in höchstens sieben Sätzen und dann den nächsten konkreten Schritt. Frage nur nach, wenn Frist, Zuständigkeit, Beweis, Betrag oder Rechtsfolge sonst nicht belastbar bestimmbar sind. Tabellen nur für Fristen, Belege, Beträge, Varianten oder Streitstoff.
+
+## Fachlicher Kern — Insolvenz- und Sanierungsrecht
+- **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `Kaltstart-Interview` und löse die dort angelegte Fachfrage; arbeite mit konkreten Tatbestandsmerkmalen, Beweisfragen und dem unmittelbar benötigten Arbeitsprodukt. Routingfragen bleiben Hilfsmittel, wenn Frist, Zuständigkeit oder Verfahrensart offen sind.
+- **Arbeitsmodus:** Zuerst Insolvenzgrund, Frist, Organpflicht, Verfahrensstand, Sicherheiten, Massebezug und Anfechtungszeitraum klären; dann Sanierungsfähigkeit, Plan/StaRUG, Haftung und Dokumentationsschutz.
+- **Outputpflicht:** Krisenzeitachse, Liquiditätsstatus, Anfechtungsmatrix, Sicherheitenradar, IDW-S6-/Sanierungscheck, Register-/Grundbuch-Nachweispaket oder Schriftsatzbaustein.
+- **Fehlerbremse:** Tragende Normen/Entscheidungen live oder aus der Akte verifizieren; Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei prüfbarer Quelle. Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen.
+
+## Startet bei
+
+- neuem Planmandat oder Sanierungsprojekt
+- unvollständiger Datenlage
+- Vorbereitung von Insolvenzplan, Eigenverwaltung, Schutzschirm oder StaRUG
+- Prüfung eines vorhandenen Planentwurfs
+
+## Geführter Workflow
+
+1. Basisdaten aufnehmen: Firma, Rechtsform, Register, Standort, Branche, Organmitglieder, Berater, Gericht und Aktenzeichen.
+2. Krise erzählen lassen: Auslöser, Liquiditätslücke, Verlustquellen, Vertragsdruck, Finanzierung und operative Engpässe.
+3. Gläubigerlandschaft erfassen: Banken, Lieferanten, Vermieter, Finanzamt, Sozialversicherung, Arbeitnehmer, Gesellschafter, Sicherheiten.
+4. Unklare Antworten tolerieren, aber als Annahme, Rückfrage oder Prüfpunkt markieren.
+
+## Ausgabe
+
+- Interviewprotokoll
+- Fehlende Unterlagen
+- Annahmenregister
+- Erste Planhypothese
+
+<!-- BEGIN ausformulierungspflicht (autogen) -->
+> **Ausformulierungspflicht und Formatstandard.** Das Endprodukt wird in **vollständigen, ausformulierten Sätzen** geliefert — keine Stichwortskelette, keine leeren Klauselrümpfe, keine reinen Aufzählungen. Klauseln stehen als ausformulierte Rechtsfolgen-Sätze; Platzhalter wie `[Name der Mandantin]` werden klar markiert, der umgebende Text bleibt vollständig.
+>
+> **Schriftbild:** Wenn ein Schriftsatz, Vertrag, Memo, Beschluss, Vermerk oder sonstiges Enddokument als DOCX, PDF oder formatierter Text ausgegeben wird, ist **Times New Roman 11 pt** als Grundschrift zu verwenden. Überschriften bleiben in derselben Schrift und dürfen nur fett oder abgestuft sein. Bei reiner Markdown- oder Chat-Ausgabe wird dieser Formatwunsch als Exporthinweis aufgenommen.
+>
+> **Nummerierung:** Gliederung ausschließlich dezimal (`1`, `1.1`, `1.1.1` und so weiter). Keine römischen Ziffern, keine Buchstaben- oder Mischgliederung.
+<!-- END ausformulierungspflicht (autogen) -->
+
+## Qualitätsgates
+
+- Keine Rechtswirkung ohne genaue Betroffenengruppe, Betrag, Zeitpunkt und Beleg.
+- Vergleichsrechnung, Planrechnung und Sanierungskonzept müssen zueinander passen.
+- Annahmen, Schätzungen und fehlende Quellen werden sichtbar markiert.
+- Berufsgeheimnis, Datenschutz, Geschäftsgeheimnisse und gerichtliche Fristen bleiben vorrangig.
+
+## Rückfragen
+
+Wenn Angaben fehlen, stelle höchstens acht konkrete Fragen und gruppiere sie nach Zahlen, Recht, Stakeholdern und Verfahren. Bei Eilfällen liefere zuerst eine Minimalroute mit Stoppern.
+
+## Arbeitsstil
+
+Freundlich, ruhig, präzise und planarchitektonisch. Der Skill erklärt, warum eine Information wichtig ist, und macht aus unsortiertem Material einen belastbaren nächsten Arbeitsschritt.
+
+## Paragrafenkette (Insolvenzplan / StaRUG)
+
+Paragraf 217 InsO (Planoption) → Paragraf 218 InsO (Planvorlage) → Paragrafen 220 und 221 InsO (darstellender und gestaltender Teil) → Paragraf 222 InsO (Gruppen) → Paragrafen 235 bis 244 InsO (Abstimmung) → Paragraf 245 InsO (gruppenübergreifende Mehrheitsentscheidung) → Paragraf 248 InsO (Bestätigung) → Paragraf 254 InsO (Wirkung) → Paragrafen 2 bis 28 StaRUG (Planreichweite, Inhalt und Annahme) → Paragraf 25 StaRUG (Mehrheiten) → Paragraf 26 StaRUG (gruppenübergreifende Mehrheitsentscheidung)
+
+## Triage — Plan-Vorarbeiten
+
+Bevor losgelegt wird, klaere:
+1. **Verfahrensart?** Insolvenzplan nach Paragrafen 217 ff. InsO oder StaRUG-Restrukturierungsplan nach Paragrafen 2 bis 28 StaRUG?
+2. **Klassenbildung schluessig?** Paragraf 222 InsO und Paragraf 9 StaRUG — Rechtsstellung und sachgerechte wirtschaftliche Interessen; Gleichbehandlung im StaRUG zusätzlich nach Paragraf 10 StaRUG.
+3. **Mehrheits-Simulation?** Ist 75%-Schwelle (StaRUG) oder 50%+50% (InsO) realistisch?
+4. **Vergleichsrechnung?** Liquidationswert als Referenz für Best-Interest-Test berechnen.
+5. **Cramdown-Szenario?** Welche Klasse koennte ablehnen und ist Obstruktionsverbot anwendbar?
+
+> Quellenregel: Entscheidungen nur nach Prüfung einer amtlichen oder frei zugänglichen Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage ausgeben.
+
+---
+
+## Skill: `anschluss-routing`
+
+_Für Anschluss-Routing: routet Rolle, Frist, Unterlagen und Fachschritt; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt. Fachgebiet: Insolvenzplan- und StaRUG-Planwerkstatt._
+
+# Anschluss-Routing
+
+## Einsatzlage
+
+Dieses Anschluss-Routing für **Insolvenzplan Starug Planwerkstatt** wählt nach dem ersten Ergebnis die passende Vertiefung, Eskalation, Fristensicherung oder Dokumentenerstellung.
+
+## Fachlandkarte dieses Plugins
+
+- `abstimmung-anlagen-interessen-cram` — Abstimmung Anlagen Interessen Cram
+- `abstimmung-mehrheiten-anlagenpaket` — Abstimmung Mehrheiten Anlagenpaket
+- `anlagen-mehrparteien-konflikt-und-interessen` — Anlagen Mehrparteien Konflikt und Interessen
+- `anlagenpaket` — Anlagenpaket
+- `asset-deals-im-plan-grundstuecke-marken-kundendaten` — Asset Deals im Plan Grundstuecke Marken Kundendaten
+- `cram-formular-portal-und-einreichung` — Cram Formular Portal und Einreichung
+- `cramdown-obstruktion-datenraum-register` — Cramdown Obstruktion Datenraum Register
+- `darstellender-quellenkarte` — Darstellender Quellenkarte
+- `darstellender-teil` — Darstellender Teil
+- `datenraum-register` — Datenraum Register
+- `down-red-gestaltender-gruppen` — Down RED Gestaltender Gruppen
+- `gerichtliche-schritte-kommandocenter` — Gerichtliche Schritte Kommandocenter
+- `gestaltender-teil` — Gestaltender Teil
+- `dokumente-intake` — Dokumente Intake
+- `einstieg-routing` — Einstieg Routing
+
+## Arbeitsweg
+
+- Ergebnis sichten: Welche Insolvenzplan Starug Planwerkstatt-Fragen sind nach diesem Skill beantwortet, welche bleiben offen oder neu entstehen?
+- Anschlussweichen identifizieren: drohende Frist (die im Fachgebiet einschlägigen Verfahrens- und materiellen Fristen pflichtmäßig vorab markieren und nicht aus Modellwissen finalisieren), notwendige Dokumente (Vertragsurkunden, Schriftsätze, Verwaltungsakte, Protokolle, Bescheide und externe Beweismittel des Fachgebiets), nächste Verfahrensstufe oder Sachgebiet.
+- Konkreten Folge-Skill aus der Fachlandkarte oben benennen — nicht generisch "weitermachen", sondern Skill-Slug nennen.
+- Eskalation an Mandant, Gegner, zuständiges Gericht oder Behörde, etwaige Sachverständige oder beauftragte Stellen oder Spezialisten klären, wenn der Vorgang die Skill-Grenze überschreitet.
+- Mandantenkommunikation vorbereiten: Was muss der Mandant tun, bis wann, welche Unterlagen bringen, welche Risiken sind offen?
+
+## Qualitätsanker
+
+- Normen und Rechtsprechung nach `references/quellenhygiene.md` und `references/zitierweise.md` behandeln.
+- Wenn eine Spezialfrage sichtbar wird, den passenden Skill nennen und kurz erklären, warum genau dieser Arbeitsgang passt.
+- Bei Zeitdruck zuerst Frist, Zuständigkeit, Form und Beweislast sichern.
+
+---
+
+## Skill: `quellen-livecheck`
+
+_Für Rechtsquellen-Livecheck: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt. Fachgebiet: Insolvenzplan- und StaRUG-Planwerkstatt._
+
+# Rechtsquellen-Livecheck
+
+## Einsatzlage
+
+Dieser Quellen-Livecheck für **Insolvenzplan Starug Planwerkstatt** trennt amtliche Normfassung, frei prüfbare Rechtsprechung, Behördenhinweise, Formularstand und offene Aktualitätsrisiken.
+
+## Fachlandkarte dieses Plugins
+
+- `abstimmung-anlagen-interessen-cram` — Abstimmung Anlagen Interessen Cram
+- `abstimmung-mehrheiten-anlagenpaket` — Abstimmung Mehrheiten Anlagenpaket
+- `anlagen-mehrparteien-konflikt-und-interessen` — Anlagen Mehrparteien Konflikt und Interessen
+- `anlagenpaket` — Anlagenpaket
+- `asset-deals-im-plan-grundstuecke-marken-kundendaten` — Asset Deals im Plan Grundstuecke Marken Kundendaten
+- `cram-formular-portal-und-einreichung` — Cram Formular Portal und Einreichung
+- `cramdown-obstruktion-datenraum-register` — Cramdown Obstruktion Datenraum Register
+- `darstellender-quellenkarte` — Darstellender Quellenkarte
+- `darstellender-teil` — Darstellender Teil
+- `datenraum-register` — Datenraum Register
+- `down-red-gestaltender-gruppen` — Down RED Gestaltender Gruppen
+- `gerichtliche-schritte-kommandocenter` — Gerichtliche Schritte Kommandocenter
+- `gestaltender-teil` — Gestaltender Teil
+- `anschluss-routing` — Anschluss Routing
+- `dokumente-intake` — Dokumente Intake
+
+## Arbeitsweg
+
+- Tragende Normen (StaRUG) zuerst amtlich verifizieren: gesetze-im-internet.de oder spezialisiertes Bundesgesetzblatt-Portal; nicht aus Modellwissen finalisieren.
+- Rechtsprechung nur mit vollständiger Zitatkette: Gericht, Senat, Entscheidungsform, Datum, Aktenzeichen, Fundstelle (BGHZ/BVerfGE/amtl. Sammlung) und frei prüfbare Quelle (dejure.org, openJur, Pressemitteilungen des Gerichts, BGH-/BVerfG-Datenbank).
+- Paywall-Quellen (juris, beck-online) nicht als alleinige Verifikation nutzen; immer eine freie Bestätigung beilegen.
+- Dynamische Bereiche im Insolvenzplan Starug Planwerkstatt (Rechtsverordnungen, Verwaltungspraxis, Mietspiegel, Tarife) gesondert tagesaktuell prüfen, weil Modellwissen veraltet ist.
+- Quellenstand und offene Unsicherheit im Output sichtbar machen — kein Pseudo-Zitat ohne Live-Check.
+
+## Qualitätsanker
+
+- Normen und Rechtsprechung nach `references/quellenhygiene.md` und `references/zitierweise.md` behandeln.
+- Wenn eine Spezialfrage sichtbar wird, den passenden Skill nennen und kurz erklären, warum genau dieser Arbeitsgang passt.
+- Bei Zeitdruck zuerst Frist, Zuständigkeit, Form und Beweislast sichern.
+
+---
+
+## Skill: `minderheitenschutz-planbetroffene`
+
+_Für Minderheitenschutz: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt. Fachgebiet: Insolvenzplan- und StaRUG-Planwerkstatt._
+
+# Minderheitenschutz
 
 ## Arbeitsweg
 
@@ -201,49 +435,147 @@ _Wenn es um Gruppen: Schriftsatz-, Brief- und Memo-Bausteine in Insolvenzplan- u
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
 ## Fachlicher Kern — Insolvenz- und Sanierungsrecht
-- **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `Gruppen: Schriftsatz-, Brief- und Memo-Bausteine` und löse die dort angelegte Fachfrage; arbeite mit konkreten Tatbestandsmerkmalen, Beweisfragen und dem unmittelbar benötigten Arbeitsprodukt. Routingfragen bleiben Hilfsmittel, wenn Frist, Zuständigkeit oder Verfahrensart offen sind.
+- **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `Minderheitenschutz` und löse die dort angelegte Fachfrage; arbeite mit konkreten Tatbestandsmerkmalen, Beweisfragen und dem unmittelbar benötigten Arbeitsprodukt. Routingfragen bleiben Hilfsmittel, wenn Frist, Zuständigkeit oder Verfahrensart offen sind.
 - **Arbeitsmodus:** Zuerst Insolvenzgrund, Frist, Organpflicht, Verfahrensstand, Sicherheiten, Massebezug und Anfechtungszeitraum klären; dann Sanierungsfähigkeit, Plan/StaRUG, Haftung und Dokumentationsschutz.
 - **Outputpflicht:** Krisenzeitachse, Liquiditätsstatus, Anfechtungsmatrix, Sicherheitenradar, IDW-S6-/Sanierungscheck, Register-/Grundbuch-Nachweispaket oder Schriftsatzbaustein.
 - **Fehlerbremse:** Tragende Normen/Entscheidungen live oder aus der Akte verifizieren; Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei prüfbarer Quelle. Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen.
 
-## Spezialwissen: Gruppen: Schriftsatz-, Brief- und Memo-Bausteine
-- **Normen-/Quellenanker:** StaRUG.
+## Startet bei
 
-## Fallweichen
-Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur Rückfragen, die die nächste Weiche verändern:
+- neuem Planmandat oder Sanierungsprojekt
+- unvollständiger Datenlage
+- Vorbereitung von Insolvenzplan, Eigenverwaltung, Schutzschirm oder StaRUG
+- Prüfung eines vorhandenen Planentwurfs
 
-1. Welche Rolle hat die fragende Person und wer ist Gegenüber?
-2. Welches konkrete Ziel soll erreicht oder verhindert werden?
-3. Welche Frist, Zustellung, Schwelle, Zahlung, Sanktion oder Verfahrensstufe ist kritisch?
-4. Welche Dokumente, Registerauszüge, Bescheide, Verträge, Tabellen, Screenshots oder Nachrichten belegen den Punkt?
-5. Welcher Output wird gebraucht: Memo, Checkliste, Tabelle, Entwurf, Schriftsatzbaustein, Mandantenbrief oder Entscheidungsvorlage?
+## Geführter Workflow
 
-## Arbeitsworkflow
-1. **Fallbild bilden:** Sachverhalt, Rollen, Zeitachse und Dokumente in eine kurze Matrix bringen.
-2. **Rechtsrahmen setzen:** Normen, Zuständigkeiten, Fristen, Formfragen und Verfahrensstand zum Themenfeld **Gruppen** prüfen.
-3. **Prüfpunkte abarbeiten:** Tatbestandsmerkmale, Beweisfragen, typische Fehler, Gegenargumente und Ermessens- oder Wertungsfragen trennen.
-4. **Risiko bewerten:** Grün/Gelb/Rot mit Begründung, Annahmen, fehlenden Belegen und möglichen Alternativwegen ausgeben.
-5. **Anschluss bauen:** Passende weitere Skills desselben Plugins vorschlagen, wenn eine Vertiefung, ein Schreiben, eine Tabelle, ein Fristenblatt oder eine Verhandlungsstrategie sinnvoll ist.
+1. Mögliche Schlechterstellung je Person und Gruppe aus der Vergleichsrechnung ableiten.
+2. Einwände aus Sicherheiten, Bewertung, Gruppenbildung, Planvollzug und Informationsdefiziten prüfen.
+3. Nachbesserungen, Sicherheiten, Zahlstellen oder Erläuterungen vorschlagen.
+4. Beschwerderisiken und Bestätigungshemmnisse in einer Ampel zusammenfassen.
 
-## Gruppen-/Klassenbildung — Standardstruktur
-- **InsO § 222 InsO Gruppenbildung:**
- - Abs. 1: Forderungen mit gleicher Rechtsstellung in einer Gruppe;
- - Abs. 2: Aufteilung nur bei sachlicher Rechtfertigung (z. B. Banken vs. Lieferanten vs. Kleinforderungen);
- - typische Gruppen: Absonderungsberechtigte (Banken), Insolvenzforderungen ungesichert, Kleinforderungen (häufig <1.500 EUR Pauschalzahlung), Arbeitnehmerforderungen, nachrangige Forderungen, Anteilsinhaber.
-- **StaRUG § 9 StaRUG Klassenbildung:** Vergleichbar zu § 222 InsO; Klassen müssen wirtschaftlich vergleichbare Rechtspositionen enthalten; auch hier sachliche Rechtfertigung für Aufspaltung.
-- **Mehrheits-Engineering:** Gruppen so bilden, dass Mehrheit erreichbar; aber: zu feine Aufspaltung führt zu § 250 InsO-Versagung und Bestätigungsrisiko.
-- **Pflicht-Information § 230 InsO bzw. § 17 StaRUG:** Vor Plan-Abstimmung schriftliche Information über Inhalt und Folgen — Verstöße führen zu Anfechtung der Abstimmung.
-- **Schriftsatz-Bausteine:**
- - Antrag auf Bestätigung: Bezugnahme auf Plan und Abstimmungsergebnis.
- - Stimmrechtsantrag bei bestrittenen Forderungen: § 77 InsO mit Schätzung und Begründung.
- - Cram-Down-Antrag § 245 InsO / §§ 26 ff. StaRUG: Best-Interest-Test, Priorität-Test.
-- **Praxis:** Gruppenbildung im darstellenden Teil ausführlich begründen — Argumentationskette wird im Bestätigungsverfahren geprüft.
+## Ausgabe
+
+- Minderheitenschutzmatrix
+- Einwandkatalog
+- Nachbesserungsliste
+- Beschwerderisiko
+
+<!-- BEGIN ausformulierungspflicht (autogen) -->
+> **Ausformulierungspflicht und Formatstandard.** Das Endprodukt wird in **vollständigen, ausformulierten Sätzen** geliefert — keine Stichwortskelette, keine leeren Klauselrümpfe, keine reinen Aufzählungen. Klauseln stehen als ausformulierte Rechtsfolgen-Sätze; Platzhalter wie `[Name der Mandantin]` werden klar markiert, der umgebende Text bleibt vollständig.
+>
+> **Schriftbild:** Wenn ein Schriftsatz, Vertrag, Memo, Beschluss, Vermerk oder sonstiges Enddokument als DOCX, PDF oder formatierter Text ausgegeben wird, ist **Times New Roman 11 pt** als Grundschrift zu verwenden. Überschriften bleiben in derselben Schrift und dürfen nur fett oder abgestuft sein. Bei reiner Markdown- oder Chat-Ausgabe wird dieser Formatwunsch als Exporthinweis aufgenommen.
+>
+> **Nummerierung:** Gliederung ausschließlich dezimal (`1`, `1.1`, `1.1.1` und so weiter). Keine römischen Ziffern, keine Buchstaben- oder Mischgliederung.
+<!-- END ausformulierungspflicht (autogen) -->
+
+## Qualitätsgates
+
+- Keine Rechtswirkung ohne genaue Betroffenengruppe, Betrag, Zeitpunkt und Beleg.
+- Vergleichsrechnung, Planrechnung und Sanierungskonzept müssen zueinander passen.
+- Annahmen, Schätzungen und fehlende Quellen werden sichtbar markiert.
+- Berufsgeheimnis, Datenschutz, Geschäftsgeheimnisse und gerichtliche Fristen bleiben vorrangig.
+
+## Rückfragen
+
+Wenn Angaben fehlen, stelle höchstens acht konkrete Fragen und gruppiere sie nach Zahlen, Recht, Stakeholdern und Verfahren. Bei Eilfällen liefere zuerst eine Minimalroute mit Stoppern.
+
+## Arbeitsstil
+
+Freundlich, ruhig, präzise und planarchitektonisch. Der Skill erklärt, warum eine Information wichtig ist, und macht aus unsortiertem Material einen belastbaren nächsten Arbeitsschritt.
+
+## Rechtliche Grundlagen und Leitentscheidungen (Stand Mai 2026)
+
+- BVerfG, Beschluss vom 28.02.2025 - 1 BvR 418/25: Nichtannahme wegen unzureichender Substantiierung. Die Kammer entschied weder über die Verfassungsmäßigkeit des StaRUG noch über die materielle Rechtmäßigkeit des Plans; verwertbar ist der Beschluss für die Darlegung einer wesentlichen Schlechterstellung und realistischer Alternativszenarien nach Paragraf 66 Absatz 2 Nummer 3 StaRUG.
+ <https://www.bundesverfassungsgericht.de/SharedDocs/Entscheidungen/DE/2025/02/rk20250228_1bvr041825.html>
+- Praxisgrundsatz: Minderheitenschutz im InsO-Plan über § 251 InsO (Minderheitenschutzantrag) und im StaRUG über §§ 64 ff. StaRUG. Konkrete BGH/LG-Entscheidungen vor Ausgabe über offene Quellen verifizieren.
+
+## Paragrafenkette (Insolvenzplan / StaRUG)
+
+Paragraf 217 InsO (Planoption) → Paragraf 218 InsO (Planvorlage) → Paragrafen 220 und 221 InsO (darstellender und gestaltender Teil) → Paragraf 222 InsO (Gruppen) → Paragrafen 235 bis 244 InsO (Abstimmung) → Paragraf 245 InsO (gruppenübergreifende Mehrheitsentscheidung) → Paragraf 248 InsO (Bestätigung) → Paragraf 254 InsO (Wirkung) → Paragrafen 2 bis 28 StaRUG (Planreichweite, Inhalt und Annahme) → Paragraf 25 StaRUG (Mehrheiten) → Paragraf 26 StaRUG (gruppenübergreifende Mehrheitsentscheidung)
+
+## Triage — Plan-Vorarbeiten
+
+Bevor losgelegt wird, klaere:
+1. **Verfahrensart?** Insolvenzplan nach Paragrafen 217 ff. InsO oder StaRUG-Restrukturierungsplan nach Paragrafen 2 bis 28 StaRUG?
+2. **Klassenbildung schluessig?** Paragraf 222 InsO und Paragraf 9 StaRUG — Rechtsstellung und sachgerechte wirtschaftliche Interessen; Gleichbehandlung im StaRUG zusätzlich nach Paragraf 10 StaRUG.
+3. **Mehrheits-Simulation?** Ist 75%-Schwelle (StaRUG) oder 50%+50% (InsO) realistisch?
+4. **Vergleichsrechnung?** Liquidationswert als Referenz für Best-Interest-Test berechnen.
+5. **Cramdown-Szenario?** Welche Klasse koennte ablehnen und ist Obstruktionsverbot anwendbar?
+
+---
+
+## Skill: `workflow-chronologie-und-belegmatrix`
+
+_Für Chronologie und Belegmatrix: ordnet Akte, Belege und Lücken; Ergebnis: Chronologie mit Beleg- und Widerspruchsmatrix. Fachgebiet: Insolvenzplan- und StaRUG-Planwerkstatt._
+
+# Chronologie und Belegmatrix
+
+## Arbeitsauftrag
+
+Dieser Arbeitsgang macht **Chronologie und Belegmatrix** im Bereich **insolvenzplan-starug-planwerkstatt** sofort bearbeitbar: erst Akte lesen, dann Rollen, Ziel, Fristen, Belege und Entscheidungspunkte ordnen. Rückfragen kommen nur, wenn sie die rechtliche Weiche, den richtigen Adressaten oder das Arbeitsprodukt wirklich verändern.
+
+## Aktenstart ohne Leerlauf
+
+1. Vorhandene Dokumente, Dateinamen, Metadaten, Anlagen und erkennbare Fristen auswerten, bevor Fragen gestellt werden.
+2. Sichere Tatsachen, plausible Annahmen, streitige Behauptungen und fehlende Belege in vier getrennten Spalten erfassen.
+3. Parteirolle, Gegner/Behörde/Gericht, Zuständigkeit, Verfahrensstand und gewünschtes Ergebnis knapp bestimmen.
+4. Sofortige Risiken markieren: Notfrist, Zustellung/Zugang, Verjährung, Sanktion, Vollstreckung, Register-/Portalfrist, Beweisverlust.
+5. Danach nur noch die fehlenden Punkte fragen, die den nächsten Schritt ändern.
+
+## Fachliche Anker
+
+- InsO §§ 13, 15a, 17-19, 21, 35, 38, 87, 129 ff., 174 ff.; StaRUG; AnfG; GmbHG § 15a/§ 64 a.F.-Nachwirkungen.
+- Zahlungsfähigkeit, Überschuldung, Masse, Aussonderung/Absonderung, Anfechtung, Forderungsanmeldung und Geschäftsleiterhaftung trennen.
+- Zahlen immer mit Stichtag, Quelle, Bankstand, Fälligkeit, Liquiditätslücke und Planannahme dokumentieren.
+
+## Arbeitsprodukt
+
+- **Kurzdiagnose:** Was ist wahrscheinlich los, welche Rechtsfrage trägt den Fall, was ist sofort zu tun?
+- **Belegmatrix:** Tatsache, Quelle, Fundstelle/Anlage, Beweiswert, Lücke, Nachforderung.
+- **Risikoampel:** Grün/gelb/rot mit knapper Begründung und nächstem sicheren Schritt.
+- **Entwurf:** je nach Fall E-Mail, Mandantenmemo, Behörden-/Gerichtsschreiben, Checkliste, Tabelle oder Fristenplan.
+- **Fehlerbremse:** keine erfundenen Normen, keine Blindzitate, keine Tatsachenergänzung ohne Aktenbeleg.
+
+## Ergänzende Hinweise
+
+## Plan-Chronologie — Kernzeitpunkte
+- **Vorfeld:**
+ - Eintritt drohende Zahlungsunfähigkeit (§ 18 InsO) — Tor zu StaRUG.
+ - StaRUG-Anzeige § 31 StaRUG beim Restrukturierungsgericht.
+ - Sanierungskonzept IDW S6 oder vergleichbar.
+- **Insolvenzplan-Prozess (§§ 217 ff. InsO):**
+ - Planvorlage durch Schuldner (§ 218 InsO) oder Verwalter (Auftrag § 157 InsO).
+ - Plan-Niederlegung beim Insolvenzgericht (§ 235 Abs. 1 S. 2 InsO).
+ - Vorprüfung des Gerichts § 231 InsO — Zurückweisung wegen offensichtlicher Aussichtslosigkeit möglich.
+ - Stellungnahmen § 232 InsO (Gläubigerausschuss, Schuldner, ggf. Betriebsrat).
+ - Erörterungs- und Abstimmungstermin § 235 InsO.
+ - Beschluss Gericht § 248 InsO — Bestätigung oder Versagung.
+ - Rechtskraft mit Bekanntgabe § 252 InsO; sofortige Beschwerde möglich.
+- **StaRUG-Plan-Prozess (§§ 4 ff. StaRUG):**
+ - StaRUG-Anzeige § 31 StaRUG → Restrukturierungssache.
+ - Planentwurf, Klassenbildung § 9 StaRUG, Vergleichsrechnung.
+ - Stabilisierungsanordnung § 49 StaRUG (befristet 3 Monate, max. 8 Monate).
+ - Planabstimmung — außergerichtlich oder gerichtlich § 23 StaRUG.
+ - Gerichtliche Planbestätigung § 60 StaRUG.
+
+## Belegmatrix-Spalten
+| Datum | Ereignis | Norm | Beleg | Konsequenz |
+|---|---|---|---|---|
+| TT.MM.JJJJ | Drohende Zahlungsunfähigkeit erkannt | Paragraf 18 InsO | Liquiditätsplan, regelmäßig 24 Monate | gerichtliche Instrumente nach Paragrafen 29 bis 31 StaRUG gesondert prüfen |
+| TT.MM.JJJJ | StaRUG-Anzeige | § 31 StaRUG | Anzeige Restrukturierungsgericht | Stabilisierung möglich |
+| TT.MM.JJJJ | Planabstimmung | § 23 StaRUG / § 235 InsO | Abstimmungsprotokoll | Mehrheiten je Gruppe |
+| TT.MM.JJJJ | Gerichtsbestätigung | § 60 StaRUG / § 248 InsO | Beschluss | Rechtskraft, Wirkung gegen alle Beteiligten |
+
+## Widersprüche markieren
+- StaRUG-Anzeige trotz bereits eingetretener ZU — Hinderungsgrund § 33 Abs. 2 Nr. 1 StaRUG.
+- Klassenbildung ändert sich während des Verfahrens — Plan muss konsistent bleiben.
 
 ---
 
 ## Skill: `sanierungskonzept-starug-spezial-teil`
 
-_Wenn es um Sanierungskonzept: Risikoampel, Gegenargumente und Verteidigungslinien in Insolvenzplan- und StaRUG-Planwerkstatt geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten._
+_Für Sanierungskonzept: Risikoampel, Gegenargumente und Verteidigungslinien: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt._
 
 # Sanierungskonzept: Risikoampel, Gegenargumente und Verteidigungslinien
 
@@ -282,50 +614,265 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 
 ---
 
-## Skill: `teil-compliance-dokumentation-und-akte`
+## Skill: `output-waehlen`
 
-_Wenn es um Teil: Compliance-Dokumentation und Aktenvermerk in Insolvenzplan- und StaRUG-Planwerkstatt geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt._
+_Für Output wählen: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt. Fachgebiet: Insolvenzplan- und StaRUG-Planwerkstatt._
 
-# Teil: Compliance-Dokumentation und Aktenvermerk
+# Output wählen
+
+## Einsatzlage
+
+Diese Output-Weiche für **Insolvenzplan Starug Planwerkstatt** entscheidet, ob Memo, Antrag, Schriftsatz, Tabelle, Risikoampel, Fragenliste oder Mandantenbrief der richtige nächste Schritt ist.
+
+## Fachlandkarte dieses Plugins
+
+- `abstimmung-anlagen-interessen-cram` — Abstimmung Anlagen Interessen Cram
+- `abstimmung-mehrheiten-anlagenpaket` — Abstimmung Mehrheiten Anlagenpaket
+- `anlagen-mehrparteien-konflikt-und-interessen` — Anlagen Mehrparteien Konflikt und Interessen
+- `anlagenpaket` — Anlagenpaket
+- `asset-deals-im-plan-grundstuecke-marken-kundendaten` — Asset Deals im Plan Grundstuecke Marken Kundendaten
+- `cram-formular-portal-und-einreichung` — Cram Formular Portal und Einreichung
+- `cramdown-obstruktion-datenraum-register` — Cramdown Obstruktion Datenraum Register
+- `darstellender-quellenkarte` — Darstellender Quellenkarte
+- `darstellender-teil` — Darstellender Teil
+- `datenraum-register` — Datenraum Register
+- `down-red-gestaltender-gruppen` — Down RED Gestaltender Gruppen
+- `gerichtliche-schritte-kommandocenter` — Gerichtliche Schritte Kommandocenter
+- `gestaltender-teil` — Gestaltender Teil
+- `anschluss-routing` — Anschluss Routing
+- `dokumente-intake` — Dokumente Intake
 
 ## Arbeitsweg
 
-- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
-- Fristen und Eilrisiken zuerst markieren: nur die Fristen des konkreten Rechtsgebiets und der Akte verwenden; Widerspruch, Klage, Einspruch, Rechtsmittel, Verjährung, Verwirkung, Rüge-, Anzeige-, Anmelde- und Ausschlussfristen strikt trennen und nie aus einem anderen Fachgebiet übernehmen.
-- Tragende Normen verifizieren: StaRUG §§ 1, 29, 31, 39, 49-55, 84, 102, IDW S 6, IDW S 11, InsO § 270; StaRUG — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
-- Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
-- Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
+- Ergebnistyp bestimmen: Schriftsatz an Mandant, Gegner, zuständiges Gericht oder Behörde, etwaige Sachverständige oder beauftragte Stellen, Mandantenmemo, Risikobericht, Vertragsentwurf, Entscheidungsvorlage, Behörden-Stellungnahme — was braucht der Mandant wirklich?
+- Pflichtformate festlegen: Tenor / Antrag / Begründung (Anspruchsgrundlage, Tatbestand, Subsumtion, Ergebnis); konkrete Norm-Pinpoints im Insolvenzplan Starug Planwerkstatt (StaRUG) einarbeiten.
+- Adressat-Klarheit: Sprache, Detailtiefe und juristische Vorbildung des Empfängers berücksichtigen; bei Mandant ohne Vorbildung Klartext-Zusammenfassung voranstellen.
+- Beweis- und Anlagenstruktur planen (chronologisch, thematisch, K- und B-Anlagen); Bezugnahmen sauber kennzeichnen.
+- Quellenfußnoten und Zitierweise sichern; offene Punkte und Annahmen explizit als solche kennzeichnen.
 
-## Fachlicher Kern — Insolvenz- und Sanierungsrecht
-- **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `Teil: Compliance-Dokumentation und Aktenvermerk` und löse die dort angelegte Fachfrage; arbeite mit konkreten Tatbestandsmerkmalen, Beweisfragen und dem unmittelbar benötigten Arbeitsprodukt. Routingfragen bleiben Hilfsmittel, wenn Frist, Zuständigkeit oder Verfahrensart offen sind.
-- **Arbeitsmodus:** Zuerst Insolvenzgrund, Frist, Organpflicht, Verfahrensstand, Sicherheiten, Massebezug und Anfechtungszeitraum klären; dann Sanierungsfähigkeit, Plan/StaRUG, Haftung und Dokumentationsschutz.
-- **Outputpflicht:** Krisenzeitachse, Liquiditätsstatus, Anfechtungsmatrix, Sicherheitenradar, IDW-S6-/Sanierungscheck, Register-/Grundbuch-Nachweispaket oder Schriftsatzbaustein.
-- **Fehlerbremse:** Tragende Normen/Entscheidungen live oder aus der Akte verifizieren; Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei prüfbarer Quelle. Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen.
+## Qualitätsanker
 
-## Spezialwissen: Teil: Compliance-Dokumentation und Aktenvermerk
-- **Normen-/Quellenanker:** StaRUG.
+- Normen und Rechtsprechung nach `references/quellenhygiene.md` und `references/zitierweise.md` behandeln.
+- Wenn eine Spezialfrage sichtbar wird, den passenden Skill nennen und kurz erklären, warum genau dieser Arbeitsgang passt.
+- Bei Zeitdruck zuerst Frist, Zuständigkeit, Form und Beweislast sichern.
 
-## Fallweichen
-Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur Rückfragen, die die nächste Weiche verändern:
+---
 
-1. Welche Rolle hat die fragende Person und wer ist Gegenüber?
-2. Welches konkrete Ziel soll erreicht oder verhindert werden?
-3. Welche Frist, Zustellung, Schwelle, Zahlung, Sanktion oder Verfahrensstufe ist kritisch?
-4. Welche Dokumente, Registerauszüge, Bescheide, Verträge, Tabellen, Screenshots oder Nachrichten belegen den Punkt?
-5. Welcher Output wird gebraucht: Memo, Checkliste, Tabelle, Entwurf, Schriftsatzbaustein, Mandantenbrief oder Entscheidungsvorlage?
+## Skill: `workflow-unterlagen-lueckenliste`
+
+_Für Unterlagen- und Lückenliste: ordnet Akte, Belege und Lücken; Ergebnis: Dokumentenmatrix mit Nachforderungsliste. Fachgebiet: Insolvenzplan- und StaRUG-Planwerkstatt._
+
+# Unterlagen- und Lückenliste
+
+## Aufgabe
+Nutze diesen Workflow-Skill für Unterlagen- und Lückenliste: erstellt eine präzise Nachforderungsliste statt allgemeiner Fragebögen.
+
+## Kaltstart
+Wenn Material vorliegt, arbeite zuerst mit dem Material. Stelle nur Rückfragen, die für die nächste Weiche nötig sind:
+
+1. Wer fragt in welcher Rolle?
+2. Was ist das gewünschte Ergebnis?
+3. Gibt es Fristen, Termine, Zustellungen, Zahlungen oder Sanktionen?
+4. Welche Unterlagen, Daten oder Belege liegen bereits vor?
 
 ## Arbeitsworkflow
-1. **Fallbild bilden:** Sachverhalt, Rollen, Zeitachse und Dokumente in eine kurze Matrix bringen.
-2. **Rechtsrahmen setzen:** Normen, Zuständigkeiten, Fristen, Formfragen und Verfahrensstand zum Themenfeld **Teil** prüfen.
-3. **Prüfpunkte abarbeiten:** Tatbestandsmerkmale, Beweisfragen, typische Fehler, Gegenargumente und Ermessens- oder Wertungsfragen trennen.
-4. **Risiko bewerten:** Grün/Gelb/Rot mit Begründung, Annahmen, fehlenden Belegen und möglichen Alternativwegen ausgeben.
-5. **Anschluss bauen:** Passende weitere Skills desselben Plugins vorschlagen, wenn eine Vertiefung, ein Schreiben, eine Tabelle, ein Fristenblatt oder eine Verhandlungsstrategie sinnvoll ist.
+1. Rolle, Ziel, Frist und Unterlagenlage in höchstens fünf Fragen klären.
+2. Bestehende Dokumente zuerst auswerten; Rückfragen nur dort stellen, wo sie die Entscheidung ändern.
+3. Passende Spezialskills aus diesem Plugin vorschlagen und begründen.
+4. Ein sofort nutzbares Ergebnis erzeugen: Ampel, Plan, Brief, Tabelle, Checkliste oder Memo.
+
+## Output-Standard
+- Kurzbild: worum es geht, was gesichert ist, was offen ist.
+- Prüf- oder Bearbeitungsmatrix mit den entscheidenden Punkten.
+- Konkreter nächster Schritt mit Frist, Zuständigkeit und Unterlagen.
+- Bei Außenkommunikation: knapper, sachlicher Textbaustein ohne unnötige Nebenangaben.
+
+<!-- BEGIN ausformulierungspflicht (autogen) -->
+> **Ausformulierungspflicht und Formatstandard.** Das Endprodukt wird in **vollständigen, ausformulierten Sätzen** geliefert — keine Stichwortskelette, keine leeren Klauselrümpfe, keine reinen Aufzählungen. Klauseln stehen als ausformulierte Rechtsfolgen-Sätze; Platzhalter wie `[Name der Mandantin]` werden klar markiert, der umgebende Text bleibt vollständig.
+>
+> **Schriftbild:** Wenn ein Schriftsatz, Vertrag, Memo, Beschluss, Vermerk oder sonstiges Enddokument als DOCX, PDF oder formatierter Text ausgegeben wird, ist **Times New Roman 11 pt** als Grundschrift zu verwenden. Überschriften bleiben in derselben Schrift und dürfen nur fett oder abgestuft sein. Bei reiner Markdown- oder Chat-Ausgabe wird dieser Formatwunsch als Exporthinweis aufgenommen.
+>
+> **Nummerierung:** Gliederung ausschließlich dezimal (`1`, `1.1`, `1.1.1` und so weiter). Keine römischen Ziffern, keine Buchstaben- oder Mischgliederung.
+<!-- END ausformulierungspflicht (autogen) -->
+
+## Mindestunterlagen Plan-Werkstatt (InsO und StaRUG)
+- **Bilanz und Plan-GuV:** Letzter Jahresabschluss, aktuelle BWA, Plan-GuV über Planungszeitraum (idR 3–5 Jahre), Plan-Bilanz und Plan-Liquidität.
+- **Gläubigerstruktur:** Gläubigerliste mit Beträgen, Sicherheiten, Forderungsgrund — getrennt nach gesicherten/ungesicherten/nachrangigen Forderungen und Gruppen.
+- **Vergleichsrechnung:** Plan-Quote vs. Liquidationsquote (Zerschlagungswerte!), getrennt je Gruppe — § 220 Abs. 2 InsO bzw. § 7 StaRUG.
+- **Sanierungskonzept:** Maßnahmenkatalog mit Wirkungsdatum, Wirkung auf GuV/Bilanz/Liquidität, Verantwortliche, Meilensteinen — IDW S 6 als Maßstab.
+- **Drittsicherheiten:** Bürgschaften, Patronatserklärungen, Gesellschafterzusagen, Sicherheiten an Konzerngesellschaften — Plan kann unter Voraussetzungen Drittsicherheiten einbeziehen (§ 217 Abs. 2 InsO).
+- **Steuerliche Modellierung:** Sanierungsertrag § 3a EStG, Verlustvortrag § 8c KStG, USt-Behandlung von Forderungsverzichten — Steuerberater zwingend einbinden.
+- **Stakeholder-Mapping:** Wer hat Stimmrecht in welcher Gruppe? Wer hat Veto-Macht? Wer ist Treiber/Bremser?
+- **Trade-off:** Vollständige Datenraum-Vorbereitung kostet 6–10 Wochen; Quick-and-dirty-Plan scheitert regelmäßig im Abstimmungstermin.
+
+## Quellenregel
+- Aktuelle Normen, Behördenhinweise, Gerichtsseiten, Register, Formulare und EU-/Landesrecht live prüfen, wenn sie für das Ergebnis tragend sind.
+- Rechtsprechung nur mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle ausgeben.
+- Keine BeckRS-, juris-, Kommentar-, Handbuch- oder Aufsatz-Blindzitate aus Modellwissen.
+- Unsicherheiten und Annahmen ausdrücklich markieren.
+
+---
+
+## Skill: `workflow-fristen-und-risikoampel`
+
+_Für Fristen- und Risikoampel: prüft Frist, Form, Zuständigkeit und Eilbedarf; Ergebnis: Fristen- und Risikoampel. Fachgebiet: Insolvenzplan- und StaRUG-Planwerkstatt._
+
+# Fristen- und Risikoampel
+
+## Arbeitsauftrag
+
+Dieser Arbeitsgang macht **Fristen- und Risikoampel** im Bereich **insolvenzplan-starug-planwerkstatt** sofort bearbeitbar: erst Akte lesen, dann Rollen, Ziel, Fristen, Belege und Entscheidungspunkte ordnen. Rückfragen kommen nur, wenn sie die rechtliche Weiche, den richtigen Adressaten oder das Arbeitsprodukt wirklich verändern.
+
+## Aktenstart ohne Leerlauf
+
+1. Vorhandene Dokumente, Dateinamen, Metadaten, Anlagen und erkennbare Fristen auswerten, bevor Fragen gestellt werden.
+2. Sichere Tatsachen, plausible Annahmen, streitige Behauptungen und fehlende Belege in vier getrennten Spalten erfassen.
+3. Parteirolle, Gegner/Behörde/Gericht, Zuständigkeit, Verfahrensstand und gewünschtes Ergebnis knapp bestimmen.
+4. Sofortige Risiken markieren: Notfrist, Zustellung/Zugang, Verjährung, Sanktion, Vollstreckung, Register-/Portalfrist, Beweisverlust.
+5. Danach nur noch die fehlenden Punkte fragen, die den nächsten Schritt ändern.
+
+## Fachliche Anker
+
+- InsO §§ 13, 15a, 17-19, 21, 35, 38, 87, 129 ff., 174 ff.; StaRUG; AnfG; GmbHG § 15a/§ 64 a.F.-Nachwirkungen.
+- Zahlungsfähigkeit, Überschuldung, Masse, Aussonderung/Absonderung, Anfechtung, Forderungsanmeldung und Geschäftsleiterhaftung trennen.
+- Zahlen immer mit Stichtag, Quelle, Bankstand, Fälligkeit, Liquiditätslücke und Planannahme dokumentieren.
+
+## Arbeitsprodukt
+
+- **Kurzdiagnose:** Was ist wahrscheinlich los, welche Rechtsfrage trägt den Fall, was ist sofort zu tun?
+- **Belegmatrix:** Tatsache, Quelle, Fundstelle/Anlage, Beweiswert, Lücke, Nachforderung.
+- **Risikoampel:** Grün/gelb/rot mit knapper Begründung und nächstem sicheren Schritt.
+- **Entwurf:** je nach Fall E-Mail, Mandantenmemo, Behörden-/Gerichtsschreiben, Checkliste, Tabelle oder Fristenplan.
+- **Fehlerbremse:** keine erfundenen Normen, keine Blindzitate, keine Tatsachenergänzung ohne Aktenbeleg.
+
+## Ergänzende Hinweise
+
+## Plan-spezifische Ampel-Trigger
+- **ROT — sofort handeln:**
+ - StaRUG-Plan, aber Schuldner bereits zahlungsunfähig § 17 InsO oder überschuldet § 19 InsO → StaRUG fällt weg (§ 33 Abs. 2 Nr. 1 StaRUG, Aufhebung Restrukturierungssache), Antragspflicht § 15a InsO!
+ - Insolvenzplan: Erörterungstermin § 235 InsO steht, Stellungnahmen § 232 InsO fristgebunden.
+ - StaRUG: gerichtliche Planabstimmung § 23 StaRUG vorbereiten; Stabilisierungsanordnung § 49 StaRUG befristet auf 3 Monate, Verlängerung max. auf 8 Monate.
+- **GELB — Fristen laufen:**
+ - Forderungsanmeldung § 174 InsO Anmeldefrist beachten — Plan baut auf Tabelle auf.
+ - Planvorlagepflicht § 218 Abs. 2 InsO bei Auftrag durch Gläubigerversammlung.
+ - Anzeige nach Paragraf 31 StaRUG: Wirkungsverlust grundsätzlich nach sechs Monaten, nach vorheriger Erneuerung nach zwölf Monaten; Long-Stop rechtzeitig kalendrieren.
+- **GRÜN — Vorbereitung:**
+ - IDW S6-Sanierungskonzept als Basis für darstellenden Teil.
+ - Klassenbildung § 222 InsO / § 9 StaRUG sauber dokumentieren.
+
+## Plan-spezifische Risiken
+- **Minderheitenschutz:** Insolvenzplan § 251 InsO (Schlechterstellungstest gegenüber Regelverfahren), StaRUG § 64 StaRUG (Schlechterstellungstest gegenüber Best-Alternative-to-Negotiated-Agreement / Nicht-Plan-Szenario).
+- Cross-Class-Cram-Down: Paragrafen 26 bis 28 StaRUG verlangen Ohne-Plan-Test, angemessene Planwertbeteiligung, Gruppenmehrheit und Rangprüfung; Ausnahmen nur nach Paragraf 28 StaRUG.
+- **Steuerlich:** Sanierungsgewinn § 3a EStG (gerichtsbestätigter Insolvenzplan, gerichtsbestätigter Restrukturierungsplan oder vergleichbare Sanierung) — frühzeitig Lohnsteuerhilfe/Steuerberater einbinden.
+
+---
+
+## Skill: `unterlagen-luecken`
+
+_Für Unterlagen und Lücken: ordnet Akte, Belege und Lücken; Ergebnis: Dokumentenmatrix mit Nachforderungsliste. Fachgebiet: Insolvenzplan- und StaRUG-Planwerkstatt._
+
+# Unterlagen und Lücken
+
+## Einsatzlage
+
+Diese Unterlagenprüfung für **Insolvenzplan Starug Planwerkstatt** benennt fehlende Dokumente, streitige Tatsachen, Beweisrisiken und die kürzeste sichere Nachforderung.
+
+## Fachlandkarte dieses Plugins
+
+- `abstimmung-anlagen-interessen-cram` — Abstimmung Anlagen Interessen Cram
+- `abstimmung-mehrheiten-anlagenpaket` — Abstimmung Mehrheiten Anlagenpaket
+- `anlagen-mehrparteien-konflikt-und-interessen` — Anlagen Mehrparteien Konflikt und Interessen
+- `anlagenpaket` — Anlagenpaket
+- `asset-deals-im-plan-grundstuecke-marken-kundendaten` — Asset Deals im Plan Grundstuecke Marken Kundendaten
+- `cram-formular-portal-und-einreichung` — Cram Formular Portal und Einreichung
+- `cramdown-obstruktion-datenraum-register` — Cramdown Obstruktion Datenraum Register
+- `darstellender-quellenkarte` — Darstellender Quellenkarte
+- `darstellender-teil` — Darstellender Teil
+- `datenraum-register` — Datenraum Register
+- `down-red-gestaltender-gruppen` — Down RED Gestaltender Gruppen
+- `gerichtliche-schritte-kommandocenter` — Gerichtliche Schritte Kommandocenter
+- `gestaltender-teil` — Gestaltender Teil
+- `anschluss-routing` — Anschluss Routing
+- `dokumente-intake` — Dokumente Intake
+
+## Arbeitsweg
+
+- Sollkatalog aufstellen: Welche Dokumente brauche ich für die konkrete Insolvenzplan Starug Planwerkstatt-Frage zwingend (Vertragsurkunden, Schriftsätze, Verwaltungsakte, Protokolle, Bescheide und externe Beweismittel des Fachgebiets)?
+- Ist-Abgleich: Welche Dokumente sind vorhanden, welche fehlen, welche sind unvollständig, undatiert oder ohne Unterschrift?
+- Lückenliste priorisieren nach: fristrelevant (die im Fachgebiet einschlägigen Verfahrens- und materiellen Fristen pflichtmäßig vorab markieren und nicht aus Modellwissen finalisieren), beweisrelevant, formerheblich.
+- Rückfrageschreiben an Mandant, Gegner, zuständiges Gericht oder Behörde, etwaige Sachverständige oder beauftragte Stellen entwerfen — Wer hat das Dokument, woher kann es beschafft werden, bis wann?
+- Bei behördlichen Lücken: Akteneinsichtsrecht (z. B. § 29 VwVfG, § 147 StPO, § 25 SGB X) prüfen und nutzen.
+
+## Qualitätsanker
+
+- Normen und Rechtsprechung nach `references/quellenhygiene.md` und `references/zitierweise.md` behandeln.
+- Wenn eine Spezialfrage sichtbar wird, den passenden Skill nennen und kurz erklären, warum genau dieser Arbeitsgang passt.
+- Bei Zeitdruck zuerst Frist, Zuständigkeit, Form und Beweislast sichern.
+
+---
+
+## Skill: `dokumente-intake`
+
+_Für Dokumentenintake: ordnet Akte, Belege und Lücken; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt. Fachgebiet: Insolvenzplan- und StaRUG-Planwerkstatt._
+
+# Dokumentenintake
+
+## Direktstart: lesen, entscheiden, liefern
+
+Beginne nicht mit einem Fragenkatalog. Wenn Material vorliegt, lies es zuerst und starte mit einer verwertbaren Arbeitshypothese:
+
+- Frist oder Sofortrisiko.
+- erkannte Rolle, Zielrichtung und Verfahrensstand.
+- tragende Tatsachen aus dem Material.
+- bester nächster Arbeitsschritt mit direkt nutzbarem Output.
+
+Frage höchstens zwei Punkte nach, und nur wenn ohne diese Antwort der nächste Schritt falsch oder riskant würde. Fehlt Material vollständig, verlange nicht allgemein alle Unterlagen, sondern nenne die drei wichtigsten Dokumente und arbeite mit sichtbaren Annahmen weiter.
+
+Starte mit einem Arbeitsprodukt, nicht mit einer Inventarliste: Kurzvermerk, Fristenblatt, Prüfmatrix, Entwurf, Fragenliste oder Entscheidungsvorschlag. Routing ist nur Mittel zum Zweck. Wenn ein Fachskill eindeutig passt, arbeite unmittelbar in dessen Richtung weiter.
+
+Arbeitsmodus: Liefere zuerst einen nutzbaren Zwischenstand in höchstens sieben Sätzen und dann den nächsten konkreten Schritt. Frage nur nach, wenn Frist, Zuständigkeit, Beweis, Betrag oder Rechtsfolge sonst nicht belastbar bestimmbar sind. Tabellen nur für Fristen, Belege, Beträge, Varianten oder Streitstoff.
+
+## Einsatzlage
+
+Dieser Dokumenten-Intake für **Insolvenzplan Starug Planwerkstatt** ordnet Anlagen, Registerdaten, Korrespondenz, Bescheide, Fristen und Beleglücken zu einer belastbaren Arbeitsakte.
+
+## Fachlandkarte dieses Plugins
+
+- `abstimmung-anlagen-interessen-cram` — Abstimmung Anlagen Interessen Cram
+- `abstimmung-mehrheiten-anlagenpaket` — Abstimmung Mehrheiten Anlagenpaket
+- `anlagen-mehrparteien-konflikt-und-interessen` — Anlagen Mehrparteien Konflikt und Interessen
+- `anlagenpaket` — Anlagenpaket
+- `asset-deals-im-plan-grundstuecke-marken-kundendaten` — Asset Deals im Plan Grundstuecke Marken Kundendaten
+- `cram-formular-portal-und-einreichung` — Cram Formular Portal und Einreichung
+- `cramdown-obstruktion-datenraum-register` — Cramdown Obstruktion Datenraum Register
+- `darstellender-quellenkarte` — Darstellender Quellenkarte
+- `darstellender-teil` — Darstellender Teil
+- `datenraum-register` — Datenraum Register
+- `down-red-gestaltender-gruppen` — Down RED Gestaltender Gruppen
+- `gerichtliche-schritte-kommandocenter` — Gerichtliche Schritte Kommandocenter
+- `gestaltender-teil` — Gestaltender Teil
+- `anschluss-routing` — Anschluss Routing
+- `einstieg-routing` — Einstieg Routing
+
+## Arbeitsweg
+
+- Eingangsdokumente nach Typ ordnen: Vertragsurkunden, Schriftsätze, Verwaltungsakte, Protokolle, Bescheide und externe Beweismittel des Fachgebiets.
+- Pro Dokument prüfen: Datum, Absender, Empfänger, Zustellungsnachweis, Fristwirkung, Beweiswert für die Insolvenzplan Starug Planwerkstatt-Frage.
+- Lücken, Widersprüche, fehlende Anlagen und ungeklärte Zustellungen markieren; bei Original-Beweisbedarf auf Beweissicherung achten.
+- Tragende Normen vorläufig zuordnen: StaRUG — Endfeststellung erst nach Live-Check.
+- Sensible Daten nach Berufsrecht, DSGVO und Mandatsgeheimnis behandeln; Akteneinsichts- und Herausgabepflichten gegenüber Mandant, Gegner, zuständiges Gericht oder Behörde, etwaige Sachverständige oder beauftragte Stellen prüfen.
+
+## Qualitätsanker
+
+- Normen und Rechtsprechung nach `references/quellenhygiene.md` und `references/zitierweise.md` behandeln.
+- Wenn eine Spezialfrage sichtbar wird, den passenden Skill nennen und kurz erklären, warum genau dieser Arbeitsgang passt.
+- Bei Zeitdruck zuerst Frist, Zuständigkeit, Form und Beweislast sichern.
 
 ---
 
 ## Skill: `gestaltender-zahlen-schwellen-und-berechnung`
 
-_Wenn es um Gestaltender: Zahlen, Schwellenwerte und Berechnung in Insolvenzplan- und StaRUG-Planwerkstatt geht: rechnet Schwellen, Beträge, Varianten und Kontrollannahmen durch; liefert eine Berechnungstabelle mit Schwellen, Annahmen und Kontrollfragen._
+_Für Gestaltender: Zahlen, Schwellenwerte und Berechnung: rechnet Beträge, Schwellen und Varianten; Ergebnis: Berechnungstabelle mit Annahmen und Kontrollfragen._
 
 # Gestaltender: Zahlen, Schwellenwerte und Berechnung
 
@@ -370,948 +917,6 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 - **Klassenbildungsregel:** Wirtschaftlich vergleichbare Forderungen in eine Klasse (§ 222 Abs. 2 InsO; § 9 StaRUG); Aufspaltung muss sachlich gerechtfertigt sein und darf keinen reinen Mehrheits-Engineering bezwecken.
 - **Stimmrecht bestrittener Forderungen:** Im Termin entscheidet das Gericht über das Stimmrecht (§ 77 InsO sinngemäß; § 24 StaRUG); Vorbereitung mit Stimmrechtsantrag empfohlen.
 - **Praxis:** Mindestens zwei Mehrheitsszenarien (best/worst) durchrechnen; bei Mindestschwellen sollte der Plan idR 10–15 % Sicherheitspuffer über der Schwelle liegen.
-
----
-
-## Skill: `sanierungsmoderation-94-starug`
-
-_Wenn es um Sanierungsmoderation Paragraf 94 StaRUG in Insolvenzplan- und StaRUG-Planwerkstatt geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik._
-
-# Sanierungsmoderation § 94 StaRUG
-
-## Arbeitsweg
-
-- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
-- Fristen und Eilrisiken zuerst markieren: nur die Fristen des konkreten Rechtsgebiets und der Akte verwenden; Widerspruch, Klage, Einspruch, Rechtsmittel, Verjährung, Verwirkung, Rüge-, Anzeige-, Anmelde- und Ausschlussfristen strikt trennen und nie aus einem anderen Fachgebiet übernehmen.
-- Tragende Normen verifizieren: StaRUG §§ 1, 29, 31, 39, 49-55, 84, 102, IDW S 6, IDW S 11, InsO § 270; StaRUG — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
-- Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
-- Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
-
-## Fachlicher Kern — Insolvenz- und Sanierungsrecht
-- **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `Sanierungsmoderation § 94 StaRUG` und löse die dort angelegte Fachfrage; arbeite mit konkreten Tatbestandsmerkmalen, Beweisfragen und dem unmittelbar benötigten Arbeitsprodukt. Routingfragen bleiben Hilfsmittel, wenn Frist, Zuständigkeit oder Verfahrensart offen sind.
-- **Arbeitsmodus:** Zuerst Insolvenzgrund, Frist, Organpflicht, Verfahrensstand, Sicherheiten, Massebezug und Anfechtungszeitraum klären; dann Sanierungsfähigkeit, Plan/StaRUG, Haftung und Dokumentationsschutz.
-- **Outputpflicht:** Krisenzeitachse, Liquiditätsstatus, Anfechtungsmatrix, Sicherheitenradar, IDW-S6-/Sanierungscheck, Register-/Grundbuch-Nachweispaket oder Schriftsatzbaustein.
-- **Fehlerbremse:** Tragende Normen/Entscheidungen live oder aus der Akte verifizieren; Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei prüfbarer Quelle. Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen.
-
-## Eingaben
-
-- Wirtschaftliche Lage Schuldner (Liquidität Überschuldung drohende Zahlungs-Unfähigkeit)
-- Gläubiger-Liste mit Forderungs-Höhen
-- Bisherige Sanierungs-Versuche
-- Sanierungs-Konzept-Skizze
-- Streit-Punkte mit Hauptgläubigern
-
-## Schritt 1 — Anwendungsbereich § 94 StaRUG
-
-### Voraussetzungen
-
-- **Schuldner** Unternehmer (natürliche oder juristische Person)
-- **Wirtschaftliche Lage** gefährdet (drohende Zahlungs-Unfähigkeit § 18 InsO oder bereits drohende Restrukturierungs-Bedürftigkeit)
-- **Aussicht auf Erfolg** Sanierungs-Gespräche
-
-### Abgrenzung
-
-- **StaRUG-Restrukturierungs-Verfahren** §§ 31 ff. — bei Schwierigkeit der Vergleichs-Findung
-- **Insolvenz** bei Eingetretener Zahlungs-Unfähigkeit § 17 InsO oder Überschuldung § 19 InsO
-- **Sanierungsmoderation** vorgelagert / vorbeugend
-
-## Schritt 2 — Antrag § 95 StaRUG
-
-### Antrag-Inhalt
-
-- Bezeichnung Schuldner
-- Sachstand wirtschaftliche Lage
-- Schilderung Sanierungs-Bedarf
-- Liste Gläubiger Forderungs-Höhen
-- Geforderter Verhandlungs-Inhalt
-
-### Antragsteller
-
-- Schuldner selbst
-
-### Zuständigkeit
-
-- Restrukturierungs-Gericht (LG-Insolvenz-Abteilung)
-- Bestimmt durch Schuldner-Sitz
-
-### Form
-
-- Schriftlich elektronisch
-- Mit Unterlagen
-
-## Schritt 3 — Bestellung Moderator § 95 StaRUG
-
-### Auswahl
-
-- Gericht bestellt Sanierungsmoderator
-- Vorschlags-Recht Schuldner (im Antrag)
-- Vorraussetzung Eignung (Erfahrung Wirtschafts-Sanierung)
-
-### Anforderungen Moderator
-
-- Wirtschafts-Beratungs-Erfahrung
-- Häufig: Wirtschafts-Prüfer, Rechtsanwalt mit Sanierungs-Schwerpunkt
-- Unabhängigkeit
-
-### Vergütung
-
-- Nach billigem Ermessen Gericht
-- Schuldner trägt Kosten
-
-## Schritt 4 — Aufgaben Moderator § 96 StaRUG
-
-### Vermittler-Rolle
-
-- **Sachverhalts-Aufklärung** Wirtschaftslage Schuldner
-- **Sanierungs-Konzept** ausarbeiten mit Schuldner
-- **Verhandlungen** mit Gläubigern moderieren
-- **Vergleichs-Versuch** zwischen Schuldner und Gläubigern
-- **Berichte** an Gericht (Halbzeit Abschluss)
-
-### Vertraulichkeit § 97 StaRUG
-
-- **Pflicht zur Verschwiegenheit** Moderator und Beteiligte
-- Bei Schaden durch Verletzung: Schadensersatz-Pflicht
-- Ausnahme: Mitteilung an Gericht und Beteiligte des Verfahrens
-
-### Befugnisse
-
-- **Keine Verfügungs-Befugnis** über Vermögen Schuldner
-- **Keine Zwangs-Befugnisse** gegenüber Gläubigern
-- Reine Moderations- und Berater-Rolle
-
-## Schritt 5 — Verfahrens-Dauer § 94 Abs. 2 StaRUG
-
-- **Drei Monate** Standard-Dauer
-- **Verlängerung** auf bis zu sechs Monate durch Gericht-Beschluss möglich
-- **Aufhebung** bei offensichtlicher Aussichts-Losigkeit oder Antrags-Rücknahme
-
-## Schritt 6 — Sanierungsvergleich § 97 StaRUG und Bestätigung § 100 StaRUG
-
-### Bei Erfolg
-
-- **Sanierungs-Vergleich** zwischen Schuldner und Gläubigern, § 97 StaRUG (Inhalt, Form, Wirkung)
-- **Bestätigung durch Restrukturierungs-Gericht** auf Antrag, § 100 StaRUG
-- Wirkung: Anfechtungs-Privileg nach § 90 StaRUG bei späterer Insolvenz
-
-### Anfechtungs-Privileg § 90 StaRUG
-
-- Bestätigter Sanierungs-Vergleich (§ 100 StaRUG) bzw. Restrukturierungs-Plan ist im Umfang des § 90 StaRUG anfechtungs-privilegiert
-- Schutz-Wirkung gegen Vorsatz-Anfechtung § 133 InsO
-- Bargeschäfts-Privileg § 142 InsO bleibt ergänzend anwendbar
-
-### Vergleichs-Inhalte typisch
-
-- Stundung Schulden
-- Teil-Erlass
-- Tilgungs-Plan
-- Sicherheits-Bestellung
-- Anteils-Übertragungen (Debt-Equity-Swap)
-- Sanierungs-Maßnahmen Schuldner-seite
-
-## Schritt 7 — Vorteile gegenüber anderen Verfahren
-
-### Gegenüber Insolvenz
-
-- **Vertraulichkeit** Bewahrung Reputation
-- **Geringere Kosten**
-- **Schnellere Lösung**
-- **Erhalt Geschäftsbetrieb**
-- **Erhalt Geschäftsführer-Verfügung**
-
-### Gegenüber Restrukturierungs-Verfahren StaRUG §§ 31 ff.
-
-- **Niedrigere Schwelle**
-- **Keine Mehrheits-Beschluss-Bindung** Gläubiger
-- **Reine Konsens-Findung**
-- **Kein öffentliches Verfahren**
-
-### Gegenüber außergerichtlichem Vergleich
-
-- **Bestätigungs-Möglichkeit** mit Anfechtungs-Schutz
-- **Strukturiertes Verfahren**
-- **Vertraulichkeits-Schutz**
-- **Gerichtlich begleitet**
-
-## Schritt 8 — Konkretes Vorgehen
-
-### Vor-Phase
-
-1. **Wirtschaftlich Lage analysieren** (Skill `liquiditaetsvorschau-3wochen` etc.)
-2. **Sanierungs-Konzept-Skizze** (IDW S 6 Mindeststandard)
-3. **Gläubiger-Sondierung** vorab
-4. **Anwalts-Beratung** Sanierungs-Spezialist
-
-### Antrags-Phase
-
-1. **Antrag beim Restrukturierungs-Gericht** mit Moderator-Vorschlag
-2. **Bestellung Moderator** durch Gericht
-3. **Erstes Beratungs-Gespräch** mit Moderator
-
-### Verhandlungs-Phase
-
-1. **Gläubiger-Verhandlungen** moderiert durch Moderator
-2. **Sanierungs-Konzept** finalisieren
-3. **Einzel-Vergleiche** mit Gläubigern
-4. **Gesamt-Vergleich** entwerfen
-
-### Abschluss-Phase
-
-1. **Bestätigungs-Antrag** beim Gericht § 100 StaRUG
-2. **Anhörung** Gläubiger
-3. **Bestätigungs-Beschluss** § 100 Abs. 2 StaRUG
-4. **Umsetzung** Sanierungs-Maßnahmen
-
-## Schritt 9 — Bei Misserfolg
-
-### Optionen
-
-- **Übergang StaRUG-Restrukturierungs-Verfahren** §§ 31 ff. — strukturiertes Mehrheits-Verfahren
-- **Insolvenz-Antrag** bei eingetretener Zahlungs-Unfähigkeit / Überschuldung
-- **Außergerichtlicher Vergleich** ohne Gericht (Risiko Anfechtung)
-
-### Wechsel-Strategie
-
-- Skill `mandat-triage-insolvenzrecht` aktivieren
-- Antragspflicht § 15a InsO prüfen
-- Eil-Modus
-
-## Schritt 10 — Schuldner-Strategie
-
-### Vor Antrag
-
-- **Frühzeitig** vor wirtschaftlicher Eskalation
-- **Sanierungs-Konzept** mit Realitätssinn (IDW S 6)
-- **Gläubiger sondieren** zu Vergleichs-Bereitschaft
-- **Geschäftsführer-Pflichten** beachten § 15a InsO (Sanierungsmoderation entlastet nicht von Antragspflicht bei eingetretener Zahlungs-Unfähigkeit)
-
-### Während Verfahren
-
-- **Kooperation** mit Moderator
-- **Vollständige Information** Wirtschaftslage
-- **Transparenz** gegenüber Gläubigern
-- **Operativ stabilisieren** (Liquiditäts-Sicherung)
-
-### Vergleichs-Verhandlungen
-
-- **Kompromiss-Bereitschaft**
-- **Win-Win-Argumentation** (Insolvenz-Vergleich Quote-Vergleich)
-- **Sicherheits-Angebote** wenn möglich
-- **Sanierungs-Pflichten** des Schuldners eingehen
-
-## Schritt 11 — Gläubiger-Strategie
-
-### Bei Information über Sanierungsmoderation
-
-- **Sachstand erfragen** Moderator
-- **Forderungs-Anmeldung** prüfen
-- **Verhandlungs-Bereitschaft** signalisieren oder verweigern
-
-### Verhandlung
-
-- **Eigene Position** stark vortragen
-- **Sicherheiten** verlangen
-- **Tilgungs-Plan** strukturieren
-- **Alternative Insolvenz-Quote** als Benchmark
-
-### Bei Zustimmungs-Entscheidung
-
-- **Vergleich-Bedingungen** detail
-- **Schriftform** § 126 BGB
-- **Anfechtungs-Schutz** durch Gerichts-Bestätigung anstreben
-
-## Schritt 12 — Anwalts-Mandat
-
-### Schuldner-Seite
-
-- **Sanierungs-Anwalt** mit StaRUG-Erfahrung
-- **Wirtschafts-Prüfer** parallel für IDW S 6
-- **Steuerberater** für steuerliche Effekte (Sanierungsgewinn-Steuer)
-
-### Gläubiger-Seite
-
-- **Insolvenz-Spezialist**
-- **Bewertung Vergleichs-Vorschlag** vs. Insolvenz-Quote
-- **Schaden-Maximierung**
-
-## Verzahnung mit anderen Skills
-
-- `liquiditaetsvorschau-3wochen` — Liquidität-Analyse
-- `liquiditaetsvorschau-3-6-12-monate` — mittel-langfristige Planung
-- `fortbestehensprognose-zusammenfuehren` — IDW S 6
-- `mandat-triage-insolvenzrecht` — bei Misserfolg
-- `antragspflicht-15a-inso` — Geschäftsführer-Pflichten
-- `glaeubigerausschuss-mitwirkung` — bei späterem Verfahren
-- `anfechtungsrechte-pruefen` — Schutz durch § 90 StaRUG
-
-## Ausgabe
-
-- `sanierungsmoderation-{schuldner}.md` mit Wirtschaftslage Vorbereitung Antrag
-- Antrags-Schriftsatz § 95 StaRUG
-- Sanierungs-Konzept-Skelett
-- Gläubiger-Liste
-- Verhandlungs-Strategie
-- Vergleichs-Entwürfe
-- Bei Misserfolg: Eskalations-Plan
-
-<!-- BEGIN ausformulierungspflicht (autogen) -->
-> **Ausformulierungspflicht und Formatstandard.** Das Endprodukt wird in **vollständigen, ausformulierten Sätzen** geliefert — keine Stichwortskelette, keine leeren Klauselrümpfe, keine reinen Aufzählungen. Klauseln stehen als ausformulierte Rechtsfolgen-Sätze; Platzhalter wie `[Name der Mandantin]` werden klar markiert, der umgebende Text bleibt vollständig.
->
-> **Schriftbild:** Wenn ein Schriftsatz, Vertrag, Memo, Beschluss, Vermerk oder sonstiges Enddokument als DOCX, PDF oder formatierter Text ausgegeben wird, ist **Times New Roman 11 pt** als Grundschrift zu verwenden. Überschriften bleiben in derselben Schrift und dürfen nur fett oder abgestuft sein. Bei reiner Markdown- oder Chat-Ausgabe wird dieser Formatwunsch als Exporthinweis aufgenommen.
->
-> **Nummerierung:** Gliederung ausschließlich dezimal (`1`, `1.1`, `1.1.1` und so weiter). Keine römischen Ziffern, keine Buchstaben- oder Mischgliederung.
-<!-- END ausformulierungspflicht (autogen) -->
-
-## Quellen
-
-- StaRUG §§ 94 95 96 97 100 90
-- InsO §§ 17 18 19 142
-- **BGH IX ZR 122/23 vom 05.12.2024** — Unlauterkeit bei Bargeschäft im Sanierungskontext; konkretes gezielt schädigendes Verhalten erforderlich. <https://dejure.org/dienste/vernetzung/rechtsprechung?Gericht=BGH&Datum=05.12.2024&Aktenzeichen=IX+ZR+122/23>
-- IDW S 6 (Sanierungs-Fähigkeit)
-- Literatur (Frind, Skauradszun) nur bei vom Nutzer bereitgestellter oder lizenziert live geprüfter Quelle
-
-## Weitere Leitentscheidungen StaRUG-Moderation
-
-- Konkrete Restrukturierungsgerichts-Entscheidungen zur Sanierungsmoderation (§§ 94–100 StaRUG), insbesondere zur Bestellung des Moderators und zur Bestätigung des Sanierungsvergleichs (§ 97 StaRUG), vor Ausgabe über dejure.org / openjur.de mit Gericht, Datum, Aktenzeichen verifizieren.
-
----
-
-## Skill: `vergleichsrechnung-behoerden-gericht-und-registerweg`
-
-_Wenn es um Vergleichsrechnung Behoerden Gericht Und Registerweg in Insolvenzplan- und StaRUG-Planwerkstatt geht: entwickelt Verhandlungsziel, Vergleichskorridor und Eskalationspfad; liefert einen Einreichungsplan mit Form-, Portal- und Nachweischeck._
-
-# Vergleichsrechnung: Behörden-, Gerichts- oder Registerweg im Insolvenzplan und StaRUG: fachlich vertieftes Modul mit Normenradar (InsO/StaRUG/Planrecht), Tatbestands-/Beweislastmatrix, Fristen- und Formcheck, Gegenargumenten, Fehlerbremse und direkt nutzbarem Arbeitsprodukt.
-
-
-## Arbeitsweg
-
-- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
-- Fristen und Eilrisiken zuerst markieren: nur die Fristen des konkreten Rechtsgebiets und der Akte verwenden; Widerspruch, Klage, Einspruch, Rechtsmittel, Verjährung, Verwirkung, Rüge-, Anzeige-, Anmelde- und Ausschlussfristen strikt trennen und nie aus einem anderen Fachgebiet übernehmen.
-- Tragende Normen verifizieren: StaRUG §§ 1, 29, 31, 39, 49-55, 84, 102, IDW S 6, IDW S 11, InsO § 270; StaRUG — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
-- Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
-- Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
-
-**Fokus:** Vergleichsrechnung: Behörden-, Gerichts- oder Registerweg im Insolvenzplan und StaRUG: fachlich vertieftes Modul mit Normenradar (InsO/StaRUG/Planrecht), Tatbestands-/Beweislastmatrix, Fristen- und Formcheck, Gegenargumenten, Fehlerbremse und direkt nutzbarem Arbeitsprodukt.
-
-### Vergleichsrechnung: Behörden-, Gerichts- oder Registerweg
-
-## Fachlicher Kern — Insolvenz- und Sanierungsrecht
-- **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `Vergleichsrechnung: Behörden-, Gerichts- oder Registerweg` und löse die dort angelegte Fachfrage; arbeite mit konkreten Tatbestandsmerkmalen, Beweisfragen und dem unmittelbar benötigten Arbeitsprodukt. Routingfragen bleiben Hilfsmittel, wenn Frist, Zuständigkeit oder Verfahrensart offen sind.
-- **Arbeitsmodus:** Zuerst Insolvenzgrund, Frist, Organpflicht, Verfahrensstand, Sicherheiten, Massebezug und Anfechtungszeitraum klären; dann Sanierungsfähigkeit, Plan/StaRUG, Haftung und Dokumentationsschutz.
-- **Outputpflicht:** Krisenzeitachse, Liquiditätsstatus, Anfechtungsmatrix, Sicherheitenradar, IDW-S6-/Sanierungscheck, Register-/Grundbuch-Nachweispaket oder Schriftsatzbaustein.
-- **Fehlerbremse:** Tragende Normen/Entscheidungen live oder aus der Akte verifizieren; Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei prüfbarer Quelle. Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen.
-
-## Spezialwissen: Vergleichsrechnung: Behörden-, Gerichts- oder Registerweg
-- **Normen-/Quellenanker:** StaRUG.
-
-## Fallweichen
-Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur Rückfragen, die die nächste Weiche verändern:
-
-1. Welche Rolle hat die fragende Person und wer ist Gegenüber?
-2. Welches konkrete Ziel soll erreicht oder verhindert werden?
-3. Welche Frist, Zustellung, Schwelle, Zahlung, Sanktion oder Verfahrensstufe ist kritisch?
-4. Welche Dokumente, Registerauszüge, Bescheide, Verträge, Tabellen, Screenshots oder Nachrichten belegen den Punkt?
-5. Welcher Output wird gebraucht: Memo, Checkliste, Tabelle, Entwurf, Schriftsatzbaustein, Mandantenbrief oder Entscheidungsvorlage?
-
-## Arbeitsworkflow
-1. **Fallbild bilden:** Sachverhalt, Rollen, Zeitachse und Dokumente in eine kurze Matrix bringen.
-2. **Rechtsrahmen setzen:** Normen, Zuständigkeiten, Fristen, Formfragen und Verfahrensstand zum Themenfeld **Vergleichsrechnung** prüfen.
-3. **Prüfpunkte abarbeiten:** Tatbestandsmerkmale, Beweisfragen, typische Fehler, Gegenargumente und Ermessens- oder Wertungsfragen trennen.
-4. **Risiko bewerten:** Grün/Gelb/Rot mit Begründung, Annahmen, fehlenden Belegen und möglichen Alternativwegen ausgeben.
-5. **Anschluss bauen:** Passende weitere Skills desselben Plugins vorschlagen, wenn eine Vertiefung, ein Schreiben, eine Tabelle, ein Fristenblatt oder eine Verhandlungsstrategie sinnvoll ist.
-
----
-
-## Skill: `restrukturierungsplan-fristen-form-und-zustaendigkeit`
-
-_Wenn es um Restrukturierungsplan: Fristen, Form, Zuständigkeit und Rechtsweg in Insolvenzplan- und StaRUG-Planwerkstatt geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten._
-
-# Restrukturierungsplan: Fristen, Form, Zuständigkeit und Rechtsweg
-
-## Arbeitsweg
-
-- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
-- Fristen und Eilrisiken zuerst markieren: nur die Fristen des konkreten Rechtsgebiets und der Akte verwenden; Widerspruch, Klage, Einspruch, Rechtsmittel, Verjährung, Verwirkung, Rüge-, Anzeige-, Anmelde- und Ausschlussfristen strikt trennen und nie aus einem anderen Fachgebiet übernehmen.
-- Tragende Normen verifizieren: StaRUG §§ 1, 29, 31, 39, 49-55, 84, 102, IDW S 6, IDW S 11, InsO § 270; StaRUG — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
-- Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
-- Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
-
-## Fachlicher Kern — Insolvenz- und Sanierungsrecht
-- **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `Restrukturierungsplan: Fristen, Form, Zuständigkeit und Rechtsweg` und löse die dort angelegte Fachfrage; arbeite mit konkreten Tatbestandsmerkmalen, Beweisfragen und dem unmittelbar benötigten Arbeitsprodukt. Routingfragen bleiben Hilfsmittel, wenn Frist, Zuständigkeit oder Verfahrensart offen sind.
-- **Arbeitsmodus:** Zuerst Insolvenzgrund, Frist, Organpflicht, Verfahrensstand, Sicherheiten, Massebezug und Anfechtungszeitraum klären; dann Sanierungsfähigkeit, Plan/StaRUG, Haftung und Dokumentationsschutz.
-- **Outputpflicht:** Krisenzeitachse, Liquiditätsstatus, Anfechtungsmatrix, Sicherheitenradar, IDW-S6-/Sanierungscheck, Register-/Grundbuch-Nachweispaket oder Schriftsatzbaustein.
-- **Fehlerbremse:** Tragende Normen/Entscheidungen live oder aus der Akte verifizieren; Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei prüfbarer Quelle. Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen.
-
-## Spezialwissen: Restrukturierungsplan: Fristen, Form, Zuständigkeit und Rechtsweg
-- **Normen-/Quellenanker:** StaRUG.
-
-## Fallweichen
-Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur Rückfragen, die die nächste Weiche verändern:
-
-1. Welche Rolle hat die fragende Person und wer ist Gegenüber?
-2. Welches konkrete Ziel soll erreicht oder verhindert werden?
-3. Welche Frist, Zustellung, Schwelle, Zahlung, Sanktion oder Verfahrensstufe ist kritisch?
-4. Welche Dokumente, Registerauszüge, Bescheide, Verträge, Tabellen, Screenshots oder Nachrichten belegen den Punkt?
-5. Welcher Output wird gebraucht: Memo, Checkliste, Tabelle, Entwurf, Schriftsatzbaustein, Mandantenbrief oder Entscheidungsvorlage?
-
-## Arbeitsworkflow
-1. **Fallbild bilden:** Sachverhalt, Rollen, Zeitachse und Dokumente in eine kurze Matrix bringen.
-2. **Rechtsrahmen setzen:** Normen, Zuständigkeiten, Fristen, Formfragen und Verfahrensstand zum Themenfeld **Restrukturierungsplan** prüfen.
-3. **Prüfpunkte abarbeiten:** Tatbestandsmerkmale, Beweisfragen, typische Fehler, Gegenargumente und Ermessens- oder Wertungsfragen trennen.
-4. **Risiko bewerten:** Grün/Gelb/Rot mit Begründung, Annahmen, fehlenden Belegen und möglichen Alternativwegen ausgeben.
-5. **Anschluss bauen:** Passende weitere Skills desselben Plugins vorschlagen, wenn eine Vertiefung, ein Schreiben, eine Tabelle, ein Fristenblatt oder eine Verhandlungsstrategie sinnvoll ist.
-
----
-
-## Skill: `anschluss-routing`
-
-_Wenn es um Anschluss-Routing in Insolvenzplan- und StaRUG-Planwerkstatt geht: klärt Rolle, Ziel, Frist, Unterlagen und den passenden nächsten Fachskill; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt._
-
-# Anschluss-Routing
-
-## Einsatzlage
-
-Dieses Anschluss-Routing für **Insolvenzplan Starug Planwerkstatt** wählt nach dem ersten Ergebnis die passende Vertiefung, Eskalation, Fristensicherung oder Dokumentenerstellung.
-
-## Fachlandkarte dieses Plugins
-
-- `abstimmung-anlagen-interessen-cram` — Abstimmung Anlagen Interessen Cram
-- `abstimmung-mehrheiten-anlagenpaket` — Abstimmung Mehrheiten Anlagenpaket
-- `anlagen-mehrparteien-konflikt-und-interessen` — Anlagen Mehrparteien Konflikt und Interessen
-- `anlagenpaket` — Anlagenpaket
-- `asset-deals-im-plan-grundstuecke-marken-kundendaten` — Asset Deals im Plan Grundstuecke Marken Kundendaten
-- `cram-formular-portal-und-einreichung` — Cram Formular Portal und Einreichung
-- `cramdown-obstruktion-datenraum-register` — Cramdown Obstruktion Datenraum Register
-- `darstellender-quellenkarte` — Darstellender Quellenkarte
-- `darstellender-teil` — Darstellender Teil
-- `datenraum-register` — Datenraum Register
-- `down-red-gestaltender-gruppen` — Down RED Gestaltender Gruppen
-- `gerichtliche-schritte-kommandocenter` — Gerichtliche Schritte Kommandocenter
-- `gestaltender-teil` — Gestaltender Teil
-- `dokumente-intake` — Dokumente Intake
-- `einstieg-routing` — Einstieg Routing
-
-## Arbeitsweg
-
-- Ergebnis sichten: Welche Insolvenzplan Starug Planwerkstatt-Fragen sind nach diesem Skill beantwortet, welche bleiben offen oder neu entstehen?
-- Anschlussweichen identifizieren: drohende Frist (die im Fachgebiet einschlägigen Verfahrens- und materiellen Fristen pflichtmäßig vorab markieren und nicht aus Modellwissen finalisieren), notwendige Dokumente (Vertragsurkunden, Schriftsätze, Verwaltungsakte, Protokolle, Bescheide und externe Beweismittel des Fachgebiets), nächste Verfahrensstufe oder Sachgebiet.
-- Konkreten Folge-Skill aus der Fachlandkarte oben benennen — nicht generisch "weitermachen", sondern Skill-Slug nennen.
-- Eskalation an Mandant, Gegner, zuständiges Gericht oder Behörde, etwaige Sachverständige oder beauftragte Stellen oder Spezialisten klären, wenn der Vorgang die Skill-Grenze überschreitet.
-- Mandantenkommunikation vorbereiten: Was muss der Mandant tun, bis wann, welche Unterlagen bringen, welche Risiken sind offen?
-
-## Qualitätsanker
-
-- Normen und Rechtsprechung nach `references/quellenhygiene.md` und `references/zitierweise.md` behandeln.
-- Wenn eine Spezialfrage sichtbar wird, den passenden Skill nennen und kurz erklären, warum genau dieser Arbeitsgang passt.
-- Bei Zeitdruck zuerst Frist, Zuständigkeit, Form und Beweislast sichern.
-
----
-
-## Skill: `insolvenzplan-intake-klassen`
-
-_Wenn es um Insolvenzplan: Erstprüfung, Rollenklärung und Mandatsziel in Insolvenzplan- und StaRUG-Planwerkstatt geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten._
-
-# Insolvenzplan: Erstprüfung, Rollenklärung und Mandatsziel
-
-## Direktstart: lesen, entscheiden, liefern
-
-Beginne nicht mit einem Fragenkatalog. Wenn Material vorliegt, lies es zuerst und starte mit einer verwertbaren Arbeitshypothese:
-
-- Frist oder Sofortrisiko.
-- erkannte Rolle, Zielrichtung und Verfahrensstand.
-- tragende Tatsachen aus dem Material.
-- bester nächster Arbeitsschritt mit direkt nutzbarem Output.
-
-Frage höchstens zwei Punkte nach, und nur wenn ohne diese Antwort der nächste Schritt falsch oder riskant würde. Fehlt Material vollständig, verlange nicht allgemein alle Unterlagen, sondern nenne die drei wichtigsten Dokumente und arbeite mit sichtbaren Annahmen weiter.
-
-Starte mit einem Arbeitsprodukt, nicht mit einer Inventarliste: Kurzvermerk, Fristenblatt, Prüfmatrix, Entwurf, Fragenliste oder Entscheidungsvorschlag. Routing ist nur Mittel zum Zweck. Wenn ein Fachskill eindeutig passt, arbeite unmittelbar in dessen Richtung weiter.
-
-Arbeitsmodus: Liefere zuerst einen nutzbaren Zwischenstand in höchstens sieben Sätzen und dann den nächsten konkreten Schritt. Frage nur nach, wenn Frist, Zuständigkeit, Beweis, Betrag oder Rechtsfolge sonst nicht belastbar bestimmbar sind. Tabellen nur für Fristen, Belege, Beträge, Varianten oder Streitstoff.
-
-## Arbeitsweg
-
-- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
-- Fristen und Eilrisiken zuerst markieren: nur die Fristen des konkreten Rechtsgebiets und der Akte verwenden; Widerspruch, Klage, Einspruch, Rechtsmittel, Verjährung, Verwirkung, Rüge-, Anzeige-, Anmelde- und Ausschlussfristen strikt trennen und nie aus einem anderen Fachgebiet übernehmen.
-- Tragende Normen verifizieren: StaRUG §§ 1, 29, 31, 39, 49-55, 84, 102, IDW S 6, IDW S 11, InsO § 270; StaRUG — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
-- Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
-- Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
-
-## Fachlicher Kern — Insolvenz- und Sanierungsrecht
-- **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `Insolvenzplan: Erstprüfung, Rollenklärung und Mandatsziel` und löse die dort angelegte Fachfrage; arbeite mit konkreten Tatbestandsmerkmalen, Beweisfragen und dem unmittelbar benötigten Arbeitsprodukt. Routingfragen bleiben Hilfsmittel, wenn Frist, Zuständigkeit oder Verfahrensart offen sind.
-- **Arbeitsmodus:** Zuerst Insolvenzgrund, Frist, Organpflicht, Verfahrensstand, Sicherheiten, Massebezug und Anfechtungszeitraum klären; dann Sanierungsfähigkeit, Plan/StaRUG, Haftung und Dokumentationsschutz.
-- **Outputpflicht:** Krisenzeitachse, Liquiditätsstatus, Anfechtungsmatrix, Sicherheitenradar, IDW-S6-/Sanierungscheck, Register-/Grundbuch-Nachweispaket oder Schriftsatzbaustein.
-- **Fehlerbremse:** Tragende Normen/Entscheidungen live oder aus der Akte verifizieren; Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei prüfbarer Quelle. Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen.
-
-## Spezialwissen: Insolvenzplan: Erstprüfung, Rollenklärung und Mandatsziel
-- **Normen-/Quellenanker:** StaRUG.
-
-## Fallweichen
-Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur Rückfragen, die die nächste Weiche verändern:
-
-1. Welche Rolle hat die fragende Person und wer ist Gegenüber?
-2. Welches konkrete Ziel soll erreicht oder verhindert werden?
-3. Welche Frist, Zustellung, Schwelle, Zahlung, Sanktion oder Verfahrensstufe ist kritisch?
-4. Welche Dokumente, Registerauszüge, Bescheide, Verträge, Tabellen, Screenshots oder Nachrichten belegen den Punkt?
-5. Welcher Output wird gebraucht: Memo, Checkliste, Tabelle, Entwurf, Schriftsatzbaustein, Mandantenbrief oder Entscheidungsvorlage?
-
-## Arbeitsworkflow
-1. **Fallbild bilden:** Sachverhalt, Rollen, Zeitachse und Dokumente in eine kurze Matrix bringen.
-2. **Rechtsrahmen setzen:** Normen, Zuständigkeiten, Fristen, Formfragen und Verfahrensstand zum Themenfeld **Insolvenzplan** prüfen.
-3. **Prüfpunkte abarbeiten:** Tatbestandsmerkmale, Beweisfragen, typische Fehler, Gegenargumente und Ermessens- oder Wertungsfragen trennen.
-4. **Risiko bewerten:** Grün/Gelb/Rot mit Begründung, Annahmen, fehlenden Belegen und möglichen Alternativwegen ausgeben.
-5. **Anschluss bauen:** Passende weitere Skills desselben Plugins vorschlagen, wenn eine Vertiefung, ein Schreiben, eine Tabelle, ein Fristenblatt oder eine Verhandlungsstrategie sinnvoll ist.
-
-## Erstprüfung Insolvenzplan / StaRUG-Plan — Entscheidungslogik
-- **Status quo?** Insolvenzverfahren bereits eröffnet? → Insolvenzplan §§ 217 ff. InsO. Noch nicht eröffnet, aber drohende Zahlungsunfähigkeit (§ 18 InsO)? → StaRUG § 29.
-- **Plan-Initiator?** Schuldnerin (§ 218 Abs. 1 InsO), Insolvenzverwalter (§ 218 Abs. 1 InsO), Sachwalter (§ 284 InsO bei Eigenverwaltung); im StaRUG: nur Schuldnerin.
-- **Plan-Ziel?**
- - Sanierung des Unternehmens (Fortführung mit modifizierten Verbindlichkeiten).
- - Übertragende Sanierung (Asset Deal an Erwerber, Restmasse wird verteilt).
- - Liquidation mit Plan (geordnete Abwicklung).
-- **Zentrale Hebel:**
- - Forderungsverzicht / Quote / Stundung (gestaltender Teil § 221 InsO bzw. § 7 StaRUG).
- - Eingriff in Gesellschafterrechte (Debt-Equity-Swap, Kapitalherabsetzung, Kapitalerhöhung).
- - Eingriff in Sicherheiten (Insolvenzplan kann Absonderungsrechte modifizieren, StaRUG-Plan nicht ohne Weiteres).
-- **Realistische Mehrheiten?** Klassenbildung und Best-Interest-Test mental durchgespielt; bei knappen Mehrheiten Cross-Class Cram-Down (§ 245 InsO bzw. §§ 26–28 StaRUG) prüfen.
-- **Mandatsziel:** Plan-Entwurf, Beratung Gläubigergruppe, Verteidigungslinie gegen Plan, Vollzug nach Bestätigung.
-- **Praxis:** Plan-Architektur frühzeitig festlegen — spätere Umbauten kosten Zeit und Vertrauen aller Beteiligten.
-
----
-
-## Skill: `spezial-vergleichsrechnung-behoerden-gericht-und-registerweg`
-
-_Wenn es um Vergleichsrechnung: Behörden-, Gerichts- oder Registerweg in Insolvenzplan- und StaRUG-Planwerkstatt geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten._
-
-# Vergleichsrechnung: Behörden-, Gerichts- oder Registerweg
-
-## Aufgabe
-Dieser Skill ist ein konkreter Fachbaustein für `insolvenzplan-starug-planwerkstatt`. Ausgangspunkt ist: Freistehendes Plugin für Insolvenzplan und StaRUG-Restrukturierungsplan: Intake, Sanierungskonzept, Vergleichsrechnung, Gruppen, Klassen, darstellender und gestaltender Teil, Anlagen, Abstimmung, Cram-down, Minderheitenschutz, Gericht und Planvollzug.
-
-Er führt durch **Behörden-, Gerichts- oder Registerweg** im Themenfeld **Vergleichsrechnung**. Ziel ist nicht ein abstrakter Lexikontext, sondern ein belastbares Arbeitsprodukt für die nächste anwaltliche, behördliche, gerichtliche, organisatorische oder mandantenbezogene Entscheidung.
-
-
-## Fachlicher Zuschnitt
-
-- **Thema:** Vergleichsrechnung.
-- **Arbeitsfokus:** Behörden-, Gerichts- oder Registerweg.
-- **Plugin-Rahmen:** Freistehendes Plugin für Insolvenzplan und StaRUG-Restrukturierungsplan: Intake, Sanierungskonzept, Vergleichsrechnung, Gruppen, Klassen, darstellender....
-- **Qualitätsanspruch:** Antworte nicht mit einer austauschbaren Standard-Checkliste. Nutze die Fachlogik dieses Plugins, benenne die konkret einschlägigen Normgruppen, Behörden, Register, Fristen, Dokumente oder Verfahrenshandlungen und trenne sichere Punkte von Live-Check-Bedarf.
-- **Eloquenz und Nutzen:** Führe die Nutzerin oder den Nutzer wie eine erfahrene Fachperson: kurze Orientierung, präzise Rückfragen, dann ein verwertbares Produkt mit Varianten, Gegenargumenten und nächstem Handgriff.
-
-## Kaltstart
-Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur Rückfragen, die die nächste Weiche verändern:
-
-1. Welche Rolle hat die fragende Person und wer ist Gegenüber?
-2. Welches konkrete Ziel soll erreicht oder verhindert werden?
-3. Welche Frist, Zustellung, Schwelle, Zahlung, Sanktion oder Verfahrensstufe ist kritisch?
-4. Welche Dokumente, Registerauszüge, Bescheide, Verträge, Tabellen, Screenshots oder Nachrichten belegen den Punkt?
-5. Welcher Output wird gebraucht: Memo, Checkliste, Tabelle, Entwurf, Schriftsatzbaustein, Mandantenbrief oder Entscheidungsvorlage?
-
-## Arbeitsworkflow
-1. **Fallbild bilden:** Sachverhalt, Rollen, Zeitachse und Dokumente in eine kurze Matrix bringen.
-2. **Rechtsrahmen setzen:** Normen, Zuständigkeiten, Fristen, Formfragen und Verfahrensstand zum Themenfeld **Vergleichsrechnung** prüfen.
-3. **Prüfpunkte abarbeiten:** Tatbestandsmerkmale, Beweisfragen, typische Fehler, Gegenargumente und Ermessens- oder Wertungsfragen trennen.
-4. **Risiko bewerten:** Grün/Gelb/Rot mit Begründung, Annahmen, fehlenden Belegen und möglichen Alternativwegen ausgeben.
-5. **Anschluss bauen:** Passende weitere Skills desselben Plugins vorschlagen, wenn eine Vertiefung, ein Schreiben, eine Tabelle, ein Fristenblatt oder eine Verhandlungsstrategie sinnvoll ist.
-
-## Output-Standard
-- **Kurzlage:** maximal fünf Sätze zu Ziel, Lage, Frist, Risiko und nächstem Schritt.
-- **Prüfmatrix:** Punkt, Norm/Quelle, Tatsache, Beleg, Bewertung, To-do.
-- **Arbeitsprodukt:** direkt nutzbarer Entwurf oder Baustein in der passenden Tonalität.
-- **Qualitätsgate:** keine Scheingenauigkeit; Lücken, Annahmen und Live-Check-Bedarf ausdrücklich markieren.
-
-<!-- BEGIN ausformulierungspflicht (autogen) -->
-> **Ausformulierungspflicht und Formatstandard.** Das Endprodukt wird in **vollständigen, ausformulierten Sätzen** geliefert — keine Stichwortskelette, keine leeren Klauselrümpfe, keine reinen Aufzählungen. Klauseln stehen als ausformulierte Rechtsfolgen-Sätze; Platzhalter wie `[Name der Mandantin]` werden klar markiert, der umgebende Text bleibt vollständig.
->
-> **Schriftbild:** Wenn ein Schriftsatz, Vertrag, Memo, Beschluss, Vermerk oder sonstiges Enddokument als DOCX, PDF oder formatierter Text ausgegeben wird, ist **Times New Roman 11 pt** als Grundschrift zu verwenden. Überschriften bleiben in derselben Schrift und dürfen nur fett oder abgestuft sein. Bei reiner Markdown- oder Chat-Ausgabe wird dieser Formatwunsch als Exporthinweis aufgenommen.
->
-> **Nummerierung:** Gliederung ausschließlich dezimal (`1`, `1.1`, `1.1.1` und so weiter). Keine römischen Ziffern, keine Buchstaben- oder Mischgliederung.
-<!-- END ausformulierungspflicht (autogen) -->
-
-## Quellenregel
-- Aktuelle Normen, Behördenhinweise, Gerichtsseiten, Register, Formulare und EU-/Landesrecht live prüfen, wenn sie für das Ergebnis tragend sind.
-- Rechtsprechung nur mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle ausgeben.
-- Keine BeckRS-, juris-, Kommentar-, Handbuch- oder Aufsatz-Blindzitate aus Modellwissen.
-- Paywall-Literatur nur verwerten, wenn sie von der Nutzerin oder dem Nutzer als Text bereitgestellt wurde; dann nicht als frei verifizierte Quelle ausgeben.
-
----
-
-## Skill: `inso-starug-planwerkstatt-start-chronologie-fristen`
-
-_Wenn es um Insolvenzplan und StaRUG-Planwerkstatt — Allgemein in Insolvenzplan- und StaRUG-Planwerkstatt geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Chronologie mit Belegmatrix und Widerspruchsliste._
-
-# Insolvenzplan und StaRUG-Planwerkstatt — Allgemein
-
-## Arbeitsweg
-
-- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
-- Fristen und Eilrisiken zuerst markieren: nur die Fristen des konkreten Rechtsgebiets und der Akte verwenden; Widerspruch, Klage, Einspruch, Rechtsmittel, Verjährung, Verwirkung, Rüge-, Anzeige-, Anmelde- und Ausschlussfristen strikt trennen und nie aus einem anderen Fachgebiet übernehmen.
-- Tragende Normen verifizieren: StaRUG §§ 1, 29, 31, 39, 49-55, 84, 102, IDW S 6, IDW S 11, InsO § 270; StaRUG — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
-- Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
-- Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
-
-## Fachlicher Kern — Insolvenz- und Sanierungsrecht
-- **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `Insolvenzplan und StaRUG-Planwerkstatt — Allgemein` und löse die dort angelegte Fachfrage; arbeite mit konkreten Tatbestandsmerkmalen, Beweisfragen und dem unmittelbar benötigten Arbeitsprodukt. Routingfragen bleiben Hilfsmittel, wenn Frist, Zuständigkeit oder Verfahrensart offen sind.
-- **Arbeitsmodus:** Zuerst Insolvenzgrund, Frist, Organpflicht, Verfahrensstand, Sicherheiten, Massebezug und Anfechtungszeitraum klären; dann Sanierungsfähigkeit, Plan/StaRUG, Haftung und Dokumentationsschutz.
-- **Outputpflicht:** Krisenzeitachse, Liquiditätsstatus, Anfechtungsmatrix, Sicherheitenradar, IDW-S6-/Sanierungscheck, Register-/Grundbuch-Nachweispaket oder Schriftsatzbaustein.
-- **Fehlerbremse:** Tragende Normen/Entscheidungen live oder aus der Akte verifizieren; Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei prüfbarer Quelle. Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen.
-
-## Schnellstart-Workflow
-
-Dieser Allgemein-Skill ist der schöne, schnelle Eingang in das Plugin **Insolvenzplan Starug Planwerkstatt**. Er funktioniert wie Empfang, Triage, Projektsteuerung und Qualitätskontrolle in einem: erst knapp klären, dann den richtigen Arbeitsweg wählen, dann passende Fachmodule aus diesem Plugin vorschlagen.
-
-**Plugin-Fokus:** Freistehendes Plugin für Insolvenzplan und StaRUG-Restrukturierungsplan: Intake, Sanierungskonzept, Vergleichsrechnung, Gruppen, Klassen, darstellender und gestaltender Teil, Anlagen, Abstimmung, Cram-down, Minderheitenschutz, Gericht und Planvollzug.
-
-### 0. Stummer Upload — Material ohne Begleittext
-
-Wenn der Nutzer nur ein Dokument, einen Screenshot, eine Tabelle, ein ZIP oder ein Aktenkonvolut hochlädt und keinen Auftrag dazuschreibt, behandle den Upload als Arbeitsauftrag. Warte nicht auf einen Prompt. Arbeite als aufmerksamer juristischer Co-Pilot: erst sichern, was eilt, dann das Material einordnen, dann den besten nächsten Arbeitsschritt anbieten.
-
-**Pflicht-Reihenfolge bei stummem Upload:**
-
-1. **Eil- und Fristenscan:** Prüfe sofort sichtbare Zustellungen, Rechtsbehelfsbelehrungen, Fristen, Termine, Vollziehungsrisiken, Zahlungsziele, Verjährungs- oder Ausschlussfristen. Wenn etwas eilt, beginne die Antwort mit `Frist zuerst: ...`.
-2. **Material-Klassifikation:** Benenne in einem Satz, was vorliegt: Bescheid, Klageschrift, Vertrag, Mandantenmail, Gerichtsentscheidung, Schriftsatz, Tabellenwerk, Registerauszug, Rechnung, beA-/EGVP-Nachricht, Screenshot, Foto, Chatverlauf oder Aktenkonvolut.
-3. **Kontextanker:** Notiere Absender, Adressat, Aktenzeichen, Gericht/Behörde/Gegenseite, Datum und erkennbaren Lebenssachverhalt. Wenn der Text unleserlich ist, sage genau, welcher Teil fehlt.
-4. **Rechts- und Arbeitsthema:** Ordne das Material knapp einem Rechtsgebiet, einer Normengruppe oder einem Arbeitsmodus zu. Zitiere nur, was im Material oder im Plugin-Kontext wirklich trägt.
-5. **Routing:** Schlage zuerst einen passenden Fachmodul aus diesem Plugin vor. Wenn der Treffer eindeutig ist, arbeite direkt in dessen Richtung weiter. Wenn mehrere Wege sinnvoll sind, nenne einen bevorzugten Primärpfad und höchstens zwei Alternativen mit Nutzen.
-6. **Nur eine Rückfrage:** Frage nur dann nach, wenn ohne die Antwort ein falscher nächster Schritt droht. Die Rückfrage muss konkret sein und an das erkannte Material anknüpfen.
-
-**Was du bei stummem Upload nicht machst:**
-
-- Keine generische Upload-Bestätigung.
-- Keine vollständige Intake-Liste aus Abschnitt 1.
-- Keine erfundenen Dokumentdetails, Fristen, Anlagen oder Fundstellen.
-- Keine unnötige Begrenzungsrhetorik; mache klar, wie das Material jetzt praktisch weiterverarbeitet werden kann.
-
-**Antwortformat bei stummem Upload:**
-
-- **Erkannt:** [Materialart, Absender/Aktenzeichen falls sichtbar]
-- **Frist zuerst:** [konkretes Datum/Risiko oder `keine Frist erkennbar`]
-- **Einordnung:** [Rechtsgebiet/Normengruppe/Arbeitsmodus]
-- **Primärer Pfad:** Wähle nach Aktenlage den nächsten passenden Skill und begründe in einem Satz, welche Frist, Zuständigkeit, Beweislast oder welches Arbeitsprodukt dadurch geklärt wird.
-- **Alternativen:** `...`, `...`
-- **Nächster Schritt:** [direkte Bearbeitung oder genau eine konkrete Rückfrage]
-
-### 1. Intake in 60 Sekunden
-
-Nutze die folgenden Punkte als stille Checkliste, nicht als Fragenkatalog. Wenn der Nutzer schon genug geliefert hat, sichtbar zusammenfassen und direkt weiterarbeiten; frage nur fehlende Punkte ab, die die nächste Weiche wirklich verändern.
-
-| Punkt | Frage | Warum wichtig? |
-|---|---|---|
-| Rolle | Wer fragt: Anwalt, Kanzlei, Rechtsabteilung, Verwalter, Betroffener, Unternehmen, Behörde? | Perspektive und Ton bestimmen. |
-| Ziel | Was soll am Ende entstehen: Prüfung, Schriftsatz, Memo, Checkliste, Vertrag, E-Mail, Strategie, Datenraum-Auswertung? | Output sofort sauber ausrichten. |
-| Sachverhalt | Was ist passiert, wer sind die Beteiligten, welche Daten und Beträge sind sicher? | Keine Arbeit auf Luft bauen. |
-| Fristen | Gibt es Termine, Fristablauf, Zustellung, Einspruch, Klagefrist, Behördenfrist oder Closing-Datum? | Eilsachen zuerst sichern. |
-| Unterlagen | Welche Dateien, Registerauszüge, Bescheide, Verträge, Tabellen, E-Mails oder PDFs liegen vor? | Aktenarbeit statt Raten. |
-| Risiko | Wo drohen Haftung, Verjährung, Bußgeld, Strafbarkeit, Kosten, Reputationsschaden oder Eskalation? | Priorität und Vorsicht einstellen. |
-| Format | Wie ausführlich, für wen, in welchem Stil und mit welcher Zitier-/Ausgabeform? | Ergebnis direkt verwendbar machen. |
-
-### 2. Sofort-Triage
-
-Arbeite danach in dieser Reihenfolge:
-
-1. **Eilprüfung:** Fristen, Zuständigkeiten, Formerfordernisse und irreversible Schritte sofort markieren.
-2. **Sachverhaltskern:** In drei bis sieben Sätzen festhalten, was sicher ist, was streitig ist und was fehlt.
-3. **Arbeitsmodus wählen:** Kurzprüfung, Deep Dive, Dokumententwurf, Verhandlungsstrategie, Aktenextraktion, Red Team oder Mandantenkommunikation.
-4. **Primärskill wählen:** Genau einen passenden Skill aus diesem Plugin bestimmen und unmittelbar einsetzen. Höchstens zwei Alternativen nur nennen, wenn eine echte Weiche offen ist.
-5. **Nächsten Schritt anbieten:** Wenn ein Skill eindeutig passt, mit diesem Skill weiterarbeiten; wenn mehrere passen, eine knappe Auswahl anbieten.
-6. **Qualitätsgate:** Am Ende prüfen: Quellen, Fristen, Annahmen, offene Tatsachen, nächste Handlung.
-
-### 3. Routing-Regeln
-
-- Schlage **immer zuerst Skills aus diesem Plugin** vor. Andere Plugins nur als Schnittstelle nennen, wenn das Thema sichtbar auswandert.
-- Nenne nie nur einen Skillnamen. Immer auch sagen: **wofür**, **wann**, **welcher Input fehlt** und **was als Output kommt**.
-- Wenn die Akte groß oder unordentlich ist, zuerst einen Akten-, Tabellen- oder Triage-Skill vorschlagen, bevor materiell geprüft wird.
-- Wenn ein Schriftsatz, Vertrag oder Register-/Behördenoutput gewünscht ist, zuerst die Prüfung strukturieren und danach den passenden Output-Skill nehmen.
-- Wenn Rechtslage, Rechtsprechung oder Behördenpraxis aktuell sein kann, ausdrücklich Quellen-/Aktualitätsprüfung einplanen.
-- Wenn der Nutzer nur schnell arbeiten will, mit einem **Minimalpfad** starten: Frist sichern, Sachverhalt ordnen, nächster Fachmodul.
-
-### 4. Antwortformat für den Einstieg
-
-Nutze als erste Antwort nach Aktivierung möglichst dieses kompakte Format:
-
-**Kurzbild**
-- Ziel: [...]
-- Rolle/Perspektive: [...]
-- Eilt wegen: [...]
-- Fehlende Unterlagen: [...]
-
-**Vorgeschlagener Workflow**
-1. [...]
-2. [...]
-3. [...]
-
-**Passende Skills aus diesem Plugin**
-| Skill | Warum jetzt? | Erwarteter Output |
-|---|---|---|
-| `...` | [...] | [...] |
-
-**Nächste Frage**
-[Eine kurze, entscheidende Frage stellen, wenn wirklich etwas fehlt.]
-
-### 5. Fachmodule gezielt und sparsam laden
-
-1. Wähle zunächst genau einen Primärskill, der zum Auftrag und gewünschten Arbeitsprodukt passt. Weitere Skills kommen nur bei einer konkreten Schnittstelle hinzu.
-2. Sind im Arbeitsordner bereits Unterlagen vorhanden, lies zuerst Dateinamen, Metadaten und Inhaltsübersichten. Frage nur nach Informationen, die daraus nicht verlässlich hervorgehen.
-3. Grenze Suchen in Microsoft 365 nach Website, Bibliothek oder Ordner, Zeitraum, Absender, Dateityp und prägnantem Suchbegriff ein. Erfasse im ersten Durchgang höchstens 20 Treffer und öffne höchstens fünf tragende Unterlagen.
-4. Lies Word- und PDF-Dokumente einmal vollständig, Tabellen nur in den einschlägigen Blättern und Bereichen sowie E-Mails im maßgeblichen Gesprächsverlauf. Verwende gewonnene Extrakte weiter, statt dieselbe Quelle erneut zu öffnen.
-5. Die [vollständige Fachmodulkarte](https://github.com/Klotzkette/claude-fuer-deutsches-recht/blob/main/insolvenzplan-starug-planwerkstatt/skills/inso-starug-planwerkstatt-start-chronologie-fristen/references/fachmodule.md) wird nur konsultiert, wenn kein eindeutiger Primärskill feststeht oder eine echte Querschnittsfrage verbleibt.
-
-## Worum geht es?
-
-Dieses Plugin ist das spezialisierte Werkzeug für die Erstellung, Prüfung und Begleitung von Insolvenzplaenen nach §§ 217 ff. InsO und Restrukturierungsplaenen nach dem StaRUG (Unternehmensstabilisierungs- und -restrukturierungsgesetz). Es deckt den gesamten Planlebenszyklus ab: vom Kaltstart-Interview und der Verfahrenswahl über die Planarchitektur, Vergleichsrechnung und Gruppenbildung bis zur Abstimmung, dem Cramdown-Verfahren und dem Planvollzug.
-
-Das Plugin richtet sich an Insolvenzverwalter, Sachwalter, Sanierungsberater und deren Anwaelte. Es ist kein Rechtsberatungsersatz, sondern ein strukturiertes Prüfwerkzeug für komplexe Sanierungsmandate. Für die parallele Bearbeitung einfacherer insolvenzrechtlicher Grundfragen steht das Plugin `insolvenzrecht` zur Verfuegung.
-
-## Wann brauchen Sie diese Skill?
-
-- Sie stehen am Beginn eines Restrukturierungsmandats und müssen zwischen Insolvenzplan, Eigenverwaltung, Schutzschirm, StaRUG und aussergerichtlicher Einigung auswaehlen.
-- Sie erstellen oder prüfe den darstellenden und gestaltenden Teil eines Insolvenzplans oder StaRUG-Plans.
-- Sie müssen Gruppen und Klassen nach §§ 222 f. InsO oder §§ 9 f. StaRUG sachgerecht bilden.
-- Sie simulieren Abstimmungsmehrheiten oder prüfen Cramdown-Szenarien nach Paragraf 245 InsO oder Paragraf 26 StaRUG.
-- Sie begleiten den Planvollzug und müssen Abweichungen von Quoten und Covenants dokumentieren.
-
-## Fachbegriffe (kurz erklaert)
-
-- **Insolvenzplan** — Gestaltendes Instrument nach §§ 217 ff. InsO, mit dem Gläubiger abweichend vom Regelverfahren befriedigt werden; besteht aus darstellendem und gestaltendem Teil plus Anlagen.
-- **StaRUG-Plan** — Restrukturierungsplan nach dem StaRUG; ermoeglicht Eingriffe in Gläubigerpositionen ausserhalb des Insolvenzverfahrens bei bloss drohender Zahlungsunfaehigkeit.
-- **Vergleichsrechnung** — Kernbestandteil des Plans; zeigt je Gruppe, dass kein Beteiligter im Plan schlechter steht als ohne Plan (Schlechterstellungsverbot).
-- **Cramdown** — Gruppenübergreifende Mehrheitsentscheidung nach Paragraf 245 InsO beziehungsweise Paragraf 26 StaRUG; im StaRUG sind Vergleichsrechnung, angemessene Beteiligung und Gruppenmehrheit gesondert zu prüfen.
-- **Planbetroffene** — Im StaRUG-Verfahren ausdrucklich ausgewaehlte Inhaber gestaltbarer Rechtsverhaeltnisse (§§ 2 ff. StaRUG).
-- **Sanierungsmoderation** — Aussergerichtliches Verfahren nach §§ 94 ff. StaRUG mit gerichtlich bestelltem Moderator.
-- **Integrierte Planung** — Verknuepfte Finanzplanung aus GuV, Liquiditaet und Bilanz als wirtschaftliche Grundlage für den Plan.
-- **Planvollzug** — Phase nach Planbestaetigung; umfasst Zahlungen, Covenants und Monitoring nach §§ 248 und 261 InsO.
-
-## Rechtsgrundlagen
-
-- §§ 217 bis 269 InsO — Insolvenzplan (Architektur, Gruppen, Anlagen, Abstimmung, Bestaetigung, Vollzug).
-- §§ 244 und 245 InsO — Abstimmungsmehrheiten und Obstruktionsverbot (Cramdown).
-- § 251 InsO — Minderheitenschutz.
-- §§ 261 und 268 InsO — Planueberwachung.
-- §§ 1 bis 93 StaRUG — Restrukturierungsplan (Planinhalt, Gruppenbildung, Abstimmung, Cramdown, Bestaetigung, Sanierungsmoderation).
-- §§ 3a und 3c EStG — Sanierungsgewinn und steuerliche Folgen.
-- § 8c KStG — Verlustvortraege bei Anteilsuebertragung.
-
-## Schritt-für-Schritt: Einstieg ins Plugin
-
-1. Kaltstart-Interview durchfuehren: Skill `ips-kaltstart-interview` für fehlende Unterlagen.
-2. Verfahrenswahl treffen: Skill `ips-verfahrenswahl` (InsO-Plan, StaRUG, aussergerichtlich).
-3. Planarchitektur aufbauen: `ips-insolvenzplan-architektur` oder `ips-starug-plan-architektur`.
-4. Vergleichsrechnung und Gruppen: `ips-vergleichsrechnung` und `ips-gruppen-klassenbildung`.
-5. Red-Team-Prüfung vor Einreichung: `ips-redteam-qualitygate`.
-
-## Skill-Tour (was gibt es hier?)
-
-**Einstieg und Steuerung**
-
-- `ips-kommandocenter` — Mandat starten, Verfahrensroute und Ampelstatus bestimmen.
-- `ips-kaltstart-interview` — Strukturiertes Erstgespraech bei fehlenden Unterlagen.
-- `ips-verfahrenswahl` — Auswahl zwischen Insolvenzplan, StaRUG, Eigenverwaltung, Schutzschirm und aussergerichtlicher Einigung.
-
-**Planarchitektur**
-
-- `ips-insolvenzplan-architektur` — Vollstaendigen Insolvenzplan nach §§ 217 ff. InsO strukturieren.
-- `ips-starug-plan-architektur` — Vollstaendigen StaRUG-Restrukturierungsplan strukturieren.
-- `ips-darstellender-teil` — Darstellenden Teil vollstaendig verfassen (§ 220 InsO, § 6 StaRUG).
-- `ips-gestaltender-teil` — Gestaltenden Teil mit Rechtsaenderungen, Quoten und Vollstreckungsgrundlagen formulieren.
-- `ips-anlagenpaket` — Pflichtanlagen vollstaendig zusammenstellen.
-
-**Gruppen und Klassen**
-
-- `ips-gruppen-klassenbildung` — Abstimmungsgruppen nach InsO und Klassen nach StaRUG sachgerecht bilden.
-- `ips-planbetroffene-auswahl` — Planbetroffene im StaRUG sachgerecht auswaehlen und begruenden.
-
-**Wirtschaftliche Grundlagen**
-
-- `ips-sanierungskonzept` — Sanierungskonzept als wirtschaftliche Grundlage erstellen oder prüfen.
-- `ips-integrierte-planung` — Integrierte Planrechnung aus GuV, Liquiditaet und Bilanz erstellen.
-- `ips-vergleichsrechnung` — Vergleichsrechnung (Planfall vs. Ohne-Plan-Szenario) je Gruppe erstellen.
-- `ips-steuern-bilanz-folgen` — Steuerliche und bilanzielle Folgen des Plans prüfen.
-
-**Sicherheiten und Dritte**
-
-- `ips-sicherheiten-drittsicherheiten` — Absonderungsrechte und Drittsicherheiten planfest behandeln.
-- `ips-asset-deals-im-plan-grundstuecke-marken-kundendaten` — Asset-Deals im Insolvenzplan strukturieren.
-
-**Abstimmung und Durchsetzung**
-
-- `ips-abstimmung-mehrheiten` — Abstimmungsmehrheiten simulieren und Abstimmungstermin vorbereiten.
-- `ips-cramdown-obstruktion` — Obstruktionsverbot und gruppenuebergreifende Mehrheitsentscheidung prüfen.
-- `ips-minderheitenschutz` — Schlechterstellungsrisiken opponierender Beteiligter analysieren.
-
-**Gerichtliche Schritte und Stabilisierung**
-
-- `ips-gerichtliche-schritte` — Gerichtliche Verfahrensschritte von Einreichung bis Planbestaetigung steuern.
-- `ips-stabilisierung-starug` — StaRUG-Stabilisierungsmassnahmen beantragen bei Vollstreckungsdruck.
-
-**Kommunikation und Dokumentation**
-
-- `ips-stakeholder-kommunikation` — Gläubiger, Banken, Arbeitnehmer und Gericht zielgruppengerecht informieren.
-- `ips-datenraum-register` — Planbegleitenden Datenraum aufbauen und Dokumentenregister fuehren.
-
-**Qualitaetssicherung und Planvollzug**
-
-- `ips-redteam-qualitygate` — Plan vor Einreichung aus Gegnersicht und Gerichtssicht prüfen.
-- `ips-planvollzug-monitoring` — Planvollzug ueberwachen, Zahlungen kontrollieren und Abweichungen dokumentieren.
-
-**Sanierungsmoderation**
-
-- `sanierungsmoderation-94-starug` — Sanierungsmoderation nach § 94 StaRUG vorbereiten und durchfuehren.
-
-## Worauf besonders achten
-
-- **Vergleichsrechnung ist Herzstuck** — Ohne belastbare Vergleichsrechnung wird der Plan nicht bestaetigt; Annahmenregister und Stressszenarien müssen dokumentiert sein.
-- **StaRUG nur bei drohender Zahlungsunfaehigkeit** — § 18 InsO ist Voraussetzung; bei eingetretener Zahlungsunfaehigkeit oder Ueberschuldung ist InsO-Antragspflicht zu prüfen.
-- **Cramdown-Risiko fruehzeitig managen** — Ablehnende Klassen fruhzeitig identifizieren und Planmehrwert-Argument oder absolute Prioritaet vorbereiten.
-- **Steuerfolgen nicht unterschaetzen** — Sanierungsgewinn (§ 3a EStG) und Verlustvortragsbeschraenkung (§ 8c KStG) können den Planmehrwert aufzehren; Steuerberater fruehzeitig einbinden.
-- **Artverschiedenheit InsO und StaRUG** — Planbetroffene und Gruppenbildung folgen verschiedenen Logiken; Verwechslungen fuehren zu Versagungsgruenden.
-
-## Typische Fehler
-
-- Vergleichsrechnung stuetzt sich auf nicht dokumentierte Annahmen; Gericht verlangt Plausibilitaetsnachweis.
-- Gruppenbildung folgt nicht wirtschaftlichen Interessen, sondern praktischen Erwaegungen; Missbrauchsvorwurf.
-- Anlagenpaket ist unvollstaendig bei Einreichung; Vorpruefungsversagung nach § 231 InsO.
-- Planbetroffene im StaRUG umfassen Arbeitnehmer oder Deliktsglaeubiger, die ausgenommen sein müssen (§ 4 StaRUG).
-- Red-Team-Prüfung wird uebersprungen; Fehler werden erst vom gegnerischen Anwalt oder Gericht erkannt.
-
-## Quellen und Aktualitaet
-
-- Stand: 05/2026
-- InsO §§ 217 ff. in der geltenden Fassung
-- StaRUG in der geltenden Fassung
-- EStG §§ 3a und 3c; KStG § 8c
-
----
-
-## Skill: `verfahrenswahl-restrukturierungsplan`
-
-_Wenn es um Verfahrenswahl und Routenentscheidung in Insolvenzplan- und StaRUG-Planwerkstatt geht: rechnet Schwellen, Beträge, Varianten und Kontrollannahmen durch; liefert eine Berechnungstabelle mit Schwellen, Annahmen und Kontrollfragen._
-
-# Verfahrenswahl und Routenentscheidung
-
-## Arbeitsweg
-
-- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
-- Fristen und Eilrisiken zuerst markieren: nur die Fristen des konkreten Rechtsgebiets und der Akte verwenden; Widerspruch, Klage, Einspruch, Rechtsmittel, Verjährung, Verwirkung, Rüge-, Anzeige-, Anmelde- und Ausschlussfristen strikt trennen und nie aus einem anderen Fachgebiet übernehmen.
-- Tragende Normen verifizieren: StaRUG §§ 1, 29, 31, 39, 49-55, 84, 102, IDW S 6, IDW S 11, InsO § 270; StaRUG — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
-- Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
-- Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
-
-## Fachlicher Kern — Insolvenz- und Sanierungsrecht
-- **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `Verfahrenswahl und Routenentscheidung` und löse die dort angelegte Fachfrage; arbeite mit konkreten Tatbestandsmerkmalen, Beweisfragen und dem unmittelbar benötigten Arbeitsprodukt. Routingfragen bleiben Hilfsmittel, wenn Frist, Zuständigkeit oder Verfahrensart offen sind.
-- **Arbeitsmodus:** Zuerst Insolvenzgrund, Frist, Organpflicht, Verfahrensstand, Sicherheiten, Massebezug und Anfechtungszeitraum klären; dann Sanierungsfähigkeit, Plan/StaRUG, Haftung und Dokumentationsschutz.
-- **Outputpflicht:** Krisenzeitachse, Liquiditätsstatus, Anfechtungsmatrix, Sicherheitenradar, IDW-S6-/Sanierungscheck, Register-/Grundbuch-Nachweispaket oder Schriftsatzbaustein.
-- **Fehlerbremse:** Tragende Normen/Entscheidungen live oder aus der Akte verifizieren; Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei prüfbarer Quelle. Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen.
-
-## Startet bei
-
-- neuem Planmandat oder Sanierungsprojekt
-- unvollständiger Datenlage
-- Vorbereitung von Insolvenzplan, Eigenverwaltung, Schutzschirm oder StaRUG
-- Prüfung eines vorhandenen Planentwurfs
-
-## Geführter Workflow
-
-1. Drohende Zahlungsunfähigkeit, Zahlungsunfähigkeit, Überschuldung, Masse, Organpflichten und Zeitfenster erfassen.
-2. Planbetroffene und Eingriffstiefe prüfen: nur Finanzgläubiger, alle Insolvenzgläubiger, Gesellschafter, Sicherheiten oder operative Verträge.
-3. Gerichtsbedarf prüfen: Vorprüfung, Abstimmung, Stabilisierung, Planbestätigung oder Insolvenzverfahren.
-4. No-go-Schwellen markieren, insbesondere Arbeitnehmerforderungen im StaRUG, Massefähigkeit, Insolvenzantragspflichten und ungesicherte Datenlage.
-
-## Stopper-Matrix vor der Verfahrenswahl
-
-| Befund | Route | Begründung |
-|---|---|---|
-| Paragraf 17 InsO eingetreten | Kein StaRUG als Hauptweg; Eigenverwaltung, Schutzschirm oder Regelverfahren prüfen | Vorinsolvenzlicher Rahmen setzt voraus, dass Zahlungsunfähigkeit noch nicht eingetreten ist |
-| Paragraf 19 InsO ohne positive Fortbestehensprognose | Antragspflicht und Insolvenzroute prüfen | Überschuldung löst Antragspflicht aus |
-| Paragraf 18 InsO, aber Paragraf 17 negativ | StaRUG, außergerichtlicher Standstill oder Schutzschirm-Option offen | Drohende Zahlungsunfähigkeit ist der Zugangspunkt |
-| Streitige Forderung ohne Fälligkeit oder Bestand | Nicht als Paragraf-17-Stopper behandeln | Materielle Rechtslage entscheidet |
-| Vorläufig vollstreckbarer Titel, Vollstreckung läuft | Nennwert in Drei-Wochen-Liquiditätsstatus einstellen | Vollstreckungsdruck kann Paragraf 17 auslösen |
-| Vollstreckung aus Titel vorläufig eingestellt | Gesondert würdigen | Belegwirkung kann entfallen |
-
-Leitanker für die Stopper: BGH IX ZR 229/22 vom 23.01.2025 zum vollstreckbaren Titel und zur objektiven Rechtslage; BGH, Beschluss vom 11.03.2025 - II ZR 139/23 ergänzend zum materiellen Bestand, ohne Grundsatzurteilswirkung; BGH IX ZB 38/24 vom 22.05.2025 nur zur Belegwirkung eines Titels beim Gläubigerantrag nach eingestellter Vollstreckung. Keine prozentuale Kürzung streitiger Passiva allein nach Prozessrisiko.
-
-## Ausgabe
-
-- Routenmatrix
-- Empfehlung mit Bedingungen
-- Risikoampel
-- Entscheidungsnotiz
-
-## Qualitätsgates
-
-- Keine Rechtswirkung ohne genaue Betroffenengruppe, Betrag, Zeitpunkt und Beleg.
-- Vergleichsrechnung, Planrechnung und Sanierungskonzept müssen zueinander passen.
-- Annahmen, Schätzungen und fehlende Quellen werden sichtbar markiert.
-- Berufsgeheimnis, Datenschutz, Geschäftsgeheimnisse und gerichtliche Fristen bleiben vorrangig.
-
-## Rückfragen
-
-Wenn Angaben fehlen, stelle höchstens acht konkrete Fragen und gruppiere sie nach Zahlen, Recht, Stakeholdern und Verfahren. Bei Eilfällen liefere zuerst eine Minimalroute mit Stoppern.
-
-## Arbeitsstil
-
-Freundlich, ruhig, präzise und planarchitektonisch. Der Skill erklärt, warum eine Information wichtig ist, und macht aus unsortiertem Material einen belastbaren nächsten Arbeitsschritt.
-
-## Rechtliche Grundlagen und Leitentscheidungen (Stand Mai 2026)
-
-- Eröffnungsgründe: § 17 InsO (ZU; Antragspflicht), § 18 InsO (drohende ZU; StaRUG-Zugang; Prognose 24 Monate), § 19 InsO (Überschuldung; Antragspflicht; Prognose 12 Monate seit 01.01.2024).
-- **BGH IX ZR 229/22 vom 23.01.2025** — titulierte und vollstreckte fällige Forderung mit Nennwert im Liquiditätsstatus; keine Prozessrisikoquote.
-- **BGH, Beschluss vom 11.03.2025 - II ZR 139/23** — materieller Bestand als Maßstab im Nichtzulassungsbeschwerdeverfahren; keine eigenständige Grundsatzentscheidung.
-- **BGH IX ZB 38/24 vom 22.05.2025** — vorläufige Einstellung der Vollstreckung kann die Belegwirkung des Titels für den Insolvenzantrag entfallen lassen.
-- **BGH II ZR 206/22 vom 23.07.2024** — Fortwirkende Haftung des ausgeschiedenen Geschäftsführers; bei Verfahrenswahl Haftungsrisiken sorgfältig dokumentieren. <https://dejure.org/dienste/vernetzung/rechtsprechung?Gericht=BGH&Datum=23.07.2024&Aktenzeichen=II+ZR+206/22>
-
-## Paragrafenkette (Insolvenzplan / StaRUG)
-
-Paragraf 217 InsO (Planoption) → Paragraf 218 InsO (Planvorlage) → Paragrafen 220 und 221 InsO (darstellender und gestaltender Teil) → Paragraf 222 InsO (Gruppen) → Paragrafen 235 bis 244 InsO (Abstimmung) → Paragraf 245 InsO (gruppenübergreifende Mehrheitsentscheidung) → Paragraf 248 InsO (Bestätigung) → Paragraf 254 InsO (Wirkung) → Paragrafen 2 bis 28 StaRUG (Planreichweite, Inhalt und Annahme) → Paragraf 25 StaRUG (Mehrheiten) → Paragraf 26 StaRUG (gruppenübergreifende Mehrheitsentscheidung)
-
-## Triage — Plan-Vorarbeiten
-
-Bevor losgelegt wird, klaere:
-1. **Verfahrensart?** Insolvenzplan nach Paragrafen 217 ff. InsO oder StaRUG-Restrukturierungsplan nach Paragrafen 2 bis 28 StaRUG?
-2. **Klassenbildung schluessig?** Paragraf 222 InsO und Paragraf 9 StaRUG — Rechtsstellung und sachgerechte wirtschaftliche Interessen; Gleichbehandlung im StaRUG zusätzlich nach Paragraf 10 StaRUG.
-3. **Mehrheits-Simulation?** Ist 75%-Schwelle (StaRUG) oder 50%+50% (InsO) realistisch?
-4. **Vergleichsrechnung?** Liquidationswert als Referenz für Best-Interest-Test berechnen.
-5. **Cramdown-Szenario?** Welche Klasse koennte ablehnen und ist Obstruktionsverbot anwendbar?
-
----
-
-## Skill: `klassen-verhandlung-vergleich-und-eskalation`
-
-_Wenn es um Klassen: Verhandlung, Vergleich und Eskalation in Insolvenzplan- und StaRUG-Planwerkstatt geht: entwickelt Verhandlungsziel, Vergleichskorridor und Eskalationspfad; liefert eine Verhandlungs- oder Eskalationslinie mit Optionen._
-
-# Klassen: Verhandlung, Vergleich und Eskalation
-
-## Arbeitsweg
-
-- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
-- Fristen und Eilrisiken zuerst markieren: nur die Fristen des konkreten Rechtsgebiets und der Akte verwenden; Widerspruch, Klage, Einspruch, Rechtsmittel, Verjährung, Verwirkung, Rüge-, Anzeige-, Anmelde- und Ausschlussfristen strikt trennen und nie aus einem anderen Fachgebiet übernehmen.
-- Tragende Normen verifizieren: StaRUG §§ 1, 29, 31, 39, 49-55, 84, 102, IDW S 6, IDW S 11, InsO § 270; StaRUG — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
-- Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
-- Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
-
-## Fachlicher Kern — Insolvenz- und Sanierungsrecht
-- **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `Klassen: Verhandlung, Vergleich und Eskalation` und löse die dort angelegte Fachfrage; arbeite mit konkreten Tatbestandsmerkmalen, Beweisfragen und dem unmittelbar benötigten Arbeitsprodukt. Routingfragen bleiben Hilfsmittel, wenn Frist, Zuständigkeit oder Verfahrensart offen sind.
-- **Arbeitsmodus:** Zuerst Insolvenzgrund, Frist, Organpflicht, Verfahrensstand, Sicherheiten, Massebezug und Anfechtungszeitraum klären; dann Sanierungsfähigkeit, Plan/StaRUG, Haftung und Dokumentationsschutz.
-- **Outputpflicht:** Krisenzeitachse, Liquiditätsstatus, Anfechtungsmatrix, Sicherheitenradar, IDW-S6-/Sanierungscheck, Register-/Grundbuch-Nachweispaket oder Schriftsatzbaustein.
-- **Fehlerbremse:** Tragende Normen/Entscheidungen live oder aus der Akte verifizieren; Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei prüfbarer Quelle. Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen.
-
-## Spezialwissen: Klassen: Verhandlung, Vergleich und Eskalation
-- **Normen-/Quellenanker:** StaRUG.
-
-## Fallweichen
-Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur Rückfragen, die die nächste Weiche verändern:
-
-1. Welche Rolle hat die fragende Person und wer ist Gegenüber?
-2. Welches konkrete Ziel soll erreicht oder verhindert werden?
-3. Welche Frist, Zustellung, Schwelle, Zahlung, Sanktion oder Verfahrensstufe ist kritisch?
-4. Welche Dokumente, Registerauszüge, Bescheide, Verträge, Tabellen, Screenshots oder Nachrichten belegen den Punkt?
-5. Welcher Output wird gebraucht: Memo, Checkliste, Tabelle, Entwurf, Schriftsatzbaustein, Mandantenbrief oder Entscheidungsvorlage?
-
-## Arbeitsworkflow
-1. **Fallbild bilden:** Sachverhalt, Rollen, Zeitachse und Dokumente in eine kurze Matrix bringen.
-2. **Rechtsrahmen setzen:** Normen, Zuständigkeiten, Fristen, Formfragen und Verfahrensstand zum Themenfeld **Klassen** prüfen.
-3. **Prüfpunkte abarbeiten:** Tatbestandsmerkmale, Beweisfragen, typische Fehler, Gegenargumente und Ermessens- oder Wertungsfragen trennen.
-4. **Risiko bewerten:** Grün/Gelb/Rot mit Begründung, Annahmen, fehlenden Belegen und möglichen Alternativwegen ausgeben.
-5. **Anschluss bauen:** Passende weitere Skills desselben Plugins vorschlagen, wenn eine Vertiefung, ein Schreiben, eine Tabelle, ein Fristenblatt oder eine Verhandlungsstrategie sinnvoll ist.
 
 ---
 

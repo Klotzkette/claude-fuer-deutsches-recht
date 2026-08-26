@@ -1,6 +1,6 @@
 ---
 name: moral-rights-musikwerk-melodie-nutzungsrechte
-description: "Wenn es um digitale Werkzeuge-Cover, Voice Model und Entstellung in Urheberrecht DE EU geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für digitale Werkzeuge-Cover, Voice Model und Entstellung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # AI-Cover, Voice Model und Entstellung

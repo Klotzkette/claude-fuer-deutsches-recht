@@ -1,6 +1,6 @@
 ---
 name: goae-2-abweichende-vereinbarung-honorarvereinbarung
-description: "Wenn es um GOÄ Paragraf 2 abweichende Vereinbarung Honorarvereinbarung in GOÄ Gebührenordnung für Ärzte geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für GOÄ Paragraf 2 abweichende Vereinbarung Honorarvereinbarung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # GOÄ § 2 abweichende Vereinbarung Honorarvereinbarung

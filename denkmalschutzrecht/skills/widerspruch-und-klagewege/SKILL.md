@@ -1,6 +1,6 @@
 ---
 name: widerspruch-und-klagewege
-description: "Wenn es um Widerspruch und Klagewege im Denkmalrecht in Denkmalschutzrecht — Bundesweiter Rahmen und sechzehn geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
+description: "Für Widerspruch und Klagewege im Denkmalrecht: erstellt Entwurf mit Antrag, Beweis und Anlagen; Ergebnis: Schriftsatz mit Begründungs- und Anlagenlogik."
 ---
 
 # Widerspruch und Klagewege im Denkmalrecht

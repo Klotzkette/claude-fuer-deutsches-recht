@@ -1,6 +1,6 @@
 ---
 name: betreuung-grenzueberschreitend-betreuungsantrag
-description: "Wenn es um Grenzueberschreitende Betreuung in Betreuungsrecht geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
+description: "Für Grenzüberschreitende Betreuung: erstellt Entwurf mit Antrag, Beweis und Anlagen; Ergebnis: Schriftsatz mit Begründungs- und Anlagenlogik."
 ---
 
 # Grenzueberschreitende Betreuung

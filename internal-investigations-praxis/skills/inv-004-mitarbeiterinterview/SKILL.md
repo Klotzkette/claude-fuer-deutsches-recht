@@ -1,6 +1,6 @@
 ---
 name: inv-004-mitarbeiterinterview
-description: "Wenn es um Mitarbeiterinterviews in Internal Investigations Praxis geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Mitarbeiterinterviews: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt. Fachgebiet: Internal Investigations Praxis. Route: inv-004-mitarbeiterinterview."
 ---
 
 # Mitarbeiterinterviews

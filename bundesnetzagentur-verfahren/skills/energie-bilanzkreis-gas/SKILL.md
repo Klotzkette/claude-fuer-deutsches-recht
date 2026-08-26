@@ -1,6 +1,6 @@
 ---
 name: energie-bilanzkreis-gas
-description: "Wenn es um Energie: Bilanzkreis Gas in Bundesnetzagentur-Verfahren geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
+description: "Für Energie: Bilanzkreis Gas: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Energie: Bilanzkreis Gas

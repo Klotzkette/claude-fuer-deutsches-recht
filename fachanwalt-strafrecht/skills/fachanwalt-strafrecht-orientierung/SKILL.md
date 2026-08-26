@@ -1,6 +1,6 @@
 ---
 name: fachanwalt-strafrecht-orientierung
-description: "Wenn es um Fachanwalt für Strafrecht — Orientierung in Fachanwalt Strafrecht geht: klärt Rolle, Ziel, Frist, Unterlagen und den passenden nächsten Fachskill; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen."
+description: "Für Fachanwalt für Strafrecht — Orientierung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Fachanwalt für Strafrecht — Orientierung

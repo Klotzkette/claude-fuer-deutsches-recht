@@ -1,6 +1,6 @@
 ---
 name: ptbs-polizei-reaktivierung-bbg-remonstration
-description: "Wenn es um PTBS und Dienstunfall im Vollzugsdienst in Beamtenrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für PTBS und Dienstunfall im Vollzugsdienst: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # PTBS und Dienstunfall im Vollzugsdienst

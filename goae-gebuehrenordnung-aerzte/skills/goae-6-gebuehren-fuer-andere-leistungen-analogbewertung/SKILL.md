@@ -1,6 +1,6 @@
 ---
 name: goae-6-gebuehren-fuer-andere-leistungen-analogbewertung
-description: "Wenn es um GOÄ Paragraf 6 Gebühren für andere Leistungen Analogbewertung in GOÄ Gebührenordnung für Ärzte geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Berechnungstabelle mit Schwellen, Annahmen und Kontrollfragen."
+description: "Für GOÄ Paragraf 6 Gebühren für andere Leistungen Analogbewertung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Berechnungstabelle mit Annahmen und Kontrollfragen."
 ---
 
 # GOÄ § 6 Gebühren für andere Leistungen Analogbewertung

@@ -1,6 +1,6 @@
 ---
 name: idd-vertrieb-beratung-dokumentation
-description: "Wenn es um IDD/VVG-Vertrieb: Beratung und Dokumentation in Versicherungsrecht geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
+description: "Für IDD/VVG-Vertrieb: Beratung und Dokumentation: ordnet Akte, Belege und Lücken; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # IDD/VVG-Vertrieb: Beratung und Dokumentation

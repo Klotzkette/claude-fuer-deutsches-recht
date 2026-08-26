@@ -1,6 +1,6 @@
 ---
 name: steuerliche-probleme-kanzlei-kammerantwort-und-verfahr
-description: "Wenn es um Steuerliche Probleme Kanzlei Kammerantwort Und Verfahr in Berufsrecht Anwälte geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Verhandlungs- oder Eskalationslinie mit Optionen."
+description: "Für Steuerliche Probleme Kanzlei Kammerantwort und Verfahr: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Schnittstellenkarte mit Zuständigkeits- und Nachweisfragen."
 ---
 
 # Anwälte: steuerliche probleme kanzlei - Kammerantwort mit Verfahrensstrategie, Tonlage und Belegplan

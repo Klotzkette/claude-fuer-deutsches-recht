@@ -1,6 +1,6 @@
 ---
 name: fremdtext-plagiat-uebernahmecheck
-description: "Wenn es um Fremdtext- und Übernahmecheck in Verlagsredaktion geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen."
+description: "Für Fremdtext- und Übernahmecheck: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Fremdtext- und Übernahmecheck

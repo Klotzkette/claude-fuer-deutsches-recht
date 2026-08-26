@@ -1,6 +1,6 @@
 ---
 name: verwr-verwaltungsverfahren-checkliste
-description: "Wenn es um Verwr Verwaltungsverfahren Checkliste in Fachanwalt Verwaltungsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Verwr Verwaltungsverfahren Checkliste: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Checkliste Verwaltungsverfahren VwVfG: Anhörung § 28, Begruendung § 39, Bekanntgabe § 41, Anhörung bei Ermessensentscheidungen

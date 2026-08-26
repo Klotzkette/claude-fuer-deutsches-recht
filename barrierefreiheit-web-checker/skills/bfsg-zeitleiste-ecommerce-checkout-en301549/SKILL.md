@@ -1,6 +1,6 @@
 ---
 name: bfsg-zeitleiste-ecommerce-checkout-en301549
-description: "Wenn es um BFSG: Zeitleiste und Pflichten in Barrierefreiheit Web Checker geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für BFSG: Zeitleiste und Pflichten: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # BFSG: Zeitleiste und Pflichten

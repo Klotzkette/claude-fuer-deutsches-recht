@@ -1,6 +1,6 @@
 ---
 name: spezial-nachfrage-livequellen-und-rechtsprechungscheck
-description: "Wenn es um Nachfrage: Livequellen- und Rechtsprechungscheck in Kartellrecht — Marktabgrenzungsprüfung geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Nachfrage: Livequellen- und Rechtsprechungscheck: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Nachfrage: Livequellen- und Rechtsprechungscheck

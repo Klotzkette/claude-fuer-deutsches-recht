@@ -1,6 +1,6 @@
 ---
 name: urkundenbeweis-415-ff-zpo
-description: "Wenn es um Urkundenbeweis: Schriftliche Dokumente als Beweis in selbstvertreter-amtsgericht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Urkundenbeweis: Schriftliche Dokumente als Beweis: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Beweislast- und Substantiierungsmatrix."
 ---
 
 # Urkundenbeweis: Schriftliche Dokumente als Beweis

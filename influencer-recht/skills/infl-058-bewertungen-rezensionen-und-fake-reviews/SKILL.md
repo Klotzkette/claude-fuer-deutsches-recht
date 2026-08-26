@@ -1,6 +1,6 @@
 ---
 name: infl-058-bewertungen-rezensionen-und-fake-reviews
-description: "Wenn es um Influencer-Recht: Bewertungen Rezensionen und Fake Reviews in Influencer-Recht geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Influencer-Recht: Bewertungen Rezensionen und Fake Reviews: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Influencer-Recht: Bewertungen Rezensionen und Fake Reviews

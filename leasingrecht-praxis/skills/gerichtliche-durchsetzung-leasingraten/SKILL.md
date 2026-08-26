@@ -1,6 +1,6 @@
 ---
 name: gerichtliche-durchsetzung-leasingraten
-description: "Wenn es um Gerichtliche Durchsetzung von Leasingraten in Leasingrecht Praxis geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
+description: "Für Gerichtliche Durchsetzung von Leasingraten: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Gerichtliche Durchsetzung von Leasingraten

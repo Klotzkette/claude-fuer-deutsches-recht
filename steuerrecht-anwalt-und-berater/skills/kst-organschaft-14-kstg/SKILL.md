@@ -1,6 +1,6 @@
 ---
 name: kst-organschaft-14-kstg
-description: "Wenn es um Koerperschaftsteuerliche Organschaft — Paragraf 14 KStG und Gewinnabfuehrungsvertrag in Steuerrecht – Steuerberater und Anwälte geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Körperschaftsteuerliche Organschaft — Paragraf 14 KStG und Gewinnabführungsvertrag: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Koerperschaftsteuerliche Organschaft — § 14 KStG und Gewinnabfuehrungsvertrag

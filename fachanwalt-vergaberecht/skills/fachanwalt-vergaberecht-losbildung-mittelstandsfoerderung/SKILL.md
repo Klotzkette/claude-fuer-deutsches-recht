@@ -1,6 +1,6 @@
 ---
 name: fachanwalt-vergaberecht-losbildung-mittelstandsfoerderung
-description: "Wenn es um Losbildung und Mittelstandsfoerderung in Fachanwalt Vergaberecht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
+description: "Für Losbildung und Mittelstandsförderung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Losbildung und Mittelstandsfoerderung

@@ -1,6 +1,6 @@
 ---
 name: notar-gesellschafterliste-fehler-praevention
-description: "Wenn es um Notar Gesellschafterliste Fehler: Präventions- und Organisationspaket in Berufsgerichtliche Verfahren Freie Berufe geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert einen Einreichungsplan mit Form-, Portal- und Nachweischeck."
+description: "Für Notar Gesellschafterliste Fehler: Präventions- und Organisationspaket: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Notar Gesellschafterliste Fehler: Präventions- und Organisationspaket

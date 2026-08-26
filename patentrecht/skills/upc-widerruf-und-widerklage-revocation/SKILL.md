@@ -1,6 +1,6 @@
 ---
 name: upc-widerruf-und-widerklage-revocation
-description: "Wenn es um UPC: Widerruf und Revocation Counterclaim in patentrecht geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
+description: "Für UPC: Widerruf und Revocation Counterclaim: erstellt Entwurf mit Antrag, Beweis und Anlagen; Ergebnis: Schriftsatz mit Begründungs- und Anlagenlogik."
 ---
 
 # UPC: Widerruf und Revocation Counterclaim

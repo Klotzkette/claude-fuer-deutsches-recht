@@ -1,6 +1,6 @@
 ---
 name: geldwaesche-krypto-haeusliche-gewalt
-description: "Wenn es um Geldwäsche mit Krypto- oder Kontospuren in Staatsanwaltschaft Praxis-Einstieg geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Beweislast- und Substantiierungsmatrix. Auswahlstichwort: Geldwaesche Krypto Haeusliche Gewalt; Arbeitsfeld: Staatsanwaltschaft Praxis-Einstieg."
+description: "Für Geldwäsche mit Krypto- oder Kontospuren: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Schnittstellenkarte mit Zuständigkeits- und Nachweisfragen."
 ---
 
 # Geldwäsche mit Krypto- oder Kontospuren

@@ -1,6 +1,6 @@
 ---
 name: irrtumsanfechtung-paragraph-119-1
-description: "Wenn es um Irrtumsanfechtung — Paragraf 119 Abs. 1 BGB in BGB AT Prüfer geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
+description: "Für Irrtumsanfechtung — Paragraf 119 Abs. 1 BGB: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Irrtumsanfechtung — § 119 Abs. 1 BGB

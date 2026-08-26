@@ -1,6 +1,6 @@
 ---
 name: strassenverkehr-mandantenbrief-schreiben
-description: "Wenn es um Strassenverkehr Mandantenbrief Schreib in Ordnungswidrigkeitenrecht geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
+description: "Für Strassenverkehr Mandantenbrief Schreib: erstellt Entwurf mit Antrag, Beweis und Anlagen; Ergebnis: Schriftsatz mit Begründungs- und Anlagenlogik."
 ---
 
 # Strassenverkehr Mandantenbrief Schreib

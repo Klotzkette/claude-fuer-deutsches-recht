@@ -1,6 +1,6 @@
 ---
 name: kreuzfahrtschiff-closing-planen
-description: "Wenn es um Kreuzfahrtschiff – Closing planen in See- und Schifffahrtsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Kreuzfahrtschiff – Closing planen: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Schnittstellenkarte mit Zuständigkeits- und Nachweisfragen."
 ---
 
 # Kreuzfahrtschiff – Closing planen

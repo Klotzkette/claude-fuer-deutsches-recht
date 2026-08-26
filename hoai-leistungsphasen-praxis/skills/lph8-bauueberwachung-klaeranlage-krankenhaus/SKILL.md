@@ -1,6 +1,6 @@
 ---
 name: lph8-bauueberwachung-klaeranlage-krankenhaus
-description: "Wenn es um Bauueberwachung Klaeranlage Becken und Dichtigkeit in HOAI Leistungsphasen Praxis geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Bauüberwachung Kläranlage Becken und Dichtigkeit: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Bauueberwachung Klaeranlage Becken und Dichtigkeit

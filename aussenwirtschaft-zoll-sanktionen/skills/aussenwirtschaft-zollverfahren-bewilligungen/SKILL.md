@@ -1,6 +1,6 @@
 ---
 name: aussenwirtschaft-zollverfahren-bewilligungen
-description: "Wenn es um Zollverfahren und Bewilligungen: Auswahl wirtschaftliche Voraussetzungen und AEO in Außenwirtschaft, Sanktionen, Zoll und CBAM geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Zollverfahren und Bewilligungen: Auswahl wirtschaftliche Voraussetzungen und AEO: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Zollverfahren und Bewilligungen: Auswahl wirtschaftliche Voraussetzungen und AEO

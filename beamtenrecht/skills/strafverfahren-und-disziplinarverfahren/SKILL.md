@@ -1,6 +1,6 @@
 ---
 name: strafverfahren-und-disziplinarverfahren
-description: "Wenn es um Strafverfahren Und Disziplinarverfahren in Beamtenrecht geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Verhandlungs- oder Eskalationslinie mit Optionen."
+description: "Für Strafverfahren und Disziplinarverfahren: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Strafverfahren Und Disziplinarverfahren

@@ -1,6 +1,6 @@
 ---
 name: mahnung-zahlungsverzug-mieter
-description: "Wenn es um Mahnung und Kündigung bei Zahlungsverzug (Vermieter / Hausverwaltung) in Mietrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Mahnung und Kündigung bei Zahlungsverzug (Vermieter / Hausverwaltung): ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Mahnung und Kündigung bei Zahlungsverzug (Vermieter / Hausverwaltung)

@@ -1,6 +1,6 @@
 ---
 name: mandat-triage-urheber-medienrecht
-description: "Wenn es um Urheber- und Medienrechtsmandat schnell einordnen und naechste Schritte bestimmen in Fachanwalt Urheber Medienrecht geht: klärt Rolle, Ziel, Frist, Unterlagen und den passenden nächsten Fachskill; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Urheber- und Medienrechtsmandat schnell einordnen und nächste Schritte bestimmen: routet Rolle, Frist, Unterlagen und Fachschritt; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Urheber- und Medienrechtsmandat schnell einordnen und naechste Schritte bestimmen

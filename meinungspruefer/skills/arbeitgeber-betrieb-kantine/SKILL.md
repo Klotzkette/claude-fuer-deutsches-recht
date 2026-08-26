@@ -1,6 +1,6 @@
 ---
 name: arbeitgeber-betrieb-kantine
-description: "Wenn es um Betrieb, Kantine und Arbeitgeber in Meinungsprüfer geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Betrieb, Kantine und Arbeitgeber: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Betrieb, Kantine und Arbeitgeber

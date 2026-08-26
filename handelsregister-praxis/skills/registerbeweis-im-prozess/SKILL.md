@@ -1,6 +1,6 @@
 ---
 name: registerbeweis-im-prozess
-description: "Wenn es um Registerbeweis im Zivilprozess in Handelsregister Praxis geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Registerbeweis im Zivilprozess: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Beweislast- und Substantiierungsmatrix."
 ---
 
 # Registerbeweis im Zivilprozess

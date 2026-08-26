@@ -1,6 +1,6 @@
 ---
 name: spezial-versr-red-team-und-qualitaetskontrolle
-description: "Wenn es um Versr: Red-Team und Qualitätskontrolle in Fachanwalt Versicherungsrecht geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Versr: Red-Team und Qualitätskontrolle: prüft Ergebnis, Beweislast und Gegenposition; Ergebnis: Gegenprüfung mit Beweis- und Fristencheck."
 ---
 
 # Versr: Red-Team und Qualitätskontrolle

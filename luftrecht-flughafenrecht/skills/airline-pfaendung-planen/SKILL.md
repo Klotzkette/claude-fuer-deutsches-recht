@@ -1,6 +1,6 @@
 ---
 name: airline-pfaendung-planen
-description: "Wenn es um Airline – Pfändung planen in Luftrecht und Flughafenrecht geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
+description: "Für Airline – Pfändung planen: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Airline – Pfändung planen

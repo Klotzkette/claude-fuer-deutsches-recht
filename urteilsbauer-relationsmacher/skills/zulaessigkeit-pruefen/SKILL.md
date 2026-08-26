@@ -1,6 +1,6 @@
 ---
 name: zulaessigkeit-pruefen
-description: "Wenn es um Zulässigkeit der Zivilklage in Urteilsbauer und Relationsmacher geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
+description: "Für Zulässigkeit der Zivilklage: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Zulässigkeit der Zivilklage

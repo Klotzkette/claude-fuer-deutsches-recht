@@ -1,6 +1,6 @@
 ---
 name: personalakte-und-datenschutz-soldaten
-description: "Wenn es um Personalakte Soldaten in Kriegsdienstverweigerung und Wehrdienst geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
+description: "Für Personalakte Soldaten: ordnet Akte, Belege und Lücken; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Personalakte Soldaten

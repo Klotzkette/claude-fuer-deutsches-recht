@@ -1,6 +1,6 @@
 ---
 name: bmg-krankenversicherungs-leistungsrecht
-description: "Wenn es um Krankenversicherungs- und Leistungsrecht (SGB V) (BMG) in Legistik-Werkstatt geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen. Auswahlstichwort: Bmg Krankenversicherungs Leistungsrecht; Arbeitsfeld: Legistik-Werkstatt."
+description: "Für Krankenversicherungs- und Leistungsrecht (SGB V) (BMG): ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt. Fachgebiet: Legistik-Werkstatt. Route: bmg-krankenversicherungs-leistungsrecht."
 ---
 
 # Krankenversicherungs- und Leistungsrecht (SGB V) (BMG)

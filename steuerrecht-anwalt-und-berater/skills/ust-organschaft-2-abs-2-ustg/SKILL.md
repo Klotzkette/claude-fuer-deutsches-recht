@@ -1,6 +1,6 @@
 ---
 name: ust-organschaft-2-abs-2-ustg
-description: "Wenn es um Umsatzsteuerliche Organschaft — Paragraf 2 Abs. 2 Nr. 2 UStG in Steuerrecht – Steuerberater und Anwälte geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen."
+description: "Für Umsatzsteuerliche Organschaft — Paragraf 2 Abs. 2 Nr. 2 UStG: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Umsatzsteuerliche Organschaft — § 2 Abs. 2 Nr. 2 UStG

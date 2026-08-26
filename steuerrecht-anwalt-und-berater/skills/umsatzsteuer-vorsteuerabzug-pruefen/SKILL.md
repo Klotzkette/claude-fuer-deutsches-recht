@@ -1,6 +1,6 @@
 ---
 name: umsatzsteuer-vorsteuerabzug-pruefen
-description: "Wenn es um Umsatzsteuer-Vorsteuerabzug prüfen in Steuerrecht – Steuerberater und Anwälte geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Umsatzsteuer-Vorsteuerabzug prüfen: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Schnittstellenkarte mit Zuständigkeits- und Nachweisfragen."
 ---
 
 # Umsatzsteuer-Vorsteuerabzug prüfen

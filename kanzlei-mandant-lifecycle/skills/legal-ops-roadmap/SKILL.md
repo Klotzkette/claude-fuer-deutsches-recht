@@ -1,6 +1,6 @@
 ---
 name: legal-ops-roadmap
-description: "Wenn es um Legal Ops Roadmap in Kanzlei-Mandant Lifecycle geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Legal Ops Roadmap: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Legal Ops Roadmap

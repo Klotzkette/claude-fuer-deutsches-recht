@@ -1,6 +1,6 @@
 ---
 name: edpb-art-65-streitbeilegung
-description: "Wenn es um EDPB-Streitbeilegung Art. 65 in Datenschutz-Sanktionsverfahren und Verteidigung geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
+description: "Für EDPB-Streitbeilegung Art. 65: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # EDPB-Streitbeilegung Art. 65

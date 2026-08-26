@@ -1,6 +1,6 @@
 ---
 name: vorrang-unmittelbare-wettbewerb-kartell
-description: "Wenn es um Vorrang und unmittelbare Wirkung in Europarecht-Kompass für deutsche Juristen geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Vorrang und unmittelbare Wirkung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Vorrang und unmittelbare Wirkung

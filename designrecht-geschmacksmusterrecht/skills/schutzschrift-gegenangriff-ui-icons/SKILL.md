@@ -1,6 +1,6 @@
 ---
 name: schutzschrift-gegenangriff-ui-icons
-description: "Wenn es um Schutzschrift Und Gegenangriff in designrecht-geschmacksmusterrecht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
+description: "Für Schutzschrift und Gegenangriff: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Schutzschrift Und Gegenangriff

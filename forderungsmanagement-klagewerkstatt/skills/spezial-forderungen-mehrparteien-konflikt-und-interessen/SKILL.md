@@ -1,6 +1,6 @@
 ---
 name: spezial-forderungen-mehrparteien-konflikt-und-interessen
-description: "Wenn es um Forderungen: Mehrparteienkonflikt und Interessenmatrix in Forderungsmanagement — Klagewerkstatt geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
+description: "Für Forderungen: Mehrparteienkonflikt und Interessenmatrix: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Forderungen: Mehrparteienkonflikt und Interessenmatrix

@@ -1,6 +1,6 @@
 ---
 name: bebauungsplan-gutachten-eilantrag
-description: "Wenn es um Bebauungsplan Gutachten Zerlegen in Umweltschutzverband Verbandsklage geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
+description: "Für Bebauungsplan Gutachten Zerlegen: erstellt Entwurf mit Antrag, Beweis und Anlagen; Ergebnis: Schriftsatz mit Begründungs- und Anlagenlogik."
 ---
 
 # Bebauungsplan Gutachten Zerlegen

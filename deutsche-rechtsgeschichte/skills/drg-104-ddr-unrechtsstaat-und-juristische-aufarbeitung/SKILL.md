@@ -1,6 +1,6 @@
 ---
 name: drg-104-ddr-unrechtsstaat-und-juristische-aufarbeitung
-description: "Wenn es um DDR-Recht und juristische Aufarbeitung in Deutsche Rechtsgeschichte geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
+description: "Für DDR-Recht und juristische Aufarbeitung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt. Fachgebiet: Deutsche Rechtsgeschichte. Route: drg-104-ddr-unrechtsstaat-und-juristische-aufarbeitung."
 ---
 # DDR-Recht und juristische Aufarbeitung
 

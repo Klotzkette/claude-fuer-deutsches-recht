@@ -1,6 +1,6 @@
 ---
 name: imports-exports-602-603
-description: "Wenn es um Importation und Exportation Paragrafen 602-603 in US Copyright Act und Registrierung für deutsche Verlage geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Importation und Exportation Paragrafen 602-603: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Importation und Exportation §§ 602-603

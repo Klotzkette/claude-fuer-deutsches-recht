@@ -1,6 +1,6 @@
 ---
 name: verjaehrung-bereicherung-anfechtung-fristen
-description: "Wenn es um Verjährung: Bereicherung, AnfG und InsO-Anfechtung in bereicherungs-und-anfechtungsrecht-prüfer geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Verjährung: Bereicherung, AnfG und InsO-Anfechtung: prüft Frist, Form, Zuständigkeit und Eilbedarf; Ergebnis: Fristen- und Risikoampel."
 ---
 
 # Verjährung: Bereicherung, AnfG und InsO-Anfechtung

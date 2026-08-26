@@ -1,6 +1,6 @@
 ---
 name: familienbetreuer-wohnungsaufloesung-genehmigung
-description: "Wenn es um Familienbetreuer: Wohnung, Heim, Kündigung, Genehmigung in Betreuungsrecht geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen. Auswahlstichwort: Familienbetreuer Wohnungsaufloesung Genehmigung; Arbeitsfeld: Betreuungsrecht."
+description: "Für Familienbetreuer: Wohnung, Heim, Kündigung, Genehmigung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Schnittstellenkarte mit Zuständigkeits- und Nachweisfragen. Fachgebiet: Betreuungsrecht. Route: familienbetreuer-wohnungsaufloesung-genehmigung."
 ---
 
 # Familienbetreuer: Wohnung, Heim, Kündigung, Genehmigung

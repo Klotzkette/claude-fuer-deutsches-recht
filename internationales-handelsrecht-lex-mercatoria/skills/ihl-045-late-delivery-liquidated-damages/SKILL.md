@@ -1,6 +1,6 @@
 ---
 name: ihl-045-late-delivery-liquidated-damages
-description: "Wenn es um Late Delivery Liquidated Damages in Internationales Handelsrecht und Lex Mercatoria geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Late Delivery Liquidated Damages: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Late Delivery Liquidated Damages

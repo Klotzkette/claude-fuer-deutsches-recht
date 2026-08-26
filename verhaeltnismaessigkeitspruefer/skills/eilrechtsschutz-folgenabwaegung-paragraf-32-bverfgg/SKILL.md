@@ -1,6 +1,6 @@
 ---
 name: eilrechtsschutz-folgenabwaegung-paragraf-32-bverfgg
-description: "Wenn es um Eilrechtsschutz: Folgenabwägung nach Paragraf 32 BVerfGG in Verhältnismäßigkeitsprüfer geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
+description: "Für Eilrechtsschutz: Folgenabwägung nach Paragraf 32 BVerfGG: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Eilrechtsschutz: Folgenabwägung nach § 32 BVerfGG

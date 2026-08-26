@@ -1,6 +1,6 @@
 ---
 name: themenscout-rechtsentwicklung
-description: "Wenn es um Themenscout Rechtsentwicklung in Verlagsredaktion geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen."
+description: "Für Themenscout Rechtsentwicklung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Themenscout Rechtsentwicklung

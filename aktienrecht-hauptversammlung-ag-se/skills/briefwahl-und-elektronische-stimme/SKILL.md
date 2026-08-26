@@ -1,6 +1,6 @@
 ---
 name: briefwahl-und-elektronische-stimme
-description: "Wenn es um Briefwahl Und Elektronische Stimme in Hauptversammlung AG und SE geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
+description: "Für Briefwahl und Elektronische Stimme: erstellt Entwurf mit Antrag, Beweis und Anlagen; Ergebnis: Schriftsatz mit Begründungs- und Anlagenlogik."
 ---
 
 # Briefwahl Und Elektronische Stimme

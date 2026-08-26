@@ -1,6 +1,6 @@
 ---
 name: abmahnung-tk-anbieterwechsel
-description: "Wenn es um Abmahnung nach UWG/TKG in Telekommunikationsrecht geht: entwickelt Verhandlungsziel, Vergleichskorridor und Eskalationspfad; liefert einen Einreichungsplan mit Form-, Portal- und Nachweischeck."
+description: "Für Abmahnung nach UWG/TKG: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Abmahnung nach UWG/TKG

@@ -1,6 +1,6 @@
 ---
 name: maschine-oder-unvollstaendige-maschine
-description: "Wenn es um Maschine oder unvollständige Maschine in robotik-recht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
+description: "Für Maschine oder unvollständige Maschine: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt. Fachgebiet: robotik-recht. Route: maschine-oder-unvollstaendige-maschine."
 ---
 
 # Maschine oder unvollständige Maschine

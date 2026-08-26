@@ -1,6 +1,6 @@
 ---
 name: erfinderische-taetigkeit-freedom-to-ki-patent
-description: "Wenn es um erfinderische-tätigkeit-prüfen in patentrecherche geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für erfinderische-tätigkeit-prüfen: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # erfinderische-tätigkeit-prüfen

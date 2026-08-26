@@ -1,6 +1,6 @@
 ---
 name: aussenwirtschaft-bafa-genehmigungen
-description: "Wenn es um BAFA-Genehmigungen und Anfragen in Außenwirtschaft, Sanktionen, Zoll und CBAM geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für BAFA-Genehmigungen und Anfragen: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # BAFA-Genehmigungen und Anfragen

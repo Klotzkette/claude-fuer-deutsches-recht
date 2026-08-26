@@ -1,6 +1,6 @@
 ---
 name: aufsichtsbehoerden-auskunftsverlangen-art-58-1
-description: "Wenn es um Auskunftsverlangen Art. 58 Abs. 1 DSGVO beantworten in Datenschutz-Sanktionsverfahren und Verteidigung geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
+description: "Für Auskunftsverlangen Art. 58 Abs. 1 DSGVO beantworten: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt. Fachgebiet: Datenschutz-Sanktionsverfahren und Verteidigung."
 ---
 
 # Auskunftsverlangen Art. 58 Abs. 1 DSGVO beantworten

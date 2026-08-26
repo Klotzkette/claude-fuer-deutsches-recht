@@ -1,6 +1,6 @@
 ---
 name: strafrecht-spezial-umweltstrafrecht-326-stgb-abfall
-description: "Wenn es um Unerlaubter Umgang mit Abfaellen nach Paragraph 326 StGB in Fachanwalt Strafrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Unerlaubter Umgang mit Abfällen nach Paragraph 326 StGB: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Unerlaubter Umgang mit Abfaellen nach Paragraph 326 StGB

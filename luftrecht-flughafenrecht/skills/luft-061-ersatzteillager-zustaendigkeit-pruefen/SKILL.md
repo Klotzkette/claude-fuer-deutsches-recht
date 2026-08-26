@@ -1,6 +1,6 @@
 ---
 name: luft-061-ersatzteillager-zustaendigkeit-pruefen
-description: "Wenn es um Ersatzteillager Zustaendigkeit Pruefen in Luftrecht und Flughafenrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Ersatzteillager Zuständigkeit Prüfen: prüft Frist, Form, Zuständigkeit und Eilbedarf; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Ersatzteillager Zustaendigkeit Pruefen

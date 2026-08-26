@@ -1,6 +1,6 @@
 ---
 name: satire-ironisierung-schimpfwort-lackaffe
-description: "Wenn es um Satire, Ironie und Pinocchio-Vergleich in Meinungsprüfer geht: entwickelt Verhandlungsziel, Vergleichskorridor und Eskalationspfad; liefert eine Verhandlungs- oder Eskalationslinie mit Optionen."
+description: "Für Satire, Ironie und Pinocchio-Vergleich: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Satire, Ironie und Pinocchio-Vergleich

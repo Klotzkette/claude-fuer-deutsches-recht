@@ -1,6 +1,6 @@
 ---
 name: bmv-mobilitaets-und-fuehrerscheinrecht
-description: "Wenn es um Mobilitaets- und Fuehrerscheinrecht (BMV) in Legistik-Werkstatt geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen."
+description: "Für Mobilitäts- und Führerscheinrecht (BMV): ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Mobilitaets- und Fuehrerscheinrecht (BMV)

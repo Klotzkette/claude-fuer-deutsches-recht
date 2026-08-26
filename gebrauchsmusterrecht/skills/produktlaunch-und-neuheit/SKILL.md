@@ -1,6 +1,6 @@
 ---
 name: produktlaunch-und-neuheit
-description: "Wenn es um Produktlaunch Und Neuheit in gebrauchsmusterrecht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen."
+description: "Für Produktlaunch und Neuheit: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Schnittstellenkarte mit Zuständigkeits- und Nachweisfragen."
 ---
 
 # Produktlaunch Und Neuheit

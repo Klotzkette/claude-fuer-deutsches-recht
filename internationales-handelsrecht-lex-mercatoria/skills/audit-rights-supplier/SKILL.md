@@ -1,6 +1,6 @@
 ---
 name: audit-rights-supplier
-description: "Wenn es um Audit-Rechte gegenüber Lieferanten in Internationales Handelsrecht und Lex Mercatoria geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Audit-Rechte gegenüber Lieferanten: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Audit-Rechte gegenüber Lieferanten

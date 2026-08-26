@@ -1,6 +1,6 @@
 ---
 name: aussenwirtschaft-praeferenzkalkulation-lieferantenerklaerung
-description: "Wenn es um Praeferenzkalkulation und Lieferantenerklaerung: Nachweis des Praeferenzursprungs in Außenwirtschaft, Sanktionen, Zoll und CBAM geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Berechnungstabelle mit Schwellen, Annahmen und Kontrollfragen."
+description: "Für Präferenzkalkulation und Lieferantenerklärung: Nachweis des Präferenzursprungs: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Praeferenzkalkulation und Lieferantenerklaerung: Nachweis des Praeferenzursprungs

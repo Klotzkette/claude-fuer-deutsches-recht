@@ -1,6 +1,6 @@
 ---
 name: stb-lohn-pruefungen-drv-bp-haftung-stb
-description: "Wenn es um DRV-Pruefung, Lohnsteuer-Aussenpruefung, StB-Haftung in Steuerrecht – Steuerberater und Anwälte geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für DRV-Prüfung, Lohnsteuer-Außenprüfung, StB-Haftung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Tatbestands- oder Anspruchsmatrix."
 ---
 
 # DRV-Pruefung, Lohnsteuer-Aussenpruefung, StB-Haftung

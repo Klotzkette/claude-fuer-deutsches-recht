@@ -1,6 +1,6 @@
 ---
 name: gmbh-gesellschaftsgruender
-description: "Wenn es um Fristen- und Risikoampel in gesellschaftsgründer — Gründungsassistent für deutsche geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Fristen- und Risikoampel: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt. Fachgebiet: gesellschaftsgründer — Gründungsassistent für deutsche."
 ---
 
 # Fristen- und Risikoampel

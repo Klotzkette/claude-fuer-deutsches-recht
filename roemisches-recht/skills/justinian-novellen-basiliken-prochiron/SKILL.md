@@ -1,6 +1,6 @@
 ---
 name: justinian-novellen-basiliken-prochiron
-description: "Wenn es um Justinianische Novellen und griechische Rechtskultur in Römisches Recht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
+description: "Für Justinianische Novellen und griechische Rechtskultur: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt. Fachgebiet: Römisches Recht. Route: justinian-novellen-basiliken-prochiron."
 ---
 
 # Justinianische Novellen und griechische Rechtskultur

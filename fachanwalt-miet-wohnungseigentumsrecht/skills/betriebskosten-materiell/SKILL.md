@@ -1,6 +1,6 @@
 ---
 name: betriebskosten-materiell
-description: "Wenn es um Betriebskosten Materiell in Fachanwalt Miet- und Wohnungseigentumsrecht geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Berechnungstabelle mit Schwellen, Annahmen und Kontrollfragen."
+description: "Für Betriebskosten Materiell: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Materielle Betriebskostenprüfung: Umlagefähigkeit nach Mietvertrag und BetrKV, laufende Kosten, Wirtschaftlichkeitsgebot, Abgrenzung Wartung/Reparatur, Verwaltung/Instandhaltung, Hausmeistersplit, Versicherung, Grundsteuer, Belege und Korrekturberechnung.
@@ -69,3 +69,7 @@ description: "Wenn es um Betriebskosten Materiell in Fachanwalt Miet- und Wohnun
 ## Quellen- und Sicherheitsregel
 
 Normtexte von BetrKV, § 556 BGB, § 556a BGB, HeizkostenV und CO2KostAufG aktuell prüfen. Rechtsprechung nur mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle nennen.
+
+## Vertiefung bei Bedarf
+
+- Bei `spezial-betriebskosten-materiell` beziehungsweise Betriebskosten materiell: [die zusätzliche Vertiefung laden](./references/vertiefung-spezial-betriebskosten-materiell.md).

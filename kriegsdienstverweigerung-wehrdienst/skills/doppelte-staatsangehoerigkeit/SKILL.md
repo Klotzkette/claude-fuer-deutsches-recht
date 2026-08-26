@@ -1,6 +1,6 @@
 ---
 name: doppelte-staatsangehoerigkeit
-description: "Wenn es um Doppelte Staatsangehörigkeit in Kriegsdienstverweigerung und Wehrdienst geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Doppelte Staatsangehörigkeit: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Doppelte Staatsangehörigkeit

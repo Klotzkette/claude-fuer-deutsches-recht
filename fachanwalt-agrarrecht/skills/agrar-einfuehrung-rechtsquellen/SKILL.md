@@ -1,6 +1,6 @@
 ---
 name: agrar-einfuehrung-rechtsquellen
-description: "Wenn es um Agrarrecht: Rechtsquellen in Fachanwalt Agrarrecht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Verhandlungs- oder Eskalationslinie mit Optionen."
+description: "Für Agrarrecht: Rechtsquellen: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Agrarrecht: Rechtsquellen

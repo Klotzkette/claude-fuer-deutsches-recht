@@ -1,6 +1,6 @@
 ---
 name: false-friends-contracts
-description: "Wenn es um False Friends in Common-Law-Verträgen in Common-Law-Kompass für deutsche Wirtschaftsjuristen geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen."
+description: "Für False Friends in Common-Law-Verträgen: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # False Friends in Common-Law-Verträgen

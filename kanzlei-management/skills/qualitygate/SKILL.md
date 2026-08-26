@@ -1,6 +1,6 @@
 ---
 name: qualitygate
-description: "Wenn es um Kanzlei-Management Qualitygate in Kanzlei Management geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Kanzlei-Management Qualitygate: prüft Ergebnis, Beweislast und Gegenposition; Ergebnis: Gegenprüfung mit Beweis- und Fristencheck."
 ---
 
 # Kanzlei-Management Qualitygate

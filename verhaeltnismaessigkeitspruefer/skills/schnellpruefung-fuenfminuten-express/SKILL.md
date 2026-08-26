@@ -1,6 +1,6 @@
 ---
 name: schnellpruefung-fuenfminuten-express
-description: "Wenn es um Schnellpruefung — Verhältnismäßigkeit in fuenf Minuten in Verhältnismäßigkeitsprüfer geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
+description: "Für Schnellprüfung — Verhältnismäßigkeit in fünf Minuten: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Tatbestands- oder Anspruchsmatrix."
 ---
 
 # Schnellpruefung — Verhältnismäßigkeit in fuenf Minuten

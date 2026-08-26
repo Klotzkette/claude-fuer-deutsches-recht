@@ -1,6 +1,6 @@
 ---
 name: chronologie
-description: "Wenn es um Chronologie in Gesellschaftsrechtliche Treuepflicht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Chronologie mit Belegmatrix und Widerspruchsliste."
+description: "Für Chronologie: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Chronologie mit Beleg- und Widerspruchsmatrix."
 ---
 
 # Chronologie

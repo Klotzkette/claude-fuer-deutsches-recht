@@ -1,6 +1,6 @@
 ---
 name: allgemein
-description: "Wenn es um Kaltstart Internal Investigation in Internal Investigations Praxis geht: klärt Rolle, Ziel, Frist, Unterlagen und den passenden nächsten Fachskill; liefert eine Fristen- und Risikoampel mit Sofortschritten. Auswahlstichwort: Allgemein; Arbeitsfeld: Internal Investigations Praxis."
+description: "Für Kaltstart Internal Investigation: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Kaltstart Internal Investigation

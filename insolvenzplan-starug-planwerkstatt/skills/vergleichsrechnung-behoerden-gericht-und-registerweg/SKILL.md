@@ -1,6 +1,6 @@
 ---
 name: vergleichsrechnung-behoerden-gericht-und-registerweg
-description: "Wenn es um Vergleichsrechnung Behoerden Gericht Und Registerweg in Insolvenzplan- und StaRUG-Planwerkstatt geht: entwickelt Verhandlungsziel, Vergleichskorridor und Eskalationspfad; liefert einen Einreichungsplan mit Form-, Portal- und Nachweischeck."
+description: "Für Vergleichsrechnung Behörden Gericht und Registerweg: entwickelt Ziel, Vergleich und Eskalation; Ergebnis: Einreichungsplan mit Form- und Nachweischeck."
 ---
 
 # Vergleichsrechnung: Behörden-, Gerichts- oder Registerweg im Insolvenzplan und StaRUG: fachlich vertieftes Modul mit Normenradar (InsO/StaRUG/Planrecht), Tatbestands-/Beweislastmatrix, Fristen- und Formcheck, Gegenargumenten, Fehlerbremse und direkt nutzbarem Arbeitsprodukt.
@@ -42,3 +42,7 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 3. **Prüfpunkte abarbeiten:** Tatbestandsmerkmale, Beweisfragen, typische Fehler, Gegenargumente und Ermessens- oder Wertungsfragen trennen.
 4. **Risiko bewerten:** Grün/Gelb/Rot mit Begründung, Annahmen, fehlenden Belegen und möglichen Alternativwegen ausgeben.
 5. **Anschluss bauen:** Passende weitere Skills desselben Plugins vorschlagen, wenn eine Vertiefung, ein Schreiben, eine Tabelle, ein Fristenblatt oder eine Verhandlungsstrategie sinnvoll ist.
+
+## Vertiefung bei Bedarf
+
+- Bei `spezial-vergleichsrechnung-behoerden-gericht-und-registerweg` beziehungsweise Vergleichsrechnung: Behörden-, Gerichts- oder Registerweg: [die zusätzliche Vertiefung laden](./references/vertiefung-spezial-vergleichsrechnung-behoerden-gericht-und-registerweg.md).

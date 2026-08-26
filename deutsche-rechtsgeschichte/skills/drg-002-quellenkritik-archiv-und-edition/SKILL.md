@@ -1,6 +1,6 @@
 ---
 name: drg-002-quellenkritik-archiv-und-edition
-description: "Wenn es um Quellenkritik Archiv Und Edition in Deutsche Rechtsgeschichte geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Quellenkritik Archiv und Edition: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Quellenkritik Archiv Und Edition

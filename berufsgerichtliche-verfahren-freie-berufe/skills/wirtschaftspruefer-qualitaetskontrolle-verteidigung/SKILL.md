@@ -1,6 +1,6 @@
 ---
 name: wirtschaftspruefer-qualitaetskontrolle-verteidigung
-description: "Wenn es um Wirtschaftsprüfer Qualitätskontrolle: Verteidigungs- und Kammerantwort in Berufsgerichtliche Verfahren Freie Berufe geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Wirtschaftsprüfer Qualitätskontrolle: Verteidigungs- und Kammerantwort: prüft Ergebnis, Beweislast und Gegenposition; Ergebnis: Gegenprüfung mit Beweis- und Fristencheck."
 ---
 
 # Wirtschaftsprüfer Qualitätskontrolle: Verteidigungs- und Kammerantwort

@@ -1,6 +1,6 @@
 ---
 name: erzeugung-leitfaden-erstellen-mandanten
-description: "Wenn es um [VERALTET] Formularerstellung → siehe `/entwurf` in Plugin für die studentische Rechtsberatungsstelle geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
+description: "Für [VERALTET] Formularerstellung → siehe `/entwurf`: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Schnittstellenkarte mit Zuständigkeits- und Nachweisfragen."
 ---
 
 # [VERALTET] Formularerstellung → siehe `/entwurf`

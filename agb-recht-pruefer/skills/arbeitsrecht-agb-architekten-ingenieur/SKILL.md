@@ -1,6 +1,6 @@
 ---
 name: arbeitsrecht-agb-architekten-ingenieur
-description: "Wenn es um Arbeitsrecht AGB 310 Abs. 4 in AGB-Recht-Prüfer geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen."
+description: "Für Arbeitsrecht AGB 310 Abs. 4: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Schnittstellenkarte mit Zuständigkeits- und Nachweisfragen."
 ---
 
 # Arbeitsrecht AGB 310 Abs. 4

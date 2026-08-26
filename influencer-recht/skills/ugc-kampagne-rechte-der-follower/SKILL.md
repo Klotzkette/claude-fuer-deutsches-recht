@@ -1,6 +1,6 @@
 ---
 name: ugc-kampagne-rechte-der-follower
-description: "Wenn es um Influencer-Recht: UGC-Kampagne – Rechte der Follower in Influencer-Recht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Influencer-Recht: UGC-Kampagne – Rechte der Follower: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Influencer-Recht: UGC-Kampagne – Rechte der Follower

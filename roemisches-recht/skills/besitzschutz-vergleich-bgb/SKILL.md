@@ -1,6 +1,6 @@
 ---
 name: besitzschutz-vergleich-bgb
-description: "Wenn es um Besitzschutz Vergleich BGB in Römisches Recht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Besitzschutz Vergleich BGB: entwickelt Ziel, Vergleich und Eskalation; Ergebnis: Verhandlungs- oder Eskalationslinie."
 ---
 
 # Besitzschutz Vergleich BGB

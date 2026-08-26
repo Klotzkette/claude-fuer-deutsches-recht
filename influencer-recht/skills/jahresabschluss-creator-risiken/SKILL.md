@@ -1,6 +1,6 @@
 ---
 name: jahresabschluss-creator-risiken
-description: "Wenn es um Influencer-Recht: Jahresabschluss – Creator-Risiken in Influencer-Recht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Influencer-Recht: Jahresabschluss – Creator-Risiken: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Influencer-Recht: Jahresabschluss – Creator-Risiken

@@ -1,6 +1,6 @@
 ---
 name: durchsuchung-und-beschlagnahme
-description: "Wenn es um Durchsuchung Und Beschlagnahme in Betäubungsmittelrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Durchsuchung und Beschlagnahme: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt. Fachgebiet: Betäubungsmittelrecht."
 ---
 
 # Durchsuchung Und Beschlagnahme

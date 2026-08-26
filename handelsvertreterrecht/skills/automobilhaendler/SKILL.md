@@ -1,6 +1,6 @@
 ---
 name: automobilhaendler
-description: "Wenn es um Ausgleichsanspruch im Kfz-Vertrieb — Handelsvertreter oder Vertragshändler? in Handelsvertreterrecht und Vertriebsverträge geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
+description: "Für Ausgleichsanspruch im Kfz-Vertrieb — Handelsvertreter oder Vertragshändler?: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Ausgleichsanspruch im Kfz-Vertrieb — Handelsvertreter oder Vertragshändler?

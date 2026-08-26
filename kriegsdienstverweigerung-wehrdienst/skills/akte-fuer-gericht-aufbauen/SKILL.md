@@ -1,6 +1,6 @@
 ---
 name: akte-fuer-gericht-aufbauen
-description: "Wenn es um Gerichtsakte aufbauen in Kriegsdienstverweigerung und Wehrdienst geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
+description: "Für Gerichtsakte aufbauen: ordnet Akte, Belege und Lücken; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Gerichtsakte aufbauen

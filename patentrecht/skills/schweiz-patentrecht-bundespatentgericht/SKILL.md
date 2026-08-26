@@ -1,6 +1,6 @@
 ---
 name: schweiz-patentrecht-bundespatentgericht
-description: "Wenn es um Schweiz: IGE und Bundespatentgericht in patentrecht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
+description: "Für Schweiz: IGE und Bundespatentgericht: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Schweiz: IGE und Bundespatentgericht

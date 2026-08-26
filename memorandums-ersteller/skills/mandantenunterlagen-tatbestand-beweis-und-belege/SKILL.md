@@ -1,6 +1,6 @@
 ---
 name: mandantenunterlagen-tatbestand-beweis-und-belege
-description: "Wenn es um Mandantenunterlagen: Tatbestandsmerkmale, Beweisfragen und Beleglage in Memorandums-Ersteller geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
+description: "Für Mandantenunterlagen: Tatbestandsmerkmale, Beweisfragen und Beleglage: ordnet Akte, Belege und Lücken; Ergebnis: Dokumentenmatrix mit Nachforderungsliste."
 ---
 
 # Mandantenunterlagen: Tatbestandsmerkmale, Beweisfragen und Beleglage

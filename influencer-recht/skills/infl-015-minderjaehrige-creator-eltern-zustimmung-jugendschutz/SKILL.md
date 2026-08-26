@@ -1,6 +1,6 @@
 ---
 name: infl-015-minderjaehrige-creator-eltern-zustimmung-jugendschutz
-description: "Wenn es um Influencer-Recht: Minderjährige Creator Eltern Zustimmung Jugendschutz in Influencer-Recht geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Influencer-Recht: Minderjährige Creator Eltern Zustimmung Jugendschutz: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Influencer-Recht: Minderjährige Creator Eltern Zustimmung Jugendschutz

@@ -1,6 +1,6 @@
 ---
 name: versicherungsvermittler-abgrenzung
-description: "Wenn es um Versicherungsvermittler: Abgrenzung HGB-Handelsvertreter zu Paragraf 59 ff. VVG in Handelsvertreterrecht und Vertriebsverträge geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
+description: "Für Versicherungsvermittler: Abgrenzung HGB-Handelsvertreter zu Paragraf 59 ff. VVG: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Versicherungsvermittler: Abgrenzung HGB-Handelsvertreter zu § 59 ff. VVG

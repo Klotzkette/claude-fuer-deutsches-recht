@@ -1,6 +1,6 @@
 ---
 name: koerperverletzung-korruption
-description: "Wenn es um Körperverletzung Paragrafen 223. 230 StGB in Strafanzeige-Vorbereiter geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
+description: "Für Körperverletzung nach Paragrafen 223 und 230 StGB: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Körperverletzung nach Paragrafen 223 und 230 StGB

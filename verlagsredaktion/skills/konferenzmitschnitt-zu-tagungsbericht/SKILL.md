@@ -1,6 +1,6 @@
 ---
 name: konferenzmitschnitt-zu-tagungsbericht
-description: "Wenn es um Konferenzmitschnitt zu Tagungsbericht in Verlagsredaktion geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
+description: "Für Konferenzmitschnitt zu Tagungsbericht: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Konferenzmitschnitt zu Tagungsbericht

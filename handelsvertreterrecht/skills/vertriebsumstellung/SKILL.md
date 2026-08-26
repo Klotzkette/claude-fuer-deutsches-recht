@@ -1,6 +1,6 @@
 ---
 name: vertriebsumstellung
-description: "Wenn es um Vertriebsumstellung durch den Unternehmer — Ausgleich und Kündigung nach Paragraf 89b HGB in Handelsvertreterrecht und Vertriebsverträge geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Vertriebsumstellung durch den Unternehmer — Ausgleich und Kündigung nach Paragraf 89b HGB: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Vertriebsumstellung durch den Unternehmer — Ausgleich und Kündigung nach § 89b HGB

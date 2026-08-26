@@ -1,6 +1,6 @@
 ---
 name: methodenlehre-historische-compliance-dokumentation-aktenfuehrung
-description: "Wenn es um Historische Compliance-Dokumentation und Aktenführung in Methodenlehre bürgerliches Recht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Historische Compliance-Dokumentation und Aktenführung: ordnet Akte, Belege und Lücken; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Historische Compliance-Dokumentation und Aktenführung

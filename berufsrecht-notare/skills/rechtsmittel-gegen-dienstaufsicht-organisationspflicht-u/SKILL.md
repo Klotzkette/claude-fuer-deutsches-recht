@@ -1,6 +1,6 @@
 ---
 name: rechtsmittel-gegen-dienstaufsicht-organisationspflicht-u
-description: "Wenn es um Rechtsmittel Gegen Dienstaufsicht Organisationspflicht U in Berufsrecht Notare geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Rechtsmittel gegen Dienstaufsicht Organisationspflicht U: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Notare: rechtsmittel gegen dienstaufsicht - Organisationspflichten, Prävention, Team-Anweisung und Fristenkontrolle

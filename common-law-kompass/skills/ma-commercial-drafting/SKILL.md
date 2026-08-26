@@ -1,6 +1,6 @@
 ---
 name: ma-commercial-drafting
-description: "Wenn es um M&A und Commercial Drafting in Common-Law-Kompass für deutsche Wirtschaftsjuristen geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für M&A und Commercial Drafting: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # M&A und Commercial Drafting

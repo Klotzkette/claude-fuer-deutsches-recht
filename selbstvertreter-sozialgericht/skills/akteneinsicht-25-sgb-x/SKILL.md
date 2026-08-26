@@ -1,6 +1,6 @@
 ---
 name: akteneinsicht-25-sgb-x
-description: "Wenn es um Akteneinsicht 25 Sgb X in selbstvertreter-sozialgericht geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
+description: "Für Akteneinsicht 25 SGB X: ordnet Akte, Belege und Lücken; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Akteneinsicht 25 Sgb X

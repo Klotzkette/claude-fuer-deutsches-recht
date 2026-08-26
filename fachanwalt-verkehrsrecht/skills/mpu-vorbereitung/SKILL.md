@@ -1,6 +1,6 @@
 ---
 name: mpu-vorbereitung
-description: "Wenn es um Mandant muss MPU ablegen und fragt wie er sich vorbereiten soll in Fachanwalt Verkehrsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Mandant muss MPU ablegen und fragt wie er sich vorbereiten soll: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Mandant muss MPU ablegen und fragt wie er sich vorbereiten soll

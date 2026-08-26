@@ -1,6 +1,6 @@
 ---
 name: sanktionen-und-russlandbezug-rechtsprechungschec
-description: "Wenn es um Sanktionen Und Russlandbezug Rechtsprechungschec in Berufsrecht Patentanwälte geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Gegenprüfung mit Fehler-, Beweis- und Fristencheck."
+description: "Für Sanktionen und Russlandbezug Rechtsprechungschec: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Patentanwälte: sanktionen und russlandbezug - Rechtsprechungscheck, stärkste Gegenansicht und Red-Team-Korrektur

@@ -1,6 +1,6 @@
 ---
 name: lease-019-sicherungsuebereignung-und-leasingregister-frage
-description: "Wenn es um Leasingrecht: Sicherungsübereignung und Leasingregister-Frage in Leasingrecht Praxis geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Leasingrecht: Sicherungsübereignung und Leasingregister-Frage: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Einreichungsplan mit Form- und Nachweischeck."
 ---
 
 # Leasingrecht: Sicherungsübereignung und Leasingregister-Frage

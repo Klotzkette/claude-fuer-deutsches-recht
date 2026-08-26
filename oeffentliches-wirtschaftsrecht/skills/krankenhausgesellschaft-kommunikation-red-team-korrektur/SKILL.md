@@ -1,6 +1,6 @@
 ---
 name: krankenhausgesellschaft-kommunikation-red-team-korrektur
-description: "Wenn es um Krankenhausgesellschaft Kommunikation in Öffentliches Wirtschaftsrecht geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Krankenhausgesellschaft Kommunikation: prüft Ergebnis, Beweislast und Gegenposition; Ergebnis: Gegenprüfung mit Beweis- und Fristencheck."
 ---
 
 # Krankenhausgesellschaft Kommunikation

@@ -1,6 +1,6 @@
 ---
 name: mdma-einlassung-planen
-description: "Wenn es um Mdma Einlassung Planen in Betäubungsmittelrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Mdma Einlassung Planen: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Mdma Einlassung Planen

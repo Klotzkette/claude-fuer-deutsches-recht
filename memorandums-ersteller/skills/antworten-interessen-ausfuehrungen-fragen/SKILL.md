@@ -1,6 +1,6 @@
 ---
 name: antworten-interessen-ausfuehrungen-fragen
-description: "Wenn es um Antworten: Mehrparteienkonflikt und Interessenmatrix in Memorandums-Ersteller geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
+description: "Für Antworten: Mehrparteienkonflikt und Interessenmatrix: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Antworten: Mehrparteienkonflikt und Interessenmatrix

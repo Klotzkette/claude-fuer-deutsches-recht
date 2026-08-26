@@ -1,6 +1,6 @@
 ---
 name: scheinselbststaendigkeit
-description: "Wenn es um Scheinselbständigkeit des Handelsvertreters: Paragraf 7 SGB IV und Paragraf 84 HGB in Handelsvertreterrecht und Vertriebsverträge geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Scheinselbständigkeit des Handelsvertreters: Paragraf 7 SGB IV und Paragraf 84 HGB: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Scheinselbständigkeit des Handelsvertreters: § 7 SGB IV und § 84 HGB

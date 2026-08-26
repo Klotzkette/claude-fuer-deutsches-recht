@@ -1,6 +1,6 @@
 ---
 name: spezial-logik-livequellen-und-rechtsprechungscheck
-description: "Wenn es um Logik: Livequellen- und Rechtsprechungscheck in Anlagen zu Schriftsätzen geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Logik: Livequellen- und Rechtsprechungscheck: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Logik: Livequellen- und Rechtsprechungscheck

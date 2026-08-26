@@ -1,6 +1,6 @@
 ---
 name: kom-128-strassenreinigung-zustaendigkeit-pruef
-description: "Wenn es um Strassenreinigung Zustaendigkeit Pruef in Kommunalrecht der Länder geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Strassenreinigung Zuständigkeit Prüf: prüft Frist, Form, Zuständigkeit und Eilbedarf; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt. Fachgebiet: Kommunalrecht der Länder. Route: kom-128-strassenreinigung-zustaendigkeit-pruef."
 ---
 
 # Strassenreinigung Zustaendigkeit Pruef

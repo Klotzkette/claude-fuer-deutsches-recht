@@ -1,6 +1,6 @@
 ---
 name: kreistag-zustaendigkeit-pruefen
-description: "Wenn es um Kreistag Zuständigkeit Prüfen in Kommunalrecht der Länder geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Kreistag Zuständigkeit Prüfen: prüft Frist, Form, Zuständigkeit und Eilbedarf; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt. Fachgebiet: Kommunalrecht der Länder. Route: kreistag-zustaendigkeit-pruefen."
 ---
 
 # Kreistag Zuständigkeit Prüfen

@@ -1,6 +1,6 @@
 ---
 name: soundaufnahme-tontraeger-titel-slogan
-description: "Wenn es um Tonaufnahme und Leistungsschutzrechte in Urheberrecht DE EU geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen."
+description: "Für Tonaufnahme und Leistungsschutzrechte: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Tonaufnahme und Leistungsschutzrechte

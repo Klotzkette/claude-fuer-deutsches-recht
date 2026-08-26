@@ -1,6 +1,6 @@
 ---
 name: insolvenz-des-debitors-forderungspruefung
-description: "Wenn es um Insolvenz des Debitors Forderungsprüfung in Factoring-Recht geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Insolvenz des Debitors Forderungsprüfung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Tatbestands- oder Anspruchsmatrix."
 ---
 
 # Insolvenz des Debitors Forderungsprüfung

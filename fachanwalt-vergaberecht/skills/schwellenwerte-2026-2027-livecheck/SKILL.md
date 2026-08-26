@@ -1,6 +1,6 @@
 ---
 name: schwellenwerte-2026-2027-livecheck
-description: "Wenn es um Schwellenwerte 2026 2027 Livecheck in Fachanwalt Vergaberecht geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Berechnungstabelle mit Schwellen, Annahmen und Kontrollfragen."
+description: "Für Schwellenwerte 2026 2027 Livecheck: rechnet Beträge, Schwellen und Varianten; Ergebnis: Berechnungstabelle mit Annahmen und Kontrollfragen."
 ---
 
 # EU-Schwellenwerte 2026/2027 sicher prüfen: Auftragsart, Auftraggebertyp, Sektor, Konzession, Verteidigung/Sicherheit, Nettoauftragswert, Losregeln und Dokumentationsvermerk.

@@ -1,6 +1,6 @@
 ---
 name: sachverstaendige-beauftragen-und-befragen
-description: "Wenn es um Sachverständige beauftragen und in der HV befragen in Staatsanwaltschaft Praxis-Einstieg geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Beweislast- und Substantiierungsmatrix."
+description: "Für Sachverständige beauftragen und in der HV befragen: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Sachverständige beauftragen und in der HV befragen

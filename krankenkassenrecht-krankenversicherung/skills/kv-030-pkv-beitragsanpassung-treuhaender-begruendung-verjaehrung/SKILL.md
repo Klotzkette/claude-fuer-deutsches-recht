@@ -1,6 +1,6 @@
 ---
 name: kv-030-pkv-beitragsanpassung-treuhaender-begruendung-verjaehrung
-description: "Wenn es um Krankenversicherung: PKV Beitragsanpassung Treuhänder Begründung und Verjährung in Krankenkassenrecht und Krankenversicherung geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Krankenversicherung: PKV Beitragsanpassung Treuhänder Begründung und Verjährung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Schnittstellenkarte mit Zuständigkeits- und Nachweisfragen."
 ---
 
 # Krankenversicherung: PKV Beitragsanpassung Treuhänder Begründung und Verjährung

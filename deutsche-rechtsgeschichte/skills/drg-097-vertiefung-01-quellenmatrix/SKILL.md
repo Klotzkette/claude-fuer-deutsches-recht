@@ -1,6 +1,6 @@
 ---
 name: drg-097-vertiefung-01-quellenmatrix
-description: "Wenn es um Vertiefung 01 Quellenmatrix in Deutsche Rechtsgeschichte geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Vertiefung 01 Quellenmatrix: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt. Fachgebiet: Deutsche Rechtsgeschichte."
 ---
 
 # Vertiefung 01 Quellenmatrix

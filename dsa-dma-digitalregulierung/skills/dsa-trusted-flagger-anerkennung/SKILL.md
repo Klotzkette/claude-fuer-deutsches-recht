@@ -1,6 +1,6 @@
 ---
 name: dsa-trusted-flagger-anerkennung
-description: "Wenn es um Trusted Flagger Anerkennung in DSA, DMA und Digitalregulierung der EU geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
+description: "Für Trusted Flagger Anerkennung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Trusted Flagger Anerkennung

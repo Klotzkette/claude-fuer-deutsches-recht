@@ -1,6 +1,6 @@
 ---
 name: kita-satzung-beschluss-bauen
-description: "Wenn es um Kita Satzung Beschluss Bauen in Kommunalrecht der Länder geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Kita Satzung Beschluss Bauen: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Kita Satzung Beschluss Bauen

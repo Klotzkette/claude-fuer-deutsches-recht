@@ -1,6 +1,6 @@
 ---
 name: bmjv-straf-und-strafprozessrecht-pflege
-description: "Wenn es um Straf- und Strafprozessrecht-Pflege (BMJV) in Legistik-Werkstatt geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen."
+description: "Für Straf- und Strafprozessrecht-Pflege (BMJV): ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Straf- und Strafprozessrecht-Pflege (BMJV)

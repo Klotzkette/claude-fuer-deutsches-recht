@@ -1,6 +1,6 @@
 ---
 name: ce-technische
-description: "Wenn es um CE-Akte und technische Dokumentation in robotik-recht geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen. Auswahlstichwort: Ce Technische; Arbeitsfeld: robotik-recht."
+description: "Für CE-Akte und technische Dokumentation: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # CE-Akte und technische Dokumentation

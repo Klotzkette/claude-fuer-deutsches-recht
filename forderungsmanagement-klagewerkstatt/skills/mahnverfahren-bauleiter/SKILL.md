@@ -1,6 +1,6 @@
 ---
 name: mahnverfahren-bauleiter
-description: "Wenn es um Mahnverfahren bei Bauforderungen in Forderungsmanagement — Klagewerkstatt geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
+description: "Für Mahnverfahren bei Bauforderungen: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Mahnverfahren bei Bauforderungen

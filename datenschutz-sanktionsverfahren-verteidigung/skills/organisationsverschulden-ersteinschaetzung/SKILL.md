@@ -1,6 +1,6 @@
 ---
 name: organisationsverschulden-ersteinschaetzung
-description: "Wenn es um Organisationsverschulden ersteinschätzen in Datenschutz-Sanktionsverfahren und Verteidigung geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen."
+description: "Für Organisationsverschulden ersteinschätzen: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt. Fachgebiet: Datenschutz-Sanktionsverfahren und Verteidigung."
 ---
 
 # Organisationsverschulden ersteinschätzen

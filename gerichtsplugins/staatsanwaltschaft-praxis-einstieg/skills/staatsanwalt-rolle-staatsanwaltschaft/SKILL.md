@@ -1,6 +1,6 @@
 ---
 name: staatsanwalt-rolle-staatsanwaltschaft
-description: "Wenn es um Rolle der Staatsanwaltschaft: Legalität und Objektivität in Staatsanwaltschaft Praxis-Einstieg geht: klärt Rolle, Ziel, Frist, Unterlagen und den passenden nächsten Fachskill; liefert eine Fristen- und Risikoampel mit Sofortschritten. Auswahlstichwort: Staatsanwalt Rolle Staatsanwaltschaft; Arbeitsfeld: Staatsanwaltschaft Praxis-Einstieg."
+description: "Für Rolle der Staatsanwaltschaft: Legalität und Objektivität: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt. Fachgebiet: Staatsanwaltschaft Praxis-Einstieg. Route: staatsanwalt-rolle-staatsanwaltschaft."
 ---
 
 # Rolle der Staatsanwaltschaft: Legalität und Objektivität

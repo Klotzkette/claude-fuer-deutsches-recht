@@ -1,6 +1,6 @@
 ---
 name: terms-term-sheet
-description: "Wenn es um Terms: Risikoampel, Gegenargumente und Verteidigungslinien in Didaktisches Gesellschaftsrecht — English Business Terms geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Terms: Risikoampel, Gegenargumente und Verteidigungslinien: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Terms: Risikoampel, Gegenargumente und Verteidigungslinien

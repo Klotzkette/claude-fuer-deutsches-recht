@@ -1,6 +1,6 @@
 ---
 name: ueberwachung-streubreite-vorratsdaten-rasterfahndung
-description: "Wenn es um Überwachung: Streubreite, Vorratsdaten, Rasterfahndung in Verhältnismäßigkeitsprüfer geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen."
+description: "Für Überwachung: Streubreite, Vorratsdaten, Rasterfahndung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Schnittstellenkarte mit Zuständigkeits- und Nachweisfragen."
 ---
 
 # Überwachung: Streubreite, Vorratsdaten, Rasterfahndung

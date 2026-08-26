@@ -1,6 +1,6 @@
 ---
 name: online-durchsuchung-bverfge-120-274
-description: "Wenn es um Online Durchsuchung BVerfGE 120 274 in Verhältnismäßigkeitsprüfer geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
+description: "Für Online Durchsuchung BVerfGE 120 274: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Online Durchsuchung BVerfGE 120 274

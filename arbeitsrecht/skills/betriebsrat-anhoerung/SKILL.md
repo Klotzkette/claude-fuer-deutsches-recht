@@ -1,6 +1,6 @@
 ---
 name: betriebsrat-anhoerung
-description: "Wenn es um Betriebsratsanhörung vor Kündigung in Arbeitsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Betriebsratsanhörung vor Kündigung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Betriebsratsanhörung vor Kündigung

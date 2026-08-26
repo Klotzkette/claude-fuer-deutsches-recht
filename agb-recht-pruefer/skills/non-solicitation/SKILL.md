@@ -1,6 +1,6 @@
 ---
 name: non-solicitation
-description: "Wenn es um Non Solicitation in AGB-Recht-Prüfer geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Fristen- und Risikoampel mit Sofortschritten. Auswahlstichwort: Non Solicitation; Arbeitsfeld: AGB-Recht-Prüfer."
+description: "Für Non Solicitation: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Non Solicitation

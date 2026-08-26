@@ -1,6 +1,6 @@
 ---
 name: gesellschafterstreit-compliance-dokumentation-und-akte
-description: "Wenn es um Gesellschafterstreit Compliance Dokumentation Und Akte in Fachanwalt Handels- und Gesellschaftsrecht geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
+description: "Für Gesellschafterstreit Compliance Dokumentation und Akte: ordnet Akte, Belege und Lücken; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Gesellschafterstreit: Compliance-Dokumentation und Aktenvermerk im Handels- und Gesellschaftsrecht: fachlich vertieftes Modul mit Normenradar (HGB/GmbHG/AktG/UmwG), Tatbestands-/Beweislastmatrix, Fristen- und Formcheck, Gegenargumenten, Fehlerbremse und direkt nutzbarem Arbeitsprodukt.
@@ -42,3 +42,7 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 3. **Compliance-Dokumentation:** Trennen zwischen Mandantenkommunikation (privilegiert § 43a BRAO, § 53 StPO) und gesellschaftsinterner Dokumentation. Bei Gesellschafterversammlung: notarielles Protokoll bei Beurkundungspflicht (§ 53 GmbHG Satzungsänderung), sonst eigenhändiges Protokoll mit Unterschrift Versammlungsleiter. Aktenvermerke konkretisieren Datum, Anwesende, Beschlussvorschläge, Stimmen, Ergebnis, Widersprüche.
 4. **Beweislast und Belege:** Bei Beschlussanfechtung Anfechtender muss Mangel darlegen, Gesellschaft trägt Beweislast für ordnungsgemäße Beschlussfassung (BGH ständige Rechtsprechung). Bei Auskunftsverlangen § 51a GmbHG: Verweigerungsbeschluss notwendig, sonst Anspruch verbindlich. Bei Einziehung gewichtige Pflichtverletzung + Abmahnung erforderlich.
 5. **Anschluss:** Anwendbar gleichzeitig `spezial-beschlussanfechtung-mehrparteien-konflikt-und-interessen`; einstweiliger Rechtsschutz Registersperre § 16 Abs. 1 HGB; ADR-Optionen (Mediation, Schiedsklauseln) als Trade-off zur Klagewelle.
+
+## Vertiefung bei Bedarf
+
+- Bei `spezial-gesellschafterstreit-compliance-dokumentation-und-akte` beziehungsweise Gesellschafterstreit: Compliance-Dokumentation und Aktenvermerk: [die zusätzliche Vertiefung laden](./references/vertiefung-spezial-gesellschafterstreit-compliance-dokumentation-und-akte.md).

@@ -1,6 +1,6 @@
 ---
 name: bau-und-inspektionsroboter
-description: "Wenn es um Bau- und Inspektionsroboter in robotik-recht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Bau- und Inspektionsroboter: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Bau- und Inspektionsroboter

@@ -1,6 +1,6 @@
 ---
 name: verteidigungsausgaben-titel-pruefen
-description: "Wenn es um Verteidigungsausgaben Titel Prüfen in Haushaltsrecht BHO Bund und Länder geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Verteidigungsausgaben Titel Prüfen: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Verteidigungsausgaben Titel Prüfen

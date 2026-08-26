@@ -1,6 +1,6 @@
 ---
 name: pflegezeiten-rentenpunkte
-description: "Wenn es um pflegezeiten-rentenpunkte in Rentenprüfer geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für pflegezeiten-rentenpunkte: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # pflegezeiten-rentenpunkte

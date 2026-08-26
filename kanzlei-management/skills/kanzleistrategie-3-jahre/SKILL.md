@@ -1,6 +1,6 @@
 ---
 name: kanzleistrategie-3-jahre
-description: "Wenn es um Drei-Jahres-Strategie in Kanzlei Management geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Drei-Jahres-Strategie: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Verhandlungs- oder Eskalationslinie."
 ---
 
 # Drei-Jahres-Strategie

@@ -1,6 +1,6 @@
 ---
 name: gesetzesverbot-sittenwidrigkeit-paragraphen-134-138
-description: "Wenn es um Gesetzesverbot Sittenwidrigkeit Paragraphen 134 138 in BGB AT Prüfer geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
+description: "Für Gesetzesverbot Sittenwidrigkeit Paragraphen 134 138: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Gesetzesverbot Sittenwidrigkeit Paragraphen 134 138

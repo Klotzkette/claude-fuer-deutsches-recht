@@ -1,6 +1,6 @@
 ---
 name: infl-038-reisekosten-pressereise-und-gemischte-veranlassung
-description: "Wenn es um Influencer-Recht: Reisekosten Pressereise und gemischte Veranlassung in Influencer-Recht geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Influencer-Recht: Reisekosten Pressereise und gemischte Veranlassung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Influencer-Recht: Reisekosten Pressereise und gemischte Veranlassung

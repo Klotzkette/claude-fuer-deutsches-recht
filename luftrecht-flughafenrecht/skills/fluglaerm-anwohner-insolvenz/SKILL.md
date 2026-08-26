@@ -1,6 +1,6 @@
 ---
 name: fluglaerm-anwohner-insolvenz
-description: "Wenn es um Fluglärm und Anwohner – Lärmschutzbereiche und Schallschutzansprüche in Luftrecht und Flughafenrecht geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Fluglärm und Anwohner – Lärmschutzbereiche und Schallschutzansprüche: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Fluglärm und Anwohner – Lärmschutzbereiche und Schallschutzansprüche

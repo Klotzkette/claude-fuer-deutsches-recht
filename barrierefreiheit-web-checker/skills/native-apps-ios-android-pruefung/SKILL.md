@@ -1,6 +1,6 @@
 ---
 name: native-apps-ios-android-pruefung
-description: "Wenn es um Native Apps iOS und Android in Barrierefreiheit Web Checker geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Native Apps iOS und Android: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Tatbestands- oder Anspruchsmatrix."
 ---
 
 # Native Apps iOS und Android

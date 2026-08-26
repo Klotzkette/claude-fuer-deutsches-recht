@@ -1,6 +1,6 @@
 ---
 name: verfahren-beschlusskammertermin-muendliche-verhandlung
-description: "Wenn es um Verfahren: Beschlusskammertermin mündliche Verhandlung in Bundesnetzagentur-Verfahren geht: entwickelt Verhandlungsziel, Vergleichskorridor und Eskalationspfad; liefert eine Verhandlungs- oder Eskalationslinie mit Optionen."
+description: "Für Verfahren: Beschlusskammertermin mündliche Verhandlung: entwickelt Ziel, Vergleich und Eskalation; Ergebnis: Verhandlungs- oder Eskalationslinie."
 ---
 
 # Verfahren: Beschlusskammertermin mündliche Verhandlung

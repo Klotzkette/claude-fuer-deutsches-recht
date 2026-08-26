@@ -1,6 +1,6 @@
 ---
 name: mvz-investor-compliance
-description: "Wenn es um Mvz Investor Compliance in Fachanwalt Medizinrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Mvz Investor Compliance: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Investor-MVZ Compliance: moderner Medizinrechts-Skill für MVZ-Träger, ärztliche Leitung, Weisungsfreiheit, Zuweisung, Abrechnung und Berufsrecht

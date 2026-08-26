@@ -1,6 +1,6 @@
 ---
 name: aufforderungsschreiben-arbeitgeber
-description: "Wenn es um Aufforderungsschreiben an den Arbeitgeber in Arbeitszeugnis-Analyse geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Aufforderungsschreiben an den Arbeitgeber: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Aufforderungsschreiben an den Arbeitgeber

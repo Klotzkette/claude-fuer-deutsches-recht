@@ -1,6 +1,6 @@
 ---
 name: vertragspruefung-playbook
-description: "Wenn es um Vertragsprüfung gegen Playbook in Immobilienrechtspraxis geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Vertragsprüfung gegen Playbook: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Tatbestands- oder Anspruchsmatrix."
 ---
 
 # Vertragsprüfung gegen Playbook

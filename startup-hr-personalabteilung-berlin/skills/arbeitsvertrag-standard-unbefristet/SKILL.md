@@ -1,6 +1,6 @@
 ---
 name: arbeitsvertrag-standard-unbefristet
-description: "Wenn es um Arbeitsvertrag Standard Unbefristet in Start-up-HR-Personalabteilung Berlin geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Arbeitsvertrag Standard Unbefristet: prüft Frist, Form, Zuständigkeit und Eilbedarf; Ergebnis: Fristen- und Risikoampel."
 ---
 
 # Arbeitsvertrag Standard Unbefristet

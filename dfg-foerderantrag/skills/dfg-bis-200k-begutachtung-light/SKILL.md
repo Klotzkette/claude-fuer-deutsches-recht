@@ -1,6 +1,6 @@
 ---
 name: dfg-bis-200k-begutachtung-light
-description: "Wenn es um DFG-Antrag bis 200.000 Euro in DFG-Förderantrag geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen."
+description: "Für DFG-Antrag bis 200.000 Euro: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # DFG-Antrag bis 200.000 Euro

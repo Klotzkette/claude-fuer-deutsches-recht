@@ -1,6 +1,6 @@
 ---
 name: insolvenz-erbbauberechtigter
-description: "Wenn es um Insolvenz des Erbbauberechtigten in Erbbaurecht Praxis geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Insolvenz des Erbbauberechtigten: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Insolvenz des Erbbauberechtigten

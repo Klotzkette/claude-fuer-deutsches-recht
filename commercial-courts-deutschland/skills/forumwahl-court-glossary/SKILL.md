@@ -1,6 +1,6 @@
 ---
 name: forumwahl-court-glossary
-description: "Wenn es um Forumwahl gegenüber Schiedsgericht in commercial-courts-deutschland geht: entwickelt Verhandlungsziel, Vergleichskorridor und Eskalationspfad; liefert eine Verhandlungs- oder Eskalationslinie mit Optionen."
+description: "Für Forumwahl gegenüber Schiedsgericht: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Forumwahl gegenüber Schiedsgericht

@@ -1,6 +1,6 @@
 ---
 name: einziehungsbefugnis-debitoren-zahlungskanaele-treuhandkonto
-description: "Wenn es um Einziehungsbefugnis Debitoren Zahlungskanäle Treuhandkonto in Factoring-Recht geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen."
+description: "Für Einziehungsbefugnis Debitoren Zahlungskanäle Treuhandkonto: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Schnittstellenkarte mit Zuständigkeits- und Nachweisfragen."
 ---
 
 # Einziehungsbefugnis Debitoren Zahlungskanäle Treuhandkonto

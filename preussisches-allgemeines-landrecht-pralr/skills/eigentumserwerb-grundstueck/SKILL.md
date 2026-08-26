@@ -1,6 +1,6 @@
 ---
 name: eigentumserwerb-grundstueck
-description: "Wenn es um Pralr Eigentumserwerb Grundstueck Grundbuch in Preußisches Allgemeines Landrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. Auswahlstichwort: Eigentumserwerb Grundstueck; Arbeitsfeld: Preußisches Allgemeines Landrecht."
+description: "Für Pralr Eigentumserwerb Grundstück Grundbuch: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt. Fachgebiet: Preußisches Allgemeines Landrecht. Route: eigentumserwerb-grundstueck."
 ---
 
 # Pralr Eigentumserwerb Grundstueck Grundbuch

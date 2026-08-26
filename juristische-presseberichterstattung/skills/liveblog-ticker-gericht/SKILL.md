@@ -1,6 +1,6 @@
 ---
 name: liveblog-ticker-gericht
-description: "Wenn es um Liveblog Ticker Gericht in Juristische Presseberichterstattung geht: strukturiert Liveblog oder Ticker aus Gerichtsterminen mit Zeitmarken, Statussprache und späterer Bereinigung."
+description: "Für Liveblog Ticker Gericht: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Liveblog Ticker Gericht

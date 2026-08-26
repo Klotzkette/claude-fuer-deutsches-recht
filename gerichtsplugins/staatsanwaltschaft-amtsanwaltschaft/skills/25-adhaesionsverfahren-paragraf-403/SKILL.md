@@ -1,6 +1,6 @@
 ---
 name: 25-adhaesionsverfahren-paragraf-403
-description: "Wenn es um 25 Adhaesionsverfahren Paragraf 403 in Staatsanwaltschaft und Amtsanwaltschaft geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
+description: "Für 25 Adhäsionsverfahren Paragraf 403: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # 25 Adhaesionsverfahren Paragraf 403

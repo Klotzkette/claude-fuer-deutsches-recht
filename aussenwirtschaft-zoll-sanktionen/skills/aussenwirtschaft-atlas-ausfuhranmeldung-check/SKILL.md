@@ -1,6 +1,6 @@
 ---
 name: aussenwirtschaft-atlas-ausfuhranmeldung-check
-description: "Wenn es um ATLAS-Ausfuhranmeldung: Qualitaetscheck und Fehlerkorrektur in Außenwirtschaft, Sanktionen, Zoll und CBAM geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für ATLAS-Ausfuhranmeldung: Qualitätscheck und Fehlerkorrektur: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # ATLAS-Ausfuhranmeldung: Qualitaetscheck und Fehlerkorrektur

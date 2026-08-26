@@ -1,6 +1,6 @@
 ---
 name: wisszeitvg-und-befristung
-description: "Wenn es um Wisszeitvg Und Befristung in Hochschulrecht der Bundesländer geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Wisszeitvg und Befristung: prüft Frist, Form, Zuständigkeit und Eilbedarf; Ergebnis: Fristen- und Risikoampel."
 ---
 
 # Wisszeitvg Und Befristung

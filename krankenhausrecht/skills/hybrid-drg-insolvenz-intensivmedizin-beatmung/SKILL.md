@@ -1,6 +1,6 @@
 ---
 name: hybrid-drg-insolvenz-intensivmedizin-beatmung
-description: "Wenn es um Hybrid-DRG Paragraf 115f SGB V in Krankenhausrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Hybrid-DRG Paragraf 115f SGB V: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Hybrid-DRG § 115f SGB V

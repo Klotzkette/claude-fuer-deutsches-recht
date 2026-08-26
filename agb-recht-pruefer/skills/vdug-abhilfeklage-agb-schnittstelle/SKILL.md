@@ -1,6 +1,6 @@
 ---
 name: vdug-abhilfeklage-agb-schnittstelle
-description: "Wenn es um VDuG Abhilfeklage AGB Schnittstelle in AGB-Recht-Prüfer geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert eine Gegenprüfung mit Fehler-, Beweis- und Fristencheck."
+description: "Für VDuG Abhilfeklage AGB Schnittstelle: erstellt Entwurf mit Antrag, Beweis und Anlagen; Ergebnis: Schriftsatz mit Begründungs- und Anlagenlogik."
 ---
 
 # VDuG Abhilfeklage AGB Schnittstelle

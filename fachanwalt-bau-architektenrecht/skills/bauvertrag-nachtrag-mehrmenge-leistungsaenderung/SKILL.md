@@ -1,6 +1,6 @@
 ---
 name: bauvertrag-nachtrag-mehrmenge-leistungsaenderung
-description: "Prüft und beziffert Nachträge aus Mehrmenge, geänderter oder zusätzlicher Leistung. Trennt BGB-Bauvertrag von VOB/B, ordnet Anordnung, Vertrags-Soll, Anspruchsgrundlage, Preisbildungsmaßstab, Nachweis und Abschlagszahlung und erstellt Nachtragsmatrix, prüffähige Kalkulation und Anspruchsschreiben."
+description: "Prüft und beziffert Nachträge aus Mehrmenge, geänderter oder zusätzlicher Leistung."
 ---
 
 # Bauvertragsnachtrag richtig einordnen

@@ -1,6 +1,6 @@
 ---
 name: kaltstart-triage
-description: "Wenn es um Kaltstart-Triage Forderungssache in Forderungsmanagement — Klagewerkstatt geht: klärt Rolle, Ziel, Frist, Unterlagen und den passenden nächsten Fachskill; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
+description: "Für Kaltstart-Triage Forderungssache: routet Rolle, Frist, Unterlagen und Fachschritt; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Kaltstart-Triage Forderungssache

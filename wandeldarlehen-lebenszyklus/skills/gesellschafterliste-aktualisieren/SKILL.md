@@ -1,6 +1,6 @@
 ---
 name: gesellschafterliste-aktualisieren
-description: "Wenn es um Gesellschafterliste aktualisieren (Paragraf 40 GmbHG) in Wandeldarlehen-Lebenszyklus geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Gesellschafterliste aktualisieren (Paragraf 40 GmbHG): ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Gesellschafterliste aktualisieren (§ 40 GmbHG)

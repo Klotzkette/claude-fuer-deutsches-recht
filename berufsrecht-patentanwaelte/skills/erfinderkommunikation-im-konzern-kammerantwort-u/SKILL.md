@@ -1,6 +1,6 @@
 ---
 name: erfinderkommunikation-im-konzern-kammerantwort-u
-description: "Wenn es um Erfinderkommunikation Im Konzern Kammerantwort U in Berufsrecht Patentanwälte geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Verhandlungs- oder Eskalationslinie mit Optionen."
+description: "Für Erfinderkommunikation im Konzern Kammerantwort U: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Patentanwälte: erfinderkommunikation im konzern - Kammerantwort mit Verfahrensstrategie, Tonlage und Belegplan

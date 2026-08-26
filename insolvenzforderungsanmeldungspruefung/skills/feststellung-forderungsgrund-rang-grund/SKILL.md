@@ -1,6 +1,6 @@
 ---
 name: feststellung-forderungsgrund-rang-grund
-description: "Wenn es um Feststellung: Internationaler Bezug und Schnittstellen in Insolvenzforderungsanmeldungsprüfung geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Feststellung: Internationaler Bezug und Schnittstellen: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Feststellung: Internationaler Bezug und Schnittstellen

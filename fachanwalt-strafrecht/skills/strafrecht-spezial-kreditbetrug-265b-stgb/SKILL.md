@@ -1,6 +1,6 @@
 ---
 name: strafrecht-spezial-kreditbetrug-265b-stgb
-description: "Wenn es um Strafrecht Spezial Kreditbetrug 265b Stgb in Fachanwalt Strafrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Strafrecht Spezial Kreditbetrug 265b Stgb: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Kreditbetrug § 265b StGB: Anwendungsfall Verteidigung bei unrichtigen Angaben zur Erlangung eines Kredits für einen Betrieb oder ein Unternehmen

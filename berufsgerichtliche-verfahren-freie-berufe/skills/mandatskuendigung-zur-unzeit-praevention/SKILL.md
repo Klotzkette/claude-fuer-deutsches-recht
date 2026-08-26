@@ -1,6 +1,6 @@
 ---
 name: mandatskuendigung-zur-unzeit-praevention
-description: "Wenn es um Mandatskündigung zur Unzeit: Präventions- und Organisationspaket in Berufsgerichtliche Verfahren Freie Berufe geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Mandatskündigung zur Unzeit: Präventions- und Organisationspaket: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Mandatskündigung zur Unzeit: Präventions- und Organisationspaket

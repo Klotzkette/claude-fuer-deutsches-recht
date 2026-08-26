@@ -1,6 +1,6 @@
 ---
 name: space-053-kommunikation-luftfahrtbehoerde-bnetza-bmwk-dlr
-description: "Wenn es um Weltraumrecht: Kommunikation mit Landesluftfahrtbehörde BNetzA BMWK und DLR in Weltraumrecht geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Weltraumrecht: Kommunikation mit Landesluftfahrtbehörde BNetzA BMWK und DLR: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Weltraumrecht: Kommunikation mit Landesluftfahrtbehörde BNetzA BMWK und DLR

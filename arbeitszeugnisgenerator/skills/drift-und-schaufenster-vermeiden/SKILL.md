@@ -1,6 +1,6 @@
 ---
 name: drift-und-schaufenster-vermeiden
-description: "Prüft einen Zeugnisentwurf als einheitliches Ganzes auf Notendrift, widersprüchliche Adverbien, überladene Spitzenformulierungen und eine unpassende Schlussformel. Liefert eine Satz-für-Satz-Konsistenzmatrix und eine bereinigte Gesamtfassung."
+description: "Prüft einen Zeugnisentwurf als einheitliches Ganzes auf Notendrift, widersprüchliche Adverbien, überladene Spitzenformulierungen und eine unpassende Schlussformel."
 ---
 
 # Drift und Schaufenster vermeiden

@@ -1,6 +1,6 @@
 ---
 name: aussenpruefung-strategien
-description: "Wenn es um Außenprüfung — Strategien und Begleitung in Steuerrecht – Steuerberater und Anwälte geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Außenprüfung — Strategien und Begleitung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Verhandlungs- oder Eskalationslinie."
 ---
 
 # Außenprüfung — Strategien und Begleitung

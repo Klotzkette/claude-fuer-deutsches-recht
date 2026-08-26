@@ -1,6 +1,6 @@
 ---
 name: dokumentationspaket-betriebspruefung
-description: "Wenn es um Dokumentationspaket für Außenprüfung in Forschungszulage-Antragstellung geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
+description: "Für Dokumentationspaket für Außenprüfung: ordnet Akte, Belege und Lücken; Ergebnis: Tatbestands- oder Anspruchsmatrix."
 ---
 
 # Dokumentationspaket für Außenprüfung

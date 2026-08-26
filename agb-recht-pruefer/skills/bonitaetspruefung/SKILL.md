@@ -1,6 +1,6 @@
 ---
 name: bonitaetspruefung
-description: "Wenn es um Bonitätsprüfung in AGB-Recht-Prüfer geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Fristen- und Risikoampel mit Sofortschritten. Auswahlstichwort: Bonitaetspruefung; Arbeitsfeld: AGB-Recht-Prüfer."
+description: "Für Bonitätsprüfung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Tatbestands- oder Anspruchsmatrix. Fachgebiet: AGB-Recht-Prüfer. Route: bonitaetspruefung."
 ---
 
 # Bonitätsprüfung

@@ -1,6 +1,6 @@
 ---
 name: ihl-034-anti-dumping-und-ausgleichszoelle
-description: "Wenn es um Anti Dumping Und Ausgleichszoelle in Internationales Handelsrecht und Lex Mercatoria geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Anti Dumping und Ausgleichszölle: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Anti Dumping Und Ausgleichszoelle

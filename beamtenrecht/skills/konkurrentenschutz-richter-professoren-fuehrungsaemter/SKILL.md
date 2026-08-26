@@ -1,6 +1,6 @@
 ---
 name: konkurrentenschutz-richter-professoren-fuehrungsaemter
-description: "Wenn es um konkurrentenschutz-richter-professoren-fuehrungsaemter in Beamtenrecht geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
+description: "Für konkurrentenschutz-richter-professoren-fuehrungsaemter: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # konkurrentenschutz-richter-professoren-fuehrungsaemter

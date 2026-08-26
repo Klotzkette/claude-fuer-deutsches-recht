@@ -1,6 +1,6 @@
 ---
 name: workflow-fiktionswirkung
-description: "Wenn es um Fiktionswirkung: Prüfungslinie für Migrationsrecht in Fachanwalt Migrationsrecht geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Fiktionswirkung: Prüfungslinie für Migrationsrecht: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Fiktionswirkung: Prüfungslinie für Migrationsrecht

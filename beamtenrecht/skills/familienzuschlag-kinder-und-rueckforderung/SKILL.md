@@ -1,6 +1,6 @@
 ---
 name: familienzuschlag-kinder-und-rueckforderung
-description: "Wenn es um Familienzuschlag Kinder Und Rueckforderung in Beamtenrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Familienzuschlag Kinder und Rückforderung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Familienzuschlag Kinder Und Rueckforderung

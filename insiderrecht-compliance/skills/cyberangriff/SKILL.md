@@ -1,6 +1,6 @@
 ---
 name: cyberangriff
-description: "Wenn es um Cyberangriff – Insiderrecht und Ad-hoc-Pflicht in Insiderrecht Compliance geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Gegenprüfung mit Fehler-, Beweis- und Fristencheck."
+description: "Für Cyberangriff – Insiderrecht und Ad-hoc-Pflicht: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Cyberangriff – Insiderrecht und Ad-hoc-Pflicht

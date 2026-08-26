@@ -1,6 +1,6 @@
 ---
 name: notariat-037-datenschutz-notariat-aktenversand-cloudgrenzen
-description: "Wenn es um Notariat im Alltag: Datenschutz im Notariat Aktenversand und Cloudgrenzen in Notariat im Alltag geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Notariat im Alltag: Datenschutz im Notariat Aktenversand und Cloudgrenzen: ordnet Akte, Belege und Lücken; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Notariat im Alltag: Datenschutz im Notariat Aktenversand und Cloudgrenzen

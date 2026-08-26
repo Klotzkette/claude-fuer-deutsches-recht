@@ -1,6 +1,6 @@
 ---
 name: data-cyber-ai-dd
-description: "Wenn es um Data, Cyber und digitale Werkzeuge Due Diligence in Private Equity Praxis geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Data, Cyber und digitale Werkzeuge Due Diligence: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Data, Cyber und AI Due Diligence

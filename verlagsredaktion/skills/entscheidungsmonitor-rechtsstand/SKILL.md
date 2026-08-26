@@ -1,6 +1,6 @@
 ---
 name: entscheidungsmonitor-rechtsstand
-description: "Wenn es um Entscheidungsmonitor und Rechtsstand in Verlagsredaktion geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen."
+description: "Für Entscheidungsmonitor und Rechtsstand: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Entscheidungsmonitor und Rechtsstand

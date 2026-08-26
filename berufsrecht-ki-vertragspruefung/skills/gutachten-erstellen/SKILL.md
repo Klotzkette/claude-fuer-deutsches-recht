@@ -1,6 +1,6 @@
 ---
 name: gutachten-erstellen
-description: "Wenn es um Vorprüfungs-Gutachten erstellen in diesem Spezialbereich geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Beweislast- und Substantiierungsmatrix."
+description: "Für Vorprüfungs-Gutachten erstellen: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Vorprüfungs-Gutachten erstellen

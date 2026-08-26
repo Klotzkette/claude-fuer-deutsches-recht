@@ -1,6 +1,6 @@
 ---
 name: umzug-vertragsanpassung
-description: "Wenn es um Umzug und Telekommunikationsvertrag in Telekommunikationsrecht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen."
+description: "Für Umzug und Telekommunikationsvertrag: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Umzug und Telekommunikationsvertrag

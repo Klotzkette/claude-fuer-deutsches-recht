@@ -1,6 +1,6 @@
 ---
 name: schnittstellen-mehrparteienkonflikt
-description: "Wenn es um Schnittstellen: Mehrparteienkonflikt und Interessenmatrix in Liquiditätsplanung — Power geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Schnittstellen: Mehrparteienkonflikt und Interessenmatrix: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Schnittstellenkarte mit Zuständigkeits- und Nachweisfragen."
 ---
 
 # Schnittstellen: Mehrparteienkonflikt und Interessenmatrix

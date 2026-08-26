@@ -1,6 +1,6 @@
 ---
 name: energie-regulierungsakte-kapazitaetsvergabe-gas-fristen-und-besc
-description: "Wenn es um Energie-Regulierungsakte: Kapazitätsvergabe Gas — Fristen- und Bescheidanalyse in Bundesnetzagentur-Verfahren geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Energie-Regulierungsakte: Kapazitätsvergabe Gas — Fristen- und Bescheidanalyse: prüft Frist, Form, Zuständigkeit und Eilbedarf; Ergebnis: Fristen- und Risikoampel."
 ---
 
 # Energie-Regulierungsakte: Kapazitätsvergabe Gas — Fristen- und Bescheidanalyse

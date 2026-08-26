@@ -1,6 +1,6 @@
 ---
 name: schoeffen-befangenheit-und-mitwirkung
-description: "Wenn es um Schöffen: Befangenheit, Ausfall und Mitwirkung in Staatsanwaltschaft Praxis-Einstieg geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Beweislast- und Substantiierungsmatrix."
+description: "Für Schöffen: Befangenheit, Ausfall und Mitwirkung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Schöffen: Befangenheit, Ausfall und Mitwirkung

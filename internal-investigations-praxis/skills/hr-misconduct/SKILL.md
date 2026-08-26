@@ -1,6 +1,6 @@
 ---
 name: hr-misconduct
-description: "Wenn es um HR Misconduct und Arbeitsrechtliche Maßnahmen in Internal Investigations Praxis geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
+description: "Für HR Misconduct und Arbeitsrechtliche Maßnahmen: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # HR Misconduct und Arbeitsrechtliche Maßnahmen

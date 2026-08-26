@@ -1,6 +1,6 @@
 ---
 name: zweiter-staendeordnung-gemeinderecht
-description: "Wenn es um PrALR: Zweiter Teil Ständeordnung Adel Bürger Bauern in Preußisches Allgemeines Landrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für PrALR: Zweiter Teil Ständeordnung Adel Bürger Bauern: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # PrALR: Zweiter Teil Ständeordnung Adel Bürger Bauern

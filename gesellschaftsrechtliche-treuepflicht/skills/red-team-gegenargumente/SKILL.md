@@ -1,6 +1,6 @@
 ---
 name: red-team-gegenargumente
-description: "Wenn es um Red Team Gegenargumente in Gesellschaftsrechtliche Treuepflicht geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Red Team Gegenargumente: prüft Ergebnis, Beweislast und Gegenposition; Ergebnis: Gegenprüfung mit Beweis- und Fristencheck."
 ---
 
 # Red Team Gegenargumente

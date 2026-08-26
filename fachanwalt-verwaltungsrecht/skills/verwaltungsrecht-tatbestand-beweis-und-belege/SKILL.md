@@ -1,6 +1,6 @@
 ---
 name: verwaltungsrecht-tatbestand-beweis-und-belege
-description: "Wenn es um Verwaltungsrecht: Tatbestandsmerkmale, Beweisfragen und Beleglage in Fachanwalt Verwaltungsrecht geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Beweislast- und Substantiierungsmatrix."
+description: "Für Verwaltungsrecht: Tatbestandsmerkmale, Beweisfragen und Beleglage: ordnet Akte, Belege und Lücken; Ergebnis: Beweislast- und Substantiierungsmatrix."
 ---
 
 # Verwaltungsrecht: Tatbestandsmerkmale, Beweisfragen und Beleglage

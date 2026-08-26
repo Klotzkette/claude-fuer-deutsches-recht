@@ -1,6 +1,6 @@
 ---
 name: wahlvorschlag-redteam
-description: "Wenn es um Wahlvorschlag Red-Team in Parteienrecht und Parteiorganisation geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Wahlvorschlag Red-Team: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Wahlvorschlag Red-Team

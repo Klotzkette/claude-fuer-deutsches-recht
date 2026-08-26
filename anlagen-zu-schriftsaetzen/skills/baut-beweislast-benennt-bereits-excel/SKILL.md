@@ -1,6 +1,6 @@
 ---
 name: baut-beweislast-benennt-bereits-excel
-description: "Wenn es um Beweislast, Darlegungslast und Anlagen in Anlagen zu Schriftsätzen geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Beweislast- und Substantiierungsmatrix. Auswahlstichwort: Baut Beweislast Benennt Bereits Excel; Arbeitsfeld: Anlagen zu Schriftsätzen."
+description: "Für Beweislast, Darlegungslast und Anlagen: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Beweislast- und Substantiierungsmatrix. Fachgebiet: Anlagen zu Schriftsätzen. Route: baut-beweislast-benennt-bereits-excel."
 ---
 
 # Beweislast, Darlegungslast und Anlagen

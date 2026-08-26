@@ -1,6 +1,6 @@
 ---
 name: vfgr-bundestreue-foederalismus
-description: "Wenn es um VfgR: Bundestreue Foederalismus in verfassungsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für VfgR: Bundestreue Föderalismus: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Schnittstellenkarte mit Zuständigkeits- und Nachweisfragen."
 ---
 
 # VfgR: Bundestreue Foederalismus

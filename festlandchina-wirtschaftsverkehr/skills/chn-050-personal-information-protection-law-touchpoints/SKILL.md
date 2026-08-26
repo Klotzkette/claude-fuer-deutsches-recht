@@ -1,6 +1,6 @@
 ---
 name: chn-050-personal-information-protection-law-touchpoints
-description: "Wenn es um Personal Information Protection Law Touchpoints in China-Wirtschaftsverkehr geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Personal Information Protection Law Touchpoints: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Personal Information Protection Law Touchpoints

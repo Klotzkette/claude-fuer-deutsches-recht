@@ -1,6 +1,6 @@
 ---
 name: preisangaben-pangv-produktbewertungen-ranking
-description: "Wenn es um Preisangaben PAngV Gesamtpreis Grundpreis in E-Commerce-Recht geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
+description: "Für Preisangaben PAngV Gesamtpreis Grundpreis: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Preisangaben PAngV Gesamtpreis Grundpreis

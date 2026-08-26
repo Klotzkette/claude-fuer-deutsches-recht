@@ -1,6 +1,6 @@
 ---
 name: inso-lma-facility-massearmut
-description: "Wenn es um Insolvenz: LMA Facility, Agent und Syndikat in Insolvenzrecht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
+description: "Für Insolvenz: LMA Facility, Agent und Syndikat: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Insolvenz: LMA Facility, Agent und Syndikat

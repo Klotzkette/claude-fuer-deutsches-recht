@@ -1,6 +1,6 @@
 ---
 name: pralr-020-staatsrecht-monarchie-und-selbstbindung
-description: "Wenn es um Staatsrecht in Preußisches Allgemeines Landrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. Auswahlstichwort: Pralr 020 Staatsrecht Monarchie Und Selbstbindung; Arbeitsfeld: Preußisches Allgemeines Landrecht."
+description: "Für Staatsrecht: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt. Fachgebiet: Preußisches Allgemeines Landrecht. Route: pralr-020-staatsrecht-monarchie-und-selbstbindung."
 ---
 
 # Staatsrecht

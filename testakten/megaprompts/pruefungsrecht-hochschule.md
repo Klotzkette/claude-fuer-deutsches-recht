@@ -7,13 +7,13 @@ Diese Vollprüfung enthält top-8 von 109 Skills (gekürzt für das Arbeitsfenst
 ## Inhaltsverzeichnis
 
 1. **juristischer-argumentationskern** — Schaltet sich ein, wenn in Prüfungsrecht Hochschule ein juristisches Arbeitsprodukt tragfähig begründet werden muss; ver…
-2. **kaltstart-triage** — Wenn es um Allgemein in Prüfungsrecht an Hochschulen und Universitäten geht: klärt Rolle, Ziel, Frist, Unterlagen und de…
-3. **vorlaeufige-zulassung-eilrechtsschutz** — Wenn es um Vorläufige Zulassung im Eilrechtsschutz in Prüfungsrecht an Hochschulen und Universitäten geht: erstellt den …
-4. **eilantrag-endgueltig-nicht-bestanden** — Wenn es um Eilantrag Endgueltig Nicht Bestanden in Prüfungsrecht an Hochschulen und Universitäten geht: erstellt den pas…
-5. **pruefungsrecht-mecklenburg-vorpommern** — Wenn es um Prüfungsrecht Mecklenburg Vorpommern in Prüfungsrecht an Hochschulen und Universitäten geht: ordnet Sachverha…
-6. **ki-nutzung-und-eigenstaendigkeit** — Wenn es um digitale Werkzeuge Nutzung Und Eigenstaendigkeit in Prüfungsrecht an Hochschulen und Universitäten geht: prüf…
-7. **ihk-handwerk-berufsabschluss** — Wenn es um IHK, Handwerk und Berufsabschluss in Prüfungsrecht an Hochschulen und Universitäten geht: zerlegt Ergebnis, F…
-8. **pruefungsordnung-aenderung-uebergangsrecht** — Wenn es um Prüfungsordnungsänderung und Übergangsrecht in Prüfungsrecht an Hochschulen und Universitäten geht: prüft Fri…
+2. **kaltstart-triage** — Für Allgemein: routet Rolle, Frist, Unterlagen und Fachschritt; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt. F…
+3. **anerkennung-von-pruefungsleistungen** — Für Anerkennung von Prüfungsleistungen: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Tatbestands- oder Anspruchs…
+4. **pruefungsrecht-brandenburg-bremen-hamburg** — Für Prüfungsrecht Brandenburg: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Tatbestands- oder Anspruchsmatrix. F…
+5. **anerkennung-pruefungsleistungen** — Für Anerkennung von Prüfungsleistungen: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Tatbestands- oder Anspruchs…
+6. **pruefungsrecht-thueringen-pruefungssprache** — Für Prüfungsrecht Thüringen: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Tatbestands- oder Anspruchsmatrix. Fac…
+7. **datenschutz-pruefungsdaten-drittversuch** — Für Datenschutz Prüfungsdaten: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Tatbestands- oder Anspruchsmatrix. F…
+8. **pruefungsrecht-saarland-sachsen-anhalt** — Für Prüfungsrecht Saarland: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Tatbestands- oder Anspruchsmatrix. Fach…
 
 ---
 
@@ -136,7 +136,7 @@ Ausgangspunkt für dieses Plugin: Behörde trägt Tatsachengrundlage, Ermessen u
 
 ## Skill: `kaltstart-triage`
 
-_Wenn es um Allgemein in Prüfungsrecht an Hochschulen und Universitäten geht: klärt Rolle, Ziel, Frist, Unterlagen und den passenden nächsten Fachskill; liefert eine Fristen- und Risikoampel mit Sofortschritten._
+_Für Allgemein: routet Rolle, Frist, Unterlagen und Fachschritt; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt. Fachgebiet: Prüfungsrecht an Hochschulen und Universitäten._
 
 # Allgemein
 
@@ -229,129 +229,22 @@ Erzeuge bevorzugt: Prüfungsrechts-Fahrplan. Am Ende immer drei Zeilen: **Frist*
 
 ---
 
-## Skill: `vorlaeufige-zulassung-eilrechtsschutz`
+## Skill: `anerkennung-von-pruefungsleistungen`
 
-_Wenn es um Vorläufige Zulassung im Eilrechtsschutz in Prüfungsrecht an Hochschulen und Universitäten geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik._
+_Für Anerkennung von Prüfungsleistungen: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Tatbestands- oder Anspruchsmatrix. Fachgebiet: Prüfungsrecht an Hochschulen und Universitäten. Route: anerkennung-von-pruefungsleistungen._
 
-# Vorläufige Zulassung im Eilrechtsschutz
+# Anerkennung Von Pruefungsleistungen
 
-## Normenanker
+## Wofür dieser Skill da ist
 
-Vor einer rechtlichen Schlussfolgerung diese Anker am aktuellen Normtext prüfen; Spezial- und Landesrecht nur hinzunehmen, wenn es den konkreten Auftrag traegt:
-
-- `Art. 5 Abs. 3 Satz 1 GG` — Wissenschaftsfreiheit.
-- `Art. 12 Abs. 1 GG` — Berufswahl- und Ausbildungsbezug.
-- `Art. 3 Abs. 1 GG` — Gleichbehandlung und Bewertungsfairness.
-- `§ 2 HRG` — Aufgaben der Hochschulen.
-- `§ 4 HRG` — Freiheit von Forschung, Lehre und Studium.
-- `§ 7 HRG` — Ziel des Studiums.
-- `§ 15 HRG` — Prüfungen und Leistungspunktsystem.
-- `§ 16 HRG` — Prüfungsordnungen.
-- `§ 70 Abs. 1 VwGO` — Widerspruchsfrist.
-- `§ 123 Abs. 1 VwGO` — Eilrechtsschutz bei Studien-/Prüfungsentscheidungen.
-
-Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei prüfbare Quelle vorliegen; keine BeckRS-/juris-Blindzitate verwenden.
-
-## Arbeitsweg
-
-- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
-- Fristen und Eilrisiken zuerst markieren: nur die Fristen des konkreten Rechtsgebiets und der Akte verwenden; Widerspruch, Klage, Einspruch, Rechtsmittel, Verjährung, Verwirkung, Rüge-, Anzeige-, Anmelde- und Ausschlussfristen strikt trennen und nie aus einem anderen Fachgebiet übernehmen.
-- Tragende Normen verifizieren: GG Art. 12, BVerfGE 84, 34 (Antwortspielraum), BVerfGE 84, 59, HRG, JAG, HochschulG der Länder, VwVfG, VwGO § 80 — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
-- Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
-- Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
-
-## Fachkern: Vorläufige Zulassung im Eilrechtsschutz
-- **Normen-/Quellenanker:** Hochschulgesetz/Prüfungsordnung des Landes, VwVfG/VwGO, Art. 12/3 GG, Chancengleichheit, Bewertungsfehler, Rücktritt, Täuschung und Eilrechtsschutz.
-- **Entscheidende Weiche:** Prüfungsordnung, Bescheid, Frist, Bewertungsrüge, Verfahrensfehler, Nachteilsausgleich, Akteneinsicht und gerichtlicher Eilbedarf trennen.
-- **Arbeitsprodukt:** Erzeuge eine konkrete Prüf- oder Entscheidungsmatrix mit Norm, Tatbestand, Beleg, Einwand, Risikoampel und nächstem Schritt; Anschluss-Skills nur bei echter Vertiefung nennen.
-
-## Wofür dieser Arbeitsgang da ist
-
-Dieser Skill vertieft ein konkretes Problem im Hochschulprüfungsrecht. Er ist für Prüfling, Prüfungsamt, Prüfungsausschuss, Hochschule, Prüferin oder Anwalt gedacht und soll aus unvollständigen Akten schnell eine belastbare Prüfspur machen.
-
-## Spezialfokus
-
-- **Konkreter Auftrag:** Prüft Eilantrag auf Zulassung zu Prüfung, Folgemodul, Master oder Staatsexamen.
-- **Erste Trennlinie:** Ist das Problem wirklich Vorläufige Zulassung im Eilrechtsschutz, oder liegt vorgelagert eine andere Entscheidung, Zuständigkeit oder Frist vor?
-- **Quellenarbeit:** Suche die aktuelle Landesnorm, Ordnung oder Satzung im Original und notiere Fundstelle, Fassung, Bekanntgabeweg und Geltungszeitpunkt.
-- **Aktenarbeit:** Markiere, welches Dokument die entscheidende Tatsache trägt; bloße Schilderungen bekommen eine eigene Unsicherheitsnote.
-- **Produkt:** Liefere am Ende nicht nur ein Ergebnis, sondern eine Handlung: Gesprächsfahrplan, Akteneinsicht, Antrag, Widerspruch/Remonstration, Eilrechtsschutz oder interne Entscheidungsvorlage.
-
-### Typische Fallen in diesem Gebiet
-
-- Unzufriedenheit mit der Note, Bewertungsfehler, Verfahrensfehler und neue Tatsachen strikt auseinanderhalten.
-- Prüfungsordnung, Modulhandbuch, Bescheid, Portalnachricht, Bewertungsbogen und Akteneinsicht immer nebeneinander legen.
-- Bewertungsspielräume respektieren, aber Denkfehler, sachfremde Erwägungen, Gleichbehandlung und Chancengleichheit präzise prüfen.
-- Fristen, Unverzüglichkeit, Rücktritt, Täuschungsvorwurf, Nachteilsausgleich und Eilrechtsschutz als eigene Entscheidungspfade behandeln.
-
-## Kaltstartfragen
-
-- In welchem Bundesland und bei welcher konkreten Einrichtung spielt der Fall?
-- Welche Entscheidung, Maßnahme, Satzung, Ordnung, E-Mail oder welches Protokoll liegt wirklich vor?
-- Welche Frist läuft, wann wurde bekanntgegeben und gibt es bereits Widerspruch, Remonstration, Antrag, Beschwerde oder Eilverfahren?
-- Welche Tatsachen sind durch Aktenstücke belegt und welche sind nur Erzählstand?
-- Welches Ziel soll erreicht werden: Aufhebung, Neubescheidung, Duldung, Gesprächslösung, Vergleich, Akteneinsicht oder nur Risikoeinschätzung?
-
-## Prüfprogramm
-
-1. **Normhierarchie trennen:** Prüfungsordnung, Rahmenordnung, Landeshochschulgesetz, Verwaltungsverfahrensrecht, VwGO und konkrete Prüfungsakte nicht vermischen; die konkrete Ordnung und den Bescheid immer zuerst lesen.
-2. **Zuständigkeit und Verfahren prüfen:** Wer durfte entscheiden, wer musste beteiligt werden, welches Gremium war zuständig und welche Anhörung fehlt möglicherweise?
-3. **Materielle Grenze bestimmen:** Ermessen, Beurteilungs- oder Bewertungsspielraum respektieren, aber Willkür, Verfahrensfehler, Gleichbehandlung, Grundrechte und Verhältnismäßigkeit sauber herausarbeiten.
-4. **Beweisroute bauen:** Aktenstück, Protokoll, Chat, E-Mail, Attest, Bewertungsbogen, Satzungsauszug oder amtliche Quelle jeder Tatsachenbehauptung zuordnen.
-5. **Nächsten Schritt liefern:** knappe Lageeinschätzung, Fristenliste, Antrag, Widerspruch, Remonstration, Eilantragsgerüst, Gesprächsleitfaden oder Beschluss-/Bescheidkritik.
-
-## Fachliche Leitplanken
-
-- Landesrecht und Satzungsrecht sind dynamisch; vor einer konkreten Ausgabe müssen aktuelle amtliche Quellen oder Originalordnungen geprüft werden.
-- Rechtsprechung nur zitieren, wenn Gericht, Datum, Aktenzeichen und eine frei überprüfbare Quelle vorliegen.
-- Keine pauschalen Aussagen wie "immer rechtswidrig" oder "pädagogisch nicht angreifbar"; entscheidend sind Verfahrensspur, Dokumentation, Gleichbehandlung und konkrete Rechtsgrundlage.
-
-## Output-Muster
-
-- **Sofortlage:** Was ist entschieden, was läuft, was droht?
-- **Angriffspunkte:** Zuständigkeit, Verfahren, Begründung, Tatsachenbasis, Ermessen/Bewertungsspielraum, Verhältnismäßigkeit.
-- **Dokumentenbedarf:** fehlende Akten, Protokolle, Ordnungen, Atteste, Gremienbeschlüsse und Zustellnachweise.
-- **Entwurf:** präziser Antrag oder Schriftsatzbaustein mit Frist, Ziel und Begründung.
-
-<!-- BEGIN ausformulierungspflicht (autogen) -->
-> **Ausformulierungspflicht und Formatstandard.** Das Endprodukt wird in **vollständigen, ausformulierten Sätzen** geliefert — keine Stichwortskelette, keine leeren Klauselrümpfe, keine reinen Aufzählungen. Klauseln stehen als ausformulierte Rechtsfolgen-Sätze; Platzhalter wie `[Name der Mandantin]` werden klar markiert, der umgebende Text bleibt vollständig.
->
-> **Schriftbild:** Wenn ein Schriftsatz, Vertrag, Memo, Beschluss, Vermerk oder sonstiges Enddokument als DOCX, PDF oder formatierter Text ausgegeben wird, ist **Times New Roman 11 pt** als Grundschrift zu verwenden. Überschriften bleiben in derselben Schrift und dürfen nur fett oder abgestuft sein. Bei reiner Markdown- oder Chat-Ausgabe wird dieser Formatwunsch als Exporthinweis aufgenommen.
->
-> **Nummerierung:** Gliederung ausschließlich dezimal (`1`, `1.1`, `1.1.1` und so weiter). Keine römischen Ziffern, keine Buchstaben- oder Mischgliederung.
-<!-- END ausformulierungspflicht (autogen) -->
-
----
-
-## Skill: `eilantrag-endgueltig-nicht-bestanden`
-
-_Wenn es um Eilantrag Endgueltig Nicht Bestanden in Prüfungsrecht an Hochschulen und Universitäten geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik._
-
-# Eilantrag Endgueltig Nicht Bestanden
-
-## Arbeitsweg
-
-- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
-- Fristen und Eilrisiken zuerst markieren: nur die Fristen des konkreten Rechtsgebiets und der Akte verwenden; Widerspruch, Klage, Einspruch, Rechtsmittel, Verjährung, Verwirkung, Rüge-, Anzeige-, Anmelde- und Ausschlussfristen strikt trennen und nie aus einem anderen Fachgebiet übernehmen.
-- Tragende Normen verifizieren: GG Art. 12, BVerfGE 84, 34 (Antwortspielraum), BVerfGE 84, 59, HRG, JAG, HochschulG der Länder, VwVfG, VwGO § 80 — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
-- Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
-- Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
-
-## Fachkern: Eilantrag Endgueltig Nicht Bestanden
-- **Normen-/Quellenanker:** Hochschulgesetz/Prüfungsordnung des Landes, VwVfG/VwGO, Art. 12/3 GG, Chancengleichheit, Bewertungsfehler, Rücktritt, Täuschung und Eilrechtsschutz.
-- **Entscheidende Weiche:** Prüfungsordnung, Bescheid, Frist, Bewertungsrüge, Verfahrensfehler, Nachteilsausgleich, Akteneinsicht und gerichtlicher Eilbedarf trennen.
-- **Arbeitsprodukt:** Erzeuge eine konkrete Prüf- oder Entscheidungsmatrix mit Norm, Tatbestand, Beleg, Einwand, Risikoampel und nächstem Schritt; Anschluss-Skills nur bei echter Vertiefung nennen.
-
-## Wofür dieser Arbeitsgang da ist
-
-Anordnungsgrund, Exmatrikulation, Fortsetzung Studium, Wiederholungsprüfung und Folgenabwägung.
+Wesentliche Unterschiede, Ausland, Wechsel, Frist, Begründung und Rechtsschutz.
 
 Der Skill arbeitet landes- und satzungsbezogen: Er fragt zuerst nach Bundesland, Einrichtung, konkreter Ordnung, Bescheid, Frist, Verfahrensstand und vorhandenen Unterlagen. Ohne diese Angaben wird keine scheinbar sichere Antwort erzeugt.
 
 ## Spezialfokus
 
-- **Konkreter Auftrag:** Prüft Eilrechtsschutz bei endgültigem Nichtbestehen.
-- **Erste Trennlinie:** Ist das Problem wirklich Eilantrag Endgueltig Nicht Bestanden, oder liegt vorgelagert eine andere Entscheidung, Zuständigkeit oder Frist vor?
+- **Konkreter Auftrag:** Prüft Anerkennung und Anrechnung von Prüfungsleistungen.
+- **Erste Trennlinie:** Ist das Problem wirklich Anerkennung Von Pruefungsleistungen, oder liegt vorgelagert eine andere Entscheidung, Zuständigkeit oder Frist vor?
 - **Quellenarbeit:** Suche die aktuelle Landesnorm, Ordnung oder Satzung im Original und notiere Fundstelle, Fassung, Bekanntgabeweg und Geltungszeitpunkt.
 - **Aktenarbeit:** Markiere, welches Dokument die entscheidende Tatsache trägt; bloße Schilderungen bekommen eine eigene Unsicherheitsnote.
 - **Produkt:** Liefere am Ende nicht nur ein Ergebnis, sondern eine Handlung: Gesprächsfahrplan, Akteneinsicht, Antrag, Widerspruch/Remonstration, Eilrechtsschutz oder interne Entscheidungsvorlage.
@@ -381,7 +274,7 @@ Der Skill arbeitet landes- und satzungsbezogen: Er fragt zuerst nach Bundesland,
 
 ## Fachanker
 
-- Primäre Anker: VwGO § 123; Prüfungsordnung.
+- Primäre Anker: Lissabon-Konvention; Hochschulrecht.
 - Landesrecht, aktuelle Satzungen und Prüfungsordnungen immer live aus amtlichen Portalen oder Originaldokumenten prüfen.
 - Rechtsprechung nur mit Gericht, Entscheidungsdatum, Aktenzeichen und frei überprüfbarer Quelle nennen.
 
@@ -394,15 +287,15 @@ Der Skill arbeitet landes- und satzungsbezogen: Er fragt zuerst nach Bundesland,
 
 ## Ergebnisformat
 
-Erzeuge bevorzugt: Eilantragsgerüst. Am Ende immer drei Zeilen: **Frist**, **fehlende Quelle**, **nächster sicherer Schritt**.
+Erzeuge bevorzugt: Anerkennungsantrag. Am Ende immer drei Zeilen: **Frist**, **fehlende Quelle**, **nächster sicherer Schritt**.
 
 ---
 
-## Skill: `pruefungsrecht-mecklenburg-vorpommern`
+## Skill: `pruefungsrecht-brandenburg-bremen-hamburg`
 
-_Wenn es um Prüfungsrecht Mecklenburg Vorpommern in Prüfungsrecht an Hochschulen und Universitäten geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Tatbestands- oder Anspruchsmatrix mit Gegenargumenten._
+_Für Prüfungsrecht Brandenburg: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Tatbestands- oder Anspruchsmatrix. Fachgebiet: Prüfungsrecht an Hochschulen und Universitäten. Route: pruefungsrecht-brandenburg-bremen-hamburg._
 
-# Prüfungsrecht Mecklenburg Vorpommern
+# Prüfungsrecht Brandenburg
 
 ## Normenanker
 
@@ -429,21 +322,21 @@ Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei pr
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
-## Fachkern: Prüfungsrecht Mecklenburg Vorpommern
+## Fachkern: Prüfungsrecht Brandenburg
 - **Normen-/Quellenanker:** Hochschulgesetz/Prüfungsordnung des Landes, VwVfG/VwGO, Art. 12/3 GG, Chancengleichheit, Bewertungsfehler, Rücktritt, Täuschung und Eilrechtsschutz.
 - **Entscheidende Weiche:** Prüfungsordnung, Bescheid, Frist, Bewertungsrüge, Verfahrensfehler, Nachteilsausgleich, Akteneinsicht und gerichtlicher Eilbedarf trennen.
 - **Arbeitsprodukt:** Erzeuge eine konkrete Prüf- oder Entscheidungsmatrix mit Norm, Tatbestand, Beleg, Einwand, Risikoampel und nächstem Schritt; Anschluss-Skills nur bei echter Vertiefung nennen.
 
 ## Wofür dieser Arbeitsgang da ist
 
-Landescheck Mecklenburg-Vorpommern: Prüfungsordnung, Zuständigkeit, Widerspruch, Fristen, Nachteilsausgleich, Bewertung, Täuschung und Exmatrikulation.
+Landescheck Brandenburg: Prüfungsordnung, Zuständigkeit, Widerspruch, Fristen, Nachteilsausgleich, Bewertung, Täuschung und Exmatrikulation.
 
 Der Skill arbeitet landes- und satzungsbezogen: Er fragt zuerst nach Bundesland, Einrichtung, konkreter Ordnung, Bescheid, Frist, Verfahrensstand und vorhandenen Unterlagen. Ohne diese Angaben wird keine scheinbar sichere Antwort erzeugt.
 
 ## Spezialfokus
 
-- **Konkreter Auftrag:** Prüft Hochschulprüfungsrecht in Mecklenburg-Vorpommern mit Hochschulgesetz, Prüfungsordnung und Verwaltungsrecht.
-- **Erste Trennlinie:** Ist das Problem wirklich Prüfungsrecht Mecklenburg Vorpommern, oder liegt vorgelagert eine andere Entscheidung, Zuständigkeit oder Frist vor?
+- **Konkreter Auftrag:** Prüft Hochschulprüfungsrecht in Brandenburg mit Hochschulgesetz, Prüfungsordnung und Verwaltungsrecht.
+- **Erste Trennlinie:** Ist das Problem wirklich Prüfungsrecht Brandenburg, oder liegt vorgelagert eine andere Entscheidung, Zuständigkeit oder Frist vor?
 - **Quellenarbeit:** Suche die aktuelle Landesnorm, Ordnung oder Satzung im Original und notiere Fundstelle, Fassung, Bekanntgabeweg und Geltungszeitpunkt.
 - **Aktenarbeit:** Markiere, welches Dokument die entscheidende Tatsache trägt; bloße Schilderungen bekommen eine eigene Unsicherheitsnote.
 - **Produkt:** Liefere am Ende nicht nur ein Ergebnis, sondern eine Handlung: Gesprächsfahrplan, Akteneinsicht, Antrag, Widerspruch/Remonstration, Eilrechtsschutz oder interne Entscheidungsvorlage.
@@ -473,7 +366,7 @@ Der Skill arbeitet landes- und satzungsbezogen: Er fragt zuerst nach Bundesland,
 
 ## Fachanker
 
-- Primäre Anker: Landeshochschulgesetz Mecklenburg-Vorpommern live; Prüfungsordnung.
+- Primäre Anker: Landeshochschulgesetz Brandenburg live; Prüfungsordnung.
 - Landesrecht, aktuelle Satzungen und Prüfungsordnungen immer live aus amtlichen Portalen oder Originaldokumenten prüfen.
 - Rechtsprechung nur mit Gericht, Entscheidungsdatum, Aktenzeichen und frei überprüfbarer Quelle nennen.
 
@@ -490,11 +383,11 @@ Erzeuge bevorzugt: Landesprüfungs-Steckbrief. Am Ende immer drei Zeilen: **Fris
 
 ---
 
-## Skill: `ki-nutzung-und-eigenstaendigkeit`
+## Skill: `anerkennung-pruefungsleistungen`
 
-_Wenn es um digitale Werkzeuge Nutzung Und Eigenstaendigkeit in Prüfungsrecht an Hochschulen und Universitäten geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten._
+_Für Anerkennung von Prüfungsleistungen: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Tatbestands- oder Anspruchsmatrix. Fachgebiet: Prüfungsrecht an Hochschulen und Universitäten. Route: anerkennung-pruefungsleistungen._
 
-# KI Nutzung Und Eigenstaendigkeit
+# Anerkennung Von Prüfungsleistungen
 
 ## Normenanker
 
@@ -521,21 +414,21 @@ Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei pr
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
-## Fachkern: KI Nutzung Und Eigenstaendigkeit
+## Fachkern: Anerkennung Von Prüfungsleistungen
 - **Normen-/Quellenanker:** Hochschulgesetz/Prüfungsordnung des Landes, VwVfG/VwGO, Art. 12/3 GG, Chancengleichheit, Bewertungsfehler, Rücktritt, Täuschung und Eilrechtsschutz.
 - **Entscheidende Weiche:** Prüfungsordnung, Bescheid, Frist, Bewertungsrüge, Verfahrensfehler, Nachteilsausgleich, Akteneinsicht und gerichtlicher Eilbedarf trennen.
 - **Arbeitsprodukt:** Erzeuge eine konkrete Prüf- oder Entscheidungsmatrix mit Norm, Tatbestand, Beleg, Einwand, Risikoampel und nächstem Schritt; Anschluss-Skills nur bei echter Vertiefung nennen.
 
 ## Wofür dieser Arbeitsgang da ist
 
-Erlaubnis, Kennzeichnung, Hilfsmittelverzeichnis, Beweislast, Verdacht, Detektoren und Verhältnismäßigkeit.
+Wesentliche Unterschiede, Ausland, Wechsel, Frist, Begründung und Rechtsschutz.
 
 Der Skill arbeitet landes- und satzungsbezogen: Er fragt zuerst nach Bundesland, Einrichtung, konkreter Ordnung, Bescheid, Frist, Verfahrensstand und vorhandenen Unterlagen. Ohne diese Angaben wird keine scheinbar sichere Antwort erzeugt.
 
 ## Spezialfokus
 
-- **Konkreter Auftrag:** Prüft KI-Nutzung in Prüfungsleistungen.
-- **Erste Trennlinie:** Ist das Problem wirklich KI Nutzung Und Eigenstaendigkeit, oder liegt vorgelagert eine andere Entscheidung, Zuständigkeit oder Frist vor?
+- **Konkreter Auftrag:** Prüft Anerkennung und Anrechnung von Prüfungsleistungen.
+- **Erste Trennlinie:** Ist das Problem wirklich Anerkennung Von Prüfungsleistungen, oder liegt vorgelagert eine andere Entscheidung, Zuständigkeit oder Frist vor?
 - **Quellenarbeit:** Suche die aktuelle Landesnorm, Ordnung oder Satzung im Original und notiere Fundstelle, Fassung, Bekanntgabeweg und Geltungszeitpunkt.
 - **Aktenarbeit:** Markiere, welches Dokument die entscheidende Tatsache trägt; bloße Schilderungen bekommen eine eigene Unsicherheitsnote.
 - **Produkt:** Liefere am Ende nicht nur ein Ergebnis, sondern eine Handlung: Gesprächsfahrplan, Akteneinsicht, Antrag, Widerspruch/Remonstration, Eilrechtsschutz oder interne Entscheidungsvorlage.
@@ -565,7 +458,7 @@ Der Skill arbeitet landes- und satzungsbezogen: Er fragt zuerst nach Bundesland,
 
 ## Fachanker
 
-- Primäre Anker: Prüfungsordnung; Hochschulsatzung; Datenschutz.
+- Primäre Anker: Lissabon-Konvention; Hochschulrecht.
 - Landesrecht, aktuelle Satzungen und Prüfungsordnungen immer live aus amtlichen Portalen oder Originaldokumenten prüfen.
 - Rechtsprechung nur mit Gericht, Entscheidungsdatum, Aktenzeichen und frei überprüfbarer Quelle nennen.
 
@@ -578,15 +471,15 @@ Der Skill arbeitet landes- und satzungsbezogen: Er fragt zuerst nach Bundesland,
 
 ## Ergebnisformat
 
-Erzeuge bevorzugt: KI-Prüfungsvermerk. Am Ende immer drei Zeilen: **Frist**, **fehlende Quelle**, **nächster sicherer Schritt**.
+Erzeuge bevorzugt: Anerkennungsantrag. Am Ende immer drei Zeilen: **Frist**, **fehlende Quelle**, **nächster sicherer Schritt**.
 
 ---
 
-## Skill: `ihk-handwerk-berufsabschluss`
+## Skill: `pruefungsrecht-thueringen-pruefungssprache`
 
-_Wenn es um IHK, Handwerk und Berufsabschluss in Prüfungsrecht an Hochschulen und Universitäten geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Tatbestands- oder Anspruchsmatrix mit Gegenargumenten._
+_Für Prüfungsrecht Thüringen: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Tatbestands- oder Anspruchsmatrix. Fachgebiet: Prüfungsrecht an Hochschulen und Universitäten. Route: pruefungsrecht-thueringen-pruefungssprache._
 
-# IHK, Handwerk und Berufsabschluss
+# Prüfungsrecht Thueringen
 
 ## Normenanker
 
@@ -613,19 +506,21 @@ Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei pr
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
-## Fachkern: IHK, Handwerk und Berufsabschluss
+## Fachkern: Prüfungsrecht Thueringen
 - **Normen-/Quellenanker:** Hochschulgesetz/Prüfungsordnung des Landes, VwVfG/VwGO, Art. 12/3 GG, Chancengleichheit, Bewertungsfehler, Rücktritt, Täuschung und Eilrechtsschutz.
 - **Entscheidende Weiche:** Prüfungsordnung, Bescheid, Frist, Bewertungsrüge, Verfahrensfehler, Nachteilsausgleich, Akteneinsicht und gerichtlicher Eilbedarf trennen.
 - **Arbeitsprodukt:** Erzeuge eine konkrete Prüf- oder Entscheidungsmatrix mit Norm, Tatbestand, Beleg, Einwand, Risikoampel und nächstem Schritt; Anschluss-Skills nur bei echter Vertiefung nennen.
 
 ## Wofür dieser Arbeitsgang da ist
 
-Dieser Skill vertieft ein konkretes Problem im Hochschulprüfungsrecht. Er ist für Prüfling, Prüfungsamt, Prüfungsausschuss, Hochschule, Prüferin oder Anwalt gedacht und soll aus unvollständigen Akten schnell eine belastbare Prüfspur machen.
+Landescheck Thüringen: Prüfungsordnung, Zuständigkeit, Widerspruch, Fristen, Nachteilsausgleich, Bewertung, Täuschung und Exmatrikulation.
+
+Der Skill arbeitet landes- und satzungsbezogen: Er fragt zuerst nach Bundesland, Einrichtung, konkreter Ordnung, Bescheid, Frist, Verfahrensstand und vorhandenen Unterlagen. Ohne diese Angaben wird keine scheinbar sichere Antwort erzeugt.
 
 ## Spezialfokus
 
-- **Konkreter Auftrag:** Prüft berufsständische Prüfungen, Kammerverfahren, Akteneinsicht und Wiederholung.
-- **Erste Trennlinie:** Ist das Problem wirklich IHK, Handwerk und Berufsabschluss, oder liegt vorgelagert eine andere Entscheidung, Zuständigkeit oder Frist vor?
+- **Konkreter Auftrag:** Prüft Hochschulprüfungsrecht in Thüringen mit Hochschulgesetz, Prüfungsordnung und Verwaltungsrecht.
+- **Erste Trennlinie:** Ist das Problem wirklich Prüfungsrecht Thueringen, oder liegt vorgelagert eine andere Entscheidung, Zuständigkeit oder Frist vor?
 - **Quellenarbeit:** Suche die aktuelle Landesnorm, Ordnung oder Satzung im Original und notiere Fundstelle, Fassung, Bekanntgabeweg und Geltungszeitpunkt.
 - **Aktenarbeit:** Markiere, welches Dokument die entscheidende Tatsache trägt; bloße Schilderungen bekommen eine eigene Unsicherheitsnote.
 - **Produkt:** Liefere am Ende nicht nur ein Ergebnis, sondern eine Handlung: Gesprächsfahrplan, Akteneinsicht, Antrag, Widerspruch/Remonstration, Eilrechtsschutz oder interne Entscheidungsvorlage.
@@ -639,40 +534,44 @@ Dieser Skill vertieft ein konkretes Problem im Hochschulprüfungsrecht. Er ist f
 
 ## Kaltstartfragen
 
-- In welchem Bundesland und bei welcher konkreten Einrichtung spielt der Fall?
-- Welche Entscheidung, Maßnahme, Satzung, Ordnung, E-Mail oder welches Protokoll liegt wirklich vor?
-- Welche Frist läuft, wann wurde bekanntgegeben und gibt es bereits Widerspruch, Remonstration, Antrag, Beschwerde oder Eilverfahren?
-- Welche Tatsachen sind durch Aktenstücke belegt und welche sind nur Erzählstand?
-- Welches Ziel soll erreicht werden: Aufhebung, Neubescheidung, Duldung, Gesprächslösung, Vergleich, Akteneinsicht oder nur Risikoeinschätzung?
+- In welchem Bundesland spielt der Fall und welche Schule, Hochschule oder Prüfungsstelle ist zuständig?
+- Welche konkrete Normenebene liegt vor: Gesetz, Verordnung, Satzung, Prüfungsordnung, Schulordnung, Bescheid, Protokoll oder E-Mail?
+- Welche Frist läuft und wie wurde die Entscheidung bekanntgegeben?
+- Wer ist betroffen und wer ist verfahrensbefugt: Schüler, Eltern, Studenten, Prüfling, Hochschule, Schulträger, Behörde, Prüfungsausschuss?
+- Welche Tatsachen sind belegt und welche werden nur behauptet?
 
-## Prüfprogramm
+## Arbeitslogik
 
-1. **Normhierarchie trennen:** Prüfungsordnung, Rahmenordnung, Landeshochschulgesetz, Verwaltungsverfahrensrecht, VwGO und konkrete Prüfungsakte nicht vermischen; die konkrete Ordnung und den Bescheid immer zuerst lesen.
-2. **Zuständigkeit und Verfahren prüfen:** Wer durfte entscheiden, wer musste beteiligt werden, welches Gremium war zuständig und welche Anhörung fehlt möglicherweise?
-3. **Materielle Grenze bestimmen:** Ermessen, Beurteilungs- oder Bewertungsspielraum respektieren, aber Willkür, Verfahrensfehler, Gleichbehandlung, Grundrechte und Verhältnismäßigkeit sauber herausarbeiten.
-4. **Beweisroute bauen:** Aktenstück, Protokoll, Chat, E-Mail, Attest, Bewertungsbogen, Satzungsauszug oder amtliche Quelle jeder Tatsachenbehauptung zuordnen.
-5. **Nächsten Schritt liefern:** knappe Lageeinschätzung, Fristenliste, Antrag, Widerspruch, Remonstration, Eilantragsgerüst, Gesprächsleitfaden oder Beschluss-/Bescheidkritik.
+1. **Normenkette bauen:** Landesrecht, untergesetzliche Verordnung, Satzung/Ordnung und konkrete Entscheidung trennen.
+2. **Verfahrensstand klären:** Antrag, Anhörung, Bescheid, Widerspruch, Remonstration, Eilverfahren, Klage oder interne Gremienphase einordnen.
+3. **Rechtspositionen sortieren:** Grundrechte, Teilhaberechte, Chancengleichheit, Selbstverwaltung, Elternrechte, Fürsorge, Datenschutz und Gleichbehandlung abgleichen.
+4. **Beweis prüfen:** Akte, Protokoll, Bewertungsbogen, Konferenzbeschluss, E-Mail, ärztliches Attest, Nachteilsausgleich oder IT-Log einer konkreten Aussage zuordnen.
+5. **Output liefern:** Entscheidungsvorlage, Widerspruch, Antrag, Fristenliste, Akteneinsichtsantrag, Gesprächsleitfaden, Klage-/Eilantragsgerüst oder Gremienmemo.
 
-## Fachliche Leitplanken
+## Fachanker
 
-- Landesrecht und Satzungsrecht sind dynamisch; vor einer konkreten Ausgabe müssen aktuelle amtliche Quellen oder Originalordnungen geprüft werden.
-- Rechtsprechung nur zitieren, wenn Gericht, Datum, Aktenzeichen und eine frei überprüfbare Quelle vorliegen.
-- Keine pauschalen Aussagen wie "immer rechtswidrig" oder "pädagogisch nicht angreifbar"; entscheidend sind Verfahrensspur, Dokumentation, Gleichbehandlung und konkrete Rechtsgrundlage.
+- Primäre Anker: Landeshochschulgesetz Thüringen live; Prüfungsordnung.
+- Landesrecht, aktuelle Satzungen und Prüfungsordnungen immer live aus amtlichen Portalen oder Originaldokumenten prüfen.
+- Rechtsprechung nur mit Gericht, Entscheidungsdatum, Aktenzeichen und frei überprüfbarer Quelle nennen.
 
-## Output-Muster
+## Typische Fehler
 
-- **Sofortlage:** Was ist entschieden, was läuft, was droht?
-- **Angriffspunkte:** Zuständigkeit, Verfahren, Begründung, Tatsachenbasis, Ermessen/Bewertungsspielraum, Verhältnismäßigkeit.
-- **Dokumentenbedarf:** fehlende Akten, Protokolle, Ordnungen, Atteste, Gremienbeschlüsse und Zustellnachweise.
-- **Entwurf:** präziser Antrag oder Schriftsatzbaustein mit Frist, Ziel und Begründung.
+- Bundesland oder Prüfungsordnung wird übersehen.
+- Eine E-Mail wird wie ein Verwaltungsakt behandelt oder ein Verwaltungsakt nur wie eine Information.
+- Bewertungs- und pädagogische Spielräume werden entweder zu weit oder zu eng verstanden.
+- Fristen laufen, während nur über Fairness diskutiert wird.
+
+## Ergebnisformat
+
+Erzeuge bevorzugt: Landesprüfungs-Steckbrief. Am Ende immer drei Zeilen: **Frist**, **fehlende Quelle**, **nächster sicherer Schritt**.
 
 ---
 
-## Skill: `pruefungsordnung-aenderung-uebergangsrecht`
+## Skill: `datenschutz-pruefungsdaten-drittversuch`
 
-_Wenn es um Prüfungsordnungsänderung und Übergangsrecht in Prüfungsrecht an Hochschulen und Universitäten geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten._
+_Für Datenschutz Prüfungsdaten: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Tatbestands- oder Anspruchsmatrix. Fachgebiet: Prüfungsrecht an Hochschulen und Universitäten. Route: datenschutz-pruefungsdaten-drittversuch._
 
-# Prüfungsordnungsänderung und Übergangsrecht
+# Datenschutz Prüfungsdaten
 
 ## Normenanker
 
@@ -699,19 +598,21 @@ Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei pr
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
-## Fachkern: Prüfungsordnungsänderung und Übergangsrecht
+## Fachkern: Datenschutz Prüfungsdaten
 - **Normen-/Quellenanker:** Hochschulgesetz/Prüfungsordnung des Landes, VwVfG/VwGO, Art. 12/3 GG, Chancengleichheit, Bewertungsfehler, Rücktritt, Täuschung und Eilrechtsschutz.
 - **Entscheidende Weiche:** Prüfungsordnung, Bescheid, Frist, Bewertungsrüge, Verfahrensfehler, Nachteilsausgleich, Akteneinsicht und gerichtlicher Eilbedarf trennen.
 - **Arbeitsprodukt:** Erzeuge eine konkrete Prüf- oder Entscheidungsmatrix mit Norm, Tatbestand, Beleg, Einwand, Risikoampel und nächstem Schritt; Anschluss-Skills nur bei echter Vertiefung nennen.
 
 ## Wofür dieser Arbeitsgang da ist
 
-Dieser Skill vertieft ein konkretes Problem im Hochschulprüfungsrecht. Er ist für Prüfling, Prüfungsamt, Prüfungsausschuss, Hochschule, Prüferin oder Anwalt gedacht und soll aus unvollständigen Akten schnell eine belastbare Prüfspur machen.
+Notenlisten, Lernplattform, Proctoring, KI-Detektoren, Akteneinsicht, Löschung und Auskunft.
+
+Der Skill arbeitet landes- und satzungsbezogen: Er fragt zuerst nach Bundesland, Einrichtung, konkreter Ordnung, Bescheid, Frist, Verfahrensstand und vorhandenen Unterlagen. Ohne diese Angaben wird keine scheinbar sichere Antwort erzeugt.
 
 ## Spezialfokus
 
-- **Konkreter Auftrag:** Prüft neue Prüfungsordnung, Vertrauensschutz, Übergangsfristen und Härtefall.
-- **Erste Trennlinie:** Ist das Problem wirklich Prüfungsordnungsänderung und Übergangsrecht, oder liegt vorgelagert eine andere Entscheidung, Zuständigkeit oder Frist vor?
+- **Konkreter Auftrag:** Prüft Datenschutz bei Prüfungsdaten.
+- **Erste Trennlinie:** Ist das Problem wirklich Datenschutz Prüfungsdaten, oder liegt vorgelagert eine andere Entscheidung, Zuständigkeit oder Frist vor?
 - **Quellenarbeit:** Suche die aktuelle Landesnorm, Ordnung oder Satzung im Original und notiere Fundstelle, Fassung, Bekanntgabeweg und Geltungszeitpunkt.
 - **Aktenarbeit:** Markiere, welches Dokument die entscheidende Tatsache trägt; bloße Schilderungen bekommen eine eigene Unsicherheitsnote.
 - **Produkt:** Liefere am Ende nicht nur ein Ergebnis, sondern eine Handlung: Gesprächsfahrplan, Akteneinsicht, Antrag, Widerspruch/Remonstration, Eilrechtsschutz oder interne Entscheidungsvorlage.
@@ -725,32 +626,128 @@ Dieser Skill vertieft ein konkretes Problem im Hochschulprüfungsrecht. Er ist f
 
 ## Kaltstartfragen
 
-- In welchem Bundesland und bei welcher konkreten Einrichtung spielt der Fall?
-- Welche Entscheidung, Maßnahme, Satzung, Ordnung, E-Mail oder welches Protokoll liegt wirklich vor?
-- Welche Frist läuft, wann wurde bekanntgegeben und gibt es bereits Widerspruch, Remonstration, Antrag, Beschwerde oder Eilverfahren?
-- Welche Tatsachen sind durch Aktenstücke belegt und welche sind nur Erzählstand?
-- Welches Ziel soll erreicht werden: Aufhebung, Neubescheidung, Duldung, Gesprächslösung, Vergleich, Akteneinsicht oder nur Risikoeinschätzung?
+- In welchem Bundesland spielt der Fall und welche Schule, Hochschule oder Prüfungsstelle ist zuständig?
+- Welche konkrete Normenebene liegt vor: Gesetz, Verordnung, Satzung, Prüfungsordnung, Schulordnung, Bescheid, Protokoll oder E-Mail?
+- Welche Frist läuft und wie wurde die Entscheidung bekanntgegeben?
+- Wer ist betroffen und wer ist verfahrensbefugt: Schüler, Eltern, Studenten, Prüfling, Hochschule, Schulträger, Behörde, Prüfungsausschuss?
+- Welche Tatsachen sind belegt und welche werden nur behauptet?
 
-## Prüfprogramm
+## Arbeitslogik
 
-1. **Normhierarchie trennen:** Prüfungsordnung, Rahmenordnung, Landeshochschulgesetz, Verwaltungsverfahrensrecht, VwGO und konkrete Prüfungsakte nicht vermischen; die konkrete Ordnung und den Bescheid immer zuerst lesen.
-2. **Zuständigkeit und Verfahren prüfen:** Wer durfte entscheiden, wer musste beteiligt werden, welches Gremium war zuständig und welche Anhörung fehlt möglicherweise?
-3. **Materielle Grenze bestimmen:** Ermessen, Beurteilungs- oder Bewertungsspielraum respektieren, aber Willkür, Verfahrensfehler, Gleichbehandlung, Grundrechte und Verhältnismäßigkeit sauber herausarbeiten.
-4. **Beweisroute bauen:** Aktenstück, Protokoll, Chat, E-Mail, Attest, Bewertungsbogen, Satzungsauszug oder amtliche Quelle jeder Tatsachenbehauptung zuordnen.
-5. **Nächsten Schritt liefern:** knappe Lageeinschätzung, Fristenliste, Antrag, Widerspruch, Remonstration, Eilantragsgerüst, Gesprächsleitfaden oder Beschluss-/Bescheidkritik.
+1. **Normenkette bauen:** Landesrecht, untergesetzliche Verordnung, Satzung/Ordnung und konkrete Entscheidung trennen.
+2. **Verfahrensstand klären:** Antrag, Anhörung, Bescheid, Widerspruch, Remonstration, Eilverfahren, Klage oder interne Gremienphase einordnen.
+3. **Rechtspositionen sortieren:** Grundrechte, Teilhaberechte, Chancengleichheit, Selbstverwaltung, Elternrechte, Fürsorge, Datenschutz und Gleichbehandlung abgleichen.
+4. **Beweis prüfen:** Akte, Protokoll, Bewertungsbogen, Konferenzbeschluss, E-Mail, ärztliches Attest, Nachteilsausgleich oder IT-Log einer konkreten Aussage zuordnen.
+5. **Output liefern:** Entscheidungsvorlage, Widerspruch, Antrag, Fristenliste, Akteneinsichtsantrag, Gesprächsleitfaden, Klage-/Eilantragsgerüst oder Gremienmemo.
 
-## Fachliche Leitplanken
+## Fachanker
 
-- Landesrecht und Satzungsrecht sind dynamisch; vor einer konkreten Ausgabe müssen aktuelle amtliche Quellen oder Originalordnungen geprüft werden.
-- Rechtsprechung nur zitieren, wenn Gericht, Datum, Aktenzeichen und eine frei überprüfbare Quelle vorliegen.
-- Keine pauschalen Aussagen wie "immer rechtswidrig" oder "pädagogisch nicht angreifbar"; entscheidend sind Verfahrensspur, Dokumentation, Gleichbehandlung und konkrete Rechtsgrundlage.
+- Primäre Anker: DSGVO; Hochschulrecht.
+- Landesrecht, aktuelle Satzungen und Prüfungsordnungen immer live aus amtlichen Portalen oder Originaldokumenten prüfen.
+- Rechtsprechung nur mit Gericht, Entscheidungsdatum, Aktenzeichen und frei überprüfbarer Quelle nennen.
 
-## Output-Muster
+## Typische Fehler
 
-- **Sofortlage:** Was ist entschieden, was läuft, was droht?
-- **Angriffspunkte:** Zuständigkeit, Verfahren, Begründung, Tatsachenbasis, Ermessen/Bewertungsspielraum, Verhältnismäßigkeit.
-- **Dokumentenbedarf:** fehlende Akten, Protokolle, Ordnungen, Atteste, Gremienbeschlüsse und Zustellnachweise.
-- **Entwurf:** präziser Antrag oder Schriftsatzbaustein mit Frist, Ziel und Begründung.
+- Bundesland oder Prüfungsordnung wird übersehen.
+- Eine E-Mail wird wie ein Verwaltungsakt behandelt oder ein Verwaltungsakt nur wie eine Information.
+- Bewertungs- und pädagogische Spielräume werden entweder zu weit oder zu eng verstanden.
+- Fristen laufen, während nur über Fairness diskutiert wird.
+
+## Ergebnisformat
+
+Erzeuge bevorzugt: Datenschutzmemo. Am Ende immer drei Zeilen: **Frist**, **fehlende Quelle**, **nächster sicherer Schritt**.
+
+---
+
+## Skill: `pruefungsrecht-saarland-sachsen-anhalt`
+
+_Für Prüfungsrecht Saarland: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Tatbestands- oder Anspruchsmatrix. Fachgebiet: Prüfungsrecht an Hochschulen und Universitäten. Route: pruefungsrecht-saarland-sachsen-anhalt._
+
+# Prüfungsrecht Saarland
+
+## Normenanker
+
+Vor einer rechtlichen Schlussfolgerung diese Anker am aktuellen Normtext prüfen; Spezial- und Landesrecht nur hinzunehmen, wenn es den konkreten Auftrag traegt:
+
+- `Art. 5 Abs. 3 Satz 1 GG` — Wissenschaftsfreiheit.
+- `Art. 12 Abs. 1 GG` — Berufswahl- und Ausbildungsbezug.
+- `Art. 3 Abs. 1 GG` — Gleichbehandlung und Bewertungsfairness.
+- `§ 2 HRG` — Aufgaben der Hochschulen.
+- `§ 4 HRG` — Freiheit von Forschung, Lehre und Studium.
+- `§ 7 HRG` — Ziel des Studiums.
+- `§ 15 HRG` — Prüfungen und Leistungspunktsystem.
+- `§ 16 HRG` — Prüfungsordnungen.
+- `§ 70 Abs. 1 VwGO` — Widerspruchsfrist.
+- `§ 123 Abs. 1 VwGO` — Eilrechtsschutz bei Studien-/Prüfungsentscheidungen.
+
+Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei prüfbare Quelle vorliegen; keine BeckRS-/juris-Blindzitate verwenden.
+
+## Arbeitsweg
+
+- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
+- Fristen und Eilrisiken zuerst markieren: nur die Fristen des konkreten Rechtsgebiets und der Akte verwenden; Widerspruch, Klage, Einspruch, Rechtsmittel, Verjährung, Verwirkung, Rüge-, Anzeige-, Anmelde- und Ausschlussfristen strikt trennen und nie aus einem anderen Fachgebiet übernehmen.
+- Tragende Normen verifizieren: GG Art. 12, BVerfGE 84, 34 (Antwortspielraum), BVerfGE 84, 59, HRG, JAG, HochschulG der Länder, VwVfG, VwGO § 80 — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
+- Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
+- Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
+
+## Fachkern: Prüfungsrecht Saarland
+- **Normen-/Quellenanker:** Hochschulgesetz/Prüfungsordnung des Landes, VwVfG/VwGO, Art. 12/3 GG, Chancengleichheit, Bewertungsfehler, Rücktritt, Täuschung und Eilrechtsschutz.
+- **Entscheidende Weiche:** Prüfungsordnung, Bescheid, Frist, Bewertungsrüge, Verfahrensfehler, Nachteilsausgleich, Akteneinsicht und gerichtlicher Eilbedarf trennen.
+- **Arbeitsprodukt:** Erzeuge eine konkrete Prüf- oder Entscheidungsmatrix mit Norm, Tatbestand, Beleg, Einwand, Risikoampel und nächstem Schritt; Anschluss-Skills nur bei echter Vertiefung nennen.
+
+## Wofür dieser Arbeitsgang da ist
+
+Landescheck Saarland: Prüfungsordnung, Zuständigkeit, Widerspruch, Fristen, Nachteilsausgleich, Bewertung, Täuschung und Exmatrikulation.
+
+Der Skill arbeitet landes- und satzungsbezogen: Er fragt zuerst nach Bundesland, Einrichtung, konkreter Ordnung, Bescheid, Frist, Verfahrensstand und vorhandenen Unterlagen. Ohne diese Angaben wird keine scheinbar sichere Antwort erzeugt.
+
+## Spezialfokus
+
+- **Konkreter Auftrag:** Prüft Hochschulprüfungsrecht in Saarland mit Hochschulgesetz, Prüfungsordnung und Verwaltungsrecht.
+- **Erste Trennlinie:** Ist das Problem wirklich Prüfungsrecht Saarland, oder liegt vorgelagert eine andere Entscheidung, Zuständigkeit oder Frist vor?
+- **Quellenarbeit:** Suche die aktuelle Landesnorm, Ordnung oder Satzung im Original und notiere Fundstelle, Fassung, Bekanntgabeweg und Geltungszeitpunkt.
+- **Aktenarbeit:** Markiere, welches Dokument die entscheidende Tatsache trägt; bloße Schilderungen bekommen eine eigene Unsicherheitsnote.
+- **Produkt:** Liefere am Ende nicht nur ein Ergebnis, sondern eine Handlung: Gesprächsfahrplan, Akteneinsicht, Antrag, Widerspruch/Remonstration, Eilrechtsschutz oder interne Entscheidungsvorlage.
+
+### Typische Fallen in diesem Gebiet
+
+- Unzufriedenheit mit der Note, Bewertungsfehler, Verfahrensfehler und neue Tatsachen strikt auseinanderhalten.
+- Prüfungsordnung, Modulhandbuch, Bescheid, Portalnachricht, Bewertungsbogen und Akteneinsicht immer nebeneinander legen.
+- Bewertungsspielräume respektieren, aber Denkfehler, sachfremde Erwägungen, Gleichbehandlung und Chancengleichheit präzise prüfen.
+- Fristen, Unverzüglichkeit, Rücktritt, Täuschungsvorwurf, Nachteilsausgleich und Eilrechtsschutz als eigene Entscheidungspfade behandeln.
+
+## Kaltstartfragen
+
+- In welchem Bundesland spielt der Fall und welche Schule, Hochschule oder Prüfungsstelle ist zuständig?
+- Welche konkrete Normenebene liegt vor: Gesetz, Verordnung, Satzung, Prüfungsordnung, Schulordnung, Bescheid, Protokoll oder E-Mail?
+- Welche Frist läuft und wie wurde die Entscheidung bekanntgegeben?
+- Wer ist betroffen und wer ist verfahrensbefugt: Schüler, Eltern, Studenten, Prüfling, Hochschule, Schulträger, Behörde, Prüfungsausschuss?
+- Welche Tatsachen sind belegt und welche werden nur behauptet?
+
+## Arbeitslogik
+
+1. **Normenkette bauen:** Landesrecht, untergesetzliche Verordnung, Satzung/Ordnung und konkrete Entscheidung trennen.
+2. **Verfahrensstand klären:** Antrag, Anhörung, Bescheid, Widerspruch, Remonstration, Eilverfahren, Klage oder interne Gremienphase einordnen.
+3. **Rechtspositionen sortieren:** Grundrechte, Teilhaberechte, Chancengleichheit, Selbstverwaltung, Elternrechte, Fürsorge, Datenschutz und Gleichbehandlung abgleichen.
+4. **Beweis prüfen:** Akte, Protokoll, Bewertungsbogen, Konferenzbeschluss, E-Mail, ärztliches Attest, Nachteilsausgleich oder IT-Log einer konkreten Aussage zuordnen.
+5. **Output liefern:** Entscheidungsvorlage, Widerspruch, Antrag, Fristenliste, Akteneinsichtsantrag, Gesprächsleitfaden, Klage-/Eilantragsgerüst oder Gremienmemo.
+
+## Fachanker
+
+- Primäre Anker: Landeshochschulgesetz Saarland live; Prüfungsordnung.
+- Landesrecht, aktuelle Satzungen und Prüfungsordnungen immer live aus amtlichen Portalen oder Originaldokumenten prüfen.
+- Rechtsprechung nur mit Gericht, Entscheidungsdatum, Aktenzeichen und frei überprüfbarer Quelle nennen.
+
+## Typische Fehler
+
+- Bundesland oder Prüfungsordnung wird übersehen.
+- Eine E-Mail wird wie ein Verwaltungsakt behandelt oder ein Verwaltungsakt nur wie eine Information.
+- Bewertungs- und pädagogische Spielräume werden entweder zu weit oder zu eng verstanden.
+- Fristen laufen, während nur über Fairness diskutiert wird.
+
+## Ergebnisformat
+
+Erzeuge bevorzugt: Landesprüfungs-Steckbrief. Am Ende immer drei Zeilen: **Frist**, **fehlende Quelle**, **nächster sicherer Schritt**.
 
 ---
 

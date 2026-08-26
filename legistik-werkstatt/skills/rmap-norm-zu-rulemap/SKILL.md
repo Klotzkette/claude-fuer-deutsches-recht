@@ -1,6 +1,6 @@
 ---
 name: rmap-norm-zu-rulemap
-description: "Wenn es um Von der Norm zur Rulemap - Vorgehensmodell in Legistik-Werkstatt geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Von der Norm zur Rulemap - Vorgehensmodell: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Tatbestands- oder Anspruchsmatrix."
 ---
 
 # Von der Norm zur Rulemap - Vorgehensmodell

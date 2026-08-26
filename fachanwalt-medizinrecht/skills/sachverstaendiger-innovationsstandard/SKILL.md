@@ -1,6 +1,6 @@
 ---
 name: sachverstaendiger-innovationsstandard
-description: "Wenn es um Sachverstaendiger Innovationsstandard in Fachanwalt Medizinrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Sachverständiger Innovationsstandard: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Sachverständiger und Innovationsstandard: moderner Medizinrechts-Skill für Gerichtsgutachten bei neuer Methode, Leitlinienlücke, Registerdaten und Standardbildung

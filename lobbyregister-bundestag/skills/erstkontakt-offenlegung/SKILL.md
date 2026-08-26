@@ -1,6 +1,6 @@
 ---
 name: erstkontakt-offenlegung
-description: "Wenn es um Erstkontakt Offenlegung in Lobbyregister Bundestag geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Erstkontakt Offenlegung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Erstkontakt Offenlegung

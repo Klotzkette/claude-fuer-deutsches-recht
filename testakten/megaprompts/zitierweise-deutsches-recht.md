@@ -7,15 +7,15 @@ Diese Vollprüfung enthält top-10 von 84 Skills des Plugins `zitierweise-deutsc
 ## Inhaltsverzeichnis
 
 1. **juristischer-argumentationskern** — Schaltet sich ein, wenn in Zitierweise Deutsches Recht ein juristisches Arbeitsprodukt tragfähig begründet werden muss; …
-2. **einstieg-routing** — Wenn es um Einstieg und Routing in Zitierweise deutsches Recht geht: klärt Rolle, Ziel, Frist, Unterlagen und den passen…
-3. **kaltstart-triage** — Wenn es um Kaltstart Triage in Zitierweise deutsches Recht geht: klärt Rolle, Ziel, Frist, Unterlagen und den passenden …
-4. **juristische-erstpruefung-und-mandatsziel** — Wenn es um Juristische: Erstprüfung, Rollenklärung und Mandatsziel in Zitierweise deutsches Recht geht: klärt Rolle, Zie…
-5. **zitierweise-juristische-erstpruefung-rollenklaerung-mandatsziel** — Wenn es um Juristische: Erstprüfung, Rollenklärung und Mandatsziel in Zitierweise deutsches Recht geht: klärt Rolle, Zie…
-6. **entscheidungsform-risikoampel-und-gegenargumente** — Wenn es um Entscheidungsform: Risikoampel, Gegenargumente und Verteidigungslinien in Zitierweise deutsches Recht geht: z…
-7. **zitierweise-entscheidungsform-gericht-datum-az** — Wenn es um Entscheidungsform: Risikoampel, Gegenargumente und Verteidigungslinien in Zitierweise deutsches Recht geht: z…
-8. **zitierweise-rechtsprechung-fristen-form-zustaendigkeit-rechtsweg** — Wenn es um Rechtsprechung: Fristen, Form, Zuständigkeit und Rechtsweg in Zitierweise deutsches Recht geht: prüft Frist, …
-9. **lizenziertem-mandantenkommunikation-entscheidungsvorlage** — Wenn es um Lizenziertem: Mandantenkommunikation und Entscheidungsvorlage in Zitierweise deutsches Recht geht: prüft Fris…
-10. **zitierweise-blindzitate-internationaler-bezug-schnittstellen** — Wenn es um Blindzitate: Internationaler Bezug und Schnittstellen in Zitierweise deutsches Recht geht: prüft Frist, Form,…
+2. **einstieg-routing** — Für Einstieg und Routing: routet Rolle, Frist, Unterlagen und Fachschritt; Ergebnis: Prüfprodukt mit Risiko und nächstem…
+3. **kaltstart-triage** — Für Kaltstart Triage: routet Rolle, Frist, Unterlagen und Fachschritt; Ergebnis: Prüfprodukt mit Risiko und nächstem Sch…
+4. **juristische-erstpruefung-und-mandatsziel** — Für Juristische: Erstprüfung, Rollenklärung und Mandatsziel: routet Rolle, Frist, Unterlagen und Fachschritt; Ergebnis: …
+5. **zitierweise-blindzitate-internationaler-bezug-schnittstellen** — Für Blindzitate: Internationaler Bezug und Schnittstellen: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Schnitts…
+6. **blindzitate-internationaler-bezug-und-schnittstellen** — Für Blindzitate: Internationaler Bezug und Schnittstellen: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Schnitts…
+7. **lizenziertem-mandantenkommunikation-entscheidungsvorlage** — Für Lizenziertem: Mandantenkommunikation und Entscheidungsvorlage: ordnet Norm, Beweislast und Gegenargument; Ergebnis: …
+8. **zitierweise-aktenzeichen-schriftsatz-brief-memo-bausteine** — Für Aktenzeichen: Schriftsatz-, Brief- und Memo-Bausteine: erstellt Entwurf mit Antrag, Beweis und Anlagen; Ergebnis: Sc…
+9. **zitierweise-juristische-erstpruefung-rollenklaerung-mandatsziel** — Für Juristische: Erstprüfung, Rollenklärung und Mandatsziel: routet Rolle, Frist, Unterlagen und Fachschritt; Ergebnis: …
+10. **aktenzeichen-schriftsatz-brief-und-memo-bausteine** — Für Aktenzeichen: Schriftsatz-, Brief- und Memo-Bausteine: erstellt Entwurf mit Antrag, Beweis und Anlagen; Ergebnis: Sc…
 
 ---
 
@@ -142,7 +142,7 @@ Ausgangspunkt für dieses Plugin: Anspruchsteller für anspruchsbegründende Tat
 
 ## Skill: `einstieg-routing`
 
-_Wenn es um Einstieg und Routing in Zitierweise deutsches Recht geht: klärt Rolle, Ziel, Frist, Unterlagen und den passenden nächsten Fachskill; liefert eine Fristen- und Risikoampel mit Sofortschritten._
+_Für Einstieg und Routing: routet Rolle, Frist, Unterlagen und Fachschritt; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt. Fachgebiet: Zitierweise deutsches Recht._
 
 # Einstieg und Routing
 
@@ -201,7 +201,7 @@ Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei pr
 
 ## Skill: `kaltstart-triage`
 
-_Wenn es um Kaltstart Triage in Zitierweise deutsches Recht geht: klärt Rolle, Ziel, Frist, Unterlagen und den passenden nächsten Fachskill; liefert eine Fristen- und Risikoampel mit Sofortschritten._
+_Für Kaltstart Triage: routet Rolle, Frist, Unterlagen und Fachschritt; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt. Fachgebiet: Zitierweise deutsches Recht._
 
 ## Direktstart: lesen, entscheiden, liefern
 
@@ -351,7 +351,7 @@ Hinweis: Dieser Skill stärkt die anwaltliche Arbeit, indem er Workflow, Intake 
 
 ## Skill: `juristische-erstpruefung-und-mandatsziel`
 
-_Wenn es um Juristische: Erstprüfung, Rollenklärung und Mandatsziel in Zitierweise deutsches Recht geht: klärt Rolle, Ziel, Frist, Unterlagen und den passenden nächsten Fachskill; liefert eine Fristen- und Risikoampel mit Sofortschritten. Auswahlstichwort: Juristische Erstpruefung Und Mandatsziel; Arbeitsfeld: Zitierweise deutsches Recht._
+_Für Juristische: Erstprüfung, Rollenklärung und Mandatsziel: routet Rolle, Frist, Unterlagen und Fachschritt; Ergebnis: Tatbestands- oder Anspruchsmatrix. Fachgebiet: Zitierweise deutsches Recht. Route: juristische-erstpruefung-und-mandatsziel._
 
 # Juristische: Erstprüfung, Rollenklärung und Mandatsziel
 
@@ -421,43 +421,28 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 
 ---
 
-## Skill: `zitierweise-juristische-erstpruefung-rollenklaerung-mandatsziel`
+## Skill: `zitierweise-blindzitate-internationaler-bezug-schnittstellen`
 
-_Wenn es um Juristische: Erstprüfung, Rollenklärung und Mandatsziel in Zitierweise deutsches Recht geht: klärt Rolle, Ziel, Frist, Unterlagen und den passenden nächsten Fachskill; liefert eine Fristen- und Risikoampel mit Sofortschritten. Auswahlstichwort: Zitierweise Juristische Erstpruefung Rollenklaerung Mandatsziel; Arbeitsfeld: Zitierweise deutsches Recht._
+_Für Blindzitate: Internationaler Bezug und Schnittstellen: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Schnittstellenkarte mit Zuständigkeits- und Nachweisfragen. Fachgebiet: Zitierweise deutsches Recht. Route: zitierweise-blindzitate-internationaler-bezug-schnittstellen._
 
-# Juristische: Erstprüfung, Rollenklärung und Mandatsziel
-
-## Direktstart: lesen, entscheiden, liefern
-
-Beginne nicht mit einem Fragenkatalog. Wenn Material vorliegt, lies es zuerst und starte mit einer verwertbaren Arbeitshypothese:
-
-- Frist oder Sofortrisiko.
-- erkannte Rolle, Zielrichtung und Verfahrensstand.
-- tragende Tatsachen aus dem Material.
-- bester nächster Arbeitsschritt mit direkt nutzbarem Output.
-
-Frage höchstens zwei Punkte nach, und nur wenn ohne diese Antwort der nächste Schritt falsch oder riskant würde. Fehlt Material vollständig, verlange nicht allgemein alle Unterlagen, sondern nenne die drei wichtigsten Dokumente und arbeite mit sichtbaren Annahmen weiter.
-
-Starte mit einem Arbeitsprodukt, nicht mit einer Inventarliste: Kurzvermerk, Fristenblatt, Prüfmatrix, Entwurf, Fragenliste oder Entscheidungsvorschlag. Routing ist nur Mittel zum Zweck. Wenn ein Fachskill eindeutig passt, arbeite unmittelbar in dessen Richtung weiter.
-
-Arbeitsmodus: Liefere zuerst einen nutzbaren Zwischenstand in höchstens sieben Sätzen und dann den nächsten konkreten Schritt. Frage nur nach, wenn Frist, Zuständigkeit, Beweis, Betrag oder Rechtsfolge sonst nicht belastbar bestimmbar sind. Tabellen nur für Fristen, Belege, Beträge, Varianten oder Streitstoff.
+# Blindzitate: Internationaler Bezug und Schnittstellen
 
 ## Regelungs- und Quellenanker
 
-Arbeitsfokus: **Juristische: Erstprüfung, Rollenklärung und Mandatsziel**. Prüfe diese Anker am Sachverhalt; ergänze nur Normen, die denselben Output, dieselbe Frist oder dieselbe Beweisfrage tragen:
+Arbeitsfokus: **Blindzitate: Internationaler Bezug und Schnittstellen**. Prüfe diese Anker am Sachverhalt; ergänze nur Normen, die denselben Output, dieselbe Frist oder dieselbe Beweisfrage tragen:
 
-- `§ 130 Nr. 6 ZPO` — verantworteter Schriftsatz.
-- `§ 138 Abs. 1 ZPO` — Wahrheit und Vollständigkeit.
-- `§ 253 Abs. 2 ZPO` — bestimmter Klagegrund.
+- `§ 51 UrhG` — Zitatrecht.
+- `§ 63 UrhG` — Quellenangabe.
+- `§ 2 Abs. 1 Nr. 1 UrhG` — Sprachwerke.
+- `§ 97 UrhG` — Unterlassung/Schadensersatz bei Rechtsverletzung.
+- `§ 138 Abs. 1 ZPO` — Wahrheitspflicht im Tatsachenvortrag.
+- `§ 253 Abs. 2 ZPO` — Substantiierung im Schriftsatz.
 - `§ 313 Abs. 3 ZPO` — Entscheidungsgründe.
-- `§ 540 Abs. 1 ZPO` — Berufungsurteil.
-- `§ 267 Abs. 1 StPO` — strafgerichtliche Urteilsgründe.
-- `§ 117 Abs. 2 VwGO` — verwaltungsgerichtliche Urteilsgründe.
-- `§ 51 UrhG` — zulässiges Zitieren fremder Texte.
+- `Art. 5 Abs. 3 Satz 1 GG` — Wissenschaftsfreiheit als Kontext, nicht als Zitierfreibrief.
 
 Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei prüfbare Quelle vorliegen; keine BeckRS-/juris-Blindzitate verwenden.
 
-## Spezialwissen: Juristische: Erstprüfung, Rollenklärung und Mandatsziel
+## Spezialwissen: Blindzitate: Internationaler Bezug und Schnittstellen
 - **Normen-/Quellenanker:** einschlägige Fachnormen, Behördenhinweise, Formulare, Verfahrensrecht und frei prüfbare Rechtsprechung live prüfen.
 
 ## Fallweichen
@@ -471,7 +456,7 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 
 ## Arbeitsworkflow
 1. **Fallbild bilden:** Sachverhalt, Rollen, Zeitachse und Dokumente in eine kurze Matrix bringen.
-2. **Rechtsrahmen setzen:** Normen, Zuständigkeiten, Fristen, Formfragen und Verfahrensstand zum Themenfeld **Juristische** prüfen.
+2. **Rechtsrahmen setzen:** Normen, Zuständigkeiten, Fristen, Formfragen und Verfahrensstand zum Themenfeld **Blindzitate** prüfen.
 3. **Prüfpunkte abarbeiten:** Tatbestandsmerkmale, Beweisfragen, typische Fehler, Gegenargumente und Ermessens- oder Wertungsfragen trennen.
 4. **Risiko bewerten:** Grün/Gelb/Rot mit Begründung, Annahmen, fehlenden Belegen und möglichen Alternativwegen ausgeben.
 5. **Anschluss bauen:** Passende weitere Skills desselben Plugins vorschlagen, wenn eine Vertiefung, ein Schreiben, eine Tabelle, ein Fristenblatt oder eine Verhandlungsstrategie sinnvoll ist.
@@ -485,24 +470,24 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 
 ---
 
-## Skill: `entscheidungsform-risikoampel-und-gegenargumente`
+## Skill: `blindzitate-internationaler-bezug-und-schnittstellen`
 
-_Wenn es um Entscheidungsform: Risikoampel, Gegenargumente und Verteidigungslinien in Zitierweise deutsches Recht geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten. Auswahlstichwort: Entscheidungsform Risikoampel Und Gegenargumente; Arbeitsfeld: Zitierweise deutsches Recht._
+_Für Blindzitate: Internationaler Bezug und Schnittstellen: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Schnittstellenkarte mit Zuständigkeits- und Nachweisfragen. Fachgebiet: Zitierweise deutsches Recht. Route: blindzitate-internationaler-bezug-und-schnittstellen._
 
-# Entscheidungsform: Risikoampel, Gegenargumente und Verteidigungslinien
+# Blindzitate: Internationaler Bezug und Schnittstellen
 
 ## Regelungs- und Quellenanker
 
-Arbeitsfokus: **Entscheidungsform: Risikoampel, Gegenargumente und Verteidigungslinien**. Prüfe diese Anker am Sachverhalt; ergänze nur Normen, die denselben Output, dieselbe Frist oder dieselbe Beweisfrage tragen:
+Arbeitsfokus: **Blindzitate: Internationaler Bezug und Schnittstellen**. Prüfe diese Anker am Sachverhalt; ergänze nur Normen, die denselben Output, dieselbe Frist oder dieselbe Beweisfrage tragen:
 
-- `§ 130 Nr. 6 ZPO` — verantworteter Schriftsatz.
-- `§ 138 Abs. 1 ZPO` — Wahrheit und Vollständigkeit.
-- `§ 253 Abs. 2 ZPO` — bestimmter Klagegrund.
+- `§ 51 UrhG` — Zitatrecht.
+- `§ 63 UrhG` — Quellenangabe.
+- `§ 2 Abs. 1 Nr. 1 UrhG` — Sprachwerke.
+- `§ 97 UrhG` — Unterlassung/Schadensersatz bei Rechtsverletzung.
+- `§ 138 Abs. 1 ZPO` — Wahrheitspflicht im Tatsachenvortrag.
+- `§ 253 Abs. 2 ZPO` — Substantiierung im Schriftsatz.
 - `§ 313 Abs. 3 ZPO` — Entscheidungsgründe.
-- `§ 540 Abs. 1 ZPO` — Berufungsurteil.
-- `§ 267 Abs. 1 StPO` — strafgerichtliche Urteilsgründe.
-- `§ 117 Abs. 2 VwGO` — verwaltungsgerichtliche Urteilsgründe.
-- `§ 51 UrhG` — zulässiges Zitieren fremder Texte.
+- `Art. 5 Abs. 3 Satz 1 GG` — Wissenschaftsfreiheit als Kontext, nicht als Zitierfreibrief.
 
 Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei prüfbare Quelle vorliegen; keine BeckRS-/juris-Blindzitate verwenden.
 
@@ -514,7 +499,7 @@ Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei pr
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Verfasser (Anwalt, Wissenschaftler, Richter), Adressat (Gericht, Behörde, Mandant, Peer-Review), Verlage (C.H.Beck, Nomos, Otto Schmidt).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Schriftsatz, Beschluss, Aufsatz, Festschrift-Beitrag, Hausarbeit, Dissertation, Habilitation, Klausur — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
-## Spezialwissen: Entscheidungsform: Risikoampel, Gegenargumente und Verteidigungslinien
+## Spezialwissen: Blindzitate: Internationaler Bezug und Schnittstellen
 - **Normen-/Quellenanker:** einschlägige Fachnormen, Behördenhinweise, Formulare, Verfahrensrecht und frei prüfbare Rechtsprechung live prüfen.
 
 ## Fallweichen
@@ -528,105 +513,7 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 
 ## Arbeitsworkflow
 1. **Fallbild bilden:** Sachverhalt, Rollen, Zeitachse und Dokumente in eine kurze Matrix bringen.
-2. **Rechtsrahmen setzen:** Normen, Zuständigkeiten, Fristen, Formfragen und Verfahrensstand zum Themenfeld **Entscheidungsform** prüfen.
-3. **Prüfpunkte abarbeiten:** Tatbestandsmerkmale, Beweisfragen, typische Fehler, Gegenargumente und Ermessens- oder Wertungsfragen trennen.
-4. **Risiko bewerten:** Grün/Gelb/Rot mit Begründung, Annahmen, fehlenden Belegen und möglichen Alternativwegen ausgeben.
-5. **Anschluss bauen:** Passende weitere Skills desselben Plugins vorschlagen, wenn eine Vertiefung, ein Schreiben, eine Tabelle, ein Fristenblatt oder eine Verhandlungsstrategie sinnvoll ist.
-
-## Qualitätsanker: Anti-Blindzitat und gerichtsfeste Fundstellen
-
-- **Mindeststandard Rechtsprechung:** Gericht, Entscheidungsform, Datum, Aktenzeichen, frei prüfbarer Link und ein eigener kurzer Satz zur tragenden Aussage. Ohne diese fünf Punkte wird ein Zitat als ungeprüft markiert oder weggelassen.
-- **Verbotene Routine:** Keine BeckRS-, juris-, Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen. Solche Angaben sind nur zulässig, wenn die Nutzerin/der Nutzer den Text oder lizenzierten Live-Zugriff bereitstellt; dann aber nicht als frei verifizierte Quelle ausgeben.
-- **Quellenhierarchie:** Amtliche Gerichtsseiten zuerst, danach rechtsprechung-im-internet.de, dejure/openJur/landesrechtliche Datenbanken als freie Kontrollquellen. Presseberichte und Kanzleiblogs nur als Suchhinweis, nicht als tragender Beleg.
-- **Output-Pflicht:** Bei jeder problematischen Fundstelle eine Bereinigungsmatrix liefern: Originalzitat, Problem, verifizierbarer Ersatz, tragende Aussage, Unsicherheitsvermerk.
-
----
-
-## Skill: `zitierweise-entscheidungsform-gericht-datum-az`
-
-_Wenn es um Entscheidungsform: Risikoampel, Gegenargumente und Verteidigungslinien in Zitierweise deutsches Recht geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten. Auswahlstichwort: Zitierweise Entscheidungsform Gericht Datum Az; Arbeitsfeld: Zitierweise deutsches Recht._
-
-# Entscheidungsform: Risikoampel, Gegenargumente und Verteidigungslinien
-
-## Regelungs- und Quellenanker
-
-Arbeitsfokus: **Entscheidungsform: Risikoampel, Gegenargumente und Verteidigungslinien**. Prüfe diese Anker am Sachverhalt; ergänze nur Normen, die denselben Output, dieselbe Frist oder dieselbe Beweisfrage tragen:
-
-- `§ 130 Nr. 6 ZPO` — verantworteter Schriftsatz.
-- `§ 138 Abs. 1 ZPO` — Wahrheit und Vollständigkeit.
-- `§ 253 Abs. 2 ZPO` — bestimmter Klagegrund.
-- `§ 313 Abs. 3 ZPO` — Entscheidungsgründe.
-- `§ 540 Abs. 1 ZPO` — Berufungsurteil.
-- `§ 267 Abs. 1 StPO` — strafgerichtliche Urteilsgründe.
-- `§ 117 Abs. 2 VwGO` — verwaltungsgerichtliche Urteilsgründe.
-- `§ 51 UrhG` — zulässiges Zitieren fremder Texte.
-
-Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei prüfbare Quelle vorliegen; keine BeckRS-/juris-Blindzitate verwenden.
-
-## Spezialwissen: Entscheidungsform: Risikoampel, Gegenargumente und Verteidigungslinien
-- **Normen-/Quellenanker:** einschlägige Fachnormen, Behördenhinweise, Formulare, Verfahrensrecht und frei prüfbare Rechtsprechung live prüfen.
-
-## Fallweichen
-Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur Rückfragen, die die nächste Weiche verändern:
-
-1. Welche Rolle hat die fragende Person und wer ist Gegenüber?
-2. Welches konkrete Ziel soll erreicht oder verhindert werden?
-3. Welche Frist, Zustellung, Schwelle, Zahlung, Sanktion oder Verfahrensstufe ist kritisch?
-4. Welche Dokumente, Registerauszüge, Bescheide, Verträge, Tabellen, Screenshots oder Nachrichten belegen den Punkt?
-5. Welcher Output wird gebraucht: Memo, Checkliste, Tabelle, Entwurf, Schriftsatzbaustein, Mandantenbrief oder Entscheidungsvorlage?
-
-## Arbeitsworkflow
-1. **Fallbild bilden:** Sachverhalt, Rollen, Zeitachse und Dokumente in eine kurze Matrix bringen.
-2. **Rechtsrahmen setzen:** Normen, Zuständigkeiten, Fristen, Formfragen und Verfahrensstand zum Themenfeld **Entscheidungsform** prüfen.
-3. **Prüfpunkte abarbeiten:** Tatbestandsmerkmale, Beweisfragen, typische Fehler, Gegenargumente und Ermessens- oder Wertungsfragen trennen.
-4. **Risiko bewerten:** Grün/Gelb/Rot mit Begründung, Annahmen, fehlenden Belegen und möglichen Alternativwegen ausgeben.
-5. **Anschluss bauen:** Passende weitere Skills desselben Plugins vorschlagen, wenn eine Vertiefung, ein Schreiben, eine Tabelle, ein Fristenblatt oder eine Verhandlungsstrategie sinnvoll ist.
-
-## Qualitätsanker: Anti-Blindzitat und gerichtsfeste Fundstellen
-
-- **Mindeststandard Rechtsprechung:** Gericht, Entscheidungsform, Datum, Aktenzeichen, frei prüfbarer Link und ein eigener kurzer Satz zur tragenden Aussage. Ohne diese fünf Punkte wird ein Zitat als ungeprüft markiert oder weggelassen.
-- **Verbotene Routine:** Keine BeckRS-, juris-, Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen. Solche Angaben sind nur zulässig, wenn die Nutzerin/der Nutzer den Text oder lizenzierten Live-Zugriff bereitstellt; dann aber nicht als frei verifizierte Quelle ausgeben.
-- **Quellenhierarchie:** Amtliche Gerichtsseiten zuerst, danach rechtsprechung-im-internet.de, dejure/openJur/landesrechtliche Datenbanken als freie Kontrollquellen. Presseberichte und Kanzleiblogs nur als Suchhinweis, nicht als tragender Beleg.
-- **Output-Pflicht:** Bei jeder problematischen Fundstelle eine Bereinigungsmatrix liefern: Originalzitat, Problem, verifizierbarer Ersatz, tragende Aussage, Unsicherheitsvermerk.
-
----
-
-## Skill: `zitierweise-rechtsprechung-fristen-form-zustaendigkeit-rechtsweg`
-
-_Wenn es um Rechtsprechung: Fristen, Form, Zuständigkeit und Rechtsweg in Zitierweise deutsches Recht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. Auswahlstichwort: Zitierweise Rechtsprechung Fristen Form Zuständigkeit Rechtsweg; Arbeitsfeld: Zitierweise deutsches Recht._
-
-# Rechtsprechung: Fristen, Form, Zuständigkeit und Rechtsweg
-
-## Regelungs- und Quellenanker
-
-Arbeitsfokus: **Rechtsprechung: Fristen, Form, Zuständigkeit und Rechtsweg**. Prüfe diese Anker am Sachverhalt; ergänze nur Normen, die denselben Output, dieselbe Frist oder dieselbe Beweisfrage tragen:
-
-- `§ 130 Nr. 6 ZPO` — verantworteter Schriftsatz.
-- `§ 138 Abs. 1 ZPO` — Wahrheit und Vollständigkeit.
-- `§ 253 Abs. 2 ZPO` — bestimmter Klagegrund.
-- `§ 313 Abs. 3 ZPO` — Entscheidungsgründe.
-- `§ 540 Abs. 1 ZPO` — Berufungsurteil.
-- `§ 267 Abs. 1 StPO` — strafgerichtliche Urteilsgründe.
-- `§ 117 Abs. 2 VwGO` — verwaltungsgerichtliche Urteilsgründe.
-- `§ 51 UrhG` — zulässiges Zitieren fremder Texte.
-
-Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei prüfbare Quelle vorliegen; keine BeckRS-/juris-Blindzitate verwenden.
-
-## Spezialwissen: Rechtsprechung: Fristen, Form, Zuständigkeit und Rechtsweg
-- **Normen-/Quellenanker:** einschlägige Fachnormen, Behördenhinweise, Formulare, Verfahrensrecht und frei prüfbare Rechtsprechung live prüfen.
-
-## Fallweichen
-Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur Rückfragen, die die nächste Weiche verändern:
-
-1. Welche Rolle hat die fragende Person und wer ist Gegenüber?
-2. Welches konkrete Ziel soll erreicht oder verhindert werden?
-3. Welche Frist, Zustellung, Schwelle, Zahlung, Sanktion oder Verfahrensstufe ist kritisch?
-4. Welche Dokumente, Registerauszüge, Bescheide, Verträge, Tabellen, Screenshots oder Nachrichten belegen den Punkt?
-5. Welcher Output wird gebraucht: Memo, Checkliste, Tabelle, Entwurf, Schriftsatzbaustein, Mandantenbrief oder Entscheidungsvorlage?
-
-## Arbeitsworkflow
-1. **Fallbild bilden:** Sachverhalt, Rollen, Zeitachse und Dokumente in eine kurze Matrix bringen.
-2. **Rechtsrahmen setzen:** Normen, Zuständigkeiten, Fristen, Formfragen und Verfahrensstand zum Themenfeld **Rechtsprechung** prüfen.
+2. **Rechtsrahmen setzen:** Normen, Zuständigkeiten, Fristen, Formfragen und Verfahrensstand zum Themenfeld **Blindzitate** prüfen.
 3. **Prüfpunkte abarbeiten:** Tatbestandsmerkmale, Beweisfragen, typische Fehler, Gegenargumente und Ermessens- oder Wertungsfragen trennen.
 4. **Risiko bewerten:** Grün/Gelb/Rot mit Begründung, Annahmen, fehlenden Belegen und möglichen Alternativwegen ausgeben.
 5. **Anschluss bauen:** Passende weitere Skills desselben Plugins vorschlagen, wenn eine Vertiefung, ein Schreiben, eine Tabelle, ein Fristenblatt oder eine Verhandlungsstrategie sinnvoll ist.
@@ -642,7 +529,7 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 
 ## Skill: `lizenziertem-mandantenkommunikation-entscheidungsvorlage`
 
-_Wenn es um Lizenziertem: Mandantenkommunikation und Entscheidungsvorlage in Zitierweise deutsches Recht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. Auswahlstichwort: Lizenziertem Mandantenkommunikation Entscheidungsvorlage; Arbeitsfeld: Zitierweise deutsches Recht._
+_Für Lizenziertem: Mandantenkommunikation und Entscheidungsvorlage: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Mandantennachricht oder Entscheidungsvorlage. Fachgebiet: Zitierweise deutsches Recht. Route: lizenziertem-mandantenkommunikation-entscheidungsvorlage._
 
 # Lizenziertem: Mandantenkommunikation und Entscheidungsvorlage
 
@@ -697,28 +584,28 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 
 ---
 
-## Skill: `zitierweise-blindzitate-internationaler-bezug-schnittstellen`
+## Skill: `zitierweise-aktenzeichen-schriftsatz-brief-memo-bausteine`
 
-_Wenn es um Blindzitate: Internationaler Bezug und Schnittstellen in Zitierweise deutsches Recht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. Auswahlstichwort: Zitierweise Blindzitate Internationaler Bezug Schnittstellen; Arbeitsfeld: Zitierweise deutsches Recht._
+_Für Aktenzeichen: Schriftsatz-, Brief- und Memo-Bausteine: erstellt Entwurf mit Antrag, Beweis und Anlagen; Ergebnis: Schriftsatz mit Begründungs- und Anlagenlogik. Fachgebiet: Zitierweise deutsches Recht. Route: zitierweise-aktenzeichen-schriftsatz-brief-memo-bausteine._
 
-# Blindzitate: Internationaler Bezug und Schnittstellen
+# Aktenzeichen: Schriftsatz-, Brief- und Memo-Bausteine
 
 ## Regelungs- und Quellenanker
 
-Arbeitsfokus: **Blindzitate: Internationaler Bezug und Schnittstellen**. Prüfe diese Anker am Sachverhalt; ergänze nur Normen, die denselben Output, dieselbe Frist oder dieselbe Beweisfrage tragen:
+Arbeitsfokus: **Aktenzeichen: Schriftsatz-, Brief- und Memo-Bausteine**. Prüfe diese Anker am Sachverhalt; ergänze nur Normen, die denselben Output, dieselbe Frist oder dieselbe Beweisfrage tragen:
 
-- `§ 51 UrhG` — Zitatrecht.
-- `§ 63 UrhG` — Quellenangabe.
-- `§ 2 Abs. 1 Nr. 1 UrhG` — Sprachwerke.
-- `§ 97 UrhG` — Unterlassung/Schadensersatz bei Rechtsverletzung.
-- `§ 138 Abs. 1 ZPO` — Wahrheitspflicht im Tatsachenvortrag.
-- `§ 253 Abs. 2 ZPO` — Substantiierung im Schriftsatz.
+- `§ 130 Nr. 6 ZPO` — verantworteter Schriftsatz.
+- `§ 138 Abs. 1 ZPO` — Wahrheit und Vollständigkeit.
+- `§ 253 Abs. 2 ZPO` — bestimmter Klagegrund.
 - `§ 313 Abs. 3 ZPO` — Entscheidungsgründe.
-- `Art. 5 Abs. 3 Satz 1 GG` — Wissenschaftsfreiheit als Kontext, nicht als Zitierfreibrief.
+- `§ 540 Abs. 1 ZPO` — Berufungsurteil.
+- `§ 267 Abs. 1 StPO` — strafgerichtliche Urteilsgründe.
+- `§ 117 Abs. 2 VwGO` — verwaltungsgerichtliche Urteilsgründe.
+- `§ 51 UrhG` — zulässiges Zitieren fremder Texte.
 
 Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei prüfbare Quelle vorliegen; keine BeckRS-/juris-Blindzitate verwenden.
 
-## Spezialwissen: Blindzitate: Internationaler Bezug und Schnittstellen
+## Spezialwissen: Aktenzeichen: Schriftsatz-, Brief- und Memo-Bausteine
 - **Normen-/Quellenanker:** einschlägige Fachnormen, Behördenhinweise, Formulare, Verfahrensrecht und frei prüfbare Rechtsprechung live prüfen.
 
 ## Fallweichen
@@ -732,7 +619,128 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 
 ## Arbeitsworkflow
 1. **Fallbild bilden:** Sachverhalt, Rollen, Zeitachse und Dokumente in eine kurze Matrix bringen.
-2. **Rechtsrahmen setzen:** Normen, Zuständigkeiten, Fristen, Formfragen und Verfahrensstand zum Themenfeld **Blindzitate** prüfen.
+2. **Rechtsrahmen setzen:** Normen, Zuständigkeiten, Fristen, Formfragen und Verfahrensstand zum Themenfeld **Aktenzeichen** prüfen.
+3. **Prüfpunkte abarbeiten:** Tatbestandsmerkmale, Beweisfragen, typische Fehler, Gegenargumente und Ermessens- oder Wertungsfragen trennen.
+4. **Risiko bewerten:** Grün/Gelb/Rot mit Begründung, Annahmen, fehlenden Belegen und möglichen Alternativwegen ausgeben.
+5. **Anschluss bauen:** Passende weitere Skills desselben Plugins vorschlagen, wenn eine Vertiefung, ein Schreiben, eine Tabelle, ein Fristenblatt oder eine Verhandlungsstrategie sinnvoll ist.
+
+## Qualitätsanker: Anti-Blindzitat und gerichtsfeste Fundstellen
+
+- **Mindeststandard Rechtsprechung:** Gericht, Entscheidungsform, Datum, Aktenzeichen, frei prüfbarer Link und ein eigener kurzer Satz zur tragenden Aussage. Ohne diese fünf Punkte wird ein Zitat als ungeprüft markiert oder weggelassen.
+- **Verbotene Routine:** Keine BeckRS-, juris-, Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen. Solche Angaben sind nur zulässig, wenn die Nutzerin/der Nutzer den Text oder lizenzierten Live-Zugriff bereitstellt; dann aber nicht als frei verifizierte Quelle ausgeben.
+- **Quellenhierarchie:** Amtliche Gerichtsseiten zuerst, danach rechtsprechung-im-internet.de, dejure/openJur/landesrechtliche Datenbanken als freie Kontrollquellen. Presseberichte und Kanzleiblogs nur als Suchhinweis, nicht als tragender Beleg.
+- **Output-Pflicht:** Bei jeder problematischen Fundstelle eine Bereinigungsmatrix liefern: Originalzitat, Problem, verifizierbarer Ersatz, tragende Aussage, Unsicherheitsvermerk.
+
+---
+
+## Skill: `zitierweise-juristische-erstpruefung-rollenklaerung-mandatsziel`
+
+_Für Juristische: Erstprüfung, Rollenklärung und Mandatsziel: routet Rolle, Frist, Unterlagen und Fachschritt; Ergebnis: Tatbestands- oder Anspruchsmatrix. Fachgebiet: Zitierweise deutsches Recht. Route: zitierweise-juristische-erstpruefung-rollenklaerung-mandatsziel._
+
+# Juristische: Erstprüfung, Rollenklärung und Mandatsziel
+
+## Direktstart: lesen, entscheiden, liefern
+
+Beginne nicht mit einem Fragenkatalog. Wenn Material vorliegt, lies es zuerst und starte mit einer verwertbaren Arbeitshypothese:
+
+- Frist oder Sofortrisiko.
+- erkannte Rolle, Zielrichtung und Verfahrensstand.
+- tragende Tatsachen aus dem Material.
+- bester nächster Arbeitsschritt mit direkt nutzbarem Output.
+
+Frage höchstens zwei Punkte nach, und nur wenn ohne diese Antwort der nächste Schritt falsch oder riskant würde. Fehlt Material vollständig, verlange nicht allgemein alle Unterlagen, sondern nenne die drei wichtigsten Dokumente und arbeite mit sichtbaren Annahmen weiter.
+
+Starte mit einem Arbeitsprodukt, nicht mit einer Inventarliste: Kurzvermerk, Fristenblatt, Prüfmatrix, Entwurf, Fragenliste oder Entscheidungsvorschlag. Routing ist nur Mittel zum Zweck. Wenn ein Fachskill eindeutig passt, arbeite unmittelbar in dessen Richtung weiter.
+
+Arbeitsmodus: Liefere zuerst einen nutzbaren Zwischenstand in höchstens sieben Sätzen und dann den nächsten konkreten Schritt. Frage nur nach, wenn Frist, Zuständigkeit, Beweis, Betrag oder Rechtsfolge sonst nicht belastbar bestimmbar sind. Tabellen nur für Fristen, Belege, Beträge, Varianten oder Streitstoff.
+
+## Regelungs- und Quellenanker
+
+Arbeitsfokus: **Juristische: Erstprüfung, Rollenklärung und Mandatsziel**. Prüfe diese Anker am Sachverhalt; ergänze nur Normen, die denselben Output, dieselbe Frist oder dieselbe Beweisfrage tragen:
+
+- `§ 130 Nr. 6 ZPO` — verantworteter Schriftsatz.
+- `§ 138 Abs. 1 ZPO` — Wahrheit und Vollständigkeit.
+- `§ 253 Abs. 2 ZPO` — bestimmter Klagegrund.
+- `§ 313 Abs. 3 ZPO` — Entscheidungsgründe.
+- `§ 540 Abs. 1 ZPO` — Berufungsurteil.
+- `§ 267 Abs. 1 StPO` — strafgerichtliche Urteilsgründe.
+- `§ 117 Abs. 2 VwGO` — verwaltungsgerichtliche Urteilsgründe.
+- `§ 51 UrhG` — zulässiges Zitieren fremder Texte.
+
+Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei prüfbare Quelle vorliegen; keine BeckRS-/juris-Blindzitate verwenden.
+
+## Spezialwissen: Juristische: Erstprüfung, Rollenklärung und Mandatsziel
+- **Normen-/Quellenanker:** einschlägige Fachnormen, Behördenhinweise, Formulare, Verfahrensrecht und frei prüfbare Rechtsprechung live prüfen.
+
+## Fallweichen
+Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur Rückfragen, die die nächste Weiche verändern:
+
+1. Welche Rolle hat die fragende Person und wer ist Gegenüber?
+2. Welches konkrete Ziel soll erreicht oder verhindert werden?
+3. Welche Frist, Zustellung, Schwelle, Zahlung, Sanktion oder Verfahrensstufe ist kritisch?
+4. Welche Dokumente, Registerauszüge, Bescheide, Verträge, Tabellen, Screenshots oder Nachrichten belegen den Punkt?
+5. Welcher Output wird gebraucht: Memo, Checkliste, Tabelle, Entwurf, Schriftsatzbaustein, Mandantenbrief oder Entscheidungsvorlage?
+
+## Arbeitsworkflow
+1. **Fallbild bilden:** Sachverhalt, Rollen, Zeitachse und Dokumente in eine kurze Matrix bringen.
+2. **Rechtsrahmen setzen:** Normen, Zuständigkeiten, Fristen, Formfragen und Verfahrensstand zum Themenfeld **Juristische** prüfen.
+3. **Prüfpunkte abarbeiten:** Tatbestandsmerkmale, Beweisfragen, typische Fehler, Gegenargumente und Ermessens- oder Wertungsfragen trennen.
+4. **Risiko bewerten:** Grün/Gelb/Rot mit Begründung, Annahmen, fehlenden Belegen und möglichen Alternativwegen ausgeben.
+5. **Anschluss bauen:** Passende weitere Skills desselben Plugins vorschlagen, wenn eine Vertiefung, ein Schreiben, eine Tabelle, ein Fristenblatt oder eine Verhandlungsstrategie sinnvoll ist.
+
+## Qualitätsanker: Anti-Blindzitat und gerichtsfeste Fundstellen
+
+- **Mindeststandard Rechtsprechung:** Gericht, Entscheidungsform, Datum, Aktenzeichen, frei prüfbarer Link und ein eigener kurzer Satz zur tragenden Aussage. Ohne diese fünf Punkte wird ein Zitat als ungeprüft markiert oder weggelassen.
+- **Verbotene Routine:** Keine BeckRS-, juris-, Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen. Solche Angaben sind nur zulässig, wenn die Nutzerin/der Nutzer den Text oder lizenzierten Live-Zugriff bereitstellt; dann aber nicht als frei verifizierte Quelle ausgeben.
+- **Quellenhierarchie:** Amtliche Gerichtsseiten zuerst, danach rechtsprechung-im-internet.de, dejure/openJur/landesrechtliche Datenbanken als freie Kontrollquellen. Presseberichte und Kanzleiblogs nur als Suchhinweis, nicht als tragender Beleg.
+- **Output-Pflicht:** Bei jeder problematischen Fundstelle eine Bereinigungsmatrix liefern: Originalzitat, Problem, verifizierbarer Ersatz, tragende Aussage, Unsicherheitsvermerk.
+
+---
+
+## Skill: `aktenzeichen-schriftsatz-brief-und-memo-bausteine`
+
+_Für Aktenzeichen: Schriftsatz-, Brief- und Memo-Bausteine: erstellt Entwurf mit Antrag, Beweis und Anlagen; Ergebnis: Schriftsatz mit Begründungs- und Anlagenlogik. Fachgebiet: Zitierweise deutsches Recht. Route: aktenzeichen-schriftsatz-brief-und-memo-bausteine._
+
+# Aktenzeichen: Schriftsatz-, Brief- und Memo-Bausteine
+
+## Regelungs- und Quellenanker
+
+Arbeitsfokus: **Aktenzeichen: Schriftsatz-, Brief- und Memo-Bausteine**. Prüfe diese Anker am Sachverhalt; ergänze nur Normen, die denselben Output, dieselbe Frist oder dieselbe Beweisfrage tragen:
+
+- `§ 130 Nr. 6 ZPO` — verantworteter Schriftsatz.
+- `§ 138 Abs. 1 ZPO` — Wahrheit und Vollständigkeit.
+- `§ 253 Abs. 2 ZPO` — bestimmter Klagegrund.
+- `§ 313 Abs. 3 ZPO` — Entscheidungsgründe.
+- `§ 540 Abs. 1 ZPO` — Berufungsurteil.
+- `§ 267 Abs. 1 StPO` — strafgerichtliche Urteilsgründe.
+- `§ 117 Abs. 2 VwGO` — verwaltungsgerichtliche Urteilsgründe.
+- `§ 51 UrhG` — zulässiges Zitieren fremder Texte.
+
+Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei prüfbare Quelle vorliegen; keine BeckRS-/juris-Blindzitate verwenden.
+
+## Arbeitsweg
+
+- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
+- Fristen und Eilrisiken zuerst markieren: keine prozessualen — Aktualitäts-Heuristik: Zitate ≤ 12 Monate alt für aktuelle Lage, Leitentscheidungen wann immer einschlägig.
+- Tragende Normen verifizieren: BVerfG, BGH, BAG, BSG, BFG, BVerwG, EuGH, OLG-Zitierregeln (BGHZ, BVerfGE, NJW, ZIP, NZG, NJW-RR), § 1 GVG, ZPO/StPO/VwGO-Berichtspflichten, OSCOLA/Bluebook nur am Rande — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
+- Zuständige Stelle bestimmen und Adressaten richtig wählen: Verfasser (Anwalt, Wissenschaftler, Richter), Adressat (Gericht, Behörde, Mandant, Peer-Review), Verlage (C.H.Beck, Nomos, Otto Schmidt).
+- Dokumente und Beweismittel sammeln und auf Lücken prüfen: Schriftsatz, Beschluss, Aufsatz, Festschrift-Beitrag, Hausarbeit, Dissertation, Habilitation, Klausur — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
+
+## Spezialwissen: Aktenzeichen: Schriftsatz-, Brief- und Memo-Bausteine
+- **Normen-/Quellenanker:** einschlägige Fachnormen, Behördenhinweise, Formulare, Verfahrensrecht und frei prüfbare Rechtsprechung live prüfen.
+
+## Fallweichen
+Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur Rückfragen, die die nächste Weiche verändern:
+
+1. Welche Rolle hat die fragende Person und wer ist Gegenüber?
+2. Welches konkrete Ziel soll erreicht oder verhindert werden?
+3. Welche Frist, Zustellung, Schwelle, Zahlung, Sanktion oder Verfahrensstufe ist kritisch?
+4. Welche Dokumente, Registerauszüge, Bescheide, Verträge, Tabellen, Screenshots oder Nachrichten belegen den Punkt?
+5. Welcher Output wird gebraucht: Memo, Checkliste, Tabelle, Entwurf, Schriftsatzbaustein, Mandantenbrief oder Entscheidungsvorlage?
+
+## Arbeitsworkflow
+1. **Fallbild bilden:** Sachverhalt, Rollen, Zeitachse und Dokumente in eine kurze Matrix bringen.
+2. **Rechtsrahmen setzen:** Normen, Zuständigkeiten, Fristen, Formfragen und Verfahrensstand zum Themenfeld **Aktenzeichen** prüfen.
 3. **Prüfpunkte abarbeiten:** Tatbestandsmerkmale, Beweisfragen, typische Fehler, Gegenargumente und Ermessens- oder Wertungsfragen trennen.
 4. **Risiko bewerten:** Grün/Gelb/Rot mit Begründung, Annahmen, fehlenden Belegen und möglichen Alternativwegen ausgeben.
 5. **Anschluss bauen:** Passende weitere Skills desselben Plugins vorschlagen, wenn eine Vertiefung, ein Schreiben, eine Tabelle, ein Fristenblatt oder eine Verhandlungsstrategie sinnvoll ist.

@@ -1,6 +1,6 @@
 ---
 name: spezialkanzlei-risikoampel-und-gegenargumente
-description: "Wenn es um Spezialkanzlei: Risikoampel, Gegenargumente und Verteidigungslinien in verfassungsrecht geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Spezialkanzlei: Risikoampel, Gegenargumente und Verteidigungslinien: prüft Ergebnis, Beweislast und Gegenposition; Ergebnis: Fristen- und Risikoampel."
 ---
 
 # Spezialkanzlei: Risikoampel, Gegenargumente und Verteidigungslinien

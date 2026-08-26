@@ -1,6 +1,6 @@
 ---
 name: fazugang-neu-003-zugang-urlaub-krankheit-klinik
-description: "Wenn es um Fachanwalt Arbeitsrecht: Zugang bei Urlaub Krankheit Klinik und Auslandsaufenthalt in Fachanwalt Arbeitsrecht geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Fachanwalt Arbeitsrecht: Zugang bei Urlaub Krankheit Klinik und Auslandsaufenthalt: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Schnittstellenkarte mit Zuständigkeits- und Nachweisfragen."
 ---
 
 # Fachanwalt Arbeitsrecht: Zugang bei Urlaub Krankheit Klinik und Auslandsaufenthalt

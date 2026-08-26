@@ -1,6 +1,6 @@
 ---
 name: bgb-btog-demenz
-description: "Wenn es um BGB: Verhandlung, Vergleich und Eskalation in Betreuungsrecht geht: entwickelt Verhandlungsziel, Vergleichskorridor und Eskalationspfad; liefert eine Verhandlungs- oder Eskalationslinie mit Optionen."
+description: "Für BGB: Verhandlung, Vergleich und Eskalation: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt. Fachgebiet: Betreuungsrecht. Route: bgb-btog-demenz."
 ---
 
 # BGB: Verhandlung, Vergleich und Eskalation

@@ -1,6 +1,6 @@
 ---
 name: force-majeure-hoehere-gewalt
-description: "Wenn es um Force Majeure Höhere Gewalt in AGB-Recht-Prüfer geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Force Majeure Höhere Gewalt: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Schnittstellenkarte mit Zuständigkeits- und Nachweisfragen."
 ---
 
 # Force Majeure Höhere Gewalt

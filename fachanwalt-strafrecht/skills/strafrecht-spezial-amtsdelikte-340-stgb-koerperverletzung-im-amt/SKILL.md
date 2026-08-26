@@ -1,6 +1,6 @@
 ---
 name: strafrecht-spezial-amtsdelikte-340-stgb-koerperverletzung-im-amt
-description: "Wenn es um Koerperverletzung im Amt nach Paragraph 340 StGB in Fachanwalt Strafrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Körperverletzung im Amt nach Paragraph 340 StGB: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Koerperverletzung im Amt nach Paragraph 340 StGB

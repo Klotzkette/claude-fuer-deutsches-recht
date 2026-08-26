@@ -1,6 +1,6 @@
 ---
 name: sanitaetsdienst-heilfuersorge
-description: "Wenn es um Sanitätsdienst und Heilfürsorge in Bundeswehrrecht und Wehrrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Sanitätsdienst und Heilfürsorge: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Sanitätsdienst und Heilfürsorge

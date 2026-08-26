@@ -1,6 +1,6 @@
 ---
 name: vg-eilrechtsschutz-80-5-vwgo
-description: "Wenn es um Eilrechtsschutz Paragraf 80 Abs. 5 VwGO in Datenschutz-Sanktionsverfahren und Verteidigung geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
+description: "Für Eilrechtsschutz Paragraf 80 Abs. 5 VwGO: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Eilrechtsschutz § 80 Abs. 5 VwGO

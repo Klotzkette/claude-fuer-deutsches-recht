@@ -1,6 +1,6 @@
 ---
 name: erbbaurecht-vorlage-zustimmungsantrag
-description: "Wenn es um Zustimmungsantrag in Erbbaurecht Praxis geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
+description: "Für Zustimmungsantrag: erstellt Entwurf mit Antrag, Beweis und Anlagen; Ergebnis: Schriftsatz mit Begründungs- und Anlagenlogik."
 ---
 
 # Zustimmungsantrag

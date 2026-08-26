@@ -1,6 +1,6 @@
 ---
 name: einspruchsentscheidung-und-folgen
-description: "Wenn es um Einspruchsentscheidung, Beschränkung und Nebenfolgen beim Strafbefehl in Strafbefehl-Verteidiger geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen."
+description: "Für Einspruchsentscheidung, Beschränkung und Nebenfolgen beim Strafbefehl: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Einspruchsentscheidung, Beschränkung und Nebenfolgen beim Strafbefehl

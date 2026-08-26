@@ -1,6 +1,6 @@
 ---
 name: keine-falschen-klage-einfach
-description: "Wenn es um Keine Falschen Zugestaendnisse in Juristische Sprache Deutsch als Zweitsprache geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Keine Falschen Zugeständnisse: erstellt Entwurf mit Antrag, Beweis und Anlagen; Ergebnis: Schriftsatz mit Begründungs- und Anlagenlogik."
 ---
 
 # Keine Falschen Zugestaendnisse

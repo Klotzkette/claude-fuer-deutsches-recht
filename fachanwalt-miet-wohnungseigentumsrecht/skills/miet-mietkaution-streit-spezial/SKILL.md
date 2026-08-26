@@ -1,6 +1,6 @@
 ---
 name: miet-mietkaution-streit-spezial
-description: "Wenn es um Miet Mietkaution Streit Spezial in Fachanwalt Miet- und Wohnungseigentumsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Miet Mietkaution Streit Spezial: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Spezialfall Mietkaution-Streit: § 551 BGB, Verzinsung, Treuhandkonto, Abrechnungsfrist Auszug, Verjährung

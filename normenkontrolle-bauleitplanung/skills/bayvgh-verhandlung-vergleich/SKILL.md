@@ -1,6 +1,6 @@
 ---
 name: bayvgh-verhandlung-vergleich
-description: "Wenn es um Bayvgh: Verhandlung, Vergleich und Eskalation in Normenkontrolle Bauleitplanung — Paragraf 47 VwGO geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Bayvgh: Verhandlung, Vergleich und Eskalation: entwickelt Ziel, Vergleich und Eskalation; Ergebnis: Verhandlungs- oder Eskalationslinie."
 ---
 
 # Bayvgh: Verhandlung, Vergleich und Eskalation

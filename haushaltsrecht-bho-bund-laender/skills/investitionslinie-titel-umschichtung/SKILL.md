@@ -1,6 +1,6 @@
 ---
 name: investitionslinie-titel-umschichtung
-description: "Wenn es um Investitionslinie Titel Prüfen in Haushaltsrecht BHO Bund und Länder geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Investitionslinie Titel Prüfen: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Investitionslinie Titel Prüfen

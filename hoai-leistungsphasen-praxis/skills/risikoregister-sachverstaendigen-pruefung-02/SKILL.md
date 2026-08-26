@@ -1,6 +1,6 @@
 ---
 name: risikoregister-sachverstaendigen-pruefung-02
-description: "Wenn es um LPH 7 Mitwirkung bei der Vergabe: Baut risiko- in HOAI Leistungsphasen Praxis geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Dokumentenmatrix mit Nachforderungsliste."
+description: "Für LPH 7 Mitwirkung bei der Vergabe: Baut risiko-: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Einreichungsplan mit Form- und Nachweischeck."
 ---
 
 # LPH 7 Mitwirkung bei der Vergabe: Baut risiko-

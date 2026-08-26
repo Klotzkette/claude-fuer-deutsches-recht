@@ -1,6 +1,6 @@
 ---
 name: freigabeverfahren-fristencockpit
-description: "Wenn es um Freigabeverfahren in Hauptversammlung AG und SE geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Freigabeverfahren: prüft Frist, Form, Zuständigkeit und Eilbedarf; Ergebnis: Fristen- und Risikoampel."
 ---
 
 # Freigabeverfahren

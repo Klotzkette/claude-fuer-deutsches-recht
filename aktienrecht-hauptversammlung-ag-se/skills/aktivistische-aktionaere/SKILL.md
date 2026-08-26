@@ -1,6 +1,6 @@
 ---
 name: aktivistische-aktionaere
-description: "Wenn es um Aktivistische Aktionaere in Hauptversammlung AG und SE geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Aktivistische Aktionäre: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Aktivistische Aktionaere

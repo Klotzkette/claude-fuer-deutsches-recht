@@ -1,6 +1,6 @@
 ---
 name: koalitions-und-listenverbindung
-description: "Wenn es um Kooperationen und Listenverbindungen in Parteienrecht und Parteiorganisation geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. Auswahlstichwort: Koalitions Und Listenverbindung; Arbeitsfeld: Parteienrecht und Parteiorganisation."
+description: "Für Kooperationen und Listenverbindungen: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt. Fachgebiet: Parteienrecht und Parteiorganisation. Route: koalitions-und-listenverbindung."
 ---
 
 # Kooperationen und Listenverbindungen

@@ -1,6 +1,6 @@
 ---
 name: versteigerung-tatbestand-beweis-und-belege
-description: "Wenn es um Versteigerung: Tatbestandsmerkmale, Beweisfragen und Beleglage in ZVG-Zwangsverwaltung - Verwalter-Cockpit geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Beweislast- und Substantiierungsmatrix."
+description: "Für Versteigerung: Tatbestandsmerkmale, Beweisfragen und Beleglage: ordnet Akte, Belege und Lücken; Ergebnis: Beweislast- und Substantiierungsmatrix."
 ---
 
 # Versteigerung: Tatbestandsmerkmale, Beweisfragen und Beleglage

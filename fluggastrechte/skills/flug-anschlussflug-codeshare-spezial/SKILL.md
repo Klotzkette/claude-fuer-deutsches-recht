@@ -1,6 +1,6 @@
 ---
 name: flug-anschlussflug-codeshare-spezial
-description: "Wenn es um Flug: Anschlussflug Codeshare in Fluggastrechte geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. Auswahlstichwort: Flug Anschlussflug Codeshare Spezial; Arbeitsfeld: Fluggastrechte."
+description: "Für Flug: Anschlussflug Codeshare: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Flug: Anschlussflug Codeshare

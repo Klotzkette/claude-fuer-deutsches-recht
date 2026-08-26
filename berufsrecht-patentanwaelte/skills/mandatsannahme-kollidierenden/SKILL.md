@@ -1,6 +1,6 @@
 ---
 name: mandatsannahme-kollidierenden
-description: "Wenn es um Mandatsannahme Kollidierenden in Berufsrecht Patentanwälte geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Verhandlungs- oder Eskalationslinie mit Optionen."
+description: "Für Mandatsannahme Kollidierenden: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Patentanwälte: mandatsannahme bei kollidierenden erfindern - Kammerantwort mit Verfahrensstrategie, Tonlage und Belegplan

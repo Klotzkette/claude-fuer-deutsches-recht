@@ -1,6 +1,6 @@
 ---
 name: lease-001-kaltstart-leasingakte-vertrag-objekt-zahlungsstrom
-description: "Wenn es um Leasingrecht: Kaltstart Leasingakte Vertrag Objekt Zahlungsstrom in Leasingrecht Praxis geht: klärt Rolle, Ziel, Frist, Unterlagen und den passenden nächsten Fachskill; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Leasingrecht: Kaltstart Leasingakte Vertrag Objekt Zahlungsstrom: routet Rolle, Frist, Unterlagen und Fachschritt; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Leasingrecht: Kaltstart Leasingakte Vertrag Objekt Zahlungsstrom

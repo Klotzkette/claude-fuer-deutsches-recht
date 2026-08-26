@@ -1,6 +1,6 @@
 ---
 name: pralr-046-nachbarrecht-heutiger-schriftsatz
-description: "Wenn es um Nachbarrecht im Schriftsatz in Preußisches Allgemeines Landrecht geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik. Auswahlstichwort: Pralr 046 Nachbarrecht Heutiger Schriftsatz; Arbeitsfeld: Preußisches Allgemeines Landrecht."
+description: "Für Nachbarrecht im Schriftsatz: erstellt Entwurf mit Antrag, Beweis und Anlagen; Ergebnis: Schriftsatz mit Begründungs- und Anlagenlogik. Fachgebiet: Preußisches Allgemeines Landrecht. Route: pralr-046-nachbarrecht-heutiger-schriftsatz."
 ---
 
 # Nachbarrecht im Schriftsatz

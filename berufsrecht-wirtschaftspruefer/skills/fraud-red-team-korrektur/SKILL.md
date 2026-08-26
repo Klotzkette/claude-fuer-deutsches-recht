@@ -1,6 +1,6 @@
 ---
 name: fraud-red-team-korrektur
-description: "Wenn es um Fraud Red Team Korrektur in Berufsrecht Wirtschaftsprüfer geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Gegenprüfung mit Fehler-, Beweis- und Fristencheck."
+description: "Für Fraud Red Team Korrektur: prüft Ergebnis, Beweislast und Gegenposition; Ergebnis: Gegenprüfung mit Beweis- und Fristencheck."
 ---
 
 # Wirtschaftsprüfer: fraud red flags - Rechtsprechungscheck, stärkste Gegenansicht und Red-Team-Korrektur

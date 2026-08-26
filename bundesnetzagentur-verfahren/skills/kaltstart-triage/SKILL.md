@@ -1,6 +1,6 @@
 ---
 name: kaltstart-triage
-description: "Wenn es um Bundesnetzagentur-Verfahren — Allgemein in Bundesnetzagentur-Verfahren geht: klärt Rolle, Ziel, Frist, Unterlagen und den passenden nächsten Fachskill; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Bundesnetzagentur-Verfahren — Allgemein: routet Rolle, Frist, Unterlagen und Fachschritt; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Bundesnetzagentur-Verfahren — Allgemein

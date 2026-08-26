@@ -1,6 +1,6 @@
 ---
 name: rechtsabteilung-lookalike-relative
-description: "Wenn es um Rechtsabteilung: Lookalike-Produkte und Rufausbeutung in markenrecht-fashion-luxus geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen."
+description: "Für Rechtsabteilung: Lookalike-Produkte und Rufausbeutung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Rechtsabteilung: Lookalike-Produkte und Rufausbeutung

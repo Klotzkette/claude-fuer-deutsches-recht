@@ -1,6 +1,6 @@
 ---
 name: grundschuld-sicherungszweck
-description: "Wenn es um Grundschuld Sicherungszweck in Berufsrecht Notare geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Grundschuld Sicherungszweck: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Notare: grundschuld und sicherungszweck - Organisationspflichten, Prävention, Team-Anweisung und Fristenkontrolle

@@ -1,6 +1,6 @@
 ---
 name: experimentelle-glossar-sonderfall-jura
-description: "Wenn es um Experimentelle: Schriftsatz-, Brief- und Memo-Bausteine in Einfache und Leichte Sprache für juristische Texte geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
+description: "Für Experimentelle: Schriftsatz-, Brief- und Memo-Bausteine: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Experimentelle: Schriftsatz-, Brief- und Memo-Bausteine

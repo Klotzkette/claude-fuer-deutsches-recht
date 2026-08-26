@@ -1,6 +1,6 @@
 ---
 name: aktenherausgabe-patentakten-rechtsprechungscheck
-description: "Wenn es um Aktenherausgabe Patentakten Rechtsprechungscheck in Berufsrecht Patentanwälte geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Gegenprüfung mit Fehler-, Beweis- und Fristencheck."
+description: "Für Aktenherausgabe Patentakten Rechtsprechungscheck: ordnet Akte, Belege und Lücken; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Patentanwälte: aktenherausgabe patentakten - Rechtsprechungscheck, stärkste Gegenansicht und Red-Team-Korrektur

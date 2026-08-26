@@ -1,6 +1,6 @@
 ---
 name: absenden-qualitaetsgate-keine
-description: "Wenn es um Prüfung Vor Absenden in Juristische Sprache Deutsch als Zweitsprache geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Prüfung vor Absenden: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Gegenprüfung mit Beweis- und Fristencheck."
 ---
 
 # Prüfung Vor Absenden

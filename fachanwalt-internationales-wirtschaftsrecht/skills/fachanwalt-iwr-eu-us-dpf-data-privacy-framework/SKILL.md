@@ -1,6 +1,6 @@
 ---
 name: fachanwalt-iwr-eu-us-dpf-data-privacy-framework
-description: "Wenn es um EU-US Data Privacy Framework — Folgen für Verträge in Fachanwalt Internationales Wirtschaftsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für EU-US Data Privacy Framework — Folgen für Verträge: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Schnittstellenkarte mit Zuständigkeits- und Nachweisfragen."
 ---
 
 # EU-US Data Privacy Framework — Folgen für Verträge

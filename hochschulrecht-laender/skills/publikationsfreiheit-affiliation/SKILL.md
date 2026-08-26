@@ -1,6 +1,6 @@
 ---
 name: publikationsfreiheit-affiliation
-description: "Wenn es um Publikationsfreiheit und Affiliation in Hochschulrecht der Bundesländer geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Publikationsfreiheit und Affiliation: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Publikationsfreiheit und Affiliation

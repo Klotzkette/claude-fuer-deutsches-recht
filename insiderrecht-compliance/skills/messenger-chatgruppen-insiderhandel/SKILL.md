@@ -1,6 +1,6 @@
 ---
 name: messenger-chatgruppen-insiderhandel
-description: "Wenn es um Messenger-Chatgruppen und Insiderhandel in Insiderrecht Compliance geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Beweislast- und Substantiierungsmatrix."
+description: "Für Messenger-Chatgruppen und Insiderhandel: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Messenger-Chatgruppen und Insiderhandel

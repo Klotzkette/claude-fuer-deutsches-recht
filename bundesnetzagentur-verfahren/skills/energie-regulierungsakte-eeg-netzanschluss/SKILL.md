@@ -1,6 +1,6 @@
 ---
 name: energie-regulierungsakte-eeg-netzanschluss
-description: "Wenn es um Energie Regulierungsakte Eeg Netzanschluss in Bundesnetzagentur-Verfahren geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Energie Regulierungsakte Eeg Netzanschluss: ordnet Akte, Belege und Lücken; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Energie-Regulierungsakte: EEG Netzanschluss Einspeisemanagement — Fristen- und Bescheidanalyse

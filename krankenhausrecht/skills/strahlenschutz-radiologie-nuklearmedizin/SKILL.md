@@ -1,6 +1,6 @@
 ---
 name: strahlenschutz-radiologie-nuklearmedizin
-description: "Wenn es um Strahlenschutz Radiologie Nuklearmedizin in Krankenhausrecht geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
+description: "Für Strahlenschutz Radiologie Nuklearmedizin: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Strahlenschutz Radiologie Nuklearmedizin

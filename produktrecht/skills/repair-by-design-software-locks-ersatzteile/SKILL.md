@@ -1,6 +1,6 @@
 ---
 name: repair-by-design-software-locks-ersatzteile
-description: "Wenn es um Repair-by-design, Software-Locks und Ersatzteile in Produkthaftung und Produktrecht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
+description: "Für Repair-by-design, Software-Locks und Ersatzteile: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Repair-by-design, Software-Locks und Ersatzteile

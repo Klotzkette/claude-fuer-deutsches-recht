@@ -1,6 +1,6 @@
 ---
 name: excel-reiter-3-fehlend
-description: "Wenn es um Reiter 3 Fehlende Dokumente in Plugin: status-navigator-step-plan geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
+description: "Für Reiter 3 Fehlende Dokumente: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Reiter 3 Fehlende Dokumente

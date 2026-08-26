@@ -2,18 +2,18 @@
 
 ## Zusammensetzung
 
-Diese Vollprüfung enthält top-8 von 255 Skills (gekürzt für das Arbeitsfenster) des Plugins `legistik-werkstatt`.
+Diese Vollprüfung enthält top-8 von 254 Skills (gekürzt für das Arbeitsfenster) des Plugins `legistik-werkstatt`.
 
 ## Inhaltsverzeichnis
 
 1. **juristischer-argumentationskern** — Schaltet sich ein, wenn in Legistik Werkstatt ein juristisches Arbeitsprodukt tragfähig begründet werden muss; verbindet…
-2. **einstieg-routing** — Wenn es um Einstieg und Routing in Legistik-Werkstatt geht: klärt Rolle, Ziel, Frist, Unterlagen und den passenden nächs…
-3. **kaltstart-triage** — Wenn es um Kaltstart Triage in Legistik-Werkstatt geht: klärt Rolle, Ziel, Frist, Unterlagen und den passenden nächsten …
-4. **legistik-erstpruefung-und-mandatsziel** — Wenn es um Legistik: Erstprüfung, Rollenklärung und Mandatsziel in Legistik-Werkstatt geht: klärt Rolle, Ziel, Frist, Un…
-5. **bmz-entwicklungszusammenarbeit-und-bilaterale-abkommen** — Wenn es um Entwicklungszusammenarbeit und bilaterale Abkommen (BMZ) in Legistik-Werkstatt geht: ordnet Akteninhalt, Bele…
-6. **bmbfsfj-gleichstellungs-und-antidiskriminierungsrecht** — Wenn es um Gleichstellungs- und Antidiskriminierungsrecht (BMBFSFJ) in Legistik-Werkstatt geht: ordnet Akteninhalt, Bele…
-7. **bmjv-rechtsstaatlichkeit-und-grundrechte-querschnitt** — Wenn es um Rechtsstaatlichkeit und Grundrechte-Querschnitt (BMJV) in Legistik-Werkstatt geht: ordnet Akteninhalt, Belege…
-8. **bmg-krankenversicherungs-und-leistungsrecht-sgb-v** — Wenn es um Krankenversicherungs- und Leistungsrecht (SGB V) (BMG) in Legistik-Werkstatt geht: ordnet Akteninhalt, Belege…
+2. **einstieg-routing** — Für Einstieg und Routing: routet Rolle, Frist, Unterlagen und Fachschritt; Ergebnis: Prüfprodukt mit Risiko und nächstem…
+3. **kaltstart-triage** — Für Kaltstart Triage: routet Rolle, Frist, Unterlagen und Fachschritt; Ergebnis: Prüfprodukt mit Risiko und nächstem Sch…
+4. **legistik-erstpruefung-und-mandatsziel** — Für Legistik: Erstprüfung, Rollenklärung und Mandatsziel: routet Rolle, Frist, Unterlagen und Fachschritt; Ergebnis: Tat…
+5. **aa-sanktionsumsetzung-und-internationale-abkommen** — Für Sanktionsumsetzung und internationale Abkommen (AA): ordnet Norm, Beweislast und Gegenargument; Ergebnis: Schnittste…
+6. **bmz-entwicklungszusammenarbeit-und-bilaterale-abkommen** — Für Entwicklungszusammenarbeit und bilaterale Abkommen (BMZ): ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfp…
+7. **bmbfsfj-gleichstellungs-und-antidiskriminierungsrecht** — Für Gleichstellungs- und Antidiskriminierungsrecht (BMBFSFJ): ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfp…
+8. **mitte-internationaler-bezug-und-schnittstellen** — Für Mitte: Internationaler Bezug und Schnittstellen: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Schnittstellen…
 
 ---
 
@@ -136,7 +136,7 @@ Ausgangspunkt für dieses Plugin: Behörde trägt Tatsachengrundlage, Ermessen u
 
 ## Skill: `einstieg-routing`
 
-_Wenn es um Einstieg und Routing in Legistik-Werkstatt geht: klärt Rolle, Ziel, Frist, Unterlagen und den passenden nächsten Fachskill; liefert eine Fristen- und Risikoampel mit Sofortschritten._
+_Für Einstieg und Routing: routet Rolle, Frist, Unterlagen und Fachschritt; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt. Fachgebiet: Legistik-Werkstatt._
 
 # Einstieg und Routing
 
@@ -197,7 +197,7 @@ Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei pr
 
 ## Skill: `kaltstart-triage`
 
-_Wenn es um Kaltstart Triage in Legistik-Werkstatt geht: klärt Rolle, Ziel, Frist, Unterlagen und den passenden nächsten Fachskill; liefert eine Fristen- und Risikoampel mit Sofortschritten._
+_Für Kaltstart Triage: routet Rolle, Frist, Unterlagen und Fachschritt; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt. Fachgebiet: Legistik-Werkstatt._
 
 ## Direktstart: lesen, entscheiden, liefern
 
@@ -468,7 +468,7 @@ Das Plugin deckt alle Phasen des Gesetzgebungsverfahrens ab: von der Auftragsauf
 
 ## Skill: `legistik-erstpruefung-und-mandatsziel`
 
-_Wenn es um Legistik: Erstprüfung, Rollenklärung und Mandatsziel in Legistik-Werkstatt geht: klärt Rolle, Ziel, Frist, Unterlagen und den passenden nächsten Fachskill; liefert eine Fristen- und Risikoampel mit Sofortschritten. Auswahlstichwort: Legistik Erstpruefung Und Mandatsziel; Arbeitsfeld: Legistik-Werkstatt._
+_Für Legistik: Erstprüfung, Rollenklärung und Mandatsziel: routet Rolle, Frist, Unterlagen und Fachschritt; Ergebnis: Tatbestands- oder Anspruchsmatrix. Fachgebiet: Legistik-Werkstatt. Route: legistik-erstpruefung-und-mandatsziel._
 
 # Legistik: Erstprüfung, Rollenklärung und Mandatsziel
 
@@ -533,9 +533,99 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 
 ---
 
+## Skill: `aa-sanktionsumsetzung-und-internationale-abkommen`
+
+_Für Sanktionsumsetzung und internationale Abkommen (AA): ordnet Norm, Beweislast und Gegenargument; Ergebnis: Schnittstellenkarte mit Zuständigkeits- und Nachweisfragen. Fachgebiet: Legistik-Werkstatt. Route: aa-sanktionsumsetzung-und-internationale-abkommen._
+
+# Sanktionsumsetzung und internationale Abkommen (AA)
+
+## Normenanker
+
+Arbeitsfokus: **Sanktionsumsetzung und internationale Abkommen (AA)**. Prüfe diese Anker am Sachverhalt; ergänze nur Normen, die denselben Output, dieselbe Frist oder dieselbe Beweisfrage tragen:
+
+- `Art. 20 Abs. 3 GG` — Gesetzesbindung.
+- `Art. 76 Abs. 1 GG` — Gesetzesinitiative.
+- `Art. 77 Abs. 1 GG` — Gesetzesbeschluss.
+- `Art. 80 Abs. 1 GG` — Verordnungsermächtigung.
+- `Art. 84 Abs. 1 GG` — Verwaltungsvollzug.
+- `§ 42 Abs. 1 GGO` — Gesetzgebungsvorhaben.
+- `§ 43 Abs. 1 GGO` — Ressortabstimmung.
+- `§ 44 Abs. 1 GGO` — Gesetzesfolgen.
+- `§ 45 GGO` — Beteiligung.
+- `§ 46 GGO` — Rechtsförmlichkeit.
+
+Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei prüfbare Quelle vorliegen; keine BeckRS-/juris-Blindzitate verwenden.
+
+## Arbeitsweg
+
+- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
+- Fristen und Eilrisiken zuerst markieren: GGO Ressortbeteiligung i.d.R. 4 Wochen, NKR-Stellungnahme 4 Wochen, Bundesrat 1. Durchgang 6 Wochen / 9 Wochen, Vermittlungsausschuss nach Bedarf.
+- Tragende Normen verifizieren: GGO §§ 40-49 (Rechtsetzungsverfahren), Handbuch der Rechtsförmlichkeit (BMJ), NKR-Gesetz, BGleiG, IT-Konsolidierungs-Konzept, eNorm-Standard, GG Art. 76, 77, 78 — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
+- Zuständige Stelle bestimmen und Adressaten richtig wählen: Ressort (BMJ und Fachressort), Bundeskanzleramt, Bundesrat, NKR, Bundestagsausschüsse, Bundesregierung, Wissenschaftliche Dienste, Lobbyregister.
+- Dokumente und Beweismittel sammeln und auf Lücken prüfen: Referentenentwurf, BT-Drucksache, Gesetzesfolgenabschätzung, NKR-Stellungnahme, Verbändeanhörungs-Stellungnahme, Synopse, Erfüllungsaufwandsberechnung — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
+
+## Spezialwissen
+
+> Vierter und tiefster Skill in der Ressort-Kette: Sachfeld-Kompass für das Spezialthema Sanktionsumsetzung und internationale Abkommen im Geschäftsbereich AA. Liefert dem Normgeber Normbestand, Akteure, EU-Bezug und Prüfpunkte für dieses eine Sachfeld.
+
+## Eingaben
+
+- Auftragsblatt aus `legistik-auftragsaufnahme`
+- Ressort-Kompass aus `legw-ressort-aa`
+- Aufgabenmatrix aus `legw-ressortaufgaben-aa`
+- Konkrete Sachfrage oder konkretes Normvorhaben in diesem Sachbereich
+
+## Normbestand
+
+Kernbestand des Sachfelds: AWG; SanktDG; UN-Sicherheitsrat-Resolutionen; BGBl II.
+
+Prüfreihenfolge: Verfassungsrang vor Bundesgesetz vor Rechtsverordnung vor Verwaltungsvorschrift. Bei EU-Bezug zuerst Unionsrecht (Vorrang und Anwendungsbefehl), dann nationale Umsetzungs- und Begleitnormen.
+
+## Akteure und Aufsicht
+
+AA; BMWE-BAFA; BMF-Zoll; FIU; BaFin.
+
+Akteurskarte erstellen: federfuehrende Einheit im Haus; mitzeichnende Ressorts; nachgeordnete Behörden im Vollzug; betroffene Länderbehoerden; Verbaende; wissenschaftliche Beiraete; zuständige Gerichtsbarkeit.
+
+## EU- und voelkerrechtlicher Bezug
+
+EU-Sanktionsregime gegen Drittstaaten und Personen.
+
+Prüfen: einschlaegige Verordnung oder Richtlinie? Umsetzungsfrist? Notifizierungspflicht? Beihilferechtlicher Vorbehalt? Vorabentscheidungsverfahren absehbar?
+
+## Typische Legistik-Aufgaben
+
+Sanktionsumsetzung in nationales Recht; Bussgeldtatbestaende; Listenverwaltung; humanitaere Ausnahmen; Klagen vor EuG.
+
+Schrittfolge für den Normgeber:
+
+1. Sachverhalt und Regelungsziel in diesem Sachfeld prüfen
+2. Vorhandene Normen kartieren; Lueckenanalyse
+3. Eingriffsintensitaet und Adressatenkreis bestimmen
+4. Verfassungs- und Europarechtskonformitaet prüfen
+5. Tatbestand und Rechtsfolge sauber fassen; Bestimmtheit prüfen
+6. Vollzugs- und Aufsichtsstruktur kontrollieren
+7. Begleit- und Folgenormen (Verordnungen; Verwaltungsvorschriften) mitplanen
+
+## Stolpersteine und Prüfpunkte
+
+Schnelle Listenwechsel; Vermögensermittlung; humanitaere Aus-nahmen.
+
+Erweiterte Prüfpunkte: Bestimmtheitsgebot; Verhältnismäßigkeit; Rueckwirkungsverbot; Gleichheitssatz; Datenschutz-Grundverordnung bei Datenverarbeitung; Wechselwirkungen zu anderen Ressorts; Befristung und Evaluation.
+
+## Anschluss an die Legistik-Kette
+
+- `legistik-auftragsaufnahme` -> `legw-ressort-router` -> `legw-ressort-aa` -> `legw-ressortaufgaben-aa` -> `legw-aa-sanktionsumsetzung-und-internationale-abkommen` (hier) -> `normhierarchie-routing` und Querprueferei.
+
+## Abgrenzung
+
+Abgrenzung zu legistik-auftragsaufnahme (Erstaufnahme), normhierarchie-routing (Normwahl), normenkartierung (Bestand), verfassungsmaessigkeit-quercheck (Verfassungsfragen), europarechtskonformitaet (EU-Bezug), folgenabschaetzung-* (Folgenabschaetzung). Dieser Skill dient als Sachfeld-Kompass; er ersetzt nicht die Normprueferei, sondern liefert das Sachverstaendnis für den Normgeber.
+
+---
+
 ## Skill: `bmz-entwicklungszusammenarbeit-und-bilaterale-abkommen`
 
-_Wenn es um Entwicklungszusammenarbeit und bilaterale Abkommen (BMZ) in Legistik-Werkstatt geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen. Auswahlstichwort: Bmz Entwicklungszusammenarbeit Und Bilaterale Abkommen; Arbeitsfeld: Legistik-Werkstatt._
+_Für Entwicklungszusammenarbeit und bilaterale Abkommen (BMZ): ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt. Fachgebiet: Legistik-Werkstatt. Route: bmz-entwicklungszusammenarbeit-und-bilaterale-abkommen._
 
 # Entwicklungszusammenarbeit und bilaterale Abkommen (BMZ)
 
@@ -623,7 +713,7 @@ Abgrenzung zu legistik-auftragsaufnahme (Erstaufnahme), normhierarchie-routing (
 
 ## Skill: `bmbfsfj-gleichstellungs-und-antidiskriminierungsrecht`
 
-_Wenn es um Gleichstellungs- und Antidiskriminierungsrecht (BMBFSFJ) in Legistik-Werkstatt geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen. Auswahlstichwort: Bmbfsfj Gleichstellungs Und Antidiskriminierungsrecht; Arbeitsfeld: Legistik-Werkstatt._
+_Für Gleichstellungs- und Antidiskriminierungsrecht (BMBFSFJ): ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt. Fachgebiet: Legistik-Werkstatt. Route: bmbfsfj-gleichstellungs-und-antidiskriminierungsrecht._
 
 # Gleichstellungs- und Antidiskriminierungsrecht (BMBFSFJ)
 
@@ -694,15 +784,15 @@ Abgrenzung zu legistik-auftragsaufnahme (Erstaufnahme), normhierarchie-routing (
 
 ---
 
-## Skill: `bmjv-rechtsstaatlichkeit-und-grundrechte-querschnitt`
+## Skill: `mitte-internationaler-bezug-und-schnittstellen`
 
-_Wenn es um Rechtsstaatlichkeit und Grundrechte-Querschnitt (BMJV) in Legistik-Werkstatt geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen. Auswahlstichwort: Bmjv Rechtsstaatlichkeit Und Grundrechte Querschnitt; Arbeitsfeld: Legistik-Werkstatt._
+_Für Mitte: Internationaler Bezug und Schnittstellen: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Schnittstellenkarte mit Zuständigkeits- und Nachweisfragen. Fachgebiet: Legistik-Werkstatt. Route: mitte-internationaler-bezug-und-schnittstellen._
 
-# Rechtsstaatlichkeit und Grundrechte-Querschnitt (BMJV)
+# Mitte: Internationaler Bezug und Schnittstellen
 
 ## Normenanker
 
-Arbeitsfokus: **Rechtsstaatlichkeit und Grundrechte-Querschnitt (BMJV)**. Prüfe diese Anker am Sachverhalt; ergänze nur Normen, die denselben Output, dieselbe Frist oder dieselbe Beweisfrage tragen:
+Arbeitsfokus: **Mitte: Internationaler Bezug und Schnittstellen**. Prüfe diese Anker am Sachverhalt; ergänze nur Normen, die denselben Output, dieselbe Frist oder dieselbe Beweisfrage tragen:
 
 - `Art. 5 Abs. 1 DSGVO` — Datenschutzgrundsätze.
 - `Art. 6 Abs. 1 DSGVO` — Rechtsgrundlage.
@@ -723,152 +813,24 @@ Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei pr
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Ressort (BMJ und Fachressort), Bundeskanzleramt, Bundesrat, NKR, Bundestagsausschüsse, Bundesregierung, Wissenschaftliche Dienste, Lobbyregister.
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Referentenentwurf, BT-Drucksache, Gesetzesfolgenabschätzung, NKR-Stellungnahme, Verbändeanhörungs-Stellungnahme, Synopse, Erfüllungsaufwandsberechnung — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
-## Spezialwissen
+## Spezialwissen: Mitte: Internationaler Bezug und Schnittstellen
+- **Normen-/Quellenanker:** XML.
 
-> Vierter und tiefster Skill in der Ressort-Kette: Sachfeld-Kompass für das Spezialthema Rechtsstaatlichkeit und Grundrechte-Querschnitt im Geschäftsbereich BMJV. Liefert dem Normgeber Normbestand, Akteure, EU-Bezug und Prüfpunkte für dieses eine Sachfeld.
+## Fallweichen
+Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur Rückfragen, die die nächste Weiche verändern:
 
-## Eingaben
+1. Welche Rolle hat die fragende Person und wer ist Gegenüber?
+2. Welches konkrete Ziel soll erreicht oder verhindert werden?
+3. Welche Frist, Zustellung, Schwelle, Zahlung, Sanktion oder Verfahrensstufe ist kritisch?
+4. Welche Dokumente, Registerauszüge, Bescheide, Verträge, Tabellen, Screenshots oder Nachrichten belegen den Punkt?
+5. Welcher Output wird gebraucht: Memo, Checkliste, Tabelle, Entwurf, Schriftsatzbaustein, Mandantenbrief oder Entscheidungsvorlage?
 
-- Auftragsblatt aus `legistik-auftragsaufnahme`
-- Ressort-Kompass aus `legw-ressort-bmjv`
-- Aufgabenmatrix aus `legw-ressortaufgaben-bmjv`
-- Konkrete Sachfrage oder konkretes Normvorhaben in diesem Sachbereich
-
-## Normbestand
-
-Kernbestand des Sachfelds: GG; BVerfGG; BBG; RiStBV; Konsulat- und Auslieferungsrecht; EuMRK.
-
-Prüfreihenfolge: Verfassungsrang vor Bundesgesetz vor Rechtsverordnung vor Verwaltungsvorschrift. Bei EU-Bezug zuerst Unionsrecht (Vorrang und Anwendungsbefehl), dann nationale Umsetzungs- und Begleitnormen.
-
-## Akteure und Aufsicht
-
-BMJV; BVerfG; BGH; Ausländerbehoerden; Bundesrat.
-
-Akteurskarte erstellen: federfuehrende Einheit im Haus; mitzeichnende Ressorts; nachgeordnete Behörden im Vollzug; betroffene Länderbehoerden; Verbaende; wissenschaftliche Beiraete; zuständige Gerichtsbarkeit.
-
-## EU- und voelkerrechtlicher Bezug
-
-Rechtsstaatlichkeitsmechanismus; EuGH (Vertragsverletzungen); EuMRK.
-
-Prüfen: einschlaegige Verordnung oder Richtlinie? Umsetzungsfrist? Notifizierungspflicht? Beihilferechtlicher Vorbehalt? Vorabentscheidungsverfahren absehbar?
-
-## Typische Legistik-Aufgaben
-
-Verfassungsrechtliche Prüfung; Rechtsmittel; EuMRK-Konformitaet; Anhörungsrechte; Schutz von Verfahrensrechten.
-
-Schrittfolge für den Normgeber:
-
-1. Sachverhalt und Regelungsziel in diesem Sachfeld prüfen
-2. Vorhandene Normen kartieren; Lueckenanalyse
-3. Eingriffsintensitaet und Adressatenkreis bestimmen
-4. Verfassungs- und Europarechtskonformitaet prüfen
-5. Tatbestand und Rechtsfolge sauber fassen; Bestimmtheit prüfen
-6. Vollzugs- und Aufsichtsstruktur kontrollieren
-7. Begleit- und Folgenormen (Verordnungen; Verwaltungsvorschriften) mitplanen
-
-## Stolpersteine und Prüfpunkte
-
-Konflikt zwischen Sicherheits- und Grundrechtsperspektive; Foederale Konkurrenz; Rechtsstaats-Monitoring der EU.
-
-Erweiterte Prüfpunkte: Bestimmtheitsgebot; Verhältnismäßigkeit; Rueckwirkungsverbot; Gleichheitssatz; Datenschutz-Grundverordnung bei Datenverarbeitung; Wechselwirkungen zu anderen Ressorts; Befristung und Evaluation.
-
-## Anschluss an die Legistik-Kette
-
-- `legistik-auftragsaufnahme` -> `legw-ressort-router` -> `legw-ressort-bmjv` -> `legw-ressortaufgaben-bmjv` -> `legw-bmjv-rechtsstaatlichkeit-und-grundrechte-querschnitt` (hier) -> `normhierarchie-routing` und Querprueferei.
-
-## Abgrenzung
-
-Abgrenzung zu legistik-auftragsaufnahme (Erstaufnahme), normhierarchie-routing (Normwahl), normenkartierung (Bestand), verfassungsmaessigkeit-quercheck (Verfassungsfragen), europarechtskonformitaet (EU-Bezug), folgenabschaetzung-* (Folgenabschaetzung). Dieser Skill dient als Sachfeld-Kompass; er ersetzt nicht die Normprueferei, sondern liefert das Sachverstaendnis für den Normgeber.
-
----
-
-## Skill: `bmg-krankenversicherungs-und-leistungsrecht-sgb-v`
-
-_Wenn es um Krankenversicherungs- und Leistungsrecht (SGB V) (BMG) in Legistik-Werkstatt geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen. Auswahlstichwort: Bmg Krankenversicherungs Und Leistungsrecht Sgb V; Arbeitsfeld: Legistik-Werkstatt._
-
-# Krankenversicherungs- und Leistungsrecht (SGB V) (BMG)
-
-## Normenanker
-
-Arbeitsfokus: **Krankenversicherungs- und Leistungsrecht (SGB V) (BMG)**. Prüfe diese Anker am Sachverhalt; ergänze nur Normen, die denselben Output, dieselbe Frist oder dieselbe Beweisfrage tragen:
-
-- `Art. 20 Abs. 3 GG` — Gesetzesbindung.
-- `Art. 76 Abs. 1 GG` — Gesetzesinitiative.
-- `Art. 77 Abs. 1 GG` — Gesetzesbeschluss.
-- `Art. 80 Abs. 1 GG` — Verordnungsermächtigung.
-- `Art. 84 Abs. 1 GG` — Verwaltungsvollzug.
-- `§ 42 Abs. 1 GGO` — Gesetzgebungsvorhaben.
-- `§ 43 Abs. 1 GGO` — Ressortabstimmung.
-- `§ 44 Abs. 1 GGO` — Gesetzesfolgen.
-- `§ 45 GGO` — Beteiligung.
-- `§ 46 GGO` — Rechtsförmlichkeit.
-
-Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei prüfbare Quelle vorliegen; keine BeckRS-/juris-Blindzitate verwenden.
-
-## Arbeitsweg
-
-- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
-- Fristen und Eilrisiken zuerst markieren: GGO Ressortbeteiligung i.d.R. 4 Wochen, NKR-Stellungnahme 4 Wochen, Bundesrat 1. Durchgang 6 Wochen / 9 Wochen, Vermittlungsausschuss nach Bedarf.
-- Tragende Normen verifizieren: GGO §§ 40-49 (Rechtsetzungsverfahren), Handbuch der Rechtsförmlichkeit (BMJ), NKR-Gesetz, BGleiG, IT-Konsolidierungs-Konzept, eNorm-Standard, GG Art. 76, 77, 78 — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
-- Zuständige Stelle bestimmen und Adressaten richtig wählen: Ressort (BMJ und Fachressort), Bundeskanzleramt, Bundesrat, NKR, Bundestagsausschüsse, Bundesregierung, Wissenschaftliche Dienste, Lobbyregister.
-- Dokumente und Beweismittel sammeln und auf Lücken prüfen: Referentenentwurf, BT-Drucksache, Gesetzesfolgenabschätzung, NKR-Stellungnahme, Verbändeanhörungs-Stellungnahme, Synopse, Erfüllungsaufwandsberechnung — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
-
-## Spezialwissen
-
-> Vierter und tiefster Skill in der Ressort-Kette: Sachfeld-Kompass für das Spezialthema Krankenversicherungs- und Leistungsrecht (SGB V) im Geschäftsbereich BMG. Liefert dem Normgeber Normbestand, Akteure, EU-Bezug und Prüfpunkte für dieses eine Sachfeld.
-
-## Eingaben
-
-- Auftragsblatt aus `legistik-auftragsaufnahme`
-- Ressort-Kompass aus `legw-ressort-bmg`
-- Aufgabenmatrix aus `legw-ressortaufgaben-bmg`
-- Konkrete Sachfrage oder konkretes Normvorhaben in diesem Sachbereich
-
-## Normbestand
-
-Kernbestand des Sachfelds: SGB V; SGB IV (Beitragsrecht); KHEntgG; AMG-Bezuege; AMNOG.
-
-Prüfreihenfolge: Verfassungsrang vor Bundesgesetz vor Rechtsverordnung vor Verwaltungsvorschrift. Bei EU-Bezug zuerst Unionsrecht (Vorrang und Anwendungsbefehl), dann nationale Umsetzungs- und Begleitnormen.
-
-## Akteure und Aufsicht
-
-GKV-Spitzenverband; G-BA; KBV; KZBV; BAS; LSG.
-
-Akteurskarte erstellen: federfuehrende Einheit im Haus; mitzeichnende Ressorts; nachgeordnete Behörden im Vollzug; betroffene Länderbehoerden; Verbaende; wissenschaftliche Beiraete; zuständige Gerichtsbarkeit.
-
-## EU- und voelkerrechtlicher Bezug
-
-EU-Patientenrechte-RL; HTA-VO.
-
-Prüfen: einschlaegige Verordnung oder Richtlinie? Umsetzungsfrist? Notifizierungspflicht? Beihilferechtlicher Vorbehalt? Vorabentscheidungsverfahren absehbar?
-
-## Typische Legistik-Aufgaben
-
-Leistungskatalog; Erstattung; Selektivvertraege; ASV; Disease-Management.
-
-Schrittfolge für den Normgeber:
-
-1. Sachverhalt und Regelungsziel in diesem Sachfeld prüfen
-2. Vorhandene Normen kartieren; Lueckenanalyse
-3. Eingriffsintensitaet und Adressatenkreis bestimmen
-4. Verfassungs- und Europarechtskonformitaet prüfen
-5. Tatbestand und Rechtsfolge sauber fassen; Bestimmtheit prüfen
-6. Vollzugs- und Aufsichtsstruktur kontrollieren
-7. Begleit- und Folgenormen (Verordnungen; Verwaltungsvorschriften) mitplanen
-
-## Stolpersteine und Prüfpunkte
-
-Verteilung Bund-Selbstverwaltung; Wirtschaftlichkeitsgebot; AMNOG-Schiedsverfahren.
-
-Erweiterte Prüfpunkte: Bestimmtheitsgebot; Verhältnismäßigkeit; Rueckwirkungsverbot; Gleichheitssatz; Datenschutz-Grundverordnung bei Datenverarbeitung; Wechselwirkungen zu anderen Ressorts; Befristung und Evaluation.
-
-## Anschluss an die Legistik-Kette
-
-- `legistik-auftragsaufnahme` -> `legw-ressort-router` -> `legw-ressort-bmg` -> `legw-ressortaufgaben-bmg` -> `legw-bmg-krankenversicherungs-und-leistungsrecht-sgb-v` (hier) -> `normhierarchie-routing` und Querprueferei.
-
-## Abgrenzung
-
-Abgrenzung zu legistik-auftragsaufnahme (Erstaufnahme), normhierarchie-routing (Normwahl), normenkartierung (Bestand), verfassungsmaessigkeit-quercheck (Verfassungsfragen), europarechtskonformitaet (EU-Bezug), folgenabschaetzung-* (Folgenabschaetzung). Dieser Skill dient als Sachfeld-Kompass; er ersetzt nicht die Normprueferei, sondern liefert das Sachverstaendnis für den Normgeber.
+## Arbeitsworkflow
+1. **Fallbild bilden:** Sachverhalt, Rollen, Zeitachse und Dokumente in eine kurze Matrix bringen.
+2. **Rechtsrahmen setzen:** Normen, Zuständigkeiten, Fristen, Formfragen und Verfahrensstand zum Themenfeld **Mitte** prüfen.
+3. **Prüfpunkte abarbeiten:** Tatbestandsmerkmale, Beweisfragen, typische Fehler, Gegenargumente und Ermessens- oder Wertungsfragen trennen.
+4. **Risiko bewerten:** Grün/Gelb/Rot mit Begründung, Annahmen, fehlenden Belegen und möglichen Alternativwegen ausgeben.
+5. **Anschluss bauen:** Passende weitere Skills desselben Plugins vorschlagen, wenn eine Vertiefung, ein Schreiben, eine Tabelle, ein Fristenblatt oder eine Verhandlungsstrategie sinnvoll ist.
 
 ---
 

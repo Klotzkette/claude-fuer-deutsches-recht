@@ -1,6 +1,6 @@
 ---
 name: sonderpruefung-aktienrecht-organisationspflicht
-description: "Wenn es um Sonderpruefung Aktienrecht Organisationspflicht in Berufsrecht Wirtschaftsprüfer geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Sonderprüfung Aktienrecht Organisationspflicht: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Tatbestands- oder Anspruchsmatrix."
 ---
 
 # Wirtschaftsprüfer: sonderpruefung aktienrecht - Organisationspflichten, Prävention, Team-Anweisung und Fristenkontrolle

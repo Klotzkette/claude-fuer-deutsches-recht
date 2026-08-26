@@ -1,6 +1,6 @@
 ---
 name: energie-fernwaerme-schnittstelle-soweit-bnetza-nicht-zustaendig
-description: "Wenn es um Energie: Fernwärme Schnittstelle soweit BNetzA nicht zuständig in Bundesnetzagentur-Verfahren geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
+description: "Für Energie: Fernwärme Schnittstelle soweit BNetzA nicht zuständig: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Energie: Fernwärme Schnittstelle soweit BNetzA nicht zuständig

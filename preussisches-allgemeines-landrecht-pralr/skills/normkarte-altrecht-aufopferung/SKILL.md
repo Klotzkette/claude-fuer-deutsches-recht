@@ -1,6 +1,6 @@
 ---
 name: normkarte-altrecht-aufopferung
-description: "Wenn es um Pralr Normkarte Altrecht In Heutiger Akte in Preußisches Allgemeines Landrecht geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen."
+description: "Für Pralr Normkarte Altrecht in Heutiger Akte: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Tatbestands- oder Anspruchsmatrix."
 ---
 
 # Pralr Normkarte Altrecht In Heutiger Akte

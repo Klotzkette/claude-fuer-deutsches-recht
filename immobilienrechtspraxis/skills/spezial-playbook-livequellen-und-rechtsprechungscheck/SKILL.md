@@ -1,6 +1,6 @@
 ---
 name: spezial-playbook-livequellen-und-rechtsprechungscheck
-description: "Wenn es um Playbook: Livequellen- und Rechtsprechungscheck in Immobilienrechtspraxis geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Playbook: Livequellen- und Rechtsprechungscheck: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Playbook: Livequellen- und Rechtsprechungscheck

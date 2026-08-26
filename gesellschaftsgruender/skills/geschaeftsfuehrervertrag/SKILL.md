@@ -1,6 +1,6 @@
 ---
 name: geschaeftsfuehrervertrag
-description: "Wenn es um Geschäftsführer-Anstellungsvertrag GmbH in gesellschaftsgründer — Gründungsassistent für deutsche geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Geschäftsführer-Anstellungsvertrag GmbH: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Geschäftsführer-Anstellungsvertrag GmbH

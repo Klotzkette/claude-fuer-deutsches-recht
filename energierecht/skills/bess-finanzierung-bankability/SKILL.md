@@ -1,6 +1,6 @@
 ---
 name: bess-finanzierung-bankability
-description: "Wenn es um Finanzierung und Bankability in Energierecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Finanzierung und Bankability: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Finanzierung und Bankability

@@ -1,6 +1,6 @@
 ---
 name: protokoll-nachbereitung-rechnung
-description: "Wenn es um Protokoll und Nachbereitung in Verbraucher im Rechtsstaat Alltag geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Protokoll und Nachbereitung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt. Fachgebiet: Verbraucher im Rechtsstaat Alltag."
 ---
 
 # Protokoll und Nachbereitung

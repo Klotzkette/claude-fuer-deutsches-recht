@@ -1,6 +1,6 @@
 ---
 name: fehlende-payroll-unterlagen-chaser
-description: "Wenn es um Fehlende Payroll Unterlagen Chaser in Start-up-HR-Personalabteilung Berlin geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Fehlende Payroll Unterlagen Chaser: ordnet Akte, Belege und Lücken; Ergebnis: Dokumentenmatrix mit Nachforderungsliste."
 ---
 
 # Fehlende Payroll Unterlagen Chaser

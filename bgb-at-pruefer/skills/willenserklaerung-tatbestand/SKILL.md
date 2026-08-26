@@ -1,6 +1,6 @@
 ---
 name: willenserklaerung-tatbestand
-description: "Wenn es um Willenserklärung — Tatbestand Paragrafen 116 ff. BGB in BGB AT Prüfer geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Tatbestands- oder Anspruchsmatrix mit Gegenargumenten."
+description: "Für Willenserklärung — Tatbestand Paragrafen 116 ff. BGB: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Tatbestands- oder Anspruchsmatrix."
 ---
 
 # Willenserklärung — Tatbestand §§ 116 ff. BGB

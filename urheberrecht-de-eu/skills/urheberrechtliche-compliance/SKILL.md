@@ -1,6 +1,6 @@
 ---
 name: urheberrechtliche-compliance
-description: "Wenn es um Urheberrechts-Compliance im Unternehmen in Urheberrecht DE EU geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Urheberrechts-Compliance im Unternehmen: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Urheberrechts-Compliance im Unternehmen

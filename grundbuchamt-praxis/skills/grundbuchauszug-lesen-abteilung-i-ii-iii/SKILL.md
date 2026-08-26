@@ -1,6 +1,6 @@
 ---
 name: grundbuchauszug-lesen-abteilung-i-ii-iii
-description: "Wenn es um Grundbuchauszug richtig lesen in Grundbuchamt Praxis geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
+description: "Für Grundbuchauszug richtig lesen: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Grundbuchauszug richtig lesen

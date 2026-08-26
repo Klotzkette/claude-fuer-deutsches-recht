@@ -1,6 +1,6 @@
 ---
 name: familienbetreuer-arzt-bankkonto
-description: "Wenn es um Familienbetreuer: Arzt, Heim, Pflegekasse in Betreuungsrecht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen."
+description: "Für Familienbetreuer: Arzt, Heim, Pflegekasse: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Schnittstellenkarte mit Zuständigkeits- und Nachweisfragen. Fachgebiet: Betreuungsrecht. Route: familienbetreuer-arzt-bankkonto."
 ---
 
 # Familienbetreuer: Arzt, Heim, Pflegekasse

@@ -1,6 +1,6 @@
 ---
 name: einleitungssatz-generator
-description: "Wenn es um Einleitungssatz-Generator in aktenauszug-gerichtsverfahren geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen."
+description: "Für Einleitungssatz-Generator: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Einleitungssatz-Generator

@@ -1,6 +1,6 @@
 ---
 name: geldwaesche-risikoanalyse
-description: "Wenn es um Geldwaesche Risikoanalyse in Berufsrecht Anwälte geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Geldwäsche Risikoanalyse: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Anwälte: geldwaesche risikoanalyse kanzlei - Organisationspflichten, Prävention, Team-Anweisung und Fristenkontrolle

@@ -1,6 +1,6 @@
 ---
 name: spezial-bussgeld-livequellen-und-rechtsprechungscheck
-description: "Wenn es um Bussgeld: Livequellen- und Rechtsprechungscheck in Umweltrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Bussgeld: Livequellen- und Rechtsprechungscheck: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Bussgeld: Livequellen- und Rechtsprechungscheck

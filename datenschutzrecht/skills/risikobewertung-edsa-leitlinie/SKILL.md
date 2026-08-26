@@ -1,6 +1,6 @@
 ---
 name: risikobewertung-edsa-leitlinie
-description: "Wenn es um Risikobewertung nach EDSA-Leitlinie 9/2022 in Datenschutzrecht geht: rechnet Schwellen, Beträge, Varianten und Kontrollannahmen durch; liefert eine Berechnungstabelle mit Schwellen, Annahmen und Kontrollfragen."
+description: "Für Risikobewertung nach EDSA-Leitlinie 9/2022: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Risikobewertung nach EDSA-Leitlinie 9/2022
@@ -46,3 +46,7 @@ Risikomatrix: Eintrittswahrscheinlichkeit × Schwere; Begründung mit EDSA-Refer
 - `dsv-bussgeldverteidigung-art-83` und `dsv-schadensersatz-art-82` decken die anwaltliche Nachbearbeitung ab.
 
 - `dsv-risikobewertung-enisa-schweregrad` ergaenzt um quantitative ENISA-Methodik.
+
+## Vertiefung bei Bedarf
+
+- Bei `dsv-risikobewertung-edsa-leitlinie` beziehungsweise Führt die Risikobewertung eines Datenschutzvorfalls anhand der EDSA-Leitlinie 9/2022 zu Beispielen für die Meldung von Datenschutzverletzungen durch: [die zusätzliche Vertiefung laden](./references/vertiefung-dsv-risikobewertung-edsa-leitlinie.md).

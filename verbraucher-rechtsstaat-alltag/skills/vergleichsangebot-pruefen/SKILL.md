@@ -1,6 +1,6 @@
 ---
 name: vergleichsangebot-pruefen
-description: "Wenn es um Vergleichsangebot prüfen in Verbraucher im Rechtsstaat Alltag geht: entwickelt Verhandlungsziel, Vergleichskorridor und Eskalationspfad; liefert eine Verhandlungs- oder Eskalationslinie mit Optionen."
+description: "Für Vergleichsangebot prüfen: entwickelt Ziel, Vergleich und Eskalation; Ergebnis: Verhandlungs- oder Eskalationslinie."
 ---
 
 # Vergleichsangebot prüfen

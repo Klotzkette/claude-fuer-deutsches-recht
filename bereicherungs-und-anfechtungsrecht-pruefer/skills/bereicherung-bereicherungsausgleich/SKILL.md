@@ -1,6 +1,6 @@
 ---
 name: bereicherung-bereicherungsausgleich
-description: "Wenn es um Bereicherung eines Dritten — Paragraf 822 BGB in bereicherungs-und-anfechtungsrecht-prüfer geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. Auswahlstichwort: Bereicherung Bereicherungsausgleich; Arbeitsfeld: bereicherungs-und-anfechtungsrecht-prüfer."
+description: "Für Bereicherung eines Dritten — Paragraf 822 BGB: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt. Fachgebiet: bereicherungs-und-anfechtungsrecht-prüfer. Route: bereicherung-bereicherungsausgleich."
 ---
 
 # Bereicherung eines Dritten — § 822 BGB

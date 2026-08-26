@@ -1,6 +1,6 @@
 ---
 name: jahresbericht-tatbestandsmerkmale-beweisfragen
-description: "Wenn es um Jahresbericht: Tatbestandsmerkmale, Beweisfragen und Beleglage in Betreuungsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Jahresbericht: Tatbestandsmerkmale, Beweisfragen und Beleglage: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Beweislast- und Substantiierungsmatrix."
 ---
 
 # Jahresbericht: Tatbestandsmerkmale, Beweisfragen und Beleglage

@@ -1,6 +1,6 @@
 ---
 name: lph-risikoregister-sachverstaendigen
-description: "Wenn es um LPH 4 Genehmigungsplanung: Baut risiko- in HOAI Leistungsphasen Praxis geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Dokumentenmatrix mit Nachforderungsliste."
+description: "Für LPH 4 Genehmigungsplanung: Baut risiko-: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Einreichungsplan mit Form- und Nachweischeck."
 ---
 
 # LPH 4 Genehmigungsplanung: Baut risiko-

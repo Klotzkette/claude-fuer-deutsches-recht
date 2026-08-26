@@ -1,6 +1,6 @@
 ---
 name: autobahnprojekt-beihilfe-markieren
-description: "Wenn es um Autobahnprojekt Beihilfe Markieren in Öffentliches Wirtschaftsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Autobahnprojekt Beihilfe Markieren: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Autobahnprojekt Beihilfe Markieren

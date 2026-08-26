@@ -1,6 +1,6 @@
 ---
 name: dringlichkeitsmarker-einwilligung-hinweis
-description: "Wenn es um Dringlichkeitsmarker in mandantenanfragen-assistent geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Dringlichkeitsmarker: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Dringlichkeitsmarker

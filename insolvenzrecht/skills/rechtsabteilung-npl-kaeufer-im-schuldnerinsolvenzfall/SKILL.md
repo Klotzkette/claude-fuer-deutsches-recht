@@ -1,6 +1,6 @@
 ---
 name: rechtsabteilung-npl-kaeufer-im-schuldnerinsolvenzfall
-description: "Wenn es um Rechtsabteilung: NPL-Käufer im Schuldnerinsolvenzfall in Insolvenzrecht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen."
+description: "Für Rechtsabteilung: NPL-Käufer im Schuldnerinsolvenzfall: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Schnittstellenkarte mit Zuständigkeits- und Nachweisfragen."
 ---
 
 # Rechtsabteilung: NPL-Käufer im Schuldnerinsolvenzfall

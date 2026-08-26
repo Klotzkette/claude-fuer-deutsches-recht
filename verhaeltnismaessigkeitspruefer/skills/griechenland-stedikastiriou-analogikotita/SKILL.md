@@ -1,6 +1,6 @@
 ---
 name: griechenland-stedikastiriou-analogikotita
-description: "Wenn es um Griechenland Archi tis Analogikotitas in Verhältnismäßigkeitsprüfer geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
+description: "Für Griechenland Archi tis Analogikotitas: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Griechenland Archi tis Analogikotitas

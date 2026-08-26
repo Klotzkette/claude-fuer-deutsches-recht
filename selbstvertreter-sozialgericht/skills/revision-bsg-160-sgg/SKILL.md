@@ -1,6 +1,6 @@
 ---
 name: revision-bsg-160-sgg
-description: "Wenn es um Revision zum BSG — Paragraf 160 SGG in selbstvertreter-sozialgericht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Revision zum BSG — Paragraf 160 SGG: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Revision zum BSG — § 160 SGG

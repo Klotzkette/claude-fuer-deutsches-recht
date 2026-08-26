@@ -1,6 +1,6 @@
 ---
 name: grenzbaum-grenzanlage-hammerschlags
-description: "Wenn es um Grenzbaum und Grenzanlage in Nachbarschaftsstreit-Prüfer geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Beweislast- und Substantiierungsmatrix."
+description: "Für Grenzbaum und Grenzanlage: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Grenzbaum und Grenzanlage

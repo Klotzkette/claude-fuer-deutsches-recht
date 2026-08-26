@@ -1,6 +1,6 @@
 ---
 name: insolvenzreife-antragspflicht-und-haftung
-description: "Wenn es um Insolvenzreife, Antragspflicht und Haftung in Insolvenzrecht geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
+description: "Für Insolvenzreife, Antragspflicht und Haftung: erstellt Entwurf mit Antrag, Beweis und Anlagen; Ergebnis: Schriftsatz mit Begründungs- und Anlagenlogik."
 ---
 
 # Insolvenzreife, Antragspflicht und Haftung

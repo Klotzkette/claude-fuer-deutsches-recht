@@ -1,6 +1,6 @@
 ---
 name: buergschaft-privatperson-gesellschafter-ehegatte
-description: "Wenn es um Buergschaft Privatperson Gesellschafter Ehegatte in Bank-Rechtsabteilung geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
+description: "Für Bürgschaft Privatperson Gesellschafter Ehegatte: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Buergschaft Privatperson Gesellschafter Ehegatte

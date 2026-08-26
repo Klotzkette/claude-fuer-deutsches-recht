@@ -1,6 +1,6 @@
 ---
 name: urb-tatbestand-entscheidungsgruende-leitfaden
-description: "Wenn es um Urb: Tatbestand Gruende in Urteilsbauer und Relationsmacher geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Tatbestands- oder Anspruchsmatrix mit Gegenargumenten."
+description: "Für Urb: Tatbestand Gründe: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Tatbestands- oder Anspruchsmatrix."
 ---
 
 # Urb: Tatbestand Gruende

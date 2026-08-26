@@ -1,6 +1,6 @@
 ---
 name: gewinnspiel-teilnahmebedingungen-datenschutz
-description: "Wenn es um Influencer-Recht: Gewinnspiel – Teilnahmebedingungen, Datenschutz in Influencer-Recht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
+description: "Für Influencer-Recht: Gewinnspiel – Teilnahmebedingungen, Datenschutz: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Influencer-Recht: Gewinnspiel – Teilnahmebedingungen, Datenschutz

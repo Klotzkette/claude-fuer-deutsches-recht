@@ -1,6 +1,6 @@
 ---
 name: sprachregelung-schnellkarte
-description: "Wenn es um Sprachregelung Schnellkarte in Wahlkampfrecht Praxis geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Sprachregelung Schnellkarte: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Sprachregelung Schnellkarte

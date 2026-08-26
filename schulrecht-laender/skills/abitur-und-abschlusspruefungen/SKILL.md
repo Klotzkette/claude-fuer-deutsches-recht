@@ -1,6 +1,6 @@
 ---
 name: abitur-und-abschlusspruefungen
-description: "Wenn es um Abitur Und Abschlusspruefungen in Schulrecht der Bundesländer geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Abitur und Abschlussprüfungen: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Tatbestands- oder Anspruchsmatrix."
 ---
 
 # Abitur Und Abschlusspruefungen

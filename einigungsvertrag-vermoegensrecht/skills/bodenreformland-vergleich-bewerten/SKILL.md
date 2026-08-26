@@ -1,6 +1,6 @@
 ---
 name: bodenreformland-vergleich-bewerten
-description: "Wenn es um Bodenreformland Vergleich Bewerten in Einigungsvertrag und Vermögensrecht geht: entwickelt Verhandlungsziel, Vergleichskorridor und Eskalationspfad; liefert eine Verhandlungs- oder Eskalationslinie mit Optionen."
+description: "Für Bodenreformland Vergleich Bewerten: entwickelt Ziel, Vergleich und Eskalation; Ergebnis: Verhandlungs- oder Eskalationslinie."
 ---
 
 # Bodenreformland Vergleich Bewerten

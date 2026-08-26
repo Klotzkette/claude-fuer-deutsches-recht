@@ -1,6 +1,6 @@
 ---
 name: steigerungsadverbien-katalog
-description: "Prüft Steigerungs- und Abschwächungswörter in Leistungs- und Verhaltenssätzen auf konsistente Wirkung im Gesamtzeugnis. Liefert kontextbezogene Alternativen und warnt davor, einzelne Adverbien ohne Tatsachengrundlage als feste Notenschlüssel zu behandeln."
+description: "Prüft Steigerungs- und Abschwächungswörter in Leistungs- und Verhaltenssätzen auf konsistente Wirkung im Gesamtzeugnis."
 ---
 
 # Steigerungsadverbien-Katalog

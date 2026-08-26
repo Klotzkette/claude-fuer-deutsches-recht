@@ -1,6 +1,6 @@
 ---
 name: 18-jugendsache-und-diversion-paragraf-45-jgg
-description: "Wenn es um 18 Jugendsache und Diversion Paragraf 45 JGG in Staatsanwaltschaft und Amtsanwaltschaft geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
+description: "Für 18 Jugendsache und Diversion Paragraf 45 JGG: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # 18 Jugendsache und Diversion Paragraf 45 JGG

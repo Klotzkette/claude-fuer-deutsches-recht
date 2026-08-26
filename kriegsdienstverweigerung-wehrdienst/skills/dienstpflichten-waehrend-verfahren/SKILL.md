@@ -1,6 +1,6 @@
 ---
 name: dienstpflichten-waehrend-verfahren
-description: "Wenn es um Dienstpflichten im Verfahren in Kriegsdienstverweigerung und Wehrdienst geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
+description: "Für Dienstpflichten im Verfahren: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Dienstpflichten im Verfahren

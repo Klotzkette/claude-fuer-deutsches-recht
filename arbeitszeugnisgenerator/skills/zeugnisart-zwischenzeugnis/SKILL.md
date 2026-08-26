@@ -1,6 +1,6 @@
 ---
 name: zeugnisart-zwischenzeugnis
-description: "Prüft das berechtigte Interesse an einem Zwischenzeugnis und erstellt eine stichtagsbezogene Leistungs- und Verhaltensbeurteilung ohne Ausscheidensformel. Berücksichtigt Vorgesetztenwechsel, Aufgabenänderung, Betriebsübergang, Elternzeit und spätere Bindungswirkung."
+description: "Prüft das berechtigte Interesse an einem Zwischenzeugnis und erstellt eine stichtagsbezogene Leistungs- und Verhaltensbeurteilung ohne Ausscheidensformel."
 ---
 
 # Zeugnisart: Zwischenzeugnis

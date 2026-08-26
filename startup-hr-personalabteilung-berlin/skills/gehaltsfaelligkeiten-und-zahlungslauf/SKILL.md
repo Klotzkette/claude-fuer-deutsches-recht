@@ -1,6 +1,6 @@
 ---
 name: gehaltsfaelligkeiten-und-zahlungslauf
-description: "Wenn es um Gehaltsfaelligkeiten Und Zahlungslauf in Start-up-HR-Personalabteilung Berlin geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Gehaltsfälligkeiten und Zahlungslauf: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Gehaltsfaelligkeiten Und Zahlungslauf

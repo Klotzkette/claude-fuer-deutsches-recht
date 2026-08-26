@@ -1,6 +1,6 @@
 ---
 name: space-094-incident-response-satellitenausfall
-description: "Wenn es um Weltraumrecht: Incident Response Satellitenausfall in Weltraumrecht geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Weltraumrecht: Incident Response Satellitenausfall: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Weltraumrecht: Incident Response Satellitenausfall

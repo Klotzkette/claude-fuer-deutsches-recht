@@ -1,6 +1,6 @@
 ---
 name: haftbefehl-und-u-haft-antrag
-description: "Wenn es um Haftbefehl und Untersuchungshaft in Staatsanwaltschaft Praxis-Einstieg geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
+description: "Für Haftbefehl und Untersuchungshaft: erstellt Entwurf mit Antrag, Beweis und Anlagen; Ergebnis: Schriftsatz mit Begründungs- und Anlagenlogik."
 ---
 
 # Haftbefehl und Untersuchungshaft

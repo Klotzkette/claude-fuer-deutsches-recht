@@ -1,6 +1,6 @@
 ---
 name: ueberschuldungspruefung-19-inso
-description: "Wenn es um Überschuldungsprüfung Paragraf 19 InsO (Steuerberater-Sicht) in Steuerrecht – Steuerberater und Anwälte geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Überschuldungsprüfung Paragraf 19 InsO (Steuerberater-Sicht): ordnet Norm, Beweislast und Gegenargument; Ergebnis: Tatbestands- oder Anspruchsmatrix."
 ---
 
 # Überschuldungsprüfung § 19 InsO (Steuerberater-Sicht)

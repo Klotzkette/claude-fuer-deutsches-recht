@@ -1,6 +1,6 @@
 ---
 name: spezial-sheets-livequellen-und-rechtsprechungscheck
-description: "Wenn es um Sheets: Livequellen- und Rechtsprechungscheck in Vertragsausfüller geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Sheets: Livequellen- und Rechtsprechungscheck: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Sheets: Livequellen- und Rechtsprechungscheck

@@ -1,6 +1,6 @@
 ---
 name: itr-saas-vertragstypen-praxis
-description: "Wenn es um Itr Saas Vertragstypen Praxis in Fachanwalt It Recht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Itr Saas Vertragstypen Praxis: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # SaaS-Vertragstypen in der Praxis: Mietvertrag, Werkvertrag, Dienstvertrag oder eigenes IT-Vertragstyp

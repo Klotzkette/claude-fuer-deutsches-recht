@@ -1,6 +1,6 @@
 ---
 name: infl-045-eu-ausland-brand-reverse-charge-und-oss
-description: "Wenn es um Influencer-Recht: EU-Ausland Brand Reverse Charge und OSS in Influencer-Recht geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Influencer-Recht: EU-Ausland Brand Reverse Charge und OSS: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Schnittstellenkarte mit Zuständigkeits- und Nachweisfragen."
 ---
 
 # Influencer-Recht: EU-Ausland Brand Reverse Charge und OSS

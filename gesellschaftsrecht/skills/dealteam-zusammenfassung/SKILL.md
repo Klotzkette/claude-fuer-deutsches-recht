@@ -1,6 +1,6 @@
 ---
 name: dealteam-zusammenfassung
-description: "Wenn es um Deal-Team-Zusammenfassung in Gesellschaftsrecht geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
+description: "Für Deal-Team-Zusammenfassung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Deal-Team-Zusammenfassung

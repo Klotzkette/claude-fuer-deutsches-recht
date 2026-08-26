@@ -1,6 +1,6 @@
 ---
 name: personen-rechtsfaehigkeit-und-handlungsfaehigkeit
-description: "Wenn es um Personen Rechtsfaehigkeit Und Handlungsfaehigkeit in BGB AT Prüfer geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
+description: "Für Personen Rechtsfähigkeit und Handlungsfähigkeit: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Personen Rechtsfaehigkeit Und Handlungsfaehigkeit

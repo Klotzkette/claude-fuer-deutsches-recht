@@ -1,6 +1,6 @@
 ---
 name: rechteclearing-ki-dataset-musik
-description: "Wenn es um Rechteclearing digitale Werkzeuge-Dataset Musik in Urheberrecht DE EU geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Rechteclearing digitale Werkzeuge-Dataset Musik: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Rechteclearing KI-Dataset Musik

@@ -1,6 +1,6 @@
 ---
 name: kv-033-beihilfe-beamte-pkv-und-restkosten
-description: "Wenn es um Krankenversicherung: Beihilfe Beamte PKV und Restkosten in Krankenkassenrecht und Krankenversicherung geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Krankenversicherung: Beihilfe Beamte PKV und Restkosten: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Krankenversicherung: Beihilfe Beamte PKV und Restkosten

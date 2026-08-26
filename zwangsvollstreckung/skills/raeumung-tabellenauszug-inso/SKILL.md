@@ -1,6 +1,6 @@
 ---
 name: raeumung-tabellenauszug-inso
-description: "Wenn es um Räumung Paragraf 885 ZPO / Berliner Räumung Paragraf 885a ZPO in Zwangsvollstreckung geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Räumung Paragraf 885 ZPO / Berliner Räumung Paragraf 885a ZPO: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Schnittstellenkarte mit Zuständigkeits- und Nachweisfragen."
 ---
 
 # Räumung § 885 ZPO / Berliner Räumung § 885a ZPO

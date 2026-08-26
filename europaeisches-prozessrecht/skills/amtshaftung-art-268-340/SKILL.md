@@ -1,6 +1,6 @@
 ---
 name: amtshaftung-art-268-340
-description: "Prüft Schadensersatzklagen wegen außervertraglicher Haftung der Union nach Art. 268 und 340 AEUV mit qualifiziertem Rechtsverstoß, Schaden, Kausalität und Bezifferung."
+description: "Für Unionsamtshaftung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 # Unionsamtshaftung
 

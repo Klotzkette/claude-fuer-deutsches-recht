@@ -1,6 +1,6 @@
 ---
 name: investitionslinie-deckung-finden
-description: "Wenn es um Investitionslinie Deckung Finden in Haushaltsrecht BHO Bund und Länder geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Investitionslinie Deckung Finden: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Investitionslinie Deckung Finden

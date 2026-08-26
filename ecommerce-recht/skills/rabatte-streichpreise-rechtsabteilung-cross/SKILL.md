@@ -1,6 +1,6 @@
 ---
 name: rabatte-streichpreise-rechtsabteilung-cross
-description: "Wenn es um Rabatte Streichpreise Preisermäßigung PAngV in E-Commerce-Recht geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
+description: "Für Rabatte Streichpreise Preisermäßigung PAngV: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Rabatte Streichpreise Preisermäßigung PAngV

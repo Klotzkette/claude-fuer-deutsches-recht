@@ -1,6 +1,6 @@
 ---
 name: force-majeure-notice-claim-letter-under
-description: "Wenn es um Force-Majeure-Notifikationsschreiben in Internationales Handelsrecht und Lex Mercatoria geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Force-Majeure-Notifikationsschreiben: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Schnittstellenkarte mit Zuständigkeits- und Nachweisfragen."
 ---
 
 # Force-Majeure-Notifikationsschreiben

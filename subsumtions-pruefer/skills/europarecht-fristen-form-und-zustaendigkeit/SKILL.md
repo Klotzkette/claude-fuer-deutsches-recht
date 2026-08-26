@@ -1,6 +1,6 @@
 ---
 name: europarecht-fristen-form-und-zustaendigkeit
-description: "Wenn es um Europarecht: Fristen, Form, Zuständigkeit und Rechtsweg in Subsumtions-Prüfer geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Europarecht: Fristen, Form, Zuständigkeit und Rechtsweg: prüft Frist, Form, Zuständigkeit und Eilbedarf; Ergebnis: Fristen- und Risikoampel."
 ---
 
 # Europarecht: Fristen, Form, Zuständigkeit und Rechtsweg

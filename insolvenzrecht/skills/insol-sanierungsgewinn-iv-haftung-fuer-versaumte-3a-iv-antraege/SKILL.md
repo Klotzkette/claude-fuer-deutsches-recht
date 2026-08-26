@@ -1,6 +1,6 @@
 ---
 name: insol-sanierungsgewinn-iv-haftung-fuer-versaumte-3a-iv-antraege
-description: "Wenn es um Sanierungsgewinn — IV-Haftung fuer versaeumte Paragraph 3a-Antraege in Insolvenzrecht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen."
+description: "Für Sanierungsgewinn — IV-Haftung für versäumte Paragraph 3a-Anträge: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt. Fachgebiet: Insolvenzrecht. Route: insol-sanierungsgewinn-iv-haftung-fuer-versaumte-3a-iv-antraege."
 ---
 
 # Sanierungsgewinn — IV-Haftung fuer versaeumte Paragraph 3a-Antraege

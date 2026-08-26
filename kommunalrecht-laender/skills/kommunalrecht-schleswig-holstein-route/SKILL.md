@@ -1,6 +1,6 @@
 ---
 name: kommunalrecht-schleswig-holstein-route
-description: "Wenn es um Kommunalrecht Schleswig Holstein Route in Kommunalrecht der Länder geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Kommunalrecht Schleswig Holstein Route: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Kommunalrecht Schleswig Holstein Route

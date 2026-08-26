@@ -1,6 +1,6 @@
 ---
 name: einlassung-vorbereiten
-description: "Wenn es um Schriftliche Einlassung des Beschuldigten vorbereiten oder Schweigen Paragraf 136 StPO in Fachanwalt Strafrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Schriftliche Einlassung des Beschuldigten vorbereiten oder Schweigen Paragraf 136 StPO: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Schriftliche Einlassung des Beschuldigten vorbereiten oder Schweigen § 136 StPO

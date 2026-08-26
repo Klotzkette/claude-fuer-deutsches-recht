@@ -1,6 +1,6 @@
 ---
 name: landespressegesetz-kosten-deckeln
-description: "Wenn es um Landespressegesetz Kosten Deckeln in Informationsfreiheit und Presseauskunft geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Landespressegesetz Kosten Deckeln: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Landespressegesetz Kosten Deckeln

@@ -1,6 +1,6 @@
 ---
 name: raumstation-an-suborbitalflug-luftrecht
-description: "Wenn es um Weltraumrecht: Raumstation: Recht an Bord, Strafrecht, Arbeitsrecht, Medizin in Weltraumrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Weltraumrecht: Raumstation: Recht an Bord, Strafrecht, Arbeitsrecht, Medizin: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Weltraumrecht: Raumstation: Recht an Bord, Strafrecht, Arbeitsrecht, Medizin

@@ -1,6 +1,6 @@
 ---
 name: sanktion-bussgeldbescheid-65-owig-analyse
-description: "Wenn es um Bußgeldbescheid Paragraf 65 OWiG analysieren in Datenschutzrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Bußgeldbescheid Paragraf 65 OWiG analysieren: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt. Fachgebiet: Datenschutzrecht."
 ---
 
 # Bußgeldbescheid § 65 OWiG analysieren
@@ -49,3 +49,7 @@ Bei substanziellem Bußgeld-, Art.-58- oder Gerichtsrisiko lade zusätzlich `dat
 - Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und offizieller oder frei zugänglicher Quelle verwenden. Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate.
 - EuGH C-807/21 und C-683/21 nur mit sauberer Kernaussage nutzen: unmittelbare Unternehmensgeldbuße ja; verschuldenslose Haftung nein.
 - Wenn ein Punkt nicht verifiziert ist, als Prüfpunkt markieren und keine Scheinpräzision erzeugen.
+
+## Vertiefung bei Bedarf
+
+- Bei `dsv-sanktion-bussgeldbescheid-65-owig-analyse` beziehungsweise Datenschutzrecht-Brückenskill: Bußgeldbescheid § 65 OWiG analysieren: Tenor, Tat, Norm, Begründung, Bemessung, Zustellung und Rechtsbehelf des Bußgeldbescheids zerlegen: [die zusätzliche Vertiefung laden](./references/vertiefung-dsv-sanktion-bussgeldbescheid-65-owig-analyse.md).

@@ -1,6 +1,6 @@
 ---
 name: perspektiven-verhandlung-vergleich-und-eskalation
-description: "Wenn es um Perspektiven: Verhandlung, Vergleich und Eskalation in Tabellenreview 3D geht: entwickelt Verhandlungsziel, Vergleichskorridor und Eskalationspfad; liefert eine Verhandlungs- oder Eskalationslinie mit Optionen."
+description: "Für Perspektiven: Verhandlung, Vergleich und Eskalation: entwickelt Ziel, Vergleich und Eskalation; Ergebnis: Verhandlungs- oder Eskalationslinie. Fachgebiet: Tabellenreview 3D. Route: perspektiven-verhandlung-vergleich-und-eskalation."
 ---
 
 # Perspektiven: Verhandlung, Vergleich und Eskalation

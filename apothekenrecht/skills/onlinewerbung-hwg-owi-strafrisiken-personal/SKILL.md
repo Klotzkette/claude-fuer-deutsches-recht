@@ -1,6 +1,6 @@
 ---
 name: onlinewerbung-hwg-owi-strafrisiken-personal
-description: "Wenn es um Onlinewerbung HWG Apotheken in Apothekenrecht geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
+description: "Für Onlinewerbung HWG Apotheken: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Onlinewerbung HWG Apotheken

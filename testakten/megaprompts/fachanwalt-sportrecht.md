@@ -8,14 +8,14 @@ Diese Vollprüfung enthält top-10 von 79 Skills des Plugins `fachanwalt-sportre
 
 1. **juristischer-argumentationskern** — Schaltet sich ein, wenn in Fachanwalt Sportrecht ein juristisches Arbeitsprodukt tragfähig begründet werden muss; verbin…
 2. **sportverfahren-versandmappe-endfertigen** — Endfertigt Verbandsrechtsbehelf, DIS- oder CAS-Schriftsatz und staatlichen Eilantrag: trennt interne Instanz, Sportschie…
-3. **einstieg-routing** — Wenn es um Einstieg und Routing in Fachanwalt Sportrecht geht: klärt Rolle, Ziel, Frist, Unterlagen und den passenden nä…
-4. **mandat-triage-sportrecht** — Wenn es um Mandat Triage Sportrecht in Fachanwalt Sportrecht geht: klärt Rolle, Ziel, Frist, Unterlagen und den passende…
-5. **fachanwalt-sportrecht-orientierung** — Wenn es um Fachanwalt für Sportrecht — Orientierung in Fachanwalt Sportrecht geht: prüft Frist, Form, Zuständigkeit, Rec…
-6. **orientierung-fachanwaltschaft-mandat** — Wenn es um Orientierung Fachanwaltschaft Mandat in Fachanwalt Sportrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsw…
-7. **erstgespraech-mandatsannahme** — Wenn es um Erstgespraech Mandatsannahme in Fachanwalt Sportrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und S…
-8. **erstpruefung-und-mandatsziel** — Wenn es um Fachanwalt: Erstprüfung, Rollenklärung und Mandatsziel in Fachanwalt Sportrecht geht: klärt Rolle, Ziel, Fris…
-9. **eu-sportrecht-art-101-aeuv-eugh-c-333-21** — Prüft Zulassungs-, Sanktions- und Vermarktungsregeln von Sportverbänden nach Unionsrecht. Bestimmt wirtschaftliche Tätig…
-10. **fachanwalt-sportrecht-vereinsstrafrecht** — Wenn es um Vereinsstrafrecht in Fachanwalt Sportrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnah…
+3. **einstieg-routing** — Für Einstieg und Routing: routet Rolle, Frist, Unterlagen und Fachschritt; Ergebnis: Prüfprodukt mit Risiko und nächstem…
+4. **mandat-triage-sportrecht** — Für Mandat Triage Sportrecht: routet Rolle, Frist, Unterlagen und Fachschritt; Ergebnis: Prüfprodukt mit Risiko und näch…
+5. **orientierung-fachanwaltschaft-mandat** — Für Orientierung Fachanwaltschaft Mandat: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko un…
+6. **fachanwalt-sportrecht-orientierung** — Für Fachanwalt für Sportrecht — Orientierung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risik…
+7. **erstgespraech-mandatsannahme** — Für Erstgespräch Mandatsannahme: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächste…
+8. **erstpruefung-und-mandatsziel** — Für Fachanwalt: Erstprüfung, Rollenklärung und Mandatsziel: routet Rolle, Frist, Unterlagen und Fachschritt; Ergebnis: T…
+9. **sportanlagenlaerm-nachbarschutz-pruefen** — Prüft Lärmkonflikte zwischen Sportanlage und Nachbarschaft anhand Anlagenart, Gebietscharakter, Betriebszeit, seltenem E…
+10. **fachanwalt-sportrecht-vereinsstrafrecht** — Für Vereinsstrafrecht: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt.…
 
 ---
 
@@ -179,7 +179,7 @@ Liefere getrennte Ordner `verband/`, `schiedsgericht/` und `staatliches-gericht/
 
 ## Skill: `einstieg-routing`
 
-_Wenn es um Einstieg und Routing in Fachanwalt Sportrecht geht: klärt Rolle, Ziel, Frist, Unterlagen und den passenden nächsten Fachskill; liefert eine Fristen- und Risikoampel mit Sofortschritten._
+_Für Einstieg und Routing: routet Rolle, Frist, Unterlagen und Fachschritt; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt. Fachgebiet: Fachanwalt für Sportrecht._
 
 # Einstieg und Routing
 
@@ -223,7 +223,7 @@ Dieser Einstieg routet **Fachanwalt Sportrecht** vom ersten Sachverhalt zu Rolle
 
 ## Skill: `mandat-triage-sportrecht`
 
-_Wenn es um Mandat Triage Sportrecht in Fachanwalt Sportrecht geht: klärt Rolle, Ziel, Frist, Unterlagen und den passenden nächsten Fachskill; liefert eine Fristen- und Risikoampel mit Sofortschritten._
+_Für Mandat Triage Sportrecht: routet Rolle, Frist, Unterlagen und Fachschritt; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt._
 
 # Sportrechtliches Mandat eintrifft und muss strukturiert erfasst werden: Mandantenrolle Sachgebiet Sofort-Fristen
 
@@ -399,84 +399,9 @@ Arbeitsmodus: Liefere zuerst einen nutzbaren Zwischenstand in höchstens sieben 
 
 ---
 
-## Skill: `fachanwalt-sportrecht-orientierung`
-
-_Wenn es um Fachanwalt für Sportrecht — Orientierung in Fachanwalt Sportrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten._
-
-# Fachanwalt für Sportrecht — Orientierung
-
-## FAO-Voraussetzungen
-
-- Lehrgang 120 Stunden + drei Klausuren.
-- 50 Fälle in den letzten drei Jahren, davon mindestens 25 streitige.
-
-## Wichtige Normen
-
-| Bereich | Norm |
-|---|---|
-| Vereinsrecht | BGB §§ 21 ff. (eingetragener Verein) Vereinsrechtsgesetz |
-| Verbandsrecht | Satzungen der Sportverbände (DFB DFL UEFA FIFA DOSB IOC) |
-| Sportgerichtsbarkeit | Schiedsgerichte der Verbände Schiedsgerichtsbarkeit CAS Lausanne |
-| Doping | Welt-Anti-Doping-Code WADA-Code NADA-Code |
-| Anti-Doping-Gesetz | AntiDopG (Bundesgesetz seit 2015) |
-| Sportveranstaltung | StVO PolizeiR Versammlungsrecht Hausrecht des Veranstalters |
-| Arbeitsrecht im Sport | BGB Arbeitsrecht §§ 611 ff. TzBfG (Befristung Spielerverträge) |
-| Persönlichkeitsrecht | Art. 2 Abs. 1 GG iVm Art. 1 Abs. 1 GG KUG bei Bildverwertung |
-| Sponsoring | BGB AGB §§ 305 ff. UStG bei Sachsponsoring |
-| Steuerrecht im Sport | EStG (Einkünfte Sportler) StAuslG bei ausländischen Sportlern |
-| EU-Recht | TFEU Art. 165 Sportkompetenz EuGH-Bosman Rspr. Meca-Medina Rspr. |
-
-## Typische Mandate
-
-- Spielervertrag Profisportler (Befristung Verlängerung Auflösung)
-- Spielertransfer Ausgleichszahlung FIFA-Regularien
-- Dopingverfahren NADA / CAS
-- Sponsoringverträge
-- Vereinsrecht (Vorstandshaftung Vereinsausschluss)
-- Persönlichkeitsrechte Sportler / Bildveröffentlichung
-- Verbandsverfahren Sperren Sanktionen
-- Steuerrecht im internationalen Sport
-- Veranstalterhaftung (Stadionsicherheit Hausrecht)
-
-## Fristen
-
-- **Verbandsverfahren** Verbandsfristen prüfen — kurze Fristen (oft sieben bis 14 Tage).
-- **CAS-Berufung** 21 Tage nach Entscheidung der ersten Instanz (siehe CAS-Code).
-- **Dopingverfahren** NADA-Sanktionsverfahren mit eigenen Fristen.
-- **Allgemeines Vertragsrecht** Verjährung drei Jahre § 195 BGB.
-
-## Hauptforen
-
-- **Verbands-Schiedsgerichte** (DFB-Sportgericht DFB-Bundesgericht).
-- **DIS** Deutsche Institution für Schiedsgerichtsbarkeit für Sportverfahren.
-- **CAS** Court of Arbitration for Sport Lausanne (TAS).
-- **Ordentliche Gerichte** Vereinsrecht und Arbeitsrecht.
-- **EuGH** bei EU-rechtlichen Vorabentscheidungen.
-
-## Quellenregel
-
-Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
-## Berufsverband
-
-- Konstanzer Arbeitskreis für Sportrecht.
-- ARGE Sportrecht DAV.
-
-## Schnittstellen
-
-- **gesellschaftsrecht** bei Profisport-Gesellschaften (Kapitalgesellschaften e. V.).
-- **arbeitsrecht** bei Spielerverträgen.
-- **fachanwalt-internationales-wirtschaftsrecht** bei internationalen Sport-Schiedsverfahren.
-- **kanzlei-allgemein** Fristen Versand.
-
-## Ergaenzende Rechtsprechung (2026-Update)
-
-> Quellenregel: Entscheidungen nur nach Prüfung einer amtlichen oder frei zugänglichen Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage ausgeben.
-
----
-
 ## Skill: `orientierung-fachanwaltschaft-mandat`
 
-_Wenn es um Orientierung Fachanwaltschaft Mandat in Fachanwalt Sportrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten._
+_Für Orientierung Fachanwaltschaft Mandat: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt. Fachgebiet: Fachanwalt für Sportrecht._
 
 # Anwalt will Fachanwaltschaft Sportrecht erwerben oder Mandat im Sportrecht bearbeiten und braucht Orientierung
 
@@ -559,9 +484,84 @@ _Wenn es um Orientierung Fachanwaltschaft Mandat in Fachanwalt Sportrecht geht: 
 
 ---
 
+## Skill: `fachanwalt-sportrecht-orientierung`
+
+_Für Fachanwalt für Sportrecht — Orientierung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt._
+
+# Fachanwalt für Sportrecht — Orientierung
+
+## FAO-Voraussetzungen
+
+- Lehrgang 120 Stunden + drei Klausuren.
+- 50 Fälle in den letzten drei Jahren, davon mindestens 25 streitige.
+
+## Wichtige Normen
+
+| Bereich | Norm |
+|---|---|
+| Vereinsrecht | BGB §§ 21 ff. (eingetragener Verein) Vereinsrechtsgesetz |
+| Verbandsrecht | Satzungen der Sportverbände (DFB DFL UEFA FIFA DOSB IOC) |
+| Sportgerichtsbarkeit | Schiedsgerichte der Verbände Schiedsgerichtsbarkeit CAS Lausanne |
+| Doping | Welt-Anti-Doping-Code WADA-Code NADA-Code |
+| Anti-Doping-Gesetz | AntiDopG (Bundesgesetz seit 2015) |
+| Sportveranstaltung | StVO PolizeiR Versammlungsrecht Hausrecht des Veranstalters |
+| Arbeitsrecht im Sport | BGB Arbeitsrecht §§ 611 ff. TzBfG (Befristung Spielerverträge) |
+| Persönlichkeitsrecht | Art. 2 Abs. 1 GG iVm Art. 1 Abs. 1 GG KUG bei Bildverwertung |
+| Sponsoring | BGB AGB §§ 305 ff. UStG bei Sachsponsoring |
+| Steuerrecht im Sport | EStG (Einkünfte Sportler) StAuslG bei ausländischen Sportlern |
+| EU-Recht | TFEU Art. 165 Sportkompetenz EuGH-Bosman Rspr. Meca-Medina Rspr. |
+
+## Typische Mandate
+
+- Spielervertrag Profisportler (Befristung Verlängerung Auflösung)
+- Spielertransfer Ausgleichszahlung FIFA-Regularien
+- Dopingverfahren NADA / CAS
+- Sponsoringverträge
+- Vereinsrecht (Vorstandshaftung Vereinsausschluss)
+- Persönlichkeitsrechte Sportler / Bildveröffentlichung
+- Verbandsverfahren Sperren Sanktionen
+- Steuerrecht im internationalen Sport
+- Veranstalterhaftung (Stadionsicherheit Hausrecht)
+
+## Fristen
+
+- **Verbandsverfahren** Verbandsfristen prüfen — kurze Fristen (oft sieben bis 14 Tage).
+- **CAS-Berufung** 21 Tage nach Entscheidung der ersten Instanz (siehe CAS-Code).
+- **Dopingverfahren** NADA-Sanktionsverfahren mit eigenen Fristen.
+- **Allgemeines Vertragsrecht** Verjährung drei Jahre § 195 BGB.
+
+## Hauptforen
+
+- **Verbands-Schiedsgerichte** (DFB-Sportgericht DFB-Bundesgericht).
+- **DIS** Deutsche Institution für Schiedsgerichtsbarkeit für Sportverfahren.
+- **CAS** Court of Arbitration for Sport Lausanne (TAS).
+- **Ordentliche Gerichte** Vereinsrecht und Arbeitsrecht.
+- **EuGH** bei EU-rechtlichen Vorabentscheidungen.
+
+## Quellenregel
+
+Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
+## Berufsverband
+
+- Konstanzer Arbeitskreis für Sportrecht.
+- ARGE Sportrecht DAV.
+
+## Schnittstellen
+
+- **gesellschaftsrecht** bei Profisport-Gesellschaften (Kapitalgesellschaften e. V.).
+- **arbeitsrecht** bei Spielerverträgen.
+- **fachanwalt-internationales-wirtschaftsrecht** bei internationalen Sport-Schiedsverfahren.
+- **kanzlei-allgemein** Fristen Versand.
+
+## Ergaenzende Rechtsprechung (2026-Update)
+
+> Quellenregel: Entscheidungen nur nach Prüfung einer amtlichen oder frei zugänglichen Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage ausgeben.
+
+---
+
 ## Skill: `erstgespraech-mandatsannahme`
 
-_Wenn es um Erstgespraech Mandatsannahme in Fachanwalt Sportrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten._
+_Für Erstgespräch Mandatsannahme: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt. Fachgebiet: Fachanwalt für Sportrecht._
 
 # Strukturierter Erstgespraechsleitfaden für Sport- und Sponsoringrecht: Erfassung der Konstellation, Konflikt- und GwG-Check, Vollmacht, Streitwert/Gebührenvereinbarung, Fristen-Erstprognose und Handlungsweichen.
 
@@ -738,7 +738,7 @@ Frueheres Mandat mit derselben Gegnerin oder gleichem Sachzusammenhang. Prüfung
 
 ## Skill: `erstpruefung-und-mandatsziel`
 
-_Wenn es um Fachanwalt: Erstprüfung, Rollenklärung und Mandatsziel in Fachanwalt Sportrecht geht: klärt Rolle, Ziel, Frist, Unterlagen und den passenden nächsten Fachskill; liefert eine Fristen- und Risikoampel mit Sofortschritten._
+_Für Fachanwalt: Erstprüfung, Rollenklärung und Mandatsziel: routet Rolle, Frist, Unterlagen und Fachschritt; Ergebnis: Tatbestands- oder Anspruchsmatrix. Fachgebiet: Fachanwalt für Sportrecht._
 
 # Fachanwalt: Erstprüfung, Rollenklärung und Mandatsziel
 
@@ -789,57 +789,44 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 
 ---
 
-## Skill: `eu-sportrecht-art-101-aeuv-eugh-c-333-21`
+## Skill: `sportanlagenlaerm-nachbarschutz-pruefen`
 
-_Prüft Zulassungs-, Sanktions- und Vermarktungsregeln von Sportverbänden nach Unionsrecht. Bestimmt wirtschaftliche Tätigkeit, Markt, Doppelrolle, Wettbewerbsbeschränkung, Dominanz und objektive Kriterien und liefert Regelwerksaudit, Eilverfahren und kartellrechtliche Angriffs- oder Rechtfertigungslinie._
+_Prüft Lärmkonflikte zwischen Sportanlage und Nachbarschaft anhand Anlagenart, Gebietscharakter, Betriebszeit, seltenem Ereignis und Messprognose und erstellt eine belastbare Genehmigungs-, Abwehr- oder Planungsstrategie._
 
-# Sportverbandsregeln nach Unionsrecht prüfen
+# Sportanlagenlärm und Nachbarschutz prüfen
 
-## 1. Einsatzlage
+## 1. Einsatz und Ziel
 
-Ein Verband genehmigt Wettbewerbe, sanktioniert Teilnehmer und vermarktet zugleich eigene Veranstaltungen oder Medienrechte. Diese regulatorische Doppelrolle verlangt transparente, objektive, nicht diskriminierende und verhältnismäßige Kriterien; Sport ist nicht pauschal vom Unionsrecht ausgenommen.
+Ordne zuerst die Geräuschquelle ein. Sportanlage, Kinderspielplatz, Freibad, Schulsport, Freizeitveranstaltung und gewerbliche Nutzung können unterschiedlichen Regelwerken unterliegen.
 
 ## 2. Normenanker
 
-- Artikel 101 AEUV: Beschlüsse von Unternehmensvereinigungen und Wettbewerbsbeschränkung.
-- Artikel 102 AEUV: Missbrauch einer beherrschenden Stellung.
-- Artikel 56 AEUV: freier Dienstleistungsverkehr bei grenzüberschreitenden Wettbewerben und Vermarktung.
-- Artikel 165 AEUV: Besonderheiten und gesellschaftliche Funktion des Sports, ohne generelle Bereichsausnahme.
-- Paragrafen 19, 20, 32 und 33 GWB für die ergänzende deutsche Anspruchs- und Verfahrensprüfung.
+- Paragrafen 22 und 24 BImSchG: Betreiberpflichten und behördliche Anordnungen bei nicht genehmigungsbedürftigen Anlagen.
+- Achtzehnte BImSchV: Sportanlagenbegriff, Immissionsrichtwerte, Beurteilungszeiten, Zuschläge und seltene Ereignisse.
+- Paragraf 15 Absatz 1 Satz 2 BauNVO: planungsrechtliches Rücksichtnahmegebot.
+- Paragraf 22 Absatz 1a BImSchG: privilegierte Geräuscheinwirkungen bestimmter Einrichtungen für Kinder.
 
-## 3. Rechtsprechungsanker
+## 3. Verifizierter Rechtsprechungsanker
 
-- EuGH, Urteil vom 21. Dezember 2023 - C-333/21, European Superleague Company: Die damaligen FIFA- und UEFA-Regeln über Vorabgenehmigung, Sanktionen und Medienrechte verstießen gegen Unionsrecht, weil die Befugnisse nicht durch transparente, objektive, nicht diskriminierende und verhältnismäßige materielle Kriterien und Verfahrensregeln begrenzt waren.
-- EuGH, Urteil vom 21. Dezember 2023 - C-124/21 P, International Skating Union: Genehmigungs- und Sanktionsregeln eines Sportverbands mit eigener wirtschaftlicher Tätigkeit können eine bezweckte Wettbewerbsbeschränkung bilden; auch die Schiedsregelung ist in ihrer tatsächlichen Wirkung auf effektiven Rechtsschutz zu prüfen.
-- EuGH, Urteil vom 21. Dezember 2023 - C-680/21, Royal Antwerp Football Club: Regeln zu lokal ausgebildeten Spielern können Freizügigkeit und Wettbewerb beschränken; das nationale Gericht muss Eignung, Erforderlichkeit und konkrete Ausgestaltung prüfen.
+- BVerwG, Urteil vom 10.05.2022, 4 CN 2.20: Bei der Bauleitplanung für eine Gemengelage aus Wohnbebauung und Sportanlage dürfen die Richtwerte der Achtzehnten BImSchV zur Konfliktbewältigung herangezogen werden; Gebietseinstufung und planerischer Ausgleich bleiben konkret zu begründen.
 
 ## 4. Prüfprogramm
 
-1. Regelsetzer, Adressaten, Wettbewerb, Sanktionen und wirtschaftliche Tätigkeiten erfassen. Regulierung und eigene Vermarktung getrennt darstellen.
-2. Relevante Märkte und grenzüberschreitende Wirkung bestimmen: Veranstaltungsorganisation, Clubteilnahme, Athletenleistungen, Medienrechte, Sponsoring und Ticketing.
-3. Artikel 101 und 102 AEUV eigenständig prüfen. Unternehmensvereinigung, Marktbeherrschung und Missbrauch nicht gleichsetzen.
-4. Genehmigungskriterien auf Vorhersehbarkeit, Transparenz, Objektivität, Nichtdiskriminierung, Verhältnismäßigkeit, Frist und unabhängige Überprüfung testen.
-5. Sanktionen nach Tatbestand, Höhe, Dauer, Adressat und Abschreckungswirkung untersuchen. Drohungen gegen Clubs, Athleten und Dritte gesondert erfassen.
-6. Sportbezogene Ziele konkretisieren und mit Belegen prüfen. Integrität, Kalender, Sicherheit und Solidarität rechtfertigen keine unbegrenzte Ermessensmacht.
-7. Eilbedürftigkeit, Zuständigkeit, anwendbares Recht, Schiedsklausel und kartellrechtliche Schadensersatz- oder Unterlassungsansprüche planen.
+1. Anlage, Betreiber, Genehmigung, Nutzungsarten und tatsächliche Betriebszeiten erfassen.
+2. Schutzwürdigen Immissionsort und Gebietscharakter bestimmen.
+3. Regelbetrieb, Ruhezeiten, Nacht, Spitzenpegel und seltene Ereignisse getrennt berechnen.
+4. Messung oder Prognose auf Quellen, Zuschläge, Fremdgeräusche und Wetterbedingungen prüfen.
+5. Bestands- und Planungslage, aktive Schutzmaßnahmen, Betriebsbeschränkung und Zumutbarkeit abwägen.
 
 ## 5. Arbeitsergebnis
 
-Erstelle Doppelrollen- und Marktkarte, Kriterienaudit, Sanktionsmatrix, Verhältnismäßigkeitsprüfung und einen Eilantrag, Beschwerdeentwurf oder überarbeitetes Regelwerk. Jede Rechtfertigung erhält Ziel, Beleg und mildere Alternative.
-
-## 6. Belege und Aktenlücken
-
-- Statuten, Genehmigungs- und Sanktionsregeln
-- Entscheidungs- und Rechtsmittelpraxis des Verbands
-- Markt-, Medien- und Vermarktungsverträge
-- Kommunikation mit Clubs, Athleten und Veranstaltern
-- Kalender-, Sicherheits- und Integritätsnachweise
+Erstelle Nutzungs- und Pegelmatrix, Beweisfragen für den Akustiker sowie einen Antrag, Widerspruch, Auflagenvorschlag oder eine Klagebegründung.
 
 ---
 
 ## Skill: `fachanwalt-sportrecht-vereinsstrafrecht`
 
-_Wenn es um Vereinsstrafrecht in Fachanwalt Sportrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. Auswahlstichwort: Fachanwalt Sportrecht Vereinsstrafrecht; Arbeitsfeld: Fachanwalt Sportrecht._
+_Für Vereinsstrafrecht: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt. Fachgebiet: Fachanwalt für Sportrecht. Route: fachanwalt-sportrecht-vereinsstrafrecht._
 
 # Vereinsstrafrecht
 

@@ -1,6 +1,6 @@
 ---
 name: laienhilfe-beweise-atteste
-description: "Wenn es um Laienhilfe: Beweise Atteste in Fachanwalt Sozialrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Laienhilfe: Beweise Atteste: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Beweislast- und Substantiierungsmatrix."
 ---
 
 # Laienhilfe: Beweise Atteste

@@ -1,6 +1,6 @@
 ---
 name: beziehungsmatrix-personen-taten
-description: "Wenn es um Beziehungsmatrix Personen/Taten in Aktenaufbereiter Strafrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Beziehungsmatrix Personen/Taten: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Beziehungsmatrix Personen/Taten

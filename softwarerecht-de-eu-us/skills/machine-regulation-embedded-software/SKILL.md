@@ -1,6 +1,6 @@
 ---
 name: machine-regulation-embedded-software
-description: "Wenn es um Embedded Software Maschinenverordnung in Softwarerecht Deutschland/EU/International/USA geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen."
+description: "Für Embedded Software Maschinenverordnung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Embedded Software Maschinenverordnung

@@ -1,6 +1,6 @@
 ---
 name: interne-ermittlung-junior
-description: "Wenn es um Interne Ermittlung Junior in Berufsrecht Wirtschaftsprüfer geht: klärt Rolle, Ziel, Frist, Unterlagen und den passenden nächsten Fachskill; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Interne Ermittlung Junior: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Wirtschaftsprüfer: interne ermittlung und reporting - Kaltstart mit Faktenmatrix, Risikoampel und fehlenden Unterlagen

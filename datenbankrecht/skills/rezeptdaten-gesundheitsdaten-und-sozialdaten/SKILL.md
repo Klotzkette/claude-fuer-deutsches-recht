@@ -1,6 +1,6 @@
 ---
 name: rezeptdaten-gesundheitsdaten-und-sozialdaten
-description: "Wenn es um Rezeptdaten, Gesundheitsdaten und Sozialdaten — Datenbankrecht und Datenschutz in Datenbankrecht und Datenbankherstellerrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Rezeptdaten, Gesundheitsdaten und Sozialdaten — Datenbankrecht und Datenschutz: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Rezeptdaten, Gesundheitsdaten und Sozialdaten — Datenbankrecht und Datenschutz

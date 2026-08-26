@@ -1,6 +1,6 @@
 ---
 name: mitzuverarbeitende-bausubstanz
-description: "Wenn es um Mitzuverarbeitende Bausubstanz Im Bestand in HOAI Leistungsphasen Praxis geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Mitzuverarbeitende Bausubstanz im Bestand: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Mitzuverarbeitende Bausubstanz Im Bestand

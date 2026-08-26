@@ -1,6 +1,6 @@
 ---
 name: loeschpflicht-archivierung-loseblattwerk
-description: "Wenn es um Loeschpflicht und Archivierung in Verlagsredaktion geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Löschpflicht und Archivierung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Loeschpflicht und Archivierung

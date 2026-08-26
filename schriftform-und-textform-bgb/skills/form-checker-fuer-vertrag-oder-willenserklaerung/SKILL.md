@@ -1,6 +1,6 @@
 ---
 name: form-checker-fuer-vertrag-oder-willenserklaerung
-description: "Wenn es um Form-Checker — Vertrag oder Willenserklärung in Schriftform und Textform im BGB geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Form-Checker — Vertrag oder Willenserklärung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Form-Checker — Vertrag oder Willenserklärung

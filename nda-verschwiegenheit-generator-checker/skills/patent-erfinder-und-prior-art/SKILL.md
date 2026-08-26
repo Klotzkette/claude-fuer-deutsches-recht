@@ -1,6 +1,6 @@
 ---
 name: patent-erfinder-und-prior-art
-description: "Wenn es um Patent Erfinder Und Prior Art in NDA-Generator und Verschwiegenheitsvereinbarungs-Checker geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
+description: "Für Patent Erfinder und Prior Art: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Patent Erfinder Und Prior Art

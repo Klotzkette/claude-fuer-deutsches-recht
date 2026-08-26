@@ -1,6 +1,6 @@
 ---
 name: sitzungs-terminvorbereitung-syndikus-inhouse
-description: "Wenn es um Sitzungs- und Terminvorbereitung in Berufsrecht Wirtschaftsprüfer geht: entwickelt Verhandlungsziel, Vergleichskorridor und Eskalationspfad; liefert eine Verhandlungs- oder Eskalationslinie mit Optionen."
+description: "Für Sitzungs- und Terminvorbereitung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt. Fachgebiet: Berufsrecht Wirtschaftsprüfer."
 ---
 
 # Sitzungs- und Terminvorbereitung

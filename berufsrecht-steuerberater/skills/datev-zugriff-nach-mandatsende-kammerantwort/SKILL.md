@@ -1,6 +1,6 @@
 ---
 name: datev-zugriff-nach-mandatsende-kammerantwort
-description: "Wenn es um Datev Zugriff Nach Mandatsende Kammerantwort in Berufsrecht Steuerberater geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Verhandlungs- oder Eskalationslinie mit Optionen."
+description: "Für DATEV Zugriff nach Mandatsende Kammerantwort: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Steuerberater: datev zugriff nach mandatsende - Kammerantwort mit Verfahrensstrategie, Tonlage und Belegplan

@@ -1,6 +1,6 @@
 ---
 name: usucapio-ersitzung
-description: "Wenn es um Usucapio Ersitzung in Römisches Recht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Usucapio Ersitzung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Usucapio Ersitzung

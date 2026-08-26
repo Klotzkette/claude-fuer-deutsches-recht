@@ -1,6 +1,6 @@
 ---
 name: berufsausuebungsgesellschaft-und-fremdbesitz-kammerant
-description: "Wenn es um Berufsausuebungsgesellschaft Und Fremdbesitz Kammerant in Berufsrecht Anwälte geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Verhandlungs- oder Eskalationslinie mit Optionen."
+description: "Für Berufsausübungsgesellschaft und Fremdbesitz Kammerant: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Anwälte: berufsausuebungsgesellschaft und fremdbesitz - Kammerantwort mit Verfahrensstrategie, Tonlage und Belegplan

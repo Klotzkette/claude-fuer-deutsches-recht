@@ -1,6 +1,6 @@
 ---
 name: inso-grundtatbestand-129
-description: "Wenn es um Grundtatbestand Insolvenzanfechtung — Paragraf 129 InsO in bereicherungs-und-anfechtungsrecht-prüfer geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. Auswahlstichwort: Inso Grundtatbestand 129; Arbeitsfeld: bereicherungs-und-anfechtungsrecht-prüfer."
+description: "Für Grundtatbestand Insolvenzanfechtung — Paragraf 129 InsO: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Tatbestands- oder Anspruchsmatrix."
 ---
 
 # Grundtatbestand Insolvenzanfechtung — § 129 InsO

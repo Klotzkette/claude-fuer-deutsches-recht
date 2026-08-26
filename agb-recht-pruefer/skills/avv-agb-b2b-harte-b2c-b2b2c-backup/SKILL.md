@@ -1,6 +1,6 @@
 ---
 name: avv-agb-b2b-harte-b2c-b2b2c-backup
-description: "Wenn es um AVV und AGB Schnittstelle in AGB-Recht-Prüfer geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen. Auswahlstichwort: Avv Agb B2b Harte B2c B2b2c Backup; Arbeitsfeld: AGB-Recht-Prüfer."
+description: "Für AVV und AGB Schnittstelle: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt. Fachgebiet: AGB-Recht-Prüfer. Route: avv-agb-b2b-harte-b2c-b2b2c-backup."
 ---
 
 # AVV und AGB Schnittstelle

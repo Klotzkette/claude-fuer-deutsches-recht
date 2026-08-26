@@ -1,6 +1,6 @@
 ---
 name: entlassung-und-statusbeendigung
-description: "Wenn es um Entlassung Und Statusbeendigung in Beamtenrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Entlassung und Statusbeendigung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Entlassung Und Statusbeendigung

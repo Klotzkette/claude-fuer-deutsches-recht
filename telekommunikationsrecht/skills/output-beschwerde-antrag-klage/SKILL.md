@@ -1,6 +1,6 @@
 ---
 name: output-beschwerde-antrag-klage
-description: "Wenn es um Output-Generator: Beschwerde, Antrag, Klage, Stellungnahme in Telekommunikationsrecht geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
+description: "Für Output-Generator: Beschwerde, Antrag, Klage, Stellungnahme: erstellt Entwurf mit Antrag, Beweis und Anlagen; Ergebnis: Schriftsatz mit Begründungs- und Anlagenlogik."
 ---
 
 # Output-Generator: Beschwerde, Antrag, Klage, Stellungnahme

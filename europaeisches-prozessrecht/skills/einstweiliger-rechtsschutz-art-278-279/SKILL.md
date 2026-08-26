@@ -1,6 +1,6 @@
 ---
 name: einstweiliger-rechtsschutz-art-278-279
-description: "Baut Anträge auf Aussetzung und einstweilige Anordnung nach Art. 278 und 279 AEUV mit Dringlichkeit, fumus boni iuris, Interessenabwägung und Belegpflicht."
+description: "Für Einstweiliger Rechtsschutz: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt. Fachgebiet: Europäisches Prozessrecht."
 ---
 # Einstweiliger Rechtsschutz
 

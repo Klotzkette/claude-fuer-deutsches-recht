@@ -1,6 +1,6 @@
 ---
 name: insanw-konzerninsolvenz-koordination-spezial
-description: "Wenn es um Insanw Konzerninsolvenz Koordination Spezial in Fachanwalt Insolvenz- und Sanierungsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Insanw Konzerninsolvenz Koordination Spezial: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Spezialfall Konzerninsolvenz §§ 3a ff

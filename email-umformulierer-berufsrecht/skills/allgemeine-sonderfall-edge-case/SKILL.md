@@ -1,6 +1,6 @@
 ---
 name: allgemeine-sonderfall-edge-case
-description: "Wenn es um Allgemeine: Sonderfall und Edge-Case-Prüfung in E-Mail-Umformulierer geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Allgemeine: Sonderfall und Edge-Case-Prüfung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Allgemeine: Sonderfall und Edge-Case-Prüfung

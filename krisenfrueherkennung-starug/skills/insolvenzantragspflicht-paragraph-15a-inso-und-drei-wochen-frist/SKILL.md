@@ -1,6 +1,6 @@
 ---
 name: insolvenzantragspflicht-paragraph-15a-inso-und-drei-wochen-frist
-description: "Prüft die Insolvenzantragspflicht nach Paragraf 15a InsO ab objektivem Eintritt von Zahlungsunfähigkeit oder Überschuldung. Trennt Drei- und Sechswochen-Höchstzeitraum, Kenntnis, Sanierungsbemühungen, Zahlungen und StaRUG-Route; liefert Status, Ereigniszeitachse, Organmemo und sofort umsetzbaren Antragsfahrplan."
+description: "Prüft die Insolvenzantragspflicht nach Paragraf 15a InsO ab objektivem Eintritt von Zahlungsunfähigkeit oder Überschuldung."
 ---
 
 # 1. Insolvenzantragspflicht nach Paragraf 15a InsO

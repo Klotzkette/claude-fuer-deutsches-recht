@@ -1,6 +1,6 @@
 ---
 name: abschluss-und-neustart
-description: "Wenn es um Abschluss Und Neustart in Verbraucherinsolvenz und Schuldenbereinigung geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Abschluss und Neustart: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Schnittstellenkarte mit Zuständigkeits- und Nachweisfragen."
 ---
 
 # Abschluss und Neustart: RSB-Beschluss, Auskunfteien, Budget, neue Verträge, Mahnungen und Nachsorge.

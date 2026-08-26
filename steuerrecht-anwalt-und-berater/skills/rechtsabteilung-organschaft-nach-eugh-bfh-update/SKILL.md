@@ -1,6 +1,6 @@
 ---
 name: rechtsabteilung-organschaft-nach-eugh-bfh-update
-description: "Wenn es um Rechtsabteilung: Organschaft nach EuGH/BFH-Update in Steuerrecht – Steuerberater und Anwälte geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Beweislast- und Substantiierungsmatrix. Auswahlstichwort: Rechtsabteilung Organschaft Nach Eugh Bfh Update; Arbeitsfeld: Steuerrecht – Steuerberater und Anwälte."
+description: "Für Rechtsabteilung: Organschaft nach EuGH/BFH-Update: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Schnittstellenkarte mit Zuständigkeits- und Nachweisfragen. Fachgebiet: Steuerrecht – Steuerberater und Anwälte. Route: rechtsabteilung-organschaft-nach-eugh-bfh-update."
 ---
 
 # Rechtsabteilung: Organschaft nach EuGH/BFH-Update

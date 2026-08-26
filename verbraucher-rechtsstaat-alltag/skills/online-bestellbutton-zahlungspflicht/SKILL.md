@@ -1,6 +1,6 @@
 ---
 name: online-bestellbutton-zahlungspflicht
-description: "Wenn es um Online-Bestellbutton Und Zahlungspflicht in Verbraucher im Rechtsstaat Alltag geht: rechnet Schwellen, Beträge, Varianten und Kontrollannahmen durch; liefert eine Berechnungstabelle mit Schwellen, Annahmen und Kontrollfragen."
+description: "Für Online-Bestellbutton und Zahlungspflicht: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Online-Bestellbutton Und Zahlungspflicht

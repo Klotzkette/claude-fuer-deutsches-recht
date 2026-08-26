@@ -1,6 +1,6 @@
 ---
 name: haemovigilanz-blutprodukt
-description: "Wenn es um Haemovigilanz Blutprodukt in Fachanwalt Medizinrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Hämovigilanz Blutprodukt: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Hämovigilanz und Blutprodukt: moderner Medizinrechts-Skill für Transfusion, Verwechslung, Infektion, Chargenfreigabe, Rückverfolgung und PEI-Meldung

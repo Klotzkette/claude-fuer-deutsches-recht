@@ -1,6 +1,6 @@
 ---
 name: ueberschuldung-fristen-form-und-zustaendigkeit
-description: "Wenn es um Ueberschuldung: Fristen, Form, Zuständigkeit und Rechtsweg in Insolvenzrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Überschuldung: Fristen, Form, Zuständigkeit und Rechtsweg: prüft Frist, Form, Zuständigkeit und Eilbedarf; Ergebnis: Fristen- und Risikoampel."
 ---
 
 # Ueberschuldung: Fristen, Form, Zuständigkeit und Rechtsweg

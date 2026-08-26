@@ -1,6 +1,6 @@
 ---
 name: space-019-erdbeobachtung-datenschutz-geheimschutz-geodaten
-description: "Wenn es um Weltraumrecht: Erdbeobachtung Datenschutz Geheimschutz und Geodatenrecht in Weltraumrecht geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Weltraumrecht: Erdbeobachtung Datenschutz Geheimschutz und Geodatenrecht: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Weltraumrecht: Erdbeobachtung Datenschutz Geheimschutz und Geodatenrecht

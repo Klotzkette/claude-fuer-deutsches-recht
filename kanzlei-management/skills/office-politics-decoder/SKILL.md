@@ -1,6 +1,6 @@
 ---
 name: office-politics-decoder
-description: "Wenn es um Office Politics Decoder in Kanzlei Management geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Office Politics Decoder: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Office Politics Decoder

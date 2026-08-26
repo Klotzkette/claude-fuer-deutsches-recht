@@ -1,6 +1,6 @@
 ---
 name: due-diligence-commercial-und-legal
-description: "Wenn es um Due Diligence — Commercial Contracts in Corporate-Kanzlei geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. Auswahlstichwort: Due Diligence Commercial Und Legal; Arbeitsfeld: Corporate-Kanzlei."
+description: "Für Due Diligence — Commercial Contracts: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt. Fachgebiet: Corporate-Kanzlei. Route: due-diligence-commercial-und-legal."
 ---
 
 # Due Diligence — Commercial Contracts

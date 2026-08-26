@@ -1,6 +1,6 @@
 ---
 name: landesverband-ohne-untergliederung
-description: "Wenn es um Landesverband ohne Untergliederung in Parteienrecht und Parteiorganisation geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Landesverband ohne Untergliederung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Landesverband ohne Untergliederung

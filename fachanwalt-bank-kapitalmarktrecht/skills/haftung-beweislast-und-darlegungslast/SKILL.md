@@ -1,6 +1,6 @@
 ---
 name: haftung-beweislast-und-darlegungslast
-description: "Wenn es um Haftung: Beweislast, Darlegungslast und Substantiierung in Fachanwalt Bank Kapitalmarktrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Haftung: Beweislast, Darlegungslast und Substantiierung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Beweislast- und Substantiierungsmatrix."
 ---
 
 # Haftung: Beweislast, Darlegungslast und Substantiierung

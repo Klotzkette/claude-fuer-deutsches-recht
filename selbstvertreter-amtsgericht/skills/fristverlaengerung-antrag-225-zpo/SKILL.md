@@ -1,6 +1,6 @@
 ---
 name: fristverlaengerung-antrag-225-zpo
-description: "Wenn es um Eine Frist verlaengern: Antrag richtig stellen in selbstvertreter-amtsgericht geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Eine Frist verlängern: Antrag richtig stellen: erstellt Entwurf mit Antrag, Beweis und Anlagen; Ergebnis: Fristen- und Risikoampel."
 ---
 
 # Eine Frist verlaengern: Antrag richtig stellen

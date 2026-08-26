@@ -1,6 +1,6 @@
 ---
 name: eingangsdaten-idw-s6-liqp
-description: "Wenn es um Liqui Eingangsdaten IDW S6 Liqp in Liquiditätsplanung — Power geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Liqui Eingangsdaten IDW S6 Liqp: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Liqui Eingangsdaten IDW S6 Liqp

@@ -1,6 +1,6 @@
 ---
 name: anhoerung-erwiderung-anwalt-freier
-description: "Wenn es um Anhörung und Erwiderung in Sozialversicherungsstatus-Prüfer / DRV-Statusfeststellung geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Anhörung und Erwiderung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Anhörung und Erwiderung

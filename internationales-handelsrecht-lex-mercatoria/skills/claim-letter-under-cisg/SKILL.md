@@ -1,6 +1,6 @@
 ---
 name: claim-letter-under-cisg
-description: "Wenn es um Claim-Letter unter CISG in Internationales Handelsrecht und Lex Mercatoria geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Claim-Letter unter CISG: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Claim-Letter unter CISG

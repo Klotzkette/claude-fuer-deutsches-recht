@@ -1,6 +1,6 @@
 ---
 name: einziehung-und-ausschluss-gesellschafter
-description: "Wenn es um Einziehung und Ausschluss von Gesellschaftern in Gesellschaftsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Einziehung und Ausschluss von Gesellschaftern: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 # Einziehung und Ausschluss von Gesellschaftern
 

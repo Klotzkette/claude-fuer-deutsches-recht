@@ -1,6 +1,6 @@
 ---
 name: zeugnisklarheit-objektiver-empfaengerhorizont
-description: "Prüft zweideutige Formulierungen und vermeintliche Geheimcodes aus Sicht eines objektiven Zeugnislesers und im Zusammenhang des gesamten Textes. Liefert eine Klarheitsanalyse mit Wortlaut, Kontext, möglicher Lesart und rechtssicherer Ersatzfassung."
+description: "Prüft zweideutige Formulierungen und vermeintliche Geheimcodes aus Sicht eines objektiven Zeugnislesers und im Zusammenhang des gesamten Textes."
 ---
 
 # Zeugnisklarheit — objektiver Empfängerhorizont (BAG 9 AZR 352/04; 9 AZR 386/10)

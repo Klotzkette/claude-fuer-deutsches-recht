@@ -1,6 +1,6 @@
 ---
 name: bess-versicherung-und-schadenfall
-description: "Wenn es um Versicherung und Schadenfallmanagement in Energierecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Versicherung und Schadenfallmanagement: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Versicherung und Schadenfallmanagement

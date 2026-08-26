@@ -1,6 +1,6 @@
 ---
 name: krankenversicherung-pflegeversicherung-schnittstelle-pflegegrad
-description: "Wenn es um Pflegeversicherung: Schnittstelle Pflegegrad in Krankenkassenrecht und Krankenversicherung geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Pflegeversicherung: Schnittstelle Pflegegrad: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Pflegeversicherung: Schnittstelle Pflegegrad

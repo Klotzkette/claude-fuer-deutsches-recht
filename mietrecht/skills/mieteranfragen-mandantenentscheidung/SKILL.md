@@ -1,6 +1,6 @@
 ---
 name: mieteranfragen-mandantenentscheidung
-description: "Wenn es um Mieteranfragen: Mandantenkommunikation und Entscheidungsvorlage in Mietrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Mieteranfragen: Mandantenkommunikation und Entscheidungsvorlage: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Mieteranfragen: Mandantenkommunikation und Entscheidungsvorlage

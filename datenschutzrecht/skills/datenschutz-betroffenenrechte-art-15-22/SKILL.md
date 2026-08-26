@@ -1,6 +1,6 @@
 ---
 name: datenschutz-betroffenenrechte-art-15-22
-description: "Wenn es um Datenschutz Betroffenenrechte — Art. 15 bis 22 DSGVO orchestriert in Datenschutzrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Datenschutz Betroffenenrechte — Art. 15 bis 22 DSGVO orchestriert: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Datenschutz Betroffenenrechte — Art. 15 bis 22 DSGVO orchestriert

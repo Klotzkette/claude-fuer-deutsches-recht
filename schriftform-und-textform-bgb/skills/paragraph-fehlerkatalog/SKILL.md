@@ -1,6 +1,6 @@
 ---
 name: paragraph-fehlerkatalog
-description: "Wenn es um Paragraph Fehlerkatalog in Schriftform und Textform im BGB geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Paragraph Fehlerkatalog: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Paragraph Fehlerkatalog

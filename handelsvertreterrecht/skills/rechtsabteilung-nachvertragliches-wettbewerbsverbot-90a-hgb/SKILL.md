@@ -1,6 +1,6 @@
 ---
 name: rechtsabteilung-nachvertragliches-wettbewerbsverbot-90a-hgb
-description: "Wenn es um Rechtsabteilung: Nachvertragliches Wettbewerbsverbot Paragraf 90a HGB in Handelsvertreterrecht und Vertriebsverträge geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
+description: "Für Rechtsabteilung: Nachvertragliches Wettbewerbsverbot Paragraf 90a HGB: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Rechtsabteilung: Nachvertragliches Wettbewerbsverbot § 90a HGB

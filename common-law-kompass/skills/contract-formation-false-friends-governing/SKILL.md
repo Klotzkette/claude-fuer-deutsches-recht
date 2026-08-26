@@ -1,6 +1,6 @@
 ---
 name: contract-formation-false-friends-governing
-description: "Wenn es um Contract Formation und Consideration in Common-Law-Kompass für deutsche Wirtschaftsjuristen geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Contract Formation und Consideration: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Contract Formation und Consideration

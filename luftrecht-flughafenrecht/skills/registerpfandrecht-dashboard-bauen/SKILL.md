@@ -1,6 +1,6 @@
 ---
 name: registerpfandrecht-dashboard-bauen
-description: "Wenn es um Registerpfandrecht – Dashboard bauen in Luftrecht und Flughafenrecht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert einen Einreichungsplan mit Form-, Portal- und Nachweischeck."
+description: "Für Registerpfandrecht – Dashboard bauen: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Einreichungsplan mit Form- und Nachweischeck."
 ---
 
 # Registerpfandrecht – Dashboard bauen

@@ -1,6 +1,6 @@
 ---
 name: bamf-anhoerung-strategie
-description: "Wenn es um Bamf Anhoerung Strategie in Fachanwalt Migrationsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Bamf Anhörung Strategie: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Verhandlungs- oder Eskalationslinie."
 ---
 
 # Anwalt bereitet Behördenkommunikation BAMF-Anhörung oder Visumverfahren vor und braucht Strategierahmen

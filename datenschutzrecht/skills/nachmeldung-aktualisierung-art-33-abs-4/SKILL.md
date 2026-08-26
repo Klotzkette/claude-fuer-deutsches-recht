@@ -1,6 +1,6 @@
 ---
 name: nachmeldung-aktualisierung-art-33-abs-4
-description: "Wenn es um Nachmeldung und Aktualisierung nach Art. 33 Abs. 4 DSGVO in Datenschutzrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Nachmeldung und Aktualisierung nach Art. 33 Abs. 4 DSGVO: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Nachmeldung und Aktualisierung nach Art. 33 Abs. 4 DSGVO
@@ -52,3 +52,7 @@ Mit dieser Nachmeldung gilt die Meldung als endgültig.
 - `dsv-bussgeldverteidigung-art-83` und `dsv-schadensersatz-art-82` decken die anwaltliche Nachbearbeitung ab.
 
 - `dsv-meldung-art-33-pflichtangaben` deckt die Erstmeldung ab.
+
+## Vertiefung bei Bedarf
+
+- Bei `dsv-nachmeldung-aktualisierung-art-33-abs-4` beziehungsweise Erstellt die Nachmeldung zu einer vorläufigen Erstmeldung nach Art: [die zusätzliche Vertiefung laden](./references/vertiefung-dsv-nachmeldung-aktualisierung-art-33-abs-4.md).

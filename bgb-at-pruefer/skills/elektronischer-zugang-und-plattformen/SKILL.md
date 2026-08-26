@@ -1,6 +1,6 @@
 ---
 name: elektronischer-zugang-und-plattformen
-description: "Wenn es um Elektronischer Zugang und Plattformen — Paragraf 130 BGB digital in BGB AT Prüfer geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
+description: "Für Elektronischer Zugang und Plattformen — Paragraf 130 BGB digital: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Elektronischer Zugang und Plattformen — § 130 BGB digital

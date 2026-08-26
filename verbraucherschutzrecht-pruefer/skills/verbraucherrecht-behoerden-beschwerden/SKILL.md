@@ -1,6 +1,6 @@
 ---
 name: verbraucherrecht-behoerden-beschwerden
-description: "Wenn es um Verbraucherrecht Behoerden Beschwerden in Verbraucherschutzrecht Prüfer geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert eine Beweislast- und Substantiierungsmatrix."
+description: "Für Verbraucherrecht Behörden Beschwerden: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Behörden- und Ombudsstellenrouter: Verbraucherzentrale, Schlichtung, BaFin, BNetzA, Datenschutz, Marktüberwachung.

@@ -1,6 +1,6 @@
 ---
 name: renewal-review-routing
-description: "Wenn es um Renewal: Schriftsatz-, Brief- und Memo-Bausteine in Vertragsrecht geht: klärt Rolle, Ziel, Frist, Unterlagen und den passenden nächsten Fachskill; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Renewal: Schriftsatz-, Brief- und Memo-Bausteine: routet Rolle, Frist, Unterlagen und Fachschritt; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Renewal: Schriftsatz-, Brief- und Memo-Bausteine

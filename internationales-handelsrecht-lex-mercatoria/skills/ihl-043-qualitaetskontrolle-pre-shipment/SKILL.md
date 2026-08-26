@@ -1,6 +1,6 @@
 ---
 name: ihl-043-qualitaetskontrolle-pre-shipment
-description: "Wenn es um Qualitaetskontrolle Pre Shipment in Internationales Handelsrecht und Lex Mercatoria geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Qualitätskontrolle Pre Shipment: prüft Ergebnis, Beweislast und Gegenposition; Ergebnis: Gegenprüfung mit Beweis- und Fristencheck."
 ---
 
 # Qualitaetskontrolle Pre Shipment

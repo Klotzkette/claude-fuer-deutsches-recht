@@ -1,6 +1,6 @@
 ---
 name: document-production-earn-out
-description: "Wenn es um Document Production in commercial-courts-deutschland geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Beweislast- und Substantiierungsmatrix."
+description: "Für Document Production: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Document Production

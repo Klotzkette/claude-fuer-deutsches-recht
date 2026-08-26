@@ -1,6 +1,6 @@
 ---
 name: defense-dual-use-fdi
-description: "Wenn es um Defense, Dual Use und FDI in Venture Capital Geber geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Defense, Dual Use und FDI: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Defense, Dual Use und FDI

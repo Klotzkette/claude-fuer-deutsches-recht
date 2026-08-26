@@ -1,6 +1,6 @@
 ---
 name: ki-training-mit-datenbankbestand
-description: "Wenn es um digitale Werkzeuge-Training mit Datenbankbeständen — Datenbankrecht und TDM-Schranken in Datenbankrecht und Datenbankherstellerrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für digitale Werkzeuge-Training mit Datenbankbeständen — Datenbankrecht und TDM-Schranken: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # KI-Training mit Datenbankbeständen — Datenbankrecht und TDM-Schranken

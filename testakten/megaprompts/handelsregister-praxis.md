@@ -7,15 +7,15 @@ Diese Vollprüfung enthält top-10 von 78 Skills des Plugins `handelsregister-pr
 ## Inhaltsverzeichnis
 
 1. **juristischer-argumentationskern** — Schaltet sich ein, wenn in Handelsregister Praxis ein juristisches Arbeitsprodukt tragfähig begründet werden muss; verbi…
-2. **rechtsabteilung-geschaeftsfuehrerbestellung-mit-auslandsbezug** — Wenn es um Rechtsabteilung: Geschäftsführerbestellung mit Auslandsbezug in Handelsregister Praxis geht: ordnet Sachverha…
-3. **rechtsabteilung-kapitalerhoehung-und-zwischenverfuegung** — Wenn es um Rechtsabteilung: Kapitalerhöhung und Zwischenverfügung in Handelsregister Praxis geht: ordnet Sachverhalt, No…
-4. **rechtsabteilung-insolvenzvermerk** — Wenn es um Rechtsabteilung: Insolvenzvermerk und ausländischer Trustee in Handelsregister Praxis geht: ordnet Sachverhal…
-5. **rechtsabteilung-mopeg-gesellschaftsregister-und-ohg-sprung** — Wenn es um Rechtsabteilung: MoPeG-Gesellschaftsregister und OHG-Sprung in Handelsregister Praxis geht: ordnet Sachverhal…
-6. **rechtsabteilung-gesellschafterliste-nach-streit-und-ev** — Wenn es um Rechtsabteilung: Gesellschafterliste nach Streit und EV in Handelsregister Praxis geht: ordnet Sachverhalt, N…
-7. **registergericht-rollen-datenschutz** — Wenn es um Rechtspfleger, Registerrichter, Geschäftsstelle in Handelsregister Praxis geht: ordnet Sachverhalt, Norm, Bew…
-8. **gesellschafterlistenstreit-eilstrategie-gmbh** — Wenn es um Gesellschafterlistenstreit strategisch führen in Handelsregister Praxis geht: ordnet Sachverhalt, Norm, Bewei…
-9. **zweigniederlassung-auslaendische-gesellschaft** — Wenn es um Zweigniederlassung Auslaendische Gesellschaft in Handelsregister Praxis geht: ordnet Sachverhalt, Norm, Bewei…
-10. **sitz-inlandsanschrift-und-geschaeftsanschrift** — Wenn es um Sitz, Geschäftsanschrift, Zustellung in Handelsregister Praxis geht: erstellt den passenden Entwurf aus Sachv…
+2. **rechtsabteilung-geschaeftsfuehrerbestellung-mit-auslandsbezug** — Für Rechtsabteilung: Geschäftsführerbestellung mit Auslandsbezug: ordnet Norm, Beweislast und Gegenargument; Ergebnis: S…
+3. **rechtsabteilung-mopeg-gesellschaftsregister-und-ohg-sprung** — Für Rechtsabteilung: MoPeG-Gesellschaftsregister und OHG-Sprung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Ei…
+4. **rechtsabteilung-insolvenzvermerk** — Für Rechtsabteilung: Insolvenzvermerk und ausländischer Trustee: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Pr…
+5. **rechtsabteilung-gesellschafterliste-nach-streit-und-ev** — Für Rechtsabteilung: Gesellschafterliste nach Streit und EV: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfpr…
+6. **rechtsabteilung-kapitalerhoehung-und-zwischenverfuegung** — Für Rechtsabteilung: Kapitalerhöhung und Zwischenverfügung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfpro…
+7. **gmbh-satzungsaenderung-handelsvollmacht-nicht** — Für Satzungsänderung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt. …
+8. **auslandsurkunden-apostille-legalisation-uebersetzung** — Für Auslandsurkunden registerfest machen: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Schnittstellenkarte mit Z…
+9. **registergericht-rollen-datenschutz** — Für Rechtspfleger, Registerrichter, Geschäftsstelle: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Einreichungspl…
+10. **beanstandung-zwischenverfuegung** — Für Beanstandung und Zwischenverfügung beantworten: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit…
 
 ---
 
@@ -138,7 +138,7 @@ Ausgangspunkt für dieses Plugin: Anspruchsteller für Pflichtverletzung, Schade
 
 ## Skill: `rechtsabteilung-geschaeftsfuehrerbestellung-mit-auslandsbezug`
 
-_Wenn es um Rechtsabteilung: Geschäftsführerbestellung mit Auslandsbezug in Handelsregister Praxis geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen._
+_Für Rechtsabteilung: Geschäftsführerbestellung mit Auslandsbezug: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Schnittstellenkarte mit Zuständigkeits- und Nachweisfragen._
 
 # Rechtsabteilung: Geschäftsführerbestellung mit Auslandsbezug
 
@@ -199,11 +199,11 @@ Identität, Versicherung, Unterschrift und Übersetzung werden sauber vorbereite
 
 ---
 
-## Skill: `rechtsabteilung-kapitalerhoehung-und-zwischenverfuegung`
+## Skill: `rechtsabteilung-mopeg-gesellschaftsregister-und-ohg-sprung`
 
-_Wenn es um Rechtsabteilung: Kapitalerhöhung und Zwischenverfügung in Handelsregister Praxis geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt._
+_Für Rechtsabteilung: MoPeG-Gesellschaftsregister und OHG-Sprung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Einreichungsplan mit Form- und Nachweischeck._
 
-# Rechtsabteilung: Kapitalerhöhung und Zwischenverfügung
+# Rechtsabteilung: MoPeG-Gesellschaftsregister und OHG-Sprung
 
 ## Normenanker
 
@@ -230,16 +230,16 @@ Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei pr
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
-## Spezialkern: Rechtsabteilung: Kapitalerhöhung und Zwischenverfügung
+## Spezialkern: Rechtsabteilung: MoPeG-Gesellschaftsregister und OHG-Sprung
 
-- **Konkretes Problem:** Zwischenverfügungen werden in heilbare Punkte, Streitpunkte und Beschwerde sortiert.
+- **Konkretes Problem:** GbR, eGbR, OHG und Grundstücksfähigkeit werden registerlogisch abgegrenzt.
 - **Norm-/Quellenanker:** HGB, GmbHG, AktG, MoPeG/Gesellschaftsregister, FamFG, HRV, Registerportal, notarielle Einreichung und Zwischenverfügungspraxis.
 - **Entscheidende Weiche:** Tatbestand, Dokumentenbeweis, Zuständigkeit, Frist, Rechtsfolge, Gegenargument und Eskalationsweg getrennt entscheiden; keine bloße To-do-Liste liefern.
 - **Arbeitsprodukt:** Rechtsabteilungsfähige Kurzentscheidung mit Ampel, Originalbelegen, offener-Tatsachen-Liste, Formulierungsvorschlag und nächstem Owner.
 
 ## Norm- und Rechtsprechungsanker
 
-GmbHG §§ 55 ff.; FamFG; Notarunterlagen
+MoPeG, HGB, BGB-Gesellschaftsregister
 
 ## Sofortprüfung
 
@@ -251,7 +251,7 @@ GmbHG §§ 55 ff.; FamFG; Notarunterlagen
 
 ## Fachlicher Zuschnitt
 
-Zwischenverfügungen werden in heilbare Punkte, Streitpunkte und Beschwerde sortiert.
+GbR, eGbR, OHG und Grundstücksfähigkeit werden registerlogisch abgegrenzt.
 
 ## Output für die Rechtsabteilung
 
@@ -264,7 +264,7 @@ Zwischenverfügungen werden in heilbare Punkte, Streitpunkte und Beschwerde sort
 
 ## Skill: `rechtsabteilung-insolvenzvermerk`
 
-_Wenn es um Rechtsabteilung: Insolvenzvermerk und ausländischer Trustee in Handelsregister Praxis geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert einen Einreichungsplan mit Form-, Portal- und Nachweischeck._
+_Für Rechtsabteilung: Insolvenzvermerk und ausländischer Trustee: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt._
 
 # Rechtsabteilung: Insolvenzvermerk und ausländischer Trustee
 
@@ -333,72 +333,9 @@ Vertretungsmacht ausländischer Insolvenzorgane wird registertauglich nachgewies
 
 ---
 
-## Skill: `rechtsabteilung-mopeg-gesellschaftsregister-und-ohg-sprung`
-
-_Wenn es um Rechtsabteilung: MoPeG-Gesellschaftsregister und OHG-Sprung in Handelsregister Praxis geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert einen Einreichungsplan mit Form-, Portal- und Nachweischeck._
-
-# Rechtsabteilung: MoPeG-Gesellschaftsregister und OHG-Sprung
-
-## Normenanker
-
-Vor einer rechtlichen Schlussfolgerung diese Anker am aktuellen Normtext prüfen; Spezial- und Landesrecht nur hinzunehmen, wenn es den konkreten Auftrag traegt:
-
-- `§ 8 HGB` — Handelsregister.
-- `§ 12 HGB` — Anmeldungen und Einreichungen.
-- `§ 15 HGB` — Publizitaet des Handelsregisters.
-- `§ 29 HGB` — Anmeldung des Kaufmanns.
-- `§ 106 HGB` — Eintragung der OHG.
-- `§ 107 HGB` — Anmeldepflichten Personengesellschaft.
-- `§ 39 GmbHG` — Änderung der Geschäftsführung.
-- `§ 40 GmbHG` — Gesellschafterliste.
-- `§ 382 FamFG` — Registeranmeldung und Zwischenverfuegung.
-- `§ 395 FamFG` — Loeschungsverfahren.
-
-Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei prüfbare Quelle vorliegen; keine BeckRS-/juris-Blindzitate verwenden.
-
-## Arbeitsweg
-
-- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
-- Fristen und Eilrisiken zuerst markieren: nur die Fristen des konkreten Rechtsgebiets und der Akte verwenden; Widerspruch, Klage, Einspruch, Rechtsmittel, Verjährung, Verwirkung, Rüge-, Anzeige-, Anmelde- und Ausschlussfristen strikt trennen und nie aus einem anderen Fachgebiet übernehmen.
-- Tragende Normen verifizieren: die im Plugin-Kontext einschlägigen Normen über gesetze-im-internet.de, dejure.org, eur-lex.europa.eu und die amtlichen Bundes-/Landesportale live prüfen — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
-- Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
-- Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
-
-## Spezialkern: Rechtsabteilung: MoPeG-Gesellschaftsregister und OHG-Sprung
-
-- **Konkretes Problem:** GbR, eGbR, OHG und Grundstücksfähigkeit werden registerlogisch abgegrenzt.
-- **Norm-/Quellenanker:** HGB, GmbHG, AktG, MoPeG/Gesellschaftsregister, FamFG, HRV, Registerportal, notarielle Einreichung und Zwischenverfügungspraxis.
-- **Entscheidende Weiche:** Tatbestand, Dokumentenbeweis, Zuständigkeit, Frist, Rechtsfolge, Gegenargument und Eskalationsweg getrennt entscheiden; keine bloße To-do-Liste liefern.
-- **Arbeitsprodukt:** Rechtsabteilungsfähige Kurzentscheidung mit Ampel, Originalbelegen, offener-Tatsachen-Liste, Formulierungsvorschlag und nächstem Owner.
-
-## Norm- und Rechtsprechungsanker
-
-MoPeG, HGB, BGB-Gesellschaftsregister
-
-## Sofortprüfung
-
-1. Geschäftsvorfall präzise benennen: Vertrag, Produkt, Organentscheidung, Behördenschreiben, Claim, Krise oder Prozess.
-2. Dokumente sichern: Vertrag, Nachträge, E-Mails, Beschlussvorlagen, Logs, Rechnungen, Kundenkommunikation und interne Freigaben.
-3. Rechtsfolge trennen: Unwirksamkeit, Schadensersatz, Bußgeld, Unterlassung, Rückabwicklung, Organhaftung oder Meldepflicht.
-4. Beweisproblem markieren: Wer weiß was, welches Dokument trägt, welche Quelle ist nur Behauptung?
-5. Entscheidungsvorlage ausgeben: Ampel, Optionen, Frist, Owner, Eskalation und Formulierungsvorschlag.
-
-## Fachlicher Zuschnitt
-
-GbR, eGbR, OHG und Grundstücksfähigkeit werden registerlogisch abgegrenzt.
-
-## Output für die Rechtsabteilung
-
-- One-page legal memo mit Risikoampel und klarer Empfehlung.
-- Belegmatrix mit Originalquelle, Datum, Verantwortlichem und Lücke.
-- Entwurf für interne Weisung, Vorstandsvorlage, Gegenanwaltsschreiben oder Behördenantwort.
-- Liste der passenden Nachbarskills aus diesem Plugin und angrenzenden Plugins.
-
----
-
 ## Skill: `rechtsabteilung-gesellschafterliste-nach-streit-und-ev`
 
-_Wenn es um Rechtsabteilung: Gesellschafterliste nach Streit und EV in Handelsregister Praxis geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert einen Einreichungsplan mit Form-, Portal- und Nachweischeck._
+_Für Rechtsabteilung: Gesellschafterliste nach Streit und EV: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt._
 
 # Rechtsabteilung: Gesellschafterliste nach Streit und EV
 
@@ -467,9 +404,170 @@ Rechtsabteilungen bauen registertaugliche Listenpakete und Widerspruchsstrategie
 
 ---
 
+## Skill: `rechtsabteilung-kapitalerhoehung-und-zwischenverfuegung`
+
+_Für Rechtsabteilung: Kapitalerhöhung und Zwischenverfügung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt._
+
+# Rechtsabteilung: Kapitalerhöhung und Zwischenverfügung
+
+## Normenanker
+
+Vor einer rechtlichen Schlussfolgerung diese Anker am aktuellen Normtext prüfen; Spezial- und Landesrecht nur hinzunehmen, wenn es den konkreten Auftrag traegt:
+
+- `§ 8 HGB` — Handelsregister.
+- `§ 12 HGB` — Anmeldungen und Einreichungen.
+- `§ 15 HGB` — Publizitaet des Handelsregisters.
+- `§ 29 HGB` — Anmeldung des Kaufmanns.
+- `§ 106 HGB` — Eintragung der OHG.
+- `§ 107 HGB` — Anmeldepflichten Personengesellschaft.
+- `§ 39 GmbHG` — Änderung der Geschäftsführung.
+- `§ 40 GmbHG` — Gesellschafterliste.
+- `§ 382 FamFG` — Registeranmeldung und Zwischenverfuegung.
+- `§ 395 FamFG` — Loeschungsverfahren.
+
+Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei prüfbare Quelle vorliegen; keine BeckRS-/juris-Blindzitate verwenden.
+
+## Arbeitsweg
+
+- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
+- Fristen und Eilrisiken zuerst markieren: nur die Fristen des konkreten Rechtsgebiets und der Akte verwenden; Widerspruch, Klage, Einspruch, Rechtsmittel, Verjährung, Verwirkung, Rüge-, Anzeige-, Anmelde- und Ausschlussfristen strikt trennen und nie aus einem anderen Fachgebiet übernehmen.
+- Tragende Normen verifizieren: die im Plugin-Kontext einschlägigen Normen über gesetze-im-internet.de, dejure.org, eur-lex.europa.eu und die amtlichen Bundes-/Landesportale live prüfen — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
+- Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
+- Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
+
+## Spezialkern: Rechtsabteilung: Kapitalerhöhung und Zwischenverfügung
+
+- **Konkretes Problem:** Zwischenverfügungen werden in heilbare Punkte, Streitpunkte und Beschwerde sortiert.
+- **Norm-/Quellenanker:** HGB, GmbHG, AktG, MoPeG/Gesellschaftsregister, FamFG, HRV, Registerportal, notarielle Einreichung und Zwischenverfügungspraxis.
+- **Entscheidende Weiche:** Tatbestand, Dokumentenbeweis, Zuständigkeit, Frist, Rechtsfolge, Gegenargument und Eskalationsweg getrennt entscheiden; keine bloße To-do-Liste liefern.
+- **Arbeitsprodukt:** Rechtsabteilungsfähige Kurzentscheidung mit Ampel, Originalbelegen, offener-Tatsachen-Liste, Formulierungsvorschlag und nächstem Owner.
+
+## Norm- und Rechtsprechungsanker
+
+GmbHG §§ 55 ff.; FamFG; Notarunterlagen
+
+## Sofortprüfung
+
+1. Geschäftsvorfall präzise benennen: Vertrag, Produkt, Organentscheidung, Behördenschreiben, Claim, Krise oder Prozess.
+2. Dokumente sichern: Vertrag, Nachträge, E-Mails, Beschlussvorlagen, Logs, Rechnungen, Kundenkommunikation und interne Freigaben.
+3. Rechtsfolge trennen: Unwirksamkeit, Schadensersatz, Bußgeld, Unterlassung, Rückabwicklung, Organhaftung oder Meldepflicht.
+4. Beweisproblem markieren: Wer weiß was, welches Dokument trägt, welche Quelle ist nur Behauptung?
+5. Entscheidungsvorlage ausgeben: Ampel, Optionen, Frist, Owner, Eskalation und Formulierungsvorschlag.
+
+## Fachlicher Zuschnitt
+
+Zwischenverfügungen werden in heilbare Punkte, Streitpunkte und Beschwerde sortiert.
+
+## Output für die Rechtsabteilung
+
+- One-page legal memo mit Risikoampel und klarer Empfehlung.
+- Belegmatrix mit Originalquelle, Datum, Verantwortlichem und Lücke.
+- Entwurf für interne Weisung, Vorstandsvorlage, Gegenanwaltsschreiben oder Behördenantwort.
+- Liste der passenden Nachbarskills aus diesem Plugin und angrenzenden Plugins.
+
+---
+
+## Skill: `gmbh-satzungsaenderung-handelsvollmacht-nicht`
+
+_Für Satzungsänderung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt. Fachgebiet: Handelsregister Praxis._
+
+# Satzungsänderung
+
+## Normenanker
+
+Vor einer rechtlichen Schlussfolgerung diese Anker am aktuellen Normtext prüfen; Spezial- und Landesrecht nur hinzunehmen, wenn es den konkreten Auftrag traegt:
+
+- `§ 8 HGB` — Handelsregister.
+- `§ 12 HGB` — Anmeldungen und Einreichungen.
+- `§ 15 HGB` — Publizitaet des Handelsregisters.
+- `§ 29 HGB` — Anmeldung des Kaufmanns.
+- `§ 106 HGB` — Eintragung der OHG.
+- `§ 107 HGB` — Anmeldepflichten Personengesellschaft.
+- `§ 39 GmbHG` — Änderung der Geschäftsführung.
+- `§ 40 GmbHG` — Gesellschafterliste.
+- `§ 382 FamFG` — Registeranmeldung und Zwischenverfuegung.
+- `§ 395 FamFG` — Loeschungsverfahren.
+
+Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei prüfbare Quelle vorliegen; keine BeckRS-/juris-Blindzitate verwenden.
+
+## Arbeitsweg
+
+- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
+- Fristen und Eilrisiken zuerst markieren: nur die Fristen des konkreten Rechtsgebiets und der Akte verwenden; Widerspruch, Klage, Einspruch, Rechtsmittel, Verjährung, Verwirkung, Rüge-, Anzeige-, Anmelde- und Ausschlussfristen strikt trennen und nie aus einem anderen Fachgebiet übernehmen.
+- Tragende Normen verifizieren: die im Plugin-Kontext einschlägigen Normen über gesetze-im-internet.de, dejure.org, eur-lex.europa.eu und die amtlichen Bundes-/Landesportale live prüfen — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
+- Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
+- Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
+
+## Fachlicher Zuschnitt
+
+Prüft Beschlussmehrheit, notarielle Beurkundung, vollständige Neufassung, Gegenstand, Firma, Sitz, Kapital und Anmeldung.
+
+## Quellenrahmen
+
+HGB §§ 8 ff. und § 15, FamFG-Registerverfahrensrecht, GmbHG/HGB/AktG/UmwG je nach Gesellschaftsform, HRV/Registerportal-Praxis.
+
+## Arbeitsmodus
+
+1. **Aktenlage sichern:** Liste vorhandene Dokumente, fehlende Nachweise, offene Originale, Register-/Grundbuchauszüge, Aktenzeichen, Datum, Beteiligte und Entscheidungsdruck.
+2. **Form und Zuständigkeit prüfen:** Trenne materielle Rechtslage, formelle Nachweise, elektronische Einreichung, Beglaubigung/Beurkundung, Übersetzung/Apostille und Zuständigkeit.
+3. **Hindernisse benennen:** Formuliere jedes Hindernis konkret: behebbar, streitig, riskant, rein redaktionell oder materiell-rechtlich.
+4. **Nächste Handlung erzeugen:** Liefere bei Bedarf Nachreichungsschreiben, Mandantenupdate, Checkliste, Fristenlog, Beschwerdegerüst oder Vollzugsmatrix.
+5. **Belegdisziplin:** Zitiere Normen nur, wenn sie zum Schritt passen. Rechtsprechung nur mit Gericht, Datum, Aktenzeichen und frei prüfbarem Link; sonst ausdrücklich als zu verifizieren markieren.
+
+---
+
+## Skill: `auslandsurkunden-apostille-legalisation-uebersetzung`
+
+_Für Auslandsurkunden registerfest machen: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Schnittstellenkarte mit Zuständigkeits- und Nachweisfragen._
+
+# Auslandsurkunden registerfest machen
+
+## Normenanker
+
+Vor einer rechtlichen Schlussfolgerung diese Anker am aktuellen Normtext prüfen; Spezial- und Landesrecht nur hinzunehmen, wenn es den konkreten Auftrag traegt:
+
+- `§ 8 HGB` — Handelsregister.
+- `§ 12 HGB` — Anmeldungen und Einreichungen.
+- `§ 15 HGB` — Publizitaet des Handelsregisters.
+- `§ 29 HGB` — Anmeldung des Kaufmanns.
+- `§ 106 HGB` — Eintragung der OHG.
+- `§ 107 HGB` — Anmeldepflichten Personengesellschaft.
+- `§ 39 GmbHG` — Änderung der Geschäftsführung.
+- `§ 40 GmbHG` — Gesellschafterliste.
+- `§ 382 FamFG` — Registeranmeldung und Zwischenverfuegung.
+- `§ 395 FamFG` — Loeschungsverfahren.
+
+Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei prüfbare Quelle vorliegen; keine BeckRS-/juris-Blindzitate verwenden.
+
+## Arbeitsweg
+
+- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
+- Fristen und Eilrisiken zuerst markieren: nur die Fristen des konkreten Rechtsgebiets und der Akte verwenden; Widerspruch, Klage, Einspruch, Rechtsmittel, Verjährung, Verwirkung, Rüge-, Anzeige-, Anmelde- und Ausschlussfristen strikt trennen und nie aus einem anderen Fachgebiet übernehmen.
+- Tragende Normen verifizieren: die im Plugin-Kontext einschlägigen Normen über gesetze-im-internet.de, dejure.org, eur-lex.europa.eu und die amtlichen Bundes-/Landesportale live prüfen — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
+- Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
+- Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
+
+## Fachlicher Zuschnitt
+
+Prüft Apostille, Legalisation, beglaubigte Übersetzung, Existenznachweis und Vertretungsnachweis.
+
+## Quellenrahmen
+
+HGB §§ 8 ff. und § 15, FamFG-Registerverfahrensrecht, GmbHG/HGB/AktG/UmwG je nach Gesellschaftsform, HRV/Registerportal-Praxis.
+
+## Arbeitsmodus
+
+1. **Aktenlage sichern:** Liste vorhandene Dokumente, fehlende Nachweise, offene Originale, Register-/Grundbuchauszüge, Aktenzeichen, Datum, Beteiligte und Entscheidungsdruck.
+2. **Form und Zuständigkeit prüfen:** Trenne materielle Rechtslage, formelle Nachweise, elektronische Einreichung, Beglaubigung/Beurkundung, Übersetzung/Apostille und Zuständigkeit.
+3. **Hindernisse benennen:** Formuliere jedes Hindernis konkret: behebbar, streitig, riskant, rein redaktionell oder materiell-rechtlich.
+4. **Nächste Handlung erzeugen:** Liefere bei Bedarf Nachreichungsschreiben, Mandantenupdate, Checkliste, Fristenlog, Beschwerdegerüst oder Vollzugsmatrix.
+5. **Belegdisziplin:** Zitiere Normen nur, wenn sie zum Schritt passen. Rechtsprechung nur mit Gericht, Datum, Aktenzeichen und frei prüfbarem Link; sonst ausdrücklich als zu verifizieren markieren.
+
+---
+
 ## Skill: `registergericht-rollen-datenschutz`
 
-_Wenn es um Rechtspfleger, Registerrichter, Geschäftsstelle in Handelsregister Praxis geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert einen Einreichungsplan mit Form-, Portal- und Nachweischeck._
+_Für Rechtspfleger, Registerrichter, Geschäftsstelle: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Einreichungsplan mit Form- und Nachweischeck._
 
 # Rechtspfleger, Registerrichter, Geschäftsstelle
 
@@ -516,114 +614,11 @@ HGB §§ 8 ff. und § 15, FamFG-Registerverfahrensrecht, GmbHG/HGB/AktG/UmwG je 
 
 ---
 
-## Skill: `gesellschafterlistenstreit-eilstrategie-gmbh`
+## Skill: `beanstandung-zwischenverfuegung`
 
-_Wenn es um Gesellschafterlistenstreit strategisch führen in Handelsregister Praxis geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert einen Einreichungsplan mit Form-, Portal- und Nachweischeck._
+_Für Beanstandung und Zwischenverfügung beantworten: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt._
 
-# Gesellschafterlistenstreit strategisch führen
-
-## Normenanker
-
-Vor einer rechtlichen Schlussfolgerung diese Anker am aktuellen Normtext prüfen; Spezial- und Landesrecht nur hinzunehmen, wenn es den konkreten Auftrag traegt:
-
-- `§ 8 HGB` — Handelsregister.
-- `§ 12 HGB` — Anmeldungen und Einreichungen.
-- `§ 15 HGB` — Publizitaet des Handelsregisters.
-- `§ 29 HGB` — Anmeldung des Kaufmanns.
-- `§ 106 HGB` — Eintragung der OHG.
-- `§ 107 HGB` — Anmeldepflichten Personengesellschaft.
-- `§ 39 GmbHG` — Änderung der Geschäftsführung.
-- `§ 40 GmbHG` — Gesellschafterliste.
-- `§ 382 FamFG` — Registeranmeldung und Zwischenverfuegung.
-- `§ 395 FamFG` — Loeschungsverfahren.
-
-Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei prüfbare Quelle vorliegen; keine BeckRS-/juris-Blindzitate verwenden.
-
-## Arbeitsweg
-
-- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
-- Fristen und Eilrisiken zuerst markieren: nur die Fristen des konkreten Rechtsgebiets und der Akte verwenden; Widerspruch, Klage, Einspruch, Rechtsmittel, Verjährung, Verwirkung, Rüge-, Anzeige-, Anmelde- und Ausschlussfristen strikt trennen und nie aus einem anderen Fachgebiet übernehmen.
-- Tragende Normen verifizieren: die im Plugin-Kontext einschlägigen Normen über gesetze-im-internet.de, dejure.org, eur-lex.europa.eu und die amtlichen Bundes-/Landesportale live prüfen — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
-- Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
-- Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
-
-## Fachlicher Zuschnitt
-
-Ordnet Anspruch, einstweilige Verfügung, Registersperre, materiellen Streit und Kommunikation mit Registergericht/Notar.
-
-## Quellenrahmen
-
-HGB §§ 8 ff. und § 15, FamFG-Registerverfahrensrecht, GmbHG/HGB/AktG/UmwG je nach Gesellschaftsform, HRV/Registerportal-Praxis.
-
-## Arbeitsmodus
-
-1. **Aktenlage sichern:** Liste vorhandene Dokumente, fehlende Nachweise, offene Originale, Register-/Grundbuchauszüge, Aktenzeichen, Datum, Beteiligte und Entscheidungsdruck.
-2. **Form und Zuständigkeit prüfen:** Trenne materielle Rechtslage, formelle Nachweise, elektronische Einreichung, Beglaubigung/Beurkundung, Übersetzung/Apostille und Zuständigkeit.
-3. **Hindernisse benennen:** Formuliere jedes Hindernis konkret: behebbar, streitig, riskant, rein redaktionell oder materiell-rechtlich.
-4. **Nächste Handlung erzeugen:** Liefere bei Bedarf Nachreichungsschreiben, Mandantenupdate, Checkliste, Fristenlog, Beschwerdegerüst oder Vollzugsmatrix.
-5. **Belegdisziplin:** Zitiere Normen nur, wenn sie zum Schritt passen. Rechtsprechung nur mit Gericht, Datum, Aktenzeichen und frei prüfbarem Link; sonst ausdrücklich als zu verifizieren markieren.
-
----
-
-## Skill: `zweigniederlassung-auslaendische-gesellschaft`
-
-_Wenn es um Zweigniederlassung Auslaendische Gesellschaft in Handelsregister Praxis geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert einen Einreichungsplan mit Form-, Portal- und Nachweischeck._
-
-# Prüft Registerfähigkeit, Nachweise aus dem Herkunftsstaat, Übersetzung, Vertretungsmacht und deutsche Geschäftsanschrift.
-
-
-## Normenanker
-
-Vor einer rechtlichen Schlussfolgerung diese Anker am aktuellen Normtext prüfen; Spezial- und Landesrecht nur hinzunehmen, wenn es den konkreten Auftrag traegt:
-
-- `§ 8 HGB` — Handelsregister.
-- `§ 12 HGB` — Anmeldungen und Einreichungen.
-- `§ 15 HGB` — Publizitaet des Handelsregisters.
-- `§ 29 HGB` — Anmeldung des Kaufmanns.
-- `§ 106 HGB` — Eintragung der OHG.
-- `§ 107 HGB` — Anmeldepflichten Personengesellschaft.
-- `§ 39 GmbHG` — Änderung der Geschäftsführung.
-- `§ 40 GmbHG` — Gesellschafterliste.
-- `§ 382 FamFG` — Registeranmeldung und Zwischenverfuegung.
-- `§ 395 FamFG` — Loeschungsverfahren.
-
-Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei prüfbare Quelle vorliegen; keine BeckRS-/juris-Blindzitate verwenden.
-
-## Arbeitsweg
-
-- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
-- Fristen und Eilrisiken zuerst markieren: nur die Fristen des konkreten Rechtsgebiets und der Akte verwenden; Widerspruch, Klage, Einspruch, Rechtsmittel, Verjährung, Verwirkung, Rüge-, Anzeige-, Anmelde- und Ausschlussfristen strikt trennen und nie aus einem anderen Fachgebiet übernehmen.
-- Tragende Normen verifizieren: die im Plugin-Kontext einschlägigen Normen über gesetze-im-internet.de, dejure.org, eur-lex.europa.eu und die amtlichen Bundes-/Landesportale live prüfen — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
-- Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
-- Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
-
-**Fokus:** Prüft Registerfähigkeit, Nachweise aus dem Herkunftsstaat, Übersetzung, Vertretungsmacht und deutsche Geschäftsanschrift.
-
-### Zweigniederlassung ausländischer Gesellschaft
-
-## Fachlicher Zuschnitt
-
-Prüft Registerfähigkeit, Nachweise aus dem Herkunftsstaat, Übersetzung, Vertretungsmacht und deutsche Geschäftsanschrift.
-
-## Quellenrahmen
-
-HGB §§ 8 ff. und § 15, FamFG-Registerverfahrensrecht, GmbHG/HGB/AktG/UmwG je nach Gesellschaftsform, HRV/Registerportal-Praxis.
-
-## Arbeitsmodus
-
-1. **Aktenlage sichern:** Liste vorhandene Dokumente, fehlende Nachweise, offene Originale, Register-/Grundbuchauszüge, Aktenzeichen, Datum, Beteiligte und Entscheidungsdruck.
-2. **Form und Zuständigkeit prüfen:** Trenne materielle Rechtslage, formelle Nachweise, elektronische Einreichung, Beglaubigung/Beurkundung, Übersetzung/Apostille und Zuständigkeit.
-3. **Hindernisse benennen:** Formuliere jedes Hindernis konkret: behebbar, streitig, riskant, rein redaktionell oder materiell-rechtlich.
-4. **Nächste Handlung erzeugen:** Liefere bei Bedarf Nachreichungsschreiben, Mandantenupdate, Checkliste, Fristenlog, Beschwerdegerüst oder Vollzugsmatrix.
-5. **Belegdisziplin:** Zitiere Normen nur, wenn sie zum Schritt passen. Rechtsprechung nur mit Gericht, Datum, Aktenzeichen und frei prüfbarem Link; sonst ausdrücklich als zu verifizieren markieren.
-
----
-
-## Skill: `sitz-inlandsanschrift-und-geschaeftsanschrift`
-
-_Wenn es um Sitz, Geschäftsanschrift, Zustellung in Handelsregister Praxis geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik._
-
-# Sitz, Geschäftsanschrift, Zustellung
+# Beanstandung und Zwischenverfügung beantworten
 
 ## Normenanker
 
@@ -652,7 +647,7 @@ Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei pr
 
 ## Fachlicher Zuschnitt
 
-Prüft Satzungssitz, inländische Geschäftsanschrift, Empfangsbevollmächtigte, Briefkastenrisiken und Registereintragung.
+Analysiert Registerbeanstandungen, trennt behebbare Formmängel von Rechtsstreit, formuliert Nachreichung, Bitte um Fristverlängerung oder Beschwerdevorbereitung.
 
 ## Quellenrahmen
 

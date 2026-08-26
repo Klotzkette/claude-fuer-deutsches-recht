@@ -1,6 +1,6 @@
 ---
 name: haftpflichtversicherung-deckungsluecke-rechtsprechungs
-description: "Wenn es um Haftpflichtversicherung Deckungsluecke Rechtsprechungs in Berufsrecht Anwälte geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Gegenprüfung mit Fehler-, Beweis- und Fristencheck."
+description: "Für Haftpflichtversicherung Deckungslücke Rechtsprechungs: ordnet Akte, Belege und Lücken; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Anwälte: haftpflichtversicherung deckungsluecke - Rechtsprechungscheck, stärkste Gegenansicht und Red-Team-Korrektur

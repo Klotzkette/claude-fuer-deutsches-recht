@@ -1,6 +1,6 @@
 ---
 name: tokenisierung-security-token-mica-mifid
-description: "Wenn es um Tokenisierung Rechtsqualifikation in Bank-Rechtsabteilung geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
+description: "Für Tokenisierung Rechtsqualifikation: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Tokenisierung Rechtsqualifikation

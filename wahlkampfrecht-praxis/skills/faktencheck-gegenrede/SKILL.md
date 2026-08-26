@@ -1,6 +1,6 @@
 ---
 name: faktencheck-gegenrede
-description: "Wenn es um Faktencheck Gegenrede in Wahlkampfrecht Praxis geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
+description: "Für Faktencheck Gegenrede: ordnet Akte, Belege und Lücken; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Faktencheck Gegenrede

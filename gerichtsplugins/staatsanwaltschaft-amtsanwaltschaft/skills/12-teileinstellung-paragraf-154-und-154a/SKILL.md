@@ -1,6 +1,6 @@
 ---
 name: 12-teileinstellung-paragraf-154-und-154a
-description: "Wenn es um 12 Teileinstellung Paragraf 154 und 154a in Staatsanwaltschaft und Amtsanwaltschaft geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
+description: "Für 12 Teileinstellung Paragraf 154 und 154a: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # 12 Teileinstellung Paragraf 154 und 154a

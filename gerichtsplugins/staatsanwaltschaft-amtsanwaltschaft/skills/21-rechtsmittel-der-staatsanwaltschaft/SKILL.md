@@ -1,6 +1,6 @@
 ---
 name: 21-rechtsmittel-der-staatsanwaltschaft
-description: "Wenn es um 21 Rechtsmittel Der Staatsanwaltschaft in Staatsanwaltschaft und Amtsanwaltschaft geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für 21 Rechtsmittel der Staatsanwaltschaft: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # 21 Rechtsmittel Der Staatsanwaltschaft

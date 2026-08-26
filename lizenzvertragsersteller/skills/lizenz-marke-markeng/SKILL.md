@@ -1,6 +1,6 @@
 ---
 name: lizenz-marke-markeng
-description: "Wenn es um Lizenz Marke (MarkenG) in Lizenzvertragsersteller geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Gegenprüfung mit Fehler-, Beweis- und Fristencheck."
+description: "Für Lizenz Marke (MarkenG): ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Lizenz Marke (MarkenG)

@@ -1,6 +1,6 @@
 ---
 name: ropa-art-30-dsgvo-grundlagen
-description: "Wenn es um Verzeichnis von Verarbeitungstaetigkeiten – Art. 30 DSGVO Grundlagen in Datenschutzrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Verzeichnis von Verarbeitungstätigkeiten – Art. 30 DSGVO Grundlagen: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Verzeichnis von Verarbeitungstaetigkeiten – Art. 30 DSGVO Grundlagen

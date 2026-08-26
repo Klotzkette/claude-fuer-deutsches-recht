@@ -1,6 +1,6 @@
 ---
 name: kaltstart-triage
-description: "Wenn es um Bundeswehrrecht und Wehrrecht — Allgemein in Bundeswehrrecht und Wehrrecht geht: klärt Rolle, Ziel, Frist, Unterlagen und den passenden nächsten Fachskill; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Bundeswehrrecht und Wehrrecht — Allgemein: routet Rolle, Frist, Unterlagen und Fachschritt; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Bundeswehrrecht und Wehrrecht — Allgemein

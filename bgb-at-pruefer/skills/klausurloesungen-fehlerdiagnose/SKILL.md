@@ -1,6 +1,6 @@
 ---
 name: klausurloesungen-fehlerdiagnose
-description: "Wenn es um Klausurlösungen — Fehlerdiagnose und Verbesserung in BGB AT Prüfer geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Tatbestands- oder Anspruchsmatrix mit Gegenargumenten."
+description: "Für Klausurlösungen — Fehlerdiagnose und Verbesserung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt. Fachgebiet: BGB AT Prüfer. Route: klausurloesungen-fehlerdiagnose."
 ---
 
 # Klausurlösungen — Fehlerdiagnose und Verbesserung

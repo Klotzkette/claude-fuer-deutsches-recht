@@ -1,6 +1,6 @@
 ---
 name: testamentsvollstrecker-kontrolle-haftung
-description: "Wenn es um Testamentsvollstrecker Kontrolle Haftung in Fachanwalt Erbrecht geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Testamentsvollstrecker Kontrolle Haftung: prüft Ergebnis, Beweislast und Gegenposition; Ergebnis: Gegenprüfung mit Beweis- und Fristencheck."
 ---
 
 # Testamentsvollstrecker: Amt, Zeugnis, Auskunft, ordnungsgemäße Verwaltung, Entlassung und Haftung.

@@ -1,6 +1,6 @@
 ---
 name: rettungsdienst-schnittstelle
-description: "Wenn es um Rettungsdienst Schnittstelle Aufnahme Pflicht in Krankenhausrecht geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
+description: "Für Rettungsdienst Schnittstelle Aufnahme Pflicht: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Rettungsdienst Schnittstelle Aufnahme Pflicht

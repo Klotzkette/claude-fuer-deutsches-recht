@@ -1,6 +1,6 @@
 ---
 name: leak-und-hack-notfall
-description: "Wenn es um Leak Und Hack Notfall in Wahlkampfrecht Praxis geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
+description: "Für Leak und Hack Notfall: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Leak Und Hack Notfall

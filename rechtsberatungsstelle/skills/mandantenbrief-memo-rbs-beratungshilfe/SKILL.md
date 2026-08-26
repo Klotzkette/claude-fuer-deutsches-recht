@@ -1,6 +1,6 @@
 ---
 name: mandantenbrief-memo-rbs-beratungshilfe
-description: "Wenn es um /mandantenbrief in Plugin für die studentische Rechtsberatungsstelle geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert eine Mandantennachricht oder Entscheidungsvorlage."
+description: "Für /mandantenbrief: erstellt Entwurf mit Antrag, Beweis und Anlagen; Ergebnis: Schriftsatz mit Begründungs- und Anlagenlogik."
 ---
 
 # /mandantenbrief

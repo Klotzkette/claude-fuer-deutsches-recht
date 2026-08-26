@@ -1,6 +1,6 @@
 ---
 name: rom-095-vertiefung-01-dashboard-und-naechster-schritt
-description: "Wenn es um Vertiefung 01 Dashboard Und Naechster Schritt in Römisches Recht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Vertiefung 01 Dashboard und Nächster Schritt: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt. Fachgebiet: Römisches Recht."
 ---
 
 # Vertiefung 01 Dashboard Und Naechster Schritt

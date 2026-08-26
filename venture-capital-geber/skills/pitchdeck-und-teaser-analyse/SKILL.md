@@ -1,6 +1,6 @@
 ---
 name: pitchdeck-und-teaser-analyse
-description: "Wenn es um Pitchdeck- und Teaser-Analyse in Venture Capital Geber geht: rechnet Schwellen, Beträge, Varianten und Kontrollannahmen durch; liefert eine Berechnungstabelle mit Schwellen, Annahmen und Kontrollfragen."
+description: "Für Pitchdeck- und Teaser-Analyse: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Pitchdeck- und Teaser-Analyse

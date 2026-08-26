@@ -1,6 +1,6 @@
 ---
 name: rechtsgeschichte
-description: "Wenn es um Rechtsgeschichte für Juristen in Jurastudium geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Rechtsgeschichte für Juristen: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Rechtsgeschichte für Juristen

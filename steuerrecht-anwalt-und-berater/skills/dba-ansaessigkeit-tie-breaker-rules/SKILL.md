@@ -1,6 +1,6 @@
 ---
 name: dba-ansaessigkeit-tie-breaker-rules
-description: "Wenn es um Ansaessigkeit und Tie-Breaker-Rules (Art. 4 OECD-MA) in Steuerrecht – Steuerberater und Anwälte geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
+description: "Für Ansässigkeit und Tie-Breaker-Rules (Art. 4 OECD-MA): ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Ansaessigkeit und Tie-Breaker-Rules (Art. 4 OECD-MA)

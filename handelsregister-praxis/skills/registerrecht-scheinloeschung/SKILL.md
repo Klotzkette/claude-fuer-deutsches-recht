@@ -1,6 +1,6 @@
 ---
 name: registerrecht-scheinloeschung
-description: "Wenn es um Nachtragsliquidation in Handelsregister Praxis geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Nachtragsliquidation: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Einreichungsplan mit Form- und Nachweischeck."
 ---
 
 # Nachtragsliquidation

@@ -1,6 +1,6 @@
 ---
 name: dienstliche-beurteilung-angriff
-description: "Wenn es um Dienstliche Beurteilung Angriff in Beamtenrecht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen."
+description: "Für Dienstliche Beurteilung Angriff: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Schnittstellenkarte mit Zuständigkeits- und Nachweisfragen."
 ---
 
 # Dienstliche Beurteilung Angriff

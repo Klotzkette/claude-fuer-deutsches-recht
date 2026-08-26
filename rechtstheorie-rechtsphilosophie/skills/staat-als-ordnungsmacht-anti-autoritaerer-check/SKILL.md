@@ -1,6 +1,6 @@
 ---
 name: staat-als-ordnungsmacht-anti-autoritaerer-check
-description: "Wenn es um Staat Als Ordnungsmacht Anti Autoritaerer Check in Rechtstheorie und Rechtsphilosophie geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Staat als Ordnungsmacht Anti Autoritärer Check: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Prüft starke-Staat- und Ordnungsmacht-Argumente anti-autoritaer: Handlungsfaehigkeit ja, Selbstermächtigung nein

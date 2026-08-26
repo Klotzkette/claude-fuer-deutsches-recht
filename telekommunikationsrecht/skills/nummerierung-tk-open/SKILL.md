@@ -1,6 +1,6 @@
 ---
 name: nummerierung-tk-open
-description: "Wenn es um Nummerierung und Rufnummernzuteilung in Telekommunikationsrecht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
+description: "Für Nummerierung und Rufnummernzuteilung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Nummerierung und Rufnummernzuteilung

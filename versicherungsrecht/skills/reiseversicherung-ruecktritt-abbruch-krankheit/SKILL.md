@@ -1,6 +1,6 @@
 ---
 name: reiseversicherung-ruecktritt-abbruch-krankheit
-description: "Wenn es um Reiseversicherung: Rücktritt, Abbruch, Krankheit in Versicherungsrecht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
+description: "Für Reiseversicherung: Rücktritt, Abbruch, Krankheit: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Reiseversicherung: Rücktritt, Abbruch, Krankheit

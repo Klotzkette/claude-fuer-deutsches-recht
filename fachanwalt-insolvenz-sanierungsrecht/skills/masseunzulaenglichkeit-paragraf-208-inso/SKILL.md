@@ -1,6 +1,6 @@
 ---
 name: masseunzulaenglichkeit-paragraf-208-inso
-description: "Wenn es um Masseunzulaenglichkeit Paragraf 208 InsO in Fachanwalt Insolvenz- und Sanierungsrecht geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Masseunzulänglichkeit Paragraf 208 InsO: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Schnittstellenkarte mit Zuständigkeits- und Nachweisfragen."
 ---
 
 # Masseunzulaenglichkeit § 208 InsO

@@ -1,6 +1,6 @@
 ---
 name: befristung-compliance-dokumentation-und-akte
-description: "Wenn es um Befristung Compliance Dokumentation Und Akte in Fachanwalt Arbeitsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Befristung Compliance Dokumentation und Akte: prüft Frist, Form, Zuständigkeit und Eilbedarf; Ergebnis: Fristen- und Risikoampel."
 ---
 
 # Befristungscompliance und Aktenführung: TzBfG Paragrafen 14–17, Schriftformzwang vor Dienstantritt, Sachgrundbefristung-Dokumentation, Anschlussverbot Paragraf 14 Abs
@@ -129,3 +129,7 @@ BAG-Linie: Bei Kettenbefristungen prüft das BAG, ob eine missbräuchliche Gesta
 ## Was dieser Arbeitsgang nicht macht
 - Keine Beratung zu wissenschaftlichen Befristungen nach WissZeitVG.
 - Keine Prüfung besonderer öffentlich-rechtlicher Befristungsregeln (Beamtenrecht, öffentlicher Dienst spezifisch).
+
+## Vertiefung bei Bedarf
+
+- Bei `spezial-befristung-compliance-dokumentation-und-akte` beziehungsweise Befristung: Compliance-Dokumentation und Aktenvermerk: [die zusätzliche Vertiefung laden](./references/vertiefung-spezial-befristung-compliance-dokumentation-und-akte.md).

@@ -1,6 +1,6 @@
 ---
 name: see-019-itlos-hamburg-und-unclos
-description: "Wenn es um Itlos Hamburg Und Unclos in See- und Schifffahrtsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Itlos Hamburg und Unclos: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Itlos Hamburg Und Unclos

@@ -1,6 +1,6 @@
 ---
 name: registerakte-schnellscan-registerauszug-lesen
-description: "Wenn es um Registerakte in 10 Minuten sortieren in Handelsregister Praxis geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Registerakte in 10 Minuten sortieren: ordnet Akte, Belege und Lücken; Ergebnis: Einreichungsplan mit Form- und Nachweischeck."
 ---
 
 # Registerakte in 10 Minuten sortieren

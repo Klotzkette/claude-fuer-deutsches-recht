@@ -1,6 +1,6 @@
 ---
 name: rezeptur-plausibilitaetspruefung-herstellungsanweisung
-description: "Wenn es um Rezeptur Plausibilitätsprüfung Herstellungsanweisung in Apothekenrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Rezeptur Plausibilitätsprüfung Herstellungsanweisung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Tatbestands- oder Anspruchsmatrix."
 ---
 
 # Rezeptur Plausibilitätsprüfung Herstellungsanweisung

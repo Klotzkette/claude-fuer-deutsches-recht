@@ -1,6 +1,6 @@
 ---
 name: kreditwesengesetz-erlaubnis-inhaberkontrolle
-description: "Wenn es um KWG-Erlaubnis und Inhaberkontrolle in Bank-Rechtsabteilung geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Gegenprüfung mit Fehler-, Beweis- und Fristencheck."
+description: "Für KWG-Erlaubnis und Inhaberkontrolle: prüft Ergebnis, Beweislast und Gegenposition; Ergebnis: Gegenprüfung mit Beweis- und Fristencheck."
 ---
 
 # KWG-Erlaubnis und Inhaberkontrolle

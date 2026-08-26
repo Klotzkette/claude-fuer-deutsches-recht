@@ -1,6 +1,6 @@
 ---
 name: neu-017-einigungsvertrag-rechtsueberleitung-und-vermoegensfr
-description: "Wenn es um Deutsche Rechtsgeschichte: 017 Einigungsvertrag Rechtsueberleitung Und Vermögensfr in Deutsche Rechtsgeschichte geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Deutsche Rechtsgeschichte: 017 Einigungsvertrag Rechtsüberleitung und Vermögensfr: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Schnittstellenkarte mit Zuständigkeits- und Nachweisfragen."
 ---
 
 # Deutsche Rechtsgeschichte: 017 Einigungsvertrag Rechtsueberleitung Und Vermögensfr

@@ -1,6 +1,6 @@
 ---
 name: antragsdelikte-strafantrag
-description: "Wenn es um Antragsdelikte und Drei-Monats-Frist in Strafanzeige-Vorbereiter geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Antragsdelikte und Drei-Monats-Frist: erstellt Entwurf mit Antrag, Beweis und Anlagen; Ergebnis: Schriftsatz mit Begründungs- und Anlagenlogik."
 ---
 
 # Antragsdelikte und Drei-Monats-Frist

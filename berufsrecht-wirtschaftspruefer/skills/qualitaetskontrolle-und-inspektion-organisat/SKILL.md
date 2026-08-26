@@ -1,6 +1,6 @@
 ---
 name: qualitaetskontrolle-und-inspektion-organisat
-description: "Wenn es um Qualitaetskontrolle Und Inspektion Organisat in Berufsrecht Wirtschaftsprüfer geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Qualitätskontrolle und Inspektion Organisat: prüft Ergebnis, Beweislast und Gegenposition; Ergebnis: Gegenprüfung mit Beweis- und Fristencheck."
 ---
 
 # Wirtschaftsprüfer: qualitaetskontrolle und inspektion - Organisationspflichten, Prävention, Team-Anweisung und Fristenkontrolle

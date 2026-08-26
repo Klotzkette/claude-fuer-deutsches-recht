@@ -1,6 +1,6 @@
 ---
 name: workflow-verhandlung-handelsstreit
-description: "Wenn es um Verhandlung im Handelsstreit in Handelsrecht HGB geht: entwickelt Verhandlungsziel, Vergleichskorridor und Eskalationspfad; liefert einen Einreichungsplan mit Form-, Portal- und Nachweischeck."
+description: "Für Verhandlung im Handelsstreit: entwickelt Ziel, Vergleich und Eskalation; Ergebnis: Verhandlungs- oder Eskalationslinie."
 ---
 
 # Verhandlung im Handelsstreit

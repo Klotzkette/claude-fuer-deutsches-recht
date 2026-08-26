@@ -1,6 +1,6 @@
 ---
 name: parteienrecht-wahlkampffinanzierung-transparenz
-description: "Wenn es um Wahlkampffinanzierung in Parteienrecht und Parteiorganisation geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. Auswahlstichwort: Parteienrecht Wahlkampffinanzierung Transparenz; Arbeitsfeld: Parteienrecht und Parteiorganisation."
+description: "Für Wahlkampffinanzierung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt. Fachgebiet: Parteienrecht und Parteiorganisation. Route: parteienrecht-wahlkampffinanzierung-transparenz."
 ---
 
 # Wahlkampffinanzierung

@@ -1,6 +1,6 @@
 ---
 name: dsfa-restrisiko-und-art-36-konsultation
-description: "Wenn es um Restrisiko und Vorab-Konsultation nach Art. 36 DSGVO in Datenschutzrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Restrisiko und Vorab-Konsultation nach Art. 36 DSGVO: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Restrisiko und Vorab-Konsultation nach Art. 36 DSGVO

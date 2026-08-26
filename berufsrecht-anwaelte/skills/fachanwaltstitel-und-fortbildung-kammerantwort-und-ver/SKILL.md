@@ -1,6 +1,6 @@
 ---
 name: fachanwaltstitel-und-fortbildung-kammerantwort-und-ver
-description: "Wenn es um Fachanwaltstitel Und Fortbildung Kammerantwort Und Ver in Berufsrecht Anwälte geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Verhandlungs- oder Eskalationslinie mit Optionen."
+description: "Für Fachanwaltstitel und Fortbildung Kammerantwort und Ver: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Anwälte: fachanwaltstitel und fortbildung - Kammerantwort mit Verfahrensstrategie, Tonlage und Belegplan

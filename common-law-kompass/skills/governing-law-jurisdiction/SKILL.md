@@ -1,6 +1,6 @@
 ---
 name: governing-law-jurisdiction
-description: "Wenn es um Governing Law, Jurisdiction und Forum in Common-Law-Kompass für deutsche Wirtschaftsjuristen geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Governing Law, Jurisdiction und Forum: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Governing Law, Jurisdiction und Forum

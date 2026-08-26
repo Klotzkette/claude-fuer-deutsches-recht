@@ -1,6 +1,6 @@
 ---
 name: mitwirkungspflichten
-description: "Wenn es um Mitwirkungspflichten in AGB-Recht-Prüfer geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Fristen- und Risikoampel mit Sofortschritten. Auswahlstichwort: Mitwirkungspflichten; Arbeitsfeld: AGB-Recht-Prüfer."
+description: "Für Mitwirkungspflichten: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt. Fachgebiet: AGB-Recht-Prüfer. Route: mitwirkungspflichten."
 ---
 
 # Mitwirkungspflichten

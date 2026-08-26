@@ -1,6 +1,6 @@
 ---
 name: kaltstart-routing-triage
-description: "Wenn es um Kaltstart Routing Triage in Kanzlei-Allgemein geht: klärt Rolle, Ziel, Frist, Unterlagen und den passenden nächsten Fachskill; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Kaltstart Routing Triage: routet Rolle, Frist, Unterlagen und Fachschritt; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 ## Direktstart: lesen, entscheiden, liefern

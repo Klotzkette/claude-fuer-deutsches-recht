@@ -1,6 +1,6 @@
 ---
 name: auslandsvertreter-und-correspondent-risk-organis
-description: "Wenn es um Auslandsvertreter Und Correspondent Risk Organis in Berufsrecht Patentanwälte geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Auslandsvertreter und Correspondent Risk Organis: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Schnittstellenkarte mit Zuständigkeits- und Nachweisfragen."
 ---
 
 # Patentanwälte: auslandsvertreter und correspondent risk - Organisationspflichten, Prävention, Team-Anweisung und Fristenkontrolle

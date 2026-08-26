@@ -1,6 +1,6 @@
 ---
 name: u-haft-fluchtgefahr-verhaeltnismaessigkeit
-description: "Wenn es um U-Haft: Fluchtgefahr, Verdunkelung und Verhältnismäßigkeit in Staatsanwaltschaft Praxis-Einstieg geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Beweislast- und Substantiierungsmatrix."
+description: "Für U-Haft: Fluchtgefahr, Verdunkelung und Verhältnismäßigkeit: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # U-Haft: Fluchtgefahr, Verdunkelung und Verhältnismäßigkeit

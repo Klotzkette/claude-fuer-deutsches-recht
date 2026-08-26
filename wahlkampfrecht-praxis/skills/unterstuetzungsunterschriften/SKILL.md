@@ -1,6 +1,6 @@
 ---
 name: unterstuetzungsunterschriften
-description: "Wenn es um Unterstuetzungsunterschriften in Wahlkampfrecht Praxis geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Unterstützungsunterschriften: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt. Fachgebiet: Wahlkampfrecht Praxis."
 ---
 
 # Unterstuetzungsunterschriften

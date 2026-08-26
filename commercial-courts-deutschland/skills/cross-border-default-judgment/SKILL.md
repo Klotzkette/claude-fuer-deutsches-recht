@@ -1,6 +1,6 @@
 ---
 name: cross-border-default-judgment
-description: "Wenn es um Cross-Border Jurisdiction in commercial-courts-deutschland geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen."
+description: "Für Cross-Border Jurisdiction: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Cross-Border Jurisdiction

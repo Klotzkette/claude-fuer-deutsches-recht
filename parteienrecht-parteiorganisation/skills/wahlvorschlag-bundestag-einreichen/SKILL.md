@@ -1,6 +1,6 @@
 ---
 name: wahlvorschlag-bundestag-einreichen
-description: "Wenn es um Bundestag Wahlvorschlag einreichen in Parteienrecht und Parteiorganisation geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Bundestag Wahlvorschlag einreichen: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Bundestag Wahlvorschlag einreichen

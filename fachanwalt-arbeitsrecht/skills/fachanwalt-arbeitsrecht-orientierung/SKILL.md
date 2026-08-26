@@ -1,6 +1,6 @@
 ---
 name: fachanwalt-arbeitsrecht-orientierung
-description: "Wenn es um Fachanwalt für Arbeitsrecht — Orientierung in Fachanwalt Arbeitsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Fachanwalt für Arbeitsrecht — Orientierung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Fachanwalt für Arbeitsrecht — Orientierung

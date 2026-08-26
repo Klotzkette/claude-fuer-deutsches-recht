@@ -1,6 +1,6 @@
 ---
 name: datenbankrecht-informationsfreiheit
-description: "Wenn es um Datenbankrecht für Behörden — Herstellerrecht und Weiterverwendungspflichten in Datenbankrecht und Datenbankherstellerrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Datenbankrecht für Behörden — Herstellerrecht und Weiterverwendungspflichten: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Datenbankrecht für Behörden — Herstellerrecht und Weiterverwendungspflichten

@@ -1,6 +1,6 @@
 ---
 name: 024-roemisches-recht-und-byzantinisches-sachenrecht
-description: "Wenn es um Rom Roemisches Recht Und Byzantinisches Sachenrecht in Römisches Recht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Rom Römisches Recht und Byzantinisches Sachenrecht: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Rom Roemisches Recht Und Byzantinisches Sachenrecht

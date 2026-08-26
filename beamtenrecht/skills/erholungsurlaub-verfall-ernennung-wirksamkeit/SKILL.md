@@ -1,6 +1,6 @@
 ---
 name: erholungsurlaub-verfall-ernennung-wirksamkeit
-description: "Wenn es um Erholungsurlaub — Verfall und Mitwirkungsobliegenheit in Beamtenrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Erholungsurlaub — Verfall und Mitwirkungsobliegenheit: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Erholungsurlaub — Verfall und Mitwirkungsobliegenheit

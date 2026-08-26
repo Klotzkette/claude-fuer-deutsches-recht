@@ -1,6 +1,6 @@
 ---
 name: rechtsabteilung-schufa-und-credit-scoring-im-kundenprozess
-description: "Wenn es um Rechtsabteilung Schufa Und Credit Scoring Im Kundenprozess in Datenschutzrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Rechtsabteilung Schufa und Credit Scoring im Kundenprozess: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Rechtsabteilungs-Fachmodul für Schufa- und Credit-Scoring im Kundenprozess: Scoring-Workflows werden auf maßgeblichen Entscheidungseinfluss und menschliche Nachprüfung geprüft

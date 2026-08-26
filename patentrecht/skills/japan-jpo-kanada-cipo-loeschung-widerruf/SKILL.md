@@ -1,6 +1,6 @@
 ---
 name: japan-jpo-kanada-cipo-loeschung-widerruf
-description: "Wenn es um Japan: JPO und IP High Court in patentrecht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
+description: "Für Japan: JPO und IP High Court: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Japan: JPO und IP High Court

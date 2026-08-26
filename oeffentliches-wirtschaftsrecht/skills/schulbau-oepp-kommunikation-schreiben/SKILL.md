@@ -1,6 +1,6 @@
 ---
 name: schulbau-oepp-kommunikation-schreiben
-description: "Wenn es um Schulbau Oepp Kommunikation Schreiben in Öffentliches Wirtschaftsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Schulbau ÖPP Kommunikation Schreiben: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Schulbau Oepp Kommunikation Schreiben

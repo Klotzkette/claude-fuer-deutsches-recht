@@ -1,6 +1,6 @@
 ---
 name: produktmandat-workspace-kontexttrennung
-description: "Wenn es um Produktmandat-Workspace und Kontexttrennung in Produkthaftung und Produktrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Produktmandat-Workspace und Kontexttrennung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Produktmandat-Workspace und Kontexttrennung

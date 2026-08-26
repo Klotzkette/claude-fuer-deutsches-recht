@@ -1,6 +1,6 @@
 ---
 name: npl-kauf-und-krzwmg
-description: "Wenn es um NPL-Kauf und Kreditzweitmarktgesetz in Private Equity Praxis geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
+description: "Für NPL-Kauf und Kreditzweitmarktgesetz: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # NPL-Kauf und Kreditzweitmarktgesetz

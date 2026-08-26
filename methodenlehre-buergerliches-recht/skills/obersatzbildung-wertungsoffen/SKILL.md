@@ -1,6 +1,6 @@
 ---
 name: obersatzbildung-wertungsoffen
-description: "Wenn es um Obersatzbildung: Wertungsoffene Formulierung im Gutachten in Methodenlehre bürgerliches Recht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Obersatzbildung: Wertungsoffene Formulierung im Gutachten: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Obersatzbildung: Wertungsoffene Formulierung im Gutachten

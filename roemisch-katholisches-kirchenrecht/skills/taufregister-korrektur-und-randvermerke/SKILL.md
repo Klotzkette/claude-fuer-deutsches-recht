@@ -1,6 +1,6 @@
 ---
 name: taufregister-korrektur-und-randvermerke
-description: "Wenn es um Taufregister: Korrektur und Randvermerke in Römisch-katholisches Kirchenrecht CIC und Katechismus geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert einen Einreichungsplan mit Form-, Portal- und Nachweischeck."
+description: "Für Taufregister: Korrektur und Randvermerke: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Einreichungsplan mit Form- und Nachweischeck. Fachgebiet: Römisch-katholisches Kirchenrecht CIC und Katechismus. Route: taufregister-korrektur-und-randvermerke."
 ---
 
 # Taufregister: Korrektur und Randvermerke

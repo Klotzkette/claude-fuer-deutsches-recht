@@ -1,6 +1,6 @@
 ---
 name: dba-anrechnung-vs-freistellung-methodenartikel
-description: "Wenn es um Methodenartikel: Anrechnung vs. Freistellung (Art. 23 OECD-MA, Paragraf 34c EStG) in Steuerrecht – Steuerberater und Anwälte geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
+description: "Für Methodenartikel: Anrechnung vs. Freistellung (Art. 23 OECD-MA, Paragraf 34c EStG): ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Methodenartikel: Anrechnung vs. Freistellung (Art. 23 OECD-MA, § 34c EStG)

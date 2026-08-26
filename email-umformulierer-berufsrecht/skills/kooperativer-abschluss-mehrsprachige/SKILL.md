@@ -1,6 +1,6 @@
 ---
 name: kooperativer-abschluss-mehrsprachige
-description: "Wenn es um Kooperativer Abschluss in E-Mail-Umformulierer geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. Auswahlstichwort: Kooperativer Abschluss Mehrsprachige; Arbeitsfeld: E-Mail-Umformulierer."
+description: "Für Kooperativer Abschluss: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt. Fachgebiet: E-Mail-Umformulierer. Route: kooperativer-abschluss-mehrsprachige."
 ---
 
 # Kooperativer Abschluss

@@ -1,6 +1,6 @@
 ---
 name: familienbetreuer-arzt-heim-pflegekasse
-description: "Wenn es um Familienbetreuer: Arzt, Heim, Pflegekasse in Betreuungsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Familienbetreuer: Arzt, Heim, Pflegekasse: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Schnittstellenkarte mit Zuständigkeits- und Nachweisfragen. Fachgebiet: Betreuungsrecht. Route: familienbetreuer-arzt-heim-pflegekasse."
 ---
 
 # Familienbetreuer: Arzt, Heim, Pflegekasse

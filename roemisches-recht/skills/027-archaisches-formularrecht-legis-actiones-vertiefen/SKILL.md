@@ -1,6 +1,6 @@
 ---
 name: 027-archaisches-formularrecht-legis-actiones-vertiefen
-description: "Wenn es um Rom Archaisches Formularrecht Legis Actiones Vertiefen in Römisches Recht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Rom Archaisches Formularrecht Legis Actiones Vertiefen: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Einreichungsplan mit Form- und Nachweischeck."
 ---
 
 # Rom Archaisches Formularrecht Legis Actiones Vertiefen
@@ -31,3 +31,7 @@ Nicht 'subjektive Rechte' in die Klassik projizieren — der römische Jurist fr
 2. Epochen trennen: vorklassisch — klassisch — justinianisch — Rezeption; nichts rückprojizieren.
 3. Funktional vergleichen: erst die römische Funktion, dann die heutige Norm mit gleicher Aufgabe; Unterschiede ausdrücklich benennen.
 4. Für Klausur/Lehre: Institutionensystem (personae — res — actiones) als Gliederungsraster nutzen; lateinische Begriffe beim ersten Auftreten übersetzen.
+
+## Vertiefung bei Bedarf
+
+- Bei `rom-neu-027-archaisches-formularrecht-legis-actiones-vertiefen` beziehungsweise Römisches Recht: Archaisches Formularrecht legis actiones vertiefen: [die zusätzliche Vertiefung laden](./references/vertiefung-rom-neu-027-archaisches-formularrecht-legis-actiones-vertiefen.md).

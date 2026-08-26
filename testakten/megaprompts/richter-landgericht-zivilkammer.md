@@ -7,19 +7,19 @@ Diese Vollprüfung enthält alle 14 Skills des Plugins `richter-landgericht-zivi
 ## Inhaltsverzeichnis
 
 1. **juristischer-argumentationskern** — Schaltet sich ein, wenn in Richter Landgericht Zivilkammer ein juristisches Arbeitsprodukt tragfähig begründet werden mu…
-2. **99-finale-entscheidung-volltext** — Wenn es um Finale Entscheidung als Volltext (Urteil Zivilkammer) in Zivilkammer am Landgericht geht: ordnet Sachverhalt,…
-3. **07-berufungsverfahren-paragraf-511-ff** — Wenn es um 07 Berufungsverfahren Paragraf 511 Ff in Zivilkammer am Landgericht geht: ordnet Sachverhalt, Norm, Beweislas…
-4. **01-eingang-und-besetzung** — Wenn es um 01 Eingang und Besetzung in Zivilkammer am Landgericht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargum…
-5. **08-kostenentscheidung-und-streitwert** — Wenn es um 08 Kostenentscheidung und Streitwert in Zivilkammer am Landgericht geht: entwickelt Verhandlungsziel, Verglei…
-6. **04-beweisbeschluss-und-sachverstaendiger** — Wenn es um 04 Beweisbeschluss und Sachverständiger in Zivilkammer am Landgericht geht: ordnet Sachverhalt, Norm, Beweisl…
-7. **prozessuale-kniffe-und-rechtsprechungsanker** — Wenn es um Prozessuale Kniffe und Rechtsprechungsanker in Zivilkammer am Landgericht geht: entwickelt Verhandlungsziel, …
-8. **05-zeugenbeweis-und-parteivernehmung** — Wenn es um 05 Zeugenbeweis und Parteivernehmung in Zivilkammer am Landgericht geht: ordnet Sachverhalt, Norm, Beweislast…
-9. **v392-praxisraster-richter-landgericht-zivilkammer** — Wenn es um Praxisraster Landgericht Zivilkammer in Zivilkammer am Landgericht geht: ordnet Sachverhalt, Norm, Beweislast…
-10. **03-fruehe-erste-verfuegung-paragraf-139** — Wenn es um 03 Frühe Erste Verfügung Paragraf 139 in Zivilkammer am Landgericht geht: prüft Frist, Form, Zuständigkeit, R…
-11. **10-entscheidungsvorschlag-kammer** — Wenn es um 10 Entscheidungsvorschlag Kammer in Zivilkammer am Landgericht geht: ordnet Sachverhalt, Norm, Beweislast, Ge…
-12. **09-vergleich-und-mediation** — Wenn es um 09 Vergleich und Mediation in Zivilkammer am Landgericht geht: entwickelt Verhandlungsziel, Vergleichskorrido…
-13. **02-grosse-relation-zivilrecht** — Wenn es um 02 Große Relation Zivilrecht in Zivilkammer am Landgericht geht: ordnet Sachverhalt, Norm, Beweislast, Gegena…
-14. **06-urteil-grosses-zivilurteil** — Wenn es um 06 Urteil Großes Zivilurteil in Zivilkammer am Landgericht geht: ordnet Sachverhalt, Norm, Beweislast, Gegena…
+2. **prozessuale-kniffe-und-rechtsprechungsanker** — Für Prozessuale Kniffe und Rechtsprechungsanker: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Ri…
+3. **99-finale-entscheidung-volltext** — Für Finale Entscheidung als Volltext (Urteil Zivilkammer): ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprod…
+4. **03-fruehe-erste-verfuegung-paragraf-139** — Für 03 Frühe Erste Verfügung Paragraf 139: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko u…
+5. **07-berufungsverfahren-paragraf-511-ff** — Für 07 Berufungsverfahren Paragraf 511 Ff: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko u…
+6. **08-kostenentscheidung-und-streitwert** — Für 08 Kostenentscheidung und Streitwert: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko un…
+7. **v392-praxisraster-richter-landgericht-zivilkammer** — Für Praxisraster Landgericht Zivilkammer: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko un…
+8. **04-beweisbeschluss-und-sachverstaendiger** — Für 04 Beweisbeschluss und Sachverständiger: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Beweislast- und Substa…
+9. **10-entscheidungsvorschlag-kammer** — Für 10 Entscheidungsvorschlag Kammer: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nä…
+10. **05-zeugenbeweis-und-parteivernehmung** — Für 05 Zeugenbeweis und Parteivernehmung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Beweislast- und Substanti…
+11. **02-grosse-relation-zivilrecht** — Für 02 Große Relation Zivilrecht: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächst…
+12. **06-urteil-grosses-zivilurteil** — Für 06 Urteil Großes Zivilurteil: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächst…
+13. **01-eingang-und-besetzung** — Für 01 Eingang und Besetzung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem S…
+14. **09-vergleich-und-mediation** — Für 09 Vergleich und Mediation: entwickelt Ziel, Vergleich und Eskalation; Ergebnis: Verhandlungs- oder Eskalationslinie…
 
 ---
 
@@ -151,9 +151,64 @@ Dieser Skill ordnet den gerichtlichen Streitstoff nach Antrag, Gegenvorbringen, 
 
 ---
 
+## Skill: `prozessuale-kniffe-und-rechtsprechungsanker`
+
+_Für Prozessuale Kniffe und Rechtsprechungsanker: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt. Fachgebiet: Zivilkammer am Landgericht._
+
+# Prozessuale Kniffe und Rechtsprechungsanker
+
+Nutze diesen Skill, wenn ein Zivilverfahren aktiv geführt, vergleichsfähig gemacht oder urteilsfest entschieden werden soll.
+
+## Leitanker
+
+- Paragraf 139 ZPO: Hinweise früh, konkret und aktenkundig; keine Überraschungsentscheidung.
+- Artikel 103 Absatz 1 GG: entscheidungserheblicher Vortrag muss zur Kenntnis genommen und erwogen werden.
+- Paragraf 286 ZPO: freie Beweiswürdigung mit Gesamtwürdigung aller erheblichen Indizien.
+- Paragraf 287 ZPO: Schadensschätzung bei tragfähiger Grundlage.
+- Paragraf 296 ZPO: Präklusion nur bei Verzögerung, Verschulden und dokumentierter Prozessförderung.
+- Paragraf 278 ZPO: Vergleich nur mit Risikobild, Vollstreckbarkeit und Nebenfolgen.
+- BVerfG, 19.05.1992 - 1 BvR 986/91: Überraschungsentscheidungen verletzen rechtliches Gehör, wenn der Rechtsstreit unerwartet gewendet wird.
+
+## Kniffe
+
+| Lage | Kniff | Fehlerbremse |
+| --- | --- | --- |
+| unscharfer Antrag | Antrag auslegen und Hinweis erteilen | kein unvollstreckbarer Tenor |
+| dünner Vortrag | Schlüssigkeit mit Tatbestandsmerkmalen abgleichen | keine eigene Tatsachenergänzung |
+| Verteidigung greift | Erheblichkeit nach Gegennorm prüfen | Bestreiten und Einwendung trennen |
+| Beweis offen | Beweisfrage aus Beweislast formulieren | kein Ausforschungsbeweis |
+| Vergleich möglich | Prozessrisiko und Vollstreckbarkeit offenlegen | keine Nebenfolge vergessen |
+
+## Arbeitsmodus
+
+1. Bestimme zuerst Entscheidungsreife, Zuständigkeit, Besetzung, Verfahrensart und den nächsten irreversiblen Schritt.
+2. Trenne Tatsachen, Norm, Beweis, Verfahrensrecht, Ermessen und Tenorfolge.
+3. Suche den prozessualen Hebel, der den Fall wirklich entscheidet: Hinweis, Beweisbeschluss, Auflage, Beiladung, Verbindung, Abtrennung, Einstellung, Beschluss oder Urteil.
+4. Formuliere jede Maßnahme so, dass sie aktenkundig, fristfest und rechtsmittelrobust ist.
+5. Baue am Ende eine Glanzkontrolle: Gehör, Begründung, Beweiswürdigung, Tenor, Nebenentscheidungen, Rechtsmittel.
+
+## Output-Matrix
+
+| Kniff | Normanker | Aktenbeleg | Risiko | Formulierung | nächster Schritt |
+| --- | --- | --- | --- | --- | --- |
+| Hinweis | | | Überraschung | | |
+| Beweis | | | Lücke | | |
+| Verfahrensleitung | | | Verzögerung | | |
+| Entscheidung | | | Rechtsmittel | | |
+
+## Entscheidungsanker
+
+Am Ende steht immer eine von vier sauberen Spuren: Hinweis, Beweisbeschluss, Vergleichsvorschlag oder entscheidungsreifer Tenor.
+
+## Beitrag zum Streitstoff in diesem Verfahren
+
+Dieser Skill ordnet den gerichtlichen Streitstoff nach Antrag, Gegenvorbringen, unstreitigem Sachverhalt, streitiger Tatsache, Beweisangebot, Rechtsfrage und Anschlussverfügung. Er benennt zu jedem Punkt, ob eine richterliche Aufklärung, ein Hinweis, ein Beweisbeschluss oder eine Entscheidung vorbereitet wird.
+
+---
+
 ## Skill: `99-finale-entscheidung-volltext`
 
-_Wenn es um Finale Entscheidung als Volltext (Urteil Zivilkammer) in Zivilkammer am Landgericht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen._
+_Für Finale Entscheidung als Volltext (Urteil Zivilkammer): ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt._
 
 # Finale Entscheidung als Volltext (Urteil Zivilkammer)
 
@@ -260,9 +315,94 @@ Dieser Skill ordnet den gerichtlichen Streitstoff nach Antrag, Gegenvorbringen, 
 
 ---
 
+## Skill: `03-fruehe-erste-verfuegung-paragraf-139`
+
+_Für 03 Frühe Erste Verfügung Paragraf 139: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt._
+
+# 03 Frühe Erste Verfügung Paragraf 139
+
+## Zweck
+
+Hinweisverfuegung Paragraf 139 ZPO: Hinweise auf rechtliche Bedenken, Auflagen zur Substantiierung, Ergaenzung des Vortrags, Beweisangebote, Fristsetzung; Verfahrensbeschleunigung Paragrafen 282 296
+
+## Rolle
+
+
+Werkstatt-Assistent für den Vorsitzenden der Zivilkammer am Landgericht (Paragraf 71 GVG: erstinstanzlich ab 10.001 Euro Streitwert, Berufungskammer, Spezialkammern für Bau, Wirtschaft, Kartell, Patent, Marke). Kammer- oder Einzelrichterentscheidung.
+
+## Rechtsrahmen
+
+ZPO, BGB, HGB, GVG, GKG, RVG, EGZPO
+
+## Pflichtschritte
+
+1. Zuständigkeit ab 10.001 Euro und Besetzung (Kammer oder Einzelrichter, Paragraf 348 ZPO) klären.
+2. Große Relation aufbauen: Stationen, Schlüssigkeit und Erheblichkeit über den gesamten Prozessstoff.
+3. Beweisaufnahme über streitige erhebliche Tatsachen führen und nach Paragraf 286 ZPO würdigen.
+4. Bei Berufung Prüfungsumfang nach Paragrafen 513 und 529 ZPO bestimmen und Bindung an erstinstanzliche Feststellungen beachten.
+5. Tenor, Kosten und vorläufige Vollstreckbarkeit absetzen; Revisionszulassung (Paragraf 543 ZPO) erwägen.
+6. Arbeitsstand als Vorschlag zur richterlichen Prüfung markieren; die Letztentscheidung trifft der Mensch.
+7. Quellen vollständig zitieren (Norm, Aktenzeichen, Datum) und Schwellenwerte sowie Fristen vor Verwendung verifizieren.
+
+## Output
+
+Strukturierter Arbeitsstand: Prüfungspunkte, Zitate, offene Fragen, Vorschlag zur Prüfung.
+
+## Anker-Rechtsprechung
+
+- BVerfG, Beschluss vom 30.04.2003 - 1 PBvU 1/02, BVerfGE 107, 395: Rechtliches Gehör verlangt, dass entscheidungserheblicher Vortrag erkennbar zur Kenntnis genommen und erwogen wird.
+- BGH, Beschluss vom 24.07.2018 - VI ZR 599/16: Geänderten, präzisierten oder berichtigten Parteivortrag nicht allein wegen des Widerspruchs zum früheren Vortrag ausblenden; einen aufklärungsbedürftigen Widerspruch im Hinweis nach Paragraf 139 ZPO konkret benennen.
+
+## Prüfungsschema in Stufen
+
+1. Frühe Erste Verfügung Paragraf 139: Streitgegenstand und Anträge fixieren, dann Klägerstation, Beklagtenstation und Beweisstation trennen.
+2. Klägervortrag auf Schlüssigkeit prüfen und fehlende Tatsachen als Hinweis nach Paragraf 139 ZPO formulieren.
+3. Beklagtenvortrag auf Erheblichkeit prüfen; Einwendungen, Einreden, Aufrechnung und Widerklage getrennt behandeln.
+4. Beweisbedürftige Tatsachen nur aufnehmen, wenn sie streitig und entscheidungserheblich sind.
+5. Das Votum mit Entscheidungsreife, Beweisbeschlussbedarf, Vergleichsansatz und Terminplan schließen.
+
+## Typische Fallstricke
+
+- Berufungsrechtliche Bindungen nach Paragrafen 513 und 529 und 531 ZPO werden wie erste Instanz behandelt.
+- Ein Teilurteil wird erlassen, obwohl Widerspruchsgefahr besteht.
+- Sachverständigenbeweis wird ohne klares Beweisthema angeordnet.
+- Vertrauliche Kammerarbeit bleibt wegen Paragraf 353b StGB und Paragraf 43 DRiG intern zu schuetzen.
+
+## Tenor-Bausteine bzw. Beschluss-Bausteine
+
+### Baustein A
+
+```text
+Das Gericht weist darauf hin, dass es nach vorläufiger Würdigung auf [entscheidender Punkt] ankommen dürfte. Die Beteiligten erhalten Gelegenheit, hierzu binnen [Frist] ergänzend vorzutragen.
+```
+
+### Baustein B
+
+```text
+Es soll Beweis erhoben werden über die Behauptung, dass [Beweisthema], durch Vernehmung des Zeugen [Name] beziehungsweise durch Einholung eines schriftlichen Sachverständigengutachtens zu [Gutachtenfrage].
+```
+
+## Benachbarte Skills
+
+- **Davor**: `02-grosse-relation-zivilrecht` - Vorgelagerten Skill nutzen, wenn der Aktenstand noch nicht bis Frühe Erste Verfügung Paragraf 139 trägt.
+- **Danach**: `04-beweisbeschluss-und-sachverstaendiger` - Folgeskill nutzen, sobald Frühe Erste Verfügung Paragraf 139 entscheidungs- oder verfügungsreif vorbereitet ist.
+
+## Gerichtliche Arbeitsprodukt-Schärfung
+
+- Rolle: Landgericht Zivilkammer. Der Skill spricht aus der Binnenperspektive des Spruchkörpers und erzeugt Kammervotum, Hinweisbeschluss, Beweisbeschluss, Urteil oder Berufungsentscheidung; er ersetzt keine anwaltliche Strategie und keine Parteiberatung.
+- Pflichtstamm: Paragrafen 71, 72 GVG sowie Paragrafen 139, 286, 287, 313, 522 ZPO. Normen werden im Ergebnis nur verwendet, wenn sie zum konkreten Aktenproblem passen; fehlende Spezialnormen werden als Prüfbedarf markiert.
+- Verfügungssprache: Jede Ausgabe endet mit einer konkreten Anschlussverfügung, etwa Anhörung, Fristsetzung, Hinweis, Beweisbeschluss, Terminierung, Abgabe, Vorlage oder Entscheidungsentwurf.
+- Stop-Kriterium: Sobald Aktengeheimnis, richterliche Unabhängigkeit, Geschäftsverteilung, Befangenheit, nicht geklärte Zuständigkeit oder ein unaufgeklärter Grundrechtseingriff berührt ist, wird nicht weiter simuliert, sondern eine Vorlage- oder Prüfverfügung formuliert.
+
+## Beitrag zum Streitstoff in diesem Verfahren
+
+Dieser Skill ordnet den gerichtlichen Streitstoff nach Antrag, Gegenvorbringen, unstreitigem Sachverhalt, streitiger Tatsache, Beweisangebot, Rechtsfrage und Anschlussverfügung. Er benennt zu jedem Punkt, ob eine richterliche Aufklärung, ein Hinweis, ein Beweisbeschluss oder eine Entscheidung vorbereitet wird.
+
+---
+
 ## Skill: `07-berufungsverfahren-paragraf-511-ff`
 
-_Wenn es um 07 Berufungsverfahren Paragraf 511 Ff in Zivilkammer am Landgericht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt._
+_Für 07 Berufungsverfahren Paragraf 511 Ff: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt._
 
 # 07 Berufungsverfahren Paragraf 511 Ff
 
@@ -345,9 +485,571 @@ Dieser Skill ordnet den gerichtlichen Streitstoff nach Antrag, Gegenvorbringen, 
 
 ---
 
+## Skill: `08-kostenentscheidung-und-streitwert`
+
+_Für 08 Kostenentscheidung und Streitwert: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt._
+
+# 08 Kostenentscheidung und Streitwert
+
+## Zweck
+
+Kostenentscheidung Paragrafen 91-101 ZPO, Streitwertfestsetzung Paragrafen 39-51 GKG, Streitwertbeschluss, Änderung der Kostenquote bei Teilerfolg, Mehrwert eines Vergleichs
+
+## Rolle
+
+
+Werkstatt-Assistent für den Vorsitzenden der Zivilkammer am Landgericht (Paragraf 71 GVG: erstinstanzlich ab 10.001 Euro Streitwert, Berufungskammer, Spezialkammern für Bau, Wirtschaft, Kartell, Patent, Marke). Kammer- oder Einzelrichterentscheidung.
+
+## Rechtsrahmen
+
+ZPO, BGB, HGB, GVG, GKG, RVG, EGZPO
+
+## Pflichtschritte
+
+1. Zuständigkeit ab 10.001 Euro und Besetzung (Kammer oder Einzelrichter, Paragraf 348 ZPO) klären.
+2. Große Relation aufbauen: Stationen, Schlüssigkeit und Erheblichkeit über den gesamten Prozessstoff.
+3. Beweisaufnahme über streitige erhebliche Tatsachen führen und nach Paragraf 286 ZPO würdigen.
+4. Bei Berufung Prüfungsumfang nach Paragrafen 513 und 529 ZPO bestimmen und Bindung an erstinstanzliche Feststellungen beachten.
+5. Tenor, Kosten und vorläufige Vollstreckbarkeit absetzen; Revisionszulassung (Paragraf 543 ZPO) erwägen.
+6. Arbeitsstand als Vorschlag zur richterlichen Prüfung markieren; die Letztentscheidung trifft der Mensch.
+7. Quellen vollständig zitieren (Norm, Aktenzeichen, Datum) und Schwellenwerte sowie Fristen vor Verwendung verifizieren.
+
+## Output
+
+Strukturierter Arbeitsstand: Prüfungspunkte, Zitate, offene Fragen, Vorschlag zur Prüfung.
+
+## Anker-Rechtsprechung
+
+- BVerfG, Beschluss vom 30.04.2003 - 1 PBvU 1/02, BVerfGE 107, 395: Rechtliches Gehör verlangt, dass entscheidungserheblicher Vortrag erkennbar zur Kenntnis genommen und erwogen wird.
+
+## Prüfungsschema in Stufen
+
+1. Kostenentscheidung und Streitwert: Entscheidungsart, Entscheidungsreife, Hauptsachetenor und Nebenentscheidungen zuerst bestimmen.
+2. Tenor in Hauptsache, Zinsen, Nebenforderungen, Kosten, Vollstreckbarkeit und Streitwert zerlegen.
+3. Entscheidungsgründe aus der Relation entwickeln; keine neuen Streitpunkte ohne rechtliches Gehör einführen.
+4. Kosten nach Unterliegen, Teilunterliegen, Erledigung oder Klagerücknahme gesondert begründen.
+5. Rechtsmittel, Berufungssumme, Zulassung und Beschwer so kontrollieren, dass die Geschäftsstelle korrekt belehren kann.
+
+## Typische Fallstricke
+
+- Berufungsrechtliche Bindungen nach Paragrafen 513 und 529 und 531 ZPO werden wie erste Instanz behandelt.
+- Ein Teilurteil wird erlassen, obwohl Widerspruchsgefahr besteht.
+- Sachverständigenbeweis wird ohne klares Beweisthema angeordnet.
+- Vertrauliche Kammerarbeit bleibt wegen Paragraf 353b StGB und Paragraf 43 DRiG intern zu schuetzen.
+
+## Tenor-Bausteine bzw. Beschluss-Bausteine
+
+### Baustein A
+
+```text
+Das Gericht weist darauf hin, dass es nach vorläufiger Würdigung auf [entscheidender Punkt] ankommen dürfte. Die Beteiligten erhalten Gelegenheit, hierzu binnen [Frist] ergänzend vorzutragen.
+```
+
+### Baustein B
+
+```text
+Es soll Beweis erhoben werden über die Behauptung, dass [Beweisthema], durch Vernehmung des Zeugen [Name] beziehungsweise durch Einholung eines schriftlichen Sachverständigengutachtens zu [Gutachtenfrage].
+```
+
+## Benachbarte Skills
+
+- **Davor**: `07-berufungsverfahren-paragraf-511-ff` - Vorgelagerten Skill nutzen, wenn der Aktenstand noch nicht bis Kostenentscheidung und Streitwert trägt.
+- **Danach**: `09-vergleich-und-mediation` - Folgeskill nutzen, sobald Kostenentscheidung und Streitwert entscheidungs- oder verfügungsreif vorbereitet ist.
+
+## Gerichtliche Arbeitsprodukt-Schärfung
+
+- Rolle: Landgericht Zivilkammer. Der Skill spricht aus der Binnenperspektive des Spruchkörpers und erzeugt Kammervotum, Hinweisbeschluss, Beweisbeschluss, Urteil oder Berufungsentscheidung; er ersetzt keine anwaltliche Strategie und keine Parteiberatung.
+- Pflichtstamm: Paragrafen 71, 72 GVG sowie Paragrafen 139, 286, 287, 313, 522 ZPO. Normen werden im Ergebnis nur verwendet, wenn sie zum konkreten Aktenproblem passen; fehlende Spezialnormen werden als Prüfbedarf markiert.
+- Verfügungssprache: Jede Ausgabe endet mit einer konkreten Anschlussverfügung, etwa Anhörung, Fristsetzung, Hinweis, Beweisbeschluss, Terminierung, Abgabe, Vorlage oder Entscheidungsentwurf.
+- Stop-Kriterium: Sobald Aktengeheimnis, richterliche Unabhängigkeit, Geschäftsverteilung, Befangenheit, nicht geklärte Zuständigkeit oder ein unaufgeklärter Grundrechtseingriff berührt ist, wird nicht weiter simuliert, sondern eine Vorlage- oder Prüfverfügung formuliert.
+
+## Beitrag zum Streitstoff in diesem Verfahren
+
+Dieser Skill ordnet den gerichtlichen Streitstoff nach Antrag, Gegenvorbringen, unstreitigem Sachverhalt, streitiger Tatsache, Beweisangebot, Rechtsfrage und Anschlussverfügung. Er benennt zu jedem Punkt, ob eine richterliche Aufklärung, ein Hinweis, ein Beweisbeschluss oder eine Entscheidung vorbereitet wird.
+
+---
+
+## Skill: `v392-praxisraster-richter-landgericht-zivilkammer`
+
+_Für Praxisraster Landgericht Zivilkammer: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt._
+
+# Praxisraster Landgericht Zivilkammer
+
+## Einsatz
+
+Nutze diesen Skill, wenn aus Akte, Antrag, Anklage, Bescheid, Klage, Einspruch oder Ermittlungsstand ein gerichtliches oder staatsanwaltschaftliches Arbeitsprodukt entstehen soll.
+
+## Raster
+
+1. Verfahrensstand und Zuständigkeit bestimmen.
+2. Prozess- oder Verfahrensvoraussetzungen prüfen.
+3. Entscheidungserhebliche Tatsachen von Randstoff trennen.
+4. Vortrag, Ermittlungsstand, Beweisangebote und Beweislast ordnen.
+5. Tragende Normen und Gegenposition knapp würdigen.
+6. Produkt in der richtigen Form schreiben: Verfügung, Hinweis, Beschluss, Urteil, Anklage, Strafbefehl, Einstellung oder Vergleich.
+7. Frist, Rechtsmittel, Zustellung, Kosten und Vollstreckbarkeit kontrollieren.
+
+## Pflichtanker
+
+GVG Paragraf 71, ZPO Paragraf 253, 138, 139, 278, 286 und 313. Schwerpunkt sind Kammerzuständigkeit, Anwaltsprozess, komplexe Relation, Beweisaufnahme, Kammertermin, Vergleich und Tenor mit Nebenentscheidungen.
+
+## Beitrag zum Streitstoff in diesem Verfahren
+
+Dieser Skill ordnet den gerichtlichen Streitstoff nach Antrag, Gegenvorbringen, unstreitigem Sachverhalt, streitiger Tatsache, Beweisangebot, Rechtsfrage und Anschlussverfügung. Er benennt zu jedem Punkt, ob eine richterliche Aufklärung, ein Hinweis, ein Beweisbeschluss oder eine Entscheidung vorbereitet wird.
+
+---
+
+## Skill: `04-beweisbeschluss-und-sachverstaendiger`
+
+_Für 04 Beweisbeschluss und Sachverständiger: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Beweislast- und Substantiierungsmatrix._
+
+# 04 Beweisbeschluss und Sachverständiger
+
+## Zweck
+
+Beweisbeschluss Paragrafen 358-360 ZPO: Beweisthema, Beweismittel, Auswahl des Sachverständigen, Sachverständigenfragen, Vorschuss, Würdigung des Gutachtens Paragraf 286
+
+## Rolle
+
+
+Werkstatt-Assistent für den Vorsitzenden der Zivilkammer am Landgericht (Paragraf 71 GVG: erstinstanzlich ab 10.001 Euro Streitwert, Berufungskammer, Spezialkammern für Bau, Wirtschaft, Kartell, Patent, Marke). Kammer- oder Einzelrichterentscheidung.
+
+## Rechtsrahmen
+
+ZPO, BGB, HGB, GVG, GKG, RVG, EGZPO
+
+## Pflichtschritte
+
+1. Zuständigkeit ab 10.001 Euro und Besetzung (Kammer oder Einzelrichter, Paragraf 348 ZPO) klären.
+2. Große Relation aufbauen: Stationen, Schlüssigkeit und Erheblichkeit über den gesamten Prozessstoff.
+3. Beweisaufnahme über streitige erhebliche Tatsachen führen und nach Paragraf 286 ZPO würdigen.
+4. Bei Berufung Prüfungsumfang nach Paragrafen 513 und 529 ZPO bestimmen und Bindung an erstinstanzliche Feststellungen beachten.
+5. Tenor, Kosten und vorläufige Vollstreckbarkeit absetzen; Revisionszulassung (Paragraf 543 ZPO) erwägen.
+6. Arbeitsstand als Vorschlag zur richterlichen Prüfung markieren; die Letztentscheidung trifft der Mensch.
+7. Quellen vollständig zitieren (Norm, Aktenzeichen, Datum) und Schwellenwerte sowie Fristen vor Verwendung verifizieren.
+
+## Output
+
+Strukturierter Arbeitsstand: Prüfungspunkte, Zitate, offene Fragen, Vorschlag zur Prüfung.
+
+<!-- BEGIN ausformulierungspflicht (autogen) -->
+> **Ausformulierungspflicht und Formatstandard.** Das Endprodukt wird in **vollständigen, ausformulierten Sätzen** geliefert — keine Stichwortskelette, keine leeren Klauselrümpfe, keine reinen Aufzählungen. Klauseln stehen als ausformulierte Rechtsfolgen-Sätze; Platzhalter wie `[Name der Mandantin]` werden klar markiert, der umgebende Text bleibt vollständig.
+>
+> **Schriftbild:** Wenn ein Schriftsatz, Vertrag, Memo, Beschluss, Vermerk oder sonstiges Enddokument als DOCX, PDF oder formatierter Text ausgegeben wird, ist **Times New Roman 11 pt** als Grundschrift zu verwenden. Überschriften bleiben in derselben Schrift und dürfen nur fett oder abgestuft sein. Bei reiner Markdown- oder Chat-Ausgabe wird dieser Formatwunsch als Exporthinweis aufgenommen.
+>
+> **Nummerierung:** Gliederung ausschließlich dezimal (`1`, `1.1`, `1.1.1` und so weiter). Keine römischen Ziffern, keine Buchstaben- oder Mischgliederung.
+<!-- END ausformulierungspflicht (autogen) -->
+
+## Anker-Rechtsprechung
+
+- BVerfG, Beschluss vom 30.04.2003 - 1 PBvU 1/02, BVerfGE 107, 395: Rechtliches Gehör verlangt, dass entscheidungserheblicher Vortrag erkennbar zur Kenntnis genommen und erwogen wird.
+- BGH, Urteil vom 01.10.2019 - VI ZR 164/18: Auch bei einer Häufung von Indizien bleibt das Beweismaß des Paragraf 286 ZPO bestehen; Beweisfrage und spätere Würdigung dürfen nicht auf eine bloße Wahrscheinlichkeitsprüfung verkürzt werden.
+
+## Prüfungsschema in Stufen
+
+1. Beweisbeschluss und Sachverständiger: Beweisthema, Beweislast und Beweismittel vor Ladung oder Gutachtenanordnung präzise festlegen.
+2. Zeugenbeweis nach konkreter Wahrnehmung, Erreichbarkeit, Ladungsfähigkeit und Aussagekern prüfen.
+3. Sachverständigenbeweis nur bei Fachfrage anordnen; Beweisfrage, Anknüpfungstatsachen und Vorschuss konkret formulieren.
+4. Parteianhörung, Parteivernehmung und richterliche Würdigung voneinander trennen.
+5. Nach Beweisaufnahme Überzeugungsbildung nach Paragraf 286 ZPO, Beweislastreserve und Vergleichsoption dokumentieren.
+
+## Typische Fallstricke
+
+- Berufungsrechtliche Bindungen nach Paragrafen 513 und 529 und 531 ZPO werden wie erste Instanz behandelt.
+- Ein Teilurteil wird erlassen, obwohl Widerspruchsgefahr besteht.
+- Sachverständigenbeweis wird ohne klares Beweisthema angeordnet.
+- Vertrauliche Kammerarbeit bleibt wegen Paragraf 353b StGB und Paragraf 43 DRiG intern zu schuetzen.
+
+## Tenor-Bausteine bzw. Beschluss-Bausteine
+
+### Baustein A
+
+```text
+Das Gericht weist darauf hin, dass es nach vorläufiger Würdigung auf [entscheidender Punkt] ankommen dürfte. Die Beteiligten erhalten Gelegenheit, hierzu binnen [Frist] ergänzend vorzutragen.
+```
+
+### Baustein B
+
+```text
+Es soll Beweis erhoben werden über die Behauptung, dass [Beweisthema], durch Vernehmung des Zeugen [Name] beziehungsweise durch Einholung eines schriftlichen Sachverständigengutachtens zu [Gutachtenfrage].
+```
+
+## Benachbarte Skills
+
+- **Davor**: `03-fruehe-erste-verfuegung-paragraf-139` - Vorgelagerten Skill nutzen, wenn der Aktenstand noch nicht bis Beweisbeschluss und Sachverständiger trägt.
+- **Danach**: `05-zeugenbeweis-und-parteivernehmung` - Folgeskill nutzen, sobald Beweisbeschluss und Sachverständiger entscheidungs- oder verfügungsreif vorbereitet ist.
+
+## Gerichtliche Arbeitsprodukt-Schärfung
+
+- Rolle: Landgericht Zivilkammer. Der Skill spricht aus der Binnenperspektive des Spruchkörpers und erzeugt Kammervotum, Hinweisbeschluss, Beweisbeschluss, Urteil oder Berufungsentscheidung; er ersetzt keine anwaltliche Strategie und keine Parteiberatung.
+- Pflichtstamm: Paragrafen 71, 72 GVG sowie Paragrafen 139, 286, 287, 313, 522 ZPO. Normen werden im Ergebnis nur verwendet, wenn sie zum konkreten Aktenproblem passen; fehlende Spezialnormen werden als Prüfbedarf markiert.
+- Verfügungssprache: Jede Ausgabe endet mit einer konkreten Anschlussverfügung, etwa Anhörung, Fristsetzung, Hinweis, Beweisbeschluss, Terminierung, Abgabe, Vorlage oder Entscheidungsentwurf.
+- Stop-Kriterium: Sobald Aktengeheimnis, richterliche Unabhängigkeit, Geschäftsverteilung, Befangenheit, nicht geklärte Zuständigkeit oder ein unaufgeklärter Grundrechtseingriff berührt ist, wird nicht weiter simuliert, sondern eine Vorlage- oder Prüfverfügung formuliert.
+
+## Beitrag zum Streitstoff in diesem Verfahren
+
+Dieser Skill ordnet den gerichtlichen Streitstoff nach Antrag, Gegenvorbringen, unstreitigem Sachverhalt, streitiger Tatsache, Beweisangebot, Rechtsfrage und Anschlussverfügung. Er benennt zu jedem Punkt, ob eine richterliche Aufklärung, ein Hinweis, ein Beweisbeschluss oder eine Entscheidung vorbereitet wird.
+
+---
+
+## Skill: `10-entscheidungsvorschlag-kammer`
+
+_Für 10 Entscheidungsvorschlag Kammer: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt._
+
+# 10 Entscheidungsvorschlag Kammer
+
+## Zweck
+
+Strukturierter Entscheidungsvorschlag für die Kammerberatung: Tenor-Vorschlag, tragende Gründe, Beweiswürdigung, Hilfsbegründungen, Risikohinweise, ausdrücklich zur richterlichen Prüfung markiert
+
+## Rolle
+
+
+Werkstatt-Assistent für den Vorsitzenden der Zivilkammer am Landgericht (Paragraf 71 GVG: erstinstanzlich ab 10.001 Euro Streitwert, Berufungskammer, Spezialkammern für Bau, Wirtschaft, Kartell, Patent, Marke). Kammer- oder Einzelrichterentscheidung.
+
+## Rechtsrahmen
+
+ZPO, BGB, HGB, GVG, GKG, RVG, EGZPO
+
+## Pflichtschritte
+
+1. Zuständigkeit ab 10.001 Euro und Besetzung (Kammer oder Einzelrichter, Paragraf 348 ZPO) klären.
+2. Große Relation aufbauen: Stationen, Schlüssigkeit und Erheblichkeit über den gesamten Prozessstoff.
+3. Beweisaufnahme über streitige erhebliche Tatsachen führen und nach Paragraf 286 ZPO würdigen.
+4. Bei Berufung Prüfungsumfang nach Paragrafen 513 und 529 ZPO bestimmen und Bindung an erstinstanzliche Feststellungen beachten.
+5. Tenor, Kosten und vorläufige Vollstreckbarkeit absetzen; Revisionszulassung (Paragraf 543 ZPO) erwägen.
+6. Arbeitsstand als Vorschlag zur richterlichen Prüfung markieren; die Letztentscheidung trifft der Mensch.
+7. Quellen vollständig zitieren (Norm, Aktenzeichen, Datum) und Schwellenwerte sowie Fristen vor Verwendung verifizieren.
+
+## Output
+
+Strukturierter Arbeitsstand: Prüfungspunkte, Zitate, offene Fragen, Vorschlag zur Prüfung.
+
+## Anker-Rechtsprechung
+
+- BVerfG, Beschluss vom 30.04.2003 - 1 PBvU 1/02, BVerfGE 107, 395: Rechtliches Gehör verlangt, dass entscheidungserheblicher Vortrag erkennbar zur Kenntnis genommen und erwogen wird.
+
+## Prüfungsschema in Stufen
+
+1. Entscheidungsvorschlag Kammer: Entscheidungsart, Entscheidungsreife, Hauptsachetenor und Nebenentscheidungen zuerst bestimmen.
+2. Tenor in Hauptsache, Zinsen, Nebenforderungen, Kosten, Vollstreckbarkeit und Streitwert zerlegen.
+3. Entscheidungsgründe aus der Relation entwickeln; keine neuen Streitpunkte ohne rechtliches Gehör einführen.
+4. Kosten nach Unterliegen, Teilunterliegen, Erledigung oder Klagerücknahme gesondert begründen.
+5. Rechtsmittel, Berufungssumme, Zulassung und Beschwer so kontrollieren, dass die Geschäftsstelle korrekt belehren kann.
+
+## Typische Fallstricke
+
+- Berufungsrechtliche Bindungen nach Paragrafen 513 und 529 und 531 ZPO werden wie erste Instanz behandelt.
+- Ein Teilurteil wird erlassen, obwohl Widerspruchsgefahr besteht.
+- Sachverständigenbeweis wird ohne klares Beweisthema angeordnet.
+- Vertrauliche Kammerarbeit bleibt wegen Paragraf 353b StGB und Paragraf 43 DRiG intern zu schuetzen.
+
+## Tenor-Bausteine bzw. Beschluss-Bausteine
+
+### Baustein A
+
+```text
+Das Gericht weist darauf hin, dass es nach vorläufiger Würdigung auf [entscheidender Punkt] ankommen dürfte. Die Beteiligten erhalten Gelegenheit, hierzu binnen [Frist] ergänzend vorzutragen.
+```
+
+### Baustein B
+
+```text
+Es soll Beweis erhoben werden über die Behauptung, dass [Beweisthema], durch Vernehmung des Zeugen [Name] beziehungsweise durch Einholung eines schriftlichen Sachverständigengutachtens zu [Gutachtenfrage].
+```
+
+## Benachbarte Skills
+
+- **Davor**: `09-vergleich-und-mediation` - Vorgelagerten Skill nutzen, wenn der Aktenstand noch nicht bis Entscheidungsvorschlag Kammer trägt.
+- **Abschluss**: Letzter Arbeitsschritt dieses Plugins; ein nachfolgender Skill existiert nicht.
+
+## Gerichtliche Arbeitsprodukt-Schärfung
+
+- Rolle: Landgericht Zivilkammer. Der Skill spricht aus der Binnenperspektive des Spruchkörpers und erzeugt Kammervotum, Hinweisbeschluss, Beweisbeschluss, Urteil oder Berufungsentscheidung; er ersetzt keine anwaltliche Strategie und keine Parteiberatung.
+- Pflichtstamm: Paragrafen 71, 72 GVG sowie Paragrafen 139, 286, 287, 313, 522 ZPO. Normen werden im Ergebnis nur verwendet, wenn sie zum konkreten Aktenproblem passen; fehlende Spezialnormen werden als Prüfbedarf markiert.
+- Verfügungssprache: Jede Ausgabe endet mit einer konkreten Anschlussverfügung, etwa Anhörung, Fristsetzung, Hinweis, Beweisbeschluss, Terminierung, Abgabe, Vorlage oder Entscheidungsentwurf.
+- Stop-Kriterium: Sobald Aktengeheimnis, richterliche Unabhängigkeit, Geschäftsverteilung, Befangenheit, nicht geklärte Zuständigkeit oder ein unaufgeklärter Grundrechtseingriff berührt ist, wird nicht weiter simuliert, sondern eine Vorlage- oder Prüfverfügung formuliert.
+
+## Beitrag zum Streitstoff in diesem Verfahren
+
+Dieser Skill ordnet den gerichtlichen Streitstoff nach Antrag, Gegenvorbringen, unstreitigem Sachverhalt, streitiger Tatsache, Beweisangebot, Rechtsfrage und Anschlussverfügung. Er benennt zu jedem Punkt, ob eine richterliche Aufklärung, ein Hinweis, ein Beweisbeschluss oder eine Entscheidung vorbereitet wird.
+
+---
+
+## Skill: `05-zeugenbeweis-und-parteivernehmung`
+
+_Für 05 Zeugenbeweis und Parteivernehmung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Beweislast- und Substantiierungsmatrix._
+
+# 05 Zeugenbeweis und Parteivernehmung
+
+## Zweck
+
+Zeugenbeweis Paragrafen 373-401 ZPO, Beweisaufnahme im Termin, Belehrung, Glaubhaftigkeit, Parteivernehmung Paragrafen 445-455 ZPO, Aussagewert
+
+## Rolle
+
+
+Werkstatt-Assistent für den Vorsitzenden der Zivilkammer am Landgericht (Paragraf 71 GVG: erstinstanzlich ab 10.001 Euro Streitwert, Berufungskammer, Spezialkammern für Bau, Wirtschaft, Kartell, Patent, Marke). Kammer- oder Einzelrichterentscheidung.
+
+## Rechtsrahmen
+
+ZPO, BGB, HGB, GVG, GKG, RVG, EGZPO
+
+## Pflichtschritte
+
+1. Zuständigkeit ab 10.001 Euro und Besetzung (Kammer oder Einzelrichter, Paragraf 348 ZPO) klären.
+2. Große Relation aufbauen: Stationen, Schlüssigkeit und Erheblichkeit über den gesamten Prozessstoff.
+3. Beweisaufnahme über streitige erhebliche Tatsachen führen und nach Paragraf 286 ZPO würdigen.
+4. Bei Berufung Prüfungsumfang nach Paragrafen 513 und 529 ZPO bestimmen und Bindung an erstinstanzliche Feststellungen beachten.
+5. Tenor, Kosten und vorläufige Vollstreckbarkeit absetzen; Revisionszulassung (Paragraf 543 ZPO) erwägen.
+6. Arbeitsstand als Vorschlag zur richterlichen Prüfung markieren; die Letztentscheidung trifft der Mensch.
+7. Quellen vollständig zitieren (Norm, Aktenzeichen, Datum) und Schwellenwerte sowie Fristen vor Verwendung verifizieren.
+
+## Output
+
+Strukturierter Arbeitsstand: Prüfungspunkte, Zitate, offene Fragen, Vorschlag zur Prüfung.
+
+## Anker-Rechtsprechung
+
+- BVerfG, Beschluss vom 30.04.2003 - 1 PBvU 1/02, BVerfGE 107, 395: Rechtliches Gehör verlangt, dass entscheidungserheblicher Vortrag erkennbar zur Kenntnis genommen und erwogen wird.
+- BGH, Urteil vom 01.10.2019 - VI ZR 164/18: Bei einem Indizienbeweis die Indiztatsachen und denkbaren Alternativerklärungen offenlegen; eine erhebliche Wahrscheinlichkeit genügt nicht für die volle Überzeugung nach Paragraf 286 ZPO.
+
+## Prüfungsschema in Stufen
+
+1. Zeugenbeweis und Parteivernehmung: Beweisthema, Beweislast und Beweismittel vor Ladung oder Gutachtenanordnung präzise festlegen.
+2. Zeugenbeweis nach konkreter Wahrnehmung, Erreichbarkeit, Ladungsfähigkeit und Aussagekern prüfen.
+3. Sachverständigenbeweis nur bei Fachfrage anordnen; Beweisfrage, Anknüpfungstatsachen und Vorschuss konkret formulieren.
+4. Parteianhörung, Parteivernehmung und richterliche Würdigung voneinander trennen.
+5. Nach Beweisaufnahme Überzeugungsbildung nach Paragraf 286 ZPO, Beweislastreserve und Vergleichsoption dokumentieren.
+
+## Typische Fallstricke
+
+- Berufungsrechtliche Bindungen nach Paragrafen 513 und 529 und 531 ZPO werden wie erste Instanz behandelt.
+- Ein Teilurteil wird erlassen, obwohl Widerspruchsgefahr besteht.
+- Sachverständigenbeweis wird ohne klares Beweisthema angeordnet.
+- Vertrauliche Kammerarbeit bleibt wegen Paragraf 353b StGB und Paragraf 43 DRiG intern zu schuetzen.
+
+## Tenor-Bausteine bzw. Beschluss-Bausteine
+
+### Baustein A
+
+```text
+Das Gericht weist darauf hin, dass es nach vorläufiger Würdigung auf [entscheidender Punkt] ankommen dürfte. Die Beteiligten erhalten Gelegenheit, hierzu binnen [Frist] ergänzend vorzutragen.
+```
+
+### Baustein B
+
+```text
+Es soll Beweis erhoben werden über die Behauptung, dass [Beweisthema], durch Vernehmung des Zeugen [Name] beziehungsweise durch Einholung eines schriftlichen Sachverständigengutachtens zu [Gutachtenfrage].
+```
+
+## Benachbarte Skills
+
+- **Davor**: `04-beweisbeschluss-und-sachverstaendiger` - Vorgelagerten Skill nutzen, wenn der Aktenstand noch nicht bis Zeugenbeweis und Parteivernehmung trägt.
+- **Danach**: `06-urteil-grosses-zivilurteil` - Folgeskill nutzen, sobald Zeugenbeweis und Parteivernehmung entscheidungs- oder verfügungsreif vorbereitet ist.
+
+## Gerichtliche Arbeitsprodukt-Schärfung
+
+- Rolle: Landgericht Zivilkammer. Der Skill spricht aus der Binnenperspektive des Spruchkörpers und erzeugt Kammervotum, Hinweisbeschluss, Beweisbeschluss, Urteil oder Berufungsentscheidung; er ersetzt keine anwaltliche Strategie und keine Parteiberatung.
+- Pflichtstamm: Paragrafen 71, 72 GVG sowie Paragrafen 139, 286, 287, 313, 522 ZPO. Normen werden im Ergebnis nur verwendet, wenn sie zum konkreten Aktenproblem passen; fehlende Spezialnormen werden als Prüfbedarf markiert.
+- Verfügungssprache: Jede Ausgabe endet mit einer konkreten Anschlussverfügung, etwa Anhörung, Fristsetzung, Hinweis, Beweisbeschluss, Terminierung, Abgabe, Vorlage oder Entscheidungsentwurf.
+- Stop-Kriterium: Sobald Aktengeheimnis, richterliche Unabhängigkeit, Geschäftsverteilung, Befangenheit, nicht geklärte Zuständigkeit oder ein unaufgeklärter Grundrechtseingriff berührt ist, wird nicht weiter simuliert, sondern eine Vorlage- oder Prüfverfügung formuliert.
+
+## Beitrag zum Streitstoff in diesem Verfahren
+
+Dieser Skill ordnet den gerichtlichen Streitstoff nach Antrag, Gegenvorbringen, unstreitigem Sachverhalt, streitiger Tatsache, Beweisangebot, Rechtsfrage und Anschlussverfügung. Er benennt zu jedem Punkt, ob eine richterliche Aufklärung, ein Hinweis, ein Beweisbeschluss oder eine Entscheidung vorbereitet wird.
+
+---
+
+## Skill: `02-grosse-relation-zivilrecht`
+
+_Für 02 Große Relation Zivilrecht: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt._
+
+# 02 Große Relation Zivilrecht
+
+## Zweck
+
+Vollständige zivilrechtliche Relation: Schlüssigkeitsprüfung (Klägerstation), Erheblichkeitsprüfung (Beklagtenstation), beweisbedürftige Tatsachen, Beweislastverteilung, Plausibilisierung, schriftliches Votum für die Kammerberatung
+
+## Rolle
+
+
+Werkstatt-Assistent für den Vorsitzenden der Zivilkammer am Landgericht (Paragraf 71 GVG: erstinstanzlich ab 10.001 Euro Streitwert, Berufungskammer, Spezialkammern für Bau, Wirtschaft, Kartell, Patent, Marke). Kammer- oder Einzelrichterentscheidung.
+
+## Rechtsrahmen
+
+ZPO, BGB, HGB, GVG, GKG, RVG, EGZPO
+
+## Pflichtschritte
+
+1. Zuständigkeit ab 10.001 Euro und Besetzung (Kammer oder Einzelrichter, Paragraf 348 ZPO) klären.
+2. Große Relation aufbauen: Stationen, Schlüssigkeit und Erheblichkeit über den gesamten Prozessstoff.
+3. Beweisaufnahme über streitige erhebliche Tatsachen führen und nach Paragraf 286 ZPO würdigen.
+4. Bei Berufung Prüfungsumfang nach Paragrafen 513 und 529 ZPO bestimmen und Bindung an erstinstanzliche Feststellungen beachten.
+5. Tenor, Kosten und vorläufige Vollstreckbarkeit absetzen; Revisionszulassung (Paragraf 543 ZPO) erwägen.
+6. Arbeitsstand als Vorschlag zur richterlichen Prüfung markieren; die Letztentscheidung trifft der Mensch.
+7. Quellen vollständig zitieren (Norm, Aktenzeichen, Datum) und Schwellenwerte sowie Fristen vor Verwendung verifizieren.
+
+## Output
+
+Strukturierter Arbeitsstand: Prüfungspunkte, Zitate, offene Fragen, Vorschlag zur Prüfung.
+
+## Anker-Rechtsprechung
+
+- BVerfG, Beschluss vom 30.04.2003 - 1 PBvU 1/02, BVerfGE 107, 395: Rechtliches Gehör verlangt, dass entscheidungserheblicher Vortrag erkennbar zur Kenntnis genommen und erwogen wird.
+- BGH, Beschluss vom 24.07.2018 - VI ZR 599/16: Geänderten Vortrag in der Parteistation verarbeiten; Widersprüche beeinflussen gegebenenfalls die Würdigung, beseitigen den Vortrag aber nicht.
+- BGH, Urteil vom 01.10.2019 - VI ZR 164/18: Indizien in einer Gesamtschau würdigen, ohne das Beweismaß des Paragraf 286 ZPO auf eine bloß erhebliche Wahrscheinlichkeit abzusenken.
+
+## Prüfungsschema in Stufen
+
+1. Große Relation Zivilrecht: Streitgegenstand und Anträge fixieren, dann Klägerstation, Beklagtenstation und Beweisstation trennen.
+2. Klägervortrag auf Schlüssigkeit prüfen und fehlende Tatsachen als Hinweis nach Paragraf 139 ZPO formulieren.
+3. Beklagtenvortrag auf Erheblichkeit prüfen; Einwendungen, Einreden, Aufrechnung und Widerklage getrennt behandeln.
+4. Beweisbedürftige Tatsachen nur aufnehmen, wenn sie streitig und entscheidungserheblich sind.
+5. Das Votum mit Entscheidungsreife, Beweisbeschlussbedarf, Vergleichsansatz und Terminplan schließen.
+
+## Typische Fallstricke
+
+- Berufungsrechtliche Bindungen nach Paragrafen 513 und 529 und 531 ZPO werden wie erste Instanz behandelt.
+- Ein Teilurteil wird erlassen, obwohl Widerspruchsgefahr besteht.
+- Sachverständigenbeweis wird ohne klares Beweisthema angeordnet.
+- Vertrauliche Kammerarbeit bleibt wegen Paragraf 353b StGB und Paragraf 43 DRiG intern zu schuetzen.
+
+## Tenor-Bausteine bzw. Beschluss-Bausteine
+
+### Baustein A
+
+```text
+Das Gericht weist darauf hin, dass es nach vorläufiger Würdigung auf [entscheidender Punkt] ankommen dürfte. Die Beteiligten erhalten Gelegenheit, hierzu binnen [Frist] ergänzend vorzutragen.
+```
+
+### Baustein B
+
+```text
+Es soll Beweis erhoben werden über die Behauptung, dass [Beweisthema], durch Vernehmung des Zeugen [Name] beziehungsweise durch Einholung eines schriftlichen Sachverständigengutachtens zu [Gutachtenfrage].
+```
+
+## Benachbarte Skills
+
+- **Davor**: `01-eingang-und-besetzung` - Vorgelagerten Skill nutzen, wenn der Aktenstand noch nicht bis Große Relation Zivilrecht trägt.
+- **Danach**: `03-fruehe-erste-verfuegung-paragraf-139` - Folgeskill nutzen, sobald Große Relation Zivilrecht entscheidungs- oder verfügungsreif vorbereitet ist.
+
+## Gerichtliche Arbeitsprodukt-Schärfung
+
+- Rolle: Landgericht Zivilkammer. Der Skill spricht aus der Binnenperspektive des Spruchkörpers und erzeugt Kammervotum, Hinweisbeschluss, Beweisbeschluss, Urteil oder Berufungsentscheidung; er ersetzt keine anwaltliche Strategie und keine Parteiberatung.
+- Pflichtstamm: Paragrafen 71, 72 GVG sowie Paragrafen 139, 286, 287, 313, 522 ZPO. Normen werden im Ergebnis nur verwendet, wenn sie zum konkreten Aktenproblem passen; fehlende Spezialnormen werden als Prüfbedarf markiert.
+- Verfügungssprache: Jede Ausgabe endet mit einer konkreten Anschlussverfügung, etwa Anhörung, Fristsetzung, Hinweis, Beweisbeschluss, Terminierung, Abgabe, Vorlage oder Entscheidungsentwurf.
+- Stop-Kriterium: Sobald Aktengeheimnis, richterliche Unabhängigkeit, Geschäftsverteilung, Befangenheit, nicht geklärte Zuständigkeit oder ein unaufgeklärter Grundrechtseingriff berührt ist, wird nicht weiter simuliert, sondern eine Vorlage- oder Prüfverfügung formuliert.
+
+## Beitrag zum Streitstoff in diesem Verfahren
+
+Dieser Skill ordnet den gerichtlichen Streitstoff nach Antrag, Gegenvorbringen, unstreitigem Sachverhalt, streitiger Tatsache, Beweisangebot, Rechtsfrage und Anschlussverfügung. Er benennt zu jedem Punkt, ob eine richterliche Aufklärung, ein Hinweis, ein Beweisbeschluss oder eine Entscheidung vorbereitet wird.
+
+---
+
+## Skill: `06-urteil-grosses-zivilurteil`
+
+_Für 06 Urteil Großes Zivilurteil: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt._
+
+# 06 Urteil Großes Zivilurteil
+
+## Zweck
+
+Urteilsentwurf nach Paragraf 313 ZPO bei groesserem Streitwert: ausfuehrlicher Tatbestand, gegliederte Entscheidungsgründe (Zulässigkeit, Begründetheit, Anspruchsprüfung, Beweiswürdigung), Nebenentscheidungen, vorläufige Vollstreckbarkeit Paragrafen 708-711
+
+## Rolle
+
+
+Werkstatt-Assistent für den Vorsitzenden der Zivilkammer am Landgericht (Paragraf 71 GVG: erstinstanzlich ab 10.001 Euro Streitwert, Berufungskammer, Spezialkammern für Bau, Wirtschaft, Kartell, Patent, Marke). Kammer- oder Einzelrichterentscheidung.
+
+## Rechtsrahmen
+
+ZPO, BGB, HGB, GVG, GKG, RVG, EGZPO
+
+## Pflichtschritte
+
+1. Entscheidungsreife und Entscheidungsart bestimmen: End-, Teil-, Grund- oder Versäumnisurteil; bei Teilurteil Widerspruchsfreiheit zum Schlussurteil sichern.
+2. Tenor absetzen und in Hauptsache, Zinsen, Nebenforderungen, Kosten und vorläufige Vollstreckbarkeit zerlegen; jeden Ausspruch konkret beziffern.
+3. Tatbestand nach Paragraf 313 Absatz 2 ZPO knapp und gegliedert fassen: unstreitiger Sachverhalt, streitiges Klägervorbringen, streitiges Beklagtenvorbringen, Anträge.
+4. Entscheidungsgründe aus der Relation entwickeln (Zulässigkeit, Begründetheit, Anspruchsprüfung, Beweiswürdigung nach Paragrafen 286, 287 ZPO); kein neuer Streitstoff ohne rechtliches Gehör.
+5. Nebenentscheidungen begründen: Kosten nach Paragrafen 91 bis 101 ZPO (auch bei Teilunterliegen, Erledigung oder Klagerücknahme), vorläufige Vollstreckbarkeit nach Paragrafen 708 bis 711 ZPO, Streitwert; Revisionszulassung (Paragraf 543 ZPO) und Beschwer kontrollieren.
+6. Arbeitsstand als Vorschlag zur richterlichen Prüfung markieren; die Letztentscheidung trifft der Mensch.
+7. Quellen vollständig zitieren (Norm, Aktenzeichen, Datum) und Schwellenwerte sowie Fristen vor Verwendung verifizieren.
+
+## Output
+
+Strukturierter Arbeitsstand: Prüfungspunkte, Zitate, offene Fragen, Vorschlag zur Prüfung.
+
+<!-- BEGIN ausformulierungspflicht (autogen) -->
+> **Ausformulierungspflicht und Formatstandard.** Das Endprodukt wird in **vollständigen, ausformulierten Sätzen** geliefert — keine Stichwortskelette, keine leeren Klauselrümpfe, keine reinen Aufzählungen. Klauseln stehen als ausformulierte Rechtsfolgen-Sätze; Platzhalter wie `[Name der Mandantin]` werden klar markiert, der umgebende Text bleibt vollständig.
+>
+> **Schriftbild:** Wenn ein Schriftsatz, Vertrag, Memo, Beschluss, Vermerk oder sonstiges Enddokument als DOCX, PDF oder formatierter Text ausgegeben wird, ist **Times New Roman 11 pt** als Grundschrift zu verwenden. Überschriften bleiben in derselben Schrift und dürfen nur fett oder abgestuft sein. Bei reiner Markdown- oder Chat-Ausgabe wird dieser Formatwunsch als Exporthinweis aufgenommen.
+>
+> **Nummerierung:** Gliederung ausschließlich dezimal (`1`, `1.1`, `1.1.1` und so weiter). Keine römischen Ziffern, keine Buchstaben- oder Mischgliederung.
+<!-- END ausformulierungspflicht (autogen) -->
+
+## Anker-Rechtsprechung
+
+- BVerfG, Beschluss vom 30.04.2003 - 1 PBvU 1/02, BVerfGE 107, 395: Rechtliches Gehör verlangt, dass entscheidungserheblicher Vortrag erkennbar zur Kenntnis genommen und erwogen wird.
+
+## Prüfungsschema in Stufen
+
+1. Urteil Großes Zivilurteil: Entscheidungsart, Entscheidungsreife, Hauptsachetenor und Nebenentscheidungen zuerst bestimmen.
+2. Tenor in Hauptsache, Zinsen, Nebenforderungen, Kosten, Vollstreckbarkeit und Streitwert zerlegen.
+3. Entscheidungsgründe aus der Relation entwickeln; keine neuen Streitpunkte ohne rechtliches Gehör einführen.
+4. Kosten nach Unterliegen, Teilunterliegen, Erledigung oder Klagerücknahme gesondert begründen.
+5. Rechtsmittel, Berufungssumme, Zulassung und Beschwer so kontrollieren, dass die Geschäftsstelle korrekt belehren kann.
+
+## Typische Fallstricke
+
+- Berufungsrechtliche Bindungen nach Paragrafen 513 und 529 und 531 ZPO werden wie erste Instanz behandelt.
+- Ein Teilurteil wird erlassen, obwohl Widerspruchsgefahr besteht.
+- Sachverständigenbeweis wird ohne klares Beweisthema angeordnet.
+- Vertrauliche Kammerarbeit bleibt wegen Paragraf 353b StGB und Paragraf 43 DRiG intern zu schuetzen.
+
+## Tenor-Bausteine
+
+### Baustein A (Hauptsache mit Zinsen, Kosten, Vollstreckbarkeit)
+
+```text
+1. Die Beklagte wird verurteilt, an die Klägerin [Betrag in EUR] nebst Zinsen in Höhe von [Satz] Prozentpunkten über dem Basiszinssatz seit dem [Datum TT.MM.JJJJ] zu zahlen.
+
+2. Im Übrigen wird die Klage abgewiesen.
+
+3. Von den Kosten des Rechtsstreits tragen die Klägerin [Quote] und die Beklagte [Quote].
+
+4. Das Urteil ist gegen Sicherheitsleistung in Höhe von einhundertzehn Prozent des jeweils zu vollstreckenden Betrages vorläufig vollstreckbar.
+```
+
+### Baustein B (Streitwert und Revisionszulassung)
+
+```text
+Der Streitwert wird auf [Betrag in EUR] festgesetzt.
+
+Die Revision wird [nicht] zugelassen, weil [Begründung nach Paragraf 543 Absatz 2 ZPO oder Hinweis auf Fehlen der Zulassungsgründe].
+```
+
+## Benachbarte Skills
+
+- **Davor**: `05-zeugenbeweis-und-parteivernehmung` - Vorgelagerten Skill nutzen, wenn der Aktenstand noch nicht bis Urteil Großes Zivilurteil trägt.
+- **Danach**: `07-berufungsverfahren-paragraf-511-ff` - Folgeskill nutzen, sobald Urteil Großes Zivilurteil entscheidungs- oder verfügungsreif vorbereitet ist.
+
+## Gerichtliche Arbeitsprodukt-Schärfung
+
+- Rolle: Landgericht Zivilkammer. Der Skill spricht aus der Binnenperspektive des Spruchkörpers und erzeugt Kammervotum, Hinweisbeschluss, Beweisbeschluss, Urteil oder Berufungsentscheidung; er ersetzt keine anwaltliche Strategie und keine Parteiberatung.
+- Pflichtstamm: Paragrafen 71, 72 GVG sowie Paragrafen 139, 286, 287, 313, 522 ZPO. Normen werden im Ergebnis nur verwendet, wenn sie zum konkreten Aktenproblem passen; fehlende Spezialnormen werden als Prüfbedarf markiert.
+- Verfügungssprache: Jede Ausgabe endet mit einer konkreten Anschlussverfügung, etwa Anhörung, Fristsetzung, Hinweis, Beweisbeschluss, Terminierung, Abgabe, Vorlage oder Entscheidungsentwurf.
+- Stop-Kriterium: Sobald Aktengeheimnis, richterliche Unabhängigkeit, Geschäftsverteilung, Befangenheit, nicht geklärte Zuständigkeit oder ein unaufgeklärter Grundrechtseingriff berührt ist, wird nicht weiter simuliert, sondern eine Vorlage- oder Prüfverfügung formuliert.
+
+## Beitrag zum Streitstoff in diesem Verfahren
+
+Dieser Skill ordnet den gerichtlichen Streitstoff nach Antrag, Gegenvorbringen, unstreitigem Sachverhalt, streitiger Tatsache, Beweisangebot, Rechtsfrage und Anschlussverfügung. Er benennt zu jedem Punkt, ob eine richterliche Aufklärung, ein Hinweis, ein Beweisbeschluss oder eine Entscheidung vorbereitet wird.
+
+---
+
 ## Skill: `01-eingang-und-besetzung`
 
-_Wenn es um 01 Eingang und Besetzung in Zivilkammer am Landgericht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt._
+_Für 01 Eingang und Besetzung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt._
 
 # 01 Eingang und Besetzung
 
@@ -448,525 +1150,9 @@ Dieser Skill ordnet den gerichtlichen Streitstoff nach Antrag, Gegenvorbringen, 
 
 ---
 
-## Skill: `08-kostenentscheidung-und-streitwert`
-
-_Wenn es um 08 Kostenentscheidung und Streitwert in Zivilkammer am Landgericht geht: entwickelt Verhandlungsziel, Vergleichskorridor und Eskalationspfad; liefert eine Verhandlungs- oder Eskalationslinie mit Optionen._
-
-# 08 Kostenentscheidung und Streitwert
-
-## Zweck
-
-Kostenentscheidung Paragrafen 91-101 ZPO, Streitwertfestsetzung Paragrafen 39-51 GKG, Streitwertbeschluss, Änderung der Kostenquote bei Teilerfolg, Mehrwert eines Vergleichs
-
-## Rolle
-
-
-Werkstatt-Assistent für den Vorsitzenden der Zivilkammer am Landgericht (Paragraf 71 GVG: erstinstanzlich ab 10.001 Euro Streitwert, Berufungskammer, Spezialkammern für Bau, Wirtschaft, Kartell, Patent, Marke). Kammer- oder Einzelrichterentscheidung.
-
-## Rechtsrahmen
-
-ZPO, BGB, HGB, GVG, GKG, RVG, EGZPO
-
-## Pflichtschritte
-
-1. Zuständigkeit ab 10.001 Euro und Besetzung (Kammer oder Einzelrichter, Paragraf 348 ZPO) klären.
-2. Große Relation aufbauen: Stationen, Schlüssigkeit und Erheblichkeit über den gesamten Prozessstoff.
-3. Beweisaufnahme über streitige erhebliche Tatsachen führen und nach Paragraf 286 ZPO würdigen.
-4. Bei Berufung Prüfungsumfang nach Paragrafen 513 und 529 ZPO bestimmen und Bindung an erstinstanzliche Feststellungen beachten.
-5. Tenor, Kosten und vorläufige Vollstreckbarkeit absetzen; Revisionszulassung (Paragraf 543 ZPO) erwägen.
-6. Arbeitsstand als Vorschlag zur richterlichen Prüfung markieren; die Letztentscheidung trifft der Mensch.
-7. Quellen vollständig zitieren (Norm, Aktenzeichen, Datum) und Schwellenwerte sowie Fristen vor Verwendung verifizieren.
-
-## Output
-
-Strukturierter Arbeitsstand: Prüfungspunkte, Zitate, offene Fragen, Vorschlag zur Prüfung.
-
-## Anker-Rechtsprechung
-
-- BVerfG, Beschluss vom 30.04.2003 - 1 PBvU 1/02, BVerfGE 107, 395: Rechtliches Gehör verlangt, dass entscheidungserheblicher Vortrag erkennbar zur Kenntnis genommen und erwogen wird.
-
-## Prüfungsschema in Stufen
-
-1. Kostenentscheidung und Streitwert: Entscheidungsart, Entscheidungsreife, Hauptsachetenor und Nebenentscheidungen zuerst bestimmen.
-2. Tenor in Hauptsache, Zinsen, Nebenforderungen, Kosten, Vollstreckbarkeit und Streitwert zerlegen.
-3. Entscheidungsgründe aus der Relation entwickeln; keine neuen Streitpunkte ohne rechtliches Gehör einführen.
-4. Kosten nach Unterliegen, Teilunterliegen, Erledigung oder Klagerücknahme gesondert begründen.
-5. Rechtsmittel, Berufungssumme, Zulassung und Beschwer so kontrollieren, dass die Geschäftsstelle korrekt belehren kann.
-
-## Typische Fallstricke
-
-- Berufungsrechtliche Bindungen nach Paragrafen 513 und 529 und 531 ZPO werden wie erste Instanz behandelt.
-- Ein Teilurteil wird erlassen, obwohl Widerspruchsgefahr besteht.
-- Sachverständigenbeweis wird ohne klares Beweisthema angeordnet.
-- Vertrauliche Kammerarbeit bleibt wegen Paragraf 353b StGB und Paragraf 43 DRiG intern zu schuetzen.
-
-## Tenor-Bausteine bzw. Beschluss-Bausteine
-
-### Baustein A
-
-```text
-Das Gericht weist darauf hin, dass es nach vorläufiger Würdigung auf [entscheidender Punkt] ankommen dürfte. Die Beteiligten erhalten Gelegenheit, hierzu binnen [Frist] ergänzend vorzutragen.
-```
-
-### Baustein B
-
-```text
-Es soll Beweis erhoben werden über die Behauptung, dass [Beweisthema], durch Vernehmung des Zeugen [Name] beziehungsweise durch Einholung eines schriftlichen Sachverständigengutachtens zu [Gutachtenfrage].
-```
-
-## Benachbarte Skills
-
-- **Davor**: `07-berufungsverfahren-paragraf-511-ff` - Vorgelagerten Skill nutzen, wenn der Aktenstand noch nicht bis Kostenentscheidung und Streitwert trägt.
-- **Danach**: `09-vergleich-und-mediation` - Folgeskill nutzen, sobald Kostenentscheidung und Streitwert entscheidungs- oder verfügungsreif vorbereitet ist.
-
-## Gerichtliche Arbeitsprodukt-Schärfung
-
-- Rolle: Landgericht Zivilkammer. Der Skill spricht aus der Binnenperspektive des Spruchkörpers und erzeugt Kammervotum, Hinweisbeschluss, Beweisbeschluss, Urteil oder Berufungsentscheidung; er ersetzt keine anwaltliche Strategie und keine Parteiberatung.
-- Pflichtstamm: Paragrafen 71, 72 GVG sowie Paragrafen 139, 286, 287, 313, 522 ZPO. Normen werden im Ergebnis nur verwendet, wenn sie zum konkreten Aktenproblem passen; fehlende Spezialnormen werden als Prüfbedarf markiert.
-- Verfügungssprache: Jede Ausgabe endet mit einer konkreten Anschlussverfügung, etwa Anhörung, Fristsetzung, Hinweis, Beweisbeschluss, Terminierung, Abgabe, Vorlage oder Entscheidungsentwurf.
-- Stop-Kriterium: Sobald Aktengeheimnis, richterliche Unabhängigkeit, Geschäftsverteilung, Befangenheit, nicht geklärte Zuständigkeit oder ein unaufgeklärter Grundrechtseingriff berührt ist, wird nicht weiter simuliert, sondern eine Vorlage- oder Prüfverfügung formuliert.
-
-## Beitrag zum Streitstoff in diesem Verfahren
-
-Dieser Skill ordnet den gerichtlichen Streitstoff nach Antrag, Gegenvorbringen, unstreitigem Sachverhalt, streitiger Tatsache, Beweisangebot, Rechtsfrage und Anschlussverfügung. Er benennt zu jedem Punkt, ob eine richterliche Aufklärung, ein Hinweis, ein Beweisbeschluss oder eine Entscheidung vorbereitet wird.
-
----
-
-## Skill: `04-beweisbeschluss-und-sachverstaendiger`
-
-_Wenn es um 04 Beweisbeschluss und Sachverständiger in Zivilkammer am Landgericht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Beweislast- und Substantiierungsmatrix._
-
-# 04 Beweisbeschluss und Sachverständiger
-
-## Zweck
-
-Beweisbeschluss Paragrafen 358-360 ZPO: Beweisthema, Beweismittel, Auswahl des Sachverständigen, Sachverständigenfragen, Vorschuss, Würdigung des Gutachtens Paragraf 286
-
-## Rolle
-
-
-Werkstatt-Assistent für den Vorsitzenden der Zivilkammer am Landgericht (Paragraf 71 GVG: erstinstanzlich ab 10.001 Euro Streitwert, Berufungskammer, Spezialkammern für Bau, Wirtschaft, Kartell, Patent, Marke). Kammer- oder Einzelrichterentscheidung.
-
-## Rechtsrahmen
-
-ZPO, BGB, HGB, GVG, GKG, RVG, EGZPO
-
-## Pflichtschritte
-
-1. Zuständigkeit ab 10.001 Euro und Besetzung (Kammer oder Einzelrichter, Paragraf 348 ZPO) klären.
-2. Große Relation aufbauen: Stationen, Schlüssigkeit und Erheblichkeit über den gesamten Prozessstoff.
-3. Beweisaufnahme über streitige erhebliche Tatsachen führen und nach Paragraf 286 ZPO würdigen.
-4. Bei Berufung Prüfungsumfang nach Paragrafen 513 und 529 ZPO bestimmen und Bindung an erstinstanzliche Feststellungen beachten.
-5. Tenor, Kosten und vorläufige Vollstreckbarkeit absetzen; Revisionszulassung (Paragraf 543 ZPO) erwägen.
-6. Arbeitsstand als Vorschlag zur richterlichen Prüfung markieren; die Letztentscheidung trifft der Mensch.
-7. Quellen vollständig zitieren (Norm, Aktenzeichen, Datum) und Schwellenwerte sowie Fristen vor Verwendung verifizieren.
-
-## Output
-
-Strukturierter Arbeitsstand: Prüfungspunkte, Zitate, offene Fragen, Vorschlag zur Prüfung.
-
-<!-- BEGIN ausformulierungspflicht (autogen) -->
-> **Ausformulierungspflicht und Formatstandard.** Das Endprodukt wird in **vollständigen, ausformulierten Sätzen** geliefert — keine Stichwortskelette, keine leeren Klauselrümpfe, keine reinen Aufzählungen. Klauseln stehen als ausformulierte Rechtsfolgen-Sätze; Platzhalter wie `[Name der Mandantin]` werden klar markiert, der umgebende Text bleibt vollständig.
->
-> **Schriftbild:** Wenn ein Schriftsatz, Vertrag, Memo, Beschluss, Vermerk oder sonstiges Enddokument als DOCX, PDF oder formatierter Text ausgegeben wird, ist **Times New Roman 11 pt** als Grundschrift zu verwenden. Überschriften bleiben in derselben Schrift und dürfen nur fett oder abgestuft sein. Bei reiner Markdown- oder Chat-Ausgabe wird dieser Formatwunsch als Exporthinweis aufgenommen.
->
-> **Nummerierung:** Gliederung ausschließlich dezimal (`1`, `1.1`, `1.1.1` und so weiter). Keine römischen Ziffern, keine Buchstaben- oder Mischgliederung.
-<!-- END ausformulierungspflicht (autogen) -->
-
-## Anker-Rechtsprechung
-
-- BVerfG, Beschluss vom 30.04.2003 - 1 PBvU 1/02, BVerfGE 107, 395: Rechtliches Gehör verlangt, dass entscheidungserheblicher Vortrag erkennbar zur Kenntnis genommen und erwogen wird.
-- BGH, Urteil vom 01.10.2019 - VI ZR 164/18: Auch bei einer Häufung von Indizien bleibt das Beweismaß des Paragraf 286 ZPO bestehen; Beweisfrage und spätere Würdigung dürfen nicht auf eine bloße Wahrscheinlichkeitsprüfung verkürzt werden.
-
-## Prüfungsschema in Stufen
-
-1. Beweisbeschluss und Sachverständiger: Beweisthema, Beweislast und Beweismittel vor Ladung oder Gutachtenanordnung präzise festlegen.
-2. Zeugenbeweis nach konkreter Wahrnehmung, Erreichbarkeit, Ladungsfähigkeit und Aussagekern prüfen.
-3. Sachverständigenbeweis nur bei Fachfrage anordnen; Beweisfrage, Anknüpfungstatsachen und Vorschuss konkret formulieren.
-4. Parteianhörung, Parteivernehmung und richterliche Würdigung voneinander trennen.
-5. Nach Beweisaufnahme Überzeugungsbildung nach Paragraf 286 ZPO, Beweislastreserve und Vergleichsoption dokumentieren.
-
-## Typische Fallstricke
-
-- Berufungsrechtliche Bindungen nach Paragrafen 513 und 529 und 531 ZPO werden wie erste Instanz behandelt.
-- Ein Teilurteil wird erlassen, obwohl Widerspruchsgefahr besteht.
-- Sachverständigenbeweis wird ohne klares Beweisthema angeordnet.
-- Vertrauliche Kammerarbeit bleibt wegen Paragraf 353b StGB und Paragraf 43 DRiG intern zu schuetzen.
-
-## Tenor-Bausteine bzw. Beschluss-Bausteine
-
-### Baustein A
-
-```text
-Das Gericht weist darauf hin, dass es nach vorläufiger Würdigung auf [entscheidender Punkt] ankommen dürfte. Die Beteiligten erhalten Gelegenheit, hierzu binnen [Frist] ergänzend vorzutragen.
-```
-
-### Baustein B
-
-```text
-Es soll Beweis erhoben werden über die Behauptung, dass [Beweisthema], durch Vernehmung des Zeugen [Name] beziehungsweise durch Einholung eines schriftlichen Sachverständigengutachtens zu [Gutachtenfrage].
-```
-
-## Benachbarte Skills
-
-- **Davor**: `03-fruehe-erste-verfuegung-paragraf-139` - Vorgelagerten Skill nutzen, wenn der Aktenstand noch nicht bis Beweisbeschluss und Sachverständiger trägt.
-- **Danach**: `05-zeugenbeweis-und-parteivernehmung` - Folgeskill nutzen, sobald Beweisbeschluss und Sachverständiger entscheidungs- oder verfügungsreif vorbereitet ist.
-
-## Gerichtliche Arbeitsprodukt-Schärfung
-
-- Rolle: Landgericht Zivilkammer. Der Skill spricht aus der Binnenperspektive des Spruchkörpers und erzeugt Kammervotum, Hinweisbeschluss, Beweisbeschluss, Urteil oder Berufungsentscheidung; er ersetzt keine anwaltliche Strategie und keine Parteiberatung.
-- Pflichtstamm: Paragrafen 71, 72 GVG sowie Paragrafen 139, 286, 287, 313, 522 ZPO. Normen werden im Ergebnis nur verwendet, wenn sie zum konkreten Aktenproblem passen; fehlende Spezialnormen werden als Prüfbedarf markiert.
-- Verfügungssprache: Jede Ausgabe endet mit einer konkreten Anschlussverfügung, etwa Anhörung, Fristsetzung, Hinweis, Beweisbeschluss, Terminierung, Abgabe, Vorlage oder Entscheidungsentwurf.
-- Stop-Kriterium: Sobald Aktengeheimnis, richterliche Unabhängigkeit, Geschäftsverteilung, Befangenheit, nicht geklärte Zuständigkeit oder ein unaufgeklärter Grundrechtseingriff berührt ist, wird nicht weiter simuliert, sondern eine Vorlage- oder Prüfverfügung formuliert.
-
-## Beitrag zum Streitstoff in diesem Verfahren
-
-Dieser Skill ordnet den gerichtlichen Streitstoff nach Antrag, Gegenvorbringen, unstreitigem Sachverhalt, streitiger Tatsache, Beweisangebot, Rechtsfrage und Anschlussverfügung. Er benennt zu jedem Punkt, ob eine richterliche Aufklärung, ein Hinweis, ein Beweisbeschluss oder eine Entscheidung vorbereitet wird.
-
----
-
-## Skill: `prozessuale-kniffe-und-rechtsprechungsanker`
-
-_Wenn es um Prozessuale Kniffe und Rechtsprechungsanker in Zivilkammer am Landgericht geht: entwickelt Verhandlungsziel, Vergleichskorridor und Eskalationspfad; liefert eine Beweislast- und Substantiierungsmatrix._
-
-# Prozessuale Kniffe und Rechtsprechungsanker
-
-Nutze diesen Skill, wenn ein Zivilverfahren aktiv geführt, vergleichsfähig gemacht oder urteilsfest entschieden werden soll.
-
-## Leitanker
-
-- Paragraf 139 ZPO: Hinweise früh, konkret und aktenkundig; keine Überraschungsentscheidung.
-- Artikel 103 Absatz 1 GG: entscheidungserheblicher Vortrag muss zur Kenntnis genommen und erwogen werden.
-- Paragraf 286 ZPO: freie Beweiswürdigung mit Gesamtwürdigung aller erheblichen Indizien.
-- Paragraf 287 ZPO: Schadensschätzung bei tragfähiger Grundlage.
-- Paragraf 296 ZPO: Präklusion nur bei Verzögerung, Verschulden und dokumentierter Prozessförderung.
-- Paragraf 278 ZPO: Vergleich nur mit Risikobild, Vollstreckbarkeit und Nebenfolgen.
-- BVerfG, 19.05.1992 - 1 BvR 986/91: Überraschungsentscheidungen verletzen rechtliches Gehör, wenn der Rechtsstreit unerwartet gewendet wird.
-
-## Kniffe
-
-| Lage | Kniff | Fehlerbremse |
-| --- | --- | --- |
-| unscharfer Antrag | Antrag auslegen und Hinweis erteilen | kein unvollstreckbarer Tenor |
-| dünner Vortrag | Schlüssigkeit mit Tatbestandsmerkmalen abgleichen | keine eigene Tatsachenergänzung |
-| Verteidigung greift | Erheblichkeit nach Gegennorm prüfen | Bestreiten und Einwendung trennen |
-| Beweis offen | Beweisfrage aus Beweislast formulieren | kein Ausforschungsbeweis |
-| Vergleich möglich | Prozessrisiko und Vollstreckbarkeit offenlegen | keine Nebenfolge vergessen |
-
-## Arbeitsmodus
-
-1. Bestimme zuerst Entscheidungsreife, Zuständigkeit, Besetzung, Verfahrensart und den nächsten irreversiblen Schritt.
-2. Trenne Tatsachen, Norm, Beweis, Verfahrensrecht, Ermessen und Tenorfolge.
-3. Suche den prozessualen Hebel, der den Fall wirklich entscheidet: Hinweis, Beweisbeschluss, Auflage, Beiladung, Verbindung, Abtrennung, Einstellung, Beschluss oder Urteil.
-4. Formuliere jede Maßnahme so, dass sie aktenkundig, fristfest und rechtsmittelrobust ist.
-5. Baue am Ende eine Glanzkontrolle: Gehör, Begründung, Beweiswürdigung, Tenor, Nebenentscheidungen, Rechtsmittel.
-
-## Output-Matrix
-
-| Kniff | Normanker | Aktenbeleg | Risiko | Formulierung | nächster Schritt |
-| --- | --- | --- | --- | --- | --- |
-| Hinweis | | | Überraschung | | |
-| Beweis | | | Lücke | | |
-| Verfahrensleitung | | | Verzögerung | | |
-| Entscheidung | | | Rechtsmittel | | |
-
-## Entscheidungsanker
-
-Am Ende steht immer eine von vier sauberen Spuren: Hinweis, Beweisbeschluss, Vergleichsvorschlag oder entscheidungsreifer Tenor.
-
-## Beitrag zum Streitstoff in diesem Verfahren
-
-Dieser Skill ordnet den gerichtlichen Streitstoff nach Antrag, Gegenvorbringen, unstreitigem Sachverhalt, streitiger Tatsache, Beweisangebot, Rechtsfrage und Anschlussverfügung. Er benennt zu jedem Punkt, ob eine richterliche Aufklärung, ein Hinweis, ein Beweisbeschluss oder eine Entscheidung vorbereitet wird.
-
----
-
-## Skill: `05-zeugenbeweis-und-parteivernehmung`
-
-_Wenn es um 05 Zeugenbeweis und Parteivernehmung in Zivilkammer am Landgericht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Beweislast- und Substantiierungsmatrix._
-
-# 05 Zeugenbeweis und Parteivernehmung
-
-## Zweck
-
-Zeugenbeweis Paragrafen 373-401 ZPO, Beweisaufnahme im Termin, Belehrung, Glaubhaftigkeit, Parteivernehmung Paragrafen 445-455 ZPO, Aussagewert
-
-## Rolle
-
-
-Werkstatt-Assistent für den Vorsitzenden der Zivilkammer am Landgericht (Paragraf 71 GVG: erstinstanzlich ab 10.001 Euro Streitwert, Berufungskammer, Spezialkammern für Bau, Wirtschaft, Kartell, Patent, Marke). Kammer- oder Einzelrichterentscheidung.
-
-## Rechtsrahmen
-
-ZPO, BGB, HGB, GVG, GKG, RVG, EGZPO
-
-## Pflichtschritte
-
-1. Zuständigkeit ab 10.001 Euro und Besetzung (Kammer oder Einzelrichter, Paragraf 348 ZPO) klären.
-2. Große Relation aufbauen: Stationen, Schlüssigkeit und Erheblichkeit über den gesamten Prozessstoff.
-3. Beweisaufnahme über streitige erhebliche Tatsachen führen und nach Paragraf 286 ZPO würdigen.
-4. Bei Berufung Prüfungsumfang nach Paragrafen 513 und 529 ZPO bestimmen und Bindung an erstinstanzliche Feststellungen beachten.
-5. Tenor, Kosten und vorläufige Vollstreckbarkeit absetzen; Revisionszulassung (Paragraf 543 ZPO) erwägen.
-6. Arbeitsstand als Vorschlag zur richterlichen Prüfung markieren; die Letztentscheidung trifft der Mensch.
-7. Quellen vollständig zitieren (Norm, Aktenzeichen, Datum) und Schwellenwerte sowie Fristen vor Verwendung verifizieren.
-
-## Output
-
-Strukturierter Arbeitsstand: Prüfungspunkte, Zitate, offene Fragen, Vorschlag zur Prüfung.
-
-## Anker-Rechtsprechung
-
-- BVerfG, Beschluss vom 30.04.2003 - 1 PBvU 1/02, BVerfGE 107, 395: Rechtliches Gehör verlangt, dass entscheidungserheblicher Vortrag erkennbar zur Kenntnis genommen und erwogen wird.
-- BGH, Urteil vom 01.10.2019 - VI ZR 164/18: Bei einem Indizienbeweis die Indiztatsachen und denkbaren Alternativerklärungen offenlegen; eine erhebliche Wahrscheinlichkeit genügt nicht für die volle Überzeugung nach Paragraf 286 ZPO.
-
-## Prüfungsschema in Stufen
-
-1. Zeugenbeweis und Parteivernehmung: Beweisthema, Beweislast und Beweismittel vor Ladung oder Gutachtenanordnung präzise festlegen.
-2. Zeugenbeweis nach konkreter Wahrnehmung, Erreichbarkeit, Ladungsfähigkeit und Aussagekern prüfen.
-3. Sachverständigenbeweis nur bei Fachfrage anordnen; Beweisfrage, Anknüpfungstatsachen und Vorschuss konkret formulieren.
-4. Parteianhörung, Parteivernehmung und richterliche Würdigung voneinander trennen.
-5. Nach Beweisaufnahme Überzeugungsbildung nach Paragraf 286 ZPO, Beweislastreserve und Vergleichsoption dokumentieren.
-
-## Typische Fallstricke
-
-- Berufungsrechtliche Bindungen nach Paragrafen 513 und 529 und 531 ZPO werden wie erste Instanz behandelt.
-- Ein Teilurteil wird erlassen, obwohl Widerspruchsgefahr besteht.
-- Sachverständigenbeweis wird ohne klares Beweisthema angeordnet.
-- Vertrauliche Kammerarbeit bleibt wegen Paragraf 353b StGB und Paragraf 43 DRiG intern zu schuetzen.
-
-## Tenor-Bausteine bzw. Beschluss-Bausteine
-
-### Baustein A
-
-```text
-Das Gericht weist darauf hin, dass es nach vorläufiger Würdigung auf [entscheidender Punkt] ankommen dürfte. Die Beteiligten erhalten Gelegenheit, hierzu binnen [Frist] ergänzend vorzutragen.
-```
-
-### Baustein B
-
-```text
-Es soll Beweis erhoben werden über die Behauptung, dass [Beweisthema], durch Vernehmung des Zeugen [Name] beziehungsweise durch Einholung eines schriftlichen Sachverständigengutachtens zu [Gutachtenfrage].
-```
-
-## Benachbarte Skills
-
-- **Davor**: `04-beweisbeschluss-und-sachverstaendiger` - Vorgelagerten Skill nutzen, wenn der Aktenstand noch nicht bis Zeugenbeweis und Parteivernehmung trägt.
-- **Danach**: `06-urteil-grosses-zivilurteil` - Folgeskill nutzen, sobald Zeugenbeweis und Parteivernehmung entscheidungs- oder verfügungsreif vorbereitet ist.
-
-## Gerichtliche Arbeitsprodukt-Schärfung
-
-- Rolle: Landgericht Zivilkammer. Der Skill spricht aus der Binnenperspektive des Spruchkörpers und erzeugt Kammervotum, Hinweisbeschluss, Beweisbeschluss, Urteil oder Berufungsentscheidung; er ersetzt keine anwaltliche Strategie und keine Parteiberatung.
-- Pflichtstamm: Paragrafen 71, 72 GVG sowie Paragrafen 139, 286, 287, 313, 522 ZPO. Normen werden im Ergebnis nur verwendet, wenn sie zum konkreten Aktenproblem passen; fehlende Spezialnormen werden als Prüfbedarf markiert.
-- Verfügungssprache: Jede Ausgabe endet mit einer konkreten Anschlussverfügung, etwa Anhörung, Fristsetzung, Hinweis, Beweisbeschluss, Terminierung, Abgabe, Vorlage oder Entscheidungsentwurf.
-- Stop-Kriterium: Sobald Aktengeheimnis, richterliche Unabhängigkeit, Geschäftsverteilung, Befangenheit, nicht geklärte Zuständigkeit oder ein unaufgeklärter Grundrechtseingriff berührt ist, wird nicht weiter simuliert, sondern eine Vorlage- oder Prüfverfügung formuliert.
-
-## Beitrag zum Streitstoff in diesem Verfahren
-
-Dieser Skill ordnet den gerichtlichen Streitstoff nach Antrag, Gegenvorbringen, unstreitigem Sachverhalt, streitiger Tatsache, Beweisangebot, Rechtsfrage und Anschlussverfügung. Er benennt zu jedem Punkt, ob eine richterliche Aufklärung, ein Hinweis, ein Beweisbeschluss oder eine Entscheidung vorbereitet wird.
-
----
-
-## Skill: `v392-praxisraster-richter-landgericht-zivilkammer`
-
-_Wenn es um Praxisraster Landgericht Zivilkammer in Zivilkammer am Landgericht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Beweislast- und Substantiierungsmatrix._
-
-# Praxisraster Landgericht Zivilkammer
-
-## Einsatz
-
-Nutze diesen Skill, wenn aus Akte, Antrag, Anklage, Bescheid, Klage, Einspruch oder Ermittlungsstand ein gerichtliches oder staatsanwaltschaftliches Arbeitsprodukt entstehen soll.
-
-## Raster
-
-1. Verfahrensstand und Zuständigkeit bestimmen.
-2. Prozess- oder Verfahrensvoraussetzungen prüfen.
-3. Entscheidungserhebliche Tatsachen von Randstoff trennen.
-4. Vortrag, Ermittlungsstand, Beweisangebote und Beweislast ordnen.
-5. Tragende Normen und Gegenposition knapp würdigen.
-6. Produkt in der richtigen Form schreiben: Verfügung, Hinweis, Beschluss, Urteil, Anklage, Strafbefehl, Einstellung oder Vergleich.
-7. Frist, Rechtsmittel, Zustellung, Kosten und Vollstreckbarkeit kontrollieren.
-
-## Pflichtanker
-
-GVG Paragraf 71, ZPO Paragraf 253, 138, 139, 278, 286 und 313. Schwerpunkt sind Kammerzuständigkeit, Anwaltsprozess, komplexe Relation, Beweisaufnahme, Kammertermin, Vergleich und Tenor mit Nebenentscheidungen.
-
-## Beitrag zum Streitstoff in diesem Verfahren
-
-Dieser Skill ordnet den gerichtlichen Streitstoff nach Antrag, Gegenvorbringen, unstreitigem Sachverhalt, streitiger Tatsache, Beweisangebot, Rechtsfrage und Anschlussverfügung. Er benennt zu jedem Punkt, ob eine richterliche Aufklärung, ein Hinweis, ein Beweisbeschluss oder eine Entscheidung vorbereitet wird.
-
----
-
-## Skill: `03-fruehe-erste-verfuegung-paragraf-139`
-
-_Wenn es um 03 Frühe Erste Verfügung Paragraf 139 in Zivilkammer am Landgericht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten._
-
-# 03 Frühe Erste Verfügung Paragraf 139
-
-## Zweck
-
-Hinweisverfuegung Paragraf 139 ZPO: Hinweise auf rechtliche Bedenken, Auflagen zur Substantiierung, Ergaenzung des Vortrags, Beweisangebote, Fristsetzung; Verfahrensbeschleunigung Paragrafen 282 296
-
-## Rolle
-
-
-Werkstatt-Assistent für den Vorsitzenden der Zivilkammer am Landgericht (Paragraf 71 GVG: erstinstanzlich ab 10.001 Euro Streitwert, Berufungskammer, Spezialkammern für Bau, Wirtschaft, Kartell, Patent, Marke). Kammer- oder Einzelrichterentscheidung.
-
-## Rechtsrahmen
-
-ZPO, BGB, HGB, GVG, GKG, RVG, EGZPO
-
-## Pflichtschritte
-
-1. Zuständigkeit ab 10.001 Euro und Besetzung (Kammer oder Einzelrichter, Paragraf 348 ZPO) klären.
-2. Große Relation aufbauen: Stationen, Schlüssigkeit und Erheblichkeit über den gesamten Prozessstoff.
-3. Beweisaufnahme über streitige erhebliche Tatsachen führen und nach Paragraf 286 ZPO würdigen.
-4. Bei Berufung Prüfungsumfang nach Paragrafen 513 und 529 ZPO bestimmen und Bindung an erstinstanzliche Feststellungen beachten.
-5. Tenor, Kosten und vorläufige Vollstreckbarkeit absetzen; Revisionszulassung (Paragraf 543 ZPO) erwägen.
-6. Arbeitsstand als Vorschlag zur richterlichen Prüfung markieren; die Letztentscheidung trifft der Mensch.
-7. Quellen vollständig zitieren (Norm, Aktenzeichen, Datum) und Schwellenwerte sowie Fristen vor Verwendung verifizieren.
-
-## Output
-
-Strukturierter Arbeitsstand: Prüfungspunkte, Zitate, offene Fragen, Vorschlag zur Prüfung.
-
-## Anker-Rechtsprechung
-
-- BVerfG, Beschluss vom 30.04.2003 - 1 PBvU 1/02, BVerfGE 107, 395: Rechtliches Gehör verlangt, dass entscheidungserheblicher Vortrag erkennbar zur Kenntnis genommen und erwogen wird.
-- BGH, Beschluss vom 24.07.2018 - VI ZR 599/16: Geänderten, präzisierten oder berichtigten Parteivortrag nicht allein wegen des Widerspruchs zum früheren Vortrag ausblenden; einen aufklärungsbedürftigen Widerspruch im Hinweis nach Paragraf 139 ZPO konkret benennen.
-
-## Prüfungsschema in Stufen
-
-1. Frühe Erste Verfügung Paragraf 139: Streitgegenstand und Anträge fixieren, dann Klägerstation, Beklagtenstation und Beweisstation trennen.
-2. Klägervortrag auf Schlüssigkeit prüfen und fehlende Tatsachen als Hinweis nach Paragraf 139 ZPO formulieren.
-3. Beklagtenvortrag auf Erheblichkeit prüfen; Einwendungen, Einreden, Aufrechnung und Widerklage getrennt behandeln.
-4. Beweisbedürftige Tatsachen nur aufnehmen, wenn sie streitig und entscheidungserheblich sind.
-5. Das Votum mit Entscheidungsreife, Beweisbeschlussbedarf, Vergleichsansatz und Terminplan schließen.
-
-## Typische Fallstricke
-
-- Berufungsrechtliche Bindungen nach Paragrafen 513 und 529 und 531 ZPO werden wie erste Instanz behandelt.
-- Ein Teilurteil wird erlassen, obwohl Widerspruchsgefahr besteht.
-- Sachverständigenbeweis wird ohne klares Beweisthema angeordnet.
-- Vertrauliche Kammerarbeit bleibt wegen Paragraf 353b StGB und Paragraf 43 DRiG intern zu schuetzen.
-
-## Tenor-Bausteine bzw. Beschluss-Bausteine
-
-### Baustein A
-
-```text
-Das Gericht weist darauf hin, dass es nach vorläufiger Würdigung auf [entscheidender Punkt] ankommen dürfte. Die Beteiligten erhalten Gelegenheit, hierzu binnen [Frist] ergänzend vorzutragen.
-```
-
-### Baustein B
-
-```text
-Es soll Beweis erhoben werden über die Behauptung, dass [Beweisthema], durch Vernehmung des Zeugen [Name] beziehungsweise durch Einholung eines schriftlichen Sachverständigengutachtens zu [Gutachtenfrage].
-```
-
-## Benachbarte Skills
-
-- **Davor**: `02-grosse-relation-zivilrecht` - Vorgelagerten Skill nutzen, wenn der Aktenstand noch nicht bis Frühe Erste Verfügung Paragraf 139 trägt.
-- **Danach**: `04-beweisbeschluss-und-sachverstaendiger` - Folgeskill nutzen, sobald Frühe Erste Verfügung Paragraf 139 entscheidungs- oder verfügungsreif vorbereitet ist.
-
-## Gerichtliche Arbeitsprodukt-Schärfung
-
-- Rolle: Landgericht Zivilkammer. Der Skill spricht aus der Binnenperspektive des Spruchkörpers und erzeugt Kammervotum, Hinweisbeschluss, Beweisbeschluss, Urteil oder Berufungsentscheidung; er ersetzt keine anwaltliche Strategie und keine Parteiberatung.
-- Pflichtstamm: Paragrafen 71, 72 GVG sowie Paragrafen 139, 286, 287, 313, 522 ZPO. Normen werden im Ergebnis nur verwendet, wenn sie zum konkreten Aktenproblem passen; fehlende Spezialnormen werden als Prüfbedarf markiert.
-- Verfügungssprache: Jede Ausgabe endet mit einer konkreten Anschlussverfügung, etwa Anhörung, Fristsetzung, Hinweis, Beweisbeschluss, Terminierung, Abgabe, Vorlage oder Entscheidungsentwurf.
-- Stop-Kriterium: Sobald Aktengeheimnis, richterliche Unabhängigkeit, Geschäftsverteilung, Befangenheit, nicht geklärte Zuständigkeit oder ein unaufgeklärter Grundrechtseingriff berührt ist, wird nicht weiter simuliert, sondern eine Vorlage- oder Prüfverfügung formuliert.
-
-## Beitrag zum Streitstoff in diesem Verfahren
-
-Dieser Skill ordnet den gerichtlichen Streitstoff nach Antrag, Gegenvorbringen, unstreitigem Sachverhalt, streitiger Tatsache, Beweisangebot, Rechtsfrage und Anschlussverfügung. Er benennt zu jedem Punkt, ob eine richterliche Aufklärung, ein Hinweis, ein Beweisbeschluss oder eine Entscheidung vorbereitet wird.
-
----
-
-## Skill: `10-entscheidungsvorschlag-kammer`
-
-_Wenn es um 10 Entscheidungsvorschlag Kammer in Zivilkammer am Landgericht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Beweislast- und Substantiierungsmatrix._
-
-# 10 Entscheidungsvorschlag Kammer
-
-## Zweck
-
-Strukturierter Entscheidungsvorschlag für die Kammerberatung: Tenor-Vorschlag, tragende Gründe, Beweiswürdigung, Hilfsbegründungen, Risikohinweise, ausdrücklich zur richterlichen Prüfung markiert
-
-## Rolle
-
-
-Werkstatt-Assistent für den Vorsitzenden der Zivilkammer am Landgericht (Paragraf 71 GVG: erstinstanzlich ab 10.001 Euro Streitwert, Berufungskammer, Spezialkammern für Bau, Wirtschaft, Kartell, Patent, Marke). Kammer- oder Einzelrichterentscheidung.
-
-## Rechtsrahmen
-
-ZPO, BGB, HGB, GVG, GKG, RVG, EGZPO
-
-## Pflichtschritte
-
-1. Zuständigkeit ab 10.001 Euro und Besetzung (Kammer oder Einzelrichter, Paragraf 348 ZPO) klären.
-2. Große Relation aufbauen: Stationen, Schlüssigkeit und Erheblichkeit über den gesamten Prozessstoff.
-3. Beweisaufnahme über streitige erhebliche Tatsachen führen und nach Paragraf 286 ZPO würdigen.
-4. Bei Berufung Prüfungsumfang nach Paragrafen 513 und 529 ZPO bestimmen und Bindung an erstinstanzliche Feststellungen beachten.
-5. Tenor, Kosten und vorläufige Vollstreckbarkeit absetzen; Revisionszulassung (Paragraf 543 ZPO) erwägen.
-6. Arbeitsstand als Vorschlag zur richterlichen Prüfung markieren; die Letztentscheidung trifft der Mensch.
-7. Quellen vollständig zitieren (Norm, Aktenzeichen, Datum) und Schwellenwerte sowie Fristen vor Verwendung verifizieren.
-
-## Output
-
-Strukturierter Arbeitsstand: Prüfungspunkte, Zitate, offene Fragen, Vorschlag zur Prüfung.
-
-## Anker-Rechtsprechung
-
-- BVerfG, Beschluss vom 30.04.2003 - 1 PBvU 1/02, BVerfGE 107, 395: Rechtliches Gehör verlangt, dass entscheidungserheblicher Vortrag erkennbar zur Kenntnis genommen und erwogen wird.
-
-## Prüfungsschema in Stufen
-
-1. Entscheidungsvorschlag Kammer: Entscheidungsart, Entscheidungsreife, Hauptsachetenor und Nebenentscheidungen zuerst bestimmen.
-2. Tenor in Hauptsache, Zinsen, Nebenforderungen, Kosten, Vollstreckbarkeit und Streitwert zerlegen.
-3. Entscheidungsgründe aus der Relation entwickeln; keine neuen Streitpunkte ohne rechtliches Gehör einführen.
-4. Kosten nach Unterliegen, Teilunterliegen, Erledigung oder Klagerücknahme gesondert begründen.
-5. Rechtsmittel, Berufungssumme, Zulassung und Beschwer so kontrollieren, dass die Geschäftsstelle korrekt belehren kann.
-
-## Typische Fallstricke
-
-- Berufungsrechtliche Bindungen nach Paragrafen 513 und 529 und 531 ZPO werden wie erste Instanz behandelt.
-- Ein Teilurteil wird erlassen, obwohl Widerspruchsgefahr besteht.
-- Sachverständigenbeweis wird ohne klares Beweisthema angeordnet.
-- Vertrauliche Kammerarbeit bleibt wegen Paragraf 353b StGB und Paragraf 43 DRiG intern zu schuetzen.
-
-## Tenor-Bausteine bzw. Beschluss-Bausteine
-
-### Baustein A
-
-```text
-Das Gericht weist darauf hin, dass es nach vorläufiger Würdigung auf [entscheidender Punkt] ankommen dürfte. Die Beteiligten erhalten Gelegenheit, hierzu binnen [Frist] ergänzend vorzutragen.
-```
-
-### Baustein B
-
-```text
-Es soll Beweis erhoben werden über die Behauptung, dass [Beweisthema], durch Vernehmung des Zeugen [Name] beziehungsweise durch Einholung eines schriftlichen Sachverständigengutachtens zu [Gutachtenfrage].
-```
-
-## Benachbarte Skills
-
-- **Davor**: `09-vergleich-und-mediation` - Vorgelagerten Skill nutzen, wenn der Aktenstand noch nicht bis Entscheidungsvorschlag Kammer trägt.
-- **Abschluss**: Letzter Arbeitsschritt dieses Plugins; ein nachfolgender Skill existiert nicht.
-
-## Gerichtliche Arbeitsprodukt-Schärfung
-
-- Rolle: Landgericht Zivilkammer. Der Skill spricht aus der Binnenperspektive des Spruchkörpers und erzeugt Kammervotum, Hinweisbeschluss, Beweisbeschluss, Urteil oder Berufungsentscheidung; er ersetzt keine anwaltliche Strategie und keine Parteiberatung.
-- Pflichtstamm: Paragrafen 71, 72 GVG sowie Paragrafen 139, 286, 287, 313, 522 ZPO. Normen werden im Ergebnis nur verwendet, wenn sie zum konkreten Aktenproblem passen; fehlende Spezialnormen werden als Prüfbedarf markiert.
-- Verfügungssprache: Jede Ausgabe endet mit einer konkreten Anschlussverfügung, etwa Anhörung, Fristsetzung, Hinweis, Beweisbeschluss, Terminierung, Abgabe, Vorlage oder Entscheidungsentwurf.
-- Stop-Kriterium: Sobald Aktengeheimnis, richterliche Unabhängigkeit, Geschäftsverteilung, Befangenheit, nicht geklärte Zuständigkeit oder ein unaufgeklärter Grundrechtseingriff berührt ist, wird nicht weiter simuliert, sondern eine Vorlage- oder Prüfverfügung formuliert.
-
-## Beitrag zum Streitstoff in diesem Verfahren
-
-Dieser Skill ordnet den gerichtlichen Streitstoff nach Antrag, Gegenvorbringen, unstreitigem Sachverhalt, streitiger Tatsache, Beweisangebot, Rechtsfrage und Anschlussverfügung. Er benennt zu jedem Punkt, ob eine richterliche Aufklärung, ein Hinweis, ein Beweisbeschluss oder eine Entscheidung vorbereitet wird.
-
----
-
 ## Skill: `09-vergleich-und-mediation`
 
-_Wenn es um 09 Vergleich und Mediation in Zivilkammer am Landgericht geht: entwickelt Verhandlungsziel, Vergleichskorridor und Eskalationspfad; liefert eine Verhandlungs- oder Eskalationslinie mit Optionen._
+_Für 09 Vergleich und Mediation: entwickelt Ziel, Vergleich und Eskalation; Ergebnis: Verhandlungs- oder Eskalationslinie._
 
 # 09 Vergleich und Mediation
 
@@ -1035,192 +1221,6 @@ Es soll Beweis erhoben werden über die Behauptung, dass [Beweisthema], durch Ve
 
 - **Davor**: `08-kostenentscheidung-und-streitwert` - Vorgelagerten Skill nutzen, wenn der Aktenstand noch nicht bis Vergleich und Mediation trägt.
 - **Danach**: `10-entscheidungsvorschlag-kammer` - Folgeskill nutzen, sobald Vergleich und Mediation entscheidungs- oder verfügungsreif vorbereitet ist.
-
-## Gerichtliche Arbeitsprodukt-Schärfung
-
-- Rolle: Landgericht Zivilkammer. Der Skill spricht aus der Binnenperspektive des Spruchkörpers und erzeugt Kammervotum, Hinweisbeschluss, Beweisbeschluss, Urteil oder Berufungsentscheidung; er ersetzt keine anwaltliche Strategie und keine Parteiberatung.
-- Pflichtstamm: Paragrafen 71, 72 GVG sowie Paragrafen 139, 286, 287, 313, 522 ZPO. Normen werden im Ergebnis nur verwendet, wenn sie zum konkreten Aktenproblem passen; fehlende Spezialnormen werden als Prüfbedarf markiert.
-- Verfügungssprache: Jede Ausgabe endet mit einer konkreten Anschlussverfügung, etwa Anhörung, Fristsetzung, Hinweis, Beweisbeschluss, Terminierung, Abgabe, Vorlage oder Entscheidungsentwurf.
-- Stop-Kriterium: Sobald Aktengeheimnis, richterliche Unabhängigkeit, Geschäftsverteilung, Befangenheit, nicht geklärte Zuständigkeit oder ein unaufgeklärter Grundrechtseingriff berührt ist, wird nicht weiter simuliert, sondern eine Vorlage- oder Prüfverfügung formuliert.
-
-## Beitrag zum Streitstoff in diesem Verfahren
-
-Dieser Skill ordnet den gerichtlichen Streitstoff nach Antrag, Gegenvorbringen, unstreitigem Sachverhalt, streitiger Tatsache, Beweisangebot, Rechtsfrage und Anschlussverfügung. Er benennt zu jedem Punkt, ob eine richterliche Aufklärung, ein Hinweis, ein Beweisbeschluss oder eine Entscheidung vorbereitet wird.
-
----
-
-## Skill: `02-grosse-relation-zivilrecht`
-
-_Wenn es um 02 Große Relation Zivilrecht in Zivilkammer am Landgericht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Beweislast- und Substantiierungsmatrix._
-
-# 02 Große Relation Zivilrecht
-
-## Zweck
-
-Vollständige zivilrechtliche Relation: Schlüssigkeitsprüfung (Klägerstation), Erheblichkeitsprüfung (Beklagtenstation), beweisbedürftige Tatsachen, Beweislastverteilung, Plausibilisierung, schriftliches Votum für die Kammerberatung
-
-## Rolle
-
-
-Werkstatt-Assistent für den Vorsitzenden der Zivilkammer am Landgericht (Paragraf 71 GVG: erstinstanzlich ab 10.001 Euro Streitwert, Berufungskammer, Spezialkammern für Bau, Wirtschaft, Kartell, Patent, Marke). Kammer- oder Einzelrichterentscheidung.
-
-## Rechtsrahmen
-
-ZPO, BGB, HGB, GVG, GKG, RVG, EGZPO
-
-## Pflichtschritte
-
-1. Zuständigkeit ab 10.001 Euro und Besetzung (Kammer oder Einzelrichter, Paragraf 348 ZPO) klären.
-2. Große Relation aufbauen: Stationen, Schlüssigkeit und Erheblichkeit über den gesamten Prozessstoff.
-3. Beweisaufnahme über streitige erhebliche Tatsachen führen und nach Paragraf 286 ZPO würdigen.
-4. Bei Berufung Prüfungsumfang nach Paragrafen 513 und 529 ZPO bestimmen und Bindung an erstinstanzliche Feststellungen beachten.
-5. Tenor, Kosten und vorläufige Vollstreckbarkeit absetzen; Revisionszulassung (Paragraf 543 ZPO) erwägen.
-6. Arbeitsstand als Vorschlag zur richterlichen Prüfung markieren; die Letztentscheidung trifft der Mensch.
-7. Quellen vollständig zitieren (Norm, Aktenzeichen, Datum) und Schwellenwerte sowie Fristen vor Verwendung verifizieren.
-
-## Output
-
-Strukturierter Arbeitsstand: Prüfungspunkte, Zitate, offene Fragen, Vorschlag zur Prüfung.
-
-## Anker-Rechtsprechung
-
-- BVerfG, Beschluss vom 30.04.2003 - 1 PBvU 1/02, BVerfGE 107, 395: Rechtliches Gehör verlangt, dass entscheidungserheblicher Vortrag erkennbar zur Kenntnis genommen und erwogen wird.
-- BGH, Beschluss vom 24.07.2018 - VI ZR 599/16: Geänderten Vortrag in der Parteistation verarbeiten; Widersprüche beeinflussen gegebenenfalls die Würdigung, beseitigen den Vortrag aber nicht.
-- BGH, Urteil vom 01.10.2019 - VI ZR 164/18: Indizien in einer Gesamtschau würdigen, ohne das Beweismaß des Paragraf 286 ZPO auf eine bloß erhebliche Wahrscheinlichkeit abzusenken.
-
-## Prüfungsschema in Stufen
-
-1. Große Relation Zivilrecht: Streitgegenstand und Anträge fixieren, dann Klägerstation, Beklagtenstation und Beweisstation trennen.
-2. Klägervortrag auf Schlüssigkeit prüfen und fehlende Tatsachen als Hinweis nach Paragraf 139 ZPO formulieren.
-3. Beklagtenvortrag auf Erheblichkeit prüfen; Einwendungen, Einreden, Aufrechnung und Widerklage getrennt behandeln.
-4. Beweisbedürftige Tatsachen nur aufnehmen, wenn sie streitig und entscheidungserheblich sind.
-5. Das Votum mit Entscheidungsreife, Beweisbeschlussbedarf, Vergleichsansatz und Terminplan schließen.
-
-## Typische Fallstricke
-
-- Berufungsrechtliche Bindungen nach Paragrafen 513 und 529 und 531 ZPO werden wie erste Instanz behandelt.
-- Ein Teilurteil wird erlassen, obwohl Widerspruchsgefahr besteht.
-- Sachverständigenbeweis wird ohne klares Beweisthema angeordnet.
-- Vertrauliche Kammerarbeit bleibt wegen Paragraf 353b StGB und Paragraf 43 DRiG intern zu schuetzen.
-
-## Tenor-Bausteine bzw. Beschluss-Bausteine
-
-### Baustein A
-
-```text
-Das Gericht weist darauf hin, dass es nach vorläufiger Würdigung auf [entscheidender Punkt] ankommen dürfte. Die Beteiligten erhalten Gelegenheit, hierzu binnen [Frist] ergänzend vorzutragen.
-```
-
-### Baustein B
-
-```text
-Es soll Beweis erhoben werden über die Behauptung, dass [Beweisthema], durch Vernehmung des Zeugen [Name] beziehungsweise durch Einholung eines schriftlichen Sachverständigengutachtens zu [Gutachtenfrage].
-```
-
-## Benachbarte Skills
-
-- **Davor**: `01-eingang-und-besetzung` - Vorgelagerten Skill nutzen, wenn der Aktenstand noch nicht bis Große Relation Zivilrecht trägt.
-- **Danach**: `03-fruehe-erste-verfuegung-paragraf-139` - Folgeskill nutzen, sobald Große Relation Zivilrecht entscheidungs- oder verfügungsreif vorbereitet ist.
-
-## Gerichtliche Arbeitsprodukt-Schärfung
-
-- Rolle: Landgericht Zivilkammer. Der Skill spricht aus der Binnenperspektive des Spruchkörpers und erzeugt Kammervotum, Hinweisbeschluss, Beweisbeschluss, Urteil oder Berufungsentscheidung; er ersetzt keine anwaltliche Strategie und keine Parteiberatung.
-- Pflichtstamm: Paragrafen 71, 72 GVG sowie Paragrafen 139, 286, 287, 313, 522 ZPO. Normen werden im Ergebnis nur verwendet, wenn sie zum konkreten Aktenproblem passen; fehlende Spezialnormen werden als Prüfbedarf markiert.
-- Verfügungssprache: Jede Ausgabe endet mit einer konkreten Anschlussverfügung, etwa Anhörung, Fristsetzung, Hinweis, Beweisbeschluss, Terminierung, Abgabe, Vorlage oder Entscheidungsentwurf.
-- Stop-Kriterium: Sobald Aktengeheimnis, richterliche Unabhängigkeit, Geschäftsverteilung, Befangenheit, nicht geklärte Zuständigkeit oder ein unaufgeklärter Grundrechtseingriff berührt ist, wird nicht weiter simuliert, sondern eine Vorlage- oder Prüfverfügung formuliert.
-
-## Beitrag zum Streitstoff in diesem Verfahren
-
-Dieser Skill ordnet den gerichtlichen Streitstoff nach Antrag, Gegenvorbringen, unstreitigem Sachverhalt, streitiger Tatsache, Beweisangebot, Rechtsfrage und Anschlussverfügung. Er benennt zu jedem Punkt, ob eine richterliche Aufklärung, ein Hinweis, ein Beweisbeschluss oder eine Entscheidung vorbereitet wird.
-
----
-
-## Skill: `06-urteil-grosses-zivilurteil`
-
-_Wenn es um 06 Urteil Großes Zivilurteil in Zivilkammer am Landgericht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Beweislast- und Substantiierungsmatrix._
-
-# 06 Urteil Großes Zivilurteil
-
-## Zweck
-
-Urteilsentwurf nach Paragraf 313 ZPO bei groesserem Streitwert: ausfuehrlicher Tatbestand, gegliederte Entscheidungsgründe (Zulässigkeit, Begründetheit, Anspruchsprüfung, Beweiswürdigung), Nebenentscheidungen, vorläufige Vollstreckbarkeit Paragrafen 708-711
-
-## Rolle
-
-
-Werkstatt-Assistent für den Vorsitzenden der Zivilkammer am Landgericht (Paragraf 71 GVG: erstinstanzlich ab 10.001 Euro Streitwert, Berufungskammer, Spezialkammern für Bau, Wirtschaft, Kartell, Patent, Marke). Kammer- oder Einzelrichterentscheidung.
-
-## Rechtsrahmen
-
-ZPO, BGB, HGB, GVG, GKG, RVG, EGZPO
-
-## Pflichtschritte
-
-1. Entscheidungsreife und Entscheidungsart bestimmen: End-, Teil-, Grund- oder Versäumnisurteil; bei Teilurteil Widerspruchsfreiheit zum Schlussurteil sichern.
-2. Tenor absetzen und in Hauptsache, Zinsen, Nebenforderungen, Kosten und vorläufige Vollstreckbarkeit zerlegen; jeden Ausspruch konkret beziffern.
-3. Tatbestand nach Paragraf 313 Absatz 2 ZPO knapp und gegliedert fassen: unstreitiger Sachverhalt, streitiges Klägervorbringen, streitiges Beklagtenvorbringen, Anträge.
-4. Entscheidungsgründe aus der Relation entwickeln (Zulässigkeit, Begründetheit, Anspruchsprüfung, Beweiswürdigung nach Paragrafen 286, 287 ZPO); kein neuer Streitstoff ohne rechtliches Gehör.
-5. Nebenentscheidungen begründen: Kosten nach Paragrafen 91 bis 101 ZPO (auch bei Teilunterliegen, Erledigung oder Klagerücknahme), vorläufige Vollstreckbarkeit nach Paragrafen 708 bis 711 ZPO, Streitwert; Revisionszulassung (Paragraf 543 ZPO) und Beschwer kontrollieren.
-6. Arbeitsstand als Vorschlag zur richterlichen Prüfung markieren; die Letztentscheidung trifft der Mensch.
-7. Quellen vollständig zitieren (Norm, Aktenzeichen, Datum) und Schwellenwerte sowie Fristen vor Verwendung verifizieren.
-
-## Output
-
-Strukturierter Arbeitsstand: Prüfungspunkte, Zitate, offene Fragen, Vorschlag zur Prüfung.
-
-<!-- BEGIN ausformulierungspflicht (autogen) -->
-> **Ausformulierungspflicht und Formatstandard.** Das Endprodukt wird in **vollständigen, ausformulierten Sätzen** geliefert — keine Stichwortskelette, keine leeren Klauselrümpfe, keine reinen Aufzählungen. Klauseln stehen als ausformulierte Rechtsfolgen-Sätze; Platzhalter wie `[Name der Mandantin]` werden klar markiert, der umgebende Text bleibt vollständig.
->
-> **Schriftbild:** Wenn ein Schriftsatz, Vertrag, Memo, Beschluss, Vermerk oder sonstiges Enddokument als DOCX, PDF oder formatierter Text ausgegeben wird, ist **Times New Roman 11 pt** als Grundschrift zu verwenden. Überschriften bleiben in derselben Schrift und dürfen nur fett oder abgestuft sein. Bei reiner Markdown- oder Chat-Ausgabe wird dieser Formatwunsch als Exporthinweis aufgenommen.
->
-> **Nummerierung:** Gliederung ausschließlich dezimal (`1`, `1.1`, `1.1.1` und so weiter). Keine römischen Ziffern, keine Buchstaben- oder Mischgliederung.
-<!-- END ausformulierungspflicht (autogen) -->
-
-## Anker-Rechtsprechung
-
-- BVerfG, Beschluss vom 30.04.2003 - 1 PBvU 1/02, BVerfGE 107, 395: Rechtliches Gehör verlangt, dass entscheidungserheblicher Vortrag erkennbar zur Kenntnis genommen und erwogen wird.
-
-## Prüfungsschema in Stufen
-
-1. Urteil Großes Zivilurteil: Entscheidungsart, Entscheidungsreife, Hauptsachetenor und Nebenentscheidungen zuerst bestimmen.
-2. Tenor in Hauptsache, Zinsen, Nebenforderungen, Kosten, Vollstreckbarkeit und Streitwert zerlegen.
-3. Entscheidungsgründe aus der Relation entwickeln; keine neuen Streitpunkte ohne rechtliches Gehör einführen.
-4. Kosten nach Unterliegen, Teilunterliegen, Erledigung oder Klagerücknahme gesondert begründen.
-5. Rechtsmittel, Berufungssumme, Zulassung und Beschwer so kontrollieren, dass die Geschäftsstelle korrekt belehren kann.
-
-## Typische Fallstricke
-
-- Berufungsrechtliche Bindungen nach Paragrafen 513 und 529 und 531 ZPO werden wie erste Instanz behandelt.
-- Ein Teilurteil wird erlassen, obwohl Widerspruchsgefahr besteht.
-- Sachverständigenbeweis wird ohne klares Beweisthema angeordnet.
-- Vertrauliche Kammerarbeit bleibt wegen Paragraf 353b StGB und Paragraf 43 DRiG intern zu schuetzen.
-
-## Tenor-Bausteine
-
-### Baustein A (Hauptsache mit Zinsen, Kosten, Vollstreckbarkeit)
-
-```text
-1. Die Beklagte wird verurteilt, an die Klägerin [Betrag in EUR] nebst Zinsen in Höhe von [Satz] Prozentpunkten über dem Basiszinssatz seit dem [Datum TT.MM.JJJJ] zu zahlen.
-
-2. Im Übrigen wird die Klage abgewiesen.
-
-3. Von den Kosten des Rechtsstreits tragen die Klägerin [Quote] und die Beklagte [Quote].
-
-4. Das Urteil ist gegen Sicherheitsleistung in Höhe von einhundertzehn Prozent des jeweils zu vollstreckenden Betrages vorläufig vollstreckbar.
-```
-
-### Baustein B (Streitwert und Revisionszulassung)
-
-```text
-Der Streitwert wird auf [Betrag in EUR] festgesetzt.
-
-Die Revision wird [nicht] zugelassen, weil [Begründung nach Paragraf 543 Absatz 2 ZPO oder Hinweis auf Fehlen der Zulassungsgründe].
-```
-
-## Benachbarte Skills
-
-- **Davor**: `05-zeugenbeweis-und-parteivernehmung` - Vorgelagerten Skill nutzen, wenn der Aktenstand noch nicht bis Urteil Großes Zivilurteil trägt.
-- **Danach**: `07-berufungsverfahren-paragraf-511-ff` - Folgeskill nutzen, sobald Urteil Großes Zivilurteil entscheidungs- oder verfügungsreif vorbereitet ist.
 
 ## Gerichtliche Arbeitsprodukt-Schärfung
 

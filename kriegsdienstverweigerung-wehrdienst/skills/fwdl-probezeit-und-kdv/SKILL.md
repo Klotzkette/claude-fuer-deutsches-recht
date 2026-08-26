@@ -1,6 +1,6 @@
 ---
 name: fwdl-probezeit-und-kdv
-description: "Wenn es um FWDL Probezeit und KDV in Kriegsdienstverweigerung und Wehrdienst geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für FWDL Probezeit und KDV: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # FWDL Probezeit und KDV

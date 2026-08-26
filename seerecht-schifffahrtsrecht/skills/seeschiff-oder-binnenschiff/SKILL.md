@@ -1,6 +1,6 @@
 ---
 name: seeschiff-oder-binnenschiff
-description: "Wenn es um Seeschiff oder Binnenschiff – Klassifizierungsprüfung in See- und Schifffahrtsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Seeschiff oder Binnenschiff – Klassifizierungsprüfung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Seeschiff oder Binnenschiff – Klassifizierungsprüfung

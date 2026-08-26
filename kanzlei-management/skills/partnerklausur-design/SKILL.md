@@ -1,6 +1,6 @@
 ---
 name: partnerklausur-design
-description: "Wenn es um Partnerklausur Design in Kanzlei Management geht: rechnet Schwellen, Beträge, Varianten und Kontrollannahmen durch; liefert eine Berechnungstabelle mit Schwellen, Annahmen und Kontrollfragen."
+description: "Für Partnerklausur Design: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Partnerklausur Design

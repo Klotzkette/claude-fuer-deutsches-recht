@@ -1,6 +1,6 @@
 ---
 name: foreign-subsidies
-description: "Wenn es um Foreign Subsidies Regulation FSR in Großkanzlei Corporate/M&A geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen."
+description: "Für Foreign Subsidies Regulation FSR: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Foreign Subsidies Regulation FSR

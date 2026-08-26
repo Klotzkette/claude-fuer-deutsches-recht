@@ -1,6 +1,6 @@
 ---
 name: beweissicherung-designvergleich
-description: "Wenn es um Beweissicherung Designvergleich in designrecht-geschmacksmusterrecht geht: entwickelt Verhandlungsziel, Vergleichskorridor und Eskalationspfad; liefert eine Beweislast- und Substantiierungsmatrix."
+description: "Für Beweissicherung Designvergleich: entwickelt Ziel, Vergleich und Eskalation; Ergebnis: Beweislast- und Substantiierungsmatrix."
 ---
 
 # Beweissicherung Designvergleich

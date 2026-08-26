@@ -1,6 +1,6 @@
 ---
 name: schriftliche-anhoerung-kdvg-6
-description: "Wenn es um Schriftliche Anhörung Paragraf 6 KDVG in Kriegsdienstverweigerung und Wehrdienst geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
+description: "Für Schriftliche Anhörung Paragraf 6 KDVG: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Schriftliche Anhörung § 6 KDVG

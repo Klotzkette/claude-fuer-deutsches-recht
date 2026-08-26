@@ -1,6 +1,6 @@
 ---
 name: spezial-baut-livequellen-und-rechtsprechungscheck
-description: "Wenn es um Baut: Livequellen- und Rechtsprechungscheck in Legistik-Werkstatt geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Baut: Livequellen- und Rechtsprechungscheck: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Baut: Livequellen- und Rechtsprechungscheck

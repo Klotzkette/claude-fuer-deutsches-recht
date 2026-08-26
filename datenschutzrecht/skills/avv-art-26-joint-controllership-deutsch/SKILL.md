@@ -1,6 +1,6 @@
 ---
 name: avv-art-26-joint-controllership-deutsch
-description: "Wenn es um Joint-Controller-Vereinbarung Art. 26 DSGVO – deutsche Vertragsfassung in Datenschutzrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Joint-Controller-Vereinbarung Art. 26 DSGVO – deutsche Vertragsfassung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Schnittstellenkarte mit Zuständigkeits- und Nachweisfragen."
 ---
 
 # Joint-Controller-Vereinbarung Art. 26 DSGVO – deutsche Vertragsfassung

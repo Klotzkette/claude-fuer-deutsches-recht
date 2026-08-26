@@ -1,6 +1,6 @@
 ---
 name: strafrecht-spezial-betrug-263-stgb-besonders-schwer
-description: "Wenn es um Besonders schwerer Fall des Betruges Paragraf 263 Abs. 3 StGB in Fachanwalt Strafrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Besonders schwerer Fall des Betruges Paragraf 263 Abs. 3 StGB: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Besonders schwerer Fall des Betruges § 263 Abs. 3 StGB

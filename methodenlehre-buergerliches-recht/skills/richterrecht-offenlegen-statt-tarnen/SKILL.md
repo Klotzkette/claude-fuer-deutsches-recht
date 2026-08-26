@@ -1,6 +1,6 @@
 ---
 name: richterrecht-offenlegen-statt-tarnen
-description: "Wenn es um Richterrecht offenlegen statt tarnen in Methodenlehre bürgerliches Recht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Richterrecht offenlegen statt tarnen: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Richterrecht offenlegen statt tarnen

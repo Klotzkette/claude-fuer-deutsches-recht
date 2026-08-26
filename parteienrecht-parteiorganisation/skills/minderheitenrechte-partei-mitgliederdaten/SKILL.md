@@ -1,6 +1,6 @@
 ---
 name: minderheitenrechte-partei-mitgliederdaten
-description: "Wenn es um Minderheitenrechte in Parteienrecht und Parteiorganisation geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik. Auswahlstichwort: Minderheitenrechte Partei Mitgliederdaten; Arbeitsfeld: Parteienrecht und Parteiorganisation."
+description: "Für Minderheitenrechte: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt. Fachgebiet: Parteienrecht und Parteiorganisation. Route: minderheitenrechte-partei-mitgliederdaten."
 ---
 
 # Minderheitenrechte

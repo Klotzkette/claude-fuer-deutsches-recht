@@ -1,6 +1,6 @@
 ---
 name: mandantenbrief-vorlagen
-description: "Wenn es um Mandantenbrief-Vorlagen in Kanzlei-Allgemein geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Mandantenbrief-Vorlagen: erstellt Entwurf mit Antrag, Beweis und Anlagen; Ergebnis: Schriftsatz mit Begründungs- und Anlagenlogik."
 ---
 
 # Mandantenbrief-Vorlagen

@@ -1,6 +1,6 @@
 ---
 name: wohlwollensgrundsatz-und-wahrheit
-description: "Löst Konflikte zwischen beruflichem Fortkommen und Zeugniswahrheit. Prüft jede positive oder negative Aussage auf Tatsachengrundlage, Klarheit und unnötige Erschwerung und liefert eine rechtlich tragfähige Fassung mit offenem Quellenstatus."
+description: "Für Wohlwollensgrundsatz und Wahrheit: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Wohlwollensgrundsatz und Wahrheit

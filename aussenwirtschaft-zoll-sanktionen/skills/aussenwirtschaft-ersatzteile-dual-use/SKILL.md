@@ -1,6 +1,6 @@
 ---
 name: aussenwirtschaft-ersatzteile-dual-use
-description: "Wenn es um Ersatzteile Dual Use in Außenwirtschaft, Sanktionen, Zoll und CBAM geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Ersatzteile Dual Use: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Ersatzteile Dual Use

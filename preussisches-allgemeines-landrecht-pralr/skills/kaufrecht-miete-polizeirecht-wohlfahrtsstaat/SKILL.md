@@ -1,6 +1,6 @@
 ---
 name: kaufrecht-miete-polizeirecht-wohlfahrtsstaat
-description: "Wenn es um Kauf und Miete in Preußisches Allgemeines Landrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. Auswahlstichwort: Kaufrecht Miete Polizeirecht Wohlfahrtsstaat; Arbeitsfeld: Preußisches Allgemeines Landrecht."
+description: "Für Kauf und Miete: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt. Fachgebiet: Preußisches Allgemeines Landrecht. Route: kaufrecht-miete-polizeirecht-wohlfahrtsstaat."
 ---
 
 # Kauf und Miete

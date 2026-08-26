@@ -1,6 +1,6 @@
 ---
 name: aktenaufnahme-in-pfarrei-ordinariat-und-offizialat
-description: "Wenn es um Aktenaufnahme in Pfarrei, Ordinariat und Offizialat in Römisch-katholisches Kirchenrecht CIC und Katechismus geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert einen Einreichungsplan mit Form-, Portal- und Nachweischeck."
+description: "Für Aktenaufnahme in Pfarrei, Ordinariat und Offizialat: ordnet Akte, Belege und Lücken; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Aktenaufnahme in Pfarrei, Ordinariat und Offizialat

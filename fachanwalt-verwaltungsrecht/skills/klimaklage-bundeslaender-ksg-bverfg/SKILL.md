@@ -1,6 +1,6 @@
 ---
 name: klimaklage-bundeslaender-ksg-bverfg
-description: "Wenn es um Klimaklage Bundeslaender Ksg Bverfg in Fachanwalt Verwaltungsrecht geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Klimaklage Bundesländer Ksg BVerfG: erstellt Entwurf mit Antrag, Beweis und Anlagen; Ergebnis: Schriftsatz mit Begründungs- und Anlagenlogik."
 ---
 
 # Fachanwalt Verwaltungsrecht Klimaklage Bundeslaender Ksg BVerfG: ordnet Normen, Nutzerangaben, Fristen, Belege und verifizierte Rechtsprechung zu einer belastbaren Prüfung.

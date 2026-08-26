@@ -1,6 +1,6 @@
 ---
 name: steuerstart-buchhaltung-rechnungsprozess
-description: "Wenn es um Steuerstart, Buchhaltung und Rechnungsprozess in gesellschaftsgründer — Gründungsassistent für deutsche geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen."
+description: "Für Steuerstart, Buchhaltung und Rechnungsprozess: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Schnittstellenkarte mit Zuständigkeits- und Nachweisfragen."
 ---
 # Steuerstart, Buchhaltung und Rechnungsprozess
 

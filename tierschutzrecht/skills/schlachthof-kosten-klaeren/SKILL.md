@@ -1,6 +1,6 @@
 ---
 name: schlachthof-kosten-klaeren
-description: "Wenn es um Schlachthof Kosten Klären in Tierschutzrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Schlachthof Kosten Klären: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt. Fachgebiet: Tierschutzrecht. Route: schlachthof-kosten-klaeren."
 ---
 
 # Schlachthof Kosten Klären

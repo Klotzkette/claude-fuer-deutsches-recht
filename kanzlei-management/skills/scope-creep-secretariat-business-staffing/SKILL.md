@@ -1,6 +1,6 @@
 ---
 name: scope-creep-secretariat-business-staffing
-description: "Wenn es um Scope Creep Control in Kanzlei Management geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Scope Creep Control: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Scope Creep Control

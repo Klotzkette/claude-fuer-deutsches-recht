@@ -1,6 +1,6 @@
 ---
 name: vollzugsueberwachung-grundbuch-kaltstart-und-faktenmatri
-description: "Wenn es um Vollzugsueberwachung Grundbuch Kaltstart Und Faktenmatri in Berufsrecht Notare geht: klärt Rolle, Ziel, Frist, Unterlagen und den passenden nächsten Fachskill; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Vollzugsüberwachung Grundbuch Kaltstart und Faktenmatri: routet Rolle, Frist, Unterlagen und Fachschritt; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Notare: vollzugsueberwachung grundbuch - Kaltstart mit Faktenmatrix, Risikoampel und fehlenden Unterlagen

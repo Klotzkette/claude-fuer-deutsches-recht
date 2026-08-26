@@ -1,6 +1,6 @@
 ---
 name: beschluss-bauen-zpo
-description: "Wenn es um Beschluss bauen — Zivilprozess in Urteilsbauer und Relationsmacher geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Beschluss bauen — Zivilprozess: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Beschluss bauen — Zivilprozess

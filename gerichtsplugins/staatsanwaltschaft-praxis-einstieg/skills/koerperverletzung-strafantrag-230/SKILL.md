@@ -1,6 +1,6 @@
 ---
 name: koerperverletzung-strafantrag-230
-description: "Wenn es um Körperverletzung und Strafantrag nach Paragraf 230 StGB in Staatsanwaltschaft Praxis-Einstieg geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
+description: "Für Körperverletzung und Strafantrag nach Paragraf 230 StGB: erstellt Entwurf mit Antrag, Beweis und Anlagen; Ergebnis: Schriftsatz mit Begründungs- und Anlagenlogik."
 ---
 
 # Körperverletzung und Strafantrag nach Paragraf 230 StGB

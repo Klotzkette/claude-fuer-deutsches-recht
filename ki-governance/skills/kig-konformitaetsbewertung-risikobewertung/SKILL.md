@@ -1,6 +1,6 @@
 ---
 name: kig-konformitaetsbewertung-risikobewertung
-description: "Wenn es um KIG: Konformitaetsbewertung in diesem Spezialbereich geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Beweislast- und Substantiierungsmatrix."
+description: "Für KIG: Konformitätsbewertung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # KIG: Konformitaetsbewertung

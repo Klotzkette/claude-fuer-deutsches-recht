@@ -1,6 +1,6 @@
 ---
 name: aktenplan-beweisarchiv-amtstraeger
-description: "Wenn es um Aktenplan Und Beweisarchiv in Wahlkampfrecht Praxis geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Beweislast- und Substantiierungsmatrix."
+description: "Für Aktenplan und Beweisarchiv: ordnet Akte, Belege und Lücken; Ergebnis: Beweislast- und Substantiierungsmatrix."
 ---
 
 # Aktenplan Und Beweisarchiv

@@ -1,6 +1,6 @@
 ---
 name: insolvenzgeld-paragraf-165-sgb-iii
-description: "Wenn es um Insolvenzgeld Paragraf 165 sgb iii in Fachanwalt Insolvenz- und Sanierungsrecht geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Insolvenzgeld Paragraf 165 SGB iii: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Insolvenzgeld § 165 sgb iii

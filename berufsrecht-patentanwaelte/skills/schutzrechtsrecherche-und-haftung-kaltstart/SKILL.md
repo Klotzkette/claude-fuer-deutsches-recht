@@ -1,6 +1,6 @@
 ---
 name: schutzrechtsrecherche-und-haftung-kaltstart
-description: "Wenn es um Schutzrechtsrecherche Und Haftung Kaltstart in Berufsrecht Patentanwälte geht: klärt Rolle, Ziel, Frist, Unterlagen und den passenden nächsten Fachskill; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Schutzrechtsrecherche und Haftung Kaltstart: routet Rolle, Frist, Unterlagen und Fachschritt; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Patentanwälte: schutzrechtsrecherche und haftung - Kaltstart mit Faktenmatrix, Risikoampel und fehlenden Unterlagen

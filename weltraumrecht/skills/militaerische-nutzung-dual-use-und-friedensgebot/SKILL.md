@@ -1,6 +1,6 @@
 ---
 name: militaerische-nutzung-dual-use-und-friedensgebot
-description: "Wenn es um Weltraumrecht: Militärische Nutzung, Dual Use und Friedensgebot in Weltraumrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Weltraumrecht: Militärische Nutzung, Dual Use und Friedensgebot: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Weltraumrecht: Militärische Nutzung, Dual Use und Friedensgebot

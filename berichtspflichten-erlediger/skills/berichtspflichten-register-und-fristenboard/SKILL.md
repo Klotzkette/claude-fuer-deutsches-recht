@@ -1,6 +1,6 @@
 ---
 name: berichtspflichten-register-und-fristenboard
-description: "Wenn es um Register und Fristenboard für Berichtspflichten in Berichtspflichten-Erlediger geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Register und Fristenboard für Berichtspflichten: prüft Frist, Form, Zuständigkeit und Eilbedarf; Ergebnis: Fristen- und Risikoampel."
 ---
 
 # Register und Fristenboard für Berichtspflichten

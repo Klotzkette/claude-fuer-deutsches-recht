@@ -1,6 +1,6 @@
 ---
 name: sanktion-akteneinsicht-49-owig-147-stpo
-description: "Wenn es um Akteneinsicht Paragraf 49 OWiG und Paragraf 147 StPO in Datenschutzrecht geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Dokumentenmatrix mit Nachforderungsliste."
+description: "Für Akteneinsicht Paragraf 49 OWiG und Paragraf 147 StPO: ordnet Akte, Belege und Lücken; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt. Fachgebiet: Datenschutzrecht."
 ---
 
 # Akteneinsicht § 49 OWiG und § 147 StPO
@@ -49,3 +49,7 @@ Bei substanziellem Bußgeld-, Art.-58- oder Gerichtsrisiko lade zusätzlich `dat
 - Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und offizieller oder frei zugänglicher Quelle verwenden. Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate.
 - EuGH C-807/21 und C-683/21 nur mit sauberer Kernaussage nutzen: unmittelbare Unternehmensgeldbuße ja; verschuldenslose Haftung nein.
 - Wenn ein Punkt nicht verifiziert ist, als Prüfpunkt markieren und keine Scheinpräzision erzeugen.
+
+## Vertiefung bei Bedarf
+
+- Bei `dsv-sanktion-akteneinsicht-49-owig-147-stpo` beziehungsweise Datenschutzrecht-Brückenskill: Akteneinsicht § 49 OWiG und § 147 StPO: Behördenakte, Beschwerden, technische Anlagen, Bemessungsunterlagen und interne Vermerke auswerten: [die zusätzliche Vertiefung laden](./references/vertiefung-dsv-sanktion-akteneinsicht-49-owig-147-stpo.md).

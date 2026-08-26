@@ -1,6 +1,6 @@
 ---
 name: gehorsam-befehl-und-rechtswidriger-befehl
-description: "Wenn es um Gehorsam, Befehl und rechtswidriger Befehl in Bundeswehrrecht und Wehrrecht geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Gehorsam, Befehl und rechtswidriger Befehl: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Gehorsam, Befehl und rechtswidriger Befehl

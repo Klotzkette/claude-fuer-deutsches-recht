@@ -1,6 +1,6 @@
 ---
 name: ausdruecklicher-fristennotiz-und-naechster-schritt
-description: "Wenn es um Ausdruecklicher: Fristennotiz und nächster Schritt in Vertragsausfüller geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Ausdrücklicher: Fristennotiz und nächster Schritt: prüft Frist, Form, Zuständigkeit und Eilbedarf; Ergebnis: Fristen- und Risikoampel."
 ---
 
 # Ausdruecklicher: Fristennotiz und nächster Schritt

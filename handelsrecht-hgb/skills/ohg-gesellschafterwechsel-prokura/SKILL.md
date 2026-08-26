@@ -1,6 +1,6 @@
 ---
 name: ohg-gesellschafterwechsel-prokura
-description: "Wenn es um OHG Gesellschafterwechsel in Handelsrecht HGB geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für OHG Gesellschafterwechsel: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # OHG Gesellschafterwechsel

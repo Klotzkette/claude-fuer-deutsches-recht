@@ -1,6 +1,6 @@
 ---
 name: vorlaeufige-dienstenthebung
-description: "Wenn es um Vorlaeufige Dienstenthebung Paragraf 38 BDG in Beamtenrecht geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
+description: "Für Vorläufige Dienstenthebung Paragraf 38 BDG: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Schnittstellenkarte mit Zuständigkeits- und Nachweisfragen."
 ---
 
 # Vorlaeufige Dienstenthebung § 38 BDG

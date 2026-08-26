@@ -1,6 +1,6 @@
 ---
 name: warenderivate
-description: "Wenn es um Warenderivate – MAR und REMIT in Insiderrecht Compliance geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
+description: "Für Warenderivate – MAR und REMIT: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Warenderivate – MAR und REMIT

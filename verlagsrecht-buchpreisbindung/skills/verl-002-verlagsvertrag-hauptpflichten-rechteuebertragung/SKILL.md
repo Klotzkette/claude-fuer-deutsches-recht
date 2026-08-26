@@ -1,6 +1,6 @@
 ---
 name: verl-002-verlagsvertrag-hauptpflichten-rechteuebertragung
-description: "Wenn es um Verlagsrecht: Verlagsvertrag Hauptpflichten Rechteübertragung und Rückruf in Verlagsrecht und Buchpreisbindung geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Verlagsrecht: Verlagsvertrag Hauptpflichten Rechteübertragung und Rückruf: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Schnittstellenkarte mit Zuständigkeits- und Nachweisfragen."
 ---
 
 # Verlagsrecht: Verlagsvertrag Hauptpflichten Rechteübertragung und Rückruf

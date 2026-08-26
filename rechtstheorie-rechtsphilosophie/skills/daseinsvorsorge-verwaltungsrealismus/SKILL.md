@@ -1,6 +1,6 @@
 ---
 name: daseinsvorsorge-verwaltungsrealismus
-description: "Wenn es um Daseinsvorsorge und Verwaltungsrealismus in Rechtstheorie und Rechtsphilosophie geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
+description: "Für Daseinsvorsorge und Verwaltungsrealismus: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Daseinsvorsorge und Verwaltungsrealismus

@@ -1,6 +1,6 @@
 ---
 name: pdf-downloads-remediation-roadmap-schulung
-description: "Wenn es um PDFs, Downloads und Dokumente in Barrierefreiheit Web Checker geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert einen Einreichungsplan mit Form-, Portal- und Nachweischeck."
+description: "Für PDFs, Downloads und Dokumente: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # PDFs, Downloads und Dokumente

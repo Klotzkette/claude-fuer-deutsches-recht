@@ -1,6 +1,6 @@
 ---
 name: verkehr-rettungswege-oepnv
-description: "Wenn es um Verkehr ist wichtig, aber kein Pauschalverbot in Versammlungsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Verkehr ist wichtig, aber kein Pauschalverbot: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Verkehr ist wichtig, aber kein Pauschalverbot

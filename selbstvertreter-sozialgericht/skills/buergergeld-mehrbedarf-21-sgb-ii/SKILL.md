@@ -1,6 +1,6 @@
 ---
 name: buergergeld-mehrbedarf-21-sgb-ii
-description: "Wenn es um Buergergeld Mehrbedarf 21 Sgb Ii in selbstvertreter-sozialgericht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Bürgergeld Mehrbedarf 21 SGB Ii: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Buergergeld Mehrbedarf 21 Sgb Ii

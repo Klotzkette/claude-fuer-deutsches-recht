@@ -1,6 +1,6 @@
 ---
 name: stammkapital-einzahlung
-description: "Wenn es um Stammkapital-Einzahlung in gesellschaftsgründer — Gründungsassistent für deutsche geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Stammkapital-Einzahlung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Stammkapital-Einzahlung

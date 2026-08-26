@@ -1,6 +1,6 @@
 ---
 name: energie-regulierungsakte-kwkg-ladesaeulen
-description: "Wenn es um Energie-Regulierungsakte: KWKG Zuschläge — Fristen- und Bescheidanalyse in Bundesnetzagentur-Verfahren geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Energie-Regulierungsakte: KWKG Zuschläge — Fristen- und Bescheidanalyse: ordnet Akte, Belege und Lücken; Ergebnis: Schnittstellenkarte mit Zuständigkeits- und Nachweisfragen."
 ---
 
 # Energie-Regulierungsakte: KWKG Zuschläge — Fristen- und Bescheidanalyse

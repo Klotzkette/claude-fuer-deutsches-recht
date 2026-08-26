@@ -1,6 +1,6 @@
 ---
 name: freizuegigkeit-eu
-description: "Wenn es um Freizügigkeit EU: Fachmodul im Migrationsrecht in Fachanwalt Migrationsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Freizügigkeit EU: Fachmodul im Migrationsrecht: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Schnittstellenkarte mit Zuständigkeits- und Nachweisfragen."
 ---
 
 # Freizügigkeit EU: Fachmodul im Migrationsrecht
@@ -38,3 +38,7 @@ description: "Wenn es um Freizügigkeit EU: Fachmodul im Migrationsrecht in Fach
 - Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei prüfbarer Quelle ausgeben.
 - Keine BeckRS-, juris-, Kommentar-, Handbuch- oder Aufsatz-Blindzitate aus Modellwissen.
 - Annahmen, fehlende Unterlagen, Beweisrisiken und Fristen ausdrücklich markieren.
+
+## Vertiefung bei Bedarf
+
+- Bei `spezial-freizuegigkeit-eu` beziehungsweise Freizügigkeit EU: [die zusätzliche Vertiefung laden](./references/vertiefung-spezial-freizuegigkeit-eu.md).

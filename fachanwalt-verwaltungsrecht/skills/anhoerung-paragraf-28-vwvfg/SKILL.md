@@ -1,6 +1,6 @@
 ---
 name: anhoerung-paragraf-28-vwvfg
-description: "Wenn es um Anhoerung Paragraf 28 VwVfG in Fachanwalt Verwaltungsrecht geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Anhörung Paragraf 28 VwVfG: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Anhoerung § 28 VwVfG

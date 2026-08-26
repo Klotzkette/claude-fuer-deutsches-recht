@@ -1,6 +1,6 @@
 ---
 name: oew-001-kaltstart-oeffentliches-wirtschaftspro
-description: "Wenn es um Kaltstart Oeffentliches Wirtschaftspro in Öffentliches Wirtschaftsrecht geht: klärt Rolle, Ziel, Frist, Unterlagen und den passenden nächsten Fachskill; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Kaltstart Öffentliches Wirtschaftspro: routet Rolle, Frist, Unterlagen und Fachschritt; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Kaltstart Oeffentliches Wirtschaftspro

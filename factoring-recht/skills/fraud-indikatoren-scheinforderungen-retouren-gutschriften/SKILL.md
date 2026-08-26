@@ -1,6 +1,6 @@
 ---
 name: fraud-indikatoren-scheinforderungen-retouren-gutschriften
-description: "Wenn es um Fraud-Indikatoren Scheinforderungen Retouren Gutschriften in Factoring-Recht geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
+description: "Für Fraud-Indikatoren Scheinforderungen Retouren Gutschriften: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Fraud-Indikatoren Scheinforderungen Retouren Gutschriften

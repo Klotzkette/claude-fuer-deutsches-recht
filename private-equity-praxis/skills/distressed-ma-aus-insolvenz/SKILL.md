@@ -1,6 +1,6 @@
 ---
 name: distressed-ma-aus-insolvenz
-description: "Wenn es um Distressed M&A aus Krise und Insolvenz in Private Equity Praxis geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Distressed M&A aus Krise und Insolvenz: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Distressed M&A aus Krise und Insolvenz

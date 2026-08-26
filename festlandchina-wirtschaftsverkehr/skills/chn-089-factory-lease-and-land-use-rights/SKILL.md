@@ -1,6 +1,6 @@
 ---
 name: chn-089-factory-lease-and-land-use-rights
-description: "Wenn es um Factory Lease And Land Use Rights in China-Wirtschaftsverkehr geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Factory Lease And Land Use Rights: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Factory Lease And Land Use Rights

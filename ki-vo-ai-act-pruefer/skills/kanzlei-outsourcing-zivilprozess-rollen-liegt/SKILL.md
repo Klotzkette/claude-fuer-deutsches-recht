@@ -1,6 +1,6 @@
 ---
 name: kanzlei-outsourcing-zivilprozess-rollen-liegt
-description: "Wenn es um Kanzlei-digitale Werkzeuge-Outsourcing und Berufsgeheimnis in europäischem Technikregulierungsrecht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen. Auswahlstichwort: Kanzlei Outsourcing Zivilprozess Rollen Liegt; Arbeitsfeld: europäischem Technikregulierungsrecht."
+description: "Für Kanzlei-digitale Werkzeuge-Outsourcing und Berufsgeheimnis: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt. Fachgebiet: europäischem Technikregulierungsrecht. Route: kanzlei-outsourcing-zivilprozess-rollen-liegt."
 ---
 
 # Kanzlei-KI-Outsourcing und Berufsgeheimnis

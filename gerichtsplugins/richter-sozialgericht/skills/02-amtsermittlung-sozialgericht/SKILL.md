@@ -1,6 +1,6 @@
 ---
 name: 02-amtsermittlung-sozialgericht
-description: "Wenn es um 02 Amtsermittlung Sozialgericht in Sozialgericht geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Dokumentenmatrix mit Nachforderungsliste."
+description: "Für 02 Amtsermittlung Sozialgericht: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # 02 Amtsermittlung Sozialgericht

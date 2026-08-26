@@ -1,3 +1,17 @@
+# v441.0.0 - Auswahlkontext und Fachrouter weiter beschleunigt
+
+- Der installierbare Bestand wurde von 23821 auf 22729 direkte Skills verdichtet. 1092 überlappende Auswahlrouten entfallen; sämtliche fachlichen Vertiefungen bleiben in bedarfsgeladenen Referenzen erhalten.
+- 436 nachweislich doppelte Kern- und Spezialrouten wurden zusammengeführt. Die jeweils zusätzliche Tiefe ist vom sachgleichen Kernskill aus erreichbar, belastet aber nicht mehr die automatische Vorauswahl.
+- 247 HOAI-Module sind nun neun klaren Leistungsphasenroutern zugeordnet. Jede Leistungsphase trennt Auftrag und Schnittstellen, Steuerung und Nachweise sowie Risiko und Output und lädt pro Arbeitsschritt nur die einschlägige Referenz.
+- 130 internationale Kartellrechtsjurisdiktionen, 17 deutsche Datenschutzaufsichten, 36 DBA-Ländermodule und 85 BHO-Norm- und Titelmodule werden über enge Staaten-, Behörden- oder Normrouter erschlossen. Schwellen, Zuständigkeiten und Verfahrensstände bleiben dem quellengeprüften Fachmodul vorbehalten.
+- Die Steuerpraxis lädt Lohnabrechnung, BWA und Sanierungsgewinn nun nach konkreter Fallgruppe. Im Transaktionsplugin wurden 42 Beiratsmodule in vier belastbare Governance-Pfade geordnet, sodass Beiratsthemen nicht mehr die allgemeine M&A-Auswahl dominieren.
+- Die ständig sichtbaren Skill-Beschreibungen wurden von rund 5.45 Millionen auf 3.54 Millionen Zeichen reduziert. Das Thema jedes Skills, sein konkreter Prüffokus und sein Ergebnis bleiben erhalten; repetitive Fachgebiets- und Auswahlfloskeln sind entfallen.
+- Kein installierbares Plugin besitzt mehr als 304 direkte Skills oder rund 48 KB Routingbeschreibungen. Neu erzeugte Routerreferenzen bleiben unter 40 KB, sodass auch die aufgerufene Vertiefung klein bleibt.
+- Laufzeitvalidator und Aktivierungsaudit erzwingen nun 320 Skills und 55 KB Routingtext je Plugin, 23000 Skills und 3.6 Millionen Routingzeichen insgesamt, kompakte eindeutige Beschreibungen sowie das Fortbestehen aller neuen Fachrouter. Alte Serien oder doppelte Spezialrouten führen zum Fehler.
+- Prompt-Erzeugung, Skill-Navigation und Referenzauflösung verstehen das kompakte Beschreibungsformat. Schnellstart und Installationshilfe erklären den direkten Skillaufruf, die Fachrouter und die gestufte Lektüre großer lokaler oder angebundener Ablagen.
+
+---
+
 # v440.0.0 - Plugin-Laufzeit und Dateizugriff beschleunigt
 
 - Der installierbare Bestand wurde von 26461 auf 23821 Skills verdichtet. 2418 kleinteilige Normzugänge aus Kirchenrecht, Insolvenzrecht und Preußischem Allgemeinen Landrecht bleiben vollständig erhalten, liegen nun aber in 92 bedarfsgesteuerten Bereichsdateien mit drei schlanken Zugangsskills. Keine dieser Dateien überschreitet rund 60 KB.

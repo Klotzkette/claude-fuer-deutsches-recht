@@ -1,6 +1,6 @@
 ---
 name: skill-templating-praxis
-description: "Wenn es um Skill-Templating Praxis in Kanzlei-Builder-Hub geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
+description: "Für Skill-Templating Praxis: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Skill-Templating Praxis

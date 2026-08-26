@@ -1,6 +1,6 @@
 ---
 name: national-appropriation-versus-resource-extraction
-description: "Wenn es um Weltraumrecht: National Appropriation vs. Resource Extraction in Weltraumrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Weltraumrecht: National Appropriation vs. Resource Extraction: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Weltraumrecht: National Appropriation vs. Resource Extraction

@@ -1,6 +1,6 @@
 ---
 name: multi-unit-pilotbetrieb-proof-disclosure
-description: "Wenn es um Franchiserecht: Multi-Unit-Franchise und Area Developer in Franchiserecht Praxis geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Gegenprüfung mit Fehler-, Beweis- und Fristencheck."
+description: "Für Franchiserecht: Multi-Unit-Franchise und Area Developer: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Franchiserecht: Multi-Unit-Franchise und Area Developer

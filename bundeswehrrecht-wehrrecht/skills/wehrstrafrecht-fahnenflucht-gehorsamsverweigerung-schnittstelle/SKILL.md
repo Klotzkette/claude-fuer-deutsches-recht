@@ -1,6 +1,6 @@
 ---
 name: wehrstrafrecht-fahnenflucht-gehorsamsverweigerung-schnittstelle
-description: "Wenn es um Wehrstrafrecht – Schnittstelle Fahnenflucht und Gehorsamsverweigerung in Bundeswehrrecht und Wehrrecht geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Wehrstrafrecht – Schnittstelle Fahnenflucht und Gehorsamsverweigerung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Wehrstrafrecht – Schnittstelle Fahnenflucht und Gehorsamsverweigerung

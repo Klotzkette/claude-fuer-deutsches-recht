@@ -1,6 +1,6 @@
 ---
 name: kaltstart-triage
-description: "Wenn es um Straßenrecht und Infrastruktur - Allgemeiner Einstieg in Straßenrecht und Infrastruktur geht: klärt Rolle, Ziel, Frist, Unterlagen und den passenden nächsten Fachskill; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Straßenrecht und Infrastruktur - Allgemeiner Einstieg: routet Rolle, Frist, Unterlagen und Fachschritt; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Straßenrecht und Infrastruktur - Allgemeiner Einstieg

@@ -1,6 +1,6 @@
 ---
 name: persoenlichkeitsrechte-formular-portal-und-einreichung
-description: "Wenn es um Persoenlichkeitsrechte: Formular, Portal und Einreichungslogik in Fachanwalt Sportrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Persönlichkeitsrechte: Formular, Portal und Einreichungslogik: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Einreichungsplan mit Form- und Nachweischeck."
 ---
 
 # Persoenlichkeitsrechte: Formular, Portal und Einreichungslogik

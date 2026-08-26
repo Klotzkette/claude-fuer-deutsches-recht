@@ -7,20 +7,20 @@ Diese Vollprüfung enthält top-15 von 31 Skills des Plugins `bautraegervertrags
 ## Inhaltsverzeichnis
 
 1. **juristischer-argumentationskern** — Schaltet sich ein, wenn in Bauträgervertragsprüfer ein juristisches Arbeitsprodukt tragfähig begründet werden muss; verb…
-2. **fertigstellungssicherheit-650m-pruefen** — Wenn es um Fertigstellungssicherheit Paragraf 650m Absatz 2 BGB prüfen in Bauträgervertragspruefer geht: ordnet Sachverh…
-3. **teilungserklaerung-gemeinschaftsordnung** — Wenn es um Teilungserklärung und Gemeinschaftsordnung in Bauträgervertragspruefer geht: ordnet Sachverhalt, Norm, Beweis…
-4. **gemeinschaft-zieht-maengelrechte-an-sich** — Wenn es um Gemeinschaft zieht Mängelrechte an sich in Bauträgervertragspruefer geht: ordnet Sachverhalt, Norm, Beweislas…
-5. **maengelrechte-633-634-bgb** — Wenn es um Mängelrechte Paragrafen 633 und 634 BGB in Bauträgervertragspruefer geht: ordnet Sachverhalt, Norm, Beweislas…
-6. **mittlere-art-und-guete-und-din** — Wenn es um Mittlere Art und Güte und DIN-Normen in Bauträgervertragspruefer geht: ordnet Sachverhalt, Norm, Beweislast, …
-7. **mabv-sicherheit-paragraf-7-pruefen** — Wenn es um MaBV-Sicherheit Paragraf 7 prüfen in Bauträgervertragspruefer geht: ordnet Sachverhalt, Norm, Beweislast, Geg…
-8. **notarbelehrung-paragraf-14-bnoto-17-beurkg** — Wenn es um Notarbelehrung Paragraf 14 BNotO und Paragraf 17 BeurkG in Bauträgervertragspruefer geht: ordnet Akteninhalt,…
-9. **baubeschreibung-bausoll-pruefen** — Wenn es um Baubeschreibung und Bausoll prüfen in Bauträgervertragspruefer geht: ordnet Sachverhalt, Norm, Beweislast, Ge…
-10. **fall-fingerabdruck-erstellen** — Wenn es um Fall-Fingerabdruck erstellen in Bauträgervertragspruefer geht: ordnet Sachverhalt, Norm, Beweislast, Gegenarg…
-11. **insolvenzrisiken-bautraeger** — Wenn es um Insolvenzrisiken Bauträger in Bauträgervertragspruefer geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargum…
-12. **paragraf-309-nr-12-bgb-tatsachenbestaetigung** — Wenn es um Paragraf 309 Nummer 12 BGB — Tatsachenbestätigung und Beweislast in Bauträgervertragspruefer geht: prüft Fris…
-13. **mandantengutachten-aufbau** — Wenn es um Mandantengutachten Aufbau in Bauträgervertragspruefer geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislas…
-14. **paragraf-308-nr-4-bgb-leistungsaenderung** — Wenn es um Leistungsänderungsvorbehalte Paragraf 308 Nummer 4 BGB in Bauträgervertragspruefer geht: prüft Frist, Form, Z…
-15. **drei-dokumente-paket-erzeugen** — Wenn es um Drei-Dokumente-Paket erzeugen in Bauträgervertragspruefer geht: ordnet Akteninhalt, Belege, Lücken und Nachfo…
+2. **notarbelehrung-paragraf-14-bnoto-17-beurkg** — Für Notarbelehrung Paragraf 14 BNotO und Paragraf 17 BeurkG: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Schnit…
+3. **paragraf-309-nr-12-bgb-tatsachenbestaetigung** — Für Paragraf 309 Nummer 12 BGB — Tatsachenbestätigung und Beweislast: ordnet Norm, Beweislast und Gegenargument; Ergebni…
+4. **fertigstellungssicherheit-650m-pruefen** — Für Fertigstellungssicherheit Paragraf 650m Absatz 2 BGB prüfen: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Pr…
+5. **paragraf-308-nr-4-bgb-leistungsaenderung** — Für Leistungsänderungsvorbehalte Paragraf 308 Nummer 4 BGB: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfpro…
+6. **hoai-bauueberwachung-private-bauueberwachung** — Für HOAI, Bauüberwachung und private Bauüberwachung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mi…
+7. **aufforderungsschreiben-bautraeger-und-notar** — Für Aufforderungsschreiben an Bauträger und Notar: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit …
+8. **teilungserklaerung-gemeinschaftsordnung** — Für Teilungserklärung und Gemeinschaftsordnung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Ris…
+9. **verjaehrung-634a-bgb-hemmung** — Für Verjährung Paragraf 634a BGB und Hemmung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risik…
+10. **abnahme-sondereigentum-paragraf-640** — Für Abnahme Sondereigentum Paragraf 640 BGB: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko…
+11. **gemeinschaft-zieht-maengelrechte-an-sich** — Für Gemeinschaft zieht Mängelrechte an sich: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko…
+12. **maengelrechte-633-634-bgb** — Für Mängelrechte Paragrafen 633 und 634 BGB: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko…
+13. **mittlere-art-und-guete-und-din** — Für Mittlere Art und Güte und DIN-Normen: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko un…
+14. **auflassungsvormerkung-und-grundbuch** — Für Auflassungsvormerkung und Grundbuch: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und…
+15. **baubeschreibung-bausoll-pruefen** — Für Baubeschreibung und Bausoll prüfen: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und …
 
 ---
 
@@ -143,9 +143,116 @@ Ausgangspunkt für dieses Plugin: Auftragnehmer für Leistung, Nachtrag und Behi
 
 ---
 
+## Skill: `notarbelehrung-paragraf-14-bnoto-17-beurkg`
+
+_Für Notarbelehrung Paragraf 14 BNotO und Paragraf 17 BeurkG: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Schnittstellenkarte mit Zuständigkeits- und Nachweisfragen._
+
+# Notarbelehrung Paragraf 14 BNotO und Paragraf 17 BeurkG
+
+## Wann dieser Skill greift
+
+Vor der Beurkundung zur Prüfung der Entwurfsübersendungsfrist und der Belehrungspflichten; nach der Beurkundung, wenn der Notar erkennbare AGB- oder MaBV-Risiken nicht belehrt hat; bei Serienbeurkundungen; bei pauschalen Bestätigungsklauseln, die echte Belehrung ersetzen sollen; und bei konkreten Anhaltspunkten für Notarhaftung nach Paragraf 19 BNotO.
+
+## Pflichtnormen
+
+- Paragraf 17 BeurkG: Der Notar soll den Willen der Beteiligten erforschen, den Sachverhalt klären, die Beteiligten über die rechtliche Tragweite des Geschäfts belehren und ihre Erklärungen klar und unzweideutig in der Urkunde wiedergeben.
+- Paragraf 17 Absatz 2a BeurkG: Bei Verbraucherverträgen soll der Entwurf dem Verbraucher rechtzeitig, regelmäßig zwei Wochen vor Beurkundung, zur Verfügung gestellt werden.
+- Paragraf 14 BNotO: unparteiische Amtsführung; der Notar ist weder Interessenvertreter des Bauträgers noch des Erwerbers.
+- Paragraf 19 BNotO: Notarhaftung bei schuldhafter Amtspflichtverletzung; subsidiär, wenn anderweitiger Ersatz erlangt werden kann.
+- Paragraf 57 Absatz 2 BeurkG: öffentlich-rechtliche Verwahrungsanweisung beim Notaranderkonto.
+
+## Pruefraster
+
+1. **Entwurfsübersendung**: Wann hat der Erwerber den Vertragsentwurf und alle Anlagen erhalten? War die Frist von zwei Wochen gewahrt?
+2. **Vollständigkeit der Anlagen**: Lagen Baubeschreibung, Teilungserklärung, Pläne und alle Bezugsurkunden dem Verbraucher rechtzeitig und vollständig vor?
+3. **Belehrungsinhalt**: Hat der Notar über MaBV-Fälligkeit, Sicherheiten (Paragraf 650m Absatz 2 BGB, Paragraf 7 MaBV), Abnahme-Risiken, Preisanpassung, Freistellung und Vormerkung belehrt?
+4. **Pauschale Bestätigungen**: Enthält die Urkunde pauschale Tatsachenbestätigungen, die echte Belehrung ersetzen sollen? Das ist nach Paragraf 309 Nummer 12 BGB unwirksam und kann Notar-Amtspflichtverletzung begründen.
+5. **Serienbeurkundung**: Ist der Notar erkennbar als Seriennotar des Bauträgers tätig? Erhöhte Prüfpflicht bei Interessenkonflikten.
+6. **Verbrauchereinwände**: Hat der Notar Einwände des Erwerbers gegen Klauseln dokumentiert und belehrt?
+7. **Notarhaftung**: Nur als Eskalation formulieren, nicht als Automatismus; Fahrlässigkeit führt zu subsidiärer Haftung; bei belastbaren Vorsatzindizien gesonderte Inanspruchnahme prüfen.
+
+## Leitentscheidungen
+
+Keine eigenständigen quellenhart verifizierten BGH-Entscheidungen zur Notarhaftung im Megaprompt ausgewiesen. Normative Grundlage gesichert durch Paragrafen 17 BeurkG, 14 BNotO und 19 BNotO. Vor konkreter Notarhaftungsklage live verifizieren.
+
+## Arbeitsprodukt
+
+Notar-Checkliste mit Feststellung der Entwurfsübersendung, Vollständigkeit der Anlagen, Belehrungsprotokoll-Auswertung und ggf. anwaltlich formulierter Einwand für die Beurkundung.
+
+## Musterbaustein
+
+```text
+Notar-Belehrungs-Check
+
+Entwurf erhalten am:                  [Datum]
+Beurkundungstermin:                   [Datum]
+Vorlaufzeit:                          [X Tage; Mindestziel: 14 Tage nach Paragraf 17 Absatz 2a BeurkG]
+Anlagen vollständig übersandt:        [ja / nein — fehlend: Baubeschreibung / Teilungserklärung / ...]
+
+Einwand für die Beurkundung:
+"Ich erhebe gegen folgende Klauseln vor Beurkundung Einwand: [Aufzählung mit Norm]. Ich bitte den Notar, diesen Einwand in der Urkunde zu protokollieren und über die Rechtsfolgen zu belehren. Eine Beurkundung ohne Klärung dieser Punkte ist aus meiner Sicht nicht verantwortbar."
+
+Notarhaftungs-Hinweis (wenn einschlägig):
+Der Notar hat erkennbare AGB-/MaBV-Risiken [Punkt X] nicht belehrt. Diese Amtspflichtverletzung kommt als Haftungsgrundlage nach Paragraf 19 BNotO in Betracht. Die Prüfung ist anwaltlich weiterzuführen; keine pauschale Haftungsdrohung ohne Tatsachenunterbau.
+```
+
+---
+
+## Skill: `paragraf-309-nr-12-bgb-tatsachenbestaetigung`
+
+_Für Paragraf 309 Nummer 12 BGB — Tatsachenbestätigung und Beweislast: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt._
+
+# Paragraf 309 Nummer 12 BGB — Tatsachenbestätigung und Beweislast
+
+## Wann dieser Skill greift
+
+Sobald der Vertrag eine Klausel enthält, die den Erwerber etwas „bestätigen", „erkennen", „akzeptieren" oder „als erhalten quittieren" lässt — insbesondere Unterlagenerhalt, Kenntnis von Baubeschreibung oder Teilungserklärung, Prüfung der Unterlagen, Belehrung durch den Notar, Vollständigkeit der Ausstattung oder Mangelfreiheit bei Übergabe. Auch Klauseln, die die Beweislast für Mängel oder Verzug vor Abnahme auf den Erwerber verschieben.
+
+## Pflichtnormen
+
+- Paragraf 309 Nummer 12 Buchstabe a BGB: Klauselverbot ohne Wertungsmöglichkeit — Beweislastverschiebung für Umstände im Verantwortungsbereich des Verwenders ist unwirksam.
+- Paragraf 309 Nummer 12 Buchstabe b BGB: Klauselverbot ohne Wertungsmöglichkeit — pauschale Bestätigung von Tatsachen durch den anderen Vertragsteil (z. B. Empfang, Kenntnis, Prüfung) ist unwirksam; Ausnahme für gesondert abgegebene und gesondert unterzeichnete Erklärungen (Empfangsbekenntnis im eigentlichen Sinn).
+- Paragraf 306 BGB: unwirksame Klausel entfällt; gesetzliche Beweislast tritt ein.
+
+## Pruefraster
+
+1. **Buchstabe a — Beweislastverschiebung**: Werden Mängel, Verzug, Rücktrittsvoraussetzungen oder Sicherheitspflichten aus dem Bereich des Bauträgers dem Erwerber zur Darlegung oder Beweisführung aufgebürdet?
+2. **Buchstabe b — Pauschale Tatsachenbestätigung**: Bestätigt der Erwerber im Vertragstext pauschal, Unterlagen erhalten, geprüft, verstanden oder Risiken zur Kenntnis genommen zu haben?
+3. **Empfangsbekenntnis-Ausnahme**: Ist die Bestätigung gesondert abgegeben und gesondert unterschrieben? Nur dann ist sie nach Paragraf 309 Nummer 12 Buchstabe b BGB privilegiert.
+4. **Notarprotokoll**: Der Notar kann den Erhalt von Unterlagen protokollieren; das ersetzt aber keine tatsächliche rechtzeitige Übersendung und ist kein Freibrief für AGB-widrige Tatsachenbestätigungen.
+5. **Kombinations-Check**: Häufig kombiniert der Vertrag Buchstabe a und Buchstabe b — z. B. „Der Erwerber bestätigt, alle Unterlagen erhalten und geprüft zu haben und erklärt, keine Mängel festgestellt zu haben."
+6. **Konsequenz**: Unwirksame Klausel entfällt; die gesetzliche Beweislastverteilung tritt ein; insbesondere trägt der Bauträger vor Abnahme die Beweislast für mangelfreie Herstellung.
+
+## Leitentscheidungen
+
+Keine eigenständigen quellenhart verifizierten Einzelentscheidungen zu Paragraf 309 Nummer 12 BGB im Megaprompt separat ausgewiesen. Die Norm ist klares Klauselverbot ohne Wertungsmöglichkeit; ihre Anwendung auf Bautraegerverträge ist gesicherte Argumentationslinie.
+
+## Arbeitsprodukt
+
+Klauselbefund: Wortlaut der Tatsachenbestätigungs- oder Beweislastklausel, Einordnung nach Buchstabe a oder b, Ampel rot, Streichungsforderung und Hinweis auf die eintretende gesetzliche Beweislastverteilung.
+
+## Musterbaustein
+
+```text
+Tatsachenbestätigungs-/Beweislastklausel
+
+Vertragsklausel (Originalwortlaut): "[Der Erwerber bestätigt, sämtliche Bezugsurkunden erhalten und geprüft zu haben]"
+
+Einordnung:
+Die Klausel ist eine pauschale Tatsachenbestätigung nach Paragraf 309 Nummer 12 Buchstabe b BGB. Sie ist nicht gesondert unterschrieben und damit nicht als privilegiertes Empfangsbekenntnis ausgestaltet. Sie ist unwirksam.
+
+Gegenargument: "Der Notar protokolliert nur den tatsächlichen Ablauf."
+Antwort: Pauschale Bestätigungen ersetzen keine echte rechtzeitige Unterlagenübersendung und verschieben die Beweislast unzulässig auf den Erwerber.
+
+Streichungsforderung:
+Bitte streichen Sie die Klausel ersatzlos. Für einen echten Unterlagenempfang ist ein gesondertes, eigenhändig unterschriebenes Empfangsbekenntnis zu verwenden.
+```
+
+---
+
 ## Skill: `fertigstellungssicherheit-650m-pruefen`
 
-_Wenn es um Fertigstellungssicherheit Paragraf 650m Absatz 2 BGB prüfen in Bauträgervertragspruefer geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt._
+_Für Fertigstellungssicherheit Paragraf 650m Absatz 2 BGB prüfen: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt._
 
 # Fertigstellungssicherheit Paragraf 650m Absatz 2 BGB prüfen
 
@@ -196,9 +303,179 @@ Gewünschte Fassung:
 
 ---
 
+## Skill: `paragraf-308-nr-4-bgb-leistungsaenderung`
+
+_Für Leistungsänderungsvorbehalte Paragraf 308 Nummer 4 BGB: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt._
+
+# Leistungsänderungsvorbehalte Paragraf 308 Nummer 4 BGB
+
+## Wann dieser Skill greift
+
+Sobald der Vertrag oder die Baubeschreibung dem Bauträger das Recht einräumt, Bauleistungen, Ausstattungen, Grundrisse, technische Systeme, Außenanlagen oder die Teilungserklärung einseitig abzuändern — insbesondere bei Formulierungen wie „gleichwertige Änderungen aus technischen Gründen", „nach Ermessen des Verkäufers", „technisch notwendige Anpassungen" oder „beliebige Änderungen der Teilungserklärung".
+
+## Pflichtnormen
+
+- Paragraf 308 Nummer 4 BGB: Klauselverbot mit Wertungsmöglichkeit — Recht des Verwenders, die versprochene Leistung zu ändern oder von ihr abzuweichen, ist unwirksam, wenn nicht die Vereinbarung der Änderung oder Abweichung unter Berücksichtigung der Interessen des Verwenders für den anderen Vertragsteil zumutbar ist.
+- Paragraf 307 BGB: Generalklausel; unangemessene Benachteiligung und Intransparenz.
+- Paragraf 650k Absatz 2 BGB: Unklarheiten bei Bausoll gehen zulasten des Unternehmers.
+- BGH V ZR 91/25 (Teilungserklärung): AGB-Pflichten des Verbrauchers, späteren Änderungen der Teilungserklärung zuzustimmen, sind nach Paragraf 308 Nummer 4 BGB unwirksam, wenn keine im Einzelnen benannten triftigen Gründe erkennbar sind.
+
+## Pruefraster
+
+1. **Klauselweite**: Erlaubt der Vorbehalt Änderungen an Qualität, Fläche, Nutzung, Kosten oder Sondereigentum — nicht nur technische Detailanpassungen ohne Wertauswirkung?
+2. **Triftige Gründe**: Sind die Gründe für eine mögliche Änderung im Vertrag konkret und im Einzelnen benannt, oder nur pauschal als „technisch notwendig" oder „aus organisatorischen Gründen"?
+3. **Informationspflicht**: Muss der Bauträger den Erwerber über eine beabsichtigte Änderung rechtzeitig informieren?
+4. **Wertminderungsverbot**: Darf die Änderung zu einer Verschlechterung von Qualität, Fläche, Komfort, Nutzbarkeit, Kostenlast oder Sondereigentum führen?
+5. **Lösungsrecht des Erwerbers**: Gibt es bei wesentlichen Änderungen ein Lösungsrecht des Erwerbers ohne Nachteile beim Eigentumsschutz?
+6. **Teilungserklärung**: Änderungsvorbehalte zur Teilungserklärung besonders streng prüfen; BGH V ZR 91/25 als Anker einsetzen; Paragraf 242 BGB ersetzt unwirksame AGB-Zustimmungspflicht regelmäßig nicht.
+7. **Energie- und Förderbedingungen**: Änderungen des Energiestandards können Förderansprüche vernichten; konkrete Klasse im Vertrag sichern.
+
+## Leitentscheidungen
+
+BGH, Urteil vom 23.01.2026 - V ZR 91/25 (amtliches PDF: https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/V_ZS/2025/V_ZR__91-25.pdf?__blob=publicationFile&v=1): AGB-Pflichten des Verbrauchers, Änderungen der Teilungserklärung zuzustimmen, sind nach Paragraf 308 Nummer 4 BGB unwirksam, wenn die Klausel keine im Einzelnen benannten triftigen Gründe erkennen lässt. Aus Paragraf 242 BGB folgt dann regelmäßig keine Ersatz-Zustimmungspflicht.
+
+## Arbeitsprodukt
+
+Klauselbefund: Wortlaut des Änderungsvorbehalts, Bewertung nach Paragraf 308 Nummer 4 BGB, Ampel, Streichungsanweisung oder eng gefasste Neufassung mit konkreten Gründen.
+
+## Musterbaustein
+
+```text
+Leistungsänderungsvorbehalt
+
+Vertragsklausel (Originalwortlaut): "[...]"
+
+Befund: Der Vorbehalt erlaubt Änderungen an [Gewerk X / Teilungserklärung / Energiestandard], ohne triftige, konkret benannte Gründe zu nennen. Er ist nach Paragraf 308 Nummer 4 BGB unwirksam.
+
+Gegenargument: "Bauprojekte brauchen Flexibilität."
+Antwort: Flexibilität erfordert konkret benannte triftige Gründe; pauschale Änderungsrechte ohne Wertschutz und ohne Lösungsrecht sind nicht zumutbar.
+
+Gewünschte Fassung:
+"Der Bauträger ist berechtigt, technisch bedingte Änderungen an [Gewerk X] vorzunehmen, wenn [konkret benannte Gründe, z. B. behördliche Auflagen oder Lieferausfall eines bestimmten Materials] vorliegen, die Änderung Qualität, Fläche, Nutzbarkeit, Kostenlast und Sondereigentum des Erwerbers nicht verschlechtert und der Erwerber rechtzeitig in Textform informiert wird."
+```
+
+---
+
+## Skill: `hoai-bauueberwachung-private-bauueberwachung`
+
+_Für HOAI, Bauüberwachung und private Bauüberwachung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt._
+
+# HOAI, Bauüberwachung und private Bauüberwachung
+
+## Wann dieser Skill greift
+
+Wenn der Vertrag keine Aussage darüber enthält, wer die Ausführungsplanung (Leistungsphase 5) und die Objektüberwachung (Leistungsphase 8) schuldet; wenn die Bauüberwachung nur intern durch den Bauträger selbst erfolgt; wenn der Vertrag dem Erwerber den Baustellenzutritt mit eigenen Sachverständigen verbietet oder wenn technische Qualitätsgates fehlen.
+
+## Pflichtnormen
+
+- Paragraf 34 HOAI in Verbindung mit Anlage 10.1 HOAI: Leistungsbild Gebäude und Innenräume, neun Leistungsphasen; Leistungsphase 8 ist Objektüberwachung, Bauüberwachung und Dokumentation — dies ist primär Honorarrecht, aber belastbares Organisationsraster für die Prüfung der Planungs- und Überwachungslogik.
+- Paragraf 650n BGB: Pflicht zur Übergabe von Planungs- und Nachweisunterlagen vor Ausführung und spätestens mit Fertigstellung; gilt auch beim Bautraegervertrag.
+- Paragraf 3 Absatz 2 MaBV: Bautenstand muss objektiv prüfbar sein; rein interne Bauleiterbestätigung des Verkäufers ist keine ausreichende Fälligkeitsgrundlage.
+- Paragraf 307 BGB: Klauseln, die jede private Bautenstandskontrolle oder Sachverständigen-Teilnahme an Abnahmen ausschließen, entwerten MaBV-Fälligkeit, Abnahmeprüfung und Mängelrechte und sind unwirksam.
+
+## Pruefraster
+
+1. **Leistungsphase 5 — Ausführungsplanung**: Liegt ausführungsreife Planung vor? Ohne LPH-5-Logik sind Schall, Abdichtung, Brandschutz, Haustechnik und Baukonstruktion nicht prüfbar.
+2. **Leistungsphase 8 — Objektüberwachung**: Wer überwacht die Bauausführung? Ist der Objektüberwacher unabhängig vom Bauträger? Gibt es Bautenstandsberichte, Mängeltracking und Rechnungsfreigaben?
+3. **Interne Kontrolle**: Rein interne Bauträgerkontrolle ohne unabhängige Fachüberwachung ist kein ausreichender Ersatz; Ampel orange bis rot.
+4. **Private Bauüberwachung durch den Erwerber**: Der Erwerber darf keine Weisungen an Handwerker geben, aber er muss das Recht haben, eigene Sachverständige zu definierten Qualitätsgates (Rohbau, Fenster/Dach, Rohinstallation, Estrich, Abdichtung, Abnahme) mitzunehmen.
+5. **Klauseln gegen private Sachverständige**: Formularmäßige Klauseln, die eigene Baukontrolle, private Sachverständige, Fotodokumentation oder Abnahmebegleitung pauschal ausschließen, sind nach Paragraf 307 BGB unwirksam.
+6. **HOAI als Direktanspruch**: HOAI begründet keinen Direktanspruch des Erwerbers gegen den Architekten des Bauträgers; sie dient als Organisations- und Plausibilitätsraster.
+7. **Dokumentations- und Übergabepaket**: Welche Unterlagen bekommt der Erwerber und die Gemeinschaft nach Fertigstellung? Statik, Brandschutz, Schallschutz, Energie, Revisionsunterlagen, Wartungsanleitungen.
+
+## Leitentscheidungen
+
+Keine eigenständigen quellenhart verifizierten BGH-Entscheidungen zur HOAI-Pflicht des Bauträgers im Megaprompt ausgewiesen. Normative Grundlage ist Paragraf 650n BGB und Paragraf 307 BGB in Verbindung mit der MaBV-Logik.
+
+## Arbeitsprodukt
+
+HOAI-Rollen-Prüfliste mit Bewertung von Planung, Überwachung und Dokumentation; Klauselbefund für Zutrittsverbote; Forderung nach vertraglicher Sachverständigenrechts-Regelung und Dokumentationsübergabe.
+
+## Musterbaustein
+
+```text
+HOAI- und Bauüberwachungs-Prüfung
+
+Leistungsphase 5 — Ausführungsplanung:       [vorhanden / unklar / fehlend]
+Leistungsphase 8 — Objektüberwachung:        [unabhängiger Objektüberwacher / nur interne Kontrolle → 🔴]
+Bautenstandsberichte für MaBV-Raten:         [vorhanden und erwerberprüfbar / nur Bauleiterbestätigung → 🔴]
+Sachverständigen-Zutrittsrecht Erwerber:     [geregelt / ausgeschlossen → 🔴 nach Paragraf 307 BGB]
+Dokumentationsübergabe laut Vertrag:         [vollständig / pauschal / fehlend]
+
+Forderung private Bauüberwachung:
+"Bitte ergänzen Sie eine Regelung, wonach der Erwerber nach angemessener Voranmeldung und unter Beachtung der Sicherheitsvorgaben einen eigenen Sachverständigen zu den folgenden Qualitätsgates hinzuziehen darf: Rohbau, Fenster und Dach, Rohinstallation, Estrich, Abdichtung Tiefgarage, Bezugsfertigkeit und Abnahme. Die Fälligkeit von MaBV-Raten darf nicht allein durch eine interne Bauleiterbestätigung des Verkäufers ausgelöst werden."
+
+Dokumentationsforderung:
+Der Bauträger stellt dem Erwerber und der Gemeinschaft der Wohnungseigentümer spätestens mit Fertigstellung folgende Unterlagen zur Verfügung: geprüfte Statik, Brandschutznachweise, Schallschutznachweis, Energieausweis und GEG-Nachweise, Revisionspläne, Wartungsanleitungen für alle technischen Anlagen und Fachunternehmererklärungen.
+```
+
+---
+
+## Skill: `aufforderungsschreiben-bautraeger-und-notar`
+
+_Für Aufforderungsschreiben an Bauträger und Notar: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt._
+
+# Aufforderungsschreiben an Bauträger und Notar
+
+## Wann dieser Skill greift
+
+Nach Abschluss der Klausel- und Vertragsanalyse, sobald die Befunde feststehen und ein außergerichtliches Korrekturschreiben an Bauträger oder Notar zu formulieren ist. Einsetzbar vor Beurkundung (Korrekturforderung), nach Beurkundung (Einwand und Fristsetzung) und in der Bauphase (Zahlungsstopp, Mängelrüge).
+
+## Pflichtnormen
+
+- Alle Normen aus der Klauselanalyse: MaBV, BGB-Werkvertragsrecht, AGB-Recht, WEG-Recht.
+- Ton und Format: Paragraf 306 BGB als Grundlage — unwirksame Klausel fällt weg; Gesetz gilt; keine pauschalen Nichtigkeitsdrohungen, stets konkrete Neufassung liefern.
+
+## Pruefraster
+
+1. **Für jeden roten Befund**: Paragraf oder Abschnitt benennen, Originalwortlaut zitieren, Problem in einem Satz erklären, Norm oder Argumentationslinie nennen, Gegenargument vorwegnehmen und antworten, gewünschte Fassung oder Streichungsanweisung formulieren.
+2. **Priorität**: Drei bis fünf dringendste Punkte zuerst (MaBV-Fälligkeit, Sicherheiten, Abnahme, Bausoll, Teilungserklärung); Nebenpunkte danach.
+3. **Frist**: Konkrete Frist bis zu einem bestimmten Datum vor dem Beurkundungstermin oder vor der nächsten Rate.
+4. **Ton**: bestimmt, klar, keine Übertreibungen; der Bauträger und der Notar sollen erkennen, dass die Einwände rechtlich fundiert sind und vor Gericht standhalten werden.
+5. **Notar als Adressat**: Wenn der Notar erkennbare MaBV- oder AGB-Risiken nicht belehrt hat, Einwand an ihn richten und Protokollierung verlangen.
+6. **Keine BeckRS-/juris-Fundstellen**: Nur zulässige amtliche Quellen oder dejure.org/openjur.de; nicht quellenhart Verifiziertes als Argumentationslinie kennzeichnen.
+7. **Versandfertigkeit**: Datum, Absender, Empfänger, Betreff mit UR-Nummer oder Projektnamen, vollständiger Forderungskatalog, Frist und Schlussformulierung.
+
+## Leitentscheidungen
+
+Alle verifizierten BGH-Anker aus den Fachskills (insbesondere VII ZR 68/24, VII ZR 108/24, VII ZR 88/25, V ZR 91/25, VII ZR 241/22, VII ZR 308/12) werden dort eingesetzt, wo sie zur konkreten Klausel passen.
+
+## Arbeitsprodukt
+
+Versandfertiges außergerichtliches Aufforderungsschreiben im Briefformat mit vollständigem Forderungskatalog.
+
+## Musterbaustein
+
+```text
+[Kanzlei/Absender]                             [Datum]
+[Bauträger/Notar, Adresse]
+
+Betreff: Bautraegervertrag [Projekt, Haus/Einheit, UR-Nr. oder Entwurfsdatum] — erforderliche Anpassungen vor Beurkundung
+
+Sehr geehrte Damen und Herren,
+
+wir nehmen Bezug auf den Entwurf des Bautraegervertrags über [Projekt, Einheit]. Der Entwurf ist in den nachfolgend aufgeführten Punkten vor Beurkundung anzupassen. Die notarielle Form ersetzt nicht die AGB-Inhaltskontrolle. Zwingende MaBV- und Verbraucherschutzvorgaben stehen nicht zur Disposition.
+
+1. [Paragraf/Absatz] — [konkretes Problem]
+Original: "[Wortlaut]"
+Warum das so nicht geht: [Norm + kurze Begründung]
+Erwartetes Gegenargument: [...]
+Antwort: [...]
+So muss es richtig gefasst werden: [vollständiger Alternativwortlaut oder Streichungsanweisung]
+
+[weitere Punkte]
+
+Wir bitten um einen überarbeiteten Entwurf bis zum [Datum]. Ohne die vorgenannten Korrekturen ist aus Erwerbersicht eine Beurkundung nicht verantwortbar.
+
+Mit freundlichen Grüßen
+[Unterschrift]
+```
+
+---
+
 ## Skill: `teilungserklaerung-gemeinschaftsordnung`
 
-_Wenn es um Teilungserklärung und Gemeinschaftsordnung in Bauträgervertragspruefer geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt._
+_Für Teilungserklärung und Gemeinschaftsordnung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt._
 
 # Teilungserklärung und Gemeinschaftsordnung
 
@@ -247,9 +524,120 @@ Gewünschte Fassung:
 
 ---
 
+## Skill: `verjaehrung-634a-bgb-hemmung`
+
+_Für Verjährung Paragraf 634a BGB und Hemmung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt._
+
+# Verjährung Paragraf 634a BGB und Hemmung
+
+## Wann dieser Skill greift
+
+Sobald Mängelansprüche geltend gemacht werden, die Abnahme länger als ein Jahr zurückliegt, der Bauträger Verjährung einwendet oder der Vertrag eine kürzere Verjährungsfrist als fünf Jahre vorsieht. Auch bei unwirksamer Abnahmeklausel und der Frage, wann die Frist dann zu laufen begann.
+
+## Pflichtnormen
+
+- Paragraf 634a Absatz 1 Nummer 2 BGB: Verjährungsfrist für Mängelansprüche bei Bauwerken fünf Jahre ab Abnahme.
+- Paragraf 634a Absatz 2 BGB: Regelverjährung von drei Jahren nach Paragrafen 195, 199 BGB gilt bei arglistigem Verschweigen.
+- Paragraf 203 BGB: Hemmung der Verjährung während laufender Verhandlungen über den Anspruch oder die Umstände, die ihn begründen.
+- Paragraf 204 Absatz 1 Nummer 7 BGB: Hemmung durch Einleitung eines selbständigen Beweisverfahrens; Hemmung endet sechs Monate nach Beendigung des Verfahrens.
+- Paragraf 307 BGB: formularmäßige Verkürzung der fünfjährigen Verjährung unter das gesetzliche Minimum ist unwirksam.
+
+## Pruefraster
+
+1. **Abnahmedatum**: Wann erfolgte die Abnahme des Sondereigentums oder — bei unwirksamer Klausel — wann begann die Verjährung tatsächlich?
+2. **Unwirksame Abnahmeklausel**: Wenn die Abnahmeklausel unwirksam ist, hat der Bauträger keine wirksame Abnahme herbeigeführt; die Verjährungsfrist beginnt nicht zu laufen; Erwerber ist beweisbelastet für konkrete Abnahme oder Fiktionseintritt.
+3. **Fünfjahres-Grundregel**: Für Mängelansprüche am Bauwerk beträgt die Frist fünf Jahre; Klauseln, die sie verkürzen, sind nach Paragraf 307 BGB unwirksam.
+4. **Hemmung durch Verhandlungen (Paragraf 203 BGB)**: Jeder Austausch, bei dem der Bauträger Mängelrügen nicht sofort abweist, sondern prüft oder beseitigt, kann als Verhandlung gelten; Beginn und Ende dokumentieren.
+5. **Selbständiges Beweisverfahren**: Einleitung hemmt die Verjährung; Hemmung endet sechs Monate nach Verfahrensabschluss; vor Einleitung prüfen, ob alle relevanten Mängel im Antrag erfasst sind.
+6. **Arglist**: Bei arglistigem Verschweigen von Mängeln läuft die Regelverjährung von drei Jahren nach Paragraf 634a Absatz 2 BGB; Kenntnis des Erwerbers ab dem Jahr des Bekanntwerdens.
+7. **Gemeinschaft der Wohnungseigentümer**: Vergemeinschaftungsbeschluss ist für gemeinschaftliche Mängelrechte erforderlich; Mängelrügen hemmen die Verjährung erst ab Beschlussfassung, nicht rückwirkend.
+
+## Leitentscheidungen
+
+BGH, Urteile vom 26.03.2026 - VII ZR 68/24 und VII ZR 108/24 (amtliche PDFs jeweils auf bundesgerichtshof.de): Bei unwirksamer Abnahmeklausel läuft die Mängelverjährung nicht; für Kostenvorschussansprüche gilt eine 30-Jahres-Obergrenze, nicht pauschal auf alle Ansprüche übertragen.
+
+## Arbeitsprodukt
+
+Verjährungskalender für alle Mängelansprüche mit Abnahmedatum, Fristablauf, Hemmungszeiträumen, offenen Fristen und Handlungsempfehlung.
+
+## Musterbaustein
+
+```text
+Verjährungskalender Mängelansprüche
+
+Abnahme Sondereigentum:     [Datum]
+Ablauf fünfjährige Frist:   [Datum + 5 Jahre]
+Hemmung durch Verhandlung:  [von: Datum bis: Datum, Belege: Korrespondenz]
+Hemmung selbst. Beweisverf.: [Einleitung: Datum; Ende: Datum; Hemmungsende: Datum + 6 Monate]
+Verbleibende Frist:         [Tage / Monate]
+Handlungsempfehlung:        [Klage einreichen / SBV einleiten / Frist beachten]
+
+Bei unwirksamer Abnahmeklausel:
+Die Abnahmeklausel [Paragraf/Absatz] ist nach der BGH-Linie (VII ZR 68/24, VII ZR 241/22) unwirksam. Auf ihrer Grundlage ist keine wirksame Abnahme erfolgt. Die fünfjährige Mängelverjährung hat nicht begonnen zu laufen. Der Bauträger kann sich auf die fehlende Abnahme nicht zu seinem Vorteil berufen.
+```
+
+---
+
+## Skill: `abnahme-sondereigentum-paragraf-640`
+
+_Für Abnahme Sondereigentum Paragraf 640 BGB: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt._
+
+# Abnahme Sondereigentum Paragraf 640 BGB
+
+## Wann dieser Skill greift
+
+Bei Abnahme der eigenen Wohnung oder des Teileigentums, bei Schlüsselübergabe ohne Abnahmeprotokoll, bei fiktiver Abnahme durch schlüssiges Verhalten oder nach gesetzlicher Abnahmefiktion nach Paragraf 640 Absatz 2 BGB sowie bei Klauseln, die die Abnahme an bestimmte Bedingungen knüpfen oder ausschließen.
+
+## Pflichtnormen
+
+- Paragraf 640 Absatz 1 BGB: Abnahmepflicht des Bestellers nach Fertigstellung des Werks; Abnahme trotz unwesentlicher Mängel.
+- Paragraf 640 Absatz 2 BGB: Abnahmefiktion nach Aufforderung und Fristsetzung; beim Verbraucher muss die Aufforderung einen Hinweis auf die Folge enthalten; bereits ein konkret benannter Mangel hindert die Fiktion.
+- Paragraf 640 Absatz 3 BGB: Vorbehalt bekannter Mängel bei Abnahme.
+- Paragraf 641 Absatz 3 BGB: Zurückbehaltungsrecht des Bestellers in Höhe des Zweifachen der voraussichtlichen Mängelbeseitigungskosten.
+- Paragraf 634a Absatz 2 BGB: fünfjährige Verjährungsfrist für Mängelansprüche am Bauwerk beginnt mit Abnahme.
+
+## Pruefraster
+
+1. **Abnahmeprotokoll**: Wurde ein schriftliches Abnahmeprotokoll mit konkreten Mängeln und Restarbeiten erstellt?
+2. **Vorbehalte**: Hat der Erwerber bekannte Mängel ausdrücklich vorbehalten? Ohne Vorbehalt keine Mängelrechte für bei Abnahme bekannte Mängel nach Paragraf 640 Absatz 3 BGB.
+3. **Schlüsselübergabe-Fiktion**: Enthält der Vertrag eine Klausel, nach der die Entgegennahme der Schlüssel als Abnahme gilt? Solche Klauseln sind nach Paragraf 307 BGB typisch unwirksam.
+4. **Abnahmefiktion Paragraf 640 Absatz 2 BGB**: Hat der Bauträger eine schriftliche Aufforderung mit Frist und ausdrücklichem Hinweis auf die Fiktionswirkung versandt? Beim Verbraucher ist dieser Hinweis Wirksamkeitsvoraussetzung.
+5. **Konkret benannter Mangel**: Hat der Erwerber vor Fristablauf mindestens einen konkreten Mangel benannt? Dann läuft die Fiktion nicht.
+6. **Wirkung der Abnahme**: Nach wirksamer Abnahme — Fälligkeit der vereinbarten Vergütung, Gefahrübergang, Beweislastumkehr (jetzt Erwerber muss Mangel beweisen), Beginn der Verjährungsfrist.
+7. **Schlussrate und Abnahme**: Abnahme allein genügt nicht für Fälligkeit der Schlussrate, wenn der Vertrag vollständige Fertigstellung oder Beseitigung protokollierter Mängel fordert (BGH VII ZR 88/25).
+
+## Leitentscheidungen
+
+BGH, Urteil vom 22.04.2026 - VII ZR 88/25 (amtliches PDF: https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/VII_ZS/2025/VII_ZR__88-25.pdf?__blob=publicationFile&v=1): Bei Klausel „nach vollständiger Fertigstellung" kann die Schlussrate trotz Abnahme noch nicht fällig sein, wenn protokollierte Mängel oder Restarbeiten offen sind.
+
+## Arbeitsprodukt
+
+Abnahme-Checkliste für den konkreten Termin: Protokollformular, Vorbehalts-Formulierungen, Einbehalt-Berechnung nach Paragraf 641 Absatz 3 BGB, Hinweis auf Beginn der Fünfjahresfrist.
+
+## Musterbaustein
+
+```text
+Abnahmeprotokoll-Checkliste (Sondereigentum)
+
+Datum und Ort der Abnahme:      [...]
+Anwesende:                      [Erwerber (ggf. mit Sachverständigem), Bauträgervertreter]
+Mängelliste:
+| Lfd. Nr. | Beschreibung des Mangels / der Restarbeit | Gewerk | Beseitigungsfrist |
+|---|---|---|---|
+| 1 | [...]                                        | [...]  | [Datum]           |
+
+Ausdrücklicher Vorbehalt (Paragraf 640 Absatz 3 BGB):
+"Der Erwerber nimmt das Objekt mit den vorstehend aufgeführten Mängeln und Restarbeiten unter ausdrücklichem Vorbehalt der Mängelrechte hierfür ab."
+
+Einbehalt nach Paragraf 641 Absatz 3 BGB:
+Voraussichtliche Beseitigungskosten: ca. EUR [X]. Zulässiger Einbehalt: EUR [2 x X].
+```
+
+---
+
 ## Skill: `gemeinschaft-zieht-maengelrechte-an-sich`
 
-_Wenn es um Gemeinschaft zieht Mängelrechte an sich in Bauträgervertragspruefer geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt._
+_Für Gemeinschaft zieht Mängelrechte an sich: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt._
 
 # Gemeinschaft zieht Mängelrechte an sich
 
@@ -297,7 +685,7 @@ Die Hemmung der Verjährung durch Mängelrügen der Gemeinschaft beginnt mit die
 
 ## Skill: `maengelrechte-633-634-bgb`
 
-_Wenn es um Mängelrechte Paragrafen 633 und 634 BGB in Bauträgervertragspruefer geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt._
+_Für Mängelrechte Paragrafen 633 und 634 BGB: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt._
 
 # Mängelrechte Paragrafen 633 und 634 BGB
 
@@ -354,7 +742,7 @@ Mängelaufforderungsschreiben:
 
 ## Skill: `mittlere-art-und-guete-und-din`
 
-_Wenn es um Mittlere Art und Güte und DIN-Normen in Bauträgervertragspruefer geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt._
+_Für Mittlere Art und Güte und DIN-Normen: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt._
 
 # Mittlere Art und Güte und DIN-Normen
 
@@ -406,119 +794,62 @@ Konkrete Mindestparameter verlangen für:
 
 ---
 
-## Skill: `mabv-sicherheit-paragraf-7-pruefen`
+## Skill: `auflassungsvormerkung-und-grundbuch`
 
-_Wenn es um MaBV-Sicherheit Paragraf 7 prüfen in Bauträgervertragspruefer geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt._
+_Für Auflassungsvormerkung und Grundbuch: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt._
 
-# MaBV-Sicherheit Paragraf 7 prüfen
+# Auflassungsvormerkung und Grundbuch
 
 ## Wann dieser Skill greift
 
-Wenn der Vertrag statt eines Paragraf-3-Ratenplans mit Vormerkung und Freistellung eine Paragraf-7-Bürgschaft als Sicherungsalternative vorsieht, oder wenn beide Modelle scheinbar kombiniert werden. Auch wenn eine Bürgschaft nur als dekorativer Zusatz zum Ratenplan erscheint.
+Vor der ersten Zahlung, bei der Prüfung des MaBV-Fälligkeitsrahmens nach Paragraf 3 Absatz 1 MaBV, bei Freistellungsproblemen, bei Klauseln zur Löschung der Vormerkung durch einseitige Bauträgererklärung und in der Insolvenz des Bauträgers.
 
 ## Pflichtnormen
 
-- Paragraf 7 Absatz 1 MaBV: Sicherheit für alle etwaigen Ansprüche des Auftraggebers auf Rückgewähr oder Auszahlung der ihm entgegengenommenen Vermögenswerte.
-- Paragraf 7 Absatz 1 Satz 4 MaBV: Bei Eigentums- oder Erbbaurechtsübertragung muss die Sicherheit aufrechterhalten werden, bis Paragraf 3 Absatz 1 MaBV erfüllt ist und das Vertragsobjekt vollständig fertiggestellt ist.
-- Paragraf 12 MaBV: Abweichungen zulasten des Auftraggebers unzulässig.
-- Paragraf 650v BGB: MaBV ist die einzig zulässige Grundlage für Abschlagszahlungen beim Bautraegervertrag.
+- Paragraf 883 BGB: Auflassungsvormerkung sichert den Übereignungsanspruch; wirkt bei Insolvenz des Bauträgers nach Paragraf 106 Insolvenzordnung.
+- Paragraf 3 Absatz 1 MaBV: Vor erster Zahlung muss die Vormerkung an vereinbarter Rangstelle eingetragen und die Freistellung nicht zu übernehmender Grundpfandrechte gesichert sein.
+- Paragraf 307 BGB: Klauseln, die eine Löschung der Vormerkung durch einseitige Erklärung des Bauträgers bei behauptetem Zahlungsverzug ermöglichen, sind unwirksam.
+- Paragraf 106 Insolvenzordnung: Auflassungsvormerkung wirkt insolvenzfest; Insolvenzverwalter muss Übereignungsanspruch erfüllen, wenn Gegenleistung erbracht und Vormerkung eingetragen ist.
 
 ## Pruefraster
 
-1. **Sicherungszweck**: Deckt die Bürgschaft alle Rückgewähr- und Auszahlungsansprüche ab, nicht nur den Kaufpreis oder einen Teilbetrag?
-2. **Dauer**: Bürgschaft muss aufrechterhalten werden, bis Paragraf 3 Absatz 1 MaBV erfüllt und das Objekt vollständig fertiggestellt ist; keine Befristung, die früher endet.
-3. **Kündbarkeit**: Ordentlich kündbare Bürgschaft mit Kündigungsfrist vor Fertigstellung ist rot, weil der Schutz entfällt.
-4. **Bürge**: Im Geltungsbereich des Kreditwesengesetzes befugtes Kreditinstitut oder zugelassener Kreditversicherer; Konzern- oder Auslandsbürge ist kritisch.
-5. **Original**: Bürgschaftsoriginal muss vor Zahlung beim Erwerber oder in einem sicheren Zugriff liegen.
-6. **Vermischungsverbot**: Kein Mischmodell — entweder vollständiges Paragraf-3-Modell mit Vormerkung, Freistellung und Ratenplan oder vollständige Paragraf-7-Sicherheit; keine halbierte Mischlösung akzeptieren.
-7. **Austausch-Mechanismus**: Wenn der Vertrag sowohl Paragraf-3-Elemente als auch eine Bürgschaft nennt, muss der Austausch-Mechanismus eindeutig geregelt sein; Paragraf 7 Absatz 1 Satz 4 MaBV als Warnpunkt mitdenken.
+1. **Eintragung vor Zahlung**: Ist die Auflassungsvormerkung an der vereinbarten Rangstelle im Grundbuch eingetragen, bevor die erste Rate gezahlt wird?
+2. **Rang**: Keine vorrangigen, nicht zu übernehmenden Grundpfandrechte; Globalgrundschuld muss freigestellt sein oder der Rang der Vormerkung muss vor dem Grundpfandrecht stehen.
+3. **Freistellung**: Sichert die Freistellungserklärung auch den Fall der Nichtvollendung des Baus ab? Freistellungszusage der finanzierenden Bank konkret und verbindlich?
+4. **Löschungsvollmacht**: Keine Klausel, nach der der Bauträger die Vormerkung bei behauptetem Zahlungsverzug oder Rücktritt allein löschen lassen kann; einseitige Druckmechanismen nach Paragraf 307 BGB unwirksam.
+5. **Notaranderkonto**: Notaranderkonto ist kein Ersatz für MaBV-Fälligkeit und Vormerkung; Verwahrungsanweisung, Empfangsberechtigung und Abtretungs-/Pfändungsrisiken getrennt prüfen (BGH VII ZB 28/20).
+6. **Insolvenzfall**: Liegt Insolvenzeröffnung vor oder sind Vorinsolvenzzeichen erkennbar? Insolvenzverwalter-Wahlrecht nach Paragraf 103 Insolvenzordnung für Werkleistungsansprüche; Eigentumsanspruch ist über Vormerkung gesichert.
+7. **Belastungsvollmacht des Bauträgers**: Weite Belastungsvollmachten oder Globalgrundschuld ohne betragsmäßige Begrenzung und Freistellungsklausel sind rot.
 
 ## Leitentscheidungen
 
-BGH, Beschluss vom 02.08.2023 - VII ZB 28/20 (amtliches PDF: https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/VII_ZS/2020/VII_ZB__28-20.pdf?__blob=publicationFile&v=1): Notaranderkonto ist kein einfacher Ersatz für MaBV-Schutz; Verwahrungsanweisung, MaBV-Fälligkeit und Empfangsberechtigung sind getrennt zu prüfen.
+BGH, Beschluss vom 02.08.2023 - VII ZB 28/20 (amtliches PDF: https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/VII_ZS/2020/VII_ZB__28-20.pdf?__blob=publicationFile&v=1): Notaranderkonto ist kein einfacher Ersatz für MaBV-Schutz; Fälligkeit, Empfangsberechtigung und Verwahrungsanweisung getrennt prüfen.
 
 ## Arbeitsprodukt
 
-Bürgschaftsmatrix mit Bewertung jedes Prüfpunkts und Ampel. Bei Mängeln: konkrete Streichungs- oder Korrekturforderung für den Bürgschaftstext und die Vertragsklausel.
+Grundbuch- und Sicherheits-Checkliste mit Bewertung der Vormerkung, Freistellung, Rang und Löschungsmechanik. Streichungsforderung für unzulässige Löschungsklauseln.
 
 ## Musterbaustein
 
 ```text
-Paragraf-7-MaBV-Prüfung
+Grundbuch-/Vormerkungsprüfung
 
-Sicherungszweck laut Bürgschaftstext:     [alle Rückgewähr-/Auszahlungsansprüche? oder nur Kaufpreisteil?]
-Dauer:                                    [bis vollständige Fertigstellung und Paragraf-3-Abs.-1-Erfüllung?]
-Kündbarkeit:                              [ordentlich kündbar? Kündigungsfrist vor Fertigstellung möglich?]
-Bürge:                                    [KWG-befugtes Institut? Inländisch?]
-Bürgschaftsoriginal:                      [vor Zahlung beim Erwerber?]
-Mischmodell-Risiko:                       [Ratenplan und Bürgschaft kombiniert? Paragraf-7-Absatz-1-Satz-4-MaBV beachtet?]
+Auflassungsvormerkung eingetragen:     [ja / nein; UR-Nr. der Beurkundung]
+Rangstelle:                            [an vereinbarter Stelle / Nachrangig hinter Grundpfandrecht X]
+Globalgrundschuld freigestellt:        [vollständig / nur teilweise / nicht geregelt]
+Freistellung auch bei Nichtvollendung: [ja / nein]
+Löschungsvollmacht des Bauträgers:     [nicht vereinbart / Klausel: "..." → 🔴 nach Paragraf 307 BGB]
+Notaranderkonto:                       [Verwahrungsanweisung, Empfangsberechtigung und MaBV-Fälligkeit getrennt geprüft]
 
-Befund: [Mängel konkret benennen; gewünschte Fassung des Bürgschaftstexts]
-
-Gewünschte Vertragsklausel:
-"Der Bauträger stellt dem Erwerber vor der ersten Entgegennahme von Vermögenswerten eine Bürgschaft eines im Inland zum Geschäftsbetrieb befugten Kreditinstituts. Die Bürgschaft sichert alle Ansprüche des Erwerbers auf Rückgewähr oder Auszahlung der entgegengenommenen Vermögenswerte. Sie ist aufrechtzuerhalten, bis die Voraussetzungen des Paragraf 3 Absatz 1 MaBV erfüllt sind und das Vertragsobjekt vollständig fertiggestellt ist."
-```
-
----
-
-## Skill: `notarbelehrung-paragraf-14-bnoto-17-beurkg`
-
-_Wenn es um Notarbelehrung Paragraf 14 BNotO und Paragraf 17 BeurkG in Bauträgervertragspruefer geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen._
-
-# Notarbelehrung Paragraf 14 BNotO und Paragraf 17 BeurkG
-
-## Wann dieser Skill greift
-
-Vor der Beurkundung zur Prüfung der Entwurfsübersendungsfrist und der Belehrungspflichten; nach der Beurkundung, wenn der Notar erkennbare AGB- oder MaBV-Risiken nicht belehrt hat; bei Serienbeurkundungen; bei pauschalen Bestätigungsklauseln, die echte Belehrung ersetzen sollen; und bei konkreten Anhaltspunkten für Notarhaftung nach Paragraf 19 BNotO.
-
-## Pflichtnormen
-
-- Paragraf 17 BeurkG: Der Notar soll den Willen der Beteiligten erforschen, den Sachverhalt klären, die Beteiligten über die rechtliche Tragweite des Geschäfts belehren und ihre Erklärungen klar und unzweideutig in der Urkunde wiedergeben.
-- Paragraf 17 Absatz 2a BeurkG: Bei Verbraucherverträgen soll der Entwurf dem Verbraucher rechtzeitig, regelmäßig zwei Wochen vor Beurkundung, zur Verfügung gestellt werden.
-- Paragraf 14 BNotO: unparteiische Amtsführung; der Notar ist weder Interessenvertreter des Bauträgers noch des Erwerbers.
-- Paragraf 19 BNotO: Notarhaftung bei schuldhafter Amtspflichtverletzung; subsidiär, wenn anderweitiger Ersatz erlangt werden kann.
-- Paragraf 57 Absatz 2 BeurkG: öffentlich-rechtliche Verwahrungsanweisung beim Notaranderkonto.
-
-## Pruefraster
-
-1. **Entwurfsübersendung**: Wann hat der Erwerber den Vertragsentwurf und alle Anlagen erhalten? War die Frist von zwei Wochen gewahrt?
-2. **Vollständigkeit der Anlagen**: Lagen Baubeschreibung, Teilungserklärung, Pläne und alle Bezugsurkunden dem Verbraucher rechtzeitig und vollständig vor?
-3. **Belehrungsinhalt**: Hat der Notar über MaBV-Fälligkeit, Sicherheiten (Paragraf 650m Absatz 2 BGB, Paragraf 7 MaBV), Abnahme-Risiken, Preisanpassung, Freistellung und Vormerkung belehrt?
-4. **Pauschale Bestätigungen**: Enthält die Urkunde pauschale Tatsachenbestätigungen, die echte Belehrung ersetzen sollen? Das ist nach Paragraf 309 Nummer 12 BGB unwirksam und kann Notar-Amtspflichtverletzung begründen.
-5. **Serienbeurkundung**: Ist der Notar erkennbar als Seriennotar des Bauträgers tätig? Erhöhte Prüfpflicht bei Interessenkonflikten.
-6. **Verbrauchereinwände**: Hat der Notar Einwände des Erwerbers gegen Klauseln dokumentiert und belehrt?
-7. **Notarhaftung**: Nur als Eskalation formulieren, nicht als Automatismus; Fahrlässigkeit führt zu subsidiärer Haftung; bei belastbaren Vorsatzindizien gesonderte Inanspruchnahme prüfen.
-
-## Leitentscheidungen
-
-Keine eigenständigen quellenhart verifizierten BGH-Entscheidungen zur Notarhaftung im Megaprompt ausgewiesen. Normative Grundlage gesichert durch Paragrafen 17 BeurkG, 14 BNotO und 19 BNotO. Vor konkreter Notarhaftungsklage live verifizieren.
-
-## Arbeitsprodukt
-
-Notar-Checkliste mit Feststellung der Entwurfsübersendung, Vollständigkeit der Anlagen, Belehrungsprotokoll-Auswertung und ggf. anwaltlich formulierter Einwand für die Beurkundung.
-
-## Musterbaustein
-
-```text
-Notar-Belehrungs-Check
-
-Entwurf erhalten am:                  [Datum]
-Beurkundungstermin:                   [Datum]
-Vorlaufzeit:                          [X Tage; Mindestziel: 14 Tage nach Paragraf 17 Absatz 2a BeurkG]
-Anlagen vollständig übersandt:        [ja / nein — fehlend: Baubeschreibung / Teilungserklärung / ...]
-
-Einwand für die Beurkundung:
-"Ich erhebe gegen folgende Klauseln vor Beurkundung Einwand: [Aufzählung mit Norm]. Ich bitte den Notar, diesen Einwand in der Urkunde zu protokollieren und über die Rechtsfolgen zu belehren. Eine Beurkundung ohne Klärung dieser Punkte ist aus meiner Sicht nicht verantwortbar."
-
-Notarhaftungs-Hinweis (wenn einschlägig):
-Der Notar hat erkennbare AGB-/MaBV-Risiken [Punkt X] nicht belehrt. Diese Amtspflichtverletzung kommt als Haftungsgrundlage nach Paragraf 19 BNotO in Betracht. Die Prüfung ist anwaltlich weiterzuführen; keine pauschale Haftungsdrohung ohne Tatsachenunterbau.
+Streichungsforderung:
+Die Klausel, nach der der Bauträger bei behauptetem Zahlungsverzug die Löschung der Auflassungsvormerkung veranlassen kann, ist nach Paragraf 307 BGB unwirksam. Die Vormerkung ist der Insolvenzschutz des Erwerbers; einseitige Behauptungen dürfen den Übereignungsanspruch nicht beseitigen. Bitte streichen Sie die Klausel ersatzlos.
 ```
 
 ---
 
 ## Skill: `baubeschreibung-bausoll-pruefen`
 
-_Wenn es um Baubeschreibung und Bausoll prüfen in Bauträgervertragspruefer geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen._
+_Für Baubeschreibung und Bausoll prüfen: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt._
 
 # Baubeschreibung und Bausoll prüfen
 
@@ -573,386 +904,6 @@ Fehlende oder unklare Punkte:
 
 Streichungsverlangen für Pauschalklausel:
 Die Klausel "mittlere Art und Güte" ist ohne Benennung konkreter Mindestparameter für [Gewerk X] nicht ausreichend. Nach Paragraf 650k Absatz 2 BGB gehen Zweifel über Inhalt und Qualität zulasten des Bauträgers. Bitte ergänzen Sie [konkreten Mindeststandard].
-```
-
----
-
-## Skill: `fall-fingerabdruck-erstellen`
-
-_Wenn es um Fall-Fingerabdruck erstellen in Bauträgervertragspruefer geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt._
-
-# Fall-Fingerabdruck erstellen
-
-## Direktstart: lesen, entscheiden, liefern
-
-Beginne nicht mit einem Fragenkatalog. Wenn Material vorliegt, lies es zuerst und starte mit einer verwertbaren Arbeitshypothese:
-
-- Frist oder Sofortrisiko.
-- erkannte Rolle, Zielrichtung und Verfahrensstand.
-- tragende Tatsachen aus dem Material.
-- bester nächster Arbeitsschritt mit direkt nutzbarem Output.
-
-Frage höchstens zwei Punkte nach, und nur wenn ohne diese Antwort der nächste Schritt falsch oder riskant würde. Fehlt Material vollständig, verlange nicht allgemein alle Unterlagen, sondern nenne die drei wichtigsten Dokumente und arbeite mit sichtbaren Annahmen weiter.
-
-Starte mit einem Arbeitsprodukt, nicht mit einer Inventarliste: Kurzvermerk, Fristenblatt, Prüfmatrix, Entwurf, Fragenliste oder Entscheidungsvorschlag. Routing ist nur Mittel zum Zweck. Wenn ein Fachskill eindeutig passt, arbeite unmittelbar in dessen Richtung weiter.
-
-Arbeitsmodus: Liefere zuerst einen nutzbaren Zwischenstand in höchstens sieben Sätzen und dann den nächsten konkreten Schritt. Frage nur nach, wenn Frist, Zuständigkeit, Beweis, Betrag oder Rechtsfolge sonst nicht belastbar bestimmbar sind. Tabellen nur für Fristen, Belege, Beträge, Varianten oder Streitstoff.
-
-## Wann dieser Skill greift
-
-Zu Beginn jeder Vollanalyse, sobald ein Bautraegervertrag, ein Notarentwurf, eine Akten-ZIP, ein PDF-Buendel oder ein OCR-Text vorliegt. Alle spaeteren Klausel-, Zahlungs- und Rechtsbewertungen muessen an den konkreten Falldaten haengen; ein generischer Befund ohne Fallanker darf nicht ausgegeben werden.
-
-## Pflichtnormen
-
-- Paragraf 650u BGB: Bautraegervertrag als eigener Vertragstyp; Eigentumsübertragung und Bauerrichtung im Verbund.
-- Paragraf 311b BGB: notarielle Beurkundungspflicht; alle wesentlichen Leistungspflichten müssen in der Urkunde oder sauber einbezogenen Bezugsurkunden erscheinen.
-- Paragraf 13a BeurkG: zulässige Auslagerung von Baubeschreibung, Plänen und Teilungserklärung in Bezugsurkunden, wenn eindeutig identifizierbar und belehrt.
-
-## Pruefraster
-
-1. **Urkunde**: UR-Nummer, Notar, Beurkundungsdatum oder Entwurfsdatum, Verbraucherschutzfrist zwei Wochen vor Beurkundung, Bezugsurkunden mit Datum und UR-Nummer erfassen.
-2. **Verkäuferseite**: Firma, Rechtsform, Projektgesellschaft, eingetragene Grundpfandrechte, Verbindung zu Konzernfinanzierung oder Globalgrundschuld.
-3. **Erwerberseite**: natürliche Person, Eigennutzung oder private Kapitalanlage, Finanzierungsdruck, laufende Fristen zu Beurkundung, Zahlung und Abnahme.
-4. **Grundstück und Projekt**: Grundbuch, Gemarkung, Flurstück, Bauabschnitte, Tiefgarage, Gemeinschaftsflächen, Erschließungsstand, Nachbarbaufelder.
-5. **Einheit**: Haus oder Wohnungsnummer, Geschoss, Keller, Terrasse oder Balkon, Stellplatz, Wohnfläche, Miteigentumsanteil, Sondernutzungsrechte.
-6. **Preis und Zahlungen**: Kaufpreis, Stellplatzaufpreis, Reservierungsentgelt, Sonderwünsche, Ratenplan, Schlussrate, Erschließungs- und Anschlusskosten.
-7. **Sicherheiten**: Auflassungsvormerkung, Lastenfreistellung, Paragraf-650m-Sicherheit, Paragraf-7-MaBV-Alternative, Löschungs- und Freigabemechanik.
-8. **Bausoll**: Baubeschreibung mit Datum und Version, Pläne, Bemusterung, Fabrikate, Schallschutz, Energie, Feuchte, Wohnflächenmethode.
-9. **Technik**: Baugrund, Grundwasser, Altlasten, Kampfmittel, Baugrube, Abdichtung, Statik, Brandschutz, Lüftung, Heizung, Tiefgarage.
-10. **Organisation und Streitstand**: Planer, Objektüberwachung, Erstverwalter, privater Sachverständiger, Vertragsstatus (Entwurf, beurkundet, Bauphase, Mängelstreit, Insolvenz).
-
-## Leitentscheidungen
-
-Keine eigenständige Entscheidung zur Fingerabdruck-Methodik; die Anti-Generik-Regel wird aus der Gesamtsystematik des Bautraegerrechts abgeleitet. Jeder Befund muss mindestens zwei Fallanker enthalten.
-
-## Arbeitsprodukt
-
-Kompakte Fingerabdruck-Tabelle mit ausgefüllten Feldern aus der Akte. Fehlende Angaben werden als Annahmen oder Prüfvorbehalte gekennzeichnet und in einer Nachforderungsliste ausgewiesen. Der Fingerabdruck wird nur so weit ausgegeben, wie er für die Antwort nützlich ist.
-
-## Musterbaustein
-
-```text
-Fall-Fingerabdruck (Entwurf)
-
-Urkunde:         [UR-Nr., Notar, Datum oder Entwurfsdatum; Bezugsurkunden; Verbraucherfrist eingehalten?]
-Verkäufer:       [Firma, Rechtsform, Projektgesellschaft, Globalgrundschuld]
-Erwerber:        [Name, natürliche Person, Eigennutzung/Kapitalanlage, Finanzierungsdruck]
-Grundstück:      [Grundbuch, Gemarkung, Flurstück, Bauabschnitt]
-Einheit:         [Wohnungsnummer, Geschoss, Wohnfläche ca. X m² nach WoFlV/DIN 277, Stellplatz, MEA]
-Preis:           [Kaufpreis EUR X; Ratenplan nach Paragraf 3 MaBV; Schlussrate X %]
-Sicherheiten:    [Vormerkung eingetragen? Freistellung? Paragraf-650m-Sicherheit vorhanden?]
-Bausoll:         [Baubeschreibung Datum/Version, mitbeurkundet? Schallschutz, Energie]
-Technik:         [Baugrundgutachten vorhanden? Grundwasser, Altlasten, Tiefgarage]
-Organisation:    [Objektüberwachung LPH 8? Erstverwalter? Eigene Sachverständige erlaubt?]
-Streitstand:     [Entwurf / beurkundet / Bauphase / Rate fällig / Abnahme / Insolvenz]
-Fehlende Unterlagen: [Liste mit Prüfvorbehalt]
-```
-
----
-
-## Skill: `insolvenzrisiken-bautraeger`
-
-_Wenn es um Insolvenzrisiken Bauträger in Bauträgervertragspruefer geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt._
-
-# Insolvenzrisiken Bauträger
-
-## Wann dieser Skill greift
-
-Bei substanzschwachen Projektgesellschaften, großvolumigen Vorauszahlungen außerhalb der MaBV-Fälligkeit, erkennbaren Liquiditätsproblemen (Sonderwunsch-Druckmitteln, Schlüssel-Zurückhalten, vorzeitige Ratenanforderungen), Globalgrundschulden ohne klare Freistellung und in der Phase vor oder nach Insolvenzantragstellung.
-
-## Pflichtnormen
-
-- Paragraf 106 Insolvenzordnung: Auflassungsvormerkung schützt insolvenzfest; Insolvenzverwalter muss Übereignung vollziehen, wenn Gegenleistung erbracht und Vormerkung wirksam.
-- Paragraf 103 Insolvenzordnung: Insolvenzverwalter hat Wahlrecht bei gegenseitigen Verträgen, die bei Insolvenzantrag noch nicht vollständig erfüllt sind; Werkleistungsansprüche können darunter fallen.
-- Paragraf 3 Absatz 1 MaBV: Zahlungen nur bei erfüllten Fälligkeitsvoraussetzungen; Überzahlungen über den Baufortschritt hinaus sind bei Insolvenz gefährdet.
-- Paragraf 7 MaBV: Bürgschaft für alle Rückgewähransprüche muss auch im Insolvenzfall ziehbar sein.
-- Paragraf 650m Absatz 2 BGB: Fünf-Prozent-Sicherheit schützt gegen nicht vertragsgemäße Herstellung, nicht gegen alle Insolvenzrisiken.
-
-## Pruefraster
-
-1. **Projektgesellschaft**: Ist der Bauträger eine substanzschwache Zweckgesellschaft ohne Eigenkapital und Konzernbürgschaft? Wer haftet bei Insolvenz?
-2. **Globalfinanzierung und Freistellung**: Liegt eine vollständige Freistellungserklärung der finanzierenden Bank vor, die auch den Fall der Nichtvollendung absichert?
-3. **Eigentumsumschreibung**: Sind nach Zahlung aller fälligen Raten alle Voraussetzungen für die Eigentumsumschreibung erfüllt (Auflassung erklärt, Lasten freigestellt, Grundbuchantrag vorbereitet)?
-4. **Mehrfache Sicherheiten**: Vormerkung schützt Eigentumsanspruch; Paragraf-650m-Sicherheit schützt rechtzeitige mangelfreie Herstellung; Paragraf-7-Bürgschaft schützt Rückgewähransprüche — alle drei schützen unterschiedliche Risiken.
-5. **Vorinsolvenzzeichen**: Vorzeitige Ratenanforderung, Sonderwunsch als Druckmittel, Schlüsselzurückhalten, unrichtige Baugenehmigungsbestätigung, Freistellungslücken — Zahlungsstopp und Sicherheiten klären.
-6. **Insolvenzverwalter-Wahlrecht**: Entscheidet der Insolvenzverwalter gegen Erfüllung des Werkleistungsanspruchs, muss der Erwerber den Bau anderweitig fertigstellen; Mehrkosten und Paragraf-650m-Sicherheit einsetzen.
-7. **Parallelstrategie**: Gleichzeitig Eigentumsumschreibung fordern, Freistellung klären, Paragraf-7-Bürgschaft ziehen und Paragraf-650m-Sicherheit sichern.
-
-## Leitentscheidungen
-
-BGH, Beschluss vom 02.08.2023 - VII ZB 28/20 (amtliches PDF: https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/VII_ZS/2020/VII_ZB__28-20.pdf?__blob=publicationFile&v=1): Notaranderkonto ist kein einfacher Ersatz für MaBV-Schutz; bei Pfändung oder Abtretung kann der Auszahlungsanspruch gegen den Notar miterfasst sein.
-
-## Arbeitsprodukt
-
-Insolvenz-Sicherheiten-Übersicht mit Prüfstatus aller Schutzschichten und Handlungsempfehlung bei Insolvenzantrag oder Insolvenzzeichen.
-
-## Musterbaustein
-
-```text
-Insolvenz-Sicherheiten-Übersicht
-
-Auflassungsvormerkung:              [eingetragen / nicht eingetragen / Rang: ...]
-Freistellung auch bei Nichtvollendung: [vollständig / Lücken: ...]
-Paragraf-650m-Sicherheit 5 Prozent: [vorhanden / nicht vorhanden / EUR ...]
-Paragraf-7-MaBV-Bürgschaft:         [vorhanden / Sicherungszweck umfassend / begrenzt]
-Projektgesellschaft Bonität:        [Eigenkapital / Konzernrückhalt / substanzarm]
-Insolvenzzeichen erkennbar:         [ja: Beschreibung / nein]
-
-Sofortmaßnahmen bei Insolvenzantrag:
-1. Zahlungen bis zur Klärung sofort einstellen.
-2. Insolvenzverwalter zur Erklärung nach Paragraf 103 Insolvenzordnung auffordern.
-3. Freistellungserklärung der Bank prüfen und Eigentumsumschreibung vorbereiten.
-4. Paragraf-7-Bürgschaft ziehen.
-5. Paragraf-650m-Sicherheit in Anspruch nehmen.
-6. Mehrkosten der Fertigstellung dokumentieren.
-```
-
----
-
-## Skill: `paragraf-309-nr-12-bgb-tatsachenbestaetigung`
-
-_Wenn es um Paragraf 309 Nummer 12 BGB — Tatsachenbestätigung und Beweislast in Bauträgervertragspruefer geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten._
-
-# Paragraf 309 Nummer 12 BGB — Tatsachenbestätigung und Beweislast
-
-## Wann dieser Skill greift
-
-Sobald der Vertrag eine Klausel enthält, die den Erwerber etwas „bestätigen", „erkennen", „akzeptieren" oder „als erhalten quittieren" lässt — insbesondere Unterlagenerhalt, Kenntnis von Baubeschreibung oder Teilungserklärung, Prüfung der Unterlagen, Belehrung durch den Notar, Vollständigkeit der Ausstattung oder Mangelfreiheit bei Übergabe. Auch Klauseln, die die Beweislast für Mängel oder Verzug vor Abnahme auf den Erwerber verschieben.
-
-## Pflichtnormen
-
-- Paragraf 309 Nummer 12 Buchstabe a BGB: Klauselverbot ohne Wertungsmöglichkeit — Beweislastverschiebung für Umstände im Verantwortungsbereich des Verwenders ist unwirksam.
-- Paragraf 309 Nummer 12 Buchstabe b BGB: Klauselverbot ohne Wertungsmöglichkeit — pauschale Bestätigung von Tatsachen durch den anderen Vertragsteil (z. B. Empfang, Kenntnis, Prüfung) ist unwirksam; Ausnahme für gesondert abgegebene und gesondert unterzeichnete Erklärungen (Empfangsbekenntnis im eigentlichen Sinn).
-- Paragraf 306 BGB: unwirksame Klausel entfällt; gesetzliche Beweislast tritt ein.
-
-## Pruefraster
-
-1. **Buchstabe a — Beweislastverschiebung**: Werden Mängel, Verzug, Rücktrittsvoraussetzungen oder Sicherheitspflichten aus dem Bereich des Bauträgers dem Erwerber zur Darlegung oder Beweisführung aufgebürdet?
-2. **Buchstabe b — Pauschale Tatsachenbestätigung**: Bestätigt der Erwerber im Vertragstext pauschal, Unterlagen erhalten, geprüft, verstanden oder Risiken zur Kenntnis genommen zu haben?
-3. **Empfangsbekenntnis-Ausnahme**: Ist die Bestätigung gesondert abgegeben und gesondert unterschrieben? Nur dann ist sie nach Paragraf 309 Nummer 12 Buchstabe b BGB privilegiert.
-4. **Notarprotokoll**: Der Notar kann den Erhalt von Unterlagen protokollieren; das ersetzt aber keine tatsächliche rechtzeitige Übersendung und ist kein Freibrief für AGB-widrige Tatsachenbestätigungen.
-5. **Kombinations-Check**: Häufig kombiniert der Vertrag Buchstabe a und Buchstabe b — z. B. „Der Erwerber bestätigt, alle Unterlagen erhalten und geprüft zu haben und erklärt, keine Mängel festgestellt zu haben."
-6. **Konsequenz**: Unwirksame Klausel entfällt; die gesetzliche Beweislastverteilung tritt ein; insbesondere trägt der Bauträger vor Abnahme die Beweislast für mangelfreie Herstellung.
-
-## Leitentscheidungen
-
-Keine eigenständigen quellenhart verifizierten Einzelentscheidungen zu Paragraf 309 Nummer 12 BGB im Megaprompt separat ausgewiesen. Die Norm ist klares Klauselverbot ohne Wertungsmöglichkeit; ihre Anwendung auf Bautraegerverträge ist gesicherte Argumentationslinie.
-
-## Arbeitsprodukt
-
-Klauselbefund: Wortlaut der Tatsachenbestätigungs- oder Beweislastklausel, Einordnung nach Buchstabe a oder b, Ampel rot, Streichungsforderung und Hinweis auf die eintretende gesetzliche Beweislastverteilung.
-
-## Musterbaustein
-
-```text
-Tatsachenbestätigungs-/Beweislastklausel
-
-Vertragsklausel (Originalwortlaut): "[Der Erwerber bestätigt, sämtliche Bezugsurkunden erhalten und geprüft zu haben]"
-
-Einordnung:
-Die Klausel ist eine pauschale Tatsachenbestätigung nach Paragraf 309 Nummer 12 Buchstabe b BGB. Sie ist nicht gesondert unterschrieben und damit nicht als privilegiertes Empfangsbekenntnis ausgestaltet. Sie ist unwirksam.
-
-Gegenargument: "Der Notar protokolliert nur den tatsächlichen Ablauf."
-Antwort: Pauschale Bestätigungen ersetzen keine echte rechtzeitige Unterlagenübersendung und verschieben die Beweislast unzulässig auf den Erwerber.
-
-Streichungsforderung:
-Bitte streichen Sie die Klausel ersatzlos. Für einen echten Unterlagenempfang ist ein gesondertes, eigenhändig unterschriebenes Empfangsbekenntnis zu verwenden.
-```
-
----
-
-## Skill: `mandantengutachten-aufbau`
-
-_Wenn es um Mandantengutachten Aufbau in Bauträgervertragspruefer geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt._
-
-# Mandantengutachten Aufbau
-
-## Wann dieser Skill greift
-
-Bei jeder Vollanalyse, sobald das Gutachten als zweites Dokument des Drei-Dokumente-Pakets zu erstellen ist. Auch als eigenständiges Werkzeug, wenn nur ein Gutachten ohne Begleitschreiben gefragt ist.
-
-## Pflichtnormen
-
-- Sämtliche Normen aus den Fachskills: MaBV, BGB-Werkvertragsrecht, AGB-Recht, WEG-Recht, HOAI als Organisationsraster, Paragrafen 17 BeurkG und 14 BNotO.
-- Quellenregel: Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen, Kernaussage und zulässiger URL; nicht quellenhart Verifiziertes als Argumentationslinie oder als zu verifizieren kennzeichnen; keine BeckRS-/juris-/Kanzleiblog-Fundstellen.
-
-## Pruefraster
-
-1. **Sachverhalt und geprüfte Unterlagen**: Welche Dokumente lagen vor? Welche fehlen? Annahmen und Prüfvorbehalte ausweisen.
-2. **Quellenstand**: Welche Normen wurden auf gesetze-im-internet.de geprüft? Welche Rechtsprechungsanker wurden verifiziert?
-3. **Fall-Fingerabdruck**: Parteien, Einheit, Preis, Ratenplan, Sicherheiten, Bausoll, Technik, Streitstand.
-4. **Vertragsart und Verbraucherstatus**: Paragraf 650u BGB, Paragraf 13 BGB.
-5. **Pflicht-Prüfblock**: alle zwölf Pflichtpunkte mit Ampel.
-6. **MaBV und Zahlungsplan**: Fälligkeitsprüfung, Ratenplan, Paragraf-7-Bürgschaft, Paragraf-650m-Sicherheit.
-7. **AGB-Klauselmatrix**: Originalwortlaut, Decodierung, Rechtsanker, Gegenargument, Antwort, Änderung, Ampel.
-8. **Baubeschreibung und Bausoll**: Vollständigkeit, Datierung, Mitbeurkundung, Auslegungsregeln.
-9. **Abnahme, Schlussrate und Mängelrechte**: BGH-Anker einsetzen.
-10. **HOAI, Objektüberwachung und technische Projektrisiken**: Rollen, LPH-8-Logik, Baugrund, Technikmatrix.
-11. **Wirtschaft, Organisation und WEG**: Projektgesellschaft, Betriebskosten, Erstverwalter.
-12. **Eigentumsschutz und Insolvenz**: Vormerkung, Freistellung, Insolvenzszenarien.
-13. **Bauzeitverzug, Vertragsstrafe und Nutzungsausfall**: konkrete Schadenspositionen.
-14. **Notar-, Geschäftsführer-, Bauleiter- und Vertriebsrisiken**: nur mit Tatsachenunterbau.
-15. **Gesamteinschätzung**: beurkundungsfähig nach Korrektur / nach wesentlicher Überarbeitung / nicht beurkunden / bei bereits beurkundetem Vertrag AGB-Unwirksamkeit prüfen.
-
-## Leitentscheidungen
-
-Alle verifizierten BGH-Anker aus dem Megaprompt (VII ZR 68/24, VII ZR 108/24, VII ZR 88/25, VII ZR 241/22, V ZR 91/25, VII ZR 308/12, VII ZR 49/15, VII ZR 171/15, VII ZB 28/20) werden im jeweils einschlägigen Abschnitt eingesetzt.
-
-## Arbeitsprodukt
-
-Vollständiges Mandantengutachten nach dem 15-Abschnitte-Schema mit Ampeltabelle und konkreten Änderungsformulierungen.
-
-## Musterbaustein
-
-```text
-MANDANTENGUTACHTEN
-
-1 Sachverhalt und geprüfte Unterlagen
-Vorliegende Unterlagen: Vertragsentwurf UR-Nr. [X] vom [Datum], Baubeschreibung Version [X] vom [Datum], [weitere].
-Fehlende Unterlagen: [Freistellungserklärung / Baugrundgutachten / Teilungserklärung-Nachtrag / ...] — Prüfvorbehalt.
-
-2 Quellenstand
-Normen geprüft auf gesetze-im-internet.de: Paragrafen 3, 7, 12 MaBV; Paragrafen 305 bis 309, 633, 634, 640, 650k, 650m, 650u, 650v BGB; Paragrafen 9a, 18, 19, 44, 45 WEG.
-Rechtsprechungsanker verifiziert: [Auflistung mit URLs].
-
-3 Fall-Fingerabdruck
-[ausgefüllte Fingerabdruck-Tabelle]
-
-[Abschnitte 4 bis 15 nach Prüfraster]
-
-15 Gesamteinschätzung
-[beurkundungsfähig nach Korrektur folgender Punkte / ...]
-```
-
----
-
-## Skill: `paragraf-308-nr-4-bgb-leistungsaenderung`
-
-_Wenn es um Leistungsänderungsvorbehalte Paragraf 308 Nummer 4 BGB in Bauträgervertragspruefer geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten._
-
-# Leistungsänderungsvorbehalte Paragraf 308 Nummer 4 BGB
-
-## Wann dieser Skill greift
-
-Sobald der Vertrag oder die Baubeschreibung dem Bauträger das Recht einräumt, Bauleistungen, Ausstattungen, Grundrisse, technische Systeme, Außenanlagen oder die Teilungserklärung einseitig abzuändern — insbesondere bei Formulierungen wie „gleichwertige Änderungen aus technischen Gründen", „nach Ermessen des Verkäufers", „technisch notwendige Anpassungen" oder „beliebige Änderungen der Teilungserklärung".
-
-## Pflichtnormen
-
-- Paragraf 308 Nummer 4 BGB: Klauselverbot mit Wertungsmöglichkeit — Recht des Verwenders, die versprochene Leistung zu ändern oder von ihr abzuweichen, ist unwirksam, wenn nicht die Vereinbarung der Änderung oder Abweichung unter Berücksichtigung der Interessen des Verwenders für den anderen Vertragsteil zumutbar ist.
-- Paragraf 307 BGB: Generalklausel; unangemessene Benachteiligung und Intransparenz.
-- Paragraf 650k Absatz 2 BGB: Unklarheiten bei Bausoll gehen zulasten des Unternehmers.
-- BGH V ZR 91/25 (Teilungserklärung): AGB-Pflichten des Verbrauchers, späteren Änderungen der Teilungserklärung zuzustimmen, sind nach Paragraf 308 Nummer 4 BGB unwirksam, wenn keine im Einzelnen benannten triftigen Gründe erkennbar sind.
-
-## Pruefraster
-
-1. **Klauselweite**: Erlaubt der Vorbehalt Änderungen an Qualität, Fläche, Nutzung, Kosten oder Sondereigentum — nicht nur technische Detailanpassungen ohne Wertauswirkung?
-2. **Triftige Gründe**: Sind die Gründe für eine mögliche Änderung im Vertrag konkret und im Einzelnen benannt, oder nur pauschal als „technisch notwendig" oder „aus organisatorischen Gründen"?
-3. **Informationspflicht**: Muss der Bauträger den Erwerber über eine beabsichtigte Änderung rechtzeitig informieren?
-4. **Wertminderungsverbot**: Darf die Änderung zu einer Verschlechterung von Qualität, Fläche, Komfort, Nutzbarkeit, Kostenlast oder Sondereigentum führen?
-5. **Lösungsrecht des Erwerbers**: Gibt es bei wesentlichen Änderungen ein Lösungsrecht des Erwerbers ohne Nachteile beim Eigentumsschutz?
-6. **Teilungserklärung**: Änderungsvorbehalte zur Teilungserklärung besonders streng prüfen; BGH V ZR 91/25 als Anker einsetzen; Paragraf 242 BGB ersetzt unwirksame AGB-Zustimmungspflicht regelmäßig nicht.
-7. **Energie- und Förderbedingungen**: Änderungen des Energiestandards können Förderansprüche vernichten; konkrete Klasse im Vertrag sichern.
-
-## Leitentscheidungen
-
-BGH, Urteil vom 23.01.2026 - V ZR 91/25 (amtliches PDF: https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/V_ZS/2025/V_ZR__91-25.pdf?__blob=publicationFile&v=1): AGB-Pflichten des Verbrauchers, Änderungen der Teilungserklärung zuzustimmen, sind nach Paragraf 308 Nummer 4 BGB unwirksam, wenn die Klausel keine im Einzelnen benannten triftigen Gründe erkennen lässt. Aus Paragraf 242 BGB folgt dann regelmäßig keine Ersatz-Zustimmungspflicht.
-
-## Arbeitsprodukt
-
-Klauselbefund: Wortlaut des Änderungsvorbehalts, Bewertung nach Paragraf 308 Nummer 4 BGB, Ampel, Streichungsanweisung oder eng gefasste Neufassung mit konkreten Gründen.
-
-## Musterbaustein
-
-```text
-Leistungsänderungsvorbehalt
-
-Vertragsklausel (Originalwortlaut): "[...]"
-
-Befund: Der Vorbehalt erlaubt Änderungen an [Gewerk X / Teilungserklärung / Energiestandard], ohne triftige, konkret benannte Gründe zu nennen. Er ist nach Paragraf 308 Nummer 4 BGB unwirksam.
-
-Gegenargument: "Bauprojekte brauchen Flexibilität."
-Antwort: Flexibilität erfordert konkret benannte triftige Gründe; pauschale Änderungsrechte ohne Wertschutz und ohne Lösungsrecht sind nicht zumutbar.
-
-Gewünschte Fassung:
-"Der Bauträger ist berechtigt, technisch bedingte Änderungen an [Gewerk X] vorzunehmen, wenn [konkret benannte Gründe, z. B. behördliche Auflagen oder Lieferausfall eines bestimmten Materials] vorliegen, die Änderung Qualität, Fläche, Nutzbarkeit, Kostenlast und Sondereigentum des Erwerbers nicht verschlechtert und der Erwerber rechtzeitig in Textform informiert wird."
-```
-
----
-
-## Skill: `drei-dokumente-paket-erzeugen`
-
-_Wenn es um Drei-Dokumente-Paket erzeugen in Bauträgervertragspruefer geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen._
-
-# Drei-Dokumente-Paket erzeugen
-
-## Wann dieser Skill greift
-
-Am Ende jeder Vollanalyse und bei jedem Bautraegervertrags-Mandat, unabhängig vom Vollständigkeitsgrad der vorliegenden Unterlagen. Wenn Informationen fehlen, werden sie als Annahmen, Prüfvorbehalte und Nachforderungsliste ausgewiesen — der Skill bleibt nicht stehen.
-
-## Pflichtnormen
-
-- Sämtliche Normen, die in der Klauselanalyse als Rechtsanker dienen: MaBV, BGB-Werkvertragsrecht, AGB-Recht, WEG-Recht und HOAI als Organisationsraster.
-- Qualitätsgate: Was im Gutachten rot ist, muss im Schreiben an Bauträger und Notar stehen; was im Mandantenanschreiben als Hauptrisiko steht, muss im Gutachten belegt sein.
-
-## Pruefraster
-
-1. **Dokument 1 — Übersendungsschreiben**: Mandant versteht in fünf Minuten, ob er unterschreiben, zahlen, einbehalten, abnehmen oder streiten soll; einfache Sprache; klare Handlungsempfehlung; keine Normketten; Hinweis auf das beigefügte Gutachten.
-2. **Dokument 2 — Mandantengutachten**: belastbare rechtliche und technische Arbeitsfassung; alle Prüfblöcke: Fall-Fingerabdruck, MaBV, AGB, Bausoll, Abnahme, HOAI, Wirtschaft, Insolvenz, Verzug, Notar; jeder rote Befund mit Norm, Fundstelle oder Argumentationslinie.
-3. **Dokument 3 — Aufforderungsschreiben**: bestimmte, verhandlungsfähige Forderungen; für jede wesentliche Klausel: Originalproblem, kurze Begründung und konkrete richtige Fassung; keine pauschalen Nichtigkeitsdrohungen.
-4. **Konsistenzcheck**: Ampeln und Befunde müssen in allen drei Dokumenten übereinstimmen.
-5. **Gegenargumente vorwegnehmen**: Das Aufforderungsschreiben nennt für jeden Punkt das erwartbare Bauträger- oder Notarargument und beantwortet es.
-6. **Paragraf 306 BGB trennen von Paragraf 139 BGB**: im Gutachten explizit.
-7. **Kürzungsregel**: Wenn Antwortlänge knapp wird, werden Vorbemerkungen und Nebenthemen gekürzt; die drei Dokumente haben Vorrang.
-
-## Leitentscheidungen
-
-Dieses Skill setzt alle verifizierten Rechtsprechungsanker aus den Fachskills ein: BGH VII ZR 68/24, VII ZR 108/24, VII ZR 88/25, VII ZR 241/22, V ZR 91/25, VII ZR 308/12, VII ZR 49/15, VII ZR 171/15, VII ZB 28/20.
-
-## Arbeitsprodukt
-
-Drei fertige, voneinander getrennte Dokumente in einem Ausgabeblock. Reihenfolge: zuerst Kurzbild, dann Dokument 1, Dokument 2, Dokument 3, abschließend Quellen- und Unterlagenliste und offene Prüfvorbehalte.
-
-## Musterbaustein
-
-```text
-Ausgabe-Struktur Drei-Dokumente-Paket
-
---- KURZBILD ---
-Fall-Fingerabdruck: [Kurzform]
-Vertragsart: Bautraegervertrag nach Paragraf 650u BGB
-Verbraucherstatus: [Paragraf 13 BGB]
-Pflicht-Prüfblock: rot [X] / orange [Y] / grün [Z]
-MaBV-Fälligkeit: [Stand]
-Haupthebel: [3 wichtigste Risiken]
-Sofortmaßnahme: [konkreter Handlungsschritt]
-
---- DOKUMENT 1: ÜBERSENDUNGSSCHREIBEN AN DEN MANDANTEN ---
-[Kanzlei-Briefkopf]
-Betreff: Prüfung Bautraegervertrag [Projekt, Einheit, Datum]
-Sehr geehrte/r [Mandant/in],
-[Ergebnis in einem Absatz; Ampel-Bilanz; 3-7 Hauptrisiken; nächste Schritte mit Fristen; Hinweis auf Gutachten]
-
---- DOKUMENT 2: MANDANTENGUTACHTEN ---
-1 Sachverhalt und Unterlagen
-2 Quellenstand
-3 Fall-Fingerabdruck
-4 Vertragsart und Verbraucherstatus
-5 Pflicht-Prüfblock
-6 MaBV und Zahlungsplan
-7 AGB-Klauselmatrix
-8 Baubeschreibung und Bausoll
-9 Abnahme, Schlussrate, Mängelrechte
-10 HOAI, Objektüberwachung und Technik
-11 Wirtschaft, Organisation und WEG
-12 Eigentumsschutz und Insolvenz
-13 Bauzeitverzug, Vertragsstrafe und Nutzungsausfall
-14 Notar-, Geschäftsführer-, Bauleiter- und Vertriebsrisiken
-15 Gesamteinschätzung und Handlungsempfehlung
-
---- DOKUMENT 3: AUFFORDERUNGSSCHREIBEN AN BAUTRÄGER UND NOTAR ---
-Betreff: Bautraegervertrag [Projekt, Einheit, Datum] — erforderliche Anpassungen vor Beurkundung
-[Für jeden roten Befund: Original, Begründung, Gegenargument, Antwort, gewünschte Fassung]
-Frist: [Datum]
 ```
 
 ---

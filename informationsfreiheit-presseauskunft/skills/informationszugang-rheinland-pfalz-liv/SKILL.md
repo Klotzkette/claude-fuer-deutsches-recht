@@ -1,6 +1,6 @@
 ---
 name: informationszugang-rheinland-pfalz-liv
-description: "Wenn es um Informationszugang Rheinland Pfalz Liv in Informationsfreiheit und Presseauskunft geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
+description: "Für Informationszugang Rheinland Pfalz Liv: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Informationszugang Rheinland Pfalz Liv

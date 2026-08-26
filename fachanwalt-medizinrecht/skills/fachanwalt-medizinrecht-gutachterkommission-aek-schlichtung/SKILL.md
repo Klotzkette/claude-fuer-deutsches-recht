@@ -1,6 +1,6 @@
 ---
 name: fachanwalt-medizinrecht-gutachterkommission-aek-schlichtung
-description: "Wenn es um Arzthaftung — Gutachterkommissionen / Schlichtungsstellen in Fachanwalt Medizinrecht geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
+description: "Für Arzthaftung — Gutachterkommissionen / Schlichtungsstellen: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Arzthaftung — Gutachterkommissionen / Schlichtungsstellen

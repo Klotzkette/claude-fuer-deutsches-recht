@@ -1,6 +1,6 @@
 ---
 name: informationszugang-sachsen-anhalt-live
-description: "Wenn es um Informationszugang Sachsen Anhalt Live in Informationsfreiheit und Presseauskunft geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
+description: "Für Informationszugang Sachsen Anhalt Live: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Informationszugang Sachsen Anhalt Live

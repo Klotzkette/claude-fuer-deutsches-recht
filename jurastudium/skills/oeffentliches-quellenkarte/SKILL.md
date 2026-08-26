@@ -1,6 +1,6 @@
 ---
 name: oeffentliches-quellenkarte
-description: "Wenn es um Oeffentliches Quellenkarte in Jurastudium geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Öffentliches Quellenkarte: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt. Fachgebiet: Jurastudium."
 ---
 
 # Oeffentliches Quellenkarte

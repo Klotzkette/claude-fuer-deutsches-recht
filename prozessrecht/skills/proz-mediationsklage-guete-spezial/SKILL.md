@@ -1,6 +1,6 @@
 ---
 name: proz-mediationsklage-guete-spezial
-description: "Wenn es um Proz: Mediation Gueteverfahren in Prozessrecht geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
+description: "Für Proz: Mediation Güteverfahren: erstellt Entwurf mit Antrag, Beweis und Anlagen; Ergebnis: Schriftsatz mit Begründungs- und Anlagenlogik."
 ---
 
 # Proz: Mediation Gueteverfahren

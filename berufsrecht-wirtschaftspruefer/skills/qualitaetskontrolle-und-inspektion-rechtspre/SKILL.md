@@ -1,6 +1,6 @@
 ---
 name: qualitaetskontrolle-und-inspektion-rechtspre
-description: "Wenn es um Qualitaetskontrolle Und Inspektion Rechtspre in Berufsrecht Wirtschaftsprüfer geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Gegenprüfung mit Fehler-, Beweis- und Fristencheck."
+description: "Für Qualitätskontrolle und Inspektion Rechtspre: prüft Ergebnis, Beweislast und Gegenposition; Ergebnis: Gegenprüfung mit Beweis- und Fristencheck."
 ---
 
 # Wirtschaftsprüfer: qualitaetskontrolle und inspektion - Rechtsprechungscheck, stärkste Gegenansicht und Red-Team-Korrektur

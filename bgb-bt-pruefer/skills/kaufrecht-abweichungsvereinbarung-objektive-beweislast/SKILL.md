@@ -1,6 +1,6 @@
 ---
 name: kaufrecht-abweichungsvereinbarung-objektive-beweislast
-description: "Wenn es um Kaufrecht: Abweichungsvereinbarung objektive Anforderungen Paragraf 476 BGB in BGB BT Prüfer geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. Auswahlstichwort: Kaufrecht Abweichungsvereinbarung Objektive Beweislast; Arbeitsfeld: BGB BT Prüfer."
+description: "Für Kaufrecht: Abweichungsvereinbarung objektive Anforderungen Paragraf 476 BGB: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Beweislast- und Substantiierungsmatrix."
 ---
 
 # Kaufrecht: Abweichungsvereinbarung objektive Anforderungen § 476 BGB

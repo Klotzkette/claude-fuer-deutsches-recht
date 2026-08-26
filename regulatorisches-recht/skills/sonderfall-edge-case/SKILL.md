@@ -1,6 +1,6 @@
 ---
 name: sonderfall-edge-case
-description: "Wenn es um Kaltstart: Sonderfall und Edge-Case-Prüfung in Regulatorisches Recht – Plugin für deutsches geht: klärt Rolle, Ziel, Frist, Unterlagen und den passenden nächsten Fachskill; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Kaltstart: Sonderfall und Edge-Case-Prüfung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt. Fachgebiet: Regulatorisches Recht – Plugin für deutsches."
 ---
 
 # Kaltstart: Sonderfall und Edge-Case-Prüfung

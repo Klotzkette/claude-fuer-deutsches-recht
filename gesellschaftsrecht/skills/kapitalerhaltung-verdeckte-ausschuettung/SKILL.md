@@ -1,6 +1,6 @@
 ---
 name: kapitalerhaltung-verdeckte-ausschuettung
-description: "Wenn es um Kapitalerhaltung und verdeckte Ausschüttung in Gesellschaftsrecht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
+description: "Für Kapitalerhaltung und verdeckte Ausschüttung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 # Kapitalerhaltung und verdeckte Ausschüttung
 

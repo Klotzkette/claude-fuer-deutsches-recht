@@ -1,6 +1,6 @@
 ---
 name: barrierefreie-einladung-protokoll-versammlung
-description: "Wenn es um Barrierefreie Einladungen, Protokolle und Abrechnungen in WEG- und Hausverwaltung geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
+description: "Für Barrierefreie Einladungen, Protokolle und Abrechnungen: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Barrierefreie Einladungen, Protokolle und Abrechnungen

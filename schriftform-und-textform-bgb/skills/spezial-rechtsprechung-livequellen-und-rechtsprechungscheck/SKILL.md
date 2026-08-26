@@ -1,6 +1,6 @@
 ---
 name: spezial-rechtsprechung-livequellen-und-rechtsprechungscheck
-description: "Wenn es um Rechtsprechung: Livequellen- und Rechtsprechungscheck in Schriftform und Textform im BGB geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Rechtsprechung: Livequellen- und Rechtsprechungscheck: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Rechtsprechung: Livequellen- und Rechtsprechungscheck

@@ -1,6 +1,6 @@
 ---
 name: landeshaushalt-hessen-lesen
-description: "Wenn es um Landeshaushalt Hessen Lesen in Haushaltsrecht BHO Bund und Länder geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Landeshaushalt Hessen Lesen: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Landeshaushalt Hessen Lesen

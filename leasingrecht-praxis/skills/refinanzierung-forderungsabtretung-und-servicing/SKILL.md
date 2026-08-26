@@ -1,6 +1,6 @@
 ---
 name: refinanzierung-forderungsabtretung-und-servicing
-description: "Wenn es um Refinanzierung: Forderungsabtretung und Servicing in Leasingrecht Praxis geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
+description: "Für Refinanzierung: Forderungsabtretung und Servicing: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Refinanzierung: Forderungsabtretung und Servicing

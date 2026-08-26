@@ -1,6 +1,6 @@
 ---
 name: kronzeugen-regelung-opferzeugen-besondere
-description: "Wenn es um Strafrecht: Kronzeugen Paragraf 46b StGB in Aktenaufbereiter Strafrecht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen."
+description: "Für Strafrecht: Kronzeugen Paragraf 46b StGB: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Schnittstellenkarte mit Zuständigkeits- und Nachweisfragen."
 ---
 
 # Strafrecht: Kronzeugen § 46b StGB

@@ -1,6 +1,6 @@
 ---
 name: viraler-clip-waehlerdaten-listen
-description: "Wenn es um Viraler Clip Notfall in Wahlkampfrecht Praxis geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Viraler Clip Notfall: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Viraler Clip Notfall

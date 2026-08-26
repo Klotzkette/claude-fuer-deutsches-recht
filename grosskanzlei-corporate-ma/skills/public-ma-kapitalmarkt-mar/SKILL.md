@@ -1,6 +1,6 @@
 ---
 name: public-ma-kapitalmarkt-mar
-description: "Wenn es um Public M&A Kapitalmarkt Mar in Großkanzlei Corporate/M&A geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Public M&A Kapitalmarkt Mar: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Public M&A und Kapitalmarkt-Compliance bei boersennotierten Transaktionen: Anwendungsfall Anwalt begleitet Übernahmeangebot, Pflichtangebot oder Squeeze-Out Paragraf 327a AktG bei boersennotierter Zielgesellschaft

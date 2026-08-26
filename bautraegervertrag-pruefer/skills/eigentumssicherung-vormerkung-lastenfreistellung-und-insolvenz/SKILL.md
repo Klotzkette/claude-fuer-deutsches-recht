@@ -1,6 +1,6 @@
 ---
 name: eigentumssicherung-vormerkung-lastenfreistellung-und-insolvenz
-description: "Wenn es um Eigentumssicherung, Vormerkung, Lastenfreistellung und Insolvenz in Bauträgervertrag-Prüfer geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
+description: "Für Eigentumssicherung, Vormerkung, Lastenfreistellung und Insolvenz: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Eigentumssicherung, Vormerkung, Lastenfreistellung und Insolvenz

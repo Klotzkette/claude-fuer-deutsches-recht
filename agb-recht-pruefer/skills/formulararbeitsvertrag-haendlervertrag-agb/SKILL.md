@@ -1,6 +1,6 @@
 ---
 name: formulararbeitsvertrag-haendlervertrag-agb
-description: "Wenn es um Formulararbeitsvertrag in AGB-Recht-Prüfer geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert einen Einreichungsplan mit Form-, Portal- und Nachweischeck. Auswahlstichwort: Formulararbeitsvertrag Haendlervertrag Agb; Arbeitsfeld: AGB-Recht-Prüfer."
+description: "Für Formulararbeitsvertrag: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Einreichungsplan mit Form- und Nachweischeck. Fachgebiet: AGB-Recht-Prüfer. Route: formulararbeitsvertrag-haendlervertrag-agb."
 ---
 
 # Formulararbeitsvertrag

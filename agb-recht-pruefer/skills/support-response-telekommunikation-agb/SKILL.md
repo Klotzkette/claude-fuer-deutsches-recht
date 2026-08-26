@@ -1,6 +1,6 @@
 ---
 name: support-response-telekommunikation-agb
-description: "Wenn es um Support Response Times in AGB-Recht-Prüfer geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Fristen- und Risikoampel mit Sofortschritten. Auswahlstichwort: Support Response Telekommunikation Agb; Arbeitsfeld: AGB-Recht-Prüfer."
+description: "Für Support Response Times: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt. Fachgebiet: AGB-Recht-Prüfer. Route: support-response-telekommunikation-agb."
 ---
 
 # Support Response Times

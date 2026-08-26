@@ -1,6 +1,6 @@
 ---
 name: v392-praxisraster-richter-landgericht-strafkammer
-description: "Wenn es um Praxisraster Landgericht Strafkammer in Strafkammer am Landgericht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Beweislast- und Substantiierungsmatrix."
+description: "Für Praxisraster Landgericht Strafkammer: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Praxisraster Landgericht Strafkammer

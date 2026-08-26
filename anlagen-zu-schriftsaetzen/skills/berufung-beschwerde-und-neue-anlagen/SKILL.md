@@ -1,6 +1,6 @@
 ---
 name: berufung-beschwerde-und-neue-anlagen
-description: "Wenn es um Berufung, Beschwerde und neue Anlagen in Anlagen zu Schriftsätzen geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen."
+description: "Für Berufung, Beschwerde und neue Anlagen: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Schnittstellenkarte mit Zuständigkeits- und Nachweisfragen."
 ---
 
 # Berufung, Beschwerde und neue Anlagen

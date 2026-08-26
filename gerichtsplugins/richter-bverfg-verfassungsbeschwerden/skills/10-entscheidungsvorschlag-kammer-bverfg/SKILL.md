@@ -1,6 +1,6 @@
 ---
 name: 10-entscheidungsvorschlag-kammer-bverfg
-description: "Wenn es um 10 Entscheidungsvorschlag Kammer BVerfG in BVerfG Vorprüfung Verfassungsbeschwerden geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für 10 Entscheidungsvorschlag Kammer BVerfG: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # 10 Entscheidungsvorschlag Kammer BVerfG

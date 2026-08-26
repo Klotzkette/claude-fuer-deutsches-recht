@@ -1,6 +1,6 @@
 ---
 name: patent-and-utility-model-china
-description: "Wenn es um Patente und Gebrauchsmuster China: CNIPA-Strategie und Schutz in China-Wirtschaftsverkehr geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
+description: "Für Patente und Gebrauchsmuster China: CNIPA-Strategie und Schutz: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Patente und Gebrauchsmuster China: CNIPA-Strategie und Schutz

@@ -1,6 +1,6 @@
 ---
 name: call-interessen-faelle-freistehender
-description: "Wenn es um Call: Mehrparteienkonflikt und Interessenmatrix in Phishing-Vorfall-Prüfer geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Call: Mehrparteienkonflikt und Interessenmatrix: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Call: Mehrparteienkonflikt und Interessenmatrix

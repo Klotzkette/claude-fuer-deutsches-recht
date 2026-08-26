@@ -1,6 +1,6 @@
 ---
 name: kommandocenter
-description: "Wenn es um Zwangsverwaltungs-Kommandocenter in ZVG-Zwangsverwaltung - Verwalter-Cockpit geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Zwangsverwaltungs-Kommandocenter: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Zwangsverwaltungs-Kommandocenter

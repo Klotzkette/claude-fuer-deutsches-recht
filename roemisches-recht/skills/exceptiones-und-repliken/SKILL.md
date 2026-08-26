@@ -1,6 +1,6 @@
 ---
 name: exceptiones-und-repliken
-description: "Wenn es um Exceptiones Und Repliken in Römisches Recht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Exceptiones und Repliken: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Exceptiones Und Repliken

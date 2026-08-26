@@ -1,6 +1,6 @@
 ---
 name: buyout-ma-country-by-cta-contractual
-description: "Wenn es um Pension Buyout im M&A-Deal — Asset vs. Share Deal in BAV Strategie Konzern — Treuenfels Yamamoto Rechtsanwälte geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
+description: "Für Pension Buyout im M&A-Deal — Asset vs. Share Deal: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Pension Buyout im M&A-Deal — Asset vs. Share Deal

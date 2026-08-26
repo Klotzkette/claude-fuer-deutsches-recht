@@ -1,6 +1,6 @@
 ---
 name: starug-beweislast-stundung-red-zwoelf
-description: "Wenn es um StaRUG: Beweislast, Darlegungslast und Substantiierung in Fortbestehensprognose geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für StaRUG: Beweislast, Darlegungslast und Substantiierung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Beweislast- und Substantiierungsmatrix."
 ---
 
 # StaRUG: Beweislast, Darlegungslast und Substantiierung

@@ -1,6 +1,6 @@
 ---
 name: faelligkeitsfactoring-maturity-fraud
-description: "Wenn es um Fälligkeitsfactoring Maturity Factoring und Mahnservice in Factoring-Recht geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
+description: "Für Fälligkeitsfactoring Maturity Factoring und Mahnservice: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Fälligkeitsfactoring Maturity Factoring und Mahnservice

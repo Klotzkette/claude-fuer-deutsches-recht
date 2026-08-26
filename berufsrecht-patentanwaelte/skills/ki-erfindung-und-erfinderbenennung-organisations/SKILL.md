@@ -1,6 +1,6 @@
 ---
 name: ki-erfindung-und-erfinderbenennung-organisations
-description: "Wenn es um Ki Erfindung Und Erfinderbenennung Organisations in Berufsrecht Patentanwälte geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Ki Erfindung und Erfinderbenennung Organisations: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Patentanwälte: ki erfindung und erfinderbenennung - Organisationspflichten, Prävention, Team-Anweisung und Fristenkontrolle

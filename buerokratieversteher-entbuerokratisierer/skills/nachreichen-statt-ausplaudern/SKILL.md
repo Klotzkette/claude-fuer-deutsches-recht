@@ -1,6 +1,6 @@
 ---
 name: nachreichen-statt-ausplaudern
-description: "Wenn es um Nachreichen statt Ausplaudern in Bürokratieversteher und Entbürokratisierer geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
+description: "Für Nachreichen statt Ausplaudern: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Nachreichen statt Ausplaudern

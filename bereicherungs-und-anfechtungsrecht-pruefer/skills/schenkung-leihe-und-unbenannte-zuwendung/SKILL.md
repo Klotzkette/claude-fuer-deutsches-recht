@@ -1,6 +1,6 @@
 ---
 name: schenkung-leihe-und-unbenannte-zuwendung
-description: "Wenn es um Schenkung, Leihe und unbenannte Zuwendung in bereicherungs-und-anfechtungsrecht-prüfer geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Schenkung, Leihe und unbenannte Zuwendung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Schenkung, Leihe und unbenannte Zuwendung

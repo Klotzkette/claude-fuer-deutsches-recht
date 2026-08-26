@@ -1,6 +1,6 @@
 ---
 name: vertretungsberechtigte-personen-visitenkarte
-description: "Wenn es um Vertretungsberechtigte Personen in Lobbyregister Bundestag geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert einen Einreichungsplan mit Form-, Portal- und Nachweischeck."
+description: "Für Vertretungsberechtigte Personen: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Vertretungsberechtigte Personen

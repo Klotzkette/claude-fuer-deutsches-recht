@@ -1,6 +1,6 @@
 ---
 name: belegarzt-und-konsiliararzt-abrechnung
-description: "Wenn es um Belegarzt und Konsiliararzt Abrechnung in GOÄ Gebührenordnung für Ärzte geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Berechnungstabelle mit Schwellen, Annahmen und Kontrollfragen."
+description: "Für Belegarzt und Konsiliararzt Abrechnung: ordnet Akte, Belege und Lücken; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Belegarzt und Konsiliararzt Abrechnung

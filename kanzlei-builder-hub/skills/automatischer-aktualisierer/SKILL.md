@@ -1,6 +1,6 @@
 ---
 name: automatischer-aktualisierer
-description: "Wenn es um /automatischer-aktualisierer — Automatische Aktualisierung mit Diff-Review in Kanzlei-Builder-Hub geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für /automatischer-aktualisierer — Automatische Aktualisierung mit Diff-Review: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # /automatischer-aktualisierer — Automatische Aktualisierung mit Diff-Review

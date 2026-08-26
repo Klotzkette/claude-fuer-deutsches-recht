@@ -1,6 +1,6 @@
 ---
 name: zuverlaessigkeitsueberpruefung
-description: "Wenn es um Zuverlässigkeitsüberprüfung LuftSiG Paragraf 7 – Versagung, Widerruf und Rechtsschutz in Luftrecht und Flughafenrecht geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
+description: "Für Zuverlässigkeitsüberprüfung LuftSiG Paragraf 7 – Versagung, Widerruf und Rechtsschutz: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Tatbestands- oder Anspruchsmatrix."
 ---
 
 # Zuverlässigkeitsüberprüfung LuftSiG § 7 – Versagung, Widerruf und Rechtsschutz

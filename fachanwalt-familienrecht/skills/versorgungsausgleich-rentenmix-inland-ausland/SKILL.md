@@ -1,6 +1,6 @@
 ---
 name: versorgungsausgleich-rentenmix-inland-ausland
-description: "Wenn es um Versorgungsausgleich Rentenmix Inland Ausland in Fachanwalt Familienrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Versorgungsausgleich Rentenmix Inland Ausland: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Schnittstellenkarte mit Zuständigkeits- und Nachweisfragen."
 ---
 
 # Versorgungsausgleich bei gesetzlicher Rente, Beamtenversorgung, Versorgungswerk, Ausland und privaten Anrechten.

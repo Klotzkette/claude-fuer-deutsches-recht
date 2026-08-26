@@ -1,6 +1,6 @@
 ---
 name: strafrecht-spezial-aussagepsychologie-bgh-grundsaetze
-description: "Wenn es um Strafrecht Spezial Aussagepsychologie Bgh Grundsaetze in Fachanwalt Strafrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Strafrecht Spezial Aussagepsychologie BGH Grundsätze: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # BGH-Grundsaetze zur aussagepsychologischen Begutachtung: Hypothesen-gegen-Hypothesen-Methode, Null-Hypothese, Unschuldsvermutung

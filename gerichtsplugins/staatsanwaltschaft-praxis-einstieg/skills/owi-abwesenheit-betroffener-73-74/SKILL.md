@@ -1,6 +1,6 @@
 ---
 name: owi-abwesenheit-betroffener-73-74
-description: "Wenn es um Owi Abwesenheit Betroffener 73 74 in Staatsanwaltschaft Praxis-Einstieg geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
+description: "Für Owi Abwesenheit Betroffener 73 74: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Abwesenheit des Betroffenen: Entbindung, Verwerfung des Einspruchs und faire Sitzungsreaktion

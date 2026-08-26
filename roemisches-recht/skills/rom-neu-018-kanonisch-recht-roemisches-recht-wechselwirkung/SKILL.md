@@ -1,6 +1,6 @@
 ---
 name: rom-neu-018-kanonisch-recht-roemisches-recht-wechselwirkung
-description: "Wenn es um Römisches Recht: Kanonisches Recht und römisches Recht Wechselwirkung in Römisches Recht geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Römisches Recht: Kanonisches Recht und römisches Recht Wechselwirkung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Schnittstellenkarte mit Zuständigkeits- und Nachweisfragen."
 ---
 
 # Römisches Recht: Kanonisches Recht und römisches Recht Wechselwirkung

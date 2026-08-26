@@ -1,6 +1,6 @@
 ---
 name: beirat-katalog-wesentlicher-kontrollfunktion
-description: "Wenn es um Beirat: Katalog Wesentlicher Geschäfte Und Kontrollfunktion in Mittelstands-Corporate/M&A geht: rechnet Schwellen, Beträge, Varianten und Kontrollannahmen durch; liefert eine Berechnungstabelle mit Schwellen, Annahmen und Kontrollfragen."
+description: "Für Beirat: Katalog Wesentlicher Geschäfte und Kontrollfunktion: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Beirat: Katalog Wesentlicher Geschäfte Und Kontrollfunktion

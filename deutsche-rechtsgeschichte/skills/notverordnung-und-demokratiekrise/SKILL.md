@@ -1,6 +1,6 @@
 ---
 name: notverordnung-und-demokratiekrise
-description: "Wenn es um Notverordnung und Demokratiekrise (1930-1933) in Deutsche Rechtsgeschichte geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Notverordnung und Demokratiekrise (1930-1933): ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Notverordnung und Demokratiekrise (1930-1933)

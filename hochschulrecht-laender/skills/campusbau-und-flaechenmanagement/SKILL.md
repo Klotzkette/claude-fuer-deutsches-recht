@@ -1,6 +1,6 @@
 ---
 name: campusbau-und-flaechenmanagement
-description: "Wenn es um Campusbau und Flächenmanagement in Hochschulrecht der Bundesländer geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Campusbau und Flächenmanagement: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Campusbau und Flächenmanagement

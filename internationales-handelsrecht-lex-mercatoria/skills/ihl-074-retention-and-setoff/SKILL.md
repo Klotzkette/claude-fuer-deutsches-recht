@@ -1,6 +1,6 @@
 ---
 name: ihl-074-retention-and-setoff
-description: "Wenn es um Retention And Setoff in Internationales Handelsrecht und Lex Mercatoria geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Retention And Setoff: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Retention And Setoff

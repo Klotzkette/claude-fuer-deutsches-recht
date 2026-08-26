@@ -1,6 +1,6 @@
 ---
 name: spuerbarkeit-zwischenstaatlichkeit-ssnip-test
-description: "Wenn es um Spürbarkeit und Zwischenstaatlichkeit in Kartellrecht — Marktabgrenzungsprüfung geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen."
+description: "Für Spürbarkeit und Zwischenstaatlichkeit: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Spürbarkeit und Zwischenstaatlichkeit

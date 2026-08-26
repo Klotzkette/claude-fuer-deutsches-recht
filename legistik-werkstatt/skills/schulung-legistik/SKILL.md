@@ -1,6 +1,6 @@
 ---
 name: schulung-legistik
-description: "Wenn es um Trainerleitfaden Schulung Legistik in Legistik-Werkstatt geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. Auswahlstichwort: Schulung Legistik; Arbeitsfeld: Legistik-Werkstatt."
+description: "Für Trainerleitfaden Schulung Legistik: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt. Fachgebiet: Legistik-Werkstatt. Route: schulung-legistik."
 ---
 
 # Trainerleitfaden Schulung Legistik

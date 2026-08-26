@@ -1,6 +1,6 @@
 ---
 name: rechtsabteilung-influencer-brand-use-und-erschoepfung
-description: "Wenn es um Rechtsabteilung: Influencer-Brand-Use und Erschöpfung in markenrecht-fashion-luxus geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
+description: "Für Rechtsabteilung: Influencer-Brand-Use und Erschöpfung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Rechtsabteilung: Influencer-Brand-Use und Erschöpfung

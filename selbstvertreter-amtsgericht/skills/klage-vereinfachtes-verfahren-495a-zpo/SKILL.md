@@ -1,6 +1,6 @@
 ---
 name: klage-vereinfachtes-verfahren-495a-zpo
-description: "Wenn es um Vereinfachtes Verfahren bis 1.000 EUR (Paragraf 495a ZPO) in selbstvertreter-amtsgericht geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
+description: "Für Vereinfachtes Verfahren bis 1.000 EUR (Paragraf 495a ZPO): erstellt Entwurf mit Antrag, Beweis und Anlagen; Ergebnis: Schriftsatz mit Begründungs- und Anlagenlogik."
 ---
 
 # Vereinfachtes Verfahren bis 1.000 EUR (§ 495a ZPO)

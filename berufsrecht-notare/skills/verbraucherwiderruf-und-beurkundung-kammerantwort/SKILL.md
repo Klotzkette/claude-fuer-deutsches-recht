@@ -1,6 +1,6 @@
 ---
 name: verbraucherwiderruf-und-beurkundung-kammerantwort
-description: "Wenn es um Verbraucherwiderruf Und Beurkundung Kammerantwort in Berufsrecht Notare geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Verhandlungs- oder Eskalationslinie mit Optionen."
+description: "Für Verbraucherwiderruf und Beurkundung Kammerantwort: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Schnittstellenkarte mit Zuständigkeits- und Nachweisfragen."
 ---
 
 # Notare: verbraucherwiderruf und beurkundung - Kammerantwort mit Verfahrensstrategie, Tonlage und Belegplan

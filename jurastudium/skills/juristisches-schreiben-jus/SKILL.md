@@ -1,6 +1,6 @@
 ---
 name: juristisches-schreiben-jus
-description: "Wenn es um Lernprofil anpassen in Jurastudium geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Lernprofil anpassen: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Lernprofil anpassen

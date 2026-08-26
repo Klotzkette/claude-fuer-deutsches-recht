@@ -1,6 +1,6 @@
 ---
 name: genossenschaft-und-vereinsrecht
-description: "Wenn es um Genossenschaft und Vereinsrecht in Deutsche Rechtsgeschichte geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Genossenschaft und Vereinsrecht: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Genossenschaft und Vereinsrecht

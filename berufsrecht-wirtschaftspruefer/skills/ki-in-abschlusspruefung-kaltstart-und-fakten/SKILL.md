@@ -1,6 +1,6 @@
 ---
 name: ki-in-abschlusspruefung-kaltstart-und-fakten
-description: "Wenn es um Ki In Abschlusspruefung Kaltstart Und Fakten in Berufsrecht Wirtschaftsprüfer geht: klärt Rolle, Ziel, Frist, Unterlagen und den passenden nächsten Fachskill; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Ki in Abschlussprüfung Kaltstart und Fakten: routet Rolle, Frist, Unterlagen und Fachschritt; Ergebnis: Tatbestands- oder Anspruchsmatrix."
 ---
 
 # Wirtschaftsprüfer: ki in abschlusspruefung - Kaltstart mit Faktenmatrix, Risikoampel und fehlenden Unterlagen

@@ -1,6 +1,6 @@
 ---
 name: immissionen-laerm-landesnachbarrecht
-description: "Wenn es um Immissionen: Lärm, Geruch, Rauch, Licht in Nachbarschaftsstreit-Prüfer geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Beweislast- und Substantiierungsmatrix."
+description: "Für Immissionen: Lärm, Geruch, Rauch, Licht: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Immissionen: Lärm, Geruch, Rauch, Licht

@@ -1,6 +1,6 @@
 ---
 name: strafrecht-spezial-188-stgb-easy-verteidigung
-description: "Wenn es um Strafrecht Spezial 188 Stgb Easy Verteidigung in Fachanwalt Strafrecht geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
+description: "Für Strafrecht Spezial 188 Stgb Easy Verteidigung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Easy-Verteidigung gegen § 188 StGB: schneller Verteidigungsbei Anzeige, Strafbefehl oder Anklage wegen Beleidigung, übler Nachrede oder Verleumdung gegen Personen des politischen Lebens

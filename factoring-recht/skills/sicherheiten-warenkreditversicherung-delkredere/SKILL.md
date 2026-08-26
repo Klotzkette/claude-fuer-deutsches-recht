@@ -1,6 +1,6 @@
 ---
 name: sicherheiten-warenkreditversicherung-delkredere
-description: "Wenn es um Sicherheiten Warenkreditversicherung Delkredere in Factoring-Recht geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
+description: "Für Sicherheiten Warenkreditversicherung Delkredere: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Sicherheiten Warenkreditversicherung Delkredere

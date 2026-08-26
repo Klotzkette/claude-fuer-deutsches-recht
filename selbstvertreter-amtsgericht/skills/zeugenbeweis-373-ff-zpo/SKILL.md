@@ -1,6 +1,6 @@
 ---
 name: zeugenbeweis-373-ff-zpo
-description: "Wenn es um Zeugenbeweis: Wer kann was bezeugen? in selbstvertreter-amtsgericht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Beweislast- und Substantiierungsmatrix."
+description: "Für Zeugenbeweis: Wer kann was bezeugen?: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Beweislast- und Substantiierungsmatrix."
 ---
 
 # Zeugenbeweis: Wer kann was bezeugen?

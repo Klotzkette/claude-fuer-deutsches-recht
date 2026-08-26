@@ -1,6 +1,6 @@
 ---
 name: schufa-scoring-dsgvo-verbandsfall
-description: "Wenn es um VDG 105 SCHUFA Scoring DSGVO Verbandsfall in Verbraucherschutzverband Durchsetzung geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen."
+description: "Für VDG 105 SCHUFA Scoring DSGVO Verbandsfall: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # VDG 105 SCHUFA Scoring DSGVO Verbandsfall

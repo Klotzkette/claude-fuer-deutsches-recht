@@ -1,6 +1,6 @@
 ---
 name: kuendigung-per-mandantenkorrespondenz-zugang
-description: "Wenn es um Kündigung per Schriftsatz — Zustellung und Formfragen in Schriftform und Textform im BGB geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
+description: "Für Kündigung per Schriftsatz — Zustellung und Formfragen: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Kündigung per Schriftsatz — Zustellung und Formfragen

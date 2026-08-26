@@ -1,6 +1,6 @@
 ---
 name: stakeholder-warnpflicht-zahlungsunfaehigkeit
-description: "Wenn es um Stakeholder: Abschlussprodukt und Übergabe in Krisenfrüherkennung und StaRUG-Management geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Stakeholder: Abschlussprodukt und Übergabe: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Stakeholder: Abschlussprodukt und Übergabe

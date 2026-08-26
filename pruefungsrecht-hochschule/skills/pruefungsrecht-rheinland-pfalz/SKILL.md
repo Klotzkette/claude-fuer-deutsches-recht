@@ -1,6 +1,6 @@
 ---
 name: pruefungsrecht-rheinland-pfalz
-description: "Wenn es um Prüfungsrecht Rheinland Pfalz in Prüfungsrecht an Hochschulen und Universitäten geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Prüfungsrecht Rheinland Pfalz: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Tatbestands- oder Anspruchsmatrix."
 ---
 
 # Prüfungsrecht Rheinland Pfalz

@@ -1,6 +1,6 @@
 ---
 name: energie-regulierungsakte-redispatch-2-0-unterlagenanforderung
-description: "Wenn es um Energie-Regulierungsakte: Redispatch 2.0 — Unterlagenanforderung in Bundesnetzagentur-Verfahren geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Dokumentenmatrix mit Nachforderungsliste."
+description: "Für Energie-Regulierungsakte: Redispatch 2.0 — Unterlagenanforderung: ordnet Akte, Belege und Lücken; Ergebnis: Dokumentenmatrix mit Nachforderungsliste."
 ---
 
 # Energie-Regulierungsakte: Redispatch 2.0 — Unterlagenanforderung

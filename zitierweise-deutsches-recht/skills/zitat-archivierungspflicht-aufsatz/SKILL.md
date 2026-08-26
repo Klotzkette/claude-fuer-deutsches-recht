@@ -1,6 +1,6 @@
 ---
 name: zitat-archivierungspflicht-aufsatz
-description: "Wenn es um Zitierte Quelle archivieren in Zitierweise deutsches Recht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. Auswahlstichwort: Zitat Archivierungspflicht Aufsatz; Arbeitsfeld: Zitierweise deutsches Recht."
+description: "Für Zitierte Quelle archivieren: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt. Fachgebiet: Zitierweise deutsches Recht. Route: zitat-archivierungspflicht-aufsatz."
 ---
 
 # Zitierte Quelle archivieren

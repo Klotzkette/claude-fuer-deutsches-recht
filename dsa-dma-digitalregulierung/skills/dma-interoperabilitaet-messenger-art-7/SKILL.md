@@ -1,6 +1,6 @@
 ---
 name: dma-interoperabilitaet-messenger-art-7
-description: "Wenn es um DMA: Messenger-Interoperabilitaet in DSA, DMA und Digitalregulierung der EU geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
+description: "Für DMA: Messenger-Interoperabilität: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # DMA: Messenger-Interoperabilitaet

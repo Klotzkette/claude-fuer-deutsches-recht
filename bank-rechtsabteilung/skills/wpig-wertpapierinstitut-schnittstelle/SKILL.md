@@ -1,6 +1,6 @@
 ---
 name: wpig-wertpapierinstitut-schnittstelle
-description: "Wenn es um WpIG-Schnittstelle in Bank-Rechtsabteilung geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen."
+description: "Für WpIG-Schnittstelle: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # WpIG-Schnittstelle

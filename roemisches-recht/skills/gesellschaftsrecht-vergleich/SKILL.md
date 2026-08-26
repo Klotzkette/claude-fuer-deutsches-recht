@@ -1,6 +1,6 @@
 ---
 name: gesellschaftsrecht-vergleich
-description: "Wenn es um Gesellschaftsrecht Vergleich in Römisches Recht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Gesellschaftsrecht Vergleich: entwickelt Ziel, Vergleich und Eskalation; Ergebnis: Verhandlungs- oder Eskalationslinie."
 ---
 
 # Gesellschaftsrecht Vergleich

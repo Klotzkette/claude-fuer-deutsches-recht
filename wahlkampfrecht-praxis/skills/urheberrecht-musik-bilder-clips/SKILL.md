@@ -1,6 +1,6 @@
 ---
 name: urheberrecht-musik-bilder-clips
-description: "Wenn es um Urheberrecht Musik Bilder Clips in Wahlkampfrecht Praxis geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Urheberrecht Musik Bilder Clips: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Urheberrecht Musik Bilder Clips

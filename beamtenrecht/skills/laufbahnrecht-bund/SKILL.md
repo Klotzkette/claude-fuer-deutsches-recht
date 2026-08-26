@@ -1,6 +1,6 @@
 ---
 name: laufbahnrecht-bund
-description: "Wenn es um Laufbahnrecht Bund in Beamtenrecht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
+description: "Für Laufbahnrecht Bund: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Laufbahnrecht Bund

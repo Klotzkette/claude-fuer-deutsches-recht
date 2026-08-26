@@ -1,6 +1,6 @@
 ---
 name: insolvenzlage-red-team-und-qualitaetskontrolle
-description: "Wenn es um Insolvenzlage: Red-Team und Qualitätskontrolle in Forschungszulage-Antragstellung geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Insolvenzlage: Red-Team und Qualitätskontrolle: prüft Ergebnis, Beweislast und Gegenposition; Ergebnis: Gegenprüfung mit Beweis- und Fristencheck."
 ---
 
 # Insolvenzlage: Red-Team und Qualitätskontrolle

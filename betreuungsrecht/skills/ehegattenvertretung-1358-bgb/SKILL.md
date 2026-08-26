@@ -1,6 +1,6 @@
 ---
 name: ehegattenvertretung-1358-bgb
-description: "Wenn es um Paragraf 1358 BGB Ehegattenvertretung in Betreuungsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. Auswahlstichwort: Ehegattenvertretung 1358 BGB; Arbeitsfeld: Betreuungsrecht."
+description: "Für Paragraf 1358 BGB Ehegattenvertretung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt. Fachgebiet: Betreuungsrecht. Route: ehegattenvertretung-1358-bgb."
 ---
 
 # § 1358 BGB Ehegattenvertretung

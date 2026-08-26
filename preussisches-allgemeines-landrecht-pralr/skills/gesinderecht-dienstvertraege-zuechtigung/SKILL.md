@@ -1,6 +1,6 @@
 ---
 name: gesinderecht-dienstvertraege-zuechtigung
-description: "Wenn es um Pralr Gesinderecht Dienstvertraege Zuechtigung in Preußisches Allgemeines Landrecht geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
+description: "Für Pralr Gesinderecht Dienstverträge Züchtigung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt. Fachgebiet: Preußisches Allgemeines Landrecht. Route: gesinderecht-dienstvertraege-zuechtigung."
 ---
 
 # Pralr Gesinderecht Dienstvertraege Zuechtigung

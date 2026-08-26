@@ -1,6 +1,6 @@
 ---
 name: leistungsbeurteilung-analyse
-description: "Wenn es um Leistungsbeurteilung-Analyse in Arbeitszeugnis-Analyse geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Leistungsbeurteilung-Analyse: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Schnittstellenkarte mit Zuständigkeits- und Nachweisfragen."
 ---
 
 # Leistungsbeurteilung-Analyse

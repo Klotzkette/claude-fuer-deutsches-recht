@@ -1,6 +1,6 @@
 ---
 name: rueckfragebrief-an-anbieter
-description: "Wenn es um Rückfragebrief an Anbieter in diesem Spezialbereich geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Rückfragebrief an Anbieter: erstellt Entwurf mit Antrag, Beweis und Anlagen; Ergebnis: Schriftsatz mit Begründungs- und Anlagenlogik."
 ---
 
 # Rückfragebrief an Anbieter

@@ -1,6 +1,6 @@
 ---
 name: parteidokumentenpaket
-description: "Wenn es um Parteidokumentenpaket in Parteienrecht und Parteiorganisation geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen. Auswahlstichwort: Parteidokumentenpaket; Arbeitsfeld: Parteienrecht und Parteiorganisation."
+description: "Für Parteidokumentenpaket: ordnet Akte, Belege und Lücken; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt. Fachgebiet: Parteienrecht und Parteiorganisation. Route: parteidokumentenpaket."
 ---
 
 # Parteidokumentenpaket

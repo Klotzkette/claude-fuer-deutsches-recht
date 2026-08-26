@@ -1,6 +1,6 @@
 ---
 name: rechtsabteilung-idd-vertrieb-und-provisionskonflikt
-description: "Wenn es um Rechtsabteilung: IDD-Vertrieb und Provisionskonflikt in Versicherungsrecht geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
+description: "Für Rechtsabteilung: IDD-Vertrieb und Provisionskonflikt: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Rechtsabteilung: IDD-Vertrieb und Provisionskonflikt

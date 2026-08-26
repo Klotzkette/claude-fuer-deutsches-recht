@@ -1,6 +1,6 @@
 ---
 name: anfechtung-vor-auslegung
-description: "Wenn es um Auslegung vor Anfechtung — Prüfungsreihenfolge und Begründung in BGB AT Prüfer geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
+description: "Für Auslegung vor Anfechtung — Prüfungsreihenfolge und Begründung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Auslegung vor Anfechtung — Prüfungsreihenfolge und Begründung

@@ -1,6 +1,6 @@
 ---
 name: transition-services-agreement
-description: "Wenn es um Transition Services Agreement in Private Equity Praxis geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Transition Services Agreement: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Transition Services Agreement

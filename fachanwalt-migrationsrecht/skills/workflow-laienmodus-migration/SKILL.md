@@ -1,6 +1,6 @@
 ---
 name: workflow-laienmodus-migration
-description: "Wenn es um Laienmodus Migrationsrecht: Prüfungslinie für Migrationsrecht in Fachanwalt Migrationsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Laienmodus Migrationsrecht: Prüfungslinie für Migrationsrecht: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Laienmodus Migrationsrecht: Prüfungslinie für Migrationsrecht

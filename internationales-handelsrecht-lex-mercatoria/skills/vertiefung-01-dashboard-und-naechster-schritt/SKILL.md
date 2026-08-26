@@ -1,6 +1,6 @@
 ---
 name: vertiefung-01-dashboard-und-naechster-schritt
-description: "Wenn es um Dashboard und nächste Schritte im internationalen Handelsfall in Internationales Handelsrecht und Lex Mercatoria geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Dashboard und nächste Schritte im internationalen Handelsfall: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Dashboard und nächste Schritte im internationalen Handelsfall

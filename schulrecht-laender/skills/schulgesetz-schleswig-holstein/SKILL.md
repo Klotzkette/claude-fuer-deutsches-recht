@@ -1,6 +1,6 @@
 ---
 name: schulgesetz-schleswig-holstein
-description: "Wenn es um Schulgesetz Schleswig Holstein in Schulrecht der Bundesländer geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Schulgesetz Schleswig Holstein: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Schulgesetz Schleswig Holstein

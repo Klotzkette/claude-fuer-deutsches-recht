@@ -1,6 +1,6 @@
 ---
 name: prozessschutz-16-20-geschgehg
-description: "Wenn es um Prozessschutz 16 20 Geschgehg in NDA-Generator und Verschwiegenheitsvereinbarungs-Checker geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
+description: "Für Prozessschutz 16 20 Geschgehg: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Prozessschutz 16 20 Geschgehg

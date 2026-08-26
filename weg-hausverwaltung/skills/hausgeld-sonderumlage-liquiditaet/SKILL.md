@@ -1,6 +1,6 @@
 ---
 name: hausgeld-sonderumlage-liquiditaet
-description: "Wenn es um Hausgeld, Sonderumlage und Liquidität in WEG- und Hausverwaltung geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
+description: "Für Hausgeld, Sonderumlage und Liquidität: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Hausgeld, Sonderumlage und Liquidität

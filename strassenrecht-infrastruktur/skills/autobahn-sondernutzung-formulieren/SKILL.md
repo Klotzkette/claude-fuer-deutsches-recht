@@ -1,6 +1,6 @@
 ---
 name: autobahn-sondernutzung-formulieren
-description: "Wenn es um Autobahn Sondernutzung Formulieren in Straßenrecht und Infrastruktur geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Autobahn Sondernutzung Formulieren: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Autobahn Sondernutzung Formulieren

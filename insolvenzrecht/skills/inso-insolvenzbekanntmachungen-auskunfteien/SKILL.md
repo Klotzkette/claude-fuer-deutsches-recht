@@ -1,6 +1,6 @@
 ---
 name: inso-insolvenzbekanntmachungen-auskunfteien
-description: "Wenn es um Insolvenzbekanntmachungen und Auskunfteien in Insolvenzrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Insolvenzbekanntmachungen und Auskunfteien: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Insolvenzbekanntmachungen und Auskunfteien

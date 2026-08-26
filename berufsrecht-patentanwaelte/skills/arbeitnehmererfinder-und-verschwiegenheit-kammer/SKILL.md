@@ -1,6 +1,6 @@
 ---
 name: arbeitnehmererfinder-und-verschwiegenheit-kammer
-description: "Wenn es um Arbeitnehmererfinder Und Verschwiegenheit Kammer in Berufsrecht Patentanwälte geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Verhandlungs- oder Eskalationslinie mit Optionen."
+description: "Für Arbeitnehmererfinder und Verschwiegenheit Kammer: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Patentanwälte: arbeitnehmererfinder und verschwiegenheit - Kammerantwort mit Verfahrensstrategie, Tonlage und Belegplan

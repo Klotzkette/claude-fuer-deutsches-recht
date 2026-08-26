@@ -1,6 +1,6 @@
 ---
 name: partner-kommentar-umsetzen
-description: "Wenn es um Partner-Kommentar Umsetzen in diesem Spezialbereich geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Beweislast- und Substantiierungsmatrix."
+description: "Für Partner-Kommentar Umsetzen: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Partner-Kommentar Umsetzen

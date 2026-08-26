@@ -1,6 +1,6 @@
 ---
 name: rechtsabteilung-beirat-mit-vetorechten-in-der-gmbh
-description: "Wenn es um Rechtsabteilung: Beirat mit Vetorechten in der GmbH in Gesellschaftsrecht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
+description: "Für Rechtsabteilung: Beirat mit Vetorechten in der GmbH: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Rechtsabteilung: Beirat mit Vetorechten in der GmbH

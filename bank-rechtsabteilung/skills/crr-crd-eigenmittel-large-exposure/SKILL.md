@@ -1,6 +1,6 @@
 ---
 name: crr-crd-eigenmittel-large-exposure
-description: "Wenn es um CRR CRD Eigenmittel und Großkredite in Bank-Rechtsabteilung geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
+description: "Für CRR CRD Eigenmittel und Großkredite: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # CRR CRD Eigenmittel und Großkredite

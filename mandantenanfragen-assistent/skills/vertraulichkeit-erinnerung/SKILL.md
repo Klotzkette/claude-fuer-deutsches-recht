@@ -1,6 +1,6 @@
 ---
 name: vertraulichkeit-erinnerung
-description: "Wenn es um Sekretariat muss wissen ab wann die Anwaltsschwiegepflicht gilt in mandantenanfragen-assistent geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Sekretariat muss wissen ab wann die Anwaltsschwiegepflicht gilt: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Sekretariat muss wissen ab wann die Anwaltsschwiegepflicht gilt

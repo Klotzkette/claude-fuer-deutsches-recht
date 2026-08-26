@@ -1,6 +1,6 @@
 ---
 name: schiffshypothek-local-counsel-instruie
-description: "Wenn es um Schiffshypothek – Local Counsel instruieren in See- und Schifffahrtsrecht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert einen Einreichungsplan mit Form-, Portal- und Nachweischeck."
+description: "Für Schiffshypothek – Local Counsel instruieren: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Schiffshypothek – Local Counsel instruieren

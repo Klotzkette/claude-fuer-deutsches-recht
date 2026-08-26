@@ -1,6 +1,6 @@
 ---
 name: mieteranfragen-bearbeitung-projekt
-description: "Wenn es um Mieteranfragen Bearbeitung in Immobilienrechtspraxis geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Mieteranfragen Bearbeitung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Mieteranfragen Bearbeitung

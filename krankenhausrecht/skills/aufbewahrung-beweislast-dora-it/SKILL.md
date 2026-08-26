@@ -1,6 +1,6 @@
 ---
 name: aufbewahrung-beweislast-dora-it
-description: "Wenn es um Dokumentation Aufbewahrung Beweislast in Krankenhausrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Dokumentation Aufbewahrung Beweislast: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Beweislast- und Substantiierungsmatrix."
 ---
 
 # Dokumentation Aufbewahrung Beweislast

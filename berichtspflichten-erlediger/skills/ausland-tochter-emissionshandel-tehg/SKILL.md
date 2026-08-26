@@ -1,6 +1,6 @@
 ---
 name: ausland-tochter-emissionshandel-tehg
-description: "Wenn es um Auslandstöchter und deutsche Berichtspflichten in Berichtspflichten-Erlediger geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen."
+description: "Für Auslandstöchter und deutsche Berichtspflichten: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Schnittstellenkarte mit Zuständigkeits- und Nachweisfragen."
 ---
 
 # Auslandstöchter und deutsche Berichtspflichten

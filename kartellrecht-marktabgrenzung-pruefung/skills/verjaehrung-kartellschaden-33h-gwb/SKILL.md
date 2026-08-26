@@ -1,6 +1,6 @@
 ---
 name: verjaehrung-kartellschaden-33h-gwb
-description: "Wenn es um Verjährung Kartellschaden Paragraf 33h GWB in Kartellrecht — Marktabgrenzungsprüfung geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen."
+description: "Für Verjährung Kartellschaden Paragraf 33h GWB: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Verjährung Kartellschaden § 33h GWB

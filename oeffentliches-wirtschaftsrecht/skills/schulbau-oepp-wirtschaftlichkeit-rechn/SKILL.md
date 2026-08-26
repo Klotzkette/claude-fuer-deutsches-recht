@@ -1,6 +1,6 @@
 ---
 name: schulbau-oepp-wirtschaftlichkeit-rechn
-description: "Wenn es um Schulbau Oepp Wirtschaftlichkeit Rechn in Öffentliches Wirtschaftsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Schulbau ÖPP Wirtschaftlichkeit Rechn: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Schulbau Oepp Wirtschaftlichkeit Rechn

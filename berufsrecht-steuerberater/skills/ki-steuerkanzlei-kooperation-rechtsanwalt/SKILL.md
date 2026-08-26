@@ -1,6 +1,6 @@
 ---
 name: ki-steuerkanzlei-kooperation-rechtsanwalt
-description: "Wenn es um Ki Steuerkanzlei Kooperation Rechtsanwalt in Berufsrecht Steuerberater geht: klärt Rolle, Ziel, Frist, Unterlagen und den passenden nächsten Fachskill; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Ki Steuerkanzlei Kooperation Rechtsanwalt: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Schnittstellenkarte mit Zuständigkeits- und Nachweisfragen."
 ---
 
 # Steuerberater: ki in der steuerkanzlei - Kaltstart mit Faktenmatrix, Risikoampel und fehlenden Unterlagen

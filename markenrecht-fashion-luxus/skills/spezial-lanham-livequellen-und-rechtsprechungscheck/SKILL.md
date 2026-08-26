@@ -1,6 +1,6 @@
 ---
 name: spezial-lanham-livequellen-und-rechtsprechungscheck
-description: "Wenn es um Lanham: Livequellen- und Rechtsprechungscheck in markenrecht-fashion-luxus geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Lanham: Livequellen- und Rechtsprechungscheck: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Lanham: Livequellen- und Rechtsprechungscheck

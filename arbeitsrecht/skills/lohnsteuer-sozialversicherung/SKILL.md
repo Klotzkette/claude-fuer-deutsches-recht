@@ -1,6 +1,6 @@
 ---
 name: lohnsteuer-sozialversicherung
-description: "Wenn es um Lohnsteuer Sozialversicherung in Arbeitsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Lohnsteuer Sozialversicherung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Schnittstellenkarte mit Zuständigkeits- und Nachweisfragen."
 ---
 
 # Beurteilt den sozialversicherungsrechtlichen Status (Scheinselbständigkeit, Paragraf 7a SGB IV) und lohnsteuerliche Fragen im Arbeitsverhältnis

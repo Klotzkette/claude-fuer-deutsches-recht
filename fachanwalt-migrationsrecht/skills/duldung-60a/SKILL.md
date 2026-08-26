@@ -1,6 +1,6 @@
 ---
 name: duldung-60a
-description: "Wenn es um Duldung Paragraf 60a: Fachmodul im Migrationsrecht in Fachanwalt Migrationsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Duldung Paragraf 60a: Fachmodul im Migrationsrecht: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Duldung § 60a: Fachmodul im Migrationsrecht
@@ -38,3 +38,7 @@ description: "Wenn es um Duldung Paragraf 60a: Fachmodul im Migrationsrecht in F
 - Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei prüfbarer Quelle ausgeben.
 - Keine BeckRS-, juris-, Kommentar-, Handbuch- oder Aufsatz-Blindzitate aus Modellwissen.
 - Annahmen, fehlende Unterlagen, Beweisrisiken und Fristen ausdrücklich markieren.
+
+## Vertiefung bei Bedarf
+
+- Bei `spezial-duldung-60a` beziehungsweise Duldung § 60a: [die zusätzliche Vertiefung laden](./references/vertiefung-spezial-duldung-60a.md).

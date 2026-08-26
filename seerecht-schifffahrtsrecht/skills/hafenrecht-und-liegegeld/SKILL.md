@@ -1,6 +1,6 @@
 ---
 name: hafenrecht-und-liegegeld
-description: "Wenn es um Hafenrecht und Liegegeld – Demurrage-Berechnung und Hafenstreit in See- und Schifffahrtsrecht geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
+description: "Für Hafenrecht und Liegegeld – Demurrage-Berechnung und Hafenstreit: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Hafenrecht und Liegegeld – Demurrage-Berechnung und Hafenstreit

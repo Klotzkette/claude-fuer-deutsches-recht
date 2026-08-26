@@ -1,6 +1,6 @@
 ---
 name: workflow-mieter-intake
-description: "Wenn es um Mieter-Intake: Prüfungslinie für Miet- und WEG-Recht in Fachanwalt Miet- und Wohnungseigentumsrecht geht: klärt Rolle, Ziel, Frist, Unterlagen und den passenden nächsten Fachskill; liefert eine Chronologie mit Belegmatrix und Widerspruchsliste."
+description: "Für Mieter-Intake: Prüfungslinie für Miet- und WEG-Recht: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Mieter-Intake: Prüfungslinie für Miet- und WEG-Recht

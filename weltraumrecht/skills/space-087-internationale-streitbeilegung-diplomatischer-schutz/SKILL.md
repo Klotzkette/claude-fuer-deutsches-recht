@@ -1,6 +1,6 @@
 ---
 name: space-087-internationale-streitbeilegung-diplomatischer-schutz
-description: "Wenn es um Weltraumrecht: Internationale Streitbeilegung diplomatischer Schutz in Weltraumrecht geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Weltraumrecht: Internationale Streitbeilegung diplomatischer Schutz: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Schnittstellenkarte mit Zuständigkeits- und Nachweisfragen."
 ---
 
 # Weltraumrecht: Internationale Streitbeilegung diplomatischer Schutz

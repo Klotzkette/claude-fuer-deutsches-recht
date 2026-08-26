@@ -1,6 +1,6 @@
 ---
 name: lph8-bauueberwachung-hafen-spundwand-kai
-description: "Wenn es um Bauueberwachung Hafen Spundwand und Kai in HOAI Leistungsphasen Praxis geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Bauüberwachung Hafen Spundwand und Kai: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Bauueberwachung Hafen Spundwand und Kai

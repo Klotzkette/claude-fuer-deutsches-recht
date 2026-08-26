@@ -1,6 +1,6 @@
 ---
 name: geldwaesche-transaktionsstopp-freeze
-description: "Wenn es um Transaktionsstopp, Freeze und Exit in Geldwäscheprävention, AML und KYC geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Transaktionsstopp, Freeze und Exit: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Transaktionsstopp, Freeze und Exit

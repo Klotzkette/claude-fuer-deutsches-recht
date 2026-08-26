@@ -1,6 +1,6 @@
 ---
 name: fachanwalt-vergaberecht-nachpruefungsverfahren-vk
-description: "Wenn es um Nachprüfungsverfahren vor der Vergabekammer führen in Fachanwalt Vergaberecht geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Verhandlungs- oder Eskalationslinie mit Optionen."
+description: "Für Nachprüfungsverfahren vor der Vergabekammer führen: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Tatbestands- oder Anspruchsmatrix."
 ---
 
 # Nachprüfungsverfahren vor der Vergabekammer führen

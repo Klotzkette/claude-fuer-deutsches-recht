@@ -1,6 +1,6 @@
 ---
 name: inso-grenzueberschreitend-eu-eir
-description: "Wenn es um Inso Grenzueberschreitend EU Eir in Fachanwalt Insolvenz- und Sanierungsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für InsO Grenzüberschreitend EU Eir: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Schnittstellenkarte mit Zuständigkeits- und Nachweisfragen."
 ---
 
 # Grenzueberschreitende Insolvenz nach EuInsVO 2015/848 und Abgrenzung zu Drittstaaten: Hauptverfahren, Sekundaerverfahren, COMI, automatische Anerkennung, Verwalterbefugnisse, Drittstaaten-Anerkennung nach §§ 335 ff., 343 InsO und Register-/Grundbuchvollzug.

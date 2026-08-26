@@ -1,6 +1,6 @@
 ---
 name: entfristung-sachgrund-pruefen-14-abs-1
-description: "Wenn es um Sachgrundprüfung Befristung nach Paragraf 14 Abs in Arbeitsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Sachgrundprüfung Befristung nach Paragraf 14 Abs: prüft Frist, Form, Zuständigkeit und Eilbedarf; Ergebnis: Fristen- und Risikoampel."
 ---
 
 # Sachgrundprüfung Befristung nach Paragraf 14 Abs

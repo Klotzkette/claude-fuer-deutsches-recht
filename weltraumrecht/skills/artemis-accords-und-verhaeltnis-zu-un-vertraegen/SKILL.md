@@ -1,6 +1,6 @@
 ---
 name: artemis-accords-und-verhaeltnis-zu-un-vertraegen
-description: "Wenn es um Weltraumrecht: Artemis Accords und Verhältnis zu UN-Verträgen in Weltraumrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Weltraumrecht: Artemis Accords und Verhältnis zu UN-Verträgen: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Weltraumrecht: Artemis Accords und Verhältnis zu UN-Verträgen

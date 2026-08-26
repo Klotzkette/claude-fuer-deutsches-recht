@@ -1,6 +1,6 @@
 ---
 name: praesentation-im-aufsichtsrat-kammerantwort
-description: "Wenn es um Praesentation Im Aufsichtsrat Kammerantwort in Berufsrecht Wirtschaftsprüfer geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Verhandlungs- oder Eskalationslinie mit Optionen."
+description: "Für Präsentation im Aufsichtsrat Kammerantwort: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Wirtschaftsprüfer: praesentation im aufsichtsrat - Kammerantwort mit Verfahrensstrategie, Tonlage und Belegplan

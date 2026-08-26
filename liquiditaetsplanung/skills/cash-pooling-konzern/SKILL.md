@@ -1,6 +1,6 @@
 ---
 name: cash-pooling-konzern
-description: "Wenn es um Cash-Pooling im Konzern in Liquiditätsplanung — Power geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen."
+description: "Für Cash-Pooling im Konzern: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Cash-Pooling im Konzern

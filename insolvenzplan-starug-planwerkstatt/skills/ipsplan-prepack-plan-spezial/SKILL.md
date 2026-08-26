@@ -1,6 +1,6 @@
 ---
 name: ipsplan-prepack-plan-spezial
-description: "Wenn es um IPSPlan: Prepack-Plan in Insolvenzplan- und StaRUG-Planwerkstatt geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
+description: "Für IPSPlan: Prepack-Plan: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # IPSPlan: Prepack-Plan

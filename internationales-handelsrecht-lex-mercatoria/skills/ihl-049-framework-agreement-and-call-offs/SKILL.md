@@ -1,6 +1,6 @@
 ---
 name: ihl-049-framework-agreement-and-call-offs
-description: "Wenn es um Framework Agreement And Call Offs in Internationales Handelsrecht und Lex Mercatoria geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Framework Agreement And Call Offs: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Framework Agreement And Call Offs

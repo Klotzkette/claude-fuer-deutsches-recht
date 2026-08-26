@@ -1,6 +1,6 @@
 ---
 name: kundenschutz
-description: "Wenn es um Kundenschutz im Handelsvertretervertrag — Abwerbeverbote und Rechtsfolgen in Handelsvertreterrecht und Vertriebsverträge geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Kundenschutz im Handelsvertretervertrag — Abwerbeverbote und Rechtsfolgen: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Kundenschutz im Handelsvertretervertrag — Abwerbeverbote und Rechtsfolgen

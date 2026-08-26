@@ -1,6 +1,6 @@
 ---
 name: bf-kanzleiwebsite-konkret
-description: "Wenn es um BF: Kanzleiwebsite in Barrierefreiheit Web Checker geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
+description: "Für BF: Kanzleiwebsite: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # BF: Kanzleiwebsite

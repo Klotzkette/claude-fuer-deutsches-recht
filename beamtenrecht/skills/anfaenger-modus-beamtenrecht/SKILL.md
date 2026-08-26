@@ -1,6 +1,6 @@
 ---
 name: anfaenger-modus-beamtenrecht
-description: "Wenn es um Anfaenger Modus Beamtenrecht in Beamtenrecht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
+description: "Für Anfänger Modus Beamtenrecht: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Anfaenger Modus Beamtenrecht

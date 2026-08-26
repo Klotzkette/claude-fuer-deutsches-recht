@@ -1,6 +1,6 @@
 ---
 name: bautraegervertrag-verbraucher-mabv-agb-abnahme
-description: "Wenn es um Bauträgervertrag: Verbraucher, MaBV, AGB und Abnahme in Fachanwalt Bau Architektenrecht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
+description: "Für Bauträgervertrag: Verbraucher, MaBV, AGB und Abnahme: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Bauträgervertrag: Verbraucher, MaBV, AGB und Abnahme

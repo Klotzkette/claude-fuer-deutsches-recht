@@ -1,6 +1,6 @@
 ---
 name: agb-haendlervertrag-luxus
-description: "Wenn es um AGB im Händlervertrag für Luxus-Selektivvertrieb in markenrecht-fashion-luxus geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Gegenprüfung mit Fehler-, Beweis- und Fristencheck."
+description: "Für AGB im Händlervertrag für Luxus-Selektivvertrieb: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # AGB im Händlervertrag für Luxus-Selektivvertrieb

@@ -1,6 +1,6 @@
 ---
 name: fachanwalt-transport-tio-schiedsgericht-adsp-klauseln
-description: "Wenn es um Transport-Recht — TIO / ADSp-Schiedsklauseln in Fachanwalt Transport Speditionsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Transport-Recht — TIO / ADSp-Schiedsklauseln: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Transport-Recht — TIO / ADSp-Schiedsklauseln

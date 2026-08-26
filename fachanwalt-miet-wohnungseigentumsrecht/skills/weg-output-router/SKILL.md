@@ -1,6 +1,6 @@
 ---
 name: weg-output-router
-description: "Wenn es um Output-Router Miet/WEG in Fachanwalt Miet- und Wohnungseigentumsrecht geht: klärt Rolle, Ziel, Frist, Unterlagen und den passenden nächsten Fachskill; liefert eine Chronologie mit Belegmatrix und Widerspruchsliste."
+description: "Für Output-Router Miet/WEG: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Output-Router Miet/WEG

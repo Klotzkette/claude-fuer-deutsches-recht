@@ -1,6 +1,6 @@
 ---
 name: k1-anlagenpaket-aus-chaosordner
-description: "Wenn es um K1 aus Chaosordner bauen in Anlagen zu Schriftsätzen geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt. Auswahlstichwort: K1 Anlagenpaket Aus Chaosordner; Arbeitsfeld: Anlagen zu Schriftsätzen."
+description: "Für K1 aus Chaosordner bauen: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt. Fachgebiet: Anlagen zu Schriftsätzen. Route: k1-anlagenpaket-aus-chaosordner."
 ---
 
 # K1 aus Chaosordner bauen

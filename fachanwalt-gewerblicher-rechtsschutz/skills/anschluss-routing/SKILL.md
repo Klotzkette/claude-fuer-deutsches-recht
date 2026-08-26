@@ -1,6 +1,6 @@
 ---
 name: anschluss-routing
-description: "Wählt nach einer ersten Prüfung im gewerblichen Rechtsschutz den sachlich passenden Folgeskill. Trennt Schutzrecht, Rechtsbestand, Verletzung, Eilverfahren und Amtsweg und liefert eine begründete nächste Arbeitsstation statt einer unverbundenen Liste von Normen oder Entscheidungen."
+description: "Wählt nach einer ersten Prüfung im gewerblichen Rechtsschutz den sachlich passenden Folgeskill."
 ---
 
 # 1. Anschluss-Routing im gewerblichen Rechtsschutz

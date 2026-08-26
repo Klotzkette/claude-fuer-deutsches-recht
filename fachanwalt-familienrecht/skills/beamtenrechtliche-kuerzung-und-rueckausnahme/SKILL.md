@@ -1,6 +1,6 @@
 ---
 name: beamtenrechtliche-kuerzung-und-rueckausnahme
-description: "Wenn es um Beamtenrechtliche Kuerzung Und Rueckausnahme in Fachanwalt Familienrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Beamtenrechtliche Kürzung und Rückausnahme: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Beamtenrechtliche Kürzung und Rückausnahme: prüft die einschlägigen Voraussetzungen, Dokumente, Risiken und Ausnahmen

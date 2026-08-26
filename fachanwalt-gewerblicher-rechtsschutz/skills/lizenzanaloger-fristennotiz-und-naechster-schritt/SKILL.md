@@ -1,6 +1,6 @@
 ---
 name: lizenzanaloger-fristennotiz-und-naechster-schritt
-description: "Wenn es um Lizenzanaloger Fristennotiz Und Naechster Schritt in Fachanwalt Gewerblicher Rechtsschutz geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Lizenzanaloger Fristennotiz und Nächster Schritt: prüft Frist, Form, Zuständigkeit und Eilbedarf; Ergebnis: Fristen- und Risikoampel."
 ---
 
 # Lizenzanaloger Schadensersatz: Berechnung, Marktrecherche für Lizenzsätze, Stufenklage, Fristen für Auskunft und Schadensersatz, nächster Handlungsschritt nach Unterlassungsurteil oder EV-Abschluss im gewerblichen Rechtsschutz.
@@ -113,3 +113,7 @@ zu machen (§ [14 Abs. 6 MarkenG / 139 Abs. 2 PatG / 97 Abs. 2 UrhG]).
 ## Was dieser Arbeitsgang nicht macht
 - Keine verbindliche Schadensberechnung ohne vollständige Daten zur Verletzungshistorie.
 - Kein Ersatz für vollständige Mandantenberatung.
+
+## Vertiefung bei Bedarf
+
+- Bei `spezial-lizenzanaloger-fristennotiz-und-naechster-schritt` beziehungsweise Lizenzanaloger: Fristennotiz und nächster Schritt: [die zusätzliche Vertiefung laden](./references/vertiefung-spezial-lizenzanaloger-fristennotiz-und-naechster-schritt.md).

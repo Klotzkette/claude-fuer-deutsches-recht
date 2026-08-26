@@ -1,6 +1,6 @@
 ---
 name: hr-mail-an-mitarbeiter-konfliktarm
-description: "Wenn es um HR Mail An Mitarbeiter Konfliktarm in Start-up-HR-Personalabteilung Berlin geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für HR Mail an Mitarbeiter Konfliktarm: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # HR Mail An Mitarbeiter Konfliktarm

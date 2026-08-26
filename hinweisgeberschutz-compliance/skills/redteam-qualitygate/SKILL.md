@@ -1,6 +1,6 @@
 ---
 name: redteam-qualitygate
-description: "Wenn es um Redteam Qualitygate in Hinweisgeberschutz, Meldestellen und NDA-Konflikte geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Redteam Qualitygate: prüft Ergebnis, Beweislast und Gegenposition; Ergebnis: Gegenprüfung mit Beweis- und Fristencheck. Fachgebiet: Hinweisgeberschutz, Meldestellen und NDA-Konflikte."
 ---
 
 # Redteam Qualitygate

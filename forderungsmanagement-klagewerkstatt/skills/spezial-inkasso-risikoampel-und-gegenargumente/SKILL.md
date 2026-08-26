@@ -1,6 +1,6 @@
 ---
 name: spezial-inkasso-risikoampel-und-gegenargumente
-description: "Wenn es um Inkasso: Risikoampel, Gegenargumente und Verteidigungslinien in Forderungsmanagement — Klagewerkstatt geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Inkasso: Risikoampel, Gegenargumente und Verteidigungslinien: prüft Ergebnis, Beweislast und Gegenposition; Ergebnis: Fristen- und Risikoampel."
 ---
 
 # Inkasso: Risikoampel, Gegenargumente und Verteidigungslinien

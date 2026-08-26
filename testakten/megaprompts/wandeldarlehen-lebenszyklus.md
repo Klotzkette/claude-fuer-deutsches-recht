@@ -7,20 +7,20 @@ Diese Vollprüfung enthält top-15 von 54 Skills des Plugins `wandeldarlehen-leb
 ## Inhaltsverzeichnis
 
 1. **juristischer-argumentationskern** — Schaltet sich ein, wenn in Wandeldarlehen Lebenszyklus ein juristisches Arbeitsprodukt tragfähig begründet werden muss; …
-2. **einstieg-routing** — Wenn es um Einstieg und Routing in Wandeldarlehen-Lebenszyklus geht: klärt Rolle, Ziel, Frist, Unterlagen und den passen…
-3. **kaltstart-triage** — Wenn es um Kaltstart Triage in Wandeldarlehen-Lebenszyklus geht: klärt Rolle, Ziel, Frist, Unterlagen und den passenden …
-4. **mandat-triage-mehrere-parallel** — Wenn es um Mandat-Triage Wandeldarlehen – Erstgespräch in Wandeldarlehen-Lebenszyklus geht: klärt Rolle, Ziel, Frist, Un…
-5. **begleitet-erstpruefung-und-mandatsziel** — Wenn es um Begleitet: Erstprüfung, Rollenklärung und Mandatsziel in Wandeldarlehen-Lebenszyklus geht: klärt Rolle, Ziel,…
-6. **textform-vs-schriftform-vs-notariell** — Wenn es um Textform vs. Schriftform vs. Notarielle Beurkundung in Wandeldarlehen-Lebenszyklus geht: ordnet Sachverhalt, …
-7. **bilingual-einsprachig** — Wenn es um Bilingual: Schriftsatz-, Brief- und Memo-Bausteine in Wandeldarlehen-Lebenszyklus geht: erstellt den passende…
-8. **rangruecktritt-formulieren** — Wenn es um Qualifizierten Rangrücktritt formulieren in Wandeldarlehen-Lebenszyklus geht: ordnet Sachverhalt, Norm, Bewei…
-9. **beurkundungspruefung-quellenkarte-check** — Wenn es um Beurkundungspruefung Quellenkarte Check in Wandeldarlehen-Lebenszyklus geht: ordnet Sachverhalt, Norm, Beweis…
-10. **unterzeichnung-elektronisch-wandelereignis** — Wenn es um Elektronische Unterzeichnung (DocuSign / Adobe Sign) in Wandeldarlehen-Lebenszyklus geht: ordnet Akteninhalt,…
-11. **wandelereignisse-zahlen-schwellen-und-berechnung** — Wenn es um Wandelereignisse: Zahlen, Schwellenwerte und Berechnung in Wandeldarlehen-Lebenszyklus geht: rechnet Schwelle…
-12. **wandlungsausloeser-cap-discount-textform** — Wenn es um Wandlungsauslöser, Cap und Discount sauber berechnen in Wandeldarlehen-Lebenszyklus geht: ordnet Akteninhalt,…
-13. **dokumenten-upload-formfehler-heilungs** — Wenn es um Dokumenten-Upload und Datenextraktion in Wandeldarlehen-Lebenszyklus geht: erstellt den passenden Entwurf aus…
-14. **wandlungspruefung-trigger-qualified-financing** — Wenn es um Wandlungsprüfung – Trigger Qualified Financing in Wandeldarlehen-Lebenszyklus geht: rechnet Schwellen, Beträg…
-15. **gmbh-vollstaendigen** — Wenn es um GmbH: Risikoampel, Gegenargumente und Verteidigungslinien in Wandeldarlehen-Lebenszyklus geht: zerlegt Ergebn…
+2. **einstieg-routing** — Für Einstieg und Routing: routet Rolle, Frist, Unterlagen und Fachschritt; Ergebnis: Prüfprodukt mit Risiko und nächstem…
+3. **kaltstart-triage** — Für Kaltstart Triage: routet Rolle, Frist, Unterlagen und Fachschritt; Ergebnis: Prüfprodukt mit Risiko und nächstem Sch…
+4. **mandat-triage-mehrere-parallel** — Für Mandat-Triage Wandeldarlehen – Erstgespräch: routet Rolle, Frist, Unterlagen und Fachschritt; Ergebnis: Prüfprodukt …
+5. **begleitet-erstpruefung-und-mandatsziel** — Für Begleitet: Erstprüfung, Rollenklärung und Mandatsziel: routet Rolle, Frist, Unterlagen und Fachschritt; Ergebnis: Ta…
+6. **chronologie-fristen** — Für Chronologie und Belegmatrix: prüft Frist, Form, Zuständigkeit und Eilbedarf; Ergebnis: Chronologie mit Beleg- und Wi…
+7. **spezial-beurkundungspruefung-livequellen-check** — Für Beurkundungsprüfung: Livequellen- und Rechtsprechungscheck: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Sch…
+8. **workflow-kaltstart-und-routing** — Für Kaltstart und Routing: routet Rolle, Frist, Unterlagen und Fachschritt; Ergebnis: Prüfprodukt mit Risiko und nächste…
+9. **wandeldarlehens-wandelereignisse** — Für Wandeldarlehens: Dokumentenmatrix, Lückenliste und Nachforderung: ordnet Norm, Beweislast und Gegenargument; Ergebni…
+10. **wandelereignisse-zahlen-schwellen-und-berechnung** — Für Wandelereignisse: Zahlen, Schwellenwerte und Berechnung: rechnet Beträge, Schwellen und Varianten; Ergebnis: Berechn…
+11. **gesellschafterbeschluss-kapitalerhoehung** — Für Gesellschafterbeschluss – Kapitalerhöhung gegen Sacheinlage: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Pr…
+12. **vertragserstellung-behoerden-gericht-und-registerweg** — Für Vertragserstellung: Behörden-, Gerichts- oder Registerweg: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Einr…
+13. **gmbh-vollstaendigen** — Für GmbH: Risikoampel, Gegenargumente und Verteidigungslinien: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüf…
+14. **gesellschafterbeschluss-vorbereiten** — Für Gesellschafterbeschluss vorbereiten (vor Unterzeichnung): ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfp…
+15. **lebenszyklus-bilinguale-vertragserstellung** — Für Lebenszyklus: Fristen, Form, Zuständigkeit und Rechtsweg: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfp…
 
 ---
 
@@ -143,7 +143,7 @@ Ausgangspunkt für dieses Plugin: Anspruchsteller für Pflichtverletzung, Schade
 
 ## Skill: `einstieg-routing`
 
-_Wenn es um Einstieg und Routing in Wandeldarlehen-Lebenszyklus geht: klärt Rolle, Ziel, Frist, Unterlagen und den passenden nächsten Fachskill; liefert eine Fristen- und Risikoampel mit Sofortschritten._
+_Für Einstieg und Routing: routet Rolle, Frist, Unterlagen und Fachschritt; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt. Fachgebiet: Wandeldarlehen-Lebenszyklus._
 
 # Einstieg und Routing
 
@@ -187,7 +187,7 @@ Dieser Einstieg routet **Wandeldarlehen Lebenszyklus** vom ersten Sachverhalt zu
 
 ## Skill: `kaltstart-triage`
 
-_Wenn es um Kaltstart Triage in Wandeldarlehen-Lebenszyklus geht: klärt Rolle, Ziel, Frist, Unterlagen und den passenden nächsten Fachskill; liefert eine Fristen- und Risikoampel mit Sofortschritten._
+_Für Kaltstart Triage: routet Rolle, Frist, Unterlagen und Fachschritt; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt. Fachgebiet: Wandeldarlehen-Lebenszyklus._
 
 ## Direktstart: lesen, entscheiden, liefern
 
@@ -409,7 +409,7 @@ Zielgruppe sind Anwaelte und Steuerberater im Startup- und Venture-Capital-Berei
 
 ## Skill: `mandat-triage-mehrere-parallel`
 
-_Wenn es um Mandat-Triage Wandeldarlehen – Erstgespräch in Wandeldarlehen-Lebenszyklus geht: klärt Rolle, Ziel, Frist, Unterlagen und den passenden nächsten Fachskill; liefert eine Fristen- und Risikoampel mit Sofortschritten._
+_Für Mandat-Triage Wandeldarlehen – Erstgespräch: routet Rolle, Frist, Unterlagen und Fachschritt; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt._
 
 # Mandat-Triage Wandeldarlehen – Erstgespräch
 
@@ -533,7 +533,7 @@ Stand: 05/2026.
 
 ## Skill: `begleitet-erstpruefung-und-mandatsziel`
 
-_Wenn es um Begleitet: Erstprüfung, Rollenklärung und Mandatsziel in Wandeldarlehen-Lebenszyklus geht: klärt Rolle, Ziel, Frist, Unterlagen und den passenden nächsten Fachskill; liefert eine Fristen- und Risikoampel mit Sofortschritten._
+_Für Begleitet: Erstprüfung, Rollenklärung und Mandatsziel: routet Rolle, Frist, Unterlagen und Fachschritt; Ergebnis: Tatbestands- oder Anspruchsmatrix._
 
 # Begleitet: Erstprüfung, Rollenklärung und Mandatsziel
 
@@ -598,95 +598,148 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 
 ---
 
-## Skill: `textform-vs-schriftform-vs-notariell`
+## Skill: `chronologie-fristen`
 
-_Wenn es um Textform vs. Schriftform vs. Notarielle Beurkundung in Wandeldarlehen-Lebenszyklus geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt._
+_Für Chronologie und Belegmatrix: prüft Frist, Form, Zuständigkeit und Eilbedarf; Ergebnis: Chronologie mit Beleg- und Widerspruchsmatrix. Fachgebiet: Wandeldarlehen-Lebenszyklus._
 
-# Textform vs. Schriftform vs. Notarielle Beurkundung
+# Chronologie und Belegmatrix
 
-## Arbeitsweg
+## Arbeitsauftrag
 
-- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
-- Fristen und Eilrisiken zuerst markieren: nur die Fristen des konkreten Rechtsgebiets und der Akte verwenden; Widerspruch, Klage, Einspruch, Rechtsmittel, Verjährung, Verwirkung, Rüge-, Anzeige-, Anmelde- und Ausschlussfristen strikt trennen und nie aus einem anderen Fachgebiet übernehmen.
-- Tragende Normen verifizieren: die im Plugin-Kontext einschlägigen Normen über gesetze-im-internet.de, dejure.org, eur-lex.europa.eu und die amtlichen Bundes-/Landesportale live prüfen — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
-- Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
-- Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
+Dieser Arbeitsgang macht **Chronologie und Belegmatrix** im Bereich **wandeldarlehen-lebenszyklus** sofort bearbeitbar: erst Akte lesen, dann Rollen, Ziel, Fristen, Belege und Entscheidungspunkte ordnen. Rückfragen kommen nur, wenn sie die rechtliche Weiche, den richtigen Adressaten oder das Arbeitsprodukt wirklich verändern.
 
-## Eingaben
+## Aktenstart ohne Leerlauf
 
-- Vertragsart: Wandeldarlehensvertrag, Gesellschafterbeschluss, Kapitalerhöhungsbeschluss, Anteilsübertragung?
-- Beteiligungsstruktur: GmbH oder UG?
-- Wandlungsmechanismus: einstufig oder zweistufig?
-- Bereits gewählte Form im Vertragsentwurf?
-- DocuSign oder andere qualifizierte elektronische Signatur gewünscht?
+1. Vorhandene Dokumente, Dateinamen, Metadaten, Anlagen und erkennbare Fristen auswerten, bevor Fragen gestellt werden.
+2. Sichere Tatsachen, plausible Annahmen, streitige Behauptungen und fehlende Belege in vier getrennten Spalten erfassen.
+3. Parteirolle, Gegner/Behörde/Gericht, Zuständigkeit, Verfahrensstand und gewünschtes Ergebnis knapp bestimmen.
+4. Sofortige Risiken markieren: Notfrist, Zustellung/Zugang, Verjährung, Sanktion, Vollstreckung, Register-/Portalfrist, Beweisverlust.
+5. Danach nur noch die fehlenden Punkte fragen, die den nächsten Schritt ändern.
 
-## Rechtlicher Rahmen
+## Fachliche Anker
 
-### Primärnormen
-- § 126b BGB (Textform: lesbare Erklärung auf dauerhaftem Datenträger, keine Unterschrift erforderlich; DocuSign reicht)
-- § 126 BGB (Schriftform: eigenhändige Namensunterschrift auf Originalurkunde; beidseitige Originalausfertigung erforderlich)
-- § 126a BGB (Elektronische Form: qualifizierte elektronische Signatur nach eIDAS)
-- § 127 BGB (Gewillkürte Form: strenger als gesetzliche Mindestform möglich)
-- § 128 BGB (Notarielle Beurkundung: Lesung, Genehmigung, Unterschrift vor Notar)
-- § 15 Abs. 3, Abs. 4 GmbHG (Beurkundungspflicht Anteilsübertragung)
-- Paragraf 53 Absatz 2 GmbHG (Dreiviertelmehrheit) und Absatz 3 GmbHG (notarielle Beurkundung des Kapitalerhöhungsbeschlusses)
+- Rechtsgrundlage, Zuständigkeit, Frist, Form, Beweislast und Rechtsfolge aus dem jeweiligen Fachgebiet ausdrücklich benennen.
+- Spezialnormen aus den angrenzenden Fachskills dieses Plugins vor Ausgabe gegen Gesetzestext oder amtliche Quelle prüfen.
+- Keine Rechtsprechung oder Literatur aus Modellwissen erzwingen; nur verifizierte, frei prüfbare Fundstellen verwenden.
 
-## Vorgehen
+## Arbeitsprodukt
 
-### 1. Formstufe für jeden Vertragsteil bestimmen
-
-| Dokument | Mindestform | Empfehlung |
-|---|---|---|
-| Wandeldarlehensvertrag (zweistufig) | Textform § 126b BGB | Textform + DocuSign |
-| Wandlungserklärung Lender | Textform § 126b BGB | Textform (E-Mail genügt) |
-| Wandlungsmitteilung Gesellschaft | Textform § 126b BGB | Textform |
-| Gesellschafterbeschluss Kapitalerhöhung | Dreiviertelmehrheit nach Paragraf 53 Absatz 2 GmbHG; notarielle Beurkundung nach Absatz 3 | Notariell |
-| Übernahmeerklärung neue Anteile | Notariell aufgenommene oder beglaubigte Erklärung nach Paragraf 55 Absatz 1 GmbHG | Notariell aufgenommen oder beglaubigt |
-| Eintragungsanmeldung Handelsregister | Öffentlich beglaubigte Form nach Paragraf 12 Absatz 1 HGB; Anmeldung durch alle Geschäftsführer nach Paragraf 78 GmbHG | Notariell beglaubigt und elektronisch eingereicht |
-
-### 2. Textform (§ 126b BGB) erläutern
-Voraussetzungen: lesbare Erklärung auf dauerhaftem Datenträger (PDF, E-Mail), Person des Erklärenden erkennbar, Abschluss der Erklärung erkennbar (z. B. Name am Ende). DocuSign ist ausreichend (kein Erfordernis qualifizierter elektronischer Signatur). Vorteil: einfach, schnell, kostengünstig, fernabstimmungsfähig.
-
-### 3. Schriftform (§ 126 BGB) – wann nötig?
-Eigenhändige Namensunterschrift unter Originalurkunde. Für Wandeldarlehen nicht gesetzlich vorgeschrieben, kann aber vertraglich vereinbart werden (z. B. für Vertragsänderungen). Risiko: Verlust des Originals macht Nachweis schwierig.
-
-### 4. Notarielle Beurkundung (§ 128 BGB) – wann zwingend?
-Pflicht bei Kapitalerhöhungsbeschluss und Satzungsänderung nach Paragraf 53 Absatz 3 GmbHG, bei der Übernahmeerklärung nach Paragraf 55 Absatz 1 GmbHG sowie bei Verpflichtung und Abtretung bestehender Anteile nach Paragraf 15 Absatz 3 und 4 GmbHG. Kosten nach dem GNotKG anhand des konkreten Geschäftswerts berechnen; keine pauschale Prozentquote versprechen.
-
-### 5. DocuSign-Praxis für Textform
-Authentifizierungsstufe wählen: E-Mail-OTP ausreichend für Textform. SMS-OTP oder Personalausweis-ID für höheres Vertrauensniveau. Audit Trail herunterladen und zehn Jahre archivieren (Abgabenordnung § 147 AO). Jede Partei erhält signierte PDF.
-
-### 6. Heilungsmechanismus
-Bei Formverstoß (§ 125 BGB: Formmangel → Nichtigkeit): Heilung durch Vollziehung des Rechtsgeschäfts möglich, falls das Gesetz dies vorsieht oder die Parteien es vereinbaren (§ 9.4 Heilungsklausel). Für Wandeldarlehen: § 9.3/9.4 vorsorglich aufnehmen.
-
-## Risiken und Red Flags
-
-| Konstellation | Rot | Orange | Grün |
-|---|---|---|---|
-| Textform-Vertrag mit einstufiger Anteilsabtretung | Formnichtigkeit § 125 BGB | Konstruktion unklar | Zweistufige Konstruktion |
-| Kapitalerhöhung ohne Notar | HR-Eintragung unmöglich | Notar noch nicht beauftragt | Notar beauftragt |
-| DocuSign ohne Audit Trail | Beweisnot bei Streit | Trail unvollständig | Vollständiger Audit Trail |
-| Schriftform vertraglich vereinbart, aber nur E-Mail | Vertrag in Schwebezustand | Auslegungsfrage | Klare Formregelung |
-
-## Quellen und Updates
-
-Stand: 05/2026. eIDAS-VO 910/2014, GNotKG. Bei Änderung BGB-Formvorschriften aktualisieren.
-
-## Vertiefung — Aktuelle Rechtsprechung
-
-### Normen-Ergänzung
-
-§ 126 BGB (Schriftform) → § 126b BGB (Textform) → § 128 BGB i.V.m. §§ 1-17 BeurkG (notarielle Form) → § 125 BGB (Nichtigkeit bei Formmangel) → § 15 Abs. 3, 4 GmbHG (notarielle Form bei GmbH-Anteilsübertragung und Verpflichtung) → § 53 GmbHG (notarielle Beurkundung Satzungsänderung)
-
-> Quellenregel: Entscheidungen nur nach Prüfung einer amtlichen oder frei zugänglichen Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage ausgeben.
+- **Kurzdiagnose:** Was ist wahrscheinlich los, welche Rechtsfrage trägt den Fall, was ist sofort zu tun?
+- **Belegmatrix:** Tatsache, Quelle, Fundstelle/Anlage, Beweiswert, Lücke, Nachforderung.
+- **Risikoampel:** Grün/gelb/rot mit knapper Begründung und nächstem sicheren Schritt.
+- **Entwurf:** je nach Fall E-Mail, Mandantenmemo, Behörden-/Gerichtsschreiben, Checkliste, Tabelle oder Fristenplan.
+- **Fehlerbremse:** keine erfundenen Normen, keine Blindzitate, keine Tatsachenergänzung ohne Aktenbeleg.
 
 ---
 
-## Skill: `bilingual-einsprachig`
+## Skill: `spezial-beurkundungspruefung-livequellen-check`
 
-_Wenn es um Bilingual: Schriftsatz-, Brief- und Memo-Bausteine in Wandeldarlehen-Lebenszyklus geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik._
+_Für Beurkundungsprüfung: Livequellen- und Rechtsprechungscheck: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Schnittstellenkarte mit Zuständigkeits- und Nachweisfragen._
 
-# Bilingual: Schriftsatz-, Brief- und Memo-Bausteine
+# Beurkundungspruefung: Livequellen- und Rechtsprechungscheck
+
+## Aufgabe
+Dieser Skill ist ein konkreter Fachbaustein für `wandeldarlehen-lebenszyklus`. Ausgangspunkt ist: Begleitet den vollständigen Lebenszyklus eines Wandeldarlehens für GmbH und UG: Vertragserstellung (bilingual/einsprachig), Beurkundungsprüfung, Wandelereignisse, Wandlungsberechnung, Cap-Table-Update, Gesellschafterbeschluss und Notar-Paket.
+
+Er führt durch **Livequellen- und Rechtsprechungscheck** im Themenfeld **Beurkundungspruefung**. Ziel ist nicht ein abstrakter Lexikontext, sondern ein belastbares Arbeitsprodukt für die nächste anwaltliche, behördliche, gerichtliche, organisatorische oder mandantenbezogene Entscheidung.
+
+
+## Fachlicher Zuschnitt
+
+- **Thema:** Beurkundungspruefung.
+- **Arbeitsfokus:** Livequellen- und Rechtsprechungscheck.
+- **Plugin-Rahmen:** Begleitet den vollständigen Lebenszyklus eines Wandeldarlehens für GmbH und UG: Vertragserstellung (bilingual/einsprachig), Beurkundungsprüfung, Wandele....
+- **Qualitätsanspruch:** Antworte nicht mit einer austauschbaren Standard-Checkliste. Nutze die Fachlogik dieses Plugins, benenne die konkret einschlägigen Normgruppen, Behörden, Register, Fristen, Dokumente oder Verfahrenshandlungen und trenne sichere Punkte von Live-Check-Bedarf.
+- **Eloquenz und Nutzen:** Führe die Nutzerin oder den Nutzer wie eine erfahrene Fachperson: kurze Orientierung, präzise Rückfragen, dann ein verwertbares Produkt mit Varianten, Gegenargumenten und nächstem Handgriff.
+
+## Kaltstart
+Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur Rückfragen, die die nächste Weiche verändern:
+
+1. Welche Rolle hat die fragende Person und wer ist Gegenüber?
+2. Welches konkrete Ziel soll erreicht oder verhindert werden?
+3. Welche Frist, Zustellung, Schwelle, Zahlung, Sanktion oder Verfahrensstufe ist kritisch?
+4. Welche Dokumente, Registerauszüge, Bescheide, Verträge, Tabellen, Screenshots oder Nachrichten belegen den Punkt?
+5. Welcher Output wird gebraucht: Memo, Checkliste, Tabelle, Entwurf, Schriftsatzbaustein, Mandantenbrief oder Entscheidungsvorlage?
+
+## Arbeitsworkflow
+1. **Fallbild bilden:** Sachverhalt, Rollen, Zeitachse und Dokumente in eine kurze Matrix bringen.
+2. **Rechtsrahmen setzen:** Normen, Zuständigkeiten, Fristen, Formfragen und Verfahrensstand zum Themenfeld **Beurkundungspruefung** prüfen.
+3. **Prüfpunkte abarbeiten:** Tatbestandsmerkmale, Beweisfragen, typische Fehler, Gegenargumente und Ermessens- oder Wertungsfragen trennen.
+4. **Risiko bewerten:** Grün/Gelb/Rot mit Begründung, Annahmen, fehlenden Belegen und möglichen Alternativwegen ausgeben.
+5. **Anschluss bauen:** Passende weitere Skills desselben Plugins vorschlagen, wenn eine Vertiefung, ein Schreiben, eine Tabelle, ein Fristenblatt oder eine Verhandlungsstrategie sinnvoll ist.
+
+## Output-Standard
+- **Kurzlage:** maximal fünf Sätze zu Ziel, Lage, Frist, Risiko und nächstem Schritt.
+- **Prüfmatrix:** Punkt, Norm/Quelle, Tatsache, Beleg, Bewertung, To-do.
+- **Arbeitsprodukt:** direkt nutzbarer Entwurf oder Baustein in der passenden Tonalität.
+- **Qualitätsgate:** keine Scheingenauigkeit; Lücken, Annahmen und Live-Check-Bedarf ausdrücklich markieren.
+
+<!-- BEGIN ausformulierungspflicht (autogen) -->
+> **Ausformulierungspflicht und Formatstandard.** Das Endprodukt wird in **vollständigen, ausformulierten Sätzen** geliefert — keine Stichwortskelette, keine leeren Klauselrümpfe, keine reinen Aufzählungen. Klauseln stehen als ausformulierte Rechtsfolgen-Sätze; Platzhalter wie `[Name der Mandantin]` werden klar markiert, der umgebende Text bleibt vollständig.
+>
+> **Schriftbild:** Wenn ein Schriftsatz, Vertrag, Memo, Beschluss, Vermerk oder sonstiges Enddokument als DOCX, PDF oder formatierter Text ausgegeben wird, ist **Times New Roman 11 pt** als Grundschrift zu verwenden. Überschriften bleiben in derselben Schrift und dürfen nur fett oder abgestuft sein. Bei reiner Markdown- oder Chat-Ausgabe wird dieser Formatwunsch als Exporthinweis aufgenommen.
+>
+> **Nummerierung:** Gliederung ausschließlich dezimal (`1`, `1.1`, `1.1.1` und so weiter). Keine römischen Ziffern, keine Buchstaben- oder Mischgliederung.
+<!-- END ausformulierungspflicht (autogen) -->
+
+## Quellenregel
+- Aktuelle Normen, Behördenhinweise, Gerichtsseiten, Register, Formulare und EU-/Landesrecht live prüfen, wenn sie für das Ergebnis tragend sind.
+- Rechtsprechung nur mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle ausgeben.
+- Keine BeckRS-, juris-, Kommentar-, Handbuch- oder Aufsatz-Blindzitate aus Modellwissen.
+- Paywall-Literatur nur verwerten, wenn sie von der Nutzerin oder dem Nutzer als Text bereitgestellt wurde; dann nicht als frei verifizierte Quelle ausgeben.
+
+---
+
+## Skill: `workflow-kaltstart-und-routing`
+
+_Für Kaltstart und Routing: routet Rolle, Frist, Unterlagen und Fachschritt; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt. Fachgebiet: Wandeldarlehen-Lebenszyklus._
+
+# Kaltstart und Routing
+
+## Aufgabe
+Nutze diesen Workflow-Skill für Kaltstart und Routing: führt vom ersten Satz oder Dokument in den passenden Arbeitsweg, erkennt Rolle, Ziel, Risiko und Anschluss-Skills.
+
+## Kaltstart
+Wenn Material vorliegt, arbeite zuerst mit dem Material. Stelle nur Rückfragen, die für die nächste Weiche nötig sind:
+
+1. Wer fragt in welcher Rolle?
+2. Was ist das gewünschte Ergebnis?
+3. Gibt es Fristen, Termine, Zustellungen, Zahlungen oder Sanktionen?
+4. Welche Unterlagen, Daten oder Belege liegen bereits vor?
+
+## Arbeitsworkflow
+1. Rolle, Ziel, Frist und Unterlagenlage in höchstens fünf Fragen klären.
+2. Bestehende Dokumente zuerst auswerten; Rückfragen nur dort stellen, wo sie die Entscheidung ändern.
+3. Passende Spezialskills aus diesem Plugin vorschlagen und begründen.
+4. Ein sofort nutzbares Ergebnis erzeugen: Ampel, Plan, Brief, Tabelle, Checkliste oder Memo.
+
+## Output-Standard
+- Kurzbild: worum es geht, was gesichert ist, was offen ist.
+- Prüf- oder Bearbeitungsmatrix mit den entscheidenden Punkten.
+- Konkreter nächster Schritt mit Frist, Zuständigkeit und Unterlagen.
+- Bei Außenkommunikation: knapper, sachlicher Textbaustein ohne unnötige Nebenangaben.
+
+## Quellenregel
+- Aktuelle Normen, Behördenhinweise, Gerichtsseiten, Register, Formulare und EU-/Landesrecht live prüfen, wenn sie für das Ergebnis tragend sind.
+- Rechtsprechung nur mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle ausgeben.
+- Keine BeckRS-, juris-, Kommentar-, Handbuch- oder Aufsatz-Blindzitate aus Modellwissen.
+- Unsicherheiten und Annahmen ausdrücklich markieren.
+
+## Wandeldarlehen — Lebenszyklus-Weichen
+- **Struktur:** Convertible Loan Agreement (CLA) vs. SAFE (Simple Agreement for Future Equity, Y-Combinator-Form, in DE rechtlich nicht 1:1 umsetzbar). Im DE-Recht: Darlehen (§§ 488 ff. BGB) mit Wandlungsrecht in Anteile (§ 55 GmbHG bzw. § 182 AktG).
+- **Wandlungsmechanik:** Discount (typisch 15-25 %), Valuation Cap, Trigger (Qualified Financing, Liquidity Event, Maturity, Wandlung auf Anlass). Bei GmbH formbedürftig: Anteilsübertragung notariell (§ 15 III GmbHG); Kapitalerhöhung mit Notar.
+- **Steuerfolgen:** KapSt auf Zinsen (§§ 20 I Nr. 7, 43 EStG), Wandlung in Anteile als tauschähnlich (§ 6 EStG), § 17 EStG bei Anteilsveräußerung. Bei Sachgründung/Sachkapitalerhöhung Werthaltigkeitsbescheinigung.
+- **Insolvenzfeste Strukturierung:** Wandelbeschluss mit aufschiebender Bedingung; Rangrücktritt § 39 II InsO; bei drohender Insolvenz § 1 StaRUG erwägen.
+- **Frist:** Maturity 12-36 Monate marktüblich; Wandlung an Closing der nächsten Runde geknüpft; Beurkundungstermin Notar 1-2 Wochen Vorlauf.
+- Falle: SAFE 1:1 in DE eingesetzt — funktioniert wegen Form- und Bilanzierungs-Hürden nicht ohne Anpassung; lieber CLA mit deutscher Notarpflicht-Architektur.
+
+---
+
+## Skill: `wandeldarlehens-wandelereignisse`
+
+_Für Wandeldarlehens: Dokumentenmatrix, Lückenliste und Nachforderung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt._
+
+# Wandeldarlehens: Dokumentenmatrix, Lückenliste und Nachforderung
 
 ## Normenanker
 
@@ -711,7 +764,7 @@ Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei pr
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
-## Spezialwissen: Bilingual: Schriftsatz-, Brief- und Memo-Bausteine
+## Spezialwissen: Wandeldarlehens: Dokumentenmatrix, Lückenliste und Nachforderung
 - **Normen-/Quellenanker:** UG/GmbH ist Gesellschaftsform, keine Einzelquelle. Prüfe GmbHG §§ 5a, 7, 8, 16, 19, 55 ff.; BGB §§ 488 ff. und 311; ggf. WpPG/VermAnlG/KAGB, GwG, Steuerrecht und notarielle/registerrechtliche Anforderungen live.
 
 ## Fallweichen
@@ -725,228 +778,16 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 
 ## Arbeitsworkflow
 1. **Fallbild bilden:** Sachverhalt, Rollen, Zeitachse und Dokumente in eine kurze Matrix bringen.
-2. **Rechtsrahmen setzen:** Normen, Zuständigkeiten, Fristen, Formfragen und Verfahrensstand zum Themenfeld **Bilingual** prüfen.
+2. **Rechtsrahmen setzen:** Normen, Zuständigkeiten, Fristen, Formfragen und Verfahrensstand zum Themenfeld **Wandeldarlehens** prüfen.
 3. **Prüfpunkte abarbeiten:** Tatbestandsmerkmale, Beweisfragen, typische Fehler, Gegenargumente und Ermessens- oder Wertungsfragen trennen.
 4. **Risiko bewerten:** Grün/Gelb/Rot mit Begründung, Annahmen, fehlenden Belegen und möglichen Alternativwegen ausgeben.
 5. **Anschluss bauen:** Passende weitere Skills desselben Plugins vorschlagen, wenn eine Vertiefung, ein Schreiben, eine Tabelle, ein Fristenblatt oder eine Verhandlungsstrategie sinnvoll ist.
 
 ---
 
-## Skill: `rangruecktritt-formulieren`
-
-_Wenn es um Qualifizierten Rangrücktritt formulieren in Wandeldarlehen-Lebenszyklus geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen._
-
-# Qualifizierten Rangrücktritt formulieren
-
-## Arbeitsweg
-
-- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
-- Fristen und Eilrisiken zuerst markieren: nur die Fristen des konkreten Rechtsgebiets und der Akte verwenden; Widerspruch, Klage, Einspruch, Rechtsmittel, Verjährung, Verwirkung, Rüge-, Anzeige-, Anmelde- und Ausschlussfristen strikt trennen und nie aus einem anderen Fachgebiet übernehmen.
-- Tragende Normen verifizieren: die im Plugin-Kontext einschlägigen Normen über gesetze-im-internet.de, dejure.org, eur-lex.europa.eu und die amtlichen Bundes-/Landesportale live prüfen — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
-- Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
-- Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
-
-## Zweck
-
-Formuliert den qualifizierten Rangrücktritt für § 6 des Wandeldarlehensvertrags. Er stellt sicher, dass die Klausel sowohl die insolvenzliche Subordination (§ 39 Abs. 2 InsO) als auch die vorinsolvenzliche Durchsetzungssperre nach BGH-Rechtsprechung enthält und bilanzielle Entlastungswirkung erzielt. Phase A des Lebenszyklus.
-
-## Eingaben
-
-- Beteiligte Parteien (Darlehensgeber, Gesellschaft, Geschäftsführerinnen)
-- Betrag des Wandeldarlehens und aufgelaufene Zinsen als Nachrangforderungen
-- Gewünschte Reichweite: Zinsen miterfasst? Schadensersatz miterfasst?
-- GIRA-Bestätigung an Wirtschaftsprüfer gewünscht?
-- Bestehende Insolvenzreife der Gesellschaft bekannt?
-
-## Rechtlicher Rahmen
-
-### Primärnormen
-- § 19 Abs. 2 Satz 2 InsO (Qualifizierter Rangrücktritt im Überschuldungsstatus)
-- § 39 Abs. 1 Nr. 5 InsO (Nachrang eigenkapitalersetzender Gesellschafterdarlehen)
-- § 39 Abs. 2 InsO (Vereinbarter Nachrang)
-- § 15a InsO (Insolvenzantragspflicht – bleibt unberührt; nach SanInsFoG 2020/2021 erweitert auf alle juristischen Personen)
-- § 15b InsO (Zahlungsverbote nach Insolvenzreife — durch SanInsFoG eingefügt, hat den früheren § 64 GmbHG abgelöst; Schutzklausel zwingend, da Geschäftsführerhaftung jetzt allein über § 15b InsO greift)
-- § 17 InsO (Zahlungsunfähigkeit), § 19 InsO (Überschuldung; Prognosezeitraum modifiziert durch SanInsKG/SanInsFoG)
-- § 44 InsO (Unwirksamkeit von Lösungsklauseln)
-- § 328 BGB (Vertrag zugunsten Dritter – Aufhebungsverbot)
-
-### Rechtsprechung
-- BGH, Urteil vom 05.03.2015 - IX ZR 133/14: Rangrücktritt als Schuldänderungsvertrag und Vertrag zugunsten der Gläubigergesamtheit; Aufhebung ab Insolvenzreife nicht zulasten der übrigen Gläubiger.
-- BGH, Urteil vom 06.12.2018 - IX ZR 143/17: vorinsolvenzliche Durchsetzungssperre muss die Insolvenzgründe erfassen; Nachrangabrede kann als Hauptleistungsabrede AGB-fest sein.
-- BGH, Urteil vom 24.02.2022 - IX ZR 250/20: Durchsetzungssperre beeinflusst Fälligkeit, Kenntnis der Zahlungsunfähigkeit und Anfechtungsrisiko.
-- BFH, Urteil vom 10.08.2016 - I R 25/15; BFH, Urteil vom 19.08.2020 - XI R 32/18: steuerliche Passivierung hängt an der Rückzahlungsquelle; freies Vermögen und freie Liquiditätsüberschüsse bewusst formulieren.
-
-## Vorgehen
-
-### 1. Insolvenzliche Subordination formulieren
-Der Darlehensgeber tritt mit allen Nachrangforderungen (Rückzahlung, Zinsen, Schadensersatz) gemäß § 39 Abs. 2 InsO hinter alle Forderungen i.S.d. §§ 38 und 39 Abs. 1 Nr. 1 bis 5 InsO zurück. In einem Insolvenzverfahren: Befriedigungsrang § 39 Abs. 2 InsO.
-
-### 2. Vorinsolvenzliche Durchsetzungssperre
-Die Klausel muss vor Verfahrenseröffnung jede Zahlung sperren, soweit sie Zahlungsunfähigkeit oder Überschuldung herbeiführt, vertieft oder wieder aufleben lässt. Zahlung darf nur aus freiem Vermögen oder freien Liquiditätsüberschüssen erfolgen, nachdem die vorrangigen fälligen Verbindlichkeiten einschließlich des Drei-Wochen-Fensters bedient werden können.
-
-### 3. Klarstellungsklausel (BGH-Konformität)
-Ausdrückliche Klarstellung, dass es sich um einen qualifizierten Rangrücktritt i.S.d. BGH-Rechtsprechung handelt, geeignet zur Beseitigung der Überschuldung gemäß § 19 Abs. 2 Satz 2 InsO.
-
-### 4. Aufhebungsverbot und Gläubigerschutz
-Rangrücktritt als Vertrag zugunsten der Gläubigergesamtheit ausgestalten. Aufhebung oder Lockerung nur, wenn keine Insolvenzreife besteht und durch die Änderung keine Insolvenzreife entsteht. In der Krise keine bilaterale Rückabwicklung zwischen Darlehensgeber und Gesellschaft zulasten der übrigen Gläubiger.
-
-### 5. § 15b InsO-Schutzklausel
-Gesellschaft und Geschäftsführerinnen sind nicht zur Rückzahlung verpflichtet, soweit dies persönliche Haftung nach § 15b InsO auslösen würde. Bei verbotswidriger Rückzahlung: Rückgewährpflicht auf erstes Anfordern. Hintergrund: § 15b InsO wurde durch das SanInsFoG (Inkrafttreten 1.1.2021) eingefügt und löste § 64 GmbHG a.F. (Massesicherungspflicht) ab; die GF-Haftung für "verbotswidrige Zahlungen nach Insolvenzreife" knüpft seit der Reform allein an die InsO an. Klausel daher zwingend, sonst GF-persönliches Risiko.
-
-### 6. GIRA-Bestätigungstext vorbereiten
-Für den Wirtschaftsprüfer: kurze Bestätigungserklärung, dass qualifizierter Rangrücktritt vorliegt und Nachrangforderungen im Überschuldungsstatus nicht zu berücksichtigen sind (§ 19 Abs. 2 Satz 2 InsO; IDW S 11 Rn. 23 ff.).
-
-## Beispielklausel (verkürzt)
-
-```
-§ 6.2 Vorinsolvenzliche Durchsetzungssperre. Außerhalb eines Insolvenzverfahrens darf der
-Darlehensgeber Befriedigung der Nachrangforderungen nur aus sonstigem freien Vermögen
-oder freien Liquiditätsüberschüssen der Gesellschaft verlangen. Frei ist Vermögen nur, soweit
-nach der Zahlung sämtliche gegenwärtigen und im Drei-Wochen-Zeitraum fällig werdenden
-Verbindlichkeiten gegenüber vorrangigen Gläubigern bedient werden können. Eine Zahlung
-ist ausgeschlossen, wenn sie Zahlungsunfähigkeit oder Überschuldung verursacht, vertieft
-oder wieder aufleben lässt.
-
-6.3 Gläubigerschutz. Diese Rangrücktrittsvereinbarung wird zugunsten der Gläubigergesamtheit
-geschlossen. Solange Insolvenzreife besteht oder durch eine Änderung eintreten würde, kann
-die Vereinbarung nicht allein durch Abrede zwischen Gesellschaft und Darlehensgeber aufgehoben
-oder abgeschwächt werden.
-```
-
-## Risiken und Red Flags
-
-| Konstellation | Rot | Orange | Grün |
-|---|---|---|---|
-| Keine vorinsolvenzliche Durchsetzungssperre | Rangrücktritt nur insolvenzrechtlich, nicht bilanziell wirksam | Klausel unklar formuliert | BGH-konforme Klausel vorhanden |
-| Zinsen nicht in Nachrangforderungen einbezogen | Zinsen weiter fällig in Krise | Zinsen teilweise erfasst | Zinsen vollständig einbezogen |
-| Aufhebungsverbot fehlt | Gläubiger nicht geschützt | Aufhebungsverbot nur schuldrechtlich | Vertrag zugunsten der Gläubigergesamtheit |
-| Rückzahlungsquelle nur Gewinn/Liquidation | Steuerliche Ausbuchungsgefahr | Freies Vermögen unklar | Freies Vermögen und freie Liquiditätsüberschüsse präzise |
-| § 15b InsO-Klausel fehlt | GF-Haftungsrisiko | Klausel unvollständig | Vollständige Schutzklausel |
-
-## Quellen und Updates
-
-Stand: 05/2026.
-- § 19 II 2 InsO (qualifizierter Rangrücktritt im Ueberschuldungsstatus): https://www.gesetze-im-internet.de/inso/__19.html
-- § 39 I Nr. 5 InsO (Gesellschafterdarlehen-Nachrang): https://www.gesetze-im-internet.de/inso/__39.html
-- § 39 II InsO (vereinbarter Nachrang): https://www.gesetze-im-internet.de/inso/__39.html
-- § 15a InsO (Insolvenzantragspflicht, Hoechstfristen 3 Wochen ZU / 6 Wochen UE seit SanInsFoG): https://www.gesetze-im-internet.de/inso/__15a.html
-- § 15b InsO (rechtsformneutrales Zahlungsverbot bei Insolvenzreife seit 01.01.2021 durch SanInsFoG, BGBl. I 2020, 3256; ersetzt § 64 GmbHG a.F. und § 92 II AktG a.F.): https://www.gesetze-im-internet.de/inso/__15b.html
-- SanInsFoG-Gesetzgebungsmaterialien: https://www.bgbl.de/xaver/bgbl/start.xav?startbk=Bundesanzeiger_BGBl&start=//*[@attr_id=%27bgbl120s3256.pdf%27]
-- Rechtsprechung im Uebrigen: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugaengliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-
----
-
-## Skill: `beurkundungspruefung-quellenkarte-check`
-
-_Wenn es um Beurkundungspruefung Quellenkarte Check in Wandeldarlehen-Lebenszyklus geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen._
-
-# Beurkundungspruefung Quellenkarte Check
-
-## Einsatzlage
-
-Diese Quellenkarte sichert im Bereich **Wandeldarlehen Lebenszyklus** tragende Normen, Rechtsprechung, Behördenpraxis, Register, Formulare und aktuelle Leitlinien ab.
-
-## Suchraster
-
-- `bilingual-einsprachig`
-- `cap-table-darlehenshoehe-konditionen`
-- `dokumenten-upload-formfehler-heilungs`
-- `einsprachige-vertragsfassung-vertragserstellung`
-- `gesellschafterbeschluss-kapitalerhoehung-vorbereiten`
-- `gesellschafterliste-aktualisieren-gesellschafterversammlung`
-- `gmbh-vollstaendigen`
-- `handelsregisteranmeldung-kapitalerhoehung-kyc-aml`
-- `lebenszyklus-bilinguale-vertragserstellung`
-- `mandat-triage-mehrere-parallel`
-- `notar-paket-parteien-erfassen`
-- `post-eintragung-rangruecktritt-formulieren`
-
-## Prüfroute
-
-1. Normenstand über amtliche oder frei zugängliche Primärquellen sichern.
-2. Rechtsprechung nach passendem Gericht, Datum, Aktenzeichen und Entscheidungsform suchen.
-3. Behördenpraxis, Formulare, Verwaltungshinweise und Register nur mit Quellenstand ausgeben.
-4. Ergebnis als Quellenmatrix dokumentieren: Aussage, Quelle, Stand, Tragweite, Unsicherheit.
-
-## Fehlerbremse
-
-- Keine BeckRS- oder juris-Blindzitate aus Modellwissen.
-- Keine Literaturfundstellen behaupten, die nicht aus Nutzerquelle oder frei prüfbarer Quelle stammen.
-- Bei dynamischen Materien immer sagen, ob der Stand live geprüft wurde.
-- Quellenhygiene: `references/quellenhygiene.md`; Zitierweise: `references/zitierweise.md`.
-
----
-
-## Skill: `unterzeichnung-elektronisch-wandelereignis`
-
-_Wenn es um Elektronische Unterzeichnung (DocuSign / Adobe Sign) in Wandeldarlehen-Lebenszyklus geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt._
-
-# Elektronische Unterzeichnung (DocuSign / Adobe Sign)
-
-## Arbeitsweg
-
-- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
-- Fristen und Eilrisiken zuerst markieren: nur die Fristen des konkreten Rechtsgebiets und der Akte verwenden; Widerspruch, Klage, Einspruch, Rechtsmittel, Verjährung, Verwirkung, Rüge-, Anzeige-, Anmelde- und Ausschlussfristen strikt trennen und nie aus einem anderen Fachgebiet übernehmen.
-- Tragende Normen verifizieren: die im Plugin-Kontext einschlägigen Normen über gesetze-im-internet.de, dejure.org, eur-lex.europa.eu und die amtlichen Bundes-/Landesportale live prüfen — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
-- Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
-- Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
-
-## Eingaben
-
-- Unterzeichner (Name, E-Mail-Adresse, Mobilnummer für SMS-OTP)
-- Gewünschte Authentifizierungsstufe (E-Mail-OTP, SMS-OTP, QES nach eIDAS)
-- Unterzeichnungsreihenfolge (z. B. erst Gesellschaft, dann Gesellschafterinnen, zuletzt Lender)
-- Frist für Unterzeichnung (z. B. sieben Bankarbeitstage)
-- Archivierungspflicht: zehn Jahre für steuerrelevante Dokumente (§ 147 AO)
-
-## Rechtlicher Rahmen
-
-### Primärnormen
-- § 126b BGB (Textform ausreichend; DocuSign erfüllt dies)
-- § 126a BGB (Elektronische Form mit QES – höhere Stufe, nicht erforderlich für Wandeldarlehen)
-- Art. 26 ff. eIDAS-VO 910/2014 (Anforderungen an elektronische Signaturen)
-- § 147 AO (Aufbewahrungspflicht steuerrelevanter Unterlagen zehn Jahre)
-- § 257 HGB (Aufbewahrungspflicht handelsrelevanter Unterlagen sechs Jahre)
-
-## Checkliste Unterzeichnungsrunde
-
-| Schritt | Erledigt |
-|---|---|
-| PDF final, keine Platzhalter | [ ] |
-| Alle E-Mail-Adressen geprüft | [ ] |
-| Mobilnummern für SMS-OTP vorhanden | [ ] |
-| Reihenfolge korrekt konfiguriert | [ ] |
-| Ablaufdatum gesetzt | [ ] |
-| Erinnerungsintervalle konfiguriert | [ ] |
-| Audit Trail archiviert | [ ] |
-| Alle Parteien haben signiertes PDF | [ ] |
-
-## Risiken und Red Flags
-
-| Konstellation | Rot | Orange | Grün |
-|---|---|---|---|
-| Unterzeichner nicht authentifiziert | Identitätszweifel, Anfechtungsrisiko | Nur E-Mail-OTP | SMS-OTP oder QES |
-| Kein Audit Trail gespeichert | Beweisnot bei Streit | Audit Trail unvollständig | Vollständiger Trail archiviert |
-| Aufbewahrung unter zehn Jahre | § 147 AO-Verstoß | Sechs Jahre | Zehn Jahre |
-| Falsches Dokument (Entwurf) unterzeichnet | Streit über Vertragsinhalt | Versionsverwechslung möglich | Nur finale PDF |
-
-## Quellen und Updates
-
-Stand: 05/2026. eIDAS-VO 910/2014; § 147 AO. Bei Änderung eIDAS 2.0 (VO 2024/1183) aktualisieren.
-
-## Vertiefung — Aktuelle Rechtsprechung
-
-### Normen-Ergänzung
-
-§ 126 BGB (Schriftform) → § 126a BGB (elektronische Form, QES) → § 126b BGB (Textform) → Art. 3 Nr. 12, Art. 25, 26 eIDAS-VO (qualifizierte elektronische Signatur) → § 15 Abs. 3, 4 GmbHG (notarielle Form bei GmbH-Anteilsverträgen, kein elektronischer Ersatz)
-
-> Quellenregel: Entscheidungen nur nach Prüfung einer amtlichen oder frei zugänglichen Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage ausgeben.
-
----
-
 ## Skill: `wandelereignisse-zahlen-schwellen-und-berechnung`
 
-_Wenn es um Wandelereignisse: Zahlen, Schwellenwerte und Berechnung in Wandeldarlehen-Lebenszyklus geht: rechnet Schwellen, Beträge, Varianten und Kontrollannahmen durch; liefert eine Berechnungstabelle mit Schwellen, Annahmen und Kontrollfragen._
+_Für Wandelereignisse: Zahlen, Schwellenwerte und Berechnung: rechnet Beträge, Schwellen und Varianten; Ergebnis: Berechnungstabelle mit Annahmen und Kontrollfragen._
 
 # Wandelereignisse: Zahlen, Schwellenwerte und Berechnung
 
@@ -994,43 +835,11 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 
 ---
 
-## Skill: `wandlungsausloeser-cap-discount-textform`
+## Skill: `gesellschafterbeschluss-kapitalerhoehung`
 
-_Wenn es um Wandlungsauslöser, Cap und Discount sauber berechnen in Wandeldarlehen-Lebenszyklus geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen._
+_Für Gesellschafterbeschluss – Kapitalerhöhung gegen Sacheinlage: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt._
 
-# Wandlungsauslöser, Cap und Discount sauber berechnen
-
-## Arbeitsweg
-
-- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
-- Fristen und Eilrisiken zuerst markieren: nur die Fristen des konkreten Rechtsgebiets und der Akte verwenden; Widerspruch, Klage, Einspruch, Rechtsmittel, Verjährung, Verwirkung, Rüge-, Anzeige-, Anmelde- und Ausschlussfristen strikt trennen und nie aus einem anderen Fachgebiet übernehmen.
-- Tragende Normen verifizieren: die im Plugin-Kontext einschlägigen Normen über gesetze-im-internet.de, dejure.org, eur-lex.europa.eu und die amtlichen Bundes-/Landesportale live prüfen — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
-- Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
-- Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
-
-## Einstieg
-Wenn Material vorliegt, nutze es zuerst. Frage nur nach, was für die nächste Entscheidung fehlt:
-
-1. Wer handelt in welcher Rolle und gegen wen?
-2. Welches praktische Ziel soll erreicht werden?
-3. Welche Fristen, Termine, Zustellungen, Schwellenwerte oder Sanktionen stehen im Raum?
-4. Welche Unterlagen, Daten, Registerauszüge, Bescheide, Verträge, Screenshots oder sonstigen Belege liegen vor?
-5. Soll der Output intern, für Mandantschaft, Behörde, Gericht, Gegnerseite oder Gremium formuliert werden?
-
-## Arbeitsworkflow
-1. **Sortieren:** Sachverhalt, Dokumente und offene Punkte in eine knappe Fallmatrix bringen.
-2. **Rechtsrahmen:** Einschlägige Normen, Zuständigkeiten, Verfahren, Fristen und formelle Anforderungen live prüfen, soweit Aktualität tragend ist.
-3. **Materielle Weichen:** Die Kernfragen zu **Wandlungsauslöser, Cap und Discount sauber berechnen** mit Tatbestandsmerkmalen, Belegen, Gegenargumenten und typischen Praxisfehlern abarbeiten.
-4. **Risikoampel:** Ergebnis in Grün/Gelb/Rot mit Begründung, Unsicherheiten und Beweisbedarf einordnen.
-5. **Anschluss:** Passende weitere Skills desselben Plugins vorschlagen, wenn Spezialprüfung, Schriftsatz, Tabelle, Brief oder Verhandlungsstrategie sinnvoll ist.
-
----
-
-## Skill: `dokumenten-upload-formfehler-heilungs`
-
-_Wenn es um Dokumenten-Upload und Datenextraktion in Wandeldarlehen-Lebenszyklus geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik._
-
-# Dokumenten-Upload und Datenextraktion
+# Gesellschafterbeschluss – Kapitalerhöhung gegen Sacheinlage
 
 ## Arbeitsweg
 
@@ -1042,148 +851,153 @@ _Wenn es um Dokumenten-Upload und Datenextraktion in Wandeldarlehen-Lebenszyklus
 
 ## Eingaben
 
-- Hochgeladene Dokumente: Term Sheet, Share Purchase Agreement (SPA), Investor Rights Agreement (IRA), Shareholders Agreement (SHA), Beteiligungsvertrag
-- Gesuchte Parameter: Pre-Money, Post-Money, Investitionsvolumen, Anteilsklassen, Nennwert, Vesting, ESOP, Liquidationspräferenzen, Anti-Dilution
+- Wandlungsberechnung (neue Anteile, Nennbetrag, Wandlungssumme) aus `wandlungspreis-berechnung`
+- Lender (Name, Anschrift, Vertreter)
+- Stammkapital vor und nach Kapitalerhöhung
+- Sacheinlage: Forderung aus Wandeldarlehen (Betrag gesamt)
+- Notar: Name, Amtssitz
+- Sacheinlagebericht (Entwurf, aus `sacheinlagebericht-werthaltigkeit`)
 
 ## Rechtlicher Rahmen
 
 ### Primärnormen
-- § 15 GmbHG (Anteilsklassen und Übertragung)
-- § 272 HGB (Eigenkapitalausweis nach Klassen)
-- § 194 AktG analog (Wandelschuldverschreibungen und Klassen – Orientierung)
-
-## Beispiel-Extrakt Term Sheet
-
-| Parameter | Wert | Quelle |
-|---|---|---|
-| Pre-Money-Bewertung | EUR 6000000 | Term Sheet Cl. 2.1 |
-| Investitionsvolumen | EUR 1000000 | Term Sheet Cl. 2.1 |
-| Anteilsklassen | Ordinary + Series A Preferred | Term Sheet Cl. 3 |
-| Liquidationspräferenz Series A | 1x non-participating | Term Sheet Cl. 4 |
-| ESOP-Pool | zehn Prozent (post-money) | Term Sheet Cl. 5 |
-| Anti-Dilution | Broad-based weighted average | Term Sheet Cl. 6 |
-| Qualifiziertes Financing nach WDV | Pre-Money ≥ EUR 4 Mio, Vol. ≥ EUR 500000 | WDV § 4.2 lit. a |
-| Ist Qualified Financing? | Ja (beide Schwellen erfüllt) | Prüfung |
-
-## Risiken und Red Flags
-
-| Konstellation | Rot | Orange | Grün |
-|---|---|---|---|
-| Term Sheet nur als Absichtserklärung | Zahlen unverbindlich | Term Sheet mit Bindungswirkung unklar | Verbindliches Term Sheet |
-| ESOP-Pool post-money ohne Klarstellung | Vollverwässerte Basis falsch berechnet | Unklar ob pre/post | Eindeutig pre-money |
-| Liquidationspräferenz höher als 1x | Lender-Barausschüttung bevorzugt | Participating Preferred | Non-participating 1x |
-| Kein Pre-Money im Dokument | Berechnung nicht möglich | Nur Post-Money | Pre-Money explizit |
-
-## Quellen und Updates
-
-Stand: 05/2026. Bei Änderung GmbHG/HGB-Eigenkapitalausweis aktualisieren.
-
-## Vertiefung — Relevante Normen
-
-### Normen
-
-§ 12 HGB i.V.m. § 12 HRV (elektronische Einreichung Handelsregister) → Art. 25 eIDAS-VO (qualifizierte elektronische Signatur) → § 378 FamFG (Zurückweisung bei Formmängeln) → § 40 GmbHG (Einreichungspflicht Gesellschafterliste)
-
-> Quellenregel: Entscheidungen nur nach Prüfung einer amtlichen oder frei zugänglichen Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage ausgeben.
-
----
-
-## Skill: `wandlungspruefung-trigger-qualified-financing`
-
-_Wenn es um Wandlungsprüfung – Trigger Qualified Financing in Wandeldarlehen-Lebenszyklus geht: rechnet Schwellen, Beträge, Varianten und Kontrollannahmen durch; liefert eine Berechnungstabelle mit Schwellen, Annahmen und Kontrollfragen._
-
-# Wandlungsprüfung – Trigger Qualified Financing
-
-## Arbeitsweg
-
-- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
-- Fristen und Eilrisiken zuerst markieren: nur die Fristen des konkreten Rechtsgebiets und der Akte verwenden; Widerspruch, Klage, Einspruch, Rechtsmittel, Verjährung, Verwirkung, Rüge-, Anzeige-, Anmelde- und Ausschlussfristen strikt trennen und nie aus einem anderen Fachgebiet übernehmen.
-- Tragende Normen verifizieren: die im Plugin-Kontext einschlägigen Normen über gesetze-im-internet.de, dejure.org, eur-lex.europa.eu und die amtlichen Bundes-/Landesportale live prüfen — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
-- Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
-- Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
-
-## Eingaben
-
-- Wandeldarlehensvertrag (§ 4.2 lit. a, § 4.5)
-- Vertragliche Schwellenwerte: Mindest-Pre-Money-Bewertung, Mindest-Investitionsvolumen
-- Term Sheet oder Beteiligungsvertrag der Finanzierungsrunde mit: Pre-Money-Bewertung, Investitionsvolumen, Anteilszahl vor Runde (vollverwässert)
-- Valuation Cap und Discount aus Wandeldarlehen
-- Darlehensbetrag + aufgelaufene Zinsen (Stichtag)
-
-## Rechtlicher Rahmen
-
-### Primärnormen
-- § 4.2 lit. a Wandeldarlehensvertrag (Qualified Financing als Wandlungsereignis)
-- § 55 Abs. 1 GmbHG (Kapitalerhöhungsbeschluss – Voraussetzung für Wandlung)
-- § 5 Abs. 1 GmbHG (Mindestnennbetrag Anteil EUR 1)
-- § 272 Abs. 2 Nr. 4 HGB (Einlage in Kapitalrücklage)
+- Paragraf 53 Absatz 2 GmbHG (Dreiviertelmehrheit für die Satzungsänderung) und Absatz 3 GmbHG (notarielle Beurkundung des Beschlusses)
+- § 55 Abs. 1 GmbHG (Kapitalerhöhungsbeschluss – Zulassung neuer Gesellschafter)
+- Paragraf 55 Absatz 1 GmbHG (notariell aufgenommene oder beglaubigte Übernahmeerklärung für den neuen Geschäftsanteil)
+- § 56 GmbHG (Sacheinlage: Leistung vor Anmeldung zum Handelsregister)
+- § 56a GmbHG (Sachgründungsbericht / Sacheinlagebericht)
+- § 9 GmbHG (Differenzhaftung bei Überbewertung)
 
 ## Vorgehen
 
-### 1. Schwellentest Qualified Financing
-Prüfe: Ist Pre-Money-Bewertung der Runde ≥ vertraglich vereinbartem Mindestwert? Ist Investitionsvolumen ≥ vertraglich vereinbartem Mindestvolumen? Investition ohne Berücksichtigung dieses Wandeldarlehens? Wenn beide Ja: Qualified Financing liegt vor.
+### 1. Beschlussstruktur festlegen
+Notarielle Beurkundung nach Paragraf 53 Absatz 3 GmbHG ist zwingend. Beschlussinhalt: Kapitalerhöhung, gegebenenfalls Bezugsrechtsausschluss, Zulassung des Darlehensgebers und Satzungsänderung. Die Übernahmeerklärung richtet sich nach Paragraf 55 Absatz 1 GmbHG und muss notariell aufgenommen oder beglaubigt werden.
 
-### 2. Vollverwässerte Anteile vor Runde berechnen
-Anteile vor Runde = Stammkapital + ESOP/Optionspool (vollverwässert). Bei Sonnenglas: 100 Anteile (40 + 35 + 25).
+### 2. Beschlusstext ausarbeiten
+"Die Gesellschafterinnen beschließen mit der erforderlichen Mehrheit von drei Vierteln der abgegebenen Stimmen die Erhöhung des Stammkapitals der Gesellschaft von EUR [alt] um EUR [Erhöhungsbetrag] auf EUR [neu] durch Ausgabe von [Anzahl] neuen Geschäftsanteilen mit einem Nennbetrag von je EUR 1,00 gegen Einbringung der Forderung aus dem Wandeldarlehensvertrag vom [Datum] in Höhe von EUR [Wandlungssumme] als Sacheinlage."
 
-### 3. Wandlungspreis berechnen (MIN-Methode)
-Preis A (Rundenpreis) = Pre-Money / Anteile vor Runde.
-Preis B (Discount-Preis) = (1 − Discount) × Pre-Money / Anteile vor Runde.
-Preis C (Cap-Preis) = Cap / Anteile vor Runde.
-Wandlungspreis = MIN(Preis A, Preis B, Preis C).
+### 3. Bezugsrechtsverzicht formulieren
+"Die Altgesellschafterinnen verzichten hiermit auf ihr Bezugsrecht an den neuen Geschäftsanteilen und stimmen der Zulassung von [Lender] zur Übernahme der neuen Geschäftsanteile zu."
 
-### 4. Anzahl neue Anteile berechnen
-Wandlungssumme C = Darlehen + aufgelaufene Zinsen.
-Anzahl = C / Wandlungspreis (auf nächsten ganzen Anteilswert in EUR aufrunden, § 5 Abs. 1 GmbHG).
+### 4. Übernahmeerklärung des Darlehensgebers nach Paragraf 55 Absatz 1 GmbHG
+Lender erklärt notariell die Übernahme der neuen Geschäftsanteile gegen Einbringung der Forderung. Gleichzeitig: Abtretung der Forderung an die Gesellschaft (Konfusion) oder Verzicht (§ 4.8 WDV).
 
-### 5. Wandlungsmitteilung auslösen
-Gesellschaft informiert Lender (§ 4.3): Investorenname, Pre-Money, Investitionsvolumen, Anteilsklassen. Zwei Wochen vor Durchführung.
+### 5. Sacheinlagebericht beifügen
+Werthaltigkeitsnachweis der einzubringenden Forderung (aus `sacheinlagebericht-werthaltigkeit`). Bewertungsgrundlage, Bilanzwert, ggf. Gutachten.
 
-### 6. Wandlungsoption ausgeübt?
-Lender erklärt Wandlung per Textform innerhalb eines Monats nach Wandlungsmitteilung. Dann: `gesellschafterbeschluss-kapitalerhoehung` und `notar-paket-uebermittlung`.
+### 6. Anmeldung zum Handelsregister vorbereiten
+Notar erstellt Anmeldung der Kapitalerhöhung (§ 57 GmbHG). Unterlagen: Beschluss, Übernahmeerklärung, Sacheinlagebericht, neue Gesellschafterliste, Leistungsnachweis (§ 56 GmbHG).
 
-## Beispielrechnung
+## Muster-Beschluss (Kern)
 
-| Parameter | Wert |
-|---|---|
-| Darlehensbetrag | EUR 250000 |
-| Zinsen (2 Jahre, fünf Prozent p.a.) | EUR 25694 |
-| Wandlungssumme C | EUR 275694 |
-| Anteile vor Runde (vollverwaessert) | 100 |
-| Pre-Money Seed-Runde | EUR 6000000 |
-| Preis A (Rundenpreis) | EUR 60000 je Anteil |
-| Preis B (zwanzig Prozent Discount) | EUR 48000 je Anteil |
-| Preis C (Cap EUR 4000000) | EUR 40000 je Anteil |
-| Wandlungspreis (MIN) | EUR 40000 (Cap greift) |
-| Neue Anteile | 275694 / 40000 = 6.89 → 7 |
-| Nennwert neue Anteile | EUR 7 (je EUR 1 Nennwert) |
+```
+TOP 1: Kapitalerhöhung gegen Sacheinlage
+
+Die Gesellschafterversammlung der Sonnenglas Solartechnologie UG (haftungsbeschränkt)
+beschließt einstimmig:
+
+1. Das Stammkapital der Gesellschaft wird von EUR 100 um EUR 7 auf EUR 107 erhöht
+ durch Ausgabe von 7 neuen Geschäftsanteilen mit einem Nennbetrag von je EUR 1,00.
+
+2. Die neuen Geschäftsanteile werden gegen Einbringung der Forderung der Northstar
+ Pre-Seed Partners GmbH & Co. KG aus dem Wandeldarlehensvertrag vom [Datum]
+ in Höhe von EUR 275694 als Sacheinlage ausgegeben.
+
+3. Die Altgesellschafterinnen verzichten auf ihr Bezugsrecht.
+
+4. Northstar Pre-Seed Partners GmbH & Co. KG wird zur Übernahme der 7 neuen
+ Geschäftsanteile zugelassen.
+
+[Notarielle Beurkundung durch Notar [●], [Datum]]
+```
 
 ## Risiken und Red Flags
 
 | Konstellation | Rot | Orange | Grün |
 |---|---|---|---|
-| Pre-Money Runde unter Mindest-Schwelle | Kein Qualified Financing | Grenzwertig | Klar über Schwelle |
-| Wandlungsmitteilung nicht rechtzeitig | Fristversäumnis, Lender kann nicht wandeln | Mitteilung verspätet | Rechtzeitig |
-| Vollverwässerte Anteile unklar | Wandlungspreis nicht berechenbar | ESOP-Pool unklar | Vollverwässerte Basis dokumentiert |
-| Term Sheet ohne Pre-Money-Angabe | Keine Berechnungsgrundlage | Bewertung nachzuholen | Term Sheet vollständig |
+| Keine notarielle Beurkundung | Beschluss unwirksam, HR-Eintragung scheitert | Notar noch nicht beauftragt | Notar bestätigt Beurkundung |
+| Bezugsrechtsverzicht fehlt | Altgesellschafterinnen könnten neue Anteile beanspruchen | Verzicht nachzureichen | Verzicht im Beschluss |
+| Sacheinlagebericht fehlt | Differenzhaftungsrisiko § 9 GmbHG | Bericht in Erarbeitung | Bericht vollständig |
+| Wandlungssumme fehlerhaft | Beschluss und Kapitalerhöhung inkonsistent | Kleiner Rechenfehler | Exakter Betrag |
 
 ## Quellen und Updates
 
-Stand: 05/2026. Bei Änderung GmbHG §§ 55 ff. aktualisieren.
+Stand: 05/2026.
+- § 53 GmbHG: https://www.gesetze-im-internet.de/gmbhg/__53.html
+- § 55 GmbHG: https://www.gesetze-im-internet.de/gmbhg/__55.html
+- § 56 GmbHG: https://www.gesetze-im-internet.de/gmbhg/__56.html
+- § 56a GmbHG: https://www.gesetze-im-internet.de/gmbhg/__56a.html
+- § 57 GmbHG (Anmeldung): https://www.gesetze-im-internet.de/gmbhg/__57.html
+- § 57a GmbHG (i.V.m. § 9c GmbHG): https://www.gesetze-im-internet.de/gmbhg/__57a.html
+- § 9 GmbHG (Differenzhaftung): https://www.gesetze-im-internet.de/gmbhg/__9.html
+- DiREG-Inkrafttreten 01.08.2023 (Online-Beurkundung GmbH-Kapitalerhoehung und Uebernahmeerklaerung): https://www.bmjv.de/SharedDocs/Pressemitteilungen/DE/2022/0729_DIREG_DIRUG.html — Vorbehalt: nur bei einstimmigem Gesellschafterbeschluss; bei Mehrheitsentscheid Praesenzbeurkundung.
+- Bei Änderung GmbHG §§ 53 ff. aktualisieren.
 
 ## Vertiefung — Aktuelle Rechtsprechung
 
 ### Normen-Ergänzung
 
-§ 55 GmbHG (Kapitalerhöhung durch neue Einlagen) → §§ 241, 242 BGB (Treu und Glauben, Information des Darlehensgebers) → § 280 BGB (Schadensersatz bei Verweigerung der Information) → § 5 Abs. 1 GmbHG (Mindest-Nennbetrag, Aufrundung) → §§ 195, 199 BGB (Verjährung Wandlungsrecht)
+§§ 53, 54 GmbHG (Satzungsänderung, notarielle Beurkundung) → § 55 GmbHG (Kapitalerhöhung durch Gesellschafterbeschluss) → § 56 GmbHG (Sacheinlage, Werthaltigkeitsprüfung) → § 57 GmbHG (Anmeldung zum Handelsregister) → § 57a GmbHG (vereinfachte Kapitalerhöhung) → § 47 GmbHG (Mehrheitserfordernisse, Stimmverbote)
 
 > Quellenregel: Entscheidungen nur nach Prüfung einer amtlichen oder frei zugänglichen Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage ausgeben.
 
 ---
 
+## Skill: `vertragserstellung-behoerden-gericht-und-registerweg`
+
+_Für Vertragserstellung: Behörden-, Gerichts- oder Registerweg: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Einreichungsplan mit Form- und Nachweischeck._
+
+# Vertragserstellung: Behörden-, Gerichts- oder Registerweg
+
+## Normenanker
+
+Vor einer rechtlichen Schlussfolgerung diese Anker am aktuellen Normtext prüfen; Spezial- und Landesrecht nur hinzunehmen, wenn es den konkreten Auftrag traegt:
+
+- `§ 535 Abs. 1 BGB` — Hauptpflichten des Mietvertrags.
+- `§ 536 Abs. 1 BGB` — Minderung.
+- `§ 543 Abs. 1 BGB` — ausserordentliche Kuendigung.
+- `§ 556 Abs. 1 BGB` — Betriebskostenvereinbarung.
+- `§ 556 Abs. 3 BGB` — Abrechnung und Einwendungsfrist.
+- `§ 558 Abs. 1 BGB` — Mieterhoehung bis ortsuebliche Vergleichsmiete.
+- `§ 559 Abs. 1 BGB` — Modernisierungsmieterhoehung.
+- `§ 573 Abs. 1 BGB` — ordentliche Vermieterkuendigung.
+- `§ 259 BGB` — Rechnungslegung.
+- `§ 2 BetrKV` — Betriebskostenarten.
+
+Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei prüfbare Quelle vorliegen; keine BeckRS-/juris-Blindzitate verwenden.
+
+## Arbeitsweg
+
+- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
+- Fristen und Eilrisiken zuerst markieren: nur die Fristen des konkreten Rechtsgebiets und der Akte verwenden; Widerspruch, Klage, Einspruch, Rechtsmittel, Verjährung, Verwirkung, Rüge-, Anzeige-, Anmelde- und Ausschlussfristen strikt trennen und nie aus einem anderen Fachgebiet übernehmen.
+- Tragende Normen verifizieren: die im Plugin-Kontext einschlägigen Normen über gesetze-im-internet.de, dejure.org, eur-lex.europa.eu und die amtlichen Bundes-/Landesportale live prüfen — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
+- Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
+- Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
+
+## Spezialwissen: Vertragserstellung: Behörden-, Gerichts- oder Registerweg
+- **Normen-/Quellenanker:** UG/GmbH ist Gesellschaftsform, keine Einzelquelle. Prüfe GmbHG §§ 5a, 7, 8, 16, 19, 55 ff.; BGB §§ 488 ff. und 311; ggf. WpPG/VermAnlG/KAGB, GwG, Steuerrecht und notarielle/registerrechtliche Anforderungen live.
+
+## Fallweichen
+Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur Rückfragen, die die nächste Weiche verändern:
+
+1. Welche Rolle hat die fragende Person und wer ist Gegenüber?
+2. Welches konkrete Ziel soll erreicht oder verhindert werden?
+3. Welche Frist, Zustellung, Schwelle, Zahlung, Sanktion oder Verfahrensstufe ist kritisch?
+4. Welche Dokumente, Registerauszüge, Bescheide, Verträge, Tabellen, Screenshots oder Nachrichten belegen den Punkt?
+5. Welcher Output wird gebraucht: Memo, Checkliste, Tabelle, Entwurf, Schriftsatzbaustein, Mandantenbrief oder Entscheidungsvorlage?
+
+## Arbeitsworkflow
+1. **Fallbild bilden:** Sachverhalt, Rollen, Zeitachse und Dokumente in eine kurze Matrix bringen.
+2. **Rechtsrahmen setzen:** Normen, Zuständigkeiten, Fristen, Formfragen und Verfahrensstand zum Themenfeld **Vertragserstellung** prüfen.
+3. **Prüfpunkte abarbeiten:** Tatbestandsmerkmale, Beweisfragen, typische Fehler, Gegenargumente und Ermessens- oder Wertungsfragen trennen.
+4. **Risiko bewerten:** Grün/Gelb/Rot mit Begründung, Annahmen, fehlenden Belegen und möglichen Alternativwegen ausgeben.
+5. **Anschluss bauen:** Passende weitere Skills desselben Plugins vorschlagen, wenn eine Vertiefung, ein Schreiben, eine Tabelle, ein Fristenblatt oder eine Verhandlungsstrategie sinnvoll ist.
+
+---
+
 ## Skill: `gmbh-vollstaendigen`
 
-_Wenn es um GmbH: Risikoampel, Gegenargumente und Verteidigungslinien in Wandeldarlehen-Lebenszyklus geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten._
+_Für GmbH: Risikoampel, Gegenargumente und Verteidigungslinien: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt._
 
 # GmbH: Risikoampel, Gegenargumente und Verteidigungslinien
 
@@ -1225,6 +1039,151 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 ## Arbeitsworkflow
 1. **Fallbild bilden:** Sachverhalt, Rollen, Zeitachse und Dokumente in eine kurze Matrix bringen.
 2. **Rechtsrahmen setzen:** Normen, Zuständigkeiten, Fristen, Formfragen und Verfahrensstand zum Themenfeld **GmbH** prüfen.
+3. **Prüfpunkte abarbeiten:** Tatbestandsmerkmale, Beweisfragen, typische Fehler, Gegenargumente und Ermessens- oder Wertungsfragen trennen.
+4. **Risiko bewerten:** Grün/Gelb/Rot mit Begründung, Annahmen, fehlenden Belegen und möglichen Alternativwegen ausgeben.
+5. **Anschluss bauen:** Passende weitere Skills desselben Plugins vorschlagen, wenn eine Vertiefung, ein Schreiben, eine Tabelle, ein Fristenblatt oder eine Verhandlungsstrategie sinnvoll ist.
+
+---
+
+## Skill: `gesellschafterbeschluss-vorbereiten`
+
+_Für Gesellschafterbeschluss vorbereiten (vor Unterzeichnung): ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt._
+
+# Gesellschafterbeschluss vorbereiten (vor Unterzeichnung)
+
+## Arbeitsweg
+
+- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
+- Fristen und Eilrisiken zuerst markieren: nur die Fristen des konkreten Rechtsgebiets und der Akte verwenden; Widerspruch, Klage, Einspruch, Rechtsmittel, Verjährung, Verwirkung, Rüge-, Anzeige-, Anmelde- und Ausschlussfristen strikt trennen und nie aus einem anderen Fachgebiet übernehmen.
+- Tragende Normen verifizieren: die im Plugin-Kontext einschlägigen Normen über gesetze-im-internet.de, dejure.org, eur-lex.europa.eu und die amtlichen Bundes-/Landesportale live prüfen — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
+- Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
+- Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
+
+## Eingaben
+
+- Gesellschaft: Firma, HRB, Stammkapital, Gesellschafterinnen mit Anteilen
+- Beschlussthema: Grundsatzbeschluss Wandeldarlehen + Bereitschaft Kapitalerhöhung
+- Abstimmungsquorum: einstimmig oder Mehrheitsbeschluss nach Satzung?
+- Einberufungsform: schriftlich, E-Mail oder Vollversammlung ohne Einberufung?
+- Datum der Beschlussfassung
+
+## Rechtlicher Rahmen
+
+### Primärnormen
+- § 46 Nr. 5 GmbHG (Gesellschafterversammlung zur Aufnahme neuer Gesellschafter)
+- § 51 GmbHG (Einberufung, Ladungsfrist mindestens eine Woche)
+- § 51 Abs. 3 GmbHG (Beschlussfassung ohne Einberufung bei Anwesenheit / Einverständnis aller)
+- § 47 GmbHG (Abstimmung, Mehrheitserfordernisse)
+- § 53 GmbHG (Satzungsänderung bedarf drei Viertel der abgegebenen Stimmen und notarieller Beurkundung)
+
+## Vorgehen
+
+### 1. Art des Beschlusses klären
+Option A – Vollversammlung ohne Einberufung (§ 51 Abs. 3 GmbHG): Alle Gesellschafterinnen anwesend und einverstanden. Schnellste Variante. Option B – Einberufung mit einer Woche Frist: Schriftliche Einladung mit Tagesordnung. Option C – Umlaufbeschluss: Schriftliche Zustimmung aller Gesellschafterinnen.
+
+### 2. Tagesordnungspunkt formulieren
+"TOP 1: Grundsatzbeschluss zur Bereitschaft der Gesellschafterinnen zur Durchführung einer Kapitalerhöhung gegen Sacheinlage (Forderung aus Wandeldarlehen) im Wandlungsfall gemäß § 4 des Wandeldarlehensvertrags vom [Datum]."
+
+### 3. Beschlusstext entwerfen
+"Die Gesellschafterinnen erklären einvernehmlich ihre Bereitschaft, im Falle der wirksamen Ausübung der Wandlungsoption durch den Darlehensgeber gemäß § 4 des Wandeldarlehensvertrags alle erforderlichen gesellschaftsrechtlichen Maßnahmen zur Durchführung der Kapitalerhöhung gegen Sacheinlage, zur Zulassung des Darlehensgebers als neuer Gesellschafter und zum Verzicht auf Bezugsrechte zu ergreifen."
+
+### 4. Protokoll erstellen
+Unterschriebenes Protokoll mit Datum, Ort, Anwesende, Abstimmungsergebnis, Fassung des Beschlusstexts. Aufbewahrung in Gesellschaftsakte.
+
+### 5. Abstimmungsergebnis dokumentieren
+Einstimmig oder Mehrheitsabstimmung nach Quorum (§ 47 GmbHG). Bei Satzungsänderung: drei Viertel der Stimmen + notarielle Beurkundung (§ 53 GmbHG).
+
+### 6. Verhältnis zum späteren Kapitalerhöhungsbeschluss
+Dieser Beschluss ist kein Kapitalerhöhungsbeschluss i.S.d. § 55 GmbHG (der muss notariell beurkundet werden). Er dokumentiert nur die Absichtsbekundung. Der eigentliche Kapitalerhöhungsbeschluss folgt unter `gesellschafterbeschluss-kapitalerhoehung`.
+
+## Beispiel-Protokoll
+
+```
+Protokoll der Gesellschafterversammlung der
+Sonnenglas Solartechnologie UG (haftungsbeschränkt)
+Berlin, [Datum]
+
+Anwesend:
+- Dr. Mira Schoeneck (40 Anteile, 40 %)
+- Lina Habersaat (35 Anteile, 35 %)
+(Treasury-Anteile: 25 Anteile, nicht abstimmend)
+
+TOP 1: Grundsatzbeschluss Wandeldarlehen Northstar
+Die Gesellschafterinnen erklären einvernehmlich ihre Bereitschaft ...
+[Beschlusstext vollständig]
+
+Abstimmung: einstimmig angenommen.
+
+[Unterschriften Dr. Schoeneck, Habersaat]
+```
+
+## Risiken und Red Flags
+
+| Konstellation | Rot | Orange | Grün |
+|---|---|---|---|
+| Protokoll fehlt | Beweislosigkeit Beschlussfassung | Protokoll nachgereicht | Protokoll sofort vorhanden |
+| Ladungsfrist nicht eingehalten, Einwände | Beschluss anfechtbar | Nachträgliche Zustimmung | Ladungsfrist gewahrt oder Verzicht |
+| Gesellschafterin verweigert Mitwirkung | Wandlungsblockade | Gesellschafterin unentschlossen | Alle bereit |
+| Grundsatzbeschluss als Kapitalerhöhungsbeschluss fehlverstanden | Notarielle Beurkundung irrtümlich unterlassen | Unklare Beschlussfassung | Eindeutige Unterscheidung |
+
+## Quellen und Updates
+
+Stand: 05/2026. Bei Änderung GmbHG §§ 46 ff. aktualisieren.
+
+## Vertiefung — Aktuelle Rechtsprechung
+
+### Normen-Ergänzung
+
+§ 51 GmbHG (Einberufung Gesellschafterversammlung, Ladungsfrist eine Woche) → § 47 GmbHG (Beschlussfassung, Mehrheitserfordernisse) → § 53 GmbHG (Satzungsänderung, notarielle Form) → § 43 GmbHG (Geschäftsführerhaftung bei Pflichtverletzung) → § 56 Abs. 2 GmbHG (Sacheinlagebericht, Werthaltigkeit)
+
+> Quellenregel: Entscheidungen nur nach Prüfung einer amtlichen oder frei zugänglichen Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage ausgeben.
+
+---
+
+## Skill: `lebenszyklus-bilinguale-vertragserstellung`
+
+_Für Lebenszyklus: Fristen, Form, Zuständigkeit und Rechtsweg: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt._
+
+# Lebenszyklus: Fristen, Form, Zuständigkeit und Rechtsweg
+
+## Normenanker
+
+Vor einer rechtlichen Schlussfolgerung diese Anker am aktuellen Normtext prüfen; Spezial- und Landesrecht nur hinzunehmen, wenn es den konkreten Auftrag traegt:
+
+- `§ 241 Abs. 2 BGB` — Rücksichtnahme-, Schutz- und Organisationspflichten.
+- `§ 242 BGB` — Treu und Glauben als Korrektiv enger Klausel- und Anspruchsarbeit.
+- `§ 280 Abs. 1 BGB` — Pflichtverletzung, Vertretenmuessen, Schaden.
+- `§ 286 Abs. 1 BGB` — Verzug und Fristlogik.
+- `§ 195 BGB` — regelmäßige Verjährung.
+- `§ 199 Abs. 1 BGB` — Beginn der regelmäßigen Verjährung.
+- `§ 253 Abs. 2 ZPO` — Bestimmtheit von Antrag und Klagegrund.
+- `§ 138 Abs. 1 ZPO` — Wahrheitspflicht und vollstaendiger Tatsachenvortrag.
+
+Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei prüfbare Quelle vorliegen; keine BeckRS-/juris-Blindzitate verwenden.
+
+## Arbeitsweg
+
+- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
+- Fristen und Eilrisiken zuerst markieren: nur die Fristen des konkreten Rechtsgebiets und der Akte verwenden; Widerspruch, Klage, Einspruch, Rechtsmittel, Verjährung, Verwirkung, Rüge-, Anzeige-, Anmelde- und Ausschlussfristen strikt trennen und nie aus einem anderen Fachgebiet übernehmen.
+- Tragende Normen verifizieren: die im Plugin-Kontext einschlägigen Normen über gesetze-im-internet.de, dejure.org, eur-lex.europa.eu und die amtlichen Bundes-/Landesportale live prüfen — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
+- Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
+- Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
+
+## Spezialwissen: Lebenszyklus: Fristen, Form, Zuständigkeit und Rechtsweg
+- **Normen-/Quellenanker:** UG/GmbH ist Gesellschaftsform, keine Einzelquelle. Prüfe GmbHG §§ 5a, 7, 8, 16, 19, 55 ff.; BGB §§ 488 ff. und 311; ggf. WpPG/VermAnlG/KAGB, GwG, Steuerrecht und notarielle/registerrechtliche Anforderungen live.
+
+## Fallweichen
+Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur Rückfragen, die die nächste Weiche verändern:
+
+1. Welche Rolle hat die fragende Person und wer ist Gegenüber?
+2. Welches konkrete Ziel soll erreicht oder verhindert werden?
+3. Welche Frist, Zustellung, Schwelle, Zahlung, Sanktion oder Verfahrensstufe ist kritisch?
+4. Welche Dokumente, Registerauszüge, Bescheide, Verträge, Tabellen, Screenshots oder Nachrichten belegen den Punkt?
+5. Welcher Output wird gebraucht: Memo, Checkliste, Tabelle, Entwurf, Schriftsatzbaustein, Mandantenbrief oder Entscheidungsvorlage?
+
+## Arbeitsworkflow
+1. **Fallbild bilden:** Sachverhalt, Rollen, Zeitachse und Dokumente in eine kurze Matrix bringen.
+2. **Rechtsrahmen setzen:** Normen, Zuständigkeiten, Fristen, Formfragen und Verfahrensstand zum Themenfeld **Lebenszyklus** prüfen.
 3. **Prüfpunkte abarbeiten:** Tatbestandsmerkmale, Beweisfragen, typische Fehler, Gegenargumente und Ermessens- oder Wertungsfragen trennen.
 4. **Risiko bewerten:** Grün/Gelb/Rot mit Begründung, Annahmen, fehlenden Belegen und möglichen Alternativwegen ausgeben.
 5. **Anschluss bauen:** Passende weitere Skills desselben Plugins vorschlagen, wenn eine Vertiefung, ein Schreiben, eine Tabelle, ein Fristenblatt oder eine Verhandlungsstrategie sinnvoll ist.

@@ -1,6 +1,6 @@
 ---
 name: pruefungsrecht-mecklenburg-vorpommern
-description: "Wenn es um Prüfungsrecht Mecklenburg Vorpommern in Prüfungsrecht an Hochschulen und Universitäten geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Tatbestands- oder Anspruchsmatrix mit Gegenargumenten."
+description: "Für Prüfungsrecht Mecklenburg Vorpommern: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Tatbestands- oder Anspruchsmatrix."
 ---
 
 # Prüfungsrecht Mecklenburg Vorpommern

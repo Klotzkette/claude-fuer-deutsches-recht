@@ -1,6 +1,6 @@
 ---
 name: agrarerbe-pflichtteil-paragraf-2316-bgb-hoefeordnung
-description: "Berechnet und begründet Abfindungs- und Pflichtteilspositionen bei einem Hof nach der Höfeordnung. Trennt Erbfall und lebzeitige Übergabe, bestimmt Hofstatus, Grundsteuerwert, Quoten, Verbindlichkeiten, Vorausempfänge und Nachabfindung und liefert Rechenblatt, Auskunftsverlangen oder Anspruchserwiderung mit Beweisplan."
+description: "Berechnet und begründet Abfindungs- und Pflichtteilspositionen bei einem Hof nach der Höfeordnung."
 ---
 
 # Abfindung und Pflichtteil beim Hof

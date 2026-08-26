@@ -1,6 +1,6 @@
 ---
 name: see-082-binnenschiff-hypothek-bestellen
-description: "Wenn es um Binnenschiff Hypothek Bestellen in See- und Schifffahrtsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Binnenschiff Hypothek Bestellen: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Binnenschiff Hypothek Bestellen

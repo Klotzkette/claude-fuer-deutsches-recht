@@ -1,6 +1,6 @@
 ---
 name: hgr-dis-schiedsverfahren-streit
-description: "Wenn es um Hgr Dis Schiedsverfahren Streit in Fachanwalt Handels- und Gesellschaftsrecht geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
+description: "Für Hgr Dis Schiedsverfahren Streit: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Gesellschafter streiten und wollen Schiedsverfahren statt Klage oder laufendes Schiedsverfahren managen

@@ -1,6 +1,6 @@
 ---
 name: kommunikation-bei-kirchlichem-skandal
-description: "Wenn es um Kommunikation bei kirchlichem Skandal in Römisch-katholisches Kirchenrecht CIC und Katechismus geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Kommunikation bei kirchlichem Skandal: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Kommunikation bei kirchlichem Skandal

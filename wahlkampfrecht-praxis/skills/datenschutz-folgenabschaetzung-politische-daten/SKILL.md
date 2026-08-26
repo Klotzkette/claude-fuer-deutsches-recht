@@ -1,6 +1,6 @@
 ---
 name: datenschutz-folgenabschaetzung-politische-daten
-description: "Wenn es um Datenschutz Folgenabschaetzung Politische Daten in Wahlkampfrecht Praxis geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Datenschutz Folgenabschätzung Politische Daten: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Datenschutz Folgenabschaetzung Politische Daten

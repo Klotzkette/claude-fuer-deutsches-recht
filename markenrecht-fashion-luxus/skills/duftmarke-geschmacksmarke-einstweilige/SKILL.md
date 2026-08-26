@@ -1,6 +1,6 @@
 ---
 name: duftmarke-geschmacksmarke-einstweilige
-description: "Wenn es um Duftmarken und Geschmacksmarken in markenrecht-fashion-luxus geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen."
+description: "Für Duftmarken und Geschmacksmarken: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Duftmarken und Geschmacksmarken

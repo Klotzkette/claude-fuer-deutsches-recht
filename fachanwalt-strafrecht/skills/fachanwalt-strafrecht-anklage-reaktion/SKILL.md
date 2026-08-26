@@ -1,6 +1,6 @@
 ---
 name: fachanwalt-strafrecht-anklage-reaktion
-description: "Wenn es um Anklage-Reaktion in Fachanwalt Strafrecht geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
+description: "Für Anklage-Reaktion: erstellt Entwurf mit Antrag, Beweis und Anlagen; Ergebnis: Schriftsatz mit Begründungs- und Anlagenlogik."
 ---
 
 # Anklage-Reaktion

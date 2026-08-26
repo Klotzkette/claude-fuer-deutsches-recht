@@ -1,6 +1,6 @@
 ---
 name: klassifikation-cpc-neuheit-patentfamilien
-description: "Wenn es um klassifikation-cpc-ipc in patentrecherche geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für klassifikation-cpc-ipc: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Schnittstellenkarte mit Zuständigkeits- und Nachweisfragen."
 ---
 
 # klassifikation-cpc-ipc

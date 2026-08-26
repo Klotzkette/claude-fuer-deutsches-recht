@@ -1,6 +1,6 @@
 ---
 name: bautraeger-abnahmefiktion-clause-unwirksam
-description: "Wenn es um Bautraeger-Abnahmefiktion-Klausel und Unwirksamkeit in Fachanwalt Bau Architektenrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Bauträger-Abnahmefiktion-Klausel und Unwirksamkeit: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Bautraeger-Abnahmefiktion-Klausel und Unwirksamkeit

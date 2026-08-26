@@ -1,6 +1,6 @@
 ---
 name: verteidigerrolle-dsb-gf-und-externe-berater
-description: "Wenn es um Rollenklärung Verteidiger DSB Geschäftsleitung externe Berater in Datenschutz-Sanktionsverfahren und Verteidigung geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
+description: "Für Rollenklärung Verteidiger DSB Geschäftsleitung externe Berater: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt. Fachgebiet: Datenschutz-Sanktionsverfahren und Verteidigung."
 ---
 
 # Rollenklärung Verteidiger DSB Geschäftsleitung externe Berater

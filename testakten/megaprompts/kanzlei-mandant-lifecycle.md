@@ -7,13 +7,13 @@ Diese Vollprüfung enthält top-8 von 116 Skills (gekürzt für das Arbeitsfenst
 ## Inhaltsverzeichnis
 
 1. **juristischer-argumentationskern** — Schaltet sich ein, wenn in Kanzlei Mandant Lifecycle ein juristisches Arbeitsprodukt tragfähig begründet werden muss; ve…
-2. **kanzlei-ki-tool-mandanteneinwilligung** — Wenn es um digitale Werkzeuge-Tool und Mandanteneinwilligung in Kanzlei-Mandant Lifecycle geht: prüft Frist, Form, Zustä…
-3. **joint-ai-workspace** — Wenn es um Gemeinsamer digitale Werkzeuge-Workspace in Kanzlei-Mandant Lifecycle geht: prüft Frist, Form, Zuständigkeit,…
-4. **litigation-roadmap-client** — Wenn es um Litigation Roadmap für Mandanten in Kanzlei-Mandant Lifecycle geht: erstellt den passenden Entwurf aus Sachve…
-5. **commercial-litigation-budget** — Wenn es um Commercial Litigation Budget in Kanzlei-Mandant Lifecycle geht: erstellt den passenden Entwurf aus Sachverhal…
-6. **kaltstart-beide-seiten-dashboard** — Wenn es um Kaltstart für beide Seiten in Kanzlei-Mandant Lifecycle geht: klärt Rolle, Ziel, Frist, Unterlagen und den pa…
-7. **template-library-governance** — Wenn es um Template Library Governance in Kanzlei-Mandant Lifecycle geht: erstellt den passenden Entwurf aus Sachverhalt…
-8. **dashboard-design-qualitygate** — Wenn es um Dashboard Design Qualitygate in Kanzlei-Mandant Lifecycle geht: zerlegt Ergebnis, Frist, Zuständigkeit, Bewei…
+2. **termination-of-mandate** — Für Mandatsbeendigung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt.…
+3. **decision-log** — Für Decision Log: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt. Fach…
+4. **kanzlei-ki-tool-mandanteneinwilligung** — Für digitale Werkzeuge-Tool und Mandanteneinwilligung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt …
+5. **joint-ai-workspace** — Für Gemeinsamer digitale Werkzeuge-Workspace: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risik…
+6. **injunction-sprint** — Für Einstweiliger-Rechtsschutz Sprint: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und n…
+7. **kaltstart-beide-seiten-dashboard** — Für Kaltstart für beide Seiten: routet Rolle, Frist, Unterlagen und Fachschritt; Ergebnis: Prüfprodukt mit Risiko und nä…
+8. **litigation-roadmap-client** — Für Litigation Roadmap für Mandanten: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nä…
 
 ---
 
@@ -138,9 +138,125 @@ Ausgangspunkt für dieses Plugin: Verantwortlicher Bearbeiter für Annahme, Voll
 
 ---
 
+## Skill: `termination-of-mandate`
+
+_Für Mandatsbeendigung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt. Fachgebiet: Kanzlei-Mandant Lifecycle._
+
+# Mandatsbeendigung
+
+## Arbeitsweg
+
+- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
+- Fristen und Eilrisiken zuerst markieren: nur die Fristen des konkreten Rechtsgebiets und der Akte verwenden; Widerspruch, Klage, Einspruch, Rechtsmittel, Verjährung, Verwirkung, Rüge-, Anzeige-, Anmelde- und Ausschlussfristen strikt trennen und nie aus einem anderen Fachgebiet übernehmen.
+- Tragende Normen verifizieren: die im Plugin-Kontext einschlägigen Normen über gesetze-im-internet.de, dejure.org, eur-lex.europa.eu und die amtlichen Bundes-/Landesportale live prüfen — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
+- Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
+- Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
+
+## Fachkern: Mandatsbeendigung
+- **Normen-/Quellenanker:** BGB-Dienst-/Geschäftsbesorgungsvertrag, RVG, BRAO/BORA, DSGVO, GeschGehG, ZPO/ArbGG/VwGO je nach Mandat und Legal-Ops-Vorgaben.
+- **Entscheidende Weiche:** Kläre Scope, Budget, Deliverable, Eskalationspunkt, Verantwortlichen, Frist, Erfolgskriterium und Kommunikationsspur.
+
+## Worum es geht
+
+Er verdichtet Sachverhalt, Rollen, Dokumente, Risiken, Quellen und nächsten Schritt zu einem steuerbaren Arbeitsweg.
+
+**Fokus:** Kündigung des Mandats, Fristen, Herausgabe, offene Rechnungen und Anschlussvertretung
+
+## Kaltstart-Fragen
+
+- Wer spricht gerade: Kanzlei, Einzelanwalt, Rechtsabteilung, GC, CFO, Fachabteilung oder Gericht/Behörde?
+- Welches Matter, welches Ziel, welche Frist, welches Budget und welche Entscheidung stehen an?
+- Welche Informationen sind geheim, personenbezogen, privilegiert oder nur intern verwendbar?
+- Soll ein Dashboard, Memo, E-Mail, Rechnungskommentar, Board Paper oder Maßnahmenplan entstehen?
+
+## Prüf- und Arbeitslogik
+
+- **Rechtsanker:** BGB, BRAO Handakte, Datenschutz, RVG und Haftung.
+- **Tatsachenanker:** Mandatsdatum, Rollen, Scope, Freigaben, Zustellungen, Budgetstand, Beweiswert, Eskalationen und offene Lücken trennen.
+- **Risikoebenen:** Haftung, Berufsrecht, Datenschutz, Vergütung, Frist, Eskalation, Reputationsrisiko und Governance getrennt ausgeben.
+- **Gegenposition:** die beste plausible Gegenansicht formulieren und sagen, welche Unterlage sie trägt oder entkräftet.
+- **Entscheidung:** einen Minimalpfad für heute und einen robusten Hauptpfad für die nächsten Arbeitstage vorschlagen.
+
+## Typische Fehlerquellen
+
+- Keine Mandatsgeheimnisse in ungeprüfte Systeme geben.
+- Budget und Erfolgsaussicht nie als Scheingenauigkeit verkaufen.
+- Kanzlei- und Mandantensicht trennen und dann bewusst zusammenführen.
+- Rechnung, Scope und Beziehung früh klären, bevor Misstrauen entsteht.
+
+## Quellen- und Aktualitätsgate
+
+Vor tragenden Aussagen live prüfen: amtliche Normfassung, zuständige Behörde/Institution, frei zugängliche Rechtsprechung nur mit Gericht, Datum und Aktenzeichen. Keine BeckRS-/juris-/Kommentar-Blindzitate. Bei dynamischen Medizin-, EU-, Berufsrechts- und Vergütungsfragen immer den Stand des konkreten Tages nennen.
+
+## Nützliche Startquellen
+
+- RVG § 3a: https://www.gesetze-im-internet.de/rvg/__3a.html
+- BRAO § 43e: https://www.gesetze-im-internet.de/brao/__43e.html
+- BRAO § 49b: https://www.gesetze-im-internet.de/brao/__49b.html
+
+---
+
+## Skill: `decision-log`
+
+_Für Decision Log: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt. Fachgebiet: Kanzlei-Mandant Lifecycle._
+
+# Decision Log
+
+## Arbeitsweg
+
+- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
+- Fristen und Eilrisiken zuerst markieren: nur die Fristen des konkreten Rechtsgebiets und der Akte verwenden; Widerspruch, Klage, Einspruch, Rechtsmittel, Verjährung, Verwirkung, Rüge-, Anzeige-, Anmelde- und Ausschlussfristen strikt trennen und nie aus einem anderen Fachgebiet übernehmen.
+- Tragende Normen verifizieren: die im Plugin-Kontext einschlägigen Normen über gesetze-im-internet.de, dejure.org, eur-lex.europa.eu und die amtlichen Bundes-/Landesportale live prüfen — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
+- Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
+- Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
+
+## Fachkern: Decision Log
+- **Normen-/Quellenanker:** BGB-Dienst-/Geschäftsbesorgungsvertrag, RVG, BRAO/BORA, DSGVO, GeschGehG, ZPO/ArbGG/VwGO je nach Mandat und Legal-Ops-Vorgaben.
+- **Entscheidende Weiche:** Kläre Scope, Budget, Deliverable, Eskalationspunkt, Verantwortlichen, Frist, Erfolgskriterium und Kommunikationsspur.
+
+## Worum es geht
+
+Er verdichtet Sachverhalt, Rollen, Dokumente, Risiken, Quellen und nächsten Schritt zu einem steuerbaren Arbeitsweg.
+
+**Fokus:** Mandantenentscheidungen, Optionen, Warnungen, Freigaben und Nichtentscheidungen beweisbar dokumentieren
+
+## Kaltstart-Fragen
+
+- Wer spricht gerade: Kanzlei, Einzelanwalt, Rechtsabteilung, GC, CFO, Fachabteilung oder Gericht/Behörde?
+- Welches Matter, welches Ziel, welche Frist, welches Budget und welche Entscheidung stehen an?
+- Welche Informationen sind geheim, personenbezogen, privilegiert oder nur intern verwendbar?
+- Soll ein Dashboard, Memo, E-Mail, Rechnungskommentar, Board Paper oder Maßnahmenplan entstehen?
+
+## Prüf- und Arbeitslogik
+
+- **Rechtsanker:** Anwaltliche Hinweis-/Beratungspflichten, Haftungsprävention und Projektmanagement.
+- **Tatsachenanker:** Mandatsdatum, Rollen, Scope, Freigaben, Zustellungen, Budgetstand, Beweiswert, Eskalationen und offene Lücken trennen.
+- **Risikoebenen:** Haftung, Berufsrecht, Datenschutz, Vergütung, Frist, Eskalation, Reputationsrisiko und Governance getrennt ausgeben.
+- **Gegenposition:** die beste plausible Gegenansicht formulieren und sagen, welche Unterlage sie trägt oder entkräftet.
+- **Entscheidung:** einen Minimalpfad für heute und einen robusten Hauptpfad für die nächsten Arbeitstage vorschlagen.
+
+## Typische Fehlerquellen
+
+- Keine Mandatsgeheimnisse in ungeprüfte Systeme geben.
+- Budget und Erfolgsaussicht nie als Scheingenauigkeit verkaufen.
+- Kanzlei- und Mandantensicht trennen und dann bewusst zusammenführen.
+- Rechnung, Scope und Beziehung früh klären, bevor Misstrauen entsteht.
+
+## Quellen- und Aktualitätsgate
+
+Vor tragenden Aussagen live prüfen: amtliche Normfassung, zuständige Behörde/Institution, frei zugängliche Rechtsprechung nur mit Gericht, Datum und Aktenzeichen. Keine BeckRS-/juris-/Kommentar-Blindzitate. Bei dynamischen Medizin-, EU-, Berufsrechts- und Vergütungsfragen immer den Stand des konkreten Tages nennen.
+
+## Nützliche Startquellen
+
+- RVG § 3a: https://www.gesetze-im-internet.de/rvg/__3a.html
+- BRAO § 43e: https://www.gesetze-im-internet.de/brao/__43e.html
+- BRAO § 49b: https://www.gesetze-im-internet.de/brao/__49b.html
+
+---
+
 ## Skill: `kanzlei-ki-tool-mandanteneinwilligung`
 
-_Wenn es um digitale Werkzeuge-Tool und Mandanteneinwilligung in Kanzlei-Mandant Lifecycle geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten._
+_Für digitale Werkzeuge-Tool und Mandanteneinwilligung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt._
 
 # KI-Tool und Mandanteneinwilligung
 
@@ -198,7 +314,7 @@ Vor tragenden Aussagen live prüfen: amtliche Normfassung, zuständige Behörde/
 
 ## Skill: `joint-ai-workspace`
 
-_Wenn es um Gemeinsamer digitale Werkzeuge-Workspace in Kanzlei-Mandant Lifecycle geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten._
+_Für Gemeinsamer digitale Werkzeuge-Workspace: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt._
 
 # Gemeinsamer KI-Workspace
 
@@ -254,11 +370,11 @@ Vor tragenden Aussagen live prüfen: amtliche Normfassung, zuständige Behörde/
 
 ---
 
-## Skill: `litigation-roadmap-client`
+## Skill: `injunction-sprint`
 
-_Wenn es um Litigation Roadmap für Mandanten in Kanzlei-Mandant Lifecycle geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert eine Fristen- und Risikoampel mit Sofortschritten._
+_Für Einstweiliger-Rechtsschutz Sprint: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt._
 
-# Litigation Roadmap für Mandanten
+# Einstweiliger-Rechtsschutz Sprint
 
 ## Arbeitsweg
 
@@ -268,7 +384,7 @@ _Wenn es um Litigation Roadmap für Mandanten in Kanzlei-Mandant Lifecycle geht:
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
-## Fachkern: Litigation Roadmap für Mandanten
+## Fachkern: Einstweiliger-Rechtsschutz Sprint
 - **Normen-/Quellenanker:** BGB-Dienst-/Geschäftsbesorgungsvertrag, RVG, BRAO/BORA, DSGVO, GeschGehG, ZPO/ArbGG/VwGO je nach Mandat und Legal-Ops-Vorgaben.
 - **Entscheidende Weiche:** Kläre Scope, Budget, Deliverable, Eskalationspunkt, Verantwortlichen, Frist, Erfolgskriterium und Kommunikationsspur.
 
@@ -276,7 +392,7 @@ _Wenn es um Litigation Roadmap für Mandanten in Kanzlei-Mandant Lifecycle geht:
 
 Er verdichtet Sachverhalt, Rollen, Dokumente, Risiken, Quellen und nächsten Schritt zu einem steuerbaren Arbeitsweg.
 
-**Fokus:** Gerichtsverfahren in Phasen, Schriftsatzkalender, Beweis, Vergleich und Kosten erklären
+**Fokus:** 48-Stunden-Mandat mit Fakten, Eidesstattlichen Versicherungen, Anlagen und Budget steuern
 
 ## Kaltstart-Fragen
 
@@ -287,65 +403,7 @@ Er verdichtet Sachverhalt, Rollen, Dokumente, Risiken, Quellen und nächsten Sch
 
 ## Prüf- und Arbeitslogik
 
-- **Rechtsanker:** ZPO, GKG/RVG, Mandatsvertrag, Prozessrisiko und Vertraulichkeit.
-- **Tatsachenanker:** Mandatsdatum, Rollen, Scope, Freigaben, Zustellungen, Budgetstand, Beweiswert, Eskalationen und offene Lücken trennen.
-- **Risikoebenen:** Haftung, Berufsrecht, Datenschutz, Vergütung, Frist, Eskalation, Reputationsrisiko und Governance getrennt ausgeben.
-- **Gegenposition:** die beste plausible Gegenansicht formulieren und sagen, welche Unterlage sie trägt oder entkräftet.
-- **Entscheidung:** einen Minimalpfad für heute und einen robusten Hauptpfad für die nächsten Arbeitstage vorschlagen.
-
-## Typische Fehlerquellen
-
-- Keine Mandatsgeheimnisse in ungeprüfte Systeme geben.
-- Budget und Erfolgsaussicht nie als Scheingenauigkeit verkaufen.
-- Kanzlei- und Mandantensicht trennen und dann bewusst zusammenführen.
-- Rechnung, Scope und Beziehung früh klären, bevor Misstrauen entsteht.
-
-## Quellen- und Aktualitätsgate
-
-Vor tragenden Aussagen live prüfen: amtliche Normfassung, zuständige Behörde/Institution, frei zugängliche Rechtsprechung nur mit Gericht, Datum und Aktenzeichen. Keine BeckRS-/juris-/Kommentar-Blindzitate. Bei dynamischen Medizin-, EU-, Berufsrechts- und Vergütungsfragen immer den Stand des konkreten Tages nennen.
-
-## Nützliche Startquellen
-
-- RVG § 3a: https://www.gesetze-im-internet.de/rvg/__3a.html
-- BRAO § 43e: https://www.gesetze-im-internet.de/brao/__43e.html
-- BRAO § 49b: https://www.gesetze-im-internet.de/brao/__49b.html
-
----
-
-## Skill: `commercial-litigation-budget`
-
-_Wenn es um Commercial Litigation Budget in Kanzlei-Mandant Lifecycle geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert eine Fristen- und Risikoampel mit Sofortschritten._
-
-# Commercial Litigation Budget
-
-## Arbeitsweg
-
-- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
-- Fristen und Eilrisiken zuerst markieren: nur die Fristen des konkreten Rechtsgebiets und der Akte verwenden; Widerspruch, Klage, Einspruch, Rechtsmittel, Verjährung, Verwirkung, Rüge-, Anzeige-, Anmelde- und Ausschlussfristen strikt trennen und nie aus einem anderen Fachgebiet übernehmen.
-- Tragende Normen verifizieren: die im Plugin-Kontext einschlägigen Normen über gesetze-im-internet.de, dejure.org, eur-lex.europa.eu und die amtlichen Bundes-/Landesportale live prüfen — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
-- Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
-- Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
-
-## Fachkern: Commercial Litigation Budget
-- **Normen-/Quellenanker:** BGB-Dienst-/Geschäftsbesorgungsvertrag, RVG, BRAO/BORA, DSGVO, GeschGehG, ZPO/ArbGG/VwGO je nach Mandat und Legal-Ops-Vorgaben.
-- **Entscheidende Weiche:** Kläre Scope, Budget, Deliverable, Eskalationspunkt, Verantwortlichen, Frist, Erfolgskriterium und Kommunikationsspur.
-
-## Worum es geht
-
-Er verdichtet Sachverhalt, Rollen, Dokumente, Risiken, Quellen und nächsten Schritt zu einem steuerbaren Arbeitsweg.
-
-**Fokus:** Klage, Beweisaufnahme, Vergleich, Berufung und Vollstreckung budgetieren
-
-## Kaltstart-Fragen
-
-- Wer spricht gerade: Kanzlei, Einzelanwalt, Rechtsabteilung, GC, CFO, Fachabteilung oder Gericht/Behörde?
-- Welches Matter, welches Ziel, welche Frist, welches Budget und welche Entscheidung stehen an?
-- Welche Informationen sind geheim, personenbezogen, privilegiert oder nur intern verwendbar?
-- Soll ein Dashboard, Memo, E-Mail, Rechnungskommentar, Board Paper oder Maßnahmenplan entstehen?
-
-## Prüf- und Arbeitslogik
-
-- **Rechtsanker:** ZPO, GKG, RVG/Vergütungsvereinbarung, Prozessrisiko und Legal Ops.
+- **Rechtsanker:** ZPO, ArbGG/VwGO je nach Sache, Fristenrecht, Mandatsvertrag und Beweislogik.
 - **Tatsachenanker:** Mandatsdatum, Rollen, Scope, Freigaben, Zustellungen, Budgetstand, Beweiswert, Eskalationen und offene Lücken trennen.
 - **Risikoebenen:** Haftung, Berufsrecht, Datenschutz, Vergütung, Frist, Eskalation, Reputationsrisiko und Governance getrennt ausgeben.
 - **Gegenposition:** die beste plausible Gegenansicht formulieren und sagen, welche Unterlage sie trägt oder entkräftet.
@@ -372,7 +430,7 @@ Vor tragenden Aussagen live prüfen: amtliche Normfassung, zuständige Behörde/
 
 ## Skill: `kaltstart-beide-seiten-dashboard`
 
-_Wenn es um Kaltstart für beide Seiten in Kanzlei-Mandant Lifecycle geht: klärt Rolle, Ziel, Frist, Unterlagen und den passenden nächsten Fachskill; liefert eine Fristen- und Risikoampel mit Sofortschritten._
+_Für Kaltstart für beide Seiten: routet Rolle, Frist, Unterlagen und Fachschritt; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt._
 
 # Kaltstart für beide Seiten
 
@@ -435,11 +493,11 @@ Vor tragenden Aussagen live prüfen: amtliche Normfassung, zuständige Behörde/
 
 ---
 
-## Skill: `template-library-governance`
+## Skill: `litigation-roadmap-client`
 
-_Wenn es um Template Library Governance in Kanzlei-Mandant Lifecycle geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert eine Fristen- und Risikoampel mit Sofortschritten._
+_Für Litigation Roadmap für Mandanten: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt._
 
-# Template Library Governance
+# Litigation Roadmap für Mandanten
 
 ## Arbeitsweg
 
@@ -449,7 +507,7 @@ _Wenn es um Template Library Governance in Kanzlei-Mandant Lifecycle geht: erste
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
-## Fachkern: Template Library Governance
+## Fachkern: Litigation Roadmap für Mandanten
 - **Normen-/Quellenanker:** BGB-Dienst-/Geschäftsbesorgungsvertrag, RVG, BRAO/BORA, DSGVO, GeschGehG, ZPO/ArbGG/VwGO je nach Mandat und Legal-Ops-Vorgaben.
 - **Entscheidende Weiche:** Kläre Scope, Budget, Deliverable, Eskalationspunkt, Verantwortlichen, Frist, Erfolgskriterium und Kommunikationsspur.
 
@@ -457,7 +515,7 @@ _Wenn es um Template Library Governance in Kanzlei-Mandant Lifecycle geht: erste
 
 Er verdichtet Sachverhalt, Rollen, Dokumente, Risiken, Quellen und nächsten Schritt zu einem steuerbaren Arbeitsweg.
 
-**Fokus:** Mustertexte, Klauseln, Schriftsatzbausteine, Freigaben und Aktualitätscheck verwalten
+**Fokus:** Gerichtsverfahren in Phasen, Schriftsatzkalender, Beweis, Vergleich und Kosten erklären
 
 ## Kaltstart-Fragen
 
@@ -468,57 +526,7 @@ Er verdichtet Sachverhalt, Rollen, Dokumente, Risiken, Quellen und nächsten Sch
 
 ## Prüf- und Arbeitslogik
 
-- **Rechtsanker:** Haftung, Berufsrecht, Urheberrecht, Datenschutz und Qualitätsmanagement.
-- **Tatsachenanker:** Mandatsdatum, Rollen, Scope, Freigaben, Zustellungen, Budgetstand, Beweiswert, Eskalationen und offene Lücken trennen.
-- **Risikoebenen:** Haftung, Berufsrecht, Datenschutz, Vergütung, Frist, Eskalation, Reputationsrisiko und Governance getrennt ausgeben.
-- **Gegenposition:** die beste plausible Gegenansicht formulieren und sagen, welche Unterlage sie trägt oder entkräftet.
-- **Entscheidung:** einen Minimalpfad für heute und einen robusten Hauptpfad für die nächsten Arbeitstage vorschlagen.
-
-## Typische Fehlerquellen
-
-- Keine Mandatsgeheimnisse in ungeprüfte Systeme geben.
-- Budget und Erfolgsaussicht nie als Scheingenauigkeit verkaufen.
-- Kanzlei- und Mandantensicht trennen und dann bewusst zusammenführen.
-- Rechnung, Scope und Beziehung früh klären, bevor Misstrauen entsteht.
-
-## Quellen- und Aktualitätsgate
-
-Vor tragenden Aussagen live prüfen: amtliche Normfassung, zuständige Behörde/Institution, frei zugängliche Rechtsprechung nur mit Gericht, Datum und Aktenzeichen. Keine BeckRS-/juris-/Kommentar-Blindzitate. Bei dynamischen Medizin-, EU-, Berufsrechts- und Vergütungsfragen immer den Stand des konkreten Tages nennen.
-
-## Nützliche Startquellen
-
-- RVG § 3a: https://www.gesetze-im-internet.de/rvg/__3a.html
-- BRAO § 43e: https://www.gesetze-im-internet.de/brao/__43e.html
-- BRAO § 49b: https://www.gesetze-im-internet.de/brao/__49b.html
-
----
-
-## Skill: `dashboard-design-qualitygate`
-
-_Wenn es um Dashboard Design Qualitygate in Kanzlei-Mandant Lifecycle geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten._
-
-# Dashboard Design Qualitygate
-
-## Fachkern: Dashboard Design Qualitygate
-- **Normen-/Quellenanker:** BGB-Dienst-/Geschäftsbesorgungsvertrag, RVG, BRAO/BORA, DSGVO, GeschGehG, ZPO/ArbGG/VwGO je nach Mandat und Legal-Ops-Vorgaben.
-- **Entscheidende Weiche:** Kläre Scope, Budget, Deliverable, Eskalationspunkt, Verantwortlichen, Frist, Erfolgskriterium und Kommunikationsspur.
-
-## Worum es geht
-
-Er verdichtet Sachverhalt, Rollen, Dokumente, Risiken, Quellen und nächsten Schritt zu einem steuerbaren Arbeitsweg.
-
-**Fokus:** Dashboard so prüfen, dass es führt statt blendet: keine falsche Präzision, klare Owner, echte Risiken
-
-## Kaltstart-Fragen
-
-- Wer spricht gerade: Kanzlei, Einzelanwalt, Rechtsabteilung, GC, CFO, Fachabteilung oder Gericht/Behörde?
-- Welches Matter, welches Ziel, welche Frist, welches Budget und welche Entscheidung stehen an?
-- Welche Informationen sind geheim, personenbezogen, privilegiert oder nur intern verwendbar?
-- Soll ein Dashboard, Memo, E-Mail, Rechnungskommentar, Board Paper oder Maßnahmenplan entstehen?
-
-## Prüf- und Arbeitslogik
-
-- **Rechtsanker:** Haftungsprävention, Datenschutz, Projektmanagement und Quellenhygiene.
+- **Rechtsanker:** ZPO, GKG/RVG, Mandatsvertrag, Prozessrisiko und Vertraulichkeit.
 - **Tatsachenanker:** Mandatsdatum, Rollen, Scope, Freigaben, Zustellungen, Budgetstand, Beweiswert, Eskalationen und offene Lücken trennen.
 - **Risikoebenen:** Haftung, Berufsrecht, Datenschutz, Vergütung, Frist, Eskalation, Reputationsrisiko und Governance getrennt ausgeben.
 - **Gegenposition:** die beste plausible Gegenansicht formulieren und sagen, welche Unterlage sie trägt oder entkräftet.

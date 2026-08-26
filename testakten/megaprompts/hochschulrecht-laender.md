@@ -7,15 +7,15 @@ Diese Vollprüfung enthält top-10 von 101 Skills des Plugins `hochschulrecht-la
 ## Inhaltsverzeichnis
 
 1. **juristischer-argumentationskern** — Schaltet sich ein, wenn in Hochschulrecht Länder ein juristisches Arbeitsprodukt tragfähig begründet werden muss; verbin…
-2. **kaltstart-triage** — Wenn es um Allgemein in Hochschulrecht der Bundesländer geht: klärt Rolle, Ziel, Frist, Unterlagen und den passenden näc…
-3. **hochschulgesetz-mecklenburg-vorpommern** — Wenn es um Hochschulgesetz Mecklenburg Vorpommern in Hochschulrecht der Bundesländer geht: ordnet Sachverhalt, Norm, Bew…
-4. **hochschulgesetz-nordrhein-rheinland** — Wenn es um Hochschulgesetz Nordrhein Westfalen in Hochschulrecht der Bundesländer geht: ordnet Sachverhalt, Norm, Beweis…
-5. **hochschulgesetz-baden-wuerttemberg** — Wenn es um Hochschulgesetz Baden Wuerttemberg in Hochschulrecht der Bundesländer geht: ordnet Sachverhalt, Norm, Beweisl…
-6. **hochschulgesetz-schleswig-holstein** — Wenn es um Hochschulgesetz Schleswig Holstein in Hochschulrecht der Bundesländer geht: ordnet Sachverhalt, Norm, Beweisl…
-7. **ranking-kennzahlen-und-hochschulmarketing** — Wenn es um Ranking, Kennzahlen und Hochschulmarketing in Hochschulrecht der Bundesländer geht: rechnet Schwellen, Beträg…
-8. **plagiat-gwp-praesidium-rektorat-private** — Wenn es um Plagiat und GWP an Hochschulen in Hochschulrecht der Bundesländer geht: ordnet Akteninhalt, Belege, Lücken un…
-9. **vergaberecht-forschungsgeraete** — Wenn es um Vergaberecht Forschungsgeräte in Hochschulrecht der Bundesländer geht: ordnet Akteninhalt, Belege, Lücken und…
-10. **rechtsschutz-hochschule** — Wenn es um Rechtsschutz Hochschule in Hochschulrecht der Bundesländer geht: erstellt den passenden Entwurf aus Sachverha…
+2. **kaltstart-triage** — Für Allgemein: routet Rolle, Frist, Unterlagen und Fachschritt; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt. F…
+3. **international-office-visum-status** — Für International Office, Visum und Status: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Schnittstellenkarte mit…
+4. **hochschulfusion-neugliederung** — Für Hochschulfusion und Neugliederung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Schnittstellenkarte mit Zust…
+5. **ranking-kennzahlen-und-hochschulmarketing** — Für Ranking, Kennzahlen und Hochschulmarketing: rechnet Beträge, Schwellen und Varianten; Ergebnis: Berechnungstabelle m…
+6. **studiengebuehren-internationale** — Für Studiengebühren internationale Studenten: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Berechnungstabelle mi…
+7. **beurlaubung-hochschulstatus-campusbau** — Für Beurlaubung und Hochschulstatus: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Schnittstellenkarte mit Zustän…
+8. **nebentaetigkeit-professoren** — Für Nebentätigkeit Professorinnen und Professoren: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit …
+9. **gastwissenschaftler-sanktionen-dual-use** — Für Gastwissenschaftler, Sanktionen und Dual Use: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit R…
+10. **international-office-und-visa** — Für International Office und Visa: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Schnittstellenkarte mit Zuständi…
 
 ---
 
@@ -138,7 +138,7 @@ Ausgangspunkt für dieses Plugin: Behörde trägt Tatsachengrundlage, Ermessen u
 
 ## Skill: `kaltstart-triage`
 
-_Wenn es um Allgemein in Hochschulrecht der Bundesländer geht: klärt Rolle, Ziel, Frist, Unterlagen und den passenden nächsten Fachskill; liefert eine Fristen- und Risikoampel mit Sofortschritten._
+_Für Allgemein: routet Rolle, Frist, Unterlagen und Fachschritt; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt. Fachgebiet: Hochschulrecht der Bundesländer._
 
 # Allgemein
 
@@ -231,26 +231,25 @@ Erzeuge bevorzugt: Hochschulrechts-Fahrplan. Am Ende immer drei Zeilen: **Frist*
 
 ---
 
-## Skill: `hochschulgesetz-mecklenburg-vorpommern`
+## Skill: `international-office-visum-status`
 
-_Wenn es um Hochschulgesetz Mecklenburg Vorpommern in Hochschulrecht der Bundesländer geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt._
+_Für International Office, Visum und Status: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Schnittstellenkarte mit Zuständigkeits- und Nachweisfragen._
 
-# Hochschulgesetz Mecklenburg Vorpommern
+# International Office, Visum und Status
 
 ## Normenanker
 
-Arbeitsfokus: **Hochschulgesetz Mecklenburg Vorpommern**. Prüfe diese Anker am Sachverhalt; ergänze nur Normen, die denselben Output, dieselbe Frist oder dieselbe Beweisfrage tragen:
+Arbeitsfokus: **International Office, Visum und Status**. Prüfe diese Anker am Sachverhalt; ergänze nur Normen, die denselben Output, dieselbe Frist oder dieselbe Beweisfrage tragen:
 
-- `Art. 5 Abs. 3 Satz 1 GG` — Wissenschaftsfreiheit.
-- `Art. 12 Abs. 1 GG` — Ausbildungs- und Berufszugang.
-- `Art. 3 Abs. 1 GG` — Gleichbehandlung.
-- `§ 2 HRG` — Aufgaben der Hochschulen.
-- `§ 4 HRG` — Freiheit von Forschung, Lehre und Studium.
-- `§ 7 HRG` — Ziel des Studiums.
-- `§ 15 HRG` — Prüfungen.
-- `§ 16 HRG` — Prüfungsordnungen.
-- `§ 70 Abs. 1 VwGO` — Widerspruch.
-- `§ 123 Abs. 1 VwGO` — Eilrechtsschutz.
+- `Art. 5 Abs. 3 Satz 1 GG` — Forschungsfreiheit.
+- `§ 25 HRG` — Forschung mit Mitteln Dritter.
+- `Art. 89 Abs. 1 DSGVO` — Forschungsdaten.
+- `§ 27 Abs. 1 BDSG` — wissenschaftliche Forschung.
+- `§ 42 ArbNErfG` — Hochschulerfindungen.
+- `§ 4 Abs. 1 AWG` — Außenwirtschaftsbeschränkungen.
+- `§ 5 AWG` — Embargo/Sanktionen.
+- `§ 7 Abs. 1 TierSchG` — Tierversuchszweck.
+- `§ 8 Abs. 1 TierSchG` — Tierversuchsgenehmigung.
 
 Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei prüfbare Quelle vorliegen; keine BeckRS-/juris-Blindzitate verwenden.
 
@@ -262,21 +261,19 @@ Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei pr
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Studenten, Lehrer, Prüfungsausschuss, Dekanat, Rektorat, Wissenschaftsministerium des Landes, VG, OVG, Akkreditierungsrat.
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Studien-/Prüfungsordnung, Zulassungsbescheid, Prüfungsbescheid, Widerspruchsbescheid, Klage VG, Promotionsordnung, Berufungsvereinbarung — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
-## Fachkern: Hochschulgesetz Mecklenburg Vorpommern
+## Fachkern: International Office, Visum und Status
 - **Normen-/Quellenanker:** Hochschulgesetze der Länder, Grundrechte, Hochschulsatzungen, Kapazitätsrecht, Berufungsrecht, Prüfungsrecht, Datenschutz und Arbeits-/Beamtenrecht.
 - **Entscheidende Weiche:** Bundesland, Statusgruppe, Gremium, Satzung, Verwaltungsakt, Beteiligungsrecht, Ministerium und Rechtsbehelf bestimmen.
 - **Arbeitsprodukt:** Erzeuge eine konkrete Prüf- oder Entscheidungsmatrix mit Norm, Tatbestand, Beleg, Einwand, Risikoampel und nächstem Schritt; Anschluss-Skills nur bei echter Vertiefung nennen.
 
 ## Wofür dieser Arbeitsgang da ist
 
-Landescheck Mecklenburg-Vorpommern: Organe, Studium, Prüfungen, Berufung, Drittmittel, Studentennschaft, Aufsicht und Rechtsschutz.
-
-Der Skill arbeitet landes- und satzungsbezogen: Er fragt zuerst nach Bundesland, Einrichtung, konkreter Ordnung, Bescheid, Frist, Verfahrensstand und vorhandenen Unterlagen. Ohne diese Angaben wird keine scheinbar sichere Antwort erzeugt.
+Dieser Skill vertieft ein konkretes Problem im Hochschulrecht. Er ist für Hochschule, Fakultät, Ministerium, Gremium, Professorin, Studenten oder Kanzlei gedacht und soll aus unvollständigen Akten schnell eine belastbare Prüfspur machen.
 
 ## Spezialfokus
 
-- **Konkreter Auftrag:** Prüft Hochschulrecht in Mecklenburg-Vorpommern mit Landeshochschulgesetz, Satzungen, Ministerium und Hochschulautonomie.
-- **Erste Trennlinie:** Ist das Problem wirklich Hochschulgesetz Mecklenburg Vorpommern, oder liegt vorgelagert eine andere Entscheidung, Zuständigkeit oder Frist vor?
+- **Konkreter Auftrag:** Prüft hochschulische Bescheinigungen, Visum, Aufenthalt und Einschreibung.
+- **Erste Trennlinie:** Ist das Problem wirklich International Office, Visum und Status, oder liegt vorgelagert eine andere Entscheidung, Zuständigkeit oder Frist vor?
 - **Quellenarbeit:** Suche die aktuelle Landesnorm, Ordnung oder Satzung im Original und notiere Fundstelle, Fassung, Bekanntgabeweg und Geltungszeitpunkt.
 - **Aktenarbeit:** Markiere, welches Dokument die entscheidende Tatsache trägt; bloße Schilderungen bekommen eine eigene Unsicherheitsnote.
 - **Produkt:** Liefere am Ende nicht nur ein Ergebnis, sondern eine Handlung: Gesprächsfahrplan, Akteneinsicht, Antrag, Widerspruch/Remonstration, Eilrechtsschutz oder interne Entscheidungsvorlage.
@@ -290,48 +287,44 @@ Der Skill arbeitet landes- und satzungsbezogen: Er fragt zuerst nach Bundesland,
 
 ## Kaltstartfragen
 
-- In welchem Bundesland spielt der Fall und welche Schule, Hochschule oder Prüfungsstelle ist zuständig?
-- Welche konkrete Normenebene liegt vor: Gesetz, Verordnung, Satzung, Prüfungsordnung, Schulordnung, Bescheid, Protokoll oder E-Mail?
-- Welche Frist läuft und wie wurde die Entscheidung bekanntgegeben?
-- Wer ist betroffen und wer ist verfahrensbefugt: Schüler, Eltern, Studenten, Prüfling, Hochschule, Schulträger, Behörde, Prüfungsausschuss?
-- Welche Tatsachen sind belegt und welche werden nur behauptet?
+- In welchem Bundesland und bei welcher konkreten Einrichtung spielt der Fall?
+- Welche Entscheidung, Maßnahme, Satzung, Ordnung, E-Mail oder welches Protokoll liegt wirklich vor?
+- Welche Frist läuft, wann wurde bekanntgegeben und gibt es bereits Widerspruch, Remonstration, Antrag, Beschwerde oder Eilverfahren?
+- Welche Tatsachen sind durch Aktenstücke belegt und welche sind nur Erzählstand?
+- Welches Ziel soll erreicht werden: Aufhebung, Neubescheidung, Duldung, Gesprächslösung, Vergleich, Akteneinsicht oder nur Risikoeinschätzung?
 
-## Arbeitslogik
+## Prüfprogramm
 
-1. **Normenkette bauen:** Landesrecht, untergesetzliche Verordnung, Satzung/Ordnung und konkrete Entscheidung trennen.
-2. **Verfahrensstand klären:** Antrag, Anhörung, Bescheid, Widerspruch, Remonstration, Eilverfahren, Klage oder interne Gremienphase einordnen.
-3. **Rechtspositionen sortieren:** Grundrechte, Teilhaberechte, Chancengleichheit, Selbstverwaltung, Elternrechte, Fürsorge, Datenschutz und Gleichbehandlung abgleichen.
-4. **Beweis prüfen:** Akte, Protokoll, Bewertungsbogen, Konferenzbeschluss, E-Mail, ärztliches Attest, Nachteilsausgleich oder IT-Log einer konkreten Aussage zuordnen.
-5. **Output liefern:** Entscheidungsvorlage, Widerspruch, Antrag, Fristenliste, Akteneinsichtsantrag, Gesprächsleitfaden, Klage-/Eilantragsgerüst oder Gremienmemo.
+1. **Normhierarchie trennen:** Landeshochschulgesetz, Grundordnung, Satzung, Berufungsordnung, Haushaltsrecht, Verwaltungsverfahrensrecht und VwGO nicht vermischen; die konkrete Ordnung und den Bescheid immer zuerst lesen.
+2. **Zuständigkeit und Verfahren prüfen:** Wer durfte entscheiden, wer musste beteiligt werden, welches Gremium war zuständig und welche Anhörung fehlt möglicherweise?
+3. **Materielle Grenze bestimmen:** Ermessen, Beurteilungs- oder Bewertungsspielraum respektieren, aber Willkür, Verfahrensfehler, Gleichbehandlung, Grundrechte und Verhältnismäßigkeit sauber herausarbeiten.
+4. **Beweisroute bauen:** Aktenstück, Protokoll, Chat, E-Mail, Attest, Bewertungsbogen, Satzungsauszug oder amtliche Quelle jeder Tatsachenbehauptung zuordnen.
+5. **Nächsten Schritt liefern:** knappe Lageeinschätzung, Fristenliste, Antrag, Widerspruch, Remonstration, Eilantragsgerüst, Gesprächsleitfaden oder Beschluss-/Bescheidkritik.
 
-## Fachanker
+## Fachliche Leitplanken
 
-- Primäre Anker: Landeshochschulgesetz Mecklenburg-Vorpommern live; amtliches Landesportal.
-- Landesrecht, aktuelle Satzungen und Prüfungsordnungen immer live aus amtlichen Portalen oder Originaldokumenten prüfen.
-- Rechtsprechung nur mit Gericht, Entscheidungsdatum, Aktenzeichen und frei überprüfbarer Quelle nennen.
+- Landesrecht und Satzungsrecht sind dynamisch; vor einer konkreten Ausgabe müssen aktuelle amtliche Quellen oder Originalordnungen geprüft werden.
+- Rechtsprechung nur zitieren, wenn Gericht, Datum, Aktenzeichen und eine frei überprüfbare Quelle vorliegen.
+- Keine pauschalen Aussagen wie "immer rechtswidrig" oder "pädagogisch nicht angreifbar"; entscheidend sind Verfahrensspur, Dokumentation, Gleichbehandlung und konkrete Rechtsgrundlage.
 
-## Typische Fehler
+## Output-Muster
 
-- Bundesland oder Prüfungsordnung wird übersehen.
-- Eine E-Mail wird wie ein Verwaltungsakt behandelt oder ein Verwaltungsakt nur wie eine Information.
-- Bewertungs- und pädagogische Spielräume werden entweder zu weit oder zu eng verstanden.
-- Fristen laufen, während nur über Fairness diskutiert wird.
-
-## Ergebnisformat
-
-Erzeuge bevorzugt: Landesrecht-Steckbrief. Am Ende immer drei Zeilen: **Frist**, **fehlende Quelle**, **nächster sicherer Schritt**.
+- **Sofortlage:** Was ist entschieden, was läuft, was droht?
+- **Angriffspunkte:** Zuständigkeit, Verfahren, Begründung, Tatsachenbasis, Ermessen/Bewertungsspielraum, Verhältnismäßigkeit.
+- **Dokumentenbedarf:** fehlende Akten, Protokolle, Ordnungen, Atteste, Gremienbeschlüsse und Zustellnachweise.
+- **Entwurf:** präziser Antrag oder Schriftsatzbaustein mit Frist, Ziel und Begründung.
 
 ---
 
-## Skill: `hochschulgesetz-nordrhein-rheinland`
+## Skill: `hochschulfusion-neugliederung`
 
-_Wenn es um Hochschulgesetz Nordrhein Westfalen in Hochschulrecht der Bundesländer geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt._
+_Für Hochschulfusion und Neugliederung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Schnittstellenkarte mit Zuständigkeits- und Nachweisfragen._
 
-# Hochschulgesetz Nordrhein Westfalen
+# Hochschulfusion und Neugliederung
 
 ## Normenanker
 
-Arbeitsfokus: **Hochschulgesetz Nordrhein Westfalen**. Prüfe diese Anker am Sachverhalt; ergänze nur Normen, die denselben Output, dieselbe Frist oder dieselbe Beweisfrage tragen:
+Arbeitsfokus: **Hochschulfusion und Neugliederung**. Prüfe diese Anker am Sachverhalt; ergänze nur Normen, die denselben Output, dieselbe Frist oder dieselbe Beweisfrage tragen:
 
 - `Art. 5 Abs. 3 Satz 1 GG` — Wissenschaftsfreiheit.
 - `Art. 12 Abs. 1 GG` — Ausbildungs- und Berufszugang.
@@ -354,21 +347,19 @@ Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei pr
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Studenten, Lehrer, Prüfungsausschuss, Dekanat, Rektorat, Wissenschaftsministerium des Landes, VG, OVG, Akkreditierungsrat.
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Studien-/Prüfungsordnung, Zulassungsbescheid, Prüfungsbescheid, Widerspruchsbescheid, Klage VG, Promotionsordnung, Berufungsvereinbarung — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
-## Fachkern: Hochschulgesetz Nordrhein Westfalen
+## Fachkern: Hochschulfusion und Neugliederung
 - **Normen-/Quellenanker:** Hochschulgesetze der Länder, Grundrechte, Hochschulsatzungen, Kapazitätsrecht, Berufungsrecht, Prüfungsrecht, Datenschutz und Arbeits-/Beamtenrecht.
 - **Entscheidende Weiche:** Bundesland, Statusgruppe, Gremium, Satzung, Verwaltungsakt, Beteiligungsrecht, Ministerium und Rechtsbehelf bestimmen.
 - **Arbeitsprodukt:** Erzeuge eine konkrete Prüf- oder Entscheidungsmatrix mit Norm, Tatbestand, Beleg, Einwand, Risikoampel und nächstem Schritt; Anschluss-Skills nur bei echter Vertiefung nennen.
 
 ## Wofür dieser Arbeitsgang da ist
 
-Landescheck Nordrhein-Westfalen: Organe, Studium, Prüfungen, Berufung, Drittmittel, Studentennschaft, Aufsicht und Rechtsschutz.
-
-Der Skill arbeitet landes- und satzungsbezogen: Er fragt zuerst nach Bundesland, Einrichtung, konkreter Ordnung, Bescheid, Frist, Verfahrensstand und vorhandenen Unterlagen. Ohne diese Angaben wird keine scheinbar sichere Antwort erzeugt.
+Dieser Skill vertieft ein konkretes Problem im Hochschulrecht. Er ist für Hochschule, Fakultät, Ministerium, Gremium, Professorin, Studenten oder Kanzlei gedacht und soll aus unvollständigen Akten schnell eine belastbare Prüfspur machen.
 
 ## Spezialfokus
 
-- **Konkreter Auftrag:** Prüft Hochschulrecht in Nordrhein-Westfalen mit Landeshochschulgesetz, Satzungen, Ministerium und Hochschulautonomie.
-- **Erste Trennlinie:** Ist das Problem wirklich Hochschulgesetz Nordrhein Westfalen, oder liegt vorgelagert eine andere Entscheidung, Zuständigkeit oder Frist vor?
+- **Konkreter Auftrag:** Prüft Fusion, Standortschließung, Personal, Gremien und Übergangsrecht.
+- **Erste Trennlinie:** Ist das Problem wirklich Hochschulfusion und Neugliederung, oder liegt vorgelagert eine andere Entscheidung, Zuständigkeit oder Frist vor?
 - **Quellenarbeit:** Suche die aktuelle Landesnorm, Ordnung oder Satzung im Original und notiere Fundstelle, Fassung, Bekanntgabeweg und Geltungszeitpunkt.
 - **Aktenarbeit:** Markiere, welches Dokument die entscheidende Tatsache trägt; bloße Schilderungen bekommen eine eigene Unsicherheitsnote.
 - **Produkt:** Liefere am Ende nicht nur ein Ergebnis, sondern eine Handlung: Gesprächsfahrplan, Akteneinsicht, Antrag, Widerspruch/Remonstration, Eilrechtsschutz oder interne Entscheidungsvorlage.
@@ -382,226 +373,38 @@ Der Skill arbeitet landes- und satzungsbezogen: Er fragt zuerst nach Bundesland,
 
 ## Kaltstartfragen
 
-- In welchem Bundesland spielt der Fall und welche Schule, Hochschule oder Prüfungsstelle ist zuständig?
-- Welche konkrete Normenebene liegt vor: Gesetz, Verordnung, Satzung, Prüfungsordnung, Schulordnung, Bescheid, Protokoll oder E-Mail?
-- Welche Frist läuft und wie wurde die Entscheidung bekanntgegeben?
-- Wer ist betroffen und wer ist verfahrensbefugt: Schüler, Eltern, Studenten, Prüfling, Hochschule, Schulträger, Behörde, Prüfungsausschuss?
-- Welche Tatsachen sind belegt und welche werden nur behauptet?
-
-## Arbeitslogik
-
-1. **Normenkette bauen:** Landesrecht, untergesetzliche Verordnung, Satzung/Ordnung und konkrete Entscheidung trennen.
-2. **Verfahrensstand klären:** Antrag, Anhörung, Bescheid, Widerspruch, Remonstration, Eilverfahren, Klage oder interne Gremienphase einordnen.
-3. **Rechtspositionen sortieren:** Grundrechte, Teilhaberechte, Chancengleichheit, Selbstverwaltung, Elternrechte, Fürsorge, Datenschutz und Gleichbehandlung abgleichen.
-4. **Beweis prüfen:** Akte, Protokoll, Bewertungsbogen, Konferenzbeschluss, E-Mail, ärztliches Attest, Nachteilsausgleich oder IT-Log einer konkreten Aussage zuordnen.
-5. **Output liefern:** Entscheidungsvorlage, Widerspruch, Antrag, Fristenliste, Akteneinsichtsantrag, Gesprächsleitfaden, Klage-/Eilantragsgerüst oder Gremienmemo.
-
-## Fachanker
-
-- Primäre Anker: Landeshochschulgesetz Nordrhein-Westfalen live; amtliches Landesportal.
-- Landesrecht, aktuelle Satzungen und Prüfungsordnungen immer live aus amtlichen Portalen oder Originaldokumenten prüfen.
-- Rechtsprechung nur mit Gericht, Entscheidungsdatum, Aktenzeichen und frei überprüfbarer Quelle nennen.
-
-## Typische Fehler
-
-- Bundesland oder Prüfungsordnung wird übersehen.
-- Eine E-Mail wird wie ein Verwaltungsakt behandelt oder ein Verwaltungsakt nur wie eine Information.
-- Bewertungs- und pädagogische Spielräume werden entweder zu weit oder zu eng verstanden.
-- Fristen laufen, während nur über Fairness diskutiert wird.
-
-## Ergebnisformat
-
-Erzeuge bevorzugt: Landesrecht-Steckbrief. Am Ende immer drei Zeilen: **Frist**, **fehlende Quelle**, **nächster sicherer Schritt**.
-
----
-
-## Skill: `hochschulgesetz-baden-wuerttemberg`
-
-_Wenn es um Hochschulgesetz Baden Wuerttemberg in Hochschulrecht der Bundesländer geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt._
-
-# Hochschulgesetz Baden Wuerttemberg
-
-## Normenanker
-
-Arbeitsfokus: **Hochschulgesetz Baden Wuerttemberg**. Prüfe diese Anker am Sachverhalt; ergänze nur Normen, die denselben Output, dieselbe Frist oder dieselbe Beweisfrage tragen:
-
-- `Art. 5 Abs. 3 Satz 1 GG` — Wissenschaftsfreiheit.
-- `Art. 12 Abs. 1 GG` — Ausbildungs- und Berufszugang.
-- `Art. 3 Abs. 1 GG` — Gleichbehandlung.
-- `§ 2 HRG` — Aufgaben der Hochschulen.
-- `§ 4 HRG` — Freiheit von Forschung, Lehre und Studium.
-- `§ 7 HRG` — Ziel des Studiums.
-- `§ 15 HRG` — Prüfungen.
-- `§ 16 HRG` — Prüfungsordnungen.
-- `§ 70 Abs. 1 VwGO` — Widerspruch.
-- `§ 123 Abs. 1 VwGO` — Eilrechtsschutz.
-
-Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei prüfbare Quelle vorliegen; keine BeckRS-/juris-Blindzitate verwenden.
-
-## Arbeitsweg
-
-- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
-- Fristen und Eilrisiken zuerst markieren: Widerspruch Prüfungsentscheidung i.d.R. 1 Monat (VwVfG/VwGO), Exmatrikulation/Beurlaubung semestergebunden, Promotionsverfahren landesrechtlich.
-- Tragende Normen verifizieren: HRG (Rahmen), 16 Landeshochschulgesetze (z. B. HG NRW, BayHIG, BerlHG, HmbHG), WissZeitVG, BAföG, HRK-Beschlüsse, Bologna-Erklärung, EU-RL anerkennung Berufsqualifikationen 2005/36 — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
-- Zuständige Stelle bestimmen und Adressaten richtig wählen: Studenten, Lehrer, Prüfungsausschuss, Dekanat, Rektorat, Wissenschaftsministerium des Landes, VG, OVG, Akkreditierungsrat.
-- Dokumente und Beweismittel sammeln und auf Lücken prüfen: Studien-/Prüfungsordnung, Zulassungsbescheid, Prüfungsbescheid, Widerspruchsbescheid, Klage VG, Promotionsordnung, Berufungsvereinbarung — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
-
-## Fachkern: Hochschulgesetz Baden Wuerttemberg
-- **Normen-/Quellenanker:** Hochschulgesetze der Länder, Grundrechte, Hochschulsatzungen, Kapazitätsrecht, Berufungsrecht, Prüfungsrecht, Datenschutz und Arbeits-/Beamtenrecht.
-- **Entscheidende Weiche:** Bundesland, Statusgruppe, Gremium, Satzung, Verwaltungsakt, Beteiligungsrecht, Ministerium und Rechtsbehelf bestimmen.
-- **Arbeitsprodukt:** Erzeuge eine konkrete Prüf- oder Entscheidungsmatrix mit Norm, Tatbestand, Beleg, Einwand, Risikoampel und nächstem Schritt; Anschluss-Skills nur bei echter Vertiefung nennen.
-
-## Wofür dieser Arbeitsgang da ist
-
-Landescheck Baden-Württemberg: Organe, Studium, Prüfungen, Berufung, Drittmittel, Studentennschaft, Aufsicht und Rechtsschutz.
-
-Der Skill arbeitet landes- und satzungsbezogen: Er fragt zuerst nach Bundesland, Einrichtung, konkreter Ordnung, Bescheid, Frist, Verfahrensstand und vorhandenen Unterlagen. Ohne diese Angaben wird keine scheinbar sichere Antwort erzeugt.
-
-## Spezialfokus
-
-- **Konkreter Auftrag:** Prüft Hochschulrecht in Baden-Württemberg mit Landeshochschulgesetz, Satzungen, Ministerium und Hochschulautonomie.
-- **Erste Trennlinie:** Ist das Problem wirklich Hochschulgesetz Baden Wuerttemberg, oder liegt vorgelagert eine andere Entscheidung, Zuständigkeit oder Frist vor?
-- **Quellenarbeit:** Suche die aktuelle Landesnorm, Ordnung oder Satzung im Original und notiere Fundstelle, Fassung, Bekanntgabeweg und Geltungszeitpunkt.
-- **Aktenarbeit:** Markiere, welches Dokument die entscheidende Tatsache trägt; bloße Schilderungen bekommen eine eigene Unsicherheitsnote.
-- **Produkt:** Liefere am Ende nicht nur ein Ergebnis, sondern eine Handlung: Gesprächsfahrplan, Akteneinsicht, Antrag, Widerspruch/Remonstration, Eilrechtsschutz oder interne Entscheidungsvorlage.
-
-### Typische Fallen in diesem Gebiet
-
-- Landeshochschulgesetz, Grundordnung, Fakultäts-/Prüfungs-/Berufungsordnung und konkrete Gremienbeschlüsse strikt trennen.
-- Wissenschaftsfreiheit, Selbstverwaltungsrecht, Ministerialaufsicht und Haushaltsbindung jeweils gesondert abprüfen.
-- Bei Gremienfragen immer Statusgruppen, Befangenheit, Einladung, Beschlussfähigkeit, Protokoll und Zuständigkeit kontrollieren.
-- Bei Drittmitteln, Berufungen und Forschung nie ohne Rechtekette, Publikationsfreiheit, Compliance und Dokumentationsspur arbeiten.
-
-## Kaltstartfragen
-
-- In welchem Bundesland spielt der Fall und welche Schule, Hochschule oder Prüfungsstelle ist zuständig?
-- Welche konkrete Normenebene liegt vor: Gesetz, Verordnung, Satzung, Prüfungsordnung, Schulordnung, Bescheid, Protokoll oder E-Mail?
-- Welche Frist läuft und wie wurde die Entscheidung bekanntgegeben?
-- Wer ist betroffen und wer ist verfahrensbefugt: Schüler, Eltern, Studenten, Prüfling, Hochschule, Schulträger, Behörde, Prüfungsausschuss?
-- Welche Tatsachen sind belegt und welche werden nur behauptet?
-
-## Arbeitslogik
-
-1. **Normenkette bauen:** Landesrecht, untergesetzliche Verordnung, Satzung/Ordnung und konkrete Entscheidung trennen.
-2. **Verfahrensstand klären:** Antrag, Anhörung, Bescheid, Widerspruch, Remonstration, Eilverfahren, Klage oder interne Gremienphase einordnen.
-3. **Rechtspositionen sortieren:** Grundrechte, Teilhaberechte, Chancengleichheit, Selbstverwaltung, Elternrechte, Fürsorge, Datenschutz und Gleichbehandlung abgleichen.
-4. **Beweis prüfen:** Akte, Protokoll, Bewertungsbogen, Konferenzbeschluss, E-Mail, ärztliches Attest, Nachteilsausgleich oder IT-Log einer konkreten Aussage zuordnen.
-5. **Output liefern:** Entscheidungsvorlage, Widerspruch, Antrag, Fristenliste, Akteneinsichtsantrag, Gesprächsleitfaden, Klage-/Eilantragsgerüst oder Gremienmemo.
-
-## Fachanker
-
-- Primäre Anker: Landeshochschulgesetz Baden-Württemberg live; amtliches Landesportal.
-- Landesrecht, aktuelle Satzungen und Prüfungsordnungen immer live aus amtlichen Portalen oder Originaldokumenten prüfen.
-- Rechtsprechung nur mit Gericht, Entscheidungsdatum, Aktenzeichen und frei überprüfbarer Quelle nennen.
-
-## Typische Fehler
-
-- Bundesland oder Prüfungsordnung wird übersehen.
-- Eine E-Mail wird wie ein Verwaltungsakt behandelt oder ein Verwaltungsakt nur wie eine Information.
-- Bewertungs- und pädagogische Spielräume werden entweder zu weit oder zu eng verstanden.
-- Fristen laufen, während nur über Fairness diskutiert wird.
-
-## Ergebnisformat
-
-Erzeuge bevorzugt: Landesrecht-Steckbrief. Am Ende immer drei Zeilen: **Frist**, **fehlende Quelle**, **nächster sicherer Schritt**.
-
----
-
-## Skill: `hochschulgesetz-schleswig-holstein`
-
-_Wenn es um Hochschulgesetz Schleswig Holstein in Hochschulrecht der Bundesländer geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt._
-
-# Hochschulgesetz Schleswig Holstein
-
-## Normenanker
-
-Arbeitsfokus: **Hochschulgesetz Schleswig Holstein**. Prüfe diese Anker am Sachverhalt; ergänze nur Normen, die denselben Output, dieselbe Frist oder dieselbe Beweisfrage tragen:
-
-- `Art. 5 Abs. 3 Satz 1 GG` — Wissenschaftsfreiheit.
-- `Art. 12 Abs. 1 GG` — Ausbildungs- und Berufszugang.
-- `Art. 3 Abs. 1 GG` — Gleichbehandlung.
-- `§ 2 HRG` — Aufgaben der Hochschulen.
-- `§ 4 HRG` — Freiheit von Forschung, Lehre und Studium.
-- `§ 7 HRG` — Ziel des Studiums.
-- `§ 15 HRG` — Prüfungen.
-- `§ 16 HRG` — Prüfungsordnungen.
-- `§ 70 Abs. 1 VwGO` — Widerspruch.
-- `§ 123 Abs. 1 VwGO` — Eilrechtsschutz.
-
-Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei prüfbare Quelle vorliegen; keine BeckRS-/juris-Blindzitate verwenden.
-
-## Arbeitsweg
-
-- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
-- Fristen und Eilrisiken zuerst markieren: Widerspruch Prüfungsentscheidung i.d.R. 1 Monat (VwVfG/VwGO), Exmatrikulation/Beurlaubung semestergebunden, Promotionsverfahren landesrechtlich.
-- Tragende Normen verifizieren: HRG (Rahmen), 16 Landeshochschulgesetze (z. B. HG NRW, BayHIG, BerlHG, HmbHG), WissZeitVG, BAföG, HRK-Beschlüsse, Bologna-Erklärung, EU-RL anerkennung Berufsqualifikationen 2005/36 — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
-- Zuständige Stelle bestimmen und Adressaten richtig wählen: Studenten, Lehrer, Prüfungsausschuss, Dekanat, Rektorat, Wissenschaftsministerium des Landes, VG, OVG, Akkreditierungsrat.
-- Dokumente und Beweismittel sammeln und auf Lücken prüfen: Studien-/Prüfungsordnung, Zulassungsbescheid, Prüfungsbescheid, Widerspruchsbescheid, Klage VG, Promotionsordnung, Berufungsvereinbarung — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
-
-## Fachkern: Hochschulgesetz Schleswig Holstein
-- **Normen-/Quellenanker:** Hochschulgesetze der Länder, Grundrechte, Hochschulsatzungen, Kapazitätsrecht, Berufungsrecht, Prüfungsrecht, Datenschutz und Arbeits-/Beamtenrecht.
-- **Entscheidende Weiche:** Bundesland, Statusgruppe, Gremium, Satzung, Verwaltungsakt, Beteiligungsrecht, Ministerium und Rechtsbehelf bestimmen.
-- **Arbeitsprodukt:** Erzeuge eine konkrete Prüf- oder Entscheidungsmatrix mit Norm, Tatbestand, Beleg, Einwand, Risikoampel und nächstem Schritt; Anschluss-Skills nur bei echter Vertiefung nennen.
-
-## Wofür dieser Arbeitsgang da ist
-
-Landescheck Schleswig-Holstein: Organe, Studium, Prüfungen, Berufung, Drittmittel, Studentennschaft, Aufsicht und Rechtsschutz.
-
-Der Skill arbeitet landes- und satzungsbezogen: Er fragt zuerst nach Bundesland, Einrichtung, konkreter Ordnung, Bescheid, Frist, Verfahrensstand und vorhandenen Unterlagen. Ohne diese Angaben wird keine scheinbar sichere Antwort erzeugt.
-
-## Spezialfokus
-
-- **Konkreter Auftrag:** Prüft Hochschulrecht in Schleswig-Holstein mit Landeshochschulgesetz, Satzungen, Ministerium und Hochschulautonomie.
-- **Erste Trennlinie:** Ist das Problem wirklich Hochschulgesetz Schleswig Holstein, oder liegt vorgelagert eine andere Entscheidung, Zuständigkeit oder Frist vor?
-- **Quellenarbeit:** Suche die aktuelle Landesnorm, Ordnung oder Satzung im Original und notiere Fundstelle, Fassung, Bekanntgabeweg und Geltungszeitpunkt.
-- **Aktenarbeit:** Markiere, welches Dokument die entscheidende Tatsache trägt; bloße Schilderungen bekommen eine eigene Unsicherheitsnote.
-- **Produkt:** Liefere am Ende nicht nur ein Ergebnis, sondern eine Handlung: Gesprächsfahrplan, Akteneinsicht, Antrag, Widerspruch/Remonstration, Eilrechtsschutz oder interne Entscheidungsvorlage.
-
-### Typische Fallen in diesem Gebiet
-
-- Landeshochschulgesetz, Grundordnung, Fakultäts-/Prüfungs-/Berufungsordnung und konkrete Gremienbeschlüsse strikt trennen.
-- Wissenschaftsfreiheit, Selbstverwaltungsrecht, Ministerialaufsicht und Haushaltsbindung jeweils gesondert abprüfen.
-- Bei Gremienfragen immer Statusgruppen, Befangenheit, Einladung, Beschlussfähigkeit, Protokoll und Zuständigkeit kontrollieren.
-- Bei Drittmitteln, Berufungen und Forschung nie ohne Rechtekette, Publikationsfreiheit, Compliance und Dokumentationsspur arbeiten.
-
-## Kaltstartfragen
-
-- In welchem Bundesland spielt der Fall und welche Schule, Hochschule oder Prüfungsstelle ist zuständig?
-- Welche konkrete Normenebene liegt vor: Gesetz, Verordnung, Satzung, Prüfungsordnung, Schulordnung, Bescheid, Protokoll oder E-Mail?
-- Welche Frist läuft und wie wurde die Entscheidung bekanntgegeben?
-- Wer ist betroffen und wer ist verfahrensbefugt: Schüler, Eltern, Studenten, Prüfling, Hochschule, Schulträger, Behörde, Prüfungsausschuss?
-- Welche Tatsachen sind belegt und welche werden nur behauptet?
-
-## Arbeitslogik
-
-1. **Normenkette bauen:** Landesrecht, untergesetzliche Verordnung, Satzung/Ordnung und konkrete Entscheidung trennen.
-2. **Verfahrensstand klären:** Antrag, Anhörung, Bescheid, Widerspruch, Remonstration, Eilverfahren, Klage oder interne Gremienphase einordnen.
-3. **Rechtspositionen sortieren:** Grundrechte, Teilhaberechte, Chancengleichheit, Selbstverwaltung, Elternrechte, Fürsorge, Datenschutz und Gleichbehandlung abgleichen.
-4. **Beweis prüfen:** Akte, Protokoll, Bewertungsbogen, Konferenzbeschluss, E-Mail, ärztliches Attest, Nachteilsausgleich oder IT-Log einer konkreten Aussage zuordnen.
-5. **Output liefern:** Entscheidungsvorlage, Widerspruch, Antrag, Fristenliste, Akteneinsichtsantrag, Gesprächsleitfaden, Klage-/Eilantragsgerüst oder Gremienmemo.
-
-## Fachanker
-
-- Primäre Anker: Landeshochschulgesetz Schleswig-Holstein live; amtliches Landesportal.
-- Landesrecht, aktuelle Satzungen und Prüfungsordnungen immer live aus amtlichen Portalen oder Originaldokumenten prüfen.
-- Rechtsprechung nur mit Gericht, Entscheidungsdatum, Aktenzeichen und frei überprüfbarer Quelle nennen.
-
-## Typische Fehler
-
-- Bundesland oder Prüfungsordnung wird übersehen.
-- Eine E-Mail wird wie ein Verwaltungsakt behandelt oder ein Verwaltungsakt nur wie eine Information.
-- Bewertungs- und pädagogische Spielräume werden entweder zu weit oder zu eng verstanden.
-- Fristen laufen, während nur über Fairness diskutiert wird.
-
-## Ergebnisformat
-
-Erzeuge bevorzugt: Landesrecht-Steckbrief. Am Ende immer drei Zeilen: **Frist**, **fehlende Quelle**, **nächster sicherer Schritt**.
+- In welchem Bundesland und bei welcher konkreten Einrichtung spielt der Fall?
+- Welche Entscheidung, Maßnahme, Satzung, Ordnung, E-Mail oder welches Protokoll liegt wirklich vor?
+- Welche Frist läuft, wann wurde bekanntgegeben und gibt es bereits Widerspruch, Remonstration, Antrag, Beschwerde oder Eilverfahren?
+- Welche Tatsachen sind durch Aktenstücke belegt und welche sind nur Erzählstand?
+- Welches Ziel soll erreicht werden: Aufhebung, Neubescheidung, Duldung, Gesprächslösung, Vergleich, Akteneinsicht oder nur Risikoeinschätzung?
+
+## Prüfprogramm
+
+1. **Normhierarchie trennen:** Landeshochschulgesetz, Grundordnung, Satzung, Berufungsordnung, Haushaltsrecht, Verwaltungsverfahrensrecht und VwGO nicht vermischen; die konkrete Ordnung und den Bescheid immer zuerst lesen.
+2. **Zuständigkeit und Verfahren prüfen:** Wer durfte entscheiden, wer musste beteiligt werden, welches Gremium war zuständig und welche Anhörung fehlt möglicherweise?
+3. **Materielle Grenze bestimmen:** Ermessen, Beurteilungs- oder Bewertungsspielraum respektieren, aber Willkür, Verfahrensfehler, Gleichbehandlung, Grundrechte und Verhältnismäßigkeit sauber herausarbeiten.
+4. **Beweisroute bauen:** Aktenstück, Protokoll, Chat, E-Mail, Attest, Bewertungsbogen, Satzungsauszug oder amtliche Quelle jeder Tatsachenbehauptung zuordnen.
+5. **Nächsten Schritt liefern:** knappe Lageeinschätzung, Fristenliste, Antrag, Widerspruch, Remonstration, Eilantragsgerüst, Gesprächsleitfaden oder Beschluss-/Bescheidkritik.
+
+## Fachliche Leitplanken
+
+- Landesrecht und Satzungsrecht sind dynamisch; vor einer konkreten Ausgabe müssen aktuelle amtliche Quellen oder Originalordnungen geprüft werden.
+- Rechtsprechung nur zitieren, wenn Gericht, Datum, Aktenzeichen und eine frei überprüfbare Quelle vorliegen.
+- Keine pauschalen Aussagen wie "immer rechtswidrig" oder "pädagogisch nicht angreifbar"; entscheidend sind Verfahrensspur, Dokumentation, Gleichbehandlung und konkrete Rechtsgrundlage.
+
+## Output-Muster
+
+- **Sofortlage:** Was ist entschieden, was läuft, was droht?
+- **Angriffspunkte:** Zuständigkeit, Verfahren, Begründung, Tatsachenbasis, Ermessen/Bewertungsspielraum, Verhältnismäßigkeit.
+- **Dokumentenbedarf:** fehlende Akten, Protokolle, Ordnungen, Atteste, Gremienbeschlüsse und Zustellnachweise.
+- **Entwurf:** präziser Antrag oder Schriftsatzbaustein mit Frist, Ziel und Begründung.
 
 ---
 
 ## Skill: `ranking-kennzahlen-und-hochschulmarketing`
 
-_Wenn es um Ranking, Kennzahlen und Hochschulmarketing in Hochschulrecht der Bundesländer geht: rechnet Schwellen, Beträge, Varianten und Kontrollannahmen durch; liefert eine Berechnungstabelle mit Schwellen, Annahmen und Kontrollfragen._
+_Für Ranking, Kennzahlen und Hochschulmarketing: rechnet Beträge, Schwellen und Varianten; Ergebnis: Berechnungstabelle mit Annahmen und Kontrollfragen._
 
 # Ranking, Kennzahlen und Hochschulmarketing
 
@@ -685,26 +488,26 @@ Dieser Skill vertieft ein konkretes Problem im Hochschulrecht. Er ist für Hochs
 
 ---
 
-## Skill: `plagiat-gwp-praesidium-rektorat-private`
+## Skill: `studiengebuehren-internationale`
 
-_Wenn es um Plagiat und GWP an Hochschulen in Hochschulrecht der Bundesländer geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt._
+_Für Studiengebühren internationale Studenten: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Berechnungstabelle mit Annahmen und Kontrollfragen._
 
-# Plagiat und GWP an Hochschulen
+# Studiengebühren internationale Studenten
 
 ## Normenanker
 
-Arbeitsfokus: **Plagiat und GWP an Hochschulen**. Prüfe diese Anker am Sachverhalt; ergänze nur Normen, die denselben Output, dieselbe Frist oder dieselbe Beweisfrage tragen:
+Arbeitsfokus: **Studiengebühren internationale Studenten**. Prüfe diese Anker am Sachverhalt; ergänze nur Normen, die denselben Output, dieselbe Frist oder dieselbe Beweisfrage tragen:
 
-- `Art. 5 Abs. 3 Satz 1 GG` — Wissenschaftsfreiheit.
-- `Art. 33 Abs. 2 GG` — Bestenauslese bei Professuren/Ämtern.
-- `Art. 12 Abs. 1 GG` — Prüfungs- und Berufszugangsbezug.
-- `Art. 3 Abs. 1 GG` — Chancengleichheit.
-- `§ 4 HRG` — Freiheit von Forschung und Lehre.
-- `§ 15 HRG` — Prüfungen.
-- `§ 16 HRG` — Prüfungsordnungen.
-- `§ 28 Abs. 1 VwVfG` — Anhörung.
+- `Art. 12 Abs. 1 GG` — Berufswahl- und Ausbildungszugang.
+- `Art. 3 Abs. 1 GG` — Gleichbehandlung im Zugang/Status.
+- `§ 27 HRG` — Zugang zum Studium.
+- `§ 29 HRG` — Auswahl bei Zulassungsbeschränkungen.
+- `§ 28 Abs. 1 VwVfG` — Anhörung vor belastender Statusentscheidung.
+- `§ 37 Abs. 1 VwVfG` — Bestimmtheit des Bescheids.
 - `§ 39 Abs. 1 VwVfG` — Begründung.
-- `§ 123 Abs. 1 VwGO` — Eilrechtsschutz im Konkurrenten-/Prüfungskontext.
+- `§ 70 Abs. 1 VwGO` — Widerspruch.
+- `§ 80 Abs. 5 VwGO` — Eilrechtsschutz bei Vollziehung.
+- `§ 123 Abs. 1 VwGO` — vorläufige Zulassung/Statussicherung.
 
 Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei prüfbare Quelle vorliegen; keine BeckRS-/juris-Blindzitate verwenden.
 
@@ -716,7 +519,7 @@ Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei pr
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Studenten, Lehrer, Prüfungsausschuss, Dekanat, Rektorat, Wissenschaftsministerium des Landes, VG, OVG, Akkreditierungsrat.
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Studien-/Prüfungsordnung, Zulassungsbescheid, Prüfungsbescheid, Widerspruchsbescheid, Klage VG, Promotionsordnung, Berufungsvereinbarung — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
-## Fachkern: Plagiat und GWP an Hochschulen
+## Fachkern: Studiengebühren internationale Studenten
 - **Normen-/Quellenanker:** Hochschulgesetze der Länder, Grundrechte, Hochschulsatzungen, Kapazitätsrecht, Berufungsrecht, Prüfungsrecht, Datenschutz und Arbeits-/Beamtenrecht.
 - **Entscheidende Weiche:** Bundesland, Statusgruppe, Gremium, Satzung, Verwaltungsakt, Beteiligungsrecht, Ministerium und Rechtsbehelf bestimmen.
 - **Arbeitsprodukt:** Erzeuge eine konkrete Prüf- oder Entscheidungsmatrix mit Norm, Tatbestand, Beleg, Einwand, Risikoampel und nächstem Schritt; Anschluss-Skills nur bei echter Vertiefung nennen.
@@ -727,8 +530,8 @@ Dieser Skill vertieft ein konkretes Problem im Hochschulrecht. Er ist für Hochs
 
 ## Spezialfokus
 
-- **Konkreter Auftrag:** Prüft Plagiatsvorwürfe, Promotionsfolgen, Akteneinsicht und Verfahrensrechte.
-- **Erste Trennlinie:** Ist das Problem wirklich Plagiat und GWP an Hochschulen, oder liegt vorgelagert eine andere Entscheidung, Zuständigkeit oder Frist vor?
+- **Konkreter Auftrag:** Prüft Gebühren für internationale Studenten, Satzung, Ausnahmen und Rückerstattung.
+- **Erste Trennlinie:** Ist das Problem wirklich Studiengebühren internationale Studenten, oder liegt vorgelagert eine andere Entscheidung, Zuständigkeit oder Frist vor?
 - **Quellenarbeit:** Suche die aktuelle Landesnorm, Ordnung oder Satzung im Original und notiere Fundstelle, Fassung, Bekanntgabeweg und Geltungszeitpunkt.
 - **Aktenarbeit:** Markiere, welches Dokument die entscheidende Tatsache trägt; bloße Schilderungen bekommen eine eigene Unsicherheitsnote.
 - **Produkt:** Liefere am Ende nicht nur ein Ergebnis, sondern eine Handlung: Gesprächsfahrplan, Akteneinsicht, Antrag, Widerspruch/Remonstration, Eilrechtsschutz oder interne Entscheidungsvorlage.
@@ -771,25 +574,26 @@ Dieser Skill vertieft ein konkretes Problem im Hochschulrecht. Er ist für Hochs
 
 ---
 
-## Skill: `vergaberecht-forschungsgeraete`
+## Skill: `beurlaubung-hochschulstatus-campusbau`
 
-_Wenn es um Vergaberecht Forschungsgeräte in Hochschulrecht der Bundesländer geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt._
+_Für Beurlaubung und Hochschulstatus: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Schnittstellenkarte mit Zuständigkeits- und Nachweisfragen._
 
-# Vergaberecht Forschungsgeräte
+# Beurlaubung und Hochschulstatus
 
 ## Normenanker
 
-Arbeitsfokus: **Vergaberecht Forschungsgeräte**. Prüfe diese Anker am Sachverhalt; ergänze nur Normen, die denselben Output, dieselbe Frist oder dieselbe Beweisfrage tragen:
+Arbeitsfokus: **Beurlaubung und Hochschulstatus**. Prüfe diese Anker am Sachverhalt; ergänze nur Normen, die denselben Output, dieselbe Frist oder dieselbe Beweisfrage tragen:
 
-- `Art. 5 Abs. 3 Satz 1 GG` — Forschungsfreiheit.
-- `§ 25 HRG` — Forschung mit Mitteln Dritter.
-- `Art. 89 Abs. 1 DSGVO` — Forschungsdaten.
-- `§ 27 Abs. 1 BDSG` — wissenschaftliche Forschung.
-- `§ 42 ArbNErfG` — Hochschulerfindungen.
-- `§ 4 Abs. 1 AWG` — Außenwirtschaftsbeschränkungen.
-- `§ 5 AWG` — Embargo/Sanktionen.
-- `§ 7 Abs. 1 TierSchG` — Tierversuchszweck.
-- `§ 8 Abs. 1 TierSchG` — Tierversuchsgenehmigung.
+- `Art. 12 Abs. 1 GG` — Berufswahl- und Ausbildungszugang.
+- `Art. 3 Abs. 1 GG` — Gleichbehandlung im Zugang/Status.
+- `§ 27 HRG` — Zugang zum Studium.
+- `§ 29 HRG` — Auswahl bei Zulassungsbeschränkungen.
+- `§ 28 Abs. 1 VwVfG` — Anhörung vor belastender Statusentscheidung.
+- `§ 37 Abs. 1 VwVfG` — Bestimmtheit des Bescheids.
+- `§ 39 Abs. 1 VwVfG` — Begründung.
+- `§ 70 Abs. 1 VwGO` — Widerspruch.
+- `§ 80 Abs. 5 VwGO` — Eilrechtsschutz bei Vollziehung.
+- `§ 123 Abs. 1 VwGO` — vorläufige Zulassung/Statussicherung.
 
 Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei prüfbare Quelle vorliegen; keine BeckRS-/juris-Blindzitate verwenden.
 
@@ -801,7 +605,7 @@ Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei pr
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Studenten, Lehrer, Prüfungsausschuss, Dekanat, Rektorat, Wissenschaftsministerium des Landes, VG, OVG, Akkreditierungsrat.
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Studien-/Prüfungsordnung, Zulassungsbescheid, Prüfungsbescheid, Widerspruchsbescheid, Klage VG, Promotionsordnung, Berufungsvereinbarung — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
-## Fachkern: Vergaberecht Forschungsgeräte
+## Fachkern: Beurlaubung und Hochschulstatus
 - **Normen-/Quellenanker:** Hochschulgesetze der Länder, Grundrechte, Hochschulsatzungen, Kapazitätsrecht, Berufungsrecht, Prüfungsrecht, Datenschutz und Arbeits-/Beamtenrecht.
 - **Entscheidende Weiche:** Bundesland, Statusgruppe, Gremium, Satzung, Verwaltungsakt, Beteiligungsrecht, Ministerium und Rechtsbehelf bestimmen.
 - **Arbeitsprodukt:** Erzeuge eine konkrete Prüf- oder Entscheidungsmatrix mit Norm, Tatbestand, Beleg, Einwand, Risikoampel und nächstem Schritt; Anschluss-Skills nur bei echter Vertiefung nennen.
@@ -812,8 +616,8 @@ Dieser Skill vertieft ein konkretes Problem im Hochschulrecht. Er ist für Hochs
 
 ## Spezialfokus
 
-- **Konkreter Auftrag:** Prüft Beschaffung von Forschungsgeräten, Dringlichkeit, Alleinstellungsmerkmal und Dokumentation.
-- **Erste Trennlinie:** Ist das Problem wirklich Vergaberecht Forschungsgeräte, oder liegt vorgelagert eine andere Entscheidung, Zuständigkeit oder Frist vor?
+- **Konkreter Auftrag:** Prüft Urlaubssemester, Beitragsstatus, Prüfungsrechte, BAföG und Exmatrikulationsrisiken.
+- **Erste Trennlinie:** Ist das Problem wirklich Beurlaubung und Hochschulstatus, oder liegt vorgelagert eine andere Entscheidung, Zuständigkeit oder Frist vor?
 - **Quellenarbeit:** Suche die aktuelle Landesnorm, Ordnung oder Satzung im Original und notiere Fundstelle, Fassung, Bekanntgabeweg und Geltungszeitpunkt.
 - **Aktenarbeit:** Markiere, welches Dokument die entscheidende Tatsache trägt; bloße Schilderungen bekommen eine eigene Unsicherheitsnote.
 - **Produkt:** Liefere am Ende nicht nur ein Ergebnis, sondern eine Handlung: Gesprächsfahrplan, Akteneinsicht, Antrag, Widerspruch/Remonstration, Eilrechtsschutz oder interne Entscheidungsvorlage.
@@ -856,15 +660,15 @@ Dieser Skill vertieft ein konkretes Problem im Hochschulrecht. Er ist für Hochs
 
 ---
 
-## Skill: `rechtsschutz-hochschule`
+## Skill: `nebentaetigkeit-professoren`
 
-_Wenn es um Rechtsschutz Hochschule in Hochschulrecht der Bundesländer geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik._
+_Für Nebentätigkeit Professorinnen und Professoren: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt._
 
-# Rechtsschutz Hochschule
+# Nebentätigkeit Professorinnen und Professoren
 
 ## Normenanker
 
-Arbeitsfokus: **Rechtsschutz Hochschule**. Prüfe diese Anker am Sachverhalt; ergänze nur Normen, die denselben Output, dieselbe Frist oder dieselbe Beweisfrage tragen:
+Arbeitsfokus: **Nebentätigkeit Professorinnen und Professoren**. Prüfe diese Anker am Sachverhalt; ergänze nur Normen, die denselben Output, dieselbe Frist oder dieselbe Beweisfrage tragen:
 
 - `Art. 5 Abs. 3 Satz 1 GG` — Wissenschaftsfreiheit.
 - `Art. 12 Abs. 1 GG` — Ausbildungs- und Berufszugang.
@@ -887,21 +691,163 @@ Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei pr
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Studenten, Lehrer, Prüfungsausschuss, Dekanat, Rektorat, Wissenschaftsministerium des Landes, VG, OVG, Akkreditierungsrat.
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Studien-/Prüfungsordnung, Zulassungsbescheid, Prüfungsbescheid, Widerspruchsbescheid, Klage VG, Promotionsordnung, Berufungsvereinbarung — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
-## Fachkern: Rechtsschutz Hochschule
+## Fachkern: Nebentätigkeit Professorinnen und Professoren
 - **Normen-/Quellenanker:** Hochschulgesetze der Länder, Grundrechte, Hochschulsatzungen, Kapazitätsrecht, Berufungsrecht, Prüfungsrecht, Datenschutz und Arbeits-/Beamtenrecht.
 - **Entscheidende Weiche:** Bundesland, Statusgruppe, Gremium, Satzung, Verwaltungsakt, Beteiligungsrecht, Ministerium und Rechtsbehelf bestimmen.
 - **Arbeitsprodukt:** Erzeuge eine konkrete Prüf- oder Entscheidungsmatrix mit Norm, Tatbestand, Beleg, Einwand, Risikoampel und nächstem Schritt; Anschluss-Skills nur bei echter Vertiefung nennen.
 
 ## Wofür dieser Arbeitsgang da ist
 
-Rechtsbehelf, Frist, Zuständigkeit, Anordnungsgrund, Akte und Vergleichschancen.
+Dieser Skill vertieft ein konkretes Problem im Hochschulrecht. Er ist für Hochschule, Fakultät, Ministerium, Gremium, Professorin, Studenten oder Kanzlei gedacht und soll aus unvollständigen Akten schnell eine belastbare Prüfspur machen.
+
+## Spezialfokus
+
+- **Konkreter Auftrag:** Prüft Anzeige/Genehmigung, Drittmittelnähe, Interessenkonflikte und Abführungspflichten.
+- **Erste Trennlinie:** Ist das Problem wirklich Nebentätigkeit Professorinnen und Professoren, oder liegt vorgelagert eine andere Entscheidung, Zuständigkeit oder Frist vor?
+- **Quellenarbeit:** Suche die aktuelle Landesnorm, Ordnung oder Satzung im Original und notiere Fundstelle, Fassung, Bekanntgabeweg und Geltungszeitpunkt.
+- **Aktenarbeit:** Markiere, welches Dokument die entscheidende Tatsache trägt; bloße Schilderungen bekommen eine eigene Unsicherheitsnote.
+- **Produkt:** Liefere am Ende nicht nur ein Ergebnis, sondern eine Handlung: Gesprächsfahrplan, Akteneinsicht, Antrag, Widerspruch/Remonstration, Eilrechtsschutz oder interne Entscheidungsvorlage.
+
+### Typische Fallen in diesem Gebiet
+
+- Landeshochschulgesetz, Grundordnung, Fakultäts-/Prüfungs-/Berufungsordnung und konkrete Gremienbeschlüsse strikt trennen.
+- Wissenschaftsfreiheit, Selbstverwaltungsrecht, Ministerialaufsicht und Haushaltsbindung jeweils gesondert abprüfen.
+- Bei Gremienfragen immer Statusgruppen, Befangenheit, Einladung, Beschlussfähigkeit, Protokoll und Zuständigkeit kontrollieren.
+- Bei Drittmitteln, Berufungen und Forschung nie ohne Rechtekette, Publikationsfreiheit, Compliance und Dokumentationsspur arbeiten.
+
+## Kaltstartfragen
+
+- In welchem Bundesland und bei welcher konkreten Einrichtung spielt der Fall?
+- Welche Entscheidung, Maßnahme, Satzung, Ordnung, E-Mail oder welches Protokoll liegt wirklich vor?
+- Welche Frist läuft, wann wurde bekanntgegeben und gibt es bereits Widerspruch, Remonstration, Antrag, Beschwerde oder Eilverfahren?
+- Welche Tatsachen sind durch Aktenstücke belegt und welche sind nur Erzählstand?
+- Welches Ziel soll erreicht werden: Aufhebung, Neubescheidung, Duldung, Gesprächslösung, Vergleich, Akteneinsicht oder nur Risikoeinschätzung?
+
+## Prüfprogramm
+
+1. **Normhierarchie trennen:** Landeshochschulgesetz, Grundordnung, Satzung, Berufungsordnung, Haushaltsrecht, Verwaltungsverfahrensrecht und VwGO nicht vermischen; die konkrete Ordnung und den Bescheid immer zuerst lesen.
+2. **Zuständigkeit und Verfahren prüfen:** Wer durfte entscheiden, wer musste beteiligt werden, welches Gremium war zuständig und welche Anhörung fehlt möglicherweise?
+3. **Materielle Grenze bestimmen:** Ermessen, Beurteilungs- oder Bewertungsspielraum respektieren, aber Willkür, Verfahrensfehler, Gleichbehandlung, Grundrechte und Verhältnismäßigkeit sauber herausarbeiten.
+4. **Beweisroute bauen:** Aktenstück, Protokoll, Chat, E-Mail, Attest, Bewertungsbogen, Satzungsauszug oder amtliche Quelle jeder Tatsachenbehauptung zuordnen.
+5. **Nächsten Schritt liefern:** knappe Lageeinschätzung, Fristenliste, Antrag, Widerspruch, Remonstration, Eilantragsgerüst, Gesprächsleitfaden oder Beschluss-/Bescheidkritik.
+
+## Fachliche Leitplanken
+
+- Landesrecht und Satzungsrecht sind dynamisch; vor einer konkreten Ausgabe müssen aktuelle amtliche Quellen oder Originalordnungen geprüft werden.
+- Rechtsprechung nur zitieren, wenn Gericht, Datum, Aktenzeichen und eine frei überprüfbare Quelle vorliegen.
+- Keine pauschalen Aussagen wie "immer rechtswidrig" oder "pädagogisch nicht angreifbar"; entscheidend sind Verfahrensspur, Dokumentation, Gleichbehandlung und konkrete Rechtsgrundlage.
+
+## Output-Muster
+
+- **Sofortlage:** Was ist entschieden, was läuft, was droht?
+- **Angriffspunkte:** Zuständigkeit, Verfahren, Begründung, Tatsachenbasis, Ermessen/Bewertungsspielraum, Verhältnismäßigkeit.
+- **Dokumentenbedarf:** fehlende Akten, Protokolle, Ordnungen, Atteste, Gremienbeschlüsse und Zustellnachweise.
+- **Entwurf:** präziser Antrag oder Schriftsatzbaustein mit Frist, Ziel und Begründung.
+
+---
+
+## Skill: `gastwissenschaftler-sanktionen-dual-use`
+
+_Für Gastwissenschaftler, Sanktionen und Dual Use: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt._
+
+# Gastwissenschaftler, Sanktionen und Dual Use
+
+## Normenanker
+
+Arbeitsfokus: **Gastwissenschaftler, Sanktionen und Dual Use**. Prüfe diese Anker am Sachverhalt; ergänze nur Normen, die denselben Output, dieselbe Frist oder dieselbe Beweisfrage tragen:
+
+- `Art. 5 Abs. 3 Satz 1 GG` — Wissenschaftsfreiheit.
+- `Art. 12 Abs. 1 GG` — Ausbildungs- und Berufszugang.
+- `Art. 3 Abs. 1 GG` — Gleichbehandlung.
+- `§ 2 HRG` — Aufgaben der Hochschulen.
+- `§ 4 HRG` — Freiheit von Forschung, Lehre und Studium.
+- `§ 7 HRG` — Ziel des Studiums.
+- `§ 15 HRG` — Prüfungen.
+- `§ 16 HRG` — Prüfungsordnungen.
+- `§ 70 Abs. 1 VwGO` — Widerspruch.
+- `§ 123 Abs. 1 VwGO` — Eilrechtsschutz.
+
+Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei prüfbare Quelle vorliegen; keine BeckRS-/juris-Blindzitate verwenden.
+
+## Arbeitsweg
+
+- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
+- Fristen und Eilrisiken zuerst markieren: Widerspruch Prüfungsentscheidung i.d.R. 1 Monat (VwVfG/VwGO), Exmatrikulation/Beurlaubung semestergebunden, Promotionsverfahren landesrechtlich.
+- Tragende Normen verifizieren: HRG (Rahmen), 16 Landeshochschulgesetze (z. B. HG NRW, BayHIG, BerlHG, HmbHG), WissZeitVG, BAföG, HRK-Beschlüsse, Bologna-Erklärung, EU-RL anerkennung Berufsqualifikationen 2005/36 — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
+- Zuständige Stelle bestimmen und Adressaten richtig wählen: Studenten, Lehrer, Prüfungsausschuss, Dekanat, Rektorat, Wissenschaftsministerium des Landes, VG, OVG, Akkreditierungsrat.
+- Dokumente und Beweismittel sammeln und auf Lücken prüfen: Studien-/Prüfungsordnung, Zulassungsbescheid, Prüfungsbescheid, Widerspruchsbescheid, Klage VG, Promotionsordnung, Berufungsvereinbarung — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
+
+## Fachkern: Gastwissenschaftler, Sanktionen und Dual Use
+- **Normen-/Quellenanker:** Hochschulgesetze der Länder, Grundrechte, Hochschulsatzungen, Kapazitätsrecht, Berufungsrecht, Prüfungsrecht, Datenschutz und Arbeits-/Beamtenrecht.
+- **Entscheidende Weiche:** Bundesland, Statusgruppe, Gremium, Satzung, Verwaltungsakt, Beteiligungsrecht, Ministerium und Rechtsbehelf bestimmen.
+- **Arbeitsprodukt:** Erzeuge eine konkrete Prüf- oder Entscheidungsmatrix mit Norm, Tatbestand, Beleg, Einwand, Risikoampel und nächstem Schritt; Anschluss-Skills nur bei echter Vertiefung nennen.
+
+## Wofür dieser Arbeitsgang da ist
+
+Dieser Skill vertieft ein konkretes Problem im Hochschulrecht. Er ist für Hochschule, Fakultät, Ministerium, Gremium, Professorin, Studenten oder Kanzlei gedacht und soll aus unvollständigen Akten schnell eine belastbare Prüfspur machen.
+
+## Spezialfokus
+
+- **Konkreter Auftrag:** Prüft Gastwissenschaftler, Exportkontrolle, Sanktionslisten und sensible Forschung.
+- **Erste Trennlinie:** Ist das Problem wirklich Gastwissenschaftler, Sanktionen und Dual Use, oder liegt vorgelagert eine andere Entscheidung, Zuständigkeit oder Frist vor?
+- **Quellenarbeit:** Suche die aktuelle Landesnorm, Ordnung oder Satzung im Original und notiere Fundstelle, Fassung, Bekanntgabeweg und Geltungszeitpunkt.
+- **Aktenarbeit:** Markiere, welches Dokument die entscheidende Tatsache trägt; bloße Schilderungen bekommen eine eigene Unsicherheitsnote.
+- **Produkt:** Liefere am Ende nicht nur ein Ergebnis, sondern eine Handlung: Gesprächsfahrplan, Akteneinsicht, Antrag, Widerspruch/Remonstration, Eilrechtsschutz oder interne Entscheidungsvorlage.
+
+### Typische Fallen in diesem Gebiet
+
+- Landeshochschulgesetz, Grundordnung, Fakultäts-/Prüfungs-/Berufungsordnung und konkrete Gremienbeschlüsse strikt trennen.
+- Wissenschaftsfreiheit, Selbstverwaltungsrecht, Ministerialaufsicht und Haushaltsbindung jeweils gesondert abprüfen.
+- Bei Gremienfragen immer Statusgruppen, Befangenheit, Einladung, Beschlussfähigkeit, Protokoll und Zuständigkeit kontrollieren.
+- Bei Drittmitteln, Berufungen und Forschung nie ohne Rechtekette, Publikationsfreiheit, Compliance und Dokumentationsspur arbeiten.
+
+## Kaltstartfragen
+
+- In welchem Bundesland und bei welcher konkreten Einrichtung spielt der Fall?
+- Welche Entscheidung, Maßnahme, Satzung, Ordnung, E-Mail oder welches Protokoll liegt wirklich vor?
+- Welche Frist läuft, wann wurde bekanntgegeben und gibt es bereits Widerspruch, Remonstration, Antrag, Beschwerde oder Eilverfahren?
+- Welche Tatsachen sind durch Aktenstücke belegt und welche sind nur Erzählstand?
+- Welches Ziel soll erreicht werden: Aufhebung, Neubescheidung, Duldung, Gesprächslösung, Vergleich, Akteneinsicht oder nur Risikoeinschätzung?
+
+## Prüfprogramm
+
+1. **Normhierarchie trennen:** Landeshochschulgesetz, Grundordnung, Satzung, Berufungsordnung, Haushaltsrecht, Verwaltungsverfahrensrecht und VwGO nicht vermischen; die konkrete Ordnung und den Bescheid immer zuerst lesen.
+2. **Zuständigkeit und Verfahren prüfen:** Wer durfte entscheiden, wer musste beteiligt werden, welches Gremium war zuständig und welche Anhörung fehlt möglicherweise?
+3. **Materielle Grenze bestimmen:** Ermessen, Beurteilungs- oder Bewertungsspielraum respektieren, aber Willkür, Verfahrensfehler, Gleichbehandlung, Grundrechte und Verhältnismäßigkeit sauber herausarbeiten.
+4. **Beweisroute bauen:** Aktenstück, Protokoll, Chat, E-Mail, Attest, Bewertungsbogen, Satzungsauszug oder amtliche Quelle jeder Tatsachenbehauptung zuordnen.
+5. **Nächsten Schritt liefern:** knappe Lageeinschätzung, Fristenliste, Antrag, Widerspruch, Remonstration, Eilantragsgerüst, Gesprächsleitfaden oder Beschluss-/Bescheidkritik.
+
+## Fachliche Leitplanken
+
+- Landesrecht und Satzungsrecht sind dynamisch; vor einer konkreten Ausgabe müssen aktuelle amtliche Quellen oder Originalordnungen geprüft werden.
+- Rechtsprechung nur zitieren, wenn Gericht, Datum, Aktenzeichen und eine frei überprüfbare Quelle vorliegen.
+- Keine pauschalen Aussagen wie "immer rechtswidrig" oder "pädagogisch nicht angreifbar"; entscheidend sind Verfahrensspur, Dokumentation, Gleichbehandlung und konkrete Rechtsgrundlage.
+
+## Output-Muster
+
+- **Sofortlage:** Was ist entschieden, was läuft, was droht?
+- **Angriffspunkte:** Zuständigkeit, Verfahren, Begründung, Tatsachenbasis, Ermessen/Bewertungsspielraum, Verhältnismäßigkeit.
+- **Dokumentenbedarf:** fehlende Akten, Protokolle, Ordnungen, Atteste, Gremienbeschlüsse und Zustellnachweise.
+- **Entwurf:** präziser Antrag oder Schriftsatzbaustein mit Frist, Ziel und Begründung.
+
+---
+
+## Skill: `international-office-und-visa`
+
+_Für International Office und Visa: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Schnittstellenkarte mit Zuständigkeits- und Nachweisfragen._
+
+# International Office Und Visa
+
+## Wofür dieser Skill da ist
+
+Zulassung, Sprachkenntnis, Aufenthalt, Exmatrikulation, Gebühren, Anerkennung und Fristen.
 
 Der Skill arbeitet landes- und satzungsbezogen: Er fragt zuerst nach Bundesland, Einrichtung, konkreter Ordnung, Bescheid, Frist, Verfahrensstand und vorhandenen Unterlagen. Ohne diese Angaben wird keine scheinbar sichere Antwort erzeugt.
 
 ## Spezialfokus
 
-- **Konkreter Auftrag:** Baut Widerspruch, Klage und Eilverfahren im Hochschulrecht.
-- **Erste Trennlinie:** Ist das Problem wirklich Rechtsschutz Hochschule, oder liegt vorgelagert eine andere Entscheidung, Zuständigkeit oder Frist vor?
+- **Konkreter Auftrag:** Prüft internationale Studenten und Hochschulstatus.
+- **Erste Trennlinie:** Ist das Problem wirklich International Office Und Visa, oder liegt vorgelagert eine andere Entscheidung, Zuständigkeit oder Frist vor?
 - **Quellenarbeit:** Suche die aktuelle Landesnorm, Ordnung oder Satzung im Original und notiere Fundstelle, Fassung, Bekanntgabeweg und Geltungszeitpunkt.
 - **Aktenarbeit:** Markiere, welches Dokument die entscheidende Tatsache trägt; bloße Schilderungen bekommen eine eigene Unsicherheitsnote.
 - **Produkt:** Liefere am Ende nicht nur ein Ergebnis, sondern eine Handlung: Gesprächsfahrplan, Akteneinsicht, Antrag, Widerspruch/Remonstration, Eilrechtsschutz oder interne Entscheidungsvorlage.
@@ -931,7 +877,7 @@ Der Skill arbeitet landes- und satzungsbezogen: Er fragt zuerst nach Bundesland,
 
 ## Fachanker
 
-- Primäre Anker: VwGO; Landesrecht.
+- Primäre Anker: AufenthG Schnittstelle; Hochschulrecht.
 - Landesrecht, aktuelle Satzungen und Prüfungsordnungen immer live aus amtlichen Portalen oder Originaldokumenten prüfen.
 - Rechtsprechung nur mit Gericht, Entscheidungsdatum, Aktenzeichen und frei überprüfbarer Quelle nennen.
 
@@ -944,7 +890,7 @@ Der Skill arbeitet landes- und satzungsbezogen: Er fragt zuerst nach Bundesland,
 
 ## Ergebnisformat
 
-Erzeuge bevorzugt: Rechtsschutzfahrplan. Am Ende immer drei Zeilen: **Frist**, **fehlende Quelle**, **nächster sicherer Schritt**.
+Erzeuge bevorzugt: International-Office-Memo. Am Ende immer drei Zeilen: **Frist**, **fehlende Quelle**, **nächster sicherer Schritt**.
 
 ---
 

@@ -1,6 +1,6 @@
 ---
 name: varianten-fehlerkatalog
-description: "Wenn es um Varianten Fehlerkatalog in E-Mail-Umformulierer geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Varianten Fehlerkatalog: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Varianten Fehlerkatalog

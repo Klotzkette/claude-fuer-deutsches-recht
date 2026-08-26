@@ -1,6 +1,6 @@
 ---
 name: berichtigungspflicht-ao-berufsgerichtliche
-description: "Wenn es um Berichtigungspflicht Ao Berufsgerichtliche in Berufsrecht Steuerberater geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Berichtigungspflicht AO Berufsgerichtliche: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Steuerberater: berichtigungspflicht 153 ao - Organisationspflichten, Prävention, Team-Anweisung und Fristenkontrolle

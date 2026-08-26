@@ -1,6 +1,6 @@
 ---
 name: digitalisierungstitel-szenario-rechnen
-description: "Wenn es um Digitalisierungstitel Szenario Rechnen in Haushaltsrecht BHO Bund und Länder geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Digitalisierungstitel Szenario Rechnen: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Digitalisierungstitel Szenario Rechnen

@@ -1,6 +1,6 @@
 ---
 name: hochschulrat-aufsicht-ministerium
-description: "Wenn es um Hochschulrat, Aufsicht und Ministerium in Hochschulrecht der Bundesländer geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Hochschulrat, Aufsicht und Ministerium: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Hochschulrat, Aufsicht und Ministerium

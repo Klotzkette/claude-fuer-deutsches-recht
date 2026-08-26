@@ -1,6 +1,6 @@
 ---
 name: direktzahlung-flaechenabweichung-gapinvekos
-description: "Prüft Flächenabweichungen bei GAP-Direktzahlungen nach aktuellem GAPInVeKoSG und GAPInVeKoSV. Rekonstruiert Antrag, Parzelle, Messmethode und Flächenmonitoring, berechnet Kürzung und Übererklärungssanktion und prüft Berichtigung, fehlendes Verschulden, Behördenirrtum und Rechtsschutz."
+description: "Prüft Flächenabweichungen bei GAP-Direktzahlungen nach aktuellem GAPInVeKoSG und GAPInVeKoSV."
 ---
 
 # Flächenabweichung bei Direktzahlungen prüfen

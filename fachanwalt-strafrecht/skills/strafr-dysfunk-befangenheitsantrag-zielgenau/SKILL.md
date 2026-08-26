@@ -1,6 +1,6 @@
 ---
 name: strafr-dysfunk-befangenheitsantrag-zielgenau
-description: "Wenn es um Strafr Dysfunk Befangenheitsantrag Zielgenau in Fachanwalt Strafrecht geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
+description: "Für Strafr Dysfunk Befangenheitsantrag Zielgenau: erstellt Entwurf mit Antrag, Beweis und Anlagen; Ergebnis: Schriftsatz mit Begründungs- und Anlagenlogik."
 ---
 
 # Befangenheitsantrag nach § 24 StPO zielgenau formulieren ohne sich dem Vorwurf der Konflikt- oder dysfunktionalen Verteidigung auszusetzen

@@ -1,6 +1,6 @@
 ---
 name: anpassungsgebot-flaechennutzungsplan
-description: "Wenn es um Anpassungsgebot — Flächennutzungsplan in Normenkontrolle Bauleitplanung — Paragraf 47 VwGO geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Anpassungsgebot — Flächennutzungsplan: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Anpassungsgebot — Flächennutzungsplan

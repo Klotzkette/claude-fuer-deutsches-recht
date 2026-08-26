@@ -1,6 +1,6 @@
 ---
 name: cross-iv-eigenverwaltung
-description: "Wenn es um IV Cross-Border Assets — Trustee, DIP, Registervollzug in Insolvenzverwaltung - IV-Cockpit geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert einen Einreichungsplan mit Form-, Portal- und Nachweischeck."
+description: "Für IV Cross-Border Assets — Trustee, DIP, Registervollzug: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # IV Cross-Border Assets — Trustee, DIP, Registervollzug

@@ -1,6 +1,6 @@
 ---
 name: bautraeger-notarvertrag-grundlagen-pruefraster
-description: "Wenn es um Bautraegervertrag notarieller Prüfraster Grundlagen in Fachanwalt Bau Architektenrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Bauträgervertrag notarieller Prüfraster Grundlagen: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Bautraegervertrag notarieller Prüfraster Grundlagen

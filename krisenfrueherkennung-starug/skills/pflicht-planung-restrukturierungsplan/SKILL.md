@@ -1,6 +1,6 @@
 ---
 name: pflicht-planung-restrukturierungsplan
-description: "Wenn es um Pflicht: Dokumentenmatrix, Lückenliste und Nachforderung in Krisenfrüherkennung und StaRUG-Management geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Dokumentenmatrix mit Nachforderungsliste."
+description: "Für Pflicht: Dokumentenmatrix, Lückenliste und Nachforderung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Pflicht: Dokumentenmatrix, Lückenliste und Nachforderung

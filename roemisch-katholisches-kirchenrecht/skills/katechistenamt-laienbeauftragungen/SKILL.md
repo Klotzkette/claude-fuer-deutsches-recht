@@ -1,6 +1,6 @@
 ---
 name: katechistenamt-laienbeauftragungen
-description: "Wenn es um Katechistenamt und Laienbeauftragungen in Römisch-katholisches Kirchenrecht CIC und Katechismus geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Katechistenamt und Laienbeauftragungen: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt. Fachgebiet: Römisch-katholisches Kirchenrecht CIC und Katechismus. Route: katechistenamt-laienbeauftragungen."
 ---
 
 # Katechistenamt und Laienbeauftragungen

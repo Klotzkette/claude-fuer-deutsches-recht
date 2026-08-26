@@ -1,6 +1,6 @@
 ---
 name: umsetzung-versetzung-abordnung-zuweisung
-description: "Wenn es um Umsetzung Versetzung Abordnung Zuweisung in Beamtenrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Umsetzung Versetzung Abordnung Zuweisung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Umsetzung Versetzung Abordnung Zuweisung

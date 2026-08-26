@@ -1,6 +1,6 @@
 ---
 name: qualitaetsgate-signatur-notarielle
-description: "Wenn es um Notariat im Alltag: Qualitätsgate vor Signatur und Einreichung in Notariat im Alltag geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Notariat im Alltag: Qualitätsgate vor Signatur und Einreichung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Gegenprüfung mit Beweis- und Fristencheck."
 ---
 
 # Notariat im Alltag: Qualitätsgate vor Signatur und Einreichung

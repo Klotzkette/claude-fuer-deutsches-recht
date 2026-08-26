@@ -1,6 +1,6 @@
 ---
 name: strafrecht-spezial-umweltstrafrecht-324-stgb-gewaesser
-description: "Wenn es um Gewaesserverunreinigung nach Paragraph 324 StGB in Fachanwalt Strafrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Gewässerverunreinigung nach Paragraph 324 StGB: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Gewaesserverunreinigung nach Paragraph 324 StGB

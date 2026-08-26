@@ -1,6 +1,6 @@
 ---
 name: joint-controllership-en-template
-description: "Wenn es um Joint Controller Agreement – English Template (Article 26 GDPR) in Datenschutzrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Joint Controller Agreement – English Template (Article 26 GDPR): ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Joint Controller Agreement – English Template (Article 26 GDPR)

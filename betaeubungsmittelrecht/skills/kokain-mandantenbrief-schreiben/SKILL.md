@@ -1,6 +1,6 @@
 ---
 name: kokain-mandantenbrief-schreiben
-description: "Wenn es um Kokain Mandantenbrief Schreiben in Betäubungsmittelrecht geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
+description: "Für Kokain Mandantenbrief Schreiben: erstellt Entwurf mit Antrag, Beweis und Anlagen; Ergebnis: Schriftsatz mit Begründungs- und Anlagenlogik."
 ---
 
 # Kokain Mandantenbrief Schreiben

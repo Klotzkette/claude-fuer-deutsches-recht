@@ -1,6 +1,6 @@
 ---
 name: widerspruchsschrift
-description: "Wenn es um Widerspruchsschrift nach Paragrafen 68 ff in Fachanwalt Verwaltungsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Widerspruchsschrift nach Paragrafen 68 ff: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Widerspruchsschrift nach §§ 68 ff

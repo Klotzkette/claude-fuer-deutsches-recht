@@ -1,6 +1,6 @@
 ---
 name: handelsregisterabruf
-description: "Wenn es um Handelsregisterabruf und -analyse in Corporate-Kanzlei geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. Auswahlstichwort: Handelsregisterabruf; Arbeitsfeld: Corporate-Kanzlei."
+description: "Für Handelsregisterabruf und -analyse: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Einreichungsplan mit Form- und Nachweischeck. Fachgebiet: Corporate-Kanzlei. Route: handelsregisterabruf."
 ---
 
 # Handelsregisterabruf und -analyse

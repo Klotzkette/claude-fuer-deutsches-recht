@@ -1,6 +1,6 @@
 ---
 name: selektivvertrieb-luxus-internetplattform
-description: "Wenn es um Selektivvertrieb Luxus Internetplattform in Kartellrecht — Marktabgrenzungsprüfung geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen."
+description: "Für Selektivvertrieb Luxus Internetplattform: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Selektivvertrieb Luxus Internetplattform

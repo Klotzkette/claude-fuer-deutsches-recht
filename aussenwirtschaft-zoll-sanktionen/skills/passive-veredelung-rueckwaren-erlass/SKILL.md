@@ -1,6 +1,6 @@
 ---
 name: passive-veredelung-rueckwaren-erlass
-description: "Wenn es um Passive Veredelung: Bewilligung, Warenidentitaet und Zollwertberechnung in Außenwirtschaft, Sanktionen, Zoll und CBAM geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Passive Veredelung: Bewilligung, Warenidentität und Zollwertberechnung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Passive Veredelung: Bewilligung, Warenidentitaet und Zollwertberechnung

@@ -1,6 +1,6 @@
 ---
 name: datenbanklizenz-entwurf-nutzungsumfang-und-audit
-description: "Wenn es um Datenbanklizenz: Entwurf, Nutzungsumfang und Audit-Klauseln in Datenbankrecht und Datenbankherstellerrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Datenbanklizenz: Entwurf, Nutzungsumfang und Audit-Klauseln: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Datenbanklizenz: Entwurf, Nutzungsumfang und Audit-Klauseln

@@ -1,6 +1,6 @@
 ---
 name: space-016-on-orbit-servicing-andocken-reparatur-und-haftung
-description: "Wenn es um Weltraumrecht: On-orbit servicing Andocken Reparatur und Haftung in Weltraumrecht geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Weltraumrecht: On-orbit servicing Andocken Reparatur und Haftung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Weltraumrecht: On-orbit servicing Andocken Reparatur und Haftung

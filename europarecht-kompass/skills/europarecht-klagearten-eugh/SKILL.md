@@ -1,6 +1,6 @@
 ---
 name: europarecht-klagearten-eugh
-description: "Wenn es um EuGH-Klagearten und Rechtsschutz in Europarecht-Kompass für deutsche Juristen geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für EuGH-Klagearten und Rechtsschutz: erstellt Entwurf mit Antrag, Beweis und Anlagen; Ergebnis: Schriftsatz mit Begründungs- und Anlagenlogik."
 ---
 
 # EuGH-Klagearten und Rechtsschutz

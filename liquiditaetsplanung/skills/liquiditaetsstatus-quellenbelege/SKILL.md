@@ -1,6 +1,6 @@
 ---
 name: liquiditaetsstatus-quellenbelege
-description: "Wenn es um Liquiditätsstatus nur aus belastbaren Quellenbelegen in Liquiditätsplanung — Power geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen."
+description: "Für Liquiditätsstatus nur aus belastbaren Quellenbelegen: ordnet Akte, Belege und Lücken; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Liquiditätsstatus nur aus belastbaren Quellenbelegen

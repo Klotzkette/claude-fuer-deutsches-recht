@@ -1,6 +1,6 @@
 ---
 name: 01-zulaessigkeit-verwaltungsklage
-description: "Wenn es um 01 Zulässigkeit Verwaltungsklage in Verwaltungsgericht geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für 01 Zulässigkeit Verwaltungsklage: erstellt Entwurf mit Antrag, Beweis und Anlagen; Ergebnis: Schriftsatz mit Begründungs- und Anlagenlogik."
 ---
 
 # 01 Zulässigkeit Verwaltungsklage

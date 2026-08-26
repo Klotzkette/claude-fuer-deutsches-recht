@@ -1,6 +1,6 @@
 ---
 name: datenschutz-akteneinsicht-dolmetscher
-description: "Wenn es um Datenschutz Und Akteneinsicht in Juristische Sprache Deutsch als Zweitsprache geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Datenschutz und Akteneinsicht: ordnet Akte, Belege und Lücken; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Datenschutz Und Akteneinsicht

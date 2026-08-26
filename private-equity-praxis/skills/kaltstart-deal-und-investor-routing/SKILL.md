@@ -1,6 +1,6 @@
 ---
 name: kaltstart-deal-und-investor-routing
-description: "Wenn es um Kaltstart: Investor, Kanzlei, Fonds oder Target richtig einordnen in Private Equity Praxis geht: klärt Rolle, Ziel, Frist, Unterlagen und den passenden nächsten Fachskill; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Kaltstart: Investor, Kanzlei, Fonds oder Target richtig einordnen: routet Rolle, Frist, Unterlagen und Fachschritt; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Kaltstart: Investor, Kanzlei, Fonds oder Target richtig einordnen

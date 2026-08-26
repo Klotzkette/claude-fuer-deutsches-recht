@@ -1,6 +1,6 @@
 ---
 name: energie-regulierungsakte-offshore-netzanbindung-unterlagenanford
-description: "Wenn es um Energie-Regulierungsakte: Offshore-Netzanbindung — Unterlagenanforderung in Bundesnetzagentur-Verfahren geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Dokumentenmatrix mit Nachforderungsliste."
+description: "Für Energie-Regulierungsakte: Offshore-Netzanbindung — Unterlagenanforderung: ordnet Akte, Belege und Lücken; Ergebnis: Dokumentenmatrix mit Nachforderungsliste."
 ---
 
 # Energie-Regulierungsakte: Offshore-Netzanbindung — Unterlagenanforderung

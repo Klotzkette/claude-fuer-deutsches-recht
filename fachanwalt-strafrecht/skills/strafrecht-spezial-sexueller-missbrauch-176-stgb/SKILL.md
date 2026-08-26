@@ -1,6 +1,6 @@
 ---
 name: strafrecht-spezial-sexueller-missbrauch-176-stgb
-description: "Wenn es um Sexueller Missbrauch von Kindern nach Paragraf 176 StGB in Fachanwalt Strafrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Sexueller Missbrauch von Kindern nach Paragraf 176 StGB: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Sexueller Missbrauch von Kindern nach § 176 StGB

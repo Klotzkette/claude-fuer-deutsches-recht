@@ -1,6 +1,6 @@
 ---
 name: lph8-rechnungspruefung-nachtraege-vob
-description: "Wenn es um LPH 8 Rechnungsprüfung, Nachträge Und VOB-Schnittstelle in HOAI Leistungsphasen Praxis geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Gegenprüfung mit Fehler-, Beweis- und Fristencheck."
+description: "Für LPH 8 Rechnungsprüfung, Nachträge und VOB-Schnittstelle: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Tatbestands- oder Anspruchsmatrix."
 ---
 
 # LPH 8 Rechnungsprüfung, Nachträge Und VOB-Schnittstelle

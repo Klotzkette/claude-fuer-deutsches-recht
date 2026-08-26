@@ -1,6 +1,6 @@
 ---
 name: umwelt-einstellung-ruegen-verjaehrung
-description: "Wenn es um Umwelt Owi Einstellung Anregen in Ordnungswidrigkeitenrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Umwelt Owi Einstellung Anregen: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Umwelt Owi Einstellung Anregen

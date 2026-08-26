@@ -1,6 +1,6 @@
 ---
 name: berufungs-zulassung-niedrig-streitwert
-description: "Wenn es um Berufungs-Zulassung bei Beschwer bis 1.000 EUR in selbstvertreter-amtsgericht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Berufungs-Zulassung bei Beschwer bis 1.000 EUR: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Berufungs-Zulassung bei Beschwer bis 1.000 EUR

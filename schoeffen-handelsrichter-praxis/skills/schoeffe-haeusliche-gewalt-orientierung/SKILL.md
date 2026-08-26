@@ -1,6 +1,6 @@
 ---
 name: schoeffe-haeusliche-gewalt-orientierung
-description: "Wenn es um Häusliche Gewalt Verfahren: Orientierung in Schöffen und Handelsrichter Praxis geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
+description: "Für Häusliche Gewalt Verfahren: Orientierung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Schnittstellenkarte mit Zuständigkeits- und Nachweisfragen."
 ---
 
 # Häusliche Gewalt Verfahren: Orientierung

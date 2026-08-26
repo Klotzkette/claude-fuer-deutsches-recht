@@ -1,6 +1,6 @@
 ---
 name: aktenvernichtung-kdvg-12
-description: "Wenn es um Aktenvernichtung Paragraf 12 KDVG in Kriegsdienstverweigerung und Wehrdienst geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
+description: "Für Aktenvernichtung Paragraf 12 KDVG: ordnet Akte, Belege und Lücken; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Aktenvernichtung § 12 KDVG

@@ -1,6 +1,6 @@
 ---
 name: auskunft-behoerden-gerichts-registerweg
-description: "Wenn es um Auskunft: Behörden-, Gerichts- oder Registerweg in Datenschutzrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. Auswahlstichwort: Auskunft Behoerden Gerichts Registerweg; Arbeitsfeld: Datenschutzrecht."
+description: "Für Auskunft: Behörden-, Gerichts- oder Registerweg: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Einreichungsplan mit Form- und Nachweischeck. Fachgebiet: Datenschutzrecht. Route: auskunft-behoerden-gerichts-registerweg."
 ---
 
 # Auskunft: Behörden-, Gerichts- oder Registerweg

@@ -1,6 +1,6 @@
 ---
 name: nachbarschaftsstreit-tatbestand-beweis-und-belege
-description: "Wenn es um Nachbarschaftsstreit: Tatbestandsmerkmale, Beweisfragen und Beleglage in Nachbarschaftsstreit-Prüfer geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Beweislast- und Substantiierungsmatrix."
+description: "Für Nachbarschaftsstreit: Tatbestandsmerkmale, Beweisfragen und Beleglage: ordnet Akte, Belege und Lücken; Ergebnis: Beweislast- und Substantiierungsmatrix."
 ---
 
 # Nachbarschaftsstreit: Tatbestandsmerkmale, Beweisfragen und Beleglage

@@ -1,6 +1,6 @@
 ---
 name: verwaltungsaufgaben-versus-rechtsformen
-description: "Wenn es um Verwaltungsaufgabe versus Rechtsform in Rechtstheorie und Rechtsphilosophie geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
+description: "Für Verwaltungsaufgabe versus Rechtsform: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Verwaltungsaufgabe versus Rechtsform

@@ -1,6 +1,6 @@
 ---
 name: widerrufsrecht-verbraucher-355-312g-bgb
-description: "Wenn es um Widerrufsrecht Verbraucher 355 312g BGB in E-Commerce-Recht geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Widerrufsrecht Verbraucher 355 312g BGB: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Widerrufsrecht Verbraucher §§ 355 312g BGB: prüft die einschlägigen Voraussetzungen, Dokumente, Risiken und Ausnahmen

@@ -1,6 +1,6 @@
 ---
 name: bewohnerparken-bussgeld-abgrenzen
-description: "Wenn es um Bewohnerparken Bussgeld Abgrenzen in Straßenverkehrsrecht StVO geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Bewohnerparken Bussgeld Abgrenzen: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Bewohnerparken Bussgeld Abgrenzen

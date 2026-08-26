@@ -1,6 +1,6 @@
 ---
 name: personenkennziffer-und-grundakte
-description: "Wenn es um Personenkennziffer und Grundakte in Kriegsdienstverweigerung und Wehrdienst geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
+description: "Für Personenkennziffer und Grundakte: ordnet Akte, Belege und Lücken; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Personenkennziffer und Grundakte

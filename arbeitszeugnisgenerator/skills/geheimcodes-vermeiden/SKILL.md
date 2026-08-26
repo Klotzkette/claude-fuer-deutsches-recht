@@ -1,6 +1,6 @@
 ---
 name: geheimcodes-vermeiden
-description: "Prüft Wortwahl, Reihenfolge, Auslassungen und äußere Merkmale am objektiven Empfängerhorizont auf verdeckte Abwertung. Unterscheidet belegte Rechtsprechungsgrundsätze von Internet-Codelegenden und liefert klare, wahrheitsgemäße Ersatzformulierungen."
+description: "Prüft Wortwahl, Reihenfolge, Auslassungen und äußere Merkmale am objektiven Empfängerhorizont auf verdeckte Abwertung."
 ---
 
 # Geheimcodes vermeiden

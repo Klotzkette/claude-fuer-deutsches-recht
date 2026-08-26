@@ -1,6 +1,6 @@
 ---
 name: verl-033-bibliothekslizenz-e-lending-und-zugriff
-description: "Wenn es um Verlagsrecht: Bibliothekslizenz E-Lending und Zugriff in Verlagsrecht und Buchpreisbindung geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Verlagsrecht: Bibliothekslizenz E-Lending und Zugriff: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Verlagsrecht: Bibliothekslizenz E-Lending und Zugriff

@@ -1,6 +1,6 @@
 ---
 name: kfz-handel-paragraf-434-bgb
-description: "Wenn es um kfz Handel Paragraf 434 BGB in Fachanwalt Verkehrsrecht geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für kfz Handel Paragraf 434 BGB: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # kfz Handel § 434 BGB

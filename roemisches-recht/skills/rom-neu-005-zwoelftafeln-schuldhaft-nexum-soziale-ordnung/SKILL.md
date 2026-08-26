@@ -1,6 +1,6 @@
 ---
 name: rom-neu-005-zwoelftafeln-schuldhaft-nexum-soziale-ordnung
-description: "Wenn es um Römisches Recht: Zwölftafelrecht Schuldhaft nexum und soziale Ordnung in Römisches Recht geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Römisches Recht: Zwölftafelrecht Schuldhaft nexum und soziale Ordnung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Schnittstellenkarte mit Zuständigkeits- und Nachweisfragen."
 ---
 
 # Römisches Recht: Zwölftafelrecht Schuldhaft nexum und soziale Ordnung

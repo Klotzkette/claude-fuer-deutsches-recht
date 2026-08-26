@@ -1,6 +1,6 @@
 ---
 name: 01-anmeldung-pruefen-zustaendigkeit
-description: "Wenn es um 01 Anmeldung Prüfen Zuständigkeit in Handelsregisterrichter am Amtsgericht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
+description: "Für 01 Anmeldung Prüfen Zuständigkeit: prüft Frist, Form, Zuständigkeit und Eilbedarf; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # 01 Anmeldung Prüfen Zuständigkeit

@@ -1,6 +1,6 @@
 ---
 name: ki-an-bord-autonomie-und-ai-act-schnittstelle
-description: "Wenn es um Weltraumrecht: digitale Werkzeuge an Bord: Autonomie und digitale Werkzeuge Act-Schnittstelle in Weltraumrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Weltraumrecht: digitale Werkzeuge an Bord: Autonomie und digitale Werkzeuge Act-Schnittstelle: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Weltraumrecht: KI an Bord: Autonomie und AI Act-Schnittstelle

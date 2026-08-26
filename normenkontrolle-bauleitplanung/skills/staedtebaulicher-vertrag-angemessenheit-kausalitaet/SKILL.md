@@ -1,6 +1,6 @@
 ---
 name: staedtebaulicher-vertrag-angemessenheit-kausalitaet
-description: "Wenn es um Kausalität und Angemessenheit im städtebaulichen Vertrag in Normenkontrolle Bauleitplanung — Paragraf 47 VwGO geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
+description: "Für Kausalität und Angemessenheit im städtebaulichen Vertrag: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Kausalität und Angemessenheit im städtebaulichen Vertrag

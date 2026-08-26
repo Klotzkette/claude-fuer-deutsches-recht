@@ -1,6 +1,6 @@
 ---
 name: hinweisgeberschutz-jahresreport-idev
-description: "Wenn es um HinSchG Reporting und Fallregister in Berichtspflichten-Erlediger geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für HinSchG Reporting und Fallregister: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # HinSchG Reporting und Fallregister

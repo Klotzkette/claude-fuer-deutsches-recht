@@ -1,6 +1,6 @@
 ---
 name: rbst-niedrigschwellige-onlineberatung-spezial
-description: "Wenn es um RBst: Onlineberatung digitale Werkzeuge in Plugin für die studentische Rechtsberatungsstelle geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für RBst: Onlineberatung digitale Werkzeuge: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # RBst: Onlineberatung KI

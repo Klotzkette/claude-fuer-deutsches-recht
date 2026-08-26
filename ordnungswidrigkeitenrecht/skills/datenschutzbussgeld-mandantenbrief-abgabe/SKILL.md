@@ -1,6 +1,6 @@
 ---
 name: datenschutzbussgeld-mandantenbrief-abgabe
-description: "Wenn es um Datenschutzbussgeld Mandantenbrief Sch in Ordnungswidrigkeitenrecht geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
+description: "Für Datenschutzbussgeld Mandantenbrief Sch: erstellt Entwurf mit Antrag, Beweis und Anlagen; Ergebnis: Schriftsatz mit Begründungs- und Anlagenlogik."
 ---
 
 # Datenschutzbussgeld Mandantenbrief Sch

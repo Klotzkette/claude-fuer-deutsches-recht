@@ -1,6 +1,6 @@
 ---
 name: sonderpruefung-aktienrecht-kaltstart-und-faktenmatrix
-description: "Wenn es um Sonderpruefung Aktienrecht Kaltstart Und Faktenmatrix in Berufsrecht Wirtschaftsprüfer geht: klärt Rolle, Ziel, Frist, Unterlagen und den passenden nächsten Fachskill; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Sonderprüfung Aktienrecht Kaltstart und Faktenmatrix: routet Rolle, Frist, Unterlagen und Fachschritt; Ergebnis: Tatbestands- oder Anspruchsmatrix."
 ---
 
 # Wirtschaftsprüfer: sonderpruefung aktienrecht - Kaltstart mit Faktenmatrix, Risikoampel und fehlenden Unterlagen

@@ -1,6 +1,6 @@
 ---
 name: hacking-haftung-paragraf-823-bgb-it-sicherheit
-description: "Wenn es um Hacking Haftung Paragraf 823 BGB it Sicherheit in Fachanwalt It Recht geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Hacking Haftung Paragraf 823 BGB it Sicherheit: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Hacking Haftung § 823 BGB it Sicherheit

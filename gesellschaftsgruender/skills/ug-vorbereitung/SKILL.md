@@ -1,6 +1,6 @@
 ---
 name: ug-vorbereitung
-description: "Wenn es um UG-Vorbereitung (Unternehmergesellschaft haftungsbeschränkt) in gesellschaftsgründer — Gründungsassistent für deutsche geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
+description: "Für UG-Vorbereitung (Unternehmergesellschaft haftungsbeschränkt): ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # UG-Vorbereitung (Unternehmergesellschaft haftungsbeschränkt)

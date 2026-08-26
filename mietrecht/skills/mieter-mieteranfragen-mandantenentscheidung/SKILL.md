@@ -1,6 +1,6 @@
 ---
 name: mieter-mieteranfragen-mandantenentscheidung
-description: "Wenn es um Mieter: Tatbestandsmerkmale, Beweisfragen und Beleglage in Mietrecht geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Beweislast- und Substantiierungsmatrix."
+description: "Für Mieter: Tatbestandsmerkmale, Beweisfragen und Beleglage: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Mieter: Tatbestandsmerkmale, Beweisfragen und Beleglage

@@ -1,6 +1,6 @@
 ---
 name: gebaeude-innenraeume-hoai-gerichtsfeste
-description: "Wenn es um Gebaeude Innenraeume Hoai Gerichtsfeste in HOAI Leistungsphasen Praxis geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen."
+description: "Für Gebäude Innenräume HOAI Gerichtsfeste: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Schnittstellenkarte mit Zuständigkeits- und Nachweisfragen."
 ---
 
 # HOAI Querschnitt: Prüft speziell leistungsbild gebäude und innenräume nach § 34 hoai und anlage 10

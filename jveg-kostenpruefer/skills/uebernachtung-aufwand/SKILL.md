@@ -1,6 +1,6 @@
 ---
 name: uebernachtung-aufwand
-description: "Wenn es um JVEG-Uebernachtung-Aufwand in JVEG-Kostenprüfer geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für JVEG-Übernachtung-Aufwand: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # JVEG-Uebernachtung-Aufwand

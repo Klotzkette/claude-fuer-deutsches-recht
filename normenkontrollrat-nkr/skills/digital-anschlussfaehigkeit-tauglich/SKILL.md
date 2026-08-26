@@ -1,6 +1,6 @@
 ---
 name: digital-anschlussfaehigkeit-tauglich
-description: "Wenn es um NKR-Digitaltauglichkeit / Digital-Anschlussfaehigkeit in Normenkontrollrat (NKR) — Prüfung von Gesetzentwuerfen geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. Auswahlstichwort: Digital Anschlussfaehigkeit Tauglich; Arbeitsfeld: Normenkontrollrat (NKR) — Prüfung von Gesetzentwuerfen."
+description: "Für NKR-Digitaltauglichkeit / Digital-Anschlussfähigkeit: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt. Fachgebiet: Normenkontrollrat (NKR) — Prüfung von Gesetzentwürfen. Route: digital-anschlussfaehigkeit-tauglich."
 ---
 
 # NKR-Digitaltauglichkeit / Digital-Anschlussfaehigkeit

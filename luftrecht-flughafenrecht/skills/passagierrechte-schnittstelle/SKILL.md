@@ -1,6 +1,6 @@
 ---
 name: passagierrechte-schnittstelle
-description: "Wenn es um Passagierrechte – EU 261/2004 Entschädigung und Durchsetzung in Luftrecht und Flughafenrecht geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
+description: "Für Passagierrechte – EU 261/2004 Entschädigung und Durchsetzung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Passagierrechte – EU 261/2004 Entschädigung und Durchsetzung

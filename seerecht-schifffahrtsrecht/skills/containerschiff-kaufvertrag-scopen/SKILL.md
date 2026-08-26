@@ -1,6 +1,6 @@
 ---
 name: containerschiff-kaufvertrag-scopen
-description: "Wenn es um Containerschiff – Kaufvertrag scopen in See- und Schifffahrtsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Containerschiff – Kaufvertrag scopen: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Containerschiff – Kaufvertrag scopen

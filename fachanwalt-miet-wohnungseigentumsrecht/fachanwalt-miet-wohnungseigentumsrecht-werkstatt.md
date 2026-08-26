@@ -197,8 +197,8 @@ Die Landkarte dient der schnellen Auswahl. Sie ersetzt nicht die darunter ausfor
 | Barrierereduzierung in der Mietwohnung durchsetzen | BvR 1460/99: Zivilgerichte müssen beim Treppenlift das Eigentumsinteresse des Vermieters mit dem geschützten Zugangs- und Nutzungsinteresse des Mieters abwägen. | Fachvotum zu Barrierereduzierung in der Mietwohnung durchsetzen mit Tatbestandsmerkmalen, Aktenfundstellen, Beweislast, stärkster Gegenposition, Risiko und ausformulierter. |
 | CO2-Kostenaufteilung in Miet- und WEG-Abrechnungen | Bearbeite CO2-Kostenaufteilung in Miet- und WEG-Abrechnungen: vertrag, Rückstand, Mangelanzeige, Kündigungsgrund, Schonfrist, Zuständigkeit und Räumungsrisiko sofort sortieren. | Fachvotum zu CO2-Kostenaufteilung in Miet- und WEG-Abrechnungen mit Tatbestandsmerkmalen, Aktenfundstellen, Beweislast, stärkster Gegenposition, Risiko und ausformulierter. |
 | Wohnraum-, Gewerberaum- und Mischmiete abgrenzen | Bearbeite Wohnraum-, Gewerberaum- und Mischmiete abgrenzen: vertrag, Rückstand, Mangelanzeige, Kündigungsgrund, Schonfrist, Zuständigkeit und Räumungsrisiko sofort sortieren. | Fachvotum zu Wohnraum-, Gewerberaum- und Mischmiete abgrenzen mit Tatbestandsmerkmalen, Aktenfundstellen, Beweislast, stärkster Gegenposition, Risiko und ausformulierter. |
-| Abrechnungsfrist/Nachforderung | Er bearbeitet: prüft Paragraf 556 Absatz 3 BGB, Verschulden, Guthaben, Gewerbeabweichung. Rechtsverhältnis abgrenzen: Wohnraummiete, Gewerberaum, WEG, Verwaltung, Nachbar-/Ordnungsrecht oder Schnittstelle. | Fristenblatt zu Abrechnungsfrist/Nachforderung mit Auslöser, Beginn, Ende, Vorfrist, Beleg, Sofortmaßnahme und Verantwortlichem |
 | Belegeinsicht Betriebskosten | Bearbeite Belegeinsicht Betriebskosten: vertrag, Rückstand, Mangelanzeige, Kündigungsgrund, Schonfrist, Zuständigkeit und Räumungsrisiko sofort sortieren. | Fachvotum zu Belegeinsicht Betriebskosten mit Tatbestandsmerkmalen, Aktenfundstellen, Beweislast, stärkster Gegenposition, Risiko und ausformulierter Rechtsfolge |
+| Betriebskostenverordnung Anlage 3 | Bearbeite Betriebskostenverordnung Anlage 3: vertrag, Rückstand, Mangelanzeige, Kündigungsgrund, Schonfrist, Zuständigkeit und Räumungsrisiko sofort sortieren. | Fachvotum zu Betriebskostenverordnung Anlage 3 mit Tatbestandsmerkmalen, Aktenfundstellen, Beweislast, stärkster Gegenposition, Risiko und ausformulierter Rechtsfolge |
 
 ## 16. Fachspezifische Praxisrouten
 
@@ -244,28 +244,27 @@ Lieferstück: Fachvotum zu CO2-Kostenaufteilung in Miet- und WEG-Abrechnungen mi
 Bearbeitungsauftrag: Bearbeite Wohnraum-, Gewerberaum- und Mischmiete abgrenzen: vertrag, Rückstand, Mangelanzeige, Kündigungsgrund, Schonfrist, Zuständigkeit und Räumungsrisiko sofort sortieren. Verbinde den konkreten Aktenfund mit Tatbestandsmerkmal, Gegenposition, Beweislast, Rechtsfolge und dem nächsten vollständig ausformulierten Arbeitsprodukt. Fachstation: Vertrag und Objekt: Wohnraum, Gewerberaum oder WEG-Bezug, Parteien, Mietbeginn, Miethöhe und Klauseln erfassen.
 Lieferstück: Fachvotum zu Wohnraum-, Gewerberaum- und Mischmiete abgrenzen mit Tatbestandsmerkmalen, Aktenfundstellen, Beweislast, stärkster Gegenposition, Risiko und ausformulierter Rechtsfolge.
 
-### 16.8. Abrechnungsfrist/Nachforderung
-
-Bearbeitungsauftrag: Er bearbeitet: prüft Paragraf 556 Absatz 3 BGB, Verschulden, Guthaben, Gewerbeabweichung. Rechtsverhältnis abgrenzen: Wohnraummiete, Gewerberaum, WEG, Verwaltung, Nachbar-/Ordnungsrecht oder Schnittstelle. Form und Frist: Zugang, Text-/Schriftform, Beschlussfristen, Abrechnungsfristen, Verjährung.
-Norm- oder Entscheidungsbezug aus dem Fachmaterial: Er bearbeitet: prüft Paragraf 556 Absatz 3 BGB, Verschulden, Guthaben, Gewerbeabweichung.
-Lieferstück: Fristenblatt zu Abrechnungsfrist/Nachforderung mit Auslöser, Beginn, Ende, Vorfrist, Beleg, Sofortmaßnahme und Verantwortlichem.
-
-### 16.9. Belegeinsicht Betriebskosten
+### 16.8. Belegeinsicht Betriebskosten
 
 Bearbeitungsauftrag: Bearbeite Belegeinsicht Betriebskosten: vertrag, Rückstand, Mangelanzeige, Kündigungsgrund, Schonfrist, Zuständigkeit und Räumungsrisiko sofort sortieren. Rechne ausschließlich aus belegten Eingabewerten mit Stichtag, Einheit, Zwischenstufen, Rundung und Gegenprobe; führe zu jeder Zahl Quelle, Rechtsgrund, Beweislast, offene Annahme und Auswirkung einer belastbaren Alternativrechnung. Fachstation: Zahlung und Abrechnung: Rückstände, Betriebskosten, Vorauszahlungen, Kaution und Verjährung rechnerisch prüfen.
 Lieferstück: Fachvotum zu Belegeinsicht Betriebskosten mit Tatbestandsmerkmalen, Aktenfundstellen, Beweislast, stärkster Gegenposition, Risiko und ausformulierter Rechtsfolge.
 
-### 16.10. Betriebskostenverordnung Anlage 3
+### 16.9. Betriebskostenverordnung Anlage 3
 
 Bearbeitungsauftrag: Bearbeite Betriebskostenverordnung Anlage 3: vertrag, Rückstand, Mangelanzeige, Kündigungsgrund, Schonfrist, Zuständigkeit und Räumungsrisiko sofort sortieren. Rechne ausschließlich aus belegten Eingabewerten mit Stichtag, Einheit, Zwischenstufen, Rundung und Gegenprobe; führe zu jeder Zahl Quelle, Rechtsgrund, Beweislast, offene Annahme und Auswirkung einer belastbaren Alternativrechnung.
 Lieferstück: Fachvotum zu Betriebskostenverordnung Anlage 3 mit Tatbestandsmerkmalen, Aktenfundstellen, Beweislast, stärkster Gegenposition, Risiko und ausformulierter Rechtsfolge.
 
-### 16.11. Formelle Ordnung der Betriebskostenabrechnung
+### 16.10. Formelle Ordnung der Betriebskostenabrechnung
 
 Bearbeitungsauftrag: Bearbeite Formelle Ordnung der Betriebskostenabrechnung: vertrag, Rückstand, Mangelanzeige, Kündigungsgrund, Schonfrist, Zuständigkeit und Räumungsrisiko sofort sortieren. Rechne ausschließlich aus belegten Eingabewerten mit Stichtag, Einheit, Zwischenstufen, Rundung und Gegenprobe; führe zu jeder Zahl Quelle, Rechtsgrund, Beweislast, offene Annahme und Auswirkung einer belastbaren Alternativrechnung.
 Lieferstück: Fachvotum zu Formelle Ordnung der Betriebskostenabrechnung mit Tatbestandsmerkmalen, Aktenfundstellen, Beweislast, stärkster Gegenposition, Risiko und ausformulierter Rechtsfolge.
 
-### 16.12. Eigenbedarf und vorgetäuschten Nutzungswunsch prüfen
+### 16.11. Hausmeisterkosten in Betriebskostenabrechnungen
 
-Bearbeitungsauftrag: Zu trennen sind ein von Anfang an fehlender Nutzungswille, eine unzulässige Vorratskündigung und ein erst später entfallener, ursprünglich ernsthafter Bedarf. Wird er nach Auszug nicht verwirklicht, trifft den Vermieter eine besondere Darlegungslast zu den nachträglichen Gründen. Die Nichtverwirklichung kann jedoch erheblichen Erklärungsbedarf des Vermieters auslösen.
-Lieferstück: Fachvotum zu Eigenbedarf und vorgetäuschten Nutzungswunsch prüfen mit Tatbestandsmerkmalen, Aktenfundstellen, Beweislast, stärkster Gegenposition, Risiko und ausformulierter Rechtsfolge.
+Bearbeitungsauftrag: Bearbeite Hausmeisterkosten in Betriebskostenabrechnungen: vertrag, Rückstand, Mangelanzeige, Kündigungsgrund, Schonfrist, Zuständigkeit und Räumungsrisiko sofort sortieren. Rechne ausschließlich aus belegten Eingabewerten mit Stichtag, Einheit, Zwischenstufen, Rundung und Gegenprobe; führe zu jeder Zahl Quelle, Rechtsgrund, Beweislast, offene Annahme und Auswirkung einer belastbaren Alternativrechnung.
+Lieferstück: Fachvotum zu Hausmeisterkosten in Betriebskostenabrechnungen mit Tatbestandsmerkmalen, Aktenfundstellen, Beweislast, stärkster Gegenposition, Risiko und ausformulierter Rechtsfolge.
+
+### 16.12. Kaution Rückzahlung
+
+Bearbeitungsauftrag: Bearbeite Kaution Rückzahlung: vertrag, Rückstand, Mangelanzeige, Kündigungsgrund, Schonfrist, Zuständigkeit und Räumungsrisiko sofort sortieren. Verbinde den konkreten Aktenfund mit Tatbestandsmerkmal, Gegenposition, Beweislast, Rechtsfolge und dem nächsten vollständig ausformulierten Arbeitsprodukt. Fachstation: Zahlung und Abrechnung: Rückstände, Betriebskosten, Vorauszahlungen, Kaution und Verjährung rechnerisch prüfen.
+Lieferstück: Fachvotum zu Kaution Rückzahlung mit Tatbestandsmerkmalen, Aktenfundstellen, Beweislast, stärkster Gegenposition, Risiko und ausformulierter Rechtsfolge.

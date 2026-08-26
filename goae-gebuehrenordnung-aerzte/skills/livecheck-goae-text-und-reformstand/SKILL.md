@@ -1,6 +1,6 @@
 ---
 name: livecheck-goae-text-und-reformstand
-description: "Wenn es um Livecheck GOÄ Text und Reformstand in GOÄ Gebührenordnung für Ärzte geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Livecheck GOÄ Text und Reformstand: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Livecheck GOÄ Text und Reformstand

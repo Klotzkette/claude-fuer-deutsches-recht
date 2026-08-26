@@ -1,6 +1,6 @@
 ---
 name: vergabekammer-verhandlung-vergleich-und-eskalation
-description: "Wenn es um Vergabekammer: Verhandlung, Vergleich und Eskalation in Fachanwalt Vergaberecht geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Verhandlungs- oder Eskalationslinie mit Optionen."
+description: "Für Vergabekammer: Verhandlung, Vergleich und Eskalation: entwickelt Ziel, Vergleich und Eskalation; Ergebnis: Verhandlungs- oder Eskalationslinie."
 ---
 
 # Vergabekammer: Verhandlung, Vergleich und Eskalation

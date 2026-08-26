@@ -1,6 +1,6 @@
 ---
 name: fristverlaengerung-pruefungsleistung
-description: "Wenn es um Fristverlängerung Prüfungsleistung in Prüfungsrecht an Hochschulen und Universitäten geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Fristverlängerung Prüfungsleistung: prüft Frist, Form, Zuständigkeit und Eilbedarf; Ergebnis: Fristen- und Risikoampel."
 ---
 
 # Fristverlängerung Prüfungsleistung

@@ -1,6 +1,6 @@
 ---
 name: strafrecht-spezial-aussetzung-221-stgb
-description: "Wenn es um Aussetzung nach Paragraf 221 StGB in Fachanwalt Strafrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Aussetzung nach Paragraf 221 StGB: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Aussetzung nach § 221 StGB

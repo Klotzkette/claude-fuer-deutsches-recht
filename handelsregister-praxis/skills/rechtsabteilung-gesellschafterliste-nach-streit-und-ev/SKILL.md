@@ -1,6 +1,6 @@
 ---
 name: rechtsabteilung-gesellschafterliste-nach-streit-und-ev
-description: "Wenn es um Rechtsabteilung: Gesellschafterliste nach Streit und EV in Handelsregister Praxis geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert einen Einreichungsplan mit Form-, Portal- und Nachweischeck."
+description: "Für Rechtsabteilung: Gesellschafterliste nach Streit und EV: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Rechtsabteilung: Gesellschafterliste nach Streit und EV

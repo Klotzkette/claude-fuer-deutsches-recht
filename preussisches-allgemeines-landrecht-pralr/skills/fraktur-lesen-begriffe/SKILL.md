@@ -1,6 +1,6 @@
 ---
 name: fraktur-lesen-begriffe
-description: "Wenn es um Begriffe entschlüsseln in Preußisches Allgemeines Landrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. Auswahlstichwort: Fraktur Lesen Begriffe; Arbeitsfeld: Preußisches Allgemeines Landrecht."
+description: "Für Begriffe entschlüsseln: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt. Fachgebiet: Preußisches Allgemeines Landrecht. Route: fraktur-lesen-begriffe."
 ---
 
 # Begriffe entschlüsseln

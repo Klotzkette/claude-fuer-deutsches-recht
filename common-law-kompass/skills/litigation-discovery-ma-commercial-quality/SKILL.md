@@ -1,6 +1,6 @@
 ---
 name: litigation-discovery-ma-commercial-quality
-description: "Wenn es um Litigation, Discovery und Evidence in Common-Law-Kompass für deutsche Wirtschaftsjuristen geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Litigation, Discovery und Evidence: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Litigation, Discovery und Evidence

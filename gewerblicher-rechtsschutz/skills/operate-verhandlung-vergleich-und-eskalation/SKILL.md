@@ -1,6 +1,6 @@
 ---
 name: operate-verhandlung-vergleich-und-eskalation
-description: "Wenn es um Spezial: Verhandlung, Vergleich und Eskalation in Plugin: Gewerblicher Rechtsschutz geht: entwickelt Verhandlungsziel, Vergleichskorridor und Eskalationspfad; liefert eine Verhandlungs- oder Eskalationslinie mit Optionen."
+description: "Für Spezial: Verhandlung, Vergleich und Eskalation: entwickelt Ziel, Vergleich und Eskalation; Ergebnis: Verhandlungs- oder Eskalationslinie."
 ---
 
 # Spezial: Verhandlung, Vergleich und Eskalation
@@ -151,3 +151,7 @@ Die Kosten des Eilverfahrens trägt [Partei].
 - `evvollzug-neu-005` – Ordnungsmittelantrag
 - `unterlassungsverlangen` – Unterlassungserklärung
 - `spezial-freedom-schriftsatz-brief-und-memo-bausteine` – Vertragsbausteine
+
+## Vertiefung bei Bedarf
+
+- Bei `spezial-operate-verhandlung-vergleich-und-eskalation` beziehungsweise Operate: Verhandlung, Vergleich und Eskalation: [die zusätzliche Vertiefung laden](./references/vertiefung-spezial-operate-verhandlung-vergleich-und-eskalation.md).

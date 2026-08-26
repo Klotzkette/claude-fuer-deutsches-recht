@@ -1,6 +1,6 @@
 ---
 name: ladung-termin-sozialgericht-vorbereitung
-description: "Wenn es um Die Ladung zum Termin — was tun? in selbstvertreter-sozialgericht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
+description: "Für Die Ladung zum Termin — was tun?: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Die Ladung zum Termin — was tun?

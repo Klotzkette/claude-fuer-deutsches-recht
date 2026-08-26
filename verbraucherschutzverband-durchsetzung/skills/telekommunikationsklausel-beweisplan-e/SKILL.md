@@ -1,6 +1,6 @@
 ---
 name: telekommunikationsklausel-beweisplan-e
-description: "Wenn es um Telekommunikationsklausel Beweisplan E in Verbraucherschutzverband Durchsetzung geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Telekommunikationsklausel Beweisplan E: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Beweislast- und Substantiierungsmatrix."
 ---
 
 # Telekommunikationsklausel Beweisplan E

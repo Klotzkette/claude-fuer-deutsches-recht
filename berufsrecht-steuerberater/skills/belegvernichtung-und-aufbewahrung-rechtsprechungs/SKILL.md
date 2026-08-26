@@ -1,6 +1,6 @@
 ---
 name: belegvernichtung-und-aufbewahrung-rechtsprechungs
-description: "Wenn es um Belegvernichtung Und Aufbewahrung Rechtsprechungs in Berufsrecht Steuerberater geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Gegenprüfung mit Fehler-, Beweis- und Fristencheck."
+description: "Für Belegvernichtung und Aufbewahrung Rechtsprechungs: ordnet Akte, Belege und Lücken; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Steuerberater: belegvernichtung und aufbewahrung - Rechtsprechungscheck, stärkste Gegenansicht und Red-Team-Korrektur

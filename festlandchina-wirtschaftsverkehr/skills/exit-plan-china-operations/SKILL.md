@@ -1,6 +1,6 @@
 ---
 name: exit-plan-china-operations
-description: "Wenn es um Exit-Plan China: Deregistrierung/Kapitalrückführung/Abwicklung in China-Wirtschaftsverkehr geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Exit-Plan China: Deregistrierung/Kapitalrückführung/Abwicklung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Exit-Plan China: Deregistrierung/Kapitalrückführung/Abwicklung

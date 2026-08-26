@@ -1,6 +1,6 @@
 ---
 name: abrechnung-buchauszug-abschlussprovision
-description: "Wenn es um Provisionsabrechnung und Buchauszug nach Paragraf 87c HGB in Handelsvertreterrecht und Vertriebsverträge geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
+description: "Für Provisionsabrechnung und Buchauszug nach Paragraf 87c HGB: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Provisionsabrechnung und Buchauszug nach § 87c HGB

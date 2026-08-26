@@ -1,6 +1,6 @@
 ---
 name: kaltstart-triage
-description: "Wenn es um Parteienrecht — Allgemein in Parteienrecht und Parteiorganisation geht: klärt Rolle, Ziel, Frist, Unterlagen und den passenden nächsten Fachskill; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
+description: "Für Parteienrecht — Allgemein: routet Rolle, Frist, Unterlagen und Fachschritt; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Parteienrecht — Allgemein

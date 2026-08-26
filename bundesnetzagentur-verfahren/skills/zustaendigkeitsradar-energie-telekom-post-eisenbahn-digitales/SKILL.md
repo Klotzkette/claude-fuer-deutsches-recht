@@ -1,6 +1,6 @@
 ---
 name: zustaendigkeitsradar-energie-telekom-post-eisenbahn-digitales
-description: "Wenn es um Zuständigkeitsradar Energie Telekom Post Eisenbahn Digitales in Bundesnetzagentur-Verfahren geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
+description: "Für Zuständigkeitsradar Energie Telekom Post Eisenbahn Digitales: prüft Frist, Form, Zuständigkeit und Eilbedarf; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Zuständigkeitsradar Energie Telekom Post Eisenbahn Digitales

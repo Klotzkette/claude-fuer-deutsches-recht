@@ -1,6 +1,6 @@
 ---
 name: status-stellungnahmen-dritter-ungedient-ab
-description: "Wenn es um Status-Routing Wehrpflicht Soldat Reservist in Kriegsdienstverweigerung und Wehrdienst geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
+description: "Für Status-Routing Wehrpflicht Soldat Reservist: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Status-Routing Wehrpflicht Soldat Reservist

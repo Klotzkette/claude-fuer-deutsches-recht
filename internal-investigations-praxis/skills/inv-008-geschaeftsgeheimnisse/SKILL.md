@@ -1,6 +1,6 @@
 ---
 name: inv-008-geschaeftsgeheimnisse
-description: "Wenn es um Geschäftsgeheimnisse und NDA in Internal Investigations Praxis geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Geschäftsgeheimnisse und NDA: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Geschäftsgeheimnisse und NDA

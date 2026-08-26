@@ -1,6 +1,6 @@
 ---
 name: fristenversaeumnis-epo-lizenzvertragsberatung
-description: "Wenn es um Fristenversaeumnis Epo Lizenzvertragsberatung in Berufsrecht Patentanwälte geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Fristenversäumnis Epo Lizenzvertragsberatung: prüft Frist, Form, Zuständigkeit und Eilbedarf; Ergebnis: Fristen- und Risikoampel."
 ---
 
 # Patentanwälte: fristenversaeumnis epo restitutio - Organisationspflichten, Prävention, Team-Anweisung und Fristenkontrolle

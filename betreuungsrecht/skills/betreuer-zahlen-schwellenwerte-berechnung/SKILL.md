@@ -1,6 +1,6 @@
 ---
 name: betreuer-zahlen-schwellenwerte-berechnung
-description: "Wenn es um Betreuer: Zahlen, Schwellenwerte und Berechnung in Betreuungsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Betreuer: Zahlen, Schwellenwerte und Berechnung: rechnet Beträge, Schwellen und Varianten; Ergebnis: Berechnungstabelle mit Annahmen und Kontrollfragen. Fachgebiet: Betreuungsrecht. Route: betreuer-zahlen-schwellenwerte-berechnung."
 ---
 
 # Betreuer: Zahlen, Schwellenwerte und Berechnung

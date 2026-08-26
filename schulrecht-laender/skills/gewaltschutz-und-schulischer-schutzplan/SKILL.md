@@ -1,6 +1,6 @@
 ---
 name: gewaltschutz-und-schulischer-schutzplan
-description: "Wenn es um Gewaltschutz und schulischer Schutzplan in Schulrecht der Bundesländer geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
+description: "Für Gewaltschutz und schulischer Schutzplan: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Gewaltschutz und schulischer Schutzplan

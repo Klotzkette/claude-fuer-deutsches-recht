@@ -1,6 +1,6 @@
 ---
 name: n-of-1-therapie
-description: "Wenn es um N Of 1 Therapie in Fachanwalt Medizinrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für N Of 1 Therapie: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # N-of-1-Therapie und Heilversuch: moderner Medizinrechts-Skill für Individualisierte Therapie außerhalb Standardpfad, Erkenntnisgrenze, Einwilligung und Kostenträger

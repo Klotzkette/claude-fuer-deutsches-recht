@@ -1,6 +1,6 @@
 ---
 name: flughafen-planfeststellung
-description: "Wenn es um Flughafen-Planfeststellung – Genehmigung, UVP und Rechtsschutz in Luftrecht und Flughafenrecht geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
+description: "Für Flughafen-Planfeststellung – Genehmigung, UVP und Rechtsschutz: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Flughafen-Planfeststellung – Genehmigung, UVP und Rechtsschutz

@@ -1,6 +1,6 @@
 ---
 name: familienrecht-und-gleichberechtigung
-description: "Wenn es um Familienrecht und Gleichberechtigung in Deutsche Rechtsgeschichte geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Familienrecht und Gleichberechtigung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Familienrecht und Gleichberechtigung

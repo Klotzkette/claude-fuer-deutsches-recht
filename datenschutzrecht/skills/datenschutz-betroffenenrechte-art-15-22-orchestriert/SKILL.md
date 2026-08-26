@@ -1,6 +1,6 @@
 ---
 name: datenschutz-betroffenenrechte-art-15-22-orchestriert
-description: "Wenn es um Saemtliche Betroffenenrechte nach Art in Datenschutzrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Sämtliche Betroffenenrechte nach Art: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Saemtliche Betroffenenrechte nach Art

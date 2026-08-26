@@ -1,6 +1,6 @@
 ---
 name: versicherung-und-risiko-im-roemischen-recht
-description: "Wenn es um Rom 139 Versicherung Und Risiko Im Roemischen Recht in Römisches Recht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Rom 139 Versicherung und Risiko im Römischen Recht: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Rom 139 Versicherung Und Risiko Im Roemischen Recht

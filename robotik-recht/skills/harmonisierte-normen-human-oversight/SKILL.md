@@ -1,6 +1,6 @@
 ---
 name: harmonisierte-normen-human-oversight
-description: "Wenn es um Harmonisierte Normen und ISO/TS 15066 in robotik-recht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. Auswahlstichwort: Harmonisierte Normen Human Oversight; Arbeitsfeld: robotik-recht."
+description: "Für Harmonisierte Normen und ISO/TS 15066: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Tatbestands- oder Anspruchsmatrix. Fachgebiet: robotik-recht. Route: harmonisierte-normen-human-oversight."
 ---
 
 # Harmonisierte Normen und ISO/TS 15066

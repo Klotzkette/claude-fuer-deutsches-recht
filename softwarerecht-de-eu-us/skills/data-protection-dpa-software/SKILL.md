@@ -1,6 +1,6 @@
 ---
 name: data-protection-dpa-software
-description: "Wenn es um DPA und Datenschutz im Softwarevertrag in Softwarerecht Deutschland/EU/International/USA geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für DPA und Datenschutz im Softwarevertrag: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # DPA und Datenschutz im Softwarevertrag

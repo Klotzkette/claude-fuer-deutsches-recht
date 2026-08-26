@@ -1,6 +1,6 @@
 ---
 name: strafrecht-spezial-schwere-koerperverletzung-226-stgb
-description: "Wenn es um Schwere Koerperverletzung nach Paragraf 226 StGB in Fachanwalt Strafrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Schwere Körperverletzung nach Paragraf 226 StGB: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Schwere Koerperverletzung nach § 226 StGB

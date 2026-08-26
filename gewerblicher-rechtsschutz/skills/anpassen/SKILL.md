@@ -1,6 +1,6 @@
 ---
 name: anpassen
-description: "Wenn es um Gewerblicher Rechtsschutz: Plugin anpassen in Plugin: Gewerblicher Rechtsschutz geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Tatbestands- oder Anspruchsmatrix mit Gegenargumenten."
+description: "Für Gewerblicher Rechtsschutz: Plugin anpassen: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Gewerblicher Rechtsschutz: Plugin anpassen

@@ -1,6 +1,6 @@
 ---
 name: fahrradstrasse-regel-pruefen
-description: "Wenn es um Fahrradstrasse Regel Prüfen in Straßenverkehrsrecht StVO geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Fahrradstrasse Regel Prüfen: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt. Fachgebiet: Straßenverkehrsrecht StVO. Route: fahrradstrasse-regel-pruefen."
 ---
 
 # Fahrradstrasse Regel Prüfen

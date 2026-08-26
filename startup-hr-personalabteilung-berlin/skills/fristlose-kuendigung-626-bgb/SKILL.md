@@ -1,6 +1,6 @@
 ---
 name: fristlose-kuendigung-626-bgb
-description: "Wenn es um Fristlose Kuendigung 626 BGB in Start-up-HR-Personalabteilung Berlin geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Fristlose Kündigung 626 BGB: prüft Frist, Form, Zuständigkeit und Eilbedarf; Ergebnis: Fristen- und Risikoampel."
 ---
 
 # Fristlose Kuendigung 626 BGB

@@ -1,6 +1,6 @@
 ---
 name: pkh-vor-sozialgericht-73a-sgg
-description: "Wenn es um Prozesskostenhilfe vor dem SG — Paragraf 73a SGG in selbstvertreter-sozialgericht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Prozesskostenhilfe vor dem SG — Paragraf 73a SGG: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Prozesskostenhilfe vor dem SG — § 73a SGG

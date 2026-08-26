@@ -1,6 +1,6 @@
 ---
 name: vertragsschluss-antrag-annahme
-description: "Wenn es um Vertragsschluss — Antrag und Annahme Paragrafen 145 bis 156 BGB in BGB AT Prüfer geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert eine Fristen- und Risikoampel mit Sofortschritten. Auswahlstichwort: Vertragsschluss Antrag Annahme; Arbeitsfeld: BGB AT Prüfer."
+description: "Für Vertragsschluss — Antrag und Annahme Paragrafen 145 bis 156 BGB: erstellt Entwurf mit Antrag, Beweis und Anlagen; Ergebnis: Schriftsatz mit Begründungs- und Anlagenlogik. Fachgebiet: BGB AT Prüfer. Route: vertragsschluss-antrag-annahme."
 ---
 
 # Vertragsschluss — Antrag und Annahme §§ 145 bis 156 BGB

@@ -1,6 +1,6 @@
 ---
 name: ungedient-ab-2010
-description: "Wenn es um Ungediente ab 01.01.2010 in Kriegsdienstverweigerung und Wehrdienst geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
+description: "Für Ungediente ab 01.01.2010: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Ungediente ab 01.01.2010

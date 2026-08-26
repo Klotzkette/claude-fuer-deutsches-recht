@@ -1,6 +1,6 @@
 ---
 name: fran-019-insolvenz-franchisegeber-systemhandbuch-und-lizenzen
-description: "Wenn es um Franchiserecht: Insolvenz Franchisegeber Systemhandbuch und Lizenzen in Franchiserecht Praxis geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Franchiserecht: Insolvenz Franchisegeber Systemhandbuch und Lizenzen: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Franchiserecht: Insolvenz Franchisegeber Systemhandbuch und Lizenzen

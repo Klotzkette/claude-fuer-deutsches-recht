@@ -1,6 +1,6 @@
 ---
 name: modehaeuser-uspto-wort-interessen-ttab
-description: "Wenn es um Modehaeuser: Dokumentenmatrix, Lückenliste und Nachforderung in markenrecht-fashion-luxus geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Dokumentenmatrix mit Nachforderungsliste."
+description: "Für Modehäuser: Dokumentenmatrix, Lückenliste und Nachforderung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Schnittstellenkarte mit Zuständigkeits- und Nachweisfragen."
 ---
 
 # Modehaeuser: Dokumentenmatrix, Lückenliste und Nachforderung

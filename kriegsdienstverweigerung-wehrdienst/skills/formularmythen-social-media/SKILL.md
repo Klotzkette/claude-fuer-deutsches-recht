@@ -1,6 +1,6 @@
 ---
 name: formularmythen-social-media
-description: "Wenn es um Social-Media-Mythen in Kriegsdienstverweigerung und Wehrdienst geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Social-Media-Mythen: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Einreichungsplan mit Form- und Nachweischeck."
 ---
 
 # Social-Media-Mythen

@@ -1,6 +1,6 @@
 ---
 name: plattform-sperrung-haendlerrecht
-description: "Wenn es um Plattform-Sperrung Händlerrecht in E-Commerce-Recht geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
+description: "Für Plattform-Sperrung Händlerrecht: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Plattform-Sperrung Händlerrecht

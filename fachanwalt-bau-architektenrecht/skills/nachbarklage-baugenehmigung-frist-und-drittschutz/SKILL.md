@@ -1,6 +1,6 @@
 ---
 name: nachbarklage-baugenehmigung-frist-und-drittschutz
-description: "Prüft Widerspruch, Nachbarklage und Eilrechtsschutz gegen eine Baugenehmigung. Rekonstruiert Bekanntgabe und sichere Kenntnis, trennt gesetzliche Frist von treuwidriger Verspätung, bestimmt drittschützende Bauplanungs- und Bauordnungsnormen und erstellt Fristenchronologie, Verletztenmatrix und Antrag."
+description: "Für Nachbarklage gegen eine Baugenehmigung prüfen: erstellt Entwurf mit Antrag, Beweis und Anlagen; Ergebnis: Fristen- und Risikoampel."
 ---
 
 # Nachbarklage gegen eine Baugenehmigung prüfen

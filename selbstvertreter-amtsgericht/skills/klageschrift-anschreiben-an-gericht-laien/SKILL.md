@@ -1,6 +1,6 @@
 ---
 name: klageschrift-anschreiben-an-gericht-laien
-description: "Wenn es um Wie schreibe ich foermlich ans Amtsgericht? in selbstvertreter-amtsgericht geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
+description: "Für Wie schreibe ich förmlich ans Amtsgericht?: erstellt Entwurf mit Antrag, Beweis und Anlagen; Ergebnis: Schriftsatz mit Begründungs- und Anlagenlogik."
 ---
 
 # Wie schreibe ich foermlich ans Amtsgericht?

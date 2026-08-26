@@ -1,6 +1,6 @@
 ---
 name: freilassung-freiheitsstatus
-description: "Wenn es um Freilassung Und Freiheitsstatus Historisch Kritisch in Römisches Recht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Freilassung und Freiheitsstatus Historisch Kritisch: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Freilassung Und Freiheitsstatus Historisch Kritisch

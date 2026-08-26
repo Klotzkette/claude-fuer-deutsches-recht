@@ -1,6 +1,6 @@
 ---
 name: entfernung-aus-dem-beamtenverhaeltnis-unterhalt
-description: "Wenn es um Entfernung aus dem Beamtenverhaeltnis und Unterhaltsbeitrag in Beamtenrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Entfernung aus dem Beamtenverhältnis und Unterhaltsbeitrag: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Entfernung aus dem Beamtenverhaeltnis und Unterhaltsbeitrag

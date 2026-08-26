@@ -1,6 +1,6 @@
 ---
 name: lph8-bauueberwachung-rohbau-betongueteklasse
-description: "Wenn es um Bauueberwachung Rohbau und Betongueteklassen in HOAI Leistungsphasen Praxis geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Bauüberwachung Rohbau und Betongüteklassen: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Bauueberwachung Rohbau und Betongueteklassen

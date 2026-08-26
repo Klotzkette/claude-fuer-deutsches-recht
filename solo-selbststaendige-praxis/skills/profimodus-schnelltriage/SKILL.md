@@ -1,6 +1,6 @@
 ---
 name: profimodus-schnelltriage
-description: "Wenn es um Profimodus Schnelltriage in Solo-Selbstständige Praxis geht: klärt Rolle, Ziel, Frist, Unterlagen und den passenden nächsten Fachskill; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Profimodus Schnelltriage: routet Rolle, Frist, Unterlagen und Fachschritt; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Kaltstart und Orientierung: Liefert kurztriage für erfahrene selbstständige mit prioritäten und roten linien

@@ -1,6 +1,6 @@
 ---
 name: dsfa-art-35-dsgvo-trigger-und-anwendungsbereich
-description: "Wenn es um Prüfung wann eine DSFA nach Art in Datenschutzrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Prüfung wann eine DSFA nach Art: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Prüfung wann eine DSFA nach Art

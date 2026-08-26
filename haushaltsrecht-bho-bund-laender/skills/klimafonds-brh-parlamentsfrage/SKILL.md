@@ -1,6 +1,6 @@
 ---
 name: klimafonds-brh-parlamentsfrage
-description: "Wenn es um Klimafonds Brh Frage Formulieren in Haushaltsrecht BHO Bund und Länder geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Klimafonds BRH Frage Formulieren: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Klimafonds Brh Frage Formulieren

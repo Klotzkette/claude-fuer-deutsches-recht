@@ -1,6 +1,6 @@
 ---
 name: beitragsbeginn-und-vertrauensschutz
-description: "Wenn es um Beitragsbeginn und Vertrauensschutz in Sozialversicherungsstatus-Prüfer / DRV-Statusfeststellung geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
+description: "Für Beitragsbeginn und Vertrauensschutz: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Beitragsbeginn und Vertrauensschutz

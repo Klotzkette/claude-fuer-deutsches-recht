@@ -1,6 +1,6 @@
 ---
 name: scheidungsverbund-va-fristenplan
-description: "Wenn es um Scheidungsverbund Va Fristenplan in Fachanwalt Familienrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Scheidungsverbund Va Fristenplan: prüft Frist, Form, Zuständigkeit und Eilbedarf; Ergebnis: Fristen- und Risikoampel."
 ---
 
 # zur strukturierten Aufnahme, Priorisierung und Ausgabe im Thema Scheidungsverbund VA Fristenplan.

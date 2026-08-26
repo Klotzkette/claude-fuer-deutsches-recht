@@ -1,6 +1,6 @@
 ---
 name: erbverzicht-pflichtteilsverzicht
-description: "Wenn es um Erbverzicht Pflichtteilsverzicht in Fachanwalt Erbrecht geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Erbverzicht Pflichtteilsverzicht: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Erbverzicht Pflichtteilsverzicht

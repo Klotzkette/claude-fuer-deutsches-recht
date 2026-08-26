@@ -1,6 +1,6 @@
 ---
 name: kartellrecht-kaltstart-mandat-neu
-description: "Wenn es um Kartellrecht Kaltstart Mandat neu in Kartellrecht — Marktabgrenzungsprüfung geht: klärt Rolle, Ziel, Frist, Unterlagen und den passenden nächsten Fachskill; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Kartellrecht Kaltstart Mandat neu: routet Rolle, Frist, Unterlagen und Fachschritt; Ergebnis: Schnittstellenkarte mit Zuständigkeits- und Nachweisfragen."
 ---
 
 # Kartellrecht Kaltstart Mandat neu

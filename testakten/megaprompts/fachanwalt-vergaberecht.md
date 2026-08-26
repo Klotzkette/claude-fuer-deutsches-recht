@@ -8,12 +8,12 @@ Diese Vollprüfung enthält top-8 von 122 Skills (gekürzt für das Arbeitsfenst
 
 1. **juristischer-argumentationskern** — Schaltet sich ein, wenn in Fachanwalt Vergaberecht ein juristisches Arbeitsprodukt tragfähig begründet werden muss; verb…
 2. **vergaberechtliche-versandmappe-endfertigen** — Endfertigt Rüge, Nachprüfungsantrag, Schutzschrift und sofortige Beschwerde im Vergaberecht: trennt Vergabeplattform, Ve…
-3. **vergaberechtliche-pruefung-anwaltlich-vollpruefung** — Wenn es um Vergaberechtliche Prüfung aus anwaltlicher Sicht: Vollprüfung in Fachanwalt Vergaberecht geht: rechnet Schwel…
-4. **einstieg-routing** — Wenn es um Einstieg und Routing in Fachanwalt Vergaberecht geht: klärt Rolle, Ziel, Frist, Unterlagen und den passenden …
-5. **kaltstart-triage** — Wenn es um Kaltstart Triage in Fachanwalt Vergaberecht geht: klärt Rolle, Ziel, Frist, Unterlagen und den passenden näch…
-6. **mandat-triage-vergaberecht** — Wenn es um Mandat Triage Vergaberecht in Fachanwalt Vergaberecht geht: klärt Rolle, Ziel, Frist, Unterlagen und den pass…
-7. **orientierung-mandat-fachanwaltschaft** — Wenn es um Orientierung Mandat Fachanwaltschaft in Fachanwalt Vergaberecht geht: rechnet Schwellen, Beträge, Varianten u…
-8. **spezial-orientierung-red-team-und-qualitaetskontrolle** — Wenn es um Orientierung: Red-Team und Qualitätskontrolle in Fachanwalt Vergaberecht geht: zerlegt Ergebnis, Frist, Zustä…
+3. **vergaberechtliche-pruefung-anwaltlich-vollpruefung** — Für Vergaberechtliche Prüfung aus anwaltlicher Sicht: Vollprüfung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: …
+4. **einstieg-routing** — Für Einstieg und Routing: routet Rolle, Frist, Unterlagen und Fachschritt; Ergebnis: Prüfprodukt mit Risiko und nächstem…
+5. **kaltstart-triage** — Für Kaltstart Triage: routet Rolle, Frist, Unterlagen und Fachschritt; Ergebnis: Prüfprodukt mit Risiko und nächstem Sch…
+6. **mandat-triage-vergaberecht** — Für Mandat Triage Vergaberecht: routet Rolle, Frist, Unterlagen und Fachschritt; Ergebnis: Prüfprodukt mit Risiko und nä…
+7. **orientierung-mandat-fachanwaltschaft** — Für Orientierung Mandat Fachanwaltschaft: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko un…
+8. **spezial-orientierung-red-team-und-qualitaetskontrolle** — Für Orientierung: Red-Team und Qualitätskontrolle: prüft Ergebnis, Beweislast und Gegenposition; Ergebnis: Gegenprüfung …
 
 ---
 
@@ -137,7 +137,7 @@ Ausgangspunkt für dieses Plugin: Auftraggeber für Dokumentation und Wertung; B
 
 ## Skill: `vergaberechtliche-versandmappe-endfertigen`
 
-_Endfertigt Rüge, Nachprüfungsantrag, Schutzschrift und sofortige Beschwerde im Vergaberecht: trennt Vergabeplattform, Vergabekammer und Vergabesenat, prüft Rüge- und Notfristen, Beteiligte, Anträge und Zuschlagshemmung, ordnet Bekanntmachung, Vergabeunterlagen, Bieterfragen, Angebot und Wertung zu und liefert portalgerechte oder beA-fertige Einzeldateien mit vollständigem Zustellplan._
+_Endfertigt Rüge, Nachprüfungsantrag, Schutzschrift und sofortige Beschwerde im Vergaberecht: trennt Vergabeplattform, Vergabekammer und Vergabesenat, prüft Rüge- und Notfristen, Beteiligte, Anträge und Zuschlagshemmung, ordnet Bekanntmachung, Vergabeunterlagen, Bieterfragen, Angebot und Wertung zu und liefert portalgerechte oder beA-fertige Einzeldateien._
 
 # Vergaberechtliche Versandmappe endfertigen
 
@@ -179,7 +179,7 @@ Liefere getrennte Ordner `plattform/`, `vergabekammer/`, `vergabesenat/` nur fü
 
 ## Skill: `vergaberechtliche-pruefung-anwaltlich-vollpruefung`
 
-_Wenn es um Vergaberechtliche Prüfung aus anwaltlicher Sicht: Vollprüfung in Fachanwalt Vergaberecht geht: rechnet Schwellen, Beträge, Varianten und Kontrollannahmen durch; liefert eine Berechnungstabelle mit Schwellen, Annahmen und Kontrollfragen._
+_Für Vergaberechtliche Prüfung aus anwaltlicher Sicht: Vollprüfung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Tatbestands- oder Anspruchsmatrix._
 
 # Vergaberechtliche Prüfung aus anwaltlicher Sicht: Vollprüfung
 
@@ -635,7 +635,7 @@ Folgen fuer die Mandatsfuehrung:
 
 ## Skill: `einstieg-routing`
 
-_Wenn es um Einstieg und Routing in Fachanwalt Vergaberecht geht: klärt Rolle, Ziel, Frist, Unterlagen und den passenden nächsten Fachskill; liefert eine Fristen- und Risikoampel mit Sofortschritten._
+_Für Einstieg und Routing: routet Rolle, Frist, Unterlagen und Fachschritt; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt. Fachgebiet: Fachanwalt Vergaberecht._
 
 # Einstieg und Routing
 
@@ -682,7 +682,7 @@ Dieser Einstieg routet **Fachanwalt Vergaberecht** vom ersten Sachverhalt zu Rol
 
 ## Skill: `kaltstart-triage`
 
-_Wenn es um Kaltstart Triage in Fachanwalt Vergaberecht geht: klärt Rolle, Ziel, Frist, Unterlagen und den passenden nächsten Fachskill; liefert eine Fristen- und Risikoampel mit Sofortschritten._
+_Für Kaltstart Triage: routet Rolle, Frist, Unterlagen und Fachschritt; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt. Fachgebiet: Fachanwalt Vergaberecht._
 
 ## Direktstart: lesen, entscheiden, liefern
 
@@ -825,7 +825,7 @@ Hinweis: Dieser Skill stärkt die anwaltliche Arbeit, indem er Workflow, Intake 
 
 ## Skill: `mandat-triage-vergaberecht`
 
-_Wenn es um Mandat Triage Vergaberecht in Fachanwalt Vergaberecht geht: klärt Rolle, Ziel, Frist, Unterlagen und den passenden nächsten Fachskill; liefert eine Fristen- und Risikoampel mit Sofortschritten._
+_Für Mandat Triage Vergaberecht: routet Rolle, Frist, Unterlagen und Fachschritt; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt._
 
 # Eingangs-Triage für vergaberechtliche Mandate: Mandantenrolle, Schwellenwert, Verfahrensstand und Frist-Sofort-Check
 
@@ -1041,7 +1041,7 @@ Naechster Schritt: [Ruege / NPA / §181-Klage]
 
 ## Skill: `orientierung-mandat-fachanwaltschaft`
 
-_Wenn es um Orientierung Mandat Fachanwaltschaft in Fachanwalt Vergaberecht geht: rechnet Schwellen, Beträge, Varianten und Kontrollannahmen durch; liefert eine Berechnungstabelle mit Schwellen, Annahmen und Kontrollfragen._
+_Für Orientierung Mandat Fachanwaltschaft: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt. Fachgebiet: Fachanwalt Vergaberecht._
 
 # Orientierung im Fachanwaltsrecht Vergaberecht: FAO-Voraussetzungen, EU-Schwellen, Nachprüfungsverfahren, Kernliteratur überblicken
 
@@ -1153,7 +1153,7 @@ Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwiss
 
 ## Skill: `spezial-orientierung-red-team-und-qualitaetskontrolle`
 
-_Wenn es um Orientierung: Red-Team und Qualitätskontrolle in Fachanwalt Vergaberecht geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten._
+_Für Orientierung: Red-Team und Qualitätskontrolle: prüft Ergebnis, Beweislast und Gegenposition; Ergebnis: Gegenprüfung mit Beweis- und Fristencheck._
 
 # Orientierung: Red-Team und Qualitätskontrolle
 

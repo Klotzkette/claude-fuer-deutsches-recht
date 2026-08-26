@@ -1,6 +1,6 @@
 ---
 name: ifg-049-ifggebv-gebuehren-frist-setzen
-description: "Wenn es um Ifggebv Gebuehren Frist Setzen in Informationsfreiheit und Presseauskunft geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Ifggebv Gebühren Frist Setzen: prüft Frist, Form, Zuständigkeit und Eilbedarf; Ergebnis: Fristen- und Risikoampel. Fachgebiet: Informationsfreiheit und Presseauskunft. Route: ifg-049-ifggebv-gebuehren-frist-setzen."
 ---
 
 # Ifggebv Gebuehren Frist Setzen

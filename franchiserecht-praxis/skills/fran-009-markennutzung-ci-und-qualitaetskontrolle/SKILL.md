@@ -1,6 +1,6 @@
 ---
 name: fran-009-markennutzung-ci-und-qualitaetskontrolle
-description: "Wenn es um Franchiserecht: Markennutzung CI und Qualitätskontrolle in Franchiserecht Praxis geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Franchiserecht: Markennutzung CI und Qualitätskontrolle: prüft Ergebnis, Beweislast und Gegenposition; Ergebnis: Gegenprüfung mit Beweis- und Fristencheck."
 ---
 
 # Franchiserecht: Markennutzung CI und Qualitätskontrolle

@@ -1,6 +1,6 @@
 ---
 name: annahmefrist-verspaetung-paragraphen-147-149
-description: "Wenn es um Annahmefrist und verspätete Annahme — Paragrafen 147 bis 149 BGB in BGB AT Prüfer geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Annahmefrist und verspätete Annahme — Paragrafen 147 bis 149 BGB: prüft Frist, Form, Zuständigkeit und Eilbedarf; Ergebnis: Fristen- und Risikoampel."
 ---
 
 # Annahmefrist und verspätete Annahme — §§ 147 bis 149 BGB

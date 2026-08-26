@@ -1,6 +1,6 @@
 ---
 name: dsr-betroffenenrechte-prozess-leitfaden
-description: "Wenn es um DSR: Betroffenenrechte-Prozess in Datenschutzrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für DSR: Betroffenenrechte-Prozess: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # DSR: Betroffenenrechte-Prozess

@@ -1,6 +1,6 @@
 ---
 name: export-control-breach
-description: "Wenn es um Exportkontrollverstöße – Untersuchung und Meldepflichten in Internal Investigations Praxis geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Gegenprüfung mit Fehler-, Beweis- und Fristencheck."
+description: "Für Exportkontrollverstöße – Untersuchung und Meldepflichten: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Exportkontrollverstöße – Untersuchung und Meldepflichten

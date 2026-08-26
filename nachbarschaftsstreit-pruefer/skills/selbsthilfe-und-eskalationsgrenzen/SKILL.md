@@ -1,6 +1,6 @@
 ---
 name: selbsthilfe-und-eskalationsgrenzen
-description: "Wenn es um Selbsthilfe und Eskalationsgrenzen in Nachbarschaftsstreit-Prüfer geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Selbsthilfe und Eskalationsgrenzen: entwickelt Ziel, Vergleich und Eskalation; Ergebnis: Verhandlungs- oder Eskalationslinie."
 ---
 
 # Selbsthilfe und Eskalationsgrenzen

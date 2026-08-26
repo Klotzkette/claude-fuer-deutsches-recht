@@ -1,6 +1,6 @@
 ---
 name: hgb-publizitaet-paragraph-15
-description: "Wenn es um Publizität und Vertrauen auf das Register in Handelsregister Praxis geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Publizität und Vertrauen auf das Register: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Publizität und Vertrauen auf das Register

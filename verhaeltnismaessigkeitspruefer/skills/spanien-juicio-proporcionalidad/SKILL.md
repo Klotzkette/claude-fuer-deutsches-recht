@@ -1,6 +1,6 @@
 ---
 name: spanien-juicio-proporcionalidad
-description: "Wenn es um Spanien Juicio de Proporcionalidad in Verhältnismäßigkeitsprüfer geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
+description: "Für Spanien Juicio de Proporcionalidad: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Spanien Juicio de Proporcionalidad

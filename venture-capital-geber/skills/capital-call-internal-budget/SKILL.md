@@ -1,6 +1,6 @@
 ---
 name: capital-call-internal-budget
-description: "Wenn es um Interner Capital Call und Budget in Venture Capital Geber geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Interner Capital Call und Budget: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Interner Capital Call und Budget

@@ -1,6 +1,6 @@
 ---
 name: richterliche-unabhaengigkeit-strafverfahren
-description: "Wenn es um Richterliche Unabhängigkeit - Dienstaufsicht und Prüfungsverfahren in Beamtenrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Richterliche Unabhängigkeit - Dienstaufsicht und Prüfungsverfahren: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Richterliche Unabhängigkeit - Dienstaufsicht und Prüfungsverfahren

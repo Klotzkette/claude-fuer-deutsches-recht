@@ -1,6 +1,6 @@
 ---
 name: erfuellungsaufwand-buerger-grundbegriff
-description: "Wenn es um NKR-Erfuellungsaufwand für Buerger, Wirtschaft und Verwaltung in Normenkontrollrat (NKR) — Prüfung von Gesetzentwuerfen geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. Auswahlstichwort: Erfuellungsaufwand Buerger Grundbegriff; Arbeitsfeld: Normenkontrollrat (NKR) — Prüfung von Gesetzentwuerfen."
+description: "Für NKR-Erfüllungsaufwand für Bürger, Wirtschaft und Verwaltung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt. Fachgebiet: Normenkontrollrat (NKR) — Prüfung von Gesetzentwürfen. Route: erfuellungsaufwand-buerger-grundbegriff."
 ---
 
 # NKR-Erfuellungsaufwand für Buerger, Wirtschaft und Verwaltung

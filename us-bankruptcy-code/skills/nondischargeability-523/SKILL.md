@@ -1,6 +1,6 @@
 ---
 name: nondischargeability-523
-description: "Wenn es um Nondischargeability Paragraf 523 in US Bankruptcy Code geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
+description: "Für Nondischargeability Paragraf 523: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Nondischargeability § 523

@@ -1,6 +1,6 @@
 ---
 name: infl-055-creator-fonds-plattformauszahlung
-description: "Wenn es um Influencer-Recht: Creator-Fonds Plattformauszahlung in Influencer-Recht geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Influencer-Recht: Creator-Fonds Plattformauszahlung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Influencer-Recht: Creator-Fonds Plattformauszahlung

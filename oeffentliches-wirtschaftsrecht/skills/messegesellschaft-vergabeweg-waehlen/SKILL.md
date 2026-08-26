@@ -1,6 +1,6 @@
 ---
 name: messegesellschaft-vergabeweg-waehlen
-description: "Wenn es um Messegesellschaft Vergabeweg Wählen in Öffentliches Wirtschaftsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Messegesellschaft Vergabeweg Wählen: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt. Fachgebiet: Öffentliches Wirtschaftsrecht. Route: messegesellschaft-vergabeweg-waehlen."
 ---
 
 # Messegesellschaft Vergabeweg Wählen

@@ -1,6 +1,6 @@
 ---
 name: sonstige-aufwendungen-uebernachtung
-description: "Wenn es um JVEG-Sonstige-Aufwendungen-Belege in JVEG-Kostenprüfer geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
+description: "Für JVEG-Sonstige-Aufwendungen-Belege: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # JVEG-Sonstige-Aufwendungen-Belege

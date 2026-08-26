@@ -1,6 +1,6 @@
 ---
 name: nicht-horizontale-fusion-vertikal-konglomerat
-description: "Wenn es um Nicht-horizontale Fusion vertikal konglomerat in Kartellrecht — Marktabgrenzungsprüfung geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen."
+description: "Für Nicht-horizontale Fusion vertikal konglomerat: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Nicht-horizontale Fusion vertikal konglomerat

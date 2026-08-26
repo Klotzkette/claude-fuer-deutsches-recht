@@ -1,6 +1,6 @@
 ---
 name: signing-closing-02
-description: "Wenn es um Signing Closing Room Manager in Großkanzlei Corporate/M&A geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
+description: "Für Signing Closing Room Manager: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt. Fachgebiet: Großkanzlei Corporate/M&A. Route: signing-closing-02."
 ---
 
 # Signing Closing Room Manager

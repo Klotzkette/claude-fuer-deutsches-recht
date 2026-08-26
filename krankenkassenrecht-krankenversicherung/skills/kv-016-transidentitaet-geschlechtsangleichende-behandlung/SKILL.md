@@ -1,6 +1,6 @@
 ---
 name: kv-016-transidentitaet-geschlechtsangleichende-behandlung
-description: "Wenn es um Krankenversicherung: Transidentität geschlechtsangleichende Behandlung in Krankenkassenrecht und Krankenversicherung geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Krankenversicherung: Transidentität geschlechtsangleichende Behandlung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Krankenversicherung: Transidentität geschlechtsangleichende Behandlung

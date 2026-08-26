@@ -1,6 +1,6 @@
 ---
 name: social-media-soldat-dienstpflichten
-description: "Wenn es um Social Media und Dienstpflichten des Soldaten in Bundeswehrrecht und Wehrrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Social Media und Dienstpflichten des Soldaten: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Social Media und Dienstpflichten des Soldaten

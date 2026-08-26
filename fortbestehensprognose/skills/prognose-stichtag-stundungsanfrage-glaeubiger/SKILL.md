@@ -1,6 +1,6 @@
 ---
 name: prognose-stichtag-stundungsanfrage-glaeubiger
-description: "Wenn es um Prognose-Dokumentation Stichtag in Fortbestehensprognose geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen."
+description: "Für Prognose-Dokumentation Stichtag: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Schnittstellenkarte mit Zuständigkeits- und Nachweisfragen."
 ---
 
 # Prognose-Dokumentation Stichtag

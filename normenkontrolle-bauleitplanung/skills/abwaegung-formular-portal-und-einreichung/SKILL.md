@@ -1,6 +1,6 @@
 ---
 name: abwaegung-formular-portal-und-einreichung
-description: "Wenn es um Abwaegung: Formular, Portal und Einreichungslogik in Normenkontrolle Bauleitplanung — Paragraf 47 VwGO geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten. Auswahlstichwort: Abwaegung Formular Portal Und Einreichung; Arbeitsfeld: Normenkontrolle Bauleitplanung — Paragraf 47 VwGO."
+description: "Für Abwägung: Formular, Portal und Einreichungslogik: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Einreichungsplan mit Form- und Nachweischeck. Fachgebiet: Normenkontrolle Bauleitplanung — Paragraf 47 VwGO. Route: abwaegung-formular-portal-und-einreichung."
 ---
 
 # Abwaegung: Formular, Portal und Einreichungslogik

@@ -1,6 +1,6 @@
 ---
 name: bafin-laufender-beschwerde-anhoerung
-description: "Wenn es um BaFin Tatbestand Factoring laufender Forderungsankauf Rahmenvertrag in Factoring-Recht geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Tatbestands- oder Anspruchsmatrix mit Gegenargumenten."
+description: "Für BaFin Tatbestand Factoring laufender Forderungsankauf Rahmenvertrag: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # BaFin Tatbestand Factoring laufender Forderungsankauf Rahmenvertrag

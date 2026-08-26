@@ -1,6 +1,6 @@
 ---
 name: strafrecht-spezial-geschgehg-23-strafvorschriften
-description: "Wenn es um Strafvorschriften des Geschäftsgeheimnisgesetzes Paragraph 23 GeschGehG in Fachanwalt Strafrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Strafvorschriften des Geschäftsgeheimnisgesetzes Paragraph 23 GeschGehG: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Strafvorschriften des Geschäftsgeheimnisgesetzes Paragraph 23 GeschGehG

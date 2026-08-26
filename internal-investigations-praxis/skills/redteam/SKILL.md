@@ -1,6 +1,6 @@
 ---
 name: redteam
-description: "Wenn es um Red-Team-Analyse in Internal Investigations in Internal Investigations Praxis geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Red-Team-Analyse in Internal Investigations: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Red-Team-Analyse in Internal Investigations

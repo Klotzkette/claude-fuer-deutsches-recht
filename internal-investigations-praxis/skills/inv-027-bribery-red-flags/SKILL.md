@@ -1,6 +1,6 @@
 ---
 name: inv-027-bribery-red-flags
-description: "Wenn es um Internal Investigation: Bribery Red Flags in Internal Investigations Praxis geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Internal Investigation: Bribery Red Flags: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Internal Investigation: Bribery Red Flags

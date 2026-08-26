@@ -1,6 +1,6 @@
 ---
 name: tia-schrems-ii-eugh-c-311-18-grundlagen
-description: "Wenn es um Schrems II – Grundlagen für Transfer Impact Assessment in Datenschutzrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Schrems II – Grundlagen für Transfer Impact Assessment: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Schnittstellenkarte mit Zuständigkeits- und Nachweisfragen."
 ---
 
 # Schrems II – Grundlagen für Transfer Impact Assessment

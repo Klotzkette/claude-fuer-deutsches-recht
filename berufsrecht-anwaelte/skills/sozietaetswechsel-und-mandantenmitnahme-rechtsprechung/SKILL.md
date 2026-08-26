@@ -1,6 +1,6 @@
 ---
 name: sozietaetswechsel-und-mandantenmitnahme-rechtsprechung
-description: "Wenn es um Sozietaetswechsel Und Mandantenmitnahme Rechtsprechung in Berufsrecht Anwälte geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Gegenprüfung mit Fehler-, Beweis- und Fristencheck."
+description: "Für Sozietätswechsel und Mandantenmitnahme Rechtsprechung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Anwälte: sozietaetswechsel und mandantenmitnahme - Rechtsprechungscheck, stärkste Gegenansicht und Red-Team-Korrektur

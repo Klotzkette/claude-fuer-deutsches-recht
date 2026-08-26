@@ -1,6 +1,6 @@
 ---
 name: laborwert-alarmpflicht
-description: "Wenn es um Laborwert Alarmpflicht in Fachanwalt Medizinrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Laborwert Alarmpflicht: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Laborwert Alarmpflicht: moderner Medizinrechts-Skill für Kritischer Laborwert, Befundübermittlung, Praxisurlaub, Portalnachricht und verpasste Therapie

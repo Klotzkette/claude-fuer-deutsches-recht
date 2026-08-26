@@ -1,6 +1,6 @@
 ---
 name: paralegal-rollen-automatisieren
-description: "Wenn es um Paralegal-Aufgaben automatisieren in Kanzlei-Builder-Hub geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen."
+description: "Für Paralegal-Aufgaben automatisieren: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Paralegal-Aufgaben automatisieren

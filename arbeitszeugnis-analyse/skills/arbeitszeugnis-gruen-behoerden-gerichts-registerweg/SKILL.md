@@ -1,6 +1,6 @@
 ---
 name: arbeitszeugnis-gruen-behoerden-gerichts-registerweg
-description: "Wenn es um Gruen: Behörden-, Gerichts- oder Registerweg in Arbeitszeugnis-Analyse geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Grün: Behörden-, Gerichts- oder Registerweg: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Einreichungsplan mit Form- und Nachweischeck."
 ---
 
 # Gruen: Behörden-, Gerichts- oder Registerweg

@@ -1,6 +1,6 @@
 ---
 name: bfsg-tatbestand-beweis-und-belege
-description: "Wenn es um BFSG: Tatbestandsmerkmale, Beweisfragen und Beleglage in Barrierefreiheit Web Checker geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Beweislast- und Substantiierungsmatrix."
+description: "Für BFSG: Tatbestandsmerkmale, Beweisfragen und Beleglage: ordnet Akte, Belege und Lücken; Ergebnis: Beweislast- und Substantiierungsmatrix."
 ---
 
 # BFSG: Tatbestandsmerkmale, Beweisfragen und Beleglage

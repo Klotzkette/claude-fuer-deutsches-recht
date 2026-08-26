@@ -1,6 +1,6 @@
 ---
 name: mitwirkungspflicht-60-bis-67-sgb-i
-description: "Wenn es um Mitwirkungspflicht 60 Bis 67 Sgb I in selbstvertreter-sozialgericht geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
+description: "Für Mitwirkungspflicht 60 bis 67 SGB I: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Mitwirkungspflicht 60 Bis 67 Sgb I

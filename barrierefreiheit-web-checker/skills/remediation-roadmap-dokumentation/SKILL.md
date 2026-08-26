@@ -1,6 +1,6 @@
 ---
 name: remediation-roadmap-dokumentation
-description: "Wenn es um Remediation-Roadmap und Dokumentation in Barrierefreiheit Web Checker geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
+description: "Für Remediation-Roadmap und Dokumentation: ordnet Akte, Belege und Lücken; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Remediation-Roadmap und Dokumentation

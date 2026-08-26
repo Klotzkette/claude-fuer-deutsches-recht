@@ -1,6 +1,6 @@
 ---
 name: trade-finance-sanctions-lc-guarantee
-description: "Wenn es um Trade Finance Sanktionen in Bank-Rechtsabteilung geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Gegenprüfung mit Fehler-, Beweis- und Fristencheck."
+description: "Für Trade Finance Sanktionen: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Trade Finance Sanktionen

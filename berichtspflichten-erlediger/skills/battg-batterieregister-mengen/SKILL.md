@@ -1,6 +1,6 @@
 ---
 name: battg-batterieregister-mengen
-description: "Wenn es um Batterierecht und Mengenmeldung in Berichtspflichten-Erlediger geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert einen Einreichungsplan mit Form-, Portal- und Nachweischeck."
+description: "Für Batterierecht und Mengenmeldung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Einreichungsplan mit Form- und Nachweischeck."
 ---
 
 # Batterierecht und Mengenmeldung

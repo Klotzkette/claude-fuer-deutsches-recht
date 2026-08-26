@@ -1,6 +1,6 @@
 ---
 name: erstgespraech-vorfallmeldung
-description: "Wenn es um Erstgespräch nach gemeldetem Datenschutzvorfall — Fragenkatalog in Datenschutzrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Erstgespräch nach gemeldetem Datenschutzvorfall — Fragenkatalog: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Erstgespräch nach gemeldetem Datenschutzvorfall — Fragenkatalog
@@ -58,3 +58,7 @@ Versicherung: Cyberpolice; Meldepflicht-Trigger?
 - `dsv-meldung-art-33-pflichtangaben` deckt die Behördenmeldung ab; bei Bedarf zusätzlich ziehen.
 - `dsv-benachrichtigung-art-34-betroffene` deckt die Benachrichtigung Betroffener ab.
 - `dsv-bussgeldverteidigung-art-83` und `dsv-schadensersatz-art-82` decken die anwaltliche Nachbearbeitung ab.
+
+## Vertiefung bei Bedarf
+
+- Bei `dsv-erstgespraech-vorfallmeldung` beziehungsweise Führt das anwaltliche oder DSB-Erstgespräch nach einem gemeldeten Datenschutzvorfall mit Geschäftsleitung oder Fachabteilung: [die zusätzliche Vertiefung laden](./references/vertiefung-dsv-erstgespraech-vorfallmeldung.md).

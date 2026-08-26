@@ -1,6 +1,6 @@
 ---
 name: ust-rechnungspflicht-ustg-vorsteuerabzug-vga-pruefraster
-description: "Wenn es um Rechnungspflicht und Rechnungsberichtigung — Paragraf 14 Paragraf 14a Paragraf 14c UStG in Steuerrecht – Steuerberater und Anwälte geht: rechnet Schwellen, Beträge, Varianten und Kontrollannahmen durch; liefert eine Berechnungstabelle mit Schwellen, Annahmen und Kontrollfragen. Auswahlstichwort: Ust Rechnungspflicht Ustg Vorsteuerabzug Vga Pruefraster; Arbeitsfeld: Steuerrecht – Steuerberater und Anwälte."
+description: "Für Rechnungspflicht und Rechnungsberichtigung — Paragraf 14 Paragraf 14a Paragraf 14c UStG: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Schnittstellenkarte mit Zuständigkeits- und Nachweisfragen."
 ---
 
 # Rechnungspflicht und Rechnungsberichtigung — § 14 § 14a § 14c UStG

@@ -1,6 +1,6 @@
 ---
 name: teamarbeit-formeln
-description: "Formuliert Zusammenarbeit, Konfliktlösung, Wissenstransfer und Schnittstellenverhalten aus konkreten Beispielen. Trennt Teamleistung vom allgemeinen Sozialverhalten und liefert eine zur Funktion und Gesamtnote passende, nicht formelhafte Passage."
+description: "Formuliert Zusammenarbeit, Konfliktlösung, Wissenstransfer und Schnittstellenverhalten aus konkreten Beispielen."
 ---
 
 # Teamarbeit-Formeln

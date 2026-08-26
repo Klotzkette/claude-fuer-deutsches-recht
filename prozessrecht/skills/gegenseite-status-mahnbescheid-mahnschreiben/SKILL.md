@@ -1,6 +1,6 @@
 ---
 name: gegenseite-status-mahnbescheid-mahnschreiben
-description: "Wenn es um Statusabfrage Externe Bevollmächtigte in Prozessrecht geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
+description: "Für Statusabfrage Externe Bevollmächtigte: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Statusabfrage Externe Bevollmächtigte

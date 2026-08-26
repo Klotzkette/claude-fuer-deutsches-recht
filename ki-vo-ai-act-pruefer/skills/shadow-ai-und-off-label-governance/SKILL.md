@@ -1,6 +1,6 @@
 ---
 name: shadow-ai-und-off-label-governance
-description: "Wenn es um Shadow-digitale Werkzeuge und Off-label-Governance in europäischem Technikregulierungsrecht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen."
+description: "Für Shadow-digitale Werkzeuge und Off-label-Governance: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Shadow-AI und Off-label-Governance

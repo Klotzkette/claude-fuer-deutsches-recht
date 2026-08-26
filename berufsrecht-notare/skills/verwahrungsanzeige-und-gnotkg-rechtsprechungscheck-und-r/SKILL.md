@@ -1,6 +1,6 @@
 ---
 name: verwahrungsanzeige-und-gnotkg-rechtsprechungscheck-und-r
-description: "Wenn es um Verwahrungsanzeige Und Gnotkg Rechtsprechungscheck Und R in Berufsrecht Notare geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Gegenprüfung mit Fehler-, Beweis- und Fristencheck."
+description: "Für Verwahrungsanzeige und Gnotkg Rechtsprechungscheck und R: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Notare: verwahrungsanzeige und gnotkg - Rechtsprechungscheck, stärkste Gegenansicht und Red-Team-Korrektur

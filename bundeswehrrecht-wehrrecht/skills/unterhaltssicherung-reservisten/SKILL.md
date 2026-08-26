@@ -1,6 +1,6 @@
 ---
 name: unterhaltssicherung-reservisten
-description: "Wenn es um Unterhaltssicherung für Reservisten in Bundeswehrrecht und Wehrrecht geht: rechnet Schwellen, Beträge, Varianten und Kontrollannahmen durch; liefert eine Berechnungstabelle mit Schwellen, Annahmen und Kontrollfragen."
+description: "Für Unterhaltssicherung für Reservisten: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Unterhaltssicherung für Reservisten

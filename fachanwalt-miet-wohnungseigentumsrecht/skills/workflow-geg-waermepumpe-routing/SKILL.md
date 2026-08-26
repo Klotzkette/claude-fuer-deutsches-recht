@@ -1,6 +1,6 @@
 ---
 name: workflow-geg-waermepumpe-routing
-description: "Wenn es um GEG/Wärmepumpe-Routing: Prüfungslinie für Miet- und WEG-Recht in Fachanwalt Miet- und Wohnungseigentumsrecht geht: klärt Rolle, Ziel, Frist, Unterlagen und den passenden nächsten Fachskill; liefert eine Chronologie mit Belegmatrix und Widerspruchsliste."
+description: "Für GEG/Wärmepumpe-Routing: Prüfungslinie für Miet- und WEG-Recht: routet Rolle, Frist, Unterlagen und Fachschritt; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # GEG/Wärmepumpe-Routing: Prüfungslinie für Miet- und WEG-Recht

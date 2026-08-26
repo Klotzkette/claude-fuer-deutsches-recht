@@ -1,6 +1,6 @@
 ---
 name: stalking-vs-kontaktkonflikt
-description: "Wenn es um Stalking Paragraf 238 StGB in Strafanzeige-Vorbereiter geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Beweislast- und Substantiierungsmatrix."
+description: "Für Stalking Paragraf 238 StGB: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Stalking § 238 StGB

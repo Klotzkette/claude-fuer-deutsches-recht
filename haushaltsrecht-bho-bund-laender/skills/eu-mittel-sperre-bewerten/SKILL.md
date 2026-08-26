@@ -1,6 +1,6 @@
 ---
 name: eu-mittel-sperre-bewerten
-description: "Wenn es um Eu Mittel Sperre Bewerten in Haushaltsrecht BHO Bund und Länder geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Eu Mittel Sperre Bewerten: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Schnittstellenkarte mit Zuständigkeits- und Nachweisfragen."
 ---
 
 # Eu Mittel Sperre Bewerten

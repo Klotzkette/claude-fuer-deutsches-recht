@@ -1,6 +1,6 @@
 ---
 name: auslandseinsatz-anerkennung-und-nachweise
-description: "Wenn es um Auslandseinsatz: Anerkennung und Nachweise in Bundeswehrrecht und Wehrrecht geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen."
+description: "Für Auslandseinsatz: Anerkennung und Nachweise: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Schnittstellenkarte mit Zuständigkeits- und Nachweisfragen."
 ---
 
 # Auslandseinsatz: Anerkennung und Nachweise

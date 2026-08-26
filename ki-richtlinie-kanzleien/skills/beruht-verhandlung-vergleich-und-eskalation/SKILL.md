@@ -1,6 +1,6 @@
 ---
 name: beruht-verhandlung-vergleich-und-eskalation
-description: "Wenn es um Beruht: Verhandlung, Vergleich und Eskalation in diesem Spezialbereich geht: entwickelt Verhandlungsziel, Vergleichskorridor und Eskalationspfad; liefert eine Verhandlungs- oder Eskalationslinie mit Optionen."
+description: "Für Beruht: Verhandlung, Vergleich und Eskalation: entwickelt Ziel, Vergleich und Eskalation; Ergebnis: Verhandlungs- oder Eskalationslinie."
 ---
 
 # Beruht: Verhandlung, Vergleich und Eskalation

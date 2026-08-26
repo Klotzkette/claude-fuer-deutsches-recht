@@ -1,6 +1,6 @@
 ---
 name: risikobewertung-enisa-schweregrad
-description: "Wenn es um ENISA-Methodik zur Schweregradbewertung von Datenschutzverletzungen in Datenschutzrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für ENISA-Methodik zur Schweregradbewertung von Datenschutzverletzungen: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # ENISA-Methodik zur Schweregradbewertung von Datenschutzverletzungen
@@ -52,3 +52,7 @@ Conclusion: Meldung Art. 33 ab Medium; Benachrichtigung Art. 34 ab High.
 - `dsv-bussgeldverteidigung-art-83` und `dsv-schadensersatz-art-82` decken die anwaltliche Nachbearbeitung ab.
 
 - `dsv-risikobewertung-edsa-leitlinie` ergaenzt um qualitative Beispielfallgruppen.
+
+## Vertiefung bei Bedarf
+
+- Bei `dsv-risikobewertung-enisa-schweregrad` beziehungsweise Wendet die ENISA-Methodik Recommendations for a methodology of the assessment of severity of personal data breaches auf einen konkreten Vorfall an: [die zusätzliche Vertiefung laden](./references/vertiefung-dsv-risikobewertung-enisa-schweregrad.md).

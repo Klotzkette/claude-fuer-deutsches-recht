@@ -1,6 +1,6 @@
 ---
 name: fashion-luxus-kaltstart-interview
-description: "Wenn es um Kaltstart-Interview und IP-Audit für Luxus-Modehäuser in markenrecht-fashion-luxus geht: klärt Rolle, Ziel, Frist, Unterlagen und den passenden nächsten Fachskill; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Kaltstart-Interview und IP-Audit für Luxus-Modehäuser: routet Rolle, Frist, Unterlagen und Fachschritt; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Kaltstart-Interview und IP-Audit für Luxus-Modehäuser

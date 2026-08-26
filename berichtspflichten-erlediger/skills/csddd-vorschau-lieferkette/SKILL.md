@@ -1,6 +1,6 @@
 ---
 name: csddd-vorschau-lieferkette
-description: "Wenn es um CSDDD Vorschau und Lieferkettenbericht in Berichtspflichten-Erlediger geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für CSDDD Vorschau und Lieferkettenbericht: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # CSDDD Vorschau und Lieferkettenbericht

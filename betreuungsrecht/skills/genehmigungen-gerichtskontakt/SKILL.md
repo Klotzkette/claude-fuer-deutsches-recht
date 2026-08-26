@@ -1,6 +1,6 @@
 ---
 name: genehmigungen-gerichtskontakt
-description: "Wenn es um Betreuungsrechtliche: Erstprüfung, Rollenklärung und Mandatsziel in Betreuungsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Betreuungsrechtliche: Erstprüfung, Rollenklärung und Mandatsziel: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Betreuungsrechtliche: Erstprüfung, Rollenklärung und Mandatsziel

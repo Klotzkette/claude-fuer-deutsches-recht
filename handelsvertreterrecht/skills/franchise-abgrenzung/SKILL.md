@@ -1,6 +1,6 @@
 ---
 name: franchise-abgrenzung
-description: "Wenn es um Franchise vs. Handelsvertretung — Abgrenzung nach EuGH und Paragrafen 84 ff. HGB in Handelsvertreterrecht und Vertriebsverträge geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
+description: "Für Franchise vs. Handelsvertretung — Abgrenzung nach EuGH und Paragrafen 84 ff. HGB: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Franchise vs. Handelsvertretung — Abgrenzung nach EuGH und §§ 84 ff. HGB

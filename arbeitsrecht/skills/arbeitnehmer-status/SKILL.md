@@ -1,6 +1,6 @@
 ---
 name: arbeitnehmer-status
-description: "Wenn es um Arbeitnehmer Status in Arbeitsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Arbeitnehmer Status: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Statusfeststellung für eine geplante Beschäftigung - Abgrenzung Arbeitnehmer/Selbständiger nach Paragraf 611a BGB, Scheinselbständigkeit, Clearingverfahren Paragraf 7a SGB IV, AUeG-Abgrenzung (Leiharbeit vs

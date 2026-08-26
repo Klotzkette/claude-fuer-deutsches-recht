@@ -1,6 +1,6 @@
 ---
 name: bussgeldverfahren-tierschg
-description: "Wenn es um Bussgeldverfahren Tierschg in Tierschutzrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Bussgeldverfahren Tierschg: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Bussgeldverfahren Tierschg

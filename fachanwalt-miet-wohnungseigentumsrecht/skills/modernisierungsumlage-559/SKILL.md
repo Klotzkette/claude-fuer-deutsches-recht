@@ -1,6 +1,6 @@
 ---
 name: modernisierungsumlage-559
-description: "Wenn es um Modernisierungsumlage Paragraf 559 BGB: Fachmodul im Miet- und Wohnungseigentumsrecht in Fachanwalt Miet- und Wohnungseigentumsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Modernisierungsumlage Paragraf 559 BGB: Fachmodul im Miet- und Wohnungseigentumsrecht: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Modernisierungsumlage § 559 BGB: Fachmodul im Miet- und Wohnungseigentumsrecht

@@ -1,6 +1,6 @@
 ---
 name: forderung-gegen-verbraucher
-description: "Wenn es um Forderung gegen Verbraucher in Forderungsmanagement — Klagewerkstatt geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Forderung gegen Verbraucher: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Forderung gegen Verbraucher

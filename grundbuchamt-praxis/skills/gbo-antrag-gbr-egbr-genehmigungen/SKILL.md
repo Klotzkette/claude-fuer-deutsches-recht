@@ -1,6 +1,6 @@
 ---
 name: gbo-antrag-gbr-egbr-genehmigungen
-description: "Wenn es um Antrag, Bewilligung, Eintragung in Grundbuchamt Praxis geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
+description: "Für Antrag, Bewilligung, Eintragung: erstellt Entwurf mit Antrag, Beweis und Anlagen; Ergebnis: Schriftsatz mit Begründungs- und Anlagenlogik."
 ---
 
 # Antrag, Bewilligung, Eintragung

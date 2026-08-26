@@ -1,6 +1,6 @@
 ---
 name: dba-grundprinzip-oecd-musterabkommen
-description: "Wenn es um DBA-Grundprinzip: OECD-Musterabkommen 2017 und Anwendungsschritte in Steuerrecht – Steuerberater und Anwälte geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für DBA-Grundprinzip: OECD-Musterabkommen 2017 und Anwendungsschritte: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # DBA-Grundprinzip: OECD-Musterabkommen 2017 und Anwendungsschritte

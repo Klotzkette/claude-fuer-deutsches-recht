@@ -1,6 +1,6 @@
 ---
 name: anonymisierung-klausur
-description: "Wenn es um Anonymisierung der Klausur in Prüfungsrecht an Hochschulen und Universitäten geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Anonymisierung der Klausur: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Anonymisierung der Klausur

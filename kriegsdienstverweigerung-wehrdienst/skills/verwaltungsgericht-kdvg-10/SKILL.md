@@ -1,6 +1,6 @@
 ---
 name: verwaltungsgericht-kdvg-10
-description: "Wenn es um Verwaltungsgericht Paragraf 10 KDVG in Kriegsdienstverweigerung und Wehrdienst geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
+description: "Für Verwaltungsgericht Paragraf 10 KDVG: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Verwaltungsgericht § 10 KDVG

@@ -1,6 +1,6 @@
 ---
 name: plain-language-politur
-description: "Wenn es um Plain Language Politur in AGB-Recht-Prüfer geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Dokumentenmatrix mit Nachforderungsliste."
+description: "Für Plain Language Politur: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Plain Language Politur

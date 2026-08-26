@@ -1,6 +1,6 @@
 ---
 name: board-pack-auswertung
-description: "Wenn es um Board-Pack-Auswertung in Venture Capital Geber geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Dokumentenmatrix mit Nachforderungsliste."
+description: "Für Board-Pack-Auswertung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Board-Pack-Auswertung

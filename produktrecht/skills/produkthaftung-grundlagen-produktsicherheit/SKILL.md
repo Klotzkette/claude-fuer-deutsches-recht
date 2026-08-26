@@ -1,6 +1,6 @@
 ---
 name: produkthaftung-grundlagen-produktsicherheit
-description: "Wenn es um Produkthaftung: Grundlagen, digitales Produkt und Lifecycle in Produkthaftung und Produktrecht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Beweislast- und Substantiierungsmatrix."
+description: "Für Produkthaftung: Grundlagen, digitales Produkt und Lifecycle: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Produkthaftung: Grundlagen, digitales Produkt und Lifecycle

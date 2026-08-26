@@ -1,6 +1,6 @@
 ---
 name: abstimmung-lektorat-produktion-satz
-description: "Wenn es um Abstimmung Lektorat / Redaktion (Format-Klärung) in Verlagsredaktion geht: entwickelt Verhandlungsziel, Vergleichskorridor und Eskalationspfad; liefert eine Verhandlungs- oder Eskalationslinie mit Optionen."
+description: "Für Abstimmung Lektorat / Redaktion (Format-Klärung): ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt. Fachgebiet: Verlagsredaktion. Route: abstimmung-lektorat-produktion-satz."
 ---
 
 # Abstimmung Lektorat / Redaktion (Format-Klärung)

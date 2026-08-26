@@ -1,6 +1,6 @@
 ---
 name: ki-gestuetzte-klarna-paypal-kuendigungsbutton
-description: "Wenn es um digitale Werkzeuge-gestützte Preisbildung Diskriminierung in E-Commerce-Recht geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
+description: "Für digitale Werkzeuge-gestützte Preisbildung Diskriminierung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # KI-gestützte Preisbildung Diskriminierung

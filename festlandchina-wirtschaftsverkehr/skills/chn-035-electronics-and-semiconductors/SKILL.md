@@ -1,6 +1,6 @@
 ---
 name: chn-035-electronics-and-semiconductors
-description: "Wenn es um Electronics And Semiconductors in China-Wirtschaftsverkehr geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Electronics And Semiconductors: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Electronics And Semiconductors

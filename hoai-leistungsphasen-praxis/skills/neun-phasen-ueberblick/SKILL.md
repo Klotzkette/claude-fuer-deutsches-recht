@@ -1,6 +1,6 @@
 ---
 name: neun-phasen-ueberblick
-description: "Wenn es um HOAI Querschnitt: Erklärt lph 1 bis 9 in HOAI Leistungsphasen Praxis geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen."
+description: "Für HOAI Querschnitt: Erklärt lph 1 bis 9: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Schnittstellenkarte mit Zuständigkeits- und Nachweisfragen."
 ---
 
 # HOAI Querschnitt: Erklärt lph 1 bis 9

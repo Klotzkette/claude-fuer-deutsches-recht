@@ -2,20 +2,20 @@
 
 ## Zusammensetzung
 
-Diese Vollprüfung enthält top-10 von 79 Skills des Plugins `fachanwalt-transport-speditionsrecht`.
+Diese Vollprüfung enthält top-10 von 78 Skills des Plugins `fachanwalt-transport-speditionsrecht`.
 
 ## Inhaltsverzeichnis
 
 1. **juristischer-argumentationskern** — Schaltet sich ein, wenn in Fachanwalt Transport Speditionsrecht ein juristisches Arbeitsprodukt tragfähig begründet werd…
 2. **transportprozess-versandmappe-endfertigen** — Endfertigt Fracht-, Speditions- und multimodale Transportprozesse: bestimmt Strecke, Obhut, Beteiligte, Haftungsregime u…
-3. **einstieg-routing** — Wenn es um Einstieg und Routing in Fachanwalt Transport Speditionsrecht geht: klärt Rolle, Ziel, Frist, Unterlagen und d…
-4. **mandat-triage-transport-speditionsrecht** — Wenn es um Ersteinordnung neuer Mandate im Transport- und Speditionsrecht: Vertragstyp, national vs in Fachanwalt Transp…
-5. **fachanwalt-transport-speditionsrecht-orientierung** — Wenn es um Fachanwalt für Transport- und Speditionsrecht — Orientierung in Fachanwalt Transport Speditionsrecht geht: pr…
-6. **orientierung-mandat-fachanwaltschaft** — Wenn es um Orientierung Mandat Fachanwaltschaft in Fachanwalt Transport Speditionsrecht geht: prüft Frist, Form, Zuständ…
-7. **erstgespraech-mandatsannahme** — Wenn es um Erstgespraech Mandatsannahme in Fachanwalt Transport Speditionsrecht geht: prüft Frist, Form, Zuständigkeit, …
-8. **erstpruefung-und-mandatsziel** — Wenn es um Fachanwalt: Erstprüfung, Rollenklärung und Mandatsziel in Fachanwalt Transport Speditionsrecht geht: klärt Ro…
-9. **lieferverzug** — Wenn es um Lieferverzug im Gueterverkehr prüfen: Verspaetungsschaden, Haftungshoechstbetrag, Fristen in Fachanwalt Trans…
-10. **transport-tio-schiedsgericht-adsp-klauseln** — Wenn es um TIO-Schiedsgerichtsklauseln und ADSP-Bedingungen im Transport- und Speditionsrecht prüfen in Fachanwalt Trans…
+3. **einstieg-routing** — Für Einstieg und Routing: routet Rolle, Frist, Unterlagen und Fachschritt; Ergebnis: Prüfprodukt mit Risiko und nächstem…
+4. **mandat-triage-transport-speditionsrecht** — Für Ersteinordnung neuer Mandate im Transport- und Speditionsrecht: Vertragstyp, national vs: routet Rolle, Frist, Unter…
+5. **orientierung-mandat-fachanwaltschaft** — Für Orientierung Mandat Fachanwaltschaft: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko un…
+6. **fachanwalt-transport-speditionsrecht-orientierung** — Für Fachanwalt für Transport- und Speditionsrecht — Orientierung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: P…
+7. **erstgespraech-mandatsannahme** — Für Erstgespräch Mandatsannahme: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächste…
+8. **erstpruefung-und-mandatsziel** — Für Fachanwalt: Erstprüfung, Rollenklärung und Mandatsziel: routet Rolle, Frist, Unterlagen und Fachschritt; Ergebnis: T…
+9. **kanzlei-red-team-und-qualitaetskontrolle** — Für Kanzlei: Red-Team und Qualitätskontrolle: prüft Ergebnis, Beweislast und Gegenposition; Ergebnis: Gegenprüfung mit B…
+10. **schriftsatzkern-substantiierung** — Für Schriftsatzkern Substantiierung: erstellt Entwurf mit Antrag, Beweis und Anlagen; Ergebnis: Schriftsatz mit Begründu…
 
 ---
 
@@ -170,7 +170,7 @@ Liefere Hauptdokument, Einzelanlagen, Transportketten- und Beteiligtenmatrix, Ha
 
 ## Skill: `einstieg-routing`
 
-_Wenn es um Einstieg und Routing in Fachanwalt Transport Speditionsrecht geht: klärt Rolle, Ziel, Frist, Unterlagen und den passenden nächsten Fachskill; liefert eine Fristen- und Risikoampel mit Sofortschritten._
+_Für Einstieg und Routing: routet Rolle, Frist, Unterlagen und Fachschritt; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt. Fachgebiet: Fachanwalt Transport Speditionsrecht._
 
 # Einstieg und Routing
 
@@ -214,7 +214,7 @@ Dieser Einstieg routet **Fachanwalt Transport Speditionsrecht** vom ersten Sachv
 
 ## Skill: `mandat-triage-transport-speditionsrecht`
 
-_Wenn es um Ersteinordnung neuer Mandate im Transport- und Speditionsrecht: Vertragstyp, national vs in Fachanwalt Transport Speditionsrecht geht: klärt Rolle, Ziel, Frist, Unterlagen und den passenden nächsten Fachskill; liefert eine Fristen- und Risikoampel mit Sofortschritten._
+_Für Ersteinordnung neuer Mandate im Transport- und Speditionsrecht: Vertragstyp, national vs: routet Rolle, Frist, Unterlagen und Fachschritt; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt._
 
 # Ersteinordnung neuer Mandate im Transport- und Speditionsrecht: Vertragstyp, national vs
 
@@ -373,80 +373,9 @@ Arbeitsmodus: Liefere zuerst einen nutzbaren Zwischenstand in höchstens sieben 
 
 ---
 
-## Skill: `fachanwalt-transport-speditionsrecht-orientierung`
-
-_Wenn es um Fachanwalt für Transport- und Speditionsrecht — Orientierung in Fachanwalt Transport Speditionsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten._
-
-# Fachanwalt für Transport- und Speditionsrecht — Orientierung
-
-## FAO-Voraussetzungen
-
-- Lehrgang 120 Stunden + drei Klausuren.
-- 40 Fälle in den letzten drei Jahren, davon mindestens 25 streitige.
-
-## Wichtige Normen
-
-| Bereich | Norm |
-|---|---|
-| Frachtvertrag | HGB §§ 407 ff. |
-| Haftung Frachtführer | HGB §§ 425 ff. (Obhutshaftung Haftungshöchstbetrag § 431) |
-| Speditionsvertrag | HGB §§ 453 ff. |
-| Lagervertrag | HGB §§ 467 ff. |
-| Straßenverkehr international | CMR (Convention relative au contrat de transport international de marchandises par Route) |
-| Eisenbahn international | COTIF / CIM (Convention concernant les transports internationaux ferroviaires) |
-| Luftverkehr | Montrealer Übereinkommen 1999 |
-| Seehandel | Haager Visby Regeln BGB-HGB §§ 476 ff. Hamburg-Regeln (nicht in Deutschland in Kraft) |
-| Multimodaler Transport | CMR / CIM in Anwendung |
-| AGB Spedition | ADSp 2017 |
-| EU-Recht | RL 2009/103 Kfz-Versicherung VO 261/2004 Fluggastrechte |
-
-## Typische Mandate
-
-- Frachtschadens-Klage (Verlust Beschädigung Verspätung)
-- Spediteurshaftung
-- Haftungshöchstgrenzen § 431 HGB CMR Art. 23 Montrealer Übereinkommen Art. 22
-- Reklamations- und Klagefristen
-- ADSp-Anwendung (Spediteursklauseln)
-- Container-Streitigkeiten in Seehandel
-- Pflichtversicherung Kraftverkehr Spediteur Frachtführer
-- Internationale Vollstreckung
-
-## Fristen
-
-- **Reklamationsfrist** HGB / CMR / Montrealer:
-  - HGB § 438 — sieben Tage bei äußerlich erkennbarem Schaden binnen drei Tagen.
-  - CMR Art. 30 — sofort bei Annahme Verluste / Beschädigung; sieben Tage bei nicht erkennbaren.
-  - Montrealer Art. 31 — 14 Tage Beschädigung 21 Tage Verspätung.
-- **Verjährung Frachtschaden** § 439 HGB — ein Jahr (drei Jahre bei Vorsatz / grob fahrlaessig).
-- **CMR Art. 32** — ein Jahr (drei Jahre bei Vorsatz).
-- **Klagefrist Fluggast** keine Frist im Montrealer; Verjährung zwei Jahre Art. 35 MontU.
-
-## Hauptgerichte
-
-- Amtsgericht / Landgericht Zivilkammer.
-- OLG.
-- BGH I. Zivilsenat Transportrecht (Sondersenat).
-- Ausländische Gerichte bei Auslandsbezug.
-
-## Quellenregel
-
-Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
-## Berufsverband
-
-- ARGE Transportrecht DAV.
-
-## Schnittstellen
-
-- **gesellschaftsrecht** bei Spediteur-Gesellschaft.
-- **fachanwalt-internationales-wirtschaftsrecht** bei grenzüberschreitenden Transporten.
-- **fachanwalt-versicherungsrecht** bei Transportversicherung.
-- **kanzlei-allgemein** Fristen Versand.
-
----
-
 ## Skill: `orientierung-mandat-fachanwaltschaft`
 
-_Wenn es um Orientierung Mandat Fachanwaltschaft in Fachanwalt Transport Speditionsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten._
+_Für Orientierung Mandat Fachanwaltschaft: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt. Fachgebiet: Fachanwalt Transport Speditionsrecht._
 
 # Orientierungs-Skill Transport- und Speditionsrecht: richtigen Skill anhand Sachverhalt auswaehlen
 
@@ -540,9 +469,80 @@ Arbeitsmodus: Liefere zuerst einen nutzbaren Zwischenstand in höchstens sieben 
 
 ---
 
+## Skill: `fachanwalt-transport-speditionsrecht-orientierung`
+
+_Für Fachanwalt für Transport- und Speditionsrecht — Orientierung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt._
+
+# Fachanwalt für Transport- und Speditionsrecht — Orientierung
+
+## FAO-Voraussetzungen
+
+- Lehrgang 120 Stunden + drei Klausuren.
+- 40 Fälle in den letzten drei Jahren, davon mindestens 25 streitige.
+
+## Wichtige Normen
+
+| Bereich | Norm |
+|---|---|
+| Frachtvertrag | HGB §§ 407 ff. |
+| Haftung Frachtführer | HGB §§ 425 ff. (Obhutshaftung Haftungshöchstbetrag § 431) |
+| Speditionsvertrag | HGB §§ 453 ff. |
+| Lagervertrag | HGB §§ 467 ff. |
+| Straßenverkehr international | CMR (Convention relative au contrat de transport international de marchandises par Route) |
+| Eisenbahn international | COTIF / CIM (Convention concernant les transports internationaux ferroviaires) |
+| Luftverkehr | Montrealer Übereinkommen 1999 |
+| Seehandel | Haager Visby Regeln BGB-HGB §§ 476 ff. Hamburg-Regeln (nicht in Deutschland in Kraft) |
+| Multimodaler Transport | CMR / CIM in Anwendung |
+| AGB Spedition | ADSp 2017 |
+| EU-Recht | RL 2009/103 Kfz-Versicherung VO 261/2004 Fluggastrechte |
+
+## Typische Mandate
+
+- Frachtschadens-Klage (Verlust Beschädigung Verspätung)
+- Spediteurshaftung
+- Haftungshöchstgrenzen § 431 HGB CMR Art. 23 Montrealer Übereinkommen Art. 22
+- Reklamations- und Klagefristen
+- ADSp-Anwendung (Spediteursklauseln)
+- Container-Streitigkeiten in Seehandel
+- Pflichtversicherung Kraftverkehr Spediteur Frachtführer
+- Internationale Vollstreckung
+
+## Fristen
+
+- **Reklamationsfrist** HGB / CMR / Montrealer:
+  - HGB § 438 — sieben Tage bei äußerlich erkennbarem Schaden binnen drei Tagen.
+  - CMR Art. 30 — sofort bei Annahme Verluste / Beschädigung; sieben Tage bei nicht erkennbaren.
+  - Montrealer Art. 31 — 14 Tage Beschädigung 21 Tage Verspätung.
+- **Verjährung Frachtschaden** § 439 HGB — ein Jahr (drei Jahre bei Vorsatz / grob fahrlaessig).
+- **CMR Art. 32** — ein Jahr (drei Jahre bei Vorsatz).
+- **Klagefrist Fluggast** keine Frist im Montrealer; Verjährung zwei Jahre Art. 35 MontU.
+
+## Hauptgerichte
+
+- Amtsgericht / Landgericht Zivilkammer.
+- OLG.
+- BGH I. Zivilsenat Transportrecht (Sondersenat).
+- Ausländische Gerichte bei Auslandsbezug.
+
+## Quellenregel
+
+Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
+## Berufsverband
+
+- ARGE Transportrecht DAV.
+
+## Schnittstellen
+
+- **gesellschaftsrecht** bei Spediteur-Gesellschaft.
+- **fachanwalt-internationales-wirtschaftsrecht** bei grenzüberschreitenden Transporten.
+- **fachanwalt-versicherungsrecht** bei Transportversicherung.
+- **kanzlei-allgemein** Fristen Versand.
+
+---
+
 ## Skill: `erstgespraech-mandatsannahme`
 
-_Wenn es um Erstgespraech Mandatsannahme in Fachanwalt Transport Speditionsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten._
+_Für Erstgespräch Mandatsannahme: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt. Fachgebiet: Fachanwalt Transport Speditionsrecht._
 
 # Erstgespraeches-Aufnahme im Transport- und Speditionsrecht strukturiert durchführen: Sachverhalt, Vertragstyp, Schadenstyp
 
@@ -719,7 +719,7 @@ Frueheres Mandat mit derselben Gegnerin oder gleichem Sachzusammenhang. Prüfung
 
 ## Skill: `erstpruefung-und-mandatsziel`
 
-_Wenn es um Fachanwalt: Erstprüfung, Rollenklärung und Mandatsziel in Fachanwalt Transport Speditionsrecht geht: klärt Rolle, Ziel, Frist, Unterlagen und den passenden nächsten Fachskill; liefert eine Fristen- und Risikoampel mit Sofortschritten._
+_Für Fachanwalt: Erstprüfung, Rollenklärung und Mandatsziel: routet Rolle, Frist, Unterlagen und Fachschritt; Ergebnis: Tatbestands- oder Anspruchsmatrix. Fachgebiet: Fachanwalt Transport Speditionsrecht._
 
 # Fachanwalt: Erstprüfung, Rollenklärung und Mandatsziel
 
@@ -770,27 +770,27 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 
 ---
 
-## Skill: `lieferverzug`
+## Skill: `kanzlei-red-team-und-qualitaetskontrolle`
 
-_Wenn es um Lieferverzug im Gueterverkehr prüfen: Verspaetungsschaden, Haftungshoechstbetrag, Fristen in Fachanwalt Transport Speditionsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten._
+_Für Kanzlei: Red-Team und Qualitätskontrolle: prüft Ergebnis, Beweislast und Gegenposition; Ergebnis: Gegenprüfung mit Beweis- und Fristencheck. Fachgebiet: Fachanwalt Transport Speditionsrecht._
 
-# Lieferverzug im Gueterverkehr prüfen: Verspaetungsschaden, Haftungshoechstbetrag, Fristen
+# Kanzlei: Red-Team und Qualitätskontrolle
 
 
-## Direktstart: lesen, entscheiden, liefern
+## Normenanker
 
-Beginne nicht mit einem Fragenkatalog. Wenn Material vorliegt, lies es zuerst und starte mit einer verwertbaren Arbeitshypothese:
+Vor einer rechtlichen Schlussfolgerung diese Anker am aktuellen Normtext prüfen; Spezial- und Landesrecht nur hinzunehmen, wenn es den konkreten Auftrag traegt:
 
-- Frist oder Sofortrisiko.
-- erkannte Rolle, Zielrichtung und Verfahrensstand.
-- tragende Tatsachen aus dem Material.
-- bester nächster Arbeitsschritt mit direkt nutzbarem Output.
+- `§ 241 Abs. 2 BGB` — Rücksichtnahme-, Schutz- und Organisationspflichten.
+- `§ 242 BGB` — Treu und Glauben als Korrektiv enger Klausel- und Anspruchsarbeit.
+- `§ 280 Abs. 1 BGB` — Pflichtverletzung, Vertretenmuessen, Schaden.
+- `§ 286 Abs. 1 BGB` — Verzug und Fristlogik.
+- `§ 195 BGB` — regelmäßige Verjährung.
+- `§ 199 Abs. 1 BGB` — Beginn der regelmäßigen Verjährung.
+- `§ 253 Abs. 2 ZPO` — Bestimmtheit von Antrag und Klagegrund.
+- `§ 138 Abs. 1 ZPO` — Wahrheitspflicht und vollstaendiger Tatsachenvortrag.
 
-Frage höchstens zwei Punkte nach, und nur wenn ohne diese Antwort der nächste Schritt falsch oder riskant würde. Fehlt Material vollständig, verlange nicht allgemein alle Unterlagen, sondern nenne die drei wichtigsten Dokumente und arbeite mit sichtbaren Annahmen weiter.
-
-Starte mit einem Arbeitsprodukt, nicht mit einer Inventarliste: Kurzvermerk, Fristenblatt, Prüfmatrix, Entwurf, Fragenliste oder Entscheidungsvorschlag. Routing ist nur Mittel zum Zweck. Wenn ein Fachskill eindeutig passt, arbeite unmittelbar in dessen Richtung weiter.
-
-Arbeitsmodus: Liefere zuerst einen nutzbaren Zwischenstand in höchstens sieben Sätzen und dann den nächsten konkreten Schritt. Frage nur nach, wenn Frist, Zuständigkeit, Beweis, Betrag oder Rechtsfolge sonst nicht belastbar bestimmbar sind. Tabellen nur für Fristen, Belege, Beträge, Varianten oder Streitstoff.
+Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei prüfbare Quelle vorliegen; keine BeckRS-/juris-Blindzitate verwenden.
 
 ## Arbeitsweg
 
@@ -800,109 +800,34 @@ Arbeitsmodus: Liefere zuerst einen nutzbaren Zwischenstand in höchstens sieben 
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
-**Fokus:** Lieferverzug im Gueterverkehr prüfen: Verspaetungsschaden, Haftungshoechstbetrag, Fristen. Normen: §§ 423 425 HGB, Art. 19 23 CMR. Prüfraster: Ablieferungsfrist, Verspaetungsschaden, Haftungsgrenze dreifacher Frachtpreis, Verjaebrung. Output: Lieferverzug-Haftungsanalyse. Abgrenzung: nicht Ladungsschaden.
+**Fokus:** Kanzlei: Red-Team und Qualitätskontrolle.
 
-### Lieferverzug
+## Spezialwissen: Kanzlei: Red-Team und Qualitätskontrolle
+- **Normen-/Quellenanker:** HGB, CMR, COTIF.
 
-## Kaltstart-Rückfragen
+## Fallweichen
+Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur Rückfragen, die die nächste Weiche verändern:
 
-1. Wurde eine konkrete Lieferfrist vereinbart oder gilt eine angemessene Frist § 423 HGB?
-2. Inländischer Transport (HGB) oder grenzüberschreitend (CMR)?
-3. Wann ist die Ablieferung tatsächlich erfolgt und wie viele Tage Verzug liegen vor?
-4. Welcher Schaden ist eingetreten (Vertragsstrafe gegenüber Endkunde, Produktionsausfall, Deckungskäufe)?
-5. Wurde die Schadensanzeige binnen 21 Tagen § 438 Abs. 3 HGB erstattet?
+1. Welche Rolle hat die fragende Person und wer ist Gegenüber?
+2. Welches konkrete Ziel soll erreicht oder verhindert werden?
+3. Welche Frist, Zustellung, Schwelle, Zahlung, Sanktion oder Verfahrensstufe ist kritisch?
+4. Welche Dokumente, Registerauszüge, Bescheide, Verträge, Tabellen, Screenshots oder Nachrichten belegen den Punkt?
+5. Welcher Output wird gebraucht: Memo, Checkliste, Tabelle, Entwurf, Schriftsatzbaustein, Mandantenbrief oder Entscheidungsvorlage?
 
-## Anspruchsgrundlagen
-
-- Lieferfrist § 423 HGB — vereinbarte Frist oder angemessene Frist; Wegfall des Lieferinteresses führt zu Schadensersatz wegen Nichterfüllung.
-- Haftung für Lieferverzug § 425 HGB.
-- Höchstbetrag bei reinem Verzugsschaden § 431 Abs. 3 HGB — höchstens dreifache Fracht.
-- CMR Art. 19: Lieferverzug wenn vereinbarte Frist überschritten oder bei fehlender Frist die Frist, die einem sorgfältigen Frachtführer billigerweise zugestanden werden muss, überschritten ist.
-- CMR Art. 23 Abs. 5: Verzugsentschädigung höchstens Frachtbetrag.
-- Wertdeklaration § 449 HGB / Art. 26 CMR durchbricht Höchstbetrag.
-- Qualifiziertes Verschulden § 435 HGB / Art. 29 CMR unbegrenzte Haftung.
-- Schadensanzeige § 438 Abs. 3 HGB / Art. 30 Abs. 3 CMR: 21 Tage nach Ablieferung — sonst Anspruch erloschen (CMR) bzw. Beweislastnachteil (HGB).
-
-## Beweislast und Frist
-
-- Anspruchsteller trägt Beweis für vereinbarte oder angemessene Lieferfrist, Verzug, Schaden und Kausalität.
-- Frachtführer trägt Beweis für Entlastung § 426 HGB / Art. 17 Abs. 2 CMR.
-- Schadensanzeige § 438 Abs. 3 HGB: binnen 21 Tagen schriftlich.
-- CMR Art. 30 Abs. 3 CMR: binnen 21 Tagen schriftlich, sonst Anspruch ausgeschlossen.
-- Verjährung § 439 HGB / Art. 32 CMR ein Jahr.
-
-## Prüfschema
-
-```
-1. Anwendungsbereich HGB oder CMR?
-2. Lieferfrist konkret oder angemessen § 423 HGB / Art. 19 CMR
-3. Verzugseintritt + tatsaechliche Ablieferung
-4. Schadensanzeige 21 Tage gewahrt?
-5. Entlastungsbeweis Frachtfuehrer
-6. Schadenshoehe
- - HGB: dreifache Fracht § 431 Abs. 3 HGB
- - CMR: Frachtbetrag Art. 23 Abs. 5 CMR
-7. Wertdeklaration § 449 HGB / Art. 26 CMR pruefen
-8. Qualifiziertes Verschulden § 435 HGB / Art. 29 CMR
-9. Wegfall Lieferinteresse § 423 HGB — Schadensersatz statt Erfuellung
-```
-
-- Quellenregel: Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff; keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen.
-
-## Schreibvorlage Verzugsforderung
-
-```
-Sehr geehrte Damen und Herren,
-
-namens und in Vollmacht unserer Mandantschaft machen wir Schadens-
-ersatz wegen Lieferverzugs aus dem Frachtvertrag vom [Datum]
-(Frachtbrief-Nr. [...]) geltend.
-
-Sachverhalt:
-- Vereinbarte Lieferfrist: Ankunft beim Empfaenger spaetestens [Datum/
- Uhrzeit] gemaess Frachtauftrag Ziffer [X] (Anlage K1)
-- Tatsaechliche Ablieferung: [Datum/Uhrzeit] = [N] Stunden / Tage
- Verzug
-- Schadensanzeige § 438 Abs. 3 HGB / Art. 30 Abs. 3 CMR mit Schreiben
- vom [Datum] (innerhalb 21 Tage)
-
-Haftung:
-- Lieferfrist nicht eingehalten § 423 HGB / Art. 19 CMR
-- Entlastung § 426 HGB / Art. 17 Abs. 2 CMR nicht ersichtlich
-- Hilfsweise Qualifiziertes Verschulden § 435 HGB / Art. 29 CMR durch
- [Pflichtverletzung]
-
-Schaden:
-- Vertragsstrafe an Endkunde EUR [Betrag] (Anlage K2)
-- Produktionsausfall EUR [Betrag] (Anlage K3)
-- Deckungskaeufe EUR [Betrag] (Anlage K4)
-
-Hoechstbetrag bei reinem Verzugsschaden:
-- HGB: dreifache Fracht EUR [Betrag]
-- CMR: Frachtbetrag EUR [Betrag]
-Bei Qualifiziertem Verschulden Vollersatz.
-
-Wir fordern Sie auf binnen 14 Tagen EUR [Betrag] zu erstatten. Die
-Verjährungsfrist § 439 HGB / Art. 32 CMR endet am [Datum].
-
-Mit freundlichen Gruessen
-```
-
-## Übergabe
-
-- Bei Ablehnung: Klage am Frachtführersitz bzw. Ablieferungsort.
-- Verjährungsfrist im Aktenkalender notieren.
-- Bei größerem Schaden Wertdeklaration § 449 HGB / Art. 26 CMR für künftige Aufträge empfehlen.
-
-> Quellenregel: Entscheidungen nur nach Prüfung einer amtlichen oder frei zugänglichen Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage ausgeben.
+## Arbeitsworkflow
+1. **Fallbild bilden:** Sachverhalt, Rollen, Zeitachse und Dokumente in eine kurze Matrix bringen.
+2. **Rechtsrahmen setzen:** Normen, Zuständigkeiten, Fristen, Formfragen und Verfahrensstand zum Themenfeld **Kanzlei** prüfen.
+3. **Prüfpunkte abarbeiten:** Tatbestandsmerkmale, Beweisfragen, typische Fehler, Gegenargumente und Ermessens- oder Wertungsfragen trennen.
+4. **Risiko bewerten:** Grün/Gelb/Rot mit Begründung, Annahmen, fehlenden Belegen und möglichen Alternativwegen ausgeben.
+5. **Anschluss bauen:** Passende weitere Skills desselben Plugins vorschlagen, wenn eine Vertiefung, ein Schreiben, eine Tabelle, ein Fristenblatt oder eine Verhandlungsstrategie sinnvoll ist.
 
 ---
 
-## Skill: `transport-tio-schiedsgericht-adsp-klauseln`
+## Skill: `schriftsatzkern-substantiierung`
 
-_Wenn es um TIO-Schiedsgerichtsklauseln und ADSP-Bedingungen im Transport- und Speditionsrecht prüfen in Fachanwalt Transport Speditionsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten._
+_Für Schriftsatzkern Substantiierung: erstellt Entwurf mit Antrag, Beweis und Anlagen; Ergebnis: Schriftsatz mit Begründungs- und Anlagenlogik. Fachgebiet: Fachanwalt Transport Speditionsrecht._
 
-# TIO-Schiedsgerichtsklauseln und ADSP-Bedingungen im Transport- und Speditionsrecht prüfen
+# Schriftsatzkern im Transport- und Speditionsrecht substantiieren: Tatsachenvortrag, Normzitate
 
 
 ## Arbeitsweg
@@ -913,106 +838,201 @@ _Wenn es um TIO-Schiedsgerichtsklauseln und ADSP-Bedingungen im Transport- und S
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
-**Fokus:** TIO-Schiedsgerichtsklauseln und ADSP-Bedingungen im Transport- und Speditionsrecht prüfen. Normen: ADSP 2017, §§ 1025 ff. ZPO. Prüfraster: Schiedsklausel-Wirksamkeit, AGB-Kontrolle, TIO-Schiedsprozess. Output: Klauselprüfung ADSP. Abgrenzung: nicht staatliches Gerichtsverfahren.
+**Fokus:** Schriftsatzkern im Transport- und Speditionsrecht substantiieren: Tatsachenvortrag, Normzitate. Normen: §§ 253 138 ZPO, §§ 407 ff. HGB, CMR. Prüfraster: schluessige Tatsachendarstellung, Beweisangebot, Normzitate. Output: Schriftsatzkern Transport-Speditionsrecht. Abgrenzung: nicht vollständiger Schriftsatz.
 
-### Transport-Recht — TIO / ADSp-Schiedsklauseln
+### Schriftsatzkern und Substantiierung im Transport-, Speditions- und Logistikrecht
 
-## Eingaben
+## Wann dieser Arbeitsgang greift
 
-- Vertragstyp (Speditionsvertrag § 453 HGB, Frachtvertrag § 407 HGB, Lagervertrag)
-- Anwendbares Recht (HGB, ADSp 2017 — Stand Mai 2026 weiterhin geltende Branchenfassung —, CMR, COTIF, Montreal)
-- Streitgegenstand (Frachtschaden, Verlust, Lieferverzug, Spedition-Versäumnis)
-- Versicherer-Beteiligung (CMR-Vers., Speditions-Vers.)
-- Streitwert
+- Es soll ein vollwertiger Schriftsatz im Bereich Transport-, Speditions- und Logistikrecht erstellt werden, typischerweise: Frachtklage, Klage CMR-Schaden, Klage HGB-Spediteur-Haftung.
+- Die Mandatsannahme und ggf. Vergleichsverhandlung sind abgeschlossen oder gescheitert.
+- Klage-, Widerspruchs-, Einspruchs-, Rechtsmittel-Frist ist bekannt und im Kalender eingetragen.
 
-## Rechtlicher Rahmen
+## Aufbauschema
 
-- **§§ 407-475h HGB** — Frachtvertrag / Spedition
-- **CMR-Übereinkommen** (Internationale Straße)
-- **Montrealer Übereinkommen** (Luftfracht)
-- **Haager-Visby-Regeln** (Seefracht)
-- **COTIF** (Schiene)
-- **ADSp 2017** — Stand Mai 2026 weiterhin Branchenstandard (keine konsolidierte Folgefassung verifiziert); zukünftige Anpassungen über [dslv.org](https://www.dslv.org/de/adsp) prüfen
-- **§ 21 ADSp** — Schiedsklausel TIO
-- **§ 1029 ff. ZPO**
+### A. Rubrum
 
-## ADR-Pfade
+- Parteien (Bezeichnung wie im Vorprozess oder Bescheid, exakte Schreibweise!).
+- Zustellungsanschrift Bevollmaechtigte.
+- Gericht/Behörde (Zuständigkeit prüfen und im Schriftsatz darstellen, wenn streitig).
+- Aktenzeichen (Bezugs-Az., neues Az. nach Eingang).
+- Streitwert/Gegenstandswert.
 
-### Pfad 1 — TIO (Transport Industry Tribunal Hamburg)
+### B. Antraege
 
-- ADSp § 21 Schiedsklausel
-- Spezialisierte Schiedsrichter
-- Streitwerte > 50.000 EUR
-- Verfahrens-Dauer 12-18 Monate
+Klassischer Antrag-Block; je nach Verfahrenstyp:
 
-### Pfad 2 — DGI-Schlichtungsstelle
+- Leistungsantrag (zu zahlen, zu unterlassen, zu beseitigen, herauszugeben).
+- Feststellungsantrag (Feststellungsinteresse darlegen).
+- Gestaltungsantrag (Aufhebung, Anfechtung, Scheidung).
+- Hilfsantraege staffeln (von eng nach weit oder von hoch nach niedrig).
 
-- DSLV-Schlichtungsstelle für Spediteure
-- Niedrigschwellig
-- Bei Spediteur-Mitgliedschaft
+### C. Tatsachenvortrag
 
-### Pfad 3 — CMR-Versicherer-Verhandlung
+Der Substantiierungs-Kern; pro Anspruchsgrundlage in §§ 407 ff. HGB, CMR, MC, ADSp, RVS-Konvention eine eigene Tatsachen-Sequenz:
 
-- Bei internationalen Straßenstückgut
-- 8,33 SZR/kg Höchstbetrag Art. 23 III CMR
-- Direkter Versicherer-Kontakt
+1. **Sachverhalts-Chronologie** mit konkreten Daten (Tag, Uhrzeit, Ort, Personen).
+2. **Mandantenseitige Tatsachenbehauptungen** mit Beweisangeboten.
+3. **Gegnerisches Verhalten** mit Belegen (Schreiben, Aussage, Verhalten).
+4. **Schaden/Folgen** bezifferbar (Hauptforderung, Nebenforderung, Zinsen, Folgekosten).
 
-### Pfad 4 — Klage HG-Spezialkammer
+### D. Rechtliche Wuerdigung
 
-- LG-Kammer für Handelssachen
-- Bei TIO-Klausel ausgeschlossen
+Anspruchsaufbau klassisch:
 
-### Pfad 5 — ICC bei internationalen Verfahren
+1. **Anspruchsgrundlage** nennen (z.B. § X iVm § Y).
+2. **Tatbestandsmerkmale** durchgehen; jedes Merkmal wird gegen den Tatsachenvortrag gespiegelt.
+3. **Einwendungen** der Gegenseite vorwegnehmen und entkraeften.
+4. **Rechtsprechungs-Verweise:** BAG/BGH/BVerfG/EuGH/BFH je nach Fachgebiet; bei Transport-, Speditions- und Logistikrecht typischerweise die letzte hoechstrichterliche Linie zitieren.
+5. **Subsumtion-Ergebnis** klar formulieren.
 
-- Containerladung, Hafenstreit
-- Bei mehrländrigem Streit
+### E. Beweisangebote
 
-## Workflow
+Pflichtbestandteil, ohne den Substantiierung nicht ausreicht:
 
-### Phase 1 — Schadensanzeige
+- Urkundenbeweis: konkrete Anlage Kxx benennen, Inhalt nicht nur "Vertrag" sondern "Vertrag vom TT.MM.JJJJ, dort § X Abs. Y, Anlage K1".
+- Zeugenbeweis: Name, ladungsfaehige Anschrift, Beweisthema in einem Satz.
+- Sachverstaendigenbeweis: ggf. Privatgutachten mit anfuegen, gerichtliches Gutachten beantragen.
+- Parteivernehmung als letzte Stufe, mit Antrag § 448 ZPO und Indiziengeruest.
+- Inaugenscheinnahme: bei Sache vor Ort (Mietraum, Baustelle, Fahrzeug, Hardware).
 
-- 7-Tage-Frist Anzeige Frachtführer (§ 438 HGB)
-- Bei CMR: 21 Tage bei nicht-erkennbaren Schaden
-- Foto-/Doku am Empfangsort
+### F. Anlagenverzeichnis
 
-### Phase 2 — Versicherer-Korrespondenz
+- K1, K2 ... durchnummeriert (Antragstellerin/Klägerin).
+- Bei Beklagten B1, B2 ...
+- Jede Anlage mit Datum, Absender, Empfaenger, Inhaltsbeschreibung in einem Satz.
+- Pflicht-Erwaehnung im Tatsachenvortrag.
 
-- Schadensformular
-- Beweise (Gutachten, Lieferschein, AVB)
-- Verhandlungs-Bereitschaft signalisieren
+## Substantiierungs-Fallen im Transport-, Speditions- und Logistikrecht
 
-### Phase 3 — ADR-Wahl
+- **Pauschaltatsachen** ohne konkrete Daten ("seit Jahren", "regelmaessig", "in mehreren Faellen") werden vom Gericht uebergangen.
+- **Beweisangebot zur falschen Tatsache:** Beweisthema deckt nur Teilaussage ab.
+- **Selbst-widersprueche** zwischen Schriftsatz und Anlage ("Im Vertrag steht doch was anderes").
+- **Verspaeteter Vortrag** § 296 ZPO/§ 87b VwGO: Rueglich-Fristen beachten, Verschulden vermeiden.
+- **Anspruchskonkurrenz** zwischen mehreren Grundlagen: nicht eine wegfallen lassen.
 
-- Bei ADSp-Klausel: TIO
-- Sonst: LG-Kammer / Vergleich
+## Prüfkette vor Versand
 
-### Phase 4 — Verfahren
+1. Antragsformulierung tenoriert (urteilstauglich, vollstreckbar)?
+2. Jede Tatbestandsmerkmal-Subsumtion mit eigener Tatsache + Beweis hinterlegt?
+3. Frist eingehalten (Eingangsstempel/elektronische Uebermittlung)?
+4. Zuständigkeit positiv festgestellt?
+5. Streitwert plausibel, ggf. mit Anlage Streitwert-Berechnung?
+6. Anlagenverzeichnis vollstaendig und nummerisch konsistent?
+7. beA-/EGVP-/EBO-Konformitaet (PDF/A, ERVV-Signatur)?
+8. Vier-Augen-Prüfung durch Sozius oder Senior-Anwaeltin?
 
-- Schiedsverfahren-Eröffnung
-- Beweisaufnahme (Sachverständige)
-- Schiedsspruch
+## Rechtsprechungs-Werkzeugkasten
 
-### Phase 5 — Vollstreckung
+- BVerfG, BGH, BAG, BFH, BVerwG, EuGH und die jeweils massgeblichen Fachsenate für Transport-, Speditions- und Logistikrecht.
+- §§ 407 ff. HGB, CMR, MC, ADSp, RVS-Konvention sowie Verordnungen/Richtlinien dazu.
+- Aktuelle Reform- und Gesetzgebungslage einbeziehen.
 
-- Schiedsspruch vollstreckbar
-- Bei Auslands: New Yorker Übereinkommen
+## Pflicht-Output
 
-## Strategie und Taktik
+1. **Schriftsatz** mit Rubrum, Antraegen, Tatsachenvortrag, Rechtsausfuehrung, Beweisangeboten, Anlagenverzeichnis.
+2. **Anlagen-Konvolut** numerisch geordnet, jede Anlage einzeln benannt.
+3. **Frist-Doku** mit Eingangsbestaetigung (beA-Eingangsnachricht, EB).
+4. **Streitwertskizze** (eigenes Memo, falls > 1 Anspruch).
+5. **Mandanten-Erinnerung** mit Naechster-Schritt-Aufgaben (Zeuginnen vorbereiten, Sachverstaendiger?).
 
-- **8,33 SZR/kg Cap** — bei wertvoller Ware Sondervereinbarung § 449 HGB
-- **Bei Vorsatz / grober Fahrlässigkeit**: § 435 HGB; volle Haftung
-- **CMR-Frist 21 Tage** kurz; sofort handeln
-- **Mehrere Beteiligte**: Frachtführer + Subunternehmer + Versicherer
-- **ADSp-Aktualität**: Stand 05/2026 ist die ADSp 2017 maßgeblich. Eine konsolidierte Folgefassung ist im Skill-Recherche-Stand nicht verifiziert. Im Mandat aktuellen Stand über DSLV/BGL prüfen.
+## Beispiel-Anspruchsgrundlagen im Transport-, Speditions- und Logistikrecht
 
-## Quellen und Updates
+Drei haeufig gebrauchte Anspruchsgrundlagen aus §§ 407 ff. HGB, CMR, MC, ADSp, RVS-Konvention und ihre Substantiierungs-Anforderungen:
 
-Stand: 05/2026. ADSp 2017 weiterhin als Branchenstandard. CMR 1956. Montrealer Übereinkommen 1999. Rechtsprechung im Mandat live verifizieren.
+### Grundlage 1
 
-- ADSp 2017 — [dslv.org](https://www.dslv.org/de/adsp)
-- CMR (UNECE) — [unece.org](https://unece.org/transport/standards/transport/road)
-- HGB §§ 407 ff. — [gesetze-im-internet.de](https://www.gesetze-im-internet.de/hgb/)
-- BGH I. Zivilsenat (Transport) — [bundesgerichtshof.de](https://www.bundesgerichtshof.de)
+- Tatbestandsmerkmal 1: konkrete Tatsache + Beweis.
+- Tatbestandsmerkmal 2: konkrete Tatsache + Beweis.
+- Tatbestandsmerkmal 3: konkrete Tatsache + Beweis.
+- Rechtsfolge: konkreter Antrag.
+
+### Grundlage 2
+
+Analog - jede Tatsache braucht ein Beweisangebot.
+
+### Grundlage 3 (Auffanggrundlage / Sekundaeranspruch)
+
+Hilfsweise vortragen, klar als Hilfsantrag/Hilfsvortrag kennzeichnen.
+
+## Antrags-Muster nach Verfahrenstyp
+
+Typische Antraege in Transport-, Speditions- und Logistikrecht (Frachtklage, Klage CMR-Schaden, Klage HGB-Spediteur-Haftung):
+
+- Hauptantrag (Leistung/Feststellung/Gestaltung).
+- Hilfsantrag (z.B. für den Fall, dass Hauptforderung verjaehrt ist).
+- Annex-Antraege (Zinsen, Nebenforderungen, Kosten).
+- Streitwert-Antrag (falls Streitwert streitig).
+
+## Beweisaufnahme - was das Gericht sehen will
+
+### Urkundenbeweis
+
+- Anlage K1: Bezeichnung, Datum, kurze Inhaltsbeschreibung.
+- Im Tatsachenvortrag: "Diese Behauptung beruht auf dem als Anlage K1 vorgelegten Schreiben der Beklagten vom TT.MM.JJJJ, dort Seite Y, Absatz Z."
+
+### Zeugenbeweis
+
+- Form: "Beweis: Aussage der Zeugin Name, ladungsfaehige Anschrift, zum Beweisthema (konkret in einem Satz)."
+- Mehrere Zeuginnen zum gleichen Thema: Indiziengeruest staerken.
+- Keine Beweisermittlung über Zeugnis - das Beweisthema muss konkret sein.
+
+### Sachverstaendigenbeweis
+
+- Bei Transport-, Speditions- und Logistikrecht-typischen Streitfaellen oft notwendig (Bauwerk, IT-System, Anlagebewertung, medizinische Frage).
+- Privatgutachten als Anlage K vorlegen + zugleich gerichtliches Gutachten beantragen.
+- Verfahrensoekonomie: Sachverstaendigen-Kosten frueh mit Mandantin besprechen.
+
+### Parteivernehmung (§ 448 ZPO)
+
+- Letzte Stufe, nur wenn andere Beweismittel ausgeschoepft.
+- Indiziengeruest vortragen, das eine gewisse Wahrscheinlichkeit der Behauptung tragt.
+
+## Replik-/Duplik-Vorausschau
+
+Schon im Klageschriftsatz die wahrscheinlichen Einwaende der Gegenseite vorwegnehmen:
+
+- Verjährung -> Hemmungstatbestand vortragen.
+- Erfuellung/Aufrechnung -> rechtzeitige Tatsachenbasis schaffen.
+- Formmangel -> Heilung/Schutz-Argument bereit halten.
+- Treuwidrigkeit -> Indiziengeruest gegen Treuwidrigkeits-Vorwurf.
+
+## Elektronische Einreichung (beA, EGVP, EBO, ELSTER)
+
+- PDF/A-2 oder PDF/A-3, mit eingebetteten Schriften.
+- Strukturdatensatz nach ERVV pflicht-konform (Sender, Empfaenger, Az., Versanddatum).
+- Qualifizierte elektronische Signatur (qeS) der einreichenden RA-Person oder einfacher elektronischer Versand über beA (sicherer Uebermittlungsweg).
+- Eingangsbestaetigung aufbewahren - Datum der Einreichung ist Fristwahrungs-Beweis.
+- 1.10.2026 / 1.10.2027 - ZVollstrDigitG-Änderungen im Vollstreckungsbereich; in Transport-, Speditions- und Logistikrecht ggf. spezifische ERV-Pflichten beachten.
+
+## Schriftsatz-Stil
+
+- Aktiv, kurze Saetze, klare Subsumtion.
+- Keine Floskeln ("Die Klage ist zulässig und begruendet" als Ueberschrift, aber dann substantiieren).
+- Mandanten- und Beweismittel-Zitate woertlich, in Anfuehrungszeichen, mit Anlage-Verweis.
+- Keine Gefuehlsausbrueche - sachlich auch bei provokanter Gegenseite.
+
+## Vier-Augen-Check
+
+Vor Versand:
+
+- [ ] Antrag tenorierungsfaehig
+- [ ] Frist gewahrt mit Reserve
+- [ ] Jede Tatsache hat Beweis
+- [ ] Anlagen vollstaendig und nummeriert
+- [ ] Rechtsprechungs-Zitat aktuell
+- [ ] Streitwert plausibel
+- [ ] beA/EGVP-konform
+- [ ] Senior-/Sozius-Freigabe
+
+## Cross-Refs
+
+- `erstgespraech-mandatsannahme` (im selben Plugin) für die Tatsachen-Grundlage und Streitwertskizze.
+- `vergleichsverhandlung-strategie` (im selben Plugin) für parallelen Vergleichsversuch (Gueteverhandlung, Mediation).
+
+## Aktuelle Rechtsprechung Schriftsatz Transportrecht
+
+> Quellenregel: Entscheidungen nur nach Prüfung einer amtlichen oder frei zugänglichen Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage ausgeben.
 
 ---
 

@@ -1,6 +1,6 @@
 ---
 name: drg-neu-010-november-1918-uebergangsrecht-revolution
-description: "Wenn es um Deutsche Rechtsgeschichte: November 1918 Übergangsrecht Revolution und Kontinuität in Deutsche Rechtsgeschichte geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Deutsche Rechtsgeschichte: November 1918 Übergangsrecht Revolution und Kontinuität: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Schnittstellenkarte mit Zuständigkeits- und Nachweisfragen."
 ---
 
 # Deutsche Rechtsgeschichte: November 1918 Übergangsrecht Revolution und Kontinuität

@@ -1,6 +1,6 @@
 ---
 name: leichte-sprache-mietrecht
-description: "Wenn es um Leichte Sprache in Einfache und Leichte Sprache für juristische Texte geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. Auswahlstichwort: Leichte Sprache Mietrecht; Arbeitsfeld: Einfache und Leichte Sprache für juristische Texte."
+description: "Für Leichte Sprache: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt. Fachgebiet: Einfache und Leichte Sprache für juristische Texte. Route: leichte-sprache-mietrecht."
 ---
 
 # Leichte Sprache

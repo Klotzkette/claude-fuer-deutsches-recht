@@ -1,6 +1,6 @@
 ---
 name: china-employee-data-cloud-and-erp-wechat
-description: "Wenn es um Arbeitnehmerdaten China: PIPL/DSGVO und HR-Compliance in China-Wirtschaftsverkehr geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
+description: "Für Arbeitnehmerdaten China: PIPL/DSGVO und HR-Compliance: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Arbeitnehmerdaten China: PIPL/DSGVO und HR-Compliance

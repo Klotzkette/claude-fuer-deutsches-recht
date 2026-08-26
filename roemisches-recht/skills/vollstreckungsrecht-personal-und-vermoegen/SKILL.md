@@ -1,6 +1,6 @@
 ---
 name: vollstreckungsrecht-personal-und-vermoegen
-description: "Wenn es um Rom 110 Vollstreckungsrecht Personal Und Vermögen in Römisches Recht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. Auswahlstichwort: Vollstreckungsrecht Personal Und Vermoegen; Arbeitsfeld: Römisches Recht."
+description: "Für Rom 110 Vollstreckungsrecht Personal und Vermögen: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt. Fachgebiet: Römisches Recht. Route: vollstreckungsrecht-personal-und-vermoegen."
 ---
 
 # Rom 110 Vollstreckungsrecht Personal Und Vermögen

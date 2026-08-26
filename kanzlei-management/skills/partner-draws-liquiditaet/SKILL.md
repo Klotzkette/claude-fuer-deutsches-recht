@@ -1,6 +1,6 @@
 ---
 name: partner-draws-liquiditaet
-description: "Wenn es um Partnerentnahmen und Liquidität in Kanzlei Management geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Partnerentnahmen und Liquidität: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Partnerentnahmen und Liquidität

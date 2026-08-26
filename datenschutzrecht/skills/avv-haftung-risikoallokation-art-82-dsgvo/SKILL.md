@@ -1,6 +1,6 @@
 ---
 name: avv-haftung-risikoallokation-art-82-dsgvo
-description: "Wenn es um AVV-Haftung und Risikoallokation – Art. 82 DSGVO in Datenschutzrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für AVV-Haftung und Risikoallokation – Art. 82 DSGVO: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # AVV-Haftung und Risikoallokation – Art. 82 DSGVO

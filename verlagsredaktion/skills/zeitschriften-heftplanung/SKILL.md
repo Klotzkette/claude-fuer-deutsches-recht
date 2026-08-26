@@ -1,6 +1,6 @@
 ---
 name: zeitschriften-heftplanung
-description: "Wenn es um Zeitschriften Heftplanung in Verlagsredaktion geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Zeitschriften Heftplanung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Organisiert Zeitschriftenhefte mit Rubriken, Beitraegen, Autoren, Seitenbudget, Online-first, Korrekturlauf, Anzeigen und Schlussredaktion.

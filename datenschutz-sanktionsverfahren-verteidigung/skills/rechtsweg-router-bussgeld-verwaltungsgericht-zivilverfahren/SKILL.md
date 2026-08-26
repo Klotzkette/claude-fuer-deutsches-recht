@@ -1,6 +1,6 @@
 ---
 name: rechtsweg-router-bussgeld-verwaltungsgericht-zivilverfahren
-description: "Wenn es um Rechtsweg-Router Bußgeld Verwaltungsgericht Zivilverfahren in Datenschutz-Sanktionsverfahren und Verteidigung geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
+description: "Für Rechtsweg-Router Bußgeld Verwaltungsgericht Zivilverfahren: prüft Frist, Form, Zuständigkeit und Eilbedarf; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt. Fachgebiet: Datenschutz-Sanktionsverfahren und Verteidigung."
 ---
 
 # Rechtsweg-Router Bußgeld Verwaltungsgericht Zivilverfahren

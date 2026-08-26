@@ -1,6 +1,6 @@
 ---
 name: verwendungen-auf-das-erlangte
-description: "Wenn es um Verwendungen auf das Erlangte in bereicherungs-und-anfechtungsrecht-prüfer geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Verwendungen auf das Erlangte: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Verwendungen auf das Erlangte

@@ -1,6 +1,6 @@
 ---
 name: persoenlichkeitsrecht-abwaegung
-description: "Wenn es um Persönlichkeitsrecht Abwägung in Juristische Presseberichterstattung geht: ordnet Informationsinteresse und Persönlichkeitsrecht, prüft Namensnennung, Detailtiefe, Prangerwirkung und Kontext."
+description: "Für Persönlichkeitsrecht Abwägung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Persönlichkeitsrecht Abwägung

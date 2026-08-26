@@ -1,6 +1,6 @@
 ---
 name: rechtsabteilung-schufa-score-und-automatisierte-kreditentscheidu
-description: "Wenn es um Rechtsabteilung: Schufa-Score und automatisierte Kreditentscheidung in Bank-Rechtsabteilung geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
+description: "Für Rechtsabteilung: Schufa-Score und automatisierte Kreditentscheidung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Rechtsabteilung: Schufa-Score und automatisierte Kreditentscheidung

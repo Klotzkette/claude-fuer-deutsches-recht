@@ -1,6 +1,6 @@
 ---
 name: feuerwehr-beschluss-bauen
-description: "Wenn es um Feuerwehr Beschluss Bauen in Kommunalrecht der Länder geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Feuerwehr Beschluss Bauen: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Schnittstellenkarte mit Zuständigkeits- und Nachweisfragen."
 ---
 
 # Feuerwehr Beschluss Bauen

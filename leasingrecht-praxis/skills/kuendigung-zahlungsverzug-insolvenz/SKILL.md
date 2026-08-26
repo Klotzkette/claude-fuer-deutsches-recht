@@ -1,6 +1,6 @@
 ---
 name: kuendigung-zahlungsverzug-insolvenz
-description: "Wenn es um Kündigung, Rückholung und Verwertung in Leasingrecht Praxis geht: rechnet Schwellen, Beträge, Varianten und Kontrollannahmen durch; liefert eine Berechnungstabelle mit Schwellen, Annahmen und Kontrollfragen."
+description: "Für Kündigung, Rückholung und Verwertung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Kündigung, Rückholung und Verwertung

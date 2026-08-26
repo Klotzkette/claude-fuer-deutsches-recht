@@ -1,6 +1,6 @@
 ---
 name: geldwaesche-und-kyc
-description: "Wenn es um Geldwäsche und KYC in Berufsrecht Anwälte geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
+description: "Für Geldwäsche und KYC: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt. Fachgebiet: Berufsrecht Anwälte."
 ---
 
 # Geldwäsche und KYC

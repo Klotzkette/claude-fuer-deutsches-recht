@@ -1,6 +1,6 @@
 ---
 name: dienstvertrag-und-behandlungsvertrag
-description: "Wenn es um Dienstvertrag und Behandlungsvertrag in BGB BT Prüfer geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
+description: "Für Dienstvertrag und Behandlungsvertrag: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Dienstvertrag und Behandlungsvertrag

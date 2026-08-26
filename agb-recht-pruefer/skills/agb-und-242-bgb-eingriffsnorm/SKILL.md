@@ -1,6 +1,6 @@
 ---
 name: agb-und-242-bgb-eingriffsnorm
-description: "Wenn es um Agb Und 242 Bgb Eingriffsnorm in AGB-Recht-Prüfer geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für AGB und 242 BGB Eingriffsnorm: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Tatbestands- oder Anspruchsmatrix."
 ---
 
 # Agb Und 242 Bgb Eingriffsnorm

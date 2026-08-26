@@ -1,6 +1,6 @@
 ---
 name: see-076-offshore-schiff-versicherung-melden
-description: "Wenn es um Offshore Schiff Versicherung Melden in See- und Schifffahrtsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Offshore Schiff Versicherung Melden: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Offshore Schiff Versicherung Melden

@@ -1,6 +1,6 @@
 ---
 name: sammelanmeldung-locarno-schutzgegenstand
-description: "Wenn es um Sammelanmeldung Und Locarno Klasse in designrecht-geschmacksmusterrecht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Verhandlungs- oder Eskalationslinie mit Optionen."
+description: "Für Sammelanmeldung und Locarno Klasse: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Sammelanmeldung Und Locarno Klasse

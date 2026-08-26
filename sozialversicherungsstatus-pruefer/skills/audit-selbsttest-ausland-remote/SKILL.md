@@ -1,6 +1,6 @@
 ---
 name: audit-selbsttest-ausland-remote
-description: "Wenn es um Audit-Selbsttest Unternehmen in Sozialversicherungsstatus-Prüfer / DRV-Statusfeststellung geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Audit-Selbsttest Unternehmen: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Schnittstellenkarte mit Zuständigkeits- und Nachweisfragen."
 ---
 
 # Audit-Selbsttest Unternehmen

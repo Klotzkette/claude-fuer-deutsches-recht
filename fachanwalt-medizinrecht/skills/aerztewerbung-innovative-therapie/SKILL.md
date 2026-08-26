@@ -1,6 +1,6 @@
 ---
 name: aerztewerbung-innovative-therapie
-description: "Wenn es um Aerztewerbung Innovative Therapie in Fachanwalt Medizinrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Ärztewerbung Innovative Therapie: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Ärztewerbung innovative Therapie: moderner Medizinrechts-Skill für Werbung mit innovativer Methode, Heilungsversprechen, Vorher-Nachher, Studienlage und Plattformen

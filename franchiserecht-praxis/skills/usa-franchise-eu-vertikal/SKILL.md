@@ -1,6 +1,6 @@
 ---
 name: usa-franchise-eu-vertikal
-description: "Wenn es um Franchiserecht: USA-Franchise-Disclosure im Vergleich in Franchiserecht Praxis geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Verhandlungs- oder Eskalationslinie mit Optionen."
+description: "Für Franchiserecht: USA-Franchise-Disclosure im Vergleich: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Schnittstellenkarte mit Zuständigkeits- und Nachweisfragen."
 ---
 
 # Franchiserecht: USA-Franchise-Disclosure im Vergleich

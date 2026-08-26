@@ -1,6 +1,6 @@
 ---
 name: due-diligence-earn-out
-description: "Wenn es um Due Diligence und Red Flag Report in Didaktisches Gesellschaftsrecht — English Business Terms geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
+description: "Für Due Diligence und Red Flag Report: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Due Diligence und Red Flag Report

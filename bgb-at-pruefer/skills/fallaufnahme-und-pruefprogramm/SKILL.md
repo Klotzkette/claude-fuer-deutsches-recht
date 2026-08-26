@@ -1,6 +1,6 @@
 ---
 name: fallaufnahme-und-pruefprogramm
-description: "Wenn es um Fallaufnahme und Prüfprogramm — BGB Allgemeiner Teil in BGB AT Prüfer geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt. Auswahlstichwort: Fallaufnahme Und Pruefprogramm; Arbeitsfeld: BGB AT Prüfer."
+description: "Für Fallaufnahme und Prüfprogramm — BGB Allgemeiner Teil: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt. Fachgebiet: BGB AT Prüfer. Route: fallaufnahme-und-pruefprogramm."
 ---
 
 # Fallaufnahme und Prüfprogramm — BGB Allgemeiner Teil

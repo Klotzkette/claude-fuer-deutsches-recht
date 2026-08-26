@@ -1,6 +1,6 @@
 ---
 name: datenzugang-und-interoperabilitaet
-description: "Wenn es um Datenzugang und Interoperabilität in Kartellrecht — Marktabgrenzungsprüfung geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen."
+description: "Für Datenzugang und Interoperabilität: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Datenzugang und Interoperabilität

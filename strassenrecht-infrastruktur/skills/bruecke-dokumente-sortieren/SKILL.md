@@ -1,6 +1,6 @@
 ---
 name: bruecke-dokumente-sortieren
-description: "Wenn es um Bruecke Dokumente Sortieren in Straßenrecht und Infrastruktur geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
+description: "Für Brücke Dokumente Sortieren: ordnet Akte, Belege und Lücken; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Bruecke Dokumente Sortieren

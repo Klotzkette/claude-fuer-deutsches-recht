@@ -1,6 +1,6 @@
 ---
 name: versr-d-o-claims-made-ausschluesse
-description: "Wenn es um Versr D O Claims Made Ausschluesse in Fachanwalt Versicherungsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Versr D O Claims Made Ausschlüsse: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # D&O-Deckung bei Organhaftung: Claims-made, Notice, Wissentlichkeit, Innenhaftung, Insolvenz, Abwehrkosten und Vergleichskontrolle.

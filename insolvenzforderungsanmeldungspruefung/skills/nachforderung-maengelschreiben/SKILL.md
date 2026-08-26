@@ -1,6 +1,6 @@
 ---
 name: nachforderung-maengelschreiben
-description: "Wenn es um Nachforderung und Mängelschreiben in Insolvenzforderungsanmeldungsprüfung geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Nachforderung und Mängelschreiben: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Nachforderung und Mängelschreiben

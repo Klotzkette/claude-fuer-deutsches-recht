@@ -1,6 +1,6 @@
 ---
 name: ortschaftsrat-zustaendigkeit-pruefen
-description: "Wenn es um Ortschaftsrat Zuständigkeit Prüfen in Kommunalrecht der Länder geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Ortschaftsrat Zuständigkeit Prüfen: prüft Frist, Form, Zuständigkeit und Eilbedarf; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt. Fachgebiet: Kommunalrecht der Länder. Route: ortschaftsrat-zustaendigkeit-pruefen."
 ---
 
 # Ortschaftsrat Zuständigkeit Prüfen

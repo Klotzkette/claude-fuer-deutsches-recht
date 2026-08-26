@@ -1,6 +1,6 @@
 ---
 name: transparenzgebot-bgb-us-uk
-description: "Wenn es um Transparenzgebot nach Paragraf 307 I S. 2 BGB in Word-Workflows für deutsche Juristen geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
+description: "Für Transparenzgebot nach Paragraf 307 I S. 2 BGB: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Transparenzgebot nach § 307 I S. 2 BGB

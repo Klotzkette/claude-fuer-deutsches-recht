@@ -1,6 +1,6 @@
 ---
 name: real-estate-npl-pe
-description: "Wenn es um Real-Estate-NPL und Sicherheitenverwertung in Private Equity Praxis geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Real-Estate-NPL und Sicherheitenverwertung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Real-Estate-NPL und Sicherheitenverwertung

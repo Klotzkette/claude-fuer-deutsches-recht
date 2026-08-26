@@ -1,6 +1,6 @@
 ---
 name: sale-back-mietkauf-abgrenzung
-description: "Wenn es um Sale-and-Lease-Back: Liquidität, Bilanzierung und Insolvenzanfechtung in Leasingrecht Praxis geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Sale-and-Lease-Back: Liquidität, Bilanzierung und Insolvenzanfechtung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Sale-and-Lease-Back: Liquidität, Bilanzierung und Insolvenzanfechtung

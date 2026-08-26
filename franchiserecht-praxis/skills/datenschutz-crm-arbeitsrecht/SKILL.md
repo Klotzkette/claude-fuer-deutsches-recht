@@ -1,6 +1,6 @@
 ---
 name: datenschutz-crm-arbeitsrecht
-description: "Wenn es um Franchiserecht: Datenschutz, CRM, Kundendaten und gemeinsame Verantwortlichkeit in Franchiserecht Praxis geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Franchiserecht: Datenschutz, CRM, Kundendaten und gemeinsame Verantwortlichkeit: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Franchiserecht: Datenschutz, CRM, Kundendaten und gemeinsame Verantwortlichkeit

@@ -1,6 +1,6 @@
 ---
 name: friends-indemnity-quality
-description: "Wenn es um Friends: Dokumentenmatrix, Lückenliste und Nachforderung in Common-Law-Kompass für deutsche Wirtschaftsjuristen geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Dokumentenmatrix mit Nachforderungsliste."
+description: "Für Friends: Dokumentenmatrix, Lückenliste und Nachforderung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Friends: Dokumentenmatrix, Lückenliste und Nachforderung

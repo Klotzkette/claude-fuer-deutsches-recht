@@ -1,6 +1,6 @@
 ---
 name: npl-kauf-servicing-und-factoring-abgrenzung
-description: "Wenn es um NPL Kauf Servicing und Factoring-Abgrenzung in Factoring-Recht geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
+description: "Für NPL Kauf Servicing und Factoring-Abgrenzung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # NPL Kauf Servicing und Factoring-Abgrenzung

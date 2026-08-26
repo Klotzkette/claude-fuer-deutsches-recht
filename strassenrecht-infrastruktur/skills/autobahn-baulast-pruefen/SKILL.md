@@ -1,6 +1,6 @@
 ---
 name: autobahn-baulast-pruefen
-description: "Wenn es um Autobahn Baulast Prüfen in Straßenrecht und Infrastruktur geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Autobahn Baulast Prüfen: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt. Fachgebiet: Straßenrecht und Infrastruktur. Route: autobahn-baulast-pruefen."
 ---
 
 # Autobahn Baulast Prüfen

@@ -1,6 +1,6 @@
 ---
 name: spediteur-logistikvertrag-cisg-schadensersatz
-description: "Wenn es um Spediteur- und Logistikvertrag in Internationales Handelsrecht und Lex Mercatoria geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Spediteur- und Logistikvertrag: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Schnittstellenkarte mit Zuständigkeits- und Nachweisfragen."
 ---
 
 # Spediteur- und Logistikvertrag

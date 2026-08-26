@@ -1,6 +1,6 @@
 ---
 name: fp-cash-flow-modell-spezial
-description: "Wenn es um FP: Cash-Flow-Modell in Fortbestehensprognose geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für FP: Cash-Flow-Modell: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # FP: Cash-Flow-Modell

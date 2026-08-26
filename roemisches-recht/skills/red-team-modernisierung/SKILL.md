@@ -1,6 +1,6 @@
 ---
 name: red-team-modernisierung
-description: "Wenn es um Red Team: Grenzen der Modernisierung des römischen Rechts in Römisches Recht geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Red Team: Grenzen der Modernisierung des römischen Rechts: prüft Ergebnis, Beweislast und Gegenposition; Ergebnis: Gegenprüfung mit Beweis- und Fristencheck."
 ---
 
 # Red Team: Grenzen der Modernisierung des römischen Rechts

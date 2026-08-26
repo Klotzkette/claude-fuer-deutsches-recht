@@ -1,6 +1,6 @@
 ---
 name: mos-italicus-und-mos-gallicus
-description: "Wenn es um Mos Italicus Und Mos Gallicus in Römisches Recht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Mos Italicus und Mos Gallicus: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Mos Italicus Und Mos Gallicus

@@ -1,6 +1,6 @@
 ---
 name: fachanwalt-insolvenz-sanierung-starug-plan
-description: "Bearbeitet den StaRUG-Plan als Fachanwalt: grenzt Insolvenzreife ab, prüft Planbetroffenheit und Ausschlüsse, baut Vergleichsrechnung und Gruppenmehrheiten auf, steuert Anzeige und Stabilisierung und bereitet Bestätigung oder Verfahrenswechsel vor. Liefert Strategiepapier, Plan-Redline und Gerichtsmappe."
+description: "Bearbeitet den StaRUG-Plan als Fachanwalt: grenzt Insolvenzreife ab, prüft Planbetroffenheit und Ausschlüsse, baut Vergleichsrechnung und Gruppenmehrheiten auf, steuert Anzeige und Stabilisierung und bereitet Bestätigung oder Verfahrenswechsel vor."
 ---
 
 # 1. Fachanwaltliche StaRUG-Plansteuerung

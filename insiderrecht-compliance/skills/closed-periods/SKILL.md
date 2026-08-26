@@ -1,6 +1,6 @@
 ---
 name: closed-periods
-description: "Wenn es um Closed Periods nach Art. 19 Abs. 11 MAR in Insiderrecht Compliance geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Closed Periods nach Art. 19 Abs. 11 MAR: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Closed Periods nach Art. 19 Abs. 11 MAR

@@ -1,6 +1,6 @@
 ---
 name: fristennotiz-naechster-vertriebsvertraege
-description: "Wenn es um Anpassen: Fristennotiz und nächster Schritt in Vertragsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Anpassen: Fristennotiz und nächster Schritt: prüft Frist, Form, Zuständigkeit und Eilbedarf; Ergebnis: Fristen- und Risikoampel."
 ---
 
 # Anpassen: Fristennotiz und nächster Schritt

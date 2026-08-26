@@ -1,6 +1,6 @@
 ---
 name: space-044-planetary-protection-kontaminationsvermeidung
-description: "Wenn es um Weltraumrecht: Planetary Protection Kontaminationsvermeidung in Weltraumrecht geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Weltraumrecht: Planetary Protection Kontaminationsvermeidung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Weltraumrecht: Planetary Protection Kontaminationsvermeidung

@@ -1,6 +1,6 @@
 ---
 name: quality-gate-redline-qa
-description: "Wenn es um Quality Gate — Vertragsausfueller in Vertragsausfüller geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
+description: "Für Quality Gate — Vertragsausfüller: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Quality Gate — Vertragsausfueller

@@ -1,6 +1,6 @@
 ---
 name: richtlinien-update-zyklus
-description: "Wenn es um Richtlinien-Update-Zyklus in diesem Spezialbereich geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen."
+description: "Für Richtlinien-Update-Zyklus: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Richtlinien-Update-Zyklus

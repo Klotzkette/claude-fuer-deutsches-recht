@@ -1,6 +1,6 @@
 ---
 name: intwr-cisg-pruefraster
-description: "Wenn es um Intwr Cisg Pruefraster in Fachanwalt Internationales Wirtschaftsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Intwr Cisg Prüfraster: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Prüfraster CISG / UN-Kaufrecht: sachlicher und persönlicher Anwendungsbereich, Vertragsschluss, Lieferpflichten, Pflichtverletzung, Rechtsbehelfe

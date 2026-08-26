@@ -1,6 +1,6 @@
 ---
 name: commercial-litigation-budget
-description: "Wenn es um Commercial Litigation Budget in Kanzlei-Mandant Lifecycle geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Commercial Litigation Budget: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Commercial Litigation Budget

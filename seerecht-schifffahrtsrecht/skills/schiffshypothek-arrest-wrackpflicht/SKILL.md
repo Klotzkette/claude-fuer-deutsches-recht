@@ -1,6 +1,6 @@
 ---
 name: schiffshypothek-arrest-wrackpflicht
-description: "Wenn es um Schiffshypothek – Arrest vorbereiten in See- und Schifffahrtsrecht geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Schiffshypothek – Arrest vorbereiten: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Schiffshypothek – Arrest vorbereiten

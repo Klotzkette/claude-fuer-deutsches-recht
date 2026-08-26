@@ -1,6 +1,6 @@
 ---
 name: vertragserstellung-musterbasiert
-description: "Wenn es um Vertragserstellung musterbasiert in Immobilienrechtspraxis geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Vertragserstellung musterbasiert: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Vertragserstellung musterbasiert

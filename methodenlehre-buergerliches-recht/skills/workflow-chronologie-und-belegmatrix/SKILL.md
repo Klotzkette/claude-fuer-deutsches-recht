@@ -1,6 +1,6 @@
 ---
 name: workflow-chronologie-und-belegmatrix
-description: "Wenn es um Workflow Chronologie Und Belegmatrix in Methodenlehre bürgerliches Recht geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Chronologie mit Belegmatrix und Widerspruchsliste."
+description: "Für Workflow Chronologie und Belegmatrix: ordnet Akte, Belege und Lücken; Ergebnis: Chronologie mit Beleg- und Widerspruchsmatrix. Fachgebiet: Methodenlehre bürgerliches Recht."
 ---
 
 # Dieses Skill erstellt eine vollständige Sachverhaltschronologie und eine tatbestandsbezogene Belegmatrix für ein zivilrechtliches Mandat

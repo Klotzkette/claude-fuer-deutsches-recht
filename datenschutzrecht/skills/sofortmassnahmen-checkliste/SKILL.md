@@ -1,6 +1,6 @@
 ---
 name: sofortmassnahmen-checkliste
-description: "Wenn es um Sofortmaßnahmen-Checkliste nach Datenschutzvorfall in Datenschutzrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Sofortmaßnahmen-Checkliste nach Datenschutzvorfall: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Sofortmaßnahmen-Checkliste nach Datenschutzvorfall
@@ -60,3 +60,7 @@ Priorität 4 (24-72 h):
 - `dsv-meldung-art-33-pflichtangaben` deckt die Behördenmeldung ab; bei Bedarf zusätzlich ziehen.
 - `dsv-benachrichtigung-art-34-betroffene` deckt die Benachrichtigung Betroffener ab.
 - `dsv-bussgeldverteidigung-art-83` und `dsv-schadensersatz-art-82` decken die anwaltliche Nachbearbeitung ab.
+
+## Vertiefung bei Bedarf
+
+- Bei `dsv-sofortmassnahmen-checkliste` beziehungsweise Generiert eine priorisierte Sofortmaßnahmen-Checkliste innerhalb der ersten Stunden nach Bekanntwerden eines Datenschutzvorfalls: [die zusätzliche Vertiefung laden](./references/vertiefung-dsv-sofortmassnahmen-checkliste.md).

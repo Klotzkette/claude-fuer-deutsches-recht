@@ -1,6 +1,6 @@
 ---
 name: dokumente-rendern-docx-pdf
-description: "Wenn es um Dokumente rendern - DOCX und PDF im offiziellen HdR-Layout in Legistik-Werkstatt geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
+description: "Für Dokumente rendern - DOCX und PDF im offiziellen HdR-Layout: ordnet Akte, Belege und Lücken; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Dokumente rendern - DOCX und PDF im offiziellen HdR-Layout

@@ -1,6 +1,6 @@
 ---
 name: owi-kommunikation-mit-verwaltungsbehoerde
-description: "Wenn es um Kommunikation mit Verwaltungsbehörde und Gericht: sachkundig, knapp und rollenrein in Staatsanwaltschaft Praxis-Einstieg geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
+description: "Für Kommunikation mit Verwaltungsbehörde und Gericht: sachkundig, knapp und rollenrein: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Kommunikation mit Verwaltungsbehörde und Gericht: sachkundig, knapp und rollenrein

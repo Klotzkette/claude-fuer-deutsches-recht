@@ -1,6 +1,6 @@
 ---
 name: einfuehrung-vo-261
-description: "Wenn es um Fluggastrechte VO 261: Einfuehrung in Fluggastrechte geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen."
+description: "Für Fluggastrechte VO 261: Einführung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Fluggastrechte VO 261: Einfuehrung

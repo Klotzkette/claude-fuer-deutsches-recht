@@ -1,6 +1,6 @@
 ---
 name: politische-maessigung-60-bbg
-description: "Wenn es um Politische Maessigungspflicht Paragraf 60 BBG in Beamtenrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Politische Mäßigungspflicht Paragraf 60 BBG: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Politische Maessigungspflicht § 60 BBG

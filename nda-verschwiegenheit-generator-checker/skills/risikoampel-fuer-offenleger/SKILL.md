@@ -1,6 +1,6 @@
 ---
 name: risikoampel-fuer-offenleger
-description: "Wenn es um Risikoampel Für Offenleger in NDA-Generator und Verschwiegenheitsvereinbarungs-Checker geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Risikoampel für Offenleger: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Fristen- und Risikoampel."
 ---
 
 # Risikoampel Für Offenleger

@@ -1,6 +1,6 @@
 ---
 name: immo-gewerbliche-mieter-konkurs
-description: "Wenn es um Gewerbemieter in Insolvenz in Immobilienrechtspraxis geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Gewerbemieter in Insolvenz: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Gewerbemieter in Insolvenz

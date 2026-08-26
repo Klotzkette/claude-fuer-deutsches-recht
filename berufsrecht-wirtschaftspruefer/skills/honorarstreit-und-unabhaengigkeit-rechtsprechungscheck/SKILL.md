@@ -1,6 +1,6 @@
 ---
 name: honorarstreit-und-unabhaengigkeit-rechtsprechungscheck
-description: "Wenn es um Honorarstreit Und Unabhaengigkeit Rechtsprechungscheck in Berufsrecht Wirtschaftsprüfer geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Gegenprüfung mit Fehler-, Beweis- und Fristencheck."
+description: "Für Honorarstreit und Unabhängigkeit Rechtsprechungscheck: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Wirtschaftsprüfer: honorarstreit und unabhaengigkeit - Rechtsprechungscheck, stärkste Gegenansicht und Red-Team-Korrektur

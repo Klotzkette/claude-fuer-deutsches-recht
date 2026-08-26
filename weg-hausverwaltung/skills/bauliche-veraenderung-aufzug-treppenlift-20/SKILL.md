@@ -1,6 +1,6 @@
 ---
 name: bauliche-veraenderung-aufzug-treppenlift-20
-description: "Wenn es um Bauliche Veränderung: Aufzug und Treppenlift nach Paragraf 20 Abs. 2 Nr. 2 WEG in WEG- und Hausverwaltung geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
+description: "Für Bauliche Veränderung: Aufzug und Treppenlift nach Paragraf 20 Abs. 2 Nr. 2 WEG: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Bauliche Veränderung: Aufzug und Treppenlift nach § 20 Abs. 2 Nr. 2 WEG

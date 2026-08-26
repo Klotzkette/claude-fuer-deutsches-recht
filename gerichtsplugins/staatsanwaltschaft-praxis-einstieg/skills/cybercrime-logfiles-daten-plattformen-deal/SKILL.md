@@ -1,6 +1,6 @@
 ---
 name: cybercrime-logfiles-daten-plattformen-deal
-description: "Wenn es um Cybercrime: Logfiles und Chain of Custody in Staatsanwaltschaft Praxis-Einstieg geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Beweislast- und Substantiierungsmatrix. Auswahlstichwort: Cybercrime Logfiles Daten Plattformen Deal; Arbeitsfeld: Staatsanwaltschaft Praxis-Einstieg."
+description: "Für Cybercrime: Logfiles und Chain of Custody: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt. Fachgebiet: Staatsanwaltschaft Praxis-Einstieg. Route: cybercrime-logfiles-daten-plattformen-deal."
 ---
 
 # Cybercrime: Logfiles und Chain of Custody

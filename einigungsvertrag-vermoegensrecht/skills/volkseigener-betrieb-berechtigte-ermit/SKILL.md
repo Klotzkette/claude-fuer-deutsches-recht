@@ -1,6 +1,6 @@
 ---
 name: volkseigener-betrieb-berechtigte-ermit
-description: "Wenn es um Volkseigener Betrieb Chronologie Bauen in Einigungsvertrag und Vermögensrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Chronologie mit Belegmatrix und Widerspruchsliste."
+description: "Für Volkseigener Betrieb Chronologie Bauen: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Volkseigener Betrieb Chronologie Bauen

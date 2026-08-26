@@ -1,6 +1,6 @@
 ---
 name: datum-entscheidungsform-spezial-gericht
-description: "Wenn es um Datum: Behörden-, Gerichts- oder Registerweg in Zitierweise deutsches Recht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. Auswahlstichwort: Datum Entscheidungsform Spezial Gericht; Arbeitsfeld: Zitierweise deutsches Recht."
+description: "Für Datum: Behörden-, Gerichts- oder Registerweg: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Datum: Behörden-, Gerichts- oder Registerweg

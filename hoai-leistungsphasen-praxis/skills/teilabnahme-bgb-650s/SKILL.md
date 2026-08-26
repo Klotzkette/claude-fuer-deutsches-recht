@@ -1,6 +1,6 @@
 ---
 name: teilabnahme-bgb-650s
-description: "Wenn es um HOAI Querschnitt: Prüft teilabnahme ab letzter unternehmerleistung und haftungsfolgen in HOAI Leistungsphasen Praxis geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen."
+description: "Für HOAI Querschnitt: Prüft teilabnahme ab letzter unternehmerleistung und haftungsfolgen: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # HOAI Querschnitt: Prüft teilabnahme ab letzter unternehmerleistung und haftungsfolgen

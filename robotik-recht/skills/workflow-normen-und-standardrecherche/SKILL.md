@@ -1,6 +1,6 @@
 ---
 name: workflow-normen-und-standardrecherche
-description: "Wenn es um Normen- und Standardrecherche in robotik-recht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Tatbestands- oder Anspruchsmatrix mit Gegenargumenten. Auswahlstichwort: Workflow Normen Und Standardrecherche; Arbeitsfeld: robotik-recht."
+description: "Für Normen- und Standardrecherche: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Tatbestands- oder Anspruchsmatrix. Fachgebiet: robotik-recht. Route: workflow-normen-und-standardrecherche."
 ---
 
 # Normen- und Standardrecherche

@@ -1,6 +1,6 @@
 ---
 name: dienstunfall-folgekosten-disziplinar
-description: "Wenn es um dienstunfall-folgekosten-unfallfürsorge in Beamtenrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für dienstunfall-folgekosten-unfallfürsorge: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # dienstunfall-folgekosten-unfallfürsorge

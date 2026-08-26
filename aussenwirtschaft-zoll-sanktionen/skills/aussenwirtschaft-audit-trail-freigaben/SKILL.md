@@ -1,6 +1,6 @@
 ---
 name: aussenwirtschaft-audit-trail-freigaben
-description: "Wenn es um Audit-Trail: Revisionssichere Freigabedokumentation im Aussenhandel in Außenwirtschaft, Sanktionen, Zoll und CBAM geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Audit-Trail: Revisionssichere Freigabedokumentation im Außenhandel: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Audit-Trail: Revisionssichere Freigabedokumentation im Aussenhandel

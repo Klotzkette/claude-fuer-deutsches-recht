@@ -1,6 +1,6 @@
 ---
 name: syndikus-oder-inhouse
-description: "Wenn es um Syndikus oder Inhouse in Berufsrecht Wirtschaftsprüfer geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
+description: "Für Syndikus oder Inhouse: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt. Fachgebiet: Berufsrecht Wirtschaftsprüfer."
 ---
 
 # Syndikus oder Inhouse

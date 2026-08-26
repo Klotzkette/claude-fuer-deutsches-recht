@@ -1,6 +1,6 @@
 ---
 name: mandatsvereinbarung-postlauf
-description: "Wenn es um Mandatsvereinbarung und Honorarstart in Kanzlei-Allgemein geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen."
+description: "Für Mandatsvereinbarung und Honorarstart: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Mandatsvereinbarung und Honorarstart

@@ -1,6 +1,6 @@
 ---
 name: kammerbeschwerde-steuerberater-kammerantwort
-description: "Wenn es um Kammerbeschwerde Steuerberater Kammerantwort in Berufsrecht Steuerberater geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Verhandlungs- oder Eskalationslinie mit Optionen."
+description: "Für Kammerbeschwerde Steuerberater Kammerantwort: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Schnittstellenkarte mit Zuständigkeits- und Nachweisfragen."
 ---
 
 # Steuerberater: kammerbeschwerde steuerberater - Kammerantwort mit Verfahrensstrategie, Tonlage und Belegplan

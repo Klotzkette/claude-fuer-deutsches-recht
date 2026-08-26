@@ -1,6 +1,6 @@
 ---
 name: agb-online-altersverifikation-jugendschutz
-description: "Wenn es um AGB im Online-Shop – Einbeziehung Paragraf 305 BGB in E-Commerce-Recht geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
+description: "Für AGB im Online-Shop – Einbeziehung Paragraf 305 BGB: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # AGB im Online-Shop – Einbeziehung § 305 BGB

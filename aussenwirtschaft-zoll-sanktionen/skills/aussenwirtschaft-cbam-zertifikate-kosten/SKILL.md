@@ -1,6 +1,6 @@
 ---
 name: aussenwirtschaft-cbam-zertifikate-kosten
-description: "Wenn es um CBAM-Zertifikate: Beschaffung, Kosten und Jahresabgabepflicht in Außenwirtschaft, Sanktionen, Zoll und CBAM geht: rechnet Schwellen, Beträge, Varianten und Kontrollannahmen durch; liefert eine Berechnungstabelle mit Schwellen, Annahmen und Kontrollfragen."
+description: "Für CBAM-Zertifikate: Beschaffung, Kosten und Jahresabgabepflicht: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # CBAM-Zertifikate: Beschaffung, Kosten und Jahresabgabepflicht

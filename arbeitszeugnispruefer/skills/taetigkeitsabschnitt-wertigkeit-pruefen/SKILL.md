@@ -1,6 +1,6 @@
 ---
 name: taetigkeitsabschnitt-wertigkeit-pruefen
-description: "Wenn es um Taetigkeitsabschnitt und Wertigkeit pruefen in Arbeitszeugnispruefer geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen."
+description: "Für Tätigkeitsabschnitt und Wertigkeit prüfen: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Taetigkeitsabschnitt und Wertigkeit pruefen

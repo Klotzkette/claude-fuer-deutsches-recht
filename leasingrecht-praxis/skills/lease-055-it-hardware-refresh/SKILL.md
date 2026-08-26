@@ -1,6 +1,6 @@
 ---
 name: lease-055-it-hardware-refresh
-description: "Wenn es um IT-Hardware Refresh Leasing in Leasingrecht Praxis geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für IT-Hardware Refresh Leasing: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # IT-Hardware Refresh Leasing

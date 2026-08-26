@@ -1,6 +1,6 @@
 ---
 name: minderjaehrige-und-schutzwertung
-description: "Wenn es um Minderjährige und Schutzwertung in bereicherungs-und-anfechtungsrecht-prüfer geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. Auswahlstichwort: Minderjaehrige Und Schutzwertung; Arbeitsfeld: bereicherungs-und-anfechtungsrecht-prüfer."
+description: "Für Minderjährige und Schutzwertung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt. Fachgebiet: bereicherungs-und-anfechtungsrecht-prüfer. Route: minderjaehrige-und-schutzwertung."
 ---
 
 # Minderjährige und Schutzwertung

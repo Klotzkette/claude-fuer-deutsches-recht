@@ -1,6 +1,6 @@
 ---
 name: open-source-persoenlichkeitsrecht-stimme
-description: "Wenn es um Open Source und Softwarelizenzen in Urheberrecht DE EU geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Open Source und Softwarelizenzen: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Open Source und Softwarelizenzen

@@ -1,6 +1,6 @@
 ---
 name: schuldnerin-mit-immobilie
-description: "Wenn es um Schuldnerin Mit Immobilie in Verbraucherinsolvenz und Schuldenbereinigung geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Schuldnerin mit Immobilie: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Schuldner mit Immobilie: Grundschuld, Teilungsversteigerung, freihändiger Verkauf, Wohnenbleiben und Masse.

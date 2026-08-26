@@ -1,6 +1,6 @@
 ---
 name: tibet-xinjiang-public-communications
-description: "Wenn es um Kommunikation zu Tibet/Xinjiang: Rechts- und Reputationsrisiken in China-Wirtschaftsverkehr geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Kommunikation zu Tibet/Xinjiang: Rechts- und Reputationsrisiken: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Kommunikation zu Tibet/Xinjiang: Rechts- und Reputationsrisiken

@@ -1,6 +1,6 @@
 ---
 name: selbstbewirtschaftungsmittel-deckung-f
-description: "Wenn es um Selbstbewirtschaftungsmittel Deckung F in Haushaltsrecht BHO Bund und Länder geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Selbstbewirtschaftungsmittel Deckung F: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Selbstbewirtschaftungsmittel Deckung F

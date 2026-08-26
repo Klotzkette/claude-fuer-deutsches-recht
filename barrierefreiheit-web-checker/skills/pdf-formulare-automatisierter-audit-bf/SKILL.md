@@ -1,6 +1,6 @@
 ---
 name: pdf-formulare-automatisierter-audit-bf
-description: "Wenn es um PDF und Formulare barrierefrei in Barrierefreiheit Web Checker geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert einen Einreichungsplan mit Form-, Portal- und Nachweischeck."
+description: "Für PDF und Formulare barrierefrei: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Einreichungsplan mit Form- und Nachweischeck."
 ---
 
 # PDF und Formulare barrierefrei

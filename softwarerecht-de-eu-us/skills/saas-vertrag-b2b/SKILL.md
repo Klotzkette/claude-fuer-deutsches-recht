@@ -1,6 +1,6 @@
 ---
 name: saas-vertrag-b2b
-description: "Wenn es um SaaS-Vertrag B2B in Softwarerecht Deutschland/EU/International/USA geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für SaaS-Vertrag B2B: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # SaaS-Vertrag B2B

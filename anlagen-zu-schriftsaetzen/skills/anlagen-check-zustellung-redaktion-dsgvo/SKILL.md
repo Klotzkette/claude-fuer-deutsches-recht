@@ -1,6 +1,6 @@
 ---
 name: anlagen-check-zustellung-redaktion-dsgvo
-description: "Wenn es um Anlagen: Quality-Check vor Zustellung in Anlagen zu Schriftsätzen geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik. Auswahlstichwort: Anlagen Check Zustellung Redaktion Dsgvo; Arbeitsfeld: Anlagen zu Schriftsätzen."
+description: "Für Anlagen: Quality-Check vor Zustellung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt. Fachgebiet: Anlagen zu Schriftsätzen. Route: anlagen-check-zustellung-redaktion-dsgvo."
 ---
 
 # Anlagen: Quality-Check vor Zustellung

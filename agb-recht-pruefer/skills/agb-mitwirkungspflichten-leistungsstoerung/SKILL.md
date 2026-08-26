@@ -1,6 +1,6 @@
 ---
 name: agb-mitwirkungspflichten-leistungsstoerung
-description: "Wenn es um Mitwirkungspflichten in AGB-Recht-Prüfer geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Fristen- und Risikoampel mit Sofortschritten. Auswahlstichwort: Agb Mitwirkungspflichten Leistungsstoerung; Arbeitsfeld: AGB-Recht-Prüfer."
+description: "Für Mitwirkungspflichten: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt. Fachgebiet: AGB-Recht-Prüfer. Route: agb-mitwirkungspflichten-leistungsstoerung."
 ---
 
 # Mitwirkungspflichten

@@ -1,6 +1,6 @@
 ---
 name: hausrecht-privatraeume
-description: "Wenn es um Hausrecht Privatraeume in Wahlkampfrecht Praxis geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Hausrecht Privaträume: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Schnittstellenkarte mit Zuständigkeits- und Nachweisfragen."
 ---
 
 # Hausrecht Privatraeume

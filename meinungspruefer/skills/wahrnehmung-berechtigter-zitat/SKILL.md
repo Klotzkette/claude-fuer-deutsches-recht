@@ -1,6 +1,6 @@
 ---
 name: wahrnehmung-berechtigter-zitat
-description: "Wenn es um Paragraf 193 StGB - Wahrnehmung berechtigter Interessen in Meinungsprüfer geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
+description: "Für Paragraf 193 StGB - Wahrnehmung berechtigter Interessen: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # § 193 StGB - Wahrnehmung berechtigter Interessen

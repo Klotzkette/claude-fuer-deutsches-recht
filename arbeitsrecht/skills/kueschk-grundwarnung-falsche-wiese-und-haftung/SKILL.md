@@ -1,6 +1,6 @@
 ---
 name: kueschk-grundwarnung-falsche-wiese-und-haftung
-description: "Wenn es um Kueschk Grundwarnung Falsche Wiese Und Haftung in Arbeitsrecht geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Kueschk Grundwarnung Falsche Wiese und Haftung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Pflichtkopf für jeden Kündigungsschutzklage-Schriftsatz: Hinweis auf falsche Wiese und Haftungsausschluss

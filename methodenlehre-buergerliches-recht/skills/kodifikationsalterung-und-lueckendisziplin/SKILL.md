@@ -1,6 +1,6 @@
 ---
 name: kodifikationsalterung-und-lueckendisziplin
-description: "Wenn es um Kodifikationsalterung und Lückendisziplin in Methodenlehre bürgerliches Recht geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen."
+description: "Für Kodifikationsalterung und Lückendisziplin: ordnet Akte, Belege und Lücken; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Kodifikationsalterung und Lückendisziplin

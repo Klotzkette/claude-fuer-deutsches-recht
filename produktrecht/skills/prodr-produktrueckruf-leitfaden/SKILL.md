@@ -1,6 +1,6 @@
 ---
 name: prodr-produktrueckruf-leitfaden
-description: "Wenn es um ProdR: Produktrueckruf in Produkthaftung und Produktrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für ProdR: Produktrückruf: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # ProdR: Produktrueckruf

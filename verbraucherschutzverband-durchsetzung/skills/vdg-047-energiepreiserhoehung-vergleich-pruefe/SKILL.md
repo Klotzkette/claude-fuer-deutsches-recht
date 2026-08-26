@@ -1,6 +1,6 @@
 ---
 name: vdg-047-energiepreiserhoehung-vergleich-pruefe
-description: "Wenn es um Energiepreiserhoehung Vergleich Pruefe in Verbraucherschutzverband Durchsetzung geht: entwickelt Verhandlungsziel, Vergleichskorridor und Eskalationspfad; liefert eine Verhandlungs- oder Eskalationslinie mit Optionen."
+description: "Für Energiepreiserhöhung Vergleich Prüfe: entwickelt Ziel, Vergleich und Eskalation; Ergebnis: Verhandlungs- oder Eskalationslinie. Fachgebiet: Verbraucherschutzverband Durchsetzung. Route: vdg-047-energiepreiserhoehung-vergleich-pruefe."
 ---
 
 # Energiepreiserhoehung Vergleich Pruefe

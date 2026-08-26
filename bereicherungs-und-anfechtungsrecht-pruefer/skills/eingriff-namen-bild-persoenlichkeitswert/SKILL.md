@@ -1,6 +1,6 @@
 ---
 name: eingriff-namen-bild-persoenlichkeitswert
-description: "Wenn es um Eingriff in Name, Bild und Persönlichkeitswert in bereicherungs-und-anfechtungsrecht-prüfer geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. Auswahlstichwort: Eingriff Namen Bild Persoenlichkeitswert; Arbeitsfeld: bereicherungs-und-anfechtungsrecht-prüfer."
+description: "Für Eingriff in Name, Bild und Persönlichkeitswert: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt. Fachgebiet: bereicherungs-und-anfechtungsrecht-prüfer. Route: eingriff-namen-bild-persoenlichkeitswert."
 ---
 
 # Eingriff in Name, Bild und Persönlichkeitswert

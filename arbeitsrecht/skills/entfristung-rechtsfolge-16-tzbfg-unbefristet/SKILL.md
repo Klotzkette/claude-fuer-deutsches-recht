@@ -1,6 +1,6 @@
 ---
 name: entfristung-rechtsfolge-16-tzbfg-unbefristet
-description: "Wenn es um Entfristung Rechtsfolge 16 Tzbfg Unbefristet in Arbeitsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Entfristung Rechtsfolge 16 Tzbfg Unbefristet: prüft Frist, Form, Zuständigkeit und Eilbedarf; Ergebnis: Fristen- und Risikoampel."
 ---
 
 # Rechtsfolge unwirksamer Befristung nach Paragraf 16 Satz 1 TzBfG: Vertrag gilt als auf unbestimmte Zeit geschlossen

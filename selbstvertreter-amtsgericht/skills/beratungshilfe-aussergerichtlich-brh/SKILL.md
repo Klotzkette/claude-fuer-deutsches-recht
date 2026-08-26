@@ -1,6 +1,6 @@
 ---
 name: beratungshilfe-aussergerichtlich-brh
-description: "Wenn es um Beratungshilfe: Anwalt vor Klage (fast) umsonst in selbstvertreter-amtsgericht geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
+description: "Für Beratungshilfe: Anwalt vor Klage (fast) umsonst: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Beratungshilfe: Anwalt vor Klage (fast) umsonst

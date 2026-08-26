@@ -1,6 +1,6 @@
 ---
 name: geschaeftskonto-zahlungsfluss
-description: "Wenn es um Büro Alltag und Tools: Entscheidet geschäftskonto in Solo-Selbstständige Praxis geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Büro Alltag und Tools: Entscheidet geschäftskonto: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Büro Alltag und Tools: Entscheidet geschäftskonto

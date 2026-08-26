@@ -1,6 +1,6 @@
 ---
 name: usb-wechseldatentraeger
-description: "Wenn es um USB Wechseldatentraeger in NIS-2, Cybersecurity und IT-Sicherheits-Compliance geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für USB Wechseldatenträger: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # USB Wechseldatentraeger

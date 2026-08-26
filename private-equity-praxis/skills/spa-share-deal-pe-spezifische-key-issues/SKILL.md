@@ -1,6 +1,6 @@
 ---
 name: spa-share-deal-pe-spezifische-key-issues
-description: "Wenn es um SPA Share Deal: PE-spezifische Key Issues in Private Equity Praxis geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für SPA Share Deal: PE-spezifische Key Issues: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # SPA Share Deal: PE-spezifische Key Issues

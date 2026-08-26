@@ -1,6 +1,6 @@
 ---
 name: heilfuersorge-truppenaerztliche-versorgung-und-pkv
-description: "Wenn es um Heilfürsorge, truppenärztliche Versorgung und PKV in Bundeswehrrecht und Wehrrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Heilfürsorge, truppenärztliche Versorgung und PKV: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Heilfürsorge, truppenärztliche Versorgung und PKV

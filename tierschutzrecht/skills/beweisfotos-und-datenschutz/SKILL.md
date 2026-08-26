@@ -1,6 +1,6 @@
 ---
 name: beweisfotos-und-datenschutz
-description: "Wenn es um Beweisfotos Und Datenschutz in Tierschutzrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Beweisfotos und Datenschutz: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Beweislast- und Substantiierungsmatrix."
 ---
 
 # Beweisfotos Und Datenschutz

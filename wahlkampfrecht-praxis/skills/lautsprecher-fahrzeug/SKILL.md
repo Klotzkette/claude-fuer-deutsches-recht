@@ -1,6 +1,6 @@
 ---
 name: lautsprecher-fahrzeug
-description: "Wenn es um Lautsprecher Fahrzeug in Wahlkampfrecht Praxis geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Lautsprecher Fahrzeug: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Schnittstellenkarte mit Zuständigkeits- und Nachweisfragen."
 ---
 
 # Lautsprecher Fahrzeug

@@ -1,6 +1,6 @@
 ---
 name: professional-fees-professionals-retention
-description: "Wenn es um Professional Fees Paragraf 330 in US Bankruptcy Code geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Professional Fees Paragraf 330: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Professional Fees § 330

@@ -1,6 +1,6 @@
 ---
 name: handelsbuecher-paragraph-handelsgeschaefte
-description: "Wenn es um Handelsbücher Paragraf 238 HGB in Handelsrecht HGB geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
+description: "Für Handelsbücher Paragraf 238 HGB: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Handelsbücher § 238 HGB

@@ -1,6 +1,6 @@
 ---
 name: dfg-wiedereinreichung-nach-ablehnung
-description: "Wenn es um Wiedereinreichung nach Ablehnung in DFG-Förderantrag geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
+description: "Für Wiedereinreichung nach Ablehnung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Einreichungsplan mit Form- und Nachweischeck."
 ---
 
 # Wiedereinreichung nach Ablehnung

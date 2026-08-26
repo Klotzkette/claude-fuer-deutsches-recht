@@ -1,6 +1,6 @@
 ---
 name: famfg-beschwerde-registersache
-description: "Wenn es um Beschwerde in Registersachen in Handelsregister Praxis geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Beschwerde in Registersachen: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Einreichungsplan mit Form- und Nachweischeck."
 ---
 
 # Beschwerde in Registersachen

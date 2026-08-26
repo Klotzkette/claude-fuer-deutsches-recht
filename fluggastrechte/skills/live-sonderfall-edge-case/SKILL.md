@@ -1,6 +1,6 @@
 ---
 name: live-sonderfall-edge-case
-description: "Wenn es um Live: Sonderfall und Edge-Case-Prüfung in Fluggastrechte geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Live: Sonderfall und Edge-Case-Prüfung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Live: Sonderfall und Edge-Case-Prüfung

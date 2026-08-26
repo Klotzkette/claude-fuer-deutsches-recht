@@ -1,6 +1,6 @@
 ---
 name: weg-beschluesse-dokumentenmatrix-lueckenliste-nachforderung
-description: "Wenn es um Beschlüsse: Dokumentenmatrix, Lückenliste und Nachforderung in WEG- und Hausverwaltung geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Dokumentenmatrix mit Nachforderungsliste."
+description: "Für Beschlüsse: Dokumentenmatrix, Lückenliste und Nachforderung: ordnet Akte, Belege und Lücken; Ergebnis: Dokumentenmatrix mit Nachforderungsliste."
 ---
 
 # Beschlüsse: Dokumentenmatrix, Lückenliste und Nachforderung

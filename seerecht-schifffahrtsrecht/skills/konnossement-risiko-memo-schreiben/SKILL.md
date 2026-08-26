@@ -1,6 +1,6 @@
 ---
 name: konnossement-risiko-memo-schreiben
-description: "Wenn es um Konnossement – Risiko-Memo schreiben in See- und Schifffahrtsrecht geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
+description: "Für Konnossement – Risiko-Memo schreiben: erstellt Entwurf mit Antrag, Beweis und Anlagen; Ergebnis: Schriftsatz mit Begründungs- und Anlagenlogik."
 ---
 
 # Konnossement – Risiko-Memo schreiben

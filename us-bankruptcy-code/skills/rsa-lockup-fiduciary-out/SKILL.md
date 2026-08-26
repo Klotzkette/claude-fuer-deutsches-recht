@@ -1,6 +1,6 @@
 ---
 name: rsa-lockup-fiduciary-out
-description: "Wenn es um Lock-Up and Fiduciary Out in US Bankruptcy Code geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Lock-Up and Fiduciary Out: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Lock-Up and Fiduciary Out

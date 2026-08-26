@@ -1,6 +1,6 @@
 ---
 name: sondernutzungserlaubnis
-description: "Wenn es um Sondernutzungserlaubnis in Straßenrecht und Infrastruktur geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Sondernutzungserlaubnis: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Sondernutzungserlaubnis

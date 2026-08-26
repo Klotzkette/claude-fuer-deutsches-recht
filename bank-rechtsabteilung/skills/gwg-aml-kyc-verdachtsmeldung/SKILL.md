@@ -1,6 +1,6 @@
 ---
 name: gwg-aml-kyc-verdachtsmeldung
-description: "Wenn es um GwG AML KYC in Bank-Rechtsabteilung geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
+description: "Für GwG AML KYC: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # GwG AML KYC

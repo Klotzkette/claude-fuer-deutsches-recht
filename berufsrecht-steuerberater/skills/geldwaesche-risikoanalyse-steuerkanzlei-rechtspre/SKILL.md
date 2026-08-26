@@ -1,6 +1,6 @@
 ---
 name: geldwaesche-risikoanalyse-steuerkanzlei-rechtspre
-description: "Wenn es um Geldwaesche Risikoanalyse Steuerkanzlei Rechtspre in Berufsrecht Steuerberater geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Gegenprüfung mit Fehler-, Beweis- und Fristencheck."
+description: "Für Geldwäsche Risikoanalyse Steuerkanzlei Rechtspre: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Schnittstellenkarte mit Zuständigkeits- und Nachweisfragen."
 ---
 
 # Steuerberater: geldwaesche risikoanalyse steuerkanzlei - Rechtsprechungscheck, stärkste Gegenansicht und Red-Team-Korrektur

@@ -1,6 +1,6 @@
 ---
 name: employee-rumor
-description: "Wenn es um Mitarbeiter-Gerüchte über Insiderwissen – Compliance-Reaktion in Insiderrecht Compliance geht: entwickelt Verhandlungsziel, Vergleichskorridor und Eskalationspfad; liefert eine Verhandlungs- oder Eskalationslinie mit Optionen."
+description: "Für Mitarbeiter-Gerüchte über Insiderwissen – Compliance-Reaktion: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Mitarbeiter-Gerüchte über Insiderwissen – Compliance-Reaktion

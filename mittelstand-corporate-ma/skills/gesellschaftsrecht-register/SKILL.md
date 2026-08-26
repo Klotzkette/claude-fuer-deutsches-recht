@@ -1,6 +1,6 @@
 ---
 name: gesellschaftsrecht-register
-description: "Wenn es um Corporate Housekeeping und Register in Mittelstands-Corporate/M&A geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert einen Einreichungsplan mit Form-, Portal- und Nachweischeck."
+description: "Für Corporate Housekeeping und Register: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Einreichungsplan mit Form- und Nachweischeck."
 ---
 
 # Corporate Housekeeping und Register

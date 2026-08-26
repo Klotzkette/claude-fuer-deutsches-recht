@@ -1,6 +1,6 @@
 ---
 name: chn-096-red-team-ideological-pressure
-description: "Wenn es um Red Team Ideological Pressure in China-Wirtschaftsverkehr geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Red Team Ideological Pressure: prüft Ergebnis, Beweislast und Gegenposition; Ergebnis: Gegenprüfung mit Beweis- und Fristencheck."
 ---
 
 # Red Team Ideological Pressure

@@ -1,6 +1,6 @@
 ---
 name: fachanwalt-miet-wohnungseigentumsrecht-eigenbedarfskuendigung
-description: "Wenn es um Eigenbedarfs-Kündigung Paragraf 573 II Nr. 2 BGB in Fachanwalt Miet- und Wohnungseigentumsrecht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
+description: "Für Eigenbedarfs-Kündigung Paragraf 573 II Nr. 2 BGB: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Eigenbedarfs-Kündigung § 573 II Nr. 2 BGB

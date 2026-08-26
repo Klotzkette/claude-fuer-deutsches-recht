@@ -1,6 +1,6 @@
 ---
 name: anrechenbare-kosten-din276-baukostengruppen
-description: "Wenn es um Anrechenbare Kosten, DIN 276 Und Kostengruppen in HOAI Leistungsphasen Praxis geht: rechnet Schwellen, Beträge, Varianten und Kontrollannahmen durch; liefert eine Berechnungstabelle mit Schwellen, Annahmen und Kontrollfragen."
+description: "Für Anrechenbare Kosten, DIN 276 und Kostengruppen: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Anrechenbare Kosten, DIN 276 Und Kostengruppen

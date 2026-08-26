@@ -1,6 +1,6 @@
 ---
 name: data-ai-und-cyber-dd
-description: "Wenn es um Data, digitale Werkzeuge und Cyber DD in Venture Capital Geber geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Data, digitale Werkzeuge und Cyber DD: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Data, AI und Cyber DD

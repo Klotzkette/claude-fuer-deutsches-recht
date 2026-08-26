@@ -1,6 +1,6 @@
 ---
 name: beschwerde-dolmetscher-sonderfall
-description: "Wenn es um Beschwerde: Internationaler Bezug und Schnittstellen in JVEG-Kostenprüfer geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Beschwerde: Internationaler Bezug und Schnittstellen: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Beschwerde: Internationaler Bezug und Schnittstellen

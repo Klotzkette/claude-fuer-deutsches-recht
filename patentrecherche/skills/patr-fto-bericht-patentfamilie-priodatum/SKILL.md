@@ -1,6 +1,6 @@
 ---
 name: patr-fto-bericht-patentfamilie-priodatum
-description: "Wenn es um PatR: FTO-Bericht in patentrecherche geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für PatR: FTO-Bericht: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # PatR: FTO-Bericht

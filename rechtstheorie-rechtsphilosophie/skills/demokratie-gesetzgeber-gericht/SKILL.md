@@ -1,6 +1,6 @@
 ---
 name: demokratie-gesetzgeber-gericht
-description: "Wenn es um Demokratie, Gesetzgeber und Gericht in Rechtstheorie und Rechtsphilosophie geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Demokratie, Gesetzgeber und Gericht: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Demokratie, Gesetzgeber und Gericht

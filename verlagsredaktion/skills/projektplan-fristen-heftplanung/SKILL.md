@@ -1,6 +1,6 @@
 ---
 name: projektplan-fristen-heftplanung
-description: "Wenn es um Projektplan, Fristen und Heftplanung in Verlagsredaktion geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Projektplan, Fristen und Heftplanung: prüft Frist, Form, Zuständigkeit und Eilbedarf; Ergebnis: Fristen- und Risikoampel."
 ---
 
 # Projektplan, Fristen und Heftplanung

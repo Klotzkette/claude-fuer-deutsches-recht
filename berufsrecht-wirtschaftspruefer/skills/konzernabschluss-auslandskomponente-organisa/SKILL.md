@@ -1,6 +1,6 @@
 ---
 name: konzernabschluss-auslandskomponente-organisa
-description: "Wenn es um Konzernabschluss Auslandskomponente Organisa in Berufsrecht Wirtschaftsprüfer geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Konzernabschluss Auslandskomponente Organisa: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Schnittstellenkarte mit Zuständigkeits- und Nachweisfragen."
 ---
 
 # Wirtschaftsprüfer: konzernabschluss auslandskomponente - Organisationspflichten, Prävention, Team-Anweisung und Fristenkontrolle

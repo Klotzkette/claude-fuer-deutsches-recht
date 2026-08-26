@@ -1,6 +1,6 @@
 ---
 name: notariat-052-vollzug-behoerden-genehmigungen-negativattest
-description: "Wenn es um Notariat im Alltag: Vollzug mit Behörden Genehmigungen Vorkaufsrechtszeugnis Negativattest in Notariat im Alltag geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Notariat im Alltag: Vollzug mit Behörden Genehmigungen Vorkaufsrechtszeugnis Negativattest: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Notariat im Alltag: Vollzug mit Behörden Genehmigungen Vorkaufsrechtszeugnis Negativattest

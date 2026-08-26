@@ -1,6 +1,6 @@
 ---
 name: anti-dumping-zoll-eu-grundverordnung
-description: "Wenn es um Anti Dumping Zoll eu Grundverordnung in Fachanwalt Internationales Wirtschaftsrecht geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Anti Dumping Zoll eu Grundverordnung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Schnittstellenkarte mit Zuständigkeits- und Nachweisfragen."
 ---
 
 # Anti Dumping Zoll eu Grundverordnung

@@ -1,6 +1,6 @@
 ---
 name: e-curia-versandmappe-endfertigen
-description: "Endfertigt Klageschrift, Rechtsmittel, Streithilfeantrag und sonstige Verfahrensschrift vor Gericht und Gerichtshof der Europäischen Union: bestimmt Spruchkörper, Klageart, Frist und Verfahrenssprache, prüft Anträge und Vertretungsnachweise, ordnet Anlagen und Vertraulichkeitsfassungen, erzeugt e-Curia-gerechte Einzel-PDFs und liefert Einreichungsregister und Bestätigungskontrolle."
+description: "Endfertigt Klageschrift, Rechtsmittel, Streithilfeantrag und sonstige Verfahrensschrift vor Gericht und Gerichtshof der Europäischen Union: bestimmt Spruchkörper, Klageart, Frist und Verfahrenssprache, prüft Anträge und Vertretungsnachweise, ordnet Anlagen und Vertraulichkeitsfassungen, erzeugt e-Curia-gerechte Einzel-PDFs und liefert Einreichungsregister."
 ---
 
 # e-Curia-Versandmappe endfertigen

@@ -1,6 +1,6 @@
 ---
 name: kv-074-pkv-ombudsmann-und-beschwerdestrategie
-description: "Wenn es um Krankenversicherung: PKV Ombudsmann und Beschwerdestrategie in Krankenkassenrecht und Krankenversicherung geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Krankenversicherung: PKV Ombudsmann und Beschwerdestrategie: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Verhandlungs- oder Eskalationslinie."
 ---
 
 # Krankenversicherung: PKV Ombudsmann und Beschwerdestrategie

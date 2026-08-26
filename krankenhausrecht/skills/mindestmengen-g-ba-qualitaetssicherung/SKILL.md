@@ -1,6 +1,6 @@
 ---
 name: mindestmengen-g-ba-qualitaetssicherung
-description: "Wenn es um Mindestmengen G-BA Qualitaetssicherung in Krankenhausrecht geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert eine Gegenprüfung mit Fehler-, Beweis- und Fristencheck."
+description: "Für Mindestmengen G-BA Qualitätssicherung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Gegenprüfung mit Beweis- und Fristencheck."
 ---
 
 # Mindestmengen G-BA Qualitaetssicherung

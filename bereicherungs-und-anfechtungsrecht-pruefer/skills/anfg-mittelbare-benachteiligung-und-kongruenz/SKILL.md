@@ -1,6 +1,6 @@
 ---
 name: anfg-mittelbare-benachteiligung-und-kongruenz
-description: "Wenn es um Mittelbare Benachteiligung und Kongruenz — AnfG in bereicherungs-und-anfechtungsrecht-prüfer geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Mittelbare Benachteiligung und Kongrünz — AnfG: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Mittelbare Benachteiligung und Kongruenz — AnfG

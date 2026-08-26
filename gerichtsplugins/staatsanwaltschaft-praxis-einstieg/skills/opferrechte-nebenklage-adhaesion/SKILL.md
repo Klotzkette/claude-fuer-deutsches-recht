@@ -1,6 +1,6 @@
 ---
 name: opferrechte-nebenklage-adhaesion
-description: "Wenn es um Opferrechte, Nebenklage und Adhäsion in Staatsanwaltschaft Praxis-Einstieg geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik. Auswahlstichwort: Opferrechte Nebenklage Adhaesion; Arbeitsfeld: Staatsanwaltschaft Praxis-Einstieg."
+description: "Für Opferrechte, Nebenklage und Adhäsion: erstellt Entwurf mit Antrag, Beweis und Anlagen; Ergebnis: Schriftsatz mit Begründungs- und Anlagenlogik. Fachgebiet: Staatsanwaltschaft Praxis-Einstieg. Route: opferrechte-nebenklage-adhaesion."
 ---
 
 # Opferrechte, Nebenklage und Adhäsion

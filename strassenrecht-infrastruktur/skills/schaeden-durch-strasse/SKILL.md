@@ -1,6 +1,6 @@
 ---
 name: schaeden-durch-strasse
-description: "Wenn es um Schaeden Durch Strasse in Straßenrecht und Infrastruktur geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Schäden durch Strasse: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Schaeden Durch Strasse

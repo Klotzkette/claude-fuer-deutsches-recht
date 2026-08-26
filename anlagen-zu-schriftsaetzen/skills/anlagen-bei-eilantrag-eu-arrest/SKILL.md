@@ -1,6 +1,6 @@
 ---
 name: anlagen-bei-eilantrag-eu-arrest
-description: "Wenn es um Anlagen bei Eilantrag und Arrest in Anlagen zu Schriftsätzen geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
+description: "Für Anlagen bei Eilantrag und Arrest: erstellt Entwurf mit Antrag, Beweis und Anlagen; Ergebnis: Schriftsatz mit Begründungs- und Anlagenlogik."
 ---
 
 # Anlagen bei Eilantrag und Arrest

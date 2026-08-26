@@ -1,6 +1,6 @@
 ---
 name: telefonat-behoerde-termin-vorbereiten
-description: "Wenn es um Telefonat mit Behörde in Bürokratieversteher und Entbürokratisierer geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
+description: "Für Telefonat mit Behörde: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Telefonat mit Behörde

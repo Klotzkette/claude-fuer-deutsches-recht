@@ -1,6 +1,6 @@
 ---
 name: lebensfuehrung-und-plausibilitaet
-description: "Wenn es um Lebensführung und Plausibilität in Kriegsdienstverweigerung und Wehrdienst geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Lebensführung und Plausibilität: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Lebensführung und Plausibilität

@@ -1,6 +1,6 @@
 ---
 name: verjaehrung-fristen-pruefen
-description: "Wenn es um Verjährung und Fristen prüfen in Subsumtions-Prüfer geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Verjährung und Fristen prüfen: prüft Frist, Form, Zuständigkeit und Eilbedarf; Ergebnis: Fristen- und Risikoampel."
 ---
 
 # Verjährung und Fristen prüfen

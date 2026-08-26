@@ -1,6 +1,6 @@
 ---
 name: fachanwalt-migrationsrecht-bamf-anhoerung-strategie
-description: "Wenn es um BAMF-Anhörung / Ausländerbehörde-Kommunikation in Fachanwalt Migrationsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für BAMF-Anhörung / Ausländerbehörde-Kommunikation: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Verhandlungs- oder Eskalationslinie."
 ---
 
 # BAMF-Anhörung / Ausländerbehörde-Kommunikation

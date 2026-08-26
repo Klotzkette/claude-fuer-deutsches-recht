@@ -1,6 +1,6 @@
 ---
 name: aktenzeichen
-description: "Wenn es um Aktenzeichen und Verknüpfungen in Kanzlei-Allgemein geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
+description: "Für Aktenzeichen und Verknüpfungen: ordnet Akte, Belege und Lücken; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Aktenzeichen und Verknüpfungen

@@ -1,6 +1,6 @@
 ---
 name: cannabis-einlassung-planen
-description: "Wenn es um Cannabis Einlassung Planen in Betäubungsmittelrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Cannabis Einlassung Planen: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Cannabis Einlassung Planen

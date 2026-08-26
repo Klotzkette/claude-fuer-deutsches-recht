@@ -1,6 +1,6 @@
 ---
 name: gesellschafterbeschluesse-textbausteine
-description: "Wenn es um Gesellschafterbeschluesse: Schriftsatz-, Brief- und Memo-Bausteine in Gesellschaftsrecht geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
+description: "Für Gesellschafterbeschlüsse: Schriftsatz-, Brief- und Memo-Bausteine: erstellt Entwurf mit Antrag, Beweis und Anlagen; Ergebnis: Schriftsatz mit Begründungs- und Anlagenlogik."
 ---
 
 # Gesellschafterbeschluesse: Schriftsatz-, Brief- und Memo-Bausteine

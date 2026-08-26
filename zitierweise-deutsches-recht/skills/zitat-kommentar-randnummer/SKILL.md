@@ -1,6 +1,6 @@
 ---
 name: zitat-kommentar-randnummer
-description: "Wenn es um Kommentar mit Rn. zitieren in Zitierweise deutsches Recht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Tatbestands- oder Anspruchsmatrix mit Gegenargumenten."
+description: "Für Kommentar mit Rn. zitieren: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Kommentar mit Rn. zitieren

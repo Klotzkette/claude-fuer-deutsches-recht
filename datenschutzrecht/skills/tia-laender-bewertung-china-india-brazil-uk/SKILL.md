@@ -1,6 +1,6 @@
 ---
 name: tia-laender-bewertung-china-india-brazil-uk
-description: "Wenn es um TIA-Länderbewertung: UK, China, Indien, Brasilien in Datenschutzrecht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
+description: "Für TIA-Länderbewertung: UK, China, Indien, Brasilien: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # TIA-Länderbewertung: UK, China, Indien, Brasilien

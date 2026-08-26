@@ -1,6 +1,6 @@
 ---
 name: internationales-versicherungsprogramm-master-local-policy
-description: "Wenn es um Internationale Versicherungsprogramme: Master und Local Policy in Versicherungsrecht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen."
+description: "Für Internationale Versicherungsprogramme: Master und Local Policy: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Schnittstellenkarte mit Zuständigkeits- und Nachweisfragen."
 ---
 
 # Internationale Versicherungsprogramme: Master und Local Policy

@@ -1,6 +1,6 @@
 ---
 name: werbung-siegel-zulassung-widerruf
-description: "Wenn es um Werbung Siegel Zulassung Widerruf in Berufsrecht Steuerberater geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Gegenprüfung mit Fehler-, Beweis- und Fristencheck."
+description: "Für Werbung Siegel Zulassung Widerruf: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Steuerberater: werbung und siegel - Rechtsprechungscheck, stärkste Gegenansicht und Red-Team-Korrektur

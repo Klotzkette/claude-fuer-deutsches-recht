@@ -1,6 +1,6 @@
 ---
 name: rechtsberatungsstellen-tatbestand-beweis-und-belege
-description: "Wenn es um Rechtsberatungsstellen: Tatbestandsmerkmale, Beweisfragen und Beleglage in Plugin für die studentische Rechtsberatungsstelle geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Beweislast- und Substantiierungsmatrix."
+description: "Für Rechtsberatungsstellen: Tatbestandsmerkmale, Beweisfragen und Beleglage: ordnet Akte, Belege und Lücken; Ergebnis: Beweislast- und Substantiierungsmatrix."
 ---
 
 # Rechtsberatungsstellen: Tatbestandsmerkmale, Beweisfragen und Beleglage

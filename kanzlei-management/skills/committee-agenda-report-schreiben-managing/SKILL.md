@@ -1,6 +1,6 @@
 ---
 name: committee-agenda-report-schreiben-managing
-description: "Wenn es um Management-Committee-Agenda in Kanzlei Management geht: rechnet Schwellen, Beträge, Varianten und Kontrollannahmen durch; liefert eine Berechnungstabelle mit Schwellen, Annahmen und Kontrollfragen."
+description: "Für Management-Committee-Agenda: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Management-Committee-Agenda

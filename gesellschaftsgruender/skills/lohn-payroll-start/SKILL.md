@@ -1,6 +1,6 @@
 ---
 name: lohn-payroll-start
-description: "Wenn es um Payroll und erste Mitarbeiter in gesellschaftsgründer — Gründungsassistent für deutsche geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Payroll und erste Mitarbeiter: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Payroll und erste Mitarbeiter

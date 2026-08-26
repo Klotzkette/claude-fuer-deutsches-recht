@@ -1,6 +1,6 @@
 ---
 name: umweltinformation-widerspruch-baue-klage-vorbereite
-description: "Wenn es um Uig Umweltinformation Widerspruch Baue in Informationsfreiheit und Presseauskunft geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
+description: "Für Uig Umweltinformation Widerspruch Baue: erstellt Entwurf mit Antrag, Beweis und Anlagen; Ergebnis: Schriftsatz mit Begründungs- und Anlagenlogik."
 ---
 
 # Uig Umweltinformation Widerspruch Baue

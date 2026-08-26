@@ -1,6 +1,6 @@
 ---
 name: 10-entscheidungsvorschlag-register
-description: "Wenn es um 10 Entscheidungsvorschlag Register in Handelsregisterrichter am Amtsgericht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert einen Einreichungsplan mit Form-, Portal- und Nachweischeck."
+description: "Für 10 Entscheidungsvorschlag Register: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Einreichungsplan mit Form- und Nachweischeck."
 ---
 
 # 10 Entscheidungsvorschlag Register

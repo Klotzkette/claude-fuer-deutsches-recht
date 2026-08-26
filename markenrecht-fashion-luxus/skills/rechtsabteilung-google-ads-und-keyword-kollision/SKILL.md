@@ -1,6 +1,6 @@
 ---
 name: rechtsabteilung-google-ads-und-keyword-kollision
-description: "Wenn es um Rechtsabteilung: Google Ads und Keyword-Kollision in markenrecht-fashion-luxus geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Beweislast- und Substantiierungsmatrix."
+description: "Für Rechtsabteilung: Google Ads und Keyword-Kollision: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Rechtsabteilung: Google Ads und Keyword-Kollision

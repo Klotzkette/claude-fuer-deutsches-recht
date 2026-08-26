@@ -1,6 +1,6 @@
 ---
 name: bestimmung-informierter-beweissicherung
-description: "Wenn es um Bestimmung Informierter Benutzer in designrecht-geschmacksmusterrecht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Beweislast- und Substantiierungsmatrix."
+description: "Für Bestimmung Informierter Benutzer: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Beweislast- und Substantiierungsmatrix."
 ---
 
 # Bestimmung Informierter Benutzer

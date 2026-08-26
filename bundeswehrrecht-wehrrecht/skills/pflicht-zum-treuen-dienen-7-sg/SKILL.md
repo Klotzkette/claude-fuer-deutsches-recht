@@ -1,6 +1,6 @@
 ---
 name: pflicht-zum-treuen-dienen-7-sg
-description: "Wenn es um Pflicht zum treuen Dienen Paragraf 7 SG in Bundeswehrrecht und Wehrrecht geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen."
+description: "Für Pflicht zum treuen Dienen Paragraf 7 SG: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Schnittstellenkarte mit Zuständigkeits- und Nachweisfragen."
 ---
 
 # Pflicht zum treuen Dienen § 7 SG

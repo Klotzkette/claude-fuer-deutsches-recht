@@ -1,6 +1,6 @@
 ---
 name: schadensberechnung-produktionsausfall
-description: "Wenn es um Schadensberechnung Produktionsausfall in robotik-recht geht: rechnet Schwellen, Beträge, Varianten und Kontrollannahmen durch; liefert eine Berechnungstabelle mit Schwellen, Annahmen und Kontrollfragen."
+description: "Für Schadensberechnung Produktionsausfall: rechnet Beträge, Schwellen und Varianten; Ergebnis: Berechnungstabelle mit Annahmen und Kontrollfragen."
 ---
 
 # Schadensberechnung Produktionsausfall

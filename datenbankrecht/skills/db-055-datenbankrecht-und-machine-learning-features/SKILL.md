@@ -1,6 +1,6 @@
 ---
 name: db-055-datenbankrecht-und-machine-learning-features
-description: "Wenn es um Datenbankrecht: Datenbankrecht und Machine Learning Features in Datenbankrecht und Datenbankherstellerrecht geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Datenbankrecht: Datenbankrecht und Machine Learning Features: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Datenbankrecht: Datenbankrecht und Machine Learning Features

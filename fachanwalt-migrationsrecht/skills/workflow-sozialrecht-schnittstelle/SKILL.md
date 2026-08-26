@@ -1,6 +1,6 @@
 ---
 name: workflow-sozialrecht-schnittstelle
-description: "Wenn es um Sozialrecht-Schnittstelle: Prüfungslinie für Migrationsrecht in Fachanwalt Migrationsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Sozialrecht-Schnittstelle: Prüfungslinie für Migrationsrecht: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Sozialrecht-Schnittstelle: Prüfungslinie für Migrationsrecht

@@ -1,6 +1,6 @@
 ---
 name: kaltstart-triage
-description: "Wenn es um BGB BT Kommandocenter in BGB BT Prüfer geht: klärt Rolle, Ziel, Frist, Unterlagen und den passenden nächsten Fachskill; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für BGB BT Kommandocenter: routet Rolle, Frist, Unterlagen und Fachschritt; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # BGB BT Kommandocenter

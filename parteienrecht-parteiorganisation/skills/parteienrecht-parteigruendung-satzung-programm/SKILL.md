@@ -1,6 +1,6 @@
 ---
 name: parteienrecht-parteigruendung-satzung-programm
-description: "Wenn es um Parteigründung in Parteienrecht und Parteiorganisation geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. Auswahlstichwort: Parteienrecht Parteigruendung Satzung Programm; Arbeitsfeld: Parteienrecht und Parteiorganisation."
+description: "Für Parteigründung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt. Fachgebiet: Parteienrecht und Parteiorganisation. Route: parteienrecht-parteigruendung-satzung-programm."
 ---
 
 # Parteigründung

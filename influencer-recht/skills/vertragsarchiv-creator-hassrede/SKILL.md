@@ -1,6 +1,6 @@
 ---
 name: vertragsarchiv-creator-hassrede
-description: "Wenn es um Influencer-Recht: Vertragsarchiv und Creator-Dashboard in Influencer-Recht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Influencer-Recht: Vertragsarchiv und Creator-Dashboard: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Influencer-Recht: Vertragsarchiv und Creator-Dashboard

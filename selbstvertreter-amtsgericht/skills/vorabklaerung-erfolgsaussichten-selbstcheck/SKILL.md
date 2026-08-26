@@ -1,6 +1,6 @@
 ---
 name: vorabklaerung-erfolgsaussichten-selbstcheck
-description: "Wenn es um Sollten Sie wirklich klagen? Ein ehrlicher Selbstcheck in selbstvertreter-amtsgericht geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
+description: "Für Sollten Sie wirklich klagen? Ein ehrlicher Selbstcheck: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Sollten Sie wirklich klagen? Ein ehrlicher Selbstcheck

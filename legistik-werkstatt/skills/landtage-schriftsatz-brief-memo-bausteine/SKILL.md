@@ -1,6 +1,6 @@
 ---
 name: landtage-schriftsatz-brief-memo-bausteine
-description: "Wenn es um Landtage: Schriftsatz-, Brief- und Memo-Bausteine in Legistik-Werkstatt geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Landtage: Schriftsatz-, Brief- und Memo-Bausteine: erstellt Entwurf mit Antrag, Beweis und Anlagen; Ergebnis: Schriftsatz mit Begründungs- und Anlagenlogik. Fachgebiet: Legistik-Werkstatt. Route: landtage-schriftsatz-brief-memo-bausteine."
 ---
 
 # Landtage: Schriftsatz-, Brief- und Memo-Bausteine

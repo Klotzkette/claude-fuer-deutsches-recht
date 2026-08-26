@@ -1,6 +1,6 @@
 ---
 name: betreuerpflichten-alltag
-description: "Wenn es um Betreuerpflichten: Formular, Portal und Einreichungslogik in Betreuungsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. Auswahlstichwort: Betreuerpflichten Alltag; Arbeitsfeld: Betreuungsrecht."
+description: "Für Betreuerpflichten: Formular, Portal und Einreichungslogik: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Schnittstellenkarte mit Zuständigkeits- und Nachweisfragen."
 ---
 
 # Betreuerpflichten: Formular, Portal und Einreichungslogik

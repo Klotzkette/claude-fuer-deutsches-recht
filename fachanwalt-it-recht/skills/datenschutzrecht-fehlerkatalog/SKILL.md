@@ -1,6 +1,6 @@
 ---
 name: datenschutzrecht-fehlerkatalog
-description: "Wenn es um Datenschutzrecht Fehlerkatalog in Fachanwalt It Recht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Datenschutzrecht Fehlerkatalog: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Datenschutzrecht Fehlerkatalog

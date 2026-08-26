@@ -1,6 +1,6 @@
 ---
 name: kreuzfahrtschiff-wrackpflicht
-description: "Wenn es um Kreuzfahrtschiff – Wrackbeseitigungspflicht prüfen in See- und Schifffahrtsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Kreuzfahrtschiff – Wrackbeseitigungspflicht prüfen: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Schnittstellenkarte mit Zuständigkeits- und Nachweisfragen."
 ---
 
 # Kreuzfahrtschiff – Wrackbeseitigungspflicht prüfen

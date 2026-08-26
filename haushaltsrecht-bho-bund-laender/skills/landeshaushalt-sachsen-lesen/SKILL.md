@@ -1,6 +1,6 @@
 ---
 name: landeshaushalt-sachsen-lesen
-description: "Wenn es um Landeshaushalt Sachsen Lesen in Haushaltsrecht BHO Bund und Länder geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
+description: "Für Landeshaushalt Sachsen Lesen: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Landeshaushalt Sachsen Lesen

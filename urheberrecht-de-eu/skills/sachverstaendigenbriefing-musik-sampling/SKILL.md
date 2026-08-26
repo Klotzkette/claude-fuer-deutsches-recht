@@ -1,6 +1,6 @@
 ---
 name: sachverstaendigenbriefing-musik-sampling
-description: "Wenn es um Sachverständigenbriefing Musik in Urheberrecht DE EU geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
+description: "Für Sachverständigenbriefing Musik: erstellt Entwurf mit Antrag, Beweis und Anlagen; Ergebnis: Schriftsatz mit Begründungs- und Anlagenlogik."
 ---
 
 # Sachverständigenbriefing Musik

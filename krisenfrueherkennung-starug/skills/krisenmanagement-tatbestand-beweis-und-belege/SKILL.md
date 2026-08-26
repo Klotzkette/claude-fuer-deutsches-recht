@@ -1,6 +1,6 @@
 ---
 name: krisenmanagement-tatbestand-beweis-und-belege
-description: "Wenn es um Krisenmanagement: Tatbestandsmerkmale, Beweisfragen und Beleglage in Krisenfrüherkennung und StaRUG-Management geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Beweislast- und Substantiierungsmatrix."
+description: "Für Krisenmanagement: Tatbestandsmerkmale, Beweisfragen und Beleglage: ordnet Akte, Belege und Lücken; Ergebnis: Beweislast- und Substantiierungsmatrix."
 ---
 
 # Krisenmanagement: Tatbestandsmerkmale, Beweisfragen und Beleglage

@@ -1,6 +1,6 @@
 ---
 name: auslassungen-vermeiden
-description: "Prüft Arbeitszeugnisse auf rechtlich erhebliche Auslassungen, wenn Tätigkeiten, Leistungen oder Verhaltensaspekte fehlen, die ein objektiver Leser bei dieser konkreten Funktion erwartet. Liefert eine rollenbezogene Erwartungs-, Beleg- und Ergänzungsmatrix statt pauschaler Geheimcode-Listen."
+description: "Prüft Arbeitszeugnisse auf rechtlich erhebliche Auslassungen, wenn Tätigkeiten, Leistungen oder Verhaltensaspekte fehlen, die ein objektiver Leser bei dieser konkreten Funktion erwartet."
 ---
 
 # Auslassungen vermeiden

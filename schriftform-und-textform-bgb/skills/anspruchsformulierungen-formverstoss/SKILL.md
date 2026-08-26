@@ -1,6 +1,6 @@
 ---
 name: anspruchsformulierungen-formverstoss
-description: "Wenn es um Anspruchsformulierungen bei Formverstoß in Schriftform und Textform im BGB geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Anspruchsformulierungen bei Formverstoß: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Tatbestands- oder Anspruchsmatrix."
 ---
 
 # Anspruchsformulierungen bei Formverstoß

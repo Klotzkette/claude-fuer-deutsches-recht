@@ -1,6 +1,6 @@
 ---
 name: bautraeger-mabv-grundlagen-1-2
-description: "Wenn es um Makler- und Bautraegerverordnung (MaBV) Grundlagen in Fachanwalt Bau Architektenrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Makler- und Bauträgerverordnung (MaBV) Grundlagen: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Makler- und Bautraegerverordnung (MaBV) Grundlagen

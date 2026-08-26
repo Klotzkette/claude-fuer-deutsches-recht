@@ -1,6 +1,6 @@
 ---
 name: agb-vereinsbedingungen-mitgliedschaft
-description: "Wenn es um Vereinsbedingungen in AGB-Recht-Prüfer geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen. Auswahlstichwort: Agb Vereinsbedingungen Mitgliedschaft; Arbeitsfeld: AGB-Recht-Prüfer."
+description: "Für Vereinsbedingungen: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt. Fachgebiet: AGB-Recht-Prüfer. Route: agb-vereinsbedingungen-mitgliedschaft."
 ---
 
 # Vereinsbedingungen

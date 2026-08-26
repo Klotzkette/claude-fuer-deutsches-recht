@@ -1,6 +1,6 @@
 ---
 name: eilantrag-pflegekassen-pflegehilfsmittel
-description: "Wenn es um Eilantrag gegen die Pflegekasse in selbstvertreter-sozialgericht geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
+description: "Für Eilantrag gegen die Pflegekasse: erstellt Entwurf mit Antrag, Beweis und Anlagen; Ergebnis: Schriftsatz mit Begründungs- und Anlagenlogik."
 ---
 
 # Eilantrag gegen die Pflegekasse

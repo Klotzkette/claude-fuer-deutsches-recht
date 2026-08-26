@@ -1,6 +1,6 @@
 ---
 name: heimfall-gruende-indexklausel-inflation
-description: "Wenn es um Heimfall prüfen in Erbbaurecht Praxis geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Heimfall prüfen: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Heimfall prüfen

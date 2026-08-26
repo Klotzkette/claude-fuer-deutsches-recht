@@ -1,6 +1,6 @@
 ---
 name: sanierungsgewinn-private-equity
-description: "Wenn es um Sanierungsgewinn – Private Equity und Managementbeteiligung in Großkanzlei Corporate/M&A geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. Auswahlstichwort: Sanierungsgewinn Private Equity; Arbeitsfeld: Großkanzlei Corporate/M&A."
+description: "Für Sanierungsgewinn – Private Equity und Managementbeteiligung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt. Fachgebiet: Großkanzlei Corporate/M&A. Route: sanierungsgewinn-private-equity."
 ---
 
 # Sanierungsgewinn – Private Equity und Managementbeteiligung

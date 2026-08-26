@@ -1,6 +1,6 @@
 ---
 name: wirtschaft-zahlen-schwellenwerte-berechnung
-description: "Wenn es um Wirtschaft: Zahlen, Schwellenwerte und Berechnung in Tabellenreview 3D geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Wirtschaft: Zahlen, Schwellenwerte und Berechnung: rechnet Beträge, Schwellen und Varianten; Ergebnis: Berechnungstabelle mit Annahmen und Kontrollfragen."
 ---
 
 # Wirtschaft: Zahlen, Schwellenwerte und Berechnung

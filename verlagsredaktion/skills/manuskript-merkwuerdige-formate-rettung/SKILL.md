@@ -1,6 +1,6 @@
 ---
 name: manuskript-merkwuerdige-formate-rettung
-description: "Wenn es um Manuskript-Rettung aus merkwuerdigen Formaten in Verlagsredaktion geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen."
+description: "Für Manuskript-Rettung aus merkwürdigen Formaten: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Manuskript-Rettung aus merkwuerdigen Formaten

@@ -1,6 +1,6 @@
 ---
 name: db-012-datenbankrecht-datenschutz-personenbezogen-daten
-description: "Wenn es um Datenbankrecht: Datenbankrecht und Datenschutz personenbezogene Datensätze in Datenbankrecht und Datenbankherstellerrecht geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Datenbankrecht: Datenbankrecht und Datenschutz personenbezogene Datensätze: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Datenbankrecht: Datenbankrecht und Datenschutz personenbezogene Datensätze

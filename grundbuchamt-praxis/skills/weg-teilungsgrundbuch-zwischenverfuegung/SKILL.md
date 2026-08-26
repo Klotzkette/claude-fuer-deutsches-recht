@@ -1,6 +1,6 @@
 ---
 name: weg-teilungsgrundbuch-zwischenverfuegung
-description: "Wenn es um WEG und Teileigentum in Grundbuchamt Praxis geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
+description: "Für WEG und Teileigentum: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # WEG und Teileigentum

@@ -1,6 +1,6 @@
 ---
 name: wettbewerb
-description: "Wenn es um Wettbewerb und Beihilfen im Energierecht in Energierecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Wettbewerb und Beihilfen im Energierecht: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Wettbewerb und Beihilfen im Energierecht

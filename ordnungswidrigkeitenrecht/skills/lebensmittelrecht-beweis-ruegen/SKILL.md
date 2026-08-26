@@ -1,6 +1,6 @@
 ---
 name: lebensmittelrecht-beweis-ruegen
-description: "Wenn es um Lebensmittelrecht Beweis Ruegen in Ordnungswidrigkeitenrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Lebensmittelrecht Beweis Rügen: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Beweislast- und Substantiierungsmatrix."
 ---
 
 # Lebensmittelrecht Beweis Ruegen

@@ -1,6 +1,6 @@
 ---
 name: document-version-control
-description: "Wenn es um Dokumenten- und Versionskontrolle in Venture Capital Geber geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Dokumenten- und Versionskontrolle: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Dokumenten- und Versionskontrolle

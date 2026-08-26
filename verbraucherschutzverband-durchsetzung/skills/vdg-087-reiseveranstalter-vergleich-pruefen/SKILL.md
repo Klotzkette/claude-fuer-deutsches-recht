@@ -1,6 +1,6 @@
 ---
 name: vdg-087-reiseveranstalter-vergleich-pruefen
-description: "Wenn es um Reiseveranstalter Vergleich Pruefen in Verbraucherschutzverband Durchsetzung geht: entwickelt Verhandlungsziel, Vergleichskorridor und Eskalationspfad; liefert eine Verhandlungs- oder Eskalationslinie mit Optionen."
+description: "Für Reiseveranstalter Vergleich Prüfen: entwickelt Ziel, Vergleich und Eskalation; Ergebnis: Verhandlungs- oder Eskalationslinie. Fachgebiet: Verbraucherschutzverband Durchsetzung. Route: vdg-087-reiseveranstalter-vergleich-pruefen."
 ---
 
 # Reiseveranstalter Vergleich Pruefen

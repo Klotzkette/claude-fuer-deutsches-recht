@@ -1,6 +1,6 @@
 ---
 name: paragraph-verjaehrung-werk-dienst
-description: "Wenn es um Vergleich Paragraf 779 BGB in BGB BT Prüfer geht: entwickelt Verhandlungsziel, Vergleichskorridor und Eskalationspfad; liefert eine Verhandlungs- oder Eskalationslinie mit Optionen. Auswahlstichwort: Paragraph Verjaehrung Werk Dienst; Arbeitsfeld: BGB BT Prüfer."
+description: "Für Vergleich Paragraf 779 BGB: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Vergleich § 779 BGB

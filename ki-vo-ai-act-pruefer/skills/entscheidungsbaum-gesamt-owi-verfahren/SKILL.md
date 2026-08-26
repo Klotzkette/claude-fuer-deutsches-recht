@@ -1,6 +1,6 @@
 ---
 name: entscheidungsbaum-gesamt-owi-verfahren
-description: "Wenn es um Master-Workflow: europäischer Technikregulierungsrahmen-Gesamtprüfung in diesem Spezialbereich geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
+description: "Für Master-Workflow: europäischer Technikregulierungsrahmen-Gesamtprüfung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt. Fachgebiet: europäischem Technikregulierungsrecht. Route: entscheidungsbaum-gesamt-owi-verfahren."
 ---
 
 # Master-Workflow: KI-VO-Gesamtprüfung

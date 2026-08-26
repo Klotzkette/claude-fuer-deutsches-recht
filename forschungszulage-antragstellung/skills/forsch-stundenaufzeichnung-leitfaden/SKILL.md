@@ -1,6 +1,6 @@
 ---
 name: forsch-stundenaufzeichnung-leitfaden
-description: "Wenn es um Forsch: Stundenaufzeichnung in Forschungszulage-Antragstellung geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik. Auswahlstichwort: Forsch Stundenaufzeichnung Leitfaden; Arbeitsfeld: Forschungszulage-Antragstellung."
+description: "Für Forsch: Stundenaufzeichnung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt. Fachgebiet: Forschungszulage-Antragstellung. Route: forsch-stundenaufzeichnung-leitfaden."
 ---
 
 # Forsch: Stundenaufzeichnung

@@ -1,6 +1,6 @@
 ---
 name: erklaerungsbewusstsein-potentielles
-description: "Wenn es um Erklärungsbewusstsein und Potentielles Bewusstsein — Willenserklärung in BGB AT Prüfer geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. Auswahlstichwort: Erklaerungsbewusstsein Potentielles; Arbeitsfeld: BGB AT Prüfer."
+description: "Für Erklärungsbewusstsein und Potentielles Bewusstsein — Willenserklärung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt. Fachgebiet: BGB AT Prüfer. Route: erklaerungsbewusstsein-potentielles."
 ---
 
 # Erklärungsbewusstsein und Potentielles Bewusstsein — Willenserklärung

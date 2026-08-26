@@ -1,6 +1,6 @@
 ---
 name: gegendarstellung-presse
-description: "Wenn es um Gegendarstellungsrecht im Presserecht prüfen und Gegendarstellung ausformulieren in Fachanwalt Urheber Medienrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Gegendarstellungsrecht im Presserecht prüfen und Gegendarstellung ausformulieren: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Gegendarstellungsrecht im Presserecht prüfen und Gegendarstellung ausformulieren

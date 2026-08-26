@@ -1,6 +1,6 @@
 ---
 name: vergleich-mit-kammeraufsicht-organisationspflicht
-description: "Wenn es um Vergleich Mit Kammeraufsicht Organisationspflicht in Berufsrecht Anwälte geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Vergleich mit Kammeraufsicht Organisationspflicht: entwickelt Ziel, Vergleich und Eskalation; Ergebnis: Verhandlungs- oder Eskalationslinie."
 ---
 
 # Anwälte: vergleich mit kammeraufsicht - Organisationspflichten, Prävention, Team-Anweisung und Fristenkontrolle

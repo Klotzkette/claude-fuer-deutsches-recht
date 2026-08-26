@@ -1,6 +1,6 @@
 ---
 name: vertrauensgremium-parlamentsfrage-vorb
-description: "Wenn es um Vertrauensgremium Parlamentsfrage Vorb in Haushaltsrecht BHO Bund und Länder geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Vertrauensgremium Parlamentsfrage Vorb: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Vertrauensgremium Parlamentsfrage Vorb

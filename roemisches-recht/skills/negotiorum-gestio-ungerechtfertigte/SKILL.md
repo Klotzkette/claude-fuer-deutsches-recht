@@ -1,6 +1,6 @@
 ---
 name: negotiorum-gestio-ungerechtfertigte
-description: "Wenn es um Negotiorum gestio - Geschäftsführung ohne Auftrag in Römisches Recht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Negotiorum gestio - Geschäftsführung ohne Auftrag: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Negotiorum gestio - Geschäftsführung ohne Auftrag

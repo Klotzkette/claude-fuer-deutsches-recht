@@ -1,6 +1,6 @@
 ---
 name: zag-erlaubnisanalyse-payment-institution
-description: "Wenn es um ZAG-Erlaubnis Zahlungsinstitut in Bank-Rechtsabteilung geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
+description: "Für ZAG-Erlaubnis Zahlungsinstitut: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 <!-- bank-rechtsabteilung-v2-special -->

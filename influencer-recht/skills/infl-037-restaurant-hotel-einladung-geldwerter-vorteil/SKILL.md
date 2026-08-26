@@ -1,6 +1,6 @@
 ---
 name: infl-037-restaurant-hotel-einladung-geldwerter-vorteil
-description: "Wenn es um Influencer-Recht: Restaurant Hotel Einladung geldwerter Vorteil in Influencer-Recht geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Influencer-Recht: Restaurant Hotel Einladung geldwerter Vorteil: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Influencer-Recht: Restaurant Hotel Einladung geldwerter Vorteil

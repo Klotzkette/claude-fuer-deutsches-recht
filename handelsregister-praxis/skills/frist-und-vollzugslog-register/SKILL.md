@@ -1,6 +1,6 @@
 ---
 name: frist-und-vollzugslog-register
-description: "Wenn es um Fristen- und Vollzugslog in Handelsregister Praxis geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Fristen- und Vollzugslog: prüft Frist, Form, Zuständigkeit und Eilbedarf; Ergebnis: Fristen- und Risikoampel."
 ---
 
 # Fristen- und Vollzugslog

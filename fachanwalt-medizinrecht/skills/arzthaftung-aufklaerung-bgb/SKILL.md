@@ -1,6 +1,6 @@
 ---
 name: arzthaftung-aufklaerung-bgb
-description: "Wenn es um Arzthaftung Aufklärung BGB in Fachanwalt Medizinrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Arzthaftung Aufklärung BGB: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Arzthaftung Aufklärung BGB

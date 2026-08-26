@@ -1,6 +1,6 @@
 ---
 name: unterlagen-und-schuldeninventar
-description: "Wenn es um Unterlagen Und Schuldeninventar in Verbraucherinsolvenz und Schuldenbereinigung geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Dokumentenmatrix mit Nachforderungsliste."
+description: "Für Unterlagen und Schuldeninventar: ordnet Akte, Belege und Lücken; Ergebnis: Dokumentenmatrix mit Nachforderungsliste."
 ---
 
 # Unterlagen- und Schuldeninventar: Gläubiger, Forderungsgrund, Titel, Inkasso, Vollstreckung, Sicherheiten und bestrittene Forderungen beweisfest erfassen.

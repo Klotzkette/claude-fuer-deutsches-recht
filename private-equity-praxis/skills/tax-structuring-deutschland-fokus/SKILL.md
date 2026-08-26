@@ -1,6 +1,6 @@
 ---
 name: tax-structuring-deutschland-fokus
-description: "Wenn es um Tax Structuring: Deutschland-Fokus in Private Equity Praxis geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Tax Structuring: Deutschland-Fokus: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Schnittstellenkarte mit Zuständigkeits- und Nachweisfragen."
 ---
 
 # Tax Structuring: Deutschland-Fokus

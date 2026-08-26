@@ -1,6 +1,6 @@
 ---
 name: datenschutz-loeschpflicht-art-17-aufbewahrung
-description: "Wenn es um Datenschutz Loeschpflicht — Art. 17 DSGVO und Aufbewahrung in Datenschutzrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Datenschutz Löschpflicht — Art. 17 DSGVO und Aufbewahrung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Datenschutz Loeschpflicht — Art. 17 DSGVO und Aufbewahrung

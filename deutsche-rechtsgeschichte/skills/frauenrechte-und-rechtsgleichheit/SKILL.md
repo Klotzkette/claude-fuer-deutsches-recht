@@ -1,6 +1,6 @@
 ---
 name: frauenrechte-und-rechtsgleichheit
-description: "Wenn es um Frauenrechte und Rechtsgleichheit in Deutsche Rechtsgeschichte geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Frauenrechte und Rechtsgleichheit: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Frauenrechte und Rechtsgleichheit

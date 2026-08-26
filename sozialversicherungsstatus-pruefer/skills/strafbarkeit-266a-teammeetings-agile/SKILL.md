@@ -1,6 +1,6 @@
 ---
 name: strafbarkeit-266a-teammeetings-agile
-description: "Wenn es um Paragraf 266a StGB Risiko in Sozialversicherungsstatus-Prüfer / DRV-Statusfeststellung geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
+description: "Für Paragraf 266a StGB Risiko: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # § 266a StGB Risiko

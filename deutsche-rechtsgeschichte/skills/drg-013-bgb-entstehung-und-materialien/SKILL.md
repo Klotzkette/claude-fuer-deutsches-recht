@@ -1,6 +1,6 @@
 ---
 name: drg-013-bgb-entstehung-und-materialien
-description: "Wenn es um BGB Entstehung Und Materialien in Deutsche Rechtsgeschichte geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für BGB Entstehung und Materialien: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # BGB Entstehung Und Materialien

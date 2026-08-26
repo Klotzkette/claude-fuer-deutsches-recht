@@ -1,6 +1,6 @@
 ---
 name: was-will-dieses-schreiben
-description: "Wenn es um Was will dieses Schreiben? in Bürokratieversteher und Entbürokratisierer geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
+description: "Für Was will dieses Schreiben?: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Was will dieses Schreiben?

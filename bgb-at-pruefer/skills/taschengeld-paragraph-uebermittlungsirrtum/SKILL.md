@@ -1,6 +1,6 @@
 ---
 name: taschengeld-paragraph-uebermittlungsirrtum
-description: "Wenn es um Taschengeldparagraph — Paragraf 110 BGB in BGB AT Prüfer geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Beweislast- und Substantiierungsmatrix. Auswahlstichwort: Taschengeld Paragraph Uebermittlungsirrtum; Arbeitsfeld: BGB AT Prüfer."
+description: "Für Taschengeldparagraph — Paragraf 110 BGB: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt. Fachgebiet: BGB AT Prüfer. Route: taschengeld-paragraph-uebermittlungsirrtum."
 ---
 
 # Taschengeldparagraph — § 110 BGB

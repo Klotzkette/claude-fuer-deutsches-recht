@@ -1,6 +1,6 @@
 ---
 name: kcang-und-medcang-abgrenzen
-description: "Wenn es um Kcang Und Medcang Abgrenzen in Betäubungsmittelrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Kcang und Medcang Abgrenzen: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Kcang Und Medcang Abgrenzen

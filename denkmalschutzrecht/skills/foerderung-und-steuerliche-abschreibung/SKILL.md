@@ -1,6 +1,6 @@
 ---
 name: foerderung-und-steuerliche-abschreibung
-description: "Wenn es um Förderung und steuerliche Abschreibung in Denkmalschutzrecht — Bundesweiter Rahmen und sechzehn geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen."
+description: "Für Förderung und steuerliche Abschreibung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Schnittstellenkarte mit Zuständigkeits- und Nachweisfragen."
 ---
 
 # Förderung und steuerliche Abschreibung

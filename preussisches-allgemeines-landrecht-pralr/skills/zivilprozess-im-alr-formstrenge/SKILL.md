@@ -1,6 +1,6 @@
 ---
 name: zivilprozess-im-alr-formstrenge
-description: "Wenn es um Pralr Zivilprozess Im Alr Formstrenge in Preußisches Allgemeines Landrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Pralr Zivilprozess im Alr Formstrenge: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Pralr Zivilprozess Im Alr Formstrenge

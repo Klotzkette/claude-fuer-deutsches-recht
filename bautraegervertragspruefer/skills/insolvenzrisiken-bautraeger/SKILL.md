@@ -1,6 +1,6 @@
 ---
 name: insolvenzrisiken-bautraeger
-description: "Wenn es um Insolvenzrisiken Bauträger in Bauträgervertragspruefer geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
+description: "Für Insolvenzrisiken Bauträger: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Insolvenzrisiken Bauträger

@@ -1,6 +1,6 @@
 ---
 name: gebrmg-verhandlung-vergleich-und-eskalation
-description: "Wenn es um Gebrauchsmusterrecht: Verhandlung, Vergleich und Eskalation in Fachanwalt Gewerblicher Rechtsschutz geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
+description: "Für Gebrauchsmusterrecht: Verhandlung, Vergleich und Eskalation: entwickelt Ziel, Vergleich und Eskalation; Ergebnis: Verhandlungs- oder Eskalationslinie."
 ---
 
 # Gebrauchsmusterrecht: Verhandlung, Vergleich und Eskalation
@@ -125,3 +125,7 @@ Urteil → ggf. Berufung
 ## Was dieser Arbeitsgang nicht macht
 - Keine technische Bewertung der Schutzansprüche ohne Patentschrift und Sachverständige.
 - Kein Ersatz für vollständige Mandantenberatung.
+
+## Vertiefung bei Bedarf
+
+- Bei `spezial-gebrmg-verhandlung-vergleich-und-eskalation` beziehungsweise Gebrmg: Verhandlung, Vergleich und Eskalation: [die zusätzliche Vertiefung laden](./references/vertiefung-spezial-gebrmg-verhandlung-vergleich-und-eskalation.md).

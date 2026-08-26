@@ -1,6 +1,6 @@
 ---
 name: verhalten-im-saal-sozialgericht-laienleitfaden
-description: "Wenn es um Wie verhalte ich mich im Sitzungssaal des SG in selbstvertreter-sozialgericht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Wie verhalte ich mich im Sitzungssaal des SG: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Wie verhalte ich mich im Sitzungssaal des SG

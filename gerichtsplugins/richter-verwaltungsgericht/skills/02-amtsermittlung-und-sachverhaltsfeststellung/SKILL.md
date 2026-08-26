@@ -1,6 +1,6 @@
 ---
 name: 02-amtsermittlung-und-sachverhaltsfeststellung
-description: "Wenn es um 02 Amtsermittlung und Sachverhaltsfeststellung in Verwaltungsgericht geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
+description: "Für 02 Amtsermittlung und Sachverhaltsfeststellung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # 02 Amtsermittlung und Sachverhaltsfeststellung

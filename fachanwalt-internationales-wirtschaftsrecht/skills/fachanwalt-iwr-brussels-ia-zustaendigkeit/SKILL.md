@@ -1,6 +1,6 @@
 ---
 name: fachanwalt-iwr-brussels-ia-zustaendigkeit
-description: "Wenn es um Brüssel-Ia-VO Internationale Zuständigkeit in Fachanwalt Internationales Wirtschaftsrecht geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
+description: "Für Brüssel-Ia-VO Internationale Zuständigkeit: prüft Frist, Form, Zuständigkeit und Eilbedarf; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Brüssel-Ia-VO Internationale Zuständigkeit

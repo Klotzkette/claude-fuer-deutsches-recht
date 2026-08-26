@@ -1,6 +1,6 @@
 ---
 name: ifg-bund-zustaendigkeit-pruefen
-description: "Wenn es um Ifg Bund Zuständigkeit Prüfen in Informationsfreiheit und Presseauskunft geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Ifg Bund Zuständigkeit Prüfen: prüft Frist, Form, Zuständigkeit und Eilbedarf; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt. Fachgebiet: Informationsfreiheit und Presseauskunft. Route: ifg-bund-zustaendigkeit-pruefen."
 ---
 
 # Ifg Bund Zuständigkeit Prüfen

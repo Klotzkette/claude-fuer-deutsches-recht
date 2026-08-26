@@ -1,6 +1,6 @@
 ---
 name: strafmilderung-49-stgb-zwingend-fakultativ
-description: "Wenn es um Strafmilderung — Paragraf 49 StGB in Strafzumessung geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Strafmilderung — Paragraf 49 StGB: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Strafmilderung — § 49 StGB

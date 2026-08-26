@@ -1,6 +1,6 @@
 ---
 name: schoeffe-opferzeugenschutz-sitzung
-description: "Wenn es um Opfer- und Zeugenschutz: Sitzungspraxis in Schöffen und Handelsrichter Praxis geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
+description: "Für Opfer- und Zeugenschutz: Sitzungspraxis: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Schnittstellenkarte mit Zuständigkeits- und Nachweisfragen."
 ---
 
 # Opfer- und Zeugenschutz: Sitzungspraxis

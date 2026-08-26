@@ -1,6 +1,6 @@
 ---
 name: means-test-707b
-description: "Wenn es um Means Test Paragraf 707(b) in US Bankruptcy Code geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Means Test Paragraf 707(b): ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Means Test § 707(b)

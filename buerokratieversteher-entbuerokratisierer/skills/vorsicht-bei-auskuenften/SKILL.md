@@ -1,6 +1,6 @@
 ---
 name: vorsicht-bei-auskuenften
-description: "Wenn es um Vorsicht bei Auskünften in Bürokratieversteher und Entbürokratisierer geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
+description: "Für Vorsicht bei Auskünften: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Vorsicht bei Auskünften

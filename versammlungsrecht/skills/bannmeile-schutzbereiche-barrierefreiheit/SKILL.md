@@ -1,6 +1,6 @@
 ---
 name: bannmeile-schutzbereiche-barrierefreiheit
-description: "Wenn es um Bannmeile ist Zusatzregime in Versammlungsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Bannmeile ist Zusatzregime: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Bannmeile ist Zusatzregime

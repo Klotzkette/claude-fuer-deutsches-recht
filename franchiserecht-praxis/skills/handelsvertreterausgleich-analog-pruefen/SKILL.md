@@ -1,6 +1,6 @@
 ---
 name: handelsvertreterausgleich-analog-pruefen
-description: "Wenn es um Franchiserecht: Handelsvertreterausgleich analog – Paragraf 89b HGB prüfen in Franchiserecht Praxis geht: rechnet Schwellen, Beträge, Varianten und Kontrollannahmen durch; liefert eine Berechnungstabelle mit Schwellen, Annahmen und Kontrollfragen."
+description: "Für Franchiserecht: Handelsvertreterausgleich analog – Paragraf 89b HGB prüfen: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Franchiserecht: Handelsvertreterausgleich analog – § 89b HGB prüfen

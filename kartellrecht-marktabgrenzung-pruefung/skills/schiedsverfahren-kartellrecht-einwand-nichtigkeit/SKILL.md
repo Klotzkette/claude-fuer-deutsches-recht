@@ -1,6 +1,6 @@
 ---
 name: schiedsverfahren-kartellrecht-einwand-nichtigkeit
-description: "Wenn es um Schiedsverfahren Kartellrecht Einwand Nichtigkeit in Kartellrecht — Marktabgrenzungsprüfung geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen."
+description: "Für Schiedsverfahren Kartellrecht Einwand Nichtigkeit: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Schiedsverfahren Kartellrecht Einwand Nichtigkeit

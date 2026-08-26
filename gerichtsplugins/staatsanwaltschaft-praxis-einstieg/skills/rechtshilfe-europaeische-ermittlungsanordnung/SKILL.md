@@ -1,6 +1,6 @@
 ---
 name: rechtshilfe-europaeische-ermittlungsanordnung
-description: "Wenn es um Europäische Ermittlungsanordnung und Rechtshilfe in Staatsanwaltschaft Praxis-Einstieg geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Beweislast- und Substantiierungsmatrix."
+description: "Für Europäische Ermittlungsanordnung und Rechtshilfe: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Schnittstellenkarte mit Zuständigkeits- und Nachweisfragen."
 ---
 
 # Europäische Ermittlungsanordnung und Rechtshilfe

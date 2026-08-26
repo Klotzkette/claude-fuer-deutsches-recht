@@ -1,6 +1,6 @@
 ---
 name: abmahnung-formular-portal-und-einreichung
-description: "Wenn es um Abmahnung Formular Portal Und Einreichung in Fachanwalt Gewerblicher Rechtsschutz geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Abmahnung Formular Portal und Einreichung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Einreichungsplan mit Form- und Nachweischeck."
 ---
 
 # Abmahnung: Formularanforderungen, Einreichungsportale und Übermittlungswege im gewerblichen Rechtsschutz
@@ -107,3 +107,7 @@ Keine spezifischen gesetzlichen Formerfordernisse wie § 13 UWG; aber Vollmachts
 ## Was dieser Arbeitsgang nicht macht
 - Keine verbindliche Fristenberechnung ohne vollständige Sachverhaltskenntnis.
 - Kein Ersatz für vollständige Mandantenberatung.
+
+## Vertiefung bei Bedarf
+
+- Bei `spezial-abmahnung-formular-portal-und-einreichung` beziehungsweise Abmahnung: Formular, Portal und Einreichungslogik: [die zusätzliche Vertiefung laden](./references/vertiefung-spezial-abmahnung-formular-portal-und-einreichung.md).

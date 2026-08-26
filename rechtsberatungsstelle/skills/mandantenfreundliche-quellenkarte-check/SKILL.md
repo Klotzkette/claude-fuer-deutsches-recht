@@ -1,6 +1,6 @@
 ---
 name: mandantenfreundliche-quellenkarte-check
-description: "Wenn es um Mandantenfreundliche Quellenkarte Check in Plugin für die studentische Rechtsberatungsstelle geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen."
+description: "Für Mandantenfreundliche Quellenkarte Check: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Schnittstellenkarte mit Zuständigkeits- und Nachweisfragen."
 ---
 
 # Mandantenfreundliche Quellenkarte Check

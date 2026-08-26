@@ -1,6 +1,6 @@
 ---
 name: beweislast-und-ueberzeugungsbildung
-description: "Wenn es um Beweismaß und Überzeugung in Kriegsdienstverweigerung und Wehrdienst geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Beweismaß und Überzeugung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Beweislast- und Substantiierungsmatrix."
 ---
 
 # Beweismaß und Überzeugung

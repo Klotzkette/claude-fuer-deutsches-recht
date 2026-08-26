@@ -1,6 +1,6 @@
 ---
 name: nach-mediation-vorrang-leitfaden
-description: "Wenn es um Nach: Mediation Gueteverfahren in Nachbarschaftsstreit-Prüfer geht: entwickelt Verhandlungsziel, Vergleichskorridor und Eskalationspfad; liefert eine Verhandlungs- oder Eskalationslinie mit Optionen."
+description: "Für Nach: Mediation Güteverfahren: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Nach: Mediation Gueteverfahren

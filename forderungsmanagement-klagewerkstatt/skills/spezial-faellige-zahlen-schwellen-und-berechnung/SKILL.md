@@ -1,6 +1,6 @@
 ---
 name: spezial-faellige-zahlen-schwellen-und-berechnung
-description: "Wenn es um Faellige: Zahlen, Schwellenwerte und Berechnung in Forderungsmanagement — Klagewerkstatt geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
+description: "Für Fällige: Zahlen, Schwellenwerte und Berechnung: rechnet Beträge, Schwellen und Varianten; Ergebnis: Berechnungstabelle mit Annahmen und Kontrollfragen."
 ---
 
 # Faellige: Zahlen, Schwellenwerte und Berechnung

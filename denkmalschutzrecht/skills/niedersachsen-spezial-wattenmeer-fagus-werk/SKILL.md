@@ -1,6 +1,6 @@
 ---
 name: niedersachsen-spezial-wattenmeer-fagus-werk
-description: "Wenn es um Wattenmeer und Fagus-Werk Alfeld als UNESCO-Welterbe in Niedersachsen in Denkmalschutzrecht — Bundesweiter Rahmen und sechzehn geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
+description: "Für Wattenmeer und Fagus-Werk Alfeld als UNESCO-Welterbe in Niedersachsen: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Wattenmeer und Fagus-Werk Alfeld als UNESCO-Welterbe in Niedersachsen

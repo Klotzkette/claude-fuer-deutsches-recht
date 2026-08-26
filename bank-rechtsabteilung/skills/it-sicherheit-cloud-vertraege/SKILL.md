@@ -1,6 +1,6 @@
 ---
 name: it-sicherheit-cloud-vertraege
-description: "Wenn es um IT-Sicherheit und Cloud in Bank-Rechtsabteilung geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
+description: "Für IT-Sicherheit und Cloud: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # IT-Sicherheit und Cloud

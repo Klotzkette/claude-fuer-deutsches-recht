@@ -1,6 +1,6 @@
 ---
 name: datenbankrecht-und-cyberincident
-description: "Wenn es um Datenbankrecht und Cyberincident: Exfiltration, Meldepflicht, Beweissicherung in Datenbankrecht und Datenbankherstellerrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Datenbankrecht und Cyberincident: Exfiltration, Meldepflicht, Beweissicherung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Datenbankrecht und Cyberincident: Exfiltration, Meldepflicht, Beweissicherung

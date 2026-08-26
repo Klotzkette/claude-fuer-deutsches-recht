@@ -1,6 +1,6 @@
 ---
 name: kinder-und-schutzbeduerftige-betroffene
-description: "Wenn es um Kinder und vulnerable Betroffene in Datenschutz-Sanktionsverfahren und Verteidigung geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
+description: "Für Kinder und vulnerable Betroffene: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Kinder und vulnerable Betroffene

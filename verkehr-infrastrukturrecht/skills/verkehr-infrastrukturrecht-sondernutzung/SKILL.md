@@ -1,6 +1,6 @@
 ---
 name: verkehr-infrastrukturrecht-sondernutzung
-description: "Wenn es um Sondernutzung oeffentlicher Strassenflaechen in Verkehrs- und Infrastrukturrecht geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
+description: "Für Sondernutzung öffentlicher Strassenflächen: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt. Fachgebiet: Verkehrs- und Infrastrukturrecht. Route: verkehr-infrastrukturrecht-sondernutzung."
 ---
 
 # Sondernutzung oeffentlicher Strassenflaechen

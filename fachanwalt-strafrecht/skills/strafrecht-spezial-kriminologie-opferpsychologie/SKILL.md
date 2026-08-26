@@ -1,6 +1,6 @@
 ---
 name: strafrecht-spezial-kriminologie-opferpsychologie
-description: "Wenn es um Strafrecht Spezial Kriminologie Opferpsychologie in Fachanwalt Strafrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Strafrecht Spezial Kriminologie Opferpsychologie: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Opferpsychologie und Viktimologie: Aussagedynamik nach Trauma, PTBS-Symptomatik, dissoziative Erinnerungsphaenomene, Latenz und Aussagekonstanz nach traumatischen Ereignissen

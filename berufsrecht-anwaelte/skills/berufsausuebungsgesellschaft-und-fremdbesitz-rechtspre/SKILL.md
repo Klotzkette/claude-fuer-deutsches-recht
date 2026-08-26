@@ -1,6 +1,6 @@
 ---
 name: berufsausuebungsgesellschaft-und-fremdbesitz-rechtspre
-description: "Wenn es um Berufsausuebungsgesellschaft Und Fremdbesitz Rechtspre in Berufsrecht Anwälte geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Gegenprüfung mit Fehler-, Beweis- und Fristencheck."
+description: "Für Berufsausübungsgesellschaft und Fremdbesitz Rechtspre: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Anwälte: berufsausuebungsgesellschaft und fremdbesitz - Rechtsprechungscheck, stärkste Gegenansicht und Red-Team-Korrektur

@@ -1,6 +1,6 @@
 ---
 name: rechtsabteilung-omnibus-preisangaben-und-rabattkommunikation
-description: "Wenn es um Rechtsabteilung: Omnibus-Preisangaben und Rabattkommunikation in E-Commerce-Recht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
+description: "Für Rechtsabteilung: Omnibus-Preisangaben und Rabattkommunikation: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Rechtsabteilung: Omnibus-Preisangaben und Rabattkommunikation

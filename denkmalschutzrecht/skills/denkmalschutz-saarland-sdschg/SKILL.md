@@ -1,6 +1,6 @@
 ---
 name: denkmalschutz-saarland-sdschg
-description: "Wenn es um Denkmalschutz Saarland (SDSchG) in Denkmalschutzrecht — Bundesweiter Rahmen und sechzehn geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Denkmalschutz Saarland (SDSchG): ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Denkmalschutz Saarland (SDSchG)

@@ -1,6 +1,6 @@
 ---
 name: minderjaehrige-einwilligung-rechnung-schuldner
-description: "Wenn es um Minderjährige Einwilligung Rechnung Schuldner in GOÄ Gebührenordnung für Ärzte geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Berechnungstabelle mit Schwellen, Annahmen und Kontrollfragen."
+description: "Für Minderjährige Einwilligung Rechnung Schuldner: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Minderjährige Einwilligung Rechnung Schuldner

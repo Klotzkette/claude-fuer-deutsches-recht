@@ -1,6 +1,6 @@
 ---
 name: spezial-vermoegensauskunft-zahlen-schwellen-und-berechnung
-description: "Wenn es um Vermoegensauskunft: Zahlen, Schwellenwerte und Berechnung in Zwangsvollstreckung geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Vermögensauskunft: Zahlen, Schwellenwerte und Berechnung: rechnet Beträge, Schwellen und Varianten; Ergebnis: Berechnungstabelle mit Annahmen und Kontrollfragen."
 ---
 
 # Vermoegensauskunft: Zahlen, Schwellenwerte und Berechnung

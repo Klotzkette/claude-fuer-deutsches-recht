@@ -1,6 +1,6 @@
 ---
 name: smart-device-frist-berechnen
-description: "Wenn es um Smart Device Frist Berechnen in Verbraucherschutzrecht Prüfer geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Smart Device Frist Berechnen: prüft Frist, Form, Zuständigkeit und Eilbedarf; Ergebnis: Fristen- und Risikoampel."
 ---
 
 # Smart Device Frist Berechnen

@@ -1,6 +1,6 @@
 ---
 name: massenpruefung-mehrparteien-konflikt-und-interessen
-description: "Wenn es um Massenpruefung: Mehrparteienkonflikt und Interessenmatrix in Tabellenreview 3D geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. Auswahlstichwort: Massenpruefung Mehrparteien Konflikt Und Interessen; Arbeitsfeld: Tabellenreview 3D."
+description: "Für Massenprüfung: Mehrparteienkonflikt und Interessenmatrix: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Tatbestands- oder Anspruchsmatrix. Fachgebiet: Tabellenreview 3D. Route: massenpruefung-mehrparteien-konflikt-und-interessen."
 ---
 
 # Massenpruefung: Mehrparteienkonflikt und Interessenmatrix

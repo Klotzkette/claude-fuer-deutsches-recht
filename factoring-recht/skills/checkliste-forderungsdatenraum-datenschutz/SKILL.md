@@ -1,6 +1,6 @@
 ---
 name: checkliste-forderungsdatenraum-datenschutz
-description: "Wenn es um Checkliste Forderungsdatenraum Factoring in Factoring-Recht geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
+description: "Für Checkliste Forderungsdatenraum Factoring: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Checkliste Forderungsdatenraum Factoring

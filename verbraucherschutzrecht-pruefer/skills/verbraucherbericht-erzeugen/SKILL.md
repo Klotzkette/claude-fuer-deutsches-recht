@@ -1,6 +1,6 @@
 ---
 name: verbraucherbericht-erzeugen
-description: "Wenn es um Verbraucherbericht Erzeugen in Verbraucherschutzrecht Prüfer geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Verbraucherbericht Erzeugen: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Schnittstellenkarte mit Zuständigkeits- und Nachweisfragen."
 ---
 
 # Verbraucherbericht Erzeugen

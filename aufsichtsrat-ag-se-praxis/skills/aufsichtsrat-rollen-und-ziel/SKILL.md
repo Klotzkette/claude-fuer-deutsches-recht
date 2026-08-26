@@ -1,6 +1,6 @@
 ---
 name: aufsichtsrat-rollen-und-ziel
-description: "Wenn es um Aufsichtsrat Rollen Und Ziel in AG/SE-Aufsichtsrat Praxis geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
+description: "Für Aufsichtsrat Rollen und Ziel: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Aufsichtsrat Rollen Und Ziel

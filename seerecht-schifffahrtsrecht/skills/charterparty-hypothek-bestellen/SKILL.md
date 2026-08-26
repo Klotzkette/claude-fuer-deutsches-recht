@@ -1,6 +1,6 @@
 ---
 name: charterparty-hypothek-bestellen
-description: "Wenn es um Charterparty – Schiffshypothek bestellen in See- und Schifffahrtsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Charterparty – Schiffshypothek bestellen: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Charterparty – Schiffshypothek bestellen

@@ -1,6 +1,6 @@
 ---
 name: red-team-einer-ehenichtigkeitsakte
-description: "Wenn es um Red-Team einer Ehenichtigkeitsakte in Römisch-katholisches Kirchenrecht CIC und Katechismus geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Gegenprüfung mit Fehler-, Beweis- und Fristencheck."
+description: "Für Red-Team einer Ehenichtigkeitsakte: prüft Ergebnis, Beweislast und Gegenposition; Ergebnis: Gegenprüfung mit Beweis- und Fristencheck."
 ---
 
 # Red-Team einer Ehenichtigkeitsakte

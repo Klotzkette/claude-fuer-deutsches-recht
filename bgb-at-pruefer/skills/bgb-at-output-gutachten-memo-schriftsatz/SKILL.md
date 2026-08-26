@@ -1,6 +1,6 @@
 ---
 name: bgb-at-output-gutachten-memo-schriftsatz
-description: "Wenn es um Bgb At Output Gutachten Memo Schriftsatz in BGB AT Prüfer geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für BGB At Output Gutachten Memo Schriftsatz: erstellt Entwurf mit Antrag, Beweis und Anlagen; Ergebnis: Schriftsatz mit Begründungs- und Anlagenlogik."
 ---
 
 # Bgb At Output Gutachten Memo Schriftsatz

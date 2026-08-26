@@ -1,6 +1,6 @@
 ---
 name: fitness-franchise-bildungsfranchise
-description: "Wenn es um Franchiserecht: Fitness-Franchise und Verbraucherverträge in Franchiserecht Praxis geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Franchiserecht: Fitness-Franchise und Verbraucherverträge: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Franchiserecht: Fitness-Franchise und Verbraucherverträge

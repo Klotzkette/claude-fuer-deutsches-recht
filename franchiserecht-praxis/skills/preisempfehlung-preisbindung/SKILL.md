@@ -1,6 +1,6 @@
 ---
 name: preisempfehlung-preisbindung
-description: "Wenn es um Franchiserecht: Preisempfehlung, Preisbindung und Wettbewerbsrecht in Franchiserecht Praxis geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Franchiserecht: Preisempfehlung, Preisbindung und Wettbewerbsrecht: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Franchiserecht: Preisempfehlung, Preisbindung und Wettbewerbsrecht

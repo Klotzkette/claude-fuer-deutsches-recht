@@ -1,6 +1,6 @@
 ---
 name: online-plattform-screenshots
-description: "Wenn es um Online-Beweise und Plattform-Screenshots in Strafanzeige-Vorbereiter geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Online-Beweise und Plattform-Screenshots: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Online-Beweise und Plattform-Screenshots

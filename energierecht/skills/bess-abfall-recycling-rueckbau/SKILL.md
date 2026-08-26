@@ -1,6 +1,6 @@
 ---
 name: bess-abfall-recycling-rueckbau
-description: "Wenn es um Rückbau, Recycling und Batterierecht in Energierecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Rückbau, Recycling und Batterierecht: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Rückbau, Recycling und Batterierecht

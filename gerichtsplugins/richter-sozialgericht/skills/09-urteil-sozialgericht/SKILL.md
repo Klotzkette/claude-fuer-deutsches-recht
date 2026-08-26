@@ -1,6 +1,6 @@
 ---
 name: 09-urteil-sozialgericht
-description: "Wenn es um 09 Urteil Sozialgericht in Sozialgericht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für 09 Urteil Sozialgericht: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # 09 Urteil Sozialgericht

@@ -1,6 +1,6 @@
 ---
 name: gewerbesteuer-freibetrag-und-messbetrag
-description: "Wenn es um Gewerbesteuer Freibetrag Und Messbetrag in Solo-Selbstständige Praxis geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Gewerbesteuer Freibetrag und Messbetrag: rechnet Beträge, Schwellen und Varianten; Ergebnis: Berechnungstabelle mit Annahmen und Kontrollfragen."
 ---
 
 # Steuern und Buchhaltung: Erklärt gewerbesteuerlogik für einzelunternehmen und gemeindehebesatz

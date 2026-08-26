@@ -1,6 +1,6 @@
 ---
 name: meinungsfreiheit-wechselwirkungslehre-wunsiedel
-description: "Wenn es um Meinungsfreiheit: Wechselwirkungslehre und Wunsiedel in Verhältnismäßigkeitsprüfer geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Meinungsfreiheit: Wechselwirkungslehre und Wunsiedel: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Meinungsfreiheit: Wechselwirkungslehre und Wunsiedel

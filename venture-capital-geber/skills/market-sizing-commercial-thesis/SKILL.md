@@ -1,6 +1,6 @@
 ---
 name: market-sizing-commercial-thesis
-description: "Wenn es um Market Sizing und Commercial Thesis in Venture Capital Geber geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Market Sizing und Commercial Thesis: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Market Sizing und Commercial Thesis

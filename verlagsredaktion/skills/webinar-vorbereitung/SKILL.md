@@ -1,6 +1,6 @@
 ---
 name: webinar-vorbereitung
-description: "Wenn es um Webinar-Vorbereitung als Fachbeitrag-Sequel in Verlagsredaktion geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Webinar-Vorbereitung als Fachbeitrag-Sequel: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Webinar-Vorbereitung als Fachbeitrag-Sequel

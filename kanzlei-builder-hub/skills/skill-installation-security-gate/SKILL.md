@@ -1,6 +1,6 @@
 ---
 name: skill-installation-security-gate
-description: "Wenn es um Skill-Installation mit Security-, Herkunfts- und Mandatsgeheimnis-Gate in Kanzlei-Builder-Hub geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen."
+description: "Für Skill-Installation mit Security-, Herkunfts- und Mandatsgeheimnis-Gate: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Skill-Installation mit Security-, Herkunfts- und Mandatsgeheimnis-Gate

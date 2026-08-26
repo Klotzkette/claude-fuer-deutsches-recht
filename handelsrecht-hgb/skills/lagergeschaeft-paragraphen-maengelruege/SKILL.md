@@ -1,6 +1,6 @@
 ---
 name: lagergeschaeft-paragraphen-maengelruege
-description: "Wenn es um Lagergeschäft Paragrafen 467 ff. HGB in Handelsrecht HGB geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Lagergeschäft Paragrafen 467 ff. HGB: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Lagergeschäft §§ 467 ff. HGB

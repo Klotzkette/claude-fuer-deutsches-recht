@@ -1,6 +1,6 @@
 ---
 name: zeitnarrative
-description: "Wenn es um Zeitnarrative und Timesheet in Kanzlei-Allgemein geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen."
+description: "Für Zeitnarrative und Timesheet: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Zeitnarrative und Timesheet

@@ -1,6 +1,6 @@
 ---
 name: doppelte-buergerschaft-und-municipien
-description: "Wenn es um Rom 157 Doppelte Buergerschaft Und Municipien in Römisches Recht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Rom 157 Doppelte Bürgerschaft und Municipien: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Rom 157 Doppelte Buergerschaft Und Municipien

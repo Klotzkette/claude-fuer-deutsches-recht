@@ -1,6 +1,6 @@
 ---
 name: wp-stb-koordination
-description: "Wenn es um WP/StB-Koordination bei Berichtspflichten in Berichtspflichten-Erlediger geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für WP/StB-Koordination bei Berichtspflichten: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # WP/StB-Koordination bei Berichtspflichten

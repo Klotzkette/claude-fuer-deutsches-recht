@@ -1,6 +1,6 @@
 ---
 name: fuehrerschein-fahrerlaubnis
-description: "Wenn es um Führerschein / Fahrerlaubnis in Bürokratieversteher und Entbürokratisierer geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Führerschein / Fahrerlaubnis: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Führerschein / Fahrerlaubnis

@@ -1,6 +1,6 @@
 ---
 name: abgrenzung-konventionelle-software-vs-ki-system
-description: "Wenn es um Abgrenzung: Konventionelle Software versus digitale Werkzeuge-System in diesem Spezialbereich geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Beweislast- und Substantiierungsmatrix Stichwort für die Auswahl: Abgrenzung Konventionelle Software Vs Ki System."
+description: "Für Abgrenzung: Konventionelle Software versus digitale Werkzeuge-System: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt. Fachgebiet: europäischem Technikregulierungsrecht. Route: abgrenzung-konventionelle-software-vs-ki-system."
 ---
 
 # Abgrenzung: Konventionelle Software versus KI-System

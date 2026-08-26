@@ -1,6 +1,6 @@
 ---
 name: dolmetscher-und-sprachrisiko-kammerantwort-und-verfahren
-description: "Wenn es um Dolmetscher Und Sprachrisiko Kammerantwort Und Verfahren in Berufsrecht Notare geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Verhandlungs- oder Eskalationslinie mit Optionen."
+description: "Für Dolmetscher und Sprachrisiko Kammerantwort und Verfahren: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Notare: dolmetscher und sprachrisiko - Kammerantwort mit Verfahrensstrategie, Tonlage und Belegplan

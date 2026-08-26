@@ -1,6 +1,6 @@
 ---
 name: klinische-pruefung-ctr-amg
-description: "Wenn es um Klinische Prüfung Ctr Amg in Fachanwalt Medizinrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Klinische Prüfung Ctr Amg: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Tatbestands- oder Anspruchsmatrix."
 ---
 
 # Klinische Prüfung CTR/AMG: moderner Medizinrechts-Skill für Arzneimittelstudie, Sponsorpflichten, Ethik, Einwilligung, Prüfplanabweichung und SAE/SUSAR

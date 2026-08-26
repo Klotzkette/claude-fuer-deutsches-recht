@@ -1,6 +1,6 @@
 ---
 name: zit-internationale-urteile-spezial
-description: "Wenn es um Zit: Internationale Urteile in Zitierweise deutsches Recht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. Auswahlstichwort: Zit Internationale Urteile Spezial; Arbeitsfeld: Zitierweise deutsches Recht."
+description: "Für Zit: Internationale Urteile: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Schnittstellenkarte mit Zuständigkeits- und Nachweisfragen. Fachgebiet: Zitierweise deutsches Recht. Route: zit-internationale-urteile-spezial."
 ---
 
 # Zit: Internationale Urteile

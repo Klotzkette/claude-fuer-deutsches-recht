@@ -1,6 +1,6 @@
 ---
 name: verbrauchergerichtsstand-29c-zpo
-description: "Wenn es um Verbrauchergerichtsstand: Klagen am eigenen Wohnsitz in selbstvertreter-amtsgericht geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
+description: "Für Verbrauchergerichtsstand: Klagen am eigenen Wohnsitz: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Verbrauchergerichtsstand: Klagen am eigenen Wohnsitz

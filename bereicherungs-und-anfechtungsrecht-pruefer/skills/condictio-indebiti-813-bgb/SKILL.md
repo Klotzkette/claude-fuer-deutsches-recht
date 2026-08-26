@@ -1,6 +1,6 @@
 ---
 name: condictio-indebiti-813-bgb
-description: "Wenn es um Condictio indebiti — Paragraf 813 BGB in bereicherungs-und-anfechtungsrecht-prüfer geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Condictio indebiti — Paragraf 813 BGB: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Condictio indebiti — § 813 BGB

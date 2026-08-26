@@ -1,6 +1,6 @@
 ---
 name: systemhandbuch-rechtsnatur-und-aenderungsrechte
-description: "Wenn es um Franchiserecht: Systemhandbuch – Rechtsnatur und Änderungsrechte in Franchiserecht Praxis geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
+description: "Für Franchiserecht: Systemhandbuch – Rechtsnatur und Änderungsrechte: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Franchiserecht: Systemhandbuch – Rechtsnatur und Änderungsrechte

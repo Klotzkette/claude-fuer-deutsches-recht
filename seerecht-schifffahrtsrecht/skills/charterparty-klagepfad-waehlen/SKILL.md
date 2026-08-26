@@ -1,6 +1,6 @@
 ---
 name: charterparty-klagepfad-waehlen
-description: "Wenn es um Charterparty – Klagepfad wählen in See- und Schifffahrtsrecht geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
+description: "Für Charterparty – Klagepfad wählen: erstellt Entwurf mit Antrag, Beweis und Anlagen; Ergebnis: Schriftsatz mit Begründungs- und Anlagenlogik."
 ---
 
 # Charterparty – Klagepfad wählen

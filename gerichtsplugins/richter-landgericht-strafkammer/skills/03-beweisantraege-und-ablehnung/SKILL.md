@@ -1,6 +1,6 @@
 ---
 name: 03-beweisantraege-und-ablehnung
-description: "Wenn es um 03 Beweisantraege und Ablehnung in Strafkammer am Landgericht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Beweislast- und Substantiierungsmatrix."
+description: "Für 03 Beweisanträge und Ablehnung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Beweislast- und Substantiierungsmatrix."
 ---
 
 # 03 Beweisantraege und Ablehnung

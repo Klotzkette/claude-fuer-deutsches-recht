@@ -1,6 +1,6 @@
 ---
 name: faevvollzug-neu-001-ev-vollziehungscheck-dringlichkeit-titel-zus
-description: "Wenn es um Faevvollzug Neu 001 Ev Vollziehungscheck Dringlichkeit Titel Zus in Fachanwalt Gewerblicher Rechtsschutz geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Faevvollzug Neu 001 Ev Vollziehungscheck Dringlichkeit Titel Zus: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Schnittstellenkarte mit Zuständigkeits- und Nachweisfragen."
 ---
 
 # EV-Vollziehungscheck: Dringlichkeit, Titel und Zustellung bei einstweiliger Verfügung im gewerblichen Rechtsschutz

@@ -1,6 +1,6 @@
 ---
 name: bieterstrategie-go-no-go
-description: "Wenn es um Bieterstrategie Go No Go in Fachanwalt Vergaberecht geht: entwickelt Verhandlungsziel, Vergleichskorridor und Eskalationspfad; liefert eine Verhandlungs- oder Eskalationslinie mit Optionen."
+description: "Für Bieterstrategie Go No Go: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Verhandlungs- oder Eskalationslinie."
 ---
 
 # Bieterstrategie und Go/No-Go für Ausschreibungen: Chancen, Aufwand, Rugepunkte, Preisstrategie, Nachunternehmer, Ausschlussrisiken und Eskalationsoptionen.

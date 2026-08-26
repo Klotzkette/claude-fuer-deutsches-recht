@@ -1,6 +1,6 @@
 ---
 name: k1-anlagenpaket-k1-sortierwerkstatt
-description: "Wenn es um K1 aus Chaosordner bauen in Anlagen zu Schriftsätzen geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt. Auswahlstichwort: K1 Anlagenpaket K1 Sortierwerkstatt; Arbeitsfeld: Anlagen zu Schriftsätzen."
+description: "Für K1 aus Chaosordner bauen: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt. Fachgebiet: Anlagen zu Schriftsätzen. Route: k1-anlagenpaket-k1-sortierwerkstatt."
 ---
 
 # K1 aus Chaosordner bauen

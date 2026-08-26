@@ -1,6 +1,6 @@
 ---
 name: stb-bwa-kontenrahmen-skr03-skr04
-description: "Wenn es um Kontenrahmen SKR 03 vs SKR 04 — Wahl und Bedeutung fuer BWA in Steuerrecht – Steuerberater und Anwälte geht: entwickelt Verhandlungsziel, Vergleichskorridor und Eskalationspfad; liefert eine Verhandlungs- oder Eskalationslinie mit Optionen."
+description: "Für Kontenrahmen SKR 03 vs SKR 04 — Wahl und Bedeutung für BWA: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Kontenrahmen SKR 03 vs SKR 04 — Wahl und Bedeutung fuer BWA

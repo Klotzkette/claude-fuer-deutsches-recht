@@ -1,6 +1,6 @@
 ---
 name: arbeit-wechsel-und-mehrverdienst
-description: "Wenn es um Arbeit Wechsel Und Mehrverdienst in Verbraucherinsolvenz und Schuldenbereinigung geht: entwickelt Verhandlungsziel, Vergleichskorridor und Eskalationspfad; liefert eine Verhandlungs- oder Eskalationslinie mit Optionen."
+description: "Für Arbeit Wechsel und Mehrverdienst: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Arbeitsaufnahme, Jobwechsel und Mehrverdienst: pfändbarer Anteil, Motivation, Anzeige und Vergleichschancen.

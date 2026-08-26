@@ -1,6 +1,6 @@
 ---
 name: eu-richtlinie-86-653
-description: "Wenn es um EU-Handelsvertreterrichtlinie 86/653/EWG und ihre Umsetzung im deutschen HGB in Handelsvertreterrecht und Vertriebsverträge geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für EU-Handelsvertreterrichtlinie 86/653/EWG und ihre Umsetzung im deutschen HGB: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Schnittstellenkarte mit Zuständigkeits- und Nachweisfragen."
 ---
 
 # EU-Handelsvertreterrichtlinie 86/653/EWG und ihre Umsetzung im deutschen HGB

@@ -1,6 +1,6 @@
 ---
 name: airline-local-dashboard-bauen
-description: "Wenn es um Airline – Local Counsel briefen in Luftrecht und Flughafenrecht geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
+description: "Für Airline – Local Counsel briefen: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Airline – Local Counsel briefen

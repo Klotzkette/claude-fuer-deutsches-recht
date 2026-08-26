@@ -1,6 +1,6 @@
 ---
 name: reverse-charge-ausland
-description: "Wenn es um Rechnung und Umsatzsteuer: Ordnet eu-/drittlandleistungen in Solo-Selbstständige Praxis geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Rechnung und Umsatzsteuer: Ordnet eu-/drittlandleistungen: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Schnittstellenkarte mit Zuständigkeits- und Nachweisfragen."
 ---
 
 # Rechnung und Umsatzsteuer: Ordnet eu-/drittlandleistungen

@@ -1,6 +1,6 @@
 ---
 name: gesellschafterversammlung-einberufen
-description: "Wenn es um Gesellschafterversammlung einberufen (Kapitalerhöhung) in Wandeldarlehen-Lebenszyklus geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Gesellschafterversammlung einberufen (Kapitalerhöhung): ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Gesellschafterversammlung einberufen (Kapitalerhöhung)

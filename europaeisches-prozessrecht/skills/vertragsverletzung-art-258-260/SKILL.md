@@ -1,6 +1,6 @@
 ---
 name: vertragsverletzung-art-258-260
-description: "Ordnet Vertragsverletzungsverfahren nach Art. 258 bis 260 AEUV: Kommissionsbeschwerde, Vorverfahren, mit Gründen versehene Stellungnahme, Klage, Zwangsgeld und strategische Parallelverfahren."
+description: "Für Vertragsverletzungsverfahren: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 # Vertragsverletzungsverfahren
 

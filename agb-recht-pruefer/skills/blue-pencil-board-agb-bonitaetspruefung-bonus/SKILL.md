@@ -1,6 +1,6 @@
 ---
 name: blue-pencil-board-agb-bonitaetspruefung-bonus
-description: "Wenn es um Blue Pencil Und Geltungserhaltende Reduktion in AGB-Recht-Prüfer geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. Auswahlstichwort: Blue Pencil Board Agb Bonitaetspruefung Bonus; Arbeitsfeld: AGB-Recht-Prüfer."
+description: "Für Blue Pencil und Geltungserhaltende Reduktion: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Tatbestands- oder Anspruchsmatrix."
 ---
 
 # Blue Pencil Und Geltungserhaltende Reduktion

@@ -1,6 +1,6 @@
 ---
 name: inso-kommunikation-glaeubiger
-description: "Wenn es um Inso Kommunikation Glaeubiger in Fachanwalt Insolvenz- und Sanierungsrecht geht: entwickelt Verhandlungsziel, Vergleichskorridor und Eskalationspfad; liefert eine Verhandlungs- oder Eskalationslinie mit Optionen."
+description: "Für InsO Kommunikation Gläubiger: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Schnittstellenkarte mit Zuständigkeits- und Nachweisfragen."
 ---
 
 # Kommunikation mit Gläubigern im Insolvenz- und StaRUG-Verfahren: Information, Verhandlung, Vergleichsangebot, Gläubigerversammlung, Prüfungstermin

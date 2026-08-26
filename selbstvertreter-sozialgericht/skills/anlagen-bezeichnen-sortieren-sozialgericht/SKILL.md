@@ -1,6 +1,6 @@
 ---
 name: anlagen-bezeichnen-sortieren-sozialgericht
-description: "Wenn es um Anlagen zur Klage — sortieren und bezeichnen in selbstvertreter-sozialgericht geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
+description: "Für Anlagen zur Klage — sortieren und bezeichnen: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Anlagen zur Klage — sortieren und bezeichnen

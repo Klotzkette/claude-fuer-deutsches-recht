@@ -1,6 +1,6 @@
 ---
 name: blaulicht-und-sonderrechte
-description: "Wenn es um Blaulicht Und Sonderrechte in Straßenverkehrsrecht StVO geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Blaulicht und Sonderrechte: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Blaulicht Und Sonderrechte

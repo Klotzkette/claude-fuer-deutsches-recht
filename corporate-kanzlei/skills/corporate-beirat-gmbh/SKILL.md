@@ -1,6 +1,6 @@
 ---
 name: corporate-beirat-gmbh
-description: "Wenn es um Corporate: Erstprüfung, Rollenklärung und Mandatsziel in Corporate-Kanzlei geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Corporate: Erstprüfung, Rollenklärung und Mandatsziel: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Corporate: Erstprüfung, Rollenklärung und Mandatsziel

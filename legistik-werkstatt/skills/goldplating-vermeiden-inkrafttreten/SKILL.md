@@ -1,6 +1,6 @@
 ---
 name: goldplating-vermeiden-inkrafttreten
-description: "Wenn es um Goldplating vermeiden in Legistik-Werkstatt geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. Auswahlstichwort: Goldplating Vermeiden Inkrafttreten; Arbeitsfeld: Legistik-Werkstatt."
+description: "Für Goldplating vermeiden: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt. Fachgebiet: Legistik-Werkstatt. Route: goldplating-vermeiden-inkrafttreten."
 ---
 
 # Goldplating vermeiden

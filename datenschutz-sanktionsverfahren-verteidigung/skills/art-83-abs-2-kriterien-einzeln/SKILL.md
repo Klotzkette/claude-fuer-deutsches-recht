@@ -1,6 +1,6 @@
 ---
 name: art-83-abs-2-kriterien-einzeln
-description: "Wenn es um Art. 83 Abs. 2 Kriterien einzeln prüfen in Datenschutz-Sanktionsverfahren und Verteidigung geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
+description: "Für Art. 83 Abs. 2 Kriterien einzeln prüfen: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Art. 83 Abs. 2 Kriterien einzeln prüfen

@@ -1,6 +1,6 @@
 ---
 name: 06-fachgerichtliche-entscheidung-pruefen
-description: "Wenn es um 06 Fachgerichtliche Entscheidung Prüfen in BVerfG Vorprüfung Verfassungsbeschwerden geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
+description: "Für 06 Fachgerichtliche Entscheidung Prüfen: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # 06 Fachgerichtliche Entscheidung Prüfen

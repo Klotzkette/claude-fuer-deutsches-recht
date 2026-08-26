@@ -1,6 +1,6 @@
 ---
 name: juristische-erstpruefung-und-mandatsziel
-description: "Wenn es um Juristische: Erstprüfung, Rollenklärung und Mandatsziel in Zitierweise deutsches Recht geht: klärt Rolle, Ziel, Frist, Unterlagen und den passenden nächsten Fachskill; liefert eine Fristen- und Risikoampel mit Sofortschritten. Auswahlstichwort: Juristische Erstpruefung Und Mandatsziel; Arbeitsfeld: Zitierweise deutsches Recht."
+description: "Für Juristische: Erstprüfung, Rollenklärung und Mandatsziel: routet Rolle, Frist, Unterlagen und Fachschritt; Ergebnis: Tatbestands- oder Anspruchsmatrix. Fachgebiet: Zitierweise deutsches Recht. Route: juristische-erstpruefung-und-mandatsziel."
 ---
 
 # Juristische: Erstprüfung, Rollenklärung und Mandatsziel

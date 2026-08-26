@@ -1,6 +1,6 @@
 ---
 name: fa-stu-aussenpruefung-anordnung-pruefung
-description: "Wenn es um Aussenpruefung — Pruefungsanordnung Pruefungserweiterung und Mitwirkung in Steuerrecht – Steuerberater und Anwälte geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Tatbestands- oder Anspruchsmatrix mit Gegenargumenten."
+description: "Für Außenprüfung — Prüfungsanordnung Prüfungserweiterung und Mitwirkung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Tatbestands- oder Anspruchsmatrix. Fachgebiet: Steuerrecht – Steuerberater und Anwälte. Route: fa-stu-aussenpruefung-anordnung-pruefung."
 ---
 
 # Aussenpruefung — Pruefungsanordnung Pruefungserweiterung und Mitwirkung

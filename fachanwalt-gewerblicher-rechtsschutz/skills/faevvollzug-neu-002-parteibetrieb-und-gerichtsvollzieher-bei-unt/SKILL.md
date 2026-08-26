@@ -1,6 +1,6 @@
 ---
 name: faevvollzug-neu-002-parteibetrieb-und-gerichtsvollzieher-bei-unt
-description: "Wenn es um Faevvollzug Neu 002 Parteibetrieb Und Gerichtsvollzieher Bei Unt in Fachanwalt Gewerblicher Rechtsschutz geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Faevvollzug Neu 002 Parteibetrieb und Gerichtsvollzieher bei Unt: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Schnittstellenkarte mit Zuständigkeits- und Nachweisfragen."
 ---
 
 # Parteibetrieb und Gerichtsvollzieher bei Unterlassungstiteln: Beauftragung, Zustellungsnachweis, Vollziehung einstweiliger Verfügungen im gewerblichen Rechtsschutz

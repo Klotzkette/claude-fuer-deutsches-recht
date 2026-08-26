@@ -1,6 +1,6 @@
 ---
 name: betreuer-registrierung
-description: "Wenn es um Berufliche und ehrenamtliche Betreuung; Weg zur Registrierung in Betreuungsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Berufliche und ehrenamtliche Betreuung; WEG zur Registrierung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Schnittstellenkarte mit Zuständigkeits- und Nachweisfragen."
 ---
 
 # Berufliche und ehrenamtliche Betreuung; Weg zur Registrierung

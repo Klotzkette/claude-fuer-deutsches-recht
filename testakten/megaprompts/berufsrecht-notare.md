@@ -8,12 +8,12 @@ Diese Vollprüfung enthält top-8 von 205 Skills (gekürzt für das Arbeitsfenst
 
 1. **juristischer-argumentationskern** — Schaltet sich ein, wenn in Berufsrecht Notare ein juristisches Arbeitsprodukt tragfähig begründet werden muss; verbindet…
 2. **dienstaufsicht-beschwerde-organisationspflicht-und-praev** — Bearbeitet eine Dienstaufsichtsbeschwerde gegen einen Notar oder die notarielle Stellungnahme hierzu: Amtspflicht, Urkun…
-3. **beurkundungsabbruch-kammerantwort-und-verfahrensstrategi** — Wenn es um Notare: beurkundungsabbruch - Kammerantwort mit Verfahrensstrategie, Tonlage und Belegplan in Berufsrecht Not…
-4. **notarkammer-anfrage-kammerantwort-und-verfahrensstrategi** — Wenn es um Notare: notarkammer anfrage - Kammerantwort mit Verfahrensstrategie, Tonlage und Belegplan in Berufsrecht Not…
-5. **it-cloud-kammeraufsicht-ruege** — Wenn es um IT, Cloud, digitale Werkzeuge und Outsourcing in Berufsrecht Notare geht: ordnet Sachverhalt, Norm, Beweislas…
-6. **kaltstart-routing** — Wenn es um Allgemeiner Kaltstart und Routing in Berufsrecht Notare geht: klärt Rolle, Ziel, Frist, Unterlagen und den pa…
-7. **quellen-rechtsprechungscheck-berufsgericht** — Wenn es um Quellen- und Rechtsprechungscheck in Berufsrecht Notare geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargu…
-8. **kooperation-mit-anderen-berufen** — Wenn es um Kooperation mit anderen Berufen in Berufsrecht Notare geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargume…
+3. **beurkundungsabbruch-kammerantwort-und-verfahrensstrategi** — Für Notare: beurkundungsabbruch - Kammerantwort mit Verfahrensstrategie, Tonlage und Belegplan: ordnet Norm, Beweislast …
+4. **notarkammer-anfrage-kammerantwort-und-verfahrensstrategi** — Für Notare: notarkammer anfrage - Kammerantwort mit Verfahrensstrategie, Tonlage und Belegplan: ordnet Norm, Beweislast …
+5. **it-cloud-kammeraufsicht-ruege** — Für IT, Cloud, digitale Werkzeuge und Outsourcing: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit …
+6. **verbraucherwiderruf-und-beurkundung-kaltstart-und-fakten** — Für Verbraucherwiderruf und Beurkundung Kaltstart und Fakten: routet Rolle, Frist, Unterlagen und Fachschritt; Ergebnis:…
+7. **beurkundungsverfahren-vollmacht-kammerantwort-und-verfahren** — Für Beurkundungsverfahren Vollmacht Kammerantwort und Verfahren: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Sc…
+8. **gesellschafterliste-nach-auslandsinsolvenz-kaltstart** — Für Gesellschafterliste nach Auslandsinsolvenz Kaltstart: routet Rolle, Frist, Unterlagen und Fachschritt; Ergebnis: Sch…
 
 ---
 
@@ -198,7 +198,7 @@ Konkret zu prüfen:
 
 ## Skill: `beurkundungsabbruch-kammerantwort-und-verfahrensstrategi`
 
-_Wenn es um Notare: beurkundungsabbruch - Kammerantwort mit Verfahrensstrategie, Tonlage und Belegplan in Berufsrecht Notare geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Verhandlungs- oder Eskalationslinie mit Optionen._
+_Für Notare: beurkundungsabbruch - Kammerantwort mit Verfahrensstrategie, Tonlage und Belegplan: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Schnittstellenkarte mit Zuständigkeits- und Nachweisfragen._
 
 # Notare: beurkundungsabbruch - Kammerantwort mit Verfahrensstrategie, Tonlage und Belegplan
 
@@ -245,7 +245,7 @@ Konkret zu prüfen:
 
 ## Skill: `notarkammer-anfrage-kammerantwort-und-verfahrensstrategi`
 
-_Wenn es um Notare: notarkammer anfrage - Kammerantwort mit Verfahrensstrategie, Tonlage und Belegplan in Berufsrecht Notare geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Verhandlungs- oder Eskalationslinie mit Optionen._
+_Für Notare: notarkammer anfrage - Kammerantwort mit Verfahrensstrategie, Tonlage und Belegplan: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt._
 
 # Notare: notarkammer anfrage - Kammerantwort mit Verfahrensstrategie, Tonlage und Belegplan
 
@@ -307,7 +307,7 @@ Konkret zu prüfen:
 
 ## Skill: `it-cloud-kammeraufsicht-ruege`
 
-_Wenn es um IT, Cloud, digitale Werkzeuge und Outsourcing in Berufsrecht Notare geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen._
+_Für IT, Cloud, digitale Werkzeuge und Outsourcing: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt. Fachgebiet: Berufsrecht Notare._
 
 # IT, Cloud, KI und Outsourcing
 
@@ -367,11 +367,11 @@ Konkret zu prüfen:
 
 ---
 
-## Skill: `kaltstart-routing`
+## Skill: `verbraucherwiderruf-und-beurkundung-kaltstart-und-fakten`
 
-_Wenn es um Allgemeiner Kaltstart und Routing in Berufsrecht Notare geht: klärt Rolle, Ziel, Frist, Unterlagen und den passenden nächsten Fachskill; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt._
+_Für Verbraucherwiderruf und Beurkundung Kaltstart und Fakten: routet Rolle, Frist, Unterlagen und Fachschritt; Ergebnis: Schnittstellenkarte mit Zuständigkeits- und Nachweisfragen._
 
-# Allgemeiner Kaltstart und Routing
+# Notare: verbraucherwiderruf und beurkundung - Kaltstart mit Faktenmatrix, Risikoampel und fehlenden Unterlagen
 
 ## Direktstart: lesen, entscheiden, liefern
 
@@ -388,54 +388,115 @@ Starte mit einem Arbeitsprodukt, nicht mit einer Inventarliste: Kurzvermerk, Fri
 
 Arbeitsmodus: Liefere zuerst einen nutzbaren Zwischenstand in höchstens sieben Sätzen und dann den nächsten konkreten Schritt. Frage nur nach, wenn Frist, Zuständigkeit, Beweis, Betrag oder Rechtsfolge sonst nicht belastbar bestimmbar sind. Tabellen nur für Fristen, Belege, Beträge, Varianten oder Streitstoff.
 
-## Kaltstart in fünf Schritten
+## Arbeitsweg
 
-1. Rolle und Ziel klären: Wer handelt, wer ist betroffen, welches Ergebnis wird gebraucht?
-2. Frist, Zuständigkeit, Verfahrensstand und irreversible Risiken markieren.
-3. Vorliegende Dokumente, Beweise, Zahlen, Aktenzeichen, Bescheide oder Beschlüsse erfassen.
-4. Unsichere Tatsachen als offen markieren und nicht durch Modellwissen ersetzen.
-5. Einen Minimalpfad anbieten: Was muss heute passieren, was kann später vertieft werden?
+- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
+- Fristen und Eilrisiken zuerst markieren: nur die Fristen des konkreten Rechtsgebiets und der Akte verwenden; Widerspruch, Klage, Einspruch, Rechtsmittel, Verjährung, Verwirkung, Rüge-, Anzeige-, Anmelde- und Ausschlussfristen strikt trennen und nie aus einem anderen Fachgebiet übernehmen.
+- Tragende Normen verifizieren: BRAO, BORA, FAO, BNotO, StBerG, WPO, PAO; BeurkG — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
+- Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
+- Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
-## Prüf- und Arbeitslogik
+## Konkreter Berufsrechtskern: Notare: verbraucherwiderruf und beurkundung - Kaltstart mit Faktenmatrix, Risikoampel und fehlenden Unterlagen
+- **Normenanker:** BNotO, BeurkG, DONot, GNotKG, GwG, UVZ/Verwahrungsverzeichnis, Neutralität, Belehrung und Dienstaufsicht.
+- **Institutionen:** Notarkammer, Dienstaufsicht, Landgericht/Oberlandesgericht im Notarrecht und Register-/Grundbuchschnittstellen.
+- **Spezialspur:** Beurkundungspflicht, Belehrung, Geschäftsfähigkeit, Identität und Vollzugsvoraussetzungen trennen.
+- **Falllösung:** Baue eine Pflichtverletzungs-/Entlastungsmatrix mit Norm, Tatsache, Beleg, Verschulden, Verhältnismäßigkeit, möglicher Kammerantwort und prozessualem nächsten Schritt.
 
-- **Normenanker:** BNotO, BeurkG, DONot, GNotKG, GwG, Landesrecht und Kammer-/Dienstaufsichtshinweise live prüfen
-- **Tatsachenarbeit:** sichere Tatsachen, streitige Tatsachen, fehlende Unterlagen und Beweisprobleme trennen.
-- **Verfahrensarbeit:** Zuständigkeit, Form, Frist, Anhörung, Akteneinsicht, Dokumentationspflicht und Rechtsbehelf prüfen.
-- **Gegenansicht:** eine ernsthafte Gegenposition formulieren und sagen, wie man sie entkräftet oder akzeptiert.
-- **Praxisentscheidung:** nicht nur prüfen, sondern eine handhabbare nächste Handlung vorschlagen.
+## Fallweichen dieser Speziallage
+
+1. Rolle, Ziel und Entscheidungsdruck klären.
+2. Verfahrensstand, Fristen, Zuständigkeit und irreversible Risiken markieren.
+3. Aktenbasis ordnen: sichere Tatsachen, bestrittene Tatsachen, fehlende Unterlagen.
+4. Eingriffsintensität, Berufs-/Amtsgeheimnisse, Datenschutz und Persönlichkeitsrechte sichtbar machen.
+5. Sofortpfad anbieten: Was muss heute entschieden, beantragt, beantwortet oder dokumentiert werden?
+
+## Prüfprogramm
+
+- **Normenanker:** BNotO, BeurkG, DONot, GNotKG, GwG, Dienstaufsicht, notarielle Rechtsprechung und Landesjustizverwaltung live prüfen
+- **Tatsachenarbeit:** Beweisquelle, Beweiswert, Gegenbeweis, Dokumentationslücke und mögliche Fehlinterpretation trennen.
+- **Verfahrensarbeit:** Form, Frist, Zuständigkeit, Anhörung, Akteneinsicht, Rechtsbehelf und Zustellungsweg prüfen.
+- **Gegenposition:** Die stärkste Gegenansicht formulieren und sagen, was sie praktisch bedeutet.
+- **Entscheidung:** Eine vertretbare Handlungsempfehlung mit Risikoampel und nächstem Schritt liefern.
 
 ## Normen & Rechtsprechung
 
 Konkret zu prüfen:
 
-- § 14 BNotO (Amtspflichten)
+- §§ 6-35 BeurkG
 - § 17 BeurkG (Belehrungspflicht)
-- § 95 BNotO (Disziplinarmaßnahmen)
-
-## Normenanker
-
-Vor einer rechtlichen Schlussfolgerung diese Anker am aktuellen Normtext prüfen; Spezial- und Landesrecht nur hinzunehmen, wenn es den konkreten Auftrag traegt:
-
-- `§ 14 Abs. 1 BNotO` — notarielle Amtspflichten.
-- `§ 17 Abs. 1 BeurkG` — Belehrung und Erforschung des Willens.
-- `§ 13 BeurkG` — Vorlesen, Genehmigen, Unterschreiben.
-- `§ 40 BeurkG` — Beglaubigung einer Unterschrift.
-- `§ 53 BeurkG` — Vollzugspflichten.
-- `§ 54a BeurkG` — Verwahrung und Auszahlung.
-- `§ 130a ZPO` — elektronische Dokumente als Schnittstelle.
-- `§ 29 Abs. 1 GBO` — grundbuchtaugliche Form.
-- `§ 12 HGB` — Registereinreichung.
-- `§ 40 GmbHG` — Gesellschafterliste.
-
-Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei prüfbare Quelle vorliegen; keine BeckRS-/juris-Blindzitate verwenden.
+- § 17 Abs. 2a BeurkG
+- § 312g BGB
+- § 355 BGB
 
 ---
 
-## Skill: `quellen-rechtsprechungscheck-berufsgericht`
+## Skill: `beurkundungsverfahren-vollmacht-kammerantwort-und-verfahren`
 
-_Wenn es um Quellen- und Rechtsprechungscheck in Berufsrecht Notare geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt._
+_Für Beurkundungsverfahren Vollmacht Kammerantwort und Verfahren: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Schnittstellenkarte mit Zuständigkeits- und Nachweisfragen._
 
-# Quellen- und Rechtsprechungscheck
+# Notare: beurkundungsverfahren vollmacht - Kammerantwort mit Verfahrensstrategie, Tonlage und Belegplan
+
+## Arbeitsweg
+
+- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
+- Fristen und Eilrisiken zuerst markieren: nur die Fristen des konkreten Rechtsgebiets und der Akte verwenden; Widerspruch, Klage, Einspruch, Rechtsmittel, Verjährung, Verwirkung, Rüge-, Anzeige-, Anmelde- und Ausschlussfristen strikt trennen und nie aus einem anderen Fachgebiet übernehmen.
+- Tragende Normen verifizieren: BRAO, BORA, FAO, BNotO, StBerG, WPO, PAO; BeurkG — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
+- Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
+- Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
+
+## Konkreter Berufsrechtskern: Notare: beurkundungsverfahren vollmacht - Kammerantwort mit Verfahrensstrategie, Tonlage und Belegplan
+- **Normenanker:** BNotO, BeurkG, DONot, GNotKG, GwG, UVZ/Verwahrungsverzeichnis, Neutralität, Belehrung und Dienstaufsicht.
+- **Institutionen:** Notarkammer, Dienstaufsicht, Landgericht/Oberlandesgericht im Notarrecht und Register-/Grundbuchschnittstellen.
+- **Spezialspur:** Beurkundungspflicht, Belehrung, Geschäftsfähigkeit, Identität und Vollzugsvoraussetzungen trennen.
+- **Falllösung:** Baue eine Pflichtverletzungs-/Entlastungsmatrix mit Norm, Tatsache, Beleg, Verschulden, Verhältnismäßigkeit, möglicher Kammerantwort und prozessualem nächsten Schritt.
+
+## Fallweichen dieser Speziallage
+
+1. Rolle, Ziel und Entscheidungsdruck klären.
+2. Verfahrensstand, Fristen, Zuständigkeit und irreversible Risiken markieren.
+3. Aktenbasis ordnen: sichere Tatsachen, bestrittene Tatsachen, fehlende Unterlagen.
+4. Eingriffsintensität, Berufs-/Amtsgeheimnisse, Datenschutz und Persönlichkeitsrechte sichtbar machen.
+5. Sofortpfad anbieten: Was muss heute entschieden, beantragt, beantwortet oder dokumentiert werden?
+
+## Prüfprogramm
+
+- **Normenanker:** BNotO, BeurkG, DONot, GNotKG, GwG, Dienstaufsicht, notarielle Rechtsprechung und Landesjustizverwaltung live prüfen
+- **Tatsachenarbeit:** Beweisquelle, Beweiswert, Gegenbeweis, Dokumentationslücke und mögliche Fehlinterpretation trennen.
+- **Verfahrensarbeit:** Form, Frist, Zuständigkeit, Anhörung, Akteneinsicht, Rechtsbehelf und Zustellungsweg prüfen.
+- **Gegenposition:** Die stärkste Gegenansicht formulieren und sagen, was sie praktisch bedeutet.
+- **Entscheidung:** Eine vertretbare Handlungsempfehlung mit Risikoampel und nächstem Schritt liefern.
+
+## Normen & Rechtsprechung
+
+Konkret zu prüfen:
+
+- §§ 6-35 BeurkG
+- § 17 BeurkG (Belehrungspflicht)
+- § 65 BNotO (Notarkammer)
+- § 92 BNotO (Aufsicht)
+
+---
+
+## Skill: `gesellschafterliste-nach-auslandsinsolvenz-kaltstart`
+
+_Für Gesellschafterliste nach Auslandsinsolvenz Kaltstart: routet Rolle, Frist, Unterlagen und Fachschritt; Ergebnis: Schnittstellenkarte mit Zuständigkeits- und Nachweisfragen._
+
+# Notare: gesellschafterliste nach auslandsinsolvenz - Kaltstart mit Faktenmatrix, Risikoampel und fehlenden Unterlagen
+
+## Direktstart: lesen, entscheiden, liefern
+
+Beginne nicht mit einem Fragenkatalog. Wenn Material vorliegt, lies es zuerst und starte mit einer verwertbaren Arbeitshypothese:
+
+- Frist oder Sofortrisiko.
+- erkannte Rolle, Zielrichtung und Verfahrensstand.
+- tragende Tatsachen aus dem Material.
+- bester nächster Arbeitsschritt mit direkt nutzbarem Output.
+
+Frage höchstens zwei Punkte nach, und nur wenn ohne diese Antwort der nächste Schritt falsch oder riskant würde. Fehlt Material vollständig, verlange nicht allgemein alle Unterlagen, sondern nenne die drei wichtigsten Dokumente und arbeite mit sichtbaren Annahmen weiter.
+
+Starte mit einem Arbeitsprodukt, nicht mit einer Inventarliste: Kurzvermerk, Fristenblatt, Prüfmatrix, Entwurf, Fragenliste oder Entscheidungsvorschlag. Routing ist nur Mittel zum Zweck. Wenn ein Fachskill eindeutig passt, arbeite unmittelbar in dessen Richtung weiter.
+
+Arbeitsmodus: Liefere zuerst einen nutzbaren Zwischenstand in höchstens sieben Sätzen und dann den nächsten konkreten Schritt. Frage nur nach, wenn Frist, Zuständigkeit, Beweis, Betrag oder Rechtsfolge sonst nicht belastbar bestimmbar sind. Tabellen nur für Fristen, Belege, Beträge, Varianten oder Streitstoff.
 
 ## Normenanker
 
@@ -462,88 +523,27 @@ Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei pr
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
-## Fachkern: Quellen- und Rechtsprechungscheck
-- **Normen-/Quellenanker:** BNotO, BeurkG, DONot, GNotKG, GwG, Neutralität, Belehrung, Verwahrung, Dienstaufsicht und Notarbeschwerde.
-- **Entscheidende Weiche:** Amtsrolle, Beteiligteninteresse, Beurkundungs-/Vollzugsfehler, Treuhand, Dienstaufsicht, Kosten und Rechtsmittel trennen.
-- **Arbeitsprodukt:** Liefere eine fallbezogene `Norm / Tatsache / Beleg / Wertung / Gegenargument / nächster Schritt`-Matrix und einen direkt nutzbaren Textbaustein, wenn der Nutzer einen Entwurf braucht.
+## Konkreter Berufsrechtskern: Notare: gesellschafterliste nach auslandsinsolvenz - Kaltstart mit Faktenmatrix, Risikoampel und fehlenden Unterlagen
+- **Normenanker:** BNotO, BeurkG, DONot, GNotKG, GwG, UVZ/Verwahrungsverzeichnis, Neutralität, Belehrung und Dienstaufsicht.
+- **Institutionen:** Notarkammer, Dienstaufsicht, Landgericht/Oberlandesgericht im Notarrecht und Register-/Grundbuchschnittstellen.
+- **Spezialspur:** Leite aus dem konkreten Slug die berufsrechtliche Pflicht, den Tatsachenbeleg, den Verfahrensgegner und das mildeste tragfähige Gegenmittel ab.
+- **Falllösung:** Baue eine Pflichtverletzungs-/Entlastungsmatrix mit Norm, Tatsache, Beleg, Verschulden, Verhältnismäßigkeit, möglicher Kammerantwort und prozessualem nächsten Schritt.
 
-## Kaltstart in fünf Schritten
+## Fallweichen dieser Speziallage
 
-1. Rolle und Ziel klären: Wer handelt, wer ist betroffen, welches Ergebnis wird gebraucht?
-2. Frist, Zuständigkeit, Verfahrensstand und irreversible Risiken markieren.
-3. Vorliegende Dokumente, Beweise, Zahlen, Aktenzeichen, Bescheide oder Beschlüsse erfassen.
-4. Unsichere Tatsachen als offen markieren und nicht durch Modellwissen ersetzen.
-5. Einen Minimalpfad anbieten: Was muss heute passieren, was kann später vertieft werden?
+1. Rolle, Ziel und Entscheidungsdruck klären.
+2. Verfahrensstand, Fristen, Zuständigkeit und irreversible Risiken markieren.
+3. Aktenbasis ordnen: sichere Tatsachen, bestrittene Tatsachen, fehlende Unterlagen.
+4. Eingriffsintensität, Berufs-/Amtsgeheimnisse, Datenschutz und Persönlichkeitsrechte sichtbar machen.
+5. Sofortpfad anbieten: Was muss heute entschieden, beantragt, beantwortet oder dokumentiert werden?
 
-## Prüf- und Arbeitslogik
+## Prüfprogramm
 
-- **Normenanker:** BNotO, BeurkG, DONot, GNotKG, GwG, Landesrecht und Kammer-/Dienstaufsichtshinweise live prüfen
-- **Tatsachenarbeit:** sichere Tatsachen, streitige Tatsachen, fehlende Unterlagen und Beweisprobleme trennen.
-- **Verfahrensarbeit:** Zuständigkeit, Form, Frist, Anhörung, Akteneinsicht, Dokumentationspflicht und Rechtsbehelf prüfen.
-- **Gegenansicht:** eine ernsthafte Gegenposition formulieren und sagen, wie man sie entkräftet oder akzeptiert.
-- **Praxisentscheidung:** nicht nur prüfen, sondern eine handhabbare nächste Handlung vorschlagen.
-
-## Normen & Rechtsprechung
-
-Konkret zu prüfen:
-
-- § 14 BNotO (Amtspflichten)
-- § 17 BeurkG (Belehrungspflicht)
-- § 95 BNotO (Disziplinarmaßnahmen)
-
----
-
-## Skill: `kooperation-mit-anderen-berufen`
-
-_Wenn es um Kooperation mit anderen Berufen in Berufsrecht Notare geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt._
-
-# Kooperation mit anderen Berufen
-
-## Normenanker
-
-Vor einer rechtlichen Schlussfolgerung diese Anker am aktuellen Normtext prüfen; Spezial- und Landesrecht nur hinzunehmen, wenn es den konkreten Auftrag traegt:
-
-- `§ 14 Abs. 1 BNotO` — notarielle Amtspflichten.
-- `§ 17 Abs. 1 BeurkG` — Belehrung und Erforschung des Willens.
-- `§ 13 BeurkG` — Vorlesen, Genehmigen, Unterschreiben.
-- `§ 40 BeurkG` — Beglaubigung einer Unterschrift.
-- `§ 53 BeurkG` — Vollzugspflichten.
-- `§ 54a BeurkG` — Verwahrung und Auszahlung.
-- `§ 130a ZPO` — elektronische Dokumente als Schnittstelle.
-- `§ 29 Abs. 1 GBO` — grundbuchtaugliche Form.
-- `§ 12 HGB` — Registereinreichung.
-- `§ 40 GmbHG` — Gesellschafterliste.
-
-Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei prüfbare Quelle vorliegen; keine BeckRS-/juris-Blindzitate verwenden.
-
-## Arbeitsweg
-
-- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
-- Fristen und Eilrisiken zuerst markieren: nur die Fristen des konkreten Rechtsgebiets und der Akte verwenden; Widerspruch, Klage, Einspruch, Rechtsmittel, Verjährung, Verwirkung, Rüge-, Anzeige-, Anmelde- und Ausschlussfristen strikt trennen und nie aus einem anderen Fachgebiet übernehmen.
-- Tragende Normen verifizieren: BRAO, BORA, FAO, BNotO, StBerG, WPO, PAO; BeurkG — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
-- Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
-- Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
-
-## Fachkern: Kooperation mit anderen Berufen
-- **Normen-/Quellenanker:** BNotO, BeurkG, DONot, GNotKG, GwG, Neutralität, Belehrung, Verwahrung, Dienstaufsicht und Notarbeschwerde.
-- **Entscheidende Weiche:** Amtsrolle, Beteiligteninteresse, Beurkundungs-/Vollzugsfehler, Treuhand, Dienstaufsicht, Kosten und Rechtsmittel trennen.
-- **Arbeitsprodukt:** Liefere eine fallbezogene `Norm / Tatsache / Beleg / Wertung / Gegenargument / nächster Schritt`-Matrix und einen direkt nutzbaren Textbaustein, wenn der Nutzer einen Entwurf braucht.
-
-## Kaltstart in fünf Schritten
-
-1. Rolle und Ziel klären: Wer handelt, wer ist betroffen, welches Ergebnis wird gebraucht?
-2. Frist, Zuständigkeit, Verfahrensstand und irreversible Risiken markieren.
-3. Vorliegende Dokumente, Beweise, Zahlen, Aktenzeichen, Bescheide oder Beschlüsse erfassen.
-4. Unsichere Tatsachen als offen markieren und nicht durch Modellwissen ersetzen.
-5. Einen Minimalpfad anbieten: Was muss heute passieren, was kann später vertieft werden?
-
-## Prüf- und Arbeitslogik
-
-- **Normenanker:** BNotO, BeurkG, DONot, GNotKG, GwG, Landesrecht und Kammer-/Dienstaufsichtshinweise live prüfen
-- **Tatsachenarbeit:** sichere Tatsachen, streitige Tatsachen, fehlende Unterlagen und Beweisprobleme trennen.
-- **Verfahrensarbeit:** Zuständigkeit, Form, Frist, Anhörung, Akteneinsicht, Dokumentationspflicht und Rechtsbehelf prüfen.
-- **Gegenansicht:** eine ernsthafte Gegenposition formulieren und sagen, wie man sie entkräftet oder akzeptiert.
-- **Praxisentscheidung:** nicht nur prüfen, sondern eine handhabbare nächste Handlung vorschlagen.
+- **Normenanker:** BNotO, BeurkG, DONot, GNotKG, GwG, Dienstaufsicht, notarielle Rechtsprechung und Landesjustizverwaltung live prüfen
+- **Tatsachenarbeit:** Beweisquelle, Beweiswert, Gegenbeweis, Dokumentationslücke und mögliche Fehlinterpretation trennen.
+- **Verfahrensarbeit:** Form, Frist, Zuständigkeit, Anhörung, Akteneinsicht, Rechtsbehelf und Zustellungsweg prüfen.
+- **Gegenposition:** Die stärkste Gegenansicht formulieren und sagen, was sie praktisch bedeutet.
+- **Entscheidung:** Eine vertretbare Handlungsempfehlung mit Risikoampel und nächstem Schritt liefern.
 
 ## Normen & Rechtsprechung
 

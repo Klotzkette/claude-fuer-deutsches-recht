@@ -1,6 +1,6 @@
 ---
 name: marketplace-vergleich-vorschlagen
-description: "Wenn es um Marketplace Vergleich Vorschlagen in Verbraucherschutzrecht Prüfer geht: entwickelt Verhandlungsziel, Vergleichskorridor und Eskalationspfad; liefert eine Verhandlungs- oder Eskalationslinie mit Optionen."
+description: "Für Marketplace Vergleich Vorschlagen: entwickelt Ziel, Vergleich und Eskalation; Ergebnis: Verhandlungs- oder Eskalationslinie."
 ---
 
 # Marketplace Vergleich Vorschlagen

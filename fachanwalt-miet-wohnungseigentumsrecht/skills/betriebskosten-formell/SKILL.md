@@ -1,6 +1,6 @@
 ---
 name: betriebskosten-formell
-description: "Wenn es um Betriebskosten Formell in Fachanwalt Miet- und Wohnungseigentumsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Betriebskosten Formell: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Formelle Ordnung der Betriebskostenabrechnung: Mindestangaben nach BGH VIII ZR 84/07, Abrechnungseinheit, Gesamtkosten, Verteilerschlüssel, Mieteranteil, Vorauszahlungen, Saldo, Zugang und Abgrenzung zu bloß materiellen Fehlern.
@@ -70,3 +70,7 @@ Zitiere als tragenden Anker BGH, Urteil vom 09.04.2008 - VIII ZR 84/07 nur mit f
 - BGH, Urteil vom 9. April 2008 - VIII ZR 84/07: Ein aus sich heraus unverständlicher Verteilerschlüssel ist ein formeller Mangel.
 - BGH, Urteil vom 9. Dezember 2020 - VIII ZR 118/19: Die Belegeinsicht erstreckt sich auch auf Zahlungsbelege.
 - BGH, Urteil vom 25. Januar 2017 - VIII ZR 249/15: Der ausstehende WEG-Beschluss über die Jahresabrechnung verschiebt die mietrechtliche Abrechnungsfrist grundsätzlich nicht.
+
+## Vertiefung bei Bedarf
+
+- Bei `spezial-betriebskosten-formell` beziehungsweise Betriebskosten formelle Ordnung: [die zusätzliche Vertiefung laden](./references/vertiefung-spezial-betriebskosten-formell.md).

@@ -1,6 +1,6 @@
 ---
 name: 10-entscheidungsvorschlag-sozialgericht
-description: "Wenn es um 10 Entscheidungsvorschlag Sozialgericht in Sozialgericht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Beweislast- und Substantiierungsmatrix."
+description: "Für 10 Entscheidungsvorschlag Sozialgericht: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # 10 Entscheidungsvorschlag Sozialgericht

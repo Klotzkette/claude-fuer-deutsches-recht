@@ -1,6 +1,6 @@
 ---
 name: kaltstart-triage
-description: "Wenn es um Rechtsabteilung-Kommandocenter in Bank-Rechtsabteilung geht: klärt Rolle, Ziel, Frist, Unterlagen und den passenden nächsten Fachskill; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Rechtsabteilung-Kommandocenter: routet Rolle, Frist, Unterlagen und Fachschritt; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Rechtsabteilung-Kommandocenter

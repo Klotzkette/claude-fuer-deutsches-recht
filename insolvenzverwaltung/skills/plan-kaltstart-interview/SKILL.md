@@ -1,6 +1,6 @@
 ---
 name: plan-kaltstart-interview
-description: "Wenn es um IV-integrierte Kaltstart-Interview in Insolvenzverwaltung - IV-Cockpit geht: klärt Rolle, Ziel, Frist, Unterlagen und den passenden nächsten Fachskill; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für IV-integrierte Kaltstart-Interview: routet Rolle, Frist, Unterlagen und Fachschritt; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # IV-integrierte Kaltstart-Interview

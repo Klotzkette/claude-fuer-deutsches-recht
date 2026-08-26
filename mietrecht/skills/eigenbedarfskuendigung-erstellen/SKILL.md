@@ -1,6 +1,6 @@
 ---
 name: eigenbedarfskuendigung-erstellen
-description: "Wenn es um Eigenbedarfskündigung erstellen (Vermieter / Hausverwaltung) in Mietrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Eigenbedarfskündigung erstellen (Vermieter / Hausverwaltung): ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Eigenbedarfskündigung erstellen (Vermieter / Hausverwaltung)

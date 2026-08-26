@@ -1,6 +1,6 @@
 ---
 name: nichtigkeit-und-rechtswidrigkeit-40-44-sgb-x
-description: "Wenn es um Nichtigkeit Und Rechtswidrigkeit 40 44 Sgb X in selbstvertreter-sozialgericht geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
+description: "Für Nichtigkeit und Rechtswidrigkeit 40 44 SGB X: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Nichtigkeit Und Rechtswidrigkeit 40 44 Sgb X

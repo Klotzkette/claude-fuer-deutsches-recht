@@ -1,6 +1,6 @@
 ---
 name: abmahnung-reagieren
-description: "Wenn es um Abmahnung Reagieren in AGB-Recht-Prüfer geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Dokumentenmatrix mit Nachforderungsliste."
+description: "Für Abmahnung Reagieren: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Abmahnung Reagieren

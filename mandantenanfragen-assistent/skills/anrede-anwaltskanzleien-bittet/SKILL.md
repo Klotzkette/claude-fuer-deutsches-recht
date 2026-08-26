@@ -1,6 +1,6 @@
 ---
 name: anrede-anwaltskanzleien-bittet
-description: "Wenn es um Anrede: Verhandlung, Vergleich und Eskalation in mandantenanfragen-assistent geht: entwickelt Verhandlungsziel, Vergleichskorridor und Eskalationspfad; liefert eine Verhandlungs- oder Eskalationslinie mit Optionen."
+description: "Für Anrede: Verhandlung, Vergleich und Eskalation: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Anrede: Verhandlung, Vergleich und Eskalation

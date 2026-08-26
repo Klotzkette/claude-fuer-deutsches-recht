@@ -1,6 +1,6 @@
 ---
 name: versagung-restschuldbefreiung
-description: "Wenn es um Versagung Restschuldbefreiung in Verbraucherinsolvenz und Schuldenbereinigung geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Versagung Restschuldbefreiung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Versagungsgründe: falsche Angaben, unangemessene Verbindlichkeiten, Verletzung von Auskunfts-/Mitwirkungspflichten.

@@ -1,6 +1,6 @@
 ---
 name: klaeren-compliance-dokumentation-aktenvermerk
-description: "Wenn es um Klären: Compliance-Dokumentation und Aktenvermerk in Einfache und Leichte Sprache für juristische Texte geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Klären: Compliance-Dokumentation und Aktenvermerk: ordnet Akte, Belege und Lücken; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt. Fachgebiet: Einfache und Leichte Sprache für juristische Texte. Route: klaeren-compliance-dokumentation-aktenvermerk."
 ---
 
 # Klären: Compliance-Dokumentation und Aktenvermerk

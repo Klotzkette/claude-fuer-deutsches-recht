@@ -1,6 +1,6 @@
 ---
 name: workflow-first-year-associate-mietrecht
-description: "Wenn es um First-Year-Associate-Coach Mietrecht: Prüfungslinie für Miet- und WEG-Recht in Fachanwalt Miet- und Wohnungseigentumsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für First-Year-Associate-Coach Mietrecht: Prüfungslinie für Miet- und WEG-Recht: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # First-Year-Associate-Coach Mietrecht: Prüfungslinie für Miet- und WEG-Recht

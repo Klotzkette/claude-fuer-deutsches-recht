@@ -1,6 +1,6 @@
 ---
 name: formular-ausfuellen-hilfe
-description: "Wenn es um Formular Ausfuellen Hilfe in Juristische Sprache Deutsch als Zweitsprache geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Formular Ausfüllen Hilfe: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Einreichungsplan mit Form- und Nachweischeck."
 ---
 
 # Formular Ausfuellen Hilfe

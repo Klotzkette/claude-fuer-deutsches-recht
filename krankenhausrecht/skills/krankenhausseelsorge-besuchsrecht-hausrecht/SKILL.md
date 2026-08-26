@@ -1,6 +1,6 @@
 ---
 name: krankenhausseelsorge-besuchsrecht-hausrecht
-description: "Wenn es um Krankenhausseelsorge Besuchsrecht Hausrecht in Krankenhausrecht geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
+description: "Für Krankenhausseelsorge Besuchsrecht Hausrecht: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Krankenhausseelsorge Besuchsrecht Hausrecht

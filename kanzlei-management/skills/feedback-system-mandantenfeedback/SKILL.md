@@ -1,6 +1,6 @@
 ---
 name: feedback-system-mandantenfeedback
-description: "Wenn es um Feedbacksystem ohne Theater in Kanzlei Management geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Feedbacksystem ohne Theater: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Feedbacksystem ohne Theater

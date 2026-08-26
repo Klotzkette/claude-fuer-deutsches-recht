@@ -1,6 +1,6 @@
 ---
 name: agb-kontrolle-klauseln
-description: "Wenn es um AGB-Kontrolle Klauseln in Bauträgervertragspruefer geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für AGB-Kontrolle Klauseln: prüft Ergebnis, Beweislast und Gegenposition; Ergebnis: Gegenprüfung mit Beweis- und Fristencheck."
 ---
 
 # AGB-Kontrolle Klauseln

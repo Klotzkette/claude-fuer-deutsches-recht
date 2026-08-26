@@ -1,6 +1,6 @@
 ---
 name: vendor-due-diligence-vdd
-description: "Wenn es um Vendor Due Diligence Vdd in Großkanzlei Corporate/M&A geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Vendor Due Diligence Vdd: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Vendor Due Diligence und Vendor Assistance: strukturiert Sell-side-Prüfung, Datenraumreife, Legal Fact Book, Issue Remediation und Bieterkommunikation.

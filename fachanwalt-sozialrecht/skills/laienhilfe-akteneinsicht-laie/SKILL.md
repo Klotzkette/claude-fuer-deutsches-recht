@@ -1,6 +1,6 @@
 ---
 name: laienhilfe-akteneinsicht-laie
-description: "Wenn es um Laienhilfe: Akteneinsicht Laie in Fachanwalt Sozialrecht geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
+description: "Für Laienhilfe: Akteneinsicht Laie: ordnet Akte, Belege und Lücken; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Laienhilfe: Akteneinsicht Laie

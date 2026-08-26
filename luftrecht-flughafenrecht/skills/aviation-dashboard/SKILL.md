@@ -1,6 +1,6 @@
 ---
 name: aviation-dashboard
-description: "Wenn es um Aviation Dashboard – Lageüberblick Airline und Flughafen in Luftrecht und Flughafenrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Aviation Dashboard – Lageüberblick Airline und Flughafen: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Aviation Dashboard – Lageüberblick Airline und Flughafen

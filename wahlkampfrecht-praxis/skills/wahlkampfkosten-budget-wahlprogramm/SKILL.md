@@ -1,6 +1,6 @@
 ---
 name: wahlkampfkosten-budget-wahlprogramm
-description: "Wenn es um Wahlkampfkosten Budget in Wahlkampfrecht Praxis geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Wahlkampfkosten Budget: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Wahlkampfkosten Budget

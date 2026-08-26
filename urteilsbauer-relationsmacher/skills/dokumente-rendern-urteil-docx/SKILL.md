@@ -1,6 +1,6 @@
 ---
 name: dokumente-rendern-urteil-docx
-description: "Wenn es um Urteil rendern - DOCX und PDF im Gerichtslayout in Urteilsbauer und Relationsmacher geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Urteil rendern - DOCX und PDF im Gerichtslayout: ordnet Akte, Belege und Lücken; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Urteil rendern - DOCX und PDF im Gerichtslayout

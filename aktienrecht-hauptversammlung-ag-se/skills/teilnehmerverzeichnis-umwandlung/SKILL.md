@@ -1,6 +1,6 @@
 ---
 name: teilnehmerverzeichnis-umwandlung
-description: "Wenn es um Teilnehmerverzeichnis in Hauptversammlung AG und SE geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Teilnehmerverzeichnis: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Teilnehmerverzeichnis

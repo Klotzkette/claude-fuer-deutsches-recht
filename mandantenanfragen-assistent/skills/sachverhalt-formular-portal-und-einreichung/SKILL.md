@@ -1,6 +1,6 @@
 ---
 name: sachverhalt-formular-portal-und-einreichung
-description: "Wenn es um Sachverhalt: Formular, Portal und Einreichungslogik in mandantenanfragen-assistent geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Sachverhalt: Formular, Portal und Einreichungslogik: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Einreichungsplan mit Form- und Nachweischeck."
 ---
 
 # Sachverhalt: Formular, Portal und Einreichungslogik

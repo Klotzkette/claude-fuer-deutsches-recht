@@ -1,6 +1,6 @@
 ---
 name: strassenreinigung-aufsichtsbeschwerde
-description: "Wenn es um Strassenreinigung Aufsichtsbeschwerde in Kommunalrecht der Länder geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Strassenreinigung Aufsichtsbeschwerde: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Strassenreinigung Aufsichtsbeschwerde

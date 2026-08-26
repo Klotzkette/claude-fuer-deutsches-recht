@@ -1,6 +1,6 @@
 ---
 name: textform-vs-schriftform-vs-notariell
-description: "Wenn es um Textform vs. Schriftform vs. Notarielle Beurkundung in Wandeldarlehen-Lebenszyklus geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
+description: "Für Textform vs. Schriftform vs. Notarielle Beurkundung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Textform vs. Schriftform vs. Notarielle Beurkundung

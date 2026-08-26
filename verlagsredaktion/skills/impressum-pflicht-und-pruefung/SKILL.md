@@ -1,6 +1,6 @@
 ---
 name: impressum-pflicht-und-pruefung
-description: "Wenn es um Impressums-Pflicht und Prüfung in Verlagsredaktion geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Impressums-Pflicht und Prüfung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Tatbestands- oder Anspruchsmatrix. Fachgebiet: Verlagsredaktion. Route: impressum-pflicht-und-pruefung."
 ---
 
 # Impressums-Pflicht und Prüfung

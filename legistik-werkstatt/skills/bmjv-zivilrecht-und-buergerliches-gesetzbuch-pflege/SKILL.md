@@ -1,6 +1,6 @@
 ---
 name: bmjv-zivilrecht-und-buergerliches-gesetzbuch-pflege
-description: "Wenn es um Zivilrecht und BGB-Pflege (BMJV) in Legistik-Werkstatt geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen. Auswahlstichwort: Bmjv Zivilrecht Und Buergerliches Gesetzbuch Pflege; Arbeitsfeld: Legistik-Werkstatt."
+description: "Für Zivilrecht und BGB-Pflege (BMJV): ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt. Fachgebiet: Legistik-Werkstatt. Route: bmjv-zivilrecht-und-buergerliches-gesetzbuch-pflege."
 ---
 
 # Zivilrecht und BGB-Pflege (BMJV)

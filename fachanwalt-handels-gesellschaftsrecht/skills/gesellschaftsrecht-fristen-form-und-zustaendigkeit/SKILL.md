@@ -1,6 +1,6 @@
 ---
 name: gesellschaftsrecht-fristen-form-und-zustaendigkeit
-description: "Wenn es um Gesellschaftsrecht Fristen Form Und Zuständigkeit in Fachanwalt Handels- und Gesellschaftsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Gesellschaftsrecht Fristen Form und Zuständigkeit: prüft Frist, Form, Zuständigkeit und Eilbedarf; Ergebnis: Fristen- und Risikoampel."
 ---
 
 # Gesellschaftsrecht: Fristen, Form, Zuständigkeit und Rechtsweg im Handels- und Gesellschaftsrecht: fachlich vertieftes Modul mit Normenradar (HGB/GmbHG/AktG/UmwG), Tatbestands-/Beweislastmatrix, Fristen- und Formcheck, Gegenargumenten, Fehlerbremse und direkt nutzbarem Arbeitsprodukt.
@@ -42,3 +42,7 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 3. **Fristen prüfen:** Anfechtung Hauptversammlungs- und Gesellschafterbeschlüsse § 246 AktG 1 Monat / GmbH analog BGH ständige Rechtsprechung; Insolvenzantragspflicht § 15a InsO 3 Wochen Zahlungsunfähigkeit, 6 Wochen Überschuldung; Handelsvertreterausgleich § 89b HGB 1 Jahr Geltendmachung ab Vertragsende; Anmeldung GmbH-Gründung § 7 GmbHG unverzüglich nach Mindesteinzahlung.
 4. **Zuständigkeit klären:** Erstinstanzlich für gesellschaftsrechtliche Streitigkeiten Landgericht Kammer für Handelssachen (§§ 93 ff. GVG); Registergericht Amtsgericht (§ 8 HGB); Insolvenzgericht Amtsgericht am Sitz (§ 3 InsO); MoPeG GbR-Streitigkeiten ohne Handelsregisterbezug ggf. nur Streitwert-zuständig (§ 23 GVG ab 10.000 EUR Landgericht seit Justizstandort-Stärkungsgesetz).
 5. **Anschluss:** Bei Eilbedarf Antrag auf Registersperre § 16 Abs. 1 HGB / einstweilige Verfügung; bei Vertragsstreit Mahn- oder Stufenklage (§ 254 ZPO) für Auskunfts- und Zahlungsanspruch.
+
+## Vertiefung bei Bedarf
+
+- Bei `spezial-gesellschaftsrecht-fristen-form-und-zustaendigkeit` beziehungsweise Gesellschaftsrecht: Fristen, Form, Zuständigkeit und Rechtsweg: [die zusätzliche Vertiefung laden](./references/vertiefung-spezial-gesellschaftsrecht-fristen-form-und-zustaendigkeit.md).

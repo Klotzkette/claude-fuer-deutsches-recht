@@ -1,6 +1,6 @@
 ---
 name: financial-debt-net-debt-working-capital
-description: "Wenn es um Financial Debt, Net Debt und Working Capital in Didaktisches Gesellschaftsrecht — English Business Terms geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
+description: "Für Financial Debt, Net Debt und Working Capital: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Financial Debt, Net Debt und Working Capital

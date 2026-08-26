@@ -1,6 +1,6 @@
 ---
 name: vertraegen-dokumentenmatrix-lueckenliste
-description: "Wenn es um Verträgen: Dokumentenmatrix, Lückenliste und Nachforderung in diesem Spezialbereich geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Verträgen: Dokumentenmatrix, Lückenliste und Nachforderung: ordnet Akte, Belege und Lücken; Ergebnis: Dokumentenmatrix mit Nachforderungsliste. Fachgebiet: anwaltlichem Berufsrecht und Vertragsprüfung. Route: vertraegen-dokumentenmatrix-lueckenliste."
 ---
 
 # Verträgen: Dokumentenmatrix, Lückenliste und Nachforderung

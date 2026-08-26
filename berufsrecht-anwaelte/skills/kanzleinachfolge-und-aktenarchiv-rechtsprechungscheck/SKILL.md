@@ -1,6 +1,6 @@
 ---
 name: kanzleinachfolge-und-aktenarchiv-rechtsprechungscheck
-description: "Wenn es um Kanzleinachfolge Und Aktenarchiv Rechtsprechungscheck in Berufsrecht Anwälte geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Gegenprüfung mit Fehler-, Beweis- und Fristencheck."
+description: "Für Kanzleinachfolge und Aktenarchiv Rechtsprechungscheck: ordnet Akte, Belege und Lücken; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Anwälte: kanzleinachfolge und aktenarchiv - Rechtsprechungscheck, stärkste Gegenansicht und Red-Team-Korrektur

@@ -1,6 +1,6 @@
 ---
 name: augenscheinsbeweis-371-zpo
-description: "Wenn es um Augenscheinsbeweis: Wenn das Gericht selbst sehen muss in selbstvertreter-amtsgericht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Augenscheinsbeweis: Wenn das Gericht selbst sehen muss: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Beweislast- und Substantiierungsmatrix."
 ---
 
 # Augenscheinsbeweis: Wenn das Gericht selbst sehen muss

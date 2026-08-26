@@ -1,6 +1,6 @@
 ---
 name: bess-brandschutz-co-location-datenschutz
-description: "Wenn es um Brandschutz und Feuerwehrkonzept Lithium-Ionen-Speicher in Energierecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Brandschutz und Feuerwehrkonzept Lithium-Ionen-Speicher: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Brandschutz und Feuerwehrkonzept Lithium-Ionen-Speicher

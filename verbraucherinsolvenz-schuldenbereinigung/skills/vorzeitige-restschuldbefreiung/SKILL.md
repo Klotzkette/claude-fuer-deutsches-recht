@@ -1,6 +1,6 @@
 ---
 name: vorzeitige-restschuldbefreiung
-description: "Wenn es um Vorzeitige Restschuldbefreiung: Kosten, Gläubigerbefriedigung, Anträge und Timing. in Verbraucherinsolvenz und Schuldenbereinigung geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
+description: "Für Vorzeitige Restschuldbefreiung: Kosten, Gläubigerbefriedigung, Anträge und Timing: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Vorzeitige Restschuldbefreiung: Kosten, Gläubigerbefriedigung, Anträge und Timing.

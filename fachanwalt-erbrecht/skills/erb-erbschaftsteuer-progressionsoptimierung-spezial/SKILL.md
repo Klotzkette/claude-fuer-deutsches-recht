@@ -1,6 +1,6 @@
 ---
 name: erb-erbschaftsteuer-progressionsoptimierung-spezial
-description: "Wenn es um Erb Erbschaftsteuer Progressionsoptimierung Spezial in Fachanwalt Erbrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Erb Erbschaftsteuer Progressionsoptimierung Spezial: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Schnittstellenkarte mit Zuständigkeits- und Nachweisfragen."
 ---
 
 # Spezialfall Erbschaftsteuer-Optimierung: Freibetraege § 16 ErbStG, Steuerklassen I / II / III, Bewertung Betriebsvermoegen §§ 13a / 13b ErbStG, Familienheim § 13 ErbStG

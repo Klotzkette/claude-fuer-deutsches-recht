@@ -1,6 +1,6 @@
 ---
 name: ueberforderung-verhinderung-und-abgabe
-description: "Wenn es um Überforderung, Verhinderung und Abgabe in Betreuungsrecht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen."
+description: "Für Überforderung, Verhinderung und Abgabe: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Überforderung, Verhinderung und Abgabe

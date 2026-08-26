@@ -1,6 +1,6 @@
 ---
 name: notenrelevante-saetze-identifizieren
-description: "Wenn es um Notenrelevante Sätze identifizieren in Arbeitszeugnis-Analyse geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Notenrelevante Sätze identifizieren: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Notenrelevante Sätze identifizieren

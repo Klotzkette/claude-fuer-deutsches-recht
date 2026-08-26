@@ -1,6 +1,6 @@
 ---
 name: wiedereinsetzung-frist-233-zpo
-description: "Wenn es um Wiedereinsetzung: Wenn Sie eine Frist versaeumt haben in selbstvertreter-amtsgericht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Wiedereinsetzung: Wenn Sie eine Frist versäumt haben: prüft Frist, Form, Zuständigkeit und Eilbedarf; Ergebnis: Fristen- und Risikoampel."
 ---
 
 # Wiedereinsetzung: Wenn Sie eine Frist versaeumt haben

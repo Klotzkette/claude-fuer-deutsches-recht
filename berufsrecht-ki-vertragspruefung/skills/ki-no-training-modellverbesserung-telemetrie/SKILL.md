@@ -1,6 +1,6 @@
 ---
 name: ki-no-training-modellverbesserung-telemetrie
-description: "Wenn es um No-Training, Modellverbesserung und Telemetrie in anwaltlichem Berufsrecht und Vertragsprüfung geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen."
+description: "Für No-Training, Modellverbesserung und Telemetrie: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # No-Training, Modellverbesserung und Telemetrie

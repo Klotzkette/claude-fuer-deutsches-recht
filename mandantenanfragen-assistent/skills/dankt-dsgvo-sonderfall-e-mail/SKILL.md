@@ -1,6 +1,6 @@
 ---
 name: dankt-dsgvo-sonderfall-e-mail
-description: "Wenn es um Dankt: Risikoampel, Gegenargumente und Verteidigungslinien in mandantenanfragen-assistent geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Dankt: Risikoampel, Gegenargumente und Verteidigungslinien: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Dankt: Risikoampel, Gegenargumente und Verteidigungslinien

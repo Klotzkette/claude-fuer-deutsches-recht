@@ -1,6 +1,6 @@
 ---
 name: daseinsvorsorge-und-markt
-description: "Wenn es um Daseinsvorsorge Und Markt in Öffentliches Wirtschaftsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Daseinsvorsorge und Markt: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Daseinsvorsorge Und Markt

@@ -1,6 +1,6 @@
 ---
 name: strafrecht-spezial-koerperverletzung-223-stgb-grund
-description: "Wenn es um Koerperverletzung nach Paragraf 223 StGB Grundtatbestand in Fachanwalt Strafrecht geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
+description: "Für Körperverletzung nach Paragraf 223 StGB Grundtatbestand: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Koerperverletzung nach § 223 StGB Grundtatbestand

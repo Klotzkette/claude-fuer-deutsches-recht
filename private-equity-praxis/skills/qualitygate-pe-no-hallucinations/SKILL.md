@@ -1,6 +1,6 @@
 ---
 name: qualitygate-pe-no-hallucinations
-description: "Wenn es um Qualitygate: keine PE-Halluzinationen in Private Equity Praxis geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Qualitygate: keine PE-Halluzinationen: prüft Ergebnis, Beweislast und Gegenposition; Ergebnis: Gegenprüfung mit Beweis- und Fristencheck."
 ---
 
 # Qualitygate: keine PE-Halluzinationen

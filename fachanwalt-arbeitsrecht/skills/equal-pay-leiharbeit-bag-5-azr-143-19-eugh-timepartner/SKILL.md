@@ -1,6 +1,6 @@
 ---
 name: equal-pay-leiharbeit-bag-5-azr-143-19-eugh-timepartner
-description: "Prüft Equal Pay in der Arbeitnehmerüberlassung anhand von Paragraf 8 AÜG, Tariföffnung, Überlassungsdauer, Vergleichsentgelt und Gesamtschutz. Berechnet die Entgeltdifferenz periodengenau und erstellt Auskunfts-, Zahlungs- oder Verteidigungsbausteine ohne die TimePartner-Entscheidung in ihr Gegenteil zu verkehren."
+description: "Prüft Equal Pay in der Arbeitnehmerüberlassung anhand von Paragraf 8 AÜG, Tariföffnung, Überlassungsdauer, Vergleichsentgelt und Gesamtschutz."
 ---
 
 # Equal Pay bei Leiharbeit prüfen

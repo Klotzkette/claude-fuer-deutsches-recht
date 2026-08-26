@@ -1,6 +1,6 @@
 ---
 name: ein-041-mauergrundstueck-anspruchspfad-pruefen
-description: "Wenn es um Mauergrundstueck Anspruchspfad Pruefen in Einigungsvertrag und Vermögensrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Mauergrundstück Anspruchspfad Prüfen: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Tatbestands- oder Anspruchsmatrix. Fachgebiet: Einigungsvertrag und Vermögensrecht. Route: ein-041-mauergrundstueck-anspruchspfad-pruefen."
 ---
 
 # Mauergrundstueck Anspruchspfad Pruefen

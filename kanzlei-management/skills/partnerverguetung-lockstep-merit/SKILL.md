@@ -1,6 +1,6 @@
 ---
 name: partnerverguetung-lockstep-merit
-description: "Wenn es um Partnervergütung Lockstep Merit Hybrid in Kanzlei Management geht: entwickelt Verhandlungsziel, Vergleichskorridor und Eskalationspfad; liefert eine Verhandlungs- oder Eskalationslinie mit Optionen."
+description: "Für Partnervergütung Lockstep Merit Hybrid: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Partnervergütung Lockstep Merit Hybrid

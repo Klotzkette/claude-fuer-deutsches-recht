@@ -1,6 +1,6 @@
 ---
 name: bess-rechtsmittel-und-nachbarabwehr
-description: "Wenn es um Rechtsmittel, Nachbarabwehr und Eilrechtsschutz in Energierecht geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
+description: "Für Rechtsmittel, Nachbarabwehr und Eilrechtsschutz: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Rechtsmittel, Nachbarabwehr und Eilrechtsschutz

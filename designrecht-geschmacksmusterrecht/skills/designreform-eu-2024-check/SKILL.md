@@ -1,6 +1,6 @@
 ---
 name: designreform-eu-2024-check
-description: "Wenn es um Designreform Eu 2024 Check in designrecht-geschmacksmusterrecht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen."
+description: "Für Designreform Eu 2024 Check: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Schnittstellenkarte mit Zuständigkeits- und Nachweisfragen."
 ---
 
 # Designreform Eu 2024 Check

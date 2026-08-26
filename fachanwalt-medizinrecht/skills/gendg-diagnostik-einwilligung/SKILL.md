@@ -1,6 +1,6 @@
 ---
 name: gendg-diagnostik-einwilligung
-description: "Wenn es um Gendg Diagnostik Einwilligung in Fachanwalt Medizinrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Gendg Diagnostik Einwilligung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # GenDG Diagnostik und Einwilligung: moderner Medizinrechts-Skill für Diagnostische genetische Untersuchung, Schriftlichkeit, Arztvorbehalt und Befundkommunikation

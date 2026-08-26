@@ -1,6 +1,6 @@
 ---
 name: auslaendische-mutter-und-deutsche-tochter
-description: "Wenn es um Ausländische Mutter und deutsche Tochter in Datenschutz-Sanktionsverfahren und Verteidigung geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen."
+description: "Für Ausländische Mutter und deutsche Tochter: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Schnittstellenkarte mit Zuständigkeits- und Nachweisfragen."
 ---
 
 # Ausländische Mutter und deutsche Tochter

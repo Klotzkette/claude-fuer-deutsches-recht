@@ -1,6 +1,6 @@
 ---
 name: 015-byzantinisches-prozessrecht
-description: "Wenn es um Römisches Recht: Byzantinisches Prozessrecht Richter Kanzlei und Petition in Römisches Recht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Römisches Recht: Byzantinisches Prozessrecht Richter Kanzlei und Petition: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Römisches Recht: Byzantinisches Prozessrecht Richter Kanzlei und Petition

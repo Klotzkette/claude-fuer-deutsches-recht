@@ -1,6 +1,6 @@
 ---
 name: rechtsprechung-livecheck-fristlose-kuendigung
-description: "Wenn es um Rechtsprechungs-Livecheck BGH und EuGH zum Handelsvertreterrecht in Handelsvertreterrecht und Vertriebsverträge geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Rechtsprechungs-Livecheck BGH und EuGH zum Handelsvertreterrecht: prüft Frist, Form, Zuständigkeit und Eilbedarf; Ergebnis: Fristen- und Risikoampel."
 ---
 
 # Rechtsprechungs-Livecheck BGH und EuGH zum Handelsvertreterrecht

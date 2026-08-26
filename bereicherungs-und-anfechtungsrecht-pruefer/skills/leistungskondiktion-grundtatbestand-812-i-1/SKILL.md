@@ -1,6 +1,6 @@
 ---
 name: leistungskondiktion-grundtatbestand-812-i-1
-description: "Wenn es um Leistungskondiktion — Grundtatbestand Paragraf 812 Abs. 1 S. 1 Alt. 1 BGB in bereicherungs-und-anfechtungsrecht-prüfer geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Tatbestands- oder Anspruchsmatrix mit Gegenargumenten. Auswahlstichwort: Leistungskondiktion Grundtatbestand 812 I 1; Arbeitsfeld: bereicherungs-und-anfechtungsrecht-prüfer."
+description: "Für Leistungskondiktion — Grundtatbestand Paragraf 812 Abs. 1 S. 1 Alt. 1 BGB: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Tatbestands- oder Anspruchsmatrix. Fachgebiet: bereicherungs-und-anfechtungsrecht-prüfer. Route: leistungskondiktion-grundtatbestand-812-i-1."
 ---
 
 # Leistungskondiktion — Grundtatbestand § 812 Abs. 1 S. 1 Alt. 1 BGB

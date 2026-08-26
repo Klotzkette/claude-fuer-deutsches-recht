@@ -1,6 +1,6 @@
 ---
 name: mobbing-fuersorgepflicht-bundeswehr
-description: "Wenn es um Mobbing und Fürsorgepflicht Bundeswehr in Bundeswehrrecht und Wehrrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Mobbing und Fürsorgepflicht Bundeswehr: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Mobbing und Fürsorgepflicht Bundeswehr

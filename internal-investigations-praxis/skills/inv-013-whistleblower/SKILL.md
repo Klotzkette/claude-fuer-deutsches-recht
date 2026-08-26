@@ -1,6 +1,6 @@
 ---
 name: inv-013-whistleblower
-description: "Wenn es um Hinweisgeber und Retaliation in Internal Investigations Praxis geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Hinweisgeber und Retaliation: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Hinweisgeber und Retaliation

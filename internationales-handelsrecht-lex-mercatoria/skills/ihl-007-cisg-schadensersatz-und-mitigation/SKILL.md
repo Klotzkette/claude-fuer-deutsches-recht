@@ -1,6 +1,6 @@
 ---
 name: ihl-007-cisg-schadensersatz-und-mitigation
-description: "Wenn es um CISG Schadensersatz Und Mitigation in Internationales Handelsrecht und Lex Mercatoria geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für CISG Schadensersatz und Mitigation: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # CISG Schadensersatz Und Mitigation

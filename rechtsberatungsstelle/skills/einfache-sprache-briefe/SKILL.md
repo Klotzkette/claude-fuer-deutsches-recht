@@ -1,6 +1,6 @@
 ---
 name: einfache-sprache-briefe
-description: "Wenn es um [VERALTET] Verständliche Mandantenbriefe → siehe `/mandantenbrief` und `/status mandant` in Plugin für die studentische Rechtsberatungsstelle geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
+description: "Für [VERALTET] Verständliche Mandantenbriefe → siehe `/mandantenbrief` und `/status mandant`: erstellt Entwurf mit Antrag, Beweis und Anlagen; Ergebnis: Schriftsatz mit Begründungs- und Anlagenlogik."
 ---
 
 # [VERALTET] Verständliche Mandantenbriefe → siehe `/mandantenbrief` und `/status mandant`

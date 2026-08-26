@@ -1,6 +1,6 @@
 ---
 name: mandantenkommunikation-redteam
-description: "Wenn es um Mandantenkommunikation in Memorandums-Ersteller geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert eine Mandantennachricht oder Entscheidungsvorlage."
+description: "Für Mandantenkommunikation: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Mandantennachricht oder Entscheidungsvorlage. Fachgebiet: Memorandums-Ersteller."
 ---
 
 # Mandantenkommunikation

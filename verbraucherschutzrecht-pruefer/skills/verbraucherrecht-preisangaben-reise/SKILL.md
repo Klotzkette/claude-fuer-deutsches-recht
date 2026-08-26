@@ -1,6 +1,6 @@
 ---
 name: verbraucherrecht-preisangaben-reise
-description: "Wenn es um Verbraucherrecht Preisangaben Reise in Verbraucherschutzrecht Prüfer geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert eine Beweislast- und Substantiierungsmatrix."
+description: "Für Verbraucherrecht Preisangaben Reise: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Preisangaben, Omnibus und Dark Patterns: Grundpreis, Streichpreis, Ranking, Zusatzkosten und manipulative Gestaltung.

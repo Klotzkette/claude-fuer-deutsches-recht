@@ -1,6 +1,6 @@
 ---
 name: 1-gwb-kartellverbot-nationale-pruefung
-description: "Wenn es um Paragraf 1 GWB Kartellverbot nationale Prüfung in Kartellrecht — Marktabgrenzungsprüfung geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen."
+description: "Für Paragraf 1 GWB Kartellverbot nationale Prüfung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Tatbestands- oder Anspruchsmatrix."
 ---
 
 # § 1 GWB Kartellverbot nationale Prüfung

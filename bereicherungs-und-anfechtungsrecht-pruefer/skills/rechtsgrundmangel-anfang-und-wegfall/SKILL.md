@@ -1,6 +1,6 @@
 ---
 name: rechtsgrundmangel-anfang-und-wegfall
-description: "Wenn es um Rechtsgrundmangel: Anfang und Wegfall in bereicherungs-und-anfechtungsrecht-prüfer geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. Auswahlstichwort: Rechtsgrundmangel Anfang Und Wegfall; Arbeitsfeld: bereicherungs-und-anfechtungsrecht-prüfer."
+description: "Für Rechtsgrundmangel: Anfang und Wegfall: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt. Fachgebiet: bereicherungs-und-anfechtungsrecht-prüfer. Route: rechtsgrundmangel-anfang-und-wegfall."
 ---
 
 # Rechtsgrundmangel: Anfang und Wegfall

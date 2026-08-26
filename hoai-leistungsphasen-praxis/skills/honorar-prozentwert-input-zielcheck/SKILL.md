@@ -1,6 +1,6 @@
 ---
 name: honorar-prozentwert-input-zielcheck
-description: "Wenn es um LPH 1 Grundlagenermittlung: Prüft bewertungsanteil in HOAI Leistungsphasen Praxis geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
+description: "Für LPH 1 Grundlagenermittlung: Prüft bewertungsanteil: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # LPH 1 Grundlagenermittlung: Prüft bewertungsanteil

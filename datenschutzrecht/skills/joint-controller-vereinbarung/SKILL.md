@@ -1,6 +1,6 @@
 ---
 name: joint-controller-vereinbarung
-description: "Wenn es um Gemeinsame Verantwortlichkeit Art. 26 DSGVO in Datenschutzrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Gemeinsame Verantwortlichkeit Art. 26 DSGVO: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Gemeinsame Verantwortlichkeit Art. 26 DSGVO

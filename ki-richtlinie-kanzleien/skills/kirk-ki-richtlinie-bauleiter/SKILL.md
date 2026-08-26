@@ -1,6 +1,6 @@
 ---
 name: kirk-ki-richtlinie-bauleiter
-description: "Wenn es um KIRK: digitale Werkzeuge-Richtlinie Bauleiter in diesem Spezialbereich geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Beweislast- und Substantiierungsmatrix."
+description: "Für KIRK: digitale Werkzeuge-Richtlinie Bauleiter: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # KIRK: KI-Richtlinie Bauleiter

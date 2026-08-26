@@ -1,6 +1,6 @@
 ---
 name: vergleich-und-mediation
-description: "Wenn es um Vergleich Und Mediation in Gesellschaftsrechtliche Treuepflicht geht: entwickelt Verhandlungsziel, Vergleichskorridor und Eskalationspfad; liefert eine Verhandlungs- oder Eskalationslinie mit Optionen."
+description: "Für Vergleich und Mediation: entwickelt Ziel, Vergleich und Eskalation; Ergebnis: Verhandlungs- oder Eskalationslinie."
 ---
 
 # Vergleich Und Mediation

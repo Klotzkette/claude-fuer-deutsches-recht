@@ -1,6 +1,6 @@
 ---
 name: workflow-dokumentenstapel-sortieren
-description: "Wenn es um Dokumentenstapel sortieren: Prüfungslinie für Miet- und WEG-Recht in Fachanwalt Miet- und Wohnungseigentumsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Dokumentenstapel sortieren: Prüfungslinie für Miet- und WEG-Recht: ordnet Akte, Belege und Lücken; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Dokumentenstapel sortieren: Prüfungslinie für Miet- und WEG-Recht

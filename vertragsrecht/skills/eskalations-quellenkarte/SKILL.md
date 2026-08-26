@@ -1,6 +1,6 @@
 ---
 name: eskalations-quellenkarte
-description: "Wenn es um Eskalations Quellenkarte in Vertragsrecht geht: entwickelt Verhandlungsziel, Vergleichskorridor und Eskalationspfad; liefert eine Verhandlungs- oder Eskalationslinie mit Optionen."
+description: "Für Eskalations Quellenkarte: entwickelt Ziel, Vergleich und Eskalation; Ergebnis: Verhandlungs- oder Eskalationslinie."
 ---
 
 # Eskalations Quellenkarte

@@ -1,6 +1,6 @@
 ---
 name: patentportfolio-und-technikstrategie
-description: "Wenn es um Patentportfolio und Technikstrategie in patentrecht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Verhandlungs- oder Eskalationslinie mit Optionen."
+description: "Für Patentportfolio und Technikstrategie: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Verhandlungs- oder Eskalationslinie."
 ---
 
 # Patentportfolio und Technikstrategie

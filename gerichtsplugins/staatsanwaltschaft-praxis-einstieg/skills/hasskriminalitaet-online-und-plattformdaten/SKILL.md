@@ -1,6 +1,6 @@
 ---
 name: hasskriminalitaet-online-und-plattformdaten
-description: "Wenn es um Hasskriminalität online: Plattformdaten und Kontext in Staatsanwaltschaft Praxis-Einstieg geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Beweislast- und Substantiierungsmatrix."
+description: "Für Hasskriminalität online: Plattformdaten und Kontext: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Hasskriminalität online: Plattformdaten und Kontext

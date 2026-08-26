@@ -1,6 +1,6 @@
 ---
 name: space-030-versicherung-launch-in-orbit-third-party-liability
-description: "Wenn es um Weltraumrecht: Versicherung Launch In-Orbit Third Party Liability in Weltraumrecht geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Weltraumrecht: Versicherung Launch In-Orbit Third Party Liability: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Weltraumrecht: Versicherung Launch In-Orbit Third Party Liability

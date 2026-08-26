@@ -1,6 +1,6 @@
 ---
 name: lebensmittel-franchise-hygiene-und-haccp
-description: "Wenn es um Franchiserecht: Lebensmittel-Franchise, Hygiene und HACCP in Franchiserecht Praxis geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
+description: "Für Franchiserecht: Lebensmittel-Franchise, Hygiene und HACCP: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Franchiserecht: Lebensmittel-Franchise, Hygiene und HACCP

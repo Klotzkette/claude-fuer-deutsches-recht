@@ -1,6 +1,6 @@
 ---
 name: eidesstattliche-versicherung-294-zpo
-description: "Wenn es um Eidesstattliche Versicherung: nur Glaubhaftmachung, kein Beweis! in selbstvertreter-amtsgericht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Beweislast- und Substantiierungsmatrix."
+description: "Für Eidesstattliche Versicherung: nur Glaubhaftmachung, kein Beweis!: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Eidesstattliche Versicherung: nur Glaubhaftmachung, kein Beweis!

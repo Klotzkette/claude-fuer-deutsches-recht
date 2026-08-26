@@ -1,6 +1,6 @@
 ---
 name: methodenlehre-formulare-portale-elektronische-einreichung
-description: "Wenn es um Formulare, Portale und elektronische Einreichung im bürgerlichen Recht in Methodenlehre bürgerliches Recht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Formulare, Portale und elektronische Einreichung im bürgerlichen Recht: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Einreichungsplan mit Form- und Nachweischeck."
 ---
 
 # Formulare, Portale und elektronische Einreichung im bürgerlichen Recht

@@ -1,6 +1,6 @@
 ---
 name: eilrechtsschutz-gegen-vollzug
-description: "Wenn es um Eilrechtsschutz Gegen Vollzug in Umweltschutzverband Verbandsklage geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
+description: "Für Eilrechtsschutz gegen Vollzug: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Eilrechtsschutz Gegen Vollzug

@@ -1,6 +1,6 @@
 ---
 name: dokumentationsaudit-630f
-description: "Wenn es um Dokumentationsaudit 630f in Fachanwalt Medizinrecht geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Beweislast- und Substantiierungsmatrix."
+description: "Für Dokumentationsaudit 630f: ordnet Akte, Belege und Lücken; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Dokumentationsaudit § 630f: moderner Medizinrechts-Skill für Behandlungsakte auditieren, Lücken, nachträgliche Änderungen, Metadaten und Beweisvermutung

@@ -1,6 +1,6 @@
 ---
 name: datenschutz-livecheck-bfdi-laender
-description: "Wenn es um Datenschutz Livecheck — BfDI und Landesaufsichten in Datenschutzrecht geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
+description: "Für Datenschutz Livecheck — BfDI und Landesaufsichten: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Datenschutz Livecheck — BfDI und Landesaufsichten

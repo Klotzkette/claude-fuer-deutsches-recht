@@ -1,6 +1,6 @@
 ---
 name: strafbefehl-abwesenheit-vertretung
-description: "Wenn es um Abwesenheit in der Hauptverhandlung — Paragraf 411 Abs. 2 StPO in Strafbefehl-Verteidiger geht: entwickelt Verhandlungsziel, Vergleichskorridor und Eskalationspfad; liefert eine Verhandlungs- oder Eskalationslinie mit Optionen."
+description: "Für Abwesenheit in der Hauptverhandlung — Paragraf 411 Abs. 2 StPO: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Abwesenheit in der Hauptverhandlung — § 411 Abs. 2 StPO

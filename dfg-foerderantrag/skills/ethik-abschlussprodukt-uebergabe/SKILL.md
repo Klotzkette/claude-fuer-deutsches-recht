@@ -1,6 +1,6 @@
 ---
 name: ethik-abschlussprodukt-uebergabe
-description: "Wenn es um Ethik: Abschlussprodukt und Übergabe in DFG-Förderantrag geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Ethik: Abschlussprodukt und Übergabe: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt. Fachgebiet: DFG-Förderantrag. Route: ethik-abschlussprodukt-uebergabe."
 ---
 
 # Ethik: Abschlussprodukt und Übergabe

@@ -1,6 +1,6 @@
 ---
 name: factoring-plattformmodelle-fintech-und-api
-description: "Wenn es um Factoring Plattformmodelle Fintech und API in Factoring-Recht geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
+description: "Für Factoring Plattformmodelle Fintech und API: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Factoring Plattformmodelle Fintech und API

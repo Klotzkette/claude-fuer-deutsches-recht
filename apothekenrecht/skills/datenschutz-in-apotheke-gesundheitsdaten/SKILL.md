@@ -1,6 +1,6 @@
 ---
 name: datenschutz-in-apotheke-gesundheitsdaten
-description: "Wenn es um Datenschutz in Apotheke Gesundheitsdaten in Apothekenrecht geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
+description: "Für Datenschutz in Apotheke Gesundheitsdaten: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Datenschutz in Apotheke Gesundheitsdaten

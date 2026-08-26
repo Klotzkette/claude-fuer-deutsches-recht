@@ -1,6 +1,6 @@
 ---
 name: pralr-003-quellenkritik-fraktur-ocr
-description: "Wenn es um Fraktur und OCR in Preußisches Allgemeines Landrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. Auswahlstichwort: Pralr 003 Quellenkritik Fraktur Ocr; Arbeitsfeld: Preußisches Allgemeines Landrecht."
+description: "Für Fraktur und OCR: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt. Fachgebiet: Preußisches Allgemeines Landrecht. Route: pralr-003-quellenkritik-fraktur-ocr."
 ---
 
 # Fraktur und OCR

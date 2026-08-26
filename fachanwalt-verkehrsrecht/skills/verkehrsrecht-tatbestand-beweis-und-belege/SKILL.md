@@ -1,6 +1,6 @@
 ---
 name: verkehrsrecht-tatbestand-beweis-und-belege
-description: "Wenn es um Verkehrsrecht: Tatbestandsmerkmale, Beweisfragen und Beleglage in Fachanwalt Verkehrsrecht geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Beweislast- und Substantiierungsmatrix."
+description: "Für Verkehrsrecht: Tatbestandsmerkmale, Beweisfragen und Beleglage: ordnet Akte, Belege und Lücken; Ergebnis: Beweislast- und Substantiierungsmatrix."
 ---
 
 # Verkehrsrecht: Tatbestandsmerkmale, Beweisfragen und Beleglage

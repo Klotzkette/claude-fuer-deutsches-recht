@@ -1,6 +1,6 @@
 ---
 name: us-dmca-interoperability-export-control
-description: "Wenn es um US DMCA Paragraf 1201 und Interoperabilität in Softwarerecht Deutschland/EU/International/USA geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen."
+description: "Für US DMCA Paragraf 1201 und Interoperabilität: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # US DMCA § 1201 und Interoperabilität

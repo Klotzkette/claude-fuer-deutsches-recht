@@ -1,6 +1,6 @@
 ---
 name: gegendarstellung-entschuldigung-deeskalation
-description: "Wenn es um Gegendarstellung, Entschuldigung, Deeskalation in Meinungsprüfer geht: entwickelt Verhandlungsziel, Vergleichskorridor und Eskalationspfad; liefert eine Verhandlungs- oder Eskalationslinie mit Optionen."
+description: "Für Gegendarstellung, Entschuldigung, Deeskalation: entwickelt Ziel, Vergleich und Eskalation; Ergebnis: Verhandlungs- oder Eskalationslinie."
 ---
 
 # Gegendarstellung, Entschuldigung, Deeskalation

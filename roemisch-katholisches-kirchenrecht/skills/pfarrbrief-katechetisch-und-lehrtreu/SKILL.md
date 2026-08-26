@@ -1,6 +1,6 @@
 ---
 name: pfarrbrief-katechetisch-und-lehrtreu
-description: "Wenn es um Pfarrbrief katechetisch und lehrtreu in Römisch-katholisches Kirchenrecht CIC und Katechismus geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik. Auswahlstichwort: Pfarrbrief Katechetisch Und Lehrtreu; Arbeitsfeld: Römisch-katholisches Kirchenrecht CIC und Katechismus."
+description: "Für Pfarrbrief katechetisch und lehrtreu: erstellt Entwurf mit Antrag, Beweis und Anlagen; Ergebnis: Schriftsatz mit Begründungs- und Anlagenlogik. Fachgebiet: Römisch-katholisches Kirchenrecht CIC und Katechismus. Route: pfarrbrief-katechetisch-und-lehrtreu."
 ---
 
 # Pfarrbrief katechetisch und lehrtreu

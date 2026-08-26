@@ -1,6 +1,6 @@
 ---
 name: kv-041-rentner-krankenversicherung-der-rentner-kvdr
-description: "Wenn es um Krankenversicherung: Rentner Krankenversicherung der Rentner KVdR in Krankenkassenrecht und Krankenversicherung geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Krankenversicherung: Rentner Krankenversicherung der Rentner KVdR: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Krankenversicherung: Rentner Krankenversicherung der Rentner KVdR

@@ -1,6 +1,6 @@
 ---
 name: lph8-bauueberwachung-dokumentenanalyse
-description: "Wenn es um Dokumentenanalyse und Aufmass in der Bauueberwachung LPH 8 in HOAI Leistungsphasen Praxis geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Verhandlungs- oder Eskalationslinie mit Optionen."
+description: "Für Dokumentenanalyse und Aufmass in der Bauüberwachung LPH 8: ordnet Akte, Belege und Lücken; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Dokumentenanalyse und Aufmass in der Bauueberwachung LPH 8

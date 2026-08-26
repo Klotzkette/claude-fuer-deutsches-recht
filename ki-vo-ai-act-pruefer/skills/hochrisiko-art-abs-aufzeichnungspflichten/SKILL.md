@@ -1,6 +1,6 @@
 ---
 name: hochrisiko-art-abs-aufzeichnungspflichten
-description: "Wenn es um Hochrisiko-digitale Werkzeuge nach Art. 6 Abs. 2 i.V.m. Anhang III europäischer Technikregulierungsrahmen in europäischem Technikregulierungsrecht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen. Auswahlstichwort: Hochrisiko Art Abs Aufzeichnungspflichten; Arbeitsfeld: europäischem Technikregulierungsrecht."
+description: "Für Hochrisiko-digitale Werkzeuge nach Art. 6 Abs. 2 i.V.m. Anhang III europäischer Technikregulierungsrahmen: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt. Fachgebiet: europäischem Technikregulierungsrecht. Route: hochrisiko-art-abs-aufzeichnungspflichten."
 ---
 
 # Hochrisiko-KI nach Art. 6 Abs. 2 i.V.m. Anhang III KI-VO

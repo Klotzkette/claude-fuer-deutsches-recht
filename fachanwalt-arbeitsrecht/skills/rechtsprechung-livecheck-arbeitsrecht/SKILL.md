@@ -1,6 +1,6 @@
 ---
 name: rechtsprechung-livecheck-arbeitsrecht
-description: "Wenn es um Rechtsprechung Livecheck Arbeitsrecht in Fachanwalt Arbeitsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Rechtsprechung Livecheck Arbeitsrecht: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Live-Check für arbeitsrechtliche Rechtsprechung: Prüfprotokoll für BAG-, LAG- und EuGH-Zitate, Verifizierungswege über bundesarbeitsgericht.de, openjur.de, dejure.org, curia.europa.eu, Umgang mit nicht verifizierbaren Quellen.
@@ -120,3 +120,7 @@ Primärquelle für BAG-Entscheidungen: [bundesarbeitsgericht.de](https://www.bun
 ## Was dieser Arbeitsgang nicht macht
 - Keine automatische Live-Prüfung von Rechtsprechungsdatenbanken; Prüfung erfolgt durch den Anwalt.
 - Keine Verfügbarkeitsgarantie für ältere oder unveröffentlichte Entscheidungen.
+
+## Vertiefung bei Bedarf
+
+- Bei `spezial-rechtsprechung-livecheck-arbeitsrecht` beziehungsweise Livecheck verifizierter Arbeitsrechtsprechung: [die zusätzliche Vertiefung laden](./references/vertiefung-spezial-rechtsprechung-livecheck-arbeitsrecht.md).

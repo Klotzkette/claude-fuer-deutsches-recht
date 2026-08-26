@@ -1,6 +1,6 @@
 ---
 name: schriftsatz-ueberarbeiten-richterlesbar
-description: "Wenn es um Schriftsatz Richterlesbar Überarbeiten in diesem Spezialbereich geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert eine Chronologie mit Belegmatrix und Widerspruchsliste."
+description: "Für Schriftsatz Richterlesbar Überarbeiten: erstellt Entwurf mit Antrag, Beweis und Anlagen; Ergebnis: Schriftsatz mit Begründungs- und Anlagenlogik."
 ---
 
 # Schriftsatz Richterlesbar Überarbeiten

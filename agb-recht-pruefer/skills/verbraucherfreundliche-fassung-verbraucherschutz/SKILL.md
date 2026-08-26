@@ -1,6 +1,6 @@
 ---
 name: verbraucherfreundliche-fassung-verbraucherschutz
-description: "Wenn es um Verbraucherfreundliche Fassung in AGB-Recht-Prüfer geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Dokumentenmatrix mit Nachforderungsliste. Auswahlstichwort: Verbraucherfreundliche Fassung Verbraucherschutz; Arbeitsfeld: AGB-Recht-Prüfer."
+description: "Für Verbraucherfreundliche Fassung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Schnittstellenkarte mit Zuständigkeits- und Nachweisfragen. Fachgebiet: AGB-Recht-Prüfer. Route: verbraucherfreundliche-fassung-verbraucherschutz."
 ---
 
 # Verbraucherfreundliche Fassung

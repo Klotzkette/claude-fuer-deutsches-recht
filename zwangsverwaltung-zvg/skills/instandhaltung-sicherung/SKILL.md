@@ -1,6 +1,6 @@
 ---
 name: instandhaltung-sicherung
-description: "Wenn es um Instandhaltung, Sicherung und Gefahrenabwehr in ZVG-Zwangsverwaltung - Verwalter-Cockpit geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Instandhaltung, Sicherung und Gefahrenabwehr: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Instandhaltung, Sicherung und Gefahrenabwehr

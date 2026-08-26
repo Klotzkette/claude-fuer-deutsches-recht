@@ -1,6 +1,6 @@
 ---
 name: fristenkontrolle-epo-fristenversaeumnis
-description: "Wenn es um Fristenkontrolle Epo Fristenversaeumnis in Berufsrecht Patentanwälte geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Fristenkontrolle Epo Fristenversäumnis: prüft Ergebnis, Beweislast und Gegenposition; Ergebnis: Fristen- und Risikoampel."
 ---
 
 # Patentanwälte: fristenkontrolle epo dpma - Rechtsprechungscheck, stärkste Gegenansicht und Red-Team-Korrektur

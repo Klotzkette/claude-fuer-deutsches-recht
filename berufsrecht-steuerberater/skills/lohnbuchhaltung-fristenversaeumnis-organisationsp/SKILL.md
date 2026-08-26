@@ -1,6 +1,6 @@
 ---
 name: lohnbuchhaltung-fristenversaeumnis-organisationsp
-description: "Wenn es um Lohnbuchhaltung Fristenversaeumnis Organisationsp in Berufsrecht Steuerberater geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Lohnbuchhaltung Fristenversäumnis Organisationsp: prüft Frist, Form, Zuständigkeit und Eilbedarf; Ergebnis: Fristen- und Risikoampel."
 ---
 
 # Steuerberater: lohnbuchhaltung fristenversaeumnis - Organisationspflichten, Prävention, Team-Anweisung und Fristenkontrolle

@@ -1,6 +1,6 @@
 ---
 name: 17-einziehung-und-vermoegensabschoepfung
-description: "Wenn es um 17 Einziehung und Vermoegensabschoepfung in Staatsanwaltschaft und Amtsanwaltschaft geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
+description: "Für 17 Einziehung und Vermögensabschöpfung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # 17 Einziehung und Vermoegensabschoepfung

@@ -1,6 +1,6 @@
 ---
 name: kueschk-zeugnisanspruch-und-vergleich
-description: "Wenn es um Zeugnisanspruch nach Paragraf 109 GewO: qualifiziertes Zeugnis in Arbeitsrecht geht: entwickelt Verhandlungsziel, Vergleichskorridor und Eskalationspfad; liefert eine Beweislast- und Substantiierungsmatrix."
+description: "Für Zeugnisanspruch nach Paragraf 109 GewO: qualifiziertes Zeugnis: entwickelt Ziel, Vergleich und Eskalation; Ergebnis: Verhandlungs- oder Eskalationslinie."
 ---
 
 # Zeugnisanspruch nach Paragraf 109 GewO: qualifiziertes Zeugnis

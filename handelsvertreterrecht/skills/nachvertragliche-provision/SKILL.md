@@ -1,6 +1,6 @@
 ---
 name: nachvertragliche-provision
-description: "Wenn es um Nachvertragliche Provision in Handelsvertreterrecht und Vertriebsverträge geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Nachvertragliche Provision: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Nachvertragliche Provision

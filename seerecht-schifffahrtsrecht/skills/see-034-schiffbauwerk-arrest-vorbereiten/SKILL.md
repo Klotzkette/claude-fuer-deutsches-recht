@@ -1,6 +1,6 @@
 ---
 name: see-034-schiffbauwerk-arrest-vorbereiten
-description: "Wenn es um Schiffbauwerk Arrest Vorbereiten in See- und Schifffahrtsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Schiffbauwerk Arrest Vorbereiten: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Schiffbauwerk Arrest Vorbereiten

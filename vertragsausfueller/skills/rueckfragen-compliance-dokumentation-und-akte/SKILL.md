@@ -1,6 +1,6 @@
 ---
 name: rueckfragen-compliance-dokumentation-und-akte
-description: "Wenn es um Rueckfragen: Compliance-Dokumentation und Aktenvermerk in Vertragsausfüller geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
+description: "Für Rückfragen: Compliance-Dokumentation und Aktenvermerk: ordnet Akte, Belege und Lücken; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Rueckfragen: Compliance-Dokumentation und Aktenvermerk

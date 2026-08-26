@@ -7,13 +7,13 @@ Diese Vollprüfung enthält top-8 von 193 Skills (gekürzt für das Arbeitsfenst
 ## Inhaltsverzeichnis
 
 1. **juristischer-argumentationskern** — Schaltet sich ein, wenn in Internationales Handelsrecht Lex Mercatoria ein juristisches Arbeitsprodukt tragfähig begründ…
-2. **kaltstart-triage** — Wenn es um Internationales Handelsrecht und Lex Mercatoria - Allgemeiner Einstieg in Internationales Handelsrecht und Le…
-3. **unidroit-hardship** — Wenn es um Hardship (Leistungserschwernis) nach UNIDROIT Principles Art. 6.2.1-6.2.3 in Internationales Handelsrecht und…
-4. **cisg-schadensersatz-und-mitigation** — Wenn es um Schadensersatz und Schadensminderung (CISG Art. 74-78) in Internationales Handelsrecht und Lex Mercatoria geh…
-5. **penalty-vs-liquidated-damages** — Wenn es um Penalty vs. Liquidated Damages: Rechtsvergleich in Internationales Handelsrecht und Lex Mercatoria geht: ordn…
-6. **cisg-wesentliche-vertragsverletzung** — Wenn es um Wesentliche Vertragsverletzung (CISG Art. 25) in Internationales Handelsrecht und Lex Mercatoria geht: ordnet…
-7. **unidroit-force-majeure** — Wenn es um Force Majeure: PICC Art. 7.1.7 und CISG Art. 79 in Internationales Handelsrecht und Lex Mercatoria geht: ordn…
-8. **cisg-anwendungsbereich** — Wenn es um CISG Anwendungsbereich (Art. 1-13) in Internationales Handelsrecht und Lex Mercatoria geht: ordnet Sachverhal…
+2. **kaltstart-triage** — Für Internationales Handelsrecht und Lex Mercatoria - Allgemeiner Einstieg: routet Rolle, Frist, Unterlagen und Fachschr…
+3. **ihl-029-warentransit-und-gefahruebergang** — Für Warentransit und Gefahrübergang: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und näc…
+4. **warentransit-und-gefahruebergang** — Für Warentransit und Gefahrübergang: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und näc…
+5. **ihl-097-vertiefung-01-dashboard-und-naechster-schritt** — Für Vertiefung 01 Dashboard und Nächster Schritt: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit R…
+6. **ihl-094-vertiefung-01-streitstand-ohne-blindzitat** — Für Vertiefung 01 Streitstand ohne Blindzitat: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risi…
+7. **ihl-095-vertiefung-01-red-team-gegenposition** — Für Vertiefung 01 Red Team Gegenposition: prüft Ergebnis, Beweislast und Gegenposition; Ergebnis: Gegenprüfung mit Bewei…
+8. **ihl-096-vertiefung-01-praxisfall-auswertung** — Für Vertiefung 01 Praxisfall Auswertung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und…
 
 ---
 
@@ -134,7 +134,7 @@ Ausgangspunkt für dieses Plugin: Anspruchsteller für Anknüpfung, Zuständigke
 
 ## Skill: `kaltstart-triage`
 
-_Wenn es um Internationales Handelsrecht und Lex Mercatoria - Allgemeiner Einstieg in Internationales Handelsrecht und Lex Mercatoria geht: klärt Rolle, Ziel, Frist, Unterlagen und den passenden nächsten Fachskill; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen._
+_Für Internationales Handelsrecht und Lex Mercatoria - Allgemeiner Einstieg: routet Rolle, Frist, Unterlagen und Fachschritt; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt._
 
 # Internationales Handelsrecht und Lex Mercatoria - Allgemeiner Einstieg
 
@@ -170,123 +170,63 @@ Arbeitsmodus: Liefere zuerst einen nutzbaren Zwischenstand in höchstens sieben 
 
 ---
 
-## Skill: `unidroit-hardship`
+## Skill: `ihl-029-warentransit-und-gefahruebergang`
 
-_Wenn es um Hardship (Leistungserschwernis) nach UNIDROIT Principles Art. 6.2.1-6.2.3 in Internationales Handelsrecht und Lex Mercatoria geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt._
+_Für Warentransit und Gefahrübergang: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt. Fachgebiet: Internationales Handelsrecht und Lex Mercatoria. Route: ihl-029-warentransit-und-gefahruebergang._
 
-# Hardship (Leistungserschwernis) nach UNIDROIT Principles Art. 6.2.1-6.2.3
+# Warentransit Und Gefahruebergang
 
-## Arbeitsweg
+## Arbeitsauftrag
 
-- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
-- Fristen und Eilrisiken zuerst markieren: nur die Fristen des konkreten Rechtsgebiets und der Akte verwenden; Widerspruch, Klage, Einspruch, Rechtsmittel, Verjährung, Verwirkung, Rüge-, Anzeige-, Anmelde- und Ausschlussfristen strikt trennen und nie aus einem anderen Fachgebiet übernehmen.
-- Tragende Normen verifizieren: HGB §§ 1-7, 17-37 (Firma/Register), 48-58 (Prokura), 84-92c (Handelsvertreter), 343 ff. (Handelsgeschäfte), 373 ff. (Handelskauf); CISG — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
-- Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
-- Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
+Dieser Skill bearbeitet **Warentransit Und Gefahruebergang** im Plugin **Internationales Handelsrecht und Lex Mercatoria**. Er bleibt bewusst schlank: erst Quelle und Rolle, dann Mechanik, Gegenposition und verwertbarer Output.
 
-## Worum es geht
+## Sofortsortierung
 
-Hardship (Art. 6.2.1-6.2.3 PICC) liegt vor, wenn veränderte Umstände das Gleichgewicht des Vertrags grundlegend stören — Kosten steigen erheblich oder Wert der Leistung sinkt erheblich. Der benachteiligte Teil kann Neuverhandlung verlangen; scheitert diese, kann das Schiedsgericht den Vertrag beenden oder anpassen. Abzugrenzen von Force Majeure (Art. 7.1.7 PICC): Hardship macht Leistung erschwert, FM macht sie unmöglich.
+1. **Rolle:** Kanzlei, Unternehmen, Behörde, Verband, Investor, Importeur, Exporteur, Wissenschaft, Studenten oder Laie.
+2. **Material:** Norm, historische Quelle, Vertrag, Handelsdokument, Behördenhinweis, Datenraum, Dashboard oder Korrespondenz.
+3. **Ziel:** Einordnung, Entwurf, Prüfung, Verhandlung, Memo, Streitbeilegung, Unterricht oder Board-Entscheidung.
+4. **Live-Check:** Erforderlich bei aktuellen Gesetzen, Verwaltungspraxis, Sanktionen, Exportkontrolle, Handelsmaßnahmen oder Rechtsprechung.
 
-## Kernnormen / Kernquellen
+## Fachlicher Zugriff
 
-- **Art. 6.2.1 PICC**: Grundregel — Binding Force, kein Hardship-Einwand wenn vorhersehbar
-- **Art. 6.2.2 PICC**: Definition Hardship — fundamental alteration of equilibrium, vier Alternativen
-- **Art. 6.2.3 PICC**: Rechtsfolge — Neuverhandlung, dann Gericht/Schiedsgericht (Auflösung oder Anpassung)
-- **Art. 7.1.7 PICC**: Force Majeure — Abgrenzung (Unmöglichkeit vs. Erschwernis)
-- **CISG Art. 79**: Vergleichsnorm (kein Anpassungsrecht, nur Befreiung)
-- **§ 313 BGB**: Störung der Geschäftsgrundlage — nationales Pendant
+- CISG/UN-Kaufrecht, IPR/Rom I, Rechtswahl und Ausschlussklauseln
+- Incoterms 2020, Transport, Versicherung, Zoll, Exportkontrolle
+- UNIDROIT Principles 2016, Lex Mercatoria, Handelsbräuche, Schiedsrecht
+- Trade Finance: Akkreditiv, Garantie, Standby, Dokumente und Fraud-Risiken
 
-## Schlüsselbegriffe
+## Prüfroutine
 
-- Fundamental alteration: wesentlich erhöhte Kosten oder wesentlich gesunkener Wert
-- Unvorhersehbarkeit: zum Zeitpunkt des Vertragsschlusses
-- Risikosphäre: Partei, die Risiko bewusst übernommen hat, kann sich nicht auf Hardship berufen
-- Neuverhandlungspflicht: in gutem Glauben (Art. 1.7 PICC), nicht mit Obstruktion
-- Gerichtliche Anpassung: als letztes Mittel (nicht als erster Schritt)
+1. Begriffe klären und False Friends markieren.
+2. Verbindliches Recht, Soft-Law, Handelsbrauch, historische Quelle und Nutzerquelle sauber trennen.
+3. Voraussetzungen, Rechtsfolge, Risiko, Beweislast und wirtschaftlichen Zweck einzeln prüfen.
+4. Gegenposition formulieren: Was sagt Behörde, Vertragspartner, Schiedsgericht, Historikerin, Compliance oder Vorstand?
+5. Ergebnis als nutzbares Arbeitsprodukt liefern.
 
-## Typische Streitfragen / Anwendungsfälle
+## Typische Ausgabe
 
-1. Begründet COVID-19-Lockdown Hardship für Warenlieferungsverträge?
-2. Rohstoffpreisanstieg von 400%: Hardship oder übernommenes Preisrisiko?
-3. Sanktionen als Hardship oder Force Majeure — Abgrenzungsproblem?
-4. Muss Neuverhandlung vor Klageerhebung versucht worden sein (prozessuale Vorfrage)?
-5. Kann Schiedsgericht Preisanpassung anordnen statt Vertragsauflösung?
+- Kurzbefund
+- Quellen- und Belegmatrix
+- Risikoampel mit nächstem Schritt
+- Entwurf für Memo, Klausel, Schreiben, Unterrichtsbaustein, Board-Paper oder Verhandlungsagenda
 
-## Methodik
+## Red-Team-Fragen
 
-- Vierstufige Prüfung Art. 6.2.2: (1) Ungleichgewicht, (2) wesentlich, (3) nach Abschluss, (4) unvorhersehbar
-- Abgrenzung FM/Hardship: kann Schuldner noch leisten? Ja → Hardship; Nein → FM
-- Neuverhandlungsklausel im Vertrag: triggert Art. 6.2.3-Mechanismus explizit
-- Schiedsgerichts-Praxis: Zurückhaltung bei Anpassung (jusmundi.com-Schiedssprüche)
-
----
-
-## Skill: `cisg-schadensersatz-und-mitigation`
-
-_Wenn es um Schadensersatz und Schadensminderung (CISG Art. 74-78) in Internationales Handelsrecht und Lex Mercatoria geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt._
-
-# Schadensersatz und Schadensminderung (CISG Art. 74-78)
-
-## Arbeitsbereich
-
-Internationales Handelsrecht: Schadensersatz nach CISG Art. 74-77. Voller Ersatz des Verlustes und entgangenen Gewinns (Art. 74), Deckungskauf/-verkauf (Art. 75), abstrakter Marktpreis (Art. 76), Schadenminderungspflicht (Art. 77) und Zinsen (Art. 78). Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
-## Arbeitsweg
-
-- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
-- Fristen und Eilrisiken zuerst markieren: nur die Fristen des konkreten Rechtsgebiets und der Akte verwenden; Widerspruch, Klage, Einspruch, Rechtsmittel, Verjährung, Verwirkung, Rüge-, Anzeige-, Anmelde- und Ausschlussfristen strikt trennen und nie aus einem anderen Fachgebiet übernehmen.
-- Tragende Normen verifizieren: HGB §§ 1-7, 17-37 (Firma/Register), 48-58 (Prokura), 84-92c (Handelsvertreter), 343 ff. (Handelsgeschäfte), 373 ff. (Handelskauf); CISG — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
-- Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
-- Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
-
-## Worum es geht
-
-Das CISG-Schadensersatzsystem beruht auf dem Grundsatz der vollen Kompensation (Art. 74): Verlust und entgangener Gewinn, begrenzt durch die Vorhersehbarkeit zum Vertragsabschluss. Art. 75 und 76 bieten konkrete Berechnungsweisen bei Vertragsaufhebung. Art. 77 verpflichtet den Gläubiger zur Schadensminderung — Verstoß reduziert den Anspruch.
-
-## Kernnormen / Kernquellen
-
-- **Art. 74 CISG**: Voller Schadensersatz — Verlust + entgangener Gewinn, Vorhersehbarkeitsgrenze
-- **Art. 75 CISG**: Konkrete Methode — Deckungsgeschäft (nach Vertragsaufhebung)
-- **Art. 76 CISG**: Abstrakte Methode — Vertragspreisdifferenz zum laufenden Marktpreis
-- **Art. 77 CISG**: Schadensminderungspflicht — angemessene Maßnahmen; Versäumnis → Reduktion
-- **Art. 78 CISG**: Zinsen — kein expliziter Zinssatz (durch IPR zu ergänzen)
-- **Art. 79 CISG**: Befreiung bei Hindernis (kein Schadensersatz, aber Aufhebungsrecht bleibt)
-
-## Schlüsselbegriffe
-
-- Vorhersehbarkeit: Typ des Verlustes zur Zeit des Vertragsabschlusses (nicht Höhe)
-- Deckungskauf Art. 75: Angemessenheit, Unverzüglichkeit nach Aufhebung
-- Marktpreis Art. 76: laufender Preis am Erfüllungsort (oder anderen Referenzmarkt)
-- Mitigation: zumutbare Maßnahmen — kein Selbstopfer, aber aktive Gegenmaßnahmen
-- Zinshöhe Art. 78: nationales Recht nach IPR (CISG bleibt stumm)
-
-## Typische Streitfragen / Anwendungsfälle
-
-1. Umfasst Art. 74 Rechtsverfolgungskosten und Gutachterkosten als ersatzfähigen Schaden?
-2. Wann ist ein Deckungskauf "angemessen" i.S.d. Art. 75 (Preis, Timing, Marktzugang)?
-3. Vorhersehbarkeit: Muss der Typ des Schadens oder der Betrag vorhersehbar sein?
-4. Zinssatz Art. 78: Welches nationale Recht gilt — Schuld- oder Forderungsstatut?
-5. Art. 77 Verstoß: Nur Schadensreduzierung oder vollständiger Anspruchsverlust?
-
-## Methodik
-
-- Vorhersehbarkeit immer auf Vertragsabschluss beziehen, nicht auf Verletzung
-- Art. 75 vor Art. 76 prüfen (konkret vor abstrakt)
-- Mitigation-Pflicht als eigenen Prüfpunkt anlegen
-- Zinsen Art. 78: Renvoi auf anwendbares nationales Recht nach Rom I
+- Wird eine ausländische, historische oder Soft-Law-Quelle versehentlich als geltendes deutsches Recht behandelt?
+- Wird ein aktueller Live-Check übersprungen?
+- Ist die Antwort zu schematisch und übersieht Zweck, Risiko oder Gegenposition?
+- Gibt es menschenrechtliche, politische, methodische oder Compliance-Risiken, die offen adressiert werden müssen?
 
 ## Quellenregel
 
-CISG Art. 74-78: uncitral.un.org. Rechtsprechung: CISG-online.ch, jusmundi.com. CISG Advisory Council Opinion No. 6 (Art. 74, 77). Schrifttum: Gotanda in Kröll/Mistelis/Viscasillas (2018) Art. 74. Unsicherheit bleibt sichtbar.
+Nur frei prüfbare Quellen oder Nutzerquellen zitieren. Rechtsprechung nur mit Gericht, Datum, Aktenzeichen und überprüfbarer Quelle. Unsicherheit bleibt sichtbar.
 
 ---
 
-## Skill: `penalty-vs-liquidated-damages`
+## Skill: `warentransit-und-gefahruebergang`
 
-_Wenn es um Penalty vs. Liquidated Damages: Rechtsvergleich in Internationales Handelsrecht und Lex Mercatoria geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt._
+_Für Warentransit und Gefahrübergang: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt. Fachgebiet: Internationales Handelsrecht und Lex Mercatoria. Route: warentransit-und-gefahruebergang._
 
-# Penalty vs. Liquidated Damages: Rechtsvergleich
+# Warentransit und Gefahrübergang
 
 ## Arbeitsweg
 
@@ -298,204 +238,246 @@ _Wenn es um Penalty vs. Liquidated Damages: Rechtsvergleich in Internationales H
 
 ## Worum es geht
 
-Die Abgrenzung Penalty (unzulässige Strafklausel) und Liquidated Damages (zulässige Pauschale) ist in Common-Law-Systemen fundamental: Penalties sind nicht durchsetzbar. UK-Recht reformierte den Test durch Cavendish Square v Makdessi [2015]: Eine Klausel ist Penalty wenn sie kein legitimes Interesse schützt und nicht im Verhältnis zum Schaden steht. Civil-Law-Systeme kennen Vertragsstrafen, aber mit richterlichem Mäßigungsrecht.
+CISG Art. 68 regelt den Gefahrübergang beim Verkauf von Ware, die sich bereits auf dem Transportweg befindet (goods in transit, string trading). Die Gefahr geht grundsätzlich auf den Käufer über, wenn der Vertrag geschlossen wird — rückwirkend ab Übergabe an den Frachtführer, es sei denn, der Verkäufer kannte den Schaden und verschwieg ihn.
 
 ## Kernnormen / Kernquellen
 
-- **Cavendish Square Holding BV v Makdessi [2015] UKSC 67**: Neuer UK-Penalty-Test
-- **Dunlop Pneumatic Tyre Co v New Garage [1915] AC 79**: Alter UK-Test (Pre-Estimate)
-- **PICC Art. 7.4.13**: Vereinbarte Zahlung bei Nichterfüllung — Reduktionsrecht
-- **BGB § 339**: Vertragsstrafe-Definition; § 343 Mäßigung durch Gericht
-- **Code Civil Français Art. 1231-5**: Richterliches Mäßigungsrecht (reform 2016)
-- **NEC4 Standard Contract**: LD-Klausel-Praxis im internationalen Anlagenbau
+- **CISG Art. 68**: Gefahrübergang bei auf Reise befindlicher Ware — Vertragsschluss als Zeitpunkt
+- **CISG Art. 67**: Gefahrübergang bei Versendungskauf (regulärer Fall)
+- **CISG Art. 69**: Gefahrübergang bei Abholung und ohne Beförderungsvertrag
+- **Incoterms 2020 CIF/CFR**: Gefahrübergang nach Verladung — für String Trading geeignet
+- **UCP 600 Art. 20**: On-Board-Datum als Gefahrübergangsbeleg
 
 ## Schlüsselbegriffe
 
-- Legitimate Business Interest: UK-Test — Interesse über reine Schadensersatzfunktion hinaus
-- Genuine Pre-Estimate: alter UK-Test — echte Schadensvorabschätzung
-- Richterliches Mäßigungsrecht: D (§ 343 BGB) und F (Art. 1231-5 CC) — Civil Law Standard
-- Nil-Schaden und LD: LD wirksam auch wenn kein konkreter Schaden entstanden?
-- Stacking-Problem: mehrere LD-Klauseln die kumulieren — Gesamtwirkung prüfen
+- String trading: Wiederverkauf während Transport (Rohstoffe, Commodities)
+- Rückwirkungsfiktion Art. 68: Gefahr ab Frachtführerübergabe (retroaktiv)
+- Dokumentengefahr: wer Papiere hält, hält das Risiko (bei Konnossement)
+- Verkäufer-Arglist: Art. 68 S. 2 — kannte Schaden und verschwieg ihn → keine Gefahrübergabe
+- Versicherungszeugnis: transit buyer braucht Versicherungsbescheinigung
 
-## Typische Streitfragen / Forschungsfragen
+## Typische Streitfragen / Anwendungsfälle
 
-1. LD von 5% Vertragswert bei Nil-Schaden: Wirksam nach UKSC Cavendish?
-2. PICC Art. 7.4.13: Wann kann Schiedsgericht LD-Klausel reduzieren?
-3. § 343 BGB: Wie viel kann das Gericht reduzieren (konkreter Schaden als Maßstab)?
-4. Kombination LD und Vertragsaufhebungsrecht: Ausschließlich oder kumulativ?
-5. Strafklausel für Rücktritt von Angebot: Penalty oder zulässige Option?
+1. Ölladung auf Tanker auf Reise verkauft — Schiff sinkt nach Vertragsabschluss: Wer trägt Verlust?
+2. Art. 68 Satz 2: Wie beweist Käufer, dass Verkäufer Schaden kannte?
+3. String Trading: Wie viele Weiterverkäufe sind rechtlich zulässig ohne neues Transportdokument?
+4. Dokumentenerwerb (BL-Indossament): Geht Gefahr mit Konnossement-Übertragung über?
+5. Transportversicherung im String: Wer versichert bei CIF-Weiterverkauf?
 
 ## Methodik
 
-- UK: Cavendish-Test (1. Legitimate Interest, 2. Proportionality) vor LD-Klausel prüfen
-- BGB: Strafbetrag im Verhältnis zum erwarteten Schaden kalkulieren
-- PICC: Unverhältnismäßigkeit dokumentieren für Schiedsargument
-- Internationale Verträge: Rechtsordnung wählen die LD-Klausel wirksam hält (Rechtswahl)
+- Art. 68 CISG: Stichtag Gefahrübergang = Datum Vertragsschluss (nicht Lieferung)
+- String Trading: Versicherungskette prüfen — jeder Käufer braucht Nachweis
+- Dokumentenprüfung: On-Board-Datum im BL bestätigt Frachtführer-Übergabe
+- Arglist-Ausnahme: immer als Gegenargument prüfen
+
+---
+
+## Skill: `ihl-097-vertiefung-01-dashboard-und-naechster-schritt`
+
+_Für Vertiefung 01 Dashboard und Nächster Schritt: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt. Fachgebiet: Internationales Handelsrecht und Lex Mercatoria._
+
+# Vertiefung 01 Dashboard Und Naechster Schritt
+
+## Arbeitsauftrag
+
+Dieser Skill bearbeitet **Vertiefung 01 Dashboard Und Naechster Schritt** im Plugin **Internationales Handelsrecht und Lex Mercatoria**. Er bleibt bewusst schlank: erst Quelle und Rolle, dann Mechanik, Gegenposition und verwertbarer Output.
+
+## Sofortsortierung
+
+1. **Rolle:** Kanzlei, Unternehmen, Behörde, Verband, Investor, Importeur, Exporteur, Wissenschaft, Studenten oder Laie.
+2. **Material:** Norm, historische Quelle, Vertrag, Handelsdokument, Behördenhinweis, Datenraum, Dashboard oder Korrespondenz.
+3. **Ziel:** Einordnung, Entwurf, Prüfung, Verhandlung, Memo, Streitbeilegung, Unterricht oder Board-Entscheidung.
+4. **Live-Check:** Erforderlich bei aktuellen Gesetzen, Verwaltungspraxis, Sanktionen, Exportkontrolle, Handelsmaßnahmen oder Rechtsprechung.
+
+## Fachlicher Zugriff
+
+- CISG/UN-Kaufrecht, IPR/Rom I, Rechtswahl und Ausschlussklauseln
+- Incoterms 2020, Transport, Versicherung, Zoll, Exportkontrolle
+- UNIDROIT Principles 2016, Lex Mercatoria, Handelsbräuche, Schiedsrecht
+- Trade Finance: Akkreditiv, Garantie, Standby, Dokumente und Fraud-Risiken
+
+## Prüfroutine
+
+1. Begriffe klären und False Friends markieren.
+2. Verbindliches Recht, Soft-Law, Handelsbrauch, historische Quelle und Nutzerquelle sauber trennen.
+3. Voraussetzungen, Rechtsfolge, Risiko, Beweislast und wirtschaftlichen Zweck einzeln prüfen.
+4. Gegenposition formulieren: Was sagt Behörde, Vertragspartner, Schiedsgericht, Historikerin, Compliance oder Vorstand?
+5. Ergebnis als nutzbares Arbeitsprodukt liefern.
+
+## Typische Ausgabe
+
+- Kurzbefund
+- Quellen- und Belegmatrix
+- Risikoampel mit nächstem Schritt
+- Entwurf für Memo, Klausel, Schreiben, Unterrichtsbaustein, Board-Paper oder Verhandlungsagenda
+
+## Red-Team-Fragen
+
+- Wird eine ausländische, historische oder Soft-Law-Quelle versehentlich als geltendes deutsches Recht behandelt?
+- Wird ein aktueller Live-Check übersprungen?
+- Ist die Antwort zu schematisch und übersieht Zweck, Risiko oder Gegenposition?
+- Gibt es menschenrechtliche, politische, methodische oder Compliance-Risiken, die offen adressiert werden müssen?
 
 ## Quellenregel
 
-Cavendish [2015] UKSC 67: bailii.org. BGB §§ 339, 343: gesetze-im-internet.de. PICC Art. 7.4.13: unidroit.org. Code Civil Art. 1231-5: legifrance.gouv.fr. Unsicherheit bleibt sichtbar.
+Nur frei prüfbare Quellen oder Nutzerquellen zitieren. Rechtsprechung nur mit Gericht, Datum, Aktenzeichen und überprüfbarer Quelle. Unsicherheit bleibt sichtbar.
 
 ---
 
-## Skill: `cisg-wesentliche-vertragsverletzung`
+## Skill: `ihl-094-vertiefung-01-streitstand-ohne-blindzitat`
 
-_Wenn es um Wesentliche Vertragsverletzung (CISG Art. 25) in Internationales Handelsrecht und Lex Mercatoria geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt._
+_Für Vertiefung 01 Streitstand ohne Blindzitat: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt. Fachgebiet: Internationales Handelsrecht und Lex Mercatoria._
 
-# Wesentliche Vertragsverletzung (CISG Art. 25)
+# Vertiefung 01 Streitstand Ohne Blindzitat
 
-## Arbeitsweg
+## Arbeitsauftrag
 
-- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
-- Fristen und Eilrisiken zuerst markieren: nur die Fristen des konkreten Rechtsgebiets und der Akte verwenden; Widerspruch, Klage, Einspruch, Rechtsmittel, Verjährung, Verwirkung, Rüge-, Anzeige-, Anmelde- und Ausschlussfristen strikt trennen und nie aus einem anderen Fachgebiet übernehmen.
-- Tragende Normen verifizieren: HGB §§ 1-7, 17-37 (Firma/Register), 48-58 (Prokura), 84-92c (Handelsvertreter), 343 ff. (Handelsgeschäfte), 373 ff. (Handelskauf); CISG — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
-- Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
-- Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
+Dieser Skill bearbeitet **Vertiefung 01 Streitstand Ohne Blindzitat** im Plugin **Internationales Handelsrecht und Lex Mercatoria**. Er bleibt bewusst schlank: erst Quelle und Rolle, dann Mechanik, Gegenposition und verwertbarer Output.
 
-## Worum es geht
+## Sofortsortierung
 
-Art. 25 CISG ist die Schlüsselnorm des CISG-Rechtsbehelfssystems. Nur bei wesentlicher Verletzung darf der Gläubiger den Vertrag aufheben (Art. 49 Abs. 1 lit. a, Art. 64 Abs. 1 lit. a CISG). Die Wesentlichkeit hängt vom erheblichen Nachteil und der Vorhersehbarkeit ab. Der Schuldner kann Wesentlichkeit abwenden, wenn er nachweist, dass er den Nachteil nicht vorhergesehen hat und eine vernünftige Person in seiner Lage ihn auch nicht vorhergesehen hätte.
+1. **Rolle:** Kanzlei, Unternehmen, Behörde, Verband, Investor, Importeur, Exporteur, Wissenschaft, Studenten oder Laie.
+2. **Material:** Norm, historische Quelle, Vertrag, Handelsdokument, Behördenhinweis, Datenraum, Dashboard oder Korrespondenz.
+3. **Ziel:** Einordnung, Entwurf, Prüfung, Verhandlung, Memo, Streitbeilegung, Unterricht oder Board-Entscheidung.
+4. **Live-Check:** Erforderlich bei aktuellen Gesetzen, Verwaltungspraxis, Sanktionen, Exportkontrolle, Handelsmaßnahmen oder Rechtsprechung.
 
-## Kernnormen / Kernquellen
+## Fachlicher Zugriff
 
-- **Art. 25 CISG**: Definition — erheblicher Nachteil + Vorhersehbarkeitstest
-- **Art. 49 Abs. 1 lit. a CISG**: Aufhebungsrecht des Käufers bei wesentlicher Verletzung
-- **Art. 64 Abs. 1 lit. a CISG**: Aufhebungsrecht des Verkäufers
-- **Art. 46 Abs. 2 CISG**: Ersatzlieferung nur bei wesentlicher Verletzung
-- **Art. 47/48 CISG**: Nachfrist (Fixierung vor Aufhebung bei unwesentlicher Verletzung)
-- **Art. 51 CISG**: Teillieferung — Wesentlichkeit für gesamte oder Teillieferung
+- CISG/UN-Kaufrecht, IPR/Rom I, Rechtswahl und Ausschlussklauseln
+- Incoterms 2020, Transport, Versicherung, Zoll, Exportkontrolle
+- UNIDROIT Principles 2016, Lex Mercatoria, Handelsbräuche, Schiedsrecht
+- Trade Finance: Akkreditiv, Garantie, Standby, Dokumente und Fraud-Risiken
 
-## Schlüsselbegriffe
+## Prüfroutine
 
-- Erheblicher Nachteil (substantial deprivation) — nicht bagatellhafter Mangel
-- Vorhersehbarkeit: objektiver Maßstab — vernünftige Person gleicher Art in gleicher Lage
-- Kurierlieferung vs. Standardlieferung: Terminüberschreitung als wesentlich?
-- Mangel am Kerngegenstand vs. Nebenpflichtverletzung
-- Reparierbarkeit als Faktor (CISG-Advisory Council Opinion No. 5)
+1. Begriffe klären und False Friends markieren.
+2. Verbindliches Recht, Soft-Law, Handelsbrauch, historische Quelle und Nutzerquelle sauber trennen.
+3. Voraussetzungen, Rechtsfolge, Risiko, Beweislast und wirtschaftlichen Zweck einzeln prüfen.
+4. Gegenposition formulieren: Was sagt Behörde, Vertragspartner, Schiedsgericht, Historikerin, Compliance oder Vorstand?
+5. Ergebnis als nutzbares Arbeitsprodukt liefern.
 
-## Typische Streitfragen / Anwendungsfälle
+## Typische Ausgabe
 
-1. Ist Aliud-Lieferung (falsche Ware) stets wesentlich, auch wenn Käufer sie nutzen kann?
-2. Wann ist Lieferverzug wesentlich (Fixgeschäft, Jahreszeitware)?
-3. Qualitätsmangel: Reicht Unterschreitung gesetzlicher Grenzwerte für Wesentlichkeit?
-4. Kann Verkäufer Wesentlichkeit durch Nachbesserungsangebot (Art. 48) beseitigen?
-5. Teillieferung: Wesentlichkeit für gesamten Vertrag nach Art. 51 Abs. 2?
+- Kurzbefund
+- Quellen- und Belegmatrix
+- Risikoampel mit nächstem Schritt
+- Entwurf für Memo, Klausel, Schreiben, Unterrichtsbaustein, Board-Paper oder Verhandlungsagenda
 
-## Methodik
+## Red-Team-Fragen
 
-- Zweistufige Prüfung: (1) erheblicher Nachteil, (2) Vorhersehbarkeit
-- Wirtschaftliche Auswirkung und Vertragszweck als Maßstab für "erheblich"
-- CISG Advisory Council Opinions (op. 5, 9) als nicht bindende Auslegungshilfe
-- Rechtsprechungsvergleich: OLG-Rspr. via CISG-online.ch
+- Wird eine ausländische, historische oder Soft-Law-Quelle versehentlich als geltendes deutsches Recht behandelt?
+- Wird ein aktueller Live-Check übersprungen?
+- Ist die Antwort zu schematisch und übersieht Zweck, Risiko oder Gegenposition?
+- Gibt es menschenrechtliche, politische, methodische oder Compliance-Risiken, die offen adressiert werden müssen?
 
----
+## Quellenregel
 
-## Skill: `unidroit-force-majeure`
-
-_Wenn es um Force Majeure: PICC Art. 7.1.7 und CISG Art. 79 in Internationales Handelsrecht und Lex Mercatoria geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen._
-
-# Force Majeure: PICC Art. 7.1.7 und CISG Art. 79
-
-## Arbeitsweg
-
-- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
-- Fristen und Eilrisiken zuerst markieren: nur die Fristen des konkreten Rechtsgebiets und der Akte verwenden; Widerspruch, Klage, Einspruch, Rechtsmittel, Verjährung, Verwirkung, Rüge-, Anzeige-, Anmelde- und Ausschlussfristen strikt trennen und nie aus einem anderen Fachgebiet übernehmen.
-- Tragende Normen verifizieren: HGB §§ 1-7, 17-37 (Firma/Register), 48-58 (Prokura), 84-92c (Handelsvertreter), 343 ff. (Handelsgeschäfte), 373 ff. (Handelskauf); CISG — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
-- Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
-- Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
-
-## Worum es geht
-
-Force Majeure befreit den Schuldner von Schadensersatzhaftung wenn ein außerhalb seiner Sphäre liegendes, unvorhersehbares und unabwendbares Hindernis die Leistung unmöglich macht. PICC Art. 7.1.7 und CISG Art. 79 sind ähnlich, aber nicht identisch: CISG spricht von "Hindernis außerhalb seiner Sphäre", PICC ergänzt die Erkennbarkeit zum Vertragsschluss und die Zumutbarkeit der Überwindung. Beide regeln nur den Schadensersatz, nicht die Aufhebung.
-
-## Kernnormen / Kernquellen
-
-- **CISG Art. 79 Abs. 1**: Befreiung — Hindernis außerhalb der Sphäre, unvorhersehbar, nicht überwindbar
-- **CISG Art. 79 Abs. 3**: Hinweispflicht — unverzüglich nach Kenntnis; sonst Haftung für Verzögerungsschaden
-- **CISG Art. 79 Abs. 5**: Wirkung — nur Befreiung von Schadensersatz, alle anderen Rechtsbehelfe bleiben
-- **PICC Art. 7.1.7 Abs. 1**: Force Majeure — drei Alternativen (außerhalb Sphäre, unvorhersehbar, Überwindung unzumutbar)
-- **PICC Art. 7.1.7 Abs. 3-4**: Hinweispflicht und Wirkung der FM
-- **ICC Force Majeure Clause 2020**: iccwbo.org — Standardklausel
-
-## Schlüsselbegriffe
-
-- Sphärenprinzip: Lieferantenausfall in Schuldnersphäre (Art. 79 Abs. 2 CISG)
-- Unvorhersehbarkeit: ex ante Vertragsschluss; allgemeine Marktrisiken nicht FM
-- Unüberwindbarkeit: technisch und wirtschaftlich — Extremkosten können FM begründen
-- Vorübergehendes vs. dauerhaftes Hindernis: Suspendierung vs. Aufhebungsrecht
-- Notifikationspflicht: Art. 79 Abs. 3 CISG — Fristversäumnis → Haftung
-
-## Typische Streitfragen / Anwendungsfälle
-
-1. Pandemie als FM: Hat COVID-19 CISG Art. 79 ausgelöst? (Fallgruppenabhängig)
-2. Sublieferantenausfall: Art. 79 Abs. 2 CISG — Eigene FM-Voraussetzungen des Sublieferanten?
-3. Exportkontrolle/Sanktionen: Begründen neue Sanktionen FM für laufende Verträge?
-4. ICC FM-Klausel 2020: Verhältnis zu Art. 79 CISG — was geht vor?
-5. Hardship vs. FM: Preisverdreifachung — erschwert (Hardship) oder unmöglich (FM)?
-
-## Methodik
-
-- FM-Prüfung dreistufig: (1) außerhalb Sphäre, (2) unvorhersehbar, (3) unüberwindbar
-- Hinweispflicht-Tracking: Datum FM-Eintritt → Datum Notifikation → Haftungsrisiko
-- ICC FM-Klausel 2020 als Vertragsbaustein einbeziehen (kürzere Notifikationsfrist 30 Tage)
-- Sublieferantenkette: Art. 79 Abs. 2 Kaskade prüfen
+Nur frei prüfbare Quellen oder Nutzerquellen zitieren. Rechtsprechung nur mit Gericht, Datum, Aktenzeichen und überprüfbarer Quelle. Unsicherheit bleibt sichtbar.
 
 ---
 
-## Skill: `cisg-anwendungsbereich`
+## Skill: `ihl-095-vertiefung-01-red-team-gegenposition`
 
-_Wenn es um CISG Anwendungsbereich (Art. 1-13) in Internationales Handelsrecht und Lex Mercatoria geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt._
+_Für Vertiefung 01 Red Team Gegenposition: prüft Ergebnis, Beweislast und Gegenposition; Ergebnis: Gegenprüfung mit Beweis- und Fristencheck. Fachgebiet: Internationales Handelsrecht und Lex Mercatoria._
 
-# CISG Anwendungsbereich (Art. 1-13)
+# Vertiefung 01 Red Team Gegenposition
 
-## Arbeitsbereich
+## Arbeitsauftrag
 
-Internationales Handelsrecht: CISG Anwendungsbereich nach Art. 1-13 CISG. Räumlicher Anwendungsbereich (Vertragsstaatenprinzip), sachlicher Ausschluss nach Art. 2 CISG (Verbraucher, Wertpapiere, Strom), und Lückenfüllung nach Art. 7 Abs. 2 CISG. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Dieser Skill bearbeitet **Vertiefung 01 Red Team Gegenposition** im Plugin **Internationales Handelsrecht und Lex Mercatoria**. Er bleibt bewusst schlank: erst Quelle und Rolle, dann Mechanik, Gegenposition und verwertbarer Output.
 
-## Arbeitsweg
+## Sofortsortierung
 
-- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
-- Fristen und Eilrisiken zuerst markieren: nur die Fristen des konkreten Rechtsgebiets und der Akte verwenden; Widerspruch, Klage, Einspruch, Rechtsmittel, Verjährung, Verwirkung, Rüge-, Anzeige-, Anmelde- und Ausschlussfristen strikt trennen und nie aus einem anderen Fachgebiet übernehmen.
-- Tragende Normen verifizieren: HGB §§ 1-7, 17-37 (Firma/Register), 48-58 (Prokura), 84-92c (Handelsvertreter), 343 ff. (Handelsgeschäfte), 373 ff. (Handelskauf); CISG — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
-- Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
-- Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
+1. **Rolle:** Kanzlei, Unternehmen, Behörde, Verband, Investor, Importeur, Exporteur, Wissenschaft, Studenten oder Laie.
+2. **Material:** Norm, historische Quelle, Vertrag, Handelsdokument, Behördenhinweis, Datenraum, Dashboard oder Korrespondenz.
+3. **Ziel:** Einordnung, Entwurf, Prüfung, Verhandlung, Memo, Streitbeilegung, Unterricht oder Board-Entscheidung.
+4. **Live-Check:** Erforderlich bei aktuellen Gesetzen, Verwaltungspraxis, Sanktionen, Exportkontrolle, Handelsmaßnahmen oder Rechtsprechung.
 
-## Worum es geht
+## Fachlicher Zugriff
 
-Das UN-Kaufrecht (CISG, Wien 1980, in Kraft seit 1988) gilt in 97 Vertragsstaaten. Es erfasst Kaufverträge über Waren zwischen Parteien mit Niederlassungen in verschiedenen Vertragsstaaten (Art. 1 Abs. 1 lit. a) oder wenn IPR auf das Recht eines Vertragsstaates verweist (lit. b, aber viele Staaten mit Vorbehalt). Art. 2 enthält abschließende Ausschlüsse.
+- CISG/UN-Kaufrecht, IPR/Rom I, Rechtswahl und Ausschlussklauseln
+- Incoterms 2020, Transport, Versicherung, Zoll, Exportkontrolle
+- UNIDROIT Principles 2016, Lex Mercatoria, Handelsbräuche, Schiedsrecht
+- Trade Finance: Akkreditiv, Garantie, Standby, Dokumente und Fraud-Risiken
 
-## Kernnormen / Kernquellen
+## Prüfroutine
 
-- **Art. 1 CISG**: Anwendungsvoraussetzungen — Niederlassung in Vertragsstaat
-- **Art. 2 CISG**: Ausschlüsse — Verbraucherkauf, Versteigerungen, Wertpapiere, Schiffe, Elektrizität, Luftfahrzeuge
-- **Art. 3 CISG**: Werklieferungsvertrag (Grenze: wesentlicher Anteil Material)
-- **Art. 6 CISG**: Vertragsfreiheit — vollständiger Ausschluss oder Abweichung
-- **Art. 7 CISG**: Auslegung nach Treu und Glauben im int. Handel; Lückenfüllung aus allgemeinen CISG-Grundsätzen
-- **Art. 9 CISG**: Handelsbräuche und Gepflogenheiten der Parteien
-- **Art. 10 CISG**: Maßgebliche Niederlassung bei mehreren
+1. Begriffe klären und False Friends markieren.
+2. Verbindliches Recht, Soft-Law, Handelsbrauch, historische Quelle und Nutzerquelle sauber trennen.
+3. Voraussetzungen, Rechtsfolge, Risiko, Beweislast und wirtschaftlichen Zweck einzeln prüfen.
+4. Gegenposition formulieren: Was sagt Behörde, Vertragspartner, Schiedsgericht, Historikerin, Compliance oder Vorstand?
+5. Ergebnis als nutzbares Arbeitsprodukt liefern.
 
-## Schlüsselbegriffe
+## Typische Ausgabe
 
-- Vertragsstaat (Ratifikation, Beitritt, Vorbehalt nach Art. 92-96 CISG)
-- Sachlicher Ausschluss vs. Opting-out (Art. 2 vs. Art. 6)
-- Mixed-contract (Art. 3 Abs. 2: überwiegende Arbeitsleistung → kein CISG)
-- Autonome Auslegung (Art. 7 Abs. 1: keine nationale Rechtsdogmatik)
-- Lückenfüllung: interne Lücken aus CISG-Grundsätzen, externe Lücken aus IPR
+- Kurzbefund
+- Quellen- und Belegmatrix
+- Risikoampel mit nächstem Schritt
+- Entwurf für Memo, Klausel, Schreiben, Unterrichtsbaustein, Board-Paper oder Verhandlungsagenda
 
-## Typische Streitfragen / Forschungsfragen
+## Red-Team-Fragen
 
-1. Gilt CISG für Softwarelieferung? (Streitig: körperliche Verkörperung entscheidend)
-2. Konsumgüterkauf über B2B-Plattform: Art. 2 lit. a Ausschluss auch bei gewerblichem Verwendungszweck?
-3. Werklieferungsvertrag: Wann überwiegt Arbeitsleistung (Art. 3 Abs. 2)?
-4. Wie füllt man CISG-intern die Lücke bei Zinshöhe (Art. 78 schweigt zur Rate)?
-5. Reservation nach Art. 95 (USA): kein lit. b-Verweis — Auswirkung auf US-Verträge?
+- Wird eine ausländische, historische oder Soft-Law-Quelle versehentlich als geltendes deutsches Recht behandelt?
+- Wird ein aktueller Live-Check übersprungen?
+- Ist die Antwort zu schematisch und übersieht Zweck, Risiko oder Gegenposition?
+- Gibt es menschenrechtliche, politische, methodische oder Compliance-Risiken, die offen adressiert werden müssen?
 
-## Methodik
+## Quellenregel
 
-- CISG-Anwendbarkeit immer dreistufig prüfen: (1) sachlich, (2) räumlich, (3) kein Ausschluss
-- Vertragsstaaten-Liste UNCITRAL laufend prüfen (uncitral.un.org/en/texts/saleofgoods)
-- Bei Art. 3 Werklieferung: Wertanteil Material vs. Dienstleistung nach Vertragsursprung
-- Autonome Auslegung: keine Rückgriffe auf BGB-Dogmatik bei CISG-Begriffen
+Nur frei prüfbare Quellen oder Nutzerquellen zitieren. Rechtsprechung nur mit Gericht, Datum, Aktenzeichen und überprüfbarer Quelle. Unsicherheit bleibt sichtbar.
+
+---
+
+## Skill: `ihl-096-vertiefung-01-praxisfall-auswertung`
+
+_Für Vertiefung 01 Praxisfall Auswertung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt. Fachgebiet: Internationales Handelsrecht und Lex Mercatoria._
+
+# Vertiefung 01 Praxisfall Auswertung
+
+## Arbeitsauftrag
+
+Dieser Skill bearbeitet **Vertiefung 01 Praxisfall Auswertung** im Plugin **Internationales Handelsrecht und Lex Mercatoria**. Er bleibt bewusst schlank: erst Quelle und Rolle, dann Mechanik, Gegenposition und verwertbarer Output.
+
+## Sofortsortierung
+
+1. **Rolle:** Kanzlei, Unternehmen, Behörde, Verband, Investor, Importeur, Exporteur, Wissenschaft, Studenten oder Laie.
+2. **Material:** Norm, historische Quelle, Vertrag, Handelsdokument, Behördenhinweis, Datenraum, Dashboard oder Korrespondenz.
+3. **Ziel:** Einordnung, Entwurf, Prüfung, Verhandlung, Memo, Streitbeilegung, Unterricht oder Board-Entscheidung.
+4. **Live-Check:** Erforderlich bei aktuellen Gesetzen, Verwaltungspraxis, Sanktionen, Exportkontrolle, Handelsmaßnahmen oder Rechtsprechung.
+
+## Fachlicher Zugriff
+
+- CISG/UN-Kaufrecht, IPR/Rom I, Rechtswahl und Ausschlussklauseln
+- Incoterms 2020, Transport, Versicherung, Zoll, Exportkontrolle
+- UNIDROIT Principles 2016, Lex Mercatoria, Handelsbräuche, Schiedsrecht
+- Trade Finance: Akkreditiv, Garantie, Standby, Dokumente und Fraud-Risiken
+
+## Prüfroutine
+
+1. Begriffe klären und False Friends markieren.
+2. Verbindliches Recht, Soft-Law, Handelsbrauch, historische Quelle und Nutzerquelle sauber trennen.
+3. Voraussetzungen, Rechtsfolge, Risiko, Beweislast und wirtschaftlichen Zweck einzeln prüfen.
+4. Gegenposition formulieren: Was sagt Behörde, Vertragspartner, Schiedsgericht, Historikerin, Compliance oder Vorstand?
+5. Ergebnis als nutzbares Arbeitsprodukt liefern.
+
+## Typische Ausgabe
+
+- Kurzbefund
+- Quellen- und Belegmatrix
+- Risikoampel mit nächstem Schritt
+- Entwurf für Memo, Klausel, Schreiben, Unterrichtsbaustein, Board-Paper oder Verhandlungsagenda
+
+## Red-Team-Fragen
+
+- Wird eine ausländische, historische oder Soft-Law-Quelle versehentlich als geltendes deutsches Recht behandelt?
+- Wird ein aktueller Live-Check übersprungen?
+- Ist die Antwort zu schematisch und übersieht Zweck, Risiko oder Gegenposition?
+- Gibt es menschenrechtliche, politische, methodische oder Compliance-Risiken, die offen adressiert werden müssen?
+
+## Quellenregel
+
+Nur frei prüfbare Quellen oder Nutzerquellen zitieren. Rechtsprechung nur mit Gericht, Datum, Aktenzeichen und überprüfbarer Quelle. Unsicherheit bleibt sichtbar.
 
 ---
 

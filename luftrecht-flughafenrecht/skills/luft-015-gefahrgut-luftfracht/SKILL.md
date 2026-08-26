@@ -1,6 +1,6 @@
 ---
 name: luft-015-gefahrgut-luftfracht
-description: "Wenn es um Gefahrgut Luftfracht in Luftrecht und Flughafenrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Gefahrgut Luftfracht: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Gefahrgut Luftfracht

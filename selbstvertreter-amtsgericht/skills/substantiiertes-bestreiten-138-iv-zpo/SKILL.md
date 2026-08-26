@@ -1,6 +1,6 @@
 ---
 name: substantiiertes-bestreiten-138-iv-zpo
-description: "Wenn es um Bestreiten muss substantiiert sein — wie es geht in selbstvertreter-amtsgericht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Bestreiten muss substantiiert sein — wie es geht: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Bestreiten muss substantiiert sein — wie es geht

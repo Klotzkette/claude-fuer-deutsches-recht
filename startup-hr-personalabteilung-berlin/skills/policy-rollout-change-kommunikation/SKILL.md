@@ -1,6 +1,6 @@
 ---
 name: policy-rollout-change-kommunikation
-description: "Wenn es um Policy Rollout Change Kommunikation in Start-up-HR-Personalabteilung Berlin geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Policy Rollout Change Kommunikation: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Policy Rollout Change Kommunikation

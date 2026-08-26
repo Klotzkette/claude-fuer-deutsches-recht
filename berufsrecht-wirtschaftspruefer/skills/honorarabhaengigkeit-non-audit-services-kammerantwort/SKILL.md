@@ -1,6 +1,6 @@
 ---
 name: honorarabhaengigkeit-non-audit-services-kammerantwort
-description: "Wenn es um Honorarabhaengigkeit Non Audit Services Kammerantwort in Berufsrecht Wirtschaftsprüfer geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Verhandlungs- oder Eskalationslinie mit Optionen."
+description: "Für Honorarabhängigkeit Non Audit Services Kammerantwort: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Wirtschaftsprüfer: honorarabhaengigkeit und non audit services - Kammerantwort mit Verfahrensstrategie, Tonlage und Belegplan

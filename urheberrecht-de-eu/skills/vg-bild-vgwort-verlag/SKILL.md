@@ -1,6 +1,6 @@
 ---
 name: vg-bild-vgwort-verlag
-description: "Wenn es um VG Wort, VG Bild-Kunst und Verlag in Urheberrecht DE EU geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für VG Wort, VG Bild-Kunst und Verlag: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # VG Wort, VG Bild-Kunst und Verlag

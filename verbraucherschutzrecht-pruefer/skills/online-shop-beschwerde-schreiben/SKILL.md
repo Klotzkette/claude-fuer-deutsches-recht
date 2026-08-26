@@ -1,6 +1,6 @@
 ---
 name: online-shop-beschwerde-schreiben
-description: "Wenn es um Online Shop Agb Redlinen in Verbraucherschutzrecht Prüfer geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Online Shop AGB Redlinen: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Online Shop Agb Redlinen

@@ -1,6 +1,6 @@
 ---
 name: datenschutz-loeschpflicht-art-17-und-aufbewahrung
-description: "Wenn es um Konflikt Loeschpflicht Art in Datenschutzrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Konflikt Löschpflicht Art: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Konflikt Loeschpflicht Art

@@ -1,6 +1,6 @@
 ---
 name: landeshaushalt-schleswig-holstein-lese
-description: "Wenn es um Landeshaushalt Schleswig Holstein Lese in Haushaltsrecht BHO Bund und Länder geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
+description: "Für Landeshaushalt Schleswig Holstein Lese: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Landeshaushalt Schleswig Holstein Lese

@@ -1,6 +1,6 @@
 ---
 name: space-072-mars-sample-return-haftung-quarantaene-und-importrecht
-description: "Wenn es um Weltraumrecht: Mars Sample Return Haftung Quarantäne und Importrecht in Weltraumrecht geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Weltraumrecht: Mars Sample Return Haftung Quarantäne und Importrecht: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Weltraumrecht: Mars Sample Return Haftung Quarantäne und Importrecht

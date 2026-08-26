@@ -1,6 +1,6 @@
 ---
 name: posteingang-ausgang-sekretariats-tagesbrief
-description: "Wenn es um Posteingang und Postausgang in Kanzlei-Allgemein geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Posteingang und Postausgang: erstellt Entwurf mit Antrag, Beweis und Anlagen; Ergebnis: Schriftsatz mit Begründungs- und Anlagenlogik."
 ---
 
 # Posteingang und Postausgang

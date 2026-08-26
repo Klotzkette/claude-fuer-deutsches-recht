@@ -1,6 +1,6 @@
 ---
 name: datenschutz-erstgespraech-mandantenmatrix-7-fragen
-description: "Wenn es um Strukturiertes Erstgespraech im Datenschutzmandat in Datenschutzrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Strukturiertes Erstgespräch im Datenschutzmandat: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Strukturiertes Erstgespraech im Datenschutzmandat

@@ -1,6 +1,6 @@
 ---
 name: zeugnisart-ausbildungszeugnis-16-bbig
-description: "Erstellt Ausbildungszeugnisse nach Paragraf 16 BBiG mit Art, Dauer, Ziel sowie erworbenen Fertigkeiten, Kenntnissen und Fähigkeiten; Leistung und Verhalten nur auf Verlangen. Prüft Mitunterzeichnung, elektronische Form und unbelegte Berufsschulangaben."
+description: "Erstellt Ausbildungszeugnisse nach Paragraf 16 BBiG mit Art, Dauer, Ziel sowie erworbenen Fertigkeiten, Kenntnissen und Fähigkeiten; Leistung und Verhalten nur auf Verlangen."
 ---
 
 # Zeugnisart: Ausbildungszeugnis nach Paragraf 16 BBiG

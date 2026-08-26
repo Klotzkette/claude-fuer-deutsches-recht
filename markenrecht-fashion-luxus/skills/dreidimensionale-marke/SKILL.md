@@ -1,6 +1,6 @@
 ---
 name: dreidimensionale-marke
-description: "Wenn es um Dreidimensionale Marken (3D-Formmarken) in markenrecht-fashion-luxus geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
+description: "Für Dreidimensionale Marken (3D-Formmarken): ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Dreidimensionale Marken (3D-Formmarken)

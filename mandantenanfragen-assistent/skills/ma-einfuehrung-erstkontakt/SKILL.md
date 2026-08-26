@@ -1,6 +1,6 @@
 ---
 name: ma-einfuehrung-erstkontakt
-description: "Wenn es um Erstkontakt: Typen in mandantenanfragen-assistent geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Erstkontakt: Typen: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Erstkontakt: Typen

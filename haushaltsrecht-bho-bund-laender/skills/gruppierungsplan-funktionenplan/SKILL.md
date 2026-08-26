@@ -1,6 +1,6 @@
 ---
 name: gruppierungsplan-funktionenplan
-description: "Wenn es um Gruppierungsplan Und Funktionenplan in Haushaltsrecht BHO Bund und Länder geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
+description: "Für Gruppierungsplan und Funktionenplan: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Gruppierungsplan Und Funktionenplan

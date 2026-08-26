@@ -1,6 +1,6 @@
 ---
 name: denkmalschutz-berlin-dschg-bln
-description: "Wenn es um Denkmalschutz Berlin (DSchG-Bln) in Denkmalschutzrecht — Bundesweiter Rahmen und sechzehn geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Denkmalschutz Berlin (DSchG-Bln): ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Denkmalschutz Berlin (DSchG-Bln)

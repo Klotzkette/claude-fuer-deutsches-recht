@@ -1,6 +1,6 @@
 ---
 name: dokumente-uebersetzung-doppelversicherung
-description: "Wenn es um dokumente-uebersetzung-apostille-legalisation in Rentenprüfer geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
+description: "Für dokumente-übersetzung-apostille-legalisation: ordnet Akte, Belege und Lücken; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # dokumente-uebersetzung-apostille-legalisation

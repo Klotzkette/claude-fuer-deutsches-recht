@@ -1,6 +1,6 @@
 ---
 name: insolvenz-des-factoringkunden-aussonderung-absonderung
-description: "Wenn es um Insolvenz des Factoringkunden Aussonderung Absonderung in Factoring-Recht geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
+description: "Für Insolvenz des Factoringkunden Aussonderung Absonderung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Insolvenz des Factoringkunden Aussonderung Absonderung

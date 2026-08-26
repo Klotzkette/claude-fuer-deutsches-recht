@@ -1,6 +1,6 @@
 ---
 name: bmi-oeffentlicher-dienst-und-beamtenrecht
-description: "Wenn es um Oeffentlicher Dienst und Beamtenrecht (BMI) in Legistik-Werkstatt geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen. Auswahlstichwort: Bmi Oeffentlicher Dienst Und Beamtenrecht; Arbeitsfeld: Legistik-Werkstatt."
+description: "Für Öffentlicher Dienst und Beamtenrecht (BMI): ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt. Fachgebiet: Legistik-Werkstatt. Route: bmi-oeffentlicher-dienst-und-beamtenrecht."
 ---
 
 # Oeffentlicher Dienst und Beamtenrecht (BMI)

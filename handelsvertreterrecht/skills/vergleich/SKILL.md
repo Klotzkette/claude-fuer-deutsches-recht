@@ -1,6 +1,6 @@
 ---
 name: vergleich
-description: "Wenn es um Vergleich in Handelsvertreterrecht und Vertriebsverträge geht: entwickelt Verhandlungsziel, Vergleichskorridor und Eskalationspfad; liefert eine Verhandlungs- oder Eskalationslinie mit Optionen."
+description: "Für Vergleich: entwickelt Ziel, Vergleich und Eskalation; Ergebnis: Verhandlungs- oder Eskalationslinie."
 ---
 
 # Vergleich

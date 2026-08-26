@@ -1,6 +1,6 @@
 ---
 name: umsatzsteuer-voranmeldung
-description: "Wenn es um Rechnung und Umsatzsteuer: Bereitet ustva in Solo-Selbstständige Praxis geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Rechnung und Umsatzsteuer: Bereitet ustva: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Schnittstellenkarte mit Zuständigkeits- und Nachweisfragen."
 ---
 
 # Rechnung und Umsatzsteuer: Bereitet ustva

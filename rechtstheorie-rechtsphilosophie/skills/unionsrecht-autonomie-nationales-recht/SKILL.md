@@ -1,6 +1,6 @@
 ---
 name: unionsrecht-autonomie-nationales-recht
-description: "Wenn es um Unionsrecht und nationales Recht in Rechtstheorie und Rechtsphilosophie geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Unionsrecht und nationales Recht: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Unionsrecht und nationales Recht

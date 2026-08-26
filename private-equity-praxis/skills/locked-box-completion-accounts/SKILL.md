@@ -1,6 +1,6 @@
 ---
 name: locked-box-completion-accounts
-description: "Wenn es um Locked Box und Completion Accounts in Private Equity Praxis geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Locked Box und Completion Accounts: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Locked Box und Completion Accounts

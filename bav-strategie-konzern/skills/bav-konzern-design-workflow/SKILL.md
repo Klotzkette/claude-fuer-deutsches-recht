@@ -1,6 +1,6 @@
 ---
 name: bav-konzern-design-workflow
-description: "Wenn es um bAV: Konzern-Design in BAV Strategie Konzern — Treuenfels Yamamoto Rechtsanwälte geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen."
+description: "Für bAV: Konzern-Design: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # bAV: Konzern-Design

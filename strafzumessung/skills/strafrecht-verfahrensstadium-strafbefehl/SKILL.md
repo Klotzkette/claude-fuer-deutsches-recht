@@ -1,6 +1,6 @@
 ---
 name: strafrecht-verfahrensstadium-strafbefehl
-description: "Wenn es um Strafrecht: Fristen, Form, Zuständigkeit und Rechtsweg in Strafzumessung geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Strafrecht: Fristen, Form, Zuständigkeit und Rechtsweg: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Strafrecht: Fristen, Form, Zuständigkeit und Rechtsweg

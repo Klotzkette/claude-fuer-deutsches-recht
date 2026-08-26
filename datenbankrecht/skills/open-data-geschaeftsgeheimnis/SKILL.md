@@ -1,6 +1,6 @@
 ---
 name: open-data-geschaeftsgeheimnis
-description: "Wenn es um Open-Data-Portal und Nutzungsbedingungen — Datenbankrecht öffentlicher Stellen in Datenbankrecht und Datenbankherstellerrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Open-Data-Portal und Nutzungsbedingungen — Datenbankrecht öffentlicher Stellen: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Open-Data-Portal und Nutzungsbedingungen — Datenbankrecht öffentlicher Stellen

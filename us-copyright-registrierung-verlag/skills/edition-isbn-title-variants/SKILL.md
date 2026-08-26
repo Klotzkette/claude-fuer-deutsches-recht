@@ -1,6 +1,6 @@
 ---
 name: edition-isbn-title-variants
-description: "Wenn es um Edition, ISBN und Titelvarianten in US Copyright Act und Registrierung für deutsche Verlage geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
+description: "Für Edition, ISBN und Titelvarianten: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Edition, ISBN und Titelvarianten

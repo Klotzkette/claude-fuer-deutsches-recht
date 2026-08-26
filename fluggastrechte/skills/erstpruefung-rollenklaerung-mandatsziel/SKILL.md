@@ -1,6 +1,6 @@
 ---
 name: erstpruefung-rollenklaerung-mandatsziel
-description: "Wenn es um Fluggastrechte: Erstprüfung, Rollenklärung und Mandatsziel in Fluggastrechte geht: klärt Rolle, Ziel, Frist, Unterlagen und den passenden nächsten Fachskill; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Fluggastrechte: Erstprüfung, Rollenklärung und Mandatsziel: routet Rolle, Frist, Unterlagen und Fachschritt; Ergebnis: Tatbestands- oder Anspruchsmatrix."
 ---
 
 # Fluggastrechte: Erstprüfung, Rollenklärung und Mandatsziel

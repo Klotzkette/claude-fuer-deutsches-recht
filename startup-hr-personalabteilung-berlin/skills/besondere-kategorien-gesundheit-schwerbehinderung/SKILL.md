@@ -1,6 +1,6 @@
 ---
 name: besondere-kategorien-gesundheit-schwerbehinderung
-description: "Wenn es um Besondere Kategorien Gesundheit Schwerbehinderung in Start-up-HR-Personalabteilung Berlin geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
+description: "Für Besondere Kategorien Gesundheit Schwerbehinderung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Besondere Kategorien Gesundheit Schwerbehinderung

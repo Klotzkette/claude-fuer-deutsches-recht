@@ -1,6 +1,6 @@
 ---
 name: wirtschaftsstrafverfahren-datenraum-aktenplan
-description: "Wenn es um Wirtschaftsstrafverfahren: Aktenplan und Datenraum in Staatsanwaltschaft Praxis-Einstieg geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Beweislast- und Substantiierungsmatrix."
+description: "Für Wirtschaftsstrafverfahren: Aktenplan und Datenraum: ordnet Akte, Belege und Lücken; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Wirtschaftsstrafverfahren: Aktenplan und Datenraum

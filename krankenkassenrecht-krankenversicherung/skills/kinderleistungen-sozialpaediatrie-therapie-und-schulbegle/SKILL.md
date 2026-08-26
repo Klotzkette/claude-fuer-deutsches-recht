@@ -1,6 +1,6 @@
 ---
 name: kinderleistungen-sozialpaediatrie-therapie-und-schulbegle
-description: "Klärt bei Kindern die Zuständigkeit für Sozialpädiatrie, Frühförderung, Heilmittel, häusliche Krankenpflege, Psychotherapie und Schulbegleitung. Erstellt aus Förderbedarf und Alltagsfunktion einen trägerfesten Antrag mit Weiterleitungs-, Beweis- und Eilplan."
+description: "Klärt bei Kindern die Zuständigkeit für Sozialpädiatrie, Frühförderung, Heilmittel, häusliche Krankenpflege, Psychotherapie und Schulbegleitung."
 ---
 
 # Kinderleistungen: Sozialpädiatrie, Frühförderung und Schulbegleitung

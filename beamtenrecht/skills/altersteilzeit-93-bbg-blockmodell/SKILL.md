@@ -1,6 +1,6 @@
 ---
 name: altersteilzeit-93-bbg-blockmodell
-description: "Wenn es um Altersteilzeit Paragraf 93 BBG — Blockmodell und Teilzeitmodell in Beamtenrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Altersteilzeit Paragraf 93 BBG — Blockmodell und Teilzeitmodell: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Altersteilzeit § 93 BBG — Blockmodell und Teilzeitmodell

@@ -1,6 +1,6 @@
 ---
 name: kammeraufsicht-und-ruege
-description: "Wenn es um Kammeraufsicht und Rüge in Berufsrecht Notare geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
+description: "Für Kammeraufsicht und Rüge: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt. Fachgebiet: Berufsrecht Notare."
 ---
 
 # Kammeraufsicht und Rüge

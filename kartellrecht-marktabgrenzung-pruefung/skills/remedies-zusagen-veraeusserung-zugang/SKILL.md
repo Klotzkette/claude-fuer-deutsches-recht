@@ -1,6 +1,6 @@
 ---
 name: remedies-zusagen-veraeusserung-zugang
-description: "Wenn es um Remedies Zusagen Veräußerung Zugang in Kartellrecht — Marktabgrenzungsprüfung geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen."
+description: "Für Remedies Zusagen Veräußerung Zugang: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Schnittstellenkarte mit Zuständigkeits- und Nachweisfragen."
 ---
 
 # Remedies Zusagen Veräußerung Zugang

@@ -1,6 +1,6 @@
 ---
 name: space-011-starlink-oneweb-iris2-und-oeffentliche-beschaffung
-description: "Wenn es um Weltraumrecht: Starlink OneWeb IRIS2 und öffentliche Beschaffung in Weltraumrecht geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Weltraumrecht: Starlink OneWeb IRIS2 und öffentliche Beschaffung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Weltraumrecht: Starlink OneWeb IRIS2 und öffentliche Beschaffung

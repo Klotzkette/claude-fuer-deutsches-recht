@@ -1,6 +1,6 @@
 ---
 name: vergleich-statt-streit-strategie
-description: "Wenn es um Vergleich statt Streit: Strategische Vergleichsführung im gewerblichen Rechtsschutz in Fachanwalt Gewerblicher Rechtsschutz geht: entwickelt Verhandlungsziel, Vergleichskorridor und Eskalationspfad; liefert eine Verhandlungs- oder Eskalationslinie mit Optionen."
+description: "Für Vergleich statt Streit: Strategische Vergleichsführung im gewerblichen Rechtsschutz: entwickelt Ziel, Vergleich und Eskalation; Ergebnis: Verhandlungs- oder Eskalationslinie."
 ---
 
 # Vergleich statt Streit: Strategische Vergleichsführung im gewerblichen Rechtsschutz

@@ -1,6 +1,6 @@
 ---
 name: luft-096-acc3-sicherheitsauflage-bewerten
-description: "Wenn es um Acc3 Sicherheitsauflage Bewerten in Luftrecht und Flughafenrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Acc3 Sicherheitsauflage Bewerten: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Acc3 Sicherheitsauflage Bewerten

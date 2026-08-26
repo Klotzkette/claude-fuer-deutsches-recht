@@ -1,6 +1,6 @@
 ---
 name: genehmigungspflicht-jahresbericht
-description: "Wenn es um Genehmigungspflicht-Prüfung (Paragrafen 1848 ff. BGB) in Betreuungsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. Auswahlstichwort: Genehmigungspflicht Jahresbericht; Arbeitsfeld: Betreuungsrecht."
+description: "Für Genehmigungspflicht-Prüfung (Paragrafen 1848 ff. BGB): ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Genehmigungspflicht-Prüfung (§§ 1848 ff. BGB)

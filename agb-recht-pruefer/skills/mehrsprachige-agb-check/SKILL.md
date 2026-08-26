@@ -1,6 +1,6 @@
 ---
 name: mehrsprachige-agb-check
-description: "Wenn es um Mehrsprachige AGB Check in AGB-Recht-Prüfer geht: klärt Rolle, Ziel, Frist, Unterlagen und den passenden nächsten Fachskill; liefert eine Tatbestands- oder Anspruchsmatrix mit Gegenargumenten."
+description: "Für Mehrsprachige AGB Check: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Mehrsprachige AGB Check

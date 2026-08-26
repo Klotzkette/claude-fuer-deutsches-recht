@@ -1,6 +1,6 @@
 ---
 name: zwoelf-verhandlung-vergleich-und-eskalation
-description: "Wenn es um Zwoelf: Verhandlung, Vergleich und Eskalation in Fortbestehensprognose geht: entwickelt Verhandlungsziel, Vergleichskorridor und Eskalationspfad; liefert eine Verhandlungs- oder Eskalationslinie mit Optionen."
+description: "Für Zwölf: Verhandlung, Vergleich und Eskalation: entwickelt Ziel, Vergleich und Eskalation; Ergebnis: Verhandlungs- oder Eskalationslinie."
 ---
 
 # Zwoelf: Verhandlung, Vergleich und Eskalation

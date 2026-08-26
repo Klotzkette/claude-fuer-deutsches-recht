@@ -1,6 +1,6 @@
 ---
 name: strafrecht-spezial-mord-211-stgb-mordmerkmale
-description: "Wenn es um Mord nach Paragraf 211 StGB in Fachanwalt Strafrecht geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
+description: "Für Mord nach Paragraf 211 StGB: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Mord nach § 211 StGB

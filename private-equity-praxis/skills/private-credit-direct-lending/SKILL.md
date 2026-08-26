@@ -1,6 +1,6 @@
 ---
 name: private-credit-direct-lending
-description: "Wenn es um Private Credit und Direct Lending in Private Equity Praxis geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Private Credit und Direct Lending: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Private Credit und Direct Lending

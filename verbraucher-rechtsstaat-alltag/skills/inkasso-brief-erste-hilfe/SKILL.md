@@ -1,6 +1,6 @@
 ---
 name: inkasso-brief-erste-hilfe
-description: "Wenn es um Inkasso-Brief erste Hilfe in Verbraucher im Rechtsstaat Alltag geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
+description: "Für Inkasso-Brief erste Hilfe: erstellt Entwurf mit Antrag, Beweis und Anlagen; Ergebnis: Schriftsatz mit Begründungs- und Anlagenlogik."
 ---
 
 # Inkasso-Brief erste Hilfe

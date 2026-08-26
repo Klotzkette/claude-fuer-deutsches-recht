@@ -1,6 +1,6 @@
 ---
 name: musterbrief-glaeubiger
-description: "Wenn es um Musterbrief Glaeubiger in Verbraucherinsolvenz und Schuldenbereinigung geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Musterbrief Gläubiger: erstellt Entwurf mit Antrag, Beweis und Anlagen; Ergebnis: Schriftsatz mit Begründungs- und Anlagenlogik."
 ---
 
 # Musterbrief an Gläubiger: Forderungsstand, Vollmacht, Planangebot, Frist, keine Anerkenntnisfalle.

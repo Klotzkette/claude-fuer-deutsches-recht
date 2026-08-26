@@ -1,6 +1,6 @@
 ---
 name: anlagenverzeichnis-grundaufbau
-description: "Wenn es um Anlagenverzeichnis-Grundaufbau in Anlagen zu Schriftsätzen geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
+description: "Für Anlagenverzeichnis-Grundaufbau: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Anlagenverzeichnis-Grundaufbau

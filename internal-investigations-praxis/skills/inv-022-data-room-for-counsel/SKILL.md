@@ -1,6 +1,6 @@
 ---
 name: inv-022-data-room-for-counsel
-description: "Wenn es um Internal Investigation: Data Room for Counsel in Internal Investigations Praxis geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Beweislast- und Substantiierungsmatrix."
+description: "Für Internal Investigation: Data Room for Counsel: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Internal Investigation: Data Room for Counsel

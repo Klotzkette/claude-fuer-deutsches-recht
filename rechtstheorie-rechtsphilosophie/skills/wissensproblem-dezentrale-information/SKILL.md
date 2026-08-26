@@ -1,6 +1,6 @@
 ---
 name: wissensproblem-dezentrale-information
-description: "Wenn es um Wissensproblem, dezentrale Information und Recht in Rechtstheorie und Rechtsphilosophie geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
+description: "Für Wissensproblem, dezentrale Information und Recht: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Wissensproblem, dezentrale Information und Recht

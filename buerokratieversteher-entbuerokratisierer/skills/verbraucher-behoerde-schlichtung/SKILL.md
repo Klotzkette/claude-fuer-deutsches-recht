@@ -1,6 +1,6 @@
 ---
 name: verbraucher-behoerde-schlichtung
-description: "Wenn es um Verbraucherbehörde und Schlichtung in Bürokratieversteher und Entbürokratisierer geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Verbraucherbehörde und Schlichtung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Verbraucherbehörde und Schlichtung

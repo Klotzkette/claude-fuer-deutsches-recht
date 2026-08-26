@@ -1,6 +1,6 @@
 ---
 name: allgemein
-description: "Wenn es um PrALR - Allgemeiner Einstieg in Preußisches Allgemeines Landrecht geht: klärt Rolle, Ziel, Frist, Unterlagen und den passenden nächsten Fachskill; liefert eine Fristen- und Risikoampel mit Sofortschritten. Auswahlstichwort: Allgemein; Arbeitsfeld: Preußisches Allgemeines Landrecht."
+description: "Für PrALR - Allgemeiner Einstieg: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # PrALR - Allgemeiner Einstieg

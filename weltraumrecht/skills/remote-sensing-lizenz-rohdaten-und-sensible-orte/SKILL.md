@@ -1,6 +1,6 @@
 ---
 name: remote-sensing-lizenz-rohdaten-und-sensible-orte
-description: "Wenn es um Weltraumrecht: Remote Sensing: Lizenz, Rohdaten, sensible Orte in Weltraumrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Weltraumrecht: Remote Sensing: Lizenz, Rohdaten, sensible Orte: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Weltraumrecht: Remote Sensing: Lizenz, Rohdaten, sensible Orte

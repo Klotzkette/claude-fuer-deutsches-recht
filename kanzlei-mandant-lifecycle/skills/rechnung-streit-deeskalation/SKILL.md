@@ -1,6 +1,6 @@
 ---
 name: rechnung-streit-deeskalation
-description: "Wenn es um Rechnungsstreit deeskalieren in Kanzlei-Mandant Lifecycle geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Rechnungsstreit deeskalieren: entwickelt Ziel, Vergleich und Eskalation; Ergebnis: Verhandlungs- oder Eskalationslinie."
 ---
 
 # Rechnungsstreit deeskalieren

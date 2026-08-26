@@ -1,6 +1,6 @@
 ---
 name: kammeranhoerung-fristverlaengerung
-description: "Wenn es um Kammeranhörung Fristverlängerung: Präventions- und Organisationspaket in Berufsgerichtliche Verfahren Freie Berufe geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Kammeranhörung Fristverlängerung: Präventions- und Organisationspaket: prüft Frist, Form, Zuständigkeit und Eilbedarf; Ergebnis: Fristen- und Risikoampel."
 ---
 
 # Kammeranhörung Fristverlängerung: Präventions- und Organisationspaket

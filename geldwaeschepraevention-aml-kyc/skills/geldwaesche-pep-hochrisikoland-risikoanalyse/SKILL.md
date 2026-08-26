@@ -1,6 +1,6 @@
 ---
 name: geldwaesche-pep-hochrisikoland-risikoanalyse
-description: "Wenn es um PEP, Hochrisikoland und verstärkte Sorgfalt in Geldwäscheprävention, AML und KYC geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für PEP, Hochrisikoland und verstärkte Sorgfalt: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # PEP, Hochrisikoland und verstärkte Sorgfalt

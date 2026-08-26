@@ -1,6 +1,6 @@
 ---
 name: anti-satellite-test-ban-und-orbital-debris-pledge
-description: "Wenn es um Anti-Satellite-Test-Ban und Orbital-Debris-Pledge in Weltraumrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Anti-Satellite-Test-Ban und Orbital-Debris-Pledge: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Anti-Satellite-Test-Ban und Orbital-Debris-Pledge

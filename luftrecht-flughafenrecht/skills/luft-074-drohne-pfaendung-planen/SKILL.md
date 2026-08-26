@@ -1,6 +1,6 @@
 ---
 name: luft-074-drohne-pfaendung-planen
-description: "Wenn es um Drohne Pfaendung Planen in Luftrecht und Flughafenrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Drohne Pfändung Planen: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Drohne Pfaendung Planen

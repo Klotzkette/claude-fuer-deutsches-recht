@@ -1,6 +1,6 @@
 ---
 name: frist-und-zustaendigkeit-cockpit
-description: "Wenn es um Fristen- und Zuständigkeitscockpit in Verbraucher im Rechtsstaat Alltag geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Fristen- und Zuständigkeitscockpit: prüft Frist, Form, Zuständigkeit und Eilbedarf; Ergebnis: Fristen- und Risikoampel. Fachgebiet: Verbraucher im Rechtsstaat Alltag."
 ---
 
 # Fristen- und Zuständigkeitscockpit

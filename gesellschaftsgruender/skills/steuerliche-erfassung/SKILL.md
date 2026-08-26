@@ -1,6 +1,6 @@
 ---
 name: steuerliche-erfassung
-description: "Wenn es um Steuerliche Erfassung ELSTER in gesellschaftsgründer — Gründungsassistent für deutsche geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Steuerliche Erfassung ELSTER: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Schnittstellenkarte mit Zuständigkeits- und Nachweisfragen."
 ---
 
 # Steuerliche Erfassung ELSTER

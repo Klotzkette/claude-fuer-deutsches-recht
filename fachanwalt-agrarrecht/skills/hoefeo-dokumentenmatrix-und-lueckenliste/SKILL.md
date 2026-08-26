@@ -1,6 +1,6 @@
 ---
 name: hoefeo-dokumentenmatrix-und-lueckenliste
-description: "Wenn es um Hoefeo: Dokumentenmatrix, Lückenliste und Nachforderung in Fachanwalt Agrarrecht geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Dokumentenmatrix mit Nachforderungsliste."
+description: "Für Höfeo: Dokumentenmatrix, Lückenliste und Nachforderung: ordnet Akte, Belege und Lücken; Ergebnis: Dokumentenmatrix mit Nachforderungsliste."
 ---
 
 # Hoefeo: Dokumentenmatrix, Lückenliste und Nachforderung

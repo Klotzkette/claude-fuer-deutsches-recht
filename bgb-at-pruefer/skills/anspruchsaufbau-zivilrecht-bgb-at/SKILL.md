@@ -1,6 +1,6 @@
 ---
 name: anspruchsaufbau-zivilrecht-bgb-at
-description: "Wenn es um Anspruchsaufbau im Zivilrecht — BGB Allgemeiner Teil in BGB AT Prüfer geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Tatbestands- oder Anspruchsmatrix mit Gegenargumenten."
+description: "Für Anspruchsaufbau im Zivilrecht — BGB Allgemeiner Teil: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Tatbestands- oder Anspruchsmatrix."
 ---
 
 # Anspruchsaufbau im Zivilrecht — BGB Allgemeiner Teil

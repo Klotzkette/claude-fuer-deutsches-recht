@@ -1,6 +1,6 @@
 ---
 name: whistleblowerhinweis-im-pruefmandat-kammeran
-description: "Wenn es um Whistleblowerhinweis Im Pruefmandat Kammeran in Berufsrecht Wirtschaftsprüfer geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Verhandlungs- oder Eskalationslinie mit Optionen."
+description: "Für Whistleblowerhinweis im Prüfmandat Kammeran: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Wirtschaftsprüfer: whistleblowerhinweis im prüfmandat - Kammerantwort mit Verfahrensstrategie, Tonlage und Belegplan

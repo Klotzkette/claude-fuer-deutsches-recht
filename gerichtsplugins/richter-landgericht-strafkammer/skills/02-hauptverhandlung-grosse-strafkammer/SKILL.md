@@ -1,6 +1,6 @@
 ---
 name: 02-hauptverhandlung-grosse-strafkammer
-description: "Wenn es um 02 Hauptverhandlung Große Strafkammer in Strafkammer am Landgericht geht: entwickelt Verhandlungsziel, Vergleichskorridor und Eskalationspfad; liefert eine Verhandlungs- oder Eskalationslinie mit Optionen."
+description: "Für 02 Hauptverhandlung Große Strafkammer: entwickelt Ziel, Vergleich und Eskalation; Ergebnis: Verhandlungs- oder Eskalationslinie."
 ---
 
 # 02 Hauptverhandlung Große Strafkammer

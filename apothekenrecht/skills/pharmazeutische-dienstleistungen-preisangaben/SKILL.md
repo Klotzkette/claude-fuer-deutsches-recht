@@ -1,6 +1,6 @@
 ---
 name: pharmazeutische-dienstleistungen-preisangaben
-description: "Wenn es um Pharmazeutische Dienstleistungen Vergütung in Apothekenrecht geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen."
+description: "Für Pharmazeutische Dienstleistungen Vergütung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Schnittstellenkarte mit Zuständigkeits- und Nachweisfragen."
 ---
 
 # Pharmazeutische Dienstleistungen Vergütung

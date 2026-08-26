@@ -1,6 +1,6 @@
 ---
 name: ihl-087-settlement-crossborder
-description: "Wenn es um Settlement Crossborder in Internationales Handelsrecht und Lex Mercatoria geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Settlement Crossborder: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Settlement Crossborder

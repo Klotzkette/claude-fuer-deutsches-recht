@@ -1,6 +1,6 @@
 ---
 name: verl-044-verlagsgesetz-paragraphen-navigator
-description: "Wenn es um Verlagsrecht: Verlagsgesetz Paragraphen-Navigator in Verlagsrecht und Buchpreisbindung geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Verlagsrecht: Verlagsgesetz Paragraphen-Navigator: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Verlagsrecht: Verlagsgesetz Paragraphen-Navigator

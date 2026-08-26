@@ -1,6 +1,6 @@
 ---
 name: musikwerk-melodie-harmonie-rhythmus
-description: "Wenn es um Musikwerk, Melodie, Harmonie und Rhythmus in Urheberrecht DE EU geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen."
+description: "Für Musikwerk, Melodie, Harmonie und Rhythmus: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Musikwerk, Melodie, Harmonie und Rhythmus

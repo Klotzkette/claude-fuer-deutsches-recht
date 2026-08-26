@@ -1,6 +1,6 @@
 ---
 name: stb-bwa-aufbau-grundlagen
-description: "Wenn es um Aufbau der Standard-BWA — Grundlagen fuer Steuerberater in Steuerrecht – Steuerberater und Anwälte geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Aufbau der Standard-BWA — Grundlagen für Steuerberater: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Aufbau der Standard-BWA — Grundlagen fuer Steuerberater

@@ -1,6 +1,6 @@
 ---
 name: kv-031-pkv-basistarif-standardtarif-notlagentarif
-description: "Wenn es um Krankenversicherung: PKV Basistarif Standardtarif Notlagentarif in Krankenkassenrecht und Krankenversicherung geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Krankenversicherung: PKV Basistarif Standardtarif Notlagentarif: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Krankenversicherung: PKV Basistarif Standardtarif Notlagentarif

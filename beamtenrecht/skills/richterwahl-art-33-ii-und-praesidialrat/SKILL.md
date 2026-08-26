@@ -1,6 +1,6 @@
 ---
 name: richterwahl-art-33-ii-und-praesidialrat
-description: "Wenn es um Richterwahl, Bestenauslese und Präsidialrat in Beamtenrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Richterwahl, Bestenauslese und Präsidialrat: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Richterwahl, Bestenauslese und Präsidialrat

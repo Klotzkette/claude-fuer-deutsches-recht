@@ -1,6 +1,6 @@
 ---
 name: belegarzt-honorar-patientenrechte
-description: "Wenn es um Belegarzt Honorar und Krankenhausvertrag in Krankenhausrecht geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
+description: "Für Belegarzt Honorar und Krankenhausvertrag: ordnet Akte, Belege und Lücken; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Belegarzt Honorar und Krankenhausvertrag

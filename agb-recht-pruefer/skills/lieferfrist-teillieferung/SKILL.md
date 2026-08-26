@@ -1,6 +1,6 @@
 ---
 name: lieferfrist-teillieferung
-description: "Wenn es um Lieferfrist Teillieferung in AGB-Recht-Prüfer geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Lieferfrist Teillieferung: prüft Frist, Form, Zuständigkeit und Eilbedarf; Ergebnis: Fristen- und Risikoampel."
 ---
 
 # Lieferfrist Teillieferung

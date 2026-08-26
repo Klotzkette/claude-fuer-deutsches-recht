@@ -1,6 +1,6 @@
 ---
 name: positivismus-normgeltung-ohne-moralautomat
-description: "Wenn es um Positivismus ohne Moralautomat in Rechtstheorie und Rechtsphilosophie geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Tatbestands- oder Anspruchsmatrix mit Gegenargumenten."
+description: "Für Positivismus ohne Moralautomat: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Tatbestands- oder Anspruchsmatrix."
 ---
 
 # Positivismus ohne Moralautomat

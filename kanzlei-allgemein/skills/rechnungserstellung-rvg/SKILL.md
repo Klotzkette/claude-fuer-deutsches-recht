@@ -1,6 +1,6 @@
 ---
 name: rechnungserstellung-rvg
-description: "Wenn es um Rechnungserstellung Honorar (RVG oder Vereinbarung) in Kanzlei-Allgemein geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Berechnungstabelle mit Schwellen, Annahmen und Kontrollfragen."
+description: "Für Rechnungserstellung Honorar (RVG oder Vereinbarung): ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Rechnungserstellung Honorar (RVG oder Vereinbarung)

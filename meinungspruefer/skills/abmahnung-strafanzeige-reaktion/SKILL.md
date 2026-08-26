@@ -1,6 +1,6 @@
 ---
 name: abmahnung-strafanzeige-reaktion
-description: "Wenn es um Reaktion auf Abmahnung oder Strafanzeige in Meinungsprüfer geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Reaktion auf Abmahnung oder Strafanzeige: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Reaktion auf Abmahnung oder Strafanzeige

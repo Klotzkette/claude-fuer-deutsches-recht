@@ -1,6 +1,6 @@
 ---
 name: kaltstart-triage
-description: "Wenn es um Bürokratieversteher — Allgemein in Bürokratieversteher und Entbürokratisierer geht: klärt Rolle, Ziel, Frist, Unterlagen und den passenden nächsten Fachskill; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
+description: "Für Bürokratieversteher — Allgemein: routet Rolle, Frist, Unterlagen und Fachschritt; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Bürokratieversteher — Allgemein

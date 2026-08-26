@@ -1,6 +1,6 @@
 ---
 name: workflow-hausverwaltung-intake
-description: "Wenn es um Hausverwaltungs-Intake: Prüfungslinie für Miet- und WEG-Recht in Fachanwalt Miet- und Wohnungseigentumsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Hausverwaltungs-Intake: Prüfungslinie für Miet- und WEG-Recht: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Hausverwaltungs-Intake: Prüfungslinie für Miet- und WEG-Recht

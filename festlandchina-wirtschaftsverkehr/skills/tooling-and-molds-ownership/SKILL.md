@@ -1,6 +1,6 @@
 ---
 name: tooling-and-molds-ownership
-description: "Wenn es um Tooling und Molds: Eigentumsrechte bei chinesischen Fertigern in China-Wirtschaftsverkehr geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Tooling und Molds: Eigentumsrechte bei chinesischen Fertigern: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Tooling und Molds: Eigentumsrechte bei chinesischen Fertigern

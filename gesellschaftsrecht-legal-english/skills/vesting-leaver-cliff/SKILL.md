@@ -1,6 +1,6 @@
 ---
 name: vesting-leaver-cliff
-description: "Wenn es um Vesting, Leaver und Cliff in Didaktisches Gesellschaftsrecht — English Business Terms geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen."
+description: "Für Vesting, Leaver und Cliff: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Vesting, Leaver und Cliff

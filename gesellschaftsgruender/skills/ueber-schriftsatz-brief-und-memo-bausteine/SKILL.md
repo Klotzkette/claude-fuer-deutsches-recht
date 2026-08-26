@@ -1,6 +1,6 @@
 ---
 name: ueber-schriftsatz-brief-und-memo-bausteine
-description: "Wenn es um Über: Schriftsatz-, Brief- und Memo-Bausteine in gesellschaftsgründer — Gründungsassistent für deutsche geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
+description: "Für Über: Schriftsatz-, Brief- und Memo-Bausteine: erstellt Entwurf mit Antrag, Beweis und Anlagen; Ergebnis: Schriftsatz mit Begründungs- und Anlagenlogik."
 ---
 
 # Über: Schriftsatz-, Brief- und Memo-Bausteine
@@ -49,3 +49,7 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 3. **Pflichtbestandteile prüfen:** Anmeldungstext HRB enthält Firma, Sitz, Gegenstand, Stammkapital, GF mit Vertretungsregelung (Paragraf 8 GmbHG). Gewerbeanzeige erforderlich vor Geschäftsbeginn, sonst Bußgeld Paragraf 146 Abs. 2 GewO.
 4. **Befreiung Paragraf 181 BGB:** Bei Ein-Personen-GmbH zwingend Insichgeschäfts-Befreiung im Gesellschaftsvertrag und konkrete Erteilung; sonst kann GF mit sich selbst nicht wirksam kontrahieren.
 5. **Anschluss:** Geschäftsführervertrag-Skill `spezial-geschaeftsfuehrervertrag-livequellen-check`; bei Transparenzregister `gesellschaftsgruender-transparenzregister`.
+
+## Vertiefung bei Bedarf
+
+- Bei `spezial-ueber-schriftsatz-brief-und-memo-bausteine` beziehungsweise Ueber: Schriftsatz-, Brief- und Memo-Bausteine: [die zusätzliche Vertiefung laden](./references/vertiefung-spezial-ueber-schriftsatz-brief-und-memo-bausteine.md).

@@ -1,6 +1,6 @@
 ---
 name: inv-035-conflict-of-interest
-description: "Wenn es um Internal Investigation: Conflict of Interest in Internal Investigations Praxis geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Beweislast- und Substantiierungsmatrix."
+description: "Für Internal Investigation: Conflict of Interest: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Internal Investigation: Conflict of Interest

@@ -1,6 +1,6 @@
 ---
 name: governance-board-lernpfad-dealroom
-description: "Wenn es um Governance, Board und Consent Matters in Didaktisches Gesellschaftsrecht — English Business Terms geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen."
+description: "Für Governance, Board und Consent Matters: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Governance, Board und Consent Matters

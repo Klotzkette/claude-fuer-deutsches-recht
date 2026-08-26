@@ -1,6 +1,6 @@
 ---
 name: aenderungsvorbehalt-308
-description: "Wenn es um Änderungsvorbehalt 308 in AGB-Recht-Prüfer geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Gegenprüfung mit Fehler-, Beweis- und Fristencheck."
+description: "Für Änderungsvorbehalt 308: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Änderungsvorbehalt 308

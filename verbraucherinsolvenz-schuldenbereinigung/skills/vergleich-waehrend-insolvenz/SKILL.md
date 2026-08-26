@@ -1,6 +1,6 @@
 ---
 name: vergleich-waehrend-insolvenz
-description: "Wenn es um Vergleich Waehrend Insolvenz in Verbraucherinsolvenz und Schuldenbereinigung geht: entwickelt Verhandlungsziel, Vergleichskorridor und Eskalationspfad; liefert eine Verhandlungs- oder Eskalationslinie mit Optionen."
+description: "Für Vergleich Während Insolvenz: entwickelt Ziel, Vergleich und Eskalation; Ergebnis: Verhandlungs- oder Eskalationslinie."
 ---
 
 # Vergleich während Insolvenz/Wohlverhalten: Drittzahlung, vorzeitige RSB, Gläubigerbefriedigung und Verfahrensende.

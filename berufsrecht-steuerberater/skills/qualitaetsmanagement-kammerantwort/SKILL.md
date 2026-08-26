@@ -1,6 +1,6 @@
 ---
 name: qualitaetsmanagement-kammerantwort
-description: "Wenn es um Qualitaetsmanagement Kammerantwort in Berufsrecht Steuerberater geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Qualitätsmanagement Kammerantwort: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Gegenprüfung mit Beweis- und Fristencheck."
 ---
 
 # Steuerberater: qualitaetsmanagement fristen - Kammerantwort mit Verfahrensstrategie, Tonlage und Belegplan

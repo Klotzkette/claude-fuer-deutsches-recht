@@ -1,6 +1,6 @@
 ---
 name: aussenwirtschaft-nichtpraeferenzieller-ursprung-made-in
-description: "Wenn es um Nichtpraeferenzieller Ursprung Made In in Außenwirtschaft, Sanktionen, Zoll und CBAM geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Nichtpräferenzieller Ursprung Made in: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Nichtpraeferenzieller Ursprung Made In

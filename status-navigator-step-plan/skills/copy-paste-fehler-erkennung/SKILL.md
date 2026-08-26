@@ -1,6 +1,6 @@
 ---
 name: copy-paste-fehler-erkennung
-description: "Wenn es um Copy-Paste-Fehler erkennen in Plugin: status-navigator-step-plan geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen."
+description: "Für Copy-Paste-Fehler erkennen: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Copy-Paste-Fehler erkennen

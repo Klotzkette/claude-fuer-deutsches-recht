@@ -1,6 +1,6 @@
 ---
 name: qualitaetsgate-vor-ausgabe
-description: "Wenn es um Qualitätsgate vor Ausgabe in Kriegsdienstverweigerung und Wehrdienst geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Gegenprüfung mit Fehler-, Beweis- und Fristencheck."
+description: "Für Qualitätsgate vor Ausgabe: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Gegenprüfung mit Beweis- und Fristencheck."
 ---
 
 # Qualitätsgate vor Ausgabe

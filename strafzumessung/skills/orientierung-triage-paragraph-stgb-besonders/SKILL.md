@@ -1,6 +1,6 @@
 ---
 name: orientierung-triage-paragraph-stgb-besonders
-description: "Wenn es um Strafzumessung — Orientierung und Triage in Strafzumessung geht: klärt Rolle, Ziel, Frist, Unterlagen und den passenden nächsten Fachskill; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Strafzumessung — Orientierung und Triage: routet Rolle, Frist, Unterlagen und Fachschritt; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Strafzumessung — Orientierung und Triage

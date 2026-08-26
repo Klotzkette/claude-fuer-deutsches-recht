@@ -1,6 +1,6 @@
 ---
 name: medizinalcannabis-menge-einordnen
-description: "Wenn es um Medizinalcannabis Menge Einordnen in Betäubungsmittelrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Medizinalcannabis Menge Einordnen: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Medizinalcannabis Menge Einordnen

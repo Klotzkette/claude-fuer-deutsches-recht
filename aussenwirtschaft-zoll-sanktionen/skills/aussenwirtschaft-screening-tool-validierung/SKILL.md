@@ -1,6 +1,6 @@
 ---
 name: aussenwirtschaft-screening-tool-validierung
-description: "Wenn es um Screening-Tool-Validierung: Trefferqualitaet und Audit-Readiness in Außenwirtschaft, Sanktionen, Zoll und CBAM geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Screening-Tool-Validierung: Trefferqualität und Audit-Readiness: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Screening-Tool-Validierung: Trefferqualitaet und Audit-Readiness

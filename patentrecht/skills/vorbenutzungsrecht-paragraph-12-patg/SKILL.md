@@ -1,6 +1,6 @@
 ---
 name: vorbenutzungsrecht-paragraph-12-patg
-description: "Wenn es um Vorbenutzungsrecht Paragraf 12 PatG in patentrecht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Beweislast- und Substantiierungsmatrix."
+description: "Für Vorbenutzungsrecht Paragraf 12 PatG: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Vorbenutzungsrecht § 12 PatG

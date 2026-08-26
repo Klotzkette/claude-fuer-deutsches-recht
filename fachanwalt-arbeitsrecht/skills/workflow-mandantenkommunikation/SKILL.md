@@ -1,6 +1,6 @@
 ---
 name: workflow-mandantenkommunikation
-description: "Wenn es um Workflow Mandantenkommunikation in Fachanwalt Arbeitsrecht geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert eine Mandantennachricht oder Entscheidungsvorlage."
+description: "Für Workflow Mandantenkommunikation: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Mandantennachricht oder Entscheidungsvorlage. Fachgebiet: Fachanwalt Arbeitsrecht."
 ---
 
 # Mandantenkommunikation im Arbeitsrechtsmandat: Mandantenbriefe, E-Mails, Gesprächsvorbereitung, Informationspflichten, Kostenhinweis RVG, Akteneinsicht, Verfahrensstandsmeldungen, Aufklärungsbrief vor Klageerhebung.

@@ -1,6 +1,6 @@
 ---
 name: guidance-analystencall
-description: "Wenn es um Guidance Update / Prognoseänderung – Insiderrecht in Insiderrecht Compliance geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
+description: "Für Guidance Update / Prognoseänderung – Insiderrecht: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Guidance Update / Prognoseänderung – Insiderrecht

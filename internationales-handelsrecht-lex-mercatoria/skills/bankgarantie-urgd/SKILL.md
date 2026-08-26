@@ -1,6 +1,6 @@
 ---
 name: bankgarantie-urgd
-description: "Wenn es um Bankgarantien nach URDG 758 in Internationales Handelsrecht und Lex Mercatoria geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Bankgarantien nach URDG 758: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Bankgarantien nach URDG 758

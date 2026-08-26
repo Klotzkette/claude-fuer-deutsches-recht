@@ -1,6 +1,6 @@
 ---
 name: verfahrenszusammenfassung-rechtsweg-register
-description: "Wenn es um Verfahrenszusammenfassung: Behörden-, Gerichts- oder Registerweg in aktenauszug-gerichtsverfahren geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Verfahrenszusammenfassung: Behörden-, Gerichts- oder Registerweg: prüft Frist, Form, Zuständigkeit und Eilbedarf; Ergebnis: Einreichungsplan mit Form- und Nachweischeck."
 ---
 
 # Verfahrenszusammenfassung: Behörden-, Gerichts- oder Registerweg

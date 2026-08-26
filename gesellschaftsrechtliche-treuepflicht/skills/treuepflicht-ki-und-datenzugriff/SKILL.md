@@ -1,6 +1,6 @@
 ---
 name: treuepflicht-ki-und-datenzugriff
-description: "Wenn es um Treuepflicht digitale Werkzeuge Und Datenzugriff in Gesellschaftsrechtliche Treuepflicht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen."
+description: "Für Treuepflicht digitale Werkzeuge und Datenzugriff: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Schnittstellenkarte mit Zuständigkeits- und Nachweisfragen."
 ---
 
 # Treuepflicht KI Und Datenzugriff

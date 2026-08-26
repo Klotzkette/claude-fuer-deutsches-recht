@@ -1,6 +1,6 @@
 ---
 name: spezial-lueckenfuellung-sonderfall-und-edge-case
-description: "Wenn es um Lueckenfuellung: Sonderfall und Edge-Case-Prüfung in Methodenlehre bürgerliches Recht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Lückenfüllung: Sonderfall und Edge-Case-Prüfung: ordnet Akte, Belege und Lücken; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Lueckenfuellung: Sonderfall und Edge-Case-Prüfung

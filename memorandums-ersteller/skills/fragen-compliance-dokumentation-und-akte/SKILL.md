@@ -1,6 +1,6 @@
 ---
 name: fragen-compliance-dokumentation-und-akte
-description: "Wenn es um Fragen: Compliance-Dokumentation und Aktenvermerk in Memorandums-Ersteller geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
+description: "Für Fragen: Compliance-Dokumentation und Aktenvermerk: ordnet Akte, Belege und Lücken; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Fragen: Compliance-Dokumentation und Aktenvermerk

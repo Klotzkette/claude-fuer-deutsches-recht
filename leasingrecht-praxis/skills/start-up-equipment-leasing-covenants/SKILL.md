@@ -1,6 +1,6 @@
 ---
 name: start-up-equipment-leasing-covenants
-description: "Wenn es um Start-up Equipment-Leasing: Covenants und Risikoabsicherung in Leasingrecht Praxis geht: entwickelt Verhandlungsziel, Vergleichskorridor und Eskalationspfad; liefert eine Verhandlungs- oder Eskalationslinie mit Optionen."
+description: "Für Start-up Equipment-Leasing: Covenants und Risikoabsicherung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Start-up Equipment-Leasing: Covenants und Risikoabsicherung

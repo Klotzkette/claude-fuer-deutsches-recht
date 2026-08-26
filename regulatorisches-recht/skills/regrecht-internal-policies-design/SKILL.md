@@ -1,6 +1,6 @@
 ---
 name: regrecht-internal-policies-design
-description: "Wenn es um Regrecht: Internal Policies in Regulatorisches Recht – Plugin für deutsches geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
+description: "Für Regrecht: Internal Policies: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Regrecht: Internal Policies

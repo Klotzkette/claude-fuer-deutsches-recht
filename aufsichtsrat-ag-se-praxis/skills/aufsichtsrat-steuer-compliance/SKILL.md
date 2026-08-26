@@ -1,6 +1,6 @@
 ---
 name: aufsichtsrat-steuer-compliance
-description: "Wenn es um Aufsichtsrat Steuer Compliance in AG/SE-Aufsichtsrat Praxis geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen."
+description: "Für Aufsichtsrat Steuer Compliance: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Schnittstellenkarte mit Zuständigkeits- und Nachweisfragen."
 ---
 
 # Aufsichtsrat Steuer Compliance

@@ -1,6 +1,6 @@
 ---
 name: schwarmpruefung-mehrere-tools
-description: "Wenn es um Mehrere digitale Werkzeuge-Tools prüfen in diesem Spezialbereich geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Beweislast- und Substantiierungsmatrix."
+description: "Für Mehrere digitale Werkzeuge-Tools prüfen: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Tatbestands- oder Anspruchsmatrix."
 ---
 
 # Mehrere KI-Tools prüfen

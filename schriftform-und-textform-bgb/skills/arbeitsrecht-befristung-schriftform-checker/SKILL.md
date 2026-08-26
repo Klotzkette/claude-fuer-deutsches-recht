@@ -1,6 +1,6 @@
 ---
 name: arbeitsrecht-befristung-schriftform-checker
-description: "Wenn es um Arbeitsrecht — Befristung und Aufhebung: Paragrafen 14 TzBfG, 623 BGB in Schriftform und Textform im BGB geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Arbeitsrecht — Befristung und Aufhebung: Paragrafen 14 TzBfG, 623 BGB: prüft Frist, Form, Zuständigkeit und Eilbedarf; Ergebnis: Fristen- und Risikoampel."
 ---
 
 # Arbeitsrecht — Befristung und Aufhebung: Paragrafen 14 TzBfG, 623 BGB

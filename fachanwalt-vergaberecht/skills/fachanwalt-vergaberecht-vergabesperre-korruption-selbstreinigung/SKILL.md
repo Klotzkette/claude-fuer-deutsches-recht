@@ -1,6 +1,6 @@
 ---
 name: fachanwalt-vergaberecht-vergabesperre-korruption-selbstreinigung
-description: "Wenn es um Vergabesperre und Selbstreinigung in Fachanwalt Vergaberecht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
+description: "Für Vergabesperre und Selbstreinigung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Vergabesperre und Selbstreinigung

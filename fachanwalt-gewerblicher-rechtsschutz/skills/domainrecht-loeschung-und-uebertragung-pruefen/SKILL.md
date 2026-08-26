@@ -1,6 +1,6 @@
 ---
 name: domainrecht-loeschung-und-uebertragung-pruefen
-description: "Prüft Domainkonflikte nach Namens-, Kennzeichen- und Lauterkeitsrecht und trennt Unterlassung, Löschung, Dispute-Eintrag und Übertragung. Liefert Prioritätsachse, Anspruchsmatrix, Belegplan, Antrag und eine vollstreckbare Handlungsstrategie."
+description: "Prüft Domainkonflikte nach Namens-, Kennzeichen- und Lauterkeitsrecht und trennt Unterlassung, Löschung, Dispute-Eintrag und Übertragung."
 ---
 
 # 1. Domainkonflikt bearbeiten

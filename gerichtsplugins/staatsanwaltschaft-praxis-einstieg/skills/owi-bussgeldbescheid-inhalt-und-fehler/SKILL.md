@@ -1,6 +1,6 @@
 ---
 name: owi-bussgeldbescheid-inhalt-und-fehler
-description: "Wenn es um Owi Bussgeldbescheid Inhalt Und Fehler in Staatsanwaltschaft Praxis-Einstieg geht: klärt Rolle, Ziel, Frist, Unterlagen und den passenden nächsten Fachskill; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Owi Bussgeldbescheid Inhalt und Fehler: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Bußgeldbescheid prüfen: Tatbezeichnung, Rechtsgrundlage, Beweismittel, Nebenfolgen, Rechtsbehelf und typische Fehler erkennen

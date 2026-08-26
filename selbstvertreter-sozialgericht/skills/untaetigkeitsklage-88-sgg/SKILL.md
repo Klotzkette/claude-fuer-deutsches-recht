@@ -1,6 +1,6 @@
 ---
 name: untaetigkeitsklage-88-sgg
-description: "Wenn es um Wenn die Behörde nichts tut — Untaetigkeitsklage Paragraf 88 SGG in selbstvertreter-sozialgericht geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
+description: "Für Wenn die Behörde nichts tut — Untätigkeitsklage Paragraf 88 SGG: erstellt Entwurf mit Antrag, Beweis und Anlagen; Ergebnis: Schriftsatz mit Begründungs- und Anlagenlogik."
 ---
 
 # Wenn die Behörde nichts tut — Untaetigkeitsklage § 88 SGG

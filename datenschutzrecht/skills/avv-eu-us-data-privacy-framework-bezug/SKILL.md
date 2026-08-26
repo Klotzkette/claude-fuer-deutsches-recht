@@ -1,6 +1,6 @@
 ---
 name: avv-eu-us-data-privacy-framework-bezug
-description: "Wenn es um EU-US Data Privacy Framework (DPF) im AVV in Datenschutzrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für EU-US Data Privacy Framework (DPF) im AVV: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Schnittstellenkarte mit Zuständigkeits- und Nachweisfragen."
 ---
 
 # EU-US Data Privacy Framework (DPF) im AVV

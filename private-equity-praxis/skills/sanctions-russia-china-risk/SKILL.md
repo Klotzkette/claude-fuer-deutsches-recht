@@ -1,6 +1,6 @@
 ---
 name: sanctions-russia-china-risk
-description: "Wenn es um Sanktions- und geopolitische Risiken in Private Equity Praxis geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Sanktions- und geopolitische Risiken: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Sanktions- und geopolitische Risiken

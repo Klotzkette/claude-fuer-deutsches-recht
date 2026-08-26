@@ -1,6 +1,6 @@
 ---
 name: incoterms-2020-klauselauswahl-und-systematik
-description: "Wenn es um Incoterms 2020: Klauselauswahl und Systematik in Internationales Handelsrecht und Lex Mercatoria geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Incoterms 2020: Klauselauswahl und Systematik: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Incoterms 2020: Klauselauswahl und Systematik

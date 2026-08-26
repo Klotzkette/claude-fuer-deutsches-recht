@@ -1,6 +1,6 @@
 ---
 name: audit-trail-freigabe
-description: "Wenn es um Audit-Trail und Vier-Augen-Freigabe in Berichtspflichten-Erlediger geht: rechnet Schwellen, Beträge, Varianten und Kontrollannahmen durch; liefert eine Berechnungstabelle mit Schwellen, Annahmen und Kontrollfragen."
+description: "Für Audit-Trail und Vier-Augen-Freigabe: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Audit-Trail und Vier-Augen-Freigabe

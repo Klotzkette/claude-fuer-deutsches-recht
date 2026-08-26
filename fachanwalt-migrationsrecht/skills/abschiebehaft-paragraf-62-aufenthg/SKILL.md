@@ -1,6 +1,6 @@
 ---
 name: abschiebehaft-paragraf-62-aufenthg
-description: "Wenn es um Abschiebehaft Paragraf 62 AufenthG in Fachanwalt Migrationsrecht geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Abschiebehaft Paragraf 62 AufenthG: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Abschiebehaft § 62 AufenthG

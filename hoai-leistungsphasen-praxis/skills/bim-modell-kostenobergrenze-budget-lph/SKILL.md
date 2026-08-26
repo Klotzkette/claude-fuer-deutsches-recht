@@ -1,6 +1,6 @@
 ---
 name: bim-modell-kostenobergrenze-budget-lph
-description: "Wenn es um BIM, CDE Und Planstandshaftung in HOAI Leistungsphasen Praxis geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
+description: "Für BIM, CDE und Planstandshaftung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # BIM, CDE Und Planstandshaftung

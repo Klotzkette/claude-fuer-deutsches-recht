@@ -1,6 +1,6 @@
 ---
 name: ausschuss-beteiligung-planen
-description: "Wenn es um Ausschuss Beteiligung Planen in Kommunalrecht der Länder geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Ausschuss Beteiligung Planen: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Ausschuss Beteiligung Planen

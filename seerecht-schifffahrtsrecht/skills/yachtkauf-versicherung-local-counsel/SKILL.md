@@ -1,6 +1,6 @@
 ---
 name: yachtkauf-versicherung-local-counsel
-description: "Wenn es um Yachtkauf – Schadensfall bei Versicherung melden in See- und Schifffahrtsrecht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
+description: "Für Yachtkauf – Schadensfall bei Versicherung melden: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Yachtkauf – Schadensfall bei Versicherung melden

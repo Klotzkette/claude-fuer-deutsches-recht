@@ -1,6 +1,6 @@
 ---
 name: kleinunternehmerregelung-und-wachstumsschmerz
-description: "Wenn es um Influencer-Recht: Kleinunternehmerregelung und Wachstumsschmerz in Influencer-Recht geht: rechnet Schwellen, Beträge, Varianten und Kontrollannahmen durch; liefert eine Berechnungstabelle mit Schwellen, Annahmen und Kontrollfragen."
+description: "Für Influencer-Recht: Kleinunternehmerregelung und Wachstumsschmerz: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Influencer-Recht: Kleinunternehmerregelung und Wachstumsschmerz

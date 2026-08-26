@@ -1,6 +1,6 @@
 ---
 name: founder-konflikt-und-abberufung
-description: "Wenn es um Founder-Konflikt und Abberufung in Venture Capital Geber geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Founder-Konflikt und Abberufung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Founder-Konflikt und Abberufung

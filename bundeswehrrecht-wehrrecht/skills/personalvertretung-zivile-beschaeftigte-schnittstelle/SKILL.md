@@ -1,6 +1,6 @@
 ---
 name: personalvertretung-zivile-beschaeftigte-schnittstelle
-description: "Wenn es um Personalvertretung zivile Beschäftigte — Schnittstelle in Bundeswehrrecht und Wehrrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Personalvertretung zivile Beschäftigte — Schnittstelle: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Personalvertretung zivile Beschäftigte — Schnittstelle

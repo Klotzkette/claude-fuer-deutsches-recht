@@ -1,6 +1,6 @@
 ---
 name: zvg-antrag-glaeubiger
-description: "Wenn es um ZVG-Antrag (Zwangsversteigerung / Zwangsverwaltung) in Zwangsvollstreckung geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
+description: "Für ZVG-Antrag (Zwangsversteigerung / Zwangsverwaltung): erstellt Entwurf mit Antrag, Beweis und Anlagen; Ergebnis: Schriftsatz mit Begründungs- und Anlagenlogik."
 ---
 
 # ZVG-Antrag (Zwangsversteigerung / Zwangsverwaltung)

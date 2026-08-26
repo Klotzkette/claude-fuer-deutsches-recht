@@ -1,6 +1,6 @@
 ---
 name: goae-5-bemessung-gebuehrenrahmen-2-3-1-8-1-15-schwelle
-description: "Wenn es um GOÄ Paragraf 5 Bemessung Gebührenrahmen 2.3 1.8 1.15 Schwelle in GOÄ Gebührenordnung für Ärzte geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Berechnungstabelle mit Schwellen, Annahmen und Kontrollfragen."
+description: "Für GOÄ Paragraf 5 Bemessung Gebührenrahmen 2.3 1.8 1.15 Schwelle: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Berechnungstabelle mit Annahmen und Kontrollfragen."
 ---
 
 # GOÄ § 5 Bemessung Gebührenrahmen 2,3 1,8 1,15 Schwelle

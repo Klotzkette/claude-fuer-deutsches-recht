@@ -1,6 +1,6 @@
 ---
 name: inso-schufa-restschuldbefreiung-loeschung
-description: "Wenn es um Insolvenzrecht: SCHUFA nach Restschuldbefreiung in Insolvenzrecht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Verhandlungs- oder Eskalationslinie mit Optionen."
+description: "Für Insolvenzrecht: SCHUFA nach Restschuldbefreiung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Insolvenzrecht: SCHUFA nach Restschuldbefreiung

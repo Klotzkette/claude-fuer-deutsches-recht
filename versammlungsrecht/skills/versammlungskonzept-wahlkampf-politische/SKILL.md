@@ -1,6 +1,6 @@
 ---
 name: versammlungskonzept-wahlkampf-politische
-description: "Wenn es um Gutes Konzept ohne Selbstfesselung in Versammlungsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Gutes Konzept ohne Selbstfesselung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Gutes Konzept ohne Selbstfesselung

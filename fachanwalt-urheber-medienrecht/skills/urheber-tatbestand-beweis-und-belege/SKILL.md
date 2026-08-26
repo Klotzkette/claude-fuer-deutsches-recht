@@ -1,6 +1,6 @@
 ---
 name: urheber-tatbestand-beweis-und-belege
-description: "Wenn es um Urheber: Tatbestandsmerkmale, Beweisfragen und Beleglage in Fachanwalt Urheber Medienrecht geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Beweislast- und Substantiierungsmatrix."
+description: "Für Urheber: Tatbestandsmerkmale, Beweisfragen und Beleglage: ordnet Akte, Belege und Lücken; Ergebnis: Beweislast- und Substantiierungsmatrix."
 ---
 
 # Urheber: Tatbestandsmerkmale, Beweisfragen und Beleglage

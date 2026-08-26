@@ -1,6 +1,6 @@
 ---
 name: mobile-private
-description: "Wenn es um Mobile-Device-Forensik in Internal Investigations in Internal Investigations Praxis geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
+description: "Für Mobile-Device-Forensik in Internal Investigations: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Mobile-Device-Forensik in Internal Investigations

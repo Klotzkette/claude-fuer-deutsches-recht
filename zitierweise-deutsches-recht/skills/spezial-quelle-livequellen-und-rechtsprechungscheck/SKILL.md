@@ -1,6 +1,6 @@
 ---
 name: spezial-quelle-livequellen-und-rechtsprechungscheck
-description: "Wenn es um Quelle: Livequellen- und Rechtsprechungscheck in Zitierweise deutsches Recht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Quelle: Livequellen- und Rechtsprechungscheck: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Quelle: Livequellen- und Rechtsprechungscheck

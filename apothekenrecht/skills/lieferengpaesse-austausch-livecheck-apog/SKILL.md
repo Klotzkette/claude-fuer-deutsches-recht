@@ -1,6 +1,6 @@
 ---
 name: lieferengpaesse-austausch-livecheck-apog
-description: "Wenn es um Lieferengpässe Austausch Dokumentation in Apothekenrecht geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
+description: "Für Lieferengpässe Austausch Dokumentation: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Lieferengpässe Austausch Dokumentation

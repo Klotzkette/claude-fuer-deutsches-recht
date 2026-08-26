@@ -1,6 +1,6 @@
 ---
 name: zulassung-und-widerruf-rechtsprechungscheck-und-r
-description: "Wenn es um Zulassung Und Widerruf Rechtsprechungscheck Und R in Berufsrecht Steuerberater geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Gegenprüfung mit Fehler-, Beweis- und Fristencheck."
+description: "Für Zulassung und Widerruf Rechtsprechungscheck und R: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Steuerberater: zulassung und widerruf - Rechtsprechungscheck, stärkste Gegenansicht und Red-Team-Korrektur

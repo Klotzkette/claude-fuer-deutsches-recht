@@ -1,6 +1,6 @@
 ---
 name: fachanwalt-versicherungsrecht-leistungsablehnung-pruefen
-description: "Wenn es um Leistungsablehnung prüfen in Fachanwalt Versicherungsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Leistungsablehnung prüfen: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Leistungsablehnung prüfen

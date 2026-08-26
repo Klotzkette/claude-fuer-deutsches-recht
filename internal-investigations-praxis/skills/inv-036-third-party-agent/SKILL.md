@@ -1,6 +1,6 @@
 ---
 name: inv-036-third-party-agent
-description: "Wenn es um Internal Investigation: Third Party Agent in Internal Investigations Praxis geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Internal Investigation: Third Party Agent: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Internal Investigation: Third Party Agent

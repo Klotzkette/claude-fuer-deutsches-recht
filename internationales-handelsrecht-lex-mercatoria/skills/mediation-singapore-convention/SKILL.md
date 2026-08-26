@@ -1,6 +1,6 @@
 ---
 name: mediation-singapore-convention
-description: "Wenn es um Mediation und Singapur-Konvention 2019 in Internationales Handelsrecht und Lex Mercatoria geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Mediation und Singapur-Konvention 2019: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Mediation und Singapur-Konvention 2019

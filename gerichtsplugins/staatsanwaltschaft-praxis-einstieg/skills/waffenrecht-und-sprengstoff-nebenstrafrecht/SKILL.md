@@ -1,6 +1,6 @@
 ---
 name: waffenrecht-und-sprengstoff-nebenstrafrecht
-description: "Wenn es um Waffen- und Sprengstoffsachen in Staatsanwaltschaft Praxis-Einstieg geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Beweislast- und Substantiierungsmatrix."
+description: "Für Waffen- und Sprengstoffsachen: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Waffen- und Sprengstoffsachen

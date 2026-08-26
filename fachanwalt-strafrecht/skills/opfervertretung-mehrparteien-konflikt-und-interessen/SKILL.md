@@ -1,6 +1,6 @@
 ---
 name: opfervertretung-mehrparteien-konflikt-und-interessen
-description: "Wenn es um Opfervertretung: Mehrparteienkonflikt und Interessenmatrix in Fachanwalt Strafrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Opfervertretung: Mehrparteienkonflikt und Interessenmatrix: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Opfervertretung: Mehrparteienkonflikt und Interessenmatrix

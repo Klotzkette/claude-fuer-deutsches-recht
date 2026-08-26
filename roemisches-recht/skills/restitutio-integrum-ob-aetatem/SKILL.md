@@ -1,6 +1,6 @@
 ---
 name: restitutio-integrum-ob-aetatem
-description: "Wenn es um Rom 121 Restitutio In Integrum Ob Aetatem Vermögensschutz in Römisches Recht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. Auswahlstichwort: Restitutio Integrum Ob Aetatem; Arbeitsfeld: Römisches Recht."
+description: "Für Rom 121 Restitutio in Integrum Ob Aetatem Vermögensschutz: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt. Fachgebiet: Römisches Recht. Route: restitutio-integrum-ob-aetatem."
 ---
 
 # Rom 121 Restitutio In Integrum Ob Aetatem Vermögensschutz

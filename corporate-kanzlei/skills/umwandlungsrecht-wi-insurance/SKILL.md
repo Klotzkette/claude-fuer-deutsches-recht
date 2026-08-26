@@ -1,6 +1,6 @@
 ---
 name: umwandlungsrecht-wi-insurance
-description: "Wenn es um Umwandlungsrecht — Verschmelzung, Spaltung, Formwechsel in Corporate-Kanzlei geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. Auswahlstichwort: Umwandlungsrecht Wi Insurance; Arbeitsfeld: Corporate-Kanzlei."
+description: "Für Umwandlungsrecht — Verschmelzung, Spaltung, Formwechsel: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt. Fachgebiet: Corporate-Kanzlei. Route: umwandlungsrecht-wi-insurance."
 ---
 
 # Umwandlungsrecht — Verschmelzung, Spaltung, Formwechsel

@@ -1,6 +1,6 @@
 ---
 name: spezial-675v-livequellen-und-rechtsprechungscheck
-description: "Wenn es um 675V: Livequellen- und Rechtsprechungscheck in Phishing-Vorfall-Prüfer geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für 675V: Livequellen- und Rechtsprechungscheck: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # 675V: Livequellen- und Rechtsprechungscheck

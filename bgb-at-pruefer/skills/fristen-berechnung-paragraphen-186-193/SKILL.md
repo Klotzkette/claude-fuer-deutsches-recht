@@ -1,6 +1,6 @@
 ---
 name: fristen-berechnung-paragraphen-186-193
-description: "Wenn es um Fristenberechnung — Paragrafen 186 bis 193 BGB in BGB AT Prüfer geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. Auswahlstichwort: Fristen Berechnung Paragraphen 186 193; Arbeitsfeld: BGB AT Prüfer."
+description: "Für Fristenberechnung — Paragrafen 186 bis 193 BGB: prüft Frist, Form, Zuständigkeit und Eilbedarf; Ergebnis: Fristen- und Risikoampel."
 ---
 
 # Fristenberechnung — §§ 186 bis 193 BGB

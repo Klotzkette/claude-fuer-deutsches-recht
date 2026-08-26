@@ -1,6 +1,6 @@
 ---
 name: kaltstart-routing
-description: "Wenn es um Kanzlei-Allgemein Kaltstart in Kanzlei-Allgemein geht: klärt Rolle, Ziel, Frist, Unterlagen und den passenden nächsten Fachskill; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Kanzlei-Allgemein Kaltstart: routet Rolle, Frist, Unterlagen und Fachschritt; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Kanzlei-Allgemein-Plugin Kaltstart

@@ -1,6 +1,6 @@
 ---
 name: datenschutz-datenpanne-meldung-72h
-description: "Wenn es um Datenpanne: 72-Stunden-Meldepflicht für die Hausverwaltung in WEG- und Hausverwaltung geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Datenpanne: 72-Stunden-Meldepflicht für die Hausverwaltung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Datenpanne: 72-Stunden-Meldepflicht für die Hausverwaltung

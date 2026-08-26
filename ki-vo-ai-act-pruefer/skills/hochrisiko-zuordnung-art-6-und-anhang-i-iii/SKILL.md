@@ -1,6 +1,6 @@
 ---
 name: hochrisiko-zuordnung-art-6-und-anhang-i-iii
-description: "Wenn es um Hochrisiko-Zuordnung — Art. 6 europäischer Technikregulierungsrahmen und Anhang I/III in europäischem Technikregulierungsrecht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
+description: "Für Hochrisiko-Zuordnung — Art. 6 europäischer Technikregulierungsrahmen und Anhang I/III: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Hochrisiko-Zuordnung — Art. 6 KI-VO und Anhang I/III

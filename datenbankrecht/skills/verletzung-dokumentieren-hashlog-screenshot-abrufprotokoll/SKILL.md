@@ -1,6 +1,6 @@
 ---
 name: verletzung-dokumentieren-hashlog-screenshot-abrufprotokoll
-description: "Wenn es um Verletzung dokumentieren — Hash-Logs, Screenshots und Abruflauf-Protokolle in Datenbankrecht und Datenbankherstellerrecht geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
+description: "Für Verletzung dokumentieren — Hash-Logs, Screenshots und Abruflauf-Protokolle: ordnet Akte, Belege und Lücken; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Verletzung dokumentieren — Hash-Logs, Screenshots und Abruflauf-Protokolle

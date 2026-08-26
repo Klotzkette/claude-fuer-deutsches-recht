@@ -1,6 +1,6 @@
 ---
 name: legal-behoerden-gericht-und-registerweg
-description: "Wenn es um Legal: Behörden-, Gerichts- oder Registerweg in diesem Spezialbereich geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Beweislast- und Substantiierungsmatrix."
+description: "Für Legal: Behörden-, Gerichts- oder Registerweg: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Einreichungsplan mit Form- und Nachweischeck. Fachgebiet: anwaltlichem Berufsrecht und Vertragsprüfung. Route: legal-behoerden-gericht-und-registerweg."
 ---
 
 # Legal: Behörden-, Gerichts- oder Registerweg

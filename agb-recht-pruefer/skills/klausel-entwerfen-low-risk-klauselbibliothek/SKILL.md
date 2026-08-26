@@ -1,6 +1,6 @@
 ---
 name: klausel-entwerfen-low-risk-klauselbibliothek
-description: "Wenn es um Klausel Entwerfen Balanced in AGB-Recht-Prüfer geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Dokumentenmatrix mit Nachforderungsliste. Auswahlstichwort: Klausel Entwerfen Low Risk Klauselbibliothek; Arbeitsfeld: AGB-Recht-Prüfer."
+description: "Für Klausel Entwerfen Balanced: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt. Fachgebiet: AGB-Recht-Prüfer. Route: klausel-entwerfen-low-risk-klauselbibliothek."
 ---
 
 # Klausel Entwerfen Balanced

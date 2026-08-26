@@ -1,6 +1,6 @@
 ---
 name: datenbankrechte-bei-schul-und-hochschuldaten
-description: "Wenn es um Datenbankrechte bei Schul- und Hochschuldaten — Bildungseinrichtungen in Datenbankrecht und Datenbankherstellerrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Datenbankrechte bei Schul- und Hochschuldaten — Bildungseinrichtungen: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Datenbankrechte bei Schul- und Hochschuldaten — Bildungseinrichtungen

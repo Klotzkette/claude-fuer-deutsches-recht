@@ -1,6 +1,6 @@
 ---
 name: mahnstufen-debitoren
-description: "Wenn es um Liqui: Debitorenseite in Liquiditätsplanung — Power geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Liqui: Debitorenseite: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Liqui: Debitorenseite

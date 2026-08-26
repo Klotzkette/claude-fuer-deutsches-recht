@@ -1,6 +1,6 @@
 ---
 name: werbung-social-media-steuern-rechtsprechungscheck
-description: "Wenn es um Werbung Social Media Steuern Rechtsprechungscheck in Berufsrecht Steuerberater geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Gegenprüfung mit Fehler-, Beweis- und Fristencheck."
+description: "Für Werbung Social Media Steuern Rechtsprechungscheck: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Schnittstellenkarte mit Zuständigkeits- und Nachweisfragen."
 ---
 
 # Steuerberater: werbung social media steuern - Rechtsprechungscheck, stärkste Gegenansicht und Red-Team-Korrektur

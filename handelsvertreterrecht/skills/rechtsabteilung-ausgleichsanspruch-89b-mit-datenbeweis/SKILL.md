@@ -1,6 +1,6 @@
 ---
 name: rechtsabteilung-ausgleichsanspruch-89b-mit-datenbeweis
-description: "Wenn es um Rechtsabteilung: Ausgleichsanspruch Paragraf 89b mit Datenbeweis in Handelsvertreterrecht und Vertriebsverträge geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Beweislast- und Substantiierungsmatrix."
+description: "Für Rechtsabteilung: Ausgleichsanspruch Paragraf 89b mit Datenbeweis: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Beweislast- und Substantiierungsmatrix."
 ---
 
 # Rechtsabteilung: Ausgleichsanspruch § 89b mit Datenbeweis

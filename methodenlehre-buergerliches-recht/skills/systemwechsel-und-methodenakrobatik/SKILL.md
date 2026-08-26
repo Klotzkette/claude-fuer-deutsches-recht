@@ -1,6 +1,6 @@
 ---
 name: systemwechsel-und-methodenakrobatik
-description: "Wenn es um Systemwechsel und Methodenakrobatik in der Rechtsanwendung in Methodenlehre bürgerliches Recht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Systemwechsel und Methodenakrobatik in der Rechtsanwendung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Systemwechsel und Methodenakrobatik in der Rechtsanwendung

@@ -1,6 +1,6 @@
 ---
 name: reiseausweis-fluechtling
-description: "Wenn es um Reiseausweis Flüchtling: Fachmodul im Migrationsrecht in Fachanwalt Migrationsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Reiseausweis Flüchtling: Fachmodul im Migrationsrecht: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Reiseausweis Flüchtling: Fachmodul im Migrationsrecht
@@ -38,3 +38,7 @@ description: "Wenn es um Reiseausweis Flüchtling: Fachmodul im Migrationsrecht 
 - Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei prüfbarer Quelle ausgeben.
 - Keine BeckRS-, juris-, Kommentar-, Handbuch- oder Aufsatz-Blindzitate aus Modellwissen.
 - Annahmen, fehlende Unterlagen, Beweisrisiken und Fristen ausdrücklich markieren.
+
+## Vertiefung bei Bedarf
+
+- Bei `spezial-reiseausweis-fluechtling` beziehungsweise Reiseausweis Flüchtling: [die zusätzliche Vertiefung laden](./references/vertiefung-spezial-reiseausweis-fluechtling.md).

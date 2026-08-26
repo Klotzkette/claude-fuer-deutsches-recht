@@ -1,6 +1,6 @@
 ---
 name: prodhaftg-und-neue-pld-vergleich
-description: "Wenn es um ProdHaftG und neue PLD in robotik-recht geht: entwickelt Verhandlungsziel, Vergleichskorridor und Eskalationspfad; liefert eine Beweislast- und Substantiierungsmatrix."
+description: "Für ProdHaftG und neue PLD: entwickelt Ziel, Vergleich und Eskalation; Ergebnis: Verhandlungs- oder Eskalationslinie."
 ---
 
 # ProdHaftG und neue PLD

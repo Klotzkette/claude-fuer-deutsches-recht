@@ -1,6 +1,6 @@
 ---
 name: parteivermoegen-akte-anfordern
-description: "Wenn es um Parteivermoegen Akte Anfordern in Einigungsvertrag und Vermögensrecht geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
+description: "Für Parteivermögen Akte Anfordern: ordnet Akte, Belege und Lücken; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Parteivermoegen Akte Anfordern

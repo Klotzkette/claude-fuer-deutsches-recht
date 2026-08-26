@@ -1,6 +1,6 @@
 ---
 name: konto-sperre-und-sozialleistungen
-description: "Wenn es um Konto Sperre Und Sozialleistungen in Verbraucherinsolvenz und Schuldenbereinigung geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Konto Sperre und Sozialleistungen: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Kontosperre und Sozialleistungen: Bürgergeld, Kindergeld, Nachzahlung, Miete und Existenzminimum sichern.

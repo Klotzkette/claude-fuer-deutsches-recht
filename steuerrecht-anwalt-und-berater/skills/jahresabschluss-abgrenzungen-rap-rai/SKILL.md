@@ -1,6 +1,6 @@
 ---
 name: jahresabschluss-abgrenzungen-rap-rai
-description: "Wenn es um Rechnungsabgrenzungsposten (RAP) aktiv und passiv in Steuerrecht – Steuerberater und Anwälte geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Rechnungsabgrenzungsposten (RAP) aktiv und passiv: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Rechnungsabgrenzungsposten (RAP) aktiv und passiv

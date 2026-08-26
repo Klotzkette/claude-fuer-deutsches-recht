@@ -1,6 +1,6 @@
 ---
 name: dsv-sanktion-datenpanne-vor-bussgeld-selbstmeldung
-description: "Wenn es um Dsv Sanktion Datenpanne Vor Bussgeld Selbstmeldung in Datenschutzrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Chronologie mit Belegmatrix und Widerspruchsliste."
+description: "Für Dsv Sanktion Datenpanne vor Bussgeld Selbstmeldung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Datenschutzrecht-Brückenskill: Datenpanne vor Bußgeld Selbstmeldung taktisch nutzen: Art.-33/34-Meldung, 72-Stunden-Timeline, Remediation und Bußgeldmilderung verbinden

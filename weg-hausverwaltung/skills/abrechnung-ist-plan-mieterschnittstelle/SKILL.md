@@ -1,6 +1,6 @@
 ---
 name: abrechnung-ist-plan-mieterschnittstelle
-description: "Wenn es um Abrechnung, Ist/Plan und Mieterschnittstelle in WEG- und Hausverwaltung geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
+description: "Für Abrechnung, Ist/Plan und Mieterschnittstelle: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Abrechnung, Ist/Plan und Mieterschnittstelle

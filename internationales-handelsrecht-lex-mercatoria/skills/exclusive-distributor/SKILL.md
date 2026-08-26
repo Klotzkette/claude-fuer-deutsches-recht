@@ -1,6 +1,6 @@
 ---
 name: exclusive-distributor
-description: "Wenn es um Alleinvertriebsvertrag International in Internationales Handelsrecht und Lex Mercatoria geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Alleinvertriebsvertrag International: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Alleinvertriebsvertrag International

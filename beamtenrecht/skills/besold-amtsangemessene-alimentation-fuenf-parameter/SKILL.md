@@ -1,6 +1,6 @@
 ---
 name: besold-amtsangemessene-alimentation-fuenf-parameter
-description: "Wenn es um Besold Amtsangemessene Alimentation Fuenf Parameter in Beamtenrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Besold Amtsangemessene Alimentation Fünf Parameter: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Besold Amtsangemessene Alimentation Fuenf Parameter

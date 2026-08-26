@@ -1,6 +1,6 @@
 ---
 name: gerichtsschreiben-kuerzung-wegfall
-description: "Wenn es um JVEG-Gerichtsschreiben-Pruefung in JVEG-Kostenprüfer geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für JVEG-Gerichtsschreiben-Prüfung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # JVEG-Gerichtsschreiben-Pruefung

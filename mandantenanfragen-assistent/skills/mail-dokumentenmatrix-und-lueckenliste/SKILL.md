@@ -1,6 +1,6 @@
 ---
 name: mail-dokumentenmatrix-und-lueckenliste
-description: "Wenn es um Mail: Dokumentenmatrix, Lückenliste und Nachforderung in mandantenanfragen-assistent geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Dokumentenmatrix mit Nachforderungsliste."
+description: "Für Mail: Dokumentenmatrix, Lückenliste und Nachforderung: ordnet Akte, Belege und Lücken; Ergebnis: Dokumentenmatrix mit Nachforderungsliste."
 ---
 
 # Mail: Dokumentenmatrix, Lückenliste und Nachforderung

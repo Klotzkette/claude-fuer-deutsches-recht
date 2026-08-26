@@ -1,6 +1,6 @@
 ---
 name: drohnen-und-high-altitude-platform-abgrenzung
-description: "Wenn es um Weltraumrecht: Drohnen und High-Altitude-Platform: Abgrenzung in Weltraumrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Weltraumrecht: Drohnen und High-Altitude-Platform: Abgrenzung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Weltraumrecht: Drohnen und High-Altitude-Platform: Abgrenzung

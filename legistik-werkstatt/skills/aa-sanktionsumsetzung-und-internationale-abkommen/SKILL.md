@@ -1,6 +1,6 @@
 ---
 name: aa-sanktionsumsetzung-und-internationale-abkommen
-description: "Wenn es um Sanktionsumsetzung und internationale Abkommen (AA) in Legistik-Werkstatt geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen. Auswahlstichwort: Aa Sanktionsumsetzung Und Internationale Abkommen; Arbeitsfeld: Legistik-Werkstatt."
+description: "Für Sanktionsumsetzung und internationale Abkommen (AA): ordnet Norm, Beweislast und Gegenargument; Ergebnis: Schnittstellenkarte mit Zuständigkeits- und Nachweisfragen. Fachgebiet: Legistik-Werkstatt. Route: aa-sanktionsumsetzung-und-internationale-abkommen."
 ---
 
 # Sanktionsumsetzung und internationale Abkommen (AA)

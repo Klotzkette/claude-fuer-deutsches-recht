@@ -1,6 +1,6 @@
 ---
 name: space-073-raumstation-miet-nutzung-module-rack-time
-description: "Wenn es um Weltraumrecht: Raumstation Miet- und Nutzungsverträge Module Rack Time in Weltraumrecht geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Weltraumrecht: Raumstation Miet- und Nutzungsverträge Module Rack Time: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Weltraumrecht: Raumstation Miet- und Nutzungsverträge Module Rack Time

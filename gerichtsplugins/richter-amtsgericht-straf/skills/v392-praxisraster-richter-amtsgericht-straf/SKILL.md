@@ -1,6 +1,6 @@
 ---
 name: v392-praxisraster-richter-amtsgericht-straf
-description: "Wenn es um Praxisraster Amtsgericht Straf in Richter Amtsgericht Strafsachen geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Beweislast- und Substantiierungsmatrix."
+description: "Für Praxisraster Amtsgericht Straf: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Praxisraster Amtsgericht Straf

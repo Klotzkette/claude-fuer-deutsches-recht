@@ -1,6 +1,6 @@
 ---
 name: blutprodukte-haemophilie-registerpflicht
-description: "Wenn es um Blutprodukte Hämophilie Registerpflicht in Apothekenrecht geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert einen Einreichungsplan mit Form-, Portal- und Nachweischeck."
+description: "Für Blutprodukte Hämophilie Registerpflicht: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Einreichungsplan mit Form- und Nachweischeck."
 ---
 
 # Blutprodukte Hämophilie Registerpflicht

@@ -1,6 +1,6 @@
 ---
 name: pkv-leistungspflicht-medizinische-notwendigkeit
-description: "Wenn es um PKV-Leistungspflicht: Medizinische Notwendigkeit in Krankenkassenrecht und Krankenversicherung geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für PKV-Leistungspflicht: Medizinische Notwendigkeit: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # PKV-Leistungspflicht: Medizinische Notwendigkeit

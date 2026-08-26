@@ -1,6 +1,6 @@
 ---
 name: faehige-risikoampel-und-gegenargumente
-description: "Wenn es um Faehige: Risikoampel, Gegenargumente und Verteidigungslinien in Aktenaufbereiter Strafrecht geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Fähige: Risikoampel, Gegenargumente und Verteidigungslinien: prüft Ergebnis, Beweislast und Gegenposition; Ergebnis: Fristen- und Risikoampel."
 ---
 
 # Faehige: Risikoampel, Gegenargumente und Verteidigungslinien

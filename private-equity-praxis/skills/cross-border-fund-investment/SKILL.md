@@ -1,6 +1,6 @@
 ---
 name: cross-border-fund-investment
-description: "Wenn es um Cross-border Fund Investment in Private Equity Praxis geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Cross-border Fund Investment: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Cross-border Fund Investment

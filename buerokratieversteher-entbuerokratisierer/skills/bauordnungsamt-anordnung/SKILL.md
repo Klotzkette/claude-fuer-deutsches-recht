@@ -1,6 +1,6 @@
 ---
 name: bauordnungsamt-anordnung
-description: "Wenn es um Bauordnungsamt-Anordnung in Bürokratieversteher und Entbürokratisierer geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
+description: "Für Bauordnungsamt-Anordnung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Bauordnungsamt-Anordnung

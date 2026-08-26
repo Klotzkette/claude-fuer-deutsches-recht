@@ -1,6 +1,6 @@
 ---
 name: antikorruption-crm-datenschutz-cross-selling
-description: "Wenn es um Compliance und Antikorruption im Handelsvertretervertrieb in Handelsvertreterrecht und Vertriebsverträge geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Compliance und Antikorruption im Handelsvertretervertrieb: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Compliance und Antikorruption im Handelsvertretervertrieb

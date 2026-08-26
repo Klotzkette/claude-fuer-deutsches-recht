@@ -1,6 +1,6 @@
 ---
 name: versorgungsausgleich-rentenfolgen
-description: "Wenn es um Versorgungsausgleich und Rentenfolgen in Rentenprüfer geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
+description: "Für Versorgungsausgleich und Rentenfolgen: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Versorgungsausgleich und Rentenfolgen

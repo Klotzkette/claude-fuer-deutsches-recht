@@ -1,6 +1,6 @@
 ---
 name: rechtsabteilung-geschaeftsfuehrerhaftung-fuer-compliance-versage
-description: "Wenn es um Rechtsabteilung: Geschäftsführerhaftung für Compliance-Versagen in Gesellschaftsrecht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
+description: "Für Rechtsabteilung: Geschäftsführerhaftung für Compliance-Versagen: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Rechtsabteilung: Geschäftsführerhaftung für Compliance-Versagen

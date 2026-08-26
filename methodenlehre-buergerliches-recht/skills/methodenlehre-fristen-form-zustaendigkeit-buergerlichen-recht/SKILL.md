@@ -1,6 +1,6 @@
 ---
 name: methodenlehre-fristen-form-zustaendigkeit-buergerlichen-recht
-description: "Wenn es um Fristen, Form und Zuständigkeit im bürgerlichen Recht in Methodenlehre bürgerliches Recht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Fristen, Form und Zuständigkeit im bürgerlichen Recht: prüft Frist, Form, Zuständigkeit und Eilbedarf; Ergebnis: Fristen- und Risikoampel."
 ---
 
 # Fristen, Form und Zuständigkeit im bürgerlichen Recht

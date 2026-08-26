@@ -1,6 +1,6 @@
 ---
 name: kanzleien-dokumentenmatrix-und-lueckenliste
-description: "Wenn es um Kanzleien: Dokumentenmatrix, Lückenliste und Nachforderung in diesem Spezialbereich geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Dokumentenmatrix mit Nachforderungsliste."
+description: "Für Kanzleien: Dokumentenmatrix, Lückenliste und Nachforderung: ordnet Akte, Belege und Lücken; Ergebnis: Dokumentenmatrix mit Nachforderungsliste."
 ---
 
 # Kanzleien: Dokumentenmatrix, Lückenliste und Nachforderung

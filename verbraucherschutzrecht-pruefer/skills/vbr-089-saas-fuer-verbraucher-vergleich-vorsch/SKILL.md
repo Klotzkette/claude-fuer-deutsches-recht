@@ -1,6 +1,6 @@
 ---
 name: vbr-089-saas-fuer-verbraucher-vergleich-vorsch
-description: "Wenn es um Saas Fuer Verbraucher Vergleich Vorsch in Verbraucherschutzrecht Prüfer geht: entwickelt Verhandlungsziel, Vergleichskorridor und Eskalationspfad; liefert eine Verhandlungs- oder Eskalationslinie mit Optionen."
+description: "Für Saas für Verbraucher Vergleich Vorsch: entwickelt Ziel, Vergleich und Eskalation; Ergebnis: Verhandlungs- oder Eskalationslinie. Fachgebiet: Verbraucherschutzrecht Prüfer. Route: vbr-089-saas-fuer-verbraucher-vergleich-vorsch."
 ---
 
 # Saas Fuer Verbraucher Vergleich Vorsch

@@ -1,6 +1,6 @@
 ---
 name: verfahren
-description: "Wenn es um Verfahren — Behörden und Gerichte in Energierecht geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Verfahren — Behörden und Gerichte: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Verfahren — Behörden und Gerichte

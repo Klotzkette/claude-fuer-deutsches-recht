@@ -1,6 +1,6 @@
 ---
 name: aussenwirtschaft-presse-krise
-description: "Wenn es um Presse und Krise bei Exportkontroll- oder Sanktionsverstoss: Krisenmanagement in Außenwirtschaft, Sanktionen, Zoll und CBAM geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Presse und Krise bei Exportkontroll- oder Sanktionsverstoss: Krisenmanagement: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Presse und Krise bei Exportkontroll- oder Sanktionsverstoss: Krisenmanagement

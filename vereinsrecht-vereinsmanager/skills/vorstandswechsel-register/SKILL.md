@@ -1,6 +1,6 @@
 ---
 name: vorstandswechsel-register
-description: "Wenn es um Vorstandswechsel Register in Vereinsrecht und Vereinsmanager geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Vorstandswechsel Register: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Einreichungsplan mit Form- und Nachweischeck."
 ---
 
 # Vorstandswechsel Register

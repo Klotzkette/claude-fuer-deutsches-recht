@@ -1,6 +1,6 @@
 ---
 name: goae-reform-referentenentwuerfe-beobachten
-description: "Wenn es um GOÄ Reform Referentenentwürfe beobachten in GOÄ Gebührenordnung für Ärzte geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Berechnungstabelle mit Schwellen, Annahmen und Kontrollfragen."
+description: "Für GOÄ Reform Referentenentwürfe beobachten: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # GOÄ Reform Referentenentwürfe beobachten

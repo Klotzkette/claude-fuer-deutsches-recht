@@ -1,6 +1,6 @@
 ---
 name: produktbewertungen-ranking-transparenz
-description: "Wenn es um Produktbewertungen Ranking Transparenz in E-Commerce-Recht geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
+description: "Für Produktbewertungen Ranking Transparenz: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Produktbewertungen Ranking Transparenz

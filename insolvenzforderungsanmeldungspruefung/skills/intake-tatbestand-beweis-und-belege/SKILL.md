@@ -1,6 +1,6 @@
 ---
 name: intake-tatbestand-beweis-und-belege
-description: "Wenn es um Intake: Tatbestandsmerkmale, Beweisfragen und Beleglage in Insolvenzforderungsanmeldungsprüfung geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Beweislast- und Substantiierungsmatrix."
+description: "Für Intake: Tatbestandsmerkmale, Beweisfragen und Beleglage: ordnet Akte, Belege und Lücken; Ergebnis: Beweislast- und Substantiierungsmatrix."
 ---
 
 # Intake: Tatbestandsmerkmale, Beweisfragen und Beleglage

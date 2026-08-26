@@ -1,6 +1,6 @@
 ---
 name: flug-massenklage-einfuehrung-vo
-description: "Wenn es um Flug: Massenklage RDG in Fluggastrechte geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik. Auswahlstichwort: Flug Massenklage Einfuehrung Vo; Arbeitsfeld: Fluggastrechte."
+description: "Für Flug: Massenklage RDG: erstellt Entwurf mit Antrag, Beweis und Anlagen; Ergebnis: Schriftsatz mit Begründungs- und Anlagenlogik. Fachgebiet: Fluggastrechte. Route: flug-massenklage-einfuehrung-vo."
 ---
 
 # Flug: Massenklage RDG

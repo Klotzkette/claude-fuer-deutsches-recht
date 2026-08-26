@@ -1,6 +1,6 @@
 ---
 name: junior-fehler-und-supervision-rechtsprechung
-description: "Wenn es um Junior Fehler Und Supervision Rechtsprechung in Berufsrecht Wirtschaftsprüfer geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Gegenprüfung mit Fehler-, Beweis- und Fristencheck."
+description: "Für Junior Fehler und Supervision Rechtsprechung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Wirtschaftsprüfer: junior fehler und supervision - Rechtsprechungscheck, stärkste Gegenansicht und Red-Team-Korrektur

@@ -1,6 +1,6 @@
 ---
 name: auslaendischer-insolvenzverwalter-register-und-grundbuch
-description: "Wenn es um Ausländischer Insolvenzverwalter — Register und Grundbuch in Insolvenzrecht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert einen Einreichungsplan mit Form-, Portal- und Nachweischeck."
+description: "Für Ausländischer Insolvenzverwalter — Register und Grundbuch: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Einreichungsplan mit Form- und Nachweischeck."
 ---
 
 # Ausländischer Insolvenzverwalter — Register und Grundbuch

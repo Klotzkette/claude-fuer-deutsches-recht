@@ -1,6 +1,6 @@
 ---
 name: ip-nutzungsrechte
-description: "Wenn es um IP Nutzungsrechte in AGB-Recht-Prüfer geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für IP Nutzungsrechte: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # IP Nutzungsrechte

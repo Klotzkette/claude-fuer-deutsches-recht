@@ -1,6 +1,6 @@
 ---
 name: rotlicht-schriftsatz-brief-und-memo-bausteine
-description: "Wenn es um Rotlicht: Schriftsatz-, Brief- und Memo-Bausteine in VerkehrsOWi-Verteidiger geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
+description: "Für Rotlicht: Schriftsatz-, Brief- und Memo-Bausteine: erstellt Entwurf mit Antrag, Beweis und Anlagen; Ergebnis: Schriftsatz mit Begründungs- und Anlagenlogik."
 ---
 
 # Rotlicht: Schriftsatz-, Brief- und Memo-Bausteine

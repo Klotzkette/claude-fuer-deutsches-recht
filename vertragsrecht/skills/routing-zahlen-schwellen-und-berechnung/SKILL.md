@@ -1,6 +1,6 @@
 ---
 name: routing-zahlen-schwellen-und-berechnung
-description: "Wenn es um Routing: Zahlen, Schwellenwerte und Berechnung in Vertragsrecht geht: klärt Rolle, Ziel, Frist, Unterlagen und den passenden nächsten Fachskill; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Routing: Zahlen, Schwellenwerte und Berechnung: routet Rolle, Frist, Unterlagen und Fachschritt; Ergebnis: Berechnungstabelle mit Annahmen und Kontrollfragen."
 ---
 
 # Routing: Zahlen, Schwellenwerte und Berechnung

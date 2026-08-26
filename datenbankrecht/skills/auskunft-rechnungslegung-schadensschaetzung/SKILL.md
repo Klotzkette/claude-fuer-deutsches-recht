@@ -1,6 +1,6 @@
 ---
 name: auskunft-rechnungslegung-schadensschaetzung
-description: "Wenn es um Auskunft, Rechnungslegung und Schadensschätzung im Datenbankrecht in Datenbankrecht und Datenbankherstellerrecht geht: rechnet Schwellen, Beträge, Varianten und Kontrollannahmen durch; liefert eine Berechnungstabelle mit Schwellen, Annahmen und Kontrollfragen."
+description: "Für Auskunft, Rechnungslegung und Schadensschätzung im Datenbankrecht: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Auskunft, Rechnungslegung und Schadensschätzung im Datenbankrecht

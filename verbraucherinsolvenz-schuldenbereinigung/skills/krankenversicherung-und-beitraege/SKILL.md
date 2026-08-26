@@ -1,6 +1,6 @@
 ---
 name: krankenversicherung-und-beitraege
-description: "Wenn es um Krankenversicherung Und Beitraege in Verbraucherinsolvenz und Schuldenbereinigung geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Krankenversicherung und Beiträge: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Krankenversicherung und Beiträge: gesetzlich/privat, Beitragsrückstände, Notlagentarif, Selbstständigenaltlasten.

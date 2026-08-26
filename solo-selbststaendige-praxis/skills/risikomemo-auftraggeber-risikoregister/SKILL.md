@@ -1,6 +1,6 @@
 ---
 name: risikomemo-auftraggeber-risikoregister
-description: "Wenn es um Scheinselbstständigkeit und Status: Erstellt ein memo für kunden in Solo-Selbstständige Praxis geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Scheinselbstständigkeit und Status: Erstellt ein memo für kunden: erstellt Entwurf mit Antrag, Beweis und Anlagen; Ergebnis: Schriftsatz mit Begründungs- und Anlagenlogik."
 ---
 
 # Scheinselbstständigkeit und Status: Erstellt ein memo für kunden

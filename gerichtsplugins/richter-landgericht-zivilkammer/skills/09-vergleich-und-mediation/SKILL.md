@@ -1,6 +1,6 @@
 ---
 name: 09-vergleich-und-mediation
-description: "Wenn es um 09 Vergleich und Mediation in Zivilkammer am Landgericht geht: entwickelt Verhandlungsziel, Vergleichskorridor und Eskalationspfad; liefert eine Verhandlungs- oder Eskalationslinie mit Optionen."
+description: "Für 09 Vergleich und Mediation: entwickelt Ziel, Vergleich und Eskalation; Ergebnis: Verhandlungs- oder Eskalationslinie."
 ---
 
 # 09 Vergleich und Mediation

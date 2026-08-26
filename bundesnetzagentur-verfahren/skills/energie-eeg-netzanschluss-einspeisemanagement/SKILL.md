@@ -1,6 +1,6 @@
 ---
 name: energie-eeg-netzanschluss-einspeisemanagement
-description: "Wenn es um Energie: EEG Netzanschluss Einspeisemanagement in Bundesnetzagentur-Verfahren geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
+description: "Für Energie: EEG Netzanschluss Einspeisemanagement: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Energie: EEG Netzanschluss Einspeisemanagement

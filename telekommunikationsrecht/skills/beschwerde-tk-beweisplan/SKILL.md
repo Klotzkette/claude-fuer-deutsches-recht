@@ -1,6 +1,6 @@
 ---
 name: beschwerde-tk-beweisplan
-description: "Wenn es um BNetzA-Beschwerde-Dashboard in Telekommunikationsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für BNetzA-Beschwerde-Dashboard: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Beweislast- und Substantiierungsmatrix."
 ---
 
 # BNetzA-Beschwerde-Dashboard

@@ -1,6 +1,6 @@
 ---
 name: avv-konzern-und-multi-party-konstellation
-description: "Wenn es um AVV im Konzern und in Multi-Party-Konstellationen in Datenschutzrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für AVV im Konzern und in Multi-Party-Konstellationen: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # AVV im Konzern und in Multi-Party-Konstellationen

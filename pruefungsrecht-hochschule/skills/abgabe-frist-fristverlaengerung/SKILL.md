@@ -1,6 +1,6 @@
 ---
 name: abgabe-frist-fristverlaengerung
-description: "Wenn es um Abgabe Frist Upload in Prüfungsrecht an Hochschulen und Universitäten geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Abgabe Frist Upload: prüft Frist, Form, Zuständigkeit und Eilbedarf; Ergebnis: Fristen- und Risikoampel."
 ---
 
 # Abgabe Frist Upload

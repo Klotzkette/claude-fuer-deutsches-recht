@@ -1,6 +1,6 @@
 ---
 name: sprach-und-verstehensprofil
-description: "Wenn es um Sprache und Verstehensprofil in Bürokratieversteher und Entbürokratisierer geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen."
+description: "Für Sprache und Verstehensprofil: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Sprache und Verstehensprofil

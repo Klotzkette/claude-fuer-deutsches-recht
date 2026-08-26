@@ -1,6 +1,6 @@
 ---
 name: red-team-mandatsbeziehung
-description: "Wenn es um Red Team Mandatsbeziehung in Kanzlei-Mandant Lifecycle geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Red Team Mandatsbeziehung: prüft Ergebnis, Beweislast und Gegenposition; Ergebnis: Gegenprüfung mit Beweis- und Fristencheck."
 ---
 
 # Red Team Mandatsbeziehung

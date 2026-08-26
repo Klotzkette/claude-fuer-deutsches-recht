@@ -1,6 +1,6 @@
 ---
 name: legitimitaet-richterlicher-rechtsfortbildung
-description: "Wenn es um Legitimität richterlicher Rechtsfortbildung in Rechtstheorie und Rechtsphilosophie geht: entwickelt Verhandlungsziel, Vergleichskorridor und Eskalationspfad; liefert eine Verhandlungs- oder Eskalationslinie mit Optionen."
+description: "Für Legitimität richterlicher Rechtsfortbildung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Legitimität richterlicher Rechtsfortbildung

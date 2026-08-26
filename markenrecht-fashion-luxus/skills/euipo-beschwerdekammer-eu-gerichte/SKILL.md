@@ -1,6 +1,6 @@
 ---
 name: euipo-beschwerdekammer-eu-gerichte
-description: "Wenn es um EUIPO-Beschwerde und EU-Gerichte in markenrecht-fashion-luxus geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für EUIPO-Beschwerde und EU-Gerichte: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Schnittstellenkarte mit Zuständigkeits- und Nachweisfragen."
 ---
 
 # EUIPO-Beschwerde und EU-Gerichte

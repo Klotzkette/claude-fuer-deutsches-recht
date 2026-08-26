@@ -1,6 +1,6 @@
 ---
 name: gruendungskosten-und-budgetplan
-description: "Wenn es um Gründungskosten und Budgetplan in gesellschaftsgründer — Gründungsassistent für deutsche geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Gründungskosten und Budgetplan: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 # Gründungskosten und Budgetplan
 

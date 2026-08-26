@@ -1,6 +1,6 @@
 ---
 name: susa-debitorenliste-osa-offene-posten
-description: "Wenn es um Debitoren-Saldenliste / Offene-Posten-Auswertung (OPOS) in Steuerrecht – Steuerberater und Anwälte geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Debitoren-Saldenliste / Offene-Posten-Auswertung (OPOS): ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Debitoren-Saldenliste / Offene-Posten-Auswertung (OPOS)

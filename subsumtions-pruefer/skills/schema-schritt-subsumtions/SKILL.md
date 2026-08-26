@@ -1,6 +1,6 @@
 ---
 name: schema-schritt-subsumtions
-description: "Wenn es um Schema: Verhandlung, Vergleich und Eskalation in Subsumtions-Prüfer geht: entwickelt Verhandlungsziel, Vergleichskorridor und Eskalationspfad; liefert eine Verhandlungs- oder Eskalationslinie mit Optionen."
+description: "Für Schema: Verhandlung, Vergleich und Eskalation: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Tatbestands- oder Anspruchsmatrix."
 ---
 
 # Schema: Verhandlung, Vergleich und Eskalation

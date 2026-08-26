@@ -1,6 +1,6 @@
 ---
 name: sachbeschaedigung-sachverhalt
-description: "Wenn es um Sachbeschädigung Paragraf 303 StGB in Strafanzeige-Vorbereiter geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
+description: "Für Sachbeschädigung Paragraf 303 StGB: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Sachbeschädigung § 303 StGB

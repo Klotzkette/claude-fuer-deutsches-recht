@@ -1,6 +1,6 @@
 ---
 name: praesidialrat-mitwirkung-richterernennung
-description: "Wenn es um Praesidialrat — Mitwirkung bei Richterernennungen in Beamtenrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Präsidialrat — Mitwirkung bei Richterernennungen: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Praesidialrat — Mitwirkung bei Richterernennungen

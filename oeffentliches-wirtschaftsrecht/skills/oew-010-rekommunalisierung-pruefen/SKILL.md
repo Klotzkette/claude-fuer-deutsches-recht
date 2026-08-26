@@ -1,6 +1,6 @@
 ---
 name: oew-010-rekommunalisierung-pruefen
-description: "Wenn es um Rekommunalisierung Pruefen in Öffentliches Wirtschaftsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Rekommunalisierung Prüfen: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt. Fachgebiet: Öffentliches Wirtschaftsrecht. Route: oew-010-rekommunalisierung-pruefen."
 ---
 
 # Rekommunalisierung Pruefen

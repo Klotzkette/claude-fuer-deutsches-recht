@@ -1,6 +1,6 @@
 ---
 name: kommunikation-mandant
-description: "Wenn es um ELS-J: Mandantenkommunikation in Einfache und Leichte Sprache für juristische Texte geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für ELS-J: Mandantenkommunikation: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # ELS-J: Mandantenkommunikation

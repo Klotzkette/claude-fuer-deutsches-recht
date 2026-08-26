@@ -1,6 +1,6 @@
 ---
 name: gutachten-atteste-bescheinigungen
-description: "Wenn es um Gutachten Atteste Bescheinigungen in GOÄ Gebührenordnung für Ärzte geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Berechnungstabelle mit Schwellen, Annahmen und Kontrollfragen."
+description: "Für Gutachten Atteste Bescheinigungen: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Gutachten Atteste Bescheinigungen

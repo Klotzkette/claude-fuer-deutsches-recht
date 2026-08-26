@@ -1,6 +1,6 @@
 ---
 name: schlachthof-anordnung-beweise-sichern
-description: "Wenn es um Schlachthof Anordnung Angreifen in Tierschutzrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Schlachthof Anordnung Angreifen: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Beweislast- und Substantiierungsmatrix."
 ---
 
 # Schlachthof Anordnung Angreifen

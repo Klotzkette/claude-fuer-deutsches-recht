@@ -1,6 +1,6 @@
 ---
 name: anti-bribery-and-gifts
-description: "Wenn es um Anti-Korruption China: FCPA/Paragraf 299 StGB/CN-Recht in China-Wirtschaftsverkehr geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Anti-Korruption China: FCPA/Paragraf 299 StGB/CN-Recht: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Anti-Korruption China: FCPA/§ 299 StGB/CN-Recht

@@ -1,6 +1,6 @@
 ---
 name: renteninformation-rentenauskunft
-description: "Wenn es um renteninformation-rentenauskunft-verstehen in Rentenprüfer geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
+description: "Für renteninformation-rentenauskunft-verstehen: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # renteninformation-rentenauskunft-verstehen

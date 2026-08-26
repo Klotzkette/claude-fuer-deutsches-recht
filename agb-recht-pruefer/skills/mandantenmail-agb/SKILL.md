@@ -1,6 +1,6 @@
 ---
 name: mandantenmail-agb
-description: "Wenn es um Mandantenmail AGB in AGB-Recht-Prüfer geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Dokumentenmatrix mit Nachforderungsliste."
+description: "Für Mandantenmail AGB: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Mandantenmail AGB

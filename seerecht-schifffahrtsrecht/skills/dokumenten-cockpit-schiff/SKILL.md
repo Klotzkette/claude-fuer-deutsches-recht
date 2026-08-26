@@ -1,6 +1,6 @@
 ---
 name: dokumenten-cockpit-schiff
-description: "Wenn es um Dokumenten-Cockpit Schiff – Vollständigkeitsprüfung in See- und Schifffahrtsrecht geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert einen Einreichungsplan mit Form-, Portal- und Nachweischeck."
+description: "Für Dokumenten-Cockpit Schiff – Vollständigkeitsprüfung: ordnet Akte, Belege und Lücken; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Dokumenten-Cockpit Schiff – Vollständigkeitsprüfung

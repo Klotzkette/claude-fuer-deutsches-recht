@@ -1,6 +1,6 @@
 ---
 name: pralr-027-geltungsbereich-subsidiaritaet-lokalrecht
-description: "Wenn es um Geltungsbereich in Preußisches Allgemeines Landrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. Auswahlstichwort: Pralr 027 Geltungsbereich Subsidiaritaet Lokalrecht; Arbeitsfeld: Preußisches Allgemeines Landrecht."
+description: "Für Geltungsbereich: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt. Fachgebiet: Preußisches Allgemeines Landrecht. Route: pralr-027-geltungsbereich-subsidiaritaet-lokalrecht."
 ---
 
 # Geltungsbereich

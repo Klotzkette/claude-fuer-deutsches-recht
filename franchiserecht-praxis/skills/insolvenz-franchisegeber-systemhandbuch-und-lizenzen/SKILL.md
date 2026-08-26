@@ -1,6 +1,6 @@
 ---
 name: insolvenz-franchisegeber-systemhandbuch-und-lizenzen
-description: "Wenn es um Franchiserecht: Insolvenz des Franchisegebers – Systemhandbuch und Lizenzen in Franchiserecht Praxis geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
+description: "Für Franchiserecht: Insolvenz des Franchisegebers – Systemhandbuch und Lizenzen: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Franchiserecht: Insolvenz des Franchisegebers – Systemhandbuch und Lizenzen

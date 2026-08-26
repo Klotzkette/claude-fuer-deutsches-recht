@@ -1,6 +1,6 @@
 ---
 name: widerklage-33-zpo
-description: "Wenn es um Widerklage: Eigener Angriff gegen den Kläger in selbstvertreter-amtsgericht geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
+description: "Für Widerklage: Eigener Angriff gegen den Kläger: erstellt Entwurf mit Antrag, Beweis und Anlagen; Ergebnis: Schriftsatz mit Begründungs- und Anlagenlogik."
 ---
 
 # Widerklage: Eigener Angriff gegen den Kläger

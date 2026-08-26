@@ -1,6 +1,6 @@
 ---
 name: jahresabschluss-handels-vs-steuerbilanz
-description: "Wenn es um Handelsbilanz vs. Steuerbilanz — Massgeblichkeit Paragraf 5 EStG in Steuerrecht – Steuerberater und Anwälte geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen."
+description: "Für Handelsbilanz vs. Steuerbilanz — Massgeblichkeit Paragraf 5 EStG: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Schnittstellenkarte mit Zuständigkeits- und Nachweisfragen."
 ---
 
 # Handelsbilanz vs. Steuerbilanz — Massgeblichkeit § 5 EStG

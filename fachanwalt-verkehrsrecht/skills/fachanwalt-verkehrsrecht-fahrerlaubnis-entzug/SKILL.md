@@ -1,6 +1,6 @@
 ---
 name: fachanwalt-verkehrsrecht-fahrerlaubnis-entzug
-description: "Wenn es um Fahrerlaubnis-Entzug in Fachanwalt Verkehrsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Fahrerlaubnis-Entzug: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Fahrerlaubnis-Entzug

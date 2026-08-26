@@ -1,6 +1,6 @@
 ---
 name: 06-ust-pruefungsschema
-description: "Wenn es um 06 USt Prüfungsschema in Finanzgericht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen."
+description: "Für 06 USt Prüfungsschema: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Tatbestands- oder Anspruchsmatrix."
 ---
 
 # 06 USt Prüfungsschema

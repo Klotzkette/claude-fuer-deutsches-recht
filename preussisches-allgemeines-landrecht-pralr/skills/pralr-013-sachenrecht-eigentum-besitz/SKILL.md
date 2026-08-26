@@ -1,6 +1,6 @@
 ---
 name: pralr-013-sachenrecht-eigentum-besitz
-description: "Wenn es um Sachenrecht in Preußisches Allgemeines Landrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. Auswahlstichwort: Pralr 013 Sachenrecht Eigentum Besitz; Arbeitsfeld: Preußisches Allgemeines Landrecht."
+description: "Für Sachenrecht: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt. Fachgebiet: Preußisches Allgemeines Landrecht. Route: pralr-013-sachenrecht-eigentum-besitz."
 ---
 
 # Sachenrecht

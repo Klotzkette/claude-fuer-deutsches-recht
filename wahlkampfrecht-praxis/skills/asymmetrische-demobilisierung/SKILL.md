@@ -1,6 +1,6 @@
 ---
 name: asymmetrische-demobilisierung
-description: "Wenn es um Asymmetrische Demobilisierung in Wahlkampfrecht Praxis geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Asymmetrische Demobilisierung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Asymmetrische Demobilisierung

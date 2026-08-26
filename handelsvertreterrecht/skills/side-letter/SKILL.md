@@ -1,6 +1,6 @@
 ---
 name: side-letter
-description: "Wenn es um Side Letter und Nebenabreden im Handelsvertretervertrag — Wirksamkeit und Risiken in Handelsvertreterrecht und Vertriebsverträge geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Side Letter und Nebenabreden im Handelsvertretervertrag — Wirksamkeit und Risiken: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Side Letter und Nebenabreden im Handelsvertretervertrag — Wirksamkeit und Risiken

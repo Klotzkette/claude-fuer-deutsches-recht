@@ -1,6 +1,6 @@
 ---
 name: steuer-umsatzsteuer-factoringgebuehren-und-forderungsverkauf
-description: "Wenn es um Steuer Umsatzsteuer Factoringgebühren und Forderungsverkauf in Factoring-Recht geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Berechnungstabelle mit Schwellen, Annahmen und Kontrollfragen."
+description: "Für Steuer Umsatzsteuer Factoringgebühren und Forderungsverkauf: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Berechnungstabelle mit Annahmen und Kontrollfragen."
 ---
 
 # Steuer Umsatzsteuer Factoringgebühren und Forderungsverkauf

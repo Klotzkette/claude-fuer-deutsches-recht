@@ -1,6 +1,6 @@
 ---
 name: patientenbeschwerde-und-risikomanagement
-description: "Wenn es um Patientenbeschwerde und Risikomanagement in Krankenhausrecht geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
+description: "Für Patientenbeschwerde und Risikomanagement: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Patientenbeschwerde und Risikomanagement

@@ -1,6 +1,6 @@
 ---
 name: miturheber-mehrere-model-weights-nearshore
-description: "Wenn es um Mehrere Entwickler und Miturheberschaft in Softwarerecht Deutschland/EU/International/USA geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen."
+description: "Für Mehrere Entwickler und Miturheberschaft: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Mehrere Entwickler und Miturheberschaft

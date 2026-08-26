@@ -1,6 +1,6 @@
 ---
 name: schulbibliothek-medienbestand
-description: "Wenn es um Schulbibliothek und Medienbestand in Schulrecht der Bundesländer geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Schulbibliothek und Medienbestand: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Schulbibliothek und Medienbestand

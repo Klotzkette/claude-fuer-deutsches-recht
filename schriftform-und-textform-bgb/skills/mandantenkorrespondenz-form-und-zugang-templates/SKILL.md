@@ -1,6 +1,6 @@
 ---
 name: mandantenkorrespondenz-form-und-zugang-templates
-description: "Wenn es um Mandantenkorrespondenz — Form und Zugang: Templates in Schriftform und Textform im BGB geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Mandantenkorrespondenz — Form und Zugang: Templates: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Mandantenkorrespondenz — Form und Zugang: Templates

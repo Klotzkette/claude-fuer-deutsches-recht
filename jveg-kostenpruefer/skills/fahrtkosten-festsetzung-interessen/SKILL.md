@@ -1,6 +1,6 @@
 ---
 name: fahrtkosten-festsetzung-interessen
-description: "Wenn es um Fahrtkosten: Behörden-, Gerichts- oder Registerweg in JVEG-Kostenprüfer geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Fahrtkosten: Behörden-, Gerichts- oder Registerweg: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Fahrtkosten: Behörden-, Gerichts- oder Registerweg

@@ -1,6 +1,6 @@
 ---
 name: fuer-bankgespraech
-description: "Wenn es um Liqui für Bankgespraech in Liquiditätsplanung — Power geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
+description: "Für Liqui für Bankgespräch: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt. Fachgebiet: Liquiditätsplanung — Power. Route: fuer-bankgespraech."
 ---
 
 # Liqui für Bankgespraech

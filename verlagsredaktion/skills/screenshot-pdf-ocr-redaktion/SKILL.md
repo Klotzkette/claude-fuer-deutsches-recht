@@ -1,6 +1,6 @@
 ---
 name: screenshot-pdf-ocr-redaktion
-description: "Wenn es um Screenshot / PDF-OCR-Workflow in Verlagsredaktion geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
+description: "Für Screenshot / PDF-OCR-Workflow: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Screenshot / PDF-OCR-Workflow

@@ -1,6 +1,6 @@
 ---
 name: mieteranfragen-mehrparteien-konflikt-und-interessen
-description: "Wenn es um Mieteranfragen: Mehrparteienkonflikt und Interessenmatrix in Immobilienrechtspraxis geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Mieteranfragen: Mehrparteienkonflikt und Interessenmatrix: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Mieteranfragen: Mehrparteienkonflikt und Interessenmatrix

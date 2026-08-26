@@ -1,6 +1,6 @@
 ---
 name: crypto-exchange-agb
-description: "Wenn es um Crypto Exchange AGB in AGB-Recht-Prüfer geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen. Auswahlstichwort: Crypto Exchange Agb; Arbeitsfeld: AGB-Recht-Prüfer."
+description: "Für Crypto Exchange AGB: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt. Fachgebiet: AGB-Recht-Prüfer. Route: crypto-exchange-agb."
 ---
 
 # Crypto Exchange AGB

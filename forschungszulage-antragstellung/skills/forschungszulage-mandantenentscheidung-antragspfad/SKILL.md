@@ -1,6 +1,6 @@
 ---
 name: forschungszulage-mandantenentscheidung-antragspfad
-description: "Wenn es um Dokumentation: Mandantenkommunikation und Entscheidungsvorlage in Forschungszulage-Antragstellung geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Dokumentation: Mandantenkommunikation und Entscheidungsvorlage: erstellt Entwurf mit Antrag, Beweis und Anlagen; Ergebnis: Schriftsatz mit Begründungs- und Anlagenlogik."
 ---
 
 # Dokumentation: Mandantenkommunikation und Entscheidungsvorlage

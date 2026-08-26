@@ -1,6 +1,6 @@
 ---
 name: termination-of-mandate
-description: "Wenn es um Mandatsbeendigung in Kanzlei-Mandant Lifecycle geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Mandatsbeendigung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt. Fachgebiet: Kanzlei-Mandant Lifecycle."
 ---
 
 # Mandatsbeendigung

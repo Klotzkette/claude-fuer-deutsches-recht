@@ -1,6 +1,6 @@
 ---
 name: datev-bwa-modul-bedienen-tipps
-description: "Wenn es um DATEV Kanzlei-Rechnungswesen BWA-Modul — Bedienung in Steuerrecht – Steuerberater und Anwälte geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für DATEV Kanzlei-Rechnungswesen BWA-Modul — Bedienung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # DATEV Kanzlei-Rechnungswesen BWA-Modul — Bedienung

@@ -1,6 +1,6 @@
 ---
 name: bverfg-uebermassverbot-dogmatiklinie
-description: "Wenn es um Übermaßverbot als BVerfG-Dogmatiklinie in Verhältnismäßigkeitsprüfer geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
+description: "Für Übermaßverbot als BVerfG-Dogmatiklinie: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Übermaßverbot als BVerfG-Dogmatiklinie

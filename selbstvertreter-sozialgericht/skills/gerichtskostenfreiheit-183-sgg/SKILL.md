@@ -1,6 +1,6 @@
 ---
 name: gerichtskostenfreiheit-183-sgg
-description: "Wenn es um Das Gericht ist für Sie kostenfrei — Paragraf 183 SGG in selbstvertreter-sozialgericht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Das Gericht ist für Sie kostenfrei — Paragraf 183 SGG: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Das Gericht ist für Sie kostenfrei — § 183 SGG

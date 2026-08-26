@@ -1,6 +1,6 @@
 ---
 name: rechtsabteilung-mac-klausel-bei-signing-closing-bruch
-description: "Wenn es um Rechtsabteilung Mac Klausel Bei Signing Closing Bruch in Großkanzlei Corporate/M&A geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Rechtsabteilung Mac Klausel bei Signing Closing Bruch: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Rechtsabteilungs-Fachmodul für MAC-Klausel bei Signing-Closing-Bruch: Ein Deal-Team erhält eine deutsche Auslegungsmatrix für MAC, MAE und Bring-down-Zertifikate

@@ -1,6 +1,6 @@
 ---
 name: sonderversammlung-minderheit
-description: "Wenn es um Sonderversammlung Minderheit in Vereinsrecht und Vereinsmanager geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Sonderversammlung Minderheit: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Sonderversammlung Minderheit

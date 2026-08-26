@@ -1,6 +1,6 @@
 ---
 name: geldwaesche-simulation-testlauf
-description: "Wenn es um AML/KYC-Simulationsmodus in Geldwäscheprävention, AML und KYC geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
+description: "Für AML/KYC-Simulationsmodus: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # AML/KYC-Simulationsmodus

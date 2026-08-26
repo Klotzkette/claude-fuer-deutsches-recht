@@ -1,6 +1,6 @@
 ---
 name: kuenstlersozialkasse-und-krankenversicherung
-description: "Wenn es um Künstlersozialkasse und Krankenversicherung in Krankenkassenrecht und Krankenversicherung geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Künstlersozialkasse und Krankenversicherung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Künstlersozialkasse und Krankenversicherung

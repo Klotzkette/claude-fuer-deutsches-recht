@@ -1,6 +1,6 @@
 ---
 name: registerkosten-und-notarkosten
-description: "Wenn es um Kosten und Gebühren antizipieren in Handelsregister Praxis geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Kosten und Gebühren antizipieren: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Einreichungsplan mit Form- und Nachweischeck."
 ---
 
 # Kosten und Gebühren antizipieren

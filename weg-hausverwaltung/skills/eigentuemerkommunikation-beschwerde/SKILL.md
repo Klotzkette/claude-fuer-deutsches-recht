@@ -1,6 +1,6 @@
 ---
 name: eigentuemerkommunikation-beschwerde
-description: "Wenn es um Eigentümerkommunikation und Beschwerden in WEG- und Hausverwaltung geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Eigentümerkommunikation und Beschwerden: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Eigentümerkommunikation und Beschwerden

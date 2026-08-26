@@ -1,6 +1,6 @@
 ---
 name: clickwrap-beweisakte
-description: "Wenn es um Clickwrap Beweisakte in AGB-Recht-Prüfer geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Dokumentenmatrix mit Nachforderungsliste."
+description: "Für Clickwrap Beweisakte: ordnet Akte, Belege und Lücken; Ergebnis: Beweislast- und Substantiierungsmatrix."
 ---
 
 # Clickwrap Beweisakte

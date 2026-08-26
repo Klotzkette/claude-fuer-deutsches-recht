@@ -1,6 +1,6 @@
 ---
 name: lph8-bauueberwachung-trockenbau-tunnel
-description: "Wenn es um Bauueberwachung Trockenbau F30 und F90 Brandschutzwaende in HOAI Leistungsphasen Praxis geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Bauüberwachung Trockenbau F30 und F90 Brandschutzwände: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Bauueberwachung Trockenbau F30 und F90 Brandschutzwaende

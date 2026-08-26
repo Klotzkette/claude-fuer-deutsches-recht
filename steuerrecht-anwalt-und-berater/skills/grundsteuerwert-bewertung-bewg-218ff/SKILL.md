@@ -1,6 +1,6 @@
 ---
 name: grundsteuerwert-bewertung-bewg-218ff
-description: "Wenn es um Grundsteuerwert: Bewertung nach BewG Paragrafen 218 ff. in Steuerrecht – Steuerberater und Anwälte geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen."
+description: "Für Grundsteuerwert: Bewertung nach BewG Paragrafen 218 ff: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Schnittstellenkarte mit Zuständigkeits- und Nachweisfragen."
 ---
 
 # Grundsteuerwert: Bewertung nach BewG §§ 218 ff.

@@ -1,6 +1,6 @@
 ---
 name: industrieanlage-akteneinsicht-gutachten
-description: "Wenn es um Industrieanlage Akteneinsicht Erzwinge in Umweltschutzverband Verbandsklage geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
+description: "Für Industrieanlage Akteneinsicht Erzwinge: ordnet Akte, Belege und Lücken; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Industrieanlage Akteneinsicht Erzwinge

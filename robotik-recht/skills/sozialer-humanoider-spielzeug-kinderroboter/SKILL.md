@@ -1,6 +1,6 @@
 ---
 name: sozialer-humanoider-spielzeug-kinderroboter
-description: "Wenn es um Sozialer humanoider Roboter in robotik-recht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen."
+description: "Für Sozialer humanoider Roboter: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Schnittstellenkarte mit Zuständigkeits- und Nachweisfragen."
 ---
 
 # Sozialer humanoider Roboter

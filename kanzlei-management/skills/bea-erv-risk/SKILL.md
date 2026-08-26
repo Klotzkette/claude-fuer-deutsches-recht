@@ -1,6 +1,6 @@
 ---
 name: bea-erv-risk
-description: "Wenn es um beA und ERV Risiko in Kanzlei Management geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für beA und ERV Risiko: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # beA und ERV Risiko

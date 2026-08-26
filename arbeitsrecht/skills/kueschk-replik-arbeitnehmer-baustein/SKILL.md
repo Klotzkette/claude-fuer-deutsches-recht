@@ -1,6 +1,6 @@
 ---
 name: kueschk-replik-arbeitnehmer-baustein
-description: "Wenn es um Reaktion auf die Klageerwiderung des Arbeitgebers: Bestreiten von Behauptungen in Arbeitsrecht geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
+description: "Für Reaktion auf die Klageerwiderung des Arbeitgebers: Bestreiten von Behauptungen: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Reaktion auf die Klageerwiderung des Arbeitgebers: Bestreiten von Behauptungen

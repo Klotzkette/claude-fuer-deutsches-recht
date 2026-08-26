@@ -1,6 +1,6 @@
 ---
 name: gesellschaftsprozess-versandmappe-endfertigen
-description: "Endfertigt Beschlussmängel-, Organhaftungs-, Auskunfts-, Abfindungs- und Gesellschafterstreitigkeiten: liest Satzung, Register, Gesellschafterliste, Einladung, Protokoll, Beschlüsse, Verträge und Bewertungen zuerst, prüft Partei, Antrag, Frist und Vertretung, ordnet Corporate-Belege zu und liefert beA-Einzeldateien mit Beschluss-, Versions- und Eingangskontrolle."
+description: "Endfertigt Beschlussmängel-, Organhaftungs-, Auskunfts-, Abfindungs- und Gesellschafterstreitigkeiten: liest Satzung, Register, Gesellschafterliste, Einladung, Protokoll, Beschlüsse, Verträge und Bewertungen zuerst, prüft Partei, Antrag, Frist und Vertretung, ordnet Corporate-Belege zu und liefert beA-Einzeldateien mit Beschluss-, Versions- und."
 ---
 
 # Gesellschaftsprozess-Versandmappe endfertigen

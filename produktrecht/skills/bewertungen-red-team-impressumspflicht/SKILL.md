@@ -1,6 +1,6 @@
 ---
 name: bewertungen-red-team-impressumspflicht
-description: "Wenn es um Bewertungen: Behörden-, Gerichts- oder Registerweg in Produkthaftung und Produktrecht geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Bewertungen: Behörden-, Gerichts- oder Registerweg: prüft Ergebnis, Beweislast und Gegenposition; Ergebnis: Gegenprüfung mit Beweis- und Fristencheck."
 ---
 
 # Bewertungen: Behörden-, Gerichts- oder Registerweg

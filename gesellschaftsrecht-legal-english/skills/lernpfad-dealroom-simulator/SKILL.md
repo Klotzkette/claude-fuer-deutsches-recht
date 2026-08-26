@@ -1,6 +1,6 @@
 ---
 name: lernpfad-dealroom-simulator
-description: "Wenn es um Lernpfad Dealroom-Simulator in Didaktisches Gesellschaftsrecht — English Business Terms geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
+description: "Für Lernpfad Dealroom-Simulator: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Lernpfad Dealroom-Simulator

@@ -1,6 +1,6 @@
 ---
 name: dienstunfall-anerkennung-45-beamtvg
-description: "Wenn es um Dienstunfall — Anerkennung und Meldefristen in Beamtenrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Dienstunfall — Anerkennung und Meldefristen: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Dienstunfall — Anerkennung und Meldefristen

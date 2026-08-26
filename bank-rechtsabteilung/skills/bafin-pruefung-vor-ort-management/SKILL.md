@@ -1,6 +1,6 @@
 ---
 name: bafin-pruefung-vor-ort-management
-description: "Wenn es um Prüfung vor Ort managen in Bank-Rechtsabteilung geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Tatbestands- oder Anspruchsmatrix mit Gegenargumenten."
+description: "Für Prüfung vor Ort managen: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Tatbestands- oder Anspruchsmatrix."
 ---
 
 # Prüfung vor Ort managen

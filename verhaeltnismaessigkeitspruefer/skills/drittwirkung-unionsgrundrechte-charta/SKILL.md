@@ -1,6 +1,6 @@
 ---
 name: drittwirkung-unionsgrundrechte-charta
-description: "Wenn es um Drittwirkung der Unionsgrundrechte — Charta und EuGH-Linie in Verhältnismäßigkeitsprüfer geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Drittwirkung der Unionsgrundrechte — Charta und EuGH-Linie: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Drittwirkung der Unionsgrundrechte — Charta und EuGH-Linie

@@ -1,6 +1,6 @@
 ---
 name: fachanwalt-strafrecht-wahlverteidiger-mandat
-description: "Wenn es um Wahlverteidiger-Mandat in Fachanwalt Strafrecht geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Verhandlungs- oder Eskalationslinie mit Optionen."
+description: "Für Wahlverteidiger-Mandat: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Wahlverteidiger-Mandat

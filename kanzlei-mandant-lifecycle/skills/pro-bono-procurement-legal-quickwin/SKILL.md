@@ -1,6 +1,6 @@
 ---
 name: pro-bono-procurement-legal-quickwin
-description: "Wenn es um Pro Bono und Low Bono in Kanzlei-Mandant Lifecycle geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Pro Bono und Low Bono: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Pro Bono und Low Bono

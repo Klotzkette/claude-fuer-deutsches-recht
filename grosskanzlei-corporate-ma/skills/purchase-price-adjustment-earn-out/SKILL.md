@@ -1,6 +1,6 @@
 ---
 name: purchase-price-adjustment-earn-out
-description: "Wenn es um Purchase Price Adjustment Earn Out in Großkanzlei Corporate/M&A geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. Auswahlstichwort: Purchase Price Adjustment Earn Out; Arbeitsfeld: Großkanzlei Corporate/M&A."
+description: "Für Purchase Price Adjustment Earn Out: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt. Fachgebiet: Großkanzlei Corporate/M&A. Route: purchase-price-adjustment-earn-out."
 ---
 
 # Purchase Price Adjustment und Earn-out Skill: modelliert Anpassungen, Earn-out-KPIs, Manipulationsschutz, Covenants und Streitbeilegung.

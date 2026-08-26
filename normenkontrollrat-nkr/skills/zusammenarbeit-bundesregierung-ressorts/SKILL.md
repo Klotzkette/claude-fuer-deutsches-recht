@@ -1,6 +1,6 @@
 ---
 name: zusammenarbeit-bundesregierung-ressorts
-description: "Wenn es um NKR-Zusammenarbeit mit Bundesregierung und Ressorts in Normenkontrollrat (NKR) — Prüfung von Gesetzentwuerfen geht: entwickelt Verhandlungsziel, Vergleichskorridor und Eskalationspfad; liefert eine Verhandlungs- oder Eskalationslinie mit Optionen."
+description: "Für NKR-Zusammenarbeit mit Bundesregierung und Ressorts: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # NKR-Zusammenarbeit mit Bundesregierung und Ressorts

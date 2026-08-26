@@ -1,6 +1,6 @@
 ---
 name: inv-044-termination-strategy
-description: "Wenn es um Internal Investigation: Termination Strategy in Internal Investigations Praxis geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Beweislast- und Substantiierungsmatrix."
+description: "Für Internal Investigation: Termination Strategy: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Internal Investigation: Termination Strategy

@@ -1,6 +1,6 @@
 ---
 name: betriebskostenabrechnung-pruefen-asset-management
-description: "Wenn es um Betriebskostenabrechnung prüfen in Immobilienrechtspraxis geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Betriebskostenabrechnung prüfen: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt. Fachgebiet: Immobilienrechtspraxis."
 ---
 
 # Betriebskostenabrechnung prüfen

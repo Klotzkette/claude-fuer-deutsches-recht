@@ -1,6 +1,6 @@
 ---
 name: meinung-strafantrag-verfahren
-description: "Wenn es um Meinung: Fristen, Form, Zuständigkeit und Rechtsweg in Meinungsprüfer geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Meinung: Fristen, Form, Zuständigkeit und Rechtsweg: erstellt Entwurf mit Antrag, Beweis und Anlagen; Ergebnis: Schriftsatz mit Begründungs- und Anlagenlogik."
 ---
 
 # Meinung: Fristen, Form, Zuständigkeit und Rechtsweg

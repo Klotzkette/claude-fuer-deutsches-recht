@@ -1,6 +1,6 @@
 ---
 name: frankreich-controle-proportionnalite
-description: "Wenn es um Frankreich Controle de Proportionnalite in Verhältnismäßigkeitsprüfer geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
+description: "Für Frankreich Controle de Proportionnalite: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Frankreich Controle de Proportionnalite

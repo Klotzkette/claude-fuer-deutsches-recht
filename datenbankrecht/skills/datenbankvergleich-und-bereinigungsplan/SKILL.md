@@ -1,6 +1,6 @@
 ---
 name: datenbankvergleich-und-bereinigungsplan
-description: "Wenn es um Datenbankvergleich und Bereinigungsplan — Technischer Nachweis und Vollstreckung in Datenbankrecht und Datenbankherstellerrecht geht: entwickelt Verhandlungsziel, Vergleichskorridor und Eskalationspfad; liefert eine Verhandlungs- oder Eskalationslinie mit Optionen."
+description: "Für Datenbankvergleich und Bereinigungsplan — Technischer Nachweis und Vollstreckung: entwickelt Ziel, Vergleich und Eskalation; Ergebnis: Verhandlungs- oder Eskalationslinie."
 ---
 
 # Datenbankvergleich und Bereinigungsplan — Technischer Nachweis und Vollstreckung

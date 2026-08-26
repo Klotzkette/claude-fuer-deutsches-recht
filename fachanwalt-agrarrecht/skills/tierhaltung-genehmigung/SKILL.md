@@ -1,6 +1,6 @@
 ---
 name: tierhaltung-genehmigung
-description: "Wenn es um Genehmigung Tierhaltungsanlagen nach Paragraf 4 BImSchG ab Schwellenwerten in Fachanwalt Agrarrecht geht: rechnet Schwellen, Beträge, Varianten und Kontrollannahmen durch; liefert eine Berechnungstabelle mit Schwellen, Annahmen und Kontrollfragen."
+description: "Für Genehmigung Tierhaltungsanlagen nach Paragraf 4 BImSchG ab Schwellenwerten: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Genehmigung Tierhaltungsanlagen nach § 4 BImSchG ab Schwellenwerten

@@ -1,6 +1,6 @@
 ---
 name: bwbes-neu-001-soldatenbesoldung-grundgehalt-und-dienstgrad
-description: "Wenn es um Bundeswehrrecht: Soldatenbesoldung Grundgehalt und Dienstgrad in Bundeswehrrecht und Wehrrecht geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Bundeswehrrecht: Soldatenbesoldung Grundgehalt und Dienstgrad: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Schnittstellenkarte mit Zuständigkeits- und Nachweisfragen."
 ---
 
 # Bundeswehrrecht: Soldatenbesoldung Grundgehalt und Dienstgrad

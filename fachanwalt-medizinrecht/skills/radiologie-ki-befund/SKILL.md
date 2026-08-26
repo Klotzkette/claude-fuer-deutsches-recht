@@ -1,6 +1,6 @@
 ---
 name: radiologie-ki-befund
-description: "Wenn es um Radiologie Ki Befund in Fachanwalt Medizinrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Radiologie Ki Befund: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Radiologie-KI und Befundfehler: moderner Medizinrechts-Skill für KI-Vorschlag, ärztlicher Befund, Overreliance, Softwareupdate und verpasster Zufallsbefund

@@ -1,6 +1,6 @@
 ---
 name: agile-scrum-audit-klauseln-on-prem
-description: "Wenn es um Agile/Scrum-Vertrag in Softwarerecht Deutschland/EU/International/USA geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Agile/Scrum-Vertrag: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Agile/Scrum-Vertrag

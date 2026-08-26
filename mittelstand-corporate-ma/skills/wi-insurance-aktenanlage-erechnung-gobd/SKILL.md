@@ -1,6 +1,6 @@
 ---
 name: wi-insurance-aktenanlage-erechnung-gobd
-description: "Wenn es um W&I-Versicherung in Mittelstands-Corporate/M&A geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen."
+description: "Für W&I-Versicherung: ordnet Akte, Belege und Lücken; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # W&I-Versicherung

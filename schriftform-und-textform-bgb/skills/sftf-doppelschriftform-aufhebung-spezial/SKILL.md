@@ -1,6 +1,6 @@
 ---
 name: sftf-doppelschriftform-aufhebung-spezial
-description: "Wenn es um SfTf: Doppelschriftform-Aufhebung in Schriftform und Textform im BGB geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für SfTf: Doppelschriftform-Aufhebung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # SfTf: Doppelschriftform-Aufhebung

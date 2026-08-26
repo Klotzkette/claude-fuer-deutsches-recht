@@ -1,6 +1,6 @@
 ---
 name: verlagsrecht-buch-ebook
-description: "Wenn es um Verlagsrecht Buch und E-Book in Urheberrecht DE EU geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Verlagsrecht Buch und E-Book: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Verlagsrecht Buch und E-Book

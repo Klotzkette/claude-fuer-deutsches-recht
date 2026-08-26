@@ -1,6 +1,6 @@
 ---
 name: laienhilfe-krankengeld-ablauf
-description: "Wenn es um Laienhilfe: Krankengeld Ablauf in Fachanwalt Sozialrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Laienhilfe: Krankengeld Ablauf: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Laienhilfe: Krankengeld Ablauf

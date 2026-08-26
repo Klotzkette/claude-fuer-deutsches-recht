@@ -1,6 +1,6 @@
 ---
 name: sonderpruefung-aktienrecht-rechtsprechungscheck
-description: "Wenn es um Sonderpruefung Aktienrecht Rechtsprechungscheck in Berufsrecht Wirtschaftsprüfer geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Gegenprüfung mit Fehler-, Beweis- und Fristencheck."
+description: "Für Sonderprüfung Aktienrecht Rechtsprechungscheck: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Tatbestands- oder Anspruchsmatrix."
 ---
 
 # Wirtschaftsprüfer: sonderpruefung aktienrecht - Rechtsprechungscheck, stärkste Gegenansicht und Red-Team-Korrektur

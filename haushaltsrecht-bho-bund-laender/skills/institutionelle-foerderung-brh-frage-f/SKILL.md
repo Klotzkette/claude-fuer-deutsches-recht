@@ -1,6 +1,6 @@
 ---
 name: institutionelle-foerderung-brh-frage-f
-description: "Wenn es um Institutionelle Förderung Brh Frage F in Haushaltsrecht BHO Bund und Länder geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Institutionelle Förderung BRH Frage F: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Institutionelle Förderung Brh Frage F

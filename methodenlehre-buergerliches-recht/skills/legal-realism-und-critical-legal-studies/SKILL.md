@@ -1,6 +1,6 @@
 ---
 name: legal-realism-und-critical-legal-studies
-description: "Wenn es um American Legal Realism und Critical Legal Studies (CLS) in Methodenlehre bürgerliches Recht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für American Legal Realism und Critical Legal Studies (CLS): ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # American Legal Realism und Critical Legal Studies (CLS)

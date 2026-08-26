@@ -1,6 +1,6 @@
 ---
 name: klageentwurf-stimmbindungsvertrag
-description: "Wenn es um Klageentwurf Bausteine in Gesellschaftsrechtliche Treuepflicht geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
+description: "Für Klageentwurf Bausteine: erstellt Entwurf mit Antrag, Beweis und Anlagen; Ergebnis: Schriftsatz mit Begründungs- und Anlagenlogik."
 ---
 
 # Klageentwurf Bausteine

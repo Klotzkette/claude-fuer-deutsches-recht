@@ -1,6 +1,6 @@
 ---
 name: regeln-mehrparteien-konflikt-und-interessen
-description: "Wenn es um Regeln: Mehrparteienkonflikt und Interessenmatrix in Fachanwalt Transport Speditionsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Regeln: Mehrparteienkonflikt und Interessenmatrix: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Regeln: Mehrparteienkonflikt und Interessenmatrix

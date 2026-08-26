@@ -1,6 +1,6 @@
 ---
 name: gewissensentscheidung-massstab-glossar-kdv
-description: "Wenn es um Maßstab der Gewissensentscheidung in Kriegsdienstverweigerung und Wehrdienst geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Maßstab der Gewissensentscheidung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Maßstab der Gewissensentscheidung

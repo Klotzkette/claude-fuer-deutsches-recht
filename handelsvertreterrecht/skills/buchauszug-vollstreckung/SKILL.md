@@ -1,6 +1,6 @@
 ---
 name: buchauszug-vollstreckung
-description: "Wenn es um Vollstreckung des Buchauszugsanspruchs nach Paragraf 87c HGB und Paragraf 888 ZPO in Handelsvertreterrecht und Vertriebsverträge geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
+description: "Für Vollstreckung des Buchauszugsanspruchs nach Paragraf 87c HGB und Paragraf 888 ZPO: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Vollstreckung des Buchauszugsanspruchs nach § 87c HGB und § 888 ZPO

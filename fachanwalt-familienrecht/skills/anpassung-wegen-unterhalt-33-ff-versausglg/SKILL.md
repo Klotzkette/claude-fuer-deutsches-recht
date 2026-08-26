@@ -1,6 +1,6 @@
 ---
 name: anpassung-wegen-unterhalt-33-ff-versausglg
-description: "Wenn es um Anpassung Wegen Unterhalt 33 Ff Versausglg in Fachanwalt Familienrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Anpassung Wegen Unterhalt 33 Ff Versausglg: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Anpassung wegen Unterhalt Paragrafen 33 ff VersAusglG: prüft die einschlägigen Voraussetzungen, Dokumente, Risiken und Ausnahmen

@@ -1,6 +1,6 @@
 ---
 name: kaltstart-triage
-description: "Wenn es um WEG- und Hausverwaltung — Allgemein in WEG- und Hausverwaltung geht: klärt Rolle, Ziel, Frist, Unterlagen und den passenden nächsten Fachskill; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für WEG- und Hausverwaltung — Allgemein: routet Rolle, Frist, Unterlagen und Fachschritt; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # WEG- und Hausverwaltung — Allgemein

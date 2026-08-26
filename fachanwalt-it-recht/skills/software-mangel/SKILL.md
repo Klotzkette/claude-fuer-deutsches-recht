@@ -1,6 +1,6 @@
 ---
 name: software-mangel
-description: "Wenn es um Prüfung von Softwaremangelansprüchen nach Kauf-Werk- oder Dienstvertragsrecht in Fachanwalt It Recht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Prüfung von Softwaremangelansprüchen nach Kauf-Werk- oder Dienstvertragsrecht: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Prüfung von Softwaremangelansprüchen nach Kauf-Werk- oder Dienstvertragsrecht

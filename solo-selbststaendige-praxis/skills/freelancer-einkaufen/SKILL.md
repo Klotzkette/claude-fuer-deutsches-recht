@@ -1,6 +1,6 @@
 ---
 name: freelancer-einkaufen
-description: "Wenn es um Freelancer Einkaufen in Solo-Selbstständige Praxis geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Freelancer Einkaufen: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Wachstum Zusammenarbeit und Rechtsform: Erstellt subunternehmer-check mit rechtekette und statusrisiko

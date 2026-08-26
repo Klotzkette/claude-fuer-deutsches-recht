@@ -1,6 +1,6 @@
 ---
 name: erb-unternehmensnachfolge-spezial
-description: "Wenn es um Erb Unternehmensnachfolge Spezial in Fachanwalt Erbrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Erb Unternehmensnachfolge Spezial: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Spezialfall Unternehmensnachfolge: Vorab-Nachfolgeklauseln in Gesellschaftsvertrag, Pflichtteilsverzicht durch Erben, Stiftungsloesung, Verschonungsregelung §§ 13a / 13b / 19a ErbStG, Nachversteuerung Behaltensfrist

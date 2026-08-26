@@ -1,6 +1,6 @@
 ---
 name: staatshaftung-aufopferung
-description: "Wenn es um Aufopferung in Preußisches Allgemeines Landrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. Auswahlstichwort: Staatshaftung Aufopferung; Arbeitsfeld: Preußisches Allgemeines Landrecht."
+description: "Für Aufopferung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt. Fachgebiet: Preußisches Allgemeines Landrecht. Route: staatshaftung-aufopferung."
 ---
 
 # Aufopferung

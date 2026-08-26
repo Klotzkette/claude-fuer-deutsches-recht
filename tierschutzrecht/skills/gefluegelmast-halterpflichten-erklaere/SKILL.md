@@ -1,6 +1,6 @@
 ---
 name: gefluegelmast-halterpflichten-erklaere
-description: "Wenn es um Gefluegelmast Halterpflichten Erklaere in Tierschutzrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Geflügelmast Halterpflichten Erkläre: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Gefluegelmast Halterpflichten Erklaere

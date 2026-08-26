@@ -1,6 +1,6 @@
 ---
 name: sanktionen-und-russlandbezug-kammerantwort-und-v
-description: "Wenn es um Sanktionen Und Russlandbezug Kammerantwort Und V in Berufsrecht Patentanwälte geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Verhandlungs- oder Eskalationslinie mit Optionen."
+description: "Für Sanktionen und Russlandbezug Kammerantwort und V: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Patentanwälte: sanktionen und russlandbezug - Kammerantwort mit Verfahrensstrategie, Tonlage und Belegplan

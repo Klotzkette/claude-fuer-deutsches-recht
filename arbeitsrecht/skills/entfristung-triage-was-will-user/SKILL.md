@@ -1,6 +1,6 @@
 ---
 name: entfristung-triage-was-will-user
-description: "Wenn es um Entfristung Triage Was Will User in Arbeitsrecht geht: klärt Rolle, Ziel, Frist, Unterlagen und den passenden nächsten Fachskill; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Entfristung Triage Was Will User: routet Rolle, Frist, Unterlagen und Fachschritt; Ergebnis: Fristen- und Risikoampel."
 ---
 
 # Einstieg Entfristungsklage-Workflow: Erkennung ob Nutzer Befristungskontrollklage oder Entfristungsklage anstrebt

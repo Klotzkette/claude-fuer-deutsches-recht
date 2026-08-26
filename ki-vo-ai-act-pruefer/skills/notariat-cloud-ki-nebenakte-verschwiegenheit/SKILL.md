@@ -1,6 +1,6 @@
 ---
 name: notariat-cloud-ki-nebenakte-verschwiegenheit
-description: "Wenn es um Notariat: Cloud, digitale Werkzeuge und Nebenakte in europäischem Technikregulierungsrecht geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen."
+description: "Für Notariat: Cloud, digitale Werkzeuge und Nebenakte: ordnet Akte, Belege und Lücken; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Notariat: Cloud, KI und Nebenakte

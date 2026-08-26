@@ -1,6 +1,6 @@
 ---
 name: fachanwalt-urheber-medienrecht-abmahnung-pruefen
-description: "Wenn es um Abmahnung prüfen – Fachanwalt Urheber- und Medienrecht in Fachanwalt Urheber Medienrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Abmahnung prüfen – Fachanwalt Urheber- und Medienrecht: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Abmahnung prüfen – Fachanwalt Urheber- und Medienrecht

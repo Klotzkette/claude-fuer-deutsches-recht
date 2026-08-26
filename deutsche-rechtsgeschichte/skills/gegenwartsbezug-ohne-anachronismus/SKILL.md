@@ -1,6 +1,6 @@
 ---
 name: gegenwartsbezug-ohne-anachronismus
-description: "Wenn es um Gegenwartsbezug ohne Anachronismus in Deutsche Rechtsgeschichte geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Gegenwartsbezug ohne Anachronismus: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Gegenwartsbezug ohne Anachronismus

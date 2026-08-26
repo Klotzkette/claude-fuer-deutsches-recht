@@ -1,6 +1,6 @@
 ---
 name: aufsichtliche-anordnung-plus-bussgeld-doppelspur
-description: "Wenn es um Anordnung plus Bußgeld Doppelspur in Datenschutz-Sanktionsverfahren und Verteidigung geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
+description: "Für Anordnung plus Bußgeld Doppelspur: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Anordnung plus Bußgeld Doppelspur

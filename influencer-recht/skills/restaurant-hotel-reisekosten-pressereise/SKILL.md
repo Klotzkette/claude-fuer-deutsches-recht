@@ -1,6 +1,6 @@
 ---
 name: restaurant-hotel-reisekosten-pressereise
-description: "Wenn es um Influencer-Recht: Restaurant, Hotel, Einladung und geldwerter Vorteil in Influencer-Recht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen."
+description: "Für Influencer-Recht: Restaurant, Hotel, Einladung und geldwerter Vorteil: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Influencer-Recht: Restaurant, Hotel, Einladung und geldwerter Vorteil

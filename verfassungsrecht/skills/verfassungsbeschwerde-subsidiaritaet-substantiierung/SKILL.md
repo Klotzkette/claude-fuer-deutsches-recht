@@ -1,6 +1,6 @@
 ---
 name: verfassungsbeschwerde-subsidiaritaet-substantiierung
-description: "Wenn es um Verfassungsbeschwerde: Subsidiarität und Substantiierung in verfassungsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Verfassungsbeschwerde: Subsidiarität und Substantiierung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Beweislast- und Substantiierungsmatrix."
 ---
 
 # Verfassungsbeschwerde: Subsidiarität und Substantiierung

@@ -1,6 +1,6 @@
 ---
 name: fentanyl-einlassung-planen
-description: "Wenn es um Fentanyl Einlassung Planen in Betäubungsmittelrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Fentanyl Einlassung Planen: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Fentanyl Einlassung Planen

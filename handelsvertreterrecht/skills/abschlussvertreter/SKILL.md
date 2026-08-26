@@ -1,6 +1,6 @@
 ---
 name: abschlussvertreter
-description: "Wenn es um Rechtsstellung des Abschlussvertreters nach Paragrafen 84 und 54 HGB in Handelsvertreterrecht und Vertriebsverträge geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
+description: "Für Rechtsstellung des Abschlussvertreters nach Paragrafen 84 und 54 HGB: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Rechtsstellung des Abschlussvertreters nach §§ 84 und 54 HGB

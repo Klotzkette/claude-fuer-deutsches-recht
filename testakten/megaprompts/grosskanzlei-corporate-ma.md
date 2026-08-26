@@ -2,18 +2,18 @@
 
 ## Zusammensetzung
 
-Diese Vollprüfung enthält top-8 von 282 Skills (gekürzt für das Arbeitsfenster) des Plugins `grosskanzlei-corporate-ma`.
+Diese Vollprüfung enthält top-8 von 236 Skills (gekürzt für das Arbeitsfenster) des Plugins `grosskanzlei-corporate-ma`.
 
 ## Inhaltsverzeichnis
 
 1. **juristischer-argumentationskern** — Schaltet sich ein, wenn in Grosskanzlei Corporate Ma ein juristisches Arbeitsprodukt tragfähig begründet werden muss; ve…
-2. **kaltstart-triage** — Wenn es um Kaltstart Triage in Großkanzlei Corporate/M&A geht: klärt Rolle, Ziel, Frist, Unterlagen und den passenden nä…
-3. **gk-sanierungsgewinn-private-equity-und-managementbeteiligung** — Wenn es um Sanierungsgewinn – Private Equity und Managementbeteiligung in Großkanzlei Corporate/M&A geht: prüft Frist, F…
-4. **gk-sanierungsgewinn-debt-equity-swap-und-spa-mechanik** — Wenn es um Sanierungsgewinn – Debt-Equity-Swap und SPA-Mechanik in Großkanzlei Corporate/M&A geht: prüft Frist, Form, Zu…
-5. **gk-sanierungsgewinn-bmf-ankoppelung-und-strategie** — Wenn es um Sanierungsgewinn – BMF-Ankoppelung und Strategie in Großkanzlei Corporate/M&A geht: prüft Frist, Form, Zustän…
-6. **sanierungsgewinn-bmf-ankoppelung-strategie** — Wenn es um Sanierungsgewinn – BMF-Ankoppelung und Strategie in Großkanzlei Corporate/M&A geht: prüft Frist, Form, Zustän…
-7. **sanierungsgewinn-private-equity** — Wenn es um Sanierungsgewinn – Private Equity und Managementbeteiligung in Großkanzlei Corporate/M&A geht: prüft Frist, F…
-8. **sanierungsgewinn-debt-equity-swap-spa** — Wenn es um Sanierungsgewinn – Debt-Equity-Swap und SPA-Mechanik in Großkanzlei Corporate/M&A geht: prüft Frist, Form, Zu…
+2. **kaltstart-triage** — Für Kaltstart Triage: routet Rolle, Frist, Unterlagen und Fachschritt; Ergebnis: Prüfprodukt mit Risiko und nächstem Sch…
+3. **client-update-pack** — Verdichtet einen laufenden Unternehmenskauf für Mandant und Deal-Team zu einem entscheidungsfähigen Statusbericht: Meile…
+4. **gk-sanierungsgewinn-private-equity-und-managementbeteiligung** — Für Sanierungsgewinn – Private Equity und Managementbeteiligung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Pr…
+5. **gk-sanierungsgewinn-debt-equity-swap-und-spa-mechanik** — Für Sanierungsgewinn – Debt-Equity-Swap und SPA-Mechanik: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodu…
+6. **sanierungsgewinn-private-equity** — Für Sanierungsgewinn – Private Equity und Managementbeteiligung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Pr…
+7. **gk-sanierungsgewinn-bmf-ankoppelung-und-strategie** — Für Sanierungsgewinn – BMF-Ankoppelung und Strategie: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Verhandlungs-…
+8. **sanierungsgewinn-debt-equity-swap-spa** — Für Sanierungsgewinn – Debt-Equity-Swap und SPA-Mechanik: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodu…
 
 ---
 
@@ -136,7 +136,7 @@ Ausgangspunkt für dieses Plugin: Anspruchsteller für Pflichtverletzung, Schade
 
 ## Skill: `kaltstart-triage`
 
-_Wenn es um Kaltstart Triage in Großkanzlei Corporate/M&A geht: klärt Rolle, Ziel, Frist, Unterlagen und den passenden nächsten Fachskill; liefert eine Fristen- und Risikoampel mit Sofortschritten._
+_Für Kaltstart Triage: routet Rolle, Frist, Unterlagen und Fachschritt; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt. Fachgebiet: Großkanzlei Corporate/M&A._
 
 ## Direktstart: lesen, entscheiden, liefern
 
@@ -406,9 +406,81 @@ Das Plugin integriert auch Querschnittsthemen der Kanzleipraxis: Billing Narrati
 
 ---
 
+## Skill: `client-update-pack`
+
+_Verdichtet einen laufenden Unternehmenskauf für Mandant und Deal-Team zu einem entscheidungsfähigen Statusbericht: Meilensteine, offene Punkte, Wertwirkung, Verhandlungsposition, Freigaben, Verantwortliche und nächste Schritte werden aus den Arbeitssträngen konsistent zusammengeführt._
+
+# Client Update Pack
+
+## 1. Direktstart
+
+Lies zuerst Issues List, Due-Diligence-Berichte, Verhandlungsstände, Kaufpreismodell, Freigaben, Signing- und Closing-Checklisten sowie den letzten Mandantenbericht. Liefere sofort einen aktualisierten Entscheidungsstand; frage nur nach Informationen, die Priorität, Preis, Haftung, Vollzug oder Terminplan verändern.
+
+## 2. Berichtsraster
+
+| Abschnitt | Pflichtinhalt |
+| --- | --- |
+| Executive Summary | Dealphase, Ziel, drei Entscheidungen, drei Hauptrisiken und Terminlage |
+| Economics | Kaufpreisbrücke, Leakage, Net Debt, Working Capital, Escrow und Wertwirkung offener Punkte |
+| Dokumentation | Stand von SPA, Gesellschaftervereinbarung, Finanzierungs- und Nebenverträgen mit letzter Änderung |
+| Due Diligence | rote und gelbe Befunde, Datenraumfund, Nachforderung und Abbildung in Preis, Garantie, Freistellung oder Covenant |
+| Regulatory und Gremien | Kartell-, Investitions- und Sanktionsprüfung, Organbeschlüsse, Mitbestimmung und Registervollzug nur soweit einschlägig |
+| Signing und Closing | Conditions Precedent, Consents, Deliverables, Owner, Fälligkeit, Nachweis und Eskalation |
+
+## 3. Arbeitsregeln
+
+1. Trenne bestätigte Tatsache, Annahme, offene Frage und Verhandlungsposition sichtbar.
+2. Übernimm keinen Status aus dem Vorbericht, ohne ihn gegen die aktuelle Issues List oder das aktuelle Dokument zu prüfen.
+3. Beziffere Wertwirkungen oder kennzeichne nachvollziehbar, warum eine Bezifferung noch nicht möglich ist.
+4. Benenne für jeden offenen Punkt einen verantwortlichen Bearbeiter, eine Gegenstelle, eine Frist und das erwartete Belegdokument.
+5. Stelle Widersprüche zwischen Due Diligence, Vertragsentwurf, Kaufpreismodell und Closing-Checkliste gesondert heraus.
+6. Verwende Normen nur dort, wo sie eine Entscheidung oder Vollzugshandlung steuern, etwa Paragrafen 15, 16, 40, 43 und 46 GmbHG, Paragrafen 76, 93 und 111 AktG sowie einschlägige Regeln aus GWB, AWG, AWV und UmwG.
+
+## 4. Ausgabe
+
+Liefere zwei Fassungen aus demselben Datenstand: eine höchstens zweiseitige Mandantenfassung mit klaren Entscheidungen und eine ausführliche Deal-Team-Fassung mit Fundstellen, Ownern und Abhängigkeiten. Schließe mit der Reihenfolge der nächsten fünf Handlungen und einem ausdrücklichen Hinweis auf jede Termin- oder Freigabekollision.
+
+## Intake
+Frage nicht breit, sondern dealpraktisch. Wenn Material schon vorliegt, extrahiere die Antworten selbst und markiere nur echte Luecken.
+
+| Feld | Worum es geht |
+| --- | --- |
+| Deal-Perspektive | Buy-side, Sell-side, Target, Vorstand/Geschäftsführung, Bank, Investor, W&I-Versicherer oder Local Counsel. |
+| Phase | Screening, NDA, Term Sheet, Datenraum, DD, SPA/APA, Signing, Closing, PMI, Streit oder Post-Mortem. |
+| Material | Workstream-Status, neue Findings, Deadlines, offene Entscheidungen, Tonalitaet, Adressat. |
+| Frist | Signing, Closing, Q&A, Filing, Board, Beurkundung, Angebotsfrist, CP-Deadline oder keine Eile erkennbar. |
+| Ziel-Output | Mandantenmail, Weekly Deck Outline, Ampelstatus, Entscheidungsliste und Unterlagenanforderung. |
+
+## Padlet- und Tabellen-Ausgabe
+Biete bei komplexen Aufgaben eine visuelle Arbeitsflaeche an:
+
+| Karte/Spalte | Inhalt | Status | Owner | Quelle | Naechster Schritt |
+| --- | --- | --- | --- | --- | --- |
+| Issue | Konkretes Thema oder Dokument | offen / in Prüfung / entschieden | Person oder Workstream | Datenraum, Register, Vertrag, Call | konkrete Aktion |
+
+Für Tabellen nie nur Ueberschriften liefern. Jede Zeile braucht mindestens: Befund, rechtliche Bedeutung, wirtschaftliche Bedeutung, Evidenz, Risikoampel und Follow-up.
+
+## Standard-Deliverables
+- Kurzbild für Partner oder Mandant.
+- Workstream-Tabelle mit Ampel und Owner.
+- Issue-/Risk-Liste mit Priorisierung.
+- Entwurf oder Textbausteine, soweit der Input reicht.
+- Offene Punkte mit genauem Nachforderungswortlaut.
+
+## Quality Gate
+Vor Ausgabe immer prüfen:
+
+- Ist die Partei-Perspektive klar?
+- Sind alle Fristen und Vollzugsrisiken markiert?
+- Sind Annahmen von gesicherten Tatsachen getrennt?
+- Gibt es mindestens einen konkreten naechsten Schritt?
+- Sind Tabellen, Klauseln oder Memos so formatiert, dass ein Deal-Team sofort weiterarbeiten kann?
+
+---
+
 ## Skill: `gk-sanierungsgewinn-private-equity-und-managementbeteiligung`
 
-_Wenn es um Sanierungsgewinn – Private Equity und Managementbeteiligung in Großkanzlei Corporate/M&A geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. Auswahlstichwort: Gk Sanierungsgewinn Private Equity Und Managementbeteiligung; Arbeitsfeld: Großkanzlei Corporate/M&A._
+_Für Sanierungsgewinn – Private Equity und Managementbeteiligung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt. Fachgebiet: Großkanzlei Corporate/M&A. Route: gk-sanierungsgewinn-private-equity-und-managementbeteiligung._
 
 # Sanierungsgewinn – Private Equity und Managementbeteiligung
 
@@ -554,7 +626,7 @@ Dieser Skill arbeitet nicht passiv. Er fuehrt den Nutzer freundlich durch Corpor
 
 ## Skill: `gk-sanierungsgewinn-debt-equity-swap-und-spa-mechanik`
 
-_Wenn es um Sanierungsgewinn – Debt-Equity-Swap und SPA-Mechanik in Großkanzlei Corporate/M&A geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. Auswahlstichwort: Gk Sanierungsgewinn Debt Equity Swap Und Spa Mechanik; Arbeitsfeld: Großkanzlei Corporate/M&A._
+_Für Sanierungsgewinn – Debt-Equity-Swap und SPA-Mechanik: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt. Fachgebiet: Großkanzlei Corporate/M&A. Route: gk-sanierungsgewinn-debt-equity-swap-und-spa-mechanik._
 
 # Sanierungsgewinn – Debt-Equity-Swap und SPA-Mechanik
 
@@ -677,9 +749,139 @@ Dieser Skill arbeitet nicht passiv. Er fuehrt den Nutzer freundlich durch Corpor
 
 ---
 
+## Skill: `sanierungsgewinn-private-equity`
+
+_Für Sanierungsgewinn – Private Equity und Managementbeteiligung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt. Fachgebiet: Großkanzlei Corporate/M&A. Route: sanierungsgewinn-private-equity._
+
+# Sanierungsgewinn – Private Equity und Managementbeteiligung
+
+## Fachlicher Anker
+
+- **Normenradar:** Paragraf 15, 16, 40, 43, 46 GmbHG; Paragraf 76, 93, 111 AktG; HGB-, UmwG-, GWB- und AWV-Bezug nur, wenn der konkrete Vorgang ihn trägt.
+- **Quellenhygiene:** `references/quellenhygiene.md` und `references/zitierweise.md` beachten.
+
+## Fachkern: Sanierungsgewinn – Private Equity und Managementbeteiligung
+- **Prüfachse:** Ordne den konkreten Auftrag nach Gesellschaftsform, Dokument, Entscheidungsträger, Form, Frist, Beleg und Rechtsfolge; Spezialnormen nur nennen, wenn sie den Fall tragen.
+- **Entscheidende Weiche:** Trenne Sachverhalt, Zuständigkeit, Zustimmung, Haftung, Vollzug und taktischen nächsten Schritt.
+- **Arbeitsprodukt:** Liefere eine verwertbare Matrix mit `Tatsache / Norm / Beleg / Wertung / Gegenargument / nächster Schritt` und bei Bedarf einen ausformulierten Textbaustein.
+
+## Worum geht es
+
+PE-Fonds treten in Sanierungssituationen in mehreren Rollen auf: als Distressed-Investor mit Loan-to-Own-Strategie, als Sponsor eines bestehenden Portfolio-Unternehmens in der Krise, als Exit-Käufer eines sanierten Targets oder als Co-Investor in einer DES-Struktur. In jeder dieser Rollen sind drei Themen kritisch: die Tax-Wirkungen für die Holding-Struktur des Fonds, die Verlustvortragssituation im Target und die korrekte Strukturierung des Management Equity Plan (MEP), in dem die Geschäftsführung des Targets nachträglich einsteigt.
+
+Bearbeite diese Aspekte für das PE-Team.
+
+## Wann dieses Modul hilft
+
+- PE-Fonds erwirbt Distressed-Target mit Sanierungsplan.
+- Bestehendes Portfolio-Unternehmen geht in Sanierung; Sponsor will Equity erhalten.
+- Sanierungs-Exit eines PE-Fonds an strategischen Investor.
+- Management-Beteiligungsprogramm wird im Zuge der Sanierung neu aufgesetzt.
+
+Nicht dieser Skill ist primär, wenn der PE-Investor außerhalb einer Sanierung agiert; dann gelten die normalen PE-Standards.
+
+## Rechtlicher Rahmen
+
+- **Paragraf 3a EStG** – Sanierungsertrag.
+- **Paragraf 3a Abs. 3 EStG** – Verrechnungsreihenfolge.
+- **Paragraf 7b GewStG** – Gewerbesteuer.
+- **Paragraf 8c KStG / Paragraf 8d KStG** – Verlustvortrag bei Anteilseignerwechsel.
+- **Paragraf 17 EStG** – Beteiligungsveräußerung im Privatvermögen.
+- **Paragraf 19 EStG** – Arbeitslohn (relevant bei Manager-Beteiligungen mit Vergünstigung).
+- **Paragraf 8b KStG** – Beteiligungsergebnis bei Kapitalgesellschaften.
+- **BFH-Rspr. zur Managementbeteiligung** – Abgrenzung Veräußerungsgewinn vs. Arbeitslohn (ständige Rspr.).
+- **Paragraf 327a ff. AktG** – Squeeze-Out (relevant bei Sanierung börsennotierter Target).
+- **Paragraf 1 InvStG** – Investmentsteuerrecht (relevant bei PE-Fondsstrukturierung).
+
+## / Schritt für Schritt
+
+**Phase 1 – Fondsstruktur prüfen:**
+
+1. Welche PE-Fondsstruktur? Klassisches Fund-Limited-Partnership, German-Reg-Strukturen, Luxemburg-SCS-SCSp, US-LP?
+2. Welche Holdingebene investiert? Akquisitionsvehikel in welcher Jurisdiktion?
+3. Welches Steuerregime: Paragraf 8b KStG-Abschirmung, Investmentsteuergesetz?
+
+**Phase 2 – Erwerbsstruktur Distressed:**
+
+4. Asset Deal oder Share Deal? Vergleiche `gk-sanierungsgewinn-im-asset-deal-vs-share-deal`.
+5. Direkt-Erwerb oder Loan-to-Own (Erwerb Distressed-Debt mit anschließendem DES)?
+6. Paragraf 8c KStG-Wirkung auf Target-Verlustvorträge.
+7. Paragraf 8d KStG-Antrag durch das Target nach Erwerb.
+
+**Phase 3 – Sanierungstaktik:**
+
+8. Erfolgt die Sanierung vor, mit oder nach dem PE-Erwerb?
+9. Wer trägt das Tax-Risiko aus Paragraf 3a EStG?
+10. Vergleiche Tax Step Plan: `gk-sanierungsgewinn-tax-step-plan-restrukturierung`.
+
+**Phase 4 – Management Equity Plan:**
+
+11. Beteiligungsform: Anteile, Anwartschaften, virtuelle Beteiligungen?
+12. Erwerbsmodalität: zum Marktwert (= keine Arbeitslohnkomponente) oder vergünstigt (= Arbeitslohn-Risiko)?
+13. Sweet-Equity-Mechanik: Vorzugsrendite des Investors, danach Manager-Disproportionalität.
+14. Leaver-Klauseln: Good-Leaver, Bad-Leaver.
+15. Steuerliche Behandlung beim Exit: Paragraf 17 EStG vs. Paragraf 19 EStG (Arbeitslohn).
+
+**Phase 5 – Exit-Planung:**
+
+16. Sanierungs-Exit mit verbleibenden Verlustvorträgen verkaufen?
+17. Paragraf 8c KStG-Effekt beim Erwerber.
+18. Tax-Indemnity-Verhandlung im SPA.
+
+## Trade-off-Matrix
+
+| PE-Frage | Loan-to-Own | Klassischer Distressed-Erwerb | MEP-Aufbau |
+|---|---|---|---|
+| Steuerwirkung auf Target | DES = Paragraf 3a EStG | Anteilserwerb = Paragraf 8c KStG | Steuerfreier MEP-Einstieg im Idealfall |
+| Verlustvortrag-Risiko | hoch | hoch | gering |
+| Strukturierungsaufwand | hoch | mittel | hoch |
+| Closing-Zeitschiene | lang | mittel | parallel zu PE-Closing |
+| Werthaltigkeitsprüfung | erforderlich | nein | Sweet-Equity bei Marktwert |
+
+## Praxistipps der alten Hasen
+
+Drei Beobachtungen aus dem Distressed-PE:
+
+- **„Loan-to-Own ist die elegante Strategie, aber operationell anspruchsvoll."** Der Erwerb von Distressed-Debt mit dem Ziel des späteren Debt-Equity-Swaps ist steuerlich auf Investorenseite vorteilhaft (Anschaffungskosten = Debt-Preis), führt aber zu komplexer Werthaltigkeitsprüfung und Paragraf 8c KStG-Wirkung beim Target. Die Strategie funktioniert nur mit klar definiertem Sanierungsfahrplan.
+- **„Management-Beteiligung im Sanierungsumfeld ist Sondergebiet."** Der Übergang von Insolvenzplan-Manager-Beteiligung zur regulären MEP-Struktur erfordert Sorgfalt: zu vergünstigte Beteiligung wird vom Finanzamt als Arbeitslohn nach Paragraf 19 EStG behandelt; spätere Veräußerung dann nach Paragraf 17 EStG mit Werteinbringung der Arbeitslohnkomponente.
+- **„Sanierungs-Exit ist ein eigener Verhandlungsmodus."** Der Exit-Käufer übernimmt die Tax-Position des Targets, einschließlich der Risiken aus Paragraf 3a EStG. Die Tax-Indemnity ist daher zentraler Verhandlungspunkt; die W&I-Versicherung schließt Sanierungsgewinn-Risiken im Standardmodell aus.
+
+## SPA-/Plan-Klausel Mustertexte
+
+**MEP-Erwerbsklausel zu Marktwert:**
+
+> Manager-Beteiligung: Der Manager verpflichtet sich, [Anzahl] Geschäftsanteile zum Kaufpreis von [Betrag] je Anteil zu erwerben. Der Kaufpreis entspricht dem Marktwert der Anteile zum Stichtag, festgestellt auf Grundlage des Bewertungsgutachtens vom [Datum]. Eine Vergünstigung gegenüber einem fremden Dritten wird nicht gewährt; eine arbeitslohnähnliche Komponente nach Paragraf 19 EStG ist nicht enthalten.
+
+**Sweet-Equity-Mechanik mit Hurdle:**
+
+> Sweet Equity: Die Ausschüttungspräferenz des PE-Investors beträgt [Prozent] auf den investierten Kapitalbetrag (Hurdle). Erst nach Erreichen der Hurdle nimmt der Manager überproportional am Übererlös teil. Diese Strukturierung gewährt dem Manager ein wirtschaftliches Übergewicht im Erfolgsfall, ohne dass eine arbeitslohnähnliche Vergünstigung zum Erwerbszeitpunkt vorliegt.
+
+**PE-Tax-Indemnity (Auszug):**
+
+> PE-Tax-Indemnity Sanierungsgewinn: Der Verkäufer (PE-Holding) stellt den Käufer frei von steuerlichen Mehrbelastungen, die der Zielgesellschaft daraus entstehen, dass (i) die Anwendung des Paragraf 3a EStG auf den im Rahmen der Sanierungsmaßnahme entstandenen Ertrag ganz oder teilweise versagt wird oder (ii) der nach Paragraf 8d KStG fortgeführte Verlustvortrag der Zielgesellschaft aufgrund von Ereignissen, die vor dem Stichtag eingetreten sind, ganz oder teilweise wegfällt.
+
+## Typische Fehler in komplexer Transaktion
+
+- Manager-Beteiligung zu Vergünstigungspreis; Paragraf 19 EStG-Risiko unterschätzt.
+- Paragraf 8c KStG-Effekt beim PE-Erwerb übersehen; Verlustvortrag weg.
+- Paragraf 8d KStG-Antrag wird gestellt, aber die Fortführungsbindung wird durch nachträgliche Add-on-Akquisitionen gebrochen.
+- Loan-to-Own ohne Werthaltigkeitsgutachten; Differenzhaftung.
+- Sanierungs-Exit ohne Tax-Indemnity oder mit zu niedrigem Tax-Cap.
+- W&I-Versicherer schließt Sanierungsgewinn-Risiken aus; Lücke wird nicht vertraglich überbrückt.
+
+## Quellen Stand 06/2026
+
+- Paragraf 3a EStG; Paragraf 3a Abs. 3 EStG; Paragraf 7b GewStG; Paragraf 8c KStG; Paragraf 8d KStG; Paragraf 8b KStG; Paragraf 17 EStG; Paragraf 19 EStG – gesetze-im-internet.de.
+- Paragraf 327a ff. AktG; Paragraf 1 InvStG – gesetze-im-internet.de.
+- BMF-Schreiben vom 27.04.2017 – Bundessteuerblatt Stand 06/2026.
+- BFH zur Managementbeteiligung (Abgrenzung Paragraf 17 / Paragraf 19 EStG) – ständige Rspr.; bundesfinanzhof.de.
+- FG Köln, Urteil vom 04.11.2025 - 12 K 1413/25: Eine Steuerbefreiung nach Paragraf 3a EStG setzt den Nachweis von Sanierungsbedürftigkeit, Sanierungsfähigkeit, Sanierungseignung, Sanierungsabsicht und betrieblicher Veranlassung des Schuldenerlasses voraus; die Eignung ist aus Sicht des Erlasszeitpunkts zu beurteilen.
+
+---
+
 ## Skill: `gk-sanierungsgewinn-bmf-ankoppelung-und-strategie`
 
-_Wenn es um Sanierungsgewinn – BMF-Ankoppelung und Strategie in Großkanzlei Corporate/M&A geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. Auswahlstichwort: Gk Sanierungsgewinn Bmf Ankoppelung Und Strategie; Arbeitsfeld: Großkanzlei Corporate/M&A._
+_Für Sanierungsgewinn – BMF-Ankoppelung und Strategie: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Verhandlungs- oder Eskalationslinie. Fachgebiet: Großkanzlei Corporate/M&A. Route: gk-sanierungsgewinn-bmf-ankoppelung-und-strategie._
 
 # Sanierungsgewinn – BMF-Ankoppelung und Strategie
 
@@ -818,266 +1020,9 @@ Dieser Skill arbeitet nicht passiv. Er fuehrt den Nutzer freundlich durch Corpor
 
 ---
 
-## Skill: `sanierungsgewinn-bmf-ankoppelung-strategie`
-
-_Wenn es um Sanierungsgewinn – BMF-Ankoppelung und Strategie in Großkanzlei Corporate/M&A geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. Auswahlstichwort: Sanierungsgewinn Bmf Ankoppelung Strategie; Arbeitsfeld: Großkanzlei Corporate/M&A._
-
-# Sanierungsgewinn – BMF-Ankoppelung und Strategie
-
-## Fachlicher Anker
-
-- **Normenradar:** Paragraf 15, 16, 40, 43, 46 GmbHG; Paragraf 76, 93, 111 AktG; HGB-, UmwG-, GWB- und AWV-Bezug nur, wenn der konkrete Vorgang ihn trägt.
-- **Quellenhygiene:** `references/quellenhygiene.md` und `references/zitierweise.md` beachten.
-
-## Fachkern: Sanierungsgewinn – BMF-Ankoppelung und Strategie
-- **Prüfachse:** Ordne den konkreten Auftrag nach Gesellschaftsform, Dokument, Entscheidungsträger, Form, Frist, Beleg und Rechtsfolge; Spezialnormen nur nennen, wenn sie den Fall tragen.
-- **Entscheidende Weiche:** Trenne Sachverhalt, Zuständigkeit, Zustimmung, Haftung, Vollzug und taktischen nächsten Schritt.
-- **Arbeitsprodukt:** Liefere eine verwertbare Matrix mit `Tatsache / Norm / Beleg / Wertung / Gegenargument / nächster Schritt` und bei Bedarf einen ausformulierten Textbaustein.
-
-## Worum geht es
-
-Die Sanierungsgewinn-Vorschriften des Paragraf 3a EStG und Paragraf 7b GewStG sind nicht selbsterklärend. Ihre Anwendung hängt in der Praxis von **BMF-Schreiben** und **OFD-Verlautbarungen** ab, die die Voraussetzungen konkretisieren. Wer ohne Ankoppelung an die Verwaltungsauffassung in den Antrag geht, riskiert Versagung der Steuerbefreiung. Wer an die Verwaltungsauffassung anknüpft, bekommt Planungssicherheit, verliert aber Argumentationsspielraum bei streitigen Fragen.
-
-Bearbeite die Strategie zur Ankoppelung an die Verwaltungsauffassung.
-
-## Wann dieses Modul hilft
-
-- Vor Antrag Paragraf 3a EStG; die Antragsdokumentation muss an die BMF-Auffassung anknüpfen.
-- Vor Antrag Paragraf 89 AO; die Antragsformulierung muss BMF-Sprache nutzen.
-- Bei Streit mit dem Finanzamt; Argumentationslinie an Verwaltungsauffassung oder gegen sie.
-- Bei Gesetzgebungsänderungen, etwa durch das Wachstumschancengesetz oder Folgegesetze.
-- Bei der Verteidigung gegen Paragraf 42 AO-Vorwürfe.
-
-Nicht dieser Skill ist primär, wenn die Verwaltungsauffassung bereits in einer verbindlichen Auskunft fixiert ist; dann gilt die Auskunft.
-
-## Rechtlicher Rahmen
-
-- **Paragraf 3a EStG** – Steuerbefreiung Sanierungsertrag.
-- **Paragraf 3a Abs. 3 EStG** – Verrechnungsreihenfolge.
-- **Paragraf 7b GewStG i. V. m. Paragraf 36 Abs. 2c GewStG** – Gewerbesteuer.
-- **Paragraf 8c KStG / Paragraf 8d KStG** – Verlustvortrag.
-- **BMF-Schreiben vom 27.04.2017** – Umsetzung des Großen-Senats-Beschlusses; Erlassweg-Sanierungserlass; bis zur gesetzlichen Regelung weiter angewendet.
-- **Folge-BMF-Schreiben** – nachfolgende Klarstellungen zu Paragraf 3a EStG; Stand jeweils im Bundessteuerblatt prüfen.
-- **Wachstumschancengesetz** – steuerliche Begleitvorschriften zu Sanierung; Stand 06/2026 prüfen.
-- **AO-Anwendungserlass** zu Paragraf 42 AO und Paragraf 89 AO.
-
-## / Schritt für Schritt
-
-**Phase 1 – Verwaltungsanweisungen aktuell halten:**
-
-1. BMF-Schreiben vom 27.04.2017 als Ausgangsdokument analysieren.
-2. Nachfolgende BMF-Schreiben prüfen; im Bundessteuerblatt nachschlagen.
-3. OFD-Verlautbarungen der relevanten Oberfinanzdirektionen (insbesondere OFD Frankfurt a. M., Nordrhein-Westfalen).
-4. Aktuelle Gesetzgebung: Wachstumschancengesetz und Folgegesetze.
-
-**Phase 2 – Mandantenspezifische Subsumtion:**
-
-5. Welche Punkte der Verwaltungsauffassung sind im Mandat anwendbar?
-6. Welche Punkte sind problematisch und sollten in der verbindlichen Auskunft besonders adressiert werden?
-7. Gibt es OFD-Verlautbarungen, die im Mandat besonders zu berücksichtigen sind? Beispielsweise zur Frage, ob ein Liquidationsbeschluss als konkludenter Forderungsverzicht zu werten ist (OFD Frankfurt a. M.).
-
-**Phase 3 – Strategie der Ankoppelung:**
-
-8. **Vollkoppelungs-Strategie:** Der Antrag folgt eng der BMF-Auffassung; maximaler Sicherheitsabstand zur Streitlinie. Empfohlen, wenn der Sachverhalt klar ist und keine Sonderfragen vorliegen.
-9. **Teilkoppelungs-Strategie:** Der Antrag folgt der BMF-Auffassung, aber bringt zu einer Sonderfrage eine eigene Rechtsauffassung. Empfohlen, wenn die BMF-Auffassung in einem Punkt nicht überzeugt.
-10. **Gegenkurs-Strategie:** Der Antrag stellt sich offen gegen die BMF-Auffassung. Empfohlen nur bei klarem höchstrichterlichen Rückenwind und in Begleitung des Steuerteams.
-
-**Phase 4 – Gesetzgebung:**
-
-11. **Wachstumschancengesetz und Folgegesetze:** Welche Änderungen wirken im konkreten Mandat? Stand jeweils prüfen.
-12. **Übergangsregelungen** beachten; Stichtagsanknüpfung.
-
-**Phase 5 – Klärung problematischer Sonderfragen:**
-
-13. **Liquidation und konkludenter Verzicht:** Nach Verlautbarung der OFD Frankfurt a. M. ist ein Liquidationsbeschluss kein konkludenter Forderungsverzicht; Verbindlichkeiten bleiben zivilrechtlich auch nach Vermögenslosigkeit erhalten. Diese Auffassung wird in BFH, Urteil vom 26.02.2003 – II R 19/01 bestätigt.
-14. **Mindestbesteuerung Paragraf 10d EStG und Paragraf 3a EStG:** Verwaltungsauffassung Stand 06/2026 prüfen.
-15. **Sanierungsabsicht naher Gläubiger:** strenge Linie der Verwaltung; eigene Dokumentationspflicht.
-
-## Trade-off-Matrix
-
-| Strategie | Risiko | Vorteil | Wann |
-|---|---|---|---|
-| Vollkoppelung BMF | Niedrig | Hohe Closing-Sicherheit | Standard |
-| Teilkoppelung | Mittel | Argumentationsspielraum | Sonderfragen |
-| Gegenkurs | Hoch | Maximale Steuerentlastung | Höchstrichterlicher Rückenwind |
-| Paragraf 89 AO ohne Mandat-Sicherheit | Sehr hoch | Schnelligkeit | Vermeiden |
-
-## Praxistipps der alten Hasen
-
-Drei Beobachtungen zur strategischen BMF-Ankoppelung:
-
-- **„Die BMF-Auffassung ist Verhandlungsmasse, nicht Gesetz."** Sie bindet die Finanzverwaltung intern, nicht die Gerichte und nicht den Steuerpflichtigen. Wer die BMF-Auffassung als Gesetzeskommentar liest, verkennt ihre Funktion. Sie ist ein Verwaltungsausführungsdokument, das im Streitfall vor dem Finanzgericht keinen Beweis hat.
-- **„OFD-Verlautbarungen sind oft präziser als BMF-Schreiben."** Die Oberfinanzdirektionen Frankfurt a. M. und Nordrhein-Westfalen veröffentlichen häufig konkretere Hinweise als das BMF. Diese sollten im Antragsverfahren mitberücksichtigt werden, weil der Sachbearbeiter im Finanzamt sich daran orientiert.
-- **„Wachstumschancengesetz und Folgegesetze laufen weiter."** Der Gesetzgeber justiert die Sanierungsgewinn-Vorschriften kontinuierlich nach. Wer im Mandat Stand 06/2026 nicht prüft, ob seit Anfragestellung Gesetzesänderungen wirksam wurden, läuft Gefahr, auf veralteter Grundlage zu beraten.
-
-## SPA-/Plan-Klausel Mustertexte
-
-**Antragstext mit Verwaltungsanknüpfung:**
-
-> Bezugnahme auf BMF-Schreiben: Die Antragstellerin nimmt für die Würdigung des hier vorgetragenen Sachverhalts Bezug auf das BMF-Schreiben vom 27.04.2017 in der Fassung Stand [Datum]. Die im BMF-Schreiben unter Tz. [X] dargestellten Anforderungen werden im vorliegenden Sachverhalt vollumfänglich erfüllt, wie nachstehend zu zeigen ist.
-
-**Plan-Klausel zur Verwaltungspraxis:**
-
-> Steuerliche Würdigung: Die Parteien gehen unter Bezugnahme auf das BMF-Schreiben vom 27.04.2017 sowie die nachfolgenden Verlautbarungen davon aus, dass der durch den Forderungsverzicht entstehende Ertrag die Voraussetzungen des Paragraf 3a EStG erfüllt. Diese Annahme wird durch die mit Antrag vom [Datum] beantragte verbindliche Auskunft gemäß Paragraf 89 AO bestätigt werden.
-
-**Mandantenmemo-Auszug zur Strategiewahl:**
-
-> Strategie BMF-Ankoppelung: Wir empfehlen, im hier vorliegenden Mandat die Voll-Koppelung an die BMF-Auffassung zu wählen. Die in Tz. [X] des BMF-Schreibens vom 27.04.2017 dargestellte Auslegung deckt den Sachverhalt der Mandantin vollumfänglich; ein Gegenkurs würde die Closing-Sicherheit erheblich gefährden und ist im hier vorliegenden Volumen wirtschaftlich nicht zu vertreten.
-
-## Typische Fehler in komplexer Transaktion
-
-- BMF-Schreiben ohne Aktualitätscheck verwendet; neuere Verlautbarungen übersehen.
-- OFD-Verlautbarungen nicht berücksichtigt; Sachbearbeiter im Finanzamt wendet eigene Linie an.
-- Wachstumschancengesetz oder Folgegesetz übersehen; Übergangsregelung nicht beachtet.
-- Liquidation als konkludenter Forderungsverzicht behauptet; OFD Frankfurt a. M. widerspricht; BFH II R 19/01 widerspricht.
-- Mindestbesteuerung-Frage einseitig im Sinne der aggressiven Auffassung behandelt; Restrisiko nicht aufgezeigt.
-- Gegenkurs-Strategie ohne Steuerteam-Rückendeckung gewählt.
-
-## Quellen Stand 06/2026
-
-- Paragraf 3a EStG; Paragraf 3a Abs. 3 EStG; Paragraf 7b GewStG; Paragraf 8c KStG; Paragraf 8d KStG; Paragraf 42 AO; Paragraf 89 AO; Paragraf 10d EStG – gesetze-im-internet.de.
-- BMF-Schreiben vom 27.04.2017 – Bundessteuerblatt Stand 06/2026; nachfolgende Verlautbarungen in der Aktualfassung prüfen.
-- OFD Frankfurt a. M., Verlautbarung zur Behandlung von Liquidation und Verzicht – Verlautbarung mit konkretem Datum und Aktenzeichen vom Anwender zu zitieren.
-- BFH, Urteil vom 26.02.2003 – II R 19/01 – prüfbar über bundesfinanzhof.de.
-- FG Köln, Urteil vom 04.11.2025 - 12 K 1413/25: Eine Steuerbefreiung nach Paragraf 3a EStG setzt den Nachweis von Sanierungsbedürftigkeit, Sanierungsfähigkeit, Sanierungseignung, Sanierungsabsicht und betrieblicher Veranlassung des Schuldenerlasses voraus; die Eignung ist aus Sicht des Erlasszeitpunkts zu beurteilen.
-- Wachstumschancengesetz und Folgegesetze – Bundesgesetzblatt, Stand 06/2026 prüfen.
-- BFH (Großer Senat), Beschluss vom 28.11.2016 – GrS 1/15 – bundesfinanzhof.de.
-
----
-
-## Skill: `sanierungsgewinn-private-equity`
-
-_Wenn es um Sanierungsgewinn – Private Equity und Managementbeteiligung in Großkanzlei Corporate/M&A geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. Auswahlstichwort: Sanierungsgewinn Private Equity; Arbeitsfeld: Großkanzlei Corporate/M&A._
-
-# Sanierungsgewinn – Private Equity und Managementbeteiligung
-
-## Fachlicher Anker
-
-- **Normenradar:** Paragraf 15, 16, 40, 43, 46 GmbHG; Paragraf 76, 93, 111 AktG; HGB-, UmwG-, GWB- und AWV-Bezug nur, wenn der konkrete Vorgang ihn trägt.
-- **Quellenhygiene:** `references/quellenhygiene.md` und `references/zitierweise.md` beachten.
-
-## Fachkern: Sanierungsgewinn – Private Equity und Managementbeteiligung
-- **Prüfachse:** Ordne den konkreten Auftrag nach Gesellschaftsform, Dokument, Entscheidungsträger, Form, Frist, Beleg und Rechtsfolge; Spezialnormen nur nennen, wenn sie den Fall tragen.
-- **Entscheidende Weiche:** Trenne Sachverhalt, Zuständigkeit, Zustimmung, Haftung, Vollzug und taktischen nächsten Schritt.
-- **Arbeitsprodukt:** Liefere eine verwertbare Matrix mit `Tatsache / Norm / Beleg / Wertung / Gegenargument / nächster Schritt` und bei Bedarf einen ausformulierten Textbaustein.
-
-## Worum geht es
-
-PE-Fonds treten in Sanierungssituationen in mehreren Rollen auf: als Distressed-Investor mit Loan-to-Own-Strategie, als Sponsor eines bestehenden Portfolio-Unternehmens in der Krise, als Exit-Käufer eines sanierten Targets oder als Co-Investor in einer DES-Struktur. In jeder dieser Rollen sind drei Themen kritisch: die Tax-Wirkungen für die Holding-Struktur des Fonds, die Verlustvortragssituation im Target und die korrekte Strukturierung des Management Equity Plan (MEP), in dem die Geschäftsführung des Targets nachträglich einsteigt.
-
-Bearbeite diese Aspekte für das PE-Team.
-
-## Wann dieses Modul hilft
-
-- PE-Fonds erwirbt Distressed-Target mit Sanierungsplan.
-- Bestehendes Portfolio-Unternehmen geht in Sanierung; Sponsor will Equity erhalten.
-- Sanierungs-Exit eines PE-Fonds an strategischen Investor.
-- Management-Beteiligungsprogramm wird im Zuge der Sanierung neu aufgesetzt.
-
-Nicht dieser Skill ist primär, wenn der PE-Investor außerhalb einer Sanierung agiert; dann gelten die normalen PE-Standards.
-
-## Rechtlicher Rahmen
-
-- **Paragraf 3a EStG** – Sanierungsertrag.
-- **Paragraf 3a Abs. 3 EStG** – Verrechnungsreihenfolge.
-- **Paragraf 7b GewStG** – Gewerbesteuer.
-- **Paragraf 8c KStG / Paragraf 8d KStG** – Verlustvortrag bei Anteilseignerwechsel.
-- **Paragraf 17 EStG** – Beteiligungsveräußerung im Privatvermögen.
-- **Paragraf 19 EStG** – Arbeitslohn (relevant bei Manager-Beteiligungen mit Vergünstigung).
-- **Paragraf 8b KStG** – Beteiligungsergebnis bei Kapitalgesellschaften.
-- **BFH-Rspr. zur Managementbeteiligung** – Abgrenzung Veräußerungsgewinn vs. Arbeitslohn (ständige Rspr.).
-- **Paragraf 327a ff. AktG** – Squeeze-Out (relevant bei Sanierung börsennotierter Target).
-- **Paragraf 1 InvStG** – Investmentsteuerrecht (relevant bei PE-Fondsstrukturierung).
-
-## / Schritt für Schritt
-
-**Phase 1 – Fondsstruktur prüfen:**
-
-1. Welche PE-Fondsstruktur? Klassisches Fund-Limited-Partnership, German-Reg-Strukturen, Luxemburg-SCS-SCSp, US-LP?
-2. Welche Holdingebene investiert? Akquisitionsvehikel in welcher Jurisdiktion?
-3. Welches Steuerregime: Paragraf 8b KStG-Abschirmung, Investmentsteuergesetz?
-
-**Phase 2 – Erwerbsstruktur Distressed:**
-
-4. Asset Deal oder Share Deal? Vergleiche `gk-sanierungsgewinn-im-asset-deal-vs-share-deal`.
-5. Direkt-Erwerb oder Loan-to-Own (Erwerb Distressed-Debt mit anschließendem DES)?
-6. Paragraf 8c KStG-Wirkung auf Target-Verlustvorträge.
-7. Paragraf 8d KStG-Antrag durch das Target nach Erwerb.
-
-**Phase 3 – Sanierungstaktik:**
-
-8. Erfolgt die Sanierung vor, mit oder nach dem PE-Erwerb?
-9. Wer trägt das Tax-Risiko aus Paragraf 3a EStG?
-10. Vergleiche Tax Step Plan: `gk-sanierungsgewinn-tax-step-plan-restrukturierung`.
-
-**Phase 4 – Management Equity Plan:**
-
-11. Beteiligungsform: Anteile, Anwartschaften, virtuelle Beteiligungen?
-12. Erwerbsmodalität: zum Marktwert (= keine Arbeitslohnkomponente) oder vergünstigt (= Arbeitslohn-Risiko)?
-13. Sweet-Equity-Mechanik: Vorzugsrendite des Investors, danach Manager-Disproportionalität.
-14. Leaver-Klauseln: Good-Leaver, Bad-Leaver.
-15. Steuerliche Behandlung beim Exit: Paragraf 17 EStG vs. Paragraf 19 EStG (Arbeitslohn).
-
-**Phase 5 – Exit-Planung:**
-
-16. Sanierungs-Exit mit verbleibenden Verlustvorträgen verkaufen?
-17. Paragraf 8c KStG-Effekt beim Erwerber.
-18. Tax-Indemnity-Verhandlung im SPA.
-
-## Trade-off-Matrix
-
-| PE-Frage | Loan-to-Own | Klassischer Distressed-Erwerb | MEP-Aufbau |
-|---|---|---|---|
-| Steuerwirkung auf Target | DES = Paragraf 3a EStG | Anteilserwerb = Paragraf 8c KStG | Steuerfreier MEP-Einstieg im Idealfall |
-| Verlustvortrag-Risiko | hoch | hoch | gering |
-| Strukturierungsaufwand | hoch | mittel | hoch |
-| Closing-Zeitschiene | lang | mittel | parallel zu PE-Closing |
-| Werthaltigkeitsprüfung | erforderlich | nein | Sweet-Equity bei Marktwert |
-
-## Praxistipps der alten Hasen
-
-Drei Beobachtungen aus dem Distressed-PE:
-
-- **„Loan-to-Own ist die elegante Strategie, aber operationell anspruchsvoll."** Der Erwerb von Distressed-Debt mit dem Ziel des späteren Debt-Equity-Swaps ist steuerlich auf Investorenseite vorteilhaft (Anschaffungskosten = Debt-Preis), führt aber zu komplexer Werthaltigkeitsprüfung und Paragraf 8c KStG-Wirkung beim Target. Die Strategie funktioniert nur mit klar definiertem Sanierungsfahrplan.
-- **„Management-Beteiligung im Sanierungsumfeld ist Sondergebiet."** Der Übergang von Insolvenzplan-Manager-Beteiligung zur regulären MEP-Struktur erfordert Sorgfalt: zu vergünstigte Beteiligung wird vom Finanzamt als Arbeitslohn nach Paragraf 19 EStG behandelt; spätere Veräußerung dann nach Paragraf 17 EStG mit Werteinbringung der Arbeitslohnkomponente.
-- **„Sanierungs-Exit ist ein eigener Verhandlungsmodus."** Der Exit-Käufer übernimmt die Tax-Position des Targets, einschließlich der Risiken aus Paragraf 3a EStG. Die Tax-Indemnity ist daher zentraler Verhandlungspunkt; die W&I-Versicherung schließt Sanierungsgewinn-Risiken im Standardmodell aus.
-
-## SPA-/Plan-Klausel Mustertexte
-
-**MEP-Erwerbsklausel zu Marktwert:**
-
-> Manager-Beteiligung: Der Manager verpflichtet sich, [Anzahl] Geschäftsanteile zum Kaufpreis von [Betrag] je Anteil zu erwerben. Der Kaufpreis entspricht dem Marktwert der Anteile zum Stichtag, festgestellt auf Grundlage des Bewertungsgutachtens vom [Datum]. Eine Vergünstigung gegenüber einem fremden Dritten wird nicht gewährt; eine arbeitslohnähnliche Komponente nach Paragraf 19 EStG ist nicht enthalten.
-
-**Sweet-Equity-Mechanik mit Hurdle:**
-
-> Sweet Equity: Die Ausschüttungspräferenz des PE-Investors beträgt [Prozent] auf den investierten Kapitalbetrag (Hurdle). Erst nach Erreichen der Hurdle nimmt der Manager überproportional am Übererlös teil. Diese Strukturierung gewährt dem Manager ein wirtschaftliches Übergewicht im Erfolgsfall, ohne dass eine arbeitslohnähnliche Vergünstigung zum Erwerbszeitpunkt vorliegt.
-
-**PE-Tax-Indemnity (Auszug):**
-
-> PE-Tax-Indemnity Sanierungsgewinn: Der Verkäufer (PE-Holding) stellt den Käufer frei von steuerlichen Mehrbelastungen, die der Zielgesellschaft daraus entstehen, dass (i) die Anwendung des Paragraf 3a EStG auf den im Rahmen der Sanierungsmaßnahme entstandenen Ertrag ganz oder teilweise versagt wird oder (ii) der nach Paragraf 8d KStG fortgeführte Verlustvortrag der Zielgesellschaft aufgrund von Ereignissen, die vor dem Stichtag eingetreten sind, ganz oder teilweise wegfällt.
-
-## Typische Fehler in komplexer Transaktion
-
-- Manager-Beteiligung zu Vergünstigungspreis; Paragraf 19 EStG-Risiko unterschätzt.
-- Paragraf 8c KStG-Effekt beim PE-Erwerb übersehen; Verlustvortrag weg.
-- Paragraf 8d KStG-Antrag wird gestellt, aber die Fortführungsbindung wird durch nachträgliche Add-on-Akquisitionen gebrochen.
-- Loan-to-Own ohne Werthaltigkeitsgutachten; Differenzhaftung.
-- Sanierungs-Exit ohne Tax-Indemnity oder mit zu niedrigem Tax-Cap.
-- W&I-Versicherer schließt Sanierungsgewinn-Risiken aus; Lücke wird nicht vertraglich überbrückt.
-
-## Quellen Stand 06/2026
-
-- Paragraf 3a EStG; Paragraf 3a Abs. 3 EStG; Paragraf 7b GewStG; Paragraf 8c KStG; Paragraf 8d KStG; Paragraf 8b KStG; Paragraf 17 EStG; Paragraf 19 EStG – gesetze-im-internet.de.
-- Paragraf 327a ff. AktG; Paragraf 1 InvStG – gesetze-im-internet.de.
-- BMF-Schreiben vom 27.04.2017 – Bundessteuerblatt Stand 06/2026.
-- BFH zur Managementbeteiligung (Abgrenzung Paragraf 17 / Paragraf 19 EStG) – ständige Rspr.; bundesfinanzhof.de.
-- FG Köln, Urteil vom 04.11.2025 - 12 K 1413/25: Eine Steuerbefreiung nach Paragraf 3a EStG setzt den Nachweis von Sanierungsbedürftigkeit, Sanierungsfähigkeit, Sanierungseignung, Sanierungsabsicht und betrieblicher Veranlassung des Schuldenerlasses voraus; die Eignung ist aus Sicht des Erlasszeitpunkts zu beurteilen.
-
----
-
 ## Skill: `sanierungsgewinn-debt-equity-swap-spa`
 
-_Wenn es um Sanierungsgewinn – Debt-Equity-Swap und SPA-Mechanik in Großkanzlei Corporate/M&A geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. Auswahlstichwort: Sanierungsgewinn Debt Equity Swap Spa; Arbeitsfeld: Großkanzlei Corporate/M&A._
+_Für Sanierungsgewinn – Debt-Equity-Swap und SPA-Mechanik: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt. Fachgebiet: Großkanzlei Corporate/M&A. Route: sanierungsgewinn-debt-equity-swap-spa._
 
 # Sanierungsgewinn – Debt-Equity-Swap und SPA-Mechanik
 

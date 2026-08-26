@@ -1,6 +1,6 @@
 ---
 name: energie-versorgungssicherheit-monitoring
-description: "Wenn es um Energie: Versorgungssicherheit Monitoring in Bundesnetzagentur-Verfahren geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
+description: "Für Energie: Versorgungssicherheit Monitoring: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Energie: Versorgungssicherheit Monitoring

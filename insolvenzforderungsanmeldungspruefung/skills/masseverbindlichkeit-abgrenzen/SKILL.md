@@ -1,6 +1,6 @@
 ---
 name: masseverbindlichkeit-abgrenzen
-description: "Wenn es um Masseverbindlichkeit abgrenzen in Insolvenzforderungsanmeldungsprüfung geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Masseverbindlichkeit abgrenzen: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Masseverbindlichkeit abgrenzen

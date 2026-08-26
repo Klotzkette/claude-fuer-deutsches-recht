@@ -1,6 +1,6 @@
 ---
 name: zivilprozess-warnwoerter
-description: "Wenn es um Zivilprozess Warnwoerter in Juristische Sprache Deutsch als Zweitsprache geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Zivilprozess Warnwörter: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Zivilprozess Warnwoerter

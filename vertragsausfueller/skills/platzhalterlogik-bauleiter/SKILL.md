@@ -1,6 +1,6 @@
 ---
 name: platzhalterlogik-bauleiter
-description: "Wenn es um VAF: Platzhalterlogik Bauleiter in Vertragsausfüller geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für VAF: Platzhalterlogik Bauleiter: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # VAF: Platzhalterlogik Bauleiter

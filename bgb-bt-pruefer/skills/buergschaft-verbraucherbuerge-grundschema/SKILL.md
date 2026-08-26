@@ -1,6 +1,6 @@
 ---
 name: buergschaft-verbraucherbuerge-grundschema
-description: "Wenn es um Bürgschaft: Form und Verbraucherbürge in BGB BT Prüfer geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. Auswahlstichwort: Buergschaft Verbraucherbuerge Grundschema; Arbeitsfeld: BGB BT Prüfer."
+description: "Für Bürgschaft: Form und Verbraucherbürge: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt. Fachgebiet: BGB BT Prüfer. Route: buergschaft-verbraucherbuerge-grundschema."
 ---
 
 # Bürgschaft: Form und Verbraucherbürge

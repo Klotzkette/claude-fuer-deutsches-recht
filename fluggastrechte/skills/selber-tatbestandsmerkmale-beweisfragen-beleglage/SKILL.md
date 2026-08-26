@@ -1,6 +1,6 @@
 ---
 name: selber-tatbestandsmerkmale-beweisfragen-beleglage
-description: "Wenn es um Selber: Tatbestandsmerkmale, Beweisfragen und Beleglage in Fluggastrechte geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Selber: Tatbestandsmerkmale, Beweisfragen und Beleglage: ordnet Akte, Belege und Lücken; Ergebnis: Beweislast- und Substantiierungsmatrix."
 ---
 
 # Selber: Tatbestandsmerkmale, Beweisfragen und Beleglage

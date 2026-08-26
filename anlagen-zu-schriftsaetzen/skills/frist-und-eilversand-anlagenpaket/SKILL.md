@@ -1,6 +1,6 @@
 ---
 name: frist-und-eilversand-anlagenpaket
-description: "Wenn es um Frist und Eilversand Anlagenpaket in Anlagen zu Schriftsätzen geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Frist und Eilversand Anlagenpaket: prüft Frist, Form, Zuständigkeit und Eilbedarf; Ergebnis: Fristen- und Risikoampel."
 ---
 
 # Frist und Eilversand Anlagenpaket

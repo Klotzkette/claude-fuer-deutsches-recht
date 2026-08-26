@@ -1,6 +1,6 @@
 ---
 name: einfuehrung-mandantenanliegen
-description: "Startet die Zeugnisarbeit aus vorhandenen Unterlagen: erkennt Zeugnisart, Funktion, Zeitraum, gewünschtes Arbeitsprodukt und dringende Lücken und liefert sofort einen ersten Entwurf oder Berichtigungsvermerk. Fragt nur den nächsten entscheidenden fehlenden Punkt nach."
+description: "Startet die Zeugnisarbeit aus vorhandenen Unterlagen: erkennt Zeugnisart, Funktion, Zeitraum, gewünschtes Arbeitsprodukt und dringende Lücken und liefert sofort einen ersten Entwurf oder Berichtigungsvermerk."
 ---
 
 # Einführung und Mandantenanliegen

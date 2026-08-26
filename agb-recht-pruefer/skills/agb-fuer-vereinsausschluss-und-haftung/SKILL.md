@@ -1,6 +1,6 @@
 ---
 name: agb-fuer-vereinsausschluss-und-haftung
-description: "Wenn es um Agb Für Vereinsausschluss Und Haftung in AGB-Recht-Prüfer geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für AGB für Vereinsausschluss und Haftung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Agb Für Vereinsausschluss Und Haftung

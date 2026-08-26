@@ -1,6 +1,6 @@
 ---
 name: entnazifizierung-warteschleifen-und-rueckkehr
-description: "Wenn es um Entnazifizierung, Warteschleifen und Rückkehr in Deutsche Rechtsgeschichte geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen."
+description: "Für Entnazifizierung, Warteschleifen und Rückkehr: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt. Fachgebiet: Deutsche Rechtsgeschichte. Route: entnazifizierung-warteschleifen-und-rueckkehr."
 ---
 
 # Entnazifizierung, Warteschleifen und Rückkehr

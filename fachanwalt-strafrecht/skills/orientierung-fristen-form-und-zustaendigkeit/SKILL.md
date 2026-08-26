@@ -1,6 +1,6 @@
 ---
 name: orientierung-fristen-form-und-zustaendigkeit
-description: "Wenn es um Orientierung: Fristen, Form, Zuständigkeit und Rechtsweg in Fachanwalt Strafrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Orientierung: Fristen, Form, Zuständigkeit und Rechtsweg: prüft Frist, Form, Zuständigkeit und Eilbedarf; Ergebnis: Fristen- und Risikoampel."
 ---
 
 # Orientierung: Fristen, Form, Zuständigkeit und Rechtsweg

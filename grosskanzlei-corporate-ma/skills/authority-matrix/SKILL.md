@@ -1,6 +1,6 @@
 ---
 name: authority-matrix
-description: "Wenn es um Authority Matrix Approvals in Großkanzlei Corporate/M&A geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
+description: "Für Authority Matrix Approvals: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt. Fachgebiet: Großkanzlei Corporate/M&A. Route: authority-matrix."
 ---
 
 # Authority Matrix Approvals

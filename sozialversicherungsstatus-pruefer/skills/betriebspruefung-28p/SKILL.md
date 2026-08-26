@@ -1,6 +1,6 @@
 ---
 name: betriebspruefung-28p
-description: "Wenn es um Betriebsprüfung Paragraf 28p SGB IV in Sozialversicherungsstatus-Prüfer / DRV-Statusfeststellung geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Betriebsprüfung Paragraf 28p SGB IV: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Tatbestands- oder Anspruchsmatrix."
 ---
 
 # Betriebsprüfung § 28p SGB IV

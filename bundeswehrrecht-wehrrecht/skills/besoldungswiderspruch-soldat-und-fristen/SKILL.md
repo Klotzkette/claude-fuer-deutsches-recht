@@ -1,6 +1,6 @@
 ---
 name: besoldungswiderspruch-soldat-und-fristen
-description: "Wenn es um Besoldungswiderspruch Soldat und Fristen in Bundeswehrrecht und Wehrrecht geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Besoldungswiderspruch Soldat und Fristen: prüft Frist, Form, Zuständigkeit und Eilbedarf; Ergebnis: Fristen- und Risikoampel."
 ---
 
 # Besoldungswiderspruch Soldat und Fristen

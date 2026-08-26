@@ -1,6 +1,6 @@
 ---
 name: anfechtung-iv-arbeitsrecht
-description: "Wenn es um Insolvenzanfechtung Paragrafen 129 ff. InsO in Insolvenzverwaltung - IV-Cockpit geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
+description: "Für Insolvenzanfechtung Paragrafen 129 ff. InsO: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Insolvenzanfechtung §§ 129 ff. InsO

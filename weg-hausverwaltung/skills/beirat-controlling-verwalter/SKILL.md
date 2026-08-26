@@ -1,6 +1,6 @@
 ---
 name: beirat-controlling-verwalter
-description: "Wenn es um Beirat: Controlling und Verwalterbegleitung in WEG- und Hausverwaltung geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Gegenprüfung mit Fehler-, Beweis- und Fristencheck."
+description: "Für Beirat: Controlling und Verwalterbegleitung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Beirat: Controlling und Verwalterbegleitung

@@ -1,6 +1,6 @@
 ---
 name: unternehmerverkehr-abs1-schnellcheck-user
-description: "Wenn es um Unternehmerverkehr 310 Abs. 1 in AGB-Recht-Prüfer geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt. Auswahlstichwort: Unternehmerverkehr Abs1 Schnellcheck User; Arbeitsfeld: AGB-Recht-Prüfer."
+description: "Für Unternehmerverkehr 310 Abs. 1: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt. Fachgebiet: AGB-Recht-Prüfer. Route: unternehmerverkehr-abs1-schnellcheck-user."
 ---
 
 # Unternehmerverkehr 310 Abs. 1

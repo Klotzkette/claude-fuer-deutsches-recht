@@ -1,6 +1,6 @@
 ---
 name: digitale-inhalte-abo-kuendigungsbutton
-description: "Wenn es um Digitale Inhalte Abo Kündigungsbutton in E-Commerce-Recht geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
+description: "Für Digitale Inhalte Abo Kündigungsbutton: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Digitale Inhalte Abo Kündigungsbutton

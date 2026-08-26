@@ -1,6 +1,6 @@
 ---
 name: energie-regulierungsakte-kwkg-zuschlaege-unterlagenanforderung
-description: "Wenn es um Energie-Regulierungsakte: KWKG Zuschläge — Unterlagenanforderung in Bundesnetzagentur-Verfahren geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Dokumentenmatrix mit Nachforderungsliste."
+description: "Für Energie-Regulierungsakte: KWKG Zuschläge — Unterlagenanforderung: ordnet Akte, Belege und Lücken; Ergebnis: Dokumentenmatrix mit Nachforderungsliste."
 ---
 
 # Energie-Regulierungsakte: KWKG Zuschläge — Unterlagenanforderung

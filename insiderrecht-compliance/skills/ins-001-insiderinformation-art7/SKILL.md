@@ -1,6 +1,6 @@
 ---
 name: ins-001-insiderinformation-art7
-description: "Wenn es um Insiderinformation nach Art. 7 MAR in Insiderrecht Compliance geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. Auswahlstichwort: Ins 001 Insiderinformation Art7; Arbeitsfeld: Insiderrecht Compliance."
+description: "Für Insiderinformation nach Art. 7 MAR: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt. Fachgebiet: Insiderrecht Compliance. Route: ins-001-insiderinformation-art7."
 ---
 
 # Insiderinformation nach Art. 7 MAR

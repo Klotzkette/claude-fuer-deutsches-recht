@@ -1,6 +1,6 @@
 ---
 name: dienstgericht-richter-disziplinar-63-drig
-description: "Wenn es um Dienstgericht fuer Richter in Beamtenrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Dienstgericht für Richter: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Dienstgericht fuer Richter

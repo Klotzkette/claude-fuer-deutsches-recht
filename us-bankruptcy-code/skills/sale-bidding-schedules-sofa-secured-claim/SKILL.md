@@ -1,6 +1,6 @@
 ---
 name: sale-bidding-schedules-sofa-secured-claim
-description: "Wenn es um Sale Process and Bidding Procedures in US Bankruptcy Code geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Chronologie mit Belegmatrix und Widerspruchsliste."
+description: "Für Sale Process and Bidding Procedures: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Sale Process and Bidding Procedures

@@ -1,6 +1,6 @@
 ---
 name: rollen-hersteller-anbieter-integrator
-description: "Wenn es um Rollen Hersteller Anbieter Integrator in robotik-recht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Rollen Hersteller Anbieter Integrator: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Rollen Hersteller Anbieter Integrator

@@ -1,6 +1,6 @@
 ---
 name: lease-021-steuer-umsatzsteuer-leasingraten-sonderzahlung
-description: "Wenn es um Leasingrecht: Steuer Umsatzsteuer Leasingraten Sonderzahlung in Leasingrecht Praxis geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Leasingrecht: Steuer Umsatzsteuer Leasingraten Sonderzahlung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Schnittstellenkarte mit Zuständigkeits- und Nachweisfragen."
 ---
 
 # Leasingrecht: Steuer Umsatzsteuer Leasingraten Sonderzahlung

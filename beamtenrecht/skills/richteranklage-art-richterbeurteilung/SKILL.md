@@ -1,6 +1,6 @@
 ---
 name: richteranklage-art-richterbeurteilung
-description: "Wenn es um Richteranklage Art. 98 GG in Beamtenrecht geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
+description: "Für Richteranklage Art. 98 GG: erstellt Entwurf mit Antrag, Beweis und Anlagen; Ergebnis: Schriftsatz mit Begründungs- und Anlagenlogik."
 ---
 
 # Richteranklage Art. 98 GG

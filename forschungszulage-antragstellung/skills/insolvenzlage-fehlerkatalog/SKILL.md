@@ -1,6 +1,6 @@
 ---
 name: insolvenzlage-fehlerkatalog
-description: "Wenn es um Insolvenzlage Fehlerkatalog in Forschungszulage-Antragstellung geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Insolvenzlage Fehlerkatalog: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Insolvenzlage Fehlerkatalog

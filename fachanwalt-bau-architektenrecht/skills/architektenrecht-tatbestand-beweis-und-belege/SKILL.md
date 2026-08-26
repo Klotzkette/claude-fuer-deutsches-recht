@@ -1,6 +1,6 @@
 ---
 name: architektenrecht-tatbestand-beweis-und-belege
-description: "Wenn es um Architektenrecht: Tatbestandsmerkmale, Beweisfragen und Beleglage in Fachanwalt Bau Architektenrecht geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Beweislast- und Substantiierungsmatrix."
+description: "Für Architektenrecht: Tatbestandsmerkmale, Beweisfragen und Beleglage: ordnet Akte, Belege und Lücken; Ergebnis: Beweislast- und Substantiierungsmatrix."
 ---
 
 # Architektenrecht: Tatbestandsmerkmale, Beweisfragen und Beleglage

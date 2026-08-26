@@ -1,6 +1,6 @@
 ---
 name: grunderwerbsteuer-share-deal
-description: "Wenn es um Grunderwerbsteuer beim Share Deal — Paragraf 1 Abs. 2a 2b 3 3a GrEStG in Steuerrecht – Steuerberater und Anwälte geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen. Auswahlstichwort: Grunderwerbsteuer Share Deal; Arbeitsfeld: Steuerrecht – Steuerberater und Anwälte."
+description: "Für Grunderwerbsteuer beim Share Deal — Paragraf 1 Abs. 2a 2b 3 3a GrEStG: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Schnittstellenkarte mit Zuständigkeits- und Nachweisfragen. Fachgebiet: Steuerrecht – Steuerberater und Anwälte. Route: grunderwerbsteuer-share-deal."
 ---
 
 # Grunderwerbsteuer beim Share Deal — § 1 Abs. 2a 2b 3 3a GrEStG

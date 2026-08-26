@@ -1,6 +1,6 @@
 ---
 name: rom-104-byzantinisches-recht-kaltstart
-description: "Wenn es um Byzantinisches Recht - Kaltstart in Römisches Recht geht: klärt Rolle, Ziel, Frist, Unterlagen und den passenden nächsten Fachskill; liefert eine Fristen- und Risikoampel mit Sofortschritten. Auswahlstichwort: Rom 104 Byzantinisches Recht Kaltstart; Arbeitsfeld: Römisches Recht."
+description: "Für Byzantinisches Recht - Kaltstart: routet Rolle, Frist, Unterlagen und Fachschritt; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt. Fachgebiet: Römisches Recht. Route: rom-104-byzantinisches-recht-kaltstart."
 ---
 
 # Byzantinisches Recht - Kaltstart

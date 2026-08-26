@@ -1,6 +1,6 @@
 ---
 name: copyright-royalty-board-ch8
-description: "Wenn es um Copyright Royalty Board Chapter 8 in US Copyright Act und Registrierung für deutsche Verlage geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen."
+description: "Für Copyright Royalty Board Chapter 8: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Copyright Royalty Board Chapter 8

@@ -2,20 +2,20 @@
 
 ## Zusammensetzung
 
-Diese Vollprüfung enthält top-10 von 88 Skills des Plugins `fachanwalt-bank-kapitalmarktrecht`.
+Diese Vollprüfung enthält top-10 von 87 Skills des Plugins `fachanwalt-bank-kapitalmarktrecht`.
 
 ## Inhaltsverzeichnis
 
 1. **juristischer-argumentationskern** — Schaltet sich ein, wenn in Fachanwalt Bank Kapitalmarktrecht ein juristisches Arbeitsprodukt tragfähig begründet werden …
 2. **bankprozess-versandmappe-endfertigen** — Endfertigt Darlehens-, Anlageberatungs-, Zahlungsdienste-, Prospekt- und Kapitalmarkt-Schriftsätze: liest Vertrag, Berat…
-3. **einstieg-routing** — Wenn es um Einstieg und Routing in Fachanwalt Bank Kapitalmarktrecht geht: klärt Rolle, Ziel, Frist, Unterlagen und den …
-4. **mandat-triage-bank-kapitalmarktrecht** — Wenn es um Mandat Triage Bank Kapitalmarktrecht in Fachanwalt Bank Kapitalmarktrecht geht: klärt Rolle, Ziel, Frist, Unt…
-5. **fachanwalt-bank-kapitalmarktrecht-orientierung** — Wenn es um Fachanwalt für Bank- und Kapitalmarktrecht — Orientierung in Fachanwalt Bank Kapitalmarktrecht geht: prüft Fr…
-6. **orientierung-fachanwaltschaft-mandat** — Wenn es um Orientierung Fachanwaltschaft Mandat in Fachanwalt Bank Kapitalmarktrecht geht: prüft Frist, Form, Zuständigk…
-7. **erstgespraech-mandatsannahme** — Wenn es um Erstgespraech Mandatsannahme in Fachanwalt Bank Kapitalmarktrecht geht: prüft Frist, Form, Zuständigkeit, Rec…
-8. **erstpruefung-und-mandatsziel** — Wenn es um Fachanwalt: Erstprüfung, Rollenklärung und Mandatsziel in Fachanwalt Bank Kapitalmarktrecht geht: klärt Rolle…
+3. **einstieg-routing** — Für Einstieg und Routing: routet Rolle, Frist, Unterlagen und Fachschritt; Ergebnis: Prüfprodukt mit Risiko und nächstem…
+4. **mandat-triage-bank-kapitalmarktrecht** — Für Mandat Triage Bank Kapitalmarktrecht: routet Rolle, Frist, Unterlagen und Fachschritt; Ergebnis: Prüfprodukt mit Ris…
+5. **orientierung-fachanwaltschaft-mandat** — Für Orientierung Fachanwaltschaft Mandat: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko un…
+6. **fachanwalt-bank-kapitalmarktrecht-orientierung** — Für Fachanwalt für Bank- und Kapitalmarktrecht — Orientierung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüf…
+7. **erstgespraech-mandatsannahme** — Für Erstgespräch Mandatsannahme: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächste…
+8. **erstpruefung-und-mandatsziel** — Für Fachanwalt: Erstprüfung, Rollenklärung und Mandatsziel: routet Rolle, Frist, Unterlagen und Fachschritt; Ergebnis: T…
 9. **widerrufsjoker-immobiliendarlehen** — Prüft Widerruf und Vorfälligkeitsentschädigung bei Immobiliar-Verbraucherdarlehen stichtagsgenau: bestimmt Vertragsfassu…
-10. **cum-ex-beihilfe-bgh-1-str-519-20** — Analysiert straf- und einziehungsrechtliche Risiken konkreter Cum-Ex-Abläufe. Ordnet Steueranmeldung, nicht einbehaltene…
+10. **praemiensparvertrag-zinsanpassung-bgh-xi-zr-44-23** — Prüft variable Zinsanpassungsklauseln in Prämiensparverträgen, bestimmt Anpassungsintervall, Referenzzins und Verjährung…
 
 ---
 
@@ -139,7 +139,7 @@ Ausgangspunkt für dieses Plugin: Kunde für Beratungssituation, Schaden und Kau
 
 ## Skill: `bankprozess-versandmappe-endfertigen`
 
-_Endfertigt Darlehens-, Anlageberatungs-, Zahlungsdienste-, Prospekt- und Kapitalmarkt-Schriftsätze: liest Vertrag, Beratungsdokumentation, Konto- und Transaktionsdaten, Prospekt, Widerruf und Abrechnung zuerst, prüft Antrag, Aktivlegitimation, Verjährung und Rechenweg, bündelt Serienanlagen kontrolliert und liefert beA-Einzeldateien mit Betrags- und Eingangskontrolle._
+_Endfertigt Darlehens-, Anlageberatungs-, Zahlungsdienste-, Prospekt- und Kapitalmarkt-Schriftsätze: liest Vertrag, Beratungsdokumentation, Konto- und Transaktionsdaten, Prospekt, Widerruf und Abrechnung zuerst, prüft Antrag, Aktivlegitimation, Verjährung und Rechenweg, bündelt Serienanlagen kontrolliert und liefert beA-Einzeldateien mit Betrags- und._
 
 # Bankprozess-Versandmappe endfertigen
 
@@ -161,7 +161,7 @@ Prüfe ZPO Paragrafen 130a und 130d, Signaturweg und Eingangsbestätigung. Liefe
 
 ## Skill: `einstieg-routing`
 
-_Wenn es um Einstieg und Routing in Fachanwalt Bank Kapitalmarktrecht geht: klärt Rolle, Ziel, Frist, Unterlagen und den passenden nächsten Fachskill; liefert eine Fristen- und Risikoampel mit Sofortschritten._
+_Für Einstieg und Routing: routet Rolle, Frist, Unterlagen und Fachschritt; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt. Fachgebiet: Fachanwalt Bank Kapitalmarktrecht._
 
 # Einstieg und Routing
 
@@ -205,7 +205,7 @@ Dieser Einstieg routet **Fachanwalt Bank Kapitalmarktrecht** vom ersten Sachverh
 
 ## Skill: `mandat-triage-bank-kapitalmarktrecht`
 
-_Wenn es um Mandat Triage Bank Kapitalmarktrecht in Fachanwalt Bank Kapitalmarktrecht geht: klärt Rolle, Ziel, Frist, Unterlagen und den passenden nächsten Fachskill; liefert eine Fristen- und Risikoampel mit Sofortschritten._
+_Für Mandat Triage Bank Kapitalmarktrecht: routet Rolle, Frist, Unterlagen und Fachschritt; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt._
 
 # Bank- oder Kapitalmarktrechts-Mandat trifft ein und muss strukturiert erfasst werden: Sachgebiet Mandantenrolle Sofort-Fristen
 
@@ -423,116 +423,9 @@ Naechster Schritt: [MASSNAHME] bis [DATUM] durch [PERSON]
 
 ---
 
-## Skill: `fachanwalt-bank-kapitalmarktrecht-orientierung`
-
-_Wenn es um Fachanwalt für Bank- und Kapitalmarktrecht — Orientierung in Fachanwalt Bank Kapitalmarktrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten._
-
-# Fachanwalt für Bank- und Kapitalmarktrecht — Orientierung
-
-## FAO-Voraussetzungen
-
-- Lehrgang 120 Stunden + drei Klausuren.
-- 60 Fälle in den letzten drei Jahren, davon mindestens 30 streitige.
-
-## Wichtige Normen
-
-| Bereich | Norm |
-|---|---|
-| Bankaufsicht | KWG (Kreditwesengesetz) |
-| Zahlungsdienste | ZAG |
-| Wertpapierhandel | WpHG WpIG MiFID-II (EU-RL 2014/65) |
-| Marktmissbrauch | MAR Marktmissbrauchsverordnung (EU 596/2014) |
-| Wertpapierprospekt | Prospekt-VO (EU 2017/1129) WpPG |
-| Krypto-Assets | MiCAR (EU 2023/1114) |
-| Verbraucherkredit | §§ 491 ff. BGB CCD-Richtlinie |
-| Anlageberatung | §§ 31 ff. WpHG (Wohlverhalten Anlageberatung-Documentation) |
-| Vermögensanlage | VermAnlG VermAnlVerkProspV |
-| KAGB | KAGB Investmentvermögen |
-| Geldwäsche | GwG |
-
-## Typische Mandate
-
-- Verbraucherkredit (Widerruf nachträgliche AGB-Prüfung)
-- Schadensersatz Anlageberatung Beratungspflicht-Verletzung (Bond-Schiff-Anlagen Lehman-Anlagen Cum-Ex)
-- Aufsichtsrechtsverfahren BaFin-Verfahren (Genehmigung Untersagung)
-- Krypto-Asset Compliance MiCAR
-- M&A im Finanzdienstleistungs-Bereich
-- Prospekthaftung
-- Insolvenzanfechtung von Kreditrückzahlungen
-
-## Fristen
-
-- **BGB-Widerrufsfrist** 14 Tage bei Fernabsatz und Haustürgeschäft (§§ 312g 355 BGB) — bei fehlender Belehrung verlängert.
-- **Beratungshaftung Verjährung** drei Jahre (§ 195 BGB) ab Kenntnis; Höchstfrist zehn Jahre (§ 199 BGB).
-- **WpHG-Pflichten** laufende Aufzeichnung.
-- **Meldepflichten BaFin** unverzueglich bei meldepflichtigen Ereignissen.
-- **MAR Insider-Mitteilung** unverzueglich; Stimmrechtsmitteilungen §§ 33 ff. WpHG vier Handelstage.
-
-## Hauptgerichte
-
-- Landgericht Zivilkammer für Bank- und Kapitalmarktsachen.
-- OLG-Spezialsenate.
-- BGH XI. Zivilsenat (Bankrecht).
-- VG / OVG / BVerwG bei BaFin-Verwaltungsverfahren.
-- BaFin selbst als Aufsichtsbehörde.
-
-## Quellenregel
-
-Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
-## Berufsverband
-
-- ARGE Bank- und Kapitalmarktrecht DAV.
-
-## Schnittstellen
-
-- **gesellschaftsrecht** bei M&A und Kapitalmaßnahmen.
-- **regulatorisches-recht** bei BaFin-Aufsicht.
-- **kanzlei-allgemein** Fristen Versand.
-- **insolvenzrecht** bei Anfechtung.
-
-## Vertiefung: Rechtsprechung und aktuelle Linien (Stand Mai 2026)
-
-### Schluessel-Leitsaetze BGH XI. Zivilsenat Bank-/Kapitalmarktrecht (jeweils Volltext in offener Quelle prüfen)
-
-- **BGH XI ZR 22/24** v. 20.5.2025 — Vorfälligkeitsentschädigung Immobiliendarlehen: intransparente AGB-Klausel führt zum Verlust des VFE-Anspruchs. Quelle: juris.bundesgerichtshof.de
-- **BGH XI ZR 133/24** v. 21.10.2025 — Pflichtangaben beim Immobiliar-Verbraucherdarlehen: Behandlung der Sicherungszweckvereinbarung, Berechnung des Effektivzinses bei auslaufender Sollzinsbindung und Folgen eines zu niedrig angegebenen Effektivzinses für den Widerrufsfristlauf. Quelle: bundesgerichtshof.de
-- **BGH XI ZR 553/19** 2024 — Stärkung der Rechte von Darlehensnehmern bei Altforderungen (Volltext und Datum vor Versand verifizieren). Quelle: juris.bundesgerichtshof.de
-
-### EuGH-Linien
-
-- **EuGH C-26/22 und C-64/22** v. 7.12.2023 — SCHUFA / Restschuldbefreiung max. 6 Monate Speicherung. Quelle: curia.europa.eu
-- **EuGH C-634/21** v. 7.12.2023 — SCHUFA-Score als automatisierte Entscheidung i.S.v. Art. 22 DSGVO. Quelle: curia.europa.eu
-- **EuGH C-66/19** v. 26.3.2020 (Kreissparkasse Saarlouis) — Kaskadenverweisung in Widerrufsbelehrung unzulässig. Quelle: curia.europa.eu
-
-### Normen-Ueberblick nach Mandatstyp
-| Mandat | Zentralnorm |
-|---|---|
-| Widerruf Verbraucherkredit | §§ 491, 495, 355 BGB; EGBGB Art. 247 |
-| Anlageberatung fehlerhaft | §§ 280, 311 BGB; §§ 63-64 WpHG |
-| Prospekthaftung | §§ 9-11 VermAnlG; §§ 21-23 WpPG |
-| Kreditkuendigung | §§ 488, 490, 498 BGB |
-| BaFin-Aufsicht | §§ 32-35 KWG; §§ 2, 6 WpIG |
-| Marktmissbrauch | MAR Art. 14-16 (VO 596/2014) |
-| AML/KYC | §§ 2, 10-17 GwG |
-| MiCA Stablecoin | MiCA Art. 16-21 VO 2023/1114 |
-
-### Quellenregel
-
-Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
-### Fristen Ueberblick
-| Frist | Dauer | Norm |
-|---|---|---|
-| Verjaebrung Beratungsfehler | 3 Jahre ab Kenntnis | §§ 195, 199 Abs. 1 BGB |
-| Absolute Hoechstfrist | 10 Jahre | § 199 Abs. 3 Nr. 1 BGB |
-| Widerruf Verbraucherkredit | 14 Tage / bei fehlender Belehrung verlg. | §§ 355, 495 BGB |
-| Ombudsmann-Hemmung | bis Verfahrensende + 3 Monate | § 204 Abs. 1 Nr. 4 BGB |
-| Stimmrechtsmitteilung WpHG | 4 Handelstage | §§ 33, 35 WpHG |
-
----
-
 ## Skill: `orientierung-fachanwaltschaft-mandat`
 
-_Wenn es um Orientierung Fachanwaltschaft Mandat in Fachanwalt Bank Kapitalmarktrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten._
+_Für Orientierung Fachanwaltschaft Mandat: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt. Fachgebiet: Fachanwalt Bank Kapitalmarktrecht._
 
 # Anwalt will Fachanwaltschaft Bank-Kapitalmarktrecht erwerben oder Mandat bearbeiten und braucht Normen-Überblick
 
@@ -647,9 +540,116 @@ Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwiss
 
 ---
 
+## Skill: `fachanwalt-bank-kapitalmarktrecht-orientierung`
+
+_Für Fachanwalt für Bank- und Kapitalmarktrecht — Orientierung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt._
+
+# Fachanwalt für Bank- und Kapitalmarktrecht — Orientierung
+
+## FAO-Voraussetzungen
+
+- Lehrgang 120 Stunden + drei Klausuren.
+- 60 Fälle in den letzten drei Jahren, davon mindestens 30 streitige.
+
+## Wichtige Normen
+
+| Bereich | Norm |
+|---|---|
+| Bankaufsicht | KWG (Kreditwesengesetz) |
+| Zahlungsdienste | ZAG |
+| Wertpapierhandel | WpHG WpIG MiFID-II (EU-RL 2014/65) |
+| Marktmissbrauch | MAR Marktmissbrauchsverordnung (EU 596/2014) |
+| Wertpapierprospekt | Prospekt-VO (EU 2017/1129) WpPG |
+| Krypto-Assets | MiCAR (EU 2023/1114) |
+| Verbraucherkredit | §§ 491 ff. BGB CCD-Richtlinie |
+| Anlageberatung | §§ 31 ff. WpHG (Wohlverhalten Anlageberatung-Documentation) |
+| Vermögensanlage | VermAnlG VermAnlVerkProspV |
+| KAGB | KAGB Investmentvermögen |
+| Geldwäsche | GwG |
+
+## Typische Mandate
+
+- Verbraucherkredit (Widerruf nachträgliche AGB-Prüfung)
+- Schadensersatz Anlageberatung Beratungspflicht-Verletzung (Bond-Schiff-Anlagen Lehman-Anlagen Cum-Ex)
+- Aufsichtsrechtsverfahren BaFin-Verfahren (Genehmigung Untersagung)
+- Krypto-Asset Compliance MiCAR
+- M&A im Finanzdienstleistungs-Bereich
+- Prospekthaftung
+- Insolvenzanfechtung von Kreditrückzahlungen
+
+## Fristen
+
+- **BGB-Widerrufsfrist** 14 Tage bei Fernabsatz und Haustürgeschäft (§§ 312g 355 BGB) — bei fehlender Belehrung verlängert.
+- **Beratungshaftung Verjährung** drei Jahre (§ 195 BGB) ab Kenntnis; Höchstfrist zehn Jahre (§ 199 BGB).
+- **WpHG-Pflichten** laufende Aufzeichnung.
+- **Meldepflichten BaFin** unverzueglich bei meldepflichtigen Ereignissen.
+- **MAR Insider-Mitteilung** unverzueglich; Stimmrechtsmitteilungen §§ 33 ff. WpHG vier Handelstage.
+
+## Hauptgerichte
+
+- Landgericht Zivilkammer für Bank- und Kapitalmarktsachen.
+- OLG-Spezialsenate.
+- BGH XI. Zivilsenat (Bankrecht).
+- VG / OVG / BVerwG bei BaFin-Verwaltungsverfahren.
+- BaFin selbst als Aufsichtsbehörde.
+
+## Quellenregel
+
+Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
+## Berufsverband
+
+- ARGE Bank- und Kapitalmarktrecht DAV.
+
+## Schnittstellen
+
+- **gesellschaftsrecht** bei M&A und Kapitalmaßnahmen.
+- **regulatorisches-recht** bei BaFin-Aufsicht.
+- **kanzlei-allgemein** Fristen Versand.
+- **insolvenzrecht** bei Anfechtung.
+
+## Vertiefung: Rechtsprechung und aktuelle Linien (Stand Mai 2026)
+
+### Schluessel-Leitsaetze BGH XI. Zivilsenat Bank-/Kapitalmarktrecht (jeweils Volltext in offener Quelle prüfen)
+
+- **BGH XI ZR 22/24** v. 20.5.2025 — Vorfälligkeitsentschädigung Immobiliendarlehen: intransparente AGB-Klausel führt zum Verlust des VFE-Anspruchs. Quelle: juris.bundesgerichtshof.de
+- **BGH XI ZR 133/24** v. 21.10.2025 — Pflichtangaben beim Immobiliar-Verbraucherdarlehen: Behandlung der Sicherungszweckvereinbarung, Berechnung des Effektivzinses bei auslaufender Sollzinsbindung und Folgen eines zu niedrig angegebenen Effektivzinses für den Widerrufsfristlauf. Quelle: bundesgerichtshof.de
+- **BGH XI ZR 553/19** 2024 — Stärkung der Rechte von Darlehensnehmern bei Altforderungen (Volltext und Datum vor Versand verifizieren). Quelle: juris.bundesgerichtshof.de
+
+### EuGH-Linien
+
+- **EuGH C-26/22 und C-64/22** v. 7.12.2023 — SCHUFA / Restschuldbefreiung max. 6 Monate Speicherung. Quelle: curia.europa.eu
+- **EuGH C-634/21** v. 7.12.2023 — SCHUFA-Score als automatisierte Entscheidung i.S.v. Art. 22 DSGVO. Quelle: curia.europa.eu
+- **EuGH C-66/19** v. 26.3.2020 (Kreissparkasse Saarlouis) — Kaskadenverweisung in Widerrufsbelehrung unzulässig. Quelle: curia.europa.eu
+
+### Normen-Ueberblick nach Mandatstyp
+| Mandat | Zentralnorm |
+|---|---|
+| Widerruf Verbraucherkredit | §§ 491, 495, 355 BGB; EGBGB Art. 247 |
+| Anlageberatung fehlerhaft | §§ 280, 311 BGB; §§ 63-64 WpHG |
+| Prospekthaftung | §§ 9-11 VermAnlG; §§ 21-23 WpPG |
+| Kreditkuendigung | §§ 488, 490, 498 BGB |
+| BaFin-Aufsicht | §§ 32-35 KWG; §§ 2, 6 WpIG |
+| Marktmissbrauch | MAR Art. 14-16 (VO 596/2014) |
+| AML/KYC | §§ 2, 10-17 GwG |
+| MiCA Stablecoin | MiCA Art. 16-21 VO 2023/1114 |
+
+### Quellenregel
+
+Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
+### Fristen Ueberblick
+| Frist | Dauer | Norm |
+|---|---|---|
+| Verjaebrung Beratungsfehler | 3 Jahre ab Kenntnis | §§ 195, 199 Abs. 1 BGB |
+| Absolute Hoechstfrist | 10 Jahre | § 199 Abs. 3 Nr. 1 BGB |
+| Widerruf Verbraucherkredit | 14 Tage / bei fehlender Belehrung verlg. | §§ 355, 495 BGB |
+| Ombudsmann-Hemmung | bis Verfahrensende + 3 Monate | § 204 Abs. 1 Nr. 4 BGB |
+| Stimmrechtsmitteilung WpHG | 4 Handelstage | §§ 33, 35 WpHG |
+
+---
+
 ## Skill: `erstgespraech-mandatsannahme`
 
-_Wenn es um Erstgespraech Mandatsannahme in Fachanwalt Bank Kapitalmarktrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten._
+_Für Erstgespräch Mandatsannahme: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt. Fachgebiet: Fachanwalt Bank Kapitalmarktrecht._
 
 # Strukturierter Erstgespraechsleitfaden für Bank-, Kapitalmarkt- und Wertpapierrecht: Erfassung der Konstellation, Konflikt- und GwG-Check, Vollmacht, Streitwert/Gebührenvereinbarung, Fristen-Erstprognose und Handlungsweichen.
 
@@ -875,7 +875,7 @@ Naechster Schritt: [Owner] bis [Datum]
 
 ## Skill: `erstpruefung-und-mandatsziel`
 
-_Wenn es um Fachanwalt: Erstprüfung, Rollenklärung und Mandatsziel in Fachanwalt Bank Kapitalmarktrecht geht: klärt Rolle, Ziel, Frist, Unterlagen und den passenden nächsten Fachskill; liefert eine Fristen- und Risikoampel mit Sofortschritten._
+_Für Fachanwalt: Erstprüfung, Rollenklärung und Mandatsziel: routet Rolle, Frist, Unterlagen und Fachschritt; Ergebnis: Tatbestands- oder Anspruchsmatrix. Fachgebiet: Fachanwalt Bank Kapitalmarktrecht._
 
 # Fachanwalt: Erstprüfung, Rollenklärung und Mandatsziel
 
@@ -933,7 +933,7 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 
 ## Skill: `widerrufsjoker-immobiliendarlehen`
 
-_Prüft Widerruf und Vorfälligkeitsentschädigung bei Immobiliar-Verbraucherdarlehen stichtagsgenau: bestimmt Vertragsfassung und Richtlinienregime, vergleicht Pflichtangaben mit Originalvertrag und Muster, trennt Widerruf von BGB Paragraf 502, ordnet EuGH- und BGH-Rechtsprechung ohne Übertragung auf Autokredite ein und liefert Wirtschaftlichkeitsrechnung und Anspruchsschreiben._
+_Prüft Widerruf und Vorfälligkeitsentschädigung bei Immobiliar-Verbraucherdarlehen stichtagsgenau: bestimmt Vertragsfassung und Richtlinienregime, vergleicht Pflichtangaben mit Originalvertrag und Muster, trennt Widerruf von BGB Paragraf 502, ordnet EuGH- und BGH-Rechtsprechung ohne Übertragung auf Autokredite ein und liefert Wirtschaftlichkeitsrechnung und._
 
 # Immobiliardarlehen: Widerruf und Vorfälligkeitsentschädigung
 
@@ -1011,51 +1011,43 @@ Liefere Stichtagskarte, Klauselmatrix mit Seitenzitaten, getrennte Anspruchsprü
 
 ---
 
-## Skill: `cum-ex-beihilfe-bgh-1-str-519-20`
+## Skill: `praemiensparvertrag-zinsanpassung-bgh-xi-zr-44-23`
 
-_Analysiert straf- und einziehungsrechtliche Risiken konkreter Cum-Ex-Abläufe. Ordnet Steueranmeldung, nicht einbehaltene Kapitalertragsteuer, Handels- und Bescheinigungskette, Tatbeitrag, Vorsatz, Beihilfe, berufstypisches Verhalten und Einziehung und erstellt Transaktionsmatrix, Beweisplan und Verteidigungs- oder Ermittlungsvermerk._
+_Prüft variable Zinsanpassungsklauseln in Prämiensparverträgen, bestimmt Anpassungsintervall, Referenzzins und Verjährung und erstellt eine nachvollziehbare Neuberechnung samt Anspruchs- und Beweismatrix auf Grundlage der aktuellen Rechtsprechung des Bundesgerichtshofs._
 
-# Cum-Ex-Tatbeitrag und Einziehung prüfen
+# Zinsanpassung im Prämiensparvertrag prüfen
 
-## Einsatzlage
+## 1. Einsatzlage
 
-Ein Bankmitarbeiter, Händler, Berater, Fondsverantwortlicher oder Dienstleister war an Transaktionen beteiligt, in deren Folge tatsächlich nicht einbehaltene Kapitalertragsteuer angerechnet oder erstattet wurde. Die Prüfung darf Cum-Ex nicht pauschal als Betrug bezeichnen, sondern muss Steuerhinterziehung, Beteiligungsform und Einziehung konkret subsumieren.
+Nutze den Skill bei langfristigen Prämiensparverträgen mit Formulierungen wie „jeweils gültiger Zinssatz“, wenn der Kunde eine Nachberechnung verlangt oder die Bank eine solche Forderung abwehren muss. Bausparvertrag, Prämiensparvertrag und gewöhnliches Tagesgeld nicht gleichsetzen.
 
-## Normenanker
+## 2. Normenanker
 
-- Paragraf 370 Absätze 1, 3 und 4 AO: Steuerhinterziehung, besonders schwerer Fall und ungerechtfertigter Steuervorteil.
-- Paragrafen 25 bis 27 StGB: Täterschaft und Beihilfe; konkreter Tatbeitrag und doppelter Gehilfenvorsatz.
-- Paragrafen 73 bis 73e StGB und einschlägiges Übergangsrecht: Einziehung von Taterträgen bei Täter und Dritten.
-- Paragraf 36 Absatz 2 EStG und die weiteren steuerrechtlichen Vorschriften in der Fassung des jeweiligen Veranlagungszeitraums.
-- Paragrafen 94, 95, 102, 110 und 147 StPO: Sicherung, Durchsuchung, Durchsicht und Akteneinsicht.
+- Paragraf 307 Absatz 1 BGB für die Transparenz und Wirksamkeit vorformulierter Zinsänderungsklauseln.
+- Paragrafen 133 und 157 BGB für die ergänzende Vertragsauslegung nach Wegfall einer unwirksamen Klausel.
+- Paragrafen 195 und 199 BGB für die Regelverjährung; Fälligkeit und Kenntnis getrennt prüfen.
+- Paragraf 287 ZPO für eine gerichtliche Schätzung nur auf tragfähiger Tatsachengrundlage.
 
-## Rechtsprechungsanker
+## 3. Verifizierte Rechtsprechungsanker
 
-- BGH, Urteil vom 28. Juli 2021 - 1 StR 519/20: Die Geltendmachung tatsächlich nicht einbehaltener Kapitalertragsteuer zur Anrechnung oder Erstattung aufgrund der dort festgestellten Cum-Ex-Leerverkaufsgeschäfte war eine unrichtige Angabe nach Paragraf 370 Absatz 1 Nummer 1 AO und führte bei positiver Bescheidung zu ungerechtfertigten Steuervorteilen. Der BGH bestätigte auch die Einziehung trotz steuerlicher Zahlungsverjährung nach dem anwendbaren Übergangsrecht.
-- Die Entscheidung trägt keine automatische Strafbarkeit jedes Beteiligten an einer Handels-, Abwicklungs- oder Bescheinigungskette. Für Beihilfe müssen geförderte Haupttat, objektiver Förderbeitrag und Vorsatz des konkreten Beteiligten belegt werden.
+- BGH, Urteil vom 24.11.2021 - XI ZR 310/20: Die im Musterverfahren geprüften variablen Zinsangaben enthielten keine wirksame Zinsänderungsregelung; die Anpassung war monatlich vorzunehmen und das anfängliche relative Verhältnis zum Referenzzins zu wahren.
+- BGH, Urteil vom 09.07.2024 - XI ZR 44/23: Die Regelungslücke ist durch ergänzende Vertragsauslegung zu schließen. Der Tatrichter darf nach sachverständiger Beratung einen geeigneten langfristigen Referenzzins bestimmen; die Gleitzinsmethode ist nicht zwingend. Die Verjährungsfrage ist anspruchsbezogen zu prüfen.
 
-## Prüfprogramm
+Die Aussagen gelten für die jeweils geprüften standardisierten Vertragsmuster. Vertragswortlaut, Laufzeit und Prämienstaffel des konkreten Falls bleiben entscheidend.
 
-1. Jede Transaktion mit Handelstag, Dividendenstichtag, Lieferkette, Stückequelle, Kompensationszahlung, Steuerbescheinigung, Antrag und Erstattung abbilden.
-2. Historische steuerrechtliche Normfassung und tatsächlichen Einbehalt feststellen; Buchungs- oder Bescheinigungsvorgang nicht mit Steuerzahlung gleichsetzen.
-3. Haupttaten nach Antrag, Behörde, Veranlagungszeitraum, Betrag und verantwortlichem Erklärenden strukturieren.
-4. Beitrag des Betroffenen für jede Haupttat prüfen: Lieferung, Strukturierung, Bescheinigung, Finanzierung, Antrag, Kommunikation oder bloße berufstypische Tätigkeit.
-5. Vorsatz anhand Wissensstand zum fehlenden Einbehalt, Transaktionszweck, Warnungen, internen Gutachten, Tarnhandlungen und wirtschaftlicher Plausibilität bestimmen. Rückschauwissen nicht als damalige Kenntnis ausgeben.
-6. Konkurrenz und Zahl der Beihilfetaten nach Zuordenbarkeit der Beiträge prüfen; eine einheitliche Handlung kann mehrere Haupttaten fördern, ohne automatisch mehrere Beihilfetaten zu bilden.
-7. Einziehungsadressat, Erlangtes, Abzugsverbot, Drittbegünstigung, Entreicherungsausschlüsse und Übergangsrecht gesondert berechnen.
-8. Entlastende und belastende Beweise gleichrangig sichern und einen rollenbezogenen Ermittlungs- oder Verteidigungsvermerk erstellen.
+## 4. Prüfprogramm
 
-## Arbeitsergebnis
+1. Vertrag, Zinsklausel, Prämienstaffel, Kontoauszüge und Abrechnung vollständig erfassen.
+2. Klausel auf Transparenz und einseitigen Änderungsspielraum prüfen.
+3. Bei Unwirksamkeit die Regelungslücke durch ergänzende Vertragsauslegung schließen; keine eigene Zinsmethode ohne Begründung einsetzen.
+4. Referenzzins, Laufzeitnähe, Anpassungsintervall und Wahrung des relativen Abstands offenlegen.
+5. Soll- und Ist-Zinsen periodengenau gegenüberstellen; Prämien und Kapitalisierung nicht mit dem Grundzins vermischen.
+6. Verjährung für jede Zinsdifferenz und einen möglichen Abrechnungsanspruch gesondert prüfen.
+7. Gegenrechnung und Sensitivität mit mindestens einer vertretbaren Alternativreihe dokumentieren.
 
-Liefere Transaktions- und Haupttatenmatrix, Rollenkarte, Vorsatzchronologie, Konkurrenzprüfung und Einziehungsrechnung. Jede Feststellung erhält Aktenfundstelle; offene Zuordnung wird als Beweislücke markiert und nicht durch eine Branchenvermutung geschlossen.
+## 5. Ausgabe
 
-## Belege und Aktenlücken
-
-- Trade- und Settlement-Daten einschließlich Stückekette
-- Steuerbescheinigungen, Anträge, Bescheide und Zahlungsnachweise
-- E-Mails, Chats, Gesprächsnotizen und Freigaben
-- Struktur-, Rechts- und Steuergutachten mit Verteiler und Datum
-- Vergütungsflüsse, Fonds- und Bankbuchungen sowie Einziehungsunterlagen
+Liefere eine Klauselbewertung, eine Rechentabelle mit Quellen der Zeitreihen, eine Verjährungsmatrix und ein beziffertes Aufforderungs- oder Erwiderungsschreiben. Jede Annahme muss in der Rechnung sichtbar sein.
 
 ---
 

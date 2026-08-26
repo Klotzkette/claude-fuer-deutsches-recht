@@ -1,6 +1,6 @@
 ---
 name: arbeitsschutz-psychische-gefaehrdungsbeurteilung
-description: "Wenn es um Arbeitsschutz Psychische Gefaehrdungsbeurteilung in Start-up-HR-Personalabteilung Berlin geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen."
+description: "Für Arbeitsschutz Psychische Gefährdungsbeurteilung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Schnittstellenkarte mit Zuständigkeits- und Nachweisfragen."
 ---
 
 # Arbeitsschutz Psychische Gefaehrdungsbeurteilung

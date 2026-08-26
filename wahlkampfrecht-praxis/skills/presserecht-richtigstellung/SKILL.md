@@ -1,6 +1,6 @@
 ---
 name: presserecht-richtigstellung
-description: "Wenn es um Presserecht Richtigstellung in Wahlkampfrecht Praxis geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Presserecht Richtigstellung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Presserecht Richtigstellung

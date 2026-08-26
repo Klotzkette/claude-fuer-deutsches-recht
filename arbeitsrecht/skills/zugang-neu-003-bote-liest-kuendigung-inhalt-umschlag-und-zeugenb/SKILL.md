@@ -1,6 +1,6 @@
 ---
 name: zugang-neu-003-bote-liest-kuendigung-inhalt-umschlag-und-zeugenb
-description: "Wenn es um Zugang Neu 003 Bote Liest Kuendigung Inhalt Umschlag Und Zeugenb in Arbeitsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Zugang Neu 003 Bote Liest Kündigung Inhalt Umschlag und Zeugenb: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Schnittstellenkarte mit Zuständigkeits- und Nachweisfragen."
 ---
 
 # Arbeitsrecht: Bote liest Kündigung Inhalt Umschlag und Zeugenbeweis mit konkreter Fachprüfung, Quellenhygiene, Fehlerbremse und verwertbarem Arbeitsergebnis.

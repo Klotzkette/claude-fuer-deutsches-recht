@@ -1,6 +1,6 @@
 ---
 name: zeugeninterviews-mitarbeiter
-description: "Wenn es um Mitarbeiterinterviews im Sanktionsverfahren in Datenschutz-Sanktionsverfahren und Verteidigung geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen."
+description: "Für Mitarbeiterinterviews im Sanktionsverfahren: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Schnittstellenkarte mit Zuständigkeits- und Nachweisfragen."
 ---
 
 # Mitarbeiterinterviews im Sanktionsverfahren

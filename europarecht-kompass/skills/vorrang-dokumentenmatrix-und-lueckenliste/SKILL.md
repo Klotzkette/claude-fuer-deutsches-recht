@@ -1,6 +1,6 @@
 ---
 name: vorrang-dokumentenmatrix-und-lueckenliste
-description: "Wenn es um Vorrang: Dokumentenmatrix, Lückenliste und Nachforderung in Europarecht-Kompass für deutsche Juristen geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Dokumentenmatrix mit Nachforderungsliste."
+description: "Für Vorrang: Dokumentenmatrix, Lückenliste und Nachforderung: ordnet Akte, Belege und Lücken; Ergebnis: Dokumentenmatrix mit Nachforderungsliste."
 ---
 
 # Vorrang: Dokumentenmatrix, Lückenliste und Nachforderung

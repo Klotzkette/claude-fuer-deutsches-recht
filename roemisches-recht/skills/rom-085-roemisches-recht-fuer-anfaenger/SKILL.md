@@ -1,6 +1,6 @@
 ---
 name: rom-085-roemisches-recht-fuer-anfaenger
-description: "Wenn es um Roemisches Recht Fuer Anfaenger in Römisches Recht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Römisches Recht für Anfänger: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Roemisches Recht Fuer Anfaenger

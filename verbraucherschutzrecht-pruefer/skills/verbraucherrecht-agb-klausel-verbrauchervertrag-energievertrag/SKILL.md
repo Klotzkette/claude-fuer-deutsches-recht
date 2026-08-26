@@ -1,6 +1,6 @@
 ---
 name: verbraucherrecht-agb-klausel-verbrauchervertrag-energievertrag
-description: "Wenn es um Agb Klausel Im Verbrauchervertrag Prue in Verbraucherschutzrecht Prüfer geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für AGB Klausel im Verbrauchervertrag Prü: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Agb Klausel Im Verbrauchervertrag Prue

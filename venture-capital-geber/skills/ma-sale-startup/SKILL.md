@@ -1,6 +1,6 @@
 ---
 name: ma-sale-startup
-description: "Wenn es um M&A Sale Startup in Venture Capital Geber geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für M&A Sale Startup: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # M&A Sale Startup

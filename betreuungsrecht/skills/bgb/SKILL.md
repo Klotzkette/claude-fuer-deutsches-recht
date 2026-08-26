@@ -1,6 +1,6 @@
 ---
 name: bgb
-description: "Wenn es um BGB: Verhandlung, Vergleich und Eskalation in Betreuungsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für BGB: Verhandlung, Vergleich und Eskalation: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt. Fachgebiet: Betreuungsrecht. Route: bgb."
 ---
 
 # BGB: Verhandlung, Vergleich und Eskalation

@@ -1,6 +1,6 @@
 ---
 name: schulsozialarbeit-jugendamt
-description: "Wenn es um Schulsozialarbeit Jugendamt in Schulrecht der Bundesländer geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Schulsozialarbeit Jugendamt: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Schulsozialarbeit Jugendamt

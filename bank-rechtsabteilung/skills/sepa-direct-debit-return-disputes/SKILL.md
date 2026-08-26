@@ -1,6 +1,6 @@
 ---
 name: sepa-direct-debit-return-disputes
-description: "Wenn es um SEPA Lastschriftstreit in Bank-Rechtsabteilung geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für SEPA Lastschriftstreit: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # SEPA Lastschriftstreit

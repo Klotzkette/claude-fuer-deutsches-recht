@@ -1,6 +1,6 @@
 ---
 name: energie-offshore-netzanbindung
-description: "Wenn es um Energie: Offshore-Netzanbindung in Bundesnetzagentur-Verfahren geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
+description: "Für Energie: Offshore-Netzanbindung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Energie: Offshore-Netzanbindung

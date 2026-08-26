@@ -1,6 +1,6 @@
 ---
 name: polizei-feuerwehr-praesidialrat-mitwirkung
-description: "Wenn es um Polizei Feuerwehr Vollzug Sonderdienst in Beamtenrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Polizei Feuerwehr Vollzug Sonderdienst: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Schnittstellenkarte mit Zuständigkeits- und Nachweisfragen."
 ---
 
 # Polizei Feuerwehr Vollzug Sonderdienst

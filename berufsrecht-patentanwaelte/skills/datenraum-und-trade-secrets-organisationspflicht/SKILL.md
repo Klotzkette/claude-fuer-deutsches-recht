@@ -1,6 +1,6 @@
 ---
 name: datenraum-und-trade-secrets-organisationspflicht
-description: "Wenn es um Datenraum Und Trade Secrets Organisationspflicht in Berufsrecht Patentanwälte geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Datenraum und Trade Secrets Organisationspflicht: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Patentanwälte: datenraum und trade secrets - Organisationspflichten, Prävention, Team-Anweisung und Fristenkontrolle

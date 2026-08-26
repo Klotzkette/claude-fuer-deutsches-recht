@@ -1,6 +1,6 @@
 ---
 name: besoldung-verfassungswidrig-a-besoldung
-description: "Wenn es um Verfassungswidrige A-Besoldung — Mindestabstandsgebot und Geltendmachung in Beamtenrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Verfassungswidrige A-Besoldung — Mindestabstandsgebot und Geltendmachung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Verfassungswidrige A-Besoldung — Mindestabstandsgebot und Geltendmachung

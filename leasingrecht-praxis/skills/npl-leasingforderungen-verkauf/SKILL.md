@@ -1,6 +1,6 @@
 ---
 name: npl-leasingforderungen-verkauf
-description: "Wenn es um NPL-Leasingforderungen: Verkauf und Restrukturierung in Leasingrecht Praxis geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für NPL-Leasingforderungen: Verkauf und Restrukturierung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # NPL-Leasingforderungen: Verkauf und Restrukturierung

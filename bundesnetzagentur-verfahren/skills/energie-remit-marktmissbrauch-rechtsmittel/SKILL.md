@@ -1,6 +1,6 @@
 ---
 name: energie-remit-marktmissbrauch-rechtsmittel
-description: "Wenn es um Energie-Regulierungsakte: REMIT Marktmissbrauch Energie — Rechtsmittel-Check in Bundesnetzagentur-Verfahren geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Energie-Regulierungsakte: REMIT Marktmissbrauch Energie — Rechtsmittel-Check: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Energie-Regulierungsakte: REMIT Marktmissbrauch Energie — Rechtsmittel-Check

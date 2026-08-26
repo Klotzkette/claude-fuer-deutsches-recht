@@ -1,6 +1,6 @@
 ---
 name: board-pack-erste-100-tage
-description: "Wenn es um Board Pack erste 100 Tage in gesellschaftsgründer — Gründungsassistent für deutsche geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Dokumentenmatrix mit Nachforderungsliste."
+description: "Für Board Pack erste 100 Tage: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Board Pack erste 100 Tage

@@ -1,6 +1,6 @@
 ---
 name: protokoll-und-nachbereitung
-description: "Wenn es um Protokoll und Nachbereitung in Berufsgerichtliche Verfahren Freie Berufe geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Tatbestands- oder Anspruchsmatrix mit Gegenargumenten."
+description: "Für Protokoll und Nachbereitung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt. Fachgebiet: Berufsgerichtliche Verfahren Freie Berufe."
 ---
 
 # Protokoll und Nachbereitung

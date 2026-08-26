@@ -1,6 +1,6 @@
 ---
 name: aussenwirtschaft-reexport-weitergabe-kettenlieferung
-description: "Wenn es um Re-Export und Kettenlieferung: Weitergabeverbote und Catch-All-Risiken in Außenwirtschaft, Sanktionen, Zoll und CBAM geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Re-Export und Kettenlieferung: Weitergabeverbote und Catch-All-Risiken: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Re-Export und Kettenlieferung: Weitergabeverbote und Catch-All-Risiken

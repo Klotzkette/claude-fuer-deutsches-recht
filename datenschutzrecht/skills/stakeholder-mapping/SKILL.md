@@ -1,6 +1,6 @@
 ---
 name: stakeholder-mapping
-description: "Wenn es um Stakeholder-Mapping nach Datenschutzvorfall in Datenschutzrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Stakeholder-Mapping nach Datenschutzvorfall: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Stakeholder-Mapping nach Datenschutzvorfall
@@ -40,3 +40,7 @@ Stakeholder; Rolle; Pflicht oder freiwillig; Zeitpunkt; Verantwortlicher intern;
 - `dsv-meldung-art-33-pflichtangaben` deckt die Behördenmeldung ab; bei Bedarf zusätzlich ziehen.
 - `dsv-benachrichtigung-art-34-betroffene` deckt die Benachrichtigung Betroffener ab.
 - `dsv-bussgeldverteidigung-art-83` und `dsv-schadensersatz-art-82` decken die anwaltliche Nachbearbeitung ab.
+
+## Vertiefung bei Bedarf
+
+- Bei `dsv-stakeholder-mapping` beziehungsweise Kartiert alle internen und externen Stakeholder eines Datenschutzvorfalls inklusive Informationsbedarf, Zeitpunkt und Verantwortlicher: [die zusätzliche Vertiefung laden](./references/vertiefung-dsv-stakeholder-mapping.md).

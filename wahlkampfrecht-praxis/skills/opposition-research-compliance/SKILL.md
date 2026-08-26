@@ -1,6 +1,6 @@
 ---
 name: opposition-research-compliance
-description: "Wenn es um Opposition Research Compliance in Wahlkampfrecht Praxis geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Opposition Research Compliance: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Opposition Research Compliance

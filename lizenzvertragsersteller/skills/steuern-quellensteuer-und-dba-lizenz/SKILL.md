@@ -1,6 +1,6 @@
 ---
 name: steuern-quellensteuer-und-dba-lizenz
-description: "Wenn es um Steuern und Quellensteuer — Lizenz in Lizenzvertragsersteller geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Steuern und Quellensteuer — Lizenz: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Schnittstellenkarte mit Zuständigkeits- und Nachweisfragen."
 ---
 
 # Steuern und Quellensteuer — Lizenz

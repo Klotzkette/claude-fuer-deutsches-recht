@@ -1,6 +1,6 @@
 ---
 name: v392-praxisraster-richter-familiengericht
-description: "Wenn es um Praxisraster Familiengericht in Familiengericht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Beweislast- und Substantiierungsmatrix."
+description: "Für Praxisraster Familiengericht: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Praxisraster Familiengericht

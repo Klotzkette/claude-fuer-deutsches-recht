@@ -1,6 +1,6 @@
 ---
 name: verfall-nichtigkeit-und-loeschungsantrag
-description: "Wenn es um Verfall, Nichtigkeit und Löschung in markenrecht-fashion-luxus geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Verfall, Nichtigkeit und Löschung: erstellt Entwurf mit Antrag, Beweis und Anlagen; Ergebnis: Schriftsatz mit Begründungs- und Anlagenlogik."
 ---
 
 # Verfall, Nichtigkeit und Löschung

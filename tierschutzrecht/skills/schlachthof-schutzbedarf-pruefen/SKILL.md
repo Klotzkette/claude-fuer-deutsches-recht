@@ -1,6 +1,6 @@
 ---
 name: schlachthof-schutzbedarf-pruefen
-description: "Wenn es um Schlachthof Schutzbedarf Prüfen in Tierschutzrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Schlachthof Schutzbedarf Prüfen: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt. Fachgebiet: Tierschutzrecht. Route: schlachthof-schutzbedarf-pruefen."
 ---
 
 # Schlachthof Schutzbedarf Prüfen

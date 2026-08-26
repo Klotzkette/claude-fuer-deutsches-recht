@@ -1,6 +1,6 @@
 ---
 name: bk-mandantenrouting-anlegeranspruch
-description: "Wenn es um Bk Mandantenrouting Anlegeranspruch in Fachanwalt Bank Kapitalmarktrecht geht: klärt Rolle, Ziel, Frist, Unterlagen und den passenden nächsten Fachskill; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Bk Mandantenrouting Anlegeranspruch: routet Rolle, Frist, Unterlagen und Fachschritt; Ergebnis: Tatbestands- oder Anspruchsmatrix."
 ---
 
 # Routing-Tabelle Anlegeranspruch: Lebensversicherung, Geschlossener Fonds, Zertifikat, ETF, Cum-Ex / Cum-Cum, Krypto

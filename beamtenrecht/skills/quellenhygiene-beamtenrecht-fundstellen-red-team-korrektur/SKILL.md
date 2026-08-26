@@ -1,6 +1,6 @@
 ---
 name: quellenhygiene-beamtenrecht-fundstellen-red-team-korrektur
-description: "Wenn es um Quellenhygiene im Beamten- und Richterrecht in Beamtenrecht geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Gegenprüfung mit Fehler-, Beweis- und Fristencheck."
+description: "Für Quellenhygiene im Beamten- und Richterrecht: prüft Ergebnis, Beweislast und Gegenposition; Ergebnis: Gegenprüfung mit Beweis- und Fristencheck."
 ---
 
 # Quellenhygiene im Beamten- und Richterrecht

@@ -1,6 +1,6 @@
 ---
 name: aussergewoehnliche-umstaende-strikt
-description: "Wenn es um Aussergewoehnliche Umstaende in Fluggastrechte geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Außergewöhnliche Umstände: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Aussergewoehnliche Umstaende

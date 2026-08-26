@@ -1,6 +1,6 @@
 ---
 name: sanierungsgewinn-eu-beihilfe-und-altmark
-description: "Wenn es um Sanierungsgewinn – EU-Beihilfe und Altmark in Großkanzlei Corporate/M&A geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Sanierungsgewinn – EU-Beihilfe und Altmark: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Schnittstellenkarte mit Zuständigkeits- und Nachweisfragen."
 ---
 
 # Sanierungsgewinn – EU-Beihilfe und Altmark
@@ -129,3 +129,7 @@ Drei Beobachtungen aus der Beihilfepraxis bei Sanierungen:
 - Paragraf 8c Abs. 1a KStG; Paragraf 3a EStG; Paragraf 7b GewStG – gesetze-im-internet.de.
 - BMF-Schreiben vom 27.04.2017 – Bundessteuerblatt Stand 06/2026.
 - FG Köln, Urteil vom 04.11.2025 - 12 K 1413/25: Eine Steuerbefreiung nach Paragraf 3a EStG setzt den Nachweis von Sanierungsbedürftigkeit, Sanierungsfähigkeit, Sanierungseignung, Sanierungsabsicht und betrieblicher Veranlassung des Schuldenerlasses voraus; die Eignung ist aus Sicht des Erlasszeitpunkts zu beurteilen.
+
+## Vertiefung bei Bedarf
+
+- Bei `gk-sanierungsgewinn-eu-beihilfe-und-altmark` beziehungsweise EU-beihilferechtliche Prüfung von Sanierungsmaßnahmen nach Art: [die zusätzliche Vertiefung laden](./references/vertiefung-gk-sanierungsgewinn-eu-beihilfe-und-altmark.md).

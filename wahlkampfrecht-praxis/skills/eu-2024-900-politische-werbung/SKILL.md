@@ -1,6 +1,6 @@
 ---
 name: eu-2024-900-politische-werbung
-description: "Wenn es um Eu 2024 900 Politische Werbung in Wahlkampfrecht Praxis geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Eu 2024 900 Politische Werbung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Schnittstellenkarte mit Zuständigkeits- und Nachweisfragen."
 ---
 
 # Eu 2024 900 Politische Werbung

@@ -1,6 +1,6 @@
 ---
 name: section-36-vs-deutsche-schranken-schranke
-description: "Wenn es um Section 36 Vs Deutsche Schranken Schranke in Verhältnismäßigkeitsprüfer geht: entwickelt Verhandlungsziel, Vergleichskorridor und Eskalationspfad; liefert eine Verhandlungs- oder Eskalationslinie mit Optionen."
+description: "Für Section 36 Vs Deutsche Schranken Schranke: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Schnittstellenkarte mit Zuständigkeits- und Nachweisfragen."
 ---
 
 # Section 36 Vs Deutsche Schranken Schranke

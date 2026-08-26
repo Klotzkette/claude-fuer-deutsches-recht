@@ -1,6 +1,6 @@
 ---
 name: eigenverwaltung-schutzschirm-paragraf-270b-inso
-description: "Wenn es um vorläufige Eigenverwaltung nach Paragraf 270b InsO oder den Schutzschirm nach Paragraf 270d InsO geht: trennt Zugang, Eigenverwaltungsplanung, Bescheinigung, Planfrist und Abbruchrisiken; liefert eine belastbare Antrags- und Entscheidungsmappe."
+description: "Für Vorläufige Eigenverwaltung und Schutzschirm: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Vorläufige Eigenverwaltung und Schutzschirm

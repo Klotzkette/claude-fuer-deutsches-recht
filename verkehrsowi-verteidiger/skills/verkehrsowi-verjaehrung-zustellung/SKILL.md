@@ -1,6 +1,6 @@
 ---
 name: verkehrsowi-verjaehrung-zustellung
-description: "Wenn es um Verfolgungsverjaehrung und Zustellungsmaengel — Paragraf 31 OWiG in VerkehrsOWi-Verteidiger geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Verfolgungsverjährung und Zustellungsmängel — Paragraf 31 OWiG: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Verfolgungsverjaehrung und Zustellungsmaengel — § 31 OWiG

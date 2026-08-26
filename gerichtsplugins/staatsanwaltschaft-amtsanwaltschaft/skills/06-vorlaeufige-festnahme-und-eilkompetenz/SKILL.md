@@ -1,6 +1,6 @@
 ---
 name: 06-vorlaeufige-festnahme-und-eilkompetenz
-description: "Wenn es um 06 Vorlaeufige Festnahme und Eilkompetenz in Staatsanwaltschaft und Amtsanwaltschaft geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für 06 Vorläufige Festnahme und Eilkompetenz: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Schnittstellenkarte mit Zuständigkeits- und Nachweisfragen."
 ---
 
 # 06 Vorlaeufige Festnahme und Eilkompetenz

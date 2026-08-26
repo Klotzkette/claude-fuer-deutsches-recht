@@ -1,6 +1,6 @@
 ---
 name: famr-vermoegensauseinandersetzung-workflow
-description: "Wenn es um Famr Vermoegensauseinandersetzung Workflow in Fachanwalt Familienrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Famr Vermögensauseinandersetzung Workflow: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Vermögensauseinandersetzung im Scheidungsfall: Zugewinnausgleich Anfangs- und Endvermoegen, Auskunftsanspruch Paragraf 1379 BGB, Bewertungsstichtag, gemeinsame Konten und Immobilien

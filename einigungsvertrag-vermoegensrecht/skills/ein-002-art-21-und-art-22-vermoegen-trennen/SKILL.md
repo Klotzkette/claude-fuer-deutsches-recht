@@ -1,6 +1,6 @@
 ---
 name: ein-002-art-21-und-art-22-vermoegen-trennen
-description: "Wenn es um Art 21 Und Art 22 Vermoegen Trennen in Einigungsvertrag und Vermögensrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Art 21 und Art 22 Vermögen Trennen: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt. Fachgebiet: Einigungsvertrag und Vermögensrecht. Route: ein-002-art-21-und-art-22-vermoegen-trennen."
 ---
 
 # Art 21 Und Art 22 Vermoegen Trennen

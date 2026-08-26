@@ -1,6 +1,6 @@
 ---
 name: strafprozess-antragslog-beweisantraege-und-widerspruch
-description: "Wenn es um Strafprozess Antragslog Beweisantraege Und Widerspruch in Fachanwalt Strafrecht geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
+description: "Für Strafprozess Antragslog Beweisanträge und Widerspruch: erstellt Entwurf mit Antrag, Beweis und Anlagen; Ergebnis: Schriftsatz mit Begründungs- und Anlagenlogik."
 ---
 
 # Antragslog für die Hauptverhandlung: verwaltet Beweisanträge, Beweisermittlungsanträge, Widersprüche, § 257-StPO-Erklärungen, Ablehnungsbeschlüsse, Wiederholungsbedarf, Revisionssicherung und taktische Priorität.

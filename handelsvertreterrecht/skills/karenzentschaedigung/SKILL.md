@@ -1,6 +1,6 @@
 ---
 name: karenzentschaedigung
-description: "Wenn es um Karenzentschädigung nach Paragraf 90a HGB beim nachvertraglichen Wettbewerbsverbot in Handelsvertreterrecht und Vertriebsverträge geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Karenzentschädigung nach Paragraf 90a HGB beim nachvertraglichen Wettbewerbsverbot: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Karenzentschädigung nach § 90a HGB beim nachvertraglichen Wettbewerbsverbot

@@ -1,6 +1,6 @@
 ---
 name: grundrechte-pruefung-de-und-grch
-description: "Wenn es um Grundrechte prüfen — GG und GRCh in Subsumtions-Prüfer geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Grundrechte prüfen — GG und GRCh: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Tatbestands- oder Anspruchsmatrix."
 ---
 
 # Grundrechte prüfen — GG und GRCh

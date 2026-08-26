@@ -1,6 +1,6 @@
 ---
 name: missbrauchsaufsicht-tk-mitnutzung
-description: "Wenn es um TK-Missbrauchsaufsicht als Sonderkartellrecht in Telekommunikationsrecht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen."
+description: "Für TK-Missbrauchsaufsicht als Sonderkartellrecht: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # TK-Missbrauchsaufsicht als Sonderkartellrecht

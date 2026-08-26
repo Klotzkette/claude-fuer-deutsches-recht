@@ -1,6 +1,6 @@
 ---
 name: vertiefung-01-streitstand-ohne-blindzitat
-description: "Wenn es um Vertiefung: Streitstand ohne Blindzitat in Deutsche Rechtsgeschichte geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen."
+description: "Für Vertiefung: Streitstand ohne Blindzitat: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Vertiefung: Streitstand ohne Blindzitat

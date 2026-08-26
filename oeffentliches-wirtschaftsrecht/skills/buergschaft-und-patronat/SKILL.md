@@ -1,6 +1,6 @@
 ---
 name: buergschaft-und-patronat
-description: "Wenn es um Buergschaft Und Patronat in Öffentliches Wirtschaftsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Bürgschaft und Patronat: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Buergschaft Und Patronat

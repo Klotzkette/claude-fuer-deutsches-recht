@@ -1,6 +1,6 @@
 ---
 name: kanzlei-red-team-und-qualitaetskontrolle
-description: "Wenn es um Kanzlei: Red-Team und Qualitätskontrolle in Fachanwalt Medizinrecht geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Kanzlei: Red-Team und Qualitätskontrolle: prüft Ergebnis, Beweislast und Gegenposition; Ergebnis: Gegenprüfung mit Beweis- und Fristencheck. Fachgebiet: Fachanwalt Medizinrecht."
 ---
 
 # Kanzlei: Red-Team und Qualitätskontrolle

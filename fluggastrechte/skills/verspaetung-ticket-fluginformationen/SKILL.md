@@ -1,6 +1,6 @@
 ---
 name: verspaetung-ticket-fluginformationen
-description: "Wenn es um Verspaetung: Verhandlung, Vergleich und Eskalation in Fluggastrechte geht: entwickelt Verhandlungsziel, Vergleichskorridor und Eskalationspfad; liefert eine Verhandlungs- oder Eskalationslinie mit Optionen."
+description: "Für Verspätung: Verhandlung, Vergleich und Eskalation: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Verspaetung: Verhandlung, Vergleich und Eskalation

@@ -1,6 +1,6 @@
 ---
 name: verschaerfte-haftung-abgetretene-forderung
-description: "Wenn es um Verschärfte Haftung — Paragraf 819 BGB bei Bösgläubigkeit in bereicherungs-und-anfechtungsrecht-prüfer geht: rechnet Schwellen, Beträge, Varianten und Kontrollannahmen durch; liefert eine Berechnungstabelle mit Schwellen, Annahmen und Kontrollfragen. Auswahlstichwort: Verschaerfte Haftung Abgetretene Forderung; Arbeitsfeld: bereicherungs-und-anfechtungsrecht-prüfer."
+description: "Für Verschärfte Haftung — Paragraf 819 BGB bei Bösgläubigkeit: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Verschärfte Haftung — § 819 BGB bei Bösgläubigkeit

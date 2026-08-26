@@ -1,6 +1,6 @@
 ---
 name: workflow-mandantenkommunikation
-description: "Wenn es um Mandantenkommunikation in Fachanwalt Verkehrsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Mandantenkommunikation: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Mandantennachricht oder Entscheidungsvorlage. Fachgebiet: Fachanwalt Verkehrsrecht."
 ---
 
 # Mandantenkommunikation

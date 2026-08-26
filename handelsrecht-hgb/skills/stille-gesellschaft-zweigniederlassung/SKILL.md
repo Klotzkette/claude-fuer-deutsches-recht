@@ -1,6 +1,6 @@
 ---
 name: stille-gesellschaft-zweigniederlassung
-description: "Wenn es um Stille Gesellschaft Paragraf 230 HGB in Handelsrecht HGB geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Stille Gesellschaft Paragraf 230 HGB: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Stille Gesellschaft § 230 HGB

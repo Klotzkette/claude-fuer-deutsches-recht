@@ -1,6 +1,6 @@
 ---
 name: insolvenzverwaltungs-erstpruefung-und-mandatsziel
-description: "Wenn es um Insolvenzverwaltungs: Erstprüfung, Rollenklärung und Mandatsziel in Insolvenzverwaltung - IV-Cockpit geht: klärt Rolle, Ziel, Frist, Unterlagen und den passenden nächsten Fachskill; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Insolvenzverwaltungs: Erstprüfung, Rollenklärung und Mandatsziel: routet Rolle, Frist, Unterlagen und Fachschritt; Ergebnis: Tatbestands- oder Anspruchsmatrix."
 ---
 
 # Insolvenzverwaltungs: Erstprüfung, Rollenklärung und Mandatsziel

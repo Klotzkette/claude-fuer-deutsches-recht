@@ -1,6 +1,6 @@
 ---
 name: antraege-zahlen-schwellen-und-berechnung
-description: "Wenn es um Antraege: Zahlen, Schwellenwerte und Berechnung in DFG-Förderantrag geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
+description: "Für Anträge: Zahlen, Schwellenwerte und Berechnung: rechnet Beträge, Schwellen und Varianten; Ergebnis: Berechnungstabelle mit Annahmen und Kontrollfragen. Fachgebiet: DFG-Förderantrag. Route: antraege-zahlen-schwellen-und-berechnung."
 ---
 
 # Antraege: Zahlen, Schwellenwerte und Berechnung

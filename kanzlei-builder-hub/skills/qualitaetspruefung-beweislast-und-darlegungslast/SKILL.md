@@ -1,6 +1,6 @@
 ---
 name: qualitaetspruefung-beweislast-und-darlegungslast
-description: "Wenn es um Qualitaetspruefung: Beweislast, Darlegungslast und Substantiierung in Kanzlei-Builder-Hub geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Qualitätsprüfung: Beweislast, Darlegungslast und Substantiierung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Gegenprüfung mit Beweis- und Fristencheck."
 ---
 
 # Qualitaetspruefung: Beweislast, Darlegungslast und Substantiierung

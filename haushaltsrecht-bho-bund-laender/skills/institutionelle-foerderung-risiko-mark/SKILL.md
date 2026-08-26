@@ -1,6 +1,6 @@
 ---
 name: institutionelle-foerderung-risiko-mark
-description: "Wenn es um Institutionelle Förderung Risiko Mark in Haushaltsrecht BHO Bund und Länder geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Institutionelle Förderung Risiko Mark: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Institutionelle Förderung Risiko Mark

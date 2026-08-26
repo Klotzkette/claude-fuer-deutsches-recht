@@ -1,6 +1,6 @@
 ---
 name: spezial-paragraph-red-team-und-qualitaetskontrolle
-description: "Wenn es um Paragraph: Red-Team und Qualitätskontrolle in Schriftform und Textform im BGB geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Paragraph: Red-Team und Qualitätskontrolle: prüft Ergebnis, Beweislast und Gegenposition; Ergebnis: Gegenprüfung mit Beweis- und Fristencheck."
 ---
 
 # Paragraph: Red-Team und Qualitätskontrolle

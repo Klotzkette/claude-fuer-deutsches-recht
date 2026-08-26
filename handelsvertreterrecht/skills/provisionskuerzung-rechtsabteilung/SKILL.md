@@ -1,6 +1,6 @@
 ---
 name: provisionskuerzung-rechtsabteilung
-description: "Wenn es um Unberechtigte Provisionskürzungen — Stornoreserven und Rückforderungen nach Paragraf 87a HGB in Handelsvertreterrecht und Vertriebsverträge geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Unberechtigte Provisionskürzungen — Stornoreserven und Rückforderungen nach Paragraf 87a HGB: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Unberechtigte Provisionskürzungen — Stornoreserven und Rückforderungen nach § 87a HGB

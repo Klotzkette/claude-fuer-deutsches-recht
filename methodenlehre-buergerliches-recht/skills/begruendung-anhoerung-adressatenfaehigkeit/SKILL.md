@@ -1,6 +1,6 @@
 ---
 name: begruendung-anhoerung-adressatenfaehigkeit
-description: "Wenn es um Begründung, Anhörung und Adressatenfähigkeit in Methodenlehre bürgerliches Recht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Beweislast- und Substantiierungsmatrix."
+description: "Für Begründung, Anhörung und Adressatenfähigkeit: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Begründung, Anhörung und Adressatenfähigkeit

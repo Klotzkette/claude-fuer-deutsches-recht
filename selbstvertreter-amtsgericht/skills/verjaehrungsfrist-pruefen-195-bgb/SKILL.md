@@ -1,6 +1,6 @@
 ---
 name: verjaehrungsfrist-pruefen-195-bgb
-description: "Wenn es um Ist Ihre Forderung schon verjaehrt? in selbstvertreter-amtsgericht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Ist Ihre Forderung schon verjährt?: prüft Frist, Form, Zuständigkeit und Eilbedarf; Ergebnis: Fristen- und Risikoampel."
 ---
 
 # Ist Ihre Forderung schon verjaehrt?

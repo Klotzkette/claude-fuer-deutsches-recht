@@ -1,6 +1,6 @@
 ---
 name: beihilfen-drafting-europarecht
-description: "Wenn es um Beihilfen: Compliance-Dokumentation und Aktenvermerk in Europarecht-Kompass für deutsche Juristen geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen."
+description: "Für Beihilfen: Compliance-Dokumentation und Aktenvermerk: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Schnittstellenkarte mit Zuständigkeits- und Nachweisfragen."
 ---
 
 # Beihilfen: Compliance-Dokumentation und Aktenvermerk

@@ -1,6 +1,6 @@
 ---
 name: beweismittel-fotos-screenshots
-description: "Wenn es um Fotos und Screenshots als Belege in Bürokratieversteher und Entbürokratisierer geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Fotos und Screenshots als Belege: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Beweislast- und Substantiierungsmatrix."
 ---
 
 # Fotos und Screenshots als Belege

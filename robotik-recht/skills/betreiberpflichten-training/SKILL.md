@@ -1,6 +1,6 @@
 ---
 name: betreiberpflichten-training
-description: "Wenn es um Betreiberpflichten und Training in robotik-recht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt. Auswahlstichwort: Betreiberpflichten Training; Arbeitsfeld: robotik-recht."
+description: "Für Betreiberpflichten und Training: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt. Fachgebiet: robotik-recht. Route: betreiberpflichten-training."
 ---
 
 # Betreiberpflichten und Training

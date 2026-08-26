@@ -1,6 +1,6 @@
 ---
 name: rechtsabteilung-safe-wandeldarlehen-rookie-modus-begriffe
-description: "Wenn es um Rechtsabteilung: SAFE und Wandeldarlehen nach deutschem Recht in Venture Capital Geber geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Chronologie mit Belegmatrix und Widerspruchsliste."
+description: "Für Rechtsabteilung: SAFE und Wandeldarlehen nach deutschem Recht: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Rechtsabteilung: SAFE und Wandeldarlehen nach deutschem Recht

@@ -1,6 +1,6 @@
 ---
 name: gliederung-mandantenunterlagen-memorandum
-description: "Wenn es um Gliederung: Schriftsatz-, Brief- und Memo-Bausteine in Memorandums-Ersteller geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
+description: "Für Gliederung: Schriftsatz-, Brief- und Memo-Bausteine: erstellt Entwurf mit Antrag, Beweis und Anlagen; Ergebnis: Schriftsatz mit Begründungs- und Anlagenlogik."
 ---
 
 # Gliederung: Schriftsatz-, Brief- und Memo-Bausteine

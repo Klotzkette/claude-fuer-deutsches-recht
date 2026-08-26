@@ -1,6 +1,6 @@
 ---
 name: unwirksame-abnahmeklauseln-dreissig-jahre-und-nachholung
-description: "Wenn es um Unwirksame Abnahmeklauseln, 30-Jahres-Grenze und Nachholung in Bauträgervertrag-Prüfer geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
+description: "Für Unwirksame Abnahmeklauseln, 30-Jahres-Grenze und Nachholung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Unwirksame Abnahmeklauseln, 30-Jahres-Grenze und Nachholung

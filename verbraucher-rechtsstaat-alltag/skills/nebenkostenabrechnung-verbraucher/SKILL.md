@@ -1,6 +1,6 @@
 ---
 name: nebenkostenabrechnung-verbraucher
-description: "Wenn es um Nebenkostenabrechnung Verbraucher in Verbraucher im Rechtsstaat Alltag geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Nebenkostenabrechnung Verbraucher: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Nebenkostenabrechnung Verbraucher

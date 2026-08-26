@@ -1,6 +1,6 @@
 ---
 name: word-stil-ton
-description: "Wenn es um Word: Erstprüfung, Rollenklärung und Mandatsziel in diesem Spezialbereich geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Beweislast- und Substantiierungsmatrix."
+description: "Für Word: Erstprüfung, Rollenklärung und Mandatsziel: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Word: Erstprüfung, Rollenklärung und Mandatsziel

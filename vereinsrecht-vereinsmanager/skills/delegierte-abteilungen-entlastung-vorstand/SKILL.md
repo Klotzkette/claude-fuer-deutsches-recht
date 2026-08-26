@@ -1,6 +1,6 @@
 ---
 name: delegierte-abteilungen-entlastung-vorstand
-description: "Wenn es um Delegierte und Abteilungen in Vereinsrecht und Vereinsmanager geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Delegierte und Abteilungen: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Delegierte und Abteilungen

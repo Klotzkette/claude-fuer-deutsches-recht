@@ -1,6 +1,6 @@
 ---
 name: oeffentlich-rechtliche-parallel-konkurrenz
-description: "Wenn es um Öffentlich-rechtliche Rückforderung abgrenzen in bereicherungs-und-anfechtungsrecht-prüfer geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. Auswahlstichwort: Oeffentlich Rechtliche Parallel Konkurrenz; Arbeitsfeld: bereicherungs-und-anfechtungsrecht-prüfer."
+description: "Für Öffentlich-rechtliche Rückforderung abgrenzen: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt. Fachgebiet: bereicherungs-und-anfechtungsrecht-prüfer. Route: oeffentlich-rechtliche-parallel-konkurrenz."
 ---
 
 # Öffentlich-rechtliche Rückforderung abgrenzen

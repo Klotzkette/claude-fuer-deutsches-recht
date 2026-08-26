@@ -1,6 +1,6 @@
 ---
 name: aussenwirtschaft-us-ear-itar
-description: "Wenn es um US-Exportkontrolle EAR und ITAR als Touchpoint im EU-Mandat in Außenwirtschaft, Sanktionen, Zoll und CBAM geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für US-Exportkontrolle EAR und ITAR als Touchpoint im EU-Mandat: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # US-Exportkontrolle EAR und ITAR als Touchpoint im EU-Mandat

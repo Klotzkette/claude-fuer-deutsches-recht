@@ -1,6 +1,6 @@
 ---
 name: datenschutz-incident-hr-datenpanne
-description: "Wenn es um Datenschutz Incident HR Datenpanne in Start-up-HR-Personalabteilung Berlin geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Datenschutz Incident HR Datenpanne: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Datenschutz Incident HR Datenpanne

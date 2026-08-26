@@ -1,6 +1,6 @@
 ---
 name: energie-regulierungsakte-eeg-netzanschluss-einspeisemanagement-u
-description: "Wenn es um Energie-Regulierungsakte: EEG Netzanschluss Einspeisemanagement — Unterlagenanforderung in Bundesnetzagentur-Verfahren geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Dokumentenmatrix mit Nachforderungsliste."
+description: "Für Energie-Regulierungsakte: EEG Netzanschluss Einspeisemanagement — Unterlagenanforderung: ordnet Akte, Belege und Lücken; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Energie-Regulierungsakte: EEG Netzanschluss Einspeisemanagement — Unterlagenanforderung

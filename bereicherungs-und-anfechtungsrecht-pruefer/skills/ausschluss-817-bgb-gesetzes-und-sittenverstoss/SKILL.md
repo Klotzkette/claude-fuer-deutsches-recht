@@ -1,6 +1,6 @@
 ---
 name: ausschluss-817-bgb-gesetzes-und-sittenverstoss
-description: "Wenn es um Ausschluss nach Paragraf 817 BGB — Gesetzes- und Sittenverstoß in bereicherungs-und-anfechtungsrecht-prüfer geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. Auswahlstichwort: Ausschluss 817 BGB Gesetzes Und Sittenverstoss; Arbeitsfeld: bereicherungs-und-anfechtungsrecht-prüfer."
+description: "Für Ausschluss nach Paragraf 817 BGB — Gesetzes- und Sittenverstoß: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt. Fachgebiet: bereicherungs-und-anfechtungsrecht-prüfer. Route: ausschluss-817-bgb-gesetzes-und-sittenverstoss."
 ---
 
 # Ausschluss nach § 817 BGB — Gesetzes- und Sittenverstoß

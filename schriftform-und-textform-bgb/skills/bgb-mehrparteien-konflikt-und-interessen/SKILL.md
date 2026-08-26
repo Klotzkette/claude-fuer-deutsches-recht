@@ -1,6 +1,6 @@
 ---
 name: bgb-mehrparteien-konflikt-und-interessen
-description: "Wenn es um BGB: Mehrparteienkonflikt und Interessenmatrix in Schriftform und Textform im BGB geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für BGB: Mehrparteienkonflikt und Interessenmatrix: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # BGB: Mehrparteienkonflikt und Interessenmatrix

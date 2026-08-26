@@ -1,6 +1,6 @@
 ---
 name: patentsettlement-und-cross-license-litigation
-description: "Wenn es um Patentvergleich und Cross-License im Streit in patentrecht geht: entwickelt Verhandlungsziel, Vergleichskorridor und Eskalationspfad; liefert eine Verhandlungs- oder Eskalationslinie mit Optionen."
+description: "Für Patentvergleich und Cross-License im Streit: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Patentvergleich und Cross-License im Streit

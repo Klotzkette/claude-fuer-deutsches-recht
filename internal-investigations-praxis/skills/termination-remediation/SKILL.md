@@ -1,6 +1,6 @@
 ---
 name: termination-remediation
-description: "Wenn es um Kündigungsstrategie nach Internal Investigations in Internal Investigations Praxis geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Verhandlungs- oder Eskalationslinie mit Optionen."
+description: "Für Kündigungsstrategie nach Internal Investigations: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Kündigungsstrategie nach Internal Investigations

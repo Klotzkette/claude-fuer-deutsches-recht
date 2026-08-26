@@ -8,14 +8,14 @@ Diese Vollprüfung enthält top-10 von 89 Skills des Plugins `markenrecht-fashio
 
 1. **juristischer-argumentationskern** — Schaltet sich ein, wenn in Markenrecht Fashion Luxus ein juristisches Arbeitsprodukt tragfähig begründet werden muss; ve…
 2. **euipo-e-curia-versandmappe-endfertigen** — Endfertigt EUIPO-Widerspruch, Nichtigkeits- oder Verfallsantrag, Beschwerde zur Beschwerdekammer und anschließende Klage…
-3. **einstieg-routing** — Wenn es um Einstieg und Routing in markenrecht-fashion-luxus geht: klärt Rolle, Ziel, Frist, Unterlagen und den passende…
-4. **kaltstart-triage** — Wenn es um Kaltstart Triage in markenrecht-fashion-luxus geht: klärt Rolle, Ziel, Frist, Unterlagen und den passenden nä…
-5. **markenrecht-erstpruefung-und-mandatsziel** — Wenn es um Markenrecht: Erstprüfung, Rollenklärung und Mandatsziel in markenrecht-fashion-luxus geht: klärt Rolle, Ziel,…
-6. **rechtsabteilung-plattformhaftung-nach-louboutin-amazon** — Wenn es um Rechtsabteilung: Plattformhaftung nach Louboutin-Amazon in markenrecht-fashion-luxus geht: ordnet Sachverhalt…
-7. **geografische-angaben-kollektiv-gewaehrleistungsmarke** — Wenn es um Geografische Angaben, Kollektiv- und Gewährleistungsmarken in markenrecht-fashion-luxus geht: ordnet Sachverh…
-8. **rechtsabteilung-influencer-brand-use-und-erschoepfung** — Wenn es um Rechtsabteilung: Influencer-Brand-Use und Erschöpfung in markenrecht-fashion-luxus geht: ordnet Sachverhalt, …
-9. **rechtsabteilung-lookalike-relative** — Wenn es um Rechtsabteilung: Lookalike-Produkte und Rufausbeutung in markenrecht-fashion-luxus geht: ordnet Sachverhalt, …
-10. **discounter-graumarkt-dpma-bpatg-widerspruch** — Wenn es um Erschöpfung, Graumarkt und Brezelmann-Strategie in markenrecht-fashion-luxus geht: ordnet Sachverhalt, Norm, …
+3. **einstieg-routing** — Für Einstieg und Routing: routet Rolle, Frist, Unterlagen und Fachschritt; Ergebnis: Prüfprodukt mit Risiko und nächstem…
+4. **kaltstart-triage** — Für Kaltstart Triage: routet Rolle, Frist, Unterlagen und Fachschritt; Ergebnis: Prüfprodukt mit Risiko und nächstem Sch…
+5. **markenrecht-erstpruefung-und-mandatsziel** — Für Markenrecht: Erstprüfung, Rollenklärung und Mandatsziel: routet Rolle, Frist, Unterlagen und Fachschritt; Ergebnis: …
+6. **modehaeuser-uspto-wort-interessen-ttab** — Für Modehäuser: Dokumentenmatrix, Lückenliste und Nachforderung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Sc…
+7. **ki-generierte-marken-deepfake-counterfeit** — Für digitale Werkzeuge-generierte Markenverletzungen und Deepfake-Counterfeit: ordnet Norm, Beweislast und Gegenargument…
+8. **abmahnung-markenrecht-euipo-beschwerdekammer** — Für Markenrechtliche Abmahnung und Unterlassungserklärung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Schnitts…
+9. **nyc-korrespondenz-plattform-piraterie** — Für NYC-Korrespondenz und Conflict Check — Whitman Brennan Forsythe LLP: ordnet Norm, Beweislast und Gegenargument; Erge…
+10. **euipo-widerspruch-verteidigung-anmelder** — Verteidigt eine Unionsmarkenanmeldung gegen Widerspruch mit Benutzungseinrede, Warenbeschränkung, Zeichenabstand, Kennze…
 
 ---
 
@@ -139,7 +139,7 @@ Ausgangspunkt für dieses Plugin: Markeninhaber oder Widersprechender für Prior
 
 ## Skill: `euipo-e-curia-versandmappe-endfertigen`
 
-_Endfertigt EUIPO-Widerspruch, Nichtigkeits- oder Verfallsantrag, Beschwerde zur Beschwerdekammer und anschließende Klage zum Gericht der Europäischen Union: trennt EUIPO-Portal und e-Curia, prüft Frist, Verfahrenssprache, Waren und Dienstleistungen, ältere Rechte und Benutzungsnachweise, strukturiert Beweisbündel und liefert portalgerechte Einzeldateien mit Einreichungsbestätigung._
+_Endfertigt EUIPO-Widerspruch, Nichtigkeits- oder Verfallsantrag, Beschwerde zur Beschwerdekammer und anschließende Klage zum Gericht der Europäischen Union: trennt EUIPO-Portal und e-Curia, prüft Frist, Verfahrenssprache, Waren und Dienstleistungen, ältere Rechte und Benutzungsnachweise, strukturiert Beweisbündel und liefert portalgerechte Einzeldateien mit._
 
 # EUIPO- und e-Curia-Versandmappe endfertigen
 
@@ -175,7 +175,7 @@ Liefere je nach Stufe `euipo/`, `beschwerdekammer/` oder `e-curia/` mit Hauptdok
 
 ## Skill: `einstieg-routing`
 
-_Wenn es um Einstieg und Routing in markenrecht-fashion-luxus geht: klärt Rolle, Ziel, Frist, Unterlagen und den passenden nächsten Fachskill; liefert eine Fristen- und Risikoampel mit Sofortschritten._
+_Für Einstieg und Routing: routet Rolle, Frist, Unterlagen und Fachschritt; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt. Fachgebiet: markenrecht-fashion-luxus._
 
 # Einstieg und Routing
 
@@ -219,7 +219,7 @@ Dieser Einstieg routet **Markenrecht Fashion Luxus** vom ersten Sachverhalt zu R
 
 ## Skill: `kaltstart-triage`
 
-_Wenn es um Kaltstart Triage in markenrecht-fashion-luxus geht: klärt Rolle, Ziel, Frist, Unterlagen und den passenden nächsten Fachskill; liefert eine Fristen- und Risikoampel mit Sofortschritten._
+_Für Kaltstart Triage: routet Rolle, Frist, Unterlagen und Fachschritt; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt. Fachgebiet: markenrecht-fashion-luxus._
 
 ## Direktstart: lesen, entscheiden, liefern
 
@@ -441,7 +441,7 @@ Das Plugin deckt klassische Markenformen (Wort, Bild, Slogan) ebenso ab wie nich
 
 ## Skill: `markenrecht-erstpruefung-und-mandatsziel`
 
-_Wenn es um Markenrecht: Erstprüfung, Rollenklärung und Mandatsziel in markenrecht-fashion-luxus geht: klärt Rolle, Ziel, Frist, Unterlagen und den passenden nächsten Fachskill; liefert eine Fristen- und Risikoampel mit Sofortschritten._
+_Für Markenrecht: Erstprüfung, Rollenklärung und Mandatsziel: routet Rolle, Frist, Unterlagen und Fachschritt; Ergebnis: Tatbestands- oder Anspruchsmatrix._
 
 # Markenrecht: Erstprüfung, Rollenklärung und Mandatsziel
 
@@ -489,11 +489,11 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 
 ---
 
-## Skill: `rechtsabteilung-plattformhaftung-nach-louboutin-amazon`
+## Skill: `modehaeuser-uspto-wort-interessen-ttab`
 
-_Wenn es um Rechtsabteilung: Plattformhaftung nach Louboutin-Amazon in markenrecht-fashion-luxus geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt._
+_Für Modehäuser: Dokumentenmatrix, Lückenliste und Nachforderung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Schnittstellenkarte mit Zuständigkeits- und Nachweisfragen._
 
-# Rechtsabteilung: Plattformhaftung nach Louboutin-Amazon
+# Modehaeuser: Dokumentenmatrix, Lückenliste und Nachforderung
 
 ## Arbeitsweg
 
@@ -503,48 +503,32 @@ _Wenn es um Rechtsabteilung: Plattformhaftung nach Louboutin-Amazon in markenrec
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Markeninhaber, Lizenznehmer, Distributor, Online-Marktplatz, Zollbehörde, DPMA, EUIPO, LG (Markensenat), Wettbewerber/Fälscher.
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Markenanmeldung, Lizenzvertrag, Selektiv-Vertriebsvertrag, Abmahnung, Zollbeschlagnahme-Antrag, Verletzungsklage, Lookbook, EUIPO-Widerspruch — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
-## Fachkern: Rechtsabteilung: Plattformhaftung nach Louboutin-Amazon
-- **Normen-/Quellenanker:** MarkenG, UMV, DesignG/GGV, UWG, UrhG, GeschGehG, Zoll-/Grenzbeschlagnahme, DSA/Marketplace, Erschöpfung, Rufausbeutung und Schadensersatz.
-- **Entscheidende Weiche:** Kennzeichen/Design, Priorität, Benutzung, Verwechslungsgefahr, Bekanntheit, Erschöpfung, Plattformbeweis, Auskunft und Vollstreckung getrennt prüfen.
-- **Arbeitsprodukt:** Liefere eine fallbezogene `Norm / Tatsache / Beleg / Wertung / Gegenargument / nächster Schritt`-Matrix und einen direkt nutzbaren Textbaustein, wenn der Nutzer einen Entwurf braucht.
+## Spezialwissen: Modehaeuser: Dokumentenmatrix, Lückenliste und Nachforderung
+- **Normen-/Quellenanker:** DPMA, EUIPO, USPTO, NYC, KI.
 
-## Spezialkern: Rechtsabteilung: Plattformhaftung nach Louboutin-Amazon
+## Fallweichen
+Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur Rückfragen, die die nächste Weiche verändern:
 
-- **Konkretes Problem:** Markeninhaber prüfen, ob Marketplace-Auftritt dem Plattformbetreiber als eigene Nutzung zugerechnet werden kann.
-- **Norm-/Quellenanker:** MarkenG, UMV, DesignG, UWG, UrhG, Zoll-/Grenzbeschlagnahme, Plattformhaftung und Erschöpfung.
-- **Entscheidende Weiche:** Tatbestand, Dokumentenbeweis, Zuständigkeit, Frist, Rechtsfolge, Gegenargument und Eskalationsweg getrennt entscheiden; keine bloße To-do-Liste liefern.
-- **Arbeitsprodukt:** Rechtsabteilungsfähige Kurzentscheidung mit Ampel, Originalbelegen, offener-Tatsachen-Liste, Formulierungsvorschlag und nächstem Owner.
+1. Welche Rolle hat die fragende Person und wer ist Gegenüber?
+2. Welches konkrete Ziel soll erreicht oder verhindert werden?
+3. Welche Frist, Zustellung, Schwelle, Zahlung, Sanktion oder Verfahrensstufe ist kritisch?
+4. Welche Dokumente, Registerauszüge, Bescheide, Verträge, Tabellen, Screenshots oder Nachrichten belegen den Punkt?
+5. Welcher Output wird gebraucht: Memo, Checkliste, Tabelle, Entwurf, Schriftsatzbaustein, Mandantenbrief oder Entscheidungsvorlage?
 
-## Norm- und Rechtsprechungsanker
-
-EuGH, Urteil vom 22.12.2022 - C-148/21 und C-184/21; MarkenG §§ 14 ff.
-
-## Sofortprüfung
-
-1. Geschäftsvorfall präzise benennen: Vertrag, Produkt, Organentscheidung, Behördenschreiben, Claim, Krise oder Prozess.
-2. Dokumente sichern: Vertrag, Nachträge, E-Mails, Beschlussvorlagen, Logs, Rechnungen, Kundenkommunikation und interne Freigaben.
-3. Rechtsfolge trennen: Unwirksamkeit, Schadensersatz, Bußgeld, Unterlassung, Rückabwicklung, Organhaftung oder Meldepflicht.
-4. Beweisproblem markieren: Wer weiß was, welches Dokument trägt, welche Quelle ist nur Behauptung?
-5. Entscheidungsvorlage ausgeben: Ampel, Optionen, Frist, Owner, Eskalation und Formulierungsvorschlag.
-
-## Fachlicher Zuschnitt
-
-Markeninhaber prüfen, ob Marketplace-Auftritt dem Plattformbetreiber als eigene Nutzung zugerechnet werden kann.
-
-## Output für die Rechtsabteilung
-
-- One-page legal memo mit Risikoampel und klarer Empfehlung.
-- Belegmatrix mit Originalquelle, Datum, Verantwortlichem und Lücke.
-- Entwurf für interne Weisung, Vorstandsvorlage, Gegenanwaltsschreiben oder Behördenantwort.
-- Liste der passenden Nachbarskills aus diesem Plugin und angrenzenden Plugins.
+## Arbeitsworkflow
+1. **Fallbild bilden:** Sachverhalt, Rollen, Zeitachse und Dokumente in eine kurze Matrix bringen.
+2. **Rechtsrahmen setzen:** Normen, Zuständigkeiten, Fristen, Formfragen und Verfahrensstand zum Themenfeld **Modehaeuser** prüfen.
+3. **Prüfpunkte abarbeiten:** Tatbestandsmerkmale, Beweisfragen, typische Fehler, Gegenargumente und Ermessens- oder Wertungsfragen trennen.
+4. **Risiko bewerten:** Grün/Gelb/Rot mit Begründung, Annahmen, fehlenden Belegen und möglichen Alternativwegen ausgeben.
+5. **Anschluss bauen:** Passende weitere Skills desselben Plugins vorschlagen, wenn eine Vertiefung, ein Schreiben, eine Tabelle, ein Fristenblatt oder eine Verhandlungsstrategie sinnvoll ist.
 
 ---
 
-## Skill: `geografische-angaben-kollektiv-gewaehrleistungsmarke`
+## Skill: `ki-generierte-marken-deepfake-counterfeit`
 
-_Wenn es um Geografische Angaben, Kollektiv- und Gewährleistungsmarken in markenrecht-fashion-luxus geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen._
+_Für digitale Werkzeuge-generierte Markenverletzungen und Deepfake-Counterfeit: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt._
 
-# Geografische Angaben, Kollektiv- und Gewährleistungsmarken
+# KI-generierte Markenverletzungen und Deepfake-Counterfeit
 
 ## Arbeitsweg
 
@@ -554,37 +538,41 @@ _Wenn es um Geografische Angaben, Kollektiv- und Gewährleistungsmarken in marke
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Markeninhaber, Lizenznehmer, Distributor, Online-Marktplatz, Zollbehörde, DPMA, EUIPO, LG (Markensenat), Wettbewerber/Fälscher.
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Markenanmeldung, Lizenzvertrag, Selektiv-Vertriebsvertrag, Abmahnung, Zollbeschlagnahme-Antrag, Verletzungsklage, Lookbook, EUIPO-Widerspruch — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
-## Fachkern: Geografische Angaben, Kollektiv- und Gewährleistungsmarken
+## Fachkern: KI-generierte Markenverletzungen und Deepfake-Counterfeit
 - **Normen-/Quellenanker:** MarkenG, UMV, DesignG/GGV, UWG, UrhG, GeschGehG, Zoll-/Grenzbeschlagnahme, DSA/Marketplace, Erschöpfung, Rufausbeutung und Schadensersatz.
 - **Entscheidende Weiche:** Kennzeichen/Design, Priorität, Benutzung, Verwechslungsgefahr, Bekanntheit, Erschöpfung, Plattformbeweis, Auskunft und Vollstreckung getrennt prüfen.
 - **Arbeitsprodukt:** Liefere eine fallbezogene `Norm / Tatsache / Beleg / Wertung / Gegenargument / nächster Schritt`-Matrix und einen direkt nutzbaren Textbaustein, wenn der Nutzer einen Entwurf braucht.
 
-## Pflichtfragen
+## Intake
 
-- Zeichen enthält Ort, Region, Land, Qualitätsversprechen oder Zertifizierungsclaim?
-- Wer soll Inhaber sein: Unternehmen, Verband, Zertifizierer, öffentliche Stelle?
-- Welche Produkte, Standards, Kontrollsysteme und Nutzer?
-- Bestehen geschützte geografische Angaben oder Branchenregeln?
+- Verletzungsform: Fake-Shop, synthetisches Produktbild, Deepfake-Werbung, Voice/Jingle, Social Ad, Marketplace Listing.
+- Verwendete Marken, Logos, Produktformen, Models, Claims.
+- Plattform, Betreiber, Verkäufer, Zahlungsfluss, Domain, Hosting.
+- Belege und Eilbedarf.
 
 ## Prüfprogramm
 
-1. **Schutzregime wählen:** Individualmarke schützt Herkunft aus Unternehmen; Kollektiv/Gewährleistung schützt anders.
-2. **Irreführung und Freihaltebedürfnis:** Geografische Begriffe sind sensibel.
-3. **Satzung/Benutzungsbedingungen:** Nutzerkreis, Kontrollmechanismus, Sanktionen, Neutralität.
-4. **EU-Schutzsysteme:** Agrar/Lebensmittel/Spirituosen/Wein getrennt prüfen.
-5. **Marketing:** Qualitätszeichen nicht als leere Werbefloskel anmelden.
+1. **Markenrecht:** Zeichenbenutzung, Herkunftsfunktion, Verwechslungsgefahr, Rufausbeutung, bekannte Marke.
+2. **UWG/DSA:** Irreführung, Nachahmung, Notice-and-Action, Plattformeskalation.
+3. **AI-Act-Schnittstelle:** Transparenzpflichten nur prüfen, wenn der konkrete Anwendungszeitpunkt und Adressat passen.
+4. **Beweis:** Screenshots, Video, Metadaten, Testkauf, Zahlungsweg, DNS/WHOIS, Archiv.
+5. **Maßnahmenmix:** Plattformmeldung, Domain/Hoster, Zahlungsdienstleister, Abmahnung, eV, Strafanzeige bei Fälschungen.
 
-## Quellen
+## Warnung
 
-MarkenG, UMV und einschlägige EU-Herkunftsschutzquellen live prüfen.
+Nicht jede KI-Nähe ist Markenverletzung. Entscheidend bleibt konkrete kennzeichenmäßige Ausnutzung oder Irreführung.
 
 ---
 
-## Skill: `rechtsabteilung-influencer-brand-use-und-erschoepfung`
+## Skill: `abmahnung-markenrecht-euipo-beschwerdekammer`
 
-_Wenn es um Rechtsabteilung: Influencer-Brand-Use und Erschöpfung in markenrecht-fashion-luxus geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt._
+_Für Markenrechtliche Abmahnung und Unterlassungserklärung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Schnittstellenkarte mit Zuständigkeits- und Nachweisfragen._
 
-# Rechtsabteilung: Influencer-Brand-Use und Erschöpfung
+# Markenrechtliche Abmahnung und Unterlassungserklärung
+
+## Arbeitsbereich
+
+Markenrechtliche Abmahnung mit strafbewehrter Unterlassungserklärung erstellen: Mandant hat Markenverletzung entdeckt und will Abmahnung aussprechen oder hat Abmahnung erhalten und muss reagieren. Normen: § 14 MarkenG (Verletzungsansprüche), § 8 UWG (Unterlassung), § 14 Abs. 1 UWG n.F. 2021 (Kostenersatz). Prüfraster: Verletzungstatbestand, Hamburger Brauch Vertragsstrafe, Berechnung Abmahnkosten, Frist zur Abgabe. Output Abmahnung mit Unterlassungserklärung und Vertragsstrafe oder Gegenstellungnahme/modifizierte UE. Abgrenzung: Kein Eilantrag siehe messe-verletzung-und-gv-einsatz; kein DPMA-Widerspruch siehe dpma-widerspruch-und-löschung. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 
@@ -594,162 +582,66 @@ _Wenn es um Rechtsabteilung: Influencer-Brand-Use und Erschöpfung in markenrech
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Markeninhaber, Lizenznehmer, Distributor, Online-Marktplatz, Zollbehörde, DPMA, EUIPO, LG (Markensenat), Wettbewerber/Fälscher.
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Markenanmeldung, Lizenzvertrag, Selektiv-Vertriebsvertrag, Abmahnung, Zollbeschlagnahme-Antrag, Verletzungsklage, Lookbook, EUIPO-Widerspruch — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
-## Fachkern: Rechtsabteilung: Influencer-Brand-Use und Erschöpfung
+## Fachkern: Markenrechtliche Abmahnung und Unterlassungserklärung
 - **Normen-/Quellenanker:** MarkenG, UMV, DesignG/GGV, UWG, UrhG, GeschGehG, Zoll-/Grenzbeschlagnahme, DSA/Marketplace, Erschöpfung, Rufausbeutung und Schadensersatz.
 - **Entscheidende Weiche:** Kennzeichen/Design, Priorität, Benutzung, Verwechslungsgefahr, Bekanntheit, Erschöpfung, Plattformbeweis, Auskunft und Vollstreckung getrennt prüfen.
 - **Arbeitsprodukt:** Liefere eine fallbezogene `Norm / Tatsache / Beleg / Wertung / Gegenargument / nächster Schritt`-Matrix und einen direkt nutzbaren Textbaustein, wenn der Nutzer einen Entwurf braucht.
 
-## Spezialkern: Rechtsabteilung: Influencer-Brand-Use und Erschöpfung
+Die Abmahnung ist das erste Durchsetzungsinstrument im markenrechtlichen Werkzeugkasten. Für klôtzzkètté SA ist sie das Signal an Verletzer: Wir kennen die Verletzung, wir verfolgen sie, und wir geben Gelegenheit zur außergerichtlichen Bereinigung — bevor das Gericht entscheidet.
 
-- **Konkretes Problem:** Affiliate-Posts, Hashtags und Resale werden auf Marken- und Werberecht geprüft.
-- **Norm-/Quellenanker:** MarkenG, UMV, DesignG, UWG, UrhG, Zoll-/Grenzbeschlagnahme, Plattformhaftung und Erschöpfung.
-- **Entscheidende Weiche:** Tatbestand, Dokumentenbeweis, Zuständigkeit, Frist, Rechtsfolge, Gegenargument und Eskalationsweg getrennt entscheiden; keine bloße To-do-Liste liefern.
-- **Arbeitsprodukt:** Rechtsabteilungsfähige Kurzentscheidung mit Ampel, Originalbelegen, offener-Tatsachen-Liste, Formulierungsvorschlag und nächstem Owner.
-
-## Norm- und Rechtsprechungsanker
-
-MarkenG §§ 14, 24; UWG; Plattform-AGB
-
-## Sofortprüfung
-
-1. Geschäftsvorfall präzise benennen: Vertrag, Produkt, Organentscheidung, Behördenschreiben, Claim, Krise oder Prozess.
-2. Dokumente sichern: Vertrag, Nachträge, E-Mails, Beschlussvorlagen, Logs, Rechnungen, Kundenkommunikation und interne Freigaben.
-3. Rechtsfolge trennen: Unwirksamkeit, Schadensersatz, Bußgeld, Unterlassung, Rückabwicklung, Organhaftung oder Meldepflicht.
-4. Beweisproblem markieren: Wer weiß was, welches Dokument trägt, welche Quelle ist nur Behauptung?
-5. Entscheidungsvorlage ausgeben: Ampel, Optionen, Frist, Owner, Eskalation und Formulierungsvorschlag.
-
-## Fachlicher Zuschnitt
-
-Affiliate-Posts, Hashtags und Resale werden auf Marken- und Werberecht geprüft.
-
-## Output für die Rechtsabteilung
-
-- One-page legal memo mit Risikoampel und klarer Empfehlung.
-- Belegmatrix mit Originalquelle, Datum, Verantwortlichem und Lücke.
-- Entwurf für interne Weisung, Vorstandsvorlage, Gegenanwaltsschreiben oder Behördenantwort.
-- Liste der passenden Nachbarskills aus diesem Plugin und angrenzenden Plugins.
-
----
-
-## Skill: `rechtsabteilung-lookalike-relative`
-
-_Wenn es um Rechtsabteilung: Lookalike-Produkte und Rufausbeutung in markenrecht-fashion-luxus geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen._
-
-# Rechtsabteilung: Lookalike-Produkte und Rufausbeutung
-
-## Arbeitsweg
-
-- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
-- Fristen und Eilrisiken zuerst markieren: MarkenG § 47 Schutzdauer 10 Jahre, § 25 Benutzungsschonfrist 5 Jahre, Widerspruch DPMA 3 Monate, Nichtigkeitsantrag § 50 (10 Jahre Bösgläubigkeit).
-- Tragende Normen verifizieren: MarkenG §§ 4, 8, 9, 14, 15, 24 (Erschöpfung), UMV (VO 2017/1001), MMA, GemmuVO, UrhG §§ 2, 69, UWG §§ 3, 4 Nr. 3, 6, EU-Geoblocking-VO, ZollVO 608/2013 — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
-- Zuständige Stelle bestimmen und Adressaten richtig wählen: Markeninhaber, Lizenznehmer, Distributor, Online-Marktplatz, Zollbehörde, DPMA, EUIPO, LG (Markensenat), Wettbewerber/Fälscher.
-- Dokumente und Beweismittel sammeln und auf Lücken prüfen: Markenanmeldung, Lizenzvertrag, Selektiv-Vertriebsvertrag, Abmahnung, Zollbeschlagnahme-Antrag, Verletzungsklage, Lookbook, EUIPO-Widerspruch — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
-
-## Fachkern: Rechtsabteilung: Lookalike-Produkte und Rufausbeutung
-- **Normen-/Quellenanker:** MarkenG, UMV, DesignG/GGV, UWG, UrhG, GeschGehG, Zoll-/Grenzbeschlagnahme, DSA/Marketplace, Erschöpfung, Rufausbeutung und Schadensersatz.
-- **Entscheidende Weiche:** Kennzeichen/Design, Priorität, Benutzung, Verwechslungsgefahr, Bekanntheit, Erschöpfung, Plattformbeweis, Auskunft und Vollstreckung getrennt prüfen.
-- **Arbeitsprodukt:** Liefere eine fallbezogene `Norm / Tatsache / Beleg / Wertung / Gegenargument / nächster Schritt`-Matrix und einen direkt nutzbaren Textbaustein, wenn der Nutzer einen Entwurf braucht.
-
-## Spezialkern: Rechtsabteilung: Lookalike-Produkte und Rufausbeutung
-
-- **Konkretes Problem:** Luxury-Counsel trennt Marke, Design, Nachahmung und wettbewerbliche Eigenart.
-- **Norm-/Quellenanker:** MarkenG, UMV, DesignG, UWG, UrhG, Zoll-/Grenzbeschlagnahme, Plattformhaftung und Erschöpfung.
-- **Entscheidende Weiche:** Tatbestand, Dokumentenbeweis, Zuständigkeit, Frist, Rechtsfolge, Gegenargument und Eskalationsweg getrennt entscheiden; keine bloße To-do-Liste liefern.
-- **Arbeitsprodukt:** Rechtsabteilungsfähige Kurzentscheidung mit Ampel, Originalbelegen, offener-Tatsachen-Liste, Formulierungsvorschlag und nächstem Owner.
-
-## Norm- und Rechtsprechungsanker
-
-MarkenG § 14; UWG § 4 Nr. 3; DesignG
-
-## Sofortprüfung
-
-1. Geschäftsvorfall präzise benennen: Vertrag, Produkt, Organentscheidung, Behördenschreiben, Claim, Krise oder Prozess.
-2. Dokumente sichern: Vertrag, Nachträge, E-Mails, Beschlussvorlagen, Logs, Rechnungen, Kundenkommunikation und interne Freigaben.
-3. Rechtsfolge trennen: Unwirksamkeit, Schadensersatz, Bußgeld, Unterlassung, Rückabwicklung, Organhaftung oder Meldepflicht.
-4. Beweisproblem markieren: Wer weiß was, welches Dokument trägt, welche Quelle ist nur Behauptung?
-5. Entscheidungsvorlage ausgeben: Ampel, Optionen, Frist, Owner, Eskalation und Formulierungsvorschlag.
-
-## Fachlicher Zuschnitt
-
-Luxury-Counsel trennt Marke, Design, Nachahmung und wettbewerbliche Eigenart.
-
-## Output für die Rechtsabteilung
-
-- One-page legal memo mit Risikoampel und klarer Empfehlung.
-- Belegmatrix mit Originalquelle, Datum, Verantwortlichem und Lücke.
-- Entwurf für interne Weisung, Vorstandsvorlage, Gegenanwaltsschreiben oder Behördenantwort.
-- Liste der passenden Nachbarskills aus diesem Plugin und angrenzenden Plugins.
-
----
-
-## Skill: `discounter-graumarkt-dpma-bpatg-widerspruch`
-
-_Wenn es um Erschöpfung, Graumarkt und Brezelmann-Strategie in markenrecht-fashion-luxus geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt._
-
-# Erschöpfung, Graumarkt und Brezelmann-Strategie
-
-## Arbeitsweg
-
-- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
-- Fristen und Eilrisiken zuerst markieren: MarkenG § 47 Schutzdauer 10 Jahre, § 25 Benutzungsschonfrist 5 Jahre, Widerspruch DPMA 3 Monate, Nichtigkeitsantrag § 50 (10 Jahre Bösgläubigkeit).
-- Tragende Normen verifizieren: MarkenG §§ 4, 8, 9, 14, 15, 24 (Erschöpfung), UMV (VO 2017/1001), MMA, GemmuVO, UrhG §§ 2, 69, UWG §§ 3, 4 Nr. 3, 6, EU-Geoblocking-VO, ZollVO 608/2013 — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
-- Zuständige Stelle bestimmen und Adressaten richtig wählen: Markeninhaber, Lizenznehmer, Distributor, Online-Marktplatz, Zollbehörde, DPMA, EUIPO, LG (Markensenat), Wettbewerber/Fälscher.
-- Dokumente und Beweismittel sammeln und auf Lücken prüfen: Markenanmeldung, Lizenzvertrag, Selektiv-Vertriebsvertrag, Abmahnung, Zollbeschlagnahme-Antrag, Verletzungsklage, Lookbook, EUIPO-Widerspruch — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
-
-## Fachkern: Erschöpfung, Graumarkt und Brezelmann-Strategie
-- **Normen-/Quellenanker:** MarkenG, UMV, DesignG/GGV, UWG, UrhG, GeschGehG, Zoll-/Grenzbeschlagnahme, DSA/Marketplace, Erschöpfung, Rufausbeutung und Schadensersatz.
-- **Entscheidende Weiche:** Kennzeichen/Design, Priorität, Benutzung, Verwechslungsgefahr, Bekanntheit, Erschöpfung, Plattformbeweis, Auskunft und Vollstreckung getrennt prüfen.
-- **Arbeitsprodukt:** Liefere eine fallbezogene `Norm / Tatsache / Beleg / Wertung / Gegenargument / nächster Schritt`-Matrix und einen direkt nutzbaren Textbaustein, wenn der Nutzer einen Entwurf braucht.
-
-Brezelmann Discount KG (Bad Mergentheim) hat klôtzzkètté-Produkte über graue Kanäle bezogen und vertreibt sie nun im "Angebots-Regal" neben Haushaltsreinigern. Die Comtesse Beatrice de Klotzzkettie hat mich angerufen: "Das ist unerträglich für das Image." Die juristische Frage: Kann die Erschöpfung des Markenrechts hier durchbrochen werden?
-
-Erschöpfung ist das schwierigste Kapitel im Luxusmarkenrecht — aber es gibt legitime Angriffspunkte.
+Eine rechtssichere Abmahnung spart Gerichtskosten und schafft vollstreckbare Unterlassungsansprüche. Eine fehlerhafte Abmahnung kostet den Mandanten Geld und das Verfahren.
 
 ## Rechtsrahmen
 
-- **§ 24 MarkenG:** Erschöpfung im deutschen Recht — Markeninhaber kann Weitervertrieb nicht untersagen, wenn Ware mit Zustimmung in EWR in Verkehr gebracht wurde
-- **Art. 15 UMV:** Erschöpfung der Unionsmarke (inhaltsgleich)
-- **§ 24 II MarkenG / Art. 15 II UMV:** Erschöpfungsausnahme: "Berechtigte Gründe" des Inhabers — insbesondere Zustandsveränderungen oder Rufschädigung
+- **§ 14 V MarkenG:** Unterlassungsanspruch bei Markenverletzung
+- **§ 14 VI MarkenG:** Schadensersatz bei schuldhafter Verletzung (dreifache Berechnungsmethode: entgangener Gewinn, Verletzergewinn, Lizenzanalogie)
+- **§ 19 MarkenG:** Auskunftsanspruch als Vorstufe zum Schadensersatz
+- **§ 97a UrhG (analog):** Abmahnungserfordernis als Obliegenheit vor Klage (auch im Markenrecht üblicher Usus)
+- **§ 13 UWG n.F. (seit 12.2021):** Abmahnkosten-Regulation im UWG — beachte: im reinen Markenrecht gilt das UWG-Abmahnkostenrecht nicht unmittelbar, ist aber Maßstab
+- **Hamburger Brauch:** Richterrechtliche Vertragsstrafe-Klausel bei unklarer Verletzungsart — Verletzer unterwirft sich einer Vertragsstrafe "nach billigem Ermessen der Gläubigerin, im Streitfall durch Gericht überprüfbar"
+- **Neue Hamburger Formel:** Alternativ: Feste Vertragsstrafe ab EUR 5.000 je Verletzungshandlung (planungssicherer, aber weniger flexibel)
+- **§ 8 IV UWG:** Missbrauchsverbot bei UWG-Abmahnungen (beschränkt auf UWG-Ansprüche)
+- **§ 12 UWG:** Prozessuale Absicherung (Unterlassungsklage nach erfolgloser Abmahnung)
 
 ## Prüfungsschritte
 
-1. **Grundfrage: Liegt Erschöpfung vor?**
- - Wurde die Ware von klôtzzkètté SA (oder mit ihrer Zustimmung) erstmals im EWR in Verkehr gebracht?
- - Wenn JA: Grundsatz Erschöpfung — Weitervertrieb nicht verbietbar
- - Wenn NEIN: Keine Erschöpfung (z.B. Ware aus China-Markt ohne EU-Zulassung) → § 14 II MarkenG anwendbar
+1. **Vorprüfung:**
+ - Ist die klôtzzkètté-Marke eingetragen und in Kraft? (DPMA/EUIPO-Auszug)
+ - Liegt eine schützbare Verletzungshandlung vor? (§ 14 II Nr. 1/2/3 MarkenG)
+ - Wer ist der Verletzer (natürl./jurist. Person)? Identifizierung Impressum/Handelsregister
+ - Zuständiges Gericht im Streitfall (Markenrechtliche Spezialspruchkörper: LG Berlin, LG Hamburg, LG München I, LG Frankfurt, LG Köln, LG Düsseldorf)
 
-2. **Erschöpfungsausnahme § 24 II MarkenG — "Berechtigte Gründe":**
+2. **Abmahnschreiben formulieren:**
+ - Genaue Beschreibung der Verletzungshandlung (Datum, URL/Ort, Verletzungszeichen)
+ - Markenrechtliche Grundlage: § 14 II Nr. [1/2/3] MarkenG
+ - Forderungen: (a) Unterlassung + Unterlassungserklärung mit Vertragsstrafe, (b) Auskunft (§ 19 MarkenG), (c) Schadensersatz dem Grunde nach, (d) Kostenersatz
+ - Fristsetzung: in der Regel 7-14 Tage (bei offensichtlicher Verletzung kürzer möglich)
 
- **A — Rufschädigende Präsentation (§ 24 II Alt. 2):**
- - Brezelmann stellt klôtzzkètté-Handtasche zwischen Reinigungsmitteln und Schnäppchenware aus
- - EuGH Dior/Evora: Händler muss Luxusimage achten; grob rufschädigende Darstellung gibt Markeninhaber Unterlassungsrecht
- - Nachweis: Fotos der Präsentation, Kontext, Preisauszeichnung (EUR 89 statt EUR 1.200)
+3. **Unterlassungserklärung — Vertragsstrafe:**
+ - Hamburger Brauch: "…bei jeder schuldhaften Zuwiderhandlung eine von der klôtzzkètté SA nach billigem Ermessen festzusetzende, im Streitfall durch das zuständige Gericht zu überprüfende Vertragsstrafe zu zahlen."
+ - Alternative: Feste Vertragsstrafe EUR 10.000 je Verletzungshandlung (für Serienverletzer empfehlenswert)
+ - Klausel: Kein Abstrich (kein "mindestens EUR 1") — Erstunterwerfung muss Wiederholungsgefahr beseitigen
 
- **B — Wesentliche Zustandsveränderung (§ 24 II Alt. 1):**
- - Umverpacken, Umfüllen, Neuentwicklung
- - BGH Parfümflakon II: Umfüllen in andere Flasche = Zustandsveränderung
- - Entfernen von Echtheitscode: Zerstörung von Rückverfolgbarkeit = berechtigt
+4. **Reaktionsmöglichkeiten des Verletzers:**
+ - Unterlassungserklärung abgegeben: Wiederholungsgefahr entfallen → kein Eilantrag mehr nötig
+ - Modifizierte Unterlassungserklärung: Prüfen ob ausreichend (meist nicht)
+ - Keine Reaktion: Eilantrag §§ 935/940 ZPO
 
- **C — Verletzung selektiver Vertriebspflichten (EuGH Copad):**
- - Wenn Brezelmann die Ware von einem klôtzzkètté-Lizenznehmer/Händler erworben hat, der seine selektiven Vertriebspflichten verletzt hat → Erschöpfung nicht eingetreten (Copad-Grundsatz)
- - Nachweis der Bezugsquelle: § 19 MarkenG Auskunftsklage
-
-3. **Graumarkt-Strategie — Präventiv:**
- - Serialisierung/Serialnummern auf allen Produkten
- - Track-and-Trace-System (QR-Code/NFC-Chip)
- - Händlervertragsklausel: "Weiterverkauf ausschließlich an Endverbraucher; kein Verkauf an Großisten oder Händler außerhalb des Selektivvertriebs"
- - Menge pro Händler limitieren (verhindert Aufkauf für Graumarkt-Weitervertrieb)
+5. **Kostenrechnung:**
+ - Anwaltsgebühren nach RVG, Gegenstandswert (GW) bei Markenabmahnung: EUR 50.000-250.000 (je nach Bedeutung und Verletzungsumfang)
+ - GW EUR 100.000: 1,3 Geschäftsgebühr = EUR 2.019,50 + USt = ca. EUR 2.403
+ - Kostenerstattungspflicht des Verletzers: § 14 VI MarkenG (Ersatz der erforderlichen Kosten)
 
 ## Falltypische Konstellationen
 
-### Konstellation 1: Brezelmann im Sonderangebots-Regal
-Brezelmann kauft bei einem unauthorized Großhändler aus Osteuropa 200 klôtzzkètté-Schals (EWR-Ware, original). Stellt diese im Sonderangebots-Regal zwischen Reinigungsmitteln aus, Preisschild "79 Euro". Antrag auf Unterlassung gem. § 24 II MarkenG: Rufschädigende Darstellung + Irreführung (Preis suggeriert Ware sei minderwertig/Second-Hand).
+### Konstellation 1: Brezelmann Online-Shop "klotzkette-discount.de"
+Brezelmann betreibt Website, die unter dem Keyword "klôtzzkètté" günstige Nachahmungen bewirbt. Abmahnung wegen § 14 II Nr. 2 MarkenG (Verwechslungsgefahr) und §§ 5/6 UWG (irreführende/vergleichende Werbung). Frist: 10 Tage. Vertragsstrafe: EUR 15.000 je Handlung (Wiederholungsgefahr bereits belegt durch frühere Abmahnung).
 
-### Konstellation 2: Parallelimport aus Schweiz
-Importeur bringt klôtzzkètté-Parfum aus der Schweiz (nicht EWR) nach Deutschland. Keine EWR-Erschöpfung! § 14 II MarkenG greift: klôtzzkètté kann Einfuhr untersagen (Art. 15 I UMV: nur EWR-Erschöpfung, keine internationale Erschöpfung).
+### Konstellation 2: Influencer trägt gefälschtes klôtzzkètté-Stück auf Instagram
+Micro-Influencer (200k Follower) trägt offensichtliche Fälschung und taggt "@klotzkette_official" (fake Account). Abmahnung gegen Influencer auf § 14 II Nr. 1 (Identität) oder Nr. 2 (Verwechslungsgefahr). Separate Notice-and-Action gegen Instagram/Meta nach DSA (vgl. Skill `plattform-piraterie-donauzon`).
 
-### Konstellation 3: Umverpackung Parallelimport UK (post-Brexit)
-Nach Brexit: UK-Ware ist nicht mehr EWR-Ware. Parallelimport UK → DE: Keine Erschöpfung. Aber: Umverpackung für DE-Markt (Etiketten auf Deutsch)? BGH BMS/Paranova-Grundsätze: Nur wenn (1) notwendig für Marktzugang, (2) Herkunft angegeben, (3) Neuzustand klar, (4) keine Schädigung des Rufs, (5) vorherige Ankündigung an Markeninhaber.
+### Konstellation 3: Wiederholungstäter Brezelmann
+Brezelmann hat bereits eine Unterlassungserklärung abgegeben (Hamburger Brauch), verwendet das Zeichen erneut. Vertragsstrafe-Klage: Quantifizierung der Zuwiderhandlungen, EUR 5.000-15.000 je Fall. Parallele neue Abmahnung für neue Verletzungshandlungen.
 
 ## Quellen-Hardening
 
@@ -759,46 +651,297 @@ Nach Brexit: UK-Ware ist nicht mehr EWR-Ware. Parallelimport UK → DE: Keine Er
 
 ## Templates
 
-### Klageantrag Erschöpfungsausnahme (§ 24 II MarkenG)
+### Abmahnschreiben (Wortmarke DE, Standard)
 ```
-Klageanträge:
-1. Der Beklagte wird verurteilt, es zu unterlassen, Waren der
- Marke klôtzzkètté in einer rufschädigenden Weise zu
- präsentieren, insbesondere gemeinsam mit Waren aus dem
- Discountsegment unter Verwendung von Preisschildern, die
- den Luxuscharakter der Waren nicht erkennen lassen.
- (§ 24 II MarkenG, §§ 4 Nr. 3 / 6 UWG)
+ABMAHNUNG — VERTRAULICH
 
-2. Der Beklagte wird verurteilt, Auskunft zu erteilen über
- Bezugsquellen, Mengen und Einkaufspreise der Ware
- (§ 19 MarkenG).
+An: [Verletzer GmbH], [Adresse]
+
+Unsere Mandantin: klôtzzkètté SA, 23 Rue Saint-Honoré, Paris
+Unser Zeichen: [Az.], Datum: [...]
+
+Sehr geehrte Damen und Herren,
+
+wir vertreten die klôtzzkètté SA, Inhaberin der deutschen Wortmarke
+"klôtzzkètté" (DPMA-Reg.-Nr. [...], Klassen 14/18/25/35).
+
+Sie verwenden das Zeichen "[Verletzungszeichen]" im geschäftlichen
+Verkehr für [Waren/Dienstleistungen], was die Markenrechte unserer
+Mandantin verletzt (§ 14 II Nr. 2 MarkenG).
+
+Wir fordern Sie auf, bis [Frist, 10 Tage] die beiliegende
+strafbewehrte Unterlassungserklärung zu unterzeichnen sowie
+unsere Anwaltskosten in Höhe von EUR [X] zu erstatten.
+
+Bei Fristversäumnis werden wir ohne weitere Ankündigung gerichtliche
+Eilmaßnahmen beantragen.
+
+RA'in [Name], Partnerin
 ```
 
 ## Verweise auf andere Skills
 
-- `selektiver-vertrieb-coty` — Präventive Graumarkt-Absicherung
-- `agb-haendlervertrag-luxus` — Weiterverkaufsverbote in Händlerverträgen
-- `abmahnung-markenrecht-uwg` — Abmahnung gegen Brezelmann
-- `produktpiraterie-und-zoll` — Abgrenzung zu Produktpiraterie (Grauware vs. Fälschung)
+- `messe-verletzung-und-gv-einsatz` — Bei Eilbedürftigkeit direkt Gericht
+- `plattform-piraterie-donauzon` — Online-Verletzungen
+- `produktpiraterie-und-zoll` — Schwerere Verletzungsfälle
 
 ## Risiken & Stolperfallen
 
-- **Erschöpfung ist die Regel, Ausnahme ist eng:** Berechtigte Gründe nach § 24 II werden von Gerichten restriktiv ausgelegt; Bagatell-Rufschädigungen reichen nicht
-- **Beweislast bei § 24 II:** Markeninhaber trägt Beweislast für berechtigte Gründe
-- **Internationale Erschöpfung ausgeschlossen:** EU-Recht kennt nur regionale (EWR-) Erschöpfung — Ware aus Japan/USA/CH ist ohne Weiteres nicht erschöpft
-- **Copad-Nachweis schwierig:** Zu beweisen, dass Händler gegen selektive Vertriebspflichten verstoßen hat, erfordert lückenlose Lieferketten-Dokumentation
+- **Rechtsmissbrauch:** Zu weitgehende Abmahnungen (z.B. wegen Bagatellverletzungen mit hohem GW) können als rechtsmissbräuchlich gewertet werden (§ 8 IV UWG analog)
+- **Fehlende Markenrecherche vor Abmahnung:** Eigene Marke muss eingetragen und in Kraft sein — Abmahnung auf Basis einer inzwischen verfallenen Marke ist unwirksam
+- **Unterlassungserklärung mit Abstrich:** Enthält die Erklärung des Verletzers eine Einschränkung, ist Wiederholungsgefahr nicht beseitigt — nicht blind annehmen
+- **Fristlauf Vertragsstrafe:** Vertragsstrafe entsteht erst bei schuldhafter Zuwiderhandlung — bei sofortiger Unterwerfung kein automatisches Recht auf Zahlung
 
-## Triage-Fragen bei Graumarkt-Verletzung
+## Triage-Fragen vor Abmahnung
 
-Bevor rechtliche Schritte eingeleitet werden, klaere:
-1. Wurden die Waren erstmals im EWR durch den Rechteinhaber oder mit seiner Zustimmung in den Verkehr gebracht (§ 24 MarkenG / Art. 15 UMV — Erschoepfung)?
-2. Ist die Graumarktware unveraendert oder wurde sie umgepackt/neuetikettiert (§ 24 II MarkenG)?
-3. Liegt ein legitimes Interesse des Markeninhabers vor, das dem Erschoepfungseinwand entgegensteht?
-4. Stammen die Waren aus einem Parallel-Import aus Nicht-EWR-Ländern (kein Erschoepfungsschutz)?
+Bevor die Abmahnung abgeschickt wird, kläre:
+1. Ist die eigene Marke eingetragen, in Kraft und nicht im Verfall (§§ 26/49 MarkenG)?
+2. Handelt es sich um eine gewerbliche oder private Nutzung?
+3. Welche Verletzungshandlung genau — § 14 II Nr. 1 (Doppelidentität), Nr. 2 (Verwechslungsgefahr) oder Nr. 3 (Bekanntheitsschutz)?
+4. Ist der Verletzer im Inland greifbar (Impressum, HReg-Auszug)?
+5. Liegt Wiederholungsgefahr oder (erst) Erstbegehungsgefahr vor?
+6. Ist eine Abmahnung sinnvoll oder besteht Missbrauchsrisiko (§ 8 IV UWG analog)?
 
-## Aktuelle Rechtsprechung
+## Quellenkontrolle
+
+Deutsche Marke und Unionsmarke getrennt prüfen. Für absolute Schutzhindernisse insbesondere Paragraf 8 Markengesetz und Artikel 7 UMV, für Widerspruch und Verletzung die jeweils einschlägigen Tatbestände, Benutzungsschonfrist und Verfahrensregeln verwenden. Entscheidungen von Bundesgerichtshof, Bundespatentgericht, Gericht der Europäischen Union oder Gerichtshof der Europäischen Union nur mit konkretem Prüfmerkmal und verifizierter tragender Aussage zuordnen.
 
 > Quellenregel: Entscheidungen nur nach Prüfung einer amtlichen oder frei zugänglichen Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage ausgeben.
+
+---
+
+## Skill: `nyc-korrespondenz-plattform-piraterie`
+
+_Für NYC-Korrespondenz und Conflict Check — Whitman Brennan Forsythe LLP: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt._
+
+# NYC-Korrespondenz und Conflict Check — Whitman Brennan Forsythe LLP
+
+## Arbeitsweg
+
+- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
+- Fristen und Eilrisiken zuerst markieren: MarkenG § 47 Schutzdauer 10 Jahre, § 25 Benutzungsschonfrist 5 Jahre, Widerspruch DPMA 3 Monate, Nichtigkeitsantrag § 50 (10 Jahre Bösgläubigkeit).
+- Tragende Normen verifizieren: MarkenG §§ 4, 8, 9, 14, 15, 24 (Erschöpfung), UMV (VO 2017/1001), MMA, GemmuVO, UrhG §§ 2, 69, UWG §§ 3, 4 Nr. 3, 6, EU-Geoblocking-VO, ZollVO 608/2013 — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
+- Zuständige Stelle bestimmen und Adressaten richtig wählen: Markeninhaber, Lizenznehmer, Distributor, Online-Marktplatz, Zollbehörde, DPMA, EUIPO, LG (Markensenat), Wettbewerber/Fälscher.
+- Dokumente und Beweismittel sammeln und auf Lücken prüfen: Markenanmeldung, Lizenzvertrag, Selektiv-Vertriebsvertrag, Abmahnung, Zollbeschlagnahme-Antrag, Verletzungsklage, Lookbook, EUIPO-Widerspruch — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
+
+## Fachkern: NYC-Korrespondenz und Conflict Check — Whitman Brennan Forsythe LLP
+- **Normen-/Quellenanker:** MarkenG, UMV, DesignG/GGV, UWG, UrhG, GeschGehG, Zoll-/Grenzbeschlagnahme, DSA/Marketplace, Erschöpfung, Rufausbeutung und Schadensersatz.
+- **Entscheidende Weiche:** Kennzeichen/Design, Priorität, Benutzung, Verwechslungsgefahr, Bekanntheit, Erschöpfung, Plattformbeweis, Auskunft und Vollstreckung getrennt prüfen.
+- **Arbeitsprodukt:** Liefere eine fallbezogene `Norm / Tatsache / Beleg / Wertung / Gegenargument / nächster Schritt`-Matrix und einen direkt nutzbaren Textbaustein, wenn der Nutzer einen Entwurf braucht.
+
+Die Zusammenarbeit zwischen Steinacker Lichtenberg München und Whitman Brennan Forsythe LLP New York ist das transatlantische Rückgrat des klôtzzkètté-IP-Schutzes. Das Protokoll muss sitzen: Engagement Letters, Privilege-Schutz, Gebührenstruktur, Kommunikationsstandards — jeder Schritt ist juristisch und ethisch sorgfältig vorbereitet.
+
+Partner J. Halston Whitman III, Esq. (USD 1.450/h) und Senior Associate Eleanor M. Quintero, Esq. (USD 695/h) sind klôtzzkètté Inc.'s Trademark Practice Team in NYC.
+
+## Rechtsrahmen
+
+### Deutsches Recht (Steinacker Lichtenberg)
+- **BRAO §§ 43a/43b:** Berufsrechtliche Pflichten; Verschwiegenheitspflicht
+- **BORA §§ 1-6:** Grundpflichten des Anwalts
+- **§ 3 BORA:** Interessenkonflikt-Verbot
+- **Geldwäschegesetz (GwG):** Mandantenidentifizierung bei internationalem Mandat
+
+### US-Recht (Whitman Brennan Forsythe LLP)
+- **ABA Model Rules of Professional Conduct (MRPC):** Rule 1.7 (Conflict of Interest), Rule 1.9 (Former Clients), Rule 1.6 (Confidentiality), Rule 1.5 (Fees)
+- **New York Rules of Professional Conduct (NYRPC):** NY-spezifische Variationen der ABA Rules (ggf. strenger)
+- **FRCP 5.4:** Fee-Splitting Verbot mit Non-Lawyers — keine Vergütungsabsprachen Münchener Kanzlei ↔ NYC-Kanzlei, die als Fee-Splitting erscheinen könnten
+- **Attorney-Client Privilege (ACE):** US-Bundesrecht; Korrespondenz zwischen Anwalt und Mandant privilegiert; gilt auch für Korrespondenz zwischen Co-Counsels (Common Interest)
+- **Work Product Doctrine (Hickman v. Taylor, 329 U.S. 495 (1947)):** Anwalts-Arbeitsmaterialien in Erwartung von Litigation sind geschützt; in Discovery grundsätzlich nicht auszugeben
+- **Common Interest Privilege:** Wenn beide Kanzleien (München + NYC) gemeinsam einen Mandanten vertreten, ist ihre interne Kommunikation privilegiert (Common Interest/Joint Defense Agreement)
+
+## Prüfungsschritte
+
+### Schritt 1: Interessenkonflikt-Check (Conflict Check)
+
+**Steinacker Lichtenberg München:**
+1. Mandanten-Liste prüfen: Gibt es aktive Mandate gegen klôtzzkètté oder ihre Konkurrenten (Dior, Chanel, Hermès, Gucci, Prada in denselben Klassen)?
+2. Ehemalige Mandanten: 3-Jahres-Rückblick auf abgeschlossene Mandate
+3. Persönliche Konflikte der beteiligten Anwälte: Aufsichtsrat-Mitgliedschaften, Aktienbesitz, Familie
+4. Ergebnis dokumentieren: schriftlicher Conflict-Check-Bericht, Datum, unterzeichnet
+
+**Whitman Brennan Forsythe LLP NYC:**
+1. Digitale Conflict-Check-Datenbank: alle aktuellen und historischen Mandate
+2. Konkurrenten-Matrix für Fashion-Luxus: Dior, LVMH, Richemont-Gruppe, Kering-Gruppe
+3. J. Halston Whitman III: persönliche Beziehungen zu anderen Fashion-Boards?
+4. Eleanor Quintero: frühere Mandate vor Whitman Brennan Forsythe LLP?
+
+### Schritt 2: Engagement Letter
+
+**Pflichtinhalte (US-Standard, MRPC Rule 1.5):**
+- Leistungsumfang (Scope of Engagement): TTAB, USPTO, Federal Court, CBP
+- Stundensätze: J. Halston Whitman III USD 1.450/h; Eleanor M. Quintero USD 695/h
+- Retainer: USD 50.000 upfront für neue Angelegenheiten
+- Billing Cycle: monatlich, detaillierte Zeiterfassung
+- Communication Language: Englisch (USPTO-Verfahren); Deutsch für München-Korrespondenz
+- Außerordentliche Aufwendungen: Gerichtsgebühren, Gutachter, Reise, Expert Witnesses gesondert
+- Termination: 30 Tage Kündigung beidseitig; sofortige Kündigung bei Interessenkonflikt
+
+**Deutsch-amerikanische Koordination:**
+- Führung von Mandatsakten: Spiegeldokumentation in beiden Kanzleien
+- Strategische Entscheidungen: Munich leitet europäische Strategie; NYC für US
+- Rechnungsstellung: Whitman Brennan Forsythe LLP stellt direkt an klôtzzkètté Inc. (NY); Steinacker Lichtenberg an klôtzzkètté SA (Paris)
+- FRCP 5.4 Compliance: Kein Referral Fee zwischen den Kanzleien; nur direkte Mandantsbeziehungen
+
+### Schritt 3: Power of Attorney for USPTO
+
+**Form PTO-2848 / USPTO Power of Attorney:**
+- Authorizes Whitman Brennan Forsythe LLP to act before USPTO on behalf of klôtzzkètté Inc.
+- Scope: All pending and future trademark applications and registrations
+- Signatory: Authorized officer of klôtzzkètté Inc. (General Counsel or CEO)
+- Electronic submission via USPTO trademark.uspto.gov Customer Number system
+- Optional: Revoke previous POA if changing counsel
+
+**Domestic Representative (für ausländische Inhaber):**
+- Falls klôtzzkètté SA (Paris) direkt als Inhaber eingetragen: Domestic Representative erforderlich (37 C.F.R. § 2.24)
+- Domestic Rep = Person in USA für Service of Process
+- Whitman Brennan Forsythe LLP übernimmt diese Funktion
+
+### Schritt 4: Common Interest Agreement
+
+**Zweck:**
+- Schützt Kommunikation zwischen Münchener Kanzlei und NYC-Kanzlei vor Discovery
+- Beide Kanzleien verfolgen gemeinsame rechtliche Interessen desselben Mandanten
+
+**Inhalt Common Interest Agreement:**
+```
+Steinacker Lichtenberg (München) und Whitman Brennan Forsythe LLP (NYC)
+vereinbaren, dass:
+1. Alle zwischen ihnen ausgetauschten Informationen im Kontext des
+ klôtzzkètté SA/Inc.-Mandats dem Common Interest Privilege unterliegen.
+2. Keine Kanzlei ist verpflichtet, diese Informationen in Discovery preiszugeben.
+3. Das Agreement gilt ab [Datum] bis zum Ende des gemeinsamen Mandats.
+```
+
+### Schritt 5: Outside Counsel Guidelines (OCG)
+
+klôtzzkètté Inc. übermittelt OCG an Whitman Brennan Forsythe LLP:
+
+**Typische OCG-Regelungen:**
+- Pre-approval für Stunden über USD 25.000 pro Angelegenheit
+- Budget-Updates: monatlich; eskalation bei +15 % Abweichung
+- Staffing: Partner-Stunden max. 30 % des Gesamt-Budgets (außer Verhandlungen/Hearings)
+- Expenses: No first class travel; hotel max. USD 350/night NYC; max. USD 450 client dinners
+- eDiscovery: Separates Budget, Pre-approval erforderlich
+- Matter Management System: Zugang zu klôtzzkètté OCG-Portal für Rechnungseinreichung
+
+## Falltypische Konstellationen
+
+### Konstellation 1: Neues TTAB-Mandat — Intake-Protokoll
+klôtzzkètté SA ruft Steinacker Lichtenberg an: TTAB-Opposition nötig. Workflow: (1) Munich: Conflict Check + Scope-Brief an NYC; (2) NYC: eigener Conflict Check + Engagement Letter klôtzzkètté Inc.; (3) Common Interest Agreement unterzeichnet; (4) POA für USPTO eingereicht; (5) Eleanor Quintero beginnt TTAB-Verfahren; Munich liefert EU-Prior-Rights-Dokumentation.
+
+### Konstellation 2: Gebührenstreit — Überschreitung OCG
+Whitman Brennan Forsythe LLP überschreitet monatliches Budget um 40 % ohne Pre-approval. OCG-Eskalationsprotokoll: (1) Rechnungskorrektur für genehmigungspflichtigen Mehraufwand; (2) Post-hoc Genehmigung durch klôtzzkètté Inc. General Counsel; (3) Budget-Anpassung für Folgemonat.
+
+### Konstellation 3: Interessenkonflikt mid-Mandat
+Whitman Brennan Forsythe LLP nimmt neues Mandat für Kering SA (Gucci) in einer USPTO-Angelegenheit an, die indirekt klôtzzkètté-Interessen berührt. MRPC Rule 1.7 und NYRPC Rule 1.7: Informed consent beider Mandanten erforderlich, wenn materieller Konflikt. Falls kein Consent möglich: Withdrawal von einem der Mandate.
+
+## Quellen-Hardening
+
+- Keine Kommentar-, Handbuch-, Aufsatz-, BeckRS- oder juris-Blindzitate aus Modellwissen.
+- Registerdaten, Amtsformulare, Fristen, Gebühren und Behördenpraxis live bei DPMA, EUIPO, WIPO, USPTO oder den jeweils zuständigen Stellen prüfen.
+- Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und amtlicher oder frei zugänglicher Quelle ausgeben.
+
+## Templates
+
+### Engagement Letter Miniatur (US-Teil)
+```
+Whitman Brennan Forsythe LLP
+1290 Avenue of the Americas, New York, NY 10104
+
+klôtzzkètté Inc., attn.: [CEO/GC]
+712 Fifth Avenue, New York, NY 10019
+
+Re: Engagement for USPTO and TTAB Trademark Matters
+
+Dear [Name],
+
+This letter confirms our engagement to represent klôtzzkètté Inc.
+in connection with U.S. trademark prosecution, TTAB proceedings,
+and related enforcement matters.
+
+Fees: J. Halston Whitman III, Esq.: USD 1,450/hour
+ Eleanor M. Quintero, Esq.: USD 695/hour
+
+Initial Retainer: USD 50,000 (to be applied against fees and costs)
+
+Our representation is subject to this firm's conflicts policies.
+A conflicts check has been completed and no material conflict exists.
+
+Please sign and return one copy of this letter.
+
+J. Halston Whitman III, Esq.
+Trademark Practice Chair
+```
+
+## Verweise auf andere Skills
+
+- `uspto-anmeldung-und-lanham-act` — Operative USPTO-Tätigkeit NYC
+- `ttab-opposition-und-cancellation` — TTAB-Verfahren NYC
+- `us-counterfeit-und-customs-cbp` — CBP-Kooperation NYC
+- `fashion-luxus-kaltstart-interview` — Intake-Protokoll insgesamt
+
+## Risiken & Stolperfallen
+
+- **FRCP 5.4 Compliance:** Jede Vergütungsstruktur zwischen Münchener und NYC-Kanzlei, die nach Fee-Splitting aussieht, ist verboten; klare Trennung: jede Kanzlei rechnet direkt mit dem jeweiligen Mandanten ab
+- **Privilege-Verlust:** Weiterleitung von Anwaltskorrespondenz an Dritte (Berater, PR-Agenturen) kann Attorney-Client-Privilege zerstören
+- **Mid-Mandat Konflikte:** In der Modebranche kommt es zu Mandats-Konflikt-Risiken durch M&A (wenn Konkurrent von klôtzzkètté durch Klient gekauft wird); sofort eskalieren
+- **OCG-Bindungswirkung:** OCGs haben Vertragscharakter; Überschreitungen ohne Pre-Approval können zu Rechnungskürzungen durch klôtzzkètté Inc. führen
+
+## Triage-Fragen vor NYC-Korrespondenz
+
+Bevor die Briefing-E-Mail an Whitman Brennan Forsythe LLP abgeschickt wird, klaere:
+1. Wurde ein formeller Conflict Check durchgefuehrt und ist das Conflict-Clear-Memo in der Akte?
+2. Liegt ein unterzeichnetes Engagement Letter mit aktuellem Stundenhonorar vor?
+3. Gibt es bereits eine laufende Frist im US-Verfahren (USPTO Office Action, TTAB Response Deadline)?
+4. Welche Dokumente (EUTM-Auszuege, Benutzungsnachweise, Prioritaetsdokumente) müssen unverzueglich nach NYC geschickt werden?
+
+## Aktuelle Rechtsprechung (US/International)
+
+> **TTAB, Herbko Int'l Inc. v. Kappa Books Inc., 308 F.3d 1156 (Fed. Cir. 2002):** Im TTAB-Verfahren ist die Hauptaufgabe der New Yorker Korrespondenz die Koordination des US-Prosecutions-Records; spaetere Argumente, die in frueheren Responses nicht aufgenommen wurden, sind durch Prosecution History Estoppel gesperrt — daher ist fruehzeitige strategische Abstimmung zwischen Muenchen und NYC entscheidend.
+
+> **ABA Model Rules of Professional Conduct, Rule 1.7 / Rule 1.10:** Konflikte müssen schon vor Mandatsbeginn gecheckt werden; ein später entdeckter Interessenkonflikt erfordert Niederlegung des Mandats und kann US-Anwaltszulassung gefaehrden; internationale Kanzleien mit gemeinsamen Mandanten müssen einen konsolidierten Conflicts-Check fuehren.
+
+> Quellenregel: Entscheidungen nur nach Prüfung einer amtlichen oder frei zugänglichen Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage ausgeben.
+
+---
+
+## Skill: `euipo-widerspruch-verteidigung-anmelder`
+
+_Verteidigt eine Unionsmarkenanmeldung gegen Widerspruch mit Benutzungseinrede, Warenbeschränkung, Zeichenabstand, Kennzeichnungsschwäche, Vergleich und Beschwerdeoption._
+
+# EUIPO-Widerspruch Verteidigung Anmelder
+
+## 1. Direktstart
+
+Lies zuerst Veröffentlichung, ältere Rechte, Warenverzeichnis, Mandantenziel und Frist. Gib sofort eine Fristen- und Risikoampel aus: offen, knapp, versäumt, heilbar oder nur noch über Beschwerde beziehungsweise Vergleich steuerbar.
+
+## 2. Prüfraster
+
+1. Zuständigkeit und Verfahrenssprache beim EUIPO klären.
+2. Dreimonatsfrist ab Veröffentlichung und Gebührenstatus prüfen.
+3. Ältere Rechte substantiieren: Registerauszug, Inhaber, Priorität, Waren und Dienstleistungen, Vertretung.
+4. Art. 8 UMV nach Angriffsgrund trennen: Identität, Verwechslungsgefahr, Bekanntheit, nicht eingetragene Zeichen.
+5. Art. 47 UMV mitdenken, wenn ältere Marke benutzungspflichtig ist.
+6. Belege paarweise zuordnen: Ware, Gebiet, Zeitraum, Umfang, Zeichenform.
+7. Cooling-off, Warenbeschränkung oder Koexistenz nur mit klarer Reichweite empfehlen.
+
+## 3. Ausgabe
+
+| Teil | Inhalt |
+| --- | --- |
+| Fristenblatt | Veröffentlichung, Widerspruch, Begründung, Erwiderung, Cooling-off |
+| Belegmatrix | älteres Recht, Benutzungsbeleg, Warenbezug, Gebiet, Schwachstelle |
+| Schriftsatzkern | Antrag, ältere Rechte, Warenvergleich, Zeichenvergleich, Kennzeichnungskraft |
+| Gegenposition | Benutzungseinrede, Zeichenabstand, beschreibender Anklang, Koexistenz |
+| nächster Schritt | Einreichen, Belege nachfordern, Vergleich anbieten oder Beschwerde vorbereiten |
+
+## 4. Rechtliche Anker
+
+1. Art. 8 UMV für relative Widerspruchsgründe.
+2. Art. 46 UMV für Widerspruch und Dreimonatsfrist.
+3. Art. 47 UMV für Prüfung und Benutzungsnachweis.
+4. EUIPO Guidelines Part C Opposition, insbesondere Substantiierung und proof of use.
+5. Beschwerdekammerweg nach Art. 66 bis 71 UMV.
 
 ---
 

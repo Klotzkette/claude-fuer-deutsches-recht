@@ -1,6 +1,6 @@
 ---
 name: drafting-prinzipien-finaler-writing
-description: "Wenn es um Drafting-Prinzipien: Klarheit, Bestimmtheit, Praezision in diesem Spezialbereich geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Beweislast- und Substantiierungsmatrix."
+description: "Für Drafting-Prinzipien: Klarheit, Bestimmtheit, Präzision: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Drafting-Prinzipien: Klarheit, Bestimmtheit, Praezision

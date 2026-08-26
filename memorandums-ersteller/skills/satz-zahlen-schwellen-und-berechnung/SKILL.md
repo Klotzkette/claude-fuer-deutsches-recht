@@ -1,6 +1,6 @@
 ---
 name: satz-zahlen-schwellen-und-berechnung
-description: "Wenn es um Satz: Zahlen, Schwellenwerte und Berechnung in Memorandums-Ersteller geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
+description: "Für Satz: Zahlen, Schwellenwerte und Berechnung: rechnet Beträge, Schwellen und Varianten; Ergebnis: Berechnungstabelle mit Annahmen und Kontrollfragen."
 ---
 
 # Satz: Zahlen, Schwellenwerte und Berechnung

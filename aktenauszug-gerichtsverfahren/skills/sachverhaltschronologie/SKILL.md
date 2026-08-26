@@ -1,6 +1,6 @@
 ---
 name: sachverhaltschronologie
-description: "Wenn es um Sachverhaltschronologie in aktenauszug-gerichtsverfahren geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Chronologie mit Belegmatrix und Widerspruchsliste."
+description: "Für Sachverhaltschronologie: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Chronologie mit Beleg- und Widerspruchsmatrix."
 ---
 
 # Sachverhaltschronologie

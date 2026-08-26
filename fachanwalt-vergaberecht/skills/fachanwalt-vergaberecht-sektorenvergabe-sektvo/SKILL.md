@@ -1,6 +1,6 @@
 ---
 name: fachanwalt-vergaberecht-sektorenvergabe-sektvo
-description: "Wenn es um Sektorenvergabe (SektVO) in Fachanwalt Vergaberecht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
+description: "Für Sektorenvergabe (SektVO): ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Sektorenvergabe (SektVO)

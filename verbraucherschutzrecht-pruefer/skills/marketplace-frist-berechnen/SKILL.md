@@ -1,6 +1,6 @@
 ---
 name: marketplace-frist-berechnen
-description: "Wenn es um Marketplace Frist Berechnen in Verbraucherschutzrecht Prüfer geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Marketplace Frist Berechnen: prüft Frist, Form, Zuständigkeit und Eilbedarf; Ergebnis: Fristen- und Risikoampel."
 ---
 
 # Marketplace Frist Berechnen

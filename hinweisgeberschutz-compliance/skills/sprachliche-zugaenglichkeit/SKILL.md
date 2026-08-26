@@ -1,6 +1,6 @@
 ---
 name: sprachliche-zugaenglichkeit
-description: "Wenn es um Sprachliche Zugaenglichkeit in Hinweisgeberschutz, Meldestellen und NDA-Konflikte geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Sprachliche Zugänglichkeit: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Sprachliche Zugaenglichkeit

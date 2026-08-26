@@ -1,6 +1,6 @@
 ---
 name: strafrecht-spezial-btmg-31-aufklaerungshilfe-kronzeuge
-description: "Wenn es um Strafrecht Spezial Btmg 31 Aufklaerungshilfe Kronzeuge in Fachanwalt Strafrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Strafrecht Spezial Btmg 31 Aufklärungshilfe Kronzeuge: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Schnittstellenkarte mit Zuständigkeits- und Nachweisfragen."
 ---
 
 # § 31 BtMG kleine Kronzeugenregelung: Strafmilderung oder Absehen von Strafe bei wesentlicher Aufklaerungshilfe

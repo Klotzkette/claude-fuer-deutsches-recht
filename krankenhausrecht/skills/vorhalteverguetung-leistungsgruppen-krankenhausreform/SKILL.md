@@ -1,6 +1,6 @@
 ---
 name: vorhalteverguetung-leistungsgruppen-krankenhausreform
-description: "Wenn es um Vorhalteverguetung Leistungsgruppen Krankenhausreform in Krankenhausrecht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
+description: "Für Vorhaltevergütung Leistungsgruppen Krankenhausreform: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Vorhalteverguetung Leistungsgruppen Krankenhausreform

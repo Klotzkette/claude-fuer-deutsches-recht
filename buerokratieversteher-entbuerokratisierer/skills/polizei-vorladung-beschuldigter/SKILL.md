@@ -1,6 +1,6 @@
 ---
 name: polizei-vorladung-beschuldigter
-description: "Wenn es um Polizei-Vorladung als Beschuldigter in Bürokratieversteher und Entbürokratisierer geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
+description: "Für Polizei-Vorladung als Beschuldigter: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Polizei-Vorladung als Beschuldigter

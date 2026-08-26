@@ -1,6 +1,6 @@
 ---
 name: eviktion-und-sachmaengel
-description: "Wenn es um Eviktion Und Sachmaengel in Römisches Recht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Eviktion und Sachmängel: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Eviktion Und Sachmaengel

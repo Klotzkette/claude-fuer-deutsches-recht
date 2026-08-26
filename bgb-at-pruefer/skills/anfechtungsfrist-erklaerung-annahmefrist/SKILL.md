@@ -1,6 +1,6 @@
 ---
 name: anfechtungsfrist-erklaerung-annahmefrist
-description: "Wenn es um Anfechtungsfrist, Anfechtungserklärung und Bestätigung — Paragrafen 121 bis 124 und Paragraf 144 BGB in BGB AT Prüfer geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. Auswahlstichwort: Anfechtungsfrist Erklaerung Annahmefrist; Arbeitsfeld: BGB AT Prüfer."
+description: "Für Anfechtungsfrist, Anfechtungserklärung und Bestätigung — Paragrafen 121 bis 124 und Paragraf 144 BGB: prüft Frist, Form, Zuständigkeit und Eilbedarf; Ergebnis: Fristen- und Risikoampel. Fachgebiet: BGB AT Prüfer. Route: anfechtungsfrist-erklaerung-annahmefrist."
 ---
 
 # Anfechtungsfrist, Anfechtungserklärung und Bestätigung — §§ 121 bis 124 und § 144 BGB

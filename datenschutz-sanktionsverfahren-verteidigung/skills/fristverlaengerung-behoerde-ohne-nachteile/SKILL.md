@@ -1,6 +1,6 @@
 ---
 name: fristverlaengerung-behoerde-ohne-nachteile
-description: "Wenn es um Fristverlängerung gegenüber Aufsicht in Datenschutz-Sanktionsverfahren und Verteidigung geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Fristverlängerung gegenüber Aufsicht: prüft Frist, Form, Zuständigkeit und Eilbedarf; Ergebnis: Fristen- und Risikoampel. Fachgebiet: Datenschutz-Sanktionsverfahren und Verteidigung."
 ---
 
 # Fristverlängerung gegenüber Aufsicht

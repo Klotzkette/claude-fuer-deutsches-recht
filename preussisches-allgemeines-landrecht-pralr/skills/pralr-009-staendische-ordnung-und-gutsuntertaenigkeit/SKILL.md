@@ -1,6 +1,6 @@
 ---
 name: pralr-009-staendische-ordnung-und-gutsuntertaenigkeit
-description: "Wenn es um Ständische Ordnung in Preußisches Allgemeines Landrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. Auswahlstichwort: Pralr 009 Staendische Ordnung Und Gutsuntertaenigkeit; Arbeitsfeld: Preußisches Allgemeines Landrecht."
+description: "Für Ständische Ordnung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt. Fachgebiet: Preußisches Allgemeines Landrecht. Route: pralr-009-staendische-ordnung-und-gutsuntertaenigkeit."
 ---
 
 # Ständische Ordnung

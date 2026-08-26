@@ -1,6 +1,6 @@
 ---
 name: erbschaftsausschlagung
-description: "Analysiert Annahme oder Ausschlagung einer Erbschaft mit kalendertaggenauer Fristakte, belastbarer Nachlassbilanz, Pflichtteils- und Haftungsfolgen sowie Ersatzberufenen. Liest vorhandene Unterlagen zuerst, trennt sichere Tatsachen von Annahmen und liefert Entscheidungsmatrix, Fristenvermerk, Erbfolgebild und konkrete Sofortmaßnahmen."
+description: "Analysiert Annahme oder Ausschlagung einer Erbschaft mit kalendertaggenauer Fristakte, belastbarer Nachlassbilanz, Pflichtteils- und Haftungsfolgen sowie Ersatzberufenen."
 ---
 
 # Erbschaft annehmen oder ausschlagen

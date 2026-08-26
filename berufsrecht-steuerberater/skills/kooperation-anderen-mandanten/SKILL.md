@@ -1,6 +1,6 @@
 ---
 name: kooperation-anderen-mandanten
-description: "Wenn es um Kooperation mit anderen Berufen in Berufsrecht Steuerberater geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen."
+description: "Für Kooperation mit anderen Berufen: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt. Fachgebiet: Berufsrecht Steuerberater."
 ---
 
 # Kooperation mit anderen Berufen

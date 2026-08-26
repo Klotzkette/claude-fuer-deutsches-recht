@@ -1,6 +1,6 @@
 ---
 name: 04-kindschaftssache-elterliche-sorge
-description: "Wenn es um 04 Kindschaftssache Elterliche Sorge in Familiengericht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für 04 Kindschaftssache Elterliche Sorge: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # 04 Kindschaftssache Elterliche Sorge

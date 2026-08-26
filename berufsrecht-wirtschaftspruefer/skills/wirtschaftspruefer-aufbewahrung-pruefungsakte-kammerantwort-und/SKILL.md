@@ -1,6 +1,6 @@
 ---
 name: wirtschaftspruefer-aufbewahrung-pruefungsakte-kammerantwort-und
-description: "Wenn es um Wirtschaftspruefer Aufbewahrung Pruefungsakte Kammerantwort Und in Berufsrecht Wirtschaftsprüfer geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Verhandlungs- oder Eskalationslinie mit Optionen."
+description: "Für Wirtschaftsprüfer Aufbewahrung Prüfungsakte Kammerantwort und: ordnet Akte, Belege und Lücken; Ergebnis: Tatbestands- oder Anspruchsmatrix."
 ---
 
 # Wirtschaftsprüfer: aufbewahrung pruefungsakte - Kammerantwort mit Verfahrensstrategie, Tonlage und Belegplan

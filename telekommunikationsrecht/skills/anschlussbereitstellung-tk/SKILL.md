@@ -1,6 +1,6 @@
 ---
 name: anschlussbereitstellung-tk
-description: "Wenn es um Anschlussbereitstellung und Verzug in Telekommunikationsrecht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Beweislast- und Substantiierungsmatrix."
+description: "Für Anschlussbereitstellung und Verzug: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Anschlussbereitstellung und Verzug

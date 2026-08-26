@@ -1,6 +1,6 @@
 ---
 name: verkehrs-erstpruefung-und-mandatsziel
-description: "Wenn es um Verkehrs: Erstprüfung, Rollenklärung und Mandatsziel in Verkehrs- und Infrastrukturrecht geht: klärt Rolle, Ziel, Frist, Unterlagen und den passenden nächsten Fachskill; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Verkehrs: Erstprüfung, Rollenklärung und Mandatsziel: routet Rolle, Frist, Unterlagen und Fachschritt; Ergebnis: Tatbestands- oder Anspruchsmatrix."
 ---
 
 # Verkehrs: Erstprüfung, Rollenklärung und Mandatsziel

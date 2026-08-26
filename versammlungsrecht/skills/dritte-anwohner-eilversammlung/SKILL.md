@@ -1,6 +1,6 @@
 ---
 name: dritte-anwohner-eilversammlung
-description: "Wenn es um Drittrechte ernst nehmen ohne Verdrängung in Versammlungsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Drittrechte ernst nehmen ohne Verdrängung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Drittrechte ernst nehmen ohne Verdrängung

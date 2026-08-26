@@ -1,6 +1,6 @@
 ---
 name: kaltstart-interview
-description: "Wenn es um /fortbestehensprognose:fortbestehensprognose-kaltstart-interview in Fortbestehensprognose geht: klärt Rolle, Ziel, Frist, Unterlagen und den passenden nächsten Fachskill; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für /fortbestehensprognose:fortbestehensprognose-kaltstart-interview: routet Rolle, Frist, Unterlagen und Fachschritt; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # /fortbestehensprognose:fortbestehensprognose-kaltstart-interview

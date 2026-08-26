@@ -1,6 +1,6 @@
 ---
 name: stilbruch-stilcheck-fachzeitschrift
-description: "Wenn es um Stilbruch- und Stilcheck Fachzeitschrift in Verlagsredaktion geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen."
+description: "Für Stilbruch- und Stilcheck Fachzeitschrift: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Stilbruch- und Stilcheck Fachzeitschrift

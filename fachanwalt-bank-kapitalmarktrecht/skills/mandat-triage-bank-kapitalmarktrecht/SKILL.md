@@ -1,6 +1,6 @@
 ---
 name: mandat-triage-bank-kapitalmarktrecht
-description: "Wenn es um Mandat Triage Bank Kapitalmarktrecht in Fachanwalt Bank Kapitalmarktrecht geht: klärt Rolle, Ziel, Frist, Unterlagen und den passenden nächsten Fachskill; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Mandat Triage Bank Kapitalmarktrecht: routet Rolle, Frist, Unterlagen und Fachschritt; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Bank- oder Kapitalmarktrechts-Mandat trifft ein und muss strukturiert erfasst werden: Sachgebiet Mandantenrolle Sofort-Fristen

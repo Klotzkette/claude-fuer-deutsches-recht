@@ -1,6 +1,6 @@
 ---
 name: laufzeit-verlaengerung-309
-description: "Wenn es um Laufzeit Verlängerung 309 in AGB-Recht-Prüfer geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Gegenprüfung mit Fehler-, Beweis- und Fristencheck."
+description: "Für Laufzeit Verlängerung 309: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Laufzeit Verlängerung 309

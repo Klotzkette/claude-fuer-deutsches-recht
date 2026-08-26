@@ -1,6 +1,6 @@
 ---
 name: anlagen-duplikate-versionen-hashlog
-description: "Wenn es um Duplikate, Fassungen und Hashlog in Anlagen zu Schriftsätzen geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen."
+description: "Für Duplikate, Fassungen und Hashlog: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Duplikate, Fassungen und Hashlog

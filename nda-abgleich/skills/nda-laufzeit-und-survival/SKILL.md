@@ -1,6 +1,6 @@
 ---
 name: nda-laufzeit-und-survival
-description: "Wenn es um NDA: Laufzeit/Survival in NDA-Abgleich geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für NDA: Laufzeit/Survival: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # NDA: Laufzeit/Survival

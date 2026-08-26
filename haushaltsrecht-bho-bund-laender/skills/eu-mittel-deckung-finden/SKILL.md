@@ -1,6 +1,6 @@
 ---
 name: eu-mittel-deckung-finden
-description: "Wenn es um Eu Mittel Deckung Finden in Haushaltsrecht BHO Bund und Länder geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Eu Mittel Deckung Finden: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Schnittstellenkarte mit Zuständigkeits- und Nachweisfragen."
 ---
 
 # Eu Mittel Deckung Finden

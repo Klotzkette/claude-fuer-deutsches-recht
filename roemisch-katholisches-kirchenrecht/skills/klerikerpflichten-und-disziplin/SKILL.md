@@ -1,6 +1,6 @@
 ---
 name: klerikerpflichten-und-disziplin
-description: "Wenn es um Klerikerpflichten und Disziplin in Römisch-katholisches Kirchenrecht CIC und Katechismus geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
+description: "Für Klerikerpflichten und Disziplin: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt. Fachgebiet: Römisch-katholisches Kirchenrecht CIC und Katechismus. Route: klerikerpflichten-und-disziplin."
 ---
 
 # Klerikerpflichten und Disziplin

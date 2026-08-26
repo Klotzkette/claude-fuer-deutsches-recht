@@ -1,6 +1,6 @@
 ---
 name: kita-satzung-aufsichtsbeschwerde-schre
-description: "Wenn es um Kita Satzung Aufsichtsbeschwerde Schre in Kommunalrecht der Länder geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Kita Satzung Aufsichtsbeschwerde Schre: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Kita Satzung Aufsichtsbeschwerde Schre

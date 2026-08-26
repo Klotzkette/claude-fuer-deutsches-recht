@@ -1,6 +1,6 @@
 ---
 name: erste-minijob-ethik-reputation-eu-oss
-description: "Wenn es um Wachstum Zusammenarbeit und Rechtsform: Prüft minijob in Solo-Selbstständige Praxis geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Wachstum Zusammenarbeit und Rechtsform: Prüft minijob: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Schnittstellenkarte mit Zuständigkeits- und Nachweisfragen."
 ---
 
 # Wachstum Zusammenarbeit und Rechtsform: Prüft minijob

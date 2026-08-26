@@ -1,6 +1,6 @@
 ---
 name: landeslisten-direktkandidaten
-description: "Wenn es um Landeslisten Und Direktkandidaten in Wahlkampfrecht Praxis geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Landeslisten und Direktkandidaten: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Landeslisten Und Direktkandidaten

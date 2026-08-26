@@ -1,6 +1,6 @@
 ---
 name: anfaenger-workflow-sozialgericht
-description: "Wenn es um Anfänger-Sozialgericht in selbstvertreter-sozialgericht geht: klärt Rolle, Ziel, Frist, Unterlagen und den passenden nächsten Fachskill; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
+description: "Für Anfänger-Sozialgericht: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Anfänger-Sozialgericht

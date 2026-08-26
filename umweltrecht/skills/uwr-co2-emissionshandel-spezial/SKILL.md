@@ -1,6 +1,6 @@
 ---
 name: uwr-co2-emissionshandel-spezial
-description: "Wenn es um UwR: ETS CBAM in Umweltrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für UwR: ETS CBAM: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # UwR: ETS CBAM

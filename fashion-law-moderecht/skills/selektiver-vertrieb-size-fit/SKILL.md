@@ -1,6 +1,6 @@
 ---
 name: selektiver-vertrieb-size-fit
-description: "Wenn es um Selektiver Vertrieb Luxus in fashion-law-moderecht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
+description: "Für Selektiver Vertrieb Luxus: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Selektiver Vertrieb Luxus

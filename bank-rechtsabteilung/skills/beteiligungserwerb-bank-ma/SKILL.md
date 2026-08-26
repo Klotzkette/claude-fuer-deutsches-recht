@@ -1,6 +1,6 @@
 ---
 name: beteiligungserwerb-bank-ma
-description: "Wenn es um Beteiligung und M&A in Bank-Rechtsabteilung geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Gegenprüfung mit Fehler-, Beweis- und Fristencheck."
+description: "Für Beteiligung und M&A: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Beteiligung und M&A

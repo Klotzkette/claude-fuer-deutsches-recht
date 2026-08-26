@@ -1,6 +1,6 @@
 ---
 name: verkehrsstrafrecht-strafbefehl
-description: "Wenn es um Verkehrsstrafrecht und Strafbefehl in Staatsanwaltschaft Praxis-Einstieg geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen."
+description: "Für Verkehrsstrafrecht und Strafbefehl: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Verkehrsstrafrecht und Strafbefehl

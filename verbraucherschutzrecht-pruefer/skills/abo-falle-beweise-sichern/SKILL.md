@@ -1,6 +1,6 @@
 ---
 name: abo-falle-beweise-sichern
-description: "Wenn es um Abo Falle Beweise Sichern in Verbraucherschutzrecht Prüfer geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Abo Falle Beweise Sichern: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Beweislast- und Substantiierungsmatrix."
 ---
 
 # Abo Falle Beweise Sichern

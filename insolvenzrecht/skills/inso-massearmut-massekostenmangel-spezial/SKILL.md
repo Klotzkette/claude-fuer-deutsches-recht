@@ -1,6 +1,6 @@
 ---
 name: inso-massearmut-massekostenmangel-spezial
-description: "Wenn es um Inso: Massearmut Massekostenmangel in Insolvenzrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für InsO: Massearmut Massekostenmangel: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Inso: Massearmut Massekostenmangel

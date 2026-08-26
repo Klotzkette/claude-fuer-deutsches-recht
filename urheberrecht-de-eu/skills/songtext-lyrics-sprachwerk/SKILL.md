@@ -1,6 +1,6 @@
 ---
 name: songtext-lyrics-sprachwerk
-description: "Wenn es um Songtext, Lyrics und Sprachwerk in Urheberrecht DE EU geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen."
+description: "Für Songtext, Lyrics und Sprachwerk: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Songtext, Lyrics und Sprachwerk

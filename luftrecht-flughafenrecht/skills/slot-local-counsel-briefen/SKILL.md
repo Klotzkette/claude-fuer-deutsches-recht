@@ -1,6 +1,6 @@
 ---
 name: slot-local-counsel-briefen
-description: "Wenn es um Slot – Local Counsel briefen in Luftrecht und Flughafenrecht geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
+description: "Für Slot – Local Counsel briefen: erstellt Entwurf mit Antrag, Beweis und Anlagen; Ergebnis: Schriftsatz mit Begründungs- und Anlagenlogik."
 ---
 
 # Slot – Local Counsel briefen

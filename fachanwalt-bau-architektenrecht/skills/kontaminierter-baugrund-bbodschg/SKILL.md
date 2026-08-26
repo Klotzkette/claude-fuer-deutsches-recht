@@ -1,6 +1,6 @@
 ---
 name: kontaminierter-baugrund-bbodschg
-description: "Wenn es um Kontaminierter Baugrund: Haftung, Sanierungspflicht und Kostenverteilung nach BBodSchG in Fachanwalt Bau Architektenrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Kontaminierter Baugrund: Haftung, Sanierungspflicht und Kostenverteilung nach BBodSchG: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Kontaminierter Baugrund: Haftung, Sanierungspflicht und Kostenverteilung nach BBodSchG

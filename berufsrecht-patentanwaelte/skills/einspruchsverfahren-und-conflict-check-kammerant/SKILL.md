@@ -1,6 +1,6 @@
 ---
 name: einspruchsverfahren-und-conflict-check-kammerant
-description: "Wenn es um Einspruchsverfahren Und Conflict Check Kammerant in Berufsrecht Patentanwälte geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Verhandlungs- oder Eskalationslinie mit Optionen."
+description: "Für Einspruchsverfahren und Conflict Check Kammerant: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Patentanwälte: einspruchsverfahren und conflict check - Kammerantwort mit Verfahrensstrategie, Tonlage und Belegplan

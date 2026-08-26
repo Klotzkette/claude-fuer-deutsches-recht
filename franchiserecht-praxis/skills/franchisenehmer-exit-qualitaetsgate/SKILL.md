@@ -1,6 +1,6 @@
 ---
 name: franchisenehmer-exit-qualitaetsgate
-description: "Wenn es um Franchiserecht: Franchisenehmer-Exit-Plan in Franchiserecht Praxis geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Gegenprüfung mit Fehler-, Beweis- und Fristencheck."
+description: "Für Franchiserecht: Franchisenehmer-Exit-Plan: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Gegenprüfung mit Beweis- und Fristencheck."
 ---
 
 # Franchiserecht: Franchisenehmer-Exit-Plan

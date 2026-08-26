@@ -1,6 +1,6 @@
 ---
 name: kanzleinachfolge-und-aktenarchiv-kaltstart-und-faktenm
-description: "Wenn es um Kanzleinachfolge Und Aktenarchiv Kaltstart Und Faktenm in Berufsrecht Anwälte geht: klärt Rolle, Ziel, Frist, Unterlagen und den passenden nächsten Fachskill; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Kanzleinachfolge und Aktenarchiv Kaltstart und Faktenm: routet Rolle, Frist, Unterlagen und Fachschritt; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Anwälte: kanzleinachfolge und aktenarchiv - Kaltstart mit Faktenmatrix, Risikoampel und fehlenden Unterlagen

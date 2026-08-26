@@ -1,6 +1,6 @@
 ---
 name: strafrecht-spezial-insolvenzverschleppung-15a-inso
-description: "Wenn es um Insolvenzverschleppung nach Paragraph 15a InsO in Fachanwalt Strafrecht geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
+description: "Für Insolvenzverschleppung nach Paragraph 15a InsO: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Insolvenzverschleppung nach Paragraph 15a InsO

@@ -1,6 +1,6 @@
 ---
 name: dsv-meldekette-auftragsverarbeiter
-description: "Wenn es um Steuert die Meldekette in einer Auftragsverarbeiter-Konstellation nach Art in Fachanwalt It Recht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Steuert die Meldekette in einer Auftragsverarbeiter-Konstellation nach Art: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Steuert die Meldekette in einer Auftragsverarbeiter-Konstellation nach Art

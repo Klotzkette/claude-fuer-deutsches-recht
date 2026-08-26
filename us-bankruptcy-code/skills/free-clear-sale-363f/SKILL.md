@@ -1,6 +1,6 @@
 ---
 name: free-clear-sale-363f
-description: "Wenn es um Free and Clear Sale Paragraf 363(f) in US Bankruptcy Code geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Free and Clear Sale Paragraf 363(f): ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Free and Clear Sale § 363(f)

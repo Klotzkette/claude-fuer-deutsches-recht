@@ -1,6 +1,6 @@
 ---
 name: rights-and-permissions-public-record
-description: "Wenn es um Rights and Permissions und Public Record in US Copyright Act und Registrierung für deutsche Verlage geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen."
+description: "Für Rights and Permissions und Public Record: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Rights and Permissions und Public Record

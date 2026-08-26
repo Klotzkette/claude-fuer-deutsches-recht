@@ -1,6 +1,6 @@
 ---
 name: duengeverordnung-rote-gebiete-paragraf-13a-duev-derogation
-description: "Prüft Pflichten und Rechtsschutz in nitratbelasteten oder eutrophierten Gebieten nach Düngegesetz, Düngeverordnung und Landesrecht. Trennt allgemeine Obergrenzen von gebietsspezifischen Maßnahmen, kontrolliert Gebietskulisse, Düngebedarf, Aufzeichnungen, Sanktion und aktuelle Folgen der BVerwG-Urteile von 2025."
+description: "Prüft Pflichten und Rechtsschutz in nitratbelasteten oder eutrophierten Gebieten nach Düngegesetz, Düngeverordnung und Landesrecht."
 ---
 
 # Düngung in roten und gelben Gebieten prüfen

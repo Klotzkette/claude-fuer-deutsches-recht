@@ -1,6 +1,6 @@
 ---
 name: anlagen-elektronische-dokumente-spezial
-description: "Wenn es um Anlagen: elektronische Dokumente in Anlagen zu Schriftsätzen geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt. Auswahlstichwort: Anlagen Elektronische Dokumente Spezial; Arbeitsfeld: Anlagen zu Schriftsätzen."
+description: "Für Anlagen: elektronische Dokumente: ordnet Akte, Belege und Lücken; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt. Fachgebiet: Anlagen zu Schriftsätzen. Route: anlagen-elektronische-dokumente-spezial."
 ---
 
 # Anlagen: elektronische Dokumente

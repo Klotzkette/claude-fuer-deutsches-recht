@@ -1,6 +1,6 @@
 ---
 name: registerfuehrende-stelle-kontakt
-description: "Wenn es um Registerfuehrende Stelle Kontakt in Lobbyregister Bundestag geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Registerführende Stelle Kontakt: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Einreichungsplan mit Form- und Nachweischeck."
 ---
 
 # Registerfuehrende Stelle Kontakt

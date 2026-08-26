@@ -1,6 +1,6 @@
 ---
 name: workflow-duldung-spurwechsel
-description: "Wenn es um Duldung/Spurwechsel: Prüfungslinie für Migrationsrecht in Fachanwalt Migrationsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Duldung/Spurwechsel: Prüfungslinie für Migrationsrecht: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Duldung/Spurwechsel: Prüfungslinie für Migrationsrecht

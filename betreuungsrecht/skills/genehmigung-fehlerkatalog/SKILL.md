@@ -1,6 +1,6 @@
 ---
 name: genehmigung-fehlerkatalog
-description: "Wenn es um Genehmigung Fehlerkatalog in Betreuungsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Genehmigung Fehlerkatalog: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Genehmigung Fehlerkatalog

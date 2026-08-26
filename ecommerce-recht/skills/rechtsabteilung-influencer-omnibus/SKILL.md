@@ -1,6 +1,6 @@
 ---
 name: rechtsabteilung-influencer-omnibus
-description: "Wenn es um Rechtsabteilung: Influencer- und Affiliate-Shop in E-Commerce-Recht geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
+description: "Für Rechtsabteilung: Influencer- und Affiliate-Shop: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Rechtsabteilung: Influencer- und Affiliate-Shop

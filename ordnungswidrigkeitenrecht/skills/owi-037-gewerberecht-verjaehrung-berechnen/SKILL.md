@@ -1,6 +1,6 @@
 ---
 name: owi-037-gewerberecht-verjaehrung-berechnen
-description: "Wenn es um Gewerberecht Verjaehrung Berechnen in Ordnungswidrigkeitenrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Gewerberecht Verjährung Berechnen: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt. Fachgebiet: Ordnungswidrigkeitenrecht. Route: owi-037-gewerberecht-verjaehrung-berechnen."
 ---
 
 # Gewerberecht Verjaehrung Berechnen

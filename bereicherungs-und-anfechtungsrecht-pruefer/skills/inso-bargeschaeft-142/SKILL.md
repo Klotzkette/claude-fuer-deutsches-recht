@@ -1,6 +1,6 @@
 ---
 name: inso-bargeschaeft-142
-description: "Wenn es um Bargeschäft — Paragraf 142 InsO in bereicherungs-und-anfechtungsrecht-prüfer geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
+description: "Für Bargeschäft — Paragraf 142 InsO: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Bargeschäft — § 142 InsO

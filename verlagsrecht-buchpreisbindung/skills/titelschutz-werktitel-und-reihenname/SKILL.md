@@ -1,6 +1,6 @@
 ---
 name: titelschutz-werktitel-und-reihenname
-description: "Wenn es um Verl-015 · Titelschutz: Werktitel und Reihenname in Verlagsrecht und Buchpreisbindung geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Verl-015 · Titelschutz: Werktitel und Reihenname: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Verl-015 · Titelschutz: Werktitel und Reihenname

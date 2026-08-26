@@ -1,6 +1,6 @@
 ---
 name: hauptversammlung-einladung-finalcheck-jahreskalender-lessons
-description: "Wenn es um HV Einladung Finalcheck in Hauptversammlung AG und SE geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für HV Einladung Finalcheck: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # HV Einladung Finalcheck

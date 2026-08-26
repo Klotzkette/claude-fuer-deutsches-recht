@@ -1,6 +1,6 @@
 ---
 name: in-anderen-plugins-routen
-description: "Wenn es um Routing in andere Plugins in Preußisches Allgemeines Landrecht geht: klärt Rolle, Ziel, Frist, Unterlagen und den passenden nächsten Fachskill; liefert eine Fristen- und Risikoampel mit Sofortschritten. Auswahlstichwort: In Anderen Plugins Routen; Arbeitsfeld: Preußisches Allgemeines Landrecht."
+description: "Für Routing in andere Plugins: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt. Fachgebiet: Preußisches Allgemeines Landrecht. Route: in-anderen-plugins-routen."
 ---
 
 # Routing in andere Plugins

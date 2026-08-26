@@ -1,6 +1,6 @@
 ---
 name: berufsgenossenschaft-anmeldung
-description: "Wenn es um Anmeldung und Behörden: Prüft bg-anmeldung in Solo-Selbstständige Praxis geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Anmeldung und Behörden: Prüft bg-anmeldung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Anmeldung und Behörden: Prüft bg-anmeldung

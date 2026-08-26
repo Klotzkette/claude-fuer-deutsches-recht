@@ -1,6 +1,6 @@
 ---
 name: dpia-dokumentenmatrix-lueckenliste
-description: "Wenn es um Dpia: Dokumentenmatrix, Lückenliste und Nachforderung in Datenschutzrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Dpia: Dokumentenmatrix, Lückenliste und Nachforderung: ordnet Akte, Belege und Lücken; Ergebnis: Dokumentenmatrix mit Nachforderungsliste. Fachgebiet: Datenschutzrecht. Route: dpia-dokumentenmatrix-lueckenliste."
 ---
 
 # Dpia: Dokumentenmatrix, Lückenliste und Nachforderung

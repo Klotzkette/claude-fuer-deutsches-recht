@@ -1,6 +1,6 @@
 ---
 name: jgg-jugendstrafe-minder-schwerer
-description: "Wenn es um Strafzumessung im Jugendstrafrecht in Strafzumessung geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Strafzumessung im Jugendstrafrecht: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Strafzumessung im Jugendstrafrecht

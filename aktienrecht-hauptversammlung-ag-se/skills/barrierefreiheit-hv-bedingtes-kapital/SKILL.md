@@ -1,6 +1,6 @@
 ---
 name: barrierefreiheit-hv-bedingtes-kapital
-description: "Wenn es um Barrierefreiheit HV in Hauptversammlung AG und SE geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Barrierefreiheit HV: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Barrierefreiheit HV

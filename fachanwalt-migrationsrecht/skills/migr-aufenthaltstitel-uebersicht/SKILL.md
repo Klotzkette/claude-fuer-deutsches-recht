@@ -1,6 +1,6 @@
 ---
 name: migr-aufenthaltstitel-uebersicht
-description: "Routet Aufenthaltsziele zu Visum, befristetem Aufenthaltstitel, Blauer Karte EU, ICT-Karte, Niederlassungserlaubnis oder Daueraufenthalt EU. Liefert Status- und Stichtagsblatt, Anspruchsspur, Unterlagenplan, Fristen sowie den nächsten Antrag oder Rechtsbehelf."
+description: "Routet Aufenthaltsziele zu Visum, befristetem Aufenthaltstitel, Blauer Karte EU, ICT-Karte, Niederlassungserlaubnis oder Daueraufenthalt EU."
 ---
 
 # 1. Aufenthaltstitel auswählen

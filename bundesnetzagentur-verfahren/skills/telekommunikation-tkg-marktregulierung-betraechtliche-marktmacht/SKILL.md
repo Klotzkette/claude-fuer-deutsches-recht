@@ -1,6 +1,6 @@
 ---
 name: telekommunikation-tkg-marktregulierung-betraechtliche-marktmacht
-description: "Wenn es um Telekommunikation: TKG Marktregulierung beträchtliche Marktmacht in Bundesnetzagentur-Verfahren geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
+description: "Für Telekommunikation: TKG Marktregulierung beträchtliche Marktmacht: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Telekommunikation: TKG Marktregulierung beträchtliche Marktmacht

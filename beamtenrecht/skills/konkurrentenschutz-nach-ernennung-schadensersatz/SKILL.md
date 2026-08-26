@@ -1,6 +1,6 @@
 ---
 name: konkurrentenschutz-nach-ernennung-schadensersatz
-description: "Wenn es um konkurrentenschutz-nach-ernennung-schadensersatz in Beamtenrecht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
+description: "Für konkurrentenschutz-nach-ernennung-schadensersatz: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # konkurrentenschutz-nach-ernennung-schadensersatz

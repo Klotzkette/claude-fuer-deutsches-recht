@@ -1,6 +1,6 @@
 ---
 name: schlachthof-bussgeld-verteidigen
-description: "Wenn es um Schlachthof Bussgeld Verteidigen in Tierschutzrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Schlachthof Bussgeld Verteidigen: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Schlachthof Bussgeld Verteidigen

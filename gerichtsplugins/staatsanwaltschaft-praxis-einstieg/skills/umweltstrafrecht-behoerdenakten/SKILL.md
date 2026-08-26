@@ -1,6 +1,6 @@
 ---
 name: umweltstrafrecht-behoerdenakten
-description: "Wenn es um Umweltstrafrecht: Behördenakten und technische Beweise in Staatsanwaltschaft Praxis-Einstieg geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Beweislast- und Substantiierungsmatrix."
+description: "Für Umweltstrafrecht: Behördenakten und technische Beweise: ordnet Akte, Belege und Lücken; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Umweltstrafrecht: Behördenakten und technische Beweise

@@ -1,6 +1,6 @@
 ---
 name: dsfa-fuer-internationale-datentransfers
-description: "Wenn es um DSFA bei internationalen Datentransfers in Datenschutzrecht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen."
+description: "Für DSFA bei internationalen Datentransfers: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Schnittstellenkarte mit Zuständigkeits- und Nachweisfragen."
 ---
 
 # DSFA bei internationalen Datentransfers

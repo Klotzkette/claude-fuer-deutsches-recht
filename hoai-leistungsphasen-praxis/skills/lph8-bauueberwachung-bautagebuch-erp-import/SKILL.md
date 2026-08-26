@@ -1,6 +1,6 @@
 ---
 name: lph8-bauueberwachung-bautagebuch-erp-import
-description: "Wenn es um Bautagebuch und ERP-Import in der Bauueberwachung LPH 8 in HOAI Leistungsphasen Praxis geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Bautagebuch und ERP-Import in der Bauüberwachung LPH 8: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Bautagebuch und ERP-Import in der Bauueberwachung LPH 8

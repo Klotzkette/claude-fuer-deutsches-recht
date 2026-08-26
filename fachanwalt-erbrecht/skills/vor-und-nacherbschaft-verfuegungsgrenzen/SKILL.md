@@ -1,6 +1,6 @@
 ---
 name: vor-und-nacherbschaft-verfuegungsgrenzen
-description: "Prüft Verfügungen des Vorerben über Grundstücke und sonstige Nachlasswerte. Klärt Nacherbenbindung, Befreiung, Nachlasszugehörigkeit, Entgeltlichkeit, Grundbuchschutz und ordnungsgemäße Verwaltung und liefert Zustimmungs-, Grundbuch- und Schadensersatzstrategie."
+description: "Für Verfügungsgrenzen bei Vor- und Nacherbschaft prüfen: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Verfügungsgrenzen bei Vor- und Nacherbschaft prüfen

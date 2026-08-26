@@ -1,6 +1,6 @@
 ---
 name: arbeitszeugnis-deutscher-tatbestandsmerkmale-beweisfragen
-description: "Wenn es um Deutscher: Tatbestandsmerkmale, Beweisfragen und Beleglage in Arbeitszeugnis-Analyse geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Deutscher: Tatbestandsmerkmale, Beweisfragen und Beleglage: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Beweislast- und Substantiierungsmatrix."
 ---
 
 # Deutscher: Tatbestandsmerkmale, Beweisfragen und Beleglage

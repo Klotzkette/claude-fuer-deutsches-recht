@@ -1,6 +1,6 @@
 ---
 name: trinitat-christologie-und-mariologie
-description: "Wenn es um Trinität, Christologie und Mariologie in Römisch-katholisches Kirchenrecht CIC und Katechismus geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Trinität, Christologie und Mariologie: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Trinität, Christologie und Mariologie

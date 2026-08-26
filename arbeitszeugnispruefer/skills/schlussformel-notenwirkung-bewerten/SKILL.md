@@ -1,6 +1,6 @@
 ---
 name: schlussformel-notenwirkung-bewerten
-description: "Wenn es um Schlussformel-Notenwirkung bewerten in Arbeitszeugnispruefer geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
+description: "Für Schlussformel-Notenwirkung bewerten: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Schlussformel-Notenwirkung bewerten

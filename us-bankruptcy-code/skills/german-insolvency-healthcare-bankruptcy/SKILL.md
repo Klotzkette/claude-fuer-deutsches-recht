@@ -1,6 +1,6 @@
 ---
 name: german-insolvency-healthcare-bankruptcy
-description: "Wenn es um German Insolvency Comparison in US Bankruptcy Code geht: entwickelt Verhandlungsziel, Vergleichskorridor und Eskalationspfad; liefert eine Verhandlungs- oder Eskalationslinie mit Optionen."
+description: "Für German Insolvency Comparison: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # German Insolvency Comparison

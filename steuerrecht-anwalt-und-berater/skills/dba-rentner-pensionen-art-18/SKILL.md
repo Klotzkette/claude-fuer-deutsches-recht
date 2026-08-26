@@ -1,6 +1,6 @@
 ---
 name: dba-rentner-pensionen-art-18
-description: "Wenn es um Rentner und Pensionen (Art. 18 OECD-MA) in Steuerrecht – Steuerberater und Anwälte geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
+description: "Für Rentner und Pensionen (Art. 18 OECD-MA): ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Rentner und Pensionen (Art. 18 OECD-MA)

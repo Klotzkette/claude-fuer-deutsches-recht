@@ -1,6 +1,6 @@
 ---
 name: bundesanzeiger-und-medien
-description: "Wenn es um Bundesanzeiger Und Medien in Hauptversammlung AG und SE geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Bundesanzeiger und Medien: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Bundesanzeiger Und Medien

@@ -1,6 +1,6 @@
 ---
 name: kelsen-stufenbau-gueltigkeit
-description: "Wenn es um Kelsen: Stufenbau, Geltung, Kompetenz und Methodendisziplin in Rechtstheorie und Rechtsphilosophie geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Kelsen: Stufenbau, Geltung, Kompetenz und Methodendisziplin: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Kelsen: Stufenbau, Geltung, Kompetenz und Methodendisziplin

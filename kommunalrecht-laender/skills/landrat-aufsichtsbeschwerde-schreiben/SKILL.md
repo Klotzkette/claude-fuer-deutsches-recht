@@ -1,6 +1,6 @@
 ---
 name: landrat-aufsichtsbeschwerde-schreiben
-description: "Wenn es um Landrat Aufsichtsbeschwerde Schreiben in Kommunalrecht der Länder geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Landrat Aufsichtsbeschwerde Schreiben: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Landrat Aufsichtsbeschwerde Schreiben

@@ -1,6 +1,6 @@
 ---
 name: anwaelte-ki-tool-in-der-kanzlei-kammerantwort-und-verfahrensstr
-description: "Wenn es um Anwaelte Ki Tool In Der Kanzlei Kammerantwort Und Verfahrensstr in Berufsrecht Anwälte geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Verhandlungs- oder Eskalationslinie mit Optionen."
+description: "Für Anwälte Ki Tool in der Kanzlei Kammerantwort und Verfahrensstr: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Anwälte: ki tool in der kanzlei - Kammerantwort mit Verfahrensstrategie, Tonlage und Belegplan

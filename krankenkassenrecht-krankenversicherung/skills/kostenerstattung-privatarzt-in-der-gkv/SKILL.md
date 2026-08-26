@@ -1,6 +1,6 @@
 ---
 name: kostenerstattung-privatarzt-in-der-gkv
-description: "Prüft die Kostenerstattung für privat beschaffte GKV-Leistungen nach Wahlrecht, unaufschiebbarer Versorgung, rechtswidriger Ablehnung oder Genehmigungsfiktion. Sichert Beschaffungsweg, Kausalität, Fristen, Rechnungen und passende Rechtsprechungsanker."
+description: "Prüft die Kostenerstattung für privat beschaffte GKV-Leistungen nach Wahlrecht, unaufschiebbarer Versorgung, rechtswidriger Ablehnung oder Genehmigungsfiktion."
 ---
 
 # Kostenerstattung für privat beschaffte GKV-Leistungen

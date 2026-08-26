@@ -1,6 +1,6 @@
 ---
 name: rahmenvertrag-beweislast-vertragsrecht-vert
-description: "Wenn es um Rahmenvertrag: Beweislast, Darlegungslast und Substantiierung in Vertragsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Rahmenvertrag: Beweislast, Darlegungslast und Substantiierung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Beweislast- und Substantiierungsmatrix."
 ---
 
 # Rahmenvertrag: Beweislast, Darlegungslast und Substantiierung

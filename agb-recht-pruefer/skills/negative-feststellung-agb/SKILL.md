@@ -1,6 +1,6 @@
 ---
 name: negative-feststellung-agb
-description: "Wenn es um Negative Feststellung AGB in AGB-Recht-Prüfer geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Dokumentenmatrix mit Nachforderungsliste."
+description: "Für Negative Feststellung AGB: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Negative Feststellung AGB

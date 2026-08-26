@@ -1,6 +1,6 @@
 ---
 name: mietrecht-wohnungspolitik-familienrecht
-description: "Wenn es um Mietrecht und Wohnungspolitik historisch in Deutsche Rechtsgeschichte geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Mietrecht und Wohnungspolitik historisch: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Mietrecht und Wohnungspolitik historisch

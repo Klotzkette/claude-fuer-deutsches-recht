@@ -1,6 +1,6 @@
 ---
 name: protokoll-nachbereitung-rechnungseinzug-red-team-korrektur
-description: "Wenn es um Protokoll und Nachbereitung in Berufsrecht Anwälte geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Gegenprüfung mit Fehler-, Beweis- und Fristencheck."
+description: "Für Protokoll und Nachbereitung: prüft Ergebnis, Beweislast und Gegenposition; Ergebnis: Gegenprüfung mit Beweis- und Fristencheck. Fachgebiet: Berufsrecht Anwälte."
 ---
 
 # Protokoll und Nachbereitung

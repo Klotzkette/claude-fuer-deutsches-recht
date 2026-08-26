@@ -1,6 +1,6 @@
 ---
 name: aussenwirtschaft-exportkontrolle-dual-use
-description: "Wenn es um Dual-Use-Ausfuhrkontrolle: Klassifizierung und Genehmigungspfad in Außenwirtschaft, Sanktionen, Zoll und CBAM geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Dual-Use-Ausfuhrkontrolle: Klassifizierung und Genehmigungspfad: prüft Ergebnis, Beweislast und Gegenposition; Ergebnis: Gegenprüfung mit Beweis- und Fristencheck."
 ---
 
 # Dual-Use-Ausfuhrkontrolle: Klassifizierung und Genehmigungspfad

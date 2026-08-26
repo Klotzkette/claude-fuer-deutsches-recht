@@ -1,6 +1,6 @@
 ---
 name: cram-formular-portal-und-einreichung
-description: "Wenn es um Cram: Formular, Portal und Einreichungslogik in Insolvenzplan- und StaRUG-Planwerkstatt geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Cram: Formular, Portal und Einreichungslogik: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Einreichungsplan mit Form- und Nachweischeck."
 ---
 
 # Cram: Formular, Portal und Einreichungslogik

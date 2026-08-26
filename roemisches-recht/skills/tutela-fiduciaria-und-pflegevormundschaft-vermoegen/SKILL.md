@@ -1,6 +1,6 @@
 ---
 name: tutela-fiduciaria-und-pflegevormundschaft-vermoegen
-description: "Wenn es um Rom 140 Tutela Fiduciaria Und Pflegevormundschaft Vermögen in Römisches Recht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. Auswahlstichwort: Tutela Fiduciaria Und Pflegevormundschaft Vermoegen; Arbeitsfeld: Römisches Recht."
+description: "Für Rom 140 Tutela Fiduciaria und Pflegevormundschaft Vermögen: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt. Fachgebiet: Römisches Recht. Route: tutela-fiduciaria-und-pflegevormundschaft-vermoegen."
 ---
 
 # Rom 140 Tutela Fiduciaria Und Pflegevormundschaft Vermögen

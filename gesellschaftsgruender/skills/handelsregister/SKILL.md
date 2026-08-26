@@ -1,6 +1,6 @@
 ---
 name: handelsregister
-description: "Wenn es um Handelsregister-Anmeldung in gesellschaftsgründer — Gründungsassistent für deutsche geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Dokumentenmatrix mit Nachforderungsliste."
+description: "Für Handelsregister-Anmeldung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Einreichungsplan mit Form- und Nachweischeck."
 ---
 
 # Handelsregister-Anmeldung

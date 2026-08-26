@@ -1,6 +1,6 @@
 ---
 name: funktionseliten-und-juristische-karrieren
-description: "Wenn es um Funktionseliten und juristische Karrieren in Deutsche Rechtsgeschichte geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen."
+description: "Für Funktionseliten und juristische Karrieren: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt. Fachgebiet: Deutsche Rechtsgeschichte. Route: funktionseliten-und-juristische-karrieren."
 ---
 
 # Funktionseliten und juristische Karrieren

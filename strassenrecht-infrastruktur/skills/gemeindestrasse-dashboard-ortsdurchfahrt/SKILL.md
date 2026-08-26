@@ -1,6 +1,6 @@
 ---
 name: gemeindestrasse-dashboard-ortsdurchfahrt
-description: "Wenn es um Gemeindestrasse Dashboard Erstellen in Straßenrecht und Infrastruktur geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Gemeindestrasse Dashboard Erstellen: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Gemeindestrasse Dashboard Erstellen

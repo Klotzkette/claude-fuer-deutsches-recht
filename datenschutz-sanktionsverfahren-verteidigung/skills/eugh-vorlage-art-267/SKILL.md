@@ -1,6 +1,6 @@
 ---
 name: eugh-vorlage-art-267
-description: "Wenn es um EuGH-Vorlagefragen entwickeln in Datenschutz-Sanktionsverfahren und Verteidigung geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für EuGH-Vorlagefragen entwickeln: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Schnittstellenkarte mit Zuständigkeits- und Nachweisfragen."
 ---
 
 # EuGH-Vorlagefragen entwickeln

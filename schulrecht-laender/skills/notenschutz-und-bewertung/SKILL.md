@@ -1,6 +1,6 @@
 ---
 name: notenschutz-und-bewertung
-description: "Wenn es um Notenschutz Und Bewertung in Schulrecht der Bundesländer geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Notenschutz und Bewertung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Notenschutz Und Bewertung

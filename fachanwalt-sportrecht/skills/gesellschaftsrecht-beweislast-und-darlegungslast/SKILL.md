@@ -1,6 +1,6 @@
 ---
 name: gesellschaftsrecht-beweislast-und-darlegungslast
-description: "Wenn es um Gesellschaftsrecht: Beweislast, Darlegungslast und Substantiierung in Fachanwalt Sportrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Gesellschaftsrecht: Beweislast, Darlegungslast und Substantiierung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Beweislast- und Substantiierungsmatrix."
 ---
 
 # Gesellschaftsrecht: Beweislast, Darlegungslast und Substantiierung

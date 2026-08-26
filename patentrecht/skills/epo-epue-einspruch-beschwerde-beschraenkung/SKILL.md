@@ -1,6 +1,6 @@
 ---
 name: epo-epue-einspruch-beschwerde-beschraenkung
-description: "Wenn es um EPÜ: Einspruch, Beschwerde und Beschränkung in patentrecht geht: entwickelt Verhandlungsziel, Vergleichskorridor und Eskalationspfad; liefert eine Verhandlungs- oder Eskalationslinie mit Optionen."
+description: "Für EPÜ: Einspruch, Beschwerde und Beschränkung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # EPÜ: Einspruch, Beschwerde und Beschränkung

@@ -1,6 +1,6 @@
 ---
 name: best-edition-kopienzahl
-description: "Wenn es um Best Edition und Kopienzahl in US Copyright Act und Registrierung für deutsche Verlage geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
+description: "Für Best Edition und Kopienzahl: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Best Edition und Kopienzahl

@@ -1,6 +1,6 @@
 ---
 name: vaf-versionierung-aenderungsverfolgung-spezial
-description: "Wenn es um Vaf Versionierung Aenderungsverfolgung Spezial in Vertragsausfüller geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
+description: "Für Vaf Versionierung Änderungsverfolgung Spezial: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Spezialfall Versionierung und Änderungsverfolgung in Vertragsdokumenten: Track Changes, Blackline, automatisierter Diff

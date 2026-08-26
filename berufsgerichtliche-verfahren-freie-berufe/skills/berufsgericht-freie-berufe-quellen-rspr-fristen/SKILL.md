@@ -1,6 +1,6 @@
 ---
 name: berufsgericht-freie-berufe-quellen-rspr-fristen
-description: "Wenn es um Quellen- und Rechtsprechungscheck in Berufsgerichtliche Verfahren Freie Berufe geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Quellen- und Rechtsprechungscheck: prüft Frist, Form, Zuständigkeit und Eilbedarf; Ergebnis: Fristen- und Risikoampel. Fachgebiet: Berufsgerichtliche Verfahren Freie Berufe."
 ---
 
 # Quellen- und Rechtsprechungscheck

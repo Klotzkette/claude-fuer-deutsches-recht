@@ -1,6 +1,6 @@
 ---
 name: arbeitslosengeld-i-sgb-iii
-description: "Wenn es um Arbeitslosengeld I — Streit mit der Arbeitsagentur in selbstvertreter-sozialgericht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Arbeitslosengeld I — Streit mit der Arbeitsagentur: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Arbeitslosengeld I — Streit mit der Arbeitsagentur

@@ -1,6 +1,6 @@
 ---
 name: patentportfolio-interessenkollision-prior-art
-description: "Wenn es um Patentportfolio Interessenkollision Prior Art in Berufsrecht Patentanwälte geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Gegenprüfung mit Fehler-, Beweis- und Fristencheck."
+description: "Für Patentportfolio Interessenkollision Prior Art: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Patentanwälte: patentportfolio und interessenkollision - Rechtsprechungscheck, stärkste Gegenansicht und Red-Team-Korrektur

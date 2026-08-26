@@ -1,6 +1,6 @@
 ---
 name: akteneinsicht-kdv-aktenvernichtung-kdvg
-description: "Wenn es um Akteneinsicht KDV in Kriegsdienstverweigerung und Wehrdienst geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
+description: "Für Akteneinsicht KDV: ordnet Akte, Belege und Lücken; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Akteneinsicht KDV

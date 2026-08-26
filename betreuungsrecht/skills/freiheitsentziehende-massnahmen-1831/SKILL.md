@@ -1,6 +1,6 @@
 ---
 name: freiheitsentziehende-massnahmen-1831
-description: "Wenn es um Freiheitsentziehende Maßnahmen in Betreuungsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Freiheitsentziehende Maßnahmen: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Freiheitsentziehende Maßnahmen

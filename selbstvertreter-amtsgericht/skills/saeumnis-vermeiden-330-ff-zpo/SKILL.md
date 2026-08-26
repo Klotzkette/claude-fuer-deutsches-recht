@@ -1,6 +1,6 @@
 ---
 name: saeumnis-vermeiden-330-ff-zpo
-description: "Wenn es um Versaeumnisurteil verhindern und ggf. einlegen in selbstvertreter-amtsgericht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen."
+description: "Für Versäumnisurteil verhindern und ggf. einlegen: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Schnittstellenkarte mit Zuständigkeits- und Nachweisfragen."
 ---
 
 # Versaeumnisurteil verhindern und ggf. einlegen

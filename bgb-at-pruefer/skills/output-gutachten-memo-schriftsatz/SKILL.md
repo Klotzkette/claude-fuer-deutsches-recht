@@ -1,6 +1,6 @@
 ---
 name: output-gutachten-memo-schriftsatz
-description: "Wenn es um Output-Formate — Gutachten, Memo, Schriftsatz im BGB AT in BGB AT Prüfer geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
+description: "Für Output-Formate — Gutachten, Memo, Schriftsatz im BGB AT: erstellt Entwurf mit Antrag, Beweis und Anlagen; Ergebnis: Schriftsatz mit Begründungs- und Anlagenlogik."
 ---
 
 # Output-Formate — Gutachten, Memo, Schriftsatz im BGB AT

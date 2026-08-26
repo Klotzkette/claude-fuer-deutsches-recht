@@ -1,6 +1,6 @@
 ---
 name: grundsteuer-verfassungscheck-bundesmodell
-description: "Wenn es um Grundsteuer: Verfassungscheck Bundesmodell und Reformstand in Steuerrecht – Steuerberater und Anwälte geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen."
+description: "Für Grundsteuer: Verfassungscheck Bundesmodell und Reformstand: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Schnittstellenkarte mit Zuständigkeits- und Nachweisfragen."
 ---
 
 # Grundsteuer: Verfassungscheck Bundesmodell und Reformstand

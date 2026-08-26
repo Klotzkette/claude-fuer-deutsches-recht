@@ -1,6 +1,6 @@
 ---
 name: chatcontrol-csam-anwaltsgeheimnis-53-stpo
-description: "Wenn es um Chatcontrol Csam Anwaltsgeheimnis 53 StPO in Fachanwalt Strafrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Chatcontrol Csam Anwaltsgeheimnis 53 StPO: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Chat-Control CSAM Anwaltsgeheimnis und § 53 StPO Zeugnisverweigerungsrecht: Anwendungsfall Kanzlei prüft ob Chat-Control-Maßnahmen Anwaltsgeheimnis verletzen oder Mandatskommunikation abhoeren koennten

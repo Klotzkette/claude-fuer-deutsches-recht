@@ -1,6 +1,6 @@
 ---
 name: stoff-und-anlage-pruefen
-description: "Wenn es um Stoff Und Anlage Prüfen in Betäubungsmittelrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Stoff und Anlage Prüfen: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt. Fachgebiet: Betäubungsmittelrecht. Route: stoff-und-anlage-pruefen."
 ---
 
 # Stoff Und Anlage Prüfen

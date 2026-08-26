@@ -1,6 +1,6 @@
 ---
 name: anfechtung-142-und-rueckabwicklung
-description: "Wenn es um Anfechtung nach Paragraf 142 BGB und Rückabwicklung in bereicherungs-und-anfechtungsrecht-prüfer geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Anfechtung nach Paragraf 142 BGB und Rückabwicklung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Anfechtung nach § 142 BGB und Rückabwicklung

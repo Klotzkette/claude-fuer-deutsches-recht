@@ -1,6 +1,6 @@
 ---
 name: beweis-und-urkunden-im-kirchlichen-verfahren
-description: "Wenn es um Beweis und Urkunden im kirchlichen Verfahren in Römisch-katholisches Kirchenrecht CIC und Katechismus geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Beweis und Urkunden im kirchlichen Verfahren: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Beweislast- und Substantiierungsmatrix."
 ---
 
 # Beweis und Urkunden im kirchlichen Verfahren

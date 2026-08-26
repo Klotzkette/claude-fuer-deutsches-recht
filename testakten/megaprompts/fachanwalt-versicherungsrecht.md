@@ -2,20 +2,20 @@
 
 ## Zusammensetzung
 
-Diese Vollprüfung enthält top-10 von 93 Skills des Plugins `fachanwalt-versicherungsrecht`.
+Diese Vollprüfung enthält top-10 von 91 Skills des Plugins `fachanwalt-versicherungsrecht`.
 
 ## Inhaltsverzeichnis
 
 1. **juristischer-argumentationskern** — Schaltet sich ein, wenn in Fachanwalt Versicherungsrecht ein juristisches Arbeitsprodukt tragfähig begründet werden muss…
 2. **versicherungsprozess-versandmappe-endfertigen** — Endfertigt Deckungs-, Leistungs-, Rücktritts-, Anfechtungs- und Regressschriftsätze im Versicherungsrecht: liest Antrag,…
-3. **einstieg-routing** — Wenn es um Anwalts-Dashboard Fachanwalt Versicherungsrecht in Fachanwalt Versicherungsrecht geht: klärt Rolle, Ziel, Fri…
-4. **mandat-triage-versicherungsrecht** — Wenn es um Mandat Triage Versicherungsrecht in Fachanwalt Versicherungsrecht geht: klärt Rolle, Ziel, Frist, Unterlagen …
-5. **orientierung-mandat-fachanwaltschaft** — Wenn es um Orientierung im Versicherungsvertragsrecht für Mandate und Fachanwaltschaft nach FAO in Fachanwalt Versicheru…
-6. **fachanwalt-versicherungsrecht-orientierung** — Wenn es um Fachanwalt für Versicherungsrecht — Orientierung in Fachanwalt Versicherungsrecht geht: prüft Frist, Form, Zu…
-7. **erstgespraech-mandatsannahme** — Wenn es um Erstgespraech Mandatsannahme in Fachanwalt Versicherungsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsw…
-8. **erstpruefung-und-mandatsziel** — Wenn es um Fachanwalt: Erstprüfung, Rollenklärung und Mandatsziel in Fachanwalt Versicherungsrecht geht: klärt Rolle, Zi…
-9. **fachanwalt-versicherungsrecht-deckungsklage** — Wenn es um Deckungsklage in Fachanwalt Versicherungsrecht geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Be…
-10. **deckungsklage** — Wenn es um Deckungsklage in Fachanwalt Versicherungsrecht geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Be…
+3. **einstieg-routing** — Für Anwalts-Dashboard Fachanwalt Versicherungsrecht: routet Rolle, Frist, Unterlagen und Fachschritt; Ergebnis: Prüfprod…
+4. **mandat-triage-versicherungsrecht** — Für Mandat Triage Versicherungsrecht: routet Rolle, Frist, Unterlagen und Fachschritt; Ergebnis: Prüfprodukt mit Risiko …
+5. **orientierung-mandat-fachanwaltschaft** — Für Orientierung im Versicherungsvertragsrecht für Mandate und Fachanwaltschaft nach FAO: ordnet Norm, Beweislast und Ge…
+6. **fachanwalt-versicherungsrecht-orientierung** — Für Fachanwalt für Versicherungsrecht — Orientierung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt m…
+7. **erstgespraech-mandatsannahme** — Für Erstgespräch Mandatsannahme: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächste…
+8. **erstpruefung-und-mandatsziel** — Für Fachanwalt: Erstprüfung, Rollenklärung und Mandatsziel: routet Rolle, Frist, Unterlagen und Fachschritt; Ergebnis: T…
+9. **fachanwalt-versicherungsrecht-deckungsklage** — Für Deckungsklage: erstellt Entwurf mit Antrag, Beweis und Anlagen; Ergebnis: Schriftsatz mit Begründungs- und Anlagenlo…
+10. **schnittstelle-zahlen-schwellen-und-berechnung** — Für Schnittstelle: Zahlen, Schwellenwerte und Berechnung: rechnet Beträge, Schwellen und Varianten; Ergebnis: Berechnung…
 
 ---
 
@@ -139,7 +139,7 @@ Ausgangspunkt für dieses Plugin: Versicherungsnehmer für Versicherungsfall und
 
 ## Skill: `versicherungsprozess-versandmappe-endfertigen`
 
-_Endfertigt Deckungs-, Leistungs-, Rücktritts-, Anfechtungs- und Regressschriftsätze im Versicherungsrecht: liest Antrag, Police, Bedingungen, Nachträge, Risikofragen, Schadenanzeige, Regulierung und Gutachten zuerst, prüft Antrag, Obliegenheit, Kausalität und Bezifferung, ordnet Vertrags- und Schadenbelege zu und liefert beA-Einzeldateien mit Bedingungs- und Betragskontrolle._
+_Endfertigt Deckungs-, Leistungs-, Rücktritts-, Anfechtungs- und Regressschriftsätze im Versicherungsrecht: liest Antrag, Police, Bedingungen, Nachträge, Risikofragen, Schadenanzeige, Regulierung und Gutachten zuerst, prüft Antrag, Obliegenheit, Kausalität und Bezifferung, ordnet Vertrags- und Schadenbelege zu und liefert beA-Einzeldateien mit Bedingungs-._
 
 # Versicherungsprozess-Versandmappe endfertigen
 
@@ -161,7 +161,7 @@ Liefere Schriftsatz, Einzelanlagen, Bedingungs- und Deckungsmatrix, Schadensbere
 
 ## Skill: `einstieg-routing`
 
-_Wenn es um Anwalts-Dashboard Fachanwalt Versicherungsrecht in Fachanwalt Versicherungsrecht geht: klärt Rolle, Ziel, Frist, Unterlagen und den passenden nächsten Fachskill; liefert eine Fristen- und Risikoampel mit Sofortschritten._
+_Für Anwalts-Dashboard Fachanwalt Versicherungsrecht: routet Rolle, Frist, Unterlagen und Fachschritt; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt._
 
 # Anwalts-Dashboard Fachanwalt Versicherungsrecht
 
@@ -227,7 +227,7 @@ Diese Triage ist Ihre Vorbereitung, nicht Ihre Entscheidung. Sie führen das Man
 
 ## Skill: `mandat-triage-versicherungsrecht`
 
-_Wenn es um Mandat Triage Versicherungsrecht in Fachanwalt Versicherungsrecht geht: klärt Rolle, Ziel, Frist, Unterlagen und den passenden nächsten Fachskill; liefert eine Fristen- und Risikoampel mit Sofortschritten._
+_Für Mandat Triage Versicherungsrecht: routet Rolle, Frist, Unterlagen und Fachschritt; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt._
 
 # Strukturierte Eingangs-Abfrage für versicherungsrechtliche Mandate mit Fristen-Sofort-Check
 
@@ -399,7 +399,7 @@ Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwiss
 
 ## Skill: `orientierung-mandat-fachanwaltschaft`
 
-_Wenn es um Orientierung im Versicherungsvertragsrecht für Mandate und Fachanwaltschaft nach FAO in Fachanwalt Versicherungsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten._
+_Für Orientierung im Versicherungsvertragsrecht für Mandate und Fachanwaltschaft nach FAO: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt._
 
 # Orientierung im Versicherungsvertragsrecht für Mandate und Fachanwaltschaft nach FAO
 
@@ -507,7 +507,7 @@ Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwiss
 
 ## Skill: `fachanwalt-versicherungsrecht-orientierung`
 
-_Wenn es um Fachanwalt für Versicherungsrecht — Orientierung in Fachanwalt Versicherungsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten._
+_Für Fachanwalt für Versicherungsrecht — Orientierung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt._
 
 # Fachanwalt für Versicherungsrecht — Orientierung
 
@@ -605,7 +605,7 @@ Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwiss
 
 ## Skill: `erstgespraech-mandatsannahme`
 
-_Wenn es um Erstgespraech Mandatsannahme in Fachanwalt Versicherungsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten._
+_Für Erstgespräch Mandatsannahme: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt. Fachgebiet: Fachanwalt Versicherungsrecht._
 
 # Strukturierter Erstgespraechsleitfaden für Versicherungsvertragsrecht (Personen- und Sachversicherung): Erfassung der Konstellation, Konflikt- und GwG-Check, Vollmacht, Streitwert/Gebührenvereinbarung, Fristen-Erstprognose und Handlungsweichen.
 
@@ -784,7 +784,7 @@ Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwiss
 
 ## Skill: `erstpruefung-und-mandatsziel`
 
-_Wenn es um Fachanwalt: Erstprüfung, Rollenklärung und Mandatsziel in Fachanwalt Versicherungsrecht geht: klärt Rolle, Ziel, Frist, Unterlagen und den passenden nächsten Fachskill; liefert eine Fristen- und Risikoampel mit Sofortschritten._
+_Für Fachanwalt: Erstprüfung, Rollenklärung und Mandatsziel: routet Rolle, Frist, Unterlagen und Fachschritt; Ergebnis: Tatbestands- oder Anspruchsmatrix. Fachgebiet: Fachanwalt Versicherungsrecht._
 
 # Fachanwalt: Erstprüfung, Rollenklärung und Mandatsziel
 
@@ -837,7 +837,7 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 
 ## Skill: `fachanwalt-versicherungsrecht-deckungsklage`
 
-_Wenn es um Deckungsklage in Fachanwalt Versicherungsrecht geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik. Auswahlstichwort: Fachanwalt Versicherungsrecht Deckungsklage; Arbeitsfeld: Fachanwalt Versicherungsrecht._
+_Für Deckungsklage: erstellt Entwurf mit Antrag, Beweis und Anlagen; Ergebnis: Schriftsatz mit Begründungs- und Anlagenlogik. Fachgebiet: Fachanwalt Versicherungsrecht. Route: fachanwalt-versicherungsrecht-deckungsklage._
 
 # Deckungsklage
 
@@ -1156,12 +1156,27 @@ Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwiss
 
 ---
 
-## Skill: `deckungsklage`
+## Skill: `schnittstelle-zahlen-schwellen-und-berechnung`
 
-_Wenn es um Deckungsklage in Fachanwalt Versicherungsrecht geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik. Auswahlstichwort: Deckungsklage; Arbeitsfeld: Fachanwalt Versicherungsrecht._
+_Für Schnittstelle: Zahlen, Schwellenwerte und Berechnung: rechnet Beträge, Schwellen und Varianten; Ergebnis: Berechnungstabelle mit Annahmen und Kontrollfragen. Fachgebiet: Fachanwalt Versicherungsrecht._
 
-# Deckungsklage gegen Versicherer auf Versicherungsleistung nach erfolgloser außergerichtlicher Phase
+# Schnittstelle: Zahlen, Schwellenwerte und Berechnung
 
+
+## Normenanker
+
+Vor einer rechtlichen Schlussfolgerung diese Anker am aktuellen Normtext prüfen; Spezial- und Landesrecht nur hinzunehmen, wenn es den konkreten Auftrag traegt:
+
+- `§ 241 Abs. 2 BGB` — Rücksichtnahme-, Schutz- und Organisationspflichten.
+- `§ 242 BGB` — Treu und Glauben als Korrektiv enger Klausel- und Anspruchsarbeit.
+- `§ 280 Abs. 1 BGB` — Pflichtverletzung, Vertretenmuessen, Schaden.
+- `§ 286 Abs. 1 BGB` — Verzug und Fristlogik.
+- `§ 195 BGB` — regelmäßige Verjährung.
+- `§ 199 Abs. 1 BGB` — Beginn der regelmäßigen Verjährung.
+- `§ 253 Abs. 2 ZPO` — Bestimmtheit von Antrag und Klagegrund.
+- `§ 138 Abs. 1 ZPO` — Wahrheitspflicht und vollstaendiger Tatsachenvortrag.
+
+Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei prüfbare Quelle vorliegen; keine BeckRS-/juris-Blindzitate verwenden.
 
 ## Arbeitsweg
 
@@ -1171,320 +1186,26 @@ _Wenn es um Deckungsklage in Fachanwalt Versicherungsrecht geht: erstellt den pa
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
-**Fokus:** Deckungsklage gegen Versicherer auf Versicherungsleistung nach erfolgloser außergerichtlicher Phase. Anwendungsfall Versicherer verweigert Leistung endgueltig und Klage soll erhoben werden. Normen § 1 VVG Versicherungsanspruch § 215 VVG örtliche Zuständigkeit Wohnsitz § 256 ZPO Feststellungsantrag § 114 ZPO PKH. Prüfraster Streitwert Zuständigkeit AG oder LG Klageantrag Beweislast Sachverständigennachweis. Output Deckungsklage-Entwurf mit Antrag Sachverhalt AVB-Auslegung Sachverständigenantrag und PKH-Antrag. Abgrenzung zu klage-versicherer-strategie und fachanwalt-versicherungsrecht-leistungsablehnung-prüfen.
-
-### Deckungsklage
-
-## Kaltstart-Rückfragen
-
-1. Wurde außergerichtlich vollständig die Leistung gefordert und ist die Ablehnung endgültig? Liegt ein ausdrückliches Ablehnungsschreiben vor?
-2. Bei BU-Versicherung: Liegt ein Berufsunfähigkeitsgutachten und liegen ärztliche Atteste vor? Ist der Grad der BU von mindestens 50 % ärztlich belegt?
-3. Welche Klageart ist erforderlich — Leistungsklage auf bezifferten Betrag oder Feststellungsklage auf künftige Rentenpflicht (§ 256 ZPO)?
-4. Welcher Streitwert ergibt sich — bei wiederkehrenden Leistungen 3,5-facher Jahreswert (§ 9 ZPO); gedeckelt wenn Restlaufzeit kürzer?
-5. Besteht Rechtsschutzversicherung — Deckungszusage eingeholt? Oder ist PKH (§ 114 ZPO) zu beantragen?
-6. Sind alle Vertragsunterlagen (Police, AVB-Fassung zum Vertragsschluss, Antragsformular, sämtliche Schriftwechsel) vorhanden?
-7. Droht Verjährung (3 Jahre ab Jahresende der Kenntnis §§ 195, 199 BGB)? Hemmung durch Ombudsstelle § 204 BGB aktiv?
-8. Ist eine Streitverkündung an den Versicherungsmakler/Vermittler erforderlich (bei Beratungsfehlern)?
-- **Was will der Mandant wirklich erreichen?** (Nicht: was steht im Standardweg, sondern: welches Ergebnis ist für den Mandanten persoenlich/wirtschaftlich das beste? Manchmal ist der schnellere Vergleich besser als der formal "richtige" Weg.)
-
-## Rechtsgrundlagen
-
-### Normtexte (Kernauszug)
-
-- **§ 1 VVG** — Materielle Anspruchsgrundlage; Versicherungspflicht des VR.
-- **§ 14 VVG** — Fälligkeit nach Abschluss der zur Feststellung nötigen Erhebungen; Verzug ab Mahnung oder Fristablauf.
-- **§ 215 VVG** — Örtliche Zuständigkeit: VN kann am Wohnsitz / gewöhnlichen Aufenthalt klagen; auch Sitz des VR wählbar.
-- **§ 23 Nr. 1 GVG** — Sachliche Zuständigkeit AG: bis EUR 10000 (ab 01.01.2026 Justizreform).
-- **§ 71 Abs. 1 GVG** — Sachliche Zuständigkeit LG: ab EUR 10000.
-- **§ 9 ZPO** — Streitwert wiederkehrender Leistungen: 3,5-facher Jahreswert; gedeckelter Wert bei kürzerer Restlaufzeit.
-- **§ 114 ZPO** — PKH bei wirtschaftlicher Bedürftigkeit und hinreichenden Erfolgsaussichten; Beiordnung eines RA.
-- **§ 379 ZPO** — Sachverständigenvorschuss; bei PKH Übernahme durch Staatskasse.
-- **§ 72 ZPO** — Streitverkündung; Makler, Vermittler bei Beratungspflichtverletzung einbeziehen.
-- **§§ 195, 199, 204 BGB** — Verjährung 3 Jahre; Hemmung durch Ombudsstelle und Verhandlungen.
-
-### Leitentscheidungen
-
-| Gericht | Aktenzeichen | Datum | Kernaussage |
-|---|---|---|---|
-
-
-## Prüfschema in Tabellenform
-
-**Vorab:** Der untenstehende ist die typische Standardlinie. Wenn die Mandantenlage abweicht (siehe "Strategische Optionen" oben), sind die Schritte entsprechend zu verkuerzen, umzustellen oder durch ein anderes Skill zu ersetzen — der ist Leitfaden, nicht Pflichtprogramm.
-
-| Nr. | Prüfschritt | Norm | Konsequenz |
-|---|---|---|---|
-| 1 | Außergerichtlich endgültige Ablehnung? | § 14 VVG | Klage erst nach endgültiger Ablehnung sinnvoll |
-| 2 | Klageart — Leistung oder Feststellung? | §§ 253, 256 ZPO | BU-Rente: Feststellungsantrag; Sachschaden: Leistungsantrag |
-| 3 | Sachliche Zuständigkeit (Streitwert)? | §§ 23, 71 GVG; § 9 ZPO | BU 3,5-facher Jahreswert; Sachschaden = Hauptforderung |
-| 4 | Örtliche Zuständigkeit nach § 215 VVG? | § 215 VVG | Wohnsitz VN bevorzugt; auch Sitz VR möglich |
-| 5 | Verjährung geprüft? | §§ 195, 199, 203, 204 BGB | Hemmung dokumentieren |
-| 6 | Vollständige Vertragsunterlagen vorhanden? | AVB; Police; Antrag | Ohne AVB-Fassung zum Vertragsschluss: schwer zu klagen |
-| 7 | Beweise zum Versicherungsfall vollständig? | ZPO §§ 371, 373, 402 | SV-Gutachten, Zeugen, Urkunden benennen |
-| 8 | PKH-Antrag vorbereitet? | § 114 ZPO | Einkommensverhältnisse, hinreichende Erfolgsaussicht |
-| 9 | Rechtsschutz-Deckungszusage eingeholt? | Rechtsschutz-AVB | Deckungszusage vor Klageerhebung erforderlich |
-| 10 | Sachverständigenvorschuss eingeplant? | § 379 ZPO | Ca. EUR 2000–5000 für Medizin-SV |
-| 11 | Streitverkündung Makler/Vermittler? | § 72 ZPO | Verjährungswirkung; Bindungswirkung für Folgeprozess |
-| 12 | Vorläufige Vollstreckbarkeit beantragt? | § 708 Nr. 11 ZPO | Standardantrag in Klage |
-| 13 | Zinsen berechnet? | §§ 280, 286, 288 BGB | Ab Verzugseinritt; 5 % über Basiszinssatz |
-| 14 | Außergerichtliche Anwaltskosten berechnet? | § 249 BGB; RVG | 1,3 Geschäftsgebühr aus Gegenstandswert |
-
-## Strategische Optionen (vor dem Template entscheiden)
-
-Bevor das Template eins-zu-eins gefuellt wird, ist zu prüfen welche Variante zur Mandantenkonstellation passt. Das Template ist **eine** moegliche Form — nicht die einzige.
-
-| Konstellation | Empfohlener Weg |
-|---|---|
-| Standard — Deckungsklage gegen Versicherer | Klageschrift nach Prüfschema; Template unten |
-| Variante A — Versicherer hat nur teilweise abgelehnt | Klage auf Differenzbetrag; Vergleich zu voller Deckung anstreben |
-| Variante B — Verjährung droht innerhalb 3 Monaten | Klage sofort; Verhandlung parallel |
-| Variante C — Mandant will keine Eskalation Folgegeschaeft | Mediation oder Ombudsmann-Verfahren zuerst; Klage danach |
-
-Wenn die Mandantenkonstellation **nicht** ins Standardschema passt, ist das Template anzupassen oder durch ein anderes Skill abzuloesen — nicht das Mandat in das Schema zu pressen.
-
-## Schriftsatzbausteine
-
-### Baustein 1 — Vollständige Klageschrift BU-Versicherung
-
-```
-An das Landgericht [Ort]
-— Zivilkammer —
-
-KLAGESCHRIFT
-
-[Vorname Nachname], geb. [Datum], [Adresse]
- — Kläger —
-Prozessbevollmächtigte:
-Rechtsanwältinnen/Rechtsanwälte [Kanzlei, Adresse]
-
-gegen
-
-[Versicherungs-AG], vertreten durch den Vorstand,
-[Adresse]
- — Beklagte —
-
-wegen Berufsunfähigkeitsleistung
-Streitwert: vorläufig EUR ____ (3,5 × [Jahresrente])
-
-I. ANTRÄGE
-
-1. Es wird festgestellt, dass die Beklagte verpflichtet ist,
- dem Kläger aus dem Berufsunfähigkeitsversicherungsvertrag,
- Police Nr. [Nr.], Anlage K1, ab dem [Datum] eine monatliche
- Berufsunfähigkeitsrente von EUR [Betrag] sowie Befreiung von
- der Beitragszahlungspflicht zu leisten, solange und soweit
- beim Kläger Berufsunfähigkeit von mindestens 50 % in seiner
- zuletzt ausgeübten Tätigkeit als [Beruf] besteht.
-
-2. Die Beklagte wird verurteilt, an den Kläger für den Zeitraum
- [Beginn] bis [aktuell] rückständige Renten in Höhe von
- EUR [Summe] nebst Zinsen in Höhe von 5 Prozentpunkten über
- dem Basiszinssatz seit [Datum] zu zahlen.
-
-3. Die Beklagte wird verurteilt, an den Kläger vorgerichtliche
- Anwaltskosten in Höhe von EUR [Berechnung nach RVG] zu zahlen.
-
-4. Die Kosten des Rechtsstreits trägt die Beklagte.
-
-5. Das Urteil ist gegen Sicherheitsleistung in Höhe von 110 %
- vorläufig vollstreckbar.
-
-II. SACHVERHALT
-
-Der Kläger unterhält bei der Beklagten eine
-Berufsunfähigkeitszusatzversicherung (Police Nr. [Nr.]),
-abgeschlossen am [Datum], monatliche Rente EUR [Betrag],
-Beitragsbefreiung bei BU (Anlage K1 Police; Anlage K2 AVB).
-
-Seit [Datum] ist der Kläger infolge [Erkrankung/Diagnose,
-ICD-Code: [X]] nicht mehr in der Lage, seinen zuletzt als
-[Beruf] ausgeübten Beruf zu mindestens 50 % auszuüben.
-
-Sein Berufsbild umfasste im Einzelnen folgende Tätigkeiten:
-1. [Tätigkeit, Zeitanteil %]
-2. [Tätigkeit, Zeitanteil %]
-3. [Tätigkeit, Zeitanteil %]
-[Detailbeschreibung der körperlichen/kognitiven Anforderungen]
-
-Der Kläger meldete die Berufsunfähigkeit am [Datum] bei der
-Beklagten an (Anlage K3). Die Beklagte lehnte die Leistung
-mit Schreiben vom [Datum] ab (Anlage K4).
-
-III. FESTSTELLUNGSINTERESSE
-
-Die Beklagte bestreitet die Leistungspflicht dem Grunde nach.
-Das Feststellungsinteresse gemäß § 256 ZPO ist gegeben —
-
-IV. RECHTLICHE WÜRDIGUNG
-
-1. Versicherungsfall — Berufsunfähigkeit liegt vor
- Der Kläger ist nach ärztlichen Attesten (Anlagen K5–K8)
- und nach dem SV-Gutachten [Name] vom [Datum] (Anlage K9)
- seit [Datum] zu mindestens 50 % berufsunfähig bezogen
-
-2. Keine Obliegenheitsverletzung
- [Ablehnungsgrund Versicherer + Widerlegung]
-
-3. Kein Risikoausschluss einschlägig
- [AVB-Ausschluss-Klausel prüfen + ggf. Transparenzrüge]
-
-V. BEWEISANGEBOTE
-
-- Anlage K1: Police
-- Anlage K2: AVB (Fassung [Datum/Version])
-- Anlage K3: Schadensmeldung
-- Anlage K4: Ablehnungsschreiben
-- Anlage K5–K8: Ärztliche Atteste/Befundberichte
-- Anlage K9: SV-Gutachten (ggf. gerichtliche Bestellung
- beantragt: Medizinischer SV des Fachgebiets [X])
-- Zeuge: Behandelnder Arzt [Name, Adresse] zum Beweis der
- Diagnose und des Verlaufs
-- Parteivernehmung Kläger § 448 ZPO zur Berufstätigkeit
- (hilfsweise)
-
-[Kanzlei]
-```
-
-### Baustein 2 — PKH-Erklärung und Antrag (Kurzschema)
-
-```
-ANTRAG AUF PROZESSKOSTENHILFE
-gemäß § 114 ZPO
-
-mit der Bitte um Beiordnung:
-Rechtsanwalt/Rechtsanwältin [Name, Kanzlei]
-
-I. Wirtschaftliche Bedürftigkeit
-Monatliches Nettoeinkommen: EUR [Betrag]
-Abzüge: [Kosten Unterkunft, Unterhalt etc.]
-Verfügbares Einkommen: EUR [unter Freibetrag]
-Erklärung mit Belegen: Anlage PKH 1-4
-
-II. Hinreichende Erfolgsaussichten
-Die Klage ist hinreichend aussichtsreich, da
-[Zusammenfassung Ablehnungsgründe + Widerlegung].
-
-III. Bitte um Ratenzahlung
-Monatlich EUR [Betrag] ab [Datum].
-
-[Kanzlei]
-```
-
-### Baustein 3 — Streitverkündung an Versicherungsmakler
-
-```
-STREITVERKÜNDUNG § 72 ZPO
-
-In dem Rechtsstreit [Az] verkünden wir dem
-
-[Makler/Vermittler GmbH], [Adresse]
-
-den Streit.
-
-Für den Fall, dass die Klage gegen die Beklagte Versicherungs-AG
-abgewiesen werden sollte, werden wir Ersatzansprüche gegen den
-Streitverkündungsempfänger geltend machen, da er bei Abschluss
-des Versicherungsvertrags nicht korrekt über die Anforderungen
-an die Anzeigepflicht § 19 VVG / die AVB-Klauseln [X] belehrt hat.
-
-Die Streitverkündung erfolgt zur Bindungswirkung für einen
-etwaigen Folgeprozess (§ 74 ZPO).
-
-[Kanzlei]
-```
-
---- vor Versand klären ---
-1. Welches Verhandlungsziel hat der Mandant? [Durchsetzung des Anspruchs / Vergleich / Reputationsschutz / schnelle Loesung]
-2. Welche Kompromisslinien sind absolut? [Mindestforderung / Zeitrahmen / Formerfordernis]
-3. Sind Anschlusswege erwuenscht? [Mediation / Direktgesprach / Einigung vor Fristablauf]
-
-Schlussabsatz Variante A (kooperativ):
-Wir regen eine guetliche Einigung an und stehen für ein klärenden Gesprach zur Verfuegung. Eine einvernehmliche Loesung erspart beiden Seiten Zeit und Kosten.
-
-Schlussabsatz Variante B (formal-streng):
-Eine aussergerichtliche Einigung kommt nur in Betracht wenn die Gegenseite innerhalb von [X] Tagen einen akzeptablen Vorschlag unterbreitet. Anderenfalls werden wir alle rechtlichen Schritte einleiten.
-
-## Beweislast und Darlegungslast
-
-| Frage | Beweislast |
-|---|---|
-| Eintritt des Versicherungsfalls | Kläger (VN) |
-| Grad der Berufsunfähigkeit | Kläger; SV-Gutachten |
-| Schadenshöhe (Rückstände, künftige Rente) | Kläger (Police-Wert) |
-| Obliegenheitsverletzung | Beklagte (Versicherer) |
-| Kausalität Obliegenheit → Schaden fehlt | Kläger (§ 28 Abs. 3 VVG Exkulpation) |
-| AVB-Klausel wirksam | Beklagte / Gericht (Transparenzprüfung) |
-| Verjährungshemmung | Kläger |
-
-## Fristen und Verjährung
-
-| Frist | Dauer | Anker | Norm |
-|---|---|---|---|
-| Verjährung | 3 Jahre | Jahresende der Kenntnis | §§ 195, 199 BGB |
-| Hemmung Ombudsstelle | Dauer + 6 Monate | Einleitung | § 204 Abs. 1 Nr. 4 BGB |
-| Hemmung Verhandlungen | Dauer | Verhandlungsbeginn | § 203 BGB |
-| Fälligkeit Versicherungsleistung | nach Abschluss Ermittlungen | Abschluss | § 14 Abs. 1 VVG |
-| Streitverkündungsfrist für Regress | abhängig von Anspruch (typisch 3 Jahre) | Kenntnis Mangel | §§ 195, 199 BGB |
-
-## Typische Gegenargumente und Reaktion
-
-| Einwand Versicherer | Reaktion |
-|---|---|
-| BU-Grad unter 50 % | Eigenes SV-Gutachten vorlegen; gerichtlicher SV im Prozess; Berufsbildanalyse detailliert |
-| Verweisung auf Vergleichsberuf | AVB auf abstrakte Verweisung prüfen; neuere AVB schließen häufig aus |
-| Vorvertragliche Anzeigepflicht verletzt | Antragsfragebogen prüfen; Kausalität zwischen Nichtanzeige und Berufsunfähigkeit |
-| PKH-Antrag abzuweisen wegen mangelnder Erfolgsaussichten | Konkrete Ablehnungsbegründung ist schwach; Erfolgsaussicht darlegen |
-| Sachverständigenkosten zu hoch | § 379 ZPO-Vorschuss; bei PKH übernimmt Staatskasse; SV-Beauftragung notwendig |
-
-## Streitwert und Kosten
-
-- BU-Versicherung: 3,5-facher Jahreswert der Rente (§ 9 ZPO); bei 10 Jahren Restlaufzeit und EUR 1500/Monat = EUR 63000 Streitwert.
-- Gerichtskostenvorschuss LG bei Streitwert EUR 63000: ca. EUR 1638 (GKG).
-- Medizinischer SV-Vorschuss: EUR 2500–6000.
-- Bei PKH-Bewilligung: Staatskasse trägt GKG-Vorschuss und SV-Kosten.
-- Rechtsschutzversicherung: Deckungszusage vorab zwingend; ohne Zusage Eigenanteil des Mandanten.
-
-## Strategische Empfehlung
-
-| Situation | Empfehlung |
-|---|---|
-| BU — klarer medizinischer Befund | SV-Gutachten vorab einholen; Klageschrift mit Gutachten einreichen |
-| BU — streitiger Grad | Feststellungsklage; gerichtlicher SV-Beweis; Berufsbild detailliert beschreiben |
-| Sachschaden — Ablehnung ohne Substanz | Direktklage nach 2-Wochen-Fristsetzung |
-| Streitwert unter EUR 10000 | AG-Verfahren; Ombudsstelle prüfen (bindend bis EUR 10000) |
-| Verjährung naht | Klageeinreichung hemmt Verjährung ab Zustellung § 204 Abs. 1 Nr. 1 BGB |
-
-## Anschluss-Skills
-
-- `deckungsanfrage-pruefen` — Vorprüfung vor Klage
-- `klage-versicherer-strategie` — Klagestrategie-Details
-- `fachanwalt-versicherungsrecht-regress-abwehr` — Regress des Versicherers
-
-## Quellen
-
-Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
-
-## Vertiefung — Aktuelle Rechtsprechung und Normen
-
-### Paragrafenkette
-
-§ 256 ZPO (Feststellungsklage bei laufender BU-Rente) → § 215 VVG (örtliche Zuständigkeit Klage VN gegen Versicherer) → §§ 23, 71 GVG (sachliche Zuständigkeit AG/LG nach Streitwert) → § 1 VVG (Hauptleistungspflicht) → § 286 ZPO (Beweislast und freie Beweiswürdigung) → § 402 ZPO (gerichtlicher Sachverständiger) → § 114 ZPO (PKH bei Bedürftigkeit) → § 286 ZPO (Beweiswürdigung Privatgutachten)
-
-### Quellenregel
-
-Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
-
-## Triage — Sofortprüfung Deckungsklage
-
-1. **Zuständigkeit prüfen:** Streitwert ≤ 10.000 EUR → AG; > 10.000 EUR → LG. Örtlich: Wohnsitz VN (§ 215 VVG) oder Sitz Versicherer (§ 17 ZPO) — Wahlrecht beim Kläger.
-2. **Klageantrag formulieren:** Laufende Rente → Feststellungsantrag § 256 ZPO; rückständige Beträge → Zahlungsantrag beziffert.
-3. **Sachverständigenbeweis vorbereiten:** Privatgutachten als Anlage + Antrag auf gerichtliches Gutachten; Kosten-PKH prüfen.
-4. **PKH-Berechtigung prüfen:** § 114 ZPO — ausreichende Erfolgsaussichten (Gutachtenlage) + Bedürftigkeit.
-5. **Verjährung hemmen:** Bei Verhandlungen § 203 BGB; sonst Klageschrift einreichen vor Ablauf der 3-Jahres-Frist.
-
----
-
-> Quellenregel: Entscheidungen nur nach Prüfung einer amtlichen oder frei zugänglichen Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage ausgeben.
+**Fokus:** Schnittstelle: Zahlen, Schwellenwerte und Berechnung.
+
+## Spezialwissen: Schnittstelle: Zahlen, Schwellenwerte und Berechnung
+- **Normen-/Quellenanker:** VVG, VAG.
+
+## Fallweichen
+Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur Rückfragen, die die nächste Weiche verändern:
+
+1. Welche Rolle hat die fragende Person und wer ist Gegenüber?
+2. Welches konkrete Ziel soll erreicht oder verhindert werden?
+3. Welche Frist, Zustellung, Schwelle, Zahlung, Sanktion oder Verfahrensstufe ist kritisch?
+4. Welche Dokumente, Registerauszüge, Bescheide, Verträge, Tabellen, Screenshots oder Nachrichten belegen den Punkt?
+5. Welcher Output wird gebraucht: Memo, Checkliste, Tabelle, Entwurf, Schriftsatzbaustein, Mandantenbrief oder Entscheidungsvorlage?
+
+## Arbeitsworkflow
+1. **Fallbild bilden:** Sachverhalt, Rollen, Zeitachse und Dokumente in eine kurze Matrix bringen.
+2. **Rechtsrahmen setzen:** Normen, Zuständigkeiten, Fristen, Formfragen und Verfahrensstand zum Themenfeld **Schnittstelle** prüfen.
+3. **Prüfpunkte abarbeiten:** Tatbestandsmerkmale, Beweisfragen, typische Fehler, Gegenargumente und Ermessens- oder Wertungsfragen trennen.
+4. **Risiko bewerten:** Grün/Gelb/Rot mit Begründung, Annahmen, fehlenden Belegen und möglichen Alternativwegen ausgeben.
+5. **Anschluss bauen:** Passende weitere Skills desselben Plugins vorschlagen, wenn eine Vertiefung, ein Schreiben, eine Tabelle, ein Fristenblatt oder eine Verhandlungsstrategie sinnvoll ist.
 
 ---
 

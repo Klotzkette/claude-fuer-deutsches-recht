@@ -1,6 +1,6 @@
 ---
 name: cluster-und-systemmaerkte
-description: "Wenn es um Cluster- und Systemmärkte in Kartellrecht — Marktabgrenzungsprüfung geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Cluster- und Systemmärkte: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Cluster- und Systemmärkte

@@ -1,6 +1,6 @@
 ---
 name: treuepflicht-gesellschafterdarlehen
-description: "Wenn es um Treuepflicht Gesellschafterdarlehen in Gesellschaftsrechtliche Treuepflicht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen."
+description: "Für Treuepflicht Gesellschafterdarlehen: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Schnittstellenkarte mit Zuständigkeits- und Nachweisfragen."
 ---
 
 # Treuepflicht Gesellschafterdarlehen

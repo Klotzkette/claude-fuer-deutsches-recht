@@ -1,6 +1,6 @@
 ---
 name: werbung-mit-erfolgsquoten-organisationspflicht-u
-description: "Wenn es um Werbung Mit Erfolgsquoten Organisationspflicht U in Berufsrecht Patentanwälte geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Werbung mit Erfolgsquoten Organisationspflicht U: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Patentanwälte: werbung mit erfolgsquoten - Organisationspflichten, Prävention, Team-Anweisung und Fristenkontrolle

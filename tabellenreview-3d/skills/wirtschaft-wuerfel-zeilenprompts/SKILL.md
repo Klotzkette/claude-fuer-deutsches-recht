@@ -1,6 +1,6 @@
 ---
 name: wirtschaft-wuerfel-zeilenprompts
-description: "Wenn es um Wirtschaft: Zahlen, Schwellenwerte und Berechnung in Tabellenreview 3D geht: rechnet Schwellen, Beträge, Varianten und Kontrollannahmen durch; liefert eine Berechnungstabelle mit Schwellen, Annahmen und Kontrollfragen."
+description: "Für Wirtschaft: Zahlen, Schwellenwerte und Berechnung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Wirtschaft: Zahlen, Schwellenwerte und Berechnung

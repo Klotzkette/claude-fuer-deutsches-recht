@@ -1,6 +1,6 @@
 ---
 name: verlagsmandat-werk-vertrag-vertrieb
-description: "Wenn es um Verl-001 · Kaltstart: Verlagsmandat, Werk, Vertrag, Vertrieb, Preis in Verlagsrecht und Buchpreisbindung geht: klärt Rolle, Ziel, Frist, Unterlagen und den passenden nächsten Fachskill; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
+description: "Für Verl-001 · Kaltstart: Verlagsmandat, Werk, Vertrag, Vertrieb, Preis: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Verl-001 · Kaltstart: Verlagsmandat, Werk, Vertrag, Vertrieb, Preis

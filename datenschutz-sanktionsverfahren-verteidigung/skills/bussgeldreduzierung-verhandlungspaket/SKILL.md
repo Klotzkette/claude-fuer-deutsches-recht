@@ -1,6 +1,6 @@
 ---
 name: bussgeldreduzierung-verhandlungspaket
-description: "Wenn es um Bußgeldreduzierung Verhandlungspaket in Datenschutz-Sanktionsverfahren und Verteidigung geht: entwickelt Verhandlungsziel, Vergleichskorridor und Eskalationspfad; liefert eine Verhandlungs- oder Eskalationslinie mit Optionen."
+description: "Für Bußgeldreduzierung Verhandlungspaket: entwickelt Ziel, Vergleich und Eskalation; Ergebnis: Verhandlungs- oder Eskalationslinie."
 ---
 
 # Bußgeldreduzierung Verhandlungspaket

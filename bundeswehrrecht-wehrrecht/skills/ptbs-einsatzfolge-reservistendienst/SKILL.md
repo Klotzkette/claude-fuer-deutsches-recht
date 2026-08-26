@@ -1,6 +1,6 @@
 ---
 name: ptbs-einsatzfolge-reservistendienst
-description: "Wenn es um PTBS als Einsatzfolge – Beweisführung in Bundeswehrrecht und Wehrrecht geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Beweislast- und Substantiierungsmatrix."
+description: "Für PTBS als Einsatzfolge – Beweisführung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # PTBS als Einsatzfolge – Beweisführung

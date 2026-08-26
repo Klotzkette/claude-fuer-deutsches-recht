@@ -1,6 +1,6 @@
 ---
 name: drift-verhandlung-vergleich-und-eskalation
-description: "Wenn es um Drift: Verhandlung, Vergleich und Eskalation in diesem Spezialbereich geht: entwickelt Verhandlungsziel, Vergleichskorridor und Eskalationspfad; liefert eine Verhandlungs- oder Eskalationslinie mit Optionen."
+description: "Für Drift: Verhandlung, Vergleich und Eskalation: entwickelt Ziel, Vergleich und Eskalation; Ergebnis: Verhandlungs- oder Eskalationslinie."
 ---
 
 # Drift: Verhandlung, Vergleich und Eskalation

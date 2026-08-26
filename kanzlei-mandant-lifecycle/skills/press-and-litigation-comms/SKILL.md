@@ -1,6 +1,6 @@
 ---
 name: press-and-litigation-comms
-description: "Wenn es um Press and Litigation Comms in Kanzlei-Mandant Lifecycle geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Press and Litigation Comms: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Press and Litigation Comms

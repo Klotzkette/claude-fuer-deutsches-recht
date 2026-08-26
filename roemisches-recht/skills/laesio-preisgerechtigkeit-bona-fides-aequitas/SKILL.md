@@ -1,6 +1,6 @@
 ---
 name: laesio-preisgerechtigkeit-bona-fides-aequitas
-description: "Wenn es um Laesio enormis und Preisgerechtigkeit in Römisches Recht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Laesio enormis und Preisgerechtigkeit: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Laesio enormis und Preisgerechtigkeit

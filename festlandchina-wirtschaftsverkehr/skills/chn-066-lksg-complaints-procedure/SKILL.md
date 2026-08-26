@@ -1,6 +1,6 @@
 ---
 name: chn-066-lksg-complaints-procedure
-description: "Wenn es um LkSG Complaints Procedure in China-Wirtschaftsverkehr geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für LkSG Complaints Procedure: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # LkSG Complaints Procedure

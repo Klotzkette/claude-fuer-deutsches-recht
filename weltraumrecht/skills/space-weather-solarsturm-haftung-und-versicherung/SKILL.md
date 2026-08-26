@@ -1,6 +1,6 @@
 ---
 name: space-weather-solarsturm-haftung-und-versicherung
-description: "Wenn es um Space Weather: Solarsturm-Haftung und Versicherung in Weltraumrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Space Weather: Solarsturm-Haftung und Versicherung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Space Weather: Solarsturm-Haftung und Versicherung

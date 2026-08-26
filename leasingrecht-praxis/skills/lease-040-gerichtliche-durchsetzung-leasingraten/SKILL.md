@@ -1,6 +1,6 @@
 ---
 name: lease-040-gerichtliche-durchsetzung-leasingraten
-description: "Wenn es um Leasingrecht: Gerichtliche Durchsetzung Leasingraten in Leasingrecht Praxis geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Leasingrecht: Gerichtliche Durchsetzung Leasingraten: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Leasingrecht: Gerichtliche Durchsetzung Leasingraten

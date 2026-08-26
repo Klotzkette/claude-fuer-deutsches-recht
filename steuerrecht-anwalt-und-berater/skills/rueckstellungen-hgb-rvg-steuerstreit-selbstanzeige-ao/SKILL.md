@@ -1,6 +1,6 @@
 ---
 name: rueckstellungen-hgb-rvg-steuerstreit-selbstanzeige-ao
-description: "Wenn es um Rueckstellungen — Paragraf 249 HGB und steuerliche Vorgaben Paragraf 6 Abs. 1 Nr. 3a EStG in Steuerrecht – Steuerberater und Anwälte geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen. Auswahlstichwort: Rueckstellungen HGB Rvg Steuerstreit Selbstanzeige Ao; Arbeitsfeld: Steuerrecht – Steuerberater und Anwälte."
+description: "Für Rückstellungen — Paragraf 249 HGB und steuerliche Vorgaben Paragraf 6 Abs. 1 Nr. 3a EStG: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Schnittstellenkarte mit Zuständigkeits- und Nachweisfragen."
 ---
 
 # Rueckstellungen — § 249 HGB und steuerliche Vorgaben § 6 Abs. 1 Nr. 3a EStG

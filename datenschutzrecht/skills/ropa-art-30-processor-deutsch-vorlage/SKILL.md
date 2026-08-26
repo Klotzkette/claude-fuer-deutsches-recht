@@ -1,6 +1,6 @@
 ---
 name: ropa-art-30-processor-deutsch-vorlage
-description: "Wenn es um RoPA-Vorlage Auftragsverarbeiter (Processor) – Deutsch in Datenschutzrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für RoPA-Vorlage Auftragsverarbeiter (Processor) – Deutsch: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Schnittstellenkarte mit Zuständigkeits- und Nachweisfragen."
 ---
 
 # RoPA-Vorlage Auftragsverarbeiter (Processor) – Deutsch

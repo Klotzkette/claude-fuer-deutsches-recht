@@ -1,6 +1,6 @@
 ---
 name: fachanwalt-vergaberecht-schadensersatz-181-gwb
-description: "Wenn es um Schadensersatz nach Paragraf 181 GWB in Fachanwalt Vergaberecht geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
+description: "Für Schadensersatz nach Paragraf 181 GWB: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Schadensersatz nach § 181 GWB

@@ -1,6 +1,6 @@
 ---
 name: 24-abschlussverfuegung-und-entscheidungsvorschlag
-description: "Wenn es um 24 Abschlussverfuegung und Entscheidungsvorschlag in Staatsanwaltschaft und Amtsanwaltschaft geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
+description: "Für 24 Abschlussverfügung und Entscheidungsvorschlag: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # 24 Abschlussverfuegung und Entscheidungsvorschlag

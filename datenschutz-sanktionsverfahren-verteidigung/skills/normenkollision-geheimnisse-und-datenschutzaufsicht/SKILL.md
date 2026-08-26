@@ -1,6 +1,6 @@
 ---
 name: normenkollision-geheimnisse-und-datenschutzaufsicht
-description: "Wenn es um Geheimnisse gegenüber Datenschutzaufsicht in Datenschutz-Sanktionsverfahren und Verteidigung geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Tatbestands- oder Anspruchsmatrix mit Gegenargumenten."
+description: "Für Geheimnisse gegenüber Datenschutzaufsicht: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Tatbestands- oder Anspruchsmatrix."
 ---
 
 # Geheimnisse gegenüber Datenschutzaufsicht

@@ -1,6 +1,6 @@
 ---
 name: verhaltenskodex-integritaet-verstoesse-melden
-description: "Wenn es um Verhaltenskodex und Integritaet in Lobbyregister Bundestag geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert einen Einreichungsplan mit Form-, Portal- und Nachweischeck."
+description: "Für Verhaltenskodex und Integrität: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Verhaltenskodex und Integritaet

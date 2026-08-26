@@ -1,6 +1,6 @@
 ---
 name: landpacht-und-hoferbfolge-pruefen
-description: "Prüft Landpacht und Hofnachfolge in zwei getrennten, anschließend verzahnten Spuren. Erfasst Textform, Anzeige, Beanstandung, Anpassung, Kündigung und Fortsetzung sowie Hofstatus, Grundsteuerwert, Hoferbenordnung, Abfindung und Nachabfindung und liefert Vertragsprüfung, Fristenblatt, Hofnachfolgematrix oder bezifferte Anspruchsanlage."
+description: "Prüft Landpacht und Hofnachfolge in zwei getrennten, anschließend verzahnten Spuren."
 ---
 
 # Landpacht und Hofnachfolge prüfen

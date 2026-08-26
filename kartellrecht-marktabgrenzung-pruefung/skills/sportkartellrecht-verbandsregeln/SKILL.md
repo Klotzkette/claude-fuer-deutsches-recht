@@ -1,6 +1,6 @@
 ---
 name: sportkartellrecht-verbandsregeln
-description: "Wenn es um Sportkartellrecht Verbandsregeln in Kartellrecht — Marktabgrenzungsprüfung geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen."
+description: "Für Sportkartellrecht Verbandsregeln: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Sportkartellrecht Verbandsregeln

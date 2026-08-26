@@ -1,6 +1,6 @@
 ---
 name: preisangaben-e-commerce-apotheke
-description: "Wenn es um Preisangaben E-Commerce Apotheke in Apothekenrecht geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
+description: "Für Preisangaben E-Commerce Apotheke: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Preisangaben E-Commerce Apotheke

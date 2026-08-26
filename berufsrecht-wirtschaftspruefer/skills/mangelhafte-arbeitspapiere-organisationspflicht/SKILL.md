@@ -1,6 +1,6 @@
 ---
 name: mangelhafte-arbeitspapiere-organisationspflicht
-description: "Wenn es um Mangelhafte Arbeitspapiere Organisationspflicht in Berufsrecht Wirtschaftsprüfer geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Mangelhafte Arbeitspapiere Organisationspflicht: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Wirtschaftsprüfer: mangelhafte arbeitspapiere - Organisationspflichten, Prävention, Team-Anweisung und Fristenkontrolle

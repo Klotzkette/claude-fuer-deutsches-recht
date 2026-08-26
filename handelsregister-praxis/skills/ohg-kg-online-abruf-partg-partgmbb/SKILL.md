@@ -1,6 +1,6 @@
 ---
 name: ohg-kg-online-abruf-partg-partgmbb
-description: "Wenn es um GbR/eGbR zu OHG/KG in Handelsregister Praxis geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für GbR/eGbR zu OHG/KG: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # GbR/eGbR zu OHG/KG

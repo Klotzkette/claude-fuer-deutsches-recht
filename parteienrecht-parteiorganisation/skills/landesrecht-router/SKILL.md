@@ -1,6 +1,6 @@
 ---
 name: landesrecht-router
-description: "Wenn es um Landesrecht-Router Parteien in Parteienrecht und Parteiorganisation geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Landesrecht-Router Parteien: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Landesrecht-Router Parteien

@@ -1,6 +1,6 @@
 ---
 name: confidentiality-design-counterfeit
-description: "Wenn es um Confidentiality Design Leak in fashion-law-moderecht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Beweislast- und Substantiierungsmatrix."
+description: "Für Confidentiality Design Leak: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Confidentiality Design Leak

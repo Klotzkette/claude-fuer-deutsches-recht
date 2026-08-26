@@ -1,6 +1,6 @@
 ---
 name: ehrenamtliche-schulen
-description: "Wenn es um Ehrenamtliche Schulen in Wahlkampfrecht Praxis geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Ehrenamtliche Schulen: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Ehrenamtliche Schulen

@@ -1,6 +1,6 @@
 ---
 name: kirchensteuer-und-staatskirchenrecht
-description: "Wenn es um Kirchensteuer und Staatskirchenrecht in Römisch-katholisches Kirchenrecht CIC und Katechismus geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen."
+description: "Für Kirchensteuer und Staatskirchenrecht: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Schnittstellenkarte mit Zuständigkeits- und Nachweisfragen. Fachgebiet: Römisch-katholisches Kirchenrecht CIC und Katechismus. Route: kirchensteuer-und-staatskirchenrecht."
 ---
 
 # Kirchensteuer und Staatskirchenrecht

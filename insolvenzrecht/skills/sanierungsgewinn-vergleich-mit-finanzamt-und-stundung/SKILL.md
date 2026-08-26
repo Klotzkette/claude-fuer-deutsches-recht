@@ -1,6 +1,6 @@
 ---
 name: sanierungsgewinn-vergleich-mit-finanzamt-und-stundung
-description: "Wenn es um Sanierungsgewinn — Vergleich mit Finanzamt und Stundung in Insolvenzrecht geht: rechnet Schwellen, Beträge, Varianten und Kontrollannahmen durch; liefert eine Berechnungstabelle mit Schwellen, Annahmen und Kontrollfragen."
+description: "Für Sanierungsgewinn — Vergleich mit Finanzamt und Stundung: entwickelt Ziel, Vergleich und Eskalation; Ergebnis: Verhandlungs- oder Eskalationslinie."
 ---
 
 # Sanierungsgewinn — Vergleich mit Finanzamt und Stundung

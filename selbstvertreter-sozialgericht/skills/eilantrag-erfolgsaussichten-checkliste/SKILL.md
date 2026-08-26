@@ -1,6 +1,6 @@
 ---
 name: eilantrag-erfolgsaussichten-checkliste
-description: "Wenn es um Werden Sie mit dem Eilantrag Erfolg haben? — Checkliste in selbstvertreter-sozialgericht geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
+description: "Für Werden Sie mit dem Eilantrag Erfolg haben? — Checkliste: erstellt Entwurf mit Antrag, Beweis und Anlagen; Ergebnis: Schriftsatz mit Begründungs- und Anlagenlogik."
 ---
 
 # Werden Sie mit dem Eilantrag Erfolg haben? — Checkliste

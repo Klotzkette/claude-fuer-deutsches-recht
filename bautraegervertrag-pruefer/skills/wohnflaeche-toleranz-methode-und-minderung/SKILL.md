@@ -1,6 +1,6 @@
 ---
 name: wohnflaeche-toleranz-methode-und-minderung
-description: "Wenn es um Wohnfläche, Toleranz, Methode und Minderung in Bauträgervertrag-Prüfer geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Beweislast- und Substantiierungsmatrix."
+description: "Für Wohnfläche, Toleranz, Methode und Minderung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Wohnfläche, Toleranz, Methode und Minderung

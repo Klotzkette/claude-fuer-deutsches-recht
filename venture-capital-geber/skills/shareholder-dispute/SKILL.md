@@ -1,6 +1,6 @@
 ---
 name: shareholder-dispute
-description: "Wenn es um Gesellschafterstreit im Portfolio in Venture Capital Geber geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Gesellschafterstreit im Portfolio: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Gesellschafterstreit im Portfolio

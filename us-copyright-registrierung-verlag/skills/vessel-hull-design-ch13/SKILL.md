@@ -1,6 +1,6 @@
 ---
 name: vessel-hull-design-ch13
-description: "Wenn es um Vessel Hull Design Chapter 13 in US Copyright Act und Registrierung für deutsche Verlage geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
+description: "Für Vessel Hull Design Chapter 13: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Vessel Hull Design Chapter 13

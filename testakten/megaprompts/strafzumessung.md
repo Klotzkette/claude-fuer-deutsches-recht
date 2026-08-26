@@ -2,25 +2,25 @@
 
 ## Zusammensetzung
 
-Diese Vollprüfung enthält top-15 von 61 Skills des Plugins `strafzumessung`.
+Diese Vollprüfung enthält top-15 von 60 Skills des Plugins `strafzumessung`.
 
 ## Inhaltsverzeichnis
 
 1. **juristischer-argumentationskern** — Schaltet sich ein, wenn in Strafzumessung ein juristisches Arbeitsprodukt tragfähig begründet werden muss; verbindet kon…
-2. **einstieg-routing** — Wenn es um Einstieg und Routing in Strafzumessung geht: klärt Rolle, Ziel, Frist, Unterlagen und den passenden nächsten …
-3. **orientierung-triage-paragraph-stgb-besonders** — Wenn es um Strafzumessung — Orientierung und Triage in Strafzumessung geht: klärt Rolle, Ziel, Frist, Unterlagen und den…
-4. **strafzumessung-erstpruefung-und-mandatsziel** — Wenn es um Strafzumessung: Erstprüfung, Rollenklärung und Mandatsziel in Strafzumessung geht: klärt Rolle, Ziel, Frist, …
-5. **haerteausgleich-bei-nachtraeglicher-gesamtstrafenbildung** — Wenn es um Haerteausgleich bei nachtraeglicher Gesamtstrafenbildung in Strafzumessung geht: ordnet Sachverhalt, Norm, Be…
-6. **rechtsmittel-und-gesamtstrafenfolgen** — Wenn es um Rechtsmittel-, Bewährungs- und Gesamtstrafenfolgen nach der Zumessung in Strafzumessung geht: ordnet Akteninh…
-7. **freiheitsstrafe-compliance-dokumentation-und-akte** — Wenn es um Freiheitsstrafe: Compliance-Dokumentation und Aktenvermerk in Strafzumessung geht: ordnet Akteninhalt, Belege…
-8. **verfahrensstadium-strafbefehl-bis-kammer** — Wenn es um Strafzumessung vom Strafbefehl bis zur großen Strafkammer in Strafzumessung geht: ordnet Akteninhalt, Belege,…
-9. **stgb-schriftsatz-brief-und-memo-bausteine** — Wenn es um Stgb: Schriftsatz-, Brief- und Memo-Bausteine in Strafzumessung geht: erstellt den passenden Entwurf aus Sach…
-10. **strafzumessungstatsachen-vergleich-eskalation** — Wenn es um Strafzumessungstatsachen: Verhandlung, Vergleich und Eskalation in Strafzumessung geht: entwickelt Verhandlun…
-11. **taeter-opfer-ausgleich-46a-stgb-und-schadenswiedergutmachung** — Wenn es um Taeter-Opfer-Ausgleich und Schadenswiedergutmachung — Paragraf 46a StGB in Strafzumessung geht: prüft Frist, …
-12. **verstaendigung-257c-stpo-strafzumessung** — Wenn es um Verstaendigung im Strafverfahren Paragraf 257c StPO und Strafzumessung in Strafzumessung geht: prüft Frist, F…
-13. **geldstrafe-grossen-rechtsmittel** — Wenn es um Geldstrafe: Zahlen, Schwellenwerte und Berechnung in Strafzumessung geht: rechnet Schwellen, Beträge, Variant…
-14. **iii-stpo-begruendungsanforderungen-strafurteil** — Wenn es um Begruendung der Strafzumessung im Urteil — Paragraf 267 Abs. 3 StPO in Strafzumessung geht: prüft Frist, Form…
-15. **spezial-grossen-risikoampel-und-gegenargumente** — Wenn es um Grossen: Risikoampel, Gegenargumente und Verteidigungslinien in Strafzumessung geht: zerlegt Ergebnis, Frist,…
+2. **einstieg-routing** — Für Einstieg und Routing: routet Rolle, Frist, Unterlagen und Fachschritt; Ergebnis: Prüfprodukt mit Risiko und nächstem…
+3. **orientierung-triage-paragraph-stgb-besonders** — Für Strafzumessung — Orientierung und Triage: routet Rolle, Frist, Unterlagen und Fachschritt; Ergebnis: Prüfprodukt mit…
+4. **strafzumessung-erstpruefung-und-mandatsziel** — Für Strafzumessung: Erstprüfung, Rollenklärung und Mandatsziel: routet Rolle, Frist, Unterlagen und Fachschritt; Ergebni…
+5. **freiheitsstrafe-strafmass-geldstrafe** — Für Freiheitsstrafe — Strafmass prüfen: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und …
+6. **freiheitsstrafe-strafmass-pruefen** — Für Freiheitsstrafe — Strafmass prüfen: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und …
+7. **strafbefehl-dokumentenmatrix-und-lueckenliste** — Für Strafbefehl: Dokumentenmatrix, Lückenliste und Nachforderung: ordnet Akte, Belege und Lücken; Ergebnis: Dokumentenma…
+8. **taeter-opfer-ausgleich-46a-stgb-und-schadenswiedergutmachung** — Für Täter-Opfer-Ausgleich und Schadenswiedergutmachung — Paragraf 46a StGB: ordnet Norm, Beweislast und Gegenargument; E…
+9. **rechtsmittel-und-gesamtstrafenfolgen** — Für Rechtsmittel-, Bewährungs- und Gesamtstrafenfolgen nach der Zumessung: ordnet Norm, Beweislast und Gegenargument; Er…
+10. **verstaendigung-257c-stpo-strafzumessung** — Für Verständigung im Strafverfahren Paragraf 257c StPO und Strafzumessung: ordnet Norm, Beweislast und Gegenargument; Er…
+11. **bewaehrung-interessen-deutschem** — Für Bewährung: Mehrparteienkonflikt und Interessenmatrix: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Schnittst…
+12. **iii-stpo-begruendungsanforderungen-strafurteil** — Für Begründung der Strafzumessung im Urteil — Paragraf 267 Abs. 3 StPO: ordnet Norm, Beweislast und Gegenargument; Ergeb…
+13. **strafbefehl-stpo-strafmilderung-stgb** — Für Strafzumessung im Strafbefehlsverfahren — Paragraf 407 StPO: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Pr…
+14. **verfahrensstadium-strafbefehl-bis-kammer** — Für Strafzumessung vom Strafbefehl bis zur großen Strafkammer: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüf…
+15. **geldstrafe-tagessatzanzahl-bestimmen** — Für Tagessatzanzahl der Geldstrafe — Paragraf 40 Abs. 1 StGB: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfp…
 
 ---
 
@@ -144,7 +144,7 @@ Ausgangspunkt für dieses Plugin: Tatnachweis beim Staat; Verteidigung markiert 
 
 ## Skill: `einstieg-routing`
 
-_Wenn es um Einstieg und Routing in Strafzumessung geht: klärt Rolle, Ziel, Frist, Unterlagen und den passenden nächsten Fachskill; liefert eine Fristen- und Risikoampel mit Sofortschritten._
+_Für Einstieg und Routing: routet Rolle, Frist, Unterlagen und Fachschritt; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt. Fachgebiet: Strafzumessung._
 
 # Einstieg und Routing
 
@@ -188,7 +188,7 @@ Dieser Einstieg routet **Strafzumessung** vom ersten Sachverhalt zu Rollen, Fris
 
 ## Skill: `orientierung-triage-paragraph-stgb-besonders`
 
-_Wenn es um Strafzumessung — Orientierung und Triage in Strafzumessung geht: klärt Rolle, Ziel, Frist, Unterlagen und den passenden nächsten Fachskill; liefert eine Fristen- und Risikoampel mit Sofortschritten._
+_Für Strafzumessung — Orientierung und Triage: routet Rolle, Frist, Unterlagen und Fachschritt; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt._
 
 # Strafzumessung — Orientierung und Triage
 
@@ -280,7 +280,7 @@ Wenn die Rolle unklar ist, **frage zuerst** — die Argumentationsrichtung haeng
 
 ## Skill: `strafzumessung-erstpruefung-und-mandatsziel`
 
-_Wenn es um Strafzumessung: Erstprüfung, Rollenklärung und Mandatsziel in Strafzumessung geht: klärt Rolle, Ziel, Frist, Unterlagen und den passenden nächsten Fachskill; liefert eine Fristen- und Risikoampel mit Sofortschritten._
+_Für Strafzumessung: Erstprüfung, Rollenklärung und Mandatsziel: routet Rolle, Frist, Unterlagen und Fachschritt; Ergebnis: Tatbestands- oder Anspruchsmatrix._
 
 # Strafzumessung: Erstprüfung, Rollenklärung und Mandatsziel
 
@@ -356,218 +356,219 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 
 ---
 
-## Skill: `haerteausgleich-bei-nachtraeglicher-gesamtstrafenbildung`
+## Skill: `freiheitsstrafe-strafmass-geldstrafe`
 
-_Wenn es um Haerteausgleich bei nachtraeglicher Gesamtstrafenbildung in Strafzumessung geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen._
+_Für Freiheitsstrafe — Strafmass prüfen: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt. Fachgebiet: Strafzumessung. Route: freiheitsstrafe-strafmass-geldstrafe._
 
-# Haerteausgleich bei nachtraeglicher Gesamtstrafenbildung
+# Freiheitsstrafe — Strafmass prüfen
+
+## Arbeitsbereich
+
+Konkrete Zumessung der Freiheitsstrafe nach §§ 38 39 46 StGB. Strafrahmen prüfen, Strafhoehe innerhalb des Schuldrahmens bestimmen, Wechselwirkung mit Bewaehrung (§ 56 StGB) und Aussetzung des Strafrests (§ 57 StGB). Faustwerte für typische Tatbestaende. Schnittstelle Verteidigungsplaedoyer, Antragsstrafe Staatsanwaltschaft, Urteilsbegruendung. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+
+## Arbeitsweg
+
+- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
+- Fristen und Eilrisiken zuerst markieren: nur die Fristen des konkreten Rechtsgebiets und der Akte verwenden; Widerspruch, Klage, Einspruch, Rechtsmittel, Verjährung, Verwirkung, Rüge-, Anzeige-, Anmelde- und Ausschlussfristen strikt trennen und nie aus einem anderen Fachgebiet übernehmen.
+- Tragende Normen verifizieren: StGB §§ 13, 22, 23, 25, 32, 35, 46, 47, 56, 57, StPO §§ 100a, 102, 105, 112, 136, 137, 140, 147, 152, 153a, 244, 257c, 261, 264, 265, 267, 304, 341, 344, 349; § 56; § 49 Regelbeispiele besonders schwerer Fall Verstaendigung; § 257c StPO TOA; § 46a Gesamtstrafe; § 55 JGG — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
+- Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
+- Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
 ## Worum geht es?
 
-Wenn eine nachtraegliche Gesamtstrafenbildung nach § 55 StGB **nicht** moeglich ist — typischerweise weil die fruehere Strafe bereits vollstreckt, verjaehrt oder erlassen ist (auch nach abgelaufener Bewaehrung) —, kann der **Haerteausgleich** als nicht-kodifiziertes, von der staendigen Rechtsprechung entwickeltes Instrument zum Tragen kommen. Er gleicht die zufaelligen Nachteile aus, die durch die getrennte Aburteilung entstehen.
-
-**BGH-staendige Linie**: Der Schutzzweck des § 55 StGB darf nicht durch verfahrenstechnische Zufaelle (Reihenfolge der Verurteilungen, Tempo der Vollstreckung, Ausland) entwertet werden. Wenn eine Einbeziehung an einem ausserhalb der Schuld liegenden Umstand scheitert, ist ein Strafabschlag zu gewaehren. **Aktenzeichen vor Zitat in dejure.org/openjur.de verifizieren.**
+Sobald feststeht, dass Freiheitsstrafe verhaengt wird, ist innerhalb des konkreten Strafrahmens die **Höhe** zu bestimmen. Grundlage ist § 46 StGB. § 38 StGB regelt die zeitige Freiheitsstrafe (1 Monat bis 15 Jahre), § 39 StGB die Bemessung (Monate, Jahre und Monate). Die Höhe entscheidet über Bewaehrungsfaehigkeit (§§ 56, 57 StGB).
 
 ## Wann brauchen Sie diese Skill?
 
-- Mandant ist bereits einmal verurteilt; die fruehere Strafe wurde mittlerweile vollstreckt oder die Bewaehrung ist erlassen worden.
-- Eine weitere Tat des Mandanten, die er **vor** der frueheren Verurteilung begangen hat, wird nun abgeurteilt.
-- Sie pruefen ein Urteil, das die Sondersituation uebersehen hat.
-- Auslandsstrafen liegen vor und koennen nicht einbezogen werden.
+- Sie verteidigen in der Hauptverhandlung und plaedieren auf konkrete Strafhoehe.
+- Sie prüfen den Strafantrag der Staatsanwaltschaft auf Angemessenheit.
+- Sie sondieren eine Verstaendigung; Strafrahmen-Untergrenze und -Obergrenze bilden den Handlungsspielraum.
+- Sie schreiben die Strafzumessung im Urteil oder prüfen sie revisionsmaessig.
 
 ## Rechtliche Grundlagen
 
-- **§ 55 StGB** — Nachtraegliche Gesamtstrafenbildung; vgl. `nachtraegliche-gesamtstrafenbildung-55-stgb`.
-- **§ 46 StGB** — Strafzumessungsgrundsatz; Haerteausgleich wird als Strafzumessungsfaktor in die konkrete Strafe eingearbeitet.
-- **§ 267 Abs. 3 StPO** — Begruendung; Haerteausgleich muss als bestimmender Strafzumessungsgrund mitgeteilt werden.
-- **BGH-staendige Linie**: Schutzzweck des § 55 StGB rechtfertigt rechnerischen Strafabschlag bei zufaelliger Nichteinbeziehung. Aktenzeichen verifizieren.
+- **§ 38 StGB** — Zeitige Freiheitsstrafe 1 Monat bis 15 Jahre; lebenslang.
+- **§ 39 StGB** — Bemessung: bis 1 Jahr in vollen Wochen und Monaten; über 1 Jahr in Jahren und Monaten.
+- **§ 46 StGB** — Grundsatz; vgl. `paragraph-46-stgb-grundsatz-strafzumessung`.
+- **§ 47 StGB** — Vorrang Geldstrafe bei kurzer Freiheitsstrafe; vgl. `geldstrafe-vs-freiheitsstrafe-47-stgb`.
+- **§ 56 StGB** — Aussetzung zur Bewaehrung; vgl. `bewaehrung-56-stgb-positive-sozialprognose`.
+- **§ 57 StGB** — Aussetzung des Strafrests bei zeitiger Freiheitsstrafe.
+- **§ 57a StGB** — Aussetzung des Strafrests bei lebenslanger Freiheitsstrafe (besondere Schwere der Schuld § 57a Abs. 1 Satz 1 Nr. 2 StGB).
 
-## Konstellationen, die typisch Haerteausgleich ausloesen
+## Strafzumessungs-Grundsatz
 
-### 1. Fruehere Strafe vollstreckt
+- **Spielraum schuldangemessener Strafe**: Ober- und Untergrenze; innerhalb davon nach Praevention bemessen.
+- **Wechselwirkung Strafhoehe und Bewaehrung**:
+ - Bis 1 Jahr: Bewaehrung Regelfall bei positiver Sozialprognose (§ 56 Abs. 1 StGB).
+ - 1 bis 2 Jahre: Bewaehrung möglich, aber nur bei besonderen Umstaenden (§ 56 Abs. 2 StGB).
+ - Über 2 Jahre: keine Bewaehrung mehr.
+- Verteidigung achtet darauf, ob ein Strafmass moeglichst unter 2 Jahre (und idealerweise unter 1 Jahr) liegt.
 
-Wird die fruehere Strafe vor der jetzigen Verurteilung vollstaendig vollstreckt, kann sie nicht mehr in eine Gesamtstrafe einbezogen werden. Der Verurteilte ist gegenueber einer gemeinsamen Aburteilung schlechter gestellt.
+## Schritt-für-Schritt-Anleitung
 
-### 2. Bewaehrungszeit abgelaufen / Strafe erlassen (§ 56g StGB)
+1. **Konkreten Strafrahmen** feststellen (vgl. `strafrahmen-und-strafzumessungsstufen`).
+2. **Schuldrahmen-Spielraum** bilden: untere und obere Grenze schuldangemessener Strafe.
+3. **Strafzumessungstatsachen** aus § 46 Abs. 2 StGB sammeln und gewichten (vgl. `strafzumessungs-tatsachen-46-ii-stgb`).
+4. **Strafmilderungsgruende** prüfen: §§ 46a, 17, 21, 23 Abs. 2, 27 Abs. 2, 28 Abs. 1, 49 StGB.
+5. **Bewaehrungsperspektive** im Blick: Wenn 1-Jahres- oder 2-Jahres-Schwelle in Reichweite, Argumente entsprechend ausrichten.
+6. **Lange Verfahrensdauer** als Kompensationsfaktor prüfen (Art. 6 EMRK; Vollstreckungsmodell der st. Rspr.).
+7. **Anrechnung** U-Haft / Auslieferungshaft nach § 51 StGB; vgl. `freiheitsstrafe-ohne-bewaehrung-vollstreckung`.
 
-Wird die Bewaehrung gluecklich beendet und die Strafe erlassen, kann sie nicht mehr einbezogen werden. Auch hier waere eine gemeinsame Aburteilung guenstiger gewesen.
+## Faustwerte (orientierend, kein Praejudiz)
 
-### 3. Verjaehrung der frueheren Strafe
-
-Die Strafe ist verjaehrt; keine Einbeziehung mehr.
-
-### 4. Auslandsstrafen
-
-Auslandsstrafen werden grundsätzlich **nicht** in eine nachträgliche Gesamtstrafe nach § 55 StGB einbezogen. Ein Härteausgleich kommt nur in Betracht, wenn die getrennte Sanktionierung zu einer zufälligen, schuldunangemessenen Mehrbelastung führt; konkrete BGH-Aktenzeichen erst nach frei prüfbarem Live-Check zitieren.
-
-### 5. Strafe aus Strafbefehl bereits gezahlt
-
-Eine vollstaendig gezahlte Geldstrafe aus Strafbefehl wird nicht einbezogen.
-
-## Hoehe und Form des Haerteausgleichs
-
-- **Kein** starres Berechnungsschema.
-- **Orientierung**: Was waere die Gesamtstrafe gewesen, wenn beide Taten in einem Verfahren abgeurteilt worden waeren?
-- **Differenz** zwischen hypothetischer Gesamtstrafe und kumulierten Einzelstrafen kann als Massstab dienen.
-- **Strafabschlag** wird auf die nunmehr zu verhaengende Strafe angerechnet — entweder durch Senkung der Einzelstrafe oder durch ausdruecklichen Abschlag in der Strafzumessungsbegruendung.
-
-## Schritt-fuer-Schritt-Anleitung (Verteidigung)
-
-1. **Vorverurteilungen** und Status pruefen: BZRG-Auszug, Vollstreckungsakte, Bewaehrungsentscheidungen.
-2. **Zaesur-Pruefung**: Wurde die abzuurteilende Tat **vor** der frueheren Verurteilung begangen?
-3. **Einbeziehung pruefen** (§ 55 StGB):
-   - Ist die fruehere Strafe noch offen? Dann § 55 StGB; vgl. `nachtraegliche-gesamtstrafenbildung-55-stgb`.
-   - Ist sie schon vollstreckt / erlassen / verjaehrt? Dann **Haerteausgleich**.
-4. **Antrag** in der Hauptverhandlung oder im Schriftsatz:
-
-   ```
-   Wir beantragen, bei der Strafzumessung einen Haerteausgleich
-   zu gewaehren, da die Tat vom [Datum] vor der Verurteilung
-   vom [Datum] begangen wurde und eine Einbeziehung in eine
-   Gesamtstrafe nach § 55 StGB allein deshalb ausscheidet,
-   weil die damals verhaengte Strafe inzwischen [vollstreckt /
-   erlassen / verjaehrt] ist. Eine gemeinsame Aburteilung haette
-   zu einer wesentlich niedrigeren Gesamtstrafe gefuehrt.
-   ```
-
-5. **Hoehe** des Haerteausgleichs vortragen:
-   - Hypothetische Gesamtstrafe bei gemeinsamer Aburteilung berechnen.
-   - Differenz zwischen dieser hypothetischen Gesamtstrafe und der jetzt zu erwartenden kumulierten Strafenlast.
-   - Strafabschlag konkret beantragen (z.B. "Strafabschlag von [X] Monaten" oder "Reduktion der zu verhaengenden Strafe um etwa [X] %").
-6. **Begruendungspflicht** im Urteil: Das Gericht muss den Haerteausgleich als bestimmenden Strafzumessungsgrund angeben (§ 267 Abs. 3 StPO).
-
-## Verhaeltnis zu § 55 StGB
-
-| Situation | Rechtsfolge |
+| Tatbestandsbereich | Typischer Bereich |
 |---|---|
-| Fruehere Strafe noch offen | § 55 StGB Einbeziehung; nachtraegliche Gesamtstrafe |
-| Fruehere Strafe vollstreckt / verjaehrt / erlassen | **Haerteausgleich** im Rahmen § 46 StGB |
-| Tat **nach** Vorverurteilung begangen (Zaesur uebersprungen) | Weder § 55 StGB noch Haerteausgleich; reguläre Einzelstrafe |
-| Auslandsstrafen | § 55 StGB scheidet aus; Haerteausgleich in Ausnahmefaellen |
+| Einfacher Diebstahl § 242 Erstverstoss | 30-90 Tagessaetze; selten Freiheitsstrafe |
+| Wohnungseinbruchsdiebstahl § 244 Abs. 4 (Mindeststrafe 1 Jahr) | 1 bis 3 Jahre |
+| Betrug § 263 mittlere Schaeden | Geldstrafe bis 1 Jahr |
+| Betrug § 263 schwere Schaeden / gewerbsmaessig | 1 bis 3 Jahre |
+| Koerperverletzung § 223 ohne Vorbelastung | Geldstrafe bis 6 Monate |
+| Gefaehrliche Koerperverletzung § 224 | 6 Monate bis 3 Jahre |
+| Schwere Koerperverletzung § 226 | 1 Jahr bis 10 Jahre |
+| Raub § 249 Abs. 1 | Mindeststrafe 1 Jahr, oft 2-4 Jahre |
+| Schwerer Raub § 250 Abs. 1 | 3 bis 6 Jahre |
+| Totschlag § 212 | 5 bis 15 Jahre |
+| Mord § 211 | lebenslang |
 
-## Sonderkonstellationen
+Diese Werte ersetzen **keinen** Einzelfall; sie zeigen, wo regional, gerichtsbezogen und individuell zumeist Verhandlungsraum liegt.
 
-### Bewaehrungswiderruf-Drohung
+## Verteidigungs-Hebel
 
-Wenn die fruehere Strafe noch in Bewaehrung laeuft, ist die Einbeziehung nach § 55 StGB zumeist guenstiger als ein Bewaehrungswiderruf (§ 56f StGB) + getrennte neue Strafe. Verteidiger pruefen, welcher Weg wirtschaftlich besser ist; vgl. `bewaehrungswiderruf-56f-stgb`.
+- Strafmilderungsgruende konsequent aufzeigen: §§ 46a, 17, 21 StGB.
+- Lange Verfahrensdauer ruegen und Kompensation einfordern.
+- Bewaehrungsperspektive sichern: Argumente zur Sozialprognose vorbereiten.
+- Wirtschaftliche und persönliche Verhältnisse substantiiert vortragen.
 
-### Mehrere Zaesuren
+## Antrags-Strategie Staatsanwaltschaft
 
-Bei mehreren Vorverurteilungen ist sorgfaeltig zu pruefen, welche Strafen einbeziehbar sind und welche nicht — und ob fuer die nicht einbeziehbaren ein Haerteausgleich vorzunehmen ist.
-
-### Geldstrafe schon gezahlt
-
-Auch eine bereits gezahlte Geldstrafe kann einen Härteausgleich begründen, wenn sie bei rechtzeitiger gemeinsamer Aburteilung einbeziehungsfähig gewesen wäre; Urteil und Vollstreckungsstand konkret belegen.
-
-## Begruendung im Urteil (Muster-Element)
-
-```
-[...] Bei der Strafzumessung war zu beruecksichtigen, dass die hier
-abzuurteilende Tat vor der Verurteilung des Angeklagten durch
-[Gericht] vom [Datum] (Az.: [...]) begangen wurde. Eine Einbeziehung
-der damals verhaengten Strafe von [Einzelstrafe] in eine Gesamtstrafe
-nach § 55 StGB ist nicht moeglich, da diese Strafe bereits vollstaendig
-[vollstreckt / erlassen / verjaehrt] ist.
-
-Es waere eine Gesamtstrafe von voraussichtlich [hypothetische Strafe]
-gebildet worden. Daraus errechnet sich eine zu beruecksichtigende
-Haerte, die das Gericht durch einen Abschlag von [X] Monaten
-ausgleicht. Die Strafe von [konkrete Strafe] beruecksichtigt diesen
-Haerteausgleich.
-```
+- Antragstrafe darf nicht hinter der Schuld zurueckbleiben.
+- Bei Bewaehrungsantrag konkret Vortrag zur Sozialprognose.
+- Bei keinem Bewaehrungsantrag konkret zu den negativen Prognosefaktoren.
+- Strafzumessungsrichtlinien der Landes-Justizverwaltungen können orientieren (siehe je nach Bundesland; nicht bindend).
 
 ## Typische Fehler
 
-- **Haerteausgleich uebersehen**: revisionsrechtlich relevanter Strafzumessungsmangel.
-- **Hoehe pauschal**: Das Gericht muss die hypothetische Gesamtstrafe und die Differenz nachvollziehbar machen.
-- **Verwechslung mit § 55 StGB**: Haerteausgleich ist subsidiaer; vorrangig ist die Einbeziehung nach § 55 StGB.
-- **§ 55 StGB-Voraussetzungen** nicht systematisch geprueft: zuerst Zaesur, dann Status der frueheren Strafe.
-- **Bewaehrungsstrafe** als "erlassen" angesehen, obwohl die Bewaehrung noch laeuft.
-- **Auslandsstrafen** automatisch als haerteausgleichsbeduerftig gewertet — die st. Rspr. ist hier restriktiver; Einzelfallpruefung.
-
-## Quellen-Recherche-Hinweis
-
-Die BGH-Rspr. zum Haerteausgleich bei nicht moeglicher Einbeziehung nach § 55 StGB ist umfangreich und gefestigt; Leitentscheidungen finden sich beispielsweise in BGHSt-Bestaenden zur Gesamtstrafenbildung. **Vor Zitat im Schriftsatz immer Aktenzeichen in dejure.org oder openjur.de verifizieren**, da konkrete Az nicht aus Modellwissen uebernommen werden duerfen (vgl. Quellenregel `references/zitierweise.md`).
-
-## Querverweise
-
-- `nachtraegliche-gesamtstrafenbildung-55-stgb` — Mutternorm.
-- `gesamtstrafenbildung-53-54-stgb-erste-instanz` — Grundlagen.
-- `bewaehrungswiderruf-56f-stgb` — Alternativ-Pfad bei laufender Bewaehrung.
-- `paragraph-46-stgb-grundsatz-strafzumessung` — Einbettung in Strafzumessung.
-- `267-iii-stpo-begruendungsanforderungen-strafurteil` — Begruendungspflicht im Urteil.
+- **Schuldrahmen-Begruendung fehlt**: Urteil nennt nur den konkret verhaengten Wert ohne Bandbreite; revisionsanfaellig.
+- **Bewaehrungsschwelle** uebersehen: Strafhoehe knapp über 2 Jahren ohne Begruendung der Schwere; Verteidigung sollte vor Urteilsverkuendung punktgenau argumentieren.
+- **Lange Verfahrensdauer** nicht kompensiert.
+- **U-Haft-Anrechnung** in der Urteilsformel uebersehen (§ 51 StGB).
+- **Doppelverwertung** Tatbestandsmerkmale.
 
 ## Quellen und Stand 05/2026
 
-- § 55 StGB in der geltenden Fassung.
-- §§ 53, 54, 56g StGB.
-- § 267 Abs. 3 StPO.
-- BGH-staendige Linie zum Haerteausgleich bei nicht moeglicher Einbeziehung — Aktenzeichen in dejure.org/openjur.de verifizieren.
+- §§ 38, 39, 46, 47, 49, 51, 56-57a StGB in der geltenden Fassung.
+- Art. 6 Abs. 1 EMRK Verfahrensdauer.
 - Quellenregel: vgl. `references/zitierweise.md`.
 
 ---
 
-## Skill: `rechtsmittel-und-gesamtstrafenfolgen`
+## Skill: `freiheitsstrafe-strafmass-pruefen`
 
-_Wenn es um Rechtsmittel-, Bewährungs- und Gesamtstrafenfolgen nach der Zumessung in Strafzumessung geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen._
+_Für Freiheitsstrafe — Strafmass prüfen: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt. Fachgebiet: Strafzumessung. Route: freiheitsstrafe-strafmass-pruefen._
 
-# Rechtsmittel-, Bewährungs- und Gesamtstrafenfolgen nach der Zumessung
+# Freiheitsstrafe — Strafmass pruefen
 
-## Arbeitsweg
+## Worum geht es?
 
-- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
-- Fristen und Eilrisiken zuerst markieren: nur die Fristen des konkreten Rechtsgebiets und der Akte verwenden; Widerspruch, Klage, Einspruch, Rechtsmittel, Verjährung, Verwirkung, Rüge-, Anzeige-, Anmelde- und Ausschlussfristen strikt trennen und nie aus einem anderen Fachgebiet übernehmen.
-- Tragende Normen verifizieren: StGB §§ 13, 22, 23, 25, 32, 35, 46, 47, 56, 57, StPO §§ 100a, 102, 105, 112, 136, 137, 140, 147, 152, 153a, 244, 257c, 261, 264, 265, 267, 304, 341, 344, 349; § 56; § 49 Regelbeispiele besonders schwerer Fall Verstaendigung; § 257c StPO TOA; § 46a Gesamtstrafe; § 55 JGG — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
-- Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
-- Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
+Sobald feststeht, dass Freiheitsstrafe verhaengt wird, ist innerhalb des konkreten Strafrahmens die **Hoehe** zu bestimmen. Grundlage ist § 46 StGB. § 38 StGB regelt die zeitige Freiheitsstrafe (1 Monat bis 15 Jahre), § 39 StGB die Bemessung (Monate, Jahre und Monate). Die Hoehe entscheidet ueber Bewaehrungsfaehigkeit (§§ 56, 57 StGB).
 
-## Aufgabe
-Dieser Skill ersetzt einen zu groben Spezial-Slot durch einen konkreten Fachim Plugin `strafzumessung`. Kontext des Plugins: Strafzumessung nach deutschem Strafrecht vom Strafbefehl bis zur großen Strafkammer. § 46 StGB Strafzumessungstatsachen Tagessatz Geldstrafe Freiheitsstrafe Bewaehrung § 56 § 49 Regelbeispiele besonders schwerer Fall Verstaendigung § 257c StPO TOA § 46a Gesamtstrafe § 55 JGG.
+## Wann brauchen Sie diese Skill?
 
-Er arbeitet nicht lexikalisch, sondern fallbezogen: Er trennt zuerst Rollen, Ziel, Fristen, Zuständigkeiten und Belege, prüft dann die fachlichen Weichen und liefert ein Ergebnis, mit dem weitergearbeitet werden kann.
+- Sie verteidigen in der Hauptverhandlung und plaedieren auf konkrete Strafhoehe.
+- Sie pruefen den Strafantrag der Staatsanwaltschaft auf Angemessenheit.
+- Sie sondieren eine Verstaendigung; Strafrahmen-Untergrenze und -Obergrenze bilden den Handlungsspielraum.
+- Sie schreiben die Strafzumessung im Urteil oder pruefen sie revisionsmaessig.
 
-## Einstieg
-Wenn Material vorliegt, nutze es zuerst. Frage nur nach, was für die nächste Entscheidung fehlt:
+## Rechtliche Grundlagen
 
-1. Wer handelt in welcher Rolle und gegen wen?
-2. Welches praktische Ziel soll erreicht werden?
-3. Welche Fristen, Termine, Zustellungen, Schwellenwerte oder Sanktionen stehen im Raum?
-4. Welche Unterlagen, Daten, Registerauszüge, Bescheide, Verträge, Screenshots oder sonstigen Belege liegen vor?
-5. Soll der Output intern, für Mandantschaft, Behörde, Gericht, Gegnerseite oder Gremium formuliert werden?
+- **§ 38 StGB** — Zeitige Freiheitsstrafe 1 Monat bis 15 Jahre; lebenslang.
+- **§ 39 StGB** — Bemessung: bis 1 Jahr in vollen Wochen und Monaten; ueber 1 Jahr in Jahren und Monaten.
+- **§ 46 StGB** — Grundsatz; vgl. `paragraph-46-stgb-grundsatz-strafzumessung`.
+- **§ 47 StGB** — Vorrang Geldstrafe bei kurzer Freiheitsstrafe; vgl. `geldstrafe-vs-freiheitsstrafe-47-stgb`.
+- **§ 56 StGB** — Aussetzung zur Bewaehrung; vgl. `bewaehrung-56-stgb-positive-sozialprognose`.
+- **§ 57 StGB** — Aussetzung des Strafrests bei zeitiger Freiheitsstrafe.
+- **§ 57a StGB** — Aussetzung des Strafrests bei lebenslanger Freiheitsstrafe (besondere Schwere der Schuld § 57a Abs. 1 Satz 1 Nr. 2 StGB).
 
-## Arbeitsworkflow
-1. **Sortieren:** Sachverhalt, Dokumente und offene Punkte in eine knappe Fallmatrix bringen.
-2. **Rechtsrahmen:** Einschlägige Normen, Zuständigkeiten, Verfahren, Fristen und formelle Anforderungen live prüfen, soweit Aktualität tragend ist.
-3. **Materielle Weichen:** Die Kernfragen zu **Rechtsmittel-, Bewährungs- und Gesamtstrafenfolgen nach der Zumessung** mit Tatbestandsmerkmalen, Belegen, Gegenargumenten und typischen Praxisfehlern abarbeiten.
-4. **Risikoampel:** Ergebnis in Grün/Gelb/Rot mit Begründung, Unsicherheiten und Beweisbedarf einordnen.
-5. **Anschluss:** Passende weitere Skills desselben Plugins vorschlagen, wenn Spezialprüfung, Schriftsatz, Tabelle, Brief oder Verhandlungsstrategie sinnvoll ist.
+## Strafzumessungs-Grundsatz
 
-## Rechtsmittel / Bewaehrung / Gesamtstrafe - Bausteine
-- **Rechtsmittelpruefung nach Verkuendung:**
- - Beschwer prüfen (Strafmass-Differenz zum Antrag StA/Verteidigung).
- - Erfolgsaussicht Sachruege (Strafzumessungsruege selten erfolgreich; Aufhebung idR bei Lueckenhaftigkeit, Wertungsfehler, falschem Strafrahmen, Doppelverwertung § 46 III StGB) - staendige Rspr.
- - Verfahrensruege für Verstaendigungsmaengel § 257c StPO (Belehrung § 257c V StPO!).
- - Berufung § 314 StPO 1 Woche, Revision § 341 StPO 1 Woche, § 345 StPO Begruendung 1 Monat.
-- **Bewaehrungsentscheidung § 56 StGB:**
- - Bis 6 Mon. = Sollvorschrift; 6-12 Mon. = Kannvorschrift; 12-24 Mon. = "besondere Umstaende" § 56 II StGB.
- - Sozialprognose § 56 I 1 StGB; Verteidigungsverhalten in Hauptverhandlung relevant.
- - Bewaehrungsauflagen § 56b StGB (Wiedergutmachung, Geldbusse, gemeinnuetzige Arbeit), -weisungen § 56c StGB (Therapie, Bewaehrungshilfe, Kontaktverbote).
- - Bewaehrungsdauer 2-5 Jahre § 56a StGB.
-- **Gesamtstrafe § 55 StGB (nachtraegliche):**
- - Voraussetzung: weitere Verurteilung vor Vollstreckung erster Tat erfolgt.
- - Bildung: Einsatzstrafe + Erhoehung; § 54 II StGB Hoechstmass.
- - Antrag auf nachtraegliche Gesamtstrafenbildung gegen Vollstreckungsbehoerde / Gericht § 460 StPO.
-- **Bewaehrungswiderruf § 56f StGB:** bei neuer Straftat in Bewaehrungszeit; § 56g Erlass nach Bewaehrungsende.
-- **Anrechnung U-Haft § 51 StGB:** zwingend; Ausnahme bei Doppelvollstreckung.
-- **Hinweispflicht Verteidiger:** Rechtsmittelverzicht und -Rücknahme schriftliche Mandantenfreigabe.
+- **Spielraum schuldangemessener Strafe**: Ober- und Untergrenze; innerhalb davon nach Praevention bemessen.
+- **Wechselwirkung Strafhoehe und Bewaehrung**:
+  - Bis 1 Jahr: Bewaehrung Regelfall bei positiver Sozialprognose (§ 56 Abs. 1 StGB).
+  - 1 bis 2 Jahre: Bewaehrung moeglich, aber nur bei besonderen Umstaenden (§ 56 Abs. 2 StGB).
+  - Ueber 2 Jahre: keine Bewaehrung mehr.
+- Verteidigung achtet darauf, ob ein Strafmass moeglichst unter 2 Jahre (und idealerweise unter 1 Jahr) liegt.
+
+## Schritt-fuer-Schritt-Anleitung
+
+1. **Konkreten Strafrahmen** feststellen (vgl. `strafrahmen-und-strafzumessungsstufen`).
+2. **Schuldrahmen-Spielraum** bilden: untere und obere Grenze schuldangemessener Strafe.
+3. **Strafzumessungstatsachen** aus § 46 Abs. 2 StGB sammeln und gewichten (vgl. `strafzumessungs-tatsachen-46-ii-stgb`).
+4. **Strafmilderungsgruende** pruefen: §§ 46a, 17, 21, 23 Abs. 2, 27 Abs. 2, 28 Abs. 1, 49 StGB.
+5. **Bewaehrungsperspektive** im Blick: Wenn 1-Jahres- oder 2-Jahres-Schwelle in Reichweite, Argumente entsprechend ausrichten.
+6. **Lange Verfahrensdauer** als Kompensationsfaktor pruefen (Art. 6 EMRK; Vollstreckungsmodell der st. Rspr.).
+7. **Anrechnung** U-Haft / Auslieferungshaft nach § 51 StGB; vgl. `freiheitsstrafe-ohne-bewaehrung-vollstreckung`.
+
+## Faustwerte (orientierend, kein Praejudiz)
+
+| Tatbestandsbereich | Typischer Bereich |
+|---|---|
+| Einfacher Diebstahl § 242 Erstverstoss | 30-90 Tagessaetze; selten Freiheitsstrafe |
+| Wohnungseinbruchsdiebstahl § 244 Abs. 4 (Mindeststrafe 1 Jahr) | 1 bis 3 Jahre |
+| Betrug § 263 mittlere Schaeden | Geldstrafe bis 1 Jahr |
+| Betrug § 263 schwere Schaeden / gewerbsmaessig | 1 bis 3 Jahre |
+| Koerperverletzung § 223 ohne Vorbelastung | Geldstrafe bis 6 Monate |
+| Gefaehrliche Koerperverletzung § 224 | 6 Monate bis 3 Jahre |
+| Schwere Koerperverletzung § 226 | 1 Jahr bis 10 Jahre |
+| Raub § 249 Abs. 1 | Mindeststrafe 1 Jahr, oft 2-4 Jahre |
+| Schwerer Raub § 250 Abs. 1 | 3 bis 6 Jahre |
+| Totschlag § 212 | 5 bis 15 Jahre |
+| Mord § 211 | lebenslang |
+
+Diese Werte ersetzen **keinen** Einzelfall; sie zeigen, wo regional, gerichtsbezogen und individuell zumeist Verhandlungsraum liegt.
+
+## Verteidigungs-Hebel
+
+- Strafmilderungsgruende konsequent aufzeigen: §§ 46a, 17, 21 StGB.
+- Lange Verfahrensdauer ruegen und Kompensation einfordern.
+- Bewaehrungsperspektive sichern: Argumente zur Sozialprognose vorbereiten.
+- Wirtschaftliche und persoenliche Verhaeltnisse substantiiert vortragen.
+
+## Antrags-Strategie Staatsanwaltschaft
+
+- Antragstrafe darf nicht hinter der Schuld zurueckbleiben.
+- Bei Bewaehrungsantrag konkret Vortrag zur Sozialprognose.
+- Bei keinem Bewaehrungsantrag konkret zu den negativen Prognosefaktoren.
+- Strafzumessungsrichtlinien der Landes-Justizverwaltungen koennen orientieren (siehe je nach Bundesland; nicht bindend).
+
+## Typische Fehler
+
+- **Schuldrahmen-Begruendung fehlt**: Urteil nennt nur den konkret verhaengten Wert ohne Bandbreite; revisionsanfaellig.
+- **Bewaehrungsschwelle** uebersehen: Strafhoehe knapp ueber 2 Jahren ohne Begruendung der Schwere; Verteidigung sollte vor Urteilsverkuendung punktgenau argumentieren.
+- **Lange Verfahrensdauer** nicht kompensiert.
+- **U-Haft-Anrechnung** in der Urteilsformel uebersehen (§ 51 StGB).
+- **Doppelverwertung** Tatbestandsmerkmale.
+
+## Querverweise
+
+- `paragraph-46-stgb-grundsatz-strafzumessung` — Grundsatz.
+- `strafrahmen-und-strafzumessungsstufen` — Strafrahmen vor Zumessung.
+- `bewaehrung-56-stgb-positive-sozialprognose` — Bewaehrung.
+- `freiheitsstrafe-ohne-bewaehrung-vollstreckung` — Vollstreckung.
+- `gesamtstrafenbildung-53-54-stgb-erste-instanz` — bei Mehrtat.
+
+## Quellen und Stand 05/2026
+
+- §§ 38, 39, 46, 47, 49, 51, 56-57a StGB in der geltenden Fassung.
+- Art. 6 Abs. 1 EMRK Verfahrensdauer.
+- Quellenregel: vgl. `references/zitierweise.md`.
 
 ---
 
-## Skill: `freiheitsstrafe-compliance-dokumentation-und-akte`
+## Skill: `strafbefehl-dokumentenmatrix-und-lueckenliste`
 
-_Wenn es um Freiheitsstrafe: Compliance-Dokumentation und Aktenvermerk in Strafzumessung geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt._
+_Für Strafbefehl: Dokumentenmatrix, Lückenliste und Nachforderung: ordnet Akte, Belege und Lücken; Ergebnis: Dokumentenmatrix mit Nachforderungsliste. Fachgebiet: Strafzumessung._
 
-# Freiheitsstrafe: Compliance-Dokumentation und Aktenvermerk
+# Strafbefehl: Dokumentenmatrix, Lückenliste und Nachforderung
 
 ## Arbeitsweg
 
@@ -577,7 +578,7 @@ _Wenn es um Freiheitsstrafe: Compliance-Dokumentation und Aktenvermerk in Strafz
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
-## Spezialwissen: Freiheitsstrafe: Compliance-Dokumentation und Aktenvermerk
+## Spezialwissen: Strafbefehl: Dokumentenmatrix, Lückenliste und Nachforderung
 - **Normen-/Quellenanker:** StPO, TOA, JGG.
 
 ## Fallweichen
@@ -591,245 +592,10 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 
 ## Arbeitsworkflow
 1. **Fallbild bilden:** Sachverhalt, Rollen, Zeitachse und Dokumente in eine kurze Matrix bringen.
-2. **Rechtsrahmen setzen:** Normen, Zuständigkeiten, Fristen, Formfragen und Verfahrensstand zum Themenfeld **Freiheitsstrafe** prüfen.
+2. **Rechtsrahmen setzen:** Normen, Zuständigkeiten, Fristen, Formfragen und Verfahrensstand zum Themenfeld **Strafbefehl** prüfen.
 3. **Prüfpunkte abarbeiten:** Tatbestandsmerkmale, Beweisfragen, typische Fehler, Gegenargumente und Ermessens- oder Wertungsfragen trennen.
 4. **Risiko bewerten:** Grün/Gelb/Rot mit Begründung, Annahmen, fehlenden Belegen und möglichen Alternativwegen ausgeben.
 5. **Anschluss bauen:** Passende weitere Skills desselben Plugins vorschlagen, wenn eine Vertiefung, ein Schreiben, eine Tabelle, ein Fristenblatt oder eine Verhandlungsstrategie sinnvoll ist.
-
-## Qualitätsanker: Strafrahmen, Schuldprinzip und Gesamtstrafe
-
-- **Verifizierte Rechtsprechungsanker:** BGH, Beschluss vom 14.05.2024 - 6 StR 502/23 zur Strafrahmenlogik/Sperrwirkung und gerechten Schuldstrafe; BGH, Beschluss vom 23.01.2024 - 3 StR 455/23 zum Doppelverwertungsverbot und Begründungsanforderungen; BGH, Beschluss vom 24.04.2024 - 5 StR 123/24 sowie BGH, Beschluss vom 03.06.2025 - 2 StR 333/24 zur nachträglichen Gesamtstrafenbildung, Zäsurwirkung und Härteausgleich.
-- **Prüfreihenfolge:** Nie sofort ein „gefühltes Strafmaß“ bilden. Erst Tatbestand und anwendbares Recht, dann Strafrahmen, minder/ besonders schwerer Fall, vertypte Milderung, § 49 StGB, Doppelverwertungsverbot, § 46 StGB, Nebenfolgen, Bewährung, Gesamtstrafe.
-- **§ 55-StGB-Disziplin:** Bei Vorverurteilungen immer Tatzeiten, Entscheidungsdaten, Rechtskraft, Vollstreckungsstand, erledigte/nicht erledigte Strafen und Zäsurwirkung als Tabelle verlangen. Unklare Gesamtstrafenlagen nicht glattbügeln, sondern als Risiko mit Alternativen ausgeben.
-- **Output-Pflicht:** Strafzumessungsmemo mit Strafrahmenbaum, Zumessungstatsachen pro/contra, Revisionsrisiken und nächstem taktischem Schritt; bei Aktenbezug zusätzlich BZRG-/Urteils-/Vollstreckungsdaten-Lückenliste.
-
----
-
-## Skill: `verfahrensstadium-strafbefehl-bis-kammer`
-
-_Wenn es um Strafzumessung vom Strafbefehl bis zur großen Strafkammer in Strafzumessung geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen._
-
-# Strafzumessung vom Strafbefehl bis zur großen Strafkammer
-
-## Arbeitsweg
-
-- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
-- Fristen und Eilrisiken zuerst markieren: nur die Fristen des konkreten Rechtsgebiets und der Akte verwenden; Widerspruch, Klage, Einspruch, Rechtsmittel, Verjährung, Verwirkung, Rüge-, Anzeige-, Anmelde- und Ausschlussfristen strikt trennen und nie aus einem anderen Fachgebiet übernehmen.
-- Tragende Normen verifizieren: StGB §§ 13, 22, 23, 25, 32, 35, 46, 47, 56, 57, StPO §§ 100a, 102, 105, 112, 136, 137, 140, 147, 152, 153a, 244, 257c, 261, 264, 265, 267, 304, 341, 344, 349; § 56; § 49 Regelbeispiele besonders schwerer Fall Verstaendigung; § 257c StPO TOA; § 46a Gesamtstrafe; § 55 JGG — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
-- Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
-- Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
-
-## Aufgabe
-Dieser Skill ersetzt einen zu groben Spezial-Slot durch einen konkreten Fachim Plugin `strafzumessung`. Kontext des Plugins: Strafzumessung nach deutschem Strafrecht vom Strafbefehl bis zur großen Strafkammer. § 46 StGB Strafzumessungstatsachen Tagessatz Geldstrafe Freiheitsstrafe Bewaehrung § 56 § 49 Regelbeispiele besonders schwerer Fall Verstaendigung § 257c StPO TOA § 46a Gesamtstrafe § 55 JGG.
-
-Er arbeitet nicht lexikalisch, sondern fallbezogen: Er trennt zuerst Rollen, Ziel, Fristen, Zuständigkeiten und Belege, prüft dann die fachlichen Weichen und liefert ein Ergebnis, mit dem weitergearbeitet werden kann.
-
-## Einstieg
-Wenn Material vorliegt, nutze es zuerst. Frage nur nach, was für die nächste Entscheidung fehlt:
-
-1. Wer handelt in welcher Rolle und gegen wen?
-2. Welches praktische Ziel soll erreicht werden?
-3. Welche Fristen, Termine, Zustellungen, Schwellenwerte oder Sanktionen stehen im Raum?
-4. Welche Unterlagen, Daten, Registerauszüge, Bescheide, Verträge, Screenshots oder sonstigen Belege liegen vor?
-5. Soll der Output intern, für Mandantschaft, Behörde, Gericht, Gegnerseite oder Gremium formuliert werden?
-
-## Arbeitsworkflow
-1. **Sortieren:** Sachverhalt, Dokumente und offene Punkte in eine knappe Fallmatrix bringen.
-2. **Rechtsrahmen:** Einschlägige Normen, Zuständigkeiten, Verfahren, Fristen und formelle Anforderungen live prüfen, soweit Aktualität tragend ist.
-3. **Materielle Weichen:** Die Kernfragen zu **Strafzumessung vom Strafbefehl bis zur großen Strafkammer** mit Tatbestandsmerkmalen, Belegen, Gegenargumenten und typischen Praxisfehlern abarbeiten.
-4. **Risikoampel:** Ergebnis in Grün/Gelb/Rot mit Begründung, Unsicherheiten und Beweisbedarf einordnen.
-5. **Anschluss:** Passende weitere Skills desselben Plugins vorschlagen, wenn Spezialprüfung, Schriftsatz, Tabelle, Brief oder Verhandlungsstrategie sinnvoll ist.
-
-## Strafzumessung pro Verfahrensstadium Bausteine
-- **Strafbefehl §§ 407 ff. StPO (Vergehen):**
- - Hoechstrahmen Geldstrafe (regelmaessig 360 TS); Freiheitsstrafe bis 1 Jahr nur **mit Verteidiger und auf Bewaehrung** § 407 II 2 StPO.
- - Strafzumessung StA-Antrag massgeblich; Gericht kann abweichen ggf. ablehnen (zurueck zur Anklage).
- - Tagessatz-Höhe nach Schaetzung Einkommen.
-- **AG Strafrichter § 25 GVG:**
- - Bis 2 Jahre Freiheitsstrafe; Geldstrafe.
- - Prüfung Bewaehrung § 56 StGB regelmaessig.
-- **AG Schoeffengericht § 28 GVG:**
- - Bis 4 Jahre Freiheitsstrafe; bei Anklagen StA, die über Strafrichter hinausgehen.
- - Bewaehrung § 56 StGB; Massregeln § 61 ff. StGB.
-- **LG große Strafkammer § 76 GVG:**
- - Über 4 Jahre Freiheitsstrafe; schwere Wirtschaftsstrafsachen, Mehrtaeter, Banden.
- - Komplexe Strafzumessung mit § 46 StGB-Bilanz; Gesamtstrafe § 55 StGB.
-- **LG Schwurgericht § 74 II GVG:**
- - Toetungsdelikte §§ 211-222 StGB.
- - Lebenslange Freiheitsstrafe bei Mord; bei besonders schwerer Schuld Vorbehalt § 57a StGB (15 J. Mindestverbuessung; ggf. lebenslang).
-- **JGG §§ 17, 18:**
- - Jugendstrafe bei schaedlichen Neigungen / Schwere der Schuld; 6 Monate bis 5 / 10 Jahre.
- - § 105 JGG bei Heranwachsenden: Jugendrecht / Erwachsenenrecht je nach Reife.
-- **Strafzumessungs-Korridore typisch (Indikativ - regional unterschiedlich, keine Az-Auflistung aus Modellwissen):**
- - Diebstahl § 242 StGB: regelmaessig Geldstrafe; ab Schaden 1000+ EUR und Wiederholung Freiheitsstrafe diskussiert.
- - Betrug § 263 StGB: Schaden-Korridor entscheidend; Regelbeispiel § 263 III StGB ab ~50.000 EUR / Bandenmaessigkeit.
- - Trunkenheit § 316 StGB: idR Geldstrafe + Fahrerlaubnisentzug § 69 StGB.
- - Koerperverletzung § 223 StGB: Geldstrafe; § 224 (gefaehrlich) regelmaessig Freiheitsstrafe diskutiert.
-- **Verstaendigung § 257c StPO** in allen Stadien möglich; Korridor verbindlich.
-
----
-
-## Skill: `stgb-schriftsatz-brief-und-memo-bausteine`
-
-_Wenn es um Stgb: Schriftsatz-, Brief- und Memo-Bausteine in Strafzumessung geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik._
-
-# Stgb: Schriftsatz-, Brief- und Memo-Bausteine
-
-## Arbeitsweg
-
-- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
-- Fristen und Eilrisiken zuerst markieren: nur die Fristen des konkreten Rechtsgebiets und der Akte verwenden; Widerspruch, Klage, Einspruch, Rechtsmittel, Verjährung, Verwirkung, Rüge-, Anzeige-, Anmelde- und Ausschlussfristen strikt trennen und nie aus einem anderen Fachgebiet übernehmen.
-- Tragende Normen verifizieren: StGB §§ 13, 22, 23, 25, 32, 35, 46, 47, 56, 57, StPO §§ 100a, 102, 105, 112, 136, 137, 140, 147, 152, 153a, 244, 257c, 261, 264, 265, 267, 304, 341, 344, 349; § 56; § 49 Regelbeispiele besonders schwerer Fall Verstaendigung; § 257c StPO TOA; § 46a Gesamtstrafe; § 55 JGG — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
-- Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
-- Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
-
-## Spezialwissen: Stgb: Schriftsatz-, Brief- und Memo-Bausteine
-- **Normen-/Quellenanker:** StPO, TOA, JGG.
-
-## Fallweichen
-Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur Rückfragen, die die nächste Weiche verändern:
-
-1. Welche Rolle hat die fragende Person und wer ist Gegenüber?
-2. Welches konkrete Ziel soll erreicht oder verhindert werden?
-3. Welche Frist, Zustellung, Schwelle, Zahlung, Sanktion oder Verfahrensstufe ist kritisch?
-4. Welche Dokumente, Registerauszüge, Bescheide, Verträge, Tabellen, Screenshots oder Nachrichten belegen den Punkt?
-5. Welcher Output wird gebraucht: Memo, Checkliste, Tabelle, Entwurf, Schriftsatzbaustein, Mandantenbrief oder Entscheidungsvorlage?
-
-## Arbeitsworkflow
-1. **Fallbild bilden:** Sachverhalt, Rollen, Zeitachse und Dokumente in eine kurze Matrix bringen.
-2. **Rechtsrahmen setzen:** Normen, Zuständigkeiten, Fristen, Formfragen und Verfahrensstand zum Themenfeld **Stgb** prüfen.
-3. **Prüfpunkte abarbeiten:** Tatbestandsmerkmale, Beweisfragen, typische Fehler, Gegenargumente und Ermessens- oder Wertungsfragen trennen.
-4. **Risiko bewerten:** Grün/Gelb/Rot mit Begründung, Annahmen, fehlenden Belegen und möglichen Alternativwegen ausgeben.
-5. **Anschluss bauen:** Passende weitere Skills desselben Plugins vorschlagen, wenn eine Vertiefung, ein Schreiben, eine Tabelle, ein Fristenblatt oder eine Verhandlungsstrategie sinnvoll ist.
-
-## Strafzumessungs-Schriftsatz / Memo Bausteine
-- **Pladoyer-Strafzumessung Struktur:**
- ```
- Sehr verehrtes Schoeffengericht,
-
- zu den Strafzumessungsfragen ist auszufuehren:
-
- I. STRAFRAHMEN
- Der gesetzliche Strafrahmen des § ... StGB sieht Freiheitsstrafe von ... bis ... Jahren vor.
-
- II. STRAFRAHMENVERSCHIEBUNG
- Die Voraussetzungen einer Strafrahmenverschiebung nach § 49 StGB sind erfuellt, weil ...
- [§§ 21, 23 II, 27 II 2 StGB pruefen]
-
- III. STRAFZUMESSUNGSTATSACHEN § 46 II StGB
-
- Zugunsten des Angeklagten ist zu beruecksichtigen:
- - Gestaendnis (Datum, Umfang, Wert): ...
- - Schadenswiedergutmachung in Hoehe von ... EUR (Beleg ...).
- - TOA-Vereinbarung § 46a StGB (Anlage ...).
- - Persoenliche Verhaeltnisse (Familie, Beruf, sozial integriert).
- - Lange Verfahrensdauer von ... Jahren (Strafmilderung Vollstreckungsloesung BGH).
- - Tatfolgen begrenzt: ...
- - Keine einschlaegigen Vorstrafen (BZRG-Auszug Anlage ...).
-
- Zu Lasten des Angeklagten:
- - [konkret und begrenzt]
-
- IV. STRAFAUSSETZUNG § 56 StGB
- Die Voraussetzungen einer Strafaussetzung zur Bewaehrung liegen vor:
- - Sozialprognose positiv: stabile Arbeitsstelle, Familie, Therapie (Belege Anlage ...).
- - Besondere Umstaende § 56 II StGB bei Strafen ueber 1 Jahr: ...
-
- V. ANTRAG
- Hauptantrag: Freispruch.
- Hilfsantrag: Verurteilung zu ... Monaten Freiheitsstrafe, auf Bewaehrung ausgesetzt,
- bei einer Bewaehrungszeit von ... Jahren.
- ```
-- **Memo Strafmilderung intern:**
- ```
- Strafzumessungs-Memo
- Mandant: ... | Az: ...
-
- Tat: ...
- Strafrahmen: ... bis ...
-
- Best-Case (Anwalt): ... (Tagessaetze / Monate Freiheitsstrafe)
- Wahrscheinlichster Korridor (Verstaendigung): ... bis ...
- Worst-Case: ...
-
- Bewaehrungsfaehig? Ja/Nein - Begruendung ...
-
- Belege für Strafmilderung (Status):
- [ ] BZRG-Auszug
- [ ] Lohnabrechnung 3 Monate (Tagessatz-Hoehe)
- [ ] Therapiebescheinigung
- [ ] TOA-Vereinbarung
- [ ] Schadenswiedergutmachungs-Beleg
- ```
-- **Praxis-Tipp:** Strafzumessungs-Antrag stets konkret beziffern (nicht "moderate Strafe"); ggf. Korridor formulieren bei Verstaendigung; Belege als Anlagen geordnet.
-
-## Qualitätsanker: Strafrahmen, Schuldprinzip und Gesamtstrafe
-
-- **Verifizierte Rechtsprechungsanker:** BGH, Beschluss vom 14.05.2024 - 6 StR 502/23 zur Strafrahmenlogik/Sperrwirkung und gerechten Schuldstrafe; BGH, Beschluss vom 23.01.2024 - 3 StR 455/23 zum Doppelverwertungsverbot und Begründungsanforderungen; BGH, Beschluss vom 24.04.2024 - 5 StR 123/24 sowie BGH, Beschluss vom 03.06.2025 - 2 StR 333/24 zur nachträglichen Gesamtstrafenbildung, Zäsurwirkung und Härteausgleich.
-- **Prüfreihenfolge:** Nie sofort ein „gefühltes Strafmaß“ bilden. Erst Tatbestand und anwendbares Recht, dann Strafrahmen, minder/ besonders schwerer Fall, vertypte Milderung, § 49 StGB, Doppelverwertungsverbot, § 46 StGB, Nebenfolgen, Bewährung, Gesamtstrafe.
-- **§ 55-StGB-Disziplin:** Bei Vorverurteilungen immer Tatzeiten, Entscheidungsdaten, Rechtskraft, Vollstreckungsstand, erledigte/nicht erledigte Strafen und Zäsurwirkung als Tabelle verlangen. Unklare Gesamtstrafenlagen nicht glattbügeln, sondern als Risiko mit Alternativen ausgeben.
-- **Output-Pflicht:** Strafzumessungsmemo mit Strafrahmenbaum, Zumessungstatsachen pro/contra, Revisionsrisiken und nächstem taktischem Schritt; bei Aktenbezug zusätzlich BZRG-/Urteils-/Vollstreckungsdaten-Lückenliste.
-
----
-
-## Skill: `strafzumessungstatsachen-vergleich-eskalation`
-
-_Wenn es um Strafzumessungstatsachen: Verhandlung, Vergleich und Eskalation in Strafzumessung geht: entwickelt Verhandlungsziel, Vergleichskorridor und Eskalationspfad; liefert eine Verhandlungs- oder Eskalationslinie mit Optionen._
-
-# Strafzumessungstatsachen: Verhandlung, Vergleich und Eskalation
-
-## Arbeitsweg
-
-- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
-- Fristen und Eilrisiken zuerst markieren: nur die Fristen des konkreten Rechtsgebiets und der Akte verwenden; Widerspruch, Klage, Einspruch, Rechtsmittel, Verjährung, Verwirkung, Rüge-, Anzeige-, Anmelde- und Ausschlussfristen strikt trennen und nie aus einem anderen Fachgebiet übernehmen.
-- Tragende Normen verifizieren: StGB §§ 13, 22, 23, 25, 32, 35, 46, 47, 56, 57, StPO §§ 100a, 102, 105, 112, 136, 137, 140, 147, 152, 153a, 244, 257c, 261, 264, 265, 267, 304, 341, 344, 349; § 56; § 49 Regelbeispiele besonders schwerer Fall Verstaendigung; § 257c StPO TOA; § 46a Gesamtstrafe; § 55 JGG — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
-- Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
-- Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
-
-## Spezialwissen: Strafzumessungstatsachen: Verhandlung, Vergleich und Eskalation
-- **Normen-/Quellenanker:** StPO, TOA, JGG.
-
-## Fallweichen
-Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur Rückfragen, die die nächste Weiche verändern:
-
-1. Welche Rolle hat die fragende Person und wer ist Gegenüber?
-2. Welches konkrete Ziel soll erreicht oder verhindert werden?
-3. Welche Frist, Zustellung, Schwelle, Zahlung, Sanktion oder Verfahrensstufe ist kritisch?
-4. Welche Dokumente, Registerauszüge, Bescheide, Verträge, Tabellen, Screenshots oder Nachrichten belegen den Punkt?
-5. Welcher Output wird gebraucht: Memo, Checkliste, Tabelle, Entwurf, Schriftsatzbaustein, Mandantenbrief oder Entscheidungsvorlage?
-
-## Arbeitsworkflow
-1. **Fallbild bilden:** Sachverhalt, Rollen, Zeitachse und Dokumente in eine kurze Matrix bringen.
-2. **Rechtsrahmen setzen:** Normen, Zuständigkeiten, Fristen, Formfragen und Verfahrensstand zum Themenfeld **Strafzumessungstatsachen** prüfen.
-3. **Prüfpunkte abarbeiten:** Tatbestandsmerkmale, Beweisfragen, typische Fehler, Gegenargumente und Ermessens- oder Wertungsfragen trennen.
-4. **Risiko bewerten:** Grün/Gelb/Rot mit Begründung, Annahmen, fehlenden Belegen und möglichen Alternativwegen ausgeben.
-5. **Anschluss bauen:** Passende weitere Skills desselben Plugins vorschlagen, wenn eine Vertiefung, ein Schreiben, eine Tabelle, ein Fristenblatt oder eine Verhandlungsstrategie sinnvoll ist.
-
-## Strafzumessungstatsachen / Verhandlung Bausteine
-- **Verstaendigung § 257c StPO Eckpunkte:**
- - **Inhalt zulässig:** Strafrahmen-Korridor (Unter- und Obergrenze).
- - **Inhalt unzulaessig:** Schuldspruch verzichtbar; Massregeln § 257c II 3 StPO.
- - **Belehrung § 257c V StPO** als Wirksamkeitsvoraussetzung; Wegfall der Bindung bei neuen erheblichen Umstaenden.
- - **Geschäftsgrundlage** regelmaessig Gestaendnis Angeklagter; aber Beweisaufnahme nicht ersparbar (BGH-Linie).
-- **TOA § 46a StGB:**
- - **Nr. 1:** Wiedergutmachung des Schadens ganz oder ueberwiegend.
- - **Nr. 2:** Ernsthafte Bemuehung um Aussoehnung mit Verletztem.
- - **Folge:** Strafmilderung § 49 StGB / Absehen von Strafe (max. 1 Jahr Freiheitsstrafe / Geldstrafe).
- - **Praxis:** TOA-Vermittlungsstelle einschalten; Vereinbarung schriftlich; Erfuellung dokumentieren.
-- **Schadenswiedergutmachung als Strafzumessungstatsache:**
- - Voll: erhebliche Strafmilderung.
- - Teilweise mit Tilgungsplan: dann moderate Milderung; Plan verbindlich machen.
- - Bei Vermögensdelikten: Einziehung § 73 ff. StGB anrechnen.
-- **Verhandlungsspielraum mit StA / Gericht:**
- - Strafmass-Korridor sondieren (Vorgespraech ausserhalb Hauptverhandlung).
- - Einstellung §§ 153, 153a StPO als Alternative.
- - Auflagen § 153a StPO (Schadenswiedergutmachung, Geldzahlung Bussgeld an gemeinnuetzige Einrichtung, gemeinnuetzige Arbeit).
-- **Eskalation und Alternativen:**
- - Antrag Hauptverhandlung bei Erfolgsaussicht Beweisaufnahme.
- - Beweisantraege § 244 StPO.
- - Hilfsbeweisantraege bei Bedingung Verurteilung.
- - Schlussvortrag mit Strafmass-Argumentation entlang § 46 StGB.
-- **Kompensation bei langer Verfahrensdauer:** Strafabschlag wegen rechtsstaatswidriger Verfahrensdauer Art. 6 EMRK / Art. 20 III GG; BGH-Vollstreckungsloesung (Anrechnung auf Strafe).
 
 ## Qualitätsanker: Strafrahmen, Schuldprinzip und Gesamtstrafe
 
@@ -842,7 +608,7 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 
 ## Skill: `taeter-opfer-ausgleich-46a-stgb-und-schadenswiedergutmachung`
 
-_Wenn es um Taeter-Opfer-Ausgleich und Schadenswiedergutmachung — Paragraf 46a StGB in Strafzumessung geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten._
+_Für Täter-Opfer-Ausgleich und Schadenswiedergutmachung — Paragraf 46a StGB: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt._
 
 # Taeter-Opfer-Ausgleich und Schadenswiedergutmachung — § 46a StGB
 
@@ -956,9 +722,65 @@ BGH 4 StR 232/25 vom 20.11.2025: TOA ist auch bei sexuellem Missbrauch nicht gen
 
 ---
 
+## Skill: `rechtsmittel-und-gesamtstrafenfolgen`
+
+_Für Rechtsmittel-, Bewährungs- und Gesamtstrafenfolgen nach der Zumessung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt._
+
+# Rechtsmittel-, Bewährungs- und Gesamtstrafenfolgen nach der Zumessung
+
+## Arbeitsweg
+
+- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
+- Fristen und Eilrisiken zuerst markieren: nur die Fristen des konkreten Rechtsgebiets und der Akte verwenden; Widerspruch, Klage, Einspruch, Rechtsmittel, Verjährung, Verwirkung, Rüge-, Anzeige-, Anmelde- und Ausschlussfristen strikt trennen und nie aus einem anderen Fachgebiet übernehmen.
+- Tragende Normen verifizieren: StGB §§ 13, 22, 23, 25, 32, 35, 46, 47, 56, 57, StPO §§ 100a, 102, 105, 112, 136, 137, 140, 147, 152, 153a, 244, 257c, 261, 264, 265, 267, 304, 341, 344, 349; § 56; § 49 Regelbeispiele besonders schwerer Fall Verstaendigung; § 257c StPO TOA; § 46a Gesamtstrafe; § 55 JGG — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
+- Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
+- Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
+
+## Aufgabe
+Dieser Skill ersetzt einen zu groben Spezial-Slot durch einen konkreten Fachim Plugin `strafzumessung`. Kontext des Plugins: Strafzumessung nach deutschem Strafrecht vom Strafbefehl bis zur großen Strafkammer. § 46 StGB Strafzumessungstatsachen Tagessatz Geldstrafe Freiheitsstrafe Bewaehrung § 56 § 49 Regelbeispiele besonders schwerer Fall Verstaendigung § 257c StPO TOA § 46a Gesamtstrafe § 55 JGG.
+
+Er arbeitet nicht lexikalisch, sondern fallbezogen: Er trennt zuerst Rollen, Ziel, Fristen, Zuständigkeiten und Belege, prüft dann die fachlichen Weichen und liefert ein Ergebnis, mit dem weitergearbeitet werden kann.
+
+## Einstieg
+Wenn Material vorliegt, nutze es zuerst. Frage nur nach, was für die nächste Entscheidung fehlt:
+
+1. Wer handelt in welcher Rolle und gegen wen?
+2. Welches praktische Ziel soll erreicht werden?
+3. Welche Fristen, Termine, Zustellungen, Schwellenwerte oder Sanktionen stehen im Raum?
+4. Welche Unterlagen, Daten, Registerauszüge, Bescheide, Verträge, Screenshots oder sonstigen Belege liegen vor?
+5. Soll der Output intern, für Mandantschaft, Behörde, Gericht, Gegnerseite oder Gremium formuliert werden?
+
+## Arbeitsworkflow
+1. **Sortieren:** Sachverhalt, Dokumente und offene Punkte in eine knappe Fallmatrix bringen.
+2. **Rechtsrahmen:** Einschlägige Normen, Zuständigkeiten, Verfahren, Fristen und formelle Anforderungen live prüfen, soweit Aktualität tragend ist.
+3. **Materielle Weichen:** Die Kernfragen zu **Rechtsmittel-, Bewährungs- und Gesamtstrafenfolgen nach der Zumessung** mit Tatbestandsmerkmalen, Belegen, Gegenargumenten und typischen Praxisfehlern abarbeiten.
+4. **Risikoampel:** Ergebnis in Grün/Gelb/Rot mit Begründung, Unsicherheiten und Beweisbedarf einordnen.
+5. **Anschluss:** Passende weitere Skills desselben Plugins vorschlagen, wenn Spezialprüfung, Schriftsatz, Tabelle, Brief oder Verhandlungsstrategie sinnvoll ist.
+
+## Rechtsmittel / Bewaehrung / Gesamtstrafe - Bausteine
+- **Rechtsmittelpruefung nach Verkuendung:**
+ - Beschwer prüfen (Strafmass-Differenz zum Antrag StA/Verteidigung).
+ - Erfolgsaussicht Sachruege (Strafzumessungsruege selten erfolgreich; Aufhebung idR bei Lueckenhaftigkeit, Wertungsfehler, falschem Strafrahmen, Doppelverwertung § 46 III StGB) - staendige Rspr.
+ - Verfahrensruege für Verstaendigungsmaengel § 257c StPO (Belehrung § 257c V StPO!).
+ - Berufung § 314 StPO 1 Woche, Revision § 341 StPO 1 Woche, § 345 StPO Begruendung 1 Monat.
+- **Bewaehrungsentscheidung § 56 StGB:**
+ - Bis 6 Mon. = Sollvorschrift; 6-12 Mon. = Kannvorschrift; 12-24 Mon. = "besondere Umstaende" § 56 II StGB.
+ - Sozialprognose § 56 I 1 StGB; Verteidigungsverhalten in Hauptverhandlung relevant.
+ - Bewaehrungsauflagen § 56b StGB (Wiedergutmachung, Geldbusse, gemeinnuetzige Arbeit), -weisungen § 56c StGB (Therapie, Bewaehrungshilfe, Kontaktverbote).
+ - Bewaehrungsdauer 2-5 Jahre § 56a StGB.
+- **Gesamtstrafe § 55 StGB (nachtraegliche):**
+ - Voraussetzung: weitere Verurteilung vor Vollstreckung erster Tat erfolgt.
+ - Bildung: Einsatzstrafe + Erhoehung; § 54 II StGB Hoechstmass.
+ - Antrag auf nachtraegliche Gesamtstrafenbildung gegen Vollstreckungsbehoerde / Gericht § 460 StPO.
+- **Bewaehrungswiderruf § 56f StGB:** bei neuer Straftat in Bewaehrungszeit; § 56g Erlass nach Bewaehrungsende.
+- **Anrechnung U-Haft § 51 StGB:** zwingend; Ausnahme bei Doppelvollstreckung.
+- **Hinweispflicht Verteidiger:** Rechtsmittelverzicht und -Rücknahme schriftliche Mandantenfreigabe.
+
+---
+
 ## Skill: `verstaendigung-257c-stpo-strafzumessung`
 
-_Wenn es um Verstaendigung im Strafverfahren Paragraf 257c StPO und Strafzumessung in Strafzumessung geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten._
+_Für Verständigung im Strafverfahren Paragraf 257c StPO und Strafzumessung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt._
 
 # Verstaendigung im Strafverfahren § 257c StPO und Strafzumessung
 
@@ -1075,11 +897,11 @@ Mindestumfang nach BGH 1 StR 525/11 und Folge-Rspr.:
 
 ---
 
-## Skill: `geldstrafe-grossen-rechtsmittel`
+## Skill: `bewaehrung-interessen-deutschem`
 
-_Wenn es um Geldstrafe: Zahlen, Schwellenwerte und Berechnung in Strafzumessung geht: rechnet Schwellen, Beträge, Varianten und Kontrollannahmen durch; liefert eine Berechnungstabelle mit Schwellen, Annahmen und Kontrollfragen._
+_Für Bewährung: Mehrparteienkonflikt und Interessenmatrix: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Schnittstellenkarte mit Zuständigkeits- und Nachweisfragen._
 
-# Geldstrafe: Zahlen, Schwellenwerte und Berechnung
+# Bewaehrung: Mehrparteienkonflikt und Interessenmatrix
 
 ## Arbeitsweg
 
@@ -1089,7 +911,7 @@ _Wenn es um Geldstrafe: Zahlen, Schwellenwerte und Berechnung in Strafzumessung 
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
-## Spezialwissen: Geldstrafe: Zahlen, Schwellenwerte und Berechnung
+## Spezialwissen: Bewaehrung: Mehrparteienkonflikt und Interessenmatrix
 - **Normen-/Quellenanker:** StPO, TOA, JGG.
 
 ## Fallweichen
@@ -1103,7 +925,7 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 
 ## Arbeitsworkflow
 1. **Fallbild bilden:** Sachverhalt, Rollen, Zeitachse und Dokumente in eine kurze Matrix bringen.
-2. **Rechtsrahmen setzen:** Normen, Zuständigkeiten, Fristen, Formfragen und Verfahrensstand zum Themenfeld **Geldstrafe** prüfen.
+2. **Rechtsrahmen setzen:** Normen, Zuständigkeiten, Fristen, Formfragen und Verfahrensstand zum Themenfeld **Bewaehrung** prüfen.
 3. **Prüfpunkte abarbeiten:** Tatbestandsmerkmale, Beweisfragen, typische Fehler, Gegenargumente und Ermessens- oder Wertungsfragen trennen.
 4. **Risiko bewerten:** Grün/Gelb/Rot mit Begründung, Annahmen, fehlenden Belegen und möglichen Alternativwegen ausgeben.
 5. **Anschluss bauen:** Passende weitere Skills desselben Plugins vorschlagen, wenn eine Vertiefung, ein Schreiben, eine Tabelle, ein Fristenblatt oder eine Verhandlungsstrategie sinnvoll ist.
@@ -1119,7 +941,7 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 
 ## Skill: `iii-stpo-begruendungsanforderungen-strafurteil`
 
-_Wenn es um Begruendung der Strafzumessung im Urteil — Paragraf 267 Abs. 3 StPO in Strafzumessung geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten._
+_Für Begründung der Strafzumessung im Urteil — Paragraf 267 Abs. 3 StPO: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt._
 
 # Begruendung der Strafzumessung im Urteil — § 267 Abs. 3 StPO
 
@@ -1287,102 +1109,263 @@ III. Strafzumessung
 
 ---
 
-## Skill: `spezial-grossen-risikoampel-und-gegenargumente`
+## Skill: `strafbefehl-stpo-strafmilderung-stgb`
 
-_Wenn es um Grossen: Risikoampel, Gegenargumente und Verteidigungslinien in Strafzumessung geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten._
+_Für Strafzumessung im Strafbefehlsverfahren — Paragraf 407 StPO: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt._
 
-# Grossen: Risikoampel, Gegenargumente und Verteidigungslinien
+# Strafzumessung im Strafbefehlsverfahren — § 407 StPO
+
+## Arbeitsbereich
+
+Strafzumessung im Strafbefehl § 407 StPO. Strafrahmen Strafbefehl bis 360 Tagessaetze Geldstrafe; Freiheitsstrafe bis 1 Jahr nur mit Bewaehrung und nur bei Pflichtverteidiger. Pauschalisierung der Strafzumessung. Tagessatzhoehe oft schaetzungsweise. Verteidigungs-Strategie bei zu hoher Strafe: Einspruch oder beschraenkter Einspruch § 410 Abs. 2 StPO. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+
+## Arbeitsweg
+
+- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
+- Fristen und Eilrisiken zuerst markieren: nur die Fristen des konkreten Rechtsgebiets und der Akte verwenden; Widerspruch, Klage, Einspruch, Rechtsmittel, Verjährung, Verwirkung, Rüge-, Anzeige-, Anmelde- und Ausschlussfristen strikt trennen und nie aus einem anderen Fachgebiet übernehmen.
+- Tragende Normen verifizieren: StGB §§ 13, 22, 23, 25, 32, 35, 46, 47, 56, 57, StPO §§ 100a, 102, 105, 112, 136, 137, 140, 147, 152, 153a, 244, 257c, 261, 264, 265, 267, 304, 341, 344, 349; § 56; § 49 Regelbeispiele besonders schwerer Fall Verstaendigung; § 257c StPO TOA; § 46a Gesamtstrafe; § 55 JGG — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
+- Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
+- Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
+
+## Worum geht es?
+
+Der Strafbefehl ist ein **schriftliches** Verfahren ohne Hauptverhandlung. Die Strafzumessung erfolgt **pauschalisiert** anhand der Akte. § 407 Abs. 2 StPO begrenzt den Sanktionskatalog: Geldstrafe bis 360 Tagessaetze, Fahrverbot, Einziehung, in Ausnahmefaellen Freiheitsstrafe bis 1 Jahr mit Bewaehrung (und Pflichtverteidigung). Verteidigungssicht: bei zu hoher Strafe Einspruch oder beschraenkter Einspruch nach § 410 Abs. 2 StPO.
+
+## Wann brauchen Sie diese Skill?
+
+- Mandant hat einen Strafbefehl erhalten und Sie prüfen die Strafzumessung.
+- Sie ueberlegen, ob ein beschraenkter Einspruch auf Rechtsfolgen sinnvoll ist.
+- Sie prüfen die Tagessatzfestsetzung gegen den Mandanteneinkommensstand.
+
+## Rechtliche Grundlagen
+
+- **§ 407 Abs. 1 StPO** — Strafbefehl auf Antrag der Staatsanwaltschaft bei Vergehen.
+- **§ 407 Abs. 2 StPO** — Sanktionskatalog:
+ - Nr. 1: Geldstrafe, Verwarnung mit Strafvorbehalt, Fahrverbot, Entziehung der Fahrerlaubnis, Sperre für Fahrerlaubniserteilung, Einziehung, Vernichtung, Unbrauchbarmachung, Bekanntmachung, Geldbusse.
+ - Nr. 2: Freiheitsstrafe bis 1 Jahr **mit Bewaehrung und nur mit Verteidiger**.
+- **§ 408 StPO** — Erlass durch Richter; Prüfung des hinreichenden Tatverdachts.
+- **§ 410 Abs. 1 StPO** — Einspruchsfrist 2 Wochen ab Zustellung.
+- **§ 410 Abs. 2 StPO** — Beschraenkung des Einspruchs auf Rechtsfolgen; Schuldspruch wird rechtskraeftig.
+- **§§ 40-43 StGB** — Geldstrafe.
+- **§ 46 StGB** — Strafzumessungsgrundsatz.
+
+## Strafzumessungs-Grundsatz
+
+Im Strafbefehlsverfahren wird die Strafzumessung haeufig **pauschal** vorgenommen:
+
+- Die Tatumstaende ergeben sich allein aus der Akte.
+- Persoenliche und wirtschaftliche Verhältnisse werden oft geschaetzt (§ 40 Abs. 3 StGB).
+- Strafzumessungstatsachen nach § 46 Abs. 2 StGB werden gewuerdigt, aber ohne Anhörung des Beschuldigten.
+
+## Schritt-für-Schritt-Anleitung (Verteidigung)
+
+1. **Strafbefehl prüfen**:
+ - Welche Tatbestaende, welcher Strafrahmen?
+ - Welche Anzahl Tagessaetze? Welcher Tagessatz?
+ - Gibt es Fahrverbot, Einziehung, Nebenfolgen?
+2. **Strafzumessung prüfen**:
+ - **Tagessatzanzahl**: Ist die Schuldkomponente realistisch? Vgl. `geldstrafe-tagessatzanzahl-bestimmen`.
+ - **Tagessatzhoehe**: Stimmt die Einkommensschaetzung? Vgl. `tagessatzhoehe-40-ii-stgb-nettotagesverdienst`.
+ - **§ 47 StGB**: Wenn Freiheitsstrafe verhaengt, sind die "besonderen Umstaende" begruendet?
+3. **Beschraenkter Einspruch** (§ 410 Abs. 2 StPO): Schuldspruch wird rechtskraeftig; nur Rechtsfolgen werden in der Hauptverhandlung verhandelt. **Vorsicht**: BZRG-Eintrag bleibt; berufsrechtliche Folgen prüfen.
+4. **Unbeschraenkter Einspruch**: Schuldspruch wird mitverhandelt; auch Freispruch möglich.
+5. **Strafmilderungsangebote** vorbereiten:
+ - TOA / Schadenswiedergutmachung (§ 46a StGB).
+ - Einkommensnachweise für realistische Tagessatzhoehe.
+ - Gestaendnis bei Einspruchsverhandlung (Gestaendnis-Rabatt).
+
+## Tagessatzhoehe — typische Korrektur-Hebel
+
+- Gericht schaetzt oft optimistisch.
+- Einkommensnachweise (Lohnabrechnung letzte 3 Monate; Steuerbescheid; BWA bei Selbststaendigen).
+- Unterhaltspflichten substantiiert vortragen.
+- Konsumschulden nur ausnahmsweise.
+
+## Strafbefehl mit Freiheitsstrafe bis 1 Jahr (§ 407 Abs. 2 Nr. 2 StPO)
+
+- Nur **mit** Verteidiger und nur **mit** Bewaehrung.
+- Voraussetzungen Bewaehrung (§ 56 StGB): Sozialprognose positiv.
+- Wenn Sozialprognose fragwuerdig: **Einspruch zwingend**, sonst rechtskraeftige Verurteilung.
+
+## Beschraenkter Einspruch — strategische Prüfung
+
+| Vorteil | Nachteil |
+|---|---|
+| Schnelle Erledigung | BZRG-Eintrag bleibt |
+| Nur Rechtsfolgen-Verhandlung | Schuldspruch rechtskraeftig |
+| Kosten geringer | Berufsrechtliche Folgen |
+| Geringere Strafverschaerfungsgefahr | Spaetere Strafzumessung beruecksichtigt Vorstrafe |
+
+## Verteidigungs-Argumentationsmuster für Einspruch
+
+- "Die Tagessatzhoehe von [X] EUR ist nicht zutreffend, da das Nettoeinkommen meines Mandanten [...] betraegt; Beleg: [...]."
+- "Eine Geldstrafe von [X] Tagessaetzen wird der Schuld nicht gerecht; Strafmilderungsgruende [...] sind unberuecksichtigt geblieben."
+- "§ 46a StGB ist anwendbar, da [Beleg für TOA / Wiedergutmachung]."
+
+## Typische Fehler
+
+- **Einspruchsfrist verpennt** (2 Wochen, § 410 StPO).
+- **Beschraenkter Einspruch** ohne BZRG-Prüfung gewaehlt — Folgewirkungen unterschaetzt.
+- **Tagessatzhoehe** akzeptiert ohne Einkommensnachweise.
+- **Strafmilderungsgruende** in der Strafbefehlspruefung uebersehen.
+- **Freiheitsstrafe ohne Verteidiger** im Strafbefehl: Anhaltspunkt für Pflichtverteidigung prüfen (§ 140 StPO).
+
+## Quellen und Stand 05/2026
+
+- §§ 407-412 StPO in der geltenden Fassung.
+- §§ 40-43, 46, 47, 56 StGB.
+- Quellenregel: vgl. `references/zitierweise.md`.
+
+---
+
+## Skill: `verfahrensstadium-strafbefehl-bis-kammer`
+
+_Für Strafzumessung vom Strafbefehl bis zur großen Strafkammer: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt._
+
+# Strafzumessung vom Strafbefehl bis zur großen Strafkammer
+
+## Arbeitsweg
+
+- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
+- Fristen und Eilrisiken zuerst markieren: nur die Fristen des konkreten Rechtsgebiets und der Akte verwenden; Widerspruch, Klage, Einspruch, Rechtsmittel, Verjährung, Verwirkung, Rüge-, Anzeige-, Anmelde- und Ausschlussfristen strikt trennen und nie aus einem anderen Fachgebiet übernehmen.
+- Tragende Normen verifizieren: StGB §§ 13, 22, 23, 25, 32, 35, 46, 47, 56, 57, StPO §§ 100a, 102, 105, 112, 136, 137, 140, 147, 152, 153a, 244, 257c, 261, 264, 265, 267, 304, 341, 344, 349; § 56; § 49 Regelbeispiele besonders schwerer Fall Verstaendigung; § 257c StPO TOA; § 46a Gesamtstrafe; § 55 JGG — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
+- Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
+- Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
 ## Aufgabe
-Dieser Skill ist ein konkreter Fachbaustein für `strafzumessung`. Ausgangspunkt ist: Strafzumessung nach deutschem Strafrecht vom Strafbefehl bis zur grossen Strafkammer. § 46 StGB Strafzumessungstatsachen Tagessatz Geldstrafe Freiheitsstrafe Bewaehrung § 56 § 49 Regelbeispiele besonders schwerer Fall Verstaendigung § 257c StPO TOA § 46a Gesamtstrafe § 55 JGG.
+Dieser Skill ersetzt einen zu groben Spezial-Slot durch einen konkreten Fachim Plugin `strafzumessung`. Kontext des Plugins: Strafzumessung nach deutschem Strafrecht vom Strafbefehl bis zur großen Strafkammer. § 46 StGB Strafzumessungstatsachen Tagessatz Geldstrafe Freiheitsstrafe Bewaehrung § 56 § 49 Regelbeispiele besonders schwerer Fall Verstaendigung § 257c StPO TOA § 46a Gesamtstrafe § 55 JGG.
 
-Er führt durch **Risikoampel, Gegenargumente und Verteidigungslinien** im Themenfeld **Grossen**. Ziel ist nicht ein abstrakter Lexikontext, sondern ein belastbares Arbeitsprodukt für die nächste anwaltliche, behördliche, gerichtliche, organisatorische oder mandantenbezogene Entscheidung.
+Er arbeitet nicht lexikalisch, sondern fallbezogen: Er trennt zuerst Rollen, Ziel, Fristen, Zuständigkeiten und Belege, prüft dann die fachlichen Weichen und liefert ein Ergebnis, mit dem weitergearbeitet werden kann.
 
+## Einstieg
+Wenn Material vorliegt, nutze es zuerst. Frage nur nach, was für die nächste Entscheidung fehlt:
 
-## Fachlicher Zuschnitt
-
-- **Thema:** Grossen.
-- **Arbeitsfokus:** Risikoampel, Gegenargumente und Verteidigungslinien.
-- **Plugin-Rahmen:** Strafzumessung nach deutschem Strafrecht vom Strafbefehl bis zur grossen Strafkammer. § 46 StGB Strafzumessungstatsachen Tagessatz Geldstrafe Freiheitss....
-- **Qualitätsanspruch:** Antworte nicht mit einer austauschbaren Standard-Checkliste. Nutze die Fachlogik dieses Plugins, benenne die konkret einschlägigen Normgruppen, Behörden, Register, Fristen, Dokumente oder Verfahrenshandlungen und trenne sichere Punkte von Live-Check-Bedarf.
-- **Eloquenz und Nutzen:** Führe die Nutzerin oder den Nutzer wie eine erfahrene Fachperson: kurze Orientierung, präzise Rückfragen, dann ein verwertbares Produkt mit Varianten, Gegenargumenten und nächstem Handgriff.
-
-## Kaltstart
-Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur Rückfragen, die die nächste Weiche verändern:
-
-1. Welche Rolle hat die fragende Person und wer ist Gegenüber?
-2. Welches konkrete Ziel soll erreicht oder verhindert werden?
-3. Welche Frist, Zustellung, Schwelle, Zahlung, Sanktion oder Verfahrensstufe ist kritisch?
-4. Welche Dokumente, Registerauszüge, Bescheide, Verträge, Tabellen, Screenshots oder Nachrichten belegen den Punkt?
-5. Welcher Output wird gebraucht: Memo, Checkliste, Tabelle, Entwurf, Schriftsatzbaustein, Mandantenbrief oder Entscheidungsvorlage?
+1. Wer handelt in welcher Rolle und gegen wen?
+2. Welches praktische Ziel soll erreicht werden?
+3. Welche Fristen, Termine, Zustellungen, Schwellenwerte oder Sanktionen stehen im Raum?
+4. Welche Unterlagen, Daten, Registerauszüge, Bescheide, Verträge, Screenshots oder sonstigen Belege liegen vor?
+5. Soll der Output intern, für Mandantschaft, Behörde, Gericht, Gegnerseite oder Gremium formuliert werden?
 
 ## Arbeitsworkflow
-1. **Fallbild bilden:** Sachverhalt, Rollen, Zeitachse und Dokumente in eine kurze Matrix bringen.
-2. **Rechtsrahmen setzen:** Normen, Zuständigkeiten, Fristen, Formfragen und Verfahrensstand zum Themenfeld **Grossen** prüfen.
-3. **Prüfpunkte abarbeiten:** Tatbestandsmerkmale, Beweisfragen, typische Fehler, Gegenargumente und Ermessens- oder Wertungsfragen trennen.
-4. **Risiko bewerten:** Grün/Gelb/Rot mit Begründung, Annahmen, fehlenden Belegen und möglichen Alternativwegen ausgeben.
-5. **Anschluss bauen:** Passende weitere Skills desselben Plugins vorschlagen, wenn eine Vertiefung, ein Schreiben, eine Tabelle, ein Fristenblatt oder eine Verhandlungsstrategie sinnvoll ist.
+1. **Sortieren:** Sachverhalt, Dokumente und offene Punkte in eine knappe Fallmatrix bringen.
+2. **Rechtsrahmen:** Einschlägige Normen, Zuständigkeiten, Verfahren, Fristen und formelle Anforderungen live prüfen, soweit Aktualität tragend ist.
+3. **Materielle Weichen:** Die Kernfragen zu **Strafzumessung vom Strafbefehl bis zur großen Strafkammer** mit Tatbestandsmerkmalen, Belegen, Gegenargumenten und typischen Praxisfehlern abarbeiten.
+4. **Risikoampel:** Ergebnis in Grün/Gelb/Rot mit Begründung, Unsicherheiten und Beweisbedarf einordnen.
+5. **Anschluss:** Passende weitere Skills desselben Plugins vorschlagen, wenn Spezialprüfung, Schriftsatz, Tabelle, Brief oder Verhandlungsstrategie sinnvoll ist.
 
-## Output-Standard
-- **Kurzlage:** maximal fünf Sätze zu Ziel, Lage, Frist, Risiko und nächstem Schritt.
-- **Prüfmatrix:** Punkt, Norm/Quelle, Tatsache, Beleg, Bewertung, To-do.
-- **Arbeitsprodukt:** direkt nutzbarer Entwurf oder Baustein in der passenden Tonalität.
-- **Qualitätsgate:** keine Scheingenauigkeit; Lücken, Annahmen und Live-Check-Bedarf ausdrücklich markieren.
+## Strafzumessung pro Verfahrensstadium Bausteine
+- **Strafbefehl §§ 407 ff. StPO (Vergehen):**
+ - Hoechstrahmen Geldstrafe (regelmaessig 360 TS); Freiheitsstrafe bis 1 Jahr nur **mit Verteidiger und auf Bewaehrung** § 407 II 2 StPO.
+ - Strafzumessung StA-Antrag massgeblich; Gericht kann abweichen ggf. ablehnen (zurueck zur Anklage).
+ - Tagessatz-Höhe nach Schaetzung Einkommen.
+- **AG Strafrichter § 25 GVG:**
+ - Bis 2 Jahre Freiheitsstrafe; Geldstrafe.
+ - Prüfung Bewaehrung § 56 StGB regelmaessig.
+- **AG Schoeffengericht § 28 GVG:**
+ - Bis 4 Jahre Freiheitsstrafe; bei Anklagen StA, die über Strafrichter hinausgehen.
+ - Bewaehrung § 56 StGB; Massregeln § 61 ff. StGB.
+- **LG große Strafkammer § 76 GVG:**
+ - Über 4 Jahre Freiheitsstrafe; schwere Wirtschaftsstrafsachen, Mehrtaeter, Banden.
+ - Komplexe Strafzumessung mit § 46 StGB-Bilanz; Gesamtstrafe § 55 StGB.
+- **LG Schwurgericht § 74 II GVG:**
+ - Toetungsdelikte §§ 211-222 StGB.
+ - Lebenslange Freiheitsstrafe bei Mord; bei besonders schwerer Schuld Vorbehalt § 57a StGB (15 J. Mindestverbuessung; ggf. lebenslang).
+- **JGG §§ 17, 18:**
+ - Jugendstrafe bei schaedlichen Neigungen / Schwere der Schuld; 6 Monate bis 5 / 10 Jahre.
+ - § 105 JGG bei Heranwachsenden: Jugendrecht / Erwachsenenrecht je nach Reife.
+- **Strafzumessungs-Korridore typisch (Indikativ - regional unterschiedlich, keine Az-Auflistung aus Modellwissen):**
+ - Diebstahl § 242 StGB: regelmaessig Geldstrafe; ab Schaden 1000+ EUR und Wiederholung Freiheitsstrafe diskussiert.
+ - Betrug § 263 StGB: Schaden-Korridor entscheidend; Regelbeispiel § 263 III StGB ab ~50.000 EUR / Bandenmaessigkeit.
+ - Trunkenheit § 316 StGB: idR Geldstrafe + Fahrerlaubnisentzug § 69 StGB.
+ - Koerperverletzung § 223 StGB: Geldstrafe; § 224 (gefaehrlich) regelmaessig Freiheitsstrafe diskutiert.
+- **Verstaendigung § 257c StPO** in allen Stadien möglich; Korridor verbindlich.
 
-<!-- BEGIN ausformulierungspflicht (autogen) -->
-> **Ausformulierungspflicht und Formatstandard.** Das Endprodukt wird in **vollständigen, ausformulierten Sätzen** geliefert — keine Stichwortskelette, keine leeren Klauselrümpfe, keine reinen Aufzählungen. Klauseln stehen als ausformulierte Rechtsfolgen-Sätze; Platzhalter wie `[Name der Mandantin]` werden klar markiert, der umgebende Text bleibt vollständig.
->
-> **Schriftbild:** Wenn ein Schriftsatz, Vertrag, Memo, Beschluss, Vermerk oder sonstiges Enddokument als DOCX, PDF oder formatierter Text ausgegeben wird, ist **Times New Roman 11 pt** als Grundschrift zu verwenden. Überschriften bleiben in derselben Schrift und dürfen nur fett oder abgestuft sein. Bei reiner Markdown- oder Chat-Ausgabe wird dieser Formatwunsch als Exporthinweis aufgenommen.
->
-> **Nummerierung:** Gliederung ausschließlich dezimal (`1`, `1.1`, `1.1.1` und so weiter). Keine römischen Ziffern, keine Buchstaben- oder Mischgliederung.
-<!-- END ausformulierungspflicht (autogen) -->
+---
 
-## Quellenregel
-- Aktuelle Normen, Behördenhinweise, Gerichtsseiten, Register, Formulare und EU-/Landesrecht live prüfen, wenn sie für das Ergebnis tragend sind.
-- Rechtsprechung nur mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle ausgeben.
-- Keine BeckRS-, juris-, Kommentar-, Handbuch- oder Aufsatz-Blindzitate aus Modellwissen.
-- Paywall-Literatur nur verwerten, wenn sie von der Nutzerin oder dem Nutzer als Text bereitgestellt wurde; dann nicht als frei verifizierte Quelle ausgeben.
+## Skill: `geldstrafe-tagessatzanzahl-bestimmen`
 
-## Strafzumessung-Risikoampel / Gegenargumente Bausteine
-- **Risikoampel Strafmass:**
-  - **Rot:**
-    - Mindeststrafe nach Strafrahmen droht; keine Bewaehrung moeglich.
-    - Einschlaegige Vorstrafen (insb. einschlaegiges Vergehen ueber 6 Monate).
-    - Tat in Bewaehrungszeit (Widerrufsrisiko § 56f StGB).
-    - Schadenshoehe Regelbeispiel-Schwelle.
-    - Mehrfachverurteilung -> Gesamtstrafe § 55 StGB.
-  - **Gelb:**
-    - Erstverurteilung mit moeglicher Bewaehrung § 56 StGB.
-    - Schadenswiedergutmachung teilweise.
-    - Therapie / TOA § 46a StGB im Gang.
-    - Sozialprognose grundsaetzlich positiv aber unklare Akteurslage.
-  - **Gruen:**
-    - Erstverurteilung mit Bewaehrung.
-    - TOA / Wiedergutmachung erfolgt.
-    - Verstaendigung § 257c StPO mit Korridor abgesichert.
-    - Einstellungs-Aussicht §§ 153, 153a StPO.
-- **Gegenargumente zu typischen Strafzumessungs-Argumenten der StA:**
-  - **"einschlaegige Vorstrafen":** Tilgungsreife pruefen § 51 BZRG (Verwertungsverbot); zeitlich abgegrenzt; nicht-einschlaegig?
-  - **"hoher Schaden":** Realquote pruefen (z. B. bei Versicherungsbetrug Schaden = Versicherungsleistung, nicht behaupteter Wert).
-  - **"professioneller Vorgehen":** Subsumtion Regelbeispiel pruefen; oft nur Indizwirkung.
-  - **"Tatfolgen": Konkrete Schaedenhoehe ermitteln; immaterielle Folgen objektivieren.
-  - **"keine Schadenswiedergutmachung":** Versuche dokumentieren; TOA-Anbieten; ggf. Schadensregulierung in Aussicht stellen.
-- **Verteidigungslinien Strafmilderung:**
-  - § 46 II StGB-Bilanz vollstaendig durchgehen.
-  - § 49 StGB-Verschiebung (§§ 21, 23 II, 27 II 2, 13 II StGB).
-  - § 46a StGB TOA / Schadenswiedergutmachung.
-  - § 47 StGB Vermeidung kurzer Freiheitsstrafe.
-  - § 56 StGB Bewaehrungspraxis.
-  - § 60 StGB Absehen von Strafe (klein-Schaden, Reue, gesundheitliche Folgen).
-  - Verfahrensdauer-Kompensation (BGH-Vollstreckungsloesung).
-- **Massregeln pruefen:** § 44 StGB Fahrverbot, § 69 StGB Entziehung Fahrerlaubnis, § 70 StGB Berufsverbot, §§ 63, 64 StGB Unterbringung Psychiatrie / Entziehungsanstalt.
+_Für Tagessatzanzahl der Geldstrafe — Paragraf 40 Abs. 1 StGB: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt._
 
-## Qualitätsanker: Strafrahmen, Schuldprinzip und Gesamtstrafe
+# Tagessatzanzahl der Geldstrafe — § 40 Abs. 1 StGB
 
-- **Verifizierte Rechtsprechungsanker:** BGH, Beschluss vom 14.05.2024 - 6 StR 502/23 zur Strafrahmenlogik/Sperrwirkung und gerechten Schuldstrafe; BGH, Beschluss vom 23.01.2024 - 3 StR 455/23 zum Doppelverwertungsverbot und Begründungsanforderungen; BGH, Beschluss vom 24.04.2024 - 5 StR 123/24 sowie BGH, Beschluss vom 03.06.2025 - 2 StR 333/24 zur nachträglichen Gesamtstrafenbildung, Zäsurwirkung und Härteausgleich.
-- **Prüfreihenfolge:** Nie sofort ein „gefühltes Strafmaß“ bilden. Erst Tatbestand und anwendbares Recht, dann Strafrahmen, minder/ besonders schwerer Fall, vertypte Milderung, § 49 StGB, Doppelverwertungsverbot, § 46 StGB, Nebenfolgen, Bewährung, Gesamtstrafe.
-- **§ 55-StGB-Disziplin:** Bei Vorverurteilungen immer Tatzeiten, Entscheidungsdaten, Rechtskraft, Vollstreckungsstand, erledigte/nicht erledigte Strafen und Zäsurwirkung als Tabelle verlangen. Unklare Gesamtstrafenlagen nicht glattbügeln, sondern als Risiko mit Alternativen ausgeben.
-- **Output-Pflicht:** Strafzumessungsmemo mit Strafrahmenbaum, Zumessungstatsachen pro/contra, Revisionsrisiken und nächstem taktischem Schritt; bei Aktenbezug zusätzlich BZRG-/Urteils-/Vollstreckungsdaten-Lückenliste.
+## Arbeitsbereich
+
+Bestimmung der Tagessatzanzahl der Geldstrafe nach § 40 Abs. 1 StGB. 5 bis 360 Tagessaetze als Grundgrenze; bei Gesamtgeldstrafe bis 720 Tagessaetze. Die Anzahl bildet die Schuldkomponente und folgt § 46 StGB. Abgrenzung zur Tagessatzhoehe, die das Nettoeinkommen abbildet. Schnittstelle Strafbefehl, Hauptverhandlung, Gesamtstrafe. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+
+## Arbeitsweg
+
+- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
+- Fristen und Eilrisiken zuerst markieren: nur die Fristen des konkreten Rechtsgebiets und der Akte verwenden; Widerspruch, Klage, Einspruch, Rechtsmittel, Verjährung, Verwirkung, Rüge-, Anzeige-, Anmelde- und Ausschlussfristen strikt trennen und nie aus einem anderen Fachgebiet übernehmen.
+- Tragende Normen verifizieren: StGB §§ 13, 22, 23, 25, 32, 35, 46, 47, 56, 57, StPO §§ 100a, 102, 105, 112, 136, 137, 140, 147, 152, 153a, 244, 257c, 261, 264, 265, 267, 304, 341, 344, 349; § 56; § 49 Regelbeispiele besonders schwerer Fall Verstaendigung; § 257c StPO TOA; § 46a Gesamtstrafe; § 55 JGG — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
+- Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
+- Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
+
+## Worum geht es?
+
+Bei der Geldstrafe wird die **Schuld** über die **Anzahl der Tagessaetze** ausgedrueckt; die **Höhe** des einzelnen Tagessatzes spiegelt die wirtschaftlichen Verhältnisse wider (§ 40 Abs. 2 StGB; vgl. `tagessatzhoehe-40-ii-stgb-nettotagesverdienst`). Dieser Skill konzentriert sich auf die Zahl.
+
+## Wann brauchen Sie diese Skill?
+
+- Sie prüfen einen Strafbefehl mit Tagessatzfestsetzung und wollen die Schuldkomponente überprüfen.
+- Sie bereiten den Strafantrag der Staatsanwaltschaft für ein Vergehen vor.
+- Sie schreiben die Strafzumessung im Urteil oder prüfen sie im Revisionsverfahren.
+- Sie bilden eine Gesamtgeldstrafe nach §§ 53, 54 StGB.
+
+## Rechtliche Grundlagen
+
+- **§ 40 Abs. 1 Satz 2 StGB** — "Die Geldstrafe betraegt mindestens fuenf und, soweit das Gesetz nichts anderes bestimmt, hoechstens dreihundertsechzig volle Tagessaetze."
+- **§ 54 Abs. 2 Satz 2 StGB** — Gesamtgeldstrafe bis 720 Tagessaetze.
+- **§ 47 StGB** — Vorrang Geldstrafe vor kurzer Freiheitsstrafe unter 6 Monaten; vgl. `geldstrafe-vs-freiheitsstrafe-47-stgb`.
+- **§ 41 StGB** — Geldstrafe neben Freiheitsstrafe möglich, wenn der Taeter durch die Tat sich bereichert hat oder zu bereichern versucht hat.
+- **§ 53 Abs. 2 StGB** — Bei Realkonkurrenz mehrerer Geldstrafen Gesamtgeldstrafe.
+
+## Strafzumessungs-Grundsatz
+
+- Die Tagessatzanzahl folgt allein **§ 46 StGB**; Strafzumessungstatsachen wie Vorleben, Tatfolgen, Nachtatverhalten sind hier abzubilden.
+- Die Höhe darf **nicht** in die Anzahl einfliessen — das waere eine unzulaessige Vermengung.
+- Schuldrahmen-Theorie auch hier: Innerhalb des "Spielraums schuldangemessener Strafe" wird konkret bestimmt.
+
+## Schritt-für-Schritt-Anleitung
+
+1. **Strafrahmen prüfen**: Ist Geldstrafe ueberhaupt vorgesehen? Wird die Strafrahmen-Obergrenze des Tatbestands beruehrt (z.B. § 242 StGB: bis 5 Jahre oder Geldstrafe; § 263 Abs. 1 StGB: bis 5 Jahre oder Geldstrafe).
+2. **Umrechnungsschluessel** beachten: 30 Tagessaetze = 1 Monat Freiheitsstrafe (faustregelhafte Äquivalenz; nicht starr, aber Orientierung).
+3. **Strafzumessungstatsachen** nach § 46 StGB sammeln und gewichten (vgl. `strafzumessungs-tatsachen-46-ii-stgb`).
+4. **Anzahl bestimmen** im Schuldrahmen.
+5. **Kein Lappenanteil** — § 40 Abs. 1 StGB verlangt "volle" Tagessaetze.
+6. **Bei Gesamtgeldstrafe** (§§ 53, 54 StGB): hoechste Einzelstrafe als Einsatzstrafe, dann Erhoehung um angemessenen Bruchteil bis maximal 720 Tagessaetze; vgl. `gesamtstrafenbildung-53-54-stgb-erste-instanz`.
+
+## Faustwerte (orientierend, nicht starr)
+
+| Bereich | Tagessatzanzahl |
+|---|---|
+| Bagatelle, ggf. § 153a StPO statt Strafbefehl | 5-30 |
+| Mittlere Vergehen ohne Vorbelastung | 30-90 |
+| Mittlere Vergehen mit Vorbelastung | 90-180 |
+| Schwere Vergehen, Mehrtaeterstrukturen | 180-360 |
+| Gesamtgeldstrafe Schwer-Komplex | 360-720 |
+
+Die Tabelle ersetzt **keine** Einzelfallbetrachtung; sie zeigt nur das Spielfeld.
+
+## Sonderfaelle
+
+- **Mehrere Einzelstrafen** (Realkonkurrenz, § 53 StGB): Gesamtgeldstrafe nach § 54 Abs. 2 StGB; Erhoehung der hoechsten Einzelstrafe; max. 720 Tagessaetze.
+- **Geldstrafe neben Freiheitsstrafe** (§ 41 StGB): nur wenn Bereicherungsabsicht und Bereicherung erkennbar; sonst Aufhebungsgrund.
+- **Strafbefehl** (§ 407 Abs. 2 StPO): bis 360 Tagessaetze ohne Hauptverhandlung; vgl. `strafbefehl-strafzumessung-407-stpo`.
+- **Verstaendigung** (§ 257c StPO): Strafrahmen-Ober- und Untergrenze für Tagessatzanzahl können Verhandlungsgegenstand sein; vgl. `verstaendigung-257c-stpo-strafzumessung`.
+
+## Typische Fehler
+
+- **Tagessatzanzahl und -höhe vermengt**: Schwierige wirtschaftliche Verhältnisse mindern die Höhe, nicht die Anzahl.
+- **Doppelverwertung**: Tatbestandsmerkmal wird in die Anzahl eingerechnet.
+- **Strafrahmen ignoriert**: Bei Tatbestand mit Mindeststrafe Freiheitsstrafe ist Geldstrafe ausgeschlossen.
+- **§ 47 StGB uebersehen**: Wenn das Gericht statt Geldstrafe eine kurze Freiheitsstrafe verhaengt, muss es besondere Umstaende benennen.
+- **Gesamtgeldstrafe** falsch gebildet: Es dürfen nicht einfach die Einzelstrafen addiert werden; § 54 Abs. 1 Satz 2 StGB verlangt Erhoehung um eine "angemessene" Quote.
+
+## Quellen und Stand 05/2026
+
+- §§ 40, 41, 47, 53, 54 StGB in der geltenden Fassung.
+- § 407 Abs. 2 StPO Strafbefehl.
+- Quellenregel: vgl. `references/zitierweise.md`.
 
 ---
 

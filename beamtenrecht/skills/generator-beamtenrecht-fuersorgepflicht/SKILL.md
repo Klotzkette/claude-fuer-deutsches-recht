@@ -1,6 +1,6 @@
 ---
 name: generator-beamtenrecht-fuersorgepflicht
-description: "Wenn es um Formular Generator Beamtenrecht in Beamtenrecht geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
+description: "Für Formular Generator Beamtenrecht: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Formular Generator Beamtenrecht

@@ -1,6 +1,6 @@
 ---
 name: klausel-entwerfen-aggressiv
-description: "Wenn es um Klausel Entwerfen Aggressiv in AGB-Recht-Prüfer geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Dokumentenmatrix mit Nachforderungsliste."
+description: "Für Klausel Entwerfen Aggressiv: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Klausel Entwerfen Aggressiv

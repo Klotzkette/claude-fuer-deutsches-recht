@@ -1,6 +1,6 @@
 ---
 name: volkseigener-betrieb-vergleich-bewerte
-description: "Wenn es um Volkseigener Betrieb Vergleich Bewerte in Einigungsvertrag und Vermögensrecht geht: entwickelt Verhandlungsziel, Vergleichskorridor und Eskalationspfad; liefert eine Verhandlungs- oder Eskalationslinie mit Optionen."
+description: "Für Volkseigener Betrieb Vergleich Bewerte: entwickelt Ziel, Vergleich und Eskalation; Ergebnis: Verhandlungs- oder Eskalationslinie."
 ---
 
 # Volkseigener Betrieb Vergleich Bewerte

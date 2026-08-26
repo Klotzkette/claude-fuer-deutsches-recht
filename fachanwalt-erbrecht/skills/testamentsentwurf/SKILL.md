@@ -1,6 +1,6 @@
 ---
 name: testamentsentwurf
-description: "Wenn es um Testament oder Erbvertrag entwerfen wenn Mandant Nachlassplanung vornehmen moechte in Fachanwalt Erbrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Testament oder Erbvertrag entwerfen wenn Mandant Nachlassplanung vornehmen möchte: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Testament oder Erbvertrag entwerfen wenn Mandant Nachlassplanung vornehmen moechte

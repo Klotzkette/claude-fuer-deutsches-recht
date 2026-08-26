@@ -1,6 +1,6 @@
 ---
 name: portfolio-und-case-study
-description: "Wenn es um Portfolio Und Case Study in Solo-Selbstständige Praxis geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Portfolio und Case Study: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # IP Content und Arbeitsergebnisse: Prüft eigenwerbung trotz kundengeheimnis und urheberrechten

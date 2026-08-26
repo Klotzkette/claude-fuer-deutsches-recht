@@ -1,6 +1,6 @@
 ---
 name: bwbes-dienstzeitversorgung
-description: "Wenn es um Dienstzeitversorgung und Berufsförderungsdienst in Bundeswehrrecht und Wehrrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Dienstzeitversorgung und Berufsförderungsdienst: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Dienstzeitversorgung und Berufsförderungsdienst

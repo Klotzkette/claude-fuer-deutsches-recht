@@ -1,6 +1,6 @@
 ---
 name: bildmarke-und-wort-bild
-description: "Wenn es um Bildmarke und Wort-Bild-Marke für Couture-Logos in markenrecht-fashion-luxus geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Bildmarke und Wort-Bild-Marke für Couture-Logos: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Bildmarke und Wort-Bild-Marke für Couture-Logos

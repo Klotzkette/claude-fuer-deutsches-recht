@@ -1,6 +1,6 @@
 ---
 name: kein-beweis-folgen-laienwarnung
-description: "Wenn es um Was passiert, wenn Sie eine Tatsache **nicht** beweisen können? in selbstvertreter-amtsgericht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Beweislast- und Substantiierungsmatrix."
+description: "Für Was passiert, wenn Sie eine Tatsache **nicht** beweisen können?: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Beweislast- und Substantiierungsmatrix."
 ---
 
 # Was passiert, wenn Sie eine Tatsache **nicht** beweisen können?

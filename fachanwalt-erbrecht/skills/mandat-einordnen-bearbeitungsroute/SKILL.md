@@ -1,6 +1,6 @@
 ---
 name: mandat-einordnen-bearbeitungsroute
-description: "Wenn es um Erbrechtsmandat einordnen Bearbeitungsroute bestimmen und erste Prioritaeten setzen in Fachanwalt Erbrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Erbrechtsmandat einordnen Bearbeitungsroute bestimmen und erste Prioritäten setzen: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Erbrechtsmandat einordnen Bearbeitungsroute bestimmen und erste Prioritaeten setzen

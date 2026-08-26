@@ -1,6 +1,6 @@
 ---
 name: buchprojekte-internationaler-bezug-und-schnittstellen
-description: "Wenn es um Buchprojekte: Internationaler Bezug und Schnittstellen in Verlagsredaktion geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Buchprojekte: Internationaler Bezug und Schnittstellen: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Schnittstellenkarte mit Zuständigkeits- und Nachweisfragen."
 ---
 
 # Buchprojekte: Internationaler Bezug und Schnittstellen

@@ -1,6 +1,6 @@
 ---
 name: klausel-entwerfen-balanced
-description: "Wenn es um Klausel Entwerfen Balanced in AGB-Recht-Prüfer geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Dokumentenmatrix mit Nachforderungsliste. Auswahlstichwort: Klausel Entwerfen Balanced; Arbeitsfeld: AGB-Recht-Prüfer."
+description: "Für Klausel Entwerfen Balanced: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt. Fachgebiet: AGB-Recht-Prüfer. Route: klausel-entwerfen-balanced."
 ---
 
 # Klausel Entwerfen Balanced

@@ -1,6 +1,6 @@
 ---
 name: mandantenmail-patient-freundlich-klar
-description: "Wenn es um Mandantenmail Patient freundlich klar in GOÄ Gebührenordnung für Ärzte geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Berechnungstabelle mit Schwellen, Annahmen und Kontrollfragen."
+description: "Für Mandantenmail Patient freundlich klar: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Schnittstellenkarte mit Zuständigkeits- und Nachweisfragen."
 ---
 
 # Mandantenmail Patient freundlich klar

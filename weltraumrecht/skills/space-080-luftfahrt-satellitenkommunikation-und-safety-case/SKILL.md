@@ -1,6 +1,6 @@
 ---
 name: space-080-luftfahrt-satellitenkommunikation-und-safety-case
-description: "Wenn es um Weltraumrecht: Luftfahrt Satellitenkommunikation und Safety Case in Weltraumrecht geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Weltraumrecht: Luftfahrt Satellitenkommunikation und Safety Case: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Weltraumrecht: Luftfahrt Satellitenkommunikation und Safety Case

@@ -1,6 +1,6 @@
 ---
 name: 06-unfallversicherung-pruefung
-description: "Wenn es um 06 Unfallversicherung Prüfung in Sozialgericht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Tatbestands- oder Anspruchsmatrix mit Gegenargumenten."
+description: "Für 06 Unfallversicherung Prüfung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Tatbestands- oder Anspruchsmatrix."
 ---
 
 # 06 Unfallversicherung Prüfung

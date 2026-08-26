@@ -1,6 +1,6 @@
 ---
 name: europarecht-richtlinie-umsetzung-simulation
-description: "Wenn es um Richtlinie und Umsetzung in Europarecht-Kompass für deutsche Juristen geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Richtlinie und Umsetzung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Schnittstellenkarte mit Zuständigkeits- und Nachweisfragen."
 ---
 
 # Richtlinie und Umsetzung

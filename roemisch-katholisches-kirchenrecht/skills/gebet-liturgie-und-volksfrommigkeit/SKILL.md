@@ -1,6 +1,6 @@
 ---
 name: gebet-liturgie-und-volksfrommigkeit
-description: "Wenn es um Gebet, Liturgie und Volksfrömmigkeit in Römisch-katholisches Kirchenrecht CIC und Katechismus geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
+description: "Für Gebet, Liturgie und Volksfrömmigkeit: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt. Fachgebiet: Römisch-katholisches Kirchenrecht CIC und Katechismus. Route: gebet-liturgie-und-volksfrommigkeit."
 ---
 
 # Gebet, Liturgie und Volksfrömmigkeit

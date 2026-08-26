@@ -1,6 +1,6 @@
 ---
 name: freiheitsstrafe-strafmass-pruefen
-description: "Wenn es um Freiheitsstrafe — Strafmass pruefen in Strafzumessung geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Freiheitsstrafe — Strafmass prüfen: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt. Fachgebiet: Strafzumessung. Route: freiheitsstrafe-strafmass-pruefen."
 ---
 
 # Freiheitsstrafe — Strafmass pruefen

@@ -1,6 +1,6 @@
 ---
 name: psv-pensionssicherungsverein-und-haftungsketten
-description: "Wenn es um PSV — Pensionssicherungsverein und Haftungsketten in BAV Strategie Konzern — Treuenfels Yamamoto Rechtsanwälte geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für PSV — Pensionssicherungsverein und Haftungsketten: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # PSV — Pensionssicherungsverein und Haftungsketten

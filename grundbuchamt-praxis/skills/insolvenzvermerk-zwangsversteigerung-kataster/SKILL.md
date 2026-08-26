@@ -1,6 +1,6 @@
 ---
 name: insolvenzvermerk-zwangsversteigerung-kataster
-description: "Wenn es um Insolvenz und ZVG im Grundbuch in Grundbuchamt Praxis geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Insolvenz und ZVG im Grundbuch: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Insolvenz und ZVG im Grundbuch

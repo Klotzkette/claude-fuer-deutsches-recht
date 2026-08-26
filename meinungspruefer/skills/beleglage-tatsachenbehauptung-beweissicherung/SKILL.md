@@ -1,6 +1,6 @@
 ---
 name: beleglage-tatsachenbehauptung-beweissicherung
-description: "Wenn es um Beleglage bei Tatsachenbehauptungen in Meinungsprüfer geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Chronologie mit Belegmatrix und Widerspruchsliste."
+description: "Für Beleglage bei Tatsachenbehauptungen: ordnet Akte, Belege und Lücken; Ergebnis: Beweislast- und Substantiierungsmatrix."
 ---
 
 # Beleglage bei Tatsachenbehauptungen

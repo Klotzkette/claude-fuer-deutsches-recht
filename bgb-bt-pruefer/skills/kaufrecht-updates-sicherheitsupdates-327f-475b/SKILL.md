@@ -1,6 +1,6 @@
 ---
 name: kaufrecht-updates-sicherheitsupdates-327f-475b
-description: "Wenn es um Kaufrecht: Updates und Sicherheitsupdates Paragrafen 327f und 475b BGB in BGB BT Prüfer geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. Auswahlstichwort: Kaufrecht Updates Sicherheitsupdates 327f 475b; Arbeitsfeld: BGB BT Prüfer."
+description: "Für Kaufrecht: Updates und Sicherheitsupdates Paragrafen 327f und 475b BGB: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt. Fachgebiet: BGB BT Prüfer. Route: kaufrecht-updates-sicherheitsupdates-327f-475b."
 ---
 
 # Kaufrecht: Updates und Sicherheitsupdates §§ 327f und 475b BGB

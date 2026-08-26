@@ -1,6 +1,6 @@
 ---
 name: register-filings
-description: "Wenn es um Register Filings Implementation in Großkanzlei Corporate/M&A geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert einen Einreichungsplan mit Form-, Portal- und Nachweischeck."
+description: "Für Register Filings Implementation: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Einreichungsplan mit Form- und Nachweischeck. Fachgebiet: Großkanzlei Corporate/M&A. Route: register-filings."
 ---
 
 # Register Filings Implementation

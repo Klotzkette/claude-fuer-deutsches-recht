@@ -1,6 +1,6 @@
 ---
 name: pragmatisch-internationaler-bezug-und-schnittstellen
-description: "Wenn es um Pragmatisch Internationaler Bezug Und Schnittstellen in Methodenlehre bürgerliches Recht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Pragmatisch Internationaler Bezug und Schnittstellen: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Schnittstellenkarte mit Zuständigkeits- und Nachweisfragen."
 ---
 
 # Dieses Skill behandelt die methodisch-pragmatische Bearbeitung von Sachverhalten mit internationalem Bezug im bürgerlichen Recht
@@ -99,3 +99,7 @@ unmittelbare Konsequenzen für die Überzeugungskraft vor Gericht und in der Ver
 oder widersprüchliche Argumentation wird von gut vorbereiteten Gegenseiten ausgenutzt und kann einen
 substanziell starken Fall erheblich schwächen. Die konsequente Anwendung methodischer Prinzipien
 schützt die eigene Position und macht sie resilient gegenüber Angriffen.
+
+## Vertiefung bei Bedarf
+
+- Bei `spezial-pragmatisch-internationaler-bezug-und-schnittstellen` beziehungsweise Pragmatisch: Internationaler Bezug und Schnittstellen: [die zusätzliche Vertiefung laden](./references/vertiefung-spezial-pragmatisch-internationaler-bezug-und-schnittstellen.md).

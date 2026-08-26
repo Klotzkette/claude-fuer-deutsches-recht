@@ -1,6 +1,6 @@
 ---
 name: avv-und-agb-schnittstelle
-description: "Wenn es um AVV und AGB Schnittstelle in AGB-Recht-Prüfer geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen. Auswahlstichwort: Avv Und Agb Schnittstelle; Arbeitsfeld: AGB-Recht-Prüfer."
+description: "Für AVV und AGB Schnittstelle: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt. Fachgebiet: AGB-Recht-Prüfer. Route: avv-und-agb-schnittstelle."
 ---
 
 # AVV und AGB Schnittstelle

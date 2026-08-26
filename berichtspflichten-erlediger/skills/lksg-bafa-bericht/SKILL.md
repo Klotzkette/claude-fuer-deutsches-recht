@@ -1,6 +1,6 @@
 ---
 name: lksg-bafa-bericht
-description: "Wenn es um LkSG BAFA-Bericht und Risikoanalyse in Berichtspflichten-Erlediger geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
+description: "Für LkSG BAFA-Bericht und Risikoanalyse: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # LkSG BAFA-Bericht und Risikoanalyse

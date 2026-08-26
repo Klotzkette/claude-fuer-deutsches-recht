@@ -1,6 +1,6 @@
 ---
 name: agb-im-bankvertrag-sparkassen-und-banken
-description: "Wenn es um Agb Im Bankvertrag Sparkassen Und Banken in AGB-Recht-Prüfer geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. Auswahlstichwort: Agb Im Bankvertrag Sparkassen Und Banken; Arbeitsfeld: AGB-Recht-Prüfer."
+description: "Für AGB im Bankvertrag Sparkassen und Banken: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt. Fachgebiet: AGB-Recht-Prüfer. Route: agb-im-bankvertrag-sparkassen-und-banken."
 ---
 
 # Agb Im Bankvertrag Sparkassen Und Banken

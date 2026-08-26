@@ -1,6 +1,6 @@
 ---
 name: vbuh-pruefung
-description: "Wenn es um vbuH, Unterhalt und Steuerstraftat prüfen in Insolvenzforderungsanmeldungsprüfung geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für vbuH, Unterhalt und Steuerstraftat prüfen: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Tatbestands- oder Anspruchsmatrix."
 ---
 
 # vbuH, Unterhalt und Steuerstraftat prüfen

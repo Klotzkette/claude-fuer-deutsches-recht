@@ -1,6 +1,6 @@
 ---
 name: verkehr-quellenkarte
-description: "Wenn es um Verkehr Quellenkarte in Verkehrs- und Infrastrukturrecht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Tatbestands- oder Anspruchsmatrix mit Gegenargumenten."
+description: "Für Verkehr Quellenkarte: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Verkehr Quellenkarte

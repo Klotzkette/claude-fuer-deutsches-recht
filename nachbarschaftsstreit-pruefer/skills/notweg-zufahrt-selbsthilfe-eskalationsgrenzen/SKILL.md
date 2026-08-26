@@ -1,6 +1,6 @@
 ---
 name: notweg-zufahrt-selbsthilfe-eskalationsgrenzen
-description: "Wenn es um Notweg, Zufahrt und Wegerecht in Nachbarschaftsstreit-Prüfer geht: entwickelt Verhandlungsziel, Vergleichskorridor und Eskalationspfad; liefert eine Verhandlungs- oder Eskalationslinie mit Optionen."
+description: "Für Notweg, Zufahrt und Wegerecht: entwickelt Ziel, Vergleich und Eskalation; Ergebnis: Verhandlungs- oder Eskalationslinie."
 ---
 
 # Notweg, Zufahrt und Wegerecht

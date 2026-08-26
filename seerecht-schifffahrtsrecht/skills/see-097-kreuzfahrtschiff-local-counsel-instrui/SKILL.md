@@ -1,6 +1,6 @@
 ---
 name: see-097-kreuzfahrtschiff-local-counsel-instrui
-description: "Wenn es um Kreuzfahrtschiff Local Counsel Instrui in See- und Schifffahrtsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Kreuzfahrtschiff Local Counsel Instrui: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Schnittstellenkarte mit Zuständigkeits- und Nachweisfragen."
 ---
 
 # Kreuzfahrtschiff Local Counsel Instrui

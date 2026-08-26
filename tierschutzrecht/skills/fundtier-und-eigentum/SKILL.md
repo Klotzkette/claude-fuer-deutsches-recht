@@ -1,6 +1,6 @@
 ---
 name: fundtier-und-eigentum
-description: "Wenn es um Fundtier Und Eigentum in Tierschutzrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Fundtier und Eigentum: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Fundtier Und Eigentum

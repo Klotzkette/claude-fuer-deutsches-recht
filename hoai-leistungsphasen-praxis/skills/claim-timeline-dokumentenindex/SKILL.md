@@ -1,6 +1,6 @@
 ---
 name: claim-timeline-dokumentenindex
-description: "Wenn es um HOAI Querschnitt: Baut zeitstrahl für pflichtverletzung in HOAI Leistungsphasen Praxis geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Chronologie mit Belegmatrix und Widerspruchsliste."
+description: "Für HOAI Querschnitt: Baut zeitstrahl für pflichtverletzung: ordnet Akte, Belege und Lücken; Ergebnis: Chronologie mit Beleg- und Widerspruchsmatrix."
 ---
 
 # HOAI Querschnitt: Baut zeitstrahl für pflichtverletzung

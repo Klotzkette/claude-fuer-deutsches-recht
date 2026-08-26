@@ -1,6 +1,6 @@
 ---
 name: dashboard-associate-health
-description: "Wenn es um Associate Health Dashboard in Kanzlei Management geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Associate Health Dashboard: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Associate Health Dashboard

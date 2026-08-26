@@ -1,6 +1,6 @@
 ---
 name: stimmverbot-und-selbstbetroffenheit
-description: "Wenn es um Stimmverbot Und Selbstbetroffenheit in Gesellschaftsrechtliche Treuepflicht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen."
+description: "Für Stimmverbot und Selbstbetroffenheit: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Stimmverbot Und Selbstbetroffenheit

@@ -1,6 +1,6 @@
 ---
 name: kaltstart-triage
-description: "Wenn es um HGB Kommandocenter in Handelsrecht HGB geht: klärt Rolle, Ziel, Frist, Unterlagen und den passenden nächsten Fachskill; liefert einen Einreichungsplan mit Form-, Portal- und Nachweischeck."
+description: "Für HGB Kommandocenter: routet Rolle, Frist, Unterlagen und Fachschritt; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # HGB Kommandocenter

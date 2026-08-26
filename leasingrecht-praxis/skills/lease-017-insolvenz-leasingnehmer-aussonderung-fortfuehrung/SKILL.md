@@ -1,6 +1,6 @@
 ---
 name: lease-017-insolvenz-leasingnehmer-aussonderung-fortfuehrung
-description: "Wenn es um Leasingrecht: Insolvenz Leasingnehmer Aussonderung Fortführung in Leasingrecht Praxis geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Leasingrecht: Insolvenz Leasingnehmer Aussonderung Fortführung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Leasingrecht: Insolvenz Leasingnehmer Aussonderung Fortführung

@@ -1,6 +1,6 @@
 ---
 name: sitzungsdienst-referendar-notfallkarte
-description: "Wenn es um Sitzungsdienst für Referendare: Notfallkarte in Staatsanwaltschaft Praxis-Einstieg geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Beweislast- und Substantiierungsmatrix."
+description: "Für Sitzungsdienst für Referendare: Notfallkarte: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Sitzungsdienst für Referendare: Notfallkarte

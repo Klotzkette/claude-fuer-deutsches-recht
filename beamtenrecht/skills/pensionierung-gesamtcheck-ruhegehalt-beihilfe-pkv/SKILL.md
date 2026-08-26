@@ -1,6 +1,6 @@
 ---
 name: pensionierung-gesamtcheck-ruhegehalt-beihilfe-pkv
-description: "Wenn es um pensionierung-gesamtcheck-ruhegehalt-beihilfe-pkv in Beamtenrecht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
+description: "Für pensionierung-gesamtcheck-ruhegehalt-beihilfe-pkv: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # pensionierung-gesamtcheck-ruhegehalt-beihilfe-pkv

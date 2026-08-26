@@ -1,6 +1,6 @@
 ---
 name: falsche-wiese-warnung-ki-vo
-description: "Wenn es um Warnung: Falsche Wiese — Verwechslung der Rechtsgebiete in diesem Spezialbereich geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Beweislast- und Substantiierungsmatrix."
+description: "Für Warnung: Falsche Wiese — Verwechslung der Rechtsgebiete: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Warnung: Falsche Wiese — Verwechslung der Rechtsgebiete

@@ -1,6 +1,6 @@
 ---
 name: video-verhandlung-110a-sgg
-description: "Wenn es um Video-Verhandlung am SG — Paragraf 110a SGG in selbstvertreter-sozialgericht geht: entwickelt Verhandlungsziel, Vergleichskorridor und Eskalationspfad; liefert eine Verhandlungs- oder Eskalationslinie mit Optionen."
+description: "Für Video-Verhandlung am SG — Paragraf 110a SGG: entwickelt Ziel, Vergleich und Eskalation; Ergebnis: Verhandlungs- oder Eskalationslinie."
 ---
 
 # Video-Verhandlung am SG — § 110a SGG

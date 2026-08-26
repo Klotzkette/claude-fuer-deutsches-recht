@@ -1,6 +1,6 @@
 ---
 name: klageerwiderung-fristen-274-zpo
-description: "Wenn es um Sie sind verklagt: Welche Fristen laufen? in selbstvertreter-amtsgericht geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Sie sind verklagt: Welche Fristen laufen?: erstellt Entwurf mit Antrag, Beweis und Anlagen; Ergebnis: Fristen- und Risikoampel."
 ---
 
 # Sie sind verklagt: Welche Fristen laufen?

@@ -1,6 +1,6 @@
 ---
 name: rechtsquellen-sonderfall-edge-case
-description: "Wenn es um Rechtsquellen: Sonderfall und Edge-Case-Prüfung in diesem Spezialbereich geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Beweislast- und Substantiierungsmatrix."
+description: "Für Rechtsquellen: Sonderfall und Edge-Case-Prüfung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt. Fachgebiet: Technik-Governance."
 ---
 
 # Rechtsquellen: Sonderfall und Edge-Case-Prüfung

@@ -1,6 +1,6 @@
 ---
 name: lead-authority-konzern
-description: "Wenn es um Federführende Aufsichtsbehörde im Konzern — Art. 56 DSGVO in Datenschutzrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Federführende Aufsichtsbehörde im Konzern — Art. 56 DSGVO: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Federführende Aufsichtsbehörde im Konzern — Art. 56 DSGVO
@@ -46,3 +46,7 @@ Art. 4 Nr. 16; Art. 56; Art. 60; Art. 63 DSGVO.
 - `dsv-bussgeldverteidigung-art-83` und `dsv-schadensersatz-art-82` decken die anwaltliche Nachbearbeitung ab.
 
 - `dsv-meldung-bfdi` und `dsv-meldung-<land>` decken konkrete Einreichung ab.
+
+## Vertiefung bei Bedarf
+
+- Bei `dsv-lead-authority-konzern` beziehungsweise Bestimmt die federführende Aufsichtsbehörde bei grenzüberschreitender Verarbeitung im Konzern nach Art: [die zusätzliche Vertiefung laden](./references/vertiefung-dsv-lead-authority-konzern.md).

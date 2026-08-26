@@ -1,6 +1,6 @@
 ---
 name: stabilisierungsanordnung-und-vollstreckungssperre
-description: "Bereitet eine Stabilisierungsanordnung nach Paragrafen 49 bis 59 StaRUG vor: Anzeige, Adressaten, Vollstreckungs- und Verwertungssperre, sechsmonatiger Finanzplan, Anordnungsvoraussetzungen, Dauer, Vertragswirkungen und Aufhebung. Liefert Antrag, Gläubigermatrix, Anlagenliste und Fristenplan."
+description: "Bereitet eine Stabilisierungsanordnung nach Paragrafen 49 bis 59 StaRUG vor: Anzeige, Adressaten, Vollstreckungs- und Verwertungssperre, sechsmonatiger Finanzplan, Anordnungsvoraussetzungen, Dauer, Vertragswirkungen und Aufhebung."
 ---
 
 # 1. Stabilisierungsanordnung nach Paragrafen 49 bis 59 StaRUG

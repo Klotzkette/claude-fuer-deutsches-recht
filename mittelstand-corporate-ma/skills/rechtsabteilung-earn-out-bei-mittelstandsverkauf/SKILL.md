@@ -1,6 +1,6 @@
 ---
 name: rechtsabteilung-earn-out-bei-mittelstandsverkauf
-description: "Wenn es um Rechtsabteilung: Earn-out bei Mittelstandsverkauf in Mittelstands-Corporate/M&A geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen."
+description: "Für Rechtsabteilung: Earn-out bei Mittelstandsverkauf: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Rechtsabteilung: Earn-out bei Mittelstandsverkauf

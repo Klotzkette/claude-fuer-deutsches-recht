@@ -1,6 +1,6 @@
 ---
 name: vergleich-arbeitsgericht-abrechnung
-description: "Wenn es um Vergleich Arbeitsgericht Abrechnung in Fachanwalt Arbeitsrecht geht: entwickelt Verhandlungsziel, Vergleichskorridor und Eskalationspfad; liefert eine Verhandlungs- oder Eskalationslinie mit Optionen."
+description: "Für Vergleich Arbeitsgericht Abrechnung: entwickelt Ziel, Vergleich und Eskalation; Ergebnis: Verhandlungs- oder Eskalationslinie."
 ---
 
 # Arbeitsgerichtlicher Vergleich: Beendigungsdatum, Zeugnis, Turboklausel, Urlaubsabgeltung, Sprinter, Sperrzeit und Abrechnung.

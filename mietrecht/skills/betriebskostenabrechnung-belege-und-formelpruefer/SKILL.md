@@ -1,6 +1,6 @@
 ---
 name: betriebskostenabrechnung-belege-und-formelpruefer
-description: "Wenn es um Betriebskostenabrechnung: Belege, Umlageschlüssel, Abflussprinzip und Fristen in Mietrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Betriebskostenabrechnung: Belege, Umlageschlüssel, Abflussprinzip und Fristen: ordnet Akte, Belege und Lücken; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Betriebskostenabrechnung: Belege, Umlageschlüssel, Abflussprinzip und Fristen

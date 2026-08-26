@@ -1,6 +1,6 @@
 ---
 name: headline-und-vorspann
-description: "Wenn es um Headline und Vorspann in Juristische Presseberichterstattung geht: entwickelt Headlines und Vorspänne, die schnell sind, aber Verfahrensstatus und Risiko nicht verschärfen."
+description: "Für Headline und Vorspann: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Headline und Vorspann

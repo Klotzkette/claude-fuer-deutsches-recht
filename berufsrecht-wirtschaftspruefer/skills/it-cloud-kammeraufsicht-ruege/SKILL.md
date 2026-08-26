@@ -1,6 +1,6 @@
 ---
 name: it-cloud-kammeraufsicht-ruege
-description: "Wenn es um IT, Cloud, digitale Werkzeuge und Outsourcing in Berufsrecht Wirtschaftsprüfer geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für IT, Cloud, digitale Werkzeuge und Outsourcing: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt. Fachgebiet: Berufsrecht Wirtschaftsprüfer."
 ---
 
 # IT, Cloud, KI und Outsourcing

@@ -1,6 +1,6 @@
 ---
 name: co-investment-und-spv
-description: "Wenn es um Co-Investment und SPV-Struktur in Private Equity Praxis geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Co-Investment und SPV-Struktur: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Co-Investment und SPV-Struktur

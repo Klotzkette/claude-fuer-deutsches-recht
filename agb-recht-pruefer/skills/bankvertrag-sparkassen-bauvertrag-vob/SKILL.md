@@ -1,6 +1,6 @@
 ---
 name: bankvertrag-sparkassen-bauvertrag-vob
-description: "Wenn es um Agb Im Bankvertrag Sparkassen Und Banken in AGB-Recht-Prüfer geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. Auswahlstichwort: Bankvertrag Sparkassen Bauvertrag Vob; Arbeitsfeld: AGB-Recht-Prüfer."
+description: "Für AGB im Bankvertrag Sparkassen und Banken: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt. Fachgebiet: AGB-Recht-Prüfer. Route: bankvertrag-sparkassen-bauvertrag-vob."
 ---
 
 # Agb Im Bankvertrag Sparkassen Und Banken

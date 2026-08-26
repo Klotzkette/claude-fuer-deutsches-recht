@@ -1,6 +1,6 @@
 ---
 name: bverfg-resilienz-und-bundesverfassungsgerichtswahl-2024-2025
-description: "Wenn es um BVerfG-Resilienz und Wahlblockaden in Beamtenrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für BVerfG-Resilienz und Wahlblockaden: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # BVerfG-Resilienz und Wahlblockaden

@@ -1,6 +1,6 @@
 ---
 name: pruefungsrecht-schleswig-holstein
-description: "Wenn es um Prüfungsrecht Schleswig Holstein in Prüfungsrecht an Hochschulen und Universitäten geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Prüfungsrecht Schleswig Holstein: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Tatbestands- oder Anspruchsmatrix."
 ---
 
 # Prüfungsrecht Schleswig Holstein

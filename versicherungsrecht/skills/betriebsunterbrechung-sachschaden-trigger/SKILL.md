@@ -1,6 +1,6 @@
 ---
 name: betriebsunterbrechung-sachschaden-trigger
-description: "Wenn es um Betriebsunterbrechung: Sachschaden-Trigger in Versicherungsrecht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
+description: "Für Betriebsunterbrechung: Sachschaden-Trigger: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Betriebsunterbrechung: Sachschaden-Trigger

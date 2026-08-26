@@ -1,6 +1,6 @@
 ---
 name: strafrecht-zweiter-zwanzigster
-description: "Wenn es um Strafrecht in Preußisches Allgemeines Landrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. Auswahlstichwort: Strafrecht Zweiter Zwanzigster; Arbeitsfeld: Preußisches Allgemeines Landrecht."
+description: "Für Strafrecht: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt. Fachgebiet: Preußisches Allgemeines Landrecht. Route: strafrecht-zweiter-zwanzigster."
 ---
 
 # Strafrecht

@@ -1,6 +1,6 @@
 ---
 name: absonderungsrecht-paragraf-50-inso
-description: "Wenn es um Absonderungsrecht Paragraf 50 InsO in Fachanwalt Insolvenz- und Sanierungsrecht geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Absonderungsrecht Paragraf 50 InsO: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Absonderungsrecht § 50 InsO

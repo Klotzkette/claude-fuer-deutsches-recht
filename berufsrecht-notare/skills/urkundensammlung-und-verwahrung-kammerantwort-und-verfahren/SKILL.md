@@ -1,6 +1,6 @@
 ---
 name: urkundensammlung-und-verwahrung-kammerantwort-und-verfahren
-description: "Wenn es um Urkundensammlung Und Verwahrung Kammerantwort Und Verfahren in Berufsrecht Notare geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Verhandlungs- oder Eskalationslinie mit Optionen."
+description: "Für Urkundensammlung und Verwahrung Kammerantwort und Verfahren: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Notare: urkundensammlung und verwahrung - Kammerantwort mit Verfahrensstrategie, Tonlage und Belegplan

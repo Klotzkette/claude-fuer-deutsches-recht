@@ -1,6 +1,6 @@
 ---
 name: schoeffe-digitale-beweise-dolmetscher
-description: "Wenn es um Digitale Beweise verstehen: Sitzungspraxis in Schöffen und Handelsrichter Praxis geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Beweislast- und Substantiierungsmatrix."
+description: "Für Digitale Beweise verstehen: Sitzungspraxis: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Beweislast- und Substantiierungsmatrix."
 ---
 
 # Digitale Beweise verstehen: Sitzungspraxis

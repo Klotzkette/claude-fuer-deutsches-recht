@@ -1,6 +1,6 @@
 ---
 name: slack-teams-kommunikationsregeln
-description: "Wenn es um Slack Teams Kommunikationsregeln in Start-up-HR-Personalabteilung Berlin geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Slack Teams Kommunikationsregeln: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Slack Teams Kommunikationsregeln

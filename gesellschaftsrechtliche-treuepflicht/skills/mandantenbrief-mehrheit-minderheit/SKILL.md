@@ -1,6 +1,6 @@
 ---
 name: mandantenbrief-mehrheit-minderheit
-description: "Wenn es um Mandantenbrief in Gesellschaftsrechtliche Treuepflicht geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
+description: "Für Mandantenbrief: erstellt Entwurf mit Antrag, Beweis und Anlagen; Ergebnis: Schriftsatz mit Begründungs- und Anlagenlogik."
 ---
 
 # Mandantenbrief

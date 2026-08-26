@@ -1,6 +1,6 @@
 ---
 name: nda-vergleichsmatrix-leitfaden
-description: "Wenn es um NDA: Vergleichsmatrix in NDA-Abgleich geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für NDA: Vergleichsmatrix: entwickelt Ziel, Vergleich und Eskalation; Ergebnis: Verhandlungs- oder Eskalationslinie."
 ---
 
 # NDA: Vergleichsmatrix

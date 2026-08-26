@@ -1,6 +1,6 @@
 ---
 name: aufsicht-bundeswahlleiter-befangenheit
-description: "Wenn es um Bundeswahlleiter-Kommunikation in Parteienrecht und Parteiorganisation geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. Auswahlstichwort: Aufsicht Bundeswahlleiter Befangenheit; Arbeitsfeld: Parteienrecht und Parteiorganisation."
+description: "Für Bundeswahlleiter-Kommunikation: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt. Fachgebiet: Parteienrecht und Parteiorganisation. Route: aufsicht-bundeswahlleiter-befangenheit."
 ---
 
 # Bundeswahlleiter-Kommunikation

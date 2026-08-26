@@ -1,6 +1,6 @@
 ---
 name: nda-mit-non-solicit-abgrenzung
-description: "Wenn es um NDA Mit Non Solicit Abgrenzung in NDA-Generator und Verschwiegenheitsvereinbarungs-Checker geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
+description: "Für NDA mit Non Solicit Abgrenzung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # NDA Mit Non Solicit Abgrenzung

@@ -1,6 +1,6 @@
 ---
 name: bess-behoerdenstrategie
-description: "Wenn es um Behördenstrategie und Bürgerkommunikation in Energierecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Behördenstrategie und Bürgerkommunikation: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Verhandlungs- oder Eskalationslinie."
 ---
 
 # Behördenstrategie und Bürgerkommunikation

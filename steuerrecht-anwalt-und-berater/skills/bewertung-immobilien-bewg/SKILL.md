@@ -1,6 +1,6 @@
 ---
 name: bewertung-immobilien-bewg
-description: "Wenn es um Bewertung von Immobilien für Erbschaft und Schenkung — Paragrafen 176 ff. BewG in Steuerrecht – Steuerberater und Anwälte geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
+description: "Für Bewertung von Immobilien für Erbschaft und Schenkung — Paragrafen 176 ff. BewG: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt. Fachgebiet: Steuerrecht – Steuerberater und Anwälte. Route: bewertung-immobilien-bewg."
 ---
 
 # Bewertung von Immobilien für Erbschaft und Schenkung — §§ 176 ff. BewG

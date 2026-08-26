@@ -1,6 +1,6 @@
 ---
 name: aktenanlage-objektcockpit
-description: "Wenn es um Aktenanlage und Objektcockpit in ZVG-Zwangsverwaltung - Verwalter-Cockpit geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert einen Einreichungsplan mit Form-, Portal- und Nachweischeck."
+description: "Für Aktenanlage und Objektcockpit: ordnet Akte, Belege und Lücken; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Aktenanlage und Objektcockpit

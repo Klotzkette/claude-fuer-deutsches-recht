@@ -1,6 +1,6 @@
 ---
 name: gdb-feststellung-versorgungsamt-sgb-ix
-description: "Wenn es um Gdb Feststellung Versorgungsamt Sgb Ix in selbstvertreter-sozialgericht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Gdb Feststellung Versorgungsamt SGB Ix: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Gdb Feststellung Versorgungsamt Sgb Ix

@@ -1,6 +1,6 @@
 ---
 name: sanierungsbeitrag-sanierungsbeschluss-satzung
-description: "Wenn es um Sanierungsbeitrag in Gesellschaftsrechtliche Treuepflicht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen."
+description: "Für Sanierungsbeitrag: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Sanierungsbeitrag

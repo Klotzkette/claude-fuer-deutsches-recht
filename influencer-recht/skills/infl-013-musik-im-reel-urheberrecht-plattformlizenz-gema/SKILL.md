@@ -1,6 +1,6 @@
 ---
 name: infl-013-musik-im-reel-urheberrecht-plattformlizenz-gema
-description: "Wenn es um Influencer-Recht: Musik im Reel Urheberrecht Plattformlizenz GEMA in Influencer-Recht geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Influencer-Recht: Musik im Reel Urheberrecht Plattformlizenz GEMA: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Influencer-Recht: Musik im Reel Urheberrecht Plattformlizenz GEMA

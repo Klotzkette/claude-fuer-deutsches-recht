@@ -1,6 +1,6 @@
 ---
 name: beschlussanfechtung-risiko
-description: "Wenn es um Beschlussanfechtung Risiko in WEG- und Hausverwaltung geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Beschlussanfechtung Risiko: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Beschlussanfechtung Risiko

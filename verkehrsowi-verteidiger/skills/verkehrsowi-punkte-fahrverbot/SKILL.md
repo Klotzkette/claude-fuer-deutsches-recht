@@ -1,6 +1,6 @@
 ---
 name: verkehrsowi-punkte-fahrverbot
-description: "Wenn es um Punkte und Fahrverbot — Fahreignungsregister Flensburg in VerkehrsOWi-Verteidiger geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Punkte und Fahrverbot — Fahreignungsregister Flensburg: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Punkte und Fahrverbot — Fahreignungsregister Flensburg

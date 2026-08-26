@@ -1,6 +1,6 @@
 ---
 name: erbbauzins-rueckstand-mahnung
-description: "Wenn es um Erbbauzinsrückstand in Erbbaurecht Praxis geht: entwickelt Verhandlungsziel, Vergleichskorridor und Eskalationspfad; liefert eine Verhandlungs- oder Eskalationslinie mit Optionen."
+description: "Für Erbbauzinsrückstand: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Erbbauzinsrückstand

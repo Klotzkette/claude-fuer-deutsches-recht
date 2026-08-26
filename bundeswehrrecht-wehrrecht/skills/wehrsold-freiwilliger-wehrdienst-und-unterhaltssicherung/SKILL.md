@@ -1,6 +1,6 @@
 ---
 name: wehrsold-freiwilliger-wehrdienst-und-unterhaltssicherung
-description: "Wenn es um Wehrsold, freiwilliger Wehrdienst und Unterhaltssicherung in Bundeswehrrecht und Wehrrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Wehrsold, freiwilliger Wehrdienst und Unterhaltssicherung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Wehrsold, freiwilliger Wehrdienst und Unterhaltssicherung

@@ -1,6 +1,6 @@
 ---
 name: padlet-spalte-1-ueberblick
-description: "Wenn es um Padlet Reiter 1 Überblick aufbauen in Plugin: status-navigator-step-plan geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Padlet Reiter 1 Überblick aufbauen: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Padlet Reiter 1 Überblick aufbauen

@@ -1,6 +1,6 @@
 ---
 name: historisch-gewachsene-altsysteme-due-diligence
-description: "Wenn es um Historisch Gewachsene Altsysteme — Due Diligence in BAV Strategie Konzern — Treuenfels Yamamoto Rechtsanwälte geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Historisch Gewachsene Altsysteme — Due Diligence: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Historisch Gewachsene Altsysteme — Due Diligence

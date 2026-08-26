@@ -1,6 +1,6 @@
 ---
 name: 06-strafzumessung-paragraf-46-stgb
-description: "Wenn es um 06 Strafzumessung Paragraf 46 Stgb in Richter Amtsgericht Strafsachen geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
+description: "Für 06 Strafzumessung Paragraf 46 Stgb: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # 06 Strafzumessung Paragraf 46 Stgb

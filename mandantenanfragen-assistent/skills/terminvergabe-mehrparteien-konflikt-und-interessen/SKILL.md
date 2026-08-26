@@ -1,6 +1,6 @@
 ---
 name: terminvergabe-mehrparteien-konflikt-und-interessen
-description: "Wenn es um Terminvergabe: Mehrparteienkonflikt und Interessenmatrix in mandantenanfragen-assistent geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Terminvergabe: Mehrparteienkonflikt und Interessenmatrix: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Terminvergabe: Mehrparteienkonflikt und Interessenmatrix

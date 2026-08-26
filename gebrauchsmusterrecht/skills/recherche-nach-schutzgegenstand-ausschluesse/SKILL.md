@@ -1,6 +1,6 @@
 ---
 name: recherche-nach-schutzgegenstand-ausschluesse
-description: "Wenn es um Recherche Nach Paragraph 7 Gebrmg in gebrauchsmusterrecht geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
+description: "Für Recherche nach Paragraph 7 Gebrmg: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Recherche Nach Paragraph 7 Gebrmg

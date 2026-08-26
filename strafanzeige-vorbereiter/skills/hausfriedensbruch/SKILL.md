@@ -1,6 +1,6 @@
 ---
 name: hausfriedensbruch
-description: "Wenn es um Hausfriedensbruch Paragraf 123 StGB in Strafanzeige-Vorbereiter geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
+description: "Für Hausfriedensbruch Paragraf 123 StGB: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Hausfriedensbruch § 123 StGB

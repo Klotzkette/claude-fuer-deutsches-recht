@@ -1,6 +1,6 @@
 ---
 name: mandantenbrief-warnung-paragraph-starug
-description: "Erstellt einen konkreten Mandantenhinweis nach Paragraf 102 StaRUG, wenn bei der Jahresabschlusserstellung offenkundige Anhaltspunkte für einen möglichen Insolvenzgrund vorliegen. Liefert Ersthinweis, Eskalation, Aktenvermerk und Zugangsbeleg, ohne erfundene Regelfristen oder eine vorschnelle Insolvenzdiagnose."
+description: "Erstellt einen konkreten Mandantenhinweis nach Paragraf 102 StaRUG, wenn bei der Jahresabschlusserstellung offenkundige Anhaltspunkte für einen möglichen Insolvenzgrund vorliegen."
 ---
 
 # 1. Mandantenbrief zu Paragraf 102 StaRUG

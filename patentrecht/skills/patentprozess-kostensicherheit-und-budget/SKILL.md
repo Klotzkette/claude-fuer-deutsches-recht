@@ -1,6 +1,6 @@
 ---
 name: patentprozess-kostensicherheit-und-budget
-description: "Wenn es um Patentprozess: Kosten, Sicherheit und Budget in patentrecht geht: entwickelt Verhandlungsziel, Vergleichskorridor und Eskalationspfad; liefert eine Verhandlungs- oder Eskalationslinie mit Optionen."
+description: "Für Patentprozess: Kosten, Sicherheit und Budget: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Patentprozess: Kosten, Sicherheit und Budget

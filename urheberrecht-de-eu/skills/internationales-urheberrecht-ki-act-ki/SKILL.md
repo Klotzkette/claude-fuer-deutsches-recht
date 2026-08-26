@@ -1,6 +1,6 @@
 ---
 name: internationales-urheberrecht-ki-act-ki
-description: "Wenn es um Internationales Urheberrecht und Kollisionsrecht in Urheberrecht DE EU geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen."
+description: "Für Internationales Urheberrecht und Kollisionsrecht: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Schnittstellenkarte mit Zuständigkeits- und Nachweisfragen."
 ---
 
 # Internationales Urheberrecht und Kollisionsrecht

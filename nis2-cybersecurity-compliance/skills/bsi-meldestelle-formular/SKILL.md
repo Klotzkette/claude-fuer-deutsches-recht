@@ -1,6 +1,6 @@
 ---
 name: bsi-meldestelle-formular
-description: "Wenn es um BSI Meldestelle Formular in NIS-2, Cybersecurity und IT-Sicherheits-Compliance geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für BSI Meldestelle Formular: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Einreichungsplan mit Form- und Nachweischeck."
 ---
 
 # BSI Meldestelle Formular

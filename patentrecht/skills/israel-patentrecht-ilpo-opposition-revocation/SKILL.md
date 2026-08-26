@@ -1,6 +1,6 @@
 ---
 name: israel-patentrecht-ilpo-opposition-revocation
-description: "Wenn es um Israel: ILPO, Opposition und Revocation in patentrecht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert einen Einreichungsplan mit Form-, Portal- und Nachweischeck."
+description: "Für Israel: ILPO, Opposition und Revocation: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Israel: ILPO, Opposition und Revocation

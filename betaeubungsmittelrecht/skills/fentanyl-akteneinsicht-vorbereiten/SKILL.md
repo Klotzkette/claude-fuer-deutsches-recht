@@ -1,6 +1,6 @@
 ---
 name: fentanyl-akteneinsicht-vorbereiten
-description: "Wenn es um Fentanyl Akteneinsicht Vorbereiten in Betäubungsmittelrecht geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen."
+description: "Für Fentanyl Akteneinsicht Vorbereiten: ordnet Akte, Belege und Lücken; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Fentanyl Akteneinsicht Vorbereiten

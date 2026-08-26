@@ -1,6 +1,6 @@
 ---
 name: pruefungsrecht-thueringen
-description: "Wenn es um Pruefungsrecht Thueringen in Prüfungsrecht an Hochschulen und Universitäten geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Prüfungsrecht Thüringen: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Tatbestands- oder Anspruchsmatrix. Fachgebiet: Prüfungsrecht an Hochschulen und Universitäten. Route: pruefungsrecht-thueringen."
 ---
 
 # Pruefungsrecht Thueringen

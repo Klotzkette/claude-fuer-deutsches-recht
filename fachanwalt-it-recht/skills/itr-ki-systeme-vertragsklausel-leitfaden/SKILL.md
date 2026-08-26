@@ -1,6 +1,6 @@
 ---
 name: itr-ki-systeme-vertragsklausel-leitfaden
-description: "Wenn es um Itr Ki Systeme Vertragsklausel Leitfaden in Fachanwalt It Recht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Itr Ki Systeme Vertragsklausel Leitfaden: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Leitfaden Vertragsklauseln für KI-Systeme: Trainings- und Inferenzphase, Black-Box-Klausel, Halluzination, Outputrechte, Daten-Lizenz

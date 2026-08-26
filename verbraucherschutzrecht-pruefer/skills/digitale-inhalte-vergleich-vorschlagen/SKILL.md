@@ -1,6 +1,6 @@
 ---
 name: digitale-inhalte-vergleich-vorschlagen
-description: "Wenn es um Digitale Inhalte Vergleich Vorschlagen in Verbraucherschutzrecht Prüfer geht: entwickelt Verhandlungsziel, Vergleichskorridor und Eskalationspfad; liefert eine Verhandlungs- oder Eskalationslinie mit Optionen."
+description: "Für Digitale Inhalte Vergleich Vorschlagen: entwickelt Ziel, Vergleich und Eskalation; Ergebnis: Verhandlungs- oder Eskalationslinie."
 ---
 
 # Digitale Inhalte Vergleich Vorschlagen

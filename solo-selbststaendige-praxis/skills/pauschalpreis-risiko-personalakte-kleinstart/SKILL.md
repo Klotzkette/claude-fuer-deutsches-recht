@@ -1,6 +1,6 @@
 ---
 name: pauschalpreis-risiko-personalakte-kleinstart
-description: "Wenn es um Pauschalpreis Risiko Personalakte Kleinstart in Solo-Selbstständige Praxis geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Pauschalpreis Risiko Personalakte Kleinstart: ordnet Akte, Belege und Lücken; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Pricing Liquidität und Wachstum: Prüft pauschalpreise gegen scope creep und nachtragsbedarf

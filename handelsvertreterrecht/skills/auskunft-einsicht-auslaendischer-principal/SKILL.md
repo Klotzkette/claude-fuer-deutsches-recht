@@ -1,6 +1,6 @@
 ---
 name: auskunft-einsicht-auslaendischer-principal
-description: "Wenn es um Auskunfts- und Einsichtsrechte des Handelsvertreters nach Paragraf 87c HGB in Handelsvertreterrecht und Vertriebsverträge geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Auskunfts- und Einsichtsrechte des Handelsvertreters nach Paragraf 87c HGB: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Auskunfts- und Einsichtsrechte des Handelsvertreters nach § 87c HGB

@@ -1,6 +1,6 @@
 ---
 name: coach-berater-trainer
-description: "Wenn es um Scheinselbstständigkeit und Status: Prüft coaching/training in Solo-Selbstständige Praxis geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Scheinselbstständigkeit und Status: Prüft coaching/training: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Scheinselbstständigkeit und Status: Prüft coaching/training

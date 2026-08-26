@@ -1,6 +1,6 @@
 ---
 name: ernennung-wirksamkeit-ruecknahme-widerruf
-description: "Wenn es um Ernennung Wirksamkeit Rücknahme Widerruf in Beamtenrecht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
+description: "Für Ernennung Wirksamkeit Rücknahme Widerruf: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Ernennung Wirksamkeit Rücknahme Widerruf

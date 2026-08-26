@@ -1,6 +1,6 @@
 ---
 name: vertragsschluss-konsens-und-form
-description: "Wenn es um Pralr Vertragsschluss Konsens Und Form in Preußisches Allgemeines Landrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Pralr Vertragsschluss Konsens und Form: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Pralr Vertragsschluss Konsens Und Form

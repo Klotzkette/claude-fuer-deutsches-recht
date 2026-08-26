@@ -1,6 +1,6 @@
 ---
 name: fehlerhafte-steuerschaetzung-kammerantwort
-description: "Wenn es um Fehlerhafte Steuerschaetzung Kammerantwort in Berufsrecht Steuerberater geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Verhandlungs- oder Eskalationslinie mit Optionen."
+description: "Für Fehlerhafte Steuerschätzung Kammerantwort: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Schnittstellenkarte mit Zuständigkeits- und Nachweisfragen."
 ---
 
 # Steuerberater: fehlerhafte steuerschätzung - Kammerantwort mit Verfahrensstrategie, Tonlage und Belegplan

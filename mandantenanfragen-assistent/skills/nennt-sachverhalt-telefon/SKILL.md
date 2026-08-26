@@ -1,6 +1,6 @@
 ---
 name: nennt-sachverhalt-telefon
-description: "Wenn es um Nennt: Zahlen, Schwellenwerte und Berechnung in mandantenanfragen-assistent geht: rechnet Schwellen, Beträge, Varianten und Kontrollannahmen durch; liefert eine Berechnungstabelle mit Schwellen, Annahmen und Kontrollfragen."
+description: "Für Nennt: Zahlen, Schwellenwerte und Berechnung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Nennt: Zahlen, Schwellenwerte und Berechnung

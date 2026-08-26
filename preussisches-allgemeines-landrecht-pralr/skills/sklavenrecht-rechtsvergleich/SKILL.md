@@ -1,6 +1,6 @@
 ---
 name: sklavenrecht-rechtsvergleich
-description: "Wenn es um Rechtsvergleich Sklavenrecht — Preussen, England, Frankreich in Preußisches Allgemeines Landrecht geht: entwickelt Verhandlungsziel, Vergleichskorridor und Eskalationspfad; liefert eine Verhandlungs- oder Eskalationslinie mit Optionen."
+description: "Für Rechtsvergleich Sklavenrecht — Preussen, England, Frankreich: entwickelt Ziel, Vergleich und Eskalation; Ergebnis: Verhandlungs- oder Eskalationslinie. Fachgebiet: Preußisches Allgemeines Landrecht. Route: sklavenrecht-rechtsvergleich."
 ---
 
 # Rechtsvergleich Sklavenrecht — Preussen, England, Frankreich

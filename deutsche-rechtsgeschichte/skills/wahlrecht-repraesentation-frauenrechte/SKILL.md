@@ -1,6 +1,6 @@
 ---
 name: wahlrecht-repraesentation-frauenrechte
-description: "Wenn es um Wahlrecht und Repraesentation in Deutsche Rechtsgeschichte geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Wahlrecht und Repräsentation: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Wahlrecht und Repraesentation

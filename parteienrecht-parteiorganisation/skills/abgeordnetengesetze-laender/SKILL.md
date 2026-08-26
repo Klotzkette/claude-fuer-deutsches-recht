@@ -1,6 +1,6 @@
 ---
 name: abgeordnetengesetze-laender
-description: "Wenn es um Abgeordnetengesetze Länder in Parteienrecht und Parteiorganisation geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Abgeordnetengesetze Länder: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Abgeordnetengesetze Länder

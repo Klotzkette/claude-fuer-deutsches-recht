@@ -1,6 +1,6 @@
 ---
 name: besold-neu-011-professorenbesoldung-w-besoldung-leistungsbezuege
-description: "Wenn es um Beamtenrecht: Professorenbesoldung W-Besoldung Leistungsbezüge in Beamtenrecht geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Beamtenrecht: Professorenbesoldung W-Besoldung Leistungsbezüge: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Schnittstellenkarte mit Zuständigkeits- und Nachweisfragen."
 ---
 
 # Beamtenrecht: Professorenbesoldung W-Besoldung Leistungsbezüge

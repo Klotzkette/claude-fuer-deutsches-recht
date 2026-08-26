@@ -1,6 +1,6 @@
 ---
 name: lease-039-inkasso-leasingforderung
-description: "Wenn es um Leasingrecht: Inkasso Leasingforderung in Leasingrecht Praxis geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Leasingrecht: Inkasso Leasingforderung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Leasingrecht: Inkasso Leasingforderung

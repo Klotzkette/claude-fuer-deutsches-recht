@@ -1,6 +1,6 @@
 ---
 name: nda-vor-erfindungsgespraech-kammerantwort
-description: "Wenn es um Nda Vor Erfindungsgespraech Kammerantwort in Berufsrecht Patentanwälte geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Verhandlungs- oder Eskalationslinie mit Optionen."
+description: "Für Nda vor Erfindungsgespräch Kammerantwort: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Patentanwälte: nda vor erfindungsgespraech - Kammerantwort mit Verfahrensstrategie, Tonlage und Belegplan

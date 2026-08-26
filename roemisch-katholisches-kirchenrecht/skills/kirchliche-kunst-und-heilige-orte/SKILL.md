@@ -1,6 +1,6 @@
 ---
 name: kirchliche-kunst-und-heilige-orte
-description: "Wenn es um Kirchliche Kunst und heilige Orte in Römisch-katholisches Kirchenrecht CIC und Katechismus geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Kirchliche Kunst und heilige Orte: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Kirchliche Kunst und heilige Orte

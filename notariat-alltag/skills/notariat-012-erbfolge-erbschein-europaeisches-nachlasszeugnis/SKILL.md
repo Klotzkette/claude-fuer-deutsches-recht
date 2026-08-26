@@ -1,6 +1,6 @@
 ---
 name: notariat-012-erbfolge-erbschein-europaeisches-nachlasszeugnis
-description: "Wenn es um Notariat 012 Erbfolge Erbschein Europaeisches Nachlasszeugnis in Notariat im Alltag geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Notariat 012 Erbfolge Erbschein Europäisches Nachlasszeugnis: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Schnittstellenkarte mit Zuständigkeits- und Nachweisfragen."
 ---
 
 # Notariat im Alltag: Erbfolge Erbschein Europäisches Nachlasszeugnis und Grundbuchberichtigung

@@ -1,6 +1,6 @@
 ---
 name: betriebsrat-ladung-und-ersatzmitglieder-pruefen
-description: "Wenn es um Betriebsrat Ladung Und Ersatzmitglieder Pruefen in Arbeitsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Betriebsrat Ladung und Ersatzmitglieder Prüfen: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Betriebsrat Ladung Und Ersatzmitglieder Prüfen: ordnet Normen, Nutzerangaben, Fristen, Belege und verifizierte Rechtsprechung zu einer belastbaren Prüfung.

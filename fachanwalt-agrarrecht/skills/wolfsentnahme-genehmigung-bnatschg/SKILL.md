@@ -1,6 +1,6 @@
 ---
 name: wolfsentnahme-genehmigung-bnatschg
-description: "Wenn es um Wolfsentnahme Genehmigung Bnatschg in Fachanwalt Agrarrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Wolfsentnahme Genehmigung Bnatschg: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Fachanwalt Agrarrecht Wolfsentnahme Genehmigung Bnatschg: ordnet Normen, Nutzerangaben, Fristen, Belege und verifizierte Rechtsprechung zu einer belastbaren Prüfung.

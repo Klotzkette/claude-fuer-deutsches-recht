@@ -1,6 +1,6 @@
 ---
 name: ihl-085-force-majeure-notice-letter
-description: "Wenn es um Force Majeure Notice Letter in Internationales Handelsrecht und Lex Mercatoria geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Force Majeure Notice Letter: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Schnittstellenkarte mit Zuständigkeits- und Nachweisfragen."
 ---
 
 # Force Majeure Notice Letter

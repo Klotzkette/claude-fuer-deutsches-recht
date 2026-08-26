@@ -1,6 +1,6 @@
 ---
 name: kostenrechnung-gnotkg-beschwerde
-description: "Wenn es um Kostenrechnung Gnotkg Beschwerde in Berufsrecht Notare geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Verhandlungs- oder Eskalationslinie mit Optionen."
+description: "Für Kostenrechnung Gnotkg Beschwerde: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Notare: kostenrechnung gnotkg beschwerde - Kammerantwort mit Verfahrensstrategie, Tonlage und Belegplan

@@ -1,6 +1,6 @@
 ---
 name: folgenabschaetzung-erfuellungsaufwand
-description: "Wenn es um Folgenabschätzung - Erfüllungsaufwand in Legistik-Werkstatt geht: rechnet Schwellen, Beträge, Varianten und Kontrollannahmen durch; liefert eine Berechnungstabelle mit Schwellen, Annahmen und Kontrollfragen."
+description: "Für Folgenabschätzung - Erfüllungsaufwand: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Folgenabschätzung - Erfüllungsaufwand

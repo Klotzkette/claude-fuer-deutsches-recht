@@ -1,6 +1,6 @@
 ---
 name: transparenzbericht-erstellung-trusted-flagger
-description: "Wenn es um DSA Transparenzbericht in DSA, DMA und Digitalregulierung der EU geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für DSA Transparenzbericht: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # DSA Transparenzbericht

@@ -1,6 +1,6 @@
 ---
 name: nutzung-mandatsdaten
-description: "Wenn es um Nutzungsrichtlinie: Fristen, Form, Zuständigkeit und Rechtsweg in diesem Spezialbereich geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Nutzungsrichtlinie: Fristen, Form, Zuständigkeit und Rechtsweg: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Nutzungsrichtlinie: Fristen, Form, Zuständigkeit und Rechtsweg

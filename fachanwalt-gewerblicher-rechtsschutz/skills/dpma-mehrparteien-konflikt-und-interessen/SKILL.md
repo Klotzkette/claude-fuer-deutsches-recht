@@ -98,3 +98,7 @@ Ansprüche wegen Benutzung eines kollidierenden Zeichens nach Paragrafen 14 und 
 - Sind mehrere Beteiligte, mögliche Interessenkollisionen und Vergleichsvollzug sichtbar gesteuert?
 - Sind Gebühren und Formvorgaben vor Einreichung aus einer aktuellen amtlichen Quelle geprüft, statt als statische Beträge übernommen?
 - Ist das Ergebnis als unmittelbar nutzbare Verfahrenskarte oder Schriftsatzfassung ausgegeben?
+
+## Vertiefung bei Bedarf
+
+- Bei `spezial-dpma-mehrparteien-konflikt-und-interessen` beziehungsweise Dpma: Mehrparteienkonflikt und Interessenmatrix: [die zusätzliche Vertiefung laden](./references/vertiefung-spezial-dpma-mehrparteien-konflikt-und-interessen.md).

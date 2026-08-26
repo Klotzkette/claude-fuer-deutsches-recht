@@ -1,6 +1,6 @@
 ---
 name: rechtsstand-mai-2026-faktenbank
-description: "Wenn es um Rechtsstand Mai 2026 — Faktenbank Mietrecht und WEG in Mietrecht geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
+description: "Für Rechtsstand Mai 2026 — Faktenbank Mietrecht und WEG: ordnet Akte, Belege und Lücken; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Rechtsstand Mai 2026 — Faktenbank Mietrecht und WEG

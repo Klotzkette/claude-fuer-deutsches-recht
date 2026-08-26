@@ -1,6 +1,6 @@
 ---
 name: verhalten-vorgesetzte-kollegen-kunden
-description: "Erstellt oder prüft die Verhaltensbeurteilung gegenüber tatsächlich relevanten Gruppen wie Vorgesetzten, Kollegen, Mitarbeitern, Kunden und Behörden. Liefert eine belegte, vollständig kontextualisierte Passage und bewertet Reihenfolge oder Auslassung nicht schematisch."
+description: "Erstellt oder prüft die Verhaltensbeurteilung gegenüber tatsächlich relevanten Gruppen wie Vorgesetzten, Kollegen, Mitarbeitern, Kunden und Behörden."
 ---
 
 # Verhalten gegenüber Vorgesetzten, Kollegen und Kunden

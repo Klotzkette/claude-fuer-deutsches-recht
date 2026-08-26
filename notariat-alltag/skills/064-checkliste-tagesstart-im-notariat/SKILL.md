@@ -1,6 +1,6 @@
 ---
 name: 064-checkliste-tagesstart-im-notariat
-description: "Wenn es um Notariat im Alltag: Checkliste Tagesstart im Notariat in Notariat im Alltag geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Notariat im Alltag: Checkliste Tagesstart im Notariat: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Notariat im Alltag: Checkliste Tagesstart im Notariat

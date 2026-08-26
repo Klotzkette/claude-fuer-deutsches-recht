@@ -1,6 +1,6 @@
 ---
 name: 09-urteil-finanzgericht-und-revision
-description: "Wenn es um 09 Urteil Finanzgericht und Revision in Finanzgericht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen."
+description: "Für 09 Urteil Finanzgericht und Revision: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # 09 Urteil Finanzgericht und Revision

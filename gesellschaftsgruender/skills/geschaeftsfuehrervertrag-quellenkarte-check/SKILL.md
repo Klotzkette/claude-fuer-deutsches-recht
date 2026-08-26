@@ -1,6 +1,6 @@
 ---
 name: geschaeftsfuehrervertrag-quellenkarte-check
-description: "Wenn es um Geschäftsführervertrag Quellenkarte Check in gesellschaftsgründer — Gründungsassistent für deutsche geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Tatbestands- oder Anspruchsmatrix mit Gegenargumenten."
+description: "Für Geschäftsführervertrag Quellenkarte Check: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Geschäftsführervertrag Quellenkarte Check

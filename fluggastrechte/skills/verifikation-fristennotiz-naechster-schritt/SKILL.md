@@ -1,6 +1,6 @@
 ---
 name: verifikation-fristennotiz-naechster-schritt
-description: "Wenn es um Verifikation: Fristennotiz und nächster Schritt in Fluggastrechte geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. Auswahlstichwort: Verifikation Fristennotiz Naechster Schritt; Arbeitsfeld: Fluggastrechte."
+description: "Für Verifikation: Fristennotiz und nächster Schritt: prüft Frist, Form, Zuständigkeit und Eilbedarf; Ergebnis: Fristen- und Risikoampel. Fachgebiet: Fluggastrechte. Route: verifikation-fristennotiz-naechster-schritt."
 ---
 
 # Verifikation: Fristennotiz und nächster Schritt

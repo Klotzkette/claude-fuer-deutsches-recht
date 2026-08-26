@@ -1,6 +1,6 @@
 ---
 name: mandatsannahme-bei-kollidierenden-erfindern-rech
-description: "Wenn es um Mandatsannahme Bei Kollidierenden Erfindern Rech in Berufsrecht Patentanwälte geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Gegenprüfung mit Fehler-, Beweis- und Fristencheck."
+description: "Für Mandatsannahme bei Kollidierenden Erfindern Rech: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Patentanwälte: mandatsannahme bei kollidierenden erfindern - Rechtsprechungscheck, stärkste Gegenansicht und Red-Team-Korrektur

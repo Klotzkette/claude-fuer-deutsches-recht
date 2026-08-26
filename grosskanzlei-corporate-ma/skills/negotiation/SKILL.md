@@ -1,6 +1,6 @@
 ---
 name: negotiation
-description: "Wenn es um Negotiation Strategy Battlecards in Großkanzlei Corporate/M&A geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Verhandlungs- oder Eskalationslinie mit Optionen."
+description: "Für Negotiation Strategy Battlecards: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt. Fachgebiet: Großkanzlei Corporate/M&A. Route: negotiation."
 ---
 
 # Negotiation Strategy Battlecards

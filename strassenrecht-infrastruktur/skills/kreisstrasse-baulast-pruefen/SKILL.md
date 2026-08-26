@@ -1,6 +1,6 @@
 ---
 name: kreisstrasse-baulast-pruefen
-description: "Wenn es um Kreisstrasse Baulast Prüfen in Straßenrecht und Infrastruktur geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Kreisstrasse Baulast Prüfen: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt. Fachgebiet: Straßenrecht und Infrastruktur. Route: kreisstrasse-baulast-pruefen."
 ---
 
 # Kreisstrasse Baulast Prüfen

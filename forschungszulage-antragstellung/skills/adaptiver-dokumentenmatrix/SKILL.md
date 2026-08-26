@@ -1,6 +1,6 @@
 ---
 name: adaptiver-dokumentenmatrix
-description: "Wenn es um Adaptiver: Dokumentenmatrix, Lückenliste und Nachforderung in Forschungszulage-Antragstellung geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Adaptiver: Dokumentenmatrix, Lückenliste und Nachforderung: ordnet Akte, Belege und Lücken; Ergebnis: Dokumentenmatrix mit Nachforderungsliste. Fachgebiet: Forschungszulage-Antragstellung. Route: adaptiver-dokumentenmatrix."
 ---
 
 # Adaptiver: Dokumentenmatrix, Lückenliste und Nachforderung

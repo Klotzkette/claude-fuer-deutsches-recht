@@ -1,6 +1,6 @@
 ---
 name: musterbasierte-dokumentenmatrix-und-lueckenliste
-description: "Wenn es um Musterbasierte: Dokumentenmatrix, Lückenliste und Nachforderung in Immobilienrechtspraxis geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Dokumentenmatrix mit Nachforderungsliste."
+description: "Für Musterbasierte: Dokumentenmatrix, Lückenliste und Nachforderung: ordnet Akte, Belege und Lücken; Ergebnis: Dokumentenmatrix mit Nachforderungsliste."
 ---
 
 # Musterbasierte: Dokumentenmatrix, Lückenliste und Nachforderung

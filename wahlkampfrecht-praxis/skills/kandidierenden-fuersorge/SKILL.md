@@ -1,6 +1,6 @@
 ---
 name: kandidierenden-fuersorge
-description: "Wenn es um Kandidierenden Fürsorge in Wahlkampfrecht Praxis geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Kandidierenden Fürsorge: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt. Fachgebiet: Wahlkampfrecht Praxis. Route: kandidierenden-fuersorge."
 ---
 
 # Kandidierenden Fürsorge

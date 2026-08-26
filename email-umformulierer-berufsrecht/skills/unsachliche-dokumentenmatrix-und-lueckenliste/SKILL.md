@@ -1,6 +1,6 @@
 ---
 name: unsachliche-dokumentenmatrix-und-lueckenliste
-description: "Wenn es um Unsachliche: Dokumentenmatrix, Lückenliste und Nachforderung in E-Mail-Umformulierer geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Dokumentenmatrix mit Nachforderungsliste."
+description: "Für Unsachliche: Dokumentenmatrix, Lückenliste und Nachforderung: ordnet Akte, Belege und Lücken; Ergebnis: Dokumentenmatrix mit Nachforderungsliste. Fachgebiet: E-Mail-Umformulierer. Route: unsachliche-dokumentenmatrix-und-lueckenliste."
 ---
 
 # Unsachliche: Dokumentenmatrix, Lückenliste und Nachforderung

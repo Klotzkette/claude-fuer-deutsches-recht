@@ -1,6 +1,6 @@
 ---
 name: presserecht-schriftsatz-brief-und-memo-bausteine
-description: "Wenn es um Presserecht: Schriftsatz-, Brief- und Memo-Bausteine in Fachanwalt Urheber Medienrecht geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
+description: "Für Presserecht: Schriftsatz-, Brief- und Memo-Bausteine: erstellt Entwurf mit Antrag, Beweis und Anlagen; Ergebnis: Schriftsatz mit Begründungs- und Anlagenlogik."
 ---
 
 # Presserecht: Schriftsatz-, Brief- und Memo-Bausteine

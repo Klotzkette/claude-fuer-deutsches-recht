@@ -1,6 +1,6 @@
 ---
 name: fachanwalt-sozialrecht-sgb-ii-bescheid
-description: "Wenn es um SGB-II-Bescheid (Bürgergeld) in Fachanwalt Sozialrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für SGB-II-Bescheid (Bürgergeld): ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # SGB-II-Bescheid (Bürgergeld)

@@ -1,6 +1,6 @@
 ---
 name: datenverlust-digitaler-deliktische-haftung
-description: "Wenn es um Datenverlust und digitaler Schaden in robotik-recht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. Auswahlstichwort: Datenverlust Digitaler Deliktische Haftung; Arbeitsfeld: robotik-recht."
+description: "Für Datenverlust und digitaler Schaden: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt. Fachgebiet: robotik-recht. Route: datenverlust-digitaler-deliktische-haftung."
 ---
 
 # Datenverlust und digitaler Schaden

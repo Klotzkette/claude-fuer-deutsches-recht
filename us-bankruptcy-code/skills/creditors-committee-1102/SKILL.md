@@ -1,6 +1,6 @@
 ---
 name: creditors-committee-1102
-description: "Wenn es um Creditors Committee Paragraf 1102 in US Bankruptcy Code geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Creditors Committee Paragraf 1102: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Creditors Committee § 1102

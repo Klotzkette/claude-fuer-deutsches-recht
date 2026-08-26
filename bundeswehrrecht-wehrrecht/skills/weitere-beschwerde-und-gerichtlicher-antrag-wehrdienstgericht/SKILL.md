@@ -1,6 +1,6 @@
 ---
 name: weitere-beschwerde-und-gerichtlicher-antrag-wehrdienstgericht
-description: "Wenn es um Weitere Beschwerde und gerichtlicher Antrag beim Wehrdienstgericht in Bundeswehrrecht und Wehrrecht geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
+description: "Für Weitere Beschwerde und gerichtlicher Antrag beim Wehrdienstgericht: erstellt Entwurf mit Antrag, Beweis und Anlagen; Ergebnis: Schriftsatz mit Begründungs- und Anlagenlogik."
 ---
 
 # Weitere Beschwerde und gerichtlicher Antrag beim Wehrdienstgericht

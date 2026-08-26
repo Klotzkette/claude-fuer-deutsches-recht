@@ -1,6 +1,6 @@
 ---
 name: datenschutzpanne-in-der-kanzlei-kammerantwort-und-verf
-description: "Wenn es um Datenschutzpanne In Der Kanzlei Kammerantwort Und Verf in Berufsrecht Anwälte geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Verhandlungs- oder Eskalationslinie mit Optionen."
+description: "Für Datenschutzpanne in der Kanzlei Kammerantwort und Verf: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Anwälte: datenschutzpanne in der kanzlei - Kammerantwort mit Verfahrensstrategie, Tonlage und Belegplan

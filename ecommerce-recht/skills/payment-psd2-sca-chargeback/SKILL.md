@@ -1,6 +1,6 @@
 ---
 name: payment-psd2-sca-chargeback
-description: "Wenn es um Payment PSD2 SCA Chargeback in E-Commerce-Recht geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
+description: "Für Payment PSD2 SCA Chargeback: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Payment PSD2 SCA Chargeback

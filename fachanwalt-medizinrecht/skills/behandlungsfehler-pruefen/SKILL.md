@@ -1,6 +1,6 @@
 ---
 name: behandlungsfehler-pruefen
-description: "Wenn es um Behandlungsfehler Paragrafen 630a 630h BGB Verletzung medizinischer Standard in Fachanwalt Medizinrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Behandlungsfehler Paragrafen 630a 630h BGB Verletzung medizinischer Standard: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Behandlungsfehler §§ 630a 630h BGB Verletzung medizinischer Standard

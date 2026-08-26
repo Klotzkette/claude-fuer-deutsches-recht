@@ -1,6 +1,6 @@
 ---
 name: ifg-048-ifggebv-gebuehren-zustaendigkeit-pruef
-description: "Wenn es um Ifggebv Gebuehren Zustaendigkeit Pruef in Informationsfreiheit und Presseauskunft geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Ifggebv Gebühren Zuständigkeit Prüf: prüft Frist, Form, Zuständigkeit und Eilbedarf; Ergebnis: Berechnungstabelle mit Annahmen und Kontrollfragen. Fachgebiet: Informationsfreiheit und Presseauskunft. Route: ifg-048-ifggebv-gebuehren-zustaendigkeit-pruef."
 ---
 
 # Ifggebv Gebuehren Zustaendigkeit Pruef

@@ -1,6 +1,6 @@
 ---
 name: bodenreformland-chronologie-bauen
-description: "Wenn es um Bodenreformland Chronologie Bauen in Einigungsvertrag und Vermögensrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Chronologie mit Belegmatrix und Widerspruchsliste."
+description: "Für Bodenreformland Chronologie Bauen: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Chronologie mit Beleg- und Widerspruchsmatrix."
 ---
 
 # Bodenreformland Chronologie Bauen

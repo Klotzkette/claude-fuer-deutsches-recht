@@ -1,6 +1,6 @@
 ---
 name: dsfa-bfdi-und-laender-blacklist
-description: "Wenn es um BfDI- und Länder-Blacklist Abgleich in Datenschutzrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für BfDI- und Länder-Blacklist Abgleich: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # BfDI- und Länder-Blacklist Abgleich

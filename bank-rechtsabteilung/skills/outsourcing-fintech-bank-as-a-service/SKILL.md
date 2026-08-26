@@ -1,6 +1,6 @@
 ---
 name: outsourcing-fintech-bank-as-a-service
-description: "Wenn es um Bank-as-a-Service Outsourcing in Bank-Rechtsabteilung geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
+description: "Für Bank-as-a-Service Outsourcing: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Bank-as-a-Service Outsourcing

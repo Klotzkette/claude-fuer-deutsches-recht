@@ -1,6 +1,6 @@
 ---
 name: datenschutzpanne-kanzlei
-description: "Wenn es um Datenschutzpanne Kanzlei in Berufsrecht Anwälte geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Datenschutzpanne Kanzlei: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Anwälte: datenschutzpanne in der kanzlei - Organisationspflichten, Prävention, Team-Anweisung und Fristenkontrolle

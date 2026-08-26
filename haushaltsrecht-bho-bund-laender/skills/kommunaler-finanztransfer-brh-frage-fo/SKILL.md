@@ -1,6 +1,6 @@
 ---
 name: kommunaler-finanztransfer-brh-frage-fo
-description: "Wenn es um Kommunaler Finanztransfer Brh Frage Fo in Haushaltsrecht BHO Bund und Länder geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Kommunaler Finanztransfer BRH Frage Fo: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Kommunaler Finanztransfer Brh Frage Fo

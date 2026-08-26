@@ -1,6 +1,6 @@
 ---
 name: heilfuersorge-ruhestand-pkv-anwartschaft
-description: "Wenn es um heilfürsorge-ruhestand-pkv-anwartschaft in Beamtenrecht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen."
+description: "Für heilfürsorge-ruhestand-pkv-anwartschaft: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # heilfürsorge-ruhestand-pkv-anwartschaft

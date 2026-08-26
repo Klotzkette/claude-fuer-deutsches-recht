@@ -1,6 +1,6 @@
 ---
 name: strafverfahren-unschuldsvermutung
-description: "Wenn es um Strafverfahren und Unschuldsvermutung in Juristische Presseberichterstattung geht: formuliert Strafverfahrensberichte statusgenau von Ermittlungen bis Urteil und verhindert Vorverurteilung."
+description: "Für Strafverfahren und Unschuldsvermutung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Strafverfahren und Unschuldsvermutung

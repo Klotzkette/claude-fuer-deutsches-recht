@@ -1,6 +1,6 @@
 ---
 name: nkr-erfuellungsaufwand-buerger-wirtschaft-verwaltung
-description: "Wenn es um NKR-Erfuellungsaufwand fuer Buerger, Wirtschaft und Verwaltung in Normenkontrollrat (NKR) — Prüfung von Gesetzentwuerfen geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für NKR-Erfüllungsaufwand für Bürger, Wirtschaft und Verwaltung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt. Fachgebiet: Normenkontrollrat (NKR) — Prüfung von Gesetzentwürfen. Route: nkr-erfuellungsaufwand-buerger-wirtschaft-verwaltung."
 ---
 
 # NKR-Erfuellungsaufwand fuer Buerger, Wirtschaft und Verwaltung

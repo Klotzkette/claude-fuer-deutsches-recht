@@ -1,6 +1,6 @@
 ---
 name: nda-vor-erfindungsgespraech-organisationspflicht
-description: "Wenn es um Nda Vor Erfindungsgespraech Organisationspflicht in Berufsrecht Patentanwälte geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Nda vor Erfindungsgespräch Organisationspflicht: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Patentanwälte: nda vor erfindungsgespraech - Organisationspflichten, Prävention, Team-Anweisung und Fristenkontrolle

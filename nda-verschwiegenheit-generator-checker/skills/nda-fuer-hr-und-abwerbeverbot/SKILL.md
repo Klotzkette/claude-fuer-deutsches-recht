@@ -1,6 +1,6 @@
 ---
 name: nda-fuer-hr-und-abwerbeverbot
-description: "Wenn es um NDA Fuer Hr Und Abwerbeverbot in NDA-Generator und Verschwiegenheitsvereinbarungs-Checker geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
+description: "Für NDA für Hr und Abwerbeverbot: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt. Fachgebiet: NDA-Generator und Verschwiegenheitsvereinbarungs-Checker. Route: nda-fuer-hr-und-abwerbeverbot."
 ---
 
 # NDA Fuer Hr Und Abwerbeverbot

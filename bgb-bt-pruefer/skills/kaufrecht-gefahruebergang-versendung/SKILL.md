@@ -1,6 +1,6 @@
 ---
 name: kaufrecht-gefahruebergang-versendung
-description: "Wenn es um Kaufrecht: Gefahrübergang und Versendung in BGB BT Prüfer geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Beweislast- und Substantiierungsmatrix. Auswahlstichwort: Kaufrecht Gefahruebergang Versendung; Arbeitsfeld: BGB BT Prüfer."
+description: "Für Kaufrecht: Gefahrübergang und Versendung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt. Fachgebiet: BGB BT Prüfer. Route: kaufrecht-gefahruebergang-versendung."
 ---
 
 # Kaufrecht: Gefahrübergang und Versendung

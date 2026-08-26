@@ -1,6 +1,6 @@
 ---
 name: gelb-formular-portal-und-einreichung
-description: "Wenn es um Gelb: Formular, Portal und Einreichungslogik in NDA-Abgleich geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. Auswahlstichwort: Gelb Formular Portal Und Einreichung; Arbeitsfeld: NDA-Abgleich."
+description: "Für Gelb: Formular, Portal und Einreichungslogik: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Einreichungsplan mit Form- und Nachweischeck. Fachgebiet: NDA-Abgleich. Route: gelb-formular-portal-und-einreichung."
 ---
 
 # Gelb: Formular, Portal und Einreichungslogik

@@ -1,6 +1,6 @@
 ---
 name: datenschutzpanne-notariat-dienstaufsicht
-description: "Wenn es um Datenschutzpanne Notariat Dienstaufsicht in Berufsrecht Notare geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Verhandlungs- oder Eskalationslinie mit Optionen."
+description: "Für Datenschutzpanne Notariat Dienstaufsicht: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Notare: datenschutzpanne notariat - Kammerantwort mit Verfahrensstrategie, Tonlage und Belegplan

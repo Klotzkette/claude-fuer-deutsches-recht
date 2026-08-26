@@ -1,6 +1,6 @@
 ---
 name: potenzieller-wettbewerb-marktzutritt
-description: "Wenn es um Potenzieller Wettbewerb und Markteintrittsschranken in Kartellrecht — Marktabgrenzungsprüfung geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Potenzieller Wettbewerb und Markteintrittsschranken: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Potenzieller Wettbewerb und Markteintrittsschranken

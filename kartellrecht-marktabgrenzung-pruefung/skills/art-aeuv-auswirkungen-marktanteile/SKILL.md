@@ -1,6 +1,6 @@
 ---
 name: art-aeuv-auswirkungen-marktanteile
-description: "Wenn es um Art 102 AEUV Missbrauchsprüfung Einstieg in Kartellrecht — Marktabgrenzungsprüfung geht: klärt Rolle, Ziel, Frist, Unterlagen und den passenden nächsten Fachskill; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Art 102 AEUV Missbrauchsprüfung Einstieg: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Schnittstellenkarte mit Zuständigkeits- und Nachweisfragen."
 ---
 
 # Art 102 AEUV Missbrauchsprüfung Einstieg

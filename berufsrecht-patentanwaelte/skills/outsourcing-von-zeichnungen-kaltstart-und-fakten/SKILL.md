@@ -1,6 +1,6 @@
 ---
 name: outsourcing-von-zeichnungen-kaltstart-und-fakten
-description: "Wenn es um Outsourcing Von Zeichnungen Kaltstart Und Fakten in Berufsrecht Patentanwälte geht: klärt Rolle, Ziel, Frist, Unterlagen und den passenden nächsten Fachskill; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Outsourcing von Zeichnungen Kaltstart und Fakten: routet Rolle, Frist, Unterlagen und Fachschritt; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Patentanwälte: outsourcing von zeichnungen - Kaltstart mit Faktenmatrix, Risikoampel und fehlenden Unterlagen

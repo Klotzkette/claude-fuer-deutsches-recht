@@ -1,6 +1,6 @@
 ---
 name: parkhaus-kommunikation-red-team-korrektur
-description: "Wenn es um Parkhaus Kommunikation Schreiben in Öffentliches Wirtschaftsrecht geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Parkhaus Kommunikation Schreiben: prüft Ergebnis, Beweislast und Gegenposition; Ergebnis: Gegenprüfung mit Beweis- und Fristencheck."
 ---
 
 # Parkhaus Kommunikation Schreiben

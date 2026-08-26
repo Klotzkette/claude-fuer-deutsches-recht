@@ -1,6 +1,6 @@
 ---
 name: luft-047-flugzeugleasing-insolvenzrisiko-markie
-description: "Wenn es um Flugzeugleasing Insolvenzrisiko Markie in Luftrecht und Flughafenrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Flugzeugleasing Insolvenzrisiko Markie: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Schnittstellenkarte mit Zuständigkeits- und Nachweisfragen."
 ---
 
 # Flugzeugleasing Insolvenzrisiko Markie

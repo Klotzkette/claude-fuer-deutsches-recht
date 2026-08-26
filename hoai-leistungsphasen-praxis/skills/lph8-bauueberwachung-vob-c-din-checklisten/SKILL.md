@@ -1,6 +1,6 @@
 ---
 name: lph8-bauueberwachung-vob-c-din-checklisten
-description: "Wenn es um VOB/C-DIN-Checklisten in der Bauueberwachung LPH 8 in HOAI Leistungsphasen Praxis geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für VOB/C-DIN-Checklisten in der Bauüberwachung LPH 8: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # VOB/C-DIN-Checklisten in der Bauueberwachung LPH 8

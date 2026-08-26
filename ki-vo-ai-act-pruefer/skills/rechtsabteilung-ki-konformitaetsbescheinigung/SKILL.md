@@ -1,6 +1,6 @@
 ---
 name: rechtsabteilung-ki-konformitaetsbescheinigung
-description: "Wenn es um Rechtsabteilung: digitale Werkzeuge-Konformitätsbescheinigung für Vorstand in diesem Spezialbereich geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt Stichwort für die Auswahl: Rechtsabteilung Ki Konformitaetsbescheinigung."
+description: "Für Rechtsabteilung: digitale Werkzeuge-Konformitätsbescheinigung für Vorstand: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt. Fachgebiet: europäischem Technikregulierungsrecht. Route: rechtsabteilung-ki-konformitaetsbescheinigung."
 ---
 
 # Rechtsabteilung: KI-Konformitätsbescheinigung für Vorstand

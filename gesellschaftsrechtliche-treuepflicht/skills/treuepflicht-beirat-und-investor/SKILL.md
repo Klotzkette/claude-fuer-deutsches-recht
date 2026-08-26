@@ -1,6 +1,6 @@
 ---
 name: treuepflicht-beirat-und-investor
-description: "Wenn es um Treuepflicht Beirat Und Investor in Gesellschaftsrechtliche Treuepflicht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen."
+description: "Für Treuepflicht Beirat und Investor: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Schnittstellenkarte mit Zuständigkeits- und Nachweisfragen."
 ---
 
 # Treuepflicht Beirat Und Investor

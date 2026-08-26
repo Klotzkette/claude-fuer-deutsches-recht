@@ -1,6 +1,6 @@
 ---
 name: leasing-lp-restrukturierungsplan-starug
-description: "Wenn es um Liqui Leasing LP Restrukturierungsplan Starug in Liquiditätsplanung — Power geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Liqui Leasing LP Restrukturierungsplan StaRUG: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Liqui Leasing LP Restrukturierungsplan Starug

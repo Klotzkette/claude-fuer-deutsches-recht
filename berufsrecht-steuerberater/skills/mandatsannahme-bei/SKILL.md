@@ -1,6 +1,6 @@
 ---
 name: mandatsannahme-bei
-description: "Wenn es um Mandatsannahme Bei in Berufsrecht Steuerberater geht: klärt Rolle, Ziel, Frist, Unterlagen und den passenden nächsten Fachskill; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Mandatsannahme bei: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Steuerberater: mandatsannahme bei sanktionen - Kaltstart mit Faktenmatrix, Risikoampel und fehlenden Unterlagen

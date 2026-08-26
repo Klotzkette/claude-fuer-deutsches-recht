@@ -1,6 +1,6 @@
 ---
 name: scope-creep-fruehwarnung
-description: "Wenn es um Scope Creep Frühwarnung in Kanzlei-Mandant Lifecycle geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Scope Creep Frühwarnung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Scope Creep Frühwarnung

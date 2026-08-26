@@ -1,6 +1,6 @@
 ---
 name: db-064-datenbankrecht-abschlussmemo
-description: "Wenn es um Datenbankrecht: Datenbankrecht Abschlussmemo in Datenbankrecht und Datenbankherstellerrecht geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Datenbankrecht: Datenbankrecht Abschlussmemo: erstellt Entwurf mit Antrag, Beweis und Anlagen; Ergebnis: Schriftsatz mit Begründungs- und Anlagenlogik."
 ---
 
 # Datenbankrecht: Datenbankrecht Abschlussmemo

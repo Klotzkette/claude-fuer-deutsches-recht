@@ -1,6 +1,6 @@
 ---
 name: aufsichtsrat-ki-einsatz-und-governance
-description: "Wenn es um Aufsichtsrat digitale Werkzeuge Einsatz Und Governance in AG/SE-Aufsichtsrat Praxis geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen."
+description: "Für Aufsichtsrat digitale Werkzeuge Einsatz und Governance: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Aufsichtsrat KI Einsatz Und Governance

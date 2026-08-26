@@ -1,6 +1,6 @@
 ---
 name: aml-trade-based-money-laundering-spezial
-description: "Wenn es um AML: Trade-Based in Geldwäscheprävention, AML und KYC geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für AML: Trade-Based: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # AML: Trade-Based

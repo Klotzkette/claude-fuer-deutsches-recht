@@ -1,6 +1,6 @@
 ---
 name: aussenwirtschaft-verjaehrung-berechnen
-description: "Wenn es um Außenwirtschaft Verjährung Berechnen in Ordnungswidrigkeitenrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Außenwirtschaft Verjährung Berechnen: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt. Fachgebiet: Ordnungswidrigkeitenrecht. Route: aussenwirtschaft-verjaehrung-berechnen."
 ---
 
 # Außenwirtschaft Verjährung Berechnen

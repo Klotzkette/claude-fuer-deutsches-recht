@@ -1,6 +1,6 @@
 ---
 name: turnover-542
-description: "Wenn es um Turnover Paragraf 542 in US Bankruptcy Code geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Turnover Paragraf 542: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Turnover § 542

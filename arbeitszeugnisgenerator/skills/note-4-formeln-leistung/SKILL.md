@@ -1,6 +1,6 @@
 ---
 name: note-4-formeln-leistung
-description: "Formuliert eine unterdurchschnittliche, noch ausreichende Leistungsbeurteilung wahr, klar und anhand dokumentierter Defizite. Prüft Beweisrisiko, sachfremde Motive und Widersprüche und liefert eine nüchterne Fassung ohne Häme oder Verschlüsselung."
+description: "Formuliert eine unterdurchschnittliche, noch ausreichende Leistungsbeurteilung wahr, klar und anhand dokumentierter Defizite."
 ---
 
 # Note 4 — Formeln Leistung

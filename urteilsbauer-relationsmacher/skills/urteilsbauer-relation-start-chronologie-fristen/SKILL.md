@@ -1,6 +1,6 @@
 ---
 name: urteilsbauer-relation-start-chronologie-fristen
-description: "Wenn es um Urteilsbauer und Relationsmacher — Allgemein in Urteilsbauer und Relationsmacher geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Chronologie mit Belegmatrix und Widerspruchsliste."
+description: "Für Urteilsbauer und Relationsmacher — Allgemein: prüft Frist, Form, Zuständigkeit und Eilbedarf; Ergebnis: Chronologie mit Beleg- und Widerspruchsmatrix."
 ---
 
 # Urteilsbauer und Relationsmacher — Allgemein

@@ -1,6 +1,6 @@
 ---
 name: inkasso-leasingforderung
-description: "Wenn es um Inkasso von Leasingforderungen in Leasingrecht Praxis geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
+description: "Für Inkasso von Leasingforderungen: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Inkasso von Leasingforderungen

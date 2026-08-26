@@ -1,6 +1,6 @@
 ---
 name: dpma-bpatg-bgh-rechtsmittelroute
-description: "Wenn es um DPMA, BPatG und BGH in markenrecht-fashion-luxus geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für DPMA, BPatG und BGH: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # DPMA, BPatG und BGH

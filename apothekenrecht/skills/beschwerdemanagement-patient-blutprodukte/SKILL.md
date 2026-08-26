@@ -1,6 +1,6 @@
 ---
 name: beschwerdemanagement-patient-blutprodukte
-description: "Wenn es um Beschwerdemanagement Patient Kunden in Apothekenrecht geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
+description: "Für Beschwerdemanagement Patient Kunden: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Beschwerdemanagement Patient Kunden

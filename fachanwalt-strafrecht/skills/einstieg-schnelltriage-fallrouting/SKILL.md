@@ -1,6 +1,6 @@
 ---
 name: einstieg-schnelltriage-fallrouting
-description: "Wenn es um Einstieg, Schnelltriage und Fallrouting in Fachanwalt Strafrecht geht: klärt Rolle, Ziel, Frist, Unterlagen und den passenden nächsten Fachskill; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Einstieg, Schnelltriage und Fallrouting in Fachanwalt Strafrecht: routet Rolle, Frist, Unterlagen und Fachschritt; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Einstieg, Schnelltriage und Fallrouting im Fachanwalt Strafrecht-Plugin

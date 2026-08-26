@@ -1,6 +1,6 @@
 ---
 name: software-dokumentation-gui-api-schutz
-description: "Wenn es um Dokumentation, GUI und API-Schutz in Softwarerecht Deutschland/EU/International/USA geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen."
+description: "Für Dokumentation, GUI und API-Schutz: ordnet Akte, Belege und Lücken; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Dokumentation, GUI und API-Schutz

@@ -1,6 +1,6 @@
 ---
 name: ihk-handwerk-berufsabschluss
-description: "Wenn es um IHK, Handwerk und Berufsabschluss in Prüfungsrecht an Hochschulen und Universitäten geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Tatbestands- oder Anspruchsmatrix mit Gegenargumenten."
+description: "Für IHK, Handwerk und Berufsabschluss: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # IHK, Handwerk und Berufsabschluss

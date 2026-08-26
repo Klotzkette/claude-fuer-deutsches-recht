@@ -1,6 +1,6 @@
 ---
 name: single-source-risk
-description: "Wenn es um Single-Source-Risiko China: Bewertung und Notfallplanung in China-Wirtschaftsverkehr geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Single-Source-Risiko China: Bewertung und Notfallplanung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Single-Source-Risiko China: Bewertung und Notfallplanung

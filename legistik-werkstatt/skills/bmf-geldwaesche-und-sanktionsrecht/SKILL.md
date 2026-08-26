@@ -1,6 +1,6 @@
 ---
 name: bmf-geldwaesche-und-sanktionsrecht
-description: "Wenn es um Geldwaescherecht und Sanktionsrecht (BMF) in Legistik-Werkstatt geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen."
+description: "Für Geldwäscherecht und Sanktionsrecht (BMF): ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Geldwaescherecht und Sanktionsrecht (BMF)

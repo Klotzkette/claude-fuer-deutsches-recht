@@ -1,6 +1,6 @@
 ---
 name: naturschutz-ffh-artenschutz-fachbeitrag
-description: "Wenn es um Naturschutz Und Ffh in Umweltschutzverband Verbandsklage geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
+description: "Für Naturschutz und Ffh: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Naturschutz Und Ffh

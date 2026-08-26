@@ -1,6 +1,6 @@
 ---
 name: medizintechnik-leasing-regulatorische-wartung
-description: "Wenn es um Medizintechnik-Leasing: Regulatorische Anforderungen und Wartung in Leasingrecht Praxis geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Medizintechnik-Leasing: Regulatorische Anforderungen und Wartung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Medizintechnik-Leasing: Regulatorische Anforderungen und Wartung

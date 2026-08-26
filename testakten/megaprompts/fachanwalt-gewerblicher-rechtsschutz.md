@@ -2,18 +2,20 @@
 
 ## Zusammensetzung
 
-Diese Vollprüfung enthält top-8 von 109 Skills (gekürzt für das Arbeitsfenster) des Plugins `fachanwalt-gewerblicher-rechtsschutz`.
+Diese Vollprüfung enthält top-10 von 93 Skills des Plugins `fachanwalt-gewerblicher-rechtsschutz`.
 
 ## Inhaltsverzeichnis
 
 1. **juristischer-argumentationskern** — Schaltet sich ein, wenn in Fachanwalt Gewerblicher Rechtsschutz ein juristisches Arbeitsprodukt tragfähig begründet werd…
 2. **gewerblicher-rechtsschutz-versandmappe-endfertigen** — Endfertigt Verletzungsklage, einstweilige Verfügung, Schutzschrift, Abschlussschreiben und Ordnungsmittelantrag im gewer…
-3. **einstieg-routing** — Wenn es um Einstieg und Routing in Fachanwalt Gewerblicher Rechtsschutz geht: klärt Rolle, Ziel, Frist, Unterlagen und d…
-4. **fachanwalt-gewerblicher-rechtsschutz-orientierung** — Wenn es um Orientierung Gewerblicher Rechtsschutz in Fachanwalt Gewerblicher Rechtsschutz geht: prüft Frist, Form, Zustä…
-5. **erstgespraech-mandatsannahme** — Wenn es um Erstgespraech im gewerblichen Rechtsschutz strukturieren und Mandat aufnehmen in Fachanwalt Gewerblicher Rech…
-6. **erstpruefung-und-mandatsziel** — Wenn es um Erstpruefung Und Mandatsziel in Fachanwalt Gewerblicher Rechtsschutz geht: klärt Rolle, Ziel, Frist, Unterlag…
-7. **designg-behoerden-gericht-und-registerweg** — Steuert nationale und unionsweite Designverfahren vom Registercheck über Anmeldung und Nichtigkeit bis zur Verletzungskl…
-8. **schriftsatzkern-substantiierung** — Wenn es um Klage oder Antrag im gewerblichen Rechtsschutz substantiiert ausformulieren in Fachanwalt Gewerblicher Rechts…
+3. **einstieg-routing** — Für Einstieg und Routing: routet Rolle, Frist, Unterlagen und Fachschritt; Ergebnis: Prüfprodukt mit Risiko und nächstem…
+4. **fachanwalt-gewerblicher-rechtsschutz-orientierung** — Für Orientierung Gewerblicher Rechtsschutz: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko …
+5. **erstgespraech-mandatsannahme** — Für Erstgespräch im gewerblichen Rechtsschutz strukturieren und Mandat aufnehmen: ordnet Norm, Beweislast und Gegenargum…
+6. **erstpruefung-und-mandatsziel** — Für Erstprüfung und Mandatsziel: routet Rolle, Frist, Unterlagen und Fachschritt; Ergebnis: Tatbestands- oder Anspruchsm…
+7. **markenrecht-verfallsantrag-paragraf-49-markeng** — Prüft Verfall einer deutschen Marke wegen Nichtbenutzung, Fristen, Benutzungsformen, Waren- und Dienstleistungsumfang, B…
+8. **dpma-mehrparteien-konflikt-und-interessen** — Steuert Mehrparteienkonflikte in markenrechtlichen DPMA-Verfahren: priorisiert Rechte, Fristen, Benutzung und Belege, tr…
+9. **patentverletzung-schadensberechnung-pruefen** — Prüft und berechnet Schadensersatz nach Patentverletzung anhand konkretem Schaden, Lizenzanalogie und Verletzergewinn, b…
+10. **eu-design-schutzumfang-gesamteindruck-pruefen** — Prüft den Schutzumfang eines eingetragenen oder nicht eingetragenen Unionsdesigns anhand Darstellung, informierten Benut…
 
 ---
 
@@ -157,7 +159,7 @@ Prüfe ZPO Paragrafen 130a und 130d sowie im Eilverfahren ZPO Paragrafen 929 und
 
 ## Skill: `einstieg-routing`
 
-_Wenn es um Einstieg und Routing in Fachanwalt Gewerblicher Rechtsschutz geht: klärt Rolle, Ziel, Frist, Unterlagen und den passenden nächsten Fachskill; liefert eine Fristen- und Risikoampel mit Sofortschritten._
+_Für Einstieg und Routing: routet Rolle, Frist, Unterlagen und Fachschritt; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt. Fachgebiet: Fachanwalt Gewerblicher Rechtsschutz._
 
 # Einstieg und Routing
 
@@ -201,7 +203,7 @@ Dieser Einstieg routet **Fachanwalt Gewerblicher Rechtsschutz** vom ersten Sachv
 
 ## Skill: `fachanwalt-gewerblicher-rechtsschutz-orientierung`
 
-_Wenn es um Orientierung Gewerblicher Rechtsschutz in Fachanwalt Gewerblicher Rechtsschutz geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten._
+_Für Orientierung Gewerblicher Rechtsschutz: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt._
 
 # Orientierung Gewerblicher Rechtsschutz
 
@@ -281,7 +283,7 @@ Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwiss
 
 ## Skill: `erstgespraech-mandatsannahme`
 
-_Wenn es um Erstgespraech im gewerblichen Rechtsschutz strukturieren und Mandat aufnehmen in Fachanwalt Gewerblicher Rechtsschutz geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten._
+_Für Erstgespräch im gewerblichen Rechtsschutz strukturieren und Mandat aufnehmen: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt._
 
 # Erstgespraech im gewerblichen Rechtsschutz strukturieren und Mandat aufnehmen
 
@@ -517,7 +519,7 @@ Frueheres Mandat mit derselben Gegnerin oder gleichem Sachzusammenhang:
 
 ## Skill: `erstpruefung-und-mandatsziel`
 
-_Wenn es um Erstpruefung Und Mandatsziel in Fachanwalt Gewerblicher Rechtsschutz geht: klärt Rolle, Ziel, Frist, Unterlagen und den passenden nächsten Fachskill; liefert eine Fristen- und Risikoampel mit Sofortschritten._
+_Für Erstprüfung und Mandatsziel: routet Rolle, Frist, Unterlagen und Fachschritt; Ergebnis: Tatbestands- oder Anspruchsmatrix. Fachgebiet: Fachanwalt Gewerblicher Rechtsschutz._
 
 # Erstprüfung und Mandatsziel im gewerblichen Rechtsschutz: Erstgespräch-Systematik, Schutzrechts-Screening, Interessenabwägung, Mandatszieldefinition, Interessenkonfliktprüfung, Kostenaufklärung und strategische Weichenstellung.
 
@@ -648,298 +650,217 @@ Bitte geben Sie uns bis [Datum] Rückmeldung.
 
 ---
 
-## Skill: `designg-behoerden-gericht-und-registerweg`
+## Skill: `markenrecht-verfallsantrag-paragraf-49-markeng`
 
-_Steuert nationale und unionsweite Designverfahren vom Registercheck über Anmeldung und Nichtigkeit bis zur Verletzungsklage. Trennt DPMA, EUIPO, Bundespatentgericht, EU-Gerichte und Designgerichte und liefert Fristenplan, Anträge, Belegmatrix und den nächsten verfahrensfesten Schritt._
+_Prüft Verfall einer deutschen Marke wegen Nichtbenutzung, Fristen, Benutzungsformen, Waren- und Dienstleistungsumfang, Beweislast und Verfahrensweg und erstellt einen vollständigen Antrag oder eine Verteidigung mit Benutzungsbelegmatrix._
 
-# 1. Designverfahren und Registerweg
+# Markenverfall nach Paragraf 49 MarkenG prüfen
 
-## 1.1 Arbeitsauftrag
+## 1. Normenanker
 
-Bestimme zuerst Schutzrecht, Verfahrensart und zuständige Stelle. Erstelle danach kein allgemeines Designrechtsmemo, sondern das konkret benötigte Arbeitsprodukt: Register- und Fristenblatt, Anmeldestrategie, Nichtigkeitsantrag, Beschwerdegerüst, Klageantrag oder Verteidigungsmatrix.
+- Paragraf 26 MarkenG: rechtserhaltende Benutzung.
+- Paragraf 49 MarkenG: Verfallsgründe und Wiederaufnahme der Benutzung.
+- Paragrafen 53 bis 55 MarkenG: amtliches Verfahren und Verfallsklage.
+- Paragraf 25 MarkenG: Nichtbenutzungseinrede im Verletzungsverfahren.
 
-Lies vorhandene Registerauszüge, Ansichten, Prioritätsbelege, Bescheide und Schriftsätze vollständig. Frage nur nach Tatsachen, die eine Verfahrensweiche verändern.
+## 2. Verifizierter Rechtsprechungsanker
 
-## 1.2 Rechtsstandsweiche
+BGH, Urteil vom 14.01.2021 - I ZR 40/20, STELLA: Für den maßgeblichen Fünfjahreszeitraum ist bei einer dem amtlichen Antrag nachfolgenden Verfallsklage grundsätzlich der Eingang des Antrags beim Deutschen Patent- und Markenamt maßgeblich. Der Markeninhaber trägt unionsrechtskonform grundsätzlich die Darlegungs- und Beweislast für die ernsthafte Benutzung; die frühere abweichende Linie wurde aufgegeben.
 
-1. Für nationale Rechte gelten insbesondere die Paragrafen 11 bis 23, 27, 28, 33 bis 35 und 52 bis 53 DesignG.
-2. Für unionsweite Rechte ist die Verordnung (EG) Nr. 6/2002 in der seit 1. Juli 2026 geltenden Fassung maßgeblich. Die aktuelle Bezeichnung lautet EU-Design; ältere Akten und noch nicht angepasste deutsche Vorschriften können weiterhin Gemeinschaftsgeschmacksmuster verwenden.
-3. Die Richtlinie (EU) 2024/2823 ist für die künftige Harmonisierung des nationalen Rechts relevant, ersetzt aber vor Ablauf der Umsetzungsfrist nicht eigenständig das DesignG.
-4. Prüfe bei jedem Altfall den Anmelde-, Offenbarungs- und Verfahrenszeitpunkt. Verwende keine reformierte Normnummer rückwirkend, wenn Übergangsrecht oder die frühere Fassung gilt.
+## 3. Prüfprogramm
 
-## 1.3 Zuständigkeitsmatrix
+1. Registerstand, Priorität, Schutzumfang und Beginn der Benutzungsschonfrist feststellen.
+2. Maßgeblichen Stichtag nach Verfahrensweg bestimmen.
+3. Benutzung nach Zeichenform, Waren oder Dienstleistungen, Gebiet, Zeitraum und wirtschaftlichem Umfang prüfen.
+4. Abweichende Benutzungsform und Zuordnung zu Oberbegriffen gesondert bewerten.
+5. Berechtigte Gründe für Nichtbenutzung und eine mögliche Wiederaufnahme samt Dreimonatsregel untersuchen.
+6. Belege wie Rechnungen, Stückzahlen, Werbematerial, Verpackungen und Vertriebsgebiete in einer Belegkette ordnen.
+7. Teilverfall und verbleibendes Waren- oder Dienstleistungsverzeichnis präzise formulieren.
+8. Kosten, Zuständigkeit, Widerspruch gegen den amtlichen Antrag und Klageweg terminieren.
 
-| Anliegen | Erste Stelle | Nächster Rechtszug | Kontrollpunkt |
-| --- | --- | --- | --- |
-| Nationale Anmeldung und Register | DPMA | Beschwerde zum Bundespatentgericht nach Paragraf 23 DesignG | Anmeldetag, Ansichten, Erzeugnisangabe, Gebühren |
-| Nationale Nichtigkeit | Designabteilung des DPMA nach Paragraf 34a DesignG | Bundespatentgericht | Nichtigkeitsgrund, Antragsbefugnis, konkreter Formenschatz |
-| EU-Design und EUIPO-Nichtigkeit | EUIPO | Beschwerdekammer des EUIPO | aktuelle Fassung der EU-Designverordnung und Verfahrenssprache |
-| Kontrolle einer EUIPO-Beschwerdeentscheidung | Gericht der Europäischen Union | Rechtsmittel zum Gerichtshof nur in den unionsrechtlich eröffneten Grenzen | Klagefrist, angegriffene Entscheidung, zulässige Rügen |
-| Verletzung eines nationalen Designs | zuständiges Landgericht als Designgericht | Oberlandesgericht, gegebenenfalls Bundesgerichtshof | landesrechtliche Konzentrationsverordnung live prüfen |
-| Verletzung eines EU-Designs | benanntes EU-Designgericht | nationaler Rechtsmittelzug | internationale und örtliche Zuständigkeit getrennt prüfen |
+## 4. Ausgabe
 
-Nenne niemals pauschal drei deutsche Gerichte als abschließende Liste. Die gerichtliche Konzentration richtet sich nach den jeweils geltenden Landesverordnungen; die benannten EU-Designgerichte sind anhand der aktuellen amtlichen Liste zu verifizieren.
-
-## 1.4 Register- und Aktenaufnahme
-
-1. Identifiziere Inhaber, Vertreter, Registernummer, Anmelde- und Prioritätstag, Status, Verlängerungsstand und Schutzgebiet.
-2. Sichere sämtliche amtlichen Ansichten in der eingetragenen Reihenfolge. Beschreibungen und Erzeugnisangaben ersetzen die bildliche Schutzbestimmung nicht.
-3. Ordne jede behauptete Vorveröffentlichung einzeln nach Quelle, Datum, Öffentlichkeit, Abbildung und Beweisqualität.
-4. Trenne nationales Design, eingetragenes EU-Design, nicht eingetragenes EU-Design und internationale Registrierung nach dem Haager System.
-5. Notiere parallele Marken-, Urheber-, Patent-, Gebrauchsmuster- und Lauterkeitsrechte nur als eigene Anspruchsspur.
-
-## 1.5 Anmeldeprüfung
-
-1. Prüfe Wiedergabe, Einheitlichkeit und Offenbarungsgehalt jeder Ansicht.
-2. Entscheide zwischen Einzel- und Sammelanmeldung; die nationale Sammelanmeldung kann nach Paragraf 12 DesignG bis zu 100 Designs umfassen.
-3. Prüfe Priorität, Neuheitsschonfrist und aufgeschobene Bekanntmachung anhand des konkreten Offenbarungskalenders.
-4. Weise ausdrücklich darauf hin, dass Registerämter den materiellen Rechtsbestand nicht wie in einem vollständigen Verletzungs- oder Nichtigkeitsverfahren vorwegprüfen.
-5. Lege vor Einreichung eine Ansichtenliste mit Dateiname, Perspektive, beanspruchten Merkmalen und möglicher Unklarheit vor.
-
-## 1.6 Nichtigkeitsprüfung
-
-1. Benenne für jeden Angriff genau einen gesetzlichen Nichtigkeitsgrund.
-2. Vergleiche jedes ältere Design einzeln mit dem angegriffenen Design. Bilde kein Merkmalsmosaik aus mehreren Vorveröffentlichungen.
-3. Prüfe Neuheit, Eigenart, informierten Benutzer, Gestaltungsfreiheit und Gesamteindruck getrennt.
-4. Bei technischer Bedingtheit erfasse alle objektiven Umstände; die bloße Existenz alternativer Formen entscheidet nicht allein.
-5. Ordne Darlegungs- und Beweislast zu. Der Antragsteller muss insbesondere die behauptete Vorveröffentlichung und deren zeitliche Zugänglichkeit belegen.
-
-## 1.7 Verletzungsprüfung
-
-1. Bestimme den geschützten Gegenstand ausschließlich aus den maßgeblichen Ansichten und dem anwendbaren Rechtsstand.
-2. Lege Original und angegriffene Ausführung in einer Ansichtenmatrix nebeneinander.
-3. Kennzeichne übereinstimmende, abweichende, technisch bedingte und vorbekannte Merkmale.
-4. Beurteile den Gesamteindruck aus Sicht des informierten Benutzers unter Berücksichtigung der Gestaltungsfreiheit.
-5. Prüfe Rechtsbestand, Vorbenutzung, Erschöpfung, Verjährung, territoriale Reichweite und Aktivlegitimation als eigene Gegenangriffsspur.
-
-## 1.8 Rechtsprechungsanker
-
-1. EuGH, Urteil vom 20. Oktober 2011 - C-281/10 P, PepsiCo gegen Grupo Promer: informierter Benutzer, Gestaltungsfreiheit und Gesamteindruck sind zusammenhängend zu beurteilen.
-2. EuGH, Urteil vom 19. Juni 2014 - C-345/13, Karen Millen: Eigenart wird gegenüber einzelnen vorbekannten Designs geprüft; ein aus mehreren Vorlagen zusammengesetztes Vergleichsdesign genügt nicht.
-3. EuGH, Urteil vom 8. März 2018 - C-395/16, DOCERAM: Für technische Bedingtheit sind alle objektiven Umstände maßgeblich; alternative Gestaltungen sind nur ein Gesichtspunkt.
-4. EuGH, Urteil vom 28. Oktober 2021 - C-123/20, Ferrari: Ein klar erkennbarer Teilbereich eines Erzeugnisses kann durch die Offenbarung eigenständig designrechtlich relevant werden.
-
-Verifiziere vor einer Einreichung Datum, ECLI, Randnummer und die tatsächlich tragende Aussage in der amtlichen Entscheidungsfassung.
-
-## 1.9 Ausgabe
-
-Liefere in dieser Reihenfolge:
-
-1. Verfahrensziel und zuständige Stelle.
-2. Fristen- und Gebührenblatt mit Quellenstand.
-3. Register- und Belegmatrix.
-4. Rechtsbestands- oder Verletzungsmatrix.
-5. Ausformulierter Antrag oder Schriftsatzkern.
-6. Anlagenverzeichnis und nächster Vollzugsschritt.
-
-## 1.10 Anschluss
-
-- `design-neuheit-offenbarung-pruefen` für Offenbarung und Formenschatz.
-- `eu-design-schutzumfang-gesamteindruck-pruefen` für den unionsweiten Gesamteindruck.
-- `designverletzung` für Anspruch und Verteidigung.
-- `spezial-designverletzung-red-team-und-qualitaetskontrolle` für den Gegenangriff vor Versand.
+Liefere eine Fristen- und Benutzungsmatrix, einen bestimmten Verfallsantrag oder eine Erwiderung sowie ein bereinigtes Waren- und Dienstleistungsverzeichnis für einen möglichen Teilverfall.
 
 ---
 
-## Skill: `schriftsatzkern-substantiierung`
+## Skill: `dpma-mehrparteien-konflikt-und-interessen`
 
-_Wenn es um Klage oder Antrag im gewerblichen Rechtsschutz substantiiert ausformulieren in Fachanwalt Gewerblicher Rechtsschutz geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik._
+_Steuert Mehrparteienkonflikte in markenrechtlichen DPMA-Verfahren: priorisiert Rechte, Fristen, Benutzung und Belege, trennt Widerspruch von Verfall und Nichtigkeit und liefert Verfahrenskarte, Schriftsatzgerüst und Vergleichskorridor._
 
-# Klage oder Antrag im gewerblichen Rechtsschutz substantiiert ausformulieren
+# DPMA-Mehrparteienkonflikt und Interessen
 
+## 1. Direktstart mit Verfahrenskarte
 
-## Arbeitsweg
+Lies Registerauszüge, Veröffentlichungsdaten, Zustellungen, Widersprüche, Benutzungsunterlagen und Parallelverfahren. Beginne sofort mit einer Verfahrenskarte; frage nur nach fehlenden Tatsachen, die Frist, Antragsbefugnis oder Verfahrenswahl ändern.
 
-- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
-- Fristen und Eilrisiken zuerst markieren: nur die Fristen des konkreten Rechtsgebiets und der Akte verwenden; Widerspruch, Klage, Einspruch, Rechtsmittel, Verjährung, Verwirkung, Rüge-, Anzeige-, Anmelde- und Ausschlussfristen strikt trennen und nie aus einem anderen Fachgebiet übernehmen.
-- Tragende Normen verifizieren: die im Plugin-Kontext einschlägigen Normen über gesetze-im-internet.de, dejure.org, eur-lex.europa.eu und die amtlichen Bundes-/Landesportale live prüfen — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
-- Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
-- Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
+| Beteiligter | Recht und Zeitrang | Verfahren und Rolle | Frist oder Status | Beweisrisiko | Nächster Schritt |
+| --- | --- | --- | --- | --- | --- |
+| Anmelder oder Inhaber | angegriffene Marke | Widerspruchsgegner | Veröffentlichung prüfen | Warenverzeichnis, Benutzung | Verteidigungslinie |
+| Widersprechender | älteres Recht | Widerspruch | drei Monate | Bestand, Zeitrang, Benutzung | Widerspruch begründen |
+| Antragsteller | Verfalls- oder Nichtigkeitsgrund | DPMA-Antrag | Zustellung und Widerspruch | Tatbestand vollständig belegen | Antrag schärfen |
+| Beitretender | eigenes rechtliches Interesse | Beitritt | Verfahrensstand | Interesse nachweisen | Beitritt erklären |
 
-**Fokus:** Klage oder Antrag im gewerblichen Rechtsschutz substantiiert ausformulieren. § 14 MarkenG § 139 PatG § 8 UWG §§ 253 286 ZPO. Prüfraster: Anspruchsgrundlage Sachverhalt Beweisangebot Streitwert Antrag. Output: Schriftsatzkern Klage- oder Antragsentwurf. Abgrenzung: nicht für außergerichtliche Abmahnungen.
+## 2. Verfahrensweg richtig wählen
 
-### Schriftsatzkern und Substantiierung im Marken-, Patent-, Design- und Wettbewerbsrecht
+### 2.1 Widerspruch
 
-## Triage zu Beginn
+- Paragraf 41 MarkenG regelt Eintragung, Veröffentlichung und Markeninformation; er ist nicht die Widerspruchsnorm.
+- Der Widerspruch richtet sich nach Paragraf 42 MarkenG und muss innerhalb von drei Monaten nach dem Tag der Veröffentlichung der Eintragung erhoben werden.
+- Widerspruchsgrund und älteres Recht nach Paragraf 42 Absatz 2 MarkenG exakt bezeichnen. Ein Widerspruch kann nach Absatz 3 mehrere ältere Rechte desselben Inhabers bündeln.
+- Auf beiderseitigen Antrag ist nach Paragraf 42 Absatz 4 MarkenG eine mindestens zweimonatige Einigungsfrist einzuräumen. Stillhalteabreden und Verlängerungen dieser Phase mit dem amtlichen Verfahrensstand abgleichen.
 
-1. **Schriftsatztyp:** Abmahnung, einstweiliger Verfuegungsantrag, Unterlassungsklage, Loeschungsklage Marke oder Schadensersatzklage?
-2. **Anspruchsgrundlage:** §§ 14, 18, 19 MarkenG? §§ 38 ff. DesignG? §§ 3 ff. UWG? §§ 97 ff. UrhG? §§ 139 ff. PatG?
-3. **Zuständigkeit:** LG (Markenkammern) oder Spezialgerichte? OLG als Beschwerdegericht?
-4. **Fristen:** Klage-/Widerspruchs-/Einspruchs-/Beschwerdefrist eingehalten und notiert?
-5. **Beweislage:** Welche Urkunden, Zeugen, Sachverstaendige stehen zur Verfuegung?
-6. **Gegnerische Einwaende vorausschauen:** Was wird die Gegenseite entgegenhalten?
-- **Was will der Mandant wirklich erreichen?** (Nicht: was steht im Standardweg, sondern: welches Ergebnis ist für den Mandanten persoenlich/wirtschaftlich das beste? Manchmal ist der schnellere Vergleich besser als der formal "richtige" Weg.)
+### 2.2 Verfall und Nichtigkeit
 
-## Zentrale Normen und Paragrafenkette
+- Materielle Verfallsgründe nach Paragraf 49 MarkenG, absolute Nichtigkeitsgründe nach Paragraf 50 MarkenG und ältere Rechte nach Paragraf 51 MarkenG strikt trennen.
+- Bösgläubigkeit ist als absolutes Schutzhindernis in Paragraf 8 Absatz 2 Nummer 14 MarkenG verankert; Paragraf 10 MarkenG betrifft notorisch bekannte Marken.
+- Das amtliche Verfahren richtet sich nach Paragraf 53 MarkenG. Beitritt und eigenes rechtliches Interesse sind nach Paragraf 54 MarkenG zu prüfen.
+- Paragraf 55 MarkenG betrifft das Verfalls- und Nichtigkeitsverfahren vor den ordentlichen Gerichten, nicht einen allgemeinen Unterlassungsanspruch. Rechtshängigkeit und Vorrangfragen zwischen amtlichem und gerichtlichem Weg anhand des aktuellen Absatzes 5 prüfen.
 
-Markenrecht:
-§ 14 Abs. 2 MarkenG (Verletzung) → § 14 Abs. 5 MarkenG (Unterlassung) → § 14 Abs. 6 MarkenG (Schadensersatz) → § 18 MarkenG (Vernichtung/Rueckruf) → § 19 MarkenG (Auskunft) → §§ 195, 199 BGB (Verjährung 3 Jahre)
+### 2.3 Verletzungsverfahren getrennt halten
 
-UWG:
-§ 3 UWG (Generalklausel) → § 3a/§ 5/§ 7 UWG (Tatbestand) → § 8 Abs. 1 UWG (Unterlassung) → § 8 Abs. 3 UWG (Aktivlegitimation) → § 9 UWG (Schadensersatz) → § 13 Abs. 3 UWG (Abmahnkosten) → § 8c UWG (Missbrauch)
+Ansprüche wegen Benutzung eines kollidierenden Zeichens nach Paragrafen 14 und folgende MarkenG, die Zuständigkeit der Markengerichte nach Paragraf 140 MarkenG und einstweiliger Rechtsschutz sind eine eigene Spur. Sie können strategisch parallel laufen, ersetzen aber weder Widerspruch noch Verfalls- oder Nichtigkeitsantrag.
 
-DesignG:
-§ 38 Abs. 1 DesignG (Unterlassung) → § 42 DesignG (Schadensersatz) → § 43 DesignG (Auskunft) → §§ 195, 199 BGB (Verjährung)
+## 3. Zeitrang- und Kollisionsprüfung
 
-## Aufbauschema Schriftsatz
+1. Für jedes Recht Anmelde-, Prioritäts-, Benutzungs- und Veröffentlichungsdatum belegen.
+2. Zeitrang nach Paragraf 6 MarkenG bestimmen; relative Schutzhindernisse nach Paragrafen 9 bis 13 MarkenG dem geltend gemachten Recht zuordnen.
+3. Inhaber, Rechtsübergänge, Lizenzen und Prozessführungsbefugnis aus aktuellen Registerunterlagen verifizieren.
+4. Waren und Dienstleistungen nicht nur nach Klassen vergleichen, sondern nach Art, Zweck, Nutzung, Vertriebsweg, wirtschaftlicher Nähe und angesprochenen Verkehrskreisen.
+5. Zeichenähnlichkeit nach Klang, Bild und Bedeutung sowie Kennzeichnungskraft und Wechselwirkung in einer nachvollziehbaren Matrix bewerten.
 
-### A. Rubrum
+## 4. Benutzung als eigenständige Beweisstation
 
-- Parteien (Bezeichnung wie im Vorprozess oder Bescheid, exakte Schreibweise!).
-- Zustellungsanschrift Bevollmaechtigte.
-- Gericht/Behörde (Zuständigkeit prüfen und im Schriftsatz darstellen, wenn streitig).
-- Aktenzeichen; Streitwert.
+- Wird die Einrede mangelnder Benutzung nach Paragraf 43 MarkenG wirksam erhoben, muss der Widersprechende die ernsthafte Benutzung für die maßgeblichen Zeiträume glaubhaft machen.
+- Schutzfrist, Benutzungsschonfrist, maßgebliche Zeiträume und rechtserhaltende Benutzungsform einzeln feststellen; nicht pauschal mit „fünf Jahre vor Entscheidung“ arbeiten.
+- Rechnungen, Produktabbildungen, Kataloge, Webseitenstände, Reichweiten, Liefergebiete und eidesstattliche Versicherungen zeitlich und warenbezogen zusammenführen.
+- Benutzungsunterlagen dürfen weder Geschäftsgeheimnisse unnötig offenlegen noch so stark geschwärzt sein, dass Zeitraum, Umfang, Gebiet oder Ware nicht mehr erkennbar sind.
+- Für jede belegte Benutzungsform erklären, welcher Eintragung sie zugeordnet wird und welche Waren oder Dienstleistungen sie trägt.
 
-### B. Antraege
+## 5. Mehrere Beteiligte steuern
 
-- Leistungsantrag (zu zahlen, zu unterlassen, zu beseitigen, herauszugeben).
-- Feststellungsantrag (Feststellungsinteresse darlegen).
-- Hilfsantraege staffeln (von eng nach weit oder von hoch nach niedrig).
+### 5.1 Mehrere Widersprüche
 
-### C. Tatsachenvortrag
+- Aktenzeichen, Widerspruchsrechte und Verfahrensstände getrennt führen.
+- Prüfen, ob eine frühe Entscheidung über einen tragenden Widerspruch zweckmäßig ist oder weitere Rechte wegen Bestand, Kosten oder Rechtsmittelinteresse weiterverfolgt werden müssen.
+- Keine Abstimmung zwischen unabhängigen Rechteinhabern ohne Interessen- und Kartellrechtsprüfung organisieren.
 
-1. **Sachverhalts-Chronologie** mit konkreten Daten (Tag, Uhrzeit, Ort, Personen).
-2. **Mandantenseitige Tatsachenbehauptungen** mit Beweisangeboten.
-3. **Gegnerisches Verhalten** mit Belegen (Schreiben, Aussage, Verhalten).
-4. **Schaden/Folgen** bezifferbar (Hauptforderung, Nebenforderung, Zinsen, Folgekosten).
+### 5.2 Interessenkollision und Vertretung
 
-### D. Rechtliche Wuerdigung
+- Mandantenidentität, Konzernbeziehungen, Lizenzketten und wirtschaftliche Gegeninteressen vor jeder gemeinsamen Strategie prüfen.
+- Vertrauliche Informationen eines Beteiligten nicht zur Beratung eines anderen verwenden.
+- Bei möglicher Interessenkollision getrennte Sachverhaltsakten und eine dokumentierte Mandatsentscheidung anlegen.
 
-1. **Anspruchsgrundlage** nennen (z.B. § 14 Abs. 2 Nr. 2 MarkenG i.V.m. § 14 Abs. 5 MarkenG).
-2. **Tatbestandsmerkmale** durchgehen; jedes Merkmal wird gegen den Tatsachenvortrag gespiegelt.
-3. **Einwendungen** der Gegenseite vorwegnehmen und entkraeften.
-4. **Rechtsprechungsverweise:** Leitsaetze mit Az. und Rn. konkret zitieren.
-5. **Subsumtions-Ergebnis** klar formulieren.
+### 5.3 Vergleich und Abgrenzung
 
-### E. Beweisangebote
+- Koexistenz nicht nur nach Nizza-Klassen, sondern nach Zeichenverwendung, Waren, Dienstleistungen, Vertriebskanälen, Gebieten und künftigen Erweiterungen definieren.
+- Rücknahme von Widerspruch oder Antrag erst nach Eintritt der vereinbarten Gegenleistung und gesicherter Kostenregelung erklären.
+- Registerbeschränkung, Zustimmung, Vertragsstrafe, Nachweis- und Kündigungsmechanik sowie Wirkung für Rechtsnachfolger ausdrücklich regeln.
+- Kartellrechtliche Grenzen nach Paragraf 1 GWB und Artikel 101 AEUV bei marktaufteilender Wirkung prüfen.
 
-- Urkundenbeweis: konkrete Anlage Kxx benennen, Inhalt genau beschreiben.
-- Zeugenbeweis: Name, ladungsfaehige Anschrift, Beweisthema in einem Satz.
-- Sachverstaendigenbeweis: ggf. Privatgutachten beifuegen, gerichtliches Gutachten beantragen.
-- Parteivernehmung als letzte Stufe mit Antrag § 448 ZPO und Indiziengeruest.
+## 6. Rechtsmittel und Fristen
 
-### F. Anlagenverzeichnis
+- Beschwerde gegen DPMA-Beschlüsse richtet sich nach Paragraf 66 MarkenG. Die Monatsfrist läuft grundsätzlich ab Zustellung; Statthaftigkeit, Beschwer und Form anhand der konkreten Entscheidung prüfen.
+- Vor dem Bundespatentgericht rechtliches Gehör, Beweisanträge und Kostenrisiko gesondert planen.
+- Die Rechtsbeschwerde zum Bundesgerichtshof richtet sich nach Paragraf 83 MarkenG; Zulassung und zulassungsfreie Fälle nicht vermischen.
+- Wiedereinsetzung nach Paragraf 91 MarkenG ist kein Ersatz für ordnungsgemäße Fristenkontrolle. Fristbeginn, Fristende, Einreichungsweg und Zahlungsbezug doppelt dokumentieren.
 
-- K1, K2 ... durchnummeriert (Antragstellerin/Klägerin).
-- Bei Beklagten B1, B2 ...
-- Jede Anlage mit Datum, Absender, Empfaenger, Inhaltsbeschreibung in einem Satz.
+## 7. Arbeitsprodukte
 
-## Strategische Optionen (vor dem Template entscheiden)
+1. Mehrparteien-Verfahrenskarte mit Aktenzeichen, Recht, Zeitrang, Frist, Beweis und Verantwortlichem.
+2. Kollisionsmatrix für Zeichen, Waren, Kennzeichnungskraft, Wechselwirkung und Gegenargumente.
+3. Benutzungsdossier mit Belegindex und Zuordnung jedes Belegs zu Zeitraum, Gebiet und Ware.
+4. Schriftsatzgerüst für Widerspruch, Erwiderung, Verfalls- oder Nichtigkeitsantrag mit präzisen Anträgen.
+5. Vergleichskorridor mit Mindestposition, Gegenleistung, Registervollzug und Rücktrittssicherung.
+6. Rechtsmittelmemo mit Zustellung, Frist, Beschwer, Angriffspunkten und fehlenden Belegen.
 
-Bevor das Template eins-zu-eins gefuellt wird, ist zu prüfen welche Variante zur Mandantenkonstellation passt. Das Template ist **eine** moegliche Form — nicht die einzige.
+## 8. Qualitätskontrolle
 
-| Konstellation | Empfohlener Weg |
-|---|---|
-| Standard — Schriftsatz im gewerblichen Rechtsschutz substantiieren | Output-Template Markenverletzung als Grundlage; Prüfkette unten |
-| Variante A — Patentrecht statt Marken-/Urheberrecht | Technische Sachverhaltsbeschreibung verstaerken; Patentzeichnungen als Anlage |
-| Variante B — einstweilige Verfuegung | Kurze Substantiierung; Dringlichkeit und Verfuegungsanspruch im Vordergrund |
-| Variante C — Gegenseite hat starke Gegenrechte | Praeventivargumentation aufbauen; Defensivpositionen einbeziehen |
+- Ist Paragraf 42 und nicht Paragraf 41 MarkenG als Widerspruchsnorm verwendet?
+- Sind Widerspruch, Verfall, Nichtigkeit und Verletzung als getrennte Wege behandelt?
+- Ist der Zeitrang jedes Rechts mit einem aktuellen Registerbeleg gesichert?
+- Sind Benutzungszeiträume und Warenzuordnung konkret statt formelhaft dargelegt?
+- Sind mehrere Beteiligte, mögliche Interessenkollisionen und Vergleichsvollzug sichtbar gesteuert?
+- Sind Gebühren und Formvorgaben vor Einreichung aus einer aktuellen amtlichen Quelle geprüft, statt als statische Beträge übernommen?
+- Ist das Ergebnis als unmittelbar nutzbare Verfahrenskarte oder Schriftsatzfassung ausgegeben?
 
-Wenn die Mandantenkonstellation **nicht** ins Standardschema passt, ist das Template anzupassen oder durch ein anderes Skill abzuloesen — nicht das Mandat in das Schema zu pressen.
+## Vertiefung bei Bedarf
 
-## Output-Template Klageschrift Markenverletzung (Auszug)
+- Bei `spezial-dpma-mehrparteien-konflikt-und-interessen` beziehungsweise Dpma: Mehrparteienkonflikt und Interessenmatrix: [die zusätzliche Vertiefung laden](https://github.com/Klotzkette/claude-fuer-deutsches-recht/blob/main/fachanwalt-gewerblicher-rechtsschutz/skills/dpma-mehrparteien-konflikt-und-interessen/references/vertiefung-spezial-dpma-mehrparteien-konflikt-und-interessen.md).
 
-**Adressat:** LG [ORT] — [Markenkammer] — Tonfall sachlich-juristisch
+---
 
-```
-An das Landgericht [ORT]
-[Anschrift]
+## Skill: `patentverletzung-schadensberechnung-pruefen`
 
-KLAGE
+_Prüft und berechnet Schadensersatz nach Patentverletzung anhand konkretem Schaden, Lizenzanalogie und Verletzergewinn, bestimmt Kausalanteil, Auskunftsdaten und Verjährung und liefert eine prüfbare Wahlentscheidung._
 
-der [NAME MANDANT], [ADRESSE]
-— Klaegetin —
-Prozessbevollmaechtigte: [KANZLEI, ADRESSE]
+# Patentverletzung und Schadensberechnung prüfen
 
-gegen
+## 1. Einsatz und Ziel
 
-[BEKLAGTE], [ADRESSE]
-— Beklagte —
+Berechne erst nach Feststellung von Verletzung, Verschulden und Zeitraum. Die drei Berechnungsmethoden dürfen verglichen, aber nicht für denselben Schaden kumuliert werden.
 
-wegen Markenverletzung und Schadensersatz
+## 2. Normenanker
 
-Streitwert: [BETRAG] EUR
+- Paragraf 139 Absatz 2 PatG: Schadensersatz einschließlich Verletzergewinn und Lizenzanalogie.
+- Paragraf 140b PatG: Auskunft.
+- Paragraf 141 PatG in Verbindung mit den Verjährungsregeln des BGB.
+- Paragraf 287 ZPO: gerichtliche Schadensschätzung.
 
-Wir zeigen die anwaltliche Vertretung der Klaegerin an und erheben Klage
-mit den folgenden Antraegen:
+## 3. Verifizierter Rechtsprechungsanker
 
-I. ANTRAEGE
+- BGH, Urteil vom 24.07.2012, X ZR 51/11, Flaschenträger: Beim Verletzergewinn ist wertend zu bestimmen, welcher Gewinnanteil auf den patentgemäßen technischen Eigenschaften und welcher auf anderen Kaufentscheidungsfaktoren beruht.
 
-1. Die Beklagte wird verurteilt, es bei Meidung eines für jeden Fall der
- Zuwiderhandlung festzusetzenden Ordnungsgeldes bis zu 250.000 EUR, ersatzweise
- Ordnungshaft, zu unterlassen, im geschaeftlichen Verkehr das Zeichen [ZEICHEN]
- für Waren/Dienstleistungen der Klasse [X] zu benutzen.
+## 4. Prüfprogramm
 
-2. Die Beklagte wird verurteilt, der Klaegerin Auskunft zu erteilen ueber
- [UMFANG AUSKUNFTSANSPRUCH § 19 MarkenG].
+1. Verletzungsprodukte, Handlungen, Territorium, Zeitraum und Verschuldensbeginn festlegen.
+2. Auskunft auf Mengen, Umsätze, Kosten, Deckungsbeiträge und Vertriebskanäle prüfen.
+3. Konkreten entgangenen Gewinn mit hypothetischem Absatzverlauf belegen.
+4. Lizenzanalogie anhand vergleichbarer Lizenzen, Schutzumfang, Laufzeit und Marktstellung bestimmen.
+5. Verletzergewinn um nur abzugsfähige Kosten bereinigen und Kausalanteil des Patents schätzen.
+6. Methoden nach Beweislage, Risiko, Vollstreckbarkeit und Betrag vergleichen.
 
-3. Die Beklagte wird verurteilt, an die Klaegerin Schadensersatz in Hoehe
- von [BETRAG] EUR nebst Zinsen zu zahlen (hilfsweise: Schadensersatz nach
- Lizenzanalogie in einer durch das Gericht nach § 287 ZPO zu schaetzenden Hoehe).
+## 5. Arbeitsergebnis
 
-II. BEGRUENDUNG
+Liefere Berechnungsmodell mit Sensitivitäten, Auskunftslücken und begründeter Methodenwahl für Zahlungsantrag oder Vergleich.
 
-A. Sachverhalt
+---
 
-[CHRONOLOGISCHE SACHVERHALTSDARSTELLUNG mit konkreten Daten, Orten, Personen]
+## Skill: `eu-design-schutzumfang-gesamteindruck-pruefen`
 
-Beweis: [ANLAGE K1 — Registrierungsnachweis Marke]
- [ANLAGE K2 — Verwendungsbeispiel der Beklagten vom TT.MM.JJJJ]
- [ANLAGE K3 — Eidesstattliche Versicherung]
+_Prüft den Schutzumfang eines eingetragenen oder nicht eingetragenen Unionsdesigns anhand Darstellung, informierten Benutzers, Gestaltungsfreiheit und Gesamteindruck und erstellt eine Verletzungs- oder Abwehrmatrix._
 
-B. Rechtliche Wuerdigung
+# Schutzumfang eines Unionsdesigns prüfen
 
-1. Verwechslungsgefahr § 9 Abs. 1 Nr. 2 i.V.m. § 14 Abs. 2 Nr. 2 MarkenG
- [...]
+## 1. Einsatz und Ziel
 
-[ORT, DATUM]
-[KANZLEI / NAME, UNTERSCHRIFT]
+Vergleiche die geschützte Darstellung mit der angegriffenen Gestaltung. Technische Idee, Produktkonzept und einzelne Gemeinsamkeiten ersetzen nicht den maßgeblichen Gesamteindruck.
 
-ANLAGENVERZEICHNIS
-K1: Registerauszug Marke [DPMA-AZ] vom [DATUM]
-K2: Screenshot/Produkt-Aufnahme Beklagte vom [DATUM]
-K3: Eidesstattliche Versicherung [NAME] vom [DATUM]
-```
+## 2. Normenanker
 
---- vor Versand klären ---
-1. Welches Verhandlungsziel hat der Mandant? [Bestand / Abfindung / Reputation / Schnelle Loesung]
-2. Welche Kompromisslinien sind absolut? [Mindestabfindung / Freistellung / Zeugnisformulierung]
-3. Sind Anschlusswege erwuenscht? [Mediation / Direktgespraech / Settlement vor Klageerhebung]
+- Artikel 10 der Verordnung über das Unionsdesign in der zeitlich geltenden Fassung: Schutzumfang und Gesamteindruck.
+- Artikel 8: technisch bedingte Merkmale und Verbindungselemente.
+- Artikel 11: Schutzdauer des nicht eingetragenen Unionsdesigns.
+- Artikel 19: Rechte aus eingetragenem und nicht eingetragenem Unionsdesign.
 
-<!-- BEGIN ausformulierungspflicht (autogen) -->
-> **Ausformulierungspflicht und Formatstandard.** Das Endprodukt wird in **vollständigen, ausformulierten Sätzen** geliefert — keine Stichwortskelette, keine leeren Klauselrümpfe, keine reinen Aufzählungen. Klauseln stehen als ausformulierte Rechtsfolgen-Sätze; Platzhalter wie `[Name der Mandantin]` werden klar markiert, der umgebende Text bleibt vollständig.
->
-> **Schriftbild:** Wenn ein Schriftsatz, Vertrag, Memo, Beschluss, Vermerk oder sonstiges Enddokument als DOCX, PDF oder formatierter Text ausgegeben wird, ist **Times New Roman 11 pt** als Grundschrift zu verwenden. Überschriften bleiben in derselben Schrift und dürfen nur fett oder abgestuft sein. Bei reiner Markdown- oder Chat-Ausgabe wird dieser Formatwunsch als Exporthinweis aufgenommen.
->
-> **Nummerierung:** Gliederung ausschließlich dezimal (`1`, `1.1`, `1.1.1` und so weiter). Keine römischen Ziffern, keine Buchstaben- oder Mischgliederung.
-<!-- END ausformulierungspflicht (autogen) -->
+## 3. Prüfprogramm
 
-## Prüfkette vor Versand
+1. Registerdarstellung, Priorität, Erzeugnisangabe und Schutzform sichern.
+2. sichtbare, technisch bedingte und nicht beanspruchte Merkmale trennen.
+3. informierten Benutzer und Aufmerksamkeitsgrad produktbezogen bestimmen.
+4. Gestaltungsfreiheit des Entwerfers im Anmeldezeitpunkt anhand Formenschatz belegen.
+5. prägenden Gesamteindruck strukturiert vergleichen, ohne Einzelmerkmale schematisch zu zählen.
+6. Beim nicht eingetragenen Design zusätzlich Nachahmung und Offenbarungszeitpunkt prüfen.
 
-1. Antrag tenoriert (urteilstauglich, vollstreckbar)?
-2. Jede Tatbestandsmerkmal-Subsumtion mit eigener Tatsache + Beweis hinterlegt?
-3. Frist eingehalten (Eingangsstempel/elektronische Uebermittlung)?
-4. Zuständigkeit positiv festgestellt?
-5. Streitwert plausibel, ggf. Anlage Streitwert-Berechnung?
-6. Anlagenverzeichnis vollstaendig und nummerisch konsistent?
-7. beA-/EGVP-Konformitaet (PDF/A, ERVV-Signatur)?
-8. Vier-Augen-Prüfung durch Sozius oder Senior-Anwaeltin?
+## 4. Beweismerker
 
-## Substantiierungs-Fallen im gewerblichen Rechtsschutz
+- Hochauflösende Registerbilder und Verletzungsmuster in gleichen Ansichten gegenüberstellen.
+- Marktübliche Merkmale und technische Zwänge belegen.
+- Schutzbestand und Verletzung getrennt behandeln.
 
-- **Pauschaltatsachen** ohne konkrete Daten ("seit Jahren", "regelmaessig") werden vom Gericht uebergangen.
-- **Beweisangebot zur falschen Tatsache:** Beweisthema deckt nur Teilaussage ab.
-- **Verspaeteter Vortrag** § 296 ZPO: Ruegepflicht-Fristen beachten.
-- **Anspruchskonkurrenz** nicht vollstaendig ausgeschoepft: MarkenG + UWG + UrhG können kumulieren.
-- **Verwechslungs-Analyse zu kurz**: alle drei Dimensionen (klanglich, schriftbildlich, begrifflich) bearbeiten.
+## 5. Arbeitsergebnis
 
-## Cross-Refs
-
-- `erstgespraech-mandatsannahme` — Tatsachen-Grundlage und Streitwertskizze
-- `vergleichsverhandlung-strategie` — paralleler Vergleichsversuch
-- `fachanwalt-gewerblicher-rechtsschutz-abmahnung-uwg` — UWG-spezifische Bausteine
-
-> Quellenregel: Entscheidungen nur nach Prüfung einer amtlichen oder frei zugänglichen Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage ausgeben.
+Erstelle visuellen Merkmalsvergleich, Gesamteindrucksbewertung und einen bestimmten Unterlassungsantrag oder eine Nichtverletzungsposition.
 
 ---
 

@@ -1,6 +1,6 @@
 ---
 name: wochen-liqui-ausgabengruppen-cash
-description: "Wenn es um Wochen Liqui Ausgabengruppen Cash in Liquiditätsplanung — Power geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Wochen Liqui Ausgabengruppen Cash: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Wochen Liqui Ausgabengruppen Cash

@@ -1,6 +1,6 @@
 ---
 name: ust-innergemeinschaftlich-6a-ustg
-description: "Wenn es um Innergemeinschaftliche Lieferung — Paragraf 6a UStG und Beleg- und Buchnachweis in Steuerrecht – Steuerberater und Anwälte geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen."
+description: "Für Innergemeinschaftliche Lieferung — Paragraf 6a UStG und Beleg- und Buchnachweis: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Innergemeinschaftliche Lieferung — § 6a UStG und Beleg- und Buchnachweis

@@ -1,6 +1,6 @@
 ---
 name: zugang-empfangsbeduerftiger-formgerechter
-description: "Wenn es um Zugang empfangsbedürftiger Willenserklärungen Paragraf 130 BGB in Schriftform und Textform im BGB geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Zugang empfangsbedürftiger Willenserklärungen Paragraf 130 BGB: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Zugang empfangsbedürftiger Willenserklärungen Paragraf 130 BGB

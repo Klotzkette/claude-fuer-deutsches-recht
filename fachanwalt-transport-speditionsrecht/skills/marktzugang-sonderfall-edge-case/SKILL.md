@@ -1,6 +1,6 @@
 ---
 name: marktzugang-sonderfall-edge-case
-description: "Wenn es um Marktzugang: Sonderfall und Edge-Case-Prüfung in Fachanwalt Transport Speditionsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Marktzugang: Sonderfall und Edge-Case-Prüfung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Marktzugang: Sonderfall und Edge-Case-Prüfung

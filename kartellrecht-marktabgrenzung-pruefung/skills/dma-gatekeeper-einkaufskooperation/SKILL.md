@@ -1,6 +1,6 @@
 ---
 name: dma-gatekeeper-einkaufskooperation
-description: "Wenn es um DMA und Gatekeeper-Markt in Kartellrecht — Marktabgrenzungsprüfung geht: rechnet Schwellen, Beträge, Varianten und Kontrollannahmen durch; liefert eine Berechnungstabelle mit Schwellen, Annahmen und Kontrollfragen."
+description: "Für DMA und Gatekeeper-Markt: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # DMA und Gatekeeper-Markt

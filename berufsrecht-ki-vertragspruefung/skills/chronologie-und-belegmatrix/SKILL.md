@@ -1,6 +1,6 @@
 ---
 name: chronologie-und-belegmatrix
-description: "Wenn es um Chronologie und Belegmatrix in anwaltlichem Berufsrecht und Vertragsprüfung geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Chronologie mit Belegmatrix und Widerspruchsliste."
+description: "Für Chronologie und Belegmatrix: ordnet Akte, Belege und Lücken; Ergebnis: Chronologie mit Beleg- und Widerspruchsmatrix. Fachgebiet: anwaltlichem Berufsrecht und Vertragsprüfung."
 ---
 
 # Chronologie und Belegmatrix

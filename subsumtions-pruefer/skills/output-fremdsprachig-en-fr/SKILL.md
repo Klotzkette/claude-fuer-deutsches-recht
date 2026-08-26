@@ -1,6 +1,6 @@
 ---
 name: output-fremdsprachig-en-fr
-description: "Wenn es um Output: Fremdsprachig (Englisch und Französisch) in Subsumtions-Prüfer geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Output: Fremdsprachig (Englisch und Französisch): ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Output: Fremdsprachig (Englisch und Französisch)

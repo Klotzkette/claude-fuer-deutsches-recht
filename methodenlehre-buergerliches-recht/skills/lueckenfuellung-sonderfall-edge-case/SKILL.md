@@ -1,6 +1,6 @@
 ---
 name: lueckenfuellung-sonderfall-edge-case
-description: "Wenn es um Lückenfüllung bei Sonderfällen und Edge Cases in Methodenlehre bürgerliches Recht geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
+description: "Für Lückenfüllung bei Sonderfällen und Edge Cases: ordnet Akte, Belege und Lücken; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Lückenfüllung bei Sonderfällen und Edge Cases

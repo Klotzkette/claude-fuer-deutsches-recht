@@ -1,6 +1,6 @@
 ---
 name: lease-050-lessons-learned-nach-rueckgabe
-description: "Wenn es um Leasingrecht: Lessons Learned nach Rückgabe in Leasingrecht Praxis geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Leasingrecht: Lessons Learned nach Rückgabe: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Leasingrecht: Lessons Learned nach Rückgabe

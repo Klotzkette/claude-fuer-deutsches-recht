@@ -1,6 +1,6 @@
 ---
 name: erstpruefung-rollen-mandatsziel
-description: "Wenn es um Erstpruefung Rollen und Mandatsziel in Forderungsmanagement — Klagewerkstatt geht: klärt Rolle, Ziel, Frist, Unterlagen und den passenden nächsten Fachskill; liefert eine Tatbestands- oder Anspruchsmatrix mit Gegenargumenten."
+description: "Für Erstprüfung Rollen und Mandatsziel: routet Rolle, Frist, Unterlagen und Fachschritt; Ergebnis: Tatbestands- oder Anspruchsmatrix."
 ---
 
 # Erstpruefung Rollen und Mandatsziel

@@ -1,6 +1,6 @@
 ---
 name: leitungserklaerung-cyber-attestation
-description: "Wenn es um Leitungserklärung Cyber Attestation in NIS-2, Cybersecurity und IT-Sicherheits-Compliance geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
+description: "Für Leitungserklärung Cyber Attestation: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Leitungserklärung Cyber Attestation

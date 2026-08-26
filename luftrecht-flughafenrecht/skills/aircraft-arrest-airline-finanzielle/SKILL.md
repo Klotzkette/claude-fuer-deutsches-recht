@@ -1,6 +1,6 @@
 ---
 name: aircraft-arrest-airline-finanzielle
-description: "Wenn es um Aircraft Arrest International – grenzüberschreitender Flugzeug-Arrest in Luftrecht und Flughafenrecht geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
+description: "Für Aircraft Arrest International – grenzüberschreitender Flugzeug-Arrest: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Aircraft Arrest International – grenzüberschreitender Flugzeug-Arrest

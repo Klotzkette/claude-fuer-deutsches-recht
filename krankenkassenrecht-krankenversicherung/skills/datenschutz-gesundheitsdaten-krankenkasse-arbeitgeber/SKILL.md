@@ -1,6 +1,6 @@
 ---
 name: datenschutz-gesundheitsdaten-krankenkasse-arbeitgeber
-description: "Wenn es um Datenschutz: Gesundheitsdaten, Krankenkasse und Arbeitgeber in Krankenkassenrecht und Krankenversicherung geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Datenschutz: Gesundheitsdaten, Krankenkasse und Arbeitgeber: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Datenschutz: Gesundheitsdaten, Krankenkasse und Arbeitgeber

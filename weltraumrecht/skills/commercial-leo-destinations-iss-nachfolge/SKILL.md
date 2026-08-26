@@ -1,6 +1,6 @@
 ---
 name: commercial-leo-destinations-iss-nachfolge
-description: "Wenn es um Commercial LEO Destinations - ISS-Nachfolge in Weltraumrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Commercial LEO Destinations - ISS-Nachfolge: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Commercial LEO Destinations - ISS-Nachfolge

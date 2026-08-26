@@ -1,6 +1,6 @@
 ---
 name: mandant-verlangt-aggressive-gestaltung-rechtsprechungscheck
-description: "Wenn es um Mandant Verlangt Aggressive Gestaltung Rechtsprechungscheck in Berufsrecht Steuerberater geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Gegenprüfung mit Fehler-, Beweis- und Fristencheck."
+description: "Für Mandant Verlangt Aggressive Gestaltung Rechtsprechungscheck: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Steuerberater: mandant verlangt aggressive gestaltung - Rechtsprechungscheck, stärkste Gegenansicht und Red-Team-Korrektur

@@ -1,6 +1,6 @@
 ---
 name: spezial-mandatsperspektive-livequellen-und-rechtsprechungscheck
-description: "Wenn es um Mandatsperspektive: Livequellen- und Rechtsprechungscheck in Normenkontrolle Bauleitplanung — Paragraf 47 VwGO geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Mandatsperspektive: Livequellen- und Rechtsprechungscheck: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Mandatsperspektive: Livequellen- und Rechtsprechungscheck

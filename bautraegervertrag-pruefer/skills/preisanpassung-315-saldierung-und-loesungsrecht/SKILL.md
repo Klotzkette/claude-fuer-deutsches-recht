@@ -1,6 +1,6 @@
 ---
 name: preisanpassung-315-saldierung-und-loesungsrecht
-description: "Wenn es um Preisanpassung, Paragraf 315 BGB, Saldierung und Lösungsrecht in Bauträgervertrag-Prüfer geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
+description: "Für Preisanpassung, Paragraf 315 BGB, Saldierung und Lösungsrecht: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Preisanpassung, § 315 BGB, Saldierung und Lösungsrecht

@@ -1,6 +1,6 @@
 ---
 name: vertraulichkeit-vs-anhoerung
-description: "Wenn es um Vertraulichkeit Vs Anhoerung in Hinweisgeberschutz, Meldestellen und NDA-Konflikte geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Vertraulichkeit Vs Anhörung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt. Fachgebiet: Hinweisgeberschutz, Meldestellen und NDA-Konflikte. Route: vertraulichkeit-vs-anhoerung."
 ---
 
 # Vertraulichkeit Vs Anhoerung

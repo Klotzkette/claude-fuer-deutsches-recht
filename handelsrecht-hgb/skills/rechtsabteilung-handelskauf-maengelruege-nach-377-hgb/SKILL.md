@@ -1,6 +1,6 @@
 ---
 name: rechtsabteilung-handelskauf-maengelruege-nach-377-hgb
-description: "Wenn es um Rechtsabteilung: Handelskauf-Mängelrüge nach Paragraf 377 HGB in Handelsrecht HGB geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Rechtsabteilung: Handelskauf-Mängelrüge nach Paragraf 377 HGB: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Rechtsabteilung: Handelskauf-Mängelrüge nach § 377 HGB

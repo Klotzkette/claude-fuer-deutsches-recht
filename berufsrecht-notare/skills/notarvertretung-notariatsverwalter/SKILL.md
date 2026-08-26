@@ -1,6 +1,6 @@
 ---
 name: notarvertretung-notariatsverwalter
-description: "Wenn es um Notarvertretung Notariatsverwalter in Berufsrecht Notare geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Gegenprüfung mit Fehler-, Beweis- und Fristencheck."
+description: "Für Notarvertretung Notariatsverwalter: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Notare: notarvertretung und notariatsverwalter - Rechtsprechungscheck, stärkste Gegenansicht und Red-Team-Korrektur

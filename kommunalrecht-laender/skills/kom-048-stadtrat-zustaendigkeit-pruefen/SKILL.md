@@ -1,6 +1,6 @@
 ---
 name: kom-048-stadtrat-zustaendigkeit-pruefen
-description: "Wenn es um Stadtrat Zustaendigkeit Pruefen in Kommunalrecht der Länder geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Stadtrat Zuständigkeit Prüfen: prüft Frist, Form, Zuständigkeit und Eilbedarf; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt. Fachgebiet: Kommunalrecht der Länder. Route: kom-048-stadtrat-zustaendigkeit-pruefen."
 ---
 
 # Stadtrat Zustaendigkeit Pruefen

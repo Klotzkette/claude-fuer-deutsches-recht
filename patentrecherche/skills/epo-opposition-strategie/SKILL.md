@@ -1,6 +1,6 @@
 ---
 name: epo-opposition-strategie
-description: "Wenn es um EPO-Einspruch: Strategie in patentrecherche geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für EPO-Einspruch: Strategie: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Verhandlungs- oder Eskalationslinie."
 ---
 
 # EPO-Einspruch: Strategie

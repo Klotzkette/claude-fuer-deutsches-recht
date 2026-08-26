@@ -1,6 +1,6 @@
 ---
 name: 011-pompeji-graffiti-sozialquelle
-description: "Wenn es um Römisches Recht: Pompeji Graffiti als Rechts- und Sozialquelle in Römisches Recht geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Dokumentenmatrix mit Nachforderungsliste."
+description: "Für Römisches Recht: Pompeji Graffiti als Rechts- und Sozialquelle: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Römisches Recht: Pompeji Graffiti als Rechts- und Sozialquelle

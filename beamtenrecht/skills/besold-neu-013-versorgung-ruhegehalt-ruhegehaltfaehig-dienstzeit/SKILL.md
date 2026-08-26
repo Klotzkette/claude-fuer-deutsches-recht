@@ -1,6 +1,6 @@
 ---
 name: besold-neu-013-versorgung-ruhegehalt-ruhegehaltfaehig-dienstzeit
-description: "Wenn es um Beamtenrecht: Versorgung Ruhegehalt ruhegehaltfähige Dienstzeit in Beamtenrecht geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Beamtenrecht: Versorgung Ruhegehalt ruhegehaltfähige Dienstzeit: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Schnittstellenkarte mit Zuständigkeits- und Nachweisfragen."
 ---
 
 # Beamtenrecht: Versorgung Ruhegehalt ruhegehaltfähige Dienstzeit

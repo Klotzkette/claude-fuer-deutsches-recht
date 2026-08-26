@@ -1,6 +1,6 @@
 ---
 name: festsetzungen-bestimmtheit-und-erforderlichkeit
-description: "Wenn es um Bestimmtheit und Erforderlichkeit von Festsetzungen in Normenkontrolle Bauleitplanung — Paragraf 47 VwGO geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
+description: "Für Bestimmtheit und Erforderlichkeit von Festsetzungen: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Bestimmtheit und Erforderlichkeit von Festsetzungen

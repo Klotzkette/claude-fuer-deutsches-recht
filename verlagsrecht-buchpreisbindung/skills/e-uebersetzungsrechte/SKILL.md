@@ -1,6 +1,6 @@
 ---
 name: e-uebersetzungsrechte
-description: "Wenn es um Verl-006 · E-Book, Print, Hörbuch und Audio: Nutzungsrechte und Preisbindung in Verlagsrecht und Buchpreisbindung geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Verl-006 · E-Book, Print, Hörbuch und Audio: Nutzungsrechte und Preisbindung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Verl-006 · E-Book, Print, Hörbuch und Audio: Nutzungsrechte und Preisbindung

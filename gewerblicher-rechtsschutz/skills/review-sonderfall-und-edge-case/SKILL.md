@@ -1,6 +1,6 @@
 ---
 name: review-sonderfall-und-edge-case
-description: "Wenn es um Spezial: Sonderfälle und Edge Cases im Gewerblichen Rechtsschutz in Plugin: Gewerblicher Rechtsschutz geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Spezial: Sonderfälle und Edge Cases im Gewerblichen Rechtsschutz: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Spezial: Sonderfälle und Edge Cases im Gewerblichen Rechtsschutz
@@ -142,3 +142,7 @@ Dritter hat Domain registriert, die Marke des Mandanten enthält.
 - `verletzungs-triage` – IP-Verletzung Erstentscheidung
 - `erfindungsmeldung-aufnahme` – ArbnErfG Prozess
 - `takedown-anweisung` – Domain-Takedown
+
+## Vertiefung bei Bedarf
+
+- Bei `spezial-review-sonderfall-und-edge-case` beziehungsweise Review: Sonderfall und Edge-Case-Prüfung: [die zusätzliche Vertiefung laden](./references/vertiefung-spezial-review-sonderfall-und-edge-case.md).

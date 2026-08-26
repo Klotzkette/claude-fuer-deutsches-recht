@@ -1,6 +1,6 @@
 ---
 name: auslandsmandant-steuerdaten-faktenmatrix
-description: "Wenn es um Auslandsmandant Steuerdaten Faktenmatrix in Berufsrecht Steuerberater geht: klärt Rolle, Ziel, Frist, Unterlagen und den passenden nächsten Fachskill; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Auslandsmandant Steuerdaten Faktenmatrix: ordnet Akte, Belege und Lücken; Ergebnis: Schnittstellenkarte mit Zuständigkeits- und Nachweisfragen."
 ---
 
 # Steuerberater: auslandsmandant und steuerdaten - Kaltstart mit Faktenmatrix, Risikoampel und fehlenden Unterlagen

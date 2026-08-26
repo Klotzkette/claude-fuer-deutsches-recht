@@ -1,6 +1,6 @@
 ---
 name: kokain-stoff-pruefen
-description: "Wenn es um Kokain Stoff Prüfen in Betäubungsmittelrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Kokain Stoff Prüfen: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt. Fachgebiet: Betäubungsmittelrecht. Route: kokain-stoff-pruefen."
 ---
 
 # Kokain Stoff Prüfen

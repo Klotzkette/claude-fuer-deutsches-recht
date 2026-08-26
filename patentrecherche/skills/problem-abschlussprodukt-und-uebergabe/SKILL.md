@@ -1,6 +1,6 @@
 ---
 name: problem-abschlussprodukt-und-uebergabe
-description: "Wenn es um Problem: Abschlussprodukt und Übergabe in patentrecherche geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Problem: Abschlussprodukt und Übergabe: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Problem: Abschlussprodukt und Übergabe

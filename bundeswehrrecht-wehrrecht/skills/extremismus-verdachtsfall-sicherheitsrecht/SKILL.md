@@ -1,6 +1,6 @@
 ---
 name: extremismus-verdachtsfall-sicherheitsrecht
-description: "Wenn es um Extremismus Verdachtsfall Sicherheitsrecht in Bundeswehrrecht und Wehrrecht geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
+description: "Für Extremismus Verdachtsfall Sicherheitsrecht: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Extremismus Verdachtsfall Sicherheitsrecht

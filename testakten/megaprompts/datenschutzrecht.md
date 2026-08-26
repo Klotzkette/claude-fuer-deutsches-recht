@@ -2,18 +2,18 @@
 
 ## Zusammensetzung
 
-Diese Vollprüfung enthält top-8 von 367 Skills (gekürzt für das Arbeitsfenster) des Plugins `datenschutzrecht`.
+Diese Vollprüfung enthält top-8 von 285 Skills (gekürzt für das Arbeitsfenster) des Plugins `datenschutzrecht`.
 
 ## Inhaltsverzeichnis
 
 1. **juristischer-argumentationskern** — Schaltet sich ein, wenn in Datenschutzrecht ein juristisches Arbeitsprodukt tragfähig begründet werden muss; verbindet k…
-2. **einstieg-routing** — Wenn es um Einstieg und Routing in Datenschutzrecht geht: klärt Rolle, Ziel, Frist, Unterlagen und den passenden nächste…
-3. **kaltstart-triage** — Wenn es um Kaltstart Triage in Datenschutzrecht geht: klärt Rolle, Ziel, Frist, Unterlagen und den passenden nächsten Fa…
-4. **dsgvo-erstpruefung-und-mandatsziel** — Wenn es um DSGVO: Erstprüfung, Rollenklärung und Mandatsziel in Datenschutzrecht geht: klärt Rolle, Ziel, Frist, Unterla…
-5. **verarbeitungsverzeichnis-formular-portal-und-einreichung** — Wenn es um Verarbeitungsverzeichnis: Formular, Portal und Einreichungslogik in Datenschutzrecht geht: prüft Frist, Form,…
-6. **datenschutz-schadensersatz-art-82-dsgvo-gerichtsstreit** — Wenn es um Datenschutz Schadensersatz — Gerichtsstreit nach Art. 82 DSGVO in Datenschutzrecht geht: prüft Frist, Form, Z…
-7. **dsgvo-erstpruefung-rollenklaerung-mandatsziel** — Wenn es um DSGVO: Erstprüfung, Rollenklärung und Mandatsziel in Datenschutzrecht geht: klärt Rolle, Ziel, Frist, Unterla…
-8. **datenschutz-auskunftei-restschuldbefreiung-art17** — Wenn es um Art. 17 DSGVO gegen Auskunftei nach Restschuldbefreiung in Datenschutzrecht geht: prüft Frist, Form, Zuständi…
+2. **einstieg-routing** — Für Einstieg und Routing: routet Rolle, Frist, Unterlagen und Fachschritt; Ergebnis: Prüfprodukt mit Risiko und nächstem…
+3. **kaltstart-triage** — Für Kaltstart Triage: routet Rolle, Frist, Unterlagen und Fachschritt; Ergebnis: Prüfprodukt mit Risiko und nächstem Sch…
+4. **dsgvo-erstpruefung-und-mandatsziel** — Für DSGVO: Erstprüfung, Rollenklärung und Mandatsziel: routet Rolle, Frist, Unterlagen und Fachschritt; Ergebnis: Tatbes…
+5. **datenschutz-schadensersatz-art-82-dsgvo-gerichtsstreit** — Für Datenschutz Schadensersatz — Gerichtsstreit nach Art. 82 DSGVO: ordnet Norm, Beweislast und Gegenargument; Ergebnis:…
+6. **paket-internationaler-bezug-und-schnittstellen** — Für Paket: Internationaler Bezug und Schnittstellen: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Schnittstellen…
+7. **datenpanne-schriftsatz-brief-und-memo-bausteine** — Für Datenpanne: Schriftsatz-, Brief- und Memo-Bausteine: erstellt Entwurf mit Antrag, Beweis und Anlagen; Ergebnis: Schr…
+8. **behoerdenpaket-zahlen-schwellenwerte-berechnung** — Für Behördenpaket: Zahlen, Schwellenwerte und Berechnung: rechnet Beträge, Schwellen und Varianten; Ergebnis: Berechnung…
 
 ---
 
@@ -137,7 +137,7 @@ Ausgangspunkt für dieses Plugin: Verantwortlicher für Rechtmäßigkeit, TOMs u
 
 ## Skill: `einstieg-routing`
 
-_Wenn es um Einstieg und Routing in Datenschutzrecht geht: klärt Rolle, Ziel, Frist, Unterlagen und den passenden nächsten Fachskill; liefert eine Fristen- und Risikoampel mit Sofortschritten._
+_Für Einstieg und Routing: routet Rolle, Frist, Unterlagen und Fachschritt; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt. Fachgebiet: Datenschutzrecht._
 
 # Einstieg und Routing
 
@@ -191,7 +191,7 @@ Wenn Fristdruck besteht, zuerst Kenntniszeitpunkt, Monatsfrist, 72-Stunden-Frist
 
 ## Skill: `kaltstart-triage`
 
-_Wenn es um Kaltstart Triage in Datenschutzrecht geht: klärt Rolle, Ziel, Frist, Unterlagen und den passenden nächsten Fachskill; liefert eine Fristen- und Risikoampel mit Sofortschritten._
+_Für Kaltstart Triage: routet Rolle, Frist, Unterlagen und Fachschritt; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt. Fachgebiet: Datenschutzrecht._
 
 ## Direktstart: lesen, entscheiden, liefern
 
@@ -409,7 +409,7 @@ Der Anwendungsbereich umfasst Unternehmen als Verantwortliche (Art. 4 Nr. 7 DSGV
 
 ## Skill: `dsgvo-erstpruefung-und-mandatsziel`
 
-_Wenn es um DSGVO: Erstprüfung, Rollenklärung und Mandatsziel in Datenschutzrecht geht: klärt Rolle, Ziel, Frist, Unterlagen und den passenden nächsten Fachskill; liefert eine Fristen- und Risikoampel mit Sofortschritten. Auswahlstichwort: Dsgvo Erstpruefung Und Mandatsziel; Arbeitsfeld: Datenschutzrecht._
+_Für DSGVO: Erstprüfung, Rollenklärung und Mandatsziel: routet Rolle, Frist, Unterlagen und Fachschritt; Ergebnis: Tatbestands- oder Anspruchsmatrix. Fachgebiet: Datenschutzrecht. Route: dsgvo-erstpruefung-und-mandatsziel._
 
 # DSGVO: Erstprüfung, Rollenklärung und Mandatsziel
 
@@ -457,47 +457,9 @@ Einwilligung (Art. 6 Abs. 1 lit. a) ist klar, aber jederzeit widerrufbar (Art. 7
 
 ---
 
-## Skill: `verarbeitungsverzeichnis-formular-portal-und-einreichung`
-
-_Wenn es um Verarbeitungsverzeichnis: Formular, Portal und Einreichungslogik in Datenschutzrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. Auswahlstichwort: Verarbeitungsverzeichnis Formular Portal Und Einreichung; Arbeitsfeld: Datenschutzrecht._
-
-# Verarbeitungsverzeichnis: Formular, Portal und Einreichungslogik
-
-
-## Arbeitsweg
-
-- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
-- Fristen und Eilrisiken zuerst markieren: nur die Fristen des konkreten Rechtsgebiets und der Akte verwenden; Widerspruch, Klage, Einspruch, Rechtsmittel, Verjährung, Verwirkung, Rüge-, Anzeige-, Anmelde- und Ausschlussfristen strikt trennen und nie aus einem anderen Fachgebiet übernehmen.
-- Tragende Normen verifizieren: DSGVO; BDSG; TDDDG; Art. 44 ff — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
-- Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
-- Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
-
-**Fokus:** Verarbeitungsverzeichnis: Formular, Portal und Einreichungslogik.
-
-## Spezialwissen: Verarbeitungsverzeichnis: Formular, Portal und Einreichungslogik
-- **Normen-/Quellenanker:** DSGVO, BDSG, TDDDG, PIA, DPIA, AVV, Art. 15, Art. 33, Art. 44, US, DPF, SCC.
-
-## Fallweichen
-Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur Rückfragen, die die nächste Weiche verändern:
-
-1. Welche Rolle hat die fragende Person und wer ist Gegenüber?
-2. Welches konkrete Ziel soll erreicht oder verhindert werden?
-3. Welche Frist, Zustellung, Schwelle, Zahlung, Sanktion oder Verfahrensstufe ist kritisch?
-4. Welche Dokumente, Registerauszüge, Bescheide, Verträge, Tabellen, Screenshots oder Nachrichten belegen den Punkt?
-5. Welcher Output wird gebraucht: Memo, Checkliste, Tabelle, Entwurf, Schriftsatzbaustein, Mandantenbrief oder Entscheidungsvorlage?
-
-## Arbeitsworkflow
-1. **Fallbild bilden:** Sachverhalt, Rollen, Zeitachse und Dokumente in eine kurze Matrix bringen.
-2. **Rechtsrahmen setzen:** Normen, Zuständigkeiten, Fristen, Formfragen und Verfahrensstand zum Themenfeld **Verarbeitungsverzeichnis** prüfen.
-3. **Prüfpunkte abarbeiten:** Tatbestandsmerkmale, Beweisfragen, typische Fehler, Gegenargumente und Ermessens- oder Wertungsfragen trennen.
-4. **Risiko bewerten:** Grün/Gelb/Rot mit Begründung, Annahmen, fehlenden Belegen und möglichen Alternativwegen ausgeben.
-5. **Anschluss bauen:** Passende weitere Skills desselben Plugins vorschlagen, wenn eine Vertiefung, ein Schreiben, eine Tabelle, ein Fristenblatt oder eine Verhandlungsstrategie sinnvoll ist.
-
----
-
 ## Skill: `datenschutz-schadensersatz-art-82-dsgvo-gerichtsstreit`
 
-_Wenn es um Datenschutz Schadensersatz — Gerichtsstreit nach Art. 82 DSGVO in Datenschutzrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. Auswahlstichwort: Datenschutz Schadensersatz Art 82 Dsgvo Gerichtsstreit; Arbeitsfeld: Datenschutzrecht._
+_Für Datenschutz Schadensersatz — Gerichtsstreit nach Art. 82 DSGVO: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt. Fachgebiet: Datenschutzrecht. Route: datenschutz-schadensersatz-art-82-dsgvo-gerichtsstreit._
 
 # Datenschutz Schadensersatz — Gerichtsstreit nach Art. 82 DSGVO
 
@@ -629,28 +591,24 @@ Sieben-Fragen-Diagnose:
 
 ---
 
-## Skill: `dsgvo-erstpruefung-rollenklaerung-mandatsziel`
+## Skill: `paket-internationaler-bezug-und-schnittstellen`
 
-_Wenn es um DSGVO: Erstprüfung, Rollenklärung und Mandatsziel in Datenschutzrecht geht: klärt Rolle, Ziel, Frist, Unterlagen und den passenden nächsten Fachskill; liefert eine Fristen- und Risikoampel mit Sofortschritten. Auswahlstichwort: Dsgvo Erstpruefung Rollenklaerung Mandatsziel; Arbeitsfeld: Datenschutzrecht._
+_Für Paket: Internationaler Bezug und Schnittstellen: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Schnittstellenkarte mit Zuständigkeits- und Nachweisfragen. Fachgebiet: Datenschutzrecht. Route: paket-internationaler-bezug-und-schnittstellen._
 
-# DSGVO: Erstprüfung, Rollenklärung und Mandatsziel
+# Paket: Internationaler Bezug und Schnittstellen
 
-## Direktstart: lesen, entscheiden, liefern
 
-Beginne nicht mit einem Fragenkatalog. Wenn Material vorliegt, lies es zuerst und starte mit einer verwertbaren Arbeitshypothese:
+## Arbeitsweg
 
-- Frist oder Sofortrisiko.
-- erkannte Rolle, Zielrichtung und Verfahrensstand.
-- tragende Tatsachen aus dem Material.
-- bester nächster Arbeitsschritt mit direkt nutzbarem Output.
+- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
+- Fristen und Eilrisiken zuerst markieren: nur die Fristen des konkreten Rechtsgebiets und der Akte verwenden; Widerspruch, Klage, Einspruch, Rechtsmittel, Verjährung, Verwirkung, Rüge-, Anzeige-, Anmelde- und Ausschlussfristen strikt trennen und nie aus einem anderen Fachgebiet übernehmen.
+- Tragende Normen verifizieren: DSGVO; BDSG; TDDDG; Art. 44 ff — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
+- Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
+- Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
-Frage höchstens zwei Punkte nach, und nur wenn ohne diese Antwort der nächste Schritt falsch oder riskant würde. Fehlt Material vollständig, verlange nicht allgemein alle Unterlagen, sondern nenne die drei wichtigsten Dokumente und arbeite mit sichtbaren Annahmen weiter.
+**Fokus:** Paket: Internationaler Bezug und Schnittstellen.
 
-Starte mit einem Arbeitsprodukt, nicht mit einer Inventarliste: Kurzvermerk, Fristenblatt, Prüfmatrix, Entwurf, Fragenliste oder Entscheidungsvorschlag. Routing ist nur Mittel zum Zweck. Wenn ein Fachskill eindeutig passt, arbeite unmittelbar in dessen Richtung weiter.
-
-Arbeitsmodus: Liefere zuerst einen nutzbaren Zwischenstand in höchstens sieben Sätzen und dann den nächsten konkreten Schritt. Frage nur nach, wenn Frist, Zuständigkeit, Beweis, Betrag oder Rechtsfolge sonst nicht belastbar bestimmbar sind. Tabellen nur für Fristen, Belege, Beträge, Varianten oder Streitstoff.
-
-## Spezialwissen: DSGVO: Erstprüfung, Rollenklärung und Mandatsziel
+## Spezialwissen: Paket: Internationaler Bezug und Schnittstellen
 - **Normen-/Quellenanker:** DSGVO, BDSG, TDDDG, PIA, DPIA, AVV, Art. 15, Art. 33, Art. 44, US, DPF, SCC.
 
 ## Fallweichen
@@ -664,30 +622,33 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 
 ## Arbeitsworkflow
 1. **Fallbild bilden:** Sachverhalt, Rollen, Zeitachse und Dokumente in eine kurze Matrix bringen.
-2. **Rechtsrahmen setzen:** Normen, Zuständigkeiten, Fristen, Formfragen und Verfahrensstand zum Themenfeld **DSGVO** prüfen.
+2. **Rechtsrahmen setzen:** Normen, Zuständigkeiten, Fristen, Formfragen und Verfahrensstand zum Themenfeld **Behördenpaket Drittlandstransfer** prüfen.
 3. **Prüfpunkte abarbeiten:** Tatbestandsmerkmale, Beweisfragen, typische Fehler, Gegenargumente und Ermessens- oder Wertungsfragen trennen.
 4. **Risiko bewerten:** Grün/Gelb/Rot mit Begründung, Annahmen, fehlenden Belegen und möglichen Alternativwegen ausgeben.
 5. **Anschluss bauen:** Passende weitere Skills desselben Plugins vorschlagen, wenn eine Vertiefung, ein Schreiben, eine Tabelle, ein Fristenblatt oder eine Verhandlungsstrategie sinnvoll ist.
 
-## DSGVO-Erstprüfung: 7-Schritte-Matrix
-1. **Personenbezug:** Liegen Daten i.S.d. Art. 4 Nr. 1 vor? Pseudonymisierung ohne Schlüssel = noch personenbezogen (BGH); Anonymisierung technisch oft nicht belastbar.
-2. **Rolle:** Verantwortlicher (Art. 4 Nr. 7) — entscheidet über Mittel und Zwecke; Auftragsverarbeiter (Art. 4 Nr. 8) — verarbeitet auf Weisung; Gemeinsame Verantwortliche (Art. 26).
-3. **Rechtsgrundlage Art. 6:** Einwilligung (lit. a), Vertrag (lit. b), gesetzliche Pflicht (lit. c), berechtigtes Interesse (lit. f) — letzteres mit LIA.
-4. **Besondere Kategorien Art. 9?** Gesundheit, Religion, sexuelle Orientierung, biometrische ID, ethnische Herkunft — eigene Rechtsgrundlage.
-5. **DSFA-Pflicht Art. 35?** Bei voraussichtlich hohem Risiko (Profiling, sensible Daten, neue Technologien, Beobachtung öffentl. Bereich).
-6. **Drittlandstransfer:** EU/EWR/Adäquanzbeschluss → frei. USA → DPF/SCC + TIA. Sonstige → SCC + TIA.
-7. **Ziel:** Compliance-Aufbau, Auskunft beantworten, Datenpanne melden, Behörde verteidigen?
+## Internationaler Bezug Datenschutz — Schnittstellen
+- **Räumlicher Anwendungsbereich DSGVO Art. 3:**
+ - Abs. 1: Verantwortlicher/Auftragsverarbeiter mit Niederlassung in EU/EWR.
+ - Abs. 2: Drittlandsanbieter, der Waren/Dienste an EU-Betroffene anbietet (lit. a) oder Verhalten in EU beobachtet (lit. b).
+- **Drittlandstransfer Art. 44 ff. DSGVO:**
+ - **Adäquanzbeschluss Art. 45**: aktuelle Liste auf ec.europa.eu (z. B. Schweiz, UK, Israel, Japan, Korea, Andorra, Argentinien etc.).
+ - **DPF (US-Adäquanz)**: VO 2023/1795 — nur teilnehmende US-Unternehmen (Liste dataprivacyframework.gov).
+ - **SCC** (Beschluss 2021/914): Modul 1 (C-C), 2 (C-P), 3 (P-P), 4 (P-C); + Annex II TOM + Annex III Subunternehmer + ggf. Annex I Beteiligte.
+ - **TIA (Transfer Impact Assessment)**: nach Schrems II (Rs. C-311/18) Pflicht; nach EDSA-Empfehlung 01/2020.
+- **Behördenpaket:** Standardformulare BfDI/LDI/LDA; ggf. Auskunftsersuchen Art. 58 Abs. 1 lit. a, Anordnungen lit. d.
+- **EU/EWR-Niederlassung:** Bei Anbieter aus Drittstaat → Pflicht Vertreter Art. 27 DSGVO.
 
-## Trade-off
-Einwilligung (Art. 6 Abs. 1 lit. a) ist klar, aber jederzeit widerrufbar (Art. 7 Abs. 3) — bei laufender Verarbeitung problematisch (z. B. KI-Modell-Training). Berechtigtes Interesse (lit. f) ist robuster, aber abwägungsanfällig — dokumentierte LIA (Legitimate Interest Assessment) ist Pflicht.
+## Praxis-Tipp
+DPF-Mitgliedschaft prüfen mit Datum: ein US-Unternehmen kann zwischenzeitlich aus dem DPF ausscheiden. Eine "wir nutzen DPF"-Aussage ohne aktuelle Listenüberprüfung trägt rechtlich nicht — vor jeder Bewertung dataprivacyframework.gov-Liste sichtbar dokumentieren (Screenshot, Datum).
 
 ---
 
-## Skill: `datenschutz-auskunftei-restschuldbefreiung-art17`
+## Skill: `datenpanne-schriftsatz-brief-und-memo-bausteine`
 
-_Wenn es um Art. 17 DSGVO gegen Auskunftei nach Restschuldbefreiung in Datenschutzrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. Auswahlstichwort: Datenschutz Auskunftei Restschuldbefreiung Art17; Arbeitsfeld: Datenschutzrecht._
+_Für Datenpanne: Schriftsatz-, Brief- und Memo-Bausteine: erstellt Entwurf mit Antrag, Beweis und Anlagen; Ergebnis: Schriftsatz mit Begründungs- und Anlagenlogik. Fachgebiet: Datenschutzrecht. Route: datenpanne-schriftsatz-brief-und-memo-bausteine._
 
-# Art. 17 DSGVO gegen Auskunftei nach Restschuldbefreiung
+# Datenpanne: Schriftsatz-, Brief- und Memo-Bausteine
 
 
 ## Arbeitsweg
@@ -698,21 +659,98 @@ _Wenn es um Art. 17 DSGVO gegen Auskunftei nach Restschuldbefreiung in Datenschu
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
-**Fokus:** Art. 17 DSGVO im Auskunfteifall: Interessenabwägung, öffentliche Registerfrist, Einschränkung, Widerspruch und gerichtliche Durchsetzung.
+**Fokus:** Datenpanne: Schriftsatz-, Brief- und Memo-Bausteine.
 
-## Norm- und Quellenanker
+## Spezialwissen: Datenpanne: Schriftsatz-, Brief- und Memo-Bausteine
+- **Normen-/Quellenanker:** DSGVO, BDSG, TDDDG, PIA, DPIA, AVV, Art. 15, Art. 33, Art. 44, US, DPF, SCC.
 
-DSGVO Art. 6 Abs. 1 lit. f, Art. 17, 18, 21; EuGH C-26/22/C-64/22.
+## Fallweichen
+Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur Rückfragen, die die nächste Weiche verändern:
 
-## Red Flags
+1. Welche Rolle hat die fragende Person und wer ist Gegenüber?
+2. Welches konkrete Ziel soll erreicht oder verhindert werden?
+3. Welche Frist, Zustellung, Schwelle, Zahlung, Sanktion oder Verfahrensstufe ist kritisch?
+4. Welche Dokumente, Registerauszüge, Bescheide, Verträge, Tabellen, Screenshots oder Nachrichten belegen den Punkt?
+5. Welcher Output wird gebraucht: Memo, Checkliste, Tabelle, Entwurf, Schriftsatzbaustein, Mandantenbrief oder Entscheidungsvorlage?
 
-- pauschales Brancheninteresse
-- keine Empfängerliste
-- Löschung mit Berichtigung verwechselt
+## Erste 30 Minuten
 
-## Arbeitsstil
+Führe den Vorfall wie eine Einsatzakte. Liefere zuerst eine Tabelle mit sechs Zeilen:
 
-Konkrete Normen, konkrete Unterlagen, konkrete nächste Handlung. Keine pauschalen Empfehlungen; Rechtsprechung nur verifiziert mit Gericht, Datum, Aktenzeichen und frei zugänglicher Quelle.
+| Punkt | Entscheidung |
+| --- | --- |
+| Kenntniszeitpunkt | wann die für den Verantwortlichen maßgebliche Stelle genug Tatsachen hatte |
+| Eindämmung | welche Systeme, Zugänge, Empfänger oder Datenflüsse sofort gestoppt wurden |
+| Datenkategorien | normale Daten, besondere Kategorien, Kinder, Bankdaten, Gesundheitsdaten, Zugangsdaten |
+| Risiko | kein Risiko, Risiko, hohes Risiko; jeweils mit konkreter Schadenshypothese |
+| Meldeweg | zuständige Aufsicht, vorläufige Meldung, Nachmeldung oder begründete Nichtmeldung |
+| Betroffene | individuelle Benachrichtigung, öffentliche Bekanntmachung oder dokumentierte Ausnahme |
+
+Keine endgültige Entwarnung, solange Logfiles, Empfängerlisten, Schlüsselstatus, Auftragsverarbeiter-Rückmeldung oder forensische Erstbewertung fehlen.
+
+## Arbeitsworkflow
+1. **Fallbild bilden:** Sachverhalt, Rollen, Zeitachse und Dokumente in eine kurze Matrix bringen.
+2. **Rechtsrahmen setzen:** Normen, Zuständigkeiten, Fristen, Formfragen und Verfahrensstand zum Themenfeld **Datenpanne** prüfen.
+3. **Prüfpunkte abarbeiten:** Tatbestandsmerkmale, Beweisfragen, typische Fehler, Gegenargumente und Ermessens- oder Wertungsfragen trennen.
+4. **Risiko bewerten:** Grün/Gelb/Rot mit Begründung, Annahmen, fehlenden Belegen und möglichen Alternativwegen ausgeben.
+5. **Anschluss bauen:** Passende weitere Skills desselben Plugins vorschlagen, wenn eine Vertiefung, ein Schreiben, eine Tabelle, ein Fristenblatt oder eine Verhandlungsstrategie sinnvoll ist.
+
+## Fristenkern Datenpanne
+- **Art. 33 Abs. 1 DSGVO**: Meldung an die zuständige Aufsichtsbehörde unverzüglich, **möglichst innerhalb von 72 Stunden** nach Kenntnis des Verantwortlichen. Verspätung ist zu begründen.
+- **Art. 33 Abs. 2 DSGVO**: Auftragsverarbeiter meldet unverzüglich an Verantwortlichen — vertraglich (Art. 28 Abs. 3 lit. f) konkretere Frist regeln (24 h üblich).
+- **Art. 34 DSGVO**: Benachrichtigung Betroffener nur bei voraussichtlich hohem Risiko; Ausnahmen Abs. 3 (Verschlüsselung, nachträgliche Risikominderung, unverhältnismäßiger Aufwand).
+
+## Bausteine für Memos und Schriftsätze
+- **Notification-Memo intern**: Zeitlinie der Erkenntnis, Datenkategorien, Betroffenenkreis, Risikobewertung, getroffene Eindämmungsmaßnahmen, Folgepflichten.
+- **Behördenmeldeformular**: Bundes- und Landesaufsicht haben Online-Formulare (z. B. BfDI, LDI NRW, BayLDA); Angaben spiegeln Art. 33 Abs. 3 lit. a-d.
+- **Betroffenenanschreiben**: In klarer, einfacher Sprache (Art. 34 Abs. 2 i. V. m. Art. 12 Abs. 1); Inhalt: Vorfallbeschreibung, voraussichtliche Folgen, Maßnahmen, Kontaktstelle.
+
+## Trade-off
+Vorzeitige Übermeldung ist meist sicherer als unterlassene Meldung — die Risikoschwelle ist niedrig (Art. 33 Abs. 1 a. E.: "es sei denn, dass die Verletzung voraussichtlich nicht zu einem Risiko führt"). EDSA-Leitlinien 9/2022 zur Meldung sind die Methodikbasis.
+
+---
+
+## Skill: `behoerdenpaket-zahlen-schwellenwerte-berechnung`
+
+_Für Behördenpaket: Zahlen, Schwellenwerte und Berechnung: rechnet Beträge, Schwellen und Varianten; Ergebnis: Berechnungstabelle mit Annahmen und Kontrollfragen. Fachgebiet: Datenschutzrecht. Route: behoerdenpaket-zahlen-schwellenwerte-berechnung._
+
+# Behördenpaket: Zahlen, Schwellenwerte und Berechnung
+
+## Normenanker
+
+Vor einer rechtlichen Schlussfolgerung diese Anker am aktuellen Normtext prüfen; Spezial- und Landesrecht nur hinzunehmen, wenn es den konkreten Auftrag traegt:
+
+- `Art. 5 Abs. 1 DSGVO` — Grundsaetze der Verarbeitung.
+- `Art. 6 Abs. 1 DSGVO` — Rechtsgrundlagen.
+- `Art. 12 DSGVO` — transparente Information.
+- `Art. 15 DSGVO` — Auskunft.
+- `Art. 17 DSGVO` — Loeschung.
+- `Art. 24 DSGVO` — Verantwortung des Verantwortlichen.
+- `Art. 32 DSGVO` — Sicherheit der Verarbeitung.
+- `Art. 33 DSGVO` — Meldung von Datenschutzverletzungen.
+- `Art. 58 DSGVO` — Befugnisse der Aufsichtsbehoerden.
+- `Art. 83 DSGVO` — Geldbussen.
+
+Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei prüfbare Quelle vorliegen; keine BeckRS-/juris-Blindzitate verwenden.
+
+## Spezialwissen: Behördenpaket: Zahlen, Schwellenwerte und Berechnung
+- **Normen-/Quellenanker:** DSGVO, BDSG, TDDDG, PIA, DPIA, AVV, Art. 15, Art. 33, Art. 44, US, DPF, SCC.
+
+## Fallweichen
+Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur Rückfragen, die die nächste Weiche verändern:
+
+1. Welche Rolle hat die fragende Person und wer ist Gegenüber?
+2. Welches konkrete Ziel soll erreicht oder verhindert werden?
+3. Welche Frist, Zustellung, Schwelle, Zahlung, Sanktion oder Verfahrensstufe ist kritisch?
+4. Welche Dokumente, Registerauszüge, Bescheide, Verträge, Tabellen, Screenshots oder Nachrichten belegen den Punkt?
+5. Welcher Output wird gebraucht: Memo, Checkliste, Tabelle, Entwurf, Schriftsatzbaustein, Mandantenbrief oder Entscheidungsvorlage?
+
+## Arbeitsworkflow
+1. **Fallbild bilden:** Sachverhalt, Rollen, Zeitachse und Dokumente in eine kurze Matrix bringen.
+2. **Rechtsrahmen setzen:** Normen, Zuständigkeiten, Fristen, Formfragen und Verfahrensstand zum Themenfeld **Behördenpaket** prüfen.
+3. **Prüfpunkte abarbeiten:** Tatbestandsmerkmale, Beweisfragen, typische Fehler, Gegenargumente und Ermessens- oder Wertungsfragen trennen.
+4. **Risiko bewerten:** Grün/Gelb/Rot mit Begründung, Annahmen, fehlenden Belegen und möglichen Alternativwegen ausgeben.
+5. **Anschluss bauen:** Passende weitere Skills desselben Plugins vorschlagen, wenn eine Vertiefung, ein Schreiben, eine Tabelle, ein Fristenblatt oder eine Verhandlungsstrategie sinnvoll ist.
 
 ---
 

@@ -1,6 +1,6 @@
 ---
 name: dpia-en-template-full-version
-description: "Wenn es um DPIA Full Template in English in Datenschutzrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für DPIA Full Template in English: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # DPIA Full Template in English

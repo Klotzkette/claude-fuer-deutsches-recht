@@ -1,6 +1,6 @@
 ---
 name: verl-relationslinien-pruefung-im-aufsatz
-description: "Wenn es um Relationslinien-Pruefung im Aufsatz in Verlagsredaktion geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Tatbestands- oder Anspruchsmatrix mit Gegenargumenten."
+description: "Für Relationslinien-Prüfung im Aufsatz: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Tatbestands- oder Anspruchsmatrix. Fachgebiet: Verlagsredaktion. Route: verl-relationslinien-pruefung-im-aufsatz."
 ---
 
 # Relationslinien-Pruefung im Aufsatz

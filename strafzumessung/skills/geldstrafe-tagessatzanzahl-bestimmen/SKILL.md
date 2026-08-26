@@ -1,6 +1,6 @@
 ---
 name: geldstrafe-tagessatzanzahl-bestimmen
-description: "Wenn es um Tagessatzanzahl der Geldstrafe — Paragraf 40 Abs. 1 StGB in Strafzumessung geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Tagessatzanzahl der Geldstrafe — Paragraf 40 Abs. 1 StGB: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Tagessatzanzahl der Geldstrafe — § 40 Abs. 1 StGB

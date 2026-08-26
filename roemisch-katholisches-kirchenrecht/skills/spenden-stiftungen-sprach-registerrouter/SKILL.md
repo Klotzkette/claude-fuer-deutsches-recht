@@ -1,6 +1,6 @@
 ---
 name: spenden-stiftungen-sprach-registerrouter
-description: "Wenn es um Spenden, Stiftungen und Zweckbindung in Römisch-katholisches Kirchenrecht CIC und Katechismus geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Spenden, Stiftungen und Zweckbindung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Einreichungsplan mit Form- und Nachweischeck."
 ---
 
 # Spenden, Stiftungen und Zweckbindung

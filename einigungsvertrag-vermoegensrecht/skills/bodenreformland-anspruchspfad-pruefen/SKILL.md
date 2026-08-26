@@ -1,6 +1,6 @@
 ---
 name: bodenreformland-anspruchspfad-pruefen
-description: "Wenn es um Bodenreformland Anspruchspfad Prüfen in Einigungsvertrag und Vermögensrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Bodenreformland Anspruchspfad Prüfen: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Tatbestands- oder Anspruchsmatrix. Fachgebiet: Einigungsvertrag und Vermögensrecht. Route: bodenreformland-anspruchspfad-pruefen."
 ---
 
 # Bodenreformland Anspruchspfad Prüfen

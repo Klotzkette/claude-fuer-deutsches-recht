@@ -1,6 +1,6 @@
 ---
 name: rueckstellungen-249-hgb
-description: "Wenn es um Rueckstellungen — Paragraf 249 HGB und steuerliche Vorgaben Paragraf 6 Abs. 1 Nr. 3a EStG in Steuerrecht – Steuerberater und Anwälte geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen. Auswahlstichwort: Rueckstellungen 249 HGB; Arbeitsfeld: Steuerrecht – Steuerberater und Anwälte."
+description: "Für Rückstellungen — Paragraf 249 HGB und steuerliche Vorgaben Paragraf 6 Abs. 1 Nr. 3a EStG: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Rueckstellungen — § 249 HGB und steuerliche Vorgaben § 6 Abs. 1 Nr. 3a EStG

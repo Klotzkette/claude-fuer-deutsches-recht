@@ -1,6 +1,6 @@
 ---
 name: hauptverhandlung-international-schnittstellen
-description: "Wenn es um Hauptverhandlung: Internationaler Bezug und Schnittstellen in Strafbefehl-Verteidiger geht: entwickelt Verhandlungsziel, Vergleichskorridor und Eskalationspfad; liefert eine Verhandlungs- oder Eskalationslinie mit Optionen."
+description: "Für Hauptverhandlung: Internationaler Bezug und Schnittstellen: entwickelt Ziel, Vergleich und Eskalation; Ergebnis: Verhandlungs- oder Eskalationslinie."
 ---
 
 # Hauptverhandlung: Internationaler Bezug und Schnittstellen

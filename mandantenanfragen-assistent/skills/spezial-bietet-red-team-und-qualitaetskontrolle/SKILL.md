@@ -1,6 +1,6 @@
 ---
 name: spezial-bietet-red-team-und-qualitaetskontrolle
-description: "Wenn es um Bietet: Red-Team und Qualitätskontrolle in mandantenanfragen-assistent geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Bietet: Red-Team und Qualitätskontrolle: prüft Ergebnis, Beweislast und Gegenposition; Ergebnis: Gegenprüfung mit Beweis- und Fristencheck."
 ---
 
 # Bietet: Red-Team und Qualitätskontrolle

@@ -1,6 +1,6 @@
 ---
 name: makler-abgrenzung
-description: "Wenn es um Abgrenzung Handelsvertreter vom Makler nach Paragrafen 84 HGB und 652 BGB in Handelsvertreterrecht und Vertriebsverträge geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Abgrenzung Handelsvertreter vom Makler nach Paragrafen 84 HGB und 652 BGB: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Abgrenzung Handelsvertreter vom Makler nach §§ 84 HGB und 652 BGB

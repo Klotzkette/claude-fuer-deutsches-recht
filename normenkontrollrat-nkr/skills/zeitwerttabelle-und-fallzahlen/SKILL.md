@@ -1,6 +1,6 @@
 ---
 name: zeitwerttabelle-und-fallzahlen
-description: "Wenn es um NKR-Zeitwerttabelle und Fallzahlen in Normenkontrollrat (NKR) — Prüfung von Gesetzentwuerfen geht: rechnet Schwellen, Beträge, Varianten und Kontrollannahmen durch; liefert eine Berechnungstabelle mit Schwellen, Annahmen und Kontrollfragen."
+description: "Für NKR-Zeitwerttabelle und Fallzahlen: rechnet Beträge, Schwellen und Varianten; Ergebnis: Berechnungstabelle mit Annahmen und Kontrollfragen."
 ---
 
 # NKR-Zeitwerttabelle und Fallzahlen

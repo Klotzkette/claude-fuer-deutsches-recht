@@ -1,6 +1,6 @@
 ---
 name: patent-agent-patentportfolio
-description: "Wenn es um Patent Agent Patentportfolio in Berufsrecht Patentanwälte geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Patent Agent Patentportfolio: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Patentanwälte: patent agent title und werbung - Organisationspflichten, Prävention, Team-Anweisung und Fristenkontrolle

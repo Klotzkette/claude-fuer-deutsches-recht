@@ -1,6 +1,6 @@
 ---
 name: zwitterrecht-alr-ii-1-19-bis-22
-description: "Wenn es um Pralr Zwitterrecht Alr Ii 1 19 Bis 22 in Preußisches Allgemeines Landrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Pralr Zwitterrecht Alr Ii 1 19 bis 22: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Pralr Zwitterrecht Alr Ii 1 19 Bis 22

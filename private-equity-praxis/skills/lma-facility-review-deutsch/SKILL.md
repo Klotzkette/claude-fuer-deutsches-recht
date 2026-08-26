@@ -1,6 +1,6 @@
 ---
 name: lma-facility-review-deutsch
-description: "Wenn es um LMA Facility Review im deutschen Deal in Private Equity Praxis geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für LMA Facility Review im deutschen Deal: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Schnittstellenkarte mit Zuständigkeits- und Nachweisfragen."
 ---
 
 # LMA Facility Review im deutschen Deal

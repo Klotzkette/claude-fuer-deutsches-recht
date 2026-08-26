@@ -1,6 +1,6 @@
 ---
 name: beweismatrix-chatverlaeufe
-description: "Wenn es um Beweismatrix: Tatsache, Meinung, Vermutung in Strafanzeige-Vorbereiter geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Beweislast- und Substantiierungsmatrix."
+description: "Für Beweismatrix: Tatsache, Meinung, Vermutung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Beweislast- und Substantiierungsmatrix."
 ---
 
 # Beweismatrix: Tatsache, Meinung, Vermutung

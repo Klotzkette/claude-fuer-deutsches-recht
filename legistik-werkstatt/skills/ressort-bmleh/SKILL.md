@@ -1,6 +1,6 @@
 ---
 name: ressort-bmleh
-description: "Wenn es um Ressort-Heranfuehrung BMLEH in Legistik-Werkstatt geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Ressort-Heranführung BMLEH: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Ressort-Heranfuehrung BMLEH

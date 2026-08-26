@@ -1,6 +1,6 @@
 ---
 name: lessons-learned
-description: "Wenn es um Lessons Learned Post Mortem in Großkanzlei Corporate/M&A geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
+description: "Für Lessons Learned Post Mortem: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt. Fachgebiet: Großkanzlei Corporate/M&A. Route: lessons-learned."
 ---
 
 # Lessons Learned Post Mortem

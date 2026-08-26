@@ -1,6 +1,6 @@
 ---
 name: green-claims-vergleichende-werbung
-description: "Wenn es um Influencer-Recht: Green Claims und Nachhaltigkeitswerbung in Influencer-Recht geht: entwickelt Verhandlungsziel, Vergleichskorridor und Eskalationspfad; liefert eine Verhandlungs- oder Eskalationslinie mit Optionen."
+description: "Für Influencer-Recht: Green Claims und Nachhaltigkeitswerbung: entwickelt Ziel, Vergleich und Eskalation; Ergebnis: Verhandlungs- oder Eskalationslinie."
 ---
 
 # Influencer-Recht: Green Claims und Nachhaltigkeitswerbung

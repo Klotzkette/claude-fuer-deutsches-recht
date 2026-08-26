@@ -1,6 +1,6 @@
 ---
 name: founder-ask-response
-description: "Wenn es um Founder Ask Response in Venture Capital Geber geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Founder Ask Response: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Founder Ask Response

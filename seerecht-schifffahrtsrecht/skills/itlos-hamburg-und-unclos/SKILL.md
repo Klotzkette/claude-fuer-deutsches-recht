@@ -1,6 +1,6 @@
 ---
 name: itlos-hamburg-und-unclos
-description: "Wenn es um ITLOS Hamburg und UNCLOS – Internationale Seerechtstreitigkeiten in See- und Schifffahrtsrecht geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
+description: "Für ITLOS Hamburg und UNCLOS – Internationale Seerechtstreitigkeiten: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # ITLOS Hamburg und UNCLOS – Internationale Seerechtstreitigkeiten

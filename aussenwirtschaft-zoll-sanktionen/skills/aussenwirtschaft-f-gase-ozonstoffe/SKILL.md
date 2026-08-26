@@ -1,6 +1,6 @@
 ---
 name: aussenwirtschaft-f-gase-ozonstoffe
-description: "Wenn es um F-Gase und Ozonschutzstoffe: Einfuhrkontrolle und Quotenmanagement in Außenwirtschaft, Sanktionen, Zoll und CBAM geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für F-Gase und Ozonschutzstoffe: Einfuhrkontrolle und Quotenmanagement: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # F-Gase und Ozonschutzstoffe: Einfuhrkontrolle und Quotenmanagement

@@ -1,6 +1,6 @@
 ---
 name: landesrecht-und-bundesrecht-trennen
-description: "Wenn es um Landesrecht und Bundesrecht trennen in Krankenhausrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Landesrecht und Bundesrecht trennen: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Landesrecht und Bundesrecht trennen

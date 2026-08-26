@@ -1,6 +1,6 @@
 ---
 name: fristen-und-risikoampel
-description: "Wenn es um Fristen- und Risikoampel in WEG- und Hausverwaltung geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Fristen- und Risikoampel: prüft Frist, Form, Zuständigkeit und Eilbedarf; Ergebnis: Fristen- und Risikoampel. Fachgebiet: WEG- und Hausverwaltung."
 ---
 
 # Fristen- und Risikoampel

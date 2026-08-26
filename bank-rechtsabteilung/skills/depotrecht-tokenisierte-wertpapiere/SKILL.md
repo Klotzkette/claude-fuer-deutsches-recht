@@ -1,6 +1,6 @@
 ---
 name: depotrecht-tokenisierte-wertpapiere
-description: "Wenn es um Depotrecht Tokenpapiere in Bank-Rechtsabteilung geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert einen Einreichungsplan mit Form-, Portal- und Nachweischeck."
+description: "Für Depotrecht Tokenpapiere: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Depotrecht Tokenpapiere

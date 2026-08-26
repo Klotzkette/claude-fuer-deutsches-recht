@@ -1,6 +1,6 @@
 ---
 name: internationaler-datenaustausch-formulare
-description: "Wenn es um internationaler-datenaustausch-formulare in Rentenprüfer geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert einen Einreichungsplan mit Form-, Portal- und Nachweischeck."
+description: "Für internationaler-datenaustausch-formulare: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Einreichungsplan mit Form- und Nachweischeck."
 ---
 
 # internationaler-datenaustausch-formulare

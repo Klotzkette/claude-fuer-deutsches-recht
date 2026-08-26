@@ -1,6 +1,6 @@
 ---
 name: savigny-vier-auslegungsmethoden
-description: "Wenn es um Savigny und der Vierer-Kanon der Auslegung in Methodenlehre bürgerliches Recht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Savigny und der Vierer-Kanon der Auslegung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Savigny und der Vierer-Kanon der Auslegung

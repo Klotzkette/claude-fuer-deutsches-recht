@@ -1,6 +1,6 @@
 ---
 name: versorgungswerk-drv-widerspruch-sozialgericht
-description: "Wenn es um versorgungswerk-und-drv-parallel in Rentenprüfer geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
+description: "Für versorgungswerk-und-DRV-parallel: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # versorgungswerk-und-drv-parallel

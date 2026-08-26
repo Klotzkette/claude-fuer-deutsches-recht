@@ -1,6 +1,6 @@
 ---
 name: chapter15-recognition
-description: "Wenn es um Chapter 15 Recognition in US Bankruptcy Code geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Chapter 15 Recognition: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Chapter 15 Recognition

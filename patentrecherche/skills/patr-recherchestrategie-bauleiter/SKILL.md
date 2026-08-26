@@ -1,6 +1,6 @@
 ---
 name: patr-recherchestrategie-bauleiter
-description: "Wenn es um PatR: Recherchestrategie in patentrecherche geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für PatR: Recherchestrategie: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Verhandlungs- oder Eskalationslinie."
 ---
 
 # PatR: Recherchestrategie

@@ -1,6 +1,6 @@
 ---
 name: db-016-preisvergleich-abrufwerkzeug-und-plattformvertrag
-description: "Wenn es um Datenbankrecht: Preisvergleich-Abrufwerkzeuge und Plattformvertrag in Datenbankrecht und Datenbankherstellerrecht geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Datenbankrecht: Preisvergleich-Abrufwerkzeuge und Plattformvertrag: entwickelt Ziel, Vergleich und Eskalation; Ergebnis: Verhandlungs- oder Eskalationslinie."
 ---
 
 # Datenbankrecht: Preisvergleich-Abrufwerkzeuge und Plattformvertrag

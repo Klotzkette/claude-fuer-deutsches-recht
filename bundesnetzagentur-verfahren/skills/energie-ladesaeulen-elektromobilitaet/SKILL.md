@@ -1,6 +1,6 @@
 ---
 name: energie-ladesaeulen-elektromobilitaet
-description: "Wenn es um Energie: Ladesäulen Elektromobilität in Bundesnetzagentur-Verfahren geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen."
+description: "Für Energie: Ladesäulen Elektromobilität: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Schnittstellenkarte mit Zuständigkeits- und Nachweisfragen."
 ---
 
 # Energie: Ladesäulen Elektromobilität

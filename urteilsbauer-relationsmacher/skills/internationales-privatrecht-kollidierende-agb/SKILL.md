@@ -1,6 +1,6 @@
 ---
 name: internationales-privatrecht-kollidierende-agb
-description: "Wenn es um Internationales Privatrecht in Urteilsbauer und Relationsmacher geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. Auswahlstichwort: Internationales Privatrecht Kollidierende Agb; Arbeitsfeld: Urteilsbauer und Relationsmacher."
+description: "Für Internationales Privatrecht: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Schnittstellenkarte mit Zuständigkeits- und Nachweisfragen. Fachgebiet: Urteilsbauer und Relationsmacher. Route: internationales-privatrecht-kollidierende-agb."
 ---
 
 # Internationales Privatrecht

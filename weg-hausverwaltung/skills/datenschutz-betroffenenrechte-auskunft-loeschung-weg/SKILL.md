@@ -1,6 +1,6 @@
 ---
 name: datenschutz-betroffenenrechte-auskunft-loeschung-weg
-description: "Wenn es um Betroffenenrechte nach DSGVO Art in WEG- und Hausverwaltung geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Betroffenenrechte nach DSGVO Art: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Betroffenenrechte nach DSGVO Art

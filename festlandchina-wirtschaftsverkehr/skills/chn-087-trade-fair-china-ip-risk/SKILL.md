@@ -1,6 +1,6 @@
 ---
 name: chn-087-trade-fair-china-ip-risk
-description: "Wenn es um Trade Fair China IP Risk in China-Wirtschaftsverkehr geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Trade Fair China IP Risk: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Trade Fair China IP Risk

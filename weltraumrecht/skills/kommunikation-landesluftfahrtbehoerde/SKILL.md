@@ -1,6 +1,6 @@
 ---
 name: kommunikation-landesluftfahrtbehoerde
-description: "Wenn es um Weltraumrecht: Kommunikation mit Landesluftfahrtbehörde, BNetzA, BMWK, DLR in Weltraumrecht geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
+description: "Für Weltraumrecht: Kommunikation mit Landesluftfahrtbehörde, BNetzA, BMWK, DLR: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Weltraumrecht: Kommunikation mit Landesluftfahrtbehörde, BNetzA, BMWK, DLR

@@ -1,6 +1,6 @@
 ---
 name: lebensmittelrecht-einspruch
-description: "Wenn es um Lebensmittelrecht Einspruch Begruenden in Ordnungswidrigkeitenrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Lebensmittelrecht Einspruch Begründen: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Lebensmittelrecht Einspruch Begruenden

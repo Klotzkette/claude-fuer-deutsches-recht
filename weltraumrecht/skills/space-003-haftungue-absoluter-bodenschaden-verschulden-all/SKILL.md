@@ -1,6 +1,6 @@
 ---
 name: space-003-haftungue-absoluter-bodenschaden-verschulden-all
-description: "Wenn es um Weltraumrecht: Haftungsübereinkommen absoluter Bodenschaden und Verschuldenshaftung im All in Weltraumrecht geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Weltraumrecht: Haftungsübereinkommen absoluter Bodenschaden und Verschuldenshaftung im All: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Weltraumrecht: Haftungsübereinkommen absoluter Bodenschaden und Verschuldenshaftung im All

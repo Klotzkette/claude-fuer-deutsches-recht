@@ -1,6 +1,6 @@
 ---
 name: nachlassinsolvenz-antragspflicht-erbenhaftung
-description: "Prüft Antragspflicht, Haftungsbeschränkung und Gläubigerschaden bei zahlungsunfähigem oder überschuldetem Nachlass. Erstellt Nachlassstatus, Kenntniszeitachse, Insolvenzantrag, Haftungsoptionen und eine belastbare Prüfung des Verzögerungsschadens."
+description: "Prüft Antragspflicht, Haftungsbeschränkung und Gläubigerschaden bei zahlungsunfähigem oder überschuldetem Nachlass."
 ---
 
 # Nachlassinsolvenz und Erbenhaftung bearbeiten

@@ -1,6 +1,6 @@
 ---
 name: ladung-erhalten-mandanten
-description: "Wenn es um Ladung erhalten: erste Orientierung: Sitzungspraxis in Schöffen und Handelsrichter Praxis geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
+description: "Für Ladung erhalten: erste Orientierung: Sitzungspraxis: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Ladung erhalten: erste Orientierung: Sitzungspraxis

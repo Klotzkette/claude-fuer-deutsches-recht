@@ -1,6 +1,6 @@
 ---
 name: stimmbindung-veto-vertragswirklichkeit
-description: "Wenn es um Stimmbindung und Nebenvertrag in Sozialversicherungsstatus-Prüfer / DRV-Statusfeststellung geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Stimmbindung und Nebenvertrag: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Stimmbindung und Nebenvertrag

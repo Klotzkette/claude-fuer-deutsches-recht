@@ -1,6 +1,6 @@
 ---
 name: tschechien-us-zasada-primerenosti
-description: "Wenn es um Tschechien US Zasada Primerenosti in Verhältnismäßigkeitsprüfer geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
+description: "Für Tschechien US Zasada Primerenosti: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Tschechien US Zasada Primerenosti

@@ -1,6 +1,6 @@
 ---
 name: chn-093-security-of-travel-and-devices
-description: "Wenn es um Security Of Travel And Devices in China-Wirtschaftsverkehr geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Security Of Travel And Devices: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Security Of Travel And Devices

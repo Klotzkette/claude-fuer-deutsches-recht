@@ -1,6 +1,6 @@
 ---
 name: besold-neu-010-familienzuschlag-kinder-ehe-lebenspartnerschaft
-description: "Wenn es um Beamtenrecht: Familienzuschlag Kinder Ehe Lebenspartnerschaft in Beamtenrecht geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Beamtenrecht: Familienzuschlag Kinder Ehe Lebenspartnerschaft: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Schnittstellenkarte mit Zuständigkeits- und Nachweisfragen."
 ---
 
 # Beamtenrecht: Familienzuschlag Kinder Ehe Lebenspartnerschaft

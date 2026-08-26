@@ -1,6 +1,6 @@
 ---
 name: ergaenzende-vertragsauslegung-bei-agb-luecken
-description: "Wenn es um Ergaenzende Vertragsauslegung Bei Agb Luecken in AGB-Recht-Prüfer geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
+description: "Für Ergänzende Vertragsauslegung bei AGB Lücken: ordnet Akte, Belege und Lücken; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Ergaenzende Vertragsauslegung Bei Agb Luecken

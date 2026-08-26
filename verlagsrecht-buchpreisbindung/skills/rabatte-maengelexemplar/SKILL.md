@@ -1,6 +1,6 @@
 ---
 name: rabatte-maengelexemplar
-description: "Wenn es um Verl-010 · Rabatte, Bibliotheken, Schulen, Bundles und Serien in Verlagsrecht und Buchpreisbindung geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Verl-010 · Rabatte, Bibliotheken, Schulen, Bundles und Serien: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Verl-010 · Rabatte, Bibliotheken, Schulen, Bundles und Serien

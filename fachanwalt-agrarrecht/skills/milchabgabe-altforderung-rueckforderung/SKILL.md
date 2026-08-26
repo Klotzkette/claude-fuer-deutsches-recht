@@ -1,6 +1,6 @@
 ---
 name: milchabgabe-altforderung-rueckforderung
-description: "Prüft historische Forderungen aus der bis 31. März 2015 geltenden Milchquoten- und Milchabgabenregelung. Bestimmt Abgabenjahr, damalige Referenzmenge, Milcherzeuger, Käufer, Festsetzungsgrundlage, Rechtsbehelf, Zahlungsverjährung und vertraglichen Innenausgleich, ohne heutiges GAP-Recht rückwirkend anzuwenden."
+description: "Für Historische Milchabgabenforderung prüfen: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Historische Milchabgabenforderung prüfen

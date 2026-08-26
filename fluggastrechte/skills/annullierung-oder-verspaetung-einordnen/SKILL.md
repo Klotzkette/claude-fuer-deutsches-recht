@@ -1,6 +1,6 @@
 ---
 name: annullierung-oder-verspaetung-einordnen
-description: "Wenn es um Annullierung Verspätung oder Nichtbeförderung einordnen in Fluggastrechte geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Annullierung Verspätung oder Nichtbeförderung einordnen: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Annullierung Verspätung oder Nichtbeförderung einordnen

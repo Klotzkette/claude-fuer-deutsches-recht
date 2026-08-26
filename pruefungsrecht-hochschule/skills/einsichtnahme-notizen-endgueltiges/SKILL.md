@@ -1,6 +1,6 @@
 ---
 name: einsichtnahme-notizen-endgueltiges
-description: "Wenn es um Einsichtnahme in Notizen in Prüfungsrecht an Hochschulen und Universitäten geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Einsichtnahme in Notizen: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Einsichtnahme in Notizen

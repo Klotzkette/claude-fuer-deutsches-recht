@@ -1,6 +1,6 @@
 ---
 name: aufenthaltsstatus-frist-und-rechtsmittel
-description: "Wenn es um Aufenthaltsstatus Frist Und Rechtsmittel in Fachanwalt Migrationsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Aufenthaltsstatus Frist und Rechtsmittel: prüft Frist, Form, Zuständigkeit und Eilbedarf; Ergebnis: Fristen- und Risikoampel."
 ---
 
 # Aufenthaltsstatus, Frist und Rechtsmittel als Erstweiche: führt schnell durch Sachverhalt, Rechtsgrundlagen, Belege, Risiken und erzeugt einen verwertbaren nächsten Output.
@@ -33,3 +33,7 @@ Wenn Material vorliegt, nutze es zuerst. Frage nur nach, was für die nächste E
 3. **Materielle Weichen:** Die Kernfragen zu **Aufenthaltsstatus, Frist und Rechtsmittel als Erstweiche** mit Tatbestandsmerkmalen, Belegen, Gegenargumenten und typischen Praxisfehlern abarbeiten.
 4. **Risikoampel:** Ergebnis in Grün/Gelb/Rot mit Begründung, Unsicherheiten und Beweisbedarf einordnen.
 5. **Anschluss:** Passende weitere Skills desselben Plugins vorschlagen, wenn Spezialprüfung, Schriftsatz, Tabelle, Brief oder Verhandlungsstrategie sinnvoll ist.
+
+## Vertiefung bei Bedarf
+
+- Bei `spezial-aufenthaltsstatus-frist-und-rechtsmittel` beziehungsweise Aufenthaltsstatus, Frist und Rechtsmittel als Erstweiche: [die zusätzliche Vertiefung laden](./references/vertiefung-spezial-aufenthaltsstatus-frist-und-rechtsmittel.md).

@@ -1,6 +1,6 @@
 ---
 name: krankenversicherung-arztbrief-anspruchsbegruendung-uebersetzen
-description: "Wenn es um Arztbrief in Anspruchsbegründung übersetzen in Krankenkassenrecht und Krankenversicherung geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
+description: "Für Arztbrief in Anspruchsbegründung übersetzen: erstellt Entwurf mit Antrag, Beweis und Anlagen; Ergebnis: Schriftsatz mit Begründungs- und Anlagenlogik."
 ---
 
 # Arztbrief in Anspruchsbegründung übersetzen

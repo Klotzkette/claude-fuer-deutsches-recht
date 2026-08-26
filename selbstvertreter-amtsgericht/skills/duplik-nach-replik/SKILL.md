@@ -1,6 +1,6 @@
 ---
 name: duplik-nach-replik
-description: "Wenn es um Duplik: Antwort des Beklagten auf die Replik in selbstvertreter-amtsgericht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Duplik: Antwort des Beklagten auf die Replik: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Duplik: Antwort des Beklagten auf die Replik

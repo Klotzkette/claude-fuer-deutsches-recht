@@ -1,6 +1,6 @@
 ---
 name: wohnhaus-ddr-enteignung-anspruchspfad
-description: "Wenn es um Wohnhaus Ddr Enteignung Anspruchspfad in Einigungsvertrag und Vermögensrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Wohnhaus Ddr Enteignung Anspruchspfad: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Tatbestands- oder Anspruchsmatrix."
 ---
 
 # Wohnhaus Ddr Enteignung Anspruchspfad

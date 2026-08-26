@@ -1,6 +1,6 @@
 ---
 name: anhoerung-auskunftsbeschluss-digital-services
-description: "Wenn es um Anhörung, Auskunftsbeschluss, Fristenplan in Bundesnetzagentur-Verfahren geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Anhörung, Auskunftsbeschluss, Fristenplan: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Anhörung, Auskunftsbeschluss, Fristenplan

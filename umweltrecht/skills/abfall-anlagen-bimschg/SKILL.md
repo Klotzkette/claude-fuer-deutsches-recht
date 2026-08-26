@@ -1,6 +1,6 @@
 ---
 name: abfall-anlagen-bimschg
-description: "Wenn es um Abfall: Dokumentenmatrix, Lückenliste und Nachforderung in Umweltrecht geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Dokumentenmatrix mit Nachforderungsliste."
+description: "Für Abfall: Dokumentenmatrix, Lückenliste und Nachforderung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Abfall: Dokumentenmatrix, Lückenliste und Nachforderung

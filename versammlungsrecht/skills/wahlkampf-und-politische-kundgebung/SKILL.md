@@ -1,6 +1,6 @@
 ---
 name: wahlkampf-und-politische-kundgebung
-description: "Wenn es um Wahlkampf im öffentlichen Raum in Versammlungsrecht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen."
+description: "Für Wahlkampf im öffentlichen Raum: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Wahlkampf im öffentlichen Raum

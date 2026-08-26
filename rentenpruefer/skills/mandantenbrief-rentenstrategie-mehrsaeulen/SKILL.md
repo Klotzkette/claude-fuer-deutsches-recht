@@ -1,6 +1,6 @@
 ---
 name: mandantenbrief-rentenstrategie-mehrsaeulen
-description: "Wenn es um Mandantenbrief Rentenstrategie in Rentenprüfer geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Mandantenbrief Rentenstrategie: erstellt Entwurf mit Antrag, Beweis und Anlagen; Ergebnis: Schriftsatz mit Begründungs- und Anlagenlogik."
 ---
 
 # Mandantenbrief Rentenstrategie

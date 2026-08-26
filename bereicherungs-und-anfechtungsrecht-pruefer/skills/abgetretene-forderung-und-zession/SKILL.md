@@ -1,6 +1,6 @@
 ---
 name: abgetretene-forderung-und-zession
-description: "Wenn es um Abgetretene Forderung und Zession in bereicherungs-und-anfechtungsrecht-prüfer geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Abgetretene Forderung und Zession: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Abgetretene Forderung und Zession

@@ -1,6 +1,6 @@
 ---
 name: datev-payroll-datenpaket-monatslauf
-description: "Wenn es um DATEV Payroll Datenpaket Monatslauf in Start-up-HR-Personalabteilung Berlin geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für DATEV Payroll Datenpaket Monatslauf: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # DATEV Payroll Datenpaket Monatslauf

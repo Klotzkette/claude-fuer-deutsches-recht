@@ -1,6 +1,6 @@
 ---
 name: rechtsabteilung-kapitalerhoehung-mit-bezugsrechtsausschluss
-description: "Wenn es um Rechtsabteilung: Kapitalerhöhung mit Bezugsrechtsausschluss in Gesellschaftsrecht geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Dokumentenmatrix mit Nachforderungsliste."
+description: "Für Rechtsabteilung: Kapitalerhöhung mit Bezugsrechtsausschluss: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Rechtsabteilung: Kapitalerhöhung mit Bezugsrechtsausschluss

@@ -1,6 +1,6 @@
 ---
 name: abstimmung-anlagen-interessen-cram
-description: "Wenn es um Abstimmung: Internationaler Bezug und Schnittstellen in Insolvenzplan- und StaRUG-Planwerkstatt geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Abstimmung: Internationaler Bezug und Schnittstellen: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Abstimmung: Internationaler Bezug und Schnittstellen

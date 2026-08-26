@@ -1,6 +1,6 @@
 ---
 name: vvt-update-nach-vorfall
-description: "Wenn es um Aktualisierung des Verfahrensverzeichnisses nach Datenschutzvorfall in Datenschutzrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Aktualisierung des Verfahrensverzeichnisses nach Datenschutzvorfall: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Aktualisierung des Verfahrensverzeichnisses nach Datenschutzvorfall
@@ -53,3 +53,7 @@ Schritt 6: Versionsstand mit Datum und Bearbeiter speichern; alte Version revisi
 
 - `dsv-dsfa-update-nach-vorfall` deckt die Datenschutz-Folgenabschätzung ab.
 - `dsv-interne-dokumentation-art-33-abs-5` deckt das Vorfallregister ab.
+
+## Vertiefung bei Bedarf
+
+- Bei `dsv-vvt-update-nach-vorfall` beziehungsweise Steuert die Aktualisierung des Verzeichnisses von Verarbeitungstätigkeiten nach Art: [die zusätzliche Vertiefung laden](./references/vertiefung-dsv-vvt-update-nach-vorfall.md).

@@ -1,6 +1,6 @@
 ---
 name: urkundenrolle-fehler-organisationspflicht-und-praeventio
-description: "Wenn es um Urkundenrolle Fehler Organisationspflicht Und Praeventio in Berufsrecht Notare geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Urkundenrolle Fehler Organisationspflicht und Präventio: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Notare: urkundenrolle fehler - Organisationspflichten, Prävention, Team-Anweisung und Fristenkontrolle

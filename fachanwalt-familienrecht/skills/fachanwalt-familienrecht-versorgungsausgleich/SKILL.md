@@ -1,6 +1,6 @@
 ---
 name: fachanwalt-familienrecht-versorgungsausgleich
-description: "Prüft Ehezeit, Versorgungsträgerauskünfte, interne und externe Teilung, Zielversorgung, Geringfügigkeit, Vereinbarung, Härte und Abänderung im Versorgungsausgleich. Liefert Anrechtsmatrix, Auskunftsnachforderung, Teilungsvergleich und tenorierungsfähige Stellungnahme je Anrecht."
+description: "Prüft Ehezeit, Versorgungsträgerauskünfte, interne und externe Teilung, Zielversorgung, Geringfügigkeit, Vereinbarung, Härte und Abänderung im Versorgungsausgleich."
 ---
 
 # Versorgungsausgleich

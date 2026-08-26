@@ -1,6 +1,6 @@
 ---
 name: reha-vor-rente-zustaendigkeit-krankenkasse-rentenversiche
-description: "Wenn es um Reha vor Rente: Zuständigkeit Krankenkasse vs. Rentenversicherung in Krankenkassenrecht und Krankenversicherung geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
+description: "Für Reha vor Rente: Zuständigkeit Krankenkasse vs. Rentenversicherung: prüft Frist, Form, Zuständigkeit und Eilbedarf; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Reha vor Rente: Zuständigkeit Krankenkasse vs. Rentenversicherung

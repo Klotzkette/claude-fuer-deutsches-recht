@@ -1,6 +1,6 @@
 ---
 name: klauselgenerator-formvorbehalt-maklervertrag
-description: "Wenn es um Klauselgenerator — Formvorbehalt und Änderungsvorbehalt in Schriftform und Textform im BGB geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Klauselgenerator — Formvorbehalt und Änderungsvorbehalt: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Klauselgenerator — Formvorbehalt und Änderungsvorbehalt

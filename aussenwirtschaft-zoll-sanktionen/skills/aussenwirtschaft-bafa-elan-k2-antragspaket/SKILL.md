@@ -1,6 +1,6 @@
 ---
 name: aussenwirtschaft-bafa-elan-k2-antragspaket
-description: "Wenn es um BAFA ELAN-K2: Vollstaendiges Genehmigungsantragspaket aufbauen in Außenwirtschaft, Sanktionen, Zoll und CBAM geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
+description: "Für BAFA ELAN-K2: Vollständiges Genehmigungsantragspaket aufbauen: erstellt Entwurf mit Antrag, Beweis und Anlagen; Ergebnis: Schriftsatz mit Begründungs- und Anlagenlogik."
 ---
 
 # BAFA ELAN-K2: Vollstaendiges Genehmigungsantragspaket aufbauen

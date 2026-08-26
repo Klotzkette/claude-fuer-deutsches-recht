@@ -1,6 +1,6 @@
 ---
 name: unesco-welterbe-und-icomos
-description: "Wenn es um UNESCO-Welterbe und ICOMOS in Denkmalschutzrecht — Bundesweiter Rahmen und sechzehn geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen."
+description: "Für UNESCO-Welterbe und ICOMOS: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # UNESCO-Welterbe und ICOMOS

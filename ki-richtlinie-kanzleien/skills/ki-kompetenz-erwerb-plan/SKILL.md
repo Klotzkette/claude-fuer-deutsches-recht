@@ -1,6 +1,6 @@
 ---
 name: ki-kompetenz-erwerb-plan
-description: "Wenn es um digitale Werkzeuge-Kompetenz Erwerb Plan in diesem Spezialbereich geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Beweislast- und Substantiierungsmatrix."
+description: "Für digitale Werkzeuge-Kompetenz Erwerb Plan: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # KI-Kompetenz Erwerb Plan

@@ -1,6 +1,6 @@
 ---
 name: abschlussverfuegung-anfaengerfehler
-description: "Wenn es um Abschlussverfügung: Anfängerfehler vermeiden in Staatsanwaltschaft Praxis-Einstieg geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Beweislast- und Substantiierungsmatrix."
+description: "Für Abschlussverfügung: Anfängerfehler vermeiden: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Abschlussverfügung: Anfängerfehler vermeiden

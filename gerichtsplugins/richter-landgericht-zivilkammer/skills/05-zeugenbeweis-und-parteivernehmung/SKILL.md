@@ -1,6 +1,6 @@
 ---
 name: 05-zeugenbeweis-und-parteivernehmung
-description: "Wenn es um 05 Zeugenbeweis und Parteivernehmung in Zivilkammer am Landgericht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Beweislast- und Substantiierungsmatrix."
+description: "Für 05 Zeugenbeweis und Parteivernehmung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Beweislast- und Substantiierungsmatrix."
 ---
 
 # 05 Zeugenbeweis und Parteivernehmung

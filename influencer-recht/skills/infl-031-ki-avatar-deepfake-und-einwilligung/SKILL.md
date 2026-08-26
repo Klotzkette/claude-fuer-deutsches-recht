@@ -1,6 +1,6 @@
 ---
 name: infl-031-ki-avatar-deepfake-und-einwilligung
-description: "Wenn es um Influencer-Recht: digitale Werkzeuge Avatar Deepfake und Einwilligung in Influencer-Recht geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Influencer-Recht: digitale Werkzeuge Avatar Deepfake und Einwilligung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Influencer-Recht: KI Avatar Deepfake und Einwilligung

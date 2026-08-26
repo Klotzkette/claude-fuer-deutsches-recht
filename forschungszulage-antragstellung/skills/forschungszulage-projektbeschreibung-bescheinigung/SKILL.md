@@ -1,6 +1,6 @@
 ---
 name: forschungszulage-projektbeschreibung-bescheinigung
-description: "Wenn es um Forschungszulage: Erstprüfung, Rollenklärung und Mandatsziel in Forschungszulage-Antragstellung geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert eine Fristen- und Risikoampel mit Sofortschritten. Auswahlstichwort: Forschungszulage Projektbeschreibung Bescheinigung; Arbeitsfeld: Forschungszulage-Antragstellung."
+description: "Für Forschungszulage: Erstprüfung, Rollenklärung und Mandatsziel: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Forschungszulage: Erstprüfung, Rollenklärung und Mandatsziel

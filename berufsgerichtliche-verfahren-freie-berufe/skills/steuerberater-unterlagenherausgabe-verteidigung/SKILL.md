@@ -1,6 +1,6 @@
 ---
 name: steuerberater-unterlagenherausgabe-verteidigung
-description: "Wenn es um Steuerberater Unterlagenherausgabe: Verteidigungs- und Kammerantwort in Berufsgerichtliche Verfahren Freie Berufe geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Dokumentenmatrix mit Nachforderungsliste."
+description: "Für Steuerberater Unterlagenherausgabe: Verteidigungs- und Kammerantwort: ordnet Akte, Belege und Lücken; Ergebnis: Dokumentenmatrix mit Nachforderungsliste."
 ---
 
 # Steuerberater Unterlagenherausgabe: Verteidigungs- und Kammerantwort

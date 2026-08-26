@@ -1,6 +1,6 @@
 ---
 name: vertragspruefung
-description: "Wenn es um Vertragsanalyse und Klauselkontrolle in Vertragsrecht geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Vertragsanalyse und Klauselkontrolle: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Tatbestands- oder Anspruchsmatrix."
 ---
 
 # Vertragsanalyse und Klauselkontrolle

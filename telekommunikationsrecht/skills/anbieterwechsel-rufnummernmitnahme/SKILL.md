@@ -1,6 +1,6 @@
 ---
 name: anbieterwechsel-rufnummernmitnahme
-description: "Wenn es um Anbieterwechsel und Rufnummernmitnahme in Telekommunikationsrecht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
+description: "Für Anbieterwechsel und Rufnummernmitnahme: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Anbieterwechsel und Rufnummernmitnahme

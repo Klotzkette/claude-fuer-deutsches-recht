@@ -1,6 +1,6 @@
 ---
 name: lease-051-bewegliche-sachen-router
-description: "Wenn es um Leasing beweglicher Sachen Router in Leasingrecht Praxis geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen."
+description: "Für Leasing beweglicher Sachen Router: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Leasing beweglicher Sachen Router

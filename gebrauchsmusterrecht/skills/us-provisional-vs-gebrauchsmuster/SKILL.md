@@ -1,6 +1,6 @@
 ---
 name: us-provisional-vs-gebrauchsmuster
-description: "Wenn es um Us Provisional Vs Gebrauchsmuster in gebrauchsmusterrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Us Provisional Vs Gebrauchsmuster: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Us Provisional Vs Gebrauchsmuster

@@ -1,6 +1,6 @@
 ---
 name: volkseigener-betrieb-fristproblem-mark
-description: "Wenn es um Volkseigener Betrieb Fristproblem Mark in Einigungsvertrag und Vermögensrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Volkseigener Betrieb Fristproblem Mark: prüft Frist, Form, Zuständigkeit und Eilbedarf; Ergebnis: Fristen- und Risikoampel."
 ---
 
 # Volkseigener Betrieb Fristproblem Mark

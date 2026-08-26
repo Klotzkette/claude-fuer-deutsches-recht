@@ -1,6 +1,6 @@
 ---
 name: vwvfg-dokumentenmatrix-und-lueckenliste
-description: "Wenn es um Vwvfg: Dokumentenmatrix, Lückenliste und Nachforderung in Fachanwalt Verwaltungsrecht geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Dokumentenmatrix mit Nachforderungsliste."
+description: "Für Vwvfg: Dokumentenmatrix, Lückenliste und Nachforderung: ordnet Akte, Belege und Lücken; Ergebnis: Dokumentenmatrix mit Nachforderungsliste."
 ---
 
 # Vwvfg: Dokumentenmatrix, Lückenliste und Nachforderung

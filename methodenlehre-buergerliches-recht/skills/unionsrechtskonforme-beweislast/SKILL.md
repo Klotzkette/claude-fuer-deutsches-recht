@@ -1,6 +1,6 @@
 ---
 name: unionsrechtskonforme-beweislast
-description: "Wenn es um Unionsrechtskonforme Beweislast und Darlegungslast in Methodenlehre bürgerliches Recht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Unionsrechtskonforme Beweislast und Darlegungslast: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Beweislast- und Substantiierungsmatrix. Fachgebiet: Methodenlehre bürgerliches Recht. Route: unionsrechtskonforme-beweislast."
 ---
 
 # Unionsrechtskonforme Beweislast und Darlegungslast

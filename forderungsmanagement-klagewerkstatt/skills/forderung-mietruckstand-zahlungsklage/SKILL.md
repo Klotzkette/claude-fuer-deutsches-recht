@@ -1,6 +1,6 @@
 ---
 name: forderung-mietruckstand-zahlungsklage
-description: "Wenn es um Mietrueckstands-Klage in Forderungsmanagement — Klagewerkstatt geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Mietrückstands-Klage: erstellt Entwurf mit Antrag, Beweis und Anlagen; Ergebnis: Schriftsatz mit Begründungs- und Anlagenlogik."
 ---
 
 # Mietrueckstands-Klage

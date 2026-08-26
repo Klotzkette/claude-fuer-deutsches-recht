@@ -1,6 +1,6 @@
 ---
 name: causa-data-causa-non-secuta
-description: "Wenn es um Causa data causa non secuta in bereicherungs-und-anfechtungsrecht-prüfer geht: rechnet Schwellen, Beträge, Varianten und Kontrollannahmen durch; liefert eine Berechnungstabelle mit Schwellen, Annahmen und Kontrollfragen. Auswahlstichwort: Causa Data Causa Non Secuta; Arbeitsfeld: bereicherungs-und-anfechtungsrecht-prüfer."
+description: "Für Causa data causa non secuta: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt. Fachgebiet: bereicherungs-und-anfechtungsrecht-prüfer. Route: causa-data-causa-non-secuta."
 ---
 
 # Causa data causa non secuta

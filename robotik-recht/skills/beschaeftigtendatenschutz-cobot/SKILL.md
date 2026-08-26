@@ -1,6 +1,6 @@
 ---
 name: beschaeftigtendatenschutz-cobot
-description: "Wenn es um Beschäftigtendatenschutz bei Cobot-Einsatz in robotik-recht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Beschäftigtendatenschutz bei Cobot-Einsatz: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Beschäftigtendatenschutz bei Cobot-Einsatz

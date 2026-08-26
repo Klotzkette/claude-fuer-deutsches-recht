@@ -1,6 +1,6 @@
 ---
 name: verbraucherverband-inkasso-konzerninkasso-musterfeststellung
-description: "Wenn es um VDG 102 Inkasso Konzerninkasso Musterfeststellung in Verbraucherschutzverband Durchsetzung geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Tatbestands- oder Anspruchsmatrix mit Gegenargumenten."
+description: "Für VDG 102 Inkasso Konzerninkasso Musterfeststellung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # VDG 102 Inkasso Konzerninkasso Musterfeststellung

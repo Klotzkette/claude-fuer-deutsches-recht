@@ -1,6 +1,6 @@
 ---
 name: kv-046-pflegeversicherung-schnittstelle-pflegegrad
-description: "Wenn es um Krankenversicherung: Pflegeversicherung Schnittstelle Pflegegrad in Krankenkassenrecht und Krankenversicherung geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Krankenversicherung: Pflegeversicherung Schnittstelle Pflegegrad: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Krankenversicherung: Pflegeversicherung Schnittstelle Pflegegrad

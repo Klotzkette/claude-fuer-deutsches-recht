@@ -1,6 +1,6 @@
 ---
 name: apothekenrevision-vorbereitung
-description: "Wenn es um Apothekenrevision Vorbereitung Antwort in Apothekenrecht geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
+description: "Für Apothekenrevision Vorbereitung Antwort: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Apothekenrevision Vorbereitung Antwort

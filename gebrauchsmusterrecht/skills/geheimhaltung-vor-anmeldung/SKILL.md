@@ -1,6 +1,6 @@
 ---
 name: geheimhaltung-vor-anmeldung
-description: "Wenn es um Geheimhaltung Vor Anmeldung in gebrauchsmusterrecht geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
+description: "Für Geheimhaltung vor Anmeldung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Geheimhaltung Vor Anmeldung

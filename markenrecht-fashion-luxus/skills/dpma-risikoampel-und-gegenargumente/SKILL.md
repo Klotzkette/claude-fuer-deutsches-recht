@@ -1,6 +1,6 @@
 ---
 name: dpma-risikoampel-und-gegenargumente
-description: "Wenn es um Dpma: Risikoampel, Gegenargumente und Verteidigungslinien in markenrecht-fashion-luxus geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Dpma: Risikoampel, Gegenargumente und Verteidigungslinien: prüft Ergebnis, Beweislast und Gegenposition; Ergebnis: Fristen- und Risikoampel."
 ---
 
 # Dpma: Risikoampel, Gegenargumente und Verteidigungslinien

@@ -1,6 +1,6 @@
 ---
 name: vert-rahmenvertrag-einzelabrufe-spezial
-description: "Wenn es um Vert: Rahmenvertrag Einzelabrufe in Vertragsrecht geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
+description: "Für Vert: Rahmenvertrag Einzelabrufe: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Vert: Rahmenvertrag Einzelabrufe

@@ -1,6 +1,6 @@
 ---
 name: anlagen-an-assistenz-uebersetzungspflicht
-description: "Wenn es um Übergabe an Assistenz und Legal Tech in Anlagen zu Schriftsätzen geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen. Auswahlstichwort: Anlagen An Assistenz Uebersetzungspflicht; Arbeitsfeld: Anlagen zu Schriftsätzen."
+description: "Für Übergabe an Assistenz und Legal Tech: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt. Fachgebiet: Anlagen zu Schriftsätzen. Route: anlagen-an-assistenz-uebersetzungspflicht."
 ---
 
 # Übergabe an Assistenz und Legal Tech

@@ -1,6 +1,6 @@
 ---
 name: fachanwalt-bau-architektenrecht-bauablauf-vbg
-description: "Wenn es um Bauablauf-Störung — Behinderungsanzeige und Mehrkostenforderung in Fachanwalt Bau Architektenrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Bauablauf-Störung — Behinderungsanzeige und Mehrkostenforderung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Bauablauf-Störung — Behinderungsanzeige und Mehrkostenforderung

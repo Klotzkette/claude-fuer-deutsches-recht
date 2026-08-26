@@ -1,6 +1,6 @@
 ---
 name: integrationshelfer-kostenstreit
-description: "Wenn es um Integrationshelfer und Kostenstreit in Schulrecht der Bundesländer geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Integrationshelfer und Kostenstreit: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Integrationshelfer und Kostenstreit

@@ -1,6 +1,6 @@
 ---
 name: drg-neu-015-grundgesetz-entstehung-parlamentarischer-rat
-description: "Wenn es um Deutsche Rechtsgeschichte: Grundgesetz Entstehung Parlamentarischer Rat in Deutsche Rechtsgeschichte geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Deutsche Rechtsgeschichte: Grundgesetz Entstehung Parlamentarischer Rat: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Schnittstellenkarte mit Zuständigkeits- und Nachweisfragen."
 ---
 
 # Deutsche Rechtsgeschichte: Grundgesetz Entstehung Parlamentarischer Rat

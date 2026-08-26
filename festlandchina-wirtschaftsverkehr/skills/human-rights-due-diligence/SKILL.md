@@ -1,6 +1,6 @@
 ---
 name: human-rights-due-diligence
-description: "Wenn es um Menschenrechts-Due-Diligence China: LkSG/CSDDD/UNGP in China-Wirtschaftsverkehr geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Menschenrechts-Due-Diligence China: LkSG/CSDDD/UNGP: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Menschenrechts-Due-Diligence China: LkSG/CSDDD/UNGP

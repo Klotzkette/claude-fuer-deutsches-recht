@@ -1,6 +1,6 @@
 ---
 name: leistungsgruppen-qualitaetskriterien
-description: "Wenn es um Leistungsgruppen und Qualitaetskriterien Reformlogik in Krankenhausrecht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Gegenprüfung mit Fehler-, Beweis- und Fristencheck."
+description: "Für Leistungsgruppen und Qualitätskriterien Reformlogik: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Gegenprüfung mit Beweis- und Fristencheck."
 ---
 
 # Leistungsgruppen und Qualitaetskriterien Reformlogik

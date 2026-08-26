@@ -1,6 +1,6 @@
 ---
 name: preference-ordinary-course
-description: "Wenn es um Preference Defense Ordinary Course in US Bankruptcy Code geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Preference Defense Ordinary Course: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Preference Defense Ordinary Course

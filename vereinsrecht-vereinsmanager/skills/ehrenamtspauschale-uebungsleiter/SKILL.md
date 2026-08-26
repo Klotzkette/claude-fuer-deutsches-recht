@@ -1,6 +1,6 @@
 ---
 name: ehrenamtspauschale-uebungsleiter
-description: "Wenn es um Ehrenamtspauschale und Übungsleiter in Vereinsrecht und Vereinsmanager geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen."
+description: "Für Ehrenamtspauschale und Übungsleiter: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Ehrenamtspauschale und Übungsleiter

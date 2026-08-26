@@ -1,6 +1,6 @@
 ---
 name: inkasso-rdg-insolvenz-debitors
-description: "Wenn es um Inkasso RDG Abgrenzung Forderungsmanagement in Factoring-Recht geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
+description: "Für Inkasso RDG Abgrenzung Forderungsmanagement: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Inkasso RDG Abgrenzung Forderungsmanagement

@@ -1,6 +1,6 @@
 ---
 name: spezial-mahnverfahren-beweislast-und-darlegungslast
-description: "Wenn es um Mahnverfahren: Beweislast, Darlegungslast und Substantiierung in Forderungsmanagement — Klagewerkstatt geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
+description: "Für Mahnverfahren: Beweislast, Darlegungslast und Substantiierung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Beweislast- und Substantiierungsmatrix."
 ---
 
 # Mahnverfahren: Beweislast, Darlegungslast und Substantiierung

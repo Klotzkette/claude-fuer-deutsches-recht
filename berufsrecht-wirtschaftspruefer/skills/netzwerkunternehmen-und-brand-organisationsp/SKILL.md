@@ -1,6 +1,6 @@
 ---
 name: netzwerkunternehmen-und-brand-organisationsp
-description: "Wenn es um Netzwerkunternehmen Und Brand Organisationsp in Berufsrecht Wirtschaftsprüfer geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Netzwerkunternehmen und Brand Organisationsp: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Wirtschaftsprüfer: netzwerkunternehmen und brand - Organisationspflichten, Prävention, Team-Anweisung und Fristenkontrolle

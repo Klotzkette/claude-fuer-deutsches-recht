@@ -1,6 +1,6 @@
 ---
 name: werbung-und-siegel-kammerantwort-und-verfahrensst
-description: "Wenn es um Werbung Und Siegel Kammerantwort Und Verfahrensst in Berufsrecht Steuerberater geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Verhandlungs- oder Eskalationslinie mit Optionen."
+description: "Für Werbung und Siegel Kammerantwort und Verfahrensst: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Steuerberater: werbung und siegel - Kammerantwort mit Verfahrensstrategie, Tonlage und Belegplan

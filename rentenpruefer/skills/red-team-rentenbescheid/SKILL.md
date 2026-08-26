@@ -1,6 +1,6 @@
 ---
 name: red-team-rentenbescheid
-description: "Wenn es um red-team-rentenbescheid in Rentenprüfer geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert eine Gegenprüfung mit Fehler-, Beweis- und Fristencheck."
+description: "Für red-team-rentenbescheid: prüft Ergebnis, Beweislast und Gegenposition; Ergebnis: Gegenprüfung mit Beweis- und Fristencheck."
 ---
 
 # red-team-rentenbescheid

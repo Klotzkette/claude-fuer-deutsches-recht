@@ -1,6 +1,6 @@
 ---
 name: verhaltensbedingte-kuendigung
-description: "Wenn es um Verhaltensbedingte Kuendigung in Start-up-HR-Personalabteilung Berlin geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Verhaltensbedingte Kündigung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Verhaltensbedingte Kuendigung

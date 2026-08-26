@@ -1,6 +1,6 @@
 ---
 name: message-house-authentizitaet
-description: "Wenn es um Message House Authentizitaet in Wahlkampfrecht Praxis geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Message House Authentizität: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Message House Authentizitaet

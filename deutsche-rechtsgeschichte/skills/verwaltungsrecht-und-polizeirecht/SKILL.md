@@ -1,6 +1,6 @@
 ---
 name: verwaltungsrecht-und-polizeirecht
-description: "Wenn es um Verwaltungsrecht und Polizeirecht in Deutsche Rechtsgeschichte geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Verwaltungsrecht und Polizeirecht: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Verwaltungsrecht und Polizeirecht

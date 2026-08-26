@@ -1,6 +1,6 @@
 ---
 name: 18-entscheidungsgruende-aufbauen
-description: "Wenn es um 18 Entscheidungsgründe Aufbauen in Relationstechnik Zivilrecht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Beweislast- und Substantiierungsmatrix."
+description: "Für 18 Entscheidungsgründe Aufbauen: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # 18 Entscheidungsgründe Aufbauen

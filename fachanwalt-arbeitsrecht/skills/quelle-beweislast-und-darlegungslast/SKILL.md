@@ -1,6 +1,6 @@
 ---
 name: quelle-beweislast-und-darlegungslast
-description: "Wenn es um Quelle Beweislast Und Darlegungslast in Fachanwalt Arbeitsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Quelle Beweislast und Darlegungslast: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Beweislast- und Substantiierungsmatrix."
 ---
 
 # Quellenregel, Beweislast und Darlegungslast im Arbeitsrecht: abgestufte Darlegungslast BAG-Linie, Normenübersicht zu Beweislastverteilungen, Umkehr nach AGG Paragraf 22, zulässige und unzulässige Fundstellen, Quellenprotokoll für Schriftsätze.
@@ -131,3 +131,7 @@ Unsichere Punkte (Live-Check erforderlich):
 ## Was dieser Arbeitsgang nicht macht
 - Keine automatische Quellenverifikation; menschliche Prüfung bleibt notwendig.
 - Keine Prüfung von Kommentarliteratur ohne Nutzervorlage.
+
+## Vertiefung bei Bedarf
+
+- Bei `spezial-quelle-beweislast-und-darlegungslast` beziehungsweise Quelle: Beweislast, Darlegungslast und Substantiierung: [die zusätzliche Vertiefung laden](./references/vertiefung-spezial-quelle-beweislast-und-darlegungslast.md).

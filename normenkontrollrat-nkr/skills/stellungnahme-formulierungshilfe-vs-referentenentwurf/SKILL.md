@@ -1,6 +1,6 @@
 ---
 name: stellungnahme-formulierungshilfe-vs-referentenentwurf
-description: "Wenn es um NKR-Formulierungshilfe vs. Referentenentwurf in Normenkontrollrat (NKR) — Prüfung von Gesetzentwuerfen geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
+description: "Für NKR-Formulierungshilfe vs. Referentenentwurf: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # NKR-Formulierungshilfe vs. Referentenentwurf

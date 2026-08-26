@@ -1,6 +1,6 @@
 ---
 name: verwalterpflichten-26-27-weg
-description: "Wenn es um Verwalterpflichten Paragrafen 26. 27 WEG in WEG- und Hausverwaltung geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
+description: "Für Verwalterpflichten Paragrafen 26. 27 WEG: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Verwalterpflichten §§ 26, 27 WEG

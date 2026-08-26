@@ -1,6 +1,6 @@
 ---
 name: lph8-bauueberwachung-museum-denkmal-restaurierung
-description: "Wenn es um Bauueberwachung Museum und Denkmal Restaurierung (LPH 8) in HOAI Leistungsphasen Praxis geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen."
+description: "Für Bauüberwachung Museum und Denkmal Restaurierung (LPH 8): ordnet Norm, Beweislast und Gegenargument; Ergebnis: Schnittstellenkarte mit Zuständigkeits- und Nachweisfragen."
 ---
 
 # Bauueberwachung Museum und Denkmal Restaurierung (LPH 8)

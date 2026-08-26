@@ -1,6 +1,6 @@
 ---
 name: case-dpia-drift
-description: "Wenn es um Case: Tatbestandsmerkmale, Beweisfragen und Beleglage in diesem Spezialbereich geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Beweislast- und Substantiierungsmatrix."
+description: "Für Case: Tatbestandsmerkmale, Beweisfragen und Beleglage: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Case: Tatbestandsmerkmale, Beweisfragen und Beleglage

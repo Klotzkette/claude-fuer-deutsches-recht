@@ -1,6 +1,6 @@
 ---
 name: fachabteilung-briefing
-description: "Wenn es um Fachabteilung Briefing in Kanzlei-Mandant Lifecycle geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Fachabteilung Briefing: erstellt Entwurf mit Antrag, Beweis und Anlagen; Ergebnis: Schriftsatz mit Begründungs- und Anlagenlogik."
 ---
 
 # Fachabteilung Briefing

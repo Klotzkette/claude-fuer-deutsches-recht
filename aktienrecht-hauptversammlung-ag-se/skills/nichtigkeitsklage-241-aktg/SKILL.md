@@ -1,6 +1,6 @@
 ---
 name: nichtigkeitsklage-241-aktg
-description: "Wenn es um Nichtigkeitsklage 241 Aktg in Hauptversammlung AG und SE geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
+description: "Für Nichtigkeitsklage 241 Aktg: erstellt Entwurf mit Antrag, Beweis und Anlagen; Ergebnis: Schriftsatz mit Begründungs- und Anlagenlogik."
 ---
 
 # Nichtigkeitsklage 241 Aktg

@@ -1,6 +1,6 @@
 ---
 name: civitas-romana-erwerb-und-verlust
-description: "Wenn es um Rom 150 Civitas Romana Erwerb Und Verlust in Römisches Recht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Rom 150 Civitas Romana Erwerb und Verlust: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Rom 150 Civitas Romana Erwerb Und Verlust

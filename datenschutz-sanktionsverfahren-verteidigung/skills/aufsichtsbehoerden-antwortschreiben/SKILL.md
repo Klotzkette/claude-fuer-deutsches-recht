@@ -1,6 +1,6 @@
 ---
 name: aufsichtsbehoerden-antwortschreiben
-description: "Wenn es um Antwortschreiben an Aufsichtsbehörde in Datenschutz-Sanktionsverfahren und Verteidigung geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Beweislast- und Substantiierungsmatrix."
+description: "Für Antwortschreiben an Aufsichtsbehörde: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Antwortschreiben an Aufsichtsbehörde

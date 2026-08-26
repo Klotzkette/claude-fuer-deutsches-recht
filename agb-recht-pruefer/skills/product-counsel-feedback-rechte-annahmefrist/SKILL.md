@@ -1,6 +1,6 @@
 ---
 name: product-counsel-feedback-rechte-annahmefrist
-description: "Wenn es um Product Counsel Workflow in AGB-Recht-Prüfer geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Product Counsel Workflow: prüft Frist, Form, Zuständigkeit und Eilbedarf; Ergebnis: Fristen- und Risikoampel."
 ---
 
 # Product Counsel Workflow

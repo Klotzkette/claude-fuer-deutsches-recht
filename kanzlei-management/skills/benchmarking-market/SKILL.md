@@ -1,6 +1,6 @@
 ---
 name: benchmarking-market
-description: "Wenn es um Benchmarking und Marktvergleich in Kanzlei Management geht: entwickelt Verhandlungsziel, Vergleichskorridor und Eskalationspfad; liefert eine Verhandlungs- oder Eskalationslinie mit Optionen."
+description: "Für Benchmarking und Marktvergleich: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Benchmarking und Marktvergleich

@@ -1,6 +1,6 @@
 ---
 name: chronologie-belegmatrix
-description: "Wenn es um Chronologie und Belegmatrix in Forderungsmanagement — Klagewerkstatt geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert eine Chronologie mit Belegmatrix und Widerspruchsliste."
+description: "Für Chronologie und Belegmatrix: ordnet Akte, Belege und Lücken; Ergebnis: Chronologie mit Beleg- und Widerspruchsmatrix. Fachgebiet: Forderungsmanagement — Klagewerkstatt."
 ---
 
 # Chronologie und Belegmatrix

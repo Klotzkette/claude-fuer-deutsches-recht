@@ -1,6 +1,6 @@
 ---
 name: rmap-anschluss-an-legw
-description: "Wenn es um Anschluss der Rulemap-Arbeit an die Legistik-Werkstatt in Legistik-Werkstatt geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. Auswahlstichwort: Rmap Anschluss An Legw; Arbeitsfeld: Legistik-Werkstatt."
+description: "Für Anschluss der Rulemap-Arbeit an die Legistik-Werkstatt: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt. Fachgebiet: Legistik-Werkstatt. Route: rmap-anschluss-an-legw."
 ---
 
 # Anschluss der Rulemap-Arbeit an die Legistik-Werkstatt

@@ -1,6 +1,6 @@
 ---
 name: subcontractors-cloud-support-maintenance
-description: "Wenn es um Subcontractors und Cloud Stack in Softwarerecht Deutschland/EU/International/USA geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Subcontractors und Cloud Stack: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Subcontractors und Cloud Stack

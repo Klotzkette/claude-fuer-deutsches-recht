@@ -1,6 +1,6 @@
 ---
 name: deutschem-dokumentationspaket-excel
-description: "Wenn es um Deutschem Dokumentationspaket Excel in Liquiditätsplanung — Power geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen."
+description: "Für Deutschem Dokumentationspaket Excel: ordnet Akte, Belege und Lücken; Ergebnis: Schnittstellenkarte mit Zuständigkeits- und Nachweisfragen."
 ---
 
 # Deutschem Dokumentationspaket Excel

@@ -1,6 +1,6 @@
 ---
 name: ki-folgenabschaetzung-ki-governance-mandat
-description: "Wenn es um /ki-folgenabschätzung – digitale Werkzeuge-Folgenabschätzung in diesem Spezialbereich geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Beweislast- und Substantiierungsmatrix."
+description: "Für /ki-folgenabschätzung – digitale Werkzeuge-Folgenabschätzung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # /ki-folgenabschätzung – KI-Folgenabschätzung

@@ -1,6 +1,6 @@
 ---
 name: ueble-nachrede-verleumdung
-description: "Wenn es um Paragraf 186 StGB - üble Nachrede in Meinungsprüfer geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Paragraf 186 StGB - üble Nachrede: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Schnittstellenkarte mit Zuständigkeits- und Nachweisfragen."
 ---
 
 # § 186 StGB - üble Nachrede

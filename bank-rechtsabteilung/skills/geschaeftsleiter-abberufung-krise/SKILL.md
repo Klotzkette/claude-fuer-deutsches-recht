@@ -1,6 +1,6 @@
 ---
 name: geschaeftsleiter-abberufung-krise
-description: "Wenn es um Geschäftsleiterabberufung und Krise in Bank-Rechtsabteilung geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
+description: "Für Geschäftsleiterabberufung und Krise: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Geschäftsleiterabberufung und Krise

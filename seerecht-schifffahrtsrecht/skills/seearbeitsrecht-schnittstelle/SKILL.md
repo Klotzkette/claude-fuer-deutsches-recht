@@ -1,6 +1,6 @@
 ---
 name: seearbeitsrecht-schnittstelle
-description: "Wenn es um Seearbeitsrecht – Heurvertrag und MLC-Compliance in See- und Schifffahrtsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Seearbeitsrecht – Heurvertrag und MLC-Compliance: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Seearbeitsrecht – Heurvertrag und MLC-Compliance

@@ -1,6 +1,6 @@
 ---
 name: versicherungs-regressakte
-description: "Wenn es um Versicherung und Regress in robotik-recht geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt. Auswahlstichwort: Versicherungs Regressakte; Arbeitsfeld: robotik-recht."
+description: "Für Versicherung und Regress: ordnet Akte, Belege und Lücken; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt. Fachgebiet: robotik-recht. Route: versicherungs-regressakte."
 ---
 
 # Versicherung und Regress

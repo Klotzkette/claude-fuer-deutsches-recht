@@ -1,6 +1,6 @@
 ---
 name: verl-050-qualitaetsgate-verlagsakte
-description: "Wenn es um Verl 050 Qualitaetsgate Verlagsakte in Verlagsrecht und Buchpreisbindung geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Verl 050 Qualitätsgate Verlagsakte: ordnet Akte, Belege und Lücken; Ergebnis: Gegenprüfung mit Beweis- und Fristencheck."
 ---
 
 # Qualitätsgate Verlagsakte: Abschluss-Checkliste für das gesamte Plugin verlagsrecht-buchpreisbindung

@@ -1,6 +1,6 @@
 ---
 name: aussenwirtschaft-zollschuld-entstehung-haftung
-description: "Wenn es um Zollschuldentstehung und Haftung: Schuldner Nacherhebung und Erlass in Außenwirtschaft, Sanktionen, Zoll und CBAM geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Zollschuldentstehung und Haftung: Schuldner Nacherhebung und Erlass: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Zollschuldentstehung und Haftung: Schuldner Nacherhebung und Erlass

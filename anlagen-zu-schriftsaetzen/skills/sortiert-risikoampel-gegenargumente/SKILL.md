@@ -1,6 +1,6 @@
 ---
 name: sortiert-risikoampel-gegenargumente
-description: "Wenn es um Sortiert: Risikoampel, Gegenargumente und Verteidigungslinien in Anlagen zu Schriftsätzen geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten. Auswahlstichwort: Sortiert Risikoampel Gegenargumente; Arbeitsfeld: Anlagen zu Schriftsätzen."
+description: "Für Sortiert: Risikoampel, Gegenargumente und Verteidigungslinien: prüft Ergebnis, Beweislast und Gegenposition; Ergebnis: Fristen- und Risikoampel. Fachgebiet: Anlagen zu Schriftsätzen. Route: sortiert-risikoampel-gegenargumente."
 ---
 
 # Sortiert: Risikoampel, Gegenargumente und Verteidigungslinien

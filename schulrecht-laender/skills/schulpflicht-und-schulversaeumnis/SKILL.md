@@ -1,6 +1,6 @@
 ---
 name: schulpflicht-und-schulversaeumnis
-description: "Wenn es um Schulpflicht Und Schulversaeumnis in Schulrecht der Bundesländer geht: entwickelt Verhandlungsziel, Vergleichskorridor und Eskalationspfad; liefert eine Verhandlungs- oder Eskalationslinie mit Optionen."
+description: "Für Schulpflicht und Schulversäumnis: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Schnittstellenkarte mit Zuständigkeits- und Nachweisfragen."
 ---
 
 # Schulpflicht Und Schulversaeumnis

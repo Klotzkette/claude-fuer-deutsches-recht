@@ -1,6 +1,6 @@
 ---
 name: rechtsabteilung-kreditwuerdigkeits-ki-nach-schufa-linie
-description: "Wenn es um Rechtsabteilung: Kreditwürdigkeits-digitale Werkzeuge nach Schufa-Linie in diesem Spezialbereich geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt Stichwort für die Auswahl: Rechtsabteilung Kreditwuerdigkeits Ki Nach Schufa."
+description: "Für Rechtsabteilung: Kreditwürdigkeits-digitale Werkzeuge nach Schufa-Linie: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt. Fachgebiet: europäischem Technikregulierungsrecht. Route: rechtsabteilung-kreditwuerdigkeits-ki-nach-schufa-linie."
 ---
 
 # Rechtsabteilung: Kreditwürdigkeits-KI nach Schufa-Linie

@@ -1,6 +1,6 @@
 ---
 name: forensic-imaging
-description: "Wenn es um Forensic Imaging und IT-Datensicherung in Internal Investigations Praxis geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
+description: "Für Forensic Imaging und IT-Datensicherung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Forensic Imaging und IT-Datensicherung

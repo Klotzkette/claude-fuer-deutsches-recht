@@ -1,6 +1,6 @@
 ---
 name: rotation-und-cooling-off-organisationspflich
-description: "Wenn es um Rotation Und Cooling Off Organisationspflich in Berufsrecht Wirtschaftsprüfer geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Rotation und Cooling Off Organisationspflich: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Wirtschaftsprüfer: rotation und cooling off - Organisationspflichten, Prävention, Team-Anweisung und Fristenkontrolle

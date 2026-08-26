@@ -1,6 +1,6 @@
 ---
 name: kreuzfahrtschiff-risiko
-description: "Wenn es um Kreuzfahrtschiff – Risiko-Memo schreiben in See- und Schifffahrtsrecht geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
+description: "Für Kreuzfahrtschiff – Risiko-Memo schreiben: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Schnittstellenkarte mit Zuständigkeits- und Nachweisfragen."
 ---
 
 # Kreuzfahrtschiff – Risiko-Memo schreiben

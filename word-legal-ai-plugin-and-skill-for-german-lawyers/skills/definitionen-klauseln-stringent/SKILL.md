@@ -1,6 +1,6 @@
 ---
 name: definitionen-klauseln-stringent
-description: "Wenn es um Definitionen-Klauseln stringent in diesem Spezialbereich geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
+description: "Für Definitionen-Klauseln stringent: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Definitionen-Klauseln stringent

@@ -1,6 +1,6 @@
 ---
 name: versr-obliegenheit-28-quotelung-kausalitaet
-description: "Wenn es um Versr Obliegenheit 28 Quotelung Kausalitaet in Fachanwalt Versicherungsrecht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Beweislast- und Substantiierungsmatrix."
+description: "Für Versr Obliegenheit 28 Quotelung Kausalität: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Obliegenheitsverletzung nach § 28 VVG mit Vorsatz/grober Fahrlässigkeit, Rechtsfolgenbelehrung, Kausalitätsgegenbeweis und Quote.

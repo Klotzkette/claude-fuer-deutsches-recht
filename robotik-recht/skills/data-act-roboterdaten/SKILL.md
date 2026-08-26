@@ -1,6 +1,6 @@
 ---
 name: data-act-roboterdaten
-description: "Wenn es um Data Act bei vernetzten Robotern in robotik-recht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Data Act bei vernetzten Robotern: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Data Act bei vernetzten Robotern

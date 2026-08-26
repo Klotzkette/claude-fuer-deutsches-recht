@@ -1,6 +1,6 @@
 ---
 name: eigene-vorarbeiten-erstantragsteller
-description: "Wenn es um DFG: Eigene Vorarbeiten in DFG-Förderantrag geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik. Auswahlstichwort: Eigene Vorarbeiten Erstantragsteller; Arbeitsfeld: DFG-Förderantrag."
+description: "Für DFG: Eigene Vorarbeiten: erstellt Entwurf mit Antrag, Beweis und Anlagen; Ergebnis: Schriftsatz mit Begründungs- und Anlagenlogik."
 ---
 
 # DFG: Eigene Vorarbeiten

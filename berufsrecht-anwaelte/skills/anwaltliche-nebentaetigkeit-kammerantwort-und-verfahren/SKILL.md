@@ -1,6 +1,6 @@
 ---
 name: anwaltliche-nebentaetigkeit-kammerantwort-und-verfahren
-description: "Wenn es um Anwaltliche Nebentaetigkeit Kammerantwort Und Verfahren in Berufsrecht Anwälte geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Verhandlungs- oder Eskalationslinie mit Optionen."
+description: "Für Anwaltliche Nebentätigkeit Kammerantwort und Verfahren: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Anwälte: anwaltliche nebentaetigkeit - Kammerantwort mit Verfahrensstrategie, Tonlage und Belegplan

@@ -1,6 +1,6 @@
 ---
 name: bewertungsspielraum-und-kontrolle
-description: "Wenn es um Bewertungsspielraum Und Kontrolle in Prüfungsrecht an Hochschulen und Universitäten geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Bewertungsspielraum und Kontrolle: prüft Ergebnis, Beweislast und Gegenposition; Ergebnis: Gegenprüfung mit Beweis- und Fristencheck."
 ---
 
 # Bewertungsspielraum Und Kontrolle

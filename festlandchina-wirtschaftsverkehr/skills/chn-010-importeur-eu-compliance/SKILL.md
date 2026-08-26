@@ -1,6 +1,6 @@
 ---
 name: chn-010-importeur-eu-compliance
-description: "Wenn es um Importeur EU Compliance in China-Wirtschaftsverkehr geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Importeur EU Compliance: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Schnittstellenkarte mit Zuständigkeits- und Nachweisfragen."
 ---
 
 # Importeur EU Compliance

@@ -1,6 +1,6 @@
 ---
 name: urhmr-leistungsschutzrecht-presse-spezial
-description: "Wenn es um Urhmr Leistungsschutzrecht Presse Spezial in Fachanwalt Urheber Medienrecht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
+description: "Für Urhmr Leistungsschutzrecht Presse Spezial: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Spezialfall Leistungsschutzrecht Presseverleger §§ 87f ff

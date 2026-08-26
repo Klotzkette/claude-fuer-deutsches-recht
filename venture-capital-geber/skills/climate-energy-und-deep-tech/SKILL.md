@@ -1,6 +1,6 @@
 ---
 name: climate-energy-und-deep-tech
-description: "Wenn es um Climate, Energy und Deep Tech in Venture Capital Geber geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Climate, Energy und Deep Tech: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Climate, Energy und Deep Tech

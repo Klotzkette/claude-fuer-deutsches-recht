@@ -1,6 +1,6 @@
 ---
 name: ermessen-paragraf-40-vwvfg
-description: "Wenn es um Ermessen Paragraf 40 VwVfG in Fachanwalt Verwaltungsrecht geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Ermessen Paragraf 40 VwVfG: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Ermessen § 40 VwVfG

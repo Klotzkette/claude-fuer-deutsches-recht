@@ -1,6 +1,6 @@
 ---
 name: rechtspolitische-unsicherheit-43e-brao
-description: "Wenn es um Rechtsunsicherheit zu Paragraf 43e BRAO dokumentieren in anwaltlichem Berufsrecht und Vertragsprüfung geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen."
+description: "Für Rechtsunsicherheit zu Paragraf 43e BRAO dokumentieren: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Rechtsunsicherheit zu § 43e BRAO dokumentieren

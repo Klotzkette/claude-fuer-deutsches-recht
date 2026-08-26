@@ -7,20 +7,20 @@ Diese Vollprüfung enthält top-15 von 58 Skills des Plugins `telekommunikations
 ## Inhaltsverzeichnis
 
 1. **juristischer-argumentationskern** — Schaltet sich ein, wenn in Telekommunikationsrecht ein juristisches Arbeitsprodukt tragfähig begründet werden muss; verb…
-2. **kaltstart-routing** — Wenn es um Telekommunikationsrecht: Kaltstart und Rechtsweg-Triage in Telekommunikationsrecht geht: klärt Rolle, Ziel, F…
-3. **rufnummernmissbrauch-abschaltung** — Wenn es um Rufnummernmissbrauch, Abschaltung und Inkassoverbot in Telekommunikationsrecht geht: ordnet Sachverhalt, Norm…
-4. **abhoerschnittstellen-sicherheitsbehoerden** — Wenn es um Überwachungsschnittstellen und Behördenauskünfte in Telekommunikationsrecht geht: ordnet Sachverhalt, Norm, B…
-5. **cookies-telemedien-ttdsg-tdddg** — Wenn es um Cookies, Telemedien und TDDDG-Schnittstelle in Telekommunikationsrecht geht: ordnet Sachverhalt, Norm, Beweis…
-6. **datacenter-tk-eilrechtsschutz** — Wenn es um Datacenter Connectivity und Carrier Meet-Me in Telekommunikationsrecht geht: ordnet Sachverhalt, Norm, Beweis…
-7. **output-beschwerde-antrag-klage** — Wenn es um Output-Generator: Beschwerde, Antrag, Klage, Stellungnahme in Telekommunikationsrecht geht: erstellt den pass…
-8. **stoerung-tk-streitbeilegung** — Wenn es um Störung, Minderung und Ausfallentschädigung in Telekommunikationsrecht geht: ordnet Sachverhalt, Norm, Beweis…
-9. **mindestvertragslaufzeit-tk-umzug** — Wenn es um Mindestlaufzeit, Verlängerung, Kündigung in Telekommunikationsrecht geht: ordnet Sachverhalt, Norm, Beweislas…
-10. **missbrauchsaufsicht-tk-mitnutzung** — Wenn es um TK-Missbrauchsaufsicht als Sonderkartellrecht in Telekommunikationsrecht geht: ordnet Sachverhalt, Norm, Bewe…
-11. **anbieterwechsel-rufnummernmitnahme** — Wenn es um Anbieterwechsel und Rufnummernmitnahme in Telekommunikationsrecht geht: ordnet Sachverhalt, Norm, Beweislast,…
-12. **meldepflicht-it-sicherheitsvorfall** — Wenn es um IT-Sicherheitsvorfall und Meldepflicht in Telekommunikationsrecht geht: ordnet Sachverhalt, Norm, Beweislast,…
-13. **netzneutralitaet-tk-nis2** — Wenn es um Netzneutralität, Zero-Rating und Drosselung in Telekommunikationsrecht geht: ordnet Sachverhalt, Norm, Beweis…
-14. **glasfaser-tk-infrastruktursharing** — Wenn es um Glasfaser-Hausanschluss und Wegerecht in Telekommunikationsrecht geht: ordnet Sachverhalt, Norm, Beweislast, …
-15. **infrastruktursharing-open-access** — Wenn es um Infrastruktursharing und Open Access in Telekommunikationsrecht geht: ordnet Sachverhalt, Norm, Beweislast, G…
+2. **zustaendigkeits-router-bnetza-vg-lg** — Für Zuständigkeit: BNetzA, Verwaltungsgericht, Zivilgericht, Kartellspur: prüft Frist, Form, Zuständigkeit und Eilbedarf…
+3. **mitnutzung-gebaeude-netze** — Für Mitnutzung von Gebäudenetzen und passiver Infrastruktur: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Schnit…
+4. **output-beschwerde-antrag-klage** — Für Output-Generator: Beschwerde, Antrag, Klage, Stellungnahme: erstellt Entwurf mit Antrag, Beweis und Anlagen; Ergebni…
+5. **abhoerschnittstellen-sicherheitsbehoerden** — Für Überwachungsschnittstellen und Behördenauskünfte: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Schnittstelle…
+6. **kaltstart-routing** — Für Telekommunikationsrecht: Kaltstart und Rechtsweg-Triage: routet Rolle, Frist, Unterlagen und Fachschritt; Ergebnis: …
+7. **netzneutralitaet-tk-nis2** — Für Netzneutralität, Zero-Rating und Drosselung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Schnittstellenkart…
+8. **entgeltgenehmigung-tk-eu** — Für Entgeltgenehmigung und Kostenorientierung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Schnittstellenkarte …
+9. **bundesnetzagentur-tk-zustaendigkeits** — Für BNetzA-Verfahren: Akteneinsicht, Anhörung, Fristen: prüft Frist, Form, Zuständigkeit und Eilbedarf; Ergebnis: Prüfpr…
+10. **eu-eecc-router** — Für EU Electronic Communications Code Router: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Schnittstellenkarte m…
+11. **kartellrecht-schnittstelle-gwb-eu** — Für Kartellrechtliche Schnittstelle GWB/EU: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Schnittstellenkarte mit…
+12. **rufnummernmissbrauch-abschaltung** — Für Rufnummernmissbrauch, Abschaltung und Inkassoverbot: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfproduk…
+13. **missbrauchsaufsicht-tk-mitnutzung** — Für TK-Missbrauchsaufsicht als Sonderkartellrecht: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit …
+14. **zivilklage-tk-abhoerschnittstellen** — Für Zivilklage: Entgelt, Schaden, Vertrag: erstellt Entwurf mit Antrag, Beweis und Anlagen; Ergebnis: Schriftsatz mit Be…
+15. **cookies-telemedien-ttdsg-tdddg** — Für Cookies, Telemedien und TDDDG-Schnittstelle: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Ri…
 
 ---
 
@@ -139,9 +139,139 @@ Ausgangspunkt für dieses Plugin: Anspruchsteller für anspruchsbegründende Tat
 
 ---
 
+## Skill: `zustaendigkeits-router-bnetza-vg-lg`
+
+_Für Zuständigkeit: BNetzA, Verwaltungsgericht, Zivilgericht, Kartellspur: prüft Frist, Form, Zuständigkeit und Eilbedarf; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt._
+
+# Zuständigkeit: BNetzA, Verwaltungsgericht, Zivilgericht, Kartellspur
+
+## Arbeitsweg
+
+- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
+- Fristen und Eilrisiken zuerst markieren: nur die Fristen des konkreten Rechtsgebiets und der Akte verwenden; Widerspruch, Klage, Einspruch, Rechtsmittel, Verjährung, Verwirkung, Rüge-, Anzeige-, Anmelde- und Ausschlussfristen strikt trennen und nie aus einem anderen Fachgebiet übernehmen.
+- Tragende Normen verifizieren: DSGVO Art. 5, 6, 7, 9, 12-22, 25, 28, 30, 32, 33-34, 35, 51-58, 77-83, BDSG §§ 22-25, 26, 30; GWB §§ 1, 2, 18, 19, 20, 33, 35, 36, AEUV Art. 101, 102, FKVO 139/2004; BNetzAG, EnWG §§ 21 ff., TKG, PostG, MessEG, BSI-KritisV, DigiNetzG; TKG (i.d.F. 2021), TKMV, EU-Kodex 2018/1972, DigiNetzG, NIS2-RL, eIDAS — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
+- Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
+- Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
+
+## Norm- und Quellenanker
+
+TKG; VwGO; VwVfG; GVG/ZPO; GWB; AEUV Art. 101/102; Rechtsbehelfsbelehrung live prüfen.
+
+## Red Flags
+
+- falsche Klageart
+- Beschwerde ohne Hemmung
+- zivilrechtliche Forderung als Regulierungsstreit behandelt
+- Kartellspur übersehen
+
+## Anschluss-Skills
+
+- tk-verwaltungsrecht-anfechtung-bnetza
+- tk-zivilklage-lg-entgelt-schadensersatz
+
+---
+
+## Skill: `mitnutzung-gebaeude-netze`
+
+_Für Mitnutzung von Gebäudenetzen und passiver Infrastruktur: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Schnittstellenkarte mit Zuständigkeits- und Nachweisfragen._
+
+# Mitnutzung von Gebäudenetzen und passiver Infrastruktur
+
+## Arbeitsweg
+
+- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
+- Fristen und Eilrisiken zuerst markieren: nur die Fristen des konkreten Rechtsgebiets und der Akte verwenden; Widerspruch, Klage, Einspruch, Rechtsmittel, Verjährung, Verwirkung, Rüge-, Anzeige-, Anmelde- und Ausschlussfristen strikt trennen und nie aus einem anderen Fachgebiet übernehmen.
+- Tragende Normen verifizieren: DSGVO Art. 5, 6, 7, 9, 12-22, 25, 28, 30, 32, 33-34, 35, 51-58, 77-83, BDSG §§ 22-25, 26, 30; GWB §§ 1, 2, 18, 19, 20, 33, 35, 36, AEUV Art. 101, 102, FKVO 139/2004; BNetzAG, EnWG §§ 21 ff., TKG, PostG, MessEG, BSI-KritisV, DigiNetzG; TKG (i.d.F. 2021), TKMV, EU-Kodex 2018/1972, DigiNetzG, NIS2-RL, eIDAS — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
+- Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
+- Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
+
+## Norm- und Quellenanker
+
+TKG Mitnutzung; WEG/BGB; Infrastrukturatlas/BNetzA; Geschäftsgeheimnisse.
+
+## Red Flags
+
+- Eigentümer unklar
+- Kapazität nur behauptet
+- Geschäftsgeheimnisse nicht geschützt
+
+## Anschluss-Skills
+
+- Starte wieder mit `tk-allgemeiner-kaltstart`, wenn Rechtsweg, Rolle oder Bescheid noch unklar sind.
+
+---
+
+## Skill: `output-beschwerde-antrag-klage`
+
+_Für Output-Generator: Beschwerde, Antrag, Klage, Stellungnahme: erstellt Entwurf mit Antrag, Beweis und Anlagen; Ergebnis: Schriftsatz mit Begründungs- und Anlagenlogik._
+
+# Output-Generator: Beschwerde, Antrag, Klage, Stellungnahme
+
+## Norm- und Quellenanker
+
+- **TKG:** § 2 TKG (Regulierungsziele), § 52 TKG (Streitbeilegung/Informationspflichten im Endnutzerkontext), § 68 TKG (Schlichtung bei der BNetzA), § 125 TKG (Wegerecht), § 127 TKG (Zustimmung des Wegebaulasttraegers).
+- **Verwaltungsrecht:** §§ 22, 24, 37, 39 VwVfG fuer Antrag, Amtsermittlung, Bestimmtheit und Begruendung; §§ 68 ff., 74, 80 Abs. 5, 123 VwGO fuer Widerspruch, Klagefrist und Eilrechtsschutz.
+- **Zivilrecht:** §§ 241, 280, 281, 323, 314, 536a analog nur vorsichtig, §§ 305 ff. BGB fuer AGB-/Providerklauseln; ZPO §§ 253, 256, 286, 940 ff. bei Klage, Feststellung und Eilrechtsschutz.
+- **Quellen:** BNetzA-Formulare und TKG-Normstand live pruefen; bei Endnutzerfaellen immer unterscheiden zwischen Beschwerde, Schlichtungsantrag, zivilrechtlicher Forderung und verwaltungsrechtlichem Antrag.
+
+## Red Flags
+
+- falsche Behörde
+- keine Anlagenlogik
+- Begehren zu unbestimmt
+- zivilrechtliche und öffentlich-rechtliche Anträge vermischt
+- Schlichtungsantrag nach § 68 TKG wird mit einer Aufsichtsbeschwerde verwechselt
+- Wegerechtsantrag nach § 125 TKG und kommunale Zustimmung nach § 127 TKG werden in einem unklaren Schreiben vermengt
+- Fristen nach VwGO oder vertragliche Ausschluss-/Entstörungsfristen werden nicht getrennt
+
+## Arbeitsprodukt
+
+1. **Sachverhaltskopf:** Anschluss, Dienst, Anbieter, Kundentyp, Ort, Zeitachse, bisherige Tickets, Stoerungsnummern, Vertragsunterlagen.
+2. **Rechtsweg-Router:** BNetzA-Schlichtung, BNetzA-Aufsicht, Verwaltungsverfahren, Zivilklage oder einstweilige Verfuegung.
+3. **Antragssatz:** genau ein Hauptbegehren, danach Hilfsbegehren; keine Mischung von „bitte pruefen“ und vollstreckbarem Antrag.
+4. **Anlagenlogik:** Vertrag, AGB, Rechnungen, Stoerungsprotokoll, Speedtests, Screenshots, Ticketverlauf, Fristsetzung.
+5. **Output:** Beschwerde, Schlichtungsantrag, Verwaltungsantrag, Widerspruch, Klageentwurf, Klageerwiderung oder Vergleichsvorschlag.
+
+## Anschluss-Skills
+
+- tk-zuständigkeits-router-bnetza-vg-lg
+- tk-beschwerde-dashboard-bnetza
+
+---
+
+## Skill: `abhoerschnittstellen-sicherheitsbehoerden`
+
+_Für Überwachungsschnittstellen und Behördenauskünfte: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Schnittstellenkarte mit Zuständigkeits- und Nachweisfragen._
+
+# Überwachungsschnittstellen und Behördenauskünfte
+
+## Arbeitsweg
+
+- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
+- Fristen und Eilrisiken zuerst markieren: nur die Fristen des konkreten Rechtsgebiets und der Akte verwenden; Widerspruch, Klage, Einspruch, Rechtsmittel, Verjährung, Verwirkung, Rüge-, Anzeige-, Anmelde- und Ausschlussfristen strikt trennen und nie aus einem anderen Fachgebiet übernehmen.
+- Tragende Normen verifizieren: DSGVO Art. 5, 6, 7, 9, 12-22, 25, 28, 30, 32, 33-34, 35, 51-58, 77-83, BDSG §§ 22-25, 26, 30; GWB §§ 1, 2, 18, 19, 20, 33, 35, 36, AEUV Art. 101, 102, FKVO 139/2004; BNetzAG, EnWG §§ 21 ff., TKG, PostG, MessEG, BSI-KritisV, DigiNetzG; TKG (i.d.F. 2021), TKMV, EU-Kodex 2018/1972, DigiNetzG, NIS2-RL, eIDAS — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
+- Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
+- Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
+
+## Norm- und Quellenanker
+
+TKG; TKÜV; StPO; Polizeirecht; Datenschutzrecht.
+
+## Red Flags
+
+- informelle Anfrage
+- falsche Datenkategorie
+- keine Dokumentation
+
+## Anschluss-Skills
+
+- Starte wieder mit `tk-allgemeiner-kaltstart`, wenn Rechtsweg, Rolle oder Bescheid noch unklar sind.
+
+---
+
 ## Skill: `kaltstart-routing`
 
-_Wenn es um Telekommunikationsrecht: Kaltstart und Rechtsweg-Triage in Telekommunikationsrecht geht: klärt Rolle, Ziel, Frist, Unterlagen und den passenden nächsten Fachskill; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt._
+_Für Telekommunikationsrecht: Kaltstart und Rechtsweg-Triage: routet Rolle, Frist, Unterlagen und Fachschritt; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt._
 
 # Telekommunikationsrecht: Kaltstart und Rechtsweg-Triage
 
@@ -178,323 +308,9 @@ TKG 2021; TDDDG; DSGVO; VwVfG/VwGO; BGB; GWB/AEUV; EU-Richtlinie 2018/1972 (EECC
 
 ---
 
-## Skill: `rufnummernmissbrauch-abschaltung`
-
-_Wenn es um Rufnummernmissbrauch, Abschaltung und Inkassoverbot in Telekommunikationsrecht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt._
-
-# Rufnummernmissbrauch, Abschaltung und Inkassoverbot
-
-## Arbeitsweg
-
-- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
-- Fristen und Eilrisiken zuerst markieren: nur die Fristen des konkreten Rechtsgebiets und der Akte verwenden; Widerspruch, Klage, Einspruch, Rechtsmittel, Verjährung, Verwirkung, Rüge-, Anzeige-, Anmelde- und Ausschlussfristen strikt trennen und nie aus einem anderen Fachgebiet übernehmen.
-- Tragende Normen verifizieren: DSGVO Art. 5, 6, 7, 9, 12-22, 25, 28, 30, 32, 33-34, 35, 51-58, 77-83, BDSG §§ 22-25, 26, 30; GWB §§ 1, 2, 18, 19, 20, 33, 35, 36, AEUV Art. 101, 102, FKVO 139/2004; BNetzAG, EnWG §§ 21 ff., TKG, PostG, MessEG, BSI-KritisV, DigiNetzG; TKG (i.d.F. 2021), TKMV, EU-Kodex 2018/1972, DigiNetzG, NIS2-RL, eIDAS — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
-- Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
-- Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
-
-## Norm- und Quellenanker
-
-TKG Missbrauchsaufsicht/Nummerierung; UWG; BNetzA-Verbraucherschutz.
-
-## Red Flags
-
-- Kundenbeschwerden nicht gesichert
-- Inkasso trotz Verbot
-- Callcenter-Kette unklar
-
-## Anschluss-Skills
-
-- Starte wieder mit `tk-allgemeiner-kaltstart`, wenn Rechtsweg, Rolle oder Bescheid noch unklar sind.
-
----
-
-## Skill: `abhoerschnittstellen-sicherheitsbehoerden`
-
-_Wenn es um Überwachungsschnittstellen und Behördenauskünfte in Telekommunikationsrecht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen._
-
-# Überwachungsschnittstellen und Behördenauskünfte
-
-## Arbeitsweg
-
-- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
-- Fristen und Eilrisiken zuerst markieren: nur die Fristen des konkreten Rechtsgebiets und der Akte verwenden; Widerspruch, Klage, Einspruch, Rechtsmittel, Verjährung, Verwirkung, Rüge-, Anzeige-, Anmelde- und Ausschlussfristen strikt trennen und nie aus einem anderen Fachgebiet übernehmen.
-- Tragende Normen verifizieren: DSGVO Art. 5, 6, 7, 9, 12-22, 25, 28, 30, 32, 33-34, 35, 51-58, 77-83, BDSG §§ 22-25, 26, 30; GWB §§ 1, 2, 18, 19, 20, 33, 35, 36, AEUV Art. 101, 102, FKVO 139/2004; BNetzAG, EnWG §§ 21 ff., TKG, PostG, MessEG, BSI-KritisV, DigiNetzG; TKG (i.d.F. 2021), TKMV, EU-Kodex 2018/1972, DigiNetzG, NIS2-RL, eIDAS — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
-- Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
-- Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
-
-## Norm- und Quellenanker
-
-TKG; TKÜV; StPO; Polizeirecht; Datenschutzrecht.
-
-## Red Flags
-
-- informelle Anfrage
-- falsche Datenkategorie
-- keine Dokumentation
-
-## Anschluss-Skills
-
-- Starte wieder mit `tk-allgemeiner-kaltstart`, wenn Rechtsweg, Rolle oder Bescheid noch unklar sind.
-
----
-
-## Skill: `cookies-telemedien-ttdsg-tdddg`
-
-_Wenn es um Cookies, Telemedien und TDDDG-Schnittstelle in Telekommunikationsrecht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt._
-
-# Cookies, Telemedien und TDDDG-Schnittstelle
-
-## Arbeitsweg
-
-- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
-- Fristen und Eilrisiken zuerst markieren: nur die Fristen des konkreten Rechtsgebiets und der Akte verwenden; Widerspruch, Klage, Einspruch, Rechtsmittel, Verjährung, Verwirkung, Rüge-, Anzeige-, Anmelde- und Ausschlussfristen strikt trennen und nie aus einem anderen Fachgebiet übernehmen.
-- Tragende Normen verifizieren: DSGVO Art. 5, 6, 7, 9, 12-22, 25, 28, 30, 32, 33-34, 35, 51-58, 77-83, BDSG §§ 22-25, 26, 30; GWB §§ 1, 2, 18, 19, 20, 33, 35, 36, AEUV Art. 101, 102, FKVO 139/2004; BNetzAG, EnWG §§ 21 ff., TKG, PostG, MessEG, BSI-KritisV, DigiNetzG; TKG (i.d.F. 2021), TKMV, EU-Kodex 2018/1972, DigiNetzG, NIS2-RL, eIDAS — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
-- Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
-- Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
-
-## Norm- und Quellenanker
-
-TDDDG; DSGVO; ePrivacy; TKG.
-
-## Red Flags
-
-- Cookie und Verkehrsdaten vermischt
-- berechtigtes Interesse überdehnt
-- CMP falsch konfiguriert
-
-## Anschluss-Skills
-
-- Starte wieder mit `tk-allgemeiner-kaltstart`, wenn Rechtsweg, Rolle oder Bescheid noch unklar sind.
-
----
-
-## Skill: `datacenter-tk-eilrechtsschutz`
-
-_Wenn es um Datacenter Connectivity und Carrier Meet-Me in Telekommunikationsrecht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt._
-
-# Datacenter Connectivity und Carrier Meet-Me
-
-## Arbeitsweg
-
-- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
-- Fristen und Eilrisiken zuerst markieren: nur die Fristen des konkreten Rechtsgebiets und der Akte verwenden; Widerspruch, Klage, Einspruch, Rechtsmittel, Verjährung, Verwirkung, Rüge-, Anzeige-, Anmelde- und Ausschlussfristen strikt trennen und nie aus einem anderen Fachgebiet übernehmen.
-- Tragende Normen verifizieren: DSGVO Art. 5, 6, 7, 9, 12-22, 25, 28, 30, 32, 33-34, 35, 51-58, 77-83, BDSG §§ 22-25, 26, 30; GWB §§ 1, 2, 18, 19, 20, 33, 35, 36, AEUV Art. 101, 102, FKVO 139/2004; BNetzAG, EnWG §§ 21 ff., TKG, PostG, MessEG, BSI-KritisV, DigiNetzG; TKG (i.d.F. 2021), TKMV, EU-Kodex 2018/1972, DigiNetzG, NIS2-RL, eIDAS — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
-- Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
-- Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
-
-## Norm- und Quellenanker
-
-BGB; TKG; NIS2/BSI; AGB-Recht.
-
-## Red Flags
-
-- Cross-Connect ohne klare Verantwortung
-- Wartungsfenster zu breit
-- Security-Zutritt ungeklärt
-
-## Anschluss-Skills
-
-- Starte wieder mit `tk-allgemeiner-kaltstart`, wenn Rechtsweg, Rolle oder Bescheid noch unklar sind.
-
----
-
-## Skill: `output-beschwerde-antrag-klage`
-
-_Wenn es um Output-Generator: Beschwerde, Antrag, Klage, Stellungnahme in Telekommunikationsrecht geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik._
-
-# Output-Generator: Beschwerde, Antrag, Klage, Stellungnahme
-
-## Norm- und Quellenanker
-
-- **TKG:** § 2 TKG (Regulierungsziele), § 52 TKG (Streitbeilegung/Informationspflichten im Endnutzerkontext), § 68 TKG (Schlichtung bei der BNetzA), § 125 TKG (Wegerecht), § 127 TKG (Zustimmung des Wegebaulasttraegers).
-- **Verwaltungsrecht:** §§ 22, 24, 37, 39 VwVfG fuer Antrag, Amtsermittlung, Bestimmtheit und Begruendung; §§ 68 ff., 74, 80 Abs. 5, 123 VwGO fuer Widerspruch, Klagefrist und Eilrechtsschutz.
-- **Zivilrecht:** §§ 241, 280, 281, 323, 314, 536a analog nur vorsichtig, §§ 305 ff. BGB fuer AGB-/Providerklauseln; ZPO §§ 253, 256, 286, 940 ff. bei Klage, Feststellung und Eilrechtsschutz.
-- **Quellen:** BNetzA-Formulare und TKG-Normstand live pruefen; bei Endnutzerfaellen immer unterscheiden zwischen Beschwerde, Schlichtungsantrag, zivilrechtlicher Forderung und verwaltungsrechtlichem Antrag.
-
-## Red Flags
-
-- falsche Behörde
-- keine Anlagenlogik
-- Begehren zu unbestimmt
-- zivilrechtliche und öffentlich-rechtliche Anträge vermischt
-- Schlichtungsantrag nach § 68 TKG wird mit einer Aufsichtsbeschwerde verwechselt
-- Wegerechtsantrag nach § 125 TKG und kommunale Zustimmung nach § 127 TKG werden in einem unklaren Schreiben vermengt
-- Fristen nach VwGO oder vertragliche Ausschluss-/Entstörungsfristen werden nicht getrennt
-
-## Arbeitsprodukt
-
-1. **Sachverhaltskopf:** Anschluss, Dienst, Anbieter, Kundentyp, Ort, Zeitachse, bisherige Tickets, Stoerungsnummern, Vertragsunterlagen.
-2. **Rechtsweg-Router:** BNetzA-Schlichtung, BNetzA-Aufsicht, Verwaltungsverfahren, Zivilklage oder einstweilige Verfuegung.
-3. **Antragssatz:** genau ein Hauptbegehren, danach Hilfsbegehren; keine Mischung von „bitte pruefen“ und vollstreckbarem Antrag.
-4. **Anlagenlogik:** Vertrag, AGB, Rechnungen, Stoerungsprotokoll, Speedtests, Screenshots, Ticketverlauf, Fristsetzung.
-5. **Output:** Beschwerde, Schlichtungsantrag, Verwaltungsantrag, Widerspruch, Klageentwurf, Klageerwiderung oder Vergleichsvorschlag.
-
-## Anschluss-Skills
-
-- tk-zuständigkeits-router-bnetza-vg-lg
-- tk-beschwerde-dashboard-bnetza
-
----
-
-## Skill: `stoerung-tk-streitbeilegung`
-
-_Wenn es um Störung, Minderung und Ausfallentschädigung in Telekommunikationsrecht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt._
-
-# Störung, Minderung und Ausfallentschädigung
-
-## Arbeitsweg
-
-- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
-- Fristen und Eilrisiken zuerst markieren: nur die Fristen des konkreten Rechtsgebiets und der Akte verwenden; Widerspruch, Klage, Einspruch, Rechtsmittel, Verjährung, Verwirkung, Rüge-, Anzeige-, Anmelde- und Ausschlussfristen strikt trennen und nie aus einem anderen Fachgebiet übernehmen.
-- Tragende Normen verifizieren: DSGVO Art. 5, 6, 7, 9, 12-22, 25, 28, 30, 32, 33-34, 35, 51-58, 77-83, BDSG §§ 22-25, 26, 30; GWB §§ 1, 2, 18, 19, 20, 33, 35, 36, AEUV Art. 101, 102, FKVO 139/2004; BNetzAG, EnWG §§ 21 ff., TKG, PostG, MessEG, BSI-KritisV, DigiNetzG; TKG (i.d.F. 2021), TKMV, EU-Kodex 2018/1972, DigiNetzG, NIS2-RL, eIDAS — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
-- Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
-- Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
-
-## Norm- und Quellenanker
-
-TKG Kundenschutz, insbesondere Minderungs-/Entschädigungsregeln live prüfen; BGB §§ 280, 536 analog nur vorsichtig; ZPO.
-
-## Red Flags
-
-- Messung über WLAN
-- Störung nicht gemeldet
-- Business-SLA ignoriert
-- Schadenshöhe nicht kausal belegt
-
-## Anschluss-Skills
-
-- tk-beweisplan-messung-stoerung-protokoll
-- tk-schlichtung-verbraucher
-
----
-
-## Skill: `mindestvertragslaufzeit-tk-umzug`
-
-_Wenn es um Mindestlaufzeit, Verlängerung, Kündigung in Telekommunikationsrecht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt._
-
-# Mindestlaufzeit, Verlängerung, Kündigung
-
-## Arbeitsweg
-
-- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
-- Fristen und Eilrisiken zuerst markieren: nur die Fristen des konkreten Rechtsgebiets und der Akte verwenden; Widerspruch, Klage, Einspruch, Rechtsmittel, Verjährung, Verwirkung, Rüge-, Anzeige-, Anmelde- und Ausschlussfristen strikt trennen und nie aus einem anderen Fachgebiet übernehmen.
-- Tragende Normen verifizieren: DSGVO Art. 5, 6, 7, 9, 12-22, 25, 28, 30, 32, 33-34, 35, 51-58, 77-83, BDSG §§ 22-25, 26, 30; GWB §§ 1, 2, 18, 19, 20, 33, 35, 36, AEUV Art. 101, 102, FKVO 139/2004; BNetzAG, EnWG §§ 21 ff., TKG, PostG, MessEG, BSI-KritisV, DigiNetzG; TKG (i.d.F. 2021), TKMV, EU-Kodex 2018/1972, DigiNetzG, NIS2-RL, eIDAS — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
-- Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
-- Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
-
-## Norm- und Quellenanker
-
-TKG Kundenschutz; BGB §§ 309, 312k, 314; TDDDG bei Onlineabschluss; AGB-Recht.
-
-## Red Flags
-
-- alte Laufzeitlogik verwendet
-- Kündigung im Portal nicht beweisbar
-- Businessvertrag mit Verbraucherrecht verwechselt
-- Sonderkündigungsgrund nicht dokumentiert
-
-## Anschluss-Skills
-
-- tk-umzug-vertragsanpassung
-- tk-output-beschwerde-antrag-klage
-
----
-
-## Skill: `missbrauchsaufsicht-tk-mitnutzung`
-
-_Wenn es um TK-Missbrauchsaufsicht als Sonderkartellrecht in Telekommunikationsrecht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen._
-
-# TK-Missbrauchsaufsicht als Sonderkartellrecht
-
-## Arbeitsweg
-
-- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
-- Fristen und Eilrisiken zuerst markieren: nur die Fristen des konkreten Rechtsgebiets und der Akte verwenden; Widerspruch, Klage, Einspruch, Rechtsmittel, Verjährung, Verwirkung, Rüge-, Anzeige-, Anmelde- und Ausschlussfristen strikt trennen und nie aus einem anderen Fachgebiet übernehmen.
-- Tragende Normen verifizieren: DSGVO Art. 5, 6, 7, 9, 12-22, 25, 28, 30, 32, 33-34, 35, 51-58, 77-83, BDSG §§ 22-25, 26, 30; GWB §§ 1, 2, 18, 19, 20, 33, 35, 36, AEUV Art. 101, 102, FKVO 139/2004; BNetzAG, EnWG §§ 21 ff., TKG, PostG, MessEG, BSI-KritisV, DigiNetzG; TKG (i.d.F. 2021), TKMV, EU-Kodex 2018/1972, DigiNetzG, NIS2-RL, eIDAS — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
-- Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
-- Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
-
-## Norm- und Quellenanker
-
-TKG; GWB §§ 18–20; AEUV Art. 102; BNetzA/BKartA-Schnittstelle.
-
-## Red Flags
-
-- Kartellbegriffe ohne TK-Norm
-- keine Vergleichsgruppe
-- Parallelzuständigkeit ungeklärt
-
-## Anschluss-Skills
-
-- Starte wieder mit `tk-allgemeiner-kaltstart`, wenn Rechtsweg, Rolle oder Bescheid noch unklar sind.
-
----
-
-## Skill: `anbieterwechsel-rufnummernmitnahme`
-
-_Wenn es um Anbieterwechsel und Rufnummernmitnahme in Telekommunikationsrecht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt._
-
-# Anbieterwechsel und Rufnummernmitnahme
-
-## Arbeitsweg
-
-- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
-- Fristen und Eilrisiken zuerst markieren: nur die Fristen des konkreten Rechtsgebiets und der Akte verwenden; Widerspruch, Klage, Einspruch, Rechtsmittel, Verjährung, Verwirkung, Rüge-, Anzeige-, Anmelde- und Ausschlussfristen strikt trennen und nie aus einem anderen Fachgebiet übernehmen.
-- Tragende Normen verifizieren: DSGVO Art. 5, 6, 7, 9, 12-22, 25, 28, 30, 32, 33-34, 35, 51-58, 77-83, BDSG §§ 22-25, 26, 30; GWB §§ 1, 2, 18, 19, 20, 33, 35, 36, AEUV Art. 101, 102, FKVO 139/2004; BNetzAG, EnWG §§ 21 ff., TKG, PostG, MessEG, BSI-KritisV, DigiNetzG; TKG (i.d.F. 2021), TKMV, EU-Kodex 2018/1972, DigiNetzG, NIS2-RL, eIDAS — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
-- Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
-- Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
-
-## Norm- und Quellenanker
-
-TKG §§ 59 und Kundenschutzvorschriften live prüfen; BNetzA-Anbieterwechselinformationen; BGB.
-
-## Red Flags
-
-- Altanbieter schaltet ab
-- Portierungsdatum unklar
-- Rufnummer gehört Firma statt Mitarbeiter
-- Entschädigung falsch berechnet
-
-## Anschluss-Skills
-
-- tk-schlichtung-verbraucher
-- tk-output-beschwerde-antrag-klage
-
----
-
-## Skill: `meldepflicht-it-sicherheitsvorfall`
-
-_Wenn es um IT-Sicherheitsvorfall und Meldepflicht in Telekommunikationsrecht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt._
-
-# IT-Sicherheitsvorfall und Meldepflicht
-
-## Arbeitsweg
-
-- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
-- Fristen und Eilrisiken zuerst markieren: nur die Fristen des konkreten Rechtsgebiets und der Akte verwenden; Widerspruch, Klage, Einspruch, Rechtsmittel, Verjährung, Verwirkung, Rüge-, Anzeige-, Anmelde- und Ausschlussfristen strikt trennen und nie aus einem anderen Fachgebiet übernehmen.
-- Tragende Normen verifizieren: DSGVO Art. 5, 6, 7, 9, 12-22, 25, 28, 30, 32, 33-34, 35, 51-58, 77-83, BDSG §§ 22-25, 26, 30; GWB §§ 1, 2, 18, 19, 20, 33, 35, 36, AEUV Art. 101, 102, FKVO 139/2004; BNetzAG, EnWG §§ 21 ff., TKG, PostG, MessEG, BSI-KritisV, DigiNetzG; TKG (i.d.F. 2021), TKMV, EU-Kodex 2018/1972, DigiNetzG, NIS2-RL, eIDAS — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
-- Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
-- Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
-
-## Norm- und Quellenanker
-
-TKG Sicherheitsvorschriften; BSI-Gesetz/NIS2; DSGVO Art. 33, 34.
-
-## Red Flags
-
-- Meldung nur intern
-- DSGVO und TKG nicht koordiniert
-- Kundenkommunikation zu spät
-
-## Anschluss-Skills
-
-- Starte wieder mit `tk-allgemeiner-kaltstart`, wenn Rechtsweg, Rolle oder Bescheid noch unklar sind.
-
----
-
 ## Skill: `netzneutralitaet-tk-nis2`
 
-_Wenn es um Netzneutralität, Zero-Rating und Drosselung in Telekommunikationsrecht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen._
+_Für Netzneutralität, Zero-Rating und Drosselung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Schnittstellenkarte mit Zuständigkeits- und Nachweisfragen._
 
 # Netzneutralität, Zero-Rating und Drosselung
 
@@ -524,11 +340,11 @@ EU-Verordnung 2015/2120; TKG; BEREC-Leitlinien live prüfen; UWG/GWB-Schnittstel
 
 ---
 
-## Skill: `glasfaser-tk-infrastruktursharing`
+## Skill: `entgeltgenehmigung-tk-eu`
 
-_Wenn es um Glasfaser-Hausanschluss und Wegerecht in Telekommunikationsrecht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt._
+_Für Entgeltgenehmigung und Kostenorientierung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Schnittstellenkarte mit Zuständigkeits- und Nachweisfragen._
 
-# Glasfaser-Hausanschluss und Wegerecht
+# Entgeltgenehmigung und Kostenorientierung
 
 ## Arbeitsweg
 
@@ -540,27 +356,25 @@ _Wenn es um Glasfaser-Hausanschluss und Wegerecht in Telekommunikationsrecht geh
 
 ## Norm- und Quellenanker
 
-TKG Wegerechte/Mitnutzung live prüfen; BGB Sachenrecht; WEG; Bau-/Straßenrecht; BNetzA-Praxis.
+TKG Entgeltregulierung; BNetzA-Beschlusskammerpraxis; GWB/AEUV.
 
 ## Red Flags
 
-- WEG-Beschlusslage unklar
-- öffentlicher Weg und Privatgrund verwechselt
-- Tiefbau ohne Wiederherstellungskonzept
-- Exklusivität in Gestattung
+- Kostenmodell intransparent
+- Retail/Wholesale-Schere
+- Frist im Beschlussverfahren verpasst
 
 ## Anschluss-Skills
 
-- tk-wegerecht-öffentliche-wege
-- tk-infrastruktursharing-open-access
+- Starte wieder mit `tk-allgemeiner-kaltstart`, wenn Rechtsweg, Rolle oder Bescheid noch unklar sind.
 
 ---
 
-## Skill: `infrastruktursharing-open-access`
+## Skill: `bundesnetzagentur-tk-zustaendigkeits`
 
-_Wenn es um Infrastruktursharing und Open Access in Telekommunikationsrecht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt._
+_Für BNetzA-Verfahren: Akteneinsicht, Anhörung, Fristen: prüft Frist, Form, Zuständigkeit und Eilbedarf; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt._
 
-# Infrastruktursharing und Open Access
+# BNetzA-Verfahren: Akteneinsicht, Anhörung, Fristen
 
 ## Arbeitsweg
 
@@ -572,13 +386,197 @@ _Wenn es um Infrastruktursharing und Open Access in Telekommunikationsrecht geht
 
 ## Norm- und Quellenanker
 
-TKG; GWB; EU-Beihilferecht; Förderbescheide; BNetzA-Praxis.
+TKG; VwVfG §§ 28, 29; VwGO; Geschäftsgeheimnisgesetz; BNetzA-Verfahrenshinweise live prüfen.
 
 ## Red Flags
 
-- faktische Exklusivität
-- Förderauflagen ignoriert
-- Wholesale-Prozesse nicht operationalisiert
+- Anhörungsfrist verpasst
+- Geschäftsgeheimnisse ungekennzeichnet
+- Beiladung nicht beantragt
+- Rechtsbehelfsbelehrung ignoriert
+
+## Anschluss-Skills
+
+- tk-eilrechtsschutz-bnetza-beschluss
+- tk-behoerdenkommunikation-kooperationsstrategie
+
+---
+
+## Skill: `eu-eecc-router`
+
+_Für EU Electronic Communications Code Router: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Schnittstellenkarte mit Zuständigkeits- und Nachweisfragen._
+
+# EU Electronic Communications Code Router
+
+## Arbeitsweg
+
+- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
+- Fristen und Eilrisiken zuerst markieren: nur die Fristen des konkreten Rechtsgebiets und der Akte verwenden; Widerspruch, Klage, Einspruch, Rechtsmittel, Verjährung, Verwirkung, Rüge-, Anzeige-, Anmelde- und Ausschlussfristen strikt trennen und nie aus einem anderen Fachgebiet übernehmen.
+- Tragende Normen verifizieren: DSGVO Art. 5, 6, 7, 9, 12-22, 25, 28, 30, 32, 33-34, 35, 51-58, 77-83, BDSG §§ 22-25, 26, 30; GWB §§ 1, 2, 18, 19, 20, 33, 35, 36, AEUV Art. 101, 102, FKVO 139/2004; BNetzAG, EnWG §§ 21 ff., TKG, PostG, MessEG, BSI-KritisV, DigiNetzG; TKG (i.d.F. 2021), TKMV, EU-Kodex 2018/1972, DigiNetzG, NIS2-RL, eIDAS — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
+- Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
+- Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
+
+## Norm- und Quellenanker
+
+Richtlinie (EU) 2018/1972 (EECC); TKG 2021; BEREC/EU-Dokumente live prüfen; TDDDG/DSGVO-Schnittstelle.
+
+## Red Flags
+
+- rein nationales Lesen trotz EU-Vorgabe
+- BEREC-Leitlinien übersehen
+- alte TKG-Fassung verwendet
+- Netzneutralität mit Kartellrecht verwechselt
+
+## Anschluss-Skills
+
+- tk-marktanalyse-betraechtliche-marktmacht
+- tk-netzneutralitaet-zero-rating-throttling
+
+---
+
+## Skill: `kartellrecht-schnittstelle-gwb-eu`
+
+_Für Kartellrechtliche Schnittstelle GWB/EU: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Schnittstellenkarte mit Zuständigkeits- und Nachweisfragen._
+
+# Kartellrechtliche Schnittstelle GWB/EU
+
+## Arbeitsweg
+
+- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
+- Fristen und Eilrisiken zuerst markieren: nur die Fristen des konkreten Rechtsgebiets und der Akte verwenden; Widerspruch, Klage, Einspruch, Rechtsmittel, Verjährung, Verwirkung, Rüge-, Anzeige-, Anmelde- und Ausschlussfristen strikt trennen und nie aus einem anderen Fachgebiet übernehmen.
+- Tragende Normen verifizieren: DSGVO Art. 5, 6, 7, 9, 12-22, 25, 28, 30, 32, 33-34, 35, 51-58, 77-83, BDSG §§ 22-25, 26, 30; GWB §§ 1, 2, 18, 19, 20, 33, 35, 36, AEUV Art. 101, 102, FKVO 139/2004; BNetzAG, EnWG §§ 21 ff., TKG, PostG, MessEG, BSI-KritisV, DigiNetzG; TKG (i.d.F. 2021), TKMV, EU-Kodex 2018/1972, DigiNetzG, NIS2-RL, eIDAS — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
+- Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
+- Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
+
+## Norm- und Quellenanker
+
+GWB; AEUV Art. 101/102; TKG; Fusionskontrolle bei Transaktionen.
+
+## Red Flags
+
+- Gebietsaufteilung
+- Preisabsprachen im Wholesale-Kontext
+- Exklusivzugang ohne Rechtfertigung
+
+## Anschluss-Skills
+
+- Starte wieder mit `tk-allgemeiner-kaltstart`, wenn Rechtsweg, Rolle oder Bescheid noch unklar sind.
+
+---
+
+## Skill: `rufnummernmissbrauch-abschaltung`
+
+_Für Rufnummernmissbrauch, Abschaltung und Inkassoverbot: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt._
+
+# Rufnummernmissbrauch, Abschaltung und Inkassoverbot
+
+## Arbeitsweg
+
+- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
+- Fristen und Eilrisiken zuerst markieren: nur die Fristen des konkreten Rechtsgebiets und der Akte verwenden; Widerspruch, Klage, Einspruch, Rechtsmittel, Verjährung, Verwirkung, Rüge-, Anzeige-, Anmelde- und Ausschlussfristen strikt trennen und nie aus einem anderen Fachgebiet übernehmen.
+- Tragende Normen verifizieren: DSGVO Art. 5, 6, 7, 9, 12-22, 25, 28, 30, 32, 33-34, 35, 51-58, 77-83, BDSG §§ 22-25, 26, 30; GWB §§ 1, 2, 18, 19, 20, 33, 35, 36, AEUV Art. 101, 102, FKVO 139/2004; BNetzAG, EnWG §§ 21 ff., TKG, PostG, MessEG, BSI-KritisV, DigiNetzG; TKG (i.d.F. 2021), TKMV, EU-Kodex 2018/1972, DigiNetzG, NIS2-RL, eIDAS — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
+- Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
+- Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
+
+## Norm- und Quellenanker
+
+TKG Missbrauchsaufsicht/Nummerierung; UWG; BNetzA-Verbraucherschutz.
+
+## Red Flags
+
+- Kundenbeschwerden nicht gesichert
+- Inkasso trotz Verbot
+- Callcenter-Kette unklar
+
+## Anschluss-Skills
+
+- Starte wieder mit `tk-allgemeiner-kaltstart`, wenn Rechtsweg, Rolle oder Bescheid noch unklar sind.
+
+---
+
+## Skill: `missbrauchsaufsicht-tk-mitnutzung`
+
+_Für TK-Missbrauchsaufsicht als Sonderkartellrecht: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt._
+
+# TK-Missbrauchsaufsicht als Sonderkartellrecht
+
+## Arbeitsweg
+
+- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
+- Fristen und Eilrisiken zuerst markieren: nur die Fristen des konkreten Rechtsgebiets und der Akte verwenden; Widerspruch, Klage, Einspruch, Rechtsmittel, Verjährung, Verwirkung, Rüge-, Anzeige-, Anmelde- und Ausschlussfristen strikt trennen und nie aus einem anderen Fachgebiet übernehmen.
+- Tragende Normen verifizieren: DSGVO Art. 5, 6, 7, 9, 12-22, 25, 28, 30, 32, 33-34, 35, 51-58, 77-83, BDSG §§ 22-25, 26, 30; GWB §§ 1, 2, 18, 19, 20, 33, 35, 36, AEUV Art. 101, 102, FKVO 139/2004; BNetzAG, EnWG §§ 21 ff., TKG, PostG, MessEG, BSI-KritisV, DigiNetzG; TKG (i.d.F. 2021), TKMV, EU-Kodex 2018/1972, DigiNetzG, NIS2-RL, eIDAS — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
+- Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
+- Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
+
+## Norm- und Quellenanker
+
+TKG; GWB §§ 18–20; AEUV Art. 102; BNetzA/BKartA-Schnittstelle.
+
+## Red Flags
+
+- Kartellbegriffe ohne TK-Norm
+- keine Vergleichsgruppe
+- Parallelzuständigkeit ungeklärt
+
+## Anschluss-Skills
+
+- Starte wieder mit `tk-allgemeiner-kaltstart`, wenn Rechtsweg, Rolle oder Bescheid noch unklar sind.
+
+---
+
+## Skill: `zivilklage-tk-abhoerschnittstellen`
+
+_Für Zivilklage: Entgelt, Schaden, Vertrag: erstellt Entwurf mit Antrag, Beweis und Anlagen; Ergebnis: Schriftsatz mit Begründungs- und Anlagenlogik._
+
+# Zivilklage: Entgelt, Schaden, Vertrag
+
+## Arbeitsweg
+
+- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
+- Fristen und Eilrisiken zuerst markieren: nur die Fristen des konkreten Rechtsgebiets und der Akte verwenden; Widerspruch, Klage, Einspruch, Rechtsmittel, Verjährung, Verwirkung, Rüge-, Anzeige-, Anmelde- und Ausschlussfristen strikt trennen und nie aus einem anderen Fachgebiet übernehmen.
+- Tragende Normen verifizieren: DSGVO Art. 5, 6, 7, 9, 12-22, 25, 28, 30, 32, 33-34, 35, 51-58, 77-83, BDSG §§ 22-25, 26, 30; GWB §§ 1, 2, 18, 19, 20, 33, 35, 36, AEUV Art. 101, 102, FKVO 139/2004; BNetzAG, EnWG §§ 21 ff., TKG, PostG, MessEG, BSI-KritisV, DigiNetzG; TKG (i.d.F. 2021), TKMV, EU-Kodex 2018/1972, DigiNetzG, NIS2-RL, eIDAS — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
+- Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
+- Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
+
+## Norm- und Quellenanker
+
+BGB; ZPO; TKG Kundenschutz; AGB-Recht.
+
+## Red Flags
+
+- Regulierungsfrage als Vorfrage ungeklärt
+- Rechnungsdaten fehlen
+- AGB nicht einbezogen
+
+## Anschluss-Skills
+
+- Starte wieder mit `tk-allgemeiner-kaltstart`, wenn Rechtsweg, Rolle oder Bescheid noch unklar sind.
+
+---
+
+## Skill: `cookies-telemedien-ttdsg-tdddg`
+
+_Für Cookies, Telemedien und TDDDG-Schnittstelle: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt._
+
+# Cookies, Telemedien und TDDDG-Schnittstelle
+
+## Arbeitsweg
+
+- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
+- Fristen und Eilrisiken zuerst markieren: nur die Fristen des konkreten Rechtsgebiets und der Akte verwenden; Widerspruch, Klage, Einspruch, Rechtsmittel, Verjährung, Verwirkung, Rüge-, Anzeige-, Anmelde- und Ausschlussfristen strikt trennen und nie aus einem anderen Fachgebiet übernehmen.
+- Tragende Normen verifizieren: DSGVO Art. 5, 6, 7, 9, 12-22, 25, 28, 30, 32, 33-34, 35, 51-58, 77-83, BDSG §§ 22-25, 26, 30; GWB §§ 1, 2, 18, 19, 20, 33, 35, 36, AEUV Art. 101, 102, FKVO 139/2004; BNetzAG, EnWG §§ 21 ff., TKG, PostG, MessEG, BSI-KritisV, DigiNetzG; TKG (i.d.F. 2021), TKMV, EU-Kodex 2018/1972, DigiNetzG, NIS2-RL, eIDAS — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
+- Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
+- Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
+
+## Norm- und Quellenanker
+
+TDDDG; DSGVO; ePrivacy; TKG.
+
+## Red Flags
+
+- Cookie und Verkehrsdaten vermischt
+- berechtigtes Interesse überdehnt
+- CMP falsch konfiguriert
 
 ## Anschluss-Skills
 

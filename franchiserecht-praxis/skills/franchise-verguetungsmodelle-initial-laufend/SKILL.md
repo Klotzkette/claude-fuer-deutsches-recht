@@ -1,6 +1,6 @@
 ---
 name: franchise-verguetungsmodelle-initial-laufend
-description: "Wenn es um Franchise Verguetungsmodelle Initial Laufend in Franchiserecht Praxis geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Franchise Vergütungsmodelle Initial Laufend: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Franchise Verguetungsmodelle Initial Laufend

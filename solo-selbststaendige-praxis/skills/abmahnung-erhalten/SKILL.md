@@ -1,6 +1,6 @@
 ---
 name: abmahnung-erhalten
-description: "Wenn es um Abmahnung Erhalten in Solo-Selbstständige Praxis geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Abmahnung Erhalten: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Marketing E-Commerce und Plattformen: Sortiert uwg/urheber/marke/dsgvo-abmahnung und fristen

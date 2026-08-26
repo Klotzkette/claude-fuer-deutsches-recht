@@ -1,6 +1,6 @@
 ---
 name: avv-audit-und-kontrollrechte
-description: "Wenn es um AVV-Audit und Kontrollrechte – Art. 28 Abs. 3 lit. h DSGVO in Datenschutzrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für AVV-Audit und Kontrollrechte – Art. 28 Abs. 3 lit. h DSGVO: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # AVV-Audit und Kontrollrechte – Art. 28 Abs. 3 lit. h DSGVO

@@ -1,6 +1,6 @@
 ---
 name: ifg-098-archivrecht-zustaendigkeit-pruefen
-description: "Wenn es um Archivrecht Zustaendigkeit Pruefen in Informationsfreiheit und Presseauskunft geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Archivrecht Zuständigkeit Prüfen: prüft Frist, Form, Zuständigkeit und Eilbedarf; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Archivrecht Zustaendigkeit Pruefen

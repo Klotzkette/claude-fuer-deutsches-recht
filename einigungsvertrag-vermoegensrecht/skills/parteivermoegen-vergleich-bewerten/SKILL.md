@@ -1,6 +1,6 @@
 ---
 name: parteivermoegen-vergleich-bewerten
-description: "Wenn es um Parteivermoegen Vergleich Bewerten in Einigungsvertrag und Vermögensrecht geht: entwickelt Verhandlungsziel, Vergleichskorridor und Eskalationspfad; liefert eine Verhandlungs- oder Eskalationslinie mit Optionen."
+description: "Für Parteivermögen Vergleich Bewerten: entwickelt Ziel, Vergleich und Eskalation; Ergebnis: Verhandlungs- oder Eskalationslinie."
 ---
 
 # Parteivermoegen Vergleich Bewerten

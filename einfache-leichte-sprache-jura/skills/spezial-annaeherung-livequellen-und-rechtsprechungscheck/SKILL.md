@@ -1,6 +1,6 @@
 ---
 name: spezial-annaeherung-livequellen-und-rechtsprechungscheck
-description: "Wenn es um Annaeherung: Livequellen- und Rechtsprechungscheck in Einfache und Leichte Sprache für juristische Texte geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Annäherung: Livequellen- und Rechtsprechungscheck: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Annaeherung: Livequellen- und Rechtsprechungscheck

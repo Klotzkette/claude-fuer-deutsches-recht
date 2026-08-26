@@ -1,6 +1,6 @@
 ---
 name: familienagentur
-description: "Wenn es um Familienhandelsvertretung — Mitarbeit von Angehörigen und Agenturübertragung in Handelsvertreterrecht und Vertriebsverträge geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Familienhandelsvertretung — Mitarbeit von Angehörigen und Agenturübertragung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Familienhandelsvertretung — Mitarbeit von Angehörigen und Agenturübertragung

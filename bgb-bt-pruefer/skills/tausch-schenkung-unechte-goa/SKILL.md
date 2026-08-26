@@ -1,6 +1,6 @@
 ---
 name: tausch-schenkung-unechte-goa
-description: "Wenn es um Tausch und Schenkung Paragrafen 480 und 516 ff. BGB in BGB BT Prüfer geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt. Auswahlstichwort: Tausch Schenkung Unechte Goa; Arbeitsfeld: BGB BT Prüfer."
+description: "Für Tausch und Schenkung Paragrafen 480 und 516 ff. BGB: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt. Fachgebiet: BGB BT Prüfer. Route: tausch-schenkung-unechte-goa."
 ---
 
 # Tausch und Schenkung §§ 480 und 516 ff. BGB

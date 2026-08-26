@@ -1,6 +1,6 @@
 ---
 name: besoldung-zeitnahe-sofortmassnahmen
-description: "Wenn es um Besoldung - zeitnahe Geltendmachung und Musterverfahren in Beamtenrecht geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert eine Mandantennachricht oder Entscheidungsvorlage."
+description: "Für Besoldung - zeitnahe Geltendmachung und Musterverfahren: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Besoldung - zeitnahe Geltendmachung und Musterverfahren

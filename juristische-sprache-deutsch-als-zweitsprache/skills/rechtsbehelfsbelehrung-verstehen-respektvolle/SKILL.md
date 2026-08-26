@@ -1,6 +1,6 @@
 ---
 name: rechtsbehelfsbelehrung-verstehen-respektvolle
-description: "Wenn es um Rechtsbehelfsbelehrung Verstehen in Juristische Sprache Deutsch als Zweitsprache geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Rechtsbehelfsbelehrung Verstehen: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Rechtsbehelfsbelehrung Verstehen

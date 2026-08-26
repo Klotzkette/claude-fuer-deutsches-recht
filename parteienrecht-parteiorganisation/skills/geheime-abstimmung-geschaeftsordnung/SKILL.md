@@ -1,6 +1,6 @@
 ---
 name: geheime-abstimmung-geschaeftsordnung
-description: "Wenn es um Geheime Abstimmung in Parteienrecht und Parteiorganisation geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt. Auswahlstichwort: Geheime Abstimmung Geschaeftsordnung; Arbeitsfeld: Parteienrecht und Parteiorganisation."
+description: "Für Geheime Abstimmung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt. Fachgebiet: Parteienrecht und Parteiorganisation. Route: geheime-abstimmung-geschaeftsordnung."
 ---
 
 # Geheime Abstimmung

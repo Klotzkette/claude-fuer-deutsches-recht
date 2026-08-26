@@ -1,6 +1,6 @@
 ---
 name: kruzifix-bverfge-93-1
-description: "Wenn es um Kruzifix BVerfGE 93 1 in Verhältnismäßigkeitsprüfer geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen."
+description: "Für Kruzifix BVerfGE 93 1: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Kruzifix BVerfGE 93 1

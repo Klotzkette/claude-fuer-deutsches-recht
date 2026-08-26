@@ -1,6 +1,6 @@
 ---
 name: ressortaufgaben-bmds
-description: "Wenn es um Ressortaufgaben BMDS in Legistik-Werkstatt geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. Auswahlstichwort: Ressortaufgaben Bmds; Arbeitsfeld: Legistik-Werkstatt."
+description: "Für Ressortaufgaben BMDS: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt. Fachgebiet: Legistik-Werkstatt. Route: ressortaufgaben-bmds."
 ---
 
 # Ressortaufgaben BMDS

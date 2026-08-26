@@ -1,6 +1,6 @@
 ---
 name: mandantenanfrage-schnell
-description: "Wenn es um Schnell-Memo Mandantenanfrage in Memorandums-Ersteller geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
+description: "Für Schnell-Memo Mandantenanfrage: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Schnell-Memo Mandantenanfrage

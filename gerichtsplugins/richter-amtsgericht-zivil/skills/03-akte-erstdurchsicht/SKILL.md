@@ -1,6 +1,6 @@
 ---
 name: 03-akte-erstdurchsicht
-description: "Wenn es um 03 Akte Erstdurchsicht in Richter Amtsgericht Zivilsachen geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
+description: "Für 03 Akte Erstdurchsicht: ordnet Akte, Belege und Lücken; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # 03 Akte Erstdurchsicht

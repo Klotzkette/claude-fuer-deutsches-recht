@@ -1,6 +1,6 @@
 ---
 name: gesellschafterdarlehen-rangruecktritt
-description: "Wenn es um Gesellschafterdarlehen — qualifizierter Rangrücktritt in Fortbestehensprognose geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Gesellschafterdarlehen — qualifizierter Rangrücktritt: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Gesellschafterdarlehen — qualifizierter Rangrücktritt

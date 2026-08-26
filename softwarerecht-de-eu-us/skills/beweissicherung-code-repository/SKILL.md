@@ -1,6 +1,6 @@
 ---
 name: beweissicherung-code-repository
-description: "Wenn es um Beweissicherung Code Repository in Softwarerecht Deutschland/EU/International/USA geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Beweislast- und Substantiierungsmatrix."
+description: "Für Beweissicherung Code Repository: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Beweislast- und Substantiierungsmatrix."
 ---
 
 # Beweissicherung Code Repository

@@ -1,6 +1,6 @@
 ---
 name: umsatzpipeline-umsatzsteuer-fallen
-description: "Wenn es um Pricing Liquidität und Wachstum: Ordnet leads in Solo-Selbstständige Praxis geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Pricing Liquidität und Wachstum: Ordnet leads: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Schnittstellenkarte mit Zuständigkeits- und Nachweisfragen."
 ---
 
 # Pricing Liquidität und Wachstum: Ordnet leads

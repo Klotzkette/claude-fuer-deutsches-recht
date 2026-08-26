@@ -1,6 +1,6 @@
 ---
 name: infrastrukturprojekte
-description: "Wenn es um Infrastrukturprojekte und Planfeststellung in Energierecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Infrastrukturprojekte und Planfeststellung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Infrastrukturprojekte und Planfeststellung

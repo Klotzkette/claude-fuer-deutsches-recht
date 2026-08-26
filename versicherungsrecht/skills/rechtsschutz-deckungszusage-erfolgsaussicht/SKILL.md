@@ -1,6 +1,6 @@
 ---
 name: rechtsschutz-deckungszusage-erfolgsaussicht
-description: "Wenn es um Rechtsschutz: Deckungszusage und Stichentscheid in Versicherungsrecht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
+description: "Für Rechtsschutz: Deckungszusage und Stichentscheid: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Rechtsschutz: Deckungszusage und Stichentscheid

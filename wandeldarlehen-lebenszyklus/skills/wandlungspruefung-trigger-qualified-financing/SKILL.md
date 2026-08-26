@@ -1,6 +1,6 @@
 ---
 name: wandlungspruefung-trigger-qualified-financing
-description: "Wenn es um Wandlungsprüfung – Trigger Qualified Financing in Wandeldarlehen-Lebenszyklus geht: rechnet Schwellen, Beträge, Varianten und Kontrollannahmen durch; liefert eine Berechnungstabelle mit Schwellen, Annahmen und Kontrollfragen."
+description: "Für Wandlungsprüfung – Trigger Qualified Financing: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Tatbestands- oder Anspruchsmatrix."
 ---
 
 # Wandlungsprüfung – Trigger Qualified Financing

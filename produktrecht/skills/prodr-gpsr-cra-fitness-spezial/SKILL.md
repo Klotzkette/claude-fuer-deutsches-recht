@@ -1,6 +1,6 @@
 ---
 name: prodr-gpsr-cra-fitness-spezial
-description: "Wenn es um ProdR: GPSR CRA in Produkthaftung und Produktrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für ProdR: GPSR CRA: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # ProdR: GPSR CRA

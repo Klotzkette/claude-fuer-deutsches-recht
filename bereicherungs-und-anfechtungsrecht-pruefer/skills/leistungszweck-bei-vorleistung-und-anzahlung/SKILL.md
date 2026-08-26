@@ -1,6 +1,6 @@
 ---
 name: leistungszweck-bei-vorleistung-und-anzahlung
-description: "Wenn es um Leistungszweck bei Vorleistung und Anzahlung in bereicherungs-und-anfechtungsrecht-prüfer geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Leistungszweck bei Vorleistung und Anzahlung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Leistungszweck bei Vorleistung und Anzahlung

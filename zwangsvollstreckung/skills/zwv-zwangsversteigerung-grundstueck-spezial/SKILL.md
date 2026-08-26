@@ -1,6 +1,6 @@
 ---
 name: zwv-zwangsversteigerung-grundstueck-spezial
-description: "Wenn es um Zwv Zwangsversteigerung Grundstueck Spezial in Zwangsvollstreckung geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Zwv Zwangsversteigerung Grundstück Spezial: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Spezialfall Zwangsversteigerung Grundstueck ZVG: Anordnung, Termin, Mindestgebot, Geringstes Gebot, geringste Beitrag

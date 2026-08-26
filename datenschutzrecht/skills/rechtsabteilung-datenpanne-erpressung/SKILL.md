@@ -1,6 +1,6 @@
 ---
 name: rechtsabteilung-datenpanne-erpressung
-description: "Wenn es um Rechtsabteilung: Datenpanne mit Erpressung und Meldelogik in Datenschutzrecht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
+description: "Für Rechtsabteilung: Datenpanne mit Erpressung und Meldelogik: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Rechtsabteilung: Datenpanne mit Erpressung und Meldelogik

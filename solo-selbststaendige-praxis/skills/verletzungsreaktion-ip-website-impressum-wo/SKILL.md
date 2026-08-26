@@ -1,6 +1,6 @@
 ---
 name: verletzungsreaktion-ip-website-impressum-wo
-description: "Wenn es um IP Content und Arbeitsergebnisse: Ordnet takedown in Solo-Selbstständige Praxis geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für IP Content und Arbeitsergebnisse: Ordnet takedown: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # IP Content und Arbeitsergebnisse: Ordnet takedown

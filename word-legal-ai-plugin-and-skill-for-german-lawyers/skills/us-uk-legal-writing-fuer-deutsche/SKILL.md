@@ -1,6 +1,6 @@
 ---
 name: us-uk-legal-writing-fuer-deutsche
-description: "Wenn es um US/UK Legal Writing für Deutsche in diesem Spezialbereich geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Beweislast- und Substantiierungsmatrix."
+description: "Für US/UK Legal Writing für Deutsche: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Schnittstellenkarte mit Zuständigkeits- und Nachweisfragen."
 ---
 
 # US/UK Legal Writing für Deutsche

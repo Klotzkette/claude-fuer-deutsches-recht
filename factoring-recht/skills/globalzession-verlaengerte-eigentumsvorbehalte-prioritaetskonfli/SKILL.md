@@ -1,6 +1,6 @@
 ---
 name: globalzession-verlaengerte-eigentumsvorbehalte-prioritaetskonfli
-description: "Wenn es um Globalzession verlängerte Eigentumsvorbehalte Prioritätskonflikt in Factoring-Recht geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
+description: "Für Globalzession verlängerte Eigentumsvorbehalte Prioritätskonflikt: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Globalzession verlängerte Eigentumsvorbehalte Prioritätskonflikt

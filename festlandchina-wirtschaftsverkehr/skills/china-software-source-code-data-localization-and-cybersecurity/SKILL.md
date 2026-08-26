@@ -1,6 +1,6 @@
 ---
 name: china-software-source-code-data-localization-and-cybersecurity
-description: "Wenn es um Software und SaaS China: Datenlokalisierung/ICP/Exportkontrolle in China-Wirtschaftsverkehr geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Software und SaaS China: Datenlokalisierung/ICP/Exportkontrolle: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Software und SaaS China: Datenlokalisierung/ICP/Exportkontrolle

@@ -1,6 +1,6 @@
 ---
 name: oew-072-breitband-vergabeweg-waehlen
-description: "Wenn es um Breitband Vergabeweg Waehlen in Öffentliches Wirtschaftsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Breitband Vergabeweg Wählen: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt. Fachgebiet: Öffentliches Wirtschaftsrecht. Route: oew-072-breitband-vergabeweg-waehlen."
 ---
 
 # Breitband Vergabeweg Waehlen

@@ -1,6 +1,6 @@
 ---
 name: cloud-server-drittlandtransfer-organisationspflic
-description: "Wenn es um Cloud Server Drittlandtransfer Organisationspflic in Berufsrecht Steuerberater geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Cloud Server Drittlandtransfer Organisationspflic: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Steuerberater: cloud server drittlandtransfer - Organisationspflichten, Prävention, Team-Anweisung und Fristenkontrolle

@@ -1,6 +1,6 @@
 ---
 name: psychotherapie-psychiatrie-radiologie
-description: "Wenn es um Psychotherapie Psychiatrie Gesprächsleistungen in GOÄ Gebührenordnung für Ärzte geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Berechnungstabelle mit Schwellen, Annahmen und Kontrollfragen."
+description: "Für Psychotherapie Psychiatrie Gesprächsleistungen: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Psychotherapie Psychiatrie Gesprächsleistungen

@@ -1,6 +1,6 @@
 ---
 name: publikationsstrategie-projekt
-description: "Wenn es um Publikationsstrategie Projekt in DFG-Förderantrag geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik. Auswahlstichwort: Publikationsstrategie Projekt; Arbeitsfeld: DFG-Förderantrag."
+description: "Für Publikationsstrategie Projekt: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Verhandlungs- oder Eskalationslinie. Fachgebiet: DFG-Förderantrag. Route: publikationsstrategie-projekt."
 ---
 
 # Publikationsstrategie Projekt

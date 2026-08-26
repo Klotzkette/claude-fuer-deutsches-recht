@@ -1,6 +1,6 @@
 ---
 name: jahresabschluss-verantwortung-rechtsprechungschec
-description: "Wenn es um Jahresabschluss Verantwortung Rechtsprechungschec in Berufsrecht Steuerberater geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Gegenprüfung mit Fehler-, Beweis- und Fristencheck."
+description: "Für Jahresabschluss Verantwortung Rechtsprechungschec: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Steuerberater: jahresabschluss verantwortung - Rechtsprechungscheck, stärkste Gegenansicht und Red-Team-Korrektur

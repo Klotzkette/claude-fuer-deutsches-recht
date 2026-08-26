@@ -1,6 +1,6 @@
 ---
 name: deliktsrecht-sonstiges-recht
-description: "Wenn es um Deliktsrecht: Sonstiges Recht in BGB BT Prüfer geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. Auswahlstichwort: Deliktsrecht Sonstiges Recht; Arbeitsfeld: BGB BT Prüfer."
+description: "Für Deliktsrecht: Sonstiges Recht: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Deliktsrecht: Sonstiges Recht

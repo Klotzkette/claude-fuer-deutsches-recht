@@ -1,6 +1,6 @@
 ---
 name: besold-erschwerniszulagen-dienst-zu-unguenstigen-zeiten
-description: "Wenn es um Besold Erschwerniszulagen Dienst Zu Unguenstigen Zeiten in Beamtenrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Besold Erschwerniszulagen Dienst zu Ungünstigen Zeiten: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Besold Erschwerniszulagen Dienst Zu Unguenstigen Zeiten

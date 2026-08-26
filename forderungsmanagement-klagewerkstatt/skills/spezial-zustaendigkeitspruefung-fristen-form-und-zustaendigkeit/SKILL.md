@@ -1,6 +1,6 @@
 ---
 name: spezial-zustaendigkeitspruefung-fristen-form-und-zustaendigkeit
-description: "Wenn es um Zustaendigkeitspruefung: Fristen, Form, Zuständigkeit und Rechtsweg in Forderungsmanagement — Klagewerkstatt geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Zuständigkeitsprüfung: Fristen, Form, Zuständigkeit und Rechtsweg: prüft Frist, Form, Zuständigkeit und Eilbedarf; Ergebnis: Fristen- und Risikoampel."
 ---
 
 # Zustaendigkeitspruefung: Fristen, Form, Zuständigkeit und Rechtsweg

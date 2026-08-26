@@ -1,6 +1,6 @@
 ---
 name: grundbuchamt-maengelmatrix-notariat
-description: "Wenn es um Mängelmatrix Grundbuch in Grundbuchamt Praxis geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Mängelmatrix Grundbuch: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Mängelmatrix Grundbuch

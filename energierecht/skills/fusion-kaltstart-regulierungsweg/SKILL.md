@@ -1,6 +1,6 @@
 ---
 name: fusion-kaltstart-regulierungsweg
-description: "Wenn es um Kernfusion: Kaltstart und Regulierungsweg in Energierecht geht: klärt Rolle, Ziel, Frist, Unterlagen und den passenden nächsten Fachskill; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Kernfusion: Kaltstart und Regulierungsweg: routet Rolle, Frist, Unterlagen und Fachschritt; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Kernfusion: Kaltstart und Regulierungsweg

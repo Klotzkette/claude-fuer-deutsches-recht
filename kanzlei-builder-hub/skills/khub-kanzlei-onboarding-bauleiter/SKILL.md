@@ -1,6 +1,6 @@
 ---
 name: khub-kanzlei-onboarding-bauleiter
-description: "Wenn es um Khub: Kanzlei-Onboarding Bauleiter in Kanzlei-Builder-Hub geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
+description: "Für Khub: Kanzlei-Onboarding Bauleiter: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Khub: Kanzlei-Onboarding Bauleiter

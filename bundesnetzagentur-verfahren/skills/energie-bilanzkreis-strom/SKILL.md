@@ -1,6 +1,6 @@
 ---
 name: energie-bilanzkreis-strom
-description: "Wenn es um Energie: Bilanzkreis Strom in Bundesnetzagentur-Verfahren geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
+description: "Für Energie: Bilanzkreis Strom: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Energie: Bilanzkreis Strom

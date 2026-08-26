@@ -1,6 +1,6 @@
 ---
 name: erbbaurecht-photovoltaik-untererbbaurecht
-description: "Wenn es um PV, Wärmepumpe, Ladepunkte in Erbbaurecht Praxis geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für PV, Wärmepumpe, Ladepunkte: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # PV, Wärmepumpe, Ladepunkte

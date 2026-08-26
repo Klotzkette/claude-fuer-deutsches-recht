@@ -1,6 +1,6 @@
 ---
 name: incident-meldekaskade-iot-geraete-iso27001
-description: "Wenn es um Incident Meldekaskade 24 72 Abschluss in NIS-2, Cybersecurity und IT-Sicherheits-Compliance geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Incident Meldekaskade 24 72 Abschluss: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Incident Meldekaskade 24 72 Abschluss

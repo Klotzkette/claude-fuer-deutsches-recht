@@ -1,6 +1,6 @@
 ---
 name: kommunikationstagebuch-krankenkasse-bescheid
-description: "Wenn es um Kommunikationstagebuch in Bürokratieversteher und Entbürokratisierer geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Kommunikationstagebuch: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Kommunikationstagebuch

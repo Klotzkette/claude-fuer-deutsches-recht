@@ -1,6 +1,6 @@
 ---
 name: digitalregulierung-schnittstellen-dsgvo-p2b-19a-gwb
-description: "Wenn es um Schnittstellen — DSA, DMA, DSGVO, P2B-VO und Paragraf 19a GWB in DSA, DMA und Digitalregulierung der EU geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Schnittstellen — DSA, DMA, DSGVO, P2B-VO und Paragraf 19a GWB: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Schnittstellenkarte mit Zuständigkeits- und Nachweisfragen."
 ---
 
 # Schnittstellen — DSA, DMA, DSGVO, P2B-VO und § 19a GWB

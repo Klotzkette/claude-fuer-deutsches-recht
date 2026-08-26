@@ -1,6 +1,6 @@
 ---
 name: pressemitteilung-kanzlei-behoerde
-description: "Wenn es um Pressemitteilung Kanzlei Behörde in Juristische Presseberichterstattung geht: erstellt sachliche Pressemitteilungen für Kanzlei, Verband, Behörde oder Unternehmen mit Zitat, Kernbotschaft und Rückfrageblock."
+description: "Für Pressemitteilung Kanzlei Behörde: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Pressemitteilung Kanzlei Behörde

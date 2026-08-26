@@ -1,6 +1,6 @@
 ---
 name: excel-multi-kreuzblatt-konsistenzpruefung-pdf
-description: "Wenn es um /tabellenreview-3d:excel-multi-sheet-export in Tabellenreview 3D geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. Auswahlstichwort: Excel Multi Kreuzblatt Konsistenzpruefung Pdf; Arbeitsfeld: Tabellenreview 3D."
+description: "Für /tabellenreview-3d:excel-multi-sheet-export: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Schnittstellenkarte mit Zuständigkeits- und Nachweisfragen."
 ---
 
 # /tabellenreview-3d:excel-multi-sheet-export

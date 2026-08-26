@@ -1,6 +1,6 @@
 ---
 name: ma-erstvermerk-mandantenakte
-description: "Wenn es um Erstvermerk Mandantenakte in mandantenanfragen-assistent geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
+description: "Für Erstvermerk Mandantenakte: ordnet Akte, Belege und Lücken; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Erstvermerk Mandantenakte

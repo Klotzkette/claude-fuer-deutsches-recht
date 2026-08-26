@@ -1,6 +1,6 @@
 ---
 name: rechtsabteilung-change-control-klauseln
-description: "Wenn es um Rechtsabteilung: Change-Control-Klauseln im Konzernvertrag in AGB-Recht-Prüfer geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Beweislast- und Substantiierungsmatrix. Auswahlstichwort: Rechtsabteilung Change Control Klauseln; Arbeitsfeld: AGB-Recht-Prüfer."
+description: "Für Rechtsabteilung: Change-Control-Klauseln im Konzernvertrag: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt. Fachgebiet: AGB-Recht-Prüfer. Route: rechtsabteilung-change-control-klauseln."
 ---
 
 # Rechtsabteilung: Change-Control-Klauseln im Konzernvertrag

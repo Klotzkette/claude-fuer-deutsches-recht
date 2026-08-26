@@ -1,6 +1,6 @@
 ---
 name: mauergrundstueck-grundbuch-behoerdenbrief
-description: "Wenn es um Mauergrundstueck Grundbuch Auswerten in Einigungsvertrag und Vermögensrecht geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
+description: "Für Mauergrundstück Grundbuch Auswerten: erstellt Entwurf mit Antrag, Beweis und Anlagen; Ergebnis: Schriftsatz mit Begründungs- und Anlagenlogik."
 ---
 
 # Mauergrundstueck Grundbuch Auswerten

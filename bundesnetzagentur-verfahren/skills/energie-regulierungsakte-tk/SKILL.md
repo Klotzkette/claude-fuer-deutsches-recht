@@ -1,6 +1,6 @@
 ---
 name: energie-regulierungsakte-tk
-description: "Wenn es um Energie-Regulierungsakte: Redispatch 2.0 — Stellungnahme-Entwurf in Bundesnetzagentur-Verfahren geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
+description: "Für Energie-Regulierungsakte: Redispatch 2.0 — Stellungnahme-Entwurf: ordnet Akte, Belege und Lücken; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Energie-Regulierungsakte: Redispatch 2.0 — Stellungnahme-Entwurf

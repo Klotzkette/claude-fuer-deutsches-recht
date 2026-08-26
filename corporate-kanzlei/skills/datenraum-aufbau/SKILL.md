@@ -1,6 +1,6 @@
 ---
 name: datenraum-aufbau
-description: "Wenn es um Datenraum-Aufbau in Corporate-Kanzlei geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. Auswahlstichwort: Datenraum Aufbau; Arbeitsfeld: Corporate-Kanzlei."
+description: "Für Datenraum-Aufbau: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt. Fachgebiet: Corporate-Kanzlei. Route: datenraum-aufbau."
 ---
 
 # Datenraum-Aufbau

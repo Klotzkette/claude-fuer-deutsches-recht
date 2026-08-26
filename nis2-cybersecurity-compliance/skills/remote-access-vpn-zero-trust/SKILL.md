@@ -1,6 +1,6 @@
 ---
 name: remote-access-vpn-zero-trust
-description: "Wenn es um Remote Access VPN Zero Trust in NIS-2, Cybersecurity und IT-Sicherheits-Compliance geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Remote Access VPN Zero Trust: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Remote Access VPN Zero Trust

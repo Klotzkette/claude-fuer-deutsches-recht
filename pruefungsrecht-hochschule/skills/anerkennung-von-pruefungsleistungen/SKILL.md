@@ -1,6 +1,6 @@
 ---
 name: anerkennung-von-pruefungsleistungen
-description: "Wenn es um Anerkennung Von Pruefungsleistungen in Prüfungsrecht an Hochschulen und Universitäten geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Anerkennung von Prüfungsleistungen: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Tatbestands- oder Anspruchsmatrix. Fachgebiet: Prüfungsrecht an Hochschulen und Universitäten. Route: anerkennung-von-pruefungsleistungen."
 ---
 
 # Anerkennung Von Pruefungsleistungen

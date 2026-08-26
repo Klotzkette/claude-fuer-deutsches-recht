@@ -1,6 +1,6 @@
 ---
 name: mittelstand-ma-erechnung-gobd
-description: "Wenn es um Freistehender Billing-, GoBD- und E-Rechnungs(Mittelstand) in Mittelstands-Corporate/M&A geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Freistehender Billing-, GoBD- und E-Rechnungs(Mittelstand): ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Freistehender Billing-, GoBD- und E-Rechnungs(Mittelstand)

@@ -1,6 +1,6 @@
 ---
 name: bussgeldbescheid-65-owig-analyse
-description: "Wenn es um Bußgeldbescheid Paragraf 65 OWiG analysieren in Datenschutz-Sanktionsverfahren und Verteidigung geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Tatbestands- oder Anspruchsmatrix mit Gegenargumenten."
+description: "Für Bußgeldbescheid Paragraf 65 OWiG analysieren: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt. Fachgebiet: Datenschutz-Sanktionsverfahren und Verteidigung."
 ---
 
 # Bußgeldbescheid § 65 OWiG analysieren

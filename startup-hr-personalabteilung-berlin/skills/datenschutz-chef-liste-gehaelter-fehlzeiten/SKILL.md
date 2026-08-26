@@ -1,6 +1,6 @@
 ---
 name: datenschutz-chef-liste-gehaelter-fehlzeiten
-description: "Wenn es um Datenschutz Chef Liste Gehaelter Fehlzeiten in Start-up-HR-Personalabteilung Berlin geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Datenschutz Chef Liste Gehälter Fehlzeiten: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Datenschutz Chef Liste Gehaelter Fehlzeiten

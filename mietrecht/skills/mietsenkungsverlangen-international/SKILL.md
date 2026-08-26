@@ -1,6 +1,6 @@
 ---
 name: mietsenkungsverlangen-international
-description: "Wenn es um Mietrecht: Erstprüfung, Rollenklärung und Mandatsziel in Mietrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Mietrecht: Erstprüfung, Rollenklärung und Mandatsziel: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Schnittstellenkarte mit Zuständigkeits- und Nachweisfragen."
 ---
 
 # Mietrecht: Erstprüfung, Rollenklärung und Mandatsziel

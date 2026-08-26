@@ -1,6 +1,6 @@
 ---
 name: kelsen-normstufen-kompetenz-bgb-methode
-description: "Wenn es um Kelsen in der Methodenlehre: Normstufen, Kompetenz und BGB-Falllösung in Methodenlehre bürgerliches Recht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Kelsen in der Methodenlehre: Normstufen, Kompetenz und BGB-Falllösung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Tatbestands- oder Anspruchsmatrix."
 ---
 
 # Kelsen in der Methodenlehre: Normstufen, Kompetenz und BGB-Falllösung

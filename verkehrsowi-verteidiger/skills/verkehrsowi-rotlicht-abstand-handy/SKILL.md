@@ -1,6 +1,6 @@
 ---
 name: verkehrsowi-rotlicht-abstand-handy
-description: "Wenn es um Rotlicht, Abstand und Handy — Paragrafen 23. 37. 4 StVO in VerkehrsOWi-Verteidiger geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
+description: "Für Rotlicht, Abstand und Handy — Paragrafen 23. 37. 4 StVO: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Rotlicht, Abstand und Handy — §§ 23, 37, 4 StVO

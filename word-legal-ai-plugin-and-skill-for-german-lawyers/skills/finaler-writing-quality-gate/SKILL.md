@@ -1,6 +1,6 @@
 ---
 name: finaler-writing-quality-gate
-description: "Wenn es um Finaler Writing Quality Gate in diesem Spezialbereich geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Finaler Writing Quality Gate: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Finaler Writing Quality Gate

@@ -1,6 +1,6 @@
 ---
 name: dfg-eigene-vorarbeiten-darstellen
-description: "Wenn es um DFG: Eigene Vorarbeiten in DFG-Förderantrag geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik. Auswahlstichwort: Dfg Eigene Vorarbeiten Darstellen; Arbeitsfeld: DFG-Förderantrag."
+description: "Für DFG: Eigene Vorarbeiten: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # DFG: Eigene Vorarbeiten

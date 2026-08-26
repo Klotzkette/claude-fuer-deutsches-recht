@@ -1,6 +1,6 @@
 ---
 name: kv-072-kassenaufsicht-beschwerde-und-bmg-bas
-description: "Wenn es um Krankenversicherung: Kassenaufsicht Beschwerde und BMG/BAS in Krankenkassenrecht und Krankenversicherung geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Krankenversicherung: Kassenaufsicht Beschwerde und BMG/BAS: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Krankenversicherung: Kassenaufsicht Beschwerde und BMG/BAS

@@ -1,6 +1,6 @@
 ---
 name: hinterbliebenenrente-witwen-waisen
-description: "Wenn es um hinterbliebenenrente-witwen-waisen in Rentenprüfer geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen."
+description: "Für hinterbliebenenrente-witwen-waisen: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # hinterbliebenenrente-witwen-waisen

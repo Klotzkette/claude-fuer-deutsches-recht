@@ -1,6 +1,6 @@
 ---
 name: upstream-security-financial-assistance
-description: "Wenn es um Upstream Security und Financial Assistance in Didaktisches Gesellschaftsrecht — English Business Terms geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
+description: "Für Upstream Security und Financial Assistance: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Upstream Security und Financial Assistance

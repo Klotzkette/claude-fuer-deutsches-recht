@@ -1,6 +1,6 @@
 ---
 name: arbeitnehmeraehnlichkeit
-description: "Wenn es um Arbeitnehmerähnlicher Handelsvertreter nach Paragraf 92a HGB in Handelsvertreterrecht und Vertriebsverträge geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Arbeitnehmerähnlicher Handelsvertreter nach Paragraf 92a HGB: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Arbeitnehmerähnlicher Handelsvertreter nach § 92a HGB

@@ -1,6 +1,6 @@
 ---
 name: typ-anfrage-mandanten-routing
-description: "Wenn es um Energie: Anfrage-Routing in Energierecht geht: klärt Rolle, Ziel, Frist, Unterlagen und den passenden nächsten Fachskill; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Energie: Anfrage-Routing: routet Rolle, Frist, Unterlagen und Fachschritt; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Energie: Anfrage-Routing

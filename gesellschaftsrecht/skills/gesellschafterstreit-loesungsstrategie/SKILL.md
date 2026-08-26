@@ -1,6 +1,6 @@
 ---
 name: gesellschafterstreit-loesungsstrategie
-description: "Wenn es um Gesellschafterstreit — Lösungsstrategie in Gesellschaftsrecht geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
+description: "Für Gesellschafterstreit — Lösungsstrategie: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Verhandlungs- oder Eskalationslinie."
 ---
 
 # Gesellschafterstreit — Lösungsstrategie

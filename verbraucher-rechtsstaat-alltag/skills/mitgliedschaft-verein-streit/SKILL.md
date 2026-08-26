@@ -1,6 +1,6 @@
 ---
 name: mitgliedschaft-verein-streit
-description: "Wenn es um Mitgliedschaft im Verein Streit in Verbraucher im Rechtsstaat Alltag geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Mitgliedschaft im Verein Streit: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Mitgliedschaft im Verein Streit

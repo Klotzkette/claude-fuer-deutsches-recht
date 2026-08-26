@@ -1,6 +1,6 @@
 ---
 name: secondary-buyout-und-sbo
-description: "Wenn es um Secondary Buyout in Private Equity Praxis geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Secondary Buyout: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Secondary Buyout

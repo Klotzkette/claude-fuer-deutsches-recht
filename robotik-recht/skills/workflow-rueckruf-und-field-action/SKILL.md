@@ -1,6 +1,6 @@
 ---
 name: workflow-rueckruf-und-field-action
-description: "Wenn es um Rückruf und Field Action in robotik-recht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt. Auswahlstichwort: Workflow Rueckruf Und Field Action; Arbeitsfeld: robotik-recht."
+description: "Für Rückruf und Field Action: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt. Fachgebiet: robotik-recht. Route: workflow-rueckruf-und-field-action."
 ---
 
 # Rückruf und Field Action

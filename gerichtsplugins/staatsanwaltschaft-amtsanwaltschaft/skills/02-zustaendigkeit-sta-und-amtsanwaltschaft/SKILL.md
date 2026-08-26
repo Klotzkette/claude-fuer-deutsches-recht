@@ -1,6 +1,6 @@
 ---
 name: 02-zustaendigkeit-sta-und-amtsanwaltschaft
-description: "Wenn es um 02 Zuständigkeit Staatsanwaltschaft und Amtsanwaltschaft in Staatsanwaltschaft und Amtsanwaltschaft geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
+description: "Für 02 Zuständigkeit Staatsanwaltschaft und Amtsanwaltschaft: prüft Frist, Form, Zuständigkeit und Eilbedarf; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # 02 Zuständigkeit Staatsanwaltschaft und Amtsanwaltschaft

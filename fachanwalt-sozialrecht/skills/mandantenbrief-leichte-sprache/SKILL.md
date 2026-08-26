@@ -1,6 +1,6 @@
 ---
 name: mandantenbrief-leichte-sprache
-description: "Wenn es um Mandantenbrief Leichte Sprache in Fachanwalt Sozialrecht geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
+description: "Für Mandantenbrief Leichte Sprache: erstellt Entwurf mit Antrag, Beweis und Anlagen; Ergebnis: Schriftsatz mit Begründungs- und Anlagenlogik."
 ---
 
 # Erklärung eines sozialrechtlichen Bescheids für den Mandanten in einfacher oder leichter Sprache

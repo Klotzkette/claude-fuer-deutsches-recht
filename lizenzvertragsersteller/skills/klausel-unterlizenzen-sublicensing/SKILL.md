@@ -1,6 +1,6 @@
 ---
 name: klausel-unterlizenzen-sublicensing
-description: "Wenn es um Klausel Unterlizenzen (Sub-Licensing) in Lizenzvertragsersteller geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
+description: "Für Klausel Unterlizenzen (Sub-Licensing): ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Klausel Unterlizenzen (Sub-Licensing)

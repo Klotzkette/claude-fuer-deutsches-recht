@@ -1,6 +1,6 @@
 ---
 name: dubletten-serienforderungen
-description: "Wenn es um Dubletten und Serienforderungen in Insolvenzforderungsanmeldungsprüfung geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Dubletten und Serienforderungen: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Dubletten und Serienforderungen

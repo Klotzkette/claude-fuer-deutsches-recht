@@ -1,6 +1,6 @@
 ---
 name: bafa-nullbescheid-catch-all-cbam
-description: "Wenn es um BAFA-Nullbescheid: Verbindliche Feststellung der Genehmigungsfreiheit in Außenwirtschaft, Sanktionen, Zoll und CBAM geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
+description: "Für BAFA-Nullbescheid: Verbindliche Feststellung der Genehmigungsfreiheit: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # BAFA-Nullbescheid: Verbindliche Feststellung der Genehmigungsfreiheit

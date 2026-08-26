@@ -1,6 +1,6 @@
 ---
 name: board-memo-raumfahrt-haftung-und-versicherung
-description: "Wenn es um Weltraumrecht: Board-Memo: Raumfahrt, Haftung und Versicherung in Weltraumrecht geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
+description: "Für Weltraumrecht: Board-Memo: Raumfahrt, Haftung und Versicherung: erstellt Entwurf mit Antrag, Beweis und Anlagen; Ergebnis: Schriftsatz mit Begründungs- und Anlagenlogik."
 ---
 
 # Weltraumrecht: Board-Memo: Raumfahrt, Haftung und Versicherung

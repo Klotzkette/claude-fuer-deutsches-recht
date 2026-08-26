@@ -1,6 +1,6 @@
 ---
 name: zag-agenten-auslagerung-register
-description: "Wenn es um ZAG-Agenten, E-Geld-Agenten und Auslagerung in Bank-Rechtsabteilung geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert einen Einreichungsplan mit Form-, Portal- und Nachweischeck."
+description: "Für ZAG-Agenten, E-Geld-Agenten und Auslagerung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Einreichungsplan mit Form- und Nachweischeck."
 ---
 
 # ZAG-Agenten, E-Geld-Agenten und Auslagerung

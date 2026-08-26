@@ -1,6 +1,6 @@
 ---
 name: ueberraschende-klausel-305c
-description: "Wenn es um Überraschende Klausel 305c in AGB-Recht-Prüfer geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Gegenprüfung mit Fehler-, Beweis- und Fristencheck."
+description: "Für Überraschende Klausel 305c: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Überraschende Klausel 305c

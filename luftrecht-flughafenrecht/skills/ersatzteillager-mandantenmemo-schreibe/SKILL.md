@@ -1,6 +1,6 @@
 ---
 name: ersatzteillager-mandantenmemo-schreibe
-description: "Wenn es um Ersatzteillager – Mandantenmemo schreiben in Luftrecht und Flughafenrecht geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
+description: "Für Ersatzteillager – Mandantenmemo schreiben: erstellt Entwurf mit Antrag, Beweis und Anlagen; Ergebnis: Schriftsatz mit Begründungs- und Anlagenlogik."
 ---
 
 # Ersatzteillager – Mandantenmemo schreiben

@@ -1,6 +1,6 @@
 ---
 name: spezial-universitaetsstaedte-livequellen-check
-description: "Wenn es um Universitaetsstaedte: Livequellen- und Rechtsprechungscheck in Mietrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Universitätsstädte: Livequellen- und Rechtsprechungscheck: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Universitaetsstaedte: Livequellen- und Rechtsprechungscheck

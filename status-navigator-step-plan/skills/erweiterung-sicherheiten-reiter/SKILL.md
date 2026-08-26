@@ -1,6 +1,6 @@
 ---
 name: erweiterung-sicherheiten-reiter
-description: "Wenn es um Erweiterung Sicherheiten-Reiter in Plugin: status-navigator-step-plan geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Erweiterung Sicherheiten-Reiter: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Erweiterung Sicherheiten-Reiter

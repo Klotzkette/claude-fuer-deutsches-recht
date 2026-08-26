@@ -1,6 +1,6 @@
 ---
 name: liability-limitations-basket-cap
-description: "Wenn es um Liability Limitations Basket Cap in Großkanzlei Corporate/M&A geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. Auswahlstichwort: Liability Limitations Basket Cap; Arbeitsfeld: Großkanzlei Corporate/M&A."
+description: "Für Liability Limitations Basket Cap: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt. Fachgebiet: Großkanzlei Corporate/M&A. Route: liability-limitations-basket-cap."
 ---
 
 # Liability Limitations, Basket, De Minimis und Cap: verhandelt Haftungsbegrenzungen, Ausschluesse, Verjährung und Buyer Protections im SPA.

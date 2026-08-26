@@ -1,6 +1,6 @@
 ---
 name: soldat-zeit-soldatinnen-kdv-spannungs
-description: "Wenn es um Soldat auf Zeit und KDV in Kriegsdienstverweigerung und Wehrdienst geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Soldat auf Zeit und KDV: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Soldat auf Zeit und KDV

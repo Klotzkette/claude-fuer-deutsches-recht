@@ -1,6 +1,6 @@
 ---
 name: transfer-restrictions-upstream-security
-description: "Wenn es um Transfer Restrictions und Vinkulierung in Didaktisches Gesellschaftsrecht — English Business Terms geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen."
+description: "Für Transfer Restrictions und Vinkulierung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Transfer Restrictions und Vinkulierung

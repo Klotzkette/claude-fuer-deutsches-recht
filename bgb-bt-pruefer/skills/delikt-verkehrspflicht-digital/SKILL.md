@@ -1,6 +1,6 @@
 ---
 name: delikt-verkehrspflicht-digital
-description: "Wenn es um Delikt: Verkehrspflicht Digital in BGB BT Prüfer geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Delikt: Verkehrspflicht Digital: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Delikt: Verkehrspflicht Digital

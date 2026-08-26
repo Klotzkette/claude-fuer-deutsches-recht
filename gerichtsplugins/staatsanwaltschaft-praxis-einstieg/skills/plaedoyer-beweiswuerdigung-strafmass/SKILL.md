@@ -1,6 +1,6 @@
 ---
 name: plaedoyer-beweiswuerdigung-strafmass
-description: "Wenn es um Plädoyer: Beweiswürdigung und Strafmaß sauber bauen in Staatsanwaltschaft Praxis-Einstieg geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Beweislast- und Substantiierungsmatrix."
+description: "Für Plädoyer: Beweiswürdigung und Strafmaß sauber bauen: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Beweislast- und Substantiierungsmatrix."
 ---
 
 # Plädoyer: Beweiswürdigung und Strafmaß sauber bauen

@@ -1,6 +1,6 @@
 ---
 name: syndikusrechtsanwalt-abgrenzung-kammerantwort-und-verf
-description: "Wenn es um Syndikusrechtsanwalt Abgrenzung Kammerantwort Und Verf in Berufsrecht Anwälte geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Verhandlungs- oder Eskalationslinie mit Optionen."
+description: "Für Syndikusrechtsanwalt Abgrenzung Kammerantwort und Verf: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Anwälte: syndikusrechtsanwalt abgrenzung - Kammerantwort mit Verfahrensstrategie, Tonlage und Belegplan

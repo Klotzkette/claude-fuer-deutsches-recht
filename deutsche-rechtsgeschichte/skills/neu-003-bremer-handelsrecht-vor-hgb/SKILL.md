@@ -1,6 +1,6 @@
 ---
 name: neu-003-bremer-handelsrecht-vor-hgb
-description: "Wenn es um Deutsche Rechtsgeschichte: 003 Bremer Handelsrecht Vor Hgb in Deutsche Rechtsgeschichte geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Deutsche Rechtsgeschichte: 003 Bremer Handelsrecht vor HGB: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Schnittstellenkarte mit Zuständigkeits- und Nachweisfragen."
 ---
 
 # Deutsche Rechtsgeschichte: 003 Bremer Handelsrecht Vor Hgb

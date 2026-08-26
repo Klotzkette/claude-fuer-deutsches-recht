@@ -1,6 +1,6 @@
 ---
 name: 06-kindesunterhalt-duesseldorfer-tabelle
-description: "Wenn es um Kindesunterhalt und Düsseldorfer Tabelle in Familiengericht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
+description: "Für Kindesunterhalt und Düsseldorfer Tabelle: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Kindesunterhalt und Düsseldorfer Tabelle

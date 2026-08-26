@@ -1,6 +1,6 @@
 ---
 name: bmas-teilhabe-schwerbehindertenrecht-sgb
-description: "Wenn es um Teilhaberecht (SGB IX) (BMAS) in Legistik-Werkstatt geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen. Auswahlstichwort: Bmas Teilhabe Schwerbehindertenrecht Sgb; Arbeitsfeld: Legistik-Werkstatt."
+description: "Für Teilhaberecht (SGB IX) (BMAS): ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt. Fachgebiet: Legistik-Werkstatt. Route: bmas-teilhabe-schwerbehindertenrecht-sgb."
 ---
 
 # Teilhaberecht (SGB IX) (BMAS)

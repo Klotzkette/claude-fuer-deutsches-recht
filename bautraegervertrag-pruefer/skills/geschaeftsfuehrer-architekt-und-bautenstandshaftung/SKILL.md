@@ -1,6 +1,6 @@
 ---
 name: geschaeftsfuehrer-architekt-und-bautenstandshaftung
-description: "Wenn es um Geschäftsführer-, Architekten- und Bautenstandshaftung in Bauträgervertrag-Prüfer geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Geschäftsführer-, Architekten- und Bautenstandshaftung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Geschäftsführer-, Architekten- und Bautenstandshaftung

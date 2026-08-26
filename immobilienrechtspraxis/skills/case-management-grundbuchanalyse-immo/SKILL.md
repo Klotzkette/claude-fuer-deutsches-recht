@@ -1,6 +1,6 @@
 ---
 name: case-management-grundbuchanalyse-immo
-description: "Wenn es um Case Management Immobilienrecht in Immobilienrechtspraxis geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Case Management Immobilienrecht: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Case Management Immobilienrecht

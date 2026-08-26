@@ -1,6 +1,6 @@
 ---
 name: chn-042-patent-and-utility-model-china
-description: "Wenn es um Patent And Utility Model China in China-Wirtschaftsverkehr geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Patent And Utility Model China: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Patent And Utility Model China

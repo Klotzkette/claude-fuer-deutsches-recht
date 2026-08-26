@@ -211,7 +211,6 @@ Lieferstück: Fachvotum zu Fahrerlaubnis-Entzug mit Tatbestandsmerkmalen, Aktenf
 ### 16.4. Kaskoleistung und Aufklärungsobliegenheit prüfen
 
 Bearbeitungsauftrag: Nach einem Fahrzeugschaden verlässt der Fahrer den Unfallort, meldet verspätet oder macht unvollständige Angaben. Das Entfernen nach dem Ereignis ist grundsätzlich eine Frage der vertraglichen Aufklärungsobliegenheit und Paragraf 28 VVG; Paragraf 81 VVG betrifft dagegen die vorsätzliche oder grob fahrlässige Herbeiführung des Versicherungsfalls selbst. Wer sich erlaubt entfernt, kann durch rechtzeitige nachträgliche Feststellungen die Versichererinteressen wahren; die konkrete Kausalität bleibt zu prüfen.
-Norm- oder Entscheidungsbezug aus dem Fachmaterial: Trenne Herbeiführung des Versicherungsfalls nach Paragraf 81 VVG von nachträglicher Aufklärungsobliegenheit nach Paragraf 28 VVG und liefert AKB-Prüfung, Kausalitätsgegenbeweis.
 Lieferstück: Fachvotum zu Kaskoleistung und Aufklärungsobliegenheit prüfen mit Tatbestandsmerkmalen, Aktenfundstellen, Beweislast, stärkster Gegenposition, Risiko und ausformulierter Rechtsfolge.
 
 ### 16.5. Mandant hat OWi-Bußgeldbescheid erhalten und Anwalt prüft ob Einspruch sinnvoll ist

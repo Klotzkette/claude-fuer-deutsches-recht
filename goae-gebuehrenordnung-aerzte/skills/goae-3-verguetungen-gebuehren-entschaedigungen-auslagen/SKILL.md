@@ -1,6 +1,6 @@
 ---
 name: goae-3-verguetungen-gebuehren-entschaedigungen-auslagen
-description: "Wenn es um GOÄ Paragraf 3 Vergütungen Gebühren Entschädigungen Auslagen in GOÄ Gebührenordnung für Ärzte geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Berechnungstabelle mit Schwellen, Annahmen und Kontrollfragen."
+description: "Für GOÄ Paragraf 3 Vergütungen Gebühren Entschädigungen Auslagen: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Berechnungstabelle mit Annahmen und Kontrollfragen."
 ---
 
 # GOÄ § 3 Vergütungen Gebühren Entschädigungen Auslagen

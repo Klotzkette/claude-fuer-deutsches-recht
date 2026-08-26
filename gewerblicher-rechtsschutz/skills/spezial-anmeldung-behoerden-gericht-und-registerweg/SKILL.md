@@ -1,6 +1,6 @@
 ---
 name: spezial-anmeldung-behoerden-gericht-und-registerweg
-description: "Wenn es um Anmeldung: Behörden-, Gerichts- oder Registerweg in Plugin: Gewerblicher Rechtsschutz geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Anmeldung: Behörden-, Gerichts- oder Registerweg: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Einreichungsplan mit Form- und Nachweischeck."
 ---
 
 # Anmeldung: Behörden-, Gerichts- oder Registerweg

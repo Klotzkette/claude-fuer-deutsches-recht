@@ -1,6 +1,6 @@
 ---
 name: memes-satire-risiko
-description: "Wenn es um Memes Satire Risiko in Wahlkampfrecht Praxis geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Memes Satire Risiko: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Memes Satire Risiko

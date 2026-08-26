@@ -1,6 +1,6 @@
 ---
 name: hoefe-uebergabe
-description: "Plant und entwirft die lebzeitige Hofübergabe im Geltungsbereich der Höfeordnung. Prüft Hofeigenschaft, Grundsteuerwert, Hoferbenberechtigung, Abfindung und Nachabfindung, Altenteil, Genehmigung, Grundbuchvollzug und Steuer-Schnittstellen und liefert Übergabematrix, Verhandlungspunkte sowie einen notariell anschlussfähigen Vertragsauftrag."
+description: "Plant und entwirft die lebzeitige Hofübergabe im Geltungsbereich der Höfeordnung."
 ---
 
 # Hofübergabe nach der Höfeordnung

@@ -1,6 +1,6 @@
 ---
 name: beihilfe-und-heilfuersorge
-description: "Wenn es um Beihilfe Und Heilfürsorge in Beamtenrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Beihilfe und Heilfürsorge: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Beihilfe Und Heilfürsorge

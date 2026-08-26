@@ -1,6 +1,6 @@
 ---
 name: datenschutz-ki-in-hr-recruiting
-description: "Wenn es um Datenschutz digitale Werkzeuge In HR Recruiting in Start-up-HR-Personalabteilung Berlin geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Datenschutz digitale Werkzeuge in HR Recruiting: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Datenschutz KI In HR Recruiting

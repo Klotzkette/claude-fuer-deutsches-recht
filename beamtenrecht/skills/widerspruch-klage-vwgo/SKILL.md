@@ -1,6 +1,6 @@
 ---
 name: widerspruch-klage-vwgo
-description: "Wenn es um Widerspruch Klage Vwgo in Beamtenrecht geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
+description: "Für Widerspruch Klage VwGO: erstellt Entwurf mit Antrag, Beweis und Anlagen; Ergebnis: Schriftsatz mit Begründungs- und Anlagenlogik."
 ---
 
 # Widerspruch Klage Vwgo

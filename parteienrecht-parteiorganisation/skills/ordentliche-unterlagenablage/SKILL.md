@@ -1,6 +1,6 @@
 ---
 name: ordentliche-unterlagenablage
-description: "Wenn es um Unterlagenablage Partei in Parteienrecht und Parteiorganisation geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Dokumentenmatrix mit Nachforderungsliste."
+description: "Für Unterlagenablage Partei: ordnet Akte, Belege und Lücken; Ergebnis: Dokumentenmatrix mit Nachforderungsliste."
 ---
 
 # Unterlagenablage Partei

@@ -1,6 +1,6 @@
 ---
 name: fraud-red-flags-kaltstart-und-faktenmatrix
-description: "Wenn es um Fraud Red Flags Kaltstart Und Faktenmatrix in Berufsrecht Wirtschaftsprüfer geht: klärt Rolle, Ziel, Frist, Unterlagen und den passenden nächsten Fachskill; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Fraud Red Flags Kaltstart und Faktenmatrix: routet Rolle, Frist, Unterlagen und Fachschritt; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Wirtschaftsprüfer: fraud red flags - Kaltstart mit Faktenmatrix, Risikoampel und fehlenden Unterlagen

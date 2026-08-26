@@ -1,6 +1,6 @@
 ---
 name: breitband-kontrolle-sichern
-description: "Wenn es um Breitband Kontrolle Sichern in Öffentliches Wirtschaftsrecht geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Breitband Kontrolle Sichern: prüft Ergebnis, Beweislast und Gegenposition; Ergebnis: Gegenprüfung mit Beweis- und Fristencheck."
 ---
 
 # Breitband Kontrolle Sichern

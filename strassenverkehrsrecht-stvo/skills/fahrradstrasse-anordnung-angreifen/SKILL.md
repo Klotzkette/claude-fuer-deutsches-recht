@@ -1,6 +1,6 @@
 ---
 name: fahrradstrasse-anordnung-angreifen
-description: "Wenn es um Fahrradstrasse Anordnung Angreifen in Straßenverkehrsrecht StVO geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Fahrradstrasse Anordnung Angreifen: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Fahrradstrasse Anordnung Angreifen

@@ -1,6 +1,6 @@
 ---
 name: stufenfeststellung-besoldung-27-bbesg
-description: "Wenn es um Stufenfeststellung Besoldung nach Paragraf 27 BBesG in Beamtenrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Stufenfeststellung Besoldung nach Paragraf 27 BBesG: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Stufenfeststellung Besoldung nach § 27 BBesG

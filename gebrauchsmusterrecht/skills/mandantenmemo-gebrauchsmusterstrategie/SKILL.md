@@ -1,6 +1,6 @@
 ---
 name: mandantenmemo-gebrauchsmusterstrategie
-description: "Wenn es um Mandantenmemo Gebrauchsmusterstrategie in gebrauchsmusterrecht geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Mandantenmemo Gebrauchsmusterstrategie: erstellt Entwurf mit Antrag, Beweis und Anlagen; Ergebnis: Schriftsatz mit Begründungs- und Anlagenlogik."
 ---
 
 # Mandantenmemo Gebrauchsmusterstrategie

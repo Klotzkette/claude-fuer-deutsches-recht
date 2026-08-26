@@ -1,6 +1,6 @@
 ---
 name: waren-dienstleistungen-ekdb-tmclass-nizza
-description: "Wenn es um Waren- und Dienstleistungsverzeichnis in markenrecht-fashion-luxus geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Verhandlungs- oder Eskalationslinie mit Optionen."
+description: "Für Waren- und Dienstleistungsverzeichnis: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Waren- und Dienstleistungsverzeichnis

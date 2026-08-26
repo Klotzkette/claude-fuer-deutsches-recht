@@ -1,6 +1,6 @@
 ---
 name: berichte-beschlagnahme-mietverwaltung-besitz
-description: "Wenn es um Berichte: Schriftsatz-, Brief- und Memo-Bausteine in ZVG-Zwangsverwaltung - Verwalter-Cockpit geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
+description: "Für Berichte: Schriftsatz-, Brief- und Memo-Bausteine: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Berichte: Schriftsatz-, Brief- und Memo-Bausteine

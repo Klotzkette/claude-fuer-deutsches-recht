@@ -1,6 +1,6 @@
 ---
 name: btm-in-einfacher-sprache
-description: "Wenn es um Btm In Einfacher Sprache in Betäubungsmittelrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Btm in Einfacher Sprache: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Btm In Einfacher Sprache

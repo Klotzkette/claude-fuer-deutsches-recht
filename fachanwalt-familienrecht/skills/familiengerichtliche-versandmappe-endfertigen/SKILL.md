@@ -1,6 +1,6 @@
 ---
 name: familiengerichtliche-versandmappe-endfertigen
-description: "Endfertigt Scheidungsantrag, Unterhalts-, Zugewinn-, Sorge-, Umgangs- und Gewaltschutzschriftsätze für Familiengericht und Beschwerdegericht: trennt Familiensache und Familienstreitsache, prüft Antrag, Beteiligte, Frist und vertrauliche Daten, ordnet Urkunden, Auskünfte und Berechnungen zu und liefert einzelne gestempelte PDFs mit konsistentem AST-/AG- oder gerichtlichem Anlagenkreis."
+description: "Endfertigt Scheidungsantrag, Unterhalts-, Zugewinn-, Sorge-, Umgangs- und Gewaltschutzschriftsätze für Familiengericht und Beschwerdegericht: trennt Familiensache und Familienstreitsache, prüft Antrag, Beteiligte, Frist und vertrauliche Daten, ordnet Urkunden, Auskünfte und Berechnungen zu und liefert einzelne gestempelte PDFs mit konsistentem AST-/AG- oder."
 ---
 
 # Familiengerichtliche Versandmappe endfertigen

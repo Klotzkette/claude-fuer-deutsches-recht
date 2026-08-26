@@ -1,6 +1,6 @@
 ---
 name: space-028-finanzierung-satellitenprojekt-projektfinanzierung
-description: "Wenn es um Weltraumrecht: Finanzierung Satellitenprojekt Projektfinanzierung und Step-in-Rechte in Weltraumrecht geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Weltraumrecht: Finanzierung Satellitenprojekt Projektfinanzierung und Step-in-Rechte: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Weltraumrecht: Finanzierung Satellitenprojekt Projektfinanzierung und Step-in-Rechte

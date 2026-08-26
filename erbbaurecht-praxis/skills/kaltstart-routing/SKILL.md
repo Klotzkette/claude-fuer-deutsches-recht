@@ -1,6 +1,6 @@
 ---
 name: kaltstart-routing
-description: "Wenn es um Kaltstart Erbbaurecht in Erbbaurecht Praxis geht: klärt Rolle, Ziel, Frist, Unterlagen und den passenden nächsten Fachskill; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
+description: "Für Kaltstart Erbbaurecht: routet Rolle, Frist, Unterlagen und Fachschritt; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Kaltstart Erbbaurecht

@@ -1,6 +1,6 @@
 ---
 name: aussenwirtschaft-ma-sanctions-export-dd
-description: "Wenn es um M und A Exportkontroll- und Sanktions-Due-Diligence in Außenwirtschaft, Sanktionen, Zoll und CBAM geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für M und A Exportkontroll- und Sanktions-Due-Diligence: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # M und A Exportkontroll- und Sanktions-Due-Diligence

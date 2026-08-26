@@ -1,6 +1,6 @@
 ---
 name: vier-risikoampel-und-gegenargumente
-description: "Wenn es um Vier: Risikoampel, Gegenargumente und Verteidigungslinien in Memorandums-Ersteller geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Vier: Risikoampel, Gegenargumente und Verteidigungslinien: prüft Ergebnis, Beweislast und Gegenposition; Ergebnis: Fristen- und Risikoampel."
 ---
 
 # Vier: Risikoampel, Gegenargumente und Verteidigungslinien

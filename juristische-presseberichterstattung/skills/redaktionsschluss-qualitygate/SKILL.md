@@ -1,6 +1,6 @@
 ---
 name: redaktionsschluss-qualitygate
-description: "Wenn es um Redaktionsschluss Qualitygate in Juristische Presseberichterstattung geht: führt vor Veröffentlichung den Schlusscheck für Quelle, Status, Stellungnahme, Namensnennung, Bild, Headline und Korrekturreserve durch."
+description: "Für Redaktionsschluss Qualitygate: prüft Ergebnis, Beweislast und Gegenposition; Ergebnis: Gegenprüfung mit Beweis- und Fristencheck."
 ---
 
 # Redaktionsschluss Qualitygate

@@ -1,6 +1,6 @@
 ---
 name: kaltstart-einigungsvertrag-akte
-description: "Wenn es um Kaltstart Einigungsvertrag Akte in Einigungsvertrag und Vermögensrecht geht: klärt Rolle, Ziel, Frist, Unterlagen und den passenden nächsten Fachskill; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Kaltstart Einigungsvertrag Akte: routet Rolle, Frist, Unterlagen und Fachschritt; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Kaltstart Einigungsvertrag Akte

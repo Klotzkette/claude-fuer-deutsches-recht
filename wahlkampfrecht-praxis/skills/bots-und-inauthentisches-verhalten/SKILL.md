@@ -1,6 +1,6 @@
 ---
 name: bots-und-inauthentisches-verhalten
-description: "Wenn es um Bots Und Inauthentisches Verhalten in Wahlkampfrecht Praxis geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Bots und Inauthentisches Verhalten: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Bots Und Inauthentisches Verhalten

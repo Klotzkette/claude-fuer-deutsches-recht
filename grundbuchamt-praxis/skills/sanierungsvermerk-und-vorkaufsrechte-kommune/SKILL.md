@@ -1,6 +1,6 @@
 ---
 name: sanierungsvermerk-und-vorkaufsrechte-kommune
-description: "Wenn es um Sanierungsvermerk und Kommune in Grundbuchamt Praxis geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Sanierungsvermerk und Kommune: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Sanierungsvermerk und Kommune

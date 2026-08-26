@@ -1,6 +1,6 @@
 ---
 name: strafrecht-spezial-untreue-266-stgb-grundtatbestand
-description: "Wenn es um Untreue nach Paragraph 266 StGB Grundtatbestand in Fachanwalt Strafrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Untreue nach Paragraph 266 StGB Grundtatbestand: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Schnittstellenkarte mit Zuständigkeits- und Nachweisfragen."
 ---
 
 # Untreue nach Paragraph 266 StGB Grundtatbestand

@@ -1,6 +1,6 @@
 ---
 name: harmonisierung-migration-historisch
-description: "Wenn es um Harmonisierung und Migration — Rechtssichere Vereinheitlichung von Versorgungssystemen in BAV Strategie Konzern — Treuenfels Yamamoto Rechtsanwälte geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Harmonisierung und Migration — Rechtssichere Vereinheitlichung von Versorgungssystemen: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Harmonisierung und Migration — Rechtssichere Vereinheitlichung von Versorgungssystemen

@@ -1,6 +1,6 @@
 ---
 name: frist-bei-nachforderung-ein-monat
-description: "Wenn es um Einmonatsfrist Nachforderung in Kriegsdienstverweigerung und Wehrdienst geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Einmonatsfrist Nachforderung: prüft Frist, Form, Zuständigkeit und Eilbedarf; Ergebnis: Fristen- und Risikoampel."
 ---
 
 # Einmonatsfrist Nachforderung

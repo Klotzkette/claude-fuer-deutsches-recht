@@ -1,6 +1,6 @@
 ---
 name: nda-non-solicit-kartellrechtlich
-description: "Wenn es um Non-Solicit kartellrechtlich in NDA-Abgleich geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
+description: "Für Non-Solicit kartellrechtlich: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Non-Solicit kartellrechtlich

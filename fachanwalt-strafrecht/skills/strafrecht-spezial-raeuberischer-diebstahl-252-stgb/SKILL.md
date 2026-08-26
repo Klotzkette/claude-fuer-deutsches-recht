@@ -1,6 +1,6 @@
 ---
 name: strafrecht-spezial-raeuberischer-diebstahl-252-stgb
-description: "Wenn es um Raeuberischer Diebstahl nach Paragraf 252 StGB in Fachanwalt Strafrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Räuberischer Diebstahl nach Paragraf 252 StGB: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Schnittstellenkarte mit Zuständigkeits- und Nachweisfragen."
 ---
 
 # Raeuberischer Diebstahl nach § 252 StGB

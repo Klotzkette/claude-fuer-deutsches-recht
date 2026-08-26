@@ -1,6 +1,6 @@
 ---
 name: anspruchslandkarte-bgb-aufforderungsschreiben
-description: "Wenn es um Anspruchslandkarte BGB-Nachbarrecht in Nachbarschaftsstreit-Prüfer geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Beweislast- und Substantiierungsmatrix."
+description: "Für Anspruchslandkarte BGB-Nachbarrecht: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Tatbestands- oder Anspruchsmatrix."
 ---
 
 # Anspruchslandkarte BGB-Nachbarrecht

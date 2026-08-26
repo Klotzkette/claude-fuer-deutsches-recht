@@ -1,6 +1,6 @@
 ---
 name: gesellschafter-geschaeftsfuehrer
-description: "Wenn es um Gesellschafter Geschäftsführer in Gesellschaftsrechtliche Treuepflicht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen."
+description: "Für Gesellschafter Geschäftsführer: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Gesellschafter Geschäftsführer

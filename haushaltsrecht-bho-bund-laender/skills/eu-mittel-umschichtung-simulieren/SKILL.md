@@ -1,6 +1,6 @@
 ---
 name: eu-mittel-umschichtung-simulieren
-description: "Wenn es um Eu Mittel Umschichtung Simulieren in Haushaltsrecht BHO Bund und Länder geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Eu Mittel Umschichtung Simulieren: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Schnittstellenkarte mit Zuständigkeits- und Nachweisfragen."
 ---
 
 # Eu Mittel Umschichtung Simulieren

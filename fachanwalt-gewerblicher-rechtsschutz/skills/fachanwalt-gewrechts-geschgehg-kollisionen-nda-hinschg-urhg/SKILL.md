@@ -1,6 +1,6 @@
 ---
 name: fachanwalt-gewrechts-geschgehg-kollisionen-nda-hinschg-urhg
-description: "Wenn es um Fachanwalt Gewrechts Geschgehg Kollisionen Nda Hinschg Urhg in Fachanwalt Gewerblicher Rechtsschutz geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
+description: "Für Fachanwalt Gewrechts Geschgehg Kollisionen Nda Hinschg Urhg: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 ## Mandantenfragen beim Kaltstart

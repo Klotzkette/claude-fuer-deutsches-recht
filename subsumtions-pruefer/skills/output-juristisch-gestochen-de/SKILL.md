@@ -1,6 +1,6 @@
 ---
 name: output-juristisch-gestochen-de
-description: "Wenn es um Output: Juristisch gestochen (Deutsch) in Subsumtions-Prüfer geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
+description: "Für Output: Juristisch gestochen (Deutsch): ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Output: Juristisch gestochen (Deutsch)

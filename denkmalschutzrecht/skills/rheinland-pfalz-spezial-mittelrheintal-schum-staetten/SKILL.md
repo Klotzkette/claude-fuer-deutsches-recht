@@ -1,6 +1,6 @@
 ---
 name: rheinland-pfalz-spezial-mittelrheintal-schum-staetten
-description: "Wenn es um Oberes Mittelrheintal und SchUM-Staetten als UNESCO-Welterbe in Rheinland-Pfalz in Denkmalschutzrecht — Bundesweiter Rahmen und sechzehn geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
+description: "Für Oberes Mittelrheintal und SchUM-Stätten als UNESCO-Welterbe in Rheinland-Pfalz: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Oberes Mittelrheintal und SchUM-Staetten als UNESCO-Welterbe in Rheinland-Pfalz

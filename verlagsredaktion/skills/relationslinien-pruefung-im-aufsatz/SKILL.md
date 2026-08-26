@@ -1,6 +1,6 @@
 ---
 name: relationslinien-pruefung-im-aufsatz
-description: "Wenn es um Relationslinien-Prüfung im Aufsatz in Verlagsredaktion geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Tatbestands- oder Anspruchsmatrix mit Gegenargumenten."
+description: "Für Relationslinien-Prüfung im Aufsatz: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Tatbestands- oder Anspruchsmatrix. Fachgebiet: Verlagsredaktion. Route: relationslinien-pruefung-im-aufsatz."
 ---
 
 # Relationslinien-Prüfung im Aufsatz

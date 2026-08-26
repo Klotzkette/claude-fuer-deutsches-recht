@@ -1,6 +1,6 @@
 ---
 name: vig-lebensmittel-und-produkte-frist-se
-description: "Wenn es um Vig Lebensmittel Und Produkte Frist Se in Informationsfreiheit und Presseauskunft geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Vig Lebensmittel und Produkte Frist Se: prüft Frist, Form, Zuständigkeit und Eilbedarf; Ergebnis: Fristen- und Risikoampel."
 ---
 
 # Vig Lebensmittel Und Produkte Frist Se

@@ -1,6 +1,6 @@
 ---
 name: interessenkollision-ehegatten-gesellschafter-kammerantwort
-description: "Wenn es um Interessenkollision Ehegatten Gesellschafter Kammerantwort in Berufsrecht Steuerberater geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Verhandlungs- oder Eskalationslinie mit Optionen."
+description: "Für Interessenkollision Ehegatten Gesellschafter Kammerantwort: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Steuerberater: interessenkollision ehegatten und gesellschafter - Kammerantwort mit Verfahrensstrategie, Tonlage und Belegplan

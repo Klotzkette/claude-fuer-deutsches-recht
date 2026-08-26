@@ -1,6 +1,6 @@
 ---
 name: archivfund-in-heutige-argumentation
-description: "Wenn es um Archivfund in heutige Argumentation in Deutsche Rechtsgeschichte geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Archivfund in heutige Argumentation: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Schnittstellenkarte mit Zuständigkeits- und Nachweisfragen."
 ---
 
 # Archivfund in heutige Argumentation

@@ -1,6 +1,6 @@
 ---
 name: containerschiff-closing-planen
-description: "Wenn es um Containerschiff – Closing planen in See- und Schifffahrtsrecht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
+description: "Für Containerschiff – Closing planen: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Containerschiff – Closing planen

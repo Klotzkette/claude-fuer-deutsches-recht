@@ -1,6 +1,6 @@
 ---
 name: drg-102-funktionseliten-und-juristische-karrieren
-description: "Wenn es um Funktionseliten und juristische Karrieren in Deutsche Rechtsgeschichte geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
+description: "Für Funktionseliten und juristische Karrieren: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt. Fachgebiet: Deutsche Rechtsgeschichte. Route: drg-102-funktionseliten-und-juristische-karrieren."
 ---
 # Funktionseliten und juristische Karrieren
 

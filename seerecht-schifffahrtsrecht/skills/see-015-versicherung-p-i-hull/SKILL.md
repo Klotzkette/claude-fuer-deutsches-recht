@@ -1,6 +1,6 @@
 ---
 name: see-015-versicherung-p-i-hull
-description: "Wenn es um Versicherung P I Hull in See- und Schifffahrtsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Versicherung P I Hull: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Versicherung P I Hull

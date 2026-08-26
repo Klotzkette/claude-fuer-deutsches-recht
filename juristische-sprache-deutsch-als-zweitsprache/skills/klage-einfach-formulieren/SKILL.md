@@ -1,6 +1,6 @@
 ---
 name: klage-einfach-formulieren
-description: "Wenn es um Klage Einfach Formulieren in Juristische Sprache Deutsch als Zweitsprache geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Klage Einfach Formulieren: erstellt Entwurf mit Antrag, Beweis und Anlagen; Ergebnis: Schriftsatz mit Begründungs- und Anlagenlogik."
 ---
 
 # Klage Einfach Formulieren

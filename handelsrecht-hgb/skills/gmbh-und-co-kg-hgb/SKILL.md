@@ -1,6 +1,6 @@
 ---
 name: gmbh-und-co-kg-hgb
-description: "Wenn es um GmbH & Co. KG HGB in Handelsrecht HGB geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für GmbH & Co. KG HGB: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # GmbH & Co. KG HGB

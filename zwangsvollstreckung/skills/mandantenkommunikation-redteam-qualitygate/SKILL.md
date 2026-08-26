@@ -1,6 +1,6 @@
 ---
 name: mandantenkommunikation-redteam-qualitygate
-description: "Wenn es um Mandantenkommunikation in Zwangsvollstreckung geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Gegenprüfung mit Fehler-, Beweis- und Fristencheck."
+description: "Für Mandantenkommunikation: prüft Ergebnis, Beweislast und Gegenposition; Ergebnis: Gegenprüfung mit Beweis- und Fristencheck. Fachgebiet: Zwangsvollstreckung."
 ---
 
 # Mandantenkommunikation

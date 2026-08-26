@@ -1,6 +1,6 @@
 ---
 name: parkraumbewirtschaftung
-description: "Wenn es um Parkraumbewirtschaftung in Verkehrs- und Infrastrukturrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Parkraumbewirtschaftung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Parkraumbewirtschaftung

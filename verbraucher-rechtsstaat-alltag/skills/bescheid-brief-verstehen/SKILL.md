@@ -1,6 +1,6 @@
 ---
 name: bescheid-brief-verstehen
-description: "Wenn es um Bescheid oder Brief verstehen in Verbraucher im Rechtsstaat Alltag geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Bescheid oder Brief verstehen: erstellt Entwurf mit Antrag, Beweis und Anlagen; Ergebnis: Schriftsatz mit Begründungs- und Anlagenlogik."
 ---
 
 # Bescheid oder Brief verstehen

@@ -1,6 +1,6 @@
 ---
 name: suborbitalflug-luftrecht-oder-weltraumrecht
-description: "Wenn es um Weltraumrecht: Suborbitalflug: Luftrecht oder Weltraumrecht? in Weltraumrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Weltraumrecht: Suborbitalflug: Luftrecht oder Weltraumrecht?: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Weltraumrecht: Suborbitalflug: Luftrecht oder Weltraumrecht?

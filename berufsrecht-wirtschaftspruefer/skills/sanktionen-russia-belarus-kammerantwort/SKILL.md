@@ -1,6 +1,6 @@
 ---
 name: sanktionen-russia-belarus-kammerantwort
-description: "Wenn es um Sanktionen Russia Belarus Kammerantwort in Berufsrecht Wirtschaftsprüfer geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Verhandlungs- oder Eskalationslinie mit Optionen."
+description: "Für Sanktionen Russia Belarus Kammerantwort: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Wirtschaftsprüfer: sanktionen russia belarus - Kammerantwort mit Verfahrensstrategie, Tonlage und Belegplan

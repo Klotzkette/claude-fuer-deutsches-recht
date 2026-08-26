@@ -1,6 +1,6 @@
 ---
 name: internationale-harmonisierung-japan-corporate
-description: "Wenn es um Internationale Harmonisierung Konzern-BAV in BAV Strategie Konzern — Treuenfels Yamamoto Rechtsanwälte geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Internationale Harmonisierung Konzern-BAV: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Schnittstellenkarte mit Zuständigkeits- und Nachweisfragen."
 ---
 
 # Internationale Harmonisierung Konzern-BAV

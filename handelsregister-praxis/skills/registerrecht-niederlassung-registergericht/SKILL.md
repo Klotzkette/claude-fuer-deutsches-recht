@@ -1,6 +1,6 @@
 ---
 name: registerrecht-niederlassung-registergericht
-description: "Wenn es um Niederlassung und Filiale in Handelsregister Praxis geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Niederlassung und Filiale: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Einreichungsplan mit Form- und Nachweischeck."
 ---
 
 # Niederlassung und Filiale

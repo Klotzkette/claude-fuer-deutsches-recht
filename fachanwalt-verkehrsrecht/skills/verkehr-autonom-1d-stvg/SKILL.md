@@ -1,6 +1,6 @@
 ---
 name: verkehr-autonom-1d-stvg
-description: "Wenn es um Unfall mit autonomem Fahrzeug oder Frage zur Haftung bei automatisiertem Fahren in Fachanwalt Verkehrsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Unfall mit autonomem Fahrzeug oder Frage zur Haftung bei automatisiertem Fahren: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Unfall mit autonomem Fahrzeug oder Frage zur Haftung bei automatisiertem Fahren

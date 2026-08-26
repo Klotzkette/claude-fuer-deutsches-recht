@@ -1,6 +1,6 @@
 ---
 name: duldungs-anscheinsvollmacht
-description: "Wenn es um Duldungs- und Anscheinsvollmacht — Rechtsscheinvollmacht nach BGH in BGB AT Prüfer geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
+description: "Für Duldungs- und Anscheinsvollmacht — Rechtsscheinvollmacht nach BGH: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Duldungs- und Anscheinsvollmacht — Rechtsscheinvollmacht nach BGH

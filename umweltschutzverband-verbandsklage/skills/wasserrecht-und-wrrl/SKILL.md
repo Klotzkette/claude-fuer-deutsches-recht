@@ -1,6 +1,6 @@
 ---
 name: wasserrecht-und-wrrl
-description: "Wenn es um Wasserrecht Und Wrrl in Umweltschutzverband Verbandsklage geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
+description: "Für Wasserrecht und Wrrl: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Wasserrecht Und Wrrl

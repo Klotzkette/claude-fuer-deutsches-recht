@@ -1,6 +1,6 @@
 ---
 name: grundsteuer-einspruch-adv-bfh
-description: "Wenn es um Grundsteuer: Einspruch, AdV und BFH-Linie in Steuerrecht – Steuerberater und Anwälte geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Grundsteuer: Einspruch, AdV und BFH-Linie: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Schnittstellenkarte mit Zuständigkeits- und Nachweisfragen."
 ---
 
 # Grundsteuer: Einspruch, AdV und BFH-Linie

@@ -1,6 +1,6 @@
 ---
 name: klassen-verhandlung-vergleich-und-eskalation
-description: "Wenn es um Klassen: Verhandlung, Vergleich und Eskalation in Insolvenzplan- und StaRUG-Planwerkstatt geht: entwickelt Verhandlungsziel, Vergleichskorridor und Eskalationspfad; liefert eine Verhandlungs- oder Eskalationslinie mit Optionen."
+description: "Für Klassen: Verhandlung, Vergleich und Eskalation: entwickelt Ziel, Vergleich und Eskalation; Ergebnis: Verhandlungs- oder Eskalationslinie."
 ---
 
 # Klassen: Verhandlung, Vergleich und Eskalation

@@ -1,6 +1,6 @@
 ---
 name: geschgehg-halluzinations-handhabung-kanzlei
-description: "Wenn es um GeschGehG-Bausteine in diesem Spezialbereich geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Beweislast- und Substantiierungsmatrix."
+description: "Für GeschGehG-Bausteine: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # GeschGehG-Bausteine

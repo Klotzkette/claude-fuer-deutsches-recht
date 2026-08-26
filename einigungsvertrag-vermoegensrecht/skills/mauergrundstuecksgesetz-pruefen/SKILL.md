@@ -1,6 +1,6 @@
 ---
 name: mauergrundstuecksgesetz-pruefen
-description: "Wenn es um Mauergrundstuecksgesetz Prüfen in Einigungsvertrag und Vermögensrecht geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
+description: "Für Mauergrundstücksgesetz Prüfen: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt. Fachgebiet: Einigungsvertrag und Vermögensrecht. Route: mauergrundstuecksgesetz-pruefen."
 ---
 
 # Mauergrundstuecksgesetz Prüfen

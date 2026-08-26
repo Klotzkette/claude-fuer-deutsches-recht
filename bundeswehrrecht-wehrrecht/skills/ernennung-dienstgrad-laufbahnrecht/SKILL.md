@@ -1,6 +1,6 @@
 ---
 name: ernennung-dienstgrad-laufbahnrecht
-description: "Wenn es um Ernennung, Dienstgrad und Laufbahnrecht in Bundeswehrrecht und Wehrrecht geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
+description: "Für Ernennung, Dienstgrad und Laufbahnrecht: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Ernennung, Dienstgrad und Laufbahnrecht

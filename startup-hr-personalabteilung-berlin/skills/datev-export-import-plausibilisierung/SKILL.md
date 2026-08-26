@@ -1,6 +1,6 @@
 ---
 name: datev-export-import-plausibilisierung
-description: "Wenn es um DATEV Export Import Plausibilisierung in Start-up-HR-Personalabteilung Berlin geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für DATEV Export Import Plausibilisierung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # DATEV Export Import Plausibilisierung

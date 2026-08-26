@@ -1,6 +1,6 @@
 ---
 name: anspruchsentwurf-dokumentenmatrix-und-lueckenliste
-description: "Wenn es um Anspruchsentwurf: Dokumentenmatrix, Lückenliste und Nachforderung in patentrecht geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Dokumentenmatrix mit Nachforderungsliste."
+description: "Für Anspruchsentwurf: Dokumentenmatrix, Lückenliste und Nachforderung: ordnet Akte, Belege und Lücken; Ergebnis: Dokumentenmatrix mit Nachforderungsliste."
 ---
 
 # Anspruchsentwurf: Dokumentenmatrix, Lückenliste und Nachforderung

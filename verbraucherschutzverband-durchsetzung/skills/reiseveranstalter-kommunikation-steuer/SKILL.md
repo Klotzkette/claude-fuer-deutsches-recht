@@ -1,6 +1,6 @@
 ---
 name: reiseveranstalter-kommunikation-steuer
-description: "Wenn es um Reiseveranstalter Kommunikation Steuer in Verbraucherschutzverband Durchsetzung geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Reiseveranstalter Kommunikation Steuer: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Schnittstellenkarte mit Zuständigkeits- und Nachweisfragen."
 ---
 
 # Reiseveranstalter Kommunikation Steuer

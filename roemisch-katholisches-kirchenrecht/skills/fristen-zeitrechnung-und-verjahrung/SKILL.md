@@ -1,6 +1,6 @@
 ---
 name: fristen-zeitrechnung-und-verjahrung
-description: "Wenn es um Fristen, Zeitrechnung und Verjährung in Römisch-katholisches Kirchenrecht CIC und Katechismus geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Fristen, Zeitrechnung und Verjährung: prüft Frist, Form, Zuständigkeit und Eilbedarf; Ergebnis: Fristen- und Risikoampel."
 ---
 
 # Fristen, Zeitrechnung und Verjährung

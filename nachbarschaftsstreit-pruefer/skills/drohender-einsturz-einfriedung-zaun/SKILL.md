@@ -1,6 +1,6 @@
 ---
 name: drohender-einsturz-einfriedung-zaun
-description: "Wenn es um Drohender Einsturz und gefährliche Anlage in Nachbarschaftsstreit-Prüfer geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Beweislast- und Substantiierungsmatrix."
+description: "Für Drohender Einsturz und gefährliche Anlage: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Drohender Einsturz und gefährliche Anlage

@@ -1,6 +1,6 @@
 ---
 name: 033-unternehmensnachfolge-anteilsabtretung-niessbrauch
-description: "Wenn es um Unternehmensnachfolge Anteilsabtretung Niessbrauch in Notariat im Alltag geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Unternehmensnachfolge Anteilsabtretung Niessbrauch: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Notariat im Alltag: Unternehmensnachfolge – Anteilsabtretung, Nießbrauch, Stimmrechtsbindung

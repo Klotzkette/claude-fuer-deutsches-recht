@@ -1,6 +1,6 @@
 ---
 name: notariat-054-auslandsbeteiligte-steuerliche-hinweise-und-grenzen
-description: "Wenn es um Notariat im Alltag: Auslandsbeteiligte steuerliche Hinweise und Grenzen in Notariat im Alltag geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Notariat im Alltag: Auslandsbeteiligte steuerliche Hinweise und Grenzen: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Schnittstellenkarte mit Zuständigkeits- und Nachweisfragen."
 ---
 
 # Notariat im Alltag: Auslandsbeteiligte steuerliche Hinweise und Grenzen

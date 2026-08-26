@@ -1,6 +1,6 @@
 ---
 name: nda-fuer-manufacturing-und-supply-chain
-description: "Wenn es um NDA Für Manufacturing Und Supply Chain in NDA-Generator und Verschwiegenheitsvereinbarungs-Checker geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
+description: "Für NDA für Manufacturing und Supply Chain: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # NDA Für Manufacturing Und Supply Chain

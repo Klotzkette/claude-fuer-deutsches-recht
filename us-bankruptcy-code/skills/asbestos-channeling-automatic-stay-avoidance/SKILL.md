@@ -1,6 +1,6 @@
 ---
 name: asbestos-channeling-automatic-stay-avoidance
-description: "Wenn es um Asbestos Channeling Injunctions Paragraf 524(g) in US Bankruptcy Code geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Asbestos Channeling Injunctions Paragraf 524(g): ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Asbestos Channeling Injunctions § 524(g)

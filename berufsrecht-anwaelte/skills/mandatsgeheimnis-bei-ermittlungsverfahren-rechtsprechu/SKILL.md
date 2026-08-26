@@ -1,6 +1,6 @@
 ---
 name: mandatsgeheimnis-bei-ermittlungsverfahren-rechtsprechu
-description: "Wenn es um Mandatsgeheimnis Bei Ermittlungsverfahren Rechtsprechu in Berufsrecht Anwälte geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Gegenprüfung mit Fehler-, Beweis- und Fristencheck."
+description: "Für Mandatsgeheimnis bei Ermittlungsverfahren Rechtsprechu: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Anwälte: mandatsgeheimnis bei ermittlungsverfahren - Rechtsprechungscheck, stärkste Gegenansicht und Red-Team-Korrektur

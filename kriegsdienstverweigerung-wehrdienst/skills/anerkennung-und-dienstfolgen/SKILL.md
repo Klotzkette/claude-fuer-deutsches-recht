@@ -1,6 +1,6 @@
 ---
 name: anerkennung-und-dienstfolgen
-description: "Wenn es um Anerkennung und Dienstfolgen in Kriegsdienstverweigerung und Wehrdienst geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Anerkennung und Dienstfolgen: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Anerkennung und Dienstfolgen

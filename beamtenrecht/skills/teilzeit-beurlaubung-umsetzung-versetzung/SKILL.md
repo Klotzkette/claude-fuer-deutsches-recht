@@ -1,6 +1,6 @@
 ---
 name: teilzeit-beurlaubung-umsetzung-versetzung
-description: "Wenn es um Teilzeit Beurlaubung Familienpflege in Beamtenrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Teilzeit Beurlaubung Familienpflege: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Schnittstellenkarte mit Zuständigkeits- und Nachweisfragen."
 ---
 
 # Teilzeit Beurlaubung Familienpflege

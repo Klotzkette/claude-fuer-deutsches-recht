@@ -1,6 +1,6 @@
 ---
 name: reaktion-internationaler-bezug-und-schnittstellen
-description: "Wenn es um Spezial: Internationaler Bezug und Schnittstellen in Plugin: Gewerblicher Rechtsschutz geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen."
+description: "Für Spezial: Internationaler Bezug und Schnittstellen: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Schnittstellenkarte mit Zuständigkeits- und Nachweisfragen."
 ---
 
 # Spezial: Internationaler Bezug und Schnittstellen
@@ -126,3 +126,7 @@ Mandatsbezug: Deutsches Unternehmen entdeckt Verletzung seiner deutschen Marke d
 - `spezial-anmeldung-behoerden-gericht-und-registerweg` – Behördenübersicht
 - `takedown-anweisung` – Domain-Takedown
 - `spezial-patentscreening-livequellen-und-rechtsprechungscheck` – Patentrecherche
+
+## Vertiefung bei Bedarf
+
+- Bei `spezial-reaktion-internationaler-bezug-und-schnittstellen` beziehungsweise Reaktion: Internationaler Bezug und Schnittstellen: [die zusätzliche Vertiefung laden](./references/vertiefung-spezial-reaktion-internationaler-bezug-und-schnittstellen.md).

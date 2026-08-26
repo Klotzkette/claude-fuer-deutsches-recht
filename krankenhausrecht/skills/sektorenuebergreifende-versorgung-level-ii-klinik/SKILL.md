@@ -1,6 +1,6 @@
 ---
 name: sektorenuebergreifende-versorgung-level-ii-klinik
-description: "Wenn es um Sektorenuebergreifende Versorgung Level Ii Klinik in Krankenhausrecht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
+description: "Für Sektorenübergreifende Versorgung Level Ii Klinik: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Sektorenuebergreifende Versorgung Level Ii Klinik

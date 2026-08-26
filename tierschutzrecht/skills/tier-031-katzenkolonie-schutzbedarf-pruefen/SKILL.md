@@ -1,6 +1,6 @@
 ---
 name: tier-031-katzenkolonie-schutzbedarf-pruefen
-description: "Wenn es um Katzenkolonie Schutzbedarf Pruefen in Tierschutzrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Katzenkolonie Schutzbedarf Prüfen: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt. Fachgebiet: Tierschutzrecht. Route: tier-031-katzenkolonie-schutzbedarf-pruefen."
 ---
 
 # Katzenkolonie Schutzbedarf Pruefen

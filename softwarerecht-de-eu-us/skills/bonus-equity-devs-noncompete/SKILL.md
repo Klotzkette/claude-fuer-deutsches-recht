@@ -1,6 +1,6 @@
 ---
 name: bonus-equity-devs-noncompete
-description: "Wenn es um Bonus Equity Devs Non-Compete in Softwarerecht Deutschland/EU/International/USA geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Bonus Equity Devs Non-Compete: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Bonus Equity Devs Non-Compete

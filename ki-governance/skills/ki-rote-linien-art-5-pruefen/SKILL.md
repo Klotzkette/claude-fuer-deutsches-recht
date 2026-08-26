@@ -1,6 +1,6 @@
 ---
 name: ki-rote-linien-art-5-pruefen
-description: "Wenn es um Verbotene digitale Werkzeuge Art. 5 prüfen in Technik-Governance geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen."
+description: "Für Verbotene digitale Werkzeuge Art. 5 prüfen: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Verbotene KI Art. 5 prüfen

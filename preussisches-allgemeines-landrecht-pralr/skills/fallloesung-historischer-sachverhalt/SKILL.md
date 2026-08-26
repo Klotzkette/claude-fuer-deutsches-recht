@@ -1,6 +1,6 @@
 ---
 name: fallloesung-historischer-sachverhalt
-description: "Wenn es um Historische Falllösung in Preußisches Allgemeines Landrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. Auswahlstichwort: Fallloesung Historischer Sachverhalt; Arbeitsfeld: Preußisches Allgemeines Landrecht."
+description: "Für Historische Falllösung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt. Fachgebiet: Preußisches Allgemeines Landrecht. Route: fallloesung-historischer-sachverhalt."
 ---
 
 # Historische Falllösung

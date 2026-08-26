@@ -1,6 +1,6 @@
 ---
 name: metadaten-katalog-machine
-description: "Wenn es um Metadatenkataloge und Thesauri — Datenbankschutz für Informationsstrukturen in Datenbankrecht und Datenbankherstellerrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Metadatenkataloge und Thesauri — Datenbankschutz für Informationsstrukturen: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Metadatenkataloge und Thesauri — Datenbankschutz für Informationsstrukturen

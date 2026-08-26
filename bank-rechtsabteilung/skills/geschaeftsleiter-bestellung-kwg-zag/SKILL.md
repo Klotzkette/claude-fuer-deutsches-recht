@@ -1,6 +1,6 @@
 ---
 name: geschaeftsleiter-bestellung-kwg-zag
-description: "Wenn es um Geschäftsleiterbestellung nach KWG und ZAG in Bank-Rechtsabteilung geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen."
+description: "Für Geschäftsleiterbestellung nach KWG und ZAG: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Geschäftsleiterbestellung nach KWG und ZAG

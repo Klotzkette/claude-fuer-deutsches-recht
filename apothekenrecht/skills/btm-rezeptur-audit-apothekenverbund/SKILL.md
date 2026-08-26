@@ -1,6 +1,6 @@
 ---
 name: btm-rezeptur-audit-apothekenverbund
-description: "Wenn es um BtM Rezeptur AMTS Schnellcheck in Apothekenrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für BtM Rezeptur AMTS Schnellcheck: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # BtM Rezeptur AMTS Schnellcheck

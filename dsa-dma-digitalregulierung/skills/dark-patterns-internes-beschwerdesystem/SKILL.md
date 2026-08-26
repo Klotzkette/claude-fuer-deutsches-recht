@@ -1,6 +1,6 @@
 ---
 name: dark-patterns-internes-beschwerdesystem
-description: "Wenn es um DSA: Dark Patterns Audit in DSA, DMA und Digitalregulierung der EU geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für DSA: Dark Patterns Audit: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # DSA: Dark Patterns Audit

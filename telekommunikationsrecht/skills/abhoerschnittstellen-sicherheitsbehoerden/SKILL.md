@@ -1,6 +1,6 @@
 ---
 name: abhoerschnittstellen-sicherheitsbehoerden
-description: "Wenn es um Überwachungsschnittstellen und Behördenauskünfte in Telekommunikationsrecht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen."
+description: "Für Überwachungsschnittstellen und Behördenauskünfte: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Schnittstellenkarte mit Zuständigkeits- und Nachweisfragen."
 ---
 
 # Überwachungsschnittstellen und Behördenauskünfte

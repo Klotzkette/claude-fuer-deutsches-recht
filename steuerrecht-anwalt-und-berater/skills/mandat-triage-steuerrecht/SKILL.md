@@ -1,6 +1,6 @@
 ---
 name: mandat-triage-steuerrecht
-description: "Wenn es um Mandat-Triage Steuerrecht in Steuerrecht – Steuerberater und Anwälte geht: klärt Rolle, Ziel, Frist, Unterlagen und den passenden nächsten Fachskill; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Mandat-Triage Steuerrecht: routet Rolle, Frist, Unterlagen und Fachschritt; Ergebnis: Schnittstellenkarte mit Zuständigkeits- und Nachweisfragen."
 ---
 
 # Mandat-Triage Steuerrecht

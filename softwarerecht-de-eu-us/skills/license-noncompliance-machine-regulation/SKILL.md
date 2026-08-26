@@ -1,6 +1,6 @@
 ---
 name: license-noncompliance-machine-regulation
-description: "Wenn es um License Noncompliance Dispute in Softwarerecht Deutschland/EU/International/USA geht: entwickelt Verhandlungsziel, Vergleichskorridor und Eskalationspfad; liefert eine Verhandlungs- oder Eskalationslinie mit Optionen."
+description: "Für License Noncompliance Dispute: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # License Noncompliance Dispute

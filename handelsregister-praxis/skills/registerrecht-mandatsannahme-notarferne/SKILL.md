@@ -1,6 +1,6 @@
 ---
 name: registerrecht-mandatsannahme-notarferne
-description: "Wenn es um Kanzlei ohne Notarvollzug in Handelsregister Praxis geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Kanzlei ohne Notarvollzug: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Einreichungsplan mit Form- und Nachweischeck."
 ---
 
 # Kanzlei ohne Notarvollzug

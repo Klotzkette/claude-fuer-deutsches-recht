@@ -1,6 +1,6 @@
 ---
 name: cisg-schadensersatz-und-mitigation
-description: "Wenn es um Schadensersatz und Schadensminderung (CISG Art. 74-78) in Internationales Handelsrecht und Lex Mercatoria geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
+description: "Für Schadensersatz und Schadensminderung (CISG Art. 74-78): ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Schadensersatz und Schadensminderung (CISG Art. 74-78)

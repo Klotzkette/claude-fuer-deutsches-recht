@@ -1,6 +1,6 @@
 ---
 name: bmi-bevoelkerungsschutz-oeffentlicher
-description: "Wenn es um Bevoelkerungsschutz und Katastrophenrecht (BMI) in Legistik-Werkstatt geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen. Auswahlstichwort: Bmi Bevoelkerungsschutz Oeffentlicher; Arbeitsfeld: Legistik-Werkstatt."
+description: "Für Bevölkerungsschutz und Katastrophenrecht (BMI): ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt. Fachgebiet: Legistik-Werkstatt. Route: bmi-bevoelkerungsschutz-oeffentlicher."
 ---
 
 # Bevoelkerungsschutz und Katastrophenrecht (BMI)

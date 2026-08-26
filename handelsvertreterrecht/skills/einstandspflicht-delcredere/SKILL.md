@@ -1,6 +1,6 @@
 ---
 name: einstandspflicht-delcredere
-description: "Wenn es um Delkredere-Haftung des Handelsvertreters nach Paragraf 86b HGB in Handelsvertreterrecht und Vertriebsverträge geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Delkredere-Haftung des Handelsvertreters nach Paragraf 86b HGB: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Delkredere-Haftung des Handelsvertreters nach § 86b HGB

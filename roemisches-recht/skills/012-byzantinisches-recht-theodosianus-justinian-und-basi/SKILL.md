@@ -1,6 +1,6 @@
 ---
 name: 012-byzantinisches-recht-theodosianus-justinian-und-basi
-description: "Wenn es um Rom Byzantinisches Recht Theodosianus Justinian Und Basi in Römisches Recht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Rom Byzantinisches Recht Theodosianus Justinian und Basi: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Rom Byzantinisches Recht Theodosianus Justinian Und Basi

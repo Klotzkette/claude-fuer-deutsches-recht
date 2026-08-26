@@ -1,6 +1,6 @@
 ---
 name: formularcheck-insolvenzantrag
-description: "Wenn es um Formularcheck Insolvenzantrag in Verbraucherinsolvenz und Schuldenbereinigung geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
+description: "Für Formularcheck Insolvenzantrag: erstellt Entwurf mit Antrag, Beweis und Anlagen; Ergebnis: Schriftsatz mit Begründungs- und Anlagenlogik."
 ---
 
 # Formularcheck Insolvenzantrag: typische Fehler in Anlagen, Kreuzchen, Gläubigerliste und RSB-Antrag.

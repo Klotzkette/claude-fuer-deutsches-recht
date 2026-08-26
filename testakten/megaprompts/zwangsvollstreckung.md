@@ -7,20 +7,20 @@ Diese Vollprüfung enthält top-15 von 60 Skills des Plugins `zwangsvollstreckun
 ## Inhaltsverzeichnis
 
 1. **juristischer-argumentationskern** — Schaltet sich ein, wenn in Zwangsvollstreckung ein juristisches Arbeitsprodukt tragfähig begründet werden muss; verbinde…
-2. **einstieg-routing** — Wenn es um Einstieg und Routing in Zwangsvollstreckung geht: klärt Rolle, Ziel, Frist, Unterlagen und den passenden näch…
-3. **zwangsvollstreckung-erstpruefung-und-mandatsziel** — Wenn es um Zwangsvollstreckung: Erstprüfung, Rollenklärung und Mandatsziel in Zwangsvollstreckung geht: klärt Rolle, Zie…
-4. **mobiliar-gv-auftrag** — Wenn es um Mobiliarvollstreckung durch den Gerichtsvollzieher in Zwangsvollstreckung geht: ordnet Sachverhalt, Norm, Bew…
-5. **kontenpfaendung-notar-interessen-online** — Wenn es um Kontopfändung: Pfändungs- und Überweisungsbeschluss gegen Banken in Zwangsvollstreckung geht: erstellt den pa…
-6. **pfaendungstabelle-pfueb-arbeitsentgelt** — Berechnet pfändbares Monatsnetto nach der amtlichen Tabelle ab 1. Juli 2026, trennt reguläre Lohnpfändung, Unterhaltspfä…
-7. **pfueb-raeumung-schuldnerschutz-beweislast** — Erstellt und prüft Pfändungs- und Überweisungsbeschlüsse: Titel, Klausel, Zustellung, Forderung, Drittschuldner, Zuständ…
-8. **eu-kontenpfaendung-655-2014** — Wenn es um Europäische Kontenpfändung (EuKtPVO, VO (EU) 655/2014) in Zwangsvollstreckung geht: erstellt den passenden En…
-9. **zvg-antrag-glaeubiger** — Wenn es um ZVG-Antrag (Zwangsversteigerung / Zwangsverwaltung) in Zwangsvollstreckung geht: erstellt den passenden Entwu…
-10. **vollstreckungsschutz-haertefall-765a** — Wenn es um Vollstreckungsschutz Paragraf 765a ZPO — Härtefall in Zwangsvollstreckung geht: erstellt den passenden Entwur…
-11. **arbeit-schriftsatz-brief-und-memo-bausteine** — Wenn es um Arbeit: Schriftsatz-, Brief- und Memo-Bausteine in Zwangsvollstreckung geht: erstellt den passenden Entwurf a…
-12. **vermoegensauskunft-vollstreckungsbescheid** — Wenn es um Vermögensauskunft: Zahlen, Schwellenwerte und Berechnung in Zwangsvollstreckung geht: rechnet Schwellen, Betr…
-13. **abwehr-schuldner** — Wenn es um Schuldnerabwehr in der Zwangsvollstreckung in Zwangsvollstreckung geht: erstellt den passenden Entwurf aus Sa…
-14. **raeumung-compliance-dokumentation-und-akte** — Wenn es um Raeumung: Compliance-Dokumentation und Aktenvermerk in Zwangsvollstreckung geht: ordnet Akteninhalt, Belege, …
-15. **elektronische-zustellung-eu** — Wenn es um Elektronische Zustellung in der Zwangsvollstreckung – ZVollstrDigitG in Zwangsvollstreckung geht: prüft Frist…
+2. **einstieg-routing** — Für Einstieg und Routing: routet Rolle, Frist, Unterlagen und Fachschritt; Ergebnis: Prüfprodukt mit Risiko und nächstem…
+3. **zwangsvollstreckung-erstpruefung-und-mandatsziel** — Für Zwangsvollstreckung: Erstprüfung, Rollenklärung und Mandatsziel: routet Rolle, Frist, Unterlagen und Fachschritt; Er…
+4. **pfueb-raeumung-schuldnerschutz-beweislast** — Erstellt und prüft Pfändungs- und Überweisungsbeschlüsse: Titel, Klausel, Zustellung, Forderung, Drittschuldner, Zuständ…
+5. **elektronische-zustellung-eu** — Für Elektronische Zustellung in der Zwangsvollstreckung – ZVollstrDigitG: ordnet Norm, Beweislast und Gegenargument; Erg…
+6. **raeumung-tabellenauszug-inso** — Für Räumung Paragraf 885 ZPO / Berliner Räumung Paragraf 885a ZPO: ordnet Norm, Beweislast und Gegenargument; Ergebnis: …
+7. **eu-kontenpfaendung-655-2014** — Für Europäische Kontenpfändung (EuKtPVO, VO (EU) 655/2014): ordnet Norm, Beweislast und Gegenargument; Ergebnis: Schnitt…
+8. **kontenpfaendung-notar-interessen-online** — Für Kontopfändung: Pfändungs- und Überweisungsbeschluss gegen Banken: ordnet Norm, Beweislast und Gegenargument; Ergebni…
+9. **spezial-vermoegensauskunft-zahlen-schwellen-und-berechnung** — Für Vermögensauskunft: Zahlen, Schwellenwerte und Berechnung: rechnet Beträge, Schwellen und Varianten; Ergebnis: Berech…
+10. **inso-internationaler-bezug-und-schnittstellen** — Für InsO: Internationaler Bezug und Schnittstellen: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Schnittstellenk…
+11. **workflow-kaltstart-und-routing** — Für Kaltstart und Routing: routet Rolle, Frist, Unterlagen und Fachschritt; Ergebnis: Prüfprodukt mit Risiko und nächste…
+12. **haertefall-mandantenkommunikation-entscheidungsvorlage** — Für Härtefall: Mandantenkommunikation und Entscheidungsvorlage: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Man…
+13. **zvg-antrag-glaeubiger** — Für ZVG-Antrag (Zwangsversteigerung / Zwangsverwaltung): erstellt Entwurf mit Antrag, Beweis und Anlagen; Ergebnis: Schr…
+14. **schuldnerschutz-beweislast-und-darlegungslast** — Für Schuldnerschutz: Beweislast, Darlegungslast und Substantiierung: ordnet Norm, Beweislast und Gegenargument; Ergebnis…
+15. **vollstreckungsbescheid-dokumentenmatrix-und-lueckenliste** — Für Vollstreckungsbescheid: Dokumentenmatrix, Lückenliste und Nachforderung: ordnet Akte, Belege und Lücken; Ergebnis: D…
 
 ---
 
@@ -147,7 +147,7 @@ Ausgangspunkt für dieses Plugin: Gläubiger für Titel, Klausel, Zustellung und
 
 ## Skill: `einstieg-routing`
 
-_Wenn es um Einstieg und Routing in Zwangsvollstreckung geht: klärt Rolle, Ziel, Frist, Unterlagen und den passenden nächsten Fachskill; liefert eine Fristen- und Risikoampel mit Sofortschritten._
+_Für Einstieg und Routing: routet Rolle, Frist, Unterlagen und Fachschritt; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt. Fachgebiet: Zwangsvollstreckung._
 
 # Einstieg und Routing
 
@@ -191,7 +191,7 @@ Dieser Einstieg routet **Zwangsvollstreckung** vom ersten Sachverhalt zu Rollen,
 
 ## Skill: `zwangsvollstreckung-erstpruefung-und-mandatsziel`
 
-_Wenn es um Zwangsvollstreckung: Erstprüfung, Rollenklärung und Mandatsziel in Zwangsvollstreckung geht: klärt Rolle, Ziel, Frist, Unterlagen und den passenden nächsten Fachskill; liefert eine Fristen- und Risikoampel mit Sofortschritten._
+_Für Zwangsvollstreckung: Erstprüfung, Rollenklärung und Mandatsziel: routet Rolle, Frist, Unterlagen und Fachschritt; Ergebnis: Tatbestands- oder Anspruchsmatrix._
 
 # Zwangsvollstreckung: Erstprüfung, Rollenklärung und Mandatsziel
 
@@ -236,335 +236,6 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 3. **Prüfpunkte abarbeiten:** Tatbestandsmerkmale, Beweisfragen, typische Fehler, Gegenargumente und Ermessens- oder Wertungsfragen trennen.
 4. **Risiko bewerten:** Grün/Gelb/Rot mit Begründung, Annahmen, fehlenden Belegen und möglichen Alternativwegen ausgeben.
 5. **Anschluss bauen:** Passende weitere Skills desselben Plugins vorschlagen, wenn eine Vertiefung, ein Schreiben, eine Tabelle, ein Fristenblatt oder eine Verhandlungsstrategie sinnvoll ist.
-
----
-
-## Skill: `mobiliar-gv-auftrag`
-
-_Wenn es um Mobiliarvollstreckung durch den Gerichtsvollzieher in Zwangsvollstreckung geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt._
-
-# Mobiliarvollstreckung durch den Gerichtsvollzieher
-
-## Einsatzlage
-
-Nutze diesen Skill, wenn ein Gläubiger aus einem Titel bewegliche Sachen beim Schuldner pfänden lassen will: Geschäftsausstattung, Kassenbestand, Schmuck, Kunst, Maschinen, Werkzeuge, Warenlager, Fahrzeuge oder sonstige körperliche Gegenstände. Ziel ist ein versandfähiger Gerichtsvollzieherauftrag mit klarer Modulwahl, konkreten Zugriffsorten, realistischen Pfändungsobjekten und sauberer Abgrenzung zu Konten-, Lohn- und Forderungspfändung.
-
-## Sofort-Rückfragen
-
-1. Liegen Titel, Klausel und Zustellungsnachweis vor, und ist eine Sicherheitsleistung oder Wartefrist einzuhalten?
-2. Wo soll vollstreckt werden: Wohnung, Geschäftsräume, Lager, Baustelle, Fahrzeugstandort, Messe, Kanzlei, Praxis oder Filiale?
-3. Welche pfändbaren Gegenstände sind bekannt: Typ, Seriennummer, Kennzeichen, Standort, geschätzter Wert, Fotos, Zeugen?
-4. Hat ein Dritter Gewahrsam, etwa Ehegatte, Vermieter, Leasinggeber, Arbeitgeber, Kunde, Werkstatt oder Lagerhalter?
-5. Gibt es Hinweise auf Insolvenzverfahren, Vollstreckungsschutz, Räumungsschutz, Absonderungsrechte, Leasing oder Eigentumsvorbehalt?
-
-## Normenanker
-
-| Thema | Anker | Arbeitsregel |
-| --- | --- | --- |
-| Vollstreckungsvoraussetzungen | Paragraf 704, 724, 750 ZPO | Ohne Titel, Klausel und Zustellung kein Sachzugriff |
-| Gerichtsvollzieherauftrag | Paragraf 753, 754, 802a ZPO | Module kombinieren: Zahlungsaufforderung, gütliche Einigung, Sachpfändung, Vermögensauskunft, Auskünfte |
-| Betreten und Durchsuchung | Paragraf 758, 758a ZPO | Bei verweigertem Zutritt Durchsuchungsanordnung beschaffen |
-| Pfändung beim Schuldner | Paragraf 808 ZPO | Sachen im Gewahrsam des Schuldners durch Wegnahme oder Pfandsiegel erfassen |
-| Pfändung bei Dritten | Paragraf 809 ZPO | Nur bei Herausgabebereitschaft des Dritten; sonst Herausgabeanspruch pfänden |
-| Unpfändbarkeit | Paragraf 811 ZPO | Existenzminimum, Berufsausübung, Gesundheit, Haushalt, religiöse und persönliche Gegenstände prüfen |
-| Austauschpfändung | Paragraf 811a ZPO | Hochwertige unpfändbare Sache gegen angemessene Ersatzsache austauschen lassen |
-| Verwertung | Paragraf 814, 817, 825 ZPO | Versteigerung, freihändiger Verkauf oder andere Verwertung wirtschaftlich wählen |
-| Insolvenzstopp | Paragraf 89 InsO | Nach Verfahrenseröffnung grundsätzlich keine Einzelvollstreckung in Insolvenzforderungen |
-
-## Prüfworkflow
-
-1. Vollstreckungsreife binär prüfen: Titelart, Klausel, Zustellung, Sicherheitsleistung, Wartefrist, Rechtsnachfolge und Forderungshöhe.
-2. Kosten-Nutzen-Weiche setzen: geschätzter Erlös abzüglich Gerichtsvollzieherkosten, Lagerung, Transport, Gutachten, Verwertung und Schuldnerschutzrisiko.
-3. Gerichtsvollziehermodule wählen: Zahlungsaufforderung und gütliche Erledigung nur, wenn sie nicht Zeit kosten; Sachpfändung direkt beauftragen; Vermögensauskunft und Drittauskünfte als Anschlussmodul vorsehen.
-4. Zugriffsort konkret machen: vollständige Anschrift, Etage, Klingelschild, Geschäftszeiten, Ansprechpartner, bekannte Fahrzeuge, Lagerplätze, Schlüssel- oder Zugangssituation.
-5. Pfändungsobjekte priorisieren: Bargeld und Wertsachen zuerst, dann marktgängige Gegenstände, Fahrzeuge und Maschinen; sperrige, wertlose oder hoch belastete Sachen ausklammern.
-6. Gewahrsam prüfen: Sachen in Schuldnergewahrsam nach Paragraf 808 ZPO; bei Drittgewahrsam nur mit Zustimmung des Dritten oder über Pfändung des Herausgabeanspruchs.
-7. Schuldnerschutz vorwegnehmen: unpfändbare Sachen, notwendige Arbeitsmittel, Austauschpfändung, Vollstreckungsschutz nach Paragraf 765a ZPO und drohende Existenzvernichtung.
-8. Durchsuchung vorbereiten: Wenn mit Zutrittsverweigerung zu rechnen ist, Antrag auf richterliche Durchsuchungsanordnung mit Titel, Forderung, Zugriffsort und Vollstreckungsinteresse vorbereiten.
-9. Verwertung steuern: Gerichtsvollzieher um Schätzung, Fotos, sichere Verwahrung und wirtschaftlich sinnvolle Verwertungsart bitten; bei Fahrzeugen Unterlagen, Schlüssel und Zulassungsdaten anfordern.
-10. Anschlussvollstreckung planen: Bei fruchtloser Pfändung Vermögensauskunft, Drittauskünfte nach Paragraf 802l ZPO, Kontenpfändung, Lohnpfändung oder Insolvenzprüfung anschließen.
-
-## Zugriffsmatrix
-
-| Gegenstand | Zugriff | Typische Falle | Auftragstext |
-| --- | --- | --- | --- |
-| Bargeld, Schmuck, Uhren | Wegnahme | Eigentumseinwand Dritter | Vorrangig wegnehmen und quittieren lassen |
-| Fahrzeug beim Schuldner | Pfandsiegel, Schlüssel, Papiere, Verwertung | Leasing, Sicherungsübereignung, Berufsnutzung | Kennzeichen und Standort nennen, Halterdaten prüfen lassen |
-| Geschäftsausstattung | Pfandsiegel oder Wegnahme | Fortführung gefährdet, geringer Erlös | Nur werthaltige Gegenstände mit Marktwert aufnehmen |
-| Warenlager | Pfändung und spätere Verwertung | Eigentumsvorbehalt, Verderblichkeit | Eigentums- und Haltbarkeitsrisiko dokumentieren |
-| Werkzeug und Computer | nur bei pfändbarem Überschuss | Berufsausübungsschutz | Austauschpfändung oder Zugriff auf Luxus-/Mehrfachausstattung prüfen |
-| Sachen bei Dritten | nur bei Herausgabebereitschaft | Dritter verweigert Herausgabe | Herausgabeanspruch per Pfändungs- und Überweisungsbeschluss verfolgen |
-
-## Objekt- und Gewahrsamslogik
-
-Vor dem Auftrag wird eine kurze Zugriffsliste erstellt:
-
-| Objekt | Standort | Gewahrsam | Eigentumsrisiko | Pfändbarkeit | wirtschaftlicher Sinn |
-| --- | --- | --- | --- | --- | --- |
-| Fahrzeug | Straße, Hof, Werkstatt, Tiefgarage | Schuldner, Dritter oder ungeklärt | Halter, Leasing, Sicherungseigentum | Schlüssel, Papiere, Berufsnutzung prüfen | Marktwert abzüglich Kosten |
-| Maschine | Betrieb, Baustelle, Lager | Schuldner oder Auftraggeber | Eigentumsvorbehalt, Mietkauf | Arbeitsmittel, Austauschpfändung | Demontage, Transport, Verwertung |
-| Kasse/Ware | Laden, Messestand | Schuldner | Kommissionsware, Eigentumsvorbehalt | Bargeld zuerst | Verderblichkeit, Lagerkosten |
-
-Wenn der Gewahrsam nicht beim Schuldner liegt, wird der Auftrag nicht schwammig formuliert. Entweder ist die Herausgabebereitschaft des Dritten konkret bekannt, oder der Herausgabeanspruch wird als Forderung gepfändet. Der Gerichtsvollzieher soll nicht vor Ort eine ungeklärte Eigentums- und Gewahrsamsprüfung improvisieren müssen.
-
-## Formulierung für den Auftrag
-
-```text
-An den zuständigen Gerichtsvollzieher
-
-In der Zwangsvollstreckung
-[Gläubiger] gegen [Schuldner]
-aus [Titel, Gericht/Notar, Datum, Aktenzeichen]
-
-beantragen wir die Mobiliarvollstreckung gegen den Schuldner.
-
-Vollstreckungsvoraussetzungen:
-- Vollstreckbarer Titel liegt bei.
-- Vollstreckungsklausel liegt bei.
-- Zustellungsnachweis liegt bei.
-- Forderungsaufstellung per [Datum] liegt bei.
-
-Beauftragte Maßnahmen:
-1. Zahlungsaufforderung und gütliche Erledigung nur ohne Verzögerung der Sachpfändung.
-2. Sachpfändung beweglicher Sachen nach Paragraf 808 ZPO an folgenden Orten:
-   [Anschrift, Etage, Geschäftszeiten, Ansprechpartner].
-3. Vorrangiger Zugriff auf:
-   [Gegenstand, Standort, Kennzeichen, Seriennummer, geschätzter Wert].
-4. Bei verweigertem Zutritt bitten wir um Mitteilung, damit unverzüglich eine Durchsuchungsanordnung nach Paragraf 758a ZPO beantragt werden kann.
-5. Bei fruchtloser Pfändung bitten wir um Abnahme der Vermögensauskunft und um Mitteilung, ob Drittauskünfte nach Paragraf 802l ZPO angezeigt sind.
-
-Bitte dokumentieren Sie Pfändung, Nichtauffindbarkeit, Drittgewahrsam, Eigentumseinwendungen und Schuldnerschutzgründe im Protokoll.
-```
-
-## Typische Kniffe
-
-| Lage | Besserer Zugriff |
-| --- | --- |
-| Schuldner hat nur unpfändbare Haushaltsgegenstände | Keine Kosten produzieren; direkt Vermögensauskunft und Drittauskünfte |
-| Fahrzeug steht in fremder Werkstatt | Drittgewahrsam klären; bei Verweigerung Herausgabeanspruch pfänden |
-| Schuldner betreibt Laden mit Kasse | Öffnungszeiten nennen und Zugriff auf Bargeld anregen |
-| Schuldner verlagert Ware | Überraschenden Termin und konkrete Lagerorte mitteilen |
-| Hoher Forderungsbetrag, unklare Vermögenslage | Sachpfändung mit Vermögensauskunft, Kontenpfändung und Registerauskünften verzahnen |
-| Insolvenzgerücht | Vor Auftrag Insolvenzbekanntmachungen prüfen; nach Eröffnung Einzelvollstreckung stoppen |
-
-## Qualitätsgates
-
-- Keine Mobiliarvollstreckung ohne belastbaren Titel-Klausel-Zustellung-Check.
-- Keine wertlose Pfändung: Transport-, Lager- und Verwertungskosten gegen erwarteten Erlös rechnen.
-- Drittgewahrsam nicht ignorieren; ohne Herausgabebereitschaft ist der direkte Zugriff regelmäßig der falsche Weg.
-- Unpfändbarkeit und Austauschpfändung vorweg prüfen, damit der Auftrag nicht an naheliegendem Schuldnerschutz scheitert.
-- Bei Banken, Arbeitgebern, Kundenforderungen und sonstigen Ansprüchen nicht beim Mobiliar bleiben, sondern in den Pfändungs- und Überweisungsbeschluss wechseln.
-
----
-
-## Skill: `kontenpfaendung-notar-interessen-online`
-
-_Wenn es um Kontopfändung: Pfändungs- und Überweisungsbeschluss gegen Banken in Zwangsvollstreckung geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik._
-
-# Kontopfändung: Pfändungs- und Überweisungsbeschluss gegen Banken
-
-## Einsatzlage
-
-Nutze diesen Skill, wenn der Gläubiger ein Bankkonto des Schuldners pfänden will. Der Skill erzeugt eine prüffähige Antragsroute für den Pfändungs- und Überweisungsbeschluss, trennt Antrag an das Vollstreckungsgericht von Zustellung durch den Gerichtsvollzieher und berücksichtigt die Digitalstufen der Zwangsvollstreckung ab 2026 und 2027.
-
-## Kaltstart-Rückfragen
-
-1. Welcher Titel liegt vor, und sind Klausel, Zustellung, Sicherheitsleistung und Wartefrist erledigt?
-2. Welche Bank ist Drittschuldner: vollständige Firma, Anschrift, bekannte IBAN, Filiale, zentrale Pfändungsadresse?
-3. Welche Forderung wird gepfändet: Hauptforderung, Zinsen, Kosten, Vollstreckungskosten, laufende Ansprüche?
-4. Ist mit P-Konto, Sozialleistungen, Arbeitseinkommen, Insolvenzverfahren oder Vollstreckungsschutz zu rechnen?
-5. Soll die Zustellung besonders beschleunigt werden: Gerichtsvollzieher, elektronische Übermittlung, ab 1.6.2027 Bank mit sicherem Übermittlungsweg?
-
-## Normenanker
-
-| Thema | Anker | Arbeitsregel |
-| --- | --- | --- |
-| Titelvoraussetzungen | Paragraf 704, 724, 750 ZPO | Vor Antrag vollständig prüfen |
-| Forderungspfändung | Paragraf 829 ZPO | Pfändung entsteht mit Zustellung an den Drittschuldner |
-| Elektronischer Antrag | Paragraf 829a ZPO n.F. | Ab 1.10.2026 erleichterte elektronische Antragstellung mit elektronischen Kopien |
-| Strukturierter Antrag | Paragraf 829 Absatz 5 ZPO n.F. | Ab 1.1.2027 können PDF und strukturierter XML-Datensatz eingereicht werden; bei Widerspruch zählt XML |
-| Drittschuldnererklärung | Paragraf 840 ZPO | Bank zur Erklärung über Bestand, Rechte Dritter und Vorpfändungen auffordern |
-| Schuldnerschutz | Paragraf 850k ZPO | P-Konto und Freibeträge mitdenken, aber nicht im Pfändungsantrag lösen |
-| Elektronische Zustellung an Banken | Paragraf 173 Absatz 2 Nummer 1 ZPO n.F. | Kreditinstitute müssen ab 1.6.2027 einen sicheren Übermittlungsweg eröffnen |
-| Insolvenz | Paragraf 89 InsO | Nach Verfahrenseröffnung Einzelvollstreckung grundsätzlich sperren |
-
-## Workflow
-
-1. Vollstreckungsreife feststellen: Titel, Klausel, Zustellung, Sicherheitsleistung, Zustellungsurkunden und Forderungsaufstellung.
-2. Zuständiges Vollstreckungsgericht bestimmen: regelmäßig Amtsgericht am allgemeinen Gerichtsstand des Schuldners.
-3. Drittschuldner sauber bezeichnen: Kreditinstitut mit zutreffender juristischer Person; bei Unsicherheit zentrale Pfändungsadresse recherchieren.
-4. Forderungsaufstellung erstellen: Hauptforderung, Zinsen mit Zeitraum und Zinssatz, titulierte Kosten, bisherige Vollstreckungskosten, Gesamtbetrag.
-5. Antrag formulieren: Pfändung des Anspruchs auf Auszahlung und Gutschrift aus Kontoverbindung, Überweisung zur Einziehung, Zustellung an die Bank.
-6. Paragraf-840-Erklärung mit beantragen: Anerkennung, Zahlungsbereitschaft, entgegenstehende Rechte, Vorpfändungen, andere Gläubiger, P-Konto-Hinweise.
-7. Zustellung steuern: Gerichtsvollzieherzustellung an die Bank als Drittschuldner; Schuldnerzustellung nachgelagert dokumentieren.
-8. Digitalroute wählen:
-   - Bis 30.9.2026: bisherige elektronische Einreichung nach allgemeinen Regeln oder Papierweg.
-   - Ab 1.10.2026: Paragraf 829a ZPO n.F. für elektronische Kopien von Titel, Klausel und Zustellungsnachweis nutzen.
-   - Ab 1.1.2027: PDF-Antrag und, wenn verfügbar, strukturierten XML-Datensatz nach Paragraf 829 Absatz 5 ZPO n.F. konsistent halten.
-   - Ab 1.6.2027: Zustellung an Kreditinstitute regelmäßig über deren sicheren Übermittlungsweg vorbereiten.
-9. Nachlauf überwachen: Eingang der Drittschuldnererklärung, Zahlung der Bank, P-Konto-Freigaben, Rang, Vorpfändungen und Folgepfändung.
-
-## Digitalmatrix
-
-| Datum | Änderung | Auswirkung auf den Antrag |
-| --- | --- | --- |
-| 1.10.2026 | Elektronischer PfÜB-Antrag nach Paragraf 829a ZPO n.F. | Elektronische Kopien können genügen, wenn Identität und Forderungsfortbestand versichert werden |
-| 1.1.2027 | Strukturierter Datensatz nach Paragraf 829 Absatz 5 ZPO n.F. | PDF und XML müssen inhaltlich gleich laufen; XML entscheidet bei Abweichung |
-| 1.6.2027 | Kreditinstitute mit sicherem Übermittlungsweg nach Paragraf 173 Absatz 2 Nummer 1 ZPO n.F. | Gerichtsvollzieher kann die Bankzustellung digital abwickeln; Zustellnachweis eng kontrollieren |
-
-## Antragsskelett
-
-```text
-An das Amtsgericht [Ort] als Vollstreckungsgericht
-
-In der Zwangsvollstreckung
-[Gläubiger] gegen [Schuldner]
-aus [Titel, Gericht/Notar, Datum, Aktenzeichen]
-
-beantragen wir den Erlass eines Pfändungs- und Überweisungsbeschlusses.
-
-Drittschuldner:
-[Kreditinstitut, vollständige Firma, Anschrift, bekannte IBAN/Kontonummer]
-
-Gepfändet werden die Ansprüche des Schuldners gegen den Drittschuldner aus der Kontoverbindung, insbesondere auf Auszahlung, Überweisung, Gutschrift, Rechnungsabschluss und Herausgabe pfändbarer Guthaben.
-
-Die gepfändeten Ansprüche werden dem Gläubiger zur Einziehung überwiesen.
-
-Der Drittschuldner wird aufgefordert, die Erklärung nach Paragraf 840 ZPO abzugeben.
-
-Anlagen:
-- Vollstreckbarer Titel
-- Klausel
-- Zustellungsnachweis
-- Forderungsaufstellung
-- Nachweise zu Kosten und Zinsen
-```
-
-## Fehlerquellen
-
-| Fehler | Folge | Reparatur |
-| --- | --- | --- |
-| Falsche Bankgesellschaft | Zustellung läuft ins Leere | Juristische Person und zentrale Pfändungsadresse prüfen |
-| Zinsen unklar | Kürzung oder Rückfrage | Zeitraum, Zinssatz und Berechnungsgrundlage tabellarisch ausweisen |
-| P-Konto ignoriert | Zahlung geringer als erwartet | Freibeträge einplanen, aber Antrag nicht unnötig beschränken |
-| XML weicht ab 2027 vom PDF ab | Strukturdaten können maßgeblich sein | Daten vor Einreichung abgleichen |
-| Insolvenz eröffnet | Einzelvollstreckung unzulässig | Insolvenzbekanntmachungen prüfen und Forderungsanmeldung erwägen |
-
-## Qualitätsgates
-
-- Pfändung entsteht erst mit wirksamer Zustellung an die Bank als Drittschuldner; Eingangsbestätigung des Gerichts genügt nicht.
-- Paragraf-840-Erklärung immer mitziehen und Nachfrist setzen, wenn die Bank nicht reagiert.
-- Ab 1.1.2027 PDF und XML nicht getrennt pflegen; jede Betragsänderung muss in beiden Fassungen identisch sein.
-- Ab 1.6.2027 elektronische Bankzustellung nicht nur behaupten, sondern Zustellnachweis und Übermittlungsweg dokumentieren.
-
----
-
-## Skill: `pfaendungstabelle-pfueb-arbeitsentgelt`
-
-_Berechnet pfändbares Monatsnetto nach der amtlichen Tabelle ab 1. Juli 2026, trennt reguläre Lohnpfändung, Unterhaltspfändung und P-Konto-Schutz und liefert ein prüfbares Berechnungsprotokoll mit Unterhaltspflichten, Sonderbezügen und Antragsfolgen._
-
-# Pfändungstabelle ab 1. Juli 2026
-
-## Arbeitsbereich
-
-Bei einer Lohn- oder Rentenpfändung den pfändbaren Betrag nach der vom 1. Juli 2026 bis 30. Juni 2027 geltenden Bekanntmachung berechnen. Vor der Zahl immer Einkommensart, Bereinigungspositionen nach Paragraf 850e ZPO, unpfändbare Bezüge nach Paragraf 850a ZPO, tatsächlich gewährten gesetzlichen Unterhalt und eine gerichtliche Anordnung prüfen. P-Konto-Schutz nach Paragrafen 899 und 902 ZPO und privilegierte Unterhaltspfändung nach Paragraf 850d ZPO sind getrennte Rechenwege.
-
-## Arbeitsweg
-
-- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
-- Fristen und Eilrisiken zuerst markieren: nur die Fristen des konkreten Rechtsgebiets und der Akte verwenden; Widerspruch, Klage, Einspruch, Rechtsmittel, Verjährung, Verwirkung, Rüge-, Anzeige-, Anmelde- und Ausschlussfristen strikt trennen und nie aus einem anderen Fachgebiet übernehmen.
-- Tragende Normen verifizieren: §§ 704 ff. ZPO; § 802l Kontensuche, Vermögensauskunft, Räumung; § 800 ZPO Notar; § 201 InsO, ZVG, EU-Kontenpfändung VO 655; § 765a Härtefall, Schuldnerschutz — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
-- Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
-- Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
-
-## Triage zu Beginn
-
-1. Handelt es sich um Arbeitseinkommen (§ 850c ZPO) oder selbstständiges Einkommen (§ 850i ZPO)?
-2. Wie viele unterhaltsberechtigte Personen sind zu berücksichtigen?
-3. Handelt es sich um privilegierte Unterhaltspfändung (§ 850d ZPO) oder reguläre Pfändung?
-4. Hat der Schuldner ein P-Konto? Dann Einrichtung nach Paragraf 850k ZPO, Sockel nach Paragraf 899 ZPO, bescheinigte Erhöhungen nach Paragrafen 902 und 903 ZPO sowie Nachzahlungen gesondert erfassen.
-
-## Zentrale Normen
-
-- § 850a ZPO — Unpfändbare Bezüge (Sonderzuwendungen, Aufwandsentschädigungen)
-- § 850c ZPO — Pfändungsfreigrenze (Tabelle, jährlich angepasst)
-- § 850d ZPO — privilegierte Unterhaltspfändung (geringerer Selbstbehalt)
-- § 850f ZPO — Erhöhung durch Gericht aus persönlichen Gründen
-- § 850i ZPO — Pfändung bei selbstständigem Einkommen
-- Paragraf 850k ZPO: Einrichtung und Beendigung des Pfändungsschutzkontos
-- Paragrafen 899, 902 bis 906 ZPO: Sockelbetrag, Erhöhungsbeträge, Nachweis und gerichtliche Festsetzung
-
-## Startet bei
-
-- Lohnpfändung in Vorbereitung (`pfueb-arbeitsentgelt`)
-- Kontopfändung mit P-Konto-Berechnung (`pfueb-bank` + § 850k ZPO)
-- Schuldnerseite verlangt Anpassung der Freibeträge (`abwehr-schuldner`)
-
-## Rechtsgrundlagen
-
-- § 850c ZPO – Pfändungsfreigrenze für Arbeitseinkommen
-- § 850d ZPO – Unterhaltsforderungen (privilegiert, geringerer Freibetrag, vom Gericht festgesetzt)
-- § 850f ZPO – Erhöhung durch Gericht aus persönlichen Gründen
-- Paragraf 850k sowie Paragrafen 899, 902 bis 906 ZPO: P-Konto, Grundbetrag, Erhöhungen und gerichtliche Festsetzung
-- Pfändungsfreigrenzenbekanntmachung 2026 vom 19. März 2026, BGBl. 2026 I Nr. 80, in Kraft vom 1. Juli 2026 bis 30. Juni 2027
-- Amtliche Quelle: https://www.gesetze-im-internet.de/pf_ndfreigrbek_2026/
-- Nächste Anpassung zum 1. Juli 2027 nach Paragraf 850c Absatz 4 ZPO
-
-## Gültigkeit der aktuellen Tabelle
-
-Die Bekanntmachung gilt vom 1. Juli 2026 bis 30. Juni 2027. Das Werkzeug warnt in den letzten dreißig Tagen und sperrt keine Berechnung, kennzeichnet nach Fristablauf aber jede Ausgabe unübersehbar als veraltet. Vor Verwendung in einem Antrag sind Tagesdatum und amtliche Tabelle abzugleichen.
-
-## Eckwerte (aus Tabelle, dezimal mit Punkt)
-
-Aktuelle Eckdaten (Tabelle 1. Juli 2026 bis 30. Juni 2027, BGBl. 2026 I Nr. 80):
-
-- Grundfreibetrag ohne Unterhaltspflichten: 1.587,40 Euro netto monatlich.
-- Erhöhung für die erste berücksichtigte Person: 597,42 Euro.
-- Erhöhung für jede weitere Person bis zur fünften: 332,83 Euro.
-- Vollpfändungsgrenze: 4.866,30 Euro; nur der Mehrbetrag ist vollständig pfändbar.
-- Für die Tabellenberechnung wird der Betrag bis zur Vollpfändungsgrenze nach Paragraf 850c Absatz 5 ZPO auf volle zehn Euro abgerundet; der Mehrbetrag über 4.866,30 Euro bleibt centgenau hinzuzurechnen.
-- P-Konto-Grundbetrag nach Paragraf 899 Absatz 1 ZPO: 1.590,00 Euro; Erhöhungen setzen die Tatbestände und Nachweise der Paragrafen 902 und 903 ZPO voraus.
-- Centbeträge folgen der amtlichen Tabelle; keine pauschale Abrundung des Endergebnisses.
-- Alle exakten Werte im `werkzeuge/pfaendungsrechner.py` (Single Source of Truth).
-
-Die Werte sind im Werkzeug zentral hinterlegt; dieses Dokument nennt sie zur Sichtkontrolle. Die amtliche Tabelle bleibt für den konkreten Antrag maßgeblich.
-
-## Workflow
-
-1. **Inputs einholen**: Nettoeinkommen, Anzahl unterhaltsberechtigter Personen, ggf. Sonderzuwendungen, Privileg § 850d ZPO ja/nein.
-2. **Python-Werkzeug aufrufen**: `python zwangsvollstreckung/werkzeuge/pfaendungsrechner.py --netto 2500 --unterhalt 1`.
-3. **Output**: Freibetrag, pfändbarer Betrag, Pfändungsstufen, Hinweise zu § 850a ZPO Sonderzuwendungen.
-4. Paragraf 850d ZPO: nur mit einem konkret begründeten oder gerichtlich festgesetzten Selbstbehalt rechnen, etwa `--privileg --selbstbehalt 1500`; das Werkzeug setzt keinen Pauschalwert ein.
-5. P-Konto: Grundbetrag nach Paragraf 899 ZPO und nachgewiesene Erhöhungen nach Paragrafen 902 und 903 ZPO getrennt ausgeben.
-6. **Antragstext** für den PfÜB ergänzen.
-
-## Privilegierte Unterhaltspfändung § 850d ZPO
-
-- Der notwendige Unterhalt wird vom Vollstreckungsgericht fallbezogen belassen. Die unterhaltsrechtlichen Selbstbehalte der Düsseldorfer Tabelle dürfen nicht ohne Begründung als Vollstreckungsfreibetrag übernommen werden.
-- Ohne konkreten Eingabewert verweigert das Werkzeug die privilegierte Berechnung.
-
-## P-Konto-Schutz § 850k ZPO – Erhöhungen
-
-Erhöhungen müssen durch Bescheinigung (Schuldnerberatung, anerkannter Berater, Arbeitgeber, Familienkasse, Sozialleistungsträger) belegt werden:
-
-- pro unterhaltsberechtigter Person
-- Kindergeld
-- einmalige Sozialleistungen
-- Nachzahlungen
-
-## Leitentscheidungen
-
-- Rechtsprechung live prüfen: Keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über amtliche oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-
-## Qualitätsgates
-
-- Keine abgelaufene Tabelle als aktuellen Rechtsstand verwenden.
-- Niemals Bruttobetrag in die Tabelle einsetzen.
-- Niemals § 850d ZPO ohne richterliche Festsetzung als feste Zahl ausgeben.
-- Bei selbstständigem Einkommen Berechnung § 850i ZPO statt § 850c ZPO.
-- Bei Sozialleistungen § 54 SGB I prüfen.
-
-> Quellenregel: Entscheidungen nur nach Prüfung einer amtlichen oder frei zugänglichen Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage ausgeben.
 
 ---
 
@@ -614,9 +285,230 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 
 ---
 
+## Skill: `elektronische-zustellung-eu`
+
+_Für Elektronische Zustellung in der Zwangsvollstreckung – ZVollstrDigitG: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Schnittstellenkarte mit Zuständigkeits- und Nachweisfragen._
+
+# Elektronische Zustellung in der Zwangsvollstreckung – ZVollstrDigitG
+
+## Arbeitsbereich
+
+Gläubiger oder Kreditinstitut fragt: Was ändert sich durch die Digitalisierung der Zwangsvollstreckung ab 2026/2027? Maßgeblich ist das Gesetz vom 20. Mai 2026, verkündet am 26. Mai 2026 im BGBl. 2026 I Nr. 152. Prüfraster: elektronischer PfÜB-Antrag nach Paragraf 829a ZPO n.F. ab 1.10.2026, XML-Datensatz nach Paragraf 829 Absatz 5 ZPO n.F. ab 1.1.2027, sicherer Übermittlungsweg für Kreditinstitute nach Paragraf 173 Absatz 2 Nummer 1 ZPO n.F. ab 1.6.2027 und Drittschuldnererklärung nach Paragraf 840 ZPO. Output: Umstellungs-Checkliste und aktualisierte Workflow-Anpassung. Abgrenzung zu `pfueb-bank` (PfÜB gegen Konto) und `titel-klausel-zustellung` (klassisch).
+
+## Arbeitsweg
+
+- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
+- Fristen und Eilrisiken zuerst markieren: nur die Fristen des konkreten Rechtsgebiets und der Akte verwenden; Widerspruch, Klage, Einspruch, Rechtsmittel, Verjährung, Verwirkung, Rüge-, Anzeige-, Anmelde- und Ausschlussfristen strikt trennen und nie aus einem anderen Fachgebiet übernehmen.
+- Tragende Normen verifizieren: §§ 704 ff. ZPO; § 802l Kontensuche, Vermögensauskunft, Räumung; § 800 ZPO Notar; § 201 InsO, ZVG, EU-Kontenpfändung VO 655; § 765a Härtefall, Schuldnerschutz — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
+- Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
+- Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
+
+## Triage zu Beginn
+
+1. Welches Datum ist für Antrag, Erlass und Zustellung maßgeblich: vor 1.10.2026, ab 1.10.2026, ab 1.1.2027 oder ab 1.6.2027?
+2. Soll eine Bank als Drittschuldner ab 1.6.2027 über einen sicheren Übermittlungsweg zugestellt bekommen?
+3. Hat die Kanzlei-Software die XML-Unterstützung nach Paragraf 829 Absatz 5 ZPO n.F. bereits implementiert?
+4. Ist die Zielbank bereits im eBO-Verzeichnis registriert?
+
+## Zentrale Normen
+
+- Paragraf 130a ZPO — elektronischer Rechtsverkehr (Schriftsätze)
+- Paragraf 130d ZPO — aktive Nutzungspflicht für Rechtsanwälte (beA, eBO)
+- Paragraf 173 ZPO n.F. — elektronische Zustellung an Drittschuldner
+- Paragraf 829 Absatz 5 ZPO n.F. — XML-Antrag Pfändungs- und Überweisungsbeschluss
+- Paragraf 840 ZPO — Drittschuldnererklärung
+- Paragraf 750 ZPO — Voraussetzungen der Vollstreckung (Zustellnachweis)
+
+## Reform-Eckdaten (Stand 27.6.2026)
+
+| Datum | Inhalt |
+| --- | --- |
+| 19.3.2026 | Bundestag beschließt das Gesetz; konsolidierter Nachweis über BT-Drs. 21/4816 |
+| 13.5.2026 | Verkündung im BGBl. 2026 I Nr. 152 |
+| 1.10.2026 | Inkrafttreten wesentlicher Hauptteile, darunter der elektronische PfÜB-Antrag nach Paragraf 829a ZPO n.F. |
+| 1.1.2027 | Strukturierter XML-Datensatz nach Paragraf 829 Absatz 5 ZPO n.F. kann zusammen mit dem PDF-Antrag genutzt werden; bei Widerspruch ist der XML-Datensatz maßgeblich |
+| 1.6.2027 | Kreditinstitute müssen einen sicheren elektronischen Übermittlungsweg eröffnen nach Paragraf 173 Absatz 2 Nummer 1 ZPO n.F. |
+
+Bei jeder neuen Beratung prüfen, ob seit BGBl. 2026 I Nr. 152 weitere Formular-, ZVFV- oder ERV-Anpassungen veröffentlicht wurden. Quellen:
+
+- BGBl. 2026 I Nr. 152
+- BT-Drs. 21/4816
+- BRAK-Newsletter Ausgabe 8/2026 vom 1.5.2026 ("Zwangsvollstreckung künftig mit weniger Medienbrüchen")
+- DGVB-Beitrag zum elektronischen Rechtsverkehr in der Vollstreckung
+
+## Rechtsgrundlagen
+
+- Paragraf 130a ZPO – elektronischer Rechtsverkehr Schriftsätze
+- Paragraf 130d ZPO – aktive Nutzungspflicht Rechtsanwalt/Behörde
+- Paragraf 173 ZPO n.F. – elektronische Zustellung an Drittschuldner
+- Paragraf 829 Absatz 5 ZPO n.F. – XML-Antrag PfÜB
+- Paragraf 840 ZPO – Aufforderung zur Drittschuldnererklärung und Rücklaufkontrolle
+- Paragraf 802a Absatz 2 ZPO – Gerichtsvollzieher-Aufträge
+- ERV-Verordnungen ERVV und ERVB
+
+## Die drei Stoßrichtungen der Reform
+
+### 1. Elektronischer Antrag und XML-Datensatz
+
+Ab 1.10.2026 ist die erleichterte elektronische Antragstellung nach Paragraf 829a ZPO n.F. zu prüfen. Ab 1.1.2027 kann der PfÜB-Antrag zusätzlich zum PDF-Antrag eine maschinenlesbare XML-Struktur nach Paragraf 829 Absatz 5 ZPO n.F. enthalten. Bei Diskrepanz gilt der XML-Datensatz. Wer Software einsetzt, sollte vor dem 1.1.2027 testen, ob die Kanzlei-Software den ZVFV-konformen XML-Anhang erzeugt.
+
+### 2. Pflicht der Kreditinstitute zum sicheren Übermittlungsweg
+
+Ab 1.6.2027 sind Kreditinstitute verpflichtet, einen sicheren elektronischen Übermittlungsweg im Sinne des Paragraf 130a Absatz 4 ZPO zu eröffnen (Paragraf 173 Absatz 2 Nummer 1 ZPO n.F.). In Frage kommen:
+
+- **eBO** (elektronisches Bürger- und Organisationenpostfach) – die Bank registriert sich beim Bundesnotarvereinszentral / SAFE-Verzeichnis.
+- **De-Mail** mit Absenderbestätigung
+- weitere Übermittlungswege nach Paragraf 130a Absatz 4 ZPO und ERVV
+
+Folge: Der Gerichtsvollzieher kann PfÜB an Banken regelmäßig elektronisch zustellen. Das ist schneller, planbarer und vermeidet den klassischen Streit um Zustellungszeitpunkt. Bis 1.6.2027 dürfen Banken freiwillig elektronisch annehmen; die konkrete Empfangsbereitschaft bleibt im Übergang zu prüfen.
+
+### 3. Drittschuldnererklärung nach Paragraf 840 ZPO – Aufforderung und Rücklauf
+
+Die Aufforderung zur Drittschuldnererklärung wird zusammen mit dem Pfändungsbeschluss übermittelt. Für die Praxis zählt nicht nur der elektronische Eingang beim Kreditinstitut, sondern auch ein eindeutiger Zustellungsnachweis, weil daran Frist, Moratorium, Auskehrung und Wiedervorlage hängen. Bis zur stabilen elektronischen Routine bleibt zu dokumentieren, ob Rücklauf elektronisch, postalisch oder über ein bankinternes Portal erfolgt.
+
+## Für die Praxis bis 1.6.2027
+
+1. **Soft Start ab 1.10.2026**: Elektronische Antragstellung nach Paragraf 829a ZPO n.F. vorbereiten.
+2. **XML ab 1.1.2027**: ZVFV-Schemata testen und PDF-/XML-Gleichlauf organisatorisch absichern.
+3. **Bestandsaufnahme Kanzlei-Software**: kann sie eBO senden? Erzeugt sie ZVFV-XML? Mit dem Software-Anbieter klären.
+4. **Bestandsaufnahme Banken**: Liste der Drittschuldner mit sicheren Übermittlungswegen pflegen.
+5. **Gerichtsvollzieherroute abstimmen**: Zustellungsweg und Zustellnachweis vor Fristmandaten konkret klären.
+6. **Doppelte Wege vermeiden**: nicht ohne Grund parallel Papier und eBO nutzen; wenn ein Parallelweg ausnahmsweise nötig ist, den führenden Zustellungsweg und den maßgeblichen Zustellungsnachweis ausdrücklich festlegen.
+
+## Was bleibt analog
+
+- Pfändung gegen Privatpersonen ohne eBO (Schuldnerzustellung) bleibt grundsätzlich Papier (außer Schuldner hat eBO).
+- Gerichtsvollzieher-Mobiliarvollstreckung bleibt Vor-Ort-Termin.
+- Zwangsversteigerung ZVG verfahrenstechnisch unverändert.
+
+## Häufige Fehlerquellen
+
+- Antrag in Papier eingereicht, obwohl § 130d ZPO aktive Nutzungspflicht der Anwaltschaft greift – Form fehlt, Antrag unzulässig.
+- XML und PDF widersprechen sich – Skill warnt: XML führt. Datenpflege im DMS einrichten.
+- Zustellung per beA statt eBO an Drittschuldner – Bank hat ggf. nur eBO eröffnet.
+- Übergangsphase: nicht jede Bank ist vor 1.6.2027 elektronisch erreichbar – im Zweifel beim GV-Bezirk anfragen.
+
+## Qualitätsgates
+
+- BGBl.-Fassung und spätere Formular-/Verordnungsänderungen bei jeder Beratung neu verifizieren.
+- Niemals unklar parallel Papier und elektronisch zustellen lassen – Zustellungszeitpunkt eindeutig halten.
+- XML-Schema-Versionen prüfen – ZVFV-Update nicht verpassen.
+- Niemals annehmen, jede Bank sei vor 1.6.2027 elektronisch erreichbar – im Übergang konkret beim GV nachfragen.
+- Bei Anwaltsmandat § 130d ZPO als aktive Nutzungspflicht stets beachten.
+
+> Quellenregel: Entscheidungen nur nach Prüfung einer amtlichen oder frei zugänglichen Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage ausgeben.
+
+---
+
+## Skill: `raeumung-tabellenauszug-inso`
+
+_Für Räumung Paragraf 885 ZPO / Berliner Räumung Paragraf 885a ZPO: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Schnittstellenkarte mit Zuständigkeits- und Nachweisfragen._
+
+# Räumung § 885 ZPO / Berliner Räumung § 885a ZPO
+
+## Arbeitsbereich
+
+Vermieter hat Räumungsurteil und will Wohnung oder Gewerberaum räumen lassen. § 885 ZPO Räumungsvollstreckung. Prüfraster: Räumungstitel Klausel Zustellung Mitbewohner Kinder Untermieter Drittwiderspruch § 771 Vollstreckungsschutz § 765a ZPO Berliner Modell § 885a ZPO beschraenkter Räumungsauftrag. Output: Räumungsauftrag an GV und Strategie-Memo. Abgrenzung zu abwehr-schuldner (Schuldnerseite) und mobiliar-gv-auftrag (Mobiliar). Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+
+## Arbeitsweg
+
+- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
+- Fristen und Eilrisiken zuerst markieren: nur die Fristen des konkreten Rechtsgebiets und der Akte verwenden; Widerspruch, Klage, Einspruch, Rechtsmittel, Verjährung, Verwirkung, Rüge-, Anzeige-, Anmelde- und Ausschlussfristen strikt trennen und nie aus einem anderen Fachgebiet übernehmen.
+- Tragende Normen verifizieren: §§ 704 ff. ZPO; § 802l Kontensuche, Vermögensauskunft, Räumung; § 800 ZPO Notar; § 201 InsO, ZVG, EU-Kontenpfändung VO 655; § 765a Härtefall, Schuldnerschutz — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
+- Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
+- Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
+
+## Startet bei
+
+- Räumungstitel (Urteil, gerichtlicher Vergleich) vorhanden
+- Schuldner verweigert freiwillige Herausgabe
+- Räumungsfrist § 721 ZPO abgelaufen
+
+## Rechtsgrundlagen
+
+- § 885 ZPO – klassische Räumung
+- § 885a ZPO – beschränkter Räumungsauftrag (Berliner Modell)
+- § 721 ZPO – Räumungsfrist im Urteil
+- § 794a ZPO – Räumungsfrist bei Vergleich
+- § 765a ZPO – Vollstreckungsschutz
+- § 771 ZPO – Drittwiderspruchsklage
+- § 750 Abs. 2 ZPO – Zustellung
+- § 750 Abs. 3 ZPO – nur an im Titel benannte Schuldner
+- § 562 BGB – Vermieterpfandrecht
+
+## Workflow
+
+1. **Drei-Säulen-Prüfung** plus Räumungsfrist abgelaufen.
+1. Rechtsprechung live prüfen: Keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über amtliche oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
+3. **Räumungsauftrag** an GV mit klarer Bezeichnung Räumungsobjekt (Adresse, Lage im Haus).
+4. **Räumungsart wählen**:
+ - **§ 885 ZPO klassisch**: GV räumt das Objekt, schuldnerische Habe wird entfernt, eingelagert, verwertet (umfangreiche Lager- und Vorschusskosten).
+ - Rechtsprechung live prüfen: Keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über amtliche oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
+5. **Termin** beim GV anberaumen; Vorschuss leisten; Eröffnungswerkzeug (Schlüsseldienst) bestellen.
+6. **Wohnungsöffnung**: Schloss durch Schlüsseldienst öffnen, neue Schließanlage installieren.
+7. **Schuldnerhabe**:
+ - § 885: einlagern (vier Wochen Aufbewahrungspflicht), dann verwerten.
+ - § 885a: Vermieterpfandrecht greift sofort; Gläubiger muss Schuldner aber Gelegenheit geben, Sachen abzuholen.
+8. **Vollstreckungsschutz** § 765a ZPO: Härtefall (Erkrankung, Suizidgefahr, Geburtshochphase) → einstweilige Einstellung möglich.
+
+## Berliner Räumung § 885a ZPO
+
+- Seit 2013 ausdrücklich gesetzlich geregelt.
+- Gläubiger ist Vermieter mit Pfandrecht § 562 BGB.
+- Auftrag explizit beschränkt: "nur Herausgabe der Räume, keine Wegschaffung der Sachen".
+- Reduziert Kosten erheblich; trotzdem GV-Auftrag erforderlich.
+- Verwertung des Pfandgutes über pfandweisen Verkauf, Versteigerung oder freihändig.
+
+## Mitbewohner und Dritte
+
+- Rechtsprechung live prüfen: Keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über amtliche oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
+- **Untermieter**: braucht eigenen Titel.
+- **Minderjährige Kinder**: durch Titel gegen sorgeberechtigten Elternteil erfasst.
+- Rechtsprechung live prüfen: Keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über amtliche oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
+
+## Leitentscheidungen
+
+- Rechtsprechung live prüfen: Keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über amtliche oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
+
+## Ausgabeformat
+
+```
+RÄUMUNG [Mandant] gegen [Schuldner], GV [Bezirk]
+
+Titel: [Räumungsurteil / Vergleich]
+Räumungsfrist: abgelaufen am DD.MM.JJJJ
+Objekt: [Adresse, Lage, Räume]
+Titel-Schuldner: [Personen aufzählen]
+Weitere Bewohner: [eigene Titel? ja/nein]
+Räumungsart: [§ 885 klassisch / § 885a Berlin]
+Pfandrecht § 562 BGB: [ja – Vermieter / nein]
+Erwartete Kosten: EUR x
+
+NÄCHSTER SCHRITT: Termin GV
+WIEDERVORLAGE: DD.MM.JJJJ
+```
+
+<!-- BEGIN ausformulierungspflicht (autogen) -->
+> **Ausformulierungspflicht und Formatstandard.** Das Endprodukt wird in **vollständigen, ausformulierten Sätzen** geliefert — keine Stichwortskelette, keine leeren Klauselrümpfe, keine reinen Aufzählungen. Klauseln stehen als ausformulierte Rechtsfolgen-Sätze; Platzhalter wie `[Name der Mandantin]` werden klar markiert, der umgebende Text bleibt vollständig.
+>
+> **Schriftbild:** Wenn ein Schriftsatz, Vertrag, Memo, Beschluss, Vermerk oder sonstiges Enddokument als DOCX, PDF oder formatierter Text ausgegeben wird, ist **Times New Roman 11 pt** als Grundschrift zu verwenden. Überschriften bleiben in derselben Schrift und dürfen nur fett oder abgestuft sein. Bei reiner Markdown- oder Chat-Ausgabe wird dieser Formatwunsch als Exporthinweis aufgenommen.
+>
+> **Nummerierung:** Gliederung ausschließlich dezimal (`1`, `1.1`, `1.1.1` und so weiter). Keine römischen Ziffern, keine Buchstaben- oder Mischgliederung.
+<!-- END ausformulierungspflicht (autogen) -->
+
+## Qualitätsgates
+
+- Niemals räumen gegen Personen, die nicht im Titel stehen.
+- Niemals § 885 klassisch wählen, wenn § 885a vermietertauglich und günstiger ist.
+- Niemals Härtefall ignorieren (§ 765a ZPO Antrag möglich).
+- Bei minderjährigen Kindern: Jugendamt-Beteiligung mitdenken.
+- Schlüsseldienst, Vorschuss, Versicherung der Habe sicherstellen.
+
+---
+
 ## Skill: `eu-kontenpfaendung-655-2014`
 
-_Wenn es um Europäische Kontenpfändung (EuKtPVO, VO (EU) 655/2014) in Zwangsvollstreckung geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik._
+_Für Europäische Kontenpfändung (EuKtPVO, VO (EU) 655/2014): ordnet Norm, Beweislast und Gegenargument; Ergebnis: Schnittstellenkarte mit Zuständigkeits- und Nachweisfragen._
 
 # Europäische Kontenpfändung (EuKtPVO, VO (EU) 655/2014)
 
@@ -770,9 +662,287 @@ Stand: 05/2026. VO (EU) 655/2014 in Kraft seit 18.1.2017. Durchführungsverordnu
 
 ---
 
+## Skill: `kontenpfaendung-notar-interessen-online`
+
+_Für Kontopfändung: Pfändungs- und Überweisungsbeschluss gegen Banken: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt._
+
+# Kontopfändung: Pfändungs- und Überweisungsbeschluss gegen Banken
+
+## Einsatzlage
+
+Nutze diesen Skill, wenn der Gläubiger ein Bankkonto des Schuldners pfänden will. Der Skill erzeugt eine prüffähige Antragsroute für den Pfändungs- und Überweisungsbeschluss, trennt Antrag an das Vollstreckungsgericht von Zustellung durch den Gerichtsvollzieher und berücksichtigt die Digitalstufen der Zwangsvollstreckung ab 2026 und 2027.
+
+## Kaltstart-Rückfragen
+
+1. Welcher Titel liegt vor, und sind Klausel, Zustellung, Sicherheitsleistung und Wartefrist erledigt?
+2. Welche Bank ist Drittschuldner: vollständige Firma, Anschrift, bekannte IBAN, Filiale, zentrale Pfändungsadresse?
+3. Welche Forderung wird gepfändet: Hauptforderung, Zinsen, Kosten, Vollstreckungskosten, laufende Ansprüche?
+4. Ist mit P-Konto, Sozialleistungen, Arbeitseinkommen, Insolvenzverfahren oder Vollstreckungsschutz zu rechnen?
+5. Soll die Zustellung besonders beschleunigt werden: Gerichtsvollzieher, elektronische Übermittlung, ab 1.6.2027 Bank mit sicherem Übermittlungsweg?
+
+## Normenanker
+
+| Thema | Anker | Arbeitsregel |
+| --- | --- | --- |
+| Titelvoraussetzungen | Paragraf 704, 724, 750 ZPO | Vor Antrag vollständig prüfen |
+| Forderungspfändung | Paragraf 829 ZPO | Pfändung entsteht mit Zustellung an den Drittschuldner |
+| Elektronischer Antrag | Paragraf 829a ZPO n.F. | Ab 1.10.2026 erleichterte elektronische Antragstellung mit elektronischen Kopien |
+| Strukturierter Antrag | Paragraf 829 Absatz 5 ZPO n.F. | Ab 1.1.2027 können PDF und strukturierter XML-Datensatz eingereicht werden; bei Widerspruch zählt XML |
+| Drittschuldnererklärung | Paragraf 840 ZPO | Bank zur Erklärung über Bestand, Rechte Dritter und Vorpfändungen auffordern |
+| Schuldnerschutz | Paragraf 850k ZPO | P-Konto und Freibeträge mitdenken, aber nicht im Pfändungsantrag lösen |
+| Elektronische Zustellung an Banken | Paragraf 173 Absatz 2 Nummer 1 ZPO n.F. | Kreditinstitute müssen ab 1.6.2027 einen sicheren Übermittlungsweg eröffnen |
+| Insolvenz | Paragraf 89 InsO | Nach Verfahrenseröffnung Einzelvollstreckung grundsätzlich sperren |
+
+## Workflow
+
+1. Vollstreckungsreife feststellen: Titel, Klausel, Zustellung, Sicherheitsleistung, Zustellungsurkunden und Forderungsaufstellung.
+2. Zuständiges Vollstreckungsgericht bestimmen: regelmäßig Amtsgericht am allgemeinen Gerichtsstand des Schuldners.
+3. Drittschuldner sauber bezeichnen: Kreditinstitut mit zutreffender juristischer Person; bei Unsicherheit zentrale Pfändungsadresse recherchieren.
+4. Forderungsaufstellung erstellen: Hauptforderung, Zinsen mit Zeitraum und Zinssatz, titulierte Kosten, bisherige Vollstreckungskosten, Gesamtbetrag.
+5. Antrag formulieren: Pfändung des Anspruchs auf Auszahlung und Gutschrift aus Kontoverbindung, Überweisung zur Einziehung, Zustellung an die Bank.
+6. Paragraf-840-Erklärung mit beantragen: Anerkennung, Zahlungsbereitschaft, entgegenstehende Rechte, Vorpfändungen, andere Gläubiger, P-Konto-Hinweise.
+7. Zustellung steuern: Gerichtsvollzieherzustellung an die Bank als Drittschuldner; Schuldnerzustellung nachgelagert dokumentieren.
+8. Digitalroute wählen:
+   - Bis 30.9.2026: bisherige elektronische Einreichung nach allgemeinen Regeln oder Papierweg.
+   - Ab 1.10.2026: Paragraf 829a ZPO n.F. für elektronische Kopien von Titel, Klausel und Zustellungsnachweis nutzen.
+   - Ab 1.1.2027: PDF-Antrag und, wenn verfügbar, strukturierten XML-Datensatz nach Paragraf 829 Absatz 5 ZPO n.F. konsistent halten.
+   - Ab 1.6.2027: Zustellung an Kreditinstitute regelmäßig über deren sicheren Übermittlungsweg vorbereiten.
+9. Nachlauf überwachen: Eingang der Drittschuldnererklärung, Zahlung der Bank, P-Konto-Freigaben, Rang, Vorpfändungen und Folgepfändung.
+
+## Digitalmatrix
+
+| Datum | Änderung | Auswirkung auf den Antrag |
+| --- | --- | --- |
+| 1.10.2026 | Elektronischer PfÜB-Antrag nach Paragraf 829a ZPO n.F. | Elektronische Kopien können genügen, wenn Identität und Forderungsfortbestand versichert werden |
+| 1.1.2027 | Strukturierter Datensatz nach Paragraf 829 Absatz 5 ZPO n.F. | PDF und XML müssen inhaltlich gleich laufen; XML entscheidet bei Abweichung |
+| 1.6.2027 | Kreditinstitute mit sicherem Übermittlungsweg nach Paragraf 173 Absatz 2 Nummer 1 ZPO n.F. | Gerichtsvollzieher kann die Bankzustellung digital abwickeln; Zustellnachweis eng kontrollieren |
+
+## Antragsskelett
+
+```text
+An das Amtsgericht [Ort] als Vollstreckungsgericht
+
+In der Zwangsvollstreckung
+[Gläubiger] gegen [Schuldner]
+aus [Titel, Gericht/Notar, Datum, Aktenzeichen]
+
+beantragen wir den Erlass eines Pfändungs- und Überweisungsbeschlusses.
+
+Drittschuldner:
+[Kreditinstitut, vollständige Firma, Anschrift, bekannte IBAN/Kontonummer]
+
+Gepfändet werden die Ansprüche des Schuldners gegen den Drittschuldner aus der Kontoverbindung, insbesondere auf Auszahlung, Überweisung, Gutschrift, Rechnungsabschluss und Herausgabe pfändbarer Guthaben.
+
+Die gepfändeten Ansprüche werden dem Gläubiger zur Einziehung überwiesen.
+
+Der Drittschuldner wird aufgefordert, die Erklärung nach Paragraf 840 ZPO abzugeben.
+
+Anlagen:
+- Vollstreckbarer Titel
+- Klausel
+- Zustellungsnachweis
+- Forderungsaufstellung
+- Nachweise zu Kosten und Zinsen
+```
+
+## Fehlerquellen
+
+| Fehler | Folge | Reparatur |
+| --- | --- | --- |
+| Falsche Bankgesellschaft | Zustellung läuft ins Leere | Juristische Person und zentrale Pfändungsadresse prüfen |
+| Zinsen unklar | Kürzung oder Rückfrage | Zeitraum, Zinssatz und Berechnungsgrundlage tabellarisch ausweisen |
+| P-Konto ignoriert | Zahlung geringer als erwartet | Freibeträge einplanen, aber Antrag nicht unnötig beschränken |
+| XML weicht ab 2027 vom PDF ab | Strukturdaten können maßgeblich sein | Daten vor Einreichung abgleichen |
+| Insolvenz eröffnet | Einzelvollstreckung unzulässig | Insolvenzbekanntmachungen prüfen und Forderungsanmeldung erwägen |
+
+## Qualitätsgates
+
+- Pfändung entsteht erst mit wirksamer Zustellung an die Bank als Drittschuldner; Eingangsbestätigung des Gerichts genügt nicht.
+- Paragraf-840-Erklärung immer mitziehen und Nachfrist setzen, wenn die Bank nicht reagiert.
+- Ab 1.1.2027 PDF und XML nicht getrennt pflegen; jede Betragsänderung muss in beiden Fassungen identisch sein.
+- Ab 1.6.2027 elektronische Bankzustellung nicht nur behaupten, sondern Zustellnachweis und Übermittlungsweg dokumentieren.
+
+---
+
+## Skill: `spezial-vermoegensauskunft-zahlen-schwellen-und-berechnung`
+
+_Für Vermögensauskunft: Zahlen, Schwellenwerte und Berechnung: rechnet Beträge, Schwellen und Varianten; Ergebnis: Berechnungstabelle mit Annahmen und Kontrollfragen._
+
+# Vermoegensauskunft: Zahlen, Schwellenwerte und Berechnung
+
+## Aufgabe
+Dieser Skill ist ein konkreter Fachbaustein für `zwangsvollstreckung`. Ausgangspunkt ist: Plugin Zwangsvollstreckung §§ 704 ff. ZPO: Mahn-/Vollstreckungsbescheid, PfÜB Bank/Arbeit, § 802l Kontensuche, Vermögensauskunft, Räumung, § 800 ZPO Notar, § 201 InsO, ZVG, EU-Kontenpfändung VO 655/2014, § 765a Härtefall, Schuldnerschutz.
+
+Er führt durch **Zahlen, Schwellenwerte und Berechnung** im Themenfeld **Vermoegensauskunft**. Ziel ist nicht ein abstrakter Lexikontext, sondern ein belastbares Arbeitsprodukt für die nächste anwaltliche, behördliche, gerichtliche, organisatorische oder mandantenbezogene Entscheidung.
+
+
+## Fachlicher Zuschnitt
+
+- **Thema:** Vermoegensauskunft.
+- **Arbeitsfokus:** Zahlen, Schwellenwerte und Berechnung.
+- **Plugin-Rahmen:** Plugin Zwangsvollstreckung §§ 704 ff. ZPO: Mahn-/Vollstreckungsbescheid, PfÜB Bank/Arbeit, § 802l Kontensuche, Vermögensauskunft, Räumung, § 800 ZPO Not....
+- **Qualitätsanspruch:** Antworte nicht mit einer austauschbaren Standard-Checkliste. Nutze die Fachlogik dieses Plugins, benenne die konkret einschlägigen Normgruppen, Behörden, Register, Fristen, Dokumente oder Verfahrenshandlungen und trenne sichere Punkte von Live-Check-Bedarf.
+- **Eloquenz und Nutzen:** Führe die Nutzerin oder den Nutzer wie eine erfahrene Fachperson: kurze Orientierung, präzise Rückfragen, dann ein verwertbares Produkt mit Varianten, Gegenargumenten und nächstem Handgriff.
+
+## Kaltstart
+Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur Rückfragen, die die nächste Weiche verändern:
+
+1. Welche Rolle hat die fragende Person und wer ist Gegenüber?
+2. Welches konkrete Ziel soll erreicht oder verhindert werden?
+3. Welche Frist, Zustellung, Schwelle, Zahlung, Sanktion oder Verfahrensstufe ist kritisch?
+4. Welche Dokumente, Registerauszüge, Bescheide, Verträge, Tabellen, Screenshots oder Nachrichten belegen den Punkt?
+5. Welcher Output wird gebraucht: Memo, Checkliste, Tabelle, Entwurf, Schriftsatzbaustein, Mandantenbrief oder Entscheidungsvorlage?
+
+## Arbeitsworkflow
+1. **Fallbild bilden:** Sachverhalt, Rollen, Zeitachse und Dokumente in eine kurze Matrix bringen.
+2. **Rechtsrahmen setzen:** Normen, Zuständigkeiten, Fristen, Formfragen und Verfahrensstand zum Themenfeld **Vermoegensauskunft** prüfen.
+3. **Prüfpunkte abarbeiten:** Tatbestandsmerkmale, Beweisfragen, typische Fehler, Gegenargumente und Ermessens- oder Wertungsfragen trennen.
+4. **Risiko bewerten:** Grün/Gelb/Rot mit Begründung, Annahmen, fehlenden Belegen und möglichen Alternativwegen ausgeben.
+5. **Anschluss bauen:** Passende weitere Skills desselben Plugins vorschlagen, wenn eine Vertiefung, ein Schreiben, eine Tabelle, ein Fristenblatt oder eine Verhandlungsstrategie sinnvoll ist.
+
+## Materielle Weichen Vermögensauskunft (§ 802c ZPO)
+- **Rechtsgrundlage:** § 802c ZPO i.V.m. §§ 802a, 802d ZPO. Pflicht des Schuldners zur Abgabe einer Vermögensauskunft im Vermögensverzeichnis vor dem Gerichtsvollzieher (früher: eidesstattliche Versicherung).
+- **Voraussetzung:** Gläubiger benötigt vollstreckbaren Titel; keine eigenständige Schwelle (anders als früher 500-Euro-Grenze).
+- **Verfahren:** Gerichtsvollzieher fordert Schuldner zur Abgabe; Schuldner muss persönlich erscheinen, alle Vermögensgegenstände, Forderungen, Beschäftigungsverhältnisse und Zahlungen der letzten zwei Jahre offenlegen.
+- **Verzeichnis-Inhalt (§ 802c Abs. 2 ZPO):** Forderungen aus Lohn, Bankguthaben, Wertpapiere, Lebensversicherungen, Grundstücke, Sicherungseigentum, GmbH-Anteile, Fahrzeuge, Wertsachen, Schenkungen letzte 4 Jahre (an nahestehende Personen), übertragenes Vermögen.
+- **Eintragung im Schuldnerverzeichnis (§ 882b ZPO):** Bei Nichtabgabe oder erfolgloser Vollstreckung Eintragung von Amts wegen ins Schuldnerverzeichnis - online abrufbar (für Gläubiger gegen Gebühr). Dauer: drei Jahre nach Eintragung.
+- **Haftbefehl (§ 802g ZPO):** Bei unentschuldigter Nichtabgabe Erzwingungshaft bis sechs Monate. Beantragung beim Gerichtsvollzieher; Haftbefehl wird durch Amtsgericht erlassen.
+- **Wiederholung (§ 802d Abs. 1 ZPO):** Erneute Vermögensauskunft erst nach Ablauf von 2 Jahren erforderlich; Ausnahme bei plausibler Begründung erheblicher Änderungen (§ 802d Abs. 1 S. 2 ZPO).
+- **Schutzschriften / Korrekturen:** Schuldner kann unrichtige Angaben durch Berichtigung korrigieren (§ 802c Abs. 3 ZPO); falsche Angaben sind als Straftat (§ 156 StGB - falsche Versicherung an Eides statt) strafbar.
+- **Praktiker-Tipp:** Vor Antrag: § 802l ZPO Kontensuche bei Bundeszentralamt für Steuern parallel beauftragen. Vermögensauskunft schafft die Voraussetzung für gezielte PfÜBs.
+
+## Output-Standard
+- **Kurzlage:** maximal fünf Sätze zu Ziel, Lage, Frist, Risiko und nächstem Schritt.
+- **Prüfmatrix:** Punkt, Norm/Quelle, Tatsache, Beleg, Bewertung, To-do.
+- **Arbeitsprodukt:** direkt nutzbarer Entwurf oder Baustein in der passenden Tonalität.
+- **Qualitätsgate:** keine Scheingenauigkeit; Lücken, Annahmen und Live-Check-Bedarf ausdrücklich markieren.
+
+<!-- BEGIN ausformulierungspflicht (autogen) -->
+> **Ausformulierungspflicht und Formatstandard.** Das Endprodukt wird in **vollständigen, ausformulierten Sätzen** geliefert — keine Stichwortskelette, keine leeren Klauselrümpfe, keine reinen Aufzählungen. Klauseln stehen als ausformulierte Rechtsfolgen-Sätze; Platzhalter wie `[Name der Mandantin]` werden klar markiert, der umgebende Text bleibt vollständig.
+>
+> **Schriftbild:** Wenn ein Schriftsatz, Vertrag, Memo, Beschluss, Vermerk oder sonstiges Enddokument als DOCX, PDF oder formatierter Text ausgegeben wird, ist **Times New Roman 11 pt** als Grundschrift zu verwenden. Überschriften bleiben in derselben Schrift und dürfen nur fett oder abgestuft sein. Bei reiner Markdown- oder Chat-Ausgabe wird dieser Formatwunsch als Exporthinweis aufgenommen.
+>
+> **Nummerierung:** Gliederung ausschließlich dezimal (`1`, `1.1`, `1.1.1` und so weiter). Keine römischen Ziffern, keine Buchstaben- oder Mischgliederung.
+<!-- END ausformulierungspflicht (autogen) -->
+
+## Quellenregel
+- Aktuelle Normen, Behördenhinweise, Gerichtsseiten, Register, Formulare und EU-/Landesrecht live prüfen, wenn sie für das Ergebnis tragend sind.
+- Rechtsprechung nur mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle ausgeben.
+- Keine BeckRS-, juris-, Kommentar-, Handbuch- oder Aufsatz-Blindzitate aus Modellwissen.
+- Paywall-Literatur nur verwerten, wenn sie von der Nutzerin oder dem Nutzer als Text bereitgestellt wurde; dann nicht als frei verifizierte Quelle ausgeben.
+
+---
+
+## Skill: `inso-internationaler-bezug-und-schnittstellen`
+
+_Für InsO: Internationaler Bezug und Schnittstellen: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Schnittstellenkarte mit Zuständigkeits- und Nachweisfragen._
+
+# InsO: Internationaler Bezug und Schnittstellen
+
+## Arbeitsweg
+
+- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
+- Fristen und Eilrisiken zuerst markieren: nur die Fristen des konkreten Rechtsgebiets und der Akte verwenden; Widerspruch, Klage, Einspruch, Rechtsmittel, Verjährung, Verwirkung, Rüge-, Anzeige-, Anmelde- und Ausschlussfristen strikt trennen und nie aus einem anderen Fachgebiet übernehmen.
+- Tragende Normen verifizieren: §§ 704 ff. ZPO; § 802l Kontensuche, Vermögensauskunft, Räumung; § 800 ZPO Notar; § 201 InsO, ZVG, EU-Kontenpfändung VO 655; § 765a Härtefall, Schuldnerschutz — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
+- Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
+- Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
+
+## Spezialwissen: InsO: Internationaler Bezug und Schnittstellen
+- **Normen-/Quellenanker:** InsO, ZPO, ZVG, EU, VO.
+
+## Fallweichen
+Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur Rückfragen, die die nächste Weiche verändern:
+
+1. Welche Rolle hat die fragende Person und wer ist Gegenüber?
+2. Welches konkrete Ziel soll erreicht oder verhindert werden?
+3. Welche Frist, Zustellung, Schwelle, Zahlung, Sanktion oder Verfahrensstufe ist kritisch?
+4. Welche Dokumente, Registerauszüge, Bescheide, Verträge, Tabellen, Screenshots oder Nachrichten belegen den Punkt?
+5. Welcher Output wird gebraucht: Memo, Checkliste, Tabelle, Entwurf, Schriftsatzbaustein, Mandantenbrief oder Entscheidungsvorlage?
+
+## Arbeitsworkflow
+1. **Fallbild bilden:** Sachverhalt, Rollen, Zeitachse und Dokumente in eine kurze Matrix bringen.
+2. **Rechtsrahmen setzen:** Normen, Zuständigkeiten, Fristen, Formfragen und Verfahrensstand zum Themenfeld **InsO** prüfen.
+3. **Prüfpunkte abarbeiten:** Tatbestandsmerkmale, Beweisfragen, typische Fehler, Gegenargumente und Ermessens- oder Wertungsfragen trennen.
+4. **Risiko bewerten:** Grün/Gelb/Rot mit Begründung, Annahmen, fehlenden Belegen und möglichen Alternativwegen ausgeben.
+5. **Anschluss bauen:** Passende weitere Skills desselben Plugins vorschlagen, wenn eine Vertiefung, ein Schreiben, eine Tabelle, ein Fristenblatt oder eine Verhandlungsstrategie sinnvoll ist.
+
+---
+
+## Skill: `workflow-kaltstart-und-routing`
+
+_Für Kaltstart und Routing: routet Rolle, Frist, Unterlagen und Fachschritt; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt. Fachgebiet: Zwangsvollstreckung._
+
+# Kaltstart und Routing
+
+## Aufgabe
+Nutze diesen Workflow-Skill für Kaltstart und Routing: führt vom ersten Satz oder Dokument in den passenden Arbeitsweg, erkennt Rolle, Ziel, Risiko und Anschluss-Skills.
+
+## Kaltstart
+Wenn Material vorliegt, arbeite zuerst mit dem Material. Stelle nur Rückfragen, die für die nächste Weiche nötig sind:
+
+1. Wer fragt in welcher Rolle?
+2. Was ist das gewünschte Ergebnis?
+3. Gibt es Fristen, Termine, Zustellungen, Zahlungen oder Sanktionen?
+4. Welche Unterlagen, Daten oder Belege liegen bereits vor?
+
+## Arbeitsworkflow
+1. Rolle, Ziel, Frist und Unterlagenlage in höchstens fünf Fragen klären.
+2. Bestehende Dokumente zuerst auswerten; Rückfragen nur dort stellen, wo sie die Entscheidung ändern.
+3. Passende Spezialskills aus diesem Plugin vorschlagen und begründen.
+4. Ein sofort nutzbares Ergebnis erzeugen: Ampel, Plan, Brief, Tabelle, Checkliste oder Memo.
+
+## Output-Standard
+- Kurzbild: worum es geht, was gesichert ist, was offen ist.
+- Prüf- oder Bearbeitungsmatrix mit den entscheidenden Punkten.
+- Konkreter nächster Schritt mit Frist, Zuständigkeit und Unterlagen.
+- Bei Außenkommunikation: knapper, sachlicher Textbaustein ohne unnötige Nebenangaben.
+
+## Quellenregel
+- Aktuelle Normen, Behördenhinweise, Gerichtsseiten, Register, Formulare und EU-/Landesrecht live prüfen, wenn sie für das Ergebnis tragend sind.
+- Rechtsprechung nur mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle ausgeben.
+- Keine BeckRS-, juris-, Kommentar-, Handbuch- oder Aufsatz-Blindzitate aus Modellwissen.
+- Unsicherheiten und Annahmen ausdrücklich markieren.
+
+---
+
+## Skill: `haertefall-mandantenkommunikation-entscheidungsvorlage`
+
+_Für Härtefall: Mandantenkommunikation und Entscheidungsvorlage: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Mandantennachricht oder Entscheidungsvorlage._
+
+# Haertefall: Mandantenkommunikation und Entscheidungsvorlage
+
+## Arbeitsweg
+
+- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
+- Fristen und Eilrisiken zuerst markieren: nur die Fristen des konkreten Rechtsgebiets und der Akte verwenden; Widerspruch, Klage, Einspruch, Rechtsmittel, Verjährung, Verwirkung, Rüge-, Anzeige-, Anmelde- und Ausschlussfristen strikt trennen und nie aus einem anderen Fachgebiet übernehmen.
+- Tragende Normen verifizieren: §§ 704 ff. ZPO; § 802l Kontensuche, Vermögensauskunft, Räumung; § 800 ZPO Notar; § 201 InsO, ZVG, EU-Kontenpfändung VO 655; § 765a Härtefall, Schuldnerschutz — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
+- Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
+- Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
+
+## Spezialwissen: Haertefall: Mandantenkommunikation und Entscheidungsvorlage
+- **Normen-/Quellenanker:** ZPO, InsO, ZVG, EU, VO.
+
+## Fallweichen
+Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur Rückfragen, die die nächste Weiche verändern:
+
+1. Welche Rolle hat die fragende Person und wer ist Gegenüber?
+2. Welches konkrete Ziel soll erreicht oder verhindert werden?
+3. Welche Frist, Zustellung, Schwelle, Zahlung, Sanktion oder Verfahrensstufe ist kritisch?
+4. Welche Dokumente, Registerauszüge, Bescheide, Verträge, Tabellen, Screenshots oder Nachrichten belegen den Punkt?
+5. Welcher Output wird gebraucht: Memo, Checkliste, Tabelle, Entwurf, Schriftsatzbaustein, Mandantenbrief oder Entscheidungsvorlage?
+
+## Arbeitsworkflow
+1. **Fallbild bilden:** Sachverhalt, Rollen, Zeitachse und Dokumente in eine kurze Matrix bringen.
+2. **Rechtsrahmen setzen:** Normen, Zuständigkeiten, Fristen, Formfragen und Verfahrensstand zum Themenfeld **Haertefall** prüfen.
+3. **Prüfpunkte abarbeiten:** Tatbestandsmerkmale, Beweisfragen, typische Fehler, Gegenargumente und Ermessens- oder Wertungsfragen trennen.
+4. **Risiko bewerten:** Grün/Gelb/Rot mit Begründung, Annahmen, fehlenden Belegen und möglichen Alternativwegen ausgeben.
+5. **Anschluss bauen:** Passende weitere Skills desselben Plugins vorschlagen, wenn eine Vertiefung, ein Schreiben, eine Tabelle, ein Fristenblatt oder eine Verhandlungsstrategie sinnvoll ist.
+
+---
+
 ## Skill: `zvg-antrag-glaeubiger`
 
-_Wenn es um ZVG-Antrag (Zwangsversteigerung / Zwangsverwaltung) in Zwangsvollstreckung geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik._
+_Für ZVG-Antrag (Zwangsversteigerung / Zwangsverwaltung): erstellt Entwurf mit Antrag, Beweis und Anlagen; Ergebnis: Schriftsatz mit Begründungs- und Anlagenlogik._
 
 # ZVG-Antrag (Zwangsversteigerung / Zwangsverwaltung)
 
@@ -872,207 +1042,11 @@ WIEDERVORLAGE: DD.MM.JJJJ
 
 ---
 
-## Skill: `vollstreckungsschutz-haertefall-765a`
+## Skill: `schuldnerschutz-beweislast-und-darlegungslast`
 
-_Wenn es um Vollstreckungsschutz Paragraf 765a ZPO — Härtefall in Zwangsvollstreckung geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik._
+_Für Schuldnerschutz: Beweislast, Darlegungslast und Substantiierung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Beweislast- und Substantiierungsmatrix._
 
-# Vollstreckungsschutz § 765a ZPO — Härtefall
-
-## Arbeitsweg
-
-- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
-- Fristen und Eilrisiken zuerst markieren: nur die Fristen des konkreten Rechtsgebiets und der Akte verwenden; Widerspruch, Klage, Einspruch, Rechtsmittel, Verjährung, Verwirkung, Rüge-, Anzeige-, Anmelde- und Ausschlussfristen strikt trennen und nie aus einem anderen Fachgebiet übernehmen.
-- Tragende Normen verifizieren: §§ 704 ff. ZPO; § 802l Kontensuche, Vermögensauskunft, Räumung; § 800 ZPO Notar; § 201 InsO, ZVG, EU-Kontenpfändung VO 655; § 765a Härtefall, Schuldnerschutz — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
-- Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
-- Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
-
-## Aufgabe
-
-Antrag des **Schuldners** auf einstweilige Einstellung, Beschränkung oder Aufhebung einer Vollstreckungsmaßnahme, wenn diese eine **mit guten Sitten nicht vereinbare Härte** darstellen würde. Die Vorschrift ist die zentrale Auffangnorm für Härtefälle, in denen die Standard-Schutzmechanismen (P-Konto § 850k ZPO, Pfändungsfreigrenzen § 850c ZPO) nicht ausreichen.
-
-> ⚠️ **Hohe Hürde**: § 765a ZPO ist **eng auszulegen** — nicht jede wirtschaftliche oder soziale Belastung reicht. Erforderlich ist eine Härte, die der **gesamten Rechtsordnung** widerspricht (BGH-Linie). Typisch: existenzielle Gefahr für Leben, Gesundheit, menschenwürdiges Dasein.
-
-## Startet bei
-
-- Vollstreckungsmaßnahme angekündigt oder läuft
-- Schuldner in schwerwiegender persönlicher Situation (Krankheit, drohender Suizid, Schwangerschaft / Geburt, Tod naher Angehöriger, drohende Obdachlosigkeit)
-- Standard-Schutzmechanismen reichen nicht (Pfändungsfreigrenze, P-Konto unzureichend)
-- Klassische Vollstreckungserinnerung § 766 ZPO greift nicht (Verfahrensfehler nicht ersichtlich)
-- Vollstreckungsabwehrklage § 767 ZPO bietet keine schnelle Hilfe
-
-## Rechtsgrundlagen
-
-- **§ 765a Abs. 1 ZPO** — "Auf Antrag des Schuldners kann das Vollstreckungsgericht die Vollstreckung einstweilen einstellen, beschränken oder aufheben, wenn die Maßnahme unter voller Würdigung der Schutzbedürfnisse des Gläubigers wegen ganz besonderer Umstände eine Härte bedeutete, die mit den guten Sitten nicht vereinbar ist."
-- **§ 765a Abs. 2 ZPO** — Anhörung der Beteiligten (Gläubiger).
-- **§ 765a Abs. 3 ZPO** — Bei Räumungsvollstreckung gegen Wohnraum: Pflicht-Anhörung des zuständigen Trägers Sozialhilfe und ggf. weiterer Personen (insb. Suizidgefahr).
-- **Art. 1, 2 GG** — Menschenwürde, Recht auf Leben und körperliche Unversehrtheit; verfassungsrechtlicher Maßstab.
-- **§§ 766, 767, 769 ZPO** — abgrenzende Schutzwege (Erinnerung, Abwehrklage, einstweilige Einstellung bei Klage).
-- **§ 850k ZPO** — P-Konto-Schutz als vorgelagerter Standard-Schutz.
-
-## Typische Konstellationen
-
-### Konstellation A — Suizidgefahr
-
-- **Glaubhaftmachung**: substantielle, nicht nur behauptete Suizidgefahr.
-- **Maßnahme**: regelmäßig einstweilige Einstellung mit Wiedervorlage; Verlängerung möglich.
-- Rechtsprechung live prüfen: Keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über amtliche oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-
-### Konstellation B — Schwere Krankheit / Pflege
-
-- Schwere chronische Erkrankung Schuldner oder Familienangehöriger
-- Krankenhausaufenthalt zum Vollstreckungstermin
-- Substantiierung mit Attest, ggf. ärztlichem Verlauf
-
-### Konstellation C — Schwangerschaft / Geburt
-
-- Hochschwangerschaft (typisch ab 7. Monat)
-- Kürzlich entbunden / Wochenbett-Frist
-- Maßnahme: zeitlich begrenzte Einstellung
-
-### Konstellation D — Räumungsschutz Wohnraum (§ 765a Abs. 3 ZPO)
-
-- Drohende Obdachlosigkeit
-- Suizidgefahr im Wohnsitz
-- Mitbewohner mit besonderen Schutzbedürfnissen (Säugling, Schwerstkranker)
-- **Pflichtanhörung Sozialamt** durch das Gericht
-- Abgrenzung zu **§ 721 ZPO** (Räumungsfrist im Urteil) und **§ 794a ZPO** (Räumungsfrist im Vergleich)
-
-### Konstellation E — Tod / Trauerfall
-
-- Tod naher Angehöriger kürzlich
-- Beerdigung in unmittelbarer Nähe Vollstreckungstermin
-- Maßnahme: kurzfristige Einstellung
-
-### Konstellation F — Existenzielle Bedrohung Lebensgrundlage
-
-- Werkzeug / Berufsbasis betroffen (Abgrenzung zu § 811 ZPO unpfändbar)
-- Verlust der einzigen Arbeitsstelle / Ausbildungsmittel
-- Substantiierung mit konkreten Folgen
-
-## Antragsverfahren
-
-### Schritt 1 — Eilbedürftigkeit
-
-- Vollstreckungstermin nahe oder läuft?
-- Antrag **vor** Vollstreckung, idealerweise mehrere Tage davor
-- Bei laufender Maßnahme: sofortige Eilanträge nach § 769 ZPO parallel
-
-### Schritt 2 — Zuständiges Gericht
-
-- **Vollstreckungsgericht** (§ 764 ZPO) — typisch Amtsgericht am Ort der Maßnahme
-- Bei Räumung: AG am Lage-Ort des Grundstücks
-- Bei Forderungspfändung: AG am Wohnsitz Schuldner
-
-### Schritt 3 — Antragsinhalt
-
-- **Konkrete Maßnahme** bezeichnen (Termin, Ort, Vollstreckungsgegenstand)
-- **Härtegrund** substantiiert darlegen
-- **Glaubhaftmachung** (§ 294 ZPO) — eidesstattliche Versicherung + Belege (Atteste, Sozialamt-Bescheinigungen)
-- **Antrag** auf einstweilige Einstellung / Beschränkung / Aufhebung
-- **Befristung** akzeptieren (typisch 3–6 Monate)
-
-### Schritt 4 — Gläubiger-Anhörung
-
-- Gericht hört Gläubiger
-- Gläubiger kann widersprechen; bei nicht ausreichender Härte Ablehnung möglich
-
-### Schritt 5 — Beschluss
-
-- Mit Auflage / Befristung möglich
-- Verlängerung auf neuen Antrag möglich
-- Rechtsbehelf: **sofortige Beschwerde** § 793 ZPO (zwei Wochen, LG)
-
-## Schreibvorlage — Antrag § 765a ZPO (verkürzt)
-
-```
-[Anwaltskanzlei] [Datum]
-
-An das Amtsgericht [Ort]
-— Vollstreckungsgericht —
-[Anschrift]
-
-In der Zwangsvollstreckungssache
-[Glaeubiger] ./. [Schuldner]
-Az.: [Az. AG / Vollstreckungsauftrag]
-
-Antrag des Schuldners gemaess § 765a ZPO auf
-einstweilige Einstellung der Zwangsvollstreckung
-mit Eilbeduerftigkeit
-
-Sehr geehrte Damen und Herren,
-
-namens und in Vollmacht des Schuldners beantrage ich,
-
-die mit Beschluss / Pfaendungs- und Ueberweisungsbeschluss / Auftrag
-des Gerichtsvollziehers vom [Datum] eingeleitete Zwangsvollstreckung
-gegen den Schuldner [bis zum / einstweilen bis zur Entscheidung
-ueber den Antrag] einstweilen einzustellen.
-
-Begruendung
-
-I. Sachverhalt
-[Konkrete Vollstreckungsmaßnahme — Termin, Ort, Gegenstand]
-
-II. Haertegrund nach § 765a Abs. 1 ZPO
-[Substantiierte Darstellung — Krankheit / Suizidgefahr / Schwanger-
-schaft / Obdachlosigkeit / Trauerfall; mit Atest- / Belegverweis]
-
-III. Glaubhaftmachung (§ 294 ZPO)
-- Aerztliches Attest vom [Datum], Anlage A1
-- Eidesstattliche Versicherung des Schuldners, Anlage A2
-- [ggf. Sozialamt-Bescheinigung, Krankenhaus-Bestaetigung etc.]
-
-IV. Beruecksichtigung der Glaeubigerinteressen
-[Abwaegung — Gewicht der Glaeubigerforderung vs. Schwere der
-Schuldner-Haerte; Hinweis auf Befristung der Einstellung]
-
-V. Antrag
-1. Die Vollstreckung wird einstweilen [bis zum [Datum] / bis auf
- weiteres mit Wiedervorlage in [X] Monaten] eingestellt.
-2. Hilfsweise: Die Vollstreckung wird auf [konkrete Maßnahme]
- beschraenkt.
-
-Es wird um eilige Entscheidung gebeten; die Vollstreckung droht am
-[Datum].
-
-Mit freundlichen Gruessen
-[Unterschrift]
-Rechtsanwalt/-anwaeltin
-```
-
-## Risiken und Red Flags
-
-| Konstellation | Rot | Orange | Grün |
-|---|---|---|---|
-| Pauschale Härtebehauptung | Ablehnung absehbar | Substantiierung fehlt | Konkrete Belege beigefügt |
-| Suizidgefahr behauptet ohne Attest | Ablehnung; Vollstreckung läuft | Attest in Vorbereitung | Fachärztliches Gutachten beigebracht |
-| Antrag während laufender Maßnahme | Schaden tritt ein | Eilbedürftigkeit substantiieren | Antrag vor Termin |
-| Gläubiger-Interesse > Schuldner-Härte | Ablehnung wahrscheinlich | knappe Abwägung | klar überwiegende Schuldner-Härte |
-| Räumung Wohnraum ohne Sozialamt | § 765a Abs. 3 ZPO-Verfahrensfehler | Vorbereitung läuft | Pflicht-Anhörung dokumentiert |
-
-## Abgrenzung zu anderen Schutzwegen
-
-| Norm | Wirkung | Wann statt § 765a? |
-|---|---|---|
-| § 766 ZPO Erinnerung | Verfahrensfehler des GV / Vollstreckungsgerichts | Wenn Maßnahme rechtswidrig (nicht nur hart) |
-| § 767 ZPO Vollstreckungsabwehrklage | Materielle Einwendungen gegen den Anspruch | Wenn Anspruch erloschen / nicht durchsetzbar |
-| § 769 ZPO einstweilige Einstellung bei Klage | Während Abwehrklage | Wenn Klage nach § 767 anhängig |
-| § 712 ZPO Schutzantrag im Urteilsverfahren | Vor Rechtskraft | Vor Vollstreckbarkeit |
-| § 850k ZPO P-Konto | Pfändungsschutz Bankkonto | Standard, vorrangig prüfen |
-
-## Quellen und Updates
-
-Rechtsprechung live prüfen: Keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über amtliche oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-
-> Quellenregel: Entscheidungen nur nach Prüfung einer amtlichen oder frei zugänglichen Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage ausgeben.
-
----
-
-## Skill: `arbeit-schriftsatz-brief-und-memo-bausteine`
-
-_Wenn es um Arbeit: Schriftsatz-, Brief- und Memo-Bausteine in Zwangsvollstreckung geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik._
-
-# Arbeit: Schriftsatz-, Brief- und Memo-Bausteine
+# Schuldnerschutz: Beweislast, Darlegungslast und Substantiierung
 
 ## Arbeitsweg
 
@@ -1082,7 +1056,7 @@ _Wenn es um Arbeit: Schriftsatz-, Brief- und Memo-Bausteine in Zwangsvollstrecku
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
-## Spezialwissen: Arbeit: Schriftsatz-, Brief- und Memo-Bausteine
+## Spezialwissen: Schuldnerschutz: Beweislast, Darlegungslast und Substantiierung
 - **Normen-/Quellenanker:** ZPO, InsO, ZVG, EU, VO.
 
 ## Fallweichen
@@ -1096,18 +1070,18 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 
 ## Arbeitsworkflow
 1. **Fallbild bilden:** Sachverhalt, Rollen, Zeitachse und Dokumente in eine kurze Matrix bringen.
-2. **Rechtsrahmen setzen:** Normen, Zuständigkeiten, Fristen, Formfragen und Verfahrensstand zum Themenfeld **Arbeit** prüfen.
+2. **Rechtsrahmen setzen:** Normen, Zuständigkeiten, Fristen, Formfragen und Verfahrensstand zum Themenfeld **Schuldnerschutz** prüfen.
 3. **Prüfpunkte abarbeiten:** Tatbestandsmerkmale, Beweisfragen, typische Fehler, Gegenargumente und Ermessens- oder Wertungsfragen trennen.
 4. **Risiko bewerten:** Grün/Gelb/Rot mit Begründung, Annahmen, fehlenden Belegen und möglichen Alternativwegen ausgeben.
 5. **Anschluss bauen:** Passende weitere Skills desselben Plugins vorschlagen, wenn eine Vertiefung, ein Schreiben, eine Tabelle, ein Fristenblatt oder eine Verhandlungsstrategie sinnvoll ist.
 
 ---
 
-## Skill: `vermoegensauskunft-vollstreckungsbescheid`
+## Skill: `vollstreckungsbescheid-dokumentenmatrix-und-lueckenliste`
 
-_Wenn es um Vermögensauskunft: Zahlen, Schwellenwerte und Berechnung in Zwangsvollstreckung geht: rechnet Schwellen, Beträge, Varianten und Kontrollannahmen durch; liefert eine Berechnungstabelle mit Schwellen, Annahmen und Kontrollfragen._
+_Für Vollstreckungsbescheid: Dokumentenmatrix, Lückenliste und Nachforderung: ordnet Akte, Belege und Lücken; Ergebnis: Dokumentenmatrix mit Nachforderungsliste._
 
-# Vermögensauskunft: Zahlen, Schwellenwerte und Berechnung
+# Vollstreckungsbescheid: Dokumentenmatrix, Lückenliste und Nachforderung
 
 ## Arbeitsweg
 
@@ -1117,7 +1091,7 @@ _Wenn es um Vermögensauskunft: Zahlen, Schwellenwerte und Berechnung in Zwangsv
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
-## Spezialwissen: Vermögensauskunft: Zahlen, Schwellenwerte und Berechnung
+## Spezialwissen: Vollstreckungsbescheid: Dokumentenmatrix, Lückenliste und Nachforderung
 - **Normen-/Quellenanker:** ZPO, InsO, ZVG, EU, VO.
 
 ## Fallweichen
@@ -1131,291 +1105,10 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 
 ## Arbeitsworkflow
 1. **Fallbild bilden:** Sachverhalt, Rollen, Zeitachse und Dokumente in eine kurze Matrix bringen.
-2. **Rechtsrahmen setzen:** Normen, Zuständigkeiten, Fristen, Formfragen und Verfahrensstand zum Themenfeld **Vermögensauskunft** prüfen.
+2. **Rechtsrahmen setzen:** Normen, Zuständigkeiten, Fristen, Formfragen und Verfahrensstand zum Themenfeld **Vollstreckungsbescheid** prüfen.
 3. **Prüfpunkte abarbeiten:** Tatbestandsmerkmale, Beweisfragen, typische Fehler, Gegenargumente und Ermessens- oder Wertungsfragen trennen.
 4. **Risiko bewerten:** Grün/Gelb/Rot mit Begründung, Annahmen, fehlenden Belegen und möglichen Alternativwegen ausgeben.
 5. **Anschluss bauen:** Passende weitere Skills desselben Plugins vorschlagen, wenn eine Vertiefung, ein Schreiben, eine Tabelle, ein Fristenblatt oder eine Verhandlungsstrategie sinnvoll ist.
-
-## Materielle Weichen Vermögensauskunft (§ 802c ZPO)
-- **Rechtsgrundlage:** § 802c ZPO i.V.m. §§ 802a, 802d ZPO. Pflicht des Schuldners zur Abgabe einer Vermögensauskunft im Vermögensverzeichnis vor dem Gerichtsvollzieher (früher: eidesstattliche Versicherung).
-- **Voraussetzung:** Gläubiger benötigt vollstreckbaren Titel; keine eigenständige Schwelle (anders als früher 500-Euro-Grenze).
-- **Verfahren:** Gerichtsvollzieher fordert Schuldner zur Abgabe; Schuldner muss persönlich erscheinen, alle Vermögensgegenstände, Forderungen, Beschäftigungsverhältnisse und Zahlungen der letzten zwei Jahre offenlegen.
-- **Verzeichnis-Inhalt (§ 802c Abs. 2 ZPO):** Forderungen aus Lohn, Bankguthaben, Wertpapiere, Lebensversicherungen, Grundstücke, Sicherungseigentum, GmbH-Anteile, Fahrzeuge, Wertsachen, Schenkungen letzte 4 Jahre (an nahestehende Personen), übertragenes Vermögen.
-- **Eintragung im Schuldnerverzeichnis (§ 882b ZPO):** Bei Nichtabgabe oder erfolgloser Vollstreckung Eintragung von Amts wegen ins Schuldnerverzeichnis - online abrufbar (für Gläubiger gegen Gebühr). Dauer: drei Jahre nach Eintragung.
-- **Haftbefehl (§ 802g ZPO):** Bei unentschuldigter Nichtabgabe Erzwingungshaft bis sechs Monate. Beantragung beim Gerichtsvollzieher; Haftbefehl wird durch Amtsgericht erlassen.
-- **Wiederholung (§ 802d Abs. 1 ZPO):** Erneute Vermögensauskunft erst nach Ablauf von 2 Jahren erforderlich; Ausnahme bei plausibler Begründung erheblicher Änderungen (§ 802d Abs. 1 S. 2 ZPO).
-- **Schutzschriften / Korrekturen:** Schuldner kann unrichtige Angaben durch Berichtigung korrigieren (§ 802c Abs. 3 ZPO); falsche Angaben sind als Straftat (§ 156 StGB - falsche Versicherung an Eides statt) strafbar.
-- **Praktiker-Tipp:** Vor Antrag: § 802l ZPO Kontensuche bei Bundeszentralamt für Steuern parallel beauftragen. Vermögensauskunft schafft die Voraussetzung für gezielte PfÜBs.
-
----
-
-## Skill: `abwehr-schuldner`
-
-_Wenn es um Schuldnerabwehr in der Zwangsvollstreckung in Zwangsvollstreckung geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik._
-
-# Schuldnerabwehr in der Zwangsvollstreckung
-
-## Arbeitsbereich
-
-Schuldner will sich gegen laufende Zwangsvollstreckung wehren oder hat unrechtmäßigen Pfaendungs-Beschluss erhalten. §§ 766 767 768 771 765a 850k 769 ZPO Schuldnerrechte. Prüfraster: Erinnerung § 766 formale Maengel Vollstreckungsabwehrklage § 767 materielle Einwendungen Klauselgegenklage § 768 Drittwiderspruchsklage § 771 Vollstreckungsschutz § 765a P-Konto-Freigabe § 850k Einstellung § 769. Output: Abwehrstrategie-Memo und passender Schriftsatz-Entwurf. Abgrenzung zu vollstreckungsschutz-haertefall-765a (Haertefall-Schutz) und pfaendungstabelle-pfueb-arbeitsentgelt (Pfaendungsberechnung). Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
-## Arbeitsweg
-
-- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
-- Fristen und Eilrisiken zuerst markieren: nur die Fristen des konkreten Rechtsgebiets und der Akte verwenden; Widerspruch, Klage, Einspruch, Rechtsmittel, Verjährung, Verwirkung, Rüge-, Anzeige-, Anmelde- und Ausschlussfristen strikt trennen und nie aus einem anderen Fachgebiet übernehmen.
-- Tragende Normen verifizieren: §§ 704 ff. ZPO; § 802l Kontensuche, Vermögensauskunft, Räumung; § 800 ZPO Notar; § 201 InsO, ZVG, EU-Kontenpfändung VO 655; § 765a Härtefall, Schuldnerschutz — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
-- Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
-- Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
-
-## Startet bei
-
-- Mandant ist Schuldner einer laufenden Vollstreckung
-- Pfändung oder Räumung steht bevor / läuft
-- Gläubiger geht aus aufgehobener oder bezahlter Forderung vor / Pfändung verstößt gegen Pfändungsfreigrenzen
-- Restschuldbefreiung wurde erteilt und trotzdem wird vollstreckt
-
-## Rechtsgrundlagen
-
-- § 765a ZPO – Vollstreckungsschutz, Härtefall
-- § 766 ZPO – Erinnerung gegen Art und Weise der Vollstreckung
-- § 767 ZPO – Vollstreckungsabwehrklage (materielle Einwendungen nach Schluss der mündlichen Verhandlung)
-- § 768 ZPO – Klauselgegenklage
-- § 769 ZPO – einstweilige Einstellung
-- § 771 ZPO – Drittwiderspruchsklage
-- § 850c-l ZPO – Pfändungsfreigrenze, § 850k ZPO P-Konto-Freigabe
-- § 802d ZPO – Sperrfrist Vermögensauskunft
-- § 301 InsO – Wirkung Restschuldbefreiung
-
-## Verteidigungslandkarte
-
-| Angriff des Gläubigers | Gegenmittel | Gericht |
-| --- | --- | --- |
-| Pfändung formal fehlerhaft (z. B. Zustellungsmangel) | Erinnerung § 766 ZPO | Vollstreckungsgericht |
-| Forderung erfüllt, gestundet, verjährt, aufgerechnet (nach mündl. Verhandlung) | Vollstreckungsabwehrklage § 767 ZPO | Prozessgericht 1. Instanz |
-| Klauselumschreibung § 727 ZPO angreifbar | Klauselgegenklage § 768 ZPO | Prozessgericht |
-| Drittgut wird gepfändet (mein Eigentum) | Drittwiderspruchsklage § 771 ZPO | Prozessgericht |
-| Existenzbedrohende Härte (Krankheit, Suizid) | § 765a ZPO Antrag | Vollstreckungsgericht |
-| Pfändungsfreigrenze unterschritten | Antrag § 850c, § 850k ZPO | Vollstreckungsgericht |
-| Pfändung trotz Restschuldbefreiung | § 767 ZPO + § 301 InsO | Prozessgericht |
-| Räumung mit Mitbewohnern ohne Titel | Erinnerung § 766 oder Drittwiderspruch | Vollstreckungs- / Prozessgericht |
-
-## Workflow
-
-1. **Lagebild aufnehmen**: Welcher Titel? Welcher Vollstreckungsschritt? Frist?
-2. **Sofortmaßnahmen**: einstweilige Einstellung § 769 ZPO mit Antrag, ggf. einstweilige Verfügung.
-3. **Hauptweg wählen** (siehe Tabelle).
-4. **Bei P-Konto**: Antrag § 850k Abs. 4 ZPO auf höheren Freibetrag (Unterhaltspflichten, einmalige Sozialleistungen).
-5. **Insolvenzaspekte**: Verbraucher kann Insolvenzantrag stellen (sechs Monate Vollstreckungssperre nach Eröffnung § 89 InsO; nicht aber im Eröffnungsverfahren regelmäßig).
-6. **Restschuldbefreiung**: § 767 ZPO mit Vorlage des Beschlusses; § 302 InsO prüfen, ob doch Privilegierung.
-
-## Vollstreckungsschutz § 765a ZPO
-
-Sehr hohe Hürde – sittenwidrige Härte. Beispiele aus der Rechtsprechung:
-
-- Rechtsprechung live prüfen: Keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über amtliche oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-- schwere Erkrankung, kurz bevorstehende Operation
-- Hochschwangerschaft
-- Tod naher Angehöriger
-- Rechtsprechung live prüfen: Keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über amtliche oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-
-Antrag muss vor Vollstreckungsmaßnahme gestellt sein; Aussetzung § 769 ZPO mitbeantragen.
-
-## Leitentscheidungen
-
-- Rechtsprechung live prüfen: Keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über amtliche oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-
-## Ausgabeformat
-
-```
-SCHULDNERABWEHR [Mandant Schuldner], Az [Vollstreckungsgericht]
-
-Vollstreckung: [Art, durch wen, Datum]
-Mandantenposition: [Schuldner / Dritter / Eigentümer]
-Hauptangriff: [Erinnerung § 766 / Klage § 767 / 768 / 771]
-Eilantrag § 769: [ja, mit Begründung ... / nein]
-Schutzschirm: [§ 765a / § 850k / § 302 InsO]
-Beweismittel: [Zahlungsnachweis, Erlassvertrag, Eigentumsurkunde]
-Risiko: [Kostenrisiko, Eilrisiko, Zwangsverkauf]
-
-NÄCHSTER SCHRITT: [Antrag heute einreichen / Klage einreichen]
-WIEDERVORLAGE: DD.MM.JJJJ
-```
-
-<!-- BEGIN ausformulierungspflicht (autogen) -->
-> **Ausformulierungspflicht und Formatstandard.** Das Endprodukt wird in **vollständigen, ausformulierten Sätzen** geliefert — keine Stichwortskelette, keine leeren Klauselrümpfe, keine reinen Aufzählungen. Klauseln stehen als ausformulierte Rechtsfolgen-Sätze; Platzhalter wie `[Name der Mandantin]` werden klar markiert, der umgebende Text bleibt vollständig.
->
-> **Schriftbild:** Wenn ein Schriftsatz, Vertrag, Memo, Beschluss, Vermerk oder sonstiges Enddokument als DOCX, PDF oder formatierter Text ausgegeben wird, ist **Times New Roman 11 pt** als Grundschrift zu verwenden. Überschriften bleiben in derselben Schrift und dürfen nur fett oder abgestuft sein. Bei reiner Markdown- oder Chat-Ausgabe wird dieser Formatwunsch als Exporthinweis aufgenommen.
->
-> **Nummerierung:** Gliederung ausschließlich dezimal (`1`, `1.1`, `1.1.1` und so weiter). Keine römischen Ziffern, keine Buchstaben- oder Mischgliederung.
-<!-- END ausformulierungspflicht (autogen) -->
-
-## Qualitätsgates
-
-- Niemals materielle Einwendungen über § 766 ZPO geltend machen – falscher Rechtsbehelf.
-- Niemals § 767 ZPO ohne Präklusionsprüfung – Einwendungen müssen nach Schluss der mündlichen Verhandlung entstanden sein.
-- Niemals Drittgut über § 766 ZPO verteidigen – das ist § 771 ZPO.
-- Bei § 765a ZPO niemals nur Standardvortrag – konkrete Härte mit Beweismitteln.
-
----
-
-## Skill: `raeumung-compliance-dokumentation-und-akte`
-
-_Wenn es um Raeumung: Compliance-Dokumentation und Aktenvermerk in Zwangsvollstreckung geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen._
-
-# Raeumung: Compliance-Dokumentation und Aktenvermerk
-
-## Arbeitsweg
-
-- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
-- Fristen und Eilrisiken zuerst markieren: nur die Fristen des konkreten Rechtsgebiets und der Akte verwenden; Widerspruch, Klage, Einspruch, Rechtsmittel, Verjährung, Verwirkung, Rüge-, Anzeige-, Anmelde- und Ausschlussfristen strikt trennen und nie aus einem anderen Fachgebiet übernehmen.
-- Tragende Normen verifizieren: §§ 704 ff. ZPO; § 802l Kontensuche, Vermögensauskunft, Räumung; § 800 ZPO Notar; § 201 InsO, ZVG, EU-Kontenpfändung VO 655; § 765a Härtefall, Schuldnerschutz — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
-- Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
-- Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
-
-## Spezialwissen: Raeumung: Compliance-Dokumentation und Aktenvermerk
-- **Normen-/Quellenanker:** ZPO, InsO, ZVG, EU, VO.
-
-## Fallweichen
-Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur Rückfragen, die die nächste Weiche verändern:
-
-1. Welche Rolle hat die fragende Person und wer ist Gegenüber?
-2. Welches konkrete Ziel soll erreicht oder verhindert werden?
-3. Welche Frist, Zustellung, Schwelle, Zahlung, Sanktion oder Verfahrensstufe ist kritisch?
-4. Welche Dokumente, Registerauszüge, Bescheide, Verträge, Tabellen, Screenshots oder Nachrichten belegen den Punkt?
-5. Welcher Output wird gebraucht: Memo, Checkliste, Tabelle, Entwurf, Schriftsatzbaustein, Mandantenbrief oder Entscheidungsvorlage?
-
-## Arbeitsworkflow
-1. **Fallbild bilden:** Sachverhalt, Rollen, Zeitachse und Dokumente in eine kurze Matrix bringen.
-2. **Rechtsrahmen setzen:** Normen, Zuständigkeiten, Fristen, Formfragen und Verfahrensstand zum Themenfeld **Raeumung** prüfen.
-3. **Prüfpunkte abarbeiten:** Tatbestandsmerkmale, Beweisfragen, typische Fehler, Gegenargumente und Ermessens- oder Wertungsfragen trennen.
-4. **Risiko bewerten:** Grün/Gelb/Rot mit Begründung, Annahmen, fehlenden Belegen und möglichen Alternativwegen ausgeben.
-5. **Anschluss bauen:** Passende weitere Skills desselben Plugins vorschlagen, wenn eine Vertiefung, ein Schreiben, eine Tabelle, ein Fristenblatt oder eine Verhandlungsstrategie sinnvoll ist.
-
-## Materielle Weichen Räumungsvollstreckung
-- **Rechtsgrundlage (§§ 885-885a ZPO):** Zwangsweise Räumung durch Gerichtsvollzieher auf Antrag des Gläubigers nach rechtskräftigem Räumungstitel und Zustellung an den Schuldner.
-- **Berliner Modell (§ 885a ZPO):** Eingeschränkte Räumung - Gläubiger ist nur verpflichtet, die Räume zu räumen; das Mobiliar verbleibt in der Wohnung. Der Gläubiger erwirbt nur das Vermieterpfandrecht (§ 562 BGB). Kostengünstiger.
-- **Vollständige Räumung (sog. "Frankfurter Modell"):** Gerichtsvollzieher räumt einschließlich Mobiliar und lagert es ein; Lagerung gem. § 885 Abs. 4 ZPO. Schuldner kann Sachen binnen zwei Monaten herausholen, sonst Versteigerung. Höhere Kosten für Gläubiger.
-- **Räumungsfrist (§ 721 ZPO):** Auf Antrag des Schuldners kann das Erkenntnisgericht eine Räumungsfrist bis zu einem Jahr gewähren (Verlängerung um 1 Jahr möglich), wenn besondere Härte (Kind, Krankheit, fehlender Ersatzwohnraum).
-- **Vollstreckungsschutz (§ 765a ZPO):** Schuldner kann bei Härtefall (Tod, schwere Krankheit, Schwangerschaft) Antrag auf Vollstreckungsschutz stellen. Verzögert die Räumung, gewährt aber Zeit für Ersatzwohnraum. Antrag bei Vollstreckungsgericht.
-- **Drei-Wochen-Frist (§ 721 Abs. 3 ZPO):** Verlängerungsantrag der Räumungsfrist drei Wochen vor Ablauf zu stellen.
-- **Räumung an Sonn- und Feiertagen:** Grundsätzlich verboten (§ 758a Abs. 4 ZPO); werktags zwischen 21 Uhr und 6 Uhr nur mit Sondergenehmigung.
-- **Mietkosten zwischen Kündigung und Räumung:** Schuldner schuldet Nutzungsentschädigung in Höhe der ortsüblichen Miete (§ 546a BGB), nicht den vereinbarten Mietzins.
-- **Praktiker-Tipp:** Vor Räumungsklage immer prüfen: Adressaten korrekt (alle Mitmieter im Titel?), Räumlichkeiten genau bezeichnet (Stockwerk, Lage); fehlende Bezeichnungen führen zu Schwierigkeiten beim Gerichtsvollzieher. Kostenkalkulation: vollständige Räumung kann mehrere tausend Euro kosten - Berliner Modell oft wirtschaftlicher.
-
----
-
-## Skill: `elektronische-zustellung-eu`
-
-_Wenn es um Elektronische Zustellung in der Zwangsvollstreckung – ZVollstrDigitG in Zwangsvollstreckung geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten._
-
-# Elektronische Zustellung in der Zwangsvollstreckung – ZVollstrDigitG
-
-## Arbeitsbereich
-
-Gläubiger oder Kreditinstitut fragt: Was ändert sich durch die Digitalisierung der Zwangsvollstreckung ab 2026/2027? Maßgeblich ist das Gesetz vom 20. Mai 2026, verkündet am 26. Mai 2026 im BGBl. 2026 I Nr. 152. Prüfraster: elektronischer PfÜB-Antrag nach Paragraf 829a ZPO n.F. ab 1.10.2026, XML-Datensatz nach Paragraf 829 Absatz 5 ZPO n.F. ab 1.1.2027, sicherer Übermittlungsweg für Kreditinstitute nach Paragraf 173 Absatz 2 Nummer 1 ZPO n.F. ab 1.6.2027 und Drittschuldnererklärung nach Paragraf 840 ZPO. Output: Umstellungs-Checkliste und aktualisierte Workflow-Anpassung. Abgrenzung zu `pfueb-bank` (PfÜB gegen Konto) und `titel-klausel-zustellung` (klassisch).
-
-## Arbeitsweg
-
-- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
-- Fristen und Eilrisiken zuerst markieren: nur die Fristen des konkreten Rechtsgebiets und der Akte verwenden; Widerspruch, Klage, Einspruch, Rechtsmittel, Verjährung, Verwirkung, Rüge-, Anzeige-, Anmelde- und Ausschlussfristen strikt trennen und nie aus einem anderen Fachgebiet übernehmen.
-- Tragende Normen verifizieren: §§ 704 ff. ZPO; § 802l Kontensuche, Vermögensauskunft, Räumung; § 800 ZPO Notar; § 201 InsO, ZVG, EU-Kontenpfändung VO 655; § 765a Härtefall, Schuldnerschutz — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
-- Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
-- Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
-
-## Triage zu Beginn
-
-1. Welches Datum ist für Antrag, Erlass und Zustellung maßgeblich: vor 1.10.2026, ab 1.10.2026, ab 1.1.2027 oder ab 1.6.2027?
-2. Soll eine Bank als Drittschuldner ab 1.6.2027 über einen sicheren Übermittlungsweg zugestellt bekommen?
-3. Hat die Kanzlei-Software die XML-Unterstützung nach Paragraf 829 Absatz 5 ZPO n.F. bereits implementiert?
-4. Ist die Zielbank bereits im eBO-Verzeichnis registriert?
-
-## Zentrale Normen
-
-- Paragraf 130a ZPO — elektronischer Rechtsverkehr (Schriftsätze)
-- Paragraf 130d ZPO — aktive Nutzungspflicht für Rechtsanwälte (beA, eBO)
-- Paragraf 173 ZPO n.F. — elektronische Zustellung an Drittschuldner
-- Paragraf 829 Absatz 5 ZPO n.F. — XML-Antrag Pfändungs- und Überweisungsbeschluss
-- Paragraf 840 ZPO — Drittschuldnererklärung
-- Paragraf 750 ZPO — Voraussetzungen der Vollstreckung (Zustellnachweis)
-
-## Reform-Eckdaten (Stand 27.6.2026)
-
-| Datum | Inhalt |
-| --- | --- |
-| 19.3.2026 | Bundestag beschließt das Gesetz; konsolidierter Nachweis über BT-Drs. 21/4816 |
-| 13.5.2026 | Verkündung im BGBl. 2026 I Nr. 152 |
-| 1.10.2026 | Inkrafttreten wesentlicher Hauptteile, darunter der elektronische PfÜB-Antrag nach Paragraf 829a ZPO n.F. |
-| 1.1.2027 | Strukturierter XML-Datensatz nach Paragraf 829 Absatz 5 ZPO n.F. kann zusammen mit dem PDF-Antrag genutzt werden; bei Widerspruch ist der XML-Datensatz maßgeblich |
-| 1.6.2027 | Kreditinstitute müssen einen sicheren elektronischen Übermittlungsweg eröffnen nach Paragraf 173 Absatz 2 Nummer 1 ZPO n.F. |
-
-Bei jeder neuen Beratung prüfen, ob seit BGBl. 2026 I Nr. 152 weitere Formular-, ZVFV- oder ERV-Anpassungen veröffentlicht wurden. Quellen:
-
-- BGBl. 2026 I Nr. 152
-- BT-Drs. 21/4816
-- BRAK-Newsletter Ausgabe 8/2026 vom 1.5.2026 ("Zwangsvollstreckung künftig mit weniger Medienbrüchen")
-- DGVB-Beitrag zum elektronischen Rechtsverkehr in der Vollstreckung
-
-## Rechtsgrundlagen
-
-- Paragraf 130a ZPO – elektronischer Rechtsverkehr Schriftsätze
-- Paragraf 130d ZPO – aktive Nutzungspflicht Rechtsanwalt/Behörde
-- Paragraf 173 ZPO n.F. – elektronische Zustellung an Drittschuldner
-- Paragraf 829 Absatz 5 ZPO n.F. – XML-Antrag PfÜB
-- Paragraf 840 ZPO – Aufforderung zur Drittschuldnererklärung und Rücklaufkontrolle
-- Paragraf 802a Absatz 2 ZPO – Gerichtsvollzieher-Aufträge
-- ERV-Verordnungen ERVV und ERVB
-
-## Die drei Stoßrichtungen der Reform
-
-### 1. Elektronischer Antrag und XML-Datensatz
-
-Ab 1.10.2026 ist die erleichterte elektronische Antragstellung nach Paragraf 829a ZPO n.F. zu prüfen. Ab 1.1.2027 kann der PfÜB-Antrag zusätzlich zum PDF-Antrag eine maschinenlesbare XML-Struktur nach Paragraf 829 Absatz 5 ZPO n.F. enthalten. Bei Diskrepanz gilt der XML-Datensatz. Wer Software einsetzt, sollte vor dem 1.1.2027 testen, ob die Kanzlei-Software den ZVFV-konformen XML-Anhang erzeugt.
-
-### 2. Pflicht der Kreditinstitute zum sicheren Übermittlungsweg
-
-Ab 1.6.2027 sind Kreditinstitute verpflichtet, einen sicheren elektronischen Übermittlungsweg im Sinne des Paragraf 130a Absatz 4 ZPO zu eröffnen (Paragraf 173 Absatz 2 Nummer 1 ZPO n.F.). In Frage kommen:
-
-- **eBO** (elektronisches Bürger- und Organisationenpostfach) – die Bank registriert sich beim Bundesnotarvereinszentral / SAFE-Verzeichnis.
-- **De-Mail** mit Absenderbestätigung
-- weitere Übermittlungswege nach Paragraf 130a Absatz 4 ZPO und ERVV
-
-Folge: Der Gerichtsvollzieher kann PfÜB an Banken regelmäßig elektronisch zustellen. Das ist schneller, planbarer und vermeidet den klassischen Streit um Zustellungszeitpunkt. Bis 1.6.2027 dürfen Banken freiwillig elektronisch annehmen; die konkrete Empfangsbereitschaft bleibt im Übergang zu prüfen.
-
-### 3. Drittschuldnererklärung nach Paragraf 840 ZPO – Aufforderung und Rücklauf
-
-Die Aufforderung zur Drittschuldnererklärung wird zusammen mit dem Pfändungsbeschluss übermittelt. Für die Praxis zählt nicht nur der elektronische Eingang beim Kreditinstitut, sondern auch ein eindeutiger Zustellungsnachweis, weil daran Frist, Moratorium, Auskehrung und Wiedervorlage hängen. Bis zur stabilen elektronischen Routine bleibt zu dokumentieren, ob Rücklauf elektronisch, postalisch oder über ein bankinternes Portal erfolgt.
-
-## Für die Praxis bis 1.6.2027
-
-1. **Soft Start ab 1.10.2026**: Elektronische Antragstellung nach Paragraf 829a ZPO n.F. vorbereiten.
-2. **XML ab 1.1.2027**: ZVFV-Schemata testen und PDF-/XML-Gleichlauf organisatorisch absichern.
-3. **Bestandsaufnahme Kanzlei-Software**: kann sie eBO senden? Erzeugt sie ZVFV-XML? Mit dem Software-Anbieter klären.
-4. **Bestandsaufnahme Banken**: Liste der Drittschuldner mit sicheren Übermittlungswegen pflegen.
-5. **Gerichtsvollzieherroute abstimmen**: Zustellungsweg und Zustellnachweis vor Fristmandaten konkret klären.
-6. **Doppelte Wege vermeiden**: nicht ohne Grund parallel Papier und eBO nutzen; wenn ein Parallelweg ausnahmsweise nötig ist, den führenden Zustellungsweg und den maßgeblichen Zustellungsnachweis ausdrücklich festlegen.
-
-## Was bleibt analog
-
-- Pfändung gegen Privatpersonen ohne eBO (Schuldnerzustellung) bleibt grundsätzlich Papier (außer Schuldner hat eBO).
-- Gerichtsvollzieher-Mobiliarvollstreckung bleibt Vor-Ort-Termin.
-- Zwangsversteigerung ZVG verfahrenstechnisch unverändert.
-
-## Häufige Fehlerquellen
-
-- Antrag in Papier eingereicht, obwohl § 130d ZPO aktive Nutzungspflicht der Anwaltschaft greift – Form fehlt, Antrag unzulässig.
-- XML und PDF widersprechen sich – Skill warnt: XML führt. Datenpflege im DMS einrichten.
-- Zustellung per beA statt eBO an Drittschuldner – Bank hat ggf. nur eBO eröffnet.
-- Übergangsphase: nicht jede Bank ist vor 1.6.2027 elektronisch erreichbar – im Zweifel beim GV-Bezirk anfragen.
-
-## Qualitätsgates
-
-- BGBl.-Fassung und spätere Formular-/Verordnungsänderungen bei jeder Beratung neu verifizieren.
-- Niemals unklar parallel Papier und elektronisch zustellen lassen – Zustellungszeitpunkt eindeutig halten.
-- XML-Schema-Versionen prüfen – ZVFV-Update nicht verpassen.
-- Niemals annehmen, jede Bank sei vor 1.6.2027 elektronisch erreichbar – im Übergang konkret beim GV nachfragen.
-- Bei Anwaltsmandat § 130d ZPO als aktive Nutzungspflicht stets beachten.
-
-> Quellenregel: Entscheidungen nur nach Prüfung einer amtlichen oder frei zugänglichen Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage ausgeben.
 
 ---
 

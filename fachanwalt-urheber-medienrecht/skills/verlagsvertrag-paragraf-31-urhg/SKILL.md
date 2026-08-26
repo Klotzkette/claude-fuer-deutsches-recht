@@ -1,6 +1,6 @@
 ---
 name: verlagsvertrag-paragraf-31-urhg
-description: "Wenn es um Verlagsvertrag Paragraf 31 UrhG in Fachanwalt Urheber Medienrecht geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Verlagsvertrag Paragraf 31 UrhG: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Verlagsvertrag § 31 UrhG

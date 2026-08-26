@@ -1,6 +1,6 @@
 ---
 name: mein-justizpostfach-mjp-sozialgericht
-description: "Wenn es um Mein Justizpostfach — digitale Einreichung beim SG in selbstvertreter-sozialgericht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Mein Justizpostfach — digitale Einreichung beim SG: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Mein Justizpostfach — digitale Einreichung beim SG

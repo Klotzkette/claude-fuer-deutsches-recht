@@ -1,6 +1,6 @@
 ---
 name: ihl-079-mediation-singapore-convention
-description: "Wenn es um Mediation Singapore Convention in Internationales Handelsrecht und Lex Mercatoria geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Mediation Singapore Convention: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Mediation Singapore Convention

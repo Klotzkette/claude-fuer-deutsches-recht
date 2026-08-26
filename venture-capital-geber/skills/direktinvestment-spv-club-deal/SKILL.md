@@ -1,6 +1,6 @@
 ---
 name: direktinvestment-spv-club-deal
-description: "Wenn es um Direktinvestment, SPV oder Club Deal in Venture Capital Geber geht: entwickelt Verhandlungsziel, Vergleichskorridor und Eskalationspfad; liefert eine Verhandlungs- oder Eskalationslinie mit Optionen."
+description: "Für Direktinvestment, SPV oder Club Deal: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Direktinvestment, SPV oder Club Deal

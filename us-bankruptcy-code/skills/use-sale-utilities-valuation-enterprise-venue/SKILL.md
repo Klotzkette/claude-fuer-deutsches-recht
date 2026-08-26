@@ -1,6 +1,6 @@
 ---
 name: use-sale-utilities-valuation-enterprise-venue
-description: "Wenn es um Use, Sale or Lease Paragraf 363 in US Bankruptcy Code geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Use, Sale or Lease Paragraf 363: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Use, Sale or Lease § 363

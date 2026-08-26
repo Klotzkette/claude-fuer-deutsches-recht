@@ -1,6 +1,6 @@
 ---
 name: 023-roemisches-recht-und-stadtrechte-norditalien
-description: "Wenn es um Rom Roemisches Recht Und Stadtrechte Norditalien in Römisches Recht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Rom Römisches Recht und Stadtrechte Norditalien: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Rom Roemisches Recht Und Stadtrechte Norditalien

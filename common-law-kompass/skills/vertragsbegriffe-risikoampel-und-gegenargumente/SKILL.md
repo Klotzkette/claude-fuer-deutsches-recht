@@ -1,6 +1,6 @@
 ---
 name: vertragsbegriffe-risikoampel-und-gegenargumente
-description: "Wenn es um Vertragsbegriffe: Risikoampel, Gegenargumente und Verteidigungslinien in Common-Law-Kompass für deutsche Wirtschaftsjuristen geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Vertragsbegriffe: Risikoampel, Gegenargumente und Verteidigungslinien: prüft Ergebnis, Beweislast und Gegenposition; Ergebnis: Fristen- und Risikoampel."
 ---
 
 # Vertragsbegriffe: Risikoampel, Gegenargumente und Verteidigungslinien

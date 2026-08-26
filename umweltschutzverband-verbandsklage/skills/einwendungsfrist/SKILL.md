@@ -1,6 +1,6 @@
 ---
 name: einwendungsfrist
-description: "Wenn es um Einwendungsfrist Und Praeklusion in Umweltschutzverband Verbandsklage geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Einwendungsfrist und Präklusion: prüft Frist, Form, Zuständigkeit und Eilbedarf; Ergebnis: Fristen- und Risikoampel."
 ---
 
 # Einwendungsfrist Und Praeklusion

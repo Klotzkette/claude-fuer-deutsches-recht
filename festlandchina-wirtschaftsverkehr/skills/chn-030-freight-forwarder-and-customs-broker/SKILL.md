@@ -1,6 +1,6 @@
 ---
 name: chn-030-freight-forwarder-and-customs-broker
-description: "Wenn es um Freight Forwarder And Customs Broker in China-Wirtschaftsverkehr geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Freight Forwarder And Customs Broker: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Freight Forwarder And Customs Broker

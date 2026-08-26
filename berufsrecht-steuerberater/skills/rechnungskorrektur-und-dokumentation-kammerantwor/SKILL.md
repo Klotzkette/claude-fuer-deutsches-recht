@@ -1,6 +1,6 @@
 ---
 name: rechnungskorrektur-und-dokumentation-kammerantwor
-description: "Wenn es um Rechnungskorrektur Und Dokumentation Kammerantwor in Berufsrecht Steuerberater geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Verhandlungs- oder Eskalationslinie mit Optionen."
+description: "Für Rechnungskorrektur und Dokumentation Kammerantwor: ordnet Akte, Belege und Lücken; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Steuerberater: rechnungskorrektur und dokumentation - Kammerantwort mit Verfahrensstrategie, Tonlage und Belegplan

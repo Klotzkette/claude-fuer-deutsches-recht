@@ -1,6 +1,6 @@
 ---
 name: ticketingdaten-veranstaltungsdaten
-description: "Wenn es um Ticketing-Daten, Veranstaltungsdaten und Kalender — Datenbankrecht in Datenbankrecht und Datenbankherstellerrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Ticketing-Daten, Veranstaltungsdaten und Kalender — Datenbankrecht: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Ticketing-Daten, Veranstaltungsdaten und Kalender — Datenbankrecht

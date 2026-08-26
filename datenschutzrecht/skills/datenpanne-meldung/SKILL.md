@@ -1,6 +1,6 @@
 ---
 name: datenpanne-meldung
-description: "Wenn es um Datenpannen-Meldung (Art. 33/34 DSGVO) in Datenschutzrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Datenpannen-Meldung (Art. 33/34 DSGVO): ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Datenpannen-Meldung (Art. 33/34 DSGVO)

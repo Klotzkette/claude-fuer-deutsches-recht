@@ -1,6 +1,6 @@
 ---
 name: kaufrecht-sachmangel-paragraph-434
-description: "Wenn es um Kaufrecht: Sachmangel Paragraf 434 BGB in BGB BT Prüfer geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Beweislast- und Substantiierungsmatrix."
+description: "Für Kaufrecht: Sachmangel Paragraf 434 BGB: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Kaufrecht: Sachmangel § 434 BGB

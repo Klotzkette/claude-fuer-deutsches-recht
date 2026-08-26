@@ -1,6 +1,6 @@
 ---
 name: luft-098-acc3-local-counsel-briefen
-description: "Wenn es um Acc3 Local Counsel Briefen in Luftrecht und Flughafenrecht geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
+description: "Für Acc3 Local Counsel Briefen: erstellt Entwurf mit Antrag, Beweis und Anlagen; Ergebnis: Schriftsatz mit Begründungs- und Anlagenlogik."
 ---
 
 # Acc3 Local Counsel Briefen

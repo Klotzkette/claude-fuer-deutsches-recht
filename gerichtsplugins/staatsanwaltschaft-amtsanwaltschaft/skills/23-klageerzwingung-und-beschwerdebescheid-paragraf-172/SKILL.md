@@ -1,6 +1,6 @@
 ---
 name: 23-klageerzwingung-und-beschwerdebescheid-paragraf-172
-description: "Wenn es um 23 Klageerzwingung und Beschwerdebescheid Paragraf 172 in Staatsanwaltschaft und Amtsanwaltschaft geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
+description: "Für 23 Klageerzwingung und Beschwerdebescheid Paragraf 172: erstellt Entwurf mit Antrag, Beweis und Anlagen; Ergebnis: Schriftsatz mit Begründungs- und Anlagenlogik."
 ---
 
 # 23 Klageerzwingung und Beschwerdebescheid Paragraf 172

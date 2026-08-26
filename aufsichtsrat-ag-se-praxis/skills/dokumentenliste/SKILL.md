@@ -1,6 +1,6 @@
 ---
 name: dokumentenliste
-description: "Wenn es um Dokumentenliste in AG/SE-Aufsichtsrat Praxis geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
+description: "Für Dokumentenliste: ordnet Akte, Belege und Lücken; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Dokumentenliste

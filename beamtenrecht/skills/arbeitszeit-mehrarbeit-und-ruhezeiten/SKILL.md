@@ -1,6 +1,6 @@
 ---
 name: arbeitszeit-mehrarbeit-und-ruhezeiten
-description: "Wenn es um Arbeitszeit Mehrarbeit Und Ruhezeiten in Beamtenrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Arbeitszeit Mehrarbeit und Ruhezeiten: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Arbeitszeit Mehrarbeit Und Ruhezeiten

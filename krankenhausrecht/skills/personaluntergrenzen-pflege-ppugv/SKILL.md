@@ -1,6 +1,6 @@
 ---
 name: personaluntergrenzen-pflege-ppugv
-description: "Wenn es um Personaluntergrenzen Pflege PpUGV in Krankenhausrecht geht: rechnet Schwellen, Beträge, Varianten und Kontrollannahmen durch; liefert eine Berechnungstabelle mit Schwellen, Annahmen und Kontrollfragen."
+description: "Für Personaluntergrenzen Pflege PpUGV: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Personaluntergrenzen Pflege PpUGV

@@ -1,6 +1,6 @@
 ---
 name: 02-amtsermittlung-finanzgericht
-description: "Wenn es um 02 Amtsermittlung Finanzgericht in Finanzgericht geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Beweislast- und Substantiierungsmatrix."
+description: "Für 02 Amtsermittlung Finanzgericht: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # 02 Amtsermittlung Finanzgericht

@@ -1,6 +1,6 @@
 ---
 name: kaltstart-drafting-kommandocenter
-description: "Wenn es um Kaltstart-Drafting-Kommandocenter in diesem Spezialbereich geht: klärt Rolle, Ziel, Frist, Unterlagen und den passenden nächsten Fachskill; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Kaltstart-Drafting-Kommandocenter: routet Rolle, Frist, Unterlagen und Fachschritt; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Kaltstart-Drafting-Kommandocenter

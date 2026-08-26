@@ -1,6 +1,6 @@
 ---
 name: gk-sanierungsgewinn-debt-equity-swap-und-spa-mechanik
-description: "Wenn es um Sanierungsgewinn – Debt-Equity-Swap und SPA-Mechanik in Großkanzlei Corporate/M&A geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. Auswahlstichwort: Gk Sanierungsgewinn Debt Equity Swap Und Spa Mechanik; Arbeitsfeld: Großkanzlei Corporate/M&A."
+description: "Für Sanierungsgewinn – Debt-Equity-Swap und SPA-Mechanik: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt. Fachgebiet: Großkanzlei Corporate/M&A. Route: gk-sanierungsgewinn-debt-equity-swap-und-spa-mechanik."
 ---
 
 # Sanierungsgewinn – Debt-Equity-Swap und SPA-Mechanik

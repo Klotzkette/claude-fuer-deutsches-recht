@@ -1,6 +1,6 @@
 ---
 name: strafr-dysfunk-beweisantragsstrategie
-description: "Wenn es um Beweisantragsstrategie so aufbauen dass der Missbrauchsangriff scheitert in Fachanwalt Strafrecht geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
+description: "Für Beweisantragsstrategie so aufbauen dass der Missbrauchsangriff scheitert: erstellt Entwurf mit Antrag, Beweis und Anlagen; Ergebnis: Schriftsatz mit Begründungs- und Anlagenlogik."
 ---
 
 # Beweisantragsstrategie so aufbauen dass der Missbrauchsangriff scheitert

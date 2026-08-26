@@ -1,6 +1,6 @@
 ---
 name: content-lizenz-musik-reel-bildrechte-kug
-description: "Wenn es um Influencer-Recht: Content-Lizenz, Nutzungsdauer, Media Buyout und Whitelisting in Influencer-Recht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
+description: "Für Influencer-Recht: Content-Lizenz, Nutzungsdauer, Media Buyout und Whitelisting: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Influencer-Recht: Content-Lizenz, Nutzungsdauer, Media Buyout und Whitelisting

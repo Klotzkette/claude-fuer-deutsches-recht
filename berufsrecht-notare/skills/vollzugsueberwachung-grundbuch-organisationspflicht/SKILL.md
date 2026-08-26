@@ -1,6 +1,6 @@
 ---
 name: vollzugsueberwachung-grundbuch-organisationspflicht
-description: "Wenn es um Vollzugsueberwachung Grundbuch Organisationspflicht in Berufsrecht Notare geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Vollzugsüberwachung Grundbuch Organisationspflicht: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Notare: vollzugsueberwachung grundbuch - Organisationspflichten, Prävention, Team-Anweisung und Fristenkontrolle

@@ -1,6 +1,6 @@
 ---
 name: dpma-fristen-form-und-zustaendigkeit
-description: "Wenn es um Spezial: DPMA – Fristen, Form und Zuständigkeit in Plugin: Gewerblicher Rechtsschutz geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Spezial: DPMA – Fristen, Form und Zuständigkeit: prüft Frist, Form, Zuständigkeit und Eilbedarf; Ergebnis: Fristen- und Risikoampel."
 ---
 
 # Spezial: DPMA – Fristen, Form und Zuständigkeit
@@ -139,3 +139,7 @@ Mandatsbezug: Anwalt fragt: Wann muss ich Widerspruch einlegen? Was ist die korr
 - `gewr-markenanmeldung-bauleiter` – Markenanmeldung Bauleiter
 - `spezial-euipo-dokumentenmatrix-und-lueckenliste` – EUIPO-Verfahren
 - `markenanmeldung-dpma` – DPMA-Anmeldung im Detail
+
+## Vertiefung bei Bedarf
+
+- Bei `spezial-dpma-fristen-form-und-zustaendigkeit` beziehungsweise Dpma: Fristen, Form, Zuständigkeit und Rechtsweg: [die zusätzliche Vertiefung laden](./references/vertiefung-spezial-dpma-fristen-form-und-zustaendigkeit.md).

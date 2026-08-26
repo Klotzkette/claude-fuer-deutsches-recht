@@ -1,6 +1,6 @@
 ---
 name: kontrolle-abwaegungsentscheidungen
-description: "Wenn es um Kontrolle von Abwägungsentscheidungen in Methodenlehre bürgerliches Recht geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Kontrolle von Abwägungsentscheidungen: prüft Ergebnis, Beweislast und Gegenposition; Ergebnis: Gegenprüfung mit Beweis- und Fristencheck."
 ---
 
 # Kontrolle von Abwägungsentscheidungen

@@ -1,6 +1,6 @@
 ---
 name: lease-058-verbraucherbeweglich
-description: "Wenn es um Verbraucherleasing beweglicher Sachen in Leasingrecht Praxis geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Verbraucherleasing beweglicher Sachen: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Verbraucherleasing beweglicher Sachen

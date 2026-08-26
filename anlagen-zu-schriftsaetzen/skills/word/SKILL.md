@@ -1,6 +1,6 @@
 ---
 name: word
-description: "Wenn es um Word/PDF-Umwandlung für Gericht und Behörden in Anlagen zu Schriftsätzen geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Word/PDF-Umwandlung für Gericht und Behörden: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Word/PDF-Umwandlung für Gericht und Behörden

@@ -1,6 +1,6 @@
 ---
 name: uvp-pflicht-und-vorpruefung
-description: "Wenn es um Uvp Pflicht Und Vorpruefung in Umweltschutzverband Verbandsklage geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
+description: "Für Uvp Pflicht und Vorprüfung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Tatbestands- oder Anspruchsmatrix."
 ---
 
 # Uvp Pflicht Und Vorpruefung

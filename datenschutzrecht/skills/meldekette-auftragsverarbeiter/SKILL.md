@@ -1,6 +1,6 @@
 ---
 name: meldekette-auftragsverarbeiter
-description: "Wenn es um Meldekette Auftragsverarbeiter — Art. 33 Abs. 2 DSGVO in Datenschutzrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Meldekette Auftragsverarbeiter — Art. 33 Abs. 2 DSGVO: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Meldekette Auftragsverarbeiter — Art. 33 Abs. 2 DSGVO
@@ -55,3 +55,7 @@ Eskalationsschreiben bei Schweigen: Fristsetzung 24 h; danach Vertragsstrafe und
 - `dsv-bussgeldverteidigung-art-83` und `dsv-schadensersatz-art-82` decken die anwaltliche Nachbearbeitung ab.
 
 - `dsv-meldung-art-33-pflichtangaben` deckt die Behördenmeldung des Verantwortlichen ab.
+
+## Vertiefung bei Bedarf
+
+- Bei `dsv-meldekette-auftragsverarbeiter` beziehungsweise Steuert die Meldekette in einer Auftragsverarbeiter-Konstellation nach Art: [die zusätzliche Vertiefung laden](./references/vertiefung-dsv-meldekette-auftragsverarbeiter.md).

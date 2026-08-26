@@ -1,6 +1,6 @@
 ---
 name: public-ma-kapitalmarkt-mar
-description: "Wenn es um Public M&A, Kapitalmarkt und MAR in Mittelstands-Corporate/M&A geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Dokumentenmatrix mit Nachforderungsliste."
+description: "Für Public M&A, Kapitalmarkt und MAR: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt. Fachgebiet: Mittelstands-Corporate/M&A."
 ---
 
 # Public M&A, Kapitalmarkt und MAR

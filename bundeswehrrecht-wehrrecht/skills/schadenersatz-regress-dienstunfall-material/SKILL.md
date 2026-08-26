@@ -1,6 +1,6 @@
 ---
 name: schadenersatz-regress-dienstunfall-material
-description: "Wenn es um Schadensersatz, Regress, Dienstunfall und Materialschäden in Bundeswehrrecht und Wehrrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Schadensersatz, Regress, Dienstunfall und Materialschäden: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Schadensersatz, Regress, Dienstunfall und Materialschäden

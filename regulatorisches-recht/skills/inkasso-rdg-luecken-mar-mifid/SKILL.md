@@ -1,6 +1,6 @@
 ---
 name: inkasso-rdg-luecken-mar-mifid
-description: "Wenn es um Inkassodienstleistungen (RDG) in Regulatorisches Recht – Plugin für deutsches geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
+description: "Für Inkassodienstleistungen (RDG): ordnet Akte, Belege und Lücken; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Inkassodienstleistungen (RDG)

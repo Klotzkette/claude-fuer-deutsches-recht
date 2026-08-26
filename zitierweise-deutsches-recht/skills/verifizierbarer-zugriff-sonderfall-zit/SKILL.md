@@ -1,6 +1,6 @@
 ---
 name: verifizierbarer-zugriff-sonderfall-zit
-description: "Wenn es um Verifizierbarer: Verhandlung, Vergleich und Eskalation in Zitierweise deutsches Recht geht: entwickelt Verhandlungsziel, Vergleichskorridor und Eskalationspfad; liefert eine Verhandlungs- oder Eskalationslinie mit Optionen."
+description: "Für Verifizierbarer: Verhandlung, Vergleich und Eskalation: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Verifizierbarer: Verhandlung, Vergleich und Eskalation

@@ -1,6 +1,6 @@
 ---
 name: miet-mietminderung-mangel-spezial
-description: "Wenn es um Miet: Mietminderung Mangel in Mietrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Miet: Mietminderung Mangel: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Miet: Mietminderung Mangel

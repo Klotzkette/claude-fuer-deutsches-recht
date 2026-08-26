@@ -1,6 +1,6 @@
 ---
 name: ifg-058-uig-umweltinformation-zustaendigkeit-p
-description: "Wenn es um Uig Umweltinformation Zustaendigkeit P in Informationsfreiheit und Presseauskunft geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Uig Umweltinformation Zuständigkeit P: prüft Frist, Form, Zuständigkeit und Eilbedarf; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt. Fachgebiet: Informationsfreiheit und Presseauskunft. Route: ifg-058-uig-umweltinformation-zustaendigkeit-p."
 ---
 
 # Uig Umweltinformation Zustaendigkeit P

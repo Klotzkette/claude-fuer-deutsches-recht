@@ -1,6 +1,6 @@
 ---
 name: strafrecht-spezial-koerperverletzung-mit-todesfolge-227-stgb
-description: "Wenn es um Koerperverletzung mit Todesfolge nach Paragraf 227 StGB in Fachanwalt Strafrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Körperverletzung mit Todesfolge nach Paragraf 227 StGB: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Koerperverletzung mit Todesfolge nach § 227 StGB

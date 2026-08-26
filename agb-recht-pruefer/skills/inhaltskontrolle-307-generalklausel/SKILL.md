@@ -1,6 +1,6 @@
 ---
 name: inhaltskontrolle-307-generalklausel
-description: "Wenn es um Inhaltskontrolle 307 Generalklausel in AGB-Recht-Prüfer geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Gegenprüfung mit Fehler-, Beweis- und Fristencheck."
+description: "Für Inhaltskontrolle 307 Generalklausel: prüft Ergebnis, Beweislast und Gegenposition; Ergebnis: Gegenprüfung mit Beweis- und Fristencheck."
 ---
 
 # Inhaltskontrolle 307 Generalklausel

@@ -1,6 +1,6 @@
 ---
 name: planetary-protection-arbeitsrecht
-description: "Wenn es um Weltraumrecht: Planetary Protection: Kontaminationsvermeidung in Weltraumrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Weltraumrecht: Planetary Protection: Kontaminationsvermeidung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Weltraumrecht: Planetary Protection: Kontaminationsvermeidung

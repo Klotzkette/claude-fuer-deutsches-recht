@@ -1,6 +1,6 @@
 ---
 name: beschwerde-gegen-lehrkraft
-description: "Wenn es um Beschwerde gegen Lehrkraft in Schulrecht der Bundesländer geht: entwickelt Verhandlungsziel, Vergleichskorridor und Eskalationspfad; liefert eine Verhandlungs- oder Eskalationslinie mit Optionen."
+description: "Für Beschwerde gegen Lehrkraft: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Beschwerde gegen Lehrkraft

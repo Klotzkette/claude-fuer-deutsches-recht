@@ -1,6 +1,6 @@
 ---
 name: rentenluecke-nach-scheidung-handlungsoptionen
-description: "Wenn es um Rentenluecke Nach Scheidung Handlungsoptionen in Fachanwalt Familienrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Rentenlücke nach Scheidung Handlungsoptionen: ordnet Akte, Belege und Lücken; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Rentenlücke nach Scheidung Handlungsoptionen: prüft die einschlägigen Voraussetzungen, Dokumente, Risiken und Ausnahmen

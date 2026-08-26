@@ -1,6 +1,6 @@
 ---
 name: fristen-mehrparteien-konflikt-und-interessen
-description: "Wenn es um Fristen: Mehrparteienkonflikt und Interessenmatrix in Aktenaufbereiter Strafrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Fristen: Mehrparteienkonflikt und Interessenmatrix: prüft Frist, Form, Zuständigkeit und Eilbedarf; Ergebnis: Fristen- und Risikoampel. Fachgebiet: Aktenaufbereiter Strafrecht."
 ---
 
 # Fristen: Mehrparteienkonflikt und Interessenmatrix

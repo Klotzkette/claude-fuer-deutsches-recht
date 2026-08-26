@@ -1,6 +1,6 @@
 ---
 name: eisenbahn-beschwerde-evu-gegen-infrastrukturbetreiber
-description: "Wenn es um Beschwerde eines EVU gegen den Infrastrukturbetreiber nach Paragraf 66 ERegG in Bundesnetzagentur-Verfahren geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
+description: "Für Beschwerde eines EVU gegen den Infrastrukturbetreiber nach Paragraf 66 ERegG: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Beschwerde eines EVU gegen den Infrastrukturbetreiber nach § 66 ERegG

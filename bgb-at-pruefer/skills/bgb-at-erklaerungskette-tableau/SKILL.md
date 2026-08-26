@@ -1,6 +1,6 @@
 ---
 name: bgb-at-erklaerungskette-tableau
-description: "Wenn es um BGB-AT-Erklärungskette als Tableau in BGB AT Prüfer geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
+description: "Für BGB-AT-Erklärungskette als Tableau: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # BGB-AT-Erklärungskette als Tableau

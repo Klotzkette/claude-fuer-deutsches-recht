@@ -1,6 +1,6 @@
 ---
 name: aa-ausfuhrkontrolle
-description: "Wenn es um Ausfuhrkontrolle und Aussenwirtschaftsdimension (AA) in Legistik-Werkstatt geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten. Auswahlstichwort: Aa Ausfuhrkontrolle; Arbeitsfeld: Legistik-Werkstatt."
+description: "Für Ausfuhrkontrolle und Außenwirtschaftsdimension (AA): prüft Ergebnis, Beweislast und Gegenposition; Ergebnis: Gegenprüfung mit Beweis- und Fristencheck. Fachgebiet: Legistik-Werkstatt. Route: aa-ausfuhrkontrolle."
 ---
 
 # Ausfuhrkontrolle und Aussenwirtschaftsdimension (AA)

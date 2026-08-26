@@ -1,6 +1,6 @@
 ---
 name: mandat-aus-krypto-transaktionen-rechtsprechungscheck
-description: "Wenn es um Mandat Aus Krypto Transaktionen Rechtsprechungscheck in Berufsrecht Steuerberater geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Gegenprüfung mit Fehler-, Beweis- und Fristencheck."
+description: "Für Mandat aus Krypto Transaktionen Rechtsprechungscheck: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Steuerberater: mandat aus krypto transaktionen - Rechtsprechungscheck, stärkste Gegenansicht und Red-Team-Korrektur

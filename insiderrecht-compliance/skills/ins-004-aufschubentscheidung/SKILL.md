@@ -1,6 +1,6 @@
 ---
 name: ins-004-aufschubentscheidung
-description: "Wenn es um Aufschubentscheidung in Insiderrecht Compliance geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Aufschubentscheidung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Aufschubentscheidung

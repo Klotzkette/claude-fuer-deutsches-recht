@@ -1,6 +1,6 @@
 ---
 name: output-dossier
-description: "Wenn es um Compliance-Dossier für BaFin-Anfragen und Verteidigung in Insiderrecht Compliance geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
+description: "Für Compliance-Dossier für BaFin-Anfragen und Verteidigung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Compliance-Dossier für BaFin-Anfragen und Verteidigung

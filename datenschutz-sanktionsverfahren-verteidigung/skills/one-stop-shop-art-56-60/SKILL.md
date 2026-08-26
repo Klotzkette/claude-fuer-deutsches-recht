@@ -1,6 +1,6 @@
 ---
 name: one-stop-shop-art-56-60
-description: "Wenn es um One-Stop-Shop Art. 56 und 60 in Datenschutz-Sanktionsverfahren und Verteidigung geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
+description: "Für One-Stop-Shop Art. 56 und 60: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # One-Stop-Shop Art. 56 und 60

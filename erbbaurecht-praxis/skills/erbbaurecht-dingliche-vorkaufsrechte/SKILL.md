@@ -1,6 +1,6 @@
 ---
 name: erbbaurecht-dingliche-vorkaufsrechte
-description: "Wenn es um Vorkaufsrechte im Erbbaurecht in Erbbaurecht Praxis geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Vorkaufsrechte im Erbbaurecht: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Vorkaufsrechte im Erbbaurecht

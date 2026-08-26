@@ -1,6 +1,6 @@
 ---
 name: beschwerde-verbraucher-unternehmen-verband
-description: "Wenn es um Beschwerde bei der Bundesnetzagentur: Verbraucher, Unternehmen, Verband in Bundesnetzagentur-Verfahren geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Beschwerde bei der Bundesnetzagentur: Verbraucher, Unternehmen, Verband: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Beschwerde bei der Bundesnetzagentur: Verbraucher, Unternehmen, Verband

@@ -1,6 +1,6 @@
 ---
 name: geheimniskategorien-crown-jewels
-description: "Wenn es um Geheimniskategorien Crown Jewels in NDA-Generator und Verschwiegenheitsvereinbarungs-Checker geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
+description: "Für Geheimniskategorien Crown Jewels: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Geheimniskategorien Crown Jewels

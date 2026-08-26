@@ -1,6 +1,6 @@
 ---
 name: codicilli-und-nachtragliche-erbverfuegungen
-description: "Wenn es um Rom 148 Codicilli Und Nachtragliche Erbverfuegungen in Römisches Recht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. Auswahlstichwort: Codicilli Und Nachtragliche Erbverfuegungen; Arbeitsfeld: Römisches Recht."
+description: "Für Rom 148 Codicilli und Nachtragliche Erbverfügungen: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt. Fachgebiet: Römisches Recht. Route: codicilli-und-nachtragliche-erbverfuegungen."
 ---
 
 # Rom 148 Codicilli Und Nachtragliche Erbverfuegungen

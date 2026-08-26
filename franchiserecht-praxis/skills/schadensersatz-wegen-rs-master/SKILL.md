@@ -1,6 +1,6 @@
 ---
 name: schadensersatz-wegen-rs-master
-description: "Wenn es um Franchiserecht: Schadensersatz wegen Falschaufklärung in Franchiserecht Praxis geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
+description: "Für Franchiserecht: Schadensersatz wegen Falschaufklärung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Franchiserecht: Schadensersatz wegen Falschaufklärung

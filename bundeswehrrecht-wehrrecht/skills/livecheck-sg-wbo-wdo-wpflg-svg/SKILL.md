@@ -1,6 +1,6 @@
 ---
 name: livecheck-sg-wbo-wdo-wpflg-svg
-description: "Wenn es um Livecheck SG WBO WDO WPflG SVG in Bundeswehrrecht und Wehrrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Livecheck SG WBO WDO WPflG SVG: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Livecheck SG WBO WDO WPflG SVG

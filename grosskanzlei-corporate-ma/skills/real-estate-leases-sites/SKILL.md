@@ -1,6 +1,6 @@
 ---
 name: real-estate-leases-sites
-description: "Wenn es um Real Estate Leases Sites in Großkanzlei Corporate/M&A geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Real Estate Leases Sites: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt. Fachgebiet: Großkanzlei Corporate/M&A. Route: real-estate-leases-sites."
 ---
 
 # Real Estate, Leases und Sites Due Diligence: prüft Grundstuecke, Mietvertraege, Belastungen, Genehmigungen, Umwelt, Change-of-Control und Standortkritikalitaet.

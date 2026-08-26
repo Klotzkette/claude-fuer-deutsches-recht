@@ -1,6 +1,6 @@
 ---
 name: abteilung-iii-grundschuld-hypothek-rang
-description: "Wenn es um Abteilung III Belastungen in Grundbuchamt Praxis geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
+description: "Für Abteilung III Belastungen: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Abteilung III Belastungen

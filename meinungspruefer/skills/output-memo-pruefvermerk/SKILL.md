@@ -1,6 +1,6 @@
 ---
 name: output-memo-pruefvermerk
-description: "Wenn es um Output: Memo und Prüfvermerk in Meinungsprüfer geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Output: Memo und Prüfvermerk: erstellt Entwurf mit Antrag, Beweis und Anlagen; Ergebnis: Schriftsatz mit Begründungs- und Anlagenlogik."
 ---
 
 # Output: Memo und Prüfvermerk

@@ -1,6 +1,6 @@
 ---
 name: intake-dokumentenmatrix-und-lueckenliste
-description: "Wenn es um Intake: Dokumentenmatrix, Lückenliste und Nachforderung in Insolvenzplan- und StaRUG-Planwerkstatt geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Dokumentenmatrix mit Nachforderungsliste."
+description: "Für Intake: Dokumentenmatrix, Lückenliste und Nachforderung: ordnet Akte, Belege und Lücken; Ergebnis: Dokumentenmatrix mit Nachforderungsliste."
 ---
 
 # Intake: Dokumentenmatrix, Lückenliste und Nachforderung

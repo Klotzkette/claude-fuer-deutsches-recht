@@ -1,6 +1,6 @@
 ---
 name: mandat-arbeitsbereich-gesr-corporate
-description: "Wenn es um Mandats-Workspace in Gesellschaftsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Mandats-Workspace: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Mandats-Workspace

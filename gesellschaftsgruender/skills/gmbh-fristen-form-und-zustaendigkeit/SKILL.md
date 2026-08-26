@@ -1,6 +1,6 @@
 ---
 name: gmbh-fristen-form-und-zustaendigkeit
-description: "Wenn es um GmbH: Fristen, Form, Zuständigkeit und Rechtsweg in gesellschaftsgründer — Gründungsassistent für deutsche geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für GmbH: Fristen, Form, Zuständigkeit und Rechtsweg: prüft Frist, Form, Zuständigkeit und Eilbedarf; Ergebnis: Fristen- und Risikoampel."
 ---
 
 # GmbH: Fristen, Form, Zuständigkeit und Rechtsweg

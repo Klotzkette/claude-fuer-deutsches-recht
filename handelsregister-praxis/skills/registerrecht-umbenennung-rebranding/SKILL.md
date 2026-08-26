@@ -1,6 +1,6 @@
 ---
 name: registerrecht-umbenennung-rebranding
-description: "Wenn es um Rebranding im Register in Handelsregister Praxis geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Rebranding im Register: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Einreichungsplan mit Form- und Nachweischeck."
 ---
 
 # Rebranding im Register

@@ -1,6 +1,6 @@
 ---
 name: schwerwiegender-vorfall-art-73-playbook
-description: "Wenn es um Schwerwiegender Vorfall — Art. 73 Playbook in europäischem Technikregulierungsrecht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
+description: "Für Schwerwiegender Vorfall — Art. 73 Playbook: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Schwerwiegender Vorfall — Art. 73 Playbook

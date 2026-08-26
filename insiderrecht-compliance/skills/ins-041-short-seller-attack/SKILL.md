@@ -1,6 +1,6 @@
 ---
 name: ins-041-short-seller-attack
-description: "Wenn es um Insiderrecht: Short Seller Attack in Insiderrecht Compliance geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Beweislast- und Substantiierungsmatrix."
+description: "Für Insiderrecht: Short Seller Attack: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Insiderrecht: Short Seller Attack

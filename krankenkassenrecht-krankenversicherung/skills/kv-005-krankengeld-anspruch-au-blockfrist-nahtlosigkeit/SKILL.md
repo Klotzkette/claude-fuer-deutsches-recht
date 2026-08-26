@@ -1,6 +1,6 @@
 ---
 name: kv-005-krankengeld-anspruch-au-blockfrist-nahtlosigkeit
-description: "Wenn es um Krankenversicherung: Krankengeld Anspruch Arbeitsunfähigkeit Blockfrist Nahtlosigkeit in Krankenkassenrecht und Krankenversicherung geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Krankenversicherung: Krankengeld Anspruch Arbeitsunfähigkeit Blockfrist Nahtlosigkeit: prüft Frist, Form, Zuständigkeit und Eilbedarf; Ergebnis: Fristen- und Risikoampel."
 ---
 
 # Krankenversicherung: Krankengeld Anspruch Arbeitsunfähigkeit Blockfrist Nahtlosigkeit

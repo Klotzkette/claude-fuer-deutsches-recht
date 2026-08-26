@@ -1,6 +1,6 @@
 ---
 name: gewr-geschaeftsgeheimnisgesetz
-description: "Wenn es um GewR: Geschäftsgeheimnisgesetz (GeschGehG) – Spezial in Plugin: Gewerblicher Rechtsschutz geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
+description: "Für GewR: Geschäftsgeheimnisgesetz (GeschGehG) – Spezial: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # GewR: Geschäftsgeheimnisgesetz (GeschGehG) – Spezial

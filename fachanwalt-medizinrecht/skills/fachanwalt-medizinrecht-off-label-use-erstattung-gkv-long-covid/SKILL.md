@@ -1,6 +1,6 @@
 ---
 name: fachanwalt-medizinrecht-off-label-use-erstattung-gkv-long-covid
-description: "Wenn es um Off-Label-Use Erstattung GKV — Long-COVID / ME/CFS in Fachanwalt Medizinrecht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
+description: "Für Off-Label-Use Erstattung GKV — Long-COVID / ME/CFS: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Off-Label-Use Erstattung GKV — Long-COVID / ME/CFS

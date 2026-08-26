@@ -1,6 +1,6 @@
 ---
 name: ip-rechte-software-und-erfindungen
-description: "Wenn es um IP Rechte Software Und Erfindungen in Start-up-HR-Personalabteilung Berlin geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für IP Rechte Software und Erfindungen: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # IP Rechte Software Und Erfindungen

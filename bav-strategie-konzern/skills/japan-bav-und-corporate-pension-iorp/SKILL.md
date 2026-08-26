@@ -1,6 +1,6 @@
 ---
 name: japan-bav-und-corporate-pension-iorp
-description: "Wenn es um Japan BAV und Corporate Pension — Deutsch-Japanische Perspektive in BAV Strategie Konzern — Treuenfels Yamamoto Rechtsanwälte geht: entwickelt Verhandlungsziel, Vergleichskorridor und Eskalationspfad; liefert eine Verhandlungs- oder Eskalationslinie mit Optionen."
+description: "Für Japan BAV und Corporate Pension — Deutsch-Japanische Perspektive: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Japan BAV und Corporate Pension — Deutsch-Japanische Perspektive

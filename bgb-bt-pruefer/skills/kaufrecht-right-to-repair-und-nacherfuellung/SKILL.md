@@ -1,6 +1,6 @@
 ---
 name: kaufrecht-right-to-repair-und-nacherfuellung
-description: "Wenn es um Kaufrecht: Right to Repair und Nacherfüllung in BGB BT Prüfer geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. Auswahlstichwort: Kaufrecht Right To Repair Und Nacherfuellung; Arbeitsfeld: BGB BT Prüfer."
+description: "Für Kaufrecht: Right to Repair und Nacherfüllung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt. Fachgebiet: BGB BT Prüfer. Route: kaufrecht-right-to-repair-und-nacherfuellung."
 ---
 
 # Kaufrecht: Right to Repair und Nacherfüllung

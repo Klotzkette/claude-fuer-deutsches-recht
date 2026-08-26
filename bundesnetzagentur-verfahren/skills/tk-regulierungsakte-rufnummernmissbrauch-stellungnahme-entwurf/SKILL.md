@@ -1,6 +1,6 @@
 ---
 name: tk-regulierungsakte-rufnummernmissbrauch-stellungnahme-entwurf
-description: "Wenn es um TK-Regulierungsakte: Rufnummernmissbrauch — Stellungnahme-Entwurf in Bundesnetzagentur-Verfahren geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
+description: "Für TK-Regulierungsakte: Rufnummernmissbrauch — Stellungnahme-Entwurf: ordnet Akte, Belege und Lücken; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # TK-Regulierungsakte: Rufnummernmissbrauch — Stellungnahme-Entwurf

@@ -1,6 +1,6 @@
 ---
 name: subunternehmer-regelung-tom-zertifizierungen
-description: "Wenn es um Subunternehmer-Regelung prüfen in diesem Spezialbereich geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Beweislast- und Substantiierungsmatrix Stichwort für die Auswahl: Subunternehmer Regelung Tom Zertifizierungen."
+description: "Für Subunternehmer-Regelung prüfen: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt. Fachgebiet: anwaltlichem Berufsrecht und Vertragsprüfung. Route: subunternehmer-regelung-tom-zertifizierungen."
 ---
 
 # Subunternehmer-Regelung prüfen

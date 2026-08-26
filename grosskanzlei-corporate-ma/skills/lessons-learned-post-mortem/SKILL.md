@@ -1,6 +1,6 @@
 ---
 name: lessons-learned-post-mortem
-description: "Wenn es um Lessons Learned Post Mortem in Großkanzlei Corporate/M&A geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Lessons Learned Post Mortem: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt. Fachgebiet: Großkanzlei Corporate/M&A. Route: lessons-learned-post-mortem."
 ---
 
 # Lessons Learned und Deal Post-Mortem Skill: analysiert abgeschlossene Deals, Fehler, Prozessbremsen, gute Klauseln, Knowledge-Management und Playbook-Updates.

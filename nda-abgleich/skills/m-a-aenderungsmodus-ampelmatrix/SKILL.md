@@ -1,6 +1,6 @@
 ---
 name: m-a-aenderungsmodus-ampelmatrix
-description: "Wenn es um NDA für M&A-Data-Room in NDA-Abgleich geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. Auswahlstichwort: M A Aenderungsmodus Ampelmatrix; Arbeitsfeld: NDA-Abgleich."
+description: "Für NDA für M&A-Data-Room: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt. Fachgebiet: NDA-Abgleich. Route: m-a-aenderungsmodus-ampelmatrix."
 ---
 
 # NDA für M&A-Data-Room

@@ -1,6 +1,6 @@
 ---
 name: konzern-und-organschaft-spezial
-description: "Wenn es um FZ: Konzern und Organschaft in Forschungszulage-Antragstellung geht: entwickelt Verhandlungsziel, Vergleichskorridor und Eskalationspfad; liefert eine Verhandlungs- oder Eskalationslinie mit Optionen."
+description: "Für FZ: Konzern und Organschaft: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # FZ: Konzern und Organschaft

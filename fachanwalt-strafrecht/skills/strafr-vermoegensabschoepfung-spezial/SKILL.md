@@ -1,6 +1,6 @@
 ---
 name: strafr-vermoegensabschoepfung-spezial
-description: "Wenn es um Strafr Vermoegensabschoepfung Spezial in Fachanwalt Strafrecht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen."
+description: "Für Strafr Vermögensabschöpfung Spezial: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Spezialfall Vermögensabschoepfung §§ 73 ff

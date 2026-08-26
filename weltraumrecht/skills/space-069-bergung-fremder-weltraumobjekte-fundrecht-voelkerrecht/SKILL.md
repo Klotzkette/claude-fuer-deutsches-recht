@@ -1,6 +1,6 @@
 ---
 name: space-069-bergung-fremder-weltraumobjekte-fundrecht-voelkerrecht
-description: "Wenn es um Weltraumrecht: Bergung fremder Weltraumgegenstände Fundrecht und Völkerrecht in Weltraumrecht geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Weltraumrecht: Bergung fremder Weltraumgegenstände Fundrecht und Völkerrecht: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Weltraumrecht: Bergung fremder Weltraumgegenstände Fundrecht und Völkerrecht

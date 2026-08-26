@@ -1,6 +1,6 @@
 ---
 name: brand-und-markenportfolio
-description: "Wenn es um Brand Und Markenportfolio in fashion-law-moderecht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen."
+description: "Für Brand und Markenportfolio: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Brand Und Markenportfolio

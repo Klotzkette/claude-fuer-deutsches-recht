@@ -1,6 +1,6 @@
 ---
 name: verl-025-verlagsinsolvenz-rechte-rueckfall-und-lagerbestand
-description: "Wenn es um Verlagsrecht: Verlagsinsolvenz Rechte Rückfall und Lagerbestand in Verlagsrecht und Buchpreisbindung geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Verlagsrecht: Verlagsinsolvenz Rechte Rückfall und Lagerbestand: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Verlagsrecht: Verlagsinsolvenz Rechte Rückfall und Lagerbestand

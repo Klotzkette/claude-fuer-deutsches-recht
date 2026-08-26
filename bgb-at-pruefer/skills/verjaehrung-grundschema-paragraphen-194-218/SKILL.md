@@ -1,6 +1,6 @@
 ---
 name: verjaehrung-grundschema-paragraphen-194-218
-description: "Wenn es um Verjährung — Grundschema Paragrafen 194 bis 218 BGB in BGB AT Prüfer geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Verjährung — Grundschema Paragrafen 194 bis 218 BGB: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Verjährung — Grundschema §§ 194 bis 218 BGB

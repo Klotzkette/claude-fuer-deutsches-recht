@@ -1,6 +1,6 @@
 ---
 name: dashboard-pricing-realization
-description: "Wenn es um Pricing Realization Dashboard in Kanzlei Management geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Pricing Realization Dashboard: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Pricing Realization Dashboard

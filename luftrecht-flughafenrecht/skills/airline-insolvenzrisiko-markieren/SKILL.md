@@ -1,6 +1,6 @@
 ---
 name: airline-insolvenzrisiko-markieren
-description: "Wenn es um Airline – Insolvenzrisiko markieren in Luftrecht und Flughafenrecht geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Airline – Insolvenzrisiko markieren: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Airline – Insolvenzrisiko markieren

@@ -1,6 +1,6 @@
 ---
 name: 19-nebenentscheidungen-kosten-vorlaeufige-vollstreckbarkeit
-description: "Wenn es um 19 Nebenentscheidungen Kosten Vorläufige Vollstreckbarkeit in Relationstechnik Zivilrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für 19 Nebenentscheidungen Kosten Vorläufige Vollstreckbarkeit: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Schnittstellenkarte mit Zuständigkeits- und Nachweisfragen."
 ---
 
 # 19 Nebenentscheidungen Kosten Vorläufige Vollstreckbarkeit

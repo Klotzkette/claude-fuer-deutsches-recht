@@ -1,6 +1,6 @@
 ---
 name: forderung-an-db-erste-stufe
-description: "Wenn es um Forderungsschreiben — Erste Stufe in Fahrgastrechte geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Forderungsschreiben — Erste Stufe: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Forderungsschreiben — Erste Stufe

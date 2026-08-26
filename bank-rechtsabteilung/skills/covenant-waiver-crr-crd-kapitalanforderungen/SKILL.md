@@ -1,6 +1,6 @@
 ---
 name: covenant-waiver-crr-crd-kapitalanforderungen
-description: "Wenn es um Covenant Waiver in Bank-Rechtsabteilung geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
+description: "Für Covenant Waiver: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Covenant Waiver

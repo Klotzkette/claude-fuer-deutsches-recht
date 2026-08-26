@@ -1,6 +1,6 @@
 ---
 name: nachhaltigkeit-klimacheck-vereinbarkeit
-description: "Wenn es um NKR-Nachhaltigkeit, Klimacheck und Vereinbarkeit in Normenkontrollrat (NKR) — Prüfung von Gesetzentwuerfen geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. Auswahlstichwort: Nachhaltigkeit Klimacheck Vereinbarkeit; Arbeitsfeld: Normenkontrollrat (NKR) — Prüfung von Gesetzentwuerfen."
+description: "Für NKR-Nachhaltigkeit, Klimacheck und Vereinbarkeit: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt. Fachgebiet: Normenkontrollrat (NKR) — Prüfung von Gesetzentwürfen. Route: nachhaltigkeit-klimacheck-vereinbarkeit."
 ---
 
 # NKR-Nachhaltigkeit, Klimacheck und Vereinbarkeit

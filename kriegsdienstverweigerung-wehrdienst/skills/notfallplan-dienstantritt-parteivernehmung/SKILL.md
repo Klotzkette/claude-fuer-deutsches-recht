@@ -1,6 +1,6 @@
 ---
 name: notfallplan-dienstantritt-parteivernehmung
-description: "Wenn es um Notfallplan Dienstantritt in Kriegsdienstverweigerung und Wehrdienst geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Notfallplan Dienstantritt: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Notfallplan Dienstantritt

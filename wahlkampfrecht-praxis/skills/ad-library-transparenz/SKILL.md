@@ -1,6 +1,6 @@
 ---
 name: ad-library-transparenz
-description: "Wenn es um Ad Library Transparenz in Wahlkampfrecht Praxis geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Ad Library Transparenz: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Ad Library Transparenz

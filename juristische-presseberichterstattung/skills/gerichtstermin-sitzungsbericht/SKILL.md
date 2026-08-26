@@ -1,6 +1,6 @@
 ---
 name: gerichtstermin-sitzungsbericht
-description: "Wenn es um Gerichtstermin Sitzungsbericht in Juristische Presseberichterstattung geht: erstellt aus Terminsnotizen einen präzisen Gerichtsbericht mit Rollen, Anträgen, Beweisaufnahme, Zitaten und nächstem Termin."
+description: "Für Gerichtstermin Sitzungsbericht: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Gerichtstermin Sitzungsbericht

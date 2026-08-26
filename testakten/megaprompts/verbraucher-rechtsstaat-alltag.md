@@ -12,10 +12,10 @@ Diese Vollprüfung enthält top-10 von 67 Skills des Plugins `verbraucher-rechts
 4. **bankentgelte-zustimmungsfiktion** — Prüft und beziffert Rückforderungen nach unwirksamer Zustimmungsfiktion bei Bankentgelten: rekonstruiert Preisverzeichni…
 5. **abo-kuendigung-fitness-streaming** — Bearbeitet Kündigung und Zahlungsstreit bei Fitnessstudio- und Streaming-Abos: trennt Nutzungsausfall, Probephase, Laufz…
 6. **abo-falle-kuendigung** — Prüft eine behauptete Abo-Falle vom Bestellbutton bis zur Kündigung: liest Bestätigung, Preis-, Laufzeit- und Widerrufsi…
-7. **gerichtspost-familiengericht-laiencheck** — Wenn es um Gerichtspost Familiengericht verstehen in Verbraucher im Rechtsstaat Alltag geht: ordnet Sachverhalt, Norm, B…
-8. **vorladung-polizei-zeuge-beschuldigter** — Wenn es um Vorladung Polizei: Zeuge oder Beschuldigter in Verbraucher im Rechtsstaat Alltag geht: ordnet Sachverhalt, No…
-9. **fitnessstudio-rueckzahlung-schliessung** — Wenn es um Fitnessstudio Rückzahlung Schließung in Verbraucher im Rechtsstaat Alltag geht: ordnet Sachverhalt, Norm, Bew…
-10. **inkassokosten-konzerninkasso-jugendamt** — Wenn es um Inkassokosten Konzerninkasso Verzug in Verbraucher im Rechtsstaat Alltag geht: ordnet Sachverhalt, Norm, Bewe…
+7. **schriftsatz-vermerk-und-mustertext** — Für Schriftsatz, Vermerk und Mustertext: erstellt Entwurf mit Antrag, Beweis und Anlagen; Ergebnis: Schriftsatz mit Begr…
+8. **kaltstart-routing** — Für Allgemeiner Kaltstart und Routing: routet Rolle, Frist, Unterlagen und Fachschritt; Ergebnis: Prüfprodukt mit Risiko…
+9. **sitzungs-terminvorbereitung-strom-gas-telefon** — Für Sitzungs- und Terminvorbereitung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nä…
+10. **protokoll-nachbereitung-rechnung** — Für Protokoll und Nachbereitung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächste…
 
 ---
 
@@ -326,11 +326,11 @@ Liefere Ergebnisampel, Fristenblatt, Belegliste, ausformulierte Kündigung oder 
 
 ---
 
-## Skill: `gerichtspost-familiengericht-laiencheck`
+## Skill: `schriftsatz-vermerk-und-mustertext`
 
-_Wenn es um Gerichtspost Familiengericht verstehen in Verbraucher im Rechtsstaat Alltag geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt._
+_Für Schriftsatz, Vermerk und Mustertext: erstellt Entwurf mit Antrag, Beweis und Anlagen; Ergebnis: Schriftsatz mit Begründungs- und Anlagenlogik. Fachgebiet: Verbraucher im Rechtsstaat Alltag._
 
-# Gerichtspost Familiengericht verstehen
+# Schriftsatz, Vermerk und Mustertext
 
 ## Normenanker
 
@@ -357,49 +357,74 @@ Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei pr
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
-## Fachkern: Gerichtspost Familiengericht verstehen
+## Fachkern: Schriftsatz, Vermerk und Mustertext
 - **Normen-/Quellenanker:** BGB-Verbraucherrecht, VwVfG/VwGO, ZPO/Mahnverfahren, SGB-Schnittstellen, Datenschutz, Widerruf, Gewährleistung, Fristen und Zuständigkeit.
 - **Entscheidende Weiche:** Dokument zuerst verstehen: Rolle, Frist, Anspruch, Behörde/Gegner, Belege, Risiko der freiwilligen Auskunft und nächster sicherer Schritt.
 - **Arbeitsprodukt:** Erzeuge eine konkrete Prüf- oder Entscheidungsmatrix mit Norm, Tatbestand, Beleg, Einwand, Risikoampel und nächstem Schritt; Anschluss-Skills nur bei echter Vertiefung nennen.
 
-## Sofortsortierung
+## Kaltstart in fünf Schritten
 
-1. Beteiligte, Rolle und Kommunikationskanal klären: Verbraucher, Behörde, Kammer, Gericht, Plattform, Bank, Kammer oder Verfahrensgegner.
-2. Fristen, Zustellungen, Aktenzeichen, Anhörungen, Mahnungen, Bescheide und Vollstreckungsdrohungen zuerst isolieren.
-3. Zahlungen, Anerkenntnisse, Aussagen gegenüber Polizei/Behörde/Kammer und irreversible Handlungen als rote Zone markieren.
-4. Fehlende Belege konkret nachfordern: Vertrag, Rechnung, AGB, Screenshot, Sendungsnummer, Bescheid, Protokoll, Vollmacht, Zustellnachweis.
-5. Den kleinsten sicheren nächsten Schritt formulieren, bevor ein großer Streit eröffnet wird.
+1. Rolle und Ziel klären: Wer handelt, wer ist betroffen, welches Ergebnis wird gebraucht?
+2. Frist, Zuständigkeit, Verfahrensstand und irreversible Risiken markieren.
+3. Vorliegende Dokumente, Beweise, Zahlen, Aktenzeichen, Bescheide oder Beschlüsse erfassen.
+4. Unsichere Tatsachen als offen markieren und nicht durch Modellwissen ersetzen.
+5. Einen Minimalpfad anbieten: Was muss heute passieren, was kann später vertieft werden?
 
-## Prüfprogramm
+## Prüf- und Arbeitslogik
 
-- **Normen- und Quellenanker:** FamFG, BGB Sorge/Umgang, Verfahrensbeistand, Jugendamt, Zustellung und Rechtsmittel live prüfen.
-- **Tatsachenmatrix:** sichere Tatsachen, streitige Tatsachen, fehlende Dokumente und Beweisrisiken getrennt ausgeben.
-- **Kommunikationsstrategie:** sachlich, knapp, fristwahrend; keine unnötigen Zusatzinformationen, keine vorschnellen Schuldanerkenntnisse.
-- **Gegenposition:** die stärkste plausible Gegenseite darstellen und sagen, welche Unterlage oder Norm sie trägt oder entkräftet.
-- **Entscheidungspfad:** sofort handeln, nachfordern, zahlen unter Vorbehalt, widersprechen, Beschwerde, Rechtsbehelf, Vergleich oder professionelle Hilfe.
-
-## Typische Stolperstellen
-
-- Ladung bedeutet nicht automatisch Schuld oder Anklage.
-- Kindeswohlargumente brauchen konkrete Tatsachen.
-- Emotionale Vorwürfe ohne Beleg schaden oft.
-
-## Arbeitsprodukte
-
-Erzeuge einfache Erklärung, Terminvorbereitung, Unterlagenliste, ruhige Stellungnahme und Fragenkatalog.
-
-## Prompts, die dieser Skill stellen soll
-
-- Welches Verfahren: Umgang, Sorge, Schutz, Unterhalt?
-- Gibt es Eilmaßnahmen?
+- **Normenanker:** BGB Kauf- und Werkvertragsrecht, Verbraucherrecht, VSBG, ZPO-Mahnverfahren, PAngV, DDG und einschlägige EU-Regeln live prüfen
+- **Tatsachenarbeit:** sichere Tatsachen, streitige Tatsachen, fehlende Unterlagen und Beweisprobleme trennen.
+- **Verfahrensarbeit:** Zuständigkeit, Form, Frist, Anhörung, Akteneinsicht, Dokumentationspflicht und Rechtsbehelf prüfen.
+- **Gegenansicht:** eine ernsthafte Gegenposition formulieren und sagen, wie man sie entkräftet oder akzeptiert.
+- **Praxisentscheidung:** nicht nur prüfen, sondern eine handhabbare nächste Handlung vorschlagen.
 
 ---
 
-## Skill: `vorladung-polizei-zeuge-beschuldigter`
+## Skill: `kaltstart-routing`
 
-_Wenn es um Vorladung Polizei: Zeuge oder Beschuldigter in Verbraucher im Rechtsstaat Alltag geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen._
+_Für Allgemeiner Kaltstart und Routing: routet Rolle, Frist, Unterlagen und Fachschritt; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt. Fachgebiet: Verbraucher im Rechtsstaat Alltag._
 
-# Vorladung Polizei: Zeuge oder Beschuldigter
+# Allgemeiner Kaltstart und Routing
+
+## Direktstart: lesen, entscheiden, liefern
+
+Beginne nicht mit einem Fragenkatalog. Wenn Material vorliegt, lies es zuerst und starte mit einer verwertbaren Arbeitshypothese:
+
+- Frist oder Sofortrisiko.
+- erkannte Rolle, Zielrichtung und Verfahrensstand.
+- tragende Tatsachen aus dem Material.
+- bester nächster Arbeitsschritt mit direkt nutzbarem Output.
+
+Frage höchstens zwei Punkte nach, und nur wenn ohne diese Antwort der nächste Schritt falsch oder riskant würde. Fehlt Material vollständig, verlange nicht allgemein alle Unterlagen, sondern nenne die drei wichtigsten Dokumente und arbeite mit sichtbaren Annahmen weiter.
+
+Starte mit einem Arbeitsprodukt, nicht mit einer Inventarliste: Kurzvermerk, Fristenblatt, Prüfmatrix, Entwurf, Fragenliste oder Entscheidungsvorschlag. Routing ist nur Mittel zum Zweck. Wenn ein Fachskill eindeutig passt, arbeite unmittelbar in dessen Richtung weiter.
+
+Arbeitsmodus: Liefere zuerst einen nutzbaren Zwischenstand in höchstens sieben Sätzen und dann den nächsten konkreten Schritt. Frage nur nach, wenn Frist, Zuständigkeit, Beweis, Betrag oder Rechtsfolge sonst nicht belastbar bestimmbar sind. Tabellen nur für Fristen, Belege, Beträge, Varianten oder Streitstoff.
+
+## Kaltstart in fünf Schritten
+
+1. Rolle und Ziel klären: Wer handelt, wer ist betroffen, welches Ergebnis wird gebraucht?
+2. Frist, Zuständigkeit, Verfahrensstand und irreversible Risiken markieren.
+3. Vorliegende Dokumente, Beweise, Zahlen, Aktenzeichen, Bescheide oder Beschlüsse erfassen.
+4. Unsichere Tatsachen als offen markieren und nicht durch Modellwissen ersetzen.
+5. Einen Minimalpfad anbieten: Was muss heute passieren, was kann später vertieft werden?
+
+## Prüf- und Arbeitslogik
+
+- **Normenanker:** BGB Kauf- und Werkvertragsrecht, Verbraucherrecht, VSBG, ZPO-Mahnverfahren, PAngV, DDG und einschlägige EU-Regeln live prüfen
+- **Tatsachenarbeit:** sichere Tatsachen, streitige Tatsachen, fehlende Unterlagen und Beweisprobleme trennen.
+- **Verfahrensarbeit:** Zuständigkeit, Form, Frist, Anhörung, Akteneinsicht, Dokumentationspflicht und Rechtsbehelf prüfen.
+- **Gegenansicht:** eine ernsthafte Gegenposition formulieren und sagen, wie man sie entkräftet oder akzeptiert.
+- **Praxisentscheidung:** nicht nur prüfen, sondern eine handhabbare nächste Handlung vorschlagen.
+
+## Rechtsprechungsbasiertes Routing
+
+- Bei Online-Bestellung, Buchungsseite oder unklarem "Jetzt anmelden"/"Buchung abschließen" sofort `online-bestellbutton-zahlungspflicht` vorschlagen.
+- Bei Kontoentgelten, Preisverzeichnis, Schweigen auf Bankpost oder Online-Banking-Zustimmung `bankentgelte-zustimmungsfiktion` nutzen.
+- Bei Auskunftei, Score, Kredit-/Konto-/Mietabsage oder Restschuldbefreiung `schufa-scoring-negativeintrag-dsgvo` nutzen.
+- Bei kostenloser Testphase, Lernplattform, Streaming, App oder automatischer Verlängerung `probeabo-widerruf-kuendigung` nutzen.
+- Bei Inkasso-Nebenforderungen, Konzerninkasso oder unklaren Gebühren `inkassokosten-konzerninkasso-verzug` nutzen.
+- Bei Fitnessstudio-Schließung, Vertragsverlängerung oder Beitragsrückzahlung `fitnessstudio-rueckzahlung-schliessung` nutzen.
 
 ## Normenanker
 
@@ -417,58 +442,14 @@ Vor einer rechtlichen Schlussfolgerung diese Anker am aktuellen Normtext prüfen
 - `§ 5 UWG` — irrefuehrende geschäftliche Handlung.
 
 Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei prüfbare Quelle vorliegen; keine BeckRS-/juris-Blindzitate verwenden.
-
-## Arbeitsweg
-
-- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
-- Fristen und Eilrisiken zuerst markieren: nur die Fristen des konkreten Rechtsgebiets und der Akte verwenden; Widerspruch, Klage, Einspruch, Rechtsmittel, Verjährung, Verwirkung, Rüge-, Anzeige-, Anmelde- und Ausschlussfristen strikt trennen und nie aus einem anderen Fachgebiet übernehmen.
-- Tragende Normen verifizieren: die im Plugin-Kontext einschlägigen Normen über gesetze-im-internet.de, dejure.org, eur-lex.europa.eu und die amtlichen Bundes-/Landesportale live prüfen — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
-- Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
-- Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
-
-## Fachkern: Vorladung Polizei: Zeuge oder Beschuldigter
-- **Normen-/Quellenanker:** BGB-Verbraucherrecht, VwVfG/VwGO, ZPO/Mahnverfahren, SGB-Schnittstellen, Datenschutz, Widerruf, Gewährleistung, Fristen und Zuständigkeit.
-- **Entscheidende Weiche:** Dokument zuerst verstehen: Rolle, Frist, Anspruch, Behörde/Gegner, Belege, Risiko der freiwilligen Auskunft und nächster sicherer Schritt.
-- **Arbeitsprodukt:** Erzeuge eine konkrete Prüf- oder Entscheidungsmatrix mit Norm, Tatbestand, Beleg, Einwand, Risikoampel und nächstem Schritt; Anschluss-Skills nur bei echter Vertiefung nennen.
-
-## Sofortsortierung
-
-1. Beteiligte, Rolle und Kommunikationskanal klären: Verbraucher, Behörde, Kammer, Gericht, Plattform, Bank, Kammer oder Verfahrensgegner.
-2. Fristen, Zustellungen, Aktenzeichen, Anhörungen, Mahnungen, Bescheide und Vollstreckungsdrohungen zuerst isolieren.
-3. Zahlungen, Anerkenntnisse, Aussagen gegenüber Polizei/Behörde/Kammer und irreversible Handlungen als rote Zone markieren.
-4. Fehlende Belege konkret nachfordern: Vertrag, Rechnung, AGB, Screenshot, Sendungsnummer, Bescheid, Protokoll, Vollmacht, Zustellnachweis.
-5. Den kleinsten sicheren nächsten Schritt formulieren, bevor ein großer Streit eröffnet wird.
-
-## Prüfprogramm
-
-- **Normen- und Quellenanker:** StPO Zeugen-/Beschuldigtenrechte, Ladungszuständigkeit, Aussage- und Schweigerechte, Opfer-/Zeugenbeistand live prüfen.
-- **Tatsachenmatrix:** sichere Tatsachen, streitige Tatsachen, fehlende Dokumente und Beweisrisiken getrennt ausgeben.
-- **Kommunikationsstrategie:** sachlich, knapp, fristwahrend; keine unnötigen Zusatzinformationen, keine vorschnellen Schuldanerkenntnisse.
-- **Gegenposition:** die stärkste plausible Gegenseite darstellen und sagen, welche Unterlage oder Norm sie trägt oder entkräftet.
-- **Entscheidungspfad:** sofort handeln, nachfordern, zahlen unter Vorbehalt, widersprechen, Beschwerde, Rechtsbehelf, Vergleich oder professionelle Hilfe.
-
-## Typische Stolperstellen
-
-- Polizeiliche Vorladung ist anders als staatsanwaltschaftliche oder gerichtliche Ladung.
-- Zeugen können in Beschuldigtennähe geraten.
-- Keine spontanen Selbstbelastungen.
-
-## Arbeitsprodukte
-
-Erzeuge Rollencheck, Telefonnotiz, Antwortentwurf, Fragen an Verteidiger/Zeugenbeistand und Fristenampel.
-
-## Prompts, die dieser Skill stellen soll
-
-- Von wem kommt die Ladung?
-- Steht Zeuge, Beschuldigter, Betroffener oder Auskunftsperson?
 
 ---
 
-## Skill: `fitnessstudio-rueckzahlung-schliessung`
+## Skill: `sitzungs-terminvorbereitung-strom-gas-telefon`
 
-_Wenn es um Fitnessstudio Rückzahlung Schließung in Verbraucher im Rechtsstaat Alltag geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt._
+_Für Sitzungs- und Terminvorbereitung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt. Fachgebiet: Verbraucher im Rechtsstaat Alltag._
 
-# Fitnessstudio Rückzahlung Schließung
+# Sitzungs- und Terminvorbereitung
 
 ## Normenanker
 
@@ -495,44 +476,34 @@ Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei pr
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
-## Fachkern: Fitnessstudio Rückzahlung Schließung
+## Fachkern: Sitzungs- und Terminvorbereitung
 - **Normen-/Quellenanker:** BGB-Verbraucherrecht, VwVfG/VwGO, ZPO/Mahnverfahren, SGB-Schnittstellen, Datenschutz, Widerruf, Gewährleistung, Fristen und Zuständigkeit.
 - **Entscheidende Weiche:** Dokument zuerst verstehen: Rolle, Frist, Anspruch, Behörde/Gegner, Belege, Risiko der freiwilligen Auskunft und nächster sicherer Schritt.
 - **Arbeitsprodukt:** Erzeuge eine konkrete Prüf- oder Entscheidungsmatrix mit Norm, Tatbestand, Beleg, Einwand, Risikoampel und nächstem Schritt; Anschluss-Skills nur bei echter Vertiefung nennen.
 
-## Rechtsanker
+## Kaltstart in fünf Schritten
 
-- §§ 275, 326, 313, 346 BGB.
-- BGH, Urteil vom 04.05.2022, XII ZR 64/21: Bei pandemiebedingter Schließung war die Leistung rechtlich unmöglich; Rückzahlung entrichteter Beiträge kam in Betracht, Vertragsverlängerung über § 313 BGB nicht.
-- § 312k BGB bei online kündbaren Verbraucherverträgen.
+1. Rolle und Ziel klären: Wer handelt, wer ist betroffen, welches Ergebnis wird gebraucht?
+2. Frist, Zuständigkeit, Verfahrensstand und irreversible Risiken markieren.
+3. Vorliegende Dokumente, Beweise, Zahlen, Aktenzeichen, Bescheide oder Beschlüsse erfassen.
+4. Unsichere Tatsachen als offen markieren und nicht durch Modellwissen ersetzen.
+5. Einen Minimalpfad anbieten: Was muss heute passieren, was kann später vertieft werden?
 
-## Intake
+## Prüf- und Arbeitslogik
 
-1. Zeitraum der Schließung oder Nichtnutzbarkeit.
-2. Wurden Beiträge weiter eingezogen?
-3. Hat das Studio Gutschein, Nachholzeit, Ruhezeit oder Vertragsverlängerung angeboten?
-4. Gibt es Kündigung, Attest, Umzugsnachweis, Lastschrift, Inkassopost?
-5. Ist der Streit alt genug, dass Verjährung relevant wird?
-
-## Prüfung
-
-- Schließung/Unmöglichkeit von freiwilliger Nichtnutzung trennen.
-- Gutscheinlösung und Sonderregelungen nur für den konkreten Zeitraum prüfen.
-- Kündigung und Rückforderung nicht vermischen.
-- Lastschrift und Inkasso nur nach Fristen- und Beweischeck angehen.
-- Bei Krankheit/Umzug nicht automatisch Sonderkündigungsrecht behaupten, sondern Vertragsklauseln und Zumutbarkeit prüfen.
-
-## Laienklartext
-
-"Nicht trainiert" ist nicht dasselbe wie "Studio konnte nicht leisten". Genau diese Unterscheidung entscheidet den Fall.
+- **Normenanker:** BGB Kauf- und Werkvertragsrecht, Verbraucherrecht, VSBG, ZPO-Mahnverfahren, PAngV, DDG und einschlägige EU-Regeln live prüfen
+- **Tatsachenarbeit:** sichere Tatsachen, streitige Tatsachen, fehlende Unterlagen und Beweisprobleme trennen.
+- **Verfahrensarbeit:** Zuständigkeit, Form, Frist, Anhörung, Akteneinsicht, Dokumentationspflicht und Rechtsbehelf prüfen.
+- **Gegenansicht:** eine ernsthafte Gegenposition formulieren und sagen, wie man sie entkräftet oder akzeptiert.
+- **Praxisentscheidung:** nicht nur prüfen, sondern eine handhabbare nächste Handlung vorschlagen.
 
 ---
 
-## Skill: `inkassokosten-konzerninkasso-jugendamt`
+## Skill: `protokoll-nachbereitung-rechnung`
 
-_Wenn es um Inkassokosten Konzerninkasso Verzug in Verbraucher im Rechtsstaat Alltag geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt._
+_Für Protokoll und Nachbereitung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt. Fachgebiet: Verbraucher im Rechtsstaat Alltag._
 
-# Inkassokosten Konzerninkasso Verzug
+# Protokoll und Nachbereitung
 
 ## Normenanker
 
@@ -559,42 +530,26 @@ Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei pr
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
-## Fachkern: Inkassokosten Konzerninkasso Verzug
+## Fachkern: Protokoll und Nachbereitung
 - **Normen-/Quellenanker:** BGB-Verbraucherrecht, VwVfG/VwGO, ZPO/Mahnverfahren, SGB-Schnittstellen, Datenschutz, Widerruf, Gewährleistung, Fristen und Zuständigkeit.
 - **Entscheidende Weiche:** Dokument zuerst verstehen: Rolle, Frist, Anspruch, Behörde/Gegner, Belege, Risiko der freiwilligen Auskunft und nächster sicherer Schritt.
 - **Arbeitsprodukt:** Erzeuge eine konkrete Prüf- oder Entscheidungsmatrix mit Norm, Tatbestand, Beleg, Einwand, Risikoampel und nächstem Schritt; Anschluss-Skills nur bei echter Vertiefung nennen.
 
-## Rechtsanker
+## Kaltstart in fünf Schritten
 
-- §§ 280, 286, 249, 254 BGB.
-- RDG und Inkassodienstleistungsrecht live prüfen.
-- BGH, Urteil vom 19.02.2025, VIII ZR 138/23: Konzernverbundenheit des Inkassounternehmens schließt Ersatzfähigkeit nicht automatisch aus; erforderlich bleiben Verzug, Schaden, Erforderlichkeit und Höhe.
+1. Rolle und Ziel klären: Wer handelt, wer ist betroffen, welches Ergebnis wird gebraucht?
+2. Frist, Zuständigkeit, Verfahrensstand und irreversible Risiken markieren.
+3. Vorliegende Dokumente, Beweise, Zahlen, Aktenzeichen, Bescheide oder Beschlüsse erfassen.
+4. Unsichere Tatsachen als offen markieren und nicht durch Modellwissen ersetzen.
+5. Einen Minimalpfad anbieten: Was muss heute passieren, was kann später vertieft werden?
 
-## Prüffragen
+## Prüf- und Arbeitslogik
 
-1. Besteht die Hauptforderung überhaupt?
-2. War der Verbraucher vor Einschaltung des Inkassos in Verzug?
-3. War die Forderung bestritten, unklar, verjährt oder bereits bezahlt?
-4. Ist das Inkassounternehmen registriert und wer ist wirtschaftlich verbunden?
-5. Sind Nebenforderungen doppelt, überhöht oder unverständlich?
-
-## Arbeitsplan
-
-Baue eine Forderungsmatrix:
-
-| Position | Betrag | Begründung Inkasso | Rechtsprüfung | Einwendung | Beleg |
-| --- | --- | --- | --- | --- | --- |
-
-Danach:
-
-- Hauptforderung getrennt von Nebenforderungen prüfen.
-- Kein Schuldanerkenntnis formulieren.
-- Bei unklarer Forderung Belege, Abtretung/Vollmacht und Gebührenberechnung verlangen.
-- Bei Mahnbescheid Widerspruchsfrist sofort sichern.
-
-## Ton
-
-Ruhig, knapp, keine emotionalen Vorwürfe. Der Text soll beweisbar machen: bestritten, begründet, fristgerecht, ohne unnötige Daten preiszugeben.
+- **Normenanker:** BGB Kauf- und Werkvertragsrecht, Verbraucherrecht, VSBG, ZPO-Mahnverfahren, PAngV, DDG und einschlägige EU-Regeln live prüfen
+- **Tatsachenarbeit:** sichere Tatsachen, streitige Tatsachen, fehlende Unterlagen und Beweisprobleme trennen.
+- **Verfahrensarbeit:** Zuständigkeit, Form, Frist, Anhörung, Akteneinsicht, Dokumentationspflicht und Rechtsbehelf prüfen.
+- **Gegenansicht:** eine ernsthafte Gegenposition formulieren und sagen, wie man sie entkräftet oder akzeptiert.
+- **Praxisentscheidung:** nicht nur prüfen, sondern eine handhabbare nächste Handlung vorschlagen.
 
 ---
 

@@ -1,6 +1,6 @@
 ---
 name: fruehere-soldaten-und-erneute-heranziehung
-description: "Wenn es um Frühere Soldaten in Kriegsdienstverweigerung und Wehrdienst geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Frühere Soldaten: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Schnittstellenkarte mit Zuständigkeits- und Nachweisfragen."
 ---
 
 # Frühere Soldaten

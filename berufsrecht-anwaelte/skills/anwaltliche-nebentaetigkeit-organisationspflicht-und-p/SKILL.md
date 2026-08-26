@@ -1,6 +1,6 @@
 ---
 name: anwaltliche-nebentaetigkeit-organisationspflicht-und-p
-description: "Wenn es um Anwaltliche Nebentaetigkeit Organisationspflicht Und P in Berufsrecht Anwälte geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Anwaltliche Nebentätigkeit Organisationspflicht und P: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Anwälte: anwaltliche nebentaetigkeit - Organisationspflichten, Prävention, Team-Anweisung und Fristenkontrolle

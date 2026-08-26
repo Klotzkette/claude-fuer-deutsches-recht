@@ -1,6 +1,6 @@
 ---
 name: informationszugang-beliehenen-parlaments
-description: "Wenn es um Informationszugang Bei Beliehenen Priv in Informationsfreiheit und Presseauskunft geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
+description: "Für Informationszugang bei Beliehenen Priv: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Informationszugang Bei Beliehenen Priv

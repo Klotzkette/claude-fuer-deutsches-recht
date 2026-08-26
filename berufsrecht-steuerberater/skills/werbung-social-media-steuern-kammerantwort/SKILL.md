@@ -1,6 +1,6 @@
 ---
 name: werbung-social-media-steuern-kammerantwort
-description: "Wenn es um Werbung Social Media Steuern Kammerantwort in Berufsrecht Steuerberater geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Verhandlungs- oder Eskalationslinie mit Optionen."
+description: "Für Werbung Social Media Steuern Kammerantwort: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Schnittstellenkarte mit Zuständigkeits- und Nachweisfragen."
 ---
 
 # Steuerberater: werbung social media steuern - Kammerantwort mit Verfahrensstrategie, Tonlage und Belegplan

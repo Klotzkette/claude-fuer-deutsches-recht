@@ -1,6 +1,6 @@
 ---
 name: kindeswohl-hochkonflikt-wechselmodell
-description: "Wenn es um Kindeswohl Hochkonflikt Wechselmodell in Fachanwalt Familienrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Kindeswohl Hochkonflikt Wechselmodell: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Hochkonflikt und Wechselmodell: Kindeswohl, Bindungstoleranz, Kontinuität, Anhörung, Verfahrensbeistand und Beweis.

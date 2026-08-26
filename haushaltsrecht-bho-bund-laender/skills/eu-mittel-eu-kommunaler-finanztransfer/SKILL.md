@@ -1,6 +1,6 @@
 ---
 name: eu-mittel-eu-kommunaler-finanztransfer
-description: "Wenn es um Eu Mittel Parlamentsfrage Vorbereiten in Haushaltsrecht BHO Bund und Länder geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Eu Mittel Parlamentsfrage Vorbereiten: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Schnittstellenkarte mit Zuständigkeits- und Nachweisfragen."
 ---
 
 # Eu Mittel Parlamentsfrage Vorbereiten

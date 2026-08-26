@@ -1,6 +1,6 @@
 ---
 name: workflow-anspruchslandkarte
-description: "Wenn es um Workflow: Anspruchslandkarte BGB BT in BGB BT Prüfer geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. Auswahlstichwort: Workflow Anspruchslandkarte; Arbeitsfeld: BGB BT Prüfer."
+description: "Für Workflow: Anspruchslandkarte BGB BT: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Tatbestands- oder Anspruchsmatrix. Fachgebiet: BGB BT Prüfer. Route: workflow-anspruchslandkarte."
 ---
 
 # Workflow: Anspruchslandkarte BGB BT

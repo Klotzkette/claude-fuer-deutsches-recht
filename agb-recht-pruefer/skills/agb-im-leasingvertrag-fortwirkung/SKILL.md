@@ -1,6 +1,6 @@
 ---
 name: agb-im-leasingvertrag-fortwirkung
-description: "Wenn es um Agb Im Leasingvertrag Fortwirkung in AGB-Recht-Prüfer geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. Auswahlstichwort: Agb Im Leasingvertrag Fortwirkung; Arbeitsfeld: AGB-Recht-Prüfer."
+description: "Für AGB im Leasingvertrag Fortwirkung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt. Fachgebiet: AGB-Recht-Prüfer. Route: agb-im-leasingvertrag-fortwirkung."
 ---
 
 # Agb Im Leasingvertrag Fortwirkung

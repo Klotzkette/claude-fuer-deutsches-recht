@@ -1,6 +1,6 @@
 ---
 name: empfang-office-manager-hr-schnittstelle
-description: "Wenn es um Empfang Office Manager HR Schnittstelle in Start-up-HR-Personalabteilung Berlin geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Dokumentenmatrix mit Nachforderungsliste."
+description: "Für Empfang Office Manager HR Schnittstelle: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Empfang Office Manager HR Schnittstelle

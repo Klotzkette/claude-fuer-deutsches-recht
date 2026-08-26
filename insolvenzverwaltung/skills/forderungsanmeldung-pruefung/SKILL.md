@@ -1,6 +1,6 @@
 ---
 name: forderungsanmeldung-pruefung
-description: "Wenn es um Forderungsanmeldungen prüfen in Insolvenzverwaltung - IV-Cockpit geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Berechnungstabelle mit Schwellen, Annahmen und Kontrollfragen."
+description: "Für Forderungsanmeldungen prüfen: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Tatbestands- oder Anspruchsmatrix."
 ---
 
 # Forderungsanmeldungen prüfen

@@ -1,6 +1,6 @@
 ---
 name: bverfg-verfahrenssicht-und-annahmerisiko
-description: "Wenn es um BVerfG-Verfahrenssicht, Annahmerisiko und Tenorierungsziel in verfassungsrecht geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen."
+description: "Für BVerfG-Verfahrenssicht, Annahmerisiko und Tenorierungsziel: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # BVerfG-Verfahrenssicht, Annahmerisiko und Tenorierungsziel

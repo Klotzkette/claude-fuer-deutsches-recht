@@ -1,6 +1,6 @@
 ---
 name: owi-093-aussenwirtschaft-akteneinsicht-schreib
-description: "Wenn es um Aussenwirtschaft Akteneinsicht Schreib in Ordnungswidrigkeitenrecht geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
+description: "Für Außenwirtschaft Akteneinsicht Schreib: ordnet Akte, Belege und Lücken; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt. Fachgebiet: Ordnungswidrigkeitenrecht. Route: owi-093-aussenwirtschaft-akteneinsicht-schreib."
 ---
 
 # Aussenwirtschaft Akteneinsicht Schreib

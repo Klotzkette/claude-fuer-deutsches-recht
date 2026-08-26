@@ -1,6 +1,6 @@
 ---
 name: widerrufsrecht-und-erloeschen-pruefen
-description: "Wenn es um Widerrufsrecht Und Erloeschen Prüfen in Verbraucherschutzrecht Prüfer geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Widerrufsrecht und Erlöschen Prüfen: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt. Fachgebiet: Verbraucherschutzrecht Prüfer. Route: widerrufsrecht-und-erloeschen-pruefen."
 ---
 
 # Widerrufsrecht Und Erloeschen Prüfen

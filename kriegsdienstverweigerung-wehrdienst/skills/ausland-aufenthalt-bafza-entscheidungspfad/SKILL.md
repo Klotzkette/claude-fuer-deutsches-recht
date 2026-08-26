@@ -1,6 +1,6 @@
 ---
 name: ausland-aufenthalt-bafza-entscheidungspfad
-description: "Wenn es um Auslandsaufenthalt in Kriegsdienstverweigerung und Wehrdienst geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Auslandsaufenthalt: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Schnittstellenkarte mit Zuständigkeits- und Nachweisfragen."
 ---
 
 # Auslandsaufenthalt

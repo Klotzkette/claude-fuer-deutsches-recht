@@ -1,6 +1,6 @@
 ---
 name: urlaub-erkrankung-verfassungstreue-bbg
-description: "Wenn es um Urlaub Erkrankung Und Verfall in Beamtenrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Urlaub Erkrankung und Verfall: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Schnittstellenkarte mit Zuständigkeits- und Nachweisfragen."
 ---
 
 # Urlaub Erkrankung Und Verfall

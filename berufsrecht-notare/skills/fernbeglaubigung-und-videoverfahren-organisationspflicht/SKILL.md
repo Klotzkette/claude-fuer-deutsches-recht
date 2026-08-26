@@ -1,6 +1,6 @@
 ---
 name: fernbeglaubigung-und-videoverfahren-organisationspflicht
-description: "Wenn es um Fernbeglaubigung Und Videoverfahren Organisationspflicht in Berufsrecht Notare geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Fernbeglaubigung und Videoverfahren Organisationspflicht: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Notare: fernbeglaubigung und videoverfahren - Organisationspflichten, Prävention, Team-Anweisung und Fristenkontrolle

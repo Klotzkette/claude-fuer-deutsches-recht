@@ -1,6 +1,6 @@
 ---
 name: gesellschaftsrecht-register
-description: "Wenn es um Gesellschaftsrecht und Register in Corporate-Kanzlei geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Gesellschaftsrecht und Register: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Einreichungsplan mit Form- und Nachweischeck."
 ---
 
 # Gesellschaftsrecht und Register

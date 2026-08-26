@@ -1,6 +1,6 @@
 ---
 name: teilstattgabe-vollstattgabe-verstehen
-description: "Wenn es um Vollabhilfe, Teilabhilfe oder Ablehnung — Bescheid lesen lernen in selbstvertreter-sozialgericht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Vollabhilfe, Teilabhilfe oder Ablehnung — Bescheid lesen lernen: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Vollabhilfe, Teilabhilfe oder Ablehnung — Bescheid lesen lernen

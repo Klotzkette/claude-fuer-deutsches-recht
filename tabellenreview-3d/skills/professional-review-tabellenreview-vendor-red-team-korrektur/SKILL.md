@@ -1,6 +1,6 @@
 ---
 name: professional-review-tabellenreview-vendor-red-team-korrektur
-description: "Wenn es um Professional Review Sheet mit Rollen-, Daten- und Dokumentenperspektive in Tabellenreview 3D geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Gegenprüfung mit Fehler-, Beweis- und Fristencheck."
+description: "Für Professional Review Sheet mit Rollen-, Daten- und Dokumentenperspektive: prüft Ergebnis, Beweislast und Gegenposition; Ergebnis: Gegenprüfung mit Beweis- und Fristencheck."
 ---
 
 # Professional Review Sheet mit Rollen-, Daten- und Dokumentenperspektive

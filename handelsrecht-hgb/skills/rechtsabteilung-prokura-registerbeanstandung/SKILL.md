@@ -1,6 +1,6 @@
 ---
 name: rechtsabteilung-prokura-registerbeanstandung
-description: "Wenn es um Rechtsabteilung: Prokura und Grundstücksgeschäft in Handelsrecht HGB geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Rechtsabteilung: Prokura und Grundstücksgeschäft: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Einreichungsplan mit Form- und Nachweischeck."
 ---
 
 # Rechtsabteilung: Prokura und Grundstücksgeschäft

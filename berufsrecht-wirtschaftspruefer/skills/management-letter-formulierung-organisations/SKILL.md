@@ -1,6 +1,6 @@
 ---
 name: management-letter-formulierung-organisations
-description: "Wenn es um Management Letter Formulierung Organisations in Berufsrecht Wirtschaftsprüfer geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Management Letter Formulierung Organisations: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Wirtschaftsprüfer: management letter formulierung - Organisationspflichten, Prävention, Team-Anweisung und Fristenkontrolle

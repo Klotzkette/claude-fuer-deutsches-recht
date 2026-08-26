@@ -1,6 +1,6 @@
 ---
 name: prior-art-fehler-und-meldepflicht-kammerantwort
-description: "Wenn es um Prior Art Fehler Und Meldepflicht Kammerantwort in Berufsrecht Patentanwälte geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Verhandlungs- oder Eskalationslinie mit Optionen."
+description: "Für Prior Art Fehler und Meldepflicht Kammerantwort: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Patentanwälte: prior art fehler und meldepflicht - Kammerantwort mit Verfahrensstrategie, Tonlage und Belegplan

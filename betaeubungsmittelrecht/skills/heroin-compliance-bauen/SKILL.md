@@ -1,6 +1,6 @@
 ---
 name: heroin-compliance-bauen
-description: "Wenn es um Heroin Compliance Bauen in Betäubungsmittelrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Heroin Compliance Bauen: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Heroin Compliance Bauen

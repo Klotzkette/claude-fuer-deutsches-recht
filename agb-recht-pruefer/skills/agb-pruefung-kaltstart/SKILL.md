@@ -1,6 +1,6 @@
 ---
 name: agb-pruefung-kaltstart
-description: "Wenn es um AGB Prüfung Kaltstart in AGB-Recht-Prüfer geht: klärt Rolle, Ziel, Frist, Unterlagen und den passenden nächsten Fachskill; liefert eine Tatbestands- oder Anspruchsmatrix mit Gegenargumenten."
+description: "Für AGB Prüfung Kaltstart: routet Rolle, Frist, Unterlagen und Fachschritt; Ergebnis: Tatbestands- oder Anspruchsmatrix."
 ---
 
 # AGB Prüfung Kaltstart

@@ -1,6 +1,6 @@
 ---
 name: strafrecht-spezial-aussagedelikte-154-stgb-meineid
-description: "Wenn es um Meineid nach Paragraph 154 StGB in Fachanwalt Strafrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Meineid nach Paragraph 154 StGB: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Meineid nach Paragraph 154 StGB

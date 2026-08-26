@@ -1,6 +1,6 @@
 ---
 name: kommunikation-mit-strassenverkehrsbeho
-description: "Wenn es um Kommunikation Mit Strassenverkehrsbeho in Straßenverkehrsrecht StVO geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
+description: "Für Kommunikation mit Strassenverkehrsbeho: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Kommunikation Mit Strassenverkehrsbeho

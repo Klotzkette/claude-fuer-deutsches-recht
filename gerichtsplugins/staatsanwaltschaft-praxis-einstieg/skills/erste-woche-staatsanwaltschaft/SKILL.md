@@ -1,6 +1,6 @@
 ---
 name: erste-woche-staatsanwaltschaft
-description: "Wenn es um Erster Tag und erste Woche als Staatsanwältin oder Staatsanwalt in Staatsanwaltschaft Praxis-Einstieg geht: klärt Rolle, Ziel, Frist, Unterlagen und den passenden nächsten Fachskill; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Erster Tag und erste Woche als Staatsanwältin oder Staatsanwalt: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Erster Tag und erste Woche als Staatsanwältin oder Staatsanwalt

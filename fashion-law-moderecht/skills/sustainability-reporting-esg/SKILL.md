@@ -1,6 +1,6 @@
 ---
 name: sustainability-reporting-esg
-description: "Wenn es um Sustainability Reporting Esg in fashion-law-moderecht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Verhandlungs- oder Eskalationslinie mit Optionen."
+description: "Für Sustainability Reporting Esg: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Sustainability Reporting Esg

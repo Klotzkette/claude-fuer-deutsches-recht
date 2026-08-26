@@ -1,6 +1,6 @@
 ---
 name: institutionelle-folgen-und-regelbindung
-description: "Wenn es um Institutionelle Folgen und Regelbindung in der Rechtsanwendung in Methodenlehre bürgerliches Recht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Institutionelle Folgen und Regelbindung in der Rechtsanwendung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Institutionelle Folgen und Regelbindung in der Rechtsanwendung

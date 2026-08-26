@@ -1,6 +1,6 @@
 ---
 name: dsgvo-auskunft-antwort
-description: "Wenn es um Betroffenenanfragen – Art. 15–22 DSGVO in Datenschutzrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Betroffenenanfragen – Art. 15–22 DSGVO: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Betroffenenanfragen – Art. 15–22 DSGVO

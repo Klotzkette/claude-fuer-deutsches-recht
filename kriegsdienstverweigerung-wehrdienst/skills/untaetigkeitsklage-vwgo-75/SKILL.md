@@ -1,6 +1,6 @@
 ---
 name: untaetigkeitsklage-vwgo-75
-description: "Wenn es um Untätigkeitsklage Paragraf 75 VwGO in Kriegsdienstverweigerung und Wehrdienst geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
+description: "Für Untätigkeitsklage Paragraf 75 VwGO: erstellt Entwurf mit Antrag, Beweis und Anlagen; Ergebnis: Schriftsatz mit Begründungs- und Anlagenlogik."
 ---
 
 # Untätigkeitsklage § 75 VwGO

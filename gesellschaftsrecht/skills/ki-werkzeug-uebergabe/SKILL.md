@@ -1,6 +1,6 @@
 ---
 name: ki-werkzeug-uebergabe
-description: "Wenn es um digitale Werkzeuge-Tool-Übergabe (Luminance / Kira) in Gesellschaftsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für digitale Werkzeuge-Tool-Übergabe (Luminance / Kira): ordnet Norm, Beweislast und Gegenargument; Ergebnis: Schnittstellenkarte mit Zuständigkeits- und Nachweisfragen."
 ---
 
 # KI-Tool-Übergabe (Luminance / Kira)

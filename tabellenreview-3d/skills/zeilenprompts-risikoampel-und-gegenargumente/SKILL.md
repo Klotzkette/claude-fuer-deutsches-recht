@@ -1,6 +1,6 @@
 ---
 name: zeilenprompts-risikoampel-und-gegenargumente
-description: "Wenn es um Zeilenprompts: Risikoampel, Gegenargumente und Verteidigungslinien in Tabellenreview 3D geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten. Auswahlstichwort: Zeilenprompts Risikoampel Und Gegenargumente; Arbeitsfeld: Tabellenreview 3D."
+description: "Für Zeilenprompts: Risikoampel, Gegenargumente und Verteidigungslinien: prüft Ergebnis, Beweislast und Gegenposition; Ergebnis: Fristen- und Risikoampel. Fachgebiet: Tabellenreview 3D. Route: zeilenprompts-risikoampel-und-gegenargumente."
 ---
 
 # Zeilenprompts: Risikoampel, Gegenargumente und Verteidigungslinien

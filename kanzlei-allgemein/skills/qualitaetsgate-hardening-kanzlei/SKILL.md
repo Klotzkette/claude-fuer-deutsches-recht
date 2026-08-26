@@ -1,6 +1,6 @@
 ---
 name: qualitaetsgate-hardening-kanzlei
-description: "Wenn es um Qualitätsgate und Hardening in Kanzlei-Allgemein geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Qualitätsgate und Hardening: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Gegenprüfung mit Beweis- und Fristencheck."
 ---
 
 # Qualitätsgate und Hardening

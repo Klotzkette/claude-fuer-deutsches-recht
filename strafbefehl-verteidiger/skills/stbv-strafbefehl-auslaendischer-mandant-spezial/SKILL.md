@@ -1,6 +1,6 @@
 ---
 name: stbv-strafbefehl-auslaendischer-mandant-spezial
-description: "Wenn es um StBV: Strafbefehl Ausländer in Strafbefehl-Verteidiger geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für StBV: Strafbefehl Ausländer: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # StBV: Strafbefehl Ausländer

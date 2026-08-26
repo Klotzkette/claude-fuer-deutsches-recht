@@ -1,6 +1,6 @@
 ---
 name: drag-tag-piggyback
-description: "Wenn es um Drag, Tag und Piggyback in Didaktisches Gesellschaftsrecht — English Business Terms geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen."
+description: "Für Drag, Tag und Piggyback: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Drag, Tag und Piggyback

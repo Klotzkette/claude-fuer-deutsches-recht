@@ -1,6 +1,6 @@
 ---
 name: auszahlungsanweisung-faktenmatrix
-description: "Wenn es um Auszahlungsanweisung Faktenmatrix in Berufsrecht Notare geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Auszahlungsanweisung Faktenmatrix: ordnet Akte, Belege und Lücken; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Notare: auszahlungsanweisung konflikt - Kaltstart mit Faktenmatrix, Risikoampel und fehlenden Unterlagen

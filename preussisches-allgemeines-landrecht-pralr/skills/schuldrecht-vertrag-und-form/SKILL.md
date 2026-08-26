@@ -1,6 +1,6 @@
 ---
 name: schuldrecht-vertrag-und-form
-description: "Wenn es um Vertrag und Form in Preußisches Allgemeines Landrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. Auswahlstichwort: Schuldrecht Vertrag Und Form; Arbeitsfeld: Preußisches Allgemeines Landrecht."
+description: "Für Vertrag und Form: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt. Fachgebiet: Preußisches Allgemeines Landrecht. Route: schuldrecht-vertrag-und-form."
 ---
 
 # Vertrag und Form

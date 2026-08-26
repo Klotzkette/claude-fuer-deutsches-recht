@@ -1,6 +1,6 @@
 ---
 name: beweisakte-hv-boersennotierte-wphg-briefwahl
-description: "Wenn es um Beweisakte HV in Hauptversammlung AG und SE geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
+description: "Für Beweisakte HV: erstellt Entwurf mit Antrag, Beweis und Anlagen; Ergebnis: Schriftsatz mit Begründungs- und Anlagenlogik."
 ---
 
 # Beweisakte HV

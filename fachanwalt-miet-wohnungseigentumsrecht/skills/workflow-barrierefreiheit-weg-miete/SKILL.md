@@ -1,6 +1,6 @@
 ---
 name: workflow-barrierefreiheit-weg-miete
-description: "Steuert Maßnahmen zur Barrierereduzierung an Miet- und Wohnungseigentum. Trennt Mieteranspruch, Eigentümeranspruch, Beschluss, Angemessenheit, Bau- und Nutzungsfolgen, Kosten, Sicherheit und Rückbau und liefert Variantenvergleich, Gestattungsantrag und Beschlussersetzung."
+description: "Für Barrierereduzierung in Miete und WEG steuern: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Barrierereduzierung in Miete und WEG steuern

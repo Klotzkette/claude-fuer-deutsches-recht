@@ -1,6 +1,6 @@
 ---
 name: krankenversicherung-beihilfe-beamte-pkv-beamtenanfaenger
-description: "Wenn es um Beihilfe, Beamte, PKV und Restkosten in Krankenkassenrecht und Krankenversicherung geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Beihilfe, Beamte, PKV und Restkosten: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Beihilfe, Beamte, PKV und Restkosten

@@ -1,6 +1,6 @@
 ---
 name: oeffentlichkeitsarbeit
-description: "Wenn es um Oeffentlichkeitsarbeit Ohne Risiko in Umweltschutzverband Verbandsklage geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
+description: "Für Öffentlichkeitsarbeit ohne Risiko: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Oeffentlichkeitsarbeit Ohne Risiko

@@ -1,6 +1,6 @@
 ---
 name: konkurrenz-bereicherung-anfechtung-und-vindikation
-description: "Wenn es um Konkurrenz: Bereicherung, Anfechtung und Vindikation in bereicherungs-und-anfechtungsrecht-prüfer geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. Auswahlstichwort: Konkurrenz Bereicherung Anfechtung Und Vindikation; Arbeitsfeld: bereicherungs-und-anfechtungsrecht-prüfer."
+description: "Für Konkurrenz: Bereicherung, Anfechtung und Vindikation: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt. Fachgebiet: bereicherungs-und-anfechtungsrecht-prüfer. Route: konkurrenz-bereicherung-anfechtung-und-vindikation."
 ---
 
 # Konkurrenz: Bereicherung, Anfechtung und Vindikation

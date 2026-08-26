@@ -1,6 +1,6 @@
 ---
 name: aussenwirtschaft-icp-kontrollsystem
-description: "Wenn es um Internal Compliance Programme (ICP): Aufbau und Gap-Analyse in Außenwirtschaft, Sanktionen, Zoll und CBAM geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen."
+description: "Für Internal Compliance Programme (ICP): Aufbau und Gap-Analyse: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Internal Compliance Programme (ICP): Aufbau und Gap-Analyse

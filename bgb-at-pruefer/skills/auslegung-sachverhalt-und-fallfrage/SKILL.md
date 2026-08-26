@@ -1,6 +1,6 @@
 ---
 name: auslegung-sachverhalt-und-fallfrage
-description: "Wenn es um Sachverhaltsauslegung und Fallfrage — Klausur-Methodik BGB AT in BGB AT Prüfer geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt. Auswahlstichwort: Auslegung Sachverhalt Und Fallfrage; Arbeitsfeld: BGB AT Prüfer."
+description: "Für Sachverhaltsauslegung und Fallfrage — Klausur-Methodik BGB AT: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt. Fachgebiet: BGB AT Prüfer. Route: auslegung-sachverhalt-und-fallfrage."
 ---
 
 # Sachverhaltsauslegung und Fallfrage — Klausur-Methodik BGB AT

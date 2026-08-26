@@ -1,6 +1,6 @@
 ---
 name: sitzungsplanung-sonderpruefung-forensic
-description: "Wenn es um Sitzungsplanung in AG/SE-Aufsichtsrat Praxis geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Tatbestands- oder Anspruchsmatrix mit Gegenargumenten."
+description: "Für Sitzungsplanung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Tatbestands- oder Anspruchsmatrix."
 ---
 
 # Sitzungsplanung

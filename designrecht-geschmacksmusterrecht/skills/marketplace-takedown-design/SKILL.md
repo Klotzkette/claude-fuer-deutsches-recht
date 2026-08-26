@@ -1,6 +1,6 @@
 ---
 name: marketplace-takedown-design
-description: "Wenn es um Marketplace Takedown Design in designrecht-geschmacksmusterrecht geht: entwickelt Verhandlungsziel, Vergleichskorridor und Eskalationspfad; liefert einen Einreichungsplan mit Form-, Portal- und Nachweischeck."
+description: "Für Marketplace Takedown Design: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Marketplace Takedown Design

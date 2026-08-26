@@ -1,6 +1,6 @@
 ---
 name: wiedergutmachung-und-restitution
-description: "Wenn es um Wiedergutmachung und Restitution (NS-Unrecht) in Deutsche Rechtsgeschichte geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Wiedergutmachung und Restitution (NS-Unrecht): ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Wiedergutmachung und Restitution (NS-Unrecht)

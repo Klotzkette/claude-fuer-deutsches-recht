@@ -1,6 +1,6 @@
 ---
 name: discharge-chapter7-727
-description: "Wenn es um Chapter 7 Discharge Paragraf 727 in US Bankruptcy Code geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Chapter 7 Discharge Paragraf 727: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Chapter 7 Discharge § 727

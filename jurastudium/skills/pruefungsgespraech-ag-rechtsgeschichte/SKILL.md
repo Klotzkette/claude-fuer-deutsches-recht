@@ -1,6 +1,6 @@
 ---
 name: pruefungsgespraech-ag-rechtsgeschichte
-description: "Wenn es um Prüfungsgespräch nach AG-Tradition in Jurastudium geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Prüfungsgespräch nach AG-Tradition: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Tatbestands- oder Anspruchsmatrix."
 ---
 
 # Prüfungsgespräch nach AG-Tradition

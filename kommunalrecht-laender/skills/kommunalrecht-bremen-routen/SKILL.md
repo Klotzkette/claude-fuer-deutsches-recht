@@ -1,6 +1,6 @@
 ---
 name: kommunalrecht-bremen-routen
-description: "Wenn es um Kommunalrecht Bremen Routen in Kommunalrecht der Länder geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Kommunalrecht Bremen Routen: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Kommunalrecht Bremen Routen

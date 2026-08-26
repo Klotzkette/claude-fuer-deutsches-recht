@@ -1,6 +1,6 @@
 ---
 name: batteriespeicher-beteiligung-pruefen
-description: "Wenn es um Batteriespeicher Beteiligung Prüfen in Umweltschutzverband Verbandsklage geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
+description: "Für Batteriespeicher Beteiligung Prüfen: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt. Fachgebiet: Umweltschutzverband Verbandsklage. Route: batteriespeicher-beteiligung-pruefen."
 ---
 
 # Batteriespeicher Beteiligung Prüfen

@@ -1,6 +1,6 @@
 ---
 name: rechenschaftsbericht-vorbereitung
-description: "Wenn es um Rechenschaftsbericht Vorbereitung in Wahlkampfrecht Praxis geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
+description: "Für Rechenschaftsbericht Vorbereitung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Rechenschaftsbericht Vorbereitung

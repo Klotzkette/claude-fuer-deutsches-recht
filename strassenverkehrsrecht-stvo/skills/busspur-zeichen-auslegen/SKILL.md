@@ -1,6 +1,6 @@
 ---
 name: busspur-zeichen-auslegen
-description: "Wenn es um Busspur Zeichen Auslegen in Straßenverkehrsrecht StVO geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Busspur Zeichen Auslegen: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Busspur Zeichen Auslegen

@@ -1,6 +1,6 @@
 ---
 name: erbbauzins-struktur-erbbauzinsanpassung
-description: "Wenn es um Erbbauzins und Reallast in Erbbaurecht Praxis geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Erbbauzins und Reallast: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Erbbauzins und Reallast

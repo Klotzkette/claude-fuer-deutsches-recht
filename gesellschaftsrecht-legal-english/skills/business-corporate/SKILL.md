@@ -1,6 +1,6 @@
 ---
 name: business-corporate
-description: "Wenn es um Business: Dokumentenmatrix, Lückenliste und Nachforderung in Didaktisches Gesellschaftsrecht — English Business Terms geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Dokumentenmatrix mit Nachforderungsliste."
+description: "Für Business: Dokumentenmatrix, Lückenliste und Nachforderung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Business: Dokumentenmatrix, Lückenliste und Nachforderung

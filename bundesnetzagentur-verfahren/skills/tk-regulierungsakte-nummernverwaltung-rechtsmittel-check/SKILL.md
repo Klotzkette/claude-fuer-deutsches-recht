@@ -1,6 +1,6 @@
 ---
 name: tk-regulierungsakte-nummernverwaltung-rechtsmittel-check
-description: "Wenn es um TK-Regulierungsakte: Nummernverwaltung — Rechtsmittel-Check in Bundesnetzagentur-Verfahren geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
+description: "Für TK-Regulierungsakte: Nummernverwaltung — Rechtsmittel-Check: ordnet Akte, Belege und Lücken; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # TK-Regulierungsakte: Nummernverwaltung — Rechtsmittel-Check

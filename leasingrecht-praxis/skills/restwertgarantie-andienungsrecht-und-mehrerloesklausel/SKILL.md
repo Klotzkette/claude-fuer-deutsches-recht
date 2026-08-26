@@ -1,6 +1,6 @@
 ---
 name: restwertgarantie-andienungsrecht-und-mehrerloesklausel
-description: "Wenn es um Restwertgarantie, Andienungsrecht und Mehrerlösklausel in Leasingrecht Praxis geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen."
+description: "Für Restwertgarantie, Andienungsrecht und Mehrerlösklausel: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Restwertgarantie, Andienungsrecht und Mehrerlösklausel

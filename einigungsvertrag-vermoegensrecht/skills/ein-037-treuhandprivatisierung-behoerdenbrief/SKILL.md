@@ -1,6 +1,6 @@
 ---
 name: ein-037-treuhandprivatisierung-behoerdenbrief
-description: "Wenn es um Treuhandprivatisierung Behoerdenbrief in Einigungsvertrag und Vermögensrecht geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
+description: "Für Treuhandprivatisierung Behördenbrief: erstellt Entwurf mit Antrag, Beweis und Anlagen; Ergebnis: Schriftsatz mit Begründungs- und Anlagenlogik. Fachgebiet: Einigungsvertrag und Vermögensrecht. Route: ein-037-treuhandprivatisierung-behoerdenbrief."
 ---
 
 # Treuhandprivatisierung Behoerdenbrief

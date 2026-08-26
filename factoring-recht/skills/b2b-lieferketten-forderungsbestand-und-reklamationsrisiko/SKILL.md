@@ -1,6 +1,6 @@
 ---
 name: b2b-lieferketten-forderungsbestand-und-reklamationsrisiko
-description: "Wenn es um B2B Lieferketten Forderungsbestand und Reklamationsrisiko in Factoring-Recht geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
+description: "Für B2B Lieferketten Forderungsbestand und Reklamationsrisiko: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # B2B Lieferketten Forderungsbestand und Reklamationsrisiko

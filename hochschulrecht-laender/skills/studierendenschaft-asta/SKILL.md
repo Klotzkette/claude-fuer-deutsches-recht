@@ -1,6 +1,6 @@
 ---
 name: studierendenschaft-asta
-description: "Wenn es um Studentennschaft AStA in Hochschulrecht der Bundesländer geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Studentennschaft AStA: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Studentennschaft AStA

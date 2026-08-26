@@ -1,6 +1,6 @@
 ---
 name: saeumnis-im-termin-sozialgericht
-description: "Wenn es um Wenn Sie zum Termin nicht können oder es vergessen in selbstvertreter-sozialgericht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Wenn Sie zum Termin nicht können oder es vergessen: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Schnittstellenkarte mit Zuständigkeits- und Nachweisfragen."
 ---
 
 # Wenn Sie zum Termin nicht können oder es vergessen

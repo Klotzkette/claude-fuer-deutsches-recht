@@ -1,6 +1,6 @@
 ---
 name: bgb-at-rechtsschein-redteam
-description: "Wenn es um Rechtsscheinvollmacht Red-Team in BGB AT Prüfer geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen."
+description: "Für Rechtsscheinvollmacht Red-Team: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Rechtsscheinvollmacht Red-Team

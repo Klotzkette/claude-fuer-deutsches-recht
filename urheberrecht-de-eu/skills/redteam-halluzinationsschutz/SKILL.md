@@ -1,6 +1,6 @@
 ---
 name: redteam-halluzinationsschutz
-description: "Wenn es um Red-Team und Halluzinationsschutz in Urheberrecht DE EU geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Red-Team und Halluzinationsschutz: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Red-Team und Halluzinationsschutz

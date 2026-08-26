@@ -1,6 +1,6 @@
 ---
 name: hochschul-erfindung-und-ip-policy-kaltstart
-description: "Wenn es um Hochschul Erfindung Und Ip Policy Kaltstart in Berufsrecht Patentanwälte geht: klärt Rolle, Ziel, Frist, Unterlagen und den passenden nächsten Fachskill; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Hochschul Erfindung und Ip Policy Kaltstart: routet Rolle, Frist, Unterlagen und Fachschritt; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Patentanwälte: hochschul erfindung und ip policy - Kaltstart mit Faktenmatrix, Risikoampel und fehlenden Unterlagen

@@ -1,6 +1,6 @@
 ---
 name: medizinprodukt-software-mitbestimmung
-description: "Wenn es um Medizinprodukt-Software-digitale Werkzeuge-Roboter in robotik-recht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. Auswahlstichwort: Medizinprodukt Software Mitbestimmung; Arbeitsfeld: robotik-recht."
+description: "Für Medizinprodukt-Software-digitale Werkzeuge-Roboter: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt. Fachgebiet: robotik-recht. Route: medizinprodukt-software-mitbestimmung."
 ---
 
 # Medizinprodukt-Software-KI-Roboter

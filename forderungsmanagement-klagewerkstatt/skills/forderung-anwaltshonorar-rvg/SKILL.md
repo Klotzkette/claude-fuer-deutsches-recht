@@ -1,6 +1,6 @@
 ---
 name: forderung-anwaltshonorar-rvg
-description: "Wenn es um Anwaltshonorar nach RVG in Forderungsmanagement — Klagewerkstatt geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
+description: "Für Anwaltshonorar nach RVG: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Anwaltshonorar nach RVG

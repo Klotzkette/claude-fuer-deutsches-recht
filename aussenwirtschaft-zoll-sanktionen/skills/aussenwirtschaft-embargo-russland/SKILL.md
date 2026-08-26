@@ -1,6 +1,6 @@
 ---
 name: aussenwirtschaft-embargo-russland
-description: "Wenn es um Embargo Russland: Sektoralsanktionen und Umgehungsverbote in Außenwirtschaft, Sanktionen, Zoll und CBAM geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Embargo Russland: Sektoralsanktionen und Umgehungsverbote: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Embargo Russland: Sektoralsanktionen und Umgehungsverbote

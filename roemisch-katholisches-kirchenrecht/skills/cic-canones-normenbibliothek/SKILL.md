@@ -1,6 +1,6 @@
 ---
 name: cic-canones-normenbibliothek
-description: "Erschließt einen konkret bezeichneten Canon des CIC mit amtlichem Textabgleich, Systemstelle, Nachbarcanones, Tatbestand, Rechtsfolge und belastbarer Arbeitsausgabe. Verwenden, wenn eine Canon-Nummer genannt ist oder die passende Einzelnorm gefunden werden muss; lädt nur den einschlägigen Bereich der hinterlegten Normbibliothek."
+description: "Erschließt einen konkret bezeichneten Canon des CIC mit amtlichem Textabgleich, Systemstelle, Nachbarcanones, Tatbestand, Rechtsfolge und belastbarer Arbeitsausgabe."
 ---
 
 # 1. CIC-Canones gezielt erschließen

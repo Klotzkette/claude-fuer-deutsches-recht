@@ -1,6 +1,6 @@
 ---
 name: sektor-sportligen-medienrechte
-description: "Wenn es um Sektor Sportligen, Medienrechte und Ticketing in Kartellrecht — Marktabgrenzungsprüfung geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Sektor Sportligen, Medienrechte und Ticketing: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Sektor Sportligen, Medienrechte und Ticketing

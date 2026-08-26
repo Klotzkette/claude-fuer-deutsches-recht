@@ -1,6 +1,6 @@
 ---
 name: dsfa-edpb-leitlinien-9-19-anwendung
-description: "Wenn es um Anwendung der EDPB-Leitlinien WP 248 rev.01 zur DSFA in Datenschutzrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Anwendung der EDPB-Leitlinien WP 248 rev.01 zur DSFA: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Anwendung der EDPB-Leitlinien WP 248 rev.01 zur DSFA

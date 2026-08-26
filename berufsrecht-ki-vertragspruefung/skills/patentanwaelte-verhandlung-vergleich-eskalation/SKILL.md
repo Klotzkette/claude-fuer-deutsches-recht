@@ -1,6 +1,6 @@
 ---
 name: patentanwaelte-verhandlung-vergleich-eskalation
-description: "Wenn es um Patentanwälte: Verhandlung, Vergleich und Eskalation in diesem Spezialbereich geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Patentanwälte: Verhandlung, Vergleich und Eskalation: entwickelt Ziel, Vergleich und Eskalation; Ergebnis: Verhandlungs- oder Eskalationslinie. Fachgebiet: anwaltlichem Berufsrecht und Vertragsprüfung. Route: patentanwaelte-verhandlung-vergleich-eskalation."
 ---
 
 # Patentanwälte: Verhandlung, Vergleich und Eskalation

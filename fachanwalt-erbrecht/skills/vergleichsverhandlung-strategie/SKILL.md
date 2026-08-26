@@ -1,6 +1,6 @@
 ---
 name: vergleichsverhandlung-strategie
-description: "Wenn es um Erbrechtlichen Streit durch Vergleich lösen und Verhandlungsstrategie entwickeln in Fachanwalt Erbrecht geht: entwickelt Verhandlungsziel, Vergleichskorridor und Eskalationspfad; liefert eine Verhandlungs- oder Eskalationslinie mit Optionen."
+description: "Für Erbrechtlichen Streit durch Vergleich lösen und Verhandlungsstrategie entwickeln: entwickelt Ziel, Vergleich und Eskalation; Ergebnis: Verhandlungs- oder Eskalationslinie."
 ---
 
 # Erbrechtlichen Streit durch Vergleich lösen und Verhandlungsstrategie entwickeln

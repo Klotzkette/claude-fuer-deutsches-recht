@@ -1,6 +1,6 @@
 ---
 name: dsv-sanktion-sanktionsmandat-schlussprodukt-planen
-description: "Wenn es um Dsv Sanktion Sanktionsmandat Schlussprodukt Planen in Datenschutzrecht geht: entwickelt Verhandlungsziel, Vergleichskorridor und Eskalationspfad; liefert eine Verhandlungs- oder Eskalationslinie mit Optionen."
+description: "Für Dsv Sanktion Sanktionsmandat Schlussprodukt Planen: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Datenschutzrecht-Brückenskill: Schlussprodukt des Sanktionsmandats planen: Einstellung, Verwarnung, reduzierte Geldbuße, aufgehobene Anordnung, Vergleich, Urteil oder Rechtsbeschwerde als Zielbild definieren

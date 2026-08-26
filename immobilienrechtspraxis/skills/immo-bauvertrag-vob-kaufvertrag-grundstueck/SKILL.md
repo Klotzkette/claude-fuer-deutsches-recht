@@ -1,6 +1,6 @@
 ---
 name: immo-bauvertrag-vob-kaufvertrag-grundstueck
-description: "Wenn es um Bauvertrag VOB-B / BGB in Immobilienrechtspraxis geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Bauvertrag VOB-B / BGB: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Bauvertrag VOB-B / BGB

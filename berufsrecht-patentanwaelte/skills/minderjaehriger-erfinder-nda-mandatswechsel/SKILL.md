@@ -1,6 +1,6 @@
 ---
 name: minderjaehriger-erfinder-nda-mandatswechsel
-description: "Wenn es um Minderjaehriger Erfinder Nda Mandatswechsel in Berufsrecht Patentanwälte geht: klärt Rolle, Ziel, Frist, Unterlagen und den passenden nächsten Fachskill; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Minderjähriger Erfinder Nda Mandatswechsel: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Patentanwälte: minderjaehriger erfinder - Kaltstart mit Faktenmatrix, Risikoampel und fehlenden Unterlagen

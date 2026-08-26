@@ -1,6 +1,6 @@
 ---
 name: telekommunikation-spam-cold-calls-rufnummernabschaltung
-description: "Wenn es um Telekommunikation: Spam Cold Calls Rufnummernabschaltung in Bundesnetzagentur-Verfahren geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
+description: "Für Telekommunikation: Spam Cold Calls Rufnummernabschaltung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Telekommunikation: Spam Cold Calls Rufnummernabschaltung

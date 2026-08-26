@@ -1,6 +1,6 @@
 ---
 name: drg-neu-004-hamburger-handelsrecht-kaufmannspraxis-und-seehandel
-description: "Wenn es um Deutsche Rechtsgeschichte: Hamburger Handelsrecht Kaufmannspraxis und Seehandel in Deutsche Rechtsgeschichte geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Deutsche Rechtsgeschichte: Hamburger Handelsrecht Kaufmannspraxis und Seehandel: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Schnittstellenkarte mit Zuständigkeits- und Nachweisfragen."
 ---
 
 # Deutsche Rechtsgeschichte: Hamburger Handelsrecht Kaufmannspraxis und Seehandel

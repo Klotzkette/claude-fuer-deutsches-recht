@@ -1,6 +1,6 @@
 ---
 name: tantieme-abrechnung-themenscout
-description: "Wenn es um Tantieme jaehrlich abrechnen in Verlagsredaktion geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
+description: "Für Tantieme jährlich abrechnen: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Tantieme jaehrlich abrechnen

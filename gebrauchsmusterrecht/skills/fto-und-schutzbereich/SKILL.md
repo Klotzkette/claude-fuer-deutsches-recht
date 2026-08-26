@@ -1,6 +1,6 @@
 ---
 name: fto-und-schutzbereich
-description: "Wenn es um Fto Und Schutzbereich in gebrauchsmusterrecht geht: entwickelt Verhandlungsziel, Vergleichskorridor und Eskalationspfad; liefert einen Einreichungsplan mit Form-, Portal- und Nachweischeck."
+description: "Für Fto und Schutzbereich: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Fto Und Schutzbereich

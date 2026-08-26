@@ -1,6 +1,6 @@
 ---
 name: versr-pkv-beitragsanpassung-medizinische-notwendigkeit
-description: "Wenn es um Versr Pkv Beitragsanpassung Medizinische Notwendigkeit in Fachanwalt Versicherungsrecht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
+description: "Für Versr Pkv Beitragsanpassung Medizinische Notwendigkeit: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # PKV-Mandate zu Beitragsanpassung § 203 VVG, medizinischer Notwendigkeit, GOÄ/GOZ-Kürzung, Tarifwechsel und Rückforderung.

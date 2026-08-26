@@ -1,6 +1,6 @@
 ---
 name: spezial-chirurgisch-livequellen-und-rechtsprechungscheck
-description: "Wenn es um Chirurgisch: Livequellen- und Rechtsprechungscheck in NDA-Abgleich geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Chirurgisch: Livequellen- und Rechtsprechungscheck: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Chirurgisch: Livequellen- und Rechtsprechungscheck

@@ -1,6 +1,6 @@
 ---
 name: begruendung-fuer-reservisten
-description: "Wenn es um Begründung Reservisten in Kriegsdienstverweigerung und Wehrdienst geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Begründung Reservisten: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Begründung Reservisten

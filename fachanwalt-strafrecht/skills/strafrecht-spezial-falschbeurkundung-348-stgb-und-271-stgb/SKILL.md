@@ -1,6 +1,6 @@
 ---
 name: strafrecht-spezial-falschbeurkundung-348-stgb-und-271-stgb
-description: "Wenn es um Strafrecht Spezial Falschbeurkundung 348 Stgb Und 271 Stgb in Fachanwalt Strafrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Strafrecht Spezial Falschbeurkundung 348 Stgb und 271 Stgb: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Schnittstellenkarte mit Zuständigkeits- und Nachweisfragen."
 ---
 
 # Falschbeurkundung im Amt nach Paragraph 348 StGB und mittelbare Falschbeurkundung nach Paragraph 271 StGB

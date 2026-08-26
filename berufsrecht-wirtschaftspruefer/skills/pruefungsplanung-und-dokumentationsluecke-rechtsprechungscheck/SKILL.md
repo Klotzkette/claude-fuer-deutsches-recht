@@ -1,6 +1,6 @@
 ---
 name: pruefungsplanung-und-dokumentationsluecke-rechtsprechungscheck
-description: "Wenn es um Pruefungsplanung Und Dokumentationsluecke Rechtsprechungscheck in Berufsrecht Wirtschaftsprüfer geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Gegenprüfung mit Fehler-, Beweis- und Fristencheck."
+description: "Für Prüfungsplanung und Dokumentationslücke Rechtsprechungscheck: ordnet Akte, Belege und Lücken; Ergebnis: Tatbestands- oder Anspruchsmatrix."
 ---
 
 # Wirtschaftsprüfer: prüfungsplanung und dokumentationsluecke - Rechtsprechungscheck, stärkste Gegenansicht und Red-Team-Korrektur

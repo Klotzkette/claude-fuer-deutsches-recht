@@ -1,6 +1,6 @@
 ---
 name: trans-kabotage-marktzugang-spezial
-description: "Wenn es um Trans Kabotage Marktzugang Spezial in Fachanwalt Transport Speditionsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Trans Kabotage Marktzugang Spezial: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Spezialfall Kabotage und Marktzugang EU VO 1072 / 2009 und Mobility Package: zulaessige Kabotagebefoerderungen, Mindestlohn, Entsenderecht

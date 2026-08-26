@@ -1,6 +1,6 @@
 ---
 name: kreditversicherung-obliegenheiten-limit-pruefung
-description: "Wenn es um Kreditversicherung: Limitprüfung und Obliegenheiten in Versicherungsrecht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Tatbestands- oder Anspruchsmatrix mit Gegenargumenten."
+description: "Für Kreditversicherung: Limitprüfung und Obliegenheiten: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Tatbestands- oder Anspruchsmatrix."
 ---
 
 # Kreditversicherung: Limitprüfung und Obliegenheiten

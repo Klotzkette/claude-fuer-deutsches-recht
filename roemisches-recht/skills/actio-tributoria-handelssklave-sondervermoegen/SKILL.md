@@ -1,6 +1,6 @@
 ---
 name: actio-tributoria-handelssklave-sondervermoegen
-description: "Wenn es um Rom 132 Actio Tributoria Handelssklave Sondervermoegen in Römisches Recht geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
+description: "Für Rom 132 Actio Tributoria Handelssklave Sondervermögen: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Rom 132 Actio Tributoria Handelssklave Sondervermoegen

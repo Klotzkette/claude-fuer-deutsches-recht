@@ -1,6 +1,6 @@
 ---
 name: parteienrecht-beitragsordnung-satzung-finanzierung
-description: "Wenn es um Beitragsordnung Partei in Parteienrecht und Parteiorganisation geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. Auswahlstichwort: Parteienrecht Beitragsordnung Satzung Finanzierung; Arbeitsfeld: Parteienrecht und Parteiorganisation."
+description: "Für Beitragsordnung Partei: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt. Fachgebiet: Parteienrecht und Parteiorganisation. Route: parteienrecht-beitragsordnung-satzung-finanzierung."
 ---
 
 # Beitragsordnung Partei

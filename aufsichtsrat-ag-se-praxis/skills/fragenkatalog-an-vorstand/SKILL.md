@@ -1,6 +1,6 @@
 ---
 name: fragenkatalog-an-vorstand
-description: "Wenn es um Fragenkatalog An Vorstand in AG/SE-Aufsichtsrat Praxis geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
+description: "Für Fragenkatalog an Vorstand: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Fragenkatalog An Vorstand

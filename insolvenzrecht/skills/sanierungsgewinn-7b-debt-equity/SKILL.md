@@ -1,6 +1,6 @@
 ---
 name: sanierungsgewinn-7b-debt-equity
-description: "Wenn es um Sanierungsgewinn — Paragraph 7b GewStG im Insolvenzplan, Paralleltrack in Insolvenzrecht geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
+description: "Für Sanierungsgewinn — Paragraph 7b GewStG im Insolvenzplan, Paralleltrack: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Sanierungsgewinn — Paragraph 7b GewStG im Insolvenzplan, Paralleltrack

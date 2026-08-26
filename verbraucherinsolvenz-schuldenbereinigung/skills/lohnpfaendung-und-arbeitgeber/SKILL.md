@@ -1,6 +1,6 @@
 ---
 name: lohnpfaendung-und-arbeitgeber
-description: "Wenn es um Lohnpfaendung Und Arbeitgeber in Verbraucherinsolvenz und Schuldenbereinigung geht: rechnet Schwellen, Beträge, Varianten und Kontrollannahmen durch; liefert eine Berechnungstabelle mit Schwellen, Annahmen und Kontrollfragen."
+description: "Für Lohnpfändung und Arbeitgeber: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Lohnpfändung und Arbeitgeber: pfändbarer Betrag, Drittschuldner, Abtretung, Offenlegung und Arbeitsplatzschutz.

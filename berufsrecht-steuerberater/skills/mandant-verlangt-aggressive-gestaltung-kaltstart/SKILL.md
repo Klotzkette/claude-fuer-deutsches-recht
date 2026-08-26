@@ -1,6 +1,6 @@
 ---
 name: mandant-verlangt-aggressive-gestaltung-kaltstart
-description: "Wenn es um Mandant Verlangt Aggressive Gestaltung Kaltstart in Berufsrecht Steuerberater geht: klärt Rolle, Ziel, Frist, Unterlagen und den passenden nächsten Fachskill; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Mandant Verlangt Aggressive Gestaltung Kaltstart: routet Rolle, Frist, Unterlagen und Fachschritt; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Steuerberater: mandant verlangt aggressive gestaltung - Kaltstart mit Faktenmatrix, Risikoampel und fehlenden Unterlagen

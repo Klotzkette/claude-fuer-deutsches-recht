@@ -1,6 +1,6 @@
 ---
 name: chn-024-anti-coercion-instrument-eu
-description: "Wenn es um Anti Coercion Instrument EU in China-Wirtschaftsverkehr geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Anti Coercion Instrument EU: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Schnittstellenkarte mit Zuständigkeits- und Nachweisfragen."
 ---
 
 # Anti Coercion Instrument EU

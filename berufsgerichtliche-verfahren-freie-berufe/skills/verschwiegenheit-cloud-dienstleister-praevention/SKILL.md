@@ -1,6 +1,6 @@
 ---
 name: verschwiegenheit-cloud-dienstleister-praevention
-description: "Wenn es um Verschwiegenheit und Cloud-Dienstleister: Präventions- und Organisationspaket in Berufsgerichtliche Verfahren Freie Berufe geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen."
+description: "Für Verschwiegenheit und Cloud-Dienstleister: Präventions- und Organisationspaket: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Verschwiegenheit und Cloud-Dienstleister: Präventions- und Organisationspaket

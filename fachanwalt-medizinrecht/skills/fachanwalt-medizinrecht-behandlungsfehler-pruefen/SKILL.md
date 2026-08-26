@@ -1,6 +1,6 @@
 ---
 name: fachanwalt-medizinrecht-behandlungsfehler-pruefen
-description: "Wenn es um Behandlungsfehler prüfen in Fachanwalt Medizinrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Behandlungsfehler prüfen: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Behandlungsfehler prüfen

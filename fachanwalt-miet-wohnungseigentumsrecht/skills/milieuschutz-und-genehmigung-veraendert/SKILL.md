@@ -1,6 +1,6 @@
 ---
 name: milieuschutz-und-genehmigung-veraendert
-description: "Wenn es um Milieuschutz Und Genehmigung Veraendert in Fachanwalt Miet- und Wohnungseigentumsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Milieuschutz und Genehmigung Verändert: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Schnittstellenkarte mit Zuständigkeits- und Nachweisfragen."
 ---
 
 # Spezialfall Milieuschutzgebiet (soziale Erhaltungssatzung § 172 BauGB): Genehmigungspflicht von Modernisierungen und Aufteilung, Vorkaufsrecht der Gemeinde, Abwendungsvereinbarungen, Mietpreisbegrenzungen

@@ -1,6 +1,6 @@
 ---
 name: telekommunikation-inhouse-verkabelung-gebaeudenetze
-description: "Wenn es um Telekommunikation: Inhouse-Verkabelung Gebäudenetze in Bundesnetzagentur-Verfahren geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen."
+description: "Für Telekommunikation: Inhouse-Verkabelung Gebäudenetze: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Schnittstellenkarte mit Zuständigkeits- und Nachweisfragen."
 ---
 
 # Telekommunikation: Inhouse-Verkabelung Gebäudenetze

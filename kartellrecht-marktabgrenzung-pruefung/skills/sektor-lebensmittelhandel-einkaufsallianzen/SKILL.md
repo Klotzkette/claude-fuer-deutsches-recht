@@ -1,6 +1,6 @@
 ---
 name: sektor-lebensmittelhandel-einkaufsallianzen
-description: "Wenn es um Sektor Lebensmittelhandel und Einkaufsallianzen in Kartellrecht — Marktabgrenzungsprüfung geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Sektor Lebensmittelhandel und Einkaufsallianzen: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Sektor Lebensmittelhandel und Einkaufsallianzen

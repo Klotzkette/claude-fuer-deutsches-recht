@@ -1,6 +1,6 @@
 ---
 name: fuenf-behoerden-gericht-und-registerweg
-description: "Wenn es um Fuenf: Behörden-, Gerichts- oder Registerweg in BAV Strategie Konzern — Treuenfels Yamamoto Rechtsanwälte geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Fünf: Behörden-, Gerichts- oder Registerweg: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Einreichungsplan mit Form- und Nachweischeck."
 ---
 
 # Fuenf: Behörden-, Gerichts- oder Registerweg

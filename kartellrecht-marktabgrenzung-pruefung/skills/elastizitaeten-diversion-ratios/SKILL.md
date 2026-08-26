@@ -1,6 +1,6 @@
 ---
 name: elastizitaeten-diversion-ratios
-description: "Wenn es um Elastizitäten und Diversion Ratios in Kartellrecht — Marktabgrenzungsprüfung geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Elastizitäten und Diversion Ratios: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Elastizitäten und Diversion Ratios

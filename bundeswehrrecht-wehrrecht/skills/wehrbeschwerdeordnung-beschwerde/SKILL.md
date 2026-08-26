@@ -1,6 +1,6 @@
 ---
 name: wehrbeschwerdeordnung-beschwerde
-description: "Wenn es um Wehrbeschwerdeordnung – Beschwerde, Frist und Form in Bundeswehrrecht und Wehrrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Wehrbeschwerdeordnung – Beschwerde, Frist und Form: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Wehrbeschwerdeordnung – Beschwerde, Frist und Form

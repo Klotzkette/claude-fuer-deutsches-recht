@@ -1,6 +1,6 @@
 ---
 name: mental-health-boundaries
-description: "Wenn es um Mental Health und Grenzen in Kanzlei Management geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Mental Health und Grenzen: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Mental Health und Grenzen

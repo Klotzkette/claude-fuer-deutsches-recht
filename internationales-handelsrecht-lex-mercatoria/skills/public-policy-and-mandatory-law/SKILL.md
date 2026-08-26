@@ -1,6 +1,6 @@
 ---
 name: public-policy-and-mandatory-law
-description: "Wenn es um Ordre Public und Eingriffsnormen in Internationales Handelsrecht und Lex Mercatoria geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Ordre Public und Eingriffsnormen: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Ordre Public und Eingriffsnormen

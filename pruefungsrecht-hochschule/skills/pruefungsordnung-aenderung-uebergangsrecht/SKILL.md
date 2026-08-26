@@ -1,6 +1,6 @@
 ---
 name: pruefungsordnung-aenderung-uebergangsrecht
-description: "Wenn es um Prüfungsordnungsänderung und Übergangsrecht in Prüfungsrecht an Hochschulen und Universitäten geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Prüfungsordnungsänderung und Übergangsrecht: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Tatbestands- oder Anspruchsmatrix."
 ---
 
 # Prüfungsordnungsänderung und Übergangsrecht

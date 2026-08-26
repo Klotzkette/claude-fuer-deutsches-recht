@@ -1,6 +1,6 @@
 ---
 name: bmi-sicherheits-und-polizeirecht
-description: "Wenn es um Sicherheits- und Polizeirecht (BMI) in Legistik-Werkstatt geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen."
+description: "Für Sicherheits- und Polizeirecht (BMI): ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Sicherheits- und Polizeirecht (BMI)

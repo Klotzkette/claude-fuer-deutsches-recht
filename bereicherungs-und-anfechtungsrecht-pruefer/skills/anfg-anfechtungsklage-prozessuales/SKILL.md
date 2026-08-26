@@ -1,6 +1,6 @@
 ---
 name: anfg-anfechtungsklage-prozessuales
-description: "Wenn es um Anfechtungsklage AnfG — Prozessuales in bereicherungs-und-anfechtungsrecht-prüfer geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Anfechtungsklage AnfG — Prozessuales: erstellt Entwurf mit Antrag, Beweis und Anlagen; Ergebnis: Schriftsatz mit Begründungs- und Anlagenlogik."
 ---
 
 # Anfechtungsklage AnfG — Prozessuales

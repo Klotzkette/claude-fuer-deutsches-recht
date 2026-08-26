@@ -1,6 +1,6 @@
 ---
 name: abo-modell-registertext-schreiben
-description: "Wenn es um Abo Modell Registertext Schreiben in Verbraucherschutzverband Durchsetzung geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Abo Modell Registertext Schreiben: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Einreichungsplan mit Form- und Nachweischeck."
 ---
 
 # Abo Modell Registertext Schreiben

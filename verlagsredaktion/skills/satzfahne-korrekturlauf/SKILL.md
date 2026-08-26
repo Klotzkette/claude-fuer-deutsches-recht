@@ -1,6 +1,6 @@
 ---
 name: satzfahne-korrekturlauf
-description: "Wenn es um Satzfahne und Korrekturlauf in Verlagsredaktion geht: rechnet Schwellen, Beträge, Varianten und Kontrollannahmen durch; liefert eine Berechnungstabelle mit Schwellen, Annahmen und Kontrollfragen."
+description: "Für Satzfahne und Korrekturlauf: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Satzfahne und Korrekturlauf

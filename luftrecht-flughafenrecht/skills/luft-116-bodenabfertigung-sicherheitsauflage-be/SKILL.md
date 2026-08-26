@@ -1,6 +1,6 @@
 ---
 name: luft-116-bodenabfertigung-sicherheitsauflage-be
-description: "Wenn es um Bodenabfertigung Sicherheitsauflage Be in Luftrecht und Flughafenrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Bodenabfertigung Sicherheitsauflage Be: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Bodenabfertigung Sicherheitsauflage Be

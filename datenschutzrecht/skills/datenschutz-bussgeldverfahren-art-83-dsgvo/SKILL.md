@@ -1,6 +1,6 @@
 ---
 name: datenschutz-bussgeldverfahren-art-83-dsgvo
-description: "Wenn es um Datenschutz-Bußgeldverfahren — Verteidigung nach Art. 83 DSGVO in Datenschutzrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Datenschutz-Bußgeldverfahren — Verteidigung nach Art. 83 DSGVO: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Datenschutz-Bußgeldverfahren — Verteidigung nach Art. 83 DSGVO

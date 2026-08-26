@@ -1,6 +1,6 @@
 ---
 name: datenbankrecht-app-store-und-app-daten
-description: "Wenn es um Datenbankrecht für App Stores und App-Daten — DMA und Herstellerrecht in Datenbankrecht und Datenbankherstellerrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Datenbankrecht für App Stores und App-Daten — DMA und Herstellerrecht: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Datenbankrecht für App Stores und App-Daten — DMA und Herstellerrecht

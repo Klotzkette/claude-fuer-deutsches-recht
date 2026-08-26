@@ -1,6 +1,6 @@
 ---
 name: konzernabschluss-auslandskomponente-kaltstar
-description: "Wenn es um Konzernabschluss Auslandskomponente Kaltstar in Berufsrecht Wirtschaftsprüfer geht: klärt Rolle, Ziel, Frist, Unterlagen und den passenden nächsten Fachskill; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Konzernabschluss Auslandskomponente Kaltstar: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Schnittstellenkarte mit Zuständigkeits- und Nachweisfragen."
 ---
 
 # Wirtschaftsprüfer: konzernabschluss auslandskomponente - Kaltstart mit Faktenmatrix, Risikoampel und fehlenden Unterlagen

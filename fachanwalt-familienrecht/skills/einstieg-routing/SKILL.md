@@ -1,6 +1,6 @@
 ---
 name: einstieg-routing
-description: "Startet ein familienrechtliches Mandat aus den vorhandenen Unterlagen ohne Abfragekaskade. Trennt Eilspur, Verfahrensgegenstand, Anwaltszwang, Stichtage, Berechnung und Kindeswohl und leitet mit einem konkreten Erstprodukt zu Unterhalt, Zugewinn, Versorgungsausgleich, Sorge, Umgang oder Gewaltschutz weiter."
+description: "Startet ein familienrechtliches Mandat aus den vorhandenen Unterlagen ohne Abfragekaskade."
 ---
 
 # Einstieg und Fallrouting im Familienrecht

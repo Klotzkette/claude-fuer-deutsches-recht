@@ -1,6 +1,6 @@
 ---
 name: vertrieb-verwertung-schadensersatz
-description: "Wenn es um Verwertungskette und Vertrieb in Urheberrecht DE EU geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Verwertungskette und Vertrieb: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Verwertungskette und Vertrieb

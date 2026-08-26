@@ -1,6 +1,6 @@
 ---
 name: 802l-verhandlung-vergleich-und-eskalation
-description: "Wenn es um 802L: Verhandlung, Vergleich und Eskalation in Zwangsvollstreckung geht: entwickelt Verhandlungsziel, Vergleichskorridor und Eskalationspfad; liefert eine Verhandlungs- oder Eskalationslinie mit Optionen."
+description: "Für 802L: Verhandlung, Vergleich und Eskalation: entwickelt Ziel, Vergleich und Eskalation; Ergebnis: Verhandlungs- oder Eskalationslinie."
 ---
 
 # 802L: Verhandlung, Vergleich und Eskalation

@@ -1,6 +1,6 @@
 ---
 name: haftpflichtversicherung-deckungsluecke-organisationspf
-description: "Wenn es um Haftpflichtversicherung Deckungsluecke Organisationspf in Berufsrecht Anwälte geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Haftpflichtversicherung Deckungslücke Organisationspf: ordnet Akte, Belege und Lücken; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Anwälte: haftpflichtversicherung deckungsluecke - Organisationspflichten, Prävention, Team-Anweisung und Fristenkontrolle

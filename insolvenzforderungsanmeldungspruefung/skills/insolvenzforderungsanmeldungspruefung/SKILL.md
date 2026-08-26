@@ -1,6 +1,6 @@
 ---
 name: insolvenzforderungsanmeldungspruefung
-description: "Wenn es um Ifap: Mandantenkommunikation und Entscheidungsvorlage in Insolvenzforderungsanmeldungsprüfung geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Ifap: Mandantenkommunikation und Entscheidungsvorlage: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Tatbestands- oder Anspruchsmatrix."
 ---
 
 # Ifap: Mandantenkommunikation und Entscheidungsvorlage

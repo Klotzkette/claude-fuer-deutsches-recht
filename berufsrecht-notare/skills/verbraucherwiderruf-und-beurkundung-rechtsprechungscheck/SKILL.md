@@ -1,6 +1,6 @@
 ---
 name: verbraucherwiderruf-und-beurkundung-rechtsprechungscheck
-description: "Wenn es um Verbraucherwiderruf Und Beurkundung Rechtsprechungscheck in Berufsrecht Notare geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Gegenprüfung mit Fehler-, Beweis- und Fristencheck."
+description: "Für Verbraucherwiderruf und Beurkundung Rechtsprechungscheck: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Schnittstellenkarte mit Zuständigkeits- und Nachweisfragen."
 ---
 
 # Notare: verbraucherwiderruf und beurkundung - Rechtsprechungscheck, stärkste Gegenansicht und Red-Team-Korrektur

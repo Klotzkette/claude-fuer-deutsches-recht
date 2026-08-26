@@ -1,6 +1,6 @@
 ---
 name: bautraeger-mabv-vermoegenstrennung
-description: "Wenn es um Bautraeger Mabv Vermoegenstrennung in Fachanwalt Bau Architektenrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Bauträger Mabv Vermögenstrennung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # MaBV Vermögenstrennung — Bautraeger muss die Gelder der Erwerber separiert vom eigenen Vermögen behandeln

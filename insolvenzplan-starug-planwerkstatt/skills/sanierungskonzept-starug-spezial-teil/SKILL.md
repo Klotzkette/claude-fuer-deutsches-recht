@@ -1,6 +1,6 @@
 ---
 name: sanierungskonzept-starug-spezial-teil
-description: "Wenn es um Sanierungskonzept: Risikoampel, Gegenargumente und Verteidigungslinien in Insolvenzplan- und StaRUG-Planwerkstatt geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Sanierungskonzept: Risikoampel, Gegenargumente und Verteidigungslinien: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Sanierungskonzept: Risikoampel, Gegenargumente und Verteidigungslinien

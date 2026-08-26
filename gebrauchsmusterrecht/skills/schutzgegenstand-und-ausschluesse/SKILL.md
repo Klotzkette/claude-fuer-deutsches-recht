@@ -1,6 +1,6 @@
 ---
 name: schutzgegenstand-und-ausschluesse
-description: "Wenn es um Schutzgegenstand Und Ausschluesse in gebrauchsmusterrecht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen."
+description: "Für Schutzgegenstand und Ausschlüsse: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Schutzgegenstand Und Ausschluesse

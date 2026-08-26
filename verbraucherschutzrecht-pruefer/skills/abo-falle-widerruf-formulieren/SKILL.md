@@ -1,6 +1,6 @@
 ---
 name: abo-falle-widerruf-formulieren
-description: "Wenn es um Abo Falle Widerruf Formulieren in Verbraucherschutzrecht Prüfer geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Abo Falle Widerruf Formulieren: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Abo Falle Widerruf Formulieren

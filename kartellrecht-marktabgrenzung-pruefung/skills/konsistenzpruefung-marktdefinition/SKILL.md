@@ -1,6 +1,6 @@
 ---
 name: konsistenzpruefung-marktdefinition
-description: "Wenn es um Konsistenzprüfung der Marktdefinition in Kartellrecht — Marktabgrenzungsprüfung geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Konsistenzprüfung der Marktdefinition: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Tatbestands- oder Anspruchsmatrix."
 ---
 
 # Konsistenzprüfung der Marktdefinition

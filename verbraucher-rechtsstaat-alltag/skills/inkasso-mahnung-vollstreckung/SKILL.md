@@ -1,6 +1,6 @@
 ---
 name: inkasso-mahnung-vollstreckung
-description: "Wenn es um Inkasso, Mahnung und Vollstreckung in Verbraucher im Rechtsstaat Alltag geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Inkasso, Mahnung und Vollstreckung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Inkasso, Mahnung und Vollstreckung

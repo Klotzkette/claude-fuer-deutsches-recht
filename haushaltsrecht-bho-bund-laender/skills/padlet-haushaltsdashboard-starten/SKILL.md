@@ -1,6 +1,6 @@
 ---
 name: padlet-haushaltsdashboard-starten
-description: "Wenn es um Padlet Haushaltsdashboard Starten in Haushaltsrecht BHO Bund und Länder geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
+description: "Für Padlet Haushaltsdashboard Starten: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Padlet Haushaltsdashboard Starten

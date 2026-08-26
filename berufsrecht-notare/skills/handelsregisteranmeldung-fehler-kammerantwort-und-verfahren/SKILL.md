@@ -1,6 +1,6 @@
 ---
 name: handelsregisteranmeldung-fehler-kammerantwort-und-verfahren
-description: "Wenn es um Handelsregisteranmeldung Fehler Kammerantwort Und Verfahren in Berufsrecht Notare geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert einen Einreichungsplan mit Form-, Portal- und Nachweischeck."
+description: "Für Handelsregisteranmeldung Fehler Kammerantwort und Verfahren: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Einreichungsplan mit Form- und Nachweischeck."
 ---
 
 # Notare: handelsregisteranmeldung fehler - Kammerantwort mit Verfahrensstrategie, Tonlage und Belegplan

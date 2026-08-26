@@ -1,6 +1,6 @@
 ---
 name: rechtsberatungsstellen
-description: "Wenn es um Rechtsberatungsstelle: Compliance-Dokumentation und Aktenvermerk in Plugin für die studentische Rechtsberatungsstelle geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
+description: "Für Rechtsberatungsstelle: Compliance-Dokumentation und Aktenvermerk: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Rechtsberatungsstelle: Compliance-Dokumentation und Aktenvermerk

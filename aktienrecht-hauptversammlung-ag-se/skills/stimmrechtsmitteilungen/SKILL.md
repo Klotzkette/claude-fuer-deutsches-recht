@@ -1,6 +1,6 @@
 ---
 name: stimmrechtsmitteilungen
-description: "Wenn es um Stimmrechtsmitteilungen in Hauptversammlung AG und SE geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Stimmrechtsmitteilungen: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Stimmrechtsmitteilungen

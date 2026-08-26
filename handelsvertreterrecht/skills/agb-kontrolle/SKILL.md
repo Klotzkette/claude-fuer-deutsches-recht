@@ -1,6 +1,6 @@
 ---
 name: agb-kontrolle
-description: "Wenn es um AGB-Kontrolle im Handelsvertretervertrag nach Paragrafen 305 ff. BGB und Paragraf 92c HGB in Handelsvertreterrecht und Vertriebsverträge geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Gegenprüfung mit Fehler-, Beweis- und Fristencheck."
+description: "Für AGB-Kontrolle im Handelsvertretervertrag nach Paragrafen 305 ff. BGB und Paragraf 92c HGB: prüft Ergebnis, Beweislast und Gegenposition; Ergebnis: Gegenprüfung mit Beweis- und Fristencheck."
 ---
 
 # AGB-Kontrolle im Handelsvertretervertrag nach §§ 305 ff. BGB und § 92c HGB

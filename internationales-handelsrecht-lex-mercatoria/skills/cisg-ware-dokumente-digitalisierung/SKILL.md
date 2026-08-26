@@ -1,6 +1,6 @@
 ---
 name: cisg-ware-dokumente-digitalisierung
-description: "Wenn es um Ware, Dokumente und Digitalisierung (CISG Art. 34-35) in Internationales Handelsrecht und Lex Mercatoria geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
+description: "Für Ware, Dokumente und Digitalisierung (CISG Art. 34-35): ordnet Akte, Belege und Lücken; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Ware, Dokumente und Digitalisierung (CISG Art. 34-35)

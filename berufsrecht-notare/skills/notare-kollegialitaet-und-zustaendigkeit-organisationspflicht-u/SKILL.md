@@ -1,6 +1,6 @@
 ---
 name: notare-kollegialitaet-und-zustaendigkeit-organisationspflicht-u
-description: "Wenn es um Notare Kollegialitaet Und Zuständigkeit Organisationspflicht U in Berufsrecht Notare geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Notare Kollegialität und Zuständigkeit Organisationspflicht U: prüft Frist, Form, Zuständigkeit und Eilbedarf; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Notare: kollegialitaet und zustaendigkeit - Organisationspflichten, Prävention, Team-Anweisung und Fristenkontrolle

@@ -1,6 +1,6 @@
 ---
 name: belegvernichtung-und-aufbewahrung-kammerantwort-u
-description: "Wenn es um Belegvernichtung Und Aufbewahrung Kammerantwort U in Berufsrecht Steuerberater geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Verhandlungs- oder Eskalationslinie mit Optionen."
+description: "Für Belegvernichtung und Aufbewahrung Kammerantwort U: ordnet Akte, Belege und Lücken; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Steuerberater: belegvernichtung und aufbewahrung - Kammerantwort mit Verfahrensstrategie, Tonlage und Belegplan

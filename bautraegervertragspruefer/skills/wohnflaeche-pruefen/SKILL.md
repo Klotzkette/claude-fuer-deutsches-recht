@@ -1,6 +1,6 @@
 ---
 name: wohnflaeche-pruefen
-description: "Wenn es um Wohnfläche prüfen in Bauträgervertragspruefer geht: rechnet Schwellen, Beträge, Varianten und Kontrollannahmen durch; liefert eine Berechnungstabelle mit Schwellen, Annahmen und Kontrollfragen."
+description: "Für Wohnfläche prüfen: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Wohnfläche prüfen

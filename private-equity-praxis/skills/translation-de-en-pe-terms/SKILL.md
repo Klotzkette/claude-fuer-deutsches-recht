@@ -1,6 +1,6 @@
 ---
 name: translation-de-en-pe-terms
-description: "Wenn es um DE/EN PE-Terms: präzise übersetzen in Private Equity Praxis geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für DE/EN PE-Terms: präzise übersetzen: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # DE/EN PE-Terms: präzise übersetzen

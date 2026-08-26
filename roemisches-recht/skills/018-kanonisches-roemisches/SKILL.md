@@ -1,6 +1,6 @@
 ---
 name: 018-kanonisches-roemisches
-description: "Wenn es um Römisches Recht: Kanonisches Recht und römisches Recht Wechselwirkung in Römisches Recht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Römisches Recht: Kanonisches Recht und römisches Recht Wechselwirkung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Römisches Recht: Kanonisches Recht und römisches Recht Wechselwirkung

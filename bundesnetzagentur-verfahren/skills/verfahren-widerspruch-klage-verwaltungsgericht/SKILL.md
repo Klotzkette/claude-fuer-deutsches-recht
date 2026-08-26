@@ -1,6 +1,6 @@
 ---
 name: verfahren-widerspruch-klage-verwaltungsgericht
-description: "Wenn es um Verfahren: Widerspruch Klage Verwaltungsgericht in Bundesnetzagentur-Verfahren geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
+description: "Für Verfahren: Widerspruch Klage Verwaltungsgericht: erstellt Entwurf mit Antrag, Beweis und Anlagen; Ergebnis: Schriftsatz mit Begründungs- und Anlagenlogik."
 ---
 
 # Verfahren: Widerspruch Klage Verwaltungsgericht

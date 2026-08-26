@@ -1,6 +1,6 @@
 ---
 name: regelverfahren-insolvenzverwalter
-description: "Wenn es um Regelverfahren nach Eröffnung in Insolvenzverwaltung - IV-Cockpit geht: rechnet Schwellen, Beträge, Varianten und Kontrollannahmen durch; liefert eine Berechnungstabelle mit Schwellen, Annahmen und Kontrollfragen."
+description: "Für Regelverfahren nach Eröffnung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Regelverfahren nach Eröffnung

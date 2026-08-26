@@ -1,6 +1,6 @@
 ---
 name: fachanwalt-agrarrecht-eu-agrarfoerderung
-description: "Wenn es um EU-Agrarförderung in Fachanwalt Agrarrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für EU-Agrarförderung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Schnittstellenkarte mit Zuständigkeits- und Nachweisfragen."
 ---
 
 # EU-Agrarförderung

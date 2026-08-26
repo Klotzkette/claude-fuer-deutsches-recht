@@ -1,6 +1,6 @@
 ---
 name: heilmwerbg-risikoampel-und-gegenargumente
-description: "Wenn es um Heilmwerbg: Risikoampel, Gegenargumente und Verteidigungslinien in Regulatorisches Recht – Plugin für deutsches geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Heilmwerbg: Risikoampel, Gegenargumente und Verteidigungslinien: prüft Ergebnis, Beweislast und Gegenposition; Ergebnis: Fristen- und Risikoampel."
 ---
 
 # Heilmwerbg: Risikoampel, Gegenargumente und Verteidigungslinien

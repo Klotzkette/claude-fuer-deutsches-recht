@@ -1,6 +1,6 @@
 ---
 name: inv-042-works-council-conflict
-description: "Wenn es um Internal Investigation: Works Council Conflict in Internal Investigations Praxis geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Beweislast- und Substantiierungsmatrix."
+description: "Für Internal Investigation: Works Council Conflict: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Internal Investigation: Works Council Conflict

@@ -1,6 +1,6 @@
 ---
 name: e-mail-erstantwort-und-terminrouting
-description: "Wenn es um E-Mail-Erstantwort, Terminrouting und Mandatsannahmehinweis in mandantenanfragen-assistent geht: klärt Rolle, Ziel, Frist, Unterlagen und den passenden nächsten Fachskill; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen."
+description: "Für E-Mail-Erstantwort, Terminrouting und Mandatsannahmehinweis: routet Rolle, Frist, Unterlagen und Fachschritt; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # E-Mail-Erstantwort, Terminrouting und Mandatsannahmehinweis

@@ -1,6 +1,6 @@
 ---
 name: baugrund-altlasten-untersuchungsbedarf
-description: "Wenn es um Baugrund, Altlasten Und Untersuchungsbedarf in HOAI Leistungsphasen Praxis geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
+description: "Für Baugrund, Altlasten und Untersuchungsbedarf: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Baugrund, Altlasten Und Untersuchungsbedarf

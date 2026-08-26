@@ -1,6 +1,6 @@
 ---
 name: diebstahl-unterschlagung
-description: "Wenn es um Diebstahl und Unterschlagung in Strafanzeige-Vorbereiter geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Diebstahl und Unterschlagung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Diebstahl und Unterschlagung

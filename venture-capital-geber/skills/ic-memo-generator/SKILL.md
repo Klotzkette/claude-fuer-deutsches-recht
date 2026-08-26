@@ -1,6 +1,6 @@
 ---
 name: ic-memo-generator
-description: "Wenn es um Investment Committee Memo in Venture Capital Geber geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
+description: "Für Investment Committee Memo: erstellt Entwurf mit Antrag, Beweis und Anlagen; Ergebnis: Schriftsatz mit Begründungs- und Anlagenlogik."
 ---
 
 # Investment Committee Memo

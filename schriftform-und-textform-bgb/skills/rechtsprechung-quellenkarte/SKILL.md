@@ -1,6 +1,6 @@
 ---
 name: rechtsprechung-quellenkarte
-description: "Wenn es um Rechtsprechung Quellenkarte in Schriftform und Textform im BGB geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Tatbestands- oder Anspruchsmatrix mit Gegenargumenten."
+description: "Für Rechtsprechung Quellenkarte: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Rechtsprechung Quellenkarte

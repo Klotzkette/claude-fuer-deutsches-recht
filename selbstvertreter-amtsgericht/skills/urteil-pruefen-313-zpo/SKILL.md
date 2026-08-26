@@ -1,6 +1,6 @@
 ---
 name: urteil-pruefen-313-zpo
-description: "Wenn es um Das schriftliche Urteil prüfen in selbstvertreter-amtsgericht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Das schriftliche Urteil prüfen: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Das schriftliche Urteil prüfen

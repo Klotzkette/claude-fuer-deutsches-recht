@@ -1,6 +1,6 @@
 ---
 name: redaktionelle-rueckmeldung-formulieren
-description: "Wenn es um Redaktionelle Rueckmeldung formulieren in Verlagsredaktion geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
+description: "Für Redaktionelle Rückmeldung formulieren: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Redaktionelle Rueckmeldung formulieren

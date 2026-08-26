@@ -1,6 +1,6 @@
 ---
 name: agrarflaeche-erwerbsbeschraenkung-paragraf-9-grdstvg-hofstelle
-description: "Prüft die Genehmigung eines Kaufs land- oder forstwirtschaftlicher Flächen nach dem Grundstückverkehrsrecht. Bewertet Landesrecht, Freigrenze, Genehmigungsfiktion, Erwerberstatus, aufstockungsbedürftigen Landwirt, grobes Wertmissverhältnis und siedlungsrechtliches Vorkaufsrecht und erstellt Verfahrenschronologie und Antrag."
+description: "Prüft die Genehmigung eines Kaufs land- oder forstwirtschaftlicher Flächen nach dem Grundstückverkehrsrecht."
 ---
 
 # Erwerb landwirtschaftlicher Flächen prüfen

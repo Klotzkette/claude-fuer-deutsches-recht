@@ -1,6 +1,6 @@
 ---
 name: aussenwirtschaft-transferpricing-zollwert-abgleich
-description: "Wenn es um Zollwert und Verrechnungspreise: Konsistenzpruefung und Nacherhebungsrisiko in Außenwirtschaft, Sanktionen, Zoll und CBAM geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Zollwert und Verrechnungspreise: Konsistenzprüfung und Nacherhebungsrisiko: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Zollwert und Verrechnungspreise: Konsistenzpruefung und Nacherhebungsrisiko

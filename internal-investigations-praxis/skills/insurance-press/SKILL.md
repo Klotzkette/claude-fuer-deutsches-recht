@@ -1,6 +1,6 @@
 ---
 name: insurance-press
-description: "Wenn es um Versicherungsmeldung bei Internal Investigations in Internal Investigations Praxis geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Verhandlungs- oder Eskalationslinie mit Optionen."
+description: "Für Versicherungsmeldung bei Internal Investigations: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Versicherungsmeldung bei Internal Investigations

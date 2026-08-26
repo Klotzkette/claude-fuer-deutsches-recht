@@ -1,6 +1,6 @@
 ---
 name: geschaeftsgeheimnisse-logdaten-grundrechte
-description: "Wenn es um Geschäftsgeheimnisse und Logdaten in robotik-recht geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt. Auswahlstichwort: Geschaeftsgeheimnisse Logdaten Grundrechte; Arbeitsfeld: robotik-recht."
+description: "Für Geschäftsgeheimnisse und Logdaten: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt. Fachgebiet: robotik-recht. Route: geschaeftsgeheimnisse-logdaten-grundrechte."
 ---
 
 # Geschäftsgeheimnisse und Logdaten

@@ -1,6 +1,6 @@
 ---
 name: datenschutz-und-schamfreie-akte
-description: "Wenn es um Datenschutz Und Schamfreie Akte in Verbraucherinsolvenz und Schuldenbereinigung geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Datenschutz und Schamfreie Akte: ordnet Akte, Belege und Lücken; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Datenschutz und schamfreie Akte: sensible Daten, Familienmitglieder, Beratung, Cloud und sichere Dokumentenmappe.

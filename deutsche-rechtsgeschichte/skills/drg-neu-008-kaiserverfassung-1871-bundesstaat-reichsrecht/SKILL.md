@@ -1,6 +1,6 @@
 ---
 name: drg-neu-008-kaiserverfassung-1871-bundesstaat-reichsrecht
-description: "Wenn es um Deutsche Rechtsgeschichte: Kaiserreichsverfassung 1871 Bundesstaat und Reichsrecht in Deutsche Rechtsgeschichte geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Deutsche Rechtsgeschichte: Kaiserreichsverfassung 1871 Bundesstaat und Reichsrecht: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Schnittstellenkarte mit Zuständigkeits- und Nachweisfragen."
 ---
 
 # Deutsche Rechtsgeschichte: Kaiserreichsverfassung 1871 Bundesstaat und Reichsrecht

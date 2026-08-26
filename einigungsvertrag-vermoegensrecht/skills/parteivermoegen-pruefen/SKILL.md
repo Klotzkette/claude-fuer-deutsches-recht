@@ -1,6 +1,6 @@
 ---
 name: parteivermoegen-pruefen
-description: "Wenn es um Parteivermoegen Prüfen in Einigungsvertrag und Vermögensrecht geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Parteivermögen Prüfen: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt. Fachgebiet: Einigungsvertrag und Vermögensrecht. Route: parteivermoegen-pruefen."
 ---
 
 # Parteivermoegen Prüfen

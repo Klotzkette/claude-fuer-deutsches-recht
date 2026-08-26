@@ -1,6 +1,6 @@
 ---
 name: spezial-verletzungsklage-sonderfall-und-edge-case
-description: "Wenn es um Verletzungsklage: Sonderfall und Edge-Case-Prüfung in Fachanwalt Gewerblicher Rechtsschutz geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
+description: "Für Verletzungsklage: Sonderfall und Edge-Case-Prüfung: erstellt Entwurf mit Antrag, Beweis und Anlagen; Ergebnis: Schriftsatz mit Begründungs- und Anlagenlogik."
 ---
 
 # Verletzungsklage: Sonderfall und Edge-Case-Prüfung

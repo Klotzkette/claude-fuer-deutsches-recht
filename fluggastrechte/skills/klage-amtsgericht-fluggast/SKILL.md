@@ -1,6 +1,6 @@
 ---
 name: klage-amtsgericht-fluggast
-description: "Wenn es um Klage Amtsgericht Fluggast in Fluggastrechte geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
+description: "Für Klage Amtsgericht Fluggast: erstellt Entwurf mit Antrag, Beweis und Anlagen; Ergebnis: Schriftsatz mit Begründungs- und Anlagenlogik."
 ---
 
 beA-Konvention:

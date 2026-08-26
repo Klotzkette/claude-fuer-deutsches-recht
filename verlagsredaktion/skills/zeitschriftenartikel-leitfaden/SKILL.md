@@ -1,6 +1,6 @@
 ---
 name: zeitschriftenartikel-leitfaden
-description: "Wenn es um Verl: Zeitschriftenartikel in Verlagsredaktion geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Verl: Zeitschriftenartikel: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Verl: Zeitschriftenartikel

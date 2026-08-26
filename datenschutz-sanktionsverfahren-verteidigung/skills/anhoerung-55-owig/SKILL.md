@@ -1,6 +1,6 @@
 ---
 name: anhoerung-55-owig
-description: "Wenn es um Anhörung nach Paragraf 55 OWiG in Datenschutz-Sanktionsverfahren und Verteidigung geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
+description: "Für Anhörung nach Paragraf 55 OWiG: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt. Fachgebiet: Datenschutz-Sanktionsverfahren und Verteidigung."
 ---
 
 # Anhörung nach § 55 OWiG

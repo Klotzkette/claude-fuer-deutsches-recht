@@ -1,6 +1,6 @@
 ---
 name: rmap-bestimmtheit-und-justitiabilitaet
-description: "Wenn es um Bestimmtheit und Justitiabilitaet bei Rulemap-Normen in Legistik-Werkstatt geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Bestimmtheit und Justitiabilität bei Rulemap-Normen: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Bestimmtheit und Justitiabilitaet bei Rulemap-Normen

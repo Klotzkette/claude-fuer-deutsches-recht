@@ -1,6 +1,6 @@
 ---
 name: arzthaftung-fristen-form-und-zustaendigkeit
-description: "Wenn es um Arzthaftung: Fristen, Form, Zuständigkeit und Rechtsweg in Fachanwalt Medizinrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Arzthaftung: Fristen, Form, Zuständigkeit und Rechtsweg: prüft Frist, Form, Zuständigkeit und Eilbedarf; Ergebnis: Fristen- und Risikoampel."
 ---
 
 # Arzthaftung: Fristen, Form, Zuständigkeit und Rechtsweg

@@ -1,6 +1,6 @@
 ---
 name: anti-ki-beweissicherung-testkauf-bildmarke
-description: "Wenn es um Anti-digitale Werkzeuge-Marken und Authentizitätskennzeichen in markenrecht-fashion-luxus geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Anti-digitale Werkzeuge-Marken und Authentizitätskennzeichen: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Beweislast- und Substantiierungsmatrix."
 ---
 
 # Anti-KI-Marken und Authentizitätskennzeichen

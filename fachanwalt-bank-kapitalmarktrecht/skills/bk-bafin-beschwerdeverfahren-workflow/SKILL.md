@@ -1,6 +1,6 @@
 ---
 name: bk-bafin-beschwerdeverfahren-workflow
-description: "Wenn es um Bk Bafin Beschwerdeverfahren Workflow in Fachanwalt Bank Kapitalmarktrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Bk BaFin Beschwerdeverfahren Workflow: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # BaFin-Beschwerdeverfahren Workflow: Schritte einfache Beschwerde, Anhörung, Beanstandung, Maßnahme

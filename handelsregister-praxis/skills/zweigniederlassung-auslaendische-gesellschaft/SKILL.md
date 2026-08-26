@@ -1,6 +1,6 @@
 ---
 name: zweigniederlassung-auslaendische-gesellschaft
-description: "Wenn es um Zweigniederlassung Auslaendische Gesellschaft in Handelsregister Praxis geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert einen Einreichungsplan mit Form-, Portal- und Nachweischeck."
+description: "Für Zweigniederlassung Ausländische Gesellschaft: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Prüft Registerfähigkeit, Nachweise aus dem Herkunftsstaat, Übersetzung, Vertretungsmacht und deutsche Geschäftsanschrift.

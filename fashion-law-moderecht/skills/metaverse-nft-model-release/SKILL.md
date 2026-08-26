@@ -1,6 +1,6 @@
 ---
 name: metaverse-nft-model-release
-description: "Wenn es um Metaverse Nft Digital Fashion in fashion-law-moderecht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
+description: "Für Metaverse Nft Digital Fashion: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Metaverse Nft Digital Fashion

@@ -1,6 +1,6 @@
 ---
 name: tk-regulierungsakte-nummernverwaltung-unterlagenanforderung
-description: "Wenn es um TK-Regulierungsakte: Nummernverwaltung — Unterlagenanforderung in Bundesnetzagentur-Verfahren geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Dokumentenmatrix mit Nachforderungsliste."
+description: "Für TK-Regulierungsakte: Nummernverwaltung — Unterlagenanforderung: ordnet Akte, Belege und Lücken; Ergebnis: Dokumentenmatrix mit Nachforderungsliste."
 ---
 
 # TK-Regulierungsakte: Nummernverwaltung — Unterlagenanforderung

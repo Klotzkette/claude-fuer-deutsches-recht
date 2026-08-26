@@ -1,6 +1,6 @@
 ---
 name: datenschutz-auskunftei-restschuldbefreiung-art17
-description: "Wenn es um Art. 17 DSGVO gegen Auskunftei nach Restschuldbefreiung in Datenschutzrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. Auswahlstichwort: Datenschutz Auskunftei Restschuldbefreiung Art17; Arbeitsfeld: Datenschutzrecht."
+description: "Für Art. 17 DSGVO gegen Auskunftei nach Restschuldbefreiung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt. Fachgebiet: Datenschutzrecht. Route: datenschutz-auskunftei-restschuldbefreiung-art17."
 ---
 
 # Art. 17 DSGVO gegen Auskunftei nach Restschuldbefreiung

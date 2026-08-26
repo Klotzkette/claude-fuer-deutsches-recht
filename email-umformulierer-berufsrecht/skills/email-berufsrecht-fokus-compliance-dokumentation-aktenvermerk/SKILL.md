@@ -1,6 +1,6 @@
 ---
 name: email-berufsrecht-fokus-compliance-dokumentation-aktenvermerk
-description: "Wenn es um Fokus: Compliance-Dokumentation und Aktenvermerk in E-Mail-Umformulierer geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Fokus: Compliance-Dokumentation und Aktenvermerk: ordnet Akte, Belege und Lücken; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt. Fachgebiet: E-Mail-Umformulierer. Route: email-berufsrecht-fokus-compliance-dokumentation-aktenvermerk."
 ---
 
 # Fokus: Compliance-Dokumentation und Aktenvermerk

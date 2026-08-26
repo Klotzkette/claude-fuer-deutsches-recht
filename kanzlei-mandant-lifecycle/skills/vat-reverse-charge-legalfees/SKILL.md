@@ -1,6 +1,6 @@
 ---
 name: vat-reverse-charge-legalfees
-description: "Wenn es um Umsatzsteuer bei Legal Fees in Kanzlei-Mandant Lifecycle geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Umsatzsteuer bei Legal Fees: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Umsatzsteuer bei Legal Fees

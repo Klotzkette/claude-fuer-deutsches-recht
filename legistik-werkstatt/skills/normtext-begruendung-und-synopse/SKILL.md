@@ -1,6 +1,6 @@
 ---
 name: normtext-begruendung-und-synopse
-description: "Wenn es um Normtext, Begründung und Synopse als Gesetzgebungswerkstatt in Legistik-Werkstatt geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen. Auswahlstichwort: Normtext Begruendung Und Synopse; Arbeitsfeld: Legistik-Werkstatt."
+description: "Für Normtext, Begründung und Synopse als Gesetzgebungswerkstatt: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Tatbestands- oder Anspruchsmatrix. Fachgebiet: Legistik-Werkstatt. Route: normtext-begruendung-und-synopse."
 ---
 
 # Normtext, Begründung und Synopse als Gesetzgebungswerkstatt

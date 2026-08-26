@@ -1,6 +1,6 @@
 ---
 name: vert-agb-kontrolle-leistungsstoerungen-leitfaden
-description: "Wenn es um Vert: AGB-Kontrolle B2B in Vertragsrecht geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Vert: AGB-Kontrolle B2B: prüft Ergebnis, Beweislast und Gegenposition; Ergebnis: Gegenprüfung mit Beweis- und Fristencheck."
 ---
 
 # Vert: AGB-Kontrolle B2B

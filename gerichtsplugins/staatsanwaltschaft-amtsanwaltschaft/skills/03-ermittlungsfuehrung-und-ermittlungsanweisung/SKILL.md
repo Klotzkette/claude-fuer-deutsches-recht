@@ -1,6 +1,6 @@
 ---
 name: 03-ermittlungsfuehrung-und-ermittlungsanweisung
-description: "Wenn es um Ermittlungsführung und Ermittlungsanweisung in Staatsanwaltschaft und Amtsanwaltschaft geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Ermittlungsführung und Ermittlungsanweisung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Ermittlungsführung und Ermittlungsanweisung

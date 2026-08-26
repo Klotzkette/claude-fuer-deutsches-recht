@@ -1,6 +1,6 @@
 ---
 name: loesungsschemata
-description: "Wenn es um Lösungsschemata in Jurastudium geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
+description: "Für Lösungsschemata: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Lösungsschemata

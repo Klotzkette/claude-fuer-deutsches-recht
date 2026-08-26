@@ -1,6 +1,6 @@
 ---
 name: werftvertrag-wrackpflicht-pruefen
-description: "Wenn es um Werftvertrag – Wrackbeseitigungspflicht prüfen in See- und Schifffahrtsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Werftvertrag – Wrackbeseitigungspflicht prüfen: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Werftvertrag – Wrackbeseitigungspflicht prüfen

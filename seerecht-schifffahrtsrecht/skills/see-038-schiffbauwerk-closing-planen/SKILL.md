@@ -1,6 +1,6 @@
 ---
 name: see-038-schiffbauwerk-closing-planen
-description: "Wenn es um Schiffbauwerk Closing Planen in See- und Schifffahrtsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Schiffbauwerk Closing Planen: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Schiffbauwerk Closing Planen

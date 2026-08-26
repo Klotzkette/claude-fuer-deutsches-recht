@@ -1,6 +1,6 @@
 ---
 name: freundlicher-copilot
-description: "Wenn es um Freundlicher Corporate-Copilot in Corporate-Kanzlei geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. Auswahlstichwort: Freundlicher Copilot; Arbeitsfeld: Corporate-Kanzlei."
+description: "Für Freundlicher Corporate-Copilot: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Schnittstellenkarte mit Zuständigkeits- und Nachweisfragen. Fachgebiet: Corporate-Kanzlei. Route: freundlicher-copilot."
 ---
 
 # Freundlicher Corporate-Copilot

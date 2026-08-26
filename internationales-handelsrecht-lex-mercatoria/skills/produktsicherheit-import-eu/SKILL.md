@@ -1,6 +1,6 @@
 ---
 name: produktsicherheit-import-eu
-description: "Wenn es um Produktsicherheit beim EU-Import in Internationales Handelsrecht und Lex Mercatoria geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Produktsicherheit beim EU-Import: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Schnittstellenkarte mit Zuständigkeits- und Nachweisfragen."
 ---
 
 # Produktsicherheit beim EU-Import

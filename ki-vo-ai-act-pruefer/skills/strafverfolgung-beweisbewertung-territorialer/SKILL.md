@@ -1,6 +1,6 @@
 ---
 name: strafverfolgung-beweisbewertung-territorialer
-description: "Wenn es um Strafverfolgung: digitale Werkzeuge und Beweisbewertung in europäischem Technikregulierungsrecht geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Beweislast- und Substantiierungsmatrix. Auswahlstichwort: Strafverfolgung Beweisbewertung Territorialer; Arbeitsfeld: europäischem Technikregulierungsrecht."
+description: "Für Strafverfolgung: digitale Werkzeuge und Beweisbewertung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Beweislast- und Substantiierungsmatrix. Fachgebiet: europäischem Technikregulierungsrecht. Route: strafverfolgung-beweisbewertung-territorialer."
 ---
 
 # Strafverfolgung: KI und Beweisbewertung

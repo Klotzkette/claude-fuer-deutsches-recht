@@ -1,6 +1,6 @@
 ---
 name: interessenvertretung-begriff-interne
-description: "Wenn es um Begriff der Interessenvertretung in Lobbyregister Bundestag geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
+description: "Für Begriff der Interessenvertretung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Begriff der Interessenvertretung

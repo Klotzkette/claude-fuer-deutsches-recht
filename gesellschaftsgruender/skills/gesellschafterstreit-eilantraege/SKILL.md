@@ -1,6 +1,6 @@
 ---
 name: gesellschafterstreit-eilantraege
-description: "Wenn es um Gesellschafterstreit — Eilanträge in gesellschaftsgründer — Gründungsassistent für deutsche geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
+description: "Für Gesellschafterstreit — Eilanträge: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Gesellschafterstreit — Eilanträge

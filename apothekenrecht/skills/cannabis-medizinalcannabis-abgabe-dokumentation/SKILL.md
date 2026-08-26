@@ -1,6 +1,6 @@
 ---
 name: cannabis-medizinalcannabis-abgabe-dokumentation
-description: "Wenn es um Cannabis Medizinalcannabis Abgabe Dokumentation in Apothekenrecht geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
+description: "Für Cannabis Medizinalcannabis Abgabe Dokumentation: ordnet Akte, Belege und Lücken; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Cannabis Medizinalcannabis Abgabe Dokumentation

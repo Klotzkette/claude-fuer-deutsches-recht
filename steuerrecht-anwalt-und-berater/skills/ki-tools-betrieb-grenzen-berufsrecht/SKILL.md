@@ -1,6 +1,6 @@
 ---
 name: ki-tools-betrieb-grenzen-berufsrecht
-description: "Wenn es um digitale Werkzeuge-Tools im StB-Betrieb — Berufsrechtliche Grenzen in Steuerrecht – Steuerberater und Anwälte geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. Auswahlstichwort: Ki Tools Betrieb Grenzen Berufsrecht; Arbeitsfeld: Steuerrecht – Steuerberater und Anwälte."
+description: "Für digitale Werkzeuge-Tools im StB-Betrieb — Berufsrechtliche Grenzen: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt. Fachgebiet: Steuerrecht – Steuerberater und Anwälte. Route: ki-tools-betrieb-grenzen-berufsrecht."
 ---
 
 # KI-Tools im StB-Betrieb — Berufsrechtliche Grenzen

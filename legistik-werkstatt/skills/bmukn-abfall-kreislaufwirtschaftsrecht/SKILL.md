@@ -1,6 +1,6 @@
 ---
 name: bmukn-abfall-kreislaufwirtschaftsrecht
-description: "Wenn es um Abfall- und Kreislaufwirtschaftsrecht (BMUKN) in Legistik-Werkstatt geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert einen Einreichungsplan mit Form-, Portal- und Nachweischeck. Auswahlstichwort: Bmukn Abfall Kreislaufwirtschaftsrecht; Arbeitsfeld: Legistik-Werkstatt."
+description: "Für Abfall- und Kreislaufwirtschaftsrecht (BMUKN): ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt. Fachgebiet: Legistik-Werkstatt. Route: bmukn-abfall-kreislaufwirtschaftsrecht."
 ---
 
 # Abfall- und Kreislaufwirtschaftsrecht (BMUKN)

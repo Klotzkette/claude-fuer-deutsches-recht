@@ -1,6 +1,6 @@
 ---
 name: beschluss-tatbestandsmerkmale
-description: "Wenn es um Beschluss: Tatbestandsmerkmale, Beweisfragen und Beleglage in Urteilsbauer und Relationsmacher geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Beschluss: Tatbestandsmerkmale, Beweisfragen und Beleglage: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Tatbestands- oder Anspruchsmatrix."
 ---
 
 # Beschluss: Tatbestandsmerkmale, Beweisfragen und Beleglage

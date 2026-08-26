@@ -1,6 +1,6 @@
 ---
 name: patientenrechte-behandlungsvertrag-aufklaerung
-description: "Wenn es um Patientenrechte Behandlungsvertrag Aufklaerung in Krankenhausrecht geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Beweislast- und Substantiierungsmatrix."
+description: "Für Patientenrechte Behandlungsvertrag Aufklärung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Patientenrechte Behandlungsvertrag Aufklaerung

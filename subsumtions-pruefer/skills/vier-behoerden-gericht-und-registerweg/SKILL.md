@@ -1,6 +1,6 @@
 ---
 name: vier-behoerden-gericht-und-registerweg
-description: "Wenn es um Behörden-, Gerichts- und Registerweg in Subsumtions-Prüfer geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert einen Einreichungsplan mit Form-, Portal- und Nachweischeck."
+description: "Für Behörden-, Gerichts- und Registerweg: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Einreichungsplan mit Form- und Nachweischeck."
 ---
 
 # Behörden-, Gerichts- und Registerweg
@@ -80,3 +80,7 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 3. **Fristen prüfen:** Klagefrist, Widerspruchsfrist, Verjährung, Ausschlussfristen.
 4. **Risiko bewerten:** Grün/Gelb/Rot mit Begründung, Annahmen und Alternativwegen.
 5. **Anschluss bauen:** Passende weitere Skills vorschlagen (z. B. verfahrensart-bestimmen-verjaehrung, ziel-und-rechtsweg-bestimmung).
+
+## Vertiefung bei Bedarf
+
+- Bei `spezial-vier-behoerden-gericht-und-registerweg` beziehungsweise Vier: Behörden-, Gerichts- oder Registerweg: [die zusätzliche Vertiefung laden](./references/vertiefung-spezial-vier-behoerden-gericht-und-registerweg.md).

@@ -1,6 +1,6 @@
 ---
 name: fuhrpark-telemetrie-datenschutz
-description: "Wenn es um Fuhrpark, Telemetrie und Meldedaten in Berichtspflichten-Erlediger geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Fuhrpark, Telemetrie und Meldedaten: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Fuhrpark, Telemetrie und Meldedaten

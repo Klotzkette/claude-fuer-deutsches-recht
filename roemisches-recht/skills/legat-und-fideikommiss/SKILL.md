@@ -1,6 +1,6 @@
 ---
 name: legat-und-fideikommiss
-description: "Wenn es um Legat Und Fideikommiss in Römisches Recht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Legat und Fideikommiss: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Legat Und Fideikommiss

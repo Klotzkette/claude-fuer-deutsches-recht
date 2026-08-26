@@ -1,6 +1,6 @@
 ---
 name: retourenmanagement-wertersatz
-description: "Wenn es um Retourenmanagement Wertersatz in E-Commerce-Recht geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
+description: "Für Retourenmanagement Wertersatz: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Retourenmanagement Wertersatz

@@ -1,6 +1,6 @@
 ---
 name: chn-041-trademark-china-first-to-file
-description: "Wenn es um Trademark China First To File in China-Wirtschaftsverkehr geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Trademark China First To File: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Trademark China First To File

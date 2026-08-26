@@ -1,6 +1,6 @@
 ---
 name: 09-vergleich-und-erledigung
-description: "Wenn es um 09 Vergleich und Erledigung in Richter Amtsgericht Zivilsachen geht: entwickelt Verhandlungsziel, Vergleichskorridor und Eskalationspfad; liefert eine Verhandlungs- oder Eskalationslinie mit Optionen."
+description: "Für 09 Vergleich und Erledigung: entwickelt Ziel, Vergleich und Eskalation; Ergebnis: Verhandlungs- oder Eskalationslinie."
 ---
 
 # 09 Vergleich und Erledigung

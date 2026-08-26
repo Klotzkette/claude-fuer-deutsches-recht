@@ -1,6 +1,6 @@
 ---
 name: erfindungsmeldung-aufnahme-und-rueckfragen
-description: "Wenn es um Erfindungsmeldung aufnehmen in patentrecht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
+description: "Für Erfindungsmeldung aufnehmen: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Erfindungsmeldung aufnehmen

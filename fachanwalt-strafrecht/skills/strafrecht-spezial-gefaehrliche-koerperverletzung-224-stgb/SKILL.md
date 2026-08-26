@@ -1,6 +1,6 @@
 ---
 name: strafrecht-spezial-gefaehrliche-koerperverletzung-224-stgb
-description: "Wenn es um Gefaehrliche Koerperverletzung nach Paragraf 224 StGB in Fachanwalt Strafrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Gefährliche Körperverletzung nach Paragraf 224 StGB: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Gefaehrliche Koerperverletzung nach § 224 StGB

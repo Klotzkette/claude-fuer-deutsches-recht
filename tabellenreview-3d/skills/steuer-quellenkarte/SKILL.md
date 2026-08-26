@@ -1,6 +1,6 @@
 ---
 name: steuer-quellenkarte
-description: "Wenn es um Steuer Quellenkarte in Tabellenreview 3D geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen."
+description: "Für Steuer Quellenkarte: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Schnittstellenkarte mit Zuständigkeits- und Nachweisfragen."
 ---
 
 # Steuer Quellenkarte

@@ -1,6 +1,6 @@
 ---
 name: satzungsleistungen-bonusprogramm-und-rueckforderung
-description: "Wenn es um Satzungsleistungen, Bonusprogramm und Rückforderung in Krankenkassenrecht und Krankenversicherung geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Satzungsleistungen, Bonusprogramm und Rückforderung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Satzungsleistungen, Bonusprogramm und Rückforderung

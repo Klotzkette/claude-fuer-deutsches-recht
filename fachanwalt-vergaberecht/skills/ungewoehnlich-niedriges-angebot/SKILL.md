@@ -1,6 +1,6 @@
 ---
 name: ungewoehnlich-niedriges-angebot
-description: "Wenn es um Ungewoehnlich Niedriges Angebot in Fachanwalt Vergaberecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Ungewöhnlich Niedriges Angebot: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Ungewoehnlich niedriges Angebot prüfen: Aufgreifschwelle, Aufklaerung, Kalkulationsrisiken, Sozial-/Umweltpflichten, Zuschlagsverbot und Ruge.

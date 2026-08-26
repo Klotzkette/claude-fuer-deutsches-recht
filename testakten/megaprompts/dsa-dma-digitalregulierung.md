@@ -7,20 +7,20 @@ Diese Vollprüfung enthält top-15 von 59 Skills des Plugins `dsa-dma-digitalreg
 ## Inhaltsverzeichnis
 
 1. **juristischer-argumentationskern** — Schaltet sich ein, wenn in DSA DMA Digitalregulierung ein juristisches Arbeitsprodukt tragfähig begründet werden muss; v…
-2. **einstieg-routing** — Wenn es um Einstieg und Routing in DSA, DMA und Digitalregulierung der EU geht: klärt Rolle, Ziel, Frist, Unterlagen und…
-3. **digitalregulierung-erstpruefung-und-mandatsziel** — Wenn es um Digitalregulierung: Erstprüfung, Rollenklärung und Mandatsziel in DSA, DMA und Digitalregulierung der EU geht…
-4. **dsa-art-34-systemische-risikobewertung** — Wenn es um DSA — Systemische Risikobewertung nach Art. 34 in DSA, DMA und Digitalregulierung der EU geht: ordnet Sachver…
-5. **kernplattformdienste-sonderfall-klagewege** — Wenn es um Kernplattformdienste: Sonderfall und Edge-Case-Prüfung in DSA, DMA und Digitalregulierung der EU geht: erstel…
-6. **risikobewertung-compliance-dokumentation-und-akte** — Wenn es um Risikobewertung: Compliance-Dokumentation und Aktenvermerk in DSA, DMA und Digitalregulierung der EU geht: or…
-7. **gatekeeper-schriftsatz-brief-und-memo-bausteine** — Wenn es um Gatekeeper: Schriftsatz-, Brief- und Memo-Bausteine in DSA, DMA und Digitalregulierung der EU geht: erstellt …
-8. **dsa-art-40-forschungsdatenzugang-algorithmen** — Wenn es um DSA — Art. 40 Forschungsdatenzugang in DSA, DMA und Digitalregulierung der EU geht: ordnet Sachverhalt, Norm,…
-9. **klage-gegen-vlop-einordnung-art-263-aeuv** — Wenn es um Klage gegen Designations-Beschluss — Art. 263 AEUV in DSA, DMA und Digitalregulierung der EU geht: erstellt d…
-10. **dma-gatekeeper-schwellen-und-kernplattformdienste** — Wenn es um DMA — Gatekeeper-Schwellen und Kernplattformdienste in DSA, DMA und Digitalregulierung der EU geht: rechnet S…
-11. **dsa-krisenreaktionsmechanismus-art-36** — Wenn es um DSA: Krisenreaktion Art. 36 in DSA, DMA und Digitalregulierung der EU geht: ordnet Sachverhalt, Norm, Beweisl…
-12. **einordnung-zahlen-schwellen-und-berechnung** — Wenn es um Einordnung: Zahlen, Schwellenwerte und Berechnung in DSA, DMA und Digitalregulierung der EU geht: rechnet Sch…
-13. **klagewege-mandantenkommunikation-entscheidungsvorlage** — Wenn es um Klagewege: Mandantenkommunikation und Entscheidungsvorlage in DSA, DMA und Digitalregulierung der EU geht: er…
-14. **forschungsdatenzugang-mehrparteienkonflikt** — Wenn es um Forschungsdatenzugang: Mehrparteienkonflikt und Interessenmatrix in DSA, DMA und Digitalregulierung der EU ge…
-15. **dora-risikoampel-und-gegenargumente** — Wenn es um Dora: Risikoampel, Gegenargumente und Verteidigungslinien in DSA, DMA und Digitalregulierung der EU geht: zer…
+2. **einstieg-routing** — Für Einstieg und Routing: routet Rolle, Frist, Unterlagen und Fachschritt; Ergebnis: Prüfprodukt mit Risiko und nächstem…
+3. **digitalregulierung-erstpruefung-und-mandatsziel** — Für Digitalregulierung: Erstprüfung, Rollenklärung und Mandatsziel: routet Rolle, Frist, Unterlagen und Fachschritt; Erg…
+4. **workflow-kaltstart-und-routing** — Für Kaltstart und Routing: routet Rolle, Frist, Unterlagen und Fachschritt; Ergebnis: Prüfprodukt mit Risiko und nächste…
+5. **digitalregulierung-schnittstellen-dsgvo-p2b-19a-gwb** — Für Schnittstellen — DSA, DMA, DSGVO, P2B-VO und Paragraf 19a GWB: ordnet Norm, Beweislast und Gegenargument; Ergebnis: …
+6. **anschluss-routing** — Für Anschluss-Routing: routet Rolle, Frist, Unterlagen und Fachschritt; Ergebnis: Prüfprodukt mit Risiko und nächstem Sc…
+7. **mandantenkommunikation-redteam-qualitygate** — Für Mandantenkommunikation: prüft Ergebnis, Beweislast und Gegenposition; Ergebnis: Gegenprüfung mit Beweis- und Fristen…
+8. **quellen-livecheck** — Für Rechtsquellen-Livecheck: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Sc…
+9. **workflow-redteam-qualitygate** — Für Red-Team Qualitygate: prüft Ergebnis, Beweislast und Gegenposition; Ergebnis: Gegenprüfung mit Beweis- und Fristench…
+10. **workflow-chronologie-und-belegmatrix** — Für Chronologie und Belegmatrix: ordnet Akte, Belege und Lücken; Ergebnis: Chronologie mit Beleg- und Widerspruchsmatrix…
+11. **klagewege-mandantenkommunikation-entscheidungsvorlage** — Für Klagewege: Mandantenkommunikation und Entscheidungsvorlage: erstellt Entwurf mit Antrag, Beweis und Anlagen; Ergebni…
+12. **output-waehlen** — Für Output wählen: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt. Fac…
+13. **workflow-unterlagen-lueckenliste** — Für Unterlagen- und Lückenliste: ordnet Akte, Belege und Lücken; Ergebnis: Dokumentenmatrix mit Nachforderungsliste. Fac…
+14. **account-internationaler-bezug-und-schnittstellen** — Für Account: Internationaler Bezug und Schnittstellen: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Schnittstell…
+15. **forschungsdatenzugang-mehrparteienkonflikt** — Für Forschungsdatenzugang: Mehrparteienkonflikt und Interessenmatrix: ordnet Norm, Beweislast und Gegenargument; Ergebni…
 
 ---
 
@@ -142,7 +142,7 @@ Ausgangspunkt für dieses Plugin: Anspruchsteller für anspruchsbegründende Tat
 
 ## Skill: `einstieg-routing`
 
-_Wenn es um Einstieg und Routing in DSA, DMA und Digitalregulierung der EU geht: klärt Rolle, Ziel, Frist, Unterlagen und den passenden nächsten Fachskill; liefert eine Fristen- und Risikoampel mit Sofortschritten._
+_Für Einstieg und Routing: routet Rolle, Frist, Unterlagen und Fachschritt; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt. Fachgebiet: DSA, DMA und Digitalregulierung der EU._
 
 # Einstieg und Routing
 
@@ -186,7 +186,7 @@ Dieser Einstieg routet **Dsa Dma Digitalregulierung** vom ersten Sachverhalt zu 
 
 ## Skill: `digitalregulierung-erstpruefung-und-mandatsziel`
 
-_Wenn es um Digitalregulierung: Erstprüfung, Rollenklärung und Mandatsziel in DSA, DMA und Digitalregulierung der EU geht: klärt Rolle, Ziel, Frist, Unterlagen und den passenden nächsten Fachskill; liefert eine Fristen- und Risikoampel mit Sofortschritten._
+_Für Digitalregulierung: Erstprüfung, Rollenklärung und Mandatsziel: routet Rolle, Frist, Unterlagen und Fachschritt; Ergebnis: Tatbestands- oder Anspruchsmatrix._
 
 # Digitalregulierung: Erstprüfung, Rollenklärung und Mandatsziel
 
@@ -245,296 +245,63 @@ DSA-Pflichten gestaffelt — Kleinst-/Kleinunternehmen profitieren von Erleichte
 
 ---
 
-## Skill: `dsa-art-34-systemische-risikobewertung`
+## Skill: `workflow-kaltstart-und-routing`
 
-_Wenn es um DSA — Systemische Risikobewertung nach Art. 34 in DSA, DMA und Digitalregulierung der EU geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt._
+_Für Kaltstart und Routing: routet Rolle, Frist, Unterlagen und Fachschritt; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt. Fachgebiet: DSA, DMA und Digitalregulierung der EU._
 
-# DSA — Systemische Risikobewertung nach Art. 34
+# Kaltstart und Routing
 
-## Arbeitsbereich
+## Aufgabe
+Nutze diesen Workflow-Skill für Kaltstart und Routing: führt vom ersten Satz oder Dokument in den passenden Arbeitsweg, erkennt Rolle, Ziel, Risiko und Anschluss-Skills.
 
-Jaehrliche Risikobewertung nach Art. 34 DSA für VLOP/VLOSE durchführen: Große Plattform muss Risikobewertung dokumentieren oder Berater unterstuetzt Compliance-Team. Normen: DSA (EU) 2022/2065 Art. 34 (vier Risikoarten: illegale Inhalte, Grundrechte, zivilgesellschaftlicher Diskurs/Wahlen, Minderjaerigenschutz/Gesundheit). Prüfraster: Risikoidentifikation je Kategorie, Methodik, Berichtspflicht, Audit-Schnittstelle Art. 37 DSA. Output Risikobewertungs-Template, Methodenbeschreibung, Audit-Vorbereitung. Abgrenzung: VLOP-Einordnung vorher siehe dsa-vlop-vlose-einordnung-und-pflichten; Forschungsdatenzugang siehe dsa-art-40-forschungsdatenzugang-algorithmen. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+## Kaltstart
+Wenn Material vorliegt, arbeite zuerst mit dem Material. Stelle nur Rückfragen, die für die nächste Weiche nötig sind:
 
-## Arbeitsweg
-
-- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
-- Fristen und Eilrisiken zuerst markieren: DSA Art. 16 Notice-and-Action unverzügliche Reaktion, Art. 24 jährlicher Transparenzbericht, Art. 34 Risikoassessment jährlich/bei Bedarf, DMA Art. 11 Compliance-Bericht 6 Monate nach Benennung.
-- Tragende Normen verifizieren: Digital Services Act (VO 2022/2065) Art. 4-15 (Haftung), 16-22 (Meldung), 24-32 (mittelgroße/VLOP), 33-43 (sehr große), 50-66 (Aufsicht), Digital Markets Act (VO 2022/1925) Art. 3 (Gatekeeper), 5-7 (Pflichten), DDG, TMG (außer Kraft), NetzDG (auslaufend) — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
-- Zuständige Stelle bestimmen und Adressaten richtig wählen: Anbieter Vermittlungsdienst / Hosting / Online-Plattform / sehr große Online-Plattform (VLOP) / Suchmaschine (VLOSE), BNetzA als DSC, EU-KOM (DMA-Vollzug), nationaler Koordinator, Beschwerdeführer.
-- Dokumente und Beweismittel sammeln und auf Lücken prüfen: AGB nach Art. 14 DSA, Transparenzbericht, Risikoassessment, Compliance-Officer-Konzept, Streitbeilegung Art. 21 DSA, DSC-Meldung, DMA-Compliance-Bericht — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
-
-## Adressaten
-
-Nur VLOPs und VLOSEs (Art. 33 DSA). Reguläre Online-Plattformen führen keine Art.-34-Bewertung durch.
-
-## Vier Risikokategorien (Art. 34 Abs. 1)
-
-1. **Verbreitung illegaler Inhalte** über den Dienst
-2. **Tatsächliche oder vorhersehbare nachteilige Auswirkungen auf Grundrechte**, insbesondere:
- - Würde (Art. 1 GRCh)
- - Achtung des Privatlebens und Familienlebens (Art. 7)
- - Schutz personenbezogener Daten (Art. 8)
- - Meinungs- und Informationsfreiheit, Medienfreiheit und -pluralismus (Art. 11)
- - Diskriminierungsverbot (Art. 21)
- - Rechte des Kindes (Art. 24)
- - Verbraucherschutz (Art. 38)
-3. **Auswirkungen auf zivilgesellschaftlichen Diskurs, Wahlprozesse, öffentliche Sicherheit**
-4. **Geschlechtsspezifische Gewalt, Schutz der öffentlichen Gesundheit, Minderjährigenschutz, ernsthafte negative Auswirkungen auf physisches und psychisches Wohlbefinden**
-
-## Faktoren, die einbezogen werden müssen (Art. 34 Abs. 2)
-
-- Empfehlungssysteme und algorithmische Systeme
-- Inhaltsmoderationssysteme
-- Allgemeine Geschäftsbedingungen und deren Durchsetzung
-- Werbeauswahl und -präsentation
-- Datenbezogene Verfahren (einschließlich Profiling)
-- Funktionsweisen, die die rasche und weite Verbreitung von Informationen begünstigen
-- Vorsätzliche Manipulationen (inauthentic behaviour, Bots, koordinierte Kampagnen)
-
-## Methodik (Art. 34 Abs. 3 und Branchenleitlinien)
-
-- Mindestens **jährliche** Bewertung; zusätzlich vor Einführung wesentlich neuer Funktionen
-- Dokumentation für **mindestens drei Jahre** aufbewahren
-- Bewertung wird der Kommission und dem zuständigen DSC vorgelegt
-- Methodisch erwartet werden:
- - Risikoidentifikation (qualitativ und quantitativ)
- - Wahrscheinlichkeits- und Schwerebewertung
- - Ursachenanalyse — auch eigene Designentscheidungen
- - Maßnahmenkatalog mit Wirkungserwartung
- - Wirksamkeitsprüfung im Folgejahr (Closed-Loop)
-
-## Risikominderung (Art. 35 DSA)
-
-Nicht-abschließender Katalog möglicher Maßnahmen:
-
-- Anpassung der **AGB und der Moderation**
-- Anpassung **algorithmischer Systeme**, insbesondere Empfehlungssysteme
-- Anpassung der **Werbedienste**
-- **Stärkung interner Prozesse**, Personalbesetzung und Kompetenz der Compliance-Funktion
-- **Zusammenarbeit mit trusted flaggers**
-- **Sensibilisierung der Nutzer** (Medienkompetenz, Hinweise)
-- **Krisenprotokolle**
-
-## Audit (Art. 37 DSA)
-
-- Jährlich, **unabhängig**
-- Auditor benötigt fachliche Kompetenz, Unabhängigkeit und ethische Standards (Delegierte VO 2023/2832)
-- Audit-Bericht enthält Prüfungsurteil: positiv, positiv mit Einschränkungen, negativ
-- VLOP/VLOSE muss innerhalb eines Monats **Audit-Umsetzungsbericht** vorlegen
-
-## Anwaltliche Beratungslinien
-
-### Plattform-Mandant
-
-- **Risikobewertung dokumentationsfest aufsetzen** — Gericht und Audit prüfen Methodik, nicht Ergebnis
-- **Zusammenarbeit mit DSA-Coordinator** koordinieren — Auskunftsverlangen nach Art. 67 DSA häufig
-- Bei **Krisensituationen** (Wahlen, kriegerische Konflikte): Krisenmechanismus Art. 36 antizipieren
-- **Konflikt mit Meinungsfreiheit dokumentieren** — Risikobewertung darf keine Overblocking-Pflicht implizieren
-
-### Beschwerdeführer / NGO / Behörde
-
-- **Risikobewertung ist öffentlich** (Art. 42 Abs. 4 DSA) — argumentativ nutzen
-- **Lücken im Maßnahmenkatalog** als Aufhänger für DSC-Beschwerde
-
-## Typische Fehler
-
-- Risikobewertung als reine Compliance-Checkliste statt methodischer Selbstanalyse
-- Mangelnde Quantifizierung
-- Empfehlungssysteme nicht als Risikoursache benannt
-- Fehlende Verzahnung mit Audit-Befund Vorjahr
-- Verwechslung mit DSGVO-DSFA — beide Bewertungen sind eigenständig, aber Synergien möglich
-
-## Aktuelle Rechtsprechung
-
-- Rechtsprechung live prüfen: Keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über amtliche oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-
-## Faktische Updates (Stand 05/2026)
-
-- **Risikobewertungs-Reports:** Die ersten Risikobewertungs-Reports nach Art. 34 DSA (mit Verzoegerung wegen vierjaehriger Designation und Audit-Methodik-Entwicklung) wurden von VLOPs veroeffentlicht. Stand und Reports live über digital-strategy.ec.europa.eu sowie VLOP-Transparency-Center prüfen.
-- **Schnittstelle KI-VO:** Bei KI-Systemen, die in VLOP-Empfehlungssystemen, Inhaltsmoderation oder Werbeauslieferung eingesetzt werden, ueberlagern sich DSA-Risikobewertung (Art. 34) und KI-VO-Risikomanagement (Art. 9). Bei Anhang-III-Hochrisiko-Systemen integrierte Bewertung dokumentieren.
-- **Art. 36 DSA Krisenmechanismus:** Aktivierungs- und Anwendungspraxis der Kommission live über digital-strategy.ec.europa.eu prüfen (z.B. Wahlperioden, Konflikte).
-- **EuG-Verfahren zu Risikobewertung:** Mehrere VLOPs greifen Kommissions-Auskunftsverlangen / Aufsichtsmassnahmen an. Live über curia.europa.eu prüfen.
-
-## Zentrale Normen (Paragrafenkette)
-
-- Art. 34 DSA — Jährliche Risikobewertung VLOPs/VLOSEs
-- Art. 35 DSA — Risikominderungsmaßnahmen
-- Art. 37 DSA — Unabhängige Auditpflicht
-- Art. 40 DSA — Forschungsdatenzugang
-- Art. 11 GRCh — Meinungsfreiheit als Abwägungsposten in Risikobewertung
-
-## Triage zu Beginn
-
-1. Ist der Mandant VLOP oder VLOSE (Art. 33 DSA)? Designation abgewartet?
-2. Liegt bereits eine vorjährige Risikobewertung vor?
-3. Welche Risikoarten sind einschlägig? (illegale Inhalte / Grundrechte / Diskurs/Wahlen / Minderjährige)
-4. Wurde ein unabhängiges Audit nach Art. 37 DSA durchgeführt?
-
-## Output-Template — Systemische Risikobewertung (Kurzform)
-
-**Adressat:** Kommission / Auftraggeber (VLOP/VLOSE) — Tonfall: sachlich-strukturiert
-
-```
-Systemische Risikobewertung nach Art. 34 DSA [DATUM]
-Plattform: [NAME] | Designation: [DATUM]
-
-Risikoart 1 — Illegale Inhalte (Art. 34 Abs. 1 lit. a DSA):
-Risikobeschreibung: [...]
-Bewertung: hoch / mittel / gering
-Minderungsmaßnahmen (Art. 35): [LISTE]
-
-Risikoart 2 — Grundrechte (Art. 34 Abs. 1 lit. b DSA):
-Risikobeschreibung: [...]
-Bewertung: hoch / mittel / gering
-Minderungsmaßnahmen: [LISTE]
-
-Risikoart 3 — Öffentlicher Diskurs / Wahlen (Art. 34 Abs. 1 lit. c DSA):
-Risikobeschreibung: [...]
-Bewertung: hoch / mittel / gering
-
-Risikoart 4 — Minderjährige / Gesundheit (Art. 34 Abs. 1 lit. d DSA):
-Risikobeschreibung: [...]
-Bewertung: hoch / mittel / gering
-
-Audit (Art. 37 DSA): durchgeführt am [DATUM] / ausstehend
-```
-
-> Quellenregel: Entscheidungen nur nach Prüfung einer amtlichen oder frei zugänglichen Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage ausgeben.
-
----
-
-## Skill: `kernplattformdienste-sonderfall-klagewege`
-
-_Wenn es um Kernplattformdienste: Sonderfall und Edge-Case-Prüfung in DSA, DMA und Digitalregulierung der EU geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik._
-
-# Kernplattformdienste: Sonderfall und Edge-Case-Prüfung
-
-## Arbeitsweg
-
-- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
-- Fristen und Eilrisiken zuerst markieren: DSA Art. 16 Notice-and-Action unverzügliche Reaktion, Art. 24 jährlicher Transparenzbericht, Art. 34 Risikoassessment jährlich/bei Bedarf, DMA Art. 11 Compliance-Bericht 6 Monate nach Benennung.
-- Tragende Normen verifizieren: Digital Services Act (VO 2022/2065) Art. 4-15 (Haftung), 16-22 (Meldung), 24-32 (mittelgroße/VLOP), 33-43 (sehr große), 50-66 (Aufsicht), Digital Markets Act (VO 2022/1925) Art. 3 (Gatekeeper), 5-7 (Pflichten), DDG, TMG (außer Kraft), NetzDG (auslaufend) — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
-- Zuständige Stelle bestimmen und Adressaten richtig wählen: Anbieter Vermittlungsdienst / Hosting / Online-Plattform / sehr große Online-Plattform (VLOP) / Suchmaschine (VLOSE), BNetzA als DSC, EU-KOM (DMA-Vollzug), nationaler Koordinator, Beschwerdeführer.
-- Dokumente und Beweismittel sammeln und auf Lücken prüfen: AGB nach Art. 14 DSA, Transparenzbericht, Risikoassessment, Compliance-Officer-Konzept, Streitbeilegung Art. 21 DSA, DSC-Meldung, DMA-Compliance-Bericht — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
-
-## Spezialwissen: Kernplattformdienste: Sonderfall und Edge-Case-Prüfung
-- **Normen-/Quellenanker:** EU, DSA, VO, DMA, DGA, AI, NIS, DORA, CRA, DDG, GWB, VLOP.
-
-## Fallweichen
-Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur Rückfragen, die die nächste Weiche verändern:
-
-1. Welche Rolle hat die fragende Person und wer ist Gegenüber?
-2. Welches konkrete Ziel soll erreicht oder verhindert werden?
-3. Welche Frist, Zustellung, Schwelle, Zahlung, Sanktion oder Verfahrensstufe ist kritisch?
-4. Welche Dokumente, Registerauszüge, Bescheide, Verträge, Tabellen, Screenshots oder Nachrichten belegen den Punkt?
-5. Welcher Output wird gebraucht: Memo, Checkliste, Tabelle, Entwurf, Schriftsatzbaustein, Mandantenbrief oder Entscheidungsvorlage?
+1. Wer fragt in welcher Rolle?
+2. Was ist das gewünschte Ergebnis?
+3. Gibt es Fristen, Termine, Zustellungen, Zahlungen oder Sanktionen?
+4. Welche Unterlagen, Daten oder Belege liegen bereits vor?
 
 ## Arbeitsworkflow
-1. **Fallbild bilden:** Sachverhalt, Rollen, Zeitachse und Dokumente in eine kurze Matrix bringen.
-2. **Rechtsrahmen setzen:** Normen, Zuständigkeiten, Fristen, Formfragen und Verfahrensstand zum Themenfeld **Kernplattformdienste** prüfen.
-3. **Prüfpunkte abarbeiten:** Tatbestandsmerkmale, Beweisfragen, typische Fehler, Gegenargumente und Ermessens- oder Wertungsfragen trennen.
-4. **Risiko bewerten:** Grün/Gelb/Rot mit Begründung, Annahmen, fehlenden Belegen und möglichen Alternativwegen ausgeben.
-5. **Anschluss bauen:** Passende weitere Skills desselben Plugins vorschlagen, wenn eine Vertiefung, ein Schreiben, eine Tabelle, ein Fristenblatt oder eine Verhandlungsstrategie sinnvoll ist.
+1. Rolle, Ziel, Frist und Unterlagenlage in höchstens fünf Fragen klären.
+2. Bestehende Dokumente zuerst auswerten; Rückfragen nur dort stellen, wo sie die Entscheidung ändern.
+3. Passende Spezialskills aus diesem Plugin vorschlagen und begründen.
+4. Ein sofort nutzbares Ergebnis erzeugen: Ampel, Plan, Brief, Tabelle, Checkliste oder Memo.
+
+## Routing-Diagnose DSA/DMA
+- **"Wir betreiben einen Online-Marktplatz / Plattform"** → DSA-Regelfall, Art. 6 ff. Vermittlungsdienste, Art. 16 Notice-and-Action; bei sehr großer Plattform Art. 33 ff. VLOP-Pflichten.
+- **"Hosting-Dienst / Suchmaschine"** → Art. 6 DSA Hosting, Art. 9 DSA Anordnungen gegen rechtswidrige Inhalte; Art. 14 AGB-Pflichten.
+- **"Kernplattform-Diensteanbieter (Gatekeeper)"** → DMA (VO (EU) 2022/1925), Art. 3 Benennung, Art. 5-7 Pflichten.
+- **"Inhalt entfernt / Account gesperrt"** → Art. 17 DSA Begründungspflicht, Art. 20 internes Beschwerdesystem, Art. 21 außergerichtliche Streitbeilegung.
+- **"Behördenanordnung gegen Inhalte"** → Art. 9 DSA; **gegen Auskünfte** → Art. 10 DSA.
+- **"NetzDG / digitale Dienste"** → DDG (Digitale-Dienste-Gesetz) als deutsche Durchführung des DSA, BNetzA als Digital Services Coordinator.
+
+## Praxis-Tipp
+DSA gilt seit 17.02.2024 für alle Anbieter; für VLOP/VLOSE (über 45 Mio. EU-Nutzer/Monat) bereits seit 25.08.2023. Wer auf die Größenschwelle zugeht, sollte die Risikobewertung Art. 34 DSA proaktiv vorbereiten — die Benennung durch die Kommission ist deklaratorisch.
+
+## Output-Standard
+- Kurzbild: worum es geht, was gesichert ist, was offen ist.
+- Prüf- oder Bearbeitungsmatrix mit den entscheidenden Punkten.
+- Konkreter nächster Schritt mit Frist, Zuständigkeit und Unterlagen.
+- Bei Außenkommunikation: knapper, sachlicher Textbaustein ohne unnötige Nebenangaben.
+
+## Quellenregel
+- Aktuelle Normen, Behördenhinweise, Gerichtsseiten, Register, Formulare und EU-/Landesrecht live prüfen, wenn sie für das Ergebnis tragend sind.
+- Rechtsprechung nur mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle ausgeben.
+- Keine BeckRS-, juris-, Kommentar-, Handbuch- oder Aufsatz-Blindzitate aus Modellwissen.
+- Unsicherheiten und Annahmen ausdrücklich markieren.
 
 ---
 
-## Skill: `risikobewertung-compliance-dokumentation-und-akte`
+## Skill: `digitalregulierung-schnittstellen-dsgvo-p2b-19a-gwb`
 
-_Wenn es um Risikobewertung: Compliance-Dokumentation und Aktenvermerk in DSA, DMA und Digitalregulierung der EU geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt._
+_Für Schnittstellen — DSA, DMA, DSGVO, P2B-VO und Paragraf 19a GWB: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Schnittstellenkarte mit Zuständigkeits- und Nachweisfragen._
 
-# Risikobewertung: Compliance-Dokumentation und Aktenvermerk
-
-## Arbeitsweg
-
-- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
-- Fristen und Eilrisiken zuerst markieren: DSA Art. 16 Notice-and-Action unverzügliche Reaktion, Art. 24 jährlicher Transparenzbericht, Art. 34 Risikoassessment jährlich/bei Bedarf, DMA Art. 11 Compliance-Bericht 6 Monate nach Benennung.
-- Tragende Normen verifizieren: Digital Services Act (VO 2022/2065) Art. 4-15 (Haftung), 16-22 (Meldung), 24-32 (mittelgroße/VLOP), 33-43 (sehr große), 50-66 (Aufsicht), Digital Markets Act (VO 2022/1925) Art. 3 (Gatekeeper), 5-7 (Pflichten), DDG, TMG (außer Kraft), NetzDG (auslaufend) — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
-- Zuständige Stelle bestimmen und Adressaten richtig wählen: Anbieter Vermittlungsdienst / Hosting / Online-Plattform / sehr große Online-Plattform (VLOP) / Suchmaschine (VLOSE), BNetzA als DSC, EU-KOM (DMA-Vollzug), nationaler Koordinator, Beschwerdeführer.
-- Dokumente und Beweismittel sammeln und auf Lücken prüfen: AGB nach Art. 14 DSA, Transparenzbericht, Risikoassessment, Compliance-Officer-Konzept, Streitbeilegung Art. 21 DSA, DSC-Meldung, DMA-Compliance-Bericht — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
-
-## Spezialwissen: Risikobewertung: Compliance-Dokumentation und Aktenvermerk
-- **Normen-/Quellenanker:** EU, DSA, VO, DMA, DGA, AI, NIS, DORA, CRA, DDG, GWB, VLOP.
-
-## Fallweichen
-Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur Rückfragen, die die nächste Weiche verändern:
-
-1. Welche Rolle hat die fragende Person und wer ist Gegenüber?
-2. Welches konkrete Ziel soll erreicht oder verhindert werden?
-3. Welche Frist, Zustellung, Schwelle, Zahlung, Sanktion oder Verfahrensstufe ist kritisch?
-4. Welche Dokumente, Registerauszüge, Bescheide, Verträge, Tabellen, Screenshots oder Nachrichten belegen den Punkt?
-5. Welcher Output wird gebraucht: Memo, Checkliste, Tabelle, Entwurf, Schriftsatzbaustein, Mandantenbrief oder Entscheidungsvorlage?
-
-## Arbeitsworkflow
-1. **Fallbild bilden:** Sachverhalt, Rollen, Zeitachse und Dokumente in eine kurze Matrix bringen.
-2. **Rechtsrahmen setzen:** Normen, Zuständigkeiten, Fristen, Formfragen und Verfahrensstand zum Themenfeld **Risikobewertung** prüfen.
-3. **Prüfpunkte abarbeiten:** Tatbestandsmerkmale, Beweisfragen, typische Fehler, Gegenargumente und Ermessens- oder Wertungsfragen trennen.
-4. **Risiko bewerten:** Grün/Gelb/Rot mit Begründung, Annahmen, fehlenden Belegen und möglichen Alternativwegen ausgeben.
-5. **Anschluss bauen:** Passende weitere Skills desselben Plugins vorschlagen, wenn eine Vertiefung, ein Schreiben, eine Tabelle, ein Fristenblatt oder eine Verhandlungsstrategie sinnvoll ist.
-
----
-
-## Skill: `gatekeeper-schriftsatz-brief-und-memo-bausteine`
-
-_Wenn es um Gatekeeper: Schriftsatz-, Brief- und Memo-Bausteine in DSA, DMA und Digitalregulierung der EU geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik._
-
-# Gatekeeper: Schriftsatz-, Brief- und Memo-Bausteine
-
-## Arbeitsweg
-
-- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
-- Fristen und Eilrisiken zuerst markieren: DSA Art. 16 Notice-and-Action unverzügliche Reaktion, Art. 24 jährlicher Transparenzbericht, Art. 34 Risikoassessment jährlich/bei Bedarf, DMA Art. 11 Compliance-Bericht 6 Monate nach Benennung.
-- Tragende Normen verifizieren: Digital Services Act (VO 2022/2065) Art. 4-15 (Haftung), 16-22 (Meldung), 24-32 (mittelgroße/VLOP), 33-43 (sehr große), 50-66 (Aufsicht), Digital Markets Act (VO 2022/1925) Art. 3 (Gatekeeper), 5-7 (Pflichten), DDG, TMG (außer Kraft), NetzDG (auslaufend) — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
-- Zuständige Stelle bestimmen und Adressaten richtig wählen: Anbieter Vermittlungsdienst / Hosting / Online-Plattform / sehr große Online-Plattform (VLOP) / Suchmaschine (VLOSE), BNetzA als DSC, EU-KOM (DMA-Vollzug), nationaler Koordinator, Beschwerdeführer.
-- Dokumente und Beweismittel sammeln und auf Lücken prüfen: AGB nach Art. 14 DSA, Transparenzbericht, Risikoassessment, Compliance-Officer-Konzept, Streitbeilegung Art. 21 DSA, DSC-Meldung, DMA-Compliance-Bericht — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
-
-## Spezialwissen: Gatekeeper: Schriftsatz-, Brief- und Memo-Bausteine
-- **Normen-/Quellenanker:** EU, DSA, VO, DMA, DGA, AI, NIS, DORA, CRA, DDG, GWB, VLOP.
-
-## Fallweichen
-Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur Rückfragen, die die nächste Weiche verändern:
-
-1. Welche Rolle hat die fragende Person und wer ist Gegenüber?
-2. Welches konkrete Ziel soll erreicht oder verhindert werden?
-3. Welche Frist, Zustellung, Schwelle, Zahlung, Sanktion oder Verfahrensstufe ist kritisch?
-4. Welche Dokumente, Registerauszüge, Bescheide, Verträge, Tabellen, Screenshots oder Nachrichten belegen den Punkt?
-5. Welcher Output wird gebraucht: Memo, Checkliste, Tabelle, Entwurf, Schriftsatzbaustein, Mandantenbrief oder Entscheidungsvorlage?
-
-## Arbeitsworkflow
-1. **Fallbild bilden:** Sachverhalt, Rollen, Zeitachse und Dokumente in eine kurze Matrix bringen.
-2. **Rechtsrahmen setzen:** Normen, Zuständigkeiten, Fristen, Formfragen und Verfahrensstand zum Themenfeld **Gatekeeper** prüfen.
-3. **Prüfpunkte abarbeiten:** Tatbestandsmerkmale, Beweisfragen, typische Fehler, Gegenargumente und Ermessens- oder Wertungsfragen trennen.
-4. **Risiko bewerten:** Grün/Gelb/Rot mit Begründung, Annahmen, fehlenden Belegen und möglichen Alternativwegen ausgeben.
-5. **Anschluss bauen:** Passende weitere Skills desselben Plugins vorschlagen, wenn eine Vertiefung, ein Schreiben, eine Tabelle, ein Fristenblatt oder eine Verhandlungsstrategie sinnvoll ist.
-
-## Gatekeeper-Pflichten DMA (Auswahl)
-- **Art. 5 DMA — selbstausführende Pflichten ("Per-Se"):** Verbot der Datenkombination ohne Einwilligung (Abs. 2), Verbot der Most-Favoured-Nation-Klauseln gegenüber Geschäftskunden (Abs. 3), Wahlfreiheit für Endnutzer bei Browsern (Abs. 6), keine Bündelung mit Identifizierungsdiensten (Abs. 7).
-- **Art. 6 DMA — Pflichten mit Konkretisierungsbedarf:** Verbot der Selbstbevorzugung (Abs. 5), Pflicht zur Interoperabilität (Abs. 7), Datenportabilität für Geschäftskunden in Echtzeit (Abs. 9-10).
-- **Art. 7 DMA — Interoperabilität nummernunabhängiger Kommunikationsdienste:** stufenweise Pflichten für Messenger-Gatekeeper.
-
-## Verfahren bei der Kommission
-- **Untersuchung Art. 19-22**: Auskunftsersuchen, Befragungen, Vor-Ort-Untersuchungen mit gerichtlicher Anordnung.
-- **Verpflichtungszusagen Art. 25**: Bindender Beschluss verhindert Untersuchung.
-- **Marktuntersuchung Art. 17**: Erweiterung der bestimmten zentralen Plattformdienste.
-
-## Schriftsatz- und Memo-Bausteine
-- **Notification gem. Art. 3 Abs. 3**: Selbstanzeige innerhalb von 2 Monaten nach Erreichen der Schwellen mit Quantifizierung je Schwelle.
-- **Antwort auf RFI (Request for Information)**: Strukturiert nach Fragen, Beweisanlagen nummerieren, Verweis auf Geschäftsgeheimnisse (Art. 36 DMA) ausdrücklich markieren.
-- **Memo zur Gatekeeper-Compliance**: Pflichtenkatalog Art. 5-7 spiegeln, je Pflicht Implementierungspfad und Beweismittel benennen.
-
-## Trade-off
-Frühe Verpflichtungszusagen reduzieren Bußgeldexposure, binden aber den Geschäftsbetrieb. Aktive Anfechtung der Designation vor dem EuG (Art. 263 AEUV, 2 Monate Frist) ist Standard für betroffene Unternehmen, ohne Aufschiebung der Pflichten ab Designation.
-
----
-
-## Skill: `dsa-art-40-forschungsdatenzugang-algorithmen`
-
-_Wenn es um DSA — Art. 40 Forschungsdatenzugang in DSA, DMA und Digitalregulierung der EU geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt._
-
-# DSA — Art. 40 Forschungsdatenzugang
+# Schnittstellen — DSA, DMA, DSGVO, P2B-VO und § 19a GWB
 
 ## Arbeitsbereich
 
-Forschungsdatenzugang nach Art. 40 DSA beantragen oder gewaehren: Forscher will Plattformdaten erhalten oder Plattform muss Zugang einrichten. Normen: DSA (EU) 2022/2065 Art. 40 (vetted researchers, DSC-Koordinierung), Delegierte VO (EU) 2024/2987 (Bedingungen und Verfahren). Prüfraster: Drei Ebenen (DSC-Zugang, vetted researchers, öffentliche Daten), Antragsverfahren über DSC, Schutz Geschäftsgeheimnisse und Datenschutz. Output Antrag vetted researcher, Datenzugangs-Vereinbarung-Entwurf. Abgrenzung: VLOP-Risikobewertung siehe dsa-art-34-systemische-risikobewertung; Algorithmen-Pflichten siehe dsa-vlop-vlose-einordnung-und-pflichten. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+Schnittstellen zwischen DSA/DMA und DSGVO, P2B-VO und § 19a GWB analysieren: Mehrere Regelwerke treffen gleichzeitig auf einen Sachverhalt. Normen: Art. 2 Abs. 4 DSA (kein Verdrangen DSGVO), Art. 1 Abs. 5 DMA, P2B-VO (EU) 2019/1150 (Plattform-Nutzer-Beziehungen), § 19a GWB (unterhalb DMA-Schwellen). Prüfraster: Konkurrenz DSA/DMA vs. DSGVO vs. P2B-VO, § 19a GWB als Luecken-Fuelung, Mehr-Anker-Strategie für welche Rechtsfolge. Output Schnittstellen-Memo, Anspruchs-Matrix. Abgrenzung: VLOP-Designation siehe dsa-vlop-vlose-einordnung-und-pflichten; Gatekeeper DMA siehe dma-gatekeeper-schwellen-und-kernplattformdienste. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
 ## Arbeitsweg
 
@@ -544,587 +311,354 @@ Forschungsdatenzugang nach Art. 40 DSA beantragen oder gewaehren: Forscher will 
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Anbieter Vermittlungsdienst / Hosting / Online-Plattform / sehr große Online-Plattform (VLOP) / Suchmaschine (VLOSE), BNetzA als DSC, EU-KOM (DMA-Vollzug), nationaler Koordinator, Beschwerdeführer.
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: AGB nach Art. 14 DSA, Transparenzbericht, Risikoassessment, Compliance-Officer-Konzept, Streitbeilegung Art. 21 DSA, DSC-Meldung, DMA-Compliance-Bericht — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
-## Drei Zugangsregime
+## Grundsatz
 
-### Ebene 1: Aufsichtsbehörden (Art. 40 Abs. 1 bis 3)
+Die EU-Digitalregulierung ist **kein lex specialis** zur DSGVO oder zum Wettbewerbsrecht. Mehrere Rechtsakte können denselben Sachverhalt erfassen und unterschiedliche Rechtsfolgen auslösen.
 
-VLOP/VLOSE muss dem **DSC am Niederlassungsort** oder der **Kommission** auf begründetes Verlangen Zugang zu allen Daten gewähren, die zur Überwachung und Bewertung der Einhaltung des DSA erforderlich sind.
+## DSA — DSGVO
 
-- Frist im Verlangen, Begründung, Verhältnismäßigkeit
-- Plattform kann Antrag auf Änderung stellen (Art. 40 Abs. 5)
+| Aspekt | DSA | DSGVO |
+|---|---|---|
+| Schutzgut | Schutz vor illegalen Inhalten, systemischen Risiken | Schutz personenbezogener Daten |
+| Aufsicht | DSC + Kommission | Aufsichtsbehörden, EDSA |
+| One-Stop-Shop | Nein für VLOP | Ja (Art. 56 DSGVO) |
+| Bußgeld | bis 6 % Welt-Umsatz | bis 4 % Welt-Umsatz |
 
-### Ebene 2: Vetted Researchers (Art. 40 Abs. 4 bis 8)
+**Schnittpunkte:**
 
-**Geprüfte Forscherinnen und Forscher** erhalten Zugang zu Daten, die zur Erforschung systemischer Risiken in der EU erforderlich sind.
+- Profiling und Empfehlungssysteme: Art. 27 + 38 DSA und Art. 22 DSGVO
+- Kinderschutz: Art. 28 DSA und Art. 8 DSGVO
+- Forschungsdatenzugang: Art. 40 DSA verlangt DSGVO-Konformität
+- Transparenz: Art. 39 DSA Werbearchiv und Art. 13/14 DSGVO
 
-**Voraussetzungen für die Forscher-Zulassung (Art. 40 Abs. 8):**
+**Art. 2 Abs. 4 DSA**: DSA berührt nicht die Anwendung anderer EU-Rechtsakte über audiovisuelle Mediendienste, Urheberrecht, terroristische Online-Inhalte, Verbraucherschutz, Datenschutz **— gleichrangige Anwendung**.
 
-- Zugehörigkeit zu einer **Forschungseinrichtung** im Sinne der Open-Science-Definition
-- **Unabhängigkeit** von kommerziellen Interessen
-- **Finanzierungsoffenlegung**
-- Fähigkeit, **Datenschutz und Vertraulichkeit** zu wahren
-- Antrag muss **Notwendigkeit und Verhältnismäßigkeit** belegen
-- Verpflichtung, die **Forschungsergebnisse kostenlos öffentlich zu machen**
+## DMA — Kartellrecht (Art. 101/102 AEUV, GWB)
 
-**Verfahren:**
+**Art. 1 Abs. 6 DMA**: DMA gilt **unbeschadet** der Anwendung von Art. 101/102 AEUV und nationaler Wettbewerbsregeln, die einseitiges Verhalten regeln (z. B. § 19a GWB).
 
-1. Antrag beim **DSC am Niederlassungsort der Plattform**
-2. DSC prüft Voraussetzungen, gewährt Forscher-Status
-3. DSC fordert Plattform zur Datenbereitstellung auf
-4. Plattform kann Antrag auf Änderung stellen — z. B. Schutz von Geschäftsgeheimnissen
-5. Streit entscheidet der DSC; Rechtsschutz möglich
+**Parallelanwendung:**
 
-**Konkretisierung durch Delegierte VO (EU) 2024/2987** (technische Bedingungen, sichere Datenräume, Antragsformat).
+- DMA: ex-ante, listenartige Verhaltenspflichten für Gatekeeper
+- Kartellrecht: ex-post, Marktmachtmissbrauch, Einzelfallprüfung
+- § 19a GWB: ex-ante-light, nur für Unternehmen mit marktübergreifender Bedeutung
 
-### Ebene 3: Öffentlich zugängliche Daten (Art. 40 Abs. 12)
+**Strategische Hebel für Beschwerdeführer:**
 
-VLOP/VLOSE muss **unverzüglich Zugang zu öffentlich zugänglichen Daten** des Dienstes gewähren — z. B. über APIs oder strukturierte Datenextrakte. Ziel: niedrigschwellige Forschung zu öffentlichen Inhalten.
+- DMA-Beschwerde an Kommission (Art. 27 DMA): schneller, aber begrenzt auf Gatekeeper-Pflichten
+- § 19a GWB an BKartA: erfasst zT mehr Verhaltensweisen, BKartA hat eigene Designations-Verfahren
+- Art. 102 AEUV: klassisch, schwerere Beweislast, Schadensersatz nach § 33a GWB
 
-## Schutzpositionen der Plattform
+## P2B-VO 2019/1150 — DSA / DMA
 
-- **Geschäftsgeheimnisse** (Art. 40 Abs. 5 lit. b)
-- **Datenschutz** Dritter — pseudonymisierte oder aggregierte Daten als milderes Mittel
-- **Sicherheit des Dienstes** (z. B. Algorithmusdetails, die Spam-Abwehr unterlaufen würden)
-- **Verhältnismäßigkeit** des Verlangens
-
-## Anwaltliche Aufgaben
-
-### Plattformseite
-
-- **Forscheranträge prüfen**: Erfüllt der Antragsteller wirklich Art. 40 Abs. 8?
-- **Geschäftsgeheimnis-Argumentation** vorbereiten — was muss anonymisiert / aggregiert werden?
-- **Sichere Datenräume / Clean Rooms** als Zugangsmodell anbieten
-- Bei DSC-Anordnung: Antrag auf Änderung nach Art. 40 Abs. 5
-- Bei ablehnendem Bescheid des DSC ggü. der Plattform: nationaler Rechtsweg
-- Bei einem Verlangen der Kommission: Klagemöglichkeit nach Art. 263 AEUV
-
-### Forscherseite
-
-- Antrag sauber strukturieren: **Forschungsfrage, Methodik, Datenbedarf, Verhältnismäßigkeit, Datenschutz**
-- Vorabklärung der **Finanzierungsoffenlegung**
-- Verzahnung mit **EDMO** (European Digital Media Observatory) bei medien-/desinformationsbezogenen Themen
-- Bei Untätigkeit / Ablehnung des DSC: nationaler Rechtsweg, ggf. parallele Eingabe bei Kommission und EBDS (Europäisches Gremium für digitale Dienste)
-
-## Typische Streitpunkte
-
-- **Was ist eine Forschungseinrichtung?** — Universitäten und außeruniversitäre Institute klar; NGOs und Think-Tanks fallabhängig
-- **Wieviel Datenvolumen** ist verhältnismäßig?
-- **Rohdaten vs. aggregierte Daten** — Plattform pocht meist auf Aggregation, Forscher brauchen oft Rohdaten
-- **Pseudonymisierung vs. echte Anonymisierung** — DSGVO-Maßstab gilt parallel
-
-## Schnittstelle DSGVO
-
-Forschungsdatenzugang nach DSA befreit **nicht** von DSGVO. Verarbeitung personenbezogener Daten benötigt Rechtsgrundlage (Art. 6 Abs. 1 lit. e oder f DSGVO; Forschungsprivilegien Art. 5 Abs. 1 lit. b und e, Art. 89 DSGVO). Auch bei pseudonymisierten Daten Identifizierungs-Restrisiko prüfen.
-
-## Schnittstelle AI Act
-
-Algorithmen-Untersuchung kann zugleich als Erforschung eines KI-Systems im Sinne des AI Act gelten — Forschungs-Ausnahme Art. 2 Abs. 6 AI Act greift bei reiner Forschungstätigkeit; sobald Ergebnisse in Markteinführung münden, gilt der AI Act voll.
-
-## Aktuelle Rechtsprechung
-
-- Rechtsprechung live prüfen: Keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über amtliche oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-
-## Faktische Updates (Stand 05/2026)
-
-- **Delegierte VO (EU) 2024/2987 — Forschungsdatenzugang:** Die delegierte Verordnung zum Forschungsdatenzugang regelt Antragsverfahren, sichere Datenraeume und technische Bedingungen. Stand und Anwendungsbeginn live über eur-lex.europa.eu prüfen.
-- **DSC in Deutschland (BNetzA):** Antraege auf Forscher-Status nach Art. 40 Abs. 8 DSA werden in Deutschland über die BNetzA als DSC eingereicht. Verfahren und ggf. erforderliche Anlagen live über bundesnetzagentur.de prüfen.
-- **EDMO:** European Digital Media Observatory bleibt zentraler Ansprechpartner für Forscher im Bereich Desinformation und Plattformforschung. Quelle: edmo.eu.
-- **DSGVO-Schnittstelle:** Bei personenbezogenen Daten zusaetzlich Art. 6 / Art. 89 DSGVO prüfen; Pseudonymisierung / Anonymisierung als milderes Mittel.
-
-## Zentrale Normen (Paragrafenkette)
-
-- Art. 40 Abs. 1–3 DSA — Datenzugang für digitale Koordinatoren und Kommission
-- Art. 40 Abs. 4–8 DSA — Zugang für vetted researchers
-- Art. 40 Abs. 12 DSA — Öffentlich zugängliche Daten
-- Delegierte VO (EU) 2024/2987 — Verfahren und Bedingungen Forschungsdatenzugang
-- Art. 39 DSA — Werbetransparenz
-
-## Triage zu Beginn
-
-1. Wer ist der Mandant: Plattform (Pflichtenseite) oder Forscher/Behörde (Anspruchsseite)?
-2. Ebene: Zugang für digitalen Koordinator / vetted researcher / öffentlich zugängliche Daten?
-3. Liegt ein konkreter Antrag vor? Fristen und zuständiger DSC prüfen.
-4. Welche Daten werden begehrt? Geschäftsgeheimnis-Schutz und DSGVO prüfen.
-
-## Output-Template — Forschungsdatenzugang-Antrag
-
-**Adressat:** Digitaler Koordinator (DSC) — Tonfall: sachlich-juristisch
-
-```
-Antrag auf Forschungsdatenzugang nach Art. 40 Abs. 4 DSA [DATUM]
-Antragsteller: [NAME, INSTITUTION]
-Adressat: Digitaler Koordinator [MITGLIEDSTAAT]
-Betroffene Plattform: [VLOP/VLOSE-NAME]
-
-Forschungsvorhaben: [KURZBESCHREIBUNG]
-Begehrte Daten: [DATENBESCHREIBUNG]
-Wissenschaftliche Legitimation: [INSTITUTION, PROJEKT]
-Verhältnismäßigkeit: [BEGRUENDUNG ERFORDERLICHKEIT]
-
-Geschäftsgeheimnis-Aspekte: [BERUECKSICHTIGUNG ODER NICHT EINSCHLAEGIG]
-DSGVO-Aspekte: [PERSONENBEZUG JA/NEIN; WENN JA: RECHTSGRUNDLAGE]
-
-Entscheidung beantragt bis: [FRIST]
-```
-
-<!-- BEGIN ausformulierungspflicht (autogen) -->
-> **Ausformulierungspflicht und Formatstandard.** Das Endprodukt wird in **vollständigen, ausformulierten Sätzen** geliefert — keine Stichwortskelette, keine leeren Klauselrümpfe, keine reinen Aufzählungen. Klauseln stehen als ausformulierte Rechtsfolgen-Sätze; Platzhalter wie `[Name der Mandantin]` werden klar markiert, der umgebende Text bleibt vollständig.
->
-> **Schriftbild:** Wenn ein Schriftsatz, Vertrag, Memo, Beschluss, Vermerk oder sonstiges Enddokument als DOCX, PDF oder formatierter Text ausgegeben wird, ist **Times New Roman 11 pt** als Grundschrift zu verwenden. Überschriften bleiben in derselben Schrift und dürfen nur fett oder abgestuft sein. Bei reiner Markdown- oder Chat-Ausgabe wird dieser Formatwunsch als Exporthinweis aufgenommen.
->
-> **Nummerierung:** Gliederung ausschließlich dezimal (`1`, `1.1`, `1.1.1` und so weiter). Keine römischen Ziffern, keine Buchstaben- oder Mischgliederung.
-<!-- END ausformulierungspflicht (autogen) -->
-
-> Quellenregel: Entscheidungen nur nach Prüfung einer amtlichen oder frei zugänglichen Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage ausgeben.
-
----
-
-## Skill: `klage-gegen-vlop-einordnung-art-263-aeuv`
-
-_Wenn es um Klage gegen Designations-Beschluss — Art. 263 AEUV in DSA, DMA und Digitalregulierung der EU geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik._
-
-# Klage gegen Designations-Beschluss — Art. 263 AEUV
-
-## Arbeitsbereich
-
-Nichtigkeitsklage gegen Designations-Beschluss der Kommission (VLOP nach DSA oder Gatekeeper nach DMA): Grossplattform will Designation anfechten. Normen: Art. 263 Abs. 4 AEUV (Nichtigkeitsklage EuG), Art. 33 DSA (VLOP-Designation), Art. 3 DMA (Gatekeeper-Designation), Art. 278-279 AEUV (Eilrechtsschutz). Prüfraster: Klagebefugnis (Adressat, individuell betroffen), Klagegründe (Unzuständigkeit, Formfehler, Vertragsverletzung, Ermessensmissbrauch), Frist 2 Monate. Output Klageschrift-Geruest EuG, Eilrechtsschutz-Antrag. Abgrenzung: VLOP-Pflichten siehe dsa-vlop-vlose-einordnung-und-pflichten; Gatekeeper-Schwellen siehe dma-gatekeeper-schwellen-und-kernplattformdienste. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
-## Arbeitsweg
-
-- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
-- Fristen und Eilrisiken zuerst markieren: DSA Art. 16 Notice-and-Action unverzügliche Reaktion, Art. 24 jährlicher Transparenzbericht, Art. 34 Risikoassessment jährlich/bei Bedarf, DMA Art. 11 Compliance-Bericht 6 Monate nach Benennung.
-- Tragende Normen verifizieren: Digital Services Act (VO 2022/2065) Art. 4-15 (Haftung), 16-22 (Meldung), 24-32 (mittelgroße/VLOP), 33-43 (sehr große), 50-66 (Aufsicht), Digital Markets Act (VO 2022/1925) Art. 3 (Gatekeeper), 5-7 (Pflichten), DDG, TMG (außer Kraft), NetzDG (auslaufend) — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
-- Zuständige Stelle bestimmen und Adressaten richtig wählen: Anbieter Vermittlungsdienst / Hosting / Online-Plattform / sehr große Online-Plattform (VLOP) / Suchmaschine (VLOSE), BNetzA als DSC, EU-KOM (DMA-Vollzug), nationaler Koordinator, Beschwerdeführer.
-- Dokumente und Beweismittel sammeln und auf Lücken prüfen: AGB nach Art. 14 DSA, Transparenzbericht, Risikoassessment, Compliance-Officer-Konzept, Streitbeilegung Art. 21 DSA, DSC-Meldung, DMA-Compliance-Bericht — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
-
-## Zuständigkeit
-
-- **Erstinstanz: Gericht der Europäischen Union (EuG, Luxemburg)** für natürliche und juristische Personen
-- **Rechtsmittel zum EuGH** auf Rechtsfragen (Art. 256 Abs. 1 AEUV)
-
-## Klagebefugnis (Art. 263 Abs. 4 AEUV)
-
-Natürliche oder juristische Personen können klagen:
-
-1. gegen **an sie gerichtete** Handlungen — Designations-Beschluss ist klassischer Fall
-2. gegen Handlungen, die sie **unmittelbar und individuell** betreffen
-3. gegen **Rechtsakte mit Verordnungscharakter**, die sie unmittelbar betreffen und keine Durchführungsmaßnahme erfordern
-
-Bei DSA-Designation und DMA-Gatekeeper-Benennung ist das Unternehmen **Adressat des Beschlusses** — Variante 1, Klagebefugnis unproblematisch.
-
-## Frist (Art. 263 Abs. 6 AEUV)
-
-- **Zwei Monate** ab:
- - Bekanntgabe an den Adressaten **oder**
- - Bekanntmachung im Amtsblatt **oder**
- - Kenntnis (subsidiär)
-- **+ zehn Tage** Entfernungsfrist (Art. 60 § 1 VerfO EuG)
-- Frist ist materiell — Versäumung führt zur Unzulässigkeit
-
-## Klagegründe (Art. 263 Abs. 2 AEUV)
-
-1. **Unzuständigkeit** der Kommission
-2. **Verletzung wesentlicher Formvorschriften** — Begründungsmangel (Art. 296 AEUV), Anhörung
-3. **Verletzung der Verträge oder einer bei ihrer Durchführung anzuwendenden Rechtsnorm** — falsche Auslegung der Schwellen, Verhältnismäßigkeitsverstoß, Grundrechtsverletzung (Art. 16 GRCh unternehmerische Freiheit)
-4. **Ermessensmissbrauch**
-
-## Typische Argumentationslinien (Stand 2026, Spruchpraxis EuG)
-
-### Bei DSA-VLOP-Designation
-
-- **Nutzerzählung methodisch falsch** — Doppelzählung, Bots, Gastnutzer
-- **45-Mio.-Schwelle nicht dauerhaft erreicht** — Saisonalität, einmaliger Peak
-- **Verhältnismäßigkeit der Pflichten** — Mittelstandsplattform mit Spezialfunktion
-- **Begründungsmangel** der Designation
-- **Grundrechtseingriff** in Berufsfreiheit, Eigentum (Aufsichtsgebühr Art. 43 DSA)
-
-### Bei DMA-Gatekeeper-Designation
-
-- **Quantitative Schwellen** nicht erreicht oder falsch berechnet
-- **Widerlegung der Vermutung** nach Art. 3 Abs. 5 DMA: Plattform legt Beweise für fehlende Marktmacht oder fehlende Zugangstor-Funktion vor
-- **Falsche Marktabgrenzung** für einen Kernplattformdienst
-- **Konzernzurechnung** unzutreffend
-- **Konfliktmanagement** mit Pflichten aus anderen Rechtsakten unzureichend gewürdigt
-
-## Eilrechtsschutz (Art. 278, 279 AEUV)
-
-- Klage hat **keine aufschiebende Wirkung** (Art. 278 S. 1 AEUV)
-- Eilantrag auf **Aussetzung des Vollzugs** möglich (Art. 278 S. 2)
-- Voraussetzungen: fumus boni iuris, Dringlichkeit, Interessenabwägung
-- **EuG hat in Eilverfahren zu DSA und DMA bislang restriktiv entschieden** — Aussetzung selten gewährt, weil öffentliches Interesse an rascher Anwendung hoch
-
-## Verfahrensablauf EuG
-
-1. **Klageschrift** in einer EU-Amtssprache (idR Sprache des Adressatenstaats) mit allen Anlagen
-2. Klageschrift muss **klar abgegrenzte Klagegründe** und **Klageanträge** enthalten
-3. **Klageerwiderung** der Kommission (idR zwei Monate)
-4. **Erwiderung** und **Gegenerwiderung** möglich
-5. Mündliche Verhandlung
-6. Urteil — durchschnittliche Verfahrensdauer 18 bis 24 Monate
-
-## Streitwert und Kosten
-
-- Verfahren ist **gebührenfrei**
-- Anwaltszwang (Art. 19 EuG-Satzung — Rechtsanwalt zugelassen in einem Mitgliedstaat)
-- Eigene Kosten und ggf. Kosten der Kommission bei Unterliegen
-
-## Strategie
-
-- **Parallel zur Klage Kommunikation mit der Kommission** offen halten — Pflichten greifen 4 Monate (DSA) bzw. 6 Monate (DMA) nach Designation, in dieser Zeit Compliance vorantreiben
-- **Außergerichtliche Schritte**: Antrag auf Aussetzung bei der Kommission, Anpassungsdialog
-- **PR und Investor Relations**: Designation hat Marktbewertungs-Effekte
-- Bei **Erfolg vor EuG**: Rückwirkung der Nichtigkeit; bereits gezahlte Aufsichtsgebühren rückforderbar
-- Bei **Misserfolg**: Rechtsmittel zum EuGH binnen zwei Monaten, nur Rechtsfragen
-
-## Fallstricke
-
-- Sprache der Klage: Klage muss in einer EU-Amtssprache und in der **Verfahrenssprache** abgefasst werden
-- Unterschriebene Original-Vollmacht mit Anwaltsausweis
-- **Anlagenverzeichnis** und Übersetzungen
-- **Schutzschriften** für sensible Geschäftsgeheimnisse beantragen
-
-## Aktuelle Rechtsprechung
-
-- Rechtsprechung live prüfen: Keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über amtliche oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-
-## Zentrale Normen (Paragrafenkette)
-
-- Art. 263 Abs. 4 AEUV — Nichtigkeitsklage; 2-Monatsfrist
-- Art. 278/279 AEUV — Eilrechtsschutz (Aussetzung und einstweilige Maßnahmen)
-- Art. 256 AEUV — Zuständigkeit EuG in erster Instanz
-- Art. 33 DSA — VLOP-Designation durch Kommission
-- Art. 3 DMA — Gatekeeper-Designation durch Kommission
-
-## Triage zu Beginn
-
-1. Ist der Mandant Adressat des Kommissionsbeschlusses (VLOP/Gatekeeper)?
-2. Wann wurde der Beschluss bekanntgegeben? Frist 2 Monate nach Art. 263 Abs. 6 AEUV berechnen.
-3. Welche Klagegründe kommen in Betracht? (Formfehler / Schwellenwert-Fehler / Verhältnismäßigkeit / Ermessensmissbrauch)
-4. Ist Eilrechtsschutz nach Art. 278 AEUV erforderlich (Durchsetzungsaufsetzung)?
-- **Was will der Mandant wirklich erreichen?** (Nicht: was steht im Standardweg, sondern: welches Ergebnis ist für den Mandanten persoenlich/wirtschaftlich das beste? Manchmal ist der schnellere Vergleich besser als der formal "richtige" Weg.)
-
-## Strategische Optionen (vor dem Template entscheiden)
-
-Bevor das Template eins-zu-eins gefuellt wird, ist zu prüfen welche Variante zur Mandantenkonstellation passt. Das Template ist **eine** moegliche Form — nicht die einzige.
-
-| Konstellation | Empfohlener Weg |
-|---|---|
-| Standard — Nichtigkeitsklage gegen DSA/DMA-Beschluss vorbereiten | Grundgeruest-Template unten |
-| Variante A — Klagebefugnis zweifelhaft | Klagebefugnis Art. 263 Abs. 4 AEUV zuerst prüfen; ggf. Vorabentscheidung |
-| Variante B — nur Eilrechtsschutz noetig (keine Hauptsache) | Art. 278-279 AEUV; separater Eilantrag |
-| Variante C — Beschwerde an Kommission effektiver | Informelles Verfahren vor Klageerhebung erwaegen |
-
-Wenn die Mandantenkonstellation **nicht** ins Standardschema passt, ist das Template anzupassen oder durch ein anderes Skill abzuloesen — nicht das Mandat in das Schema zu pressen.
-
-## Output-Template — Nichtigkeitsklage EuG (Grundgerüst)
-
-**Adressat:** EuG — Tonfall: sachlich-juristisch
-
-```
-Nichtigkeitsklage nach Art. 263 Abs. 4 AEUV
-[DATUM]
-
-Klaeger: [NAME, ANSCHRIFT, VERTRETER]
-Beklagte: Europaeische Kommission
-
-Anfechtungsgegenstand: Beschluss der Kommission vom [DATUM] Az. [AZ]
-(Designation als VLOP nach Art. 33 DSA / Gatekeeper nach Art. 3 DMA)
-
-Klagebefugnis (Art. 263 Abs. 4 AEUV):
-Adressat des Beschlusses — klagebefugt.
-
-Klaggründe:
-1. [VERLETZUNG WESENTLICHER FORMVORSCHRIFTEN: z.B. unzureichende Begruendung Art. 296 AEUV]
-2. [VERLETZUNG DES VERTRAGS: z.B. falsche Schwellenwertberechnung Art. 3 Abs. 2 DMA]
-3. [ERMESSENSMISSBRAUCH: z.B. sachfremde Erwägungen]
-
-Hilfsanträge (Art. 278/279 AEUV): [AUSSETZUNG DER DURCHSETZUNG BIS URTEIL]
-
-Antrag:
-1. Beschluss vom [DATUM] für nichtig zu erklären.
-2. Kosten der Beklagten aufzuerlegen.
-```
-
---- vor Versand klären ---
-1. Welches Verhandlungsziel hat der Mandant? [Bestand / Abfindung / Reputation / Schnelle Loesung]
-2. Welche Kompromisslinien sind absolut? [Mindestabfindung / Freistellung / Zeugnisformulierung]
-3. Sind Anschlusswege erwuenscht? [Mediation / Direktgespraech / Settlement vor Klageerhebung]
-
-<!-- BEGIN ausformulierungspflicht (autogen) -->
-> **Ausformulierungspflicht und Formatstandard.** Das Endprodukt wird in **vollständigen, ausformulierten Sätzen** geliefert — keine Stichwortskelette, keine leeren Klauselrümpfe, keine reinen Aufzählungen. Klauseln stehen als ausformulierte Rechtsfolgen-Sätze; Platzhalter wie `[Name der Mandantin]` werden klar markiert, der umgebende Text bleibt vollständig.
->
-> **Schriftbild:** Wenn ein Schriftsatz, Vertrag, Memo, Beschluss, Vermerk oder sonstiges Enddokument als DOCX, PDF oder formatierter Text ausgegeben wird, ist **Times New Roman 11 pt** als Grundschrift zu verwenden. Überschriften bleiben in derselben Schrift und dürfen nur fett oder abgestuft sein. Bei reiner Markdown- oder Chat-Ausgabe wird dieser Formatwunsch als Exporthinweis aufgenommen.
->
-> **Nummerierung:** Gliederung ausschließlich dezimal (`1`, `1.1`, `1.1.1` und so weiter). Keine römischen Ziffern, keine Buchstaben- oder Mischgliederung.
-<!-- END ausformulierungspflicht (autogen) -->
-
-> Quellenregel: Entscheidungen nur nach Prüfung einer amtlichen oder frei zugänglichen Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage ausgeben.
-
----
-
-## Skill: `dma-gatekeeper-schwellen-und-kernplattformdienste`
-
-_Wenn es um DMA — Gatekeeper-Schwellen und Kernplattformdienste in DSA, DMA und Digitalregulierung der EU geht: rechnet Schwellen, Beträge, Varianten und Kontrollannahmen durch; liefert eine Berechnungstabelle mit Schwellen, Annahmen und Kontrollfragen._
-
-# DMA — Gatekeeper-Schwellen und Kernplattformdienste
-
-## Arbeitsbereich
-
-Gatekeeper-Designation nach Art. 3 DMA prüfen: Plattform-Betreiber will wissen ob DMA-Pflichten gelten oder Kommission hat Designation eingeleitet. Normen: DMA (EU) 2022/1925 Art. 3 (Designation-Voraussetzungen), Art. 2 Nr. 2 DMA (Kernplattformdienste-Katalog), Art. 5-7 DMA (Pflichten). Prüfraster: Quantitative Schwellen (Umsatz EWR 7.5 Mrd. EUR oder Marktwert 75 Mrd. EUR, 45 Mio. Endnutzer, 10000 gewerbliche Nutzer), Kernplattformdienst-Einordnung, Gatekeeper-Pflichten. Output Designation-Prüfschema, Pflichten-Überblick. Abgrenzung: Nichtigkeitsklage gegen Designation siehe klage-gegen-vlop-einordnung-art-263-aeuv; DSA VLOP siehe dsa-vlop-vlose-einordnung-und-pflichten. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
-## Arbeitsweg
-
-- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
-- Fristen und Eilrisiken zuerst markieren: DSA Art. 16 Notice-and-Action unverzügliche Reaktion, Art. 24 jährlicher Transparenzbericht, Art. 34 Risikoassessment jährlich/bei Bedarf, DMA Art. 11 Compliance-Bericht 6 Monate nach Benennung.
-- Tragende Normen verifizieren: Digital Services Act (VO 2022/2065) Art. 4-15 (Haftung), 16-22 (Meldung), 24-32 (mittelgroße/VLOP), 33-43 (sehr große), 50-66 (Aufsicht), Digital Markets Act (VO 2022/1925) Art. 3 (Gatekeeper), 5-7 (Pflichten), DDG, TMG (außer Kraft), NetzDG (auslaufend) — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
-- Zuständige Stelle bestimmen und Adressaten richtig wählen: Anbieter Vermittlungsdienst / Hosting / Online-Plattform / sehr große Online-Plattform (VLOP) / Suchmaschine (VLOSE), BNetzA als DSC, EU-KOM (DMA-Vollzug), nationaler Koordinator, Beschwerdeführer.
-- Dokumente und Beweismittel sammeln und auf Lücken prüfen: AGB nach Art. 14 DSA, Transparenzbericht, Risikoassessment, Compliance-Officer-Konzept, Streitbeilegung Art. 21 DSA, DSC-Meldung, DMA-Compliance-Bericht — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
-
-## Drei kumulative Voraussetzungen (Art. 3 Abs. 1 DMA)
-
-Ein Unternehmen wird als Gatekeeper benannt, wenn es bezogen auf einen Kernplattformdienst (KPD):
-
-1. **erhebliche Auswirkungen auf den Binnenmarkt** hat (a)
-2. **als wichtiges Zugangstor** für gewerbliche Nutzer zu Endnutzern dient (b)
-3. **eine gefestigte und dauerhafte Position** hat oder voraussichtlich erlangen wird (c)
-
-## Quantitative Vermutungen (Art. 3 Abs. 2 DMA)
-
-Die drei Tatbestände werden vermutet, wenn:
-
-| Voraussetzung | Quantitative Schwelle |
-|---|---|
-| a) Binnenmarkt-Auswirkung | Jahresumsatz im EWR ≥ **7.5 Mrd. EUR** in den letzten drei Geschäftsjahren **oder** durchschnittliche Marktkapitalisierung ≥ **75 Mrd. EUR**; Dienst in mindestens drei Mitgliedstaaten |
-| b) Zugangstor | im letzten Geschäftsjahr ≥ **45 Mio. monatlich aktive Endnutzer** mit Sitz in der EU **und** ≥ **10000 jährlich aktive gewerbliche Nutzer** mit Sitz in der EU |
-| c) Gefestigte Position | Schwellen unter b) in den **letzten drei Geschäftsjahren** erreicht |
-
-Auch ohne Erreichen der quantitativen Schwellen kann die Kommission ein Unternehmen nach **qualitativer Marktuntersuchung** nach Art. 3 Abs. 8 DMA designieren.
-
-## Kernplattformdienste (Art. 2 Nr. 2 DMA — abschließende Liste)
-
-1. Online-Vermittlungsdienste
-2. Online-Suchmaschinen
-3. Online-Soziale-Netzwerk-Dienste
-4. Video-Sharing-Plattform-Dienste
-5. Nummernunabhängige interpersonelle Kommunikationsdienste
-6. Betriebssysteme
-7. Webbrowser
-8. Virtuelle Assistenten
-9. Cloud-Computing-Dienste
-10. Online-Werbedienste
-
-Designiert wird je Kernplattformdienst — ein Unternehmen kann mehrere KPDs gleichzeitig betreiben.
-
-## Verfahren
-
-1. Unternehmen muss bei Erreichen der quantitativen Schwellen **innerhalb von zwei Monaten** die Kommission unterrichten (Art. 3 Abs. 3 DMA)
-2. Kommission designiert innerhalb von **45 Arbeitstagen** ab Erhalt der vollständigen Angaben (Art. 3 Abs. 4)
-3. Pflichten greifen **sechs Monate nach Designation** (Art. 3 Abs. 10)
-4. Designation wird **alle drei Jahre** überprüft (Art. 4 DMA)
-
-Stand 2026: in den ersten Tranchen wurden mehrere Big-Tech-Konzerne als Gatekeeper für insgesamt deutlich über 20 Kernplattformdienste benannt.
-
-## Pflichten (Art. 5 bis 7 DMA — Auswahl)
+**Verordnung (EU) 2019/1150** (Platform-to-Business) regelt das Verhältnis Online-Vermittlungsdienst und Online-Suchmaschine zum **gewerblichen Nutzer**:
 
 | Norm | Pflicht |
 |---|---|
-| Art. 5 Abs. 2 | **Kein Cross-Use von Daten** über KPDs hinweg ohne ausdrückliche Einwilligung |
-| Art. 5 Abs. 3 | **Most-Favoured-Nation-Verbot** für gewerbliche Nutzer |
-| Art. 5 Abs. 4 | **Anti-Steering**-Verbot (gewerbliche Nutzer dürfen Endnutzer auf alternative Angebote hinweisen) |
-| Art. 5 Abs. 7 | **Browser-/Suchmaschinen-Auswahlbildschirm** beim Betriebssystem |
-| Art. 6 Abs. 2 | **Verbot des Self-Preferencing** in Ranking |
-| Art. 6 Abs. 3 | **Deinstallierbarkeit** vorinstallierter Apps |
-| Art. 6 Abs. 4 | **Sideloading** und Interoperabilität von Drittstores auf Betriebssystemen |
-| Art. 6 Abs. 7 | **Interoperabilität** mit Hardware-/Softwarefunktionen |
-| Art. 7 | **Interoperabilität interpersoneller Kommunikationsdienste** (Messenger) |
+| Art. 3 P2B | Klare AGB, Vorab-Information bei Änderungen |
+| Art. 4 P2B | Account-Sperre nur mit Begründung und Vorlauf |
+| Art. 5 P2B | Ranking-Hauptparameter offenlegen |
+| Art. 6 P2B | Nebenwaren / -dienstleistungen offenlegen |
+| Art. 7 P2B | Eigene Waren bevorzugen — offenlegen |
+| Art. 9 P2B | Datenzugang offenlegen |
+| Art. 11 P2B | Internes Beschwerdesystem |
+| Art. 12 P2B | Mediation |
 
-## Sanktionen
+P2B gilt für **alle** Online-Vermittlungsdienste, nicht nur Gatekeeper. DSA und DMA überlagern, ersetzen P2B aber nicht.
 
-- Geldbußen bis **10 % des weltweiten Jahresumsatzes**, im Wiederholungsfall **20 %** (Art. 30 DMA)
-- Zwangsgelder bis 5 % des täglichen Umsatzes (Art. 31)
-- Bei systematischer Nichtbefolgung: **strukturelle Maßnahmen** möglich, einschließlich Veräußerung von Unternehmensteilen (Art. 18)
+**Praxisfolge**: Für Händler auf Marktplätzen — sowohl DMA Art. 5 (Anti-Steering) als auch P2B Art. 7 (Eigenpräferenz) zitieren.
 
-## Schnittstellen
+## § 19a GWB
 
-- DMA gilt **zusätzlich** zu Art. 101 / 102 AEUV (Art. 1 Abs. 6 DMA)
-- Nationales Recht: § 19a GWB erfasst teilweise engere Sachverhalte
-- DSGVO und DSA gelten parallel
-- P2B-VO greift im Verhältnis Plattform — gewerblicher Nutzer ergänzend
+- Designation durch BKartA-Beschluss nach **Verfügung über marktübergreifende Bedeutung** (§ 19a Abs. 1 GWB)
+- Untersagungsbefugnis für sieben benannte Verhaltensweisen (§ 19a Abs. 2)
+- Designations-Beschlüsse für mehrere Big-Tech-Konzerne sind bestandskräftig
+- Aktuelle Fälle 2024/25 (BGH KVR / OLG Düsseldorf VI-Kart): Self-Preferencing, Tracking-Pflichten, Konditionenmissbrauch
 
-## Aktuelle Rechtsprechung
+**Verhältnis zum DMA:** Bei Doppelregulierung ist BKartA verpflichtet, das nationale Verfahren zu führen, wenn nicht ausschließlich Gatekeeper-Pflichten betroffen sind. Bei reinen DMA-Verstößen ist die Kommission allein zuständig (Art. 1 Abs. 7 DMA).
 
+## Mehr-Anker-Strategie
+
+Bei einem Beratungsfall **alle relevanten Anker prüfen**:
+
+| Sachverhalt | Anker 1 | Anker 2 | Anker 3 |
+|---|---|---|---|
+| Account-Sperre (Verbraucher) | DSA Art. 17–23 | DSGVO Art. 15, 22 | BGB Vertragsstörung + GG Art. 5 mittelbare Drittwirkung |
+| Account-Sperre (Händler) | DSA Art. 17–23 | P2B Art. 4, 11 | DMA Art. 6 Abs. 13 (Beendigung KPD) |
+| Self-Preferencing | DMA Art. 6 Abs. 2 | P2B Art. 7 | § 19a Abs. 2 Nr. 1 GWB / Art. 102 AEUV |
+| Datenverknüpfung über Dienste | DMA Art. 5 Abs. 2 | DSGVO Art. 6 + 9 | § 19a Abs. 2 Nr. 4 GWB |
+| Empfehlungssystem | DSA Art. 27, 38 | DSGVO Art. 22 | AI Act je nach Einordnung |
+| Werbung politisch | VO 2024/900 | DSA Art. 39 | DSGVO |
+
+## Anwaltliche Praxis
+
+- **Welche Norm hat den schärfsten Hebel?** — Bußgeld, Untersagung, Schadensersatz, Eilrechtsschutz
+- **Welche Behörde reagiert am schnellsten?** — BKartA, BNetzA als DSC, BfDI / LDA, Kommission
+- **Wer trägt die Beweislast?** — Gerichtsstand, prozessuale Strategie
 - Rechtsprechung live prüfen: Keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über amtliche oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-
-## Faktische Updates (Stand 05/2026)
-
-- **Designation-Liste:** Aktuelle Liste der designierten Gatekeeper und ihrer Kernplattformdienste live über digital-markets-act.ec.europa.eu/gatekeepers_en prüfen. Stand 2026: mehrere Big-Tech-Konzerne designiert, jeweils für einen oder mehrere Kernplattformdienste (Suchmaschinen, App-Stores, Videoplattformen, soziale Netzwerke, Messenger, Online-Vermittlung, Werbedienste, Browser, Betriebssysteme).
-- **Erste Sanktionsverfahren:** Kommission hat seit 2024 mehrere Nichteinhaltungs-Untersuchungen gegen Gatekeeper eroeffnet (insb. zu Anti-Steering Art. 5 Abs. 4, Self-Preferencing Art. 6 Abs. 2, Sideloading Art. 6 Abs. 4). Aktuelle Pressemitteilungen und Entscheidungen live über ec.europa.eu/competition prüfen.
-- **EuG-/EuGH-Klagen Art. 263 AEUV:** Designation-Beschlüsse und Compliance-Anordnungen werden von Gatekeepern angefochten. Konkrete Aktenzeichen und Verfahrensstand live über curia.europa.eu prüfen (Suche "DMA" / "Digital Markets Act").
-- **Schnittstelle Art. 19a GWB:** § 19a GWB (besondere Missbrauchsaufsicht gegenueber Marktbeherrschern mit ueberragender marktuebergreifender Bedeutung) bleibt parallel anwendbar; BKartA-Beschlüsse zu Verfuegungen nach § 19a GWB live über bundeskartellamt.de prüfen.
 
 ## Zentrale Normen (Paragrafenkette)
 
-- Art. 3 DMA — Gatekeeper-Designation (quantitative Schwellen + qualitative Vermutung)
-- Art. 2 Nr. 2 DMA — Kernplattformdienste-Katalog
-- Art. 5–7 DMA — Per-se-Verbote und spezifizierbare Pflichten
-- Art. 26 ff. DMA — Aufsicht durch Kommission
+- Art. 2 Abs. 4 DSA — DSGVO bleibt unberührt
+- Art. 1 Abs. 5 DMA — DSGVO bleibt unberührt
+- Art. 3–5 P2B-VO (2019/1150) — Transparenz gegenüber gewerblichen Nutzern
+- § 19a GWB — Sonderregeln für Unternehmen mit überragender marktübergreifender Bedeutung
 
 ## Triage zu Beginn
 
-1. Überschreitet der Anbieter die quantitativen Schwellen? (Umsatz EWR 7.5 Mrd. EUR / Marktwert 75 Mrd. / 45 Mio. EU-Nutzer / 10.000 Gewerbekunden)
-2. Welcher Kernplattformdienst liegt vor? (Art. 2 Nr. 2 DMA: Vermittlungsdienst, Suchmaschine, SNS, Videoplattform, Messaging, Betriebssystem, Browser, Cloud, Werbedienste)
-3. Ist der Anbieter bereits als Gatekeeper designiert?
-4. Welche Pflichten aus Art. 5–7 DMA sind zu prüfen?
+1. Welche Ansprüche kommen in Betracht? (DSGVO-Betroffenenrechte / DSA-Beschwerde / P2B-VO / § 19a GWB)
+2. Ist der Anspruchsgegner ein VLOP (DSA) / Gatekeeper (DMA) / Marktbeherrscher (GWB)?
+3. Ist der Mandant gewerblicher Nutzer (P2B-VO) oder Privatperson (DSA Art. 20)?
+4. Welche Mehrwert-Strategie ist sinnvoll? (parallele Ansprüche aus mehreren Normen)
 
-## Output-Template — Gatekeeper-Prüfvermerk
+## Output-Template — Mehrankerstrategie
 
-**Adressat:** Kanzlei intern / Rechtsabteilung — Tonfall: sachlich-juristisch
+**Adressat:** Kanzlei intern / Mandant — Tonfall: sachlich-juristisch
 
 ```
-Gatekeeper-Prüfvermerk [DATUM]
-Anbieter: [NAME]
-Dienst: [KERNPLATTFORMDIENST, Art. 2 Nr. 2 DMA]
+Mehr-Anker-Strategie Digitalregulierung [DATUM]
+Sachverhalt: [KURZBESCHREIBUNG]
+Mandant-Rolle: Nutzer / Gewerblicher Nutzer / Wettbewerber
 
-Quantitative Schwellen (Art. 3 Abs. 2 DMA):
-Umsatz EWR: [BETRAG EUR] >= 7.5 Mrd.: ja / nein
-Marktwert: [BETRAG EUR] >= 75 Mrd.: ja / nein
-EU-Endnutzer: [ANZAHL] >= 45 Mio.: ja / nein
-EU-Gewerbekunden: [ANZAHL] >= 10.000: ja / nein
-Zeitraum (3 von 5 Jahren): ja / nein
+Anspruchs-Matrix:
+| Norm | Anspruch | Adressat | Rechtsfolge | Aussichten |
+|-----------|-----------------------------|--------------|---------------------|-----------|
+| Art. 17 DSA | Begruendungspflicht | Plattform | Wiederherstellung | |
+| Art. 20 DSA | Interne Beschwerde | Plattform | Reversierung | |
+| Art. 15 DSGVO | Auskunft | Plattform | Datenkopie | |
+| P2B-VO Art. 3 | Transparenz | Plattform | Korrektur | |
+| § 19a GWB | Missbrauchsabstellung | BKartA | Untersagung | |
 
-Ergebnis: Quantitative Vermutung: JA / NEIN
-Designation bereits erfolgt: ja (Beschluss vom [DATUM]) / nein / beantragt
-
-Anwendbare Pflichten: Art. 5–7 DMA [LISTE EINSCHLAEGIGER PFLICHTEN]
-Empfehlung: [BERATUNGSEMPFEHLUNG]
+Empfohlene Strategie: [BESCHREIBUNG]
+Nächste Schritte: [LISTE]
 ```
 
 > Quellenregel: Entscheidungen nur nach Prüfung einer amtlichen oder frei zugänglichen Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage ausgeben.
 
 ---
 
-## Skill: `dsa-krisenreaktionsmechanismus-art-36`
+## Skill: `anschluss-routing`
 
-_Wenn es um DSA: Krisenreaktion Art. 36 in DSA, DMA und Digitalregulierung der EU geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt._
+_Für Anschluss-Routing: routet Rolle, Frist, Unterlagen und Fachschritt; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt. Fachgebiet: DSA, DMA und Digitalregulierung der EU._
 
-# DSA: Krisenreaktion Art. 36
+# Anschluss-Routing
 
-## Aufgabe
-Krisenreaktionsmechanismus Art.
+## Einsatzlage
 
+Dieses Anschluss-Routing für **Dsa Dma Digitalregulierung** wählt nach dem ersten Ergebnis die passende Vertiefung, Eskalation, Fristensicherung oder Dokumentenerstellung.
 
-## Fachlicher Arbeitskern
+## Fachlandkarte dieses Plugins
 
-Dieser Skill ist kein allgemeiner Chat-Modus, sondern ein Arbeitswerkzeug fuer `dsa-dma-digitalregulierung` zum Thema `dsa-krisenreaktionsmechanismus-art-36`. Ausgangspunkt ist immer die konkrete Aufgabe aus der Beschreibung: Krisenreaktionsmechanismus Art. 36 DSA: Aktivierung durch EU-Kommission bei aussergewoehnlichen Umstaenden (Krieg, Pandemie, Terroranschlag). Pflichten der VLOP zur Risikobewertung und Massnahmen, Reporting, Dauer max. 3 Monate verlaengerbar. Beispiel Ukraine-Krieg. Compliance-Playbook fuer VLOP zur schnellen Reaktion..
-
-Arbeite deshalb fallnah:
-
-1. **Falltyp erkennen:** Einordnung, ob es um Erstberatung, Anspruchs-/Pflichtenpruefung, Vertrags-/Bescheid-/Schriftsatzarbeit, Strategie oder Fristenrettung geht.
-2. **Entscheidungspunkte bilden:** Welche zwei bis fuenf Weichen entscheiden den Fall wirklich?
-3. **Belege anfordern:** Nur die Unterlagen nachfordern, die fuer diese Weichen gebraucht werden; keine Frageboegen um ihrer selbst willen.
-4. **Spezialwissen anwenden:** Die im Skill genannten Normen, Behoerden, Verfahrensarten, Branchenlogiken oder typischen Streitpunkte sichtbar abarbeiten.
-5. **Nutzbaren Output liefern:** Am Ende steht ein Memo, eine Matrix, ein Textbaustein, ein Schriftsatzgeruest, ein Mandantenbrief oder eine klare Naechste-Schritte-Liste.
-
-Wenn ein anderer Skill desselben Plugins genauer passt, schlage ihn aktiv vor und erklaere in einem Satz, warum der Wechsel die Arbeit beschleunigt.
-
-## Kaltstart
-Frage zu Beginn nur ab, was fuer den naechsten Schritt unverzichtbar ist. Wenn Material vorliegt, mit dem Material arbeiten und nur eine gezielte Rueckfrage stellen.
-
-1. **Rolle und Ziel:** Wer fragt, welche Rolle, welcher gewuenschte Output (Memo, Schriftsatz, Tabelle, Checkliste)?
-2. **Sachverhalt:** Welche unstreitigen Tatsachen liegen vor, was ist streitig, was fehlt noch?
-3. **Fristen:** Gibt es Termine, Fristen, eilbeduerftige Schritte?
-4. **Unterlagen:** Welche Dokumente, Bescheide, Vertraege, Auszuege liegen vor?
-5. **Format:** Wie ausfuehrlich, fuer wen, in welcher Tonalitaet?
-
-## Pruefraster
-
-Der Skill erwartet folgenden inhaltlichen Aufbau im Output:
-
-1. **Sachverhalt fixieren** - streitige und unstreitige Tatsachen trennen, Lueckentafel.
-2. **Rechtliche Einordnung** - einschlaegige Normen, zustaendige Stellen, Verfahrensart, Darlegungs-/Beweislast und nur verifizierte Rechtsprechung.
-3. **Pruefung im Gutachtenstil** - Obersatz, Definition, Subsumtion, Zwischenergebnis.
-4. **Handlungsempfehlung** - konkret, mit naechstem Schritt, verantwortlicher Person, Frist.
-
-## Plugin-Kontext
-Dieser Skill gehoert zum Plugin `dsa-dma-digitalregulierung`. Er ergaenzt die uebrigen Skills des Plugins um einen vertieften Spezialfall oder eine systematische Einfuehrung. Bei Folgefragen werden andere Skills des Plugins als Anschluss vorgeschlagen.
-
-## Output-Module
-- Strukturierter Pruefvermerk im Gutachtenstil mit klaren Ueberschriften.
-- Tabellen und Checklisten, wo das die Lesbarkeit erhoeht.
-- Anschreiben-, Antrags- oder Klageschriftsatz-Geruest, wenn die Aufgabe das verlangt.
-- Quellenliste mit Gericht, Datum, Aktenzeichen, frei pruefbarem Link.
-
-## Quellenregel
-- Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei pruefbarem Link ausgeben; bei Unsicherheit erst verifizieren oder als zu pruefen markieren.
-- Keine Paywall-, Kommentar-, Aufsatz- oder Datenbankfundstelle als tragende Aussage verwenden, wenn sie nicht durch Nutzerquelle oder dokumentierten Live-Zugriff verifiziert ist.
-- Keine Kommentar-, Handbuch-, Aufsatz- oder BeckRS-/juris-Blindzitate aus Modellwissen. Literatur nur verwenden, wenn der Nutzer die Quelle bereitstellt oder ein lizenzierter Live-Zugriff im konkreten Arbeitskontext dokumentiert ist.
-- Annahmen explizit als solche kennzeichnen; keine erfundenen Fundstellen, keine erfundenen Tatsachen, keine erfundenen Behoerdenpraxis-Saetze.
-
-## Was dieser Skill nicht macht
-- Kein Ersatz fuer eine vollstaendige Mandantenberatung.
-- Keine Festlegung des Mandanten ohne dessen ausdrueckliche Entscheidung.
-- Keine Bewertung von Tatsachen, die nicht durch Unterlagen oder klare Mandantenangaben gedeckt sind.
-- Bei erkennbaren Interessenkonflikten oder Berufsrechtsfragen Hinweis an den fallfuehrenden Anwalt.
-
----
-
-## Skill: `einordnung-zahlen-schwellen-und-berechnung`
-
-_Wenn es um Einordnung: Zahlen, Schwellenwerte und Berechnung in DSA, DMA und Digitalregulierung der EU geht: rechnet Schwellen, Beträge, Varianten und Kontrollannahmen durch; liefert eine Berechnungstabelle mit Schwellen, Annahmen und Kontrollfragen._
-
-# Einordnung: Zahlen, Schwellenwerte und Berechnung
+- `account-internationaler-bezug-und-schnittstellen` — Account Internationaler Bezug und Schnittstellen
+- `account-sperre-soziales-netzwerk-rechtsbehelfe-art-20-23-dsa` — Account Sperre Soziales Netzwerk Rechtsbehelfe ART 20 23 DSA
+- `bussgeldverteidigung` — Bussgeldverteidigung
+- `dark-patterns-internes-beschwerdesystem` — Dark Patterns Internes Beschwerdesystem
+- `data-digitalregulierung-dora` — Data Digitalregulierung Dora
+- `digitalregulierung-erstpruefung-und-mandatsziel` — Digitalregulierung Erstpruefung und Mandatsziel
+- `digitalregulierung-schnittstellen-dsgvo-p2b-19a-gwb` — Digitalregulierung Schnittstellen DSGVO P2B 19A GWB
+- `dma-anti-steering-app-store-design` — DMA Anti Steering APP Store Design
+- `dma-business-user-gatekeeper` — DMA Business User Gatekeeper
+- `dma-fristen-form-und-zustaendigkeit` — DMA Fristen Form und Zustaendigkeit
+- `dma-gatekeeper-schwellen-und-kernplattformdienste` — DMA Gatekeeper Schwellen und Kernplattformdienste
+- `dma-interoperabilitaet-messenger-art-7` — DMA Interoperabilitaet Messenger ART 7
+- `dma-pflichten-dsa-art-forschungsdatenzugang` — DMA Pflichten DSA ART Forschungsdatenzugang
+- `dokumente-intake` — Dokumente Intake
+- `einstieg-routing` — Einstieg Routing
 
 ## Arbeitsweg
 
-- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
-- Fristen und Eilrisiken zuerst markieren: DSA Art. 16 Notice-and-Action unverzügliche Reaktion, Art. 24 jährlicher Transparenzbericht, Art. 34 Risikoassessment jährlich/bei Bedarf, DMA Art. 11 Compliance-Bericht 6 Monate nach Benennung.
-- Tragende Normen verifizieren: Digital Services Act (VO 2022/2065) Art. 4-15 (Haftung), 16-22 (Meldung), 24-32 (mittelgroße/VLOP), 33-43 (sehr große), 50-66 (Aufsicht), Digital Markets Act (VO 2022/1925) Art. 3 (Gatekeeper), 5-7 (Pflichten), DDG, TMG (außer Kraft), NetzDG (auslaufend) — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
-- Zuständige Stelle bestimmen und Adressaten richtig wählen: Anbieter Vermittlungsdienst / Hosting / Online-Plattform / sehr große Online-Plattform (VLOP) / Suchmaschine (VLOSE), BNetzA als DSC, EU-KOM (DMA-Vollzug), nationaler Koordinator, Beschwerdeführer.
-- Dokumente und Beweismittel sammeln und auf Lücken prüfen: AGB nach Art. 14 DSA, Transparenzbericht, Risikoassessment, Compliance-Officer-Konzept, Streitbeilegung Art. 21 DSA, DSC-Meldung, DMA-Compliance-Bericht — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
+- Ergebnis sichten: Welche Dsa Dma Digitalregulierung-Fragen sind nach diesem Skill beantwortet, welche bleiben offen oder neu entstehen?
+- Anschlussweichen identifizieren: drohende Frist (die im Fachgebiet einschlägigen Verfahrens- und materiellen Fristen pflichtmäßig vorab markieren und nicht aus Modellwissen finalisieren), notwendige Dokumente (Vertragsurkunden, Schriftsätze, Verwaltungsakte, Protokolle, Bescheide und externe Beweismittel des Fachgebiets), nächste Verfahrensstufe oder Sachgebiet.
+- Konkreten Folge-Skill aus der Fachlandkarte oben benennen — nicht generisch "weitermachen", sondern Skill-Slug nennen.
+- Eskalation an Mandant, Gegner, zuständiges Gericht oder Behörde, etwaige Sachverständige oder beauftragte Stellen oder Spezialisten klären, wenn der Vorgang die Skill-Grenze überschreitet.
+- Mandantenkommunikation vorbereiten: Was muss der Mandant tun, bis wann, welche Unterlagen bringen, welche Risiken sind offen?
 
-## Spezialwissen: Einordnung: Zahlen, Schwellenwerte und Berechnung
-- **Normen-/Quellenanker:** EU, DSA, VO, DMA, DGA, AI, NIS, DORA, CRA, DDG, GWB, VLOP.
+## Qualitätsanker
 
-## Fallweichen
-Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur Rückfragen, die die nächste Weiche verändern:
+- Normen und Rechtsprechung nach `references/quellenhygiene.md` und `references/zitierweise.md` behandeln.
+- Wenn eine Spezialfrage sichtbar wird, den passenden Skill nennen und kurz erklären, warum genau dieser Arbeitsgang passt.
+- Bei Zeitdruck zuerst Frist, Zuständigkeit, Form und Beweislast sichern.
 
-1. Welche Rolle hat die fragende Person und wer ist Gegenüber?
-2. Welches konkrete Ziel soll erreicht oder verhindert werden?
-3. Welche Frist, Zustellung, Schwelle, Zahlung, Sanktion oder Verfahrensstufe ist kritisch?
-4. Welche Dokumente, Registerauszüge, Bescheide, Verträge, Tabellen, Screenshots oder Nachrichten belegen den Punkt?
-5. Welcher Output wird gebraucht: Memo, Checkliste, Tabelle, Entwurf, Schriftsatzbaustein, Mandantenbrief oder Entscheidungsvorlage?
+---
 
-## Arbeitsworkflow
-1. **Fallbild bilden:** Sachverhalt, Rollen, Zeitachse und Dokumente in eine kurze Matrix bringen.
-2. **Rechtsrahmen setzen:** Normen, Zuständigkeiten, Fristen, Formfragen und Verfahrensstand zum Themenfeld **Einordnung** prüfen.
-3. **Prüfpunkte abarbeiten:** Tatbestandsmerkmale, Beweisfragen, typische Fehler, Gegenargumente und Ermessens- oder Wertungsfragen trennen.
-4. **Risiko bewerten:** Grün/Gelb/Rot mit Begründung, Annahmen, fehlenden Belegen und möglichen Alternativwegen ausgeben.
-5. **Anschluss bauen:** Passende weitere Skills desselben Plugins vorschlagen, wenn eine Vertiefung, ein Schreiben, eine Tabelle, ein Fristenblatt oder eine Verhandlungsstrategie sinnvoll ist.
+## Skill: `mandantenkommunikation-redteam-qualitygate`
 
-## Schwellen DSA (VO (EU) 2022/2065)
-- **VLOP / VLOSE** (Art. 33 Abs. 1): durchschnittlich **mindestens 45 Mio. monatlich aktive Nutzer** in der Union — berechnet nach Methodik der Durchführungsverordnung (EU) 2023/1322.
-- **Online-Plattformen, Kleinst- und Kleinunternehmen** sind nach Art. 19 von einem Teil der Pflichten befreit (Anlehnung an Empfehlung 2003/361/EG: < 50 Beschäftigte und ≤ 10 Mio. EUR Jahresumsatz/-bilanzsumme).
-- **Bußgeld DSA** (Art. 52): bis 6 % des weltweiten Jahresumsatzes; Zwangsgeld bis 5 % des durchschnittlichen täglichen Umsatzes.
+_Für Mandantenkommunikation: prüft Ergebnis, Beweislast und Gegenposition; Ergebnis: Gegenprüfung mit Beweis- und Fristencheck. Fachgebiet: DSA, DMA und Digitalregulierung der EU._
 
-## Schwellen DMA (VO (EU) 2022/1925, gilt seit 02.05.2023)
-Vermutung Gatekeeper-Status nach Art. 3 Abs. 2 DMA, wenn alle drei Schwellen erfüllt:
-- **Größe Union**: Jahresumsatz im EWR ≥ 7,5 Mrd. EUR (in jedem der letzten drei Geschäftsjahre) **oder** durchschnittliche Marktkapitalisierung / fairer Marktwert ≥ 75 Mrd. EUR im letzten Geschäftsjahr **und** zentraler Plattformdienst in mindestens 3 Mitgliedstaaten.
-- **Nutzerzahl**: mindestens 45 Mio. monatlich aktive Endnutzer in der Union und mindestens 10.000 jährlich aktive gewerbliche Nutzer (jeweils im letzten Geschäftsjahr).
-- **Verfestigt**: Nutzer-Schwellen in den letzten drei Geschäftsjahren erreicht.
+# Mandantenkommunikation
 
-Gegenbeweis: Art. 3 Abs. 5 DMA — Marktbedingungen widerlegen die Gatekeeper-Stellung.
+## Arbeitsauftrag
 
-## Bußgeldrahmen DMA
-- Bis **10 % des weltweiten Jahresumsatzes** (Art. 30); Wiederholung bis **20 %**. Zwangsgeld bis 5 % des durchschnittlichen täglichen Umsatzes.
+Dieser Arbeitsgang macht **Mandantenkommunikation** im Bereich **dsa-dma-digitalregulierung** sofort bearbeitbar: erst Akte lesen, dann Rollen, Ziel, Fristen, Belege und Entscheidungspunkte ordnen. Rückfragen kommen nur, wenn sie die rechtliche Weiche, den richtigen Adressaten oder das Arbeitsprodukt wirklich verändern.
 
-## Trade-off
-Schwellen sind Brutto-Größen — gerichtliche Überprüfung der Methodik (Definition aktiver Nutzer, Konsolidierungsgrenze) ist offen; Designated-Beschlüsse der Kommission werden vor dem EuG angegriffen. Die Marktkapitalisierungs-Schwelle macht auch wachstumsstarke Anbieter ohne hohen Umsatz erfassbar.
+## Aktenstart ohne Leerlauf
+
+1. Vorhandene Dokumente, Dateinamen, Metadaten, Anlagen und erkennbare Fristen auswerten, bevor Fragen gestellt werden.
+2. Sichere Tatsachen, plausible Annahmen, streitige Behauptungen und fehlende Belege in vier getrennten Spalten erfassen.
+3. Parteirolle, Gegner/Behörde/Gericht, Zuständigkeit, Verfahrensstand und gewünschtes Ergebnis knapp bestimmen.
+4. Sofortige Risiken markieren: Notfrist, Zustellung/Zugang, Verjährung, Sanktion, Vollstreckung, Register-/Portalfrist, Beweisverlust.
+5. Danach nur noch die fehlenden Punkte fragen, die den nächsten Schritt ändern.
+
+## Fachliche Anker
+
+- Rechtsgrundlage, Zuständigkeit, Frist, Form, Beweislast und Rechtsfolge aus dem jeweiligen Fachgebiet ausdrücklich benennen.
+- Spezialnormen aus den angrenzenden Fachskills dieses Plugins vor Ausgabe gegen Gesetzestext oder amtliche Quelle prüfen.
+- Keine Rechtsprechung oder Literatur aus Modellwissen erzwingen; nur verifizierte, frei prüfbare Fundstellen verwenden.
+
+## Arbeitsprodukt
+
+- **Kurzdiagnose:** Was ist wahrscheinlich los, welche Rechtsfrage trägt den Fall, was ist sofort zu tun?
+- **Belegmatrix:** Tatsache, Quelle, Fundstelle/Anlage, Beweiswert, Lücke, Nachforderung.
+- **Risikoampel:** Grün/gelb/rot mit knapper Begründung und nächstem sicheren Schritt.
+- **Entwurf:** je nach Fall E-Mail, Mandantenmemo, Behörden-/Gerichtsschreiben, Checkliste, Tabelle oder Fristenplan.
+- **Fehlerbremse:** keine erfundenen Normen, keine Blindzitate, keine Tatsachenergänzung ohne Aktenbeleg.
+
+## Ergänzende Hinweise
+
+## Mandantenkommunikation DSA/DMA
+- **Anrede + Bezug:** "In Sachen [Mandant] / Ihre DSA-/DMA-Compliance"
+- **Sachstand kurz:** Plattform-Kategorisierung (Vermittlungsdienst, Hosting, Online-Plattform, VLOP), Pflichtenkanon, Status Compliance.
+- **Empfehlung:** zentraler nächster Schritt (z. B. "AGB Art. 14-DSA-konform anpassen, Statement-of-Reasons-Prozess implementieren, Single Point of Contact benennen").
+- **Risikoampel** mit Bezug auf Bußgeldrahmen (DSA 6 %, DMA 10 % bzw. 20 %).
+- **Frist** klar benennen: Compliance-Berichte jährlich, Risikobewertung VLOP jährlich, Statement of Reasons unverzüglich.
+- **Kostenhinweis:** RVG/Honorarvereinbarung.
+- **Zuständigkeitshinweis:** DSA via BNetzA (deutscher DSC); DMA ausschließlich Kommission — Doppelverfahren vermeiden.
+
+## Praxis-Tipp
+Vermeiden Sie pauschale Aussagen wie "Sie sind nicht betroffen". DSA gilt für alle Vermittlungsdienste mit gestuftem Pflichtenkanon; auch Kleinst- und Kleinunternehmen sind betroffen, lediglich mit Erleichterungen (Art. 19, 24, 29 DSA). Lassen Sie diese Differenzierung sichtbar werden.
+
+---
+
+## Skill: `quellen-livecheck`
+
+_Für Rechtsquellen-Livecheck: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt. Fachgebiet: DSA, DMA und Digitalregulierung der EU._
+
+# Rechtsquellen-Livecheck
+
+## Einsatzlage
+
+Dieser Quellen-Livecheck für **Dsa Dma Digitalregulierung** trennt amtliche Normfassung, frei prüfbare Rechtsprechung, Behördenhinweise, Formularstand und offene Aktualitätsrisiken.
+
+## Fachlandkarte dieses Plugins
+
+- `account-internationaler-bezug-und-schnittstellen` — Account Internationaler Bezug und Schnittstellen
+- `account-sperre-soziales-netzwerk-rechtsbehelfe-art-20-23-dsa` — Account Sperre Soziales Netzwerk Rechtsbehelfe ART 20 23 DSA
+- `bussgeldverteidigung` — Bussgeldverteidigung
+- `dark-patterns-internes-beschwerdesystem` — Dark Patterns Internes Beschwerdesystem
+- `data-digitalregulierung-dora` — Data Digitalregulierung Dora
+- `digitalregulierung-erstpruefung-und-mandatsziel` — Digitalregulierung Erstpruefung und Mandatsziel
+- `digitalregulierung-schnittstellen-dsgvo-p2b-19a-gwb` — Digitalregulierung Schnittstellen DSGVO P2B 19A GWB
+- `dma-anti-steering-app-store-design` — DMA Anti Steering APP Store Design
+- `dma-business-user-gatekeeper` — DMA Business User Gatekeeper
+- `dma-fristen-form-und-zustaendigkeit` — DMA Fristen Form und Zustaendigkeit
+- `dma-gatekeeper-schwellen-und-kernplattformdienste` — DMA Gatekeeper Schwellen und Kernplattformdienste
+- `dma-interoperabilitaet-messenger-art-7` — DMA Interoperabilitaet Messenger ART 7
+- `dma-pflichten-dsa-art-forschungsdatenzugang` — DMA Pflichten DSA ART Forschungsdatenzugang
+- `anschluss-routing` — Anschluss Routing
+- `dokumente-intake` — Dokumente Intake
+
+## Arbeitsweg
+
+- Tragende Normen (Art. 13, Art. 20, Art. 34, Art. 40, DDG, § 19a GWB) zuerst amtlich verifizieren: gesetze-im-internet.de oder spezialisiertes Bundesgesetzblatt-Portal; nicht aus Modellwissen finalisieren.
+- Rechtsprechung nur mit vollständiger Zitatkette: Gericht, Senat, Entscheidungsform, Datum, Aktenzeichen, Fundstelle (BGHZ/BVerfGE/amtl. Sammlung) und frei prüfbare Quelle (dejure.org, openJur, Pressemitteilungen des Gerichts, BGH-/BVerfG-Datenbank).
+- Paywall-Quellen (juris, beck-online) nicht als alleinige Verifikation nutzen; immer eine freie Bestätigung beilegen.
+- Dynamische Bereiche im Dsa Dma Digitalregulierung (Rechtsverordnungen, Verwaltungspraxis, Mietspiegel, Tarife) gesondert tagesaktuell prüfen, weil Modellwissen veraltet ist.
+- Quellenstand und offene Unsicherheit im Output sichtbar machen — kein Pseudo-Zitat ohne Live-Check.
+
+## Qualitätsanker
+
+- Normen und Rechtsprechung nach `references/quellenhygiene.md` und `references/zitierweise.md` behandeln.
+- Wenn eine Spezialfrage sichtbar wird, den passenden Skill nennen und kurz erklären, warum genau dieser Arbeitsgang passt.
+- Bei Zeitdruck zuerst Frist, Zuständigkeit, Form und Beweislast sichern.
+
+---
+
+## Skill: `workflow-redteam-qualitygate`
+
+_Für Red-Team Qualitygate: prüft Ergebnis, Beweislast und Gegenposition; Ergebnis: Gegenprüfung mit Beweis- und Fristencheck. Fachgebiet: DSA, DMA und Digitalregulierung der EU._
+
+# Red-Team Qualitygate
+
+## Arbeitsauftrag
+
+Dieser Arbeitsgang macht **Red-Team Qualitygate** im Bereich **dsa-dma-digitalregulierung** sofort bearbeitbar: erst Akte lesen, dann Rollen, Ziel, Fristen, Belege und Entscheidungspunkte ordnen. Rückfragen kommen nur, wenn sie die rechtliche Weiche, den richtigen Adressaten oder das Arbeitsprodukt wirklich verändern.
+
+## Aktenstart ohne Leerlauf
+
+1. Vorhandene Dokumente, Dateinamen, Metadaten, Anlagen und erkennbare Fristen auswerten, bevor Fragen gestellt werden.
+2. Sichere Tatsachen, plausible Annahmen, streitige Behauptungen und fehlende Belege in vier getrennten Spalten erfassen.
+3. Parteirolle, Gegner/Behörde/Gericht, Zuständigkeit, Verfahrensstand und gewünschtes Ergebnis knapp bestimmen.
+4. Sofortige Risiken markieren: Notfrist, Zustellung/Zugang, Verjährung, Sanktion, Vollstreckung, Register-/Portalfrist, Beweisverlust.
+5. Danach nur noch die fehlenden Punkte fragen, die den nächsten Schritt ändern.
+
+## Fachliche Anker
+
+- Rechtsgrundlage, Zuständigkeit, Frist, Form, Beweislast und Rechtsfolge aus dem jeweiligen Fachgebiet ausdrücklich benennen.
+- Spezialnormen aus den angrenzenden Fachskills dieses Plugins vor Ausgabe gegen Gesetzestext oder amtliche Quelle prüfen.
+- Keine Rechtsprechung oder Literatur aus Modellwissen erzwingen; nur verifizierte, frei prüfbare Fundstellen verwenden.
+
+## Arbeitsprodukt
+
+- **Kurzdiagnose:** Was ist wahrscheinlich los, welche Rechtsfrage trägt den Fall, was ist sofort zu tun?
+- **Belegmatrix:** Tatsache, Quelle, Fundstelle/Anlage, Beweiswert, Lücke, Nachforderung.
+- **Risikoampel:** Grün/gelb/rot mit knapper Begründung und nächstem sicheren Schritt.
+- **Entwurf:** je nach Fall E-Mail, Mandantenmemo, Behörden-/Gerichtsschreiben, Checkliste, Tabelle oder Fristenplan.
+- **Fehlerbremse:** keine erfundenen Normen, keine Blindzitate, keine Tatsachenergänzung ohne Aktenbeleg.
+
+## Ergänzende Hinweise
+
+## Red-Team-Prüfpunkte DSA/DMA
+1. **Rollenklarheit:** Vermittlungsdienst (Art. 6 DSA), Hosting (Art. 6 DSA), Online-Plattform (Art. 19 ff. DSA) oder VLOP/VLOSE (Art. 33 ff. DSA)? Pflichtenkanon variiert erheblich.
+2. **Anwendungsbereich:** Anbieter mit Sitz in EU (Art. 2 DSA) oder Drittlandsanbieter mit EU-Nutzern (dann Art. 13 DSA Rechtsvertreter Pflicht)?
+3. **Notice-and-Action:** Wurde der Mechanismus nach Art. 16 DSA implementiert? Mit den Pflichtinformationen?
+4. **Statement of Reasons (SoR):** Art. 17 DSA — wird vollständig gegenüber Nutzer und Transparenzdatenbank erfüllt?
+5. **AGB:** Erfüllen die Nutzungsbedingungen Art. 14 DSA-Anforderungen?
+6. **DMA-Gatekeeper-Verwechslung:** Kein DMA-Argument bei einem Anbieter, der nicht als Gatekeeper benannt ist; und umgekehrt — DMA-Pflichten gelten erst nach Benennung.
+7. **Nationaler vs. EU-Rahmen:** DSA-Aufsicht national bei DSC (BNetzA für DE), DMA-Aufsicht ausschließlich EU-Kommission.
+8. **Halluzinations-Check:** Keine erfundenen Erwägungsgründe; keine Vermischung Erwägung — Norm — Leitlinie.
+
+## Praxis-Tipp
+Häufiger Fehler: DSA und DMA werden vermischt. Die Pflichtenwirkung ist eine andere — DSA gilt für alle Vermittlungsdienste mit gestuftem Pflichtenkanon, DMA nur für ausdrücklich benannte Gatekeeper. Bei Beratung stets zuerst klären: "Ist Ihr Mandant von der EU-Kommission als Gatekeeper benannt?" Wenn nein: kein DMA-Argument.
+
+---
+
+## Skill: `workflow-chronologie-und-belegmatrix`
+
+_Für Chronologie und Belegmatrix: ordnet Akte, Belege und Lücken; Ergebnis: Chronologie mit Beleg- und Widerspruchsmatrix. Fachgebiet: DSA, DMA und Digitalregulierung der EU._
+
+# Chronologie und Belegmatrix
+
+## Arbeitsauftrag
+
+Dieser Arbeitsgang macht **Chronologie und Belegmatrix** im Bereich **dsa-dma-digitalregulierung** sofort bearbeitbar: erst Akte lesen, dann Rollen, Ziel, Fristen, Belege und Entscheidungspunkte ordnen. Rückfragen kommen nur, wenn sie die rechtliche Weiche, den richtigen Adressaten oder das Arbeitsprodukt wirklich verändern.
+
+## Aktenstart ohne Leerlauf
+
+1. Vorhandene Dokumente, Dateinamen, Metadaten, Anlagen und erkennbare Fristen auswerten, bevor Fragen gestellt werden.
+2. Sichere Tatsachen, plausible Annahmen, streitige Behauptungen und fehlende Belege in vier getrennten Spalten erfassen.
+3. Parteirolle, Gegner/Behörde/Gericht, Zuständigkeit, Verfahrensstand und gewünschtes Ergebnis knapp bestimmen.
+4. Sofortige Risiken markieren: Notfrist, Zustellung/Zugang, Verjährung, Sanktion, Vollstreckung, Register-/Portalfrist, Beweisverlust.
+5. Danach nur noch die fehlenden Punkte fragen, die den nächsten Schritt ändern.
+
+## Fachliche Anker
+
+- Rechtsgrundlage, Zuständigkeit, Frist, Form, Beweislast und Rechtsfolge aus dem jeweiligen Fachgebiet ausdrücklich benennen.
+- Spezialnormen aus den angrenzenden Fachskills dieses Plugins vor Ausgabe gegen Gesetzestext oder amtliche Quelle prüfen.
+- Keine Rechtsprechung oder Literatur aus Modellwissen erzwingen; nur verifizierte, frei prüfbare Fundstellen verwenden.
+
+## Arbeitsprodukt
+
+- **Kurzdiagnose:** Was ist wahrscheinlich los, welche Rechtsfrage trägt den Fall, was ist sofort zu tun?
+- **Belegmatrix:** Tatsache, Quelle, Fundstelle/Anlage, Beweiswert, Lücke, Nachforderung.
+- **Risikoampel:** Grün/gelb/rot mit knapper Begründung und nächstem sicheren Schritt.
+- **Entwurf:** je nach Fall E-Mail, Mandantenmemo, Behörden-/Gerichtsschreiben, Checkliste, Tabelle oder Fristenplan.
+- **Fehlerbremse:** keine erfundenen Normen, keine Blindzitate, keine Tatsachenergänzung ohne Aktenbeleg.
 
 ---
 
 ## Skill: `klagewege-mandantenkommunikation-entscheidungsvorlage`
 
-_Wenn es um Klagewege: Mandantenkommunikation und Entscheidungsvorlage in DSA, DMA und Digitalregulierung der EU geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert eine Mandantennachricht oder Entscheidungsvorlage._
+_Für Klagewege: Mandantenkommunikation und Entscheidungsvorlage: erstellt Entwurf mit Antrag, Beweis und Anlagen; Ergebnis: Mandantennachricht oder Entscheidungsvorlage._
 
 # Klagewege: Mandantenkommunikation und Entscheidungsvorlage
 
@@ -1168,9 +702,147 @@ Erstwahl: oft Art. 20 DSA (internes Beschwerdeverfahren) + Art. 21 DSA (ADR) —
 
 ---
 
+## Skill: `output-waehlen`
+
+_Für Output wählen: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt. Fachgebiet: DSA, DMA und Digitalregulierung der EU._
+
+# Output wählen
+
+## Einsatzlage
+
+Diese Output-Weiche für **Dsa Dma Digitalregulierung** entscheidet, ob Memo, Antrag, Schriftsatz, Tabelle, Risikoampel, Fragenliste oder Mandantenbrief der richtige nächste Schritt ist.
+
+## Fachlandkarte dieses Plugins
+
+- `account-internationaler-bezug-und-schnittstellen` — Account Internationaler Bezug und Schnittstellen
+- `account-sperre-soziales-netzwerk-rechtsbehelfe-art-20-23-dsa` — Account Sperre Soziales Netzwerk Rechtsbehelfe ART 20 23 DSA
+- `bussgeldverteidigung` — Bussgeldverteidigung
+- `dark-patterns-internes-beschwerdesystem` — Dark Patterns Internes Beschwerdesystem
+- `data-digitalregulierung-dora` — Data Digitalregulierung Dora
+- `digitalregulierung-erstpruefung-und-mandatsziel` — Digitalregulierung Erstpruefung und Mandatsziel
+- `digitalregulierung-schnittstellen-dsgvo-p2b-19a-gwb` — Digitalregulierung Schnittstellen DSGVO P2B 19A GWB
+- `dma-anti-steering-app-store-design` — DMA Anti Steering APP Store Design
+- `dma-business-user-gatekeeper` — DMA Business User Gatekeeper
+- `dma-fristen-form-und-zustaendigkeit` — DMA Fristen Form und Zustaendigkeit
+- `dma-gatekeeper-schwellen-und-kernplattformdienste` — DMA Gatekeeper Schwellen und Kernplattformdienste
+- `dma-interoperabilitaet-messenger-art-7` — DMA Interoperabilitaet Messenger ART 7
+- `dma-pflichten-dsa-art-forschungsdatenzugang` — DMA Pflichten DSA ART Forschungsdatenzugang
+- `anschluss-routing` — Anschluss Routing
+- `dokumente-intake` — Dokumente Intake
+
+## Arbeitsweg
+
+- Ergebnistyp bestimmen: Schriftsatz an Mandant, Gegner, zuständiges Gericht oder Behörde, etwaige Sachverständige oder beauftragte Stellen, Mandantenmemo, Risikobericht, Vertragsentwurf, Entscheidungsvorlage, Behörden-Stellungnahme — was braucht der Mandant wirklich?
+- Pflichtformate festlegen: Tenor / Antrag / Begründung (Anspruchsgrundlage, Tatbestand, Subsumtion, Ergebnis); konkrete Norm-Pinpoints im Dsa Dma Digitalregulierung (Art. 13, Art. 20, Art. 34, Art. 40, DDG, § 19a GWB) einarbeiten.
+- Adressat-Klarheit: Sprache, Detailtiefe und juristische Vorbildung des Empfängers berücksichtigen; bei Mandant ohne Vorbildung Klartext-Zusammenfassung voranstellen.
+- Beweis- und Anlagenstruktur planen (chronologisch, thematisch, K- und B-Anlagen); Bezugnahmen sauber kennzeichnen.
+- Quellenfußnoten und Zitierweise sichern; offene Punkte und Annahmen explizit als solche kennzeichnen.
+
+## Qualitätsanker
+
+- Normen und Rechtsprechung nach `references/quellenhygiene.md` und `references/zitierweise.md` behandeln.
+- Wenn eine Spezialfrage sichtbar wird, den passenden Skill nennen und kurz erklären, warum genau dieser Arbeitsgang passt.
+- Bei Zeitdruck zuerst Frist, Zuständigkeit, Form und Beweislast sichern.
+
+---
+
+## Skill: `workflow-unterlagen-lueckenliste`
+
+_Für Unterlagen- und Lückenliste: ordnet Akte, Belege und Lücken; Ergebnis: Dokumentenmatrix mit Nachforderungsliste. Fachgebiet: DSA, DMA und Digitalregulierung der EU._
+
+# Unterlagen- und Lückenliste
+
+## Aufgabe
+Nutze diesen Workflow-Skill für Unterlagen- und Lückenliste: erstellt eine präzise Nachforderungsliste statt allgemeiner Fragebögen.
+
+## Kaltstart
+Wenn Material vorliegt, arbeite zuerst mit dem Material. Stelle nur Rückfragen, die für die nächste Weiche nötig sind:
+
+1. Wer fragt in welcher Rolle?
+2. Was ist das gewünschte Ergebnis?
+3. Gibt es Fristen, Termine, Zustellungen, Zahlungen oder Sanktionen?
+4. Welche Unterlagen, Daten oder Belege liegen bereits vor?
+
+## Arbeitsworkflow
+1. Rolle, Ziel, Frist und Unterlagenlage in höchstens fünf Fragen klären.
+2. Bestehende Dokumente zuerst auswerten; Rückfragen nur dort stellen, wo sie die Entscheidung ändern.
+3. Passende Spezialskills aus diesem Plugin vorschlagen und begründen.
+4. Ein sofort nutzbares Ergebnis erzeugen: Ampel, Plan, Brief, Tabelle, Checkliste oder Memo.
+
+## Output-Standard
+- Kurzbild: worum es geht, was gesichert ist, was offen ist.
+- Prüf- oder Bearbeitungsmatrix mit den entscheidenden Punkten.
+- Konkreter nächster Schritt mit Frist, Zuständigkeit und Unterlagen.
+- Bei Außenkommunikation: knapper, sachlicher Textbaustein ohne unnötige Nebenangaben.
+
+<!-- BEGIN ausformulierungspflicht (autogen) -->
+> **Ausformulierungspflicht und Formatstandard.** Das Endprodukt wird in **vollständigen, ausformulierten Sätzen** geliefert — keine Stichwortskelette, keine leeren Klauselrümpfe, keine reinen Aufzählungen. Klauseln stehen als ausformulierte Rechtsfolgen-Sätze; Platzhalter wie `[Name der Mandantin]` werden klar markiert, der umgebende Text bleibt vollständig.
+>
+> **Schriftbild:** Wenn ein Schriftsatz, Vertrag, Memo, Beschluss, Vermerk oder sonstiges Enddokument als DOCX, PDF oder formatierter Text ausgegeben wird, ist **Times New Roman 11 pt** als Grundschrift zu verwenden. Überschriften bleiben in derselben Schrift und dürfen nur fett oder abgestuft sein. Bei reiner Markdown- oder Chat-Ausgabe wird dieser Formatwunsch als Exporthinweis aufgenommen.
+>
+> **Nummerierung:** Gliederung ausschließlich dezimal (`1`, `1.1`, `1.1.1` und so weiter). Keine römischen Ziffern, keine Buchstaben- oder Mischgliederung.
+<!-- END ausformulierungspflicht (autogen) -->
+
+## Quellenregel
+- Aktuelle Normen, Behördenhinweise, Gerichtsseiten, Register, Formulare und EU-/Landesrecht live prüfen, wenn sie für das Ergebnis tragend sind.
+- Rechtsprechung nur mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle ausgeben.
+- Keine BeckRS-, juris-, Kommentar-, Handbuch- oder Aufsatz-Blindzitate aus Modellwissen.
+- Unsicherheiten und Annahmen ausdrücklich markieren.
+
+---
+
+## Skill: `account-internationaler-bezug-und-schnittstellen`
+
+_Für Account: Internationaler Bezug und Schnittstellen: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Schnittstellenkarte mit Zuständigkeits- und Nachweisfragen._
+
+# Account: Internationaler Bezug und Schnittstellen
+
+## Arbeitsweg
+
+- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
+- Fristen und Eilrisiken zuerst markieren: DSA Art. 16 Notice-and-Action unverzügliche Reaktion, Art. 24 jährlicher Transparenzbericht, Art. 34 Risikoassessment jährlich/bei Bedarf, DMA Art. 11 Compliance-Bericht 6 Monate nach Benennung.
+- Tragende Normen verifizieren: Digital Services Act (VO 2022/2065) Art. 4-15 (Haftung), 16-22 (Meldung), 24-32 (mittelgroße/VLOP), 33-43 (sehr große), 50-66 (Aufsicht), Digital Markets Act (VO 2022/1925) Art. 3 (Gatekeeper), 5-7 (Pflichten), DDG, TMG (außer Kraft), NetzDG (auslaufend) — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
+- Zuständige Stelle bestimmen und Adressaten richtig wählen: Anbieter Vermittlungsdienst / Hosting / Online-Plattform / sehr große Online-Plattform (VLOP) / Suchmaschine (VLOSE), BNetzA als DSC, EU-KOM (DMA-Vollzug), nationaler Koordinator, Beschwerdeführer.
+- Dokumente und Beweismittel sammeln und auf Lücken prüfen: AGB nach Art. 14 DSA, Transparenzbericht, Risikoassessment, Compliance-Officer-Konzept, Streitbeilegung Art. 21 DSA, DSC-Meldung, DMA-Compliance-Bericht — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
+
+## Spezialwissen: Account: Internationaler Bezug und Schnittstellen
+- **Normen-/Quellenanker:** EU, DSA, VO, DMA, DGA, AI, NIS, DORA, CRA, DDG, GWB, VLOP.
+
+## Fallweichen
+Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur Rückfragen, die die nächste Weiche verändern:
+
+1. Welche Rolle hat die fragende Person und wer ist Gegenüber?
+2. Welches konkrete Ziel soll erreicht oder verhindert werden?
+3. Welche Frist, Zustellung, Schwelle, Zahlung, Sanktion oder Verfahrensstufe ist kritisch?
+4. Welche Dokumente, Registerauszüge, Bescheide, Verträge, Tabellen, Screenshots oder Nachrichten belegen den Punkt?
+5. Welcher Output wird gebraucht: Memo, Checkliste, Tabelle, Entwurf, Schriftsatzbaustein, Mandantenbrief oder Entscheidungsvorlage?
+
+## Arbeitsworkflow
+1. **Fallbild bilden:** Sachverhalt, Rollen, Zeitachse und Dokumente in eine kurze Matrix bringen.
+2. **Rechtsrahmen setzen:** Normen, Zuständigkeiten, Fristen, Formfragen und Verfahrensstand zum Themenfeld **Account-Sperre internationaler Bezug** prüfen.
+3. **Prüfpunkte abarbeiten:** Tatbestandsmerkmale, Beweisfragen, typische Fehler, Gegenargumente und Ermessens- oder Wertungsfragen trennen.
+4. **Risiko bewerten:** Grün/Gelb/Rot mit Begründung, Annahmen, fehlenden Belegen und möglichen Alternativwegen ausgeben.
+5. **Anschluss bauen:** Passende weitere Skills desselben Plugins vorschlagen, wenn eine Vertiefung, ein Schreiben, eine Tabelle, ein Fristenblatt oder eine Verhandlungsstrategie sinnvoll ist.
+
+## Internationaler Bezug bei Account-Sperre (DSA)
+- **Räumlicher Anwendungsbereich DSA Art. 2 Abs. 1:** Anbieter von Vermittlungsdiensten mit angebotenen Diensten in der EU — unabhängig vom Sitz.
+- **Drittlandsanbieter Art. 13 DSA:** schriftlich bestellter Rechtsvertreter in EU; ohne Rechtsvertreter keine wirksame Zustellung möglich.
+- **Plattformbedingungen in mehreren Sprachen:** Art. 14 Abs. 1 DSA verlangt klare und unzweideutige Sprache, oft Übersetzungen in Landessprachen.
+- **Grenzüberschreitende Account-Sperre:** Wenn US-Plattform deutsche Nutzer sperrt: DSA gilt; nationale Beschwerde via BNetzA (DSC), Klage zum ZG in DE (§§ 12, 29 ZPO; bei Verbrauchern § 29c ZPO).
+- **Schnittstellen zu nationalem Recht:**
+ - **TKG / DDG:** für Telekommunikationsdienste teils ergänzend.
+ - **DSGVO:** Account-Datenlöschung; Auskunftsanspruch Art. 15.
+ - **UWG:** bei Mitbewerberklage über unzulässige Plattformpraktiken.
+- **US-Konflikt:** Section 230 Communications Decency Act schützt US-Plattformen vor US-Haftung — Spannung zum DSA-Notice-and-Action-Regime.
+
+## Praxis-Tipp
+Bei grenzüberschreitender Account-Sperre durch US-Plattform: zuerst nach DSA Art. 17 ein Statement of Reasons fordern (zwingend), dann Art. 20 internes Beschwerdeverfahren nutzen, parallel BNetzA-Beschwerde. Klage zum deutschen ZG ist möglich, aber häufig schwierig wegen Gerichtsstandsklauseln in AGB — diese müssen § 38 ZPO i.V.m. EuGVVO standhalten.
+
+---
+
 ## Skill: `forschungsdatenzugang-mehrparteienkonflikt`
 
-_Wenn es um Forschungsdatenzugang: Mehrparteienkonflikt und Interessenmatrix in DSA, DMA und Digitalregulierung der EU geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten._
+_Für Forschungsdatenzugang: Mehrparteienkonflikt und Interessenmatrix: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt._
 
 # Forschungsdatenzugang: Mehrparteienkonflikt und Interessenmatrix
 
@@ -1200,63 +872,6 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 3. **Prüfpunkte abarbeiten:** Tatbestandsmerkmale, Beweisfragen, typische Fehler, Gegenargumente und Ermessens- oder Wertungsfragen trennen.
 4. **Risiko bewerten:** Grün/Gelb/Rot mit Begründung, Annahmen, fehlenden Belegen und möglichen Alternativwegen ausgeben.
 5. **Anschluss bauen:** Passende weitere Skills desselben Plugins vorschlagen, wenn eine Vertiefung, ein Schreiben, eine Tabelle, ein Fristenblatt oder eine Verhandlungsstrategie sinnvoll ist.
-
----
-
-## Skill: `dora-risikoampel-und-gegenargumente`
-
-_Wenn es um Dora: Risikoampel, Gegenargumente und Verteidigungslinien in DSA, DMA und Digitalregulierung der EU geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten._
-
-# Dora: Risikoampel, Gegenargumente und Verteidigungslinien
-
-## Arbeitsweg
-
-- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
-- Fristen und Eilrisiken zuerst markieren: DSA Art. 16 Notice-and-Action unverzügliche Reaktion, Art. 24 jährlicher Transparenzbericht, Art. 34 Risikoassessment jährlich/bei Bedarf, DMA Art. 11 Compliance-Bericht 6 Monate nach Benennung.
-- Tragende Normen verifizieren: Digital Services Act (VO 2022/2065) Art. 4-15 (Haftung), 16-22 (Meldung), 24-32 (mittelgroße/VLOP), 33-43 (sehr große), 50-66 (Aufsicht), Digital Markets Act (VO 2022/1925) Art. 3 (Gatekeeper), 5-7 (Pflichten), DDG, TMG (außer Kraft), NetzDG (auslaufend) — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
-- Zuständige Stelle bestimmen und Adressaten richtig wählen: Anbieter Vermittlungsdienst / Hosting / Online-Plattform / sehr große Online-Plattform (VLOP) / Suchmaschine (VLOSE), BNetzA als DSC, EU-KOM (DMA-Vollzug), nationaler Koordinator, Beschwerdeführer.
-- Dokumente und Beweismittel sammeln und auf Lücken prüfen: AGB nach Art. 14 DSA, Transparenzbericht, Risikoassessment, Compliance-Officer-Konzept, Streitbeilegung Art. 21 DSA, DSC-Meldung, DMA-Compliance-Bericht — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
-
-## Spezialwissen: Dora: Risikoampel, Gegenargumente und Verteidigungslinien
-- **Normen-/Quellenanker:** EU, DSA, VO, DMA, DGA, AI, NIS, DORA, CRA, DDG, GWB, VLOP.
-
-## Fallweichen
-Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur Rückfragen, die die nächste Weiche verändern:
-
-1. Welche Rolle hat die fragende Person und wer ist Gegenüber?
-2. Welches konkrete Ziel soll erreicht oder verhindert werden?
-3. Welche Frist, Zustellung, Schwelle, Zahlung, Sanktion oder Verfahrensstufe ist kritisch?
-4. Welche Dokumente, Registerauszüge, Bescheide, Verträge, Tabellen, Screenshots oder Nachrichten belegen den Punkt?
-5. Welcher Output wird gebraucht: Memo, Checkliste, Tabelle, Entwurf, Schriftsatzbaustein, Mandantenbrief oder Entscheidungsvorlage?
-
-## Arbeitsworkflow
-1. **Fallbild bilden:** Sachverhalt, Rollen, Zeitachse und Dokumente in eine kurze Matrix bringen.
-2. **Rechtsrahmen setzen:** Normen, Zuständigkeiten, Fristen, Formfragen und Verfahrensstand zum Themenfeld **DORA (Digital Operational Resilience Act)** prüfen.
-3. **Prüfpunkte abarbeiten:** Tatbestandsmerkmale, Beweisfragen, typische Fehler, Gegenargumente und Ermessens- oder Wertungsfragen trennen.
-4. **Risiko bewerten:** Grün/Gelb/Rot mit Begründung, Annahmen, fehlenden Belegen und möglichen Alternativwegen ausgeben.
-5. **Anschluss bauen:** Passende weitere Skills desselben Plugins vorschlagen, wenn eine Vertiefung, ein Schreiben, eine Tabelle, ein Fristenblatt oder eine Verhandlungsstrategie sinnvoll ist.
-
-## DORA (VO (EU) 2022/2554) — Risikoampel
-- **Anwendungsbereich Art. 2 DORA:** Banken, Wertpapierfirmen, Zahlungsdienstleister, E-Geld-Institute, Krypto-Dienstleister, Versicherer, Pensionsfonds, ICT-Drittanbieter mit kritischer Bedeutung; Geltung **seit 17.01.2025**.
-- **Pflichten:**
- - Kapitel II (Art. 5-16): IKT-Risikomanagement-Rahmen.
- - Kapitel III (Art. 17-23): IKT-Vorfallmeldung.
- - Kapitel IV (Art. 24-27): Resilienztests (TLPT — Threat-Led Penetration Testing).
- - Kapitel V (Art. 28-44): IKT-Drittanbieter-Risikomanagement.
-- **Aufsicht:** BaFin in DE; bei kritischen ICT-Drittanbietern ESA (European Supervisory Authorities) — Lead Overseer.
-
-## Risikoampel
-- **Rot:** Erheblicher Vorfall nicht binnen 24 Stunden gemeldet; ICT-Drittanbieter ohne DORA-konformen Vertrag; TLPT nicht durchgeführt trotz Pflicht.
-- **Gelb:** Risikomanagement-Rahmen existiert, aber Audit-Spuren fehlen; Drittanbieter-Vertrag ohne Exit-Strategie.
-- **Grün:** Vollständiges Compliance-Programm, dokumentierte Vorfallklassifizierung, regelmäßige TLPT, RTR (Risk Treatment Register).
-
-## Gegenargumente bei Aufsichtsbeanstandung
-- "Vorfall war nicht erheblich" — DORA-Schwellenwerte präzise prüfen (CDR (Commission Delegated Regulation) 2024/1772).
-- "Drittanbieter ist nicht kritisch" — Klassifizierungsmethodik der ESA anwenden.
-- "Wir sind keine kritische Einrichtung" — § 8b BSIG / DORA Art. 2 prüfen.
-
-## Praxis-Tipp
-DORA und NIS2 überschneiden sich für Finanzunternehmen — DORA ist lex specialis (Art. 1 Abs. 2 DORA). Wer DORA-konform ist, erfüllt regelmäßig auch NIS2 in den überschneidenden Bereichen, aber nicht automatisch alle NIS2-Pflichten. Komplianztabelle empfehlen.
 
 ---
 

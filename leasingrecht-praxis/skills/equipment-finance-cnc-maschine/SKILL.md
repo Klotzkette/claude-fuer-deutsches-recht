@@ -1,6 +1,6 @@
 ---
 name: equipment-finance-cnc-maschine
-description: "Wenn es um Equipment Finance Term Sheet in Leasingrecht Praxis geht: entwickelt Verhandlungsziel, Vergleichskorridor und Eskalationspfad; liefert eine Verhandlungs- oder Eskalationslinie mit Optionen."
+description: "Für Equipment Finance Term Sheet: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Equipment Finance Term Sheet

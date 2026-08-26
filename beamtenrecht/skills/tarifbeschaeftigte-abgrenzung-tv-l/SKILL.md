@@ -1,6 +1,6 @@
 ---
 name: tarifbeschaeftigte-abgrenzung-tv-l
-description: "Wenn es um Tarifbeschaeftigte Abgrenzung Tv L in Beamtenrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Tarifbeschäftigte Abgrenzung Tv L: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Tarifbeschaeftigte Abgrenzung Tv L

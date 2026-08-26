@@ -1,6 +1,6 @@
 ---
 name: e-book-preisbindung-und-plattformrabatte
-description: "Wenn es um Verl-013 · E-Book-Preisbindung und Plattformrabatte in Verlagsrecht und Buchpreisbindung geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Verl-013 · E-Book-Preisbindung und Plattformrabatte: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Verl-013 · E-Book-Preisbindung und Plattformrabatte

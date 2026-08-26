@@ -1,6 +1,6 @@
 ---
 name: ausnahmegenehmigung-beantragen
-description: "Wenn es um Ausnahmegenehmigung Beantragen in Straßenverkehrsrecht StVO geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Ausnahmegenehmigung Beantragen: erstellt Entwurf mit Antrag, Beweis und Anlagen; Ergebnis: Schriftsatz mit Begründungs- und Anlagenlogik."
 ---
 
 # Ausnahmegenehmigung Beantragen

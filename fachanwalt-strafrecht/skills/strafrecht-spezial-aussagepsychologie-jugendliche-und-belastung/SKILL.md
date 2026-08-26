@@ -1,6 +1,6 @@
 ---
 name: strafrecht-spezial-aussagepsychologie-jugendliche-und-belastung
-description: "Wenn es um Strafrecht Spezial Aussagepsychologie Jugendliche Und Belastung in Fachanwalt Strafrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Strafrecht Spezial Aussagepsychologie Jugendliche und Belastung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Jugendliche Zeugen (Alter 14 bis 18 sowie Heranwachsende): Entwicklungsstand, Identitaetsbildung, Stress unter Vernehmung, Loyalitaetskonflikte, Peer-Einfluss

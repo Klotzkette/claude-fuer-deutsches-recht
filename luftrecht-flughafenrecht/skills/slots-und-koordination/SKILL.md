@@ -1,6 +1,6 @@
 ---
 name: slots-und-koordination
-description: "Wenn es um Slots und Koordination – Slotzuweisung, Verlust und Rechtsschutz in Luftrecht und Flughafenrecht geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
+description: "Für Slots und Koordination – Slotzuweisung, Verlust und Rechtsschutz: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Slots und Koordination – Slotzuweisung, Verlust und Rechtsschutz

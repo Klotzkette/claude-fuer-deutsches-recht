@@ -1,6 +1,6 @@
 ---
 name: ki-generierte-inhalte-im-verlag
-description: "Wenn es um Verl-019 · digitale Werkzeuge-generierte Inhalte im Verlag in Verlagsrecht und Buchpreisbindung geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Verl-019 · digitale Werkzeuge-generierte Inhalte im Verlag: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Verl-019 · KI-generierte Inhalte im Verlag

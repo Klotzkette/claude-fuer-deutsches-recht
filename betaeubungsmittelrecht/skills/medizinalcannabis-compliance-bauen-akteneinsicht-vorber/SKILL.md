@@ -1,6 +1,6 @@
 ---
 name: medizinalcannabis-compliance-bauen-akteneinsicht-vorber
-description: "Wenn es um Medizinalcannabis Compliance Bauen in Betäubungsmittelrecht geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen."
+description: "Für Medizinalcannabis Compliance Bauen: ordnet Akte, Belege und Lücken; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Medizinalcannabis Compliance Bauen

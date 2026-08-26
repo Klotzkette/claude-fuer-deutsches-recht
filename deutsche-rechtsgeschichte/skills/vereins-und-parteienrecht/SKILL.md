@@ -1,6 +1,6 @@
 ---
 name: vereins-und-parteienrecht
-description: "Wenn es um Vereins- und Parteienrecht in Deutsche Rechtsgeschichte geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Vereins- und Parteienrecht: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Vereins- und Parteienrecht

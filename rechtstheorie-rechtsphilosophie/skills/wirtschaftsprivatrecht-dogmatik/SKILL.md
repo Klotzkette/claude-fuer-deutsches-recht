@@ -1,6 +1,6 @@
 ---
 name: wirtschaftsprivatrecht-dogmatik
-description: "Wenn es um Wirtschaftsprivatrecht und Dogmatik in Rechtstheorie und Rechtsphilosophie geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
+description: "Für Wirtschaftsprivatrecht und Dogmatik: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Wirtschaftsprivatrecht und Dogmatik

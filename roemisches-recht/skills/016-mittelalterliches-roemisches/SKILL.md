@@ -1,6 +1,6 @@
 ---
 name: 016-mittelalterliches-roemisches
-description: "Wenn es um Römisches Recht: Mittelalterliches römisches Recht Glossatoren Bologna in Römisches Recht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Römisches Recht: Mittelalterliches römisches Recht Glossatoren Bologna: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Römisches Recht: Mittelalterliches römisches Recht Glossatoren Bologna

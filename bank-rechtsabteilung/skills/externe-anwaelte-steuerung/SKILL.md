@@ -1,6 +1,6 @@
 ---
 name: externe-anwaelte-steuerung
-description: "Wenn es um Externe Anwälte steuern in Bank-Rechtsabteilung geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
+description: "Für Externe Anwälte steuern: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Schnittstellenkarte mit Zuständigkeits- und Nachweisfragen."
 ---
 
 # Externe Anwälte steuern

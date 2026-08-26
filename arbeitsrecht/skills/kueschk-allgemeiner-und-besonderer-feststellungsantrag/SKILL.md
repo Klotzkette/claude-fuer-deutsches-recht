@@ -1,6 +1,6 @@
 ---
 name: kueschk-allgemeiner-und-besonderer-feststellungsantrag
-description: "Wenn es um Kueschk Allgemeiner Und Besonderer Feststellungsantrag in Arbeitsrecht geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
+description: "Für Kueschk Allgemeiner und Besonderer Feststellungsantrag: erstellt Entwurf mit Antrag, Beweis und Anlagen; Ergebnis: Schriftsatz mit Begründungs- und Anlagenlogik."
 ---
 
 # Erklärung des Unterschieds zwischen dem punktuellen Feststellungsantrag nach Paragraf 4 Satz 1 KSchG und dem allgemeinen Feststellungsantrag nach Paragraf 256 ZPO als Schleppnetz-Antrag

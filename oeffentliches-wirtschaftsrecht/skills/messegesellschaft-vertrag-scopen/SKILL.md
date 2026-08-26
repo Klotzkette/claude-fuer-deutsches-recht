@@ -1,6 +1,6 @@
 ---
 name: messegesellschaft-vertrag-scopen
-description: "Wenn es um Messegesellschaft Vertrag Scopen in Öffentliches Wirtschaftsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Messegesellschaft Vertrag Scopen: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Messegesellschaft Vertrag Scopen

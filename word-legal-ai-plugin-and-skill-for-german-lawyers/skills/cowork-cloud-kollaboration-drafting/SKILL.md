@@ -1,6 +1,6 @@
 ---
 name: cowork-cloud-kollaboration-drafting
-description: "Wenn es um Cowork und Cloud-Kollaboration im Drafting in diesem Spezialbereich geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen."
+description: "Für Cowork und Cloud-Kollaboration im Drafting: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Cowork und Cloud-Kollaboration im Drafting

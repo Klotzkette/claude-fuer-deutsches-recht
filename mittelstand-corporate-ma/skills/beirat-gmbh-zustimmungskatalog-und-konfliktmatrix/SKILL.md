@@ -1,6 +1,6 @@
 ---
 name: beirat-gmbh-zustimmungskatalog-und-konfliktmatrix
-description: "Wenn es um GmbH-Beirat: Zustimmungskatalog, Konfliktmatrix und Satzungslogik in Mittelstands-Corporate/M&A geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
+description: "Für GmbH-Beirat: Zustimmungskatalog, Konfliktmatrix und Satzungslogik: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt. Fachgebiet: Mittelstands-Corporate/M&A."
 ---
 
 # GmbH-Beirat: Zustimmungskatalog, Konfliktmatrix und Satzungslogik

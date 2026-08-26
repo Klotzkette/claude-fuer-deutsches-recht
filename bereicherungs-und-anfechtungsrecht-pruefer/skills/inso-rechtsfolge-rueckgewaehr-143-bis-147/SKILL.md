@@ -1,6 +1,6 @@
 ---
 name: inso-rechtsfolge-rueckgewaehr-143-bis-147
-description: "Wenn es um Rechtsfolge Insolvenzanfechtung — Paragrafen 143 bis 147 InsO in bereicherungs-und-anfechtungsrecht-prüfer geht: rechnet Schwellen, Beträge, Varianten und Kontrollannahmen durch; liefert eine Berechnungstabelle mit Schwellen, Annahmen und Kontrollfragen."
+description: "Für Rechtsfolge Insolvenzanfechtung — Paragrafen 143 bis 147 InsO: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Rechtsfolge Insolvenzanfechtung — §§ 143 bis 147 InsO

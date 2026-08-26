@@ -1,6 +1,6 @@
 ---
 name: verhandlungs-playbook-agb
-description: "Wenn es um Verhandlungs Playbook AGB in AGB-Recht-Prüfer geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Dokumentenmatrix mit Nachforderungsliste."
+description: "Für Verhandlungs Playbook AGB: entwickelt Ziel, Vergleich und Eskalation; Ergebnis: Verhandlungs- oder Eskalationslinie."
 ---
 
 # Verhandlungs Playbook AGB

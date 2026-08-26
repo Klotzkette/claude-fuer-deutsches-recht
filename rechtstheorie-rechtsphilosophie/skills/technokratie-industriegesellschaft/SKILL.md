@@ -1,6 +1,6 @@
 ---
 name: technokratie-industriegesellschaft
-description: "Wenn es um Technokratie, Industriegesellschaft und Grundrechte in Rechtstheorie und Rechtsphilosophie geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Gegenprüfung mit Fehler-, Beweis- und Fristencheck."
+description: "Für Technokratie, Industriegesellschaft und Grundrechte: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Technokratie, Industriegesellschaft und Grundrechte

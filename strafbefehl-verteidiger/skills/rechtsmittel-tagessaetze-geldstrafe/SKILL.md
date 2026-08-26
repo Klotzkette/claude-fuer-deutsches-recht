@@ -1,6 +1,6 @@
 ---
 name: rechtsmittel-tagessaetze-geldstrafe
-description: "Wenn es um Rechtsmittel nach Urteil im Strafbefehlsverfahren in Strafbefehl-Verteidiger geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Rechtsmittel nach Urteil im Strafbefehlsverfahren: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Rechtsmittel nach Urteil im Strafbefehlsverfahren

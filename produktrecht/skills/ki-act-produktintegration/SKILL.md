@@ -1,6 +1,6 @@
 ---
 name: ki-act-produktintegration
-description: "Wenn es um europäischer Technikregulierungsrahmen: Produktintegration in Produkthaftung und Produktrecht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen."
+description: "Für europäischer Technikregulierungsrahmen: Produktintegration: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # KI-VO: Produktintegration

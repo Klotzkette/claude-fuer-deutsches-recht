@@ -1,6 +1,6 @@
 ---
 name: datenschutz-datenpanne-art-33-34-72h-incident
-description: "Wenn es um Datenschutz Datenpanne — 72 Stunden Incident Response nach Art. 33 und 34 DSGVO in Datenschutzrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Datenschutz Datenpanne — 72 Stunden Incident Response nach Art. 33 und 34 DSGVO: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Datenschutz Datenpanne — 72 Stunden Incident Response nach Art. 33 und 34 DSGVO

@@ -1,6 +1,6 @@
 ---
 name: bebauungsplan-akteneinsicht-erzwingen
-description: "Wenn es um Bebauungsplan Akteneinsicht Erzwingen in Umweltschutzverband Verbandsklage geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
+description: "Für Bebauungsplan Akteneinsicht Erzwingen: ordnet Akte, Belege und Lücken; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Bebauungsplan Akteneinsicht Erzwingen

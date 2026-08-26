@@ -1,6 +1,6 @@
 ---
 name: milderung-durch-remediation-nach-dem-vorfall
-description: "Wenn es um Milderung durch Remediation nach dem Vorfall in Datenschutz-Sanktionsverfahren und Verteidigung geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
+description: "Für Milderung durch Remediation nach dem Vorfall: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Milderung durch Remediation nach dem Vorfall

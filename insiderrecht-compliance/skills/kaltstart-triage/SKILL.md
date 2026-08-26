@@ -1,6 +1,6 @@
 ---
 name: kaltstart-triage
-description: "Wenn es um Kaltstart Insiderrecht in Insiderrecht Compliance geht: klärt Rolle, Ziel, Frist, Unterlagen und den passenden nächsten Fachskill; liefert eine Tatbestands- oder Anspruchsmatrix mit Gegenargumenten."
+description: "Für Kaltstart Insiderrecht: routet Rolle, Frist, Unterlagen und Fachschritt; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Kaltstart Insiderrecht

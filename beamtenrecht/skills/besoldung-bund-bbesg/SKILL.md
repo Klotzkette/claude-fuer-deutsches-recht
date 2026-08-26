@@ -1,6 +1,6 @@
 ---
 name: besoldung-bund-bbesg
-description: "Wenn es um Besoldung Bund Bbesg in Beamtenrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Besoldung Bund Bbesg: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Besoldung Bund Bbesg

@@ -1,6 +1,6 @@
 ---
 name: schulgesetz-berlin
-description: "Wenn es um Schulgesetz Berlin in Schulrecht der Bundesländer geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Schulgesetz Berlin: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Schulgesetz Berlin

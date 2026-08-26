@@ -1,6 +1,6 @@
 ---
 name: finanzgerichtsbarkeit-geschichte
-description: "Wenn es um Finanzgerichtsbarkeit Geschichte in Deutsche Rechtsgeschichte geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Finanzgerichtsbarkeit Geschichte: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Finanzgerichtsbarkeit Geschichte

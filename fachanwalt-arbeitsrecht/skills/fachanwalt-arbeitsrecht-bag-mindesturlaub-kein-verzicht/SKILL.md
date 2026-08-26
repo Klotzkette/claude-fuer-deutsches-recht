@@ -1,6 +1,6 @@
 ---
 name: fachanwalt-arbeitsrecht-bag-mindesturlaub-kein-verzicht
-description: "Wenn es um Rechtsprechung live prüfen in Fachanwalt Arbeitsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. Auswahlstichwort: Fachanwalt Arbeitsrecht Bag Mindesturlaub Kein Verzicht; Arbeitsfeld: Fachanwalt Arbeitsrecht."
+description: "Für Rechtsprechung live prüfen: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt. Fachgebiet: Fachanwalt Arbeitsrecht. Route: fachanwalt-arbeitsrecht-bag-mindesturlaub-kein-verzicht."
 ---
 
 # Rechtsprechung live prüfen

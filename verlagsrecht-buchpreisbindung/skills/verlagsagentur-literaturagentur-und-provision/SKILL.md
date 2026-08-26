@@ -1,6 +1,6 @@
 ---
 name: verlagsagentur-literaturagentur-und-provision
-description: "Wenn es um Verl-027 · Verlagsagentur, Literaturagentur und Provision in Verlagsrecht und Buchpreisbindung geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Verl-027 · Verlagsagentur, Literaturagentur und Provision: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Verl-027 · Verlagsagentur, Literaturagentur und Provision

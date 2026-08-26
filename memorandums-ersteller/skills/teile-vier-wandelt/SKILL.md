@@ -1,6 +1,6 @@
 ---
 name: teile-vier-wandelt
-description: "Wenn es um Teile: Behörden-, Gerichts- oder Registerweg in Memorandums-Ersteller geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
+description: "Für Teile: Behörden-, Gerichts- oder Registerweg: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Teile: Behörden-, Gerichts- oder Registerweg

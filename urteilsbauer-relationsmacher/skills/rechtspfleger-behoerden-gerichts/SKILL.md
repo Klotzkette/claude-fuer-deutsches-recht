@@ -1,6 +1,6 @@
 ---
 name: rechtspfleger-behoerden-gerichts
-description: "Wenn es um Rechtspfleger: Behörden-, Gerichts- oder Registerweg in Urteilsbauer und Relationsmacher geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. Auswahlstichwort: Rechtspfleger Behoerden Gerichts; Arbeitsfeld: Urteilsbauer und Relationsmacher."
+description: "Für Rechtspfleger: Behörden-, Gerichts- oder Registerweg: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Rechtspfleger: Behörden-, Gerichts- oder Registerweg

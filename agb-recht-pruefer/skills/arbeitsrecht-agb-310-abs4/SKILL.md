@@ -1,6 +1,6 @@
 ---
 name: arbeitsrecht-agb-310-abs4
-description: "Wenn es um Arbeitsrecht AGB 310 Abs. 4 in AGB-Recht-Prüfer geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
+description: "Für Arbeitsrecht AGB 310 Abs. 4: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Arbeitsrecht AGB 310 Abs. 4

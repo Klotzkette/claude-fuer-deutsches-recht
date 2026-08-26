@@ -1,6 +1,6 @@
 ---
 name: china-toy-and-consumer-ip-strategy-before
-description: "Wenn es um Spielzeug und Konsumgüter China: CE/REACH/Produktsicherheit in China-Wirtschaftsverkehr geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Spielzeug und Konsumgüter China: CE/REACH/Produktsicherheit: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Spielzeug und Konsumgüter China: CE/REACH/Produktsicherheit

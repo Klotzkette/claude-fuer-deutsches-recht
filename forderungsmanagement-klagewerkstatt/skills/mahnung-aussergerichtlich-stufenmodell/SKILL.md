@@ -1,6 +1,6 @@
 ---
 name: mahnung-aussergerichtlich-stufenmodell
-description: "Wenn es um Mahnung aussergerichtlich – Stufenmodell in Forderungsmanagement — Klagewerkstatt geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
+description: "Für Mahnung aussergerichtlich – Stufenmodell: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Mahnung aussergerichtlich – Stufenmodell

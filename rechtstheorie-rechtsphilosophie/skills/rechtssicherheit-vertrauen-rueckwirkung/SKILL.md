@@ -1,6 +1,6 @@
 ---
 name: rechtssicherheit-vertrauen-rueckwirkung
-description: "Wenn es um Rechtssicherheit und Rückwirkung in Rechtstheorie und Rechtsphilosophie geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Rechtssicherheit und Rückwirkung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Rechtssicherheit und Rückwirkung

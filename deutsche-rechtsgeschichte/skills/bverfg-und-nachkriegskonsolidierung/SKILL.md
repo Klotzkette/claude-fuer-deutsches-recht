@@ -1,6 +1,6 @@
 ---
 name: bverfg-und-nachkriegskonsolidierung
-description: "Wenn es um BVerfG und Nachkriegskonsolidierung in Deutsche Rechtsgeschichte geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für BVerfG und Nachkriegskonsolidierung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # BVerfG und Nachkriegskonsolidierung

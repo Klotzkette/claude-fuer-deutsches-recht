@@ -1,6 +1,6 @@
 ---
 name: alumni-stiftung-spenden-compliance
-description: "Wenn es um Alumni, Stiftung und Spenden-Compliance in Hochschulrecht der Bundesländer geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Alumni, Stiftung und Spenden-Compliance: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Alumni, Stiftung und Spenden-Compliance

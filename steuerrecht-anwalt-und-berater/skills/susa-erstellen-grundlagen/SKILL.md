@@ -1,6 +1,6 @@
 ---
 name: susa-erstellen-grundlagen
-description: "Wenn es um Summen- und Saldenliste — Erstellung und Grundlagen in Steuerrecht – Steuerberater und Anwälte geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Summen- und Saldenliste — Erstellung und Grundlagen: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Summen- und Saldenliste — Erstellung und Grundlagen

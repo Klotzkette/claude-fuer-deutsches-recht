@@ -1,6 +1,6 @@
 ---
 name: rechtsprechungsradar-nachtragsverteilung-schufa-neustart
-description: "Wenn es um Rechtsprechungsradar: Nachtragsverteilung, SCHUFA und Neustart in Verbraucherinsolvenz und Schuldenbereinigung geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen."
+description: "Für Rechtsprechungsradar: Nachtragsverteilung, SCHUFA und Neustart: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Schnittstellenkarte mit Zuständigkeits- und Nachweisfragen."
 ---
 
 # Rechtsprechungsradar: Nachtragsverteilung, SCHUFA und Neustart

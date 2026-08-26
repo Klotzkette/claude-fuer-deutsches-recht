@@ -1,6 +1,6 @@
 ---
 name: beirat-abgrenzung-aufsichtsrat
-description: "Wenn es um Beirat Abgrenzung Aufsichtsrat in Gesellschaftsrecht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
+description: "Für Beirat Abgrenzung Aufsichtsrat: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt. Fachgebiet: Gesellschaftsrecht."
 ---
 
 # Beirat Abgrenzung Aufsichtsrat

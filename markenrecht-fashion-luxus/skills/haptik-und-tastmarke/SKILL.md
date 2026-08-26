@@ -1,6 +1,6 @@
 ---
 name: haptik-und-tastmarke
-description: "Wenn es um Tastmarken und Haptik-Marken in markenrecht-fashion-luxus geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
+description: "Für Tastmarken und Haptik-Marken: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Tastmarken und Haptik-Marken

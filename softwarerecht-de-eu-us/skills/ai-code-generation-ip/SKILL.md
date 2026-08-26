@@ -1,6 +1,6 @@
 ---
 name: ai-code-generation-ip
-description: "Wenn es um digitale Werkzeuge Code Generation IP in Softwarerecht Deutschland/EU/International/USA geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für digitale Werkzeuge Code Generation IP: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # AI Code Generation IP

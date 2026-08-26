@@ -1,6 +1,6 @@
 ---
 name: weg-fahrraddiebstahl-sicherheit
-description: "Wenn es um Fahrraddiebstahl/Sicherheit: Fachmodul im Miet- und Wohnungseigentumsrecht in Fachanwalt Miet- und Wohnungseigentumsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Fahrraddiebstahl/Sicherheit: Fachmodul im Miet- und Wohnungseigentumsrecht: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Fahrraddiebstahl/Sicherheit: Fachmodul im Miet- und Wohnungseigentumsrecht
@@ -44,3 +44,7 @@ description: "Wenn es um Fahrraddiebstahl/Sicherheit: Fachmodul im Miet- und Woh
 - Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei prüfbarer Quelle ausgeben.
 - Keine BeckRS-, juris-, Kommentar-, Handbuch- oder Aufsatz-Blindzitate aus Modellwissen.
 - Annahmen, fehlende Unterlagen, Beweisrisiken und Fristen ausdrücklich markieren.
+
+## Vertiefung bei Bedarf
+
+- Bei `spezial-weg-fahrraddiebstahl-sicherheit` beziehungsweise Fahrraddiebstahl/Sicherheit: [die zusätzliche Vertiefung laden](./references/vertiefung-spezial-weg-fahrraddiebstahl-sicherheit.md).

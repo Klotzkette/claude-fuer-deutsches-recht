@@ -1,6 +1,6 @@
 ---
 name: festsetzungskatalog-9-baugb-baunvo
-description: "Wenn es um Festsetzungskatalog nach BauGB Paragraf 9 und BauNVO in Normenkontrolle Bauleitplanung — Paragraf 47 VwGO geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
+description: "Für Festsetzungskatalog nach BauGB Paragraf 9 und BauNVO: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Festsetzungskatalog nach BauGB Paragraf 9 und BauNVO

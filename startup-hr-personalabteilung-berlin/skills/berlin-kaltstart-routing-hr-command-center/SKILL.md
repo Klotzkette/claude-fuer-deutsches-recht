@@ -1,6 +1,6 @@
 ---
 name: berlin-kaltstart-routing-hr-command-center
-description: "Wenn es um Allgemein Kaltstart HR Command Center in Start-up-HR-Personalabteilung Berlin geht: klärt Rolle, Ziel, Frist, Unterlagen und den passenden nächsten Fachskill; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Allgemein Kaltstart HR Command Center: routet Rolle, Frist, Unterlagen und Fachschritt; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Allgemein Kaltstart HR Command Center

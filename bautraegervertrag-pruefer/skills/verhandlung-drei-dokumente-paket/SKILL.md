@@ -1,6 +1,6 @@
 ---
 name: verhandlung-drei-dokumente-paket
-description: "Wenn es um Verhandlung und Drei-Dokumente-Paket in Bauträgervertrag-Prüfer geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Verhandlungs- oder Eskalationslinie mit Optionen."
+description: "Für Verhandlung und Drei-Dokumente-Paket: ordnet Akte, Belege und Lücken; Ergebnis: Verhandlungs- oder Eskalationslinie."
 ---
 
 # Verhandlung und Drei-Dokumente-Paket

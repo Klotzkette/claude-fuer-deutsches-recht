@@ -1,6 +1,6 @@
 ---
 name: marketplace-agb-mediation-escalation
-description: "Wenn es um Marketplace AGB in AGB-Recht-Prüfer geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen. Auswahlstichwort: Marketplace Agb Mediation Escalation; Arbeitsfeld: AGB-Recht-Prüfer."
+description: "Für Marketplace AGB: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt. Fachgebiet: AGB-Recht-Prüfer. Route: marketplace-agb-mediation-escalation."
 ---
 
 # Marketplace AGB

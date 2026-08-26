@@ -1,6 +1,6 @@
 ---
 name: rechtsabteilung-produkthaftungsrichtlinie-ce
-description: "Wenn es um Rechtsabteilung: Neue Produkthaftungsrichtlinie und Softwareprodukt in Produkthaftung und Produktrecht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Beweislast- und Substantiierungsmatrix."
+description: "Für Rechtsabteilung: Neue Produkthaftungsrichtlinie und Softwareprodukt: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Rechtsabteilung: Neue Produkthaftungsrichtlinie und Softwareprodukt

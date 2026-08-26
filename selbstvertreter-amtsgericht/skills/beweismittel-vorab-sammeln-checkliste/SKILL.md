@@ -1,6 +1,6 @@
 ---
 name: beweismittel-vorab-sammeln-checkliste
-description: "Wenn es um Sammeln Sie Beweise — bevor Sie klagen in selbstvertreter-amtsgericht geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
+description: "Für Sammeln Sie Beweise — bevor Sie klagen: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Beweislast- und Substantiierungsmatrix."
 ---
 
 # Sammeln Sie Beweise — bevor Sie klagen

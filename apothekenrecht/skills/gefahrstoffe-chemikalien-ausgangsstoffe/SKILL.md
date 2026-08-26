@@ -1,6 +1,6 @@
 ---
 name: gefahrstoffe-chemikalien-ausgangsstoffe
-description: "Wenn es um Gefahrstoffe Chemikalien Ausgangsstoffe in Apothekenrecht geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
+description: "Für Gefahrstoffe Chemikalien Ausgangsstoffe: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Gefahrstoffe Chemikalien Ausgangsstoffe

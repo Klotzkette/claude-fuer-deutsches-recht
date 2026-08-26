@@ -1,6 +1,6 @@
 ---
 name: personalakten-struktur-und-zugriff
-description: "Wenn es um Personalakten Struktur Und Zugriff in Start-up-HR-Personalabteilung Berlin geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
+description: "Für Personalakten Struktur und Zugriff: ordnet Akte, Belege und Lücken; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Personalakten Struktur Und Zugriff

@@ -1,6 +1,6 @@
 ---
 name: dsfa-template-deutsch-vollvorlage
-description: "Wenn es um DSFA-Vollvorlage Deutsch in Datenschutzrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für DSFA-Vollvorlage Deutsch: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Schnittstellenkarte mit Zuständigkeits- und Nachweisfragen."
 ---
 
 # DSFA-Vollvorlage Deutsch

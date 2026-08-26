@@ -1,6 +1,6 @@
 ---
 name: engagement-motivation-formeln
-description: "Formuliert Initiative, Einsatzbereitschaft und Motivation aus konkreten Verhaltensbelegen und stimmt Häufigkeit, Intensität und Gesamtnote aufeinander ab. Erkennt bloße Bereitschafts-, Bemühens- und Mitläuferformulierungen und ersetzt sie sachgerecht."
+description: "Formuliert Initiative, Einsatzbereitschaft und Motivation aus konkreten Verhaltensbelegen und stimmt Häufigkeit, Intensität und Gesamtnote aufeinander ab."
 ---
 
 # Engagement- und Motivations-Formeln

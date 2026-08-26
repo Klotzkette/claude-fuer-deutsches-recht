@@ -1,6 +1,6 @@
 ---
 name: dokumenten-erzeugung-pdf-laien-amtsgericht
-description: "Wenn es um PDF-Erzeugung für Ihre Klage — von Word bis Scanner-App in selbstvertreter-amtsgericht geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
+description: "Für PDF-Erzeugung für Ihre Klage — von Word bis Scanner-App: ordnet Akte, Belege und Lücken; Ergebnis: Schnittstellenkarte mit Zuständigkeits- und Nachweisfragen."
 ---
 
 # PDF-Erzeugung für Ihre Klage — von Word bis Scanner-App

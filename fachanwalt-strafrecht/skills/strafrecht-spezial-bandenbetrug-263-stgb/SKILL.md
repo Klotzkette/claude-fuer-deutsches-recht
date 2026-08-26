@@ -1,6 +1,6 @@
 ---
 name: strafrecht-spezial-bandenbetrug-263-stgb
-description: "Wenn es um Bandenbetrug Paragraf 263 Abs in Fachanwalt Strafrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Bandenbetrug Paragraf 263 Abs: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Bandenbetrug § 263 Abs

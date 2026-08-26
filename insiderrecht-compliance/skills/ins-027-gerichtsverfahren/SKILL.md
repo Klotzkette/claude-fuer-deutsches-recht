@@ -1,6 +1,6 @@
 ---
 name: ins-027-gerichtsverfahren
-description: "Wenn es um Insiderrecht: Gerichtsverfahren in Insiderrecht Compliance geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Beweislast- und Substantiierungsmatrix."
+description: "Für Insiderrecht: Gerichtsverfahren: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Insiderrecht: Gerichtsverfahren

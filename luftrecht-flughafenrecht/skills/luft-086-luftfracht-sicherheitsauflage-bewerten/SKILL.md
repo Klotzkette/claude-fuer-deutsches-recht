@@ -1,6 +1,6 @@
 ---
 name: luft-086-luftfracht-sicherheitsauflage-bewerten
-description: "Wenn es um Luftfracht Sicherheitsauflage Bewerten in Luftrecht und Flughafenrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Luftfracht Sicherheitsauflage Bewerten: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Luftfracht Sicherheitsauflage Bewerten

@@ -1,6 +1,6 @@
 ---
 name: spruchverfahren-schnittstelle
-description: "Wenn es um Spruchverfahren Schnittstelle in Hauptversammlung AG und SE geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Spruchverfahren Schnittstelle: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Spruchverfahren Schnittstelle

@@ -1,6 +1,6 @@
 ---
 name: anerkennung-voraussetzungen
-description: "Wenn es um Anerkennung Paragraf 5 KDVG in Kriegsdienstverweigerung und Wehrdienst geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Anerkennung Paragraf 5 KDVG: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Anerkennung § 5 KDVG

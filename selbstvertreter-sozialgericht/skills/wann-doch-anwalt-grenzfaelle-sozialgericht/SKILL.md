@@ -1,6 +1,6 @@
 ---
 name: wann-doch-anwalt-grenzfaelle-sozialgericht
-description: "Wenn es um Wann sollten Sie doch einen Anwalt einschalten? in selbstvertreter-sozialgericht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
+description: "Für Wann sollten Sie doch einen Anwalt einschalten?: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Wann sollten Sie doch einen Anwalt einschalten?

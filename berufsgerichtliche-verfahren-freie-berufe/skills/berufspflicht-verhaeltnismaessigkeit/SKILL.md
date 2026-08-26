@@ -1,6 +1,6 @@
 ---
 name: berufspflicht-verhaeltnismaessigkeit
-description: "Wenn es um Berufspflicht und Verhältnismäßigkeit: Präventions- und Organisationspaket in Berufsgerichtliche Verfahren Freie Berufe geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen."
+description: "Für Berufspflicht und Verhältnismäßigkeit: Präventions- und Organisationspaket: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Berufspflicht und Verhältnismäßigkeit: Präventions- und Organisationspaket

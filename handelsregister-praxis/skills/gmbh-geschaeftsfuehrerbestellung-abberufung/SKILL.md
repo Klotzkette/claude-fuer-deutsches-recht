@@ -1,6 +1,6 @@
 ---
 name: gmbh-geschaeftsfuehrerbestellung-abberufung
-description: "Wenn es um Geschäftsführerwechsel in Handelsregister Praxis geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Geschäftsführerwechsel: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Geschäftsführerwechsel

@@ -1,6 +1,6 @@
 ---
 name: freundlicher-copilot
-description: "Wenn es um Freundlicher Deal-Copilot in Mittelstands-Corporate/M&A geht: entwickelt Verhandlungsziel, Vergleichskorridor und Eskalationspfad; liefert eine Verhandlungs- oder Eskalationslinie mit Optionen."
+description: "Für Freundlicher Deal-Copilot: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Schnittstellenkarte mit Zuständigkeits- und Nachweisfragen. Fachgebiet: Mittelstands-Corporate/M&A."
 ---
 
 # Freundlicher Deal-Copilot

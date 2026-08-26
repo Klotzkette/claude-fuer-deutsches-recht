@@ -1,6 +1,6 @@
 ---
 name: zivil-schreiben-tenor-bauen-urb-mehrere
-description: "Wenn es um Tatbestand schreiben in Urteilsbauer und Relationsmacher geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. Auswahlstichwort: Zivil Schreiben Tenor Bauen Urb Mehrere; Arbeitsfeld: Urteilsbauer und Relationsmacher."
+description: "Für Tatbestand schreiben: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Tatbestand schreiben

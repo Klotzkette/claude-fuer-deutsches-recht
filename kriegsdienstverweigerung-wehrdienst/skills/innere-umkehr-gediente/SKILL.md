@@ -1,6 +1,6 @@
 ---
 name: innere-umkehr-gediente
-description: "Wenn es um Innere Umkehr bei Gedienten in Kriegsdienstverweigerung und Wehrdienst geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Innere Umkehr bei Gedienten: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Innere Umkehr bei Gedienten

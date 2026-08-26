@@ -1,6 +1,6 @@
 ---
 name: mahnbescheid-online-mb
-description: "Wenn es um Mahnbescheid (Online-MB) in Forderungsmanagement — Klagewerkstatt geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
+description: "Für Mahnbescheid (Online-MB): ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Mahnbescheid (Online-MB)

@@ -1,6 +1,6 @@
 ---
 name: bav-cta-treuhand-spezial
-description: "Wenn es um bAV: CTA Treuhand in BAV Strategie Konzern — Treuenfels Yamamoto Rechtsanwälte geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen."
+description: "Für bAV: CTA Treuhand: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Schnittstellenkarte mit Zuständigkeits- und Nachweisfragen."
 ---
 
 # bAV: CTA Treuhand

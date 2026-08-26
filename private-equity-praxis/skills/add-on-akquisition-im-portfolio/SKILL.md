@@ -1,6 +1,6 @@
 ---
 name: add-on-akquisition-im-portfolio
-description: "Wenn es um Add-on-Akquisition im Portfolio in Private Equity Praxis geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Add-on-Akquisition im Portfolio: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Add-on-Akquisition im Portfolio

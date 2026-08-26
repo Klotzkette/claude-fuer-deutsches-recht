@@ -1,6 +1,6 @@
 ---
 name: zugang-neu-004-persoenliche-uebergabe-empfangsverweigerung-und-z
-description: "Wenn es um Zugang Neu 004 Persoenliche Uebergabe Empfangsverweigerung Und Z in Arbeitsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Zugang Neu 004 Persönliche Übergabe Empfangsverweigerung und Z: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Schnittstellenkarte mit Zuständigkeits- und Nachweisfragen."
 ---
 
 # Arbeitsrecht: Persönliche Übergabe Empfangsverweigerung und Zeugen mit konkreter Fachprüfung, Quellenhygiene, Fehlerbremse und verwertbarem Arbeitsergebnis.

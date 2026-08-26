@@ -1,6 +1,6 @@
 ---
 name: interview-fristennotiz-aufsichtssanktion
-description: "Wenn es um Interview: Fristennotiz und nächster Schritt in Regulatorisches Recht – Plugin für deutsches geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Interview: Fristennotiz und nächster Schritt: prüft Frist, Form, Zuständigkeit und Eilbedarf; Ergebnis: Fristen- und Risikoampel."
 ---
 
 # Interview: Fristennotiz und nächster Schritt

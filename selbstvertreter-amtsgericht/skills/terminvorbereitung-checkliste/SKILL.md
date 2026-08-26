@@ -1,6 +1,6 @@
 ---
 name: terminvorbereitung-checkliste
-description: "Wenn es um Termin im Amtsgericht: So bereiten Sie sich vor in selbstvertreter-amtsgericht geht: entwickelt Verhandlungsziel, Vergleichskorridor und Eskalationspfad; liefert eine Verhandlungs- oder Eskalationslinie mit Optionen."
+description: "Für Termin im Amtsgericht: So bereiten Sie sich vor: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Termin im Amtsgericht: So bereiten Sie sich vor

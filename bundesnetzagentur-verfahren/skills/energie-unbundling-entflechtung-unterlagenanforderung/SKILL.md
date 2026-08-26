@@ -1,6 +1,6 @@
 ---
 name: energie-unbundling-entflechtung-unterlagenanforderung
-description: "Wenn es um Energie-Regulierungsakte: Unbundling Entflechtung — Unterlagenanforderung in Bundesnetzagentur-Verfahren geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Dokumentenmatrix mit Nachforderungsliste."
+description: "Für Energie-Regulierungsakte: Unbundling Entflechtung — Unterlagenanforderung: ordnet Akte, Belege und Lücken; Ergebnis: Dokumentenmatrix mit Nachforderungsliste."
 ---
 
 # Energie-Regulierungsakte: Unbundling Entflechtung — Unterlagenanforderung

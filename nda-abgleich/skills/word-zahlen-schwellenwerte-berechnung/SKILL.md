@@ -1,6 +1,6 @@
 ---
 name: word-zahlen-schwellenwerte-berechnung
-description: "Wenn es um Word: Zahlen, Schwellenwerte und Berechnung in NDA-Abgleich geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Word: Zahlen, Schwellenwerte und Berechnung: rechnet Beträge, Schwellen und Varianten; Ergebnis: Berechnungstabelle mit Annahmen und Kontrollfragen. Fachgebiet: NDA-Abgleich. Route: word-zahlen-schwellenwerte-berechnung."
 ---
 
 # Word: Zahlen, Schwellenwerte und Berechnung

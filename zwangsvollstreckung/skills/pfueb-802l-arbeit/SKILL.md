@@ -1,6 +1,6 @@
 ---
 name: pfueb-802l-arbeit
-description: "Wenn es um PfÜB Mieter, Finanzamt, sonstige Drittschuldner in Zwangsvollstreckung geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für PfÜB Mieter, Finanzamt, sonstige Drittschuldner: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # PfÜB Mieter, Finanzamt, sonstige Drittschuldner

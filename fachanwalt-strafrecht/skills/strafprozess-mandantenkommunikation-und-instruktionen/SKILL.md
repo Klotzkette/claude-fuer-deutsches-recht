@@ -1,6 +1,6 @@
 ---
 name: strafprozess-mandantenkommunikation-und-instruktionen
-description: "Wenn es um Strafprozess Mandantenkommunikation Und Instruktionen in Fachanwalt Strafrecht geht: entwickelt Verhandlungsziel, Vergleichskorridor und Eskalationspfad; liefert eine Mandantennachricht oder Entscheidungsvorlage."
+description: "Für Strafprozess Mandantenkommunikation und Instruktionen: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Mandantennachricht oder Entscheidungsvorlage."
 ---
 
 # Mandantenkommunikation im Strafverfahren: erstellt klare Instruktionen zu Schweigen, Vernehmung, Haftbesuch, Hauptverhandlung, Familie, Arbeitgeber, Presse, Social Media, Auflagen, Bewährung und Verfahrensentscheidungen.

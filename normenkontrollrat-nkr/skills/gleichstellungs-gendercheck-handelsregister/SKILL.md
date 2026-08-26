@@ -1,6 +1,6 @@
 ---
 name: gleichstellungs-gendercheck-handelsregister
-description: "Wenn es um NKR-Gleichstellungs- und Gendercheck in Normenkontrollrat (NKR) — Prüfung von Gesetzentwuerfen geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. Auswahlstichwort: Gleichstellungs Gendercheck Handelsregister; Arbeitsfeld: Normenkontrollrat (NKR) — Prüfung von Gesetzentwuerfen."
+description: "Für NKR-Gleichstellungs- und Gendercheck: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Einreichungsplan mit Form- und Nachweischeck."
 ---
 
 # NKR-Gleichstellungs- und Gendercheck

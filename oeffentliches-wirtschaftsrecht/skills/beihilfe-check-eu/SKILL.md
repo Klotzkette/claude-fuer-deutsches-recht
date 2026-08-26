@@ -1,6 +1,6 @@
 ---
 name: beihilfe-check-eu
-description: "Wenn es um Beihilfe Check Eu in Öffentliches Wirtschaftsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Beihilfe Check Eu: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Schnittstellenkarte mit Zuständigkeits- und Nachweisfragen."
 ---
 
 # Beihilfe Check Eu

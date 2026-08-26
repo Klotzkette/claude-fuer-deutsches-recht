@@ -1,6 +1,6 @@
 ---
 name: frist-und-mahnung-hoeflich
-description: "Wenn es um Frist und Mahnung höflich formulieren in E-Mail-Umformulierer geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Frist und Mahnung höflich formulieren: prüft Frist, Form, Zuständigkeit und Eilbedarf; Ergebnis: Fristen- und Risikoampel."
 ---
 
 # Frist und Mahnung höflich formulieren

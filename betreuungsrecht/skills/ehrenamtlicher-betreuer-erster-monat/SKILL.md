@@ -1,6 +1,6 @@
 ---
 name: ehrenamtlicher-betreuer-erster-monat
-description: "Wenn es um Ehrenamtlicher Betreuer: erster Monat in Betreuungsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Ehrenamtlicher Betreuer: erster Monat: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Schnittstellenkarte mit Zuständigkeits- und Nachweisfragen."
 ---
 
 # Ehrenamtlicher Betreuer: erster Monat

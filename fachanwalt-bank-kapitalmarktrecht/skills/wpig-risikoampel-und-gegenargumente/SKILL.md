@@ -1,6 +1,6 @@
 ---
 name: wpig-risikoampel-und-gegenargumente
-description: "Wenn es um Wpig: Risikoampel, Gegenargumente und Verteidigungslinien in Fachanwalt Bank Kapitalmarktrecht geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Wpig: Risikoampel, Gegenargumente und Verteidigungslinien: prüft Ergebnis, Beweislast und Gegenposition; Ergebnis: Fristen- und Risikoampel."
 ---
 
 # Wpig: Risikoampel, Gegenargumente und Verteidigungslinien

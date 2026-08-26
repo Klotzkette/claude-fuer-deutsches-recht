@@ -1,6 +1,6 @@
 ---
 name: krisenstatement-fehler-eigener-leute
-description: "Wenn es um Krisenstatement Fehler Eigener Leute in Wahlkampfrecht Praxis geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Krisenstatement Fehler Eigener Leute: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Schnittstellenkarte mit Zuständigkeits- und Nachweisfragen."
 ---
 
 # Krisenstatement Fehler Eigener Leute

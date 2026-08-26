@@ -1,6 +1,6 @@
 ---
 name: autismus-sensorik-barrierefreiheit-schule
-description: "Wenn es um Autismus, Sensorik und Schule in Schulrecht der Bundesländer geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Autismus, Sensorik und Schule: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Autismus, Sensorik und Schule

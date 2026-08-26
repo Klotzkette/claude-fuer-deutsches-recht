@@ -1,6 +1,6 @@
 ---
 name: anlagen-konvertieren-und-sichtpruefen
-description: "Konvertiert bereits ausgewählte Anlagen aus Office-, Tabellen-, Bild-, E-Mail-, Text- und Webformaten in getrennte PDFs, ohne Beweisinhalt zu verändern: protokolliert Quelle und Hash, erhält Absender- und Zeitangaben, meldet Anhänge und nicht unterstützte Container, vergleicht jede Ausgabeseite visuell und stoppt bei Beschnitt, fehlenden Blättern oder unlesbarer Darstellung."
+description: "Konvertiert bereits ausgewählte Anlagen aus Office-, Tabellen-, Bild-, E-Mail-, Text- und Webformaten in getrennte PDFs, ohne Beweisinhalt zu verändern: protokolliert Quelle und Hash, erhält Absender- und Zeitangaben, meldet Anhänge und nicht unterstützte Container, vergleicht jede Ausgabeseite visuell und stoppt bei Beschnitt, fehlenden Blättern oder."
 ---
 
 # Anlagen konvertieren und sichtprüfen

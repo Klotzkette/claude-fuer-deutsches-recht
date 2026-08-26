@@ -1,6 +1,6 @@
 ---
 name: changes-abschlussprodukt-uebergabe
-description: "Wenn es um Changes: Abschlussprodukt und Übergabe in NDA-Abgleich geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. Auswahlstichwort: Changes Abschlussprodukt Uebergabe; Arbeitsfeld: NDA-Abgleich."
+description: "Für Changes: Abschlussprodukt und Übergabe: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt. Fachgebiet: NDA-Abgleich. Route: changes-abschlussprodukt-uebergabe."
 ---
 
 # Changes: Abschlussprodukt und Übergabe

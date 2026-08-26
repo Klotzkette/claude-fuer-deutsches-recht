@@ -1,6 +1,6 @@
 ---
 name: steuer-umsatzsteuer-immobilienleasing
-description: "Wenn es um Umsatzsteuer im Leasingrecht in Leasingrecht Praxis geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Umsatzsteuer im Leasingrecht: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Schnittstellenkarte mit Zuständigkeits- und Nachweisfragen."
 ---
 
 # Umsatzsteuer im Leasingrecht

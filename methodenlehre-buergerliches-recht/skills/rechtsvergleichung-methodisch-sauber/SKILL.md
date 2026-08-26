@@ -1,6 +1,6 @@
 ---
 name: rechtsvergleichung-methodisch-sauber
-description: "Wenn es um Rechtsvergleichung: Methodisch sauberer Einsatz im Zivilrecht in Methodenlehre bürgerliches Recht geht: entwickelt Verhandlungsziel, Vergleichskorridor und Eskalationspfad; liefert eine Verhandlungs- oder Eskalationslinie mit Optionen."
+description: "Für Rechtsvergleichung: Methodisch sauberer Einsatz im Zivilrecht: entwickelt Ziel, Vergleich und Eskalation; Ergebnis: Verhandlungs- oder Eskalationslinie."
 ---
 
 # Rechtsvergleichung: Methodisch sauberer Einsatz im Zivilrecht

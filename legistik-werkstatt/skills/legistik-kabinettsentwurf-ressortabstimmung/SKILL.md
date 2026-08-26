@@ -1,6 +1,6 @@
 ---
 name: legistik-kabinettsentwurf-ressortabstimmung
-description: "Wenn es um Kabinettsentwuerfe: Compliance-Dokumentation und Aktenvermerk in Legistik-Werkstatt geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Kabinettsentwürfe: Compliance-Dokumentation und Aktenvermerk: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Kabinettsentwuerfe: Compliance-Dokumentation und Aktenvermerk

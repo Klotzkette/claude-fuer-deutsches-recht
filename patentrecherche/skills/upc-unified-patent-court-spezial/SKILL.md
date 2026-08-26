@@ -1,6 +1,6 @@
 ---
 name: upc-unified-patent-court-spezial
-description: "Wenn es um Upc Unified Patent Court Spezial in patentrecherche geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
+description: "Für Upc Unified Patent Court Spezial: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Unified Patent Court UPC seit 2023 Spezial: Zuständigkeit, Opt-out, Klage- und Nichtigkeitsverfahren, Local und Central Division, Pace und Sprache, Schadensersatz, Bifurcation

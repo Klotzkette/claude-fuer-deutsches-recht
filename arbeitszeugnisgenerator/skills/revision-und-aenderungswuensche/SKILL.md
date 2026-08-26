@@ -1,6 +1,6 @@
 ---
 name: revision-und-aenderungswuensche
-description: "Überarbeitet ein bereits erteiltes oder entworfenes Zeugnis ohne Notendrift und stellt Alt- und Neufassung mit Begründung gegenüber. Prüft Maßregelungsverbot, Wahrheit, Belege, Schlussformel und Folgewirkungen jeder Änderung und liefert eine konsolidierte Fassung."
+description: "Überarbeitet ein bereits erteiltes oder entworfenes Zeugnis ohne Notendrift und stellt Alt- und Neufassung mit Begründung gegenüber."
 ---
 
 # Revision und Änderungswünsche

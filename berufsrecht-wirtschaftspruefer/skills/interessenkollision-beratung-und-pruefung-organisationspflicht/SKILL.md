@@ -1,6 +1,6 @@
 ---
 name: interessenkollision-beratung-und-pruefung-organisationspflicht
-description: "Wenn es um Interessenkollision Beratung Und Prüfung Organisationspflicht in Berufsrecht Wirtschaftsprüfer geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Interessenkollision Beratung und Prüfung Organisationspflicht: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Tatbestands- oder Anspruchsmatrix."
 ---
 
 # Wirtschaftsprüfer: interessenkollision beratung und prüfung - Organisationspflichten, Prävention, Team-Anweisung und Fristenkontrolle

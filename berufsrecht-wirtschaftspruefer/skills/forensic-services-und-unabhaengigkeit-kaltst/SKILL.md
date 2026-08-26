@@ -1,6 +1,6 @@
 ---
 name: forensic-services-und-unabhaengigkeit-kaltst
-description: "Wenn es um Forensic Services Und Unabhaengigkeit Kaltst in Berufsrecht Wirtschaftsprüfer geht: klärt Rolle, Ziel, Frist, Unterlagen und den passenden nächsten Fachskill; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Forensic Services und Unabhängigkeit Kaltst: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Wirtschaftsprüfer: forensic services und unabhaengigkeit - Kaltstart mit Faktenmatrix, Risikoampel und fehlenden Unterlagen

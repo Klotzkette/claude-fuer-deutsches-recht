@@ -1,6 +1,6 @@
 ---
 name: compassionate-use-haertefall
-description: "Wenn es um Compassionate Use Haertefall in Fachanwalt Medizinrecht geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
+description: "Für Compassionate Use Härtefall: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Compassionate Use und Härtefall: moderner Medizinrechts-Skill für Nicht zugelassenes Arzneimittel, Härtefallprogramm, Nutzen-Risiko, Erstattung und Dokumentation

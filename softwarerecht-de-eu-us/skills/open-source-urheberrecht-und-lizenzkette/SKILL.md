@@ -1,6 +1,6 @@
 ---
 name: open-source-urheberrecht-und-lizenzkette
-description: "Wenn es um Open Source Rechtekette in Softwarerecht Deutschland/EU/International/USA geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen."
+description: "Für Open Source Rechtekette: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Open Source Rechtekette

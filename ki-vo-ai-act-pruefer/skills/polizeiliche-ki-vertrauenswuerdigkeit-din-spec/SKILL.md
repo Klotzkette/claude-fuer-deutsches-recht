@@ -1,6 +1,6 @@
 ---
 name: polizeiliche-ki-vertrauenswuerdigkeit-din-spec
-description: "Wenn es um Polizeiliche digitale Werkzeuge: Vertrauenswürdigkeit und Auditierbarkeit in europäischem Technikregulierungsrecht geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Gegenprüfung mit Fehler-, Beweis- und Fristencheck."
+description: "Für Polizeiliche digitale Werkzeuge: Vertrauenswürdigkeit und Auditierbarkeit: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Polizeiliche KI: Vertrauenswürdigkeit und Auditierbarkeit

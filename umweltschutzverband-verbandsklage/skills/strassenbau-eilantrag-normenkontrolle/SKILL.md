@@ -1,6 +1,6 @@
 ---
 name: strassenbau-eilantrag-normenkontrolle
-description: "Wenn es um Strassenbau Eilantrag Schreiben in Umweltschutzverband Verbandsklage geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Strassenbau Eilantrag Schreiben: erstellt Entwurf mit Antrag, Beweis und Anlagen; Ergebnis: Gegenprüfung mit Beweis- und Fristencheck."
 ---
 
 # Strassenbau Eilantrag Schreiben

@@ -1,6 +1,6 @@
 ---
 name: nis2-bsi-incident
-description: "Wenn es um NIS2/BSI Incident Reporting in Berichtspflichten-Erlediger geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für NIS2/BSI Incident Reporting: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # NIS2/BSI Incident Reporting

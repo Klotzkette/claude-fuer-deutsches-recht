@@ -1,6 +1,6 @@
 ---
 name: signing-closing-conditions
-description: "Wenn es um Signing, Closing und Conditions Precedent in Mittelstands-Corporate/M&A geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
+description: "Für Signing, Closing und Conditions Precedent: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt. Fachgebiet: Mittelstands-Corporate/M&A."
 ---
 
 # Signing, Closing und Conditions Precedent

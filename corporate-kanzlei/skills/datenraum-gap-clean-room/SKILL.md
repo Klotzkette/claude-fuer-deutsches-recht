@@ -1,6 +1,6 @@
 ---
 name: datenraum-gap-clean-room
-description: "Wenn es um Datenraum Gap-Analyse und Clean Room in Corporate-Kanzlei geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Datenraum Gap-Analyse und Clean Room: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Datenraum Gap-Analyse und Clean Room

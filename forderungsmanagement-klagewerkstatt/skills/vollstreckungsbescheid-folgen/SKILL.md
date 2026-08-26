@@ -1,6 +1,6 @@
 ---
 name: vollstreckungsbescheid-folgen
-description: "Wenn es um Vollstreckungsbescheid und Folgen in Forderungsmanagement — Klagewerkstatt geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
+description: "Für Vollstreckungsbescheid und Folgen: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Vollstreckungsbescheid und Folgen

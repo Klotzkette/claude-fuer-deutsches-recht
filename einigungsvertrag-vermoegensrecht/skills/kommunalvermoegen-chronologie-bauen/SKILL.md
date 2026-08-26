@@ -1,6 +1,6 @@
 ---
 name: kommunalvermoegen-chronologie-bauen
-description: "Wenn es um Kommunalvermoegen Chronologie Bauen in Einigungsvertrag und Vermögensrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Chronologie mit Belegmatrix und Widerspruchsliste."
+description: "Für Kommunalvermögen Chronologie Bauen: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Chronologie mit Beleg- und Widerspruchsmatrix."
 ---
 
 # Kommunalvermoegen Chronologie Bauen

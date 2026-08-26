@@ -1,6 +1,6 @@
 ---
 name: zwoelftafelgesetz-prozess-und-vollstreckung
-description: "Wenn es um Zwölftafelgesetz - Prozess und Vollstreckung in Römisches Recht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
+description: "Für Zwölftafelgesetz - Prozess und Vollstreckung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt. Fachgebiet: Römisches Recht. Route: zwoelftafelgesetz-prozess-und-vollstreckung."
 ---
 
 # Zwölftafelgesetz - Prozess und Vollstreckung

@@ -1,6 +1,6 @@
 ---
 name: exit-verhandlung
-description: "Wenn es um Exit Verhandlung in Gesellschaftsrechtliche Treuepflicht geht: entwickelt Verhandlungsziel, Vergleichskorridor und Eskalationspfad; liefert eine Verhandlungs- oder Eskalationslinie mit Optionen."
+description: "Für Exit Verhandlung: entwickelt Ziel, Vergleich und Eskalation; Ergebnis: Verhandlungs- oder Eskalationslinie."
 ---
 
 # Exit Verhandlung

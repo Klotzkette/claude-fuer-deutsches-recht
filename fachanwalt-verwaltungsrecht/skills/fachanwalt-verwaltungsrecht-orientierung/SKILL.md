@@ -1,6 +1,6 @@
 ---
 name: fachanwalt-verwaltungsrecht-orientierung
-description: "Wenn es um Fachanwalt für Verwaltungsrecht — Orientierung in Fachanwalt Verwaltungsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Fachanwalt für Verwaltungsrecht — Orientierung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Fachanwalt für Verwaltungsrecht — Orientierung

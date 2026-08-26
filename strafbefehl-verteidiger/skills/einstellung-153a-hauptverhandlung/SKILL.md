@@ -1,6 +1,6 @@
 ---
 name: einstellung-153a-hauptverhandlung
-description: "Wenn es um Einstellung des Strafbefehlsverfahrens in Strafbefehl-Verteidiger geht: entwickelt Verhandlungsziel, Vergleichskorridor und Eskalationspfad; liefert eine Verhandlungs- oder Eskalationslinie mit Optionen."
+description: "Für Einstellung des Strafbefehlsverfahrens: entwickelt Ziel, Vergleich und Eskalation; Ergebnis: Verhandlungs- oder Eskalationslinie."
 ---
 
 # Einstellung des Strafbefehlsverfahrens

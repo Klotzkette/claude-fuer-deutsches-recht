@@ -1,6 +1,6 @@
 ---
 name: analoge-bewertung-abrechnung-telemedizin
-description: "Wenn es um Analoge Bewertung neue Verfahren Innovation in GOÄ Gebührenordnung für Ärzte geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Berechnungstabelle mit Schwellen, Annahmen und Kontrollfragen."
+description: "Für Analoge Bewertung neue Verfahren Innovation: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Analoge Bewertung neue Verfahren Innovation

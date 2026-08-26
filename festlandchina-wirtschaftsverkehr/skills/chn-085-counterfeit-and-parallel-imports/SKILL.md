@@ -1,6 +1,6 @@
 ---
 name: chn-085-counterfeit-and-parallel-imports
-description: "Wenn es um Counterfeit And Parallel Imports in China-Wirtschaftsverkehr geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Counterfeit And Parallel Imports: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Counterfeit And Parallel Imports

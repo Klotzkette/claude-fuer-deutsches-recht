@@ -1,6 +1,6 @@
 ---
 name: testat-widerruf-oder-ergaenzung-kaltstart
-description: "Wenn es um Testat Widerruf Oder Ergaenzung Kaltstart in Berufsrecht Wirtschaftsprüfer geht: klärt Rolle, Ziel, Frist, Unterlagen und den passenden nächsten Fachskill; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Testat Widerruf oder Ergänzung Kaltstart: routet Rolle, Frist, Unterlagen und Fachschritt; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Wirtschaftsprüfer: testat widerruf oder ergänzung - Kaltstart mit Faktenmatrix, Risikoampel und fehlenden Unterlagen

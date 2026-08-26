@@ -1,6 +1,6 @@
 ---
 name: spezial-brao-livequellen-und-rechtsprechungscheck
-description: "Wenn es um Brao: Livequellen- und Rechtsprechungscheck in diesem Spezialbereich geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für BRAO: Livequellen- und Rechtsprechungscheck: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Brao: Livequellen- und Rechtsprechungscheck

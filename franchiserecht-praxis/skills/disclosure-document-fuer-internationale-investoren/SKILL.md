@@ -1,6 +1,6 @@
 ---
 name: disclosure-document-fuer-internationale-investoren
-description: "Wenn es um Franchiserecht: Disclosure-Dokument für internationale Investoren in Franchiserecht Praxis geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen."
+description: "Für Franchiserecht: Disclosure-Dokument für internationale Investoren: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Schnittstellenkarte mit Zuständigkeits- und Nachweisfragen."
 ---
 
 # Franchiserecht: Disclosure-Dokument für internationale Investoren

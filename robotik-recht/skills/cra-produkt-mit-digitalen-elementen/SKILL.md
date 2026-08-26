@@ -1,6 +1,6 @@
 ---
 name: cra-produkt-mit-digitalen-elementen
-description: "Wenn es um CRA für Roboter mit digitalen Elementen in robotik-recht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. Auswahlstichwort: Cra Produkt Mit Digitalen Elementen; Arbeitsfeld: robotik-recht."
+description: "Für CRA für Roboter mit digitalen Elementen: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt. Fachgebiet: robotik-recht. Route: cra-produkt-mit-digitalen-elementen."
 ---
 
 # CRA für Roboter mit digitalen Elementen

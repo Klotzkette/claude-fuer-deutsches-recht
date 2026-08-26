@@ -1,6 +1,6 @@
 ---
 name: holding-strukturplanung
-description: "Wenn es um Holding Strukturplanung in Fachanwalt Handels- und Gesellschaftsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Holding Strukturplanung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Holding-Strukturplanung: § 8b KStG Schachtelprivileg (95 % steuerfreier Exit), Varianten Einzel-Holding, Vermögens-Holding, Doppel-Holding mit Familienstiftung

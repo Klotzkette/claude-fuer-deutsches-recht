@@ -1,6 +1,6 @@
 ---
 name: sanierungskonzept-factoring-als-liquiditaetsbaustein
-description: "Wenn es um Sanierungskonzept Factoring als Liquiditätsbaustein in Factoring-Recht geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
+description: "Für Sanierungskonzept Factoring als Liquiditätsbaustein: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Sanierungskonzept Factoring als Liquiditätsbaustein

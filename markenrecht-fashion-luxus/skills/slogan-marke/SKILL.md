@@ -1,6 +1,6 @@
 ---
 name: slogan-marke
-description: "Wenn es um Slogan-Marken für Luxus-Mode in markenrecht-fashion-luxus geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Verhandlungs- oder Eskalationslinie mit Optionen."
+description: "Für Slogan-Marken für Luxus-Mode: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Slogan-Marken für Luxus-Mode

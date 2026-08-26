@@ -1,6 +1,6 @@
 ---
 name: datenschutz-aufsichtsbehoerde
-description: "Wenn es um Datenschutz Mandantenkommunikation mit Aufsichtsbehoerden in Datenschutzrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Datenschutz Mandantenkommunikation mit Aufsichtsbehörden: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Datenschutz Mandantenkommunikation mit Aufsichtsbehoerden

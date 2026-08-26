@@ -1,6 +1,6 @@
 ---
 name: dfg-tieforschung-ethik-pflichten
-description: "Wenn es um Tierforschungs-Ethikpflichten in DFG-Förderantrag geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
+description: "Für Tierforschungs-Ethikpflichten: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Tierforschungs-Ethikpflichten

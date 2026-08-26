@@ -1,6 +1,6 @@
 ---
 name: inside-information-und-marktmissbrauch
-description: "Wenn es um Inside Information und Marktmissbrauch in Venture Capital Geber geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Inside Information und Marktmissbrauch: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Inside Information und Marktmissbrauch

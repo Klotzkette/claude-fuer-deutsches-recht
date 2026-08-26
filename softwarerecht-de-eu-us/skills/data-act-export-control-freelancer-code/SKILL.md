@@ -1,6 +1,6 @@
 ---
 name: data-act-export-control-freelancer-code
-description: "Wenn es um EU Data Act in Softwareverträgen in Softwarerecht Deutschland/EU/International/USA geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für EU Data Act in Softwareverträgen: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # EU Data Act in Softwareverträgen

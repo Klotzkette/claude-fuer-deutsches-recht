@@ -1,6 +1,6 @@
 ---
 name: normenkartierung-normenkontrollrat-kmu
-description: "Wenn es um Normenkartierung in Legistik-Werkstatt geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. Auswahlstichwort: Normenkartierung Normenkontrollrat Kmu; Arbeitsfeld: Legistik-Werkstatt."
+description: "Für Normenkartierung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Tatbestands- oder Anspruchsmatrix. Fachgebiet: Legistik-Werkstatt. Route: normenkartierung-normenkontrollrat-kmu."
 ---
 
 # Normenkartierung

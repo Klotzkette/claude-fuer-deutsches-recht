@@ -1,6 +1,6 @@
 ---
 name: lizenz-und-vertriebsstart
-description: "Wenn es um Lizenz- und Vertriebsstart in gesellschaftsgründer — Gründungsassistent für deutsche geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Lizenz- und Vertriebsstart: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Lizenz- und Vertriebsstart

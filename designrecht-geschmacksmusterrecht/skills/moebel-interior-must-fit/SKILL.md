@@ -1,6 +1,6 @@
 ---
 name: moebel-interior-must-fit
-description: "Wenn es um Moebel Interior Produktdesign in designrecht-geschmacksmusterrecht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Beweislast- und Substantiierungsmatrix."
+description: "Für Möbel Interior Produktdesign: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Moebel Interior Produktdesign

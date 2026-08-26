@@ -1,6 +1,6 @@
 ---
 name: ip-license-supply-confidentiality-and-trade
-description: "Wenn es um IP-Lizenzen in der Lieferkette in Internationales Handelsrecht und Lex Mercatoria geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für IP-Lizenzen in der Lieferkette: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # IP-Lizenzen in der Lieferkette

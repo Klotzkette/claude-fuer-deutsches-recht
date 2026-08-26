@@ -1,6 +1,6 @@
 ---
 name: mindestlohn-arbeitszeit-erfassung
-description: "Wenn es um Mindestlohn Arbeitszeit Erfassung in Arbeitsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Mindestlohn Arbeitszeit Erfassung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Mindestlohn Arbeitszeit Erfassung: ordnet Normen, Nutzerangaben, Fristen, Belege und verifizierte Rechtsprechung zu einer belastbaren Prüfung.

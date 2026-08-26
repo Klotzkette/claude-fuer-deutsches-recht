@@ -1,6 +1,6 @@
 ---
 name: whistleblower-forensic
-description: "Wenn es um Whistleblower-Schutz und -Management in Internal Investigations Praxis geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen."
+description: "Für Whistleblower-Schutz und -Management: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Whistleblower-Schutz und -Management

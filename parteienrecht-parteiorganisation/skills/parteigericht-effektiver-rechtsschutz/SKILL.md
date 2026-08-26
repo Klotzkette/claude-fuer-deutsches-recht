@@ -1,6 +1,6 @@
 ---
 name: parteigericht-effektiver-rechtsschutz
-description: "Wenn es um Parteigericht: Effektiver Rechtsschutz in Parteienrecht und Parteiorganisation geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt. Auswahlstichwort: Parteigericht Effektiver Rechtsschutz; Arbeitsfeld: Parteienrecht und Parteiorganisation."
+description: "Für Parteigericht: Effektiver Rechtsschutz: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt. Fachgebiet: Parteienrecht und Parteiorganisation. Route: parteigericht-effektiver-rechtsschutz."
 ---
 
 # Parteigericht: Effektiver Rechtsschutz

@@ -1,6 +1,6 @@
 ---
 name: regr-dora-resilienz
-description: "Wenn es um RegR: DORA-Resilienz in Regulatorisches Recht – Plugin für deutsches geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für RegR: DORA-Resilienz: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # RegR: DORA-Resilienz

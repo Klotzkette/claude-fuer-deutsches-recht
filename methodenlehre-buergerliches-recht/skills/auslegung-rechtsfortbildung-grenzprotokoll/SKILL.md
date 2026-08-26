@@ -1,6 +1,6 @@
 ---
 name: auslegung-rechtsfortbildung-grenzprotokoll
-description: "Wenn es um Auslegung versus Rechtsfortbildung: Grenzprotokoll in Methodenlehre bürgerliches Recht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Auslegung versus Rechtsfortbildung: Grenzprotokoll: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Auslegung versus Rechtsfortbildung: Grenzprotokoll

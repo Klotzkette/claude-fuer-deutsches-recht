@@ -1,6 +1,6 @@
 ---
 name: deal-intake-team
-description: "Wenn es um Deal-Intake in Corporate-Kanzlei geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. Auswahlstichwort: Deal Intake Team; Arbeitsfeld: Corporate-Kanzlei."
+description: "Für Deal-Intake: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt. Fachgebiet: Corporate-Kanzlei. Route: deal-intake-team."
 ---
 
 # Deal-Intake

@@ -1,6 +1,6 @@
 ---
 name: teilungserklaerung-gemeinschaftsordnung
-description: "Wenn es um Teilungserklärung und Gemeinschaftsordnung in Bauträgervertragspruefer geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
+description: "Für Teilungserklärung und Gemeinschaftsordnung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Teilungserklärung und Gemeinschaftsordnung

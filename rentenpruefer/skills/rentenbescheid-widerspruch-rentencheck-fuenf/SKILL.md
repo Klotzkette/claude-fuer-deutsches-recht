@@ -1,6 +1,6 @@
 ---
 name: rentenbescheid-widerspruch-rentencheck-fuenf
-description: "Wenn es um rentenbescheid-pruefen-widerspruch in Rentenprüfer geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für rentenbescheid-prüfen-widerspruch: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # rentenbescheid-pruefen-widerspruch

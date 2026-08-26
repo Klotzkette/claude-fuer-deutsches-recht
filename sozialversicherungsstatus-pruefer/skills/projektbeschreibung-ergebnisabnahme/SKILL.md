@@ -1,6 +1,6 @@
 ---
 name: projektbeschreibung-ergebnisabnahme
-description: "Wenn es um Projektbeschreibung und Ergebnisabnahme in Sozialversicherungsstatus-Prüfer / DRV-Statusfeststellung geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
+description: "Für Projektbeschreibung und Ergebnisabnahme: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Projektbeschreibung und Ergebnisabnahme

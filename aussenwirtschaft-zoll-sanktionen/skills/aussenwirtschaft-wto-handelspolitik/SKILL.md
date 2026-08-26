@@ -1,6 +1,6 @@
 ---
 name: aussenwirtschaft-wto-handelspolitik
-description: "Wenn es um WTO-Handelspolitik: GATT Schutzmassnahmen und EU-Handelsverteidigung in Außenwirtschaft, Sanktionen, Zoll und CBAM geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für WTO-Handelspolitik: GATT Schutzmassnahmen und EU-Handelsverteidigung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # WTO-Handelspolitik: GATT Schutzmassnahmen und EU-Handelsverteidigung

@@ -1,6 +1,6 @@
 ---
 name: energie-kapazitaetsvergabe-gas-kwkg
-description: "Wenn es um Energie: Kapazitätsvergabe Gas in Bundesnetzagentur-Verfahren geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
+description: "Für Energie: Kapazitätsvergabe Gas: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Energie: Kapazitätsvergabe Gas

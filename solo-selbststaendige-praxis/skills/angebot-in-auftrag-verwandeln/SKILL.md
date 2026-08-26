@@ -1,6 +1,6 @@
 ---
 name: angebot-in-auftrag-verwandeln
-description: "Wenn es um Verträge und AGB: Macht aus whatsapp in Solo-Selbstständige Praxis geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Verträge und AGB: Macht aus whatsapp: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Verträge und AGB: Macht aus whatsapp

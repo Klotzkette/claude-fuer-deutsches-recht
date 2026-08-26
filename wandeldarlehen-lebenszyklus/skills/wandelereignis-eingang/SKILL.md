@@ -1,6 +1,6 @@
 ---
 name: wandelereignis-eingang
-description: "Wenn es um Wandelereignis – Eingang Wandlungserklärung in Wandeldarlehen-Lebenszyklus geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Wandelereignis – Eingang Wandlungserklärung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Wandelereignis – Eingang Wandlungserklärung

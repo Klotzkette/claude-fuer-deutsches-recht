@@ -1,6 +1,6 @@
 ---
 name: on-orbit-weltraumtourismus
-description: "Wenn es um Weltraumrecht: On-Orbit Servicing: Andocken, Reparatur und Haftung in Weltraumrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Weltraumrecht: On-Orbit Servicing: Andocken, Reparatur und Haftung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Weltraumrecht: On-Orbit Servicing: Andocken, Reparatur und Haftung

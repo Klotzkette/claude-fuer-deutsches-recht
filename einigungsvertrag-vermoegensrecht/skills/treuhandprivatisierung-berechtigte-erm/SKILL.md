@@ -1,6 +1,6 @@
 ---
 name: treuhandprivatisierung-berechtigte-erm
-description: "Wenn es um Treuhandprivatisierung Berechtigte Erm in Einigungsvertrag und Vermögensrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Treuhandprivatisierung Berechtigte Erm: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Schnittstellenkarte mit Zuständigkeits- und Nachweisfragen."
 ---
 
 # Treuhandprivatisierung Berechtigte Erm

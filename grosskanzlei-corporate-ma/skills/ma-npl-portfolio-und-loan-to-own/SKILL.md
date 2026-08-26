@@ -1,6 +1,6 @@
 ---
 name: ma-npl-portfolio-und-loan-to-own
-description: "Wenn es um Big Law M&A: NPL Portfolio und Loan-to-own in Großkanzlei Corporate/M&A geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Big Law M&A: NPL Portfolio und Loan-to-own: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Big Law M&A: NPL Portfolio und Loan-to-own
@@ -35,3 +35,7 @@ KrZwMG, InsO/StaRUG, BGB, DSGVO, Sicherheiten, ZVG.
 - Keine Blindzitate: Rechtsprechung, Behördenpraxis und Schwellenwerte vor tragender Aussage live anhand amtlicher oder frei zugänglicher Quellen prüfen.
 - Keine LMA-, Banken- oder Fondsformularsprache nacherzählen: Nutzer soll das aktuelle Dokument hochladen; der Skill arbeitet dann am konkreten Text.
 - Jede Annahme sichtbar markieren, insbesondere Zahlen, Fristen, regulatorische Rollen, Genehmigungsstand und Parteiperspektive.
+
+## Vertiefung bei Bedarf
+
+- Bei `gk-ma-npl-portfolio-und-loan-to-own` beziehungsweise Strukturiert NPL-Portfoliokauf, distressed secondary loan trade, enforcement und Debt-Equity-Strategie.: [die zusätzliche Vertiefung laden](./references/vertiefung-gk-ma-npl-portfolio-und-loan-to-own.md).

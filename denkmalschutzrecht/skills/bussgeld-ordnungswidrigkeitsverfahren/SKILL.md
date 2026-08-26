@@ -1,6 +1,6 @@
 ---
 name: bussgeld-ordnungswidrigkeitsverfahren
-description: "Wenn es um Bussgeld- und Ordnungswidrigkeitsverfahren in Denkmalschutzrecht — Bundesweiter Rahmen und sechzehn geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
+description: "Für Bussgeld- und Ordnungswidrigkeitsverfahren: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Bussgeld- und Ordnungswidrigkeitsverfahren

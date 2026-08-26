@@ -1,6 +1,6 @@
 ---
 name: art-3-abs-2-3-besondere-gleichheitssaetze
-description: "Wenn es um Besondere Gleichheitssaetze — Art. 3 Abs. 2 und Abs. 3 GG in Verhältnismäßigkeitsprüfer geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
+description: "Für Besondere Gleichheitssätze — Art. 3 Abs. 2 und Abs. 3 GG: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Besondere Gleichheitssaetze — Art. 3 Abs. 2 und Abs. 3 GG

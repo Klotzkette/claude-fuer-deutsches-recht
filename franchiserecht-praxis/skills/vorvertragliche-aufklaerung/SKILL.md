@@ -1,6 +1,6 @@
 ---
 name: vorvertragliche-aufklaerung
-description: "Wenn es um Franchiserecht: Vorvertragliche Aufklärung und Rentabilitätsprognose in Franchiserecht Praxis geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
+description: "Für Franchiserecht: Vorvertragliche Aufklärung und Rentabilitätsprognose: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Franchiserecht: Vorvertragliche Aufklärung und Rentabilitätsprognose

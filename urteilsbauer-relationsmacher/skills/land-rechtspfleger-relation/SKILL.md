@@ -1,6 +1,6 @@
 ---
 name: land-rechtspfleger-relation
-description: "Wenn es um Land: Dokumentenmatrix, Lückenliste und Nachforderung in Urteilsbauer und Relationsmacher geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Dokumentenmatrix mit Nachforderungsliste."
+description: "Für Land: Dokumentenmatrix, Lückenliste und Nachforderung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Land: Dokumentenmatrix, Lückenliste und Nachforderung

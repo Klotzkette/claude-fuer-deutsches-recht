@@ -1,6 +1,6 @@
 ---
 name: fmkw-verbraucherklage-cookies-rdg-spezial
-description: "Wenn es um FMKW: Verbraucherinkasso RDG in Forderungsmanagement — Klagewerkstatt geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
+description: "Für FMKW: Verbraucherinkasso RDG: erstellt Entwurf mit Antrag, Beweis und Anlagen; Ergebnis: Schriftsatz mit Begründungs- und Anlagenlogik."
 ---
 
 # FMKW: Verbraucherinkasso RDG

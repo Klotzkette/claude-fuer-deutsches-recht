@@ -1,6 +1,6 @@
 ---
 name: patentanwalt-berufsgericht-pao
-description: "Wenn es um Patentanwalt Berufsgericht PAO in Berufsgerichtliche Verfahren Freie Berufe geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Patentanwalt Berufsgericht PAO: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Patentanwalt Berufsgericht PAO

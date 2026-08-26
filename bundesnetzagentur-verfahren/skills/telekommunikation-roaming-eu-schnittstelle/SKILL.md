@@ -1,6 +1,6 @@
 ---
 name: telekommunikation-roaming-eu-schnittstelle
-description: "Wenn es um Telekommunikation: Roaming EU Schnittstelle in Bundesnetzagentur-Verfahren geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen."
+description: "Für Telekommunikation: Roaming EU Schnittstelle: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Schnittstellenkarte mit Zuständigkeits- und Nachweisfragen."
 ---
 
 # Telekommunikation: Roaming EU Schnittstelle

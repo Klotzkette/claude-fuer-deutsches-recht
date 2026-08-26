@@ -1,6 +1,6 @@
 ---
 name: datentraeger-rueckgabe
-description: "Wenn es um Rückgabe von Datenträgern und Unterlagen bei Vertragsende nach Paragraf 88 HGB in Handelsvertreterrecht und Vertriebsverträge geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Dokumentenmatrix mit Nachforderungsliste."
+description: "Für Rückgabe von Datenträgern und Unterlagen bei Vertragsende nach Paragraf 88 HGB: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Rückgabe von Datenträgern und Unterlagen bei Vertragsende nach § 88 HGB

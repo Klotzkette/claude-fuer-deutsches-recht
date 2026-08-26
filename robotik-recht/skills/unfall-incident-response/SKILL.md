@@ -1,6 +1,6 @@
 ---
 name: unfall-incident-response
-description: "Wenn es um Incident Response Robotik in robotik-recht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Beweislast- und Substantiierungsmatrix. Auswahlstichwort: Unfall Incident Response; Arbeitsfeld: robotik-recht."
+description: "Für Incident Response Robotik: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt. Fachgebiet: robotik-recht. Route: unfall-incident-response."
 ---
 
 # Incident Response Robotik

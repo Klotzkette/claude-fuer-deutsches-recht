@@ -1,6 +1,6 @@
 ---
 name: marktaufsicht-behoerdenkommunikation-evidence
-description: "Wenn es um Marktaufsicht: Evidence Room in europäischem Technikregulierungsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. Auswahlstichwort: Marktaufsicht Behoerdenkommunikation Evidence; Arbeitsfeld: europäischem Technikregulierungsrecht."
+description: "Für Marktaufsicht: Evidence Room: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt. Fachgebiet: europäischem Technikregulierungsrecht. Route: marktaufsicht-behoerdenkommunikation-evidence."
 ---
 
 # Marktaufsicht: Evidence Room

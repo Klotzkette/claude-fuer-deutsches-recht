@@ -1,6 +1,6 @@
 ---
 name: autor-herausgeber-mitwirkende-rechtekette
-description: "Wenn es um Verl-003 · Autor, Herausgeber, Mitwirkende: Rechtekette im Sammelwerk in Verlagsrecht und Buchpreisbindung geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Verl-003 · Autor, Herausgeber, Mitwirkende: Rechtekette im Sammelwerk: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Verl-003 · Autor, Herausgeber, Mitwirkende: Rechtekette im Sammelwerk

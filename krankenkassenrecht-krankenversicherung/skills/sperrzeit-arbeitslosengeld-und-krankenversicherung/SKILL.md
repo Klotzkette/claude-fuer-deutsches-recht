@@ -1,6 +1,6 @@
 ---
 name: sperrzeit-arbeitslosengeld-und-krankenversicherung
-description: "Wenn es um Sperrzeit, Arbeitslosengeld und Krankenversicherung in Krankenkassenrecht und Krankenversicherung geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Sperrzeit, Arbeitslosengeld und Krankenversicherung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Sperrzeit, Arbeitslosengeld und Krankenversicherung

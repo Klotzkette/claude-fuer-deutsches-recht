@@ -1,6 +1,6 @@
 ---
 name: it-recht-datenschutz-im-it-vertrag
-description: "Wenn es um Datenschutzklauseln im IT-Vertrag prüfen und gestalten in Fachanwalt It Recht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Datenschutzklauseln im IT-Vertrag prüfen und gestalten: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Datenschutzklauseln im IT-Vertrag prüfen und gestalten

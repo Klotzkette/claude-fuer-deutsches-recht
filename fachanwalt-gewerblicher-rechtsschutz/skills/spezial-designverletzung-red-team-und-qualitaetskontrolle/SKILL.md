@@ -1,6 +1,6 @@
 ---
 name: spezial-designverletzung-red-team-und-qualitaetskontrolle
-description: "Wenn es um Designverletzung: Red-Team und Qualitätskontrolle in Fachanwalt Gewerblicher Rechtsschutz geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Designverletzung: Red-Team und Qualitätskontrolle: prüft Ergebnis, Beweislast und Gegenposition; Ergebnis: Gegenprüfung mit Beweis- und Fristencheck."
 ---
 
 # Designverletzung: Red-Team und Qualitätskontrolle

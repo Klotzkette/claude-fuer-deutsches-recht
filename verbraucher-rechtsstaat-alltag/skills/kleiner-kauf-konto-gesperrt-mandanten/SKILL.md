@@ -1,6 +1,6 @@
 ---
 name: kleiner-kauf-konto-gesperrt-mandanten
-description: "Wenn es um Kleiner Kauf und Mängelrechte in Verbraucher im Rechtsstaat Alltag geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Kleiner Kauf und Mängelrechte: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Kleiner Kauf und Mängelrechte

@@ -1,6 +1,6 @@
 ---
 name: einstweilige-verfuegung-urheber
-description: "Wenn es um Einstweilige Verfügung im Urheberrecht in Urheberrecht DE EU geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
+description: "Für Einstweilige Verfügung im Urheberrecht: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Einstweilige Verfügung im Urheberrecht

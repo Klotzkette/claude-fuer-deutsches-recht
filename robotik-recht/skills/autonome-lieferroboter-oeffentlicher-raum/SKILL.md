@@ -1,6 +1,6 @@
 ---
 name: autonome-lieferroboter-oeffentlicher-raum
-description: "Wenn es um Autonome Lieferroboter im öffentlichen Raum in robotik-recht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Autonome Lieferroboter im öffentlichen Raum: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Autonome Lieferroboter im öffentlichen Raum

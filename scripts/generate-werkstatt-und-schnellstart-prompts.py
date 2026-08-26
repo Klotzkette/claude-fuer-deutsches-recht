@@ -3319,6 +3319,11 @@ def field_title(desc: str, slug: str, heading: str = "") -> str:
         if len(title) > 90:
             concise = re.split(r"[:;.]", title, maxsplit=1)[0].strip()
             title = concise if 8 <= len(concise) <= 90 else slug.replace("-", " ").title()
+    elif match := re.match(
+        r"Für (.+?): (?:routet Rolle|erstellt Entwurf|prüft Ergebnis|prüft Frist|ordnet Akte|rechnet Beträge|entwickelt Ziel|ordnet Norm)",
+        desc,
+    ):
+        title = match.group(1)
     elif match := re.match(r"Wenn es um (.+?) in [^:;.]{3,90} geht:", desc):
         title = match.group(1)
     else:
@@ -3371,11 +3376,25 @@ GENERIC_FIELD_BITS = (
     "Berechnungstabelle mit Schwellen, Annahmen und Kontrollfragen",
     "Beweislast- und Substantiierungsmatrix",
     "Auswahlstichwort:",
+    "routet Rolle, Frist, Unterlagen und Fachschritt",
+    "erstellt Entwurf mit Antrag, Beweis und Anlagen",
+    "prüft Ergebnis, Beweislast und Gegenposition",
+    "prüft Frist, Form, Zuständigkeit und Eilbedarf",
+    "ordnet Akte, Belege und Lücken",
+    "rechnet Beträge, Schwellen und Varianten",
+    "entwickelt Ziel, Vergleich und Eskalation",
+    "ordnet Norm, Beweislast und Gegenargument",
+    "Prüfprodukt mit Risiko und nächstem Schritt",
 )
 
 
 def field_detail(desc: str, body: str = "", title: str = "") -> str:
     desc = clean(desc, 260)
+    desc = re.sub(
+        r"^Für .+?:\s*(?=(?:routet Rolle|erstellt Entwurf|prüft Ergebnis|prüft Frist|ordnet Akte|rechnet Beträge|entwickelt Ziel|ordnet Norm))",
+        "",
+        desc,
+    )
     desc = re.sub(r"^Wenn es um .+? geht:\s*", "", desc)
     desc = re.sub(r"\s*Stichwort für die Auswahl:.*$", "", desc)
     desc = desc.strip(" .;:")

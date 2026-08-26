@@ -1,6 +1,6 @@
 ---
 name: service-abroad-hague-eu
-description: "Wenn es um Service Abroad in commercial-courts-deutschland geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Service Abroad: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Schnittstellenkarte mit Zuständigkeits- und Nachweisfragen."
 ---
 
 # Service Abroad

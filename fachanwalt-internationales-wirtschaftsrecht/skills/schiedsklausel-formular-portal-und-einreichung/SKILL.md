@@ -1,6 +1,6 @@
 ---
 name: schiedsklausel-formular-portal-und-einreichung
-description: "Wenn es um Schiedsklausel: Formular, Portal und Einreichungslogik in Fachanwalt Internationales Wirtschaftsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Schiedsklausel: Formular, Portal und Einreichungslogik: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Einreichungsplan mit Form- und Nachweischeck."
 ---
 
 # Schiedsklausel: Formular, Portal und Einreichungslogik

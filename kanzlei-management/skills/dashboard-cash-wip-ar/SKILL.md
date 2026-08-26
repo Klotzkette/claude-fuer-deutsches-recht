@@ -1,6 +1,6 @@
 ---
 name: dashboard-cash-wip-ar
-description: "Wenn es um Cash WIP AR Dashboard in Kanzlei Management geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Cash WIP AR Dashboard: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Cash WIP AR Dashboard

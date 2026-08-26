@@ -1,6 +1,6 @@
 ---
 name: bfdi-vs-landesaufsicht
-description: "Wenn es um BfDI oder Landesaufsicht in Datenschutz-Sanktionsverfahren und Verteidigung geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für BfDI oder Landesaufsicht: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # BfDI oder Landesaufsicht

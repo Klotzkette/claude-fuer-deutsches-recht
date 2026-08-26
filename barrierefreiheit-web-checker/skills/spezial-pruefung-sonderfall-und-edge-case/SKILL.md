@@ -1,6 +1,6 @@
 ---
 name: spezial-pruefung-sonderfall-und-edge-case
-description: "Wenn es um Pruefung: Sonderfall und Edge-Case-Prüfung in Barrierefreiheit Web Checker geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Prüfung: Sonderfall und Edge-Case-Prüfung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Tatbestands- oder Anspruchsmatrix."
 ---
 
 # Pruefung: Sonderfall und Edge-Case-Prüfung

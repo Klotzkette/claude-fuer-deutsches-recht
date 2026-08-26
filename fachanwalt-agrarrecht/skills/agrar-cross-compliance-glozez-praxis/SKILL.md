@@ -1,6 +1,6 @@
 ---
 name: agrar-cross-compliance-glozez-praxis
-description: "Wenn es um Agrar Cross Compliance Glozez Praxis in Fachanwalt Agrarrecht geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Agrar Cross Compliance Glozez Praxis: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Cross-Compliance und GLOEZ-Praxis: Verpflichtungen, Kontrollen, Folgen Kuerzung Direktzahlungen, Widerspruch und Klage gegen Kuerzungsbescheid

@@ -1,6 +1,6 @@
 ---
 name: doping-verfahren
-description: "Wenn es um Doping Verfahren in Fachanwalt Sportrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Doping Verfahren: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Athlet steht vor NADA-Disziplinarverfahren wegen positivem Dopingtest und braucht Verteidigung

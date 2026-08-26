@@ -1,6 +1,6 @@
 ---
 name: stundung-erlass-vollstreckungsaufschub
-description: "Wenn es um Anw Stundung Erlass Vollstreckungsaufschub in Steuerrecht – Steuerberater und Anwälte geht: rechnet Schwellen, Beträge, Varianten und Kontrollannahmen durch; liefert eine Berechnungstabelle mit Schwellen, Annahmen und Kontrollfragen."
+description: "Für Anw Stundung Erlass Vollstreckungsaufschub: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Anw Stundung Erlass Vollstreckungsaufschub
@@ -157,3 +157,7 @@ angebot]
 Stand: 05/2026. § 234 AO Stundungszinssatz aktuell unverändert 0.5 %/Monat (gesonderter Zinssatz, BVerfG-Urteil zu § 233a AO greift nicht direkt). AEAO Stand 2024 berücksichtigt. Bei Reform der Säumnis-/Stundungszinsen aktualisieren.
 
 > Quellenregel: Entscheidungen nur nach Prüfung einer amtlichen oder frei zugänglichen Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage ausgeben.
+
+## Vertiefung bei Bedarf
+
+- Bei `anw-stundung-erlass-vollstreckungsaufschub` beziehungsweise Stundung § 222 AO / Erlass § 227 AO / Vollstreckungsaufschub § 258 AO: [die zusätzliche Vertiefung laden](./references/vertiefung-anw-stundung-erlass-vollstreckungsaufschub.md).

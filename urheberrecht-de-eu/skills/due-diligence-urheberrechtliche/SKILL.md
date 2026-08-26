@@ -1,6 +1,6 @@
 ---
 name: due-diligence-urheberrechtliche
-description: "Wenn es um Copyright Due Diligence in Urheberrecht DE EU geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Copyright Due Diligence: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Copyright Due Diligence

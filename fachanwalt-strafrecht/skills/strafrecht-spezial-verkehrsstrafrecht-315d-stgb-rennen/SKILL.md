@@ -1,6 +1,6 @@
 ---
 name: strafrecht-spezial-verkehrsstrafrecht-315d-stgb-rennen
-description: "Wenn es um Verbotene Kraftfahrzeugrennen nach Paragraph 315d StGB in Fachanwalt Strafrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Verbotene Kraftfahrzeugrennen nach Paragraph 315d StGB: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Verbotene Kraftfahrzeugrennen nach Paragraph 315d StGB

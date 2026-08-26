@@ -1,6 +1,6 @@
 ---
 name: mabv-ratenplan-pruefen
-description: "Wenn es um MaBV-Ratenplan prüfen in Bauträgervertragspruefer geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für MaBV-Ratenplan prüfen: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # MaBV-Ratenplan prüfen

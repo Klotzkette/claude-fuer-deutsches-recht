@@ -1,6 +1,6 @@
 ---
 name: doping-strafrecht-paragraf-4-anti-dopg
-description: "Wenn es um Doping Strafrecht Paragraf 4 Anti Dopg in Fachanwalt Sportrecht geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Doping Strafrecht Paragraf 4 Anti Dopg: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Doping Strafrecht § 4 Anti Dopg

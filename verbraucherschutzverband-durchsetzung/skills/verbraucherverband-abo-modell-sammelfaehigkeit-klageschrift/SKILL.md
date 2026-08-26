@@ -1,6 +1,6 @@
 ---
 name: verbraucherverband-abo-modell-sammelfaehigkeit-klageschrift
-description: "Wenn es um Abo Modell Sammelfaehigkeit Prüfen in Verbraucherschutzverband Durchsetzung geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
+description: "Für Abo Modell Sammelfähigkeit Prüfen: erstellt Entwurf mit Antrag, Beweis und Anlagen; Ergebnis: Schriftsatz mit Begründungs- und Anlagenlogik."
 ---
 
 # Abo Modell Sammelfaehigkeit Prüfen

@@ -1,6 +1,6 @@
 ---
 name: masterarbeit-betreuung
-description: "Wenn es um Masterarbeit und Betreuung in Prüfungsrecht an Hochschulen und Universitäten geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Masterarbeit und Betreuung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Schnittstellenkarte mit Zuständigkeits- und Nachweisfragen."
 ---
 
 # Masterarbeit und Betreuung

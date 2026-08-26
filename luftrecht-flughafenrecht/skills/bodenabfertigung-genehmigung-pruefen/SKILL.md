@@ -1,6 +1,6 @@
 ---
 name: bodenabfertigung-genehmigung-pruefen
-description: "Wenn es um Bodenabfertigung – Genehmigung prüfen in Luftrecht und Flughafenrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Bodenabfertigung – Genehmigung prüfen: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Bodenabfertigung – Genehmigung prüfen

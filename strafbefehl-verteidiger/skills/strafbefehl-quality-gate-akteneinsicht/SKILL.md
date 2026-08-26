@@ -1,6 +1,6 @@
 ---
 name: strafbefehl-quality-gate-akteneinsicht
-description: "Wenn es um Strafbefehl-Verteidiger — Kommandocenter in Strafbefehl-Verteidiger geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Strafbefehl-Verteidiger — Kommandocenter: ordnet Akte, Belege und Lücken; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Strafbefehl-Verteidiger — Kommandocenter

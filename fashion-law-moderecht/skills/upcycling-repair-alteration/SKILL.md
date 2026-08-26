@@ -1,6 +1,6 @@
 ---
 name: upcycling-repair-alteration
-description: "Wenn es um Upcycling Repair Alteration in fashion-law-moderecht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
+description: "Für Upcycling Repair Alteration: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Upcycling Repair Alteration

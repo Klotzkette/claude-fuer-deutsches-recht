@@ -1,6 +1,6 @@
 ---
 name: fachanwalt-strafrecht-chatcontrol-csam-anwaltsgeheimnis-53-stpo
-description: "Wenn es um ChatControl / EU-CSAM und Anwaltsgeheimnis Paragraf 53 StPO in Fachanwalt Strafrecht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen."
+description: "Für ChatControl / EU-CSAM und Anwaltsgeheimnis Paragraf 53 StPO: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # ChatControl / EU-CSAM und Anwaltsgeheimnis § 53 StPO

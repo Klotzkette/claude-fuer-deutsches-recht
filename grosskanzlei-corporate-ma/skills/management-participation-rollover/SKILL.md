@@ -1,6 +1,6 @@
 ---
 name: management-participation-rollover
-description: "Wenn es um Management Participation und Rollover in Großkanzlei Corporate/M&A geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
+description: "Für Management Participation und Rollover: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 # Management Participation und Rollover
 

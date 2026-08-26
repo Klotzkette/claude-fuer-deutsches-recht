@@ -1,6 +1,6 @@
 ---
 name: gk-sanierungsgewinn-stille-reserven-klausel-8c-iv-kstg
-description: "Wenn es um Stille-Reserven-Klausel des Paragraf 8c Abs in Großkanzlei Corporate/M&A geht: rechnet Schwellen, Beträge, Varianten und Kontrollannahmen durch; liefert eine Berechnungstabelle mit Schwellen, Annahmen und Kontrollfragen."
+description: "Für Stille-Reserven-Klausel des Paragraf 8c Abs: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Stille-Reserven-Klausel des Paragraf 8c Abs

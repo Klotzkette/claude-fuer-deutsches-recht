@@ -1,6 +1,6 @@
 ---
 name: agb-im-konzernverbund
-description: "Wenn es um Agb Im Konzernverbund in AGB-Recht-Prüfer geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für AGB im Konzernverbund: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Agb Im Konzernverbund

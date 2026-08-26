@@ -1,6 +1,6 @@
 ---
 name: behutsame-frech-haeufige-fehler
-description: "Wenn es um Behutsame, frech-wertschätzende Rückfragen — Stil-Anleitung in hausarbeitenmacher — Didaktisches Plugin für juristische geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Behutsame, frech-wertschätzende Rückfragen — Stil-Anleitung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Schnittstellenkarte mit Zuständigkeits- und Nachweisfragen."
 ---
 
 # Behutsame, frech-wertschätzende Rückfragen — Stil-Anleitung

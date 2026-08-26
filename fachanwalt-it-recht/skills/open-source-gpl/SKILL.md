@@ -1,6 +1,6 @@
 ---
 name: open-source-gpl
-description: "Wenn es um Open Source gpl in Fachanwalt It Recht geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Open Source gpl: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Open Source gpl

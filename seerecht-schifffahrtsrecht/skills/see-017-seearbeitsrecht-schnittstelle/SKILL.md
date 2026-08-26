@@ -1,6 +1,6 @@
 ---
 name: see-017-seearbeitsrecht-schnittstelle
-description: "Wenn es um Seearbeitsrecht Schnittstelle in See- und Schifffahrtsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Seearbeitsrecht Schnittstelle: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Seearbeitsrecht Schnittstelle

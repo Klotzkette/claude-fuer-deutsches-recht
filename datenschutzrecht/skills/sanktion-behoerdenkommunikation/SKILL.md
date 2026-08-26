@@ -1,6 +1,6 @@
 ---
 name: sanktion-behoerdenkommunikation
-description: "Wenn es um Behördenkommunikation mit Reputationsschutz in Datenschutzrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Behördenkommunikation mit Reputationsschutz: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt. Fachgebiet: Datenschutzrecht."
 ---
 
 # Behördenkommunikation mit Reputationsschutz

@@ -1,6 +1,6 @@
 ---
 name: lohnbuchhaltung-fristenversaeumnis
-description: "Wenn es um Lohnbuchhaltung Fristenversaeumnis in Berufsrecht Steuerberater geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Lohnbuchhaltung Fristenversäumnis: prüft Frist, Form, Zuständigkeit und Eilbedarf; Ergebnis: Fristen- und Risikoampel."
 ---
 
 # Steuerberater: lohnbuchhaltung fristenversaeumnis - Kammerantwort mit Verfahrensstrategie, Tonlage und Belegplan

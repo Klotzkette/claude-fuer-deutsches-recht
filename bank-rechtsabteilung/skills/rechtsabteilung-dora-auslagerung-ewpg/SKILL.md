@@ -1,6 +1,6 @@
 ---
 name: rechtsabteilung-dora-auslagerung-ewpg
-description: "Wenn es um Rechtsabteilung: DORA-Auslagerung bei kritischem ICT-Dienstleister in Bank-Rechtsabteilung geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert einen Einreichungsplan mit Form-, Portal- und Nachweischeck."
+description: "Für Rechtsabteilung: DORA-Auslagerung bei kritischem ICT-Dienstleister: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Rechtsabteilung: DORA-Auslagerung bei kritischem ICT-Dienstleister

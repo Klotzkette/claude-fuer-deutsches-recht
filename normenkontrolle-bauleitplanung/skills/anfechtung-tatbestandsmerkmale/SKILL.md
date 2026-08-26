@@ -1,6 +1,6 @@
 ---
 name: anfechtung-tatbestandsmerkmale
-description: "Wenn es um Anfechtung: Tatbestandsmerkmale, Beweisfragen und Beleglage in Normenkontrolle Bauleitplanung — Paragraf 47 VwGO geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Anfechtung: Tatbestandsmerkmale, Beweisfragen und Beleglage: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Tatbestands- oder Anspruchsmatrix."
 ---
 
 # Anfechtung: Tatbestandsmerkmale, Beweisfragen und Beleglage

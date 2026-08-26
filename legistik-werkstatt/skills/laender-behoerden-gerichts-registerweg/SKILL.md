@@ -1,6 +1,6 @@
 ---
 name: laender-behoerden-gerichts-registerweg
-description: "Wenn es um Länder: Behörden-, Gerichts- oder Registerweg in Legistik-Werkstatt geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. Auswahlstichwort: Laender Behoerden Gerichts Registerweg; Arbeitsfeld: Legistik-Werkstatt."
+description: "Für Länder: Behörden-, Gerichts- oder Registerweg: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Einreichungsplan mit Form- und Nachweischeck. Fachgebiet: Legistik-Werkstatt. Route: laender-behoerden-gerichts-registerweg."
 ---
 
 # Länder: Behörden-, Gerichts- oder Registerweg

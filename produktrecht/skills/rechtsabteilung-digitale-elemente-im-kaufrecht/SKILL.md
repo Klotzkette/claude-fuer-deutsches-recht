@@ -1,6 +1,6 @@
 ---
 name: rechtsabteilung-digitale-elemente-im-kaufrecht
-description: "Wenn es um Rechtsabteilung: Digitale Elemente im Kaufrecht in Produkthaftung und Produktrecht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
+description: "Für Rechtsabteilung: Digitale Elemente im Kaufrecht: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Rechtsabteilung: Digitale Elemente im Kaufrecht

@@ -1,6 +1,6 @@
 ---
 name: gesellschafterstreit-einstweiliger-rechtsschutz
-description: "Wenn es um Gesellschafterstreit und einstweiliger Rechtsschutz in Gesellschaftsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Gesellschafterstreit und einstweiliger Rechtsschutz: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 # Gesellschafterstreit und einstweiliger Rechtsschutz
 

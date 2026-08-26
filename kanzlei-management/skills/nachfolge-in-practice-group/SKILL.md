@@ -1,6 +1,6 @@
 ---
 name: nachfolge-in-practice-group
-description: "Wenn es um Nachfolge in Praxisgruppen in Kanzlei Management geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Nachfolge in Praxisgruppen: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Nachfolge in Praxisgruppen

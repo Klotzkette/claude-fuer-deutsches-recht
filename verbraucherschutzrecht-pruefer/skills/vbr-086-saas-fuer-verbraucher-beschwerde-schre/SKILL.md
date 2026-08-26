@@ -1,6 +1,6 @@
 ---
 name: vbr-086-saas-fuer-verbraucher-beschwerde-schre
-description: "Wenn es um Saas Fuer Verbraucher Beschwerde Schre in Verbraucherschutzrecht Prüfer geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Saas für Verbraucher Beschwerde Schre: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt. Fachgebiet: Verbraucherschutzrecht Prüfer. Route: vbr-086-saas-fuer-verbraucher-beschwerde-schre."
 ---
 
 # Saas Fuer Verbraucher Beschwerde Schre

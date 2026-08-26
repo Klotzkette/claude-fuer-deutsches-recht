@@ -1,6 +1,6 @@
 ---
 name: aussenwirtschaft-cbam-lieferantendaten-emissionen
-description: "Wenn es um CBAM-Lieferantendaten: Emissionsermittlung beim Produzenten in Außenwirtschaft, Sanktionen, Zoll und CBAM geht: rechnet Schwellen, Beträge, Varianten und Kontrollannahmen durch; liefert eine Berechnungstabelle mit Schwellen, Annahmen und Kontrollfragen."
+description: "Für CBAM-Lieferantendaten: Emissionsermittlung beim Produzenten: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # CBAM-Lieferantendaten: Emissionsermittlung beim Produzenten

@@ -1,6 +1,6 @@
 ---
 name: bess-ppa-projektakte-rechtsmittel
-description: "Wenn es um PPA, Tolling und Merchant-Risk in Energierecht geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
+description: "Für PPA, Tolling und Merchant-Risk: ordnet Akte, Belege und Lücken; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # PPA, Tolling und Merchant-Risk

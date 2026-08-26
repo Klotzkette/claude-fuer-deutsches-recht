@@ -1,6 +1,6 @@
 ---
 name: cisg-dokumentenmatrix-und-lueckenliste
-description: "Wenn es um Cisg: Dokumentenmatrix, Lückenliste und Nachforderung in Fachanwalt Internationales Wirtschaftsrecht geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Dokumentenmatrix mit Nachforderungsliste."
+description: "Für Cisg: Dokumentenmatrix, Lückenliste und Nachforderung: ordnet Akte, Belege und Lücken; Ergebnis: Dokumentenmatrix mit Nachforderungsliste."
 ---
 
 # Cisg: Dokumentenmatrix, Lückenliste und Nachforderung

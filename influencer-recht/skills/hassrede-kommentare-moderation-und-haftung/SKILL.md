@@ -1,6 +1,6 @@
 ---
 name: hassrede-kommentare-moderation-und-haftung
-description: "Wenn es um Influencer-Recht: Hassrede, Kommentare, Moderation und Haftung in Influencer-Recht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
+description: "Für Influencer-Recht: Hassrede, Kommentare, Moderation und Haftung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Influencer-Recht: Hassrede, Kommentare, Moderation und Haftung

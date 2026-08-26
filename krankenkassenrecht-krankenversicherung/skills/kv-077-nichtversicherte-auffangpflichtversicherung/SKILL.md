@@ -1,6 +1,6 @@
 ---
 name: kv-077-nichtversicherte-auffangpflichtversicherung
-description: "Wenn es um Krankenversicherung: Nichtversicherte Auffangpflichtversicherung in Krankenkassenrecht und Krankenversicherung geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Krankenversicherung: Nichtversicherte Auffangpflichtversicherung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Krankenversicherung: Nichtversicherte Auffangpflichtversicherung

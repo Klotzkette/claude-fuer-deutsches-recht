@@ -1,6 +1,6 @@
 ---
 name: beweisrecht-stpo-im-owig-datenschutz
-description: "Wenn es um Beweisrecht im Datenschutz-OWiG in Datenschutz-Sanktionsverfahren und Verteidigung geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Beweislast- und Substantiierungsmatrix."
+description: "Für Beweisrecht im Datenschutz-OWiG: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Beweislast- und Substantiierungsmatrix. Fachgebiet: Datenschutz-Sanktionsverfahren und Verteidigung."
 ---
 
 # Beweisrecht im Datenschutz-OWiG

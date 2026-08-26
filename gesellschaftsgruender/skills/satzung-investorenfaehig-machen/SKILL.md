@@ -1,6 +1,6 @@
 ---
 name: satzung-investorenfaehig-machen
-description: "Wenn es um Satzung investorenfähig machen in gesellschaftsgründer — Gründungsassistent für deutsche geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Satzung investorenfähig machen: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 # Satzung investorenfähig machen
 

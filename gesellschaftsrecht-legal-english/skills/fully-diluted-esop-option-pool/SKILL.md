@@ -1,6 +1,6 @@
 ---
 name: fully-diluted-esop-option-pool
-description: "Wenn es um Fully Diluted, ESOP und Option Pool in Didaktisches Gesellschaftsrecht — English Business Terms geht: rechnet Schwellen, Beträge, Varianten und Kontrollannahmen durch; liefert eine Berechnungstabelle mit Schwellen, Annahmen und Kontrollfragen."
+description: "Für Fully Diluted, ESOP und Option Pool: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Fully Diluted, ESOP und Option Pool

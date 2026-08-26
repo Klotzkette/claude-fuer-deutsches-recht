@@ -1,6 +1,6 @@
 ---
 name: tracked-fristennotiz-naechster-schritt
-description: "Wenn es um Tracked: Fristennotiz und nächster Schritt in NDA-Abgleich geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. Auswahlstichwort: Tracked Fristennotiz Naechster Schritt; Arbeitsfeld: NDA-Abgleich."
+description: "Für Tracked: Fristennotiz und nächster Schritt: prüft Frist, Form, Zuständigkeit und Eilbedarf; Ergebnis: Fristen- und Risikoampel. Fachgebiet: NDA-Abgleich. Route: tracked-fristennotiz-naechster-schritt."
 ---
 
 # Tracked: Fristennotiz und nächster Schritt

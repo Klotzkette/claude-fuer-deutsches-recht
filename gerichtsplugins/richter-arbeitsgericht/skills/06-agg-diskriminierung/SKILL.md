@@ -1,6 +1,6 @@
 ---
 name: 06-agg-diskriminierung
-description: "Wenn es um 06 Agg Diskriminierung in Arbeitsgericht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für 06 Agg Diskriminierung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # 06 Agg Diskriminierung

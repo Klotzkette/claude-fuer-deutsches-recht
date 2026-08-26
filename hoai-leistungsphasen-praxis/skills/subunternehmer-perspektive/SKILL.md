@@ -1,6 +1,6 @@
 ---
 name: subunternehmer-perspektive
-description: "Wenn es um Subunternehmer- und Fachplanerperspektive in HOAI Leistungsphasen Praxis geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen."
+description: "Für Subunternehmer- und Fachplanerperspektive: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Subunternehmer- und Fachplanerperspektive

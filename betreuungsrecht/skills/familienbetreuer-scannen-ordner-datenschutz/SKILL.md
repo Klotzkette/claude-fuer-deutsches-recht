@@ -1,6 +1,6 @@
 ---
 name: familienbetreuer-scannen-ordner-datenschutz
-description: "Wenn es um Familienbetreuer: Scannen, Ordner, Datenschutz in Betreuungsrecht geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen."
+description: "Für Familienbetreuer: Scannen, Ordner, Datenschutz: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Schnittstellenkarte mit Zuständigkeits- und Nachweisfragen."
 ---
 
 # Familienbetreuer: Scannen, Ordner, Datenschutz

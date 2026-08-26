@@ -1,6 +1,6 @@
 ---
 name: schriftliche-beschlussfassung
-description: "Wenn es um Beschluss im schriftlichen Verfahren / Umlaufbeschluss in Gesellschaftsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Beschluss im schriftlichen Verfahren / Umlaufbeschluss: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Beschluss im schriftlichen Verfahren / Umlaufbeschluss

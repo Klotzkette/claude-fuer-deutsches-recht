@@ -1,6 +1,6 @@
 ---
 name: gbr-mopeg-treuepflicht
-description: "Wenn es um Gbr Mopeg Treuepflicht in Gesellschaftsrechtliche Treuepflicht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen."
+description: "Für Gbr Mopeg Treuepflicht: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Schnittstellenkarte mit Zuständigkeits- und Nachweisfragen."
 ---
 
 # Gbr Mopeg Treuepflicht

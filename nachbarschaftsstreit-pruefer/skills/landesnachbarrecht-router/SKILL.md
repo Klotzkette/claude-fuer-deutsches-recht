@@ -1,6 +1,6 @@
 ---
 name: landesnachbarrecht-router
-description: "Wenn es um Landesnachbarrecht-Router in Nachbarschaftsstreit-Prüfer geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Landesnachbarrecht-Router: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Landesnachbarrecht-Router

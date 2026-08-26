@@ -1,6 +1,6 @@
 ---
 name: passbeschaffung-zumutbarkeit
-description: "Wenn es um Passbeschaffung Zumutbarkeit: Fachmodul im Migrationsrecht in Fachanwalt Migrationsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Passbeschaffung Zumutbarkeit: Fachmodul im Migrationsrecht: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Passbeschaffung Zumutbarkeit: Fachmodul im Migrationsrecht
@@ -38,3 +38,7 @@ description: "Wenn es um Passbeschaffung Zumutbarkeit: Fachmodul im Migrationsre
 - Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei prüfbarer Quelle ausgeben.
 - Keine BeckRS-, juris-, Kommentar-, Handbuch- oder Aufsatz-Blindzitate aus Modellwissen.
 - Annahmen, fehlende Unterlagen, Beweisrisiken und Fristen ausdrücklich markieren.
+
+## Vertiefung bei Bedarf
+
+- Bei `spezial-passbeschaffung-zumutbarkeit` beziehungsweise Passbeschaffung Zumutbarkeit: [die zusätzliche Vertiefung laden](./references/vertiefung-spezial-passbeschaffung-zumutbarkeit.md).

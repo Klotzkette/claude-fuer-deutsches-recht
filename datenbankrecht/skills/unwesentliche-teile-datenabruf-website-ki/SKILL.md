@@ -1,6 +1,6 @@
 ---
 name: unwesentliche-teile-datenabruf-website-ki
-description: "Wenn es um Unwesentliche Teile — wiederholte und systematische Entnahme als Verletzung in Datenbankrecht und Datenbankherstellerrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Unwesentliche Teile — wiederholte und systematische Entnahme als Verletzung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Unwesentliche Teile — wiederholte und systematische Entnahme als Verletzung

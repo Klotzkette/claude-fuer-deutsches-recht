@@ -1,6 +1,6 @@
 ---
 name: auftragsverarbeitungsvertrag-pruefen
-description: "Wenn es um Auftragsverarbeitungsvertrag prüfen in diesem Spezialbereich geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Beweislast- und Substantiierungsmatrix."
+description: "Für Auftragsverarbeitungsvertrag prüfen: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Auftragsverarbeitungsvertrag prüfen

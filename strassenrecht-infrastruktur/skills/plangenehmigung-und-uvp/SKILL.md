@@ -1,6 +1,6 @@
 ---
 name: plangenehmigung-und-uvp
-description: "Wenn es um Plangenehmigung Und Uvp in Straßenrecht und Infrastruktur geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Plangenehmigung und Uvp: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Plangenehmigung Und Uvp

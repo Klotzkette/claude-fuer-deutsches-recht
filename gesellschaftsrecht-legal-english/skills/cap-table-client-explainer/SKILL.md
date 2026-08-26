@@ -1,6 +1,6 @@
 ---
 name: cap-table-client-explainer
-description: "Wenn es um Cap Table statt Gesellschafterliste in Didaktisches Gesellschaftsrecht — English Business Terms geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert einen Einreichungsplan mit Form-, Portal- und Nachweischeck."
+description: "Für Cap Table statt Gesellschafterliste: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Cap Table statt Gesellschafterliste

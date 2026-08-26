@@ -1,6 +1,6 @@
 ---
 name: steuer-umsatzsteuer
-description: "Wenn es um Umsatzsteuer im Handelsvertreterverhältnis nach UStG in Handelsvertreterrecht und Vertriebsverträge geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Umsatzsteuer im Handelsvertreterverhältnis nach UStG: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Schnittstellenkarte mit Zuständigkeits- und Nachweisfragen."
 ---
 
 # Umsatzsteuer im Handelsvertreterverhältnis nach UStG

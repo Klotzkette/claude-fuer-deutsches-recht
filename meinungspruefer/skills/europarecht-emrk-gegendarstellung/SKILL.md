@@ -1,6 +1,6 @@
 ---
 name: europarecht-emrk-gegendarstellung
-description: "Wenn es um Europarecht: EMRK und Grundrechtecharta in Meinungsprüfer geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Europarecht: EMRK und Grundrechtecharta: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Schnittstellenkarte mit Zuständigkeits- und Nachweisfragen."
 ---
 
 # Europarecht: EMRK und Grundrechtecharta

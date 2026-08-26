@@ -1,6 +1,6 @@
 ---
 name: onboarding-verzinsung
-description: "Wenn es um Onboarding Verzinsung in Steuerrecht – Steuerberater und Anwälte geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Onboarding Verzinsung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Steuerliche Verzinsung — § 233a AO Nachzahlungs- und Erstattungszinsen sowie Hinterziehungs- und Aussetzungszinsen

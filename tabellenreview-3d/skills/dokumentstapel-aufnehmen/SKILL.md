@@ -1,6 +1,6 @@
 ---
 name: dokumentstapel-aufnehmen
-description: "Wenn es um /tabellenreview-3d:dokumentstapel-aufnehmen in Tabellenreview 3D geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
+description: "Für /tabellenreview-3d:dokumentstapel-aufnehmen: ordnet Akte, Belege und Lücken; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # /tabellenreview-3d:dokumentstapel-aufnehmen

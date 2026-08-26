@@ -1,6 +1,6 @@
 ---
 name: insolvenz-retail-international-expansion
-description: "Wenn es um Insolvenz Retail Stock in fashion-law-moderecht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen."
+description: "Für Insolvenz Retail Stock: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Schnittstellenkarte mit Zuständigkeits- und Nachweisfragen."
 ---
 
 # Insolvenz Retail Stock

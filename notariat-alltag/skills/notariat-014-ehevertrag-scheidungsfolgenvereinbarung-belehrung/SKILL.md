@@ -1,6 +1,6 @@
 ---
 name: notariat-014-ehevertrag-scheidungsfolgenvereinbarung-belehrung
-description: "Wenn es um Notariat 014 Ehevertrag Scheidungsfolgenvereinbarung Belehrung in Notariat im Alltag geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Notariat 014 Ehevertrag Scheidungsfolgenvereinbarung Belehrung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Notariat im Alltag: Ehevertrag Scheidungsfolgenvereinbarung Versorgungsausgleich und Belehrung

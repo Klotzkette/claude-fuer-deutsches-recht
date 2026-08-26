@@ -1,6 +1,6 @@
 ---
 name: bwbes-neu-005-erschwerniszulagen-militaerischer-dienst
-description: "Wenn es um Erschwerniszulagen für militärischen Dienst in Bundeswehrrecht und Wehrrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Erschwerniszulagen für militärischen Dienst: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Schnittstellenkarte mit Zuständigkeits- und Nachweisfragen."
 ---
 
 # Erschwerniszulagen für militärischen Dienst

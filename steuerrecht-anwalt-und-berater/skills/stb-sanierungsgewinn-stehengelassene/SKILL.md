@@ -1,6 +1,6 @@
 ---
 name: stb-sanierungsgewinn-stehengelassene
-description: "Wenn es um Sanierungsgewinn — frühzeitige Mandantenwarnung in Steuerrecht – Steuerberater und Anwälte geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik. Auswahlstichwort: Stb Sanierungsgewinn Stehengelassene; Arbeitsfeld: Steuerrecht – Steuerberater und Anwälte."
+description: "Für Sanierungsgewinn — frühzeitige Mandantenwarnung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Sanierungsgewinn — frühzeitige Mandantenwarnung

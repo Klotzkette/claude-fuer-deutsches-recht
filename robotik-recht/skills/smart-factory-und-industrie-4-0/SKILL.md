@@ -1,6 +1,6 @@
 ---
 name: smart-factory-und-industrie-4-0
-description: "Wenn es um Smart Factory und Industrie 4.0 in robotik-recht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. Auswahlstichwort: Smart Factory Und Industrie 4 0; Arbeitsfeld: robotik-recht."
+description: "Für Smart Factory und Industrie 4.0: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Smart Factory und Industrie 4.0

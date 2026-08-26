@@ -1,6 +1,6 @@
 ---
 name: 09-vereins-und-genossenschaftsregister
-description: "Wenn es um 09 Vereins und Genossenschaftsregister in Handelsregisterrichter am Amtsgericht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert einen Einreichungsplan mit Form-, Portal- und Nachweischeck."
+description: "Für 09 Vereins und Genossenschaftsregister: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Einreichungsplan mit Form- und Nachweischeck."
 ---
 
 # 09 Vereins und Genossenschaftsregister

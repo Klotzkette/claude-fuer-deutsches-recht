@@ -1,6 +1,6 @@
 ---
 name: industrieanlage-einwendung-bauen
-description: "Wenn es um Industrieanlage Einwendung Bauen in Umweltschutzverband Verbandsklage geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
+description: "Für Industrieanlage Einwendung Bauen: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Industrieanlage Einwendung Bauen

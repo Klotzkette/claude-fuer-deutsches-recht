@@ -1,6 +1,6 @@
 ---
 name: oertlichen-risikoampel-und-gegenargumente
-description: "Wenn es um Oertlichen: Risikoampel, Gegenargumente und Verteidigungslinien in Normenkontrolle Bauleitplanung — Paragraf 47 VwGO geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten. Auswahlstichwort: Oertlichen Risikoampel Und Gegenargumente; Arbeitsfeld: Normenkontrolle Bauleitplanung — Paragraf 47 VwGO."
+description: "Für Örtlichen: Risikoampel, Gegenargumente und Verteidigungslinien: prüft Ergebnis, Beweislast und Gegenposition; Ergebnis: Fristen- und Risikoampel."
 ---
 
 # Oertlichen: Risikoampel, Gegenargumente und Verteidigungslinien

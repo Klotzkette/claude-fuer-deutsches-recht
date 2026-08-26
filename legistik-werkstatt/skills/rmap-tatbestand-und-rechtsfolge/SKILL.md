@@ -1,6 +1,6 @@
 ---
 name: rmap-tatbestand-und-rechtsfolge
-description: "Wenn es um Tatbestand und Rechtsfolge als Knoten modellieren in Legistik-Werkstatt geht: rechnet Schwellen, Beträge, Varianten und Kontrollannahmen durch; liefert eine Berechnungstabelle mit Schwellen, Annahmen und Kontrollfragen."
+description: "Für Tatbestand und Rechtsfolge als Knoten modellieren: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Tatbestands- oder Anspruchsmatrix."
 ---
 
 # Tatbestand und Rechtsfolge als Knoten modellieren

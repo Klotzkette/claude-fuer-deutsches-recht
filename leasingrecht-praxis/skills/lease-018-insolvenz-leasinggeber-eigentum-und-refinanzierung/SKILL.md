@@ -1,6 +1,6 @@
 ---
 name: lease-018-insolvenz-leasinggeber-eigentum-und-refinanzierung
-description: "Wenn es um Leasingrecht: Insolvenz Leasinggeber Eigentum und Refinanzierung in Leasingrecht Praxis geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Leasingrecht: Insolvenz Leasinggeber Eigentum und Refinanzierung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Leasingrecht: Insolvenz Leasinggeber Eigentum und Refinanzierung

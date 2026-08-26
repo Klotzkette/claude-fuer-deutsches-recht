@@ -1,6 +1,6 @@
 ---
 name: handeln-im-fremden-namen-offenkundigkeit
-description: "Wenn es um Handeln im fremden Namen und Offenkundigkeit — Paragraf 164 BGB in BGB AT Prüfer geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Handeln im fremden Namen und Offenkundigkeit — Paragraf 164 BGB: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Handeln im fremden Namen und Offenkundigkeit — § 164 BGB

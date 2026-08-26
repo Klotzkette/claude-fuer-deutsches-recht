@@ -1,6 +1,6 @@
 ---
 name: plattform-agb-lesen
-description: "Wenn es um Marketing E-Commerce und Plattformen: Übersetzt plattform-agb in Solo-Selbstständige Praxis geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Marketing E-Commerce und Plattformen: Übersetzt plattform-AGB: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Marketing E-Commerce und Plattformen: Übersetzt plattform-agb

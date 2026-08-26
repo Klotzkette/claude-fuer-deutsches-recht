@@ -1,6 +1,6 @@
 ---
 name: ifg-047-ifggebv-gebuehren-antrag-formulieren
-description: "Wenn es um Ifggebv Gebuehren Antrag Formulieren in Informationsfreiheit und Presseauskunft geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
+description: "Für Ifggebv Gebühren Antrag Formulieren: erstellt Entwurf mit Antrag, Beweis und Anlagen; Ergebnis: Schriftsatz mit Begründungs- und Anlagenlogik."
 ---
 
 # Ifggebv Gebuehren Antrag Formulieren

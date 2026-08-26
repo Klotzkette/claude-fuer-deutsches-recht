@@ -1,6 +1,6 @@
 ---
 name: richtlinien-skelett-update-schatten
-description: "Wenn es um Richtlinien-Skelett erzeugen in diesem Spezialbereich geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Beweislast- und Substantiierungsmatrix."
+description: "Für Richtlinien-Skelett erzeugen: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Richtlinien-Skelett erzeugen

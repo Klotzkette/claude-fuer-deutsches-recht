@@ -1,6 +1,6 @@
 ---
 name: dokumentenmatrix-akteneinsicht-vorlage-und-luecken
-description: "Wenn es um Dokumentenmatrix vor Akteneinsicht in Datenschutz-Sanktionsverfahren und Verteidigung geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Chronologie mit Belegmatrix und Widerspruchsliste."
+description: "Für Dokumentenmatrix vor Akteneinsicht: ordnet Akte, Belege und Lücken; Ergebnis: Dokumentenmatrix mit Nachforderungsliste."
 ---
 
 # Dokumentenmatrix vor Akteneinsicht

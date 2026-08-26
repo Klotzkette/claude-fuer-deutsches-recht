@@ -1,6 +1,6 @@
 ---
 name: mfn-side-letter
-description: "Wenn es um MFN und Side Letter in Venture Capital Geber geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für MFN und Side Letter: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # MFN und Side Letter

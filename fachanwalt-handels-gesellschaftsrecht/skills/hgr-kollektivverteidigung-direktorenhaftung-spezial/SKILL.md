@@ -1,6 +1,6 @@
 ---
 name: hgr-kollektivverteidigung-direktorenhaftung-spezial
-description: "Wenn es um Hgr Kollektivverteidigung Direktorenhaftung Spezial in Fachanwalt Handels- und Gesellschaftsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Hgr Kollektivverteidigung Direktorenhaftung Spezial: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Spezialfall Kollektivverteidigung in Direktorenhaftungsfaellen: § 116 AktG, gesamtschuldnerische Haftung Vorstand, Koordinierung Verteidigung, D-and-O-Versicherung

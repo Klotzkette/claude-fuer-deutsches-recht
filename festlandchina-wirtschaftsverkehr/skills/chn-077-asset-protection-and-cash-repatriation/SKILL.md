@@ -1,6 +1,6 @@
 ---
 name: chn-077-asset-protection-and-cash-repatriation
-description: "Wenn es um Asset Protection And Cash Repatriation in China-Wirtschaftsverkehr geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Asset Protection And Cash Repatriation: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Asset Protection And Cash Repatriation

@@ -1,6 +1,6 @@
 ---
 name: einspruch-67-owig-frist-und-form
-description: "Wenn es um Einspruch Paragraf 67 OWiG Frist und Form in Datenschutz-Sanktionsverfahren und Verteidigung geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Einspruch Paragraf 67 OWiG Frist und Form: prüft Frist, Form, Zuständigkeit und Eilbedarf; Ergebnis: Fristen- und Risikoampel. Fachgebiet: Datenschutz-Sanktionsverfahren und Verteidigung."
 ---
 
 # Einspruch § 67 OWiG Frist und Form

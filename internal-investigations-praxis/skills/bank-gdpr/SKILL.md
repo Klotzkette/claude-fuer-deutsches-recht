@@ -1,6 +1,6 @@
 ---
 name: bank-gdpr
-description: "Wenn es um BaFin-Prüfungsfeststellungen und Bankregulatorik in Internal Investigations Praxis geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
+description: "Für BaFin-Prüfungsfeststellungen und Bankregulatorik: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # BaFin-Prüfungsfeststellungen und Bankregulatorik

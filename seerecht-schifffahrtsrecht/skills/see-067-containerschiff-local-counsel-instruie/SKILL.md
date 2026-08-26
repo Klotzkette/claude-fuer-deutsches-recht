@@ -1,6 +1,6 @@
 ---
 name: see-067-containerschiff-local-counsel-instruie
-description: "Wenn es um Containerschiff Local Counsel Instruie in See- und Schifffahrtsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Containerschiff Local Counsel Instruie: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Containerschiff Local Counsel Instruie

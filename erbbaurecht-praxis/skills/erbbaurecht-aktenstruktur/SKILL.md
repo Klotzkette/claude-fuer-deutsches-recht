@@ -1,6 +1,6 @@
 ---
 name: erbbaurecht-aktenstruktur
-description: "Wenn es um Erbbauakte strukturieren in Erbbaurecht Praxis geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
+description: "Für Erbbauakte strukturieren: ordnet Akte, Belege und Lücken; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Erbbauakte strukturieren

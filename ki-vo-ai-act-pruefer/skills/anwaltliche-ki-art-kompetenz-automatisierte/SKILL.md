@@ -1,6 +1,6 @@
 ---
 name: anwaltliche-ki-art-kompetenz-automatisierte
-description: "Wenn es um Anwaltliche digitale Werkzeuge-Nutzung und Quellencheck in europäischem Technikregulierungsrecht geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert eine Gegenprüfung mit Fehler-, Beweis- und Fristencheck. Auswahlstichwort: Anwaltliche Ki Art Kompetenz Automatisierte; Arbeitsfeld: europäischem Technikregulierungsrecht."
+description: "Für Anwaltliche digitale Werkzeuge-Nutzung und Quellencheck: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt. Fachgebiet: europäischem Technikregulierungsrecht. Route: anwaltliche-ki-art-kompetenz-automatisierte."
 ---
 
 # Anwaltliche KI-Nutzung und Quellencheck

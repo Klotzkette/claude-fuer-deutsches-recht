@@ -1,6 +1,6 @@
 ---
 name: social-media-kanzleimarketing-rechtsprechungscheck
-description: "Wenn es um Social Media Kanzleimarketing Rechtsprechungscheck in Berufsrecht Anwälte geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Gegenprüfung mit Fehler-, Beweis- und Fristencheck."
+description: "Für Social Media Kanzleimarketing Rechtsprechungscheck: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Anwälte: social media kanzleimarketing - Rechtsprechungscheck, stärkste Gegenansicht und Red-Team-Korrektur

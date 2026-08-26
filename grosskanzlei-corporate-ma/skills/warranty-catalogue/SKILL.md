@@ -1,6 +1,6 @@
 ---
 name: warranty-catalogue
-description: "Wenn es um Warranty Catalogue Negotiation in Großkanzlei Corporate/M&A geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
+description: "Für Warranty Catalogue Negotiation: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt. Fachgebiet: Großkanzlei Corporate/M&A. Route: warranty-catalogue."
 ---
 
 # Warranty Catalogue Negotiation

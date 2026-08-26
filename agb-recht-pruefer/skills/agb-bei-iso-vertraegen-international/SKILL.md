@@ -1,6 +1,6 @@
 ---
 name: agb-bei-iso-vertraegen-international
-description: "Wenn es um Agb Bei Iso Vertraegen International in AGB-Recht-Prüfer geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für AGB bei Iso Verträgen International: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Schnittstellenkarte mit Zuständigkeits- und Nachweisfragen."
 ---
 
 # Agb Bei Iso Vertraegen International

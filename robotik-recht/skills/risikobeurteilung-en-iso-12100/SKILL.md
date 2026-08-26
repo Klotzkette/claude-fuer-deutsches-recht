@@ -1,6 +1,6 @@
 ---
 name: risikobeurteilung-en-iso-12100
-description: "Wenn es um Risikobeurteilung EN ISO 12100 in robotik-recht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Risikobeurteilung EN ISO 12100: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Schnittstellenkarte mit Zuständigkeits- und Nachweisfragen."
 ---
 
 # Risikobeurteilung EN ISO 12100

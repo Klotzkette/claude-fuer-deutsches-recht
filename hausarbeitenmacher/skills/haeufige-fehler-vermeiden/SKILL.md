@@ -1,6 +1,6 @@
 ---
 name: haeufige-fehler-vermeiden
-description: "Wenn es um Häufige Fehler vermeiden — Top-20 in hausarbeitenmacher — Didaktisches Plugin für juristische geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Häufige Fehler vermeiden — Top-20: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Schnittstellenkarte mit Zuständigkeits- und Nachweisfragen."
 ---
 
 # Häufige Fehler vermeiden — Top-20

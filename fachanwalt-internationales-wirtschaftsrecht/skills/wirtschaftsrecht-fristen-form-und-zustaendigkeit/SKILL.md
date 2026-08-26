@@ -1,6 +1,6 @@
 ---
 name: wirtschaftsrecht-fristen-form-und-zustaendigkeit
-description: "Wenn es um Wirtschaftsrecht: Fristen, Form, Zuständigkeit und Rechtsweg in Fachanwalt Internationales Wirtschaftsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Wirtschaftsrecht: Fristen, Form, Zuständigkeit und Rechtsweg: prüft Frist, Form, Zuständigkeit und Eilbedarf; Ergebnis: Fristen- und Risikoampel."
 ---
 
 # Wirtschaftsrecht: Fristen, Form, Zuständigkeit und Rechtsweg

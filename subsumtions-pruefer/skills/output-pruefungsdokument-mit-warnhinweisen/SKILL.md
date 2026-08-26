@@ -1,6 +1,6 @@
 ---
 name: output-pruefungsdokument-mit-warnhinweisen
-description: "Wenn es um Output: Prüfungsdokument mit Warnhinweisen in Subsumtions-Prüfer geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen."
+description: "Für Output: Prüfungsdokument mit Warnhinweisen: ordnet Akte, Belege und Lücken; Ergebnis: Tatbestands- oder Anspruchsmatrix."
 ---
 
 # Output: Prüfungsdokument mit Warnhinweisen

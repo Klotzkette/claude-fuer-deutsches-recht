@@ -1,6 +1,6 @@
 ---
 name: compliance-regelsatz-erstellen
-description: "Wenn es um Compliance-Regelsatz erstellen in diesem Spezialbereich geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Beweislast- und Substantiierungsmatrix."
+description: "Für Compliance-Regelsatz erstellen: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Compliance-Regelsatz erstellen

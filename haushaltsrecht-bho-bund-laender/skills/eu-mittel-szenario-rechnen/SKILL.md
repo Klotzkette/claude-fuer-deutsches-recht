@@ -1,6 +1,6 @@
 ---
 name: eu-mittel-szenario-rechnen
-description: "Wenn es um Eu Mittel Szenario Rechnen in Haushaltsrecht BHO Bund und Länder geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Eu Mittel Szenario Rechnen: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Schnittstellenkarte mit Zuständigkeits- und Nachweisfragen."
 ---
 
 # Eu Mittel Szenario Rechnen

@@ -1,6 +1,6 @@
 ---
 name: information-exchange-informationsaustausch
-description: "Wenn es um Informationsaustausch Safe Harbor in Kartellrecht — Marktabgrenzungsprüfung geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Informationsaustausch Safe Harbor: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Informationsaustausch Safe Harbor

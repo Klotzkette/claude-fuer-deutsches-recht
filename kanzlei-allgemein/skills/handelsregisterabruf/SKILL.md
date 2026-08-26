@@ -1,6 +1,6 @@
 ---
 name: handelsregisterabruf
-description: "Wenn es um Handelsregisterabruf in Kanzlei-Allgemein geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Handelsregisterabruf: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Einreichungsplan mit Form- und Nachweischeck. Fachgebiet: Kanzlei-Allgemein."
 ---
 
 # Handelsregisterabruf

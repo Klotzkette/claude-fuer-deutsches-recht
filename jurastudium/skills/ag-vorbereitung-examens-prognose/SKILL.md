@@ -1,6 +1,6 @@
 ---
 name: ag-vorbereitung-examens-prognose
-description: "Wenn es um AG/Seminar-Vorbereitung (Cold-Call-Prep) in Jurastudium geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für AG/Seminar-Vorbereitung (Cold-Call-Prep): ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # AG/Seminar-Vorbereitung (Cold-Call-Prep)

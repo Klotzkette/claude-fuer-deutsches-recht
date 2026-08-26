@@ -1,6 +1,6 @@
 ---
 name: ausweisung-paragrafe-53-55-aufenthg
-description: "Wenn es um Ausweisung Paragrafen 53 55 AufenthG in Fachanwalt Migrationsrecht geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Ausweisung Paragrafen 53 55 AufenthG: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Ausweisung §§ 53 55 AufenthG

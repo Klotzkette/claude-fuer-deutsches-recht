@@ -1,6 +1,6 @@
 ---
 name: fachanwalt-gewerblicher-rechtsschutz-abmahnung-vergleich-wipo
-description: "Wenn es um Abmahnungs-Vergleich / WIPO-Mediation im gewerblichen Rechtsschutz in Fachanwalt Gewerblicher Rechtsschutz geht: entwickelt Verhandlungsziel, Vergleichskorridor und Eskalationspfad; liefert eine Verhandlungs- oder Eskalationslinie mit Optionen."
+description: "Für Abmahnungs-Vergleich / WIPO-Mediation im gewerblichen Rechtsschutz: entwickelt Ziel, Vergleich und Eskalation; Ergebnis: Verhandlungs- oder Eskalationslinie."
 ---
 
 # Abmahnungs-Vergleich / WIPO-Mediation im gewerblichen Rechtsschutz

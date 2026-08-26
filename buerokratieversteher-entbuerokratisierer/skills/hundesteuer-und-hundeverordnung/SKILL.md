@@ -1,6 +1,6 @@
 ---
 name: hundesteuer-und-hundeverordnung
-description: "Wenn es um Hundesteuer und Hundeverordnung in Bürokratieversteher und Entbürokratisierer geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Hundesteuer und Hundeverordnung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Schnittstellenkarte mit Zuständigkeits- und Nachweisfragen."
 ---
 
 # Hundesteuer und Hundeverordnung

@@ -1,6 +1,6 @@
 ---
 name: vwgo-schriftsatz-brief-memo
-description: "Wenn es um VwGO: Schriftsatz-, Brief- und Memo-Bausteine in Normenkontrolle Bauleitplanung — Paragraf 47 VwGO geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert eine Fristen- und Risikoampel mit Sofortschritten. Auswahlstichwort: Vwgo Schriftsatz Brief Memo; Arbeitsfeld: Normenkontrolle Bauleitplanung — Paragraf 47 VwGO."
+description: "Für VwGO: Schriftsatz-, Brief- und Memo-Bausteine: erstellt Entwurf mit Antrag, Beweis und Anlagen; Ergebnis: Schriftsatz mit Begründungs- und Anlagenlogik."
 ---
 
 # VwGO: Schriftsatz-, Brief- und Memo-Bausteine

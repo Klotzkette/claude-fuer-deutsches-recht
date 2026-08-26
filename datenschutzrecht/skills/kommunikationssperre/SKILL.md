@@ -1,6 +1,6 @@
 ---
 name: kommunikationssperre
-description: "Wenn es um Kommunikationssperre nach Datenschutzvorfall in Datenschutzrecht geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
+description: "Für Kommunikationssperre nach Datenschutzvorfall: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Kommunikationssperre nach Datenschutzvorfall
@@ -39,3 +39,7 @@ Wir prüfen derzeit einen Vorfall im Bereich [Bezeichnung]. Datenschutz und Sich
 - `dsv-meldung-art-33-pflichtangaben` deckt die Behördenmeldung ab; bei Bedarf zusätzlich ziehen.
 - `dsv-benachrichtigung-art-34-betroffene` deckt die Benachrichtigung Betroffener ab.
 - `dsv-bussgeldverteidigung-art-83` und `dsv-schadensersatz-art-82` decken die anwaltliche Nachbearbeitung ab.
+
+## Vertiefung bei Bedarf
+
+- Bei `dsv-kommunikationssperre` beziehungsweise Etabliert eine interne und externe Kommunikationssperre nach einem Datenschutzvorfall, um voreilige Aussagen, Beweismittelvernichtung und Sammelklagenrisiken zu vermeiden: [die zusätzliche Vertiefung laden](./references/vertiefung-dsv-kommunikationssperre.md).

@@ -1,6 +1,6 @@
 ---
 name: denkmalschutz-bayern-baydschg
-description: "Wenn es um Denkmalschutz Bayern (BayDSchG) in Denkmalschutzrecht — Bundesweiter Rahmen und sechzehn geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Denkmalschutz Bayern (BayDSchG): ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Denkmalschutz Bayern (BayDSchG)

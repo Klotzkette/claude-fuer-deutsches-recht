@@ -1,6 +1,6 @@
 ---
 name: lieferantenaudit-china-methodik-gegen-window-dressing
-description: "Wenn es um Lieferantenaudit China: Methodik gegen Window Dressing in China-Wirtschaftsverkehr geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Lieferantenaudit China: Methodik gegen Window Dressing: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Lieferantenaudit China: Methodik gegen Window Dressing

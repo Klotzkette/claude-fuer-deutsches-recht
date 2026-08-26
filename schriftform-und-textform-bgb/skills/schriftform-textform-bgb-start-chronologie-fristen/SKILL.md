@@ -1,6 +1,6 @@
 ---
 name: schriftform-textform-bgb-start-chronologie-fristen
-description: "Wenn es um Schriftform und Textform im BGB — Allgemein in Schriftform und Textform im BGB geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Chronologie mit Belegmatrix und Widerspruchsliste."
+description: "Für Schriftform und Textform im BGB — Allgemein: prüft Frist, Form, Zuständigkeit und Eilbedarf; Ergebnis: Chronologie mit Beleg- und Widerspruchsmatrix."
 ---
 
 # Schriftform und Textform im BGB — Allgemein

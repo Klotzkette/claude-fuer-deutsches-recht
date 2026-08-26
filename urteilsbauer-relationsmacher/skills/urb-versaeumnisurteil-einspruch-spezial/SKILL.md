@@ -1,6 +1,6 @@
 ---
 name: urb-versaeumnisurteil-einspruch-spezial
-description: "Wenn es um Urb: Versaeumnisurteil Einspruch in Urteilsbauer und Relationsmacher geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Urb: Versäumnisurteil Einspruch: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Schnittstellenkarte mit Zuständigkeits- und Nachweisfragen."
 ---
 
 # Urb: Versaeumnisurteil Einspruch

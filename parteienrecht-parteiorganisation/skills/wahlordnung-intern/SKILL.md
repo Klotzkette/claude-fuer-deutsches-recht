@@ -1,6 +1,6 @@
 ---
 name: wahlordnung-intern
-description: "Wenn es um Interne Wahlordnung in Parteienrecht und Parteiorganisation geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. Auswahlstichwort: Wahlordnung Intern; Arbeitsfeld: Parteienrecht und Parteiorganisation."
+description: "Für Interne Wahlordnung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt. Fachgebiet: Parteienrecht und Parteiorganisation. Route: wahlordnung-intern."
 ---
 
 # Interne Wahlordnung

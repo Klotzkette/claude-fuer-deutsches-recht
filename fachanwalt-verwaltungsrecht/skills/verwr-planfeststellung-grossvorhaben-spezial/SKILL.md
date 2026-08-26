@@ -1,6 +1,6 @@
 ---
 name: verwr-planfeststellung-grossvorhaben-spezial
-description: "Wenn es um Verwr Planfeststellung Grossvorhaben Spezial in Fachanwalt Verwaltungsrecht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
+description: "Für Verwr Planfeststellung Grossvorhaben Spezial: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Spezialfall Planfeststellung Grossvorhaben: §§ 72 ff

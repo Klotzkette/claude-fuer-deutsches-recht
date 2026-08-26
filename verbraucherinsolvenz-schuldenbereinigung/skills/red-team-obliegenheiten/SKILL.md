@@ -1,6 +1,6 @@
 ---
 name: red-team-obliegenheiten
-description: "Wenn es um Red Team Obliegenheiten in Verbraucherinsolvenz und Schuldenbereinigung geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert eine Gegenprüfung mit Fehler-, Beweis- und Fristencheck."
+description: "Für Red Team Obliegenheiten: prüft Ergebnis, Beweislast und Gegenposition; Ergebnis: Gegenprüfung mit Beweis- und Fristencheck."
 ---
 
 # Red-Team der Wohlverhaltensphase: Umzug, Job, Erbschaft, Sonderzahlung, neue Schulden und Informationspflicht.

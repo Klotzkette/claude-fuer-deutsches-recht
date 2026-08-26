@@ -1,6 +1,6 @@
 ---
 name: verl-009-buchpreisbindung-ladenpreis-festsetzen
-description: "Wenn es um Verlagsrecht: Buchpreisbindung Ladenpreis festsetzen in Verlagsrecht und Buchpreisbindung geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Verlagsrecht: Buchpreisbindung Ladenpreis festsetzen: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Verlagsrecht: Buchpreisbindung Ladenpreis festsetzen

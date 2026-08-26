@@ -1,6 +1,6 @@
 ---
 name: immo-share-deal-grunderwerbsteuer
-description: "Wenn es um Share-Deal GrEStG in Immobilienrechtspraxis geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Share-Deal GrEStG: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Schnittstellenkarte mit Zuständigkeits- und Nachweisfragen."
 ---
 
 # Share-Deal GrEStG

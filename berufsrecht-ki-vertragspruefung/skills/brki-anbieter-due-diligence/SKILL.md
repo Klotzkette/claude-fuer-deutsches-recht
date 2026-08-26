@@ -1,6 +1,6 @@
 ---
 name: brki-anbieter-due-diligence
-description: "Wenn es um BRKI: Anbieter-Due-Diligence in anwaltlichem Berufsrecht und Vertragsprüfung geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen."
+description: "Für BRKI: Anbieter-Due-Diligence: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # BRKI: Anbieter-Due-Diligence

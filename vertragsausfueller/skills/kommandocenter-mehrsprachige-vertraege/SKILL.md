@@ -1,6 +1,6 @@
 ---
 name: kommandocenter-mehrsprachige-vertraege
-description: "Wenn es um Kommandocenter in Vertragsausfüller geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
+description: "Für Kommandocenter: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt. Fachgebiet: Vertragsausfüller."
 ---
 
 # Kommandocenter

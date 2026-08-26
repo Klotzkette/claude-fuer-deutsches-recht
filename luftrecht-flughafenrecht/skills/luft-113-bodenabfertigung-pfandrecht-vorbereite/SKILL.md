@@ -1,6 +1,6 @@
 ---
 name: luft-113-bodenabfertigung-pfandrecht-vorbereite
-description: "Wenn es um Bodenabfertigung Pfandrecht Vorbereite in Luftrecht und Flughafenrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Bodenabfertigung Pfandrecht Vorbereite: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Bodenabfertigung Pfandrecht Vorbereite

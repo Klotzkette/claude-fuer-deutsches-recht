@@ -1,6 +1,6 @@
 ---
 name: gruen-fehlerkatalog
-description: "Wenn es um Gruen Fehlerkatalog in NDA-Abgleich geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Grün Fehlerkatalog: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Gruen Fehlerkatalog

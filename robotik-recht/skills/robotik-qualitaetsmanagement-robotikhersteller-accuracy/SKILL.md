@@ -1,6 +1,6 @@
 ---
 name: robotik-qualitaetsmanagement-robotikhersteller-accuracy
-description: "Wenn es um QM Robotikhersteller in robotik-recht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Gegenprüfung mit Fehler-, Beweis- und Fristencheck."
+description: "Für QM Robotikhersteller: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Gegenprüfung mit Beweis- und Fristencheck. Fachgebiet: robotik-recht. Route: robotik-qualitaetsmanagement-robotikhersteller-accuracy."
 ---
 
 # QM Robotikhersteller

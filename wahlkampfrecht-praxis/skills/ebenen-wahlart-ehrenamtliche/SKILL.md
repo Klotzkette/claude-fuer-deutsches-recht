@@ -1,6 +1,6 @@
 ---
 name: ebenen-wahlart-ehrenamtliche
-description: "Wenn es um Ebenen Und Wahlart Router in Wahlkampfrecht Praxis geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Ebenen und Wahlart Router: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Ebenen Und Wahlart Router

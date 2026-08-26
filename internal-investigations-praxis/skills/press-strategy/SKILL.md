@@ -1,6 +1,6 @@
 ---
 name: press-strategy
-description: "Wenn es um Pressestrategie und Krisenkommunikation in Internal Investigations Praxis geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Verhandlungs- oder Eskalationslinie mit Optionen."
+description: "Für Pressestrategie und Krisenkommunikation: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Pressestrategie und Krisenkommunikation

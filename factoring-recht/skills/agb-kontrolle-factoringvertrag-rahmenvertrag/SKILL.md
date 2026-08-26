@@ -1,6 +1,6 @@
 ---
 name: agb-kontrolle-factoringvertrag-rahmenvertrag
-description: "Wenn es um AGB Kontrolle Factoringklauseln B2B in Factoring-Recht geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für AGB Kontrolle Factoringklauseln B2B: prüft Ergebnis, Beweislast und Gegenposition; Ergebnis: Gegenprüfung mit Beweis- und Fristencheck."
 ---
 
 # AGB Kontrolle Factoringklauseln B2B

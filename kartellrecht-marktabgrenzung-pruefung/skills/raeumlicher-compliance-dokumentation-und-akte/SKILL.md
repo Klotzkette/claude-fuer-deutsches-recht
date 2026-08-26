@@ -1,6 +1,6 @@
 ---
 name: raeumlicher-compliance-dokumentation-und-akte
-description: "Wenn es um Raeumlicher: Compliance-Dokumentation und Aktenvermerk in Kartellrecht — Marktabgrenzungsprüfung geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen."
+description: "Für Räumlicher: Compliance-Dokumentation und Aktenvermerk: ordnet Akte, Belege und Lücken; Ergebnis: Schnittstellenkarte mit Zuständigkeits- und Nachweisfragen."
 ---
 
 # Raeumlicher: Compliance-Dokumentation und Aktenvermerk

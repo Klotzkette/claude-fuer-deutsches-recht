@@ -1,6 +1,6 @@
 ---
 name: ausgabe-changes-docx-beweislast
-description: "Wenn es um Ausgabe: Mandantenkommunikation und Entscheidungsvorlage in NDA-Abgleich geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. Auswahlstichwort: Ausgabe Changes Docx Beweislast; Arbeitsfeld: NDA-Abgleich."
+description: "Für Ausgabe: Mandantenkommunikation und Entscheidungsvorlage: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Beweislast- und Substantiierungsmatrix."
 ---
 
 # Ausgabe: Mandantenkommunikation und Entscheidungsvorlage

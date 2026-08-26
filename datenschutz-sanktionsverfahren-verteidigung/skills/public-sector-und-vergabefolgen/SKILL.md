@@ -1,6 +1,6 @@
 ---
 name: public-sector-und-vergabefolgen
-description: "Wenn es um Public Sector und Vergabefolgen in Datenschutz-Sanktionsverfahren und Verteidigung geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
+description: "Für Public Sector und Vergabefolgen: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Public Sector und Vergabefolgen

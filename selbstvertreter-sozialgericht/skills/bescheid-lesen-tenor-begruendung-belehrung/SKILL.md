@@ -1,6 +1,6 @@
 ---
 name: bescheid-lesen-tenor-begruendung-belehrung
-description: "Wenn es um Bescheid Lesen Tenor Begruendung Belehrung in selbstvertreter-sozialgericht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Bescheid Lesen Tenor Begründung Belehrung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Bescheid Lesen Tenor Begruendung Belehrung

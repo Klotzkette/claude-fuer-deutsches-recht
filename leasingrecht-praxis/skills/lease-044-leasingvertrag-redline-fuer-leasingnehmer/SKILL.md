@@ -1,6 +1,6 @@
 ---
 name: lease-044-leasingvertrag-redline-fuer-leasingnehmer
-description: "Wenn es um Leasingrecht: Leasingvertrag Redline für Leasingnehmer in Leasingrecht Praxis geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Leasingrecht: Leasingvertrag Redline für Leasingnehmer: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Leasingrecht: Leasingvertrag Redline für Leasingnehmer

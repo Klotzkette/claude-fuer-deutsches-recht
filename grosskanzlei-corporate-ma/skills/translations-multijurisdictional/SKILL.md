@@ -1,6 +1,6 @@
 ---
 name: translations-multijurisdictional
-description: "Wenn es um Translations Multijurisdictional in Großkanzlei Corporate/M&A geht: entwickelt Verhandlungsziel, Vergleichskorridor und Eskalationspfad; liefert eine Verhandlungs- oder Eskalationslinie mit Optionen."
+description: "Für Translations Multijurisdictional: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Multi-Jurisdiction-Koordination und Übersetzungen in grenzüberschreitenden M&A-Transaktionen: Anwendungsfall Transaktion mit mehreren Ländern erfordert Koordination lokaler Counsel, Übersetzungen und Rechtsvergleich

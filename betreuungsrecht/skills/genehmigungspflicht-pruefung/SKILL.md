@@ -1,6 +1,6 @@
 ---
 name: genehmigungspflicht-pruefung
-description: "Wenn es um Genehmigungspflicht-Prüfung (Paragrafen 1848 ff. BGB) in Betreuungsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. Auswahlstichwort: Genehmigungspflicht Prüfung; Arbeitsfeld: Betreuungsrecht."
+description: "Für Genehmigungspflicht-Prüfung (Paragrafen 1848 ff. BGB): ordnet Norm, Beweislast und Gegenargument; Ergebnis: Tatbestands- oder Anspruchsmatrix."
 ---
 
 # Genehmigungspflicht-Prüfung (§§ 1848 ff. BGB)

@@ -1,6 +1,6 @@
 ---
 name: forderungen-interessen-matrix
-description: "Wenn es um Forderungen-Interessen-Matrix in Forderungsmanagement — Klagewerkstatt geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
+description: "Für Forderungen-Interessen-Matrix: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Forderungen-Interessen-Matrix

@@ -1,6 +1,6 @@
 ---
 name: hv-red-team-generalprobe
-description: "Wenn es um HV Red Team Generalprobe in Hauptversammlung AG und SE geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für HV Red Team Generalprobe: prüft Ergebnis, Beweislast und Gegenposition; Ergebnis: Gegenprüfung mit Beweis- und Fristencheck."
 ---
 
 # HV Red Team Generalprobe

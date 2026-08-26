@@ -1,6 +1,6 @@
 ---
 name: betriebspruefung-rollenabgrenzung
-description: "Wenn es um Betriebspruefung Rollenabgrenzung in Berufsrecht Steuerberater geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Verhandlungs- oder Eskalationslinie mit Optionen."
+description: "Für Betriebsprüfung Rollenabgrenzung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Tatbestands- oder Anspruchsmatrix."
 ---
 
 # Steuerberater: betriebspruefung rollenabgrenzung - Kammerantwort mit Verfahrensstrategie, Tonlage und Belegplan

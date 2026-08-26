@@ -1,6 +1,6 @@
 ---
 name: press-reputation-social-media
-description: "Wenn es um Presse, Reputation und Social Media in Venture Capital Geber geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Presse, Reputation und Social Media: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Presse, Reputation und Social Media

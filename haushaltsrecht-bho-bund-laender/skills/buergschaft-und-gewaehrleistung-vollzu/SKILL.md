@@ -1,6 +1,6 @@
 ---
 name: buergschaft-und-gewaehrleistung-vollzu
-description: "Wenn es um Buergschaft Und Gewaehrleistung Vollzu in Haushaltsrecht BHO Bund und Länder geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Bürgschaft und Gewährleistung Vollzu: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Buergschaft Und Gewaehrleistung Vollzu

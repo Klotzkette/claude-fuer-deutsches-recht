@@ -1,6 +1,6 @@
 ---
 name: vorpruefung-schranke-finden
-description: "Wenn es um Stufe 0c: Welche Schranke gilt? in Verhältnismäßigkeitsprüfer geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Tatbestands- oder Anspruchsmatrix mit Gegenargumenten."
+description: "Für Stufe 0c: Welche Schranke gilt?: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Tatbestands- oder Anspruchsmatrix."
 ---
 
 # Stufe 0c: Welche Schranke gilt?

@@ -1,6 +1,6 @@
 ---
 name: upc-einstweilige-massnahmen-verletzung-rechtsbestand
-description: "Wenn es um UPC: Einstweilige Maßnahmen in patentrecht geht: entwickelt Verhandlungsziel, Vergleichskorridor und Eskalationspfad; liefert eine Beweislast- und Substantiierungsmatrix."
+description: "Für UPC: Einstweilige Maßnahmen: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # UPC: Einstweilige Maßnahmen

@@ -1,6 +1,6 @@
 ---
 name: zustaendigkeit-zahlen-schwellen-und-berechnung
-description: "Wenn es um Zuständigkeit: Zahlen, Schwellenwerte und Berechnung in Prozessrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Zuständigkeit: Zahlen, Schwellenwerte und Berechnung: prüft Frist, Form, Zuständigkeit und Eilbedarf; Ergebnis: Berechnungstabelle mit Annahmen und Kontrollfragen."
 ---
 
 # Zuständigkeit: Zahlen, Schwellenwerte und Berechnung
@@ -46,3 +46,7 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 3. **Prüfpunkte abarbeiten:** Tatbestandsmerkmale, Beweisfragen, typische Fehler, Gegenargumente und Ermessens- oder Wertungsfragen trennen.
 4. **Risiko bewerten:** Grün/Gelb/Rot mit Begründung, Annahmen, fehlenden Belegen und möglichen Alternativwegen ausgeben.
 5. **Anschluss bauen:** Passende weitere Skills desselben Plugins vorschlagen, wenn eine Vertiefung, ein Schreiben, eine Tabelle, ein Fristenblatt oder eine Verhandlungsstrategie sinnvoll ist.
+
+## Vertiefung bei Bedarf
+
+- Bei `spezial-zustaendigkeit-zahlen-schwellen-und-berechnung` beziehungsweise Zustaendigkeit: Zahlen, Schwellenwerte und Berechnung: [die zusätzliche Vertiefung laden](./references/vertiefung-spezial-zustaendigkeit-zahlen-schwellen-und-berechnung.md).

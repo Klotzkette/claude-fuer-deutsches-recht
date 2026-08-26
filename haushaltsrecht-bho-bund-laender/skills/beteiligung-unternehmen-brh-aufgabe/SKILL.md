@@ -1,6 +1,6 @@
 ---
 name: beteiligung-unternehmen-brh-aufgabe
-description: "Wenn es um Bho 65 Beteiligung Unternehmen Praktis in Haushaltsrecht BHO Bund und Länder geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
+description: "Für BHO 65 Beteiligung Unternehmen Praktis: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Bho 65 Beteiligung Unternehmen Praktis

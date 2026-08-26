@@ -1,6 +1,6 @@
 ---
 name: outside-counsel-guidelines
-description: "Wenn es um Outside Counsel Guidelines in Kanzlei-Mandant Lifecycle geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Outside Counsel Guidelines: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Outside Counsel Guidelines

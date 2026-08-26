@@ -1,6 +1,6 @@
 ---
 name: nachtragspruefung-und-fehlerkorrektur-organi
-description: "Wenn es um Nachtragspruefung Und Fehlerkorrektur Organi in Berufsrecht Wirtschaftsprüfer geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Nachtragsprüfung und Fehlerkorrektur Organi: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Tatbestands- oder Anspruchsmatrix."
 ---
 
 # Wirtschaftsprüfer: nachtragspruefung und fehlerkorrektur - Organisationspflichten, Prävention, Team-Anweisung und Fristenkontrolle

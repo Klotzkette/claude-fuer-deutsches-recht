@@ -1,6 +1,6 @@
 ---
 name: versorgungsakte-dokumentenintake
-description: "Wenn es um versorgungsakte-dokumentenintake-und-berechnung in Beamtenrecht geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Berechnungstabelle mit Schwellen, Annahmen und Kontrollfragen."
+description: "Für versorgungsakte-dokumentenintake-und-berechnung: ordnet Akte, Belege und Lücken; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # versorgungsakte-dokumentenintake-und-berechnung

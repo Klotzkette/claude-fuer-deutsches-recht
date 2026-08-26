@@ -1,6 +1,6 @@
 ---
 name: rechtsabteilung-rpm-alarm-bei-haendler-und-franchise-kanaelen
-description: "Wenn es um Rechtsabteilung: RPM-Alarm bei Händler- und Franchise-Kanälen in Kartellrecht — Marktabgrenzungsprüfung geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Chronologie mit Belegmatrix und Widerspruchsliste."
+description: "Für Rechtsabteilung: RPM-Alarm bei Händler- und Franchise-Kanälen: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Rechtsabteilung: RPM-Alarm bei Händler- und Franchise-Kanälen

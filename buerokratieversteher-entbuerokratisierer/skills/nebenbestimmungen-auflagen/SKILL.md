@@ -1,6 +1,6 @@
 ---
 name: nebenbestimmungen-auflagen
-description: "Wenn es um Nebenbestimmungen und Auflagen in Bürokratieversteher und Entbürokratisierer geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Nebenbestimmungen und Auflagen: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Nebenbestimmungen und Auflagen

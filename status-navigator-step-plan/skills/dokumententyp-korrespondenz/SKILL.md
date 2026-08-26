@@ -1,6 +1,6 @@
 ---
 name: dokumententyp-korrespondenz
-description: "Wenn es um Dokumententyp Korrespondenz in Plugin: status-navigator-step-plan geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
+description: "Für Dokumententyp Korrespondenz: ordnet Akte, Belege und Lücken; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Dokumententyp Korrespondenz

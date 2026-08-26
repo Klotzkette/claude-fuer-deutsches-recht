@@ -1,6 +1,6 @@
 ---
 name: luft-111-bodenabfertigung-zustaendigkeit-pruefe
-description: "Wenn es um Bodenabfertigung Zustaendigkeit Pruefe in Luftrecht und Flughafenrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Bodenabfertigung Zuständigkeit Prüfe: prüft Frist, Form, Zuständigkeit und Eilbedarf; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Bodenabfertigung Zustaendigkeit Pruefe

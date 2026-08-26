@@ -1,6 +1,6 @@
 ---
 name: jahresabschluss-rechenschaftsbericht-konzern
-description: "Wenn es um Jahresabschluss und Rechenschaftsbericht in Lobbyregister Bundestag geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Dokumentenmatrix mit Nachforderungsliste."
+description: "Für Jahresabschluss und Rechenschaftsbericht: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Jahresabschluss und Rechenschaftsbericht

@@ -1,6 +1,6 @@
 ---
 name: steigerungssatz-begruendung-individuell-patientenbezogen
-description: "Wenn es um Steigerungssatz Begründung individuell patientenbezogen in GOÄ Gebührenordnung für Ärzte geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Steigerungssatz Begründung individuell patientenbezogen: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Steigerungssatz Begründung individuell patientenbezogen

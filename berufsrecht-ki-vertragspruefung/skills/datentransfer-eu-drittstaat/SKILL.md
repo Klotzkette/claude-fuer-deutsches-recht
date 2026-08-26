@@ -1,6 +1,6 @@
 ---
 name: datentransfer-eu-drittstaat
-description: "Wenn es um EU- nach Drittstaat-Datentransfer in anwaltlichem Berufsrecht und Vertragsprüfung geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen."
+description: "Für EU- nach Drittstaat-Datentransfer: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Schnittstellenkarte mit Zuständigkeits- und Nachweisfragen."
 ---
 
 # EU- nach Drittstaat-Datentransfer

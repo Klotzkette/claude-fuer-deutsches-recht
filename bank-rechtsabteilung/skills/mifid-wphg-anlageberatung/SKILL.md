@@ -1,6 +1,6 @@
 ---
 name: mifid-wphg-anlageberatung
-description: "Wenn es um WpHG Anlageberatung in Bank-Rechtsabteilung geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
+description: "Für WpHG Anlageberatung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # WpHG Anlageberatung

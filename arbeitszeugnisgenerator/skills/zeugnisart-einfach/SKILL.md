@@ -1,6 +1,6 @@
 ---
 name: zeugnisart-einfach
-description: "Erstellt ein einfaches Arbeitszeugnis mit wahrheitsgemäßen Angaben zu Art und Dauer der Tätigkeit, ohne Leistungs- oder Verhaltensbewertung einzuschmuggeln. Prüft, ob stattdessen rechtzeitig ein qualifiziertes Zeugnis verlangt werden soll."
+description: "Erstellt ein einfaches Arbeitszeugnis mit wahrheitsgemäßen Angaben zu Art und Dauer der Tätigkeit, ohne Leistungs- oder Verhaltensbewertung einzuschmuggeln."
 ---
 
 # Zeugnisart: Einfaches Arbeitszeugnis

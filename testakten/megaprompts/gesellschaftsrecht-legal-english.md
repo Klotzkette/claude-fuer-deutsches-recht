@@ -7,20 +7,20 @@ Diese Vollprüfung enthält top-15 von 54 Skills des Plugins `gesellschaftsrecht
 ## Inhaltsverzeichnis
 
 1. **juristischer-argumentationskern** — Schaltet sich ein, wenn in Gesellschaftsrecht Legal English ein juristisches Arbeitsprodukt tragfähig begründet werden m…
-2. **einstieg-routing** — Wenn es um Einstieg und Routing in Didaktisches Gesellschaftsrecht — English Business Terms geht: klärt Rolle, Ziel, Fri…
-3. **kaltstart-triage** — Wenn es um Gesellschaftsrecht Legal English - Einstieg in Didaktisches Gesellschaftsrecht — English Business Terms geht:…
-4. **sha-gesellschaftervereinbarung** — Wenn es um Shareholders Agreement und Gesellschaftervereinbarung in Didaktisches Gesellschaftsrecht — English Business T…
-5. **financial-debt-net-debt-working-capital** — Wenn es um Financial Debt, Net Debt und Working Capital in Didaktisches Gesellschaftsrecht — English Business Terms geht…
-6. **gesellschafterliste-compliance-dokumentation-und-akte** — Wenn es um Gesellschafterliste: Compliance-Dokumentation und Aktenvermerk in Didaktisches Gesellschaftsrecht — English B…
-7. **upstream-security-financial-assistance** — Wenn es um Upstream Security und Financial Assistance in Didaktisches Gesellschaftsrecht — English Business Terms geht: …
-8. **deutsches-englische-drag-tag** — Wenn es um Deutsches Recht, englische Vertragssprache in Didaktisches Gesellschaftsrecht — English Business Terms geht: …
-9. **transfer-restrictions-upstream-security** — Wenn es um Transfer Restrictions und Vinkulierung in Didaktisches Gesellschaftsrecht — English Business Terms geht: ordn…
-10. **governance-board-lernpfad-dealroom** — Wenn es um Governance, Board und Consent Matters in Didaktisches Gesellschaftsrecht — English Business Terms geht: ordne…
-11. **legal-schriftsatz-brief-und-memo-bausteine** — Wenn es um Legal: Schriftsatz-, Brief- und Memo-Bausteine in Didaktisches Gesellschaftsrecht — English Business Terms ge…
-12. **earn-out-kaufpreismechanik** — Wenn es um Earn-out und Kaufpreismechanik in Didaktisches Gesellschaftsrecht — English Business Terms geht: ordnet Sachv…
-13. **term-sheet-investment-agreement** — Wenn es um Term Sheet und Investment Agreement in Didaktisches Gesellschaftsrecht — English Business Terms geht: ordnet …
-14. **reps-warranties-indemnities** — Wenn es um Reps, Warranties und Indemnities in Didaktisches Gesellschaftsrecht — English Business Terms geht: ordnet Sac…
-15. **exit-spa-financial-debt** — Wenn es um Exit, SPA, Closing und CPs in Didaktisches Gesellschaftsrecht — English Business Terms geht: ordnet Sachverha…
+2. **einstieg-routing** — Für Einstieg und Routing: routet Rolle, Frist, Unterlagen und Fachschritt; Ergebnis: Prüfprodukt mit Risiko und nächstem…
+3. **kaltstart-triage** — Für Gesellschaftsrecht Legal English - Einstieg: routet Rolle, Frist, Unterlagen und Fachschritt; Ergebnis: Prüfprodukt …
+4. **chronologie-fristen** — Für Chronologie und Belegmatrix: prüft Frist, Form, Zuständigkeit und Eilbedarf; Ergebnis: Chronologie mit Beleg- und Wi…
+5. **workflow-kaltstart-und-routing** — Für Kaltstart und Routing: routet Rolle, Frist, Unterlagen und Fachschritt; Ergebnis: Prüfprodukt mit Risiko und nächste…
+6. **gesellschaftsrecht-legal** — Für Gesellschaftsrecht: Tatbestandsmerkmale, Beweisfragen und Beleglage: ordnet Norm, Beweislast und Gegenargument; Erge…
+7. **output-waehlen** — Für Output wählen: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt. Fac…
+8. **workflow-unterlagen-lueckenliste** — Für Unterlagen- und Lückenliste: ordnet Akte, Belege und Lücken; Ergebnis: Dokumentenmatrix mit Nachforderungsliste. Fac…
+9. **terms-term-sheet** — Für Terms: Risikoampel, Gegenargumente und Verteidigungslinien: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prü…
+10. **business-corporate** — Für Business: Dokumentenmatrix, Lückenliste und Nachforderung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüf…
+11. **deutsches-englische-drag-tag** — Für Deutsches Recht, englische Vertragssprache: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Schnittstellenkarte…
+12. **didaktisches-gesellschafterliste** — Für Didaktisches: Erstprüfung, Rollenklärung und Mandatsziel: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfp…
+13. **workflow-fristen-und-risikoampel** — Für Fristen- und Risikoampel: prüft Frist, Form, Zuständigkeit und Eilbedarf; Ergebnis: Fristen- und Risikoampel. Fachge…
+14. **legal-schriftsatz-brief-und-memo-bausteine** — Für Legal: Schriftsatz-, Brief- und Memo-Bausteine: erstellt Entwurf mit Antrag, Beweis und Anlagen; Ergebnis: Schriftsa…
+15. **sha-gesellschaftervereinbarung** — Für Shareholders Agreement und Gesellschaftervereinbarung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprod…
 
 ---
 
@@ -143,7 +143,7 @@ Ausgangspunkt für dieses Plugin: Anspruchsteller für Pflichtverletzung, Schade
 
 ## Skill: `einstieg-routing`
 
-_Wenn es um Einstieg und Routing in Didaktisches Gesellschaftsrecht — English Business Terms geht: klärt Rolle, Ziel, Frist, Unterlagen und den passenden nächsten Fachskill; liefert eine Fristen- und Risikoampel mit Sofortschritten._
+_Für Einstieg und Routing: routet Rolle, Frist, Unterlagen und Fachschritt; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt. Fachgebiet: Gesellschaftsrecht Legal English._
 
 # Einstieg und Routing
 
@@ -187,7 +187,7 @@ Dieser Einstieg routet **Gesellschaftsrecht Legal English** vom ersten Sachverha
 
 ## Skill: `kaltstart-triage`
 
-_Wenn es um Gesellschaftsrecht Legal English - Einstieg in Didaktisches Gesellschaftsrecht — English Business Terms geht: klärt Rolle, Ziel, Frist, Unterlagen und den passenden nächsten Fachskill; liefert eine Fristen- und Risikoampel mit Sofortschritten._
+_Für Gesellschaftsrecht Legal English - Einstieg: routet Rolle, Frist, Unterlagen und Fachschritt; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt._
 
 # Gesellschaftsrecht Legal English - Einstieg
 
@@ -297,113 +297,94 @@ Wenn der Nutzer schreibt: "Was ist fully diluted und muss ich das in die Gesells
 
 ---
 
-## Skill: `sha-gesellschaftervereinbarung`
+## Skill: `chronologie-fristen`
 
-_Wenn es um Shareholders Agreement und Gesellschaftervereinbarung in Didaktisches Gesellschaftsrecht — English Business Terms geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt._
+_Für Chronologie und Belegmatrix: prüft Frist, Form, Zuständigkeit und Eilbedarf; Ergebnis: Chronologie mit Beleg- und Widerspruchsmatrix. Fachgebiet: Gesellschaftsrecht Legal English._
 
-# Shareholders Agreement und Gesellschaftervereinbarung
+# Chronologie und Belegmatrix
 
-## Arbeitsweg
+## Arbeitsauftrag
 
-- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
-- Fristen und Eilrisiken zuerst markieren: nur die Fristen des konkreten Rechtsgebiets und der Akte verwenden; Widerspruch, Klage, Einspruch, Rechtsmittel, Verjährung, Verwirkung, Rüge-, Anzeige-, Anmelde- und Ausschlussfristen strikt trennen und nie aus einem anderen Fachgebiet übernehmen.
-- Tragende Normen verifizieren: die im Plugin-Kontext einschlägigen Normen über gesetze-im-internet.de, dejure.org, eur-lex.europa.eu und die amtlichen Bundes-/Landesportale live prüfen — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
-- Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
-- Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
+Dieser Arbeitsgang macht **Chronologie und Belegmatrix** im Bereich **gesellschaftsrecht-legal-english** sofort bearbeitbar: erst Akte lesen, dann Rollen, Ziel, Fristen, Belege und Entscheidungspunkte ordnen. Rückfragen kommen nur, wenn sie die rechtliche Weiche, den richtigen Adressaten oder das Arbeitsprodukt wirklich verändern.
 
-## Fachlicher Kern — Gesellschaftsrecht und Corporate Law
-- **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `Shareholders Agreement und Gesellschaftervereinbarung` und löse die dort angelegte Fachfrage; arbeite mit konkreten Tatbestandsmerkmalen, Beweisfragen und dem unmittelbar benötigten Arbeitsprodukt. Routingfragen bleiben Hilfsmittel, wenn Frist, Zuständigkeit oder Verfahrensart offen sind.
-- **Arbeitsmodus:** Erst Gesellschaftsform, Organ, Beschlussweg, Vertretung, Registerlage, wirtschaftliches Ziel und Minderheitenposition sortieren; dann Treuepflicht, Kapitalerhaltung, Haftung, Transaktions-Closing und Beweis-/Vollzugsrisiko prüfen.
-- **Outputpflicht:** Beschluss-/Listenmatrix, Register-To-do, Board-/Beiratsvorlage, Closing-CP-Liste, Treuepflicht-Red-Team, Geschäftsführerhaftungsmemo oder Mandanten-Decision-Paper.
-- **Fehlerbremse:** Tragende Normen/Entscheidungen live oder aus der Akte verifizieren; Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei prüfbarer Quelle. Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen.
+## Aktenstart ohne Leerlauf
 
-## Kernfrage
+1. Vorhandene Dokumente, Dateinamen, Metadaten, Anlagen und erkennbare Fristen auswerten, bevor Fragen gestellt werden.
+2. Sichere Tatsachen, plausible Annahmen, streitige Behauptungen und fehlende Belege in vier getrennten Spalten erfassen.
+3. Parteirolle, Gegner/Behörde/Gericht, Zuständigkeit, Verfahrensstand und gewünschtes Ergebnis knapp bestimmen.
+4. Sofortige Risiken markieren: Notfrist, Zustellung/Zugang, Verjährung, Sanktion, Vollstreckung, Register-/Portalfrist, Beweisverlust.
+5. Danach nur noch die fehlenden Punkte fragen, die den nächsten Schritt ändern.
 
-Was muss in die Satzung, was kann in die Gesellschaftervereinbarung, und was braucht beides?
+## Fachliche Anker
 
-## Prüfung
+- BGB §§ 21 ff., 705 ff.; HGB; GmbHG; AktG; UmwG; FamFG/Registerrecht; PartG/Vereinsrecht je nach Organisation.
+- Organ, Vertretung, Beschluss, Ladung, Mehrheit, Registervollzug, Treuepflicht und Haftung getrennt prüfen.
+- Cap Table, Gesellschafterliste, Satzung, Protokoll, Registerstand und Nebenabreden nie vermischen.
 
-1. Rechtsträger: GmbH, AG, Personengesellschaft, Auslandsgesellschaft.
-2. Parteien: alle Gesellschafter oder nur Investorengruppe?
-3. Regelungstyp: Governance, Economics, Transfer, Leaver, Information, Exit.
-4. Außenwirkung/Registerfähigkeit prüfen.
-5. Konflikt zwischen Satzung und SHA markieren.
+## Arbeitsprodukt
 
-## Typische Klauseln
-
-- Reserved Matters
-- Voting undertakings
-- Drag/Tag
-- Transfer Restrictions
-- Information Rights
-- Non-compete und Non-solicit
-- Leaver
-- Deadlock
-
-## Didaktischer Arbeitsmodus
-
-- Erklaere jeden Begriff zweispurig: englischer Praxisbegriff, naheliegende deutsche Entsprechung und warum beides nicht deckungsgleich sein muss.
-- Arbeite immer an der Dokumentstelle: Term Sheet, SHA, SPA, Satzung, Gesellschafterliste, Cap Table, Board Paper oder Closing Checklist.
-- Gib eine Anfängerfassung in klarer Sprache und eine Praxisfassung für die Partnerin oder den Mandanten.
-- Wenn ein common-law-Begriff nach deutschem Recht verwendet wird, markiere Auslegungsrisiko, deutsches Ersatzkonzept und Formulierungsvorschlag.
+- **Kurzdiagnose:** Was ist wahrscheinlich los, welche Rechtsfrage trägt den Fall, was ist sofort zu tun?
+- **Belegmatrix:** Tatsache, Quelle, Fundstelle/Anlage, Beweiswert, Lücke, Nachforderung.
+- **Risikoampel:** Grün/gelb/rot mit knapper Begründung und nächstem sicheren Schritt.
+- **Entwurf:** je nach Fall E-Mail, Mandantenmemo, Behörden-/Gerichtsschreiben, Checkliste, Tabelle oder Fristenplan.
+- **Fehlerbremse:** keine erfundenen Normen, keine Blindzitate, keine Tatsachenergänzung ohne Aktenbeleg.
 
 ---
 
-## Skill: `financial-debt-net-debt-working-capital`
+## Skill: `workflow-kaltstart-und-routing`
 
-_Wenn es um Financial Debt, Net Debt und Working Capital in Didaktisches Gesellschaftsrecht — English Business Terms geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt._
+_Für Kaltstart und Routing: routet Rolle, Frist, Unterlagen und Fachschritt; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt. Fachgebiet: Gesellschaftsrecht Legal English._
 
-# Financial Debt, Net Debt und Working Capital
+# Kaltstart und Routing
 
-## Arbeitsweg
+## Aufgabe
+Nutze diesen Workflow-Skill für Kaltstart und Routing: führt vom ersten Satz oder Dokument in den passenden Arbeitsweg, erkennt Rolle, Ziel, Risiko und Anschluss-Skills.
 
-- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
-- Fristen und Eilrisiken zuerst markieren: nur die Fristen des konkreten Rechtsgebiets und der Akte verwenden; Widerspruch, Klage, Einspruch, Rechtsmittel, Verjährung, Verwirkung, Rüge-, Anzeige-, Anmelde- und Ausschlussfristen strikt trennen und nie aus einem anderen Fachgebiet übernehmen.
-- Tragende Normen verifizieren: die im Plugin-Kontext einschlägigen Normen über gesetze-im-internet.de, dejure.org, eur-lex.europa.eu und die amtlichen Bundes-/Landesportale live prüfen — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
-- Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
-- Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
+## Kaltstart
+Wenn Material vorliegt, arbeite zuerst mit dem Material. Stelle nur Rückfragen, die für die nächste Weiche nötig sind:
 
-## Fachlicher Kern — Gesellschaftsrecht und Corporate Law
-- **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `Financial Debt, Net Debt und Working Capital` und löse die dort angelegte Fachfrage; arbeite mit konkreten Tatbestandsmerkmalen, Beweisfragen und dem unmittelbar benötigten Arbeitsprodukt. Routingfragen bleiben Hilfsmittel, wenn Frist, Zuständigkeit oder Verfahrensart offen sind.
-- **Arbeitsmodus:** Erst Gesellschaftsform, Organ, Beschlussweg, Vertretung, Registerlage, wirtschaftliches Ziel und Minderheitenposition sortieren; dann Treuepflicht, Kapitalerhaltung, Haftung, Transaktions-Closing und Beweis-/Vollzugsrisiko prüfen.
-- **Outputpflicht:** Beschluss-/Listenmatrix, Register-To-do, Board-/Beiratsvorlage, Closing-CP-Liste, Treuepflicht-Red-Team, Geschäftsführerhaftungsmemo oder Mandanten-Decision-Paper.
-- **Fehlerbremse:** Tragende Normen/Entscheidungen live oder aus der Akte verifizieren; Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei prüfbarer Quelle. Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen.
+1. Wer fragt in welcher Rolle?
+2. Was ist das gewünschte Ergebnis?
+3. Gibt es Fristen, Termine, Zustellungen, Zahlungen oder Sanktionen?
+4. Welche Unterlagen, Daten oder Belege liegen bereits vor?
 
-## Ziel
+## Arbeitsworkflow
+1. Rolle, Ziel, Frist und Unterlagenlage in höchstens fünf Fragen klären.
+2. Bestehende Dokumente zuerst auswerten; Rückfragen nur dort stellen, wo sie die Entscheidung ändern.
+3. Passende Spezialskills aus diesem Plugin vorschlagen und begründen.
+4. Ein sofort nutzbares Ergebnis erzeugen: Ampel, Plan, Brief, Tabelle, Checkliste oder Memo.
 
-Kaufpreisformeln verständlich und prüfbar machen.
+## Routing-Heuristik Corporate / German Legal English
+- SPA / APA → Share Purchase Agreement vs. Asset Purchase Agreement; § 15 GmbHG notarielle Form bei GmbH-Anteilen.
+- SHA / Shareholders' Agreement → ergänzend zum Gesellschaftsvertrag; deutsche Inhaltskontrolle § 138 BGB.
+- LoI / MoU / Term Sheet → vorvertragliche Bindung § 311 Abs. 2 BGB; "subject to contract"-Klausel ausreichend?
+- Due Diligence → Legal, Tax, Financial; in Deutschland kein "fishing expedition" — § 142 ZPO vorgerichtlich nur eingeschränkt.
+- Closing Conditions / CPs → Conditions Precedent vs. § 158 BGB Bedingung; in deutscher Praxis aufschiebende Bedingung.
+- Reps & Warranties → §§ 311, 280, 443 BGB iVm Garantievereinbarung; Verjährungsfristen oft abweichend vereinbart.
+- Indemnification → Freistellungspflicht; nicht synonym mit "Versicherung".
 
-## Begriffe
+## Praxis-Hinweis
+- US-Templates oft nicht direkt nutzbar: § 311 BGB, AGB-Kontrolle §§ 305 ff. BGB für B2B (eingeschränkt nach § 310 Abs. 1 BGB), Notarpflicht beim GmbH-Anteilkauf zwingend.
 
-| Begriff | Arbeitsdefinition |
-| --- | --- |
-| Financial Debt | verzinsliche Finanzverbindlichkeiten und definierte debt-like items |
-| Net Debt | Financial Debt abzüglich definierter Cash-Positionen |
-| Cash Free Debt Free | Bewertungsannahme ohne überschüssige Liquidität und ohne Finanzschulden |
-| Working Capital | Umlaufvermögen minus kurzfristige Verbindlichkeiten nach Definition |
+## Output-Standard
+- Kurzbild: worum es geht, was gesichert ist, was offen ist.
+- Prüf- oder Bearbeitungsmatrix mit den entscheidenden Punkten.
+- Konkreter nächster Schritt mit Frist, Zuständigkeit und Unterlagen.
+- Bei Außenkommunikation: knapper, sachlicher Textbaustein ohne unnötige Nebenangaben.
 
-## Prüffragen
-
-1. Welche Bilanzpositionen sind einbezogen?
-2. Sind Leasing, Factoring, Gesellschafterdarlehen, Steuern, Boni und Pensionen geregelt?
-3. Gibt es locked box oder completion accounts?
-4. Wer erstellt Closing Accounts?
-5. Gibt es Expert Determination?
-
-## Didaktischer Arbeitsmodus
-
-- Erklaere jeden Begriff zweispurig: englischer Praxisbegriff, naheliegende deutsche Entsprechung und warum beides nicht deckungsgleich sein muss.
-- Arbeite immer an der Dokumentstelle: Term Sheet, SHA, SPA, Satzung, Gesellschafterliste, Cap Table, Board Paper oder Closing Checklist.
-- Gib eine Anfängerfassung in klarer Sprache und eine Praxisfassung für die Partnerin oder den Mandanten.
-- Wenn ein common-law-Begriff nach deutschem Recht verwendet wird, markiere Auslegungsrisiko, deutsches Ersatzkonzept und Formulierungsvorschlag.
+## Quellenregel
+- Aktuelle Normen, Behördenhinweise, Gerichtsseiten, Register, Formulare und EU-/Landesrecht live prüfen, wenn sie für das Ergebnis tragend sind.
+- Rechtsprechung nur mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle ausgeben.
+- Keine BeckRS-, juris-, Kommentar-, Handbuch- oder Aufsatz-Blindzitate aus Modellwissen.
+- Unsicherheiten und Annahmen ausdrücklich markieren.
 
 ---
 
-## Skill: `gesellschafterliste-compliance-dokumentation-und-akte`
+## Skill: `gesellschaftsrecht-legal`
 
-_Wenn es um Gesellschafterliste: Compliance-Dokumentation und Aktenvermerk in Didaktisches Gesellschaftsrecht — English Business Terms geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt._
+_Für Gesellschaftsrecht: Tatbestandsmerkmale, Beweisfragen und Beleglage: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt._
 
-# Gesellschafterliste: Compliance-Dokumentation und Aktenvermerk
+# Gesellschaftsrecht: Tatbestandsmerkmale, Beweisfragen und Beleglage
 
 ## Arbeitsweg
 
@@ -414,12 +395,12 @@ _Wenn es um Gesellschafterliste: Compliance-Dokumentation und Aktenvermerk in Di
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
 ## Fachlicher Kern — Gesellschaftsrecht und Corporate Law
-- **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `Gesellschafterliste: Compliance-Dokumentation und Aktenvermerk` und löse die dort angelegte Fachfrage; arbeite mit konkreten Tatbestandsmerkmalen, Beweisfragen und dem unmittelbar benötigten Arbeitsprodukt. Routingfragen bleiben Hilfsmittel, wenn Frist, Zuständigkeit oder Verfahrensart offen sind.
+- **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `Gesellschaftsrecht: Tatbestandsmerkmale, Beweisfragen und Beleglage` und löse die dort angelegte Fachfrage; arbeite mit konkreten Tatbestandsmerkmalen, Beweisfragen und dem unmittelbar benötigten Arbeitsprodukt. Routingfragen bleiben Hilfsmittel, wenn Frist, Zuständigkeit oder Verfahrensart offen sind.
 - **Arbeitsmodus:** Erst Gesellschaftsform, Organ, Beschlussweg, Vertretung, Registerlage, wirtschaftliches Ziel und Minderheitenposition sortieren; dann Treuepflicht, Kapitalerhaltung, Haftung, Transaktions-Closing und Beweis-/Vollzugsrisiko prüfen.
 - **Outputpflicht:** Beschluss-/Listenmatrix, Register-To-do, Board-/Beiratsvorlage, Closing-CP-Liste, Treuepflicht-Red-Team, Geschäftsführerhaftungsmemo oder Mandanten-Decision-Paper.
 - **Fehlerbremse:** Tragende Normen/Entscheidungen live oder aus der Akte verifizieren; Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei prüfbarer Quelle. Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen.
 
-## Spezialwissen: Gesellschafterliste: Compliance-Dokumentation und Aktenvermerk
+## Spezialwissen: Gesellschaftsrecht: Tatbestandsmerkmale, Beweisfragen und Beleglage
 - **Normen-/Quellenanker:** SHA, SPA, DD, HR.
 
 ## Fallweichen
@@ -433,18 +414,107 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 
 ## Arbeitsworkflow
 1. **Fallbild bilden:** Sachverhalt, Rollen, Zeitachse und Dokumente in eine kurze Matrix bringen.
-2. **Rechtsrahmen setzen:** Normen, Zuständigkeiten, Fristen, Formfragen und Verfahrensstand zum Themenfeld **Gesellschafterliste** prüfen.
+2. **Rechtsrahmen setzen:** Normen, Zuständigkeiten, Fristen, Formfragen und Verfahrensstand zum Themenfeld **Gesellschaftsrecht** prüfen.
 3. **Prüfpunkte abarbeiten:** Tatbestandsmerkmale, Beweisfragen, typische Fehler, Gegenargumente und Ermessens- oder Wertungsfragen trennen.
 4. **Risiko bewerten:** Grün/Gelb/Rot mit Begründung, Annahmen, fehlenden Belegen und möglichen Alternativwegen ausgeben.
 5. **Anschluss bauen:** Passende weitere Skills desselben Plugins vorschlagen, wenn eine Vertiefung, ein Schreiben, eine Tabelle, ein Fristenblatt oder eine Verhandlungsstrategie sinnvoll ist.
 
 ---
 
-## Skill: `upstream-security-financial-assistance`
+## Skill: `output-waehlen`
 
-_Wenn es um Upstream Security und Financial Assistance in Didaktisches Gesellschaftsrecht — English Business Terms geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt._
+_Für Output wählen: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt. Fachgebiet: Gesellschaftsrecht Legal English._
 
-# Upstream Security und Financial Assistance
+# Output wählen
+
+## Einsatzlage
+
+Diese Output-Weiche für **Gesellschaftsrecht Legal English** entscheidet, ob Memo, Antrag, Schriftsatz, Tabelle, Risikoampel, Fragenliste oder Mandantenbrief der richtige nächste Schritt ist.
+
+## Fachlandkarte dieses Plugins
+
+- `anfaenger-verhandlung-vergleich-und-eskalation` — Anfaenger Verhandlung Vergleich und Eskalation
+- `anschauungsmaterial-multiformat-auswertung` — Anschauungsmaterial Multiformat Auswertung
+- `anti-dilution-articles-association` — Anti Dilution Articles Association
+- `articles-association-satzung` — Articles Association Satzung
+- `begriffskompass-intake-bgb-at` — Begriffskompass Intake BGB AT
+- `bgb-at-schuldrecht-at-im-ma` — BGB AT Schuldrecht AT im MA
+- `business-corporate` — Business Corporate
+- `cap-table-client-explainer` — CAP Table Client Explainer
+- `chronologie-fristen` — Chronologie Fristen
+- `client-explainer-legal-english` — Client Explainer Legal English
+- `corporate-behoerden-gericht-und-registerweg` — Corporate Behoerden Gericht und Registerweg
+- `dealroom-quellenkarte` — Dealroom Quellenkarte
+- `deutsches-englische-drag-tag` — Deutsches Englische Drag TAG
+- `dokumente-intake` — Dokumente Intake
+- `einstieg-routing` — Einstieg Routing
+
+## Arbeitsweg
+
+- Ergebnistyp bestimmen: Schriftsatz an Mandant, Gegner, zuständiges Gericht oder Behörde, etwaige Sachverständige oder beauftragte Stellen, Mandantenmemo, Risikobericht, Vertragsentwurf, Entscheidungsvorlage, Behörden-Stellungnahme — was braucht der Mandant wirklich?
+- Pflichtformate festlegen: Tenor / Antrag / Begründung (Anspruchsgrundlage, Tatbestand, Subsumtion, Ergebnis); konkrete Norm-Pinpoints im Gesellschaftsrecht Legal English (die einschlägigen Normen des Fachgebiets live über gesetze-im-internet.de und dejure.org prüfen) einarbeiten.
+- Adressat-Klarheit: Sprache, Detailtiefe und juristische Vorbildung des Empfängers berücksichtigen; bei Mandant ohne Vorbildung Klartext-Zusammenfassung voranstellen.
+- Beweis- und Anlagenstruktur planen (chronologisch, thematisch, K- und B-Anlagen); Bezugnahmen sauber kennzeichnen.
+- Quellenfußnoten und Zitierweise sichern; offene Punkte und Annahmen explizit als solche kennzeichnen.
+
+## Qualitätsanker
+
+- Normen und Rechtsprechung nach `references/quellenhygiene.md` und `references/zitierweise.md` behandeln.
+- Wenn eine Spezialfrage sichtbar wird, den passenden Skill nennen und kurz erklären, warum genau dieser Arbeitsgang passt.
+- Bei Zeitdruck zuerst Frist, Zuständigkeit, Form und Beweislast sichern.
+
+---
+
+## Skill: `workflow-unterlagen-lueckenliste`
+
+_Für Unterlagen- und Lückenliste: ordnet Akte, Belege und Lücken; Ergebnis: Dokumentenmatrix mit Nachforderungsliste. Fachgebiet: Gesellschaftsrecht Legal English._
+
+# Unterlagen- und Lückenliste
+
+## Aufgabe
+Nutze diesen Workflow-Skill für Unterlagen- und Lückenliste: erstellt eine präzise Nachforderungsliste statt allgemeiner Fragebögen.
+
+## Kaltstart
+Wenn Material vorliegt, arbeite zuerst mit dem Material. Stelle nur Rückfragen, die für die nächste Weiche nötig sind:
+
+1. Wer fragt in welcher Rolle?
+2. Was ist das gewünschte Ergebnis?
+3. Gibt es Fristen, Termine, Zustellungen, Zahlungen oder Sanktionen?
+4. Welche Unterlagen, Daten oder Belege liegen bereits vor?
+
+## Arbeitsworkflow
+1. Rolle, Ziel, Frist und Unterlagenlage in höchstens fünf Fragen klären.
+2. Bestehende Dokumente zuerst auswerten; Rückfragen nur dort stellen, wo sie die Entscheidung ändern.
+3. Passende Spezialskills aus diesem Plugin vorschlagen und begründen.
+4. Ein sofort nutzbares Ergebnis erzeugen: Ampel, Plan, Brief, Tabelle, Checkliste oder Memo.
+
+## Output-Standard
+- Kurzbild: worum es geht, was gesichert ist, was offen ist.
+- Prüf- oder Bearbeitungsmatrix mit den entscheidenden Punkten.
+- Konkreter nächster Schritt mit Frist, Zuständigkeit und Unterlagen.
+- Bei Außenkommunikation: knapper, sachlicher Textbaustein ohne unnötige Nebenangaben.
+
+<!-- BEGIN ausformulierungspflicht (autogen) -->
+> **Ausformulierungspflicht und Formatstandard.** Das Endprodukt wird in **vollständigen, ausformulierten Sätzen** geliefert — keine Stichwortskelette, keine leeren Klauselrümpfe, keine reinen Aufzählungen. Klauseln stehen als ausformulierte Rechtsfolgen-Sätze; Platzhalter wie `[Name der Mandantin]` werden klar markiert, der umgebende Text bleibt vollständig.
+>
+> **Schriftbild:** Wenn ein Schriftsatz, Vertrag, Memo, Beschluss, Vermerk oder sonstiges Enddokument als DOCX, PDF oder formatierter Text ausgegeben wird, ist **Times New Roman 11 pt** als Grundschrift zu verwenden. Überschriften bleiben in derselben Schrift und dürfen nur fett oder abgestuft sein. Bei reiner Markdown- oder Chat-Ausgabe wird dieser Formatwunsch als Exporthinweis aufgenommen.
+>
+> **Nummerierung:** Gliederung ausschließlich dezimal (`1`, `1.1`, `1.1.1` und so weiter). Keine römischen Ziffern, keine Buchstaben- oder Mischgliederung.
+<!-- END ausformulierungspflicht (autogen) -->
+
+## Quellenregel
+- Aktuelle Normen, Behördenhinweise, Gerichtsseiten, Register, Formulare und EU-/Landesrecht live prüfen, wenn sie für das Ergebnis tragend sind.
+- Rechtsprechung nur mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle ausgeben.
+- Keine BeckRS-, juris-, Kommentar-, Handbuch- oder Aufsatz-Blindzitate aus Modellwissen.
+- Unsicherheiten und Annahmen ausdrücklich markieren.
+
+---
+
+## Skill: `terms-term-sheet`
+
+_Für Terms: Risikoampel, Gegenargumente und Verteidigungslinien: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt._
+
+# Terms: Risikoampel, Gegenargumente und Verteidigungslinien
 
 ## Arbeitsweg
 
@@ -455,42 +525,76 @@ _Wenn es um Upstream Security und Financial Assistance in Didaktisches Gesellsch
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
 ## Fachlicher Kern — Gesellschaftsrecht und Corporate Law
-- **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `Upstream Security und Financial Assistance` und löse die dort angelegte Fachfrage; arbeite mit konkreten Tatbestandsmerkmalen, Beweisfragen und dem unmittelbar benötigten Arbeitsprodukt. Routingfragen bleiben Hilfsmittel, wenn Frist, Zuständigkeit oder Verfahrensart offen sind.
+- **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `Terms: Risikoampel, Gegenargumente und Verteidigungslinien` und löse die dort angelegte Fachfrage; arbeite mit konkreten Tatbestandsmerkmalen, Beweisfragen und dem unmittelbar benötigten Arbeitsprodukt. Routingfragen bleiben Hilfsmittel, wenn Frist, Zuständigkeit oder Verfahrensart offen sind.
 - **Arbeitsmodus:** Erst Gesellschaftsform, Organ, Beschlussweg, Vertretung, Registerlage, wirtschaftliches Ziel und Minderheitenposition sortieren; dann Treuepflicht, Kapitalerhaltung, Haftung, Transaktions-Closing und Beweis-/Vollzugsrisiko prüfen.
 - **Outputpflicht:** Beschluss-/Listenmatrix, Register-To-do, Board-/Beiratsvorlage, Closing-CP-Liste, Treuepflicht-Red-Team, Geschäftsführerhaftungsmemo oder Mandanten-Decision-Paper.
 - **Fehlerbremse:** Tragende Normen/Entscheidungen live oder aus der Akte verifizieren; Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei prüfbarer Quelle. Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen.
 
-## Kernrisiko
+## Spezialwissen: Terms: Risikoampel, Gegenargumente und Verteidigungslinien
+- **Normen-/Quellenanker:** SHA, SPA, DD, HR.
 
-Wenn eine Tochtergesellschaft Darlehen, Garantien oder Sicherheiten zugunsten ihrer Gesellschafterebene oder Erwerbsfinanzierung gibt, können Kapitalerhaltung, Organpflichten und Insolvenznähe betroffen sein.
+## Fallweichen
+Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur Rückfragen, die die nächste Weiche verändern:
 
-## Begriffe
+1. Welche Rolle hat die fragende Person und wer ist Gegenüber?
+2. Welches konkrete Ziel soll erreicht oder verhindert werden?
+3. Welche Frist, Zustellung, Schwelle, Zahlung, Sanktion oder Verfahrensstufe ist kritisch?
+4. Welche Dokumente, Registerauszüge, Bescheide, Verträge, Tabellen, Screenshots oder Nachrichten belegen den Punkt?
+5. Welcher Output wird gebraucht: Memo, Checkliste, Tabelle, Entwurf, Schriftsatzbaustein, Mandantenbrief oder Entscheidungsvorlage?
 
-- Upstream Loan: Darlehen der Gesellschaft an Gesellschafterebene.
-- Upstream Guarantee: Garantie/Bürgschaft zugunsten von Verbindlichkeiten der Gesellschafterebene.
-- Upstream Security: Sicherheit aus Vermögen der Gesellschaft.
-- Financial Assistance: Finanzierungshilfe beim Anteilserwerb, je nach Rechtsordnung besonders geregelt.
+## Arbeitsworkflow
+1. **Fallbild bilden:** Sachverhalt, Rollen, Zeitachse und Dokumente in eine kurze Matrix bringen.
+2. **Rechtsrahmen setzen:** Normen, Zuständigkeiten, Fristen, Formfragen und Verfahrensstand zum Themenfeld **Terms** prüfen.
+3. **Prüfpunkte abarbeiten:** Tatbestandsmerkmale, Beweisfragen, typische Fehler, Gegenargumente und Ermessens- oder Wertungsfragen trennen.
+4. **Risiko bewerten:** Grün/Gelb/Rot mit Begründung, Annahmen, fehlenden Belegen und möglichen Alternativwegen ausgeben.
+5. **Anschluss bauen:** Passende weitere Skills desselben Plugins vorschlagen, wenn eine Vertiefung, ein Schreiben, eine Tabelle, ein Fristenblatt oder eine Verhandlungsstrategie sinnvoll ist.
 
-## Prüfung
+---
 
-1. Wer gibt was an wen?
-2. Ist ein vollwertiger Gegenleistungs-/Freistellungsanspruch vorhanden?
-3. Berührt die Maßnahme § 30 GmbHG oder aktienrechtliche Kapitalbindung?
-4. Gibt es Corporate Benefit?
-5. Welche Geschäftsleiterentscheidung und Dokumentation liegt vor?
+## Skill: `business-corporate`
 
-## Didaktischer Arbeitsmodus
+_Für Business: Dokumentenmatrix, Lückenliste und Nachforderung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt._
 
-- Erklaere jeden Begriff zweispurig: englischer Praxisbegriff, naheliegende deutsche Entsprechung und warum beides nicht deckungsgleich sein muss.
-- Arbeite immer an der Dokumentstelle: Term Sheet, SHA, SPA, Satzung, Gesellschafterliste, Cap Table, Board Paper oder Closing Checklist.
-- Gib eine Anfängerfassung in klarer Sprache und eine Praxisfassung für die Partnerin oder den Mandanten.
-- Wenn ein common-law-Begriff nach deutschem Recht verwendet wird, markiere Auslegungsrisiko, deutsches Ersatzkonzept und Formulierungsvorschlag.
+# Business: Dokumentenmatrix, Lückenliste und Nachforderung
+
+## Arbeitsweg
+
+- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
+- Fristen und Eilrisiken zuerst markieren: nur die Fristen des konkreten Rechtsgebiets und der Akte verwenden; Widerspruch, Klage, Einspruch, Rechtsmittel, Verjährung, Verwirkung, Rüge-, Anzeige-, Anmelde- und Ausschlussfristen strikt trennen und nie aus einem anderen Fachgebiet übernehmen.
+- Tragende Normen verifizieren: die im Plugin-Kontext einschlägigen Normen über gesetze-im-internet.de, dejure.org, eur-lex.europa.eu und die amtlichen Bundes-/Landesportale live prüfen — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
+- Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
+- Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
+
+## Fachlicher Kern — Gesellschaftsrecht und Corporate Law
+- **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `Business: Dokumentenmatrix, Lückenliste und Nachforderung` und löse die dort angelegte Fachfrage; arbeite mit konkreten Tatbestandsmerkmalen, Beweisfragen und dem unmittelbar benötigten Arbeitsprodukt. Routingfragen bleiben Hilfsmittel, wenn Frist, Zuständigkeit oder Verfahrensart offen sind.
+- **Arbeitsmodus:** Erst Gesellschaftsform, Organ, Beschlussweg, Vertretung, Registerlage, wirtschaftliches Ziel und Minderheitenposition sortieren; dann Treuepflicht, Kapitalerhaltung, Haftung, Transaktions-Closing und Beweis-/Vollzugsrisiko prüfen.
+- **Outputpflicht:** Beschluss-/Listenmatrix, Register-To-do, Board-/Beiratsvorlage, Closing-CP-Liste, Treuepflicht-Red-Team, Geschäftsführerhaftungsmemo oder Mandanten-Decision-Paper.
+- **Fehlerbremse:** Tragende Normen/Entscheidungen live oder aus der Akte verifizieren; Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei prüfbarer Quelle. Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen.
+
+## Spezialwissen: Business: Dokumentenmatrix, Lückenliste und Nachforderung
+- **Normen-/Quellenanker:** SHA, SPA, DD, HR.
+
+## Fallweichen
+Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur Rückfragen, die die nächste Weiche verändern:
+
+1. Welche Rolle hat die fragende Person und wer ist Gegenüber?
+2. Welches konkrete Ziel soll erreicht oder verhindert werden?
+3. Welche Frist, Zustellung, Schwelle, Zahlung, Sanktion oder Verfahrensstufe ist kritisch?
+4. Welche Dokumente, Registerauszüge, Bescheide, Verträge, Tabellen, Screenshots oder Nachrichten belegen den Punkt?
+5. Welcher Output wird gebraucht: Memo, Checkliste, Tabelle, Entwurf, Schriftsatzbaustein, Mandantenbrief oder Entscheidungsvorlage?
+
+## Arbeitsworkflow
+1. **Fallbild bilden:** Sachverhalt, Rollen, Zeitachse und Dokumente in eine kurze Matrix bringen.
+2. **Rechtsrahmen setzen:** Normen, Zuständigkeiten, Fristen, Formfragen und Verfahrensstand zum Themenfeld **Business** prüfen.
+3. **Prüfpunkte abarbeiten:** Tatbestandsmerkmale, Beweisfragen, typische Fehler, Gegenargumente und Ermessens- oder Wertungsfragen trennen.
+4. **Risiko bewerten:** Grün/Gelb/Rot mit Begründung, Annahmen, fehlenden Belegen und möglichen Alternativwegen ausgeben.
+5. **Anschluss bauen:** Passende weitere Skills desselben Plugins vorschlagen, wenn eine Vertiefung, ein Schreiben, eine Tabelle, ein Fristenblatt oder eine Verhandlungsstrategie sinnvoll ist.
 
 ---
 
 ## Skill: `deutsches-englische-drag-tag`
 
-_Wenn es um Deutsches Recht, englische Vertragssprache in Didaktisches Gesellschaftsrecht — English Business Terms geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen._
+_Für Deutsches Recht, englische Vertragssprache: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Schnittstellenkarte mit Zuständigkeits- und Nachweisfragen._
 
 # Deutsches Recht, englische Vertragssprache
 
@@ -547,11 +651,11 @@ Ist Englisch nur Arbeitssprache, verbindliche Vertragssprache oder Prozesssprach
 
 ---
 
-## Skill: `transfer-restrictions-upstream-security`
+## Skill: `didaktisches-gesellschafterliste`
 
-_Wenn es um Transfer Restrictions und Vinkulierung in Didaktisches Gesellschaftsrecht — English Business Terms geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen._
+_Für Didaktisches: Erstprüfung, Rollenklärung und Mandatsziel: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt._
 
-# Transfer Restrictions und Vinkulierung
+# Didaktisches: Erstprüfung, Rollenklärung und Mandatsziel
 
 ## Arbeitsweg
 
@@ -562,95 +666,83 @@ _Wenn es um Transfer Restrictions und Vinkulierung in Didaktisches Gesellschafts
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
 ## Fachlicher Kern — Gesellschaftsrecht und Corporate Law
-- **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `Transfer Restrictions und Vinkulierung` und löse die dort angelegte Fachfrage; arbeite mit konkreten Tatbestandsmerkmalen, Beweisfragen und dem unmittelbar benötigten Arbeitsprodukt. Routingfragen bleiben Hilfsmittel, wenn Frist, Zuständigkeit oder Verfahrensart offen sind.
+- **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `Didaktisches: Erstprüfung, Rollenklärung und Mandatsziel` und löse die dort angelegte Fachfrage; arbeite mit konkreten Tatbestandsmerkmalen, Beweisfragen und dem unmittelbar benötigten Arbeitsprodukt. Routingfragen bleiben Hilfsmittel, wenn Frist, Zuständigkeit oder Verfahrensart offen sind.
 - **Arbeitsmodus:** Erst Gesellschaftsform, Organ, Beschlussweg, Vertretung, Registerlage, wirtschaftliches Ziel und Minderheitenposition sortieren; dann Treuepflicht, Kapitalerhaltung, Haftung, Transaktions-Closing und Beweis-/Vollzugsrisiko prüfen.
 - **Outputpflicht:** Beschluss-/Listenmatrix, Register-To-do, Board-/Beiratsvorlage, Closing-CP-Liste, Treuepflicht-Red-Team, Geschäftsführerhaftungsmemo oder Mandanten-Decision-Paper.
 - **Fehlerbremse:** Tragende Normen/Entscheidungen live oder aus der Akte verifizieren; Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei prüfbarer Quelle. Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen.
 
-## Ziel
+## Spezialwissen: Didaktisches: Erstprüfung, Rollenklärung und Mandatsziel
+- **Normen-/Quellenanker:** SHA, SPA, DD, HR.
 
-Veräußerungsbeschränkungen sprachlich und gesellschaftsrechtlich auseinanderhalten.
+## Fallweichen
+Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur Rückfragen, die die nächste Weiche verändern:
 
-## Begriffe
+1. Welche Rolle hat die fragende Person und wer ist Gegenüber?
+2. Welches konkrete Ziel soll erreicht oder verhindert werden?
+3. Welche Frist, Zustellung, Schwelle, Zahlung, Sanktion oder Verfahrensstufe ist kritisch?
+4. Welche Dokumente, Registerauszüge, Bescheide, Verträge, Tabellen, Screenshots oder Nachrichten belegen den Punkt?
+5. Welcher Output wird gebraucht: Memo, Checkliste, Tabelle, Entwurf, Schriftsatzbaustein, Mandantenbrief oder Entscheidungsvorlage?
 
-| Begriff | Bedeutung |
-| --- | --- |
-| Vinkulierung | Abtretung nur mit Zustimmung |
-| Lock-up | zeitliche Veräußerungssperre |
-| ROFR | Recht, zu fremden Konditionen einzutreten |
-| ROFO | Recht, zuerst ein Angebot zu erhalten |
-| Permitted Transfer | erlaubte Übertragung ohne Normalverfahren |
-
-## Prüffragen
-
-1. Gilt § 15 Abs. 5 GmbHG durch Satzung?
-2. Welche Form braucht die Übertragung?
-3. Wer stimmt zu und nach welchem Maßstab?
-4. Sind Konzernübertragungen, Erbfälle, Treuhand oder Sicherheiten ausgenommen?
-5. Wie wird ein Verstoß sanktioniert?
-
-## Didaktischer Arbeitsmodus
-
-- Erklaere jeden Begriff zweispurig: englischer Praxisbegriff, naheliegende deutsche Entsprechung und warum beides nicht deckungsgleich sein muss.
-- Arbeite immer an der Dokumentstelle: Term Sheet, SHA, SPA, Satzung, Gesellschafterliste, Cap Table, Board Paper oder Closing Checklist.
-- Gib eine Anfängerfassung in klarer Sprache und eine Praxisfassung für die Partnerin oder den Mandanten.
-- Wenn ein common-law-Begriff nach deutschem Recht verwendet wird, markiere Auslegungsrisiko, deutsches Ersatzkonzept und Formulierungsvorschlag.
+## Arbeitsworkflow
+1. **Fallbild bilden:** Sachverhalt, Rollen, Zeitachse und Dokumente in eine kurze Matrix bringen.
+2. **Rechtsrahmen setzen:** Normen, Zuständigkeiten, Fristen, Formfragen und Verfahrensstand zum Themenfeld **Didaktisches** prüfen.
+3. **Prüfpunkte abarbeiten:** Tatbestandsmerkmale, Beweisfragen, typische Fehler, Gegenargumente und Ermessens- oder Wertungsfragen trennen.
+4. **Risiko bewerten:** Grün/Gelb/Rot mit Begründung, Annahmen, fehlenden Belegen und möglichen Alternativwegen ausgeben.
+5. **Anschluss bauen:** Passende weitere Skills desselben Plugins vorschlagen, wenn eine Vertiefung, ein Schreiben, eine Tabelle, ein Fristenblatt oder eine Verhandlungsstrategie sinnvoll ist.
 
 ---
 
-## Skill: `governance-board-lernpfad-dealroom`
+## Skill: `workflow-fristen-und-risikoampel`
 
-_Wenn es um Governance, Board und Consent Matters in Didaktisches Gesellschaftsrecht — English Business Terms geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen._
+_Für Fristen- und Risikoampel: prüft Frist, Form, Zuständigkeit und Eilbedarf; Ergebnis: Fristen- und Risikoampel. Fachgebiet: Gesellschaftsrecht Legal English._
 
-# Governance, Board und Consent Matters
+# Fristen- und Risikoampel
 
-## Arbeitsweg
+## Arbeitsauftrag
 
-- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
-- Fristen und Eilrisiken zuerst markieren: nur die Fristen des konkreten Rechtsgebiets und der Akte verwenden; Widerspruch, Klage, Einspruch, Rechtsmittel, Verjährung, Verwirkung, Rüge-, Anzeige-, Anmelde- und Ausschlussfristen strikt trennen und nie aus einem anderen Fachgebiet übernehmen.
-- Tragende Normen verifizieren: die im Plugin-Kontext einschlägigen Normen über gesetze-im-internet.de, dejure.org, eur-lex.europa.eu und die amtlichen Bundes-/Landesportale live prüfen — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
-- Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
-- Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
+Dieser Arbeitsgang macht **Fristen- und Risikoampel** im Bereich **gesellschaftsrecht-legal-english** sofort bearbeitbar: erst Akte lesen, dann Rollen, Ziel, Fristen, Belege und Entscheidungspunkte ordnen. Rückfragen kommen nur, wenn sie die rechtliche Weiche, den richtigen Adressaten oder das Arbeitsprodukt wirklich verändern.
 
-## Fachlicher Kern — Gesellschaftsrecht und Corporate Law
-- **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `Governance, Board und Consent Matters` und löse die dort angelegte Fachfrage; arbeite mit konkreten Tatbestandsmerkmalen, Beweisfragen und dem unmittelbar benötigten Arbeitsprodukt. Routingfragen bleiben Hilfsmittel, wenn Frist, Zuständigkeit oder Verfahrensart offen sind.
-- **Arbeitsmodus:** Erst Gesellschaftsform, Organ, Beschlussweg, Vertretung, Registerlage, wirtschaftliches Ziel und Minderheitenposition sortieren; dann Treuepflicht, Kapitalerhaltung, Haftung, Transaktions-Closing und Beweis-/Vollzugsrisiko prüfen.
-- **Outputpflicht:** Beschluss-/Listenmatrix, Register-To-do, Board-/Beiratsvorlage, Closing-CP-Liste, Treuepflicht-Red-Team, Geschäftsführerhaftungsmemo oder Mandanten-Decision-Paper.
-- **Fehlerbremse:** Tragende Normen/Entscheidungen live oder aus der Akte verifizieren; Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei prüfbarer Quelle. Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen.
+## Aktenstart ohne Leerlauf
 
-## Kernwarnung
+1. Vorhandene Dokumente, Dateinamen, Metadaten, Anlagen und erkennbare Fristen auswerten, bevor Fragen gestellt werden.
+2. Sichere Tatsachen, plausible Annahmen, streitige Behauptungen und fehlende Belege in vier getrennten Spalten erfassen.
+3. Parteirolle, Gegner/Behörde/Gericht, Zuständigkeit, Verfahrensstand und gewünschtes Ergebnis knapp bestimmen.
+4. Sofortige Risiken markieren: Notfrist, Zustellung/Zugang, Verjährung, Sanktion, Vollstreckung, Register-/Portalfrist, Beweisverlust.
+5. Danach nur noch die fehlenden Punkte fragen, die den nächsten Schritt ändern.
 
-`Board` ist kein sicherer deutscher Rechtsbegriff. Er kann Geschäftsführung, Vorstand, Aufsichtsrat, Beirat oder Investorengremium meinen.
+## Fachliche Anker
 
-## Intake
+- BGB §§ 21 ff., 705 ff.; HGB; GmbHG; AktG; UmwG; FamFG/Registerrecht; PartG/Vereinsrecht je nach Organisation.
+- Organ, Vertretung, Beschluss, Ladung, Mehrheit, Registervollzug, Treuepflicht und Haftung getrennt prüfen.
+- Cap Table, Gesellschafterliste, Satzung, Protokoll, Registerstand und Nebenabreden nie vermischen.
 
-1. Welche Gesellschaftsform?
-2. Welches Dokument?
-3. Wer soll entscheiden, wer soll nur zustimmen, wer soll beraten?
-4. Ist das Gremium gesetzliches Organ oder vertraglich geschaffen?
-5. Welche Maßnahmen sind zustimmungspflichtig?
+## Arbeitsprodukt
 
-## Consent-Matter-Prüfung
+- **Kurzdiagnose:** Was ist wahrscheinlich los, welche Rechtsfrage trägt den Fall, was ist sofort zu tun?
+- **Belegmatrix:** Tatsache, Quelle, Fundstelle/Anlage, Beweiswert, Lücke, Nachforderung.
+- **Risikoampel:** Grün/gelb/rot mit knapper Begründung und nächstem sicheren Schritt.
+- **Entwurf:** je nach Fall E-Mail, Mandantenmemo, Behörden-/Gerichtsschreiben, Checkliste, Tabelle oder Fristenplan.
+- **Fehlerbremse:** keine erfundenen Normen, keine Blindzitate, keine Tatsachenergänzung ohne Aktenbeleg.
 
-| Punkt | Frage |
-| --- | --- |
-| Schwelle | Betrag, Laufzeit, Risiko, Mitarbeiterzahl |
-| Eilfälle | Darf Management handeln, wenn Gefahr im Verzug ist? |
-| Blockade | Was passiert bei verweigerter Zustimmung? |
-| Dokument | Satzung, Geschäftsordnung, SHA, Geschäftsführeranstellungsvertrag |
+## Ergänzende Hinweise
 
-## Didaktischer Arbeitsmodus
+## Legal English Pitfalls Corporate
+- "Articles of Association" = Gesellschaftsvertrag/Satzung; nicht "statutes" (das wäre missverständlich für Gesetze).
+- "Shareholder" = Gesellschafter (GmbH) bzw. Aktionär (AG); im SPA-Kontext meist neutral.
+- "Closing" vs. "Signing": Trennung wirtschaftlicher und rechtlicher Übergang in M&A; in Deutschland faktisch gleichbedeutend wenn Erfüllung sofort, andernfalls Closing-Bedingungen (Conditions Precedent).
+- "Representations and Warranties" → deutsche Garantien (§ 311 BGB) bzw. selbständige Beschaffenheitsgarantien (§ 443 BGB).
+- "Indemnity" → Freistellungsanspruch; nicht mit "Versicherung" verwechseln.
+- "Material Adverse Change/Effect" (MAC/MAE): unscharfer Kontinent-vs.-Civil-Law-Begriff; in deutschem Recht Schwellenwerte vereinbaren.
 
-- Erklaere jeden Begriff zweispurig: englischer Praxisbegriff, naheliegende deutsche Entsprechung und warum beides nicht deckungsgleich sein muss.
-- Arbeite immer an der Dokumentstelle: Term Sheet, SHA, SPA, Satzung, Gesellschafterliste, Cap Table, Board Paper oder Closing Checklist.
-- Gib eine Anfängerfassung in klarer Sprache und eine Praxisfassung für die Partnerin oder den Mandanten.
-- Wenn ein common-law-Begriff nach deutschem Recht verwendet wird, markiere Auslegungsrisiko, deutsches Ersatzkonzept und Formulierungsvorschlag.
+## Trade-off
+- "Best efforts" (US) vs. "reasonable efforts" (UK): in Deutschland am ehesten "im Rahmen des wirtschaftlich Zumutbaren" — Auslegungsoffen, daher Konkretisierung sinnvoll.
+- "Boilerplate" (Severability, Entire Agreement, Counterparts): § 139 BGB Teilnichtigkeit verdrängt einfache Severability; "Entire Agreement"-Klausel beschränkt § 311 Abs. 2 BGB c.i.c.-Schadensersatz nur eingeschränkt.
 
 ---
 
 ## Skill: `legal-schriftsatz-brief-und-memo-bausteine`
 
-_Wenn es um Legal: Schriftsatz-, Brief- und Memo-Bausteine in Didaktisches Gesellschaftsrecht — English Business Terms geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik._
+_Für Legal: Schriftsatz-, Brief- und Memo-Bausteine: erstellt Entwurf mit Antrag, Beweis und Anlagen; Ergebnis: Schriftsatz mit Begründungs- und Anlagenlogik._
 
 # Legal: Schriftsatz-, Brief- und Memo-Bausteine
 
@@ -689,11 +781,11 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 
 ---
 
-## Skill: `earn-out-kaufpreismechanik`
+## Skill: `sha-gesellschaftervereinbarung`
 
-_Wenn es um Earn-out und Kaufpreismechanik in Didaktisches Gesellschaftsrecht — English Business Terms geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt._
+_Für Shareholders Agreement und Gesellschaftervereinbarung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt._
 
-# Earn-out und Kaufpreismechanik
+# Shareholders Agreement und Gesellschaftervereinbarung
 
 ## Arbeitsweg
 
@@ -704,186 +796,33 @@ _Wenn es um Earn-out und Kaufpreismechanik in Didaktisches Gesellschaftsrecht �
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
 ## Fachlicher Kern — Gesellschaftsrecht und Corporate Law
-- **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `Earn-out und Kaufpreismechanik` und löse die dort angelegte Fachfrage; arbeite mit konkreten Tatbestandsmerkmalen, Beweisfragen und dem unmittelbar benötigten Arbeitsprodukt. Routingfragen bleiben Hilfsmittel, wenn Frist, Zuständigkeit oder Verfahrensart offen sind.
+- **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `Shareholders Agreement und Gesellschaftervereinbarung` und löse die dort angelegte Fachfrage; arbeite mit konkreten Tatbestandsmerkmalen, Beweisfragen und dem unmittelbar benötigten Arbeitsprodukt. Routingfragen bleiben Hilfsmittel, wenn Frist, Zuständigkeit oder Verfahrensart offen sind.
 - **Arbeitsmodus:** Erst Gesellschaftsform, Organ, Beschlussweg, Vertretung, Registerlage, wirtschaftliches Ziel und Minderheitenposition sortieren; dann Treuepflicht, Kapitalerhaltung, Haftung, Transaktions-Closing und Beweis-/Vollzugsrisiko prüfen.
 - **Outputpflicht:** Beschluss-/Listenmatrix, Register-To-do, Board-/Beiratsvorlage, Closing-CP-Liste, Treuepflicht-Red-Team, Geschäftsführerhaftungsmemo oder Mandanten-Decision-Paper.
 - **Fehlerbremse:** Tragende Normen/Entscheidungen live oder aus der Akte verifizieren; Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei prüfbarer Quelle. Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen.
 
-## Ziel
+## Kernfrage
 
-Kaufpreisbegriffe so erklären, dass wirtschaftliche Mechanik, Bilanzlogik und Vertragsrisiko zusammen sichtbar werden.
-
-## Begriffe
-
-- Earn-out: nachlaufender Kaufpreis abhängig von zukünftigen Kennzahlen oder Ereignissen.
-- Locked Box: Kaufpreis auf Basis eines historischen Stichtags mit Leakage-Schutz.
-- Completion Accounts: Kaufpreisanpassung anhand Vollzugsabschluss.
-- Leakage: nicht erlaubter Wertabfluss.
-- Permitted Leakage: zugelassener Wertabfluss.
+Was muss in die Satzung, was kann in die Gesellschaftervereinbarung, und was braucht beides?
 
 ## Prüfung
 
-1. Welche Kennzahl oder welcher Meilenstein?
-2. Wer steuert das Unternehmen im Earn-out-Zeitraum?
-3. Welche Bilanzierungsstandards?
-4. Manipulationsschutz?
-5. Streitmechanismus: Expert Determination, Schiedsgutachten, Gericht?
+1. Rechtsträger: GmbH, AG, Personengesellschaft, Auslandsgesellschaft.
+2. Parteien: alle Gesellschafter oder nur Investorengruppe?
+3. Regelungstyp: Governance, Economics, Transfer, Leaver, Information, Exit.
+4. Außenwirkung/Registerfähigkeit prüfen.
+5. Konflikt zwischen Satzung und SHA markieren.
 
-## Didaktischer Arbeitsmodus
+## Typische Klauseln
 
-- Erklaere jeden Begriff zweispurig: englischer Praxisbegriff, naheliegende deutsche Entsprechung und warum beides nicht deckungsgleich sein muss.
-- Arbeite immer an der Dokumentstelle: Term Sheet, SHA, SPA, Satzung, Gesellschafterliste, Cap Table, Board Paper oder Closing Checklist.
-- Gib eine Anfängerfassung in klarer Sprache und eine Praxisfassung für die Partnerin oder den Mandanten.
-- Wenn ein common-law-Begriff nach deutschem Recht verwendet wird, markiere Auslegungsrisiko, deutsches Ersatzkonzept und Formulierungsvorschlag.
-
----
-
-## Skill: `term-sheet-investment-agreement`
-
-_Wenn es um Term Sheet und Investment Agreement in Didaktisches Gesellschaftsrecht — English Business Terms geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen._
-
-# Term Sheet und Investment Agreement
-
-## Arbeitsweg
-
-- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
-- Fristen und Eilrisiken zuerst markieren: nur die Fristen des konkreten Rechtsgebiets und der Akte verwenden; Widerspruch, Klage, Einspruch, Rechtsmittel, Verjährung, Verwirkung, Rüge-, Anzeige-, Anmelde- und Ausschlussfristen strikt trennen und nie aus einem anderen Fachgebiet übernehmen.
-- Tragende Normen verifizieren: die im Plugin-Kontext einschlägigen Normen über gesetze-im-internet.de, dejure.org, eur-lex.europa.eu und die amtlichen Bundes-/Landesportale live prüfen — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
-- Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
-- Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
-
-## Fachlicher Kern — Gesellschaftsrecht und Corporate Law
-- **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `Term Sheet und Investment Agreement` und löse die dort angelegte Fachfrage; arbeite mit konkreten Tatbestandsmerkmalen, Beweisfragen und dem unmittelbar benötigten Arbeitsprodukt. Routingfragen bleiben Hilfsmittel, wenn Frist, Zuständigkeit oder Verfahrensart offen sind.
-- **Arbeitsmodus:** Erst Gesellschaftsform, Organ, Beschlussweg, Vertretung, Registerlage, wirtschaftliches Ziel und Minderheitenposition sortieren; dann Treuepflicht, Kapitalerhaltung, Haftung, Transaktions-Closing und Beweis-/Vollzugsrisiko prüfen.
-- **Outputpflicht:** Beschluss-/Listenmatrix, Register-To-do, Board-/Beiratsvorlage, Closing-CP-Liste, Treuepflicht-Red-Team, Geschäftsführerhaftungsmemo oder Mandanten-Decision-Paper.
-- **Fehlerbremse:** Tragende Normen/Entscheidungen live oder aus der Akte verifizieren; Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei prüfbarer Quelle. Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen.
-
-## Ziel
-
-Erkennen, welche Teile eines Term Sheets bloße Eckpunkte sind und welche bereits rechtlich binden können.
-
-## Prüfung
-
-1. Parteien, Gesellschaft, Runde, Bewertung, Investmentbetrag.
-2. Binding/Non-binding-Klausel lesen.
-3. Vertraulichkeit, Exklusivität, Kosten, Rechtswahl und Gerichtsstand markieren.
-4. CPs und Closing Mechanics extrahieren.
-5. Satzung/SHA/Investment Agreement/Cap Table als Dokumentenpaket denken.
-
-## Typische Begriffe
-
-- Pre-money valuation
-- Post-money valuation
-- Minimum investment amount
-- Lead investor
-- Conditions precedent
-- Long Stop Date
-- Subscription
-- Closing
-- Founder warranties
-
-## Didaktischer Arbeitsmodus
-
-- Erklaere jeden Begriff zweispurig: englischer Praxisbegriff, naheliegende deutsche Entsprechung und warum beides nicht deckungsgleich sein muss.
-- Arbeite immer an der Dokumentstelle: Term Sheet, SHA, SPA, Satzung, Gesellschafterliste, Cap Table, Board Paper oder Closing Checklist.
-- Gib eine Anfängerfassung in klarer Sprache und eine Praxisfassung für die Partnerin oder den Mandanten.
-- Wenn ein common-law-Begriff nach deutschem Recht verwendet wird, markiere Auslegungsrisiko, deutsches Ersatzkonzept und Formulierungsvorschlag.
-
----
-
-## Skill: `reps-warranties-indemnities`
-
-_Wenn es um Reps, Warranties und Indemnities in Didaktisches Gesellschaftsrecht — English Business Terms geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen._
-
-# Reps, Warranties und Indemnities
-
-## Arbeitsweg
-
-- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
-- Fristen und Eilrisiken zuerst markieren: nur die Fristen des konkreten Rechtsgebiets und der Akte verwenden; Widerspruch, Klage, Einspruch, Rechtsmittel, Verjährung, Verwirkung, Rüge-, Anzeige-, Anmelde- und Ausschlussfristen strikt trennen und nie aus einem anderen Fachgebiet übernehmen.
-- Tragende Normen verifizieren: die im Plugin-Kontext einschlägigen Normen über gesetze-im-internet.de, dejure.org, eur-lex.europa.eu und die amtlichen Bundes-/Landesportale live prüfen — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
-- Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
-- Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
-
-## Fachlicher Kern — Gesellschaftsrecht und Corporate Law
-- **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `Reps, Warranties und Indemnities` und löse die dort angelegte Fachfrage; arbeite mit konkreten Tatbestandsmerkmalen, Beweisfragen und dem unmittelbar benötigten Arbeitsprodukt. Routingfragen bleiben Hilfsmittel, wenn Frist, Zuständigkeit oder Verfahrensart offen sind.
-- **Arbeitsmodus:** Erst Gesellschaftsform, Organ, Beschlussweg, Vertretung, Registerlage, wirtschaftliches Ziel und Minderheitenposition sortieren; dann Treuepflicht, Kapitalerhaltung, Haftung, Transaktions-Closing und Beweis-/Vollzugsrisiko prüfen.
-- **Outputpflicht:** Beschluss-/Listenmatrix, Register-To-do, Board-/Beiratsvorlage, Closing-CP-Liste, Treuepflicht-Red-Team, Geschäftsführerhaftungsmemo oder Mandanten-Decision-Paper.
-- **Fehlerbremse:** Tragende Normen/Entscheidungen live oder aus der Akte verifizieren; Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei prüfbarer Quelle. Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen.
-
-## Kernwarnung
-
-Diese Begriffe sind keine hübschen Synonyme für Gewährleistung. Sie bilden ein eigenes vertragliches Risikosystem.
-
-## Abgrenzung
-
-| Begriff | Funktion |
-| --- | --- |
-| Representation | Aussage über Tatsachen/Zustand |
-| Warranty | vertragliche Zusicherung mit Haftungsfolge |
-| Covenant | Handlungs- oder Unterlassungspflicht |
-| Indemnity | Freistellung für bestimmtes Risiko |
-| Disclosure | Offenlegung zur Haftungsbegrenzung |
-
-## Prüfung
-
-1. Gilt deutsches Recht oder common-law-Recht?
-2. Gibt es ein eigenes Haftungsregime?
-3. Sind Knowledge Qualifiers definiert?
-4. Welche Schäden, Caps, Baskets, De-minimis und Fristen gelten?
-5. Ist Disclosure fair, specific oder general?
-
-## Didaktischer Arbeitsmodus
-
-- Erklaere jeden Begriff zweispurig: englischer Praxisbegriff, naheliegende deutsche Entsprechung und warum beides nicht deckungsgleich sein muss.
-- Arbeite immer an der Dokumentstelle: Term Sheet, SHA, SPA, Satzung, Gesellschafterliste, Cap Table, Board Paper oder Closing Checklist.
-- Gib eine Anfängerfassung in klarer Sprache und eine Praxisfassung für die Partnerin oder den Mandanten.
-- Wenn ein common-law-Begriff nach deutschem Recht verwendet wird, markiere Auslegungsrisiko, deutsches Ersatzkonzept und Formulierungsvorschlag.
-
----
-
-## Skill: `exit-spa-financial-debt`
-
-_Wenn es um Exit, SPA, Closing und CPs in Didaktisches Gesellschaftsrecht — English Business Terms geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt._
-
-# Exit, SPA, Closing und CPs
-
-## Arbeitsweg
-
-- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
-- Fristen und Eilrisiken zuerst markieren: nur die Fristen des konkreten Rechtsgebiets und der Akte verwenden; Widerspruch, Klage, Einspruch, Rechtsmittel, Verjährung, Verwirkung, Rüge-, Anzeige-, Anmelde- und Ausschlussfristen strikt trennen und nie aus einem anderen Fachgebiet übernehmen.
-- Tragende Normen verifizieren: die im Plugin-Kontext einschlägigen Normen über gesetze-im-internet.de, dejure.org, eur-lex.europa.eu und die amtlichen Bundes-/Landesportale live prüfen — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
-- Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
-- Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
-
-## Fachlicher Kern — Gesellschaftsrecht und Corporate Law
-- **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `Exit, SPA, Closing und CPs` und löse die dort angelegte Fachfrage; arbeite mit konkreten Tatbestandsmerkmalen, Beweisfragen und dem unmittelbar benötigten Arbeitsprodukt. Routingfragen bleiben Hilfsmittel, wenn Frist, Zuständigkeit oder Verfahrensart offen sind.
-- **Arbeitsmodus:** Erst Gesellschaftsform, Organ, Beschlussweg, Vertretung, Registerlage, wirtschaftliches Ziel und Minderheitenposition sortieren; dann Treuepflicht, Kapitalerhaltung, Haftung, Transaktions-Closing und Beweis-/Vollzugsrisiko prüfen.
-- **Outputpflicht:** Beschluss-/Listenmatrix, Register-To-do, Board-/Beiratsvorlage, Closing-CP-Liste, Treuepflicht-Red-Team, Geschäftsführerhaftungsmemo oder Mandanten-Decision-Paper.
-- **Fehlerbremse:** Tragende Normen/Entscheidungen live oder aus der Akte verifizieren; Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei prüfbarer Quelle. Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen.
-
-## Grundstruktur
-
-`Signing` ist die Unterzeichnung. `Closing` ist der Vollzug. Dazwischen liegen Bedingungen, Freigaben, Registervorgänge, Zahlungsflüsse und Lieferdokumente.
-
-## CP-Analyse
-
-1. Bedingung oder bloße Verpflichtung?
-2. Wer kontrolliert die Erfüllung?
-3. Welche Nachweise sind vorzulegen?
-4. Bis wann gilt der Long Stop Date?
-5. Was passiert bei Nichterfüllung?
-
-## Exit-Begriff
-
-Exit kann heißen:
-
-- Share Sale.
-- Asset Sale.
-- Merger/Umwandlung.
-- IPO.
-- Liquidation.
-- Secondary Sale.
+- Reserved Matters
+- Voting undertakings
+- Drag/Tag
+- Transfer Restrictions
+- Information Rights
+- Non-compete und Non-solicit
+- Leaver
+- Deadlock
 
 ## Didaktischer Arbeitsmodus
 

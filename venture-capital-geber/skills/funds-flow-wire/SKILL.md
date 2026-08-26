@@ -1,6 +1,6 @@
 ---
 name: funds-flow-wire
-description: "Wenn es um Funds Flow und Zahlungen in Venture Capital Geber geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen."
+description: "Für Funds Flow und Zahlungen: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Funds Flow und Zahlungen

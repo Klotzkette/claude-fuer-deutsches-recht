@@ -1,6 +1,6 @@
 ---
 name: workflow-beweislast-und-belegmatrix
-description: "Wenn es um Workflow: Beweislast und Belegmatrix in BGB BT Prüfer geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Chronologie mit Belegmatrix und Widerspruchsliste. Auswahlstichwort: Workflow Beweislast Und Belegmatrix; Arbeitsfeld: BGB BT Prüfer."
+description: "Für Workflow: Beweislast und Belegmatrix: ordnet Akte, Belege und Lücken; Ergebnis: Chronologie mit Beleg- und Widerspruchsmatrix. Fachgebiet: BGB BT Prüfer. Route: workflow-beweislast-und-belegmatrix."
 ---
 
 # Workflow: Beweislast und Belegmatrix

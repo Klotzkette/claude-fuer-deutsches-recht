@@ -1,6 +1,6 @@
 ---
 name: low-performer-kuendigung-leistungsdefizit-pruefen
-description: "Prüft Kündigungen wegen quantitativer oder qualitativer Minderleistung ohne starre Prozentautomatik. Trennt Können und Wollen, bildet belastbare Vergleichsgruppen, ordnet Darlegungslast, Abmahnung und mildere Mittel und liefert Leistungsakte, Anhörung, Kündigungsrisiko und Prozessvortrag."
+description: "Prüft Kündigungen wegen quantitativer oder qualitativer Minderleistung ohne starre Prozentautomatik."
 ---
 
 # Kündigung wegen Minderleistung prüfen

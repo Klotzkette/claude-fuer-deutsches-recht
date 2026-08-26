@@ -1,6 +1,6 @@
 ---
 name: inso-dsgvo-art17-nach-restschuldbefreiung
-description: "Wenn es um DSGVO Art. 17 nach Restschuldbefreiung in Insolvenzrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für DSGVO Art. 17 nach Restschuldbefreiung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # DSGVO Art. 17 nach Restschuldbefreiung

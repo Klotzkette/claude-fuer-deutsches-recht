@@ -1,6 +1,6 @@
 ---
 name: versicherung-und-praemienrueckforderung
-description: "Wenn es um Versicherung und Prämienrückforderung in bereicherungs-und-anfechtungsrecht-prüfer geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Versicherung und Prämienrückforderung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Versicherung und Prämienrückforderung

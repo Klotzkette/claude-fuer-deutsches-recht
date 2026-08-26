@@ -1,6 +1,6 @@
 ---
 name: beratungshilfe-vor-widerspruch-brh
-description: "Wenn es um Beratungshilfe — Anwalt vor dem Widerspruch in selbstvertreter-sozialgericht geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
+description: "Für Beratungshilfe — Anwalt vor dem Widerspruch: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Beratungshilfe — Anwalt vor dem Widerspruch

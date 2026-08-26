@@ -1,6 +1,6 @@
 ---
 name: klage-zusammenstellen-komplettes-bundle
-description: "Wenn es um Klage komplett zusammenstellen — Schritt für Schritt in selbstvertreter-amtsgericht geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
+description: "Für Klage komplett zusammenstellen — Schritt für Schritt: erstellt Entwurf mit Antrag, Beweis und Anlagen; Ergebnis: Schriftsatz mit Begründungs- und Anlagenlogik."
 ---
 
 # Klage komplett zusammenstellen — Schritt für Schritt

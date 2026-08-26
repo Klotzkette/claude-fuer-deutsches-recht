@@ -1,6 +1,6 @@
 ---
 name: kauf-due-kita-sozialimmobilie
-description: "Wenn es um Erbbaurecht kaufen in Erbbaurecht Praxis geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Erbbaurecht kaufen: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Erbbaurecht kaufen

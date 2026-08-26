@@ -1,6 +1,6 @@
 ---
 name: landwirtschaftsroboter-autonome-feldtechnik
-description: "Wenn es um Landwirtschaftsroboter in robotik-recht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Landwirtschaftsroboter: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt. Fachgebiet: robotik-recht. Route: landwirtschaftsroboter-autonome-feldtechnik."
 ---
 
 # Landwirtschaftsroboter

@@ -1,6 +1,6 @@
 ---
 name: sachverhaltsermittlung
-description: "Wenn es um Sachverhaltsermittlung in Immobilienrechtspraxis geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Sachverhaltsermittlung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Sachverhaltsermittlung

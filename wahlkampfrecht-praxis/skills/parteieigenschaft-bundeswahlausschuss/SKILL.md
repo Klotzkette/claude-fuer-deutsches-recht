@@ -1,6 +1,6 @@
 ---
 name: parteieigenschaft-bundeswahlausschuss
-description: "Wenn es um Parteieigenschaft Bundeswahlausschuss in Wahlkampfrecht Praxis geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Parteieigenschaft Bundeswahlausschuss: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Parteieigenschaft Bundeswahlausschuss

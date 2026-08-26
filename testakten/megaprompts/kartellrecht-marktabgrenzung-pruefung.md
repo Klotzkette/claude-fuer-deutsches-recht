@@ -2,18 +2,18 @@
 
 ## Zusammensetzung
 
-Diese Vollprüfung enthält top-8 von 310 Skills (gekürzt für das Arbeitsfenster) des Plugins `kartellrecht-marktabgrenzung-pruefung`.
+Diese Vollprüfung enthält top-8 von 181 Skills (gekürzt für das Arbeitsfenster) des Plugins `kartellrecht-marktabgrenzung-pruefung`.
 
 ## Inhaltsverzeichnis
 
 1. **juristischer-argumentationskern** — Schaltet sich ein, wenn in Kartellrecht Marktabgrenzung Prüfung ein juristisches Arbeitsprodukt tragfähig begründet werd…
-2. **einstieg-routing** — Wenn es um Einstieg und Routing in Kartellrecht — Marktabgrenzungsprüfung geht: klärt Rolle, Ziel, Frist, Unterlagen und…
-3. **art-101-aeuv-tatbestand-vereinbarung-beschluss-abgestimmte-verha** — Wenn es um Art 101 AEUV Tatbestand Vereinbarung Beschluss abgestimmte Verhaltensweise in Kartellrecht — Marktabgrenzungs…
-4. **vertikale-leitlinien-verweisung-art** — Wenn es um Vertikale Leitlinien EU selektiver Vertrieb Plattformverbote in Kartellrecht — Marktabgrenzungsprüfung geht: …
-5. **freistellung-art-101-abs-3-aeuv-effizienz-verbraucheranteil** — Wenn es um Freistellung Art 101 Abs 3 AEUV Effizienz Verbraucheranteil in Kartellrecht — Marktabgrenzungsprüfung geht: o…
-6. **19a-gwb-relative-abuse-economic** — Wenn es um Paragraf 19a GWB überragende marktübergreifende Bedeutung in Kartellrecht — Marktabgrenzungsprüfung geht: ord…
-7. **rechtsabteilung-meta-plattformdaten-als-kartell-und-datenschutzs** — Wenn es um Rechtsabteilung: Meta-Plattformdaten als Kartell- und Datenschutzschnittstelle in Kartellrecht — Marktabgrenz…
-8. **presseverlage-plattformen-leistungsschutz-schnittstelle** — Wenn es um Presseverlage Plattformen Leistungsschutz Schnittstelle in Kartellrecht — Marktabgrenzungsprüfung geht: ordne…
+2. **einstieg-routing** — Für Einstieg und Routing: routet Rolle, Frist, Unterlagen und Fachschritt; Ergebnis: Prüfprodukt mit Risiko und nächstem…
+3. **rechtsprechung-beweislast-und-darlegungslast** — Für Rechtsprechung: Beweislast, Darlegungslast und Substantiierung: ordnet Norm, Beweislast und Gegenargument; Ergebnis:…
+4. **internationale-kartellrechts-jurisdiktionen** — Für internationale Fusionskontrolle, Kartellverfahren und Competition-Authority-Fragen: wählt Staat und Behörde, lädt nu…
+5. **art-101-aeuv-tatbestand-vereinbarung-beschluss-abgestimmte-verha** — Für Art 101 AEUV Tatbestand Vereinbarung Beschluss abgestimmte Verhaltensweise: ordnet Norm, Beweislast und Gegenargumen…
+6. **workflow-kaltstart-und-routing** — Für Kaltstart und Routing: routet Rolle, Frist, Unterlagen und Fachschritt; Ergebnis: Prüfprodukt mit Risiko und nächste…
+7. **rechtsabteilung-meta-plattformdaten-als-kartell-und-datenschutzs** — Für Rechtsabteilung: Meta-Plattformdaten als Kartell- und Datenschutzschnittstelle: ordnet Norm, Beweislast und Gegenarg…
+8. **paragraf-raeumlicher-ssnip-test** — Für Paragraf: Risikoampel, Gegenargumente und Verteidigungslinien: ordnet Norm, Beweislast und Gegenargument; Ergebnis: …
 
 ---
 
@@ -137,7 +137,7 @@ Ausgangspunkt für dieses Plugin: Anspruchsteller oder Behörde für Markt, Abst
 
 ## Skill: `einstieg-routing`
 
-_Wenn es um Einstieg und Routing in Kartellrecht — Marktabgrenzungsprüfung geht: klärt Rolle, Ziel, Frist, Unterlagen und den passenden nächsten Fachskill; liefert eine Fristen- und Risikoampel mit Sofortschritten._
+_Für Einstieg und Routing: routet Rolle, Frist, Unterlagen und Fachschritt; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt. Fachgebiet: Kartellrecht — Marktabgrenzungsprüfung._
 
 # Einstieg und Routing
 
@@ -179,9 +179,89 @@ Dieser Einstieg routet **Kartellrecht Marktabgrenzung Prüfung** vom ersten Sach
 
 ---
 
+## Skill: `rechtsprechung-beweislast-und-darlegungslast`
+
+_Für Rechtsprechung: Beweislast, Darlegungslast und Substantiierung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Beweislast- und Substantiierungsmatrix. Fachgebiet: Kartellrecht — Marktabgrenzungsprüfung._
+
+# Rechtsprechung: Beweislast, Darlegungslast und Substantiierung
+
+## Arbeitsweg
+
+- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
+- Fristen und Eilrisiken zuerst markieren: FKVO Art. 4 Anmeldepflicht vor Vollzug, GWB § 40 1-Monats-Frist Phase I / 4 Monate Phase II, Bagatellschwellen § 35 GWB (50/17,5 Mio. EUR).
+- Tragende Normen verifizieren: GWB §§ 18, 19, 20, 35, 36, 39, AEUV Art. 101, 102, FKVO (VO 139/2004), Bekanntmachung Kommission Marktabgrenzung 2024 (C/2024/1645), Leitlinien horizontale/vertikale Zusammenarbeit, HMG-Index — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
+- Zuständige Stelle bestimmen und Adressaten richtig wählen: Bundeskartellamt, EU-KOM (DG COMP), Anmelder, Wettbewerber, OLG Düsseldorf (Kartellsenat), EuG, EuGH.
+- Dokumente und Beweismittel sammeln und auf Lücken prüfen: Zusammenschlussanmeldung Form CO, Marktabgrenzungsanalyse, SSNIP-Test, HMG-Berechnung, Critical-Loss-Analyse, Datenanalyse (PoS/Scanner), Marktbefragung — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
+
+## Spezialwissen: Rechtsprechung: Beweislast, Darlegungslast und Substantiierung
+- **Normen-/Quellenanker:** GWB, Art. 101, AEUV, SSNIP.
+
+## Fallweichen
+Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur Rückfragen, die die nächste Weiche verändern:
+
+1. Welche Rolle hat die fragende Person und wer ist Gegenüber?
+2. Welches konkrete Ziel soll erreicht oder verhindert werden?
+3. Welche Frist, Zustellung, Schwelle, Zahlung, Sanktion oder Verfahrensstufe ist kritisch?
+4. Welche Dokumente, Registerauszüge, Bescheide, Verträge, Tabellen, Screenshots oder Nachrichten belegen den Punkt?
+5. Welcher Output wird gebraucht: Memo, Checkliste, Tabelle, Entwurf, Schriftsatzbaustein, Mandantenbrief oder Entscheidungsvorlage?
+
+## Arbeitsworkflow
+1. **Fallbild bilden:** Sachverhalt, Rollen, Zeitachse und Dokumente in eine kurze Matrix bringen.
+2. **Rechtsrahmen setzen:** Normen, Zuständigkeiten, Fristen, Formfragen und Verfahrensstand zum Themenfeld **Rechtsprechung** prüfen.
+3. **Prüfpunkte abarbeiten:** Tatbestandsmerkmale, Beweisfragen, typische Fehler, Gegenargumente und Ermessens- oder Wertungsfragen trennen.
+4. **Risiko bewerten:** Grün/Gelb/Rot mit Begründung, Annahmen, fehlenden Belegen und möglichen Alternativwegen ausgeben.
+5. **Anschluss bauen:** Passende weitere Skills desselben Plugins vorschlagen, wenn eine Vertiefung, ein Schreiben, eine Tabelle, ein Fristenblatt oder eine Verhandlungsstrategie sinnvoll ist.
+
+---
+
+## Skill: `internationale-kartellrechts-jurisdiktionen`
+
+_Für internationale Fusionskontrolle, Kartellverfahren und Competition-Authority-Fragen: wählt Staat und Behörde, lädt nur die Länderreferenz und liefert Zuständigkeits-, Fristen- und Anmeldepfad._
+
+# Internationale Kartellrechtsjurisdiktionen
+
+## 1. Direktstart
+
+Bestimme zuerst betroffene Staaten, Umsatz- oder Transaktionsbezug, Verhalten, Vollzugszeitpunkt und gewünschten Behördenkontakt. Länderangaben sind Arbeitsanker; Schwellen, Behördenzuständigkeit und Formulare werden vor Verwendung aus Primärquellen aktualisiert.
+
+1. Vorhandene Unterlagen zuerst lesen und bereits erkennbare Angaben übernehmen.
+2. Sachthema, Zeitraum, Verfahrensstand und gewünschtes Arbeitsprodukt bestimmen.
+3. Genau eine passende Referenz aus der folgenden Tabelle laden; nur bei einer echten Schnittstelle eine zweite.
+4. Nach der Vertiefung unmittelbar das Arbeitsprodukt erstellen und nur entscheidungserhebliche Lücken nachfragen.
+
+## 2. Bedarfsgeladene Vertiefungen
+
+| Fallgruppe | Referenz | Nur laden bei |
+| --- | --- | --- |
+| A-B 1 | [a-b-01.md](https://github.com/Klotzkette/claude-fuer-deutsches-recht/blob/main/kartellrecht-marktabgrenzung-pruefung/skills/internationale-kartellrechts-jurisdiktionen/references/a-b-01.md) | Staat oder Jurisdiktion mit Anfangsbuchstaben A-B; enthält Jurisdiktion Ägypten: Competition Authority Check, Jurisdiktion Albanien: Competition Authority Check, Jurisdiktion Algerien: Competition Authority Check, Jurisdiktion Andorra: Competition Authority Check, Jurisdiktion Angola: Competition Authority Check und 6 |
+| A-B 2 | [a-b-02.md](https://github.com/Klotzkette/claude-fuer-deutsches-recht/blob/main/kartellrecht-marktabgrenzung-pruefung/skills/internationale-kartellrechts-jurisdiktionen/references/a-b-02.md) | Staat oder Jurisdiktion mit Anfangsbuchstaben A-B; enthält Jurisdiktion Barbados: Competition Authority Check, Jurisdiktion Belarus: Competition Authority Check, Jurisdiktion Belgien: Competition Authority Check, Jurisdiktion Bolivien: Competition Authority Check, Jurisdiktion Bosnien und Herzegowina: Competition Auth |
+| C-F 1 | [c-f-01.md](https://github.com/Klotzkette/claude-fuer-deutsches-recht/blob/main/kartellrecht-marktabgrenzung-pruefung/skills/internationale-kartellrechts-jurisdiktionen/references/c-f-01.md) | Staat oder Jurisdiktion mit Anfangsbuchstaben C-F; enthält Jurisdiktion Chile: Competition Authority Check, Jurisdiktion China: Competition Authority Check, Jurisdiktion Costa Rica: Competition Authority Check, Jurisdiktion Dänemark: Competition Authority Check, Jurisdiktion Deutschland: Competition Authority Check un |
+| C-F 2 | [c-f-02.md](https://github.com/Klotzkette/claude-fuer-deutsches-recht/blob/main/kartellrecht-marktabgrenzung-pruefung/skills/internationale-kartellrechts-jurisdiktionen/references/c-f-02.md) | Staat oder Jurisdiktion mit Anfangsbuchstaben C-F; enthält Jurisdiktion Finnland: Competition Authority Check, Jurisdiktion Frankreich: Competition Authority Check |
+| G-K 1 | [g-k-01.md](https://github.com/Klotzkette/claude-fuer-deutsches-recht/blob/main/kartellrecht-marktabgrenzung-pruefung/skills/internationale-kartellrechts-jurisdiktionen/references/g-k-01.md) | Staat oder Jurisdiktion mit Anfangsbuchstaben G-K; enthält Jurisdiktion Georgien: Competition Authority Check, Jurisdiktion Ghana: Competition Authority Check, Jurisdiktion Griechenland: Competition Authority Check, Jurisdiktion Guatemala: Competition Authority Check, Jurisdiktion Honduras: Competition Authority Check |
+| G-K 2 | [g-k-02.md](https://github.com/Klotzkette/claude-fuer-deutsches-recht/blob/main/kartellrecht-marktabgrenzung-pruefung/skills/internationale-kartellrechts-jurisdiktionen/references/g-k-02.md) | Staat oder Jurisdiktion mit Anfangsbuchstaben G-K; enthält Jurisdiktion Italien: Competition Authority Check, Jurisdiktion Jamaika: Competition Authority Check, Jurisdiktion Japan: Competition Authority Check, Jurisdiktion Jordanien: Competition Authority Check, Jurisdiktion Kambodscha: Competition Authority Check und |
+| G-K 3 | [g-k-03.md](https://github.com/Klotzkette/claude-fuer-deutsches-recht/blob/main/kartellrecht-marktabgrenzung-pruefung/skills/internationale-kartellrechts-jurisdiktionen/references/g-k-03.md) | Staat oder Jurisdiktion mit Anfangsbuchstaben G-K; enthält Jurisdiktion Korea Süd: Competition Authority Check, Jurisdiktion Kosovo: Competition Authority Check, Jurisdiktion Kroatien: Competition Authority Check, Jurisdiktion Kuwait: Competition Authority Check |
+| L-M 1 | [l-m-01.md](https://github.com/Klotzkette/claude-fuer-deutsches-recht/blob/main/kartellrecht-marktabgrenzung-pruefung/skills/internationale-kartellrechts-jurisdiktionen/references/l-m-01.md) | Staat oder Jurisdiktion mit Anfangsbuchstaben L-M; enthält Jurisdiktion Laos: Competition Authority Check, Jurisdiktion Lettland: Competition Authority Check, Jurisdiktion Libanon: Competition Authority Check, Jurisdiktion Liechtenstein: Competition Authority Check, Jurisdiktion Litauen: Competition Authority Check un |
+| L-M 2 | [l-m-02.md](https://github.com/Klotzkette/claude-fuer-deutsches-recht/blob/main/kartellrecht-marktabgrenzung-pruefung/skills/internationale-kartellrechts-jurisdiktionen/references/l-m-02.md) | Staat oder Jurisdiktion mit Anfangsbuchstaben L-M; enthält Jurisdiktion Marokko: Competition Authority Check, Jurisdiktion Mauritius: Competition Authority Check, Jurisdiktion Mexiko: Competition Authority Check, Jurisdiktion Moldau: Competition Authority Check, Jurisdiktion Monaco: Competition Authority Check und 2 w |
+| N-P 1 | [n-p-01.md](https://github.com/Klotzkette/claude-fuer-deutsches-recht/blob/main/kartellrecht-marktabgrenzung-pruefung/skills/internationale-kartellrechts-jurisdiktionen/references/n-p-01.md) | Staat oder Jurisdiktion mit Anfangsbuchstaben N-P; enthält Jurisdiktion Namibia: Competition Authority Check, Jurisdiktion Nepal: Competition Authority Check, Jurisdiktion Neuseeland: Competition Authority Check, Jurisdiktion Nicaragua: Competition Authority Check, Jurisdiktion Niederlande: Competition Authority Check |
+| N-P 2 | [n-p-02.md](https://github.com/Klotzkette/claude-fuer-deutsches-recht/blob/main/kartellrecht-marktabgrenzung-pruefung/skills/internationale-kartellrechts-jurisdiktionen/references/n-p-02.md) | Staat oder Jurisdiktion mit Anfangsbuchstaben N-P; enthält Jurisdiktion Pakistan: Competition Authority Check, Jurisdiktion Palästina: Competition Authority Check, Jurisdiktion Panama: Competition Authority Check, Jurisdiktion Paraguay: Competition Authority Check, Jurisdiktion Peru: Competition Authority Check und 3 |
+| Q-S 1 | [q-s-01.md](https://github.com/Klotzkette/claude-fuer-deutsches-recht/blob/main/kartellrecht-marktabgrenzung-pruefung/skills/internationale-kartellrechts-jurisdiktionen/references/q-s-01.md) | Staat oder Jurisdiktion mit Anfangsbuchstaben Q-S; enthält Jurisdiktion Ruanda: Competition Authority Check, Jurisdiktion Rumänien: Competition Authority Check, Jurisdiktion Sambia: Competition Authority Check, Jurisdiktion San Marino: Competition Authority Check, Jurisdiktion Saudi-Arabien: Competition Authority Chec |
+| Q-S 2 | [q-s-02.md](https://github.com/Klotzkette/claude-fuer-deutsches-recht/blob/main/kartellrecht-marktabgrenzung-pruefung/skills/internationale-kartellrechts-jurisdiktionen/references/q-s-02.md) | Staat oder Jurisdiktion mit Anfangsbuchstaben Q-S; enthält Jurisdiktion Slowenien: Competition Authority Check, Jurisdiktion Spanien: Competition Authority Check, Jurisdiktion Sri Lanka: Competition Authority Check, Jurisdiktion Südafrika: Competition Authority Check |
+| T-Z 1 | [t-z-01.md](https://github.com/Klotzkette/claude-fuer-deutsches-recht/blob/main/kartellrecht-marktabgrenzung-pruefung/skills/internationale-kartellrechts-jurisdiktionen/references/t-z-01.md) | Staat oder Jurisdiktion mit Anfangsbuchstaben T-Z; enthält Jurisdiktion Taiwan: Competition Authority Check, Jurisdiktion Tansania: Competition Authority Check, Jurisdiktion Thailand: Competition Authority Check, Jurisdiktion Trinidad und Tobago: Competition Authority Check, Jurisdiktion Tschechien: Competition Author |
+| T-Z 2 | [t-z-02.md](https://github.com/Klotzkette/claude-fuer-deutsches-recht/blob/main/kartellrecht-marktabgrenzung-pruefung/skills/internationale-kartellrechts-jurisdiktionen/references/t-z-02.md) | Staat oder Jurisdiktion mit Anfangsbuchstaben T-Z; enthält Jurisdiktion USA: Competition Authority Check, Jurisdiktion Usbekistan: Competition Authority Check, Jurisdiktion Venezuela: Competition Authority Check, Jurisdiktion Vereinigte Arabische Emirate: Competition Authority Check, Jurisdiktion Vereinigtes Königreic |
+
+## 3. Arbeitsprodukt
+
+Liefere eine Jurisdiktionsmatrix mit Behörde, Rechtsgrundlage, Schwelle oder Anknüpfung, Frist, Vollzugsverbot, Formular, Sprache, lokalem Beratungsbedarf und offenem Quellencheck.
+
+## 4. Geschwindigkeitsregel
+
+Nicht den gesamten Referenzbestand lesen. Sobald Norm, Beleg, Gegenposition und gewünschter Output tragfähig feststehen, schreiben; weitere Vertiefungen nur für eine konkret benannte Lücke öffnen.
+
+---
+
 ## Skill: `art-101-aeuv-tatbestand-vereinbarung-beschluss-abgestimmte-verha`
 
-_Wenn es um Art 101 AEUV Tatbestand Vereinbarung Beschluss abgestimmte Verhaltensweise in Kartellrecht — Marktabgrenzungsprüfung geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen._
+_Für Art 101 AEUV Tatbestand Vereinbarung Beschluss abgestimmte Verhaltensweise: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Schnittstellenkarte mit Zuständigkeits- und Nachweisfragen._
 
 # Art 101 AEUV Tatbestand Vereinbarung Beschluss abgestimmte Verhaltensweise
 
@@ -218,130 +298,53 @@ Am Ende kurz prüfen: Sind Fristen, Zuständigkeit, Rechtsgrundlage, Beweislast,
 
 ---
 
-## Skill: `vertikale-leitlinien-verweisung-art`
+## Skill: `workflow-kaltstart-und-routing`
 
-_Wenn es um Vertikale Leitlinien EU selektiver Vertrieb Plattformverbote in Kartellrecht — Marktabgrenzungsprüfung geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen._
+_Für Kaltstart und Routing: routet Rolle, Frist, Unterlagen und Fachschritt; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt. Fachgebiet: Kartellrecht — Marktabgrenzungsprüfung._
 
-# Vertikale Leitlinien EU selektiver Vertrieb Plattformverbote
+# Kaltstart und Routing
 
-## Arbeitsweg
+## Aufgabe
+Nutze diesen Workflow-Skill für Kaltstart und Routing: führt vom ersten Satz oder Dokument in den passenden Arbeitsweg, erkennt Rolle, Ziel, Risiko und Anschluss-Skills.
 
-- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
-- Fristen und Eilrisiken zuerst markieren: FKVO Art. 4 Anmeldepflicht vor Vollzug, GWB § 40 1-Monats-Frist Phase I / 4 Monate Phase II, Bagatellschwellen § 35 GWB (50/17,5 Mio. EUR).
-- Tragende Normen verifizieren: GWB §§ 18, 19, 20, 35, 36, 39, AEUV Art. 101, 102, FKVO (VO 139/2004), Bekanntmachung Kommission Marktabgrenzung 2024 (C/2024/1645), Leitlinien horizontale/vertikale Zusammenarbeit, HMG-Index — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
-- Zuständige Stelle bestimmen und Adressaten richtig wählen: Bundeskartellamt, EU-KOM (DG COMP), Anmelder, Wettbewerber, OLG Düsseldorf (Kartellsenat), EuG, EuGH.
-- Dokumente und Beweismittel sammeln und auf Lücken prüfen: Zusammenschlussanmeldung Form CO, Marktabgrenzungsanalyse, SSNIP-Test, HMG-Berechnung, Critical-Loss-Analyse, Datenanalyse (PoS/Scanner), Marktbefragung — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
+## Kaltstart
+Wenn Material vorliegt, arbeite zuerst mit dem Material. Stelle nur Rückfragen, die für die nächste Weiche nötig sind:
 
-## Fachkern: Vertikale Leitlinien EU selektiver Vertrieb Plattformverbote
-- **Normen-/Quellenanker:** Art. 101/102 AEUV, VO 1/2003, FKVO, GWB, Vertikal-GVO, DMA/DSA-Schnittstellen, private damages und Behördenpraxis.
-- **Entscheidende Weiche:** Markt, Verhalten, Beteiligte, Schwelle, Effekt, Effizienzrechtfertigung, Verfahren, Dawn Raid/Leniency und Schadensersatz getrennt ordnen.
-- **Arbeitsprodukt:** Erzeuge eine konkrete Prüf- oder Entscheidungsmatrix mit Norm, Tatbestand, Beleg, Einwand, Risikoampel und nächstem Schritt; Anschluss-Skills nur bei echter Vertiefung nennen.
+1. Wer fragt in welcher Rolle?
+2. Was ist das gewünschte Ergebnis?
+3. Gibt es Fristen, Termine, Zustellungen, Zahlungen oder Sanktionen?
+4. Welche Unterlagen, Daten oder Belege liegen bereits vor?
 
-## Startfragen
-- Wer fragt in welcher Rolle und welches Arbeitsergebnis wird gebraucht?
-- Welche Frist, Zuständigkeit, Behörde, Gericht oder Vertragssituation ist erkennbar?
-- Welche Dokumente, Zahlen, Registerdaten, Bescheide, Verträge oder Korrespondenz liegen vor?
-- Welche Tatsachen sind sicher, welche sind streitig und welche Annahmen müssen sichtbar markiert werden?
-- Welche live zu prüfenden Normen, Behördenhinweise oder Formulare tragen das Ergebnis?
+## Arbeitsworkflow
+1. Rolle, Ziel, Frist und Unterlagenlage in höchstens fünf Fragen klären.
+2. Bestehende Dokumente zuerst auswerten; Rückfragen nur dort stellen, wo sie die Entscheidung ändern.
+3. Passende Spezialskills aus diesem Plugin vorschlagen und begründen.
+4. Ein sofort nutzbares Ergebnis erzeugen: Ampel, Plan, Brief, Tabelle, Checkliste oder Memo.
 
-## Prüf- und Arbeitslogik
-1. **Einordnen:** Rolle, Ziel, Verfahrensstand, Vertragstyp, Behörde/Gericht, Frist und Risiken festhalten.
-2. **Normen live prüfen:** Vor tragenden Aussagen den aktuellen Stand aus amtlichen oder frei zugänglichen Quellen kontrollieren. Besonders prüfen: die im Fachkern genannten Normen-/Quellenanker, aktuellen amtlichen oder frei zugänglichen Fachquellen und die für diese Speziallage tragenden Formulare/Behördenhinweise.
-3. **Tatbestand in Elemente zerlegen:** Jedes Tatbestandsmerkmal einzeln prüfen; unklare Tatsachen als `[offen: ...]` markieren.
-4. **Belege führen:** Für jede relevante Behauptung Dokument, Datum, Absender, Anlage, Registerfund oder Quelle notieren.
-5. **Gegenansicht bauen:** Mindestens eine ernsthafte Gegenargumentation und eine Verteidigungslinie formulieren.
-6. **Ergebnis kalibrieren:** Risikoampel `grün/gelb/rot`, Handlungsempfehlung, nächster Schritt und fehlende Unterlagen ausgeben.
+## Output-Standard
+- Kurzbild: worum es geht, was gesichert ist, was offen ist.
+- Prüf- oder Bearbeitungsmatrix mit den entscheidenden Punkten.
+- Konkreter nächster Schritt mit Frist, Zuständigkeit und Unterlagen.
+- Bei Außenkommunikation: knapper, sachlicher Textbaustein ohne unnötige Nebenangaben.
 
-## Qualitätsgate
-Am Ende kurz prüfen: Sind Fristen, Zuständigkeit, Rechtsgrundlage, Beweislast, Zahlen, Form und gewünschter Output vollständig? Ist erkennbar, was sicher ist und was noch Sachverhaltsarbeit braucht?
+## Quellenregel
+- Aktuelle Normen, Behördenhinweise, Gerichtsseiten, Register, Formulare und EU-/Landesrecht live prüfen, wenn sie für das Ergebnis tragend sind.
+- Rechtsprechung nur mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle ausgeben.
+- Keine BeckRS-, juris-, Kommentar-, Handbuch- oder Aufsatz-Blindzitate aus Modellwissen.
+- Unsicherheiten und Annahmen ausdrücklich markieren.
 
----
-
-## Skill: `freistellung-art-101-abs-3-aeuv-effizienz-verbraucheranteil`
-
-_Wenn es um Freistellung Art 101 Abs 3 AEUV Effizienz Verbraucheranteil in Kartellrecht — Marktabgrenzungsprüfung geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen._
-
-# Freistellung Art 101 Abs 3 AEUV Effizienz Verbraucheranteil
-
-## Arbeitsweg
-
-- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
-- Fristen und Eilrisiken zuerst markieren: FKVO Art. 4 Anmeldepflicht vor Vollzug, GWB § 40 1-Monats-Frist Phase I / 4 Monate Phase II, Bagatellschwellen § 35 GWB (50/17,5 Mio. EUR).
-- Tragende Normen verifizieren: GWB §§ 18, 19, 20, 35, 36, 39, AEUV Art. 101, 102, FKVO (VO 139/2004), Bekanntmachung Kommission Marktabgrenzung 2024 (C/2024/1645), Leitlinien horizontale/vertikale Zusammenarbeit, HMG-Index — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
-- Zuständige Stelle bestimmen und Adressaten richtig wählen: Bundeskartellamt, EU-KOM (DG COMP), Anmelder, Wettbewerber, OLG Düsseldorf (Kartellsenat), EuG, EuGH.
-- Dokumente und Beweismittel sammeln und auf Lücken prüfen: Zusammenschlussanmeldung Form CO, Marktabgrenzungsanalyse, SSNIP-Test, HMG-Berechnung, Critical-Loss-Analyse, Datenanalyse (PoS/Scanner), Marktbefragung — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
-
-## Fachkern: Freistellung Art 101 Abs 3 AEUV Effizienz Verbraucheranteil
-- **Normen-/Quellenanker:** Art. 101/102 AEUV, VO 1/2003, FKVO, GWB, Vertikal-GVO, DMA/DSA-Schnittstellen, private damages und Behördenpraxis.
-- **Entscheidende Weiche:** Markt, Verhalten, Beteiligte, Schwelle, Effekt, Effizienzrechtfertigung, Verfahren, Dawn Raid/Leniency und Schadensersatz getrennt ordnen.
-- **Arbeitsprodukt:** Erzeuge eine konkrete Prüf- oder Entscheidungsmatrix mit Norm, Tatbestand, Beleg, Einwand, Risikoampel und nächstem Schritt; Anschluss-Skills nur bei echter Vertiefung nennen.
-
-## Startfragen
-- Wer fragt in welcher Rolle und welches Arbeitsergebnis wird gebraucht?
-- Welche Frist, Zuständigkeit, Behörde, Gericht oder Vertragssituation ist erkennbar?
-- Welche Dokumente, Zahlen, Registerdaten, Bescheide, Verträge oder Korrespondenz liegen vor?
-- Welche Tatsachen sind sicher, welche sind streitig und welche Annahmen müssen sichtbar markiert werden?
-- Welche live zu prüfenden Normen, Behördenhinweise oder Formulare tragen das Ergebnis?
-
-## Prüf- und Arbeitslogik
-1. **Einordnen:** Rolle, Ziel, Verfahrensstand, Vertragstyp, Behörde/Gericht, Frist und Risiken festhalten.
-2. **Normen live prüfen:** Vor tragenden Aussagen den aktuellen Stand aus amtlichen oder frei zugänglichen Quellen kontrollieren. Besonders prüfen: die im Fachkern genannten Normen-/Quellenanker, aktuellen amtlichen oder frei zugänglichen Fachquellen und die für diese Speziallage tragenden Formulare/Behördenhinweise.
-3. **Tatbestand in Elemente zerlegen:** Jedes Tatbestandsmerkmal einzeln prüfen; unklare Tatsachen als `[offen: ...]` markieren.
-4. **Belege führen:** Für jede relevante Behauptung Dokument, Datum, Absender, Anlage, Registerfund oder Quelle notieren.
-5. **Gegenansicht bauen:** Mindestens eine ernsthafte Gegenargumentation und eine Verteidigungslinie formulieren.
-6. **Ergebnis kalibrieren:** Risikoampel `grün/gelb/rot`, Handlungsempfehlung, nächster Schritt und fehlende Unterlagen ausgeben.
-
-## Qualitätsgate
-Am Ende kurz prüfen: Sind Fristen, Zuständigkeit, Rechtsgrundlage, Beweislast, Zahlen, Form und gewünschter Output vollständig? Ist erkennbar, was sicher ist und was noch Sachverhaltsarbeit braucht?
-
----
-
-## Skill: `19a-gwb-relative-abuse-economic`
-
-_Wenn es um Paragraf 19a GWB überragende marktübergreifende Bedeutung in Kartellrecht — Marktabgrenzungsprüfung geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen._
-
-# § 19a GWB überragende marktübergreifende Bedeutung
-
-## Arbeitsbereich
-
-§ 19a GWB überragende marktübergreifende Bedeutung: prüft die einschlägigen Voraussetzungen, Dokumente, Risiken und Ausnahmen. Norm-/Quellenanker: Art. 101/102 AEUV, GWB §§ 1 und 18-20 und 19a und 32 ff., 33 ff., 35 ff., FKVO, Vertikal-GVO 2022/720, Horizontal-GVO, DMA. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
-## Arbeitsweg
-
-- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
-- Fristen und Eilrisiken zuerst markieren: FKVO Art. 4 Anmeldepflicht vor Vollzug, GWB § 40 1-Monats-Frist Phase I / 4 Monate Phase II, Bagatellschwellen § 35 GWB (50/17,5 Mio. EUR).
-- Tragende Normen verifizieren: GWB §§ 18, 19, 20, 35, 36, 39, AEUV Art. 101, 102, FKVO (VO 139/2004), Bekanntmachung Kommission Marktabgrenzung 2024 (C/2024/1645), Leitlinien horizontale/vertikale Zusammenarbeit, HMG-Index — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
-- Zuständige Stelle bestimmen und Adressaten richtig wählen: Bundeskartellamt, EU-KOM (DG COMP), Anmelder, Wettbewerber, OLG Düsseldorf (Kartellsenat), EuG, EuGH.
-- Dokumente und Beweismittel sammeln und auf Lücken prüfen: Zusammenschlussanmeldung Form CO, Marktabgrenzungsanalyse, SSNIP-Test, HMG-Berechnung, Critical-Loss-Analyse, Datenanalyse (PoS/Scanner), Marktbefragung — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
-
-## Fachkern: § 19a GWB überragende marktübergreifende Bedeutung
-- **Normen-/Quellenanker:** Art. 101/102 AEUV, VO 1/2003, FKVO, GWB, Vertikal-GVO, DMA/DSA-Schnittstellen, private damages und Behördenpraxis.
-- **Entscheidende Weiche:** Markt, Verhalten, Beteiligte, Schwelle, Effekt, Effizienzrechtfertigung, Verfahren, Dawn Raid/Leniency und Schadensersatz getrennt ordnen.
-- **Arbeitsprodukt:** Erzeuge eine konkrete Prüf- oder Entscheidungsmatrix mit Norm, Tatbestand, Beleg, Einwand, Risikoampel und nächstem Schritt; Anschluss-Skills nur bei echter Vertiefung nennen.
-
-## Startfragen
-- Wer fragt in welcher Rolle und welches Arbeitsergebnis wird gebraucht?
-- Welche Frist, Zuständigkeit, Behörde, Gericht oder Vertragssituation ist erkennbar?
-- Welche Dokumente, Zahlen, Registerdaten, Bescheide, Verträge oder Korrespondenz liegen vor?
-- Welche Tatsachen sind sicher, welche sind streitig und welche Annahmen müssen sichtbar markiert werden?
-- Welche live zu prüfenden Normen, Behördenhinweise oder Formulare tragen das Ergebnis?
-
-## Prüf- und Arbeitslogik
-1. **Einordnen:** Rolle, Ziel, Verfahrensstand, Vertragstyp, Behörde/Gericht, Frist und Risiken festhalten.
-2. **Normen live prüfen:** Vor tragenden Aussagen den aktuellen Stand aus amtlichen oder frei zugänglichen Quellen kontrollieren. Besonders prüfen: die im Fachkern genannten Normen-/Quellenanker, aktuellen amtlichen oder frei zugänglichen Fachquellen und die für diese Speziallage tragenden Formulare/Behördenhinweise.
-3. **Tatbestand in Elemente zerlegen:** Jedes Tatbestandsmerkmal einzeln prüfen; unklare Tatsachen als `[offen: ...]` markieren.
-4. **Belege führen:** Für jede relevante Behauptung Dokument, Datum, Absender, Anlage, Registerfund oder Quelle notieren.
-5. **Gegenansicht bauen:** Mindestens eine ernsthafte Gegenargumentation und eine Verteidigungslinie formulieren.
-6. **Ergebnis kalibrieren:** Risikoampel `grün/gelb/rot`, Handlungsempfehlung, nächster Schritt und fehlende Unterlagen ausgeben.
-
-## Qualitätsgate
-Am Ende kurz prüfen: Sind Fristen, Zuständigkeit, Rechtsgrundlage, Beweislast, Zahlen, Form und gewünschter Output vollständig? Ist erkennbar, was sicher ist und was noch Sachverhaltsarbeit braucht?
+## Kartellrechtlicher Kaltstart
+- **Anwendungsmodus klären:** Kartellverbot § 1 GWB / Art. 101 AEUV, Missbrauchsverbot § 19 GWB / Art. 102 AEUV, Fusionskontrolle §§ 35 ff. GWB / FKVO, DMA Art. 5-7.
+- **Marktabgrenzung:** sachlich (Bedarfsmarktkonzept, SSNIP/Hypothetical Monopolist Test), räumlich, zeitlich; bei mehrseitigen Märkten Plattform-Analyse separat.
+- **Marktbeherrschung § 18 GWB / Art. 102 AEUV:** Marktanteilsschwelle § 18 Abs. 4 GWB (40 %), Vermutung bei mehreren Unternehmen § 18 Abs. 6 GWB. Bei Plattformen § 18 Abs. 3a GWB (Indikatoren digitaler Märkte).
+- **Behörde / Frist:** BKartA bei Inlandsfusion (§ 39 GWB Anmeldepflicht binnen Wochen vor Vollzug); EU-Kommission ab Schwellen FKVO; bei DMA Gatekeeper-Bescheid. Sofortvollzug erst nach Freigabe (§ 41 GWB, "no gun jumping").
+- Falle: Quotenrechnung ohne präzise Marktabgrenzung — der Schwellenwert ist nur so robust wie die Definition.
 
 ---
 
 ## Skill: `rechtsabteilung-meta-plattformdaten-als-kartell-und-datenschutzs`
 
-_Wenn es um Rechtsabteilung: Meta-Plattformdaten als Kartell- und Datenschutzschnittstelle in Kartellrecht — Marktabgrenzungsprüfung geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Chronologie mit Belegmatrix und Widerspruchsliste._
+_Für Rechtsabteilung: Meta-Plattformdaten als Kartell- und Datenschutzschnittstelle: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt._
 
 # Rechtsabteilung: Meta-Plattformdaten als Kartell- und Datenschutzschnittstelle
 
@@ -390,11 +393,11 @@ Dominanz, Datenzusammenführung und Datenschutzrecht werden in einer Vorstandsno
 
 ---
 
-## Skill: `presseverlage-plattformen-leistungsschutz-schnittstelle`
+## Skill: `paragraf-raeumlicher-ssnip-test`
 
-_Wenn es um Presseverlage Plattformen Leistungsschutz Schnittstelle in Kartellrecht — Marktabgrenzungsprüfung geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen._
+_Für Paragraf: Risikoampel, Gegenargumente und Verteidigungslinien: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Schnittstellenkarte mit Zuständigkeits- und Nachweisfragen._
 
-# Presseverlage Plattformen Leistungsschutz Schnittstelle
+# Paragraf: Risikoampel, Gegenargumente und Verteidigungslinien
 
 ## Arbeitsweg
 
@@ -404,28 +407,24 @@ _Wenn es um Presseverlage Plattformen Leistungsschutz Schnittstelle in Kartellre
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Bundeskartellamt, EU-KOM (DG COMP), Anmelder, Wettbewerber, OLG Düsseldorf (Kartellsenat), EuG, EuGH.
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Zusammenschlussanmeldung Form CO, Marktabgrenzungsanalyse, SSNIP-Test, HMG-Berechnung, Critical-Loss-Analyse, Datenanalyse (PoS/Scanner), Marktbefragung — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
-## Fachkern: Presseverlage Plattformen Leistungsschutz Schnittstelle
-- **Normen-/Quellenanker:** Art. 101/102 AEUV, VO 1/2003, FKVO, GWB, Vertikal-GVO, DMA/DSA-Schnittstellen, private damages und Behördenpraxis.
-- **Entscheidende Weiche:** Markt, Verhalten, Beteiligte, Schwelle, Effekt, Effizienzrechtfertigung, Verfahren, Dawn Raid/Leniency und Schadensersatz getrennt ordnen.
-- **Arbeitsprodukt:** Erzeuge eine konkrete Prüf- oder Entscheidungsmatrix mit Norm, Tatbestand, Beleg, Einwand, Risikoampel und nächstem Schritt; Anschluss-Skills nur bei echter Vertiefung nennen.
+## Spezialwissen: Paragraf: Risikoampel, Gegenargumente und Verteidigungslinien
+- **Normen-/Quellenanker:** GWB, Art. 101, AEUV, SSNIP.
 
-## Startfragen
-- Wer fragt in welcher Rolle und welches Arbeitsergebnis wird gebraucht?
-- Welche Frist, Zuständigkeit, Behörde, Gericht oder Vertragssituation ist erkennbar?
-- Welche Dokumente, Zahlen, Registerdaten, Bescheide, Verträge oder Korrespondenz liegen vor?
-- Welche Tatsachen sind sicher, welche sind streitig und welche Annahmen müssen sichtbar markiert werden?
-- Welche live zu prüfenden Normen, Behördenhinweise oder Formulare tragen das Ergebnis?
+## Fallweichen
+Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur Rückfragen, die die nächste Weiche verändern:
 
-## Prüf- und Arbeitslogik
-1. **Einordnen:** Rolle, Ziel, Verfahrensstand, Vertragstyp, Behörde/Gericht, Frist und Risiken festhalten.
-2. **Normen live prüfen:** Vor tragenden Aussagen den aktuellen Stand aus amtlichen oder frei zugänglichen Quellen kontrollieren. Besonders prüfen: die im Fachkern genannten Normen-/Quellenanker, aktuellen amtlichen oder frei zugänglichen Fachquellen und die für diese Speziallage tragenden Formulare/Behördenhinweise.
-3. **Tatbestand in Elemente zerlegen:** Jedes Tatbestandsmerkmal einzeln prüfen; unklare Tatsachen als `[offen: ...]` markieren.
-4. **Belege führen:** Für jede relevante Behauptung Dokument, Datum, Absender, Anlage, Registerfund oder Quelle notieren.
-5. **Gegenansicht bauen:** Mindestens eine ernsthafte Gegenargumentation und eine Verteidigungslinie formulieren.
-6. **Ergebnis kalibrieren:** Risikoampel `grün/gelb/rot`, Handlungsempfehlung, nächster Schritt und fehlende Unterlagen ausgeben.
+1. Welche Rolle hat die fragende Person und wer ist Gegenüber?
+2. Welches konkrete Ziel soll erreicht oder verhindert werden?
+3. Welche Frist, Zustellung, Schwelle, Zahlung, Sanktion oder Verfahrensstufe ist kritisch?
+4. Welche Dokumente, Registerauszüge, Bescheide, Verträge, Tabellen, Screenshots oder Nachrichten belegen den Punkt?
+5. Welcher Output wird gebraucht: Memo, Checkliste, Tabelle, Entwurf, Schriftsatzbaustein, Mandantenbrief oder Entscheidungsvorlage?
 
-## Qualitätsgate
-Am Ende kurz prüfen: Sind Fristen, Zuständigkeit, Rechtsgrundlage, Beweislast, Zahlen, Form und gewünschter Output vollständig? Ist erkennbar, was sicher ist und was noch Sachverhaltsarbeit braucht?
+## Arbeitsworkflow
+1. **Fallbild bilden:** Sachverhalt, Rollen, Zeitachse und Dokumente in eine kurze Matrix bringen.
+2. **Rechtsrahmen setzen:** Normen, Zuständigkeiten, Fristen, Formfragen und Verfahrensstand zum Themenfeld **Paragraf** prüfen.
+3. **Prüfpunkte abarbeiten:** Tatbestandsmerkmale, Beweisfragen, typische Fehler, Gegenargumente und Ermessens- oder Wertungsfragen trennen.
+4. **Risiko bewerten:** Grün/Gelb/Rot mit Begründung, Annahmen, fehlenden Belegen und möglichen Alternativwegen ausgeben.
+5. **Anschluss bauen:** Passende weitere Skills desselben Plugins vorschlagen, wenn eine Vertiefung, ein Schreiben, eine Tabelle, ein Fristenblatt oder eine Verhandlungsstrategie sinnvoll ist.
 
 ---
 

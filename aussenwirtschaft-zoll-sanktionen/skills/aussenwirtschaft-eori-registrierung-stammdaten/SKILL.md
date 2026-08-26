@@ -1,6 +1,6 @@
 ---
 name: aussenwirtschaft-eori-registrierung-stammdaten
-description: "Wenn es um EORI-Registrierung: Beantragung und Stammdatenpflege in Außenwirtschaft, Sanktionen, Zoll und CBAM geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
+description: "Für EORI-Registrierung: Beantragung und Stammdatenpflege: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # EORI-Registrierung: Beantragung und Stammdatenpflege

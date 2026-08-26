@@ -1,6 +1,6 @@
 ---
 name: darlehenshoehe-konditionen
-description: "Wenn es um Darlehensbetrag und Konditionen in Wandeldarlehen-Lebenszyklus geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Berechnungstabelle mit Schwellen, Annahmen und Kontrollfragen."
+description: "Für Darlehensbetrag und Konditionen: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Darlehensbetrag und Konditionen

@@ -1,6 +1,6 @@
 ---
 name: zag-finanztransfergeschaeft-money-remittance
-description: "Wenn es um Finanztransfergeschäft / Money Remittance nach ZAG in Bank-Rechtsabteilung geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
+description: "Für Finanztransfergeschäft / Money Remittance nach ZAG: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Finanztransfergeschäft / Money Remittance nach ZAG

@@ -1,6 +1,6 @@
 ---
 name: spezial-haftpflicht-livequellen-und-rechtsprechungscheck
-description: "Wenn es um Haftpflicht: Livequellen- und Rechtsprechungscheck in Fachanwalt Versicherungsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Haftpflicht: Livequellen- und Rechtsprechungscheck: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Haftpflicht: Livequellen- und Rechtsprechungscheck

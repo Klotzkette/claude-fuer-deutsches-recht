@@ -1,6 +1,6 @@
 ---
 name: personalkosten-und-stundennachweis
-description: "Wenn es um FZ: Personal und Stundennachweis in Forschungszulage-Antragstellung geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
+description: "Für FZ: Personal und Stundennachweis: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # FZ: Personal und Stundennachweis

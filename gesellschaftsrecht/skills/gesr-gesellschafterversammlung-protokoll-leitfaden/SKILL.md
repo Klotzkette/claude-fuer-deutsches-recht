@@ -1,6 +1,6 @@
 ---
 name: gesr-gesellschafterversammlung-protokoll-leitfaden
-description: "Wenn es um GesR: Gesellschafterversammlung in Gesellschaftsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für GesR: Gesellschafterversammlung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # GesR: Gesellschafterversammlung

@@ -1,6 +1,6 @@
 ---
 name: tax-investor-portfolio
-description: "Wenn es um Steuerliche Investor- und Portfoliothemen in Venture Capital Geber geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Steuerliche Investor- und Portfoliothemen: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Steuerliche Investor- und Portfoliothemen

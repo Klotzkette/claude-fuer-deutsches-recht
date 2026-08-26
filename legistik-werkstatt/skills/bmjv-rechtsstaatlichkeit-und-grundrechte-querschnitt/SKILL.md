@@ -1,6 +1,6 @@
 ---
 name: bmjv-rechtsstaatlichkeit-und-grundrechte-querschnitt
-description: "Wenn es um Rechtsstaatlichkeit und Grundrechte-Querschnitt (BMJV) in Legistik-Werkstatt geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen. Auswahlstichwort: Bmjv Rechtsstaatlichkeit Und Grundrechte Querschnitt; Arbeitsfeld: Legistik-Werkstatt."
+description: "Für Rechtsstaatlichkeit und Grundrechte-Querschnitt (BMJV): ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt. Fachgebiet: Legistik-Werkstatt. Route: bmjv-rechtsstaatlichkeit-und-grundrechte-querschnitt."
 ---
 
 # Rechtsstaatlichkeit und Grundrechte-Querschnitt (BMJV)

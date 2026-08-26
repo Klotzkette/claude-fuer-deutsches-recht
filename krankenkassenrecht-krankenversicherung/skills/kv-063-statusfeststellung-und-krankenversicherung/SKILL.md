@@ -1,6 +1,6 @@
 ---
 name: kv-063-statusfeststellung-und-krankenversicherung
-description: "Wenn es um Krankenversicherung: Statusfeststellung und Krankenversicherung in Krankenkassenrecht und Krankenversicherung geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Krankenversicherung: Statusfeststellung und Krankenversicherung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Krankenversicherung: Statusfeststellung und Krankenversicherung

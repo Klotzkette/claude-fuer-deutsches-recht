@@ -1,6 +1,6 @@
 ---
 name: tierschg-grundsatz-haltung-betreuung
-description: "Wenn es um Tierschg Grundsatz Und Leiden Prüfen in Tierschutzrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Tierschg Grundsatz und Leiden Prüfen: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Schnittstellenkarte mit Zuständigkeits- und Nachweisfragen."
 ---
 
 # Tierschg Grundsatz Und Leiden Prüfen

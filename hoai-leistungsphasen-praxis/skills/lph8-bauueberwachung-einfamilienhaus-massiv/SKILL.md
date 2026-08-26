@@ -1,6 +1,6 @@
 ---
 name: lph8-bauueberwachung-einfamilienhaus-massiv
-description: "Wenn es um Bauueberwachung Einfamilienhaus Massivbau (LPH 8) in HOAI Leistungsphasen Praxis geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen."
+description: "Für Bauüberwachung Einfamilienhaus Massivbau (LPH 8): ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Bauueberwachung Einfamilienhaus Massivbau (LPH 8)

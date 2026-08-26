@@ -1,6 +1,6 @@
 ---
 name: aussenwirtschaft-sammelgenehmigung-export
-description: "Wenn es um Sammelgenehmigung Export in Außenwirtschaft, Sanktionen, Zoll und CBAM geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Sammelgenehmigung Export: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Sammelgenehmigung Export

@@ -1,6 +1,6 @@
 ---
 name: methodik-keine-anachronismen
-description: "Wenn es um Keine Anachronismen in Preußisches Allgemeines Landrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. Auswahlstichwort: Methodik Keine Anachronismen; Arbeitsfeld: Preußisches Allgemeines Landrecht."
+description: "Für Keine Anachronismen: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt. Fachgebiet: Preußisches Allgemeines Landrecht. Route: methodik-keine-anachronismen."
 ---
 
 # Keine Anachronismen

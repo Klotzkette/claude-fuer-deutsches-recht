@@ -1,6 +1,6 @@
 ---
 name: krankenversicherung-zahlen-schwellen-und-berechnung
-description: "Wenn es um Krankenversicherung: Zahlen, Schwellenwerte und Berechnung in Fachanwalt Medizinrecht geht: rechnet Schwellen, Beträge, Varianten und Kontrollannahmen durch; liefert eine Berechnungstabelle mit Schwellen, Annahmen und Kontrollfragen."
+description: "Für Krankenversicherung: Zahlen, Schwellenwerte und Berechnung: rechnet Beträge, Schwellen und Varianten; Ergebnis: Berechnungstabelle mit Annahmen und Kontrollfragen."
 ---
 
 # Krankenversicherung: Zahlen, Schwellenwerte und Berechnung

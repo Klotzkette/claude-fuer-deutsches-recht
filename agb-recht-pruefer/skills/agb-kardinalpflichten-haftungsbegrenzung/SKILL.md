@@ -1,6 +1,6 @@
 ---
 name: agb-kardinalpflichten-haftungsbegrenzung
-description: "Wenn es um Kardinalpflichten in AGB-Recht-Prüfer geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Fristen- und Risikoampel mit Sofortschritten. Auswahlstichwort: Agb Kardinalpflichten Haftungsbegrenzung; Arbeitsfeld: AGB-Recht-Prüfer."
+description: "Für Kardinalpflichten: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt. Fachgebiet: AGB-Recht-Prüfer. Route: agb-kardinalpflichten-haftungsbegrenzung."
 ---
 
 # Kardinalpflichten

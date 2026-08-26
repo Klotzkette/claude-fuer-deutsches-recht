@@ -1,6 +1,6 @@
 ---
 name: pruefungsamt-kommunikation
-description: "Wenn es um Prüfungsamt Kommunikation in Prüfungsrecht an Hochschulen und Universitäten geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Prüfungsamt Kommunikation: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Tatbestands- oder Anspruchsmatrix."
 ---
 
 # Prüfungsamt Kommunikation

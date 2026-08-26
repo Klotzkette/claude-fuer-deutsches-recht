@@ -1,6 +1,6 @@
 ---
 name: vertragswirklichkeit-gelebte-praxis
-description: "Wenn es um Vertragswirklichkeit vs. gelebte Praxis in Sozialversicherungsstatus-Prüfer / DRV-Statusfeststellung geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
+description: "Für Vertragswirklichkeit vs. gelebte Praxis: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Vertragswirklichkeit vs. gelebte Praxis

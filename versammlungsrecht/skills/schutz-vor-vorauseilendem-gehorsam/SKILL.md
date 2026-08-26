@@ -1,6 +1,6 @@
 ---
 name: schutz-vor-vorauseilendem-gehorsam
-description: "Wenn es um Keine Schere im Kopf in Versammlungsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Keine Schere im Kopf: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Keine Schere im Kopf

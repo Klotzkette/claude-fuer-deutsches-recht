@@ -1,6 +1,6 @@
 ---
 name: unterlagenherausgabe-und-zurueckbehaltung-rechtsp
-description: "Wenn es um Unterlagenherausgabe Und Zurueckbehaltung Rechtsp in Berufsrecht Steuerberater geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Gegenprüfung mit Fehler-, Beweis- und Fristencheck."
+description: "Für Unterlagenherausgabe und Zurückbehaltung Rechtsp: ordnet Akte, Belege und Lücken; Ergebnis: Dokumentenmatrix mit Nachforderungsliste."
 ---
 
 # Steuerberater: unterlagenherausgabe und zurueckbehaltung - Rechtsprechungscheck, stärkste Gegenansicht und Red-Team-Korrektur

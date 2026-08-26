@@ -1,6 +1,6 @@
 ---
 name: immobiliardarlehen-widerruf-altvertrag-pruefen
-description: "Prüft den Widerruf eines älteren Immobilien- oder Immobiliar-Verbraucherdarlehens strikt nach Abschlussdatum und damaliger Normfassung. Kontrolliert Vertragstyp, Belehrung oder Information, Musterfiktion, Pflichtangaben, Frist, Übergangsrecht, Nachbelehrung, Verwirkung und Rückabwicklung und erstellt Fristen- und Zahlungsmodell."
+description: "Prüft den Widerruf eines älteren Immobilien- oder Immobiliar-Verbraucherdarlehens strikt nach Abschlussdatum und damaliger Normfassung."
 ---
 
 # Widerruf eines älteren Immobiliardarlehens prüfen

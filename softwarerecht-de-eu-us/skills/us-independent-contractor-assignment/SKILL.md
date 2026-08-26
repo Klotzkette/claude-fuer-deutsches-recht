@@ -1,6 +1,6 @@
 ---
 name: us-independent-contractor-assignment
-description: "Wenn es um US Independent Contractor Assignment in Softwarerecht Deutschland/EU/International/USA geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen."
+description: "Für US Independent Contractor Assignment: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # US Independent Contractor Assignment

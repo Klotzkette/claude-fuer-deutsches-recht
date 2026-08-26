@@ -1,6 +1,6 @@
 ---
 name: origination-execution-partner-austritt
-description: "Wenn es um Origination und Execution Credit in Kanzlei Management geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Origination und Execution Credit: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Origination und Execution Credit

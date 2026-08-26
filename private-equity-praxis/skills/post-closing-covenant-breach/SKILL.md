@@ -1,6 +1,6 @@
 ---
 name: post-closing-covenant-breach
-description: "Wenn es um Post-Closing Covenant Breach in Private Equity Praxis geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Post-Closing Covenant Breach: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Post-Closing Covenant Breach

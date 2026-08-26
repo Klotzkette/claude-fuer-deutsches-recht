@@ -1,6 +1,6 @@
 ---
 name: kreisstrasse-sondernutzung-einwendung
-description: "Wenn es um Kreisstrasse Sondernutzung Formulieren in Straßenrecht und Infrastruktur geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Kreisstrasse Sondernutzung Formulieren: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Kreisstrasse Sondernutzung Formulieren

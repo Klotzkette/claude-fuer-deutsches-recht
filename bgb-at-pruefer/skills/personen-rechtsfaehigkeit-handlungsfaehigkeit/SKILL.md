@@ -1,6 +1,6 @@
 ---
 name: personen-rechtsfaehigkeit-handlungsfaehigkeit
-description: "Wenn es um Rechtsfähigkeit und Handlungsfähigkeit — Paragrafen 1 bis 14 BGB in BGB AT Prüfer geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt. Auswahlstichwort: Personen Rechtsfaehigkeit Handlungsfaehigkeit; Arbeitsfeld: BGB AT Prüfer."
+description: "Für Rechtsfähigkeit und Handlungsfähigkeit — Paragrafen 1 bis 14 BGB: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt. Fachgebiet: BGB AT Prüfer. Route: personen-rechtsfaehigkeit-handlungsfaehigkeit."
 ---
 
 # Rechtsfähigkeit und Handlungsfähigkeit — §§ 1 bis 14 BGB

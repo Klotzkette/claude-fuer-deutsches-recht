@@ -1,6 +1,6 @@
 ---
 name: alkohol-tabak-cannabis-werbung
-description: "Wenn es um Influencer-Recht: Alkohol, Tabak und Cannabis – Werberestriktionen in Influencer-Recht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Influencer-Recht: Alkohol, Tabak und Cannabis – Werberestriktionen: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Influencer-Recht: Alkohol, Tabak und Cannabis – Werberestriktionen

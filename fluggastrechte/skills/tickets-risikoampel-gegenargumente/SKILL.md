@@ -1,6 +1,6 @@
 ---
 name: tickets-risikoampel-gegenargumente
-description: "Wenn es um Tickets: Risikoampel, Gegenargumente und Verteidigungslinien in Fluggastrechte geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten. Auswahlstichwort: Tickets Risikoampel Gegenargumente; Arbeitsfeld: Fluggastrechte."
+description: "Für Tickets: Risikoampel, Gegenargumente und Verteidigungslinien: prüft Ergebnis, Beweislast und Gegenposition; Ergebnis: Fristen- und Risikoampel. Fachgebiet: Fluggastrechte. Route: tickets-risikoampel-gegenargumente."
 ---
 
 # Tickets: Risikoampel, Gegenargumente und Verteidigungslinien

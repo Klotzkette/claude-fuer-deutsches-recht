@@ -1,6 +1,6 @@
 ---
 name: spezial-veranstalterhaftung-red-team-und-qualitaetskontrolle
-description: "Wenn es um Veranstalterhaftung: Red-Team und Qualitätskontrolle in Fachanwalt Sportrecht geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Veranstalterhaftung: Red-Team und Qualitätskontrolle: prüft Ergebnis, Beweislast und Gegenposition; Ergebnis: Gegenprüfung mit Beweis- und Fristencheck."
 ---
 
 # Veranstalterhaftung: Red-Team und Qualitätskontrolle

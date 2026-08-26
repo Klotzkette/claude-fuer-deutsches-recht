@@ -1,6 +1,6 @@
 ---
 name: textile-and-fashion-sourcing
-description: "Wenn es um Textil-Sourcing China: XUAR-Risiko/LkSG/Markenrecht in China-Wirtschaftsverkehr geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Textil-Sourcing China: XUAR-Risiko/LkSG/Markenrecht: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Textil-Sourcing China: XUAR-Risiko/LkSG/Markenrecht

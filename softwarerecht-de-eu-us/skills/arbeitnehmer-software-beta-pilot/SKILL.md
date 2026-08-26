@@ -1,6 +1,6 @@
 ---
 name: arbeitnehmer-software-beta-pilot
-description: "Wenn es um Arbeitnehmer-Software Paragraf 69b UrhG in Softwarerecht Deutschland/EU/International/USA geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen."
+description: "Für Arbeitnehmer-Software Paragraf 69b UrhG: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Arbeitnehmer-Software § 69b UrhG

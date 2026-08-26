@@ -1,6 +1,6 @@
 ---
 name: fund-finance-und-nav-facility
-description: "Wenn es um Fund Finance und NAV Facility in Private Equity Praxis geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Fund Finance und NAV Facility: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Fund Finance und NAV Facility

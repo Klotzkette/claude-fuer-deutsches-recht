@@ -1,6 +1,6 @@
 ---
 name: bea-erv-english-pleadings
-description: "Wenn es um Bea Erv English Pleadings in commercial-courts-deutschland geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Bea Erv English Pleadings: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # beA/ERV

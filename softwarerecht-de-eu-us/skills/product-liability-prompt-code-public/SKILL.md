@@ -1,6 +1,6 @@
 ---
 name: product-liability-prompt-code-public
-description: "Wenn es um Produkthaftung für fehlerhafte Software EU in Softwarerecht Deutschland/EU/International/USA geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Produkthaftung für fehlerhafte Software EU: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Produkthaftung für fehlerhafte Software EU

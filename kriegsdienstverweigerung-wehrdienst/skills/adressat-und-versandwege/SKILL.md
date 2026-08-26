@@ -1,6 +1,6 @@
 ---
 name: adressat-und-versandwege
-description: "Wenn es um Adressat und Versandwege in Kriegsdienstverweigerung und Wehrdienst geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Adressat und Versandwege: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Adressat und Versandwege

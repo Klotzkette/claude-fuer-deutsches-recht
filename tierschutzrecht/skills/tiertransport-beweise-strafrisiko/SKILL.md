@@ -1,6 +1,6 @@
 ---
 name: tiertransport-beweise-strafrisiko
-description: "Wenn es um Tiertransport Beweise Sichern in Tierschutzrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Tiertransport Beweise Sichern: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Beweislast- und Substantiierungsmatrix."
 ---
 
 # Tiertransport Beweise Sichern

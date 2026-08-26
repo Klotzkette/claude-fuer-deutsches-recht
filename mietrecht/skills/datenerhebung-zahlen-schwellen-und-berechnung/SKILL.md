@@ -1,6 +1,6 @@
 ---
 name: datenerhebung-zahlen-schwellen-und-berechnung
-description: "Wenn es um Datenerhebung: Zahlen, Schwellenwerte und Berechnung in Mietrecht geht: rechnet Schwellen, Beträge, Varianten und Kontrollannahmen durch; liefert eine Berechnungstabelle mit Schwellen, Annahmen und Kontrollfragen."
+description: "Für Datenerhebung: Zahlen, Schwellenwerte und Berechnung: rechnet Beträge, Schwellen und Varianten; Ergebnis: Berechnungstabelle mit Annahmen und Kontrollfragen."
 ---
 
 # Datenerhebung: Zahlen, Schwellenwerte und Berechnung

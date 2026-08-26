@@ -1,6 +1,6 @@
 ---
 name: wehrpflichtgesetz-spannungs-und-verteidigungsfall
-description: "Wenn es um Wehrpflichtgesetz: Spannungs- und Verteidigungsfall in Bundeswehrrecht und Wehrrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Wehrpflichtgesetz: Spannungs- und Verteidigungsfall: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Wehrpflichtgesetz: Spannungs- und Verteidigungsfall

@@ -1,6 +1,6 @@
 ---
 name: auslegung-paragraphen-133-157
-description: "Wenn es um Auslegung von Willenserklärungen und Verträgen — Paragrafen 133 und 157 BGB in BGB AT Prüfer geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Tatbestands- oder Anspruchsmatrix mit Gegenargumenten."
+description: "Für Auslegung von Willenserklärungen und Verträgen — Paragrafen 133 und 157 BGB: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Auslegung von Willenserklärungen und Verträgen — §§ 133 und 157 BGB

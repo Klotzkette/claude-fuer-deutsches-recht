@@ -1,6 +1,6 @@
 ---
 name: rom-neu-026-epigraphische-quellen-juristisch-auswerten
-description: "Wenn es um Römisches Recht: Epigraphische Quellen juristisch auswerten in Römisches Recht geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Römisches Recht: Epigraphische Quellen juristisch auswerten: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Schnittstellenkarte mit Zuständigkeits- und Nachweisfragen."
 ---
 
 # Römisches Recht: Epigraphische Quellen juristisch auswerten

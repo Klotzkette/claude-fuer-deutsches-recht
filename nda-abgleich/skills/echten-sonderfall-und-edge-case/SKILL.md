@@ -1,6 +1,6 @@
 ---
 name: echten-sonderfall-und-edge-case
-description: "Wenn es um Echten: Sonderfall und Edge-Case-Prüfung in NDA-Abgleich geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. Auswahlstichwort: Echten Sonderfall Und Edge Case; Arbeitsfeld: NDA-Abgleich."
+description: "Für Echten: Sonderfall und Edge-Case-Prüfung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt. Fachgebiet: NDA-Abgleich. Route: echten-sonderfall-und-edge-case."
 ---
 
 # Echten: Sonderfall und Edge-Case-Prüfung

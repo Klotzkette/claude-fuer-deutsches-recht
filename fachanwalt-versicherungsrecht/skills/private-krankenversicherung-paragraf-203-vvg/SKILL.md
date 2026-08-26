@@ -1,6 +1,6 @@
 ---
 name: private-krankenversicherung-paragraf-203-vvg
-description: "Wenn es um Private Krankenversicherung Paragraf 203 VVG in Fachanwalt Versicherungsrecht geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Private Krankenversicherung Paragraf 203 VVG: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Private Krankenversicherung § 203 VVG

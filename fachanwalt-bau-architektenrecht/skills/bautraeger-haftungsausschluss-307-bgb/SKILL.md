@@ -1,6 +1,6 @@
 ---
 name: bautraeger-haftungsausschluss-307-bgb
-description: "Wenn es um Bautraeger-Haftungsausschluss und Paragraf 307 BGB in Fachanwalt Bau Architektenrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Bauträger-Haftungsausschluss und Paragraf 307 BGB: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Bautraeger-Haftungsausschluss und § 307 BGB

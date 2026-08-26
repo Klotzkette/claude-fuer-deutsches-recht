@@ -1,6 +1,6 @@
 ---
 name: contract-playbook-exporter
-description: "Wenn es um Contract Playbook für Exporteure in Internationales Handelsrecht und Lex Mercatoria geht: entwickelt Verhandlungsziel, Vergleichskorridor und Eskalationspfad; liefert eine Verhandlungs- oder Eskalationslinie mit Optionen."
+description: "Für Contract Playbook für Exporteure: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Contract Playbook für Exporteure

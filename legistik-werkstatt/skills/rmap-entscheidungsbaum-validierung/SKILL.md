@@ -1,6 +1,6 @@
 ---
 name: rmap-entscheidungsbaum-validierung
-description: "Wenn es um Entscheidungsbaum-Simulation und Verifikation in Legistik-Werkstatt geht: entwickelt Verhandlungsziel, Vergleichskorridor und Eskalationspfad; liefert eine Verhandlungs- oder Eskalationslinie mit Optionen."
+description: "Für Entscheidungsbaum-Simulation und Verifikation: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Entscheidungsbaum-Simulation und Verifikation

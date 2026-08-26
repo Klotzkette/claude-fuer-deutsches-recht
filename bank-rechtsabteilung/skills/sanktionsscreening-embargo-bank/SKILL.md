@@ -1,6 +1,6 @@
 ---
 name: sanktionsscreening-embargo-bank
-description: "Wenn es um Sanktionen und Embargo in Bank-Rechtsabteilung geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen."
+description: "Für Sanktionen und Embargo: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Sanktionen und Embargo

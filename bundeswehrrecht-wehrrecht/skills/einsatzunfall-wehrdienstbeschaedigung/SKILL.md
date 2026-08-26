@@ -1,6 +1,6 @@
 ---
 name: einsatzunfall-wehrdienstbeschaedigung
-description: "Wenn es um Einsatzunfall und Wehrdienstbeschädigung in Bundeswehrrecht und Wehrrecht geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Einsatzunfall und Wehrdienstbeschädigung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Einsatzunfall und Wehrdienstbeschädigung

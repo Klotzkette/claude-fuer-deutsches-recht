@@ -1,6 +1,6 @@
 ---
 name: umgang-mit-ki-vorwurf-bei-sachverstaendigengutachten
-description: "Wenn es um Umgang mit dem digitale Werkzeuge-Vorwurf bei Sachverständigengutachten in Kanzlei-Allgemein geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Umgang mit dem digitale Werkzeuge-Vorwurf bei Sachverständigengutachten: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Umgang mit dem KI-Vorwurf bei Sachverständigengutachten

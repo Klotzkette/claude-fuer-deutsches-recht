@@ -1,6 +1,6 @@
 ---
 name: vertiefung-01-laienerklaerung
-description: "Wenn es um Laienerklärungen: Internationales Handelsrecht in Internationales Handelsrecht und Lex Mercatoria geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Laienerklärungen: Internationales Handelsrecht: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Laienerklärungen: Internationales Handelsrecht

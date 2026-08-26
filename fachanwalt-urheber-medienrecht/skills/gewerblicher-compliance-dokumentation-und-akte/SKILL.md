@@ -1,6 +1,6 @@
 ---
 name: gewerblicher-compliance-dokumentation-und-akte
-description: "Wenn es um Gewerblicher: Compliance-Dokumentation und Aktenvermerk in Fachanwalt Urheber Medienrecht geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
+description: "Für Gewerblicher: Compliance-Dokumentation und Aktenvermerk: ordnet Akte, Belege und Lücken; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Gewerblicher: Compliance-Dokumentation und Aktenvermerk

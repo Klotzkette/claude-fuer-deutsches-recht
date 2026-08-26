@@ -1,6 +1,6 @@
 ---
 name: vergleich-kleinfall
-description: "Wenn es um Forderungen Mahnung und Streit: Erstellt vergleich mit raten in Solo-Selbstständige Praxis geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Forderungen Mahnung und Streit: Erstellt vergleich mit raten: entwickelt Ziel, Vergleich und Eskalation; Ergebnis: Verhandlungs- oder Eskalationslinie."
 ---
 
 # Forderungen Mahnung und Streit: Erstellt vergleich mit raten

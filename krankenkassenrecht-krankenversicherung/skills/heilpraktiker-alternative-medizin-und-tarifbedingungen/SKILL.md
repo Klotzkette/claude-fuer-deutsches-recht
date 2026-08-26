@@ -1,6 +1,6 @@
 ---
 name: heilpraktiker-alternative-medizin-und-tarifbedingungen
-description: "Wenn es um Heilpraktiker, Alternative Medizin und Tarifbedingungen in Krankenkassenrecht und Krankenversicherung geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Heilpraktiker, Alternative Medizin und Tarifbedingungen: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Heilpraktiker, Alternative Medizin und Tarifbedingungen

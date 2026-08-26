@@ -1,6 +1,6 @@
 ---
 name: offizialat-richter-okumene-interkommunion
-description: "Wenn es um Offizialat, Richter und Tribunal in Römisch-katholisches Kirchenrecht CIC und Katechismus geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Offizialat, Richter und Tribunal: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt. Fachgebiet: Römisch-katholisches Kirchenrecht CIC und Katechismus. Route: offizialat-richter-okumene-interkommunion."
 ---
 
 # Offizialat, Richter und Tribunal

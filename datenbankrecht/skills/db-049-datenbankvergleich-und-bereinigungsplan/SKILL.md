@@ -1,6 +1,6 @@
 ---
 name: db-049-datenbankvergleich-und-bereinigungsplan
-description: "Wenn es um Datenbankrecht: Datenbankvergleich und Bereinigungsplan in Datenbankrecht und Datenbankherstellerrecht geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Datenbankrecht: Datenbankvergleich und Bereinigungsplan: entwickelt Ziel, Vergleich und Eskalation; Ergebnis: Verhandlungs- oder Eskalationslinie."
 ---
 
 # Datenbankrecht: Datenbankvergleich und Bereinigungsplan

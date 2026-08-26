@@ -1,6 +1,6 @@
 ---
 name: projekt-arbeitsweise
-description: "Wenn es um Projekt-Arbeitsweise Immobilienrecht in Immobilienrechtspraxis geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Projekt-Arbeitsweise Immobilienrecht: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Projekt-Arbeitsweise Immobilienrecht

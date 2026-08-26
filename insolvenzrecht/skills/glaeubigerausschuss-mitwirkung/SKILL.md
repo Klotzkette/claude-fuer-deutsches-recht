@@ -1,6 +1,6 @@
 ---
 name: glaeubigerausschuss-mitwirkung
-description: "Wenn es um Gläubigerausschuss-Mitwirkung in Insolvenzrecht geht: rechnet Schwellen, Beträge, Varianten und Kontrollannahmen durch; liefert eine Berechnungstabelle mit Schwellen, Annahmen und Kontrollfragen."
+description: "Für Gläubigerausschuss-Mitwirkung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Schnittstellenkarte mit Zuständigkeits- und Nachweisfragen."
 ---
 
 # Gläubigerausschuss-Mitwirkung

@@ -1,6 +1,6 @@
 ---
 name: beweisbeschluss-vorbereiten
-description: "Wenn es um Beweisbeschluss vorbereiten in Urteilsbauer und Relationsmacher geht: entwickelt Verhandlungsziel, Vergleichskorridor und Eskalationspfad; liefert eine Beweislast- und Substantiierungsmatrix."
+description: "Für Beweisbeschluss vorbereiten: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Beweislast- und Substantiierungsmatrix."
 ---
 
 # Beweisbeschluss vorbereiten

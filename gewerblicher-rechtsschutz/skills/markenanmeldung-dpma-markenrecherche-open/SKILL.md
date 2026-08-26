@@ -1,6 +1,6 @@
 ---
 name: markenanmeldung-dpma-markenrecherche-open
-description: "Wenn es um Markenanmeldung beim DPMA in Plugin: Gewerblicher Rechtsschutz geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Markenanmeldung beim DPMA: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Markenanmeldung beim DPMA

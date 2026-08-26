@@ -1,6 +1,6 @@
 ---
 name: live-beweislast-und-darlegungslast
-description: "Wenn es um Live: Beweislast, Darlegungslast und Substantiierung in Immobilienrechtspraxis geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Live: Beweislast, Darlegungslast und Substantiierung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Beweislast- und Substantiierungsmatrix. Fachgebiet: Immobilienrechtspraxis."
 ---
 
 # Live: Beweislast, Darlegungslast und Substantiierung

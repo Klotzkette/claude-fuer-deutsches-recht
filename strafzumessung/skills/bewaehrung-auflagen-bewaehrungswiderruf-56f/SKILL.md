@@ -1,6 +1,6 @@
 ---
 name: bewaehrung-auflagen-bewaehrungswiderruf-56f
-description: "Wenn es um Auflagen und Weisungen — Paragrafen 56b, 56c StGB in Strafzumessung geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Auflagen und Weisungen — Paragrafen 56b, 56c StGB: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Auflagen und Weisungen — §§ 56b, 56c StGB

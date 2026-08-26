@@ -1,6 +1,6 @@
 ---
 name: infl-039-luxusgeschenk-verlosung-oder-behalten
-description: "Wenn es um Influencer-Recht: Luxusgeschenk Verlosung oder behalten in Influencer-Recht geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Influencer-Recht: Luxusgeschenk Verlosung oder behalten: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Influencer-Recht: Luxusgeschenk Verlosung oder behalten

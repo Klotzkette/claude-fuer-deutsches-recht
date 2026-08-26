@@ -1,6 +1,6 @@
 ---
 name: sachliche-zustaendigkeit-amtsgericht-23-gvg
-description: "Wenn es um Ist das Amtsgericht für Ihren Fall sachlich zuständig? in selbstvertreter-amtsgericht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
+description: "Für Ist das Amtsgericht für Ihren Fall sachlich zuständig?: prüft Frist, Form, Zuständigkeit und Eilbedarf; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Ist das Amtsgericht für Ihren Fall sachlich zuständig?

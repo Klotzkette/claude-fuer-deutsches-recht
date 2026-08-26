@@ -7,15 +7,15 @@ Diese Vollprüfung enthält top-10 von 96 Skills des Plugins `energierecht`.
 ## Inhaltsverzeichnis
 
 1. **juristischer-argumentationskern** — Schaltet sich ein, wenn in Energierecht ein juristisches Arbeitsprodukt tragfähig begründet werden muss; verbindet konkr…
-2. **einstieg-routing** — Wenn es um Einstieg und Routing in Energierecht geht: klärt Rolle, Ziel, Frist, Unterlagen und den passenden nächsten Fa…
-3. **energierecht-erstpruefung-und-mandatsziel** — Wenn es um Energierecht: Erstprüfung, Rollenklärung und Mandatsziel in Energierecht geht: klärt Rolle, Ziel, Frist, Unte…
-4. **projektfinanzierung-stadtwerke-system** — Wenn es um Projektfinanzierung: Compliance-Dokumentation und Aktenvermerk in Energierecht geht: ordnet Akteninhalt, Bele…
-5. **bess-power-quality-emv** — Wenn es um Power Quality, EMV und Netzrückwirkungen in Energierecht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenarg…
-6. **energieprojekt-intake-und-regulierungsweiche** — Wenn es um Energieprojekt-Intake mit Regulierungs-, Netz- und Förderweiche in Energierecht geht: ordnet Akteninhalt, Bel…
-7. **bess-bimschg-und-4-bimschv** — Wenn es um BImSchG-Screening für Batteriespeicher in Energierecht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargum…
-8. **industrie-schriftsatz-brief-und-memo-bausteine** — Wenn es um Industrie: Schriftsatz-, Brief- und Memo-Bausteine in Energierecht geht: erstellt den passenden Entwurf aus S…
-9. **netzanschluss-praesumtion-spezial** — Wenn es um Energie: Netzanschluss-Verweigerung in Energierecht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargument…
-10. **bess-rechtsmittel-und-nachbarabwehr** — Wenn es um Rechtsmittel, Nachbarabwehr und Eilrechtsschutz in Energierecht geht: erstellt den passenden Entwurf aus Sach…
+2. **einstieg-routing** — Für Einstieg und Routing: routet Rolle, Frist, Unterlagen und Fachschritt; Ergebnis: Prüfprodukt mit Risiko und nächstem…
+3. **energierecht-erstpruefung-und-mandatsziel** — Für Energierecht: Erstprüfung, Rollenklärung und Mandatsziel: routet Rolle, Frist, Unterlagen und Fachschritt; Ergebnis:…
+4. **rechtsquellen-sonderfall-edge-case** — Für Rechtsquellen: Sonderfall und Edge-Case-Prüfung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mi…
+5. **routing-internationaler-bezug-und-schnittstellen** — Für Routing: Internationaler Bezug und Schnittstellen: routet Rolle, Frist, Unterlagen und Fachschritt; Ergebnis: Schnit…
+6. **energieprojekt-intake-und-regulierungsweiche** — Für Energieprojekt-Intake mit Regulierungs-, Netz- und Förderweiche: ordnet Norm, Beweislast und Gegenargument; Ergebnis…
+7. **fusion-strahlenschutz-neutronen-transrapid-anbindung-h2** — Für Fusion: Strahlenschutz und Neutronenaktivierung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Schnittstellen…
+8. **projektfinanzierung-stadtwerke-system** — Für Projektfinanzierung: Compliance-Dokumentation und Aktenvermerk: ordnet Norm, Beweislast und Gegenargument; Ergebnis:…
+9. **eeg-kwkg-erzeugung** — Für EEG, KWKG und Erzeugung erneuerbarer Energien: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Schnittstellenka…
+10. **einfuehrung-energieprojekt-intake** — Für Einführung: Mandantenkommunikation und Entscheidungsvorlage: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Pr…
 
 ---
 
@@ -138,7 +138,7 @@ Ausgangspunkt für dieses Plugin: Behörde trägt Tatsachengrundlage, Ermessen u
 
 ## Skill: `einstieg-routing`
 
-_Wenn es um Einstieg und Routing in Energierecht geht: klärt Rolle, Ziel, Frist, Unterlagen und den passenden nächsten Fachskill; liefert eine Fristen- und Risikoampel mit Sofortschritten._
+_Für Einstieg und Routing: routet Rolle, Frist, Unterlagen und Fachschritt; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt. Fachgebiet: Energierecht._
 
 # Einstieg und Routing
 
@@ -182,7 +182,7 @@ Dieser Einstieg routet **Energierecht** vom ersten Sachverhalt zu Rollen, Friste
 
 ## Skill: `energierecht-erstpruefung-und-mandatsziel`
 
-_Wenn es um Energierecht: Erstprüfung, Rollenklärung und Mandatsziel in Energierecht geht: klärt Rolle, Ziel, Frist, Unterlagen und den passenden nächsten Fachskill; liefert eine Fristen- und Risikoampel mit Sofortschritten._
+_Für Energierecht: Erstprüfung, Rollenklärung und Mandatsziel: routet Rolle, Frist, Unterlagen und Fachschritt; Ergebnis: Tatbestands- oder Anspruchsmatrix._
 
 # Energierecht: Erstprüfung, Rollenklärung und Mandatsziel
 
@@ -247,9 +247,189 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 
 ---
 
+## Skill: `rechtsquellen-sonderfall-edge-case`
+
+_Für Rechtsquellen: Sonderfall und Edge-Case-Prüfung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt. Fachgebiet: Energierecht._
+
+# Rechtsquellen: Sonderfall und Edge-Case-Prüfung
+
+## Normenanker
+
+Vor einer rechtlichen Schlussfolgerung diese Anker am aktuellen Normtext prüfen; Spezial- und Landesrecht nur hinzunehmen, wenn es den konkreten Auftrag traegt:
+
+- `§ 241 Abs. 2 BGB` — Rücksichtnahme-, Schutz- und Organisationspflichten.
+- `§ 242 BGB` — Treu und Glauben als Korrektiv enger Klausel- und Anspruchsarbeit.
+- `§ 280 Abs. 1 BGB` — Pflichtverletzung, Vertretenmuessen, Schaden.
+- `§ 286 Abs. 1 BGB` — Verzug und Fristlogik.
+- `§ 195 BGB` — regelmäßige Verjährung.
+- `§ 199 Abs. 1 BGB` — Beginn der regelmäßigen Verjährung.
+- `§ 253 Abs. 2 ZPO` — Bestimmtheit von Antrag und Klagegrund.
+- `§ 138 Abs. 1 ZPO` — Wahrheitspflicht und vollstaendiger Tatsachenvortrag.
+
+Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei prüfbare Quelle vorliegen; keine BeckRS-/juris-Blindzitate verwenden.
+
+## Spezialwissen: Rechtsquellen: Sonderfall und Edge-Case-Prüfung
+- **Normen-/Quellenanker:** EEG, KWKG.
+
+## Fallweichen
+Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur Rückfragen, die die nächste Weiche verändern:
+
+1. Welche Rolle hat die fragende Person und wer ist Gegenüber?
+2. Welches konkrete Ziel soll erreicht oder verhindert werden?
+3. Welche Frist, Zustellung, Schwelle, Zahlung, Sanktion oder Verfahrensstufe ist kritisch?
+4. Welche Dokumente, Registerauszüge, Bescheide, Verträge, Tabellen, Screenshots oder Nachrichten belegen den Punkt?
+5. Welcher Output wird gebraucht: Memo, Checkliste, Tabelle, Entwurf, Schriftsatzbaustein, Mandantenbrief oder Entscheidungsvorlage?
+
+## Arbeitsworkflow
+1. **Fallbild bilden:** Sachverhalt, Rollen, Zeitachse und Dokumente in eine kurze Matrix bringen.
+2. **Rechtsrahmen setzen:** Normen, Zuständigkeiten, Fristen, Formfragen und Verfahrensstand zum Themenfeld **Rechtsquellen** prüfen.
+3. **Prüfpunkte abarbeiten:** Tatbestandsmerkmale, Beweisfragen, typische Fehler, Gegenargumente und Ermessens- oder Wertungsfragen trennen.
+4. **Risiko bewerten:** Grün/Gelb/Rot mit Begründung, Annahmen, fehlenden Belegen und möglichen Alternativwegen ausgeben.
+5. **Anschluss bauen:** Passende weitere Skills desselben Plugins vorschlagen, wenn eine Vertiefung, ein Schreiben, eine Tabelle, ein Fristenblatt oder eine Verhandlungsstrategie sinnvoll ist.
+
+---
+
+## Skill: `routing-internationaler-bezug-und-schnittstellen`
+
+_Für Routing: Internationaler Bezug und Schnittstellen: routet Rolle, Frist, Unterlagen und Fachschritt; Ergebnis: Schnittstellenkarte mit Zuständigkeits- und Nachweisfragen._
+
+# Routing: Internationaler Bezug und Schnittstellen
+
+## Normenanker
+
+Vor einer rechtlichen Schlussfolgerung diese Anker am aktuellen Normtext prüfen; Spezial- und Landesrecht nur hinzunehmen, wenn es den konkreten Auftrag traegt:
+
+- `§ 241 Abs. 2 BGB` — Rücksichtnahme-, Schutz- und Organisationspflichten.
+- `§ 242 BGB` — Treu und Glauben als Korrektiv enger Klausel- und Anspruchsarbeit.
+- `§ 280 Abs. 1 BGB` — Pflichtverletzung, Vertretenmuessen, Schaden.
+- `§ 286 Abs. 1 BGB` — Verzug und Fristlogik.
+- `§ 195 BGB` — regelmäßige Verjährung.
+- `§ 199 Abs. 1 BGB` — Beginn der regelmäßigen Verjährung.
+- `§ 253 Abs. 2 ZPO` — Bestimmtheit von Antrag und Klagegrund.
+- `§ 138 Abs. 1 ZPO` — Wahrheitspflicht und vollstaendiger Tatsachenvortrag.
+
+Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei prüfbare Quelle vorliegen; keine BeckRS-/juris-Blindzitate verwenden.
+
+## Arbeitsweg
+
+- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
+- Fristen und Eilrisiken zuerst markieren: nur die Fristen des konkreten Rechtsgebiets und der Akte verwenden; Widerspruch, Klage, Einspruch, Rechtsmittel, Verjährung, Verwirkung, Rüge-, Anzeige-, Anmelde- und Ausschlussfristen strikt trennen und nie aus einem anderen Fachgebiet übernehmen.
+- Tragende Normen verifizieren: KWKG — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
+- Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
+- Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
+
+## Spezialwissen: Routing: Internationaler Bezug und Schnittstellen
+- **Normen-/Quellenanker:** EEG, KWKG.
+
+## Fallweichen
+Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur Rückfragen, die die nächste Weiche verändern:
+
+1. Welche Rolle hat die fragende Person und wer ist Gegenüber?
+2. Welches konkrete Ziel soll erreicht oder verhindert werden?
+3. Welche Frist, Zustellung, Schwelle, Zahlung, Sanktion oder Verfahrensstufe ist kritisch?
+4. Welche Dokumente, Registerauszüge, Bescheide, Verträge, Tabellen, Screenshots oder Nachrichten belegen den Punkt?
+5. Welcher Output wird gebraucht: Memo, Checkliste, Tabelle, Entwurf, Schriftsatzbaustein, Mandantenbrief oder Entscheidungsvorlage?
+
+## Arbeitsworkflow
+1. **Fallbild bilden:** Sachverhalt, Rollen, Zeitachse und Dokumente in eine kurze Matrix bringen.
+2. **Rechtsrahmen setzen:** Normen, Zuständigkeiten, Fristen, Formfragen und Verfahrensstand zum Themenfeld **Routing** prüfen.
+3. **Prüfpunkte abarbeiten:** Tatbestandsmerkmale, Beweisfragen, typische Fehler, Gegenargumente und Ermessens- oder Wertungsfragen trennen.
+4. **Risiko bewerten:** Grün/Gelb/Rot mit Begründung, Annahmen, fehlenden Belegen und möglichen Alternativwegen ausgeben.
+5. **Anschluss bauen:** Passende weitere Skills desselben Plugins vorschlagen, wenn eine Vertiefung, ein Schreiben, eine Tabelle, ein Fristenblatt oder eine Verhandlungsstrategie sinnvoll ist.
+
+---
+
+## Skill: `energieprojekt-intake-und-regulierungsweiche`
+
+_Für Energieprojekt-Intake mit Regulierungs-, Netz- und Förderweiche: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt._
+
+# Energieprojekt-Intake mit Regulierungs-, Netz- und Förderweiche
+
+## Direktstart: lesen, entscheiden, liefern
+
+Beginne nicht mit einem Fragenkatalog. Wenn Material vorliegt, lies es zuerst und starte mit einer verwertbaren Arbeitshypothese:
+
+- Frist oder Sofortrisiko.
+- erkannte Rolle, Zielrichtung und Verfahrensstand.
+- tragende Tatsachen aus dem Material.
+- bester nächster Arbeitsschritt mit direkt nutzbarem Output.
+
+Frage höchstens zwei Punkte nach, und nur wenn ohne diese Antwort der nächste Schritt falsch oder riskant würde. Fehlt Material vollständig, verlange nicht allgemein alle Unterlagen, sondern nenne die drei wichtigsten Dokumente und arbeite mit sichtbaren Annahmen weiter.
+
+Starte mit einem Arbeitsprodukt, nicht mit einer Inventarliste: Kurzvermerk, Fristenblatt, Prüfmatrix, Entwurf, Fragenliste oder Entscheidungsvorschlag. Routing ist nur Mittel zum Zweck. Wenn ein Fachskill eindeutig passt, arbeite unmittelbar in dessen Richtung weiter.
+
+Arbeitsmodus: Liefere zuerst einen nutzbaren Zwischenstand in höchstens sieben Sätzen und dann den nächsten konkreten Schritt. Frage nur nach, wenn Frist, Zuständigkeit, Beweis, Betrag oder Rechtsfolge sonst nicht belastbar bestimmbar sind. Tabellen nur für Fristen, Belege, Beträge, Varianten oder Streitstoff.
+
+## Arbeitsweg
+
+- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
+- Fristen und Eilrisiken zuerst markieren: nur die Fristen des konkreten Rechtsgebiets und der Akte verwenden; Widerspruch, Klage, Einspruch, Rechtsmittel, Verjährung, Verwirkung, Rüge-, Anzeige-, Anmelde- und Ausschlussfristen strikt trennen und nie aus einem anderen Fachgebiet übernehmen.
+- Tragende Normen verifizieren: KWKG — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
+- Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
+- Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
+
+## Einstieg
+Wenn Material vorliegt, nutze es zuerst. Frage nur nach, was für die nächste Entscheidung fehlt:
+
+1. Wer handelt in welcher Rolle und gegen wen?
+2. Welches praktische Ziel soll erreicht werden?
+3. Welche Fristen, Termine, Zustellungen, Schwellenwerte oder Sanktionen stehen im Raum?
+4. Welche Unterlagen, Daten, Registerauszüge, Bescheide, Verträge, Screenshots oder sonstigen Belege liegen vor?
+5. Soll der Output intern, für Mandantschaft, Behörde, Gericht, Gegnerseite oder Gremium formuliert werden?
+
+## Arbeitsworkflow
+1. **Sortieren:** Sachverhalt, Dokumente und offene Punkte in eine knappe Fallmatrix bringen.
+2. **Rechtsrahmen:** Einschlägige Normen, Zuständigkeiten, Verfahren, Fristen und formelle Anforderungen live prüfen, soweit Aktualität tragend ist.
+3. **Materielle Weichen:** Die Kernfragen zu **Energieprojekt-Intake mit Regulierungs-, Netz- und Förderweiche** mit Tatbestandsmerkmalen, Belegen, Gegenargumenten und typischen Praxisfehlern abarbeiten.
+4. **Risikoampel:** Ergebnis in Grün/Gelb/Rot mit Begründung, Unsicherheiten und Beweisbedarf einordnen.
+5. **Anschluss:** Passende weitere Skills desselben Plugins vorschlagen, wenn Spezialprüfung, Schriftsatz, Tabelle, Brief oder Verhandlungsstrategie sinnvoll ist.
+
+---
+
+## Skill: `fusion-strahlenschutz-neutronen-transrapid-anbindung-h2`
+
+_Für Fusion: Strahlenschutz und Neutronenaktivierung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Schnittstellenkarte mit Zuständigkeits- und Nachweisfragen._
+
+# Fusion: Strahlenschutz und Neutronenaktivierung
+
+## Arbeitsweg
+
+- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
+- Fristen und Eilrisiken zuerst markieren: nur die Fristen des konkreten Rechtsgebiets und der Akte verwenden; Widerspruch, Klage, Einspruch, Rechtsmittel, Verjährung, Verwirkung, Rüge-, Anzeige-, Anmelde- und Ausschlussfristen strikt trennen und nie aus einem anderen Fachgebiet übernehmen.
+- Tragende Normen verifizieren: KWKG — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
+- Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
+- Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
+
+## Wofür dieser Arbeitsgang da ist
+
+Fokus auf Nachweise, Sachverständige und Sicherheitsdokumentation.
+
+## Rechts- und Praxisanker
+
+StrlSchG, StrlSchV, AtG-Schnittstellen, Abfallrecht, Sicherheitsgutachten.
+
+## Workflow
+
+1. Technisches Vorhaben in rechtliche Teilanlagen zerlegen.
+2. Zuständigkeiten und Genehmigungswege mit Livequellen prüfen.
+3. Sicherheits-, Umwelt-, Netz- und Verkehrsfragen getrennt dokumentieren.
+4. Konkrete Nachforderungen an Vorhabenträger und Behördenstrategie ausgeben.
+
+## Qualitätsgate
+
+- Keine Blindzitate: Rechtsprechung, Behördenpraxis und Schwellenwerte vor tragender Aussage live anhand amtlicher oder frei zugänglicher Quellen prüfen.
+- Keine LMA-, Banken- oder Fondsformularsprache nacherzählen: Nutzer soll das aktuelle Dokument hochladen; der Skill arbeitet dann am konkreten Text.
+- Jede Annahme sichtbar markieren, insbesondere Zahlen, Fristen, regulatorische Rollen, Genehmigungsstand und Parteiperspektive.
+
+## Spezielle Vorsicht
+
+Fusionsrecht in Deutschland ist dynamisch; tragende Aussagen immer am aktuellen AtG/Strahlenschutz-/Fachrecht und Behördenmaterial live prüfen.
+
+---
+
 ## Skill: `projektfinanzierung-stadtwerke-system`
 
-_Wenn es um Projektfinanzierung: Compliance-Dokumentation und Aktenvermerk in Energierecht geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt._
+_Für Projektfinanzierung: Compliance-Dokumentation und Aktenvermerk: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt._
 
 # Projektfinanzierung: Compliance-Dokumentation und Aktenvermerk
 
@@ -297,11 +477,11 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 
 ---
 
-## Skill: `bess-power-quality-emv`
+## Skill: `eeg-kwkg-erzeugung`
 
-_Wenn es um Power Quality, EMV und Netzrückwirkungen in Energierecht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt._
+_Für EEG, KWKG und Erzeugung erneuerbarer Energien: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Schnittstellenkarte mit Zuständigkeits- und Nachweisfragen._
 
-# Power Quality, EMV und Netzrückwirkungen
+# EEG, KWKG und Erzeugung erneuerbarer Energien
 
 ## Arbeitsweg
 
@@ -311,34 +491,259 @@ _Wenn es um Power Quality, EMV und Netzrückwirkungen in Energierecht geht: ordn
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
-## Wofür dieser Arbeitsgang da ist
+## Eingaben
 
-Der Skill übersetzt diffuse Sorgen vor 'Stromverseuchung' in prüfbare technische und rechtliche Punkte.
+- Anlagen-Typ (Wind, Photovoltaik, KWK, Biomasse, Wasserkraft, Geothermie)
+- Installierte Leistung kW / MW
+- Inbetriebnahme-Datum oder geplantes Datum
+- Ausschreibungs-Teilnahme (Zuschlag, Höchst-Wert)
+- Marktstammdatenregister-Eintrag (MaStR-Nummer)
+- Förder-Bezug (EEG-Vergütung, KWKG-Zuschlag, BImSchG-Genehmigung, Investitions-Förderung)
+- Netzbetreiber und Bilanzkreis
 
-## Rechts- und Praxisanker
+## Schritt 1 — Förder-Architektur EEG 2023
 
-EnWG, technische Anschlussregeln nur mit aktueller Quelle, EMVG/26. BImSchV als Schnittstelle.
+### Marktprämie + Direktvermarktung § 19, § 20 EEG
 
-## Workflow
+Standard-Fall: Anlagen ab 100 kW (Solar 100 kWp ab 2025, schrittweise reduziert). Vermarktung über Direktvermarkter; EEG zahlt Marktprämie als Differenz zwischen anzulegendem Wert und Marktpreis.
 
-1. Projektrolle und gewünschtes Ergebnis festlegen: Betreiber, Investor, Kommune, Netzbetreiber, Nachbar, Bank oder Behörde.
-2. Standort, Technik, Netzebene, Leistung, Kapazität, Betriebsmodell und Dokumentenstand erfassen.
-3. Genehmigungs-, Netz-, Sicherheits-, Markt- und Vertragsfragen in getrennte Spuren legen.
-4. Rote Punkte mit Belegen, zuständiger Stelle, Frist und konkretem nächsten Dokument ausgeben.
+### Feste Einspeise-Vergütung § 21 EEG
 
-## Qualitätsgate
+Kleinanlagen unter 100 kW (Solar). Vergütung direkt vom Netzbetreiber.
 
-- Keine Blindzitate: Rechtsprechung, Behördenpraxis und Schwellenwerte vor tragender Aussage live anhand amtlicher oder frei zugänglicher Quellen prüfen.
-- Keine LMA-, Banken- oder Fondsformularsprache nacherzählen: Nutzer soll das aktuelle Dokument hochladen; der Skill arbeitet dann am konkreten Text.
-- Jede Annahme sichtbar markieren, insbesondere Zahlen, Fristen, regulatorische Rollen, Genehmigungsstand und Parteiperspektive.
+### Anzulegender Wert
+
+Aus Ausschreibung (Wind, Solar > 1 MW) oder gesetzlich festgelegt (Kleinanlagen, Biomasse Bestand). Inflations-Anpassung nach § 51a EEG (seit 2024 stärker eingeführt).
+
+### Ausschreibungs-Verfahren
+
+- **Wind onshore**: jährlich vier Termine, anzulegender Wert je MWh, Höchstwert 7,35 ct/kWh (Stand 2024, jährliche Anpassung BNetzA)
+- **PV-Freifläche > 1 MW**: vier Termine pro Jahr
+- **PV-Dach > 1 MW**: separate Ausschreibung
+- **Biomasse**: zweimal pro Jahr
+- **Wind offshore**: Bundesfachplan-Ausschreibung BSH
+
+### Innovationsausschreibung § 39o EEG
+
+Speicher-Kombinationen, KWK-Hybride, besondere Anlagenkonzepte. Zuschlag in MWh-Vergütung statt Cent/kWh.
+
+## Schritt 2 — KWKG 2023
+
+### Zuschlag-Berechtigte Anlagen § 5 KWKG
+
+- Neuanlagen, modernisierte Anlagen, Bestandsanlagen
+- Brennstoffe: Erdgas, biogene Brennstoffe, Wasserstoff (ab 2025 mit gestaffelter Quote)
+- Leistungs-Klassen: < 50 kW, 50 — 100 kW, 100 — 250 kW, 250 — 2 MW, > 2 MW
+
+### Zuschlags-Höhen
+
+Gestaffelt nach Leistung und Inbetriebnahme. Zuschlags-Dauer typisch 30.000 — 45.000 Vollbenutzungs-Stunden.
+
+### Wasserstoff-Quote
+
+Seit 2024 Pflicht zu schrittweisem H2-Ready-Standard für Anlagen > 10 MW (KWKG-Reform 2023).
+
+### Förderfähigkeits-Antrag § 10 KWKG
+
+- BAFA als zuständige Behörde (für Standard-Anlagen)
+- BNetzA für Ausschreibungs-KWK
+- Frist-genau prüfen
+
+## Schritt 3 — Anlagen-Zulassung und Genehmigung
+
+### Marktstammdatenregister § 33 EEG
+
+- **Eintragungs-Pflicht** binnen ein Monat nach Inbetriebnahme
+- BNetzA-Webportal
+- Bei Versäumnis: **anzulegender Wert auf null** § 33 Abs. 6 EEG bis zur Eintragung
+- Strenge Verwaltungspraxis BNetzA
+
+### BImSchG-Genehmigung
+
+- Windkraftanlagen > 50 m Gesamthöhe: § 4 BImSchG förmliches Verfahren
+- Biogas-Anlage > 1,2 MW: Standard-Verfahren
+- Sammlung Antrags-Unterlagen: Schallgutachten, Schattenwurfprognose, artenschutzrechtliche Prüfung (saP), Bauantrag
+
+### Solar-Freiflächen / Wind: Bauleitplanung-Bezug
+
+- Wind: ab 1.000 m zu nächster Wohnbebauung (Bundesland-Regelung Bayern 10H abgeschafft 2023)
+- Solar: Acker- und Grünland-Standorte mit eingeschränkten Möglichkeiten
+- Beschleunigungs-Gebiete EU-RED III: Pflicht ab 21.02.2026 zu deren Ausweisung
+
+### WindBG / SolarBG
+
+- Windflächenbedarfsgesetz 2022: Länder-Quote Mindestflächen
+- Solarpaket I 2024: vereinfachte Anlagenzulassung Mieterstrom, Direktversorgung
+
+## Schritt 4 — Repowering und Modernisierung
+
+### Repowering Wind § 23b EEG
+
+- Ersatz Bestandsanlage durch leistungsstärkere Neuanlage am gleichen Standort
+- Anrechnungs-Mechanismus
+- Bevorzugte Behandlung in Ausschreibungen
+
+### Modernisierung KWK § 5 Abs. 2 KWKG
+
+- Mindest-Wert-Erhaltung von Bestandsanlagen
+- Neuer Zuschlag bei wesentlicher Modernisierung
+
+### Speicher-Hybridisierung
+
+- Innovationsausschreibung
+- Doppelvermarktungs-Verbot beachten
+
+## Schritt 5 — Streit-Konstellationen
+
+### Vergütungs-Streit mit Netzbetreiber
+
+- Anlagenzulassung erfolgt aber Vergütung verweigert
+- BGH-EnVR-Senat: laufende Rechtsprechung zum Anlagenbegriff und zur Vergütung — vor Ausgabe Aktenzeichen über bundesgerichtshof.de verifizieren
+- Klärung Streit über Schiedsverfahren bei der BNetzA (§ 81 EEG) oder Klage Zivilgericht
+
+### Bei nicht-rechtzeitiger MaStR-Eintragung
+
+- Anlage in Betrieb, Eintrag fehlt
+- Korrektur möglich, aber Vergütungs-Sperre für Zwischen-Zeitraum
+- BNetzA-Verwaltungspraxis prüfen
+
+### Ausschreibungs-Zuschlag versäumt
+
+- Anlage gebaut, Zuschlag verfehlt
+- Alternative: feste Einspeise-Vergütung bei Kleinanlagen / Sonder-Konstellationen
+- Wenn kein Förderanspruch: Marktvermarktung über Direktvermarkter, PPA
+
+### Bei Bürgerwindprojekten
+
+- Bürgerenergiegesellschaft § 3 Nr. 15 EEG
+- Privilegierungen in Ausschreibung
+- Mitglieder-Anteils-Mindestanforderungen
+
+## Schritt 6 — PPA als Alternative zur EEG-Förderung
+
+### Corporate PPA
+
+- Direkter Vertrag Anlage — Endkunde (Industrie)
+- Vermeidet Marktrisiko
+- Skill `energierecht-projektfinanzierung` für Strukturierung
+
+### On-Site PPA
+
+- Anlage auf Kundengelände
+- Direktversorgung ohne Netzdurchleitung
+- Mess- und Eichrecht beachten
+
+## Schritt 7 — Strafzahlung BNetzA / Pönale
+
+### Pönalen bei Nicht-Realisierung Ausschreibungs-Zuschlag
+
+- Zuschlag erteilt aber nicht rechtzeitig umgesetzt
+- Pönale je nach Volumen
+- Wiederaufnahme-Sperre
+
+### Nachträglicher Ausschluss
+
+- Bei wesentlichen Verstößen Förderfähigkeit
+- BNetzA-Anordnung, klagebar VG
+
+## Schritt 8 — Erdgas / Biogas / Biomethan
+
+- Biomasse-Spezial-Regelungen § 39f-h EEG
+- Nachhaltigkeits-Anforderungen RED II/III
+- Biomethan-Einspeisung Gasnetz
+- HRG-Verfahren Wasserstoff-Hochlauf (Erdgas-Vorgriff)
+
+## Schritt 9 — EU-Bezug
+
+### RED III (Renewable Energy Directive III, 2024)
+
+- Beschleunigungs-Gebiete Pflicht
+- Vereinfachung Genehmigung
+- Nationale Umsetzung läuft
+
+### EU-Strommarkt-Reform 2024
+
+- Differenzverträge (Contracts for Difference)
+- PPA-Erleichterungen
+- Capacity-Markt-Mechanismen
+
+## Schritt 10 — Mandanten-Strategie
+
+### Bei Erzeugungs-Investor (Neuanlage)
+
+1. Anlagentyp und Standort prüfen
+2. Genehmigungs-Weg klar (BImSchG / Bau)
+3. Förderpfad (Ausschreibung vs. PPA vs. Eigenverbrauch)
+4. MaStR-Eintragung sicherstellen
+5. Vergütungs-Direktvermarkter wählen
+6. Begleit-Verträge (PPA, Wartungs-Vertrag, Versicherungs-Schutz)
+
+### Bei Bestandsanlage
+
+1. Vergütungs-Anspruch prüfen
+2. Modernisierungs-Optionen
+3. Repowering-Strategie
+4. Vermarktungs-Optimierung
+
+### Bei Streit mit Netzbetreiber
+
+1. BNetzA-Beschwerde erwägen
+2. Klage VG / Bundesgerichtshof bei EnWG-Linien
+3. Skill `energierecht-verfahren`
+
+## Aktuelle Rechtsprechung & Leitsätze (Stand 05/2026)
+
+- **EuGH 28.03.2019, C-405/16 P (PreussenElektra-Nachfolge / EEG 2012)**: EEG-Umlage stellt keine staatliche Beihilfe i.S.v. Art. 107 AEUV dar (in Vorlaeufer-Konstellation); Änderung gegenueber Kommissions-Auffassung. Quelle: curia.europa.eu (CELEX 62016CJ0405).
+- **BGH 05.07.2022, EnVR 41/20**: Anlagenbegriff EEG; Abgrenzung zwischen mehreren Anlagen am selben Standort. Quelle: bundesgerichtshof.de — Pressemitteilung BGH 99/2022. Vor Zitieren der Detailfragen Aktenzeichen über bundesgerichtshof.de verifizieren.
+- **BVerwG 17.12.2020, 4 C 5.19**: BImSchG-Genehmigung Windkraftanlage; Anforderungen an artenschutzrechtliche Prüfung (saP). Quelle: bverwg.de.
+- **EuGH 27.04.2023, C-217/22 (Aktiengesellschaft Yarpa)**: Auslegung der EE-Richtlinie 2018/2001 (RED II) — Foerderfaehigkeit. Quelle: curia.europa.eu.
+- **Gesetzeslage 05/2026:**
+ - EEG 2023 (BGBl. I 2022 S. 1237, mehrfach geaendert)
+ - Solarpaket I — BGBl. I 2024 S. 151 (Inkraftsetzung 16.05.2024)
+ - WindBG 2022 (BGBl. I S. 1353) — 2-Prozent-Flaechenziel Länder
+ - KWKG 2023 — Verlaengerung Förderung bis 2030 (Wasserstoff-Pflicht ab 10 MW)
+ - GEG 2024 (BGBl. I 2023 S. 280) — Heizungsgesetz, 65-Prozent-EE-Pflicht ab 2024 in Neubaugebieten
+ - RED III — RL (EU) 2023/2413; Frist Umsetzung 21.05.2025; Beschleunigungsgebiete ab 21.02.2026 verpflichtend
+ - BNetzA-Festlegungen Ausschreibungs-Hoechstwerte 2025/2026 über bundesnetzagentur.de aktuell prüfen
+
+Konkrete Aktenzeichen vor Ausgabe über bundesgerichtshof.de / bverwg.de / curia.europa.eu mit Datum verifizieren.
+
+## Zentrale Normen (Paragrafenkette)
+
+§ 19 EEG (Marktpraemie) — § 20 EEG (Direktvermarktung) — § 21 EEG (feste Einspeise-Vergütung) — § 23b EEG (Repowering) — § 33 EEG (MaStR-Eintragungspflicht) — § 4 BImSchG (Genehmigungspflicht) — § 35 BauGB (Privilegierung Aussenbereich) — § 44 BNatSchG (Zugriffsverbote Artenschutz)
+
+## Verzahnung
+
+- `energierecht-netz-speicher-zugang` — Netzanschluss
+- `energierecht-vertrieb-marktrollen` — Direktvermarktung
+- `energierecht-projektfinanzierung` — PPA
+- `energierecht-transaktionen-dd` — bei Anlagen-Verkauf
+- `umweltrecht-immissionsschutz-bimschg` — BImSchG-Genehmigung
+- `klimaklagen-verbandsklage-umwrg` — bei Verbands-Klagen Wind
+- `normenkontrolle-bauleitplanung` — bei Bauleit-Streit
+
+## Quellen
+
+- EEG 2023 + Solarpaket I 2024 §§ 19, 20, 21, 23b, 33, 39f-o, 51a
+- KWKG 2023 §§ 5, 10, 25
+- BImSchG §§ 4, 10
+- BauGB §§ 35, 249
+- WindBG, SolarBG, GEG, EnEfG
+- BNetzA-Festlegungen zu Ausschreibungs-Höchstwerten
+- BAFA-Merkblätter
+- Rechtsprechung live prüfen: Keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über amtliche oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
+- BVerwG 17.12.2020, 4 C 5.19 — BImSchG-Windkraft saP (bverwg.de)
+- EU-RED III (Richtlinie (EU) 2023/2413, ABl. L 2413 vom 31.10.2023; eur-lex.europa.eu/eli/dir/2023/2413/oj)
+- EU-Strommarkt-Verordnung (EU) 2024/1747; sowie VO (EU) 2019/943 (Grundverordnung)
+- EuGH 02.09.2021, C-718/18 — Unabhaengigkeit BNetzA als Regulierungsbehoerde
 
 ---
 
-## Skill: `energieprojekt-intake-und-regulierungsweiche`
+## Skill: `einfuehrung-energieprojekt-intake`
 
-_Wenn es um Energieprojekt-Intake mit Regulierungs-, Netz- und Förderweiche in Energierecht geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen._
+_Für Einführung: Mandantenkommunikation und Entscheidungsvorlage: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt._
 
-# Energieprojekt-Intake mit Regulierungs-, Netz- und Förderweiche
+# Einfuehrung: Mandantenkommunikation und Entscheidungsvorlage
 
 ## Direktstart: lesen, entscheiden, liefern
 
@@ -354,75 +759,6 @@ Frage höchstens zwei Punkte nach, und nur wenn ohne diese Antwort der nächste 
 Starte mit einem Arbeitsprodukt, nicht mit einer Inventarliste: Kurzvermerk, Fristenblatt, Prüfmatrix, Entwurf, Fragenliste oder Entscheidungsvorschlag. Routing ist nur Mittel zum Zweck. Wenn ein Fachskill eindeutig passt, arbeite unmittelbar in dessen Richtung weiter.
 
 Arbeitsmodus: Liefere zuerst einen nutzbaren Zwischenstand in höchstens sieben Sätzen und dann den nächsten konkreten Schritt. Frage nur nach, wenn Frist, Zuständigkeit, Beweis, Betrag oder Rechtsfolge sonst nicht belastbar bestimmbar sind. Tabellen nur für Fristen, Belege, Beträge, Varianten oder Streitstoff.
-
-## Arbeitsweg
-
-- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
-- Fristen und Eilrisiken zuerst markieren: nur die Fristen des konkreten Rechtsgebiets und der Akte verwenden; Widerspruch, Klage, Einspruch, Rechtsmittel, Verjährung, Verwirkung, Rüge-, Anzeige-, Anmelde- und Ausschlussfristen strikt trennen und nie aus einem anderen Fachgebiet übernehmen.
-- Tragende Normen verifizieren: KWKG — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
-- Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
-- Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
-
-## Einstieg
-Wenn Material vorliegt, nutze es zuerst. Frage nur nach, was für die nächste Entscheidung fehlt:
-
-1. Wer handelt in welcher Rolle und gegen wen?
-2. Welches praktische Ziel soll erreicht werden?
-3. Welche Fristen, Termine, Zustellungen, Schwellenwerte oder Sanktionen stehen im Raum?
-4. Welche Unterlagen, Daten, Registerauszüge, Bescheide, Verträge, Screenshots oder sonstigen Belege liegen vor?
-5. Soll der Output intern, für Mandantschaft, Behörde, Gericht, Gegnerseite oder Gremium formuliert werden?
-
-## Arbeitsworkflow
-1. **Sortieren:** Sachverhalt, Dokumente und offene Punkte in eine knappe Fallmatrix bringen.
-2. **Rechtsrahmen:** Einschlägige Normen, Zuständigkeiten, Verfahren, Fristen und formelle Anforderungen live prüfen, soweit Aktualität tragend ist.
-3. **Materielle Weichen:** Die Kernfragen zu **Energieprojekt-Intake mit Regulierungs-, Netz- und Förderweiche** mit Tatbestandsmerkmalen, Belegen, Gegenargumenten und typischen Praxisfehlern abarbeiten.
-4. **Risikoampel:** Ergebnis in Grün/Gelb/Rot mit Begründung, Unsicherheiten und Beweisbedarf einordnen.
-5. **Anschluss:** Passende weitere Skills desselben Plugins vorschlagen, wenn Spezialprüfung, Schriftsatz, Tabelle, Brief oder Verhandlungsstrategie sinnvoll ist.
-
----
-
-## Skill: `bess-bimschg-und-4-bimschv`
-
-_Wenn es um BImSchG-Screening für Batteriespeicher in Energierecht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt._
-
-# BImSchG-Screening für Batteriespeicher
-
-## Arbeitsweg
-
-- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
-- Fristen und Eilrisiken zuerst markieren: nur die Fristen des konkreten Rechtsgebiets und der Akte verwenden; Widerspruch, Klage, Einspruch, Rechtsmittel, Verjährung, Verwirkung, Rüge-, Anzeige-, Anmelde- und Ausschlussfristen strikt trennen und nie aus einem anderen Fachgebiet übernehmen.
-- Tragende Normen verifizieren: KWKG — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
-- Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
-- Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
-
-## Wofür dieser Arbeitsgang da ist
-
-Der Skill trennt Bauantrag, BImSchG-Antrag, Störfall- und Brandschutzthemen.
-
-## Rechts- und Praxisanker
-
-BImSchG, 4. BImSchV, 12. BImSchV, TA Lärm, Geruch/Staub irrelevant nur markieren, wenn tatsächlich betroffen.
-
-## Workflow
-
-1. Projektrolle und gewünschtes Ergebnis festlegen: Betreiber, Investor, Kommune, Netzbetreiber, Nachbar, Bank oder Behörde.
-2. Standort, Technik, Netzebene, Leistung, Kapazität, Betriebsmodell und Dokumentenstand erfassen.
-3. Genehmigungs-, Netz-, Sicherheits-, Markt- und Vertragsfragen in getrennte Spuren legen.
-4. Rote Punkte mit Belegen, zuständiger Stelle, Frist und konkretem nächsten Dokument ausgeben.
-
-## Qualitätsgate
-
-- Keine Blindzitate: Rechtsprechung, Behördenpraxis und Schwellenwerte vor tragender Aussage live anhand amtlicher oder frei zugänglicher Quellen prüfen.
-- Keine LMA-, Banken- oder Fondsformularsprache nacherzählen: Nutzer soll das aktuelle Dokument hochladen; der Skill arbeitet dann am konkreten Text.
-- Jede Annahme sichtbar markieren, insbesondere Zahlen, Fristen, regulatorische Rollen, Genehmigungsstand und Parteiperspektive.
-
----
-
-## Skill: `industrie-schriftsatz-brief-und-memo-bausteine`
-
-_Wenn es um Industrie: Schriftsatz-, Brief- und Memo-Bausteine in Energierecht geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik._
-
-# Industrie: Schriftsatz-, Brief- und Memo-Bausteine
 
 ## Normenanker
 
@@ -447,7 +783,7 @@ Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei pr
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
-## Spezialwissen: Industrie: Schriftsatz-, Brief- und Memo-Bausteine
+## Spezialwissen: Einfuehrung: Mandantenkommunikation und Entscheidungsvorlage
 - **Normen-/Quellenanker:** EEG, KWKG.
 
 ## Fallweichen
@@ -461,107 +797,10 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 
 ## Arbeitsworkflow
 1. **Fallbild bilden:** Sachverhalt, Rollen, Zeitachse und Dokumente in eine kurze Matrix bringen.
-2. **Rechtsrahmen setzen:** Normen, Zuständigkeiten, Fristen, Formfragen und Verfahrensstand zum Themenfeld **Industrie** prüfen.
+2. **Rechtsrahmen setzen:** Normen, Zuständigkeiten, Fristen, Formfragen und Verfahrensstand zum Themenfeld **Einfuehrung** prüfen.
 3. **Prüfpunkte abarbeiten:** Tatbestandsmerkmale, Beweisfragen, typische Fehler, Gegenargumente und Ermessens- oder Wertungsfragen trennen.
 4. **Risiko bewerten:** Grün/Gelb/Rot mit Begründung, Annahmen, fehlenden Belegen und möglichen Alternativwegen ausgeben.
 5. **Anschluss bauen:** Passende weitere Skills desselben Plugins vorschlagen, wenn eine Vertiefung, ein Schreiben, eine Tabelle, ein Fristenblatt oder eine Verhandlungsstrategie sinnvoll ist.
-
----
-
-## Skill: `netzanschluss-praesumtion-spezial`
-
-_Wenn es um Energie: Netzanschluss-Verweigerung in Energierecht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt._
-
-# Energie: Netzanschluss-Verweigerung
-
-## Arbeitsweg
-
-- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
-- Fristen und Eilrisiken zuerst markieren: nur die Fristen des konkreten Rechtsgebiets und der Akte verwenden; Widerspruch, Klage, Einspruch, Rechtsmittel, Verjährung, Verwirkung, Rüge-, Anzeige-, Anmelde- und Ausschlussfristen strikt trennen und nie aus einem anderen Fachgebiet übernehmen.
-- Tragende Normen verifizieren: KWKG — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
-- Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
-- Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
-
-## Spezialwissen: Energie: Netzanschluss-Verweigerung
-- **Normen-/Quellenanker:** EEG, BGH.
-
-## Fallweichen
-Frage zu Beginn nur ab, was für den naechsten Schritt unverzichtbar ist. Wenn Material vorliegt, mit dem Material arbeiten und nur eine gezielte Rueckfrage stellen.
-
-1. **Rolle und Ziel:** Wer fragt, welche Rolle, welcher gewuenschte Output (Memo, Schriftsatz, Tabelle, Checkliste)?
-2. **Sachverhalt:** Welche unstreitigen Tatsachen liegen vor, was ist streitig, was fehlt noch?
-3. **Fristen:** Gibt es Termine, Fristen, eilbeduerftige Schritte?
-4. **Unterlagen:** Welche Dokumente, Bescheide, Verträge, Auszuege liegen vor?
-5. **Format:** Wie ausfuehrlich, für wen, in welcher Tonalitaet?
-
-## Prüfraster
-
-Der Output muss als verwertbares Arbeitsprodukt aufgebaut sein:
-
-1. **Sachverhalt fixieren** - streitige und unstreitige Tatsachen trennen, Lueckentafel.
-2. **Rechtliche Einordnung** - einschlaegige Normen, Rechtsprechung BGH/BVerfG/EuGH, Literatur.
-3. **Prüfung im Gutachtenstil** - Obersatz, Definition, Subsumtion, Zwischenergebnis.
-4. **Handlungsempfehlung** - konkret, mit naechstem Schritt, verantwortlicher Person, Frist.
-
-## Plugin-Kontext
-Dieses Fachmodul arbeitet den konkreten Schwerpunkt aus, prüft Aktenlage, Normen, Fristen, Belege und Gegenargumente und erzeugt einen unmittelbar nutzbaren nächsten Schritt.
-
-## Output-Module
-- Strukturierter Prüfvermerk im Gutachtenstil mit klaren Ueberschriften.
-- Tabellen und Checklisten, wo das die Lesbarkeit erhoeht.
-- Anschreiben-, Antrags- oder Klageschriftsatz-Geruest, wenn die Aufgabe das verlangt.
-- Quellenliste mit Gericht, Datum, Aktenzeichen, frei prüfbarem Link.
-
-<!-- BEGIN ausformulierungspflicht (autogen) -->
-> **Ausformulierungspflicht und Formatstandard.** Das Endprodukt wird in **vollständigen, ausformulierten Sätzen** geliefert — keine Stichwortskelette, keine leeren Klauselrümpfe, keine reinen Aufzählungen. Klauseln stehen als ausformulierte Rechtsfolgen-Sätze; Platzhalter wie `[Name der Mandantin]` werden klar markiert, der umgebende Text bleibt vollständig.
->
-> **Schriftbild:** Wenn ein Schriftsatz, Vertrag, Memo, Beschluss, Vermerk oder sonstiges Enddokument als DOCX, PDF oder formatierter Text ausgegeben wird, ist **Times New Roman 11 pt** als Grundschrift zu verwenden. Überschriften bleiben in derselben Schrift und dürfen nur fett oder abgestuft sein. Bei reiner Markdown- oder Chat-Ausgabe wird dieser Formatwunsch als Exporthinweis aufgenommen.
->
-> **Nummerierung:** Gliederung ausschließlich dezimal (`1`, `1.1`, `1.1.1` und so weiter). Keine römischen Ziffern, keine Buchstaben- oder Mischgliederung.
-<!-- END ausformulierungspflicht (autogen) -->
-
-## Was dieser Arbeitsgang nicht macht
-- Kein Ersatz für eine vollstaendige Mandantenberatung.
-- Keine Festlegung des Mandanten ohne dessen ausdrueckliche Entscheidung.
-- Keine Bewertung von Tatsachen, die nicht durch Unterlagen oder klare Mandantenangaben gedeckt sind.
-- Bei erkennbaren Interessenkonflikten oder Berufsrechtsfragen Hinweis an den fallfuehrenden Anwalt.
-
----
-
-## Skill: `bess-rechtsmittel-und-nachbarabwehr`
-
-_Wenn es um Rechtsmittel, Nachbarabwehr und Eilrechtsschutz in Energierecht geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik._
-
-# Rechtsmittel, Nachbarabwehr und Eilrechtsschutz
-
-## Arbeitsweg
-
-- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
-- Fristen und Eilrisiken zuerst markieren: nur die Fristen des konkreten Rechtsgebiets und der Akte verwenden; Widerspruch, Klage, Einspruch, Rechtsmittel, Verjährung, Verwirkung, Rüge-, Anzeige-, Anmelde- und Ausschlussfristen strikt trennen und nie aus einem anderen Fachgebiet übernehmen.
-- Tragende Normen verifizieren: KWKG — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
-- Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
-- Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
-
-## Wofür dieser Arbeitsgang da ist
-
-Der Skill erzeugt Prozessrisiko und Eilstrategie.
-
-## Rechts- und Praxisanker
-
-VwGO, BauGB/Bauordnungsrecht, BImSchG, UmwRG, Nachbarschutz.
-
-## Workflow
-
-1. Projektrolle und gewünschtes Ergebnis festlegen: Betreiber, Investor, Kommune, Netzbetreiber, Nachbar, Bank oder Behörde.
-2. Standort, Technik, Netzebene, Leistung, Kapazität, Betriebsmodell und Dokumentenstand erfassen.
-3. Genehmigungs-, Netz-, Sicherheits-, Markt- und Vertragsfragen in getrennte Spuren legen.
-4. Rote Punkte mit Belegen, zuständiger Stelle, Frist und konkretem nächsten Dokument ausgeben.
-
-## Qualitätsgate
-
-- Keine Blindzitate: Rechtsprechung, Behördenpraxis und Schwellenwerte vor tragender Aussage live anhand amtlicher oder frei zugänglicher Quellen prüfen.
-- Keine LMA-, Banken- oder Fondsformularsprache nacherzählen: Nutzer soll das aktuelle Dokument hochladen; der Skill arbeitet dann am konkreten Text.
-- Jede Annahme sichtbar markieren, insbesondere Zahlen, Fristen, regulatorische Rollen, Genehmigungsstand und Parteiperspektive.
 
 ---
 

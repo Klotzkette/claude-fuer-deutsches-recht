@@ -1,6 +1,6 @@
 ---
 name: darlegungs-und-beweislast-verteilen
-description: "Wenn es um Darlegungs- und Beweislast verteilen in Subsumtions-Prüfer geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Beweislast- und Substantiierungsmatrix."
+description: "Für Darlegungs- und Beweislast verteilen: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Beweislast- und Substantiierungsmatrix."
 ---
 
 # Darlegungs- und Beweislast verteilen

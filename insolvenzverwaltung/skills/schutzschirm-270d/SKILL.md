@@ -1,6 +1,6 @@
 ---
 name: schutzschirm-270d
-description: "Wenn es um Schutzschirmverfahren Paragraf 270d InsO in Insolvenzverwaltung - IV-Cockpit geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Schutzschirmverfahren Paragraf 270d InsO: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Schutzschirmverfahren § 270d InsO

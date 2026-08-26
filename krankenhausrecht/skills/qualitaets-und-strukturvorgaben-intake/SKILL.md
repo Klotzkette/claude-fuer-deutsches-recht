@@ -1,6 +1,6 @@
 ---
 name: qualitaets-und-strukturvorgaben-intake
-description: "Wenn es um Qualitäts- und Strukturvorgaben Intake in Krankenhausrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Qualitäts- und Strukturvorgaben Intake: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Gegenprüfung mit Beweis- und Fristencheck."
 ---
 
 # Qualitäts- und Strukturvorgaben Intake

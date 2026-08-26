@@ -1,6 +1,6 @@
 ---
 name: tatbestand-beweis-belege-antragstellung
-description: "Wenn es um Antragstellung: Tatbestandsmerkmale, Beweisfragen und Beleglage in Forschungszulage-Antragstellung geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Antragstellung: Tatbestandsmerkmale, Beweisfragen und Beleglage: erstellt Entwurf mit Antrag, Beweis und Anlagen; Ergebnis: Schriftsatz mit Begründungs- und Anlagenlogik. Fachgebiet: Forschungszulage-Antragstellung. Route: tatbestand-beweis-belege-antragstellung."
 ---
 
 # Antragstellung: Tatbestandsmerkmale, Beweisfragen und Beleglage

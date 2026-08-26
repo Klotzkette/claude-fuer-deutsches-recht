@@ -1,6 +1,6 @@
 ---
 name: fremdmandat-agenturfall
-description: "Wenn es um Fremdmandat und Agenturfall in Lobbyregister Bundestag geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Fremdmandat und Agenturfall: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Fremdmandat und Agenturfall

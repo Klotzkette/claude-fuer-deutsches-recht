@@ -1,6 +1,6 @@
 ---
 name: iwr-cisg-anwendung-spezial
-description: "Wenn es um Iwr Cisg Anwendung Spezial in Fachanwalt Internationales Wirtschaftsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Iwr Cisg Anwendung Spezial: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Spezialfall UN-Kaufrecht CISG: anwendbar bei B2B-Kaufvertraegen zwischen Parteien in Vertragsstaaten, opt-out möglich

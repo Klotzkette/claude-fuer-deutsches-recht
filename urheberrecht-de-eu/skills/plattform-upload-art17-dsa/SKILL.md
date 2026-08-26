@@ -1,6 +1,6 @@
 ---
 name: plattform-upload-art17-dsa
-description: "Wenn es um Plattformen, Uploads und Art. 17 DSM in Urheberrecht DE EU geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
+description: "Für Plattformen, Uploads und Art. 17 DSM: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Plattformen, Uploads und Art. 17 DSM

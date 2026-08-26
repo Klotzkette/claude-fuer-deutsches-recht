@@ -1,6 +1,6 @@
 ---
 name: luftsicherheitsgesetz-bverfge-115-118
-description: "Wenn es um Luftsicherheitsgesetz BVerfGE 115 118 in Verhältnismäßigkeitsprüfer geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
+description: "Für Luftsicherheitsgesetz BVerfGE 115 118: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Luftsicherheitsgesetz BVerfGE 115 118

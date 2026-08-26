@@ -1,6 +1,6 @@
 ---
 name: verl-031-presserecht-gegendarstellung-und-unterlassung
-description: "Wenn es um Verlagsrecht: Presserecht Gegendarstellung und Unterlassung in Verlagsrecht und Buchpreisbindung geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Verlagsrecht: Presserecht Gegendarstellung und Unterlassung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Verlagsrecht: Presserecht Gegendarstellung und Unterlassung

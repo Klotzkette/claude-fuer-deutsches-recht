@@ -1,6 +1,6 @@
 ---
 name: 14-anklageschrift-paragraf-200
-description: "Wenn es um Anklageschrift nach Paragraf 200 StPO in Staatsanwaltschaft und Amtsanwaltschaft geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
+description: "Für Anklageschrift nach Paragraf 200 StPO: erstellt Entwurf mit Antrag, Beweis und Anlagen; Ergebnis: Schriftsatz mit Begründungs- und Anlagenlogik."
 ---
 
 # Anklageschrift nach Paragraf 200 StPO

@@ -1,6 +1,6 @@
 ---
 name: lph-belegakte-fachplaner-foerdermittel
-description: "Wenn es um LPH 1 Grundlagenermittlung: Sichert protokolle in HOAI Leistungsphasen Praxis geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
+description: "Für LPH 1 Grundlagenermittlung: Sichert protokolle: ordnet Akte, Belege und Lücken; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # LPH 1 Grundlagenermittlung: Sichert protokolle

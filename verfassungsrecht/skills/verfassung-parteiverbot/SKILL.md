@@ -1,6 +1,6 @@
 ---
 name: verfassung-parteiverbot
-description: "Wenn es um Parteiverbot und Finanzierungsausschluss in verfassungsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Parteiverbot und Finanzierungsausschluss: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Parteiverbot und Finanzierungsausschluss

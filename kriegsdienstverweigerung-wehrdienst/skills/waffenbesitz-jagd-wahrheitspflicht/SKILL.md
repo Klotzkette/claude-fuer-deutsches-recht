@@ -1,6 +1,6 @@
 ---
 name: waffenbesitz-jagd-wahrheitspflicht
-description: "Wenn es um Waffenbesitz und Schützenverein in Kriegsdienstverweigerung und Wehrdienst geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Waffenbesitz und Schützenverein: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Waffenbesitz und Schützenverein

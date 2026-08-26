@@ -1,6 +1,6 @@
 ---
 name: praezedenz-distinguishing-overruling-deutsch
-description: "Wenn es um Präzedenz, Distinguishing und Overruling im deutschen Recht in Methodenlehre bürgerliches Recht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Präzedenz, Distinguishing und Overruling im deutschen Recht: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Schnittstellenkarte mit Zuständigkeits- und Nachweisfragen."
 ---
 
 # Präzedenz, Distinguishing und Overruling im deutschen Recht

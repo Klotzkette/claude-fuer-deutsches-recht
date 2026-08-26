@@ -1,6 +1,6 @@
 ---
 name: vara-visual-verlags-batchplan-versand
-description: "Wenn es um VARA Visual Artists Rights in US Copyright Act und Registrierung für deutsche Verlage geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
+description: "Für VARA Visual Artists Rights: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # VARA Visual Artists Rights

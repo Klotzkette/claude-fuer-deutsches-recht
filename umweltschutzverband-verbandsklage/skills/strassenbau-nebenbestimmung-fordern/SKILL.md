@@ -1,6 +1,6 @@
 ---
 name: strassenbau-nebenbestimmung-fordern
-description: "Wenn es um Strassenbau Nebenbestimmung Fordern in Umweltschutzverband Verbandsklage geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
+description: "Für Strassenbau Nebenbestimmung Fordern: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Strassenbau Nebenbestimmung Fordern

@@ -1,6 +1,6 @@
 ---
 name: grosskanzlei-ma-aktenanlage
-description: "Wenn es um Freistehende M&A-Aktenanlage in Großkanzlei Corporate/M&A geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Freistehende M&A-Aktenanlage: ordnet Akte, Belege und Lücken; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Freistehende M&A-Aktenanlage

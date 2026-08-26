@@ -1,6 +1,6 @@
 ---
 name: 05-umgangsrecht-paragraf-1684-bgb
-description: "Wenn es um 05 Umgangsrecht Paragraf 1684 Bgb in Familiengericht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für 05 Umgangsrecht Paragraf 1684 BGB: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # 05 Umgangsrecht Paragraf 1684 Bgb

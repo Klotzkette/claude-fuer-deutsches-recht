@@ -1,6 +1,6 @@
 ---
 name: auslandsmandat-ethics
-description: "Wenn es um Auslandsmandat Ethics in Berufsrecht Wirtschaftsprüfer geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Gegenprüfung mit Fehler-, Beweis- und Fristencheck."
+description: "Für Auslandsmandat Ethics: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Schnittstellenkarte mit Zuständigkeits- und Nachweisfragen."
 ---
 
 # Wirtschaftsprüfer: auslandsmandat und ethics code - Rechtsprechungscheck, stärkste Gegenansicht und Red-Team-Korrektur

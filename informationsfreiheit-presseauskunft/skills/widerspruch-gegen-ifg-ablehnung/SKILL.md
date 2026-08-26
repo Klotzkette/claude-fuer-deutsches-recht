@@ -1,6 +1,6 @@
 ---
 name: widerspruch-gegen-ifg-ablehnung
-description: "Wenn es um Widerspruch Gegen Ifg Ablehnung in Informationsfreiheit und Presseauskunft geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
+description: "Für Widerspruch gegen Ifg Ablehnung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Widerspruch Gegen Ifg Ablehnung

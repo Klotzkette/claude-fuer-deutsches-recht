@@ -1,6 +1,6 @@
 ---
 name: ausschuss-satzung-redlinen
-description: "Wenn es um Ausschuss Satzung Redlinen in Kommunalrecht der Länder geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Ausschuss Satzung Redlinen: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Ausschuss Satzung Redlinen

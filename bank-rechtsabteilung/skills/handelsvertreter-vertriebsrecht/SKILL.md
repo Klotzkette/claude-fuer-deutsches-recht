@@ -1,6 +1,6 @@
 ---
 name: handelsvertreter-vertriebsrecht
-description: "Wenn es um Handelsvertreter und Vertrieb in Bank-Rechtsabteilung geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
+description: "Für Handelsvertreter und Vertrieb: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Handelsvertreter und Vertrieb

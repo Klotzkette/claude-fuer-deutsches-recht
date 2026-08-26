@@ -1,6 +1,6 @@
 ---
 name: bund-widerspruch-bauen-klage-vorbereiten-presseantwort
-description: "Wenn es um Ifg Bund Widerspruch Bauen in Informationsfreiheit und Presseauskunft geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
+description: "Für Ifg Bund Widerspruch Bauen: erstellt Entwurf mit Antrag, Beweis und Anlagen; Ergebnis: Schriftsatz mit Begründungs- und Anlagenlogik."
 ---
 
 # Ifg Bund Widerspruch Bauen

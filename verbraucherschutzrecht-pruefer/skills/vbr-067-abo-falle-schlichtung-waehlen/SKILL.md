@@ -1,6 +1,6 @@
 ---
 name: vbr-067-abo-falle-schlichtung-waehlen
-description: "Wenn es um Abo Falle Schlichtung Waehlen in Verbraucherschutzrecht Prüfer geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Abo Falle Schlichtung Wählen: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Abo Falle Schlichtung Waehlen

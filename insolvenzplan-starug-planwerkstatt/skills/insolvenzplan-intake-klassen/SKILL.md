@@ -1,6 +1,6 @@
 ---
 name: insolvenzplan-intake-klassen
-description: "Wenn es um Insolvenzplan: Erstprüfung, Rollenklärung und Mandatsziel in Insolvenzplan- und StaRUG-Planwerkstatt geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Insolvenzplan: Erstprüfung, Rollenklärung und Mandatsziel: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Insolvenzplan: Erstprüfung, Rollenklärung und Mandatsziel

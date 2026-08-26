@@ -1,6 +1,6 @@
 ---
 name: schoeffe-medienkontakt-orientierung
-description: "Wenn es um Schöffe und Medienkontakt: Orientierung in Schöffen und Handelsrichter Praxis geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen."
+description: "Für Schöffe und Medienkontakt: Orientierung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Schöffe und Medienkontakt: Orientierung

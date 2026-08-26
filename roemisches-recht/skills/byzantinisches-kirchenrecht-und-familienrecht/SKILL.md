@@ -1,6 +1,6 @@
 ---
 name: byzantinisches-kirchenrecht-und-familienrecht
-description: "Wenn es um Byzantinisches Kirchenrecht und Familienrecht in Römisches Recht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
+description: "Für Byzantinisches Kirchenrecht und Familienrecht: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt. Fachgebiet: Römisches Recht. Route: byzantinisches-kirchenrecht-und-familienrecht."
 ---
 
 # Byzantinisches Kirchenrecht und Familienrecht

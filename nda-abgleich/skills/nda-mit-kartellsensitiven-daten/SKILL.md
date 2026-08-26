@@ -1,6 +1,6 @@
 ---
 name: nda-mit-kartellsensitiven-daten
-description: "Wenn es um Kartellsensitive Daten in NDA in NDA-Abgleich geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Kartellsensitive Daten in NDA: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Kartellsensitive Daten in NDA

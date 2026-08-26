@@ -2,20 +2,20 @@
 
 ## Zusammensetzung
 
-Diese Vollprüfung enthält top-10 von 66 Skills des Plugins `prozessrecht`.
+Diese Vollprüfung enthält top-10 von 65 Skills des Plugins `prozessrecht`.
 
 ## Inhaltsverzeichnis
 
 1. **juristischer-argumentationskern** — Schaltet sich ein, wenn in Prozessrecht ein juristisches Arbeitsprodukt tragfähig begründet werden muss; verbindet konkr…
 2. **gerichtliche-versandmappe-endfertigen** — Endfertigt einen vorhandenen gerichtlichen Schriftsatz mit Anlagen zur kontrollierten beA-Versandmappe: liest Aktenordne…
-3. **einstieg-routing** — Wenn es um Einstieg und Routing in Prozessrecht geht: klärt Rolle, Ziel, Frist, Unterlagen und den passenden nächsten Fa…
+3. **einstieg-routing** — Für Einstieg und Routing: routet Rolle, Frist, Unterlagen und Fachschritt; Ergebnis: Prüfprodukt mit Risiko und nächstem…
 4. **bea-wiedereinsetzung-ersatzeinreichung-2026** — Prüft beA-Störung, Ersatzeinreichung und Wiedereinsetzung anhand einer belegten Minutenchronologie: trennt technische Un…
-5. **kostenfeststellungsklage-verzugsschaden-erledigung** — Wenn es um Kostenfeststellungsklage bei erledigter Hauptsache als Verzugsschaden in Prozessrecht geht: erstellt den pass…
-6. **stpo-biometrischer-internetabgleich-und-ki-ermittlung** — Wenn es um StPO: Biometrischer Internetabgleich und digitale Werkzeuge-Ermittlung in Prozessrecht geht: ordnet Akteninha…
-7. **verfahrensart-rechtsweg-zustaendigkeit** — Wenn es um Verfahrensart, Rechtsweg und Zuständigkeit als Startweiche in Prozessrecht geht: prüft Frist, Form, Zuständig…
-8. **verkehrsunfall** — Wenn es um Verkehrsunfall – Haftung, Schaden und Schadensausgleich in Prozessrecht geht: erstellt den passenden Entwurf …
-9. **schriftsaetze-schriftsatz-brief-und-memo-bausteine** — Wenn es um Schriftsaetze: Schriftsatz-, Brief- und Memo-Bausteine in Prozessrecht geht: erstellt den passenden Entwurf a…
-10. **anwaltsgeheimnis-pruefung** — Wenn es um Vertraulichkeitsschutz-Erstprüfung (Vorlagepflicht und Verschwiegenheit) in Prozessrecht geht: prüft Frist, F…
+5. **kostenfeststellungsklage-verzugsschaden-erledigung** — Für Kostenfeststellungsklage bei erledigter Hauptsache als Verzugsschaden: erstellt Entwurf mit Antrag, Beweis und Anlag…
+6. **stpo-biometrischer-internetabgleich-und-ki-ermittlung** — Für StPO: Biometrischer Internetabgleich und digitale Werkzeuge-Ermittlung: ordnet Norm, Beweislast und Gegenargument; E…
+7. **vorlageanordnung-zeuge-vorbereitung** — Für Triage Gerichtliche und Behördliche Beweisanordnungen: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Schnitts…
+8. **zustaendigkeit-zahlen-schwellen-und-berechnung** — Für Zuständigkeit: Zahlen, Schwellenwerte und Berechnung: prüft Frist, Form, Zuständigkeit und Eilbedarf; Ergebnis: Bere…
+9. **status-internationaler-bezug-und-schnittstellen** — Für Status: Internationaler Bezug und Schnittstellen: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Schnittstelle…
+10. **verfahrensart-rechtsweg-zustaendigkeit** — Für Verfahrensart, Rechtsweg und Zuständigkeit als Startweiche: prüft Frist, Form, Zuständigkeit und Eilbedarf; Ergebnis…
 
 ---
 
@@ -144,7 +144,7 @@ Ausgangspunkt für dieses Plugin: Kläger für schlüssigen Vortrag und Beweisan
 
 ## Skill: `gerichtliche-versandmappe-endfertigen`
 
-_Endfertigt einen vorhandenen gerichtlichen Schriftsatz mit Anlagen zur kontrollierten beA-Versandmappe: liest Aktenordner und gerichtliche Vorgaben zuerst, prüft Anträge, Tatsachenfundstellen und Beweisbezüge, führt K-, B-, AST- oder AG-Nummern fort, erzeugt einzelne gestempelte PDFs, wählt das dokumentierte Dateinamensprofil und liefert Manifest, Freigabevermerk und Eingangskontrolle._
+_Endfertigt einen vorhandenen gerichtlichen Schriftsatz mit Anlagen zur kontrollierten beA-Versandmappe: liest Aktenordner und gerichtliche Vorgaben zuerst, prüft Anträge, Tatsachenfundstellen und Beweisbezüge, führt K-, B-, AST- oder AG-Nummern fort, erzeugt einzelne gestempelte PDFs, wählt das dokumentierte Dateinamensprofil und liefert Manifest._
 
 # Gerichtliche Versandmappe endfertigen
 
@@ -199,7 +199,7 @@ Liefere `versandfertig/` mit Hauptdokument und Einzelanlagen sowie `intern/` mit
 
 ## Skill: `einstieg-routing`
 
-_Wenn es um Einstieg und Routing in Prozessrecht geht: klärt Rolle, Ziel, Frist, Unterlagen und den passenden nächsten Fachskill; liefert eine Fristen- und Risikoampel mit Sofortschritten._
+_Für Einstieg und Routing: routet Rolle, Frist, Unterlagen und Fachschritt; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt. Fachgebiet: Prozessrecht._
 
 # Einstieg und Routing
 
@@ -243,7 +243,7 @@ Dieser Einstieg routet **Prozessrecht** vom ersten Sachverhalt zu Rollen, Friste
 
 ## Skill: `bea-wiedereinsetzung-ersatzeinreichung-2026`
 
-_Prüft beA-Störung, Ersatzeinreichung und Wiedereinsetzung anhand einer belegten Minutenchronologie: trennt technische Unmöglichkeit von Bedienungs- und Organisationsfehlern, ordnet ZPO Paragraf 130a Absatz 6 und Paragraf 130d richtig zu, bewertet Glaubhaftmachung und Nachholung und liefert sofort einen einreichungsfähigen Ersatz- oder Wiedereinsetzungsbaustein._
+_Prüft beA-Störung, Ersatzeinreichung und Wiedereinsetzung anhand einer belegten Minutenchronologie: trennt technische Unmöglichkeit von Bedienungs- und Organisationsfehlern, ordnet ZPO Paragraf 130a Absatz 6 und Paragraf 130d richtig zu, bewertet Glaubhaftmachung und Nachholung und liefert sofort einen einreichungsfähigen Ersatz- oder._
 
 # beA, Ersatzeinreichung und Wiedereinsetzung
 
@@ -306,7 +306,7 @@ Liefere Fristberechnung, Minutenchronologie, Rechtsweiche, Belegliste, fertigen 
 
 ## Skill: `kostenfeststellungsklage-verzugsschaden-erledigung`
 
-_Wenn es um Kostenfeststellungsklage bei erledigter Hauptsache als Verzugsschaden in Prozessrecht geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik._
+_Für Kostenfeststellungsklage bei erledigter Hauptsache als Verzugsschaden: erstellt Entwurf mit Antrag, Beweis und Anlagen; Ergebnis: Schriftsatz mit Begründungs- und Anlagenlogik._
 
 # Kostenfeststellungsklage bei erledigter Hauptsache als Verzugsschaden
 
@@ -412,7 +412,7 @@ Erzeuge ein kurzes Prozessstrategie-Memo mit:
 
 ## Skill: `stpo-biometrischer-internetabgleich-und-ki-ermittlung`
 
-_Wenn es um StPO: Biometrischer Internetabgleich und digitale Werkzeuge-Ermittlung in Prozessrecht geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen._
+_Für StPO: Biometrischer Internetabgleich und digitale Werkzeuge-Ermittlung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt._
 
 # StPO: Biometrischer Internetabgleich und KI-Ermittlung
 
@@ -566,9 +566,401 @@ Wenn diese Unterlagen fehlen, ist das nicht nur Datenschutz- oder Technikproblem
 
 ---
 
+## Skill: `vorlageanordnung-zeuge-vorbereitung`
+
+_Für Triage Gerichtliche und Behördliche Beweisanordnungen: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Schnittstellenkarte mit Zuständigkeits- und Nachweisfragen._
+
+# Triage Gerichtliche und Behördliche Beweisanordnungen
+
+## Arbeitsbereich
+
+Vorlageanordnung nach Paragraf 142 ZPO beantragen: Vorlage von Urkunden durch Gegner oder Dritte. Normen: Paragrafen 142 143 ZPO. Prüfraster: urkundliche Beweise, Pflicht zur Vorlage, Sanktionen bei Weigerung. Output: Antrag auf Urkundenvorlageanordnung. Abgrenzung: nicht Beweissicherungsverfahren Paragrafen 485 ff. ZPO. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
+
+## Arbeitsweg
+
+- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
+- Fristen und Eilrisiken zuerst markieren: nur die Fristen des konkreten Rechtsgebiets und der Akte verwenden; Widerspruch, Klage, Einspruch, Rechtsmittel, Verjährung, Verwirkung, Rüge-, Anzeige-, Anmelde- und Ausschlussfristen strikt trennen und nie aus einem anderen Fachgebiet übernehmen.
+- Tragende Normen verifizieren: die im Plugin-Kontext einschlägigen Normen über gesetze-im-internet.de, dejure.org, eur-lex.europa.eu und die amtlichen Bundes-/Landesportale live prüfen — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
+- Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
+- Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
+
+## Zweck
+
+Beweisanordnungen und Vorladungen kommen mit Fristen. Die typischen Fehler: Frist verpassen, zu viel produzieren (Schutzrechtsverlust, unnötige Belastung), zu wenig produzieren (Ordnungsgeld, Beugehaft) oder das Fenster für eine Einwendung versäumen. Dieser Skill klassifiziert, analysiert und erstellt einen Mitwirkungsplan mit Einwendungsgerüst.
+
+Hinweis: Ein direktes Pendant zur US-amerikanischen "Subpoena" existiert im deutschen Recht nicht. Behandle die deutschen Rechtsinstitute, die vergleichbare Funktionen erfüllen: Urkundenvorlageanordnung (Paragraf 142 ZPO), Augenscheinsanordnung (Paragraf 144 ZPO), Zeugenladung (Paragrafen 373 ff. ZPO), polizeiliche und staatsanwaltschaftliche Anforderungen (Paragraf 161a StPO), Durchsuchung und Sicherstellung (Paragrafen 102, 103 StPO) sowie behördliche Auskunftsersuchen.
+
+## Eingaben
+
+- **Beweisanordnung oder Vorladungsdokument** (erforderlich): Pfad oder direktes Einlesen im Dialog
+- **Mandatsbezeichnung (Slug)** (optional): Falls bereits ein Mandat existiert
+- **Verfahrensart**: ZPO, StPO, VwGO, FGO, SGG
+- **Stellung**: Zeuge, Dritter, Partei, Verteidiger
+
+## Rechtlicher Rahmen
+
+### Kernvorschriften: Urkundenvorlage und Beweiserhebung (ZPO)
+
+- **Paragraf 142 ZPO** — Anordnung der Urkundenvorlegung durch das Gericht; Voraussetzungen: Erheblichkeit und Zumutbarkeit; Verweigerungsrecht nach Paragraf 142 Abs. 2 ZPO i.V.m. Paragrafen 383, 384 ZPO.
+- **Paragraf 144 ZPO** — Anordnung der Inaugenscheinnahme; analoge Schranken.
+- **Paragrafen 273, 356 ZPO** — Gerichtliche Beweisbeschlüsse; Fristbestimmungen; Folgen der Nichtbefolgung (Paragraf 286 ZPO Beweiswürdigung, Paragraf 380 ZPO Ordnungsgeld bei Zeugnisverweigerung).
+- **Paragrafen 373–401 ZPO** — Zeugenbeweis; Ladung, Erscheinungspflicht, Zeugnisverweigerungsrecht; Paragraf 383 Nr. 6 ZPO: Zeugnisverweigerung für Rechtsanwälte.
+
+### Kernvorschriften: Strafverfahren
+
+- **Paragraf 161a StPO** — Staatsanwaltliche Anforderung von Auskünften und Vorlage von Unterlagen; Erscheinens- und Aussagepflicht.
+- **Paragrafen 102, 103 StPO** — Durchsuchung bei Verdächtigen (Paragraf 102) und bei Dritten (Paragraf 103 StPO: erhöhte Anforderungen; Kanzleidurchsuchung nach Paragraf 103 grundsätzlich nur bei dringenden Verdachtsmomenten gegen den Anwalt selbst).
+- **Paragraf 94 StPO** — Sicherstellung als Beweismittel; sachliche Voraussetzungen.
+- **Paragraf 97 StPO** — Beschlagnahmeverbot; schützt Schriften des Verteidigers und Gegenstände im Gewahrsam von Zeugnisverweigerungsberechtigten.
+- **Paragraf 53 StPO** — Zeugnisverweigerungsrecht des Rechtsanwalts; vollständige Weigerungsbefugnis.
+- **Paragraf 160a StPO** — Schutz des Verkehrs mit Berufsgeheimnisträgern; Verbot der Umgehung durch verdeckte Ermittlungsmaßnahmen.
+
+### Kernvorschriften: Beschlagnahmeschutz
+
+- **Paragraf 97 Abs. 1 Nr. 1 StPO** — Beschlagnahmeverbot für schriftliche Mitteilungen zwischen Beschuldigtem und Rechtsanwalt im Gewahrsam des Anwalts.
+- **Paragraf 97 Abs. 2 StPO** — Beschlagnahmeverbot erstreckt sich auf alle Gegenstände, auf die das Zeugnisverweigerungsrecht sich bezieht.
+
+### Quellenregel
+
+Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
+
+## Ablauf
+
+### Schritt 0: Anwendbares Recht bestimmen
+
+Vor der Analyse der Beweisanordnung: Welches Verfahren und welche Normen gelten?
+
+- **ZPO-Verfahren**: Paragrafen 142, 144, 273 ZPO; Verweigerungsrechte nach Paragrafen 383, 384 ZPO; Fristberechnung nach Paragrafen 214 ff. ZPO.
+- **StPO-Verfahren**: Paragrafen 94, 97, 102, 103, 161a StPO; Paragraf 53 StPO bei Zeugnisverweigerungsrecht; sofortiger Widerspruch bei Beschlagnahme von Verteidigerunterlagen.
+- **VwGO**: Paragrafen 86, 99, 111 VwGO; behördliche Vorlagebeschlüsse; In-camera-Verfahren.
+
+Quellenattribuierung: Jeden Normen- und Entscheidungshinweis mit Herkunft versehen: `[Primärquelle]`, `[Kommentar – prüfen]`, `[Trainingsdaten – prüfen]`. Vor Einreichung in Schriftsätzen oder gegenüber dem Gericht sind alle Angaben gegen eine Primärquelle (amtliche oder frei zugängliche Quellen; lizenzierte Datenbanken nur bei vorhandenem Zugang) zu verifizieren.
+
+### Schritt 1: Klassifizieren
+
+Beweisanordnungen kommen in verschiedenen Formen mit unterschiedlichen Rechtsfolgen:
+
+- **Urkundenvorlageanordnung (Paragraf 142 ZPO, zivil)** — Wir sind Dritter oder Partei; das Gericht verlangt unsere Unterlagen. Übliche Einwendungskategorien: Erheblichkeit, Zumutbarkeit, Beschlagnahmeschutz/Zeugnisverweigerungsrecht.
+- **Zeugenladung (Paragrafen 373 ff. ZPO; Paragraf 161a StPO)** — Ein Mitarbeiter oder der Anwalt selbst soll aussagen. Umfang, Relevanz, mögliche Einwendung; etwaige Zeugnisvorbereitung erforderlich.
+- **Durchsuchungs-/Sicherstellungsanordnung (Paragrafen 102, 103 StPO)** — Ermittlungsmaßnahme in Büro- oder Kanzleiräumen. Bei Kanzleidurchsuchung sofortige Prüfung Paragraf 97 StPO; Widerspruch zu Protokoll erklären; keine Mitwirkung über die Duldungspflicht hinaus ohne Rechtsrat.
+- **Behördliches Auskunftsersuchen (z. B. BKartA, BaFin, Steuerfahndung)** — Eigene Verfahrensordnung; Auskunftsverweigerungsrechte unterschiedlich.
+- **Strafrechtliche Vorladung (Paragraf 163a StPO)** — Als Beschuldigter; sofortiger Rechtsanwalt; Aussageverweigerungsrecht.
+
+### Schritt 2: Schlüsselfelder extrahieren
+
+- **Anordnende Stelle** — Gericht (welches), Staatsanwaltschaft (welche), Behörde (welche)
+- **Antragsteller** (bei Zivilsachen) — wer hat die Anordnung beantragt
+- **Verfahrens-/Aktenzeichen** — das zugrundeliegende Verfahren
+- **Verlangte Unterlagenkategorien** — nummerierte Liste
+- **Aussagethemen** (bei Zeugenladung) — Themenkomplexe nach Ladung
+- **Reaktionsfrist** — Zustelldatum + Berechnung der Reaktionszeit nach anwendbarem Recht
+- **Vorlage-/Erscheinungsdatum** — Datum, zu dem Dokumente vorgelegt oder Aussage gemacht werden soll
+- **Geographischer Umfang** — betroffene Personen, Orte, Systeme
+- **Zustellungsempfänger** — wer ist Adressat
+
+### Schritt 3: Portfolioquerverweis
+
+- **Anordnung in Parteiverfahren:** Stimmt das Aktenzeichen mit einem Mandat in `_log.yaml` überein? Falls ja: In bestehendes Mandat eingliedern; diese Triage ist informativ.
+- **Anordnung aus unbekanntem Verfahren:** Beteiligte erfassen; als eigenständige Eingangspost anlegen.
+- **Mehrere Anordnungen aus demselben Verfahren:** Koordinierte Anforderung markieren; einheitliche Antwortstrategie prüfen.
+
+### Schritt 4: Umfang, Belastung und Beschlagnahmeschutz analysieren
+
+**Umfang / Erheblichkeit**
+- Erfassen die Kategorien tatsächlich vorhandene Dokumente?
+- Ist eine Kategorie überschießend (unverhältnismäßig weit, ohne erkennbaren Bezug zum Verfahrensgegenstand)?
+- Geografischer Umfang / Erscheinungsort — Paragraf 142 ZPO: zumutbar; Paragraf 103 StPO: Verhältnismäßigkeit; VwGO: Paragraf 86 Abs. 1 VwGO Beibringungspflicht.
+
+**Belastung**
+- Betroffene Personen und Systeme, relevanter Zeitraum
+- Geschätztes Volumen (grob: gering / mittel / groß / außergewöhnlich hoch)
+- Kosten — Dritte können in bestimmten Konstellationen Kostenerstattung geltend machen; Rechtsgrundlage prüfen.
+
+**Beschlagnahmeschutz und Zeugnisverweigerung**
+- Paragraf 97 StPO-Schutz wahrscheinlich berührt? (Beinahe immer bei jeder rechtsbezogenen Anforderung; häufig auch bei Korrespondenz mit Syndikusrechtsanwälten — Einschränkung beachten)
+- Weitere Weigerungsrechte: Paragraf 383 Nr. 6 ZPO, Paragraf 53 StPO Zeugnisverweigerung, Paragraf 43a BRAO Verschwiegenheit
+- Schutzwürdige Geschäftsgeheimnisse nach GeschGehG
+- Datenschutz — Art. 14 DSGVO: Informationspflicht bei Übermittlung personenbezogener Daten an Dritte
+
+**Sonstige Einwendungsgründe**
+- Vertraulichkeit — Schutzanordnung nach Paragraf 174 GVG oder Vereinbarung erforderlich?
+- Doppelproduktion — hat die Gegenseite bereits dieselben Unterlagen aus einer anderen Quelle?
+- Nicht vorhanden — wir besitzen das Verlangte nicht (mit Substanz darlegen)
+- Zustellungsmangel — Voraussetzungen der Paragrafen 171 ff. ZPO, Paragrafen 33 ff. StPO prüfen
+
+### Schritt 5: Einwendungsgerüst
+
+Strukturiertes Einwendungsraster — nicht der fertige Schriftsatz, sondern das Gerüst, das Anwalt (ggf. zusammen mit externen Bevollmächtigten) ausarbeitet.
+
+Je Einwendung:
+- Rechtsgrundlage — Pinpoint-Zitat aus der Schritt-0-Recherche
+- Konkrete Anwendung auf diese Anordnung (welche Kategorien, welche Personen)
+- Stärke (stark / vertretbar / schwach)
+
+### Schritt 6: Mitwirkungsplan
+
+Selbst bei Einwendungen wird häufig ein Teil des Verlangten erfüllt:
+
+- **Umfang der wahrscheinlichen Vorlage** — nach Einwendungen verbleibende Dokumente
+- **Zu durchsuchende Personen und Systeme**
+- **Zeitraum**
+- **Prüfungsprotokoll** — wer prüft auf Vertraulichkeitsschutz (Kanzlei, externe Bevollmächtigte)
+- **Produktionsformat** — gemäß Anordnung oder ausgehandeltem Protokoll
+- **Anforderungen an das Vertraulichkeitsregister** — Format, Felder, geschätzte Einträge
+
+### Schritt 7: Fristen
+
+Alle Fristen aus der Schritt-0-Recherche verwenden. Einwendungsfristen können bereits mit Zustellung zu laufen beginnen — nicht auf ein einheitliches Datum vertrauen, ohne die geltende Norm und etwaige lokale Varianten zu prüfen.
+
+- **Reaktionsfrist** — nach anwendbarer Norm; ggf. Verlängerung durch Korrespondenz mit Gericht/Staatsanwaltschaft erforderlich
+- **Einwendungsfrist** — nach anwendbarer Norm (ZPO, StPO, VwGO, FGO) `[PRÜFEN]`
+- **Abstimmungstermin** — falls Einschränkungen angestrebt werden, typischerweise vor Einwendungsfrist
+- **Vorlagedatum** — sofern keine Einwendungen greifen
+
+Alle Fristen sofort im Fristenkontrollsystem notieren.
+
+```markdown
+## Schlüsselfelder
+
+- **Anordnende Stelle:** [Gericht/Behörde]
+- **Antragsteller:** [Name]
+- **Aktenzeichen/Verfahrenskapitel:** [Bezeichnung]
+- **Reaktionsfrist:** [Datum]
+- **Vorlagedatum:** [Datum]
+- **Einwendungsfenster:** [Zeitraum]
+
+## Verlangte Kategorien (Zusammenfassung)
+
+[nummerierte Liste, knapp]
+
+## Betroffene Personen / Systeme
+
+[Liste]
+
+---
+
+## Portfolioquerverweis
+
+**Verwandtes Mandat:** [Bezeichnung oder "keins"]
+**Bei Parteiverfahren:** [in bestehendes Mandat eingegliedert oder neues Mandat?]
+**Bei Drittanordnung:** [eigenständige Eingangspost]
+
+---
+
+## Umfangs- und Belastungsanalyse
+
+**Umfang:** [Erheblichkeitsbewertung je Kategorie]
+**Belastungsschätzung:** [gering / mittel / groß / außergewöhnlich hoch — mit Begründung]
+**Geografischer Umfang:** [etwaige Probleme]
+
+## Beschlagnahmeschutz- und Zeugnisverweigerungsanalyse
+
+*Erste Scoping-Prüfung; endgültige Entscheidung liegt beim Anwalt.*
+
+**Paragraf 97 StPO / Paragraf 43a BRAO / Paragraf 53 StPO wahrscheinlich berührt:** [ja/nein + welche Kategorien] `[PRÜFEN]`
+**Weitere Weigerungsrechte:** [GeschGehG, Datenschutz, Paragraf 383 ZPO] `[PRÜFEN]`
+**Vertraulichkeitsregister erforderlich:** [ja/nein — Format]
+
+---
+
+## Einwendungsgerüst
+
+*Jede Zeile erfordert `[PRÜFEN]` vor Geltendmachung in Schriftsätzen — Normaktualität, lokale Varianten, Wirkungsrisiko.*
+
+| Einwendung | Rechtsgrundlage | Anwendung | Stärke | Anwalt geprüft? |
+|---|---|---|---|---|
+| Erheblichkeit/Verhältnismäßigkeit | [Norm] | [Kategorien] | [stark/vertretbar/schwach] | [ ] |
+| Belastung/Zumutbarkeit | [Norm] | [Kategorien] | | [ ] |
+| Paragraf 97 StPO / Paragraf 43a BRAO | Beschlagnahmeschutz/Verschwiegenheit | [alle Schutzunterlagen] | stark | [ ] |
+| Nicht vorhanden | [Norm/Grundsatz] | [falls zutreffend] | | [ ] |
+| [Sonstiges] | | | | [ ] |
+
+---
+
+## Mitwirkungsplan (falls Reaktion erfolgt)
+
+- **Umfang der wahrscheinlichen Vorlage:** [nach Einwendungen]
+- **Personen/Systeme:** [Liste]
+- **Zeitraum:** [Zeitraum]
+- **Prüfungsprotokoll:** [wer, wie]
+- **Produktionsformat:** [Format]
+- **Vertraulichkeitsregister:** [Format, geschätzte Einträge]
+
+---
+
+## Fristen (sofort im Fristenkontrollsystem eintragen)
+
+*Alle Fristen stammen aus der Schritt-0-Normenrecherche. `[PRÜFEN]` bestätigt Norm, Variante und Berechnung für dieses Forum und diese Anordnungsart.*
+
+- **Reaktionsfrist:** [Datum] `[PRÜFEN]`
+- **Einwendungsfrist:** [Datum] — Quelle: [Norm + Pinpoint] `[PRÜFEN]`
+- **Abstimmungstermin:** [Datum] (typischerweise vor Einwendungsfrist) `[PRÜFEN]`
+- **Vorlagedatum:** [Datum]
+
+---
+
+## Sofortige Maßnahmen
+
+- [ ] Beweissicherungsanordnung — [ja/nein] — falls nein: `/prozessrecht:beweissicherung [slug] --anordnen` mit Anordnungsumfang ausführen
+- [ ] Externe Bevollmächtigte mandatiert — [ja/wer/offen]
+- [ ] Abstimmung mit Anordnendem geplant — [Datum]
+- [ ] Mandat im Protokoll angelegt — [ja/nein/offen]
+- [ ] Kostenanalyse — [falls Belastung groß]
+- [ ] Interne Eskalation — [wer]
+
+---
+
+## Empfehlung
+
+[Zwei Absätze: Was tun. Einwendungshaltung. Mitwirkungshaltung. Ob externe Bevollmächtigte Einwendungen übernehmen oder nicht. Ob ein Antrag auf Aufhebung/Einschränkung der Anordnung sinnvoll ist.]
+
+---
+
+## Quellenverifizierung
+
+Jeder Normen-, Entscheidungs- und Regelhinweis in dieser Triage — einschließlich der Schritt-0-Recherchequellen, Einwendungsgrundlagen und Verweisungen auf das Vertraulichkeitsregister — ist KI-generiert und ungeprüft. Vor Verwendung in Schriftsätzen, Einwendungskorrespondenz oder Antragsstellungen ist eine Verifikation gegen eine Primärquelle (amtliche oder frei zugängliche Quellen; lizenzierte Datenbanken nur bei vorhandenem Zugang, Wolters Kluwer) erforderlich: Richtigkeit, Aktualität, lokale Varianten. Fabrizierte oder fehlerhafte Zitate in eingereichten Schriftsätzen können Sanktionen auslösen.
+```
+
+### Schritt 9: Übergabe
+
+**Vor der Reaktion gegenüber dem Gericht oder der Behörde (Einwendungen einreichen, Dokumente vorlegen, als Zeuge erscheinen, Antrag auf Aufhebung stellen — jede inhaltliche Reaktion):**
+
+> Eine Reaktion auf Beweisanordnungen hat rechtliche Folgen — Fristversäumnis kann Ordnungsgeld oder Beugehaft auslösen, zu viel produzieren kann Schutzrechtsverlust bewirken, zu wenig produzieren kann Kostennachteile oder Beweisnachteile erzeugen. Wurde dies mit einem Anwalt besprochen? Falls ja: bitte bestätigen. Falls nein, hier ist ein Briefing für das Gespräch:
+>
+> [Zusammenfassung: Art der Anordnung, anordnende Stelle, Fristen, Umfang des Verlangten, Einwendungsgerüst und Stärke, Beschlagnahmeschutz und Belastungsfragen, vorgeschlagene Reaktionshaltung, was schiefgehen kann, Fragen an den Anwalt.]
+
+Ohne ausdrückliche Bestätigung keine Weiterleitung. Triage, Scoping und internes Fristenmanagement erfordern die Schranke nicht — die Reaktion gegenüber der anordnenden Stelle schon.
+
+- Bei **strafrechtlicher Vorladung als Beschuldigter** → sofort Verteidiger mandatieren; diese Triage endet hier.
+- Bei **Kanzleidurchsuchung (Paragraf 103 StPO)**: sofortiger Widerspruch zu Protokoll; keine freiwillige Herausgabe über Duldungspflicht hinaus ohne anwaltliche Prüfung.
+- Sonst: Angebot, Mandat anzulegen (in der Regel sinnvoll — Beweisanordnungen sind fast immer bedeutend genug zur Verfolgung).
+- Falls noch keine Beweissicherungsanordnung mit dem Anordnungsumfang vorliegt: sofort an `/prozessrecht:beweissicherung --anordnen` übergeben.
+
+## Risiken und typische Fehler
+
+- **Beschlagnahmeschutz Paragraf 97 StPO:** Bei Kanzleidurchsuchungen sofort Widerspruch erklären; jede Herausgabe ohne Prüfung kann den Schutz endgültig beseitigen.
+- Rechtsprechung live prüfen: Keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über amtliche oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
+- **Einwendungsfristen:** Laufen teilweise bereits ab Zustellung; kein einheitliches Datum ohne Normprüfung annehmen.
+- **Quellenverifizierung:** Alle Norm- und Entscheidungshinweise sind vor Einreichung zu verifizieren.
+
+## Quellenpflicht
+
+- Gesetzestexte: Paragrafen 142, 144, 273, 373 ff., 383, 384 ZPO; Paragrafen 53, 94, 97, 102, 103, 160a, 161a, 163a StPO; Paragrafen 86, 99 VwGO; Paragraf 43a BRAO; GeschGehG
+- Quellenregel: Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff; keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen.
+
+Hinweis: Dieser Skill ersetzt keine anwaltliche Beratung im konkreten Einzelfall.
+
+> Quellenregel: Entscheidungen nur nach Prüfung einer amtlichen oder frei zugänglichen Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage ausgeben.
+
+---
+
+## Skill: `zustaendigkeit-zahlen-schwellen-und-berechnung`
+
+_Für Zuständigkeit: Zahlen, Schwellenwerte und Berechnung: prüft Frist, Form, Zuständigkeit und Eilbedarf; Ergebnis: Berechnungstabelle mit Annahmen und Kontrollfragen._
+
+# Zuständigkeit: Zahlen, Schwellenwerte und Berechnung
+
+## Normenanker
+
+Vor einer rechtlichen Schlussfolgerung diese Anker am aktuellen Normtext prüfen; Spezial- und Landesrecht nur hinzunehmen, wenn es den konkreten Auftrag traegt:
+
+- `Paragraf 241 Abs. 2 BGB` — Rücksichtnahme-, Schutz- und Organisationspflichten.
+- `Paragraf 242 BGB` — Treu und Glauben als Korrektiv enger Klausel- und Anspruchsarbeit.
+- `Paragraf 280 Abs. 1 BGB` — Pflichtverletzung, Vertretenmuessen, Schaden.
+- `Paragraf 286 Abs. 1 BGB` — Verzug und Fristlogik.
+- `Paragraf 195 BGB` — regelmäßige Verjährung.
+- `Paragraf 199 Abs. 1 BGB` — Beginn der regelmäßigen Verjährung.
+- `Paragraf 253 Abs. 2 ZPO` — Bestimmtheit von Antrag und Klagegrund.
+- `Paragraf 138 Abs. 1 ZPO` — Wahrheitspflicht und vollstaendiger Tatsachenvortrag.
+
+Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei prüfbare Quelle vorliegen; keine BeckRS-/juris-Blindzitate verwenden.
+
+## Arbeitsweg
+
+- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
+- Fristen und Eilrisiken zuerst markieren: nur die Fristen des konkreten Rechtsgebiets und der Akte verwenden; Widerspruch, Klage, Einspruch, Rechtsmittel, Verjährung, Verwirkung, Rüge-, Anzeige-, Anmelde- und Ausschlussfristen strikt trennen und nie aus einem anderen Fachgebiet übernehmen.
+- Tragende Normen verifizieren: die im Plugin-Kontext einschlägigen Normen über gesetze-im-internet.de, dejure.org, eur-lex.europa.eu und die amtlichen Bundes-/Landesportale live prüfen — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
+- Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
+- Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
+
+## Spezialwissen: Zuständigkeit: Zahlen, Schwellenwerte und Berechnung
+- **Normen-/Quellenanker:** einschlägige Fachnormen, Behördenhinweise, Formulare, Verfahrensrecht und frei prüfbare Rechtsprechung live prüfen.
+
+## Fallweichen
+Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur Rückfragen, die die nächste Weiche verändern:
+
+1. Welche Rolle hat die fragende Person und wer ist Gegenüber?
+2. Welches konkrete Ziel soll erreicht oder verhindert werden?
+3. Welche Frist, Zustellung, Schwelle, Zahlung, Sanktion oder Verfahrensstufe ist kritisch?
+4. Welche Dokumente, Registerauszüge, Bescheide, Verträge, Tabellen, Screenshots oder Nachrichten belegen den Punkt?
+5. Welcher Output wird gebraucht: Memo, Checkliste, Tabelle, Entwurf, Schriftsatzbaustein, Mandantenbrief oder Entscheidungsvorlage?
+
+## Arbeitsworkflow
+1. **Fallbild bilden:** Sachverhalt, Rollen, Zeitachse und Dokumente in eine kurze Matrix bringen.
+2. **Rechtsrahmen setzen:** Normen, Zuständigkeiten, Fristen, Formfragen und Verfahrensstand zum Themenfeld **Zuständigkeit** prüfen.
+3. **Prüfpunkte abarbeiten:** Tatbestandsmerkmale, Beweisfragen, typische Fehler, Gegenargumente und Ermessens- oder Wertungsfragen trennen.
+4. **Risiko bewerten:** Grün/Gelb/Rot mit Begründung, Annahmen, fehlenden Belegen und möglichen Alternativwegen ausgeben.
+5. **Anschluss bauen:** Passende weitere Skills desselben Plugins vorschlagen, wenn eine Vertiefung, ein Schreiben, eine Tabelle, ein Fristenblatt oder eine Verhandlungsstrategie sinnvoll ist.
+
+## Vertiefung bei Bedarf
+
+- Bei `spezial-zustaendigkeit-zahlen-schwellen-und-berechnung` beziehungsweise Zustaendigkeit: Zahlen, Schwellenwerte und Berechnung: [die zusätzliche Vertiefung laden](https://github.com/Klotzkette/claude-fuer-deutsches-recht/blob/main/prozessrecht/skills/zustaendigkeit-zahlen-schwellen-und-berechnung/references/vertiefung-spezial-zustaendigkeit-zahlen-schwellen-und-berechnung.md).
+
+---
+
+## Skill: `status-internationaler-bezug-und-schnittstellen`
+
+_Für Status: Internationaler Bezug und Schnittstellen: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Schnittstellenkarte mit Zuständigkeits- und Nachweisfragen._
+
+# Status: Internationaler Bezug und Schnittstellen
+
+## Normenanker
+
+Vor einer rechtlichen Schlussfolgerung diese Anker am aktuellen Normtext prüfen; Spezial- und Landesrecht nur hinzunehmen, wenn es den konkreten Auftrag traegt:
+
+- `Paragraf 241 Abs. 2 BGB` — Rücksichtnahme-, Schutz- und Organisationspflichten.
+- `Paragraf 242 BGB` — Treu und Glauben als Korrektiv enger Klausel- und Anspruchsarbeit.
+- `Paragraf 280 Abs. 1 BGB` — Pflichtverletzung, Vertretenmuessen, Schaden.
+- `Paragraf 286 Abs. 1 BGB` — Verzug und Fristlogik.
+- `Paragraf 195 BGB` — regelmäßige Verjährung.
+- `Paragraf 199 Abs. 1 BGB` — Beginn der regelmäßigen Verjährung.
+- `Paragraf 253 Abs. 2 ZPO` — Bestimmtheit von Antrag und Klagegrund.
+- `Paragraf 138 Abs. 1 ZPO` — Wahrheitspflicht und vollstaendiger Tatsachenvortrag.
+
+Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei prüfbare Quelle vorliegen; keine BeckRS-/juris-Blindzitate verwenden.
+
+## Arbeitsweg
+
+- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
+- Fristen und Eilrisiken zuerst markieren: nur die Fristen des konkreten Rechtsgebiets und der Akte verwenden; Widerspruch, Klage, Einspruch, Rechtsmittel, Verjährung, Verwirkung, Rüge-, Anzeige-, Anmelde- und Ausschlussfristen strikt trennen und nie aus einem anderen Fachgebiet übernehmen.
+- Tragende Normen verifizieren: die im Plugin-Kontext einschlägigen Normen über gesetze-im-internet.de, dejure.org, eur-lex.europa.eu und die amtlichen Bundes-/Landesportale live prüfen — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
+- Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
+- Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
+
+## Spezialwissen: Status: Internationaler Bezug und Schnittstellen
+- **Normen-/Quellenanker:** einschlägige Fachnormen, Behördenhinweise, Formulare, Verfahrensrecht und frei prüfbare Rechtsprechung live prüfen.
+
+## Fallweichen
+Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur Rückfragen, die die nächste Weiche verändern:
+
+1. Welche Rolle hat die fragende Person und wer ist Gegenüber?
+2. Welches konkrete Ziel soll erreicht oder verhindert werden?
+3. Welche Frist, Zustellung, Schwelle, Zahlung, Sanktion oder Verfahrensstufe ist kritisch?
+4. Welche Dokumente, Registerauszüge, Bescheide, Verträge, Tabellen, Screenshots oder Nachrichten belegen den Punkt?
+5. Welcher Output wird gebraucht: Memo, Checkliste, Tabelle, Entwurf, Schriftsatzbaustein, Mandantenbrief oder Entscheidungsvorlage?
+
+## Arbeitsworkflow
+1. **Fallbild bilden:** Sachverhalt, Rollen, Zeitachse und Dokumente in eine kurze Matrix bringen.
+2. **Rechtsrahmen setzen:** Normen, Zuständigkeiten, Fristen, Formfragen und Verfahrensstand zum Themenfeld **Status** prüfen.
+3. **Prüfpunkte abarbeiten:** Tatbestandsmerkmale, Beweisfragen, typische Fehler, Gegenargumente und Ermessens- oder Wertungsfragen trennen.
+4. **Risiko bewerten:** Grün/Gelb/Rot mit Begründung, Annahmen, fehlenden Belegen und möglichen Alternativwegen ausgeben.
+5. **Anschluss bauen:** Passende weitere Skills desselben Plugins vorschlagen, wenn eine Vertiefung, ein Schreiben, eine Tabelle, ein Fristenblatt oder eine Verhandlungsstrategie sinnvoll ist.
+
+---
+
 ## Skill: `verfahrensart-rechtsweg-zustaendigkeit`
 
-_Wenn es um Verfahrensart, Rechtsweg und Zuständigkeit als Startweiche in Prozessrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen._
+_Für Verfahrensart, Rechtsweg und Zuständigkeit als Startweiche: prüft Frist, Form, Zuständigkeit und Eilbedarf; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt._
 
 # Verfahrensart, Rechtsweg und Zuständigkeit als Startweiche
 
@@ -595,375 +987,6 @@ Wenn Material vorliegt, nutze es zuerst. Frage nur nach, was für die nächste E
 3. **Materielle Weichen:** Die Kernfragen zu **Verfahrensart, Rechtsweg und Zuständigkeit als Startweiche** mit Tatbestandsmerkmalen, Belegen, Gegenargumenten und typischen Praxisfehlern abarbeiten.
 4. **Risikoampel:** Ergebnis in Grün/Gelb/Rot mit Begründung, Unsicherheiten und Beweisbedarf einordnen.
 5. **Anschluss:** Passende weitere Skills desselben Plugins vorschlagen, wenn Spezialprüfung, Schriftsatz, Tabelle, Brief oder Verhandlungsstrategie sinnvoll ist.
-
----
-
-## Skill: `verkehrsunfall`
-
-_Wenn es um Verkehrsunfall – Haftung, Schaden und Schadensausgleich in Prozessrecht geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik._
-
-# Verkehrsunfall – Haftung, Schaden und Schadensausgleich
-
-## Arbeitsbereich
-
-Verkehrsunfall-Mandat im Zivilprozess vorbereiten: Schadensersatz, Schmerzensgeld, Versicherungskorrespondenz. Normen: Paragrafen 7 18 StVG, Paragrafen 823 253 BGB, Paragraf 115 VVG. Prüfraster: Haftungsquote, Schadensposten, Verjaebrung, Regulierungsablauf. Output: Klageschrift Verkehrsunfall oder Klageerwiderung. Abgrenzung: nicht Strafrecht oder Ordnungswidrigkeiten. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
-## Arbeitsweg
-
-- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
-- Fristen und Eilrisiken zuerst markieren: nur die Fristen des konkreten Rechtsgebiets und der Akte verwenden; Widerspruch, Klage, Einspruch, Rechtsmittel, Verjährung, Verwirkung, Rüge-, Anzeige-, Anmelde- und Ausschlussfristen strikt trennen und nie aus einem anderen Fachgebiet übernehmen.
-- Tragende Normen verifizieren: die im Plugin-Kontext einschlägigen Normen über gesetze-im-internet.de, dejure.org, eur-lex.europa.eu und die amtlichen Bundes-/Landesportale live prüfen — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
-- Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
-- Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
-
-## Zweck
-
-Begleitet die vollständige rechtliche Aufarbeitung eines Verkehrsunfalls:
-Haftungsgrundlagen (Paragrafen 7, 17, 18 StVG; Paragraf 823 BGB), Quotenbildung bei Mitverschulden,
-Direktanspruch gegen den Haftpflichtversicherer (Paragraf 115 VVG) und vollständige Schadensaufstellung
-für Sachschäden sowie Personenschäden (Schmerzensgeld). Mandate reichen von der ersten Beratung
-nach Unfall über die Regulierung mit dem Versicherer bis zur Klage.
-
-## Eingaben
-
-Das Modell benötigt:
-
-1. **Unfallhergang**: Datum, Ort, beteiligte Fahrzeuge, Unfallablauf (eigene Darstellung;
- Polizeiprotokoll, soweit vorhanden)
-2. **Fahrzeugdaten**: Hersteller, Typ, Erstzulassung, Laufleistung; aktueller Zeitwert
-3. **Schäden**: Reparaturkostenvoranschlag oder Gutachten; Totalschadensfeststellung;
- Wertminderung; Abschlepp-, Gutachterkosten; Mietwagen oder Nutzungsausfallbegehren
-4. **Personenschäden**: Verletzungsart, Behandlungsdauer, Attest; Arbeitsfähigkeitsverlust
-5. **Versicherungsdaten**: Haftpflichtversicherer des Gegners; Schadennummer
-6. **Mitverschulden**: Gibt es Hinweise auf ein Mitverschulden des Mandanten (Vorfahrt,
- Geschwindigkeit, Sicherheitsgurt)?
-
-## Rechtlicher Rahmen
-
-### Normen
-
-- **Paragraf 7 StVG** – Halterhaftung (Gefährdungshaftung; kein Verschuldensnachweis erforderlich;
- Entlastung nur bei höherer Gewalt Paragraf 7 Abs. 2 StVG oder unabwendbarem Ereignis Paragraf 17 Abs. 3 StVG)
-- **Paragraf 17 StVG** – Gesamtschuldnerausgleich zwischen Fahrzeughaltern; Abwägung der Verursachungs-
- und Verschuldensbeiträge (Betriebsgefahr + konkretes Verschulden)
-- **Paragraf 18 StVG** – Fahrerhaftung (Verschuldenshaftung; Beweislastumkehr: Fahrer muss fehlende
- Fahrlässigkeit beweisen)
-- **Paragraf 823 Abs. 1 BGB** – Deliktische Haftung (Leben, Körper, Gesundheit, Eigentum)
-- **Paragraf 253 Abs. 2 BGB** – Schmerzensgeld bei Körper- oder Gesundheitsverletzung
-- **Paragraf 115 Abs. 1 S. 1 Nr. 1 VVG** – Direktanspruch des Geschädigten gegen den KFZ-
- Haftpflichtversicherer (ohne Umweg über den Versicherungsnehmer)
-- **Paragraf 3 PflVG** – Pflichtversicherung; Bindungswirkung des Versicherungsschutzes
-- **Paragraf 249 BGB** – Naturalrestitution; Recht auf Reparatur oder Geldersatz
-- **Paragraf 251 BGB** – Wertersatz bei Unverhältnismäßigkeit der Herstellung
-- **Paragraf 254 BGB** – Mitverschulden (Quotenbildung); Schadensminderungsobliegenheit
-
-### Leitentscheidungen
-
- Der Geschädigte kann Reparaturkosten bis zu 130 % des Wiederbeschaffungswerts verlangen,
- wenn er das Fahrzeug tatsächlich repariert und es mindestens 6 Monate weiternutzt; maßgeblich
- ist das Integritätsinteresse.
- entschädigung; der Geschädigte hat Anspruch auf Nutzungsausfallentschädigung (nach Tabelle
- Sanden/Danner/Küppersbusch), sofern er auf das Fahrzeug angewiesen war; bloße Freizeitnutzung
- genügt nicht für Nutzungsausfall, wohl aber gewerbliche und Alltagsnutzung.
- eine merkantile Wertminderung entsteht durch das Bekanntwerden eines Unfallschadens auch bei
- fachgerechter Reparatur; Berechnungsmethode Ruhkopf/Sahm.
-
-### Quellenregel
-
-Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
-
-## Ablauf
-
-1. **Sicherung der Beweise** (unmittelbar nach Unfall): Fotos, Polizeiprotokoll, Zeugenangaben,
- Skizze; Sachverständigengutachten beauftragen (Paragraf 249 BGB: Gutachterkosten erstattungsfähig).
-2. **Haftungsanalyse** (Paragrafen 7, 17, 18 StVG):
- - Grundhaftung aus Paragraf 7 StVG (Gefährdungshaftung, kein Verschulden nötig)
- - Mitverschuldensprüfung Paragraf 17 StVG + Paragraf 254 BGB: Betriebsgefahr + konkretes Fehlverhalten
- - Quotenbildung: z. B. Auffahrunfall ohne erkennbaren Grund → volle Haftung des Auffahrenden;
- mit Mitverschulden (Abruptes Bremsen ohne Grund) → Quote.
-3. **Direktanspruch** (Paragraf 115 VVG): Schreiben an gegnerischen Versicherer mit Schadensnummer;
- Frist 3 Monate für Stellungnahme (Paragraf 17 Abs. 1 PflVG).
-4. **Schadensaufstellung**:
- Rechtsprechung live prüfen: Keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über amtliche oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
- bei Totalschaden: Wiederbeschaffungswert abzügl. Restwert
- b. *Wertminderung*: Methode Ruhkopf/Sahm; merkantil nur bei jungen Fahrzeugen sinnvoll
- c. *Nutzungsausfall oder Mietwagen*: Tabelle Sanden/Danner/Küppersbusch; oder konkrete
- Mietwagenkosten (erforderliche Klasse)
- d. *Abschleppkosten, Gutachterkosten, Unkostenpauschale* (EUR 25–30, h. M.)
- e. *Personenschaden*: Behandlungskosten, Verdienstausfall, Haushaltsführungsschaden
-5. **Schmerzensgeld** (Paragraf 253 Abs. 2 BGB): Verletzungsdokumentation; Orientierung an
- Quellenregel: Keine Kommentar-, Handbuch-, Aufsatz- oder Tabellenfundstellen aus Modellwissen; nur Nutzerquelle, amtliche/freie Quelle oder lizenzierte Live-Verifikation verwenden.
- Genugtuungsfunktion.
-6. **Verhandlung mit Versicherer**: Anspruchsschreiben mit vollständiger Aufstellung; Fristsetzung
- 2–4 Wochen; ggf. Mahnung (Paragraf 286 BGB) für Verzugszinsen.
-7. **Klage** beim zuständigen AG/LG: bei Ablehnung oder unzureichendem Angebot; Prozesskostenhilfe
- für einkommenschwache Mandanten prüfen.
-
-## Beispiel
-
-**Sachverhalt**: Mandant M (Halter, Fahrer) wird beim Abbiegen von Fahrzeug G angefahren.
-Reparaturkosten laut Gutachten EUR 8.200; Wiederbeschaffungswert EUR 7.500; Fahrzeug ist 2 Jahre alt.
-M war 2 Tage arbeitsunfähig; Halswirbelverletzung.
-
-**Prüfung (Gutachtenstil)**:
-
-*Haftungsgrundlage*: G haftet als Halter nach Paragraf 7 Abs. 1 StVG aus Betriebsgefahr; als Fahrer
-nach Paragraf 18 Abs. 1 StVG (Verschulden wird vermutet; G kann sich nicht entlasten). M selbst haftet
-nach Paragraf 7 StVG ebenfalls aus Betriebsgefahr; eine konkrete Verkehrspflichtverletzung ist nicht
-nachgewiesen → Haftungsquote 100 % G (vorbehaltlich genauer Unfallrekonstruktion).
-
-*130%-Grenze (Paragraf 249 BGB)*: Reparaturkosten EUR 8.200 = 109 % des WBW (EUR 7.500). Unter der
-wirtschaftlich vertretbar; M kann Reparaturkostenersatz verlangen.
-
-Quellenregel: Keine Kommentar-, Handbuch-, Aufsatz- oder Tabellenfundstellen aus Modellwissen; nur Nutzerquelle, amtliche/freie Quelle oder lizenzierte Live-Verifikation verwenden.
-Quellenregel: Keine Kommentar-, Handbuch-, Aufsatz- oder Tabellenfundstellen aus Modellwissen; nur Nutzerquelle, amtliche/freie Quelle oder lizenzierte Live-Verifikation verwenden.
-Attest.
-
-## Risiken und typische Fehler
-
-- **130%-Grenze nicht beachtet**: Mandant lässt Fahrzeug für EUR 10.000 reparieren bei WBW
- EUR 7.000 (143 %) → nur WBW minus Restwert erstattungsfähig; Mandant trägt Differenz.
-- **Restwert zu niedrig ausgewiesen**: Gegnerversicherer kann höheren Restwert durch Aufkäufer
- nachweisen; Beweislast bei Versicherer, aber Mandant kann sich nicht blind auf Gutachten
- verlassen.
-- **Mitverschulden übersehen** (Paragraf 254 BGB): Mandant nicht angeschnallt, Mitschuld an Verletzung;
- Schmerzensgeld- und Schadensersatzkürzung.
-- **Nutzungsausfall ohne Nahraumnahme**: Kein Anspruch, wenn Mandant kein Bedürfnis nach
- Nutzung hatte (Zweitfahrzeug vorhanden).
-- **Verjährung**: 3 Jahre ab Kenntnis (Paragraf 195, Paragraf 199 BGB); spätestens 10 Jahre absolut; kein
- Hemmungstatbestand → Klage oder Mahnbescheid rechtzeitig.
-- **Berufsrecht**: Medizinische Unterlagen (Atteste) unterliegen Paragraf 203 StGB; nur in gesicherter
- Umgebung bearbeiten; Honorarrecht RVG beachten.
-
-## Quellenpflicht
-
-Jede Aussage zur Haftungsquote, 130%-Grenze, Nutzungsausfall und Schmerzensgeldbemessung ist
-Rechtsprechung live prüfen: Keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über amtliche oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-Quellenregel: Keine Kommentar-, Handbuch-, Aufsatz- oder Tabellenfundstellen aus Modellwissen; nur Nutzerquelle, amtliche/freie Quelle oder lizenzierte Live-Verifikation verwenden.
-Beck'sche Tabelle) als eigenständige Quellen mit Auflage und Jahr zitieren.
-
-> Quellenregel: Entscheidungen nur nach Prüfung einer amtlichen oder frei zugänglichen Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage ausgeben.
-
----
-
-## Skill: `schriftsaetze-schriftsatz-brief-und-memo-bausteine`
-
-_Wenn es um Schriftsaetze: Schriftsatz-, Brief- und Memo-Bausteine in Prozessrecht geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik._
-
-# Schriftsaetze: Schriftsatz-, Brief- und Memo-Bausteine
-
-## Normenanker
-
-Vor einer rechtlichen Schlussfolgerung diese Anker am aktuellen Normtext prüfen; Spezial- und Landesrecht nur hinzunehmen, wenn es den konkreten Auftrag traegt:
-
-- `Paragraf 241 Abs. 2 BGB` — Rücksichtnahme-, Schutz- und Organisationspflichten.
-- `Paragraf 242 BGB` — Treu und Glauben als Korrektiv enger Klausel- und Anspruchsarbeit.
-- `Paragraf 280 Abs. 1 BGB` — Pflichtverletzung, Vertretenmuessen, Schaden.
-- `Paragraf 286 Abs. 1 BGB` — Verzug und Fristlogik.
-- `Paragraf 195 BGB` — regelmäßige Verjährung.
-- `Paragraf 199 Abs. 1 BGB` — Beginn der regelmäßigen Verjährung.
-- `Paragraf 253 Abs. 2 ZPO` — Bestimmtheit von Antrag und Klagegrund.
-- `Paragraf 138 Abs. 1 ZPO` — Wahrheitspflicht und vollstaendiger Tatsachenvortrag.
-
-Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei prüfbare Quelle vorliegen; keine BeckRS-/juris-Blindzitate verwenden.
-
-## Arbeitsweg
-
-- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
-- Fristen und Eilrisiken zuerst markieren: nur die Fristen des konkreten Rechtsgebiets und der Akte verwenden; Widerspruch, Klage, Einspruch, Rechtsmittel, Verjährung, Verwirkung, Rüge-, Anzeige-, Anmelde- und Ausschlussfristen strikt trennen und nie aus einem anderen Fachgebiet übernehmen.
-- Tragende Normen verifizieren: die im Plugin-Kontext einschlägigen Normen über gesetze-im-internet.de, dejure.org, eur-lex.europa.eu und die amtlichen Bundes-/Landesportale live prüfen — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
-- Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
-- Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
-
-## Spezialwissen: Schriftsaetze: Schriftsatz-, Brief- und Memo-Bausteine
-- **Normen-/Quellenanker:** einschlägige Fachnormen, Behördenhinweise, Formulare, Verfahrensrecht und frei prüfbare Rechtsprechung live prüfen.
-
-## Fallweichen
-Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur Rückfragen, die die nächste Weiche verändern:
-
-1. Welche Rolle hat die fragende Person und wer ist Gegenüber?
-2. Welches konkrete Ziel soll erreicht oder verhindert werden?
-3. Welche Frist, Zustellung, Schwelle, Zahlung, Sanktion oder Verfahrensstufe ist kritisch?
-4. Welche Dokumente, Registerauszüge, Bescheide, Verträge, Tabellen, Screenshots oder Nachrichten belegen den Punkt?
-5. Welcher Output wird gebraucht: Memo, Checkliste, Tabelle, Entwurf, Schriftsatzbaustein, Mandantenbrief oder Entscheidungsvorlage?
-
-## Arbeitsworkflow
-1. **Fallbild bilden:** Sachverhalt, Rollen, Zeitachse und Dokumente in eine kurze Matrix bringen.
-2. **Rechtsrahmen setzen:** Normen, Zuständigkeiten, Fristen, Formfragen und Verfahrensstand zum Themenfeld **Schriftsaetze** prüfen.
-3. **Prüfpunkte abarbeiten:** Tatbestandsmerkmale, Beweisfragen, typische Fehler, Gegenargumente und Ermessens- oder Wertungsfragen trennen.
-4. **Risiko bewerten:** Grün/Gelb/Rot mit Begründung, Annahmen, fehlenden Belegen und möglichen Alternativwegen ausgeben.
-5. **Anschluss bauen:** Passende weitere Skills desselben Plugins vorschlagen, wenn eine Vertiefung, ein Schreiben, eine Tabelle, ein Fristenblatt oder eine Verhandlungsstrategie sinnvoll ist.
-
----
-
-## Skill: `anwaltsgeheimnis-pruefung`
-
-_Wenn es um Vertraulichkeitsschutz-Erstprüfung (Vorlagepflicht und Verschwiegenheit) in Prozessrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten._
-
-# Vertraulichkeitsschutz-Erstprüfung (Vorlagepflicht und Verschwiegenheit)
-
-## Arbeitsbereich
-
-Anwaltsgeheimnis und Verschwiegenheitspflicht bei Weitergabe von Mandatsinformationen prüfen. Normen: Paragraf 43a BRAO, Paragraf 203 StGB, Paragraf 102 ZPO. Prüfraster: Offenbarungsbefugnis, Zeugnisverweigerungsrecht, strafrechtliche Grenzen. Output: Prüfergebnis Anwaltsgeheimnis mit Handlungsempfehlung. Abgrenzung: nicht Datenschutz-Compliance DSGVO. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
-## Arbeitsweg
-
-- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
-- Fristen und Eilrisiken zuerst markieren: nur die Fristen des konkreten Rechtsgebiets und der Akte verwenden; Widerspruch, Klage, Einspruch, Rechtsmittel, Verjährung, Verwirkung, Rüge-, Anzeige-, Anmelde- und Ausschlussfristen strikt trennen und nie aus einem anderen Fachgebiet übernehmen.
-- Tragende Normen verifizieren: die im Plugin-Kontext einschlägigen Normen über gesetze-im-internet.de, dejure.org, eur-lex.europa.eu und die amtlichen Bundes-/Landesportale live prüfen — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
-- Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
-- Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
-
-## Zweck
-
-Ein Dokumentensatz im Prozess hat drei Arten von Einträgen: zweifelsfrei geschützt, zweifelsfrei nicht geschützt und die Fälle, die juristisches Urteilsvermögen erfordern. Dieser Skill sortiert die ersten beiden Kategorien, damit die Anwaltszeit vollständig für die dritte zur Verfügung steht.
-
-**Dies ist eine Erstprüfung. Der Anwalt prüft jeden markierten Eintrag. Keine Ausnahmen.**
-
-Hinweis: Ein direktes Pendant zum US-amerikanischen "privilege log" gibt es im deutschen Recht nicht. Dieser Skill deckt die deutschen Rechtsinstitute ab, die vergleichbare Schutzfunktionen erfüllen: Vorlagepflicht nach Paragraf 142 ZPO, Beschlagnahmeschutz nach Paragraf 97 StPO, Zeugnisverweigerungsrecht nach Paragraf 53 StPO und die anwaltliche Verschwiegenheitspflicht nach Paragraf 43a Abs. 2 BRAO, Paragraf 203 StGB.
-
-## Eingaben
-
-- **Dokumentenbestand** (erforderlich): Dateipfad oder im Dialog übermittelte Dokumentenliste
-- **Mandatsbezeichnung (Slug)**: Zur Zuordnung in die Mandatsakte
-- **Verfahrensart**: ZPO-Verfahren, StPO-Verfahren, VwGO, FGO, SGG — maßgeblich für die anwendbaren Normen
-- **Kontext**: Wurde eine Urkundenvorlageanordnung nach Paragraf 142 ZPO erlassen? Liegt eine Durchsuchungs-/Beschlagnahmemaßnahme vor?
-
-## Rechtlicher Rahmen
-
-### Kernvorschriften
-
-- **Paragraf 142 ZPO** — Anordnung der Urkundenvorlegung durch das Gericht; Voraussetzungen: erheblich und zumutbar; kein Zwang zur Vorlage, wenn Verweigerungsrecht besteht.
-- **Paragraf 144 ZPO** — Anordnung der Inaugenscheinnahme; parallele Schranken wie Paragraf 142 ZPO.
-- **Paragraf 97 StPO** — Beschlagnahmeverbote; insbesondere Abs. 1 Nr. 1: Schriftstücke des Rechtsanwalts, die Zeugnisverweigerungsberechtigten gehören; Abs. 2: Schutz von Dokumenten im Gewahrsam des Verteidigers oder Beistands.
-- **Paragraf 53 StPO** — Zeugnisverweigerungsrecht der Rechtsanwälte, Ärzte, Notare und sonstiger Berufsgeheimnisträger; gilt auch im Verfahren auf Vorlage.
-- **Paragraf 53a StPO** — Erstreckt das Zeugnisverweigerungsrecht auf berufsmäßig tätige Gehilfen.
-- **Paragraf 43a Abs. 2 BRAO** — Absolute Verschwiegenheitspflicht des Rechtsanwalts; schützt alle Informationen, die der Anwalt in Ausübung des Berufs anvertraut bekommt.
-- **Paragraf 203 Abs. 1 Nr. 3 StGB** — Strafbare Verletzung von Privatgeheimnissen durch Rechtsanwälte; stärkt Paragraf 43a BRAO strafrechtlich ab.
-- **Paragraf 160a StPO** — Schutz von Berufsgeheimnisträgern bei verdeckten Ermittlungsmaßnahmen; gilt über den Verweis für den gesamten Bereich der Beweiserhebung.
-
-### Besonderheit: Syndikusrechtsanwalt (Paragraf 46 BRAO)
-
-Rechtsprechung live prüfen: Keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über amtliche oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-
-### Quellenregel
-
-Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
-
-## Ablauf
-
-### Schritt 0: Anwendbares Recht bestimmen
-
-Vor der Dokumentenprüfung: Welches Verfahrensrecht gilt?
-
-- **ZPO-Verfahren**: Paragraf 142 ZPO (Urkundenvorlage), Paragraf 144 ZPO (Inaugenscheinnahme); Weigerungsrecht nach Paragraf 142 Abs. 2 ZPO i.V.m. Paragrafen 383, 384 ZPO.
-- **StPO-Verfahren**: Paragraf 97 StPO (Beschlagnahmeverbot); Paragraf 53 StPO (Zeugnisverweigerungsrecht); Paragraf 160a StPO (Schutz bei Ermittlungsmaßnahmen).
-- **VwGO/FGO/SGG**: Parallelvorschriften; Vorlagepflicht vergleichbar Paragrafen 86, 99 VwGO; Akteneinsichtsrechte.
-
-Quellenattribuierung: Jeden Regelhinweis und jede Entscheidung in der Ausgabe mit Herkunftsnachweis versehen: `[Primärquelle]`, `[Kommentar – prüfen]`, `[Trainingsdaten – prüfen]`. Quellen mit Prüfvermerk tragen höheres Fehlerrisiko und sollten zuerst verifiziert werden.
-
-### Schritt 1: Formatkontrolle
-
-Hat der Dokumentensatz die erforderlichen Angaben?
-
-| Feld | Vorhanden? |
-|---|---|
-| Datum | |
-| Verfasser/Urheber | |
-| Empfänger (An, CC, BCC) | |
-| Dokumentenart | |
-| Behaupteter Schutztatbestand (Mandatsgeheimnis / Beschlagnahmeverbot / Zeugnisverweigerung) | |
-| Beschreibung (ausreichend zur Beurteilung ohne Offenbarung des Geschützten) | |
-
-Fehlende Felder → vor der inhaltlichen Prüfung zur Ergänzung markieren.
-
-### Schritt 2: Eintrag für Eintrag
-
-Für jeden Eintrag:
-
-```
-Eintrag [N] ([Aktenzeichen/Belegnummer]): [✅ Geschützt | ✅ Geschützt + ⚠️ Markiert | ❌ Nicht geschützt (Bewertung)]
-[Bei ✅ (ohne Markierung): einzeilige Begründung mit Norm]
-[Bei ✅ + ⚠️: Schutz behalten; konkrete Frage, die der Anwalt beantworten muss; Argumente pro und contra]
-[Bei ❌: einzeilige Begründung — Schutz bleibt im Register, bis der Anwalt ihn entfernt]
-```
-
-**Dreistufenregel:** Der Skill entscheidet nie stillschweigend eine subjektive Schwellenwertfrage. Bei jeder unsicheren Entscheidung — Mandatsgeheimnis oder rein kaufmännischer Zweck, Beschlagnahme­schutz grenzwertig, gemischter Inhalt, Beteiligung Dritter — wird die Schutzklassifizierung beibehalten und eine ⚠️-Markierung gesetzt. Zu wenig als geschützt zu kennzeichnen öffnet die Tür zu Beweismittelverlust (einbahnige Tür); zu viel als geschützt zu kennzeichnen ist vom Anwalt korrigierbar (zweiseitige Tür). Den korrigierbaren Fehler bevorzugen.
-
-### Schritt 3: Mustererkennung
-
-Über den gesamten Dokumentensatz:
-
-- Gleiche Frage wiederholt? (Z. B. dieselbe Drittpartei in 50 Einträgen — eine Entscheidung löst 50 Markierungen)
-- Überklassifizierungsmuster? (Wenn alles als geschützt gekennzeichnet wird, ohne Differenzierung — dem Anwalt zur Kenntnis bringen; aber die Entscheidung zur Einschränkung liegt beim Anwalt)
-- Unzureichende Beschreibungen? (So vage, dass ein Gericht eine In-Camera-Prüfung anordnen könnte)
-
-```markdown
-## Vertraulichkeitsschutz-Erstprüfung: [Mandat] — [Datum]
-
-**Anwendbare Normen:** [Paragraf 142 ZPO / Paragraf 97 StPO / Paragraf 53 StPO / Paragraf 43a BRAO — Pinpoint-Zitate] `[UNSICHER — Aktualität prüfen]`
-**Dokumente geprüft:** [N]
-**Ergebnis:** [N] ✅ sicher geschützt / [N] ✅+⚠️ Schutz beibehalten & markiert / [N] ❌ Schutzentfernung empfohlen (Anwalt bestätigt)
-
-### ✅ + ⚠️ Markiert — Schutz beibehalten, Anwalt entscheidet
-
-| Eintrag | Belegnummer | Frage | Pro Schutz | Contra Schutz | Zu klärende Entscheidung |
-|---|---|---|---|---|---|
-| [N] | [Bereich] | [Was subjektiv ist] | [eine Zeile] | [eine Zeile] | [konkrete zu treffende Entscheidung] |
-
-### ❌ Schutzentfernung empfohlen (Anwalt bestätigt vor Streichung)
-
-| Eintrag | Belegnummer | Begründung |
-|---|---|---|
-
-*Vermerkt, nicht vollzogen. Der Skill entfernt keine Schutzklassifizierungen aus dem Register — das tut der Anwalt nach Prüfung.*
-
-### ✅ Geschützt (kein Handlungsbedarf)
-
-[Anzahl. Liste auf Anfrage abrufbar.]
-
-### Musterbeobachtungen
-
-[Wiederkehrende Fragen, Überklassifizierung, Beschreibungsprobleme]
-
-### Markierungsdisziplin
-
-- `[PRÜFEN: Sachaussage über Dokument/Verfasser/Datum]`
-- `[UNSICHER: Grenzfall Schutztatbestand / Beschlagnahme / Reichweite]`
-- `[BELEG FEHLT: Norm, lokale Variante oder Entscheidung als Stütze]`
-
----
-
-**Anwalt muss alle ⚠️- und ❌-Einträge vor jeder Maßnahme prüfen.**
-
-**Schutzwürdigkeit des Ausgabedokuments:** Diese Prüfung liest per definitionem schutzkandidaten-fähige Unterlagen. Das Ausgabedokument erbt diesen Status — es ist mit dem Mandatsmaterial zu verwahren, entsprechend zu kennzeichnen und nicht außerhalb des Vertrauenskreises zu verbreiten. Eine Weitergabe kann selbst den Schutz aushöhlen.
-```
-
-## Beispiel
-
-**Sachverhalt:** Anordnung nach Paragraf 142 ZPO; Gericht verlangt Vorlage aller E-Mails zwischen der Partei und ihrem Rechtsanwalt zu einer Schadensersatzforderung.
-
-**Erstprüfungsergebnis:**
-- ✅ 12 E-Mails: Mandatsgeheimnis (Paragraf 43a Abs. 2 BRAO); Anwalt bittet um Rechtsrat, Anwalt erteilt Rat; keine Drittpartei im Verteiler.
-- ✅+⚠️ 3 E-Mails: Anwalt in CC bei rein kaufmännischer Verhandlung; dominanter Zweck unklar → Anwalt entscheidet.
-- ❌ 2 E-Mails: Keine anwaltliche Beteiligung; CC an Anwalt ohne rechtliche Substanz; Bewertung: kein Schutz nach Paragraf 43a BRAO.
-
-## Risiken und typische Fehler
-
-- **Syndikusanwalt-Grenzfälle:** Die Schutzwürdigkeit von Korrespondenz des Syndikusrechtsanwalts hängt von seiner konkreten Funktion im Einzelfall ab (Paragraf 46 Abs. 3 BRAO) — nie pauschal als "sicher geschützt" klassifizieren.
-- Rechtsprechung live prüfen: Keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über amtliche oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-- **Wirkung der Weitergabe:** Wird ein eigentlich geschütztes Dokument im Verfahren vorgelegt (auch versehentlich), kann der Schutz vollständig entfallen — Rückruf ist möglich, aber keineswegs sicher.
-- **Beschreibungstiefe:** Zu vage Beschreibungen können dazu führen, dass das Gericht eine In-Camera-Vorlage zur eigenen Prüfung anordnet.
-- **Fehlende Quellenverifizierung:** Alle Normen- und Entscheidungshinweise in der Ausgabe sind KI-generiert; vor einer Einreichung sind sie gegen Primärquellen (amtliche oder frei zugängliche Quellen; lizenzierte Datenbanken nur bei vorhandenem Zugang, Wolters Kluwer) zu verifizieren.
-
-## Quellenpflicht
-
-- Gesetzestexte: Paragrafen 142, 144 ZPO; Paragrafen 53, 53a, 97, 160a StPO; Paragrafen 43a, 46 BRAO; Paragraf 203 StGB; Paragrafen 86, 99 VwGO
-- Quellenregel: Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff; keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen.
-
-Hinweis: Dieser Skill ersetzt keine anwaltliche Beratung im konkreten Einzelfall.
-
-> Quellenregel: Entscheidungen nur nach Prüfung einer amtlichen oder frei zugänglichen Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage ausgeben.
 
 ---
 

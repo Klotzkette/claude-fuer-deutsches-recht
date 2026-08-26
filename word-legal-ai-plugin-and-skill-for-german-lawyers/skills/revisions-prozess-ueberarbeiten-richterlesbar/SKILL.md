@@ -1,6 +1,6 @@
 ---
 name: revisions-prozess-ueberarbeiten-richterlesbar
-description: "Wenn es um Revisions-Prozess: Redlines und Compare-Workflow in diesem Spezialbereich geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen."
+description: "Für Revisions-Prozess: Redlines und Compare-Workflow: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Revisions-Prozess: Redlines und Compare-Workflow

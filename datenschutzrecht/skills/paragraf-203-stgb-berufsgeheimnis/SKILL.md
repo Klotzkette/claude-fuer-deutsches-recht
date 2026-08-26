@@ -1,6 +1,6 @@
 ---
 name: paragraf-203-stgb-berufsgeheimnis
-description: "Wenn es um Paragraf 203 StGB Berufsgeheimnis im Datenschutzvorfall in Datenschutzrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Paragraf 203 StGB Berufsgeheimnis im Datenschutzvorfall: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # § 203 StGB Berufsgeheimnis im Datenschutzvorfall
@@ -49,3 +49,7 @@ Berufsrecht: zusätzliche Meldung an Kammer; Disziplinarverfahren möglich.
 
 - `dsv-art-9-besondere-kategorien` deckt sensible Daten ab.
 - `dsv-sozialdaten-sgb` deckt Sozialdaten ab.
+
+## Vertiefung bei Bedarf
+
+- Bei `dsv-paragraf-203-stgb-berufsgeheimnis` beziehungsweise Bewertet einen Datenschutzvorfall bei Berufsgeheimnisträgern nach § 203 StGB: [die zusätzliche Vertiefung laden](./references/vertiefung-dsv-paragraf-203-stgb-berufsgeheimnis.md).

@@ -1,6 +1,6 @@
 ---
 name: kandidatenbriefing-kamera
-description: "Wenn es um Kandidatenbriefing Kamera in Wahlkampfrecht Praxis geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
+description: "Für Kandidatenbriefing Kamera: erstellt Entwurf mit Antrag, Beweis und Anlagen; Ergebnis: Schriftsatz mit Begründungs- und Anlagenlogik."
 ---
 
 # Kandidatenbriefing Kamera

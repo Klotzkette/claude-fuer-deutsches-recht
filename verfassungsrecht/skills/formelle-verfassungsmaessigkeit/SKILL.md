@@ -1,6 +1,6 @@
 ---
 name: formelle-verfassungsmaessigkeit
-description: "Wenn es um Formelle Verfassungsmäßigkeit prüfen in verfassungsrecht geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
+description: "Für Formelle Verfassungsmäßigkeit prüfen: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Formelle Verfassungsmäßigkeit prüfen

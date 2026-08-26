@@ -1,6 +1,6 @@
 ---
 name: eingriffskondiktion-zuweisungsgehalt
-description: "Wenn es um Eingriffskondiktion — Zuweisungsgehalt in bereicherungs-und-anfechtungsrecht-prüfer geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Eingriffskondiktion — Zuweisungsgehalt: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Eingriffskondiktion — Zuweisungsgehalt

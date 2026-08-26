@@ -1,6 +1,6 @@
 ---
 name: verein-livequellen-check
-description: "Wenn es um Livequellen-Check Vereinsrecht in Vereinsrecht und Vereinsmanager geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Livequellen-Check Vereinsrecht: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Livequellen-Check Vereinsrecht

@@ -1,6 +1,6 @@
 ---
 name: rechtspolitische-narrative-enteignung
-description: "Wenn es um Rechtspolitische Narrative prüfen in Deutsche Rechtsgeschichte geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Rechtspolitische Narrative prüfen: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Rechtspolitische Narrative prüfen

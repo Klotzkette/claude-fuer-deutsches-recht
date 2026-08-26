@@ -1,6 +1,6 @@
 ---
 name: massenbenachrichtigung
-description: "Wenn es um Massenbenachrichtigung bei großem Datenschutzvorfall in Datenschutzrecht geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
+description: "Für Massenbenachrichtigung bei großem Datenschutzvorfall: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Massenbenachrichtigung bei großem Datenschutzvorfall
@@ -50,3 +50,7 @@ Q&A-Matrix: 20-30 Fragen mit abgestimmten Antworten.
 - `dsv-bussgeldverteidigung-art-83` und `dsv-schadensersatz-art-82` decken die anwaltliche Nachbearbeitung ab.
 
 - `dsv-pressemitteilung-krisenkommunikation` deckt Pressekommunikation ab.
+
+## Vertiefung bei Bedarf
+
+- Bei `dsv-massenbenachrichtigung` beziehungsweise Steuert die Massenbenachrichtigung tausender oder Millionen Betroffener nach Art: [die zusätzliche Vertiefung laden](./references/vertiefung-dsv-massenbenachrichtigung.md).

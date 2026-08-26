@@ -1,6 +1,6 @@
 ---
 name: short-seller-attack
-description: "Wenn es um Short-Seller-Angriff – Compliance-Reaktion in Insiderrecht Compliance geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen."
+description: "Für Short-Seller-Angriff – Compliance-Reaktion: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Short-Seller-Angriff – Compliance-Reaktion

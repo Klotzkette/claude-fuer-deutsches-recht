@@ -1,6 +1,6 @@
 ---
 name: gesetzgeberwille-und-materialien-disziplin
-description: "Wenn es um Gesetzgeberwille und Materialien: Methodische Disziplin in Methodenlehre bürgerliches Recht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Gesetzgeberwille und Materialien: Methodische Disziplin: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Gesetzgeberwille und Materialien: Methodische Disziplin

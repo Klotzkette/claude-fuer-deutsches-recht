@@ -1,6 +1,6 @@
 ---
 name: pre-litigation-notice-and-standstill
-description: "Wenn es um Pre-Litigation und Standstill in commercial-courts-deutschland geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen."
+description: "Für Pre-Litigation und Standstill: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Pre-Litigation und Standstill

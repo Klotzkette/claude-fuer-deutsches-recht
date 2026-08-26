@@ -1,6 +1,6 @@
 ---
 name: sachverstaendige-it-forensik-im-bussgeldverfahren
-description: "Wenn es um IT-Forensik und Sachverständige in Datenschutz-Sanktionsverfahren und Verteidigung geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für IT-Forensik und Sachverständige: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt. Fachgebiet: Datenschutz-Sanktionsverfahren und Verteidigung."
 ---
 
 # IT-Forensik und Sachverständige

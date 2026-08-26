@@ -1,6 +1,6 @@
 ---
 name: nachteilsausgleich-behinderung
-description: "Wenn es um Nachteilsausgleich Behinderung in Prüfungsrecht an Hochschulen und Universitäten geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Nachteilsausgleich Behinderung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Nachteilsausgleich Behinderung

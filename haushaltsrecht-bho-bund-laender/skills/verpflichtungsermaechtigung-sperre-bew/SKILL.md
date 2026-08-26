@@ -1,6 +1,6 @@
 ---
 name: verpflichtungsermaechtigung-sperre-bew
-description: "Wenn es um Verpflichtungsermaechtigung Sperre Bew in Haushaltsrecht BHO Bund und Länder geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Verpflichtungsermächtigung Sperre Bew: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Verpflichtungsermaechtigung Sperre Bew

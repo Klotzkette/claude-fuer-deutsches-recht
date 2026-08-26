@@ -1,6 +1,6 @@
 ---
 name: bsi-grundschutz-schutzbedarf
-description: "Wenn es um BSI Grundschutz Schutzbedarf in NIS-2, Cybersecurity und IT-Sicherheits-Compliance geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für BSI Grundschutz Schutzbedarf: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # BSI Grundschutz Schutzbedarf

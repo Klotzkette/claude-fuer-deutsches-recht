@@ -1,6 +1,6 @@
 ---
 name: einfuehrung-vo-2021-782
-description: "Wenn es um Einführung VO (EU) 2021/782 — Fahrgastrechte Eisenbahn in Fahrgastrechte geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Einführung VO (EU) 2021/782 — Fahrgastrechte Eisenbahn: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Einführung VO (EU) 2021/782 — Fahrgastrechte Eisenbahn

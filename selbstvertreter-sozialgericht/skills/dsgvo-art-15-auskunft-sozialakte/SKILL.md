@@ -1,6 +1,6 @@
 ---
 name: dsgvo-art-15-auskunft-sozialakte
-description: "Wenn es um Dsgvo Art 15 Auskunft Sozialakte in selbstvertreter-sozialgericht geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
+description: "Für DSGVO Art 15 Auskunft Sozialakte: ordnet Akte, Belege und Lücken; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Dsgvo Art 15 Auskunft Sozialakte

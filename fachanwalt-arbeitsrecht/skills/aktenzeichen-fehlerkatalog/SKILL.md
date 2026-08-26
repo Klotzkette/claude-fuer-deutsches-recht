@@ -1,6 +1,6 @@
 ---
 name: aktenzeichen-fehlerkatalog
-description: "Wenn es um Aktenzeichen Fehlerkatalog in Fachanwalt Arbeitsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Aktenzeichen Fehlerkatalog: ordnet Akte, Belege und Lücken; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Aktenzeichen Fehlerkatalog

@@ -1,6 +1,6 @@
 ---
 name: nachpruefungsverfahren-paragraf-160-gwb
-description: "Wenn es um Nachpruefungsverfahren Paragraf 160 GWB in Fachanwalt Vergaberecht geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Nachprüfungsverfahren Paragraf 160 GWB: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Tatbestands- oder Anspruchsmatrix."
 ---
 
 # Nachpruefungsverfahren § 160 GWB

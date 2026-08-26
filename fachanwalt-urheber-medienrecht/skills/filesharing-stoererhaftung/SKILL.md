@@ -1,6 +1,6 @@
 ---
 name: filesharing-stoererhaftung
-description: "Wenn es um Filesharing Stoererhaftung in Fachanwalt Urheber Medienrecht geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Filesharing Störerhaftung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Filesharing Stoererhaftung

@@ -1,6 +1,6 @@
 ---
 name: inkrafttreten-uebergangsrecht
-description: "Wenn es um Inkrafttreten und Übergangsrecht in Legistik-Werkstatt geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
+description: "Für Inkrafttreten und Übergangsrecht: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Inkrafttreten und Übergangsrecht

@@ -1,6 +1,6 @@
 ---
 name: geldwaeschepruefung-immobilienkauf-kammerantwort-und-ver
-description: "Wenn es um Geldwaeschepruefung Immobilienkauf Kammerantwort Und Ver in Berufsrecht Notare geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Verhandlungs- oder Eskalationslinie mit Optionen."
+description: "Für Geldwäscheprüfung Immobilienkauf Kammerantwort und Ver: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Tatbestands- oder Anspruchsmatrix."
 ---
 
 # Notare: geldwaeschepruefung immobilienkauf - Kammerantwort mit Verfahrensstrategie, Tonlage und Belegplan

@@ -1,6 +1,6 @@
 ---
 name: spezial-pilotregime-sonderfall-und-edge-case
-description: "Wenn es um Pilotregime: Sonderfall und Edge-Case-Prüfung in Fachanwalt Handels- und Gesellschaftsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Pilotregime: Sonderfall und Edge-Case-Prüfung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Pilotregime: Sonderfall und Edge-Case-Prüfung

@@ -1,6 +1,6 @@
 ---
 name: fundraising-vertrieb-subscription-package-side-lp-transfer
-description: "Wenn es um Fundraising und Vertrieb: Teaser bis Subscription in Private Equity Praxis geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Fundraising und Vertrieb: Teaser bis Subscription: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Fundraising und Vertrieb: Teaser bis Subscription

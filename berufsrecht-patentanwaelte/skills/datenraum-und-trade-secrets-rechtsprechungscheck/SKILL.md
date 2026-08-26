@@ -1,6 +1,6 @@
 ---
 name: datenraum-und-trade-secrets-rechtsprechungscheck
-description: "Wenn es um Datenraum Und Trade Secrets Rechtsprechungscheck in Berufsrecht Patentanwälte geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Gegenprüfung mit Fehler-, Beweis- und Fristencheck."
+description: "Für Datenraum und Trade Secrets Rechtsprechungscheck: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Patentanwälte: datenraum und trade secrets - Rechtsprechungscheck, stärkste Gegenansicht und Red-Team-Korrektur

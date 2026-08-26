@@ -1,6 +1,6 @@
 ---
 name: erechnung
-description: "Wenn es um E-Rechnung, XRechnung, ZUGFeRD und GoBD in Kanzlei-Allgemein geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für E-Rechnung, XRechnung, ZUGFeRD und GoBD: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # E-Rechnung, XRechnung, ZUGFeRD und GoBD

@@ -1,6 +1,6 @@
 ---
 name: pralr-normenbibliothek
-description: "Erschließt eine konkrete Vorschrift oder einen engen Normbereich des Preußischen Allgemeinen Landrechts anhand von Textzeuge, Teil, Titel, Paragraph, OCR-Gegenprobe und historischer Systematik. Verwenden für Normsuche, Normkarte oder Übersetzung in heutige Sprache; lädt nur den einschlägigen Bibliotheksbereich."
+description: "Erschließt eine konkrete Vorschrift oder einen engen Normbereich des Preußischen Allgemeinen Landrechts anhand von Textzeuge, Teil, Titel, Paragraph, OCR-Gegenprobe und historischer Systematik."
 ---
 
 # 1. Normen des Preußischen Allgemeinen Landrechts erschließen

@@ -1,6 +1,6 @@
 ---
 name: sprache-begriffe-fiktionen
-description: "Wenn es um Sprache, Begriffe und Fiktionen in Rechtstheorie und Rechtsphilosophie geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Sprache, Begriffe und Fiktionen: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Sprache, Begriffe und Fiktionen

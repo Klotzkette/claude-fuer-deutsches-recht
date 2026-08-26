@@ -1,6 +1,6 @@
 ---
 name: leiter-verantwortung-mildere-mittel
-description: "Wenn es um Leitung ist nicht Befehlsempfänger der Polizei in Versammlungsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Leitung ist nicht Befehlsempfänger der Polizei: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Leitung ist nicht Befehlsempfänger der Polizei

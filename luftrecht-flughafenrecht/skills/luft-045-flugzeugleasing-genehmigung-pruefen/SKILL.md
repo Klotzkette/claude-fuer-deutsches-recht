@@ -1,6 +1,6 @@
 ---
 name: luft-045-flugzeugleasing-genehmigung-pruefen
-description: "Wenn es um Flugzeugleasing Genehmigung Pruefen in Luftrecht und Flughafenrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Flugzeugleasing Genehmigung Prüfen: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Schnittstellenkarte mit Zuständigkeits- und Nachweisfragen."
 ---
 
 # Flugzeugleasing Genehmigung Pruefen

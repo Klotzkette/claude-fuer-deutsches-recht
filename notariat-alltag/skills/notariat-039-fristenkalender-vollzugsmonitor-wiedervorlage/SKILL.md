@@ -1,6 +1,6 @@
 ---
 name: notariat-039-fristenkalender-vollzugsmonitor-wiedervorlage
-description: "Wenn es um Notariat im Alltag: Fristenkalender Vollzugsmonitor Wiedervorlage Eskalation in Notariat im Alltag geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Notariat im Alltag: Fristenkalender Vollzugsmonitor Wiedervorlage Eskalation: prüft Frist, Form, Zuständigkeit und Eilbedarf; Ergebnis: Fristen- und Risikoampel."
 ---
 
 # Notariat im Alltag: Fristenkalender Vollzugsmonitor Wiedervorlage Eskalation

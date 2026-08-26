@@ -1,6 +1,6 @@
 ---
 name: drg-107-generalklauseln-als-einbruchstelle-zeitgeist
-description: "Wenn es um Generalklauseln als Einbruchstelle des Zeitgeists in Deutsche Rechtsgeschichte geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen. Auswahlstichwort: Drg 107 Generalklauseln Als Einbruchstelle Zeitgeist; Arbeitsfeld: Deutsche Rechtsgeschichte."
+description: "Für Generalklauseln als Einbruchstelle des Zeitgeists: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt. Fachgebiet: Deutsche Rechtsgeschichte. Route: drg-107-generalklauseln-als-einbruchstelle-zeitgeist."
 ---
 # Generalklauseln als Einbruchstelle des Zeitgeists
 

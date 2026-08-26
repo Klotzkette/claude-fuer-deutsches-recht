@@ -1,6 +1,6 @@
 ---
 name: mangel-am-leasingobjekt-rechte-gegen-lieferant
-description: "Wenn es um Mangel am Leasingobjekt: Rechte gegen den Lieferanten in Leasingrecht Praxis geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Mangel am Leasingobjekt: Rechte gegen den Lieferanten: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Mangel am Leasingobjekt: Rechte gegen den Lieferanten

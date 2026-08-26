@@ -1,6 +1,6 @@
 ---
 name: bewertungsspielraum-grenzen
-description: "Wenn es um Grenzen des Bewertungsspielraums in Prüfungsrecht an Hochschulen und Universitäten geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Grenzen des Bewertungsspielraums: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Grenzen des Bewertungsspielraums

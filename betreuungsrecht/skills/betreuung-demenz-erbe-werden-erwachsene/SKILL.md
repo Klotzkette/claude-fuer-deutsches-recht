@@ -1,6 +1,6 @@
 ---
 name: betreuung-demenz-erbe-werden-erwachsene
-description: "Wenn es um Betreuung bei Demenz in Betreuungsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. Auswahlstichwort: Betreuung Demenz Erbe Werden Erwachsene; Arbeitsfeld: Betreuungsrecht."
+description: "Für Betreuung bei Demenz: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Schnittstellenkarte mit Zuständigkeits- und Nachweisfragen. Fachgebiet: Betreuungsrecht. Route: betreuung-demenz-erbe-werden-erwachsene."
 ---
 
 # Betreuung bei Demenz

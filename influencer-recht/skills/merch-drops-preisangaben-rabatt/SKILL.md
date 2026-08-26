@@ -1,6 +1,6 @@
 ---
 name: merch-drops-preisangaben-rabatt
-description: "Wenn es um Influencer-Recht: Merch-Drops, E-Commerce und Widerruf in Influencer-Recht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
+description: "Für Influencer-Recht: Merch-Drops, E-Commerce und Widerruf: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Influencer-Recht: Merch-Drops, E-Commerce und Widerruf

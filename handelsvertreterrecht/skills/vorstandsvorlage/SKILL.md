@@ -1,6 +1,6 @@
 ---
 name: vorstandsvorlage
-description: "Wenn es um Vorstandsvorlage zu Handelsvertreter-Themen nach HGB in Handelsvertreterrecht und Vertriebsverträge geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
+description: "Für Vorstandsvorlage zu Handelsvertreter-Themen nach HGB: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Vorstandsvorlage zu Handelsvertreter-Themen nach HGB

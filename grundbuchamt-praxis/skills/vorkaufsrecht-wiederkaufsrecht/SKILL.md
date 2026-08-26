@@ -1,6 +1,6 @@
 ---
 name: vorkaufsrecht-wiederkaufsrecht
-description: "Wenn es um Vorkaufs- und Wiederkaufsrechte in Grundbuchamt Praxis geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Vorkaufs- und Wiederkaufsrechte: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Vorkaufs- und Wiederkaufsrechte

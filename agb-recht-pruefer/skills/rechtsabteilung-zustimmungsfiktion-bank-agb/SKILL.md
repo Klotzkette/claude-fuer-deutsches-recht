@@ -1,6 +1,6 @@
 ---
 name: rechtsabteilung-zustimmungsfiktion-bank-agb
-description: "Wenn es um Rechtsabteilung: Zustimmungsfiktion nach Bank-AGB-Urteil in AGB-Recht-Prüfer geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Chronologie mit Belegmatrix und Widerspruchsliste. Auswahlstichwort: Rechtsabteilung Zustimmungsfiktion Bank Agb; Arbeitsfeld: AGB-Recht-Prüfer."
+description: "Für Rechtsabteilung: Zustimmungsfiktion nach Bank-AGB-Urteil: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt. Fachgebiet: AGB-Recht-Prüfer. Route: rechtsabteilung-zustimmungsfiktion-bank-agb."
 ---
 
 # Rechtsabteilung: Zustimmungsfiktion nach Bank-AGB-Urteil

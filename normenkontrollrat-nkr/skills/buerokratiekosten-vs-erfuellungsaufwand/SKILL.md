@@ -1,6 +1,6 @@
 ---
 name: buerokratiekosten-vs-erfuellungsaufwand
-description: "Wenn es um NKR-Buerokratiekosten vs. Erfuellungsaufwand in Normenkontrollrat (NKR) — Prüfung von Gesetzentwuerfen geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
+description: "Für NKR-Bürokratiekosten vs. Erfüllungsaufwand: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # NKR-Buerokratiekosten vs. Erfuellungsaufwand

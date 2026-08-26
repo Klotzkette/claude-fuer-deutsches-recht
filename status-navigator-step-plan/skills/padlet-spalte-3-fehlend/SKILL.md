@@ -1,6 +1,6 @@
 ---
 name: padlet-spalte-3-fehlend
-description: "Wenn es um Padlet Reiter 3 Fehlend aufbauen in Plugin: status-navigator-step-plan geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Padlet Reiter 3 Fehlend aufbauen: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Padlet Reiter 3 Fehlend aufbauen

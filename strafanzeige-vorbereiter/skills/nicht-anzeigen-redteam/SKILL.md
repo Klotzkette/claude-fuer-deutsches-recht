@@ -1,6 +1,6 @@
 ---
 name: nicht-anzeigen-redteam
-description: "Wenn es um Nicht anzeigen? Red-Team vor Strafanzeige in Strafanzeige-Vorbereiter geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
+description: "Für Nicht anzeigen? Red-Team vor Strafanzeige: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Nicht anzeigen? Red-Team vor Strafanzeige

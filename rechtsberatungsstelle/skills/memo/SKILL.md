@@ -1,6 +1,6 @@
 ---
 name: memo
-description: "Wenn es um Internes Rechtsgutachten: Gutachten-Gerüst in Plugin für die studentische Rechtsberatungsstelle geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
+description: "Für Internes Rechtsgutachten: Gutachten-Gerüst: erstellt Entwurf mit Antrag, Beweis und Anlagen; Ergebnis: Schriftsatz mit Begründungs- und Anlagenlogik."
 ---
 
 # Internes Rechtsgutachten: Gutachten-Gerüst

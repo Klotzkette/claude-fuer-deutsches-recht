@@ -1,6 +1,6 @@
 ---
 name: phishing-tatbestand-beweis-und-belege
-description: "Wenn es um Phishing: Tatbestandsmerkmale, Beweisfragen und Beleglage in Phishing-Vorfall-Prüfer geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Beweislast- und Substantiierungsmatrix."
+description: "Für Phishing: Tatbestandsmerkmale, Beweisfragen und Beleglage: ordnet Akte, Belege und Lücken; Ergebnis: Beweislast- und Substantiierungsmatrix."
 ---
 
 # Phishing: Tatbestandsmerkmale, Beweisfragen und Beleglage

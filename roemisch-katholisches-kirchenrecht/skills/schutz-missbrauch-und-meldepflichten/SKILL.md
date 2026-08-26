@@ -1,6 +1,6 @@
 ---
 name: schutz-missbrauch-und-meldepflichten
-description: "Wenn es um Schutz, Missbrauch und Meldepflichten in Römisch-katholisches Kirchenrecht CIC und Katechismus geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
+description: "Für Schutz, Missbrauch und Meldepflichten: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt. Fachgebiet: Römisch-katholisches Kirchenrecht CIC und Katechismus. Route: schutz-missbrauch-und-meldepflichten."
 ---
 
 # Schutz, Missbrauch und Meldepflichten

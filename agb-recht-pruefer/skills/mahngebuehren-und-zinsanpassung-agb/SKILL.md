@@ -1,6 +1,6 @@
 ---
 name: mahngebuehren-und-zinsanpassung-agb
-description: "Wenn es um Mahngebuehren Und Zinsanpassung Agb in AGB-Recht-Prüfer geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Mahngebühren und Zinsanpassung AGB: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Berechnungstabelle mit Annahmen und Kontrollfragen."
 ---
 
 # Mahngebuehren Und Zinsanpassung Agb

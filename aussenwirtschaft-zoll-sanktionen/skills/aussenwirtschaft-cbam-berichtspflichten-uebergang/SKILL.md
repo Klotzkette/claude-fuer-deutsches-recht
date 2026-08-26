@@ -1,6 +1,6 @@
 ---
 name: aussenwirtschaft-cbam-berichtspflichten-uebergang
-description: "Wenn es um CBAM-Uebergangspflichten: Quartalsbericht für eingebettete Emissionen in Außenwirtschaft, Sanktionen, Zoll und CBAM geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für CBAM-Übergangspflichten: Quartalsbericht für eingebettete Emissionen: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # CBAM-Uebergangspflichten: Quartalsbericht für eingebettete Emissionen

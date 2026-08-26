@@ -1,6 +1,6 @@
 ---
 name: nachreichung-fehlender-unterlagen
-description: "Wenn es um Nachreichung fehlender Unterlagen in Kriegsdienstverweigerung und Wehrdienst geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Nachreichung fehlender Unterlagen: ordnet Akte, Belege und Lücken; Ergebnis: Dokumentenmatrix mit Nachforderungsliste."
 ---
 
 # Nachreichung fehlender Unterlagen

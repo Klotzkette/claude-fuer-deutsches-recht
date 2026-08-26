@@ -1,6 +1,6 @@
 ---
 name: zwvw-kostenrechnung-verwalter-spezial
-description: "Wenn es um ZwVw: Kostenrechnung Verwalter in ZVG-Zwangsverwaltung - Verwalter-Cockpit geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für ZwVw: Kostenrechnung Verwalter: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # ZwVw: Kostenrechnung Verwalter

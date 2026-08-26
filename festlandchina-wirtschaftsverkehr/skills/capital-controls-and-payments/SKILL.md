@@ -1,6 +1,6 @@
 ---
 name: capital-controls-and-payments
-description: "Wenn es um Kapitalverkehrskontrollen China: SAFE/CIPS und Zahlungsrisiken in China-Wirtschaftsverkehr geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Kapitalverkehrskontrollen China: SAFE/CIPS und Zahlungsrisiken: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Kapitalverkehrskontrollen China: SAFE/CIPS und Zahlungsrisiken

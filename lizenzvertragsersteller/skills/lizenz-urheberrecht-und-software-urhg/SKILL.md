@@ -1,6 +1,6 @@
 ---
 name: lizenz-urheberrecht-und-software-urhg
-description: "Wenn es um Lizenz Urheberrecht / Software (Paragrafen 31 ff. UrhG) in Lizenzvertragsersteller geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Lizenz Urheberrecht / Software (Paragrafen 31 ff. UrhG): ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Lizenz Urheberrecht / Software (Paragrafen 31 ff. UrhG)

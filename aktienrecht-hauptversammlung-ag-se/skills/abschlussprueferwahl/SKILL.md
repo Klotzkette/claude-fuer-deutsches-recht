@@ -1,6 +1,6 @@
 ---
 name: abschlussprueferwahl
-description: "Wenn es um Abschlussprueferwahl in Hauptversammlung AG und SE geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Abschlussprüferwahl: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Abschlussprueferwahl

@@ -1,6 +1,6 @@
 ---
 name: wesentliche-veraenderung-digital
-description: "Wenn es um Wesentliche Veränderung digital in robotik-recht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Wesentliche Veränderung digital: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Wesentliche Veränderung digital

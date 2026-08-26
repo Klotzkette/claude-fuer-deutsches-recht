@@ -1,6 +1,6 @@
 ---
 name: kanzlei-prozesse-abbilden
-description: "Wenn es um Kanzlei-Prozesse abbilden in Kanzlei-Builder-Hub geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Kanzlei-Prozesse abbilden: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Kanzlei-Prozesse abbilden

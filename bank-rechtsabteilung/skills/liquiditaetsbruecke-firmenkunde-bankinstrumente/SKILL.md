@@ -1,6 +1,6 @@
 ---
 name: liquiditaetsbruecke-firmenkunde-bankinstrumente
-description: "Wenn es um Liquiditätsbrücke durch Bankinstrumente in Bank-Rechtsabteilung geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
+description: "Für Liquiditätsbrücke durch Bankinstrumente: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Liquiditätsbrücke durch Bankinstrumente

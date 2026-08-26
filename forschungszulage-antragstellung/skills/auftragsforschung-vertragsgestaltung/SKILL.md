@@ -1,6 +1,6 @@
 ---
 name: auftragsforschung-vertragsgestaltung
-description: "Wenn es um FZ: Auftragsforschung gestalten in Forschungszulage-Antragstellung geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
+description: "Für FZ: Auftragsforschung gestalten: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # FZ: Auftragsforschung gestalten

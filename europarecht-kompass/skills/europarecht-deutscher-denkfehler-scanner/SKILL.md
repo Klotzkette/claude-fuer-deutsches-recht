@@ -1,6 +1,6 @@
 ---
 name: europarecht-deutscher-denkfehler-scanner
-description: "Wenn es um Deutscher-Denkfehler-Scanner in Europarecht-Kompass für deutsche Juristen geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Deutscher-Denkfehler-Scanner: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Schnittstellenkarte mit Zuständigkeits- und Nachweisfragen."
 ---
 
 # Deutscher-Denkfehler-Scanner

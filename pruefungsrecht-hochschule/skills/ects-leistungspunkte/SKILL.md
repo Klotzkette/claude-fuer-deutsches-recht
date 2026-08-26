@@ -1,6 +1,6 @@
 ---
 name: ects-leistungspunkte
-description: "Wenn es um ECTS und Leistungspunkte in Prüfungsrecht an Hochschulen und Universitäten geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für ECTS und Leistungspunkte: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # ECTS und Leistungspunkte

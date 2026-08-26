@@ -1,6 +1,6 @@
 ---
 name: akteneinsicht-pruefungsakte
-description: "Wenn es um Akteneinsicht Prüfungsakte in Prüfungsrecht an Hochschulen und Universitäten geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Dokumentenmatrix mit Nachforderungsliste."
+description: "Für Akteneinsicht Prüfungsakte: ordnet Akte, Belege und Lücken; Ergebnis: Tatbestands- oder Anspruchsmatrix."
 ---
 
 # Akteneinsicht Prüfungsakte

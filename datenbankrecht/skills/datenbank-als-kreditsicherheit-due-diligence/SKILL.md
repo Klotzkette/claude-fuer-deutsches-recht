@@ -1,6 +1,6 @@
 ---
 name: datenbank-als-kreditsicherheit-due-diligence
-description: "Wenn es um Datenbank als Kreditsicherheit — Due Diligence für Kreditgeber in Datenbankrecht und Datenbankherstellerrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Datenbank als Kreditsicherheit — Due Diligence für Kreditgeber: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Datenbank als Kreditsicherheit — Due Diligence für Kreditgeber

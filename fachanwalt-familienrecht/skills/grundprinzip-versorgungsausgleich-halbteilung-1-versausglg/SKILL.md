@@ -1,6 +1,6 @@
 ---
 name: grundprinzip-versorgungsausgleich-halbteilung-1-versausglg
-description: "Wenn es um Grundprinzip Versorgungsausgleich Halbteilung 1 Versausglg in Fachanwalt Familienrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Grundprinzip Versorgungsausgleich Halbteilung 1 Versausglg: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Grundprinzip Versorgungsausgleich Halbteilung Paragraf 1 VersAusglG: prüft die einschlägigen Voraussetzungen, Dokumente, Risiken und Ausnahmen

@@ -1,6 +1,6 @@
 ---
 name: kreuzfahrtschiff-arrest-vorbereiten
-description: "Wenn es um Kreuzfahrtschiff – Arrest vorbereiten in See- und Schifffahrtsrecht geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Kreuzfahrtschiff – Arrest vorbereiten: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Schnittstellenkarte mit Zuständigkeits- und Nachweisfragen."
 ---
 
 # Kreuzfahrtschiff – Arrest vorbereiten

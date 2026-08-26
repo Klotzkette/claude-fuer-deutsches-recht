@@ -1,6 +1,6 @@
 ---
 name: strafr-dysfunk-pflichtverteidiger-entpflichtung-143a
-description: "Wenn es um Entpflichtung des Pflichtverteidigers nach Paragraf 143a Abs in Fachanwalt Strafrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Entpflichtung des Pflichtverteidigers nach Paragraf 143a Abs: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Entpflichtung des Pflichtverteidigers nach § 143a Abs

@@ -1,6 +1,6 @@
 ---
 name: gebuehrenbescheid
-description: "Wenn es um Gebührenbescheid in Bürokratieversteher und Entbürokratisierer geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Gebührenbescheid: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Berechnungstabelle mit Annahmen und Kontrollfragen."
 ---
 
 # Gebührenbescheid

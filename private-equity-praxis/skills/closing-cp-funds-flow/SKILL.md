@@ -1,6 +1,6 @@
 ---
 name: closing-cp-funds-flow
-description: "Wenn es um Closing, CPs und Funds Flow in Private Equity Praxis geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Closing, CPs und Funds Flow: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Closing, CPs und Funds Flow

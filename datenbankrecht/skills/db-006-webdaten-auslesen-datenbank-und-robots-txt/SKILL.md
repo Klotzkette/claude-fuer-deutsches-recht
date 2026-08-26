@@ -1,6 +1,6 @@
 ---
 name: db-006-webdaten-auslesen-datenbank-und-robots-txt
-description: "Wenn es um Datenbankrecht: Webdaten-Auslesen, Datenbank und Robots.txt in Datenbankrecht und Datenbankherstellerrecht geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Datenbankrecht: Webdaten-Auslesen, Datenbank und Robots.txt: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Datenbankrecht: Webdaten-Auslesen, Datenbank und Robots.txt

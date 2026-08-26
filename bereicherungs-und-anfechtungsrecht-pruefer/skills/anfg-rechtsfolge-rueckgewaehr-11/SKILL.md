@@ -1,6 +1,6 @@
 ---
 name: anfg-rechtsfolge-rueckgewaehr-11
-description: "Wenn es um Rechtsfolge: Rückgewähr — Paragraf 11 AnfG in bereicherungs-und-anfechtungsrecht-prüfer geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Rechtsfolge: Rückgewähr — Paragraf 11 AnfG: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Rechtsfolge: Rückgewähr — § 11 AnfG

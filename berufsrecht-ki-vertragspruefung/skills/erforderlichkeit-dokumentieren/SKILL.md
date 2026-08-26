@@ -1,6 +1,6 @@
 ---
 name: erforderlichkeit-dokumentieren
-description: "Wenn es um Erforderlichkeit dokumentieren in diesem Spezialbereich geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Verhandlungs- oder Eskalationslinie mit Optionen."
+description: "Für Erforderlichkeit dokumentieren: ordnet Akte, Belege und Lücken; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Erforderlichkeit dokumentieren

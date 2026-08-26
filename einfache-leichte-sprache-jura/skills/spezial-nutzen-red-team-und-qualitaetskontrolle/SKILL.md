@@ -1,6 +1,6 @@
 ---
 name: spezial-nutzen-red-team-und-qualitaetskontrolle
-description: "Wenn es um Nutzen: Red-Team und Qualitätskontrolle in Einfache und Leichte Sprache für juristische Texte geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Nutzen: Red-Team und Qualitätskontrolle: prüft Ergebnis, Beweislast und Gegenposition; Ergebnis: Gegenprüfung mit Beweis- und Fristencheck."
 ---
 
 # Nutzen: Red-Team und Qualitätskontrolle

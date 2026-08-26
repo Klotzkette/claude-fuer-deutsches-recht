@@ -1,6 +1,6 @@
 ---
 name: chn-094-incident-response-china-business
-description: "Wenn es um Incident Response China Business in China-Wirtschaftsverkehr geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Incident Response China Business: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Incident Response China Business

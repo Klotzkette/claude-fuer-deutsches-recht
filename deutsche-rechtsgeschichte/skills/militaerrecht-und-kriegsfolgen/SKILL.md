@@ -1,6 +1,6 @@
 ---
 name: militaerrecht-und-kriegsfolgen
-description: "Wenn es um Militaerrecht und Kriegsfolgen in Deutsche Rechtsgeschichte geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Militärrecht und Kriegsfolgen: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Militaerrecht und Kriegsfolgen

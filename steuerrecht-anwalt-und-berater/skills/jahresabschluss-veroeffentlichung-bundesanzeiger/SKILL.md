@@ -1,6 +1,6 @@
 ---
 name: jahresabschluss-veroeffentlichung-bundesanzeiger
-description: "Wenn es um Jahresabschluss-Offenlegung im Unternehmensregister in Steuerrecht – Steuerberater und Anwälte geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. Auswahlstichwort: Jahresabschluss Veroeffentlichung Bundesanzeiger; Arbeitsfeld: Steuerrecht – Steuerberater und Anwälte."
+description: "Für Jahresabschluss-Offenlegung im Unternehmensregister: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt. Fachgebiet: Steuerrecht – Steuerberater und Anwälte. Route: jahresabschluss-veroeffentlichung-bundesanzeiger."
 ---
 
 # Jahresabschluss-Offenlegung im Unternehmensregister

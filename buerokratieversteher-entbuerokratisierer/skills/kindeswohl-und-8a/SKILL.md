@@ -1,6 +1,6 @@
 ---
 name: kindeswohl-und-8a
-description: "Wenn es um Kindeswohl und Paragraf 8a SGB VIII in Bürokratieversteher und Entbürokratisierer geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
+description: "Für Kindeswohl und Paragraf 8a SGB VIII: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Kindeswohl und § 8a SGB VIII

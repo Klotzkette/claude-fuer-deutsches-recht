@@ -1,6 +1,6 @@
 ---
 name: agb-vertragsstrafe-309-nr-6
-description: "Wenn es um Agb Vertragsstrafe 309 Nr 6 in AGB-Recht-Prüfer geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für AGB Vertragsstrafe 309 Nr 6: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Agb Vertragsstrafe 309 Nr 6

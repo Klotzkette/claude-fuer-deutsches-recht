@@ -1,6 +1,6 @@
 ---
 name: steuerberater-briefing
-description: "Wenn es um Steuern und Buchhaltung: Erstellt übergabepaket für steuerberater ohne belegchaos in Solo-Selbstständige Praxis geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Steuern und Buchhaltung: Erstellt übergabepaket für steuerberater ohne belegchaos: erstellt Entwurf mit Antrag, Beweis und Anlagen; Ergebnis: Schriftsatz mit Begründungs- und Anlagenlogik."
 ---
 
 # Steuern und Buchhaltung: Erstellt übergabepaket für steuerberater ohne belegchaos

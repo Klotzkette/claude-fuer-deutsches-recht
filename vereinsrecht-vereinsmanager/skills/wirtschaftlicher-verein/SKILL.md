@@ -1,6 +1,6 @@
 ---
 name: wirtschaftlicher-verein
-description: "Wenn es um Wirtschaftlicher Verein in Vereinsrecht und Vereinsmanager geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert einen Einreichungsplan mit Form-, Portal- und Nachweischeck."
+description: "Für Wirtschaftlicher Verein: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Wirtschaftlicher Verein

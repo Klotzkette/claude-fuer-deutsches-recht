@@ -1,6 +1,6 @@
 ---
 name: kommunaler-finanzausgleich-interkommunale
-description: "Wenn es um Kommunaler Finanzausgleich in Kommunalrecht der Länder geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Kommunaler Finanzausgleich: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Kommunaler Finanzausgleich

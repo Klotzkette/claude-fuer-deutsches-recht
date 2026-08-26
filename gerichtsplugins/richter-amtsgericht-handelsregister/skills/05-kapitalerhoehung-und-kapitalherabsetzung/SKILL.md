@@ -1,6 +1,6 @@
 ---
 name: 05-kapitalerhoehung-und-kapitalherabsetzung
-description: "Wenn es um 05 Kapitalerhoehung und Kapitalherabsetzung in Handelsregisterrichter am Amtsgericht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
+description: "Für 05 Kapitalerhöhung und Kapitalherabsetzung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # 05 Kapitalerhoehung und Kapitalherabsetzung

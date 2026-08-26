@@ -1,6 +1,6 @@
 ---
 name: abstimmung
-description: "Wenn es um Chronologie und Belegmatrix in Verlagsredaktion geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Chronologie mit Belegmatrix und Widerspruchsliste."
+description: "Für Chronologie und Belegmatrix: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt. Fachgebiet: Verlagsredaktion."
 ---
 
 # Chronologie und Belegmatrix

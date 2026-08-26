@@ -1,6 +1,6 @@
 ---
 name: interne-untersuchung-legal-hold
-description: "Wenn es um Interne Untersuchung und Legal Hold in Datenschutz-Sanktionsverfahren und Verteidigung geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
+description: "Für Interne Untersuchung und Legal Hold: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Interne Untersuchung und Legal Hold

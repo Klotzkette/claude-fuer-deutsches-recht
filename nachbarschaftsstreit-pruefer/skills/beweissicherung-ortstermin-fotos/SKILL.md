@@ -1,6 +1,6 @@
 ---
 name: beweissicherung-ortstermin-fotos
-description: "Wenn es um Beweissicherung, Ortstermin und Fotos in Nachbarschaftsstreit-Prüfer geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Beweislast- und Substantiierungsmatrix."
+description: "Für Beweissicherung, Ortstermin und Fotos: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Beweislast- und Substantiierungsmatrix."
 ---
 
 # Beweissicherung, Ortstermin und Fotos

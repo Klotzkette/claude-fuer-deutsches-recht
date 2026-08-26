@@ -1,6 +1,6 @@
 ---
 name: grundsicherung-meldeversaeumnis-paragraf-32-sgb-ii
-description: "Prüft Leistungsminderungen nach einem versäumten Jobcenter-Termin anhand von Paragraf 32 SGB II: wirksame Meldeaufforderung, zulässiger Meldezweck, Belehrung, Zugang, wichtiger Grund, Härte, Minderungszeitraum und Eilrechtsschutz. Liefert Bescheidprüfung, Fristenblatt und Widerspruchs- oder Eilantragsbaustein."
+description: "Prüft Leistungsminderungen nach einem versäumten Jobcenter-Termin anhand von Paragraf 32 SGB II: wirksame Meldeaufforderung, zulässiger Meldezweck, Belehrung, Zugang, wichtiger Grund, Härte, Minderungszeitraum und Eilrechtsschutz."
 ---
 
 # Meldeversäumnis in der Grundsicherung prüfen

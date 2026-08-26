@@ -1,6 +1,6 @@
 ---
 name: vollzugsueberwachung-grundbuch-rechtsprechungscheck
-description: "Wenn es um Vollzugsueberwachung Grundbuch Rechtsprechungscheck in Berufsrecht Notare geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Gegenprüfung mit Fehler-, Beweis- und Fristencheck."
+description: "Für Vollzugsüberwachung Grundbuch Rechtsprechungscheck: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Notare: vollzugsueberwachung grundbuch - Rechtsprechungscheck, stärkste Gegenansicht und Red-Team-Korrektur

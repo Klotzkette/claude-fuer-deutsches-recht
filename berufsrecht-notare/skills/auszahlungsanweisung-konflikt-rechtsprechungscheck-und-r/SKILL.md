@@ -1,6 +1,6 @@
 ---
 name: auszahlungsanweisung-konflikt-rechtsprechungscheck-und-r
-description: "Wenn es um Auszahlungsanweisung Konflikt Rechtsprechungscheck Und R in Berufsrecht Notare geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Gegenprüfung mit Fehler-, Beweis- und Fristencheck."
+description: "Für Auszahlungsanweisung Konflikt Rechtsprechungscheck und R: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Notare: auszahlungsanweisung konflikt - Rechtsprechungscheck, stärkste Gegenansicht und Red-Team-Korrektur

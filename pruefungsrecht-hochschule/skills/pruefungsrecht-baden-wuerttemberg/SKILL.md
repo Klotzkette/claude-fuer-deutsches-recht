@@ -1,6 +1,6 @@
 ---
 name: pruefungsrecht-baden-wuerttemberg
-description: "Wenn es um Prüfungsrecht Baden Wuerttemberg in Prüfungsrecht an Hochschulen und Universitäten geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Prüfungsrecht Baden Württemberg: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Tatbestands- oder Anspruchsmatrix."
 ---
 
 # Prüfungsrecht Baden Wuerttemberg

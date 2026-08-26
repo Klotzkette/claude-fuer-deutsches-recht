@@ -1,6 +1,6 @@
 ---
 name: eisenbahn-kapazitaetskonflikt-fahrplan
-description: "Wenn es um Eisenbahn: Kapazitätskonflikt Fahrplan in Bundesnetzagentur-Verfahren geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
+description: "Für Eisenbahn: Kapazitätskonflikt Fahrplan: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Eisenbahn: Kapazitätskonflikt Fahrplan

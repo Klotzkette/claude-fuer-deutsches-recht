@@ -1,6 +1,6 @@
 ---
 name: reiseveranstalter-sammelfaehigkeit-pru
-description: "Wenn es um Reiseveranstalter Sammelfaehigkeit Pru in Verbraucherschutzverband Durchsetzung geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Reiseveranstalter Sammelfähigkeit Pru: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Reiseveranstalter Sammelfaehigkeit Pru

@@ -1,6 +1,6 @@
 ---
 name: zitat-amtliche-sammlung-vs-zeitschrift
-description: "Wenn es um Amtliche Sammlung vs. Zeitschrift in Zitierweise deutsches Recht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
+description: "Für Amtliche Sammlung vs. Zeitschrift: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Amtliche Sammlung vs. Zeitschrift

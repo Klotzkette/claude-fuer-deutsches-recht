@@ -90,7 +90,7 @@ Die Antwort soll die Unterlagen verwerten und nicht mit einem allgemeinen Fragen
 
 ## 7. Laufzeit bei großen Ablagen verbessern
 
-Aktiviere für einen konkreten Vorgang nur die tatsächlich benötigten Plugins und öffne nach einer Änderung eine neue Aufgabe. Bei Microsoft 365 wird die Suche schneller und genauer, wenn Website, Bibliothek oder Ordner, Zeitraum, Absender, Dateityp und ein prägnanter Suchbegriff vorgegeben sind. Der erste Durchgang soll höchstens 20 Treffer erfassen und höchstens fünf tragende Dokumente öffnen; erweitert wird nur für eine konkret benannte Beleglücke.
+Aktiviere für einen konkreten Vorgang nur das tatsächlich benötigte Plugin und öffne nach Installation, Aktivierung oder Update eine neue Aufgabe. Wenn der Sachskill feststeht, wähle ihn unmittelbar über `/` oder `+`. Bei Leistungsphasen, Länder-, Behörden-, Lohn-, BWA-, Sanierungsgewinn-, Beirats- und BHO-Fragen öffnet der jeweilige Fachrouter nur die einschlägige Referenz; mehrere Vertiefungen werden nur bei einer echten Schnittstelle geladen. Bei Microsoft 365 wird die Suche schneller und genauer, wenn Website, Bibliothek oder Ordner, Zeitraum, Absender, Dateityp und ein prägnanter Suchbegriff vorgegeben sind. Der erste Durchgang soll höchstens 20 Treffer erfassen und höchstens fünf tragende Dokumente öffnen; erweitert wird nur für eine konkret benannte Beleglücke.
 
 Bereits gelesene Word- und PDF-Dateien werden nicht erneut geöffnet. Bei Tabellen genügt zunächst das einschlägige Blatt mit dem relevanten Zellbereich, bei E-Mails der genaue Gesprächsverlauf. Für einen einzelnen Fall bleibt der Schnellstart oder das Einzel-Plugin der schnellste Weg.
 

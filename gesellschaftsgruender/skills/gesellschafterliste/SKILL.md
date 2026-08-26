@@ -1,6 +1,6 @@
 ---
 name: gesellschafterliste
-description: "Wenn es um Gesellschafterliste Qualitygate in gesellschaftsgründer — Gründungsassistent für deutsche geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Gesellschafterliste Qualitygate: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Gesellschafterliste Qualitygate

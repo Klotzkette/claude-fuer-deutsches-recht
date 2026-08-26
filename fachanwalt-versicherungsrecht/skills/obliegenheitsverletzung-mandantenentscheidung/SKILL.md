@@ -1,6 +1,6 @@
 ---
 name: obliegenheitsverletzung-mandantenentscheidung
-description: "Wenn es um Obliegenheitsverletzung: Mandantenkommunikation und Entscheidungsvorlage in Fachanwalt Versicherungsrecht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Mandantennachricht oder Entscheidungsvorlage."
+description: "Für Obliegenheitsverletzung: Mandantenkommunikation und Entscheidungsvorlage: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Obliegenheitsverletzung: Mandantenkommunikation und Entscheidungsvorlage

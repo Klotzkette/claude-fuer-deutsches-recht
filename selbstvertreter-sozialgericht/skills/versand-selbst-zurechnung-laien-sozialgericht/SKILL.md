@@ -1,6 +1,6 @@
 ---
 name: versand-selbst-zurechnung-laien-sozialgericht
-description: "Wenn es um Versand-Beweise sicher aufheben in selbstvertreter-sozialgericht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Versand-Beweise sicher aufheben: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Versand-Beweise sicher aufheben

@@ -1,6 +1,6 @@
 ---
 name: claim-objection-502
-description: "Wenn es um Claim Objection Paragraf 502 in US Bankruptcy Code geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Claim Objection Paragraf 502: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Claim Objection § 502

@@ -1,6 +1,6 @@
 ---
 name: mobile-roboter-amr-agv
-description: "Wenn es um Mobile Roboter AMR AGV in robotik-recht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Mobile Roboter AMR AGV: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt. Fachgebiet: robotik-recht. Route: mobile-roboter-amr-agv."
 ---
 
 # Mobile Roboter AMR AGV

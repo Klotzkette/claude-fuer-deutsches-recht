@@ -7,15 +7,15 @@ Diese Vollprüfung enthält top-10 von 88 Skills des Plugins `fluggastrechte`.
 ## Inhaltsverzeichnis
 
 1. **juristischer-argumentationskern** — Schaltet sich ein, wenn in Fluggastrechte ein juristisches Arbeitsprodukt tragfähig begründet werden muss; verbindet kon…
-2. **einstieg-routing** — Wenn es um Einstieg und Routing in Fluggastrechte geht: klärt Rolle, Ziel, Frist, Unterlagen und den passenden nächsten …
-3. **kaltstart-triage** — Wenn es um Kaltstart Triage in Fluggastrechte geht: klärt Rolle, Ziel, Frist, Unterlagen und den passenden nächsten Fach…
-4. **forderungsschreiben-formular-portal-und-einreichung** — Wenn es um Forderungsschreiben: Formular, Portal und Einreichungslogik in Fluggastrechte geht: prüft Frist, Form, Zustän…
-5. **rechtsprechung-beweislast-vorverlegung-flug** — Wenn es um Rechtsprechung: Beweislast, Darlegungslast und Substantiierung in Fluggastrechte geht: prüft Frist, Form, Zus…
-6. **tickets-risikoampel-und-gegenargumente** — Wenn es um Tickets: Risikoampel, Gegenargumente und Verteidigungslinien in Fluggastrechte geht: zerlegt Ergebnis, Frist,…
-7. **rechtsprechung-beweislast-darlegungslast** — Wenn es um Rechtsprechung: Beweislast, Darlegungslast und Substantiierung in Fluggastrechte geht: prüft Frist, Form, Zus…
-8. **ausgleich-internationaler-bezug-und-schnittstellen** — Wenn es um Ausgleich: Internationaler Bezug und Schnittstellen in Fluggastrechte geht: prüft Frist, Form, Zuständigkeit,…
-9. **ausnahmen-aussergewoehnliche-umstaende-02** — Wenn es um Außergewöhnliche Umstände prüfen (Art. 5 Abs. 3 VO 261/2004) in Fluggastrechte geht: prüft Frist, Form, Zustä…
-10. **tickets-risikoampel-gegenargumente** — Wenn es um Tickets: Risikoampel, Gegenargumente und Verteidigungslinien in Fluggastrechte geht: zerlegt Ergebnis, Frist,…
+2. **einstieg-routing** — Für Einstieg und Routing: routet Rolle, Frist, Unterlagen und Fachschritt; Ergebnis: Prüfprodukt mit Risiko und nächstem…
+3. **kaltstart-triage** — Für Kaltstart Triage: routet Rolle, Frist, Unterlagen und Fachschritt; Ergebnis: Prüfprodukt mit Risiko und nächstem Sch…
+4. **forderungsschreiben-erste-stufe** — Erstellt das erste belastbare Forderungsschreiben nach der Fluggastrechteverordnung; ordnet Nichtbeförderung, Annullieru…
+5. **ausgleich-internationaler-bezug-und-schnittstellen** — Für Ausgleich: Internationaler Bezug und Schnittstellen: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Schnittste…
+6. **ausgleich-internationaler-bezug-schnittstellen** — Für Ausgleich: Internationaler Bezug und Schnittstellen: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Schnittste…
+7. **annullierung-schriftsatz-brief-und-memo-bausteine** — Für Annullierung: Schriftsatz-, Brief- und Memo-Bausteine: erstellt Entwurf mit Antrag, Beweis und Anlagen; Ergebnis: Sc…
+8. **annullierung-schriftsatz-brief-memo-bausteine** — Für Annullierung: Schriftsatz-, Brief- und Memo-Bausteine: erstellt Entwurf mit Antrag, Beweis und Anlagen; Ergebnis: Sc…
+9. **ausnahmen-aussergewoehnliche-umstaende-02** — Für Außergewöhnliche Umstände prüfen (Art. 5 Abs. 3 VO 261/2004): ordnet Norm, Beweislast und Gegenargument; Ergebnis: P…
+10. **rechtsprechung-beweislast-vorverlegung-flug** — Für Rechtsprechung: Beweislast, Darlegungslast und Substantiierung: ordnet Norm, Beweislast und Gegenargument; Ergebnis:…
 
 ---
 
@@ -146,7 +146,7 @@ Ausgangspunkt für dieses Plugin: Anspruchsteller für anspruchsbegründende Tat
 
 ## Skill: `einstieg-routing`
 
-_Wenn es um Einstieg und Routing in Fluggastrechte geht: klärt Rolle, Ziel, Frist, Unterlagen und den passenden nächsten Fachskill; liefert eine Fristen- und Risikoampel mit Sofortschritten._
+_Für Einstieg und Routing: routet Rolle, Frist, Unterlagen und Fachschritt; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt. Fachgebiet: Fluggastrechte._
 
 # Einstieg und Routing
 
@@ -200,7 +200,7 @@ Konkret zu prüfen:
 
 ## Skill: `kaltstart-triage`
 
-_Wenn es um Kaltstart Triage in Fluggastrechte geht: klärt Rolle, Ziel, Frist, Unterlagen und den passenden nächsten Fachskill; liefert eine Fristen- und Risikoampel mit Sofortschritten._
+_Für Kaltstart Triage: routet Rolle, Frist, Unterlagen und Fachschritt; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt. Fachgebiet: Fluggastrechte._
 
 ## Direktstart: lesen, entscheiden, liefern
 
@@ -421,156 +421,59 @@ Zentrale EuGH-Entscheidungen (Stand Mai 2026; jeweils Volltext in curia.europa.e
 
 ---
 
-## Skill: `forderungsschreiben-formular-portal-und-einreichung`
+## Skill: `forderungsschreiben-erste-stufe`
 
-_Wenn es um Forderungsschreiben: Formular, Portal und Einreichungslogik in Fluggastrechte geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. Auswahlstichwort: Forderungsschreiben Formular Portal Und Einreichung; Arbeitsfeld: Fluggastrechte._
+_Erstellt das erste belastbare Forderungsschreiben nach der Fluggastrechteverordnung; ordnet Nichtbeförderung, Annullierung oder Verspätung ein, berechnet Ausgleich und Auslagen, prüft außergewöhnliche Umstände und liefert Forderungstabelle, Zahlungsfrist und Anlagenverzeichnis._
 
-# Forderungsschreiben: Formular, Portal und Einreichungslogik
+# Erstes Forderungsschreiben bei Fluggastrechten
 
-## Arbeitsweg
+## 1. Direktstart
 
-- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
-- Fristen und Eilrisiken zuerst markieren: VO 261/2004 keine Anmeldefrist, Verjährung 3 Jahre § 195 BGB, MontÜ Art. 35 zweijährige Ausschlussfrist, Anzeige Gepäckschaden 7/21 Tage Art. 31 MontÜ.
-- Tragende Normen verifizieren: EU-Fluggastrechte-VO 261/2004 Art. 5, 6, 7, 8, 9, EU-VO 2027/97 (Montrealer Übereinkommen), MontÜ Art. 17, 19, 22, BGB §§ 631, 651a ff. (Pauschalreise), LuftVG, AGB der Luftfahrtunternehmen — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
-- Zuständige Stelle bestimmen und Adressaten richtig wählen: Fluggast, Luftfahrtunternehmen (EU-Carrier / Non-EU), Reisebüro, SÖP (Schlichtungsstelle Öffentlicher Personenverkehr), LBA (Luftfahrt-Bundesamt), AG/LG am Sitz des Carriers oder Abflug/Ankunft.
-- Dokumente und Beweismittel sammeln und auf Lücken prüfen: Buchungsbestätigung, Boardingpass, Verspätungsbestätigung, Foto Anzeigetafel, Abrechnung Auslagen, Ablehnungsschreiben, Klageschrift AG, SÖP-Antrag — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
+Lies Buchungsbestätigung, Bordkarten, Flugstatus, Mitteilungen der Airline, Ersatzbeförderung und Belege vollständig. Erstelle danach sofort das versandfertige Forderungsschreiben. Frage nur nach fehlenden Angaben, die Anspruch, Betrag, Anspruchsgegner oder Fälligkeit verändern.
 
-## Spezialwissen: Forderungsschreiben: Formular, Portal und Einreichungslogik
-- **Normen-/Quellenanker:** VO, EG.
+## 2. Anspruchsroute
 
-## Fallweichen
-Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur Rückfragen, die die nächste Weiche verändern:
+2.1. Identifiziere ausführendes Luftfahrtunternehmen, Flugnummer, Datum, Abflug- und Endziel, einheitliche Buchung sowie planmäßige und tatsächliche Ankunftszeit.
 
-1. Welche Rolle hat die fragende Person und wer ist Gegenüber?
-2. Welches konkrete Ziel soll erreicht oder verhindert werden?
-3. Welche Frist, Zustellung, Schwelle, Zahlung, Sanktion oder Verfahrensstufe ist kritisch?
-4. Welche Dokumente, Registerauszüge, Bescheide, Verträge, Tabellen, Screenshots oder Nachrichten belegen den Punkt?
-5. Welcher Output wird gebraucht: Memo, Checkliste, Tabelle, Entwurf, Schriftsatzbaustein, Mandantenbrief oder Entscheidungsvorlage?
+2.2. Ordne den Vorgang als Nichtbeförderung, Annullierung, große Ankunftsverspätung oder Herabstufung ein. Prüfe räumlichen Anwendungsbereich und Ausnahmen der Verordnung (EG) Nummer 261/2004.
 
-## Arbeitsworkflow
-1. **Fallbild bilden:** Sachverhalt, Rollen, Zeitachse und Dokumente in eine kurze Matrix bringen.
-2. **Rechtsrahmen setzen:** Normen, Zuständigkeiten, Fristen, Formfragen und Verfahrensstand zum Themenfeld **Forderungsschreiben** prüfen.
-3. **Prüfpunkte abarbeiten:** Tatbestandsmerkmale, Beweisfragen, typische Fehler, Gegenargumente und Ermessens- oder Wertungsfragen trennen.
-4. **Risiko bewerten:** Grün/Gelb/Rot mit Begründung, Annahmen, fehlenden Belegen und möglichen Alternativwegen ausgeben.
-5. **Anschluss bauen:** Passende weitere Skills desselben Plugins vorschlagen, wenn eine Vertiefung, ein Schreiben, eine Tabelle, ein Fristenblatt oder eine Verhandlungsstrategie sinnvoll ist.
+2.3. Berechne die Ausgleichszahlung nach Artikel 7 anhand der maßgeblichen Entfernung und berücksichtige eine mögliche Kürzung nur bei nachgewiesener Ersatzbeförderung innerhalb der gesetzlichen Zeitfenster.
 
----
+2.4. Trenne Ausgleichszahlung von Erstattung oder anderweitiger Beförderung nach Artikel 8, Betreuungsleistungen nach Artikel 9 und konkret belegtem weiteren Schaden. Verrechne Positionen nicht ohne Rechtsgrund.
 
-## Skill: `rechtsprechung-beweislast-vorverlegung-flug`
+2.5. Prüfe außergewöhnliche Umstände nach Artikel 5 Absatz 3 als Einwendung des Luftfahrtunternehmens. Benenne, welche tatsächlichen Angaben und zumutbaren Maßnahmen die Airline darlegen muss; spekuliere nicht über die Ursache.
 
-_Wenn es um Rechtsprechung: Beweislast, Darlegungslast und Substantiierung in Fluggastrechte geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. Auswahlstichwort: Rechtsprechung Beweislast Vorverlegung Flug; Arbeitsfeld: Fluggastrechte._
+## 3. Rechtsprechungsanker
 
-# Rechtsprechung: Beweislast, Darlegungslast und Substantiierung
+3.1. EuGH, Urteil vom 22.12.2008 - C-549/07, Wallentin-Hermann: Technische Probleme sind grundsätzlich Teil der normalen Tätigkeit des Luftfahrtunternehmens und nur ausnahmsweise außergewöhnlich, wenn das Ereignis nicht Teil der normalen Tätigkeit und tatsächlich nicht beherrschbar ist.
 
-## Arbeitsweg
+3.2. EuGH, Urteil vom 17.09.2015 - C-257/14, van der Lans: Auch ein unerwarteter technischer Defekt begründet regelmäßig keinen außergewöhnlichen Umstand; anders kann es etwa bei versteckten Herstellungsfehlern, Sabotage oder Terrorakten liegen.
 
-- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
-- Fristen und Eilrisiken zuerst markieren: VO 261/2004 keine Anmeldefrist, Verjährung 3 Jahre § 195 BGB, MontÜ Art. 35 zweijährige Ausschlussfrist, Anzeige Gepäckschaden 7/21 Tage Art. 31 MontÜ.
-- Tragende Normen verifizieren: EU-Fluggastrechte-VO 261/2004 Art. 5, 6, 7, 8, 9, EU-VO 2027/97 (Montrealer Übereinkommen), MontÜ Art. 17, 19, 22, BGB §§ 631, 651a ff. (Pauschalreise), LuftVG, AGB der Luftfahrtunternehmen — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
-- Zuständige Stelle bestimmen und Adressaten richtig wählen: Fluggast, Luftfahrtunternehmen (EU-Carrier / Non-EU), Reisebüro, SÖP (Schlichtungsstelle Öffentlicher Personenverkehr), LBA (Luftfahrt-Bundesamt), AG/LG am Sitz des Carriers oder Abflug/Ankunft.
-- Dokumente und Beweismittel sammeln und auf Lücken prüfen: Buchungsbestätigung, Boardingpass, Verspätungsbestätigung, Foto Anzeigetafel, Abrechnung Auslagen, Ablehnungsschreiben, Klageschrift AG, SÖP-Antrag — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
+3.3. Nutze diese Entscheidungen nur, wenn der Tatsachenkern technische Ursachen betrifft. Bei Wetter, Flugsicherung, Streik oder Sicherheitslage ist die passende Fallgruppe gesondert zu prüfen.
 
-## Spezialwissen: Rechtsprechung: Beweislast, Darlegungslast und Substantiierung
-- **Normen-/Quellenanker:** VO, EG.
+## 4. Aufbau des Schreibens
 
-## Fallweichen
-Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur Rückfragen, die die nächste Weiche verändern:
+4.1. Betreff mit Fluggast, Buchungscode, Flugnummer, Flugdatum und Strecke.
 
-1. Welche Rolle hat die fragende Person und wer ist Gegenüber?
-2. Welches konkrete Ziel soll erreicht oder verhindert werden?
-3. Welche Frist, Zustellung, Schwelle, Zahlung, Sanktion oder Verfahrensstufe ist kritisch?
-4. Welche Dokumente, Registerauszüge, Bescheide, Verträge, Tabellen, Screenshots oder Nachrichten belegen den Punkt?
-5. Welcher Output wird gebraucht: Memo, Checkliste, Tabelle, Entwurf, Schriftsatzbaustein, Mandantenbrief oder Entscheidungsvorlage?
+4.2. Kurze Chronologie mit planmäßiger und tatsächlicher Ankunft, Umbuchung und bereits erbrachten Leistungen.
 
-## Arbeitsworkflow
-1. **Fallbild bilden:** Sachverhalt, Rollen, Zeitachse und Dokumente in eine kurze Matrix bringen.
-2. **Rechtsrahmen setzen:** Normen, Zuständigkeiten, Fristen, Formfragen und Verfahrensstand zum Themenfeld **Rechtsprechung** prüfen.
-3. **Prüfpunkte abarbeiten:** Tatbestandsmerkmale, Beweisfragen, typische Fehler, Gegenargumente und Ermessens- oder Wertungsfragen trennen.
-4. **Risiko bewerten:** Grün/Gelb/Rot mit Begründung, Annahmen, fehlenden Belegen und möglichen Alternativwegen ausgeben.
-5. **Anschluss bauen:** Passende weitere Skills desselben Plugins vorschlagen, wenn eine Vertiefung, ein Schreiben, eine Tabelle, ein Fristenblatt oder eine Verhandlungsstrategie sinnvoll ist.
+4.3. Anspruchsgrundlage und Subsumtion in wenigen belastbaren Absätzen.
 
----
+4.4. Forderungstabelle je Fluggast und Anspruchsposition, Gesamtbetrag, Bankverbindung und eindeutige Zahlungsfrist.
 
-## Skill: `tickets-risikoampel-und-gegenargumente`
+4.5. Anlagenverzeichnis mit Buchung, Reiseverlauf, Airline-Mitteilungen, Auslagenbelegen und gegebenenfalls Vollmacht.
 
-_Wenn es um Tickets: Risikoampel, Gegenargumente und Verteidigungslinien in Fluggastrechte geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten. Auswahlstichwort: Tickets Risikoampel Und Gegenargumente; Arbeitsfeld: Fluggastrechte._
+4.6. Bitte um konkrete Darlegung, falls sich die Airline auf außergewöhnliche Umstände beruft: Ereignis, betroffener Umlauf, zeitlicher Ablauf und ergriffene zumutbare Maßnahmen.
 
-# Tickets: Risikoampel, Gegenargumente und Verteidigungslinien
+## 5. Qualitätskontrolle
 
-## Arbeitsweg
-
-- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
-- Fristen und Eilrisiken zuerst markieren: VO 261/2004 keine Anmeldefrist, Verjährung 3 Jahre § 195 BGB, MontÜ Art. 35 zweijährige Ausschlussfrist, Anzeige Gepäckschaden 7/21 Tage Art. 31 MontÜ.
-- Tragende Normen verifizieren: EU-Fluggastrechte-VO 261/2004 Art. 5, 6, 7, 8, 9, EU-VO 2027/97 (Montrealer Übereinkommen), MontÜ Art. 17, 19, 22, BGB §§ 631, 651a ff. (Pauschalreise), LuftVG, AGB der Luftfahrtunternehmen — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
-- Zuständige Stelle bestimmen und Adressaten richtig wählen: Fluggast, Luftfahrtunternehmen (EU-Carrier / Non-EU), Reisebüro, SÖP (Schlichtungsstelle Öffentlicher Personenverkehr), LBA (Luftfahrt-Bundesamt), AG/LG am Sitz des Carriers oder Abflug/Ankunft.
-- Dokumente und Beweismittel sammeln und auf Lücken prüfen: Buchungsbestätigung, Boardingpass, Verspätungsbestätigung, Foto Anzeigetafel, Abrechnung Auslagen, Ablehnungsschreiben, Klageschrift AG, SÖP-Antrag — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
-
-## Spezialwissen: Tickets: Risikoampel, Gegenargumente und Verteidigungslinien
-- **Normen-/Quellenanker:** VO, EG.
-
-## Fallweichen
-Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur Rückfragen, die die nächste Weiche verändern:
-
-1. Welche Rolle hat die fragende Person und wer ist Gegenüber?
-2. Welches konkrete Ziel soll erreicht oder verhindert werden?
-3. Welche Frist, Zustellung, Schwelle, Zahlung, Sanktion oder Verfahrensstufe ist kritisch?
-4. Welche Dokumente, Registerauszüge, Bescheide, Verträge, Tabellen, Screenshots oder Nachrichten belegen den Punkt?
-5. Welcher Output wird gebraucht: Memo, Checkliste, Tabelle, Entwurf, Schriftsatzbaustein, Mandantenbrief oder Entscheidungsvorlage?
-
-## Arbeitsworkflow
-1. **Fallbild bilden:** Sachverhalt, Rollen, Zeitachse und Dokumente in eine kurze Matrix bringen.
-2. **Rechtsrahmen setzen:** Normen, Zuständigkeiten, Fristen, Formfragen und Verfahrensstand zum Themenfeld **Tickets** prüfen.
-3. **Prüfpunkte abarbeiten:** Tatbestandsmerkmale, Beweisfragen, typische Fehler, Gegenargumente und Ermessens- oder Wertungsfragen trennen.
-4. **Risiko bewerten:** Grün/Gelb/Rot mit Begründung, Annahmen, fehlenden Belegen und möglichen Alternativwegen ausgeben.
-5. **Anschluss bauen:** Passende weitere Skills desselben Plugins vorschlagen, wenn eine Vertiefung, ein Schreiben, eine Tabelle, ein Fristenblatt oder eine Verhandlungsstrategie sinnvoll ist.
-
----
-
-## Skill: `rechtsprechung-beweislast-darlegungslast`
-
-_Wenn es um Rechtsprechung: Beweislast, Darlegungslast und Substantiierung in Fluggastrechte geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. Auswahlstichwort: Rechtsprechung Beweislast Darlegungslast; Arbeitsfeld: Fluggastrechte._
-
-# Rechtsprechung: Beweislast, Darlegungslast und Substantiierung
-
-## Normenanker
-
-Vor einer rechtlichen Schlussfolgerung diese Anker am aktuellen Normtext prüfen; Spezial- und Landesrecht nur hinzunehmen, wenn es den konkreten Auftrag traegt:
-
-- `§ 241 Abs. 2 BGB` — Rücksichtnahme-, Schutz- und Organisationspflichten.
-- `§ 242 BGB` — Treu und Glauben als Korrektiv enger Klausel- und Anspruchsarbeit.
-- `§ 280 Abs. 1 BGB` — Pflichtverletzung, Vertretenmuessen, Schaden.
-- `§ 286 Abs. 1 BGB` — Verzug und Fristlogik.
-- `§ 195 BGB` — regelmäßige Verjährung.
-- `§ 199 Abs. 1 BGB` — Beginn der regelmäßigen Verjährung.
-- `§ 253 Abs. 2 ZPO` — Bestimmtheit von Antrag und Klagegrund.
-- `§ 138 Abs. 1 ZPO` — Wahrheitspflicht und vollstaendiger Tatsachenvortrag.
-
-Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei prüfbare Quelle vorliegen; keine BeckRS-/juris-Blindzitate verwenden.
-
-## Spezialwissen: Rechtsprechung: Beweislast, Darlegungslast und Substantiierung
-- **Normen-/Quellenanker:** VO, EG.
-
-## Fallweichen
-Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur Rückfragen, die die nächste Weiche verändern:
-
-1. Welche Rolle hat die fragende Person und wer ist Gegenüber?
-2. Welches konkrete Ziel soll erreicht oder verhindert werden?
-3. Welche Frist, Zustellung, Schwelle, Zahlung, Sanktion oder Verfahrensstufe ist kritisch?
-4. Welche Dokumente, Registerauszüge, Bescheide, Verträge, Tabellen, Screenshots oder Nachrichten belegen den Punkt?
-5. Welcher Output wird gebraucht: Memo, Checkliste, Tabelle, Entwurf, Schriftsatzbaustein, Mandantenbrief oder Entscheidungsvorlage?
-
-## Arbeitsworkflow
-1. **Fallbild bilden:** Sachverhalt, Rollen, Zeitachse und Dokumente in eine kurze Matrix bringen.
-2. **Rechtsrahmen setzen:** Normen, Zuständigkeiten, Fristen, Formfragen und Verfahrensstand zum Themenfeld **Rechtsprechung** prüfen.
-3. **Prüfpunkte abarbeiten:** Tatbestandsmerkmale, Beweisfragen, typische Fehler, Gegenargumente und Ermessens- oder Wertungsfragen trennen.
-4. **Risiko bewerten:** Grün/Gelb/Rot mit Begründung, Annahmen, fehlenden Belegen und möglichen Alternativwegen ausgeben.
-5. **Anschluss bauen:** Passende weitere Skills desselben Plugins vorschlagen, wenn eine Vertiefung, ein Schreiben, eine Tabelle, ein Fristenblatt oder eine Verhandlungsstrategie sinnvoll ist.
+Das Schreiben darf keine nicht belegte Verspätungsursache, kein erfundenes Aktenzeichen und keine pauschalen Zusatzkosten enthalten. Beträge müssen fluggastbezogen nachrechenbar sein. Gib ein versandfertiges Schreiben ohne interne Arbeitsnotizen sowie daneben eine knappe Liste noch fehlender Belege aus.
 
 ---
 
 ## Skill: `ausgleich-internationaler-bezug-und-schnittstellen`
 
-_Wenn es um Ausgleich: Internationaler Bezug und Schnittstellen in Fluggastrechte geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. Auswahlstichwort: Ausgleich Internationaler Bezug Und Schnittstellen; Arbeitsfeld: Fluggastrechte._
+_Für Ausgleich: Internationaler Bezug und Schnittstellen: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Schnittstellenkarte mit Zuständigkeits- und Nachweisfragen. Fachgebiet: Fluggastrechte. Route: ausgleich-internationaler-bezug-und-schnittstellen._
 
 # Ausgleich: Internationaler Bezug und Schnittstellen
 
@@ -603,9 +506,128 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 
 ---
 
+## Skill: `ausgleich-internationaler-bezug-schnittstellen`
+
+_Für Ausgleich: Internationaler Bezug und Schnittstellen: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Schnittstellenkarte mit Zuständigkeits- und Nachweisfragen. Fachgebiet: Fluggastrechte. Route: ausgleich-internationaler-bezug-schnittstellen._
+
+# Ausgleich: Internationaler Bezug und Schnittstellen
+
+## Normenanker
+
+Vor einer rechtlichen Schlussfolgerung diese Anker am aktuellen Normtext prüfen; Spezial- und Landesrecht nur hinzunehmen, wenn es den konkreten Auftrag traegt:
+
+- `§ 241 Abs. 2 BGB` — Rücksichtnahme-, Schutz- und Organisationspflichten.
+- `§ 242 BGB` — Treu und Glauben als Korrektiv enger Klausel- und Anspruchsarbeit.
+- `§ 280 Abs. 1 BGB` — Pflichtverletzung, Vertretenmuessen, Schaden.
+- `§ 286 Abs. 1 BGB` — Verzug und Fristlogik.
+- `§ 195 BGB` — regelmäßige Verjährung.
+- `§ 199 Abs. 1 BGB` — Beginn der regelmäßigen Verjährung.
+- `§ 253 Abs. 2 ZPO` — Bestimmtheit von Antrag und Klagegrund.
+- `§ 138 Abs. 1 ZPO` — Wahrheitspflicht und vollstaendiger Tatsachenvortrag.
+
+Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei prüfbare Quelle vorliegen; keine BeckRS-/juris-Blindzitate verwenden.
+
+## Spezialwissen: Ausgleich: Internationaler Bezug und Schnittstellen
+- **Normen-/Quellenanker:** VO, EG.
+
+## Fallweichen
+Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur Rückfragen, die die nächste Weiche verändern:
+
+1. Welche Rolle hat die fragende Person und wer ist Gegenüber?
+2. Welches konkrete Ziel soll erreicht oder verhindert werden?
+3. Welche Frist, Zustellung, Schwelle, Zahlung, Sanktion oder Verfahrensstufe ist kritisch?
+4. Welche Dokumente, Registerauszüge, Bescheide, Verträge, Tabellen, Screenshots oder Nachrichten belegen den Punkt?
+5. Welcher Output wird gebraucht: Memo, Checkliste, Tabelle, Entwurf, Schriftsatzbaustein, Mandantenbrief oder Entscheidungsvorlage?
+
+## Arbeitsworkflow
+1. **Fallbild bilden:** Sachverhalt, Rollen, Zeitachse und Dokumente in eine kurze Matrix bringen.
+2. **Rechtsrahmen setzen:** Normen, Zuständigkeiten, Fristen, Formfragen und Verfahrensstand zum Themenfeld **Ausgleich** prüfen.
+3. **Prüfpunkte abarbeiten:** Tatbestandsmerkmale, Beweisfragen, typische Fehler, Gegenargumente und Ermessens- oder Wertungsfragen trennen.
+4. **Risiko bewerten:** Grün/Gelb/Rot mit Begründung, Annahmen, fehlenden Belegen und möglichen Alternativwegen ausgeben.
+5. **Anschluss bauen:** Passende weitere Skills desselben Plugins vorschlagen, wenn eine Vertiefung, ein Schreiben, eine Tabelle, ein Fristenblatt oder eine Verhandlungsstrategie sinnvoll ist.
+
+---
+
+## Skill: `annullierung-schriftsatz-brief-und-memo-bausteine`
+
+_Für Annullierung: Schriftsatz-, Brief- und Memo-Bausteine: erstellt Entwurf mit Antrag, Beweis und Anlagen; Ergebnis: Schriftsatz mit Begründungs- und Anlagenlogik. Fachgebiet: Fluggastrechte. Route: annullierung-schriftsatz-brief-und-memo-bausteine._
+
+# Annullierung: Schriftsatz-, Brief- und Memo-Bausteine
+
+## Arbeitsweg
+
+- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
+- Fristen und Eilrisiken zuerst markieren: VO 261/2004 keine Anmeldefrist, Verjährung 3 Jahre § 195 BGB, MontÜ Art. 35 zweijährige Ausschlussfrist, Anzeige Gepäckschaden 7/21 Tage Art. 31 MontÜ.
+- Tragende Normen verifizieren: EU-Fluggastrechte-VO 261/2004 Art. 5, 6, 7, 8, 9, EU-VO 2027/97 (Montrealer Übereinkommen), MontÜ Art. 17, 19, 22, BGB §§ 631, 651a ff. (Pauschalreise), LuftVG, AGB der Luftfahrtunternehmen — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
+- Zuständige Stelle bestimmen und Adressaten richtig wählen: Fluggast, Luftfahrtunternehmen (EU-Carrier / Non-EU), Reisebüro, SÖP (Schlichtungsstelle Öffentlicher Personenverkehr), LBA (Luftfahrt-Bundesamt), AG/LG am Sitz des Carriers oder Abflug/Ankunft.
+- Dokumente und Beweismittel sammeln und auf Lücken prüfen: Buchungsbestätigung, Boardingpass, Verspätungsbestätigung, Foto Anzeigetafel, Abrechnung Auslagen, Ablehnungsschreiben, Klageschrift AG, SÖP-Antrag — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
+
+## Spezialwissen: Annullierung: Schriftsatz-, Brief- und Memo-Bausteine
+- **Normen-/Quellenanker:** VO, EG.
+
+## Fallweichen
+Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur Rückfragen, die die nächste Weiche verändern:
+
+1. Welche Rolle hat die fragende Person und wer ist Gegenüber?
+2. Welches konkrete Ziel soll erreicht oder verhindert werden?
+3. Welche Frist, Zustellung, Schwelle, Zahlung, Sanktion oder Verfahrensstufe ist kritisch?
+4. Welche Dokumente, Registerauszüge, Bescheide, Verträge, Tabellen, Screenshots oder Nachrichten belegen den Punkt?
+5. Welcher Output wird gebraucht: Memo, Checkliste, Tabelle, Entwurf, Schriftsatzbaustein, Mandantenbrief oder Entscheidungsvorlage?
+
+## Arbeitsworkflow
+1. **Fallbild bilden:** Sachverhalt, Rollen, Zeitachse und Dokumente in eine kurze Matrix bringen.
+2. **Rechtsrahmen setzen:** Normen, Zuständigkeiten, Fristen, Formfragen und Verfahrensstand zum Themenfeld **Annullierung** prüfen.
+3. **Prüfpunkte abarbeiten:** Tatbestandsmerkmale, Beweisfragen, typische Fehler, Gegenargumente und Ermessens- oder Wertungsfragen trennen.
+4. **Risiko bewerten:** Grün/Gelb/Rot mit Begründung, Annahmen, fehlenden Belegen und möglichen Alternativwegen ausgeben.
+5. **Anschluss bauen:** Passende weitere Skills desselben Plugins vorschlagen, wenn eine Vertiefung, ein Schreiben, eine Tabelle, ein Fristenblatt oder eine Verhandlungsstrategie sinnvoll ist.
+
+---
+
+## Skill: `annullierung-schriftsatz-brief-memo-bausteine`
+
+_Für Annullierung: Schriftsatz-, Brief- und Memo-Bausteine: erstellt Entwurf mit Antrag, Beweis und Anlagen; Ergebnis: Schriftsatz mit Begründungs- und Anlagenlogik. Fachgebiet: Fluggastrechte. Route: annullierung-schriftsatz-brief-memo-bausteine._
+
+# Annullierung: Schriftsatz-, Brief- und Memo-Bausteine
+
+## Normenanker
+
+Vor einer rechtlichen Schlussfolgerung diese Anker am aktuellen Normtext prüfen; Spezial- und Landesrecht nur hinzunehmen, wenn es den konkreten Auftrag traegt:
+
+- `§ 241 Abs. 2 BGB` — Rücksichtnahme-, Schutz- und Organisationspflichten.
+- `§ 242 BGB` — Treu und Glauben als Korrektiv enger Klausel- und Anspruchsarbeit.
+- `§ 280 Abs. 1 BGB` — Pflichtverletzung, Vertretenmuessen, Schaden.
+- `§ 286 Abs. 1 BGB` — Verzug und Fristlogik.
+- `§ 195 BGB` — regelmäßige Verjährung.
+- `§ 199 Abs. 1 BGB` — Beginn der regelmäßigen Verjährung.
+- `§ 253 Abs. 2 ZPO` — Bestimmtheit von Antrag und Klagegrund.
+- `§ 138 Abs. 1 ZPO` — Wahrheitspflicht und vollstaendiger Tatsachenvortrag.
+
+Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei prüfbare Quelle vorliegen; keine BeckRS-/juris-Blindzitate verwenden.
+
+## Spezialwissen: Annullierung: Schriftsatz-, Brief- und Memo-Bausteine
+- **Normen-/Quellenanker:** VO, EG.
+
+## Fallweichen
+Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur Rückfragen, die die nächste Weiche verändern:
+
+1. Welche Rolle hat die fragende Person und wer ist Gegenüber?
+2. Welches konkrete Ziel soll erreicht oder verhindert werden?
+3. Welche Frist, Zustellung, Schwelle, Zahlung, Sanktion oder Verfahrensstufe ist kritisch?
+4. Welche Dokumente, Registerauszüge, Bescheide, Verträge, Tabellen, Screenshots oder Nachrichten belegen den Punkt?
+5. Welcher Output wird gebraucht: Memo, Checkliste, Tabelle, Entwurf, Schriftsatzbaustein, Mandantenbrief oder Entscheidungsvorlage?
+
+## Arbeitsworkflow
+1. **Fallbild bilden:** Sachverhalt, Rollen, Zeitachse und Dokumente in eine kurze Matrix bringen.
+2. **Rechtsrahmen setzen:** Normen, Zuständigkeiten, Fristen, Formfragen und Verfahrensstand zum Themenfeld **Annullierung** prüfen.
+3. **Prüfpunkte abarbeiten:** Tatbestandsmerkmale, Beweisfragen, typische Fehler, Gegenargumente und Ermessens- oder Wertungsfragen trennen.
+4. **Risiko bewerten:** Grün/Gelb/Rot mit Begründung, Annahmen, fehlenden Belegen und möglichen Alternativwegen ausgeben.
+5. **Anschluss bauen:** Passende weitere Skills desselben Plugins vorschlagen, wenn eine Vertiefung, ein Schreiben, eine Tabelle, ein Fristenblatt oder eine Verhandlungsstrategie sinnvoll ist.
+
+---
+
 ## Skill: `ausnahmen-aussergewoehnliche-umstaende-02`
 
-_Wenn es um Außergewöhnliche Umstände prüfen (Art. 5 Abs. 3 VO 261/2004) in Fluggastrechte geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. Auswahlstichwort: Ausnahmen Aussergewoehnliche Umstaende 02; Arbeitsfeld: Fluggastrechte._
+_Für Außergewöhnliche Umstände prüfen (Art. 5 Abs. 3 VO 261/2004): ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt. Fachgebiet: Fluggastrechte. Route: ausnahmen-aussergewoehnliche-umstaende-02._
 
 # Außergewöhnliche Umstände prüfen (Art. 5 Abs. 3 VO 261/2004)
 
@@ -710,28 +732,21 @@ Konkret zu prüfen:
 
 ---
 
-## Skill: `tickets-risikoampel-gegenargumente`
+## Skill: `rechtsprechung-beweislast-vorverlegung-flug`
 
-_Wenn es um Tickets: Risikoampel, Gegenargumente und Verteidigungslinien in Fluggastrechte geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten. Auswahlstichwort: Tickets Risikoampel Gegenargumente; Arbeitsfeld: Fluggastrechte._
+_Für Rechtsprechung: Beweislast, Darlegungslast und Substantiierung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Beweislast- und Substantiierungsmatrix. Fachgebiet: Fluggastrechte. Route: rechtsprechung-beweislast-vorverlegung-flug._
 
-# Tickets: Risikoampel, Gegenargumente und Verteidigungslinien
+# Rechtsprechung: Beweislast, Darlegungslast und Substantiierung
 
-## Normenanker
+## Arbeitsweg
 
-Vor einer rechtlichen Schlussfolgerung diese Anker am aktuellen Normtext prüfen; Spezial- und Landesrecht nur hinzunehmen, wenn es den konkreten Auftrag traegt:
+- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
+- Fristen und Eilrisiken zuerst markieren: VO 261/2004 keine Anmeldefrist, Verjährung 3 Jahre § 195 BGB, MontÜ Art. 35 zweijährige Ausschlussfrist, Anzeige Gepäckschaden 7/21 Tage Art. 31 MontÜ.
+- Tragende Normen verifizieren: EU-Fluggastrechte-VO 261/2004 Art. 5, 6, 7, 8, 9, EU-VO 2027/97 (Montrealer Übereinkommen), MontÜ Art. 17, 19, 22, BGB §§ 631, 651a ff. (Pauschalreise), LuftVG, AGB der Luftfahrtunternehmen — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
+- Zuständige Stelle bestimmen und Adressaten richtig wählen: Fluggast, Luftfahrtunternehmen (EU-Carrier / Non-EU), Reisebüro, SÖP (Schlichtungsstelle Öffentlicher Personenverkehr), LBA (Luftfahrt-Bundesamt), AG/LG am Sitz des Carriers oder Abflug/Ankunft.
+- Dokumente und Beweismittel sammeln und auf Lücken prüfen: Buchungsbestätigung, Boardingpass, Verspätungsbestätigung, Foto Anzeigetafel, Abrechnung Auslagen, Ablehnungsschreiben, Klageschrift AG, SÖP-Antrag — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
-- `§ 241 Abs. 2 BGB` — Rücksichtnahme-, Schutz- und Organisationspflichten.
-- `§ 242 BGB` — Treu und Glauben als Korrektiv enger Klausel- und Anspruchsarbeit.
-- `§ 280 Abs. 1 BGB` — Pflichtverletzung, Vertretenmuessen, Schaden.
-- `§ 286 Abs. 1 BGB` — Verzug und Fristlogik.
-- `§ 195 BGB` — regelmäßige Verjährung.
-- `§ 199 Abs. 1 BGB` — Beginn der regelmäßigen Verjährung.
-- `§ 253 Abs. 2 ZPO` — Bestimmtheit von Antrag und Klagegrund.
-- `§ 138 Abs. 1 ZPO` — Wahrheitspflicht und vollstaendiger Tatsachenvortrag.
-
-Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei prüfbare Quelle vorliegen; keine BeckRS-/juris-Blindzitate verwenden.
-
-## Spezialwissen: Tickets: Risikoampel, Gegenargumente und Verteidigungslinien
+## Spezialwissen: Rechtsprechung: Beweislast, Darlegungslast und Substantiierung
 - **Normen-/Quellenanker:** VO, EG.
 
 ## Fallweichen
@@ -745,7 +760,7 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 
 ## Arbeitsworkflow
 1. **Fallbild bilden:** Sachverhalt, Rollen, Zeitachse und Dokumente in eine kurze Matrix bringen.
-2. **Rechtsrahmen setzen:** Normen, Zuständigkeiten, Fristen, Formfragen und Verfahrensstand zum Themenfeld **Tickets** prüfen.
+2. **Rechtsrahmen setzen:** Normen, Zuständigkeiten, Fristen, Formfragen und Verfahrensstand zum Themenfeld **Rechtsprechung** prüfen.
 3. **Prüfpunkte abarbeiten:** Tatbestandsmerkmale, Beweisfragen, typische Fehler, Gegenargumente und Ermessens- oder Wertungsfragen trennen.
 4. **Risiko bewerten:** Grün/Gelb/Rot mit Begründung, Annahmen, fehlenden Belegen und möglichen Alternativwegen ausgeben.
 5. **Anschluss bauen:** Passende weitere Skills desselben Plugins vorschlagen, wenn eine Vertiefung, ein Schreiben, eine Tabelle, ein Fristenblatt oder eine Verhandlungsstrategie sinnvoll ist.

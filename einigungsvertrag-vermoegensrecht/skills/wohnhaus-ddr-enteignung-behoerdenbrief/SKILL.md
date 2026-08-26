@@ -1,6 +1,6 @@
 ---
 name: wohnhaus-ddr-enteignung-behoerdenbrief
-description: "Wenn es um Wohnhaus Ddr Enteignung Behördenbrief in Einigungsvertrag und Vermögensrecht geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
+description: "Für Wohnhaus Ddr Enteignung Behördenbrief: erstellt Entwurf mit Antrag, Beweis und Anlagen; Ergebnis: Schriftsatz mit Begründungs- und Anlagenlogik. Fachgebiet: Einigungsvertrag und Vermögensrecht. Route: wohnhaus-ddr-enteignung-behoerdenbrief."
 ---
 
 # Wohnhaus Ddr Enteignung Behördenbrief

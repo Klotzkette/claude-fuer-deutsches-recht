@@ -1,6 +1,6 @@
 ---
 name: bilanzberichtigung-4-abs-2-estg
-description: "Wenn es um Bilanzberichtigung und Bilanzaenderung — Paragraf 4 Abs. 2 EStG in Steuerrecht – Steuerberater und Anwälte geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
+description: "Für Bilanzberichtigung und Bilanzänderung — Paragraf 4 Abs. 2 EStG: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Bilanzberichtigung und Bilanzaenderung — § 4 Abs. 2 EStG

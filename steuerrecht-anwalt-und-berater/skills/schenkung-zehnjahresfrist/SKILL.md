@@ -1,6 +1,6 @@
 ---
 name: schenkung-zehnjahresfrist
-description: "Wenn es um Schenkungen und Zehnjahresfrist — Paragraf 14 ErbStG Strategie der Generationenfolge in Steuerrecht – Steuerberater und Anwälte geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Schenkungen und Zehnjahresfrist — Paragraf 14 ErbStG Strategie der Generationenfolge: prüft Frist, Form, Zuständigkeit und Eilbedarf; Ergebnis: Fristen- und Risikoampel."
 ---
 
 # Schenkungen und Zehnjahresfrist — § 14 ErbStG Strategie der Generationenfolge

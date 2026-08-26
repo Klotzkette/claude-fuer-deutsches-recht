@@ -1,6 +1,6 @@
 ---
 name: kfe-fruherkennungssystem-bauleiter
-description: "Wenn es um KFE: Frueherkennungssystem in Krisenfrüherkennung und StaRUG-Management geht: entwickelt Verhandlungsziel, Vergleichskorridor und Eskalationspfad; liefert eine Verhandlungs- oder Eskalationslinie mit Optionen."
+description: "Für KFE: Früherkennungssystem: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # KFE: Frueherkennungssystem

@@ -1,6 +1,6 @@
 ---
 name: ins-030-dividenden-nderung
-description: "Wenn es um Insiderrecht: Dividendenänderung in Insiderrecht Compliance geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Beweislast- und Substantiierungsmatrix."
+description: "Für Insiderrecht: Dividendenänderung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Insiderrecht: Dividendenänderung

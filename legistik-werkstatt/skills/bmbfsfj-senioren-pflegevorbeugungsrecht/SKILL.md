@@ -1,6 +1,6 @@
 ---
 name: bmbfsfj-senioren-pflegevorbeugungsrecht
-description: "Wenn es um Seniorenrecht und Pflegevorbeugung (BMBFSFJ) in Legistik-Werkstatt geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen. Auswahlstichwort: Bmbfsfj Senioren Pflegevorbeugungsrecht; Arbeitsfeld: Legistik-Werkstatt."
+description: "Für Seniorenrecht und Pflegevorbeugung (BMBFSFJ): ordnet Norm, Beweislast und Gegenargument; Ergebnis: Schnittstellenkarte mit Zuständigkeits- und Nachweisfragen. Fachgebiet: Legistik-Werkstatt. Route: bmbfsfj-senioren-pflegevorbeugungsrecht."
 ---
 
 # Seniorenrecht und Pflegevorbeugung (BMBFSFJ)

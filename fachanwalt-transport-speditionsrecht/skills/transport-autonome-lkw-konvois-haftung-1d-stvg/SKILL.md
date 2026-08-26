@@ -1,6 +1,6 @@
 ---
 name: transport-autonome-lkw-konvois-haftung-1d-stvg
-description: "Wenn es um Transport Autonome Lkw Konvois Haftung 1d Stvg in Fachanwalt Transport Speditionsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Transport Autonome Lkw Konvois Haftung 1d Stvg: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Haftung bei autonomen LKW-Konvois nach § 1d StVG analysieren: Fahrzeughalterhaftung, KI-Systemfehler

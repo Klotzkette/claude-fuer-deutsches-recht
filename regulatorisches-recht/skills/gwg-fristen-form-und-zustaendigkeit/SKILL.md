@@ -1,6 +1,6 @@
 ---
 name: gwg-fristen-form-und-zustaendigkeit
-description: "Wenn es um GwG: Fristen, Form, Zuständigkeit und Rechtsweg in Regulatorisches Recht – Plugin für deutsches geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für GwG: Fristen, Form, Zuständigkeit und Rechtsweg: prüft Frist, Form, Zuständigkeit und Eilbedarf; Ergebnis: Fristen- und Risikoampel."
 ---
 
 # GwG: Fristen, Form, Zuständigkeit und Rechtsweg

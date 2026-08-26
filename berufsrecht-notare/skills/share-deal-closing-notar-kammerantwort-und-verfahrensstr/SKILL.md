@@ -1,6 +1,6 @@
 ---
 name: share-deal-closing-notar-kammerantwort-und-verfahrensstr
-description: "Wenn es um Share Deal Closing Notar Kammerantwort Und Verfahrensstr in Berufsrecht Notare geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Verhandlungs- oder Eskalationslinie mit Optionen."
+description: "Für Share Deal Closing Notar Kammerantwort und Verfahrensstr: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Notare: share deal closing notar - Kammerantwort mit Verfahrensstrategie, Tonlage und Belegplan

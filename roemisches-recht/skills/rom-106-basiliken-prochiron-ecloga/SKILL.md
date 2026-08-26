@@ -1,6 +1,6 @@
 ---
 name: rom-106-basiliken-prochiron-ecloga
-description: "Wenn es um Basiliken, Prochiron und Ekloge in Römisches Recht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. Auswahlstichwort: Rom 106 Basiliken Prochiron Ecloga; Arbeitsfeld: Römisches Recht."
+description: "Für Basiliken, Prochiron und Ekloge: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt. Fachgebiet: Römisches Recht. Route: rom-106-basiliken-prochiron-ecloga."
 ---
 
 # Basiliken, Prochiron und Ekloge

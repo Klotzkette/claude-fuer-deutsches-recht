@@ -1,6 +1,6 @@
 ---
 name: vertragsgenerator-musik-release
-description: "Wenn es um Musikvertrag und Release-Paket in Urheberrecht DE EU geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen."
+description: "Für Musikvertrag und Release-Paket: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Musikvertrag und Release-Paket

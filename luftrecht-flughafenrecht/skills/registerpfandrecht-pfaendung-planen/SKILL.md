@@ -1,6 +1,6 @@
 ---
 name: registerpfandrecht-pfaendung-planen
-description: "Wenn es um Registerpfandrecht – Pfändung planen in Luftrecht und Flughafenrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Registerpfandrecht – Pfändung planen: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Einreichungsplan mit Form- und Nachweischeck."
 ---
 
 # Registerpfandrecht – Pfändung planen

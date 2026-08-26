@@ -1,6 +1,6 @@
 ---
 name: ausnahmen-streitwertgrenze-23-nr-2-gvg
-description: "Wenn es um Wann ist das Amtsgericht **immer** zuständig (egal wie hoch der Streitwert)? in selbstvertreter-amtsgericht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
+description: "Für Wann ist das Amtsgericht **immer** zuständig (egal wie hoch der Streitwert)?: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Wann ist das Amtsgericht **immer** zuständig (egal wie hoch der Streitwert)?

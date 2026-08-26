@@ -1,6 +1,6 @@
 ---
 name: dsfa-stakeholder-konsultation-art-35-9
-description: "Wenn es um Stakeholder-Konsultation nach Art. 35 Abs. 9 DSGVO in Datenschutzrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Stakeholder-Konsultation nach Art. 35 Abs. 9 DSGVO: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Stakeholder-Konsultation nach Art. 35 Abs. 9 DSGVO

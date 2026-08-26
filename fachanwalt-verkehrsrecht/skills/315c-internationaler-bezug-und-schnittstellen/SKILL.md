@@ -1,6 +1,6 @@
 ---
 name: 315c-internationaler-bezug-und-schnittstellen
-description: "Wenn es um 315C: Internationaler Bezug und Schnittstellen in Fachanwalt Verkehrsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für 315C: Internationaler Bezug und Schnittstellen: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Schnittstellenkarte mit Zuständigkeits- und Nachweisfragen."
 ---
 
 # 315C: Internationaler Bezug und Schnittstellen

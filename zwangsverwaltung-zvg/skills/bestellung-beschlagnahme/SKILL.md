@@ -1,6 +1,6 @@
 ---
 name: bestellung-beschlagnahme
-description: "Wenn es um Bestellung und Beschlagnahme in ZVG-Zwangsverwaltung - Verwalter-Cockpit geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Bestellung und Beschlagnahme: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Bestellung und Beschlagnahme

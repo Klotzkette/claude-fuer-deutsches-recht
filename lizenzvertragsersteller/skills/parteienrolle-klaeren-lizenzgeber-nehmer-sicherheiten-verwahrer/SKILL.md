@@ -1,6 +1,6 @@
 ---
 name: parteienrolle-klaeren-lizenzgeber-nehmer-sicherheiten-verwahrer
-description: "Wenn es um Parteienrollen klären in Lizenzvertragsersteller geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
+description: "Für Parteienrollen klären: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Parteienrollen klären

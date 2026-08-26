@@ -1,6 +1,6 @@
 ---
 name: e-commerce-employment-creatives
-description: "Wenn es um E Commerce Widerruf Fashion in fashion-law-moderecht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
+description: "Für E Commerce Widerruf Fashion: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # E Commerce Widerruf Fashion

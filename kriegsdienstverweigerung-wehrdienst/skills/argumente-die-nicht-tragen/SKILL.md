@@ -1,6 +1,6 @@
 ---
 name: argumente-die-nicht-tragen
-description: "Wenn es um Argumente die nicht tragen in Kriegsdienstverweigerung und Wehrdienst geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Argumente die nicht tragen: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Argumente die nicht tragen

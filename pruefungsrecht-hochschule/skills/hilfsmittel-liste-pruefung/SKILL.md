@@ -1,6 +1,6 @@
 ---
 name: hilfsmittel-liste-pruefung
-description: "Wenn es um Hilfsmittelliste Prüfung in Prüfungsrecht an Hochschulen und Universitäten geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Hilfsmittelliste Prüfung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Tatbestands- oder Anspruchsmatrix."
 ---
 
 # Hilfsmittelliste Prüfung

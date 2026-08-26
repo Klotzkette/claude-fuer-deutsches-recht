@@ -1,6 +1,6 @@
 ---
 name: ki-incident-management-art-73
-description: "Wenn es um digitale Werkzeuge Incident-Management in diesem Spezialbereich geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Beweislast- und Substantiierungsmatrix."
+description: "Für digitale Werkzeuge Incident-Management: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # KI Incident-Management

@@ -1,6 +1,6 @@
 ---
 name: strafantrag-form-frist
-description: "Wenn es um Strafantrag Form, Frist, Rücknahme in Strafanzeige-Vorbereiter geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Strafantrag Form, Frist, Rücknahme: erstellt Entwurf mit Antrag, Beweis und Anlagen; Ergebnis: Fristen- und Risikoampel."
 ---
 
 # Strafantrag Form, Frist, Rücknahme

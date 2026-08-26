@@ -1,6 +1,6 @@
 ---
 name: rentenantrag-startdatum-auswanderung-rente
-description: "Wenn es um rentenantrag-fristen-und-startdatum in Rentenprüfer geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für rentenantrag-fristen-und-startdatum: erstellt Entwurf mit Antrag, Beweis und Anlagen; Ergebnis: Schriftsatz mit Begründungs- und Anlagenlogik."
 ---
 
 # rentenantrag-fristen-und-startdatum

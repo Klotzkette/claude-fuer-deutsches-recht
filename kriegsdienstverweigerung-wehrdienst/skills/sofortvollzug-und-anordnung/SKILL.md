@@ -1,6 +1,6 @@
 ---
 name: sofortvollzug-und-anordnung
-description: "Wenn es um Sofortvollzug Paragraf 80 VwGO in Kriegsdienstverweigerung und Wehrdienst geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Sofortvollzug Paragraf 80 VwGO: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Sofortvollzug § 80 VwGO

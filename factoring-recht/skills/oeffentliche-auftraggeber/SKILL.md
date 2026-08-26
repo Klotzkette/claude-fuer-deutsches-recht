@@ -1,6 +1,6 @@
 ---
 name: oeffentliche-auftraggeber
-description: "Wenn es um Öffentliche Auftraggeber Abtretung Zustimmung Haushaltsrecht in Factoring-Recht geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
+description: "Für Öffentliche Auftraggeber Abtretung Zustimmung Haushaltsrecht: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Öffentliche Auftraggeber Abtretung Zustimmung Haushaltsrecht

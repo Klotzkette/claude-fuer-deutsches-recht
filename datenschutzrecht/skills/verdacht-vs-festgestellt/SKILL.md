@@ -1,6 +1,6 @@
 ---
 name: verdacht-vs-festgestellt
-description: "Wenn es um Verdacht versus festgestellte Verletzung — Kenntnisbegriff Art. 33 DSGVO in Datenschutzrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Verdacht versus festgestellte Verletzung — Kenntnisbegriff Art. 33 DSGVO: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Verdacht versus festgestellte Verletzung — Kenntnisbegriff Art. 33 DSGVO
@@ -45,3 +45,7 @@ Dokumentationsbausteine: was wurde wann wahrgenommen; welche Prüfungen wurden e
 - `dsv-meldung-art-33-pflichtangaben` deckt die Behördenmeldung ab; bei Bedarf zusätzlich ziehen.
 - `dsv-benachrichtigung-art-34-betroffene` deckt die Benachrichtigung Betroffener ab.
 - `dsv-bussgeldverteidigung-art-83` und `dsv-schadensersatz-art-82` decken die anwaltliche Nachbearbeitung ab.
+
+## Vertiefung bei Bedarf
+
+- Bei `dsv-verdacht-vs-festgestellt` beziehungsweise Bewertet, ob der Mandant bereits Kenntnis von einer Verletzung im Sinne Art: [die zusätzliche Vertiefung laden](./references/vertiefung-dsv-verdacht-vs-festgestellt.md).

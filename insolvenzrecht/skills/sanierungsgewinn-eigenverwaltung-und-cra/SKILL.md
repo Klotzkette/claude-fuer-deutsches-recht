@@ -1,6 +1,6 @@
 ---
 name: sanierungsgewinn-eigenverwaltung-und-cra
-description: "Wenn es um Sanierungsgewinn — Eigenverwaltung und CRO in Insolvenzrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Sanierungsgewinn — Eigenverwaltung und CRO: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Sanierungsgewinn — Eigenverwaltung und CRO

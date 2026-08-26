@@ -1,6 +1,6 @@
 ---
 name: immobilienleasing-erbbaurecht-und-grundbuch
-description: "Wenn es um Immobilienleasing: Erbbaurecht und Grundbuch in Leasingrecht Praxis geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen."
+description: "Für Immobilienleasing: Erbbaurecht und Grundbuch: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Immobilienleasing: Erbbaurecht und Grundbuch

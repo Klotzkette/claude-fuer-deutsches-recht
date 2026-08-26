@@ -1,6 +1,6 @@
 ---
 name: stb-mandantenkommunikation-bwa-uebergabe-quartal
-description: "Wenn es um Quartalsgespraech — BWA-Uebergabe mit dem Mandanten in Steuerrecht – Steuerberater und Anwälte geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Quartalsgespräch — BWA-Übergabe mit dem Mandanten: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Mandantennachricht oder Entscheidungsvorlage. Fachgebiet: Steuerrecht – Steuerberater und Anwälte. Route: stb-mandantenkommunikation-bwa-uebergabe-quartal."
 ---
 
 # Quartalsgespraech — BWA-Uebergabe mit dem Mandanten

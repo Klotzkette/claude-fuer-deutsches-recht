@@ -1,6 +1,6 @@
 ---
 name: schutzrechtsrecherche-und-haftung-organisationsp
-description: "Wenn es um Schutzrechtsrecherche Und Haftung Organisationsp in Berufsrecht Patentanwälte geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Schutzrechtsrecherche und Haftung Organisationsp: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Patentanwälte: schutzrechtsrecherche und haftung - Organisationspflichten, Prävention, Team-Anweisung und Fristenkontrolle

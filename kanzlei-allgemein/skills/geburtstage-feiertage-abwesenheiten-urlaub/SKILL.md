@@ -1,6 +1,6 @@
 ---
 name: geburtstage-feiertage-abwesenheiten-urlaub
-description: "Wenn es um Geburtstage und Feiertage in Kanzlei-Allgemein geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Geburtstage und Feiertage: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Geburtstage und Feiertage

@@ -1,6 +1,6 @@
 ---
 name: grundsteuer-kaltstart-bescheidkette
-description: "Wenn es um Grundsteuer-Kaltstart: Bescheidkette und Sofort-Triage in Steuerrecht – Steuerberater und Anwälte geht: klärt Rolle, Ziel, Frist, Unterlagen und den passenden nächsten Fachskill; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Grundsteuer-Kaltstart: Bescheidkette und Sofort-Triage: routet Rolle, Frist, Unterlagen und Fachschritt; Ergebnis: Schnittstellenkarte mit Zuständigkeits- und Nachweisfragen."
 ---
 
 # Grundsteuer-Kaltstart: Bescheidkette und Sofort-Triage

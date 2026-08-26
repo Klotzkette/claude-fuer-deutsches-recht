@@ -1,6 +1,6 @@
 ---
 name: sammelklagen-abtretungsmodelle-kartellschaden
-description: "Wenn es um Sammelklagen Abtretungsmodelle Kartellschaden in Kartellrecht — Marktabgrenzungsprüfung geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
+description: "Für Sammelklagen Abtretungsmodelle Kartellschaden: erstellt Entwurf mit Antrag, Beweis und Anlagen; Ergebnis: Schriftsatz mit Begründungs- und Anlagenlogik."
 ---
 
 # Sammelklagen Abtretungsmodelle Kartellschaden

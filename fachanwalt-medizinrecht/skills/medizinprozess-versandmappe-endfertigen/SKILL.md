@@ -1,6 +1,6 @@
 ---
 name: medizinprozess-versandmappe-endfertigen
-description: "Endfertigt Arzthaftungs-, Krankenhaus-, Honorar- und medizinische Leistungsprozesse: liest Behandlungsakte, Aufklärung, Bildgebung, Befunde, Rechnungen, MD- oder Privatgutachten zuerst, prüft Antrag, Behandlungsverlauf, Fehler, Kausalität und Schaden, erstellt eine medizinische Fundstellenchronik und liefert geschützte beA-Einzeldateien mit Vollständigkeits- und Eingangskontrolle."
+description: "Endfertigt Arzthaftungs-, Krankenhaus-, Honorar- und medizinische Leistungsprozesse: liest Behandlungsakte, Aufklärung, Bildgebung, Befunde, Rechnungen, MD- oder Privatgutachten zuerst, prüft Antrag, Behandlungsverlauf, Fehler, Kausalität und Schaden, erstellt eine medizinische Fundstellenchronik und liefert geschützte beA-Einzeldateien mit."
 ---
 
 # Medizinprozess-Versandmappe endfertigen

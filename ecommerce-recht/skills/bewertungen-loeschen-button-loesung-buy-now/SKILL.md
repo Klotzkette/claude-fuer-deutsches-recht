@@ -1,6 +1,6 @@
 ---
 name: bewertungen-loeschen-button-loesung-buy-now
-description: "Wenn es um Bewertungen löschen lassen in E-Commerce-Recht geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
+description: "Für Bewertungen löschen lassen: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Bewertungen löschen lassen

@@ -1,6 +1,6 @@
 ---
 name: dora-und-it-dienstleister-soweit-einschlaegig
-description: "Wenn es um DORA und IT-Dienstleister soweit einschlägig in Krankenhausrecht geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
+description: "Für DORA und IT-Dienstleister soweit einschlägig: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # DORA und IT-Dienstleister soweit einschlägig

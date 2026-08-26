@@ -1,6 +1,6 @@
 ---
 name: mandat-arbeitsbereich-abschnitt
-description: "Wenn es um Praxisprofil anpassen in Prozessrecht geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
+description: "Für Praxisprofil anpassen: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt. Fachgebiet: Prozessrecht."
 ---
 
 # Praxisprofil anpassen

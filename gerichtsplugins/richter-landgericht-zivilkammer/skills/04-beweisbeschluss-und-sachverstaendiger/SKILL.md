@@ -1,6 +1,6 @@
 ---
 name: 04-beweisbeschluss-und-sachverstaendiger
-description: "Wenn es um 04 Beweisbeschluss und Sachverständiger in Zivilkammer am Landgericht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Beweislast- und Substantiierungsmatrix."
+description: "Für 04 Beweisbeschluss und Sachverständiger: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Beweislast- und Substantiierungsmatrix."
 ---
 
 # 04 Beweisbeschluss und Sachverständiger

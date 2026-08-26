@@ -1,6 +1,6 @@
 ---
 name: verfuegung-beweislast-und-darlegungslast
-description: "Wenn es um Einstweilige Verfügung: Beweislast und Darlegungslast in Fachanwalt Gewerblicher Rechtsschutz geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Einstweilige Verfügung: Beweislast und Darlegungslast: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Beweislast- und Substantiierungsmatrix."
 ---
 
 # Einstweilige Verfügung: Beweislast und Darlegungslast
@@ -132,3 +132,7 @@ Bei bestimmten Sachverhalten (Verletzungsumfang, Herstellungsprozesse, Lieferket
 ## Was dieser Arbeitsgang nicht macht
 - Keine Bewertung der Dringlichkeit ohne Kenntnis des konkreten Kenntnisdatums.
 - Kein Ersatz für vollständige Mandantenberatung.
+
+## Vertiefung bei Bedarf
+
+- Bei `spezial-verfuegung-beweislast-und-darlegungslast` beziehungsweise Verfuegung: Beweislast, Darlegungslast und Substantiierung: [die zusätzliche Vertiefung laden](./references/vertiefung-spezial-verfuegung-beweislast-und-darlegungslast.md).

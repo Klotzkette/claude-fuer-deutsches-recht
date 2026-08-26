@@ -1,6 +1,6 @@
 ---
 name: freiberufler-partg-gbr
-description: "Wenn es um Freiberufler, PartG und PartG mbB in gesellschaftsgründer — Gründungsassistent für deutsche geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Freiberufler, PartG und PartG mbB: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Freiberufler, PartG und PartG mbB

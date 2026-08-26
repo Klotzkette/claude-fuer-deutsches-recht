@@ -1,6 +1,6 @@
 ---
 name: goae-entschaedigungen-wegegeld
-description: "Wenn es um GOÄ Paragraf 7 Entschädigungen in GOÄ Gebührenordnung für Ärzte geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Berechnungstabelle mit Schwellen, Annahmen und Kontrollfragen."
+description: "Für GOÄ Paragraf 7 Entschädigungen: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # GOÄ § 7 Entschädigungen

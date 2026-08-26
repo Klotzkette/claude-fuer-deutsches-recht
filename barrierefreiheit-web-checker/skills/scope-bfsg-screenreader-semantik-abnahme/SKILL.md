@@ -1,6 +1,6 @@
 ---
 name: scope-bfsg-screenreader-semantik-abnahme
-description: "Wenn es um Scope: BFSG, BITV, WAD, freiwilliger Standard in Barrierefreiheit Web Checker geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen."
+description: "Für Scope: BFSG, BITV, WAD, freiwilliger Standard: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Scope: BFSG, BITV, WAD, freiwilliger Standard

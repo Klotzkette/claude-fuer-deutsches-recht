@@ -1,6 +1,6 @@
 ---
 name: ideas-facts-imports-exports-infringement
-description: "Wenn es um Ideas, Facts, Merger und Scenes a Faire in US Copyright Act und Registrierung für deutsche Verlage geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
+description: "Für Ideas, Facts, Merger und Scenes a Faire: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Ideas, Facts, Merger und Scenes a Faire

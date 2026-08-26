@@ -1,6 +1,6 @@
 ---
 name: pflegekasse-pflegekurse-und-angehoerige
-description: "Wenn es um Pflegekasse Pflegekurse Und Angehoerige in selbstvertreter-sozialgericht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Pflegekasse Pflegekurse und Angehörige: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Pflegekasse Pflegekurse Und Angehoerige

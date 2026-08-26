@@ -1,6 +1,6 @@
 ---
 name: entschliessungsantraege-fehlerkatalog
-description: "Wenn es um Entschliessungsantraege Fehlerkatalog in Legistik-Werkstatt geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Entschließungsanträge Fehlerkatalog: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Entschliessungsantraege Fehlerkatalog

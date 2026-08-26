@@ -1,6 +1,6 @@
 ---
 name: 04-krankenversicherung-pruefung
-description: "Wenn es um 04 Krankenversicherung Prüfung in Sozialgericht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Tatbestands- oder Anspruchsmatrix mit Gegenargumenten."
+description: "Für 04 Krankenversicherung Prüfung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Tatbestands- oder Anspruchsmatrix."
 ---
 
 # 04 Krankenversicherung Prüfung

@@ -1,6 +1,6 @@
 ---
 name: rueckruf-fehlerbeitrag-screenshot-pdf
-description: "Wenn es um Rueckruf bei spaet erkanntem Fehlerbeitrag in Verlagsredaktion geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Rückruf bei spät erkanntem Fehlerbeitrag: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Rueckruf bei spaet erkanntem Fehlerbeitrag

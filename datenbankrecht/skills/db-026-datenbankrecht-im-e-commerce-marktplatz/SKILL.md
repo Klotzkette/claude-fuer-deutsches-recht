@@ -1,6 +1,6 @@
 ---
 name: db-026-datenbankrecht-im-e-commerce-marktplatz
-description: "Wenn es um Datenbankrecht: Datenbankrecht im E-Commerce Marktplatz in Datenbankrecht und Datenbankherstellerrecht geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Datenbankrecht: Datenbankrecht im E-Commerce Marktplatz: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Datenbankrecht: Datenbankrecht im E-Commerce Marktplatz

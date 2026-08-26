@@ -1,6 +1,6 @@
 ---
 name: tk-marktregulierung-marktmacht-fristen-bescheid
-description: "Wenn es um Tk Marktregulierung Marktmacht Fristen Bescheid in Bundesnetzagentur-Verfahren geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Tk Marktregulierung Marktmacht Fristen Bescheid: prüft Frist, Form, Zuständigkeit und Eilbedarf; Ergebnis: Fristen- und Risikoampel."
 ---
 
 # TK-Regulierungsakte: TKG Marktregulierung beträchtliche Marktmacht — Fristen- und Bescheidanalyse

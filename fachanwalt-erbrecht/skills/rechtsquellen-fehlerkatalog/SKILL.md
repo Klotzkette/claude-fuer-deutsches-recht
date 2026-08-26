@@ -1,6 +1,6 @@
 ---
 name: rechtsquellen-fehlerkatalog
-description: "Wenn es um Rechtsquellen Fehlerkatalog in Fachanwalt Erbrecht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Tatbestands- oder Anspruchsmatrix mit Gegenargumenten."
+description: "Für Rechtsquellen Fehlerkatalog: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Rechtsquellen Fehlerkatalog

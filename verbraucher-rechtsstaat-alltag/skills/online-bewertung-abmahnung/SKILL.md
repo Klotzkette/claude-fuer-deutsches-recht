@@ -1,6 +1,6 @@
 ---
 name: online-bewertung-abmahnung
-description: "Wenn es um Online-Bewertung und Abmahnung in Verbraucher im Rechtsstaat Alltag geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
+description: "Für Online-Bewertung und Abmahnung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Online-Bewertung und Abmahnung

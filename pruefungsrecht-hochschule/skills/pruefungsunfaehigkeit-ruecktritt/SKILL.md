@@ -1,6 +1,6 @@
 ---
 name: pruefungsunfaehigkeit-ruecktritt
-description: "Wenn es um Prüfungsunfähigkeit und Rücktritt in Prüfungsrecht an Hochschulen und Universitäten geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Prüfungsunfähigkeit und Rücktritt: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Tatbestands- oder Anspruchsmatrix."
 ---
 
 # Prüfungsunfähigkeit und Rücktritt

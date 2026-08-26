@@ -1,6 +1,6 @@
 ---
 name: legalitaetsprinzipien-als-rechtsstaatsmotor
-description: "Wenn es um Legalitätsprinzipien als Rechtsstaatsmotor in Rechtstheorie und Rechtsphilosophie geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
+description: "Für Legalitätsprinzipien als Rechtsstaatsmotor: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Legalitätsprinzipien als Rechtsstaatsmotor

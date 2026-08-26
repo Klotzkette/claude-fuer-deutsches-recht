@@ -1,6 +1,6 @@
 ---
 name: pralr-026-rheinisches-recht-code-civil-abgrenzung
-description: "Wenn es um Rheinisches Recht in Preußisches Allgemeines Landrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. Auswahlstichwort: Pralr 026 Rheinisches Recht Code Civil Abgrenzung; Arbeitsfeld: Preußisches Allgemeines Landrecht."
+description: "Für Rheinisches Recht: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt. Fachgebiet: Preußisches Allgemeines Landrecht. Route: pralr-026-rheinisches-recht-code-civil-abgrenzung."
 ---
 
 # Rheinisches Recht

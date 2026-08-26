@@ -1,6 +1,6 @@
 ---
 name: unabhaengigkeit-pie-verschwiegenheit
-description: "Wenn es um Unabhaengigkeit Pie Verschwiegenheit in Berufsrecht Wirtschaftsprüfer geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Unabhängigkeit Pie Verschwiegenheit: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Wirtschaftsprüfer: unabhaengigkeit bei pie prüfung - Organisationspflichten, Prävention, Team-Anweisung und Fristenkontrolle

@@ -1,6 +1,6 @@
 ---
 name: aktenherausgabe-zurueckbehaltungsrecht-verteidigung
-description: "Wenn es um Aktenherausgabe und Zurückbehaltungsrecht: Verteidigungs- und Kammerantwort in Berufsgerichtliche Verfahren Freie Berufe geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Aktenherausgabe und Zurückbehaltungsrecht: Verteidigungs- und Kammerantwort: ordnet Akte, Belege und Lücken; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Aktenherausgabe und Zurückbehaltungsrecht: Verteidigungs- und Kammerantwort

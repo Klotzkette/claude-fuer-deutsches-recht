@@ -1,6 +1,6 @@
 ---
 name: exit-entbranding-und-social-media-accounts
-description: "Wenn es um Franchise: Exit, Entbranding und Social-Media-Accounts in Franchiserecht Praxis geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Chronologie mit Belegmatrix und Widerspruchsliste."
+description: "Für Franchise: Exit, Entbranding und Social-Media-Accounts: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Franchise: Exit, Entbranding und Social-Media-Accounts

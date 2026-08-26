@@ -1,6 +1,6 @@
 ---
 name: quellen-zitate-fundstellencheck
-description: "Wenn es um Quellen-, Zitate- und Fundstellencheck in Verlagsredaktion geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
+description: "Für Quellen-, Zitate- und Fundstellencheck: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Quellen-, Zitate- und Fundstellencheck

@@ -1,6 +1,6 @@
 ---
 name: kammerbeschwerde-steuerberater-kaltstart-und-fakt
-description: "Wenn es um Kammerbeschwerde Steuerberater Kaltstart Und Fakt in Berufsrecht Steuerberater geht: klärt Rolle, Ziel, Frist, Unterlagen und den passenden nächsten Fachskill; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Kammerbeschwerde Steuerberater Kaltstart und Fakt: routet Rolle, Frist, Unterlagen und Fachschritt; Ergebnis: Schnittstellenkarte mit Zuständigkeits- und Nachweisfragen."
 ---
 
 # Steuerberater: kammerbeschwerde steuerberater - Kaltstart mit Faktenmatrix, Risikoampel und fehlenden Unterlagen

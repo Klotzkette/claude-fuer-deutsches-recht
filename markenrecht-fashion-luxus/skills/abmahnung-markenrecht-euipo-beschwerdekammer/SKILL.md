@@ -1,6 +1,6 @@
 ---
 name: abmahnung-markenrecht-euipo-beschwerdekammer
-description: "Wenn es um Markenrechtliche Abmahnung und Unterlassungserklärung in markenrecht-fashion-luxus geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Markenrechtliche Abmahnung und Unterlassungserklärung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Schnittstellenkarte mit Zuständigkeits- und Nachweisfragen."
 ---
 
 # Markenrechtliche Abmahnung und Unterlassungserklärung

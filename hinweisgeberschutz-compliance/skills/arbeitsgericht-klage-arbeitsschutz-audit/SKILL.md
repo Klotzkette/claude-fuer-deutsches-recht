@@ -1,6 +1,6 @@
 ---
 name: arbeitsgericht-klage-arbeitsschutz-audit
-description: "Wenn es um Arbeitsgericht Klage in Hinweisgeberschutz, Meldestellen und NDA-Konflikte geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
+description: "Für Arbeitsgericht Klage: erstellt Entwurf mit Antrag, Beweis und Anlagen; Ergebnis: Schriftsatz mit Begründungs- und Anlagenlogik."
 ---
 
 # Arbeitsgericht Klage

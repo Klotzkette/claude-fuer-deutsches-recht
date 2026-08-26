@@ -1,6 +1,6 @@
 ---
 name: geschaeftsfaehigkeit-paragraphen-104-bis-106
-description: "Wenn es um Geschäftsfähigkeit — Paragrafen 104 bis 106 BGB in BGB AT Prüfer geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
+description: "Für Geschäftsfähigkeit — Paragrafen 104 bis 106 BGB: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Geschäftsfähigkeit — §§ 104 bis 106 BGB

@@ -1,6 +1,6 @@
 ---
 name: exportkontrolle-dual-use-eu-2021-821
-description: "Wenn es um Exportkontrolle — Dual-Use und Lizenz in Lizenzvertragsersteller geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Gegenprüfung mit Fehler-, Beweis- und Fristencheck."
+description: "Für Exportkontrolle — Dual-Use und Lizenz: prüft Ergebnis, Beweislast und Gegenposition; Ergebnis: Gegenprüfung mit Beweis- und Fristencheck."
 ---
 
 # Exportkontrolle — Dual-Use und Lizenz

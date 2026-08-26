@@ -1,6 +1,6 @@
 ---
 name: besondere-datenkategorien-art-9
-description: "Wenn es um Besondere Datenkategorien Art. 9 in Datenschutz-Sanktionsverfahren und Verteidigung geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
+description: "Für Besondere Datenkategorien Art. 9: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Besondere Datenkategorien Art. 9

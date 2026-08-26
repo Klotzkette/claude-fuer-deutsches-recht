@@ -1,6 +1,6 @@
 ---
 name: bmg-arzneimittel-und-medizinprodukterecht
-description: "Wenn es um Arzneimittel- und Medizinprodukterecht (BMG) in Legistik-Werkstatt geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen. Auswahlstichwort: Bmg Arzneimittel Und Medizinprodukterecht; Arbeitsfeld: Legistik-Werkstatt."
+description: "Für Arzneimittel- und Medizinprodukterecht (BMG): ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt. Fachgebiet: Legistik-Werkstatt. Route: bmg-arzneimittel-und-medizinprodukterecht."
 ---
 
 # Arzneimittel- und Medizinprodukterecht (BMG)

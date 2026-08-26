@@ -1,6 +1,6 @@
 ---
 name: strafbefehl-wiedereinsetzung
-description: "Wenn es um Wiedereinsetzung nach versaeumter Einspruchsfrist — Paragraf 44 StPO in Strafbefehl-Verteidiger geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Wiedereinsetzung nach versäumter Einspruchsfrist — Paragraf 44 StPO: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Wiedereinsetzung nach versaeumter Einspruchsfrist — § 44 StPO

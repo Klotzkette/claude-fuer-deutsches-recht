@@ -1,6 +1,6 @@
 ---
 name: dba-regionenrouter-nichteu
-description: "Wenn es um DBA-Regionenrouter Nicht-EU in Steuerrecht – Steuerberater und Anwälte geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen."
+description: "Für DBA-Regionenrouter Nicht-EU: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Schnittstellenkarte mit Zuständigkeits- und Nachweisfragen."
 ---
 
 # DBA-Regionenrouter Nicht-EU

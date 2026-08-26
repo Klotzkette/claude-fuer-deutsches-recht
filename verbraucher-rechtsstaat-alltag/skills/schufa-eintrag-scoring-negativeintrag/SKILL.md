@@ -1,6 +1,6 @@
 ---
 name: schufa-eintrag-scoring-negativeintrag
-description: "Wenn es um SCHUFA-Eintrag prüfen in Verbraucher im Rechtsstaat Alltag geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für SCHUFA-Eintrag prüfen: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # SCHUFA-Eintrag prüfen

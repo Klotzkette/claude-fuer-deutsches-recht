@@ -1,6 +1,6 @@
 ---
 name: antrag-stellungnahme-erklaerung
-description: "Wenn es um Antrag Stellungnahme Erklaerung in Juristische Sprache Deutsch als Zweitsprache geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Antrag Stellungnahme Erklärung: erstellt Entwurf mit Antrag, Beweis und Anlagen; Ergebnis: Schriftsatz mit Begründungs- und Anlagenlogik."
 ---
 
 # Antrag Stellungnahme Erklaerung

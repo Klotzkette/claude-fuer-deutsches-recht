@@ -1,6 +1,6 @@
 ---
 name: sperre-vertreter-beweislast
-description: "Wenn es um Schwellen: Verhandlung, Vergleich und Eskalation in DSA, DMA und Digitalregulierung der EU geht: rechnet Schwellen, Beträge, Varianten und Kontrollannahmen durch; liefert eine Beweislast- und Substantiierungsmatrix."
+description: "Für Schwellen: Verhandlung, Vergleich und Eskalation: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Beweislast- und Substantiierungsmatrix."
 ---
 
 # Schwellen: Verhandlung, Vergleich und Eskalation

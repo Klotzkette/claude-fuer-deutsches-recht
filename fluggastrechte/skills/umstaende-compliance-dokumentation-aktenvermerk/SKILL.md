@@ -1,6 +1,6 @@
 ---
 name: umstaende-compliance-dokumentation-aktenvermerk
-description: "Wenn es um Umstaende: Compliance-Dokumentation und Aktenvermerk in Fluggastrechte geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Umstände: Compliance-Dokumentation und Aktenvermerk: ordnet Akte, Belege und Lücken; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt. Fachgebiet: Fluggastrechte. Route: umstaende-compliance-dokumentation-aktenvermerk."
 ---
 
 # Umstaende: Compliance-Dokumentation und Aktenvermerk

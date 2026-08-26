@@ -1,6 +1,6 @@
 ---
 name: familienrecht-ehe-und-vormundschaft
-description: "Wenn es um Familienrecht in Preußisches Allgemeines Landrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. Auswahlstichwort: Familienrecht Ehe Und Vormundschaft; Arbeitsfeld: Preußisches Allgemeines Landrecht."
+description: "Für Familienrecht: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt. Fachgebiet: Preußisches Allgemeines Landrecht. Route: familienrecht-ehe-und-vormundschaft."
 ---
 
 # Familienrecht

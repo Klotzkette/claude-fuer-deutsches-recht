@@ -1,6 +1,6 @@
 ---
 name: widerspruch-paragraf-68-vwgo
-description: "Wenn es um Widerspruch Paragraf 68 VwGO in Fachanwalt Verwaltungsrecht geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Widerspruch Paragraf 68 VwGO: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Widerspruch § 68 VwGO

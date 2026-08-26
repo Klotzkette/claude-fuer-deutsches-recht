@@ -1,6 +1,6 @@
 ---
 name: einstweiliger-rechtsschutz
-description: "Wenn es um Einstweiliger Rechtsschutz in Handelsvertreterstreitigkeiten nach Paragrafen 916 ff. ZPO in Handelsvertreterrecht und Vertriebsverträge geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
+description: "Für Einstweiliger Rechtsschutz in Handelsvertreterstreitigkeiten nach Paragrafen 916 ff. ZPO: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Einstweiliger Rechtsschutz in Handelsvertreterstreitigkeiten nach §§ 916 ff. ZPO

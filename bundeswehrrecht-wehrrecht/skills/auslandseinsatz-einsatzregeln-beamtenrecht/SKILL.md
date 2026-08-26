@@ -1,6 +1,6 @@
 ---
 name: auslandseinsatz-einsatzregeln-beamtenrecht
-description: "Wenn es um Auslandseinsatz – Mandat und Einsatzregeln in Bundeswehrrecht und Wehrrecht geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen."
+description: "Für Auslandseinsatz – Mandat und Einsatzregeln: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Schnittstellenkarte mit Zuständigkeits- und Nachweisfragen."
 ---
 
 # Auslandseinsatz – Mandat und Einsatzregeln

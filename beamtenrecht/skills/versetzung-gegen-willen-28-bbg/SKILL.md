@@ -1,6 +1,6 @@
 ---
 name: versetzung-gegen-willen-28-bbg
-description: "Wenn es um Versetzung gegen den Willen Paragraf 28 BBG in Beamtenrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Versetzung gegen den Willen Paragraf 28 BBG: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Versetzung gegen den Willen § 28 BBG

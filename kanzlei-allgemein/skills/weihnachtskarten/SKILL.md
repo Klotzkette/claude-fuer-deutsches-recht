@@ -1,6 +1,6 @@
 ---
 name: weihnachtskarten
-description: "Wenn es um Weihnachtskarten Mandantenpflege in Kanzlei-Allgemein geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Weihnachtskarten Mandantenpflege: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Weihnachtskarten Mandantenpflege

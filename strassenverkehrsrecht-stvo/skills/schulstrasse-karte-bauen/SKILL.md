@@ -1,6 +1,6 @@
 ---
 name: schulstrasse-karte-bauen
-description: "Wenn es um Schulstrasse Karte Bauen in Straßenverkehrsrecht StVO geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Schulstrasse Karte Bauen: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Schulstrasse Karte Bauen

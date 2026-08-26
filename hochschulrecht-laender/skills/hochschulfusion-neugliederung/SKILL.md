@@ -1,6 +1,6 @@
 ---
 name: hochschulfusion-neugliederung
-description: "Wenn es um Hochschulfusion und Neugliederung in Hochschulrecht der Bundesländer geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Hochschulfusion und Neugliederung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Schnittstellenkarte mit Zuständigkeits- und Nachweisfragen."
 ---
 
 # Hochschulfusion und Neugliederung

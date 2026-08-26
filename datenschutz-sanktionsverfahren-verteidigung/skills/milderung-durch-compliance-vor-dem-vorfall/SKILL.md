@@ -1,6 +1,6 @@
 ---
 name: milderung-durch-compliance-vor-dem-vorfall
-description: "Wenn es um Milderung durch Compliance vor dem Vorfall in Datenschutz-Sanktionsverfahren und Verteidigung geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
+description: "Für Milderung durch Compliance vor dem Vorfall: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Milderung durch Compliance vor dem Vorfall

@@ -1,6 +1,6 @@
 ---
 name: schiedsklausel-csport
-description: "Wenn es um Schiedsklausel Csport in Fachanwalt Sportrecht geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Schiedsklausel Csport: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Schiedsklausel Csport

@@ -1,6 +1,6 @@
 ---
 name: ip-identifikation-und-bestandsaufnahme
-description: "Wenn es um IP-Identifikation und Bestandsaufnahme in Lizenzvertragsersteller geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert einen Einreichungsplan mit Form-, Portal- und Nachweischeck."
+description: "Für IP-Identifikation und Bestandsaufnahme: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # IP-Identifikation und Bestandsaufnahme

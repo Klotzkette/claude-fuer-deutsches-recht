@@ -1,6 +1,6 @@
 ---
 name: verkehr-fristennotiz-und-naechster-schritt
-description: "Wenn es um Verkehr: Fristennotiz und nächster Schritt in Fachanwalt Verkehrsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Verkehr: Fristennotiz und nächster Schritt: prüft Frist, Form, Zuständigkeit und Eilbedarf; Ergebnis: Fristen- und Risikoampel."
 ---
 
 # Verkehr: Fristennotiz und nächster Schritt

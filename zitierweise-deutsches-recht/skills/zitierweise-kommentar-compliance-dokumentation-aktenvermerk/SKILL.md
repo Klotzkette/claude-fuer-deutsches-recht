@@ -1,6 +1,6 @@
 ---
 name: zitierweise-kommentar-compliance-dokumentation-aktenvermerk
-description: "Wenn es um Kommentar: Compliance-Dokumentation und Aktenvermerk in Zitierweise deutsches Recht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Kommentar: Compliance-Dokumentation und Aktenvermerk: ordnet Akte, Belege und Lücken; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt. Fachgebiet: Zitierweise deutsches Recht. Route: zitierweise-kommentar-compliance-dokumentation-aktenvermerk."
 ---
 
 # Kommentar: Compliance-Dokumentation und Aktenvermerk

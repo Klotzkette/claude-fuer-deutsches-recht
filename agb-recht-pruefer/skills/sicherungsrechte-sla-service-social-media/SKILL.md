@@ -1,6 +1,6 @@
 ---
 name: sicherungsrechte-sla-service-social-media
-description: "Wenn es um Sicherungsrechte in AGB-Recht-Prüfer geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Fristen- und Risikoampel mit Sofortschritten. Auswahlstichwort: Sicherungsrechte Sla Service Social Media; Arbeitsfeld: AGB-Recht-Prüfer."
+description: "Für Sicherungsrechte: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt. Fachgebiet: AGB-Recht-Prüfer. Route: sicherungsrechte-sla-service-social-media."
 ---
 
 # Sicherungsrechte

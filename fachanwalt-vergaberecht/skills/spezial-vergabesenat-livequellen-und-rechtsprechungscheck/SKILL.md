@@ -1,6 +1,6 @@
 ---
 name: spezial-vergabesenat-livequellen-und-rechtsprechungscheck
-description: "Wenn es um Vergabesenat: Livequellen- und Rechtsprechungscheck in Fachanwalt Vergaberecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Vergabesenat: Livequellen- und Rechtsprechungscheck: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Vergabesenat: Livequellen- und Rechtsprechungscheck

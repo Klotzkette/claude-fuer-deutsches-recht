@@ -1,6 +1,6 @@
 ---
 name: shareholder-agreement-investment-agreement
-description: "Wenn es um SHA und Investment Agreement in Venture Capital Geber geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für SHA und Investment Agreement: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # SHA und Investment Agreement

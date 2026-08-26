@@ -1,6 +1,6 @@
 ---
 name: landesstrasse-sondernutzung-formuliere
-description: "Wenn es um Landesstrasse Sondernutzung Formuliere in Straßenrecht und Infrastruktur geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Landesstrasse Sondernutzung Formuliere: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Landesstrasse Sondernutzung Formuliere

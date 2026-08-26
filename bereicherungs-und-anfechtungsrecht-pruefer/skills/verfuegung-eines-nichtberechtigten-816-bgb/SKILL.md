@@ -1,6 +1,6 @@
 ---
 name: verfuegung-eines-nichtberechtigten-816-bgb
-description: "Wenn es um Verfügung eines Nichtberechtigten — Paragraf 816 BGB in bereicherungs-und-anfechtungsrecht-prüfer geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Verfügung eines Nichtberechtigten — Paragraf 816 BGB: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Verfügung eines Nichtberechtigten — § 816 BGB

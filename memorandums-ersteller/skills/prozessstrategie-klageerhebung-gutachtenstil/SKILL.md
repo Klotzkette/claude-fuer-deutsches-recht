@@ -1,6 +1,6 @@
 ---
 name: prozessstrategie-klageerhebung-gutachtenstil
-description: "Wenn es um Prozessstrategie-Memo in Memorandums-Ersteller geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
+description: "Für Prozessstrategie-Memo: erstellt Entwurf mit Antrag, Beweis und Anlagen; Ergebnis: Schriftsatz mit Begründungs- und Anlagenlogik."
 ---
 
 # Prozessstrategie-Memo

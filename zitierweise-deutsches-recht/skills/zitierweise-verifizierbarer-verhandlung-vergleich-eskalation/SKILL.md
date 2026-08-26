@@ -1,6 +1,6 @@
 ---
 name: zitierweise-verifizierbarer-verhandlung-vergleich-eskalation
-description: "Wenn es um Verifizierbarer: Verhandlung, Vergleich und Eskalation in Zitierweise deutsches Recht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Verifizierbarer: Verhandlung, Vergleich und Eskalation: entwickelt Ziel, Vergleich und Eskalation; Ergebnis: Verhandlungs- oder Eskalationslinie."
 ---
 
 # Verifizierbarer: Verhandlung, Vergleich und Eskalation

@@ -1,6 +1,6 @@
 ---
 name: gutachten-uebung
-description: "Wenn es um Gutachtenstil-Übung in Jurastudium geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Gutachtenstil-Übung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Gutachtenstil-Übung

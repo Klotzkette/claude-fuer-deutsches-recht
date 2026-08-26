@@ -1,6 +1,6 @@
 ---
 name: sprachprofil-speichern-strafrechtliche
-description: "Wenn es um Sprachprofil Speichern Ohne Stigma in Juristische Sprache Deutsch als Zweitsprache geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Sprachprofil Speichern ohne Stigma: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Sprachprofil Speichern Ohne Stigma

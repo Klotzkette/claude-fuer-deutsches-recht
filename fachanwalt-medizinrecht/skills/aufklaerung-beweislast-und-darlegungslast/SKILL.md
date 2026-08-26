@@ -1,6 +1,6 @@
 ---
 name: aufklaerung-beweislast-und-darlegungslast
-description: "Wenn es um Aufklaerung: Beweislast, Darlegungslast und Substantiierung in Fachanwalt Medizinrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Aufklärung: Beweislast, Darlegungslast und Substantiierung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Beweislast- und Substantiierungsmatrix."
 ---
 
 # Aufklaerung: Beweislast, Darlegungslast und Substantiierung

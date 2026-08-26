@@ -1,6 +1,6 @@
 ---
 name: vorpruefung-fristen-form-und-zustaendigkeit
-description: "Wenn es um Vorpruefung: Fristen, Form, Zuständigkeit und Rechtsweg in diesem Spezialbereich geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten Stichwort für die Auswahl: Vorpruefung Fristen Form Und Zuständigkeit."
+description: "Für Vorprüfung: Fristen, Form, Zuständigkeit und Rechtsweg: prüft Frist, Form, Zuständigkeit und Eilbedarf; Ergebnis: Fristen- und Risikoampel. Fachgebiet: anwaltlichem Berufsrecht und Vertragsprüfung. Route: vorpruefung-fristen-form-und-zustaendigkeit."
 ---
 
 # Vorpruefung: Fristen, Form, Zuständigkeit und Rechtsweg

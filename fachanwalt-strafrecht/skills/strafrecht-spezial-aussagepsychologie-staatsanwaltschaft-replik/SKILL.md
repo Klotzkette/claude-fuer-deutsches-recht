@@ -1,6 +1,6 @@
 ---
 name: strafrecht-spezial-aussagepsychologie-staatsanwaltschaft-replik
-description: "Wenn es um Replik gegen staatsanwaltliche Aussagebewertung in Fachanwalt Strafrecht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen."
+description: "Für Replik gegen staatsanwaltliche Aussagebewertung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Replik gegen staatsanwaltliche Aussagebewertung

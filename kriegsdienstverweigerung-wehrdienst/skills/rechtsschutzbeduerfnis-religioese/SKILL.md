@@ -1,6 +1,6 @@
 ---
 name: rechtsschutzbeduerfnis-religioese
-description: "Wenn es um Rechtsschutzbedürfnis in Kriegsdienstverweigerung und Wehrdienst geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Rechtsschutzbedürfnis: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Rechtsschutzbedürfnis

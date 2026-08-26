@@ -1,6 +1,6 @@
 ---
 name: anlagen-formatieren-k1-k2-pdf-amtsgericht
-description: "Wenn es um Anlagen formatieren — K1, K2 oben rechts, Schrift 12pt in selbstvertreter-amtsgericht geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
+description: "Für Anlagen formatieren — K1, K2 oben rechts, Schrift 12pt: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Anlagen formatieren — K1, K2 oben rechts, Schrift 12pt

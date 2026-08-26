@@ -1,6 +1,6 @@
 ---
 name: blockchain-settlement-buergschaft-erste
-description: "Wenn es um DLT Settlement DvP in Bank-Rechtsabteilung geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
+description: "Für DLT Settlement DvP: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # DLT Settlement DvP

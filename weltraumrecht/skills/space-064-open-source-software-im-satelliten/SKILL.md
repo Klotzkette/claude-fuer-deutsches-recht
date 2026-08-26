@@ -1,6 +1,6 @@
 ---
 name: space-064-open-source-software-im-satelliten
-description: "Wenn es um Weltraumrecht: Open Source Software im Satelliten in Weltraumrecht geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Weltraumrecht: Open Source Software im Satelliten: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Weltraumrecht: Open Source Software im Satelliten

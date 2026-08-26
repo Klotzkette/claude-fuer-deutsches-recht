@@ -1,6 +1,6 @@
 ---
 name: strassenverkehr-tatbestand-zerlegen
-description: "Wenn es um Strassenverkehr Tatbestand Zerlegen in Ordnungswidrigkeitenrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Strassenverkehr Tatbestand Zerlegen: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Tatbestands- oder Anspruchsmatrix."
 ---
 
 # Strassenverkehr Tatbestand Zerlegen

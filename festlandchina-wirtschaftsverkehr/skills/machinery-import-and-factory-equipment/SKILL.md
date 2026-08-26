@@ -1,6 +1,6 @@
 ---
 name: machinery-import-and-factory-equipment
-description: "Wenn es um Maschinenbau-Import China: CE, Dual-Use und Lieferkette in China-Wirtschaftsverkehr geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Maschinenbau-Import China: CE, Dual-Use und Lieferkette: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Maschinenbau-Import China: CE, Dual-Use und Lieferkette

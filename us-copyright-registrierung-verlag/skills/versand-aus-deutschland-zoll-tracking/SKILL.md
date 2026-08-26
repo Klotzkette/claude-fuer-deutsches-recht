@@ -1,6 +1,6 @@
 ---
 name: versand-aus-deutschland-zoll-tracking
-description: "Wenn es um Versand aus Deutschland, Zoll und Tracking in US Copyright Act und Registrierung für deutsche Verlage geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen."
+description: "Für Versand aus Deutschland, Zoll und Tracking: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Schnittstellenkarte mit Zuständigkeits- und Nachweisfragen."
 ---
 
 # Versand aus Deutschland, Zoll und Tracking

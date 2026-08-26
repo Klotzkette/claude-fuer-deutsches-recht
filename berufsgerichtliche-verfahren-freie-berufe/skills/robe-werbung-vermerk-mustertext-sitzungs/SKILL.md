@@ -1,6 +1,6 @@
 ---
 name: robe-werbung-vermerk-mustertext-sitzungs
-description: "Wenn es um Robe, Werbung und Sachlichkeit in Berufsgerichtliche Verfahren Freie Berufe geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Tatbestands- oder Anspruchsmatrix mit Gegenargumenten."
+description: "Für Robe, Werbung und Sachlichkeit: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Robe, Werbung und Sachlichkeit

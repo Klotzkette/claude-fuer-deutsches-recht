@@ -1,6 +1,6 @@
 ---
 name: bescheinigung-vs-pruefungsurteil-rechtsprech
-description: "Wenn es um Bescheinigung Vs Pruefungsurteil Rechtsprech in Berufsrecht Wirtschaftsprüfer geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Gegenprüfung mit Fehler-, Beweis- und Fristencheck."
+description: "Für Bescheinigung Vs Prüfungsurteil Rechtsprech: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Tatbestands- oder Anspruchsmatrix."
 ---
 
 # Wirtschaftsprüfer: bescheinigung vs prüfungsurteil - Rechtsprechungscheck, stärkste Gegenansicht und Red-Team-Korrektur

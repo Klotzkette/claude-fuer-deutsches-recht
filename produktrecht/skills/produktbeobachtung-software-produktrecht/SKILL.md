@@ -1,6 +1,6 @@
 ---
 name: produktbeobachtung-software-produktrecht
-description: "Wenn es um Produktbeobachtung: Software, OTA und Sicherheitsupdates in Produkthaftung und Produktrecht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen."
+description: "Für Produktbeobachtung: Software, OTA und Sicherheitsupdates: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Produktbeobachtung: Software, OTA und Sicherheitsupdates

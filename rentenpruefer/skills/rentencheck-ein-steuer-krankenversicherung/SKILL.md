@@ -1,6 +1,6 @@
 ---
 name: rentencheck-ein-steuer-krankenversicherung
-description: "Wenn es um rentencheck-ein-jahr-vorher in Rentenprüfer geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
+description: "Für rentencheck-ein-jahr-vorher: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Schnittstellenkarte mit Zuständigkeits- und Nachweisfragen."
 ---
 
 # rentencheck-ein-jahr-vorher

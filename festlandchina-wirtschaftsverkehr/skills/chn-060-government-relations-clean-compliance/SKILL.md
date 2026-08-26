@@ -1,6 +1,6 @@
 ---
 name: chn-060-government-relations-clean-compliance
-description: "Wenn es um Government Relations Clean Compliance in China-Wirtschaftsverkehr geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Government Relations Clean Compliance: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Government Relations Clean Compliance

@@ -1,6 +1,6 @@
 ---
 name: international-berne-joint-authorship-library
-description: "Wenn es um International Copyright, Berne und URAA in US Copyright Act und Registrierung für deutsche Verlage geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für International Copyright, Berne und URAA: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Schnittstellenkarte mit Zuständigkeits- und Nachweisfragen."
 ---
 
 # International Copyright, Berne und URAA

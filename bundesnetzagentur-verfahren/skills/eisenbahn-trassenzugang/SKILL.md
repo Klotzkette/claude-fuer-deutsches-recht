@@ -1,6 +1,6 @@
 ---
 name: eisenbahn-trassenzugang
-description: "Wenn es um Eisenbahn: Trassenzugang in Bundesnetzagentur-Verfahren geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
+description: "Für Eisenbahn: Trassenzugang: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Eisenbahn: Trassenzugang

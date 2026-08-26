@@ -1,6 +1,6 @@
 ---
 name: integrierte-planung-kennzahlenset-ampelsystem
-description: "Wenn es um Integrierte Planung — GuV, Bilanz und Cashflow in Krisenfrüherkennung und StaRUG-Management geht: rechnet Schwellen, Beträge, Varianten und Kontrollannahmen durch; liefert eine Berechnungstabelle mit Schwellen, Annahmen und Kontrollfragen."
+description: "Für Integrierte Planung — GuV, Bilanz und Cashflow: rechnet Beträge, Schwellen und Varianten; Ergebnis: Berechnungstabelle mit Annahmen und Kontrollfragen."
 ---
 
 # Integrierte Planung — GuV, Bilanz und Cashflow

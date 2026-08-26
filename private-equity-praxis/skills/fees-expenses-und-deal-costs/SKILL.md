@@ -1,6 +1,6 @@
 ---
 name: fees-expenses-und-deal-costs
-description: "Wenn es um Fees, Expenses und Deal Costs in Private Equity Praxis geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Fees, Expenses und Deal Costs: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Fees, Expenses und Deal Costs

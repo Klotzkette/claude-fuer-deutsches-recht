@@ -1,6 +1,6 @@
 ---
 name: dsv-nachmeldung-aktualisierung-art-33-abs-4
-description: "Wenn es um Erstellt die Nachmeldung zu einer vorläufigen Erstmeldung nach Art in Fachanwalt It Recht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Erstellt die Nachmeldung zu einer vorläufigen Erstmeldung nach Art: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Erstellt die Nachmeldung zu einer vorläufigen Erstmeldung nach Art

@@ -1,6 +1,6 @@
 ---
 name: unabhaengigkeit-pie
-description: "Wenn es um Unabhaengigkeit Pie in Berufsrecht Wirtschaftsprüfer geht: klärt Rolle, Ziel, Frist, Unterlagen und den passenden nächsten Fachskill; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Unabhängigkeit Pie: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Wirtschaftsprüfer: unabhaengigkeit bei pie prüfung - Kaltstart mit Faktenmatrix, Risikoampel und fehlenden Unterlagen

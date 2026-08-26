@@ -1,6 +1,6 @@
 ---
 name: dsv-kinderdaten-besondere-schutzbeduerftigkeit
-description: "Wenn es um Dsv Kinderdaten Besondere Schutzbeduerftigkeit in Datenschutzrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Dsv Kinderdaten Besondere Schutzbeduerftigkeit: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt. Fachgebiet: Datenschutzrecht."
 ---
 
 # Bewertet einen Datenschutzvorfall mit Daten von Minderjährigen unter Berücksichtigung der besonderen Schutzbedürftigkeit nach Erwägungsgrund 38 DSGVO

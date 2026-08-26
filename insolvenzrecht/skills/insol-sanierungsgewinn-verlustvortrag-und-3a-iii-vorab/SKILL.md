@@ -1,6 +1,6 @@
 ---
 name: insol-sanierungsgewinn-verlustvortrag-und-3a-iii-vorab
-description: "Wenn es um Sanierungsgewinn — Verlustvortrag und Paragraph 3a Absatz 3 EStG vorab pruefen in Insolvenzrecht geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
+description: "Für Sanierungsgewinn — Verlustvortrag und Paragraph 3a Absatz 3 EStG vorab prüfen: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt. Fachgebiet: Insolvenzrecht. Route: insol-sanierungsgewinn-verlustvortrag-und-3a-iii-vorab."
 ---
 
 # Sanierungsgewinn — Verlustvortrag und Paragraph 3a Absatz 3 EStG vorab pruefen

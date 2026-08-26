@@ -1,6 +1,6 @@
 ---
 name: haustuergeschaeft-agb-redlinen
-description: "Wenn es um Haustuergeschaeft Agb Redlinen in Verbraucherschutzrecht Prüfer geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Haustürgeschäft AGB Redlinen: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Haustuergeschaeft Agb Redlinen

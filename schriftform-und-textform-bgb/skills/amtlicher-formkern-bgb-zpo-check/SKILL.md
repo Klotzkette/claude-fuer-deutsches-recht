@@ -1,6 +1,6 @@
 ---
 name: amtlicher-formkern-bgb-zpo-check
-description: "Wenn es um Amtlicher Formkern BGB/ZPO in Schriftform und Textform im BGB geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Beweislast- und Substantiierungsmatrix."
+description: "Für Amtlicher Formkern BGB/ZPO: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Amtlicher Formkern BGB/ZPO

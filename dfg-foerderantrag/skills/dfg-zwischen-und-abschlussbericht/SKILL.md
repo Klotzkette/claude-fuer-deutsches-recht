@@ -1,6 +1,6 @@
 ---
 name: dfg-zwischen-und-abschlussbericht
-description: "Wenn es um Zwischen- und Abschlussbericht in DFG-Förderantrag geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
+description: "Für Zwischen- und Abschlussbericht: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Zwischen- und Abschlussbericht

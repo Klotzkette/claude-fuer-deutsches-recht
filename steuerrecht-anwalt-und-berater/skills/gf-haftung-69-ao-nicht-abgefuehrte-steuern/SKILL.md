@@ -1,6 +1,6 @@
 ---
 name: gf-haftung-69-ao-nicht-abgefuehrte-steuern
-description: "Wenn es um GF-Haftung Paragraf 69 AO für nicht abgeführte Lohn-/Umsatzsteuer in Steuerrecht – Steuerberater und Anwälte geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. Auswahlstichwort: Gf Haftung 69 Ao Nicht Abgefuehrte Steuern; Arbeitsfeld: Steuerrecht – Steuerberater und Anwälte."
+description: "Für GF-Haftung Paragraf 69 AO für nicht abgeführte Lohn-/Umsatzsteuer: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Schnittstellenkarte mit Zuständigkeits- und Nachweisfragen."
 ---
 
 # GF-Haftung § 69 AO für nicht abgeführte Lohn-/Umsatzsteuer

@@ -1,6 +1,6 @@
 ---
 name: auslandsvertreter-correspondent
-description: "Wenn es um Auslandsvertreter Correspondent in Berufsrecht Patentanwälte geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Gegenprüfung mit Fehler-, Beweis- und Fristencheck."
+description: "Für Auslandsvertreter Correspondent: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Schnittstellenkarte mit Zuständigkeits- und Nachweisfragen."
 ---
 
 # Patentanwälte: auslandsvertreter und correspondent risk - Rechtsprechungscheck, stärkste Gegenansicht und Red-Team-Korrektur

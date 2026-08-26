@@ -1,6 +1,6 @@
 ---
 name: buergschaft-und-gewaehrleistung-parlam
-description: "Wenn es um Buergschaft Und Gewaehrleistung Parlam in Haushaltsrecht BHO Bund und Länder geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Bürgschaft und Gewährleistung Parlam: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Buergschaft Und Gewaehrleistung Parlam

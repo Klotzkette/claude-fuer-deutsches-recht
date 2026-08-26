@@ -1,6 +1,6 @@
 ---
 name: output-klageschrift-bereicherungsklage
-description: "Wenn es um Output: Klageschrift Bereicherungsklage in bereicherungs-und-anfechtungsrecht-prüfer geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
+description: "Für Output: Klageschrift Bereicherungsklage: erstellt Entwurf mit Antrag, Beweis und Anlagen; Ergebnis: Schriftsatz mit Begründungs- und Anlagenlogik."
 ---
 
 # Output: Klageschrift Bereicherungsklage

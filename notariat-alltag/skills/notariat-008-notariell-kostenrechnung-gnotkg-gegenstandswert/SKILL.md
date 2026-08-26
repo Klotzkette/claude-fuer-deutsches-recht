@@ -1,6 +1,6 @@
 ---
 name: notariat-008-notariell-kostenrechnung-gnotkg-gegenstandswert
-description: "Wenn es um Notariat im Alltag: Notarielle Kostenrechnung GNotKG Gegenstandswert und Kostenschuldner in Notariat im Alltag geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Notariat im Alltag: Notarielle Kostenrechnung GNotKG Gegenstandswert und Kostenschuldner: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Notariat im Alltag: Notarielle Kostenrechnung GNotKG Gegenstandswert und Kostenschuldner

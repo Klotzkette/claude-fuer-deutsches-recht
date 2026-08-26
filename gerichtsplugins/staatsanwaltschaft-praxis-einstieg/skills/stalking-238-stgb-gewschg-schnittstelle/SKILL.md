@@ -1,6 +1,6 @@
 ---
 name: stalking-238-stgb-gewschg-schnittstelle
-description: "Wenn es um Stalking Paragraf 238 StGB und GewSchG-Schnittstelle in Staatsanwaltschaft Praxis-Einstieg geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Beweislast- und Substantiierungsmatrix."
+description: "Für Stalking Paragraf 238 StGB und GewSchG-Schnittstelle: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Stalking Paragraf 238 StGB und GewSchG-Schnittstelle

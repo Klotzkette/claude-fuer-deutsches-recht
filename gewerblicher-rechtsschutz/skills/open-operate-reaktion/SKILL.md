@@ -1,6 +1,6 @@
 ---
 name: open-operate-reaktion
-description: "Wenn es um Spezial: Formulare, Portale und Einreichungswege in Plugin: Gewerblicher Rechtsschutz geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert einen Einreichungsplan mit Form-, Portal- und Nachweischeck."
+description: "Für Spezial: Formulare, Portale und Einreichungswege: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Spezial: Formulare, Portale und Einreichungswege

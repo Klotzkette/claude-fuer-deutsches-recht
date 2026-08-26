@@ -1,6 +1,6 @@
 ---
 name: mauergrundstueck-chronologie-bauen
-description: "Wenn es um Mauergrundstueck Chronologie Bauen in Einigungsvertrag und Vermögensrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Chronologie mit Belegmatrix und Widerspruchsliste."
+description: "Für Mauergrundstück Chronologie Bauen: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Chronologie mit Beleg- und Widerspruchsmatrix."
 ---
 
 # Mauergrundstueck Chronologie Bauen

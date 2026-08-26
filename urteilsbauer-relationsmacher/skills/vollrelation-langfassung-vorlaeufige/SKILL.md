@@ -1,6 +1,6 @@
 ---
 name: vollrelation-langfassung-vorlaeufige
-description: "Wenn es um Vollrelation Langfassung - Schulstandard für Prüfung in Urteilsbauer und Relationsmacher geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. Auswahlstichwort: Vollrelation Langfassung Vorlaeufige; Arbeitsfeld: Urteilsbauer und Relationsmacher."
+description: "Für Vollrelation Langfassung - Schulstandard für Prüfung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Schnittstellenkarte mit Zuständigkeits- und Nachweisfragen."
 ---
 
 # Vollrelation Langfassung - Schulstandard für Prüfung

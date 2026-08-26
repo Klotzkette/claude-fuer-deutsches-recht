@@ -1,6 +1,6 @@
 ---
 name: automation-monitoring-billing-narratives
-description: "Wenn es um Automationen und Monitoring in Corporate-Kanzlei geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Beweislast- und Substantiierungsmatrix. Auswahlstichwort: Automation Monitoring Billing Narratives; Arbeitsfeld: Corporate-Kanzlei."
+description: "Für Automationen und Monitoring: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt. Fachgebiet: Corporate-Kanzlei. Route: automation-monitoring-billing-narratives."
 ---
 
 # Automationen und Monitoring

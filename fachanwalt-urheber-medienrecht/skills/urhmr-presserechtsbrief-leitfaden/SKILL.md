@@ -1,6 +1,6 @@
 ---
 name: urhmr-presserechtsbrief-leitfaden
-description: "Wenn es um Urhmr Presserechtsbrief Leitfaden in Fachanwalt Urheber Medienrecht geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
+description: "Für Urhmr Presserechtsbrief Leitfaden: erstellt Entwurf mit Antrag, Beweis und Anlagen; Ergebnis: Schriftsatz mit Begründungs- und Anlagenlogik."
 ---
 
 # Leitfaden Presserechtsbrief: Unterlassung Gegendarstellung Berichtigung Schadensersatz, Prüfraster Tatsachenbehauptung Werturteil, Verdachtsberichterstattung

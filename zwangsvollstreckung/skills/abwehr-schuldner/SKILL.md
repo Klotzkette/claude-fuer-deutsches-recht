@@ -1,6 +1,6 @@
 ---
 name: abwehr-schuldner
-description: "Wenn es um Schuldnerabwehr in der Zwangsvollstreckung in Zwangsvollstreckung geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
+description: "Für Schuldnerabwehr in der Zwangsvollstreckung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Schuldnerabwehr in der Zwangsvollstreckung

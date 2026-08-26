@@ -1,6 +1,6 @@
 ---
 name: recherche-start-rechtsberatungsstelle
-description: "Wenn es um Recherchefahrplan: Orientierung, keine Recherche in Plugin für die studentische Rechtsberatungsstelle geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Recherchefahrplan: Orientierung, keine Recherche: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Recherchefahrplan: Orientierung, keine Recherche

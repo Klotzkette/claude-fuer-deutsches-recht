@@ -1,6 +1,6 @@
 ---
 name: bank-kyc-ubo-und-transparenzregister
-description: "Wenn es um Bank, KYC, UBO und Transparenzregister in gesellschaftsgründer — Gründungsassistent für deutsche geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Dokumentenmatrix mit Nachforderungsliste."
+description: "Für Bank, KYC, UBO und Transparenzregister: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Einreichungsplan mit Form- und Nachweischeck."
 ---
 # Bank, KYC, UBO und Transparenzregister
 

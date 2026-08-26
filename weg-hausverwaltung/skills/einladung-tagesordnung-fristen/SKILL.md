@@ -1,6 +1,6 @@
 ---
 name: einladung-tagesordnung-fristen
-description: "Wenn es um Einladung, Tagesordnung und Fristen in WEG- und Hausverwaltung geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Einladung, Tagesordnung und Fristen: prüft Frist, Form, Zuständigkeit und Eilbedarf; Ergebnis: Fristen- und Risikoampel."
 ---
 
 # Einladung, Tagesordnung und Fristen

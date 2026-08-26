@@ -1,6 +1,6 @@
 ---
 name: betreuungsverein-behoerde-hilfe-holen
-description: "Wenn es um Hilfe holen: Betreuungsverein, Behörde, Gericht in Betreuungsrecht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert einen Einreichungsplan mit Form-, Portal- und Nachweischeck. Auswahlstichwort: Betreuungsverein Behoerde Hilfe Holen; Arbeitsfeld: Betreuungsrecht."
+description: "Für Hilfe holen: Betreuungsverein, Behörde, Gericht: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Schnittstellenkarte mit Zuständigkeits- und Nachweisfragen. Fachgebiet: Betreuungsrecht. Route: betreuungsverein-behoerde-hilfe-holen."
 ---
 
 # Hilfe holen: Betreuungsverein, Behörde, Gericht

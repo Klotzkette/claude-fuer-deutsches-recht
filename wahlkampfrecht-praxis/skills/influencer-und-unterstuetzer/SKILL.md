@@ -1,6 +1,6 @@
 ---
 name: influencer-und-unterstuetzer
-description: "Wenn es um Influencer Und Unterstuetzer in Wahlkampfrecht Praxis geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Influencer und Unterstützer: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Influencer Und Unterstuetzer

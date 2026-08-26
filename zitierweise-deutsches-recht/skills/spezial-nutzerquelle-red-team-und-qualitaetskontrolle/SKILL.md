@@ -1,6 +1,6 @@
 ---
 name: spezial-nutzerquelle-red-team-und-qualitaetskontrolle
-description: "Wenn es um Nutzerquelle: Red-Team und Qualitätskontrolle in Zitierweise deutsches Recht geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Nutzerquelle: Red-Team und Qualitätskontrolle: prüft Ergebnis, Beweislast und Gegenposition; Ergebnis: Gegenprüfung mit Beweis- und Fristencheck."
 ---
 
 # Nutzerquelle: Red-Team und Qualitätskontrolle

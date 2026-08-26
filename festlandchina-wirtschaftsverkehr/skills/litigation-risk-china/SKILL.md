@@ -1,6 +1,6 @@
 ---
 name: litigation-risk-china
-description: "Wenn es um Prozessrisiken China: Gerichte/Beweis/Vollstreckung in China-Wirtschaftsverkehr geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
+description: "Für Prozessrisiken China: Gerichte/Beweis/Vollstreckung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Prozessrisiken China: Gerichte/Beweis/Vollstreckung

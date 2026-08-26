@@ -1,6 +1,6 @@
 ---
 name: bmleh-tierschutz-und-tiergesundheitsrecht
-description: "Wenn es um Tierschutz- und Tiergesundheitsrecht (BMLEH) in Legistik-Werkstatt geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen. Auswahlstichwort: Bmleh Tierschutz Und Tiergesundheitsrecht; Arbeitsfeld: Legistik-Werkstatt."
+description: "Für Tierschutz- und Tiergesundheitsrecht (BMLEH): ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt. Fachgebiet: Legistik-Werkstatt. Route: bmleh-tierschutz-und-tiergesundheitsrecht."
 ---
 
 # Tierschutz- und Tiergesundheitsrecht (BMLEH)

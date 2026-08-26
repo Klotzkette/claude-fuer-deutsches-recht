@@ -1,6 +1,6 @@
 ---
 name: drg-093-gute-rechtsgeschichte-fuer-laien
-description: "Wenn es um Gute Rechtsgeschichte Fuer Laien in Deutsche Rechtsgeschichte geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Gute Rechtsgeschichte für Laien: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt. Fachgebiet: Deutsche Rechtsgeschichte. Route: drg-093-gute-rechtsgeschichte-fuer-laien."
 ---
 
 # Gute Rechtsgeschichte Fuer Laien

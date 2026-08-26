@@ -1,6 +1,6 @@
 ---
 name: aufbewahrung-pruefungsakte
-description: "Wenn es um Aufbewahrung Pruefungsakte in Berufsrecht Wirtschaftsprüfer geht: klärt Rolle, Ziel, Frist, Unterlagen und den passenden nächsten Fachskill; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Aufbewahrung Prüfungsakte: ordnet Akte, Belege und Lücken; Ergebnis: Tatbestands- oder Anspruchsmatrix."
 ---
 
 # Wirtschaftsprüfer: aufbewahrung prüfungsakte - Kaltstart mit Faktenmatrix, Risikoampel und fehlenden Unterlagen

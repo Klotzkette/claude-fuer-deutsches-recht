@@ -1,6 +1,6 @@
 ---
 name: buergschaft-einreden-und-akzessorietaet
-description: "Wenn es um Bürgschaft: Einreden und Akzessorietät in BGB BT Prüfer geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Bürgschaft: Einreden und Akzessorietät: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Bürgschaft: Einreden und Akzessorietät

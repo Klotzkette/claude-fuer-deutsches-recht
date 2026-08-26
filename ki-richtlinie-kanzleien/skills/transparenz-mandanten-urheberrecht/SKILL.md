@@ -1,6 +1,6 @@
 ---
 name: transparenz-mandanten-urheberrecht
-description: "Wenn es um Transparenz gegenüber Mandanten in diesem Spezialbereich geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Beweislast- und Substantiierungsmatrix."
+description: "Für Transparenz gegenüber Mandanten: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Transparenz gegenüber Mandanten

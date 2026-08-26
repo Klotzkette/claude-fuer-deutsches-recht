@@ -1,6 +1,6 @@
 ---
 name: aussenwirtschaft-technologie-transfer-cloud-download
-description: "Wenn es um Technologietransfer durch Cloud und Downloads: Exportkontrolle immaterieller Gueter in Außenwirtschaft, Sanktionen, Zoll und CBAM geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Technologietransfer durch Cloud und Downloads: Exportkontrolle immaterieller Güter: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Technologietransfer durch Cloud und Downloads: Exportkontrolle immaterieller Gueter

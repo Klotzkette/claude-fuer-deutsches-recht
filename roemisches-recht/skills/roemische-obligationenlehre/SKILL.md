@@ -1,6 +1,6 @@
 ---
 name: roemische-obligationenlehre
-description: "Wenn es um Rom Roemische Obligationenlehre Im Handelsrecht Des Mitt in Römisches Recht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Rom Römische Obligationenlehre im Handelsrecht des Mitt: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Rom Roemische Obligationenlehre Im Handelsrecht Des Mitt

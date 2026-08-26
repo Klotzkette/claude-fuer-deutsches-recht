@@ -1,6 +1,6 @@
 ---
 name: vertrag-unterschrieben-abo-falle
-description: "Wenn es um Vertrag unterschrieben und bereut in Verbraucher im Rechtsstaat Alltag geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Vertrag unterschrieben und bereut: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Vertrag unterschrieben und bereut

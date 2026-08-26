@@ -1,6 +1,6 @@
 ---
 name: rechtsabteilung-betriebsuebergang-im-asset-deal
-description: "Wenn es um Rechtsabteilung: Betriebsübergang im Asset Deal in Mittelstands-Corporate/M&A geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Dokumentenmatrix mit Nachforderungsliste."
+description: "Für Rechtsabteilung: Betriebsübergang im Asset Deal: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Rechtsabteilung: Betriebsübergang im Asset Deal

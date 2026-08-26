@@ -7,13 +7,13 @@ Diese Vollprüfung enthält top-8 von 107 Skills (gekürzt für das Arbeitsfenst
 ## Inhaltsverzeichnis
 
 1. **juristischer-argumentationskern** — Schaltet sich ein, wenn in Bundeswehrrecht Wehrrecht ein juristisches Arbeitsprodukt tragfähig begründet werden muss; ve…
-2. **kaltstart-triage** — Wenn es um Bundeswehrrecht und Wehrrecht — Allgemein in Bundeswehrrecht und Wehrrecht geht: klärt Rolle, Ziel, Frist, Un…
-3. **status-soldat-beamter-zivilbeschaeftigter-klaeren** — Wenn es um Status klären: Soldat, Beamter oder Zivilbeschäftigter in Bundeswehrrecht und Wehrrecht geht: ordnet Sachverh…
-4. **weitere-beschwerde-und-gerichtlicher-antrag-wehrdienstgericht** — Wenn es um Weitere Beschwerde und gerichtlicher Antrag beim Wehrdienstgericht in Bundeswehrrecht und Wehrrecht geht: ers…
-5. **beurteilung-konkurrentenstreit-auswahlentscheidung** — Wenn es um Beurteilung, Konkurrentenstreit und Auswahlentscheidung in Bundeswehrrecht und Wehrrecht geht: ordnet Sachver…
-6. **bwbes-neu-002-wehrsold-freiwilliger-wehrdienst-unterhalt** — Wenn es um Bundeswehrrecht: Wehrsold freiwilliger Wehrdienst und Unterhaltssicherung in Bundeswehrrecht und Wehrrecht ge…
-7. **bwbes-neu-013-verwendung-tauglichkeit-finanz-folgen** — Wenn es um Bundeswehrrecht: Verwendungsfähigkeit Tauglichkeit und finanzielle Folgen in Bundeswehrrecht und Wehrrecht ge…
-8. **output-beschwerde-antrag-stellungnahme** — Wenn es um Output: Beschwerde, Antrag, Stellungnahme erstellen in Bundeswehrrecht und Wehrrecht geht: erstellt den passe…
+2. **kaltstart-triage** — Für Bundeswehrrecht und Wehrrecht — Allgemein: routet Rolle, Frist, Unterlagen und Fachschritt; Ergebnis: Prüfprodukt mi…
+3. **bwbes-neu-002-wehrsold-freiwilliger-wehrdienst-unterhalt** — Für Bundeswehrrecht: Wehrsold freiwilliger Wehrdienst und Unterhaltssicherung: ordnet Norm, Beweislast und Gegenargument…
+4. **bwbes-neu-013-verwendung-tauglichkeit-finanz-folgen** — Für Bundeswehrrecht: Verwendungsfähigkeit Tauglichkeit und finanzielle Folgen: ordnet Norm, Beweislast und Gegenargument…
+5. **bwbes-neu-007-versorgung-dienstunfall-wehrdienstschaden** — Für Bundeswehrrecht: Soldatenversorgung Dienstunfall Wehrdienstbeschädigung: ordnet Norm, Beweislast und Gegenargument; …
+6. **bwbes-neu-009-besoldung-reservist-wehruebung-ag-ausgleich** — Für Bundeswehrrecht: Besoldung Reservist Wehrübung und Arbeitgeberausgleich: ordnet Norm, Beweislast und Gegenargument; …
+7. **bwbes-neu-003-auslandsverwendungszuschlag-und-einsatzversorgung** — Für Bundeswehrrecht: Auslandsverwendungszuschlag und Einsatzversorgung: ordnet Norm, Beweislast und Gegenargument; Ergeb…
+8. **bwbes-neu-008-heilfuersorge-truppenaerztliche-versorgung-und-pkv** — Für Bundeswehrrecht: Heilfürsorge truppenärztliche Versorgung und PKV: ordnet Norm, Beweislast und Gegenargument; Ergebn…
 
 ---
 
@@ -136,7 +136,7 @@ Ausgangspunkt für dieses Plugin: Behörde trägt Tatsachengrundlage, Ermessen u
 
 ## Skill: `kaltstart-triage`
 
-_Wenn es um Bundeswehrrecht und Wehrrecht — Allgemein in Bundeswehrrecht und Wehrrecht geht: klärt Rolle, Ziel, Frist, Unterlagen und den passenden nächsten Fachskill; liefert eine Fristen- und Risikoampel mit Sofortschritten._
+_Für Bundeswehrrecht und Wehrrecht — Allgemein: routet Rolle, Frist, Unterlagen und Fachschritt; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt._
 
 # Bundeswehrrecht und Wehrrecht — Allgemein
 
@@ -299,311 +299,9 @@ Diese Tabelle wird aus dem tatsächlichen Skillbestand des Plugins gebildet. Wen
 
 ---
 
-## Skill: `status-soldat-beamter-zivilbeschaeftigter-klaeren`
-
-_Wenn es um Status klären: Soldat, Beamter oder Zivilbeschäftigter in Bundeswehrrecht und Wehrrecht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt._
-
-# Status klären: Soldat, Beamter oder Zivilbeschäftigter
-
-## Arbeitsweg
-
-- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
-- Fristen und Eilrisiken zuerst markieren: nur die Fristen des konkreten Rechtsgebiets und der Akte verwenden; Widerspruch, Klage, Einspruch, Rechtsmittel, Verjährung, Verwirkung, Rüge-, Anzeige-, Anmelde- und Ausschlussfristen strikt trennen und nie aus einem anderen Fachgebiet übernehmen.
-- Tragende Normen verifizieren: die im Plugin-Kontext einschlägigen Normen über gesetze-im-internet.de, dejure.org, eur-lex.europa.eu und die amtlichen Bundes-/Landesportale live prüfen — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
-- Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
-- Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
-
-## Fachkern: Status klären: Soldat, Beamter oder Zivilbeschäftigter
-- **Normen-/Quellenanker:** SG, WSG, WPflG, KDVG, WDO, SVG, BBesG, VwGO, truppendienstgerichtliche Zuständigkeiten und Grundrechte.
-- **Entscheidende Weiche:** Status, Befehl/Dienstpflicht, Gewissen/KDV, Besoldung/Versorgung, Disziplinarweg, Eilrechtsschutz und Nachweisführung trennen.
-- **Arbeitsprodukt:** Erzeuge eine konkrete Prüf- oder Entscheidungsmatrix mit Norm, Tatbestand, Beleg, Einwand, Risikoampel und nächstem Schritt; Anschluss-Skills nur bei echter Vertiefung nennen.
-
-## Worum geht es konkret
-
-Innerhalb der Bundeswehr arbeiten drei Statusgruppen mit unterschiedlichen Rechtsregimen: Soldaten (SG, WBO, WDO), Beamte der Bundeswehrverwaltung (BBG, BDG, BLV) und Tarifbeschäftigte (TVöD-Bund, BPersVG). Verfahrenswege, Disziplinarrecht, Versorgung und Mitbestimmung unterscheiden sich grundsätzlich. Der Skill ordnet den Mandantenstatus zu, klärt parallel laufende Rechtswege und schützt vor Falschadressierung.
-
-## Wann dieses Modul hilft / Kaltstart-Fragen
-
-- Welche Berufsbezeichnung steht im aktuellen Vertrag/Bescheid?
-- Wann erfolgten Ernennung oder Einstellung?
-- Welche Dienststelle (Truppenteil, Bundesamt für Personalmanagement, BAAINBw, Bundesamt für Infrastruktur)?
-- Liegt ein paralleles Statusverhältnis vor (Reservedienst neben Beamtenstatus, Soldat auf Zeit nach Beamtenlaufbahn)?
-- Welches Rechtsproblem ist im Raum (Disziplinar, Versetzung, Versorgung, Mitbestimmung)?
-- Welche Frist läuft – und welche Beschwerdeordnung gilt dafür?
-
-## Rechtlicher Rahmen
-
-- § 1 SG: Soldateneigenschaft – Berufssoldat, Soldat auf Zeit, freiwilliger Wehrdienstleistender, Reservist im Dienstverhältnis.
-- BBG, BLV: Bundesbeamtenrecht für Beamte der Bundeswehrverwaltung.
-- TVöD-Bund: Arbeitsverhältnisse mit dem Bund als Arbeitgeber.
-- BPersVG: Mitbestimmung der zivilen Beschäftigten.
-- SBG: Beteiligungsrechte der Soldaten (Vertrauensperson).
-- § 17 SG, § 7 SG: Soldatische Treuepflicht – gilt nur für Soldaten.
-- Truppendienstgericht (WDO/WBO) vs. Verwaltungsgericht (VwGO) vs. Arbeitsgericht (ArbGG) – Rechtsweg je nach Status.
-
-## / Schritt für Schritt
-
-1. **Status feststellen.** Ernennungs- oder Einstellungsurkunde, Arbeitsvertrag, Personalausweis (Truppenausweis vs. Dienstausweis).
-2. **Reservistenstatus prüfen.** Beamte/Tarifbeschäftigte können gleichzeitig Reservisten sein (UWBO, WPflG, Reservistendienst). Bei Heranziehung gilt SG zeitweise neben Beamten-/Tarifrecht.
-3. **Rechtsweg zuordnen.**
- - Soldat: WBO/WDO + Truppendienstgericht + BVerwG.
- - Beamter Bundeswehrverwaltung: BDG/BBG + Verwaltungsgericht.
- - Tarifbeschäftigter: TVöD + Arbeitsgericht.
-4. **Mitbestimmung.** Soldat: SBG-Vertrauensperson. Beamter/Beschäftigter: BPersVG-Personalrat. Mischverhältnisse beachten.
-5. **Versorgungsregime.** Soldat: SVG, BeamtVG (Versorgungslückenausgleich). Beamter: BeamtVG. Beschäftigter: gesetzliche Rente + ZVK.
-6. **Disziplinarregime.** Soldat: WDO (Verweis bis Entfernung aus dem Dienstverhältnis). Beamter: BDG (Verweis bis Entfernung). Beschäftigter: Arbeitsrecht (Abmahnung, Kündigung).
-7. **Doppelstatus dokumentieren.** Manche Soldaten wechseln in die Verwaltung – Übergangsregelungen prüfen.
-
-## Trade-off-Matrix
-
-| Mandat | Rechtsweg | Erste Maßnahme |
-| --- | --- | --- |
-| Versetzung Soldat | WBO § 17 → TDG | Beschwerde 1 Monat |
-| Versetzung Beamter | VwGO § 42 → VG | Widerspruch 1 Monat |
-| Kündigung Beschäftigter | KSchG → ArbG | Klage 3 Wochen |
-| Reservist heranziehbar | WPflG/UWBO | Widerspruch |
-
-## Praxistipps
-
-- Erste Frage immer: "Sind Sie verbeamtet, Soldat oder im Tarifvertrag beschäftigt?" – Mandanten verwechseln häufig "Bundeswehrangehöriger" und "Soldat".
-- Reservisten unterliegen während des Dienstes SG; sonst nur Reservistenrecht.
-- Tarifbeschäftigte sind keine Soldaten – aber Sicherheitsüberprüfung (SÜG) gilt häufig auch.
-- Bei doppeltem Mandat: getrennte Akten und Schriftsätze, klarer Hinweis im Briefkopf.
-- Im Streit über den Status: Statusklage zum jeweiligen Gericht (VG oder ArbG; Statusklage beim TDG nicht statthaft).
-
-## Mustertexte
-
-**Statusfrage an Mandant:**
-"Zur Klärung Ihres Rechtsstatus bitte ich um folgende Unterlagen: 1. Ernennungs- bzw. Einstellungsurkunde, 2. aktueller Arbeits-/Dienstvertrag, 3. Truppen- oder Dienstausweis (Kopie), 4. ggf. Reservistenbescheid und Heranziehungsbescheide, 5. Mitteilung über die zuständige Personalbearbeitungsstelle."
-
-**Klarstellender Schriftsatz bei Statusunklarheit:**
-"Vorsorglich weise ich darauf hin, dass mein Mandant zum maßgeblichen Zeitpunkt Soldat auf Zeit nach § 1 III SG war. Die [angerufene Stelle] ist daher zur Entscheidung nicht zuständig. Zuständig ist [...]. Hilfsweise bitte ich um Verweisung nach § 17a GVG entsprechend."
-
-## Typische Fehler
-
-- Soldatischen Mandanten beim Verwaltungsgericht klagen lassen – Klage unzulässig.
-- Reservisten als reine Zivilbeschäftigte behandeln – während Heranziehung gilt SG.
-- BDG-Vorschriften auf Soldaten anwenden – WDO ist abschließend.
-- Personalrat statt Vertrauensperson einschalten oder umgekehrt.
-- Versorgungsansprüche nach BeamtVG statt SVG prüfen.
-
-## Quellen Stand 06/2026
-
-- SG, WBO, WDO, SBG, SVG, WPflG – Volltexte gesetze-im-internet.de.
-- BBG, BDG, BLV, BeamtVG – Volltexte gesetze-im-internet.de.
-- BPersVG – Volltext gesetze-im-internet.de.
-- TVöD-Bund – aktuelle Fassung beim Bundesinnenministerium.
-- BVerwG zu Statusfragen – ständige Rechtsprechung (Az. nur verifiziert).
-
----
-
-## Skill: `weitere-beschwerde-und-gerichtlicher-antrag-wehrdienstgericht`
-
-_Wenn es um Weitere Beschwerde und gerichtlicher Antrag beim Wehrdienstgericht in Bundeswehrrecht und Wehrrecht geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik._
-
-# Weitere Beschwerde und gerichtlicher Antrag beim Wehrdienstgericht
-
-## Arbeitsbereich
-
-Weitere Beschwerde und gerichtlicher Antrag TDG: prüft § 16 WBO, § 17 WBO, TDG-Verfahren und BVerwG-Berufung. Norm-/Quellenanker: §§ 16–22a WBO, TDG. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
-## Arbeitsweg
-
-- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
-- Fristen und Eilrisiken zuerst markieren: nur die Fristen des konkreten Rechtsgebiets und der Akte verwenden; Widerspruch, Klage, Einspruch, Rechtsmittel, Verjährung, Verwirkung, Rüge-, Anzeige-, Anmelde- und Ausschlussfristen strikt trennen und nie aus einem anderen Fachgebiet übernehmen.
-- Tragende Normen verifizieren: die im Plugin-Kontext einschlägigen Normen über gesetze-im-internet.de, dejure.org, eur-lex.europa.eu und die amtlichen Bundes-/Landesportale live prüfen — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
-- Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
-- Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
-
-## Fachkern: Weitere Beschwerde und gerichtlicher Antrag beim Wehrdienstgericht
-- **Normen-/Quellenanker:** SG, WSG, WPflG, KDVG, WDO, SVG, BBesG, VwGO, truppendienstgerichtliche Zuständigkeiten und Grundrechte.
-- **Entscheidende Weiche:** Status, Befehl/Dienstpflicht, Gewissen/KDV, Besoldung/Versorgung, Disziplinarweg, Eilrechtsschutz und Nachweisführung trennen.
-- **Arbeitsprodukt:** Erzeuge eine konkrete Prüf- oder Entscheidungsmatrix mit Norm, Tatbestand, Beleg, Einwand, Risikoampel und nächstem Schritt; Anschluss-Skills nur bei echter Vertiefung nennen.
-
-## Fachlicher Kontext
-
-Die weitere Beschwerde (§ 16 WBO) und der Antrag auf gerichtliche Entscheidung (§ 17 WBO) sind die Rechtsmittel, wenn die erste Beschwerde erfolglos war.
-
-Das Truppendienstgericht (TDG) entscheidet über WBO-Anträge. BVerwG-Wehrdienstsenat ist letzte Instanz.
-
-## Einschlägige Normen und Quellen
-
-- § 16 WBO — Weitere Beschwerde
-- § 17 WBO — Antrag auf gerichtliche Entscheidung
-- §§ 19–22a WBO — TDG-Verfahren
-- § 82 WDO — Berufung BVerwG
-- BVerwG Wehrdienstsenat
-
-## Sachverhaltsaufnahme — Startfragen
-
-- Liegt ein ablehnender Beschwerdebescheid vor?
-- Welche Fristen gelten für weitere Beschwerde oder Antrag TDG?
-- Was ist Gegenstand (dienstrechtliche Maßnahme, Disziplinar)?
-- Neue Tatsachen oder Beweise für weiteres Verfahren?
-
-## Prüf- und Arbeitslogik
-
-### Schritt 1 — Weitere Beschwerde § 16 WBO
-
-§ 16 WBO: Weitere Beschwerde an nächst höheren Disziplinarvorgesetzten.
-Frist: 1 Monat nach Zustellung Beschwerdebescheid.
-Ziel: Aufhebung oder Änderung der Ausgangsentscheidung.
-Dann: Antrag TDG § 17 WBO möglich.
-
-### Schritt 2 — Antrag auf gerichtliche Entscheidung § 17 WBO
-
-§ 17 WBO: Antrag beim zuständigen Truppendienstgericht.
-Frist: 2 Wochen nach Beschwerdebescheid (WICHTIG!).
-Form: schriftlich, beim TDG.
-TDG: zweistufig — Kammer und Senat.
-
-### Schritt 3 — TDG-Verfahren §§ 19–22a WBO
-
-Mündliche Verhandlung: grundsätzlich möglich.
-Beweis: Soldaten haben Anwesenheitsrecht.
-Beschluss oder Urteil.
-Berufung: BVerwG Wehrdienstsenat.
-
-### Schritt 4 — BVerwG-Wehrdienstsenat
-
-Revision/Berufung: 1 Monat nach Urteil TDG.
-Zulassungsberufung: nur bei grundsätzlicher Bedeutung.
-BVerwG entscheidet in letzter Instanz.
-Kein weiteres Rechtsmittel nach BVerwG (außer BVerfG).
-
-## Arbeitsergebnisse
-
-Erzeuge je nach Auftrag eines oder mehrere dieser Ergebnisse:
-
-- Kurzvermerk mit Risikoampel (grün/gelb/rot)
-- Prüfschema mit Tatbestandselementen und offenen Punkten
-- Fragenliste für Mandanten/Sachverhaltsgespräch
-- Entwurfsbausteine (Beschwerde, Antrag, Schriftsatz, Stellungnahme)
-- Dokumentenanforderungsliste
-- Nächster Schritt mit konkreter Frist
-
-- Fristen-Tabelle: Beschwerde → Weitere Beschwerde → TDG → BVerwG
-- Muster: Antrag auf gerichtliche Entscheidung § 17 WBO
-- Prüfschema: Welches Rechtsmittel als nächstes?
-
-## Qualitätsgate
-
-Vor Ausgabe prüfen:
-
-- Fristen, Zuständigkeit und Rechtsgrundlage vollständig?
-- Offene Tatsachen als `[offen: ...]` markiert?
-- Gegenargumente und Verteidigungslinien formuliert?
-- Beweislastverteilung geklärt?
-- Output entspricht dem gewünschten Arbeitsergebnis?
-
----
-
-## Skill: `beurteilung-konkurrentenstreit-auswahlentscheidung`
-
-_Wenn es um Beurteilung, Konkurrentenstreit und Auswahlentscheidung in Bundeswehrrecht und Wehrrecht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen._
-
-# Beurteilung, Konkurrentenstreit und Auswahlentscheidung
-
-## Arbeitsbereich
-
-Beurteilung, Konkurrentenstreit, Auswahlentscheidung: prüft Beurteilungsfehlerlehre, Bestenauslese, Auswahlvermerk und einstweiligen Rechtsschutz. Norm-/Quellenanker: Art. 33 Abs. 2 GG, § 3 SG, ZDv A-1340/50. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
-## Arbeitsweg
-
-- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
-- Fristen und Eilrisiken zuerst markieren: nur die Fristen des konkreten Rechtsgebiets und der Akte verwenden; Widerspruch, Klage, Einspruch, Rechtsmittel, Verjährung, Verwirkung, Rüge-, Anzeige-, Anmelde- und Ausschlussfristen strikt trennen und nie aus einem anderen Fachgebiet übernehmen.
-- Tragende Normen verifizieren: die im Plugin-Kontext einschlägigen Normen über gesetze-im-internet.de, dejure.org, eur-lex.europa.eu und die amtlichen Bundes-/Landesportale live prüfen — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
-- Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
-- Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
-
-## Fachkern: Beurteilung, Konkurrentenstreit und Auswahlentscheidung
-- **Normen-/Quellenanker:** SG, WSG, WPflG, KDVG, WDO, SVG, BBesG, VwGO, truppendienstgerichtliche Zuständigkeiten und Grundrechte.
-- **Entscheidende Weiche:** Status, Befehl/Dienstpflicht, Gewissen/KDV, Besoldung/Versorgung, Disziplinarweg, Eilrechtsschutz und Nachweisführung trennen.
-- **Arbeitsprodukt:** Erzeuge eine konkrete Prüf- oder Entscheidungsmatrix mit Norm, Tatbestand, Beleg, Einwand, Risikoampel und nächstem Schritt; Anschluss-Skills nur bei echter Vertiefung nennen.
-
-## Fachlicher Kontext
-
-Beurteilungen sind Grundlage für Beförderungen und Verwendungsentscheidungen. Fehlerhafte Beurteilungen blockieren Karrieren; unterlegene Bewerber haben Konkurrentenschutzrecht aus Art. 33 Abs. 2 GG.
-
-Typische Fehler: unzuständiger Beurteiler, fehlende Begründung, Nichtberücksichtigung wesentlicher Leistungen, Verstoß gegen ZDv-Maßstäbe. Einstweiliger Rechtsschutz ist oft zeitkritisch.
-
-## Einschlägige Normen und Quellen
-
-- Art. 33 Abs. 2 GG — Bestenauslese
-- § 3 SG — Ernennungs- und Verwendungsgrundsätze
-- § 23 SG — Personalakte und Beurteilungen
-- ZDv A-1340/50 — Beurteilungsbestimmungen
-- §§ 6, 17 WBO — Beschwerde und gerichtlicher Antrag
-- § 123 VwGO — Einstweiliger Rechtsschutz (analog)
-
-## Sachverhaltsaufnahme — Startfragen
-
-- Welche Beurteilung oder Auswahlentscheidung wird angefochten?
-- Wann wurde die Beurteilung eröffnet (Fristbeginn!)?
-- Welche konkreten Fehler werden gerügt?
-- Gibt es Auswahlentscheidung zugunsten eines Konkurrenten?
-- Ist die Stelle noch unbesetzt (einstweiliger Rechtsschutz sinnvoll)?
-- Soll Besetzungsstopp beantragt werden?
-
-## Prüf- und Arbeitslogik
-
-### Schritt 1 — Beurteilungsfehlerlehre
-
-Dienstherr hat Beurteilungsspielraum: nur Fehler kontrollierbar, nicht Richtigkeit.
-Kontrollfähige Fehler: Unzuständigkeit des Beurteilers, Verfahrensfehler, sachfremde Erwägungen, Widerspruch zum Akteninhalt.
-Nicht prüfbar: Wertung an sich, solange nachvollziehbar.
-
-### Schritt 2 — Auswahlentscheidung und Bestenauslese
-
-Art. 33 Abs. 2 GG: Eignung, Befähigung, fachliche Leistung.
-Aktuelle Beurteilung hat Vorrang vor älteren.
-Gleichwertigkeit: Hilfskriterien zulässig (Vorbildung, Einsatzerfahrung).
-Auswahlvermerk: muss Bewerbervergleich erkennbar machen.
-
-### Schritt 3 — WBO-Beschwerde gegen Beurteilung
-
-Frist: 1 Monat nach Eröffnung (§ 6 WBO).
-Ziel: Aufhebung und Neubeurteilung.
-Gleichzeitig: WBO-Beschwerde gegen Auswahlentscheidung (separate Maßnahme!).
-Eröffnungsprotokoll aufbewahren.
-
-### Schritt 4 — Einstweiliger Rechtsschutz
-
-Antrag auf gerichtliche Entscheidung § 17 WBO beim TDG.
-Besetzungsstopp: TDG kann vorläufig untersagen.
-Sofort handeln: Beförderung schafft vollendete Tatsachen!
-Akteneinsicht beantragen (Auswahlvermerk, Beurteilungen Mitbewerber).
-
-## Arbeitsergebnisse
-
-Erzeuge je nach Auftrag eines oder mehrere dieser Ergebnisse:
-
-- Kurzvermerk mit Risikoampel (grün/gelb/rot)
-- Prüfschema mit Tatbestandselementen und offenen Punkten
-- Fragenliste für Mandanten/Sachverhaltsgespräch
-- Entwurfsbausteine (Beschwerde, Antrag, Schriftsatz, Stellungnahme)
-- Dokumentenanforderungsliste
-- Nächster Schritt mit konkreter Frist
-
-- Muster-WBO-Beschwerde gegen Beurteilung
-- Checkliste: Beurteilungsfehler — Typen und Nachweis
-- Prüfschema: Auswahlentscheidung Art. 33 Abs. 2 GG
-
-## Qualitätsgate
-
-Vor Ausgabe prüfen:
-
-- Fristen, Zuständigkeit und Rechtsgrundlage vollständig?
-- Offene Tatsachen als `[offen: ...]` markiert?
-- Gegenargumente und Verteidigungslinien formuliert?
-- Beweislastverteilung geklärt?
-- Output entspricht dem gewünschten Arbeitsergebnis?
-
----
-
 ## Skill: `bwbes-neu-002-wehrsold-freiwilliger-wehrdienst-unterhalt`
 
-_Wenn es um Bundeswehrrecht: Wehrsold freiwilliger Wehrdienst und Unterhaltssicherung in Bundeswehrrecht und Wehrrecht geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten._
+_Für Bundeswehrrecht: Wehrsold freiwilliger Wehrdienst und Unterhaltssicherung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Schnittstellenkarte mit Zuständigkeits- und Nachweisfragen._
 
 # Bundeswehrrecht: Wehrsold freiwilliger Wehrdienst und Unterhaltssicherung
 
@@ -650,7 +348,7 @@ Dieser Skill bearbeitet **Wehrsold freiwilliger Wehrdienst und Unterhaltssicheru
 
 ## Skill: `bwbes-neu-013-verwendung-tauglichkeit-finanz-folgen`
 
-_Wenn es um Bundeswehrrecht: Verwendungsfähigkeit Tauglichkeit und finanzielle Folgen in Bundeswehrrecht und Wehrrecht geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten._
+_Für Bundeswehrrecht: Verwendungsfähigkeit Tauglichkeit und finanzielle Folgen: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Schnittstellenkarte mit Zuständigkeits- und Nachweisfragen._
 
 # Bundeswehrrecht: Verwendungsfähigkeit Tauglichkeit und finanzielle Folgen
 
@@ -695,97 +393,191 @@ Dieser Skill bearbeitet **Verwendungsfähigkeit Tauglichkeit und finanzielle Fol
 
 ---
 
-## Skill: `output-beschwerde-antrag-stellungnahme`
+## Skill: `bwbes-neu-007-versorgung-dienstunfall-wehrdienstschaden`
 
-_Wenn es um Output: Beschwerde, Antrag, Stellungnahme erstellen in Bundeswehrrecht und Wehrrecht geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik._
+_Für Bundeswehrrecht: Soldatenversorgung Dienstunfall Wehrdienstbeschädigung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Schnittstellenkarte mit Zuständigkeits- und Nachweisfragen._
 
-# Output: Beschwerde, Antrag, Stellungnahme erstellen
+# Bundeswehrrecht: Soldatenversorgung Dienstunfall Wehrdienstbeschädigung
 
-## Fachkern: Output: Beschwerde, Antrag, Stellungnahme erstellen
-- **Normen-/Quellenanker:** SG, WSG, WPflG, KDVG, WDO, SVG, BBesG, VwGO, truppendienstgerichtliche Zuständigkeiten und Grundrechte.
-- **Entscheidende Weiche:** Status, Befehl/Dienstpflicht, Gewissen/KDV, Besoldung/Versorgung, Disziplinarweg, Eilrechtsschutz und Nachweisführung trennen.
-- **Arbeitsprodukt:** Erzeuge eine konkrete Prüf- oder Entscheidungsmatrix mit Norm, Tatbestand, Beleg, Einwand, Risikoampel und nächstem Schritt; Anschluss-Skills nur bei echter Vertiefung nennen.
+## Aufgabe
 
-## Fachlicher Kontext
+Dieser Skill bearbeitet **Soldatenversorgung Dienstunfall Wehrdienstbeschädigung** im Bereich **Bundeswehrrecht**. Er soll nicht schematisch antworten, sondern zuerst die praktische Lage sortieren: Wer handelt, welche Unterlagen liegen vor, welche Frist läuft, welche Behörde oder Gegenpartei entscheidet und welches Ergebnis gebraucht wird.
 
-Der Output-Skill produziert handlungsfertige Schriftstücke: WBO-Beschwerde, Vollzugsaussetzungsantrag, Widerspruch, Akteneinsichtsantrag, Stellungnahme im Disziplinarverfahren.
+## Kaltstart in 6 Fragen
 
-Qualitätsanforderungen: klar strukturiert, alle Pflichtbestandteile, Rechtsprechungsbelege, Fristen vermerkt.
+1. Welche Rolle hat die Nutzerin: Mandant, Unternehmen, Behörde, Kanzlei, Gericht, Verlag, Betreiber, Investor oder Betroffene?
+2. Geht es um Prüfung, Entwurf, Verteidigung, Anmeldung, Register, Frist, Verhandlung, Compliance, Streit oder Dokumentation?
+3. Welche Dokumente liegen vor und welche fehlen: Vertrag, Bescheid, Registerauszug, Screenshot, E-Mail, Rechnung, Gutachten, Normtext, Protokoll?
+4. Welche Rechtsordnung, Branche, Epoche, Sprache oder technische Umgebung ist betroffen?
+5. Welche Entscheidung muss heute fallen und welche Punkte dürfen erst nach Live-Check beantwortet werden?
+6. Soll das Ergebnis als Ampel, Memo, Klausel, Antrag, Fristenplan, Behördenschreiben, Red-Team oder Dashboard kommen?
 
-## Einschlägige Normen und Quellen
+## Prüfprogramm
 
-- §§ 6–11 WBO — Beschwerdeverfahren (Form, Frist, Inhalt)
-- § 17 WBO — Antrag auf gerichtliche Entscheidung
-- VwGO §§ 68–74 — Widerspruch und Klage
-- WDO §§ 91–92 — Schlussplädoyer TDG
-- ZDv — Formvorschriften
+- Sachverhalt in Tatsachen, Annahmen, Wertungen und offene Beweisfragen zerlegen.
+- Normtext und aktuelle Rechtsprechung live prüfen
+- Form, Frist, Zuständigkeit und Beweis getrennt behandeln
+- Keine BeckRS- oder Literatur-Blindzitate
+- Ergebnis immer in Handlungsschritt übersetzen
+- Zuständigkeit, Form, Frist, Beweislast, Vollzug und Rechtsbehelf immer getrennt ausgeben.
+- Bei historischen, internationalen oder technischen Begriffen erst übersetzen, dann rechtlich einordnen.
+- Keine Scheingenauigkeit: Wenn Quelle, Normstand oder Rechtsprechung fehlen, einen Live-Check als nächsten Schritt formulieren.
 
-## Sachverhaltsaufnahme — Startfragen
+## Typische Fallen
 
-- Was soll entstehen: Beschwerde, Antrag, Stellungnahme, Schriftsatz?
-- An wen und in welchem Verfahren?
-- Was ist der genaue Sachverhalt und die rechtliche Einordnung?
-- Sind alle relevanten Dokumente bekannt?
-- Was ist das Ziel (Aufhebung, Änderung, Aussetzung, Feststellung)?
+- Ein Begriff klingt vertraut, hat aber in der konkreten Rechtsordnung oder Praxis eine andere Funktion.
+- Zuständigkeit, Form oder Zustellung wird übersehen, obwohl der materielle Punkt gut aussieht.
+- Eine Behauptung wird aus Modellwissen mit einer Fundstelle versehen. Das ist verboten; erst prüfen, dann zitieren.
+- Der Output ist juristisch richtig, hilft aber der Nutzerin operativ nicht. Deshalb immer nächste Handlung und Dokumentationsspur liefern.
 
-## Prüf- und Arbeitslogik
+## Output
 
-### Schritt 1 — WBO-Beschwerde Struktur
+- Memo
+- Checkliste
+- Mustertext
+- Fristenplan
+- Red-Team
 
-Kopf: An [Disziplinarvorgesetzter], Datum, Absender.
-Betreff: Beschwerde nach § 6 WBO.
-Sachverhalt: tatsächliche Darstellung der Maßnahme.
-Rechtliche Würdigung: Norm, Tatbestand, Rechtswidrigkeit.
-Antrag: konkret formuliert.
-Ggf. Vollzugsaussetzung § 9 WBO.
+---
 
-### Schritt 2 — Widerspruch VwGO
+## Skill: `bwbes-neu-009-besoldung-reservist-wehruebung-ag-ausgleich`
 
-§ 70 VwGO: Beschwerdestelle, 1 Monat.
-Aufbau: Bescheid-Bezeichnung, Anfechtungsantrag, Begründung.
-Begründung: Rechts- oder Ermessensfehler.
-Anlage: Kopien Bescheid und Belege.
+_Für Bundeswehrrecht: Besoldung Reservist Wehrübung und Arbeitgeberausgleich: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Schnittstellenkarte mit Zuständigkeits- und Nachweisfragen._
 
-### Schritt 3 — Stellungnahme im Disziplinarverfahren
+# Bundeswehrrecht: Besoldung Reservist Wehrübung und Arbeitgeberausgleich
 
-Formfrei, aber klar gegliedert.
-Tatbestandsprüfung: Pflichtverletzung bestreiten oder relativieren.
-Milderungsgründe: § 38 WDO.
-Maßnahmenangemessenheit: Verhältnismäßigkeit.
-Beweisangebote.
+## Aufgabe
 
-### Schritt 4 — Qualitätsgate vor Ausgabe
+Dieser Skill bearbeitet **Besoldung Reservist Wehrübung und Arbeitgeberausgleich** im Bereich **Bundeswehrrecht**. Er soll nicht schematisch antworten, sondern zuerst die praktische Lage sortieren: Wer handelt, welche Unterlagen liegen vor, welche Frist läuft, welche Behörde oder Gegenpartei entscheidet und welches Ergebnis gebraucht wird.
 
-Alle Pflichtbestandteile vorhanden?
-Frist vermerkt?
-Antrag konkret formuliert?
-Keine erfundenen Rechtsprechungszitate?
-Ton: sachlich, nicht emotional?
+## Kaltstart in 6 Fragen
 
-## Arbeitsergebnisse
+1. Welche Rolle hat die Nutzerin: Mandant, Unternehmen, Behörde, Kanzlei, Gericht, Verlag, Betreiber, Investor oder Betroffene?
+2. Geht es um Prüfung, Entwurf, Verteidigung, Anmeldung, Register, Frist, Verhandlung, Compliance, Streit oder Dokumentation?
+3. Welche Dokumente liegen vor und welche fehlen: Vertrag, Bescheid, Registerauszug, Screenshot, E-Mail, Rechnung, Gutachten, Normtext, Protokoll?
+4. Welche Rechtsordnung, Branche, Epoche, Sprache oder technische Umgebung ist betroffen?
+5. Welche Entscheidung muss heute fallen und welche Punkte dürfen erst nach Live-Check beantwortet werden?
+6. Soll das Ergebnis als Ampel, Memo, Klausel, Antrag, Fristenplan, Behördenschreiben, Red-Team oder Dashboard kommen?
 
-Erzeuge je nach Auftrag eines oder mehrere dieser Ergebnisse:
+## Prüfprogramm
 
-- Kurzvermerk mit Risikoampel (grün/gelb/rot)
-- Prüfschema mit Tatbestandselementen und offenen Punkten
-- Fragenliste für Mandanten/Sachverhaltsgespräch
-- Entwurfsbausteine (Beschwerde, Antrag, Schriftsatz, Stellungnahme)
-- Dokumentenanforderungsliste
-- Nächster Schritt mit konkreter Frist
+- Sachverhalt in Tatsachen, Annahmen, Wertungen und offene Beweisfragen zerlegen.
+- Normtext und aktuelle Rechtsprechung live prüfen
+- Form, Frist, Zuständigkeit und Beweis getrennt behandeln
+- Keine BeckRS- oder Literatur-Blindzitate
+- Ergebnis immer in Handlungsschritt übersetzen
+- Zuständigkeit, Form, Frist, Beweislast, Vollzug und Rechtsbehelf immer getrennt ausgeben.
+- Bei historischen, internationalen oder technischen Begriffen erst übersetzen, dann rechtlich einordnen.
+- Keine Scheingenauigkeit: Wenn Quelle, Normstand oder Rechtsprechung fehlen, einen Live-Check als nächsten Schritt formulieren.
 
-- Vorlage: WBO-Beschwerde (leer, ausfüllbar)
-- Vorlage: Widerspruch nach VwGO
-- Vorlage: Stellungnahme Disziplinarverfahren
+## Typische Fallen
 
-## Qualitätsgate
+- Ein Begriff klingt vertraut, hat aber in der konkreten Rechtsordnung oder Praxis eine andere Funktion.
+- Zuständigkeit, Form oder Zustellung wird übersehen, obwohl der materielle Punkt gut aussieht.
+- Eine Behauptung wird aus Modellwissen mit einer Fundstelle versehen. Das ist verboten; erst prüfen, dann zitieren.
+- Der Output ist juristisch richtig, hilft aber der Nutzerin operativ nicht. Deshalb immer nächste Handlung und Dokumentationsspur liefern.
 
-Vor Ausgabe prüfen:
+## Output
 
-- Fristen, Zuständigkeit und Rechtsgrundlage vollständig?
-- Offene Tatsachen als `[offen: ...]` markiert?
-- Gegenargumente und Verteidigungslinien formuliert?
-- Beweislastverteilung geklärt?
-- Output entspricht dem gewünschten Arbeitsergebnis?
+- Memo
+- Checkliste
+- Mustertext
+- Fristenplan
+- Red-Team
+
+---
+
+## Skill: `bwbes-neu-003-auslandsverwendungszuschlag-und-einsatzversorgung`
+
+_Für Bundeswehrrecht: Auslandsverwendungszuschlag und Einsatzversorgung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Schnittstellenkarte mit Zuständigkeits- und Nachweisfragen._
+
+# Bundeswehrrecht: Auslandsverwendungszuschlag und Einsatzversorgung
+
+## Aufgabe
+
+Dieser Skill bearbeitet **Auslandsverwendungszuschlag und Einsatzversorgung** im Bereich **Bundeswehrrecht**. Er soll nicht schematisch antworten, sondern zuerst die praktische Lage sortieren: Wer handelt, welche Unterlagen liegen vor, welche Frist läuft, welche Behörde oder Gegenpartei entscheidet und welches Ergebnis gebraucht wird.
+
+## Kaltstart in 6 Fragen
+
+1. Welche Rolle hat die Nutzerin: Mandant, Unternehmen, Behörde, Kanzlei, Gericht, Verlag, Betreiber, Investor oder Betroffene?
+2. Geht es um Prüfung, Entwurf, Verteidigung, Anmeldung, Register, Frist, Verhandlung, Compliance, Streit oder Dokumentation?
+3. Welche Dokumente liegen vor und welche fehlen: Vertrag, Bescheid, Registerauszug, Screenshot, E-Mail, Rechnung, Gutachten, Normtext, Protokoll?
+4. Welche Rechtsordnung, Branche, Epoche, Sprache oder technische Umgebung ist betroffen?
+5. Welche Entscheidung muss heute fallen und welche Punkte dürfen erst nach Live-Check beantwortet werden?
+6. Soll das Ergebnis als Ampel, Memo, Klausel, Antrag, Fristenplan, Behördenschreiben, Red-Team oder Dashboard kommen?
+
+## Prüfprogramm
+
+- Sachverhalt in Tatsachen, Annahmen, Wertungen und offene Beweisfragen zerlegen.
+- Normtext und aktuelle Rechtsprechung live prüfen
+- Form, Frist, Zuständigkeit und Beweis getrennt behandeln
+- Keine BeckRS- oder Literatur-Blindzitate
+- Ergebnis immer in Handlungsschritt übersetzen
+- Zuständigkeit, Form, Frist, Beweislast, Vollzug und Rechtsbehelf immer getrennt ausgeben.
+- Bei historischen, internationalen oder technischen Begriffen erst übersetzen, dann rechtlich einordnen.
+- Keine Scheingenauigkeit: Wenn Quelle, Normstand oder Rechtsprechung fehlen, einen Live-Check als nächsten Schritt formulieren.
+
+## Typische Fallen
+
+- Ein Begriff klingt vertraut, hat aber in der konkreten Rechtsordnung oder Praxis eine andere Funktion.
+- Zuständigkeit, Form oder Zustellung wird übersehen, obwohl der materielle Punkt gut aussieht.
+- Eine Behauptung wird aus Modellwissen mit einer Fundstelle versehen. Das ist verboten; erst prüfen, dann zitieren.
+- Der Output ist juristisch richtig, hilft aber der Nutzerin operativ nicht. Deshalb immer nächste Handlung und Dokumentationsspur liefern.
+
+## Output
+
+- Memo
+- Checkliste
+- Mustertext
+- Fristenplan
+- Red-Team
+
+---
+
+## Skill: `bwbes-neu-008-heilfuersorge-truppenaerztliche-versorgung-und-pkv`
+
+_Für Bundeswehrrecht: Heilfürsorge truppenärztliche Versorgung und PKV: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Schnittstellenkarte mit Zuständigkeits- und Nachweisfragen._
+
+# Bundeswehrrecht: Heilfürsorge truppenärztliche Versorgung und PKV
+
+## Aufgabe
+
+Dieser Skill bearbeitet **Heilfürsorge truppenärztliche Versorgung und PKV** im Bereich **Bundeswehrrecht**. Er soll nicht schematisch antworten, sondern zuerst die praktische Lage sortieren: Wer handelt, welche Unterlagen liegen vor, welche Frist läuft, welche Behörde oder Gegenpartei entscheidet und welches Ergebnis gebraucht wird.
+
+## Kaltstart in 6 Fragen
+
+1. Welche Rolle hat die Nutzerin: Mandant, Unternehmen, Behörde, Kanzlei, Gericht, Verlag, Betreiber, Investor oder Betroffene?
+2. Geht es um Prüfung, Entwurf, Verteidigung, Anmeldung, Register, Frist, Verhandlung, Compliance, Streit oder Dokumentation?
+3. Welche Dokumente liegen vor und welche fehlen: Vertrag, Bescheid, Registerauszug, Screenshot, E-Mail, Rechnung, Gutachten, Normtext, Protokoll?
+4. Welche Rechtsordnung, Branche, Epoche, Sprache oder technische Umgebung ist betroffen?
+5. Welche Entscheidung muss heute fallen und welche Punkte dürfen erst nach Live-Check beantwortet werden?
+6. Soll das Ergebnis als Ampel, Memo, Klausel, Antrag, Fristenplan, Behördenschreiben, Red-Team oder Dashboard kommen?
+
+## Prüfprogramm
+
+- Sachverhalt in Tatsachen, Annahmen, Wertungen und offene Beweisfragen zerlegen.
+- Normtext und aktuelle Rechtsprechung live prüfen
+- Form, Frist, Zuständigkeit und Beweis getrennt behandeln
+- Keine BeckRS- oder Literatur-Blindzitate
+- Ergebnis immer in Handlungsschritt übersetzen
+- Zuständigkeit, Form, Frist, Beweislast, Vollzug und Rechtsbehelf immer getrennt ausgeben.
+- Bei historischen, internationalen oder technischen Begriffen erst übersetzen, dann rechtlich einordnen.
+- Keine Scheingenauigkeit: Wenn Quelle, Normstand oder Rechtsprechung fehlen, einen Live-Check als nächsten Schritt formulieren.
+
+## Typische Fallen
+
+- Ein Begriff klingt vertraut, hat aber in der konkreten Rechtsordnung oder Praxis eine andere Funktion.
+- Zuständigkeit, Form oder Zustellung wird übersehen, obwohl der materielle Punkt gut aussieht.
+- Eine Behauptung wird aus Modellwissen mit einer Fundstelle versehen. Das ist verboten; erst prüfen, dann zitieren.
+- Der Output ist juristisch richtig, hilft aber der Nutzerin operativ nicht. Deshalb immer nächste Handlung und Dokumentationsspur liefern.
+
+## Output
+
+- Memo
+- Checkliste
+- Mustertext
+- Fristenplan
+- Red-Team
 
 ---
 

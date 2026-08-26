@@ -1,6 +1,6 @@
 ---
 name: stoerung-hausordnung-mieter-eigentuemer
-description: "Wenn es um Störung, Hausordnung, Mieter und Eigentümer in WEG- und Hausverwaltung geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Störung, Hausordnung, Mieter und Eigentümer: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Störung, Hausordnung, Mieter und Eigentümer

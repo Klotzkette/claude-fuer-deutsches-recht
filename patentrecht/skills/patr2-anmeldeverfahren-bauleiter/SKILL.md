@@ -1,6 +1,6 @@
 ---
 name: patr2-anmeldeverfahren-bauleiter
-description: "Wenn es um PatR2: Anmeldeverfahren in patentrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für PatR2: Anmeldeverfahren: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # PatR2: Anmeldeverfahren

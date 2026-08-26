@@ -1,6 +1,6 @@
 ---
 name: impfleistungen-apotheken-import-einzelimport
-description: "Wenn es um Impfleistungen in Apotheken in Apothekenrecht geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
+description: "Für Impfleistungen in Apotheken: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Impfleistungen in Apotheken

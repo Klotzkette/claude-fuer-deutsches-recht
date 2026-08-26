@@ -1,6 +1,6 @@
 ---
 name: 99-finale-entscheidung-volltext
-description: "Wenn es um Finale Entscheidung als Volltext (Beschluss Familiengericht) in Familiengericht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen."
+description: "Für Finale Entscheidung als Volltext (Beschluss Familiengericht): ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Finale Entscheidung als Volltext (Beschluss Familiengericht)

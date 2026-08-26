@@ -1,6 +1,6 @@
 ---
 name: pralr-039-mueller-arnold-fall-und-justizreform
-description: "Wenn es um Müller-Arnold und Justizreform in Preußisches Allgemeines Landrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. Auswahlstichwort: Pralr 039 Mueller Arnold Fall Und Justizreform; Arbeitsfeld: Preußisches Allgemeines Landrecht."
+description: "Für Müller-Arnold und Justizreform: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt. Fachgebiet: Preußisches Allgemeines Landrecht. Route: pralr-039-mueller-arnold-fall-und-justizreform."
 ---
 
 # Müller-Arnold und Justizreform

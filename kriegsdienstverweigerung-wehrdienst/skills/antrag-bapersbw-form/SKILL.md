@@ -1,6 +1,6 @@
 ---
 name: antrag-bapersbw-form
-description: "Wenn es um Antrag beim BAPersBw in Kriegsdienstverweigerung und Wehrdienst geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
+description: "Für Antrag beim BAPersBw: erstellt Entwurf mit Antrag, Beweis und Anlagen; Ergebnis: Schriftsatz mit Begründungs- und Anlagenlogik."
 ---
 
 # Antrag beim BAPersBw

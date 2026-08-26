@@ -1,6 +1,6 @@
 ---
 name: laienhilfe-vollmacht-betreuung-angehoerige
-description: "Wenn es um Laienverstaendlicher Sozialrechts-Skill zu Vollmacht Betreuung Angehoerige in Fachanwalt Sozialrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Laienverständlicher Sozialrechts-Skill zu Vollmacht Betreuung Angehörige: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Schnittstellenkarte mit Zuständigkeits- und Nachweisfragen."
 ---
 
 # Laienverstaendlicher Sozialrechts-Skill zu Vollmacht Betreuung Angehoerige

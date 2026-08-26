@@ -1,6 +1,6 @@
 ---
 name: pralr-neu-009-erster-teil-titel-6-delikt-handlungen-versehen
-description: "Wenn es um PrALR: Erster Teil Titel 6 Unerlaubte Handlungen und Versehen in Preußisches Allgemeines Landrecht geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für PrALR: Erster Teil Titel 6 Unerlaubte Handlungen und Versehen: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Schnittstellenkarte mit Zuständigkeits- und Nachweisfragen."
 ---
 
 # PrALR: Erster Teil Titel 6 Unerlaubte Handlungen und Versehen

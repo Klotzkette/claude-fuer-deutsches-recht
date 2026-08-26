@@ -1,6 +1,6 @@
 ---
 name: strafrechtliche-belehrung-pruefen
-description: "Wenn es um Strafrechtliche Belehrung prüfen in diesem Spezialbereich geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Beweislast- und Substantiierungsmatrix."
+description: "Für Strafrechtliche Belehrung prüfen: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Strafrechtliche Belehrung prüfen

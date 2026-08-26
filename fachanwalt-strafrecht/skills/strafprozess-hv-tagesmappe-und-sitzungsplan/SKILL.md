@@ -1,6 +1,6 @@
 ---
 name: strafprozess-hv-tagesmappe-und-sitzungsplan
-description: "Wenn es um Strafprozess Hv Tagesmappe Und Sitzungsplan in Fachanwalt Strafrecht geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
+description: "Für Strafprozess Hv Tagesmappe und Sitzungsplan: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Hauptverhandlungs-Tagesmappe: erstellt für jeden Sitzungstag Zeitplan, Zeugen- und Beweisprogramm, Einlassungsentscheidung, Fragelisten, Antragsentwürfe, Mandantenbriefing, Pausenstrategie, Protokollnotizen und Nachbereitungsaufgaben.

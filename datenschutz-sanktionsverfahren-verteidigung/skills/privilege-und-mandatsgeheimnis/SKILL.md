@@ -1,6 +1,6 @@
 ---
 name: privilege-und-mandatsgeheimnis
-description: "Wenn es um Privilege Mandatsgeheimnis und Vertraulichkeit in Datenschutz-Sanktionsverfahren und Verteidigung geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Dokumentenmatrix mit Nachforderungsliste."
+description: "Für Privilege Mandatsgeheimnis und Vertraulichkeit: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Privilege Mandatsgeheimnis und Vertraulichkeit

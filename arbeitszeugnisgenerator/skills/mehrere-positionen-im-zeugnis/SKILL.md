@@ -1,6 +1,6 @@
 ---
 name: mehrere-positionen-im-zeugnis
-description: "Baut mehrere Funktionen, Beförderungen und Verantwortungswechsel chronologisch und gewichtet in ein einheitliches Zeugnis ein. Liefert Rollenchronologie, Tätigkeitsblöcke und eine Gesamtbewertung, ohne frühere Positionen zu verwischen oder doppelt zu bewerten."
+description: "Baut mehrere Funktionen, Beförderungen und Verantwortungswechsel chronologisch und gewichtet in ein einheitliches Zeugnis ein."
 ---
 
 # Mehrere Positionen im Zeugnis

@@ -1,6 +1,6 @@
 ---
 name: mietkaution-rueckzahlung-mitgliedschaft
-description: "Wenn es um Mietkaution Rückzahlung in Verbraucher im Rechtsstaat Alltag geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Mietkaution Rückzahlung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Mietkaution Rückzahlung

@@ -1,6 +1,6 @@
 ---
 name: kreuzfahrtschiff-hypothek-bestellen
-description: "Wenn es um Kreuzfahrtschiff – Schiffshypothek bestellen in See- und Schifffahrtsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Kreuzfahrtschiff – Schiffshypothek bestellen: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Schnittstellenkarte mit Zuständigkeits- und Nachweisfragen."
 ---
 
 # Kreuzfahrtschiff – Schiffshypothek bestellen

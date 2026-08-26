@@ -1,6 +1,6 @@
 ---
 name: hearing-script-english-advocacy
-description: "Wenn es um English Hearing Advocacy in commercial-courts-deutschland geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen."
+description: "Für English Hearing Advocacy: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # English Hearing Advocacy

@@ -1,6 +1,6 @@
 ---
 name: nebenjob-hauptjob-abgrenzung
-description: "Wenn es um Kaltstart und Orientierung: Prüft nebenerwerb in Solo-Selbstständige Praxis geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Kaltstart und Orientierung: Prüft nebenerwerb: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Kaltstart und Orientierung: Prüft nebenerwerb

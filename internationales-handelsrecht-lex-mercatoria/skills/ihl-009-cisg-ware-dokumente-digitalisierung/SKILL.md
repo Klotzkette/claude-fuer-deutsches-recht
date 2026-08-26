@@ -1,6 +1,6 @@
 ---
 name: ihl-009-cisg-ware-dokumente-digitalisierung
-description: "Wenn es um CISG Ware Dokumente Digitalisierung in Internationales Handelsrecht und Lex Mercatoria geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen."
+description: "Für CISG Ware Dokumente Digitalisierung: ordnet Akte, Belege und Lücken; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # CISG Ware Dokumente Digitalisierung

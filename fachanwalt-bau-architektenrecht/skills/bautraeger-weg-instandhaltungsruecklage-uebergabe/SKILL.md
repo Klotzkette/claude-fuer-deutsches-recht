@@ -1,6 +1,6 @@
 ---
 name: bautraeger-weg-instandhaltungsruecklage-uebergabe
-description: "Wenn es um WEG-Instandhaltungsruecklage zur Übergabe in Fachanwalt Bau Architektenrecht geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
+description: "Für WEG-Instandhaltungsrücklage zur Übergabe: erstellt Entwurf mit Antrag, Beweis und Anlagen; Ergebnis: Schriftsatz mit Begründungs- und Anlagenlogik."
 ---
 
 # WEG-Instandhaltungsruecklage zur Übergabe

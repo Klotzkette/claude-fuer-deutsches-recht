@@ -1,6 +1,6 @@
 ---
 name: gewerbe-restaurant-geruch-laerm-hof
-description: "Wenn es um Gewerbe, Restaurant, Geruch, Lärm und Hofnutzung in WEG- und Hausverwaltung geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
+description: "Für Gewerbe, Restaurant, Geruch, Lärm und Hofnutzung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Gewerbe, Restaurant, Geruch, Lärm und Hofnutzung

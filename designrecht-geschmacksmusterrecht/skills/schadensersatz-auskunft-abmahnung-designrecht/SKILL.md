@@ -1,6 +1,6 @@
 ---
 name: schadensersatz-auskunft-abmahnung-designrecht
-description: "Wenn es um Schadensersatz Auskunft Vernichtung in designrecht-geschmacksmusterrecht geht: entwickelt Verhandlungsziel, Vergleichskorridor und Eskalationspfad; liefert eine Verhandlungs- oder Eskalationslinie mit Optionen."
+description: "Für Schadensersatz Auskunft Vernichtung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Schadensersatz Auskunft Vernichtung

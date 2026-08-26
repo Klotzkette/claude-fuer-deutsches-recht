@@ -1,6 +1,6 @@
 ---
 name: ruegeschriftsatz-160-gwb
-description: "Wenn es um Ruegeschriftsatz im Vergabeverfahren nach Paragraf 160 Abs in Fachanwalt Vergaberecht geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
+description: "Für Rügeschriftsatz im Vergabeverfahren nach Paragraf 160 Abs: erstellt Entwurf mit Antrag, Beweis und Anlagen; Ergebnis: Schriftsatz mit Begründungs- und Anlagenlogik."
 ---
 
 # Ruegeschriftsatz im Vergabeverfahren nach § 160 Abs

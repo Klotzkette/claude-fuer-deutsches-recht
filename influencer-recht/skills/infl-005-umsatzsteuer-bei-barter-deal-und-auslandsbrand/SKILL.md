@@ -1,6 +1,6 @@
 ---
 name: infl-005-umsatzsteuer-bei-barter-deal-und-auslandsbrand
-description: "Wenn es um Influencer-Recht: Umsatzsteuer bei Barter Deal und Auslandsbrand in Influencer-Recht geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Influencer-Recht: Umsatzsteuer bei Barter Deal und Auslandsbrand: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Schnittstellenkarte mit Zuständigkeits- und Nachweisfragen."
 ---
 
 # Influencer-Recht: Umsatzsteuer bei Barter Deal und Auslandsbrand

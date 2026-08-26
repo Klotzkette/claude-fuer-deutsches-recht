@@ -1,6 +1,6 @@
 ---
 name: giveaways-waehlerbestechung
-description: "Wenn es um Giveaways Waehlerbestechung in Wahlkampfrecht Praxis geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Giveaways Wählerbestechung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Giveaways Waehlerbestechung

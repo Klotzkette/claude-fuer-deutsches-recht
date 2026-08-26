@@ -1,6 +1,6 @@
 ---
 name: gebuehren-und-kostentransparenz-rechtsprechungsc
-description: "Wenn es um Gebuehren Und Kostentransparenz Rechtsprechungsc in Berufsrecht Patentanwälte geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Gegenprüfung mit Fehler-, Beweis- und Fristencheck."
+description: "Für Gebühren und Kostentransparenz Rechtsprechungsc: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Berechnungstabelle mit Annahmen und Kontrollfragen."
 ---
 
 # Patentanwälte: gebuehren und kostentransparenz - Rechtsprechungscheck, stärkste Gegenansicht und Red-Team-Korrektur

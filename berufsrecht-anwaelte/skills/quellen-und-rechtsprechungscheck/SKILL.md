@@ -1,6 +1,6 @@
 ---
 name: quellen-und-rechtsprechungscheck
-description: "Wenn es um Quellen- und Rechtsprechungscheck in Berufsrecht Anwälte geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
+description: "Für Quellen- und Rechtsprechungscheck: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt. Fachgebiet: Berufsrecht Anwälte."
 ---
 
 # Quellen- und Rechtsprechungscheck

@@ -1,6 +1,6 @@
 ---
 name: spezial-portal-livequellen-und-rechtsprechungscheck
-description: "Wenn es um Portal: Livequellen- und Rechtsprechungscheck in ZVG-Zwangsverwaltung - Verwalter-Cockpit geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Portal: Livequellen- und Rechtsprechungscheck: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Einreichungsplan mit Form- und Nachweischeck."
 ---
 
 # Portal: Livequellen- und Rechtsprechungscheck

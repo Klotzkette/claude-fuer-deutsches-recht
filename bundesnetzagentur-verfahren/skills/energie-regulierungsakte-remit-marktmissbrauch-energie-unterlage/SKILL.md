@@ -1,6 +1,6 @@
 ---
 name: energie-regulierungsakte-remit-marktmissbrauch-energie-unterlage
-description: "Wenn es um Energie-Regulierungsakte: REMIT Marktmissbrauch Energie — Unterlagenanforderung in Bundesnetzagentur-Verfahren geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Dokumentenmatrix mit Nachforderungsliste."
+description: "Für Energie-Regulierungsakte: REMIT Marktmissbrauch Energie — Unterlagenanforderung: ordnet Akte, Belege und Lücken; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Energie-Regulierungsakte: REMIT Marktmissbrauch Energie — Unterlagenanforderung

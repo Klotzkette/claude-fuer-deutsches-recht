@@ -1,6 +1,6 @@
 ---
 name: nda-bei-bewerbungen-pitches
-description: "Wenn es um NDA bei Pitches/Investoren in NDA-Abgleich geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
+description: "Für NDA bei Pitches/Investoren: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # NDA bei Pitches/Investoren

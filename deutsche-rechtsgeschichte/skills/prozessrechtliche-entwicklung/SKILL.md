@@ -1,6 +1,6 @@
 ---
 name: prozessrechtliche-entwicklung
-description: "Wenn es um Prozessrechtliche Entwicklung in Deutsche Rechtsgeschichte geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Prozessrechtliche Entwicklung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Prozessrechtliche Entwicklung

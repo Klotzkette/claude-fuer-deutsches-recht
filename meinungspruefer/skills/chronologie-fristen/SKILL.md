@@ -1,6 +1,6 @@
 ---
 name: chronologie-fristen
-description: "Wenn es um Chronologie und Belegmatrix in Meinungsprüfer geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Chronologie mit Belegmatrix und Widerspruchsliste."
+description: "Für Chronologie und Belegmatrix: prüft Frist, Form, Zuständigkeit und Eilbedarf; Ergebnis: Chronologie mit Beleg- und Widerspruchsmatrix. Fachgebiet: Meinungsprüfer."
 ---
 
 # Chronologie und Belegmatrix

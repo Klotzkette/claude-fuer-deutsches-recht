@@ -1,6 +1,6 @@
 ---
 name: parteivortraege-compliance-dokumentation-und-akte
-description: "Wenn es um Parteivortraege: Compliance-Dokumentation und Aktenvermerk in aktenauszug-gerichtsverfahren geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
+description: "Für Parteivorträge: Compliance-Dokumentation und Aktenvermerk: ordnet Akte, Belege und Lücken; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Parteivortraege: Compliance-Dokumentation und Aktenvermerk

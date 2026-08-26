@@ -1,6 +1,6 @@
 ---
 name: unternehmerverkehr-schnellcheck
-description: "Wenn es um Unternehmerverkehr Schnellcheck in AGB-Recht-Prüfer geht: klärt Rolle, Ziel, Frist, Unterlagen und den passenden nächsten Fachskill; liefert eine Tatbestands- oder Anspruchsmatrix mit Gegenargumenten."
+description: "Für Unternehmerverkehr Schnellcheck: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Unternehmerverkehr Schnellcheck

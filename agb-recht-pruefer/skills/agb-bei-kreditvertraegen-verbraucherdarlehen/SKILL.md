@@ -1,6 +1,6 @@
 ---
 name: agb-bei-kreditvertraegen-verbraucherdarlehen
-description: "Wenn es um Agb Bei Kreditvertraegen Verbraucherdarlehen in AGB-Recht-Prüfer geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für AGB bei Kreditverträgen Verbraucherdarlehen: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Agb Bei Kreditvertraegen Verbraucherdarlehen

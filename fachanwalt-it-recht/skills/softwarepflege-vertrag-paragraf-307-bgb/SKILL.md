@@ -1,6 +1,6 @@
 ---
 name: softwarepflege-vertrag-paragraf-307-bgb
-description: "Wenn es um Softwarepflege Vertrag Paragraf 307 BGB in Fachanwalt It Recht geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Softwarepflege Vertrag Paragraf 307 BGB: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Softwarepflege Vertrag § 307 BGB

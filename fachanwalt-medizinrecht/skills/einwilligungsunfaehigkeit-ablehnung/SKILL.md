@@ -1,6 +1,6 @@
 ---
 name: einwilligungsunfaehigkeit-ablehnung
-description: "Wenn es um Einwilligungsunfaehigkeit Ablehnung in Fachanwalt Medizinrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Einwilligungsunfähigkeit Ablehnung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Einwilligungsunfähigkeit und Ablehnung: moderner Medizinrechts-Skill für Therapieablehnung, natürliche Wille, Zwangsbehandlung, Betreuungsgericht und Klinikalltag

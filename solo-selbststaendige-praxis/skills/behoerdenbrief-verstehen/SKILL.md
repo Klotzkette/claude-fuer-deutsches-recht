@@ -1,6 +1,6 @@
 ---
 name: behoerdenbrief-verstehen
-description: "Wenn es um Anmeldung und Behörden: Übersetzt finanzamt in Solo-Selbstständige Praxis geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Anmeldung und Behörden: Übersetzt finanzamt: erstellt Entwurf mit Antrag, Beweis und Anlagen; Ergebnis: Schriftsatz mit Begründungs- und Anlagenlogik."
 ---
 
 # Anmeldung und Behörden: Übersetzt finanzamt

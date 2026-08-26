@@ -1,6 +1,6 @@
 ---
 name: dms-eakten-equity-partner-esg
-description: "Wenn es um DMS und E-Akten Governance in Kanzlei Management geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
+description: "Für DMS und E-Akten Governance: ordnet Akte, Belege und Lücken; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # DMS und E-Akten Governance

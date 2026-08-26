@@ -1,6 +1,6 @@
 ---
 name: geschaeftsfuehrer-altlasten
-description: "Wenn es um Geschäftsführer Altlasten in Verbraucherinsolvenz und Schuldenbereinigung geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Geschäftsführer Altlasten: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Ehemaliger Geschäftsführer: Bürgschaften, § 15a-Altlasten, Steuerhaftung, Sozialversicherungsbeiträge und Deliktattribute.

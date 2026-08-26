@@ -1,6 +1,6 @@
 ---
 name: treuepflicht-bgh-ii-zr-ix
-description: "Wenn es um BGH II ZR 91 21 Gesellschafterliste in Gesellschaftsrechtliche Treuepflicht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen."
+description: "Für BGH II ZR 91 21 Gesellschafterliste: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Schnittstellenkarte mit Zuständigkeits- und Nachweisfragen."
 ---
 
 # BGH II ZR 91 21 Gesellschafterliste

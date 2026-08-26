@@ -1,6 +1,6 @@
 ---
 name: mauergrundstueck-fristproblem-bodenreformland
-description: "Wenn es um Mauergrundstueck Fristproblem Markiere in Einigungsvertrag und Vermögensrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Mauergrundstück Fristproblem Markiere: prüft Frist, Form, Zuständigkeit und Eilbedarf; Ergebnis: Fristen- und Risikoampel."
 ---
 
 # Mauergrundstueck Fristproblem Markiere

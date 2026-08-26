@@ -1,6 +1,6 @@
 ---
 name: spezial-tagessatz-livequellen-und-rechtsprechungscheck
-description: "Wenn es um Tagessatz: Livequellen- und Rechtsprechungscheck in Strafzumessung geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Tagessatz: Livequellen- und Rechtsprechungscheck: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Tagessatz: Livequellen- und Rechtsprechungscheck

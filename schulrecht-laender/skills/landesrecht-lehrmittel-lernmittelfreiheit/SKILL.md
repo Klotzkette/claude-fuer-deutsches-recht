@@ -1,6 +1,6 @@
 ---
 name: landesrecht-lehrmittel-lernmittelfreiheit
-description: "Wenn es um Landesrecht Router in Schulrecht der Bundesländer geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Landesrecht Router: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Landesrecht Router

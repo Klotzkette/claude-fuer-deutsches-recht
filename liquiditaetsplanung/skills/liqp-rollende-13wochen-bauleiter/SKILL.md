@@ -1,6 +1,6 @@
 ---
 name: liqp-rollende-13wochen-bauleiter
-description: "Wenn es um LiqP: 13-Wochen-Plan Bauleiter in Liquiditätsplanung — Power geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für LiqP: 13-Wochen-Plan Bauleiter: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # LiqP: 13-Wochen-Plan Bauleiter

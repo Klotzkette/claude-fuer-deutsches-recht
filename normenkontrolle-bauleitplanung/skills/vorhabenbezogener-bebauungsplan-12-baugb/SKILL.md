@@ -1,6 +1,6 @@
 ---
 name: vorhabenbezogener-bebauungsplan-12-baugb
-description: "Wenn es um Vorhabenbezogener Bebauungsplan Paragraf 12 BauGB in Normenkontrolle Bauleitplanung — Paragraf 47 VwGO geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Vorhabenbezogener Bebauungsplan Paragraf 12 BauGB: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Vorhabenbezogener Bebauungsplan § 12 BauGB

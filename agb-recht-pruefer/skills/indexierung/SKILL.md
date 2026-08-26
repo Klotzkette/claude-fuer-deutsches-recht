@@ -1,6 +1,6 @@
 ---
 name: indexierung
-description: "Wenn es um Indexierung in AGB-Recht-Prüfer geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Fristen- und Risikoampel mit Sofortschritten. Auswahlstichwort: Indexierung; Arbeitsfeld: AGB-Recht-Prüfer."
+description: "Für Indexierung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt. Fachgebiet: AGB-Recht-Prüfer. Route: indexierung."
 ---
 
 # Indexierung

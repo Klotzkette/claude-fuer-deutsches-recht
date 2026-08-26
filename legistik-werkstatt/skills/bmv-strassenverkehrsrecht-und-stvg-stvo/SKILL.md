@@ -1,6 +1,6 @@
 ---
 name: bmv-strassenverkehrsrecht-und-stvg-stvo
-description: "Wenn es um Strassenverkehrsrecht (StVG; StVO) (BMV) in Legistik-Werkstatt geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen."
+description: "Für Strassenverkehrsrecht (StVG; StVO) (BMV): ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Strassenverkehrsrecht (StVG; StVO) (BMV)

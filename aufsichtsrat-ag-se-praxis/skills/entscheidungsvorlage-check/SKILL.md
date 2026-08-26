@@ -1,6 +1,6 @@
 ---
 name: entscheidungsvorlage-check
-description: "Wenn es um Entscheidungsvorlage Check in AG/SE-Aufsichtsrat Praxis geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Mandantennachricht oder Entscheidungsvorlage."
+description: "Für Entscheidungsvorlage Check: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Mandantennachricht oder Entscheidungsvorlage."
 ---
 
 # Entscheidungsvorlage Check

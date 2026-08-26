@@ -1,6 +1,6 @@
 ---
 name: einarbeitung-fehlerkatalog
-description: "Wenn es um Einarbeitung Fehlerkatalog in aktenauszug-gerichtsverfahren geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Einarbeitung Fehlerkatalog: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Einarbeitung Fehlerkatalog

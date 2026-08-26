@@ -1,6 +1,6 @@
 ---
 name: gruen-flaggen-katalog
-description: "Wenn es um Grünen-Flaggen-Katalog in Arbeitszeugnis-Analyse geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Grünen-Flaggen-Katalog: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Grünen-Flaggen-Katalog

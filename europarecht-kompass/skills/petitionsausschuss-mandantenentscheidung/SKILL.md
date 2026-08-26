@@ -1,6 +1,6 @@
 ---
 name: petitionsausschuss-mandantenentscheidung
-description: "Wenn es um Petitionsausschuss: Mandantenkommunikation und Entscheidungsvorlage in Europarecht-Kompass für deutsche Juristen geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Petitionsausschuss: Mandantenkommunikation und Entscheidungsvorlage: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Petitionsausschuss: Mandantenkommunikation und Entscheidungsvorlage

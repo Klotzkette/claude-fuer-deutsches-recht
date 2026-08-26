@@ -1,6 +1,6 @@
 ---
 name: vergabe-behoerden-gericht-und-registerweg
-description: "Wenn es um Vergabe: Behörden-, Gerichts- oder Registerweg in Fachanwalt Vergaberecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Vergabe: Behörden-, Gerichts- oder Registerweg: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Einreichungsplan mit Form- und Nachweischeck."
 ---
 
 # Vergabe: Behörden-, Gerichts- oder Registerweg

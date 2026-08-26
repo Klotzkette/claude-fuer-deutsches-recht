@@ -1,6 +1,6 @@
 ---
 name: standard-vs-single-vs-gruppenregistrierung
-description: "Wenn es um Standard, Single oder Gruppenregistrierung in US Copyright Act und Registrierung für deutsche Verlage geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
+description: "Für Standard, Single oder Gruppenregistrierung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Standard, Single oder Gruppenregistrierung

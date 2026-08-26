@@ -1,6 +1,6 @@
 ---
 name: rentenanpassung-paragraf-65-sgb-vi
-description: "Wenn es um Rentenanpassung Paragraf 65 sgb vi in Fachanwalt Sozialrecht geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Rentenanpassung Paragraf 65 SGB vi: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Rentenanpassung § 65 sgb vi

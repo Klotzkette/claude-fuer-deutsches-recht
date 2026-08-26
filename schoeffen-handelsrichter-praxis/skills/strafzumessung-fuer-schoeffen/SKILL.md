@@ -1,6 +1,6 @@
 ---
 name: strafzumessung-fuer-schoeffen
-description: "Wenn es um Strafzumessung für Schöffen in Schöffen und Handelsrichter Praxis geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Strafzumessung für Schöffen: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Strafzumessung für Schöffen

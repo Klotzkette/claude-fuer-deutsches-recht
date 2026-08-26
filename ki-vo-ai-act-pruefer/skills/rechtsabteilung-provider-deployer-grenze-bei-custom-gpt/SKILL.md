@@ -1,6 +1,6 @@
 ---
 name: rechtsabteilung-provider-deployer-grenze-bei-custom-gpt
-description: "Wenn es um Rechtsabteilung: Provider-Deployer-Grenze bei Custom GPT in diesem Spezialbereich geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt Stichwort für die Auswahl: Rechtsabteilung Provider Deployer Grenze Bei Custom Gpt."
+description: "Für Rechtsabteilung: Provider-Deployer-Grenze bei Custom GPT: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt. Fachgebiet: europäischem Technikregulierungsrecht. Route: rechtsabteilung-provider-deployer-grenze-bei-custom-gpt."
 ---
 
 # Rechtsabteilung: Provider-Deployer-Grenze bei Custom GPT

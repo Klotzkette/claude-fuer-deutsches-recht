@@ -1,6 +1,6 @@
 ---
 name: patentportfolio-und-interessenkollision-kaltstar
-description: "Wenn es um Patentportfolio Und Interessenkollision Kaltstar in Berufsrecht Patentanwälte geht: klärt Rolle, Ziel, Frist, Unterlagen und den passenden nächsten Fachskill; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Patentportfolio und Interessenkollision Kaltstar: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Patentanwälte: patentportfolio und interessenkollision - Kaltstart mit Faktenmatrix, Risikoampel und fehlenden Unterlagen

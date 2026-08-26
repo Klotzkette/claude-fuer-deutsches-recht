@@ -1,6 +1,6 @@
 ---
 name: gebuehren-und-kostentransparenz-kammerantwort
-description: "Wenn es um Gebuehren Und Kostentransparenz Kammerantwort in Berufsrecht Patentanwälte geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Berechnungstabelle mit Schwellen, Annahmen und Kontrollfragen."
+description: "Für Gebühren und Kostentransparenz Kammerantwort: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Berechnungstabelle mit Annahmen und Kontrollfragen."
 ---
 
 # Patentanwälte: gebuehren und kostentransparenz - Kammerantwort mit Verfahrensstrategie, Tonlage und Belegplan

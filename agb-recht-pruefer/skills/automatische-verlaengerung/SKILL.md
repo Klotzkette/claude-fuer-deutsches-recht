@@ -1,6 +1,6 @@
 ---
 name: automatische-verlaengerung
-description: "Wenn es um Automatische Verlängerung in AGB-Recht-Prüfer geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Automatische Verlängerung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Automatische Verlängerung

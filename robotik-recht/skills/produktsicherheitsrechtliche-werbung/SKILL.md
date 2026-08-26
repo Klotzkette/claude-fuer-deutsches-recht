@@ -1,6 +1,6 @@
 ---
 name: produktsicherheitsrechtliche-werbung
-description: "Wenn es um Produktsicherheitsrechtliche Werbung in robotik-recht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. Auswahlstichwort: Produktsicherheitsrechtliche Werbung; Arbeitsfeld: robotik-recht."
+description: "Für Produktsicherheitsrechtliche Werbung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt. Fachgebiet: robotik-recht. Route: produktsicherheitsrechtliche-werbung."
 ---
 
 # Produktsicherheitsrechtliche Werbung

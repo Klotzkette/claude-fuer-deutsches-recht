@@ -1,6 +1,6 @@
 ---
 name: eingliederungsvereinbarung-15-sgb-ii
-description: "Wenn es um Eingliederungsvereinbarung 15 Sgb Ii in selbstvertreter-sozialgericht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Eingliederungsvereinbarung 15 SGB Ii: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Eingliederungsvereinbarung 15 Sgb Ii

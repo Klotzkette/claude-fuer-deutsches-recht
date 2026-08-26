@@ -1,6 +1,6 @@
 ---
 name: ruecklagen-mittelverwendung-rundbrief
-description: "Wenn es um Rücklagen und Mittelverwendung in Vereinsrecht und Vereinsmanager geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
+description: "Für Rücklagen und Mittelverwendung: erstellt Entwurf mit Antrag, Beweis und Anlagen; Ergebnis: Schriftsatz mit Begründungs- und Anlagenlogik."
 ---
 
 # Rücklagen und Mittelverwendung

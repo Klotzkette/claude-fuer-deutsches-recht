@@ -1,6 +1,6 @@
 ---
 name: 03-hauptverhandlung-vorbereiten
-description: "Wenn es um 03 Hauptverhandlung Vorbereiten in Richter Amtsgericht Strafsachen geht: entwickelt Verhandlungsziel, Vergleichskorridor und Eskalationspfad; liefert eine Beweislast- und Substantiierungsmatrix."
+description: "Für 03 Hauptverhandlung Vorbereiten: entwickelt Ziel, Vergleich und Eskalation; Ergebnis: Verhandlungs- oder Eskalationslinie."
 ---
 
 # 03 Hauptverhandlung Vorbereiten

@@ -1,6 +1,6 @@
 ---
 name: dsgvo-erstpruefung-und-mandatsziel
-description: "Wenn es um DSGVO: Erstprüfung, Rollenklärung und Mandatsziel in Datenschutzrecht geht: klärt Rolle, Ziel, Frist, Unterlagen und den passenden nächsten Fachskill; liefert eine Fristen- und Risikoampel mit Sofortschritten. Auswahlstichwort: Dsgvo Erstpruefung Und Mandatsziel; Arbeitsfeld: Datenschutzrecht."
+description: "Für DSGVO: Erstprüfung, Rollenklärung und Mandatsziel: routet Rolle, Frist, Unterlagen und Fachschritt; Ergebnis: Tatbestands- oder Anspruchsmatrix. Fachgebiet: Datenschutzrecht. Route: dsgvo-erstpruefung-und-mandatsziel."
 ---
 
 # DSGVO: Erstprüfung, Rollenklärung und Mandatsziel

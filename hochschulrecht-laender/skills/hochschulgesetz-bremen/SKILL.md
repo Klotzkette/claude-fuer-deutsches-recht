@@ -1,6 +1,6 @@
 ---
 name: hochschulgesetz-bremen
-description: "Wenn es um Hochschulgesetz Bremen in Hochschulrecht der Bundesländer geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Hochschulgesetz Bremen: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Hochschulgesetz Bremen

@@ -1,6 +1,6 @@
 ---
 name: sozietaet-mit-rechtsanwaelten-kaltstart-und-fakt
-description: "Wenn es um Sozietaet Mit Rechtsanwaelten Kaltstart Und Fakt in Berufsrecht Patentanwälte geht: klärt Rolle, Ziel, Frist, Unterlagen und den passenden nächsten Fachskill; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Sozietät mit Rechtsanwälten Kaltstart und Fakt: routet Rolle, Frist, Unterlagen und Fachschritt; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Patentanwälte: sozietaet mit rechtsanwaelten - Kaltstart mit Faktenmatrix, Risikoampel und fehlenden Unterlagen

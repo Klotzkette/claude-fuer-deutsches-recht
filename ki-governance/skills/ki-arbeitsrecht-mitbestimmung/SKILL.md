@@ -1,6 +1,6 @@
 ---
 name: ki-arbeitsrecht-mitbestimmung
-description: "Wenn es um digitale Werkzeuge: Arbeitsrecht und BR in diesem Spezialbereich geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für digitale Werkzeuge: Arbeitsrecht und BR: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # KI: Arbeitsrecht und BR

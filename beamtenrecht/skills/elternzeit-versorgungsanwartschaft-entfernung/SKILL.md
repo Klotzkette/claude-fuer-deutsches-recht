@@ -1,6 +1,6 @@
 ---
 name: elternzeit-versorgungsanwartschaft-entfernung
-description: "Wenn es um Elternzeit — Auswirkungen auf Versorgungsanwartschaft in Beamtenrecht geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
+description: "Für Elternzeit — Auswirkungen auf Versorgungsanwartschaft: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Elternzeit — Auswirkungen auf Versorgungsanwartschaft

@@ -1,6 +1,6 @@
 ---
 name: rechtsabteilung-joint-controller-plattform
-description: "Wenn es um Rechtsabteilung: Joint Controller im Plattform-Ökosystem in Datenschutzrecht geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
+description: "Für Rechtsabteilung: Joint Controller im Plattform-Ökosystem: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Rechtsabteilung: Joint Controller im Plattform-Ökosystem

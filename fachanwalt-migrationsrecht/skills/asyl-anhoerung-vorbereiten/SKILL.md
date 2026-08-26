@@ -1,6 +1,6 @@
 ---
 name: asyl-anhoerung-vorbereiten
-description: "Wenn es um Asyl Anhoerung Vorbereiten in Fachanwalt Migrationsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Asyl Anhörung Vorbereiten: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Asylsuchender muss zum BAMF zur Anhörung und Anwalt bereitet die Schilderung der Fluchtgründe vor

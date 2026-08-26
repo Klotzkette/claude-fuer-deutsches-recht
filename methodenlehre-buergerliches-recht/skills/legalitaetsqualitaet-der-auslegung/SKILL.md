@@ -1,6 +1,6 @@
 ---
 name: legalitaetsqualitaet-der-auslegung
-description: "Wenn es um Legalitätsqualität der Auslegung in Methodenlehre bürgerliches Recht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Gegenprüfung mit Fehler-, Beweis- und Fristencheck."
+description: "Für Legalitätsqualität der Auslegung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Gegenprüfung mit Beweis- und Fristencheck."
 ---
 
 # Legalitätsqualität der Auslegung

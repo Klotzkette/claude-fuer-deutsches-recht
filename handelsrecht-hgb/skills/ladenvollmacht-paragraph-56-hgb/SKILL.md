@@ -1,6 +1,6 @@
 ---
 name: ladenvollmacht-paragraph-56-hgb
-description: "Wenn es um Ladenvollmacht Paragraf 56 HGB in Handelsrecht HGB geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Ladenvollmacht Paragraf 56 HGB: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Ladenvollmacht § 56 HGB

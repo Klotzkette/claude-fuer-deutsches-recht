@@ -1,6 +1,6 @@
 ---
 name: edpb-04-2022-bemessungsmethodik
-description: "Wenn es um EDPB 04/2022 Bemessungsmethodik in Datenschutz-Sanktionsverfahren und Verteidigung geht: rechnet Schwellen, Beträge, Varianten und Kontrollannahmen durch; liefert eine Berechnungstabelle mit Schwellen, Annahmen und Kontrollfragen."
+description: "Für EDPB 04/2022 Bemessungsmethodik: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # EDPB 04/2022 Bemessungsmethodik

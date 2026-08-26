@@ -1,6 +1,6 @@
 ---
 name: kv-049-unfallversicherung-kasse-zustaendigkeit
-description: "Wenn es um Krankenversicherung: Unfallversicherung oder Krankenkasse Zuständigkeitsstreit in Krankenkassenrecht und Krankenversicherung geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Krankenversicherung: Unfallversicherung oder Krankenkasse Zuständigkeitsstreit: prüft Frist, Form, Zuständigkeit und Eilbedarf; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Krankenversicherung: Unfallversicherung oder Krankenkasse Zuständigkeitsstreit

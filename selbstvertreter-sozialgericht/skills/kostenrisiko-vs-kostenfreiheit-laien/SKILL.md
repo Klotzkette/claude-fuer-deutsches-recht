@@ -1,6 +1,6 @@
 ---
 name: kostenrisiko-vs-kostenfreiheit-laien
-description: "Wenn es um Was kostet ein SG-Verfahren wirklich? in selbstvertreter-sozialgericht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
+description: "Für Was kostet ein SG-Verfahren wirklich?: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Was kostet ein SG-Verfahren wirklich?

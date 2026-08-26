@@ -1,6 +1,6 @@
 ---
 name: sachsenspiegel-und-landrechte
-description: "Wenn es um Sachsenspiegel und Landrechte in Deutsche Rechtsgeschichte geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Sachsenspiegel und Landrechte: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Sachsenspiegel und Landrechte

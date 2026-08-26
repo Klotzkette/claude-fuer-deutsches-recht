@@ -1,6 +1,6 @@
 ---
 name: fristen-berechnen-sgg-laien
-description: "Wenn es um Die wichtigsten Fristen im SG-Verfahren in selbstvertreter-sozialgericht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Die wichtigsten Fristen im SG-Verfahren: prüft Frist, Form, Zuständigkeit und Eilbedarf; Ergebnis: Fristen- und Risikoampel."
 ---
 
 # Die wichtigsten Fristen im SG-Verfahren

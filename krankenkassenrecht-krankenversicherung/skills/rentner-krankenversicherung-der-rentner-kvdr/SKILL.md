@@ -1,6 +1,6 @@
 ---
 name: rentner-krankenversicherung-der-rentner-kvdr
-description: "Wenn es um Rentner: Krankenversicherung der Rentner (KVdR) in Krankenkassenrecht und Krankenversicherung geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Rentner: Krankenversicherung der Rentner (KVdR): ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Rentner: Krankenversicherung der Rentner (KVdR)

@@ -1,6 +1,6 @@
 ---
 name: plagiat-persoenlichkeitsrecht
-description: "Wenn es um Verl-020 · Plagiat, Manuskript und Quellenprüfung in Verlagsrecht und Buchpreisbindung geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Verl-020 · Plagiat, Manuskript und Quellenprüfung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Verl-020 · Plagiat, Manuskript und Quellenprüfung

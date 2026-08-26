@@ -1,6 +1,6 @@
 ---
 name: bauherrnentscheidung-matrix
-description: "Wenn es um HOAI Querschnitt: Macht entscheidungen beweisbar in HOAI Leistungsphasen Praxis geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Beweislast- und Substantiierungsmatrix."
+description: "Für HOAI Querschnitt: Macht entscheidungen beweisbar: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # HOAI Querschnitt: Macht entscheidungen beweisbar

@@ -1,6 +1,6 @@
 ---
 name: zulassungsgrenzen-check-sozialgericht
-description: "Wenn es um Zulassungsgrenzen-Check Sozialgericht in selbstvertreter-sozialgericht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen."
+description: "Für Zulassungsgrenzen-Check Sozialgericht: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Zulassungsgrenzen-Check Sozialgericht

@@ -1,6 +1,6 @@
 ---
 name: privatunterricht-nachhilfe
-description: "Wenn es um Branchenfälle: Prüft status in Solo-Selbstständige Praxis geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Branchenfälle: Prüft status: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Branchenfälle: Prüft status

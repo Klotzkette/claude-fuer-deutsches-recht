@@ -7,13 +7,13 @@ Diese Vollprüfung enthält top-8 von 106 Skills (gekürzt für das Arbeitsfenst
 ## Inhaltsverzeichnis
 
 1. **juristischer-argumentationskern** — Schaltet sich ein, wenn in Softwarerecht De EU US ein juristisches Arbeitsprodukt tragfähig begründet werden muss; verbi…
-2. **kaltstart-triage** — Wenn es um Kaltstart Softwarerecht in Softwarerecht Deutschland/EU/International/USA geht: klärt Rolle, Ziel, Frist, Unt…
-3. **rechtsabteilung-ki-saas-vertrag-werkvertrag** — Wenn es um Rechtsabteilung: digitale Werkzeuge-Code und Trainingsdaten im Lizenzvertrag in Softwarerecht Deutschland/EU/…
-4. **rechtsabteilung-data-act-und-cloud-switching-klauseln** — Wenn es um Rechtsabteilung: Data Act und Cloud-Switching-Klauseln in Softwarerecht Deutschland/EU/International/USA geht…
-5. **rechtsabteilung-us-work-made-for-hire-im-deutschen-projekt** — Wenn es um Rechtsabteilung: US Work Made for Hire im deutschen Projekt in Softwarerecht Deutschland/EU/International/USA…
-6. **ai-pair-programming-employment** — Wenn es um digitale Werkzeuge Pair Programming im Arbeitsverhältnis in Softwarerecht Deutschland/EU/International/USA ge…
-7. **rechtsabteilung-developer-ip-open-source-us** — Wenn es um Rechtsabteilung: Developer-IP bei deutschen Angestellten in Softwarerecht Deutschland/EU/International/USA ge…
-8. **rechtsabteilung-open-source-copyleft-im-saas-stack** — Wenn es um Rechtsabteilung: Open-Source-Copyleft im SaaS-Stack in Softwarerecht Deutschland/EU/International/USA geht: o…
+2. **kaltstart-triage** — Für Kaltstart Softwarerecht: routet Rolle, Frist, Unterlagen und Fachschritt; Ergebnis: Prüfprodukt mit Risiko und nächs…
+3. **rechtsabteilung-ki-saas-vertrag-werkvertrag** — Für Rechtsabteilung: digitale Werkzeuge-Code und Trainingsdaten im Lizenzvertrag: ordnet Norm, Beweislast und Gegenargum…
+4. **rechtsabteilung-us-work-made-for-hire-im-deutschen-projekt** — Für Rechtsabteilung: US Work Made for Hire im deutschen Projekt: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Sc…
+5. **eu-ai-act-software** — Für EU digitale Werkzeuge Act in Softwareprodukten: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Schnittstellenk…
+6. **ai-pair-programming-employment** — Für digitale Werkzeuge Pair Programming im Arbeitsverhältnis: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfp…
+7. **rechtsabteilung-developer-ip-open-source-us** — Für Rechtsabteilung: Developer-IP bei deutschen Angestellten: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfp…
+8. **rechtsabteilung-data-act-und-cloud-switching-klauseln** — Für Rechtsabteilung: Data Act und Cloud-Switching-Klauseln: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfpro…
 
 ---
 
@@ -137,7 +137,7 @@ Ausgangspunkt für dieses Plugin: Auftraggeber für Mangel und Abnahmevorbehalt;
 
 ## Skill: `kaltstart-triage`
 
-_Wenn es um Kaltstart Softwarerecht in Softwarerecht Deutschland/EU/International/USA geht: klärt Rolle, Ziel, Frist, Unterlagen und den passenden nächsten Fachskill; liefert eine Fristen- und Risikoampel mit Sofortschritten._
+_Für Kaltstart Softwarerecht: routet Rolle, Frist, Unterlagen und Fachschritt; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt._
 
 # Kaltstart Softwarerecht
 
@@ -217,7 +217,7 @@ Aktuelle Fassungen, Behördenhinweise, Formulare, Guidance und Rechtsprechung vo
 
 ## Skill: `rechtsabteilung-ki-saas-vertrag-werkvertrag`
 
-_Wenn es um Rechtsabteilung: digitale Werkzeuge-Code und Trainingsdaten im Lizenzvertrag in Softwarerecht Deutschland/EU/International/USA geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen._
+_Für Rechtsabteilung: digitale Werkzeuge-Code und Trainingsdaten im Lizenzvertrag: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt._
 
 # Rechtsabteilung: KI-Code und Trainingsdaten im Lizenzvertrag
 
@@ -273,59 +273,9 @@ AI-assisted coding wird mit Warranty, Audit, Indemnity und Source-Hygiene gerege
 
 ---
 
-## Skill: `rechtsabteilung-data-act-und-cloud-switching-klauseln`
-
-_Wenn es um Rechtsabteilung: Data Act und Cloud-Switching-Klauseln in Softwarerecht Deutschland/EU/International/USA geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt._
-
-# Rechtsabteilung: Data Act und Cloud-Switching-Klauseln
-
-## Arbeitsweg
-
-- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
-- Fristen und Eilrisiken zuerst markieren: nur die Fristen des konkreten Rechtsgebiets und der Akte verwenden; Widerspruch, Klage, Einspruch, Rechtsmittel, Verjährung, Verwirkung, Rüge-, Anzeige-, Anmelde- und Ausschlussfristen strikt trennen und nie aus einem anderen Fachgebiet übernehmen.
-- Tragende Normen verifizieren: UrhG §§ 69a-g, BGB §§ 433, 535, 535a, 651, EU-RL 2009/24, AGB-Recht, DSGVO — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
-- Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
-- Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
-
-## Fachkern: Rechtsabteilung: Data Act und Cloud-Switching-Klauseln
-- **Normen-/Quellenanker:** UrhG §§ 69a ff., BGB, AGB-Recht, DSGVO, TTDSG/TDDDG, Open-Source-Lizenzen, AI Act, Exportkontrolle, US Copyright/Work-for-Hire und Patent-/Trade-Secret-Schnittstellen.
-- **Entscheidende Weiche:** Trenne Code-Urheberschaft, Rechtekette, Lizenzmodell, SLA, Datenschutz, Security, Escrow, Open-Source-Compliance und internationale Rechteübertragung.
-
-## Spezialkern: Rechtsabteilung: Data Act und Cloud-Switching-Klauseln
-
-- **Konkretes Problem:** Softwareverträge werden auf Datenzugang, Portabilität und Exit-Charges geprüft.
-- **Norm-/Quellenanker:** BGB-Vertragsrecht, UrhG §§ 69a ff., GeschGehG, DSGVO, Data Act, Cyber Resilience Act, Open-Source-Lizenzen, US copyright/work-made-for-hire und Softwarepatent-Schnittstellen.
-- **Entscheidende Weiche:** Tatbestand, Dokumentenbeweis, Zuständigkeit, Frist, Rechtsfolge, Gegenargument und Eskalationsweg getrennt entscheiden; keine bloße To-do-Liste liefern.
-- **Arbeitsprodukt:** Rechtsabteilungsfähige Kurzentscheidung mit Ampel, Originalbelegen, offener-Tatsachen-Liste, Formulierungsvorschlag und nächstem Owner.
-
-## Norm- und Rechtsprechungsanker
-
-VO EU 2023/2854 Data Act; DSGVO; Geschäftsgeheimnisse
-
-## Sofortprüfung
-
-1. Geschäftsvorfall präzise benennen: Vertrag, Produkt, Organentscheidung, Behördenschreiben, Claim, Krise oder Prozess.
-2. Dokumente sichern: Vertrag, Nachträge, E-Mails, Beschlussvorlagen, Logs, Rechnungen, Kundenkommunikation und interne Freigaben.
-3. Rechtsfolge trennen: Unwirksamkeit, Schadensersatz, Bußgeld, Unterlassung, Rückabwicklung, Organhaftung oder Meldepflicht.
-4. Beweisproblem markieren: Wer weiß was, welches Dokument trägt, welche Quelle ist nur Behauptung?
-5. Entscheidungsvorlage ausgeben: Ampel, Optionen, Frist, Owner, Eskalation und Formulierungsvorschlag.
-
-## Fachlicher Zuschnitt
-
-Softwareverträge werden auf Datenzugang, Portabilität und Exit-Charges geprüft.
-
-## Output für die Rechtsabteilung
-
-- One-page legal memo mit Risikoampel und klarer Empfehlung.
-- Belegmatrix mit Originalquelle, Datum, Verantwortlichem und Lücke.
-- Entwurf für interne Weisung, Vorstandsvorlage, Gegenanwaltsschreiben oder Behördenantwort.
-- Liste der passenden Nachbarskills aus diesem Plugin und angrenzenden Plugins.
-
----
-
 ## Skill: `rechtsabteilung-us-work-made-for-hire-im-deutschen-projekt`
 
-_Wenn es um Rechtsabteilung: US Work Made for Hire im deutschen Projekt in Softwarerecht Deutschland/EU/International/USA geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen._
+_Für Rechtsabteilung: US Work Made for Hire im deutschen Projekt: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Schnittstellenkarte mit Zuständigkeits- und Nachweisfragen._
 
 # Rechtsabteilung: US Work Made for Hire im deutschen Projekt
 
@@ -373,9 +323,84 @@ US-Templates werden auf deutsche Rechteübertragung und moral rights angepasst.
 
 ---
 
+## Skill: `eu-ai-act-software`
+
+_Für EU digitale Werkzeuge Act in Softwareprodukten: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Schnittstellenkarte mit Zuständigkeits- und Nachweisfragen._
+
+# EU AI Act in Softwareprodukten
+
+## Normenanker
+
+Vor einer rechtlichen Schlussfolgerung diese Anker am aktuellen Normtext prüfen; Spezial- und Landesrecht nur hinzunehmen, wenn es den konkreten Auftrag traegt:
+
+- `§ 69a UrhG` — Computerprogramme.
+- `§ 69b UrhG` — Arbeitnehmerprogramme.
+- `§ 69c UrhG` — ausschliessliche Rechte.
+- `§ 69d UrhG` — bestimmungsgemaesse Benutzung.
+- `§ 69e UrhG` — Dekompilierung.
+- `§ 31 UrhG` — Einraeumung von Nutzungsrechten.
+- `§ 32 UrhG` — angemessene Vergütung.
+- `§ 305 BGB` — AGB-Einbeziehung.
+- `§ 307 Abs. 1 BGB` — AGB-Inhaltskontrolle.
+- `Art. 5 Abs. 1 DSGVO` — Datenschutz bei Softwarebetrieb.
+
+Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei prüfbare Quelle vorliegen; keine BeckRS-/juris-Blindzitate verwenden.
+
+## Arbeitsweg
+
+- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
+- Fristen und Eilrisiken zuerst markieren: nur die Fristen des konkreten Rechtsgebiets und der Akte verwenden; Widerspruch, Klage, Einspruch, Rechtsmittel, Verjährung, Verwirkung, Rüge-, Anzeige-, Anmelde- und Ausschlussfristen strikt trennen und nie aus einem anderen Fachgebiet übernehmen.
+- Tragende Normen verifizieren: UrhG §§ 69a-g, BGB §§ 433, 535, 535a, 651, EU-RL 2009/24, AGB-Recht, DSGVO — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
+- Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
+- Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
+
+## Fachkern: EU AI Act in Softwareprodukten
+- **Normen-/Quellenanker:** UrhG §§ 69a ff., BGB, AGB-Recht, DSGVO, TTDSG/TDDDG, Open-Source-Lizenzen, AI Act, Exportkontrolle, US Copyright/Work-for-Hire und Patent-/Trade-Secret-Schnittstellen.
+- **Entscheidende Weiche:** Trenne Code-Urheberschaft, Rechtekette, Lizenzmodell, SLA, Datenschutz, Security, Escrow, Open-Source-Compliance und internationale Rechteübertragung.
+
+## Rechts- und Quellenanker
+
+- Regulation (EU) 2024/1689
+- DSGVO
+- CRA
+
+Aktuelle Fassungen, Behördenhinweise, Formulare, Guidance und Rechtsprechung vor konkreter Verwendung live prüfen. Keine Modellzitate als Beleg verwenden.
+
+## Intake-Fragen
+
+- Ist das Feature ein KI-System im Sinne der KI-VO?
+- Welche Zweckbestimmung bestimmt Hochrisiko statt bloßer technischer Möglichkeit?
+- Wer ist Anbieter, Betreiber, Importeur, Distributor oder Produkthersteller?
+- Welche Dokumentation muss in Softwareverträge und Produktakte?
+
+## Workflow
+
+1. Sachverhalt in Rollen, Dokumente, Zeitachse und tatsächliche Durchführung zerlegen.
+2. Rechtsanker und zwingende Vorfragen live prüfen.
+3. Pro- und Contra-Indizien gewichten, nicht nur sammeln.
+4. Output als Memo, Matrix, Redline, Antragspaket oder Counsel-Briefing liefern.
+
+## Tiefencheck für die Akte
+
+- Ist das Feature ein KI-System im Sinne der KI-VO?
+- Welche Zweckbestimmung bestimmt Hochrisiko statt bloßer technischer Möglichkeit?
+- Wer ist Anbieter, Betreiber, Importeur, Distributor oder Produkthersteller?
+- Welche Dokumentation muss in Softwareverträge und Produktakte?
+
+**Mindest-Output:** AI-Act-Matrix mit Rolle, Zweckbestimmung, Pflichten und Vertragsbausteinen.
+
+## Qualitäts- und Risikofilter
+
+- Keine US-, EU- oder deutsche Spezialaussage ohne aktuellen Quellencheck über offizielle Quellen oder verifizierte Nutzerquelle.
+- Rechtekette, tatsächliche technische Architektur und Vertragstext immer gemeinsam prüfen; eines allein reicht bei Software fast nie.
+- Open Source, AI-Code, Freelancer und Drittland-/US-Bezug immer aktiv suchen, auch wenn die Anfrage nur nach Lizenzvertrag klingt.
+- Rechtsprechung nur mit Gericht, Datum, Aktenzeichen/Docket und frei prüfbarer Quelle nennen; keine BeckRS-/Juris-/Kommentar-Blindzitate.
+
+---
+
 ## Skill: `ai-pair-programming-employment`
 
-_Wenn es um digitale Werkzeuge Pair Programming im Arbeitsverhältnis in Softwarerecht Deutschland/EU/International/USA geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen._
+_Für digitale Werkzeuge Pair Programming im Arbeitsverhältnis: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt._
 
 # AI Pair Programming im Arbeitsverhältnis
 
@@ -433,7 +458,7 @@ Aktuelle Fassungen, Behördenhinweise, Formulare, Guidance und Rechtsprechung vo
 
 ## Skill: `rechtsabteilung-developer-ip-open-source-us`
 
-_Wenn es um Rechtsabteilung: Developer-IP bei deutschen Angestellten in Softwarerecht Deutschland/EU/International/USA geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen._
+_Für Rechtsabteilung: Developer-IP bei deutschen Angestellten: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt._
 
 # Rechtsabteilung: Developer-IP bei deutschen Angestellten
 
@@ -481,11 +506,11 @@ Code-Rechte, Nebenprojekte, Repos und Freelancer-Beiträge werden aufgeklärt.
 
 ---
 
-## Skill: `rechtsabteilung-open-source-copyleft-im-saas-stack`
+## Skill: `rechtsabteilung-data-act-und-cloud-switching-klauseln`
 
-_Wenn es um Rechtsabteilung: Open-Source-Copyleft im SaaS-Stack in Softwarerecht Deutschland/EU/International/USA geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt._
+_Für Rechtsabteilung: Data Act und Cloud-Switching-Klauseln: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt._
 
-# Rechtsabteilung: Open-Source-Copyleft im SaaS-Stack
+# Rechtsabteilung: Data Act und Cloud-Switching-Klauseln
 
 ## Arbeitsweg
 
@@ -495,20 +520,20 @@ _Wenn es um Rechtsabteilung: Open-Source-Copyleft im SaaS-Stack in Softwarerecht
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
-## Fachkern: Rechtsabteilung: Open-Source-Copyleft im SaaS-Stack
+## Fachkern: Rechtsabteilung: Data Act und Cloud-Switching-Klauseln
 - **Normen-/Quellenanker:** UrhG §§ 69a ff., BGB, AGB-Recht, DSGVO, TTDSG/TDDDG, Open-Source-Lizenzen, AI Act, Exportkontrolle, US Copyright/Work-for-Hire und Patent-/Trade-Secret-Schnittstellen.
 - **Entscheidende Weiche:** Trenne Code-Urheberschaft, Rechtekette, Lizenzmodell, SLA, Datenschutz, Security, Escrow, Open-Source-Compliance und internationale Rechteübertragung.
 
-## Spezialkern: Rechtsabteilung: Open-Source-Copyleft im SaaS-Stack
+## Spezialkern: Rechtsabteilung: Data Act und Cloud-Switching-Klauseln
 
-- **Konkretes Problem:** Komponenten werden in Copyleft, Notice, Patent Grant und SaaS-Trigger getrennt.
+- **Konkretes Problem:** Softwareverträge werden auf Datenzugang, Portabilität und Exit-Charges geprüft.
 - **Norm-/Quellenanker:** BGB-Vertragsrecht, UrhG §§ 69a ff., GeschGehG, DSGVO, Data Act, Cyber Resilience Act, Open-Source-Lizenzen, US copyright/work-made-for-hire und Softwarepatent-Schnittstellen.
 - **Entscheidende Weiche:** Tatbestand, Dokumentenbeweis, Zuständigkeit, Frist, Rechtsfolge, Gegenargument und Eskalationsweg getrennt entscheiden; keine bloße To-do-Liste liefern.
 - **Arbeitsprodukt:** Rechtsabteilungsfähige Kurzentscheidung mit Ampel, Originalbelegen, offener-Tatsachen-Liste, Formulierungsvorschlag und nächstem Owner.
 
 ## Norm- und Rechtsprechungsanker
 
-GPL, AGPL, MIT, Apache; UrhG §§ 69a ff.; US Copyright als Vergleich
+VO EU 2023/2854 Data Act; DSGVO; Geschäftsgeheimnisse
 
 ## Sofortprüfung
 
@@ -520,7 +545,7 @@ GPL, AGPL, MIT, Apache; UrhG §§ 69a ff.; US Copyright als Vergleich
 
 ## Fachlicher Zuschnitt
 
-Komponenten werden in Copyleft, Notice, Patent Grant und SaaS-Trigger getrennt.
+Softwareverträge werden auf Datenzugang, Portabilität und Exit-Charges geprüft.
 
 ## Output für die Rechtsabteilung
 

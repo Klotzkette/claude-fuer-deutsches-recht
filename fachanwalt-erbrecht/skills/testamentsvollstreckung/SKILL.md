@@ -1,6 +1,6 @@
 ---
 name: testamentsvollstreckung
-description: "Wenn es um Testamentsvollstreckung einrichten oder bei Streit über Vollstreckerbefugnisse beraten in Fachanwalt Erbrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Testamentsvollstreckung einrichten oder bei Streit über Vollstreckerbefugnisse beraten: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Testamentsvollstreckung einrichten oder bei Streit über Vollstreckerbefugnisse beraten

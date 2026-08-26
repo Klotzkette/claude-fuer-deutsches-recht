@@ -1,6 +1,6 @@
 ---
 name: lease-057-verwertung-nach-kuendigung
-description: "Wenn es um Verwertung nach Kündigung in Leasingrecht Praxis geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Verwertung nach Kündigung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Verwertung nach Kündigung

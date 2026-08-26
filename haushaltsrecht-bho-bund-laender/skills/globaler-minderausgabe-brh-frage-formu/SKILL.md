@@ -1,6 +1,6 @@
 ---
 name: globaler-minderausgabe-brh-frage-formu
-description: "Wenn es um Globaler Minderausgabe Brh Frage Formu in Haushaltsrecht BHO Bund und Länder geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Globaler Minderausgabe BRH Frage Formu: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Globaler Minderausgabe Brh Frage Formu

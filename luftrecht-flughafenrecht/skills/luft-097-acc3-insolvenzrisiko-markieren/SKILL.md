@@ -1,6 +1,6 @@
 ---
 name: luft-097-acc3-insolvenzrisiko-markieren
-description: "Wenn es um Acc3 Insolvenzrisiko Markieren in Luftrecht und Flughafenrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Acc3 Insolvenzrisiko Markieren: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Acc3 Insolvenzrisiko Markieren

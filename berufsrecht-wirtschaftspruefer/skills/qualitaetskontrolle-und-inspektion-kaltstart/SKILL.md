@@ -1,6 +1,6 @@
 ---
 name: qualitaetskontrolle-und-inspektion-kaltstart
-description: "Wenn es um Qualitaetskontrolle Und Inspektion Kaltstart in Berufsrecht Wirtschaftsprüfer geht: klärt Rolle, Ziel, Frist, Unterlagen und den passenden nächsten Fachskill; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Qualitätskontrolle und Inspektion Kaltstart: routet Rolle, Frist, Unterlagen und Fachschritt; Ergebnis: Gegenprüfung mit Beweis- und Fristencheck."
 ---
 
 # Wirtschaftsprüfer: qualitaetskontrolle und inspektion - Kaltstart mit Faktenmatrix, Risikoampel und fehlenden Unterlagen

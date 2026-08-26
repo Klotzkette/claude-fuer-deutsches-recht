@@ -1,6 +1,6 @@
 ---
 name: cap-table-darlehenshoehe-konditionen
-description: "Wenn es um Cap-Table Update – Pre-Money und Post-Money in Wandeldarlehen-Lebenszyklus geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Cap-Table Update – Pre-Money und Post-Money: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Cap-Table Update – Pre-Money und Post-Money

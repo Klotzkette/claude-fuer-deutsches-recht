@@ -1,6 +1,6 @@
 ---
 name: bdsg-tatbestandsmerkmale-beweisfragen-beleglage
-description: "Wenn es um Bdsg: Tatbestandsmerkmale, Beweisfragen und Beleglage in Datenschutzrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für BDSG: Tatbestandsmerkmale, Beweisfragen und Beleglage: ordnet Akte, Belege und Lücken; Ergebnis: Beweislast- und Substantiierungsmatrix. Fachgebiet: Datenschutzrecht. Route: bdsg-tatbestandsmerkmale-beweisfragen-beleglage."
 ---
 
 # Bdsg: Tatbestandsmerkmale, Beweisfragen und Beleglage

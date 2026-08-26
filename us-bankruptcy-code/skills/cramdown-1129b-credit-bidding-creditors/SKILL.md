@@ -1,6 +1,6 @@
 ---
 name: cramdown-1129b-credit-bidding-creditors
-description: "Wenn es um Cramdown Paragraf 1129(b) in US Bankruptcy Code geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Cramdown Paragraf 1129(b): ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Cramdown § 1129(b)

@@ -1,6 +1,6 @@
 ---
 name: aussenwirtschaft-investitionspruefung-bmwk
-description: "Wenn es um Investitionspruefung BMWK: AWG-Verfahren bei ausländischen Unternehmenserwerben in Außenwirtschaft, Sanktionen, Zoll und CBAM geht: rechnet Schwellen, Beträge, Varianten und Kontrollannahmen durch; liefert eine Berechnungstabelle mit Schwellen, Annahmen und Kontrollfragen."
+description: "Für Investitionsprüfung BMWK: AWG-Verfahren bei ausländischen Unternehmenserwerben: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Tatbestands- oder Anspruchsmatrix."
 ---
 
 # Investitionspruefung BMWK: AWG-Verfahren bei ausländischen Unternehmenserwerben

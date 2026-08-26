@@ -1,6 +1,6 @@
 ---
 name: 15-beweisstation-votum
-description: "Wenn es um 15 Beweisstation Votum in Relationstechnik Zivilrecht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Beweislast- und Substantiierungsmatrix."
+description: "Für 15 Beweisstation Votum: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Beweislast- und Substantiierungsmatrix."
 ---
 
 # 15 Beweisstation Votum

@@ -1,6 +1,6 @@
 ---
 name: haftung-grobe-fahrlaessigkeit-vorsatz
-description: "Wenn es um Haftung Grobe Fahrlaessigkeit Vorsatz in AGB-Recht-Prüfer geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Haftung Grobe Fahrlässigkeit Vorsatz: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Haftung Grobe Fahrlaessigkeit Vorsatz

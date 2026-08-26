@@ -1,6 +1,6 @@
 ---
 name: unparteilichkeit-bei-familiengesellschaft-organisationsp
-description: "Wenn es um Unparteilichkeit Bei Familiengesellschaft Organisationsp in Berufsrecht Notare geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Unparteilichkeit bei Familiengesellschaft Organisationsp: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Notare: unparteilichkeit bei familiengesellschaft - Organisationspflichten, Prävention, Team-Anweisung und Fristenkontrolle

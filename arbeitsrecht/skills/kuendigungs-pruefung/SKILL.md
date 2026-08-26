@@ -1,6 +1,6 @@
 ---
 name: kuendigungs-pruefung
-description: "Wenn es um Kuendigungs Prüfung in Arbeitsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Kündigungs Prüfung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Tatbestands- oder Anspruchsmatrix."
 ---
 
 # Rechtliche Prüfung einer ordentlichen oder außerordentlichen Kündigung – KSchG (allgemeiner und besonderer Kündigungsschutz), Paragraf 102 BetrVG (Betriebsratsanhörung), Paragrafen 622 und 626 BGB (Fristen und wichtiger Grund), Sozialauswahl Paragraf 1 Abs

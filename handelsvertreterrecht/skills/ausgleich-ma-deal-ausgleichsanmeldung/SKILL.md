@@ -1,6 +1,6 @@
 ---
 name: ausgleich-ma-deal-ausgleichsanmeldung
-description: "Wenn es um Berechnung des Ausgleichsanspruchs nach Paragraf 89b HGB in Handelsvertreterrecht und Vertriebsverträge geht: rechnet Schwellen, Beträge, Varianten und Kontrollannahmen durch; liefert eine Berechnungstabelle mit Schwellen, Annahmen und Kontrollfragen."
+description: "Für Berechnung des Ausgleichsanspruchs nach Paragraf 89b HGB: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Berechnung des Ausgleichsanspruchs nach § 89b HGB

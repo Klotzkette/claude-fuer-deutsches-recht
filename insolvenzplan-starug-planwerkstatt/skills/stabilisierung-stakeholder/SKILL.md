@@ -1,6 +1,6 @@
 ---
 name: stabilisierung-stakeholder
-description: "Wenn es um StaRUG-Stabilisierung in Insolvenzplan- und StaRUG-Planwerkstatt geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
+description: "Für StaRUG-Stabilisierung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # StaRUG-Stabilisierung

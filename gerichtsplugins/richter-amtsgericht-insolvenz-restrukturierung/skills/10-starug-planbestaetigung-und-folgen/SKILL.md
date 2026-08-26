@@ -1,6 +1,6 @@
 ---
 name: 10-starug-planbestaetigung-und-folgen
-description: "Wenn es um 10 StaRUG Planbestätigung und Folgen in Insolvenz- und Restrukturierungsgericht am Amtsgericht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für 10 StaRUG Planbestätigung und Folgen: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # 10 StaRUG Planbestätigung und Folgen

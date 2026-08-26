@@ -1,6 +1,6 @@
 ---
 name: kvg-erlaubnis-registrierung-auslagerung
-description: "Wenn es um KVG: Erlaubnis, Registrierung und Auslagerung in Private Equity Praxis geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für KVG: Erlaubnis, Registrierung und Auslagerung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # KVG: Erlaubnis, Registrierung und Auslagerung

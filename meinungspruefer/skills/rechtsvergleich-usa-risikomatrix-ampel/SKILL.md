@@ -1,6 +1,6 @@
 ---
 name: rechtsvergleich-usa-risikomatrix-ampel
-description: "Wenn es um Rechtsvergleich USA: Supreme Court in Meinungsprüfer geht: entwickelt Verhandlungsziel, Vergleichskorridor und Eskalationspfad; liefert eine Verhandlungs- oder Eskalationslinie mit Optionen."
+description: "Für Rechtsvergleich USA: Supreme Court: entwickelt Ziel, Vergleich und Eskalation; Ergebnis: Verhandlungs- oder Eskalationslinie."
 ---
 
 # Rechtsvergleich USA: Supreme Court

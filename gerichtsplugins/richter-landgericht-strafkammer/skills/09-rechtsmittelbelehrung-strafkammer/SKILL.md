@@ -1,6 +1,6 @@
 ---
 name: 09-rechtsmittelbelehrung-strafkammer
-description: "Wenn es um 09 Rechtsmittelbelehrung Strafkammer in Strafkammer am Landgericht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für 09 Rechtsmittelbelehrung Strafkammer: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # 09 Rechtsmittelbelehrung Strafkammer

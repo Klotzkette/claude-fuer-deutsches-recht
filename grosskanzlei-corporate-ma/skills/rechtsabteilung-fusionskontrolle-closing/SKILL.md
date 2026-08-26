@@ -1,6 +1,6 @@
 ---
 name: rechtsabteilung-fusionskontrolle-closing
-description: "Wenn es um Rechtsabteilung: Fusionskontrolle als Closing Condition in Großkanzlei Corporate/M&A geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Gegenprüfung mit Fehler-, Beweis- und Fristencheck."
+description: "Für Rechtsabteilung: Fusionskontrolle als Closing Condition: prüft Ergebnis, Beweislast und Gegenposition; Ergebnis: Gegenprüfung mit Beweis- und Fristencheck."
 ---
 
 # Rechtsabteilung: Fusionskontrolle als Closing Condition

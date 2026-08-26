@@ -1,6 +1,6 @@
 ---
 name: schatten-ki-und-team-policy
-description: "Wenn es um Schatten-digitale Werkzeuge und Kanzlei-Team-Policy in Berufsrecht Anwälte geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen."
+description: "Für Schatten-digitale Werkzeuge und Kanzlei-Team-Policy: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Schatten-KI und Kanzlei-Team-Policy

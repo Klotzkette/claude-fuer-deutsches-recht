@@ -1,6 +1,6 @@
 ---
 name: annahmen-belastbarkeit-plausibilisieren
-description: "Wenn es um Annahmen plausibilisieren in Fortbestehensprognose geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Annahmen plausibilisieren: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Annahmen plausibilisieren

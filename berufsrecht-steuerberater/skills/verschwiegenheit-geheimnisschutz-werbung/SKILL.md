@@ -1,6 +1,6 @@
 ---
 name: verschwiegenheit-geheimnisschutz-werbung
-description: "Wenn es um Verschwiegenheit und Geheimnisschutz in Berufsrecht Steuerberater geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen."
+description: "Für Verschwiegenheit und Geheimnisschutz: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt. Fachgebiet: Berufsrecht Steuerberater."
 ---
 
 # Verschwiegenheit und Geheimnisschutz

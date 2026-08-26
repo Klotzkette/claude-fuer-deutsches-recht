@@ -1,6 +1,6 @@
 ---
 name: mandatsannahme-sanktionen
-description: "Wenn es um Mandatsannahme Sanktionen in Berufsrecht Steuerberater geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Gegenprüfung mit Fehler-, Beweis- und Fristencheck."
+description: "Für Mandatsannahme Sanktionen: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Steuerberater: mandatsannahme bei sanktionen - Rechtsprechungscheck, stärkste Gegenansicht und Red-Team-Korrektur

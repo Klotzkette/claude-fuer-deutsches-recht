@@ -1,6 +1,6 @@
 ---
 name: urkundenrolle-fehler-werbung-amtsbezeichnung
-description: "Wenn es um Urkundenrolle Fehler Werbung Amtsbezeichnung in Berufsrecht Notare geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Verhandlungs- oder Eskalationslinie mit Optionen."
+description: "Für Urkundenrolle Fehler Werbung Amtsbezeichnung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Notare: urkundenrolle fehler - Kammerantwort mit Verfahrensstrategie, Tonlage und Belegplan

@@ -1,6 +1,6 @@
 ---
 name: mildere-mittel-matrix
-description: "Wenn es um Mildere Mittel sichtbar machen in Versammlungsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Mildere Mittel sichtbar machen: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Mildere Mittel sichtbar machen

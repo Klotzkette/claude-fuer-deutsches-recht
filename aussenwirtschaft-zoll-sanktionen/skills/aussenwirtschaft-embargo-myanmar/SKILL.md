@@ -1,6 +1,6 @@
 ---
 name: aussenwirtschaft-embargo-myanmar
-description: "Wenn es um Embargo Myanmar: Militaerregime-Sanktionen und Guetersperren in Außenwirtschaft, Sanktionen, Zoll und CBAM geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Embargo Myanmar: Militärregime-Sanktionen und Gütersperren: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Embargo Myanmar: Militaerregime-Sanktionen und Guetersperren

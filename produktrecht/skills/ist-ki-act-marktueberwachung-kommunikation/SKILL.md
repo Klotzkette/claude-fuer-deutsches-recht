@@ -1,6 +1,6 @@
 ---
 name: ist-ki-act-marktueberwachung-kommunikation
-description: "Wenn es um /ist-das-ein-problem – Schnellprüfung in Produkthaftung und Produktrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für /ist-das-ein-problem – Schnellprüfung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # /ist-das-ein-problem – Schnellprüfung

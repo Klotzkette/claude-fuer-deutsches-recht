@@ -1,6 +1,6 @@
 ---
 name: fran-015-ordentliche-kuendigung-laufzeit-verlaengerung
-description: "Wenn es um Franchiserecht: Ordentliche Kündigung Laufzeit Verlängerung in Franchiserecht Praxis geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Franchiserecht: Ordentliche Kündigung Laufzeit Verlängerung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Franchiserecht: Ordentliche Kündigung Laufzeit Verlängerung

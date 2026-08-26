@@ -1,6 +1,6 @@
 ---
 name: nachwahl-evaluation-negative
-description: "Wenn es um Nachwahl Evaluation in Wahlkampfrecht Praxis geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Nachwahl Evaluation: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Nachwahl Evaluation

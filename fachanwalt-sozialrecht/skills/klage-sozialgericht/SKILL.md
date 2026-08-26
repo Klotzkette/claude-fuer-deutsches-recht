@@ -1,6 +1,6 @@
 ---
 name: klage-sozialgericht
-description: "Wenn es um Nach negativem Widerspruchsbescheid muss Klage zum Sozialgericht erhoben werden in Fachanwalt Sozialrecht geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Nach negativem Widerspruchsbescheid muss Klage zum Sozialgericht erhoben werden: erstellt Entwurf mit Antrag, Beweis und Anlagen; Ergebnis: Schriftsatz mit Begründungs- und Anlagenlogik."
 ---
 
 # Nach negativem Widerspruchsbescheid muss Klage zum Sozialgericht erhoben werden

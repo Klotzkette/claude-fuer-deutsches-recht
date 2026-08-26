@@ -1,6 +1,6 @@
 ---
 name: insiderinformation-zwischenschritte
-description: "Wenn es um Insiderinformation nach Art. 7 MAR in Insiderrecht Compliance geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. Auswahlstichwort: Insiderinformation Zwischenschritte; Arbeitsfeld: Insiderrecht Compliance."
+description: "Für Insiderinformation nach Art. 7 MAR: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt. Fachgebiet: Insiderrecht Compliance. Route: insiderinformation-zwischenschritte."
 ---
 
 # Insiderinformation nach Art. 7 MAR

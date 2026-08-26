@@ -1,6 +1,6 @@
 ---
 name: apothekenbetrieb-dokumentenintake
-description: "Wenn es um Apothekenbetrieb Dokumentenintake in Apothekenrecht geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Beweislast- und Substantiierungsmatrix."
+description: "Für Apothekenbetrieb Dokumentenintake: ordnet Akte, Belege und Lücken; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Apothekenbetrieb Dokumentenintake

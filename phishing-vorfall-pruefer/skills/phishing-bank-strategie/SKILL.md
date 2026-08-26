@@ -1,6 +1,6 @@
 ---
 name: phishing-bank-strategie
-description: "Wenn es um Anschreiben an die Bank in Phishing-Vorfall-Prüfer geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Anschreiben an die Bank: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Verhandlungs- oder Eskalationslinie."
 ---
 
 # Anschreiben an die Bank

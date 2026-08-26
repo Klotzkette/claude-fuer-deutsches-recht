@@ -1,6 +1,6 @@
 ---
 name: spezial-klage-formular-portal-und-einreichung
-description: "Wenn es um Klage: Formular, Portal und Einreichungslogik in Forderungsmanagement — Klagewerkstatt geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
+description: "Für Klage: Formular, Portal und Einreichungslogik: erstellt Entwurf mit Antrag, Beweis und Anlagen; Ergebnis: Schriftsatz mit Begründungs- und Anlagenlogik."
 ---
 
 # Klage: Formular, Portal und Einreichungslogik

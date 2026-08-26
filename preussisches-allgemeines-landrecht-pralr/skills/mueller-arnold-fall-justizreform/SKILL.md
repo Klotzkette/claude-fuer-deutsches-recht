@@ -1,6 +1,6 @@
 ---
 name: mueller-arnold-fall-justizreform
-description: "Wenn es um Müller-Arnold und Justizreform in Preußisches Allgemeines Landrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. Auswahlstichwort: Mueller Arnold Fall Justizreform; Arbeitsfeld: Preußisches Allgemeines Landrecht."
+description: "Für Müller-Arnold und Justizreform: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt. Fachgebiet: Preußisches Allgemeines Landrecht. Route: mueller-arnold-fall-justizreform."
 ---
 
 # Müller-Arnold und Justizreform

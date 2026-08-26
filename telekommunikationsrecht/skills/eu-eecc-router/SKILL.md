@@ -1,6 +1,6 @@
 ---
 name: eu-eecc-router
-description: "Wenn es um EU Electronic Communications Code Router in Telekommunikationsrecht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen."
+description: "Für EU Electronic Communications Code Router: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Schnittstellenkarte mit Zuständigkeits- und Nachweisfragen."
 ---
 
 # EU Electronic Communications Code Router

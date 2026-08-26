@@ -1,6 +1,6 @@
 ---
 name: red-team-keine-sweat-brow-verwechslung
-description: "Wenn es um Red Team: Keine Sweat-of-the-Brow-Verwechslung im Datenbankrecht in Datenbankrecht und Datenbankherstellerrecht geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Red Team: Keine Sweat-of-the-Brow-Verwechslung im Datenbankrecht: prüft Ergebnis, Beweislast und Gegenposition; Ergebnis: Gegenprüfung mit Beweis- und Fristencheck."
 ---
 
 # Red Team: Keine Sweat-of-the-Brow-Verwechslung im Datenbankrecht

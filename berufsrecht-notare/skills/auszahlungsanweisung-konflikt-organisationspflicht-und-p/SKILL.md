@@ -1,6 +1,6 @@
 ---
 name: auszahlungsanweisung-konflikt-organisationspflicht-und-p
-description: "Wenn es um Auszahlungsanweisung Konflikt Organisationspflicht Und P in Berufsrecht Notare geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Auszahlungsanweisung Konflikt Organisationspflicht und P: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Notare: auszahlungsanweisung konflikt - Organisationspflichten, Prävention, Team-Anweisung und Fristenkontrolle

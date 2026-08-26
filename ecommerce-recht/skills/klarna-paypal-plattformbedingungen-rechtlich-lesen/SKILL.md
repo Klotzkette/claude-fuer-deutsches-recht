@@ -1,6 +1,6 @@
 ---
 name: klarna-paypal-plattformbedingungen-rechtlich-lesen
-description: "Wenn es um Klarna PayPal Plattformbedingungen rechtlich lesen in E-Commerce-Recht geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Klarna PayPal Plattformbedingungen rechtlich lesen: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Klarna PayPal Plattformbedingungen rechtlich lesen

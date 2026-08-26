@@ -1,6 +1,6 @@
 ---
 name: ki-anbieter-pruefung
-description: "Wenn es um digitale Werkzeuge-Anbieterprüfung in diesem Spezialbereich geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Beweislast- und Substantiierungsmatrix."
+description: "Für digitale Werkzeuge-Anbieterprüfung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Tatbestands- oder Anspruchsmatrix."
 ---
 
 # KI-Anbieterprüfung

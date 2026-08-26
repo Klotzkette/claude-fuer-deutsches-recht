@@ -1,6 +1,6 @@
 ---
 name: richtlinien-monitor
-description: "Wenn es um Policy-Monitor – Drift-Monitoring Datenschutzerklärung in Datenschutzrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Policy-Monitor – Drift-Monitoring Datenschutzerklärung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Policy-Monitor – Drift-Monitoring Datenschutzerklärung

@@ -1,6 +1,6 @@
 ---
 name: euveca-und-vc-fonds
-description: "Wenn es um EuVECA und VC-Fonds: Wagniskapital richtig etikettieren in Private Equity Praxis geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für EuVECA und VC-Fonds: Wagniskapital richtig etikettieren: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Schnittstellenkarte mit Zuständigkeits- und Nachweisfragen."
 ---
 
 # EuVECA und VC-Fonds: Wagniskapital richtig etikettieren

@@ -1,6 +1,6 @@
 ---
 name: prozessstrategie-zahlung-feststellung-und-vorschuss
-description: "Wenn es um Prozessstrategie Zahlung, Feststellung und Vorschuss in Bauträgervertrag-Prüfer geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
+description: "Für Prozessstrategie Zahlung, Feststellung und Vorschuss: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Verhandlungs- oder Eskalationslinie."
 ---
 
 # Prozessstrategie Zahlung, Feststellung und Vorschuss

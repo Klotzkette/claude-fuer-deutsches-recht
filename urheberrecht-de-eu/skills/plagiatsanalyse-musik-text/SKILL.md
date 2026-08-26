@@ -1,6 +1,6 @@
 ---
 name: plagiatsanalyse-musik-text
-description: "Wenn es um Plagiatsanalyse Musik und Text in Urheberrecht DE EU geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Plagiatsanalyse Musik und Text: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Plagiatsanalyse Musik und Text

@@ -1,6 +1,6 @@
 ---
 name: vollstreckungsschutz-haertefall-765a
-description: "Wenn es um Vollstreckungsschutz Paragraf 765a ZPO — Härtefall in Zwangsvollstreckung geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
+description: "Für Vollstreckungsschutz Paragraf 765a ZPO — Härtefall: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Vollstreckungsschutz § 765a ZPO — Härtefall

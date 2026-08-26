@@ -1,6 +1,6 @@
 ---
 name: erhaltung-modernisierung-baumaengel
-description: "Wenn es um Erhaltung, Modernisierung und Baumängel in WEG- und Hausverwaltung geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Erhaltung, Modernisierung und Baumängel: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Erhaltung, Modernisierung und Baumängel

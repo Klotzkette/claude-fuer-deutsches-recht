@@ -1,6 +1,6 @@
 ---
 name: firmenfortfuehrung-paragraphen-21-25-hgb
-description: "Wenn es um Firmenfortführung Paragrafen 21-25 HGB in Handelsrecht HGB geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Firmenfortführung Paragrafen 21-25 HGB: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Firmenfortführung §§ 21-25 HGB

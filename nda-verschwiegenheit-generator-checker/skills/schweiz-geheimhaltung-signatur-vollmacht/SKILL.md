@@ -1,6 +1,6 @@
 ---
 name: schweiz-geheimhaltung-signatur-vollmacht
-description: "Wenn es um Schweiz Geheimhaltung in NDA-Generator und Verschwiegenheitsvereinbarungs-Checker geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
+description: "Für Schweiz Geheimhaltung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Schweiz Geheimhaltung

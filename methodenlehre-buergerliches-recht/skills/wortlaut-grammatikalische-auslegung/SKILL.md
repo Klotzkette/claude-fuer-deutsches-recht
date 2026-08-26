@@ -1,6 +1,6 @@
 ---
 name: wortlaut-grammatikalische-auslegung
-description: "Wenn es um Wortlaut / grammatikalische Auslegung in Methodenlehre bürgerliches Recht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Wortlaut / grammatikalische Auslegung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Wortlaut / grammatikalische Auslegung

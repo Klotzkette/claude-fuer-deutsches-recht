@@ -1,6 +1,6 @@
 ---
 name: sklaverei-rechtshistorisch-kritisch
-description: "Wenn es um Sklaverei Rechtshistorisch Kritisch in Römisches Recht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Sklaverei Rechtshistorisch Kritisch: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Sklaverei Rechtshistorisch Kritisch

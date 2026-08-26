@@ -1,6 +1,6 @@
 ---
 name: preemption-301-state-law
-description: "Wenn es um Preemption Paragraf 301 und State Law in US Copyright Act und Registrierung für deutsche Verlage geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
+description: "Für Preemption Paragraf 301 und State Law: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Preemption § 301 und State Law

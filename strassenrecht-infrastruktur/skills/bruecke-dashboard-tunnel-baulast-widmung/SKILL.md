@@ -1,6 +1,6 @@
 ---
 name: bruecke-dashboard-tunnel-baulast-widmung
-description: "Wenn es um Bruecke Dashboard Erstellen in Straßenrecht und Infrastruktur geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Brücke Dashboard Erstellen: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Bruecke Dashboard Erstellen

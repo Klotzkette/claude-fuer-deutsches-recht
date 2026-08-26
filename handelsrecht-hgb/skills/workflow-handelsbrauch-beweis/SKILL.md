@@ -1,6 +1,6 @@
 ---
 name: workflow-handelsbrauch-beweis
-description: "Wenn es um Handelsbrauch und Beweis in Handelsrecht HGB geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Handelsbrauch und Beweis: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Beweislast- und Substantiierungsmatrix."
 ---
 
 # Handelsbrauch und Beweis

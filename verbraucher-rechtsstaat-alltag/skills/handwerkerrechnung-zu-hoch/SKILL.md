@@ -1,6 +1,6 @@
 ---
 name: handwerkerrechnung-zu-hoch
-description: "Wenn es um Handwerkerrechnung zu hoch in Verbraucher im Rechtsstaat Alltag geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Handwerkerrechnung zu hoch: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Handwerkerrechnung zu hoch

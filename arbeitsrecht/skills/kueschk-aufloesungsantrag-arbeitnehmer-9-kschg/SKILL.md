@@ -1,6 +1,6 @@
 ---
 name: kueschk-aufloesungsantrag-arbeitnehmer-9-kschg
-description: "Wenn es um Kueschk Aufloesungsantrag Arbeitnehmer 9 Kschg in Arbeitsrecht geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
+description: "Für Kueschk Auflösungsantrag Arbeitnehmer 9 Kschg: erstellt Entwurf mit Antrag, Beweis und Anlagen; Ergebnis: Schriftsatz mit Begründungs- und Anlagenlogik."
 ---
 
 # Aufloeungsantrag des Arbeitnehmers nach Paragraf 9 KSchG: Voraussetzung der Unzumutbarkeit der Weiterbeschaeftigung

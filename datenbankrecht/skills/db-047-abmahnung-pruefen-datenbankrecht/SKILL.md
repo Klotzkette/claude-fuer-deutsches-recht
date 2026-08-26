@@ -1,6 +1,6 @@
 ---
 name: db-047-abmahnung-pruefen-datenbankrecht
-description: "Wenn es um Datenbankrecht: Abmahnung prüfen Datenbankrecht in Datenbankrecht und Datenbankherstellerrecht geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Datenbankrecht: Abmahnung prüfen Datenbankrecht: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Datenbankrecht: Abmahnung prüfen Datenbankrecht

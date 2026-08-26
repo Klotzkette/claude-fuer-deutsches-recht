@@ -1,6 +1,6 @@
 ---
 name: kriegsdienstverweigerung-verfahren
-description: "Wenn es um Kriegsdienstverweigerung – Verfahren in Bundeswehrrecht und Wehrrecht geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Kriegsdienstverweigerung – Verfahren: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Kriegsdienstverweigerung – Verfahren

@@ -1,6 +1,6 @@
 ---
 name: outside-in-target-screening
-description: "Wenn es um Outside-In Target Screening in Corporate-Kanzlei geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Outside-In Target Screening: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Outside-In Target Screening

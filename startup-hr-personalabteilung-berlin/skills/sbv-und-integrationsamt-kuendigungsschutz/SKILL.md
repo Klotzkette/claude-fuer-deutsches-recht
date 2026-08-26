@@ -1,6 +1,6 @@
 ---
 name: sbv-und-integrationsamt-kuendigungsschutz
-description: "Wenn es um SBV Und Integrationsamt Kuendigungsschutz in Start-up-HR-Personalabteilung Berlin geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für SBV und Integrationsamt Kündigungsschutz: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # SBV Und Integrationsamt Kuendigungsschutz

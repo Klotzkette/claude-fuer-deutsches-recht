@@ -1,6 +1,6 @@
 ---
 name: agb-gerichtsstand
-description: "Wenn es um Gerichtsstand in AGB-Recht-Prüfer geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Fristen- und Risikoampel mit Sofortschritten. Auswahlstichwort: Agb Gerichtsstand; Arbeitsfeld: AGB-Recht-Prüfer."
+description: "Für Gerichtsstand: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt. Fachgebiet: AGB-Recht-Prüfer. Route: agb-gerichtsstand."
 ---
 
 # Gerichtsstand

@@ -1,6 +1,6 @@
 ---
 name: informationszugang-baden-wuerttemberg-bayern-livecheck
-description: "Wenn es um Informationszugang Baden Wuerttemberg in Informationsfreiheit und Presseauskunft geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
+description: "Für Informationszugang Baden Württemberg: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Informationszugang Baden Wuerttemberg

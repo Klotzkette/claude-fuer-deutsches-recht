@@ -1,6 +1,6 @@
 ---
 name: arbeitsvertrag-founder-nahe-schluesselrolle
-description: "Wenn es um Arbeitsvertrag Founder Nahe Schlüsselrolle in Start-up-HR-Personalabteilung Berlin geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Arbeitsvertrag Founder Nahe Schlüsselrolle: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Arbeitsvertrag Founder Nahe Schlüsselrolle

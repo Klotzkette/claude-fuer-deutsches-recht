@@ -1,6 +1,6 @@
 ---
 name: cease-and-abmahnung-pruefen-datenbankvergleich
-description: "Wenn es um Cease-and-Desist-Letter (Abmahnung) im Datenbankrecht — Paragraf 97a UrhG in Datenbankrecht und Datenbankherstellerrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Cease-and-Desist-Letter (Abmahnung) im Datenbankrecht — Paragraf 97a UrhG: entwickelt Ziel, Vergleich und Eskalation; Ergebnis: Verhandlungs- oder Eskalationslinie."
 ---
 
 # Cease-and-Desist-Letter (Abmahnung) im Datenbankrecht — § 97a UrhG

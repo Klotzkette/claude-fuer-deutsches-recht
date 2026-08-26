@@ -1,6 +1,6 @@
 ---
 name: aussenwirtschaft-zollwert-ursprung
-description: "Wenn es um Zollwert und Ursprung: Integrierte Prüfung und kombiniertes Nachweispaket in Außenwirtschaft, Sanktionen, Zoll und CBAM geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Zollwert und Ursprung: Integrierte Prüfung und kombiniertes Nachweispaket: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Zollwert und Ursprung: Integrierte Prüfung und kombiniertes Nachweispaket

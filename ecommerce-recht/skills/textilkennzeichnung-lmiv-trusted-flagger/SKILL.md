@@ -1,6 +1,6 @@
 ---
 name: textilkennzeichnung-lmiv-trusted-flagger
-description: "Wenn es um Textilkennzeichnung LMIV Kosmetik Spielzeug in E-Commerce-Recht geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen."
+description: "Für Textilkennzeichnung LMIV Kosmetik Spielzeug: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Textilkennzeichnung LMIV Kosmetik Spielzeug

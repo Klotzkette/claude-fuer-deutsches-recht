@@ -1,6 +1,6 @@
 ---
 name: polizei-zusammenarbeit-presse-oeffentlichkeit
-description: "Wenn es um Zusammenarbeit mit der Polizei in Staatsanwaltschaft Praxis-Einstieg geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Zusammenarbeit mit der Polizei: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt. Fachgebiet: Staatsanwaltschaft Praxis-Einstieg. Route: polizei-zusammenarbeit-presse-oeffentlichkeit."
 ---
 
 # Zusammenarbeit mit der Polizei

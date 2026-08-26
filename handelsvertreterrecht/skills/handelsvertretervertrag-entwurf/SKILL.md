@@ -1,6 +1,6 @@
 ---
 name: handelsvertretervertrag-entwurf
-description: "Wenn es um Handelsvertretervertrag — Entwurf und Verhandlung nach Paragrafen 84 bis 92c HGB in Handelsvertreterrecht und Vertriebsverträge geht: entwickelt Verhandlungsziel, Vergleichskorridor und Eskalationspfad; liefert eine Verhandlungs- oder Eskalationslinie mit Optionen."
+description: "Für Handelsvertretervertrag — Entwurf und Verhandlung nach Paragrafen 84 bis 92c HGB: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Handelsvertretervertrag — Entwurf und Verhandlung nach §§ 84 bis 92c HGB

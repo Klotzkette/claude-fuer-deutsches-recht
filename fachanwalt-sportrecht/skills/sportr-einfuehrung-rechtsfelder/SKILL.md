@@ -1,6 +1,6 @@
 ---
 name: sportr-einfuehrung-rechtsfelder
-description: "Wenn es um Sportr Einfuehrung Rechtsfelder in Fachanwalt Sportrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Sportr Einführung Rechtsfelder: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Sportrecht einfuehrend: Sportverbandsrecht, Verbandsstrafrecht, Anti-Doping, Sportarbeitsvertraege (Profisport), Sponsoring, Vermarktung, Persoenlichkeitsrecht Athlet, Fan-Rechte

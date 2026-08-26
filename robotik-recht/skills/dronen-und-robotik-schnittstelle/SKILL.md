@@ -1,6 +1,6 @@
 ---
 name: dronen-und-robotik-schnittstelle
-description: "Wenn es um Drohnen und Robotik in robotik-recht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Drohnen und Robotik: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Drohnen und Robotik

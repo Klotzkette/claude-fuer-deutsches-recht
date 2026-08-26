@@ -1,6 +1,6 @@
 ---
 name: public-ma-qa-information
-description: "Wenn es um Public M&A und Kapitalmarkt / MAR in Corporate-Kanzlei geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. Auswahlstichwort: Public M&A Qa Information; Arbeitsfeld: Corporate-Kanzlei."
+description: "Für Public M&A und Kapitalmarkt / MAR: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt. Fachgebiet: Corporate-Kanzlei. Route: public-ma-qa-information."
 ---
 
 # Public M&A und Kapitalmarkt / MAR

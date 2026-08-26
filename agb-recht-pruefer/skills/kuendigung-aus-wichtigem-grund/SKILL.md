@@ -1,6 +1,6 @@
 ---
 name: kuendigung-aus-wichtigem-grund
-description: "Wenn es um Kündigung Aus Wichtigem Grund in AGB-Recht-Prüfer geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Kündigung aus Wichtigem Grund: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Kündigung Aus Wichtigem Grund

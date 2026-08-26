@@ -1,6 +1,6 @@
 ---
 name: reste-uebertragbarkeit-brh-f-parlamentsf
-description: "Wenn es um Reste Und Uebertragbarkeit Risiko Mark in Haushaltsrecht BHO Bund und Länder geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Reste und Übertragbarkeit Risiko Mark: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Reste Und Uebertragbarkeit Risiko Mark

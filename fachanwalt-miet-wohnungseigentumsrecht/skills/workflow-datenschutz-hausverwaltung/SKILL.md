@@ -1,6 +1,6 @@
 ---
 name: workflow-datenschutz-hausverwaltung
-description: "Prüft Datenschutzfragen in Mietshaus, WEG und Hausverwaltung. Bestimmt Verantwortlichen, Zweck, Rechtsgrundlage, Empfängerkreis, Löschung und Betroffenenrechte für Kameras, Klingelschilder, Verteiler und Verwaltungsdaten und liefert Beschluss, Information, Auskunft und Abwehrschreiben."
+description: "Für Datenschutz in Hausverwaltung und Wohnanlage prüfen: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Datenschutz in Hausverwaltung und Wohnanlage prüfen

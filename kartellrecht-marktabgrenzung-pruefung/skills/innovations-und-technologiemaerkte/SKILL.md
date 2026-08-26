@@ -1,6 +1,6 @@
 ---
 name: innovations-und-technologiemaerkte
-description: "Wenn es um Innovations- und Technologiemärkte in Kartellrecht — Marktabgrenzungsprüfung geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Innovations- und Technologiemärkte: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Innovations- und Technologiemärkte

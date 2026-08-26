@@ -197,7 +197,7 @@ Diese Routen stammen aus den konkreten Arbeitsthemen dieses Plugins. Wähle die 
 
 Bearbeitungsauftrag: Bearbeite Finale Entscheidung als Volltext (Abschlussverfügung Staatsanwaltschaft): tatkomplex, Norm, Beweismittel, Einlassung, Verwertbarkeit, Frist und Rechtsfolge zeilenweise prüfen. Entwirf die im Fachverfahren richtige Entscheidungsform mit bestimmtem Ausspruch, festgestelltem Sachverhalt, offen gelegter Beweiswürdigung, tragender Subsumtion, Nebenentscheidungen und nur tatsächlich statthaftem Rechtsbehelf.
 Prüfschritte: Paragrafen 170, 153, 153a, 154, 154a StPO für Einstellungen; Paragraf 200 StPO für Anklageschrift; Paragraf 407 StPO für Strafbefehlsantrag; Vor der Volltext-Erstellung müssen die vorbereitenden Skills dieses Plugins durchlaufen sein; Aktenzeichen, Beschuldigter, Tatzeit, Tatort und zuständiges Gericht.
-Norm- oder Entscheidungsbezug aus dem Fachmaterial: Paragrafen 170, 153, 153a, 154, 154a StPO für Einstellungen; Paragraf 200 StPO für Anklageschrift; Paragraf 407 StPO für Strafbefehlsantrag; Vor der Volltext-Erstellung müssen die vorbereitenden Skills dieses Plugins durchlaufen sein.
+Norm- oder Entscheidungsbezug aus dem Fachmaterial: Paragrafen 170, 153, 153a, 154, 154a StPO für Einstellungen; Paragraf 200 StPO für Anklageschrift; Paragraf 407 StPO für Strafbefehlsantrag; Paragrafen 170, 153, 153a, 154, 154a StPO für Einstellungen; Paragraf 200 StPO für Anklageschrift; Paragraf 407 StPO für Strafbefehlsantrag.
 Lieferstück: entscheidungsreifer Entwurf mit Tenor oder Verfügungssatz, Streitstoff, Beweiswürdigung und Nebenentscheidungen.
 
 ### 16.2. BtMG/KCanG im Sitzungsdienst

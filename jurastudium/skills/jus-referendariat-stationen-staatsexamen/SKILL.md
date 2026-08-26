@@ -1,6 +1,6 @@
 ---
 name: jus-referendariat-stationen-staatsexamen
-description: "Wenn es um JuS: Referendariat-Stationen in Jurastudium geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen."
+description: "Für JuS: Referendariat-Stationen: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # JuS: Referendariat-Stationen

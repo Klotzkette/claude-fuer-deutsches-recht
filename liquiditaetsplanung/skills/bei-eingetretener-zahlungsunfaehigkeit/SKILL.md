@@ -1,6 +1,6 @@
 ---
 name: bei-eingetretener-zahlungsunfaehigkeit
-description: "Wenn es um Liqui: eingetretene ZU in Liquiditätsplanung — Power geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
+description: "Für Liqui: eingetretene ZU: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Liqui: eingetretene ZU

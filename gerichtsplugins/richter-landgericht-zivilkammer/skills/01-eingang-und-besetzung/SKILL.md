@@ -1,6 +1,6 @@
 ---
 name: 01-eingang-und-besetzung
-description: "Wenn es um 01 Eingang und Besetzung in Zivilkammer am Landgericht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
+description: "Für 01 Eingang und Besetzung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # 01 Eingang und Besetzung

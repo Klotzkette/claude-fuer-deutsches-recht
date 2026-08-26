@@ -1,6 +1,6 @@
 ---
 name: lernstrategien-loesungsschemata-methodenlehre
-description: "Wenn es um Lernstrategien für Jura in Jurastudium geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Lernstrategien für Jura: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Verhandlungs- oder Eskalationslinie."
 ---
 
 # Lernstrategien für Jura

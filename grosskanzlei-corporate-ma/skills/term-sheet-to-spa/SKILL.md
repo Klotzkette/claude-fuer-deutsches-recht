@@ -1,6 +1,6 @@
 ---
 name: term-sheet-to-spa
-description: "Wenn es um Term Sheet To SPA Bridge in Großkanzlei Corporate/M&A geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
+description: "Für Term Sheet To SPA Bridge: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Term Sheet To SPA Bridge

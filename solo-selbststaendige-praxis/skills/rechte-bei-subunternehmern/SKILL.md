@@ -1,6 +1,6 @@
 ---
 name: rechte-bei-subunternehmern
-description: "Wenn es um Rechte Bei Subunternehmern in Solo-Selbstständige Praxis geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Rechte bei Subunternehmern: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # IP Content und Arbeitsergebnisse: Sichert rechtekette von freien mitarbeitenden und agenturen

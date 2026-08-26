@@ -1,6 +1,6 @@
 ---
 name: conflict-gwg-sanctions
-description: "Wenn es um Konflikt-, GwG- und Sanktionscheck in Corporate-Kanzlei geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Beweislast- und Substantiierungsmatrix."
+description: "Für Konflikt-, GwG- und Sanktionscheck: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt. Fachgebiet: Corporate-Kanzlei."
 ---
 
 # Konflikt-, GwG- und Sanktionscheck

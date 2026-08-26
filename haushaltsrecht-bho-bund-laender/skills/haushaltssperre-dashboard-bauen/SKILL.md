@@ -1,6 +1,6 @@
 ---
 name: haushaltssperre-dashboard-bauen
-description: "Wenn es um Haushaltssperre Dashboard Bauen in Haushaltsrecht BHO Bund und Länder geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Haushaltssperre Dashboard Bauen: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Haushaltssperre Dashboard Bauen

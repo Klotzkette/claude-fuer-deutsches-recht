@@ -1,6 +1,6 @@
 ---
 name: baurecht-gerichtstermin-vorbereiten
-description: "Wenn es um Baurecht Gerichtstermin Vorbereiten in Ordnungswidrigkeitenrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Baurecht Gerichtstermin Vorbereiten: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Baurecht Gerichtstermin Vorbereiten

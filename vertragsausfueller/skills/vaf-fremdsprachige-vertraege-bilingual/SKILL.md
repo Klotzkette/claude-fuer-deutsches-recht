@@ -1,6 +1,6 @@
 ---
 name: vaf-fremdsprachige-vertraege-bilingual
-description: "Wenn es um Bilinguale Vertraege in Vertragsausfüller geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
+description: "Für Bilinguale Verträge: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt. Fachgebiet: Vertragsausfüller. Route: vaf-fremdsprachige-vertraege-bilingual."
 ---
 
 # Bilinguale Vertraege

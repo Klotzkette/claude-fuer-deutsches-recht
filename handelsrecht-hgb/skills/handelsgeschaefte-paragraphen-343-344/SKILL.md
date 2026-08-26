@@ -1,6 +1,6 @@
 ---
 name: handelsgeschaefte-paragraphen-343-344
-description: "Wenn es um Handelsgeschäfte Paragrafen 343. 344 HGB in Handelsrecht HGB geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Handelsgeschäfte Paragrafen 343. 344 HGB: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Handelsgeschäfte §§ 343, 344 HGB

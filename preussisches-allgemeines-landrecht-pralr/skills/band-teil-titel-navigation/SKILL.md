@@ -1,6 +1,6 @@
 ---
 name: band-teil-titel-navigation
-description: "Wenn es um Navigation im Band in Preußisches Allgemeines Landrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. Auswahlstichwort: Band Teil Titel Navigation; Arbeitsfeld: Preußisches Allgemeines Landrecht."
+description: "Für Navigation im Band: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt. Fachgebiet: Preußisches Allgemeines Landrecht. Route: band-teil-titel-navigation."
 ---
 
 # Navigation im Band

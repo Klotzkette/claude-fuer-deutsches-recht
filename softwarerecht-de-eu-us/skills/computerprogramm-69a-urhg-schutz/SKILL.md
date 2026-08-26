@@ -1,6 +1,6 @@
 ---
 name: computerprogramm-69a-urhg-schutz
-description: "Wenn es um Computerprogramm-Schutz Paragraf 69a UrhG in Softwarerecht Deutschland/EU/International/USA geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen."
+description: "Für Computerprogramm-Schutz Paragraf 69a UrhG: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Computerprogramm-Schutz § 69a UrhG

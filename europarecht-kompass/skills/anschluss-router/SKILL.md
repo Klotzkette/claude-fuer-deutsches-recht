@@ -1,6 +1,6 @@
 ---
 name: anschluss-router
-description: "Wenn es um Europarecht-Kompass — Allgemein in Europarecht-Kompass für deutsche Juristen geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Europarecht-Kompass — Allgemein: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Europarecht-Kompass — Allgemein

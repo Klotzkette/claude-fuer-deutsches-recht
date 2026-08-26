@@ -1,6 +1,6 @@
 ---
 name: parteienrecht-unterstuetzungsunterschriften-wahl
-description: "Wenn es um Unterstützungsunterschriften in Parteienrecht und Parteiorganisation geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Unterstützungsunterschriften: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt. Fachgebiet: Parteienrecht und Parteiorganisation. Route: parteienrecht-unterstuetzungsunterschriften-wahl."
 ---
 
 # Unterstützungsunterschriften

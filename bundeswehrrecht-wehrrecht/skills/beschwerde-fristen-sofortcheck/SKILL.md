@@ -1,6 +1,6 @@
 ---
 name: beschwerde-fristen-sofortcheck
-description: "Wenn es um Beschwerde Fristen Sofortcheck in Bundeswehrrecht und Wehrrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Beschwerde Fristen Sofortcheck: prüft Frist, Form, Zuständigkeit und Eilbedarf; Ergebnis: Fristen- und Risikoampel."
 ---
 
 # Beschwerde Fristen Sofortcheck

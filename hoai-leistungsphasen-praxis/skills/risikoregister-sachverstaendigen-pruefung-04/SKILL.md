@@ -1,6 +1,6 @@
 ---
 name: risikoregister-sachverstaendigen-pruefung-04
-description: "Wenn es um LPH 2 Vorplanung: Baut risiko- in HOAI Leistungsphasen Praxis geht: entwickelt Verhandlungsziel, Vergleichskorridor und Eskalationspfad; liefert einen Einreichungsplan mit Form-, Portal- und Nachweischeck."
+description: "Für LPH 2 Vorplanung: Baut risiko-: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Einreichungsplan mit Form- und Nachweischeck."
 ---
 
 # LPH 2 Vorplanung: Baut risiko-

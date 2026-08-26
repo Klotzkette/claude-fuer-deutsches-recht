@@ -1,6 +1,6 @@
 ---
 name: vertiefung-01-board-memo
-description: "Wenn es um Board-Memo: Internationaler Handelsstreit in Internationales Handelsrecht und Lex Mercatoria geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
+description: "Für Board-Memo: Internationaler Handelsstreit: erstellt Entwurf mit Antrag, Beweis und Anlagen; Ergebnis: Schriftsatz mit Begründungs- und Anlagenlogik."
 ---
 
 # Board-Memo: Internationaler Handelsstreit

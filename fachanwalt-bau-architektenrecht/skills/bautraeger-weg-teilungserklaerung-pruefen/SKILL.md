@@ -1,6 +1,6 @@
 ---
 name: bautraeger-weg-teilungserklaerung-pruefen
-description: "Wenn es um WEG-Teilungserklaerung beim Bautraegervertrag prüfen in Fachanwalt Bau Architektenrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für WEG-Teilungserklärung beim Bauträgervertrag prüfen: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # WEG-Teilungserklaerung beim Bautraegervertrag prüfen

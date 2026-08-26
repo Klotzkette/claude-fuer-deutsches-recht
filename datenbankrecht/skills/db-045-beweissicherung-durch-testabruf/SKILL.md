@@ -1,6 +1,6 @@
 ---
 name: db-045-beweissicherung-durch-testabruf
-description: "Wenn es um Datenbankrecht: Beweissicherung durch Testabruf-Werkzeug in Datenbankrecht und Datenbankherstellerrecht geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Datenbankrecht: Beweissicherung durch Testabruf-Werkzeug: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Beweislast- und Substantiierungsmatrix."
 ---
 
 # Datenbankrecht: Beweissicherung durch Testabruf-Werkzeug

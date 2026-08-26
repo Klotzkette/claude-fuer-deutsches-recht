@@ -1,6 +1,6 @@
 ---
 name: krankenversicherung-seltene-erkrankung-einzelfallentscheidung
-description: "Wenn es um Seltene Erkrankung: Einzelfallentscheidung in Krankenkassenrecht und Krankenversicherung geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Seltene Erkrankung: Einzelfallentscheidung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Seltene Erkrankung: Einzelfallentscheidung

@@ -1,6 +1,6 @@
 ---
 name: dokumentenmatrix-und-anlagen
-description: "Wenn es um Dokumentenmatrix Und Anlagen in NDA-Generator und Verschwiegenheitsvereinbarungs-Checker geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Dokumentenmatrix mit Nachforderungsliste."
+description: "Für Dokumentenmatrix und Anlagen: ordnet Akte, Belege und Lücken; Ergebnis: Dokumentenmatrix mit Nachforderungsliste."
 ---
 
 # Dokumentenmatrix Und Anlagen

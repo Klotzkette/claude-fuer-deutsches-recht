@@ -1,6 +1,6 @@
 ---
 name: sanktionen-art-bussgeldverteidigung-bildung
-description: "Wenn es um Sanktionen — Art. 99 bis 101 europäischer Technikregulierungsrahmen in europäischem Technikregulierungsrecht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt. Auswahlstichwort: Sanktionen Art Bussgeldverteidigung Bildung; Arbeitsfeld: europäischem Technikregulierungsrecht."
+description: "Für Sanktionen — Art. 99 bis 101 europäischer Technikregulierungsrahmen: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt. Fachgebiet: europäischem Technikregulierungsrecht. Route: sanktionen-art-bussgeldverteidigung-bildung."
 ---
 
 # Sanktionen — Art. 99 bis 101 KI-VO

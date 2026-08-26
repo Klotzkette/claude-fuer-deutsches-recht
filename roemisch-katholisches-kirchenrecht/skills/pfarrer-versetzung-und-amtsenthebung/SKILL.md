@@ -1,6 +1,6 @@
 ---
 name: pfarrer-versetzung-und-amtsenthebung
-description: "Wenn es um Pfarrer: Versetzung und Amtsenthebung in Römisch-katholisches Kirchenrecht CIC und Katechismus geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Pfarrer: Versetzung und Amtsenthebung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Pfarrer: Versetzung und Amtsenthebung

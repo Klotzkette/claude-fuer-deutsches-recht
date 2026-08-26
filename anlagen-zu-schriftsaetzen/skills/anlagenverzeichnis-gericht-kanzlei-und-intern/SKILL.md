@@ -1,6 +1,6 @@
 ---
 name: anlagenverzeichnis-gericht-kanzlei-und-intern
-description: "Wenn es um Anlagenverzeichnis für Gericht, Kanzlei und intern in Anlagen zu Schriftsätzen geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt. Auswahlstichwort: Anlagenverzeichnis Gericht Kanzlei Und Intern; Arbeitsfeld: Anlagen zu Schriftsätzen."
+description: "Für Anlagenverzeichnis für Gericht, Kanzlei und intern: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt. Fachgebiet: Anlagen zu Schriftsätzen. Route: anlagenverzeichnis-gericht-kanzlei-und-intern."
 ---
 
 # Anlagenverzeichnis für Gericht, Kanzlei und intern

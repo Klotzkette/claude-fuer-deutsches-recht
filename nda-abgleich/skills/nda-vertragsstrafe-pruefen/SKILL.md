@@ -1,6 +1,6 @@
 ---
 name: nda-vertragsstrafe-pruefen
-description: "Wenn es um NDA: Vertragsstrafe prüfen in NDA-Abgleich geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für NDA: Vertragsstrafe prüfen: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # NDA: Vertragsstrafe prüfen

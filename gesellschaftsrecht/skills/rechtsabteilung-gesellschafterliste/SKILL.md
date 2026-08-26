@@ -1,6 +1,6 @@
 ---
 name: rechtsabteilung-gesellschafterliste
-description: "Wenn es um Rechtsabteilung: Gesellschafterliste und Registerstreit in Gesellschaftsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Rechtsabteilung: Gesellschafterliste und Registerstreit: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Rechtsabteilung: Gesellschafterliste und Registerstreit

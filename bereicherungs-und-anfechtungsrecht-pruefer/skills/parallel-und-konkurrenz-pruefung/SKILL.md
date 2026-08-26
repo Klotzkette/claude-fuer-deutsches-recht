@@ -1,6 +1,6 @@
 ---
 name: parallel-und-konkurrenz-pruefung
-description: "Wenn es um Parallel- und Konkurrenzprüfung in bereicherungs-und-anfechtungsrecht-prüfer geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Parallel- und Konkurrenzprüfung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Tatbestands- oder Anspruchsmatrix."
 ---
 
 # Parallel- und Konkurrenzprüfung

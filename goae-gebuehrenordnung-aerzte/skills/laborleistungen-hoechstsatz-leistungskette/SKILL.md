@@ -1,6 +1,6 @@
 ---
 name: laborleistungen-hoechstsatz-leistungskette
-description: "Wenn es um Laborleistungen und Höchstsatz Besonderheiten in GOÄ Gebührenordnung für Ärzte geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Berechnungstabelle mit Schwellen, Annahmen und Kontrollfragen."
+description: "Für Laborleistungen und Höchstsatz Besonderheiten: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Laborleistungen und Höchstsatz Besonderheiten

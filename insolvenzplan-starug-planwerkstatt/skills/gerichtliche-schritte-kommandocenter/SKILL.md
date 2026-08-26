@@ -1,6 +1,6 @@
 ---
 name: gerichtliche-schritte-kommandocenter
-description: "Wenn es um Gerichtliche Schritte in Insolvenzplan- und StaRUG-Planwerkstatt geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Gerichtliche Schritte: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Gerichtliche Schritte

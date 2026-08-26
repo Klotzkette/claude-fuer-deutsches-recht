@@ -1,6 +1,6 @@
 ---
 name: dba-betriebsstaette-art-5-musterabkommen
-description: "Wenn es um Betriebsstaette nach Art. 5 OECD-MA (mit BEPS und MLI) in Steuerrecht – Steuerberater und Anwälte geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
+description: "Für Betriebsstätte nach Art. 5 OECD-MA (mit BEPS und MLI): ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Betriebsstaette nach Art. 5 OECD-MA (mit BEPS und MLI)

@@ -1,6 +1,6 @@
 ---
 name: rechtsprechungsanker-denkmalrecht
-description: "Wenn es um Rechtsprechungsanker Denkmalrecht in Denkmalschutzrecht — Bundesweiter Rahmen und sechzehn geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Rechtsprechungsanker Denkmalrecht: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Rechtsprechungsanker Denkmalrecht

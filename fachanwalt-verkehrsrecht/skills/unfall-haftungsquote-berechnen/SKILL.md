@@ -1,6 +1,6 @@
 ---
 name: unfall-haftungsquote-berechnen
-description: "Wenn es um Unfall Haftungsquote Berechnen in Fachanwalt Verkehrsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Unfall Haftungsquote Berechnen: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Mandant hatte Verkehrsunfall und fragt: Wer haftet wie viel und welche Schadensposten können geltend gemacht werden? §§ 7 17 18 StVG iVm § 254 BGB Haftungsquote

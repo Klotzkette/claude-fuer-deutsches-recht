@@ -1,6 +1,6 @@
 ---
 name: tk-regulierungsakte-frequenzauktion
-description: "Wenn es um TK-Regulierungsakte: Frequenzauktion — Unterlagenanforderung in Bundesnetzagentur-Verfahren geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Dokumentenmatrix mit Nachforderungsliste."
+description: "Für TK-Regulierungsakte: Frequenzauktion — Unterlagenanforderung: ordnet Akte, Belege und Lücken; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # TK-Regulierungsakte: Frequenzauktion — Unterlagenanforderung

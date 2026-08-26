@@ -1,6 +1,6 @@
 ---
 name: unternehmenskennzeichen-werktitel-domain
-description: "Wenn es um Unternehmenskennzeichen, Werktitel und Domains in markenrecht-fashion-luxus geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert einen Einreichungsplan mit Form-, Portal- und Nachweischeck."
+description: "Für Unternehmenskennzeichen, Werktitel und Domains: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Unternehmenskennzeichen, Werktitel und Domains

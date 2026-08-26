@@ -1,6 +1,6 @@
 ---
 name: kundenvertrag-b2b
-description: "Wenn es um Verträge und AGB: Prüft haftung in Solo-Selbstständige Praxis geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Verträge und AGB: Prüft haftung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Verträge und AGB: Prüft haftung

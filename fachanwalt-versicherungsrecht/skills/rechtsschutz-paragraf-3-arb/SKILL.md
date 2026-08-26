@@ -1,6 +1,6 @@
 ---
 name: rechtsschutz-paragraf-3-arb
-description: "Wenn es um Rechtsschutz Paragraf 3 arb in Fachanwalt Versicherungsrecht geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Rechtsschutz Paragraf 3 arb: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Rechtsschutz § 3 arb

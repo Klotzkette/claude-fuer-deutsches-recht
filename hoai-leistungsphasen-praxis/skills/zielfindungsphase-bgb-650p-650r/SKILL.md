@@ -1,6 +1,6 @@
 ---
 name: zielfindungsphase-bgb-650p-650r
-description: "Wenn es um Zielfindungsphase Nach BGB 650p Und 650r in HOAI Leistungsphasen Praxis geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Zielfindungsphase nach BGB 650p und 650r: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Zielfindungsphase Nach BGB 650p Und 650r

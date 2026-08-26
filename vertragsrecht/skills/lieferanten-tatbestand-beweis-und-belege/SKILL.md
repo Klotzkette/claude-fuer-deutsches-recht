@@ -1,6 +1,6 @@
 ---
 name: lieferanten-tatbestand-beweis-und-belege
-description: "Wenn es um Lieferanten: Tatbestandsmerkmale, Beweisfragen und Beleglage in Vertragsrecht geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Gegenprüfung mit Fehler-, Beweis- und Fristencheck."
+description: "Für Lieferanten: Tatbestandsmerkmale, Beweisfragen und Beleglage: ordnet Akte, Belege und Lücken; Ergebnis: Beweislast- und Substantiierungsmatrix."
 ---
 
 # Lieferanten: Tatbestandsmerkmale, Beweisfragen und Beleglage

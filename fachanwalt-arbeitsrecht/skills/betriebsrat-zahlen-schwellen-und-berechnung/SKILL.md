@@ -1,6 +1,6 @@
 ---
 name: betriebsrat-zahlen-schwellen-und-berechnung
-description: "Wenn es um Betriebsrat Zahlen Schwellen Und Berechnung in Fachanwalt Arbeitsrecht geht: rechnet Schwellen, Beträge, Varianten und Kontrollannahmen durch; liefert eine Berechnungstabelle mit Schwellen, Annahmen und Kontrollfragen."
+description: "Für Betriebsrat Zahlen Schwellen und Berechnung: rechnet Beträge, Schwellen und Varianten; Ergebnis: Berechnungstabelle mit Annahmen und Kontrollfragen."
 ---
 
 # Betriebsrat: Schwellenwerte für Größe, Zusammensetzung und Freistellungen Paragrafen 9 und 38 BetrVG, Wahlrecht Paragraf 7 BetrVG, Betriebsbegriff, geteilte und gemeinsame Betriebe, Gesamtbetriebsrat, Konzernbetriebsrat, Betriebsratswahl-Kalender.
@@ -138,3 +138,7 @@ Räumlich weit entfernte Betriebsteile oder organisatorisch selbständige Betrie
 ## Was dieser Arbeitsgang nicht macht
 - Keine Beratung zu Betriebsverfassungsrechtsverstößen im konkreten Einzelfall ohne vollständige Sachverhaltskenntnis.
 - Keine Berechnung von Wahlresultaten oder Sitzzuteilung.
+
+## Vertiefung bei Bedarf
+
+- Bei `spezial-betriebsrat-zahlen-schwellen-und-berechnung` beziehungsweise Betriebsrat: Zahlen, Schwellenwerte und Berechnung: [die zusätzliche Vertiefung laden](./references/vertiefung-spezial-betriebsrat-zahlen-schwellen-und-berechnung.md).

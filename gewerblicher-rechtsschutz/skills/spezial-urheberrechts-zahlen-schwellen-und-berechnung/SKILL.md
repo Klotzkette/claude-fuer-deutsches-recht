@@ -1,6 +1,6 @@
 ---
 name: spezial-urheberrechts-zahlen-schwellen-und-berechnung
-description: "Wenn es um Urheberrechts: Zahlen, Schwellenwerte und Berechnung in Plugin: Gewerblicher Rechtsschutz geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Urheberrechts: Zahlen, Schwellenwerte und Berechnung: rechnet Beträge, Schwellen und Varianten; Ergebnis: Berechnungstabelle mit Annahmen und Kontrollfragen."
 ---
 
 # Urheberrechts: Zahlen, Schwellenwerte und Berechnung

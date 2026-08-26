@@ -1,6 +1,6 @@
 ---
 name: ki-in-der-steuerkanzlei-organisationspflicht
-description: "Wenn es um Ki In Der Steuerkanzlei Organisationspflicht in Berufsrecht Steuerberater geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Ki in der Steuerkanzlei Organisationspflicht: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Schnittstellenkarte mit Zuständigkeits- und Nachweisfragen."
 ---
 
 # Steuerberater: ki in der steuerkanzlei - Organisationspflichten, Prävention, Team-Anweisung und Fristenkontrolle

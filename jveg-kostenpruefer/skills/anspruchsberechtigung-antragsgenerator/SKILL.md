@@ -1,6 +1,6 @@
 ---
 name: anspruchsberechtigung-antragsgenerator
-description: "Wenn es um JVEG-Anspruchsberechtigung in JVEG-Kostenprüfer geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
+description: "Für JVEG-Anspruchsberechtigung: erstellt Entwurf mit Antrag, Beweis und Anlagen; Ergebnis: Schriftsatz mit Begründungs- und Anlagenlogik."
 ---
 
 # JVEG-Anspruchsberechtigung

@@ -1,6 +1,6 @@
 ---
 name: arzneimittelpruefung-ausgangsstoffe-pruefprotokoll
-description: "Wenn es um Arzneimittelprüfung Ausgangsstoffe Prüfprotokoll in Apothekenrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Arzneimittelprüfung Ausgangsstoffe Prüfprotokoll: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Tatbestands- oder Anspruchsmatrix."
 ---
 
 # Arzneimittelprüfung Ausgangsstoffe Prüfprotokoll

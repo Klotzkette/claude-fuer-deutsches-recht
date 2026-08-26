@@ -1,6 +1,6 @@
 ---
 name: akteneinsicht-strafrecht-auswerten
-description: "Wenn es um Strukturierte Auswertung der Strafakte nach Akteneinsicht Paragraf 147 StPO in Fachanwalt Strafrecht geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Chronologie mit Belegmatrix und Widerspruchsliste."
+description: "Für Strukturierte Auswertung der Strafakte nach Akteneinsicht Paragraf 147 StPO: ordnet Akte, Belege und Lücken; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Strukturierte Auswertung der Strafakte nach Akteneinsicht § 147 StPO

@@ -1,6 +1,6 @@
 ---
 name: e-rezept-erlaubnis-filialverbund
-description: "Wenn es um E-Rezept TI Gematik Apothekenprozess in Apothekenrecht geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
+description: "Für E-Rezept TI Gematik Apothekenprozess: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # E-Rezept TI Gematik Apothekenprozess

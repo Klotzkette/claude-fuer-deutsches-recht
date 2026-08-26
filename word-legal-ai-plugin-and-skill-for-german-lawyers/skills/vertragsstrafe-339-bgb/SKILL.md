@@ -1,6 +1,6 @@
 ---
 name: vertragsstrafe-339-bgb
-description: "Wenn es um Vertragsstrafe nach Paragrafen 339-345 BGB in diesem Spezialbereich geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Beweislast- und Substantiierungsmatrix."
+description: "Für Vertragsstrafe nach Paragrafen 339-345 BGB: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Vertragsstrafe nach §§ 339-345 BGB

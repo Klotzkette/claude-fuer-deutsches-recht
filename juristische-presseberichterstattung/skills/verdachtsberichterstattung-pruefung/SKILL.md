@@ -1,6 +1,6 @@
 ---
 name: verdachtsberichterstattung-pruefung
-description: "Wenn es um Verdachtsberichterstattung Prüfung in Juristische Presseberichterstattung geht: prüft Verdachtslage, Mindestbestand an Beweistatsachen, Stellungnahme, Unschuldsvermutung und faire Statussprache vor Veröffentlichung."
+description: "Für Verdachtsberichterstattung Prüfung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Tatbestands- oder Anspruchsmatrix."
 ---
 
 # Verdachtsberichterstattung Prüfung

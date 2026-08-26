@@ -1,6 +1,6 @@
 ---
 name: coach-trainer-controlling-dashboard
-description: "Wenn es um Branchenfälle: Prüft b2c/b2b in Solo-Selbstständige Praxis geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Branchenfälle: Prüft b2c/b2b: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Branchenfälle: Prüft b2c/b2b

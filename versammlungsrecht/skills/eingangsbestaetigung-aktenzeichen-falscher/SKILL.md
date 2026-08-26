@@ -1,6 +1,6 @@
 ---
 name: eingangsbestaetigung-aktenzeichen-falscher
-description: "Wenn es um Ohne Eingangsnachweis wird es unnötig nervös in Versammlungsrecht geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
+description: "Für Ohne Eingangsnachweis wird es unnötig nervös: ordnet Akte, Belege und Lücken; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Ohne Eingangsnachweis wird es unnötig nervös

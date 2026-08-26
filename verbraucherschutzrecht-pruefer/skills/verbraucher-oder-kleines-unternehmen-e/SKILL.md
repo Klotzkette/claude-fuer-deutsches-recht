@@ -1,6 +1,6 @@
 ---
 name: verbraucher-oder-kleines-unternehmen-e
-description: "Wenn es um Verbraucher Oder Kleines Unternehmen E in Verbraucherschutzrecht Prüfer geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Verbraucher oder Kleines Unternehmen E: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Verbraucher Oder Kleines Unternehmen E

@@ -1,6 +1,6 @@
 ---
 name: terminsvertreter-und-untervollmacht-rechtsprechungsche
-description: "Wenn es um Terminsvertreter Und Untervollmacht Rechtsprechungsche in Berufsrecht Anwälte geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Gegenprüfung mit Fehler-, Beweis- und Fristencheck."
+description: "Für Terminsvertreter und Untervollmacht Rechtsprechungsche: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Anwälte: terminsvertreter und untervollmacht - Rechtsprechungscheck, stärkste Gegenansicht und Red-Team-Korrektur

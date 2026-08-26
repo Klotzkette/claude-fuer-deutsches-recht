@@ -1,6 +1,6 @@
 ---
 name: inventar-kontrollen-konformitaetsbewertung
-description: "Wenn es um digitale Werkzeuge-Inventar, Governance und Kontrollen in Technik-Governance geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Gegenprüfung mit Fehler-, Beweis- und Fristencheck."
+description: "Für digitale Werkzeuge-Inventar, Governance und Kontrollen: prüft Ergebnis, Beweislast und Gegenposition; Ergebnis: Gegenprüfung mit Beweis- und Fristencheck."
 ---
 
 # KI-Inventar, Governance und Kontrollen

@@ -1,6 +1,6 @@
 ---
 name: notfall-mutmassliche-einwilligung
-description: "Wenn es um Notfall Mutmassliche Einwilligung in Fachanwalt Medizinrecht geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
+description: "Für Notfall Mutmassliche Einwilligung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Notfall und mutmaßliche Einwilligung: moderner Medizinrechts-Skill für Bewusstlosigkeit, Zeitdruck, Patientenverfügung, Stellvertreter und Dokumentation

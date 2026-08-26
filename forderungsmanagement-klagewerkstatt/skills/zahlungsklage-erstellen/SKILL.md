@@ -1,6 +1,6 @@
 ---
 name: zahlungsklage-erstellen
-description: "Wenn es um Zahlungsklage erstellen in Forderungsmanagement — Klagewerkstatt geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
+description: "Für Zahlungsklage erstellen: erstellt Entwurf mit Antrag, Beweis und Anlagen; Ergebnis: Schriftsatz mit Begründungs- und Anlagenlogik."
 ---
 
 # Zahlungsklage erstellen

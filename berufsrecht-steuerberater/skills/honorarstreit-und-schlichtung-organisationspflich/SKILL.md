@@ -1,6 +1,6 @@
 ---
 name: honorarstreit-und-schlichtung-organisationspflich
-description: "Wenn es um Honorarstreit Und Schlichtung Organisationspflich in Berufsrecht Steuerberater geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Honorarstreit und Schlichtung Organisationspflich: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Steuerberater: honorarstreit und schlichtung - Organisationspflichten, Prävention, Team-Anweisung und Fristenkontrolle

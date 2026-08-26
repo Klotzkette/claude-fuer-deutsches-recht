@@ -1,6 +1,6 @@
 ---
 name: verhaeltnismaessigkeit-mittelbare-diskriminierung
-description: "Wenn es um Mittelbare Diskriminierung — Verhältnismäßigkeit als Rechtfertigungsmassstab in Verhältnismäßigkeitsprüfer geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Mittelbare Diskriminierung — Verhältnismäßigkeit als Rechtfertigungsmassstab: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Mittelbare Diskriminierung — Verhältnismäßigkeit als Rechtfertigungsmassstab

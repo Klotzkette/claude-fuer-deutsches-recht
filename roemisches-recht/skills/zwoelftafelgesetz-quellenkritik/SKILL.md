@@ -1,6 +1,6 @@
 ---
 name: zwoelftafelgesetz-quellenkritik
-description: "Wenn es um Zwölftafelgesetz - Quellenkritik und Einordnung in Römisches Recht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. Auswahlstichwort: Zwoelftafelgesetz Quellenkritik; Arbeitsfeld: Römisches Recht."
+description: "Für Zwölftafelgesetz - Quellenkritik und Einordnung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt. Fachgebiet: Römisches Recht. Route: zwoelftafelgesetz-quellenkritik."
 ---
 
 # Zwölftafelgesetz - Quellenkritik und Einordnung

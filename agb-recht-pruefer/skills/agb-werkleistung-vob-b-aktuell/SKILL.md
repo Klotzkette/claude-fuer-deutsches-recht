@@ -1,6 +1,6 @@
 ---
 name: agb-werkleistung-vob-b-aktuell
-description: "Wenn es um Agb Werkleistung Vob B Aktuell in AGB-Recht-Prüfer geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für AGB Werkleistung VOB B Aktuell: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Agb Werkleistung Vob B Aktuell

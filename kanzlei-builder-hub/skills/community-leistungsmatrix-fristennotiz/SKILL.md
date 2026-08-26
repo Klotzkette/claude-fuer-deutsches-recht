@@ -1,6 +1,6 @@
 ---
 name: community-leistungsmatrix-fristennotiz
-description: "Wenn es um Community: Fristen, Form, Zuständigkeit und Rechtsweg in Kanzlei-Builder-Hub geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Community: Fristen, Form, Zuständigkeit und Rechtsweg: prüft Frist, Form, Zuständigkeit und Eilbedarf; Ergebnis: Fristen- und Risikoampel."
 ---
 
 # Community: Fristen, Form, Zuständigkeit und Rechtsweg

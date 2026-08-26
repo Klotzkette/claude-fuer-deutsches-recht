@@ -1,6 +1,6 @@
 ---
 name: behoerdenstrategie-kooperation-oder-schweigen
-description: "Wenn es um Kooperation oder Schweigen strategisch wählen in Datenschutz-Sanktionsverfahren und Verteidigung geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
+description: "Für Kooperation oder Schweigen strategisch wählen: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Verhandlungs- oder Eskalationslinie. Fachgebiet: Datenschutz-Sanktionsverfahren und Verteidigung."
 ---
 
 # Kooperation oder Schweigen strategisch wählen

@@ -1,6 +1,6 @@
 ---
 name: stand-technik-patr2-anmeldeverfahren
-description: "Wenn es um Stand-der-Technik-Recherche — Workflow in patentrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Stand-der-Technik-Recherche — Workflow: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Stand-der-Technik-Recherche — Workflow

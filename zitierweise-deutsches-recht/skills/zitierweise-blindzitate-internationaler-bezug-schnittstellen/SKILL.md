@@ -1,6 +1,6 @@
 ---
 name: zitierweise-blindzitate-internationaler-bezug-schnittstellen
-description: "Wenn es um Blindzitate: Internationaler Bezug und Schnittstellen in Zitierweise deutsches Recht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. Auswahlstichwort: Zitierweise Blindzitate Internationaler Bezug Schnittstellen; Arbeitsfeld: Zitierweise deutsches Recht."
+description: "Für Blindzitate: Internationaler Bezug und Schnittstellen: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Schnittstellenkarte mit Zuständigkeits- und Nachweisfragen. Fachgebiet: Zitierweise deutsches Recht. Route: zitierweise-blindzitate-internationaler-bezug-schnittstellen."
 ---
 
 # Blindzitate: Internationaler Bezug und Schnittstellen

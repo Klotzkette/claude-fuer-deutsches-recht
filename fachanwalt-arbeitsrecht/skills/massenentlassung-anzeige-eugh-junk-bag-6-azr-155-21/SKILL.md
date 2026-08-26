@@ -1,6 +1,6 @@
 ---
 name: massenentlassung-anzeige-eugh-junk-bag-6-azr-155-21
-description: "Prüft Massenentlassungen nach dem aktuellen Stand 2026: Betrieb, Regelbelegschaft, Dreißigtagezeitraum, Entlassungsbegriff, Konsultation, Anzeige, Reihenfolge, Pflichtangaben, Fehlerfolgen und Sperrfrist. Erstellt Schwellenwertrechnung, Verfahrenschronologie und Kündigungs- oder Verteidigungsbaustein."
+description: "Prüft Massenentlassungen nach dem aktuellen Stand 2026: Betrieb, Regelbelegschaft, Dreißigtagezeitraum, Entlassungsbegriff, Konsultation, Anzeige, Reihenfolge, Pflichtangaben, Fehlerfolgen und Sperrfrist."
 ---
 
 # Massenentlassung und Anzeige prüfen

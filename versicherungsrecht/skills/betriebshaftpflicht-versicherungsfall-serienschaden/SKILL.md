@@ -1,6 +1,6 @@
 ---
 name: betriebshaftpflicht-versicherungsfall-serienschaden
-description: "Wenn es um Betriebshaftpflicht: Versicherungsfall und Serienschaden in Versicherungsrecht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
+description: "Für Betriebshaftpflicht: Versicherungsfall und Serienschaden: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Betriebshaftpflicht: Versicherungsfall und Serienschaden

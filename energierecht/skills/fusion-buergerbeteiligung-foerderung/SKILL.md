@@ -1,6 +1,6 @@
 ---
 name: fusion-buergerbeteiligung-foerderung
-description: "Wenn es um Fusion: Bürgerbeteiligung und politische Kommunikation in Energierecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Fusion: Bürgerbeteiligung und politische Kommunikation: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Fusion: Bürgerbeteiligung und politische Kommunikation

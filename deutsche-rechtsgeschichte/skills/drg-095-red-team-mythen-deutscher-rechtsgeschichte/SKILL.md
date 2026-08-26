@@ -1,6 +1,6 @@
 ---
 name: drg-095-red-team-mythen-deutscher-rechtsgeschichte
-description: "Wenn es um Red Team Mythen Deutscher Rechtsgeschichte in Deutsche Rechtsgeschichte geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Red Team Mythen Deutscher Rechtsgeschichte: prüft Ergebnis, Beweislast und Gegenposition; Ergebnis: Gegenprüfung mit Beweis- und Fristencheck."
 ---
 
 # Red Team Mythen Deutscher Rechtsgeschichte

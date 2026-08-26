@@ -1,6 +1,6 @@
 ---
 name: rechtsabteilung-schufa-loeschung-nach-restschuldbefreiung
-description: "Wenn es um Rechtsabteilung: Schufa-Löschung nach Restschuldbefreiung in Insolvenzrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Rechtsabteilung: Schufa-Löschung nach Restschuldbefreiung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Rechtsabteilung: Schufa-Löschung nach Restschuldbefreiung

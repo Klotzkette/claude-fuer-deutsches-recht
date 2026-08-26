@@ -1,6 +1,6 @@
 ---
 name: china-shipping-bills-of-lading
-description: "Wenn es um China Shipping Bills of Lading in Fachanwalt Internationales Wirtschaftsrecht geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für China Shipping Bills of Lading: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # China Shipping Bills of Lading

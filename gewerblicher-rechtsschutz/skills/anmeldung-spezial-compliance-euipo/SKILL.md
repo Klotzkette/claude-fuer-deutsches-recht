@@ -1,6 +1,6 @@
 ---
 name: anmeldung-spezial-compliance-euipo
-description: "Wenn es um Spezial: Anmeldung – Behörden, Gerichte und Registerwege in Plugin: Gewerblicher Rechtsschutz geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Spezial: Anmeldung – Behörden, Gerichte und Registerwege: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Schnittstellenkarte mit Zuständigkeits- und Nachweisfragen."
 ---
 
 # Spezial: Anmeldung – Behörden, Gerichte und Registerwege

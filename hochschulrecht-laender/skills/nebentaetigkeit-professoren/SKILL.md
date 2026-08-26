@@ -1,6 +1,6 @@
 ---
 name: nebentaetigkeit-professoren
-description: "Wenn es um Nebentätigkeit Professorinnen und Professoren in Hochschulrecht der Bundesländer geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Nebentätigkeit Professorinnen und Professoren: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Nebentätigkeit Professorinnen und Professoren

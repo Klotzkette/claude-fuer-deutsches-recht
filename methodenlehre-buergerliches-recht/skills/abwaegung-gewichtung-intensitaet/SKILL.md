@@ -1,6 +1,6 @@
 ---
 name: abwaegung-gewichtung-intensitaet
-description: "Wenn es um Abwägung: Gewichtung und Intensität kollidierender Rechtspositionen in Methodenlehre bürgerliches Recht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Abwägung: Gewichtung und Intensität kollidierender Rechtspositionen: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Abwägung: Gewichtung und Intensität kollidierender Rechtspositionen

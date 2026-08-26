@@ -1,6 +1,6 @@
 ---
 name: labor-antitrust-no-poach-global
-description: "Wenn es um Labor Antitrust No-Poach global in Kartellrecht — Marktabgrenzungsprüfung geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Labor Antitrust No-Poach global: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Labor Antitrust No-Poach global

@@ -1,6 +1,6 @@
 ---
 name: notfallkontrazeption-beratung
-description: "Wenn es um Notfallkontrazeption Beratung in Apothekenrecht geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
+description: "Für Notfallkontrazeption Beratung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Notfallkontrazeption Beratung

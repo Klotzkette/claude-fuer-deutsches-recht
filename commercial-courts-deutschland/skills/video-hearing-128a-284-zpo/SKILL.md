@@ -1,6 +1,6 @@
 ---
 name: video-hearing-128a-284-zpo
-description: "Wenn es um Video Hearing in commercial-courts-deutschland geht: entwickelt Verhandlungsziel, Vergleichskorridor und Eskalationspfad; liefert eine Beweislast- und Substantiierungsmatrix."
+description: "Für Video Hearing: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Video Hearing

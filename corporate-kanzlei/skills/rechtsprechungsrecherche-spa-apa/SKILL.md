@@ -1,6 +1,6 @@
 ---
 name: rechtsprechungsrecherche-spa-apa
-description: "Wenn es um Corporate-Rechtsprechungsrecherche in Corporate-Kanzlei geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
+description: "Für Corporate-Rechtsprechungsrecherche: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt. Fachgebiet: Corporate-Kanzlei. Route: rechtsprechungsrecherche-spa-apa."
 ---
 
 # Corporate-Rechtsprechungsrecherche

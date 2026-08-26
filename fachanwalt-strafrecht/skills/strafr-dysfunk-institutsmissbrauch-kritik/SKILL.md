@@ -1,6 +1,6 @@
 ---
 name: strafr-dysfunk-institutsmissbrauch-kritik
-description: "Wenn es um Lehre vom Institutsmissbrauch in der Strafverteidigung kritisch dekonstruieren in Fachanwalt Strafrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Lehre vom Institutsmissbrauch in der Strafverteidigung kritisch dekonstruieren: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Lehre vom Institutsmissbrauch in der Strafverteidigung kritisch dekonstruieren

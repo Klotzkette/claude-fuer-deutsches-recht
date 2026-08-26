@@ -7,18 +7,18 @@ Diese Vollprüfung enthält alle 13 Skills des Plugins `richter-bverfg-verfassun
 ## Inhaltsverzeichnis
 
 1. **juristischer-argumentationskern** — Schaltet sich ein, wenn in Richter BVerfG Verfassungsbeschwerden ein juristisches Arbeitsprodukt tragfähig begründet wer…
-2. **99-finale-entscheidung-volltext** — Wenn es um Finale Entscheidung als Volltext (Beschluss oder Urteil BVerfG) in BVerfG Vorprüfung Verfassungsbeschwerden g…
-3. **06-fachgerichtliche-entscheidung-pruefen** — Wenn es um 06 Fachgerichtliche Entscheidung Prüfen in BVerfG Vorprüfung Verfassungsbeschwerden geht: ordnet Sachverhalt,…
-4. **05-grundrechtsdogmatik-pruefen** — Wenn es um 05 Grundrechtsdogmatik Prüfen in BVerfG Vorprüfung Verfassungsbeschwerden geht: ordnet Sachverhalt, Norm, Bew…
-5. **02-substantiierungs-pruefung-paragraf-92** — Wenn es um 02 Substantiierungs Prüfung Paragraf 92 in BVerfG Vorprüfung Verfassungsbeschwerden geht: ordnet Sachverhalt,…
-6. **prozessuale-kniffe-und-rechtsprechungsanker** — Wenn es um Prozessuale Kniffe und Rechtsprechungsanker in BVerfG Vorprüfung Verfassungsbeschwerden geht: prüft Frist, Fo…
-7. **03-rechtswegerschoepfung-paragraf-90-abs-2** — Wenn es um 03 Rechtswegerschoepfung Paragraf 90 Abs 2 in BVerfG Vorprüfung Verfassungsbeschwerden geht: prüft Frist, For…
-8. **08-votum-wissenschaftlicher-mitarbeiter** — Wenn es um 08 Votum Wissenschaftlicher Mitarbeiter in BVerfG Vorprüfung Verfassungsbeschwerden geht: prüft Frist, Form, …
-9. **10-entscheidungsvorschlag-kammer-bverfg** — Wenn es um 10 Entscheidungsvorschlag Kammer BVerfG in BVerfG Vorprüfung Verfassungsbeschwerden geht: prüft Frist, Form, …
-10. **07-kammer-und-senat-zustaendigkeit** — Wenn es um 07 Kammer und Senat Zuständigkeit in BVerfG Vorprüfung Verfassungsbeschwerden geht: prüft Frist, Form, Zustän…
-11. **09-nichtannahmebeschluss-entwurf** — Wenn es um 09 Nichtannahmebeschluss Entwurf in BVerfG Vorprüfung Verfassungsbeschwerden geht: prüft Frist, Form, Zuständ…
-12. **01-annahme-pruefung-paragraf-93a** — Wenn es um 01 Annahme Prüfung Paragraf 93A in BVerfG Vorprüfung Verfassungsbeschwerden geht: prüft Frist, Form, Zuständi…
-13. **04-subsidiaritaet-und-frist** — Wenn es um 04 Subsidiaritaet und Frist in BVerfG Vorprüfung Verfassungsbeschwerden geht: prüft Frist, Form, Zuständigkei…
+2. **prozessuale-kniffe-und-rechtsprechungsanker** — Für Prozessuale Kniffe und Rechtsprechungsanker: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Ri…
+3. **99-finale-entscheidung-volltext** — Für Finale Entscheidung als Volltext (Beschluss oder Urteil BVerfG): ordnet Norm, Beweislast und Gegenargument; Ergebnis…
+4. **03-rechtswegerschoepfung-paragraf-90-abs-2** — Für 03 Rechtswegerschöpfung Paragraf 90 Abs 2: prüft Frist, Form, Zuständigkeit und Eilbedarf; Ergebnis: Prüfprodukt mit…
+5. **06-fachgerichtliche-entscheidung-pruefen** — Für 06 Fachgerichtliche Entscheidung Prüfen: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko…
+6. **08-votum-wissenschaftlicher-mitarbeiter** — Für 08 Votum Wissenschaftlicher Mitarbeiter: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko…
+7. **10-entscheidungsvorschlag-kammer-bverfg** — Für 10 Entscheidungsvorschlag Kammer BVerfG: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko…
+8. **07-kammer-und-senat-zustaendigkeit** — Für 07 Kammer und Senat Zuständigkeit: prüft Frist, Form, Zuständigkeit und Eilbedarf; Ergebnis: Prüfprodukt mit Risiko …
+9. **02-substantiierungs-pruefung-paragraf-92** — Für 02 Substantiierungs Prüfung Paragraf 92: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Beweislast- und Substa…
+10. **09-nichtannahmebeschluss-entwurf** — Für 09 Nichtannahmebeschluss Entwurf: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nä…
+11. **05-grundrechtsdogmatik-pruefen** — Für 05 Grundrechtsdogmatik Prüfen: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächs…
+12. **01-annahme-pruefung-paragraf-93a** — Für 01 Annahme Prüfung Paragraf 93A: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Tatbestands- oder Anspruchsmat…
+13. **04-subsidiaritaet-und-frist** — Für 04 Subsidiarität und Frist: prüft Frist, Form, Zuständigkeit und Eilbedarf; Ergebnis: Fristen- und Risikoampel.
 
 ---
 
@@ -144,9 +144,61 @@ Dieser Skill trennt Beschwerdegegenstand, Beschwerdebefugnis, Rechtswegerschöpf
 
 ---
 
+## Skill: `prozessuale-kniffe-und-rechtsprechungsanker`
+
+_Für Prozessuale Kniffe und Rechtsprechungsanker: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt. Fachgebiet: BVerfG Vorprüfung Verfassungsbeschwerden._
+
+# Prozessuale Kniffe und Rechtsprechungsanker
+
+Nutze diesen Skill, wenn eine Verfassungsbeschwerde, einstweilige Anordnung oder Nichtannahmebegründung prozessual scharf geführt werden soll.
+
+## Leitanker
+
+- Paragraf 90 BVerfGG: Beschwerdegegenstand, Beschwerdebefugnis, Rechtswegerschöpfung und Subsidiarität.
+- Paragraf 23 und Paragraf 92 BVerfGG: substantiiertes Vorbringen und Begründungslast.
+- Paragraf 93a BVerfGG: Annahmegründe sauber von Begründetheit trennen.
+- Paragraf 32 BVerfGG: Folgenabwägung bei einstweiliger Anordnung.
+- Artikel 103 Absatz 1 GG: Gehörsverletzung nur entscheidungserheblich und substantiiert prüfen.
+
+## Kniffe
+
+| Lage | Kniff | Fehlerbremse |
+| --- | --- | --- |
+| unklare Beschwer | Hoheitsakt, Selbstbetroffenheit, Gegenwärtigkeit und Unmittelbarkeit trennen | keine Popularklage |
+| Fachrecht nicht ausgeschöpft | Subsidiarität und Gehörsrüge prüfen | keine Abkürzung zum Verfassungsgericht |
+| Eilantrag | Folgen ohne Eilanordnung gegen Folgen bei Erlass abwägen | keine Hauptsacheprüfung verkleiden |
+| Tenor | Aufhebung, Zurückverweisung oder Ablehnung präzise formulieren | keine unklare Bindungswirkung |
+
+## Arbeitsmodus
+
+1. Bestimme zuerst Entscheidungsreife, Zuständigkeit, Besetzung, Verfahrensart und den nächsten irreversiblen Schritt.
+2. Trenne Tatsachen, Norm, Beweis, Verfahrensrecht, Ermessen und Tenorfolge.
+3. Suche den prozessualen Hebel, der den Fall wirklich entscheidet: Hinweis, Beweisbeschluss, Auflage, Beiladung, Verbindung, Abtrennung, Einstellung, Beschluss oder Urteil.
+4. Formuliere jede Maßnahme so, dass sie aktenkundig, fristfest und rechtsmittelrobust ist.
+5. Baue am Ende eine Glanzkontrolle: Gehör, Begründung, Beweiswürdigung, Tenor, Nebenentscheidungen, Rechtsmittel.
+
+## Output-Matrix
+
+| Kniff | Normanker | Aktenbeleg | Risiko | Formulierung | nächster Schritt |
+| --- | --- | --- | --- | --- | --- |
+| Hinweis | | | Überraschung | | |
+| Beweis | | | Lücke | | |
+| Verfahrensleitung | | | Verzögerung | | |
+| Entscheidung | | | Rechtsmittel | | |
+
+## Entscheidungsanker
+
+Verfassungsrechtliche Prüfung benennt immer Schutzbereich, Eingriff, Rechtfertigung, fachgerichtlichen Prüfungsmaßstab und spezifische Verfassungsverletzung.
+
+## Beitrag zum Streitstoff in diesem Verfahren
+
+Dieser Skill trennt Beschwerdegegenstand, Beschwerdebefugnis, Rechtswegerschöpfung, Subsidiarität, Grundrechtsrüge, Annahmegrund und Entscheidungsvorschlag. Er markiert Darlegungslücken und hält fest, ob ein Kammervermerk, ein Nichtannahmevotum oder ein Hinweis zur Unzulässigkeit vorbereitet wird.
+
+---
+
 ## Skill: `99-finale-entscheidung-volltext`
 
-_Wenn es um Finale Entscheidung als Volltext (Beschluss oder Urteil BVerfG) in BVerfG Vorprüfung Verfassungsbeschwerden geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen._
+_Für Finale Entscheidung als Volltext (Beschluss oder Urteil BVerfG): ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt._
 
 # Finale Entscheidung als Volltext (Beschluss oder Urteil BVerfG)
 
@@ -250,325 +302,9 @@ Dieser Skill trennt Beschwerdegegenstand, Beschwerdebefugnis, Rechtswegerschöpf
 
 ---
 
-## Skill: `06-fachgerichtliche-entscheidung-pruefen`
-
-_Wenn es um 06 Fachgerichtliche Entscheidung Prüfen in BVerfG Vorprüfung Verfassungsbeschwerden geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt._
-
-# 06 Fachgerichtliche Entscheidung Prüfen
-
-## Zweck
-
-Prüfungsmaßstab gegenüber Fachgerichten: spezifisches Verfassungsrecht, Verletzung verfassungsrechtlicher Massstaebe, willkuerliche Auslegung, Heck'sche Formel, Sphaerentheorie
-
-## Rolle
-
-
-Werkstatt-Assistent für den Verfassungsrichter am Bundesverfassungsgericht (Paragrafen 14, 15 BVerfGG). Annahmeverfahren, Kammerentscheidung, Senatsentscheidung, einstweilige Anordnung, Sondervotum bei Senatsentscheidungen.
-
-## Rechtsrahmen
-
-GG, BVerfGG, BVerfGGO, Geschaeftsordnung BVerfG
-
-## Pflichtschritte
-
-1. Zulässigkeit prüfen: Beschwerdebefugnis, Rechtswegerschöpfung, Subsidiarität und Frist (Paragraf 93 BVerfGG).
-2. Annahmevoraussetzungen (Paragraf 93a BVerfGG) prüfen: grundsätzliche Bedeutung oder Durchsetzung von Grundrechten.
-3. Betroffenes Grundrecht prüfen: Schutzbereich, Eingriff, verfassungsrechtliche Rechtfertigung und Verhältnismäßigkeit.
-4. Einstweilige Anordnung (Paragraf 32 BVerfGG) bei schweren Nachteilen erwägen.
-5. Votum mit Begründung und Tenorvorschlag aus Sicht des wissenschaftlichen Mitarbeiters formulieren.
-6. Arbeitsstand als Vorschlag zur richterlichen Prüfung markieren; die Letztentscheidung trifft der Mensch.
-7. Quellen vollständig zitieren (Norm, Aktenzeichen, Datum) und Schwellenwerte sowie Fristen vor Verwendung verifizieren.
-
-## Output
-
-Strukturierter Arbeitsstand: Prüfungspunkte, Zitate, offene Fragen, Vorschlag zur Prüfung.
-
-## Anker-Rechtsprechung
-
-- BVerfG, Urteil vom 15.01.1958 - 1 BvR 400/51, BVerfGE 7, 198, Lüth: Grundrechte wirken als objektive Wertordnung in die Auslegung des Fachrechts hinein.
-- BVerfG, Urteil vom 11.06.1958 - 1 BvR 596/56, BVerfGE 7, 377, Apothekenurteil: Berufsfreiheitsbeschränkungen sind nach Eingriffsintensität und Verhältnismäßigkeit zu staffeln.
-- BVerfG, Beschluss vom 24.02.1971 - 1 BvR 435/68, BVerfGE 30, 173, Mephisto: Kunstfreiheit und Persönlichkeitsrecht sind fallbezogen abzuwägen.
-- BVerfG, Urteil vom 15.12.1983 - 1 BvR 209/83 und weitere, BVerfGE 65, 1, Volkszählung: Das Recht auf informationelle Selbstbestimmung schützt vor unbegrenzter Erhebung, Speicherung und Verknüpfung personenbezogener Daten.
-- BVerfG, Urteil vom 05.06.1973 - 1 BvR 536/72, BVerfGE 35, 202, Lebach: Berichterstattung und Resozialisierungsinteresse sind konkret zu gewichten.
-
-## Prüfungsschema in Stufen
-
-1. Fachgerichtliche Entscheidung Prüfen: Schutzbereich, Eingriff, Schranke, Schranken-Schranke und verfassungsrechtlichen Prüfungsmaßstab festlegen.
-2. Fachrechtliche Fehler nur als spezifische Verfassungsverletzung erfassen; keine Superrevisionsinstanz eröffnen.
-3. Verhältnismäßigkeit mit legitimer Zwecksetzung, Geeignetheit, Erforderlichkeit und Angemessenheit ausformulieren.
-4. Gehör, Willkür, effektiver Rechtsschutz und Gleichheit gesondert prüfen, wenn der Beschwerdevortrag darauf zielt.
-5. Entscheidungsvorschlag mit Aufhebung, Zurückverweisung, Nichtannahme oder Stattgabeoption begründen.
-
-## Typische Fallstricke
-
-- Fachrechtlicher Fehler wird ohne spezifische Grundrechtsverletzung als Verfassungsverstoß behandelt.
-- Subsidiaritaet wird nur formal, nicht materiell geprüft.
-- Eilantrag nach Paragraf 32 BVerfGG wird ohne Doppelhypothese begründet.
-- Vorlagen und Beratungsunterlagen unterliegen Paragraf 353b StGB und Paragraf 43 DRiG.
-
-## Tenor-Bausteine bzw. Beschluss-Bausteine
-
-### Baustein A
-
-```text
-Die Verfassungsbeschwerde wird nicht zur Entscheidung angenommen, weil die Annahmevoraussetzungen des Paragraf 93a Abs. 2 BVerfGG nicht dargelegt sind.
-```
-
-### Baustein B
-
-```text
-Die angegriffene Entscheidung verletzt den Beschwerdeführer in seinem Grundrecht aus [Grundrecht], weil [verfassungsrechtlicher Prüfungsfehler] nicht tragfähig berücksichtigt wurde.
-```
-
-## Benachbarte Skills
-
-- **Davor**: `05-grundrechtsdogmatik-pruefen` - Vorgelagerten Skill nutzen, wenn der Aktenstand noch nicht bis Fachgerichtliche Entscheidung Prüfen trägt.
-- **Danach**: `07-kammer-und-senat-zustaendigkeit` - Folgeskill nutzen, sobald Fachgerichtliche Entscheidung Prüfen entscheidungs- oder verfügungsreif vorbereitet ist.
-
-## Gerichtliche Arbeitsprodukt-Schärfung
-
-- Rolle: Bundesverfassungsgericht. Der Skill spricht aus der Binnenperspektive des Spruchkörpers und erzeugt Kammervermerk, Nichtannahmebeschluss, Annahmevotum oder Senatsvorlage; er ersetzt keine anwaltliche Strategie und keine Parteiberatung.
-- Pflichtstamm: Paragrafen 23, 90, 92, 93a, 93b, 93c BVerfGG. Normen werden im Ergebnis nur verwendet, wenn sie zum konkreten Aktenproblem passen; fehlende Spezialnormen werden als Prüfbedarf markiert.
-- Verfügungssprache: Jede Ausgabe endet mit einer konkreten Anschlussverfügung, etwa Anhörung, Fristsetzung, Hinweis, Beweisbeschluss, Terminierung, Abgabe, Vorlage oder Entscheidungsentwurf.
-- Stop-Kriterium: Sobald Aktengeheimnis, richterliche Unabhängigkeit, Geschäftsverteilung, Befangenheit, nicht geklärte Zuständigkeit oder ein unaufgeklärter Grundrechtseingriff berührt ist, wird nicht weiter simuliert, sondern eine Vorlage- oder Prüfverfügung formuliert.
-
-## Beitrag zum Streitstoff in diesem Verfahren
-
-Dieser Skill trennt Beschwerdegegenstand, Beschwerdebefugnis, Rechtswegerschöpfung, Subsidiarität, Grundrechtsrüge, Annahmegrund und Entscheidungsvorschlag. Er markiert Darlegungslücken und hält fest, ob ein Kammervermerk, ein Nichtannahmevotum oder ein Hinweis zur Unzulässigkeit vorbereitet wird.
-
----
-
-## Skill: `05-grundrechtsdogmatik-pruefen`
-
-_Wenn es um 05 Grundrechtsdogmatik Prüfen in BVerfG Vorprüfung Verfassungsbeschwerden geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt._
-
-# 05 Grundrechtsdogmatik Prüfen
-
-## Zweck
-
-Prüfungsschema Freiheitsgrundrechte: Schutzbereich, Eingriff, verfassungsrechtliche Rechtfertigung (Schranken, Schranken-Schranken, Verhältnismäßigkeit); Gleichheitsgrundrechte Art. 3 GG (neue Formel)
-
-## Rolle
-
-
-Werkstatt-Assistent für den Verfassungsrichter am Bundesverfassungsgericht (Paragrafen 14, 15 BVerfGG). Annahmeverfahren, Kammerentscheidung, Senatsentscheidung, einstweilige Anordnung, Sondervotum bei Senatsentscheidungen.
-
-## Rechtsrahmen
-
-GG, BVerfGG, BVerfGGO, Geschaeftsordnung BVerfG
-
-## Pflichtschritte
-
-1. Zulässigkeit prüfen: Beschwerdebefugnis, Rechtswegerschöpfung, Subsidiarität und Frist (Paragraf 93 BVerfGG).
-2. Annahmevoraussetzungen (Paragraf 93a BVerfGG) prüfen: grundsätzliche Bedeutung oder Durchsetzung von Grundrechten.
-3. Betroffenes Grundrecht prüfen: Schutzbereich, Eingriff, verfassungsrechtliche Rechtfertigung und Verhältnismäßigkeit.
-4. Einstweilige Anordnung (Paragraf 32 BVerfGG) bei schweren Nachteilen erwägen.
-5. Votum mit Begründung und Tenorvorschlag aus Sicht des wissenschaftlichen Mitarbeiters formulieren.
-6. Arbeitsstand als Vorschlag zur richterlichen Prüfung markieren; die Letztentscheidung trifft der Mensch.
-7. Quellen vollständig zitieren (Norm, Aktenzeichen, Datum) und Schwellenwerte sowie Fristen vor Verwendung verifizieren.
-
-## Output
-
-Strukturierter Arbeitsstand: Prüfungspunkte, Zitate, offene Fragen, Vorschlag zur Prüfung.
-
-## Anker-Rechtsprechung
-
-- BVerfG, Urteil vom 15.01.1958 - 1 BvR 400/51, BVerfGE 7, 198, Lüth: Grundrechte wirken als objektive Wertordnung in die Auslegung des Fachrechts hinein.
-- BVerfG, Urteil vom 11.06.1958 - 1 BvR 596/56, BVerfGE 7, 377, Apothekenurteil: Berufsfreiheitsbeschränkungen sind nach Eingriffsintensität und Verhältnismäßigkeit zu staffeln.
-- BVerfG, Beschluss vom 24.02.1971 - 1 BvR 435/68, BVerfGE 30, 173, Mephisto: Kunstfreiheit und Persönlichkeitsrecht sind fallbezogen abzuwägen.
-- BVerfG, Urteil vom 15.12.1983 - 1 BvR 209/83 und weitere, BVerfGE 65, 1, Volkszählung: Das Recht auf informationelle Selbstbestimmung schützt vor unbegrenzter Erhebung, Speicherung und Verknüpfung personenbezogener Daten.
-- BVerfG, Urteil vom 05.06.1973 - 1 BvR 536/72, BVerfGE 35, 202, Lebach: Berichterstattung und Resozialisierungsinteresse sind konkret zu gewichten.
-
-## Prüfungsschema in Stufen
-
-1. Grundrechtsdogmatik Prüfen: Schutzbereich, Eingriff, Schranke, Schranken-Schranke und verfassungsrechtlichen Prüfungsmaßstab festlegen.
-2. Fachrechtliche Fehler nur als spezifische Verfassungsverletzung erfassen; keine Superrevisionsinstanz eröffnen.
-3. Verhältnismäßigkeit mit legitimer Zwecksetzung, Geeignetheit, Erforderlichkeit und Angemessenheit ausformulieren.
-4. Gehör, Willkür, effektiver Rechtsschutz und Gleichheit gesondert prüfen, wenn der Beschwerdevortrag darauf zielt.
-5. Entscheidungsvorschlag mit Aufhebung, Zurückverweisung, Nichtannahme oder Stattgabeoption begründen.
-
-## Typische Fallstricke
-
-- Fachrechtlicher Fehler wird ohne spezifische Grundrechtsverletzung als Verfassungsverstoß behandelt.
-- Subsidiaritaet wird nur formal, nicht materiell geprüft.
-- Eilantrag nach Paragraf 32 BVerfGG wird ohne Doppelhypothese begründet.
-- Vorlagen und Beratungsunterlagen unterliegen Paragraf 353b StGB und Paragraf 43 DRiG.
-
-## Tenor-Bausteine bzw. Beschluss-Bausteine
-
-### Baustein A
-
-```text
-Die Verfassungsbeschwerde wird nicht zur Entscheidung angenommen, weil die Annahmevoraussetzungen des Paragraf 93a Abs. 2 BVerfGG nicht dargelegt sind.
-```
-
-### Baustein B
-
-```text
-Die angegriffene Entscheidung verletzt den Beschwerdeführer in seinem Grundrecht aus [Grundrecht], weil [verfassungsrechtlicher Prüfungsfehler] nicht tragfähig berücksichtigt wurde.
-```
-
-## Benachbarte Skills
-
-- **Davor**: `04-subsidiaritaet-und-frist` - Vorgelagerten Skill nutzen, wenn der Aktenstand noch nicht bis Grundrechtsdogmatik Prüfen trägt.
-- **Danach**: `06-fachgerichtliche-entscheidung-pruefen` - Folgeskill nutzen, sobald Grundrechtsdogmatik Prüfen entscheidungs- oder verfügungsreif vorbereitet ist.
-
-## Gerichtliche Arbeitsprodukt-Schärfung
-
-- Rolle: Bundesverfassungsgericht. Der Skill spricht aus der Binnenperspektive des Spruchkörpers und erzeugt Kammervermerk, Nichtannahmebeschluss, Annahmevotum oder Senatsvorlage; er ersetzt keine anwaltliche Strategie und keine Parteiberatung.
-- Pflichtstamm: Paragrafen 23, 90, 92, 93a, 93b, 93c BVerfGG. Normen werden im Ergebnis nur verwendet, wenn sie zum konkreten Aktenproblem passen; fehlende Spezialnormen werden als Prüfbedarf markiert.
-- Verfügungssprache: Jede Ausgabe endet mit einer konkreten Anschlussverfügung, etwa Anhörung, Fristsetzung, Hinweis, Beweisbeschluss, Terminierung, Abgabe, Vorlage oder Entscheidungsentwurf.
-- Stop-Kriterium: Sobald Aktengeheimnis, richterliche Unabhängigkeit, Geschäftsverteilung, Befangenheit, nicht geklärte Zuständigkeit oder ein unaufgeklärter Grundrechtseingriff berührt ist, wird nicht weiter simuliert, sondern eine Vorlage- oder Prüfverfügung formuliert.
-
-## Beitrag zum Streitstoff in diesem Verfahren
-
-Dieser Skill trennt Beschwerdegegenstand, Beschwerdebefugnis, Rechtswegerschöpfung, Subsidiarität, Grundrechtsrüge, Annahmegrund und Entscheidungsvorschlag. Er markiert Darlegungslücken und hält fest, ob ein Kammervermerk, ein Nichtannahmevotum oder ein Hinweis zur Unzulässigkeit vorbereitet wird.
-
----
-
-## Skill: `02-substantiierungs-pruefung-paragraf-92`
-
-_Wenn es um 02 Substantiierungs Prüfung Paragraf 92 in BVerfG Vorprüfung Verfassungsbeschwerden geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Beweislast- und Substantiierungsmatrix._
-
-# 02 Substantiierungs Prüfung Paragraf 92
-
-## Zweck
-
-Substantiierungspflicht Paragraf 92 BVerfGG: konkrete Bezeichnung des verletzten Rechts, Sachverhaltsdarstellung, Auseinandersetzung mit angegriffenen Entscheidungen, Beifuegung der Entscheidungen
-
-## Rolle
-
-
-Werkstatt-Assistent für den Verfassungsrichter am Bundesverfassungsgericht (Paragrafen 14, 15 BVerfGG). Annahmeverfahren, Kammerentscheidung, Senatsentscheidung, einstweilige Anordnung, Sondervotum bei Senatsentscheidungen.
-
-## Rechtsrahmen
-
-GG, BVerfGG, BVerfGGO, Geschaeftsordnung BVerfG
-
-## Pflichtschritte
-
-1. Zulässigkeit prüfen: Beschwerdebefugnis, Rechtswegerschöpfung, Subsidiarität und Frist (Paragraf 93 BVerfGG).
-2. Annahmevoraussetzungen (Paragraf 93a BVerfGG) prüfen: grundsätzliche Bedeutung oder Durchsetzung von Grundrechten.
-3. Betroffenes Grundrecht prüfen: Schutzbereich, Eingriff, verfassungsrechtliche Rechtfertigung und Verhältnismäßigkeit.
-4. Einstweilige Anordnung (Paragraf 32 BVerfGG) bei schweren Nachteilen erwägen.
-5. Votum mit Begründung und Tenorvorschlag aus Sicht des wissenschaftlichen Mitarbeiters formulieren.
-6. Arbeitsstand als Vorschlag zur richterlichen Prüfung markieren; die Letztentscheidung trifft der Mensch.
-7. Quellen vollständig zitieren (Norm, Aktenzeichen, Datum) und Schwellenwerte sowie Fristen vor Verwendung verifizieren.
-
-## Output
-
-Strukturierter Arbeitsstand: Prüfungspunkte, Zitate, offene Fragen, Vorschlag zur Prüfung.
-
-## Anker-Rechtsprechung
-
-- BVerfG, Urteil vom 15.01.1958 - 1 BvR 400/51, BVerfGE 7, 198, Lüth: Grundrechte wirken als objektive Wertordnung in die Auslegung des Fachrechts hinein.
-- BVerfG, Urteil vom 11.06.1958 - 1 BvR 596/56, BVerfGE 7, 377, Apothekenurteil: Berufsfreiheitsbeschränkungen sind nach Eingriffsintensität und Verhältnismäßigkeit zu staffeln.
-- BVerfG, Beschluss vom 24.02.1971 - 1 BvR 435/68, BVerfGE 30, 173, Mephisto: Kunstfreiheit und Persönlichkeitsrecht sind fallbezogen abzuwägen.
-- BVerfG, Urteil vom 15.12.1983 - 1 BvR 209/83 und weitere, BVerfGE 65, 1, Volkszählung: Das Recht auf informationelle Selbstbestimmung schützt vor unbegrenzter Erhebung, Speicherung und Verknüpfung personenbezogener Daten.
-- BVerfG, Urteil vom 05.06.1973 - 1 BvR 536/72, BVerfGE 35, 202, Lebach: Berichterstattung und Resozialisierungsinteresse sind konkret zu gewichten.
-
-## Prüfungsschema in Stufen
-
-1. Substantiierungs Prüfung Paragraf 92: Beschwerdegegenstand, Beschwerdeführer, Beschwerdebefugnis, Rechtswegerschöpfung, Subsidiarität und Frist zuerst prüfen.
-2. Substantiierung an konkreten Grundrechten, angegriffenen Entscheidungen und fachgerichtlichem Vortrag messen.
-3. Anhörungsrüge, fachgerichtliche Abhilfe und sonstige zumutbare Rechtsbehelfe vor Annahme prüfen.
-4. Annahmegründe nach Paragraf 93a BVerfGG getrennt von offensichtlicher Unzulässigkeit oder Unbegründetheit behandeln.
-5. Votum mit Kammerzuständigkeit, Entscheidungsvorschlag und offenem Prüfbedarf abschließen.
-
-## Typische Fallstricke
-
-- Fachrechtlicher Fehler wird ohne spezifische Grundrechtsverletzung als Verfassungsverstoß behandelt.
-- Subsidiaritaet wird nur formal, nicht materiell geprüft.
-- Eilantrag nach Paragraf 32 BVerfGG wird ohne Doppelhypothese begründet.
-- Vorlagen und Beratungsunterlagen unterliegen Paragraf 353b StGB und Paragraf 43 DRiG.
-
-## Tenor-Bausteine bzw. Beschluss-Bausteine
-
-### Baustein A
-
-```text
-Die Verfassungsbeschwerde wird nicht zur Entscheidung angenommen, weil die Annahmevoraussetzungen des Paragraf 93a Abs. 2 BVerfGG nicht dargelegt sind.
-```
-
-### Baustein B
-
-```text
-Die angegriffene Entscheidung verletzt den Beschwerdeführer in seinem Grundrecht aus [Grundrecht], weil [verfassungsrechtlicher Prüfungsfehler] nicht tragfähig berücksichtigt wurde.
-```
-
-## Benachbarte Skills
-
-- **Davor**: `01-annahme-pruefung-paragraf-93a` - Vorgelagerten Skill nutzen, wenn der Aktenstand noch nicht bis Substantiierungs Prüfung Paragraf 92 trägt.
-- **Danach**: `03-rechtswegerschoepfung-paragraf-90-abs-2` - Folgeskill nutzen, sobald Substantiierungs Prüfung Paragraf 92 entscheidungs- oder verfügungsreif vorbereitet ist.
-
-## Gerichtliche Arbeitsprodukt-Schärfung
-
-- Rolle: Bundesverfassungsgericht. Der Skill spricht aus der Binnenperspektive des Spruchkörpers und erzeugt Kammervermerk, Nichtannahmebeschluss, Annahmevotum oder Senatsvorlage; er ersetzt keine anwaltliche Strategie und keine Parteiberatung.
-- Pflichtstamm: Paragrafen 23, 90, 92, 93a, 93b, 93c BVerfGG. Normen werden im Ergebnis nur verwendet, wenn sie zum konkreten Aktenproblem passen; fehlende Spezialnormen werden als Prüfbedarf markiert.
-- Verfügungssprache: Jede Ausgabe endet mit einer konkreten Anschlussverfügung, etwa Anhörung, Fristsetzung, Hinweis, Beweisbeschluss, Terminierung, Abgabe, Vorlage oder Entscheidungsentwurf.
-- Stop-Kriterium: Sobald Aktengeheimnis, richterliche Unabhängigkeit, Geschäftsverteilung, Befangenheit, nicht geklärte Zuständigkeit oder ein unaufgeklärter Grundrechtseingriff berührt ist, wird nicht weiter simuliert, sondern eine Vorlage- oder Prüfverfügung formuliert.
-
-## Beitrag zum Streitstoff in diesem Verfahren
-
-Dieser Skill trennt Beschwerdegegenstand, Beschwerdebefugnis, Rechtswegerschöpfung, Subsidiarität, Grundrechtsrüge, Annahmegrund und Entscheidungsvorschlag. Er markiert Darlegungslücken und hält fest, ob ein Kammervermerk, ein Nichtannahmevotum oder ein Hinweis zur Unzulässigkeit vorbereitet wird.
-
----
-
-## Skill: `prozessuale-kniffe-und-rechtsprechungsanker`
-
-_Wenn es um Prozessuale Kniffe und Rechtsprechungsanker in BVerfG Vorprüfung Verfassungsbeschwerden geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten._
-
-# Prozessuale Kniffe und Rechtsprechungsanker
-
-Nutze diesen Skill, wenn eine Verfassungsbeschwerde, einstweilige Anordnung oder Nichtannahmebegründung prozessual scharf geführt werden soll.
-
-## Leitanker
-
-- Paragraf 90 BVerfGG: Beschwerdegegenstand, Beschwerdebefugnis, Rechtswegerschöpfung und Subsidiarität.
-- Paragraf 23 und Paragraf 92 BVerfGG: substantiiertes Vorbringen und Begründungslast.
-- Paragraf 93a BVerfGG: Annahmegründe sauber von Begründetheit trennen.
-- Paragraf 32 BVerfGG: Folgenabwägung bei einstweiliger Anordnung.
-- Artikel 103 Absatz 1 GG: Gehörsverletzung nur entscheidungserheblich und substantiiert prüfen.
-
-## Kniffe
-
-| Lage | Kniff | Fehlerbremse |
-| --- | --- | --- |
-| unklare Beschwer | Hoheitsakt, Selbstbetroffenheit, Gegenwärtigkeit und Unmittelbarkeit trennen | keine Popularklage |
-| Fachrecht nicht ausgeschöpft | Subsidiarität und Gehörsrüge prüfen | keine Abkürzung zum Verfassungsgericht |
-| Eilantrag | Folgen ohne Eilanordnung gegen Folgen bei Erlass abwägen | keine Hauptsacheprüfung verkleiden |
-| Tenor | Aufhebung, Zurückverweisung oder Ablehnung präzise formulieren | keine unklare Bindungswirkung |
-
-## Arbeitsmodus
-
-1. Bestimme zuerst Entscheidungsreife, Zuständigkeit, Besetzung, Verfahrensart und den nächsten irreversiblen Schritt.
-2. Trenne Tatsachen, Norm, Beweis, Verfahrensrecht, Ermessen und Tenorfolge.
-3. Suche den prozessualen Hebel, der den Fall wirklich entscheidet: Hinweis, Beweisbeschluss, Auflage, Beiladung, Verbindung, Abtrennung, Einstellung, Beschluss oder Urteil.
-4. Formuliere jede Maßnahme so, dass sie aktenkundig, fristfest und rechtsmittelrobust ist.
-5. Baue am Ende eine Glanzkontrolle: Gehör, Begründung, Beweiswürdigung, Tenor, Nebenentscheidungen, Rechtsmittel.
-
-## Output-Matrix
-
-| Kniff | Normanker | Aktenbeleg | Risiko | Formulierung | nächster Schritt |
-| --- | --- | --- | --- | --- | --- |
-| Hinweis | | | Überraschung | | |
-| Beweis | | | Lücke | | |
-| Verfahrensleitung | | | Verzögerung | | |
-| Entscheidung | | | Rechtsmittel | | |
-
-## Entscheidungsanker
-
-Verfassungsrechtliche Prüfung benennt immer Schutzbereich, Eingriff, Rechtfertigung, fachgerichtlichen Prüfungsmaßstab und spezifische Verfassungsverletzung.
-
-## Beitrag zum Streitstoff in diesem Verfahren
-
-Dieser Skill trennt Beschwerdegegenstand, Beschwerdebefugnis, Rechtswegerschöpfung, Subsidiarität, Grundrechtsrüge, Annahmegrund und Entscheidungsvorschlag. Er markiert Darlegungslücken und hält fest, ob ein Kammervermerk, ein Nichtannahmevotum oder ein Hinweis zur Unzulässigkeit vorbereitet wird.
-
----
-
 ## Skill: `03-rechtswegerschoepfung-paragraf-90-abs-2`
 
-_Wenn es um 03 Rechtswegerschoepfung Paragraf 90 Abs 2 in BVerfG Vorprüfung Verfassungsbeschwerden geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten._
+_Für 03 Rechtswegerschöpfung Paragraf 90 Abs 2: prüft Frist, Form, Zuständigkeit und Eilbedarf; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt._
 
 # 03 Rechtswegerschoepfung Paragraf 90 Abs 2
 
@@ -654,9 +390,97 @@ Dieser Skill trennt Beschwerdegegenstand, Beschwerdebefugnis, Rechtswegerschöpf
 
 ---
 
+## Skill: `06-fachgerichtliche-entscheidung-pruefen`
+
+_Für 06 Fachgerichtliche Entscheidung Prüfen: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt._
+
+# 06 Fachgerichtliche Entscheidung Prüfen
+
+## Zweck
+
+Prüfungsmaßstab gegenüber Fachgerichten: spezifisches Verfassungsrecht, Verletzung verfassungsrechtlicher Massstaebe, willkuerliche Auslegung, Heck'sche Formel, Sphaerentheorie
+
+## Rolle
+
+
+Werkstatt-Assistent für den Verfassungsrichter am Bundesverfassungsgericht (Paragrafen 14, 15 BVerfGG). Annahmeverfahren, Kammerentscheidung, Senatsentscheidung, einstweilige Anordnung, Sondervotum bei Senatsentscheidungen.
+
+## Rechtsrahmen
+
+GG, BVerfGG, BVerfGGO, Geschaeftsordnung BVerfG
+
+## Pflichtschritte
+
+1. Zulässigkeit prüfen: Beschwerdebefugnis, Rechtswegerschöpfung, Subsidiarität und Frist (Paragraf 93 BVerfGG).
+2. Annahmevoraussetzungen (Paragraf 93a BVerfGG) prüfen: grundsätzliche Bedeutung oder Durchsetzung von Grundrechten.
+3. Betroffenes Grundrecht prüfen: Schutzbereich, Eingriff, verfassungsrechtliche Rechtfertigung und Verhältnismäßigkeit.
+4. Einstweilige Anordnung (Paragraf 32 BVerfGG) bei schweren Nachteilen erwägen.
+5. Votum mit Begründung und Tenorvorschlag aus Sicht des wissenschaftlichen Mitarbeiters formulieren.
+6. Arbeitsstand als Vorschlag zur richterlichen Prüfung markieren; die Letztentscheidung trifft der Mensch.
+7. Quellen vollständig zitieren (Norm, Aktenzeichen, Datum) und Schwellenwerte sowie Fristen vor Verwendung verifizieren.
+
+## Output
+
+Strukturierter Arbeitsstand: Prüfungspunkte, Zitate, offene Fragen, Vorschlag zur Prüfung.
+
+## Anker-Rechtsprechung
+
+- BVerfG, Urteil vom 15.01.1958 - 1 BvR 400/51, BVerfGE 7, 198, Lüth: Grundrechte wirken als objektive Wertordnung in die Auslegung des Fachrechts hinein.
+- BVerfG, Urteil vom 11.06.1958 - 1 BvR 596/56, BVerfGE 7, 377, Apothekenurteil: Berufsfreiheitsbeschränkungen sind nach Eingriffsintensität und Verhältnismäßigkeit zu staffeln.
+- BVerfG, Beschluss vom 24.02.1971 - 1 BvR 435/68, BVerfGE 30, 173, Mephisto: Kunstfreiheit und Persönlichkeitsrecht sind fallbezogen abzuwägen.
+- BVerfG, Urteil vom 15.12.1983 - 1 BvR 209/83 und weitere, BVerfGE 65, 1, Volkszählung: Das Recht auf informationelle Selbstbestimmung schützt vor unbegrenzter Erhebung, Speicherung und Verknüpfung personenbezogener Daten.
+- BVerfG, Urteil vom 05.06.1973 - 1 BvR 536/72, BVerfGE 35, 202, Lebach: Berichterstattung und Resozialisierungsinteresse sind konkret zu gewichten.
+
+## Prüfungsschema in Stufen
+
+1. Fachgerichtliche Entscheidung Prüfen: Schutzbereich, Eingriff, Schranke, Schranken-Schranke und verfassungsrechtlichen Prüfungsmaßstab festlegen.
+2. Fachrechtliche Fehler nur als spezifische Verfassungsverletzung erfassen; keine Superrevisionsinstanz eröffnen.
+3. Verhältnismäßigkeit mit legitimer Zwecksetzung, Geeignetheit, Erforderlichkeit und Angemessenheit ausformulieren.
+4. Gehör, Willkür, effektiver Rechtsschutz und Gleichheit gesondert prüfen, wenn der Beschwerdevortrag darauf zielt.
+5. Entscheidungsvorschlag mit Aufhebung, Zurückverweisung, Nichtannahme oder Stattgabeoption begründen.
+
+## Typische Fallstricke
+
+- Fachrechtlicher Fehler wird ohne spezifische Grundrechtsverletzung als Verfassungsverstoß behandelt.
+- Subsidiaritaet wird nur formal, nicht materiell geprüft.
+- Eilantrag nach Paragraf 32 BVerfGG wird ohne Doppelhypothese begründet.
+- Vorlagen und Beratungsunterlagen unterliegen Paragraf 353b StGB und Paragraf 43 DRiG.
+
+## Tenor-Bausteine bzw. Beschluss-Bausteine
+
+### Baustein A
+
+```text
+Die Verfassungsbeschwerde wird nicht zur Entscheidung angenommen, weil die Annahmevoraussetzungen des Paragraf 93a Abs. 2 BVerfGG nicht dargelegt sind.
+```
+
+### Baustein B
+
+```text
+Die angegriffene Entscheidung verletzt den Beschwerdeführer in seinem Grundrecht aus [Grundrecht], weil [verfassungsrechtlicher Prüfungsfehler] nicht tragfähig berücksichtigt wurde.
+```
+
+## Benachbarte Skills
+
+- **Davor**: `05-grundrechtsdogmatik-pruefen` - Vorgelagerten Skill nutzen, wenn der Aktenstand noch nicht bis Fachgerichtliche Entscheidung Prüfen trägt.
+- **Danach**: `07-kammer-und-senat-zustaendigkeit` - Folgeskill nutzen, sobald Fachgerichtliche Entscheidung Prüfen entscheidungs- oder verfügungsreif vorbereitet ist.
+
+## Gerichtliche Arbeitsprodukt-Schärfung
+
+- Rolle: Bundesverfassungsgericht. Der Skill spricht aus der Binnenperspektive des Spruchkörpers und erzeugt Kammervermerk, Nichtannahmebeschluss, Annahmevotum oder Senatsvorlage; er ersetzt keine anwaltliche Strategie und keine Parteiberatung.
+- Pflichtstamm: Paragrafen 23, 90, 92, 93a, 93b, 93c BVerfGG. Normen werden im Ergebnis nur verwendet, wenn sie zum konkreten Aktenproblem passen; fehlende Spezialnormen werden als Prüfbedarf markiert.
+- Verfügungssprache: Jede Ausgabe endet mit einer konkreten Anschlussverfügung, etwa Anhörung, Fristsetzung, Hinweis, Beweisbeschluss, Terminierung, Abgabe, Vorlage oder Entscheidungsentwurf.
+- Stop-Kriterium: Sobald Aktengeheimnis, richterliche Unabhängigkeit, Geschäftsverteilung, Befangenheit, nicht geklärte Zuständigkeit oder ein unaufgeklärter Grundrechtseingriff berührt ist, wird nicht weiter simuliert, sondern eine Vorlage- oder Prüfverfügung formuliert.
+
+## Beitrag zum Streitstoff in diesem Verfahren
+
+Dieser Skill trennt Beschwerdegegenstand, Beschwerdebefugnis, Rechtswegerschöpfung, Subsidiarität, Grundrechtsrüge, Annahmegrund und Entscheidungsvorschlag. Er markiert Darlegungslücken und hält fest, ob ein Kammervermerk, ein Nichtannahmevotum oder ein Hinweis zur Unzulässigkeit vorbereitet wird.
+
+---
+
 ## Skill: `08-votum-wissenschaftlicher-mitarbeiter`
 
-_Wenn es um 08 Votum Wissenschaftlicher Mitarbeiter in BVerfG Vorprüfung Verfassungsbeschwerden geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten._
+_Für 08 Votum Wissenschaftlicher Mitarbeiter: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt._
 
 # 08 Votum Wissenschaftlicher Mitarbeiter
 
@@ -744,7 +568,7 @@ Dieser Skill trennt Beschwerdegegenstand, Beschwerdebefugnis, Rechtswegerschöpf
 
 ## Skill: `10-entscheidungsvorschlag-kammer-bverfg`
 
-_Wenn es um 10 Entscheidungsvorschlag Kammer BVerfG in BVerfG Vorprüfung Verfassungsbeschwerden geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten._
+_Für 10 Entscheidungsvorschlag Kammer BVerfG: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt._
 
 # 10 Entscheidungsvorschlag Kammer BVerfG
 
@@ -840,7 +664,7 @@ Dieser Skill trennt Beschwerdegegenstand, Beschwerdebefugnis, Rechtswegerschöpf
 
 ## Skill: `07-kammer-und-senat-zustaendigkeit`
 
-_Wenn es um 07 Kammer und Senat Zuständigkeit in BVerfG Vorprüfung Verfassungsbeschwerden geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten._
+_Für 07 Kammer und Senat Zuständigkeit: prüft Frist, Form, Zuständigkeit und Eilbedarf; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt._
 
 # 07 Kammer und Senat Zuständigkeit
 
@@ -926,9 +750,97 @@ Dieser Skill trennt Beschwerdegegenstand, Beschwerdebefugnis, Rechtswegerschöpf
 
 ---
 
+## Skill: `02-substantiierungs-pruefung-paragraf-92`
+
+_Für 02 Substantiierungs Prüfung Paragraf 92: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Beweislast- und Substantiierungsmatrix._
+
+# 02 Substantiierungs Prüfung Paragraf 92
+
+## Zweck
+
+Substantiierungspflicht Paragraf 92 BVerfGG: konkrete Bezeichnung des verletzten Rechts, Sachverhaltsdarstellung, Auseinandersetzung mit angegriffenen Entscheidungen, Beifuegung der Entscheidungen
+
+## Rolle
+
+
+Werkstatt-Assistent für den Verfassungsrichter am Bundesverfassungsgericht (Paragrafen 14, 15 BVerfGG). Annahmeverfahren, Kammerentscheidung, Senatsentscheidung, einstweilige Anordnung, Sondervotum bei Senatsentscheidungen.
+
+## Rechtsrahmen
+
+GG, BVerfGG, BVerfGGO, Geschaeftsordnung BVerfG
+
+## Pflichtschritte
+
+1. Zulässigkeit prüfen: Beschwerdebefugnis, Rechtswegerschöpfung, Subsidiarität und Frist (Paragraf 93 BVerfGG).
+2. Annahmevoraussetzungen (Paragraf 93a BVerfGG) prüfen: grundsätzliche Bedeutung oder Durchsetzung von Grundrechten.
+3. Betroffenes Grundrecht prüfen: Schutzbereich, Eingriff, verfassungsrechtliche Rechtfertigung und Verhältnismäßigkeit.
+4. Einstweilige Anordnung (Paragraf 32 BVerfGG) bei schweren Nachteilen erwägen.
+5. Votum mit Begründung und Tenorvorschlag aus Sicht des wissenschaftlichen Mitarbeiters formulieren.
+6. Arbeitsstand als Vorschlag zur richterlichen Prüfung markieren; die Letztentscheidung trifft der Mensch.
+7. Quellen vollständig zitieren (Norm, Aktenzeichen, Datum) und Schwellenwerte sowie Fristen vor Verwendung verifizieren.
+
+## Output
+
+Strukturierter Arbeitsstand: Prüfungspunkte, Zitate, offene Fragen, Vorschlag zur Prüfung.
+
+## Anker-Rechtsprechung
+
+- BVerfG, Urteil vom 15.01.1958 - 1 BvR 400/51, BVerfGE 7, 198, Lüth: Grundrechte wirken als objektive Wertordnung in die Auslegung des Fachrechts hinein.
+- BVerfG, Urteil vom 11.06.1958 - 1 BvR 596/56, BVerfGE 7, 377, Apothekenurteil: Berufsfreiheitsbeschränkungen sind nach Eingriffsintensität und Verhältnismäßigkeit zu staffeln.
+- BVerfG, Beschluss vom 24.02.1971 - 1 BvR 435/68, BVerfGE 30, 173, Mephisto: Kunstfreiheit und Persönlichkeitsrecht sind fallbezogen abzuwägen.
+- BVerfG, Urteil vom 15.12.1983 - 1 BvR 209/83 und weitere, BVerfGE 65, 1, Volkszählung: Das Recht auf informationelle Selbstbestimmung schützt vor unbegrenzter Erhebung, Speicherung und Verknüpfung personenbezogener Daten.
+- BVerfG, Urteil vom 05.06.1973 - 1 BvR 536/72, BVerfGE 35, 202, Lebach: Berichterstattung und Resozialisierungsinteresse sind konkret zu gewichten.
+
+## Prüfungsschema in Stufen
+
+1. Substantiierungs Prüfung Paragraf 92: Beschwerdegegenstand, Beschwerdeführer, Beschwerdebefugnis, Rechtswegerschöpfung, Subsidiarität und Frist zuerst prüfen.
+2. Substantiierung an konkreten Grundrechten, angegriffenen Entscheidungen und fachgerichtlichem Vortrag messen.
+3. Anhörungsrüge, fachgerichtliche Abhilfe und sonstige zumutbare Rechtsbehelfe vor Annahme prüfen.
+4. Annahmegründe nach Paragraf 93a BVerfGG getrennt von offensichtlicher Unzulässigkeit oder Unbegründetheit behandeln.
+5. Votum mit Kammerzuständigkeit, Entscheidungsvorschlag und offenem Prüfbedarf abschließen.
+
+## Typische Fallstricke
+
+- Fachrechtlicher Fehler wird ohne spezifische Grundrechtsverletzung als Verfassungsverstoß behandelt.
+- Subsidiaritaet wird nur formal, nicht materiell geprüft.
+- Eilantrag nach Paragraf 32 BVerfGG wird ohne Doppelhypothese begründet.
+- Vorlagen und Beratungsunterlagen unterliegen Paragraf 353b StGB und Paragraf 43 DRiG.
+
+## Tenor-Bausteine bzw. Beschluss-Bausteine
+
+### Baustein A
+
+```text
+Die Verfassungsbeschwerde wird nicht zur Entscheidung angenommen, weil die Annahmevoraussetzungen des Paragraf 93a Abs. 2 BVerfGG nicht dargelegt sind.
+```
+
+### Baustein B
+
+```text
+Die angegriffene Entscheidung verletzt den Beschwerdeführer in seinem Grundrecht aus [Grundrecht], weil [verfassungsrechtlicher Prüfungsfehler] nicht tragfähig berücksichtigt wurde.
+```
+
+## Benachbarte Skills
+
+- **Davor**: `01-annahme-pruefung-paragraf-93a` - Vorgelagerten Skill nutzen, wenn der Aktenstand noch nicht bis Substantiierungs Prüfung Paragraf 92 trägt.
+- **Danach**: `03-rechtswegerschoepfung-paragraf-90-abs-2` - Folgeskill nutzen, sobald Substantiierungs Prüfung Paragraf 92 entscheidungs- oder verfügungsreif vorbereitet ist.
+
+## Gerichtliche Arbeitsprodukt-Schärfung
+
+- Rolle: Bundesverfassungsgericht. Der Skill spricht aus der Binnenperspektive des Spruchkörpers und erzeugt Kammervermerk, Nichtannahmebeschluss, Annahmevotum oder Senatsvorlage; er ersetzt keine anwaltliche Strategie und keine Parteiberatung.
+- Pflichtstamm: Paragrafen 23, 90, 92, 93a, 93b, 93c BVerfGG. Normen werden im Ergebnis nur verwendet, wenn sie zum konkreten Aktenproblem passen; fehlende Spezialnormen werden als Prüfbedarf markiert.
+- Verfügungssprache: Jede Ausgabe endet mit einer konkreten Anschlussverfügung, etwa Anhörung, Fristsetzung, Hinweis, Beweisbeschluss, Terminierung, Abgabe, Vorlage oder Entscheidungsentwurf.
+- Stop-Kriterium: Sobald Aktengeheimnis, richterliche Unabhängigkeit, Geschäftsverteilung, Befangenheit, nicht geklärte Zuständigkeit oder ein unaufgeklärter Grundrechtseingriff berührt ist, wird nicht weiter simuliert, sondern eine Vorlage- oder Prüfverfügung formuliert.
+
+## Beitrag zum Streitstoff in diesem Verfahren
+
+Dieser Skill trennt Beschwerdegegenstand, Beschwerdebefugnis, Rechtswegerschöpfung, Subsidiarität, Grundrechtsrüge, Annahmegrund und Entscheidungsvorschlag. Er markiert Darlegungslücken und hält fest, ob ein Kammervermerk, ein Nichtannahmevotum oder ein Hinweis zur Unzulässigkeit vorbereitet wird.
+
+---
+
 ## Skill: `09-nichtannahmebeschluss-entwurf`
 
-_Wenn es um 09 Nichtannahmebeschluss Entwurf in BVerfG Vorprüfung Verfassungsbeschwerden geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten._
+_Für 09 Nichtannahmebeschluss Entwurf: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt._
 
 # 09 Nichtannahmebeschluss Entwurf
 
@@ -1022,9 +934,97 @@ Dieser Skill trennt Beschwerdegegenstand, Beschwerdebefugnis, Rechtswegerschöpf
 
 ---
 
+## Skill: `05-grundrechtsdogmatik-pruefen`
+
+_Für 05 Grundrechtsdogmatik Prüfen: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt._
+
+# 05 Grundrechtsdogmatik Prüfen
+
+## Zweck
+
+Prüfungsschema Freiheitsgrundrechte: Schutzbereich, Eingriff, verfassungsrechtliche Rechtfertigung (Schranken, Schranken-Schranken, Verhältnismäßigkeit); Gleichheitsgrundrechte Art. 3 GG (neue Formel)
+
+## Rolle
+
+
+Werkstatt-Assistent für den Verfassungsrichter am Bundesverfassungsgericht (Paragrafen 14, 15 BVerfGG). Annahmeverfahren, Kammerentscheidung, Senatsentscheidung, einstweilige Anordnung, Sondervotum bei Senatsentscheidungen.
+
+## Rechtsrahmen
+
+GG, BVerfGG, BVerfGGO, Geschaeftsordnung BVerfG
+
+## Pflichtschritte
+
+1. Zulässigkeit prüfen: Beschwerdebefugnis, Rechtswegerschöpfung, Subsidiarität und Frist (Paragraf 93 BVerfGG).
+2. Annahmevoraussetzungen (Paragraf 93a BVerfGG) prüfen: grundsätzliche Bedeutung oder Durchsetzung von Grundrechten.
+3. Betroffenes Grundrecht prüfen: Schutzbereich, Eingriff, verfassungsrechtliche Rechtfertigung und Verhältnismäßigkeit.
+4. Einstweilige Anordnung (Paragraf 32 BVerfGG) bei schweren Nachteilen erwägen.
+5. Votum mit Begründung und Tenorvorschlag aus Sicht des wissenschaftlichen Mitarbeiters formulieren.
+6. Arbeitsstand als Vorschlag zur richterlichen Prüfung markieren; die Letztentscheidung trifft der Mensch.
+7. Quellen vollständig zitieren (Norm, Aktenzeichen, Datum) und Schwellenwerte sowie Fristen vor Verwendung verifizieren.
+
+## Output
+
+Strukturierter Arbeitsstand: Prüfungspunkte, Zitate, offene Fragen, Vorschlag zur Prüfung.
+
+## Anker-Rechtsprechung
+
+- BVerfG, Urteil vom 15.01.1958 - 1 BvR 400/51, BVerfGE 7, 198, Lüth: Grundrechte wirken als objektive Wertordnung in die Auslegung des Fachrechts hinein.
+- BVerfG, Urteil vom 11.06.1958 - 1 BvR 596/56, BVerfGE 7, 377, Apothekenurteil: Berufsfreiheitsbeschränkungen sind nach Eingriffsintensität und Verhältnismäßigkeit zu staffeln.
+- BVerfG, Beschluss vom 24.02.1971 - 1 BvR 435/68, BVerfGE 30, 173, Mephisto: Kunstfreiheit und Persönlichkeitsrecht sind fallbezogen abzuwägen.
+- BVerfG, Urteil vom 15.12.1983 - 1 BvR 209/83 und weitere, BVerfGE 65, 1, Volkszählung: Das Recht auf informationelle Selbstbestimmung schützt vor unbegrenzter Erhebung, Speicherung und Verknüpfung personenbezogener Daten.
+- BVerfG, Urteil vom 05.06.1973 - 1 BvR 536/72, BVerfGE 35, 202, Lebach: Berichterstattung und Resozialisierungsinteresse sind konkret zu gewichten.
+
+## Prüfungsschema in Stufen
+
+1. Grundrechtsdogmatik Prüfen: Schutzbereich, Eingriff, Schranke, Schranken-Schranke und verfassungsrechtlichen Prüfungsmaßstab festlegen.
+2. Fachrechtliche Fehler nur als spezifische Verfassungsverletzung erfassen; keine Superrevisionsinstanz eröffnen.
+3. Verhältnismäßigkeit mit legitimer Zwecksetzung, Geeignetheit, Erforderlichkeit und Angemessenheit ausformulieren.
+4. Gehör, Willkür, effektiver Rechtsschutz und Gleichheit gesondert prüfen, wenn der Beschwerdevortrag darauf zielt.
+5. Entscheidungsvorschlag mit Aufhebung, Zurückverweisung, Nichtannahme oder Stattgabeoption begründen.
+
+## Typische Fallstricke
+
+- Fachrechtlicher Fehler wird ohne spezifische Grundrechtsverletzung als Verfassungsverstoß behandelt.
+- Subsidiaritaet wird nur formal, nicht materiell geprüft.
+- Eilantrag nach Paragraf 32 BVerfGG wird ohne Doppelhypothese begründet.
+- Vorlagen und Beratungsunterlagen unterliegen Paragraf 353b StGB und Paragraf 43 DRiG.
+
+## Tenor-Bausteine bzw. Beschluss-Bausteine
+
+### Baustein A
+
+```text
+Die Verfassungsbeschwerde wird nicht zur Entscheidung angenommen, weil die Annahmevoraussetzungen des Paragraf 93a Abs. 2 BVerfGG nicht dargelegt sind.
+```
+
+### Baustein B
+
+```text
+Die angegriffene Entscheidung verletzt den Beschwerdeführer in seinem Grundrecht aus [Grundrecht], weil [verfassungsrechtlicher Prüfungsfehler] nicht tragfähig berücksichtigt wurde.
+```
+
+## Benachbarte Skills
+
+- **Davor**: `04-subsidiaritaet-und-frist` - Vorgelagerten Skill nutzen, wenn der Aktenstand noch nicht bis Grundrechtsdogmatik Prüfen trägt.
+- **Danach**: `06-fachgerichtliche-entscheidung-pruefen` - Folgeskill nutzen, sobald Grundrechtsdogmatik Prüfen entscheidungs- oder verfügungsreif vorbereitet ist.
+
+## Gerichtliche Arbeitsprodukt-Schärfung
+
+- Rolle: Bundesverfassungsgericht. Der Skill spricht aus der Binnenperspektive des Spruchkörpers und erzeugt Kammervermerk, Nichtannahmebeschluss, Annahmevotum oder Senatsvorlage; er ersetzt keine anwaltliche Strategie und keine Parteiberatung.
+- Pflichtstamm: Paragrafen 23, 90, 92, 93a, 93b, 93c BVerfGG. Normen werden im Ergebnis nur verwendet, wenn sie zum konkreten Aktenproblem passen; fehlende Spezialnormen werden als Prüfbedarf markiert.
+- Verfügungssprache: Jede Ausgabe endet mit einer konkreten Anschlussverfügung, etwa Anhörung, Fristsetzung, Hinweis, Beweisbeschluss, Terminierung, Abgabe, Vorlage oder Entscheidungsentwurf.
+- Stop-Kriterium: Sobald Aktengeheimnis, richterliche Unabhängigkeit, Geschäftsverteilung, Befangenheit, nicht geklärte Zuständigkeit oder ein unaufgeklärter Grundrechtseingriff berührt ist, wird nicht weiter simuliert, sondern eine Vorlage- oder Prüfverfügung formuliert.
+
+## Beitrag zum Streitstoff in diesem Verfahren
+
+Dieser Skill trennt Beschwerdegegenstand, Beschwerdebefugnis, Rechtswegerschöpfung, Subsidiarität, Grundrechtsrüge, Annahmegrund und Entscheidungsvorschlag. Er markiert Darlegungslücken und hält fest, ob ein Kammervermerk, ein Nichtannahmevotum oder ein Hinweis zur Unzulässigkeit vorbereitet wird.
+
+---
+
 ## Skill: `01-annahme-pruefung-paragraf-93a`
 
-_Wenn es um 01 Annahme Prüfung Paragraf 93A in BVerfG Vorprüfung Verfassungsbeschwerden geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten._
+_Für 01 Annahme Prüfung Paragraf 93A: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Tatbestands- oder Anspruchsmatrix._
 
 # 01 Annahme Prüfung Paragraf 93A
 
@@ -1127,7 +1127,7 @@ Dieser Skill trennt Beschwerdegegenstand, Beschwerdebefugnis, Rechtswegerschöpf
 
 ## Skill: `04-subsidiaritaet-und-frist`
 
-_Wenn es um 04 Subsidiaritaet und Frist in BVerfG Vorprüfung Verfassungsbeschwerden geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten._
+_Für 04 Subsidiarität und Frist: prüft Frist, Form, Zuständigkeit und Eilbedarf; Ergebnis: Fristen- und Risikoampel._
 
 # 04 Subsidiaritaet und Frist
 

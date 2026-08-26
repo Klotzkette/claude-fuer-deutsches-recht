@@ -1,6 +1,6 @@
 ---
 name: haftpflichtversicherung-und-schadenmeldung-organi
-description: "Wenn es um Haftpflichtversicherung Und Schadenmeldung Organi in Berufsrecht Steuerberater geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Haftpflichtversicherung und Schadenmeldung Organi: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Steuerberater: haftpflichtversicherung und schadenmeldung - Organisationspflichten, Prävention, Team-Anweisung und Fristenkontrolle

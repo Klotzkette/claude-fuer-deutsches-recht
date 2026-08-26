@@ -1,6 +1,6 @@
 ---
 name: vertrag-beauftragungsumfang-vertragliche
-description: "Wenn es um LPH 8 Objektüberwachung - Bauüberwachung und Dokumentation: Ordnet vertrag in HOAI Leistungsphasen Praxis geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für LPH 8 Objektüberwachung - Bauüberwachung und Dokumentation: Ordnet vertrag: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # LPH 8 Objektüberwachung - Bauüberwachung und Dokumentation: Ordnet vertrag

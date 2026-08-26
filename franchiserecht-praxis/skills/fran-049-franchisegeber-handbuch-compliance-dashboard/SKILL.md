@@ -1,6 +1,6 @@
 ---
 name: fran-049-franchisegeber-handbuch-compliance-dashboard
-description: "Wenn es um Franchiserecht: Franchisegeber Handbuch Compliance Dashboard in Franchiserecht Praxis geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Franchiserecht: Franchisegeber Handbuch Compliance Dashboard: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Franchiserecht: Franchisegeber Handbuch Compliance Dashboard

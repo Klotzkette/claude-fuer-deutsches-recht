@@ -1,6 +1,6 @@
 ---
 name: oeffentlicher-dienst-zusatzversorgung-vbl
-description: "Wenn es um Oeffentlicher Dienst Zusatzversorgung Vbl in Fachanwalt Familienrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Öffentlicher Dienst Zusatzversorgung Vbl: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Öffentlicher Dienst Zusatzversorgung VBL: prüft die einschlägigen Voraussetzungen, Dokumente, Risiken und Ausnahmen

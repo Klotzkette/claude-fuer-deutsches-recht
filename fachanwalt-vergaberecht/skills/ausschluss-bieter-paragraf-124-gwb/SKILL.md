@@ -1,6 +1,6 @@
 ---
 name: ausschluss-bieter-paragraf-124-gwb
-description: "Wenn es um Ausschluss Bieter Paragraf 124 GWB in Fachanwalt Vergaberecht geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Ausschluss Bieter Paragraf 124 GWB: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Ausschluss Bieter § 124 GWB

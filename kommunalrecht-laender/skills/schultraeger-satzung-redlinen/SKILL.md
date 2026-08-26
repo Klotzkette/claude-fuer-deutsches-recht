@@ -1,6 +1,6 @@
 ---
 name: schultraeger-satzung-redlinen
-description: "Wenn es um Schultraeger Satzung Redlinen in Kommunalrecht der Länder geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Schulträger Satzung Redlinen: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Schultraeger Satzung Redlinen

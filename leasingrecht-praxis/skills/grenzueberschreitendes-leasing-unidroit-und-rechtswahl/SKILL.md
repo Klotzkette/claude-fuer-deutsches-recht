@@ -1,6 +1,6 @@
 ---
 name: grenzueberschreitendes-leasing-unidroit-und-rechtswahl
-description: "Wenn es um Grenzüberschreitendes Leasing: UNIDROIT und Rechtswahl in Leasingrecht Praxis geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen."
+description: "Für Grenzüberschreitendes Leasing: UNIDROIT und Rechtswahl: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Grenzüberschreitendes Leasing: UNIDROIT und Rechtswahl

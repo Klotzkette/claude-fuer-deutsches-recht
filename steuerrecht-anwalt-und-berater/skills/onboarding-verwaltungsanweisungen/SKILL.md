@@ -1,6 +1,6 @@
 ---
 name: onboarding-verwaltungsanweisungen
-description: "Wenn es um BMF-Schreiben AEAO UStAE EStR — Verwaltungsanweisungen richtig nutzen in Steuerrecht – Steuerberater und Anwälte geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für BMF-Schreiben AEAO UStAE EStR — Verwaltungsanweisungen richtig nutzen: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # BMF-Schreiben AEAO UStAE EStR — Verwaltungsanweisungen richtig nutzen

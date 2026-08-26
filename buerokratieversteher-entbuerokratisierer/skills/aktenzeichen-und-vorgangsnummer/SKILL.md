@@ -1,6 +1,6 @@
 ---
 name: aktenzeichen-und-vorgangsnummer
-description: "Wenn es um Aktenzeichen und Vorgangsnummer in Bürokratieversteher und Entbürokratisierer geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
+description: "Für Aktenzeichen und Vorgangsnummer: ordnet Akte, Belege und Lücken; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Aktenzeichen und Vorgangsnummer

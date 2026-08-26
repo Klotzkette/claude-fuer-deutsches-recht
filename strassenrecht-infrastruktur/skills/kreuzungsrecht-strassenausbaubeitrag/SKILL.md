@@ -1,6 +1,6 @@
 ---
 name: kreuzungsrecht-strassenausbaubeitrag
-description: "Wenn es um Kreuzungsrecht Bahn Wasser Strasse in Straßenrecht und Infrastruktur geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen."
+description: "Für Kreuzungsrecht Bahn Wasser Strasse: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Schnittstellenkarte mit Zuständigkeits- und Nachweisfragen."
 ---
 
 # Kreuzungsrecht Bahn Wasser Strasse

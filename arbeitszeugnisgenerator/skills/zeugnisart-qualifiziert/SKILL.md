@@ -1,6 +1,6 @@
 ---
 name: zeugnisart-qualifiziert
-description: "Erstellt ein individuelles qualifiziertes Arbeitszeugnis zu Art, Dauer, Leistung und Verhalten in durchgehendem Fließtext. Führt Tätigkeitsbild, belegte Bewertungsachsen, Gesamtnote, Form und optionalen Schluss widerspruchsfrei zusammen."
+description: "Erstellt ein individuelles qualifiziertes Arbeitszeugnis zu Art, Dauer, Leistung und Verhalten in durchgehendem Fließtext."
 ---
 
 # Zeugnisart: Qualifiziertes Arbeitszeugnis

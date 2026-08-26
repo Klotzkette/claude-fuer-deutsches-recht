@@ -1,6 +1,6 @@
 ---
 name: reservistendienst-dienstleistungspflicht
-description: "Wenn es um Reservistendienst und Dienstleistungspflicht in Bundeswehrrecht und Wehrrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Reservistendienst und Dienstleistungspflicht: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Reservistendienst und Dienstleistungspflicht

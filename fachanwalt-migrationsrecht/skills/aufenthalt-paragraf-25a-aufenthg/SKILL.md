@@ -1,6 +1,6 @@
 ---
 name: aufenthalt-paragraf-25a-aufenthg
-description: "Wenn es um Aufenthalt Paragraf 25a AufenthG in Fachanwalt Migrationsrecht geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Aufenthalt Paragraf 25a AufenthG: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Aufenthalt § 25a AufenthG

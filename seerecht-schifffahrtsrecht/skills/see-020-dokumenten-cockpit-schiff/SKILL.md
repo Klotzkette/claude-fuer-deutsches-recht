@@ -1,6 +1,6 @@
 ---
 name: see-020-dokumenten-cockpit-schiff
-description: "Wenn es um Dokumenten Cockpit Schiff in See- und Schifffahrtsrecht geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
+description: "Für Dokumenten Cockpit Schiff: ordnet Akte, Belege und Lücken; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Dokumenten Cockpit Schiff

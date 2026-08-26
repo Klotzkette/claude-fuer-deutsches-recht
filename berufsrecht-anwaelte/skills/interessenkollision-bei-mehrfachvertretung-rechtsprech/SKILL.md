@@ -1,6 +1,6 @@
 ---
 name: interessenkollision-bei-mehrfachvertretung-rechtsprech
-description: "Wenn es um Interessenkollision Bei Mehrfachvertretung Rechtsprech in Berufsrecht Anwälte geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Gegenprüfung mit Fehler-, Beweis- und Fristencheck."
+description: "Für Interessenkollision bei Mehrfachvertretung Rechtsprech: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Anwälte: interessenkollision bei mehrfachvertretung - Rechtsprechungscheck, stärkste Gegenansicht und Red-Team-Korrektur

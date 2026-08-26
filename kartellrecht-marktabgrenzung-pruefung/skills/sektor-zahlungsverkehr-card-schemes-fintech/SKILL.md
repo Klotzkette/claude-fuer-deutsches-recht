@@ -1,6 +1,6 @@
 ---
 name: sektor-zahlungsverkehr-card-schemes-fintech
-description: "Wenn es um Sektor Zahlungsverkehr, Card Schemes und FinTech in Kartellrecht — Marktabgrenzungsprüfung geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Sektor Zahlungsverkehr, Card Schemes und FinTech: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Sektor Zahlungsverkehr, Card Schemes und FinTech

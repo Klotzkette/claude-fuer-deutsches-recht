@@ -1,6 +1,6 @@
 ---
 name: library-archives-108
-description: "Wenn es um Libraries und Archives Paragraf 108 in US Copyright Act und Registrierung für deutsche Verlage geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
+description: "Für Libraries und Archives Paragraf 108: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Libraries und Archives § 108

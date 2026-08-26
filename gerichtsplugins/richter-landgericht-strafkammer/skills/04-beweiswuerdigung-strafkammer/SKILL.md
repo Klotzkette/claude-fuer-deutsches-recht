@@ -1,6 +1,6 @@
 ---
 name: 04-beweiswuerdigung-strafkammer
-description: "Wenn es um 04 Beweiswürdigung Strafkammer in Strafkammer am Landgericht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Beweislast- und Substantiierungsmatrix."
+description: "Für 04 Beweiswürdigung Strafkammer: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Beweislast- und Substantiierungsmatrix."
 ---
 
 # 04 Beweiswürdigung Strafkammer

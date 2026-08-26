@@ -1,6 +1,6 @@
 ---
 name: international-filing-und-local-counsel-kammerant
-description: "Wenn es um International Filing Und Local Counsel Kammerant in Berufsrecht Patentanwälte geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Verhandlungs- oder Eskalationslinie mit Optionen."
+description: "Für International Filing und Local Counsel Kammerant: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Schnittstellenkarte mit Zuständigkeits- und Nachweisfragen."
 ---
 
 # Patentanwälte: international filing und local counsel - Kammerantwort mit Verfahrensstrategie, Tonlage und Belegplan

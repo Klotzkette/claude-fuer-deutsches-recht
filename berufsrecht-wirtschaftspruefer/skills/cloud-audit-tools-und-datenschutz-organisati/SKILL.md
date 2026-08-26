@@ -1,6 +1,6 @@
 ---
 name: cloud-audit-tools-und-datenschutz-organisati
-description: "Wenn es um Cloud Audit Tools Und Datenschutz Organisati in Berufsrecht Wirtschaftsprüfer geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Cloud Audit Tools und Datenschutz Organisati: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Wirtschaftsprüfer: cloud audit tools und datenschutz - Organisationspflichten, Prävention, Team-Anweisung und Fristenkontrolle

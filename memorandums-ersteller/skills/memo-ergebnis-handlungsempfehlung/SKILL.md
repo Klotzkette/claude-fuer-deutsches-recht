@@ -1,6 +1,6 @@
 ---
 name: memo-ergebnis-handlungsempfehlung
-description: "Wenn es um Memo: Ergebnis + Handlungsempfehlung in Memorandums-Ersteller geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
+description: "Für Memo: Ergebnis + Handlungsempfehlung: erstellt Entwurf mit Antrag, Beweis und Anlagen; Ergebnis: Schriftsatz mit Begründungs- und Anlagenlogik."
 ---
 
 # Memo: Ergebnis + Handlungsempfehlung

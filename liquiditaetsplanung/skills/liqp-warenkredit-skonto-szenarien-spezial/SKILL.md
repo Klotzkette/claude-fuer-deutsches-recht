@@ -1,6 +1,6 @@
 ---
 name: liqp-warenkredit-skonto-szenarien-spezial
-description: "Wenn es um LiqP: Warenkredit Skonto in Liquiditätsplanung — Power geht: entwickelt Verhandlungsziel, Vergleichskorridor und Eskalationspfad; liefert eine Verhandlungs- oder Eskalationslinie mit Optionen."
+description: "Für LiqP: Warenkredit Skonto: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # LiqP: Warenkredit Skonto

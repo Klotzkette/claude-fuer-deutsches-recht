@@ -1,6 +1,6 @@
 ---
 name: lehrbeauftragte-status-und-verguetung
-description: "Wenn es um Lehrbeauftragte Status und Vergütung in Hochschulrecht der Bundesländer geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Lehrbeauftragte Status und Vergütung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Lehrbeauftragte Status und Vergütung

@@ -1,6 +1,6 @@
 ---
 name: energie-kwkg-zuschlaege
-description: "Wenn es um Energie: KWKG Zuschläge in Bundesnetzagentur-Verfahren geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
+description: "Für Energie: KWKG Zuschläge: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Energie: KWKG Zuschläge

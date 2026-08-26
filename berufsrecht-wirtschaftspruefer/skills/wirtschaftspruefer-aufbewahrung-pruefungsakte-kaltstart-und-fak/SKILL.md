@@ -1,6 +1,6 @@
 ---
 name: wirtschaftspruefer-aufbewahrung-pruefungsakte-kaltstart-und-fak
-description: "Wenn es um Wirtschaftspruefer Aufbewahrung Pruefungsakte Kaltstart Und Fak in Berufsrecht Wirtschaftsprüfer geht: klärt Rolle, Ziel, Frist, Unterlagen und den passenden nächsten Fachskill; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Wirtschaftsprüfer Aufbewahrung Prüfungsakte Kaltstart und Fak: routet Rolle, Frist, Unterlagen und Fachschritt; Ergebnis: Tatbestands- oder Anspruchsmatrix."
 ---
 
 # Wirtschaftsprüfer: aufbewahrung pruefungsakte - Kaltstart mit Faktenmatrix, Risikoampel und fehlenden Unterlagen

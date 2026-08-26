@@ -1,6 +1,6 @@
 ---
 name: kirchenaustritt-in-deutschland
-description: "Wenn es um Kirchenaustritt in Deutschland in Römisch-katholisches Kirchenrecht CIC und Katechismus geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen."
+description: "Für Kirchenaustritt in Deutschland: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Schnittstellenkarte mit Zuständigkeits- und Nachweisfragen. Fachgebiet: Römisch-katholisches Kirchenrecht CIC und Katechismus. Route: kirchenaustritt-in-deutschland."
 ---
 
 # Kirchenaustritt in Deutschland

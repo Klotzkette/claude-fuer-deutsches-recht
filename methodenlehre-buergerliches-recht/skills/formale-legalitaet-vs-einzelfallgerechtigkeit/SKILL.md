@@ -1,6 +1,6 @@
 ---
 name: formale-legalitaet-vs-einzelfallgerechtigkeit
-description: "Wenn es um Formale Legalität vs. Einzelfallgerechtigkeit in Methodenlehre bürgerliches Recht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
+description: "Für Formale Legalität vs. Einzelfallgerechtigkeit: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Formale Legalität vs. Einzelfallgerechtigkeit

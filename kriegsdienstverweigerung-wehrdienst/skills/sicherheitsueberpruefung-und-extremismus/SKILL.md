@@ -1,6 +1,6 @@
 ---
 name: sicherheitsueberpruefung-und-extremismus
-description: "Wenn es um Extremismus und Sicherheit in Kriegsdienstverweigerung und Wehrdienst geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Extremismus und Sicherheit: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Tatbestands- oder Anspruchsmatrix."
 ---
 
 # Extremismus und Sicherheit

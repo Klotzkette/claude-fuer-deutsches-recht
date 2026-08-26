@@ -1,6 +1,6 @@
 ---
 name: fristenkalender-untaetigkeitstrack-bund-zustaendigkeit
-description: "Wenn es um Fristenkalender Und Untaetigkeitstrack in Informationsfreiheit und Presseauskunft geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Fristenkalender und Untätigkeitstrack: prüft Frist, Form, Zuständigkeit und Eilbedarf; Ergebnis: Fristen- und Risikoampel."
 ---
 
 # Fristenkalender Und Untaetigkeitstrack

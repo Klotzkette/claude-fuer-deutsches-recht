@@ -1,6 +1,6 @@
 ---
 name: uspto-anmeldung-und-lanham-act
-description: "Wenn es um USPTO-Anmeldung und Lanham Act in markenrecht-fashion-luxus geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für USPTO-Anmeldung und Lanham Act: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # USPTO-Anmeldung und Lanham Act

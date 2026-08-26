@@ -1,6 +1,6 @@
 ---
 name: entwurf-tatbestandsmerkmale-beweisfragen-beleglage
-description: "Wenn es um Entwurf: Tatbestandsmerkmale, Beweisfragen und Beleglage in NDA-Abgleich geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Entwurf: Tatbestandsmerkmale, Beweisfragen und Beleglage: ordnet Akte, Belege und Lücken; Ergebnis: Beweislast- und Substantiierungsmatrix. Fachgebiet: NDA-Abgleich. Route: entwurf-tatbestandsmerkmale-beweisfragen-beleglage."
 ---
 
 # Entwurf: Tatbestandsmerkmale, Beweisfragen und Beleglage

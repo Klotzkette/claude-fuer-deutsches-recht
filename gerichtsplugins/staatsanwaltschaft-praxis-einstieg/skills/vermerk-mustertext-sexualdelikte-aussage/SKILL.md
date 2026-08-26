@@ -1,6 +1,6 @@
 ---
 name: vermerk-mustertext-sexualdelikte-aussage
-description: "Wenn es um Schriftsatz, Vermerk und Mustertext in Staatsanwaltschaft Praxis-Einstieg geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik. Auswahlstichwort: Vermerk Mustertext Sexualdelikte Aussage; Arbeitsfeld: Staatsanwaltschaft Praxis-Einstieg."
+description: "Für Schriftsatz, Vermerk und Mustertext: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt. Fachgebiet: Staatsanwaltschaft Praxis-Einstieg."
 ---
 
 # Schriftsatz, Vermerk und Mustertext

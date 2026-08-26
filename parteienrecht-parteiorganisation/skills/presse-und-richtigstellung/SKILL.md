@@ -1,6 +1,6 @@
 ---
 name: presse-und-richtigstellung
-description: "Wenn es um Presse und Richtigstellung in Parteienrecht und Parteiorganisation geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Presse und Richtigstellung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Presse und Richtigstellung

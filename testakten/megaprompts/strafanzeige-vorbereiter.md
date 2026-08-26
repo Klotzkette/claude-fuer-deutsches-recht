@@ -7,20 +7,20 @@ Diese Vollprüfung enthält top-15 von 57 Skills des Plugins `strafanzeige-vorbe
 ## Inhaltsverzeichnis
 
 1. **juristischer-argumentationskern** — Schaltet sich ein, wenn in Strafanzeige Vorbereiter ein juristisches Arbeitsprodukt tragfähig begründet werden muss; ver…
-2. **ruecknahme-einstellung-170-153** — Wenn es um Rücknahme, Einstellung, Paragraf 170 Abs. 2, Paragrafen 153 ff. StPO in Strafanzeige-Vorbereiter geht: erstel…
-3. **anfangsverdacht-anlagenverzeichnis** — Wenn es um Anfangsverdacht nach Paragrafen 152. 160 StPO in Strafanzeige-Vorbereiter geht: ordnet Sachverhalt, Norm, Bew…
-4. **nicht-anzeigen-redteam** — Wenn es um Nicht anzeigen? Red-Team vor Strafanzeige in Strafanzeige-Vorbereiter geht: ordnet Sachverhalt, Norm, Beweisl…
-5. **umweltstraftaten-unternehmen** — Wenn es um Umweltstraftaten Paragrafen 324 ff. StGB in Strafanzeige-Vorbereiter geht: ordnet Sachverhalt, Norm, Beweisla…
-6. **falsche-verdaechtigung-164** — Wenn es um Falsche Verdächtigung Paragraf 164 StGB in Strafanzeige-Vorbereiter geht: ordnet Sachverhalt, Norm, Beweislas…
-7. **unternehmen-internal-investigation** — Wenn es um Unternehmen und Internal Investigation in Strafanzeige-Vorbereiter geht: ordnet Sachverhalt, Norm, Beweislast…
-8. **beleidigung-betrug** — Wenn es um Beleidigung Paragrafen 185. 194 StGB in Strafanzeige-Vorbereiter geht: ordnet Sachverhalt, Norm, Beweislast, …
-9. **onlinewache-opferschutz** — Wenn es um Onlinewache oder Staatsanwaltschaft? in Strafanzeige-Vorbereiter geht: ordnet Sachverhalt, Norm, Beweislast, …
-10. **kreditgefaehrdung-minderjaehrige** — Wenn es um Kreditgefährdung Paragraf 824 BGB in Strafanzeige-Vorbereiter geht: ordnet Sachverhalt, Norm, Beweislast, Geg…
-11. **kaltstart-routing** — Wenn es um Strafanzeige: Kaltstart mit Sicherheitsbremse in Strafanzeige-Vorbereiter geht: klärt Rolle, Ziel, Frist, Unt…
-12. **rechtsfolgen-ruecknahme** — Wenn es um Rechtsfolgen und Zivilstrategie in Strafanzeige-Vorbereiter geht: ordnet Sachverhalt, Norm, Beweislast, Gegen…
-13. **strafanzeige-vs-strafantrag-158** — Wenn es um Strafanzeige vs. Strafantrag Paragraf 158 StPO in Strafanzeige-Vorbereiter geht: erstellt den passenden Entwu…
-14. **computerbetrug-phishing** — Wenn es um Computerbetrug und Phishing in Strafanzeige-Vorbereiter geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargu…
-15. **koerperverletzung-korruption** — Wenn es um Körperverletzung Paragrafen 223. 230 StGB in Strafanzeige-Vorbereiter geht: erstellt den passenden Entwurf au…
+2. **ruecknahme-einstellung-170-153** — Für Rücknahme, Einstellung, Paragraf 170 Abs. 2, Paragrafen 153 ff. StPO: ordnet Norm, Beweislast und Gegenargument; Erg…
+3. **arbeitsplatz-sexuelle-belaestigung** — Für Arbeitsplatz: sexuelle Belästigung strafrechtlich einordnen: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Pr…
+4. **strafanzeige-vs-strafantrag-158** — Für Strafanzeige vs. Strafantrag Paragraf 158 StPO: erstellt Entwurf mit Antrag, Beweis und Anlagen; Ergebnis: Schriftsa…
+5. **ueblerede-verleumdung-186-187** — Für Üble Nachrede und Verleumdung vermeiden: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Schnittstellenkarte mi…
+6. **kaltstart-routing** — Für Strafanzeige: Kaltstart mit Sicherheitsbremse: routet Rolle, Frist, Unterlagen und Fachschritt; Ergebnis: Prüfproduk…
+7. **wer-zeugenliste** — Für Sachverhalt: wer, was, wann, wo, wie: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Schnittstellenkarte mit Z…
+8. **geschgehg-haeusliche** — Für GeschGehG Paragraf 23 Strafanzeige: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Schnittstellenkarte mit Zus…
+9. **koerperverletzung-korruption** — Für Körperverletzung nach Paragrafen 223 und 230 StGB: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt …
+10. **chatverlaeufe-emails-header** — Für Chats, E-Mails und Header sichern: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Schnittstellenkarte mit Zust…
+11. **anfangsverdacht-anlagenverzeichnis** — Für Anfangsverdacht nach Paragrafen 152. 160 StPO: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit …
+12. **antragsdelikte-strafantrag** — Für Antragsdelikte und Drei-Monats-Frist: erstellt Entwurf mit Antrag, Beweis und Anlagen; Ergebnis: Schriftsatz mit Beg…
+13. **international-klageerzwingung** — Für Internationale Anzeigen und EU-Bezug: erstellt Entwurf mit Antrag, Beweis und Anlagen; Ergebnis: Schriftsatz mit Beg…
+14. **zeugenliste-kontakt** — Für Zeugenliste und Kontaktregeln: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Schnittstellenkarte mit Zuständi…
+15. **haeusliche-gewalt-gewschg** — Für Häusliche Gewalt und GewSchG: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Schnittstellenkarte mit Zuständig…
 
 ---
 
@@ -144,7 +144,7 @@ Ausgangspunkt für dieses Plugin: Tatnachweis beim Staat; Verteidigung markiert 
 
 ## Skill: `ruecknahme-einstellung-170-153`
 
-_Wenn es um Rücknahme, Einstellung, Paragraf 170 Abs. 2, Paragrafen 153 ff. StPO in Strafanzeige-Vorbereiter geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik._
+_Für Rücknahme, Einstellung, Paragraf 170 Abs. 2, Paragrafen 153 ff. StPO: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt._
 
 # Rücknahme, Einstellung, § 170 Abs. 2, §§ 153 ff. StPO
 
@@ -181,11 +181,11 @@ Erst bremsen, dann prüfen, dann schreiben: nur Tatsachen behaupten, Vermutungen
 
 ---
 
-## Skill: `anfangsverdacht-anlagenverzeichnis`
+## Skill: `arbeitsplatz-sexuelle-belaestigung`
 
-_Wenn es um Anfangsverdacht nach Paragrafen 152. 160 StPO in Strafanzeige-Vorbereiter geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt._
+_Für Arbeitsplatz: sexuelle Belästigung strafrechtlich einordnen: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt._
 
-# Anfangsverdacht nach §§ 152, 160 StPO
+# Arbeitsplatz: sexuelle Belästigung strafrechtlich einordnen
 
 ## Arbeitsweg
 
@@ -197,41 +197,7 @@ _Wenn es um Anfangsverdacht nach Paragrafen 152. 160 StPO in Strafanzeige-Vorber
 
 ## Norm- und Quellenanker
 
-StPO §§ 152 Abs. 2, 160, 158; RiStBV live prüfen.
-
-## Normen & Rechtsprechung
-
-Konkret zu prüfen:
-
-- § 152 Abs. 2 StPO (Anfangsverdacht)
-- § 160 Abs. 1, 2 StPO
-- Nr. 6 ff. RiStBV
-- BVerfG NJW 1994, 783
-- § 168b StPO
-- § 110 StPO
-- Nr. 9-13 RiStBV
-
-## Red Flags
-
-- nur „das kann kein Zufall sein“
-- keine Tatzeit
-- keine Handlung des Beschuldigten
-
-## Arbeitsstil
-
-Erst bremsen, dann prüfen, dann schreiben: nur Tatsachen behaupten, Vermutungen als Vermutung kennzeichnen, entlastende Umstände nicht unterschlagen, Strafantragsfristen prüfen und Strafrecht nicht als unlauteres Druckmittel benutzen.
-
----
-
-## Skill: `nicht-anzeigen-redteam`
-
-_Wenn es um Nicht anzeigen? Red-Team vor Strafanzeige in Strafanzeige-Vorbereiter geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt._
-
-# Nicht anzeigen? Red-Team vor Strafanzeige
-
-## Norm- und Quellenanker
-
-StGB §§ 164, 186, 187, 240; BGB § 824; BGB Delikt; StPO § 158.
+StGB je Tat; AGG; GewSchG; StPO; Arbeitsrecht.
 
 ## Normen & Rechtsprechung
 
@@ -244,10 +210,9 @@ Konkret zu prüfen:
 
 ## Red Flags
 
-- Anzeige als Verhandlungsdruck
-- Tätername ohne Beweis
-- Konflikt eskaliert unnötig
-- Verjährung zivilrechtlicher Ansprüche wird vergessen
+- Opferdruck
+- Interne Untersuchung kontaminiert Beweise
+- Datenschutz vergessen
 
 ## Arbeitsstil
 
@@ -255,11 +220,11 @@ Erst bremsen, dann prüfen, dann schreiben: nur Tatsachen behaupten, Vermutungen
 
 ---
 
-## Skill: `umweltstraftaten-unternehmen`
+## Skill: `strafanzeige-vs-strafantrag-158`
 
-_Wenn es um Umweltstraftaten Paragrafen 324 ff. StGB in Strafanzeige-Vorbereiter geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt._
+_Für Strafanzeige vs. Strafantrag Paragraf 158 StPO: erstellt Entwurf mit Antrag, Beweis und Anlagen; Ergebnis: Schriftsatz mit Begründungs- und Anlagenlogik._
 
-# Umweltstraftaten §§ 324 ff. StGB
+# Strafanzeige vs. Strafantrag § 158 StPO
 
 ## Arbeitsweg
 
@@ -271,7 +236,46 @@ _Wenn es um Umweltstraftaten Paragrafen 324 ff. StGB in Strafanzeige-Vorbereiter
 
 ## Norm- und Quellenanker
 
-StGB §§ 324 ff.; KrWG; WHG; BImSchG.
+StPO §§ 158, 374; StGB §§ 77 ff.; Spezialgesetze mit Antragsdelikten.
+
+## Normen & Rechtsprechung
+
+Konkret zu prüfen:
+
+- § 77 StGB
+- § 77b StGB (3-Monats-Antragsfrist)
+- § 77a StGB (Antragsrücknahme)
+- § 158 StPO
+
+## Red Flags
+
+- Antragsfrist versäumt
+- falscher Antragsteller
+- Anzeige als Antrag missverstanden
+
+## Arbeitsstil
+
+Erst bremsen, dann prüfen, dann schreiben: nur Tatsachen behaupten, Vermutungen als Vermutung kennzeichnen, entlastende Umstände nicht unterschlagen, Strafantragsfristen prüfen und Strafrecht nicht als unlauteres Druckmittel benutzen.
+
+---
+
+## Skill: `ueblerede-verleumdung-186-187`
+
+_Für Üble Nachrede und Verleumdung vermeiden: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Schnittstellenkarte mit Zuständigkeits- und Nachweisfragen._
+
+# Üble Nachrede und Verleumdung vermeiden
+
+## Arbeitsweg
+
+- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
+- Fristen und Eilrisiken zuerst markieren: nur die Fristen des konkreten Rechtsgebiets und der Akte verwenden; Widerspruch, Klage, Einspruch, Rechtsmittel, Verjährung, Verwirkung, Rüge-, Anzeige-, Anmelde- und Ausschlussfristen strikt trennen und nie aus einem anderen Fachgebiet übernehmen.
+- Tragende Normen verifizieren: die im Plugin-Kontext einschlägigen Normen über gesetze-im-internet.de, dejure.org, eur-lex.europa.eu und die amtlichen Bundes-/Landesportale live prüfen — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
+- Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
+- Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
+
+## Norm- und Quellenanker
+
+StGB §§ 186, 187; BGB §§ 823, 1004 analog.
 
 ## Normen & Rechtsprechung
 
@@ -284,209 +288,9 @@ Konkret zu prüfen:
 
 ## Red Flags
 
-- Probenkette unsauber
-- Betreten fremder Grundstücke
-- Genehmigung unbekannt
-
-## Arbeitsstil
-
-Erst bremsen, dann prüfen, dann schreiben: nur Tatsachen behaupten, Vermutungen als Vermutung kennzeichnen, entlastende Umstände nicht unterschlagen, Strafantragsfristen prüfen und Strafrecht nicht als unlauteres Druckmittel benutzen.
-
----
-
-## Skill: `falsche-verdaechtigung-164`
-
-_Wenn es um Falsche Verdächtigung Paragraf 164 StGB in Strafanzeige-Vorbereiter geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt._
-
-# Falsche Verdächtigung § 164 StGB
-
-## Arbeitsweg
-
-- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
-- Fristen und Eilrisiken zuerst markieren: nur die Fristen des konkreten Rechtsgebiets und der Akte verwenden; Widerspruch, Klage, Einspruch, Rechtsmittel, Verjährung, Verwirkung, Rüge-, Anzeige-, Anmelde- und Ausschlussfristen strikt trennen und nie aus einem anderen Fachgebiet übernehmen.
-- Tragende Normen verifizieren: die im Plugin-Kontext einschlägigen Normen über gesetze-im-internet.de, dejure.org, eur-lex.europa.eu und die amtlichen Bundes-/Landesportale live prüfen — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
-- Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
-- Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
-
-## Norm- und Quellenanker
-
-StGB § 164; StPO § 158; BGB § 823.
-
-## Normen & Rechtsprechung
-
-Konkret zu prüfen:
-
-- § 158 StPO (Strafanzeige, Strafantrag)
-- § 152 Abs. 2 StPO (Anfangsverdacht)
-- § 160 StPO (Erforschungspflicht)
-- § 170 StPO (Anklage oder Einstellung)
-
-## Red Flags
-
-- bewusst falscher Tätername
-- Entlastendes verschwiegen
-- Rachemotiv
-
-## Arbeitsstil
-
-Erst bremsen, dann prüfen, dann schreiben: nur Tatsachen behaupten, Vermutungen als Vermutung kennzeichnen, entlastende Umstände nicht unterschlagen, Strafantragsfristen prüfen und Strafrecht nicht als unlauteres Druckmittel benutzen.
-
----
-
-## Skill: `unternehmen-internal-investigation`
-
-_Wenn es um Unternehmen und Internal Investigation in Strafanzeige-Vorbereiter geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt._
-
-# Unternehmen und Internal Investigation
-
-## Arbeitsweg
-
-- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
-- Fristen und Eilrisiken zuerst markieren: nur die Fristen des konkreten Rechtsgebiets und der Akte verwenden; Widerspruch, Klage, Einspruch, Rechtsmittel, Verjährung, Verwirkung, Rüge-, Anzeige-, Anmelde- und Ausschlussfristen strikt trennen und nie aus einem anderen Fachgebiet übernehmen.
-- Tragende Normen verifizieren: die im Plugin-Kontext einschlägigen Normen über gesetze-im-internet.de, dejure.org, eur-lex.europa.eu und die amtlichen Bundes-/Landesportale live prüfen — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
-- Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
-- Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
-
-## Norm- und Quellenanker
-
-StPO; DSGVO; BetrVG; Arbeitsrecht; OWiG § 30.
-
-## Normen & Rechtsprechung
-
-Konkret zu prüfen:
-
-- § 158 StPO (Strafanzeige, Strafantrag)
-- § 152 Abs. 2 StPO (Anfangsverdacht)
-- § 160 StPO (Erforschungspflicht)
-- § 170 StPO (Anklage oder Einstellung)
-
-## Red Flags
-
-- Honeypot für Durchsuchung
-- Interviews ohne Belehrung
-- Datenzugriff rechtswidrig
-
-## Arbeitsstil
-
-Erst bremsen, dann prüfen, dann schreiben: nur Tatsachen behaupten, Vermutungen als Vermutung kennzeichnen, entlastende Umstände nicht unterschlagen, Strafantragsfristen prüfen und Strafrecht nicht als unlauteres Druckmittel benutzen.
-
----
-
-## Skill: `beleidigung-betrug`
-
-_Wenn es um Beleidigung Paragrafen 185. 194 StGB in Strafanzeige-Vorbereiter geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt._
-
-# Beleidigung §§ 185, 194 StGB
-
-## Arbeitsweg
-
-- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
-- Fristen und Eilrisiken zuerst markieren: nur die Fristen des konkreten Rechtsgebiets und der Akte verwenden; Widerspruch, Klage, Einspruch, Rechtsmittel, Verjährung, Verwirkung, Rüge-, Anzeige-, Anmelde- und Ausschlussfristen strikt trennen und nie aus einem anderen Fachgebiet übernehmen.
-- Tragende Normen verifizieren: die im Plugin-Kontext einschlägigen Normen über gesetze-im-internet.de, dejure.org, eur-lex.europa.eu und die amtlichen Bundes-/Landesportale live prüfen — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
-- Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
-- Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
-
-## Norm- und Quellenanker
-
-StGB §§ 185, 194; GG Art. 5; StPO § 158.
-
-## Normen & Rechtsprechung
-
-Konkret zu prüfen:
-
-- § 263 StGB (Betrug)
-- § 263 Abs. 3 StGB (besonders schwerer Fall)
-- BGHSt 51, 165 (Saldierungsprinzip)
-- BVerfGE 126, 170 (bezifferbarer Schaden)
-- § 185 StGB (Beleidigung)
-- § 186 StGB (üble Nachrede)
-- § 187 StGB (Verleumdung)
-- § 188 StGB
-- § 194 StGB (Strafantrag)
-
-## Red Flags
-
-- Zitat ungenau
-- Satire/Meinung ignoriert
-- Antragsfrist
-
-## Arbeitsstil
-
-Erst bremsen, dann prüfen, dann schreiben: nur Tatsachen behaupten, Vermutungen als Vermutung kennzeichnen, entlastende Umstände nicht unterschlagen, Strafantragsfristen prüfen und Strafrecht nicht als unlauteres Druckmittel benutzen.
-
----
-
-## Skill: `onlinewache-opferschutz`
-
-_Wenn es um Onlinewache oder Staatsanwaltschaft? in Strafanzeige-Vorbereiter geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt._
-
-# Onlinewache oder Staatsanwaltschaft?
-
-## Arbeitsweg
-
-- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
-- Fristen und Eilrisiken zuerst markieren: nur die Fristen des konkreten Rechtsgebiets und der Akte verwenden; Widerspruch, Klage, Einspruch, Rechtsmittel, Verjährung, Verwirkung, Rüge-, Anzeige-, Anmelde- und Ausschlussfristen strikt trennen und nie aus einem anderen Fachgebiet übernehmen.
-- Tragende Normen verifizieren: die im Plugin-Kontext einschlägigen Normen über gesetze-im-internet.de, dejure.org, eur-lex.europa.eu und die amtlichen Bundes-/Landesportale live prüfen — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
-- Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
-- Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
-
-## Norm- und Quellenanker
-
-StPO § 158; Spezialzuständigkeiten; Landespolizei-Portale live prüfen.
-
-## Normen & Rechtsprechung
-
-Konkret zu prüfen:
-
-- § 158 StPO (Strafanzeige, Strafantrag)
-- § 152 Abs. 2 StPO (Anfangsverdacht)
-- § 160 StPO (Erforschungspflicht)
-- § 170 StPO (Anklage oder Einstellung)
-
-## Red Flags
-
-- falsches Bundesland
-- Originalbeweise hochgeladen ohne Kopie
-- Notfall online gemeldet
-
-## Arbeitsstil
-
-Erst bremsen, dann prüfen, dann schreiben: nur Tatsachen behaupten, Vermutungen als Vermutung kennzeichnen, entlastende Umstände nicht unterschlagen, Strafantragsfristen prüfen und Strafrecht nicht als unlauteres Druckmittel benutzen.
-
----
-
-## Skill: `kreditgefaehrdung-minderjaehrige`
-
-_Wenn es um Kreditgefährdung Paragraf 824 BGB in Strafanzeige-Vorbereiter geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt._
-
-# Kreditgefährdung § 824 BGB
-
-## Arbeitsweg
-
-- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
-- Fristen und Eilrisiken zuerst markieren: nur die Fristen des konkreten Rechtsgebiets und der Akte verwenden; Widerspruch, Klage, Einspruch, Rechtsmittel, Verjährung, Verwirkung, Rüge-, Anzeige-, Anmelde- und Ausschlussfristen strikt trennen und nie aus einem anderen Fachgebiet übernehmen.
-- Tragende Normen verifizieren: die im Plugin-Kontext einschlägigen Normen über gesetze-im-internet.de, dejure.org, eur-lex.europa.eu und die amtlichen Bundes-/Landesportale live prüfen — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
-- Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
-- Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
-
-## Norm- und Quellenanker
-
-BGB § 824; StGB §§ 186, 187; UWG bei Wettbewerbern.
-
-## Normen & Rechtsprechung
-
-Konkret zu prüfen:
-
-- § 158 StPO (Strafanzeige, Strafantrag)
-- § 152 Abs. 2 StPO (Anfangsverdacht)
-- § 160 StPO (Erforschungspflicht)
-- § 170 StPO (Anklage oder Einstellung)
-
-## Red Flags
-
-- Bank/Kunden informiert
-- Insolvenzbehauptung ungeprüft
-- Wettbewerberkonflikt
+- Anzeige in CC an Kunden
+- Social-Media-Pranger
+- Beweis fehlt
 
 ## Arbeitsstil
 
@@ -496,7 +300,7 @@ Erst bremsen, dann prüfen, dann schreiben: nur Tatsachen behaupten, Vermutungen
 
 ## Skill: `kaltstart-routing`
 
-_Wenn es um Strafanzeige: Kaltstart mit Sicherheitsbremse in Strafanzeige-Vorbereiter geht: klärt Rolle, Ziel, Frist, Unterlagen und den passenden nächsten Fachskill; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik._
+_Für Strafanzeige: Kaltstart mit Sicherheitsbremse: routet Rolle, Frist, Unterlagen und Fachschritt; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt._
 
 # Strafanzeige: Kaltstart mit Sicherheitsbremse
 
@@ -541,11 +345,11 @@ Erst bremsen, dann prüfen, dann schreiben: nur Tatsachen behaupten, Vermutungen
 
 ---
 
-## Skill: `rechtsfolgen-ruecknahme`
+## Skill: `wer-zeugenliste`
 
-_Wenn es um Rechtsfolgen und Zivilstrategie in Strafanzeige-Vorbereiter geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt._
+_Für Sachverhalt: wer, was, wann, wo, wie: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Schnittstellenkarte mit Zuständigkeits- und Nachweisfragen._
 
-# Rechtsfolgen und Zivilstrategie
+# Sachverhalt: wer, was, wann, wo, wie
 
 ## Arbeitsweg
 
@@ -557,7 +361,7 @@ _Wenn es um Rechtsfolgen und Zivilstrategie in Strafanzeige-Vorbereiter geht: or
 
 ## Norm- und Quellenanker
 
-BGB; ZPO; StPO Adhäsion; Fachrecht.
+StPO § 158; StGB je Delikt.
 
 ## Normen & Rechtsprechung
 
@@ -570,9 +374,9 @@ Konkret zu prüfen:
 
 ## Red Flags
 
-- Anzeige ersetzt Mahnung
-- EV-Dringlichkeit verspielt
-- Versicherung nicht informiert
+- Tatzeit fehlt
+- mehrere Vorfälle vermischt
+- Rechtswertungen statt Tatsachen
 
 ## Arbeitsstil
 
@@ -580,11 +384,11 @@ Erst bremsen, dann prüfen, dann schreiben: nur Tatsachen behaupten, Vermutungen
 
 ---
 
-## Skill: `strafanzeige-vs-strafantrag-158`
+## Skill: `geschgehg-haeusliche`
 
-_Wenn es um Strafanzeige vs. Strafantrag Paragraf 158 StPO in Strafanzeige-Vorbereiter geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik._
+_Für GeschGehG Paragraf 23 Strafanzeige: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Schnittstellenkarte mit Zuständigkeits- und Nachweisfragen._
 
-# Strafanzeige vs. Strafantrag § 158 StPO
+# GeschGehG § 23 Strafanzeige
 
 ## Arbeitsweg
 
@@ -596,64 +400,22 @@ _Wenn es um Strafanzeige vs. Strafantrag Paragraf 158 StPO in Strafanzeige-Vorbe
 
 ## Norm- und Quellenanker
 
-StPO §§ 158, 374; StGB §§ 77 ff.; Spezialgesetze mit Antragsdelikten.
+GeschGehG § 23; StGB § 77b; GeschGehG §§ 2, 4.
 
 ## Normen & Rechtsprechung
 
 Konkret zu prüfen:
 
-- § 77 StGB
-- § 77b StGB (3-Monats-Antragsfrist)
-- § 77a StGB (Antragsrücknahme)
-- § 158 StPO
+- § 158 StPO (Strafanzeige, Strafantrag)
+- § 152 Abs. 2 StPO (Anfangsverdacht)
+- § 160 StPO (Erforschungspflicht)
+- § 170 StPO (Anklage oder Einstellung)
 
 ## Red Flags
 
-- Antragsfrist versäumt
-- falscher Antragsteller
-- Anzeige als Antrag missverstanden
-
-## Arbeitsstil
-
-Erst bremsen, dann prüfen, dann schreiben: nur Tatsachen behaupten, Vermutungen als Vermutung kennzeichnen, entlastende Umstände nicht unterschlagen, Strafantragsfristen prüfen und Strafrecht nicht als unlauteres Druckmittel benutzen.
-
----
-
-## Skill: `computerbetrug-phishing`
-
-_Wenn es um Computerbetrug und Phishing in Strafanzeige-Vorbereiter geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt._
-
-# Computerbetrug und Phishing
-
-## Arbeitsweg
-
-- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
-- Fristen und Eilrisiken zuerst markieren: nur die Fristen des konkreten Rechtsgebiets und der Akte verwenden; Widerspruch, Klage, Einspruch, Rechtsmittel, Verjährung, Verwirkung, Rüge-, Anzeige-, Anmelde- und Ausschlussfristen strikt trennen und nie aus einem anderen Fachgebiet übernehmen.
-- Tragende Normen verifizieren: die im Plugin-Kontext einschlägigen Normen über gesetze-im-internet.de, dejure.org, eur-lex.europa.eu und die amtlichen Bundes-/Landesportale live prüfen — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
-- Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
-- Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
-
-## Norm- und Quellenanker
-
-StGB § 263a; §§ 202a ff.; BGB Zahlungsdienste §§ 675u ff.
-
-## Normen & Rechtsprechung
-
-Konkret zu prüfen:
-
-- § 263 StGB (Betrug)
-- § 263 Abs. 3 StGB (besonders schwerer Fall)
-- BGHSt 51, 165 (Saldierungsprinzip)
-- BVerfGE 126, 170 (bezifferbarer Schaden)
-- § 263a StGB (Computerbetrug)
-- § 269 StGB (Datenfälschung)
-- § 270 StGB
-
-## Red Flags
-
-- Bankfrist versäumt
-- Geräte nicht gesichert
-- Logs fehlen
+- Geheimnis nicht konkret
+- keine NDA/Zugriffskontrolle
+- zu viel Geheimnis in Anzeige offenbart
 
 ## Arbeitsstil
 
@@ -663,7 +425,7 @@ Erst bremsen, dann prüfen, dann schreiben: nur Tatsachen behaupten, Vermutungen
 
 ## Skill: `koerperverletzung-korruption`
 
-_Wenn es um Körperverletzung Paragrafen 223. 230 StGB in Strafanzeige-Vorbereiter geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik._
+_Für Körperverletzung nach Paragrafen 223 und 230 StGB: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt._
 
 # Körperverletzung nach Paragrafen 223 und 230 StGB
 
@@ -694,6 +456,246 @@ Konkret zu prüfen:
 - Paragraf 223 StGB ohne Prüfung von Strafantrag, Antragsfrist und besonderem öffentlichen Interesse als stets von Amts wegen verfolgbar behandeln
 - Fotos ohne Datum
 - Notwehrlage ungeprüft
+
+## Arbeitsstil
+
+Erst bremsen, dann prüfen, dann schreiben: nur Tatsachen behaupten, Vermutungen als Vermutung kennzeichnen, entlastende Umstände nicht unterschlagen, Strafantragsfristen prüfen und Strafrecht nicht als unlauteres Druckmittel benutzen.
+
+---
+
+## Skill: `chatverlaeufe-emails-header`
+
+_Für Chats, E-Mails und Header sichern: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Schnittstellenkarte mit Zuständigkeits- und Nachweisfragen._
+
+# Chats, E-Mails und Header sichern
+
+## Arbeitsweg
+
+- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
+- Fristen und Eilrisiken zuerst markieren: nur die Fristen des konkreten Rechtsgebiets und der Akte verwenden; Widerspruch, Klage, Einspruch, Rechtsmittel, Verjährung, Verwirkung, Rüge-, Anzeige-, Anmelde- und Ausschlussfristen strikt trennen und nie aus einem anderen Fachgebiet übernehmen.
+- Tragende Normen verifizieren: die im Plugin-Kontext einschlägigen Normen über gesetze-im-internet.de, dejure.org, eur-lex.europa.eu und die amtlichen Bundes-/Landesportale live prüfen — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
+- Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
+- Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
+
+## Norm- und Quellenanker
+
+StPO; ZPO; DSGVO; Fernmeldegeheimnis je Kontext.
+
+## Normen & Rechtsprechung
+
+Konkret zu prüfen:
+
+- § 158 StPO (Strafanzeige, Strafantrag)
+- § 152 Abs. 2 StPO (Anfangsverdacht)
+- § 160 StPO (Erforschungspflicht)
+- § 170 StPO (Anklage oder Einstellung)
+
+## Red Flags
+
+- einzelne Chatfetzen
+- Header fehlen
+- Weiterleitung verändert Beweis
+
+## Arbeitsstil
+
+Erst bremsen, dann prüfen, dann schreiben: nur Tatsachen behaupten, Vermutungen als Vermutung kennzeichnen, entlastende Umstände nicht unterschlagen, Strafantragsfristen prüfen und Strafrecht nicht als unlauteres Druckmittel benutzen.
+
+---
+
+## Skill: `anfangsverdacht-anlagenverzeichnis`
+
+_Für Anfangsverdacht nach Paragrafen 152. 160 StPO: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt._
+
+# Anfangsverdacht nach §§ 152, 160 StPO
+
+## Arbeitsweg
+
+- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
+- Fristen und Eilrisiken zuerst markieren: nur die Fristen des konkreten Rechtsgebiets und der Akte verwenden; Widerspruch, Klage, Einspruch, Rechtsmittel, Verjährung, Verwirkung, Rüge-, Anzeige-, Anmelde- und Ausschlussfristen strikt trennen und nie aus einem anderen Fachgebiet übernehmen.
+- Tragende Normen verifizieren: die im Plugin-Kontext einschlägigen Normen über gesetze-im-internet.de, dejure.org, eur-lex.europa.eu und die amtlichen Bundes-/Landesportale live prüfen — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
+- Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
+- Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
+
+## Norm- und Quellenanker
+
+StPO §§ 152 Abs. 2, 160, 158; RiStBV live prüfen.
+
+## Normen & Rechtsprechung
+
+Konkret zu prüfen:
+
+- § 152 Abs. 2 StPO (Anfangsverdacht)
+- § 160 Abs. 1, 2 StPO
+- Nr. 6 ff. RiStBV
+- BVerfG NJW 1994, 783
+- § 168b StPO
+- § 110 StPO
+- Nr. 9-13 RiStBV
+
+## Red Flags
+
+- nur „das kann kein Zufall sein“
+- keine Tatzeit
+- keine Handlung des Beschuldigten
+
+## Arbeitsstil
+
+Erst bremsen, dann prüfen, dann schreiben: nur Tatsachen behaupten, Vermutungen als Vermutung kennzeichnen, entlastende Umstände nicht unterschlagen, Strafantragsfristen prüfen und Strafrecht nicht als unlauteres Druckmittel benutzen.
+
+---
+
+## Skill: `antragsdelikte-strafantrag`
+
+_Für Antragsdelikte und Drei-Monats-Frist: erstellt Entwurf mit Antrag, Beweis und Anlagen; Ergebnis: Schriftsatz mit Begründungs- und Anlagenlogik._
+
+# Antragsdelikte und Drei-Monats-Frist
+
+## Arbeitsweg
+
+- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
+- Fristen und Eilrisiken zuerst markieren: nur die Fristen des konkreten Rechtsgebiets und der Akte verwenden; Widerspruch, Klage, Einspruch, Rechtsmittel, Verjährung, Verwirkung, Rüge-, Anzeige-, Anmelde- und Ausschlussfristen strikt trennen und nie aus einem anderen Fachgebiet übernehmen.
+- Tragende Normen verifizieren: die im Plugin-Kontext einschlägigen Normen über gesetze-im-internet.de, dejure.org, eur-lex.europa.eu und die amtlichen Bundes-/Landesportale live prüfen — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
+- Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
+- Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
+
+## Norm- und Quellenanker
+
+StGB §§ 77, 77a, 77b, 77d; StPO § 158; jeweiliger Straftatbestand.
+
+## Normen & Rechtsprechung
+
+Konkret zu prüfen:
+
+- § 77 StGB (Strafantrag)
+- § 77b StGB (3-Monats-Frist)
+- § 77 Abs. 1 StGB (Antragsberechtigung)
+- § 158 Abs. 2 StPO (Form)
+- § 77 StGB
+- § 77b StGB (3-Monats-Antragsfrist)
+- § 77a StGB (Antragsrücknahme)
+- § 158 StPO
+
+## Red Flags
+
+- Kenntnisdatum unklar
+- Antrag nur mündlich behauptet
+- Rücknahmefolgen ungeprüft
+
+## Arbeitsstil
+
+Erst bremsen, dann prüfen, dann schreiben: nur Tatsachen behaupten, Vermutungen als Vermutung kennzeichnen, entlastende Umstände nicht unterschlagen, Strafantragsfristen prüfen und Strafrecht nicht als unlauteres Druckmittel benutzen.
+
+---
+
+## Skill: `international-klageerzwingung`
+
+_Für Internationale Anzeigen und EU-Bezug: erstellt Entwurf mit Antrag, Beweis und Anlagen; Ergebnis: Schriftsatz mit Begründungs- und Anlagenlogik._
+
+# Internationale Anzeigen und EU-Bezug
+
+## Arbeitsweg
+
+- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
+- Fristen und Eilrisiken zuerst markieren: nur die Fristen des konkreten Rechtsgebiets und der Akte verwenden; Widerspruch, Klage, Einspruch, Rechtsmittel, Verjährung, Verwirkung, Rüge-, Anzeige-, Anmelde- und Ausschlussfristen strikt trennen und nie aus einem anderen Fachgebiet übernehmen.
+- Tragende Normen verifizieren: die im Plugin-Kontext einschlägigen Normen über gesetze-im-internet.de, dejure.org, eur-lex.europa.eu und die amtlichen Bundes-/Landesportale live prüfen — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
+- Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
+- Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
+
+## Norm- und Quellenanker
+
+StPO §§ 3 ff., 158; EU-Rechtshilfe; IRG.
+
+## Normen & Rechtsprechung
+
+Konkret zu prüfen:
+
+- § 172 StPO (Klageerzwingungsverfahren)
+- § 173 StPO
+- § 175 StPO
+
+## Red Flags
+
+- ausländische Behörde falsch
+- Beweise nicht übersetzt
+- Zuständigkeit unklar
+
+## Arbeitsstil
+
+Erst bremsen, dann prüfen, dann schreiben: nur Tatsachen behaupten, Vermutungen als Vermutung kennzeichnen, entlastende Umstände nicht unterschlagen, Strafantragsfristen prüfen und Strafrecht nicht als unlauteres Druckmittel benutzen.
+
+---
+
+## Skill: `zeugenliste-kontakt`
+
+_Für Zeugenliste und Kontaktregeln: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Schnittstellenkarte mit Zuständigkeits- und Nachweisfragen._
+
+# Zeugenliste und Kontaktregeln
+
+## Arbeitsweg
+
+- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
+- Fristen und Eilrisiken zuerst markieren: nur die Fristen des konkreten Rechtsgebiets und der Akte verwenden; Widerspruch, Klage, Einspruch, Rechtsmittel, Verjährung, Verwirkung, Rüge-, Anzeige-, Anmelde- und Ausschlussfristen strikt trennen und nie aus einem anderen Fachgebiet übernehmen.
+- Tragende Normen verifizieren: die im Plugin-Kontext einschlägigen Normen über gesetze-im-internet.de, dejure.org, eur-lex.europa.eu und die amtlichen Bundes-/Landesportale live prüfen — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
+- Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
+- Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
+
+## Norm- und Quellenanker
+
+StPO; StGB Aussagedelikte als Risiko.
+
+## Normen & Rechtsprechung
+
+Konkret zu prüfen:
+
+- § 158 StPO (Strafanzeige, Strafantrag)
+- § 152 Abs. 2 StPO (Anfangsverdacht)
+- § 160 StPO (Erforschungspflicht)
+- § 170 StPO (Anklage oder Einstellung)
+
+## Red Flags
+
+- Zeugen instruiert
+- Hörensagen als Wahrnehmung
+- Kontaktdaten fehlen
+
+## Arbeitsstil
+
+Erst bremsen, dann prüfen, dann schreiben: nur Tatsachen behaupten, Vermutungen als Vermutung kennzeichnen, entlastende Umstände nicht unterschlagen, Strafantragsfristen prüfen und Strafrecht nicht als unlauteres Druckmittel benutzen.
+
+---
+
+## Skill: `haeusliche-gewalt-gewschg`
+
+_Für Häusliche Gewalt und GewSchG: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Schnittstellenkarte mit Zuständigkeits- und Nachweisfragen._
+
+# Häusliche Gewalt und GewSchG
+
+## Arbeitsweg
+
+- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
+- Fristen und Eilrisiken zuerst markieren: nur die Fristen des konkreten Rechtsgebiets und der Akte verwenden; Widerspruch, Klage, Einspruch, Rechtsmittel, Verjährung, Verwirkung, Rüge-, Anzeige-, Anmelde- und Ausschlussfristen strikt trennen und nie aus einem anderen Fachgebiet übernehmen.
+- Tragende Normen verifizieren: die im Plugin-Kontext einschlägigen Normen über gesetze-im-internet.de, dejure.org, eur-lex.europa.eu und die amtlichen Bundes-/Landesportale live prüfen — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
+- Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
+- Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
+
+## Norm- und Quellenanker
+
+StGB §§ 223 ff., 240, 241; GewSchG; StPO.
+
+## Normen & Rechtsprechung
+
+Konkret zu prüfen:
+
+- §§ 223, 224 StGB
+- § 238 StGB
+- § 4 GewSchG
+- § 52 StPO (Zeugnisverweigerungsrecht Angehöriger)
+
+## Red Flags
+
+- akute Gefahr nur schriftlich
+- Beweise beim Tätergerät
+- Adresse gefährdet
 
 ## Arbeitsstil
 

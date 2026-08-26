@@ -1,6 +1,6 @@
 ---
 name: beirat-datenschutz-und-ki
-description: "Wenn es um Beirat Datenschutz Und digitale Werkzeuge in Gesellschaftsrecht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen."
+description: "Für Beirat Datenschutz und digitale Werkzeuge: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt. Fachgebiet: Gesellschaftsrecht."
 ---
 
 # Beirat Datenschutz Und KI

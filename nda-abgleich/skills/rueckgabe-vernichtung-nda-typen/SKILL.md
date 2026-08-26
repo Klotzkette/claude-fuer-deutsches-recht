@@ -1,6 +1,6 @@
 ---
 name: rueckgabe-vernichtung-nda-typen
-description: "Wenn es um NDA: Rueckgabe/Vernichtung in NDA-Abgleich geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. Auswahlstichwort: Rueckgabe Vernichtung Nda Typen; Arbeitsfeld: NDA-Abgleich."
+description: "Für NDA: Rückgabe/Vernichtung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt. Fachgebiet: NDA-Abgleich. Route: rueckgabe-vernichtung-nda-typen."
 ---
 
 # NDA: Rueckgabe/Vernichtung

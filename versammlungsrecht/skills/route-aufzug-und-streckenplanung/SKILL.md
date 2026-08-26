@@ -1,6 +1,6 @@
 ---
 name: route-aufzug-und-streckenplanung
-description: "Wenn es um Route ist Teil der Botschaft in Versammlungsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Route ist Teil der Botschaft: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Route ist Teil der Botschaft

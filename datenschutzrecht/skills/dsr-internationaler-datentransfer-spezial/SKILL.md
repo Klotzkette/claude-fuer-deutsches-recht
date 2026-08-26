@@ -1,6 +1,6 @@
 ---
 name: dsr-internationaler-datentransfer-spezial
-description: "Wenn es um DSR: Internationaler Datentransfer in Datenschutzrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für DSR: Internationaler Datentransfer: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Schnittstellenkarte mit Zuständigkeits- und Nachweisfragen."
 ---
 
 # DSR: Internationaler Datentransfer

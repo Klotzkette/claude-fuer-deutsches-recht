@@ -1,6 +1,6 @@
 ---
 name: unterzeichnung-elektronisch-wandelereignis
-description: "Wenn es um Elektronische Unterzeichnung (DocuSign / Adobe Sign) in Wandeldarlehen-Lebenszyklus geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
+description: "Für Elektronische Unterzeichnung (DocuSign / Adobe Sign): ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Elektronische Unterzeichnung (DocuSign / Adobe Sign)

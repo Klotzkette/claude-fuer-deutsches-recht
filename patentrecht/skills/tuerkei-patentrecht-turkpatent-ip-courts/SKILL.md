@@ -1,6 +1,6 @@
 ---
 name: tuerkei-patentrecht-turkpatent-ip-courts
-description: "Wenn es um Türkei: TURKPATENT und IP-Gerichte in patentrecht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert einen Einreichungsplan mit Form-, Portal- und Nachweischeck."
+description: "Für Türkei: TURKPATENT und IP-Gerichte: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Türkei: TURKPATENT und IP-Gerichte

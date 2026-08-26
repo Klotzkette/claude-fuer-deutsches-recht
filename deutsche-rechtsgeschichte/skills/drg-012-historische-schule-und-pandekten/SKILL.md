@@ -1,6 +1,6 @@
 ---
 name: drg-012-historische-schule-und-pandekten
-description: "Wenn es um Historische Schule Und Pandekten in Deutsche Rechtsgeschichte geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Historische Schule und Pandekten: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Historische Schule Und Pandekten

@@ -1,6 +1,6 @@
 ---
 name: grundbuchamt-insolvenz-auslaendischer-trustee
-description: "Wenn es um Ausländischer Insolvenzwalter in Grundbuchamt Praxis geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Ausländischer Insolvenzwalter: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Ausländischer Insolvenzwalter

@@ -1,6 +1,6 @@
 ---
 name: versicherungsprozess-versandmappe-endfertigen
-description: "Endfertigt Deckungs-, Leistungs-, Rücktritts-, Anfechtungs- und Regressschriftsätze im Versicherungsrecht: liest Antrag, Police, Bedingungen, Nachträge, Risikofragen, Schadenanzeige, Regulierung und Gutachten zuerst, prüft Antrag, Obliegenheit, Kausalität und Bezifferung, ordnet Vertrags- und Schadenbelege zu und liefert beA-Einzeldateien mit Bedingungs- und Betragskontrolle."
+description: "Endfertigt Deckungs-, Leistungs-, Rücktritts-, Anfechtungs- und Regressschriftsätze im Versicherungsrecht: liest Antrag, Police, Bedingungen, Nachträge, Risikofragen, Schadenanzeige, Regulierung und Gutachten zuerst, prüft Antrag, Obliegenheit, Kausalität und Bezifferung, ordnet Vertrags- und Schadenbelege zu und liefert beA-Einzeldateien mit Bedingungs-."
 ---
 
 # Versicherungsprozess-Versandmappe endfertigen

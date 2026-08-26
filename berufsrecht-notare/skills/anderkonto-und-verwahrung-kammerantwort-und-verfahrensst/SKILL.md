@@ -1,6 +1,6 @@
 ---
 name: anderkonto-und-verwahrung-kammerantwort-und-verfahrensst
-description: "Wenn es um Anderkonto Und Verwahrung Kammerantwort Und Verfahrensst in Berufsrecht Notare geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Verhandlungs- oder Eskalationslinie mit Optionen."
+description: "Für Anderkonto und Verwahrung Kammerantwort und Verfahrensst: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Notare: anderkonto und verwahrung - Kammerantwort mit Verfahrensstrategie, Tonlage und Belegplan

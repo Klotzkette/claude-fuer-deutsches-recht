@@ -1,6 +1,6 @@
 ---
 name: gesetzesverstoss-und-817-satz-2-vertiefung
-description: "Wenn es um Gesetzesverstoß und Paragraf 817 Satz 2 vertieft in bereicherungs-und-anfechtungsrecht-prüfer geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Gesetzesverstoß und Paragraf 817 Satz 2 vertieft: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Gesetzesverstoß und § 817 Satz 2 vertieft

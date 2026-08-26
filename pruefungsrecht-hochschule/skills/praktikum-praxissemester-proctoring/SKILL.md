@@ -1,6 +1,6 @@
 ---
 name: praktikum-praxissemester-proctoring
-description: "Wenn es um Praktikum Und Praxissemester in Prüfungsrecht an Hochschulen und Universitäten geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Praktikum und Praxissemester: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Praktikum Und Praxissemester

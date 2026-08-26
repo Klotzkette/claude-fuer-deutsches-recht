@@ -1,6 +1,6 @@
 ---
 name: bafin-kommunikation-und-anhoerung
-description: "Wenn es um BaFin-Anhörung und Aufsichtsschreiben in Bank-Rechtsabteilung geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für BaFin-Anhörung und Aufsichtsschreiben: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # BaFin-Anhörung und Aufsichtsschreiben

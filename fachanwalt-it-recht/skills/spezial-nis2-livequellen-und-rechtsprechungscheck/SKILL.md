@@ -1,6 +1,6 @@
 ---
 name: spezial-nis2-livequellen-und-rechtsprechungscheck
-description: "Wenn es um Nis2: Livequellen- und Rechtsprechungscheck in Fachanwalt It Recht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Nis2: Livequellen- und Rechtsprechungscheck: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Nis2: Livequellen- und Rechtsprechungscheck

@@ -1,6 +1,6 @@
 ---
 name: flugportal-umsetzung-ueberwachen
-description: "Wenn es um Flugportal Umsetzung Ueberwachen in Verbraucherschutzverband Durchsetzung geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Flugportal Umsetzung Überwachen: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Einreichungsplan mit Form- und Nachweischeck."
 ---
 
 # Flugportal Umsetzung Ueberwachen

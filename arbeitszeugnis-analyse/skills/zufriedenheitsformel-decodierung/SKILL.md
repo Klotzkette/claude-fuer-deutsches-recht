@@ -1,6 +1,6 @@
 ---
 name: zufriedenheitsformel-decodierung
-description: "Wenn es um Zufriedenheitsformel-Decodierung in Arbeitszeugnis-Analyse geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Zufriedenheitsformel-Decodierung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Zufriedenheitsformel-Decodierung

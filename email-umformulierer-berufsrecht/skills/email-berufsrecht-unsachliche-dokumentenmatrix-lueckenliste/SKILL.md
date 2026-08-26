@@ -1,6 +1,6 @@
 ---
 name: email-berufsrecht-unsachliche-dokumentenmatrix-lueckenliste
-description: "Wenn es um Unsachliche: Dokumentenmatrix, Lückenliste und Nachforderung in E-Mail-Umformulierer geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Unsachliche: Dokumentenmatrix, Lückenliste und Nachforderung: ordnet Akte, Belege und Lücken; Ergebnis: Dokumentenmatrix mit Nachforderungsliste. Fachgebiet: E-Mail-Umformulierer. Route: email-berufsrecht-unsachliche-dokumentenmatrix-lueckenliste."
 ---
 
 # Unsachliche: Dokumentenmatrix, Lückenliste und Nachforderung

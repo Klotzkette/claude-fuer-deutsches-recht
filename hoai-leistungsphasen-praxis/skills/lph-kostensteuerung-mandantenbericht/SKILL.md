@@ -1,6 +1,6 @@
 ---
 name: lph-kostensteuerung-mandantenbericht
-description: "Wenn es um LPH 5 Ausführungsplanung: Prüft kostenermittlung in HOAI Leistungsphasen Praxis geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für LPH 5 Ausführungsplanung: Prüft kostenermittlung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Schnittstellenkarte mit Zuständigkeits- und Nachweisfragen."
 ---
 
 # LPH 5 Ausführungsplanung: Prüft kostenermittlung

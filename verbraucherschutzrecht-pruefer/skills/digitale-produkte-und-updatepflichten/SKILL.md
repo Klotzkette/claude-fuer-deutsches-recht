@@ -1,6 +1,6 @@
 ---
 name: digitale-produkte-und-updatepflichten
-description: "Wenn es um Digitale Produkte Und Updatepflichten in Verbraucherschutzrecht Prüfer geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Digitale Produkte und Updatepflichten: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Digitale Produkte Und Updatepflichten

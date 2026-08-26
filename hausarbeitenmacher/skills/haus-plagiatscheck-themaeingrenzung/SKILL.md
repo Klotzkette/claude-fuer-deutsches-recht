@@ -1,6 +1,6 @@
 ---
 name: haus-plagiatscheck-themaeingrenzung
-description: "Wenn es um Haus: Plagiatscheck Eigenstaendigkeit in hausarbeitenmacher — Didaktisches Plugin für juristische geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Haus: Plagiatscheck Eigenständigkeit: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Haus: Plagiatscheck Eigenstaendigkeit

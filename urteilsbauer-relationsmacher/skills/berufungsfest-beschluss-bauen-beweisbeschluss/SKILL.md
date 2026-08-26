@@ -1,6 +1,6 @@
 ---
 name: berufungsfest-beschluss-bauen-beweisbeschluss
-description: "Wenn es um Berufungsfestigkeit prüfen in Urteilsbauer und Relationsmacher geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. Auswahlstichwort: Berufungsfest Beschluss Bauen Beweisbeschluss; Arbeitsfeld: Urteilsbauer und Relationsmacher."
+description: "Für Berufungsfestigkeit prüfen: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Beweislast- und Substantiierungsmatrix."
 ---
 
 # Berufungsfestigkeit prüfen

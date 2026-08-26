@@ -1,6 +1,6 @@
 ---
 name: pachtvertrag-streitig
-description: "Bearbeitet streitige Landpachtmandate vom Aktenbestand bis zum gerichtsfesten Entwurf. Prüft Vertragsqualifikation, Form und Übergangsrecht, Anzeige und Beanstandung, Anpassung, Kündigung, Fortsetzung, Beweislast, Zuständigkeit und Streitwert; liefert Fristenblatt, Anspruchsmatrix und Schriftsatzkern."
+description: "Bearbeitet streitige Landpachtmandate vom Aktenbestand bis zum gerichtsfesten Entwurf."
 ---
 
 # Streitigen Landpachtvertrag bearbeiten

@@ -1,6 +1,6 @@
 ---
 name: geheimcode-katalog
-description: "Wenn es um Geheimcode-Katalog der Zeugnissprache in Arbeitszeugnis-Analyse geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Geheimcode-Katalog der Zeugnissprache: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Geheimcode-Katalog der Zeugnissprache

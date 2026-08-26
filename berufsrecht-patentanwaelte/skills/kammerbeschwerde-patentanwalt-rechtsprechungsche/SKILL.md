@@ -1,6 +1,6 @@
 ---
 name: kammerbeschwerde-patentanwalt-rechtsprechungsche
-description: "Wenn es um Kammerbeschwerde Patentanwalt Rechtsprechungsche in Berufsrecht Patentanwälte geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Gegenprüfung mit Fehler-, Beweis- und Fristencheck."
+description: "Für Kammerbeschwerde Patentanwalt Rechtsprechungsche: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Patentanwälte: kammerbeschwerde patentanwalt - Rechtsprechungscheck, stärkste Gegenansicht und Red-Team-Korrektur

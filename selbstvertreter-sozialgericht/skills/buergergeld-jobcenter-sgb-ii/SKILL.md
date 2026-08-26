@@ -1,6 +1,6 @@
 ---
 name: buergergeld-jobcenter-sgb-ii
-description: "Wenn es um Buergergeld — Streit mit dem Jobcenter in selbstvertreter-sozialgericht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Bürgergeld — Streit mit dem Jobcenter: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Buergergeld — Streit mit dem Jobcenter

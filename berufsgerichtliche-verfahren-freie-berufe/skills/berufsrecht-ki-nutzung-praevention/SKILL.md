@@ -1,6 +1,6 @@
 ---
 name: berufsrecht-ki-nutzung-praevention
-description: "Wenn es um Berufsrecht digitale Werkzeuge-Nutzung: Präventions- und Organisationspaket in Berufsgerichtliche Verfahren Freie Berufe geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Gegenprüfung mit Fehler-, Beweis- und Fristencheck."
+description: "Für Berufsrecht digitale Werkzeuge-Nutzung: Präventions- und Organisationspaket: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Berufsrecht KI-Nutzung: Präventions- und Organisationspaket

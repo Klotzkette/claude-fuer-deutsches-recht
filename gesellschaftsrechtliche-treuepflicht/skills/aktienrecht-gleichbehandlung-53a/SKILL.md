@@ -1,6 +1,6 @@
 ---
 name: aktienrecht-gleichbehandlung-53a
-description: "Wenn es um Aktienrecht Gleichbehandlung 53a in Gesellschaftsrechtliche Treuepflicht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen."
+description: "Für Aktienrecht Gleichbehandlung 53a: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Aktienrecht Gleichbehandlung 53a

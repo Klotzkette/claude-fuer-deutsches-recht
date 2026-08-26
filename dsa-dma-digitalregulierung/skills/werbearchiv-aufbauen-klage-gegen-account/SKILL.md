@@ -1,6 +1,6 @@
 ---
 name: werbearchiv-aufbauen-klage-gegen-account
-description: "Wenn es um DSA: Werbearchiv Art. 39 in DSA, DMA und Digitalregulierung der EU geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
+description: "Für DSA: Werbearchiv Art. 39: erstellt Entwurf mit Antrag, Beweis und Anlagen; Ergebnis: Schriftsatz mit Begründungs- und Anlagenlogik."
 ---
 
 # DSA: Werbearchiv Art. 39

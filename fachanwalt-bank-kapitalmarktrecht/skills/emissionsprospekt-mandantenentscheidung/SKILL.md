@@ -1,6 +1,6 @@
 ---
 name: emissionsprospekt-mandantenentscheidung
-description: "Wenn es um Emissionsprospekt: Mandantenkommunikation und Entscheidungsvorlage in Fachanwalt Bank Kapitalmarktrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Emissionsprospekt: Mandantenkommunikation und Entscheidungsvorlage: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Emissionsprospekt: Mandantenkommunikation und Entscheidungsvorlage

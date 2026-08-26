@@ -1,6 +1,6 @@
 ---
 name: transportvertrag-strasse-cmr
-description: "Wenn es um CMR: Straßengütertransport international in Internationales Handelsrecht und Lex Mercatoria geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für CMR: Straßengütertransport international: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # CMR: Straßengütertransport international

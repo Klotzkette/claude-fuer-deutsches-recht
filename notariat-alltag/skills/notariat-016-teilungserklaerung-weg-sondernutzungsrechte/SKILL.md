@@ -1,6 +1,6 @@
 ---
 name: notariat-016-teilungserklaerung-weg-sondernutzungsrechte
-description: "Wenn es um Notariat im Alltag: Teilungserklärung WEG Sondernutzungsrechte und Aufteilungsplan in Notariat im Alltag geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Notariat im Alltag: Teilungserklärung WEG Sondernutzungsrechte und Aufteilungsplan: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Notariat im Alltag: Teilungserklärung WEG Sondernutzungsrechte und Aufteilungsplan

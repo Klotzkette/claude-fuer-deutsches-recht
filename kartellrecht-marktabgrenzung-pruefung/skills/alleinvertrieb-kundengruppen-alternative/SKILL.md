@@ -1,6 +1,6 @@
 ---
 name: alleinvertrieb-kundengruppen-alternative
-description: "Wenn es um Alleinvertrieb Kundengruppen Gebietsschutz in Kartellrecht — Marktabgrenzungsprüfung geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen."
+description: "Für Alleinvertrieb Kundengruppen Gebietsschutz: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Alleinvertrieb Kundengruppen Gebietsschutz

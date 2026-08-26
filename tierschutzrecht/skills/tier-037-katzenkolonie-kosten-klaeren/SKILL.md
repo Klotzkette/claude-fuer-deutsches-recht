@@ -1,6 +1,6 @@
 ---
 name: tier-037-katzenkolonie-kosten-klaeren
-description: "Wenn es um Katzenkolonie Kosten Klaeren in Tierschutzrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Katzenkolonie Kosten Klären: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt. Fachgebiet: Tierschutzrecht. Route: tier-037-katzenkolonie-kosten-klaeren."
 ---
 
 # Katzenkolonie Kosten Klaeren

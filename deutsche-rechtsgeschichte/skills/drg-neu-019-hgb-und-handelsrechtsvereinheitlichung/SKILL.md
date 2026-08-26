@@ -1,6 +1,6 @@
 ---
 name: drg-neu-019-hgb-und-handelsrechtsvereinheitlichung
-description: "Wenn es um Deutsche Rechtsgeschichte: HGB und Handelsrechtsvereinheitlichung in Deutsche Rechtsgeschichte geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Deutsche Rechtsgeschichte: HGB und Handelsrechtsvereinheitlichung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Schnittstellenkarte mit Zuständigkeits- und Nachweisfragen."
 ---
 
 # Deutsche Rechtsgeschichte: HGB und Handelsrechtsvereinheitlichung

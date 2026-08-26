@@ -1,6 +1,6 @@
 ---
 name: entfristung-klageschrift-anwalt-baustein
-description: "Wenn es um Anwaltliche Klageschrift Entfristungsklage mit Hauptantrag und Hilfsanträgen in Arbeitsrecht geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Anwaltliche Klageschrift Entfristungsklage mit Hauptantrag und Hilfsanträgen: erstellt Entwurf mit Antrag, Beweis und Anlagen; Ergebnis: Fristen- und Risikoampel."
 ---
 
 # Anwaltliche Klageschrift Entfristungsklage mit Hauptantrag und Hilfsanträgen

@@ -7,15 +7,15 @@ Diese Vollprüfung enthält top-10 von 66 Skills des Plugins `apothekenrecht`.
 ## Inhaltsverzeichnis
 
 1. **juristischer-argumentationskern** — Schaltet sich ein, wenn in Apothekenrecht ein juristisches Arbeitsprodukt tragfähig begründet werden muss; verbindet kon…
-2. **kaltstart-triage** — Wenn es um Apothekenrecht — Allgemein in Apothekenrecht geht: klärt Rolle, Ziel, Frist, Unterlagen und den passenden näc…
-3. **apothekenerlaubnis-apog-persoenliche-voraussetzungen** — Wenn es um Apothekenerlaubnis ApoG persönliche Voraussetzungen in Apothekenrecht geht: ordnet Akteninhalt, Belege, Lücke…
-4. **arzneimittelrisiken-rueckruf-aufsicht** — Wenn es um Arzneimittelrisiken Rückruf Chargenrückverfolgung in Apothekenrecht geht: ordnet Akteninhalt, Belege, Lücken …
-5. **personal-pharmazeutisch-nichtpharmazeutisch-vertretung** — Wenn es um Personal pharmazeutisch nichtpharmazeutisch Vertretung in Apothekenrecht geht: ordnet Akteninhalt, Belege, Lü…
-6. **tierarzneimittel-apothekenabgabe-versand-ab-2026** — Wenn es um Tierarzneimittel Apothekenabgabe Versand ab 2026 in Apothekenrecht geht: ordnet Akteninhalt, Belege, Lücken u…
-7. **cannabis-medizinalcannabis-abgabe-dokumentation** — Wenn es um Cannabis Medizinalcannabis Abgabe Dokumentation in Apothekenrecht geht: ordnet Akteninhalt, Belege, Lücken un…
-8. **filialapotheke-hauptapotheke-leitung-vertretung** — Wenn es um Filialapotheke Hauptapotheke Leitung Vertretung in Apothekenrecht geht: ordnet Akteninhalt, Belege, Lücken un…
-9. **digitale-plattformen-marktplatz-apothekenrecht** — Wenn es um Digitale Plattformen Marktplatz Apothekenrecht in Apothekenrecht geht: ordnet Akteninhalt, Belege, Lücken und…
-10. **mietvertrag-apothekenstandort-konkurrenzschutz** — Wenn es um Mietvertrag Apothekenstandort Konkurrenzschutz in Apothekenrecht geht: ordnet Akteninhalt, Belege, Lücken und…
+2. **kaltstart-triage** — Für Apothekenrecht — Allgemein: routet Rolle, Frist, Unterlagen und Fachschritt; Ergebnis: Prüfprodukt mit Risiko und nä…
+3. **personal-pharmazeutisch-nichtpharmazeutisch-vertretung** — Für Personal pharmazeutisch nichtpharmazeutisch Vertretung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Schnitt…
+4. **pharmazeutische-dienstleistungen-preisangaben** — Für Pharmazeutische Dienstleistungen Vergütung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Schnittstellenkarte…
+5. **versandhandelserlaubnis-eu-versandapotheke** — Für Versandhandelserlaubnis EU Versandapotheke: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Schnittstellenkarte…
+6. **raeume-ausstattung-rezeptur-defektur-labor** — Für Räume Ausstattung Rezeptur Defektur Labor: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Schnittstellenkarte …
+7. **apothekenerlaubnis-apog-persoenliche-voraussetzungen** — Für Apothekenerlaubnis ApoG persönliche Voraussetzungen: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfproduk…
+8. **arzneimittelrisiken-rueckruf-aufsicht** — Für Arzneimittelrisiken Rückruf Chargenrückverfolgung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt …
+9. **tierarzneimittel-apothekenabgabe-versand-ab-2026** — Für Tierarzneimittel Apothekenabgabe Versand ab 2026: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt m…
+10. **versandhandel-e-versandhandelserlaubnis-eu** — Für Versandhandel und E-Rezept Intake: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Schnittstellenkarte mit Zust…
 
 ---
 
@@ -142,7 +142,7 @@ Ausgangspunkt für dieses Plugin: Patient oder Versicherter für Befund, Schaden
 
 ## Skill: `kaltstart-triage`
 
-_Wenn es um Apothekenrecht — Allgemein in Apothekenrecht geht: klärt Rolle, Ziel, Frist, Unterlagen und den passenden nächsten Fachskill; liefert eine Fristen- und Risikoampel mit Sofortschritten._
+_Für Apothekenrecht — Allgemein: routet Rolle, Frist, Unterlagen und Fachschritt; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt._
 
 # Apothekenrecht — Allgemein
 
@@ -303,9 +303,305 @@ Diese Tabelle wird aus dem tatsächlichen Skillbestand des Plugins gebildet. Wen
 
 ---
 
+## Skill: `personal-pharmazeutisch-nichtpharmazeutisch-vertretung`
+
+_Für Personal pharmazeutisch nichtpharmazeutisch Vertretung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Schnittstellenkarte mit Zuständigkeits- und Nachweisfragen._
+
+# Personal pharmazeutisch nichtpharmazeutisch Vertretung
+
+## Arbeitsweg
+
+- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
+- Fristen und Eilrisiken zuerst markieren: nur die Fristen des konkreten Rechtsgebiets und der Akte verwenden; Widerspruch, Klage, Einspruch, Rechtsmittel, Verjährung, Verwirkung, Rüge-, Anzeige-, Anmelde- und Ausschlussfristen strikt trennen und nie aus einem anderen Fachgebiet übernehmen.
+- Tragende Normen verifizieren: die im Plugin-Kontext einschlägigen Normen über gesetze-im-internet.de, dejure.org, eur-lex.europa.eu und die amtlichen Bundes-/Landesportale live prüfen — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
+- Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
+- Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
+
+## Fachkern: Personal pharmazeutisch nichtpharmazeutisch Vertretung
+- **Normen-/Quellenanker:** ApoG, ApBetrO, AMG, BtMG, SGB V, Heilmittelwerberecht, Versandhandel, Rezept/Retaxation, Heimversorgung und Aufsicht.
+- **Entscheidende Weiche:** Apothekenbetrieb, Abgabe, Rezept, Verantwortlichkeit, Dokumentation, Aufsicht, Retaxation und Patientensicherheit getrennt prüfen.
+- **Arbeitsprodukt:** Erzeuge eine konkrete Prüf- oder Entscheidungsmatrix mit Norm, Tatbestand, Beleg, Einwand, Risikoampel und nächstem Schritt; Anschluss-Skills nur bei echter Vertiefung nennen.
+
+## Startfragen
+- Wer fragt in welcher Rolle und welches Arbeitsergebnis wird gebraucht?
+- Welche Frist, Zuständigkeit, Behörde, Gericht oder Vertragssituation ist erkennbar?
+- Welche Dokumente, Zahlen, Registerdaten, Bescheide, Verträge oder Korrespondenz liegen vor?
+- Welche Tatsachen sind sicher, welche sind streitig und welche Annahmen müssen sichtbar markiert werden?
+- Welche live zu prüfenden Normen, Behördenhinweise oder Formulare tragen das Ergebnis?
+
+## Prüf- und Arbeitslogik
+1. **Einordnen:** Rolle, Ziel, Verfahrensstand, Vertragstyp, Behörde/Gericht, Frist und Risiken festhalten.
+2. **Normen live prüfen:** Vor tragenden Aussagen den aktuellen Stand aus amtlichen oder frei zugänglichen Quellen kontrollieren. Besonders prüfen: die im Fachkern genannten Normen-/Quellenanker, aktuellen amtlichen oder frei zugänglichen Fachquellen und die für diese Speziallage tragenden Formulare/Behördenhinweise.
+3. **Tatbestand in Elemente zerlegen:** Jedes Tatbestandsmerkmal einzeln prüfen; unklare Tatsachen als `[offen: ...]` markieren.
+4. **Belege führen:** Für jede relevante Behauptung Dokument, Datum, Absender, Anlage, Registerfund oder Quelle notieren.
+5. **Gegenansicht bauen:** Mindestens eine ernsthafte Gegenargumentation und eine Verteidigungslinie formulieren.
+6. **Ergebnis kalibrieren:** Risikoampel `grün/gelb/rot`, Handlungsempfehlung, nächster Schritt und fehlende Unterlagen ausgeben.
+
+## Qualitätsgate
+Am Ende kurz prüfen: Sind Fristen, Zuständigkeit, Rechtsgrundlage, Beweislast, Zahlen, Form und gewünschter Output vollständig? Ist erkennbar, was sicher ist und was noch Sachverhaltsarbeit braucht?
+
+---
+
+## Skill: `pharmazeutische-dienstleistungen-preisangaben`
+
+_Für Pharmazeutische Dienstleistungen Vergütung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Schnittstellenkarte mit Zuständigkeits- und Nachweisfragen._
+
+# Pharmazeutische Dienstleistungen Vergütung
+
+## Arbeitsweg
+
+- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
+- Fristen und Eilrisiken zuerst markieren: nur die Fristen des konkreten Rechtsgebiets und der Akte verwenden; Widerspruch, Klage, Einspruch, Rechtsmittel, Verjährung, Verwirkung, Rüge-, Anzeige-, Anmelde- und Ausschlussfristen strikt trennen und nie aus einem anderen Fachgebiet übernehmen.
+- Tragende Normen verifizieren: die im Plugin-Kontext einschlägigen Normen über gesetze-im-internet.de, dejure.org, eur-lex.europa.eu und die amtlichen Bundes-/Landesportale live prüfen — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
+- Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
+- Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
+
+## Fachkern: Pharmazeutische Dienstleistungen Vergütung
+- **Normen-/Quellenanker:** ApoG, ApBetrO, AMG, BtMG, SGB V, Heilmittelwerberecht, Versandhandel, Rezept/Retaxation, Heimversorgung und Aufsicht.
+- **Entscheidende Weiche:** Apothekenbetrieb, Abgabe, Rezept, Verantwortlichkeit, Dokumentation, Aufsicht, Retaxation und Patientensicherheit getrennt prüfen.
+- **Arbeitsprodukt:** Erzeuge eine konkrete Prüf- oder Entscheidungsmatrix mit Norm, Tatbestand, Beleg, Einwand, Risikoampel und nächstem Schritt; Anschluss-Skills nur bei echter Vertiefung nennen.
+
+## Worum geht es konkret
+
+Seit der ApothekenstärkungsG-Reform 2020 und nachfolgenden Vereinbarungen können Apotheken zusätzliche pharmazeutische Dienstleistungen (pDL) erbringen und gegenüber GKV abrechnen. Beispiele: erweiterte Medikationsberatung, Blutdruckmessung im Rahmen der Polymedikationsanalyse, Inhalator-Training, Beratung von Patienten mit Krebsmedikation. Die Vergütung erfolgt aus einem festen Topf (Apothekenhonorar) und ist an strikte Voraussetzungen geknüpft.
+
+## Wann dieses Modul hilft / Kaltstart-Fragen
+
+- Apotheke will pDL anbieten und abrechnen.
+- Krankenkasse weist Abrechnung zurück — formale Mängel.
+- Patient verlangt pDL — Voraussetzungen prüfen.
+- Personalqualifikation (Apotheker, Fortbildung) klären.
+- Vereinbarkeit mit ärztlicher Aufgabenverteilung.
+
+Eingaben:
+- Versicherter mit konkretem Bedarf (Polymedikation, Inhalator, neue Onkologie-Therapie).
+- Apothekenstamm-Daten in ABDA-Modulen.
+- Fortbildungsnachweise des durchführenden Apothekers.
+- Beratungsprotokoll mit standardisierten Formularen.
+
+## Rechtlicher Rahmen
+
+- **§ 1a, § 129 Abs. 5e SGB V:** Rechtsgrundlage pDL.
+- **Rahmenvertrag pDL** (zwischen DAV und GKV-Spitzenverband, Stand vom Anwender zu verifizieren) — Anlage mit Leistungskatalog, Vergütung, Voraussetzungen.
+- **ApBetrO §§ 12, 12a:** Beratungspflicht; pDL gehen über Standard-Beratung hinaus.
+- **§§ 31, 33 SGB V:** Arzneimittel- und Hilfsmittelversorgung.
+- **§ 73 SGB V:** Wirtschaftlichkeit, Abgrenzung zur ärztlichen Tätigkeit.
+- **DSGVO Art. 9** bei Gesundheitsdaten-Verarbeitung.
+- Berufsordnung Apothekerkammer — Zulässigkeit, Werbeauftritt.
+
+## / Schritt für Schritt
+
+1. **Leistungskatalog prüfen:** Welche pDL-Leistung ist vergütungsfähig? Aktueller Stand Rahmenvertrag.
+2. **Patienten-Anspruch prüfen:** Versichertenstatus, Indikation (z. B. mind. fünf systematisch eingenommene Arzneimittel für Polymedikationsanalyse).
+3. **Einwilligung Patient:** Schriftliche Einwilligung zur Datenverarbeitung (DSGVO Art. 9 Abs. 2 lit. a) und zur Leistungserbringung.
+4. **Durchführung:** Standardisierte Protokolle nutzen (z. B. ABDA-Vorlagen). Apotheker:in mit Fortbildung muss persönlich tätig werden.
+5. **Dokumentation:** Protokoll mit Datum, Patient, Inhalt, festgestellten Auffälligkeiten, Empfehlungen, ggf. Übermittlung an Hausarzt.
+6. **Abrechnung:** Abrechnungscode des Rahmenvertrags, Versichertenstammdaten, Apothekenname.
+7. **Aufbewahrung:** Drei Jahre, DSGVO-konform.
+8. **Werbung:** Keine reisserische Werbung; sachliche Information zulässig (§ 11 HWG, BO).
+
+## Trade-off-Matrix
+
+| Leistung | Voraussetzung Apotheke | Vergütung | Patient |
+|---|---|---|---|
+| Polymedikationsanalyse | Fortbildung Apotheker | Vergütung im pDL-Topf | mind. fünf chronische AM |
+| Inhalator-Training | Schulung | Pauschale | Asthma/COPD-Patient |
+| Beratung bei oraler Krebstherapie | spezifische Fortbildung | Pauschale | onkologischer Patient |
+| Blutdruckmessung allein | regulär | nicht GKV-vergütet (Selbstzahler-IGeL-ähnlich) | jeder |
+| Impfberatung (allgemein) | Apotheker | je nach Lage; ggf. Honorar als Impfdienstleistung | — |
+
+## Praxistipps
+
+- Pdl ist eine **eigenständige Leistung** zusätzlich zur Standard-Beratung; nicht doppelt abrechnen.
+- Standardisierte Formulare verwenden — verkürzt Dokumentationszeit und sichert Abrechnungsfähigkeit.
+- Fortbildungsnachweise aktuell halten — bei Kontrolle vorzeigen können.
+- Patientenakte (Sub-Akte in Apotheken-Software) führen; DSGVO-Verarbeitungsverzeichnis aktualisieren.
+- Keine ärztliche Diagnostik betreiben — Grenze einhalten, sonst Berufsrechtskonflikt mit Ärzteschaft.
+
+## Mustertexte
+
+### Einwilligung Patient (Auszug)
+"Ich, [Name, Geb.-Datum], willige ein, dass die Apotheke [Name] eine pharmazeutische Dienstleistung (Polymedikationsanalyse) für mich erbringt. Die Apotheke darf hierzu meine Gesundheitsdaten (verordnete Arzneimittel, Vorerkrankungen, Allergien) erheben und verarbeiten (Art. 9 Abs. 2 lit. a DSGVO). Die Daten werden für die Dauer von drei Jahren aufbewahrt. Eine Übermittlung an meinen Hausarzt erfolgt [ja/nein] mit meiner Einwilligung. Ich kann meine Einwilligung jederzeit widerrufen."
+
+### Abschlussprotokoll Polymedikationsanalyse (Auszug)
+"Datum / Apotheker:in: [...] / Patient: [Name, Geb.-Datum] / Versicherung: [Kasse, Nr.] / Erfasste Arzneimittel: [Liste mit Wirkstoff, Stärke, Dosierung] / Auffälligkeiten: 1. Interaktion [Wirkstoff A + B]; 2. Dosierungsfehler [...]; 3. fehlende Anwendungsinformation [...] / Empfehlung: [Konkrete Maßnahmen] / Übermittlung Hausarzt: [ja/nein] / Patientenkopie: [ja, Empfangsbestätigung]"
+
+## Typische Fehler
+
+- pDL ohne Patienteneinwilligung — DSGVO-Verstoss.
+- Abrechnung pDL ohne Fortbildungsnachweis Apotheker:in — Rückforderung.
+- Doppelabrechnung Standard-Beratung + pDL für gleiche Leistung.
+- Werbung mit pDL als "Gesundheits-Check" überschreitet HWG-Grenzen.
+- Dokumentation nicht patientenbezogen — bei Stichprobenprüfung nicht nachweisbar.
+
+## Quellen Stand 06/2026
+
+- SGB V §§ 1a, 31, 73, 129 Abs. 5e.
+- Rahmenvertrag pDL DAV / GKV-Spitzenverband (Stand vom Anwender zu verifizieren — Leistungskatalog und Vergütungssätze).
+- ApBetrO §§ 12, 12a.
+- DSGVO Art. 9; BDSG.
+- ABDA-Fortbildungskataloge (vom Anwender zu verifizieren).
+- Berufsordnungen Apothekerkammern.
+
+---
+
+## Skill: `versandhandelserlaubnis-eu-versandapotheke`
+
+_Für Versandhandelserlaubnis EU Versandapotheke: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Schnittstellenkarte mit Zuständigkeits- und Nachweisfragen._
+
+# Versandhandelserlaubnis EU Versandapotheke
+
+## Arbeitsweg
+
+- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
+- Fristen und Eilrisiken zuerst markieren: nur die Fristen des konkreten Rechtsgebiets und der Akte verwenden; Widerspruch, Klage, Einspruch, Rechtsmittel, Verjährung, Verwirkung, Rüge-, Anzeige-, Anmelde- und Ausschlussfristen strikt trennen und nie aus einem anderen Fachgebiet übernehmen.
+- Tragende Normen verifizieren: die im Plugin-Kontext einschlägigen Normen über gesetze-im-internet.de, dejure.org, eur-lex.europa.eu und die amtlichen Bundes-/Landesportale live prüfen — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
+- Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
+- Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
+
+## Fachkern: Versandhandelserlaubnis EU Versandapotheke
+- **Normen-/Quellenanker:** ApoG, ApBetrO, AMG, BtMG, SGB V, Heilmittelwerberecht, Versandhandel, Rezept/Retaxation, Heimversorgung und Aufsicht.
+- **Entscheidende Weiche:** Apothekenbetrieb, Abgabe, Rezept, Verantwortlichkeit, Dokumentation, Aufsicht, Retaxation und Patientensicherheit getrennt prüfen.
+- **Arbeitsprodukt:** Erzeuge eine konkrete Prüf- oder Entscheidungsmatrix mit Norm, Tatbestand, Beleg, Einwand, Risikoampel und nächstem Schritt; Anschluss-Skills nur bei echter Vertiefung nennen.
+
+## Worum geht es konkret
+
+Erlaubnis zum Versandhandel mit apothekenpflichtigen Arzneimitteln in Deutschland — sowohl für inländische Apotheken (§ 11a ApoG) als auch für EU-/EWR-Apotheken (anerkanntes Verfahren, § 73 Abs. 1 Nr. 1a AMG). Behandle den Erlaubnis- und Anerkennungsprozess, Eintragung im Sicherheitslogo-Register sowie Sortimentsgrenzen, Beratungspflicht und Aufsichtsregime.
+
+## Wann dieses Modul hilft / Kaltstart-Fragen
+
+- Inländische Apotheke will Versandhandelserlaubnis beantragen.
+- EU-Apotheke (z. B. NL, IS) will deutschen Markt bedienen.
+- Aufsicht beanstandet fehlenden DEAS-Eintrag.
+- Werbliche Auftritt einer EU-Apotheke in D wird wettbewerbsrechtlich angegriffen.
+- Wechsel des Versandlogistik-Dienstleisters.
+
+Eingaben:
+- Apothekenerlaubnis (inländisch) oder ausländische Apothekenerlaubnis nach EU-/EWR-Recht.
+- QM-Handbuch mit Versand-SOPs (Annahme, Verpackung, Kühlkette, Reklamation).
+- Beratungskonzept (Hotline, Chat, E-Mail) mit Öffnungszeiten und Personal.
+- Anschriften von Hauptapotheke und Versandlager (müssen identisch oder vertraglich gebunden sein).
+- Bei EU: Anerkennungsbescheid und nationale Apothekenerlaubnis im Herkunftsland.
+
+## Rechtlicher Rahmen
+
+- **§ 11a ApoG:** Inländische Versandhandelserlaubnis — Voraussetzungen: bestehende Apotheke, QM, Beratungssystem, sichere Verpackung, dokumentierte Transportkette.
+- **§ 73 Abs. 1 Nr. 1a AMG:** Zulässigkeit des Versands aus EU-/EWR-Staaten an Endverbraucher in D, sofern gleichwertige Erlaubnis im Herkunftsland vorliegt.
+- **§ 11a Abs. 1 Nr. 4 ApoG:** Pflicht zur Eintragung im Sicherheitslogo-Register (DIMDI / BfArM).
+- **Richtlinie 2011/62/EU** (Fälschungsrichtlinie) und delegierte Verordnung 2016/161 (Securpharm).
+- **AMVV** für Rx-Versand.
+- **SGB V § 360** (E-Rezept).
+- BGH und EuGH staend. Rspr. (DocMorris, Apothekenpreisbindung, Versandhandelsverbot).
+- **§ 7 HWG** und § 11 HWG zur Werbebeschränkung.
+
+## / Schritt für Schritt
+
+1. **Inländische Apotheke:**
+ a. Antrag bei der Landesaufsicht (§ 11a Abs. 1 ApoG).
+ b. Vorlage QM-Handbuch, SOPs Versand, Beratungskonzept, Transportverträge.
+ c. Inspektion durch Aufsicht (möglich).
+ d. Bescheidserteilung, Eintragung im Sicherheitslogo-Register beim BfArM.
+
+2. **EU-Apotheke:**
+ a. Apothekenerlaubnis nach Heimatlandrecht muss bestehen und Versand erlauben.
+ b. Anmeldung beim BfArM zum Sicherheitslogo-Register (DIMDI-Verfahren).
+ c. Anerkennungserklärung; ggf. Vorlage Übersetzungen.
+ d. Eintragung — erst danach legaler Versand nach D.
+
+3. **Sortimentsgrenzen:** BtM und T-Rezept-Arzneimittel sind nicht versandfähig. Bestimmte Kühlware nur mit lückenloser Kühlkette. Apothekenpflichtige Arzneimittel — ja. Apothekenexklusive Waren (z. B. bestimmte Diagnostika) — vom Anwender zu verifizieren.
+
+4. **Beratungssystem:** Hotline Apothekerinnen erreichbar; Aufzeichnung Beratungspflicht-Inhalte (Rx zwingend, OTC angeboten).
+
+5. **Aufsicht:** Landesaufsicht in D auch für EU-Versandapotheken bei Beanstandungen im deutschen Markt zuständig (§ 78 AMG und Aufsichtsregelung). Wettbewerbsrechtlich auch BGH und OLG.
+
+## Trade-off-Matrix
+
+| Konstellation | Inländisch (§ 11a ApoG) | EU-Versand (§ 73 AMG) |
+|---|---|---|
+| Erlaubnisbehörde | Landesaufsicht | Heimatlandbehörde + BfArM-Eintrag |
+| Sicherheitslogo | Pflicht | Pflicht |
+| Kontrolldichte | Standard ApBetrO + Versand | Heimatland + deutsche Marktkontrolle |
+| Preisbindung | AMPreisV | strittig, BGH-Rspr. beachten |
+| BtM-Versand | nein | nein |
+| E-Rezept-Einlösung | über TI | über TI, Schnittstelle erforderlich |
+
+## Praxistipps
+
+- Sicherheitslogo (DIMDI / BfArM) auf jeder Webseite eingebunden und mit Echtheits-Klick verlinkt — fehlende Verlinkung führt zu Beanstandungen.
+- DEAS-Register: regelmässig prüfen, ob Eintrag noch besteht.
+- EU-Versandapotheken müssen die deutsche AMPreisV bei Rx GKV beachten (vom Anwender Aktualität zu prüfen, BGH-Rspr.).
+- Beratungssystem: tatsächliche Erreichbarkeit zu üblichen Zeiten; bei Pannen Tagesprotokoll führen.
+- Bei EU-Versand und gleichzeitiger inländischer Niederlassung: getrennte Geschäftsführung dokumentieren, sonst Fremdbesitz-Risiko.
+
+## Mustertexte
+
+### Antrag Versandhandelserlaubnis nach § 11a ApoG (Auszug)
+"Hiermit beantrage ich, [Apothekenname], Apothekenerlaubnis vom [Datum], die Erteilung der Versandhandelserlaubnis nach § 11a ApoG. Beigefügt sind: 1. Aktuelles QM-Handbuch (Stand [Datum]), 2. SOP-Versand-Paket (SOP-Nr. [...]), 3. Beratungskonzept mit Hotline [Nummer] (Öffnungszeiten Mo-Fr 8-20 Uhr, Sa 8-14 Uhr), 4. Transportvertrag [Logistikpartner] mit GDP-Bestätigung, 5. Übersicht Kühlkette inkl. Datenlogger. Wir erklären, die Sortimentsgrenzen einzuhalten (kein BtM-, kein T-Rezept-Versand)."
+
+### Anmeldung zum Sicherheitslogo-Register (Auszug)
+"Hiermit melde ich, [Apothekenname, Anschrift], die Apotheke zur Aufnahme in das nationale Verzeichnis der zum Versandhandel berechtigten Apotheken (DIMDI / BfArM) an. Beigefügt sind: 1. Versandhandelserlaubnis vom [Datum], Az [...], 2. Webseiten-URL, auf der das Logo eingebunden wird, 3. Erklärung, das Logo nur in der vorgegebenen Form zu nutzen."
+
+## Typische Fehler
+
+- Eintrag im Sicherheitslogo-Register fehlt — Apotheke versendet trotzdem; UWG-Risiko.
+- Logo wird auf der Webseite ohne Klick-Verifikation eingebaut.
+- BtM oder T-Rezept-Arzneimittel werden mit versandt — strafbewehrt.
+- Beratungssystem ist nur formell — keine echte Erreichbarkeit, keine Dokumentation.
+- EU-Apotheke verschickt an Patient in D ohne Anerkennung — Aufsichtsbeanstandung, ggf. wettbewerbsrechtliche Unterlassungsklage.
+
+## Quellen Stand 06/2026
+
+- ApoG § 11a; AMG § 73 Abs. 1 Nr. 1a.
+- BfArM DIMDI-Sicherheitslogo-Register.
+- Richtlinie 2011/62/EU + delegierte VO 2016/161/EU.
+- EuGH, staend. Rspr. (DocMorris-Komplex).
+- BGH, staend. Rspr. zur Preisbindung im EU-Versandhandel (vom Anwender zu verifizieren Aktualität).
+- Landesaufsichtsbehörden — Erlaubnisleitfäden (vom Anwender zu verifizieren).
+
+---
+
+## Skill: `raeume-ausstattung-rezeptur-defektur-labor`
+
+_Für Räume Ausstattung Rezeptur Defektur Labor: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Schnittstellenkarte mit Zuständigkeits- und Nachweisfragen._
+
+# Räume Ausstattung Rezeptur Defektur Labor
+
+## Arbeitsweg
+
+- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
+- Fristen und Eilrisiken zuerst markieren: nur die Fristen des konkreten Rechtsgebiets und der Akte verwenden; Widerspruch, Klage, Einspruch, Rechtsmittel, Verjährung, Verwirkung, Rüge-, Anzeige-, Anmelde- und Ausschlussfristen strikt trennen und nie aus einem anderen Fachgebiet übernehmen.
+- Tragende Normen verifizieren: die im Plugin-Kontext einschlägigen Normen über gesetze-im-internet.de, dejure.org, eur-lex.europa.eu und die amtlichen Bundes-/Landesportale live prüfen — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
+- Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
+- Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
+
+## Fachkern: Räume Ausstattung Rezeptur Defektur Labor
+- **Normen-/Quellenanker:** ApoG, ApBetrO, AMG, BtMG, SGB V, Heilmittelwerberecht, Versandhandel, Rezept/Retaxation, Heimversorgung und Aufsicht.
+- **Entscheidende Weiche:** Apothekenbetrieb, Abgabe, Rezept, Verantwortlichkeit, Dokumentation, Aufsicht, Retaxation und Patientensicherheit getrennt prüfen.
+- **Arbeitsprodukt:** Erzeuge eine konkrete Prüf- oder Entscheidungsmatrix mit Norm, Tatbestand, Beleg, Einwand, Risikoampel und nächstem Schritt; Anschluss-Skills nur bei echter Vertiefung nennen.
+
+## Startfragen
+- Wer fragt in welcher Rolle und welches Arbeitsergebnis wird gebraucht?
+- Welche Frist, Zuständigkeit, Behörde, Gericht oder Vertragssituation ist erkennbar?
+- Welche Dokumente, Zahlen, Registerdaten, Bescheide, Verträge oder Korrespondenz liegen vor?
+- Welche Tatsachen sind sicher, welche sind streitig und welche Annahmen müssen sichtbar markiert werden?
+- Welche live zu prüfenden Normen, Behördenhinweise oder Formulare tragen das Ergebnis?
+
+## Prüf- und Arbeitslogik
+1. **Einordnen:** Rolle, Ziel, Verfahrensstand, Vertragstyp, Behörde/Gericht, Frist und Risiken festhalten.
+2. **Normen live prüfen:** Vor tragenden Aussagen den aktuellen Stand aus amtlichen oder frei zugänglichen Quellen kontrollieren. Besonders prüfen: die im Fachkern genannten Normen-/Quellenanker, aktuellen amtlichen oder frei zugänglichen Fachquellen und die für diese Speziallage tragenden Formulare/Behördenhinweise.
+3. **Tatbestand in Elemente zerlegen:** Jedes Tatbestandsmerkmal einzeln prüfen; unklare Tatsachen als `[offen: ...]` markieren.
+4. **Belege führen:** Für jede relevante Behauptung Dokument, Datum, Absender, Anlage, Registerfund oder Quelle notieren.
+5. **Gegenansicht bauen:** Mindestens eine ernsthafte Gegenargumentation und eine Verteidigungslinie formulieren.
+6. **Ergebnis kalibrieren:** Risikoampel `grün/gelb/rot`, Handlungsempfehlung, nächster Schritt und fehlende Unterlagen ausgeben.
+
+## Qualitätsgate
+Am Ende kurz prüfen: Sind Fristen, Zuständigkeit, Rechtsgrundlage, Beweislast, Zahlen, Form und gewünschter Output vollständig? Ist erkennbar, was sicher ist und was noch Sachverhaltsarbeit braucht?
+
+---
+
 ## Skill: `apothekenerlaubnis-apog-persoenliche-voraussetzungen`
 
-_Wenn es um Apothekenerlaubnis ApoG persönliche Voraussetzungen in Apothekenrecht geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt._
+_Für Apothekenerlaubnis ApoG persönliche Voraussetzungen: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt._
 
 # Apothekenerlaubnis ApoG persönliche Voraussetzungen
 
@@ -407,7 +703,7 @@ Erforderliche Eingaben vom Mandanten:
 
 ## Skill: `arzneimittelrisiken-rueckruf-aufsicht`
 
-_Wenn es um Arzneimittelrisiken Rückruf Chargenrückverfolgung in Apothekenrecht geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt._
+_Für Arzneimittelrisiken Rückruf Chargenrückverfolgung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt._
 
 # Arzneimittelrisiken Rückruf Chargenrückverfolgung
 
@@ -444,48 +740,9 @@ Am Ende kurz prüfen: Sind Fristen, Zuständigkeit, Rechtsgrundlage, Beweislast,
 
 ---
 
-## Skill: `personal-pharmazeutisch-nichtpharmazeutisch-vertretung`
-
-_Wenn es um Personal pharmazeutisch nichtpharmazeutisch Vertretung in Apothekenrecht geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen._
-
-# Personal pharmazeutisch nichtpharmazeutisch Vertretung
-
-## Arbeitsweg
-
-- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
-- Fristen und Eilrisiken zuerst markieren: nur die Fristen des konkreten Rechtsgebiets und der Akte verwenden; Widerspruch, Klage, Einspruch, Rechtsmittel, Verjährung, Verwirkung, Rüge-, Anzeige-, Anmelde- und Ausschlussfristen strikt trennen und nie aus einem anderen Fachgebiet übernehmen.
-- Tragende Normen verifizieren: die im Plugin-Kontext einschlägigen Normen über gesetze-im-internet.de, dejure.org, eur-lex.europa.eu und die amtlichen Bundes-/Landesportale live prüfen — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
-- Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
-- Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
-
-## Fachkern: Personal pharmazeutisch nichtpharmazeutisch Vertretung
-- **Normen-/Quellenanker:** ApoG, ApBetrO, AMG, BtMG, SGB V, Heilmittelwerberecht, Versandhandel, Rezept/Retaxation, Heimversorgung und Aufsicht.
-- **Entscheidende Weiche:** Apothekenbetrieb, Abgabe, Rezept, Verantwortlichkeit, Dokumentation, Aufsicht, Retaxation und Patientensicherheit getrennt prüfen.
-- **Arbeitsprodukt:** Erzeuge eine konkrete Prüf- oder Entscheidungsmatrix mit Norm, Tatbestand, Beleg, Einwand, Risikoampel und nächstem Schritt; Anschluss-Skills nur bei echter Vertiefung nennen.
-
-## Startfragen
-- Wer fragt in welcher Rolle und welches Arbeitsergebnis wird gebraucht?
-- Welche Frist, Zuständigkeit, Behörde, Gericht oder Vertragssituation ist erkennbar?
-- Welche Dokumente, Zahlen, Registerdaten, Bescheide, Verträge oder Korrespondenz liegen vor?
-- Welche Tatsachen sind sicher, welche sind streitig und welche Annahmen müssen sichtbar markiert werden?
-- Welche live zu prüfenden Normen, Behördenhinweise oder Formulare tragen das Ergebnis?
-
-## Prüf- und Arbeitslogik
-1. **Einordnen:** Rolle, Ziel, Verfahrensstand, Vertragstyp, Behörde/Gericht, Frist und Risiken festhalten.
-2. **Normen live prüfen:** Vor tragenden Aussagen den aktuellen Stand aus amtlichen oder frei zugänglichen Quellen kontrollieren. Besonders prüfen: die im Fachkern genannten Normen-/Quellenanker, aktuellen amtlichen oder frei zugänglichen Fachquellen und die für diese Speziallage tragenden Formulare/Behördenhinweise.
-3. **Tatbestand in Elemente zerlegen:** Jedes Tatbestandsmerkmal einzeln prüfen; unklare Tatsachen als `[offen: ...]` markieren.
-4. **Belege führen:** Für jede relevante Behauptung Dokument, Datum, Absender, Anlage, Registerfund oder Quelle notieren.
-5. **Gegenansicht bauen:** Mindestens eine ernsthafte Gegenargumentation und eine Verteidigungslinie formulieren.
-6. **Ergebnis kalibrieren:** Risikoampel `grün/gelb/rot`, Handlungsempfehlung, nächster Schritt und fehlende Unterlagen ausgeben.
-
-## Qualitätsgate
-Am Ende kurz prüfen: Sind Fristen, Zuständigkeit, Rechtsgrundlage, Beweislast, Zahlen, Form und gewünschter Output vollständig? Ist erkennbar, was sicher ist und was noch Sachverhaltsarbeit braucht?
-
----
-
 ## Skill: `tierarzneimittel-apothekenabgabe-versand-ab-2026`
 
-_Wenn es um Tierarzneimittel Apothekenabgabe Versand ab 2026 in Apothekenrecht geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt._
+_Für Tierarzneimittel Apothekenabgabe Versand ab 2026: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt._
 
 # Tierarzneimittel Apothekenabgabe Versand ab 2026
 
@@ -522,11 +779,11 @@ Am Ende kurz prüfen: Sind Fristen, Zuständigkeit, Rechtsgrundlage, Beweislast,
 
 ---
 
-## Skill: `cannabis-medizinalcannabis-abgabe-dokumentation`
+## Skill: `versandhandel-e-versandhandelserlaubnis-eu`
 
-_Wenn es um Cannabis Medizinalcannabis Abgabe Dokumentation in Apothekenrecht geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt._
+_Für Versandhandel und E-Rezept Intake: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Schnittstellenkarte mit Zuständigkeits- und Nachweisfragen._
 
-# Cannabis Medizinalcannabis Abgabe Dokumentation
+# Versandhandel und E-Rezept Intake
 
 ## Arbeitsweg
 
@@ -536,209 +793,96 @@ _Wenn es um Cannabis Medizinalcannabis Abgabe Dokumentation in Apothekenrecht ge
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
-## Fachkern: Cannabis Medizinalcannabis Abgabe Dokumentation
+## Fachkern: Versandhandel und E-Rezept Intake
 - **Normen-/Quellenanker:** ApoG, ApBetrO, AMG, BtMG, SGB V, Heilmittelwerberecht, Versandhandel, Rezept/Retaxation, Heimversorgung und Aufsicht.
 - **Entscheidende Weiche:** Apothekenbetrieb, Abgabe, Rezept, Verantwortlichkeit, Dokumentation, Aufsicht, Retaxation und Patientensicherheit getrennt prüfen.
 - **Arbeitsprodukt:** Erzeuge eine konkrete Prüf- oder Entscheidungsmatrix mit Norm, Tatbestand, Beleg, Einwand, Risikoampel und nächstem Schritt; Anschluss-Skills nur bei echter Vertiefung nennen.
 
 ## Worum geht es konkret
 
-Medizinalcannabis (Cannabis-Blüten, Cannabis-Extrakte) ist seit dem Cannabisgesetz 2024 nicht mehr Betäubungsmittel im engeren Sinne, fällt aber unter besondere Verkehrs- und Verschreibungsregeln des Konsumcannabisgesetzes (KCanG) / Medizinal-Cannabisgesetz (MedCanG). Apotheken müssen verschreibungsrechtliche, lager- und dokumentationsrechtliche Pflichten beachten. Cannabis-Importe sind über die Cannabisagentur des BfArM (vormals) geregelt; aktueller Stand vom Anwender zu verifizieren.
+Aufnahme eines Versandhandelsfalls: Bestelleingang einer Versandapotheke, Prüfung der gesetzlichen Voraussetzungen für den Versand verschreibungspflichtiger und apothekenpflichtiger Arzneimittel, Schnittstelle zum E-Rezept. Der Skill fasst die Pflichtangaben, Beratungsdokumentation und Verbots-Sortimente zusammen — insbesondere das Rx-Versandverbot (RxVV-Diskussion) und das Versandverbot für bestimmte Arzneimittel.
 
 ## Wann dieses Modul hilft / Kaltstart-Fragen
 
-- Patient bringt erstmals Cannabis-Rezept (BtM- oder normales Rx-Formular je nach Rechtsstand 2024+).
-- Apotheke baut neuen Cannabis-Bezugsweg auf.
-- Lagerbestand soll erweitert werden — Sicherheits-/Lageranforderungen.
-- Krankenkasse fordert Therapienachweise vor Erstattung.
-- Verkehrsrechtsfragen (Patient fragt nach Auto fahren).
+- Versandapotheke nimmt erstmals E-Rezept-Bestellungen entgegen.
+- Beanstandung der Aufsicht wegen unzureichender Beratungsdokumentation oder Versand verbotener Arzneimittel.
+- Patient bestellt rezeptpflichtiges Arzneimittel, das nicht versandt werden darf (z. B. bestimmte Kühlware, BtM, T-Rezept).
+- Aufbau eines internen SOP-Pakets für Versandhandel.
 
 Eingaben:
-- Rezept Medizinalcannabis (Form je nach aktuellem Rechtsstand: BtM-Rezept oder gesondertes Cannabis-Rezept).
-- Bezugsdokumentation (Importeur, Charge).
-- Patientendaten (Indikation, vorherige Therapieversuche, Kostenzusage GKV).
-- Lagerprotokolle.
+- Versandhandelserlaubnis (§ 11a ApoG) der inländischen Apotheke.
+- Bei EU-Versandapotheke: Erlaubnis der jeweiligen EU-Behörde, Eintrag im DEAS-Register, deutsche Versandhandels-Sicherheitslogo.
+- Bestelleingang (Bestellnummer, Patient, Arzneimittel, ggf. E-Rezept-Token).
+- Beratungsprotokoll (telefonisch oder schriftlich), Identitätsnachweis Empfänger.
 
 ## Rechtlicher Rahmen
 
-- **Cannabisgesetz (CanG) 2024 / KCanG / MedCanG** (vom Anwender Aktualität zu verifizieren — laufende Anpassungen).
-- **BtMG / BtMVV** Übergangsregelungen je nach Wirkstoff.
-- **AMG** §§ 21, 43, 73 zur Apotheken-Abgabe und Import.
-- **SGB V § 31 Abs. 6:** Erstattungsregelung Medizinalcannabis durch GKV (Genehmigungspflicht).
-- **AMVV** für Rezeptformerfordernisse.
-- **ApBetrO** für Lagerung und QM.
-- Bundesinstitut für Arzneimittel und Medizinprodukte (BfArM) — Bezugsweg, Cannabisagentur-Erbe.
-- BSG, staend. Rspr. zur Erstattung Cannabinoid-Therapie.
+- **§ 11a ApoG:** Versandhandelserlaubnis für apothekenpflichtige Arzneimittel; Voraussetzungen — Apothekenerlaubnis, QM-System, Beratungsmöglichkeit, Transportbedingungen.
+- **§ 73 AMG:** Verbringungsverbot, Ausnahmen.
+- **§ 43 AMG:** Apothekenpflicht.
+- **AMVV** und § 360 SGB V (E-Rezept-Pflicht).
+- **VersandhandelsVO** (Rahmenvereinbarung GKV-Spitzenverband — Stand vom Anwender zu verifizieren).
+- **Sicherheitslogo-VO** (DIMDI / BfArM-Register).
+- **§ 7 HWG**, Werbeverbote.
+- BGH und EuGH, staend. Rspr. zur grenzüberschreitenden Versand-Apotheke (DocMorris).
 
 ## / Schritt für Schritt
 
-1. **Rezeptform prüfen:** Aktueller Stand — Cannabis-Rezept (mit besonderem Formular) oder weiterhin BtM-Rezept je nach Wirkstoff/Form (Blüte, Extrakt, Fertigarzneimittel wie Sativex, Epidyolex). Vom Anwender Stand 2026 zu verifizieren.
-2. **Verschreibungsangaben:** Wirkstoff (THC- und CBD-Gehalt bei Blüten zwingend), Sorte (genaue Bezeichnung), Menge, Dosierung, Anwendungsform.
-3. **Erstattung GKV:** Genehmigungspflicht nach § 31 Abs. 6 SGB V; ohne Kassengenehmigung kein Erstattungsanspruch.
-4. **Bezug:** Über zugelassene Importeure / Vertriebspartner; Securpharm bei Fertigarzneimitteln.
-5. **Lagerung:** Falls weiterhin BtM-Schrank-pflichtig — abschliessbar; ansonsten verschlossener Apothekenschrank.
-6. **Abgabe:** Identitätsprüfung Patient, Beratung zu Anwendung, Verkehrstauglichkeit, Nebenwirkungen.
-7. **Dokumentation:** Eintrag im BtM-Buch (sofern noch erforderlich) oder gesondertem Cannabis-Buch; Verlauf Patientenversorgung.
-8. **Verkehrsrechtshinweis:** Patient ist auf § 24a StVG hinzuweisen; Berufskraftfahrer besonders aufklären.
+1. **Bestelleingang erfassen:** Datum, Patient, Arzneimittel, Lieferadresse, ggf. Rezept-Token.
+2. **Verbots-Sortiment prüfen:**
+ - BtM: kein Versand erlaubt (§ 11a Abs. 2 ApoG i.V.m. BtMG, ständige Praxis).
+ - T-Rezept-Arzneimittel: kein Versand (vom Anwender zu verifizieren).
+ - Bestimmte Kühlware bei nicht gesicherter Kühlkette: kein Versand.
+3. **E-Rezept einlösen:** Token-Verarbeitung über TI-Anbindung (siehe Skill `e-rezept-ti-gematik-apothekenprozess`).
+4. **Plausibilitätsprüfung:** Apotheker prüft Indikation, Dosierung, Kontraindikation.
+5. **Beratung anbieten:** Bei jedem Versand muss Beratung erreichbar sein — Telefon, Chat, E-Mail; bei Rx Pflicht, bei OTC Angebot. Dokumentation muss revisionsfest sein.
+6. **Aut-idem / Rabattvertrag** (siehe `substitution-rabattvertrag-aut-idem`).
+7. **Versandvorgang:** Verpackung, Kühlkette, GDP-konformes Transportverfahren, Sendungsverfolgung.
+8. **Lieferung:** Identitätsprüfung Empfänger bei Rx (Personalausweis-Foto, Kuriernachweis, Codeprüfung).
+9. **Dokumentation:** Bestellnummer, Beratung, Versandbeleg, drei Jahre Aufbewahrung.
 
 ## Trade-off-Matrix
 
-| Cannabis-Produkt | Verschreibung | Lagerung | Erstattung GKV | Hinweis |
-|---|---|---|---|---|
-| Cannabis-Blüte (lose) | Cannabis-Rezept (Form vom Anwender zu prüfen) | gesondert | Genehmigung § 31 VI SGB V | Sortenangabe Pflicht |
-| Cannabis-Extrakt (öl-/dronabinolhaltig) | Cannabis-Rezept / BtM-Rezept je Wirkstoff | gesondert | Genehmigung | Wirkstoff-Konzentration angeben |
-| Fertigarzneimittel Sativex | Rx-Rezept | Standard | wie Rx | Indikation MS-Spastik |
-| Fertigarzneimittel Epidyolex | Rx-Rezept | Standard | wie Rx | seltene Epilepsie-Formen |
+| Versandkonstellation | Zulässig | Beratung | Risiko |
+|---|---|---|---|
+| OTC apothekenpflichtig inländisch | ja | Beratungsangebot Pflicht | gering |
+| Rx-GKV inländisch | ja, mit Erlaubnis § 11a ApoG | Pflichtberatung dokumentiert | mittel (Retax) |
+| Rx aus EU-Apotheke an Patient in D | ja, bei Eintrag DEAS-Register | wie inländisch | mittel |
+| BtM-Versand | nein | — | strafbewehrt |
+| T-Rezept Versand | grds. nein | — | hoch |
+| Kühlware ohne Kühlkette | nein | — | hoch |
 
 ## Praxistipps
 
-- Sortenidentität der Cannabis-Blüte tagesgenau prüfen (Bezeichnung Hersteller); Substitution selten zulässig (besondere Stabilität, THC-Gehalt-Variabilität).
-- Lagerung: trockenenergiefester abschliessbarer Schrank; Temperaturkontrolle empfohlen.
-- Beratungspflicht intensiv: Dosis-Titration, Verkehrstauglichkeit, Beruf, Schwangerschaft.
-- Erstattungs-Probleme: Krankenkassen prüfen Therapieerfolg streng; Apotheke unterstützt Antrag mit Informationsmaterial.
-- Sicherheit: Tresor, Alarmsysteme, dokumentierte Schlüsselverwahrung.
+- Beratungsangebot muss tatsächlich erreichbar sein — Hotline mit Öffnungszeiten, Chat mit Apothekerinnen, E-Mail-Antwort binnen 24 h.
+- Sendungsverfolgung als Anti-Retax-Beweis archivieren.
+- Bei Kühlware: zwischenliegende Kontrollpunkte mit Temperaturlogger, Lieferquittung mit Temperaturnachweis.
+- DEAS-Eintrag bei EU-Versand prüfen; nicht-eingetragene EU-Apotheken sind in Deutschland nicht zugelassen.
+- Werbeauftritt prüfen — HWG-Vorgaben gelten auch im Versandhandel; Aktionen ("Schenken statt nehmen") oft heikel.
 
 ## Mustertexte
 
-### Beratungsprotokoll Cannabis-Erstabgabe (Auszug)
-"Datum / Patient: [Initialen] / Verordnung: [Sorte / Wirkstoff, THC- und CBD-Gehalt, Menge, Anwendungsform] / Indikation: [...] / GKV-Genehmigung: [vorliegend / Datum / Az] / Beratung erfolgt zu: 1. Dosis-Titration, langsam einschleichen; 2. Verkehrstauglichkeit (§ 24a StVG, Patient ist Berufskraftfahrer? ja/nein); 3. Wechselwirkungen mit anderen Arzneimitteln; 4. Lagerung (kühl, dunkel, kindersicher); 5. Auswirkung bei Schwangerschaft / Stillzeit; 6. Geräteempfehlung (Verdampfer/Vaporizer). Patient bestätigt Verständnis. Apotheker:in: [Name]."
+### Beratungsprotokoll Versandhandel (Vorlage)
+"Datum / Bestell-Nr.: [...] / Patient: [...] / Arzneimittel: [Name, Stärke, Menge] / E-Rezept-Token: [...] / Beratungsangebot ausgesprochen: [ja/nein] / Beratungsweg: [Telefon/Chat/E-Mail] / Inhalte: [Dosierung / Kontraindikation / Aufbewahrung / Nebenwirkungen] / Apotheker:in: [Name] / Versandbeleg-Nr.: [...]"
 
-### Information zur Verkehrstauglichkeit (Auszug)
-"Sehr geehrte:r [Patient:in], die Einnahme von Medizinalcannabis kann die Fahrtüchtigkeit beeinträchtigen. Bei bestimmungsgemässer Einnahme nach ärztlicher Verordnung gilt § 24a Abs. 2 StVG nicht uneingeschränkt — gleichwohl müssen Sie sicherstellen, dass Sie zum Zeitpunkt des Führens eines Kraftfahrzeugs nicht eingeschränkt sind. Bei Beginn der Therapie sollten Sie zunächst nicht fahren. Bewahren Sie die ärztliche Verordnung im Fahrzeug auf, falls eine Kontrolle erfolgt."
+### Hinweis an Patient bei Versandverbot (Auszug)
+"Sehr geehrte:r [Patient:in], das von Ihnen bestellte Arzneimittel [Name] gehört zu den Betäubungsmitteln nach BtMG. Ein Versand ist gesetzlich ausgeschlossen. Wir empfehlen Ihnen, dieses Arzneimittel persönlich in einer nahegelegenen Apotheke abzuholen. Selbstverständlich beraten wir Sie unter [Telefonnummer] zu Alternativen."
 
 ## Typische Fehler
 
-- Substitution einer Sorte ohne Plausibilitätsprüfung — Patient verträgt anders, klagt.
-- Erstattung GKV nicht vorab geklärt — Apotheke trägt Kosten oder Patient ist verärgert.
-- Sortenangabe auf Rezept fehlt — formaler Mangel, Patient muss erneut zum Arzt.
-- Lagerung in unzureichend gesichertem Schrank — Diebstahlrisiko.
-- Patient nicht zur Verkehrstauglichkeit aufgeklärt — Haftungsrisiko bei Unfall.
+- BtM versendet — Strafbarkeitsrisiko nach § 29 BtMG.
+- Beratung nur "auf Wunsch" angeboten, aber kein Beratungskanal mit dokumentierter Erreichbarkeit.
+- Kühlkette nicht überwacht — Insulin oder Biologika werden inaktiviert.
+- EU-Versandapotheke ohne DEAS-Eintrag — Patient kauft, Apotheke wird wegen unerlaubten Versands verfolgt.
+- Identitätsprüfung Empfänger bei Rx-Versand fehlt — Doppelabgabe an Dritte.
 
 ## Quellen Stand 06/2026
 
-- Cannabisgesetz (CanG) / KCanG / MedCanG — Stand vom Anwender zu verifizieren (laufende Anpassungen 2024–2026).
-- BtMG, BtMVV (Übergangsregelungen).
-- AMG §§ 21, 43, 73; SGB V § 31 Abs. 6.
-- BfArM-Bekanntmachungen zur Cannabisversorgung.
-- BSG, staend. Rspr. zur Cannabis-Erstattung.
-- DAV-Handlungsempfehlungen zur Cannabis-Abgabe (vom Anwender zu verifizieren).
-
----
-
-## Skill: `filialapotheke-hauptapotheke-leitung-vertretung`
-
-_Wenn es um Filialapotheke Hauptapotheke Leitung Vertretung in Apothekenrecht geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt._
-
-# Filialapotheke Hauptapotheke Leitung Vertretung
-
-## Arbeitsweg
-
-- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
-- Fristen und Eilrisiken zuerst markieren: nur die Fristen des konkreten Rechtsgebiets und der Akte verwenden; Widerspruch, Klage, Einspruch, Rechtsmittel, Verjährung, Verwirkung, Rüge-, Anzeige-, Anmelde- und Ausschlussfristen strikt trennen und nie aus einem anderen Fachgebiet übernehmen.
-- Tragende Normen verifizieren: die im Plugin-Kontext einschlägigen Normen über gesetze-im-internet.de, dejure.org, eur-lex.europa.eu und die amtlichen Bundes-/Landesportale live prüfen — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
-- Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
-- Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
-
-## Fachkern: Filialapotheke Hauptapotheke Leitung Vertretung
-- **Normen-/Quellenanker:** ApoG, ApBetrO, AMG, BtMG, SGB V, Heilmittelwerberecht, Versandhandel, Rezept/Retaxation, Heimversorgung und Aufsicht.
-- **Entscheidende Weiche:** Apothekenbetrieb, Abgabe, Rezept, Verantwortlichkeit, Dokumentation, Aufsicht, Retaxation und Patientensicherheit getrennt prüfen.
-- **Arbeitsprodukt:** Erzeuge eine konkrete Prüf- oder Entscheidungsmatrix mit Norm, Tatbestand, Beleg, Einwand, Risikoampel und nächstem Schritt; Anschluss-Skills nur bei echter Vertiefung nennen.
-
-## Startfragen
-- Wer fragt in welcher Rolle und welches Arbeitsergebnis wird gebraucht?
-- Welche Frist, Zuständigkeit, Behörde, Gericht oder Vertragssituation ist erkennbar?
-- Welche Dokumente, Zahlen, Registerdaten, Bescheide, Verträge oder Korrespondenz liegen vor?
-- Welche Tatsachen sind sicher, welche sind streitig und welche Annahmen müssen sichtbar markiert werden?
-- Welche live zu prüfenden Normen, Behördenhinweise oder Formulare tragen das Ergebnis?
-
-## Prüf- und Arbeitslogik
-1. **Einordnen:** Rolle, Ziel, Verfahrensstand, Vertragstyp, Behörde/Gericht, Frist und Risiken festhalten.
-2. **Normen live prüfen:** Vor tragenden Aussagen den aktuellen Stand aus amtlichen oder frei zugänglichen Quellen kontrollieren. Besonders prüfen: die im Fachkern genannten Normen-/Quellenanker, aktuellen amtlichen oder frei zugänglichen Fachquellen und die für diese Speziallage tragenden Formulare/Behördenhinweise.
-3. **Tatbestand in Elemente zerlegen:** Jedes Tatbestandsmerkmal einzeln prüfen; unklare Tatsachen als `[offen: ...]` markieren.
-4. **Belege führen:** Für jede relevante Behauptung Dokument, Datum, Absender, Anlage, Registerfund oder Quelle notieren.
-5. **Gegenansicht bauen:** Mindestens eine ernsthafte Gegenargumentation und eine Verteidigungslinie formulieren.
-6. **Ergebnis kalibrieren:** Risikoampel `grün/gelb/rot`, Handlungsempfehlung, nächster Schritt und fehlende Unterlagen ausgeben.
-
-## Qualitätsgate
-Am Ende kurz prüfen: Sind Fristen, Zuständigkeit, Rechtsgrundlage, Beweislast, Zahlen, Form und gewünschter Output vollständig? Ist erkennbar, was sicher ist und was noch Sachverhaltsarbeit braucht?
-
----
-
-## Skill: `digitale-plattformen-marktplatz-apothekenrecht`
-
-_Wenn es um Digitale Plattformen Marktplatz Apothekenrecht in Apothekenrecht geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt._
-
-# Digitale Plattformen Marktplatz Apothekenrecht
-
-## Arbeitsweg
-
-- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
-- Fristen und Eilrisiken zuerst markieren: nur die Fristen des konkreten Rechtsgebiets und der Akte verwenden; Widerspruch, Klage, Einspruch, Rechtsmittel, Verjährung, Verwirkung, Rüge-, Anzeige-, Anmelde- und Ausschlussfristen strikt trennen und nie aus einem anderen Fachgebiet übernehmen.
-- Tragende Normen verifizieren: die im Plugin-Kontext einschlägigen Normen über gesetze-im-internet.de, dejure.org, eur-lex.europa.eu und die amtlichen Bundes-/Landesportale live prüfen — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
-- Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
-- Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
-
-## Fachkern: Digitale Plattformen Marktplatz Apothekenrecht
-- **Normen-/Quellenanker:** ApoG, ApBetrO, AMG, BtMG, SGB V, Heilmittelwerberecht, Versandhandel, Rezept/Retaxation, Heimversorgung und Aufsicht.
-- **Entscheidende Weiche:** Apothekenbetrieb, Abgabe, Rezept, Verantwortlichkeit, Dokumentation, Aufsicht, Retaxation und Patientensicherheit getrennt prüfen.
-- **Arbeitsprodukt:** Erzeuge eine konkrete Prüf- oder Entscheidungsmatrix mit Norm, Tatbestand, Beleg, Einwand, Risikoampel und nächstem Schritt; Anschluss-Skills nur bei echter Vertiefung nennen.
-
-## Startfragen
-- Wer fragt in welcher Rolle und welches Arbeitsergebnis wird gebraucht?
-- Welche Frist, Zuständigkeit, Behörde, Gericht oder Vertragssituation ist erkennbar?
-- Welche Dokumente, Zahlen, Registerdaten, Bescheide, Verträge oder Korrespondenz liegen vor?
-- Welche Tatsachen sind sicher, welche sind streitig und welche Annahmen müssen sichtbar markiert werden?
-- Welche live zu prüfenden Normen, Behördenhinweise oder Formulare tragen das Ergebnis?
-
-## Prüf- und Arbeitslogik
-1. **Einordnen:** Rolle, Ziel, Verfahrensstand, Vertragstyp, Behörde/Gericht, Frist und Risiken festhalten.
-2. **Normen live prüfen:** Vor tragenden Aussagen den aktuellen Stand aus amtlichen oder frei zugänglichen Quellen kontrollieren. Besonders prüfen: die im Fachkern genannten Normen-/Quellenanker, aktuellen amtlichen oder frei zugänglichen Fachquellen und die für diese Speziallage tragenden Formulare/Behördenhinweise.
-3. **Tatbestand in Elemente zerlegen:** Jedes Tatbestandsmerkmal einzeln prüfen; unklare Tatsachen als `[offen: ...]` markieren.
-4. **Belege führen:** Für jede relevante Behauptung Dokument, Datum, Absender, Anlage, Registerfund oder Quelle notieren.
-5. **Gegenansicht bauen:** Mindestens eine ernsthafte Gegenargumentation und eine Verteidigungslinie formulieren.
-6. **Ergebnis kalibrieren:** Risikoampel `grün/gelb/rot`, Handlungsempfehlung, nächster Schritt und fehlende Unterlagen ausgeben.
-
-## Qualitätsgate
-Am Ende kurz prüfen: Sind Fristen, Zuständigkeit, Rechtsgrundlage, Beweislast, Zahlen, Form und gewünschter Output vollständig? Ist erkennbar, was sicher ist und was noch Sachverhaltsarbeit braucht?
-
----
-
-## Skill: `mietvertrag-apothekenstandort-konkurrenzschutz`
-
-_Wenn es um Mietvertrag Apothekenstandort Konkurrenzschutz in Apothekenrecht geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt._
-
-# Mietvertrag Apothekenstandort Konkurrenzschutz
-
-## Arbeitsweg
-
-- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
-- Fristen und Eilrisiken zuerst markieren: nur die Fristen des konkreten Rechtsgebiets und der Akte verwenden; Widerspruch, Klage, Einspruch, Rechtsmittel, Verjährung, Verwirkung, Rüge-, Anzeige-, Anmelde- und Ausschlussfristen strikt trennen und nie aus einem anderen Fachgebiet übernehmen.
-- Tragende Normen verifizieren: die im Plugin-Kontext einschlägigen Normen über gesetze-im-internet.de, dejure.org, eur-lex.europa.eu und die amtlichen Bundes-/Landesportale live prüfen — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
-- Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
-- Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
-
-## Fachkern: Mietvertrag Apothekenstandort Konkurrenzschutz
-- **Normen-/Quellenanker:** ApoG, ApBetrO, AMG, BtMG, SGB V, Heilmittelwerberecht, Versandhandel, Rezept/Retaxation, Heimversorgung und Aufsicht.
-- **Entscheidende Weiche:** Apothekenbetrieb, Abgabe, Rezept, Verantwortlichkeit, Dokumentation, Aufsicht, Retaxation und Patientensicherheit getrennt prüfen.
-- **Arbeitsprodukt:** Erzeuge eine konkrete Prüf- oder Entscheidungsmatrix mit Norm, Tatbestand, Beleg, Einwand, Risikoampel und nächstem Schritt; Anschluss-Skills nur bei echter Vertiefung nennen.
-
-## Startfragen
-- Wer fragt in welcher Rolle und welches Arbeitsergebnis wird gebraucht?
-- Welche Frist, Zuständigkeit, Behörde, Gericht oder Vertragssituation ist erkennbar?
-- Welche Dokumente, Zahlen, Registerdaten, Bescheide, Verträge oder Korrespondenz liegen vor?
-- Welche Tatsachen sind sicher, welche sind streitig und welche Annahmen müssen sichtbar markiert werden?
-- Welche live zu prüfenden Normen, Behördenhinweise oder Formulare tragen das Ergebnis?
-
-## Prüf- und Arbeitslogik
-1. **Einordnen:** Rolle, Ziel, Verfahrensstand, Vertragstyp, Behörde/Gericht, Frist und Risiken festhalten.
-2. **Normen live prüfen:** Vor tragenden Aussagen den aktuellen Stand aus amtlichen oder frei zugänglichen Quellen kontrollieren. Besonders prüfen: die im Fachkern genannten Normen-/Quellenanker, aktuellen amtlichen oder frei zugänglichen Fachquellen und die für diese Speziallage tragenden Formulare/Behördenhinweise.
-3. **Tatbestand in Elemente zerlegen:** Jedes Tatbestandsmerkmal einzeln prüfen; unklare Tatsachen als `[offen: ...]` markieren.
-4. **Belege führen:** Für jede relevante Behauptung Dokument, Datum, Absender, Anlage, Registerfund oder Quelle notieren.
-5. **Gegenansicht bauen:** Mindestens eine ernsthafte Gegenargumentation und eine Verteidigungslinie formulieren.
-6. **Ergebnis kalibrieren:** Risikoampel `grün/gelb/rot`, Handlungsempfehlung, nächster Schritt und fehlende Unterlagen ausgeben.
-
-## Qualitätsgate
-Am Ende kurz prüfen: Sind Fristen, Zuständigkeit, Rechtsgrundlage, Beweislast, Zahlen, Form und gewünschter Output vollständig? Ist erkennbar, was sicher ist und was noch Sachverhaltsarbeit braucht?
+- ApoG § 11a; AMG §§ 43, 73; AMVV; SGB V § 360.
+- BfArM DIMDI-Sicherheitslogo-Register; DEAS-Register EU-Versandapotheken.
+- BGH staend. Rspr. zum Apothekenversand und Wettbewerbsrecht.
+- EuGH staend. Rspr. zur Grenzüberschreitung (DocMorris).
+- ABDA-Hinweise zum Versandhandel (vom Anwender zu verifizieren).
 
 ---
 

@@ -1,6 +1,6 @@
 ---
 name: minderjaehrige-kunden
-description: "Wenn es um Grenzen Compliance und Selbstschutz: Ordnet verträge in Solo-Selbstständige Praxis geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Grenzen Compliance und Selbstschutz: Ordnet verträge: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Grenzen Compliance und Selbstschutz: Ordnet verträge

@@ -1,6 +1,6 @@
 ---
 name: 07-telekommunikationsueberwachung-und-verdeckte-massnahmen
-description: "Wenn es um 07 Telekommunikationsüberwachung und Verdeckte Maßnahmen in Staatsanwaltschaft und Amtsanwaltschaft geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
+description: "Für 07 Telekommunikationsüberwachung und Verdeckte Maßnahmen: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # 07 Telekommunikationsüberwachung und Verdeckte Maßnahmen

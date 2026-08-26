@@ -1,6 +1,6 @@
 ---
 name: marken-und-designmandate-organisationspflicht
-description: "Wenn es um Marken Und Designmandate Organisationspflicht in Berufsrecht Patentanwälte geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Marken und Designmandate Organisationspflicht: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Patentanwälte: marken und designmandate - Organisationspflichten, Prävention, Team-Anweisung und Fristenkontrolle

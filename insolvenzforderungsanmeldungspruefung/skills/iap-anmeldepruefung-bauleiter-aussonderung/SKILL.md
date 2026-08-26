@@ -1,6 +1,6 @@
 ---
 name: iap-anmeldepruefung-bauleiter-aussonderung
-description: "Wenn es um IAP: Anmeldepruefung Bauleiter in Insolvenzforderungsanmeldungsprüfung geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für IAP: Anmeldeprüfung Bauleiter: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Tatbestands- oder Anspruchsmatrix."
 ---
 
 # IAP: Anmeldepruefung Bauleiter

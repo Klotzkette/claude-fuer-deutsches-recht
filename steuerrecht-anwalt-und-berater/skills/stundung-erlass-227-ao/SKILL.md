@@ -1,6 +1,6 @@
 ---
 name: stundung-erlass-227-ao
-description: "Wenn es um Stundung Niederschlagung Erlass — Paragrafen 222 226 227 AO in Steuerrecht – Steuerberater und Anwälte geht: rechnet Schwellen, Beträge, Varianten und Kontrollannahmen durch; liefert eine Berechnungstabelle mit Schwellen, Annahmen und Kontrollfragen."
+description: "Für Stundung Niederschlagung Erlass — Paragrafen 222 226 227 AO: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Stundung Niederschlagung Erlass — §§ 222 226 227 AO

@@ -1,6 +1,6 @@
 ---
 name: api-portal-zugang-rollen
-description: "Wenn es um Portale, APIs und Rollen sicher verwalten in Berichtspflichten-Erlediger geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Portale, APIs und Rollen sicher verwalten: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Einreichungsplan mit Form- und Nachweischeck."
 ---
 
 # Portale, APIs und Rollen sicher verwalten

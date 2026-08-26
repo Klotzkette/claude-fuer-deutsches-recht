@@ -1,6 +1,6 @@
 ---
 name: schriftsatz-vermerk-und-mustertext
-description: "Wenn es um Schriftsatz, Vermerk und Mustertext in Verbraucher im Rechtsstaat Alltag geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Schriftsatz, Vermerk und Mustertext: erstellt Entwurf mit Antrag, Beweis und Anlagen; Ergebnis: Schriftsatz mit Begründungs- und Anlagenlogik. Fachgebiet: Verbraucher im Rechtsstaat Alltag."
 ---
 
 # Schriftsatz, Vermerk und Mustertext

@@ -1,6 +1,6 @@
 ---
 name: mandantenintake-mandatsuebergabe
-description: "Wenn es um Mandantenintake: Risikoampel, Gegenargumente und Verteidigungslinien in Plugin für die studentische Rechtsberatungsstelle geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Mandantenintake: Risikoampel, Gegenargumente und Verteidigungslinien: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Mandantenintake: Risikoampel, Gegenargumente und Verteidigungslinien

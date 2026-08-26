@@ -1,6 +1,6 @@
 ---
 name: aeste-risikoampel-und-gegenargumente
-description: "Wenn es um Aeste: Risikoampel, Gegenargumente und Verteidigungslinien in Nachbarschaftsstreit-Prüfer geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Äste: Risikoampel, Gegenargumente und Verteidigungslinien: prüft Ergebnis, Beweislast und Gegenposition; Ergebnis: Fristen- und Risikoampel."
 ---
 
 # Aeste: Risikoampel, Gegenargumente und Verteidigungslinien

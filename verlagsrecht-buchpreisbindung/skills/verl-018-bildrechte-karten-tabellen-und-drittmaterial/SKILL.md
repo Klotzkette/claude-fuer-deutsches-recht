@@ -1,6 +1,6 @@
 ---
 name: verl-018-bildrechte-karten-tabellen-und-drittmaterial
-description: "Wenn es um Verlagsrecht: Bildrechte Karten Tabellen und Drittmaterial in Verlagsrecht und Buchpreisbindung geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Verlagsrecht: Bildrechte Karten Tabellen und Drittmaterial: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Verlagsrecht: Bildrechte Karten Tabellen und Drittmaterial

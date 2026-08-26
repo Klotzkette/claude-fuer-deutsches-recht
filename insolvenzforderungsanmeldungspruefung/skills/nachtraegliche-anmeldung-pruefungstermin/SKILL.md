@@ -1,6 +1,6 @@
 ---
 name: nachtraegliche-anmeldung-pruefungstermin
-description: "Wenn es um Nachträgliche Anmeldung nach Paragraf 177 InsO in Insolvenzforderungsanmeldungsprüfung geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Nachträgliche Anmeldung nach Paragraf 177 InsO: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Tatbestands- oder Anspruchsmatrix."
 ---
 
 # Nachträgliche Anmeldung nach § 177 InsO

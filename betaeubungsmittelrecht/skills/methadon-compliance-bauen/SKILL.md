@@ -1,6 +1,6 @@
 ---
 name: methadon-compliance-bauen
-description: "Wenn es um Methadon Compliance Bauen in Betäubungsmittelrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Methadon Compliance Bauen: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Methadon Compliance Bauen

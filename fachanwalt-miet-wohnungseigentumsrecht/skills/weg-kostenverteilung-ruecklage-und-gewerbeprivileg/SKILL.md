@@ -1,6 +1,6 @@
 ---
 name: weg-kostenverteilung-ruecklage-und-gewerbeprivileg
-description: "Wenn es um Prüft Beschlüsse zur Kostenverteilung und Rücklagenzuführung nach Paragraf 16 Abs in Fachanwalt Miet- und Wohnungseigentumsrecht geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
+description: "Für Prüft Beschlüsse zur Kostenverteilung und Rücklagenzuführung nach Paragraf 16 Abs: erstellt Entwurf mit Antrag, Beweis und Anlagen; Ergebnis: Schriftsatz mit Begründungs- und Anlagenlogik."
 ---
 
 # Prüft Beschlüsse zur Kostenverteilung und Rücklagenzuführung nach § 16 Abs

@@ -1,6 +1,6 @@
 ---
 name: workflow-security-by-design-sprint
-description: "Wenn es um Security-by-Design-Sprint in robotik-recht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
+description: "Für Security-by-Design-Sprint: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt. Fachgebiet: robotik-recht. Route: workflow-security-by-design-sprint."
 ---
 
 # Security-by-Design-Sprint

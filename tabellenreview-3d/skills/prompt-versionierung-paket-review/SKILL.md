@@ -1,6 +1,6 @@
 ---
 name: prompt-versionierung-paket-review
-description: "Wenn es um /tabellenreview-3d:prompt-versionierung in Tabellenreview 3D geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. Auswahlstichwort: Prompt Versionierung Paket Review; Arbeitsfeld: Tabellenreview 3D."
+description: "Für /tabellenreview-3d:prompt-versionierung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt. Fachgebiet: Tabellenreview 3D. Route: prompt-versionierung-paket-review."
 ---
 
 # /tabellenreview-3d:prompt-versionierung

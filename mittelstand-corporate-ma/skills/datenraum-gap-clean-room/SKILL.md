@@ -1,6 +1,6 @@
 ---
 name: datenraum-gap-clean-room
-description: "Wenn es um Datenraum-Gap-Analyse und Clean Room in Mittelstands-Corporate/M&A geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
+description: "Für Datenraum-Gap-Analyse und Clean Room: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt. Fachgebiet: Mittelstands-Corporate/M&A."
 ---
 
 # Datenraum-Gap-Analyse und Clean Room

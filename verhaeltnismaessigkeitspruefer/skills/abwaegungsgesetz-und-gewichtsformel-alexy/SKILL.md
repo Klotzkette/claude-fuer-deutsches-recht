@@ -1,6 +1,6 @@
 ---
 name: abwaegungsgesetz-und-gewichtsformel-alexy
-description: "Wenn es um Abwaegungsgesetz und Gewichtsformel — Alexys Werkzeug für Stufe 4 in Verhältnismäßigkeitsprüfer geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Abwägungsgesetz und Gewichtsformel — Alexys Werkzeug für Stufe 4: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Abwaegungsgesetz und Gewichtsformel — Alexys Werkzeug für Stufe 4

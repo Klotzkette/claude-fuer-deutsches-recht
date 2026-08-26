@@ -1,6 +1,6 @@
 ---
 name: unionsrechtskonforme-beweislast-und-darlegungslast
-description: "Wenn es um Unionsrechtskonforme Beweislast Und Darlegungslast in Methodenlehre bürgerliches Recht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Unionsrechtskonforme Beweislast und Darlegungslast: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Beweislast- und Substantiierungsmatrix. Fachgebiet: Methodenlehre bürgerliches Recht. Route: unionsrechtskonforme-beweislast-und-darlegungslast."
 ---
 
 # Dieses Skill untersucht, wie EU-Richtlinien und EuGH-Rechtsprechung die nationalen Regeln zur Beweislast und Darlegungslast im bürgerlichen Recht verändern
@@ -99,3 +99,7 @@ unmittelbare Konsequenzen für die Überzeugungskraft vor Gericht und in der Ver
 oder widersprüchliche Argumentation wird von gut vorbereiteten Gegenseiten ausgenutzt und kann einen
 substanziell starken Fall erheblich schwächen. Die konsequente Anwendung methodischer Prinzipien
 schützt die eigene Position und macht sie resilient gegenüber Angriffen.
+
+## Vertiefung bei Bedarf
+
+- Bei `spezial-unionsrechtskonforme-beweislast-und-darlegungslast` beziehungsweise Unionsrechtskonforme: Beweislast, Darlegungslast und Substantiierung: [die zusätzliche Vertiefung laden](./references/vertiefung-spezial-unionsrechtskonforme-beweislast-und-darlegungslast.md).

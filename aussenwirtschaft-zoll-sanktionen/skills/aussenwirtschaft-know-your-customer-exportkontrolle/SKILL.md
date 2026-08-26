@@ -1,6 +1,6 @@
 ---
 name: aussenwirtschaft-know-your-customer-exportkontrolle
-description: "Wenn es um Aussenwirtschaft Know Your Customer Exportkontrolle in Außenwirtschaft, Sanktionen, Zoll und CBAM geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Außenwirtschaft Know Your Customer Exportkontrolle: prüft Ergebnis, Beweislast und Gegenposition; Ergebnis: Gegenprüfung mit Beweis- und Fristencheck."
 ---
 
 # Know Your Customer im Exportkontrollkontext: Kundenscreening und Endverwenderidentifizierung

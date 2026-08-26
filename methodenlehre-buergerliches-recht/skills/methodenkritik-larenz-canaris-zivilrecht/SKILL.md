@@ -1,6 +1,6 @@
 ---
 name: methodenkritik-larenz-canaris-zivilrecht
-description: "Wenn es um Methodenkritik Larenz/Canaris im Zivilrecht: System, Wertung, Autoritätskontrolle in Methodenlehre bürgerliches Recht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
+description: "Für Methodenkritik Larenz/Canaris im Zivilrecht: System, Wertung, Autoritätskontrolle: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Methodenkritik Larenz/Canaris im Zivilrecht: System, Wertung, Autoritätskontrolle

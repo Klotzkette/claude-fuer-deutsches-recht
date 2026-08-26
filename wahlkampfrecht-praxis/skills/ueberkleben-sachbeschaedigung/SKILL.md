@@ -1,6 +1,6 @@
 ---
 name: ueberkleben-sachbeschaedigung
-description: "Wenn es um Ueberkleben Sachbeschaedigung in Wahlkampfrecht Praxis geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Überkleben Sachbeschädigung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Ueberkleben Sachbeschaedigung

@@ -1,6 +1,6 @@
 ---
 name: comfortletter-weich-erzeugen
-description: "Wenn es um Comfortletter (weich) in Fortbestehensprognose geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Comfortletter (weich): ordnet Norm, Beweislast und Gegenargument; Ergebnis: Schnittstellenkarte mit Zuständigkeits- und Nachweisfragen."
 ---
 
 # Comfortletter (weich)

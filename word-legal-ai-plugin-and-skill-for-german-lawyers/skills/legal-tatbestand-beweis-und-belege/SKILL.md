@@ -1,6 +1,6 @@
 ---
 name: legal-tatbestand-beweis-und-belege
-description: "Wenn es um Legal: Tatbestandsmerkmale, Beweisfragen und Beleglage in diesem Spezialbereich geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Beweislast- und Substantiierungsmatrix."
+description: "Für Legal: Tatbestandsmerkmale, Beweisfragen und Beleglage: ordnet Akte, Belege und Lücken; Ergebnis: Beweislast- und Substantiierungsmatrix."
 ---
 
 # Legal: Tatbestandsmerkmale, Beweisfragen und Beleglage

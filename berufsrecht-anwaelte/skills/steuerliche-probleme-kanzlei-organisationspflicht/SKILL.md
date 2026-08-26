@@ -1,6 +1,6 @@
 ---
 name: steuerliche-probleme-kanzlei-organisationspflicht
-description: "Wenn es um Steuerliche Probleme Kanzlei Organisationspflicht in Berufsrecht Anwälte geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Steuerliche Probleme Kanzlei Organisationspflicht: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Schnittstellenkarte mit Zuständigkeits- und Nachweisfragen."
 ---
 
 # Anwälte: steuerliche probleme kanzlei - Organisationspflichten, Prävention, Team-Anweisung und Fristenkontrolle

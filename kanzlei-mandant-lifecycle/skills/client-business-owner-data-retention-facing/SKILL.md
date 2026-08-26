@@ -1,6 +1,6 @@
 ---
 name: client-business-owner-data-retention-facing
-description: "Wenn es um Business Owner Education in Kanzlei-Mandant Lifecycle geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Business Owner Education: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Business Owner Education

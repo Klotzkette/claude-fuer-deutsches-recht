@@ -1,6 +1,6 @@
 ---
 name: bmwe-industriepolitik-foerderrecht
-description: "Wenn es um Industriepolitik; Foerderrecht; EU-Beihilfen (BMWE) in Legistik-Werkstatt geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen. Auswahlstichwort: Bmwe Industriepolitik Foerderrecht; Arbeitsfeld: Legistik-Werkstatt."
+description: "Für Industriepolitik; Förderrecht; EU-Beihilfen (BMWE): ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt. Fachgebiet: Legistik-Werkstatt. Route: bmwe-industriepolitik-foerderrecht."
 ---
 
 # Industriepolitik; Foerderrecht; EU-Beihilfen (BMWE)

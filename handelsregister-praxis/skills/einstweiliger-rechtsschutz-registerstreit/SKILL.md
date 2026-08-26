@@ -1,6 +1,6 @@
 ---
 name: einstweiliger-rechtsschutz-registerstreit
-description: "Wenn es um Eilrechtsschutz bei Registerstillstand in Handelsregister Praxis geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert einen Einreichungsplan mit Form-, Portal- und Nachweischeck."
+description: "Für Eilrechtsschutz bei Registerstillstand: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Einreichungsplan mit Form- und Nachweischeck."
 ---
 
 # Eilrechtsschutz bei Registerstillstand

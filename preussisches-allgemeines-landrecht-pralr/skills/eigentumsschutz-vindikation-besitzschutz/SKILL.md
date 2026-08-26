@@ -1,6 +1,6 @@
 ---
 name: eigentumsschutz-vindikation-besitzschutz
-description: "Wenn es um Pralr Eigentumsschutz Vindikation Besitzschutz in Preußisches Allgemeines Landrecht geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Pralr Eigentumsschutz Vindikation Besitzschutz: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt. Fachgebiet: Preußisches Allgemeines Landrecht. Route: eigentumsschutz-vindikation-besitzschutz."
 ---
 
 # Pralr Eigentumsschutz Vindikation Besitzschutz

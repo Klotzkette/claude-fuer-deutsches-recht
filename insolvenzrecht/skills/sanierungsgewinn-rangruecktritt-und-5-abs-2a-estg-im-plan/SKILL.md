@@ -1,6 +1,6 @@
 ---
 name: sanierungsgewinn-rangruecktritt-und-5-abs-2a-estg-im-plan
-description: "Prüft Rangrücktritte im Insolvenzplan getrennt nach Zivilrecht, Überschuldungsstatus und Steuerbilanz. Liefert eine belastbare Variantenentscheidung zu Paragraph 19 InsO und Paragraph 5 Absatz 2a EStG samt Klausel, Bilanzfolge und Steuerwarnung."
+description: "Prüft Rangrücktritte im Insolvenzplan getrennt nach Zivilrecht, Überschuldungsstatus und Steuerbilanz."
 ---
 
 # Sanierungsgewinn — Rangrücktritt und Paragraph 5 Absatz 2a EStG im Plan

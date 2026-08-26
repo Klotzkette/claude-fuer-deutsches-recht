@@ -1,6 +1,6 @@
 ---
 name: foto-video-einwilligung-schule
-description: "Wenn es um Foto, Video und Einwilligung Schule in Schulrecht der Bundesländer geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Foto, Video und Einwilligung Schule: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Foto, Video und Einwilligung Schule

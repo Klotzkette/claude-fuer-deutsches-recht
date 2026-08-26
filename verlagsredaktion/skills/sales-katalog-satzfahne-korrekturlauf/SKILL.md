@@ -1,6 +1,6 @@
 ---
 name: sales-katalog-satzfahne-korrekturlauf
-description: "Wenn es um Sales, Katalog und Buchhandel in Verlagsredaktion geht: entwickelt Verhandlungsziel, Vergleichskorridor und Eskalationspfad; liefert eine Verhandlungs- oder Eskalationslinie mit Optionen."
+description: "Für Sales, Katalog und Buchhandel: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Sales, Katalog und Buchhandel

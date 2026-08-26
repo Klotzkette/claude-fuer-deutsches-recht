@@ -1,6 +1,6 @@
 ---
 name: besitz-rechtsrealismus-praktische
-description: "Wenn es um Besitz, Rechtsrealismus und praktische Bedürfnisse in Rechtstheorie und Rechtsphilosophie geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Gegenprüfung mit Fehler-, Beweis- und Fristencheck."
+description: "Für Besitz, Rechtsrealismus und praktische Bedürfnisse: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Besitz, Rechtsrealismus und praktische Bedürfnisse

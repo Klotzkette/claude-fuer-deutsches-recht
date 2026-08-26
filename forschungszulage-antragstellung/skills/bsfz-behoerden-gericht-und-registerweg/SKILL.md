@@ -1,6 +1,6 @@
 ---
 name: bsfz-behoerden-gericht-und-registerweg
-description: "Wenn es um Bsfz: Behörden-, Gerichts- oder Registerweg in Forschungszulage-Antragstellung geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
+description: "Für Bsfz: Behörden-, Gerichts- oder Registerweg: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Einreichungsplan mit Form- und Nachweischeck."
 ---
 
 # Bsfz: Behörden-, Gerichts- oder Registerweg

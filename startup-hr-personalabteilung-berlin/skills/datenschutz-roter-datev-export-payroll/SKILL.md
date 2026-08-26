@@ -1,6 +1,6 @@
 ---
 name: datenschutz-roter-datev-export-payroll
-description: "Wenn es um Datenschutz Roter Schalter Personaldaten in Start-up-HR-Personalabteilung Berlin geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Datenschutz Roter Schalter Personaldaten: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Datenschutz Roter Schalter Personaldaten

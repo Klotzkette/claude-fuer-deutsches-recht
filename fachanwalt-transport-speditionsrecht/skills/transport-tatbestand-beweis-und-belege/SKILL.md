@@ -1,6 +1,6 @@
 ---
 name: transport-tatbestand-beweis-und-belege
-description: "Wenn es um Transport: Tatbestandsmerkmale, Beweisfragen und Beleglage in Fachanwalt Transport Speditionsrecht geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Beweislast- und Substantiierungsmatrix."
+description: "Für Transport: Tatbestandsmerkmale, Beweisfragen und Beleglage: ordnet Akte, Belege und Lücken; Ergebnis: Beweislast- und Substantiierungsmatrix."
 ---
 
 # Transport: Tatbestandsmerkmale, Beweisfragen und Beleglage

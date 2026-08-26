@@ -1,6 +1,6 @@
 ---
 name: dworkin-prinzipien-integritaet-zivilrecht
-description: "Wenn es um Dworkin im Zivilrecht: Prinzipien, Integrität und hard cases in Methodenlehre bürgerliches Recht geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
+description: "Für Dworkin im Zivilrecht: Prinzipien, Integrität und hard cases: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Dworkin im Zivilrecht: Prinzipien, Integrität und hard cases

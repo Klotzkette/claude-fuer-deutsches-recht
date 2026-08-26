@@ -1,6 +1,6 @@
 ---
 name: betreiber-checkliste-folgenabschaetzung
-description: "Wenn es um Output: Betreiber-Checkliste und Grundrechte-Folgenabschätzung in diesem Spezialbereich geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
+description: "Für Output: Betreiber-Checkliste und Grundrechte-Folgenabschätzung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Output: Betreiber-Checkliste und Grundrechte-Folgenabschätzung

@@ -1,6 +1,6 @@
 ---
 name: beschwerde-besoldung-zulagen-beurteilung
-description: "Wenn es um Beschwerde gegen Beurteilung und Laufbahnentscheidung in Bundeswehrrecht und Wehrrecht geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen."
+description: "Für Beschwerde gegen Beurteilung und Laufbahnentscheidung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Schnittstellenkarte mit Zuständigkeits- und Nachweisfragen."
 ---
 
 # Beschwerde gegen Beurteilung und Laufbahnentscheidung

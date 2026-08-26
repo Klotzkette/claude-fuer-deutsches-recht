@@ -1,6 +1,6 @@
 ---
 name: verletzung-anspruchsmerkmale
-description: "Wenn es um Verletzung Anspruchsmerkmale in gebrauchsmusterrecht geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Beweislast- und Substantiierungsmatrix."
+description: "Für Verletzung Anspruchsmerkmale: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Tatbestands- oder Anspruchsmatrix."
 ---
 
 # Verletzung Anspruchsmerkmale

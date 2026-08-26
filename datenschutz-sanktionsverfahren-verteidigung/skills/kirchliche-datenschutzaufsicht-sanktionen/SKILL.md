@@ -1,6 +1,6 @@
 ---
 name: kirchliche-datenschutzaufsicht-sanktionen
-description: "Wenn es um Kirchliche Datenschutzaufsicht in Datenschutz-Sanktionsverfahren und Verteidigung geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Kirchliche Datenschutzaufsicht: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Kirchliche Datenschutzaufsicht

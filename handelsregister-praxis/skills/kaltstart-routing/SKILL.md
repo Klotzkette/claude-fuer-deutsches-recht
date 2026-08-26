@@ -1,6 +1,6 @@
 ---
 name: kaltstart-routing
-description: "Wenn es um Kaltstart-Interview und Registerfahrplan in Handelsregister Praxis geht: klärt Rolle, Ziel, Frist, Unterlagen und den passenden nächsten Fachskill; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Kaltstart-Interview und Registerfahrplan: routet Rolle, Frist, Unterlagen und Fachschritt; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Kaltstart-Interview und Registerfahrplan

@@ -1,6 +1,6 @@
 ---
 name: kapitalerhoehung-genehmigtes-kleine-ag
-description: "Wenn es um Kapitalerhoehung Genehmigtes Kapital in Hauptversammlung AG und SE geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Kapitalerhöhung Genehmigtes Kapital: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Kapitalerhoehung Genehmigtes Kapital

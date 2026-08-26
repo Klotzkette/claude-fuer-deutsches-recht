@@ -1,6 +1,6 @@
 ---
 name: ausschlussfristen-bestandskraft
-description: "Wenn es um Ausschlussfristen Und Bestandskraft in Einigungsvertrag und Vermögensrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Ausschlussfristen und Bestandskraft: prüft Frist, Form, Zuständigkeit und Eilbedarf; Ergebnis: Fristen- und Risikoampel."
 ---
 
 # Ausschlussfristen Und Bestandskraft

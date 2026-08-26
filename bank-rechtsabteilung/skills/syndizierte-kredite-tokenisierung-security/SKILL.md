@@ -1,6 +1,6 @@
 ---
 name: syndizierte-kredite-tokenisierung-security
-description: "Wenn es um Syndizierter Kredit in Bank-Rechtsabteilung geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen."
+description: "Für Syndizierter Kredit: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Syndizierter Kredit

@@ -1,6 +1,6 @@
 ---
 name: infl-046-usa-brand-w-8ben-vertrag-und-withholding
-description: "Wenn es um Influencer-Recht: USA Brand W-8BEN Vertrag und Withholding in Influencer-Recht geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Influencer-Recht: USA Brand W-8BEN Vertrag und Withholding: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Influencer-Recht: USA Brand W-8BEN Vertrag und Withholding

@@ -1,6 +1,6 @@
 ---
 name: polizei-filmen-von-einsaetzen-kug-201-stgb
-description: "Wenn es um Polizeirecht: Filmen, Fotografieren und Tonaufnahmen von Polizeieinsätzen prüfen in Fachanwalt Verwaltungsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Polizeirecht: Filmen, Fotografieren und Tonaufnahmen von Polizeieinsätzen prüfen: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Polizeirecht: Filmen, Fotografieren und Tonaufnahmen von Polizeieinsätzen prüfen
@@ -75,3 +75,7 @@ Ein pauschales Einschreiten gegen das Anfertigen von Bild- oder Videoaufnahmen t
 - Konkrete Gefahr oder Anfangsverdacht wirklich belegt?
 - Versammlung/Presse/Beweissicherung als Grundrechtsposition ausdrücklich gewürdigt?
 - Keine pauschale Behauptung „immer erlaubt“ oder „immer verboten“?
+
+## Vertiefung bei Bedarf
+
+- Bei `spezial-polizei-filmen-von-einsaetzen-kug-201-stgb` beziehungsweise Polizeieinsätze Filmen Und Beweissichernd Dokumentieren: [die zusätzliche Vertiefung laden](./references/vertiefung-spezial-polizei-filmen-von-einsaetzen-kug-201-stgb.md).

@@ -1,6 +1,6 @@
 ---
 name: rechtsschein-redteam
-description: "Wenn es um Rechtsschein Red-Team — Vollmacht und Duldungs-Anscheinsvollmacht in BGB AT Prüfer geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Gegenprüfung mit Fehler-, Beweis- und Fristencheck."
+description: "Für Rechtsschein Red-Team — Vollmacht und Duldungs-Anscheinsvollmacht: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Rechtsschein Red-Team — Vollmacht und Duldungs-Anscheinsvollmacht

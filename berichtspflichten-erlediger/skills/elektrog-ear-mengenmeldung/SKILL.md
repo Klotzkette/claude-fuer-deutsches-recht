@@ -1,6 +1,6 @@
 ---
 name: elektrog-ear-mengenmeldung
-description: "Wenn es um ElektroG ear und Mengenmeldung in Berichtspflichten-Erlediger geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für ElektroG ear und Mengenmeldung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # ElektroG ear und Mengenmeldung

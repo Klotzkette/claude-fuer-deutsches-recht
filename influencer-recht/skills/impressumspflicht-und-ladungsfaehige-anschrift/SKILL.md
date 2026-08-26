@@ -1,6 +1,6 @@
 ---
 name: impressumspflicht-und-ladungsfaehige-anschrift
-description: "Prüft Anbieterinformationen für Creator-Accounts, Websites, Shops und Link-in-Bio-Seiten nach Paragraf 5 DDG und Paragraf 18 MStV. Erfasst Diensteanbieter, Niederlassung, Register, Aufsicht und Erreichbarkeit je Kanal; liefert ein vollständiges Impressum, Erreichbarkeitsprüfung und belastbare Abmahnreaktion."
+description: "Prüft Anbieterinformationen für Creator-Accounts, Websites, Shops und Link-in-Bio-Seiten nach Paragraf 5 DDG und Paragraf 18 MStV."
 ---
 
 # Anbieterinformationen und erreichbare Anschrift für Creator

@@ -1,6 +1,6 @@
 ---
 name: gentherapie-langzeit-followup
-description: "Wenn es um Gentherapie Langzeit Followup in Fachanwalt Medizinrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Gentherapie Langzeit Followup: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Gentherapie Langzeit-Follow-up: moderner Medizinrechts-Skill für Nachbeobachtung über Jahre, Registerdaten, Patientenumzug, Abbruch der Nachsorge und Haftungsfolgen

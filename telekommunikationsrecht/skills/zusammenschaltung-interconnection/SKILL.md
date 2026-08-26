@@ -1,6 +1,6 @@
 ---
 name: zusammenschaltung-interconnection
-description: "Wenn es um Zusammenschaltung und Interconnection in Telekommunikationsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Zusammenschaltung und Interconnection: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Zusammenschaltung und Interconnection

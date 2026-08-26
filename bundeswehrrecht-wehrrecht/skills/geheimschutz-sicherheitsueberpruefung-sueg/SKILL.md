@@ -1,6 +1,6 @@
 ---
 name: geheimschutz-sicherheitsueberpruefung-sueg
-description: "Wenn es um Geheimschutz und Sicherheitsüberprüfung (SÜG) in Bundeswehrrecht und Wehrrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Geheimschutz und Sicherheitsüberprüfung (SÜG): ordnet Norm, Beweislast und Gegenargument; Ergebnis: Tatbestands- oder Anspruchsmatrix."
 ---
 
 # Geheimschutz und Sicherheitsüberprüfung (SÜG)

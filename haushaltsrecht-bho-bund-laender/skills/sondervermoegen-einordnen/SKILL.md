@@ -1,6 +1,6 @@
 ---
 name: sondervermoegen-einordnen
-description: "Wenn es um Sondervermoegen Einordnen in Haushaltsrecht BHO Bund und Länder geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Sondervermögen Einordnen: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Sondervermoegen Einordnen

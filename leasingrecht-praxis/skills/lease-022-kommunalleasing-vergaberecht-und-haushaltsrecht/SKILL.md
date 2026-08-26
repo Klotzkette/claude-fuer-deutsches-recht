@@ -1,6 +1,6 @@
 ---
 name: lease-022-kommunalleasing-vergaberecht-und-haushaltsrecht
-description: "Wenn es um Leasingrecht: Kommunalleasing Vergaberecht und Haushaltsrecht in Leasingrecht Praxis geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Leasingrecht: Kommunalleasing Vergaberecht und Haushaltsrecht: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Leasingrecht: Kommunalleasing Vergaberecht und Haushaltsrecht

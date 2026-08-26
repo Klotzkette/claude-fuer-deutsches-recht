@@ -1,6 +1,6 @@
 ---
 name: kv-076-asylbewerberleistungsgesetz-und-gesundheitsversorgung
-description: "Wenn es um Krankenversicherung: Asylbewerberleistungsgesetz und Gesundheitsversorgung in Krankenkassenrecht und Krankenversicherung geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Krankenversicherung: Asylbewerberleistungsgesetz und Gesundheitsversorgung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Krankenversicherung: Asylbewerberleistungsgesetz und Gesundheitsversorgung

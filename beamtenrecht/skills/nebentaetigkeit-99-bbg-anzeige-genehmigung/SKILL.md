@@ -1,6 +1,6 @@
 ---
 name: nebentaetigkeit-99-bbg-anzeige-genehmigung
-description: "Wenn es um Nebentaetigkeit Paragraf 99 BBG — Anzeige und Genehmigung in Beamtenrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Nebentätigkeit Paragraf 99 BBG — Anzeige und Genehmigung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Nebentaetigkeit § 99 BBG — Anzeige und Genehmigung

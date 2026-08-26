@@ -1,6 +1,6 @@
 ---
 name: aktenintake-zivil
-description: "Wenn es um Aktenintake Zivilprozess in Urteilsbauer und Relationsmacher geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Beweislast- und Substantiierungsmatrix."
+description: "Für Aktenintake Zivilprozess: ordnet Akte, Belege und Lücken; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Aktenintake Zivilprozess

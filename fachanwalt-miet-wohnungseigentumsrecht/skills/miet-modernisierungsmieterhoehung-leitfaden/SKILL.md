@@ -1,6 +1,6 @@
 ---
 name: miet-modernisierungsmieterhoehung-leitfaden
-description: "Wenn es um Miet Modernisierungsmieterhoehung Leitfaden in Fachanwalt Miet- und Wohnungseigentumsrecht geht: rechnet Schwellen, Beträge, Varianten und Kontrollannahmen durch; liefert eine Berechnungstabelle mit Schwellen, Annahmen und Kontrollfragen."
+description: "Für Miet Modernisierungsmieterhöhung Leitfaden: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Leitfaden Modernisierungsmieterhoehung §§ 555b und 559 BGB: Ankuendigung, Berechnung, Haertegrund, Kappungsgrenze

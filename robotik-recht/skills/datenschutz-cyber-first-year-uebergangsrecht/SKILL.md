@@ -1,6 +1,6 @@
 ---
 name: datenschutz-cyber-first-year-uebergangsrecht
-description: "Wenn es um Datenschutz-Cyber-Intake in robotik-recht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt. Auswahlstichwort: Datenschutz Cyber First Year Uebergangsrecht; Arbeitsfeld: robotik-recht."
+description: "Für Datenschutz-Cyber-Intake: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt. Fachgebiet: robotik-recht. Route: datenschutz-cyber-first-year-uebergangsrecht."
 ---
 
 # Datenschutz-Cyber-Intake

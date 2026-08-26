@@ -1,6 +1,6 @@
 ---
 name: aussergewoehnliche-distanz-interessen
-description: "Wenn es um Aussergewoehnliche: Zahlen, Schwellenwerte und Berechnung in Fluggastrechte geht: rechnet Schwellen, Beträge, Varianten und Kontrollannahmen durch; liefert eine Berechnungstabelle mit Schwellen, Annahmen und Kontrollfragen."
+description: "Für Außergewöhnliche: Zahlen, Schwellenwerte und Berechnung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt. Fachgebiet: Fluggastrechte. Route: aussergewoehnliche-distanz-interessen."
 ---
 
 # Aussergewoehnliche: Zahlen, Schwellenwerte und Berechnung

@@ -1,6 +1,6 @@
 ---
 name: plattform-piraterie-donauzon
-description: "Wenn es um Plattform-Piraterie und Notice-and-Action nach DSA in markenrecht-fashion-luxus geht: entwickelt Verhandlungsziel, Vergleichskorridor und Eskalationspfad; liefert eine Beweislast- und Substantiierungsmatrix."
+description: "Für Plattform-Piraterie und Notice-and-Action nach DSA: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Plattform-Piraterie und Notice-and-Action nach DSA

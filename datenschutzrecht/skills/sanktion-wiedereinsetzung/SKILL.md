@@ -1,6 +1,6 @@
 ---
 name: sanktion-wiedereinsetzung
-description: "Wenn es um Wiedereinsetzung nach Fristversäumnis in Datenschutzrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Wiedereinsetzung nach Fristversäumnis: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Wiedereinsetzung nach Fristversäumnis

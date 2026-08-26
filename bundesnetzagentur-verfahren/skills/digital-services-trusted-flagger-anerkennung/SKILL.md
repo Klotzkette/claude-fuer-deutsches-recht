@@ -1,6 +1,6 @@
 ---
 name: digital-services-trusted-flagger-anerkennung
-description: "Wenn es um Trusted Flagger: Anerkennung nach Art. 22 DSA in Bundesnetzagentur-Verfahren geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
+description: "Für Trusted Flagger: Anerkennung nach Art. 22 DSA: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Trusted Flagger: Anerkennung nach Art. 22 DSA

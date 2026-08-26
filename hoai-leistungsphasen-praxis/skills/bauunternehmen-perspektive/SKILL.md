@@ -1,6 +1,6 @@
 ---
 name: bauunternehmen-perspektive
-description: "Wenn es um HOAI Querschnitt: Übersetzt hoai-planungsstand in ausführungsrisiko und nachtragschance in HOAI Leistungsphasen Praxis geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen."
+description: "Für HOAI Querschnitt: Übersetzt HOAI-planungsstand in ausführungsrisiko und nachtragschance: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # HOAI Querschnitt: Übersetzt hoai-planungsstand in ausführungsrisiko und nachtragschance

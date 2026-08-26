@@ -1,6 +1,6 @@
 ---
 name: formerfordernisse-erstpruefung-und-mandatsziel
-description: "Wenn es um Formerfordernisse: Erstprüfung, Rollenklärung und Mandatsziel in Schriftform und Textform im BGB geht: klärt Rolle, Ziel, Frist, Unterlagen und den passenden nächsten Fachskill; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Formerfordernisse: Erstprüfung, Rollenklärung und Mandatsziel: routet Rolle, Frist, Unterlagen und Fachschritt; Ergebnis: Tatbestands- oder Anspruchsmatrix."
 ---
 
 # Formerfordernisse: Erstprüfung, Rollenklärung und Mandatsziel

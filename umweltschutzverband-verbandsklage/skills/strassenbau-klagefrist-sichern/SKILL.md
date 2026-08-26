@@ -1,6 +1,6 @@
 ---
 name: strassenbau-klagefrist-sichern
-description: "Wenn es um Strassenbau Klagefrist Sichern in Umweltschutzverband Verbandsklage geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Strassenbau Klagefrist Sichern: erstellt Entwurf mit Antrag, Beweis und Anlagen; Ergebnis: Fristen- und Risikoampel."
 ---
 
 # Strassenbau Klagefrist Sichern

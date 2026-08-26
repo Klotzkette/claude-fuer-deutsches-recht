@@ -1,6 +1,6 @@
 ---
 name: mondvertrag-ressourcen
-description: "Wenn es um Weltraumrecht: Mondvertrag: Ressourcen-Governance und politische Akzeptanz in Weltraumrecht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
+description: "Für Weltraumrecht: Mondvertrag: Ressourcen-Governance und politische Akzeptanz: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Weltraumrecht: Mondvertrag: Ressourcen-Governance und politische Akzeptanz

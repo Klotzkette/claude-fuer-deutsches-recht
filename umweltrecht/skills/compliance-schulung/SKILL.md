@@ -1,6 +1,6 @@
 ---
 name: compliance-schulung
-description: "Wenn es um Compliance, Beauftragte und Schulung im Umweltrecht in Umweltrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Compliance, Beauftragte und Schulung im Umweltrecht: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Compliance, Beauftragte und Schulung im Umweltrecht

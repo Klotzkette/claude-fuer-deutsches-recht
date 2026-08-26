@@ -1,6 +1,6 @@
 ---
 name: verkehrsstrafrecht-blutprobe-fahrerlaubnis
-description: "Wenn es um Verkehrsstrafrecht: Blutprobe, Fahrerlaubnis und Strafbefehl in Staatsanwaltschaft Praxis-Einstieg geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Beweislast- und Substantiierungsmatrix."
+description: "Für Verkehrsstrafrecht: Blutprobe, Fahrerlaubnis und Strafbefehl: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Verkehrsstrafrecht: Blutprobe, Fahrerlaubnis und Strafbefehl

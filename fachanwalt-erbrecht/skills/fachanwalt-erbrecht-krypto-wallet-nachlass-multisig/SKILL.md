@@ -1,6 +1,6 @@
 ---
 name: fachanwalt-erbrecht-krypto-wallet-nachlass-multisig
-description: "Wenn es um Digitaler Nachlass — Krypto-Wallet und Multi-Sig in Fachanwalt Erbrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Digitaler Nachlass — Krypto-Wallet und Multi-Sig: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Digitaler Nachlass — Krypto-Wallet und Multi-Sig

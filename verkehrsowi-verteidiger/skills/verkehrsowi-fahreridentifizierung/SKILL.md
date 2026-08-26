@@ -1,6 +1,6 @@
 ---
 name: verkehrsowi-fahreridentifizierung
-description: "Wenn es um Fahreridentifizierung im OWi-Verfahren in VerkehrsOWi-Verteidiger geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Fahreridentifizierung im OWi-Verfahren: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Fahreridentifizierung im OWi-Verfahren

@@ -1,6 +1,6 @@
 ---
 name: lizenzvertrag-verhandlung
-description: "Wenn es um Lizenzvertrag Verhandlung in Fachanwalt Urheber Medienrecht geht: entwickelt Verhandlungsziel, Vergleichskorridor und Eskalationspfad; liefert eine Verhandlungs- oder Eskalationslinie mit Optionen."
+description: "Für Lizenzvertrag Verhandlung: entwickelt Ziel, Vergleich und Eskalation; Ergebnis: Verhandlungs- oder Eskalationslinie."
 ---
 
 # Lizenzvertraege für Urheberrechte Leistungsschutzrechte oder Marken verhandeln und gestalten

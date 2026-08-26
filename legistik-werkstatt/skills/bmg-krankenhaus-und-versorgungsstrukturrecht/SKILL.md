@@ -1,6 +1,6 @@
 ---
 name: bmg-krankenhaus-und-versorgungsstrukturrecht
-description: "Wenn es um Krankenhaus- und Versorgungsstrukturrecht (BMG) in Legistik-Werkstatt geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen. Auswahlstichwort: Bmg Krankenhaus Und Versorgungsstrukturrecht; Arbeitsfeld: Legistik-Werkstatt."
+description: "Für Krankenhaus- und Versorgungsstrukturrecht (BMG): ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt. Fachgebiet: Legistik-Werkstatt. Route: bmg-krankenhaus-und-versorgungsstrukturrecht."
 ---
 
 # Krankenhaus- und Versorgungsstrukturrecht (BMG)

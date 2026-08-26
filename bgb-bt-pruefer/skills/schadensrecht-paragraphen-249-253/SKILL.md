@@ -1,6 +1,6 @@
 ---
 name: schadensrecht-paragraphen-249-253
-description: "Wenn es um Schadensrecht Paragrafen 249-253 BGB in BGB BT Prüfer geht: rechnet Schwellen, Beträge, Varianten und Kontrollannahmen durch; liefert eine Berechnungstabelle mit Schwellen, Annahmen und Kontrollfragen."
+description: "Für Schadensrecht Paragrafen 249-253 BGB: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Schadensrecht §§ 249-253 BGB

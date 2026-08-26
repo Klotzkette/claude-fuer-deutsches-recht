@@ -1,6 +1,6 @@
 ---
 name: sozialrechtlicher-bescheid-widerspruch
-description: "Wenn es um Sozialrechtlicher Bescheid Widerspruch in Solo-Selbstständige Praxis geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Sozialrechtlicher Bescheid Widerspruch: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Sozialversicherung und Vorsorge: Macht aus kasse/drv/ksk-bescheid eine verständliche widerspruchsstrategie

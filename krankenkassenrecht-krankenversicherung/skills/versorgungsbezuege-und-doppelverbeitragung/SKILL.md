@@ -1,6 +1,6 @@
 ---
 name: versorgungsbezuege-und-doppelverbeitragung
-description: "Wenn es um Versorgungsbezüge und Doppelverbeitragung in Krankenkassenrecht und Krankenversicherung geht: rechnet Schwellen, Beträge, Varianten und Kontrollannahmen durch; liefert eine Berechnungstabelle mit Schwellen, Annahmen und Kontrollfragen."
+description: "Für Versorgungsbezüge und Doppelverbeitragung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Versorgungsbezüge und Doppelverbeitragung

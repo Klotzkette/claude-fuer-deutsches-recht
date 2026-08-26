@@ -1,6 +1,6 @@
 ---
 name: formnichtigkeit-paragraphen-125-129
-description: "Wenn es um Formnichtigkeit — Paragrafen 125 bis 129 BGB in BGB AT Prüfer geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
+description: "Für Formnichtigkeit — Paragrafen 125 bis 129 BGB: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Formnichtigkeit — §§ 125 bis 129 BGB

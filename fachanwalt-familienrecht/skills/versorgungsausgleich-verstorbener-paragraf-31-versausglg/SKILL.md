@@ -1,6 +1,6 @@
 ---
 name: versorgungsausgleich-verstorbener-paragraf-31-versausglg
-description: "Prüft die Folgen des Todes eines Ehegatten für Scheidung, Wertausgleich und Ausgleichsansprüche nach der Scheidung. Trennt den Todeszeitpunkt, saldiert Anrechte nach Paragraf 31 VersAusglG und liefert Beteiligten-, Berechnungs- und Antragsplan."
+description: "Prüft die Folgen des Todes eines Ehegatten für Scheidung, Wertausgleich und Ausgleichsansprüche nach der Scheidung."
 ---
 
 # 1. Tod eines Ehegatten im Versorgungsausgleich

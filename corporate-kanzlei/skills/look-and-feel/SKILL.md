@@ -1,6 +1,6 @@
 ---
 name: look-and-feel
-description: "Wenn es um Corporate-Cowork-Look — Design und Ausgabestandard in Corporate-Kanzlei geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. Auswahlstichwort: Look And Feel; Arbeitsfeld: Corporate-Kanzlei."
+description: "Für Corporate-Cowork-Look — Design und Ausgabestandard: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt. Fachgebiet: Corporate-Kanzlei. Route: look-and-feel."
 ---
 
 # Corporate-Cowork-Look — Design und Ausgabestandard

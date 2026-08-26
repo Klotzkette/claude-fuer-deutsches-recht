@@ -1,6 +1,6 @@
 ---
 name: art-14-gg-eigentum-und-denkmalschutz
-description: "Wenn es um Art. 14 GG — Eigentum und Denkmalschutz in Denkmalschutzrecht — Bundesweiter Rahmen und sechzehn geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
+description: "Für Art. 14 GG — Eigentum und Denkmalschutz: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Art. 14 GG — Eigentum und Denkmalschutz

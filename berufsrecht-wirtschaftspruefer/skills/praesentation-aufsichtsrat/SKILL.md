@@ -1,6 +1,6 @@
 ---
 name: praesentation-aufsichtsrat
-description: "Wenn es um Praesentation Aufsichtsrat in Berufsrecht Wirtschaftsprüfer geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Präsentation Aufsichtsrat: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Wirtschaftsprüfer: praesentation im aufsichtsrat - Organisationspflichten, Prävention, Team-Anweisung und Fristenkontrolle

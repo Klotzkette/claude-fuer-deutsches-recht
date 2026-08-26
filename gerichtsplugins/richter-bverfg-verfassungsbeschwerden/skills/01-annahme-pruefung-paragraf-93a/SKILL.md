@@ -1,6 +1,6 @@
 ---
 name: 01-annahme-pruefung-paragraf-93a
-description: "Wenn es um 01 Annahme Prüfung Paragraf 93A in BVerfG Vorprüfung Verfassungsbeschwerden geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für 01 Annahme Prüfung Paragraf 93A: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Tatbestands- oder Anspruchsmatrix."
 ---
 
 # 01 Annahme Prüfung Paragraf 93A

@@ -1,6 +1,6 @@
 ---
 name: rollierende-liquiditaetsplanung-24-monate-template
-description: "Erstellt eine rollierende Liquiditätsplanung für Status, Drei-Wochen-Sicht, 13-Wochen-Steuerung und die regelmäßige 24-Monats-Prognose nach Paragraf 18 Absatz 2 InsO. Ordnet Fälligkeiten, streitige Forderungen, Kreditlinien, Szenarien und Maßnahmen belegbar zu und liefert Modell, Prämissenbuch und Entscheidungsvermerk."
+description: "Erstellt eine rollierende Liquiditätsplanung für Status, Drei-Wochen-Sicht, 13-Wochen-Steuerung und die regelmäßige 24-Monats-Prognose nach Paragraf 18 Absatz 2 InsO."
 ---
 
 # 1. Rollierende Liquiditätsplanung für 24 Monate

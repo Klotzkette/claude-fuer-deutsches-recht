@@ -1,6 +1,6 @@
 ---
 name: zustimmung-veraeusserung-zwangsversteigerung
-description: "Wenn es um Zustimmung zur Veräußerung/Belastung in Erbbaurecht Praxis geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Zustimmung zur Veräußerung/Belastung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Schnittstellenkarte mit Zuständigkeits- und Nachweisfragen."
 ---
 
 # Zustimmung zur Veräußerung/Belastung

@@ -1,6 +1,6 @@
 ---
 name: see-107-konnossement-local-counsel-instruieren
-description: "Wenn es um Konnossement Local Counsel Instruieren in See- und Schifffahrtsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Konnossement Local Counsel Instruieren: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Konnossement Local Counsel Instruieren

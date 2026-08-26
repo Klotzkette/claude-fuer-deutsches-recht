@@ -1,6 +1,6 @@
 ---
 name: subunternehmer
-description: "Wenn es um Subunternehmer in AGB-Recht-Prüfer geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Fristen- und Risikoampel mit Sofortschritten. Auswahlstichwort: Subunternehmer; Arbeitsfeld: AGB-Recht-Prüfer."
+description: "Für Subunternehmer: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt. Fachgebiet: AGB-Recht-Prüfer. Route: subunternehmer."
 ---
 
 # Subunternehmer

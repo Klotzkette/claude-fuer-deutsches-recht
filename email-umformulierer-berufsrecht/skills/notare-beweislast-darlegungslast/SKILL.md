@@ -1,6 +1,6 @@
 ---
 name: notare-beweislast-darlegungslast
-description: "Wenn es um Notare: Beweislast, Darlegungslast und Substantiierung in E-Mail-Umformulierer geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. Auswahlstichwort: Notare Beweislast Darlegungslast; Arbeitsfeld: E-Mail-Umformulierer."
+description: "Für Notare: Beweislast, Darlegungslast und Substantiierung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Beweislast- und Substantiierungsmatrix. Fachgebiet: E-Mail-Umformulierer. Route: notare-beweislast-darlegungslast."
 ---
 
 # Notare: Beweislast, Darlegungslast und Substantiierung

@@ -1,6 +1,6 @@
 ---
 name: methodenkritik-larenz-canaris-ordnung-und-system
-description: "Wenn es um Methodenkritik Larenz Canaris Ordnung Und System in Rechtstheorie und Rechtsphilosophie geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Methodenkritik Larenz Canaris Ordnung und System: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Prüft Wertungsjurisprudenz und Systemdenken kritisch: Produktive Dogmatik ja, autoritäre Ordnungsnähe, Scheinobjektivität und biografische Belastung nein.

@@ -1,6 +1,6 @@
 ---
 name: kita-satzung-eilantrag-vorbereiten
-description: "Wenn es um Kita Satzung Eilantrag Vorbereiten in Kommunalrecht der Länder geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
+description: "Für Kita Satzung Eilantrag Vorbereiten: erstellt Entwurf mit Antrag, Beweis und Anlagen; Ergebnis: Schriftsatz mit Begründungs- und Anlagenlogik."
 ---
 
 # Kita Satzung Eilantrag Vorbereiten

@@ -1,6 +1,6 @@
 ---
 name: 017-kommentatoren-mos-italicus-und-praktische-fallarbeit
-description: "Wenn es um Rom Kommentatoren Mos Italicus Und Praktische Fallarbeit in Römisches Recht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Rom Kommentatoren Mos Italicus und Praktische Fallarbeit: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Rom Kommentatoren Mos Italicus Und Praktische Fallarbeit
@@ -30,3 +30,7 @@ Rezeption nicht als 'Import 1495' datieren — sie war ein Jahrhunderte langer P
 2. Epochen trennen: vorklassisch — klassisch — justinianisch — Rezeption; nichts rückprojizieren.
 3. Funktional vergleichen: erst die römische Funktion, dann die heutige Norm mit gleicher Aufgabe; Unterschiede ausdrücklich benennen.
 4. Für Klausur/Lehre: Institutionensystem (personae — res — actiones) als Gliederungsraster nutzen; lateinische Begriffe beim ersten Auftreten übersetzen.
+
+## Vertiefung bei Bedarf
+
+- Bei `rom-neu-017-kommentatoren-mos-italicus-und-praktische-fallarbeit` beziehungsweise Römisches Recht: Kommentatoren mos italicus und praktische Fallarbeit: [die zusätzliche Vertiefung laden](./references/vertiefung-rom-neu-017-kommentatoren-mos-italicus-und-praktische-fallarbeit.md).

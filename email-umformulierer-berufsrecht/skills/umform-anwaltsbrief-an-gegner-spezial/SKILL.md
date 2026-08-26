@@ -1,6 +1,6 @@
 ---
 name: umform-anwaltsbrief-an-gegner-spezial
-description: "Wenn es um Umform: Anwaltsbrief Gegner in E-Mail-Umformulierer geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Umform: Anwaltsbrief Gegner: erstellt Entwurf mit Antrag, Beweis und Anlagen; Ergebnis: Schriftsatz mit Begründungs- und Anlagenlogik."
 ---
 
 # Umform: Anwaltsbrief Gegner

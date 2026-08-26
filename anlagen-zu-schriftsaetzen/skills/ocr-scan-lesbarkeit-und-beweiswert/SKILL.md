@@ -1,6 +1,6 @@
 ---
 name: ocr-scan-lesbarkeit-und-beweiswert
-description: "Wenn es um OCR, Scanqualität und Lesbarkeit in Anlagen zu Schriftsätzen geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Beweislast- und Substantiierungsmatrix."
+description: "Für OCR, Scanqualität und Lesbarkeit: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Beweislast- und Substantiierungsmatrix."
 ---
 
 # OCR, Scanqualität und Lesbarkeit

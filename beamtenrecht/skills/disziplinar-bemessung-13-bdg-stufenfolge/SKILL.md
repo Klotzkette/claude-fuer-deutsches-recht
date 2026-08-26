@@ -1,6 +1,6 @@
 ---
 name: disziplinar-bemessung-13-bdg-stufenfolge
-description: "Wenn es um Disziplinarmaßnahme bemessen - Paragraf 13 BDG und Stufenfolge in Beamtenrecht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
+description: "Für Disziplinarmaßnahme bemessen - Paragraf 13 BDG und Stufenfolge: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Disziplinarmaßnahme bemessen - § 13 BDG und Stufenfolge

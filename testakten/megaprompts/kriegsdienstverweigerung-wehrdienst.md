@@ -7,13 +7,13 @@ Diese Vollprüfung enthält top-8 von 137 Skills (gekürzt für das Arbeitsfenst
 ## Inhaltsverzeichnis
 
 1. **juristischer-argumentationskern** — Schaltet sich ein, wenn in Kriegsdienstverweigerung Wehrdienst ein juristisches Arbeitsprodukt tragfähig begründet werde…
-2. **kaltstart-triage** — Wenn es um KDV-Einsatzleitstelle in Kriegsdienstverweigerung und Wehrdienst geht: klärt Rolle, Ziel, Frist, Unterlagen u…
-3. **mehrsprachige-orientierung** — Wenn es um Mehrsprachige Orientierung in Kriegsdienstverweigerung und Wehrdienst geht: prüft Frist, Form, Zuständigkeit,…
-4. **status-stellungnahmen-dritter-ungedient-ab** — Wenn es um Status-Routing Wehrpflicht Soldat Reservist in Kriegsdienstverweigerung und Wehrdienst geht: ordnet Sachverha…
-5. **ablehnungsgruende-kdvg-7** — Wenn es um Ablehnungsgründe Paragraf 7 KDVG in Kriegsdienstverweigerung und Wehrdienst geht: ordnet Sachverhalt, Norm, B…
-6. **grundrecht-art-4-abs-3** — Wenn es um Art. 4 Abs. 3 GG loyal nutzen in Kriegsdienstverweigerung und Wehrdienst geht: ordnet Sachverhalt, Norm, Bewe…
-7. **recht-auf-entscheidung** — Wenn es um Recht auf Entscheidung in Kriegsdienstverweigerung und Wehrdienst geht: ordnet Sachverhalt, Norm, Beweislast,…
-8. **verwaltungsgericht-kdvg-10** — Wenn es um Verwaltungsgericht Paragraf 10 KDVG in Kriegsdienstverweigerung und Wehrdienst geht: erstellt den passenden E…
+2. **kaltstart-triage** — Für KDV-Einsatzleitstelle: routet Rolle, Frist, Unterlagen und Fachschritt; Ergebnis: Prüfprodukt mit Risiko und nächste…
+3. **mehrsprachige-orientierung** — Für Mehrsprachige Orientierung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem…
+4. **kdvg-13-neun-monate** — Für Neunmonats-Sollfrist Paragraf 13: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Schnittstellenkarte mit Zustä…
+5. **wehrpflicht-ruht-ausland** — Für Ruhen der Wehrpflicht Ausland: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Schnittstellenkarte mit Zuständi…
+6. **fuehrungszeugnis-zweifel** — Für Führungszeugnis bei Zweifeln: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Schnittstellenkarte mit Zuständig…
+7. **status-stellungnahmen-dritter-ungedient-ab** — Für Status-Routing Wehrpflicht Soldat Reservist: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Ri…
+8. **zeugenauswahl-und-aussage** — Für Zeugen und Auskunftspersonen: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Schnittstellenkarte mit Zuständig…
 
 ---
 
@@ -136,7 +136,7 @@ Ausgangspunkt für dieses Plugin: Behörde trägt Tatsachengrundlage, Ermessen u
 
 ## Skill: `kaltstart-triage`
 
-_Wenn es um KDV-Einsatzleitstelle in Kriegsdienstverweigerung und Wehrdienst geht: klärt Rolle, Ziel, Frist, Unterlagen und den passenden nächsten Fachskill; liefert eine Fristen- und Risikoampel mit Sofortschritten._
+_Für KDV-Einsatzleitstelle: routet Rolle, Frist, Unterlagen und Fachschritt; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt._
 
 # KDV-Einsatzleitstelle
 
@@ -323,7 +323,7 @@ Erzeuge immer zuerst eine Statusampel, eine Unterlagenliste, eine Fristen- und R
 
 ## Skill: `mehrsprachige-orientierung`
 
-_Wenn es um Mehrsprachige Orientierung in Kriegsdienstverweigerung und Wehrdienst geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten._
+_Für Mehrsprachige Orientierung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt._
 
 # Mehrsprachige Orientierung
 
@@ -375,9 +375,171 @@ Keine schematische Antwort geben; die konkrete Gewissenslage, der Status und die
 
 ---
 
+## Skill: `kdvg-13-neun-monate`
+
+_Für Neunmonats-Sollfrist Paragraf 13: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Schnittstellenkarte mit Zuständigkeits- und Nachweisfragen._
+
+# Neunmonats-Sollfrist § 13
+
+## Arbeitsweg
+
+- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
+- Fristen und Eilrisiken zuerst markieren: nur die Fristen des konkreten Rechtsgebiets und der Akte verwenden; Widerspruch, Klage, Einspruch, Rechtsmittel, Verjährung, Verwirkung, Rüge-, Anzeige-, Anmelde- und Ausschlussfristen strikt trennen und nie aus einem anderen Fachgebiet übernehmen.
+- Tragende Normen verifizieren: GG Art. 4 Abs. 3, KDVG, ZDG, Wehrpflichtgesetz (ausgesetzt), § 12 KDVG, SG §§ 30, 31; Art. 4 Abs; KDVG — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
+- Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
+- Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
+
+## Fachkern: Neunmonats-Sollfrist § 13
+- **Normen-/Quellenanker:** Art. 4 Abs. 3 GG, KDVG, WPflG/Wehrrecht, VwVfG/VwGO, Gewissensprüfung, Soldatenstatus und Eilrechtsschutz.
+- **Entscheidende Weiche:** Gewissensentscheidung, politisches Motiv, Status, Zuständigkeit, Bescheid, Untätigkeit, Frist und gerichtlicher Rechtsschutz trennen.
+- **Arbeitsprodukt:** Liefere eine fallbezogene `Norm / Tatsache / Beleg / Wertung / Gegenargument / nächster Schritt`-Matrix und einen direkt nutzbaren Textbaustein, wenn der Nutzer einen Entwurf braucht.
+
+## Fachlicher Kern
+Nutzt § 13 Abs. 2 KDVG als Argument gegen unbegrenztes Liegenlassen. Die Antwort muss den konkreten Status, das Datum, die Behörde und die aktuelle Verfahrenslage aufnehmen. Bei KDV ist die innere Gewissensentscheidung nicht vollständig beweisbar wie eine äußere Tatsache; sie muss aber persönlich, plausibel und widerspruchsbewusst dargestellt werden.
+
+## Sofortfragen
+1. Welche Personengruppe liegt vor: ungedient, wehrpflichtig, FWDL, SaZ, Berufssoldat, Reservist, frühere Soldatin/früherer Soldat oder Sonderfall?
+2. Gibt es bereits Antrag, Eingangsbestätigung, Personenkennziffer, Musterungsbescheid, BAFzA-Schreiben, Anhörung oder Bescheid?
+3. Geht es um Kriegsdienst mit der Waffe als Gewissensproblem oder um Politik, Gesundheit, Angst, Karriere, Familie oder Totalverweigerung?
+4. Welche Frist läuft und welcher Nachweis liegt für Zugang oder Bekanntgabe vor?
+
+## Arbeitsgang
+1. Status und anwendbare Normen festlegen.
+2. Pflichtunterlagen und fehlende Dokumente markieren.
+3. Gewissenskern von bloßen Randmotiven trennen.
+4. Behördenweg BAPersBw -> BAFzA oder Soldaten-/Reservistenpfad bestimmen.
+5. Output knapp, würdig und nachweisbar formulieren.
+
+## Norm- und Quellenanker
+KDVG § 13 Abs. 2
+
+## Rote Linien
+Politische Ankündigungen nicht als geltendes Recht behandeln; Normstand live prüfen.
+
+## Anschluss-Skills
+- `kriegsdienstverweigerung-wehrdienst-allgemein` für Kaltstart und Routing.
+- `qualitaetsgate-vor-ausgabe` vor belastbarer Ausgabe.
+- `workflow-redteam-qualitygate` bei Gerichtsargumentation.
+
+## Quellen- und Aktualitätsregel
+- Aktuelle Fassung von GG, KDVG, WPflG, SG und VwGO in amtlichen Quellen prüfen.
+- BAFzA-Hinweise zum Antragsweg, zur hohen Antragslast und zu § 13 KDVG n. F. berücksichtigen.
+- Rechtsprechung nur mit Gericht, Datum, Aktenzeichen und frei zugänglichem Link nennen.
+- Keine BeckRS-, juris-, Kommentar- oder Aufsatzfundstellen aus Modellwissen.
+
+---
+
+## Skill: `wehrpflicht-ruht-ausland`
+
+_Für Ruhen der Wehrpflicht Ausland: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Schnittstellenkarte mit Zuständigkeits- und Nachweisfragen._
+
+# Ruhen der Wehrpflicht Ausland
+
+## Arbeitsweg
+
+- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
+- Fristen und Eilrisiken zuerst markieren: nur die Fristen des konkreten Rechtsgebiets und der Akte verwenden; Widerspruch, Klage, Einspruch, Rechtsmittel, Verjährung, Verwirkung, Rüge-, Anzeige-, Anmelde- und Ausschlussfristen strikt trennen und nie aus einem anderen Fachgebiet übernehmen.
+- Tragende Normen verifizieren: GG Art. 4 Abs. 3, KDVG, ZDG, Wehrpflichtgesetz (ausgesetzt), § 12 KDVG, SG §§ 30, 31; Art. 4 Abs; KDVG — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
+- Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
+- Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
+
+## Fachkern: Ruhen der Wehrpflicht Ausland
+- **Normen-/Quellenanker:** Art. 4 Abs. 3 GG, KDVG, WPflG/Wehrrecht, VwVfG/VwGO, Gewissensprüfung, Soldatenstatus und Eilrechtsschutz.
+- **Entscheidende Weiche:** Gewissensentscheidung, politisches Motiv, Status, Zuständigkeit, Bescheid, Untätigkeit, Frist und gerichtlicher Rechtsschutz trennen.
+- **Arbeitsprodukt:** Liefere eine fallbezogene `Norm / Tatsache / Beleg / Wertung / Gegenargument / nächster Schritt`-Matrix und einen direkt nutzbaren Textbaustein, wenn der Nutzer einen Entwurf braucht.
+
+## Fachlicher Kern
+Prüft Ruhen der Wehrpflicht bei ständiger Lebensgrundlage im Ausland. Die Antwort muss den konkreten Status, das Datum, die Behörde und die aktuelle Verfahrenslage aufnehmen. Bei KDV ist die innere Gewissensentscheidung nicht vollständig beweisbar wie eine äußere Tatsache; sie muss aber persönlich, plausibel und widerspruchsbewusst dargestellt werden.
+
+## Sofortfragen
+1. Welche Personengruppe liegt vor: ungedient, wehrpflichtig, FWDL, SaZ, Berufssoldat, Reservist, frühere Soldatin/früherer Soldat oder Sonderfall?
+2. Gibt es bereits Antrag, Eingangsbestätigung, Personenkennziffer, Musterungsbescheid, BAFzA-Schreiben, Anhörung oder Bescheid?
+3. Geht es um Kriegsdienst mit der Waffe als Gewissensproblem oder um Politik, Gesundheit, Angst, Karriere, Familie oder Totalverweigerung?
+4. Welche Frist läuft und welcher Nachweis liegt für Zugang oder Bekanntgabe vor?
+
+## Arbeitsgang
+1. Status und anwendbare Normen festlegen.
+2. Pflichtunterlagen und fehlende Dokumente markieren.
+3. Gewissenskern von bloßen Randmotiven trennen.
+4. Behördenweg BAPersBw -> BAFzA oder Soldaten-/Reservistenpfad bestimmen.
+5. Output knapp, würdig und nachweisbar formulieren.
+
+## Norm- und Quellenanker
+WPflG § 1
+
+## Rote Linien
+Keine schematische Antwort geben; die konkrete Gewissenslage, der Status und die aktuelle Rechtslage müssen sichtbar geprüft werden.
+
+## Anschluss-Skills
+- `kriegsdienstverweigerung-wehrdienst-allgemein` für Kaltstart und Routing.
+- `qualitaetsgate-vor-ausgabe` vor belastbarer Ausgabe.
+- `workflow-redteam-qualitygate` bei Gerichtsargumentation.
+
+## Quellen- und Aktualitätsregel
+- Aktuelle Fassung von GG, KDVG, WPflG, SG und VwGO in amtlichen Quellen prüfen.
+- BAFzA-Hinweise zum Antragsweg, zur hohen Antragslast und zu § 13 KDVG n. F. berücksichtigen.
+- Rechtsprechung nur mit Gericht, Datum, Aktenzeichen und frei zugänglichem Link nennen.
+- Keine BeckRS-, juris-, Kommentar- oder Aufsatzfundstellen aus Modellwissen.
+
+---
+
+## Skill: `fuehrungszeugnis-zweifel`
+
+_Für Führungszeugnis bei Zweifeln: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Schnittstellenkarte mit Zuständigkeits- und Nachweisfragen._
+
+# Führungszeugnis bei Zweifeln
+
+## Arbeitsweg
+
+- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
+- Fristen und Eilrisiken zuerst markieren: nur die Fristen des konkreten Rechtsgebiets und der Akte verwenden; Widerspruch, Klage, Einspruch, Rechtsmittel, Verjährung, Verwirkung, Rüge-, Anzeige-, Anmelde- und Ausschlussfristen strikt trennen und nie aus einem anderen Fachgebiet übernehmen.
+- Tragende Normen verifizieren: GG Art. 4 Abs. 3, KDVG, ZDG, Wehrpflichtgesetz (ausgesetzt), § 12 KDVG, SG §§ 30, 31; Art. 4 Abs; KDVG — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
+- Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
+- Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
+
+## Fachkern: Führungszeugnis bei Zweifeln
+- **Normen-/Quellenanker:** Art. 4 Abs. 3 GG, KDVG, WPflG/Wehrrecht, VwVfG/VwGO, Gewissensprüfung, Soldatenstatus und Eilrechtsschutz.
+- **Entscheidende Weiche:** Gewissensentscheidung, politisches Motiv, Status, Zuständigkeit, Bescheid, Untätigkeit, Frist und gerichtlicher Rechtsschutz trennen.
+- **Arbeitsprodukt:** Liefere eine fallbezogene `Norm / Tatsache / Beleg / Wertung / Gegenargument / nächster Schritt`-Matrix und einen direkt nutzbaren Textbaustein, wenn der Nutzer einen Entwurf braucht.
+
+## Fachlicher Kern
+Erklärt begrenzte Anforderung eines Führungszeugnisses bei Zweifeln. Die Antwort muss den konkreten Status, das Datum, die Behörde und die aktuelle Verfahrenslage aufnehmen. Bei KDV ist die innere Gewissensentscheidung nicht vollständig beweisbar wie eine äußere Tatsache; sie muss aber persönlich, plausibel und widerspruchsbewusst dargestellt werden.
+
+## Sofortfragen
+1. Welche Personengruppe liegt vor: ungedient, wehrpflichtig, FWDL, SaZ, Berufssoldat, Reservist, frühere Soldatin/früherer Soldat oder Sonderfall?
+2. Gibt es bereits Antrag, Eingangsbestätigung, Personenkennziffer, Musterungsbescheid, BAFzA-Schreiben, Anhörung oder Bescheid?
+3. Geht es um Kriegsdienst mit der Waffe als Gewissensproblem oder um Politik, Gesundheit, Angst, Karriere, Familie oder Totalverweigerung?
+4. Welche Frist läuft und welcher Nachweis liegt für Zugang oder Bekanntgabe vor?
+
+## Arbeitsgang
+1. Status und anwendbare Normen festlegen.
+2. Pflichtunterlagen und fehlende Dokumente markieren.
+3. Gewissenskern von bloßen Randmotiven trennen.
+4. Behördenweg BAPersBw -> BAFzA oder Soldaten-/Reservistenpfad bestimmen.
+5. Output knapp, würdig und nachweisbar formulieren.
+
+## Norm- und Quellenanker
+KDVG § 6 Abs. 3-4
+
+## Rote Linien
+Keine schematische Antwort geben; die konkrete Gewissenslage, der Status und die aktuelle Rechtslage müssen sichtbar geprüft werden.
+
+## Anschluss-Skills
+- `kriegsdienstverweigerung-wehrdienst-allgemein` für Kaltstart und Routing.
+- `qualitaetsgate-vor-ausgabe` vor belastbarer Ausgabe.
+- `workflow-redteam-qualitygate` bei Gerichtsargumentation.
+
+## Quellen- und Aktualitätsregel
+- Aktuelle Fassung von GG, KDVG, WPflG, SG und VwGO in amtlichen Quellen prüfen.
+- BAFzA-Hinweise zum Antragsweg, zur hohen Antragslast und zu § 13 KDVG n. F. berücksichtigen.
+- Rechtsprechung nur mit Gericht, Datum, Aktenzeichen und frei zugänglichem Link nennen.
+- Keine BeckRS-, juris-, Kommentar- oder Aufsatzfundstellen aus Modellwissen.
+
+---
+
 ## Skill: `status-stellungnahmen-dritter-ungedient-ab`
 
-_Wenn es um Status-Routing Wehrpflicht Soldat Reservist in Kriegsdienstverweigerung und Wehrdienst geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt._
+_Für Status-Routing Wehrpflicht Soldat Reservist: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt._
 
 # Status-Routing Wehrpflicht Soldat Reservist
 
@@ -429,11 +591,11 @@ Keine schematische Antwort geben; die konkrete Gewissenslage, der Status und die
 
 ---
 
-## Skill: `ablehnungsgruende-kdvg-7`
+## Skill: `zeugenauswahl-und-aussage`
 
-_Wenn es um Ablehnungsgründe Paragraf 7 KDVG in Kriegsdienstverweigerung und Wehrdienst geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt._
+_Für Zeugen und Auskunftspersonen: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Schnittstellenkarte mit Zuständigkeits- und Nachweisfragen._
 
-# Ablehnungsgründe § 7 KDVG
+# Zeugen und Auskunftspersonen
 
 ## Arbeitsweg
 
@@ -443,16 +605,13 @@ _Wenn es um Ablehnungsgründe Paragraf 7 KDVG in Kriegsdienstverweigerung und We
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
-## Fachkern: Ablehnungsgründe § 7 KDVG
+## Fachkern: Zeugen und Auskunftspersonen
 - **Normen-/Quellenanker:** Art. 4 Abs. 3 GG, KDVG, WPflG/Wehrrecht, VwVfG/VwGO, Gewissensprüfung, Soldatenstatus und Eilrechtsschutz.
 - **Entscheidende Weiche:** Gewissensentscheidung, politisches Motiv, Status, Zuständigkeit, Bescheid, Untätigkeit, Frist und gerichtlicher Rechtsschutz trennen.
 - **Arbeitsprodukt:** Liefere eine fallbezogene `Norm / Tatsache / Beleg / Wertung / Gegenargument / nächster Schritt`-Matrix und einen direkt nutzbaren Textbaustein, wenn der Nutzer einen Entwurf braucht.
 
-## Einsatz
-Prüft Widerspruch, Klage, § 75 VwGO, § 80 VwGO, § 123 VwGO und besondere KDVG-Fristen.
-
 ## Fachlicher Kern
-Zerlegt Ablehnungen wegen Musterungsverweigerung, Unvollständigkeit, ungeeigneter Gründe oder Zweifel. Die Antwort muss den konkreten Status, das Datum, die Behörde und die aktuelle Verfahrenslage aufnehmen. Bei KDV ist die innere Gewissensentscheidung nicht vollständig beweisbar wie eine äußere Tatsache; sie muss aber persönlich, plausibel und widerspruchsbewusst dargestellt werden.
+Prüft geeignete Zeugen für persönliche Entwicklung und Lebensführung. Die Antwort muss den konkreten Status, das Datum, die Behörde und die aktuelle Verfahrenslage aufnehmen. Bei KDV ist die innere Gewissensentscheidung nicht vollständig beweisbar wie eine äußere Tatsache; sie muss aber persönlich, plausibel und widerspruchsbewusst dargestellt werden.
 
 ## Sofortfragen
 1. Welche Personengruppe liegt vor: ungedient, wehrpflichtig, FWDL, SaZ, Berufssoldat, Reservist, frühere Soldatin/früherer Soldat oder Sonderfall?
@@ -468,61 +627,7 @@ Zerlegt Ablehnungen wegen Musterungsverweigerung, Unvollständigkeit, ungeeignet
 5. Output knapp, würdig und nachweisbar formulieren.
 
 ## Norm- und Quellenanker
-KDVG § 7
-
-## Rote Linien
-Fristen, Zustellung und Dokumenttyp prüfen, bevor Widerspruch, Klage oder Eilantrag vorgeschlagen werden.
-
-## Anschluss-Skills
-- `kriegsdienstverweigerung-wehrdienst-allgemein` für Kaltstart und Routing.
-- `qualitaetsgate-vor-ausgabe` vor belastbarer Ausgabe.
-- `workflow-redteam-qualitygate` bei Gerichtsargumentation.
-
-## Quellen- und Aktualitätsregel
-- Aktuelle Fassung von GG, KDVG, WPflG, SG und VwGO in amtlichen Quellen prüfen.
-- BAFzA-Hinweise zum Antragsweg, zur hohen Antragslast und zu § 13 KDVG n. F. berücksichtigen.
-- Rechtsprechung nur mit Gericht, Datum, Aktenzeichen und frei zugänglichem Link nennen.
-- Keine BeckRS-, juris-, Kommentar- oder Aufsatzfundstellen aus Modellwissen.
-
----
-
-## Skill: `grundrecht-art-4-abs-3`
-
-_Wenn es um Art. 4 Abs. 3 GG loyal nutzen in Kriegsdienstverweigerung und Wehrdienst geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt._
-
-# Art. 4 Abs. 3 GG loyal nutzen
-
-## Arbeitsweg
-
-- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
-- Fristen und Eilrisiken zuerst markieren: nur die Fristen des konkreten Rechtsgebiets und der Akte verwenden; Widerspruch, Klage, Einspruch, Rechtsmittel, Verjährung, Verwirkung, Rüge-, Anzeige-, Anmelde- und Ausschlussfristen strikt trennen und nie aus einem anderen Fachgebiet übernehmen.
-- Tragende Normen verifizieren: GG Art. 4 Abs. 3, KDVG, ZDG, Wehrpflichtgesetz (ausgesetzt), § 12 KDVG, SG §§ 30, 31; Art. 4 Abs; KDVG — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
-- Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
-- Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
-
-## Fachkern: Art. 4 Abs. 3 GG loyal nutzen
-- **Normen-/Quellenanker:** Art. 4 Abs. 3 GG, KDVG, WPflG/Wehrrecht, VwVfG/VwGO, Gewissensprüfung, Soldatenstatus und Eilrechtsschutz.
-- **Entscheidende Weiche:** Gewissensentscheidung, politisches Motiv, Status, Zuständigkeit, Bescheid, Untätigkeit, Frist und gerichtlicher Rechtsschutz trennen.
-- **Arbeitsprodukt:** Liefere eine fallbezogene `Norm / Tatsache / Beleg / Wertung / Gegenargument / nächster Schritt`-Matrix und einen direkt nutzbaren Textbaustein, wenn der Nutzer einen Entwurf braucht.
-
-## Fachlicher Kern
-Rahmt KDV als staatstreue Grundrechtsausübung statt Staatsablehnung. Die Antwort muss den konkreten Status, das Datum, die Behörde und die aktuelle Verfahrenslage aufnehmen. Bei KDV ist die innere Gewissensentscheidung nicht vollständig beweisbar wie eine äußere Tatsache; sie muss aber persönlich, plausibel und widerspruchsbewusst dargestellt werden.
-
-## Sofortfragen
-1. Welche Personengruppe liegt vor: ungedient, wehrpflichtig, FWDL, SaZ, Berufssoldat, Reservist, frühere Soldatin/früherer Soldat oder Sonderfall?
-2. Gibt es bereits Antrag, Eingangsbestätigung, Personenkennziffer, Musterungsbescheid, BAFzA-Schreiben, Anhörung oder Bescheid?
-3. Geht es um Kriegsdienst mit der Waffe als Gewissensproblem oder um Politik, Gesundheit, Angst, Karriere, Familie oder Totalverweigerung?
-4. Welche Frist läuft und welcher Nachweis liegt für Zugang oder Bekanntgabe vor?
-
-## Arbeitsgang
-1. Status und anwendbare Normen festlegen.
-2. Pflichtunterlagen und fehlende Dokumente markieren.
-3. Gewissenskern von bloßen Randmotiven trennen.
-4. Behördenweg BAPersBw -> BAFzA oder Soldaten-/Reservistenpfad bestimmen.
-5. Output knapp, würdig und nachweisbar formulieren.
-
-## Norm- und Quellenanker
-GG Art. 4 Abs. 3; GG Art. 12a
+KDVG § 2 Abs. 3; VwGO
 
 ## Rote Linien
 Keine schematische Antwort geben; die konkrete Gewissenslage, der Status und die aktuelle Rechtslage müssen sichtbar geprüft werden.
@@ -531,121 +636,6 @@ Keine schematische Antwort geben; die konkrete Gewissenslage, der Status und die
 - `kriegsdienstverweigerung-wehrdienst-allgemein` für Kaltstart und Routing.
 - `qualitaetsgate-vor-ausgabe` vor belastbarer Ausgabe.
 - `workflow-redteam-qualitygate` bei Gerichtsargumentation.
-
-## Quellen- und Aktualitätsregel
-- Aktuelle Fassung von GG, KDVG, WPflG, SG und VwGO in amtlichen Quellen prüfen.
-- BAFzA-Hinweise zum Antragsweg, zur hohen Antragslast und zu § 13 KDVG n. F. berücksichtigen.
-- Rechtsprechung nur mit Gericht, Datum, Aktenzeichen und frei zugänglichem Link nennen.
-- Keine BeckRS-, juris-, Kommentar- oder Aufsatzfundstellen aus Modellwissen.
-
----
-
-## Skill: `recht-auf-entscheidung`
-
-_Wenn es um Recht auf Entscheidung in Kriegsdienstverweigerung und Wehrdienst geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt._
-
-# Recht auf Entscheidung
-
-## Arbeitsweg
-
-- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
-- Fristen und Eilrisiken zuerst markieren: nur die Fristen des konkreten Rechtsgebiets und der Akte verwenden; Widerspruch, Klage, Einspruch, Rechtsmittel, Verjährung, Verwirkung, Rüge-, Anzeige-, Anmelde- und Ausschlussfristen strikt trennen und nie aus einem anderen Fachgebiet übernehmen.
-- Tragende Normen verifizieren: GG Art. 4 Abs. 3, KDVG, ZDG, Wehrpflichtgesetz (ausgesetzt), § 12 KDVG, SG §§ 30, 31; Art. 4 Abs; KDVG — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
-- Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
-- Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
-
-## Fachkern: Recht auf Entscheidung
-- **Normen-/Quellenanker:** Art. 4 Abs. 3 GG, KDVG, WPflG/Wehrrecht, VwVfG/VwGO, Gewissensprüfung, Soldatenstatus und Eilrechtsschutz.
-- **Entscheidende Weiche:** Gewissensentscheidung, politisches Motiv, Status, Zuständigkeit, Bescheid, Untätigkeit, Frist und gerichtlicher Rechtsschutz trennen.
-- **Arbeitsprodukt:** Liefere eine fallbezogene `Norm / Tatsache / Beleg / Wertung / Gegenargument / nächster Schritt`-Matrix und einen direkt nutzbaren Textbaustein, wenn der Nutzer einen Entwurf braucht.
-
-## Einsatz
-Prüft Widerspruch, Klage, § 75 VwGO, § 80 VwGO, § 123 VwGO und besondere KDVG-Fristen.
-
-## Fachlicher Kern
-Formuliert grundrechtsbewusst, warum eine ernste Gewissensentscheidung nicht beliebig liegen bleiben darf. Die Antwort muss den konkreten Status, das Datum, die Behörde und die aktuelle Verfahrenslage aufnehmen. Bei KDV ist die innere Gewissensentscheidung nicht vollständig beweisbar wie eine äußere Tatsache; sie muss aber persönlich, plausibel und widerspruchsbewusst dargestellt werden.
-
-## Sofortfragen
-1. Welche Personengruppe liegt vor: ungedient, wehrpflichtig, FWDL, SaZ, Berufssoldat, Reservist, frühere Soldatin/früherer Soldat oder Sonderfall?
-2. Gibt es bereits Antrag, Eingangsbestätigung, Personenkennziffer, Musterungsbescheid, BAFzA-Schreiben, Anhörung oder Bescheid?
-3. Geht es um Kriegsdienst mit der Waffe als Gewissensproblem oder um Politik, Gesundheit, Angst, Karriere, Familie oder Totalverweigerung?
-4. Welche Frist läuft und welcher Nachweis liegt für Zugang oder Bekanntgabe vor?
-
-## Arbeitsgang
-1. Status und anwendbare Normen festlegen.
-2. Pflichtunterlagen und fehlende Dokumente markieren.
-3. Gewissenskern von bloßen Randmotiven trennen.
-4. Behördenweg BAPersBw -> BAFzA oder Soldaten-/Reservistenpfad bestimmen.
-5. Output knapp, würdig und nachweisbar formulieren.
-
-## Norm- und Quellenanker
-GG Art. 4 Abs. 3; VwGO § 75; KDVG § 13
-
-## Rote Linien
-Fristen, Zustellung und Dokumenttyp prüfen, bevor Widerspruch, Klage oder Eilantrag vorgeschlagen werden.
-
-## Anschluss-Skills
-- `kriegsdienstverweigerung-wehrdienst-allgemein` für Kaltstart und Routing.
-- `qualitaetsgate-vor-ausgabe` vor belastbarer Ausgabe.
-- `workflow-redteam-qualitygate` bei Gerichtsargumentation.
-
-## Quellen- und Aktualitätsregel
-- Aktuelle Fassung von GG, KDVG, WPflG, SG und VwGO in amtlichen Quellen prüfen.
-- BAFzA-Hinweise zum Antragsweg, zur hohen Antragslast und zu § 13 KDVG n. F. berücksichtigen.
-- Rechtsprechung nur mit Gericht, Datum, Aktenzeichen und frei zugänglichem Link nennen.
-- Keine BeckRS-, juris-, Kommentar- oder Aufsatzfundstellen aus Modellwissen.
-
----
-
-## Skill: `verwaltungsgericht-kdvg-10`
-
-_Wenn es um Verwaltungsgericht Paragraf 10 KDVG in Kriegsdienstverweigerung und Wehrdienst geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik._
-
-# Verwaltungsgericht § 10 KDVG
-
-## Einsatz
-Prüft Widerspruch, Klage, § 75 VwGO, § 80 VwGO, § 123 VwGO und besondere KDVG-Fristen.
-
-## Fachlicher Kern
-Routet Klage und gerichtliche Besonderheiten in KDV-Sachen. Die Antwort muss den konkreten Status, das Datum, die Behörde und die aktuelle Verfahrenslage aufnehmen. Bei KDV ist die innere Gewissensentscheidung nicht vollständig beweisbar wie eine äußere Tatsache; sie muss aber persönlich, plausibel und widerspruchsbewusst dargestellt werden.
-
-## Sofortfragen
-1. Welche Personengruppe liegt vor: ungedient, wehrpflichtig, FWDL, SaZ, Berufssoldat, Reservist, frühere Soldatin/früherer Soldat oder Sonderfall?
-2. Gibt es bereits Antrag, Eingangsbestätigung, Personenkennziffer, Musterungsbescheid, BAFzA-Schreiben, Anhörung oder Bescheid?
-3. Geht es um Kriegsdienst mit der Waffe als Gewissensproblem oder um Politik, Gesundheit, Angst, Karriere, Familie oder Totalverweigerung?
-4. Welche Frist läuft und welcher Nachweis liegt für Zugang oder Bekanntgabe vor?
-
-## Arbeitsgang
-1. Status und anwendbare Normen festlegen.
-2. Pflichtunterlagen und fehlende Dokumente markieren.
-3. Gewissenskern von bloßen Randmotiven trennen.
-4. Behördenweg BAPersBw -> BAFzA oder Soldaten-/Reservistenpfad bestimmen.
-5. Output knapp, würdig und nachweisbar formulieren.
-
-## Norm- und Quellenanker
-KDVG § 10; VwGO
-
-## Output
-- Statusampel.
-- Unterlagen- und Fristenliste.
-- nächster Schriftsatz oder nächste Verfahrenshandlung.
-- Warnhinweis, falls der Fall in Totalverweigerung, bloße Politik oder Disziplinarrisiko kippt.
-
-<!-- BEGIN ausformulierungspflicht (autogen) -->
-> **Ausformulierungspflicht und Formatstandard.** Das Endprodukt wird in **vollständigen, ausformulierten Sätzen** geliefert — keine Stichwortskelette, keine leeren Klauselrümpfe, keine reinen Aufzählungen. Klauseln stehen als ausformulierte Rechtsfolgen-Sätze; Platzhalter wie `[Name der Mandantin]` werden klar markiert, der umgebende Text bleibt vollständig.
->
-> **Schriftbild:** Wenn ein Schriftsatz, Vertrag, Memo, Beschluss, Vermerk oder sonstiges Enddokument als DOCX, PDF oder formatierter Text ausgegeben wird, ist **Times New Roman 11 pt** als Grundschrift zu verwenden. Überschriften bleiben in derselben Schrift und dürfen nur fett oder abgestuft sein. Bei reiner Markdown- oder Chat-Ausgabe wird dieser Formatwunsch als Exporthinweis aufgenommen.
->
-> **Nummerierung:** Gliederung ausschließlich dezimal (`1`, `1.1`, `1.1.1` und so weiter). Keine römischen Ziffern, keine Buchstaben- oder Mischgliederung.
-<!-- END ausformulierungspflicht (autogen) -->
-
-## Rote Linien
-Fristen, Zustellung und Dokumenttyp prüfen, bevor Widerspruch, Klage oder Eilantrag vorgeschlagen werden.
-
-## Anschluss-Skills
-- `allgemein` für Kaltstart und Routing.
-- `qualitaetsgate-vor-ausgabe` vor belastbarer Ausgabe.
-- `rechtsprechung-livecheck` bei Gerichtsargumentation.
 
 ## Quellen- und Aktualitätsregel
 - Aktuelle Fassung von GG, KDVG, WPflG, SG und VwGO in amtlichen Quellen prüfen.

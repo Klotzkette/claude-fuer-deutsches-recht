@@ -1,6 +1,6 @@
 ---
 name: gebrauchsmuster-patent-patentrechts
-description: "Wenn es um Gebrauchsmuster oder Patent in patentrecht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
+description: "Für Gebrauchsmuster oder Patent: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Gebrauchsmuster oder Patent

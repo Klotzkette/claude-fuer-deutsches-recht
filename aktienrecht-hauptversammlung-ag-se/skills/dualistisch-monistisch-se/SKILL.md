@@ -1,6 +1,6 @@
 ---
 name: dualistisch-monistisch-se
-description: "Wenn es um Dualistisch Monistisch SE in Hauptversammlung AG und SE geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Dualistisch Monistisch SE: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Dualistisch Monistisch SE

@@ -1,6 +1,6 @@
 ---
 name: aufrechnung-laufende-leistungen-51-sgb-i
-description: "Wenn es um Aufrechnung Laufende Leistungen 51 Sgb I in selbstvertreter-sozialgericht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Aufrechnung Laufende Leistungen 51 SGB I: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Aufrechnung Laufende Leistungen 51 Sgb I

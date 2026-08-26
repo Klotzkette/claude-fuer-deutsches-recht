@@ -1,6 +1,6 @@
 ---
 name: brao-quellenkarte
-description: "Wenn es um Brao Quellenkarte in Kanzleirichtlinien für digitale Werkzeuge geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Tatbestands- oder Anspruchsmatrix mit Gegenargumenten."
+description: "Für BRAO Quellenkarte: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Brao Quellenkarte

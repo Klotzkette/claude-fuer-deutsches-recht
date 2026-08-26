@@ -1,6 +1,6 @@
 ---
 name: gruppenausarbeitung-taeuschung
-description: "Wenn es um Gruppenausarbeitung und Täuschung in Prüfungsrecht an Hochschulen und Universitäten geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Gruppenausarbeitung und Täuschung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Schnittstellenkarte mit Zuständigkeits- und Nachweisfragen."
 ---
 
 # Gruppenausarbeitung und Täuschung

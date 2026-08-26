@@ -1,6 +1,6 @@
 ---
 name: mandantenmemo-strategie-manufacturing
-description: "Wenn es um Mandantenmemo Fashion Strategie in fashion-law-moderecht geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert eine Chronologie mit Belegmatrix und Widerspruchsliste."
+description: "Für Mandantenmemo Fashion Strategie: erstellt Entwurf mit Antrag, Beweis und Anlagen; Ergebnis: Schriftsatz mit Begründungs- und Anlagenlogik."
 ---
 
 # Mandantenmemo Fashion Strategie

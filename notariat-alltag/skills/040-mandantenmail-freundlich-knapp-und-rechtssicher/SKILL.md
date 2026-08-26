@@ -1,6 +1,6 @@
 ---
 name: 040-mandantenmail-freundlich-knapp-und-rechtssicher
-description: "Wenn es um Notariat im Alltag: Mandantenmail – freundlich, knapp, rechtssicher in Notariat im Alltag geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Notariat im Alltag: Mandantenmail – freundlich, knapp, rechtssicher: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Schnittstellenkarte mit Zuständigkeits- und Nachweisfragen."
 ---
 
 # Notariat im Alltag: Mandantenmail – freundlich, knapp, rechtssicher

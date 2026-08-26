@@ -1,6 +1,6 @@
 ---
 name: nkr-zusammenarbeit-mit-bundesregierung-und-ressorts
-description: "Wenn es um Verhaltens-Skill für die taegliche Zusammenarbeit zwischen NKR-Sekretariat und Ressorts in Normenkontrollrat (NKR) — Prüfung von Gesetzentwuerfen geht: entwickelt Verhandlungsziel, Vergleichskorridor und Eskalationspfad; liefert eine Verhandlungs- oder Eskalationslinie mit Optionen."
+description: "Für Verhaltens-Skill für die tägliche Zusammenarbeit zwischen NKR-Sekretariat und Ressorts: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Verhaltens-Skill für die taegliche Zusammenarbeit zwischen NKR-Sekretariat und Ressorts

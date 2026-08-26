@@ -1,6 +1,6 @@
 ---
 name: satzungszweck-gemeinnuetzigkeit
-description: "Wenn es um Satzungszweck und Gemeinnützigkeit in Vereinsrecht und Vereinsmanager geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
+description: "Für Satzungszweck und Gemeinnützigkeit: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Satzungszweck und Gemeinnützigkeit

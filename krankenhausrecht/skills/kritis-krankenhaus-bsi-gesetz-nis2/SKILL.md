@@ -1,6 +1,6 @@
 ---
 name: kritis-krankenhaus-bsi-gesetz-nis2
-description: "Wenn es um KRITIS Krankenhaus BSI-Gesetz NIS2 in Krankenhausrecht geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
+description: "Für KRITIS Krankenhaus BSI-Gesetz NIS2: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # KRITIS Krankenhaus BSI-Gesetz NIS2

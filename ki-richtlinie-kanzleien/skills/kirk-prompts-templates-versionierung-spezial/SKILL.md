@@ -1,6 +1,6 @@
 ---
 name: kirk-prompts-templates-versionierung-spezial
-description: "Wenn es um KIRK: Prompts Versionierung in diesem Spezialbereich geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Beweislast- und Substantiierungsmatrix."
+description: "Für KIRK: Prompts Versionierung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # KIRK: Prompts Versionierung

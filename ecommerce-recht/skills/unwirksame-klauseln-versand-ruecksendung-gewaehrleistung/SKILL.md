@@ -1,6 +1,6 @@
 ---
 name: unwirksame-klauseln-versand-ruecksendung-gewaehrleistung
-description: "Wenn es um Unwirksame Klauseln Versand Rücksendung Gewährleistung in E-Commerce-Recht geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Unwirksame Klauseln Versand Rücksendung Gewährleistung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Unwirksame Klauseln Versand Rücksendung Gewährleistung

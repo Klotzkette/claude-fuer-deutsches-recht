@@ -1,6 +1,6 @@
 ---
 name: ehrenamtlicher-richter-asyl-sitzung-baurecht
-description: "Wenn es um Ehrenamtlicher Richter Asyl: Orientierung in Schöffen und Handelsrichter Praxis geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
+description: "Für Ehrenamtlicher Richter Asyl: Orientierung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Ehrenamtlicher Richter Asyl: Orientierung

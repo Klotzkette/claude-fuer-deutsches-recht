@@ -1,6 +1,6 @@
 ---
 name: kartellschadensersatz-33a-gwb
-description: "Wenn es um Kartellschadensersatz Paragraf 33a GWB in Kartellrecht — Marktabgrenzungsprüfung geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen."
+description: "Für Kartellschadensersatz Paragraf 33a GWB: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Kartellschadensersatz § 33a GWB

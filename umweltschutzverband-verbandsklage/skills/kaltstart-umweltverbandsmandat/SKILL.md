@@ -1,6 +1,6 @@
 ---
 name: kaltstart-umweltverbandsmandat
-description: "Wenn es um Kaltstart Umweltverbandsmandat in Umweltschutzverband Verbandsklage geht: klärt Rolle, Ziel, Frist, Unterlagen und den passenden nächsten Fachskill; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Kaltstart Umweltverbandsmandat: routet Rolle, Frist, Unterlagen und Fachschritt; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Kaltstart Umweltverbandsmandat

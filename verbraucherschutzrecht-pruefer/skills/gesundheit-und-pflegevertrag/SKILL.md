@@ -1,6 +1,6 @@
 ---
 name: gesundheit-und-pflegevertrag
-description: "Wenn es um Gesundheit Und Pflegevertrag in Verbraucherschutzrecht Prüfer geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Gesundheit und Pflegevertrag: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Gesundheit Und Pflegevertrag

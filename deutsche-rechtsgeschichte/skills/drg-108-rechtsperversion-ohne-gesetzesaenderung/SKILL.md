@@ -1,6 +1,6 @@
 ---
 name: drg-108-rechtsperversion-ohne-gesetzesaenderung
-description: "Wenn es um Rechtsperversion ohne Gesetzesänderung in Deutsche Rechtsgeschichte geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen. Auswahlstichwort: Drg 108 Rechtsperversion Ohne Gesetzesaenderung; Arbeitsfeld: Deutsche Rechtsgeschichte."
+description: "Für Rechtsperversion ohne Gesetzesänderung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt. Fachgebiet: Deutsche Rechtsgeschichte. Route: drg-108-rechtsperversion-ohne-gesetzesaenderung."
 ---
 # Rechtsperversion ohne Gesetzesänderung
 

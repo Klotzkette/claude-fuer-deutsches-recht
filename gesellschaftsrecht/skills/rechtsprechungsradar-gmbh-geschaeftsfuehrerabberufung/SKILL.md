@@ -1,6 +1,6 @@
 ---
 name: rechtsprechungsradar-gmbh-geschaeftsfuehrerabberufung
-description: "Wenn es um Rechtsprechungsradar: GmbH-Geschäftsführerabberufung in Gesellschaftsrecht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert einen Einreichungsplan mit Form-, Portal- und Nachweischeck."
+description: "Für Rechtsprechungsradar: GmbH-Geschäftsführerabberufung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Rechtsprechungsradar: GmbH-Geschäftsführerabberufung

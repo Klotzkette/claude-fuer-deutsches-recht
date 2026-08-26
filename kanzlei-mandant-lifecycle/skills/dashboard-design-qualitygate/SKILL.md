@@ -1,6 +1,6 @@
 ---
 name: dashboard-design-qualitygate
-description: "Wenn es um Dashboard Design Qualitygate in Kanzlei-Mandant Lifecycle geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Dashboard Design Qualitygate: prüft Ergebnis, Beweislast und Gegenposition; Ergebnis: Gegenprüfung mit Beweis- und Fristencheck."
 ---
 
 # Dashboard Design Qualitygate

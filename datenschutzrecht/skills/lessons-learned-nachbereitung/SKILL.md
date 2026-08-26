@@ -1,6 +1,6 @@
 ---
 name: lessons-learned-nachbereitung
-description: "Wenn es um Lessons Learned und Nachbereitung Datenschutzvorfall in Datenschutzrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Lessons Learned und Nachbereitung Datenschutzvorfall: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Lessons Learned und Nachbereitung Datenschutzvorfall
@@ -51,3 +51,7 @@ Art. 5 Abs. 2; Art. 24; Art. 32; Art. 33 Abs. 5 DSGVO.
 
 - `dsv-vvt-update-nach-vorfall` und `dsv-dsfa-update-nach-vorfall` decken die Compliance-Aktualisierung ab.
 - `dsv-bussgeldverteidigung-art-83` deckt die Verteidigung ab.
+
+## Vertiefung bei Bedarf
+
+- Bei `dsv-lessons-learned-nachbereitung` beziehungsweise Strukturiert die Lessons-Learned-Nachbereitung eines Datenschutzvorfalls: [die zusätzliche Vertiefung laden](./references/vertiefung-dsv-lessons-learned-nachbereitung.md).

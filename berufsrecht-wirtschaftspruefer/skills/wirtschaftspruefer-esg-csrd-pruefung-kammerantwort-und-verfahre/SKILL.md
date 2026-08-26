@@ -1,6 +1,6 @@
 ---
 name: wirtschaftspruefer-esg-csrd-pruefung-kammerantwort-und-verfahre
-description: "Wenn es um Wirtschaftspruefer Esg Csrd Prüfung Kammerantwort Und Verfahre in Berufsrecht Wirtschaftsprüfer geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Verhandlungs- oder Eskalationslinie mit Optionen."
+description: "Für Wirtschaftsprüfer Esg Csrd Prüfung Kammerantwort und Verfahre: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Tatbestands- oder Anspruchsmatrix."
 ---
 
 # Wirtschaftsprüfer: esg csrd pruefung - Kammerantwort mit Verfahrensstrategie, Tonlage und Belegplan

@@ -1,6 +1,6 @@
 ---
 name: rauschgift-paragraf-29-btmg
-description: "Wenn es um Rauschgift Paragraf 29 BtMG in Fachanwalt Strafrecht geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Rauschgift Paragraf 29 BtMG: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Rauschgift § 29 BtMG

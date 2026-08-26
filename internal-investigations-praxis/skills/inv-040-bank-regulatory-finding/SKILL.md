@@ -1,6 +1,6 @@
 ---
 name: inv-040-bank-regulatory-finding
-description: "Wenn es um Internal Investigation: Bank Regulatory Finding in Internal Investigations Praxis geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Beweislast- und Substantiierungsmatrix."
+description: "Für Internal Investigation: Bank Regulatory Finding: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Internal Investigation: Bank Regulatory Finding

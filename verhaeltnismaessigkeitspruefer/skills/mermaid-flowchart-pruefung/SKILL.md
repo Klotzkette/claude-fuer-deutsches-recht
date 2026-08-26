@@ -1,6 +1,6 @@
 ---
 name: mermaid-flowchart-pruefung
-description: "Wenn es um Mermaid Flowchart Prüfung in Verhältnismäßigkeitsprüfer geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Mermaid Flowchart Prüfung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Tatbestands- oder Anspruchsmatrix."
 ---
 
 # Mermaid Flowchart Prüfung

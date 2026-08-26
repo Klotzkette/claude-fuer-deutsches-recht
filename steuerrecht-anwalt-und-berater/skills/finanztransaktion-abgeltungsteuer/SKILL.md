@@ -1,6 +1,6 @@
 ---
 name: finanztransaktion-abgeltungsteuer
-description: "Wenn es um Abgeltungsteuer und Kapitaleinkuenfte — Paragraf 32d EStG und Teileinkuenfteverfahren in Steuerrecht – Steuerberater und Anwälte geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
+description: "Für Abgeltungsteuer und Kapitaleinkünfte — Paragraf 32d EStG und Teileinkünfteverfahren: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Schnittstellenkarte mit Zuständigkeits- und Nachweisfragen."
 ---
 
 # Abgeltungsteuer und Kapitaleinkuenfte — § 32d EStG und Teileinkuenfteverfahren

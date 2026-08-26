@@ -1,6 +1,6 @@
 ---
 name: cas-dis-sport-verbands-schiedsverfahren
-description: "Wenn es um Cas Dis Sport Verbands Schiedsverfahren in Fachanwalt Sportrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Cas Dis Sport Verbands Schiedsverfahren: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Sportler Verein oder Verband wird in Schiedsverfahren vor CAS DIS oder Verbands-Schiedsgericht involviert

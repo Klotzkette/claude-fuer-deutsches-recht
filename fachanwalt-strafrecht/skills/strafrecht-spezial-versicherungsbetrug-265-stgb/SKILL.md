@@ -1,6 +1,6 @@
 ---
 name: strafrecht-spezial-versicherungsbetrug-265-stgb
-description: "Wenn es um Strafrecht Spezial Versicherungsbetrug 265 Stgb in Fachanwalt Strafrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Strafrecht Spezial Versicherungsbetrug 265 Stgb: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Versicherungsmissbrauch § 265 StGB: Anwendungsfall Verteidigung bei Beschaedigung Versicherung-versicherte-Sache zur Erlangung der Versicherungsleistung

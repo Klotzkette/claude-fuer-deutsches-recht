@@ -1,6 +1,6 @@
 ---
 name: kyc-aml-geldwaesche
-description: "Wenn es um KYC / AML / Geldwäscheprävention in Wandeldarlehen-Lebenszyklus geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
+description: "Für KYC / AML / Geldwäscheprävention: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # KYC / AML / Geldwäscheprävention

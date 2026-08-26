@@ -1,6 +1,6 @@
 ---
 name: schoeffe-polizeizeuge-sitzung
-description: "Wenn es um Polizeizeuge würdigen: Sitzungspraxis in Schöffen und Handelsrichter Praxis geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen."
+description: "Für Polizeizeuge würdigen: Sitzungspraxis: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Schnittstellenkarte mit Zuständigkeits- und Nachweisfragen."
 ---
 
 # Polizeizeuge würdigen: Sitzungspraxis

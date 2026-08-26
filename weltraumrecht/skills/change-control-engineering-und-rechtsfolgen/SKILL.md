@@ -1,6 +1,6 @@
 ---
 name: change-control-engineering-und-rechtsfolgen
-description: "Wenn es um Weltraumrecht: Change Control: Engineering und Rechtsfolgen in Weltraumrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Weltraumrecht: Change Control: Engineering und Rechtsfolgen: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Weltraumrecht: Change Control: Engineering und Rechtsfolgen

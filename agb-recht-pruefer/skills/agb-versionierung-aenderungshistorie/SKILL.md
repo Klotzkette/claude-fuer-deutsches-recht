@@ -1,6 +1,6 @@
 ---
 name: agb-versionierung-aenderungshistorie
-description: "Wenn es um AGB Versionierung Änderungshistorie in AGB-Recht-Prüfer geht: klärt Rolle, Ziel, Frist, Unterlagen und den passenden nächsten Fachskill; liefert eine Tatbestands- oder Anspruchsmatrix mit Gegenargumenten."
+description: "Für AGB Versionierung Änderungshistorie: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # AGB Versionierung Änderungshistorie

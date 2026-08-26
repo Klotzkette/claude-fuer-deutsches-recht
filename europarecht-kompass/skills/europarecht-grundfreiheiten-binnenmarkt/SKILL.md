@@ -1,6 +1,6 @@
 ---
 name: europarecht-grundfreiheiten-binnenmarkt
-description: "Wenn es um Grundfreiheiten und Binnenmarkt in Europarecht-Kompass für deutsche Juristen geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Grundfreiheiten und Binnenmarkt: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Schnittstellenkarte mit Zuständigkeits- und Nachweisfragen."
 ---
 
 # Grundfreiheiten und Binnenmarkt

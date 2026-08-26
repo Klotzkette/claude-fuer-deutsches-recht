@@ -1,6 +1,6 @@
 ---
 name: workflow-redteam-migration
-description: "Wenn es um Red-Team Migration: Prüfungslinie für Migrationsrecht in Fachanwalt Migrationsrecht geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Red-Team Migration: Prüfungslinie für Migrationsrecht: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Red-Team Migration: Prüfungslinie für Migrationsrecht

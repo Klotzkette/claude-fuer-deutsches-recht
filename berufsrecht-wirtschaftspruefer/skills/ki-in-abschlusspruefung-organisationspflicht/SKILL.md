@@ -1,6 +1,6 @@
 ---
 name: ki-in-abschlusspruefung-organisationspflicht
-description: "Wenn es um Ki In Abschlusspruefung Organisationspflicht in Berufsrecht Wirtschaftsprüfer geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Ki in Abschlussprüfung Organisationspflicht: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Tatbestands- oder Anspruchsmatrix."
 ---
 
 # Wirtschaftsprüfer: ki in abschlusspruefung - Organisationspflichten, Prävention, Team-Anweisung und Fristenkontrolle

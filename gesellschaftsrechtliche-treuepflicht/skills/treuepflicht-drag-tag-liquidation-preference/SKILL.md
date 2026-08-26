@@ -1,6 +1,6 @@
 ---
 name: treuepflicht-drag-tag-liquidation-preference
-description: "Wenn es um Treuepflicht Drag Tag Liquidation Preference in Gesellschaftsrechtliche Treuepflicht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen."
+description: "Für Treuepflicht Drag Tag Liquidation Preference: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Schnittstellenkarte mit Zuständigkeits- und Nachweisfragen."
 ---
 
 # Treuepflicht Drag Tag Liquidation Preference

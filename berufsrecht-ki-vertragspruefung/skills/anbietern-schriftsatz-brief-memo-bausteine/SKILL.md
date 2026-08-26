@@ -1,6 +1,6 @@
 ---
 name: anbietern-schriftsatz-brief-memo-bausteine
-description: "Wenn es um Anbietern: Schriftsatz-, Brief- und Memo-Bausteine in diesem Spezialbereich geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Anbietern: Schriftsatz-, Brief- und Memo-Bausteine: erstellt Entwurf mit Antrag, Beweis und Anlagen; Ergebnis: Schriftsatz mit Begründungs- und Anlagenlogik."
 ---
 
 # Anbietern: Schriftsatz-, Brief- und Memo-Bausteine

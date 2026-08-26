@@ -1,6 +1,6 @@
 ---
 name: sanktion-durchsuchung-beschlagnahme
-description: "Wenn es um Durchsuchung Beschlagnahme und Datenzugriff in Datenschutzrecht geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Dokumentenmatrix mit Nachforderungsliste."
+description: "Für Durchsuchung Beschlagnahme und Datenzugriff: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt. Fachgebiet: Datenschutzrecht."
 ---
 
 # Durchsuchung Beschlagnahme und Datenzugriff

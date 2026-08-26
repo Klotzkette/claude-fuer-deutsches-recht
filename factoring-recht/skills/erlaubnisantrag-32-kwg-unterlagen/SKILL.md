@@ -1,6 +1,6 @@
 ---
 name: erlaubnisantrag-32-kwg-unterlagen
-description: "Wenn es um Erlaubnisantrag Paragraf 32 KWG Unterlagen Geschäftsleiter in Factoring-Recht geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
+description: "Für Erlaubnisantrag Paragraf 32 KWG Unterlagen Geschäftsleiter: erstellt Entwurf mit Antrag, Beweis und Anlagen; Ergebnis: Schriftsatz mit Begründungs- und Anlagenlogik."
 ---
 
 # Erlaubnisantrag § 32 KWG Unterlagen Geschäftsleiter

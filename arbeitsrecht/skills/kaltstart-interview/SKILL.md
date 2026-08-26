@@ -1,6 +1,6 @@
 ---
 name: kaltstart-interview
-description: "Wenn es um /arbeitsrecht:arbeitsrecht-kaltstart-interview in Arbeitsrecht geht: klärt Rolle, Ziel, Frist, Unterlagen und den passenden nächsten Fachskill; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für /arbeitsrecht:arbeitsrecht-kaltstart-interview: routet Rolle, Frist, Unterlagen und Fachschritt; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # /arbeitsrecht:arbeitsrecht-kaltstart-interview

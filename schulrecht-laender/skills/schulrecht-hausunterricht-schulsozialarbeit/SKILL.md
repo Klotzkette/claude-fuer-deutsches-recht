@@ -1,6 +1,6 @@
 ---
 name: schulrecht-hausunterricht-schulsozialarbeit
-description: "Wenn es um Hausunterricht, Ruhen der Schulpflicht und Schulverweigerung in Schulrecht der Bundesländer geht: entwickelt Verhandlungsziel, Vergleichskorridor und Eskalationspfad; liefert eine Verhandlungs- oder Eskalationslinie mit Optionen."
+description: "Für Hausunterricht, Ruhen der Schulpflicht und Schulverweigerung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Hausunterricht, Ruhen der Schulpflicht und Schulverweigerung

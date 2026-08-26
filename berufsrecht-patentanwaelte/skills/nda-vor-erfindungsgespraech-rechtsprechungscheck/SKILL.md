@@ -1,6 +1,6 @@
 ---
 name: nda-vor-erfindungsgespraech-rechtsprechungscheck
-description: "Wenn es um Nda Vor Erfindungsgespraech Rechtsprechungscheck in Berufsrecht Patentanwälte geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Gegenprüfung mit Fehler-, Beweis- und Fristencheck."
+description: "Für Nda vor Erfindungsgespräch Rechtsprechungscheck: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Patentanwälte: nda vor erfindungsgespraech - Rechtsprechungscheck, stärkste Gegenansicht und Red-Team-Korrektur

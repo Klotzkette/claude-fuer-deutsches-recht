@@ -1,6 +1,6 @@
 ---
 name: reservisten-heranziehung
-description: "Wenn es um Reservisten und Heranziehung in Kriegsdienstverweigerung und Wehrdienst geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Reservisten und Heranziehung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Reservisten und Heranziehung

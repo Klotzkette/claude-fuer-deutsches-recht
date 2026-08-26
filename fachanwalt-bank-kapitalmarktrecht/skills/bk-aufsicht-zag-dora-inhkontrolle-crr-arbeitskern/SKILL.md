@@ -1,6 +1,6 @@
 ---
 name: bk-aufsicht-zag-dora-inhkontrolle-crr-arbeitskern
-description: "Wenn es um Bk Aufsicht Zag Dora Inhkontrolle Crr Arbeitskern in Fachanwalt Bank Kapitalmarktrecht geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Bk Aufsicht Zag Dora Inhkontrolle Crr Arbeitskern: prüft Ergebnis, Beweislast und Gegenposition; Ergebnis: Gegenprüfung mit Beweis- und Fristencheck."
 ---
 
 # Fachanwalts-Fachmodul für Bankaufsicht: ZAG-Erlaubnis, DORA-IKT-Risiko, KWG-Anzeigen nach AnzV, Inhaberkontrolle und CRR-Folgen in Mandatsvermerken, Behördenantworten und Prozessstrategie verknüpfen.

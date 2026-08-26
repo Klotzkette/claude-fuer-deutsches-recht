@@ -1,6 +1,6 @@
 ---
 name: investitionsfoerderung-einzelfoerderung
-description: "Wenn es um Investitionsfoerderung Einzelfoerderung Pauschalfoerderung in Krankenhausrecht geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
+description: "Für Investitionsförderung Einzelförderung Pauschalförderung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Investitionsfoerderung Einzelfoerderung Pauschalfoerderung

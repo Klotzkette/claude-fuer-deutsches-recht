@@ -1,6 +1,6 @@
 ---
 name: weltraummedizin-probandenrecht-haftung
-description: "Wenn es um Weltraumrecht: Weltraummedizin: Probandenrecht, Ethik, Haftung in Weltraumrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Weltraumrecht: Weltraummedizin: Probandenrecht, Ethik, Haftung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Weltraumrecht: Weltraummedizin: Probandenrecht, Ethik, Haftung

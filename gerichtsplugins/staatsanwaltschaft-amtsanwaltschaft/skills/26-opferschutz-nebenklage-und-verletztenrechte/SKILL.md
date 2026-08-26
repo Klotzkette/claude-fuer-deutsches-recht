@@ -1,6 +1,6 @@
 ---
 name: 26-opferschutz-nebenklage-und-verletztenrechte
-description: "Wenn es um 26 Opferschutz Nebenklage und Verletztenrechte in Staatsanwaltschaft und Amtsanwaltschaft geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
+description: "Für 26 Opferschutz Nebenklage und Verletztenrechte: erstellt Entwurf mit Antrag, Beweis und Anlagen; Ergebnis: Schriftsatz mit Begründungs- und Anlagenlogik."
 ---
 
 # 26 Opferschutz Nebenklage und Verletztenrechte

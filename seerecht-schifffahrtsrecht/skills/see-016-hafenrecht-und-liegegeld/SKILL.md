@@ -1,6 +1,6 @@
 ---
 name: see-016-hafenrecht-und-liegegeld
-description: "Wenn es um Hafenrecht Und Liegegeld in See- und Schifffahrtsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Hafenrecht und Liegegeld: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Hafenrecht Und Liegegeld

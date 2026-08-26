@@ -1,6 +1,6 @@
 ---
 name: fachanwalt-migrationsrecht-asyl-folgeantrag-71
-description: "Wenn es um Asyl-Folgeantrag Paragraf 71 AsylG in Fachanwalt Migrationsrecht geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
+description: "Für Asyl-Folgeantrag Paragraf 71 AsylG: erstellt Entwurf mit Antrag, Beweis und Anlagen; Ergebnis: Schriftsatz mit Begründungs- und Anlagenlogik."
 ---
 
 # Asyl-Folgeantrag § 71 AsylG

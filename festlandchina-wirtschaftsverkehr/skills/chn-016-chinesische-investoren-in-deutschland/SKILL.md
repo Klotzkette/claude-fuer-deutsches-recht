@@ -1,6 +1,6 @@
 ---
 name: chn-016-chinesische-investoren-in-deutschland
-description: "Wenn es um Chinesische Investoren In Deutschland in China-Wirtschaftsverkehr geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Chinesische Investoren in Deutschland: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Schnittstellenkarte mit Zuständigkeits- und Nachweisfragen."
 ---
 
 # Chinesische Investoren In Deutschland

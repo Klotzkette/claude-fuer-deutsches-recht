@@ -1,6 +1,6 @@
 ---
 name: buergergeld-sanktionen-31a-sgb-ii
-description: "Prüft Leistungsminderungen im SGB II nach dem seit 1. Juli 2026 geltenden Recht und trennt Pflichtverletzung, Meldeversäumnis, willentliche Arbeitsverweigerung und Übergangsfall. Liefert Bescheidmatrix, Fristenblatt, bezifferte Differenz sowie Widerspruchs- oder Eilantragsbaustein."
+description: "Für Leistungsminderung im SGB II prüfen: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Leistungsminderung im SGB II prüfen

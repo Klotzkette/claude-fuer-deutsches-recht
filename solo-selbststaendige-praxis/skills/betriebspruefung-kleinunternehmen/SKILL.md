@@ -1,6 +1,6 @@
 ---
 name: betriebspruefung-kleinunternehmen
-description: "Wenn es um Steuern und Buchhaltung: Bereitet kleine betriebsprüfung oder nachschau mit belegpfad vor in Solo-Selbstständige Praxis geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Steuern und Buchhaltung: Bereitet kleine betriebsprüfung oder nachschau mit belegpfad vor: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Tatbestands- oder Anspruchsmatrix."
 ---
 
 # Steuern und Buchhaltung: Bereitet kleine betriebsprüfung oder nachschau mit belegpfad vor

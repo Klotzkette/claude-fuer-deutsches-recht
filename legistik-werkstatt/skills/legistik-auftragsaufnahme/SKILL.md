@@ -1,6 +1,6 @@
 ---
 name: legistik-auftragsaufnahme
-description: "Wenn es um Legistik-Auftragsaufnahme in Legistik-Werkstatt geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Legistik-Auftragsaufnahme: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Legistik-Auftragsaufnahme

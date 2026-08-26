@@ -1,6 +1,6 @@
 ---
 name: wiedereinsetzung-frist-67-sgg
-description: "Wenn es um Frist verpasst? Wiedereinsetzung nach Paragraf 67 SGG in selbstvertreter-sozialgericht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Frist verpasst? Wiedereinsetzung nach Paragraf 67 SGG: prüft Frist, Form, Zuständigkeit und Eilbedarf; Ergebnis: Fristen- und Risikoampel."
 ---
 
 # Frist verpasst? Wiedereinsetzung nach § 67 SGG

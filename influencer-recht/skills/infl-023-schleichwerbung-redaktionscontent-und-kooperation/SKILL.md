@@ -1,6 +1,6 @@
 ---
 name: infl-023-schleichwerbung-redaktionscontent-und-kooperation
-description: "Wenn es um Influencer-Recht: Schleichwerbung Redaktionscontent und Kooperation in Influencer-Recht geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Influencer-Recht: Schleichwerbung Redaktionscontent und Kooperation: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Influencer-Recht: Schleichwerbung Redaktionscontent und Kooperation

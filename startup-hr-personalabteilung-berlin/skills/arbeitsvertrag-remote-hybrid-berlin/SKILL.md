@@ -1,6 +1,6 @@
 ---
 name: arbeitsvertrag-remote-hybrid-berlin
-description: "Wenn es um Arbeitsvertrag Remote Hybrid Berlin in Start-up-HR-Personalabteilung Berlin geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Arbeitsvertrag Remote Hybrid Berlin: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Arbeitsvertrag Remote Hybrid Berlin

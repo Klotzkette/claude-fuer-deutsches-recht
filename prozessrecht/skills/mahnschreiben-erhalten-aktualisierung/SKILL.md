@@ -1,6 +1,6 @@
 ---
 name: mahnschreiben-erhalten-aktualisierung
-description: "Wenn es um Eingehendes Mahnschreiben / Abmahnung – Triage in Prozessrecht geht: klärt Rolle, Ziel, Frist, Unterlagen und den passenden nächsten Fachskill; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Eingehendes Mahnschreiben / Abmahnung – Triage: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Eingehendes Mahnschreiben / Abmahnung – Triage

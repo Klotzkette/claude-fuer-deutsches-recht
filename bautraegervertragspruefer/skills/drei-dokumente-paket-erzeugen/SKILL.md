@@ -1,6 +1,6 @@
 ---
 name: drei-dokumente-paket-erzeugen
-description: "Wenn es um Drei-Dokumente-Paket erzeugen in Bauträgervertragspruefer geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen."
+description: "Für Drei-Dokumente-Paket erzeugen: ordnet Akte, Belege und Lücken; Ergebnis: Schnittstellenkarte mit Zuständigkeits- und Nachweisfragen."
 ---
 
 # Drei-Dokumente-Paket erzeugen

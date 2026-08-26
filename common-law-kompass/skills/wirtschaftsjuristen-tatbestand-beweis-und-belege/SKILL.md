@@ -1,6 +1,6 @@
 ---
 name: wirtschaftsjuristen-tatbestand-beweis-und-belege
-description: "Wenn es um Wirtschaftsjuristen: Tatbestandsmerkmale, Beweisfragen und Beleglage in Common-Law-Kompass für deutsche Wirtschaftsjuristen geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Beweislast- und Substantiierungsmatrix."
+description: "Für Wirtschaftsjuristen: Tatbestandsmerkmale, Beweisfragen und Beleglage: ordnet Akte, Belege und Lücken; Ergebnis: Beweislast- und Substantiierungsmatrix."
 ---
 
 # Wirtschaftsjuristen: Tatbestandsmerkmale, Beweisfragen und Beleglage

@@ -1,6 +1,6 @@
 ---
 name: inso-verteidigung-anfechtungsgegner
-description: "Wenn es um Verteidigung des Anfechtungsgegners — Paragrafen 129 ff. InsO in bereicherungs-und-anfechtungsrecht-prüfer geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt. Auswahlstichwort: Inso Verteidigung Anfechtungsgegner; Arbeitsfeld: bereicherungs-und-anfechtungsrecht-prüfer."
+description: "Für Verteidigung des Anfechtungsgegners — Paragrafen 129 ff. InsO: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt. Fachgebiet: bereicherungs-und-anfechtungsrecht-prüfer. Route: inso-verteidigung-anfechtungsgegner."
 ---
 
 # Verteidigung des Anfechtungsgegners — §§ 129 ff. InsO

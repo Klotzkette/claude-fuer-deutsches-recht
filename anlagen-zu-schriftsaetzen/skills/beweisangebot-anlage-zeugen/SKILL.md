@@ -1,6 +1,6 @@
 ---
 name: beweisangebot-anlage-zeugen
-description: "Wenn es um Beweisangebot über Anlagen (Zeugen) in Anlagen zu Schriftsätzen geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Beweislast- und Substantiierungsmatrix."
+description: "Für Beweisangebot über Anlagen (Zeugen): ordnet Norm, Beweislast und Gegenargument; Ergebnis: Beweislast- und Substantiierungsmatrix. Fachgebiet: Anlagen zu Schriftsätzen. Route: beweisangebot-anlage-zeugen."
 ---
 
 # Beweisangebot über Anlagen (Zeugen)

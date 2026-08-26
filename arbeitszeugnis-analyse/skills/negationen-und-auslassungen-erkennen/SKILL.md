@@ -1,6 +1,6 @@
 ---
 name: negationen-und-auslassungen-erkennen
-description: "Wenn es um Negationen und Auslassungen erkennen in Arbeitszeugnis-Analyse geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Negationen und Auslassungen erkennen: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Negationen und Auslassungen erkennen

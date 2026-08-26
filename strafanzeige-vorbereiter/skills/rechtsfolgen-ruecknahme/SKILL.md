@@ -1,6 +1,6 @@
 ---
 name: rechtsfolgen-ruecknahme
-description: "Wenn es um Rechtsfolgen und Zivilstrategie in Strafanzeige-Vorbereiter geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
+description: "Für Rechtsfolgen und Zivilstrategie: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Rechtsfolgen und Zivilstrategie

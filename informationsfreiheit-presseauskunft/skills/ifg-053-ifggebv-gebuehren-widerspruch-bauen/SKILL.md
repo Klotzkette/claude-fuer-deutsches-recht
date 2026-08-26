@@ -1,6 +1,6 @@
 ---
 name: ifg-053-ifggebv-gebuehren-widerspruch-bauen
-description: "Wenn es um Ifggebv Gebuehren Widerspruch Bauen in Informationsfreiheit und Presseauskunft geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Ifggebv Gebühren Widerspruch Bauen: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Berechnungstabelle mit Annahmen und Kontrollfragen."
 ---
 
 # Ifggebv Gebuehren Widerspruch Bauen

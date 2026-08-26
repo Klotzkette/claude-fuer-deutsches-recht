@@ -1,6 +1,6 @@
 ---
 name: grosse-compliance-dokumentation-aktenvermerk
-description: "Wenn es um Große: Compliance-Dokumentation und Aktenvermerk in DFG-Förderantrag geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Große: Compliance-Dokumentation und Aktenvermerk: ordnet Akte, Belege und Lücken; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt. Fachgebiet: DFG-Förderantrag. Route: grosse-compliance-dokumentation-aktenvermerk."
 ---
 
 # Große: Compliance-Dokumentation und Aktenvermerk

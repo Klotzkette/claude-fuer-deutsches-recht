@@ -1,6 +1,6 @@
 ---
 name: thought-leadership-toxic-client-ubt-dashboard
-description: "Wenn es um Thought Leadership Plan in Kanzlei Management geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Thought Leadership Plan: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Thought Leadership Plan

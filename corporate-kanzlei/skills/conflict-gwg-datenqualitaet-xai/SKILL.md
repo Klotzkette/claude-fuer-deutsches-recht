@@ -1,6 +1,6 @@
 ---
 name: conflict-gwg-datenqualitaet-xai
-description: "Wenn es um Konflikt-, GwG- und Sanktionscheck in Corporate-Kanzlei geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Konflikt-, GwG- und Sanktionscheck: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Gegenprüfung mit Beweis- und Fristencheck."
 ---
 
 # Konflikt-, GwG- und Sanktionscheck

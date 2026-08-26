@@ -1,6 +1,6 @@
 ---
 name: schutzrechts-portfolio-schutzschrift
-description: "Wenn es um IP-Portfolio-Verwaltung in Plugin: Gewerblicher Rechtsschutz geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für IP-Portfolio-Verwaltung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # IP-Portfolio-Verwaltung

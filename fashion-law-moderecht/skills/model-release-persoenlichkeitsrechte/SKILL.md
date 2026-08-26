@@ -1,6 +1,6 @@
 ---
 name: model-release-persoenlichkeitsrechte
-description: "Wenn es um Model Release Persoenlichkeitsrechte in fashion-law-moderecht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen."
+description: "Für Model Release Persönlichkeitsrechte: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Model Release Persoenlichkeitsrechte

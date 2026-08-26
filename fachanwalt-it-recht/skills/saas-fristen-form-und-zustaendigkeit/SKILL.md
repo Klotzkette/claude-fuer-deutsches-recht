@@ -1,6 +1,6 @@
 ---
 name: saas-fristen-form-und-zustaendigkeit
-description: "Wenn es um Saas: Fristen, Form, Zuständigkeit und Rechtsweg in Fachanwalt It Recht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Saas: Fristen, Form, Zuständigkeit und Rechtsweg: prüft Frist, Form, Zuständigkeit und Eilbedarf; Ergebnis: Fristen- und Risikoampel."
 ---
 
 # Saas: Fristen, Form, Zuständigkeit und Rechtsweg

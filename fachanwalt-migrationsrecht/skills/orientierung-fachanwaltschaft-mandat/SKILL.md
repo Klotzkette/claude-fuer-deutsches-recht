@@ -1,6 +1,6 @@
 ---
 name: orientierung-fachanwaltschaft-mandat
-description: "Wenn es um Orientierung Fachanwaltschaft Mandat in Fachanwalt Migrationsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Orientierung Fachanwaltschaft Mandat: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt. Fachgebiet: Fachanwalt Migrationsrecht."
 ---
 
 # Anwalt will überblicken welche Normen und Mandate das Migrationsrecht umfasst oder Fachanwaltschaft vorbereiten

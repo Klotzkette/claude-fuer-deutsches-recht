@@ -1,6 +1,6 @@
 ---
 name: fachanwalt-vergaberecht-freiberufliche-leistungen-hoai
-description: "Wenn es um Freiberufliche Leistungen (Paragraf 50 VgV) in Fachanwalt Vergaberecht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen."
+description: "Für Freiberufliche Leistungen (Paragraf 50 VgV): ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Freiberufliche Leistungen (§ 50 VgV)

@@ -1,6 +1,6 @@
 ---
 name: forecast-wochenplanung
-description: "Wenn es um Liquiditaetsplanung: Erstprüfung, Rollenklärung und Mandatsziel in Liquiditätsplanung — Power geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Liquiditätsplanung: Erstprüfung, Rollenklärung und Mandatsziel: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Liquiditaetsplanung: Erstprüfung, Rollenklärung und Mandatsziel

@@ -1,6 +1,6 @@
 ---
 name: r-d-nda-grundstruktur-international
-description: "Wenn es um NDA bei F&E-Kooperation in NDA-Abgleich geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. Auswahlstichwort: R D Nda Grundstruktur International; Arbeitsfeld: NDA-Abgleich."
+description: "Für NDA bei F&E-Kooperation: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Schnittstellenkarte mit Zuständigkeits- und Nachweisfragen."
 ---
 
 # NDA bei F&E-Kooperation

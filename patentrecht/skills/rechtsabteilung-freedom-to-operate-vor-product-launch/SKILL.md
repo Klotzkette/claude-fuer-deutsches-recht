@@ -1,6 +1,6 @@
 ---
 name: rechtsabteilung-freedom-to-operate-vor-product-launch
-description: "Wenn es um Rechtsabteilung: Freedom-to-Operate vor Product Launch in patentrecht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
+description: "Für Rechtsabteilung: Freedom-to-Operate vor Product Launch: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Rechtsabteilung: Freedom-to-Operate vor Product Launch

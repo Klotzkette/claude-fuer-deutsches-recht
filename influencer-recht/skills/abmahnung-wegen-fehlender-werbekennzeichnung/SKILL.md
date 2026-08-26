@@ -1,6 +1,6 @@
 ---
 name: abmahnung-wegen-fehlender-werbekennzeichnung
-description: "Wenn es um Influencer-Recht: Abmahnung wegen fehlender Werbekennzeichnung in Influencer-Recht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Verhandlungs- oder Eskalationslinie mit Optionen."
+description: "Für Influencer-Recht: Abmahnung wegen fehlender Werbekennzeichnung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Influencer-Recht: Abmahnung wegen fehlender Werbekennzeichnung

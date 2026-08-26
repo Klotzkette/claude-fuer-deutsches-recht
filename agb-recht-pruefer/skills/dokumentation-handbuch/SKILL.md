@@ -1,6 +1,6 @@
 ---
 name: dokumentation-handbuch
-description: "Wenn es um Dokumentation Handbuch in AGB-Recht-Prüfer geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Dokumentation Handbuch: ordnet Akte, Belege und Lücken; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Dokumentation Handbuch

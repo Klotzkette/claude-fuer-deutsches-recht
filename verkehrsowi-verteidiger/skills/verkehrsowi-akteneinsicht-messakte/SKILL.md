@@ -1,6 +1,6 @@
 ---
 name: verkehrsowi-akteneinsicht-messakte
-description: "Wenn es um Akteneinsicht und Messakte im OWi-Verfahren in VerkehrsOWi-Verteidiger geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Akteneinsicht und Messakte im OWi-Verfahren: ordnet Akte, Belege und Lücken; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Akteneinsicht und Messakte im OWi-Verfahren

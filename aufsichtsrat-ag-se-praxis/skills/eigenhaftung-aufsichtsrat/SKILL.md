@@ -1,6 +1,6 @@
 ---
 name: eigenhaftung-aufsichtsrat
-description: "Wenn es um Eigenhaftung Aufsichtsrat in AG/SE-Aufsichtsrat Praxis geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
+description: "Für Eigenhaftung Aufsichtsrat: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Eigenhaftung Aufsichtsrat

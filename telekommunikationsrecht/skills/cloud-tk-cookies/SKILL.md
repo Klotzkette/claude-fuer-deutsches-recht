@@ -1,6 +1,6 @@
 ---
 name: cloud-tk-cookies
-description: "Wenn es um Cloud-Telefonie und VoIP in Telekommunikationsrecht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen."
+description: "Für Cloud-Telefonie und VoIP: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Cloud-Telefonie und VoIP

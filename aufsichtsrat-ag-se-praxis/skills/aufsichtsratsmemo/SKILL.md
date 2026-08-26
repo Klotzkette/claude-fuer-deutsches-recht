@@ -1,6 +1,6 @@
 ---
 name: aufsichtsratsmemo
-description: "Wenn es um Aufsichtsratsmemo in AG/SE-Aufsichtsrat Praxis geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
+description: "Für Aufsichtsratsmemo: erstellt Entwurf mit Antrag, Beweis und Anlagen; Ergebnis: Schriftsatz mit Begründungs- und Anlagenlogik."
 ---
 
 # Aufsichtsratsmemo

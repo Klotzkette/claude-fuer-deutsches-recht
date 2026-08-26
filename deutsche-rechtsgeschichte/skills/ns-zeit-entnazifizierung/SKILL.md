@@ -1,6 +1,6 @@
 ---
 name: ns-zeit-entnazifizierung
-description: "Wenn es um Deutsche Rechtsgeschichte: 013 Ns Zeit Unrecht Gesetzgebung Und Justiz in Deutsche Rechtsgeschichte geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Deutsche Rechtsgeschichte: 013 Ns Zeit Unrecht Gesetzgebung und Justiz: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Deutsche Rechtsgeschichte: 013 Ns Zeit Unrecht Gesetzgebung Und Justiz

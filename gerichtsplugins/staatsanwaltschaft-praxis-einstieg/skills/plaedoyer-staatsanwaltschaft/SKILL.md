@@ -1,6 +1,6 @@
 ---
 name: plaedoyer-staatsanwaltschaft
-description: "Wenn es um Plädoyer der Staatsanwaltschaft in Staatsanwaltschaft Praxis-Einstieg geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
+description: "Für Plädoyer der Staatsanwaltschaft: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Plädoyer der Staatsanwaltschaft

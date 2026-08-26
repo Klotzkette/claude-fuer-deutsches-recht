@@ -1,6 +1,6 @@
 ---
 name: memo-pruefung-im-gutachtenstil
-description: "Wenn es um Memo: Prüfung im Gutachtenstil in Memorandums-Ersteller geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
+description: "Für Memo: Prüfung im Gutachtenstil: erstellt Entwurf mit Antrag, Beweis und Anlagen; Ergebnis: Schriftsatz mit Begründungs- und Anlagenlogik."
 ---
 
 # Memo: Prüfung im Gutachtenstil

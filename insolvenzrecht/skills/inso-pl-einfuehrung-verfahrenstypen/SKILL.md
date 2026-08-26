@@ -1,6 +1,6 @@
 ---
 name: inso-pl-einfuehrung-verfahrenstypen
-description: "Wenn es um Insolvenzrecht: Verfahrenstypen in Insolvenzrecht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
+description: "Für Insolvenzrecht: Verfahrenstypen: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Insolvenzrecht: Verfahrenstypen

@@ -1,6 +1,6 @@
 ---
 name: bezuege-zahlen-schwellen-und-berechnung
-description: "Wenn es um Bezuege Zahlen Schwellen Und Berechnung in Fachanwalt Gewerblicher Rechtsschutz geht: rechnet Schwellen, Beträge, Varianten und Kontrollannahmen durch; liefert eine Berechnungstabelle mit Schwellen, Annahmen und Kontrollfragen."
+description: "Für Bezüge Zahlen Schwellen und Berechnung: rechnet Beträge, Schwellen und Varianten; Ergebnis: Berechnungstabelle mit Annahmen und Kontrollfragen."
 ---
 
 # Streitwerte, Gebühren, Schwellenwerte und Berechnungen im gewerblichen Rechtsschutz: Streitwertrahmen Marke/Patent/Design/UWG, RVG-Gebühren, Gerichtskosten GKG, Schadensersatzberechnung (drei Methoden), DPMA/EUIPO-Gebührentabellen, Vertragsstrafe.
@@ -120,3 +120,7 @@ Entgangener Gewinn + nachgewiesener Schaden.
 - Keine verbindlichen Kostenberechnungen ohne vollständige Daten.
 - Kein Ersatz für vollständige Mandantenberatung.
 - Keine Garantie für Streitwertfestsetzung durch Gerichte (einzelfallabhängig).
+
+## Vertiefung bei Bedarf
+
+- Bei `spezial-bezuege-zahlen-schwellen-und-berechnung` beziehungsweise Bezuege: Zahlen, Schwellenwerte und Berechnung: [die zusätzliche Vertiefung laden](./references/vertiefung-spezial-bezuege-zahlen-schwellen-und-berechnung.md).

@@ -1,6 +1,6 @@
 ---
 name: vdg-002-klageberechtigung-der-stelle-pruefen
-description: "Wenn es um Klageberechtigung Der Stelle Pruefen in Verbraucherschutzverband Durchsetzung geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
+description: "Für Klageberechtigung der Stelle Prüfen: erstellt Entwurf mit Antrag, Beweis und Anlagen; Ergebnis: Schriftsatz mit Begründungs- und Anlagenlogik. Fachgebiet: Verbraucherschutzverband Durchsetzung. Route: vdg-002-klageberechtigung-der-stelle-pruefen."
 ---
 
 # Klageberechtigung Der Stelle Pruefen

@@ -1,6 +1,6 @@
 ---
 name: btm-026-cannabis-therapiepfad-pruefen
-description: "Wenn es um Cannabis Therapiepfad Pruefen in Betäubungsmittelrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Cannabis Therapiepfad Prüfen: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt. Fachgebiet: Betäubungsmittelrecht. Route: btm-026-cannabis-therapiepfad-pruefen."
 ---
 
 # Cannabis Therapiepfad Pruefen

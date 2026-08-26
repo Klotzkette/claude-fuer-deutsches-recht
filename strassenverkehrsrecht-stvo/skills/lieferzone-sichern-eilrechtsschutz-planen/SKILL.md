@@ -1,6 +1,6 @@
 ---
 name: lieferzone-sichern-eilrechtsschutz-planen
-description: "Wenn es um Lieferzone Beweis Sichern in Straßenverkehrsrecht StVO geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Lieferzone Beweis Sichern: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Lieferzone Beweis Sichern

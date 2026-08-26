@@ -1,6 +1,6 @@
 ---
 name: zit-gesetzeszitierung-bauleiter
-description: "Wenn es um Zit: Gesetzeszitierung in Zitierweise deutsches Recht geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
+description: "Für Zit: Gesetzeszitierung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Zit: Gesetzeszitierung

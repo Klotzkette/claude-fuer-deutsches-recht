@@ -1,6 +1,6 @@
 ---
 name: reiseveranstalter-klageschrift-struktu
-description: "Wenn es um Reiseveranstalter Klageschrift Struktu in Verbraucherschutzverband Durchsetzung geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
+description: "Für Reiseveranstalter Klageschrift Struktu: erstellt Entwurf mit Antrag, Beweis und Anlagen; Ergebnis: Schriftsatz mit Begründungs- und Anlagenlogik."
 ---
 
 # Reiseveranstalter Klageschrift Struktu

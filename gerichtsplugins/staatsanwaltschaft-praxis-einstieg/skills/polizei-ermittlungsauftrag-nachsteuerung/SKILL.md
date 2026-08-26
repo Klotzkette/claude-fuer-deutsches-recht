@@ -1,6 +1,6 @@
 ---
 name: polizei-ermittlungsauftrag-nachsteuerung
-description: "Wenn es um Ermittlungsauftrag an die Polizei: Nachsteuerung in Staatsanwaltschaft Praxis-Einstieg geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Beweislast- und Substantiierungsmatrix."
+description: "Für Ermittlungsauftrag an die Polizei: Nachsteuerung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Schnittstellenkarte mit Zuständigkeits- und Nachweisfragen."
 ---
 
 # Ermittlungsauftrag an die Polizei: Nachsteuerung

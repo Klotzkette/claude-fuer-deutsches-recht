@@ -1,6 +1,6 @@
 ---
 name: zwangsvollstreckung-ueberblick
-description: "Wenn es um Zwangsvollstreckung Überblick in Forderungsmanagement — Klagewerkstatt geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
+description: "Für Zwangsvollstreckung Überblick: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt. Fachgebiet: Forderungsmanagement — Klagewerkstatt. Route: zwangsvollstreckung-ueberblick."
 ---
 
 # Zwangsvollstreckung Überblick

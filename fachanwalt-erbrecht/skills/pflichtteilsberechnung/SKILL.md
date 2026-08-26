@@ -1,6 +1,6 @@
 ---
 name: pflichtteilsberechnung
-description: "Wenn es um Pflichtteilsanspruch berechnen wenn Erblasser nahe Angehoerige vom Erbe ausgeschlossen hat in Fachanwalt Erbrecht geht: rechnet Schwellen, Beträge, Varianten und Kontrollannahmen durch; liefert eine Berechnungstabelle mit Schwellen, Annahmen und Kontrollfragen."
+description: "Für Pflichtteilsanspruch berechnen wenn Erblasser nahe Angehörige vom Erbe ausgeschlossen hat: rechnet Beträge, Schwellen und Varianten; Ergebnis: Berechnungstabelle mit Annahmen und Kontrollfragen."
 ---
 
 # Pflichtteilsanspruch berechnen wenn Erblasser nahe Angehoerige vom Erbe ausgeschlossen hat

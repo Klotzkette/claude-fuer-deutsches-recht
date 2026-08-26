@@ -1,6 +1,6 @@
 ---
 name: teilzeit-elternzeit-darstellung
-description: "Prüft, ob und wie Teilzeit, Elternzeit oder längere Unterbrechungen sachlich erwähnt werden dürfen und für Art oder Dauer der Tätigkeit relevant sind. Liefert eine neutrale Zeitdarstellung ohne Benachteiligung oder verdeckte Abwertung."
+description: "Prüft, ob und wie Teilzeit, Elternzeit oder längere Unterbrechungen sachlich erwähnt werden dürfen und für Art oder Dauer der Tätigkeit relevant sind."
 ---
 
 # Teilzeit und Elternzeit im Zeugnis

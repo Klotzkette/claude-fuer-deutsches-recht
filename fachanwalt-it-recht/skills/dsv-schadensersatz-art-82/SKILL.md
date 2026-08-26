@@ -1,6 +1,6 @@
 ---
 name: dsv-schadensersatz-art-82
-description: "Wenn es um Verteidigt den Verantwortlichen gegen Schadensersatzansprüche nach Art in Fachanwalt It Recht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Verteidigt den Verantwortlichen gegen Schadensersatzansprüche nach Art: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Verteidigt den Verantwortlichen gegen Schadensersatzansprüche nach Art

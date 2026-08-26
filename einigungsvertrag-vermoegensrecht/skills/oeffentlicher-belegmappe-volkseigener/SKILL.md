@@ -1,6 +1,6 @@
 ---
 name: oeffentlicher-belegmappe-volkseigener
-description: "Wenn es um Vergleich Mit Oeffentlicher Hand in Einigungsvertrag und Vermögensrecht geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Verhandlungs- oder Eskalationslinie mit Optionen."
+description: "Für Vergleich mit Öffentlicher Hand: ordnet Akte, Belege und Lücken; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Vergleich Mit Oeffentlicher Hand

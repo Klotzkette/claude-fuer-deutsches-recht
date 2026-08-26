@@ -1,6 +1,6 @@
 ---
 name: medical-device-china-supply
-description: "Wenn es um Medizinprodukte China: EU-MDR-Compliance und Lieferkettenrisiken in China-Wirtschaftsverkehr geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Medizinprodukte China: EU-MDR-Compliance und Lieferkettenrisiken: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Medizinprodukte China: EU-MDR-Compliance und Lieferkettenrisiken

@@ -1,6 +1,6 @@
 ---
 name: fintech-crypto-regulated-target
-description: "Wenn es um FinTech, Crypto und regulierte Targets in Venture Capital Geber geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für FinTech, Crypto und regulierte Targets: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # FinTech, Crypto und regulierte Targets

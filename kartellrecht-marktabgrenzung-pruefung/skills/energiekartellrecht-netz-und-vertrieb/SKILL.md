@@ -1,6 +1,6 @@
 ---
 name: energiekartellrecht-netz-und-vertrieb
-description: "Wenn es um Energiekartellrecht Netz und Vertrieb in Kartellrecht — Marktabgrenzungsprüfung geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen."
+description: "Für Energiekartellrecht Netz und Vertrieb: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Energiekartellrecht Netz und Vertrieb

@@ -1,6 +1,6 @@
 ---
 name: mahnschreiben-entwurf-anwaltsgeheimnis
-description: "Wenn es um Mahnschreiben / Vorgerichtliche Aufforderung in Prozessrecht geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Mahnschreiben / Vorgerichtliche Aufforderung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Mahnschreiben / Vorgerichtliche Aufforderung

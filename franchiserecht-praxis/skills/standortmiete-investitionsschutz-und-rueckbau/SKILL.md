@@ -1,6 +1,6 @@
 ---
 name: standortmiete-investitionsschutz-und-rueckbau
-description: "Wenn es um Franchise: Standortmiete, Investitionsschutz und Rückbau in Franchiserecht Praxis geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Chronologie mit Belegmatrix und Widerspruchsliste."
+description: "Für Franchise: Standortmiete, Investitionsschutz und Rückbau: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Franchise: Standortmiete, Investitionsschutz und Rückbau

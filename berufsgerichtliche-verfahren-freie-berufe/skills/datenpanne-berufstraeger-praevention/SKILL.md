@@ -1,6 +1,6 @@
 ---
 name: datenpanne-berufstraeger-praevention
-description: "Wenn es um Datenpanne beim Berufsträger: Präventions- und Organisationspaket in Berufsgerichtliche Verfahren Freie Berufe geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Verhandlungs- oder Eskalationslinie mit Optionen."
+description: "Für Datenpanne beim Berufsträger: Präventions- und Organisationspaket: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Datenpanne beim Berufsträger: Präventions- und Organisationspaket

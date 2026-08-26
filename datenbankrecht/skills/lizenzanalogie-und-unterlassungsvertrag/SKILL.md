@@ -1,6 +1,6 @@
 ---
 name: lizenzanalogie-und-unterlassungsvertrag
-description: "Wenn es um Lizenzanalogie und Unterlassungsvertrag im Datenbankrecht in Datenbankrecht und Datenbankherstellerrecht geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
+description: "Für Lizenzanalogie und Unterlassungsvertrag im Datenbankrecht: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Lizenzanalogie und Unterlassungsvertrag im Datenbankrecht

@@ -1,6 +1,6 @@
 ---
 name: shop-check-social-commerce
-description: "Wenn es um Shop Check Checkout Widerruf Impressum in E-Commerce-Recht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Shop Check Checkout Widerruf Impressum: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Shop Check Checkout Widerruf Impressum

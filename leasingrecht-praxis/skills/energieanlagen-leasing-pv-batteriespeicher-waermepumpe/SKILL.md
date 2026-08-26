@@ -1,6 +1,6 @@
 ---
 name: energieanlagen-leasing-pv-batteriespeicher-waermepumpe
-description: "Wenn es um Energieanlagen-Leasing: PV, Batteriespeicher, Wärmepumpe in Leasingrecht Praxis geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
+description: "Für Energieanlagen-Leasing: PV, Batteriespeicher, Wärmepumpe: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Energieanlagen-Leasing: PV, Batteriespeicher, Wärmepumpe

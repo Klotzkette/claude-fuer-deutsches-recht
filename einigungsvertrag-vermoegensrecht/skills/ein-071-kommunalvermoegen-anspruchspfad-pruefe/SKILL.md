@@ -1,6 +1,6 @@
 ---
 name: ein-071-kommunalvermoegen-anspruchspfad-pruefe
-description: "Wenn es um Kommunalvermoegen Anspruchspfad Pruefe in Einigungsvertrag und Vermögensrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Kommunalvermögen Anspruchspfad Prüfe: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Tatbestands- oder Anspruchsmatrix. Fachgebiet: Einigungsvertrag und Vermögensrecht. Route: ein-071-kommunalvermoegen-anspruchspfad-pruefe."
 ---
 
 # Kommunalvermoegen Anspruchspfad Pruefe

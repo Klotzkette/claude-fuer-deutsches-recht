@@ -1,6 +1,6 @@
 ---
 name: landeshaushalt-bayern-lesen
-description: "Wenn es um Landeshaushalt Bayern Lesen in Haushaltsrecht BHO Bund und Länder geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Landeshaushalt Bayern Lesen: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Landeshaushalt Bayern Lesen

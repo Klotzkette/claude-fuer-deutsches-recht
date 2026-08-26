@@ -1,6 +1,6 @@
 ---
 name: nordrhein-westfalen-spezial-zollverein-industriekultur
-description: "Wenn es um Zeche und Kokerei Zollverein als UNESCO-Welterbe in NRW in Denkmalschutzrecht — Bundesweiter Rahmen und sechzehn geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
+description: "Für Zeche und Kokerei Zollverein als UNESCO-Welterbe in NRW: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Zeche und Kokerei Zollverein als UNESCO-Welterbe in NRW

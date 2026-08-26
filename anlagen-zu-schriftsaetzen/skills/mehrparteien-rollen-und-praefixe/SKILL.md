@@ -1,6 +1,6 @@
 ---
 name: mehrparteien-rollen-und-praefixe
-description: "Wenn es um Mehrparteien, Rollen und Präfixe in Anlagen zu Schriftsätzen geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
+description: "Für Mehrparteien, Rollen und Präfixe: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Mehrparteien, Rollen und Präfixe

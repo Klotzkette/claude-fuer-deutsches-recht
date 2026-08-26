@@ -1,6 +1,6 @@
 ---
 name: chn-020-us-ear-china-touchpoints
-description: "Wenn es um US EAR China Touchpoints in China-Wirtschaftsverkehr geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für US EAR China Touchpoints: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # US EAR China Touchpoints

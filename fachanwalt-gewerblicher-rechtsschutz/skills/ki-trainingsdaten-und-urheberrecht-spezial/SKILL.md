@@ -1,6 +1,6 @@
 ---
 name: ki-trainingsdaten-und-urheberrecht-spezial
-description: "Wenn es um Ki Trainingsdaten Und Urheberrecht Spezial in Fachanwalt Gewerblicher Rechtsschutz geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Ki Trainingsdaten und Urheberrecht Spezial: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # KI-Trainingsdaten und Urheberrecht: Text and Data Mining (TDM) §§ 44a, 44b UrhG, Opt-out-Vorbehalt, KI-generierte Werke und Schutzfähigkeit, EU AI Act, Haftung für KI-Output, Datenbankschutz § 87a UrhG, aktuelle EuGH-/BGH-Leitlinien.

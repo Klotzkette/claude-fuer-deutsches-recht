@@ -1,6 +1,6 @@
 ---
 name: abmahnung-uwg
-description: "Wenn es um UWG-Abmahnung prüfen versenden oder auf Eingang reagieren in Fachanwalt Gewerblicher Rechtsschutz geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für UWG-Abmahnung prüfen versenden oder auf Eingang reagieren: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # UWG-Abmahnung prüfen versenden oder auf Eingang reagieren

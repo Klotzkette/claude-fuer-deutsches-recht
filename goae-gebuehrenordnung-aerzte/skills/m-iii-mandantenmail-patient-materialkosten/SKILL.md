@@ -1,6 +1,6 @@
 ---
 name: m-iii-mandantenmail-patient-materialkosten
-description: "Wenn es um M III M IV Labor Delegation Speziallabor in GOÄ Gebührenordnung für Ärzte geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Berechnungstabelle mit Schwellen, Annahmen und Kontrollfragen."
+description: "Für M III M IV Labor Delegation Speziallabor: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # M III M IV Labor Delegation Speziallabor

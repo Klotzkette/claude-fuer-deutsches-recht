@@ -1,6 +1,6 @@
 ---
 name: ifggebv-gebuehren-schwaerzung-angreife
-description: "Wenn es um Ifggebv Gebühren Schwaerzung Angreife in Informationsfreiheit und Presseauskunft geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Ifggebv Gebühren Schwärzung Angreife: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Berechnungstabelle mit Annahmen und Kontrollfragen. Fachgebiet: Informationsfreiheit und Presseauskunft. Route: ifggebv-gebuehren-schwaerzung-angreife."
 ---
 
 # Ifggebv Gebühren Schwaerzung Angreife

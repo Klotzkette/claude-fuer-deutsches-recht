@@ -1,6 +1,6 @@
 ---
 name: umwrg-anwendungsbereich-routen
-description: "Wenn es um Umwrg Anwendungsbereich Routen in Umweltschutzverband Verbandsklage geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
+description: "Für Umwrg Anwendungsbereich Routen: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Umwrg Anwendungsbereich Routen

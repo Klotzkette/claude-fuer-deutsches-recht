@@ -1,6 +1,6 @@
 ---
 name: strafakte-uebergabe-vorbereiten
-description: "Wenn es um Strafakte: Übergabe vorbereiten in Aktenaufbereiter Strafrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Chronologie mit Belegmatrix und Widerspruchsliste."
+description: "Für Strafakte: Übergabe vorbereiten: ordnet Akte, Belege und Lücken; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Strafakte: Übergabe vorbereiten

@@ -1,6 +1,6 @@
 ---
 name: fremdgeld-und-anderkonto-kammerantwort-und-verfahrenss
-description: "Wenn es um Fremdgeld Und Anderkonto Kammerantwort Und Verfahrenss in Berufsrecht Anwälte geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Verhandlungs- oder Eskalationslinie mit Optionen."
+description: "Für Fremdgeld und Anderkonto Kammerantwort und Verfahrenss: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Anwälte: fremdgeld und anderkonto - Kammerantwort mit Verfahrensstrategie, Tonlage und Belegplan

@@ -1,6 +1,6 @@
 ---
 name: zit-rechtsprechungszitierung-leitfaden
-description: "Wenn es um Zit: Rechtsprechungszitierung in Zitierweise deutsches Recht geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen."
+description: "Für Zit: Rechtsprechungszitierung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Zit: Rechtsprechungszitierung

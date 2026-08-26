@@ -1,6 +1,6 @@
 ---
 name: bruecke-und-tunnel
-description: "Wenn es um Bruecke Und Tunnel in Straßenrecht und Infrastruktur geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Brücke und Tunnel: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Bruecke Und Tunnel

@@ -1,6 +1,6 @@
 ---
 name: faevvollzug-neu-005-gegnerische-schutzschrift-auswerten
-description: "Wenn es um Faevvollzug Neu 005 Gegnerische Schutzschrift Auswerten in Fachanwalt Gewerblicher Rechtsschutz geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Faevvollzug Neu 005 Gegnerische Schutzschrift Auswerten: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Schnittstellenkarte mit Zuständigkeits- und Nachweisfragen."
 ---
 
 # Gegnerische Schutzschrift auswerten: Inhalt, Angriffsmittel, Reaktionsoptionen bei einstweiliger Verfügung im gewerblichen Rechtsschutz

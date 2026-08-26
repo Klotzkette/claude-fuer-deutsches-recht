@@ -1,6 +1,6 @@
 ---
 name: 021-roemisches-sachenrecht
-description: "Wenn es um Römisches Recht: Römisches Sachenrecht im mittelalterlichen Lehnskontext in Römisches Recht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Römisches Recht: Römisches Sachenrecht im mittelalterlichen Lehnskontext: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Römisches Recht: Römisches Sachenrecht im mittelalterlichen Lehnskontext

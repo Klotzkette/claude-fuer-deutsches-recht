@@ -1,6 +1,6 @@
 ---
 name: bemessungsgrundlage-2026
-description: "Wenn es um Bemessungsgrundlage 2026 in Forschungszulage-Antragstellung geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
+description: "Für Bemessungsgrundlage 2026: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Bemessungsgrundlage 2026

@@ -1,6 +1,6 @@
 ---
 name: rechtstheorie-rechtsphilosophie-seminararbeit
-description: "Wenn es um Rechtstheorie und Rechtsphilosophie — Anbindung in hausarbeitenmacher — Didaktisches Plugin für juristische geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Rechtstheorie und Rechtsphilosophie — Anbindung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Rechtstheorie und Rechtsphilosophie — Anbindung

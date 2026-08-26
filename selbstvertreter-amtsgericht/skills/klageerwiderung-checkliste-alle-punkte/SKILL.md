@@ -1,6 +1,6 @@
 ---
 name: klageerwiderung-checkliste-alle-punkte
-description: "Wenn es um Klageerwiderung: jeden Punkt der Klage beantworten in selbstvertreter-amtsgericht geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
+description: "Für Klageerwiderung: jeden Punkt der Klage beantworten: erstellt Entwurf mit Antrag, Beweis und Anlagen; Ergebnis: Schriftsatz mit Begründungs- und Anlagenlogik."
 ---
 
 # Klageerwiderung: jeden Punkt der Klage beantworten

@@ -1,6 +1,6 @@
 ---
 name: factoring-gesundheitswesen-plattformmodelle
-description: "Wenn es um Factoring in Gesundheitswesen GOÄ EBM Krankenhaus in Factoring-Recht geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
+description: "Für Factoring in Gesundheitswesen GOÄ EBM Krankenhaus: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Factoring in Gesundheitswesen GOÄ EBM Krankenhaus

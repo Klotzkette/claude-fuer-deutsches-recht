@@ -1,6 +1,6 @@
 ---
 name: abschluss-check-vor-unterschrift
-description: "Wenn es um Abschluss Check Vor Unterschrift in NDA-Generator und Verschwiegenheitsvereinbarungs-Checker geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
+description: "Für Abschluss Check vor Unterschrift: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Abschluss Check Vor Unterschrift

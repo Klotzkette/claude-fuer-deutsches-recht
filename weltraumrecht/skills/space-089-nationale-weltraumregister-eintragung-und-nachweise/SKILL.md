@@ -1,6 +1,6 @@
 ---
 name: space-089-nationale-weltraumregister-eintragung-und-nachweise
-description: "Wenn es um Weltraumrecht: Nationale Weltraumregister Eintragung und Nachweise in Weltraumrecht geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Weltraumrecht: Nationale Weltraumregister Eintragung und Nachweise: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Einreichungsplan mit Form- und Nachweischeck."
 ---
 
 # Weltraumrecht: Nationale Weltraumregister Eintragung und Nachweise

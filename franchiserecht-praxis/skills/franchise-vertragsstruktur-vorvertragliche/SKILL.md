@@ -1,6 +1,6 @@
 ---
 name: franchise-vertragsstruktur-vorvertragliche
-description: "Wenn es um Franchise Vertragsstruktur Master Unit in Franchiserecht Praxis geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Franchise Vertragsstruktur Master Unit: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Franchise Vertragsstruktur Master Unit

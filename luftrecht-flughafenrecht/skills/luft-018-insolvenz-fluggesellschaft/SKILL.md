@@ -1,6 +1,6 @@
 ---
 name: luft-018-insolvenz-fluggesellschaft
-description: "Wenn es um Insolvenz Fluggesellschaft in Luftrecht und Flughafenrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Insolvenz Fluggesellschaft: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Insolvenz Fluggesellschaft

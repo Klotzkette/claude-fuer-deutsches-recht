@@ -1,6 +1,6 @@
 ---
 name: voruntersuchung-nach-can-1717
-description: "Wenn es um Voruntersuchung nach can. 1717 in Römisch-katholisches Kirchenrecht CIC und Katechismus geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt. Auswahlstichwort: Voruntersuchung Nach Can 1717; Arbeitsfeld: Römisch-katholisches Kirchenrecht CIC und Katechismus."
+description: "Für Voruntersuchung nach can. 1717: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt. Fachgebiet: Römisch-katholisches Kirchenrecht CIC und Katechismus. Route: voruntersuchung-nach-can-1717."
 ---
 
 # Voruntersuchung nach can. 1717

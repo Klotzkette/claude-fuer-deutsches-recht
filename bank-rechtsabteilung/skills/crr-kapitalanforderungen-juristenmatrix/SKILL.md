@@ -1,6 +1,6 @@
 ---
 name: crr-kapitalanforderungen-juristenmatrix
-description: "Wenn es um CRR-Kapitalanforderungen für Juristen in Bank-Rechtsabteilung geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
+description: "Für CRR-Kapitalanforderungen für Juristen: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # CRR-Kapitalanforderungen für Juristen

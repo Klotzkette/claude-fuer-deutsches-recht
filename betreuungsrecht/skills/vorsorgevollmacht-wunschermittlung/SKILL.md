@@ -1,6 +1,6 @@
 ---
 name: vorsorgevollmacht-wunschermittlung
-description: "Wenn es um Vorsorgevollmacht prüfen in Betreuungsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. Auswahlstichwort: Vorsorgevollmacht Wunschermittlung; Arbeitsfeld: Betreuungsrecht."
+description: "Für Vorsorgevollmacht prüfen: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt. Fachgebiet: Betreuungsrecht. Route: vorsorgevollmacht-wunschermittlung."
 ---
 
 # Vorsorgevollmacht prüfen

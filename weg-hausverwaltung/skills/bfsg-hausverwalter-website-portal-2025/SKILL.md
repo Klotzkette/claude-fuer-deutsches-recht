@@ -1,6 +1,6 @@
 ---
 name: bfsg-hausverwalter-website-portal-2025
-description: "Wenn es um BFSG: Barrierefreiheitspflicht für Verwalter-Websites und Eigentümer-Portale in WEG- und Hausverwaltung geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert einen Einreichungsplan mit Form-, Portal- und Nachweischeck."
+description: "Für BFSG: Barrierefreiheitspflicht für Verwalter-Websites und Eigentümer-Portale: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Einreichungsplan mit Form- und Nachweischeck."
 ---
 
 # BFSG: Barrierefreiheitspflicht für Verwalter-Websites und Eigentümer-Portale

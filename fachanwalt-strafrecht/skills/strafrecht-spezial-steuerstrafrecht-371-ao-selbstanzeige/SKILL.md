@@ -1,6 +1,6 @@
 ---
 name: strafrecht-spezial-steuerstrafrecht-371-ao-selbstanzeige
-description: "Wenn es um Selbstanzeige nach Paragraph 371 AO in Fachanwalt Strafrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Selbstanzeige nach Paragraph 371 AO: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Schnittstellenkarte mit Zuständigkeits- und Nachweisfragen."
 ---
 
 # Selbstanzeige nach Paragraph 371 AO

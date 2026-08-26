@@ -1,6 +1,6 @@
 ---
 name: inso-p312bis314-weggefallen
-description: "Wenn es um Paragraf 312 bis 314 InsO ist im aktuellen Normtext weggefallen in Fachanwalt Insolvenz- und Sanierungsrecht geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Tatbestands- oder Anspruchsmatrix mit Gegenargumenten."
+description: "Für Paragraf 312 bis 314 InsO ist im aktuellen Normtext weggefallen: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # § 312 bis 314 InsO ist im aktuellen Normtext weggefallen

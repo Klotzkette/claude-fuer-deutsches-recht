@@ -1,6 +1,6 @@
 ---
 name: methodenlehre-zahlenschwellen-berechnungen-buergerlichen-recht
-description: "Wenn es um Zahlenschwellen und Berechnungen im bürgerlichen Recht in Methodenlehre bürgerliches Recht geht: rechnet Schwellen, Beträge, Varianten und Kontrollannahmen durch; liefert eine Berechnungstabelle mit Schwellen, Annahmen und Kontrollfragen."
+description: "Für Zahlenschwellen und Berechnungen im bürgerlichen Recht: rechnet Beträge, Schwellen und Varianten; Ergebnis: Berechnungstabelle mit Annahmen und Kontrollfragen."
 ---
 
 # Zahlenschwellen und Berechnungen im bürgerlichen Recht

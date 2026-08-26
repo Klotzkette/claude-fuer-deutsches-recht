@@ -1,6 +1,6 @@
 ---
 name: aussenwirtschaft-ofac-sdn-non-sdn
-description: "Wenn es um US-OFAC-Sanktionen für EU-Unternehmen: SDN, Sektoral und Secondary Sanctions in Außenwirtschaft, Sanktionen, Zoll und CBAM geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für US-OFAC-Sanktionen für EU-Unternehmen: SDN, Sektoral und Secondary Sanctions: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # US-OFAC-Sanktionen für EU-Unternehmen: SDN, Sektoral und Secondary Sanctions

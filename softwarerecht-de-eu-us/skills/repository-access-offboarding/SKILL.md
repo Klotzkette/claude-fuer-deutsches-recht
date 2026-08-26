@@ -1,6 +1,6 @@
 ---
 name: repository-access-offboarding
-description: "Wenn es um Repository Access und Offboarding in Softwarerecht Deutschland/EU/International/USA geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Repository Access und Offboarding: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Repository Access und Offboarding

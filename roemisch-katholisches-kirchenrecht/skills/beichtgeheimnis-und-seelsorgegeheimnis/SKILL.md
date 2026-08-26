@@ -1,6 +1,6 @@
 ---
 name: beichtgeheimnis-und-seelsorgegeheimnis
-description: "Wenn es um Beichtgeheimnis und Seelsorgegeheimnis in Römisch-katholisches Kirchenrecht CIC und Katechismus geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Beichtgeheimnis und Seelsorgegeheimnis: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Beichtgeheimnis und Seelsorgegeheimnis

@@ -1,6 +1,6 @@
 ---
 name: taufe-taufstatus-und-register
-description: "Wenn es um Taufe, Taufstatus und Register in Römisch-katholisches Kirchenrecht CIC und Katechismus geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Taufe, Taufstatus und Register: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Einreichungsplan mit Form- und Nachweischeck."
 ---
 
 # Taufe, Taufstatus und Register

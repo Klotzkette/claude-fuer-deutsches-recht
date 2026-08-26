@@ -1,6 +1,6 @@
 ---
 name: aufschiebende-wirkung-kdvg-3
-description: "Wenn es um Wirkung des Antrags in Kriegsdienstverweigerung und Wehrdienst geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
+description: "Für Wirkung des Antrags: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Wirkung des Antrags

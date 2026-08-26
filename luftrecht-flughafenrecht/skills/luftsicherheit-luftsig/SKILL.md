@@ -1,6 +1,6 @@
 ---
 name: luftsicherheit-luftsig
-description: "Wenn es um Luftsicherheit nach LuftSiG – Compliance und Rechtsschutz in Luftrecht und Flughafenrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Luftsicherheit nach LuftSiG – Compliance und Rechtsschutz: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Luftsicherheit nach LuftSiG – Compliance und Rechtsschutz

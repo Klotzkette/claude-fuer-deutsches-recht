@@ -131,6 +131,9 @@ Arbeitsgriff Anfechtung und Plan: Rechtshandlung, Kenntnis, Gläubigerbenachteil
 - BGH, Urteil vom 10.02.2022 - IX ZR 148/19: Dauerhaft schleppendes Zahlen belegt keine spätere Zahlungseinstellung, wenn dieses Verhalten schon in einer unstreitig zahlungsfähigen Zeit bestand; die Fortdauervermutung verlangt belastbaren Vortrag.
 - BGH, Urteil vom 12.02.2015 - IX ZR 180/12: Ein unmittelbarer, gleichwertiger und für die Fortführung nützlicher Leistungsaustausch kann das Vorsatzindiz schwächen; erweiterter Eigentumsvorbehalt oder erkannte verlustreiche Fortführung sprechen dagegen.
 - BGH, Urteil vom 18.04.2024 - IX ZR 129/22: Ein außenstehender Dritter darf einen nur pauschal aufgestellten und nicht mit Einzelpositionen oder Belegen unterlegten Liquiditätsstatus grundsätzlich einfach bestreiten.
+- BGH IX ZR 229/22 vom 23.01.2025 — Objektive Zahlungsunfähigkeit; streitige nicht titulierte Forderungen nach objektiver Rechtslage.
+- BGH, Beschluss vom 11.03.2025 - II ZR 139/23 — bestätigt im Nichtzulassungsbeschwerdeverfahren den materiellen Bestand als Maßstab; nicht als eigenständiges Grundsatzurteil behandeln.
+- BGH IX ZB 38/24 vom 22.05.2025 — Bei vorläufig eingestellter Vollstreckung kann der Titel seine Belegwirkung für den Insolvenzantrag verlieren.
 
 ## 9. Prüfraster
 

@@ -1,6 +1,6 @@
 ---
 name: dienstunfall-anerkennung
-description: "Wenn es um Dienstunfall Anerkennung in Beamtenrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Dienstunfall Anerkennung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Dienstunfall Anerkennung

@@ -1,6 +1,6 @@
 ---
 name: minderjaehrige-fehlsubsumtion
-description: "Wenn es um Minderjährige und Fehlsubsumtionen — Paragrafen 104 bis 113 BGB in BGB AT Prüfer geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen."
+description: "Für Minderjährige und Fehlsubsumtionen — Paragrafen 104 bis 113 BGB: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Tatbestands- oder Anspruchsmatrix."
 ---
 
 # Minderjährige und Fehlsubsumtionen — §§ 104 bis 113 BGB

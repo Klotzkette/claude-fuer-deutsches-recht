@@ -1,6 +1,6 @@
 ---
 name: btmg-kcang-sitzungsdienst
-description: "Wenn es um BtMG/KCanG im Sitzungsdienst in Staatsanwaltschaft Praxis-Einstieg geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen."
+description: "Für BtMG/KCanG im Sitzungsdienst: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # BtMG/KCanG im Sitzungsdienst

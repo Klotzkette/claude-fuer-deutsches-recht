@@ -1,6 +1,6 @@
 ---
 name: eigentum-art-14-inhalts-schranken-enteignung
-description: "Wenn es um Eigentum Art. 14: Inhaltsgrenze, Enteignung, Ausgleich in Verhältnismäßigkeitsprüfer geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
+description: "Für Eigentum Art. 14: Inhaltsgrenze, Enteignung, Ausgleich: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Eigentum Art. 14: Inhaltsgrenze, Enteignung, Ausgleich

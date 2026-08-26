@@ -1,6 +1,6 @@
 ---
 name: anspruchsgrundlage-finden-laienhilfe
-description: "Wenn es um Welche Norm traegt Ihren Anspruch? in selbstvertreter-amtsgericht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Tatbestands- oder Anspruchsmatrix mit Gegenargumenten."
+description: "Für Welche Norm trägt Ihren Anspruch?: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Tatbestands- oder Anspruchsmatrix."
 ---
 
 # Welche Norm traegt Ihren Anspruch?

@@ -1,6 +1,6 @@
 ---
 name: geldwaesche-ubo-wirtschaftlich-berechtigte
-description: "Wenn es um Wirtschaftlich Berechtigte und UBO in Geldwäscheprävention, AML und KYC geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Wirtschaftlich Berechtigte und UBO: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Wirtschaftlich Berechtigte und UBO

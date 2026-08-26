@@ -1,6 +1,6 @@
 ---
 name: grest-signing-closing-doppelfestsetzung
-description: "Wenn es um GrESt: Signing, Closing und Doppelfestsetzung in Steuerrecht – Steuerberater und Anwälte geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
+description: "Für GrESt: Signing, Closing und Doppelfestsetzung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # GrESt: Signing, Closing und Doppelfestsetzung

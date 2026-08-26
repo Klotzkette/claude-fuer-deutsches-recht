@@ -1,6 +1,6 @@
 ---
 name: competition-litigation-programm-mittelstand
-description: "Wenn es um Kartellprozess Strategie in Kartellrecht — Marktabgrenzungsprüfung geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Kartellprozess Strategie: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Kartellprozess Strategie

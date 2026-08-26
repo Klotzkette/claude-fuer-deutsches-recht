@@ -1,6 +1,6 @@
 ---
 name: bauliche-veraenderungen-20-weg
-description: "Wenn es um Bauliche Veränderungen nach Paragraf 20 WEG in WEG- und Hausverwaltung geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Tatbestands- oder Anspruchsmatrix mit Gegenargumenten."
+description: "Für Bauliche Veränderungen nach Paragraf 20 WEG: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Bauliche Veränderungen nach § 20 WEG

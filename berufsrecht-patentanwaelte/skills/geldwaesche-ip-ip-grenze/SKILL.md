@@ -1,6 +1,6 @@
 ---
 name: geldwaesche-ip-ip-grenze
-description: "Wenn es um Geldwaesche Ip Ip Grenze in Berufsrecht Patentanwälte geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Verhandlungs- oder Eskalationslinie mit Optionen."
+description: "Für Geldwäsche Ip Ip Grenze: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Patentanwälte: geldwaesche bei ip transaktionen - Kammerantwort mit Verfahrensstrategie, Tonlage und Belegplan

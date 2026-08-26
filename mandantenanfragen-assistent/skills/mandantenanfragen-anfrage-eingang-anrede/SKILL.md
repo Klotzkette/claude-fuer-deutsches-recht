@@ -1,6 +1,6 @@
 ---
 name: mandantenanfragen-anfrage-eingang-anrede
-description: "Wenn es um Mandantenanfragen: Fristen, Form, Zuständigkeit und Rechtsweg in mandantenanfragen-assistent geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Mandantenanfragen: Fristen, Form, Zuständigkeit und Rechtsweg: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Mandantenanfragen: Fristen, Form, Zuständigkeit und Rechtsweg

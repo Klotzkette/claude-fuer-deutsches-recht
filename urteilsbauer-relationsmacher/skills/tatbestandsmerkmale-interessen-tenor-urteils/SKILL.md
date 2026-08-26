@@ -1,6 +1,6 @@
 ---
 name: tatbestandsmerkmale-interessen-tenor-urteils
-description: "Wenn es um Tatbestandsmerkmale: Mehrparteienkonflikt und Interessenmatrix in Urteilsbauer und Relationsmacher geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. Auswahlstichwort: Tatbestandsmerkmale Interessen Tenor Urteils; Arbeitsfeld: Urteilsbauer und Relationsmacher."
+description: "Für Tatbestandsmerkmale: Mehrparteienkonflikt und Interessenmatrix: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Tatbestands- oder Anspruchsmatrix. Fachgebiet: Urteilsbauer und Relationsmacher. Route: tatbestandsmerkmale-interessen-tenor-urteils."
 ---
 
 # Tatbestandsmerkmale: Mehrparteienkonflikt und Interessenmatrix

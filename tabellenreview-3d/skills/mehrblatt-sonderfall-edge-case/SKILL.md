@@ -1,6 +1,6 @@
 ---
 name: mehrblatt-sonderfall-edge-case
-description: "Wenn es um Mehrblatt: Sonderfall und Edge-Case-Prüfung in Tabellenreview 3D geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. Auswahlstichwort: Mehrblatt Sonderfall Edge Case; Arbeitsfeld: Tabellenreview 3D."
+description: "Für Mehrblatt: Sonderfall und Edge-Case-Prüfung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt. Fachgebiet: Tabellenreview 3D. Route: mehrblatt-sonderfall-edge-case."
 ---
 
 # Mehrblatt: Sonderfall und Edge-Case-Prüfung

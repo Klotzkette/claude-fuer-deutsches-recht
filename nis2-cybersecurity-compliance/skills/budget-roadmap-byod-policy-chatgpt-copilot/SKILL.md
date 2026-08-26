@@ -1,6 +1,6 @@
 ---
 name: budget-roadmap-byod-policy-chatgpt-copilot
-description: "Wenn es um Budget Und Roadmap in NIS-2, Cybersecurity und IT-Sicherheits-Compliance geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Budget und Roadmap: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Budget Und Roadmap

@@ -1,6 +1,6 @@
 ---
 name: hv-bericht-aufsichtsrat
-description: "Wenn es um HV Bericht Aufsichtsrat in AG/SE-Aufsichtsrat Praxis geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
+description: "Für HV Bericht Aufsichtsrat: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # HV Bericht Aufsichtsrat

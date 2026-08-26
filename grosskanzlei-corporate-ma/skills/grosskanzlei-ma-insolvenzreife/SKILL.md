@@ -1,6 +1,6 @@
 ---
 name: grosskanzlei-ma-insolvenzreife
-description: "Wenn es um Freistehender Insolvenzreife- und StaRUG-Schwellencheck in Großkanzlei Corporate/M&A geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
+description: "Für Freistehender Insolvenzreife- und StaRUG-Schwellencheck: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Freistehender Insolvenzreife- und StaRUG-Schwellencheck

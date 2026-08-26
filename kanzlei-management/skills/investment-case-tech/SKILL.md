@@ -1,6 +1,6 @@
 ---
 name: investment-case-tech
-description: "Wenn es um Investment Case Legal Tech in Kanzlei Management geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Investment Case Legal Tech: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Investment Case Legal Tech

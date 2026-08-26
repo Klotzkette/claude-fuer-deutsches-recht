@@ -1,6 +1,6 @@
 ---
 name: hr-abschlussprodukt-paket
-description: "Wenn es um HR Abschlussprodukt Paket in Start-up-HR-Personalabteilung Berlin geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
+description: "Für HR Abschlussprodukt Paket: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # HR Abschlussprodukt Paket

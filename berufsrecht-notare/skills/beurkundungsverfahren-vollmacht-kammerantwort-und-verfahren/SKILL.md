@@ -1,6 +1,6 @@
 ---
 name: beurkundungsverfahren-vollmacht-kammerantwort-und-verfahren
-description: "Wenn es um Beurkundungsverfahren Vollmacht Kammerantwort Und Verfahren in Berufsrecht Notare geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Verhandlungs- oder Eskalationslinie mit Optionen."
+description: "Für Beurkundungsverfahren Vollmacht Kammerantwort und Verfahren: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Schnittstellenkarte mit Zuständigkeits- und Nachweisfragen."
 ---
 
 # Notare: beurkundungsverfahren vollmacht - Kammerantwort mit Verfahrensstrategie, Tonlage und Belegplan

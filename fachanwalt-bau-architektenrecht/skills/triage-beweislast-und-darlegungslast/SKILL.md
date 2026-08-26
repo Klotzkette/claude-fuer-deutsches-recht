@@ -1,6 +1,6 @@
 ---
 name: triage-beweislast-und-darlegungslast
-description: "Wenn es um Triage: Beweislast, Darlegungslast und Substantiierung in Fachanwalt Bau Architektenrecht geht: klärt Rolle, Ziel, Frist, Unterlagen und den passenden nächsten Fachskill; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Triage: Beweislast, Darlegungslast und Substantiierung: routet Rolle, Frist, Unterlagen und Fachschritt; Ergebnis: Beweislast- und Substantiierungsmatrix."
 ---
 
 # Triage: Beweislast, Darlegungslast und Substantiierung

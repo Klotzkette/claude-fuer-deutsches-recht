@@ -1,6 +1,6 @@
 ---
 name: haftpflicht-und-schadenmeldung-kammerantwort-und-verfahr
-description: "Wenn es um Haftpflicht Und Schadenmeldung Kammerantwort Und Verfahr in Berufsrecht Notare geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Verhandlungs- oder Eskalationslinie mit Optionen."
+description: "Für Haftpflicht und Schadenmeldung Kammerantwort und Verfahr: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Notare: haftpflicht und schadenmeldung - Kammerantwort mit Verfahrensstrategie, Tonlage und Belegplan

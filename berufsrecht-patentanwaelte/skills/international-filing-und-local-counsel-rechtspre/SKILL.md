@@ -1,6 +1,6 @@
 ---
 name: international-filing-und-local-counsel-rechtspre
-description: "Wenn es um International Filing Und Local Counsel Rechtspre in Berufsrecht Patentanwälte geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Gegenprüfung mit Fehler-, Beweis- und Fristencheck."
+description: "Für International Filing und Local Counsel Rechtspre: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Schnittstellenkarte mit Zuständigkeits- und Nachweisfragen."
 ---
 
 # Patentanwälte: international filing und local counsel - Rechtsprechungscheck, stärkste Gegenansicht und Red-Team-Korrektur

@@ -1,6 +1,6 @@
 ---
 name: entsendungen-a1-mindestlohn
-description: "Wenn es um Entsendung, A1 und Mindestlohnmeldungen in Berichtspflichten-Erlediger geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Entsendung, A1 und Mindestlohnmeldungen: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Entsendung, A1 und Mindestlohnmeldungen

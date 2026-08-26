@@ -1,6 +1,6 @@
 ---
 name: live-quellencheck-bund-land-richter
-description: "Wenn es um Live Quellencheck Bund Land Richter in Beamtenrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Live Quellencheck Bund Land Richter: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Live Quellencheck Bund Land Richter

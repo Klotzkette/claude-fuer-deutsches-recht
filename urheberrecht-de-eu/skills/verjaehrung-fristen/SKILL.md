@@ -1,6 +1,6 @@
 ---
 name: verjaehrung-fristen
-description: "Wenn es um Verjährung, Dringlichkeit und Fristen in Urheberrecht DE EU geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Verjährung, Dringlichkeit und Fristen: prüft Frist, Form, Zuständigkeit und Eilbedarf; Ergebnis: Fristen- und Risikoampel."
 ---
 
 # Verjährung, Dringlichkeit und Fristen

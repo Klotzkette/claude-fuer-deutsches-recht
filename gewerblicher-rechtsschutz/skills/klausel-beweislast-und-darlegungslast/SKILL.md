@@ -1,6 +1,6 @@
 ---
 name: klausel-beweislast-und-darlegungslast
-description: "Wenn es um Spezial: Klausel – Beweislast und Darlegungslast im IP-Recht in Plugin: Gewerblicher Rechtsschutz geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Beweislast- und Substantiierungsmatrix."
+description: "Für Spezial: Klausel – Beweislast und Darlegungslast im IP-Recht: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Beweislast- und Substantiierungsmatrix."
 ---
 
 # Spezial: Klausel – Beweislast und Darlegungslast im IP-Recht
@@ -146,3 +146,7 @@ Mandatsbezug: Anwalt fragt: Muss ich beweisen, dass der Beklagte das Patent verl
 - `spezial-rechtsschutz-tatbestand-beweis-und-belege` – Tatbestand und Beleglage
 - `verletzungs-triage` – Erstentscheidung IP-Verletzung
 - `gewr-einstweilige-verfuegung-eilverfahren-spezial` – EV-Antrag und Glaubhaftmachung
+
+## Vertiefung bei Bedarf
+
+- Bei `spezial-klausel-beweislast-und-darlegungslast` beziehungsweise Klausel: Beweislast, Darlegungslast und Substantiierung: [die zusätzliche Vertiefung laden](./references/vertiefung-spezial-klausel-beweislast-und-darlegungslast.md).

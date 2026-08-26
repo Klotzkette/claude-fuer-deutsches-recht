@@ -120,6 +120,7 @@ Arbeitsgriff Arbeitsprodukt: Leistungsstandsmatrix, Honorarprüfung, Nachtragsan
 - HOAI 2021 Paragraf 34 Anlage 10 LPH 8: Grundleistungen Bauüberwachung Ingenieurbauwerke, Sonderleistungen Geotechnik-Monitoring; im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
 - BGB Paragrafen 650p bis 650t für Architekten- und Ingenieurverträge; daneben je nach Anspruch BGB Paragrafen 633, 634, 280, 281, 286, 634a; im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
 - ZPO Paragrafen 402 ff., 411 für gerichtliche Sachverständige; ZPO Paragrafen 485 ff; im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
+- Paragraf 4 HOAI: anrechenbare Kosten, ortsübliche Preise, Umsatzsteuer, mitzuverarbeitende Bausubstanz; im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
 
 ## 8. Leitentscheidungen
 
@@ -184,12 +185,12 @@ Die Landkarte dient der schnellen Auswahl. Sie ersetzt nicht die darunter ausfor
 | LPH 2 Vorplanung: Ordnet digitale modelle | Zuerst den Vertragsschluss datieren und die anwendbare HOAI-Fassung bestimmen. Altverträge nicht mit dem Preisrecht der HOAI 2021 prüfen. | Fachvotum zu LPH 2 Vorplanung: Ordnet digitale modelle mit Tatbestandsmerkmalen, Aktenfundstellen, Beweislast, stärkster Gegenposition, Risiko und ausformulierter Rechtsfolge |
 | HOAI Querschnitt | Altverträge nicht mit dem Preisrecht der HOAI 2021 prüfen. Für die HOAI 2021 gelten insbesondere Paragraf 4 für anrechenbare Kosten, Paragraf 5 für Honorarzonen, Paragraf 6 für die Honorarermittlung und Paragraf 7. | Fachvotum zu HOAI Querschnitt mit Tatbestandsmerkmalen, Aktenfundstellen, Beweislast, stärkster Gegenposition, Risiko und ausformulierter Rechtsfolge |
 | LPH 1 Grundlagenermittlung: Prüft bewertungsanteil | Zuerst den Vertragsschluss datieren und die anwendbare HOAI-Fassung bestimmen. Altverträge nicht mit dem Preisrecht der HOAI 2021 prüfen. | Fachvotum zu LPH 1 Grundlagenermittlung: Prüft bewertungsanteil mit Tatbestandsmerkmalen, Aktenfundstellen, Beweislast, stärkster Gegenposition, Risiko und ausformulierter. |
-| LPH 8 Objektüberwachung - Bauüberwachung und Dokumentation: Sichert protokolle | Praktischer Kern: Baustellensteuerung, Qualitätskontrolle, Termin/Kosten, Rechnungsprüfung, Abnahme und Dokumentation. Altverträge nicht mit dem Preisrecht der HOAI 2021 prüfen. | Akten- und Belegmatrix zu LPH 8 Objektüberwachung - Bauüberwachung und Dokumentation: Sichert protokolle mit Datum, Urheber, Fundstelle, Widerspruch, Fehlteil. |
+| LPH 8 Objektüberwachung - Bauüberwachung und Dokumentation | Praktischer Kern: Baustellensteuerung, Qualitätskontrolle, Termin/Kosten, Rechnungsprüfung, Abnahme und Dokumentation. Altverträge nicht mit dem Preisrecht der HOAI 2021 prüfen. | Akten- und Belegmatrix zu LPH 8 Objektüberwachung - Bauüberwachung und Dokumentation mit Datum, Urheber, Fundstelle, Widerspruch, Fehlteil und nächstem Bearbeitungsschritt |
 | Baugrund, Altlasten und Untersuchungsbedarf | Anlage 10 HOAI LPH 1/2: Untersuchungsbedarf und Auswahl fachlich Beteiligter. Altverträge nicht mit dem Preisrecht der HOAI 2021 prüfen. | Fachvotum zu Baugrund, Altlasten und Untersuchungsbedarf mit Tatbestandsmerkmalen, Aktenfundstellen, Beweislast, stärkster Gegenposition, Risiko und ausformulierter Rechtsfolge |
 | Anrechenbare Kosten, DIN 276 und Kostengruppen | Bearbeite Anrechenbare Kosten, DIN 276 und Kostengruppen: vertragsjahr, Leistungsbild, Leistungsphase, geschuldeter Erfolg, Leistungsstand, Honorar, Nachtrag und Haftungsbeleg trennen. | Fachvotum zu Anrechenbare Kosten, DIN 276 und Kostengruppen mit Tatbestandsmerkmalen, Aktenfundstellen, Beweislast, stärkster Gegenposition, Risiko und ausformulierter Rechtsfolge |
 | Fördermittel, Vergabebindung und Rückforderung | Droht Rückforderung wegen Dokumentations- oder Vergabefehler? Prüfe, ob Beratung, Nachweisführung oder Mittelabruf als besondere Leistung gesondert vereinbart werden müssen. | Fachvotum zu Fördermittel, Vergabebindung und Rückforderung mit Tatbestandsmerkmalen, Aktenfundstellen, Beweislast, stärkster Gegenposition, Risiko und ausformulierter Rechtsfolge |
+| Abnahmeprotokoll und Förder-ERP in der Bauüberwachung LPH 8 | Abnahmeprotokoll und ERP-Buchung sind dabei untrennbar verknüpft. Schule Energetische Sanierung KfW 55 Förderung: Abnahmeprotokoll mit Energieberater, Prüfzertifikat nach KfW-Merkblatt, Förderbetrag 1.2 Mio. | Fachvotum zu Abnahmeprotokoll und Förder-ERP in der Bauüberwachung LPH 8 mit Tatbestandsmerkmalen, Aktenfundstellen, Beweislast, stärkster Gegenposition, Risiko. |
 | Sachverständigenfragen zu Planungsfehlern | BGB Paragrafen 650p bis 650t für Architekten- und Ingenieurverträge; daneben je nach Anspruch BGB Paragrafen 633, 634, 280, 281, 286, 634a. ZPO Paragrafen 402 und folgende , 411 für gerichtliche Sachverständige. | Fachvotum zu Sachverständigenfragen zu Planungsfehlern mit Tatbestandsmerkmalen, Aktenfundstellen, Beweislast, stärkster Gegenposition, Risiko und ausformulierter Rechtsfolge |
-| Bauüberwachung Windpark Fundament und Turmschaft | Windpark Schleswig-Holstein Küstenlage: 12 WEA Typ Vestas V150-4.5, Nabenhöhe 166 m, Ringfundament Durchmesser 21 m, Beton C30/37 XF4, Bausumme Fundamente 8 Mio. | verhandlungsfähige Fassung mit Ausgangstext, Änderung, Begründung, Rückfallposition und Vollzugscheck |
 
 ## 16. Fachspezifische Praxisrouten
 
@@ -213,11 +214,11 @@ Bearbeitungsauftrag: Zuerst den Vertragsschluss datieren und die anwendbare HOAI
 Prüfschritte: Fehlende Unterlagen und offene Entscheidungen; kurzer Textbaustein für Bauherr, Planer, Unternehmer oder Anwalt; Praktischer Kern: Aufgabenstellung klären, Ortsbesichtigung, Untersuchungsbedarf, Beteiligte auswählen, Ergebnisse dokumentieren; Bewertungsanker Gebäude/Innenräume: 2 %; Warnung: Nicht automatisch auf andere HOAI-Leistungsbilder übertragen.
 Lieferstück: Fachvotum zu LPH 1 Grundlagenermittlung: Prüft bewertungsanteil mit Tatbestandsmerkmalen, Aktenfundstellen, Beweislast, stärkster Gegenposition, Risiko und ausformulierter Rechtsfolge.
 
-### 16.4. LPH 8 Objektüberwachung - Bauüberwachung und Dokumentation: Sichert protokolle
+### 16.4. LPH 8 Objektüberwachung - Bauüberwachung und Dokumentation
 
 Bearbeitungsauftrag: Praktischer Kern: Baustellensteuerung, Qualitätskontrolle, Termin/Kosten, Rechnungsprüfung, Abnahme und Dokumentation. Altverträge nicht mit dem Preisrecht der HOAI 2021 prüfen. Für die HOAI 2021 gelten insbesondere Paragraf 4 für anrechenbare Kosten, Paragraf 5 für Honorarzonen, Paragraf 6 für die Honorarermittlung und Paragraf 7 für die Honorarvereinbarung in Textform.
 Prüfschritte: Fehlende Unterlagen und offene Entscheidungen; kurzer Textbaustein für Bauherr, Planer, Unternehmer oder Anwalt; Bewertungsanker Gebäude/Innenräume: 32 %; Warnung: Nicht automatisch auf andere HOAI-Leistungsbilder übertragen; erst Leistungsbild und Anlage live bestimmen.
-Lieferstück: Akten- und Belegmatrix zu LPH 8 Objektüberwachung - Bauüberwachung und Dokumentation: Sichert protokolle mit Datum, Urheber, Fundstelle, Widerspruch, Fehlteil und nächstem Bearbeitungsschritt.
+Lieferstück: Akten- und Belegmatrix zu LPH 8 Objektüberwachung - Bauüberwachung und Dokumentation mit Datum, Urheber, Fundstelle, Widerspruch, Fehlteil und nächstem Bearbeitungsschritt.
 
 ### 16.5. Baugrund, Altlasten und Untersuchungsbedarf
 
@@ -236,17 +237,17 @@ Lieferstück: Fachvotum zu Anrechenbare Kosten, DIN 276 und Kostengruppen mit Ta
 Bearbeitungsauftrag: Droht Rückforderung wegen Dokumentations- oder Vergabefehler? Prüfe, ob Beratung, Nachweisführung oder Mittelabruf als besondere Leistung gesondert vereinbart werden müssen. Für die HOAI 2021 gelten insbesondere Paragraf 4 für anrechenbare Kosten, Paragraf 5 für Honorarzonen, Paragraf 6 für die Honorarermittlung und Paragraf 7 für die Honorarvereinbarung in Textform.
 Lieferstück: Fachvotum zu Fördermittel, Vergabebindung und Rückforderung mit Tatbestandsmerkmalen, Aktenfundstellen, Beweislast, stärkster Gegenposition, Risiko und ausformulierter Rechtsfolge.
 
-### 16.8. Sachverständigenfragen zu Planungsfehlern
+### 16.8. Abnahmeprotokoll und Förder-ERP in der Bauüberwachung LPH 8
+
+Bearbeitungsauftrag: Abnahmeprotokoll und ERP-Buchung sind dabei untrennbar verknüpft. Schule Energetische Sanierung KfW 55 Förderung: Abnahmeprotokoll mit Energieberater, Prüfzertifikat nach KfW-Merkblatt, Förderbetrag 1.2 Mio. Kläranlage EFRE-Förderung: EU-EFRE-Programm Förderbedingungen, Abnahmeprotokoll auf Deutsch und Englisch, Prüfpfade Fördermittelgeber, Bausumme 18 Mio.
+Prüfschritte: Öffentlich geförderte Bauprojekte erfordern besonders sorgfältige Abnahmeprotokolle: Verwendungsnachweise für KfW, EFRE und Bundesförderungen müssen lückenlos nachweisen, dass förderungsrelevante Baumaßnahmen ordnungsgemäß ausgeführt wurden; Dieser Skill beschreibt den vollständigen von der Abnahmebegehung bis zur SAP-FI-Buchung und Förderantrag-Konformitätsnachweis.
+Lieferstück: Fachvotum zu Abnahmeprotokoll und Förder-ERP in der Bauüberwachung LPH 8 mit Tatbestandsmerkmalen, Aktenfundstellen, Beweislast, stärkster Gegenposition, Risiko und ausformulierter Rechtsfolge.
+
+### 16.9. Sachverständigenfragen zu Planungsfehlern
 
 Bearbeitungsauftrag: BGB Paragrafen 650p bis 650t für Architekten- und Ingenieurverträge; daneben je nach Anspruch BGB Paragrafen 633, 634, 280, 281, 286, 634a. ZPO Paragrafen 402 und folgende , 411 für gerichtliche Sachverständige; ZPO Paragrafen 485 und folgende für selbständige Beweisverfahren; ZPO Paragraf 286 für die spätere richterliche Beweiswürdigung.
 Prüfschritte: HOAI nur für Honorar- und Leistungsbildlogik heranziehen: Leistungsphase, Grundleistung, besondere Leistung, anrechenbare Kosten und Honorarparameter sauber trennen; DIN, VDI, Herstellervorgaben, öffentlich-rechtliche Genehmigungen, Brandschutzkonzepte und Ausführungspläne nur als technische Maßstäbe verwenden, nicht als automatische Haftungsnorm.
 Lieferstück: Fachvotum zu Sachverständigenfragen zu Planungsfehlern mit Tatbestandsmerkmalen, Aktenfundstellen, Beweislast, stärkster Gegenposition, Risiko und ausformulierter Rechtsfolge.
-
-### 16.9. Bauüberwachung Windpark Fundament und Turmschaft
-
-Bearbeitungsauftrag: Windpark Schleswig-Holstein Küstenlage: 12 WEA Typ Vestas V150-4.5, Nabenhöhe 166 m, Ringfundament Durchmesser 21 m, Beton C30/37 XF4, Bausumme Fundamente 8 Mio. Windpark Thüringen Mittelgebirge: 6 WEA ENERCON E-138, Pfahlgründung 24 Ortbetonpfähle je Anlage d = 900 mm Länge 18 m wegen Weichschichteinlagen. Repowering Windpark Sachsen-Anhalt: Abbruch 3 Altanlagen, Ertüchtigung bestehender Fundamente nach Tragfähigkeitsgutachten EC7, Bausumme 3.2 Mio.
-Prüfschritte: Windenergieanlagen-Fundamente zählen zu den geotechnisch und statisch anspruchsvollsten Bauwerken im Ingenieurbau; Fehler in dieser Phase führen zu Garantieverlust und betrieblichen Ausfällen über die 20-jährige Anlagenlebensdauer.
-Lieferstück: verhandlungsfähige Fassung mit Ausgangstext, Änderung, Begründung, Rückfallposition und Vollzugscheck.
 
 ### 16.10. Honorarzone, Bewertungspunkte und Objektliste
 
@@ -254,12 +255,14 @@ Bearbeitungsauftrag: Bearbeite Honorarzone, Bewertungspunkte und Objektliste: ve
 Norm- oder Entscheidungsbezug aus dem Fachmaterial: Paragraf 5 HOAI: Honorarzonen; Paragraf 35 HOAI und Anlage 10 Objektlisten/Bewertungsmerkmale für Gebäude und Innenräume.
 Lieferstück: nachrechenbare Berechnung mit Eingabewerten, Zwischenschritten, Varianten, Stichtag und Belegspalte.
 
-### 16.11. LPH 1 Grundlagenermittlung: Baut risiko
+### 16.11. Leistungsphase 2: Vorplanung
 
-Bearbeitungsauftrag: Kurzer Textbaustein für Bauherr, Planer, Unternehmer oder Anwalt. Praktischer Kern: Aufgabenstellung klären, Ortsbesichtigung, Untersuchungsbedarf, Beteiligte auswählen, Ergebnisse dokumentieren. Warnung: Nicht automatisch auf andere HOAI-Leistungsbilder übertragen; erst Leistungsbild und Anlage live bestimmen.
-Lieferstück: Fachvotum zu LPH 1 Grundlagenermittlung: Baut risiko mit Tatbestandsmerkmalen, Aktenfundstellen, Beweislast, stärkster Gegenposition, Risiko und ausformulierter Rechtsfolge.
+Bearbeitungsauftrag: Arbeite ausschließlich in Leistungsphase 2 (Vorplanung), solange Unterlagen und Auftrag keine belastbare Schnittstelle zu einer anderen Phase zeigen. Nach der Vertiefung unmittelbar das Arbeitsprodukt erstellen und nur entscheidungserhebliche Lücken nachfragen. Liefere je nach Auftrag einen Prüfvermerk, eine Freigabevorlage, ein Protokoll, eine Kosten- oder Terminentscheidung, einen Nachtrags- oder Mangelbaustein beziehungsweise ein phasengerechtes Abschlussblatt mit Belegen und offenem nächsten Schritt.
+Prüfschritte: Planungsvarianten, Voruntersuchung, Kostenrahmen, Termine und Behördenabstimmung bilden den Einstieg.
+Lieferstück: Fachvotum zu Leistungsphase 2: Vorplanung mit Tatbestandsmerkmalen, Aktenfundstellen, Beweislast, stärkster Gegenposition, Risiko und ausformulierter Rechtsfolge.
 
-### 16.12. LPH 3 Entwurfsplanung: Ordnet vertrag
+### 16.12. LPH 4 Genehmigungsrisiko, Bauantrag und Auflagen
 
-Bearbeitungsauftrag: Kurzer Textbaustein für Bauherr, Planer, Unternehmer oder Anwalt. Praktischer Kern: stimmige Entwurfsfassung, Kostenberechnung, Termin-/Objektbeschreibung, Integration der Fachplanung. Warnung: Nicht automatisch auf andere HOAI-Leistungsbilder übertragen; erst Leistungsbild und Anlage live bestimmen.
-Lieferstück: verhandlungsfähige Fassung mit Ausgangstext, Änderung, Begründung, Rückfallposition und Vollzugscheck.
+Bearbeitungsauftrag: Bearbeite LPH 4 Genehmigungsrisiko, Bauantrag und Auflagen: vertragsjahr, Leistungsbild, Leistungsphase, geschuldeter Erfolg, Leistungsstand, Honorar, Nachtrag und Haftungsbeleg trennen. Bestimme den konkreten Erlaubnis- oder Zulassungstatbestand, Antragsteller, persönliche und sachliche Voraussetzungen, Drittbeteiligung, vollständige Nachweise, Nebenbestimmungen, Bekanntgabe und den passenden Rechtsschutz.
+Norm- oder Entscheidungsbezug aus dem Fachmaterial: Anlage 10 HOAI LPH 4; Paragraf 10 HOAI bei vergütungsrelevanter Planungsänderung.
+Lieferstück: frist- und formgerechter Entwurf mit Antrag, tragenden Tatsachen, Beweisangeboten, Anlagen und Einreichungsweg.

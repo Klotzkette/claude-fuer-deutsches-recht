@@ -1,6 +1,6 @@
 ---
 name: verjaehrung-verwirkung-vorlage
-description: "Wenn es um Verjährung, Verwirkung und Duldung in Erbbaurecht Praxis geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Beweislast- und Substantiierungsmatrix."
+description: "Für Verjährung, Verwirkung und Duldung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Verjährung, Verwirkung und Duldung

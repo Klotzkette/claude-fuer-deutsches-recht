@@ -1,6 +1,6 @@
 ---
 name: miet-gewerbemiete-vertragsklauseln-spezial
-description: "Wenn es um Miet: Gewerbemiete-Klauseln in Mietrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Miet: Gewerbemiete-Klauseln: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Miet: Gewerbemiete-Klauseln

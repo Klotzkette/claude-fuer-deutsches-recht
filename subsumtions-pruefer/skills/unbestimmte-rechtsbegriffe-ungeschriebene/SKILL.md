@@ -1,6 +1,6 @@
 ---
 name: unbestimmte-rechtsbegriffe-ungeschriebene
-description: "Wenn es um Unbestimmte Rechtsbegriffe prüfen in Subsumtions-Prüfer geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Unbestimmte Rechtsbegriffe prüfen: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Unbestimmte Rechtsbegriffe prüfen

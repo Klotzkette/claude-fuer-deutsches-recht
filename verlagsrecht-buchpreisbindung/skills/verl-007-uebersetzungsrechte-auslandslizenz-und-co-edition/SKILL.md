@@ -1,6 +1,6 @@
 ---
 name: verl-007-uebersetzungsrechte-auslandslizenz-und-co-edition
-description: "Wenn es um Verlagsrecht: Übersetzungsrechte Auslandslizenz und Co-Edition in Verlagsrecht und Buchpreisbindung geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Verlagsrecht: Übersetzungsrechte Auslandslizenz und Co-Edition: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Schnittstellenkarte mit Zuständigkeits- und Nachweisfragen."
 ---
 
 # Verlagsrecht: Übersetzungsrechte Auslandslizenz und Co-Edition

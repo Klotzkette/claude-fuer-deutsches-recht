@@ -1,6 +1,6 @@
 ---
 name: pralr-041-1792-agb-vs-1794-pralr
-description: "Wenn es um 1792 vs. 1794 in Preußisches Allgemeines Landrecht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt. Auswahlstichwort: Pralr 041 1792 Agb Vs 1794 Pralr; Arbeitsfeld: Preußisches Allgemeines Landrecht."
+description: "Für 1792 vs. 1794: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # 1792 vs. 1794

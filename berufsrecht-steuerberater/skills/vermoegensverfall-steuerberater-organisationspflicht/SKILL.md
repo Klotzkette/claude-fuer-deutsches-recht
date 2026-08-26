@@ -1,6 +1,6 @@
 ---
 name: vermoegensverfall-steuerberater-organisationspflicht
-description: "Wenn es um Vermoegensverfall Steuerberater Organisationspflicht in Berufsrecht Steuerberater geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Vermögensverfall Steuerberater Organisationspflicht: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Schnittstellenkarte mit Zuständigkeits- und Nachweisfragen."
 ---
 
 # Steuerberater: vermögensverfall steuerberater - Organisationspflichten, Prävention, Team-Anweisung und Fristenkontrolle

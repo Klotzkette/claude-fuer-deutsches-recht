@@ -1,6 +1,6 @@
 ---
 name: software-verschluesselung-swiss-sanctions
-description: "Wenn es um Exportkontrolle für Verschluesselungssoftware: Kryptografie und Dual-Use-Kategorie 5 in Außenwirtschaft, Sanktionen, Zoll und CBAM geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Exportkontrolle für Verschlüsselungssoftware: Kryptografie und Dual-Use-Kategorie 5: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Exportkontrolle für Verschluesselungssoftware: Kryptografie und Dual-Use-Kategorie 5

@@ -1,6 +1,6 @@
 ---
 name: kv-018-auslandsbehandlung-eu-s2-formular-und-notfall
-description: "Wenn es um Krankenversicherung: Auslandsbehandlung EU S2 Formular und Notfall in Krankenkassenrecht und Krankenversicherung geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Krankenversicherung: Auslandsbehandlung EU S2 Formular und Notfall: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Einreichungsplan mit Form- und Nachweischeck."
 ---
 
 # Krankenversicherung: Auslandsbehandlung EU S2 Formular und Notfall

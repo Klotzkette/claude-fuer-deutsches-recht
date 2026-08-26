@@ -1,6 +1,6 @@
 ---
 name: dba-all-country-memo-generator
-description: "Wenn es um DBA-All-Country-Memo-Generator in Steuerrecht – Steuerberater und Anwälte geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
+description: "Für DBA-All-Country-Memo-Generator: erstellt Entwurf mit Antrag, Beweis und Anlagen; Ergebnis: Schriftsatz mit Begründungs- und Anlagenlogik."
 ---
 
 # DBA-All-Country-Memo-Generator

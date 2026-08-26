@@ -1,6 +1,6 @@
 ---
 name: oew-052-stadtwerke-vergabeweg-waehlen
-description: "Wenn es um Stadtwerke Vergabeweg Waehlen in Öffentliches Wirtschaftsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Stadtwerke Vergabeweg Wählen: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt. Fachgebiet: Öffentliches Wirtschaftsrecht. Route: oew-052-stadtwerke-vergabeweg-waehlen."
 ---
 
 # Stadtwerke Vergabeweg Waehlen

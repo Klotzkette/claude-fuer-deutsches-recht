@@ -1,6 +1,6 @@
 ---
 name: software-scope-und-rechtsgebiet-router
-description: "Wenn es um Scope- und Rechtsgebietsrouter in Softwarerecht Deutschland/EU/International/USA geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen."
+description: "Für Scope- und Rechtsgebietsrouter: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Scope- und Rechtsgebietsrouter

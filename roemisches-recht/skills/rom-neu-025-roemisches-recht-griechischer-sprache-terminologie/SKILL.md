@@ -1,6 +1,6 @@
 ---
 name: rom-neu-025-roemisches-recht-griechischer-sprache-terminologie
-description: "Wenn es um Römisches Recht: Römisches Recht in griechischer Sprache Terminologie in Römisches Recht geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Römisches Recht: Römisches Recht in griechischer Sprache Terminologie: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Schnittstellenkarte mit Zuständigkeits- und Nachweisfragen."
 ---
 
 # Römisches Recht: Römisches Recht in griechischer Sprache Terminologie

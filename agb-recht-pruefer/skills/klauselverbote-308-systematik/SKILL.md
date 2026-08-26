@@ -1,6 +1,6 @@
 ---
 name: klauselverbote-308-systematik
-description: "Wenn es um Klauselverbote 308 Systematik in AGB-Recht-Prüfer geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Gegenprüfung mit Fehler-, Beweis- und Fristencheck. Auswahlstichwort: Klauselverbote 308 Systematik; Arbeitsfeld: AGB-Recht-Prüfer."
+description: "Für Klauselverbote 308 Systematik: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt. Fachgebiet: AGB-Recht-Prüfer. Route: klauselverbote-308-systematik."
 ---
 
 # Klauselverbote 308 Systematik

@@ -1,6 +1,6 @@
 ---
 name: luft-012-luftsicherheit-luftsig
-description: "Wenn es um Luftsicherheit Luftsig in Luftrecht und Flughafenrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Luftsicherheit Luftsig: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Luftsicherheit Luftsig

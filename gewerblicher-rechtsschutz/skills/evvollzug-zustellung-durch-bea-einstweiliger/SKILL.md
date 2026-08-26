@@ -1,6 +1,6 @@
 ---
 name: evvollzug-zustellung-durch-bea-einstweiliger
-description: "Wenn es um EV-Vollzug 003: Zustellung durch Gerichtsvollzieher im IP-Verfahren in Plugin: Gewerblicher Rechtsschutz geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für EV-Vollzug 003: Zustellung durch Gerichtsvollzieher im IP-Verfahren: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # EV-Vollzug 003: Zustellung durch Gerichtsvollzieher im IP-Verfahren

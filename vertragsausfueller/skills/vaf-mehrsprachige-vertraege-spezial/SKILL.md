@@ -1,6 +1,6 @@
 ---
 name: vaf-mehrsprachige-vertraege-spezial
-description: "Wenn es um VAF: Mehrsprachige Vertraege in Vertragsausfüller geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für VAF: Mehrsprachige Verträge: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt. Fachgebiet: Vertragsausfüller. Route: vaf-mehrsprachige-vertraege-spezial."
 ---
 
 # VAF: Mehrsprachige Vertraege

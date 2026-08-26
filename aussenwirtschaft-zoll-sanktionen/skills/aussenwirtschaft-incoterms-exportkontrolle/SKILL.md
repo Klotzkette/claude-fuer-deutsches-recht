@@ -1,6 +1,6 @@
 ---
 name: aussenwirtschaft-incoterms-exportkontrolle
-description: "Wenn es um Incoterms Exportkontrolle in Außenwirtschaft, Sanktionen, Zoll und CBAM geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Incoterms Exportkontrolle: prüft Ergebnis, Beweislast und Gegenposition; Ergebnis: Gegenprüfung mit Beweis- und Fristencheck."
 ---
 
 # Incoterms Exportkontrolle

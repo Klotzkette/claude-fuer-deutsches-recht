@@ -1,6 +1,6 @@
 ---
 name: ehevertrag-scheidungsfolgenvereinbarung
-description: "Wenn es um Ehevertrag Scheidungsfolgenvereinbarung in Notariat im Alltag geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Ehevertrag Scheidungsfolgenvereinbarung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Notariat im Alltag: Ehevertrag, Scheidungsfolgenvereinbarung, Versorgungsausgleich, Belehrung

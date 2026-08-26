@@ -1,6 +1,6 @@
 ---
 name: bro-grundlagen-ki-einsatz
-description: "Wenn es um BRAO und digitale Werkzeuge: Grundlagen in anwaltlichem Berufsrecht und Vertragsprüfung geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen."
+description: "Für BRAO und digitale Werkzeuge: Grundlagen: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # BRAO und KI: Grundlagen

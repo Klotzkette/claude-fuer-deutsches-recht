@@ -1,6 +1,6 @@
 ---
 name: abwaegungsgebot-1-abs-7-baugb
-description: "Wenn es um Abwägungsgebot Paragraf 1 Abs. 7 BauGB in Normenkontrolle Bauleitplanung — Paragraf 47 VwGO geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
+description: "Für Abwägungsgebot Paragraf 1 Abs. 7 BauGB: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Abwägungsgebot § 1 Abs. 7 BauGB

@@ -1,6 +1,6 @@
 ---
 name: laenge-formate-mandantenfreundliche-fassung
-description: "Wenn es um Memo: Laenge und Formate in Memorandums-Ersteller geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
+description: "Für Memo: Länge und Formate: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Schnittstellenkarte mit Zuständigkeits- und Nachweisfragen."
 ---
 
 # Memo: Laenge und Formate

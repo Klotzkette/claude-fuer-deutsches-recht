@@ -1,6 +1,6 @@
 ---
 name: bmf-haushalts-und-zuwendungsrecht
-description: "Wenn es um Haushaltsrecht und Zuwendungen (BMF) in Legistik-Werkstatt geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen."
+description: "Für Haushaltsrecht und Zuwendungen (BMF): ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Haushaltsrecht und Zuwendungen (BMF)

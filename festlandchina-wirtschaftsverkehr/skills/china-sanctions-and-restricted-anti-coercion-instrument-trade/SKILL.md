@@ -1,6 +1,6 @@
 ---
 name: china-sanctions-and-restricted-anti-coercion-instrument-trade
-description: "Wenn es um Sanktionen und Restricted-Party-Screening: China-Spezifika in China-Wirtschaftsverkehr geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Sanktionen und Restricted-Party-Screening: China-Spezifika: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Sanktionen und Restricted-Party-Screening: China-Spezifika

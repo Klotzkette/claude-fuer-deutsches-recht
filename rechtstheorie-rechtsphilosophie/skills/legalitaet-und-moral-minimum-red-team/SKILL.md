@@ -1,6 +1,6 @@
 ---
 name: legalitaet-und-moral-minimum-red-team
-description: "Wenn es um Legalität und moralisches Minimum in Rechtstheorie und Rechtsphilosophie geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Gegenprüfung mit Fehler-, Beweis- und Fristencheck."
+description: "Für Legalität und moralisches Minimum: prüft Ergebnis, Beweislast und Gegenposition; Ergebnis: Gegenprüfung mit Beweis- und Fristencheck."
 ---
 
 # Legalität und moralisches Minimum

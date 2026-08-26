@@ -1,6 +1,6 @@
 ---
 name: widerruf-zusammenfassungen-interessen
-description: "Wenn es um Widerruf: Internationaler Bezug und Schnittstellen in Vertragsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Widerruf: Internationaler Bezug und Schnittstellen: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Widerruf: Internationaler Bezug und Schnittstellen

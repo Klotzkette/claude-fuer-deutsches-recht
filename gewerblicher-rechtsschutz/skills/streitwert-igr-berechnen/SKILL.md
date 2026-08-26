@@ -1,6 +1,6 @@
 ---
 name: streitwert-igr-berechnen
-description: "Wenn es um Streitwert im Gewerblichen Rechtsschutz berechnen in Plugin: Gewerblicher Rechtsschutz geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
+description: "Für Streitwert im Gewerblichen Rechtsschutz berechnen: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Streitwert im Gewerblichen Rechtsschutz berechnen

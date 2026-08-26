@@ -1,6 +1,6 @@
 ---
 name: begruendung-ehemalige-anerkannte-reservisten
-description: "Wenn es um Frühere Anerkennung späterer Dienst in Kriegsdienstverweigerung und Wehrdienst geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Frühere Anerkennung späterer Dienst: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Frühere Anerkennung späterer Dienst

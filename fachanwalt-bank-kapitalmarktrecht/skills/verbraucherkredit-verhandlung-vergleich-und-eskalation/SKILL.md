@@ -1,6 +1,6 @@
 ---
 name: verbraucherkredit-verhandlung-vergleich-und-eskalation
-description: "Wenn es um Verbraucherkredit: Verhandlung, Vergleich und Eskalation in Fachanwalt Bank Kapitalmarktrecht geht: entwickelt Verhandlungsziel, Vergleichskorridor und Eskalationspfad; liefert eine Verhandlungs- oder Eskalationslinie mit Optionen."
+description: "Für Verbraucherkredit: Verhandlung, Vergleich und Eskalation: entwickelt Ziel, Vergleich und Eskalation; Ergebnis: Verhandlungs- oder Eskalationslinie."
 ---
 
 # Verbraucherkredit: Verhandlung, Vergleich und Eskalation

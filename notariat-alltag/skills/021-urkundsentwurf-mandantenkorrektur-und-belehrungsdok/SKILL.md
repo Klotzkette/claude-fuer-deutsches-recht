@@ -1,6 +1,6 @@
 ---
 name: 021-urkundsentwurf-mandantenkorrektur-und-belehrungsdok
-description: "Wenn es um Notariat im Alltag: Urkundsentwurf, Mandantenkorrektur, Belehrungsdokumentation in Notariat im Alltag geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
+description: "Für Notariat im Alltag: Urkundsentwurf, Mandantenkorrektur, Belehrungsdokumentation: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Notariat im Alltag: Urkundsentwurf, Mandantenkorrektur, Belehrungsdokumentation

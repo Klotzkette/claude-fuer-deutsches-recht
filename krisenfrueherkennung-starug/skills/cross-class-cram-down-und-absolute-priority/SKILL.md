@@ -1,6 +1,6 @@
 ---
 name: cross-class-cram-down-und-absolute-priority
-description: "Prüft den Cross-Class-Cram-Down nach Paragrafen 26 bis 28 StaRUG gruppengenau: Ohne-Plan-Vergleich, Planwertbeteiligung, Gruppenmehrheit, Rangfolge, gesetzliche Ausnahmen und Minderheitenschutz. Liefert Cram-Down-Memo, Wertbrücke, Abstimmungsmatrix und Antrag auf Planbestätigung."
+description: "Prüft den Cross-Class-Cram-Down nach Paragrafen 26 bis 28 StaRUG gruppengenau: Ohne-Plan-Vergleich, Planwertbeteiligung, Gruppenmehrheit, Rangfolge, gesetzliche Ausnahmen und Minderheitenschutz."
 ---
 
 # 1. Cross-Class-Cram-Down und Rangfolge nach dem StaRUG

@@ -1,6 +1,6 @@
 ---
 name: entlassmanagement-39-abs-1a-sgb-v
-description: "Wenn es um Entlassmanagement Paragraf 39 Abs. 1a SGB V in Krankenhausrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Entlassmanagement Paragraf 39 Abs. 1a SGB V: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Entlassmanagement § 39 Abs. 1a SGB V

@@ -1,6 +1,6 @@
 ---
 name: space-063-compliance-handbuch-satellitenbetreiber
-description: "Wenn es um Weltraumrecht: Compliance Handbuch Satellitenbetreiber in Weltraumrecht geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Weltraumrecht: Compliance Handbuch Satellitenbetreiber: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Weltraumrecht: Compliance Handbuch Satellitenbetreiber

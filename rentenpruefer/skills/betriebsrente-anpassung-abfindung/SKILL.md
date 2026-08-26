@@ -1,6 +1,6 @@
 ---
 name: betriebsrente-anpassung-abfindung
-description: "Wenn es um Betriebsrente Anpassung Abfindung in Rentenprüfer geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Tatbestands- oder Anspruchsmatrix mit Gegenargumenten."
+description: "Für Betriebsrente Anpassung Abfindung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Betriebsrente Anpassung Abfindung

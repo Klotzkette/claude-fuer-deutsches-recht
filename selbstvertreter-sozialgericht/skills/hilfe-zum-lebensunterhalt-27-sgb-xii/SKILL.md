@@ -1,6 +1,6 @@
 ---
 name: hilfe-zum-lebensunterhalt-27-sgb-xii
-description: "Wenn es um Hilfe Zum Lebensunterhalt 27 Sgb Xii in selbstvertreter-sozialgericht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Hilfe zum Lebensunterhalt 27 SGB Xii: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Hilfe Zum Lebensunterhalt 27 Sgb Xii

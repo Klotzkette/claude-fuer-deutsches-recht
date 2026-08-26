@@ -1,6 +1,6 @@
 ---
 name: nebenstrafrecht-behoerden-gericht-und-registerweg
-description: "Wenn es um Nebenstrafrecht: Behörden-, Gerichts- oder Registerweg in Fachanwalt Strafrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Nebenstrafrecht: Behörden-, Gerichts- oder Registerweg: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Einreichungsplan mit Form- und Nachweischeck."
 ---
 
 # Nebenstrafrecht: Behörden-, Gerichts- oder Registerweg

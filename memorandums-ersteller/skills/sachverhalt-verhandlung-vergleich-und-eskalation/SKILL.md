@@ -1,6 +1,6 @@
 ---
 name: sachverhalt-verhandlung-vergleich-und-eskalation
-description: "Wenn es um Sachverhalt: Verhandlung, Vergleich und Eskalation in Memorandums-Ersteller geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
+description: "Für Sachverhalt: Verhandlung, Vergleich und Eskalation: entwickelt Ziel, Vergleich und Eskalation; Ergebnis: Verhandlungs- oder Eskalationslinie."
 ---
 
 # Sachverhalt: Verhandlung, Vergleich und Eskalation

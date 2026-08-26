@@ -1,6 +1,6 @@
 ---
 name: workflow-kaution-nach-auszug
-description: "Wenn es um Kaution nach Auszug: Prüfungslinie für Miet- und WEG-Recht in Fachanwalt Miet- und Wohnungseigentumsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Chronologie mit Belegmatrix und Widerspruchsliste."
+description: "Für Kaution nach Auszug: Prüfungslinie für Miet- und WEG-Recht: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Kaution nach Auszug: Prüfungslinie für Miet- und WEG-Recht

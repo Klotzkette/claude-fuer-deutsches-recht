@@ -1,6 +1,6 @@
 ---
 name: gefluegelmast-suchen-tiertransport
-description: "Wenn es um Gefluegelmast Vergleich Suchen in Tierschutzrecht geht: entwickelt Verhandlungsziel, Vergleichskorridor und Eskalationspfad; liefert eine Verhandlungs- oder Eskalationslinie mit Optionen."
+description: "Für Geflügelmast Vergleich Suchen: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Gefluegelmast Vergleich Suchen

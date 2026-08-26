@@ -1,6 +1,6 @@
 ---
 name: spezial-medienstaatsvertrag-livequellen-und-rechtsprechungscheck
-description: "Wenn es um Medienstaatsvertrag: Livequellen- und Rechtsprechungscheck in Fachanwalt Urheber Medienrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Medienstaatsvertrag: Livequellen- und Rechtsprechungscheck: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Medienstaatsvertrag: Livequellen- und Rechtsprechungscheck

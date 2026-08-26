@@ -1,6 +1,6 @@
 ---
 name: inv-016-e-mail-review
-description: "Wenn es um Internal Investigation: E-Mail Review in Internal Investigations Praxis geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Internal Investigation: E-Mail Review: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Internal Investigation: E-Mail Review

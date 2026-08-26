@@ -7,15 +7,15 @@ Diese Vollprüfung enthält top-10 von 88 Skills des Plugins `corporate-kanzlei`
 ## Inhaltsverzeichnis
 
 1. **juristischer-argumentationskern** — Schaltet sich ein, wenn in Corporate Kanzlei ein juristisches Arbeitsprodukt tragfähig begründet werden muss; verbindet …
-2. **einstieg-routing** — Wenn es um Einstieg und Routing in Corporate-Kanzlei geht: klärt Rolle, Ziel, Frist, Unterlagen und den passenden nächst…
-3. **kaltstart-triage** — Wenn es um Kaltstart Triage in Corporate-Kanzlei geht: klärt Rolle, Ziel, Frist, Unterlagen und den passenden nächsten F…
-4. **agio-und-kapitalerhoehungsstruktur** — Wenn es um Agio und Kapitalerhöhungsstruktur in der Corporate-Praxis in Corporate-Kanzlei geht: erstellt den passenden E…
-5. **npl-distressed-outside-target** — Wenn es um Corporate: NPL und Distressed Loan Transfer in Corporate-Kanzlei geht: ordnet Sachverhalt, Norm, Beweislast, …
-6. **restructuring-starug** — Entscheidet aus Corporate-Sicht zwischen freier Sanierung, StaRUG-Plan und Insolvenzplan. Verknüpft Insolvenzstatus, Fin…
-7. **npl-distressed-loan** — Wenn es um Corporate: NPL und Distressed Loan Transfer in Corporate-Kanzlei geht: ordnet Sachverhalt, Norm, Beweislast, …
-8. **schuldschein-darlehen-signing-closing** — Wenn es um Corporate: Schuldscheindarlehen und Übertragung in Corporate-Kanzlei geht: ordnet Sachverhalt, Norm, Beweisla…
-9. **translations-multijurisdictional** — Wenn es um Multijurisdiktionale Übersetzungen und Dokumente in Corporate-Kanzlei geht: ordnet Akteninhalt, Belege, Lücke…
-10. **restructuring-starug-insolvenzplan** — Vergleicht StaRUG- und Insolvenzplan transaktionsbezogen und führt die gewählte Route bis zum Closing. Prüft Status, Pla…
+2. **einstieg-routing** — Für Einstieg und Routing: routet Rolle, Frist, Unterlagen und Fachschritt; Ergebnis: Prüfprodukt mit Risiko und nächstem…
+3. **kaltstart-triage** — Für Kaltstart Triage: routet Rolle, Frist, Unterlagen und Fachschritt; Ergebnis: Prüfprodukt mit Risiko und nächstem Sch…
+4. **beirat-gmbh-zustimmungskatalog-und-konfliktmatrix** — Für GmbH-Beirat: Zustimmungskatalog, Konfliktmatrix und Satzungslogik: ordnet Norm, Beweislast und Gegenargument; Ergebn…
+5. **corporate-kanzlei-translations-multijurisdictional** — Für Multijurisdiktionale Übersetzungen und Dokumente: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt m…
+6. **beirat-gmbh-zustimmungskatalog** — Für GmbH-Beirat: Zustimmungskatalog, Konfliktmatrix und Satzungslogik: ordnet Norm, Beweislast und Gegenargument; Ergebn…
+7. **agio-und-kapitalerhoehungsstruktur** — Für Agio und Kapitalerhöhungsstruktur in der Corporate-Praxis: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüf…
+8. **freundlicher-copilot-gesellschaftsrecht** — Für Freundlicher Corporate-Copilot: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Schnittstellenkarte mit Zuständ…
+9. **schuldschein-darlehen-signing-closing** — Für Corporate: Schuldscheindarlehen und Übertragung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mi…
+10. **umwandlungsrecht-wi-insurance** — Für Umwandlungsrecht — Verschmelzung, Spaltung, Formwechsel: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfpr…
 
 ---
 
@@ -138,7 +138,7 @@ Ausgangspunkt für dieses Plugin: Anspruchsteller für Pflichtverletzung, Schade
 
 ## Skill: `einstieg-routing`
 
-_Wenn es um Einstieg und Routing in Corporate-Kanzlei geht: klärt Rolle, Ziel, Frist, Unterlagen und den passenden nächsten Fachskill; liefert eine Fristen- und Risikoampel mit Sofortschritten._
+_Für Einstieg und Routing: routet Rolle, Frist, Unterlagen und Fachschritt; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt. Fachgebiet: Corporate-Kanzlei._
 
 # Einstieg und Routing
 
@@ -180,7 +180,7 @@ Dieser Einstieg routet **Corporate Kanzlei** vom ersten Sachverhalt zu Rollen, F
 
 ## Skill: `kaltstart-triage`
 
-_Wenn es um Kaltstart Triage in Corporate-Kanzlei geht: klärt Rolle, Ziel, Frist, Unterlagen und den passenden nächsten Fachskill; liefert eine Fristen- und Risikoampel mit Sofortschritten._
+_Für Kaltstart Triage: routet Rolle, Frist, Unterlagen und Fachschritt; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt. Fachgebiet: Corporate-Kanzlei._
 
 ## Direktstart: lesen, entscheiden, liefern
 
@@ -425,9 +425,260 @@ Zusaetzlich unterstuetzt das Plugin bei gesellschaftsrechtlichen Registeranmeldu
 
 ---
 
+## Skill: `beirat-gmbh-zustimmungskatalog-und-konfliktmatrix`
+
+_Für GmbH-Beirat: Zustimmungskatalog, Konfliktmatrix und Satzungslogik: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt. Fachgebiet: Corporate-Kanzlei. Route: beirat-gmbh-zustimmungskatalog-und-konfliktmatrix._
+
+# GmbH-Beirat: Zustimmungskatalog, Konfliktmatrix und Satzungslogik
+
+## Arbeitsweg
+
+- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
+- Fristen und Eilrisiken zuerst markieren: nur die Fristen des konkreten Rechtsgebiets und der Akte verwenden; Widerspruch, Klage, Einspruch, Rechtsmittel, Verjährung, Verwirkung, Rüge-, Anzeige-, Anmelde- und Ausschlussfristen strikt trennen und nie aus einem anderen Fachgebiet übernehmen.
+- Tragende Normen verifizieren: BRAO, BORA, FAO, BNotO, StBerG, WPO, PAO; AO §§ 38, 42, 90, 93, 153, 162, 164, 169-171, 173, 233a, 370-378, UStG, EStG, KStG, GewStG, GrEStG, ErbStG, FGO; StaRUG — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
+- Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
+- Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
+
+## Kernproblem
+Der GmbH-Beirat ist Vertragstechnik mit Organwirkungspotenzial. Der Skill hilft, einen Beirat nicht als Dekoration, sondern als präzise Governance-Maschine zu bauen: mächtig genug für Kontrolle, nicht so mächtig, dass Geschäftsführung, Haftung und Finanzierung blockieren.
+
+## Prüfpunkte
+1. Kompetenzquelle: Satzung, Geschäftsordnung, Shareholders' Agreement, Stimmbindung.
+2. Zustimmungskatalog: Budget, Capex, Debt, M&A, IP, Litigation, Related Party, Geschäftsführerbestellung, Insolvenzantrag.
+3. Mehrheit: einfache Mehrheit, qualifizierte Mehrheit, Investor Consent, Vetorecht, Deadlock-Mechanismus.
+4. Haftung/D&O: Organnähe, Informationsgrundlage, Protokoll, Interessenkonflikte.
+5. Exit/Finanzierung: Drag/Tag, Liquidation Preference, Reserved Matters, Bank Covenants.
+
+---
+
+## Skill: `corporate-kanzlei-translations-multijurisdictional`
+
+_Für Multijurisdiktionale Übersetzungen und Dokumente: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt. Fachgebiet: Corporate-Kanzlei. Route: corporate-kanzlei-translations-multijurisdictional._
+
+<!-- anthropic-depth-boost-v1 -->
+# Multijurisdiktionale Uebersetzungen und Dokumente
+
+## Zweck
+Dieser Skill führt ein Corporate-Kanzlei-/Inhouse-Governance-Mandat durch den Arbeitsbereich **Corporate-Mandatsführung, Governance-PMO, Monitoring, Staffing und Legal-Operations-Steuerung**. Er macht aus Gesellschaftsunterlagen, Beschlusslagen, Vertragsentwürfen oder Registerinformationen einen belastbaren Corporate-Befund, trennt Tatsachen von Annahmen und zwingt zu einem organ- und mandatsfähigen nächsten Schritt. Adressaten sind Corporate-Partner, Syndizi, Associates, Legal Operations, Geschäftsführung, Vorstand und Aufsichts-/Beiratssekretariat.
+
+## Wann wird dieser Skill aufgerufen
+Typische Auslöser:
+- "Ich habe hier Multijurisdiktionale Uebersetzungen und Dokumente und brauche einen belastbaren nächsten Schritt."
+- "Bitte prüfe das aus Sicht der Gesellschaft, Geschäftsführung, Gesellschafter oder Inhouse-Rechtsabteilung."
+- "Mach daraus eine Beschlussvorlage, Partnernotiz, Mandantenmail oder Organunterlage."
+- "Welche Register-, Beschluss-, Compliance- oder Fristpunkte fehlen noch?"
+
+Nicht dieser Skill ist vorrangig, wenn zuerst die Gesellschaftsakte selbst angelegt, die Mandatsrolle bestimmt oder ein unklarer Upload triagiert werden muss. Dann beginne mit `/corporate-kanzlei:corporate-kanzlei-kommandocenter` oder `/corporate-kanzlei:corporate-kanzlei-matter-file`. Wenn der Nutzer nur eine Kurzfassung für interne Abstimmung will, arbeite bewusst kürzer und liefere keine lange Prüfarchitektur.
+
+## Voraussetzungen und Kontext laden
+Lies zuerst, falls vorhanden, den Matter-Workspace unter `~/.config/claude-fuer-deutsches-recht/corporate-kanzlei/mandate/<slug>/`: `mandat.md`, `history.md`, `chronologie.md`, `fristen.yaml` und den aktuellen Dokumentenlog. Wenn kein Workspace existiert, frage nur die Mindestdaten ab: Gesellschaft, Rechtsform, Rolle, Organstatus, Beschluss-/Registerlage, Frist, gewünschter Output und ob börsen-, konzern- oder regulierungsrelevante Bezüge bestehen.
+
+Benötigte Unterlagen:
+- Mandats-/Gesellschaftsprofil, Organigramm, Rollenmatrix und Eskalationskette.
+- Kommunikationskanäle, Vertraulichkeitsstufen, Review-Gates und Beschlusskalender.
+- Vorlagen für Board Paper, Beschlussvorlage, Statusbericht und Billing Narrative.
+
+Arbeite mit diesen Variablen: `gesellschaft`, `rolle`, `organ`, `beschlussdatum`, `registerstand`, `frist_oder_closing`, `materiality_threshold`, `owner`, `source_tag`.
+
+## Workflow
+1. **Corporate-Kontext fixieren.** Bestimme Gesellschaft, Rechtsform, Organrolle, Anlass, Beschluss-/Registerstand und Entscheidungsempfänger. Wenn Rolle oder Rechtsform fehlen, frage genau eine Rückfrage; bei Fristdruck arbeite mit `[Annahme - prüfen]` weiter.
+2. **Quellen inventarisieren.** Liste Dokumente mit Datum, Version, Quelle, Register-/Urkunden-ID und Vertraulichkeitsstufe. Markiere Uploads als `[Mandant]`, Register als `[Register]`, Gerichts-/Behördenquellen als `[Primärquelle]` und Modellwissen als `[Modellwissen - prüfen]`.
+3. **Organ- und Kompetenzebene trennen.** Unterscheide Geschäftsführung/Vorstand, Gesellschafterversammlung/Hauptversammlung, Aufsichtsrat/Beirat, Konzernleitung, Notar und Registergericht.
+4. **Materiality-Schwelle setzen.** Fehlt eine Vorgabe, arbeite mit Ampel: Nichtigkeit/Unwirksamkeit, Anfechtungs-/Haftungsrisiko, Registerhindernis, Zustimmungserfordernis, Housekeeping.
+5. **Normenprüfung durchführen.** Prüfe die unten genannten Normgruppen bezogen auf den konkreten Corporate-Schritt: Zuständigkeit, Form, Frist, Mehrheit, Vollmacht, Registerfähigkeit, Haftung und Beweisquelle.
+6. **Belegkette bauen.** Jede wesentliche Aussage braucht Quelle, Dokument, Fundstelle und Unsicherheitsmarker. Keine Fundstelle erfinden. Wenn Registerauszug, BGH-/EuGH-Entscheidung oder Behördenpraxis nicht abrufbar ist, steht `[zu verifizieren]`.
+7. **Risikomatrix erstellen.** Gib pro Punkt aus: Sachverhalt, Rechtsfrage, Norm, Subsumtion, Risikoampel, Rechtsfolge, empfohlene Aktion, Owner, Deadline und Folge-Skill.
+8. **Draft oder Review-Gate wählen.** Wenn die Tatsachen reichen, liefere den gewünschten Output. Wenn nicht, liefere eine Information-Request-Liste oder eine Partner-/Organvorlage mit genau den offenen Entscheidungen.
+9. **Hand-off vorbereiten.** Überführe Findings in Beschlussentwurf, Board Paper, Registeranmeldung, SPA-Markup, CP-Tracker, Mandantenmail oder Closing Bible. Verweise auf den konkreten Anschluss-Skill unten.
+10. **Abschlusskontrolle.** Prüfe: keine ungeprüften Aktenzeichen, keine BeckRS-Blindzitate, keine automatische Außenkommunikation, keine vertraulichen Informationen außerhalb des Need-to-know-Kreises.
+
+## Pruefraster im Gutachtenstil
+**Obersatz:** Zu prüfen ist, ob der im Skill bearbeitete Corporate-Schritt gesellschaftsrechtlich wirksam, registerfähig, organschaftlich vertretbar und für die Mandatsseite praktisch umsetzbar ist.
+
+**1. Mandats- und Rollenrahmen.** Zunächst muss feststehen, wer vertreten wird: Gesellschaft, Organmitglied, Gesellschafter, Investor, Käufer, Verkäufer oder Konzernmutter. Ist die Rolle unklar, darf kein parteilicher Beschluss-, Vertrags- oder Verhandlungsoutput als final erscheinen; zulässig ist nur eine neutrale Struktur- oder Fragenliste.
+
+**2. Zuständigkeit, Form und Corporate Authority.** Bei Anteils-, Beschluss- und Strukturmaßnahmen sind Vertretungsmacht, Zustimmungserfordernisse, Mehrheit, Form und Registerlage zu prüfen. Relevanter Kern:
+- BRAO § 43a, BORA § 3 und BRAO § 49b für Verschwiegenheit, Konflikt und Honorar.
+- GwG §§ 10 ff. für Mandatsannahme und wirtschaftlich Berechtigte.
+- DSGVO Art. 5, 6, 25 und 32 für Datenminimierung, Rollen und Sicherheit.
+- BGB §§ 611a, 675 und 280 für Beratungs- und Haftungsrahmen.
+
+**3. Organ- und Zuständigkeitsprüfung.** Nur wenn der konkrete Arbeitsschritt eine Organentscheidung vorbereitet, Zuständigkeit, Zustimmungsvorbehalte, Interessenkonflikte, Informationsgrundlage und Dokumentation prüfen. Der fachlich passende Haftungs- oder Board-Paper-Skill liefert die dafür einschlägige Rechtsprechung; ARAG/Garmenbeck ist kein Universalanker.
+
+**4. Register- und Gesellschafterlistenlogik.** Nur bei GmbH-Anteilen, Einziehung, Vollmachtskette oder streitiger Legitimation Paragraf 16 und 40 GmbHG sowie Registerstand und materielle Berechtigung getrennt prüfen. Ohne solche Title- oder Legitimationsfrage diesen Prüfstrang auslassen.
+
+**5. Vollzugshindernisse.** Wenn Fusionskontrolle, AWV/FDI, MAR, GwG, Sanktionen, Bankzustimmung, Satzungszustimmung oder branchenspezifische Genehmigungen berührt sind, muss das Ergebnis lauten: Anmeldung erforderlich? Vollzugsverbot? Registerhindernis? Beschlussmangel? Long-Stop-Date gefährdet? Bußgeld-, Nichtigkeits- oder Haftungsfolge?
+
+**6. Subsumtion.** Subsumtion erfolgt dokumentennah. Beispiel: `§ 15 GmbHG notarielle Form erfüllt?` nur bejahen, wenn Entwurf/Urkunde/Notarbestätigung vorliegt. `§ 46 GmbHG Zustimmung erforderlich?` nur bejahen, wenn Satzung, Geschäftsordnung und Maßnahme geprüft sind.
+
+**Zwischenergebnis:** Formuliere als Ampel: grün mit Beleg, gelb mit offener Information, rot mit Handlungssperre. Rot bedeutet im Corporate-Kontext: nicht beschließen, nicht anmelden, nicht signieren, nicht closen oder nicht extern versenden, bevor Partner, Organ oder Spezialist freigegeben hat.
+
+## Output-Module
+- **Corporate-Vermerk:** Kurzbild, Sachverhalt, Normen, Subsumtion, Risikoampel, Empfehlung.
+- **Beschluss-/Board-Paper-Modul:** Zuständigkeit, Beschlussvorschlag, Informationsgrundlage, BJR-Dokumentation, Anlagenliste.
+- **Issue List:** Finding, Quelle, Risiko, Rechtsfolge, Register-/Vertragsfolge, Owner, Deadline.
+- **Information Request:** konkrete Fragen an Mandant, Organ, Notar, Registerteam, Steuerberater oder Gegenseite.
+- **Matter-Update:** kurzer Eintrag für `history.md` und ggf. Frist-/Owner-Eintrag für `fristen.yaml`.
+
+<!-- BEGIN ausformulierungspflicht (autogen) -->
+> **Ausformulierungspflicht und Formatstandard.** Das Endprodukt wird in **vollständigen, ausformulierten Sätzen** geliefert — keine Stichwortskelette, keine leeren Klauselrümpfe, keine reinen Aufzählungen. Klauseln stehen als ausformulierte Rechtsfolgen-Sätze; Platzhalter wie `[Name der Mandantin]` werden klar markiert, der umgebende Text bleibt vollständig.
+>
+> **Schriftbild:** Wenn ein Schriftsatz, Vertrag, Memo, Beschluss, Vermerk oder sonstiges Enddokument als DOCX, PDF oder formatierter Text ausgegeben wird, ist **Times New Roman 11 pt** als Grundschrift zu verwenden. Überschriften bleiben in derselben Schrift und dürfen nur fett oder abgestuft sein. Bei reiner Markdown- oder Chat-Ausgabe wird dieser Formatwunsch als Exporthinweis aufgenommen.
+>
+> **Nummerierung:** Gliederung ausschließlich dezimal (`1`, `1.1`, `1.1.1` und so weiter). Keine römischen Ziffern, keine Buchstaben- oder Mischgliederung.
+<!-- END ausformulierungspflicht (autogen) -->
+
+## Quellen und Zitierregel
+Nutze nur frei prüfbare Quellen oder vom Nutzer bereitgestellte/lizenzierte Quellen. Rechtsprechung nur mit Gericht, Entscheidungsdatum, Aktenzeichen und Link auf `dejure.org`, `openjur.de`, `bundesgerichtshof.de`, `bundesverfassungsgericht.de`, `curia.europa.eu` oder `eur-lex.europa.eu`. Keine BeckRS-Alleinzitate, keine anwalt24-Belege, keine erfundenen Randnummern. Quellen-Tags: `[Mandant]`, `[Register]`, `[BGH-Datenbank]`, `[dejure.org]`, `[EUR-Lex]`, `[Web-Recherche - prüfen]`, `[Modellwissen - prüfen]`.
+
+## Hand-Off zu anderen Skills
+Nach diesem Skill weiter mit:
+- `/corporate-kanzlei:corporate-kanzlei-deal-intake` - wenn ein neues Corporate- oder Transaktionsmandat vollständig aufgenommen werden muss.
+- `/corporate-kanzlei:corporate-kanzlei-matter-file` - wenn Gesellschaftsprofil, Workstreams, Fristen und Dokumentenlog in eine laufende Akte geschrieben werden sollen.
+- `/corporate-kanzlei:corporate-kanzlei-kommandocenter` - wenn mehrere Corporate-Workstreams konkurrieren und der nächste Primärpfad neu bestimmt werden muss.
+- `/corporate-kanzlei:corporate-kanzlei-steps-plan-pmo` - wenn Termine, Beschlüsse, CPs, Freigaben und Owner in einen belastbaren Plan müssen.
+- `/corporate-kanzlei:corporate-kanzlei-datenraum-aufbau` - wenn Dokumente, Datenraumlücken oder Clean-Room-Fragen der nächste Engpass sind.
+
+## Was dieser Skill nicht macht
+- Er ersetzt keine Partner-, Organ- oder Mandantenentscheidung über Beschluss, Signing, Registeranmeldung oder Closing.
+- Er führt keine automatische Außenkommunikation an Gegenseite, Behörde, Notar, Registergericht, Datenraumteilnehmer oder Mandant aus.
+- Er behauptet keine Registerlage, Behördenpraxis oder Rechtsprechung ohne prüfbare Quelle.
+- Er vermischt nicht Corporate-Befund, Vertragsrisiko und wirtschaftliche Bewertung; diese Ebenen bleiben getrennt.
+- Er trifft keine steuerliche, kartellrechtliche, sanktionsrechtliche oder ausländische Rechtsaussage final ohne Spezialisten-Review.
+- Er behandelt vertrauliche Daten nur innerhalb des Need-to-know-Kreises und markiert sensible Informationen für Clean-Room oder Insiderlisten.
+
+## Berufsrechtliche Hinweise
+Vor Mandatsarbeit sind Interessenkonflikte nach § 43a BRAO und § 3 BORA, Verschwiegenheit nach § 43a Abs. 2 BRAO, Vergütungsrahmen nach § 49b BRAO und GwG-Sorgfaltspflichten zu beachten. Bei personenbezogenen Daten gelten DSGVO Art. 5, 6, 25 und 32. Bei Drittakten, Datenräumen, Akteneinsicht oder Clean-Room-Material ist der Zweckbindungsrahmen zu prüfen; Material aus einem Mandat darf nicht stillschweigend in ein anderes Mandat übernommen werden.
+
+## Bisheriger Skill-Kern, integriert und weiterzuverwenden
+
+# Multijurisdiktionale Uebersetzungen und Dokumente
+
+## Triage — klaere vor Erstellung
+
+1. Welche Sprachen: Deutsch, Englisch, oder weitere Jurisdiktionen (FR, NL, PL)?
+2. Governing Language: Welche Sprachfassung ist verbindlich bei Widerspruechen?
+3. Notarieller Beglaubigungsbedarf: Notarielle Uebersetzung erforderlich (z.B. für ausl. Handelsregister)?
+4. Welche Terminologie-Konventionen: Deutsche Rechtsbegriffe, englisches Common-Law-Aequivalent, oder neutrale Begriffe?
+5. Wer prueft Uebersetzung: zugelassener Dolmetscher, Kanzlei, Mutterhaus?
+6. Wann muessen Dokumente vorliegen: Signing-Termin mit internationalem Notar?
+
+## Zentrale Normen
+
+- **§ 184 GVG** — Gerichtssprache Deutsch; in deutschen Verfahren muss Schriftverkehr deutsch sein
+- **Art. 10 ff. EGBGB** — Internationales Privatrecht; Vertragsstatut; welche Rechtsordnung und Sprache gilt
+- **Art. 3 I Rom-I-VO (EG 593/2008)** — freie Rechtswahl; auch Sprachenwahl im internationalen Vertrag
+- **§ 189 ZPO** — Vorlage von Urkunden in Originalsprache; Uebersetzung als Anlage
+- **§ 30 BeurkG** — notarielle Urkunden muessen in Deutschland in deutscher Sprache errichtet werden; Zweisprachigkeit moeglich (§ 5 BeurkG)
+
+## Quellenregel
+
+Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
+## Terminologie-Mapping: Deutsch / Englisch
+
+| Deutscher Begriff | Englische Entsprechung (DE-Recht-Bezug) | Common Law-Aequivalent |
+|---|---|---|
+| Gesellschaft mit beschraenkter Haftung (GmbH) | limited liability company (GmbH) | private limited company (Ltd.) [UK] |
+| Aktiengesellschaft (AG) | stock corporation (AG) | public limited company (plc) [UK] |
+| Geschaeftsfuehrer | managing director | managing director [UK]; CEO/president [US] |
+| Hauptversammlung | general meeting | general meeting [UK]; shareholder meeting [US] |
+| Aufsichtsrat | supervisory board | board of directors (if one-tier) |
+| Gewinnabfuehrungsvertrag | profit and loss transfer agreement | (no direct equivalent) |
+| Handelsregister | commercial register | Companies House [UK]; business register |
+| Verschmelzung | merger (by way of absorption) | merger [US]; amalgamation [UK] |
+| Ausgliederung | hive-down (contribution in kind) | hive-down [UK] |
+| Gesamtrechtsnachfolge | universal succession | not a common-law concept |
+
+## Governing-Language-Klausel
+
+Empfohlene Formulierung (SPA):
+> "This Agreement has been prepared in the German language, which shall be the authoritative and governing language for all purposes, including in the event of any dispute or ambiguity. Any translation into another language is for convenience only and shall not affect the interpretation of this Agreement."
+
+Gegenformulierung (Kaeufer bevorzugt English):
+> "This Agreement is prepared in both the German and English language. In the event of any inconsistency between the two versions, the English version shall prevail."
+
+## Schritt-fuer-Schritt-Workflow
+
+1. **Sprachanforderungen klaeren** — Governing Language, Uebersetzungsbedarf, Notarpflicht
+2. **Erstfassung erstellen** — immer in Mutterrechtssprache; dann Uebersetzung
+3. **Terminologie-Check** — kritische Rechtsbegriffe einheitlich uebersetzen
+4. **Vier-Augen-Pruefung** — muttersprachlicher Anwalt oder Dolmetscher mit Rechtskenntnissen
+5. **Konsistenzcheck** — alle Definitionen in beiden Sprachfassungen identisch
+6. **Governing Language definieren** — explizite Klausel einfuegen
+7. **Beglaubigung pruefen** — wenn auslaendisches Register: vereidigter Dolmetscher erforderlich
+
+## Output-Template Zweisprachige Vollmacht (Ausschnitt)
+
+```
+VOLLMACHT / POWER OF ATTORNEY
+
+Der Unterzeichner, [NAME], handelnd als Geschaeftsfuehrer / The undersigned, [NAME], acting as managing director
+der [FIRMA GmbH] / of [FIRMA GmbH]
+erteilt hiermit / hereby grants
+
+[BEVOLLMAECHTIGTER NAME] / [NAME OF ATTORNEY-IN-FACT]
+
+folgende Vollmacht / the following power of attorney:
+
+...den Kaufvertrag ueber alle Geschaeftsanteile zu unterzeichnen und alle Massnahmen
+zu ergreifen, die fuer den Vollzug der Transaktion erforderlich sind...
+
+...to sign the share purchase agreement for all shares and to take all actions
+required for the completion of the transaction...
+
+Diese Vollmacht ist in der deutschen Sprache abgefasst; die englische Uebersetzung
+dient nur zur Information. Im Zweifelsfall gilt die deutsche Fassung.
+/ This power of attorney is drawn up in German; the English translation is for information
+purposes only. In case of doubt, the German version shall prevail.
+
+[ORT / PLACE], [DATUM / DATE]
+[UNTERSCHRIFT / SIGNATURE]
+```
+
+## Rote Schwellen
+
+- Keine Governing-Language-Klausel → Auslegungsstreit bei Widerspruechen zwischen Sprachfassungen
+- Terminologie inkonsistent (z.B. Aufsichtsrat mal supervisory board, mal board of directors) → Auslegungsrisiko
+- Eigene Kanzlei-Uebersetzung fuer ausl. Handelsregister → nicht verwendbar ohne beeidigten Dolmetscher
+- Zeitdruck: Uebersetzung ohne angemessene Pruefung → Fehler in bindenden Dokumenten
+
+## Quellen
+
+- § 184 GVG; Art. 3 Rom-I-VO; Art. 10 ff. EGBGB; § 30 BeurkG
+- Quellenregel: Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff; keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen.
+
+> Quellenregel: Entscheidungen nur nach Prüfung einer amtlichen oder frei zugänglichen Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage ausgeben.
+
+---
+
+## Skill: `beirat-gmbh-zustimmungskatalog`
+
+_Für GmbH-Beirat: Zustimmungskatalog, Konfliktmatrix und Satzungslogik: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt. Fachgebiet: Corporate-Kanzlei. Route: beirat-gmbh-zustimmungskatalog._
+
+# GmbH-Beirat: Zustimmungskatalog, Konfliktmatrix und Satzungslogik
+
+## Kernproblem
+Der GmbH-Beirat ist Vertragstechnik mit Organwirkungspotenzial. Der Skill hilft, einen Beirat nicht als Dekoration, sondern als präzise Governance-Maschine zu bauen: mächtig genug für Kontrolle, nicht so mächtig, dass Geschäftsführung, Haftung und Finanzierung blockieren.
+
+## Prüfpunkte
+1. Kompetenzquelle: Satzung, Geschäftsordnung, Shareholders' Agreement, Stimmbindung.
+2. Zustimmungskatalog: Budget, Capex, Debt, M&A, IP, Litigation, Related Party, Geschäftsführerbestellung, Insolvenzantrag.
+3. Mehrheit: einfache Mehrheit, qualifizierte Mehrheit, Investor Consent, Vetorecht, Deadlock-Mechanismus.
+4. Haftung/D&O: Organnähe, Informationsgrundlage, Protokoll, Interessenkonflikte.
+5. Exit/Finanzierung: Drag/Tag, Liquidation Preference, Reserved Matters, Bank Covenants.
+
+## Powersprint-Vertiefung
+
+- **Konkreter Arbeitsauftrag:** `GmbH-Beirat: Zustimmungskatalog, Konfliktmatrix und Satzungslogik` immer als eigenes Fachproblem behandeln: Rolle, Ziel, Frist, Zuständigkeit, Beleglage und gewünschten Output trennen.
+- **Normen- und Quellenradar:** Tragende Normen, Behördenpraxis und Rechtsprechung nur verwenden, wenn sie aus der Akte, amtlicher Quelle oder frei prüfbarer Quelle belastbar sind.
+- **Fehlerbremse:** Keine allgemeinen Einstiegssätze, wenn schon ein Spezialproblem vorliegt; stattdessen direkt mit Matrix `Tatbestand / Beleg / Risiko / Gegenargument / nächster Schritt` arbeiten.
+- **Output:** Kurzmemo, Prüfraster, Dokumententwurf, Fristenliste oder Rückfragenliste mit höchstens einer wirklich entscheidenden Rückfrage.
+
+---
+
 ## Skill: `agio-und-kapitalerhoehungsstruktur`
 
-_Wenn es um Agio und Kapitalerhöhungsstruktur in der Corporate-Praxis in Corporate-Kanzlei geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik. Auswahlstichwort: Agio Und Kapitalerhoehungsstruktur; Arbeitsfeld: Corporate-Kanzlei._
+_Für Agio und Kapitalerhöhungsstruktur in der Corporate-Praxis: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt. Fachgebiet: Corporate-Kanzlei. Route: agio-und-kapitalerhoehungsstruktur._
 
 # Agio und Kapitalerhöhungsstruktur in der Corporate-Praxis
 
@@ -635,11 +886,11 @@ Kein Term-Sheet-Markup geht an den Investor Counsel bevor der Senior das Agio-Ko
 
 ---
 
-## Skill: `npl-distressed-outside-target`
+## Skill: `freundlicher-copilot-gesellschaftsrecht`
 
-_Wenn es um Corporate: NPL und Distressed Loan Transfer in Corporate-Kanzlei geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt. Auswahlstichwort: Npl Distressed Outside Target; Arbeitsfeld: Corporate-Kanzlei._
+_Für Freundlicher Corporate-Copilot: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Schnittstellenkarte mit Zuständigkeits- und Nachweisfragen. Fachgebiet: Corporate-Kanzlei. Route: freundlicher-copilot-gesellschaftsrecht._
 
-# Corporate: NPL und Distressed Loan Transfer
+# Freundlicher Corporate-Copilot
 
 ## Arbeitsweg
 
@@ -650,264 +901,21 @@ _Wenn es um Corporate: NPL und Distressed Loan Transfer in Corporate-Kanzlei geh
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
 ## Fachlicher Kern — Gesellschaftsrecht und Corporate Law
-- **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `Corporate: NPL und Distressed Loan Transfer` und löse die dort angelegte Fachfrage; arbeite mit konkreten Tatbestandsmerkmalen, Beweisfragen und dem unmittelbar benötigten Arbeitsprodukt. Routingfragen bleiben Hilfsmittel, wenn Frist, Zuständigkeit oder Verfahrensart offen sind.
+- **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `Freundlicher Corporate-Copilot` und löse die dort angelegte Fachfrage; arbeite mit konkreten Tatbestandsmerkmalen, Beweisfragen und dem unmittelbar benötigten Arbeitsprodukt. Routingfragen bleiben Hilfsmittel, wenn Frist, Zuständigkeit oder Verfahrensart offen sind.
 - **Arbeitsmodus:** Erst Gesellschaftsform, Organ, Beschlussweg, Vertretung, Registerlage, wirtschaftliches Ziel und Minderheitenposition sortieren; dann Treuepflicht, Kapitalerhaltung, Haftung, Transaktions-Closing und Beweis-/Vollzugsrisiko prüfen.
 - **Outputpflicht:** Beschluss-/Listenmatrix, Register-To-do, Board-/Beiratsvorlage, Closing-CP-Liste, Treuepflicht-Red-Team, Geschäftsführerhaftungsmemo oder Mandanten-Decision-Paper.
 - **Fehlerbremse:** Tragende Normen/Entscheidungen live oder aus der Akte verifizieren; Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei prüfbarer Quelle. Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen.
 
-## Wofür dieser Arbeitsgang da ist
+## Fachkern: Freundlicher Corporate-Copilot
 
-Fokus auf PE/Distressed-Investoren, Banken, Portfoliounternehmen und Loan-to-own-Szenarien.
-
-## Rechts- und Praxisanker
-
-Kreditzweitmarktgesetz, BGB Abtretung, DSGVO, Sicherheiten, InsO/StaRUG, ZVG.
-
-## Workflow
-
-1. Hochgeladenes Finanzierungsdokument, Schuldschein, Transfer Notice, LMA Facility Agreement oder NPL-Portfolio zuerst identifizieren.
-2. Parteiperspektive, Deal-Ziel, Fristen, Consent-Erfordernisse, Sicherheiten und Datenschutzfragen klären.
-3. Übertragungsweg, Rechtswirkung, offene Dokumente und Risiken in einer Closing-/Verfahrensmatrix darstellen.
-4. Bei Insolvenz-/Krisenbezug Rang, Anfechtung, Planrechte, Enforcement und Geschäftsleiterpflichten gesondert prüfen.
-
-## Qualitätsgate
-
-- Keine Blindzitate: Rechtsprechung, Behördenpraxis und Schwellenwerte vor tragender Aussage live anhand amtlicher oder frei zugänglicher Quellen prüfen.
-- Keine LMA-, Banken- oder Fondsformularsprache nacherzählen: Nutzer soll das aktuelle Dokument hochladen; der Skill arbeitet dann am konkreten Text.
-- Jede Annahme sichtbar markieren, insbesondere Zahlen, Fristen, regulatorische Rollen, Genehmigungsstand und Parteiperspektive.
-
----
-
-## Skill: `restructuring-starug`
-
-_Entscheidet aus Corporate-Sicht zwischen freier Sanierung, StaRUG-Plan und Insolvenzplan. Verknüpft Insolvenzstatus, Finanzierungs- und Sicherheitenstruktur, Planbetroffenheit, Gruppenmehrheiten, Organbeschlüsse, Kapitalmaßnahmen, M&A-Vollzug und Haftungsdokumentation zu einem Board-Paper und umsetzbaren Transaktionsfahrplan._
-
-# 1. Corporate Restructuring mit StaRUG und Insolvenzplan
-
-## 1.1. Arbeitsstart
-
-Lies Finanzmodell, Kredit- und Intercreditor-Verträge, Sicherheiten, Gesellschaftervereinbarung, Organprotokolle und Transaktionsentwurf. Liefere zuerst ein Board-Paper mit Verfahrensroute, Insolvenzampel, erforderlichen Beschlüssen, Gläubigermehrheiten und Long-Stop-Datum.
-
-## 1.2. Drei Verfahrensrouten
-
-| Route | Voraussetzung | Bindungswirkung | Corporate-Schwerpunkt |
-| --- | --- | --- | --- |
-| freie Einigung | Zustimmung aller betroffenen Vertragspartner | nur vertraglich | Waiver, Standstill, neue Finanzierung |
-| StaRUG-Plan | drohende Zahlungsunfähigkeit für gerichtliche Instrumente | nach Bestätigung auch gegenüber ordnungsgemäß beteiligten Ablehnenden | selektive Finanzrestrukturierung, Kapitalmaßnahmen |
-| Insolvenzplan | eröffnetes Insolvenzverfahren | mit Rechtskraft der Bestätigung für Beteiligte | umfassende Entschuldung, Eigenverwaltung, M&A |
-
-Öffentliche Bekanntmachungen in der Restrukturierungssache erfolgen nach Paragraf 84 StaRUG nur auf Antrag des Schuldners. Vertraulichkeit ist daher möglich, aber nicht als absolut oder für jeden grenzüberschreitenden Anerkennungsbedarf zu versprechen.
-
-## 2. Krisen- und Organprüfung
-
-1. Paragraf 17 InsO: aktueller Liquiditätsstatus und Drei-Wochen-Sicht.
-2. Paragraf 18 Absatz 2 InsO: regelmäßige 24-Monats-Prognose.
-3. Paragraf 19 InsO: Überschuldung und Fortführungsprognose.
-4. Paragraf 15a InsO: Antrag ohne schuldhaftes Zögern, höchstens drei Wochen bei Zahlungsunfähigkeit und sechs Wochen bei Überschuldung.
-5. Paragraf 15b InsO: Zahlungen nach Insolvenzreife.
-6. Paragraf 1 StaRUG: Krisenüberwachung, Gegenmaßnahmen und Organbericht.
-
-Das Board-Paper trennt Erkenntnisdatum, Beschlussdatum, Maßnahme, Verantwortlichen und Beleg. Dokumentation ersetzt keine tragfähige Statusprüfung.
-
-## 3. StaRUG-Transaktionsarchitektur
-
-### 3.1. Planreichweite
-
-Gestaltbare Forderungen, Sicherheiten, mehrseitige Finanzierungsbedingungen, Beteiligungsrechte und gruppeninterne Drittsicherheiten richten sich nach Paragrafen 2 und 3 StaRUG. Arbeitnehmerforderungen einschließlich betrieblicher Altersversorgung und die weiteren Rechte nach Paragraf 4 StaRUG sind ausgeschlossen.
-
-### 3.2. Plan und Gruppen
-
-1. Planstruktur nach Paragraf 5 StaRUG.
-2. Vergleichsrechnung und Maßnahmen nach Paragraf 6 StaRUG.
-3. Rechtsänderungen nach Paragraf 7 StaRUG.
-4. Auswahl nach Paragraf 8 StaRUG.
-5. Gruppen nach Paragraf 9 StaRUG.
-6. Gleichbehandlung nach Paragraf 10 StaRUG.
-7. Stimmrechte und Mehrheit nach Paragrafen 24 und 25 StaRUG.
-8. Cross-Class-Cram-Down nach Paragrafen 26 bis 28 StaRUG.
-
-Ein Debt-to-Equity-Swap gegen den Willen des betroffenen Gläubigers ist ausgeschlossen. Eingriffe in Anteilsrechte und Kapitalmaßnahmen sind mit Register-, Bewertungs-, Governance- und Steuerfolgen zu einem Closing-Paket zu verbinden.
-
-### 3.3. Gerichtliche Instrumente
-
-Paragraf 29 Absatz 2 StaRUG bezeichnet gerichtliche Planabstimmung, Vorprüfung, Stabilisierung und Bestätigung. Vor ihrer Nutzung ist das Vorhaben nach Paragraf 31 StaRUG anzuzeigen. Die Anzeige ist kein allgemeiner Eröffnungsantrag.
-
-Stabilisierungsdauer und Erweiterungen folgen Paragraf 53 StaRUG. Der Antrag benötigt nach Paragraf 50 StaRUG einen sechsmonatigen Finanzplan.
-
-## 4. Insolvenzplanvergleich
-
-| Thema | StaRUG | Insolvenzplan |
-| --- | --- | --- |
-| Planinhalt | Paragrafen 5 bis 15 StaRUG | Paragrafen 220 bis 230 InsO |
-| Gruppen | Paragraf 9 StaRUG | Paragraf 222 InsO |
-| Mehrheit | drei Viertel der Stimmrechte je Gruppe nach Paragraf 25 StaRUG | Kopf- und Summenmehrheit der Abstimmenden nach Paragraf 244 InsO |
-| Gruppenüberstimmung | Paragrafen 26 bis 28 StaRUG | Paragraf 245 InsO |
-| individueller Minderheitenschutz | Paragraf 64 StaRUG | Paragraf 251 InsO |
-| Bestätigung | Paragrafen 60 bis 67 StaRUG | Paragrafen 248 bis 253 InsO |
-| Wirkungszeitpunkt | mit Bestätigung nach Paragraf 67 Absatz 1 StaRUG | mit Rechtskraft nach Paragraf 254 InsO |
-
-## 5. Board-Paper
-
-```text
-1. Entscheidung
-[Route und beantragter Beschluss]
-
-2. Insolvenzstatus
-[Paragrafen 17 bis 19 InsO, Stichtag, Gutachten, offene Positionen]
-
-3. Finanzierung
-[Liquiditätsbedarf, Bridge, neue Finanzierung, Sicherheiten, Bedingungen]
-
-4. Planbetroffene und Gruppen
-[Beträge, Rang, Stimmrecht, Zustimmungsprognose]
-
-5. Corporate-Maßnahmen
-[Kapitalherabsetzung, Kapitalerhöhung, Übertragung, Register, Zustimmungen]
-
-6. M&A-Pfad
-[Share Deal, Asset Deal, Planvollzug, Freigaben, Long-Stop]
-
-7. Risiken
-[Antragspflicht, Bewertungsangriff, Minderheitenschutz, Steuer, Vollzug]
-
-8. Beschlussvorschlag
-[Maßnahme, Verantwortlicher, Termin, Rückfallroute]
-```
-
-## 6. Beweis- und Vollzugsmatrix
-
-| Thema | Beleg | Verantwortlicher | Fällig | Gegenposition |
-| --- | --- | --- | --- | --- |
-| drohende Zahlungsunfähigkeit | integrierte Liquiditätsplanung | [Name] | [Datum] | Finanzierung nicht gesichert |
-| Planwert | Unternehmensbewertung | [Name] | [Datum] | Ohne-Plan-Wert zu niedrig |
-| Gruppen | Rechts- und Rangmatrix | [Name] | [Datum] | taktische Zersplitterung |
-| Kapitalmaßnahme | Plantext und Registerpaket | [Name] | [Datum] | Form oder Bewertung fehlerhaft |
-| Drittbeitrag | unterzeichnete Verpflichtung und Finanzierungsnachweis | [Name] | [Datum] | freiwillig oder nicht werthaltig |
-
-## 7. Rechtsprechungsanker
-
-1. BVerfG, Beschluss vom 28.02.2025 - 1 BvR 418/25: Nichtannahme; keine materielle Billigung eines Restrukturierungsplans. Eine Beschwerde verlangt konkrete Darlegung wesentlicher Schlechterstellung und des Alternativverlaufs.
-2. BGH, Beschluss vom 23.04.2026 - IX ZB 18/25: Bei Insolvenzreife während der Restrukturierung trägt der Schuldner die Umstände für ein ausnahmsweises Absehen von der Aufhebung; rechtlich nicht gesicherte Drittbeiträge sind kein belastbarer Planbaustein.
-
-## 8. Fehlerbremse
-
-1. Keine automatische Nichtöffentlichkeit behaupten.
-2. Arbeitnehmer- und Betriebsrentenforderungen nicht in einen StaRUG-Plan aufnehmen.
-3. Paragraf 31 StaRUG als Anzeigevorschrift und Paragraf 29 StaRUG als Instrumentenkatalog verwenden.
-4. Paragraf 251 InsO als Antragsrecht auf Versagung bei Schlechterstellung, nicht als freie Ablehnung bezeichnen.
-5. Keine allgemeine Freistellung von Altverbindlichkeiten bei einem Asset Deal behaupten; Übernahme, Haftung und Arbeitsverhältnisse gesondert prüfen.
-6. Rechtsprechung und Steuerfolgen nur mit verifizierter Quelle verwenden.
-
----
-
-## Skill: `npl-distressed-loan`
-
-_Wenn es um Corporate: NPL und Distressed Loan Transfer in Corporate-Kanzlei geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt. Auswahlstichwort: Npl Distressed Loan; Arbeitsfeld: Corporate-Kanzlei._
-
-# Corporate: NPL und Distressed Loan Transfer
-
-## Fachlicher Anker
-
-- **Normen:** §§ 3, §§ 76, §§ 105.
-- **Entscheidungs-/Quellenanker:** Tragende Rechtsprechung nur mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle einsetzen; keine Entscheidung aus Modellwissen erzwingen.
-- **Quellenhygiene:** `references/quellenhygiene.md` und `references/zitierweise.md` beachten.
-
-## Wofür dieser Arbeitsgang da ist
-
-Fokus auf PE/Distressed-Investoren, Banken, Portfoliounternehmen und Loan-to-own-Szenarien.
-
-## Rechts- und Praxisanker
-
-Kreditzweitmarktgesetz, BGB Abtretung, DSGVO, Sicherheiten, InsO/StaRUG, ZVG.
-
-## Workflow
-
-1. Hochgeladenes Finanzierungsdokument, Schuldschein, Transfer Notice, LMA Facility Agreement oder NPL-Portfolio zuerst identifizieren.
-2. Parteiperspektive, Deal-Ziel, Fristen, Consent-Erfordernisse, Sicherheiten und Datenschutzfragen klären.
-3. Übertragungsweg, Rechtswirkung, offene Dokumente und Risiken in einer Closing-/Verfahrensmatrix darstellen.
-4. Bei Insolvenz-/Krisenbezug Rang, Anfechtung, Planrechte, Enforcement und Geschäftsleiterpflichten gesondert prüfen.
-
-## Qualitätsgate
-
-- Keine Blindzitate: Rechtsprechung, Behördenpraxis und Schwellenwerte vor tragender Aussage live anhand amtlicher oder frei zugänglicher Quellen prüfen.
-- Keine LMA-, Banken- oder Fondsformularsprache nacherzählen: Nutzer soll das aktuelle Dokument hochladen; der Skill arbeitet dann am konkreten Text.
-- Jede Annahme sichtbar markieren, insbesondere Zahlen, Fristen, regulatorische Rollen, Genehmigungsstand und Parteiperspektive.
-
----
-
-## Skill: `schuldschein-darlehen-signing-closing`
-
-_Wenn es um Corporate: Schuldscheindarlehen und Übertragung in Corporate-Kanzlei geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert einen Einreichungsplan mit Form-, Portal- und Nachweischeck. Auswahlstichwort: Schuldschein Darlehen Signing Closing; Arbeitsfeld: Corporate-Kanzlei._
-
-# Corporate: Schuldscheindarlehen und Übertragung
-
-## Arbeitsweg
-
-- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
-- Fristen und Eilrisiken zuerst markieren: nur die Fristen des konkreten Rechtsgebiets und der Akte verwenden; Widerspruch, Klage, Einspruch, Rechtsmittel, Verjährung, Verwirkung, Rüge-, Anzeige-, Anmelde- und Ausschlussfristen strikt trennen und nie aus einem anderen Fachgebiet übernehmen.
-- Tragende Normen verifizieren: BRAO, BORA, FAO, BNotO, StBerG, WPO, PAO; AO §§ 38, 42, 90, 93, 153, 162, 164, 169-171, 173, 233a, 370-378, UStG, EStG, KStG, GewStG, GrEStG, ErbStG, FGO; StaRUG — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
-- Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
-- Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
-
-## Fachlicher Kern — Gesellschaftsrecht und Corporate Law
-- **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `Corporate: Schuldscheindarlehen und Übertragung` und löse die dort angelegte Fachfrage; arbeite mit konkreten Tatbestandsmerkmalen, Beweisfragen und dem unmittelbar benötigten Arbeitsprodukt. Routingfragen bleiben Hilfsmittel, wenn Frist, Zuständigkeit oder Verfahrensart offen sind.
-- **Arbeitsmodus:** Erst Gesellschaftsform, Organ, Beschlussweg, Vertretung, Registerlage, wirtschaftliches Ziel und Minderheitenposition sortieren; dann Treuepflicht, Kapitalerhaltung, Haftung, Transaktions-Closing und Beweis-/Vollzugsrisiko prüfen.
-- **Outputpflicht:** Beschluss-/Listenmatrix, Register-To-do, Board-/Beiratsvorlage, Closing-CP-Liste, Treuepflicht-Red-Team, Geschäftsführerhaftungsmemo oder Mandanten-Decision-Paper.
-- **Fehlerbremse:** Tragende Normen/Entscheidungen live oder aus der Akte verifizieren; Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei prüfbarer Quelle. Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen.
-
-## Wofür dieser Arbeitsgang da ist
-
-Schuldschein ist kein dekoratives Treasury-Label, sondern ein übertragbarer Finanzierungsbaustein mit Dokumenten-, Vertraulichkeits- und Sicherheitenlogik.
-
-## Rechts- und Praxisanker
-
-BGB §§ 398 ff., § 399, Darlehensrecht, Schuldscheinbedingungen Upload, Sicherheitenrecht, Datenschutz/Bankgeheimnis.
-
-## Workflow
-
-1. Hochgeladenes Finanzierungsdokument, Schuldschein, Transfer Notice, LMA Facility Agreement oder NPL-Portfolio zuerst identifizieren.
-2. Parteiperspektive, Deal-Ziel, Fristen, Consent-Erfordernisse, Sicherheiten und Datenschutzfragen klären.
-3. Übertragungsweg, Rechtswirkung, offene Dokumente und Risiken in einer Closing-/Verfahrensmatrix darstellen.
-4. Bei Insolvenz-/Krisenbezug Rang, Anfechtung, Planrechte, Enforcement und Geschäftsleiterpflichten gesondert prüfen.
-
-## Qualitätsgate
-
-- Keine Blindzitate: Rechtsprechung, Behördenpraxis und Schwellenwerte vor tragender Aussage live anhand amtlicher oder frei zugänglicher Quellen prüfen.
-- Keine LMA-, Banken- oder Fondsformularsprache nacherzählen: Nutzer soll das aktuelle Dokument hochladen; der Skill arbeitet dann am konkreten Text.
-- Jede Annahme sichtbar markieren, insbesondere Zahlen, Fristen, regulatorische Rollen, Genehmigungsstand und Parteiperspektive.
-
----
-
-## Skill: `translations-multijurisdictional`
-
-_Wenn es um Multijurisdiktionale Übersetzungen und Dokumente in Corporate-Kanzlei geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen. Auswahlstichwort: Translations Multijurisdictional; Arbeitsfeld: Corporate-Kanzlei._
-
-# Multijurisdiktionale Übersetzungen und Dokumente
-
-## Arbeitsweg
-
-- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
-- Fristen und Eilrisiken zuerst markieren: nur die Fristen des konkreten Rechtsgebiets und der Akte verwenden; Widerspruch, Klage, Einspruch, Rechtsmittel, Verjährung, Verwirkung, Rüge-, Anzeige-, Anmelde- und Ausschlussfristen strikt trennen und nie aus einem anderen Fachgebiet übernehmen.
-- Tragende Normen verifizieren: BRAO, BORA, FAO, BNotO, StBerG, WPO, PAO; AO §§ 38, 42, 90, 93, 153, 162, 164, 169-171, 173, 233a, 370-378, UStG, EStG, KStG, GewStG, GrEStG, ErbStG, FGO; StaRUG — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
-- Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
-- Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
-
-## Fachlicher Kern — Gesellschaftsrecht und Corporate Law
-- **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `Multijurisdiktionale Uebersetzungen und Dokumente` und löse die dort angelegte Fachfrage; arbeite mit konkreten Tatbestandsmerkmalen, Beweisfragen und dem unmittelbar benötigten Arbeitsprodukt. Routingfragen bleiben Hilfsmittel, wenn Frist, Zuständigkeit oder Verfahrensart offen sind.
-- **Arbeitsmodus:** Erst Gesellschaftsform, Organ, Beschlussweg, Vertretung, Registerlage, wirtschaftliches Ziel und Minderheitenposition sortieren; dann Treuepflicht, Kapitalerhaltung, Haftung, Transaktions-Closing und Beweis-/Vollzugsrisiko prüfen.
-- **Outputpflicht:** Beschluss-/Listenmatrix, Register-To-do, Board-/Beiratsvorlage, Closing-CP-Liste, Treuepflicht-Red-Team, Geschäftsführerhaftungsmemo oder Mandanten-Decision-Paper.
-- **Fehlerbremse:** Tragende Normen/Entscheidungen live oder aus der Akte verifizieren; Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei prüfbarer Quelle. Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen.
-
-## Fachkern: Multijurisdiktionale Übersetzungen und Dokumente
-
-- **Corporate-Aufgabe (Multijurisdiktionale Übersetzungen und Dokumente):** Internationale M&A-Transaktion erfordert konsistente Terminologie in beiden Sprachen.
+- **Corporate-Aufgabe (Freundlicher Corporate-Copilot):** Einstiegshilfe für alle Corporate/M&A-Aufgaben. Erklärt Fachbegriffe, gibt Überblicke zu Transaktionsstrukturen, beantwortet Erstfragen und leitet zu passenden Fach-Skills weiter.
 - **Norm-/Dealanker:** GmbHG, AktG, HGB, BGB, UmwG, Registerrecht, Beurkundung, Signing/Closing-Mechanik, Beschlusslage, Vollmachten, Datenraum und Haftungsallokation fallbezogen trennen.
 - **Entscheidende Weiche:** Gesellschaftsrechtliche Wirksamkeit, Dealprozess, Mandatsführung, Gremienfreigabe, Dokumentenbeweis und Eskalation nicht vermischen.
 - **Arbeitsprodukt:** Partnerfähiges Memo, Closing-/Action-Liste, Redline-Hinweis oder PMO-Board mit Verantwortlichen und Blockern.
 
 ## Wann wird dieser Skill aufgerufen
 Typische Auslöser:
-- "Ich habe hier Multijurisdiktionale Übersetzungen und Dokumente und brauche einen belastbaren nächsten Schritt."
+- "Ich habe hier Freundlicher Corporate-Copilot und brauche einen belastbaren nächsten Schritt."
 - "Bitte prüfe das aus Sicht der Gesellschaft, Geschäftsführung, Gesellschafter oder Inhouse-Rechtsabteilung."
 - "Mach daraus eine Beschlussvorlage, Partnernotiz, Mandantenmail oder Organunterlage."
 - "Welche Register-, Beschluss-, Compliance- oder Fristpunkte fehlen noch?"
@@ -964,14 +972,6 @@ Arbeite mit diesen Variablen: `gesellschaft`, `rolle`, `organ`, `beschlussdatum`
 - **Information Request:** konkrete Fragen an Mandant, Organ, Notar, Registerteam, Steuerberater oder Gegenseite.
 - **Matter-Update:** kurzer Eintrag für `history.md` und ggf. Frist-/Owner-Eintrag für `fristen.yaml`.
 
-<!-- BEGIN ausformulierungspflicht (autogen) -->
-> **Ausformulierungspflicht und Formatstandard.** Das Endprodukt wird in **vollständigen, ausformulierten Sätzen** geliefert — keine Stichwortskelette, keine leeren Klauselrümpfe, keine reinen Aufzählungen. Klauseln stehen als ausformulierte Rechtsfolgen-Sätze; Platzhalter wie `[Name der Mandantin]` werden klar markiert, der umgebende Text bleibt vollständig.
->
-> **Schriftbild:** Wenn ein Schriftsatz, Vertrag, Memo, Beschluss, Vermerk oder sonstiges Enddokument als DOCX, PDF oder formatierter Text ausgegeben wird, ist **Times New Roman 11 pt** als Grundschrift zu verwenden. Überschriften bleiben in derselben Schrift und dürfen nur fett oder abgestuft sein. Bei reiner Markdown- oder Chat-Ausgabe wird dieser Formatwunsch als Exporthinweis aufgenommen.
->
-> **Nummerierung:** Gliederung ausschließlich dezimal (`1`, `1.1`, `1.1.1` und so weiter). Keine römischen Ziffern, keine Buchstaben- oder Mischgliederung.
-<!-- END ausformulierungspflicht (autogen) -->
-
 ## Quellen und Zitierregel
 Nutze nur frei prüfbare Quellen oder vom Nutzer bereitgestellte/lizenzierte Quellen. Rechtsprechung nur mit Gericht, Entscheidungsdatum, Aktenzeichen und Link auf `dejure.org`, `openjur.de`, `bundesgerichtshof.de`, `bundesverfassungsgericht.de`, `curia.europa.eu` oder `eur-lex.europa.eu`. Keine BeckRS-Alleinzitate, keine anwalt24-Belege, keine erfundenen Randnummern. Quellen-Tags: `[Mandant]`, `[Register]`, `[BGH-Datenbank]`, `[dejure.org]`, `[EUR-Lex]`, `[Web-Recherche - prüfen]`, `[Modellwissen - prüfen]`.
 
@@ -996,208 +996,256 @@ Vor Mandatsarbeit sind Interessenkonflikte nach § 43a BRAO und § 3 BORA, Versc
 
 ## Bisheriger Skill-Kern, integriert und weiterzuverwenden
 
-### Multijurisdiktionale Übersetzungen und Dokumente
+### Freundlicher Corporate-Copilot
 
-## Triage — klaere vor Erstellung
+## Haeufige Erstfragen und kurze Antworten
 
-1. Welche Sprachen: Deutsch, Englisch, oder weitere Jurisdiktionen (FR, NL, PL)?
-2. Governing Language: Welche Sprachfassung ist verbindlich bei Widerspruechen?
-3. Notarieller Beglaubigungsbedarf: Notarielle Übersetzung erforderlich (z.B. für ausl. Handelsregister)?
-4. Welche Terminologie-Konventionen: Deutsche Rechtsbegriffe, englisches Common-Law-Äquivalent, oder neutrale Begriffe?
-5. Wer prüft Übersetzung: zugelassener Dolmetscher, Kanzlei, Mutterhaus?
-6. Wann müssen Dokumente vorliegen: Signing-Termin mit internationalem Notar?
+### Was ist ein Share Deal vs. Asset Deal?
+- **Share Deal:** Kaeufer erwirbt Anteile der Gesellschaft. Alle Verbindlichkeiten gehen mit. Steuerneutral für Verkaefer (§ 8b KStG). GmbH: notariell (§ 15 GmbHG).
+- **Asset Deal:** Kaeufer erwirbt einzelne Wirtschaftsgueter. Verbindlichkeiten nur soweit vereinbart. § 613a BGB beachten. Steuerlich: AfA-Neustart möglich für Kaeufer.
 
-## Zentrale Normen
+### Was ist eine MAC-Klausel?
 
-- **§ 184 GVG** — Gerichtssprache Deutsch; in deutschen Verfahren muss Schriftverkehr deutsch sein
-- **Art. 10 ff. EGBGB** — Internationales Privatrecht; Vertragsstatut; welche Rechtsordnung und Sprache gilt
-- **Art. 3 I Rom-I-VO (EG 593/2008)** — freie Rechtswahl; auch Sprachenwahl im internationalen Vertrag
-- **§ 189 ZPO** — Vorlage von Urkunden in Originalsprache; Übersetzung als Anlage
-- **§ 30 BeurkG** — notarielle Urkunden müssen in Deutschland in deutscher Sprache errichtet werden; Zweisprachigkeit möglich (§ 5 BeurkG)
+### Was ist die Business Judgment Rule (BJR)?
+§ 93 I 2 AktG: Vorstand haftet nicht bei unternehmerischen Entscheidungen, wenn er angemessen informiert im Unternehmensinteresse gehandelt hat. Wichtig: Board Paper erstellen; Informationsgrundlage dokumentieren.
 
-## Terminologie-Mapping: Deutsch / Englisch
+### Was ist W&I-Versicherung?
+Warranty & Indemnity Insurance sichert Garantie-Verletzungsansprueche gegen den Versicherer ab. Kaeufer-Policy: Kaeufer klagt direkt Versicherer. Sinnvoll ab ca. 15-20 Mio. EUR EV. Praemie: ca. 1 % der Versicherungssumme.
 
-| Deutscher Begriff | Englische Entsprechung (DE-Recht-Bezug) | Common Law-Äquivalent |
-|---|---|---|
-| Gesellschaft mit beschraenkter Haftung (GmbH) | limited liability company (GmbH) | private limited company (Ltd.) [UK] |
-| Aktiengesellschaft (AG) | stock corporation (AG) | public limited company (plc) [UK] |
-| Geschäftsführer | managing director | managing director [UK]; CEO/president [US] |
-| Hauptversammlung | general meeting | general meeting [UK]; shareholder meeting [US] |
-| Aufsichtsrat | supervisory board | board of directors (if one-tier) |
-| Gewinnabfuehrungsvertrag | profit and loss transfer agreement | (no direct equivalent) |
-| Handelsregister | commercial register | Companies House [UK]; business register |
-| Verschmelzung | merger (by way of absorption) | merger [US]; amalgamation [UK] |
-| Ausgliederung | hive-down (contribution in kind) | hive-down [UK] |
-| Gesamtrechtsnachfolge | universal succession | not a common-law concept |
+### Was ist ein Squeeze-Out?
+Mehrheitsaktionaer mit >95 % (AktG §§ 327a-f) kann Minderheitsaktionaere gegen Barabfindung ausschliessen. Spruchverfahren möglich. WpUeG-Squeeze-Out: nach Uebernahme ab 90 % (§§ 39a-c WpUeG).
 
-## Governing-Language-Klausel
+### Was ist Locked Box vs. Closing Accounts?
+- **Locked Box:** Kaufpreis fixiert auf historische Bilanz; Leakage-Schutz; einfacher
+- **Closing Accounts:** Kaufpreis passt sich an tatsaechliche Bilanz beim Closing an; genauer; mehr Streitpotenzial
 
-Empfohlene Formulierung (SPA):
-> "This Agreement has been prepared in the German language, which shall be the authoritative and governing language for all purposes, including in the event of any dispute or ambiguity. Any translation into another language is for convenience only and shall not affect the interpretation of this Agreement."
+## Routing: Welcher Skill hilft weiter?
 
-Gegenformulierung (Kaeufer bevorzugt English):
-> "This Agreement is prepared in both the German and English language. In the event of any inconsistency between the two versions, the English version shall prevail."
-
-## Schritt-für-Schritt-Workflow
-
-1. **Sprachanforderungen klären** — Governing Language, Übersetzungsbedarf, Notarpflicht
-2. **Erstfassung erstellen** — immer in Mutterrechtssprache; dann Übersetzung
-3. **Terminologie-Check** — kritische Rechtsbegriffe einheitlich übersetzen
-4. **Vier-Augen-Prüfung** — muttersprachlicher Anwalt oder Dolmetscher mit Rechtskenntnissen
-5. **Konsistenzcheck** — alle Definitionen in beiden Sprachfassungen identisch
-6. **Governing Language definieren** — explizite Klausel einfuegen
-7. **Beglaubigung prüfen** — wenn ausländisches Register: vereidigter Dolmetscher erforderlich
-
-## Output-Template Zweisprachige Vollmacht (Ausschnitt)
-
-```
-VOLLMACHT / POWER OF ATTORNEY
-
-Der Unterzeichner, [NAME], handelnd als Geschaeftsfuehrer / The undersigned, [NAME], acting as managing director
-der [FIRMA GmbH] / of [FIRMA GmbH]
-erteilt hiermit / hereby grants
-
-[BEVOLLMAECHTIGTER NAME] / [NAME OF ATTORNEY-IN-FACT]
-
-folgende Vollmacht / the following power of attorney:
-
-...den Kaufvertrag ueber alle Geschaeftsanteile zu unterzeichnen und alle Massnahmen
-zu ergreifen, die für den Vollzug der Transaktion erforderlich sind...
-
-...to sign the share purchase agreement for all shares and to take all actions
-required for the completion of the transaction...
-
-Diese Vollmacht ist in der deutschen Sprache abgefasst; die englische Uebersetzung
-dient nur zur Information. Im Zweifelsfall gilt die deutsche Fassung.
-/ This power of attorney is drawn up in German; the English translation is for information
-purposes only. In case of doubt, the German version shall prevail.
-
-[ORT / PLACE], [DATUM / DATE]
-[UNTERSCHRIFT / SIGNATURE]
-```
+| Frage | Empfohlener Skill |
+|---|---|
+| Neues Mandat aufsetzen | `corporate-kanzlei-kaltstart` |
+| Due Diligence starten | `corporate-kanzlei-due-diligence-legal` |
+| SPA verhandeln | `corporate-kanzlei-spa-apa-entwurf` |
+| Kartell-/FDI-Check | `corporate-kanzlei-regulatory-fdi-merger-control` |
+| Closing vorbereiten | `corporate-kanzlei-signing-closing-conditions` |
+| GmbH-Gruendung | `gesellschaftsgruender-gmbh-vorbereitung` |
+| Gesellschafterstreit | `gesellschafterstreit-loesungsstrategie` |
+| GF-Haftung | `geschaeftsfuehrer-haftung-43-gmbhg` |
+| Konzernrecht | `gesellschaftsrecht-mandat-arbeitsbereich` |
 
 ## Rote Schwellen
 
-- Keine Governing-Language-Klausel → Auslegungsstreit bei Widerspruechen zwischen Sprachfassungen
-- Terminologie inkonsistent (z.B. Aufsichtsrat mal supervisory board, mal board of directors) → Auslegungsrisiko
-- Eigene Kanzlei-Übersetzung für ausl. Handelsregister → nicht verwendbar ohne beeidigten Dolmetscher
-- Zeitdruck: Übersetzung ohne angemessene Prüfung → Fehler in bindenden Dokumenten
-
-## Quellen
-
-- § 184 GVG; Art. 3 Rom-I-VO; Art. 10 ff. EGBGB; § 30 BeurkG
-- Quellenregel: Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff; keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen.
+- Unbekannte Materie → an Fach-Skill oder Senior Partner weiterleiten
+- Mandatsgeheimnis: keine vertraulichen Details an unberechtigte Dritte
+- Fristen immer mit Kalender absichern; Verjährung und CP-Fristen sind kritisch
 
 > Quellenregel: Entscheidungen nur nach Prüfung einer amtlichen oder frei zugänglichen Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage ausgeben.
 
 ---
 
-## Skill: `restructuring-starug-insolvenzplan`
+## Skill: `schuldschein-darlehen-signing-closing`
 
-_Vergleicht StaRUG- und Insolvenzplan transaktionsbezogen und führt die gewählte Route bis zum Closing. Prüft Status, Planreichweite, Gruppen, Mehrheiten, Minderheitenschutz, Organ- und Registermaßnahmen, Finanzierung, M&A-Schnittstellen und Vollzug. Liefert Route-Memo, Term Sheet, Closing- und Rückfallplan._
+_Für Corporate: Schuldscheindarlehen und Übertragung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt. Fachgebiet: Corporate-Kanzlei. Route: schuldschein-darlehen-signing-closing._
 
-# 1. StaRUG- oder Insolvenzplan als Transaktionsroute
+# Corporate: Schuldscheindarlehen und Übertragung
 
-## 1.1. Arbeitsauftrag
+## Arbeitsweg
 
-Ordne das vorhandene Restrukturierungs- oder M&A-Projekt einer belastbaren Route zu. Beginne mit Route-Memo und Closing-Kritikalität, nicht mit einer allgemeinen Krisenabfrage. Bei vorhandenen Dokumenten werden Finanzierungsbedingungen, Sicherheiten, Zustimmungen und Planmehrheiten unmittelbar ausgewertet.
+- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
+- Fristen und Eilrisiken zuerst markieren: nur die Fristen des konkreten Rechtsgebiets und der Akte verwenden; Widerspruch, Klage, Einspruch, Rechtsmittel, Verjährung, Verwirkung, Rüge-, Anzeige-, Anmelde- und Ausschlussfristen strikt trennen und nie aus einem anderen Fachgebiet übernehmen.
+- Tragende Normen verifizieren: BRAO, BORA, FAO, BNotO, StBerG, WPO, PAO; AO §§ 38, 42, 90, 93, 153, 162, 164, 169-171, 173, 233a, 370-378, UStG, EStG, KStG, GewStG, GrEStG, ErbStG, FGO; StaRUG — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
+- Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
+- Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
-## 1.2. Route-Matrix
+## Fachlicher Kern — Gesellschaftsrecht und Corporate Law
+- **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `Corporate: Schuldscheindarlehen und Übertragung` und löse die dort angelegte Fachfrage; arbeite mit konkreten Tatbestandsmerkmalen, Beweisfragen und dem unmittelbar benötigten Arbeitsprodukt. Routingfragen bleiben Hilfsmittel, wenn Frist, Zuständigkeit oder Verfahrensart offen sind.
+- **Arbeitsmodus:** Erst Gesellschaftsform, Organ, Beschlussweg, Vertretung, Registerlage, wirtschaftliches Ziel und Minderheitenposition sortieren; dann Treuepflicht, Kapitalerhaltung, Haftung, Transaktions-Closing und Beweis-/Vollzugsrisiko prüfen.
+- **Outputpflicht:** Beschluss-/Listenmatrix, Register-To-do, Board-/Beiratsvorlage, Closing-CP-Liste, Treuepflicht-Red-Team, Geschäftsführerhaftungsmemo oder Mandanten-Decision-Paper.
+- **Fehlerbremse:** Tragende Normen/Entscheidungen live oder aus der Akte verifizieren; Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei prüfbarer Quelle. Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen.
 
-| Kriterium | Freie Einigung | StaRUG-Plan | Insolvenzplan |
-| --- | --- | --- | --- |
-| Krisenstadium | jedes Stadium ohne entgegenstehende Antragspflicht | gerichtliche Instrumente bei drohender Zahlungsunfähigkeit | nach Eröffnung des Insolvenzverfahrens |
-| Beteiligtenkreis | vertraglich frei | sachgerecht ausgewählte gestaltbare Rechte | Beteiligte des Insolvenzverfahrens |
-| Mehrheitsbindung | nein | Paragrafen 25 bis 28 StaRUG | Paragrafen 244 und 245 InsO |
-| Minderheitenschutz | Vertragsrecht | Paragraf 64 StaRUG | Paragraf 251 InsO |
-| Corporate-Maßnahmen | reguläre Form und Beschlüsse | Planregeln einschließlich Paragraf 68 StaRUG | Insolvenzplanregeln |
-| Publizität | nach Vereinbarung | öffentliche Bekanntmachung nur auf Antrag nach Paragraf 84 StaRUG | insolvenzrechtliche Öffentlichkeit |
+## Wofür dieser Arbeitsgang da ist
 
-## 2. Status- und Haftungsgate
+Schuldschein ist kein dekoratives Treasury-Label, sondern ein übertragbarer Finanzierungsbaustein mit Dokumenten-, Vertraulichkeits- und Sicherheitenlogik.
 
-1. Paragraf 17 InsO mit Einzelposten und Drei-Wochen-Sicht.
-2. Paragraf 18 Absatz 2 InsO mit regelmäßiger 24-Monats-Prognose.
-3. Paragraf 19 InsO mit Vermögensstatus und Fortführungsprognose.
-4. Paragraf 15a InsO unverzüglich; maximal drei Wochen bei Zahlungsunfähigkeit und sechs Wochen bei Überschuldung.
-5. Paragraf 15b InsO für Zahlungen nach Insolvenzreife.
+## Rechts- und Praxisanker
 
-Eine Restrukturierungsanzeige oder Stabilisierung hemmt die Antragspflicht nicht.
+BGB §§ 398 ff., § 399, Darlehensrecht, Schuldscheinbedingungen Upload, Sicherheitenrecht, Datenschutz/Bankgeheimnis.
 
-## 3. StaRUG-Route
+## Workflow
 
-### 3.1. Plan und Abstimmung
+1. Hochgeladenes Finanzierungsdokument, Schuldschein, Transfer Notice, LMA Facility Agreement oder NPL-Portfolio zuerst identifizieren.
+2. Parteiperspektive, Deal-Ziel, Fristen, Consent-Erfordernisse, Sicherheiten und Datenschutzfragen klären.
+3. Übertragungsweg, Rechtswirkung, offene Dokumente und Risiken in einer Closing-/Verfahrensmatrix darstellen.
+4. Bei Insolvenz-/Krisenbezug Rang, Anfechtung, Planrechte, Enforcement und Geschäftsleiterpflichten gesondert prüfen.
 
-1. Gestaltbarkeit nach Paragrafen 2 bis 4 StaRUG.
-2. Planaufbau nach Paragrafen 5 bis 7 StaRUG.
-3. Auswahl, Gruppen und Gleichbehandlung nach Paragrafen 8 bis 10 StaRUG.
-4. Anlagen und verbindliche Drittbeiträge nach Paragrafen 14 und 15 StaRUG.
-5. Planangebot und Dokumentation nach Paragrafen 17 bis 22 StaRUG.
-6. Stimmrechte und Mehrheiten nach Paragrafen 24 und 25 StaRUG.
-7. Cross-Class-Cram-Down nach Paragrafen 26 bis 28 StaRUG.
+## Qualitätsgate
 
-Arbeitnehmerforderungen einschließlich betrieblicher Altersversorgung sind ausgeschlossen. Ein Debt-to-Equity-Swap gegen den Willen des Gläubigers ist nicht zulässig.
+- Keine Blindzitate: Rechtsprechung, Behördenpraxis und Schwellenwerte vor tragender Aussage live anhand amtlicher oder frei zugänglicher Quellen prüfen.
+- Keine LMA-, Banken- oder Fondsformularsprache nacherzählen: Nutzer soll das aktuelle Dokument hochladen; der Skill arbeitet dann am konkreten Text.
+- Jede Annahme sichtbar markieren, insbesondere Zahlen, Fristen, regulatorische Rollen, Genehmigungsstand und Parteiperspektive.
 
-### 3.2. Gerichtliche Route
+---
 
-Paragraf 29 StaRUG bezeichnet die Instrumente. Paragraf 31 StaRUG verlangt vor ihrer Nutzung die Anzeige. Stabilisierung richtet sich nach Paragrafen 49 bis 59 StaRUG, Bestätigung nach Paragrafen 60 bis 67 StaRUG.
+## Skill: `umwandlungsrecht-wi-insurance`
 
-## 4. Insolvenzplanroute
+_Für Umwandlungsrecht — Verschmelzung, Spaltung, Formwechsel: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt. Fachgebiet: Corporate-Kanzlei. Route: umwandlungsrecht-wi-insurance._
 
-1. Vorlageberechtigung und Zeitpunkt nach Paragraf 218 InsO.
-2. Darstellender Teil nach Paragraf 220 InsO.
-3. Gestaltender Teil nach Paragraf 221 InsO.
-4. Gruppen nach Paragraf 222 InsO.
-5. Kopf- und Summenmehrheit der Abstimmenden nach Paragraf 244 InsO.
-6. Gruppenüberstimmung nach Paragraf 245 InsO.
-7. Minderheitenschutz nach Paragraf 251 InsO.
-8. Bestätigung nach Paragraf 248 InsO und Wirkungen mit Rechtskraft nach Paragraf 254 InsO.
+# Umwandlungsrecht — Verschmelzung, Spaltung, Formwechsel
 
-Paragraf 245a InsO enthält eine besondere Vergleichsannahme für natürliche Personen mit beantragter Restschuldbefreiung. Er ist keine allgemeine absolute Prioritätsregel.
+## Arbeitsbereich
 
-## 5. Transaktions- und Closing-Plan
+Umwandlungsrecht: Begleitet Verschmelzung, Spaltung, Formwechsel und Vermögensuebertragung nach UmwG. Normen: §§ 2-122 UmwG (Verschmelzung), §§ 123-173 UmwG (Spaltung), §§ 190-304 UmwG (Formwechsel). Schlüsselentscheidungen BGH und BayObLG. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
-| Arbeitspaket | StaRUG oder InsO-Norm | Corporate-Dokument | Closing-Bedingung |
-| --- | --- | --- | --- |
-| Finanzierung | [Norm] | Commitment und Sicherheitenvertrag | Mittel verfügbar |
-| Forderungsgestaltung | [Norm] | Plan und Forderungsliste | Bestätigung oder Rechtskraft |
-| Kapitalmaßnahme | Paragrafen 7 und 68 StaRUG oder Insolvenzplan | Beschluss- und Registerpaket | Eintragung oder Planwirkung |
-| M&A-Vollzug | Plan und Kaufvertrag | SPA oder APA | Freigaben und Finanzierung |
-| Drittbeitrag | Paragraf 15 StaRUG | Verpflichtungserklärung | rechtsverbindlich und werthaltig |
-| Rückfallroute | Paragrafen 15a InsO und 33 StaRUG | Board-Beschluss | Statusverschlechterung |
+## Arbeitsweg
 
-## 6. Term-Sheet-Kern
+- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
+- Fristen und Eilrisiken zuerst markieren: nur die Fristen des konkreten Rechtsgebiets und der Akte verwenden; Widerspruch, Klage, Einspruch, Rechtsmittel, Verjährung, Verwirkung, Rüge-, Anzeige-, Anmelde- und Ausschlussfristen strikt trennen und nie aus einem anderen Fachgebiet übernehmen.
+- Tragende Normen verifizieren: BRAO, BORA, FAO, BNotO, StBerG, WPO, PAO; AO §§ 38, 42, 90, 93, 153, 162, 164, 169-171, 173, 233a, 370-378, UStG, EStG, KStG, GewStG, GrEStG, ErbStG, FGO; StaRUG — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
+- Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
+- Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
-```text
-1. Verfahrensroute und Long-Stop
-2. Planbetroffene oder Insolvenzplanbeteiligte
-3. Gruppen, Rang und Stimmrechte
-4. Haircut, Stundung, Zins und Sicherheiten
-5. Neue Finanzierung und Drittbeiträge
-6. Beteiligungs- und Kontrollrechte
-7. Bedingungen der Bestätigung und Rechtskraft
-8. Register- und Vollzugsmaßnahmen
-9. Kündigungs-, Rückfall- und Insolvenzklauseln
-10. Kosten, Steuern und Verantwortlichkeiten
+## Fachlicher Kern — Gesellschaftsrecht und Corporate Law
+- **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `Umwandlungsrecht — Verschmelzung, Spaltung, Formwechsel` und löse die dort angelegte Fachfrage; arbeite mit konkreten Tatbestandsmerkmalen, Beweisfragen und dem unmittelbar benötigten Arbeitsprodukt. Routingfragen bleiben Hilfsmittel, wenn Frist, Zuständigkeit oder Verfahrensart offen sind.
+- **Arbeitsmodus:** Erst Gesellschaftsform, Organ, Beschlussweg, Vertretung, Registerlage, wirtschaftliches Ziel und Minderheitenposition sortieren; dann Treuepflicht, Kapitalerhaltung, Haftung, Transaktions-Closing und Beweis-/Vollzugsrisiko prüfen.
+- **Outputpflicht:** Beschluss-/Listenmatrix, Register-To-do, Board-/Beiratsvorlage, Closing-CP-Liste, Treuepflicht-Red-Team, Geschäftsführerhaftungsmemo oder Mandanten-Decision-Paper.
+- **Fehlerbremse:** Tragende Normen/Entscheidungen live oder aus der Akte verifizieren; Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei prüfbarer Quelle. Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen.
+
+## Triage — klaere vor Beginn
+
+1. Welche Umwandlungsart: Verschmelzung (§§ 2 ff. UmwG), Spaltung (§§ 123 ff. UmwG), Formwechsel (§§ 190 ff. UmwG) oder Vermögensuebertragung (§§ 174 ff. UmwG)?
+2. Welche Rechtsformen sind beteiligt: GmbH, AG, KG, GbR (nach MoPeG)?
+3. Grenzueberschreitend? → Sondernormen SEVIC, UmwandlungsRL 2019/2121/EU, Umsetzung durch UmwG-Novelle 2023
+4. Steuerlich gewuenschte Behandlung: steuerneutraler Uebergang (§§ 11 ff. UmwStG) oder Realisierung?
+5. Minderheitsgesellschafter: Ausstiegsrecht, Abfindung, Andienungspflicht?
+6. Arbeitnehmer: § 613a BGB analog; Information und Beratung Betriebsrat (§§ 5, 21 UmwG)?
+7. Insolvenzfall: Umwandlung in der Krise nach StaRUG oder InsO?
+- **Was will der Mandant wirklich erreichen?** (Nicht: was steht im Standardweg, sondern: welches Ergebnis ist für den Mandanten persoenlich/wirtschaftlich das beste? Manchmal ist der schnellere Vergleich besser als der formal "richtige" Weg.)
+
+## Zentrale Normen
+
+- **§§ 2-122 UmwG** — Verschmelzung (Aufnahme und Neugründung); Verschmelzungsvertrag, Verschmelzungsbericht, HV/GV-Beschluss 3/4-Mehrheit
+- **§§ 123-173 UmwG** — Spaltung (Aufspaltung, Abspaltung, Ausgliederung); partieller Vermögensuebertrag
+- **§§ 190-304 UmwG** — Formwechsel; Identitaet der Gesellschaft bleibt erhalten; Anteilsneubegründung
+- **§§ 174-189 UmwG** — Vermögensuebertragung auf öffentliche Hand
+- **§§ 11-25 UmwStG** — Steuerneutrale Umwandlung; Ansatz von Buchwerten; Sperrfrist 5 Jahre
+- **§ 613a BGB** — Betriebsuebertragung bei Spaltung/Ausgliederung; Arbeitnehmeruebertritt
+- **§§ 5, 21, 29 UmwG** — Pflichten gegenueber Arbeitnehmern; Auskunftsrechte; Widerspruchsrecht
+- **Richtlinie (EU) 2019/2121** — Grenzueberschreitende Umwandlungen; Umgesetzt in §§ 305 ff. UmwG (n.F.)
+
+## Prüfungsschema: Verschmelzung (§§ 2 ff. UmwG)
+
+| Schritt | Inhalt | Norm | Frist/Formalitaet |
+|---|---|---|---|
+| 1 | Verschmelzungsvertrag oder -plan | §§ 4-6 UmwG | Notarielle Beurkundung |
+| 2 | Verschmelzungsbericht | § 8 UmwG | Prüfung durch unabh. Prüfer |
+| 3 | Prüfung durch Verschmelzungspruefer | § 9 UmwG | Bestellung durch Gericht |
+| 4 | Einberufung HV/GV | § 47 UmwG | 30 Tage vor Beschluss |
+| 5 | HV/GV-Beschluss | § 13 UmwG | 3/4-Mehrheit (Kapital+Stimmen) |
+| 6 | Ggf. Klageverzichtsfrist | §§ 14 ff. UmwG | 1 Monat; Freigabeverfahren |
+| 7 | Anmeldung Handelsregister | § 16 UmwG | Notarielle Anmeldung beider Gesellschaften |
+| 8 | Eintragung → Wirksamkeit | § 20 UmwG | Gesamtrechtsnachfolge wirksam |
+| 9 | Arbeitnehmer-Information | §§ 5, 21 UmwG | Spaetest. 1 Monat vor HV/GV |
+
+## Spaltungsarten im Überblick
+
+| Art | Rechtsfolge | Typischer Anwendungsfall |
+|---|---|---|
+| Aufspaltung (§ 123 I UmwG) | Uebertragende Gesellschaft erloscht; gesamtes Vermögen geht auf mind. 2 aufnehmende über | Konzernaufloesung, Carve-Out |
+| Abspaltung (§ 123 II UmwG) | Uebertragende Gesellschaft besteht fort; Teil des Vermögens geht auf aufnehmende über | Ausgliederung einer Geschäftssparte |
+| Ausgliederung (§ 123 III UmwG) | Wie Abspaltung, aber Gegenleistung sind Anteile an der aufnehmenden Gesellschaft — kommen der uebertragenden Gesellschaft, nicht den Gesellschaftern zu | Holdingstruktur aufbauen; Tochtergesellschaft gruenden |
+
+## Schritt-für-Schritt-Workflow
+
+**Vorab:** Der untenstehende ist die typische Standardlinie. Wenn die Mandantenlage abweicht (siehe "Strategische Optionen" oben), sind die Schritte entsprechend zu verkuerzen, umzustellen oder durch ein anderes Skill zu ersetzen — der ist Leitfaden, nicht Pflichtprogramm.
+
+1. **Umwandlungsart und Zielstruktur bestimmen** — Verschmelzung, Spaltung, Formwechsel; Steuerberatung einbeziehen (UmwStG)
+2. **Timeline aufstellen** — Gesamtdauer Verschmelzung: typisch 3-5 Monate (Vertrag → HV → Registereintragung)
+3. **Vertragsentwurf erstellen** — Verschmelzungsvertrag/Spaltungsplan; Notar einbinden
+4. **Sachverstaendigenpruefung** — Verschmelzungspruefer durch Gericht bestellt; unabhaengige Bewertung
+5. **Arbeitnehmer informieren** — § 5 UmwG Protokoll; Betriebsrat konsultieren; Widerspruchsrecht nach § 613a VI BGB
+6. **HV/GV-Beschlüsse** — Einberufung, Beschluss mit qualifizierter Mehrheit; Protokoll notariell
+7. **Anmeldung Handelsregister** — Notarielle Anmeldung; Freigabeverfahren wenn Klage eingereicht
+8. **Steuerneutralitaet sichern** — UmwStG-Antrag auf Buchwertfortfuehrung; Sperrfrist 5 Jahre beachten
+9. **Post-Umwandlung** — Vertragsanpassungen (neue Firma, IBAN, Steuernummer); Gesellschafter- und Gläubigerschutz
+
+## Strategische Optionen (vor dem Template entscheiden)
+
+Bevor das Template eins-zu-eins gefuellt wird, ist zu prüfen welche Variante zur Mandantenkonstellation passt. Das Template ist **eine** moegliche Form — nicht die einzige.
+
+| Konstellation | Empfohlener Weg |
+|---|---|
+| Standard — Verschmelzung nach UmwG vorbereiten | Prüfschema und Verschmelzungsvertrag-Outline nach Template unten |
+| Variante A — Spaltung statt Verschmelzung vorzugsweise | Spaltungsarten vergleichen; Abspaltung oder Ausgliederung waehlen |
+| Variante B — steuerliche Optimierung vorrangig | § 15 UmwStG prüfen; Buchwertfortfuehrung sichern |
+| Variante C — Umwandlung mit Auslandsbezug | Grenzueberschreitende Verschmelzung; SE-Option und UmwRL prüfen |
+
+Wenn die Mandantenkonstellation **nicht** ins Standardschema passt, ist das Template anzupassen oder durch ein anderes Skill abzuloesen — nicht das Mandat in das Schema zu pressen.
+
+## Output-Template Verschmelzungsvertrag Outline
+
+**Adressat:** Notar / Gesellschafter — Tonfall sachlich-juristisch
+
+```
+VERSCHMELZUNGSVERTRAG
+gemaess §§ 4-6 UmwG
+
+Urkundennummer: [Nr.]
+Datum: [DATUM]
+Notar: [NAME, ADRESSE]
+
+PRAEMBEL
+
+1. VERTRAGSPARTEIEN
+ Uebertragende Gesellschaft (1): [FIRMA, Sitz, HRB-Nr.]
+ Aufnehmende Gesellschaft: [FIRMA, Sitz, HRB-Nr.]
+
+2. GEGENSTAND DER VERSCHMELZUNG
+ Die uebertragende Gesellschaft uebertraegt ihr Vermoegen einschliesslich aller Verbindlichkeiten
+ im Wege der Verschmelzung durch Aufnahme auf die aufnehmende Gesellschaft.
+
+3. GEWAEHRUNG VON ANTEILEN (§ 5 UmwG)
+ Umtauschverhaeltnis: [X Anteile an aufnehmender Gesellschaft für Y Anteile an uebertragender]
+ Zuzahlung: [keine / [Betrag EUR]]
+
+4. BEWERTUNGSSTICHTAG UND BUCHWERT
+ Stichtag: [DATUM]; Buchwertfortfuehrung nach § 11 UmwStG: [Ja / Nein]
+
+5. RECHTE DER INHABER BESONDERER RECHTE
+
+6. MASSNAHMEN FUER ARBEITNEHMER (§ 5 Nr. 8 UmwG)
+
+7. GLAEUBIGERBENACHRICHTIGUNG (§ 22 UmwG)
+
+8. VERSCHMELZUNGSZEITPUNKT (§ 5 Nr. 6 UmwG)
+
+9. KOSTEN
+
+10. SONSTIGES
 ```
 
-## 7. Minderheiten- und Gegenpositionsprüfung
+--- vor Versand klären ---
+1. Welches Verhandlungsziel hat der Mandant? [Bestand / Abfindung / Reputation / Schnelle Loesung]
+2. Welche Kompromisslinien sind absolut? [Mindestabfindung / Freistellung / Zeugnisformulierung]
+3. Sind Anschlusswege erwuenscht? [Mediation / Direktgespraech / Settlement vor Klageerhebung]
 
-Für StaRUG: Gruppen-Cram-down nach Paragrafen 26 bis 28 und individuellen Antrag nach Paragraf 64 getrennt prüfen. Für den Insolvenzplan: Paragraf 245 und Paragraf 251 InsO trennen. In beiden Routen ist die realistische Stellung ohne Plan anhand Fortführung, Verkauf oder Regelverfahren zu berechnen; eine Zerschlagung ist nicht automatisch die Vergleichsbasis.
+## Rote Schwellen
 
-## 8. Rechtsprechungsanker
+- Bewertungsstichtag nicht mehr als 8 Monate vor Anmeldung (§ 17 II UmwG) → Prüfungserfordernis
+- Arbeitnehmer nicht fristgerecht informiert (§ 5 UmwG) → Beschluss anfechtbar
+- Steuerneutralitaet vergessen → UmwStG-Buchwertfortfuehrungsantrag nachholen nicht möglich
+- Fusionskontrolle uebersehen → Verschmelzung ggf. untersagt; Entflechtung
+- Sperrfrist UmwStG (5 Jahre) nicht beachtet → rueckwirkende Steuerpflicht
 
-1. BVerfG, Beschluss vom 28.02.2025 - 1 BvR 418/25: Nichtannahme; verlangt für die Beschwerde eine konkrete wesentliche Schlechterstellung und ein belastbares Alternativszenario, ohne den Plan materiell zu bestätigen.
-2. BGH, Beschluss vom 23.04.2026 - IX ZB 18/25: Bei Insolvenzreife trägt der Schuldner die Voraussetzungen für ein ausnahmsweises Fortführen der Restrukturierung; unverbindliche Drittmittel reichen nicht.
+## Vertiefung: Spruchverfahren nach Umwandlung
 
-## 9. Fehlerbremse
+Minderheitsgesellschafter können im Spruchverfahren (§§ 2, 34 ff. SpruchG) eine angemessene Barabfindung nach § 29 UmwG oder Verbesserung des Umtauschverhaeltnisses verlangen. Bewertung nach IDW S1 (Ertragswertmethode). Verfahrensdauer: typisch 2-5 Jahre, ggf. laenger.
 
-1. Anzeige nicht Paragraf 29 StaRUG zuordnen.
-2. Anzeigezeitraum nicht mit 12 oder 24 Monaten als Grundlaufzeit angeben; Paragraf 31 Absatz 4 StaRUG prüfen.
-3. Arbeitnehmer- und Betriebsrentenforderungen nicht als StaRUG-Planmasse behandeln.
-4. Paragraf 245a InsO nicht als allgemeine Rangregel verwenden.
-5. Wirkung des StaRUG-Plans mit Bestätigung und des Insolvenzplans mit Rechtskraft unterscheiden.
-6. Asset Deal, Paragraf 613a BGB, öffentlich-rechtliche Haftung und Altverbindlichkeiten einzeln prüfen.
-7. Entscheidungen nur mit verifizierter Quelle verwenden.
+## Quellen
+
+- §§ 2-304 UmwG; §§ 11-25 UmwStG; § 613a BGB; SpruchG
+- Quellenregel: Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff; keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen.
+
+> Quellenregel: Entscheidungen nur nach Prüfung einer amtlichen oder frei zugänglichen Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage ausgeben.
 
 ---
 

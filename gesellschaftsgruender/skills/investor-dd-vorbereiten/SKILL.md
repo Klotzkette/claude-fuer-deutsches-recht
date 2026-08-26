@@ -1,6 +1,6 @@
 ---
 name: investor-dd-vorbereiten
-description: "Wenn es um Investor Due Diligence vorbereiten in gesellschaftsgründer — Gründungsassistent für deutsche geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Investor Due Diligence vorbereiten: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Investor Due Diligence vorbereiten

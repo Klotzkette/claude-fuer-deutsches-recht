@@ -1,6 +1,6 @@
 ---
 name: motion-picture-audiovisual
-description: "Wenn es um Motion Pictures und Audiovisual Works in US Copyright Act und Registrierung für deutsche Verlage geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
+description: "Für Motion Pictures und Audiovisual Works: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Motion Pictures und Audiovisual Works

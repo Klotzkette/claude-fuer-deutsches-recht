@@ -1,6 +1,6 @@
 ---
 name: exklusivitaetsrabatte-treuerabatte
-description: "Wenn es um Exklusivitätsrabatte Treuerabatte in Kartellrecht — Marktabgrenzungsprüfung geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen."
+description: "Für Exklusivitätsrabatte Treuerabatte: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Schnittstellenkarte mit Zuständigkeits- und Nachweisfragen."
 ---
 
 # Exklusivitätsrabatte Treuerabatte

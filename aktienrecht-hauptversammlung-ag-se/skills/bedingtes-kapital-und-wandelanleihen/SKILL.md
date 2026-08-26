@@ -1,6 +1,6 @@
 ---
 name: bedingtes-kapital-und-wandelanleihen
-description: "Wenn es um Bedingtes Kapital Und Wandelanleihen in Hauptversammlung AG und SE geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Bedingtes Kapital und Wandelanleihen: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Bedingtes Kapital Und Wandelanleihen

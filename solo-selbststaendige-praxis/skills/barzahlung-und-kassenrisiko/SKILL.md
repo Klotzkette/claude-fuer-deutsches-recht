@@ -1,6 +1,6 @@
 ---
 name: barzahlung-und-kassenrisiko
-description: "Wenn es um Grenzen Compliance und Selbstschutz: Prüft barzahlung in Solo-Selbstständige Praxis geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Grenzen Compliance und Selbstschutz: Prüft barzahlung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Grenzen Compliance und Selbstschutz: Prüft barzahlung

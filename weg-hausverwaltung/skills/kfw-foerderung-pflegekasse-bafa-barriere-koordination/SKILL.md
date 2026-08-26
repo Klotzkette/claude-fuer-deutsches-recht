@@ -1,6 +1,6 @@
 ---
 name: kfw-foerderung-pflegekasse-bafa-barriere-koordination
-description: "Wenn es um Kfw Foerderung Pflegekasse Bafa Barriere Koordination in WEG- und Hausverwaltung geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Kfw Förderung Pflegekasse Bafa Barriere Koordination: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Förderungs-Koordination für Barrierefreiheits-Massnahmen (Stand 06/2026): KfW 159 bis 50000 Euro, Pflegekasse § 40 SGB XI bis 4180 Euro, BAFA, Steuern § 33b EStG

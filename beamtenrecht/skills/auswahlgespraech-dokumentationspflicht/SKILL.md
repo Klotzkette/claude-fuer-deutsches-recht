@@ -1,6 +1,6 @@
 ---
 name: auswahlgespraech-dokumentationspflicht
-description: "Wenn es um Auswahlgespraech — Dokumentationspflicht und Verfahrensfehler in Beamtenrecht geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Beweislast- und Substantiierungsmatrix."
+description: "Für Auswahlgespräch — Dokumentationspflicht und Verfahrensfehler: ordnet Akte, Belege und Lücken; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Auswahlgespraech — Dokumentationspflicht und Verfahrensfehler

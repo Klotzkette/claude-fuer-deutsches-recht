@@ -1,6 +1,6 @@
 ---
 name: ortschaftsrat-aufsichtsbeschwerde-schr
-description: "Wenn es um Ortschaftsrat Aufsichtsbeschwerde Schr in Kommunalrecht der Länder geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Ortschaftsrat Aufsichtsbeschwerde Schr: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Ortschaftsrat Aufsichtsbeschwerde Schr

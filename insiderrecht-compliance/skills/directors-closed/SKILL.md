@@ -1,6 +1,6 @@
 ---
 name: directors-closed
-description: "Wenn es um Directors' Dealings nach Art. 19 MAR in Insiderrecht Compliance geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Directors' Dealings nach Art. 19 MAR: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Directors' Dealings nach Art. 19 MAR

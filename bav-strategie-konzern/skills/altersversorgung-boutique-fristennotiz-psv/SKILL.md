@@ -1,6 +1,6 @@
 ---
 name: altersversorgung-boutique-fristennotiz-psv
-description: "Wenn es um Altersversorgung: Fristen, Form, Zuständigkeit und Rechtsweg in BAV Strategie Konzern — Treuenfels Yamamoto Rechtsanwälte geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Altersversorgung: Fristen, Form, Zuständigkeit und Rechtsweg: prüft Frist, Form, Zuständigkeit und Eilbedarf; Ergebnis: Fristen- und Risikoampel."
 ---
 
 # Altersversorgung: Fristen, Form, Zuständigkeit und Rechtsweg

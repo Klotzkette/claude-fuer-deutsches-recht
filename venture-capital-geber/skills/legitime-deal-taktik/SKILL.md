@@ -1,6 +1,6 @@
 ---
 name: legitime-deal-taktik
-description: "Wenn es um Legitime Deal-Taktik und rote Linien in Venture Capital Geber geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Legitime Deal-Taktik und rote Linien: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Legitime Deal-Taktik und rote Linien

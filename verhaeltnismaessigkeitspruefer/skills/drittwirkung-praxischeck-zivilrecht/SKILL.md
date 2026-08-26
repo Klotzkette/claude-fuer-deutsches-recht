@@ -1,6 +1,6 @@
 ---
 name: drittwirkung-praxischeck-zivilrecht
-description: "Wenn es um Drittwirkung im Zivilrecht — Praxischeck mit Verhältnismäßigkeit in Verhältnismäßigkeitsprüfer geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Drittwirkung im Zivilrecht — Praxischeck mit Verhältnismäßigkeit: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Drittwirkung im Zivilrecht — Praxischeck mit Verhältnismäßigkeit

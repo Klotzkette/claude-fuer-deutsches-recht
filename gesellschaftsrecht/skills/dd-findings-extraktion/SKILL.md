@@ -1,6 +1,6 @@
 ---
 name: dd-findings-extraktion
-description: "Wenn es um DD-Issue-Extraktion (Findings-Report) in Gesellschaftsrecht geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Berechnungstabelle mit Schwellen, Annahmen und Kontrollfragen."
+description: "Für DD-Issue-Extraktion (Findings-Report): ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # DD-Issue-Extraktion (Findings-Report)

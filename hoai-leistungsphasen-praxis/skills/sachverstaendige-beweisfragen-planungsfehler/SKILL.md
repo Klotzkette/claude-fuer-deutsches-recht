@@ -1,6 +1,6 @@
 ---
 name: sachverstaendige-beweisfragen-planungsfehler
-description: "Wenn es um Sachverständigenfragen Zu Planungsfehlern in HOAI Leistungsphasen Praxis geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Beweislast- und Substantiierungsmatrix."
+description: "Für Sachverständigenfragen zu Planungsfehlern: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Beweislast- und Substantiierungsmatrix."
 ---
 
 # Sachverständigenfragen Zu Planungsfehlern

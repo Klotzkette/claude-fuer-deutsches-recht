@@ -1,6 +1,6 @@
 ---
 name: internationaler-creator-wohnsitz-und-wegzug
-description: "Wenn es um Influencer-Recht: Internationaler Wohnsitz und Wegzug in Influencer-Recht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen."
+description: "Für Influencer-Recht: Internationaler Wohnsitz und Wegzug: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Schnittstellenkarte mit Zuständigkeits- und Nachweisfragen."
 ---
 
 # Influencer-Recht: Internationaler Wohnsitz und Wegzug

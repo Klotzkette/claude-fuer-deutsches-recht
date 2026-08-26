@@ -1,6 +1,6 @@
 ---
 name: neustart-checkliste-newsletter
-description: "Wenn es um Krise Schulden und Neustart: Ordnet re-start mit sauberer anmeldung in Solo-Selbstständige Praxis geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Krise Schulden und Neustart: Ordnet re-start mit sauberer anmeldung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Schnittstellenkarte mit Zuständigkeits- und Nachweisfragen."
 ---
 
 # Krise Schulden und Neustart: Ordnet re-start mit sauberer anmeldung

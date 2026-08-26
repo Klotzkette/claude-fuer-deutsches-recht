@@ -1,6 +1,6 @@
 ---
 name: ueberplanmaessig-ausserplanmaessig
-description: "Wenn es um Ueberplanmaessig Ausserplanmaessig in Haushaltsrecht BHO Bund und Länder geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
+description: "Für Überplanmäßig Ausserplanmäßig: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Ueberplanmaessig Ausserplanmaessig

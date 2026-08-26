@@ -1,6 +1,6 @@
 ---
 name: prueferbestellung-zustaendigkeit
-description: "Wenn es um Prüferbestellung und Zuständigkeit in Prüfungsrecht an Hochschulen und Universitäten geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Prüferbestellung und Zuständigkeit: prüft Frist, Form, Zuständigkeit und Eilbedarf; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Prüferbestellung und Zuständigkeit

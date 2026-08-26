@@ -1,6 +1,6 @@
 ---
 name: preisbindung-der-zweiten-hand-rpm
-description: "Wenn es um Preisbindung der zweiten Hand RPM in Kartellrecht — Marktabgrenzungsprüfung geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen."
+description: "Für Preisbindung der zweiten Hand RPM: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Preisbindung der zweiten Hand RPM

@@ -1,6 +1,6 @@
 ---
 name: nichtzulassungsbeschwerde-bsg-160a-sgg
-description: "Wenn es um Nichtzulassungsbeschwerde — Paragraf 160a SGG in selbstvertreter-sozialgericht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Nichtzulassungsbeschwerde — Paragraf 160a SGG: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Nichtzulassungsbeschwerde — § 160a SGG

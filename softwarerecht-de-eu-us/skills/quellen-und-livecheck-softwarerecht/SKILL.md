@@ -1,6 +1,6 @@
 ---
 name: quellen-und-livecheck-softwarerecht
-description: "Wenn es um Quellen- und Livecheck Softwarerecht in Softwarerecht Deutschland/EU/International/USA geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen."
+description: "Für Quellen- und Livecheck Softwarerecht: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Quellen- und Livecheck Softwarerecht

@@ -1,6 +1,6 @@
 ---
 name: 99-finale-entscheidung-volltext
-description: "Wenn es um Finale Entscheidung Volltext in Staatsanwaltschaft und Amtsanwaltschaft geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
+description: "Für Finale Entscheidung Volltext: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Finale Entscheidung als Volltext (Anklageschrift, Strafbefehlsantrag oder Einstellungsverfügung)

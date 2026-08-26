@@ -1,6 +1,6 @@
 ---
 name: gutachten-klage
-description: "Wenn es um Workflow: Output Gutachten, Klage und Brief in BGB BT Prüfer geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Workflow: Output Gutachten, Klage und Brief: erstellt Entwurf mit Antrag, Beweis und Anlagen; Ergebnis: Schriftsatz mit Begründungs- und Anlagenlogik."
 ---
 
 # Workflow: Output Gutachten, Klage und Brief

@@ -1,6 +1,6 @@
 ---
 name: rechtsquellen-hierarchie-historisch
-description: "Wenn es um Rechtsquellenhierarchie historisch in Deutsche Rechtsgeschichte geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Rechtsquellenhierarchie historisch: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Rechtsquellenhierarchie historisch

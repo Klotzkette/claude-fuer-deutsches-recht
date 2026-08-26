@@ -1,6 +1,6 @@
 ---
 name: db-019-datenbank-als-kreditsicherheit-due-diligence
-description: "Wenn es um Datenbankrecht: Datenbank als Kreditsicherheit Due Diligence in Datenbankrecht und Datenbankherstellerrecht geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Datenbankrecht: Datenbank als Kreditsicherheit Due Diligence: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Datenbankrecht: Datenbank als Kreditsicherheit Due Diligence

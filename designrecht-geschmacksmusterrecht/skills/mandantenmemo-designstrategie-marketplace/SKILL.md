@@ -1,6 +1,6 @@
 ---
 name: mandantenmemo-designstrategie-marketplace
-description: "Wenn es um Mandantenmemo Designstrategie in designrecht-geschmacksmusterrecht geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
+description: "Für Mandantenmemo Designstrategie: erstellt Entwurf mit Antrag, Beweis und Anlagen; Ergebnis: Schriftsatz mit Begründungs- und Anlagenlogik."
 ---
 
 # Mandantenmemo Designstrategie

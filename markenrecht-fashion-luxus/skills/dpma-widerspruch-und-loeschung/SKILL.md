@@ -1,6 +1,6 @@
 ---
 name: dpma-widerspruch-und-loeschung
-description: "Wenn es um DPMA-Widerspruch und Löschungsverfahren in markenrecht-fashion-luxus geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
+description: "Für DPMA-Widerspruch und Löschungsverfahren: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # DPMA-Widerspruch und Löschungsverfahren

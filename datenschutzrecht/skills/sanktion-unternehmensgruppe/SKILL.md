@@ -1,6 +1,6 @@
 ---
 name: sanktion-unternehmensgruppe
-description: "Wenn es um Unternehmensgruppe und federführende Aufsicht in Datenschutzrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Unternehmensgruppe und federführende Aufsicht: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt. Fachgebiet: Datenschutzrecht."
 ---
 
 # Unternehmensgruppe und federführende Aufsicht

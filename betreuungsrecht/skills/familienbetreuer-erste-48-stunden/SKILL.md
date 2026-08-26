@@ -1,6 +1,6 @@
 ---
 name: familienbetreuer-erste-48-stunden
-description: "Wenn es um Familienbetreuer: erste 48 Stunden und Notfallmappe in Betreuungsrecht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen. Auswahlstichwort: Familienbetreuer Erste 48 Stunden; Arbeitsfeld: Betreuungsrecht."
+description: "Für Familienbetreuer: erste 48 Stunden und Notfallmappe: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Schnittstellenkarte mit Zuständigkeits- und Nachweisfragen. Fachgebiet: Betreuungsrecht. Route: familienbetreuer-erste-48-stunden."
 ---
 
 # Familienbetreuer: erste 48 Stunden und Notfallmappe

@@ -1,6 +1,6 @@
 ---
 name: formalpruefung-174
-description: "Wenn es um Formalprüfung nach Paragraf 174 InsO in Insolvenzforderungsanmeldungsprüfung geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Formalprüfung nach Paragraf 174 InsO: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Tatbestands- oder Anspruchsmatrix."
 ---
 
 # Formalprüfung nach § 174 InsO

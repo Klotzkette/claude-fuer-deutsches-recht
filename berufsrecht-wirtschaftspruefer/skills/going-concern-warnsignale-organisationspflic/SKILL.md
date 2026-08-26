@@ -1,6 +1,6 @@
 ---
 name: going-concern-warnsignale-organisationspflic
-description: "Wenn es um Going Concern Warnsignale Organisationspflic in Berufsrecht Wirtschaftsprüfer geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Going Concern Warnsignale Organisationspflic: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Wirtschaftsprüfer: going concern warnsignale - Organisationspflichten, Prävention, Team-Anweisung und Fristenkontrolle

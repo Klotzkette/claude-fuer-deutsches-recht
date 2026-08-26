@@ -1,6 +1,6 @@
 ---
 name: 10-entscheidungsvorschlag-verwaltungsgericht
-description: "Wenn es um 10 Entscheidungsvorschlag Verwaltungsgericht in Verwaltungsgericht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
+description: "Für 10 Entscheidungsvorschlag Verwaltungsgericht: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # 10 Entscheidungsvorschlag Verwaltungsgericht

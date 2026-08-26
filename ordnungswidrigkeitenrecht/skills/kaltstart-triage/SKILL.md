@@ -1,6 +1,6 @@
 ---
 name: kaltstart-triage
-description: "Wenn es um Ordnungswidrigkeitenrecht - Allgemeiner Einstieg in Ordnungswidrigkeitenrecht geht: klärt Rolle, Ziel, Frist, Unterlagen und den passenden nächsten Fachskill; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Ordnungswidrigkeitenrecht - Allgemeiner Einstieg: routet Rolle, Frist, Unterlagen und Fachschritt; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Ordnungswidrigkeitenrecht - Allgemeiner Einstieg

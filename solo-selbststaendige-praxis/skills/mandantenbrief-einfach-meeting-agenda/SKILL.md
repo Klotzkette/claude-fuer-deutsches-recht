@@ -1,6 +1,6 @@
 ---
 name: mandantenbrief-einfach-meeting-agenda
-description: "Wenn es um Dokumente und Kommunikation: Übersetzt behörden-/steuer-/kundenlage in normales deutsch in Solo-Selbstständige Praxis geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Dokumente und Kommunikation: Übersetzt behörden-/steuer-/kundenlage in normales deutsch: erstellt Entwurf mit Antrag, Beweis und Anlagen; Ergebnis: Schriftsatz mit Begründungs- und Anlagenlogik."
 ---
 
 # Dokumente und Kommunikation: Übersetzt behörden-/steuer-/kundenlage in normales deutsch

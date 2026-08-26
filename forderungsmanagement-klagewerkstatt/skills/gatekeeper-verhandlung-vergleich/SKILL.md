@@ -1,6 +1,6 @@
 ---
 name: gatekeeper-verhandlung-vergleich
-description: "Wenn es um Gatekeeper Verhandlung und Vergleich in Forderungsmanagement — Klagewerkstatt geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
+description: "Für Gatekeeper Verhandlung und Vergleich: entwickelt Ziel, Vergleich und Eskalation; Ergebnis: Verhandlungs- oder Eskalationslinie."
 ---
 
 # Gatekeeper Verhandlung und Vergleich

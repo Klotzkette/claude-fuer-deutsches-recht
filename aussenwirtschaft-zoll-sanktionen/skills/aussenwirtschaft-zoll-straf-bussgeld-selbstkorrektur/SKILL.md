@@ -1,6 +1,6 @@
 ---
 name: aussenwirtschaft-zoll-straf-bussgeld-selbstkorrektur
-description: "Wenn es um Zoll Straf Bussgeld Selbstkorrektur in Außenwirtschaft, Sanktionen, Zoll und CBAM geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Zoll Straf Bussgeld Selbstkorrektur: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Zoll Straf Bussgeld Selbstkorrektur

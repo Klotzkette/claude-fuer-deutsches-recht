@@ -1,6 +1,6 @@
 ---
 name: ius-conubii-und-ius-commercii
-description: "Wenn es um Rom 154 Ius Conubii Und Ius Commercii in Römisches Recht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Rom 154 Ius Conubii und Ius Commercii: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Rom 154 Ius Conubii Und Ius Commercii

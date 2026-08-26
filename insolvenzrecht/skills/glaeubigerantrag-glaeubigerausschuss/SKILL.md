@@ -1,6 +1,6 @@
 ---
 name: glaeubigerantrag-glaeubigerausschuss
-description: "Wenn es um Prüfung Gläubigerantrag nach Paragraf 14 InsO in Insolvenzrecht geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
+description: "Für Prüfung Gläubigerantrag nach Paragraf 14 InsO: erstellt Entwurf mit Antrag, Beweis und Anlagen; Ergebnis: Schriftsatz mit Begründungs- und Anlagenlogik."
 ---
 
 # Prüfung Gläubigerantrag nach § 14 InsO

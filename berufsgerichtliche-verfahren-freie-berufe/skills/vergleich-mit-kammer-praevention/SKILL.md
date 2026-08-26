@@ -1,6 +1,6 @@
 ---
 name: vergleich-mit-kammer-praevention
-description: "Wenn es um Vergleich mit Kammer oder Aufsicht: Präventions- und Organisationspaket in Berufsgerichtliche Verfahren Freie Berufe geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Verhandlungs- oder Eskalationslinie mit Optionen."
+description: "Für Vergleich mit Kammer oder Aufsicht: Präventions- und Organisationspaket: entwickelt Ziel, Vergleich und Eskalation; Ergebnis: Verhandlungs- oder Eskalationslinie."
 ---
 
 # Vergleich mit Kammer oder Aufsicht: Präventions- und Organisationspaket

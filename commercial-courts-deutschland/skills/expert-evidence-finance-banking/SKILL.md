@@ -1,6 +1,6 @@
 ---
 name: expert-evidence-finance-banking
-description: "Wenn es um Expert Evidence in commercial-courts-deutschland geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Beweislast- und Substantiierungsmatrix."
+description: "Für Expert Evidence: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Expert Evidence

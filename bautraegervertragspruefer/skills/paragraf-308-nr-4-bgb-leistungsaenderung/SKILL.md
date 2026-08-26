@@ -1,6 +1,6 @@
 ---
 name: paragraf-308-nr-4-bgb-leistungsaenderung
-description: "Wenn es um Leistungsänderungsvorbehalte Paragraf 308 Nummer 4 BGB in Bauträgervertragspruefer geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Leistungsänderungsvorbehalte Paragraf 308 Nummer 4 BGB: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Leistungsänderungsvorbehalte Paragraf 308 Nummer 4 BGB

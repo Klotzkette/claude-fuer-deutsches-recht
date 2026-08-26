@@ -1,6 +1,6 @@
 ---
 name: energievertraege
-description: "Wenn es um Energie-Verträge — Strukturierung und Prüfung in Energierecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Energie-Verträge — Strukturierung und Prüfung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Energie-Verträge — Strukturierung und Prüfung

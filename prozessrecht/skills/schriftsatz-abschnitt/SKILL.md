@@ -1,6 +1,6 @@
 ---
 name: schriftsatz-abschnitt
-description: "Wenn es um Schriftsatzabschnitt-Entwurf in Prozessrecht geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
+description: "Für Schriftsatzabschnitt-Entwurf: erstellt Entwurf mit Antrag, Beweis und Anlagen; Ergebnis: Schriftsatz mit Begründungs- und Anlagenlogik."
 ---
 
 # Schriftsatzabschnitt-Entwurf

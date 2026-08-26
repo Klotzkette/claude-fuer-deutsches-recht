@@ -1,6 +1,6 @@
 ---
 name: chn-026-countervailing-duty-risk
-description: "Wenn es um Countervailing Duty Risk in China-Wirtschaftsverkehr geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Countervailing Duty Risk: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Countervailing Duty Risk

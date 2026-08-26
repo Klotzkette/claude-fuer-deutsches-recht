@@ -1,6 +1,6 @@
 ---
 name: steuerstrafrecht-kooperation
-description: "Wenn es um Steuerstrafrecht: Zusammenarbeit mit Steuerfahndung und Finanzamt in Staatsanwaltschaft Praxis-Einstieg geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Beweislast- und Substantiierungsmatrix. Auswahlstichwort: Steuerstrafrecht Kooperation; Arbeitsfeld: Staatsanwaltschaft Praxis-Einstieg."
+description: "Für Steuerstrafrecht: Zusammenarbeit mit Steuerfahndung und Finanzamt: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Schnittstellenkarte mit Zuständigkeits- und Nachweisfragen. Fachgebiet: Staatsanwaltschaft Praxis-Einstieg. Route: steuerstrafrecht-kooperation."
 ---
 
 # Steuerstrafrecht: Zusammenarbeit mit Steuerfahndung und Finanzamt

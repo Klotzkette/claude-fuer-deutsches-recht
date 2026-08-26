@@ -1,6 +1,6 @@
 ---
 name: tunnel-kostenlast-pruefen
-description: "Wenn es um Tunnel Kostenlast Prüfen in Straßenrecht und Infrastruktur geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Tunnel Kostenlast Prüfen: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt. Fachgebiet: Straßenrecht und Infrastruktur. Route: tunnel-kostenlast-pruefen."
 ---
 
 # Tunnel Kostenlast Prüfen

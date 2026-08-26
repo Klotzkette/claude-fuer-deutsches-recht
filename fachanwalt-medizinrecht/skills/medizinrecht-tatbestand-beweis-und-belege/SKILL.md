@@ -1,6 +1,6 @@
 ---
 name: medizinrecht-tatbestand-beweis-und-belege
-description: "Wenn es um Medizinrecht: Tatbestandsmerkmale, Beweisfragen und Beleglage in Fachanwalt Medizinrecht geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Beweislast- und Substantiierungsmatrix."
+description: "Für Medizinrecht: Tatbestandsmerkmale, Beweisfragen und Beleglage: ordnet Akte, Belege und Lücken; Ergebnis: Beweislast- und Substantiierungsmatrix."
 ---
 
 # Medizinrecht: Tatbestandsmerkmale, Beweisfragen und Beleglage

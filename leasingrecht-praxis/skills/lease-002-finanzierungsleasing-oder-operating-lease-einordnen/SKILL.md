@@ -1,6 +1,6 @@
 ---
 name: lease-002-finanzierungsleasing-oder-operating-lease-einordnen
-description: "Wenn es um Leasingrecht: Finanzierungsleasing oder Operating Lease einordnen in Leasingrecht Praxis geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Leasingrecht: Finanzierungsleasing oder Operating Lease einordnen: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Leasingrecht: Finanzierungsleasing oder Operating Lease einordnen

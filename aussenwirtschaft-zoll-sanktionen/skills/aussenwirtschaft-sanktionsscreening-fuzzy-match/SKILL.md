@@ -1,6 +1,6 @@
 ---
 name: aussenwirtschaft-sanktionsscreening-fuzzy-match
-description: "Wenn es um Sanktionsscreening mit Fuzzy-Match: Methodik, Schwellenwerte und Validierung in Außenwirtschaft, Sanktionen, Zoll und CBAM geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Berechnungstabelle mit Schwellen, Annahmen und Kontrollfragen."
+description: "Für Sanktionsscreening mit Fuzzy-Match: Methodik, Schwellenwerte und Validierung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Sanktionsscreening mit Fuzzy-Match: Methodik, Schwellenwerte und Validierung

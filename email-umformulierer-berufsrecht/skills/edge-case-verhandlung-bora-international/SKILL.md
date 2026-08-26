@@ -1,6 +1,6 @@
 ---
 name: edge-case-verhandlung-bora-international
-description: "Wenn es um Allgemeine: Sonderfall und Edge-Case-Prüfung in E-Mail-Umformulierer geht: entwickelt Verhandlungsziel, Vergleichskorridor und Eskalationspfad; liefert eine Verhandlungs- oder Eskalationslinie mit Optionen."
+description: "Für Allgemeine: Sonderfall und Edge-Case-Prüfung: entwickelt Ziel, Vergleich und Eskalation; Ergebnis: Verhandlungs- oder Eskalationslinie."
 ---
 
 # Allgemeine: Sonderfall und Edge-Case-Prüfung

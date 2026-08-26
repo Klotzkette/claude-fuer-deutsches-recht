@@ -1,6 +1,6 @@
 ---
 name: pinpoint-fehlerkatalog
-description: "Wenn es um Pinpoint Fehlerkatalog in Memorandums-Ersteller geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Pinpoint Fehlerkatalog: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Pinpoint Fehlerkatalog

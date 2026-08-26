@@ -1,6 +1,6 @@
 ---
 name: patentfamilien-analyse
-description: "Wenn es um patentfamilien-analyse in patentrecherche geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für patentfamilien-analyse: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # patentfamilien-analyse

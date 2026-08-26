@@ -1,6 +1,6 @@
 ---
 name: immobilienrechtspraxis-frist-naechster-schritt
-description: "Wenn es um Immobilienrechtspraxis: Fristennotiz und nächster Schritt in Immobilienrechtspraxis geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Immobilienrechtspraxis: Fristennotiz und nächster Schritt: prüft Frist, Form, Zuständigkeit und Eilbedarf; Ergebnis: Fristen- und Risikoampel."
 ---
 
 # Immobilienrechtspraxis: Fristennotiz und nächster Schritt

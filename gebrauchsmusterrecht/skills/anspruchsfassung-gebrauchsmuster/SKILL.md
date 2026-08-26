@@ -1,6 +1,6 @@
 ---
 name: anspruchsfassung-gebrauchsmuster
-description: "Wenn es um Anspruchsfassung Gebrauchsmuster in gebrauchsmusterrecht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Tatbestands- oder Anspruchsmatrix mit Gegenargumenten."
+description: "Für Anspruchsfassung Gebrauchsmuster: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Tatbestands- oder Anspruchsmatrix."
 ---
 
 # Anspruchsfassung Gebrauchsmuster

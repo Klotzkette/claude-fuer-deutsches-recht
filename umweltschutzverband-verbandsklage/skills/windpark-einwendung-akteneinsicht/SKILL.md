@@ -1,6 +1,6 @@
 ---
 name: windpark-einwendung-akteneinsicht
-description: "Wenn es um Windpark Einwendung Bauen in Umweltschutzverband Verbandsklage geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
+description: "Für Windpark Einwendung Bauen: ordnet Akte, Belege und Lücken; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Windpark Einwendung Bauen

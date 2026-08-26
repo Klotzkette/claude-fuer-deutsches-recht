@@ -1,6 +1,6 @@
 ---
 name: versorgungstraeger-antwort-pruefen
-description: "Wenn es um Versorgungstraeger Antwort Pruefen in Fachanwalt Familienrecht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
+description: "Für Versorgungsträger Antwort Prüfen: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # zur strukturierten Aufnahme, Priorisierung und Ausgabe im Thema Versorgungsträger Antwort prüfen.

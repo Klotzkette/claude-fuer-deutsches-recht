@@ -1,6 +1,6 @@
 ---
 name: button-loesung-312j-bgb
-description: "Wenn es um Button-Lösung Paragraf 312j BGB in E-Commerce-Recht geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
+description: "Für Button-Lösung Paragraf 312j BGB: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Button-Lösung § 312j BGB

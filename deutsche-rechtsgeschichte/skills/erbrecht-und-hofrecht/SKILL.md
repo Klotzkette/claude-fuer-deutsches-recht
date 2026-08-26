@@ -1,6 +1,6 @@
 ---
 name: erbrecht-und-hofrecht
-description: "Wenn es um Erbrecht und Hofrecht in Deutsche Rechtsgeschichte geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Erbrecht und Hofrecht: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Erbrecht und Hofrecht

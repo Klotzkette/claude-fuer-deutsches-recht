@@ -1,6 +1,6 @@
 ---
 name: automatisierte-entscheidungen-art-22-dsgvo
-description: "Wenn es um Automatisierte Entscheidungen Art. 22 DSGVO in Kanzleirichtlinien für digitale Werkzeuge geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
+description: "Für Automatisierte Entscheidungen Art. 22 DSGVO: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Automatisierte Entscheidungen Art. 22 DSGVO

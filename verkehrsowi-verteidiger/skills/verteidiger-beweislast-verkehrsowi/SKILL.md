@@ -1,6 +1,6 @@
 ---
 name: verteidiger-beweislast-verkehrsowi
-description: "Wenn es um Verteidiger: Beweislast, Darlegungslast und Substantiierung in VerkehrsOWi-Verteidiger geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Verteidiger: Beweislast, Darlegungslast und Substantiierung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Beweislast- und Substantiierungsmatrix."
 ---
 
 # Verteidiger: Beweislast, Darlegungslast und Substantiierung

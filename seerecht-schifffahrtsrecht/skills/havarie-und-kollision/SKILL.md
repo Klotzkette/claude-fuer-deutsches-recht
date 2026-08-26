@@ -1,6 +1,6 @@
 ---
 name: havarie-und-kollision
-description: "Wenn es um Havarie und Kollision – Erstbericht und Haftungsklärung in See- und Schifffahrtsrecht geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
+description: "Für Havarie und Kollision – Erstbericht und Haftungsklärung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Havarie und Kollision – Erstbericht und Haftungsklärung

@@ -1,6 +1,6 @@
 ---
 name: einstweilige-anordnung-47-abs-6-vwgo
-description: "Wenn es um Einstweilige Anordnung Paragraf 47 Abs. 6 VwGO in Normenkontrolle Bauleitplanung — Paragraf 47 VwGO geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt. Auswahlstichwort: Einstweilige Anordnung 47 Abs 6 Vwgo; Arbeitsfeld: Normenkontrolle Bauleitplanung — Paragraf 47 VwGO."
+description: "Für Einstweilige Anordnung Paragraf 47 Abs. 6 VwGO: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt. Fachgebiet: Normenkontrolle Bauleitplanung — Paragraf 47 VwGO. Route: einstweilige-anordnung-47-abs-6-vwgo."
 ---
 
 # Einstweilige Anordnung § 47 Abs. 6 VwGO

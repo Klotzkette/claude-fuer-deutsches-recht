@@ -1,6 +1,6 @@
 ---
 name: wohnungsbau-wirtschaftlichkeit-rechnen
-description: "Wenn es um Wohnungsbau Wirtschaftlichkeit Rechnen in Öffentliches Wirtschaftsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Wohnungsbau Wirtschaftlichkeit Rechnen: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Wohnungsbau Wirtschaftlichkeit Rechnen

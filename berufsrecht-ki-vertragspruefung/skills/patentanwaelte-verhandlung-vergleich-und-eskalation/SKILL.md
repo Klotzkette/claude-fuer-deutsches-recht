@@ -1,6 +1,6 @@
 ---
 name: patentanwaelte-verhandlung-vergleich-und-eskalation
-description: "Wenn es um Patentanwälte: Verhandlung, Vergleich und Eskalation in diesem Spezialbereich geht: entwickelt Verhandlungsziel, Vergleichskorridor und Eskalationspfad; liefert eine Verhandlungs- oder Eskalationslinie mit Optionen."
+description: "Für Patentanwälte: Verhandlung, Vergleich und Eskalation: entwickelt Ziel, Vergleich und Eskalation; Ergebnis: Verhandlungs- oder Eskalationslinie. Fachgebiet: anwaltlichem Berufsrecht und Vertragsprüfung. Route: patentanwaelte-verhandlung-vergleich-und-eskalation."
 ---
 
 # Patentanwälte: Verhandlung, Vergleich und Eskalation
@@ -48,3 +48,7 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 3. **Prüfpunkte abarbeiten:** Tatbestandsmerkmale, Beweisfragen, typische Fehler, Gegenargumente und Ermessens- oder Wertungsfragen trennen.
 4. **Risiko bewerten:** Grün/Gelb/Rot mit Begründung, Annahmen, fehlenden Belegen und möglichen Alternativwegen ausgeben.
 5. **Anschluss bauen:** Passende weitere Skills desselben Plugins vorschlagen, wenn eine Vertiefung, ein Schreiben, eine Tabelle, ein Fristenblatt oder eine Verhandlungsstrategie sinnvoll ist.
+
+## Vertiefung bei Bedarf
+
+- Bei `spezial-patentanwaelte-verhandlung-vergleich-und-eskalation` beziehungsweise Patentanwaelte: Verhandlung, Vergleich und Eskalation: [die zusätzliche Vertiefung laden](./references/vertiefung-spezial-patentanwaelte-verhandlung-vergleich-und-eskalation.md).

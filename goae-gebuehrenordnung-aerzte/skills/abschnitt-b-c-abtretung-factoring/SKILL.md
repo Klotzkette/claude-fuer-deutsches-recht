@@ -1,6 +1,6 @@
 ---
 name: abschnitt-b-c-abtretung-factoring
-description: "Wenn es um Abschnitt B Grundleistungen Zuschläge in GOÄ Gebührenordnung für Ärzte geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Berechnungstabelle mit Schwellen, Annahmen und Kontrollfragen."
+description: "Für Abschnitt B Grundleistungen Zuschläge: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Abschnitt B Grundleistungen Zuschläge

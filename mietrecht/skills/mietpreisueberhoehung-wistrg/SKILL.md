@@ -1,6 +1,6 @@
 ---
 name: mietpreisueberhoehung-wistrg
-description: "Wenn es um Mietpreisüberhöhung, WiStrG 1954 und Mietwucher in Mietrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Mietpreisüberhöhung, WiStrG 1954 und Mietwucher: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Mietpreisüberhöhung, WiStrG 1954 und Mietwucher

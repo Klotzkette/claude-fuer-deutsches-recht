@@ -1,6 +1,6 @@
 ---
 name: phishing-mit-geschaeftskonto
-description: "Wenn es um Phishing gegen Geschäftskonto in Phishing-Vorfall-Prüfer geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Phishing gegen Geschäftskonto: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Phishing gegen Geschäftskonto

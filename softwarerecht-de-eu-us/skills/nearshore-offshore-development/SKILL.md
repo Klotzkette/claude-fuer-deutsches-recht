@@ -1,6 +1,6 @@
 ---
 name: nearshore-offshore-development
-description: "Wenn es um Nearshore/Offshore Development in Softwarerecht Deutschland/EU/International/USA geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Gegenprüfung mit Fehler-, Beweis- und Fristencheck."
+description: "Für Nearshore/Offshore Development: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Nearshore/Offshore Development

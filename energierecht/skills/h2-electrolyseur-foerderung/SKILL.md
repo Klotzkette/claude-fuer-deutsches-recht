@@ -1,6 +1,6 @@
 ---
 name: h2-electrolyseur-foerderung
-description: "Wenn es um H2-Elektrolyseur-Spezial in Energierecht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Verhandlungs- oder Eskalationslinie mit Optionen."
+description: "Für H2-Elektrolyseur-Spezial: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Schnittstellenkarte mit Zuständigkeits- und Nachweisfragen."
 ---
 
 # H2-Elektrolyseur-Spezial

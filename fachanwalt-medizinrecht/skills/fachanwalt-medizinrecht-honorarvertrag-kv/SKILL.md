@@ -1,6 +1,6 @@
 ---
 name: fachanwalt-medizinrecht-honorarvertrag-kv
-description: "Wenn es um Honorarvertrag Kassenärztliche Vereinigung in Fachanwalt Medizinrecht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen."
+description: "Für Honorarvertrag Kassenärztliche Vereinigung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Honorarvertrag Kassenärztliche Vereinigung

@@ -1,6 +1,6 @@
 ---
 name: spezial-kanzlei-livequellen-und-rechtsprechungscheck
-description: "Wenn es um Kanzlei: Livequellen- und Rechtsprechungscheck in Kanzlei-Builder-Hub geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Kanzlei: Livequellen- und Rechtsprechungscheck: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Kanzlei: Livequellen- und Rechtsprechungscheck

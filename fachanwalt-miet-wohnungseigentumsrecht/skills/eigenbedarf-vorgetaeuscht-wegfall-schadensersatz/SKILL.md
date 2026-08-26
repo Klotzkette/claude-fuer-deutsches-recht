@@ -1,6 +1,6 @@
 ---
 name: eigenbedarf-vorgetaeuscht-wegfall-schadensersatz
-description: "Prüft Eigenbedarfskündigung, Vorratskündigung, späteren Bedarfswegfall und Schadensersatz wegen vorgetäuschten Eigenbedarfs. Rekonstruiert Nutzungsentschluss, Kündigungsfrist, Auszug, Nichtnutzung und Alternativgründe und liefert Beweismatrix, Räumungsabwehr und bezifferte Schadenspositionen."
+description: "Prüft Eigenbedarfskündigung, Vorratskündigung, späteren Bedarfswegfall und Schadensersatz wegen vorgetäuschten Eigenbedarfs."
 ---
 
 # Eigenbedarf und vorgetäuschten Nutzungswunsch prüfen

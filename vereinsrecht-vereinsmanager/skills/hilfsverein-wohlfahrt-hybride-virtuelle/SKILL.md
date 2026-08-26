@@ -1,6 +1,6 @@
 ---
 name: hilfsverein-wohlfahrt-hybride-virtuelle
-description: "Wenn es um Hilfs- und Wohlfahrtsverein in Vereinsrecht und Vereinsmanager geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Hilfs- und Wohlfahrtsverein: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Hilfs- und Wohlfahrtsverein

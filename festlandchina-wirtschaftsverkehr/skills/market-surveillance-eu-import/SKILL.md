@@ -1,6 +1,6 @@
 ---
 name: market-surveillance-eu-import
-description: "Wenn es um EU-Marktüberwachung China-Import: Pflichten und Behörden in China-Wirtschaftsverkehr geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen."
+description: "Für EU-Marktüberwachung China-Import: Pflichten und Behörden: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Schnittstellenkarte mit Zuständigkeits- und Nachweisfragen."
 ---
 
 # EU-Marktüberwachung China-Import: Pflichten und Behörden

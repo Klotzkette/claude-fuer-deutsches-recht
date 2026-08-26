@@ -1,6 +1,6 @@
 ---
 name: tabellen-matrix
-description: "Wenn es um Tabellen und Matrix Factory in Großkanzlei Corporate/M&A geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert einen Einreichungsplan mit Form-, Portal- und Nachweischeck."
+description: "Für Tabellen und Matrix Factory: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt. Fachgebiet: Großkanzlei Corporate/M&A. Route: tabellen-matrix."
 ---
 
 # Tabellen und Matrix Factory

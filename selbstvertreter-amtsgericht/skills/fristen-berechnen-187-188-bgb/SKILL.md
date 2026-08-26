@@ -1,6 +1,6 @@
 ---
 name: fristen-berechnen-187-188-bgb
-description: "Wenn es um Fristen richtig berechnen in selbstvertreter-amtsgericht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Fristen richtig berechnen: prüft Frist, Form, Zuständigkeit und Eilbedarf; Ergebnis: Fristen- und Risikoampel."
 ---
 
 # Fristen richtig berechnen

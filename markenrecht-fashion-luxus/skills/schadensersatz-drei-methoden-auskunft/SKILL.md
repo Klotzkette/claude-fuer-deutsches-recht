@@ -1,6 +1,6 @@
 ---
 name: schadensersatz-drei-methoden-auskunft
-description: "Wenn es um Schadensersatz, Auskunft und Rechnungslegung in markenrecht-fashion-luxus geht: rechnet Schwellen, Beträge, Varianten und Kontrollannahmen durch; liefert eine Berechnungstabelle mit Schwellen, Annahmen und Kontrollfragen."
+description: "Für Schadensersatz, Auskunft und Rechnungslegung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Schadensersatz, Auskunft und Rechnungslegung

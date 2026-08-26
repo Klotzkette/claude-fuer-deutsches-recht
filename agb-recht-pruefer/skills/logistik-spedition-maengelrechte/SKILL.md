@@ -1,6 +1,6 @@
 ---
 name: logistik-spedition-maengelrechte
-description: "Wenn es um Logistik Spedition AGB in AGB-Recht-Prüfer geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen. Auswahlstichwort: Logistik Spedition Maengelrechte; Arbeitsfeld: AGB-Recht-Prüfer."
+description: "Für Logistik Spedition AGB: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt. Fachgebiet: AGB-Recht-Prüfer. Route: logistik-spedition-maengelrechte."
 ---
 
 # Logistik Spedition AGB

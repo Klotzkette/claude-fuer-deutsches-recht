@@ -1,6 +1,6 @@
 ---
 name: akteneinsicht-steuerakte
-description: "Wenn es um Akteneinsicht in Steuerakten in Steuerrecht – Steuerberater und Anwälte geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
+description: "Für Akteneinsicht in Steuerakten: ordnet Akte, Belege und Lücken; Ergebnis: Schnittstellenkarte mit Zuständigkeits- und Nachweisfragen."
 ---
 
 # Akteneinsicht in Steuerakten

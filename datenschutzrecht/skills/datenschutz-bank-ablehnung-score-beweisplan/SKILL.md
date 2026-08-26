@@ -1,6 +1,6 @@
 ---
 name: datenschutz-bank-ablehnung-score-beweisplan
-description: "Wenn es um Bankablehnung wegen Score: Beweisplan in Datenschutzrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Bankablehnung wegen Score: Beweisplan: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Beweislast- und Substantiierungsmatrix."
 ---
 
 # Bankablehnung wegen Score: Beweisplan

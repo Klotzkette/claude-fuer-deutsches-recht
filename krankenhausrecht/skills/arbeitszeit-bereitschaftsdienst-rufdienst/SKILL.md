@@ -1,6 +1,6 @@
 ---
 name: arbeitszeit-bereitschaftsdienst-rufdienst
-description: "Wenn es um Arbeitszeit Bereitschaftsdienst Rufdienst in Krankenhausrecht geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
+description: "Für Arbeitszeit Bereitschaftsdienst Rufdienst: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Arbeitszeit Bereitschaftsdienst Rufdienst

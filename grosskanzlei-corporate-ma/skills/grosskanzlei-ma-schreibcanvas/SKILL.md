@@ -1,6 +1,6 @@
 ---
 name: grosskanzlei-ma-schreibcanvas
-description: "Wenn es um Freistehender Corporate-Schreibcanvas in Großkanzlei Corporate/M&A geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Freistehender Corporate-Schreibcanvas: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt. Fachgebiet: Großkanzlei Corporate/M&A."
 ---
 
 # Freistehender Corporate-Schreibcanvas

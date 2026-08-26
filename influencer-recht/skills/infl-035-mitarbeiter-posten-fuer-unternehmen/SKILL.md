@@ -1,6 +1,6 @@
 ---
 name: infl-035-mitarbeiter-posten-fuer-unternehmen
-description: "Wenn es um Influencer-Recht: Mitarbeiter posten für Unternehmen in Influencer-Recht geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Influencer-Recht: Mitarbeiter posten für Unternehmen: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Influencer-Recht: Mitarbeiter posten für Unternehmen

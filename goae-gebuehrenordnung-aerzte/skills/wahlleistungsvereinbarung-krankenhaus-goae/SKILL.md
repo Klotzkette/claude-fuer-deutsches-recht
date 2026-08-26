@@ -1,6 +1,6 @@
 ---
 name: wahlleistungsvereinbarung-krankenhaus-goae
-description: "Wenn es um Wahlleistungsvereinbarung Krankenhaus GOÄ in GOÄ Gebührenordnung für Ärzte geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Berechnungstabelle mit Schwellen, Annahmen und Kontrollfragen."
+description: "Für Wahlleistungsvereinbarung Krankenhaus GOÄ: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Wahlleistungsvereinbarung Krankenhaus GOÄ

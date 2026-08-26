@@ -1,6 +1,6 @@
 ---
 name: vertrags-lieferkettenintake
-description: "Wenn es um Vertrags- und Lieferkettenintake in robotik-recht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Vertrags- und Lieferkettenintake: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt. Fachgebiet: robotik-recht. Route: vertrags-lieferkettenintake."
 ---
 
 # Vertrags- und Lieferkettenintake

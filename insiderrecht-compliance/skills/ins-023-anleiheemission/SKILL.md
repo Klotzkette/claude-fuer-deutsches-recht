@@ -1,6 +1,6 @@
 ---
 name: ins-023-anleiheemission
-description: "Wenn es um Insiderrecht: Anleiheemission in Insiderrecht Compliance geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Beweislast- und Substantiierungsmatrix."
+description: "Für Insiderrecht: Anleiheemission: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Insiderrecht: Anleiheemission

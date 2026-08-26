@@ -1,6 +1,6 @@
 ---
 name: robotische-operation
-description: "Wenn es um Robotische Operation in Fachanwalt Medizinrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Robotische Operation: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Robotische Operation: moderner Medizinrechts-Skill für Da-Vinci-/Robotik-OP, Bedienfehler, Training, Herstellerhinweis und Aufklärung

@@ -1,6 +1,6 @@
 ---
 name: workflow-vergleichsfenster-mietstreit
-description: "Wenn es um Vergleichsfenster Mietstreit: Prüfungslinie für Miet- und WEG-Recht in Fachanwalt Miet- und Wohnungseigentumsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Chronologie mit Belegmatrix und Widerspruchsliste."
+description: "Für Vergleichsfenster Mietstreit: Prüfungslinie für Miet- und WEG-Recht: entwickelt Ziel, Vergleich und Eskalation; Ergebnis: Verhandlungs- oder Eskalationslinie."
 ---
 
 # Vergleichsfenster Mietstreit: Prüfungslinie für Miet- und WEG-Recht

@@ -1,6 +1,6 @@
 ---
 name: landesrecht-plakatierung-livecheck
-description: "Wenn es um Landesrecht Plakatierung Livecheck in Wahlkampfrecht Praxis geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Landesrecht Plakatierung Livecheck: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Landesrecht Plakatierung Livecheck

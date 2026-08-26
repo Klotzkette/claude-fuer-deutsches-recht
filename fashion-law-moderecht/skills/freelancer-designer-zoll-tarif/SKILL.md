@@ -1,6 +1,6 @@
 ---
 name: freelancer-designer-zoll-tarif
-description: "Wenn es um Freelancer Designer Ip in fashion-law-moderecht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen."
+description: "Für Freelancer Designer Ip: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Freelancer Designer Ip

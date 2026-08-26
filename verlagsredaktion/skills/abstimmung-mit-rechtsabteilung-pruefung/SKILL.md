@@ -1,6 +1,6 @@
 ---
 name: abstimmung-mit-rechtsabteilung-pruefung
-description: "Wenn es um Inhouse-Legal-Check vor Veroeffentlichung in Verlagsredaktion geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen."
+description: "Für Inhouse-Legal-Check vor Veröffentlichung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Tatbestands- oder Anspruchsmatrix."
 ---
 
 # Inhouse-Legal-Check vor Veroeffentlichung

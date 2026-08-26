@@ -1,6 +1,6 @@
 ---
 name: fair-use-fashion-jewelry-fixation-originality
-description: "Wenn es um Fair Use Four Factors in US Copyright Act und Registrierung für deutsche Verlage geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
+description: "Für Fair Use Four Factors: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Fair Use Four Factors

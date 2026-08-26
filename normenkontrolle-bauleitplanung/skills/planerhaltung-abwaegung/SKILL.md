@@ -1,6 +1,6 @@
 ---
 name: planerhaltung-abwaegung
-description: "Wenn es um Planerhaltung, Abwägung und Antragsbefugnis in Normenkontrolle Bauleitplanung — Paragraf 47 VwGO geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert eine Gegenprüfung mit Fehler-, Beweis- und Fristencheck."
+description: "Für Planerhaltung, Abwägung und Antragsbefugnis: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Planerhaltung, Abwägung und Antragsbefugnis

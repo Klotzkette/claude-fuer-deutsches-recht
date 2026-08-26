@@ -1,6 +1,6 @@
 ---
 name: planfeststellung-grundzuege
-description: "Wenn es um Planfeststellung: Grundzuege in Verkehrs- und Infrastrukturrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Planfeststellung: Grundzüge: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Planfeststellung: Grundzuege

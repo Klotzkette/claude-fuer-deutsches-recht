@@ -1,6 +1,6 @@
 ---
 name: sanierung-insolvenzreife
-description: "Wenn es um Sanierung und StaRUG – Insiderrecht bei Restrukturierung in Insiderrecht Compliance geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
+description: "Für Sanierung und StaRUG – Insiderrecht bei Restrukturierung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Sanierung und StaRUG – Insiderrecht bei Restrukturierung

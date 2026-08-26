@@ -1,6 +1,6 @@
 ---
 name: chn-013-wfoe-joint-venture-repraesentanz
-description: "Wenn es um WFOE Joint Venture Repraesentanz in China-Wirtschaftsverkehr geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für WFOE Joint Venture Repräsentanz: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # WFOE Joint Venture Repraesentanz

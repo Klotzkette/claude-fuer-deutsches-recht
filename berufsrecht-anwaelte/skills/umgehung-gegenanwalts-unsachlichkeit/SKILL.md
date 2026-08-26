@@ -1,6 +1,6 @@
 ---
 name: umgehung-gegenanwalts-unsachlichkeit
-description: "Wenn es um Umgehung Gegenanwalts Unsachlichkeit in Berufsrecht Anwälte geht: klärt Rolle, Ziel, Frist, Unterlagen und den passenden nächsten Fachskill; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Umgehung Gegenanwalts Unsachlichkeit: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Anwälte: umgehung des gegenanwalts - Kaltstart mit Faktenmatrix, Risikoampel und fehlenden Unterlagen

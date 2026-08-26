@@ -1,6 +1,6 @@
 ---
 name: kennzahlenset-mandantenentscheidung
-description: "Wenn es um Kennzahlenset: Mandantenkommunikation und Entscheidungsvorlage in Krisenfrüherkennung und StaRUG-Management geht: rechnet Schwellen, Beträge, Varianten und Kontrollannahmen durch; liefert eine Mandantennachricht oder Entscheidungsvorlage."
+description: "Für Kennzahlenset: Mandantenkommunikation und Entscheidungsvorlage: rechnet Beträge, Schwellen und Varianten; Ergebnis: Berechnungstabelle mit Annahmen und Kontrollfragen."
 ---
 
 # Kennzahlenset: Mandantenkommunikation und Entscheidungsvorlage

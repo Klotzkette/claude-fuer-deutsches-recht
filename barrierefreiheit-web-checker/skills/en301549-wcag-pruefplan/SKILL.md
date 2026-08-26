@@ -1,6 +1,6 @@
 ---
 name: en301549-wcag-pruefplan
-description: "Wenn es um EN 301 549 und WCAG-Prüfplan in Barrierefreiheit Web Checker geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für EN 301 549 und WCAG-Prüfplan: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # EN 301 549 und WCAG-Prüfplan

@@ -1,6 +1,6 @@
 ---
 name: datev-lohn-modul-eau-elektronische-arbeitsunfaehigkeit
-description: "Wenn es um DATEV LODAS und Lohn und Gehalt in Steuerrecht – Steuerberater und Anwälte geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. Auswahlstichwort: Datev Lohn Modul Eau Elektronische Arbeitsunfaehigkeit; Arbeitsfeld: Steuerrecht – Steuerberater und Anwälte."
+description: "Für DATEV LODAS und Lohn und Gehalt: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt. Fachgebiet: Steuerrecht – Steuerberater und Anwälte. Route: datev-lohn-modul-eau-elektronische-arbeitsunfaehigkeit."
 ---
 
 # DATEV LODAS und Lohn und Gehalt

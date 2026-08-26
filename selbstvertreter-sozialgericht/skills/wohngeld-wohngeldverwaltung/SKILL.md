@@ -1,6 +1,6 @@
 ---
 name: wohngeld-wohngeldverwaltung
-description: "Wenn es um Wohngeld Wohngeldverwaltung in selbstvertreter-sozialgericht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Wohngeld Wohngeldverwaltung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Wohngeld Wohngeldverwaltung

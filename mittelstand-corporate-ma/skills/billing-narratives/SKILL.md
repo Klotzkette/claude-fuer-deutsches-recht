@@ -1,6 +1,6 @@
 ---
 name: billing-narratives
-description: "Wenn es um Mittelstandsmandat Billing Narratives in Mittelstands-Corporate/M&A geht: rechnet Schwellen, Beträge, Varianten und Kontrollannahmen durch; liefert eine Berechnungstabelle mit Schwellen, Annahmen und Kontrollfragen."
+description: "Für Mittelstandsmandat Billing Narratives: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Mittelstandsmandat Billing Narratives

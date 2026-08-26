@@ -1,6 +1,6 @@
 ---
 name: haendler-distributor-harmonisierte-normen
-description: "Wenn es um Händler-Pflichten (Distributor) — Art. 24 europäischer Technikregulierungsrahmen in europäischem Technikregulierungsrecht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Tatbestands- oder Anspruchsmatrix mit Gegenargumenten."
+description: "Für Händler-Pflichten (Distributor) — Art. 24 europäischer Technikregulierungsrahmen: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Tatbestands- oder Anspruchsmatrix."
 ---
 
 # Händler-Pflichten (Distributor) — Art. 24 KI-VO

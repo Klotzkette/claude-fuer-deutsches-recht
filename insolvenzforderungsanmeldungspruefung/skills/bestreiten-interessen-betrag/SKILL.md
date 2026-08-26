@@ -1,6 +1,6 @@
 ---
 name: bestreiten-interessen-betrag
-description: "Wenn es um Belege: Dokumentenmatrix, Lückenliste und Nachforderung in Insolvenzforderungsanmeldungsprüfung geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Dokumentenmatrix mit Nachforderungsliste."
+description: "Für Belege: Dokumentenmatrix, Lückenliste und Nachforderung: rechnet Beträge, Schwellen und Varianten; Ergebnis: Berechnungstabelle mit Annahmen und Kontrollfragen."
 ---
 
 # Belege: Dokumentenmatrix, Lückenliste und Nachforderung

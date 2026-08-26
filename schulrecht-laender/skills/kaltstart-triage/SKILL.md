@@ -1,6 +1,6 @@
 ---
 name: kaltstart-triage
-description: "Wenn es um Allgemein in Schulrecht der Bundesländer geht: klärt Rolle, Ziel, Frist, Unterlagen und den passenden nächsten Fachskill; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Allgemein: routet Rolle, Frist, Unterlagen und Fachschritt; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt. Fachgebiet: Schulrecht der Bundesländer."
 ---
 
 # Allgemein

@@ -1,6 +1,6 @@
 ---
 name: akten-mandantenkommunikation-entscheidungsvorlage
-description: "Wenn es um Akten: Mandantenkommunikation und Entscheidungsvorlage in aktenauszug-gerichtsverfahren geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Mandantennachricht oder Entscheidungsvorlage."
+description: "Für Akten: Mandantenkommunikation und Entscheidungsvorlage: ordnet Akte, Belege und Lücken; Ergebnis: Mandantennachricht oder Entscheidungsvorlage."
 ---
 
 # Akten: Mandantenkommunikation und Entscheidungsvorlage

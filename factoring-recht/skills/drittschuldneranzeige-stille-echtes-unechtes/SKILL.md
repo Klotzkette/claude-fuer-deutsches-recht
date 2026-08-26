@@ -1,6 +1,6 @@
 ---
 name: drittschuldneranzeige-stille-echtes-unechtes
-description: "Wenn es um Drittschuldneranzeige und stille Zession in Factoring-Recht geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
+description: "Für Drittschuldneranzeige und stille Zession: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Drittschuldneranzeige und stille Zession

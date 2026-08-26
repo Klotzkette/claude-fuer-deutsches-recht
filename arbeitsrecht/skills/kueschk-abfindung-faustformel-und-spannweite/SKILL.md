@@ -1,6 +1,6 @@
 ---
 name: kueschk-abfindung-faustformel-und-spannweite
-description: "Wenn es um Kueschk Abfindung Faustformel Und Spannweite in Arbeitsrecht geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
+description: "Für Kueschk Abfindung Faustformel und Spannweite: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Abfindung Kündigungsschutzklage: Faustformel halbes Bruttomonatsgehalt pro Beschäftigungsjahr

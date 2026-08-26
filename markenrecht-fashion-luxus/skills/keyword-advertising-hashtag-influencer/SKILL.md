@@ -1,6 +1,6 @@
 ---
 name: keyword-advertising-hashtag-influencer
-description: "Wenn es um Keyword Advertising, Hashtags und Influencer in markenrecht-fashion-luxus geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Verhandlungs- oder Eskalationslinie mit Optionen."
+description: "Für Keyword Advertising, Hashtags und Influencer: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Keyword Advertising, Hashtags und Influencer

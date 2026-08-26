@@ -1,6 +1,6 @@
 ---
 name: klagestrategie-und-vollstreckung
-description: "Wenn es um Klagestrategie und Vollstreckung in Arbeitszeugnispruefer geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
+description: "Für Klagestrategie und Vollstreckung: erstellt Entwurf mit Antrag, Beweis und Anlagen; Ergebnis: Schriftsatz mit Begründungs- und Anlagenlogik."
 ---
 
 # Klagestrategie und Vollstreckung

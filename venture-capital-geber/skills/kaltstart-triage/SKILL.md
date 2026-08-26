@@ -1,6 +1,6 @@
 ---
 name: kaltstart-triage
-description: "Wenn es um Kaltstart und Fallrouting in Venture Capital Geber geht: klärt Rolle, Ziel, Frist, Unterlagen und den passenden nächsten Fachskill; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Kaltstart und Fallrouting: routet Rolle, Frist, Unterlagen und Fachschritt; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Kaltstart und Fallrouting

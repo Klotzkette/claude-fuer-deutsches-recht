@@ -1,6 +1,6 @@
 ---
 name: 13-strafbefehlsantrag-paragraf-407
-description: "Wenn es um Strafbefehlsantrag nach Paragraf 407 StPO in Staatsanwaltschaft und Amtsanwaltschaft geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
+description: "Für Strafbefehlsantrag nach Paragraf 407 StPO: erstellt Entwurf mit Antrag, Beweis und Anlagen; Ergebnis: Schriftsatz mit Begründungs- und Anlagenlogik."
 ---
 
 # Strafbefehlsantrag nach Paragraf 407 StPO

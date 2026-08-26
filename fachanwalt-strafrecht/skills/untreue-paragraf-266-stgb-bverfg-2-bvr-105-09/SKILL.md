@@ -1,6 +1,6 @@
 ---
 name: untreue-paragraf-266-stgb-bverfg-2-bvr-105-09
-description: "Prüft Untreuevorwürfe gegen Vorstände, Geschäftsführer, Amtsträger und Vermögensbetreuer. Trennt Befugnis, qualifizierte Betreuungspflicht, konkrete Pflichtverletzung, wirtschaftlichen Vermögensnachteil und doppelten Vorsatz und liefert Tatkomplexmatrix, Schadensrechnung und Verteidigungs- oder Anklagelinie."
+description: "Prüft Untreuevorwürfe gegen Vorstände, Geschäftsführer, Amtsträger und Vermögensbetreuer."
 ---
 
 # Untreue nach Paragraf 266 StGB prüfen

@@ -1,6 +1,6 @@
 ---
 name: beweisakte-fuer-streit
-description: "Wenn es um Forderungen Mahnung und Streit: Baut chronologische beweisakte aus mail in Solo-Selbstständige Praxis geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Forderungen Mahnung und Streit: Baut chronologische beweisakte aus mail: ordnet Akte, Belege und Lücken; Ergebnis: Beweislast- und Substantiierungsmatrix."
 ---
 
 # Forderungen Mahnung und Streit: Baut chronologische beweisakte aus mail

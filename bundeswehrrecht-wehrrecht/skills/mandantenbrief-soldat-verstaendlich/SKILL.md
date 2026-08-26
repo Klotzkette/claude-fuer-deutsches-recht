@@ -1,6 +1,6 @@
 ---
 name: mandantenbrief-soldat-verstaendlich
-description: "Wenn es um Mandantenbrief Soldat — Verständlich erläutern in Bundeswehrrecht und Wehrrecht geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
+description: "Für Mandantenbrief Soldat — Verständlich erläutern: erstellt Entwurf mit Antrag, Beweis und Anlagen; Ergebnis: Schriftsatz mit Begründungs- und Anlagenlogik."
 ---
 
 # Mandantenbrief Soldat — Verständlich erläutern

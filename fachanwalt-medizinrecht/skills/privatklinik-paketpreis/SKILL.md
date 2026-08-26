@@ -1,6 +1,6 @@
 ---
 name: privatklinik-paketpreis
-description: "Wenn es um Privatklinik Paketpreis in Fachanwalt Medizinrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Privatklinik Paketpreis: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Privatklinik Paketpreis: moderner Medizinrechts-Skill für Pauschalangebot, GOÄ, Wahlleistung, IGeL, Kostentransparenz und Rückforderung

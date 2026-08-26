@@ -1,6 +1,6 @@
 ---
 name: dpa-en-tom-annex-template
-description: "Wenn es um TOM Annex – English Template (Article 32 GDPR) in Datenschutzrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für TOM Annex – English Template (Article 32 GDPR): ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # TOM Annex – English Template (Article 32 GDPR)

@@ -1,6 +1,6 @@
 ---
 name: klagebefugnis-private-plaumann
-description: "Prüft individuelle und unmittelbare Betroffenheit Privater nach Art. 263 AEUV, einschließlich Plaumann-Linie, regulatorischer Akt, Durchführungsmaßnahmen und Belegstrategie."
+description: "Für Klagebefugnis Privater: erstellt Entwurf mit Antrag, Beweis und Anlagen; Ergebnis: Schriftsatz mit Begründungs- und Anlagenlogik."
 ---
 # Klagebefugnis Privater
 

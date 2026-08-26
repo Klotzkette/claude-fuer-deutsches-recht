@@ -1,6 +1,6 @@
 ---
 name: fruehere-interessenvertretung
-description: "Wenn es um Exit und fruehere Interessenvertretung in Lobbyregister Bundestag geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
+description: "Für Exit und frühere Interessenvertretung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Exit und fruehere Interessenvertretung

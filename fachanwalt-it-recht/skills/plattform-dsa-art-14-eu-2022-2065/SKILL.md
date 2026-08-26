@@ -1,6 +1,6 @@
 ---
 name: plattform-dsa-art-14-eu-2022-2065
-description: "Steuert Plattformfälle nach der Verordnung (EU) 2022/2065 von Nutzungsbedingungen und Meldung bis Begründung, Beschwerde und gerichtlicher Abhilfe. Liefert Anbieterklassifikation, Fristen- und Belegmatrix sowie einsatzfähige Meldungs- oder Verteidigungstexte."
+description: "Steuert Plattformfälle nach der Verordnung (EU) 2022/2065 von Nutzungsbedingungen und Meldung bis Begründung, Beschwerde und gerichtlicher Abhilfe."
 ---
 
 # 1. Plattformmoderation und Rechtsbehelf

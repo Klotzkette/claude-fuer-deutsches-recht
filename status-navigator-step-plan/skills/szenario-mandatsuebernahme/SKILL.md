@@ -1,6 +1,6 @@
 ---
 name: szenario-mandatsuebernahme
-description: "Wenn es um Szenario Mandatsuebernahme in Plugin: status-navigator-step-plan geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
+description: "Für Szenario Mandatsübernahme: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Szenario Mandatsuebernahme

@@ -1,6 +1,6 @@
 ---
 name: geburtshilfe-haftung-hebammen-schnittstelle
-description: "Wenn es um Geburtshilfe Haftung Hebammen Schnittstelle in Krankenhausrecht geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
+description: "Für Geburtshilfe Haftung Hebammen Schnittstelle: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Geburtshilfe Haftung Hebammen Schnittstelle

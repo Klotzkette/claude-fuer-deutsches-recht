@@ -1,6 +1,6 @@
 ---
 name: internationales-mandat-und-geheimnisschutz-kammerantwo
-description: "Wenn es um Internationales Mandat Und Geheimnisschutz Kammerantwo in Berufsrecht Anwälte geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Verhandlungs- oder Eskalationslinie mit Optionen."
+description: "Für Internationales Mandat und Geheimnisschutz Kammerantwo: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Schnittstellenkarte mit Zuständigkeits- und Nachweisfragen."
 ---
 
 # Anwälte: internationales mandat und geheimnisschutz - Kammerantwort mit Verfahrensstrategie, Tonlage und Belegplan

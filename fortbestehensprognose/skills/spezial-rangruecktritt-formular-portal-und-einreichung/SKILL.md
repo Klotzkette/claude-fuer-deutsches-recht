@@ -1,6 +1,6 @@
 ---
 name: spezial-rangruecktritt-formular-portal-und-einreichung
-description: "Wenn es um Rangruecktritt: Formular, Portal und Einreichungslogik in Fortbestehensprognose geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Rangrücktritt: Formular, Portal und Einreichungslogik: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Einreichungsplan mit Form- und Nachweischeck."
 ---
 
 # Rangruecktritt: Formular, Portal und Einreichungslogik

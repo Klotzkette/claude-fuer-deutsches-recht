@@ -1,6 +1,6 @@
 ---
 name: bautraeger-insolvenz-konsequenzen-erwerber
-description: "Wenn es um Bautraeger-Insolvenz Konsequenzen für den Erwerber in Fachanwalt Bau Architektenrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Bauträger-Insolvenz Konsequenzen für den Erwerber: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Bautraeger-Insolvenz Konsequenzen für den Erwerber

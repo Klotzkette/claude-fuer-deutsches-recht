@@ -1,6 +1,6 @@
 ---
 name: freedom-to-operate-und-schutzbereich
-description: "Wenn es um Freedom-to-Operate und Schutzbereich in patentrecht geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
+description: "Für Freedom-to-Operate und Schutzbereich: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Freedom-to-Operate und Schutzbereich

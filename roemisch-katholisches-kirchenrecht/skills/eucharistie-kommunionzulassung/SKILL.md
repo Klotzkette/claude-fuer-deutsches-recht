@@ -1,6 +1,6 @@
 ---
 name: eucharistie-kommunionzulassung
-description: "Wenn es um Eucharistie und Kommunionzulassung in Römisch-katholisches Kirchenrecht CIC und Katechismus geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. Auswahlstichwort: Eucharistie Kommunionzulassung; Arbeitsfeld: Römisch-katholisches Kirchenrecht CIC und Katechismus."
+description: "Für Eucharistie und Kommunionzulassung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Schnittstellenkarte mit Zuständigkeits- und Nachweisfragen. Fachgebiet: Römisch-katholisches Kirchenrecht CIC und Katechismus. Route: eucharistie-kommunionzulassung."
 ---
 
 # Eucharistie und Kommunionzulassung

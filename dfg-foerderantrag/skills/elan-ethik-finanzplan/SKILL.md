@@ -1,6 +1,6 @@
 ---
 name: elan-ethik-finanzplan
-description: "Wenn es um Elan: Formular, Portal und Einreichungslogik in DFG-Förderantrag geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
+description: "Für Elan: Formular, Portal und Einreichungslogik: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Elan: Formular, Portal und Einreichungslogik

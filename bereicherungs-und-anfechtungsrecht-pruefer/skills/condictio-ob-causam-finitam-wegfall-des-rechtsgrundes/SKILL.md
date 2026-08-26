@@ -1,6 +1,6 @@
 ---
 name: condictio-ob-causam-finitam-wegfall-des-rechtsgrundes
-description: "Wenn es um Condictio ob causam finitam: Wegfall des Rechtsgrundes in bereicherungs-und-anfechtungsrecht-prüfer geht: rechnet Schwellen, Beträge, Varianten und Kontrollannahmen durch; liefert eine Berechnungstabelle mit Schwellen, Annahmen und Kontrollfragen. Auswahlstichwort: Condictio Ob Causam Finitam Wegfall Des Rechtsgrundes; Arbeitsfeld: bereicherungs-und-anfechtungsrecht-prüfer."
+description: "Für Condictio ob causam finitam: Wegfall des Rechtsgrundes: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt. Fachgebiet: bereicherungs-und-anfechtungsrecht-prüfer. Route: condictio-ob-causam-finitam-wegfall-des-rechtsgrundes."
 ---
 
 # Condictio ob causam finitam: Wegfall des Rechtsgrundes

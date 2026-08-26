@@ -1,6 +1,6 @@
 ---
 name: gewaltschutz-sicherheitsdienst-hausverbot
-description: "Wenn es um Gewaltschutz Sicherheitsdienst Hausverbot in Krankenhausrecht geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
+description: "Für Gewaltschutz Sicherheitsdienst Hausverbot: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Gewaltschutz Sicherheitsdienst Hausverbot

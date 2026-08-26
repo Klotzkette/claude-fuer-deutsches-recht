@@ -1,6 +1,6 @@
 ---
 name: bundesverfassungsgericht-quellenkarte-check
-description: "Wenn es um Bundesverfassungsgericht Quellenkarte in verfassungsrecht geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
+description: "Für Bundesverfassungsgericht Quellenkarte: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Bundesverfassungsgericht Quellenkarte

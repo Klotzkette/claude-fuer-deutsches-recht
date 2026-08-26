@@ -1,6 +1,6 @@
 ---
 name: barrierefreiheit-und-inklusion
-description: "Wenn es um Barrierefreiheit Und Inklusion in Wahlkampfrecht Praxis geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Barrierefreiheit und Inklusion: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Barrierefreiheit Und Inklusion

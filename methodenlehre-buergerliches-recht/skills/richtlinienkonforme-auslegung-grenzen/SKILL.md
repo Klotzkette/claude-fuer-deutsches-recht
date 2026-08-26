@@ -1,6 +1,6 @@
 ---
 name: richtlinienkonforme-auslegung-grenzen
-description: "Wenn es um Richtlinienkonforme Auslegung und ihre Grenzen in Methodenlehre bürgerliches Recht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Richtlinienkonforme Auslegung und ihre Grenzen: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Richtlinienkonforme Auslegung und ihre Grenzen

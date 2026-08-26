@@ -1,6 +1,6 @@
 ---
 name: se-risikomanagement-beteiligungsvereinbarung
-description: "Wenn es um Risikomanagement Und Compliance in AG/SE-Aufsichtsrat Praxis geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
+description: "Für Risikomanagement und Compliance: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Risikomanagement Und Compliance

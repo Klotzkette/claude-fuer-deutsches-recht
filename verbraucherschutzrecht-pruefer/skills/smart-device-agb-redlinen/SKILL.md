@@ -1,6 +1,6 @@
 ---
 name: smart-device-agb-redlinen
-description: "Wenn es um Smart Device Agb Redlinen in Verbraucherschutzrecht Prüfer geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Smart Device AGB Redlinen: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Smart Device Agb Redlinen

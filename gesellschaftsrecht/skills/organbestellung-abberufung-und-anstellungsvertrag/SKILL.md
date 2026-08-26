@@ -1,6 +1,6 @@
 ---
 name: organbestellung-abberufung-und-anstellungsvertrag
-description: "Wenn es um Organbestellung, Abberufung und Anstellungsvertrag in Gesellschaftsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Organbestellung, Abberufung und Anstellungsvertrag: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 # Organbestellung, Abberufung und Anstellungsvertrag
 

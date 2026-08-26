@@ -1,6 +1,6 @@
 ---
 name: deployment-eigenen-einsteiger
-description: "Wenn es um Deployment: Schriftsatz-, Brief- und Memo-Bausteine in Kanzlei-Builder-Hub geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
+description: "Für Deployment: Schriftsatz-, Brief- und Memo-Bausteine: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Deployment: Schriftsatz-, Brief- und Memo-Bausteine

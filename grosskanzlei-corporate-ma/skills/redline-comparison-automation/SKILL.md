@@ -1,6 +1,6 @@
 ---
 name: redline-comparison-automation
-description: "Wenn es um Redline Comparison Automation in Großkanzlei Corporate/M&A geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Verhandlungs- oder Eskalationslinie mit Optionen. Auswahlstichwort: Redline Comparison Automation; Arbeitsfeld: Großkanzlei Corporate/M&A."
+description: "Für Redline Comparison Automation: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt. Fachgebiet: Großkanzlei Corporate/M&A. Route: redline-comparison-automation."
 ---
 
 # Redline Comparison Automation für M&A-Dokumente: vergleicht Markups, extrahiert Key Issues, erkennt stille Änderungen und baut Antwortvorschlaege.

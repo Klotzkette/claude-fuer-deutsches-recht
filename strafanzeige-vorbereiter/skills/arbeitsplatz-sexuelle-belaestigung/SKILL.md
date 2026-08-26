@@ -1,6 +1,6 @@
 ---
 name: arbeitsplatz-sexuelle-belaestigung
-description: "Wenn es um Arbeitsplatz: sexuelle Belästigung strafrechtlich einordnen in Strafanzeige-Vorbereiter geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Beweislast- und Substantiierungsmatrix."
+description: "Für Arbeitsplatz: sexuelle Belästigung strafrechtlich einordnen: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Arbeitsplatz: sexuelle Belästigung strafrechtlich einordnen

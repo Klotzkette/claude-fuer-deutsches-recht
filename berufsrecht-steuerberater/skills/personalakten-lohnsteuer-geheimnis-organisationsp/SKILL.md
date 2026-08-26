@@ -1,6 +1,6 @@
 ---
 name: personalakten-lohnsteuer-geheimnis-organisationsp
-description: "Wenn es um Personalakten Lohnsteuer Geheimnis Organisationsp in Berufsrecht Steuerberater geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Personalakten Lohnsteuer Geheimnis Organisationsp: ordnet Akte, Belege und Lücken; Ergebnis: Schnittstellenkarte mit Zuständigkeits- und Nachweisfragen."
 ---
 
 # Steuerberater: personalakten lohnsteuer geheimnis - Organisationspflichten, Prävention, Team-Anweisung und Fristenkontrolle

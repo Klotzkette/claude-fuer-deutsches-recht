@@ -1,6 +1,6 @@
 ---
 name: partner-briefing-memo
-description: "Wenn es um Partnerbriefing Memo in Didaktisches Gesellschaftsrecht — English Business Terms geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
+description: "Für Partnerbriefing Memo: erstellt Entwurf mit Antrag, Beweis und Anlagen; Ergebnis: Schriftsatz mit Begründungs- und Anlagenlogik."
 ---
 
 # Partnerbriefing Memo

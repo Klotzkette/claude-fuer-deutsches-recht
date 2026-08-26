@@ -1,6 +1,6 @@
 ---
 name: space-mining-ressourcenrechte-eigentum-und-sicherheite
-description: "Wenn es um Weltraumrecht: Space Mining: Ressourcenrechte, Eigentum und Sicherheiten in Weltraumrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Weltraumrecht: Space Mining: Ressourcenrechte, Eigentum und Sicherheiten: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Weltraumrecht: Space Mining: Ressourcenrechte, Eigentum und Sicherheiten

@@ -1,6 +1,6 @@
 ---
 name: betriebliche-krankenversicherung-und-datenschutz
-description: "Wenn es um Betriebliche Krankenversicherung und Datenschutz in Krankenkassenrecht und Krankenversicherung geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Betriebliche Krankenversicherung und Datenschutz: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Betriebliche Krankenversicherung und Datenschutz

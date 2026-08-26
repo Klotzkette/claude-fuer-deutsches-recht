@@ -1,6 +1,6 @@
 ---
 name: gestapelt-compliance-dokumentation
-description: "Wenn es um Gestapelt: Compliance-Dokumentation und Aktenvermerk in Tabellenreview 3D geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. Auswahlstichwort: Gestapelt Compliance Dokumentation; Arbeitsfeld: Tabellenreview 3D."
+description: "Für Gestapelt: Compliance-Dokumentation und Aktenvermerk: ordnet Akte, Belege und Lücken; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Gestapelt: Compliance-Dokumentation und Aktenvermerk

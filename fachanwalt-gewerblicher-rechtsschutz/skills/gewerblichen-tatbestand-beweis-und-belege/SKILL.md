@@ -1,6 +1,6 @@
 ---
 name: gewerblichen-tatbestand-beweis-und-belege
-description: "Wenn es um Gewerblichen Tatbestand Beweis Und Belege in Fachanwalt Gewerblicher Rechtsschutz geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
+description: "Für Gewerblichen Tatbestand Beweis und Belege: ordnet Akte, Belege und Lücken; Ergebnis: Beweislast- und Substantiierungsmatrix."
 ---
 
 # Tatbestand, Beweis und Belege im gewerblichen Rechtsschutz: Beweismittel für Marken-, Patent-, Design- und UWG-Verletzungen, Darlegungs- und Beweislastverteilung, Beweissicherungsklage, Vernichtungsanspruch, eidesstattliche Versicherung, Testkauf.
@@ -116,3 +116,7 @@ description: "Wenn es um Gewerblichen Tatbestand Beweis Und Belege in Fachanwalt
 ## Was dieser Arbeitsgang nicht macht
 - Keine technische Verletzungsanalyse ohne Sachverständigen.
 - Kein Ersatz für vollständige Mandantenberatung.
+
+## Vertiefung bei Bedarf
+
+- Bei `spezial-gewerblichen-tatbestand-beweis-und-belege` beziehungsweise Gewerblichen: Tatbestandsmerkmale, Beweisfragen und Beleglage: [die zusätzliche Vertiefung laden](./references/vertiefung-spezial-gewerblichen-tatbestand-beweis-und-belege.md).

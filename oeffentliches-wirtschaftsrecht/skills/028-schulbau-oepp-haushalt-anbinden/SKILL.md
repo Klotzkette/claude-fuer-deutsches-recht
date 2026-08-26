@@ -1,6 +1,6 @@
 ---
 name: 028-schulbau-oepp-haushalt-anbinden
-description: "Wenn es um Schulbau Oepp Haushalt Anbinden in Öffentliches Wirtschaftsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Schulbau ÖPP Haushalt Anbinden: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Schulbau Oepp Haushalt Anbinden

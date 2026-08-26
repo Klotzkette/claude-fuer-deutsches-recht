@@ -1,6 +1,6 @@
 ---
 name: energie-regulierungsakte-anreizregulierung-erloesobergrenze-fris
-description: "Wenn es um Energie-Regulierungsakte: Anreizregulierung Erlösobergrenze — Fristen- und Bescheidanalyse in Bundesnetzagentur-Verfahren geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Energie-Regulierungsakte: Anreizregulierung Erlösobergrenze — Fristen- und Bescheidanalyse: ordnet Akte, Belege und Lücken; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Energie-Regulierungsakte: Anreizregulierung Erlösobergrenze — Fristen- und Bescheidanalyse

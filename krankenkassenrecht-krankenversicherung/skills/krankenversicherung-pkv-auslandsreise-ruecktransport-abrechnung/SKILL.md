@@ -1,6 +1,6 @@
 ---
 name: krankenversicherung-pkv-auslandsreise-ruecktransport-abrechnung
-description: "Wenn es um PKV: Auslandsreise und Rücktransport in Krankenkassenrecht und Krankenversicherung geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für PKV: Auslandsreise und Rücktransport: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Schnittstellenkarte mit Zuständigkeits- und Nachweisfragen."
 ---
 
 # PKV: Auslandsreise und Rücktransport

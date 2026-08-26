@@ -1,6 +1,6 @@
 ---
 name: itr-saas-vertrag-bauleiter
-description: "Wenn es um Itr Saas Vertrag Bauleiter in Fachanwalt It Recht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Itr Saas Vertrag Bauleiter: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Bauleiter SaaS-Vertrag: Service Level Agreement, Datenverarbeitung Auftragsverarbeitungsvertrag, Mitwirkungspflichten, Verfuegbarkeit, Bonus-Malus

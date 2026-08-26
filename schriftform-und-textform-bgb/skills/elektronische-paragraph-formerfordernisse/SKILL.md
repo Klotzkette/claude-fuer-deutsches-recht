@@ -1,6 +1,6 @@
 ---
 name: elektronische-paragraph-formerfordernisse
-description: "Wenn es um Elektronische Form Paragraf 126a BGB — Qualifizierte elektronische Signatur in Schriftform und Textform im BGB geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Elektronische Form Paragraf 126a BGB — Qualifizierte elektronische Signatur: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Elektronische Form Paragraf 126a BGB — Qualifizierte elektronische Signatur

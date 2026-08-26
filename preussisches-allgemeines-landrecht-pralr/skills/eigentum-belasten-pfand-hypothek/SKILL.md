@@ -1,6 +1,6 @@
 ---
 name: eigentum-belasten-pfand-hypothek
-description: "Wenn es um Pralr Eigentum Belasten Pfand Hypothek in Preußisches Allgemeines Landrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Pralr Eigentum Belasten Pfand Hypothek: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Pralr Eigentum Belasten Pfand Hypothek

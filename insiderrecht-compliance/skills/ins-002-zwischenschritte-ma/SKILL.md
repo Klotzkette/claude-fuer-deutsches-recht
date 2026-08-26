@@ -1,6 +1,6 @@
 ---
 name: ins-002-zwischenschritte-ma
-description: "Wenn es um M&A-Zwischenschritte in Insiderrecht Compliance geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für M&A-Zwischenschritte: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # M&A-Zwischenschritte

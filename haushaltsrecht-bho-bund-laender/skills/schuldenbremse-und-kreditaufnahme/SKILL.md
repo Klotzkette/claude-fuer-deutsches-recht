@@ -1,6 +1,6 @@
 ---
 name: schuldenbremse-und-kreditaufnahme
-description: "Wenn es um Schuldenbremse Und Kreditaufnahme in Haushaltsrecht BHO Bund und Länder geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
+description: "Für Schuldenbremse und Kreditaufnahme: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Schuldenbremse Und Kreditaufnahme

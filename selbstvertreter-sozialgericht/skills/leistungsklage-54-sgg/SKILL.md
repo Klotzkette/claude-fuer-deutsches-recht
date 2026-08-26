@@ -1,6 +1,6 @@
 ---
 name: leistungsklage-54-sgg
-description: "Wenn es um Die Leistungsklage — Paragraf 54 Abs. 5 SGG in selbstvertreter-sozialgericht geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
+description: "Für Die Leistungsklage — Paragraf 54 Abs. 5 SGG: erstellt Entwurf mit Antrag, Beweis und Anlagen; Ergebnis: Schriftsatz mit Begründungs- und Anlagenlogik."
 ---
 
 # Die Leistungsklage — § 54 Abs. 5 SGG

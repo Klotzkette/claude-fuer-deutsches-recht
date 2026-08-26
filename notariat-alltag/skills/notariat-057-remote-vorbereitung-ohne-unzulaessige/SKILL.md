@@ -1,6 +1,6 @@
 ---
 name: notariat-057-remote-vorbereitung-ohne-unzulaessige
-description: "Wenn es um Notariat im Alltag: Remote-Vorbereitung ohne unzulässige Fernbeurkundung in Notariat im Alltag geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Notariat im Alltag: Remote-Vorbereitung ohne unzulässige Fernbeurkundung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Notariat im Alltag: Remote-Vorbereitung ohne unzulässige Fernbeurkundung

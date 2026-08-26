@@ -1,6 +1,6 @@
 ---
 name: denkmalschutz-niedersachsen-ndschg
-description: "Wenn es um Denkmalschutz Niedersachsen (NDSchG) in Denkmalschutzrecht — Bundesweiter Rahmen und sechzehn geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Denkmalschutz Niedersachsen (NDSchG): ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Denkmalschutz Niedersachsen (NDSchG)

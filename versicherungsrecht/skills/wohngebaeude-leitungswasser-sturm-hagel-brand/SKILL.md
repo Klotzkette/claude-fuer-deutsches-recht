@@ -1,6 +1,6 @@
 ---
 name: wohngebaeude-leitungswasser-sturm-hagel-brand
-description: "Wenn es um Wohngebäudeversicherung: Leitungswasser, Sturm, Brand in Versicherungsrecht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen."
+description: "Für Wohngebäudeversicherung: Leitungswasser, Sturm, Brand: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Schnittstellenkarte mit Zuständigkeits- und Nachweisfragen."
 ---
 
 # Wohngebäudeversicherung: Leitungswasser, Sturm, Brand

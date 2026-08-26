@@ -1,6 +1,6 @@
 ---
 name: kartellrechtlicher-informationsaustausch-im-system
-description: "Wenn es um Franchiserecht: Kartellrechtlicher Informationsaustausch im System in Franchiserecht Praxis geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Franchiserecht: Kartellrechtlicher Informationsaustausch im System: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Franchiserecht: Kartellrechtlicher Informationsaustausch im System

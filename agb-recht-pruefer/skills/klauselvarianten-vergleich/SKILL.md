@@ -1,6 +1,6 @@
 ---
 name: klauselvarianten-vergleich
-description: "Wenn es um Klauselvarianten Vergleich in AGB-Recht-Prüfer geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Dokumentenmatrix mit Nachforderungsliste."
+description: "Für Klauselvarianten Vergleich: entwickelt Ziel, Vergleich und Eskalation; Ergebnis: Verhandlungs- oder Eskalationslinie."
 ---
 
 # Klauselvarianten Vergleich

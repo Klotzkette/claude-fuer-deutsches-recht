@@ -1,6 +1,6 @@
 ---
 name: gesundheitsdatenpanne-klinik
-description: "Wenn es um Gesundheitsdatenpanne Klinik in Fachanwalt Medizinrecht geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
+description: "Für Gesundheitsdatenpanne Klinik: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Gesundheitsdatenpanne Klinik: moderner Medizinrechts-Skill für Fehlversand Arztbrief, Portalzugriff, Ransomware, Meldung, Benachrichtigung und Schadensersatz

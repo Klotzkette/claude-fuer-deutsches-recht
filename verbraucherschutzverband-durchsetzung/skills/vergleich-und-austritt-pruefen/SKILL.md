@@ -1,6 +1,6 @@
 ---
 name: vergleich-und-austritt-pruefen
-description: "Wenn es um Vergleich Und Austritt Prüfen in Verbraucherschutzverband Durchsetzung geht: entwickelt Verhandlungsziel, Vergleichskorridor und Eskalationspfad; liefert eine Verhandlungs- oder Eskalationslinie mit Optionen."
+description: "Für Vergleich und Austritt Prüfen: entwickelt Ziel, Vergleich und Eskalation; Ergebnis: Verhandlungs- oder Eskalationslinie. Fachgebiet: Verbraucherschutzverband Durchsetzung. Route: vergleich-und-austritt-pruefen."
 ---
 
 # Vergleich Und Austritt Prüfen

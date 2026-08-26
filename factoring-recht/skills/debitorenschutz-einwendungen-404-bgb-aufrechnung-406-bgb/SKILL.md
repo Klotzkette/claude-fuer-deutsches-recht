@@ -1,6 +1,6 @@
 ---
 name: debitorenschutz-einwendungen-404-bgb-aufrechnung-406-bgb
-description: "Wenn es um Debitorenschutz Einwendungen Paragraf 404 BGB Aufrechnung Paragraf 406 BGB in Factoring-Recht geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
+description: "Für Debitorenschutz Einwendungen Paragraf 404 BGB Aufrechnung Paragraf 406 BGB: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Debitorenschutz Einwendungen § 404 BGB Aufrechnung § 406 BGB

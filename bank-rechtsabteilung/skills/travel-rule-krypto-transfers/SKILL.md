@@ -1,6 +1,6 @@
 ---
 name: travel-rule-krypto-transfers
-description: "Wenn es um Travel Rule Krypto in Bank-Rechtsabteilung geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
+description: "Für Travel Rule Krypto: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Travel Rule Krypto

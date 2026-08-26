@@ -1,6 +1,6 @@
 ---
 name: strippen-risikoampel-und-gegenargumente
-description: "Wenn es um Strippen: Risikoampel, Gegenargumente und Verteidigungslinien in Vertragsausfüller geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Strippen: Risikoampel, Gegenargumente und Verteidigungslinien: prüft Ergebnis, Beweislast und Gegenposition; Ergebnis: Fristen- und Risikoampel."
 ---
 
 # Strippen: Risikoampel, Gegenargumente und Verteidigungslinien

@@ -1,6 +1,6 @@
 ---
 name: workplace-safety-factory
-description: "Wenn es um Arbeitssicherheit Fabriken China: Work Safety Law und LkSG in China-Wirtschaftsverkehr geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Arbeitssicherheit Fabriken China: Work Safety Law und LkSG: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Arbeitssicherheit Fabriken China: Work Safety Law und LkSG

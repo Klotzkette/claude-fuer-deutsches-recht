@@ -1,6 +1,6 @@
 ---
 name: iap-konzernforderungen-anfechtung-spezial
-description: "Wenn es um IAP: Konzernforderungen Anfechtung in Insolvenzforderungsanmeldungsprüfung geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für IAP: Konzernforderungen Anfechtung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # IAP: Konzernforderungen Anfechtung

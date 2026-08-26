@@ -1,6 +1,6 @@
 ---
 name: sanktion-beweisrecht-stpo-owig
-description: "Wenn es um Beweisrecht im Datenschutz-OWiG in Datenschutzrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Beweisrecht im Datenschutz-OWiG: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Beweislast- und Substantiierungsmatrix. Fachgebiet: Datenschutzrecht."
 ---
 
 # Beweisrecht im Datenschutz-OWiG

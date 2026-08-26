@@ -1,6 +1,6 @@
 ---
 name: 04-glaeubigerversammlung-und-pruefungstermin
-description: "Wenn es um 04 Gläubigerversammlung und Prüfungstermin in Insolvenz- und Restrukturierungsgericht am Amtsgericht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für 04 Gläubigerversammlung und Prüfungstermin: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Schnittstellenkarte mit Zuständigkeits- und Nachweisfragen."
 ---
 
 # 04 Gläubigerversammlung und Prüfungstermin

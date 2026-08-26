@@ -1,6 +1,6 @@
 ---
 name: dokumenten-erzeugung-pdf-laien-sozialgericht
-description: "Wenn es um PDFs erzeugen — Schritt für Schritt in selbstvertreter-sozialgericht geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
+description: "Für PDFs erzeugen — Schritt für Schritt: ordnet Akte, Belege und Lücken; Ergebnis: Schnittstellenkarte mit Zuständigkeits- und Nachweisfragen."
 ---
 
 # PDFs erzeugen — Schritt für Schritt

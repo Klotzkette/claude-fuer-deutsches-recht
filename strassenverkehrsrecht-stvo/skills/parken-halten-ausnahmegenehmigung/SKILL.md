@@ -1,6 +1,6 @@
 ---
 name: parken-halten-ausnahmegenehmigung
-description: "Wenn es um Parken Halten Abschleppen in Straßenverkehrsrecht StVO geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Parken Halten Abschleppen: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Parken Halten Abschleppen

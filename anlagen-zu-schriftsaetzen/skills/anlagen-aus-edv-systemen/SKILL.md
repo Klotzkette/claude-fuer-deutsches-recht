@@ -1,6 +1,6 @@
 ---
 name: anlagen-aus-edv-systemen
-description: "Wenn es um Anlagen aus IT-Systemen in Anlagen zu Schriftsätzen geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Beweislast- und Substantiierungsmatrix."
+description: "Für Anlagen aus IT-Systemen: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Anlagen aus IT-Systemen

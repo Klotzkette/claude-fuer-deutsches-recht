@@ -1,6 +1,6 @@
 ---
 name: unter-tatbestand-beweis-und-belege
-description: "Wenn es um Unter: Tatbestandsmerkmale, Beweisfragen und Beleglage in verfassungsrecht geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Beweislast- und Substantiierungsmatrix."
+description: "Für Unter: Tatbestandsmerkmale, Beweisfragen und Beleglage: ordnet Akte, Belege und Lücken; Ergebnis: Beweislast- und Substantiierungsmatrix."
 ---
 
 # Unter: Tatbestandsmerkmale, Beweisfragen und Beleglage

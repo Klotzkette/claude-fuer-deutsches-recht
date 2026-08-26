@@ -1,6 +1,6 @@
 ---
 name: jahresabschluss-kassenfuehrung-gobd
-description: "Wenn es um Kassenfuehrung — GoBD-Pflichten in Steuerrecht – Steuerberater und Anwälte geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. Auswahlstichwort: Jahresabschluss Kassenfuehrung Gobd; Arbeitsfeld: Steuerrecht – Steuerberater und Anwälte."
+description: "Für Kassenführung — GoBD-Pflichten: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt. Fachgebiet: Steuerrecht – Steuerberater und Anwälte. Route: jahresabschluss-kassenfuehrung-gobd."
 ---
 
 # Kassenfuehrung — GoBD-Pflichten

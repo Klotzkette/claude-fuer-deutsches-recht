@@ -1,6 +1,6 @@
 ---
 name: ihl-002-cisg-anwendungsbereich
-description: "Wenn es um CISG Anwendungsbereich in Internationales Handelsrecht und Lex Mercatoria geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für CISG Anwendungsbereich: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # CISG Anwendungsbereich

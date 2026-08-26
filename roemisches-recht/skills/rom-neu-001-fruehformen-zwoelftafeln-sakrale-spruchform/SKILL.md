@@ -1,6 +1,6 @@
 ---
 name: rom-neu-001-fruehformen-zwoelftafeln-sakrale-spruchform
-description: "Wenn es um Römisches Recht: Frühformen Zwölftafelrecht sakrale Spruchform und Prozessformel in Römisches Recht geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Römisches Recht: Frühformen Zwölftafelrecht sakrale Spruchform und Prozessformel: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Schnittstellenkarte mit Zuständigkeits- und Nachweisfragen."
 ---
 
 # Römisches Recht: Frühformen Zwölftafelrecht sakrale Spruchform und Prozessformel

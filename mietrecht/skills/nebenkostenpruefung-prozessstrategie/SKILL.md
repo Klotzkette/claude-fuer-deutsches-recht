@@ -1,6 +1,6 @@
 ---
 name: nebenkostenpruefung-prozessstrategie
-description: "Wenn es um Nebenkostenprüfung: Einreichung, Portal und Amtsgericht in Mietrecht geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Nebenkostenprüfung: Einreichung, Portal und Amtsgericht: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Verhandlungs- oder Eskalationslinie."
 ---
 
 # Nebenkostenprüfung: Einreichung, Portal und Amtsgericht

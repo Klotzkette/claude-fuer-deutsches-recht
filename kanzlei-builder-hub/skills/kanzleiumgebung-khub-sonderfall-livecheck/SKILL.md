@@ -1,6 +1,6 @@
 ---
 name: kanzleiumgebung-khub-sonderfall-livecheck
-description: "Wenn es um Kanzleiumgebung: Verhandlung, Vergleich und Eskalation in Kanzlei-Builder-Hub geht: entwickelt Verhandlungsziel, Vergleichskorridor und Eskalationspfad; liefert eine Verhandlungs- oder Eskalationslinie mit Optionen."
+description: "Für Kanzleiumgebung: Verhandlung, Vergleich und Eskalation: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Kanzleiumgebung: Verhandlung, Vergleich und Eskalation

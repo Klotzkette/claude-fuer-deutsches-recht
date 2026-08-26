@@ -1,6 +1,6 @@
 ---
 name: workflow-output-gutachten-klage-brief
-description: "Wenn es um Output-Wahl BGB BT in BGB BT Prüfer geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
+description: "Für Output-Wahl BGB BT: erstellt Entwurf mit Antrag, Beweis und Anlagen; Ergebnis: Schriftsatz mit Begründungs- und Anlagenlogik."
 ---
 # Output-Wahl BGB BT
 

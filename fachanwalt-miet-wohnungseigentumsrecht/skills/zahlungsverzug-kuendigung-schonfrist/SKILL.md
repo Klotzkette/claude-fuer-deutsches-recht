@@ -1,6 +1,6 @@
 ---
 name: zahlungsverzug-kuendigung-schonfrist
-description: "Wenn es um Zahlungsverzug, Kündigung und Schonfrist: Fachmodul im Miet- und Wohnungseigentumsrecht in Fachanwalt Miet- und Wohnungseigentumsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Zahlungsverzug, Kündigung und Schonfrist: Fachmodul im Miet- und Wohnungseigentumsrecht: prüft Frist, Form, Zuständigkeit und Eilbedarf; Ergebnis: Fristen- und Risikoampel."
 ---
 
 # Zahlungsverzug, Kündigung und Schonfrist: Fachmodul im Miet- und Wohnungseigentumsrecht
@@ -44,3 +44,7 @@ description: "Wenn es um Zahlungsverzug, Kündigung und Schonfrist: Fachmodul im
 - Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei prüfbarer Quelle ausgeben.
 - Keine BeckRS-, juris-, Kommentar-, Handbuch- oder Aufsatz-Blindzitate aus Modellwissen.
 - Annahmen, fehlende Unterlagen, Beweisrisiken und Fristen ausdrücklich markieren.
+
+## Vertiefung bei Bedarf
+
+- Bei `spezial-zahlungsverzug-kuendigung-schonfrist` beziehungsweise Zahlungsverzug, Kündigung und Schonfrist: [die zusätzliche Vertiefung laden](./references/vertiefung-spezial-zahlungsverzug-kuendigung-schonfrist.md).

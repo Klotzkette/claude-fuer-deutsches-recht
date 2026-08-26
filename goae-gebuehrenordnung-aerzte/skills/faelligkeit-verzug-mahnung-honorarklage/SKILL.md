@@ -1,6 +1,6 @@
 ---
 name: faelligkeit-verzug-mahnung-honorarklage
-description: "Wenn es um Fälligkeit Verzug Mahnung Honorarklage in GOÄ Gebührenordnung für Ärzte geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
+description: "Für Fälligkeit Verzug Mahnung Honorarklage: erstellt Entwurf mit Antrag, Beweis und Anlagen; Ergebnis: Schriftsatz mit Begründungs- und Anlagenlogik."
 ---
 
 # Fälligkeit Verzug Mahnung Honorarklage

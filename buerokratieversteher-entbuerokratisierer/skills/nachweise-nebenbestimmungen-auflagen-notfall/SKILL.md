@@ -1,6 +1,6 @@
 ---
 name: nachweise-nebenbestimmungen-auflagen-notfall
-description: "Wenn es um Nachweise und Belege in Bürokratieversteher und Entbürokratisierer geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Nachweise und Belege: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Nachweise und Belege

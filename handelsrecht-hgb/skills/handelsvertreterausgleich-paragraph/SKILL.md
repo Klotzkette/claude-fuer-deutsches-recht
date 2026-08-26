@@ -1,6 +1,6 @@
 ---
 name: handelsvertreterausgleich-paragraph
-description: "Wenn es um Handelsvertreterausgleich Paragraf 89b HGB in Handelsrecht HGB geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Handelsvertreterausgleich Paragraf 89b HGB: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Handelsvertreterausgleich § 89b HGB

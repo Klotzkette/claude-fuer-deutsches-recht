@@ -1,6 +1,6 @@
 ---
 name: priority-claims-507
-description: "Wenn es um Priority Claims Paragraf 507 in US Bankruptcy Code geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Priority Claims Paragraf 507: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Priority Claims § 507

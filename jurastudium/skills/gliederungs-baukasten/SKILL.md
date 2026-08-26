@@ -1,6 +1,6 @@
 ---
 name: gliederungs-baukasten
-description: "Wenn es um Lernstruktur-Builder in Jurastudium geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Lernstruktur-Builder: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Lernstruktur-Builder

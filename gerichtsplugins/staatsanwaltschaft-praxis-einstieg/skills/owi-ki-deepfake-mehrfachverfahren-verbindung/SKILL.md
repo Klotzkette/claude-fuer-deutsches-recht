@@ -1,6 +1,6 @@
 ---
 name: owi-ki-deepfake-mehrfachverfahren-verbindung
-description: "Wenn es um digitale Werkzeuge- und Deepfake-Beweise im Strafverfahren in Staatsanwaltschaft Praxis-Einstieg geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Beweislast- und Substantiierungsmatrix. Auswahlstichwort: Owi Ki Deepfake Mehrfachverfahren Verbindung; Arbeitsfeld: Staatsanwaltschaft Praxis-Einstieg."
+description: "Für digitale Werkzeuge- und Deepfake-Beweise im Strafverfahren: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # KI- und Deepfake-Beweise im Strafverfahren

@@ -1,6 +1,6 @@
 ---
 name: dokumentenintake-forderungsportfolio
-description: "Wenn es um Dokumentenintake Forderungsportfolio in Factoring-Recht geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Beweislast- und Substantiierungsmatrix."
+description: "Für Dokumentenintake Forderungsportfolio: ordnet Akte, Belege und Lücken; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Dokumentenintake Forderungsportfolio

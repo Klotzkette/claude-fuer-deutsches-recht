@@ -1,6 +1,6 @@
 ---
 name: betriebsratswahl-leiharbeit-wahlrecht-anfechtung
-description: "Prüft Leiharbeitnehmer bei Betriebsratswahl und Wahlanfechtung. Trennt Wahlrecht nach mehr als drei Monaten Einsatz, fehlende Wählbarkeit im Entleiherbetrieb, Betriebsratsgröße, Wählerliste, Einspruch, Anfechtungsberechtigung, Zweiwochenfrist und mögliche Ergebnisrelevanz."
+description: "Für Leiharbeitnehmer bei der Betriebsratswahl prüfen: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Leiharbeitnehmer bei der Betriebsratswahl prüfen

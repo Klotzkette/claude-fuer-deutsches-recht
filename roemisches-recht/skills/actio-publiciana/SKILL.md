@@ -1,6 +1,6 @@
 ---
 name: actio-publiciana
-description: "Wenn es um Actio Publiciana in Römisches Recht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. Auswahlstichwort: Actio Publiciana; Arbeitsfeld: Römisches Recht."
+description: "Für Actio Publiciana: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt. Fachgebiet: Römisches Recht. Route: actio-publiciana."
 ---
 
 # Actio Publiciana

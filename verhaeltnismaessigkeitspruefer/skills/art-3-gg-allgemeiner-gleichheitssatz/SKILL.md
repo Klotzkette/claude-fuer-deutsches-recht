@@ -1,6 +1,6 @@
 ---
 name: art-3-gg-allgemeiner-gleichheitssatz
-description: "Wenn es um Allgemeiner Gleichheitssatz — Art. 3 Abs. 1 GG als Differenzierungspruefung in Verhältnismäßigkeitsprüfer geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
+description: "Für Allgemeiner Gleichheitssatz — Art. 3 Abs. 1 GG als Differenzierungsprüfung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Allgemeiner Gleichheitssatz — Art. 3 Abs. 1 GG als Differenzierungspruefung

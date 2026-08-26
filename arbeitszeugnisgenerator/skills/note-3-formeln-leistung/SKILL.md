@@ -1,6 +1,6 @@
 ---
 name: note-3-formeln-leistung
-description: "Formuliert eine durchschnittliche Leistungsbeurteilung klar und ohne verdeckte Abwertung. Ordnet die Formel zur vollen Zufriedenheit als Ausgangsniveau der BAG-Beweislast ein und hält Einzelmerkmale, Sozialverhalten und Schlussabschnitt widerspruchsfrei."
+description: "Formuliert eine durchschnittliche Leistungsbeurteilung klar und ohne verdeckte Abwertung."
 ---
 
 # Note 3 — Formeln Leistung

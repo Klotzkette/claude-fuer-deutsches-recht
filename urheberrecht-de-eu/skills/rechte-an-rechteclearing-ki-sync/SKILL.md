@@ -1,6 +1,6 @@
 ---
 name: rechte-an-rechteclearing-ki-sync
-description: "Wenn es um Prompts, Promptbooks und Workflows in Urheberrecht DE EU geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Prompts, Promptbooks und Workflows: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Prompts, Promptbooks und Workflows

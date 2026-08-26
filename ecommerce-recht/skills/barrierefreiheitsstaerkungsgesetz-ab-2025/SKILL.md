@@ -1,6 +1,6 @@
 ---
 name: barrierefreiheitsstaerkungsgesetz-ab-2025
-description: "Wenn es um Barrierefreiheitsstärkungsgesetz ab 2025 in E-Commerce-Recht geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
+description: "Für Barrierefreiheitsstärkungsgesetz ab 2025: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Barrierefreiheitsstärkungsgesetz ab 2025

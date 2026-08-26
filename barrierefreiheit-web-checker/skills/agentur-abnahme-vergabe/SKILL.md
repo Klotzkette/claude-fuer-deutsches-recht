@@ -1,6 +1,6 @@
 ---
 name: agentur-abnahme-vergabe
-description: "Wenn es um Agentur, Abnahme, Vergabe in Barrierefreiheit Web Checker geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Agentur, Abnahme, Vergabe: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Agentur, Abnahme, Vergabe

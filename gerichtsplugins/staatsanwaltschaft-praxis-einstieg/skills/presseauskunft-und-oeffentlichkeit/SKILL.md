@@ -1,6 +1,6 @@
 ---
 name: presseauskunft-und-oeffentlichkeit
-description: "Wenn es um Presseauskunft und Öffentlichkeit in Strafsachen in Staatsanwaltschaft Praxis-Einstieg geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Beweislast- und Substantiierungsmatrix."
+description: "Für Presseauskunft und Öffentlichkeit in Strafsachen: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Presseauskunft und Öffentlichkeit in Strafsachen

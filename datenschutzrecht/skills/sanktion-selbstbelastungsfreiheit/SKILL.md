@@ -1,6 +1,6 @@
 ---
 name: sanktion-selbstbelastungsfreiheit
-description: "Wenn es um Selbstbelastung und Mitwirkungspflichten in Datenschutzrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Selbstbelastung und Mitwirkungspflichten: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt. Fachgebiet: Datenschutzrecht."
 ---
 
 # Selbstbelastung und Mitwirkungspflichten

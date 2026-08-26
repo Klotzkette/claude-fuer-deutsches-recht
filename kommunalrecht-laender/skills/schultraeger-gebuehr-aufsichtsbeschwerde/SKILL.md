@@ -1,6 +1,6 @@
 ---
 name: schultraeger-gebuehr-aufsichtsbeschwerde
-description: "Wenn es um Schultraeger Gebuehr Kalkulieren in Kommunalrecht der Länder geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Schulträger Gebühr Kalkulieren: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Berechnungstabelle mit Annahmen und Kontrollfragen."
 ---
 
 # Schultraeger Gebuehr Kalkulieren

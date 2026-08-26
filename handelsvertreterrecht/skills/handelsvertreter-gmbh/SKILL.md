@@ -1,6 +1,6 @@
 ---
 name: handelsvertreter-gmbh
-description: "Wenn es um Handelsvertreter-GmbH — Rechtsformwahl und Ausgleichsanspruch nach Paragraf 89b HGB in Handelsvertreterrecht und Vertriebsverträge geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Handelsvertreter-GmbH — Rechtsformwahl und Ausgleichsanspruch nach Paragraf 89b HGB: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Handelsvertreter-GmbH — Rechtsformwahl und Ausgleichsanspruch nach § 89b HGB

@@ -1,6 +1,6 @@
 ---
 name: term-sheet-vertragsstrafe-bgb
-description: "Wenn es um Term Sheet zu Vertrag in diesem Spezialbereich geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Beweislast- und Substantiierungsmatrix."
+description: "Für Term Sheet zu Vertrag: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Term Sheet zu Vertrag

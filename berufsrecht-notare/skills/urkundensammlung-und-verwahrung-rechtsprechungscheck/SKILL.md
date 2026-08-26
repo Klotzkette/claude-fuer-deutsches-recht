@@ -1,6 +1,6 @@
 ---
 name: urkundensammlung-und-verwahrung-rechtsprechungscheck
-description: "Wenn es um Urkundensammlung Und Verwahrung Rechtsprechungscheck in Berufsrecht Notare geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Gegenprüfung mit Fehler-, Beweis- und Fristencheck."
+description: "Für Urkundensammlung und Verwahrung Rechtsprechungscheck: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Notare: urkundensammlung und verwahrung - Rechtsprechungscheck, stärkste Gegenansicht und Red-Team-Korrektur

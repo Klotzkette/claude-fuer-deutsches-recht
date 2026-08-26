@@ -1,6 +1,6 @@
 ---
 name: auslandszeiten-ohne-abkommen-beweisstrategie
-description: "Wenn es um auslandszeiten-ohne-abkommen-beweisstrategie in Rentenprüfer geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Beweislast- und Substantiierungsmatrix."
+description: "Für auslandszeiten-ohne-abkommen-beweisstrategie: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Beweislast- und Substantiierungsmatrix."
 ---
 
 # auslandszeiten-ohne-abkommen-beweisstrategie

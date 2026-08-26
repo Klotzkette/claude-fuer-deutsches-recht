@@ -1,6 +1,6 @@
 ---
 name: erstellung-fehlerkatalog
-description: "Wenn es um Erstellung Fehlerkatalog in Mietrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Erstellung Fehlerkatalog: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Erstellung Fehlerkatalog

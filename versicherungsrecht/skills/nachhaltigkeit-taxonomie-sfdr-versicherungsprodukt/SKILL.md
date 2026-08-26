@@ -1,6 +1,6 @@
 ---
 name: nachhaltigkeit-taxonomie-sfdr-versicherungsprodukt
-description: "Wenn es um Nachhaltigkeit bei Versicherungsprodukten in Versicherungsrecht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
+description: "Für Nachhaltigkeit bei Versicherungsprodukten: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Nachhaltigkeit bei Versicherungsprodukten

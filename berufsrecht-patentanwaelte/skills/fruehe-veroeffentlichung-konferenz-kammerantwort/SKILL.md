@@ -1,6 +1,6 @@
 ---
 name: fruehe-veroeffentlichung-konferenz-kammerantwort
-description: "Wenn es um Fruehe Veroeffentlichung Konferenz Kammerantwort in Berufsrecht Patentanwälte geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Verhandlungs- oder Eskalationslinie mit Optionen."
+description: "Für Frühe Veröffentlichung Konferenz Kammerantwort: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Patentanwälte: fruehe veroeffentlichung konferenz - Kammerantwort mit Verfahrensstrategie, Tonlage und Belegplan

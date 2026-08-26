@@ -1,6 +1,6 @@
 ---
 name: mangelhafte-arbeitspapiere-rechtsprechungscheck
-description: "Wenn es um Mangelhafte Arbeitspapiere Rechtsprechungscheck in Berufsrecht Wirtschaftsprüfer geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Gegenprüfung mit Fehler-, Beweis- und Fristencheck."
+description: "Für Mangelhafte Arbeitspapiere Rechtsprechungscheck: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Wirtschaftsprüfer: mangelhafte arbeitspapiere - Rechtsprechungscheck, stärkste Gegenansicht und Red-Team-Korrektur

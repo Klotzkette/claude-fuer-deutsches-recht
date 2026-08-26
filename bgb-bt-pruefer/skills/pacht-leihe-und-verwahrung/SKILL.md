@@ -1,6 +1,6 @@
 ---
 name: pacht-leihe-und-verwahrung
-description: "Wenn es um Pacht, Leihe und Verwahrung BGB in BGB BT Prüfer geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. Auswahlstichwort: Pacht Leihe Und Verwahrung; Arbeitsfeld: BGB BT Prüfer."
+description: "Für Pacht, Leihe und Verwahrung BGB: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt. Fachgebiet: BGB BT Prüfer. Route: pacht-leihe-und-verwahrung."
 ---
 
 # Pacht, Leihe und Verwahrung BGB

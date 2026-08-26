@@ -1,6 +1,6 @@
 ---
 name: hochschulgesetz-baden-wuerttemberg
-description: "Wenn es um Hochschulgesetz Baden Wuerttemberg in Hochschulrecht der Bundesländer geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
+description: "Für Hochschulgesetz Baden Württemberg: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Hochschulgesetz Baden Wuerttemberg

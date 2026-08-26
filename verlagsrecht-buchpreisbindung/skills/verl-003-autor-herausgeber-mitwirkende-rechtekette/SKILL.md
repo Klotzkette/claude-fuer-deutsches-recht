@@ -1,6 +1,6 @@
 ---
 name: verl-003-autor-herausgeber-mitwirkende-rechtekette
-description: "Wenn es um Verlagsrecht: Autor Herausgeber Mitwirkende Rechtekette in Verlagsrecht und Buchpreisbindung geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Verlagsrecht: Autor Herausgeber Mitwirkende Rechtekette: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Verlagsrecht: Autor Herausgeber Mitwirkende Rechtekette

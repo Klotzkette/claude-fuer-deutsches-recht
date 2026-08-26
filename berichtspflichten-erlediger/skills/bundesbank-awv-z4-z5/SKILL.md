@@ -1,6 +1,6 @@
 ---
 name: bundesbank-awv-z4-z5
-description: "Wenn es um Bundesbank AWV Z4/Z5 Meldungen in Berichtspflichten-Erlediger geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Bundesbank AWV Z4/Z5 Meldungen: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Bundesbank AWV Z4/Z5 Meldungen

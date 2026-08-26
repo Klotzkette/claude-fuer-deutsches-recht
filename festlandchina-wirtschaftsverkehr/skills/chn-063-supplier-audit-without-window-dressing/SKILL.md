@@ -1,6 +1,6 @@
 ---
 name: chn-063-supplier-audit-without-window-dressing
-description: "Wenn es um Supplier Audit Without Window Dressing in China-Wirtschaftsverkehr geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Supplier Audit Without Window Dressing: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Supplier Audit Without Window Dressing

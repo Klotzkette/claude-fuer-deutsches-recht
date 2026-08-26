@@ -1,6 +1,6 @@
 ---
 name: kartellrecht-clean-kein-dealzwang-lizenz-ki
-description: "Wenn es um Kartellrecht Clean Team in NDA-Generator und Verschwiegenheitsvereinbarungs-Checker geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
+description: "Für Kartellrecht Clean Team: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Kartellrecht Clean Team

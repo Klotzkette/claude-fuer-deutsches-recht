@@ -1,6 +1,6 @@
 ---
 name: opos-liste
-description: "Wenn es um Forderungen Mahnung und Streit: Erstellt offene-posten-liste mit fälligkeit in Solo-Selbstständige Praxis geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Forderungen Mahnung und Streit: Erstellt offene-posten-liste mit fälligkeit: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Forderungen Mahnung und Streit: Erstellt offene-posten-liste mit fälligkeit

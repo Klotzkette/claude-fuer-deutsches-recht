@@ -1,6 +1,6 @@
 ---
 name: psychische-belastung-krise-suizidale-aeusserung
-description: "Wenn es um Psychische Belastung Krise Suizidale Aeusserung in Start-up-HR-Personalabteilung Berlin geht: entwickelt Verhandlungsziel, Vergleichskorridor und Eskalationspfad; liefert eine Verhandlungs- oder Eskalationslinie mit Optionen."
+description: "Für Psychische Belastung Krise Suizidale Äußerung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Schnittstellenkarte mit Zuständigkeits- und Nachweisfragen."
 ---
 
 # Psychische Belastung Krise Suizidale Aeusserung

@@ -1,6 +1,6 @@
 ---
 name: umweltbericht-umweltpruefung
-description: "Wenn es um Umweltbericht und Umweltprüfung in Normenkontrolle Bauleitplanung — Paragraf 47 VwGO geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Umweltbericht und Umweltprüfung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Tatbestands- oder Anspruchsmatrix."
 ---
 
 # Umweltbericht und Umweltprüfung

@@ -1,6 +1,6 @@
 ---
 name: live-mandantenkommunikation
-description: "Wenn es um Live: Mandantenkommunikation und Entscheidungsvorlage in Liquiditätsplanung — Power geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Live: Mandantenkommunikation und Entscheidungsvorlage: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Mandantennachricht oder Entscheidungsvorlage."
 ---
 
 # Live: Mandantenkommunikation und Entscheidungsvorlage

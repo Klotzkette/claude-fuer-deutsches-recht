@@ -1,6 +1,6 @@
 ---
 name: dienstunfaehigkeit-amtsaerztliches
-description: "Wenn es um Amtsaerztliches Gutachten Dienstunfaehigkeit in Beamtenrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Amtsärztliches Gutachten Dienstunfähigkeit: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Amtsaerztliches Gutachten Dienstunfaehigkeit

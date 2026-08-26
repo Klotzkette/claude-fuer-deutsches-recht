@@ -1,6 +1,6 @@
 ---
 name: fachanwalt-strafrecht-nebenklage-opfervertretung
-description: "Wenn es um Nebenklage und Opfervertretung im Strafverfahren in Fachanwalt Strafrecht geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
+description: "Für Nebenklage und Opfervertretung im Strafverfahren: erstellt Entwurf mit Antrag, Beweis und Anlagen; Ergebnis: Schriftsatz mit Begründungs- und Anlagenlogik."
 ---
 
 # Nebenklage und Opfervertretung im Strafverfahren

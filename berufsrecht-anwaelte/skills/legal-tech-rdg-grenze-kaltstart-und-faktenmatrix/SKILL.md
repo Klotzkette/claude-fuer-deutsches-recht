@@ -1,6 +1,6 @@
 ---
 name: legal-tech-rdg-grenze-kaltstart-und-faktenmatrix
-description: "Wenn es um Legal Tech Rdg Grenze Kaltstart Und Faktenmatrix in Berufsrecht Anwälte geht: klärt Rolle, Ziel, Frist, Unterlagen und den passenden nächsten Fachskill; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Legal Tech Rdg Grenze Kaltstart und Faktenmatrix: routet Rolle, Frist, Unterlagen und Fachschritt; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Anwälte: legal tech rdg grenze - Kaltstart mit Faktenmatrix, Risikoampel und fehlenden Unterlagen

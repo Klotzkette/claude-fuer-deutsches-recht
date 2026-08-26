@@ -1,6 +1,6 @@
 ---
 name: vlb-katalog-pflege-jur
-description: "Wenn es um VLB-Katalog (Verzeichnis lieferbarer Buecher) in Verlagsredaktion geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
+description: "Für VLB-Katalog (Verzeichnis lieferbarer Bücher): ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # VLB-Katalog (Verzeichnis lieferbarer Buecher)

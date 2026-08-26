@@ -1,6 +1,6 @@
 ---
 name: pflegeversicherung-pflegegrad
-description: "Wenn es um Pflegeversicherung Pflegegrad in Fachanwalt Sozialrecht geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Pflegeversicherung Pflegegrad: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Pflegeversicherung Pflegegrad

@@ -1,6 +1,6 @@
 ---
 name: band-titel-rechtsfortwirkung-praxis
-description: "Wenn es um Navigation im Band in Preußisches Allgemeines Landrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. Auswahlstichwort: Band Titel Rechtsfortwirkung Praxis; Arbeitsfeld: Preußisches Allgemeines Landrecht."
+description: "Für Navigation im Band: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt. Fachgebiet: Preußisches Allgemeines Landrecht. Route: band-titel-rechtsfortwirkung-praxis."
 ---
 
 # Navigation im Band

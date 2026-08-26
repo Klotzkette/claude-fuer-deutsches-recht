@@ -1,6 +1,6 @@
 ---
 name: fristenkontrolle-epo-dpma-organisationspflicht-u
-description: "Wenn es um Fristenkontrolle Epo Dpma Organisationspflicht U in Berufsrecht Patentanwälte geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Fristenkontrolle Epo Dpma Organisationspflicht U: prüft Ergebnis, Beweislast und Gegenposition; Ergebnis: Fristen- und Risikoampel."
 ---
 
 # Patentanwälte: fristenkontrolle epo dpma - Organisationspflichten, Prävention, Team-Anweisung und Fristenkontrolle

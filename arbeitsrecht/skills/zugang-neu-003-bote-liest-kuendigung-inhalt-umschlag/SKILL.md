@@ -1,6 +1,6 @@
 ---
 name: zugang-neu-003-bote-liest-kuendigung-inhalt-umschlag
-description: "Wenn es um Arbeitsrecht: Bote liest Kündigung Inhalt Umschlag und Zeugenbeweis in Arbeitsrecht geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Arbeitsrecht: Bote liest Kündigung Inhalt Umschlag und Zeugenbeweis: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Schnittstellenkarte mit Zuständigkeits- und Nachweisfragen."
 ---
 
 # Arbeitsrecht: Bote liest Kündigung Inhalt Umschlag und Zeugenbeweis

@@ -1,6 +1,6 @@
 ---
 name: drucke-pauli-decker-nauck
-description: "Wenn es um Drucke und Verleger in Preußisches Allgemeines Landrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. Auswahlstichwort: Drucke Pauli Decker Nauck; Arbeitsfeld: Preußisches Allgemeines Landrecht."
+description: "Für Drucke und Verleger: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt. Fachgebiet: Preußisches Allgemeines Landrecht. Route: drucke-pauli-decker-nauck."
 ---
 
 # Drucke und Verleger

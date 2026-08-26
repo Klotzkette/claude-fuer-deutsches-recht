@@ -1,6 +1,6 @@
 ---
 name: selbstaendig-vs-side-letter
-description: "Wenn es um Selbständiger Handelsvertreter vs. Angestellter Reisender nach Paragraf 84 HGB in Handelsvertreterrecht und Vertriebsverträge geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
+description: "Für Selbständiger Handelsvertreter vs. Angestellter Reisender nach Paragraf 84 HGB: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Selbständiger Handelsvertreter vs. Angestellter Reisender nach § 84 HGB

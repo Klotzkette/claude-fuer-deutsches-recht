@@ -1,6 +1,6 @@
 ---
 name: sektor-pharma-generika-und-biotech
-description: "Wenn es um Sektor Pharma, Generika und Biotech in Kartellrecht — Marktabgrenzungsprüfung geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Sektor Pharma, Generika und Biotech: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Sektor Pharma, Generika und Biotech

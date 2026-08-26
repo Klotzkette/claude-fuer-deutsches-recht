@@ -1,6 +1,6 @@
 ---
 name: ihl-057-esg-and-lksg-csddd
-description: "Wenn es um Esg And LkSG CSDDD in Internationales Handelsrecht und Lex Mercatoria geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Esg And LkSG CSDDD: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Esg And LkSG CSDDD

@@ -1,6 +1,6 @@
 ---
 name: verbundene-unternehmen-verhandlungsposition
-description: "Wenn es um Verbundene Unternehmen Berater Finanzierer in NDA-Generator und Verschwiegenheitsvereinbarungs-Checker geht: entwickelt Verhandlungsziel, Vergleichskorridor und Eskalationspfad; liefert eine Verhandlungs- oder Eskalationslinie mit Optionen."
+description: "Für Verbundene Unternehmen Berater Finanzierer: entwickelt Ziel, Vergleich und Eskalation; Ergebnis: Verhandlungs- oder Eskalationslinie."
 ---
 
 # Verbundene Unternehmen Berater Finanzierer

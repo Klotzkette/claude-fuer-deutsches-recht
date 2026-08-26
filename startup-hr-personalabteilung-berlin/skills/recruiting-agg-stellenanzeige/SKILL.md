@@ -1,6 +1,6 @@
 ---
 name: recruiting-agg-stellenanzeige
-description: "Wenn es um Recruiting AGG Stellenanzeige in Start-up-HR-Personalabteilung Berlin geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Recruiting AGG Stellenanzeige: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Recruiting AGG Stellenanzeige

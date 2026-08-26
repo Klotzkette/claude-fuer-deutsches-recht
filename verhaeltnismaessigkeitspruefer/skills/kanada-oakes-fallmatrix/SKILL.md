@@ -1,6 +1,6 @@
 ---
 name: kanada-oakes-fallmatrix
-description: "Wenn es um Kanada Oakes-Test: Fallmatrix in Verhältnismäßigkeitsprüfer geht: entwickelt Verhandlungsziel, Vergleichskorridor und Eskalationspfad; liefert eine Verhandlungs- oder Eskalationslinie mit Optionen."
+description: "Für Kanada Oakes-Test: Fallmatrix: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Kanada Oakes-Test: Fallmatrix

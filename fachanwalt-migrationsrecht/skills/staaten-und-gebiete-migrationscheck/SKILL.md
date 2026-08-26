@@ -1,6 +1,6 @@
 ---
 name: staaten-und-gebiete-migrationscheck
-description: "Erschließt den passenden Staaten- oder Gebietscheck für migrationsrechtliche Fragen zu Herkunft, Transit, Urkunden, Visum, Schutz, Passbeschaffung, Rückführung und Aufenthalt. Verwenden, wenn ein konkreter Staat oder ein Gebiet genannt ist; lädt nur die einschlägige Arbeitskarte und verlangt für jede Länder- oder Behördenlage einen aktuellen Quellenabgleich."
+description: "Erschließt den passenden Staaten- oder Gebietscheck für migrationsrechtliche Fragen zu Herkunft, Transit, Urkunden, Visum, Schutz, Passbeschaffung, Rückführung und Aufenthalt."
 ---
 
 # 1. Staaten- und Gebietscheck gezielt durchführen

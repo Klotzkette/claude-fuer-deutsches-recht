@@ -1,6 +1,6 @@
 ---
 name: darlehen-finanzierung-agb
-description: "Wenn es um Darlehen Finanzierung AGB in AGB-Recht-Prüfer geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen."
+description: "Für Darlehen Finanzierung AGB: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Darlehen Finanzierung AGB

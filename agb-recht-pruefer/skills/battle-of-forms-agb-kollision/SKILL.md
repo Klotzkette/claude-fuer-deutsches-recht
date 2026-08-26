@@ -1,6 +1,6 @@
 ---
 name: battle-of-forms-agb-kollision
-description: "Wenn es um Battle of Forms AGB Kollision in AGB-Recht-Prüfer geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Gegenprüfung mit Fehler-, Beweis- und Fristencheck. Auswahlstichwort: Battle Of Forms Agb Kollision; Arbeitsfeld: AGB-Recht-Prüfer."
+description: "Für Battle of Forms AGB Kollision: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Battle of Forms AGB Kollision

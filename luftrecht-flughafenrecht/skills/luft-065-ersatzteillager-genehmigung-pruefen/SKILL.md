@@ -1,6 +1,6 @@
 ---
 name: luft-065-ersatzteillager-genehmigung-pruefen
-description: "Wenn es um Ersatzteillager Genehmigung Pruefen in Luftrecht und Flughafenrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Ersatzteillager Genehmigung Prüfen: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Ersatzteillager Genehmigung Pruefen

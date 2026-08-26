@@ -1,6 +1,6 @@
 ---
 name: laermimmissionen-mediation-vorrang
-description: "Wenn es um Nach: Laermimmissionen in Nachbarschaftsstreit-Prüfer geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
+description: "Für Nach: Lärmimmissionen: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Nach: Laermimmissionen

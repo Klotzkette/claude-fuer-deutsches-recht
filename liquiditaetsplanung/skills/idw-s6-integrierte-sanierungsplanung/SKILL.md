@@ -1,6 +1,6 @@
 ---
 name: idw-s6-integrierte-sanierungsplanung
-description: "Wenn es um Integrierte Sanierungsplanung in Liquiditätsplanung — Power geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Integrierte Sanierungsplanung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Integrierte Sanierungsplanung

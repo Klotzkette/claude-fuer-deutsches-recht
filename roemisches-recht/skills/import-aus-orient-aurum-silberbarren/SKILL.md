@@ -1,6 +1,6 @@
 ---
 name: import-aus-orient-aurum-silberbarren
-description: "Wenn es um Rom 130 Import Aus Orient Aurum Silberbarren in Römisches Recht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Rom 130 Import aus Orient Aurum Silberbarren: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Rom 130 Import Aus Orient Aurum Silberbarren

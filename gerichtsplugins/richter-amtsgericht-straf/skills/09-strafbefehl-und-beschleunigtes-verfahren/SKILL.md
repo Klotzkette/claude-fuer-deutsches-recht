@@ -1,6 +1,6 @@
 ---
 name: 09-strafbefehl-und-beschleunigtes-verfahren
-description: "Wenn es um 09 Strafbefehl und Beschleunigtes Verfahren in Richter Amtsgericht Strafsachen geht: entwickelt Verhandlungsziel, Vergleichskorridor und Eskalationspfad; liefert eine Verhandlungs- oder Eskalationslinie mit Optionen."
+description: "Für 09 Strafbefehl und Beschleunigtes Verfahren: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Schnittstellenkarte mit Zuständigkeits- und Nachweisfragen."
 ---
 
 # 09 Strafbefehl und Beschleunigtes Verfahren

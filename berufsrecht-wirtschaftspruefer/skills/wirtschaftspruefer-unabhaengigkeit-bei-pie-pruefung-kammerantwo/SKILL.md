@@ -1,6 +1,6 @@
 ---
 name: wirtschaftspruefer-unabhaengigkeit-bei-pie-pruefung-kammerantwo
-description: "Wenn es um Wirtschaftspruefer Unabhaengigkeit Bei Pie Prüfung Kammerantwo in Berufsrecht Wirtschaftsprüfer geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Verhandlungs- oder Eskalationslinie mit Optionen."
+description: "Für Wirtschaftsprüfer Unabhängigkeit bei Pie Prüfung Kammerantwo: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Tatbestands- oder Anspruchsmatrix."
 ---
 
 # Wirtschaftsprüfer: unabhaengigkeit bei pie pruefung - Kammerantwort mit Verfahrensstrategie, Tonlage und Belegplan

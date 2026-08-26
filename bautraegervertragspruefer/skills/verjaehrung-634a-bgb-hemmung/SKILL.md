@@ -1,6 +1,6 @@
 ---
 name: verjaehrung-634a-bgb-hemmung
-description: "Wenn es um Verjährung Paragraf 634a BGB und Hemmung in Bauträgervertragspruefer geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Verjährung Paragraf 634a BGB und Hemmung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Verjährung Paragraf 634a BGB und Hemmung

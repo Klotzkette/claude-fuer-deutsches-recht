@@ -1,6 +1,6 @@
 ---
 name: setoff-recoupment-553
-description: "Wenn es um Setoff and Recoupment Paragraf 553 in US Bankruptcy Code geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Setoff and Recoupment Paragraf 553: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Setoff and Recoupment § 553

@@ -1,6 +1,6 @@
 ---
 name: strassenreinigung-gebuehr
-description: "Wenn es um Strassenreinigung Gebuehr Kalkulieren in Kommunalrecht der Länder geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Strassenreinigung Gebühr Kalkulieren: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Berechnungstabelle mit Annahmen und Kontrollfragen."
 ---
 
 # Strassenreinigung Gebuehr Kalkulieren

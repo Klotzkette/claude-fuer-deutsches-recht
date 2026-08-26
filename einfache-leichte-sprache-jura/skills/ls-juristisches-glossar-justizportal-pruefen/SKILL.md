@@ -1,6 +1,6 @@
 ---
 name: ls-juristisches-glossar-justizportal-pruefen
-description: "Wenn es um LS: Juristisches Glossar in Einfache und Leichte Sprache für juristische Texte geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für LS: Juristisches Glossar: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Einreichungsplan mit Form- und Nachweischeck."
 ---
 
 # LS: Juristisches Glossar

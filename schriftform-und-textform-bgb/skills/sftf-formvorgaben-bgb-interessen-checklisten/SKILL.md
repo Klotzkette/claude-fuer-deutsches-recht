@@ -1,6 +1,6 @@
 ---
 name: sftf-formvorgaben-bgb-interessen-checklisten
-description: "Wenn es um SfTf: Formvorgaben Bauleiter in Schriftform und Textform im BGB geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für SfTf: Formvorgaben Bauleiter: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # SfTf: Formvorgaben Bauleiter

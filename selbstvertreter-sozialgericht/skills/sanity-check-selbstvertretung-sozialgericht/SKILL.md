@@ -1,6 +1,6 @@
 ---
 name: sanity-check-selbstvertretung-sozialgericht
-description: "Wenn es um Sanity-Check Selbstvertretung Sozialgericht in selbstvertreter-sozialgericht geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
+description: "Für Sanity-Check Selbstvertretung Sozialgericht: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Sanity-Check Selbstvertretung Sozialgericht

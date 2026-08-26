@@ -1,6 +1,6 @@
 ---
 name: einwilligung-genehmigung-paragraphen-107
-description: "Wenn es um Einwilligung und Genehmigung — Paragrafen 107 bis 109 BGB in BGB AT Prüfer geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Beweislast- und Substantiierungsmatrix. Auswahlstichwort: Einwilligung Genehmigung Paragraphen 107; Arbeitsfeld: BGB AT Prüfer."
+description: "Für Einwilligung und Genehmigung — Paragrafen 107 bis 109 BGB: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt. Fachgebiet: BGB AT Prüfer. Route: einwilligung-genehmigung-paragraphen-107."
 ---
 
 # Einwilligung und Genehmigung — §§ 107 bis 109 BGB

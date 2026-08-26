@@ -1,6 +1,6 @@
 ---
 name: wasser-abfall-circular-umweltrecht-schulung
-description: "Wenn es um Wasser: Risikoampel, Gegenargumente und Verteidigungslinien in Umweltrecht geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Wasser: Risikoampel, Gegenargumente und Verteidigungslinien: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Wasser: Risikoampel, Gegenargumente und Verteidigungslinien

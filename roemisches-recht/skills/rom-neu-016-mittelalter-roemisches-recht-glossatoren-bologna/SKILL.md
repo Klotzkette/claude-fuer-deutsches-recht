@@ -1,6 +1,6 @@
 ---
 name: rom-neu-016-mittelalter-roemisches-recht-glossatoren-bologna
-description: "Wenn es um Römisches Recht: Mittelalterliches römisches Recht Glossatoren Bologna in Römisches Recht geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Römisches Recht: Mittelalterliches römisches Recht Glossatoren Bologna: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Schnittstellenkarte mit Zuständigkeits- und Nachweisfragen."
 ---
 
 # Römisches Recht: Mittelalterliches römisches Recht Glossatoren Bologna

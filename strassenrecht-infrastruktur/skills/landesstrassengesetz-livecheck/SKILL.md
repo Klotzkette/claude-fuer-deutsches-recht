@@ -1,6 +1,6 @@
 ---
 name: landesstrassengesetz-livecheck
-description: "Wenn es um Landesstrassengesetz Livecheck in Straßenrecht und Infrastruktur geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Landesstrassengesetz Livecheck: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Landesstrassengesetz Livecheck

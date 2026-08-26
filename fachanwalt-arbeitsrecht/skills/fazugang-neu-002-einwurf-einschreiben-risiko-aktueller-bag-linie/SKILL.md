@@ -1,6 +1,6 @@
 ---
 name: fazugang-neu-002-einwurf-einschreiben-risiko-aktueller-bag-linie
-description: "Wenn es um Fachanwalt Arbeitsrecht: Einwurf-Einschreiben Risiko nach aktueller BAG-Linie in Fachanwalt Arbeitsrecht geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Fachanwalt Arbeitsrecht: Einwurf-Einschreiben Risiko nach aktueller BAG-Linie: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Schnittstellenkarte mit Zuständigkeits- und Nachweisfragen."
 ---
 
 # Fachanwalt Arbeitsrecht: Einwurf-Einschreiben Risiko nach aktueller BAG-Linie

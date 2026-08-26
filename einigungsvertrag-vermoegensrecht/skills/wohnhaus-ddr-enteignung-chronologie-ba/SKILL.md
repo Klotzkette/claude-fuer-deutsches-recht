@@ -1,6 +1,6 @@
 ---
 name: wohnhaus-ddr-enteignung-chronologie-ba
-description: "Wenn es um Wohnhaus Ddr Enteignung Chronologie Ba in Einigungsvertrag und Vermögensrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Chronologie mit Belegmatrix und Widerspruchsliste."
+description: "Für Wohnhaus Ddr Enteignung Chronologie Ba: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Chronologie mit Beleg- und Widerspruchsmatrix."
 ---
 
 # Wohnhaus Ddr Enteignung Chronologie Ba

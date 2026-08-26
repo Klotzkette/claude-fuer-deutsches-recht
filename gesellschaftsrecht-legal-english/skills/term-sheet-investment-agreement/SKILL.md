@@ -1,6 +1,6 @@
 ---
 name: term-sheet-investment-agreement
-description: "Wenn es um Term Sheet und Investment Agreement in Didaktisches Gesellschaftsrecht — English Business Terms geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen."
+description: "Für Term Sheet und Investment Agreement: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Term Sheet und Investment Agreement

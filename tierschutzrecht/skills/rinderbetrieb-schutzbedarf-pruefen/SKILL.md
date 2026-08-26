@@ -1,6 +1,6 @@
 ---
 name: rinderbetrieb-schutzbedarf-pruefen
-description: "Wenn es um Rinderbetrieb Schutzbedarf Prüfen in Tierschutzrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Rinderbetrieb Schutzbedarf Prüfen: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt. Fachgebiet: Tierschutzrecht. Route: rinderbetrieb-schutzbedarf-pruefen."
 ---
 
 # Rinderbetrieb Schutzbedarf Prüfen

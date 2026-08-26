@@ -1,6 +1,6 @@
 ---
 name: kollegialitaet-faktenma-kostenrechnung
-description: "Wenn es um Kollegialitaet Faktenma Kostenrechnung in Berufsrecht Notare geht: klärt Rolle, Ziel, Frist, Unterlagen und den passenden nächsten Fachskill; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Kollegialität Faktenma Kostenrechnung: ordnet Akte, Belege und Lücken; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Notare: kollegialitaet und zuständigkeit - Kaltstart mit Faktenmatrix, Risikoampel und fehlenden Unterlagen

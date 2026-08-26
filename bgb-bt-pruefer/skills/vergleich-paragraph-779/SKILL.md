@@ -1,6 +1,6 @@
 ---
 name: vergleich-paragraph-779
-description: "Wenn es um Vergleich Paragraf 779 BGB in BGB BT Prüfer geht: entwickelt Verhandlungsziel, Vergleichskorridor und Eskalationspfad; liefert eine Verhandlungs- oder Eskalationslinie mit Optionen. Auswahlstichwort: Vergleich Paragraph 779; Arbeitsfeld: BGB BT Prüfer."
+description: "Für Vergleich Paragraf 779 BGB: entwickelt Ziel, Vergleich und Eskalation; Ergebnis: Verhandlungs- oder Eskalationslinie."
 ---
 
 # Vergleich § 779 BGB

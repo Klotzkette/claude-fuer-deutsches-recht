@@ -1,6 +1,6 @@
 ---
 name: pruefungstermin-compliance-dokumentation-und-akte
-description: "Wenn es um Prüfungstermin: Compliance-Dokumentation und Aktenvermerk in Insolvenzforderungsanmeldungsprüfung geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Prüfungstermin: Compliance-Dokumentation und Aktenvermerk: ordnet Akte, Belege und Lücken; Ergebnis: Tatbestands- oder Anspruchsmatrix."
 ---
 
 # Prüfungstermin: Compliance-Dokumentation und Aktenvermerk
@@ -47,3 +47,7 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 - **Aktenvermerk Pflichtbausteine:** Eingang Eröffnungsbeschluss, Anmeldung mit Datum, Stellungnahme Verwalter, Bestreitens-Begründung, Frist Tabellenklage, Klageerhebung.
 - **Compliance:** Bestreitens-Grund präzise dokumentieren — bei späterer Tabellenklage muss Verwalter die Substantiierung der Bestreiten-Gründe vortragen können.
 - **Praxis:** Sondertermin nach § 177 InsO bei verspäteter Anmeldung — Kostentragungsrisiko (§ 177 Abs. 1 Satz 2 InsO); rechtzeitig anmelden!
+
+## Vertiefung bei Bedarf
+
+- Bei `spezial-pruefungstermin-compliance-dokumentation-und-akte` beziehungsweise Pruefungstermin: Compliance-Dokumentation und Aktenvermerk: [die zusätzliche Vertiefung laden](./references/vertiefung-spezial-pruefungstermin-compliance-dokumentation-und-akte.md).

@@ -1,6 +1,6 @@
 ---
 name: innenraum-versammlung-kooperationsgespraech
-description: "Wenn es um Innenraum ist nicht automatisch behördenfrei in Versammlungsrecht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
+description: "Für Innenraum ist nicht automatisch behördenfrei: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Innenraum ist nicht automatisch behördenfrei

@@ -1,6 +1,6 @@
 ---
 name: referendariat-tatbestand-beweis-und-belege
-description: "Wenn es um Referendariat: Tatbestandsmerkmale, Beweisfragen und Beleglage in Jurastudium geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Beweislast- und Substantiierungsmatrix."
+description: "Für Referendariat: Tatbestandsmerkmale, Beweisfragen und Beleglage: ordnet Akte, Belege und Lücken; Ergebnis: Beweislast- und Substantiierungsmatrix."
 ---
 
 # Referendariat: Tatbestandsmerkmale, Beweisfragen und Beleglage

@@ -1,6 +1,6 @@
 ---
 name: staat-ordnungsmacht-anti-autoritaerer-check
-description: "Wenn es um Staat als Ordnungsmacht: anti-autoritärer Check in Rechtstheorie und Rechtsphilosophie geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
+description: "Für Staat als Ordnungsmacht: anti-autoritärer Check: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Staat als Ordnungsmacht: anti-autoritärer Check

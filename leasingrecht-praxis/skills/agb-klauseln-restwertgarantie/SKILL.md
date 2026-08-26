@@ -1,6 +1,6 @@
 ---
 name: agb-klauseln-restwertgarantie
-description: "Wenn es um AGB-Kontrolle im Leasingvertrag in Leasingrecht Praxis geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Gegenprüfung mit Fehler-, Beweis- und Fristencheck."
+description: "Für AGB-Kontrolle im Leasingvertrag: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # AGB-Kontrolle im Leasingvertrag

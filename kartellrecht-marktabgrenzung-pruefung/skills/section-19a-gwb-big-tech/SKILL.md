@@ -1,6 +1,6 @@
 ---
 name: section-19a-gwb-big-tech
-description: "Wenn es um Paragraf 19a GWB Big Tech in Kartellrecht — Marktabgrenzungsprüfung geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Paragraf 19a GWB Big Tech: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # § 19a GWB Big Tech

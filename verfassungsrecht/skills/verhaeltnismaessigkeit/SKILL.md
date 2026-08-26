@@ -1,6 +1,6 @@
 ---
 name: verhaeltnismaessigkeit
-description: "Wenn es um Verhältnismäßigkeit (Vier-Stufen-Prüfung) in verfassungsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Verhältnismäßigkeit (Vier-Stufen-Prüfung): ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Verhältnismäßigkeit (Vier-Stufen-Prüfung)

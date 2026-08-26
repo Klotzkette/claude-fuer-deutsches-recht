@@ -1,6 +1,6 @@
 ---
 name: verhaeltnismaessigkeit-sicht-zeitwerttabelle
-description: "Wenn es um NKR-Verhältnismäßigkeit aus NKR-Sicht in Normenkontrollrat (NKR) — Prüfung von Gesetzentwuerfen geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. Auswahlstichwort: Verhaeltnismaessigkeit Sicht Zeitwerttabelle; Arbeitsfeld: Normenkontrollrat (NKR) — Prüfung von Gesetzentwuerfen."
+description: "Für NKR-Verhältnismäßigkeit aus NKR-Sicht: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt. Fachgebiet: Normenkontrollrat (NKR) — Prüfung von Gesetzentwürfen. Route: verhaeltnismaessigkeit-sicht-zeitwerttabelle."
 ---
 
 # NKR-Verhältnismäßigkeit aus NKR-Sicht

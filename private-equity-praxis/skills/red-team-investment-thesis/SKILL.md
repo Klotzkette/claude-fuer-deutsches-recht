@@ -1,6 +1,6 @@
 ---
 name: red-team-investment-thesis
-description: "Wenn es um Red Team der Investment Thesis in Private Equity Praxis geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Red Team der Investment Thesis: prüft Ergebnis, Beweislast und Gegenposition; Ergebnis: Gegenprüfung mit Beweis- und Fristencheck."
 ---
 
 # Red Team der Investment Thesis

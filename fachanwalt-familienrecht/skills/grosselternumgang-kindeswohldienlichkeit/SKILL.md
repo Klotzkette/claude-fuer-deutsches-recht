@@ -1,6 +1,6 @@
 ---
 name: grosselternumgang-kindeswohldienlichkeit
-description: "Prüft einen Umgangsantrag von Großeltern nach Paragraf 1685 BGB. Bewertet Bindung, Entwicklungsförderung, Elternvorrang, Loyalitätskonflikt, Kindeswillen und konkrete Umgangsgestaltung, plant die Amtsermittlung und erstellt einen bestimmten Antrag oder eine belastbare Abwehrbegründung."
+description: "Für Großelternumgang nach Paragraf 1685 BGB prüfen: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Großelternumgang nach Paragraf 1685 BGB prüfen

@@ -1,6 +1,6 @@
 ---
 name: zitierweise-de-recht-start-chronologie-fristen
-description: "Wenn es um Zitierweise Deutsches Recht — Allgemein in Zitierweise deutsches Recht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Chronologie mit Belegmatrix und Widerspruchsliste."
+description: "Für Zitierweise Deutsches Recht — Allgemein: prüft Frist, Form, Zuständigkeit und Eilbedarf; Ergebnis: Chronologie mit Beleg- und Widerspruchsmatrix."
 ---
 
 # Zitierweise Deutsches Recht — Allgemein

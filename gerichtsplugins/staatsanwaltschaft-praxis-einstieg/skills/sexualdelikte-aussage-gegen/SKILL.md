@@ -1,6 +1,6 @@
 ---
 name: sexualdelikte-aussage-gegen
-description: "Wenn es um Sexualdelikte: Aussage-gegen-Aussage ohne Abkürzung in Staatsanwaltschaft Praxis-Einstieg geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Beweislast- und Substantiierungsmatrix. Auswahlstichwort: Sexualdelikte Aussage Gegen; Arbeitsfeld: Staatsanwaltschaft Praxis-Einstieg."
+description: "Für Sexualdelikte: Aussage-gegen-Aussage ohne Abkürzung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt. Fachgebiet: Staatsanwaltschaft Praxis-Einstieg. Route: sexualdelikte-aussage-gegen."
 ---
 
 # Sexualdelikte: Aussage-gegen-Aussage ohne Abkürzung

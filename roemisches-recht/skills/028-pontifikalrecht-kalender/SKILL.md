@@ -1,6 +1,6 @@
 ---
 name: 028-pontifikalrecht-kalender
-description: "Wenn es um Römisches Recht: Pontifikalrecht Kalender und Rechtszugang in Römisches Recht geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Dokumentenmatrix mit Nachforderungsliste."
+description: "Für Römisches Recht: Pontifikalrecht Kalender und Rechtszugang: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Römisches Recht: Pontifikalrecht Kalender und Rechtszugang

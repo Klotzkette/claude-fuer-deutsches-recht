@@ -1,6 +1,6 @@
 ---
 name: workflow-einbuergerung-start
-description: "Wenn es um Einbürgerung Start: Prüfungslinie für Migrationsrecht in Fachanwalt Migrationsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Einbürgerung Start: Prüfungslinie für Migrationsrecht: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Einbürgerung Start: Prüfungslinie für Migrationsrecht

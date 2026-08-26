@@ -1,6 +1,6 @@
 ---
 name: schimpfwort-lackaffe-und-spott
-description: "Wenn es um \"Lackaffe\" und ähnliche Spottbegriffe in Meinungsprüfer geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für \"Lackaffe\" und ähnliche Spottbegriffe: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # "Lackaffe" und ähnliche Spottbegriffe

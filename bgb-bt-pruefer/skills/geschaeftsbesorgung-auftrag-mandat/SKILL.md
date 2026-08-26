@@ -1,6 +1,6 @@
 ---
 name: geschaeftsbesorgung-auftrag-mandat
-description: "Wenn es um Geschäftsbesorgung, Auftrag und Mandat in BGB BT Prüfer geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Geschäftsbesorgung, Auftrag und Mandat: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Geschäftsbesorgung, Auftrag und Mandat

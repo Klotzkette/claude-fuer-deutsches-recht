@@ -1,6 +1,6 @@
 ---
 name: lease-008-it-leasing-hardware-software-cloud-bundle
-description: "Wenn es um Leasingrecht: IT-Leasing Hardware Software Cloud Bundle in Leasingrecht Praxis geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Leasingrecht: IT-Leasing Hardware Software Cloud Bundle: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Leasingrecht: IT-Leasing Hardware Software Cloud Bundle

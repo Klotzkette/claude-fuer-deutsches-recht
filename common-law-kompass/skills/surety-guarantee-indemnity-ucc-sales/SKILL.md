@@ -1,6 +1,6 @@
 ---
 name: surety-guarantee-indemnity-ucc-sales
-description: "Wenn es um Surety, Guarantee und Indemnity in Common-Law-Kompass für deutsche Wirtschaftsjuristen geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Surety, Guarantee und Indemnity: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Surety, Guarantee und Indemnity

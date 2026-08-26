@@ -1,6 +1,6 @@
 ---
 name: verfassungsbeschwerde-mandantenentscheidung
-description: "Wenn es um Verfassungsbeschwerde: Mandantenkommunikation und Entscheidungsvorlage in verfassungsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Verfassungsbeschwerde: Mandantenkommunikation und Entscheidungsvorlage: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Verfassungsbeschwerde: Mandantenkommunikation und Entscheidungsvorlage

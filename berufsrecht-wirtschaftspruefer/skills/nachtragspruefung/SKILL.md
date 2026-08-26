@@ -1,6 +1,6 @@
 ---
 name: nachtragspruefung
-description: "Wenn es um Nachtragspruefung in Berufsrecht Wirtschaftsprüfer geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Gegenprüfung mit Fehler-, Beweis- und Fristencheck."
+description: "Für Nachtragsprüfung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Tatbestands- oder Anspruchsmatrix."
 ---
 
 # Wirtschaftsprüfer: nachtragspruefung und fehlerkorrektur - Rechtsprechungscheck, stärkste Gegenansicht und Red-Team-Korrektur

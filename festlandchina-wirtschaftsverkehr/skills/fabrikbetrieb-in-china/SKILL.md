@@ -1,6 +1,6 @@
 ---
 name: fabrikbetrieb-in-china
-description: "Wenn es um Fabrikbetrieb in China: Rechtlicher Rahmen und Compliance in China-Wirtschaftsverkehr geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Fabrikbetrieb in China: Rechtlicher Rahmen und Compliance: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Fabrikbetrieb in China: Rechtlicher Rahmen und Compliance

@@ -1,6 +1,6 @@
 ---
 name: open-source-datenbank-und-open-data-commons
-description: "Wenn es um Open-Source-Datenbanken und Open-Data-Commons-Lizenzen in Datenbankrecht und Datenbankherstellerrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Open-Source-Datenbanken und Open-Data-Commons-Lizenzen: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Open-Source-Datenbanken und Open-Data-Commons-Lizenzen

@@ -1,6 +1,6 @@
 ---
 name: qualitaetsmanagement-robotikhersteller
-description: "Wenn es um QM Robotikhersteller in robotik-recht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für QM Robotikhersteller: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Gegenprüfung mit Beweis- und Fristencheck. Fachgebiet: robotik-recht. Route: qualitaetsmanagement-robotikhersteller."
 ---
 
 # QM Robotikhersteller

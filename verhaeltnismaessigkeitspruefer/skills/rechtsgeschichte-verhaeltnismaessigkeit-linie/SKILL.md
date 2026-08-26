@@ -1,6 +1,6 @@
 ---
 name: rechtsgeschichte-verhaeltnismaessigkeit-linie
-description: "Wenn es um Rechtsgeschichte der Verhältnismäßigkeit in Verhältnismäßigkeitsprüfer geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen."
+description: "Für Rechtsgeschichte der Verhältnismäßigkeit: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Rechtsgeschichte der Verhältnismäßigkeit

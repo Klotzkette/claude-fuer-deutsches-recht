@@ -1,6 +1,6 @@
 ---
 name: abo-falle-vergleich-vorschlagen
-description: "Wenn es um Abo Falle Vergleich Vorschlagen in Verbraucherschutzrecht Prüfer geht: entwickelt Verhandlungsziel, Vergleichskorridor und Eskalationspfad; liefert eine Verhandlungs- oder Eskalationslinie mit Optionen."
+description: "Für Abo Falle Vergleich Vorschlagen: entwickelt Ziel, Vergleich und Eskalation; Ergebnis: Verhandlungs- oder Eskalationslinie."
 ---
 
 # Abo Falle Vergleich Vorschlagen

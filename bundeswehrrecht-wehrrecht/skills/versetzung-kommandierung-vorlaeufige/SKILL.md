@@ -1,6 +1,6 @@
 ---
 name: versetzung-kommandierung-vorlaeufige
-description: "Wenn es um Versetzung, Kommandierung und Abordnung in Bundeswehrrecht und Wehrrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Versetzung, Kommandierung und Abordnung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Schnittstellenkarte mit Zuständigkeits- und Nachweisfragen."
 ---
 
 # Versetzung, Kommandierung und Abordnung

@@ -1,6 +1,6 @@
 ---
 name: eu-richtlinienumsetzung-spezial
-description: "Wenn es um LegW: EU-Richtlinienumsetzung in Legistik-Werkstatt geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für LegW: EU-Richtlinienumsetzung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Schnittstellenkarte mit Zuständigkeits- und Nachweisfragen."
 ---
 
 # LegW: EU-Richtlinienumsetzung

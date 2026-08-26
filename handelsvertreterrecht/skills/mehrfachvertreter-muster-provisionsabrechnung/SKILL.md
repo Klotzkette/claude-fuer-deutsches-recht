@@ -1,6 +1,6 @@
 ---
 name: mehrfachvertreter-muster-provisionsabrechnung
-description: "Wenn es um Mehrfachvertreter nach Paragraf 86 HGB — Interessenkonflikte und Offenlegungspflichten in Handelsvertreterrecht und Vertriebsverträge geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Mehrfachvertreter nach Paragraf 86 HGB — Interessenkonflikte und Offenlegungspflichten: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Mehrfachvertreter nach § 86 HGB — Interessenkonflikte und Offenlegungspflichten

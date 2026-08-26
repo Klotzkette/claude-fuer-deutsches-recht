@@ -1,6 +1,6 @@
 ---
 name: fehlerhaft-fristennotiz-und-naechster-schritt
-description: "Wenn es um Fehlerhaft: Fristennotiz und nächster Schritt in Fachanwalt Bank Kapitalmarktrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Fehlerhaft: Fristennotiz und nächster Schritt: prüft Frist, Form, Zuständigkeit und Eilbedarf; Ergebnis: Fristen- und Risikoampel."
 ---
 
 # Fehlerhaft: Fristennotiz und nächster Schritt

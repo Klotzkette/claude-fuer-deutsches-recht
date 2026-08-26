@@ -1,6 +1,6 @@
 ---
 name: ihl-037-akkreditiv-ucp-600
-description: "Wenn es um Akkreditiv Ucp 600 in Internationales Handelsrecht und Lex Mercatoria geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Akkreditiv Ucp 600: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Akkreditiv Ucp 600

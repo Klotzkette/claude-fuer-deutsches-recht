@@ -1,6 +1,6 @@
 ---
 name: polizeifilmerei-beweissicherung-kug-201-stgb
-description: "Wenn es um Polizei Filmen Auf Versammlungen in Versammlungsrecht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Beweislast- und Substantiierungsmatrix."
+description: "Für Polizei Filmen auf Versammlungen: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Beweislast- und Substantiierungsmatrix."
 ---
 
 # Polizei Filmen Auf Versammlungen

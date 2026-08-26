@@ -1,6 +1,6 @@
 ---
 name: frachtfuehrerhaftung-paragraf-425-hgb
-description: "Wenn es um Frachtfuehrerhaftung Paragraf 425 HGB in Fachanwalt Transport Speditionsrecht geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Frachtführerhaftung Paragraf 425 HGB: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Frachtfuehrerhaftung § 425 HGB

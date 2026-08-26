@@ -1,6 +1,6 @@
 ---
 name: dsv-sanktion-fristenzentrale-zustellung-und-wiedervorlage
-description: "Wenn es um Dsv Sanktion Fristenzentrale Zustellung Und Wiedervorlage in Datenschutzrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Dsv Sanktion Fristenzentrale Zustellung und Wiedervorlage: prüft Frist, Form, Zuständigkeit und Eilbedarf; Ergebnis: Fristen- und Risikoampel."
 ---
 
 # Datenschutzrecht-Brückenskill: Fristenzentrale Zustellung und Wiedervorlage: Zustellung, Bekanntgabe, Rechtsbehelfsbelehrung, Einspruchsfrist, Behördenfrist und gerichtliche Eilfrist absichern

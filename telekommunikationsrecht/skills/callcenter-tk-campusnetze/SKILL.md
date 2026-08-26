@@ -1,6 +1,6 @@
 ---
 name: callcenter-tk-campusnetze
-description: "Wenn es um Werbeanrufe und Callcenter in Telekommunikationsrecht geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
+description: "Für Werbeanrufe und Callcenter: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Werbeanrufe und Callcenter

@@ -1,6 +1,6 @@
 ---
 name: dora-risikoampel-und-gegenargumente
-description: "Wenn es um Dora: Risikoampel, Gegenargumente und Verteidigungslinien in DSA, DMA und Digitalregulierung der EU geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Dora: Risikoampel, Gegenargumente und Verteidigungslinien: prüft Ergebnis, Beweislast und Gegenposition; Ergebnis: Fristen- und Risikoampel."
 ---
 
 # Dora: Risikoampel, Gegenargumente und Verteidigungslinien

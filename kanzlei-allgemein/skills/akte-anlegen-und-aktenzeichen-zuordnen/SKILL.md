@@ -1,6 +1,6 @@
 ---
 name: akte-anlegen-und-aktenzeichen-zuordnen
-description: "Wenn es um Akte, Konfliktcheck und Mandatsanlage in Kanzlei-Allgemein geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen."
+description: "Für Akte, Konfliktcheck und Mandatsanlage: ordnet Akte, Belege und Lücken; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Akte, Konfliktcheck und Mandatsanlage

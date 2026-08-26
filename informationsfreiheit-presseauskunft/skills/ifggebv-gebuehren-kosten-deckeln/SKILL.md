@@ -1,6 +1,6 @@
 ---
 name: ifggebv-gebuehren-kosten-deckeln
-description: "Wenn es um Ifggebv Gebühren Antrag Formulieren in Informationsfreiheit und Presseauskunft geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
+description: "Für Ifggebv Gebühren Antrag Formulieren: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Berechnungstabelle mit Annahmen und Kontrollfragen."
 ---
 
 # Ifggebv Gebühren Antrag Formulieren

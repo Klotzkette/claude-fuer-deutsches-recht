@@ -1,6 +1,6 @@
 ---
 name: flags-red-team-und-qualitaetskontrolle
-description: "Wenn es um Flags: Red-Team und Qualitätskontrolle in Kartellrecht — Marktabgrenzungsprüfung geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Flags: Red-Team und Qualitätskontrolle: prüft Ergebnis, Beweislast und Gegenposition; Ergebnis: Gegenprüfung mit Beweis- und Fristencheck."
 ---
 
 # Flags: Red-Team und Qualitätskontrolle

@@ -1,6 +1,6 @@
 ---
 name: krankenversicherung-pkv-vertrag-antrag-betriebliche
-description: "Wenn es um PKV-Vertrag: Antrag, Gesundheitsfragen und Anzeigepflicht in Krankenkassenrecht und Krankenversicherung geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
+description: "Für PKV-Vertrag: Antrag, Gesundheitsfragen und Anzeigepflicht: erstellt Entwurf mit Antrag, Beweis und Anlagen; Ergebnis: Schriftsatz mit Begründungs- und Anlagenlogik."
 ---
 
 # PKV-Vertrag: Antrag, Gesundheitsfragen und Anzeigepflicht

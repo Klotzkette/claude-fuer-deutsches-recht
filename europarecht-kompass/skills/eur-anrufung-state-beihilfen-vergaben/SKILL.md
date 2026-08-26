@@ -1,6 +1,6 @@
 ---
 name: eur-anrufung-state-beihilfen-vergaben
-description: "Wenn es um EU: Petitionsausschuss in Europarecht-Kompass für deutsche Juristen geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für EU: Petitionsausschuss: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Schnittstellenkarte mit Zuständigkeits- und Nachweisfragen."
 ---
 
 # EU: Petitionsausschuss

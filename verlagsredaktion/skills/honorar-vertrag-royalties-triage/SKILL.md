@@ -1,6 +1,6 @@
 ---
 name: honorar-vertrag-royalties-triage
-description: "Wenn es um Honorar, Vertrag und Royalties in Verlagsredaktion geht: klärt Rolle, Ziel, Frist, Unterlagen und den passenden nächsten Fachskill; liefert eine Verhandlungs- oder Eskalationslinie mit Optionen."
+description: "Für Honorar, Vertrag und Royalties: routet Rolle, Frist, Unterlagen und Fachschritt; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Honorar, Vertrag und Royalties

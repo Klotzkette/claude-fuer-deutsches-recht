@@ -1,6 +1,6 @@
 ---
 name: organisationspflichten-marisk-bait-dora-schnittstellen
-description: "Wenn es um Organisationspflichten MaRisk BAIT DORA Schnittstellen in Factoring-Recht geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen."
+description: "Für Organisationspflichten MaRisk BAIT DORA Schnittstellen: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Schnittstellenkarte mit Zuständigkeits- und Nachweisfragen."
 ---
 
 # Organisationspflichten MaRisk BAIT DORA Schnittstellen

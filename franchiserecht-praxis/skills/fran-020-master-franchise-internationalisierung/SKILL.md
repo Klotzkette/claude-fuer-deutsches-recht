@@ -1,6 +1,6 @@
 ---
 name: fran-020-master-franchise-internationalisierung
-description: "Wenn es um Franchiserecht: Master Franchise Internationalisierung in Franchiserecht Praxis geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Franchiserecht: Master Franchise Internationalisierung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Schnittstellenkarte mit Zuständigkeits- und Nachweisfragen."
 ---
 
 # Franchiserecht: Master Franchise Internationalisierung

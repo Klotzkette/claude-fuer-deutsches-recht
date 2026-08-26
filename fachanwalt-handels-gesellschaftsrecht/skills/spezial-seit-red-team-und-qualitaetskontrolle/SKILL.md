@@ -1,6 +1,6 @@
 ---
 name: spezial-seit-red-team-und-qualitaetskontrolle
-description: "Wenn es um Seit: Red-Team und Qualitätskontrolle in Fachanwalt Handels- und Gesellschaftsrecht geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Seit: Red-Team und Qualitätskontrolle: prüft Ergebnis, Beweislast und Gegenposition; Ergebnis: Gegenprüfung mit Beweis- und Fristencheck."
 ---
 
 # Seit: Red-Team und Qualitätskontrolle

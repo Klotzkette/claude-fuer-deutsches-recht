@@ -1,6 +1,6 @@
 ---
 name: battery-ev-solar-supply-chain
-description: "Wenn es um Batterie/EV/Solar-Lieferkette China: Regulierung und Compliance in China-Wirtschaftsverkehr geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Batterie/EV/Solar-Lieferkette China: Regulierung und Compliance: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Batterie/EV/Solar-Lieferkette China: Regulierung und Compliance

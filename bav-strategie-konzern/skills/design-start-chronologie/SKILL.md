@@ -1,6 +1,6 @@
 ---
 name: design-start-chronologie
-description: "Wenn es um Betriebliche Altersversorgung Strategie Konzern — Allgemein in BAV Strategie Konzern — Treuenfels Yamamoto Rechtsanwälte geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Chronologie mit Belegmatrix und Widerspruchsliste."
+description: "Für Betriebliche Altersversorgung Strategie Konzern — Allgemein: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Chronologie mit Beleg- und Widerspruchsmatrix."
 ---
 
 # Betriebliche Altersversorgung Strategie Konzern — Allgemein

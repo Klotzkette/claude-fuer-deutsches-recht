@@ -1,6 +1,6 @@
 ---
 name: mac-ordinary-course
-description: "Wenn es um MAC Ordinary Course Covenants in Großkanzlei Corporate/M&A geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
+description: "Für MAC Ordinary Course Covenants: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # MAC Ordinary Course Covenants

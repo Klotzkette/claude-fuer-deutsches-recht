@@ -1,6 +1,6 @@
 ---
 name: methodenkritik-larenz-canaris-ordnung-system
-description: "Wenn es um Methodenkritik: Larenz, Canaris, Systemdenken und konkrete Ordnung in Rechtstheorie und Rechtsphilosophie geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
+description: "Für Methodenkritik: Larenz, Canaris, Systemdenken und konkrete Ordnung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Methodenkritik: Larenz, Canaris, Systemdenken und konkrete Ordnung

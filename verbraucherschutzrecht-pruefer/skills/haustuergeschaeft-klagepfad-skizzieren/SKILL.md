@@ -1,6 +1,6 @@
 ---
 name: haustuergeschaeft-klagepfad-skizzieren
-description: "Wenn es um Haustuergeschaeft Klagepfad Skizzieren in Verbraucherschutzrecht Prüfer geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
+description: "Für Haustürgeschäft Klagepfad Skizzieren: erstellt Entwurf mit Antrag, Beweis und Anlagen; Ergebnis: Schriftsatz mit Begründungs- und Anlagenlogik."
 ---
 
 # Haustuergeschaeft Klagepfad Skizzieren

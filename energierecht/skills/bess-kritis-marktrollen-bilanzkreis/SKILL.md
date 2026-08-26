@@ -1,6 +1,6 @@
 ---
 name: bess-kritis-marktrollen-bilanzkreis
-description: "Wenn es um KRITIS, NIS2, BSI und Cybersecurity in Energierecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für KRITIS, NIS2, BSI und Cybersecurity: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # KRITIS, NIS2, BSI und Cybersecurity

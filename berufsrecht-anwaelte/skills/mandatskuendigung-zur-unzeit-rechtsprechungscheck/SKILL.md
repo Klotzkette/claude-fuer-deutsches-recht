@@ -1,6 +1,6 @@
 ---
 name: mandatskuendigung-zur-unzeit-rechtsprechungscheck
-description: "Wenn es um Mandatskuendigung Zur Unzeit Rechtsprechungscheck in Berufsrecht Anwälte geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Gegenprüfung mit Fehler-, Beweis- und Fristencheck."
+description: "Für Mandatskündigung zur Unzeit Rechtsprechungscheck: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Anwälte: mandatskuendigung zur unzeit - Rechtsprechungscheck, stärkste Gegenansicht und Red-Team-Korrektur

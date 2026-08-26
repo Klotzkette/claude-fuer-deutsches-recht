@@ -1,6 +1,6 @@
 ---
 name: ai-vdr-classifier
-description: "Wenn es um digitale Werkzeuge VDR Classifier in Großkanzlei Corporate/M&A geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen."
+description: "Für digitale Werkzeuge VDR Classifier: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # AI VDR Classifier

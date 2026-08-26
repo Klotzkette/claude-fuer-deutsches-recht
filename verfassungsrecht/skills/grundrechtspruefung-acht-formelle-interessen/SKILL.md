@@ -1,6 +1,6 @@
 ---
 name: grundrechtspruefung-acht-formelle-interessen
-description: "Wenn es um Grundrechtsprüfung in verfassungsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Grundrechtsprüfung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Tatbestands- oder Anspruchsmatrix."
 ---
 
 # Grundrechtsprüfung

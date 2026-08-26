@@ -1,6 +1,6 @@
 ---
 name: lph8-bauueberwachung-dachdeckung-flachdach-attika
-description: "Wenn es um Bauueberwachung Flachdach und Attika in HOAI Leistungsphasen Praxis geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Bauüberwachung Flachdach und Attika: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Bauueberwachung Flachdach und Attika

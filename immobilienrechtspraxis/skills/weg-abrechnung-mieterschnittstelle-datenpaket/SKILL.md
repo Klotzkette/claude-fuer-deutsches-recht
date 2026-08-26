@@ -1,6 +1,6 @@
 ---
 name: weg-abrechnung-mieterschnittstelle-datenpaket
-description: "Wenn es um Weg Abrechnung Mieterschnittstelle Datenpaket in Immobilienrechtspraxis geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
+description: "Für WEG Abrechnung Mieterschnittstelle Datenpaket: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Datenpaket WEG-Abrechnung zu Mietern: übersetzt Jahresabrechnung, Einzelabrechnung, Wirtschaftsplan, Heizkosten, CO2-Daten und Belege in eine mietrechtlich brauchbare Betriebskostenabrechnung

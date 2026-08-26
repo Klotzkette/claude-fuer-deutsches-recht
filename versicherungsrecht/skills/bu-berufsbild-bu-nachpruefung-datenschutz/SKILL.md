@@ -1,6 +1,6 @@
 ---
 name: bu-berufsbild-bu-nachpruefung-datenschutz
-description: "Wenn es um BU: Berufsbild und 50-Prozent-Prüfung in Versicherungsrecht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Tatbestands- oder Anspruchsmatrix mit Gegenargumenten."
+description: "Für BU: Berufsbild und 50-Prozent-Prüfung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Tatbestands- oder Anspruchsmatrix."
 ---
 
 # BU: Berufsbild und 50-Prozent-Prüfung

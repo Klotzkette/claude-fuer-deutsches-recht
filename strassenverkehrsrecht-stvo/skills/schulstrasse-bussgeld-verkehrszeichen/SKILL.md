@@ -1,6 +1,6 @@
 ---
 name: schulstrasse-bussgeld-verkehrszeichen
-description: "Wenn es um Schulstrasse Bussgeld Abgrenzen in Straßenverkehrsrecht StVO geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Schulstrasse Bussgeld Abgrenzen: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Schulstrasse Bussgeld Abgrenzen

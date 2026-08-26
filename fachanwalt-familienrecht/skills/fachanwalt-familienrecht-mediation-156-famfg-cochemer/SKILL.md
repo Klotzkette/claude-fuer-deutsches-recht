@@ -1,6 +1,6 @@
 ---
 name: fachanwalt-familienrecht-mediation-156-famfg-cochemer
-description: "Wenn es um Fachanwalt Familienrecht Mediation 156 Famfg Cochemer in Fachanwalt Familienrecht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
+description: "Für Fachanwalt Familienrecht Mediation 156 FamFG Cochemer: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 ## Mandantenfragen beim Kaltstart

@@ -1,6 +1,6 @@
 ---
 name: umsatz-und-wirtschaftliche-einheit
-description: "Wenn es um Umsatz und wirtschaftliche Einheit in Datenschutz-Sanktionsverfahren und Verteidigung geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Umsatz und wirtschaftliche Einheit: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Umsatz und wirtschaftliche Einheit

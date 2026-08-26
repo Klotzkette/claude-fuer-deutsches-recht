@@ -1,6 +1,6 @@
 ---
 name: dac7-dac8-plattformen-krypto
-description: "Wenn es um DAC7 & DAC8 — Meldepflichten Plattformen und Krypto in Steuerrecht – Steuerberater und Anwälte geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für DAC7 & DAC8 — Meldepflichten Plattformen und Krypto: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # DAC7 & DAC8 — Meldepflichten Plattformen und Krypto

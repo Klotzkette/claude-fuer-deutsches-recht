@@ -1,6 +1,6 @@
 ---
 name: lph7-bieterspiegel-aufklaerung-vergaberisiko
-description: "Wenn es um LPH 7 Bieterspiegel, Aufklärung Und Vergaberisiko in HOAI Leistungsphasen Praxis geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
+description: "Für LPH 7 Bieterspiegel, Aufklärung und Vergaberisiko: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # LPH 7 Bieterspiegel, Aufklärung Und Vergaberisiko

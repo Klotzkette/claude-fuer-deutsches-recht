@@ -1,6 +1,6 @@
 ---
 name: strafr-wirtschaftsstrafrecht-leitfaden
-description: "Wenn es um Leitfaden Wirtschaftsstrafrecht: Untreue Paragraf 266 StGB, Betrug Paragraf 263, Bilanzdelikte Paragrafen 331 ff in Fachanwalt Strafrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Leitfaden Wirtschaftsstrafrecht: Untreue Paragraf 266 StGB, Betrug Paragraf 263, Bilanzdelikte Parag: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Leitfaden Wirtschaftsstrafrecht: Untreue § 266 StGB, Betrug § 263, Bilanzdelikte §§ 331 ff

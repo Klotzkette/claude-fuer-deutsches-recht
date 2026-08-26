@@ -1,6 +1,6 @@
 ---
 name: fachanwalt-it-recht-open-source-compliance-audit
-description: "Wenn es um Open-Source-Compliance-Audit in Fachanwalt It Recht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Open-Source-Compliance-Audit: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Open-Source-Compliance-Audit

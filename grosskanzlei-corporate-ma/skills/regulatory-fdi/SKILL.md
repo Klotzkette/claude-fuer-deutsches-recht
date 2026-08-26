@@ -1,6 +1,6 @@
 ---
 name: regulatory-fdi
-description: "Wenn es um Fusionskontrolle und Investitionskontrolle in Großkanzlei Corporate/M&A geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Fusionskontrolle und Investitionskontrolle: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt. Fachgebiet: Großkanzlei Corporate/M&A."
 ---
 
 # Fusionskontrolle und Investitionskontrolle

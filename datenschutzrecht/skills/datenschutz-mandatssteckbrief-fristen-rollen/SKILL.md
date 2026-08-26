@@ -1,6 +1,6 @@
 ---
 name: datenschutz-mandatssteckbrief-fristen-rollen
-description: "Wenn es um Datenschutzmandat: Steckbrief, Fristen, Rollen und Kontexttrennung in Datenschutzrecht geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Datenschutzmandat: Steckbrief, Fristen, Rollen und Kontexttrennung: erstellt Entwurf mit Antrag, Beweis und Anlagen; Ergebnis: Fristen- und Risikoampel."
 ---
 
 # Datenschutzmandat: Steckbrief, Fristen, Rollen und Kontexttrennung

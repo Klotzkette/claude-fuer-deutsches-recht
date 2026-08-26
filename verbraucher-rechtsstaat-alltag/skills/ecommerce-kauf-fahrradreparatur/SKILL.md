@@ -1,6 +1,6 @@
 ---
 name: ecommerce-kauf-fahrradreparatur
-description: "Wenn es um E-Commerce Kauf und Widerruf in Verbraucher im Rechtsstaat Alltag geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für E-Commerce Kauf und Widerruf: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # E-Commerce Kauf und Widerruf

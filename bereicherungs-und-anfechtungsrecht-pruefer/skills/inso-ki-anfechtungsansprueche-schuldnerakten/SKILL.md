@@ -1,6 +1,6 @@
 ---
 name: inso-ki-anfechtungsansprueche-schuldnerakten
-description: "Wenn es um digitale Werkzeuge-Screening Schuldnerakten — mögliche Anfechtungsansprüche in bereicherungs-und-anfechtungsrecht-prüfer geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen."
+description: "Für digitale Werkzeuge-Screening Schuldnerakten — mögliche Anfechtungsansprüche: ordnet Akte, Belege und Lücken; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # KI-Screening Schuldnerakten — mögliche Anfechtungsansprüche

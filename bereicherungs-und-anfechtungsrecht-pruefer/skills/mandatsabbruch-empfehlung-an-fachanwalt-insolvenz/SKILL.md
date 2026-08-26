@@ -1,6 +1,6 @@
 ---
 name: mandatsabbruch-empfehlung-an-fachanwalt-insolvenz
-description: "Wenn es um Mandatsabbruch und Empfehlung an Fachanwalt in bereicherungs-und-anfechtungsrecht-prüfer geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. Auswahlstichwort: Mandatsabbruch Empfehlung An Fachanwalt Insolvenz; Arbeitsfeld: bereicherungs-und-anfechtungsrecht-prüfer."
+description: "Für Mandatsabbruch und Empfehlung an Fachanwalt: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt. Fachgebiet: bereicherungs-und-anfechtungsrecht-prüfer. Route: mandatsabbruch-empfehlung-an-fachanwalt-insolvenz."
 ---
 
 # Mandatsabbruch und Empfehlung an Fachanwalt

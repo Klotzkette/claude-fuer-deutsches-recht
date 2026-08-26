@@ -1,6 +1,6 @@
 ---
 name: anlagen-konvention-k-b-erlaeutert
-description: "Wenn es um K/B-Konvention erläutert in Anlagen zu Schriftsätzen geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen."
+description: "Für K/B-Konvention erläutert: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Schnittstellenkarte mit Zuständigkeits- und Nachweisfragen."
 ---
 
 # K/B-Konvention erläutert

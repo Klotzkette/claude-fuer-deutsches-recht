@@ -1,6 +1,6 @@
 ---
 name: unfallruhegehalt-36-beamtvg
-description: "Wenn es um Unfallruhegehalt nach Paragraf 36 BeamtVG in Beamtenrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Unfallruhegehalt nach Paragraf 36 BeamtVG: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Unfallruhegehalt nach § 36 BeamtVG

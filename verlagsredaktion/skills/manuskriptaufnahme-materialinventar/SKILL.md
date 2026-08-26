@@ -1,6 +1,6 @@
 ---
 name: manuskriptaufnahme-materialinventar
-description: "Wenn es um Manuskriptaufnahme und Materialinventar in Verlagsredaktion geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
+description: "Für Manuskriptaufnahme und Materialinventar: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Manuskriptaufnahme und Materialinventar

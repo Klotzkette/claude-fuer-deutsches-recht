@@ -1,6 +1,6 @@
 ---
 name: chemie-biotech-china-utility
-description: "Wenn es um Chemie Biotech Und Stoffschutz in gebrauchsmusterrecht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen."
+description: "Für Chemie Biotech und Stoffschutz: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Chemie Biotech Und Stoffschutz

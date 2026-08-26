@@ -1,6 +1,6 @@
 ---
 name: pre-seed-seed-runde
-description: "Wenn es um Pre-Seed und Seed Runde in Venture Capital Geber geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Pre-Seed und Seed Runde: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Pre-Seed und Seed Runde

@@ -1,6 +1,6 @@
 ---
 name: pass-email-und-feedback
-description: "Wenn es um Absage und Feedback in Venture Capital Geber geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Absage und Feedback: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Absage und Feedback

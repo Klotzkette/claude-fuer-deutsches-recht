@@ -1,6 +1,6 @@
 ---
 name: instanzenzug-revision-historisch
-description: "Wenn es um Pralr Instanzenzug Revision Historisch in Preußisches Allgemeines Landrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Pralr Instanzenzug Revision Historisch: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Pralr Instanzenzug Revision Historisch

@@ -1,6 +1,6 @@
 ---
 name: vvg-falligkeit-14-abschlagszahlung
-description: "Wenn es um Fälligkeit und Abschlagszahlung Paragraf 14 VVG in Versicherungsrecht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen."
+description: "Für Fälligkeit und Abschlagszahlung Paragraf 14 VVG: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Fälligkeit und Abschlagszahlung § 14 VVG

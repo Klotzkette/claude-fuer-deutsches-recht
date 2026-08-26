@@ -1,6 +1,6 @@
 ---
 name: medr-aufklaerung-einwilligung-leitfaden
-description: "Wenn es um Medr Aufklaerung Einwilligung Leitfaden in Fachanwalt Medizinrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Medr Aufklärung Einwilligung Leitfaden: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Leitfaden Aufklaerung und Einwilligung §§ 630d und 630e BGB: Grundaufklaerung, Risikoaufklaerung, Verlaufsaufklaerung

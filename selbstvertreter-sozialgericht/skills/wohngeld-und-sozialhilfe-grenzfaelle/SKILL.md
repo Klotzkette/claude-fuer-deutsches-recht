@@ -1,6 +1,6 @@
 ---
 name: wohngeld-und-sozialhilfe-grenzfaelle
-description: "Wenn es um Wohngeld und Sozialhilfe — wo gehoeren Sie hin? in selbstvertreter-sozialgericht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
+description: "Für Wohngeld und Sozialhilfe — wo gehören Sie hin?: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Wohngeld und Sozialhilfe — wo gehoeren Sie hin?

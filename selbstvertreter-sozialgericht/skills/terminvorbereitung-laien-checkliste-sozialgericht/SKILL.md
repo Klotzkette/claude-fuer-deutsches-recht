@@ -1,6 +1,6 @@
 ---
 name: terminvorbereitung-laien-checkliste-sozialgericht
-description: "Wenn es um Detaillierte Vorbereitung auf den SG-Termin in selbstvertreter-sozialgericht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Detaillierte Vorbereitung auf den SG-Termin: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Detaillierte Vorbereitung auf den SG-Termin

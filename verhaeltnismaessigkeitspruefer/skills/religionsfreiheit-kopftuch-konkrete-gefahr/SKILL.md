@@ -1,6 +1,6 @@
 ---
 name: religionsfreiheit-kopftuch-konkrete-gefahr
-description: "Wenn es um Religionsfreiheit: Kopftuch, Neutralität, konkrete Gefahr in Verhältnismäßigkeitsprüfer geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Religionsfreiheit: Kopftuch, Neutralität, konkrete Gefahr: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Religionsfreiheit: Kopftuch, Neutralität, konkrete Gefahr

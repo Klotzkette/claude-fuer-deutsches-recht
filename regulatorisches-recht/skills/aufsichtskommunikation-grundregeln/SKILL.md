@@ -1,6 +1,6 @@
 ---
 name: aufsichtskommunikation-grundregeln
-description: "Wenn es um Aufsichtskommunikation Grundregeln in Regulatorisches Recht – Plugin für deutsches geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Aufsichtskommunikation Grundregeln: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Aufsichtskommunikation Grundregeln

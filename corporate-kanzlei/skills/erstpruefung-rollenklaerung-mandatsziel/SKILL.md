@@ -1,6 +1,6 @@
 ---
 name: erstpruefung-rollenklaerung-mandatsziel
-description: "Wenn es um Corporate: Erstprüfung, Rollenklärung und Mandatsziel in Corporate-Kanzlei geht: klärt Rolle, Ziel, Frist, Unterlagen und den passenden nächsten Fachskill; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Corporate: Erstprüfung, Rollenklärung und Mandatsziel: routet Rolle, Frist, Unterlagen und Fachschritt; Ergebnis: Tatbestands- oder Anspruchsmatrix."
 ---
 
 # Corporate: Erstprüfung, Rollenklärung und Mandatsziel

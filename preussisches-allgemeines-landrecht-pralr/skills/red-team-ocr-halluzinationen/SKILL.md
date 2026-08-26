@@ -1,6 +1,6 @@
 ---
 name: red-team-ocr-halluzinationen
-description: "Wenn es um OCR-Halluzinationen in Preußisches Allgemeines Landrecht geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten. Auswahlstichwort: Red Team Ocr Halluzinationen; Arbeitsfeld: Preußisches Allgemeines Landrecht."
+description: "Für OCR-Halluzinationen: prüft Ergebnis, Beweislast und Gegenposition; Ergebnis: Gegenprüfung mit Beweis- und Fristencheck. Fachgebiet: Preußisches Allgemeines Landrecht. Route: red-team-ocr-halluzinationen."
 ---
 
 # OCR-Halluzinationen

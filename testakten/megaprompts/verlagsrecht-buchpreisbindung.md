@@ -7,15 +7,15 @@ Diese Vollprüfung enthält top-10 von 101 Skills des Plugins `verlagsrecht-buch
 ## Inhaltsverzeichnis
 
 1. **juristischer-argumentationskern** — Schaltet sich ein, wenn in Verlagsrecht Buchpreisbindung ein juristisches Arbeitsprodukt tragfähig begründet werden muss…
-2. **kaltstart-triage** — Wenn es um Kaltstart Triage in Verlagsrecht und Buchpreisbindung geht: klärt Rolle, Ziel, Frist, Unterlagen und den pass…
-3. **verlagsmandat-werk-vertrag-vertrieb** — Wenn es um Verl-001 · Kaltstart: Verlagsmandat, Werk, Vertrag, Vertrieb, Preis in Verlagsrecht und Buchpreisbindung geht…
-4. **verl-002-verlagsvertrag-hauptpflichten-rechteuebertragung** — Wenn es um Verlagsrecht: Verlagsvertrag Hauptpflichten Rechteübertragung und Rückruf in Verlagsrecht und Buchpreisbindun…
-5. **e-uebersetzungsrechte** — Wenn es um Verl-006 · E-Book, Print, Hörbuch und Audio: Nutzungsrechte und Preisbindung in Verlagsrecht und Buchpreisbin…
-6. **verl-001-kaltstart-verlagsmandat-werk-vertrag-vertrieb-preis** — Wenn es um Verlagsrecht: Kaltstart Verlagsmandat Werk Vertrag Vertrieb Preis in Verlagsrecht und Buchpreisbindung geht: …
-7. **verl-022-fachbuch-aktualisierung-loseblatt-und-online-datenbank** — Wenn es um Verlagsrecht: Fachbuch Aktualisierung Loseblatt und Online-Datenbank in Verlagsrecht und Buchpreisbindung geh…
-8. **autor-herausgeber-mitwirkende-rechtekette** — Wenn es um Verl-003 · Autor, Herausgeber, Mitwirkende: Rechtekette im Sammelwerk in Verlagsrecht und Buchpreisbindung ge…
-9. **verlagsvertrag-redaktionsvertrag** — Wenn es um Verl-002 · Verlagsvertrag: Hauptpflichten, Rechteübertragung, Rückruf in Verlagsrecht und Buchpreisbindung ge…
-10. **verl-004-manuskriptablieferung-abnahme-lektorat-und-verzug** — Wenn es um Verlagsrecht: Manuskriptablieferung Abnahme Lektorat und Verzug in Verlagsrecht und Buchpreisbindung geht: ze…
+2. **kaltstart-triage** — Für Kaltstart Triage: routet Rolle, Frist, Unterlagen und Fachschritt; Ergebnis: Prüfprodukt mit Risiko und nächstem Sch…
+3. **bildrechte-ki** — Klärt Bildrechte, Karten, Tabellen und Drittmaterial für Print, E-Book, Plattform und Werbung; baut eine belegte Rechtek…
+4. **uebersetzungsrechte-auslandslizenz-und-co-edition** — Klärt Rechtekette, Sprachgebiet, Nutzungsarten, Übersetzervergütung und Rückfallmechanik bei Übersetzungslizenzen, Ausla…
+5. **hoerbuch-fachzeitschrift** — Steuert Hörbuchproduktionen von Text- und Sprecherrechten über Aufnahme, Musik, Metadaten und Plattformauswertung bis zu…
+6. **verl-002-verlagsvertrag-hauptpflichten-rechteuebertragung** — Für Verlagsrecht: Verlagsvertrag Hauptpflichten Rechteübertragung und Rückruf: ordnet Norm, Beweislast und Gegenargument…
+7. **verl-007-uebersetzungsrechte-auslandslizenz-und-co-edition** — Für Verlagsrecht: Übersetzungsrechte Auslandslizenz und Co-Edition: ordnet Norm, Beweislast und Gegenargument; Ergebnis:…
+8. **e-uebersetzungsrechte** — Für Verl-006 · E-Book, Print, Hörbuch und Audio: Nutzungsrechte und Preisbindung: ordnet Norm, Beweislast und Gegenargum…
+9. **verl-043-verlegerrecht-historisch-und-heutige-grenzen** — Für Verlagsrecht: Verlegerrecht historisch und heutige Grenzen: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Sch…
+10. **auslandsrechte-rezensionsexemplar** — Für Verl-038 · Auslandsrechte, Sanktionen und Exportkontrolle: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Schn…
 
 ---
 
@@ -139,7 +139,7 @@ Ausgangspunkt für dieses Plugin: Rechteinhaber für Schutzrecht, Inhaberschaft 
 
 ## Skill: `kaltstart-triage`
 
-_Wenn es um Kaltstart Triage in Verlagsrecht und Buchpreisbindung geht: klärt Rolle, Ziel, Frist, Unterlagen und den passenden nächsten Fachskill; liefert eine Fristen- und Risikoampel mit Sofortschritten._
+_Für Kaltstart Triage: routet Rolle, Frist, Unterlagen und Fachschritt; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt. Fachgebiet: Verlagsrecht und Buchpreisbindung._
 
 ## Direktstart: lesen, entscheiden, liefern
 
@@ -180,114 +180,299 @@ Tragende Anker: VerlG, BuchPrG, UrhG §§ 32, 32a, 40. Tatsächliche Fundstellen
 
 ---
 
-## Skill: `verlagsmandat-werk-vertrag-vertrieb`
+## Skill: `bildrechte-ki`
 
-_Wenn es um Verl-001 · Kaltstart: Verlagsmandat, Werk, Vertrag, Vertrieb, Preis in Verlagsrecht und Buchpreisbindung geht: klärt Rolle, Ziel, Frist, Unterlagen und den passenden nächsten Fachskill; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt._
+_Klärt Bildrechte, Karten, Tabellen und Drittmaterial für Print, E-Book, Plattform und Werbung; baut eine belegte Rechtekette mit Schutzgegenstand, Rechteinhaber, Nutzungsart, Gebiet, Dauer, Quellenangabe und Freigabestatus._
 
-# Verl-001 · Kaltstart: Verlagsmandat, Werk, Vertrag, Vertrieb, Preis
+# Bildrechte, Karten, Tabellen und Drittmaterial
 
-## Zweck dieses Skills
+## 1. Direktstart
 
-Eingangspunkt für alle verlagsrechtlichen Mandate dar. Er klärt in einem strukturierten Aufnahme-Gespräch, welches Werk, welcher Vertragstyp, welcher Vertriebsweg und welche Preisbindungssituation vorliegen – bevor irgendeine inhaltliche Bewertung beginnt. Ohne diese Grundlage laufen spätere Prüfschritte ins Leere oder produzieren fehlerhafte Ergebnisse.
+Lies Manuskript, Abbildungsverzeichnis, Dateien, Metadaten, Bildunterschriften, Lizenzbelege und Veröffentlichungskanäle. Erstelle sofort ein Rechteprotokoll je Objekt; frage nur nach fehlenden Angaben, die Schutz, Rechteinhaberschaft, Nutzungsumfang oder Freigabe tatsächlich ändern.
 
-## Rechtsgrundlagen (Normenrahmen)
+## 2. Rechteprotokoll
 
-| Norm | Inhalt | Fundstelle |
-|------|--------|-----------|
-| VerlG § 1 | Definition Verlagsvertrag: Verlagswerk, Pflicht zur Vervielfältigung und Verbreitung | https://www.gesetze-im-internet.de/verlg/BJNR000800901.html |
-| VerlG § 2 | Hauptpflicht des Autors: Manuskriptablieferung in vereinbarter Form und Frist | https://www.gesetze-im-internet.de/verlg/BJNR000800901.html |
-| UrhG § 31 | Rechteeinräumung: einfache und ausschließliche Nutzungsrechte | https://www.gesetze-im-internet.de/urhg/__31.html |
-| UrhG § 32 | Angemessene Vergütung: gemeinsame Vergütungsregeln, Anpassungsanspruch | https://dejure.org/gesetze/UrhG/32.html |
-| BuchPrG § 3 | Preisbindungspflicht des Verlegers und Importeurs | https://www.gesetze-im-internet.de/buchprg/BJNR344810002.html |
-| BuchPrG § 5 | Bindung des Letztabnehmers an den festgesetzten Ladenpreis | https://www.gesetze-im-internet.de/buchprg/__5.html |
+| Feld | Konkrete Prüfung |
+| --- | --- |
+| Objekt | Dateiname, Abbildungsnummer, Werkart und Fundstelle im Manuskript |
+| Schutz | Lichtbildwerk, Lichtbild, Grafik, Karte, Datenbank, gemeinfreies visuelles Werk oder ungeschützte Tatsache |
+| Rechtekette | Urheber, Leistungsschutzberechtigter, Agentur, Lizenzgeber und Auftraggeber |
+| Nutzung | Print, E-Book, App, Webseite, Plattform, Werbung, Social Media, Bearbeitung und Übersetzung |
+| Reichweite | Gebiet, Sprache, Auflage, Dauer, Exklusivität und Unterlizenzierung |
+| Persönlichkeitsrecht | abgebildete Person, Einwilligung, Zweck und mögliche Ausnahme nach KUG |
+| Status | freigegeben, eingeschränkt, Nachforderung oder sperren |
 
-## Kaltstart-Fragebogen (7 Dimensionen)
+## 3. Normenanker
 
-### 1. Werkkategorie
-- Ist das Werk ein Sprachwerk (Roman, Sachbuch, Fachbuch), ein Sammelwerk, ein Datenbankwerk oder ein Übersetzungswerk?
-- Liegt ein Erst- oder Folgewerk vor (Reihe, Neuauflage, Überarbeitung)?
-- Gibt es Drittmaterial (Fotos, Tabellen, Karten, Zitate > § 51 UrhG), das eigenständige Nutzungsrechte erfordert?
+3.1. UrhG Paragraf 2 erfasst unter anderem Lichtbildwerke, Werke der bildenden Kunst und Darstellungen wissenschaftlicher oder technischer Art.
 
-### 2. Vertragstyp und Rechtelage
-- Liegt ein Verlagsvertrag i.S.v. § 1 VerlG vor, oder handelt es sich um einen Lizenzvertrag, Agenturvertrag, Werkvertrag oder Dienstvertrag?
-- Welche Nutzungsarten sind übertragen (§ 31 Abs. 1 UrhG): print, digital, Hörbuch, Film, Übersetzung, Nebenrechte?
-- Ist die Übertragung exklusiv (ausschließlich) oder nicht-exklusiv (einfach)?
-- Gibt es Rückruf- oder Neuverhandlungsklauseln (VerlG § 17, UrhG § 41)?
+3.2. UrhG Paragraf 31 steuert die Einräumung von Nutzungsrechten. Der Vertragszweck ersetzt keine präzise Prüfung der tatsächlich benötigten Nutzungsarten.
 
-### 3. Parteienrolle
-- Wer ist Auftraggeber: Autor, Übersetzer, Herausgeber, Verlag, Buchhandlung, Bibliothek, Investor, Anwalt?
-- Ist der Verlag Erst- oder Folgeverlag (Lizenzgeber/nehmer)?
-- Gibt es eine Literaturagentur und welche Vollmacht hat sie?
+3.3. UrhG Paragraf 51 erlaubt Zitate nur bei Zitatzweck und einem durch diesen Zweck gerechtfertigten Umfang. Ein Bild darf nicht bloß zur Illustration übernommen werden und anschließend als „Bildzitat“ etikettiert werden.
 
-### 4. Vertriebswege und Erscheinungsformen
-- Print (Hardcover, Paperback, Taschenbuch), E-Book, PDF, Hörbuch, Streaming, Bundle?
-- Vertrieb über Buchhandel, Direktvertrieb, Amazon Marketplace, Bibliothekslieferer, Schulbuchhandel?
-- Gilt die deutsche Buchpreisbindung (BuchPrG)? Maßgeblich: Ort des Erscheinens oder Importeurs.
+3.4. UrhG Paragraf 63 verlangt in den einschlägigen Schrankenfällen die gebotene Quellenangabe.
 
-### 5. Preisstruktur
-- Ist ein Ladenpreis bereits festgesetzt (§ 3 BuchPrG)? Wann? Durch wen?
-- Gibt es Sonderaktionen, Mengenrabatte, Bibliothekspreise oder Schulbuchkonditionen?
-- E-Book-Preis: eigenständige Festsetzung oder abgeleiteter Printpreis?
+3.5. UrhG Paragraf 68 schließt verwandte Schutzrechte an Vervielfältigungen gemeinfreier visueller Werke aus. Bei älteren Freigaben ist deshalb zu prüfen, ob sie noch auf der vor 2021 ergangenen Linie zu Reproduktionsfotografien beruhen.
 
-### 6. Fristen und Verfahrensstatus
-- Läuft eine Abgabefrist für das Manuskript (§ 2 VerlG)?
-- Ist eine Abmahnung oder eine Klage wegen Preisbindungsverstoß anhängig (BuchPrG §§ 9–11)?
-- Steht ein Vertragsende, eine Rückrufankündigung oder eine Insolvenz bevor?
+3.6. UrhG Paragraf 72 schützt sonstige Lichtbilder. Die Frist läuft fünfzig Jahre ab Erscheinen oder, wenn früher, ab der ersten erlaubten öffentlichen Wiedergabe; sind beide Ereignisse innerhalb von fünfzig Jahren nach Herstellung ausgeblieben, erlischt das Recht fünfzig Jahre nach Herstellung.
 
-### 7. Gewünschter Output
-- Vertragscheck / Redline
-- Preisbindungs-Ampel
-- Rechtekettenmatrix
-- Fristenplan
-- Entwurf: Autorenschreiben, Verlagsschreiben, Abmahnantwort
-- Dashboard für laufendes Verlagsprogramm
+3.7. KUG Paragrafen 22 und 23 sowie das allgemeine Persönlichkeitsrecht sind bei erkennbaren Personen gesondert zu prüfen. Eine urheberrechtliche Lizenz ersetzt keine Einwilligung der abgebildeten Person.
 
-## Prüfprogramm
+3.8. Bei Karten, Sammlungen und umfangreichen Datenauszügen kommen UrhG Paragraf 4 und Paragrafen 87a bis 87e hinzu. Einzelne Fakten sind nicht schon deshalb geschützt, weil ein Unternehmen sie erhoben hat.
 
-1. **Werkqualifikation**: Schriftwerk nach § 2 Abs. 1 Nr. 1 UrhG? Schöpfungshöhe bejaht?
-2. **Vertragstyp-Abgrenzung**: VerlG-Verlag vs. Herstellungsvertrag vs. Eigenverlag vs. Self-Publishing-Plattform
-3. **Rechtelücken**: Welche Nutzungsarten fehlen? Unbekannte Nutzungsarten (§ 31a UrhG)?
-4. **Vergütungsangemessenheit**: Ist die vereinbarte Vergütung im Licht der gemeinsamen Vergütungsregeln (VS/Verleger-Verbände) angemessen (§ 32 UrhG)?
-5. **Buchpreisbindungs-Status**: Unterliegt jede Ausgabe der Preisbindung? Ausnahmen (§ 6 BuchPrG) belegt?
-6. **Fristenübersicht**: Manuskriptabgabe, Erscheinungstermin, Abrechnungsfristen, Widerruf- und Rückruffristen
+## 4. Fallgruppen
 
-## Typische Fallen beim Kaltstart
+4.1. Fotografie: Trenne Werkqualität, Lichtbildschutz, Eigentum an der Datei und eingeräumte Nutzungsrechte.
 
-- **Falsche Vertragstyp-Einordnung**: Ein „Verlagsvertrag" ohne Erscheinungspflicht ist kein VerlG-Vertrag; es gelten andere Regeln.
-- **Stille Nutzungsarten-Übertragung**: „Alle Rechte"-Klauseln übertragen nach § 31 Abs. 5 UrhG nur die erkennbar benötigten Nutzungsarten.
-- **Preisbindung übersehen**: Self-Publishing-Plattformen (BoD, KDP) unterliegen bei deutschem Erscheinungsort ebenfalls der Preisbindung.
-- **Fehlende Agenturvollmacht**: Agenturverträge ohne schriftliche Vollmacht können Verlagsverträge schwebend unwirksam machen.
-- **Keine Fristnotiz**: Ohne notierte Abgabe- und Erscheinungsfristen fehlt die Grundlage für Verzugsschreiben.
+4.2. Gemeinfreies Kunstwerk: Prüfe UrhG Paragraf 68, einen möglichen eigenständigen Werkschutz der Reproduktion und vertragliche Aufnahmebeschränkungen des Museums. BGH, Urteil vom 20. Dezember 2018 - I ZR 104/17, Museumsfotos, ist wegen der späteren Gesetzesänderung nur mit ausgewiesenem Zeit- und Regelungskontext zu verwenden.
 
-## Quellenreferenzen
+4.3. Online-Fund: EuGH, Urteil vom 7. August 2018 - C-161/17, Renckhoff, zeigt, dass das erneute Einstellen einer frei erreichbaren Fotografie auf einer anderen Webseite eine neue öffentliche Zugänglichmachung sein kann. „Im Internet gefunden“ ist kein Lizenzstatus.
 
-- Gesetze-im-Internet, VerlG: https://www.gesetze-im-internet.de/verlg/
-- Gesetze-im-Internet, BuchPrG: https://www.gesetze-im-internet.de/buchprg/
-- Dejure, UrhG § 31: https://dejure.org/gesetze/UrhG/31.html
-- Dejure, UrhG § 32: https://dejure.org/gesetze/UrhG/32.html
-- Börsenverein, Buchpreisbindung: https://www.boersenverein.de/themen-positionen/buchmarkt/buchpreisbindung/
+4.4. Karte: Prüfe kartografischen Werkschutz, Datenbankrecht und die konkrete Datenlizenz. Bei OpenStreetMap-Daten ist die aktuelle Open Database License maßgeblich; frühere Hinweise auf CC BY-SA dürfen nicht ungeprüft fortgeschrieben werden.
 
-## Output-Formate
+4.5. Tabelle oder Statistik: Trenne ungeschützte Daten, geschützte Auswahl oder Anordnung, Datenbankrecht und Gestaltung. Amtliche oder offene Daten sind nur nach den tatsächlich veröffentlichten Nutzungsbedingungen freizugeben.
 
-- **Ampel**: Grün/Gelb/Rot je Dimension (Vertrag, Rechte, Preis, Fristen)
-- **Rechtekettenmatrix**: Tabelle aller Nutzungsarten mit Inhaberschaft und Lücken
-- **Fristenplan**: Alle laufenden und bevorstehenden Fristen mit Handlungsbedarf
-- **Verlagsbrief-Entwurf**: Musteranschreiben für erste Kontaktaufnahme oder Klärung
-- **Checkliste für Vollständigkeit der Unterlagen**
+4.6. Verwaistes Werk: UrhG Paragrafen 61 bis 61c eröffnen nur bestimmten privilegierten Einrichtungen und unter gesetzlichen Voraussetzungen Nutzungen nach sorgfältiger Suche. Für einen kommerziellen Verlag ist das kein allgemeiner Freibrief.
 
-<!-- BEGIN ausformulierungspflicht (autogen) -->
-> **Ausformulierungspflicht und Formatstandard.** Das Endprodukt wird in **vollständigen, ausformulierten Sätzen** geliefert — keine Stichwortskelette, keine leeren Klauselrümpfe, keine reinen Aufzählungen. Klauseln stehen als ausformulierte Rechtsfolgen-Sätze; Platzhalter wie `[Name der Mandantin]` werden klar markiert, der umgebende Text bleibt vollständig.
->
-> **Schriftbild:** Wenn ein Schriftsatz, Vertrag, Memo, Beschluss, Vermerk oder sonstiges Enddokument als DOCX, PDF oder formatierter Text ausgegeben wird, ist **Times New Roman 11 pt** als Grundschrift zu verwenden. Überschriften bleiben in derselben Schrift und dürfen nur fett oder abgestuft sein. Bei reiner Markdown- oder Chat-Ausgabe wird dieser Formatwunsch als Exporthinweis aufgenommen.
->
-> **Nummerierung:** Gliederung ausschließlich dezimal (`1`, `1.1`, `1.1.1` und so weiter). Keine römischen Ziffern, keine Buchstaben- oder Mischgliederung.
-<!-- END ausformulierungspflicht (autogen) -->
+## 5. Beweis- und Vertragsarbeit
+
+5.1. Speichere Lizenztext, Rechnungsbeleg, Bestellzeitpunkt, Lizenzkonto, Originaldatei und Metadaten zusammen. Ein Bildschirmfoto ohne zugehörige Lizenzfassung beweist den Umfang selten zuverlässig.
+
+5.2. Formuliere Rechteklauseln nach Nutzungsart, Medium, Gebiet, Sprache, Dauer, Exklusivität, Bearbeitungsbefugnis, Werbung, Archivierung und Unterlizenzierung.
+
+5.3. Eine Freistellung ersetzt keine Rechteprüfung. Sie verteilt nur das wirtschaftliche Risiko und muss Kenntnis, Mitwirkung, Verteidigungsführung und Vergleichsabschluss regeln.
+
+## 6. Qualitätskontrolle
+
+6.1. Keine pauschale Schutzfrist „fünfzig Jahre ab Entstehung“ für Lichtbilder.
+
+6.2. Keine Behauptung, jede originalgetreue Reproduktion eines gemeinfreien visuellen Werks erzeuge weiterhin ein Leistungsschutzrecht.
+
+6.3. Keine automatische Freigabe wegen Quellenangabe, Suchmaschinenfund, Kauf der Datei oder Besitz des körperlichen Originals.
+
+6.4. Keine Annahme, Share-Alike erfasse stets das gesamte Buch; Lizenztext, Bearbeitung, Datenbank und konkrete Einbindung sind zu unterscheiden.
+
+6.5. Jede Freigabe nennt Quelle, Lizenzfassung, Nutzung und Belegfundstelle.
+
+## 7. Arbeitsprodukte
+
+7.1. Rechteprotokoll als Tabelle mit Ampel und Nachforderung.
+
+7.2. Lizenzanfrage mit vollständigem Nutzungskatalog.
+
+7.3. Rechteklausel für Autoren-, Illustratoren- oder Agenturvertrag.
+
+7.4. Sperrliste für Herstellung und Auslieferung.
+
+## 8. Amtliche Quellen
+
+- UrhG Paragrafen 2, 31, 51, 63, 68 und 72: https://www.gesetze-im-internet.de/urhg/
+- KUG Paragrafen 22 und 23: https://www.gesetze-im-internet.de/kunsturhg/
+- EuGH C-161/17: https://curia.europa.eu/juris/liste.jsf?num=C-161/17
+- BGH I ZR 104/17: https://juris.bundesgerichtshof.de/
+
+---
+
+## Skill: `uebersetzungsrechte-auslandslizenz-und-co-edition`
+
+_Klärt Rechtekette, Sprachgebiet, Nutzungsarten, Übersetzervergütung und Rückfallmechanik bei Übersetzungslizenzen, Auslandsausgaben und Co-Editionen; liefert Rechte-Matrix, Term Sheet, Vertragsklauseln und Vollzugsplan._
+
+# Übersetzungsrechte, Auslandslizenz und Co-Edition
+
+## 1. Sofort mit der Rechtekette beginnen
+
+Lies zuerst Originalvertrag, Nachträge, frühere Lizenzen, Übersetzervertrag, Term Sheet und Korrespondenz. Erstelle ohne vorgeschaltetes Standardinterview eine Rechte-Matrix. Frage nur nach Tatsachen, die sich aus den Unterlagen nicht verlässlich ergeben und für den nächsten Arbeitsschritt entscheidend sind.
+
+| Prüffeld | Feststellung | Beleg | Lücke oder Konflikt | Nächster Schritt |
+| --- | --- | --- | --- | --- |
+| Ausgangswerk und Fassung | Titel, Auflage, Bearbeitungsstand | Verlagsvertrag, Manuskript | Rechte an Neuauflage offen | Vertragsnachtrag prüfen |
+| Sprache und Gebiet | Sprache, Mundart, Staaten, Vertriebskanäle | Lizenzentwurf | Gebiet überschneidet Altvertrag | Kollisionskarte erstellen |
+| Nutzungsarten | Print, E-Book, Audio, Print-on-Demand | Rechteklausel | Audio nicht ausdrücklich erfasst | Nutzungsart separat verhandeln |
+| Übersetzung | Übersetzer, Werkqualität, Rechteumfang | Übersetzervertrag | Rechteeinräumung unvollständig | Rechte nachziehen |
+| Weiterlizenzierung | Unterlizenz, Co-Edition, Vertriebspartner | Zustimmungsklausel | Zustimmung fehlt | Genehmigungsweg festlegen |
+
+## 2. Rechtspositionen sauber trennen
+
+1. Das Ausgangswerk und die Übersetzung sind zwei Schutzgegenstände. Eine Übersetzung ist nach Paragraf 3 UrhG nur dann selbst geschützt, wenn die persönliche geistige Schöpfung die Schutzschwelle erreicht.
+2. Die Veröffentlichung oder Verwertung einer Übersetzung greift regelmäßig in das Bearbeitungsrecht am Ausgangswerk nach Paragraf 23 Absatz 1 UrhG ein. Ob daneben ein eigenes Übersetzerurheberrecht besteht, ist gesondert zu prüfen.
+3. Ein gewöhnlicher Verlagsvertrag überträgt das Übersetzungsrecht nicht automatisch. Nach Paragraf 2 Absatz 2 Nummer 1 VerlG verbleibt die Befugnis zur Übersetzung grundsätzlich beim Verfasser, soweit der Vertrag sie nicht wirksam erweitert.
+4. Paragraf 35 VerlG ist kein Übersetzungsrechtsanker. Die Vorschrift regelt den Rücktritt des Verfassers wegen bei Vertragsschluss nicht vorhersehbarer Umstände.
+5. Reichweite und Zweck einer Rechteeinräumung sind nach Paragraf 31 UrhG und der Zweckübertragungslehre für jede Sprache, jedes Gebiet, jede Nutzungsart und jede Weiterlizenzierungsstufe einzeln zu bestimmen.
+
+## 3. Vertragsprüfung in fünf Stationen
+
+### 3.1 Rechtebestand
+
+- Vertragsparteien, Vertretungsmacht und lückenlose Rechtekette feststellen.
+- Original-, Übersetzungs-, Bearbeitungs-, Titel-, Bild-, Karten- und Nebenrechte getrennt ausweisen.
+- Frühere Exklusivlizenzen, Optionsrechte, Agenturbindungen und Rückfälle mit Laufzeit und Gebiet in einer Kollisionskarte erfassen.
+- Bei unbekannten Nutzungsarten Paragraf 31a UrhG und die erforderliche Schriftform sowie Widerrufsfragen prüfen.
+
+### 3.2 Lizenzzuschnitt
+
+- Sprache und Schriftvariante präzise benennen; Gebiet durch Staatenliste und nicht durch unscharfe Regionalbegriffe definieren.
+- Print, E-Book, Hörbuch, App, Datenbank, Print-on-Demand, Leseprobe, Marketingauszug und barrierefreie Fassung gesondert zuordnen.
+- Exklusivität, Mindestverwertung, Auflagenhöhe, Erscheinungstermin, Verramschung, Remittenden und Rechte-Rückfall miteinander verzahnen.
+- Unterlizenzierung und Rechteübertragung nach Paragrafen 34 und 35 UrhG nur innerhalb des belegten Zustimmungsrahmens zulassen.
+
+### 3.3 Übersetzervertrag
+
+- Ablieferungsgegenstand, Ausgangsfassung, Termin, Korrekturläufe und Abnahmeprozess festlegen.
+- Namensnennung nach Paragraf 13 UrhG, Änderungsschutz nach Paragraf 14 UrhG und redaktionelle Eingriffe konkret regeln.
+- Angemessene Vergütung nach Paragraf 32 UrhG, weitere Beteiligung nach Paragraf 32a UrhG sowie Auskunft und Rechenschaft nach Paragrafen 32d und 32e UrhG prüfen.
+- Keine veralteten Pauschalsätze als Rechtsregel ausgeben. Aktuelle gemeinsame Vergütungsregeln, Verbandsvereinbarungen, Vertragsüblichkeit und tatsächliche Erlösstruktur mit Datum und Quelle belegen.
+
+### 3.4 Co-Edition und Herstellung
+
+- Federführung, Satzdaten, Farbprofile, Papier, Druckfreigabe, Korrekturverantwortung und Liefertermine festlegen.
+- Druckkosten, Ausschuss, Überproduktion, Transport, Zoll, Währungsrisiko und Reklamationen zuordnen.
+- Für jede Sprachfassung klären, wer Übersetzer beauftragt, Rechte erwirbt, Korrekturen genehmigt und für Rechtsverletzungen haftet.
+- Parallelproduktion nur starten, wenn Rechtefreigabe, Druckfreigabe und Mindestbestellung dokumentiert sind.
+
+### 3.5 Beendigung und Rückfall
+
+- Laufzeit nicht aus vermeintlichen Marktstandards ableiten, sondern nach Werk, Markt, Investition und Mindestverwertung verhandeln.
+- Rückfall an messbare Ereignisse knüpfen: Nichterscheinen, Unterschreitung der Mindestauflage, Abrechnungsverzug, Insolvenz oder endgültige Einstellung einer Nutzungsart.
+- Abverkaufsfrist, Restbestände, Dateienlöschung, Metadatenbereinigung und Fortbestand bereits erteilter Endkundenrechte regeln.
+- Rückruf wegen Nichtausübung nach Paragraf 41 UrhG und anderweitige Verwertung nach Paragraf 40a UrhG nur nach Prüfung ihrer Voraussetzungen und Abdingbarkeit einordnen.
+
+## 4. Vergütung und Abrechnung beweisfest machen
+
+Erstelle keine schematische Marktpreisbehauptung. Lege stattdessen offen, welche Bezugsgröße der Vertrag verwendet und welche Unterlagen die Abrechnung kontrollierbar machen.
+
+| Position | Vertragsdefinition | Benötigter Nachweis | Kontrollfrage |
+| --- | --- | --- | --- |
+| Vorschuss | verrechenbar oder garantiert | Zahlungsbeleg | Gegen welche Erlöse wird verrechnet? |
+| Beteiligung | Nettoerlös, Ladenpreis oder Stücksatz | Verkaufsbericht | Welche Abzüge sind zulässig? |
+| Mindestgarantie | Betrag und Fälligkeit | Rechnung, Kontoauszug | Löst Nichterreichen einen Rückfall aus? |
+| Unterlizenz | Anteil an Lizenzerlösen | Unterlizenzvertrag | Sind konzerninterne Geschäfte erfasst? |
+| Audit | Umfang, Zeitraum, Kostenfolge | Buchungsunterlagen | Wer prüft bei begründetem Verdacht? |
+
+Der BGH hat in der Entscheidung vom 7. Oktober 2009, I ZR 38/07, die Übersetzervergütung im damaligen konkreten Vertrags- und Marktumfeld behandelt. Verwende die Entscheidung als historischen Auslegungs- und Angemessenheitsanker, nicht als zeitlose Tariftabelle. Prüfe stets den heutigen Vertrag, aktuelle Vergütungsregeln und die tatsächliche Erlöslage.
+
+## 5. Internationale Ebene
+
+1. Vertragsstatut, Gerichtsstand, Schiedsvereinbarung und zwingende Schutzvorschriften getrennt prüfen.
+2. Bei EU-Sachverhalten Rom-I-Verordnung und Brüssel-Ia-Verordnung einordnen; Verbraucherverträge und zwingendes Urhebervertragsrecht nicht durch eine Rechtswahl übergehen.
+3. Steuerabzug, Quellensteuer, Doppelbesteuerungsabkommen, Umsatzsteuer, Währung und Bankkosten als Vollzugsthemen markieren, aber ohne steuerliche Einzelfallprüfung keine Nettozusage formulieren.
+4. Buchpreisbindung und territoriale Vertriebsvorgaben nur für die tatsächlich betroffenen Absatzmärkte prüfen. Die Portabilitäts-Verordnung 2017/1128 ersetzt keine Rechtekettenprüfung für dauerhafte grenzüberschreitende Angebote.
+5. Bei Co-Editionen Lieferklauseln, Gefahrübergang und Zollunterlagen auf die konkrete Herstellungs- und Lieferkette abstimmen.
+
+## 6. Beweis- und Risikokarte
+
+- Wer sich auf eine ausschließliche Lizenz beruft, muss deren Bestand und Reichweite anhand der Vertragskette darlegen können.
+- Unklare Nutzungsarten, Gebiete und Weiterlizenzierungen nicht durch Wunschdenken schließen; Vertragstext, Vertragszweck und Verhandlungsmaterial gegeneinander halten.
+- Versionen von Manuskript und Übersetzung mit Datum und Prüfer dokumentieren. Abnahme-E-Mails und Änderungswünsche sichern.
+- Abrechnungen mit Verkaufsdaten, Retouren, Rabatten, Unterlizenzen und Plattformberichten abgleichen.
+- Rechtsbehauptung, Marktannahme und vertragliche Gestaltungsempfehlung im Ergebnis sichtbar trennen.
+
+## 7. Arbeitsprodukte
+
+Liefere abhängig vom Auftrag eines oder mehrere dieser Produkte:
+
+1. Rechteketten- und Kollisionsmatrix mit Ampel, Beleg und Heilungsschritt.
+2. Verhandlungsfähiges Term Sheet mit Sprache, Gebiet, Nutzungsarten, Vergütung und Rückfall.
+3. Vertragsprüfung als Klauseltabelle mit Ausgangstext, Risiko, Rechtsanker und Ersatzfassung.
+4. Übersetzervertrags- oder Auslandslizenzentwurf mit offenen Punkten in eckigen Platzhaltern.
+5. Closing-Plan für Freigaben, Unterschriften, Zahlungen, Datenübergabe und Veröffentlichung.
+6. Anspruchsschreiben zu Abrechnung, Auskunft, Nachvergütung oder Rechteverletzung mit beziffertem Informationsbedarf.
+
+## 8. Schlusskontrolle
+
+- Sind Ausgangswerk und Übersetzung als getrennte Rechteebenen behandelt?
+- Ist jede Sprache, jedes Gebiet und jede Nutzungsart eindeutig zugeordnet?
+- Sind Unterlizenz und Rechteübertragung durch die Rechtekette gedeckt?
+- Sind Vergütungsaussagen belegt und nicht als vermeintlicher Marktstandard erfunden?
+- Sind Erscheinungspflicht, Mindestverwertung und Rückfall widerspruchsfrei?
+- Sind Rechtsstand und Quellenstatus jedes tragenden Norm- oder Rechtsprechungsankers angegeben?
+- Ist das Arbeitsprodukt unmittelbar verhandlungs-, entscheidungs- oder versandfähig?
+
+---
+
+## Skill: `hoerbuch-fachzeitschrift`
+
+_Steuert Hörbuchproduktionen von Text- und Sprecherrechten über Aufnahme, Musik, Metadaten und Plattformauswertung bis zur Vergütungsabrechnung; trennt Urheber-, Künstler- und Tonträgerherstellerrechte._
+
+# Hörbuch, Sprechervertrag und Leistungsschutzrechte
+
+## 1. Direktstart
+
+Lies Verlagsvertrag, Rechtekette des Textes, Sprechervertrag, Produktionsvertrag, Musikliste, Masterdatei, Plattformbedingungen und Abrechnungen. Liefere zuerst eine Rechteampel je Auswertungsweg: physischer Tonträger, Download, Stream, Bibliotheksausleihe, Ausschnittwerbung und internationale Fassung.
+
+## 2. Drei Rechteebenen
+
+2.1. Text: Der Verlag benötigt die für Aufnahme und jeweilige Auswertung erforderlichen Nutzungsrechte des Urhebers oder Rechtsnachfolgers. Print- und E-Book-Rechte schließen das Hörbuchrecht nicht automatisch ein.
+
+2.2. Darbietung: Der Sprecher ist regelmäßig ausübender Künstler nach UrhG Paragraf 73. Aufnahme, Vervielfältigung, Verbreitung, öffentliche Zugänglichmachung und weitere Nutzungen sind entlang UrhG Paragrafen 77 bis 79 zu regeln.
+
+2.3. Tonträger: Herstellerrechte nach UrhG Paragrafen 85 und 86 stehen neben Text- und Darbietungsrechten. Kläre, wer organisatorische und wirtschaftliche Verantwortung für die Erstaufzeichnung trägt.
+
+## 3. Schutzfristen richtig bestimmen
+
+3.1. Für eine auf Tonträger aufgezeichnete Darbietung knüpft UrhG Paragraf 82 Absatz 1 an Erscheinen oder die frühere erste erlaubte öffentliche Wiedergabe an und sieht dafür grundsätzlich siebzig Jahre vor.
+
+3.2. Für nicht auf Tonträger aufgezeichnete Darbietungen gelten die im Gesetz bestimmten Fünfzigjahresfristen. Sind Erscheinen oder erlaubte öffentliche Wiedergabe innerhalb von fünfzig Jahren nach der Darbietung ausgeblieben, ist auf die Darbietung abzustellen.
+
+3.3. Schreibe deshalb nicht pauschal „fünfzig Jahre ab Aufnahme“ oder „siebzig Jahre bei Vermarktung“. Dokumentiere Darbietung, Aufzeichnungsart, Erscheinen und erste erlaubte öffentliche Wiedergabe mit Datum.
+
+## 4. Sprechervertrag
+
+| Klausel | Mindestinhalt |
+| --- | --- |
+| Produktion | Werk, Rolle, Aussprachekonzept, Studio, Termine, Retakes und technische Spezifikation |
+| Rechtseinräumung | Nutzungsarten, Ausschnitte, Werbung, Gebiet, Sprache, Dauer, Exklusivität und Unterlizenzierung |
+| Bearbeitung | Schnitt, Kürzung, Mastering, Kapitel, Fehlerkorrektur und zulässige Stimmveränderung |
+| Vergütung | Pauschale, Zeiteinheit, Wiederholung, Beteiligung, Abrechnung, Prüfung und Steuerbehandlung |
+| Namensnennung | Cover, Metadaten, Plattformen, Presse und zulässige Abweichungen |
+| Freigabe | künstlerische Leitung, Abnahmeprozess, objektive Fehler und Änderungsgrenzen |
+| Altvertrag | angemessene Vergütung und weitere Beteiligung nach den entsprechend anwendbaren Regeln prüfen |
+
+UrhG Paragraf 79a enthält für sehr langfristig ausgewertete Tonträger besondere unverzichtbare Vergütungs- und Auskunftsregeln. Er ist nicht mit dem allgemeinen Anspruch auf weitere Beteiligung zu verwechseln.
+
+## 5. Musik und Fremdmaterial
+
+5.1. Erfasse jede Musik, jedes Geräuscharchiv und jedes Fremdzitat mit Timecode, Quelle, Rechteinhaber, Nutzungsart und Lizenzbeleg.
+
+5.2. Prüfe Werkrechte, Leistungsschutzrechte und gegebenenfalls die Zuständigkeit einer Verwertungsgesellschaft getrennt. Tarifbezeichnungen und Konditionen werden für den Produktionszeitpunkt aktuell verifiziert, nicht aus älteren Vorlagen übernommen.
+
+5.3. Trailer, Hörprobe und Social-Media-Ausschnitt sind eigene Nutzungen und müssen vom Rechtesatz gedeckt sein.
+
+## 6. Preisbindung und Vertrieb
+
+6.1. Unterstelle nicht, ein Hörbuch sei allein wegen eines körperlichen Datenträgers oder seiner Nähe zum Buch preisgebunden. Ordne das konkrete Produkt nach BuchPrG Paragraf 2 ein und dokumentiere bei Zweifeln den verifizierten Quellenstand.
+
+6.2. Trenne Ladenpreisbindung, vertragliche Plattformpreisvorgaben, Rabattfinanzierung und Abrechnungsbasis. Ein Plattformvertrag kann wirtschaftliche Preisgrenzen enthalten, ohne dass daraus eine gesetzliche Buchpreisbindung folgt.
+
+6.3. Prüfe Exklusivität, Mindestlaufzeit, Kündigung, territoriale Sperren, Bibliotheksnutzung, Abomodell, Rückgaben, Metadatenhoheit und Abrechnungsprüfung je Vertriebskanal.
+
+## 7. Beweis- und Abrechnungskontrolle
+
+7.1. Bewahre unterschriebene Verträge, Sessionprotokolle, Freigaben, Master-Hashes, Metadatenstände, Auslieferungslisten und Plattformabrechnungen zusammen auf.
+
+7.2. Baue eine Erlöskette von Endkundenumsatz über Plattformabzug und vertragliche Berechnungsbasis bis zur Autoren- und Sprecherbeteiligung. Jede Zahl erhält Zeitraum, Währung und Beleg.
+
+7.3. Markiere Abweichungen zwischen gehörten Minuten, Downloads, Verkäufen, Rückgaben und tatsächlich abgerechneten Einheiten.
+
+## 8. Arbeitsprodukte
+
+8.1. Rechtekettenmatrix für Text, Darbietung, Master, Musik und Plattform.
+
+8.2. Ausformulierter Sprechervertrag oder Änderungsvereinbarung.
+
+8.3. Produktions- und Freigabeprotokoll mit Retake-Liste.
+
+8.4. Abrechnungsprüfung mit Belegspalte und Nachforderung.
+
+## 9. Amtliche Quellen
+
+- UrhG Paragrafen 73 bis 86: https://www.gesetze-im-internet.de/urhg/
+- BuchPrG Paragraf 2: https://www.gesetze-im-internet.de/buchprg/__2.html
 
 ---
 
 ## Skill: `verl-002-verlagsvertrag-hauptpflichten-rechteuebertragung`
 
-_Wenn es um Verlagsrecht: Verlagsvertrag Hauptpflichten Rechteübertragung und Rückruf in Verlagsrecht und Buchpreisbindung geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten._
+_Für Verlagsrecht: Verlagsvertrag Hauptpflichten Rechteübertragung und Rückruf: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Schnittstellenkarte mit Zuständigkeits- und Nachweisfragen._
 
 # Verlagsrecht: Verlagsvertrag Hauptpflichten Rechteübertragung und Rückruf
 
@@ -341,9 +526,57 @@ Dieser Skill bearbeitet **Verlagsvertrag Hauptpflichten Rechteübertragung und R
 
 ---
 
+## Skill: `verl-007-uebersetzungsrechte-auslandslizenz-und-co-edition`
+
+_Für Verlagsrecht: Übersetzungsrechte Auslandslizenz und Co-Edition: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Schnittstellenkarte mit Zuständigkeits- und Nachweisfragen._
+
+# Verlagsrecht: Übersetzungsrechte Auslandslizenz und Co-Edition
+
+## Aufgabe
+
+Dieser Skill bearbeitet **Übersetzungsrechte Auslandslizenz und Co-Edition** im Bereich **Verlagsrecht**. Er soll nicht schematisch antworten, sondern zuerst die praktische Lage sortieren: Wer handelt, welche Unterlagen liegen vor, welche Frist läuft, welche Behörde oder Gegenpartei entscheidet und welches Ergebnis gebraucht wird.
+
+## Kaltstart in 6 Fragen
+
+1. Welche Rolle hat die Nutzerin: Mandant, Unternehmen, Behörde, Kanzlei, Gericht, Verlag, Betreiber, Investor oder Betroffene?
+2. Geht es um Prüfung, Entwurf, Verteidigung, Anmeldung, Register, Frist, Verhandlung, Compliance, Streit oder Dokumentation?
+3. Welche Dokumente liegen vor und welche fehlen: Vertrag, Bescheid, Registerauszug, Screenshot, E-Mail, Rechnung, Gutachten, Normtext, Protokoll?
+4. Welche Rechtsordnung, Branche, Epoche, Sprache oder technische Umgebung ist betroffen?
+5. Welche Entscheidung muss heute fallen und welche Punkte dürfen erst nach Live-Check beantwortet werden?
+6. Soll das Ergebnis als Ampel, Memo, Klausel, Antrag, Fristenplan, Behördenschreiben, Red-Team oder Dashboard kommen?
+
+## Prüfprogramm
+
+- Sachverhalt in Tatsachen, Annahmen, Wertungen und offene Beweisfragen zerlegen.
+- VerlG, BuchPrG, UrhG, UWG und Vertrag trennen
+- Preisbindung immer nach Produkt, Ausgabe, Händler und Aktion prüfen
+- Rechtekette und Drittmaterial zuerst klären
+- Keine Verlags-/Literaturfundstellen erfinden
+- Zuständigkeit, Form, Frist, Beweislast, Vollzug und Rechtsbehelf immer getrennt ausgeben.
+- Bei historischen, internationalen oder technischen Begriffen erst übersetzen, dann rechtlich einordnen.
+- Keine Scheingenauigkeit: Wenn Quelle, Normstand oder Rechtsprechung fehlen, einen Live-Check als nächsten Schritt formulieren.
+
+## Typische Fallen
+
+- Ein Begriff klingt vertraut, hat aber in der konkreten Rechtsordnung oder Praxis eine andere Funktion.
+- Zuständigkeit, Form oder Zustellung wird übersehen, obwohl der materielle Punkt gut aussieht.
+- Eine Behauptung wird aus Modellwissen mit einer Fundstelle versehen. Das ist verboten; erst prüfen, dann zitieren.
+- Der Output ist juristisch richtig, hilft aber der Nutzerin operativ nicht. Deshalb immer nächste Handlung und Dokumentationsspur liefern.
+
+## Output
+
+- Vertragsredline
+- Preisbindungscheck
+- Rechtekettenmatrix
+- Autorenmail
+- Abmahnantwort
+- Verlagsmemo
+
+---
+
 ## Skill: `e-uebersetzungsrechte`
 
-_Wenn es um Verl-006 · E-Book, Print, Hörbuch und Audio: Nutzungsrechte und Preisbindung in Verlagsrecht und Buchpreisbindung geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten._
+_Für Verl-006 · E-Book, Print, Hörbuch und Audio: Nutzungsrechte und Preisbindung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt._
 
 # Verl-006 · E-Book, Print, Hörbuch und Audio: Nutzungsrechte und Preisbindung
 
@@ -471,71 +704,15 @@ Verlage müssen für jede **Ausgabeform** (Print, E-Book, Hörbuch, Audiostream,
 
 ---
 
-## Skill: `verl-001-kaltstart-verlagsmandat-werk-vertrag-vertrieb-preis`
+## Skill: `verl-043-verlegerrecht-historisch-und-heutige-grenzen`
 
-_Wenn es um Verlagsrecht: Kaltstart Verlagsmandat Werk Vertrag Vertrieb Preis in Verlagsrecht und Buchpreisbindung geht: klärt Rolle, Ziel, Frist, Unterlagen und den passenden nächsten Fachskill; liefert eine Fristen- und Risikoampel mit Sofortschritten._
+_Für Verlagsrecht: Verlegerrecht historisch und heutige Grenzen: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Schnittstellenkarte mit Zuständigkeits- und Nachweisfragen._
 
-# Verlagsrecht: Kaltstart Verlagsmandat Werk Vertrag Vertrieb Preis
-
-## Aufgabe
-
-Dieser Skill bearbeitet **Kaltstart Verlagsmandat Werk Vertrag Vertrieb Preis** im Bereich **Verlagsrecht**. Er soll nicht schematisch antworten, sondern zuerst die praktische Lage sortieren: Wer handelt, welche Unterlagen liegen vor, welche Frist läuft, welche Behörde oder Gegenpartei entscheidet und welches Ergebnis gebraucht wird.
-
-## Kaltstart in 6 Fragen
-
-1. Welche Rolle hat die Nutzerin: Mandant, Unternehmen, Behörde, Kanzlei, Gericht, Verlag, Betreiber, Investor oder Betroffene?
-2. Geht es um Prüfung, Entwurf, Verteidigung, Anmeldung, Register, Frist, Verhandlung, Compliance, Streit oder Dokumentation?
-3. Welche Dokumente liegen vor und welche fehlen: Vertrag, Bescheid, Registerauszug, Screenshot, E-Mail, Rechnung, Gutachten, Normtext, Protokoll?
-4. Welche Rechtsordnung, Branche, Epoche, Sprache oder technische Umgebung ist betroffen?
-5. Welche Entscheidung muss heute fallen und welche Punkte dürfen erst nach Live-Check beantwortet werden?
-6. Soll das Ergebnis als Ampel, Memo, Klausel, Antrag, Fristenplan, Behördenschreiben, Red-Team oder Dashboard kommen?
-
-## Prüfprogramm
-
-- Sachverhalt in Tatsachen, Annahmen, Wertungen und offene Beweisfragen zerlegen.
-- VerlG, BuchPrG, UrhG, UWG und Vertrag trennen
-- Preisbindung immer nach Produkt, Ausgabe, Händler und Aktion prüfen
-- Rechtekette und Drittmaterial zuerst klären
-- Keine Verlags-/Literaturfundstellen erfinden
-- Zuständigkeit, Form, Frist, Beweislast, Vollzug und Rechtsbehelf immer getrennt ausgeben.
-- Bei historischen, internationalen oder technischen Begriffen erst übersetzen, dann rechtlich einordnen.
-- Keine Scheingenauigkeit: Wenn Quelle, Normstand oder Rechtsprechung fehlen, einen Live-Check als nächsten Schritt formulieren.
-
-## Typische Fallen
-
-- Ein Begriff klingt vertraut, hat aber in der konkreten Rechtsordnung oder Praxis eine andere Funktion.
-- Zuständigkeit, Form oder Zustellung wird übersehen, obwohl der materielle Punkt gut aussieht.
-- Eine Behauptung wird aus Modellwissen mit einer Fundstelle versehen. Das ist verboten; erst prüfen, dann zitieren.
-- Der Output ist juristisch richtig, hilft aber der Nutzerin operativ nicht. Deshalb immer nächste Handlung und Dokumentationsspur liefern.
-
-## Output
-
-- Vertragsredline
-- Preisbindungscheck
-- Rechtekettenmatrix
-- Autorenmail
-- Abmahnantwort
-- Verlagsmemo
-
-<!-- BEGIN ausformulierungspflicht (autogen) -->
-> **Ausformulierungspflicht und Formatstandard.** Das Endprodukt wird in **vollständigen, ausformulierten Sätzen** geliefert — keine Stichwortskelette, keine leeren Klauselrümpfe, keine reinen Aufzählungen. Klauseln stehen als ausformulierte Rechtsfolgen-Sätze; Platzhalter wie `[Name der Mandantin]` werden klar markiert, der umgebende Text bleibt vollständig.
->
-> **Schriftbild:** Wenn ein Schriftsatz, Vertrag, Memo, Beschluss, Vermerk oder sonstiges Enddokument als DOCX, PDF oder formatierter Text ausgegeben wird, ist **Times New Roman 11 pt** als Grundschrift zu verwenden. Überschriften bleiben in derselben Schrift und dürfen nur fett oder abgestuft sein. Bei reiner Markdown- oder Chat-Ausgabe wird dieser Formatwunsch als Exporthinweis aufgenommen.
->
-> **Nummerierung:** Gliederung ausschließlich dezimal (`1`, `1.1`, `1.1.1` und so weiter). Keine römischen Ziffern, keine Buchstaben- oder Mischgliederung.
-<!-- END ausformulierungspflicht (autogen) -->
-
----
-
-## Skill: `verl-022-fachbuch-aktualisierung-loseblatt-und-online-datenbank`
-
-_Wenn es um Verlagsrecht: Fachbuch Aktualisierung Loseblatt und Online-Datenbank in Verlagsrecht und Buchpreisbindung geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten._
-
-# Verlagsrecht: Fachbuch Aktualisierung Loseblatt und Online-Datenbank
+# Verlagsrecht: Verlegerrecht historisch und heutige Grenzen
 
 ## Aufgabe
 
-Dieser Skill bearbeitet **Fachbuch Aktualisierung Loseblatt und Online-Datenbank** im Bereich **Verlagsrecht**. Er soll nicht schematisch antworten, sondern zuerst die praktische Lage sortieren: Wer handelt, welche Unterlagen liegen vor, welche Frist läuft, welche Behörde oder Gegenpartei entscheidet und welches Ergebnis gebraucht wird.
+Dieser Skill bearbeitet **Verlegerrecht historisch und heutige Grenzen** im Bereich **Verlagsrecht**. Er soll nicht schematisch antworten, sondern zuerst die praktische Lage sortieren: Wer handelt, welche Unterlagen liegen vor, welche Frist läuft, welche Behörde oder Gegenpartei entscheidet und welches Ergebnis gebraucht wird.
 
 ## Kaltstart in 6 Fragen
 
@@ -575,11 +752,11 @@ Dieser Skill bearbeitet **Fachbuch Aktualisierung Loseblatt und Online-Datenbank
 
 ---
 
-## Skill: `autor-herausgeber-mitwirkende-rechtekette`
+## Skill: `auslandsrechte-rezensionsexemplar`
 
-_Wenn es um Verl-003 · Autor, Herausgeber, Mitwirkende: Rechtekette im Sammelwerk in Verlagsrecht und Buchpreisbindung geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten._
+_Für Verl-038 · Auslandsrechte, Sanktionen und Exportkontrolle: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Schnittstellenkarte mit Zuständigkeits- und Nachweisfragen._
 
-# Verl-003 · Autor, Herausgeber, Mitwirkende: Rechtekette im Sammelwerk
+# Verl-038 · Auslandsrechte, Sanktionen und Exportkontrolle
 
 ## Arbeitsweg
 
@@ -591,305 +768,115 @@ _Wenn es um Verl-003 · Autor, Herausgeber, Mitwirkende: Rechtekette im Sammelwe
 
 ## Zweck dieses Skills
 
-Verlagsprojekte mit mehreren Beteiligten — Herausgeberbände, Anthologien, wissenschaftliche Festschriften, Lehrwerke — erfordern eine sorgfältige **Rechtekette**: Wer hat welche Urheberrechte, wer hat welche Nutzungsrechte eingeräumt, wer hat welchen Vergütungsanspruch? Dieser Skill kartiert alle Beteiligten, ihre Rollen und ihre Rechtsposition systematisch.
+Verlage, die Lizenzen an ausländische Verlage vergeben, müssen **Sanktionsrecht** und Exportkontrolle beachten. Lizenzen an Verlage in sanktionierten Ländern (z.B. Russland, Iran, Nordkorea) können gegen EU-Sanktionsverordnungen oder US-OFAC-Regelungen verstoßen. Kläre die Compliance-Anforderungen.
 
 ## Rechtsgrundlagen
 
-| Norm | Regelungsgehalt | Quelle |
-|------|----------------|--------|
-| UrhG § 2 | Schutzfähige Werke: Sprachwerke, Sammelwerke, Übersetzungen | https://dejure.org/gesetze/UrhG/2.html |
-| UrhG § 4 | Sammelwerke und Datenbankwerke | https://dejure.org/gesetze/UrhG/4.html |
-| UrhG § 8 | Miturheber: gemeinschaftliche Schöpfung | https://dejure.org/gesetze/UrhG/8.html |
-| UrhG § 9 | Werkverbindung: selbständige Werke | https://dejure.org/gesetze/UrhG/9.html |
-| UrhG § 31 | Nutzungsrechtseinräumung | https://dejure.org/gesetze/UrhG/31.html |
-| UrhG § 32 | Angemessene Vergütung | https://dejure.org/gesetze/UrhG/32.html |
-| UrhG § 32d | Auskunftsanspruch | https://dejure.org/gesetze/UrhG/32d.html |
-| VerlG § 1 | Verlagsvertrag mit dem Urheber | https://www.gesetze-im-internet.de/verlg/__1.html |
-| VerlG §§ 28 ff. | Honorar und Abrechnung | https://www.gesetze-im-internet.de/verlg/ |
-| DSM-RL Art. 19 | Transparenzpflicht gegenüber Urhebern | https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32019L0790 |
+| Norm | Inhalt | Quelle |
+|------|--------|-------|
+| EU-Sanktionsverordnungen | z.B. VO (EU) Nr. 833/2014 (Russland), Nr. 267/2012 (Iran) | https://eur-lex.europa.eu |
+| AWG § 4 | Außenwirtschaftsgesetz: Verbotene Geschäfte | https://www.gesetze-im-internet.de/awg/__4.html |
+| AWV | Außenwirtschaftsverordnung: Genehmigungspflichten | https://www.gesetze-im-internet.de/awv/ |
+| US OFAC Regulations | US-Sanktionslisten (SDN List) | https://ofac.treasury.gov |
+| GWG §§ 10 ff. | Geldwäschegesetz: Sorgfaltspflichten | https://www.gesetze-im-internet.de/gwg_2017/ |
+| StGB §§ 34, 18 | Außenwirtschaftsstrafrecht | https://dejure.org/gesetze/AWG/18.html |
 
-## Beteiligte Parteien und ihre Rollen
+## Sanktionsrecht und Buchrechte: Grundlagen
 
-### 1. Alleinautor
-- Einziger Schöpfer des Werks; alle Urheberrechte liegen bei ihm.
-- Kann alle Nutzungsrechte im Verlagsvertrag vollständig einräumen.
+### Was sind Sanktionen?
+- Sanktionen sind staatliche oder internationale Maßnahmen, die wirtschaftliche Transaktionen mit bestimmten Ländern, Unternehmen oder Personen verbieten.
+- **EU-Sanktionen**: Verordnungen des Rates der EU; unmittelbar anwendbar in allen Mitgliedstaaten.
+- **US-OFAC**: Office of Foreign Assets Control; US-Sanktionen haben extraterritoriale Wirkung (betreffen auch deutsche Verlage bei US-Dollar-Zahlungen oder US-Verträgen).
 
-### 2. Miturheber (§ 8 UrhG)
-- Mehrere haben gemeinsam ein Werk geschaffen; Beiträge sind nicht trennbar.
-- Nutzungsrechte können nur gemeinschaftlich eingeräumt werden; einzelne Miturheber können nicht allein handeln.
-- Verfügungen über Anteile am Gesamtwerk erfordern Zustimmung aller.
+### Sind Buchlizenzen Sanktionsgegenstand?
+- Grundsatz: Kulturelle Güter (Bücher, Lizenzen) sind häufig **ausgenommen** von Sanktionen.
+- Ausnahmen:
+ - Technologietransfer (Dual-Use-Güter: Bücher mit militärischen oder nuklearen Inhalten).
+ - Lizenzen an sanktionierte Personen (SDN-Liste, EU-Sanktionsliste).
+ - Zahlungen in sanktionierten Währungen oder über sanktionierten Finanzinstitute.
 
-### 3. Werkverbindung (§ 9 UrhG)
-- Mehrere Autoren verbinden selbständige Werke zu einem gemeinsamen Werk (z.B. Text + Illustrationen).
-- Jeder behält sein Urheberrecht; gemeinschaftliche Rechteausübung nach Vereinbarung.
+## EU-Sanktionen: Russland (Beispiel VO 833/2014)
 
-### 4. Herausgeber eines Sammelwerks (§ 4 UrhG)
-- Schöpferische Eigenleistung bei Auswahl und Anordnung der Beiträge → eigenes Urheberrecht an der Sammlung.
-- Kein Urheberrecht an den Einzelbeiträgen der Autoren.
-- Verlagsvertrag mit dem Herausgeber regelt Rechte an der Sammlung; separate Verträge mit Beitragsautoren nötig.
+### Verbotene Transaktionen
+- Zahlungen an von der EU gelistete russische Personen und Organisationen.
+- Technologietransfer (technische Spezifikationsbücher, Dual-Use-Materialien).
 
-### 5. Beitragsautoren (Kapitelautoren, Essayisten)
-- Jeder hält sein Urheberrecht am eigenen Beitrag.
-- Nutzungsrechtseinräumung an Herausgeber oder Verlag durch separate Autorenverträge oder Erklärungen.
-- Vergütungsanspruch nach § 32 UrhG; gemeinsame Vergütungsregeln anwendbar.
+### Buchlizenzen in der Praxis
+- Kulturelle Ausnahmen: Bücher als solche sind i.d.R. nicht verbotene Güter.
+- **Zahlungsweg**: Auch wenn Buch erlaubt, kann Zahlungstransfer über russische Banken blockiert sein.
+- **Listung des Lizenznehmers**: Wenn russischer Verlag auf SDN- oder EU-Sanktionsliste → Vertrag verboten.
 
-### 6. Übersetzer
-- Übersetzung ist ein selbständiges Schutzwerk (§ 3 UrhG).
-- Übersetzer benötigt Lizenz des Originalautors/Verlags; Verlagsvertrag für Übersetzung separat (VerlG § 35).
-- Eigener Vergütungsanspruch; ggf. eigener Auskunftsanspruch nach § 32d UrhG.
+### Sorgfaltspflichten (GWG § 10)
+- Verlag muss Geschäftspartner auf Sanktionslisten prüfen (Know-Your-Customer, KYC).
+- Screening-Tools: EU-Sanktionsliste (EUR-Lex), US-SDN-Liste (OFAC), nationale Sanktionslisten.
+- Dokumentation: KYC-Prüfung dokumentieren; Ergebnis aufbewahren.
 
-### 7. Illustratoren, Fotografen, Kartografen
-- Bildwerke (§ 2 Abs. 1 Nr. 5 UrhG) sind eigenständig geschützt.
-- Nutzungsrechtseinräumung durch separate Bildrechte-Verträge oder Werk-/Dienstverträge.
-- Bei Auftragsarbeiten: Kein automatischer Rechteübergang; schriftliche Einräumung erforderlich.
+## US-OFAC: Extraterritoriale Wirkung
 
-## Rechteketten-Analyse
+- Deutschen Verlage, die USD-Zahlungen empfangen oder US-Korrespondenzbanken nutzen, können US-Sanktionen unterfallen.
+- **OFAC-SDN-Liste**: Specially Designated Nationals — jede Transaktion mit gelisteten Personen ist für US-Personen und oft auch Nicht-US-Personen verboten.
+- Deutsche Verlage: Direkte Anwendbarkeit zweifelhaft; aber USD-Clearing durch US-Banken kann OFAC-Compliance erfordern.
+- **Secondary Sanctions**: US kann Sanktionen gegen Nicht-US-Unternehmen verhängen, die mit sanktionierten Ländern Geschäfte machen.
 
-### Schritt 1: Identifikation aller Werkteile
-Liste alle Komponenten des Gesamtwerks:
-- Haupttext (Autor/Autoren)
-- Kapitel (ggf. verschiedene Autoren)
-- Vorwort, Einleitung, Nachwort (Herausgeber oder Dritte)
-- Abbildungen, Fotos, Grafiken
-- Tabellen, Karten, Diagramme
-- Übersetzungen
-- Register, Index (Sonderfall: Leistungsschutz oder Datenbankrecht)
+## Due-Diligence-Checkliste für Auslandslizenzen
 
-### Schritt 2: Prüfung jeder Nutzungsrechtseinräumung
-Für jede Komponente prüfen:
-- Liegt eine schriftliche Nutzungsrechtseinräumung vor?
-- Welche Nutzungsarten sind erfasst (§ 31 Abs. 1 UrhG)?
-- Exklusiv oder nicht-exklusiv?
-- Zeitlich und räumlich begrenzt?
-- Vergütung vereinbart und angemessen (§ 32 UrhG)?
+### Schritt 1: Ländercheck
+- Ist das Zielland von EU- oder US-Sanktionen betroffen?
+- Ist das Zielland auf FATF-Grauer oder -Schwarzer Liste (Geldwäscherisiko)?
 
-### Schritt 3: Lücken und Risiken
-- Fehlende Verträge mit Beitragsautoren → Verlag hat kein Recht zur Veröffentlichung
-- Unklare Nutzungsarten → Zweckübertragungsregel (§ 31 Abs. 5 UrhG) schließt Lücken restriktiv
-- Kein Auskunftsanspruch geregelt → Beitragsautoren können § 32d UrhG geltend machen
-- Übersetzungsrechte nicht gesichert → Fremdsprachige Ausgabe rechtswidrig
+### Schritt 2: Lizenznehmers-Screening
+- Lizenznehmers-Name und Eigentümerstruktur prüfen.
+- Screening gegen EU-Sanktionsliste, US-SDN-Liste, Interpol-Liste.
+- PEP-Screening (Politically Exposed Persons).
 
-## Vergütungsansprüche und Auskunft
+### Schritt 3: Vertragsdokumentation
+- Zahlungswährung und Zahlungsweg: EUR über SEPA sicher; USD über US-Korrespondenzbank prüfen.
+- Vertragsklausel: „Lizenzgeber und Lizenznehmer bestätigen, keiner Sanktionsliste zu unterfallen. Bei Aufnahme auf Sanktionsliste: sofortige Vertragsauflösung."
+- Sanktionsklausel: Vertrag erlischt automatisch bei Listung einer Partei.
 
-### § 32 UrhG — Angemessene Vergütung
-- Jeder Urheber hat Anspruch auf angemessene Vergütung.
-- Unangemessene Vergütung → Anpassungsanspruch; ggf. Klage.
-- Gemeinsame Vergütungsregeln (§ 36 UrhG) zwischen Verbänden schaffen Vermutungswirkung.
+### Schritt 4: Monitoring
+- Laufende Überwachung: Sind Vertragsparteien nach Vertragsschluss gelistet worden?
+- Jährliches Re-Screening.
 
-### § 32a UrhG — Nachvergütung (Bestseller-Paragraf)
-- Stellt sich heraus, dass vereinbarte Vergütung in auffälligem Missverhältnis zu tatsächlichen Erträgen steht → Anspruch auf weitere Beteiligung.
-- Gilt für alle Miturheber und Beitragsautoren anteilig.
+## Dual-Use-Bücher
 
-### § 32d UrhG — Auskunftsanspruch
-- Jeder Urheber kann jährlich Auskunft über Art und Umfang der Werknutzung sowie erzielte Vergütungen verlangen.
-- DSM-RL Art. 19 gibt EU-rechtliche Grundlage für verstärkte Transparenzpflichten.
+- Dual-Use: Waren, Software, Technologien, die zivil und militärisch genutzt werden können.
+- Einschlägig für Verlage: Technische Handbücher, Chemie, Biotechnologie, Kryptographie-Bücher.
+- EU-Dual-Use-VO (VO (EU) 2021/821): Ausführgenehmigungspflicht für gelistete Güter.
+- Bücher als solche: Nur in Extremfällen Dual-Use; aber Know-how-Transfer kann relevant sein.
 
 ## Typische Fallen
 
-- **Fehlende Verträge mit Beitragsautoren**: Häufig bei Tagungsbänden oder Festschriften; ohne schriftliche Nutzungsrechtseinräumung kein Veröffentlichungsrecht.
-- **Herausgeber-Rolle überschätzt**: Herausgeber hat kein Recht, im Namen der Beitragsautoren Lizenzen zu vergeben, sofern keine Vollmacht vorliegt.
-- **Übersetzungsrechte nicht separat gesichert**: Originalverlag hat oft keine Lizenz für alle Sprachversionen.
-- **Bildrechte vergessen**: Fotos in der Originalveröffentlichung decken nicht automatisch die Nutzung in digitalen Ausgaben ab.
-- **Miturheber-Blockade**: Bei § 8 UrhG-Situationen kann ein Miturheber die Verwertung blockieren.
+- **Sanktions-Listing nach Vertragsschluss**: Russischer Verlag wird kurz nach LOI auf Sanktionsliste gesetzt → bestehender Vertrag muss beendet werden; aufgelaufene Advance-Zahlungen blockiert.
+- **USD-Zahlungsweg und US-Banken**: Verlag akzeptiert USD-Advance; Zahlung über US-Korrespondenzbank → OFAC-Compliance-Problem.
+- **KYC-Dokumentation fehlt**: Behördenprüfung zeigt, dass Verlag keine Sanktionsscreening-Dokumentation geführt hat → GWG-Bußgeld.
+- **Dual-Use-Buch nicht erkannt**: Technisches Handbuch mit Anwendungen für Waffensysteme → Exportgenehmigung erforderlich.
 
-## Checkliste Rechtekette
+## Checkliste Auslandslizenzen Sanktions-Compliance
 
-- [ ] Liste aller Werkteile mit Urhebern erstellt
-- [ ] Für jeden Werkteil: schriftlicher Nutzungsrechtsvertrag vorhanden
-- [ ] Nutzungsarten vollständig und klar benannt
-- [ ] Vergütung angemessen und nachvollziehbar (§ 32 UrhG)
-- [ ] Auskunftsklausel (§ 32d UrhG / DSM-RL Art. 19) vertraglich geregelt
-- [ ] Drittmaterial (Bilder, Tabellen) mit eigenem Rechtenachweis
+- [ ] Zielland auf Sanktionsliste geprüft (EU, US-OFAC)
+- [ ] Lizenznehmers-Screening: EU-Sanktionsliste, SDN-Liste, PEP
+- [ ] Zahlungswährung und -weg geprüft (kein USD über US-Banken bei sanktioniertem Land)
+- [ ] Sanktionsklausel im Lizenzvertrag
+- [ ] KYC-Dokumentation aufbewahrt
+- [ ] Dual-Use-Relevanz des Werkes geprüft
+- [ ] Jahres-Re-Screening geplant
 
 ## Quellenreferenzen
 
-- UrhG §§ 4, 8, 9: https://dejure.org/gesetze/UrhG/8.html
-- UrhG § 32d: https://dejure.org/gesetze/UrhG/32d.html
-- DSM-Richtlinie 2019/790 Art. 19: https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32019L0790
-- BGH, Urt. v. 20.01.1994 – I ZR 322/91 (Miturheber Sammelwerk): https://www.bgh.de
-- VerlG §§ 28 ff.: https://www.gesetze-im-internet.de/verlg/
+- EU-Sanktionsliste: https://eur-lex.europa.eu/content/sanctions/sanctions.html
+- US-OFAC SDN-Liste: https://ofac.treasury.gov/sanctions-list-search
+- AWG: https://www.gesetze-im-internet.de/awg/
+- EU Dual-Use-VO 2021/821: https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32021R0821
+- GWG: https://www.gesetze-im-internet.de/gwg_2017/
 
 ## Output-Formate
 
-- **Rechtekettenmatrix**: Alle Werkteile × Nutzungsarten × Rechtsstatus
-- **Lückenliste**: Fehlende Verträge, offene Nutzungsarten
-- **Vergütungsübersicht**: Alle Beitragsautoren mit Vergütungsansprüchen
-- **Muster-Beitragsautorenvertrag**: Standardisiertes Kurzformular für Sammelwerke
-
----
-
-## Skill: `verlagsvertrag-redaktionsvertrag`
-
-_Wenn es um Verl-002 · Verlagsvertrag: Hauptpflichten, Rechteübertragung, Rückruf in Verlagsrecht und Buchpreisbindung geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten._
-
-# Verl-002 · Verlagsvertrag: Hauptpflichten, Rechteübertragung, Rückruf
-
-## Arbeitsbereich
-
-Verlagsrecht: Hauptpflichten aus dem Verlagsvertrag, Rechteübertragung nach UrhG §§ 31 ff. und VerlG sowie Rückrufrechte nach VerlG §§ 7–8, UrhG §§ 41–42 systematisch prüfen. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
-## Arbeitsweg
-
-- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
-- Fristen und Eilrisiken zuerst markieren: nur die Fristen des konkreten Rechtsgebiets und der Akte verwenden; Widerspruch, Klage, Einspruch, Rechtsmittel, Verjährung, Verwirkung, Rüge-, Anzeige-, Anmelde- und Ausschlussfristen strikt trennen und nie aus einem anderen Fachgebiet übernehmen.
-- Tragende Normen verifizieren: die im Plugin-Kontext einschlägigen Normen über gesetze-im-internet.de, dejure.org, eur-lex.europa.eu und die amtlichen Bundes-/Landesportale live prüfen — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
-- Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
-- Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
-
-## Zweck dieses Skills
-
-Analysiert den Verlagsvertrag nach seinen **synallagmatischen Hauptpflichten**: Manuskriptablieferung und Erscheinungspflicht (VerlG §§ 1–4), Rechteübertragung (UrhG §§ 31–44) sowie die wechselseitigen **Rückrufrechte** beider Seiten (VerlG §§ 7–8, UrhG §§ 41–42). Er bereitet den Sachverhalt für Vertragsreview, Verhandlung oder Streitbeilegung auf.
-
-## Rechtsgrundlagen
-
-| Norm | Regelungsgehalt | Quelle |
-|------|----------------|--------|
-| VerlG § 1 | Verlagsvertrag: gegenseitige Pflichten Verlag / Autor | https://www.gesetze-im-internet.de/verlg/__1.html |
-| VerlG § 2 | Manuskriptablieferung: Form, Frist, Vollständigkeit | https://www.gesetze-im-internet.de/verlg/__2.html |
-| VerlG § 5 | Erscheinungspflicht des Verlags: angemessene Frist | https://www.gesetze-im-internet.de/verlg/__5.html |
-| VerlG § 7 | Rücktrittrecht des Autors bei Nichterscheinen | https://www.gesetze-im-internet.de/verlg/__7.html |
-| VerlG § 8 | Gegenseitiger Rücktritt bei Verschulden | https://www.gesetze-im-internet.de/verlg/__8.html |
-| UrhG § 31 | Einräumung von Nutzungsrechten | https://dejure.org/gesetze/UrhG/31.html |
-| UrhG § 31a | Einräumung für unbekannte Nutzungsarten | https://dejure.org/gesetze/UrhG/31a.html |
-| UrhG § 41 | Rückruf wegen Nichtausübung | https://dejure.org/gesetze/UrhG/41.html |
-| UrhG § 42 | Rückruf wegen gewandelter Überzeugung | https://dejure.org/gesetze/UrhG/42.html |
-
-## Prüfprogramm Hauptpflichten
-
-### A. Autorenpflichten (§ 2 VerlG)
-
-1. **Ablieferungspflicht**: Manuskript in vereinbarter Form (Dateiformat, Stil, Umfang), zum vereinbarten Termin.
-2. **Vollständigkeit**: Alle Teile (Text, Register, Abbildungsvorlagen, Metadaten) müssen übergeben sein.
-3. **Mängelfreiheit**: Keine Rechtsverletzungen Dritter (Plagiat, Persönlichkeitsrechte, Drittrechte an Fotos).
-4. **Exklusivität**: Sofern vereinbart, kein Parallelvertrag mit anderem Verlag für dasselbe Werk.
-5. **Mitwirkungspflichten**: Korrekturen, Druckfahnen, Registererstellung auf Aufforderung des Verlags.
-
-### B. Verlagspflichten
-
-1. **Erscheinungspflicht** (§ 5 VerlG): Erscheinen innerhalb angemessener, üblicherweise vertraglich bestimmter Frist nach Ablieferung.
-2. **Verbreitungspflicht**: Aktiver Vertrieb, Aufnahme in den Buchhandel, Pflege der Lieferfähigkeit.
-3. **Honorarpflicht**: Zahlung der vereinbarten Vergütung, Abrechnung (§§ 28 ff. VerlG, § 32 UrhG).
-4. **Belegexemplare**: Übergabe von Freiexemplaren gemäß Vertrag.
-5. **Pflege des Titels**: Keine willkürliche Einstellung der Lieferfähigkeit.
-
-### C. Rechteübertragung
-
-- **Umfang**: § 31 Abs. 5 UrhG — Zweckübertragungsregel: Im Zweifel nur die für den Vertragszweck erforderlichen Rechte.
-- **Nutzungsartenspezifität**: Jede Nutzungsart (§ 15 UrhG: Vervielfältigung, Verbreitung, öffentliche Zugänglichmachung) ist einzeln zu benennen.
-- **Unbekannte Nutzungsarten** (§ 31a UrhG): Widerrufsrecht des Autors binnen 3 Monaten nach Mitteilung der neuen Nutzungsart; Vergütungspflicht.
-- **Ausschließliche vs. einfache Lizenz**: Ausschließliche Lizenz schließt Vergabe weiterer Lizenzen durch den Urheber aus.
-
-## Rückrufrechte im Detail
-
-### 1. VerlG § 7 — Rücktritt des Autors wegen Nichterscheinen
-- Voraussetzung: Verlag erscheint das Werk nicht innerhalb angemessener Frist oder einer gesetzten Nachfrist.
-- Rechtsfolge: Rücktritt vom Vertrag; Rechte fallen an Autor zurück; Vorschuss-Rückzahlung streitig (§ 346 BGB).
-- Fristsetzen: Schriftlich, mit Androhung des Rücktritts, angemessene Frist (i.d.R. 3–6 Monate je nach Werktyp).
-
-### 2. VerlG § 8 — Gegenseitiger Rücktritt bei Verschulden
-- Autor liefert nicht → Verlag kann nach erfolgloser Fristsetzung zurücktreten, Schadensersatz verlangen.
-- Verlag verletzt Erscheinungspflicht schuldhaft → Autor kann Rücktritt + Schadensersatz geltend machen.
-
-### 3. UrhG § 41 — Rückruf wegen Nichtausübung
-- Voraussetzung: Ausschließliches Nutzungsrecht; Verlag übt es nicht aus; Interessen des Urhebers erheblich beeinträchtigt.
-- Sperrfrist: 2 Jahre nach Einräumung des Rechts oder – bei Pflichtwerken – 1 Jahr nach Ablieferung.
-- Verfahren: Schriftliche Ankündigung → Ausübungsfrist 3 Monate → dann Rückruf.
-- Rechtsfolge: Nutzungsrecht erlischt, Vergütungsanspruch bleibt (§ 41 Abs. 4 UrhG).
-
-### 4. UrhG § 42 — Rückruf wegen gewandelter Überzeugung
-- Voraussetzung: Dem Urheber ist das Festhalten am Werk aufgrund gewandelter Überzeugung nicht mehr zumutbar.
-- Entschädigung: Angemessene Entschädigung des Verlags für Aufwendungen und entgangenen Gewinn.
-- Rechtsfolge: Nutzungsrecht erlischt; bei gleicher Veröffentlichung später → Erstrecht des früheren Verlags.
-- Fallgruppen: Politische Überzeugungsänderung, wissenschaftlicher Erkenntnisstand, Persönlichkeitsverletzung.
-
-## Typische Fallen
-
-- **Verschweigen von Fristsetzungsdefiziten**: § 7 VerlG-Rücktritt setzt ordnungsgemäße Nachfrist voraus; formfrei, aber klar und schriftlich ist Best Practice.
-- **§ 41 UrhG-Sperrfrist wird vergessen**: Kein Rückruf in den ersten 2 Jahren möglich; Mandant muss warten.
-- **Zweckübertragungsregel (§ 31 Abs. 5 UrhG) verkannt**: „Alle Rechte"-Klauseln übertragen nicht automatisch unbekannte Nutzungsarten.
-- **Entschädigungspflicht bei § 42 UrhG unterschätzt**: Kann erheblich sein, wenn Verlag bereits in Produktion gegangen ist.
-- **Gegenseitige Abhängigkeiten**: Autorenverzug und Verlagsverzug können sich gegenseitig aufheben; Beweislast sorgfältig prüfen.
-
-## Checkliste für Vertragscheck
-
-- [ ] Ablieferungsklausel enthält Format, Umfang, Frist
-- [ ] Erscheinungsklausel enthält Deadline oder angemessene Frist
-- [ ] Nutzungsarten einzeln aufgeführt (§ 31 Abs. 1 UrhG)
-- [ ] Unbekannte Nutzungsarten-Klausel vorhanden (§ 31a UrhG)
-- [ ] Rückrufbedingungen geregelt (Sperrfrist, Entschädigung)
-- [ ] Honorar und Abrechnung vollständig geregelt (§§ 28 ff. VerlG)
-- [ ] Belegexemplare-Klausel vorhanden
-
-## Quellenreferenzen
-
-- VerlG: https://www.gesetze-im-internet.de/verlg/
-- UrhG §§ 31, 41, 42: https://dejure.org/gesetze/UrhG/41.html
-- BGH, Urteil vom 26.03.2009 - I ZR 153/06 (Reifen Progressiv): Ein vom ausschließlichen Nutzungsrecht abgeleitetes einfaches Nutzungsrecht erlischt nicht allein deshalb, weil das ausschließliche Recht nach Paragraph 41 UrhG wirksam zurückgerufen wird. Im Vertrag deshalb Rückruf, Beendigung der Hauptlizenz und Fortbestand von Unterlizenzen getrennt regeln.
-- OLG Frankfurt, Urt. v. 04.11.2014 – 11 U 75/13 (Verlagsvertrag Erscheinungspflicht): https://openjur.de
-
-## Output-Formate
-
-- **Pflichtenprofil**: Tabelle Autor vs. Verlag mit Erfüllungsstatus
-- **Rückruf-Ampel**: Voraussetzungen von §§ 41, 42 UrhG und VerlG §§ 7–8 geprüft
-- **Fristenplan**: Ankündigungs- und Ausübungsfristen
-- **Entwurf Rückrufschreiben**: Ankündigung nach § 41 UrhG oder Rücktritt nach § 7 VerlG
-- **Rechteübertragungsmatrix**: Nutzungsarten mit Übertragungsstatus
-
-<!-- BEGIN ausformulierungspflicht (autogen) -->
-> **Ausformulierungspflicht und Formatstandard.** Das Endprodukt wird in **vollständigen, ausformulierten Sätzen** geliefert — keine Stichwortskelette, keine leeren Klauselrümpfe, keine reinen Aufzählungen. Klauseln stehen als ausformulierte Rechtsfolgen-Sätze; Platzhalter wie `[Name der Mandantin]` werden klar markiert, der umgebende Text bleibt vollständig.
->
-> **Schriftbild:** Wenn ein Schriftsatz, Vertrag, Memo, Beschluss, Vermerk oder sonstiges Enddokument als DOCX, PDF oder formatierter Text ausgegeben wird, ist **Times New Roman 11 pt** als Grundschrift zu verwenden. Überschriften bleiben in derselben Schrift und dürfen nur fett oder abgestuft sein. Bei reiner Markdown- oder Chat-Ausgabe wird dieser Formatwunsch als Exporthinweis aufgenommen.
->
-> **Nummerierung:** Gliederung ausschließlich dezimal (`1`, `1.1`, `1.1.1` und so weiter). Keine römischen Ziffern, keine Buchstaben- oder Mischgliederung.
-<!-- END ausformulierungspflicht (autogen) -->
-
----
-
-## Skill: `verl-004-manuskriptablieferung-abnahme-lektorat-und-verzug`
-
-_Wenn es um Verlagsrecht: Manuskriptablieferung Abnahme Lektorat und Verzug in Verlagsrecht und Buchpreisbindung geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten._
-
-# Verlagsrecht: Manuskriptablieferung Abnahme Lektorat und Verzug
-
-## Aufgabe
-
-Dieser Skill bearbeitet **Manuskriptablieferung Abnahme Lektorat und Verzug** im Bereich **Verlagsrecht**. Er soll nicht schematisch antworten, sondern zuerst die praktische Lage sortieren: Wer handelt, welche Unterlagen liegen vor, welche Frist läuft, welche Behörde oder Gegenpartei entscheidet und welches Ergebnis gebraucht wird.
-
-## Kaltstart in 6 Fragen
-
-1. Welche Rolle hat die Nutzerin: Mandant, Unternehmen, Behörde, Kanzlei, Gericht, Verlag, Betreiber, Investor oder Betroffene?
-2. Geht es um Prüfung, Entwurf, Verteidigung, Anmeldung, Register, Frist, Verhandlung, Compliance, Streit oder Dokumentation?
-3. Welche Dokumente liegen vor und welche fehlen: Vertrag, Bescheid, Registerauszug, Screenshot, E-Mail, Rechnung, Gutachten, Normtext, Protokoll?
-4. Welche Rechtsordnung, Branche, Epoche, Sprache oder technische Umgebung ist betroffen?
-5. Welche Entscheidung muss heute fallen und welche Punkte dürfen erst nach Live-Check beantwortet werden?
-6. Soll das Ergebnis als Ampel, Memo, Klausel, Antrag, Fristenplan, Behördenschreiben, Red-Team oder Dashboard kommen?
-
-## Prüfprogramm
-
-- Sachverhalt in Tatsachen, Annahmen, Wertungen und offene Beweisfragen zerlegen.
-- VerlG, BuchPrG, UrhG, UWG und Vertrag trennen
-- Preisbindung immer nach Produkt, Ausgabe, Händler und Aktion prüfen
-- Rechtekette und Drittmaterial zuerst klären
-- Keine Verlags-/Literaturfundstellen erfinden
-- Zuständigkeit, Form, Frist, Beweislast, Vollzug und Rechtsbehelf immer getrennt ausgeben.
-- Bei historischen, internationalen oder technischen Begriffen erst übersetzen, dann rechtlich einordnen.
-- Keine Scheingenauigkeit: Wenn Quelle, Normstand oder Rechtsprechung fehlen, einen Live-Check als nächsten Schritt formulieren.
-
-## Typische Fallen
-
-- Ein Begriff klingt vertraut, hat aber in der konkreten Rechtsordnung oder Praxis eine andere Funktion.
-- Zuständigkeit, Form oder Zustellung wird übersehen, obwohl der materielle Punkt gut aussieht.
-- Eine Behauptung wird aus Modellwissen mit einer Fundstelle versehen. Das ist verboten; erst prüfen, dann zitieren.
-- Der Output ist juristisch richtig, hilft aber der Nutzerin operativ nicht. Deshalb immer nächste Handlung und Dokumentationsspur liefern.
-
-## Output
-
-- Vertragsredline
-- Preisbindungscheck
-- Rechtekettenmatrix
-- Autorenmail
-- Abmahnantwort
-- Verlagsmemo
+- **Sanktions-Screening-Protokoll**: Ergebnis je Vertragspartner dokumentiert
+- **Sanktionsklausel-Muster** für Lizenzverträge
+- **Länder-Risikomatrix**: Sanktions- und Exportkontrollrisiko je Zielmarkt
+- **KYC-Dokumentationsvorlage**
+- **Dual-Use-Prüfprotokoll** für technische Werke
 
 ---
 

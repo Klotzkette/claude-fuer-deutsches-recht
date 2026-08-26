@@ -1,6 +1,6 @@
 ---
 name: betreuung-im-strafverfahren
-description: "Wenn es um Betreuung im Strafverfahren in Betreuungsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. Auswahlstichwort: Betreuung Im Strafverfahren; Arbeitsfeld: Betreuungsrecht."
+description: "Für Betreuung im Strafverfahren: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Schnittstellenkarte mit Zuständigkeits- und Nachweisfragen. Fachgebiet: Betreuungsrecht. Route: betreuung-im-strafverfahren."
 ---
 
 # Betreuung im Strafverfahren

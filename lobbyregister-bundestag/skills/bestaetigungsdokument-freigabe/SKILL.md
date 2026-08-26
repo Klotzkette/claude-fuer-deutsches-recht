@@ -1,6 +1,6 @@
 ---
 name: bestaetigungsdokument-freigabe
-description: "Wenn es um Bestaetigungsdokument und Freigabe in Lobbyregister Bundestag geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
+description: "Für Bestätigungsdokument und Freigabe: ordnet Akte, Belege und Lücken; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Bestaetigungsdokument und Freigabe

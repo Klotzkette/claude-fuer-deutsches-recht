@@ -1,6 +1,6 @@
 ---
 name: eu-mittel-dashboard-bauen
-description: "Wenn es um Eu Mittel Dashboard Bauen in Haushaltsrecht BHO Bund und Länder geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Eu Mittel Dashboard Bauen: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Schnittstellenkarte mit Zuständigkeits- und Nachweisfragen."
 ---
 
 # Eu Mittel Dashboard Bauen

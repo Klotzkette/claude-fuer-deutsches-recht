@@ -1,6 +1,6 @@
 ---
 name: strafrecht-spezial-mietwucher-5-wistg
-description: "Wenn es um Strafrecht Spezial Mietwucher 5 Wistg in Fachanwalt Strafrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Strafrecht Spezial Mietwucher 5 Wistg: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Mietpreisueberhoehung § 5 WiStrG 1954: WICHTIG dies ist eine Ordnungswidrigkeit, keine Straftat

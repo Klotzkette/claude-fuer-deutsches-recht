@@ -1,6 +1,6 @@
 ---
 name: bribery-red-flags
-description: "Wenn es um Bestechungs-Red-Flags und Korruptionsermittlung in Internal Investigations Praxis geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
+description: "Für Bestechungs-Red-Flags und Korruptionsermittlung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Bestechungs-Red-Flags und Korruptionsermittlung

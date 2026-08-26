@@ -1,6 +1,6 @@
 ---
 name: dividendenaenderung
-description: "Wenn es um Dividendenänderung – Insiderrecht und Ad-hoc-Pflicht in Insiderrecht Compliance geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
+description: "Für Dividendenänderung – Insiderrecht und Ad-hoc-Pflicht: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Dividendenänderung – Insiderrecht und Ad-hoc-Pflicht

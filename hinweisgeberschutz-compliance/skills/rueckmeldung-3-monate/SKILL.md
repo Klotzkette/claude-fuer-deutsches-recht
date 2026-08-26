@@ -1,6 +1,6 @@
 ---
 name: rueckmeldung-3-monate
-description: "Wenn es um Rueckmeldung 3 Monate in Hinweisgeberschutz, Meldestellen und NDA-Konflikte geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Rückmeldung 3 Monate: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Rueckmeldung 3 Monate

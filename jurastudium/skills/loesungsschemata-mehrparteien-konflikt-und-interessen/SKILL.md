@@ -1,6 +1,6 @@
 ---
 name: loesungsschemata-mehrparteien-konflikt-und-interessen
-description: "Wenn es um Loesungsschemata: Mehrparteienkonflikt und Interessenmatrix in Jurastudium geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Lösungsschemata: Mehrparteienkonflikt und Interessenmatrix: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Loesungsschemata: Mehrparteienkonflikt und Interessenmatrix

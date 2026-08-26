@@ -1,6 +1,6 @@
 ---
 name: unterlagenmappe-kdv-verwaltungsakt
-description: "Wenn es um Unterlagenmappe KDV in Kriegsdienstverweigerung und Wehrdienst geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
+description: "Für Unterlagenmappe KDV: ordnet Akte, Belege und Lücken; Ergebnis: Dokumentenmatrix mit Nachforderungsliste."
 ---
 
 # Unterlagenmappe KDV

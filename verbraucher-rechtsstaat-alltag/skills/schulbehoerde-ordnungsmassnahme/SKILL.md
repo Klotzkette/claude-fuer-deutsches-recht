@@ -1,6 +1,6 @@
 ---
 name: schulbehoerde-ordnungsmassnahme
-description: "Wenn es um Schulbehörde Ordnungsmaßnahme in Verbraucher im Rechtsstaat Alltag geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Schulbehörde Ordnungsmaßnahme: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Schulbehörde Ordnungsmaßnahme

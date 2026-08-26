@@ -1,6 +1,6 @@
 ---
 name: konkurs-glaeubigerquoten-rangfolge
-description: "Wenn es um Rom 120 Konkurs Und Gläubigerquoten Rangfolge in Römisches Recht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. Auswahlstichwort: Konkurs Glaeubigerquoten Rangfolge; Arbeitsfeld: Römisches Recht."
+description: "Für Rom 120 Konkurs und Gläubigerquoten Rangfolge: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Schnittstellenkarte mit Zuständigkeits- und Nachweisfragen. Fachgebiet: Römisches Recht. Route: konkurs-glaeubigerquoten-rangfolge."
 ---
 
 # Rom 120 Konkurs Und Gläubigerquoten Rangfolge

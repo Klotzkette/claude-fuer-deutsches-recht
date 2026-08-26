@@ -1,6 +1,6 @@
 ---
 name: parteigericht-redteam
-description: "Wenn es um Parteigericht Red-Team in Parteienrecht und Parteiorganisation geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Parteigericht Red-Team: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Parteigericht Red-Team

@@ -1,6 +1,6 @@
 ---
 name: dsv-sanktion-unternehmensgruppe-und-federfuehrende-aufsicht
-description: "Wenn es um Dsv Sanktion Unternehmensgruppe Und Federfuehrende Aufsicht in Datenschutzrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Dsv Sanktion Unternehmensgruppe und Federführende Aufsicht: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Datenschutzrecht-Brückenskill: Unternehmensgruppe und federführende Aufsicht: Hauptniederlassung, One-Stop-Shop, gemeinsame Verantwortlichkeit und Konzernadressat prüfen

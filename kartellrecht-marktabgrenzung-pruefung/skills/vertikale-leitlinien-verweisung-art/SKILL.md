@@ -1,6 +1,6 @@
 ---
 name: vertikale-leitlinien-verweisung-art
-description: "Wenn es um Vertikale Leitlinien EU selektiver Vertrieb Plattformverbote in Kartellrecht — Marktabgrenzungsprüfung geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen."
+description: "Für Vertikale Leitlinien EU selektiver Vertrieb Plattformverbote: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Vertikale Leitlinien EU selektiver Vertrieb Plattformverbote

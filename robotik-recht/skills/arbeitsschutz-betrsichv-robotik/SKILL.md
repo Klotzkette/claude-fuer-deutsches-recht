@@ -1,6 +1,6 @@
 ---
 name: arbeitsschutz-betrsichv-robotik
-description: "Wenn es um Arbeitsschutz und BetrSichV in der Robotik in robotik-recht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Arbeitsschutz und BetrSichV in der Robotik: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt. Fachgebiet: robotik-recht. Route: arbeitsschutz-betrsichv-robotik."
 ---
 
 # Arbeitsschutz und BetrSichV in der Robotik

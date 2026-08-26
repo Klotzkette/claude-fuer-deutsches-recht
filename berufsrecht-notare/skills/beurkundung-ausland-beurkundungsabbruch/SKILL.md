@@ -1,6 +1,6 @@
 ---
 name: beurkundung-ausland-beurkundungsabbruch
-description: "Wenn es um Beurkundung Ausland Beurkundungsabbruch in Berufsrecht Notare geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Verhandlungs- oder Eskalationslinie mit Optionen."
+description: "Für Beurkundung Ausland Beurkundungsabbruch: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Schnittstellenkarte mit Zuständigkeits- und Nachweisfragen."
 ---
 
 # Notare: beurkundung im ausland bezug - Kammerantwort mit Verfahrensstrategie, Tonlage und Belegplan

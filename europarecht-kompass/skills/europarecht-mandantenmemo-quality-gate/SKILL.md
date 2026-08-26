@@ -1,6 +1,6 @@
 ---
 name: europarecht-mandantenmemo-quality-gate
-description: "Wenn es um Europarecht-Kommandocenter in Europarecht-Kompass für deutsche Juristen geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Europarecht-Kommandocenter: erstellt Entwurf mit Antrag, Beweis und Anlagen; Ergebnis: Schriftsatz mit Begründungs- und Anlagenlogik."
 ---
 
 # Europarecht-Kommandocenter

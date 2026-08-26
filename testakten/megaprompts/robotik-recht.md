@@ -7,13 +7,13 @@ Diese Vollprüfung enthält top-8 von 213 Skills (gekürzt für das Arbeitsfenst
 ## Inhaltsverzeichnis
 
 1. **juristischer-argumentationskern** — Schaltet sich ein, wenn in Robotik Recht ein juristisches Arbeitsprodukt tragfähig begründet werden muss; verbindet konk…
-2. **einstieg-routing** — Wenn es um Einstieg und Routing in robotik-recht geht: klärt Rolle, Ziel, Frist, Unterlagen und den passenden nächsten F…
-3. **kaltstart-triage** — Wenn es um Robotik-Recht-Kompass in robotik-recht geht: klärt Rolle, Ziel, Frist, Unterlagen und den passenden nächsten …
-4. **workflow-betreiberpflichten-und-training** — Wenn es um Betreiberpflichten und Training in robotik-recht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente u…
-5. **risikoklassifizierung-schnelltest-rueckruf** — Wenn es um Risikoklassifizierung Schnelltest in robotik-recht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente…
-6. **datenschutz-cyber-first-year-uebergangsrecht** — Wenn es um Datenschutz-Cyber-Intake in robotik-recht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und näch…
-7. **arbeitswelt-cobot-beschaffung-oeffentlich** — Wenn es um Arbeitswelt Cobot Check in robotik-recht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächs…
-8. **risikoklassifizierung-schnelltest** — Wenn es um Risikoklassifizierung Schnelltest in robotik-recht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente…
+2. **einstieg-routing** — Für Einstieg und Routing: routet Rolle, Frist, Unterlagen und Fachschritt; Ergebnis: Prüfprodukt mit Risiko und nächstem…
+3. **kaltstart-triage** — Für Robotik-Recht-Kompass: routet Rolle, Frist, Unterlagen und Fachschritt; Ergebnis: Prüfprodukt mit Risiko und nächste…
+4. **biometrie-emotion-ce-zeichen-chirurgie-op** — Für Biometrie, Emotion und Personenerkennung in der Robotik: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfpr…
+5. **ki-vo-laienmodus-robotikrecht-litigation** — Für europäischer Technikregulierungsrahmen Integrationscheck: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfp…
+6. **robotik-produktsicherheitsrechtliche-werbung-quasihersteller** — Für Produktsicherheitsrechtliche Werbung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko un…
+7. **biometrie-emotion-und-personenerkennung** — Für Biometrie, Emotion und Personenerkennung in der Robotik: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfpr…
+8. **eu-konformitaetserklaerung-einbauerklaerung** — Für EU-Konformitäts- und Einbauerklärung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Schnittstellenkarte mit Z…
 
 ---
 
@@ -136,7 +136,7 @@ Ausgangspunkt für dieses Plugin: Geschädigter für Produktfehler, Schaden und 
 
 ## Skill: `einstieg-routing`
 
-_Wenn es um Einstieg und Routing in robotik-recht geht: klärt Rolle, Ziel, Frist, Unterlagen und den passenden nächsten Fachskill; liefert eine Fristen- und Risikoampel mit Sofortschritten._
+_Für Einstieg und Routing: routet Rolle, Frist, Unterlagen und Fachschritt; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt. Fachgebiet: robotik-recht._
 
 # Einstieg und Routing
 
@@ -188,7 +188,7 @@ Konkret zu prüfen:
 
 ## Skill: `kaltstart-triage`
 
-_Wenn es um Robotik-Recht-Kompass in robotik-recht geht: klärt Rolle, Ziel, Frist, Unterlagen und den passenden nächsten Fachskill; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen._
+_Für Robotik-Recht-Kompass: routet Rolle, Frist, Unterlagen und Fachschritt; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt._
 
 # Robotik-Recht-Kompass
 
@@ -312,11 +312,11 @@ Eine Robotikprüfung läuft fast immer parallel auf mehreren Spuren:
 
 ---
 
-## Skill: `workflow-betreiberpflichten-und-training`
+## Skill: `biometrie-emotion-ce-zeichen-chirurgie-op`
 
-_Wenn es um Betreiberpflichten und Training in robotik-recht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt. Auswahlstichwort: Workflow Betreiberpflichten Und Training; Arbeitsfeld: robotik-recht._
+_Für Biometrie, Emotion und Personenerkennung in der Robotik: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt. Fachgebiet: robotik-recht. Route: biometrie-emotion-ce-zeichen-chirurgie-op._
 
-# Betreiberpflichten und Training
+# Biometrie, Emotion und Personenerkennung in der Robotik
 
 ## Arbeitsweg
 
@@ -326,7 +326,105 @@ _Wenn es um Betreiberpflichten und Training in robotik-recht geht: ordnet Sachve
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Hersteller, Importeur, Händler, Betreiber, Endnutzer, Marktüberwachungsbehörde (BMAS/BNetzA/BMDV), benannte Stelle (Notified Body), KI-Aufsicht (BNetzA-Stelle).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Konformitätserklärung, technische Dokumentation Anhang IV KI-VO, Risikomanagement-System Art. 9, Datengovernance-Konzept Art. 10, FAT/SAT-Protokoll, Betriebsanleitung, CE-Kennzeichnung — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
-## Fachkern: Betreiberpflichten und Training
+## Fachkern: Biometrie, Emotion und Personenerkennung in der Robotik
+- **Normen-/Quellenanker:** EU-Maschinenverordnung, Produkthaftungsrecht, ProdSG/GPSR, AI Act, MDR/MPDG bei Medizinrobotik, DSGVO, Cybersecurity/NIS2 und Arbeitsschutz.
+- **Entscheidende Weiche:** Prüfe Rolle Hersteller/Integrator/Betreiber, bestimmungsgemäße Verwendung, CE-Konformität, Sicherheitsfunktion, Lern-/Updateverhalten, Schadenpfad und Rückrufpflicht.
+
+## Worum geht es konkret
+
+Roboter mit Personenerkennung kollidieren mit harten Verboten der KI-VO und mit der DSGVO. Art. 5 Abs. 1 KI-VO untersagt seit 02.02.2025 u. a. Emotionserkennung am Arbeitsplatz und in Bildungseinrichtungen (Art. 5 Abs. 1 lit. f), Social Scoring (lit. c) sowie – mit engen Ausnahmen – biometrische Echtzeit-Fernidentifizierung im öffentlich zugänglichen Raum zu Strafverfolgungszwecken (lit. h). Biometrische Daten sind besondere Kategorie (Art. 9 DSGVO). Prüfe, welches Verfahren im konkreten Roboter zulässig ist und welche Transparenz-/Konformitätspflichten greifen.
+
+## Wann dieses Modul hilft / Kaltstart-Fragen
+
+1. **Rolle:** Hersteller, Betreiber, Datenschutzbehörde, Betriebsrat, betroffene Person.
+2. **Funktion:** reine Personenanwesenheit (Anonyme Detection), Personenwiedererkennung (Tracking ohne Identität), Identifikation (1:N Match), Verifikation (1:1 Match), Emotionserkennung, Sentiment-Analyse.
+3. **Einsatzort:** Werkhalle (Beschäftigte), Krankenhaus (Patienten), Bildungseinrichtung, öffentlicher Raum, Endkunden-Haushalt.
+4. **Rolle der Echtzeit?** Live, post-hoc, beides?
+5. **Anlass:** Konformitätsprüfung, Behördenanfrage, Beschwerde, KI-VO-Audit, DSFA.
+
+## Rechtlicher Rahmen
+
+- **KI-VO Art. 5** Verbotene Praktiken (ab 02.02.2025): lit. f Emotionserkennung im Arbeits- und Bildungsbereich (Ausnahme: medizinische/sicherheitsbezogene Gründe); lit. e ungezielte Massensammlung; lit. h Echtzeit-Biometrie im öffentlichen Raum zu Strafverfolgungszwecken mit engen Ausnahmen.
+- **KI-VO Anhang III** Hochrisiko: biometrische Identifikation, Kategorisierung, Emotionserkennung außerhalb des Art. 5-Verbots.
+- **KI-VO Art. 50** Transparenz: Information bei interaktiven KI-Systemen, Erkennung von Emotionen / biometrischer Kategorisierung.
+- **DSGVO Art. 9** Verbot der Verarbeitung biometrischer Daten zur eindeutigen Identifizierung; Ausnahmen Abs. 2 lit. a (ausdrückliche Einwilligung), lit. b (Arbeitsrecht mit gesetzlicher Grundlage), lit. g (erhebliches öffentliches Interesse).
+- **DSGVO Art. 22** automatisierte Einzelfallentscheidung mit Rechtsfolgen.
+- **DSGVO Art. 35** DSFA verpflichtend.
+- **BDSG** § 22 öffentlicher Bereich; § 26 BDSG Beschäftigte.
+- **EuGH** Rs. C-184/20 - Vyriausioji tarnybinės etikos komisija (Anschluss zur weiten Auslegung biometrischer Daten).
+
+## Schritt für Schritt
+
+1. **Funktion exakt benennen.** "Personenerkennung" ist nicht gleich "Identifikation". Detection ≠ Recognition ≠ Identification ≠ Verifikation.
+2. **Verbots-Check Art. 5 KI-VO.** Arbeitsplatz/Bildung + Emotion? Social Scoring? Massensammlung? Echtzeit-Biometrie in öffentlichem Raum?
+3. **Hochrisiko-Check Anhang III.** Falls nicht verboten: Anhang III Nr. 1, Nr. 4. Konformitätsbewertung notwendig.
+4. **DSGVO-Check.** Art. 9 Erlaubnistatbestand vorhanden? Art. 22 Folge? Art. 35 DSFA gemacht?
+5. **Transparenzpflichten Art. 50 KI-VO** umsetzen: Hinweis am Roboter, vor Interaktion.
+6. **Technische Maßnahmen.** On-device-Verarbeitung, kein Cloud-Upload, Templates statt Rohdaten, kurze Speicherfristen.
+7. **Betriebsrat / Aufsichtsbehörde** beteiligen.
+8. **Dokumentation.** Risikomanagement Art. 9 KI-VO, technische Dokumentation Anhang IV.
+
+## Trade-off-Matrix
+
+| Funktion | Klar erlaubt | Riskant | Klar verboten |
+|---|---|---|---|
+| Anonyme Personenanwesenheit (sicherheitskritisch) | ja | – | – |
+| Biometrische Authentifizierung Mitarbeiter | mit BV und Einwilligung | dauerhaftes Tracking | – |
+| Emotionserkennung Patient (med. Indikation) | mit DSFA und Aufklärung | – | – |
+| Emotionserkennung Beschäftigte (HR) | – | – | Art. 5 Abs. 1 lit. f KI-VO |
+| Live-Gesichtserkennung im öffentlichen Raum | – | – | grundsätzlich Art. 5 lit. h KI-VO |
+
+## Praxistipps
+
+- **Templates** statt Rohbilder; Hash-Based-Matching.
+- **Hinweisschilder** am Roboter mit Symbol und Text.
+- **Mitarbeiter-Beteiligung früh** – nicht erst bei Beschwerde.
+- **Ausnahmen restriktiv lesen** – KI-VO sieht enge Voraussetzungen vor.
+- **Cloud-Verarbeitung** vermeiden bei biometrischen Daten.
+
+## Mustertexte
+
+**Hinweisschild (Auszug):**
+
+> Hinweis. Dieser Service-Roboter erkennt anonym, ob eine Person anwesend ist, um den Schutzraum freizugeben. Es findet keine Gesichts- oder Identifizierungserkennung statt. Verantwortlicher: [Firma]. Datenschutzbeauftragter: [E-Mail]. Weitere Informationen: [QR/URL].
+
+**Klausel im Liefervertrag (Auszug):**
+
+> Der Lieferant garantiert, dass das KI-System des Roboters Typ X (a) keine Emotionserkennung im Arbeits- oder Bildungskontext (Art. 5 Abs. 1 lit. f KI-VO) und (b) keine biometrische Identifizierung außerhalb der vom Betreiber vorgesehenen Verifikation an autorisierten Türen ermöglicht. Verstöße berechtigen den Betreiber zur sofortigen Vertragsauflösung und zur Geltendmachung pauschalisierten Schadensersatzes i. H. v. 100.000 EUR je Verstoß; weitere Schäden bleiben unberührt.
+
+## Typische Fehler
+
+- **Emotionserkennung als "soft sentiment"** im HR-Tool – Art. 5 KI-VO greift.
+- **"Anonyme" Personenerkennung** mit Re-Identifikationspotenzial – DSGVO greift.
+- **DSFA nicht durchgeführt** – Aufsichtsbehörden-Risiko.
+- **Cloud-Übermittlung** ohne TIA.
+- **Beschwerde ignoriert** – Bußgeldrisiko Art. 99 Abs. 3 KI-VO (bis 35 Mio. EUR oder 7 %).
+
+## Quellen Stand 06/2026
+
+- VO (EU) 2024/1689 (KI-VO), Art. 5 Abs. 1 lit. b, c, e, f, h; Anhang III; Art. 50; Art. 99.
+- DSGVO Art. 9, 22, 35.
+- BDSG §§ 22, 26.
+- EuGH, Urteil vom 1. August 2022, Rs. C-184/20 - Vyriausioji tarnybinės etikos komisija, ECLI:EU:C:2022:601.
+- Live-Verifikation auf eur-lex.europa.eu, edpb.europa.eu, bfdi.bund.de; lizenzierte Datenbanken (beck-online, juris) nur bei vorhandenem Zugang.
+
+---
+
+## Skill: `ki-vo-laienmodus-robotikrecht-litigation`
+
+_Für europäischer Technikregulierungsrahmen Integrationscheck: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt. Fachgebiet: robotik-recht. Route: ki-vo-laienmodus-robotikrecht-litigation._
+
+# KI-VO Integrationscheck
+
+## Arbeitsweg
+
+- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
+- Fristen und Eilrisiken zuerst markieren: KI-VO Geltungsbeginn 02.08.2026 für Hochrisiko (Art. 6 Anhang III), Verbote ab 02.02.2025, Maschinen-VO 20.01.2027, ProdHaftRL-Umsetzung 09.12.2026, KI-VO Art. 73 schwerwiegender Vorfall innerhalb 15 Tagen.
+- Tragende Normen verifizieren: EU KI-VO (VO 2024/1689) Art. 6, 8-15, 16, 26, 50, 73, 99, Maschinenverordnung 2023/1230, Produkthaftungs-Richtlinie 2024/2853, BGB §§ 823, 831, ProdHaftG, EU NIS2-RL 2022/2555, EU CRA — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
+- Zuständige Stelle bestimmen und Adressaten richtig wählen: Hersteller, Importeur, Händler, Betreiber, Endnutzer, Marktüberwachungsbehörde (BMAS/BNetzA/BMDV), benannte Stelle (Notified Body), KI-Aufsicht (BNetzA-Stelle).
+- Dokumente und Beweismittel sammeln und auf Lücken prüfen: Konformitätserklärung, technische Dokumentation Anhang IV KI-VO, Risikomanagement-System Art. 9, Datengovernance-Konzept Art. 10, FAT/SAT-Protokoll, Betriebsanleitung, CE-Kennzeichnung — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
+
+## Fachkern: KI-VO Integrationscheck
 - **Normen-/Quellenanker:** EU-Maschinenverordnung, Produkthaftung, ProdSG/GPSR, AI Act, MDR/MPDG, DSGVO, NIS2/BSI, Arbeitsschutz, CE und Betreiberpflichten.
 - **Entscheidende Weiche:** Robotikrolle, bestimmungsgemäße Verwendung, Autonomiegrad, Sicherheitsfunktion, Datenfluss, Haftungspfad, Konformität und Update-/Recall-Pflicht trennen.
 - **Arbeitsprodukt:** Liefere eine fallbezogene `Norm / Tatsache / Beleg / Wertung / Gegenargument / nächster Schritt`-Matrix und einen direkt nutzbaren Textbaustein, wenn der Nutzer einen Entwurf braucht.
@@ -353,7 +451,7 @@ Kläre knapp:
 
 ## Spezifischer Fokus
 
-Dieser Skill fokussiert: **Prüft Betreiberpflichten: Arbeitsschutz, BetrSichV-Schnittstelle, Einweisung, Wartung, Betriebsanweisung, Nutzerlogs und Verantwortlichkeiten vor Ort.**
+Dieser Skill fokussiert: **Prüft integrierte KI-Systeme, Sicherheitskomponenten, Anhang III, Hochrisiko-Nähe, Anbieter-/Betreiberpflichten und Zweckänderungen.**
 
 Quellen-/Normenanker: Quellenmatrix im Plugin, Uploads, Rollenprofil, Fristen, Produktakte.
 
@@ -371,11 +469,11 @@ Schlage am Ende passende Anschluss-Skills aus `robotik-recht` vor. Wenn Datensch
 
 ---
 
-## Skill: `risikoklassifizierung-schnelltest-rueckruf`
+## Skill: `robotik-produktsicherheitsrechtliche-werbung-quasihersteller`
 
-_Wenn es um Risikoklassifizierung Schnelltest in robotik-recht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen. Auswahlstichwort: Risikoklassifizierung Schnelltest Rueckruf; Arbeitsfeld: robotik-recht._
+_Für Produktsicherheitsrechtliche Werbung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt. Fachgebiet: robotik-recht. Route: robotik-produktsicherheitsrechtliche-werbung-quasihersteller._
 
-# Risikoklassifizierung Schnelltest
+# Produktsicherheitsrechtliche Werbung
 
 ## Arbeitsweg
 
@@ -385,12 +483,11 @@ _Wenn es um Risikoklassifizierung Schnelltest in robotik-recht geht: ordnet Sach
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Hersteller, Importeur, Händler, Betreiber, Endnutzer, Marktüberwachungsbehörde (BMAS/BNetzA/BMDV), benannte Stelle (Notified Body), KI-Aufsicht (BNetzA-Stelle).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Konformitätserklärung, technische Dokumentation Anhang IV KI-VO, Risikomanagement-System Art. 9, Datengovernance-Konzept Art. 10, FAT/SAT-Protokoll, Betriebsanleitung, CE-Kennzeichnung — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
-## Fachkern: Risikoklassifizierung Schnelltest
-- **Normen-/Quellenanker:** EU-Maschinenverordnung, Produkthaftung, ProdSG/GPSR, AI Act, MDR/MPDG, DSGVO, NIS2/BSI, Arbeitsschutz, CE und Betreiberpflichten.
-- **Entscheidende Weiche:** Robotikrolle, bestimmungsgemäße Verwendung, Autonomiegrad, Sicherheitsfunktion, Datenfluss, Haftungspfad, Konformität und Update-/Recall-Pflicht trennen.
-- **Arbeitsprodukt:** Liefere eine fallbezogene `Norm / Tatsache / Beleg / Wertung / Gegenargument / nächster Schritt`-Matrix und einen direkt nutzbaren Textbaustein, wenn der Nutzer einen Entwurf braucht.
+## Fachkern: Produktsicherheitsrechtliche Werbung
+- **Normen-/Quellenanker:** EU-Maschinenverordnung, Produkthaftungsrecht, ProdSG/GPSR, AI Act, MDR/MPDG bei Medizinrobotik, DSGVO, Cybersecurity/NIS2 und Arbeitsschutz.
+- **Entscheidende Weiche:** Prüfe Rolle Hersteller/Integrator/Betreiber, bestimmungsgemäße Verwendung, CE-Konformität, Sicherheitsfunktion, Lern-/Updateverhalten, Schadenpfad und Rückrufpflicht.
 
-Workflow- und Einstiegsskill im Plugin `robotik-recht`. Nutze ihn, wenn der Fall Robotik, autonome oder teilautonome Maschinen, integrierte KI, Sensorik, Remote-Updates, Mensch-Roboter-Interaktion, Produktsicherheit, Haftung, Datenschutz, Cybersecurity oder Robotikverträge berührt.
+Fachmodul im Plugin `robotik-recht`. Nutze ihn, wenn der Fall Robotik, autonome oder teilautonome Maschinen, integrierte KI, Sensorik, Remote-Updates, Mensch-Roboter-Interaktion, Produktsicherheit, Haftung, Datenschutz, Cybersecurity oder Robotikverträge berührt.
 
 ## Start
 
@@ -412,9 +509,9 @@ Kläre knapp:
 
 ## Spezifischer Fokus
 
-Dieser Skill fokussiert: **Führt durch Risikoklassen: Maschine, Sicherheitsbauteil, Hochrisiko-KI, Medizinprodukt, Verbraucherprodukt, kritische Infrastruktur, Beschäftigtendaten.**
+Dieser Skill fokussiert: **Prüft Marketingaussagen zu Autonomie, Sicherheit, KI, Zertifizierung, CE, MDR und Normenkonformität.**
 
-Quellen-/Normenanker: Quellenmatrix im Plugin, Uploads, Rollenprofil, Fristen, Produktakte.
+Quellen-/Normenanker: UWG, ProdSG, KI-VO Transparenz, Verbraucherrecht.
 
 ## Ergebnisformat
 
@@ -430,136 +527,107 @@ Schlage am Ende passende Anschluss-Skills aus `robotik-recht` vor. Wenn Datensch
 
 ---
 
-## Skill: `datenschutz-cyber-first-year-uebergangsrecht`
+## Skill: `biometrie-emotion-und-personenerkennung`
 
-_Wenn es um Datenschutz-Cyber-Intake in robotik-recht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt. Auswahlstichwort: Datenschutz Cyber First Year Uebergangsrecht; Arbeitsfeld: robotik-recht._
+_Für Biometrie, Emotion und Personenerkennung in der Robotik: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt. Fachgebiet: robotik-recht. Route: biometrie-emotion-und-personenerkennung._
 
-# Datenschutz-Cyber-Intake
+# Biometrie, Emotion und Personenerkennung in der Robotik
 
-## Arbeitsweg
+## Fachkern: Biometrie, Emotion und Personenerkennung in der Robotik
+- **Normen-/Quellenanker:** EU-Maschinenverordnung, Produkthaftungsrecht, ProdSG/GPSR, AI Act, MDR/MPDG bei Medizinrobotik, DSGVO, Cybersecurity/NIS2 und Arbeitsschutz.
+- **Entscheidende Weiche:** Prüfe Rolle Hersteller/Integrator/Betreiber, bestimmungsgemäße Verwendung, CE-Konformität, Sicherheitsfunktion, Lern-/Updateverhalten, Schadenpfad und Rückrufpflicht.
 
-- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
-- Fristen und Eilrisiken zuerst markieren: KI-VO Geltungsbeginn 02.08.2026 für Hochrisiko (Art. 6 Anhang III), Verbote ab 02.02.2025, Maschinen-VO 20.01.2027, ProdHaftRL-Umsetzung 09.12.2026, KI-VO Art. 73 schwerwiegender Vorfall innerhalb 15 Tagen.
-- Tragende Normen verifizieren: EU KI-VO (VO 2024/1689) Art. 6, 8-15, 16, 26, 50, 73, 99, Maschinenverordnung 2023/1230, Produkthaftungs-Richtlinie 2024/2853, BGB §§ 823, 831, ProdHaftG, EU NIS2-RL 2022/2555, EU CRA — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
-- Zuständige Stelle bestimmen und Adressaten richtig wählen: Hersteller, Importeur, Händler, Betreiber, Endnutzer, Marktüberwachungsbehörde (BMAS/BNetzA/BMDV), benannte Stelle (Notified Body), KI-Aufsicht (BNetzA-Stelle).
-- Dokumente und Beweismittel sammeln und auf Lücken prüfen: Konformitätserklärung, technische Dokumentation Anhang IV KI-VO, Risikomanagement-System Art. 9, Datengovernance-Konzept Art. 10, FAT/SAT-Protokoll, Betriebsanleitung, CE-Kennzeichnung — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
+## Worum geht es konkret
 
-## Fachkern: Datenschutz-Cyber-Intake
-- **Normen-/Quellenanker:** EU-Maschinenverordnung, Produkthaftung, ProdSG/GPSR, AI Act, MDR/MPDG, DSGVO, NIS2/BSI, Arbeitsschutz, CE und Betreiberpflichten.
-- **Entscheidende Weiche:** Robotikrolle, bestimmungsgemäße Verwendung, Autonomiegrad, Sicherheitsfunktion, Datenfluss, Haftungspfad, Konformität und Update-/Recall-Pflicht trennen.
-- **Arbeitsprodukt:** Liefere eine fallbezogene `Norm / Tatsache / Beleg / Wertung / Gegenargument / nächster Schritt`-Matrix und einen direkt nutzbaren Textbaustein, wenn der Nutzer einen Entwurf braucht.
+Roboter mit Personenerkennung kollidieren mit harten Verboten der KI-VO und mit der DSGVO. Art. 5 Abs. 1 KI-VO untersagt seit 02.02.2025 u. a. Emotionserkennung am Arbeitsplatz und in Bildungseinrichtungen (Art. 5 Abs. 1 lit. f), Social Scoring (lit. c) sowie – mit engen Ausnahmen – biometrische Echtzeit-Fernidentifizierung im öffentlich zugänglichen Raum zu Strafverfolgungszwecken (lit. h). Biometrische Daten sind besondere Kategorie (Art. 9 DSGVO). Prüfe, welches Verfahren im konkreten Roboter zulässig ist und welche Transparenz-/Konformitätspflichten greifen.
 
-Workflow- und Einstiegsskill im Plugin `robotik-recht`. Nutze ihn, wenn der Fall Robotik, autonome oder teilautonome Maschinen, integrierte KI, Sensorik, Remote-Updates, Mensch-Roboter-Interaktion, Produktsicherheit, Haftung, Datenschutz, Cybersecurity oder Robotikverträge berührt.
+## Wann dieses Modul hilft / Kaltstart-Fragen
 
-## Start
+1. **Rolle:** Hersteller, Betreiber, Datenschutzbehörde, Betriebsrat, betroffene Person.
+2. **Funktion:** reine Personenanwesenheit (Anonyme Detection), Personenwiedererkennung (Tracking ohne Identität), Identifikation (1:N Match), Verifikation (1:1 Match), Emotionserkennung, Sentiment-Analyse.
+3. **Einsatzort:** Werkhalle (Beschäftigte), Krankenhaus (Patienten), Bildungseinrichtung, öffentlicher Raum, Endkunden-Haushalt.
+4. **Rolle der Echtzeit?** Live, post-hoc, beides?
+5. **Anlass:** Konformitätsprüfung, Behördenanfrage, Beschwerde, KI-VO-Audit, DSFA.
 
-Kläre knapp:
+## Rechtlicher Rahmen
 
-1. **Rolle:** Hersteller, Anbieter, Integrator, Importeur, Händler, Betreiber, Deployer, Wartung, Versicherer, Behörde oder Geschädigte Person.
-2. **Produkt:** Industrieroboter, Cobot, AMR/AGV, Service-, Pflege-, Medizin-, Haushalts-, Agrar-, Sicherheits-, Liefer- oder Sonderrobotik.
-3. **Ziel:** Freigabe, CE-Akte, Behördenantwort, Vertragsprüfung, Incident, Rückruf, Haftungsmemo, Datenschutzprüfung, Cyberprüfung, Klage/Verteidigung oder Vorstandsvorlage.
-4. **Dringlichkeit:** Unfall, Verletzung, Datenpanne, Cyberangriff, Marktüberwachung, Rückruf, Kundenstillstand, Frist oder nur Prävention.
-5. **Unterlagen:** Anleitung, Risikobeurteilung, EU-Konformitätserklärung, technische Dokumentation, Logs, Softwarestände, Verträge, DSFA, SBOM, Wartungsprotokolle, E-Mails.
+- **KI-VO Art. 5** Verbotene Praktiken (ab 02.02.2025): lit. f Emotionserkennung im Arbeits- und Bildungsbereich (Ausnahme: medizinische/sicherheitsbezogene Gründe); lit. e ungezielte Massensammlung; lit. h Echtzeit-Biometrie im öffentlichen Raum zu Strafverfolgungszwecken mit engen Ausnahmen.
+- **KI-VO Anhang III** Hochrisiko: biometrische Identifikation, Kategorisierung, Emotionserkennung außerhalb des Art. 5-Verbots.
+- **KI-VO Art. 50** Transparenz: Information bei interaktiven KI-Systemen, Erkennung von Emotionen / biometrischer Kategorisierung.
+- **DSGVO Art. 9** Verbot der Verarbeitung biometrischer Daten zur eindeutigen Identifizierung; Ausnahmen Abs. 2 lit. a (ausdrückliche Einwilligung), lit. b (Arbeitsrecht mit gesetzlicher Grundlage), lit. g (erhebliches öffentliches Interesse).
+- **DSGVO Art. 22** automatisierte Einzelfallentscheidung mit Rechtsfolgen.
+- **DSGVO Art. 35** DSFA verpflichtend.
+- **BDSG** § 22 öffentlicher Bereich; § 26 BDSG Beschäftigte.
+- **EuGH** Rs. C-184/20 - Vyriausioji tarnybinės etikos komisija (Anschluss zur weiten Auslegung biometrischer Daten).
 
-## Prüfspur
+## Schritt für Schritt
 
-- Baue zuerst eine **Rollenmatrix**. Robotikfälle kippen oft daran, wer rechtlich Hersteller, Anbieter, Betreiber oder bloßer Zulieferer ist.
-- Prüfe dann **parallel**: Maschinenrecht/Produktsicherheit, KI-VO, Produkthaftung, Datenschutz, Cybersecurity, Data Act, sektorspezifisches Recht und Vertrag.
-- Trenne sichere Tatsachen, technische Annahmen und Rechtsbewertung. Markiere jede nicht belegte technische Annahme sichtbar.
-- Arbeite mit einer **Ampel**: Rot = sofort handeln; Gelb = Unterlagen/Rückfragen; Grün = derzeit tragfähig, aber live zu verifizieren.
-- Bei Rechtsprechung und aktuellen Normen: keine Paywall-Fundstellen, keine erfundenen Aktenzeichen; live über amtliche/freie Quellen prüfen.
+1. **Funktion exakt benennen.** "Personenerkennung" ist nicht gleich "Identifikation". Detection ≠ Recognition ≠ Identification ≠ Verifikation.
+2. **Verbots-Check Art. 5 KI-VO.** Arbeitsplatz/Bildung + Emotion? Social Scoring? Massensammlung? Echtzeit-Biometrie in öffentlichem Raum?
+3. **Hochrisiko-Check Anhang III.** Falls nicht verboten: Anhang III Nr. 1, Nr. 4. Konformitätsbewertung notwendig.
+4. **DSGVO-Check.** Art. 9 Erlaubnistatbestand vorhanden? Art. 22 Folge? Art. 35 DSFA gemacht?
+5. **Transparenzpflichten Art. 50 KI-VO** umsetzen: Hinweis am Roboter, vor Interaktion.
+6. **Technische Maßnahmen.** On-device-Verarbeitung, kein Cloud-Upload, Templates statt Rohdaten, kurze Speicherfristen.
+7. **Betriebsrat / Aufsichtsbehörde** beteiligen.
+8. **Dokumentation.** Risikomanagement Art. 9 KI-VO, technische Dokumentation Anhang IV.
 
-## Spezifischer Fokus
+## Trade-off-Matrix
 
-Dieser Skill fokussiert: **Startet Datenschutz- und Cyberprüfung: Kameras, Mikrofone, Telemetrie, biometrische Daten, Beschäftigte, Patienten, DSFA, TOMs und CRA-Schnittstelle.**
+| Funktion | Klar erlaubt | Riskant | Klar verboten |
+|---|---|---|---|
+| Anonyme Personenanwesenheit (sicherheitskritisch) | ja | – | – |
+| Biometrische Authentifizierung Mitarbeiter | mit BV und Einwilligung | dauerhaftes Tracking | – |
+| Emotionserkennung Patient (med. Indikation) | mit DSFA und Aufklärung | – | – |
+| Emotionserkennung Beschäftigte (HR) | – | – | Art. 5 Abs. 1 lit. f KI-VO |
+| Live-Gesichtserkennung im öffentlichen Raum | – | – | grundsätzlich Art. 5 lit. h KI-VO |
 
-Quellen-/Normenanker: Quellenmatrix im Plugin, Uploads, Rollenprofil, Fristen, Produktakte.
+## Praxistipps
 
-## Ergebnisformat
+- **Templates** statt Rohbilder; Hash-Based-Matching.
+- **Hinweisschilder** am Roboter mit Symbol und Text.
+- **Mitarbeiter-Beteiligung früh** – nicht erst bei Beschwerde.
+- **Ausnahmen restriktiv lesen** – KI-VO sieht enge Voraussetzungen vor.
+- **Cloud-Verarbeitung** vermeiden bei biometrischen Daten.
 
-Liefere je nach Auftrag eines der folgenden Formate:
+## Mustertexte
 
-- **Kurzvermerk** mit Ergebnis, Begründung, Risikoampel und offenen Fragen.
-- **Rückfragenliste** an Technik/QM/IT-Security/Datenschutz/Vertrieb.
-- **Dokumentenmatrix** mit vorhandenen und fehlenden Nachweisen.
-- **Behörden- oder Mandantenentwurf** mit vorsichtiger Sprache und Quellenhinweisen.
-- **Red-Team-Check** mit Gegenargumenten, Worst Case und nächstem Schritt.
+**Hinweisschild (Auszug):**
 
-Schlage am Ende passende Anschluss-Skills aus `robotik-recht` vor. Wenn Datenschutz, KI-VO, IT-Recht, Medizinrecht, Arbeitsrecht oder Vertragsrecht überwiegt, nenne zusätzlich das passende Nachbarplugin.
+> Hinweis. Dieser Service-Roboter erkennt anonym, ob eine Person anwesend ist, um den Schutzraum freizugeben. Es findet keine Gesichts- oder Identifizierungserkennung statt. Verantwortlicher: [Firma]. Datenschutzbeauftragter: [E-Mail]. Weitere Informationen: [QR/URL].
 
----
+**Klausel im Liefervertrag (Auszug):**
 
-## Skill: `arbeitswelt-cobot-beschaffung-oeffentlich`
+> Der Lieferant garantiert, dass das KI-System des Roboters Typ X (a) keine Emotionserkennung im Arbeits- oder Bildungskontext (Art. 5 Abs. 1 lit. f KI-VO) und (b) keine biometrische Identifizierung außerhalb der vom Betreiber vorgesehenen Verifikation an autorisierten Türen ermöglicht. Verstöße berechtigen den Betreiber zur sofortigen Vertragsauflösung und zur Geltendmachung pauschalisierten Schadensersatzes i. H. v. 100.000 EUR je Verstoß; weitere Schäden bleiben unberührt.
 
-_Wenn es um Arbeitswelt Cobot Check in robotik-recht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt. Auswahlstichwort: Arbeitswelt Cobot Beschaffung Oeffentlich; Arbeitsfeld: robotik-recht._
+## Typische Fehler
 
-# Arbeitswelt Cobot Check
+- **Emotionserkennung als "soft sentiment"** im HR-Tool – Art. 5 KI-VO greift.
+- **"Anonyme" Personenerkennung** mit Re-Identifikationspotenzial – DSGVO greift.
+- **DSFA nicht durchgeführt** – Aufsichtsbehörden-Risiko.
+- **Cloud-Übermittlung** ohne TIA.
+- **Beschwerde ignoriert** – Bußgeldrisiko Art. 99 Abs. 3 KI-VO (bis 35 Mio. EUR oder 7 %).
 
-## Arbeitsweg
+## Quellen Stand 06/2026
 
-- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
-- Fristen und Eilrisiken zuerst markieren: KI-VO Geltungsbeginn 02.08.2026 für Hochrisiko (Art. 6 Anhang III), Verbote ab 02.02.2025, Maschinen-VO 20.01.2027, ProdHaftRL-Umsetzung 09.12.2026, KI-VO Art. 73 schwerwiegender Vorfall innerhalb 15 Tagen.
-- Tragende Normen verifizieren: EU KI-VO (VO 2024/1689) Art. 6, 8-15, 16, 26, 50, 73, 99, Maschinenverordnung 2023/1230, Produkthaftungs-Richtlinie 2024/2853, BGB §§ 823, 831, ProdHaftG, EU NIS2-RL 2022/2555, EU CRA — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
-- Zuständige Stelle bestimmen und Adressaten richtig wählen: Hersteller, Importeur, Händler, Betreiber, Endnutzer, Marktüberwachungsbehörde (BMAS/BNetzA/BMDV), benannte Stelle (Notified Body), KI-Aufsicht (BNetzA-Stelle).
-- Dokumente und Beweismittel sammeln und auf Lücken prüfen: Konformitätserklärung, technische Dokumentation Anhang IV KI-VO, Risikomanagement-System Art. 9, Datengovernance-Konzept Art. 10, FAT/SAT-Protokoll, Betriebsanleitung, CE-Kennzeichnung — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
-
-## Fachkern: Arbeitswelt Cobot Check
-- **Normen-/Quellenanker:** EU-Maschinenverordnung, Produkthaftung, ProdSG/GPSR, AI Act, MDR/MPDG, DSGVO, NIS2/BSI, Arbeitsschutz, CE und Betreiberpflichten.
-- **Entscheidende Weiche:** Robotikrolle, bestimmungsgemäße Verwendung, Autonomiegrad, Sicherheitsfunktion, Datenfluss, Haftungspfad, Konformität und Update-/Recall-Pflicht trennen.
-- **Arbeitsprodukt:** Liefere eine fallbezogene `Norm / Tatsache / Beleg / Wertung / Gegenargument / nächster Schritt`-Matrix und einen direkt nutzbaren Textbaustein, wenn der Nutzer einen Entwurf braucht.
-
-Workflow- und Einstiegsskill im Plugin `robotik-recht`. Nutze ihn, wenn der Fall Robotik, autonome oder teilautonome Maschinen, integrierte KI, Sensorik, Remote-Updates, Mensch-Roboter-Interaktion, Produktsicherheit, Haftung, Datenschutz, Cybersecurity oder Robotikverträge berührt.
-
-## Start
-
-Kläre knapp:
-
-1. **Rolle:** Hersteller, Anbieter, Integrator, Importeur, Händler, Betreiber, Deployer, Wartung, Versicherer, Behörde oder Geschädigte Person.
-2. **Produkt:** Industrieroboter, Cobot, AMR/AGV, Service-, Pflege-, Medizin-, Haushalts-, Agrar-, Sicherheits-, Liefer- oder Sonderrobotik.
-3. **Ziel:** Freigabe, CE-Akte, Behördenantwort, Vertragsprüfung, Incident, Rückruf, Haftungsmemo, Datenschutzprüfung, Cyberprüfung, Klage/Verteidigung oder Vorstandsvorlage.
-4. **Dringlichkeit:** Unfall, Verletzung, Datenpanne, Cyberangriff, Marktüberwachung, Rückruf, Kundenstillstand, Frist oder nur Prävention.
-5. **Unterlagen:** Anleitung, Risikobeurteilung, EU-Konformitätserklärung, technische Dokumentation, Logs, Softwarestände, Verträge, DSFA, SBOM, Wartungsprotokolle, E-Mails.
-
-## Prüfspur
-
-- Baue zuerst eine **Rollenmatrix**. Robotikfälle kippen oft daran, wer rechtlich Hersteller, Anbieter, Betreiber oder bloßer Zulieferer ist.
-- Prüfe dann **parallel**: Maschinenrecht/Produktsicherheit, KI-VO, Produkthaftung, Datenschutz, Cybersecurity, Data Act, sektorspezifisches Recht und Vertrag.
-- Trenne sichere Tatsachen, technische Annahmen und Rechtsbewertung. Markiere jede nicht belegte technische Annahme sichtbar.
-- Arbeite mit einer **Ampel**: Rot = sofort handeln; Gelb = Unterlagen/Rückfragen; Grün = derzeit tragfähig, aber live zu verifizieren.
-- Bei Rechtsprechung und aktuellen Normen: keine Paywall-Fundstellen, keine erfundenen Aktenzeichen; live über amtliche/freie Quellen prüfen.
-
-## Spezifischer Fokus
-
-Dieser Skill fokussiert: **Prüft Cobots im Betrieb: Arbeitsschutz, Beschäftigtendaten, Mitbestimmung, Qualifikation, Mensch-Roboter-Interaktion, Unfälle und Produktverantwortung.**
-
-Quellen-/Normenanker: Quellenmatrix im Plugin, Uploads, Rollenprofil, Fristen, Produktakte.
-
-## Ergebnisformat
-
-Liefere je nach Auftrag eines der folgenden Formate:
-
-- **Kurzvermerk** mit Ergebnis, Begründung, Risikoampel und offenen Fragen.
-- **Rückfragenliste** an Technik/QM/IT-Security/Datenschutz/Vertrieb.
-- **Dokumentenmatrix** mit vorhandenen und fehlenden Nachweisen.
-- **Behörden- oder Mandantenentwurf** mit vorsichtiger Sprache und Quellenhinweisen.
-- **Red-Team-Check** mit Gegenargumenten, Worst Case und nächstem Schritt.
-
-Schlage am Ende passende Anschluss-Skills aus `robotik-recht` vor. Wenn Datenschutz, KI-VO, IT-Recht, Medizinrecht, Arbeitsrecht oder Vertragsrecht überwiegt, nenne zusätzlich das passende Nachbarplugin.
+- VO (EU) 2024/1689 (KI-VO), Art. 5 Abs. 1 lit. b, c, e, f, h; Anhang III; Art. 50; Art. 99.
+- DSGVO Art. 9, 22, 35.
+- BDSG §§ 22, 26.
+- EuGH, Urteil vom 1. August 2022, Rs. C-184/20 - Vyriausioji tarnybinės etikos komisija, ECLI:EU:C:2022:601.
+- Live-Verifikation auf eur-lex.europa.eu, edpb.europa.eu, bfdi.bund.de; lizenzierte Datenbanken (beck-online, juris) nur bei vorhandenem Zugang.
 
 ---
 
-## Skill: `risikoklassifizierung-schnelltest`
+## Skill: `eu-konformitaetserklaerung-einbauerklaerung`
 
-_Wenn es um Risikoklassifizierung Schnelltest in robotik-recht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen. Auswahlstichwort: Risikoklassifizierung Schnelltest; Arbeitsfeld: robotik-recht._
+_Für EU-Konformitäts- und Einbauerklärung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Schnittstellenkarte mit Zuständigkeits- und Nachweisfragen. Fachgebiet: robotik-recht. Route: eu-konformitaetserklaerung-einbauerklaerung._
 
-# Risikoklassifizierung Schnelltest
+# EU-Konformitäts- und Einbauerklärung
 
-## Fachkern: Risikoklassifizierung Schnelltest
-- **Normen-/Quellenanker:** EU-Maschinenverordnung, Produkthaftung, ProdSG/GPSR, AI Act, MDR/MPDG, DSGVO, NIS2/BSI, Arbeitsschutz, CE und Betreiberpflichten.
-- **Entscheidende Weiche:** Robotikrolle, bestimmungsgemäße Verwendung, Autonomiegrad, Sicherheitsfunktion, Datenfluss, Haftungspfad, Konformität und Update-/Recall-Pflicht trennen.
-- **Arbeitsprodukt:** Liefere eine fallbezogene `Norm / Tatsache / Beleg / Wertung / Gegenargument / nächster Schritt`-Matrix und einen direkt nutzbaren Textbaustein, wenn der Nutzer einen Entwurf braucht.
+## Fachkern: EU-Konformitäts- und Einbauerklärung
+- **Normen-/Quellenanker:** EU-Maschinenverordnung, Produkthaftungsrecht, ProdSG/GPSR, AI Act, MDR/MPDG bei Medizinrobotik, DSGVO, Cybersecurity/NIS2 und Arbeitsschutz.
+- **Entscheidende Weiche:** Prüfe Rolle Hersteller/Integrator/Betreiber, bestimmungsgemäße Verwendung, CE-Konformität, Sicherheitsfunktion, Lern-/Updateverhalten, Schadenpfad und Rückrufpflicht.
 
-Workflow- und Einstiegsskill im Plugin `robotik-recht`. Nutze ihn, wenn der Fall Robotik, autonome oder teilautonome Maschinen, integrierte KI, Sensorik, Remote-Updates, Mensch-Roboter-Interaktion, Produktsicherheit, Haftung, Datenschutz, Cybersecurity oder Robotikverträge berührt.
+Fachmodul im Plugin `robotik-recht`. Nutze ihn, wenn der Fall Robotik, autonome oder teilautonome Maschinen, integrierte KI, Sensorik, Remote-Updates, Mensch-Roboter-Interaktion, Produktsicherheit, Haftung, Datenschutz, Cybersecurity oder Robotikverträge berührt.
 
 ## Start
 
@@ -581,9 +649,9 @@ Kläre knapp:
 
 ## Spezifischer Fokus
 
-Dieser Skill fokussiert: **Führt durch Risikoklassen: Maschine, Sicherheitsbauteil, Hochrisiko-KI, Medizinprodukt, Verbraucherprodukt, kritische Infrastruktur, Beschäftigtendaten.**
+Dieser Skill fokussiert: **Erstellt und prüft EU-Konformitätserklärung, Einbauerklärung, Sprachfassung, Unterzeichner und technische Bezüge.**
 
-Quellen-/Normenanker: Quellenmatrix im Plugin, Uploads, Rollenprofil, Fristen, Produktakte.
+Quellen-/Normenanker: Maschinenverordnung; MaschinenDG; ProdSG.
 
 ## Ergebnisformat
 
@@ -601,10 +669,8 @@ Schlage am Ende passende Anschluss-Skills aus `robotik-recht` vor. Wenn Datensch
 
 Konkret zu prüfen:
 
-- VO (EU) 2023/1230 (Maschinenverordnung)
-- Art. 6 AI-Act (Hochrisiko-KI)
-- §§ 1-19 ProdHaftG
-- RL (EU) 2024/2853 (neue Produkthaftungs-RL)
+- Art. 43-49 AI-Act
+- VO (EU) 2023/1230
 
 ---
 

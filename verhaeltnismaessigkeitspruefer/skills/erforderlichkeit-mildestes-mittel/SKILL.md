@@ -1,6 +1,6 @@
 ---
 name: erforderlichkeit-mildestes-mittel
-description: "Wenn es um Erforderlichkeit Mildestes Mittel in Verhältnismäßigkeitsprüfer geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Erforderlichkeit Mildestes Mittel: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Erforderlichkeit Mildestes Mittel

@@ -1,6 +1,6 @@
 ---
 name: liegt-ki-system-vor-art-3-nr-1
-description: "Wenn es um Liegt ein digitale Werkzeuge-System vor? — Art. 3 Nr. 1 europäischer Technikregulierungsrahmen in europäischem Technikregulierungsrecht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen."
+description: "Für Liegt ein digitale Werkzeuge-System vor? — Art. 3 Nr. 1 europäischer Technikregulierungsrahmen: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Liegt ein KI-System vor? — Art. 3 Nr. 1 KI-VO

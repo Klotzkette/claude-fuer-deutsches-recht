@@ -1,6 +1,6 @@
 ---
 name: negotiation-playbook-pe
-description: "Wenn es um Negotiation Playbook PE in Private Equity Praxis geht: entwickelt Verhandlungsziel, Vergleichskorridor und Eskalationspfad; liefert eine Verhandlungs- oder Eskalationslinie mit Optionen."
+description: "Für Negotiation Playbook PE: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Negotiation Playbook PE

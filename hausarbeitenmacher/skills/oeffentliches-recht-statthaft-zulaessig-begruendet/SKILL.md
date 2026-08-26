@@ -1,6 +1,6 @@
 ---
 name: oeffentliches-recht-statthaft-zulaessig-begruendet
-description: "Wenn es um Öffentliches Recht — Statthaftigkeit, Zulässigkeit, Begründetheit in hausarbeitenmacher — Didaktisches Plugin für juristische geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Öffentliches Recht — Statthaftigkeit, Zulässigkeit, Begründetheit: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Öffentliches Recht — Statthaftigkeit, Zulässigkeit, Begründetheit

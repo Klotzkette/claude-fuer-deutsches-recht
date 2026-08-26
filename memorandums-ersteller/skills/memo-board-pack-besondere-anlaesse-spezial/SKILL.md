@@ -1,6 +1,6 @@
 ---
 name: memo-board-pack-besondere-anlaesse-spezial
-description: "Wenn es um Memo: Board-Pack Anlaesse in Memorandums-Ersteller geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Memo: Board-Pack Anlässe: erstellt Entwurf mit Antrag, Beweis und Anlagen; Ergebnis: Schriftsatz mit Begründungs- und Anlagenlogik."
 ---
 
 # Memo: Board-Pack Anlaesse

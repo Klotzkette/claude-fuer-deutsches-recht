@@ -1,6 +1,6 @@
 ---
 name: widerspruch-vorverfahren-78-sgg
-description: "Wenn es um Das Widerspruchsverfahren — Paragraf 78 SGG in selbstvertreter-sozialgericht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Das Widerspruchsverfahren — Paragraf 78 SGG: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Das Widerspruchsverfahren — § 78 SGG

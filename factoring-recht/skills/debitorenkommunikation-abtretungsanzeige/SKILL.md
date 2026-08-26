@@ -1,6 +1,6 @@
 ---
 name: debitorenkommunikation-abtretungsanzeige
-description: "Wenn es um Debitorenkommunikation und Abtretungsanzeige in Factoring-Recht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Debitorenkommunikation und Abtretungsanzeige: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Debitorenkommunikation und Abtretungsanzeige

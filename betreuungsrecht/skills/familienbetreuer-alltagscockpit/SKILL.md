@@ -1,6 +1,6 @@
 ---
 name: familienbetreuer-alltagscockpit
-description: "Wenn es um Familienbetreuer-Alltagscockpit in Betreuungsrecht geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen."
+description: "Für Familienbetreuer-Alltagscockpit: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Schnittstellenkarte mit Zuständigkeits- und Nachweisfragen."
 ---
 
 # Familienbetreuer-Alltagscockpit

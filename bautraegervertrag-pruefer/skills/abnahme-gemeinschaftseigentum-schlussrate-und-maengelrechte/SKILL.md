@@ -1,6 +1,6 @@
 ---
 name: abnahme-gemeinschaftseigentum-schlussrate-und-maengelrechte
-description: "Wenn es um Abnahme, Gemeinschaftseigentum, Schlussrate und Mängelrechte in Bauträgervertrag-Prüfer geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
+description: "Für Abnahme, Gemeinschaftseigentum, Schlussrate und Mängelrechte: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Abnahme, Gemeinschaftseigentum, Schlussrate und Mängelrechte

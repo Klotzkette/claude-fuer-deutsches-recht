@@ -1,6 +1,6 @@
 ---
 name: intake
-description: "Wenn es um Intake und Eingangstriage in Kanzlei-Allgemein geht: klärt Rolle, Ziel, Frist, Unterlagen und den passenden nächsten Fachskill; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Intake und Eingangstriage: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Intake und Eingangstriage

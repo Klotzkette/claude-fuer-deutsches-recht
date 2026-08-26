@@ -1,6 +1,6 @@
 ---
 name: medizinalcannabis-therapiepfad-pruefen
-description: "Wenn es um Medizinalcannabis Therapiepfad Prüfen in Betäubungsmittelrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Medizinalcannabis Therapiepfad Prüfen: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt. Fachgebiet: Betäubungsmittelrecht. Route: medizinalcannabis-therapiepfad-pruefen."
 ---
 
 # Medizinalcannabis Therapiepfad Prüfen

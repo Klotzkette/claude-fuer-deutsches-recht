@@ -1,6 +1,6 @@
 ---
 name: top-generator-emotion-zu-beschluss
-description: "Wenn es um TOP-Generator - von Emotion zu Beschluss in WEG- und Hausverwaltung geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
+description: "Für TOP-Generator - von Emotion zu Beschluss: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # TOP-Generator - von Emotion zu Beschluss

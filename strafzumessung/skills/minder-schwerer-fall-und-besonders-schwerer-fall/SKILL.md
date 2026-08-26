@@ -1,6 +1,6 @@
 ---
 name: minder-schwerer-fall-und-besonders-schwerer-fall
-description: "Wenn es um Minder schwerer Fall und besonders schwerer Fall in Strafzumessung geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Minder schwerer Fall und besonders schwerer Fall: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Minder schwerer Fall und besonders schwerer Fall

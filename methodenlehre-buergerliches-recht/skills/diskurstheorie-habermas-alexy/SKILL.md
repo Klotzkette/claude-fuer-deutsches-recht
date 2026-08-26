@@ -1,6 +1,6 @@
 ---
 name: diskurstheorie-habermas-alexy
-description: "Wenn es um Diskurstheorie und juristische Argumentation (Habermas / Alexy) in Methodenlehre bürgerliches Recht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Diskurstheorie und juristische Argumentation (Habermas / Alexy): ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Diskurstheorie und juristische Argumentation (Habermas / Alexy)

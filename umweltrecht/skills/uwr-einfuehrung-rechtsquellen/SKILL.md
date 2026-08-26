@@ -1,6 +1,6 @@
 ---
 name: uwr-einfuehrung-rechtsquellen
-description: "Wenn es um Umweltrecht: Rechtsquellen in Umweltrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Umweltrecht: Rechtsquellen: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Umweltrecht: Rechtsquellen

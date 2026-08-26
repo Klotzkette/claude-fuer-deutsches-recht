@@ -1,6 +1,6 @@
 ---
 name: vertragstypen-konsens-real-verbal-litteral
-description: "Wenn es um Vertragstypen: Konsens, Übergabe, Worte, Schrift in Römisches Recht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Vertragstypen: Konsens, Übergabe, Worte, Schrift: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Vertragstypen: Konsens, Übergabe, Worte, Schrift

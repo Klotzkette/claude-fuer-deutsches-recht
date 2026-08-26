@@ -1,6 +1,6 @@
 ---
 name: drittversuch-und-haertefall
-description: "Wenn es um Drittversuch Und Haertefall in Prüfungsrecht an Hochschulen und Universitäten geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Drittversuch und Härtefall: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Drittversuch Und Haertefall

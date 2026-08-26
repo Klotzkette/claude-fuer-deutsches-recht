@@ -1,6 +1,6 @@
 ---
 name: anhoerung-sozialverwaltungsverfahren-24-sgb-x
-description: "Wenn es um Anhörung Im Sozialverwaltungsverfahren 24 Sgb X in selbstvertreter-sozialgericht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Anhörung im Sozialverwaltungsverfahren 24 SGB X: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Anhörung Im Sozialverwaltungsverfahren 24 Sgb X

@@ -1,6 +1,6 @@
 ---
 name: hundehaltung-vergleich-suchen
-description: "Wenn es um Hundehaltung Vergleich Suchen in Tierschutzrecht geht: entwickelt Verhandlungsziel, Vergleichskorridor und Eskalationspfad; liefert eine Verhandlungs- oder Eskalationslinie mit Optionen."
+description: "Für Hundehaltung Vergleich Suchen: entwickelt Ziel, Vergleich und Eskalation; Ergebnis: Verhandlungs- oder Eskalationslinie."
 ---
 
 # Hundehaltung Vergleich Suchen

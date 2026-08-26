@@ -1,6 +1,6 @@
 ---
 name: notarvertretung-und-notariatsverwalter-organisationspflicht
-description: "Wenn es um Notarvertretung Und Notariatsverwalter Organisationspflicht in Berufsrecht Notare geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Notarvertretung und Notariatsverwalter Organisationspflicht: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Notare: notarvertretung und notariatsverwalter - Organisationspflichten, Prävention, Team-Anweisung und Fristenkontrolle

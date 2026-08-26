@@ -1,6 +1,6 @@
 ---
 name: fassungen-sonderfall-und-edge-case
-description: "Wenn es um Fassungen: Sonderfall und Edge-Case-Prüfung in Vertragsausfüller geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Fassungen: Sonderfall und Edge-Case-Prüfung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Fassungen: Sonderfall und Edge-Case-Prüfung

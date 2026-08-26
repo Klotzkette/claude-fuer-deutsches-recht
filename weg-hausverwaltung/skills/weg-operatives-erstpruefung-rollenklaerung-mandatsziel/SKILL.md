@@ -1,6 +1,6 @@
 ---
 name: weg-operatives-erstpruefung-rollenklaerung-mandatsziel
-description: "Wenn es um Operatives: Erstprüfung, Rollenklärung und Mandatsziel in WEG- und Hausverwaltung geht: klärt Rolle, Ziel, Frist, Unterlagen und den passenden nächsten Fachskill; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Operatives: Erstprüfung, Rollenklärung und Mandatsziel: routet Rolle, Frist, Unterlagen und Fachschritt; Ergebnis: Tatbestands- oder Anspruchsmatrix."
 ---
 
 # Operatives: Erstprüfung, Rollenklärung und Mandatsziel

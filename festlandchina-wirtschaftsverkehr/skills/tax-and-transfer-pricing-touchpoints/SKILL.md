@@ -1,6 +1,6 @@
 ---
 name: tax-and-transfer-pricing-touchpoints
-description: "Wenn es um Steuern und Verrechnungspreise China: EIT/DBA/Verrechnungspreise in China-Wirtschaftsverkehr geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Steuern und Verrechnungspreise China: EIT/DBA/Verrechnungspreise: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Steuern und Verrechnungspreise China: EIT/DBA/Verrechnungspreise

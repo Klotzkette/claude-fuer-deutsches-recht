@@ -1,6 +1,6 @@
 ---
 name: erwerbsminderung-reha-gutachtenstrategie
-description: "Wenn es um Erwerbsminderung Reha Gutachtenstrategie in Rentenprüfer geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
+description: "Für Erwerbsminderung Reha Gutachtenstrategie: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Verhandlungs- oder Eskalationslinie."
 ---
 
 # Erwerbsminderung Reha Gutachtenstrategie

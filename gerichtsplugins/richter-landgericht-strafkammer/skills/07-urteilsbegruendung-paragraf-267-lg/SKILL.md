@@ -1,6 +1,6 @@
 ---
 name: 07-urteilsbegruendung-paragraf-267-lg
-description: "Erstellt und prüft Urteilsgründe der Strafkammer nach Paragraf 267 StPO. Trennt persönliche Verhältnisse, Feststellungen, Beweiswürdigung, rechtliche Würdigung, Strafzumessung, Maßregeln, Einziehung und Nebenentscheidungen und liefert einen revisionsfest gegliederten Entscheidungsentwurf."
+description: "Für 07 Urteilsbegründung nach Paragraf 267 StPO: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # 07 Urteilsbegründung nach Paragraf 267 StPO

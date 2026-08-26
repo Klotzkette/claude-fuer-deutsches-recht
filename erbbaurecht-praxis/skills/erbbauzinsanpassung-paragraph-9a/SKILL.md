@@ -1,6 +1,6 @@
 ---
 name: erbbauzinsanpassung-paragraph-9a
-description: "Wenn es um Erbbauzinsanpassung in Erbbaurecht Praxis geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
+description: "Für Erbbauzinsanpassung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Erbbauzinsanpassung

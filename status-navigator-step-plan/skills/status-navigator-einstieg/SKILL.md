@@ -1,6 +1,6 @@
 ---
 name: status-navigator-einstieg
-description: "Wenn es um Einstieg: Was haben wir und was muss geschehen in Plugin: status-navigator-step-plan geht: klärt Rolle, Ziel, Frist, Unterlagen und den passenden nächsten Fachskill; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Einstieg: Was haben wir und was muss geschehen: routet Rolle, Frist, Unterlagen und Fachschritt; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Einstieg: Was haben wir und was muss geschehen

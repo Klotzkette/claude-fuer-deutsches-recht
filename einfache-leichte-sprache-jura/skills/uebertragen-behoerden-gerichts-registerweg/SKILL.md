@@ -1,6 +1,6 @@
 ---
 name: uebertragen-behoerden-gerichts-registerweg
-description: "Wenn es um Uebertragen: Behörden-, Gerichts- oder Registerweg in Einfache und Leichte Sprache für juristische Texte geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. Auswahlstichwort: Uebertragen Behoerden Gerichts Registerweg; Arbeitsfeld: Einfache und Leichte Sprache für juristische Texte."
+description: "Für Übertragen: Behörden-, Gerichts- oder Registerweg: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Einreichungsplan mit Form- und Nachweischeck. Fachgebiet: Einfache und Leichte Sprache für juristische Texte. Route: uebertragen-behoerden-gerichts-registerweg."
 ---
 
 # Uebertragen: Behörden-, Gerichts- oder Registerweg

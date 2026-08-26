@@ -1,6 +1,6 @@
 ---
 name: redteam-hochschulrecht-qualitygate
-description: "Wenn es um Redteam Hochschulrecht Qualitygate in Hochschulrecht der Bundesländer geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Redteam Hochschulrecht Qualitygate: prüft Ergebnis, Beweislast und Gegenposition; Ergebnis: Gegenprüfung mit Beweis- und Fristencheck."
 ---
 
 # Redteam Hochschulrecht Qualitygate

@@ -1,6 +1,6 @@
 ---
 name: space-047-raumfahrtrechtliche-due-diligence-beim-ma
-description: "Wenn es um Weltraumrecht: Raumfahrtrechtliche Due Diligence beim Unternehmenskauf in Weltraumrecht geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Weltraumrecht: Raumfahrtrechtliche Due Diligence beim Unternehmenskauf: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt. Fachgebiet: Weltraumrecht. Route: space-047-raumfahrtrechtliche-due-diligence-beim-ma."
 ---
 
 # Weltraumrecht: Raumfahrtrechtliche Due Diligence beim Unternehmenskauf

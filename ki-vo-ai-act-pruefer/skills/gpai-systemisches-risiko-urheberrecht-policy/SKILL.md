@@ -1,6 +1,6 @@
 ---
 name: gpai-systemisches-risiko-urheberrecht-policy
-description: "Wenn es um GPAI-Modelle mit systemischem Risiko — Art. 51 bis 55 europäischer Technikregulierungsrahmen in europäischem Technikregulierungsrecht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt. Auswahlstichwort: Gpai Systemisches Risiko Urheberrecht Policy; Arbeitsfeld: europäischem Technikregulierungsrecht."
+description: "Für GPAI-Modelle mit systemischem Risiko — Art. 51 bis 55 europäischer Technikregulierungsrahmen: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt. Fachgebiet: europäischem Technikregulierungsrecht. Route: gpai-systemisches-risiko-urheberrecht-policy."
 ---
 
 # GPAI-Modelle mit systemischem Risiko — Art. 51 bis 55 KI-VO

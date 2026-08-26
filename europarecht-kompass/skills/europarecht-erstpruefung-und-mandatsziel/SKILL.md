@@ -1,6 +1,6 @@
 ---
 name: europarecht-erstpruefung-und-mandatsziel
-description: "Wenn es um Europarecht: Erstprüfung, Rollenklärung und Mandatsziel in Europarecht-Kompass für deutsche Juristen geht: klärt Rolle, Ziel, Frist, Unterlagen und den passenden nächsten Fachskill; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Europarecht: Erstprüfung, Rollenklärung und Mandatsziel: routet Rolle, Frist, Unterlagen und Fachschritt; Ergebnis: Schnittstellenkarte mit Zuständigkeits- und Nachweisfragen."
 ---
 
 # Europarecht: Erstprüfung, Rollenklärung und Mandatsziel

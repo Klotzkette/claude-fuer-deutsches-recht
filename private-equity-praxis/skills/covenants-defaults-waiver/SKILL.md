@@ -1,6 +1,6 @@
 ---
 name: covenants-defaults-waiver
-description: "Wenn es um Covenants, Defaults und Waiver in Private Equity Praxis geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Covenants, Defaults und Waiver: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Covenants, Defaults und Waiver

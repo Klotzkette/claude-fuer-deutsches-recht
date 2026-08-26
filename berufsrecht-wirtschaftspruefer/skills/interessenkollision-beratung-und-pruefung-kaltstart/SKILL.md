@@ -1,6 +1,6 @@
 ---
 name: interessenkollision-beratung-und-pruefung-kaltstart
-description: "Wenn es um Interessenkollision Beratung Und Prüfung Kaltstart in Berufsrecht Wirtschaftsprüfer geht: klärt Rolle, Ziel, Frist, Unterlagen und den passenden nächsten Fachskill; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Interessenkollision Beratung und Prüfung Kaltstart: routet Rolle, Frist, Unterlagen und Fachschritt; Ergebnis: Tatbestands- oder Anspruchsmatrix."
 ---
 
 # Wirtschaftsprüfer: interessenkollision beratung und prüfung - Kaltstart mit Faktenmatrix, Risikoampel und fehlenden Unterlagen

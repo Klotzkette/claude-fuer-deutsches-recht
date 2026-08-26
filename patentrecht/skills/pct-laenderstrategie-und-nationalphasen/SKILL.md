@@ -1,6 +1,6 @@
 ---
 name: pct-laenderstrategie-und-nationalphasen
-description: "Wenn es um PCT und Nationalphasen in patentrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für PCT und Nationalphasen: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Verhandlungs- oder Eskalationslinie."
 ---
 
 # PCT und Nationalphasen

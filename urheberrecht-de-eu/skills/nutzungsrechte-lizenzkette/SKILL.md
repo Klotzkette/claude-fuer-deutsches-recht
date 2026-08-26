@@ -1,6 +1,6 @@
 ---
 name: nutzungsrechte-lizenzkette
-description: "Wenn es um Nutzungsrechte und Lizenzkette in Urheberrecht DE EU geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen."
+description: "Für Nutzungsrechte und Lizenzkette: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Nutzungsrechte und Lizenzkette

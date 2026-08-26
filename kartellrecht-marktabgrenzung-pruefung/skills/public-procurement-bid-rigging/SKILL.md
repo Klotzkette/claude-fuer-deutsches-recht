@@ -1,6 +1,6 @@
 ---
 name: public-procurement-bid-rigging
-description: "Wenn es um Bid Rigging und Vergabe in Kartellrecht — Marktabgrenzungsprüfung geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Bid Rigging und Vergabe: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Bid Rigging und Vergabe

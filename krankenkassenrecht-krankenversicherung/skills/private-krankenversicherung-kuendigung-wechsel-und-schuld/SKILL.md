@@ -1,6 +1,6 @@
 ---
 name: private-krankenversicherung-kuendigung-wechsel-und-schuld
-description: "Wenn es um PKV: Kündigung, Wechsel und Schulden in Krankenkassenrecht und Krankenversicherung geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für PKV: Kündigung, Wechsel und Schulden: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # PKV: Kündigung, Wechsel und Schulden

@@ -1,6 +1,6 @@
 ---
 name: provisionsanspruch-paragraf87
-description: "Wenn es um Provisionsanspruch nach Paragraf 87 HGB — Entstehung, Fälligkeit und Durchsetzung in Handelsvertreterrecht und Vertriebsverträge geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Provisionsanspruch nach Paragraf 87 HGB — Entstehung, Fälligkeit und Durchsetzung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Tatbestands- oder Anspruchsmatrix."
 ---
 
 # Provisionsanspruch nach § 87 HGB — Entstehung, Fälligkeit und Durchsetzung

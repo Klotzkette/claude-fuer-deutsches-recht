@@ -1,6 +1,6 @@
 ---
 name: gpai-urheberrecht-policy-art-53
-description: "Wenn es um GPAI: Urheberrechtliche Policy nach Art. 53 europäischer Technikregulierungsrahmen in europäischem Technikregulierungsrecht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
+description: "Für GPAI: Urheberrechtliche Policy nach Art. 53 europäischer Technikregulierungsrahmen: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # GPAI: Urheberrechtliche Policy nach Art. 53 KI-VO

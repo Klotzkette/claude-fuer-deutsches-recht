@@ -1,6 +1,6 @@
 ---
 name: zielgruppe-sprachniveau-rechtsinhalt
-description: "Wenn es um Zielgruppe, Sprachniveau und gesicherter Rechtsinhalt in Einfache und Leichte Sprache für juristische Texte geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen."
+description: "Für Zielgruppe, Sprachniveau und gesicherter Rechtsinhalt: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Zielgruppe, Sprachniveau und gesicherter Rechtsinhalt

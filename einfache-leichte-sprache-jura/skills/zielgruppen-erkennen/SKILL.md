@@ -1,6 +1,6 @@
 ---
 name: zielgruppen-erkennen
-description: "Wenn es um ELS-J: Zielgruppen erkennen in Einfache und Leichte Sprache für juristische Texte geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen."
+description: "Für ELS-J: Zielgruppen erkennen: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # ELS-J: Zielgruppen erkennen

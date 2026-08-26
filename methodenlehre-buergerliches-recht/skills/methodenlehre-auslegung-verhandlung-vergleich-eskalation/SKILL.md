@@ -1,6 +1,6 @@
 ---
 name: methodenlehre-auslegung-verhandlung-vergleich-eskalation
-description: "Wenn es um Auslegung, Verhandlung, Vergleich und Eskalation in Methodenlehre bürgerliches Recht geht: entwickelt Verhandlungsziel, Vergleichskorridor und Eskalationspfad; liefert eine Verhandlungs- oder Eskalationslinie mit Optionen."
+description: "Für Auslegung, Verhandlung, Vergleich und Eskalation: entwickelt Ziel, Vergleich und Eskalation; Ergebnis: Verhandlungs- oder Eskalationslinie."
 ---
 
 # Auslegung, Verhandlung, Vergleich und Eskalation

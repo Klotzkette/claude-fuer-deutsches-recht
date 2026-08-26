@@ -1,6 +1,6 @@
 ---
 name: faq-explainer-rechtsfrage
-description: "Wenn es um FAQ und Explainer Rechtsfrage in Juristische Presseberichterstattung geht: erklärt juristische Streitfragen als FAQ oder Hintergrundstück mit klarer Sprache und ohne Scheinsicherheit."
+description: "Für FAQ und Explainer Rechtsfrage: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # FAQ und Explainer Rechtsfrage

@@ -1,6 +1,6 @@
 ---
 name: interessenkollision-beratung-interne
-description: "Wenn es um Interessenkollision Beratung Interne in Berufsrecht Wirtschaftsprüfer geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Gegenprüfung mit Fehler-, Beweis- und Fristencheck."
+description: "Für Interessenkollision Beratung Interne: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Wirtschaftsprüfer: interessenkollision beratung und prüfung - Rechtsprechungscheck, stärkste Gegenansicht und Red-Team-Korrektur

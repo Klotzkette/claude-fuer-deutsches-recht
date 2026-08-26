@@ -1,6 +1,6 @@
 ---
 name: papierform-sozialgericht-abschriften
-description: "Wenn es um Klage per Post einreichen — mit Abschriften in selbstvertreter-sozialgericht geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
+description: "Für Klage per Post einreichen — mit Abschriften: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Klage per Post einreichen — mit Abschriften

@@ -1,6 +1,6 @@
 ---
 name: vertragshaendler-abgrenzung
-description: "Wenn es um Vertragshändler vs. Handelsvertreter: Abgrenzung und analoger Ausgleichsanspruch in Handelsvertreterrecht und Vertriebsverträge geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
+description: "Für Vertragshändler vs. Handelsvertreter: Abgrenzung und analoger Ausgleichsanspruch: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Vertragshändler vs. Handelsvertreter: Abgrenzung und analoger Ausgleichsanspruch

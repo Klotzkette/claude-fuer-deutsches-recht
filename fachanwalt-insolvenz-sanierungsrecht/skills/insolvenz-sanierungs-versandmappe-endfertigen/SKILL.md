@@ -1,6 +1,6 @@
 ---
 name: insolvenz-sanierungs-versandmappe-endfertigen
-description: "Endfertigt Insolvenz-, Eigenverwaltungs-, StaRUG-, Anfechtungs- und Tabellenfeststellungsunterlagen: trennt Insolvenzgericht, Restrukturierungsgericht und Prozessgericht, prüft Antrag, Planstand, Liquiditätsbelege, Gläubigergruppen und Glaubhaftmachung, erzeugt getrennte Einzel-PDFs und liefert gerichtsspezifische Versandmappen mit fortgeführtem Anlagenkreis und Eingangscheck."
+description: "Endfertigt Insolvenz-, Eigenverwaltungs-, StaRUG-, Anfechtungs- und Tabellenfeststellungsunterlagen: trennt Insolvenzgericht, Restrukturierungsgericht und Prozessgericht, prüft Antrag, Planstand, Liquiditätsbelege, Gläubigergruppen und Glaubhaftmachung, erzeugt getrennte Einzel-PDFs und liefert gerichtsspezifische Versandmappen mit fortgeführtem."
 ---
 
 # Insolvenz- und Sanierungsversandmappe endfertigen

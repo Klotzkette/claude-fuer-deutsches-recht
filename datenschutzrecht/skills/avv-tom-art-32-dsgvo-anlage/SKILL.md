@@ -1,6 +1,6 @@
 ---
 name: avv-tom-art-32-dsgvo-anlage
-description: "Wenn es um TOM-Anlage Art. 32 DSGVO in Datenschutzrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für TOM-Anlage Art. 32 DSGVO: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # TOM-Anlage Art. 32 DSGVO

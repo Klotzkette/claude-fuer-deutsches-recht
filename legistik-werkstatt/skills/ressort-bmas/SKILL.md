@@ -1,6 +1,6 @@
 ---
 name: ressort-bmas
-description: "Wenn es um Ressort-Heranfuehrung BMAS in Legistik-Werkstatt geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Ressort-Heranführung BMAS: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Ressort-Heranfuehrung BMAS

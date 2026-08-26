@@ -1,6 +1,6 @@
 ---
 name: kv-029-pkv-leistungspflicht-medizinische-notwendigkeit
-description: "Wenn es um Krankenversicherung: PKV Leistungspflicht medizinische Notwendigkeit in Krankenkassenrecht und Krankenversicherung geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Krankenversicherung: PKV Leistungspflicht medizinische Notwendigkeit: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Krankenversicherung: PKV Leistungspflicht medizinische Notwendigkeit

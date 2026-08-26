@@ -1,6 +1,6 @@
 ---
 name: dolmetscher-und-sprachrisiko-rechtsprechungscheck-und-re
-description: "Wenn es um Dolmetscher Und Sprachrisiko Rechtsprechungscheck Und Re in Berufsrecht Notare geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Gegenprüfung mit Fehler-, Beweis- und Fristencheck."
+description: "Für Dolmetscher und Sprachrisiko Rechtsprechungscheck und Re: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Notare: dolmetscher und sprachrisiko - Rechtsprechungscheck, stärkste Gegenansicht und Red-Team-Korrektur

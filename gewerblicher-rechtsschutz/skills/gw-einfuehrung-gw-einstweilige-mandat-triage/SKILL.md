@@ -1,6 +1,6 @@
 ---
 name: gw-einfuehrung-gw-einstweilige-mandat-triage
-description: "Wenn es um GewR: Einführung – Rechtsschutzwege im Überblick in Plugin: Gewerblicher Rechtsschutz geht: klärt Rolle, Ziel, Frist, Unterlagen und den passenden nächsten Fachskill; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
+description: "Für GewR: Einführung – Rechtsschutzwege im Überblick: routet Rolle, Frist, Unterlagen und Fachschritt; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # GewR: Einführung – Rechtsschutzwege im Überblick

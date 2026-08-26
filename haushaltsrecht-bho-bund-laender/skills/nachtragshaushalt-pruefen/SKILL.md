@@ -1,6 +1,6 @@
 ---
 name: nachtragshaushalt-pruefen
-description: "Wenn es um Nachtragshaushalt Prüfen in Haushaltsrecht BHO Bund und Länder geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Nachtragshaushalt Prüfen: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Nachtragshaushalt Prüfen

@@ -1,6 +1,6 @@
 ---
 name: rechtsabteilung-cyberversicherung-nach-ransomware
-description: "Wenn es um Rechtsabteilung: Cyberversicherung nach Ransomware in Versicherungsrecht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
+description: "Für Rechtsabteilung: Cyberversicherung nach Ransomware: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Rechtsabteilung: Cyberversicherung nach Ransomware

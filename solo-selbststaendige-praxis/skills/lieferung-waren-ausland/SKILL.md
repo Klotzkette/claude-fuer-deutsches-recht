@@ -1,6 +1,6 @@
 ---
 name: lieferung-waren-ausland
-description: "Wenn es um Internationales und Auslandskunden: Prüft zoll in Solo-Selbstständige Praxis geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Internationales und Auslandskunden: Prüft zoll: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Schnittstellenkarte mit Zuständigkeits- und Nachweisfragen."
 ---
 
 # Internationales und Auslandskunden: Prüft zoll

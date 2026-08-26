@@ -1,6 +1,6 @@
 ---
 name: nachforderungen-quellenkarte
-description: "Wenn es um Nachforderungen Quellenkarte in Insolvenzforderungsanmeldungsprüfung geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Tatbestands- oder Anspruchsmatrix mit Gegenargumenten."
+description: "Für Nachforderungen Quellenkarte: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Nachforderungen Quellenkarte

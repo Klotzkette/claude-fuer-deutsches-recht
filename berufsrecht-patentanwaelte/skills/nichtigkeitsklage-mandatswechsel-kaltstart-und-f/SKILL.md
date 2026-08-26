@@ -1,6 +1,6 @@
 ---
 name: nichtigkeitsklage-mandatswechsel-kaltstart-und-f
-description: "Wenn es um Nichtigkeitsklage Mandatswechsel Kaltstart Und F in Berufsrecht Patentanwälte geht: klärt Rolle, Ziel, Frist, Unterlagen und den passenden nächsten Fachskill; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Nichtigkeitsklage Mandatswechsel Kaltstart und F: routet Rolle, Frist, Unterlagen und Fachschritt; Ergebnis: Schriftsatz mit Begründungs- und Anlagenlogik."
 ---
 
 # Patentanwälte: nichtigkeitsklage mandatswechsel - Kaltstart mit Faktenmatrix, Risikoampel und fehlenden Unterlagen

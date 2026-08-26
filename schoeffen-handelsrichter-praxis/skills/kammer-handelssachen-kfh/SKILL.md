@@ -1,6 +1,6 @@
 ---
 name: kammer-handelssachen-kfh
-description: "Wenn es um Handelsrichter in der Kammer für Handelssachen in Schöffen und Handelsrichter Praxis geht: entwickelt Verhandlungsziel, Vergleichskorridor und Eskalationspfad; liefert eine Verhandlungs- oder Eskalationslinie mit Optionen."
+description: "Für Handelsrichter in der Kammer für Handelssachen: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Handelsrichter in der Kammer für Handelssachen

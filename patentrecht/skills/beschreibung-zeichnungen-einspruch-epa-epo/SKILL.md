@@ -1,6 +1,6 @@
 ---
 name: beschreibung-zeichnungen-einspruch-epa-epo
-description: "Wenn es um Beschreibung und Zeichnungen prüfen in patentrecht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Tatbestands- oder Anspruchsmatrix mit Gegenargumenten."
+description: "Für Beschreibung und Zeichnungen prüfen: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Beschreibung und Zeichnungen prüfen

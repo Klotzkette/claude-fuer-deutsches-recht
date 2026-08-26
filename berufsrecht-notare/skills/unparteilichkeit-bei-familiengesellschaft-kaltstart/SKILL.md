@@ -1,6 +1,6 @@
 ---
 name: unparteilichkeit-bei-familiengesellschaft-kaltstart
-description: "Wenn es um Unparteilichkeit Bei Familiengesellschaft Kaltstart in Berufsrecht Notare geht: klärt Rolle, Ziel, Frist, Unterlagen und den passenden nächsten Fachskill; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Unparteilichkeit bei Familiengesellschaft Kaltstart: routet Rolle, Frist, Unterlagen und Fachschritt; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Notare: unparteilichkeit bei familiengesellschaft - Kaltstart mit Faktenmatrix, Risikoampel und fehlenden Unterlagen

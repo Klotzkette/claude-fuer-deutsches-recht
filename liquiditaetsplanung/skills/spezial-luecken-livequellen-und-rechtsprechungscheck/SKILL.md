@@ -1,6 +1,6 @@
 ---
 name: spezial-luecken-livequellen-und-rechtsprechungscheck
-description: "Wenn es um Luecken: Livequellen- und Rechtsprechungscheck in Liquiditätsplanung — Power geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Lücken: Livequellen- und Rechtsprechungscheck: ordnet Akte, Belege und Lücken; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Luecken: Livequellen- und Rechtsprechungscheck

@@ -1,6 +1,6 @@
 ---
 name: franchise-agb
-description: "Wenn es um Franchise AGB in AGB-Recht-Prüfer geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen. Auswahlstichwort: Franchise Agb; Arbeitsfeld: AGB-Recht-Prüfer."
+description: "Für Franchise AGB: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt. Fachgebiet: AGB-Recht-Prüfer. Route: franchise-agb."
 ---
 
 # Franchise AGB

@@ -1,6 +1,6 @@
 ---
 name: aussenwirtschaft-zollwert-royalties-assists
-description: "Wenn es um Zollwert: Lizenzgebuehren Assists und Hinzurechnungen nach UZK Art. 71 in Außenwirtschaft, Sanktionen, Zoll und CBAM geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Berechnungstabelle mit Schwellen, Annahmen und Kontrollfragen."
+description: "Für Zollwert: Lizenzgebühren Assists und Hinzurechnungen nach UZK Art. 71: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Zollwert: Lizenzgebuehren Assists und Hinzurechnungen nach UZK Art. 71

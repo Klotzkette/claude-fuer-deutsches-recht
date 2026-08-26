@@ -1,6 +1,6 @@
 ---
 name: fachanwalt-transport-speditionsrecht-ladungsschaden
-description: "Wenn es um Ladungsschaden – Innerdeutscher Frachtverkehr (HGB) in Fachanwalt Transport Speditionsrecht geht: rechnet Schwellen, Beträge, Varianten und Kontrollannahmen durch; liefert eine Berechnungstabelle mit Schwellen, Annahmen und Kontrollfragen."
+description: "Für Ladungsschaden – Innerdeutscher Frachtverkehr (HGB): ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Ladungsschaden – Innerdeutscher Frachtverkehr (HGB)

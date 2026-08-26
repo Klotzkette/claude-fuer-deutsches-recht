@@ -1,6 +1,6 @@
 ---
 name: fran-038-tankstellen-franchise-handelsvertreternaehe
-description: "Wenn es um Franchiserecht: Tankstellen Franchise Handelsvertreternähe in Franchiserecht Praxis geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Franchiserecht: Tankstellen Franchise Handelsvertreternähe: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Franchiserecht: Tankstellen Franchise Handelsvertreternähe

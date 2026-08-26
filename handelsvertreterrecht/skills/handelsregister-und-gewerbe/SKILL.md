@@ -1,6 +1,6 @@
 ---
 name: handelsregister-und-gewerbe
-description: "Wenn es um Handelsregister Und Gewerbe in Handelsvertreterrecht und Vertriebsverträge geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Handelsregister und Gewerbe: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Einreichungsplan mit Form- und Nachweischeck."
 ---
 
 # Handelsregister Und Gewerbe

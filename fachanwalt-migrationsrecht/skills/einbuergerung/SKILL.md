@@ -1,6 +1,6 @@
 ---
 name: einbuergerung
-description: "Wenn es um Antrag auf Einbuergerung nach StAG in Fachanwalt Migrationsrecht geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Antrag auf Einbürgerung nach StAG: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Antrag auf Einbuergerung nach StAG

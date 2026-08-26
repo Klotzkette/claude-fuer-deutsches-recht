@@ -1,6 +1,6 @@
 ---
 name: humanstudie-ethik-ifg-transparenz
-description: "Wenn es um Humanstudie Ethik und Datenschutz in Hochschulrecht der Bundesländer geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Humanstudie Ethik und Datenschutz: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Humanstudie Ethik und Datenschutz

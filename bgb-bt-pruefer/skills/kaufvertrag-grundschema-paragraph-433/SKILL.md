@@ -1,6 +1,6 @@
 ---
 name: kaufvertrag-grundschema-paragraph-433
-description: "Wenn es um Kaufvertrag Grundschema Paragraf 433 BGB in BGB BT Prüfer geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Kaufvertrag Grundschema Paragraf 433 BGB: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Kaufvertrag Grundschema § 433 BGB

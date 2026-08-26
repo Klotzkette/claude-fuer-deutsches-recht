@@ -1,6 +1,6 @@
 ---
 name: maschine-oder-unvollstaendige
-description: "Wenn es um Maschine oder unvollständige Maschine in robotik-recht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Maschine oder unvollständige Maschine: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt. Fachgebiet: robotik-recht. Route: maschine-oder-unvollstaendige."
 ---
 
 # Maschine oder unvollständige Maschine

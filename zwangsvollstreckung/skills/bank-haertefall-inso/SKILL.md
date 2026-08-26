@@ -1,6 +1,6 @@
 ---
 name: bank-haertefall-inso
-description: "Wenn es um Bank: Behörden-, Gerichts- oder Registerweg in Zwangsvollstreckung geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Bank: Behörden-, Gerichts- oder Registerweg: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Bank: Behörden-, Gerichts- oder Registerweg

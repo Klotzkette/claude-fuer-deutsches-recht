@@ -1,6 +1,6 @@
 ---
 name: einsprachige-vertragsfassung
-description: "Wenn es um Einsprachige Vertragsfassung (nur DE) in Wandeldarlehen-Lebenszyklus geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Einsprachige Vertragsfassung (nur DE): ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Einsprachige Vertragsfassung (nur DE)

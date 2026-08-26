@@ -1,6 +1,6 @@
 ---
 name: sortiert-stempelt-word
-description: "Wenn es um Schriftsatz: Verhandlung, Vergleich und Eskalation in Anlagen zu Schriftsätzen geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
+description: "Für Schriftsatz: Verhandlung, Vergleich und Eskalation: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Schriftsatz: Verhandlung, Vergleich und Eskalation

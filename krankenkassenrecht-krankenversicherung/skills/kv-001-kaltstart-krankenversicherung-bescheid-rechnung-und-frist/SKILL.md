@@ -1,6 +1,6 @@
 ---
 name: kv-001-kaltstart-krankenversicherung-bescheid-rechnung-und-frist
-description: "Wenn es um Krankenversicherung: Kaltstart Krankenversicherung Bescheid Rechnung und Frist in Krankenkassenrecht und Krankenversicherung geht: klärt Rolle, Ziel, Frist, Unterlagen und den passenden nächsten Fachskill; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Krankenversicherung: Kaltstart Krankenversicherung Bescheid Rechnung und Frist: routet Rolle, Frist, Unterlagen und Fachschritt; Ergebnis: Fristen- und Risikoampel."
 ---
 
 # Krankenversicherung: Kaltstart Krankenversicherung Bescheid Rechnung und Frist

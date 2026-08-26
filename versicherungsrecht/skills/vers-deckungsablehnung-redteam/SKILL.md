@@ -1,6 +1,6 @@
 ---
 name: vers-deckungsablehnung-redteam
-description: "Wenn es um Deckungsablehnung Red-Team in Versicherungsrecht geht: entwickelt Verhandlungsziel, Vergleichskorridor und Eskalationspfad; liefert eine Beweislast- und Substantiierungsmatrix."
+description: "Für Deckungsablehnung Red-Team: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Deckungsablehnung Red-Team

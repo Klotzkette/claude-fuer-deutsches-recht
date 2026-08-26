@@ -1,6 +1,6 @@
 ---
 name: sftf-arbeitsvertraege-nachweisgesetz
-description: "Wenn es um SfTf: Nachweisgesetz Arbeit in Schriftform und Textform im BGB geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für SfTf: Nachweisgesetz Arbeit: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # SfTf: Nachweisgesetz Arbeit

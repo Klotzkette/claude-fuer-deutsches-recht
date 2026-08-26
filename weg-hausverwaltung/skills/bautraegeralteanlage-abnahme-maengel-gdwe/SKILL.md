@@ -1,6 +1,6 @@
 ---
 name: bautraegeralteanlage-abnahme-maengel-gdwe
-description: "Wenn es um Bauträger-Altanlage: Abnahme, Mängel und GdWE in WEG- und Hausverwaltung geht: entwickelt Verhandlungsziel, Vergleichskorridor und Eskalationspfad; liefert eine Beweislast- und Substantiierungsmatrix."
+description: "Für Bauträger-Altanlage: Abnahme, Mängel und GdWE: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Bauträger-Altanlage: Abnahme, Mängel und GdWE

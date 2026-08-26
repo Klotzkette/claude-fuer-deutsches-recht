@@ -1,6 +1,6 @@
 ---
 name: selbstkontrolle-vor-abgabe
-description: "Wenn es um Selbst-Kontrolle vor Abgabe in hausarbeitenmacher — Didaktisches Plugin für juristische geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Selbst-Kontrolle vor Abgabe: prüft Ergebnis, Beweislast und Gegenposition; Ergebnis: Gegenprüfung mit Beweis- und Fristencheck."
 ---
 
 # Selbst-Kontrolle vor Abgabe

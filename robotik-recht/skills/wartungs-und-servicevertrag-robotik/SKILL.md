@@ -1,6 +1,6 @@
 ---
 name: wartungs-und-servicevertrag-robotik
-description: "Wenn es um Wartungs- und Servicevertrag in robotik-recht geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
+description: "Für Wartungs- und Servicevertrag: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Wartungs- und Servicevertrag

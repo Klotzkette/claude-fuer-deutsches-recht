@@ -1,6 +1,6 @@
 ---
 name: art-5-meinung-presse-mehrdeutigkeit
-description: "Wenn es um Art. 5 GG: Meinung, Presse und Mehrdeutigkeit in verfassungsrecht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen."
+description: "Für Art. 5 GG: Meinung, Presse und Mehrdeutigkeit: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Schnittstellenkarte mit Zuständigkeits- und Nachweisfragen."
 ---
 
 # Art. 5 GG: Meinung, Presse und Mehrdeutigkeit

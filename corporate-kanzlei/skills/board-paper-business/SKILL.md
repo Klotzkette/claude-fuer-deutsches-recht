@@ -1,6 +1,6 @@
 ---
 name: board-paper-business
-description: "Wenn es um Board Paper und Business Judgment in Corporate-Kanzlei geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. Auswahlstichwort: Board Paper Business; Arbeitsfeld: Corporate-Kanzlei."
+description: "Für Board Paper und Business Judgment: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt. Fachgebiet: Corporate-Kanzlei. Route: board-paper-business."
 ---
 
 # Board Paper und Business Judgment

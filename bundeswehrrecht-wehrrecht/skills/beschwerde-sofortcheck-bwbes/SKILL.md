@@ -1,6 +1,6 @@
 ---
 name: beschwerde-sofortcheck-bwbes
-description: "Wenn es um Beschwerde-Fristen Sofortcheck (WBO) in Bundeswehrrecht und Wehrrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Beschwerde-Fristen Sofortcheck (WBO): ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Beschwerde-Fristen Sofortcheck (WBO)

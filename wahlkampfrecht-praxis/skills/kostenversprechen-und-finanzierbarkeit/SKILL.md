@@ -1,6 +1,6 @@
 ---
 name: kostenversprechen-und-finanzierbarkeit
-description: "Wenn es um Kostenversprechen Und Finanzierbarkeit in Wahlkampfrecht Praxis geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Kostenversprechen und Finanzierbarkeit: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Kostenversprechen Und Finanzierbarkeit

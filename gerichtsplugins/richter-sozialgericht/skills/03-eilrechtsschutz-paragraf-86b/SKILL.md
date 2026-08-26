@@ -1,6 +1,6 @@
 ---
 name: 03-eilrechtsschutz-paragraf-86b
-description: "Wenn es um 03 Eilrechtsschutz Paragraf 86B in Sozialgericht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für 03 Eilrechtsschutz Paragraf 86B: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # 03 Eilrechtsschutz Paragraf 86B

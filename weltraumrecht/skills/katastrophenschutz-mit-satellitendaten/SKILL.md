@@ -1,6 +1,6 @@
 ---
 name: katastrophenschutz-mit-satellitendaten
-description: "Wenn es um Weltraumrecht: Katastrophenschutz mit Satellitendaten in Weltraumrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Weltraumrecht: Katastrophenschutz mit Satellitendaten: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Weltraumrecht: Katastrophenschutz mit Satellitendaten

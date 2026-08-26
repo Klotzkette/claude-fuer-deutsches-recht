@@ -1,6 +1,6 @@
 ---
 name: aerztliche-begutachtung-dienstfaehigkeit
-description: "Wenn es um Ärztliche Begutachtung und Dienstfähigkeit in Bundeswehrrecht und Wehrrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Ärztliche Begutachtung und Dienstfähigkeit: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Ärztliche Begutachtung und Dienstfähigkeit

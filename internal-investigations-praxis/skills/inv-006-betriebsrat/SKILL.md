@@ -1,6 +1,6 @@
 ---
 name: inv-006-betriebsrat
-description: "Wenn es um Betriebsrat und Mitbestimmung in Internal Investigations Praxis geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Betriebsrat und Mitbestimmung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Betriebsrat und Mitbestimmung

@@ -1,6 +1,6 @@
 ---
 name: denkmalschutz-schleswig-holstein-dschg-sh
-description: "Wenn es um Denkmalschutz Schleswig-Holstein (DSchG-SH) in Denkmalschutzrecht — Bundesweiter Rahmen und sechzehn geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Denkmalschutz Schleswig-Holstein (DSchG-SH): ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Denkmalschutz Schleswig-Holstein (DSchG-SH)

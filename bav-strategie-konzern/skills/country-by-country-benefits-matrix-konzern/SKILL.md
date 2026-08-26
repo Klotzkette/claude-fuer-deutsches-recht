@@ -1,6 +1,6 @@
 ---
 name: country-by-country-benefits-matrix-konzern
-description: "Wenn es um Country-by-Country Benefits-Matrix für Konzerne in BAV Strategie Konzern — Treuenfels Yamamoto Rechtsanwälte geht: entwickelt Verhandlungsziel, Vergleichskorridor und Eskalationspfad; liefert eine Verhandlungs- oder Eskalationslinie mit Optionen."
+description: "Für Country-by-Country Benefits-Matrix für Konzerne: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Country-by-Country Benefits-Matrix für Konzerne

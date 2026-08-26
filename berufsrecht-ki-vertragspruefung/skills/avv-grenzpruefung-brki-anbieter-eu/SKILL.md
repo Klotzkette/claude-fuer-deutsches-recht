@@ -1,6 +1,6 @@
 ---
 name: avv-grenzpruefung-brki-anbieter-eu
-description: "Wenn es um AVV-Grenzprüfung Datenschutz in diesem Spezialbereich geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Beweislast- und Substantiierungsmatrix Stichwort für die Auswahl: Avv Grenzpruefung Brki Anbieter EU."
+description: "Für AVV-Grenzprüfung Datenschutz: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Schnittstellenkarte mit Zuständigkeits- und Nachweisfragen."
 ---
 
 # AVV-Grenzprüfung Datenschutz

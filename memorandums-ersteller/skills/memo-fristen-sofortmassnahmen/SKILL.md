@@ -1,6 +1,6 @@
 ---
 name: memo-fristen-sofortmassnahmen
-description: "Wenn es um Memo: Fristen und Sofortmassnahmen in Memorandums-Ersteller geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Memo: Fristen und Sofortmassnahmen: erstellt Entwurf mit Antrag, Beweis und Anlagen; Ergebnis: Fristen- und Risikoampel."
 ---
 
 # Memo: Fristen und Sofortmassnahmen

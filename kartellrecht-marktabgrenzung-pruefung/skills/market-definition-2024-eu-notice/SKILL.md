@@ -1,6 +1,6 @@
 ---
 name: market-definition-2024-eu-notice
-description: "Wenn es um EU Marktdefinitionsbekanntmachung 2024 in Kartellrecht — Marktabgrenzungsprüfung geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für EU Marktdefinitionsbekanntmachung 2024: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Schnittstellenkarte mit Zuständigkeits- und Nachweisfragen."
 ---
 
 # EU Marktdefinitionsbekanntmachung 2024

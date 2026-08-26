@@ -1,6 +1,6 @@
 ---
 name: vorladung-polizei-zeuge-beschuldigter
-description: "Wenn es um Vorladung Polizei: Zeuge oder Beschuldigter in Verbraucher im Rechtsstaat Alltag geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen."
+description: "Für Vorladung Polizei: Zeuge oder Beschuldigter: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Schnittstellenkarte mit Zuständigkeits- und Nachweisfragen."
 ---
 
 # Vorladung Polizei: Zeuge oder Beschuldigter

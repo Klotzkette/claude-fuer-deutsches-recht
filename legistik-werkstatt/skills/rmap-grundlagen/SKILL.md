@@ -1,6 +1,6 @@
 ---
 name: rmap-grundlagen
-description: "Wenn es um Rulemapping - Grundlagen und Begriffe in Legistik-Werkstatt geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen."
+description: "Für Rulemapping - Grundlagen und Begriffe: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Rulemapping - Grundlagen und Begriffe

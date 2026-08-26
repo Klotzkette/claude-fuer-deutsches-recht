@@ -1,6 +1,6 @@
 ---
 name: personenschaden-paragraf-249-bgb
-description: "Wenn es um Personenschaden Paragraf 249 BGB in Fachanwalt Verkehrsrecht geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Personenschaden Paragraf 249 BGB: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Personenschaden § 249 BGB

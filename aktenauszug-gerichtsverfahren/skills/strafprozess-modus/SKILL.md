@@ -1,6 +1,6 @@
 ---
 name: strafprozess-modus
-description: "Wenn es um Strafprozess-Modus (StPO) in aktenauszug-gerichtsverfahren geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Strafprozess-Modus (StPO): ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Strafprozess-Modus (StPO)

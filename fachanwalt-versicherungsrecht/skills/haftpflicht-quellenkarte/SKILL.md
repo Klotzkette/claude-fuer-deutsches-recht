@@ -1,6 +1,6 @@
 ---
 name: haftpflicht-quellenkarte
-description: "Wenn es um Haftpflicht Quellenkarte in Fachanwalt Versicherungsrecht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Tatbestands- oder Anspruchsmatrix mit Gegenargumenten."
+description: "Für Haftpflicht Quellenkarte: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Haftpflicht Quellenkarte

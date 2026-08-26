@@ -1,6 +1,6 @@
 ---
 name: vergleich-sonderfall-und-edge-case
-description: "Wenn es um Vergleich: Sonderfall und Edge-Case-Prüfung in Nachbarschaftsstreit-Prüfer geht: entwickelt Verhandlungsziel, Vergleichskorridor und Eskalationspfad; liefert eine Verhandlungs- oder Eskalationslinie mit Optionen."
+description: "Für Vergleich: Sonderfall und Edge-Case-Prüfung: entwickelt Ziel, Vergleich und Eskalation; Ergebnis: Verhandlungs- oder Eskalationslinie."
 ---
 
 # Vergleich: Sonderfall und Edge-Case-Prüfung

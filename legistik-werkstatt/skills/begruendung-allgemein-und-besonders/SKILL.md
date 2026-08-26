@@ -1,6 +1,6 @@
 ---
 name: begruendung-allgemein-und-besonders
-description: "Wenn es um Begründung allgemein und besonders in Legistik-Werkstatt geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Begründung allgemein und besonders: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Begründung allgemein und besonders

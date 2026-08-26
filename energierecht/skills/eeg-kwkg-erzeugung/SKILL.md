@@ -1,6 +1,6 @@
 ---
 name: eeg-kwkg-erzeugung
-description: "Wenn es um EEG, KWKG und Erzeugung erneuerbarer Energien in Energierecht geht: rechnet Schwellen, Beträge, Varianten und Kontrollannahmen durch; liefert eine Berechnungstabelle mit Schwellen, Annahmen und Kontrollfragen."
+description: "Für EEG, KWKG und Erzeugung erneuerbarer Energien: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Schnittstellenkarte mit Zuständigkeits- und Nachweisfragen."
 ---
 
 # EEG, KWKG und Erzeugung erneuerbarer Energien

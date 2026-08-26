@@ -1,6 +1,6 @@
 ---
 name: dba-grenzgaenger-schweiz-60-tage
-description: "Wenn es um Grenzgaengerregelung DBA-Schweiz (Art. 15a, 60-Tage-Schaedlichkeit) in Steuerrecht – Steuerberater und Anwälte geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
+description: "Für Grenzgängerregelung DBA-Schweiz (Art. 15a, 60-Tage-Schädlichkeit): ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Grenzgaengerregelung DBA-Schweiz (Art. 15a, 60-Tage-Schaedlichkeit)

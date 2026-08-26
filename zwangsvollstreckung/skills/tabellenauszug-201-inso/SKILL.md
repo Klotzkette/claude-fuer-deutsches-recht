@@ -1,6 +1,6 @@
 ---
 name: tabellenauszug-201-inso
-description: "Wenn es um Vollstreckung aus Tabellenauszug Paragraf 201 InsO in Zwangsvollstreckung geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Vollstreckung aus Tabellenauszug Paragraf 201 InsO: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Vollstreckung aus Tabellenauszug § 201 InsO

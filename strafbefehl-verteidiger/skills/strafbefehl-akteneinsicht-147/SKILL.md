@@ -1,6 +1,6 @@
 ---
 name: strafbefehl-akteneinsicht-147
-description: "Wenn es um Akteneinsicht im Strafbefehlsverfahren — Paragraf 147 StPO in Strafbefehl-Verteidiger geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
+description: "Für Akteneinsicht im Strafbefehlsverfahren — Paragraf 147 StPO: ordnet Akte, Belege und Lücken; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Akteneinsicht im Strafbefehlsverfahren — § 147 StPO

@@ -1,6 +1,6 @@
 ---
 name: verleumdung-187
-description: "Wenn es um Paragraf 187 StGB - Verleumdung in Meinungsprüfer geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Paragraf 187 StGB - Verleumdung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Schnittstellenkarte mit Zuständigkeits- und Nachweisfragen."
 ---
 
 # § 187 StGB - Verleumdung

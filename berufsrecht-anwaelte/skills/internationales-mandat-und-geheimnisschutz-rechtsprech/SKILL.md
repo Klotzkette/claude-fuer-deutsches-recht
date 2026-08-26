@@ -1,6 +1,6 @@
 ---
 name: internationales-mandat-und-geheimnisschutz-rechtsprech
-description: "Wenn es um Internationales Mandat Und Geheimnisschutz Rechtsprech in Berufsrecht Anwälte geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Gegenprüfung mit Fehler-, Beweis- und Fristencheck."
+description: "Für Internationales Mandat und Geheimnisschutz Rechtsprech: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Schnittstellenkarte mit Zuständigkeits- und Nachweisfragen."
 ---
 
 # Anwälte: internationales mandat und geheimnisschutz - Rechtsprechungscheck, stärkste Gegenansicht und Red-Team-Korrektur

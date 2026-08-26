@@ -1,6 +1,6 @@
 ---
 name: rdg-pruefung-chatbot
-description: "Wenn es um RDG-Prüfung Chatbot in Kanzleirichtlinien für digitale Werkzeuge geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für RDG-Prüfung Chatbot: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Tatbestands- oder Anspruchsmatrix."
 ---
 
 # RDG-Prüfung Chatbot

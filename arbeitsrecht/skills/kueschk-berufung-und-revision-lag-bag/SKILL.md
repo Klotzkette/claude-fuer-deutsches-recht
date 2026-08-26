@@ -1,6 +1,6 @@
 ---
 name: kueschk-berufung-und-revision-lag-bag
-description: "Wenn es um Kueschk Berufung Und Revision Lag Bag in Arbeitsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Kueschk Berufung und Revision Lag Bag: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Berufung beim Landesarbeitsgericht und Revision beim BAG: Fristen je einen Monat und zwei Monate

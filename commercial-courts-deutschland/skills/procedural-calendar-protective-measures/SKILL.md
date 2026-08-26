@@ -1,6 +1,6 @@
 ---
 name: procedural-calendar-protective-measures
-description: "Wenn es um Procedural Calendar in commercial-courts-deutschland geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Procedural Calendar: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Procedural Calendar

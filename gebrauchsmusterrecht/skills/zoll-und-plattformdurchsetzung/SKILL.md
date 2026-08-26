@@ -1,6 +1,6 @@
 ---
 name: zoll-und-plattformdurchsetzung
-description: "Wenn es um Zoll Und Plattformdurchsetzung in gebrauchsmusterrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Zoll und Plattformdurchsetzung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Zoll- und Plattformdurchsetzung bei Gebrauchsmusterverletzung prüfen: Produktmerkmale, Registerrecht, technische Prüfung, DSA, Marktplätze und Beweissicherung.

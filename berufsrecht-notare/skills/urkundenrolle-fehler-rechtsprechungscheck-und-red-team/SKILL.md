@@ -1,6 +1,6 @@
 ---
 name: urkundenrolle-fehler-rechtsprechungscheck-und-red-team
-description: "Wenn es um Urkundenrolle Fehler Rechtsprechungscheck Und Red Team in Berufsrecht Notare geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Gegenprüfung mit Fehler-, Beweis- und Fristencheck."
+description: "Für Urkundenrolle Fehler Rechtsprechungscheck und Red Team: prüft Ergebnis, Beweislast und Gegenposition; Ergebnis: Gegenprüfung mit Beweis- und Fristencheck."
 ---
 
 # Notare: urkundenrolle fehler - Rechtsprechungscheck, stärkste Gegenansicht und Red-Team-Korrektur

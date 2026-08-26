@@ -1,6 +1,6 @@
 ---
 name: personen-politisches-presserecht-plattformen
-description: "Wenn es um Paragraf 188 StGB - Personen des politischen Lebens in Meinungsprüfer geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Paragraf 188 StGB - Personen des politischen Lebens: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # § 188 StGB - Personen des politischen Lebens

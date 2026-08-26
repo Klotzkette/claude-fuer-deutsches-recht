@@ -1,6 +1,6 @@
 ---
 name: rechnungskorrektur-und-dokumentation-kaltstart
-description: "Wenn es um Rechnungskorrektur Und Dokumentation Kaltstart in Berufsrecht Steuerberater geht: klärt Rolle, Ziel, Frist, Unterlagen und den passenden nächsten Fachskill; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Rechnungskorrektur und Dokumentation Kaltstart: routet Rolle, Frist, Unterlagen und Fachschritt; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Steuerberater: rechnungskorrektur und dokumentation - Kaltstart mit Faktenmatrix, Risikoampel und fehlenden Unterlagen

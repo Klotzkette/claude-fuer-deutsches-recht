@@ -1,6 +1,6 @@
 ---
 name: forced-labour-foto-video
-description: "Wenn es um Forced Labour Und Importstop in fashion-law-moderecht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
+description: "Für Forced Labour und Importstop: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Forced Labour Und Importstop

@@ -1,6 +1,6 @@
 ---
 name: fortbestehensprognose-international
-description: "Wenn es um Fortbestehensprognose: Internationaler Bezug und Schnittstellen in Liquiditätsplanung — Power geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Fortbestehensprognose: Internationaler Bezug und Schnittstellen: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Schnittstellenkarte mit Zuständigkeits- und Nachweisfragen."
 ---
 
 # Fortbestehensprognose: Internationaler Bezug und Schnittstellen

@@ -1,6 +1,6 @@
 ---
 name: kostenrisiko-streitwert-berechnen-gkg
-description: "Wenn es um Was kostet eine Klage vor dem Amtsgericht? in selbstvertreter-amtsgericht geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
+description: "Für Was kostet eine Klage vor dem Amtsgericht?: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Was kostet eine Klage vor dem Amtsgericht?

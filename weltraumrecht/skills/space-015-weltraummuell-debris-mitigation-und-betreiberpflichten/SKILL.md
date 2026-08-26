@@ -1,6 +1,6 @@
 ---
 name: space-015-weltraummuell-debris-mitigation-und-betreiberpflichten
-description: "Wenn es um Weltraumrecht: Weltraummüll Debris Mitigation und Betreiberpflichten in Weltraumrecht geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Weltraumrecht: Weltraummüll Debris Mitigation und Betreiberpflichten: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Weltraumrecht: Weltraummüll Debris Mitigation und Betreiberpflichten

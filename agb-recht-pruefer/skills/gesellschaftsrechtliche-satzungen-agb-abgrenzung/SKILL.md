@@ -1,6 +1,6 @@
 ---
 name: gesellschaftsrechtliche-satzungen-agb-abgrenzung
-description: "Wenn es um Gesellschaftsrechtliche Satzungen AGB Abgrenzung in AGB-Recht-Prüfer geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Gegenprüfung mit Fehler-, Beweis- und Fristencheck. Auswahlstichwort: Gesellschaftsrechtliche Satzungen Agb Abgrenzung; Arbeitsfeld: AGB-Recht-Prüfer."
+description: "Für Gesellschaftsrechtliche Satzungen AGB Abgrenzung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt. Fachgebiet: AGB-Recht-Prüfer. Route: gesellschaftsrechtliche-satzungen-agb-abgrenzung."
 ---
 
 # Gesellschaftsrechtliche Satzungen AGB Abgrenzung

@@ -1,6 +1,6 @@
 ---
 name: workflow-asyl-start
-description: "Startet eine Asylakte mit Dokumentenauswertung, Stichtagsweiche zwischen altem und neuem GEAS, Fristensicherung und Schutzgrundanalyse. Liefert Statusblatt, Anhörungs- und Belegplan, Rechtsbehelfsstrategie sowie einen unmittelbar nutzbaren Antrag oder Schriftsatzkern."
+description: "Startet eine Asylakte mit Dokumentenauswertung, Stichtagsweiche zwischen altem und neuem GEAS, Fristensicherung und Schutzgrundanalyse."
 ---
 
 # 1. Asylakte starten

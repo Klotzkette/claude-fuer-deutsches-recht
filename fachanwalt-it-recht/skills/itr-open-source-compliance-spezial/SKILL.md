@@ -1,6 +1,6 @@
 ---
 name: itr-open-source-compliance-spezial
-description: "Wenn es um Itr Open Source Compliance Spezial in Fachanwalt It Recht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Itr Open Source Compliance Spezial: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Spezialfall Open-Source-Compliance: Copyleft GPL/AGPL/LGPL, Permissive MIT/Apache, SBOM

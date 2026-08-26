@@ -1,6 +1,6 @@
 ---
 name: laienhilfe-ueberpruefungsantrag-44-sgbx
-description: "Wenn es um Laienverstaendlicher Sozialrechts-Skill zu Überprüfungsantrag 44 Sgbx in Fachanwalt Sozialrecht geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Laienverständlicher Sozialrechts-Skill zu Überprüfungsantrag 44 Sgbx: erstellt Entwurf mit Antrag, Beweis und Anlagen; Ergebnis: Schriftsatz mit Begründungs- und Anlagenlogik."
 ---
 
 # Laienverstaendlicher Sozialrechts-Skill zu Überprüfungsantrag 44 Sgbx

@@ -1,6 +1,6 @@
 ---
 name: v392-praxisraster-richter-verwaltungsgericht
-description: "Wenn es um Praxisraster Verwaltungsgericht in Verwaltungsgericht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Beweislast- und Substantiierungsmatrix."
+description: "Für Praxisraster Verwaltungsgericht: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Praxisraster Verwaltungsgericht

@@ -1,6 +1,6 @@
 ---
 name: 02-zustaendigkeit-und-eroeffnungsbeschluss
-description: "Wenn es um 02 Zuständigkeit und Eröffnungsbeschluss in Richter Amtsgericht Strafsachen geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
+description: "Für 02 Zuständigkeit und Eröffnungsbeschluss: prüft Frist, Form, Zuständigkeit und Eilbedarf; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # 02 Zuständigkeit und Eröffnungsbeschluss

@@ -1,6 +1,6 @@
 ---
 name: feuerwehr-zustaendigkeit-pruefen
-description: "Wenn es um Feuerwehr Zuständigkeit Prüfen in Kommunalrecht der Länder geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Feuerwehr Zuständigkeit Prüfen: prüft Frist, Form, Zuständigkeit und Eilbedarf; Ergebnis: Schnittstellenkarte mit Zuständigkeits- und Nachweisfragen. Fachgebiet: Kommunalrecht der Länder. Route: feuerwehr-zustaendigkeit-pruefen."
 ---
 
 # Feuerwehr Zuständigkeit Prüfen

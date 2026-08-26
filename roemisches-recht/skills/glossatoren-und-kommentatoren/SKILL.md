@@ -1,6 +1,6 @@
 ---
 name: glossatoren-und-kommentatoren
-description: "Wenn es um Glossatoren Und Kommentatoren in Römisches Recht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Glossatoren und Kommentatoren: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt. Fachgebiet: Römisches Recht. Route: glossatoren-und-kommentatoren."
 ---
 
 # Glossatoren Und Kommentatoren

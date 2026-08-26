@@ -1,6 +1,6 @@
 ---
 name: bmukn-immissionsschutz-und-bimschg
-description: "Wenn es um Immissionsschutz (BImSchG) (BMUKN) in Legistik-Werkstatt geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Immissionsschutz (BImSchG) (BMUKN): ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Immissionsschutz (BImSchG) (BMUKN)

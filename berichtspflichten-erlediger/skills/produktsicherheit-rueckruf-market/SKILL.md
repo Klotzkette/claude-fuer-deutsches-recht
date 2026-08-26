@@ -1,6 +1,6 @@
 ---
 name: produktsicherheit-rueckruf-market
-description: "Wenn es um Produktsicherheit und Marktüberwachung melden in Berichtspflichten-Erlediger geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
+description: "Für Produktsicherheit und Marktüberwachung melden: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Produktsicherheit und Marktüberwachung melden

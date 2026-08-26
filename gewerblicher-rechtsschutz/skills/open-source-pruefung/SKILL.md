@@ -1,6 +1,6 @@
 ---
 name: open-source-pruefung
-description: "Wenn es um Open-Source-Lizenz-Compliance-Prüfung in Plugin: Gewerblicher Rechtsschutz geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Open-Source-Lizenz-Compliance-Prüfung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Tatbestands- oder Anspruchsmatrix."
 ---
 
 # Open-Source-Lizenz-Compliance-Prüfung

@@ -1,6 +1,6 @@
 ---
 name: wiedereinsetzung-nach-fristversaeumnis
-description: "Wenn es um Wiedereinsetzung nach Fristversäumnis in Datenschutz-Sanktionsverfahren und Verteidigung geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Wiedereinsetzung nach Fristversäumnis: prüft Frist, Form, Zuständigkeit und Eilbedarf; Ergebnis: Fristen- und Risikoampel."
 ---
 
 # Wiedereinsetzung nach Fristversäumnis

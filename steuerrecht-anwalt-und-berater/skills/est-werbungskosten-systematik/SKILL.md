@@ -1,6 +1,6 @@
 ---
 name: est-werbungskosten-systematik
-description: "Wenn es um Werbungskosten und Betriebsausgaben — Paragraf 9 EStG Paragraf 4 Abs. 4 EStG in Steuerrecht – Steuerberater und Anwälte geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
+description: "Für Werbungskosten und Betriebsausgaben — Paragraf 9 EStG Paragraf 4 Abs. 4 EStG: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Werbungskosten und Betriebsausgaben — § 9 EStG § 4 Abs. 4 EStG

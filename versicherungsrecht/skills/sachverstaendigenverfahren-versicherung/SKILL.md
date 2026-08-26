@@ -1,6 +1,6 @@
 ---
 name: sachverstaendigenverfahren-versicherung
-description: "Wenn es um Sachverständigenverfahren in der Versicherung in Versicherungsrecht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Beweislast- und Substantiierungsmatrix."
+description: "Für Sachverständigenverfahren in der Versicherung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Sachverständigenverfahren in der Versicherung

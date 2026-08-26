@@ -1,6 +1,6 @@
 ---
 name: qualitaetspruefung-builder-daten-red-team-korrektur
-description: "Wenn es um Skills-QA in Kanzlei-Builder-Hub geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Skills-QA: prüft Ergebnis, Beweislast und Gegenposition; Ergebnis: Gegenprüfung mit Beweis- und Fristencheck."
 ---
 
 # Skills-QA

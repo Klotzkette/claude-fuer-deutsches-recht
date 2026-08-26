@@ -1,6 +1,6 @@
 ---
 name: dsv-sanktion-selbstbelastungsfreiheit-und-mitwirkungspflichten
-description: "Wenn es um Dsv Sanktion Selbstbelastungsfreiheit Und Mitwirkungspflichten in Datenschutzrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Dsv Sanktion Selbstbelastungsfreiheit und Mitwirkungspflichten: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Datenschutzrecht-Brückenskill: Selbstbelastung und Mitwirkungspflichten: Auskunftspflichten gegenüber der Aufsicht und Aussagefreiheit im Bußgeldverfahren balancieren

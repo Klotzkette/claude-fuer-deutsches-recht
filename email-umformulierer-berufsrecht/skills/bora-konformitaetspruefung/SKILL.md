@@ -1,6 +1,6 @@
 ---
 name: bora-konformitaetspruefung
-description: "Wenn es um BORA-Konformitätsprüfung in E-Mail-Umformulierer geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. Auswahlstichwort: Bora Konformitaetspruefung; Arbeitsfeld: E-Mail-Umformulierer."
+description: "Für BORA-Konformitätsprüfung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Tatbestands- oder Anspruchsmatrix. Fachgebiet: E-Mail-Umformulierer. Route: bora-konformitaetspruefung."
 ---
 
 # BORA-Konformitätsprüfung

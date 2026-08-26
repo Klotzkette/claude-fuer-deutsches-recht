@@ -1,6 +1,6 @@
 ---
 name: gerichtskostenvorschuss-12-gkg
-description: "Wenn es um Gerichtskostenvorschuss: Klage wird erst nach Zahlung zugestellt in selbstvertreter-amtsgericht geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
+description: "Für Gerichtskostenvorschuss: Klage wird erst nach Zahlung zugestellt: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Gerichtskostenvorschuss: Klage wird erst nach Zahlung zugestellt

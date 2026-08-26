@@ -1,6 +1,6 @@
 ---
 name: lehrmittel-und-lernmittelfreiheit
-description: "Wenn es um Lehrmittel und Lernmittelfreiheit in Schulrecht der Bundesländer geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Lehrmittel und Lernmittelfreiheit: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Lehrmittel und Lernmittelfreiheit

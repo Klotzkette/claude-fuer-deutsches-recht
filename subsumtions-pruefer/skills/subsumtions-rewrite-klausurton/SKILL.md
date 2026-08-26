@@ -1,6 +1,6 @@
 ---
 name: subsumtions-rewrite-klausurton
-description: "Wenn es um Subsumtion im Klausurton neu schreiben in Subsumtions-Prüfer geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen."
+description: "Für Subsumtion im Klausurton neu schreiben: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Tatbestands- oder Anspruchsmatrix."
 ---
 
 # Subsumtion im Klausurton neu schreiben

@@ -1,6 +1,6 @@
 ---
 name: luft-037-flughafen-insolvenzrisiko-markieren
-description: "Wenn es um Flughafen Insolvenzrisiko Markieren in Luftrecht und Flughafenrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Flughafen Insolvenzrisiko Markieren: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Flughafen Insolvenzrisiko Markieren

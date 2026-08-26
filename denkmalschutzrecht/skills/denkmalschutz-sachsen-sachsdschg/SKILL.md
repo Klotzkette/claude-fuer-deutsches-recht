@@ -1,6 +1,6 @@
 ---
 name: denkmalschutz-sachsen-sachsdschg
-description: "Wenn es um Denkmalschutz Sachsen (SächsDSchG) in Denkmalschutzrecht — Bundesweiter Rahmen und sechzehn geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Denkmalschutz Sachsen (SächsDSchG): ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Denkmalschutz Sachsen (SächsDSchG)

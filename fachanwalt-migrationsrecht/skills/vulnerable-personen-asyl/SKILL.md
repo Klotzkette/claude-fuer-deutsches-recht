@@ -1,6 +1,6 @@
 ---
 name: vulnerable-personen-asyl
-description: "Wenn es um Vulnerable Personen Asyl: Fachmodul im Migrationsrecht in Fachanwalt Migrationsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Vulnerable Personen Asyl: Fachmodul im Migrationsrecht: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Vulnerable Personen Asyl: Fachmodul im Migrationsrecht
@@ -38,3 +38,7 @@ description: "Wenn es um Vulnerable Personen Asyl: Fachmodul im Migrationsrecht 
 - Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei prüfbarer Quelle ausgeben.
 - Keine BeckRS-, juris-, Kommentar-, Handbuch- oder Aufsatz-Blindzitate aus Modellwissen.
 - Annahmen, fehlende Unterlagen, Beweisrisiken und Fristen ausdrücklich markieren.
+
+## Vertiefung bei Bedarf
+
+- Bei `spezial-vulnerable-personen-asyl` beziehungsweise Vulnerable Personen Asyl: [die zusätzliche Vertiefung laden](./references/vertiefung-spezial-vulnerable-personen-asyl.md).

@@ -1,6 +1,6 @@
 ---
 name: arbeitszeugnis-standard-und-code
-description: "Wenn es um Arbeitszeugnis Standard Und Code in Start-up-HR-Personalabteilung Berlin geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Arbeitszeugnis Standard und Code: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Schnittstellenkarte mit Zuständigkeits- und Nachweisfragen."
 ---
 
 # Arbeitszeugnis Standard Und Code

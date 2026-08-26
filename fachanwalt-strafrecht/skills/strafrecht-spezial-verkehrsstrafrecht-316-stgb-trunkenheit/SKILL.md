@@ -1,6 +1,6 @@
 ---
 name: strafrecht-spezial-verkehrsstrafrecht-316-stgb-trunkenheit
-description: "Wenn es um Trunkenheit im Verkehr nach Paragraph 316 StGB in Fachanwalt Strafrecht geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
+description: "Für Trunkenheit im Verkehr nach Paragraph 316 StGB: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Trunkenheit im Verkehr nach Paragraph 316 StGB

@@ -1,6 +1,6 @@
 ---
 name: beurkundung-im-ausland-bezug-rechtsprechungscheck-und-re
-description: "Wenn es um Beurkundung Im Ausland Bezug Rechtsprechungscheck Und Re in Berufsrecht Notare geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Gegenprüfung mit Fehler-, Beweis- und Fristencheck."
+description: "Für Beurkundung im Ausland Bezug Rechtsprechungscheck und Re: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Schnittstellenkarte mit Zuständigkeits- und Nachweisfragen."
 ---
 
 # Notare: beurkundung im ausland bezug - Rechtsprechungscheck, stärkste Gegenansicht und Red-Team-Korrektur

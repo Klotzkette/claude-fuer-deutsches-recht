@@ -1,6 +1,6 @@
 ---
 name: strassenbahn-risikoampel-und-gegenargumente
-description: "Wenn es um Strassenbahn: Risikoampel, Gegenargumente und Verteidigungslinien in Verkehrs- und Infrastrukturrecht geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Strassenbahn: Risikoampel, Gegenargumente und Verteidigungslinien: prüft Ergebnis, Beweislast und Gegenposition; Ergebnis: Fristen- und Risikoampel."
 ---
 
 # Strassenbahn: Risikoampel, Gegenargumente und Verteidigungslinien

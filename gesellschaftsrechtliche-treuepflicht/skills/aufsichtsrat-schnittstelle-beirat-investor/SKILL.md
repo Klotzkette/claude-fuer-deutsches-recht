@@ -1,6 +1,6 @@
 ---
 name: aufsichtsrat-schnittstelle-beirat-investor
-description: "Wenn es um Treuepflicht Aufsichtsrat Schnittstelle in Gesellschaftsrechtliche Treuepflicht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen."
+description: "Für Treuepflicht Aufsichtsrat Schnittstelle: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Treuepflicht Aufsichtsrat Schnittstelle

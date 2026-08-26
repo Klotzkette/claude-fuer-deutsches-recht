@@ -1,6 +1,6 @@
 ---
 name: onboarding-beratungsstruktur
-description: "Wenn es um Beratungsstruktur im Steuerrecht — Prüfungsschema vom Sachverhalt zur Loesung in Steuerrecht – Steuerberater und Anwälte geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Beratungsstruktur im Steuerrecht — Prüfungsschema vom Sachverhalt zur Lösung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt. Fachgebiet: Steuerrecht – Steuerberater und Anwälte. Route: onboarding-beratungsstruktur."
 ---
 
 # Beratungsstruktur im Steuerrecht — Prüfungsschema vom Sachverhalt zur Loesung

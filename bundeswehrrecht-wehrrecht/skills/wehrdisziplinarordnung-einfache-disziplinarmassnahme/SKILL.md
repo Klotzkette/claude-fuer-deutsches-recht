@@ -1,6 +1,6 @@
 ---
 name: wehrdisziplinarordnung-einfache-disziplinarmassnahme
-description: "Wenn es um Wehrdisziplinarordnung – Einfache Disziplinarmaßnahme in Bundeswehrrecht und Wehrrecht geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
+description: "Für Wehrdisziplinarordnung – Einfache Disziplinarmaßnahme: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Wehrdisziplinarordnung – Einfache Disziplinarmaßnahme

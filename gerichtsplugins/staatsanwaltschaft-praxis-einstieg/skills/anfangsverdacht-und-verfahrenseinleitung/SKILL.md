@@ -1,6 +1,6 @@
 ---
 name: anfangsverdacht-und-verfahrenseinleitung
-description: "Wenn es um Anfangsverdacht und Verfahrenseinleitung in Staatsanwaltschaft Praxis-Einstieg geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
+description: "Für Anfangsverdacht und Verfahrenseinleitung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Anfangsverdacht und Verfahrenseinleitung

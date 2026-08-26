@@ -1,6 +1,6 @@
 ---
 name: designuebertragung-portfolio-designverletzung
-description: "Wenn es um Designuebertragung Portfolio in designrecht-geschmacksmusterrecht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert einen Einreichungsplan mit Form-, Portal- und Nachweischeck."
+description: "Für Designübertragung Portfolio: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Designuebertragung Portfolio

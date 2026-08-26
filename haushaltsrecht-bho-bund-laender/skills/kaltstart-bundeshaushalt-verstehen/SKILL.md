@@ -1,6 +1,6 @@
 ---
 name: kaltstart-bundeshaushalt-verstehen
-description: "Wenn es um Kaltstart Bundeshaushalt Verstehen in Haushaltsrecht BHO Bund und Länder geht: klärt Rolle, Ziel, Frist, Unterlagen und den passenden nächsten Fachskill; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Kaltstart Bundeshaushalt Verstehen: routet Rolle, Frist, Unterlagen und Fachschritt; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Kaltstart Bundeshaushalt Verstehen

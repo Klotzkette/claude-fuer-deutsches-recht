@@ -1,6 +1,6 @@
 ---
 name: kollektive-datensammlung-und-miturheberschaftsfallen
-description: "Wenn es um Kollektive Datensammlungen und Miturheberschaftsfallen in Datenbankrecht und Datenbankherstellerrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Kollektive Datensammlungen und Miturheberschaftsfallen: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Kollektive Datensammlungen und Miturheberschaftsfallen

@@ -1,6 +1,6 @@
 ---
 name: space-031-cyberangriff-satellit-nis2-bsi-kritis-notfallplan
-description: "Wenn es um Weltraumrecht: Cyberangriff auf Satellit NIS2 BSI KRITIS und Notfallplan in Weltraumrecht geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Weltraumrecht: Cyberangriff auf Satellit NIS2 BSI KRITIS und Notfallplan: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Weltraumrecht: Cyberangriff auf Satellit NIS2 BSI KRITIS und Notfallplan

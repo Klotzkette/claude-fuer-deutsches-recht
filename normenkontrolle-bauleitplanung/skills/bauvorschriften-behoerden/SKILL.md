@@ -1,6 +1,6 @@
 ---
 name: bauvorschriften-behoerden
-description: "Wenn es um Bauvorschriften: Behörden-, Gerichts- oder Registerweg in Normenkontrolle Bauleitplanung — Paragraf 47 VwGO geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten. Auswahlstichwort: Bauvorschriften Behoerden; Arbeitsfeld: Normenkontrolle Bauleitplanung — Paragraf 47 VwGO."
+description: "Für Bauvorschriften: Behörden-, Gerichts- oder Registerweg: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Bauvorschriften: Behörden-, Gerichts- oder Registerweg

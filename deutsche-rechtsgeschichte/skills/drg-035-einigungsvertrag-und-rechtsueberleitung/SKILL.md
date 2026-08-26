@@ -1,6 +1,6 @@
 ---
 name: drg-035-einigungsvertrag-und-rechtsueberleitung
-description: "Wenn es um Einigungsvertrag Und Rechtsueberleitung in Deutsche Rechtsgeschichte geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Einigungsvertrag und Rechtsüberleitung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Einigungsvertrag Und Rechtsueberleitung

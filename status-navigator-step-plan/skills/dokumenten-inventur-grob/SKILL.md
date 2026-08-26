@@ -1,6 +1,6 @@
 ---
 name: dokumenten-inventur-grob
-description: "Wenn es um Dokumenten-Inventur grob in Plugin: status-navigator-step-plan geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen."
+description: "Für Dokumenten-Inventur grob: ordnet Akte, Belege und Lücken; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Dokumenten-Inventur grob

@@ -1,6 +1,6 @@
 ---
 name: handelsbilanz-und-abhaengigkeiten
-description: "Wenn es um Handelsbilanz und Abhängigkeiten: Analyse und Risikobewertung in China-Wirtschaftsverkehr geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Handelsbilanz und Abhängigkeiten: Analyse und Risikobewertung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Handelsbilanz und Abhängigkeiten: Analyse und Risikobewertung

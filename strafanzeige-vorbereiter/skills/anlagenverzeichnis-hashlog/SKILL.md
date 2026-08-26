@@ -1,6 +1,6 @@
 ---
 name: anlagenverzeichnis-hashlog
-description: "Wenn es um Anlagenverzeichnis und Hashlog in Strafanzeige-Vorbereiter geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Anlagenverzeichnis und Hashlog: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Anlagenverzeichnis und Hashlog

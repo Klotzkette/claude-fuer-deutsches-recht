@@ -1,6 +1,6 @@
 ---
 name: verkehrsowi-quality-gate
-description: "Wenn es um Quality Gate — OWi-Mandat in VerkehrsOWi-Verteidiger geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Beweislast- und Substantiierungsmatrix."
+description: "Für Quality Gate — OWi-Mandat: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Quality Gate — OWi-Mandat

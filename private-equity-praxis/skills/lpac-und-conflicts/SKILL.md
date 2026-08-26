@@ -1,6 +1,6 @@
 ---
 name: lpac-und-conflicts
-description: "Wenn es um LPAC und Conflicts Management in Private Equity Praxis geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für LPAC und Conflicts Management: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # LPAC und Conflicts Management

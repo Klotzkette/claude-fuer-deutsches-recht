@@ -1,6 +1,6 @@
 ---
 name: fertilitaetsmedizin-recht
-description: "Wenn es um Fertilitaetsmedizin Recht in Fachanwalt Medizinrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Fertilitätsmedizin Recht: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Fertilitätsmedizin Recht: moderner Medizinrechts-Skill für IVF, Samenspende, Embryonenschutz, Abstammung, Aufklärung und Haftung

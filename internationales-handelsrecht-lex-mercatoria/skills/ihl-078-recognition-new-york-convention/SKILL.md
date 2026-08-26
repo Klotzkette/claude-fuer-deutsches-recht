@@ -1,6 +1,6 @@
 ---
 name: ihl-078-recognition-new-york-convention
-description: "Wenn es um Recognition New York Convention in Internationales Handelsrecht und Lex Mercatoria geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Recognition New York Convention: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Recognition New York Convention

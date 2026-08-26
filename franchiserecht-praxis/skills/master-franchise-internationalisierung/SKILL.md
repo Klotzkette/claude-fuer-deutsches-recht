@@ -1,6 +1,6 @@
 ---
 name: master-franchise-internationalisierung
-description: "Wenn es um Franchiserecht: Master-Franchise und Internationalisierung in Franchiserecht Praxis geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen."
+description: "Für Franchiserecht: Master-Franchise und Internationalisierung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Schnittstellenkarte mit Zuständigkeits- und Nachweisfragen."
 ---
 
 # Franchiserecht: Master-Franchise und Internationalisierung

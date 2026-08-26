@@ -1,6 +1,6 @@
 ---
 name: handelsregister-gewerbe-handelsvertreter-gmbh
-description: "Wenn es um Handelsregister- und Gewerbeanmeldung des Handelsvertreters nach HGB und GewO in Handelsvertreterrecht und Vertriebsverträge geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Handelsregister- und Gewerbeanmeldung des Handelsvertreters nach HGB und GewO: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Einreichungsplan mit Form- und Nachweischeck."
 ---
 
 # Handelsregister- und Gewerbeanmeldung des Handelsvertreters nach HGB und GewO

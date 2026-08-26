@@ -1,6 +1,6 @@
 ---
 name: stbvv-verguetung-und-transparenz-kaltstart-und-fa
-description: "Wenn es um Stbvv Verguetung Und Transparenz Kaltstart Und Fa in Berufsrecht Steuerberater geht: klärt Rolle, Ziel, Frist, Unterlagen und den passenden nächsten Fachskill; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Stbvv Vergütung und Transparenz Kaltstart und Fa: routet Rolle, Frist, Unterlagen und Fachschritt; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Steuerberater: stbvv vergütung und transparenz - Kaltstart mit Faktenmatrix, Risikoampel und fehlenden Unterlagen

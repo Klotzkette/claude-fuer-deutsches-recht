@@ -1,6 +1,6 @@
 ---
 name: gmbhg-schriftsatz-brief-und-memo-bausteine
-description: "Wenn es um Gmbhg Schriftsatz Brief Und Memo Bausteine in Fachanwalt Handels- und Gesellschaftsrecht geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
+description: "Für GmbHG Schriftsatz Brief und Memo Bausteine: erstellt Entwurf mit Antrag, Beweis und Anlagen; Ergebnis: Schriftsatz mit Begründungs- und Anlagenlogik."
 ---
 
 # Gmbhg: Schriftsatz-, Brief- und Memo-Bausteine im Handels- und Gesellschaftsrecht: fachlich vertieftes Modul mit Normenradar (HGB/GmbHG/AktG/UmwG), Tatbestands-/Beweislastmatrix, Fristen- und Formcheck, Gegenargumenten, Fehlerbremse und direkt nutzbarem Arbeitsprodukt.
@@ -42,3 +42,7 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 3. **Bausteinwahl:** Schriftsatz an Registergericht (Anmeldungstext mit § 8 GmbHG-Inhalten), Aufforderungsbrief Gesellschafter (§ 26 GmbHG Nachschuss/§ 27 GmbHG Kaduzierung), Memo Geschäftsführerhaftung (§ 43 GmbHG Verschuldensmaßstab, § 43a GmbHG Kreditverbot), Beschlussvorschlag Gesellschafterversammlung (§ 47 GmbHG Stimmrecht je 1 EUR Geschäftsanteil eine Stimme).
 4. **Form- und Fristenkontrolle:** Notarielle Beurkundung bei Gründung (§ 2 GmbHG), Anteilsübertragung (§ 15 Abs. 3 GmbHG), Kapitalmaßnahmen (§§ 55 ff. GmbHG); MoPeG-Reform betrifft GbR/PartG, nicht GmbH unmittelbar. Anfechtungsfrist Gesellschafterbeschluss analog § 246 AktG: einen Monat, BGH ständige Rechtsprechung.
 5. **Anschluss:** Konkreten Textbaustein mit Platzhaltern liefern; spezial-Skills.
+
+## Vertiefung bei Bedarf
+
+- Bei `spezial-gmbhg-schriftsatz-brief-und-memo-bausteine` beziehungsweise Gmbhg: Schriftsatz-, Brief- und Memo-Bausteine: [die zusätzliche Vertiefung laden](./references/vertiefung-spezial-gmbhg-schriftsatz-brief-und-memo-bausteine.md).

@@ -1,6 +1,6 @@
 ---
 name: gesetzesentwurf-kabinett-aa-voelkerrecht
-description: "Wenn es um Gesetzesentwurf Kabinett in Legistik-Werkstatt geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. Auswahlstichwort: Gesetzesentwurf Kabinett Aa Voelkerrecht; Arbeitsfeld: Legistik-Werkstatt."
+description: "Für Gesetzesentwurf Kabinett: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt. Fachgebiet: Legistik-Werkstatt. Route: gesetzesentwurf-kabinett-aa-voelkerrecht."
 ---
 
 # Gesetzesentwurf Kabinett

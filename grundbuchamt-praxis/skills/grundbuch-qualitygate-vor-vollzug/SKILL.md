@@ -1,6 +1,6 @@
 ---
 name: grundbuch-qualitygate-vor-vollzug
-description: "Wenn es um Quality Gate vor Einreichung in Grundbuchamt Praxis geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Quality Gate vor Einreichung: prüft Ergebnis, Beweislast und Gegenposition; Ergebnis: Gegenprüfung mit Beweis- und Fristencheck."
 ---
 
 # Quality Gate vor Einreichung

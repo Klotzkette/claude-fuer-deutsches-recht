@@ -1,6 +1,6 @@
 ---
 name: ihl-058-data-transfer-in-trade
-description: "Wenn es um Data Transfer In Trade in Internationales Handelsrecht und Lex Mercatoria geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Data Transfer in Trade: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Data Transfer In Trade

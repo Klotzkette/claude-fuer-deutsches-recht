@@ -1,6 +1,6 @@
 ---
 name: notenwahl-modus
-description: "Leitet die passende Leistungs- und Verhaltensnote aus Beurteilungen, Zielwerten, Projekten und Gegenbelegen ab, statt eine Wunschziffer ungeprüft zu übernehmen. Liefert eine Achsenbewertung mit Quellenstatus, Unsicherheiten und konsistenter Formulierungsstufe."
+description: "Leitet die passende Leistungs- und Verhaltensnote aus Beurteilungen, Zielwerten, Projekten und Gegenbelegen ab, statt eine Wunschziffer ungeprüft zu übernehmen."
 ---
 
 # Notenwahl-Modus

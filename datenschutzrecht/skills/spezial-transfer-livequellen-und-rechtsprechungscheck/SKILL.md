@@ -1,6 +1,6 @@
 ---
 name: spezial-transfer-livequellen-und-rechtsprechungscheck
-description: "Wenn es um Transfer: Livequellen- und Rechtsprechungscheck in Datenschutzrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Transfer: Livequellen- und Rechtsprechungscheck: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Transfer: Livequellen- und Rechtsprechungscheck

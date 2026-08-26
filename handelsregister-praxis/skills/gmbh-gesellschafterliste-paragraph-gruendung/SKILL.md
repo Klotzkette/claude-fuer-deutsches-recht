@@ -1,6 +1,6 @@
 ---
 name: gmbh-gesellschafterliste-paragraph-gruendung
-description: "Wenn es um Gesellschafterliste und Widerspruch in Handelsregister Praxis geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert einen Einreichungsplan mit Form-, Portal- und Nachweischeck."
+description: "Für Gesellschafterliste und Widerspruch: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Gesellschafterliste und Widerspruch

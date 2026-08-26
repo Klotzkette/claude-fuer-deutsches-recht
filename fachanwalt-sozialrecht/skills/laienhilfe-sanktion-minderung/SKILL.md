@@ -1,6 +1,6 @@
 ---
 name: laienhilfe-sanktion-minderung
-description: "Wenn es um Laienverstaendlicher Sozialrechts-Skill zu Sanktion Minderung in Fachanwalt Sozialrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Laienverständlicher Sozialrechts-Skill zu Sanktion Minderung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Laienverstaendlicher Sozialrechts-Skill zu Sanktion Minderung

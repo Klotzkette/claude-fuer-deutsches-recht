@@ -1,6 +1,6 @@
 ---
 name: containerschiff-klagepfad-waehlen
-description: "Wenn es um Containerschiff – Klagepfad wählen in See- und Schifffahrtsrecht geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
+description: "Für Containerschiff – Klagepfad wählen: erstellt Entwurf mit Antrag, Beweis und Anlagen; Ergebnis: Schriftsatz mit Begründungs- und Anlagenlogik."
 ---
 
 # Containerschiff – Klagepfad wählen

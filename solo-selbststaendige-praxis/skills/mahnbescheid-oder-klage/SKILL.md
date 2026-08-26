@@ -1,6 +1,6 @@
 ---
 name: mahnbescheid-oder-klage
-description: "Wenn es um Forderungen Mahnung und Streit: Entscheidet zwischen mahnverfahren in Solo-Selbstständige Praxis geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Forderungen Mahnung und Streit: Entscheidet zwischen mahnverfahren: erstellt Entwurf mit Antrag, Beweis und Anlagen; Ergebnis: Schriftsatz mit Begründungs- und Anlagenlogik."
 ---
 
 # Forderungen Mahnung und Streit: Entscheidet zwischen mahnverfahren

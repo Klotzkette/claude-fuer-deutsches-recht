@@ -1,6 +1,6 @@
 ---
 name: see-003-schiffsregister-und-eigentum
-description: "Wenn es um Schiffsregister Und Eigentum in See- und Schifffahrtsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Schiffsregister und Eigentum: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Einreichungsplan mit Form- und Nachweischeck."
 ---
 
 # Schiffsregister Und Eigentum

@@ -1,6 +1,6 @@
 ---
 name: auslandsbehandlung-deutsche-goae-anwendung
-description: "Wenn es um Auslandsbehandlung deutsche GOÄ Anwendung in GOÄ Gebührenordnung für Ärzte geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Berechnungstabelle mit Schwellen, Annahmen und Kontrollfragen."
+description: "Für Auslandsbehandlung deutsche GOÄ Anwendung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Schnittstellenkarte mit Zuständigkeits- und Nachweisfragen."
 ---
 
 # Auslandsbehandlung deutsche GOÄ Anwendung

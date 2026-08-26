@@ -1,6 +1,6 @@
 ---
 name: outsourcing-externe-dienstleister
-description: "Wenn es um Outsourcing allgemein in Bank-Rechtsabteilung geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert einen Einreichungsplan mit Form-, Portal- und Nachweischeck."
+description: "Für Outsourcing allgemein: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Outsourcing allgemein

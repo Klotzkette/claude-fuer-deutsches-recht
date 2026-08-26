@@ -1,6 +1,6 @@
 ---
 name: esg-csrd-pruefung-rechtsprechungscheck-und-r
-description: "Wenn es um Esg Csrd Prüfung Rechtsprechungscheck Und R in Berufsrecht Wirtschaftsprüfer geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Gegenprüfung mit Fehler-, Beweis- und Fristencheck."
+description: "Für Esg Csrd Prüfung Rechtsprechungscheck und R: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Tatbestands- oder Anspruchsmatrix."
 ---
 
 # Wirtschaftsprüfer: esg csrd prüfung - Rechtsprechungscheck, stärkste Gegenansicht und Red-Team-Korrektur

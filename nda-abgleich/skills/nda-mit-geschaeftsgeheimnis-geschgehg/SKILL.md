@@ -1,6 +1,6 @@
 ---
 name: nda-mit-geschaeftsgeheimnis-geschgehg
-description: "Wenn es um NDA + GeschGehG-Maßnahmen in NDA-Abgleich geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. Auswahlstichwort: Nda Mit Geschaeftsgeheimnis Geschgehg; Arbeitsfeld: NDA-Abgleich."
+description: "Für NDA + GeschGehG-Maßnahmen: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt. Fachgebiet: NDA-Abgleich. Route: nda-mit-geschaeftsgeheimnis-geschgehg."
 ---
 
 # NDA + GeschGehG-Maßnahmen

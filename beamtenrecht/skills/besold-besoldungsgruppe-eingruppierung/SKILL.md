@@ -1,6 +1,6 @@
 ---
 name: besold-besoldungsgruppe-eingruppierung
-description: "Wenn es um Besold Besoldungsgruppe Eingruppierung Amt Und Funktion in Beamtenrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Besold Besoldungsgruppe Eingruppierung Amt und Funktion: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Besold Besoldungsgruppe Eingruppierung Amt Und Funktion

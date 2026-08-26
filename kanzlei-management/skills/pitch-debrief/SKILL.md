@@ -1,6 +1,6 @@
 ---
 name: pitch-debrief
-description: "Wenn es um Pitch Debrief in Kanzlei Management geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
+description: "Für Pitch Debrief: erstellt Entwurf mit Antrag, Beweis und Anlagen; Ergebnis: Schriftsatz mit Begründungs- und Anlagenlogik."
 ---
 
 # Pitch Debrief

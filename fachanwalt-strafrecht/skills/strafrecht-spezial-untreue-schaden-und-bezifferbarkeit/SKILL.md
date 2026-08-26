@@ -1,6 +1,6 @@
 ---
 name: strafrecht-spezial-untreue-schaden-und-bezifferbarkeit
-description: "Wenn es um Vermögensschaden bei Paragraph 266 StGB Untreue in Fachanwalt Strafrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Vermögensschaden bei Paragraph 266 StGB Untreue: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Schnittstellenkarte mit Zuständigkeits- und Nachweisfragen."
 ---
 
 # Vermögensschaden bei Paragraph 266 StGB Untreue

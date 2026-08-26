@@ -1,6 +1,6 @@
 ---
 name: 03-aussetzung-der-vollziehung
-description: "Wenn es um 03 Aussetzung Der Vollziehung in Finanzgericht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für 03 Aussetzung der Vollziehung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # 03 Aussetzung Der Vollziehung

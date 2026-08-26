@@ -1,6 +1,6 @@
 ---
 name: ki-medizinprodukt-highrisk
-description: "Wenn es um Ki Medizinprodukt Highrisk in Fachanwalt Medizinrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Ki Medizinprodukt Highrisk: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # KI-Medizinprodukt High-Risk: moderner Medizinrechts-Skill für KI-gestützte Diagnose/Prognose/Triage, MDR plus AI Act und ärztliche Letztverantwortung

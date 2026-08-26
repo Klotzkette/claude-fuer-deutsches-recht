@@ -1,6 +1,6 @@
 ---
 name: verl-038-auslandsrechte-sanktionen-exportkontrolle
-description: "Wenn es um Verlagsrecht: Auslandsrechte Sanktionen Exportkontrolle in Verlagsrecht und Buchpreisbindung geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Verlagsrecht: Auslandsrechte Sanktionen Exportkontrolle: prüft Ergebnis, Beweislast und Gegenposition; Ergebnis: Gegenprüfung mit Beweis- und Fristencheck."
 ---
 
 # Verlagsrecht: Auslandsrechte Sanktionen Exportkontrolle

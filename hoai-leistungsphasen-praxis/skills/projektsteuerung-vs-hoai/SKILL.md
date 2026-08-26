@@ -1,6 +1,6 @@
 ---
 name: projektsteuerung-vs-hoai
-description: "Wenn es um HOAI Querschnitt: Grenzt projektsteuerung in HOAI Leistungsphasen Praxis geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen."
+description: "Für HOAI Querschnitt: Grenzt projektsteuerung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Schnittstellenkarte mit Zuständigkeits- und Nachweisfragen."
 ---
 
 # HOAI Querschnitt: Grenzt projektsteuerung

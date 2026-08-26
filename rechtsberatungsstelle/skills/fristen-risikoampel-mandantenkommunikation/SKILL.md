@@ -1,6 +1,6 @@
 ---
 name: fristen-risikoampel-mandantenkommunikation
-description: "Wenn es um Fristen- und Risikoampel in Plugin für die studentische Rechtsberatungsstelle geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Fristen- und Risikoampel: prüft Frist, Form, Zuständigkeit und Eilbedarf; Ergebnis: Fristen- und Risikoampel. Fachgebiet: Plugin für die studentische Rechtsberatungsstelle."
 ---
 
 # Fristen- und Risikoampel

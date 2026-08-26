@@ -1,6 +1,6 @@
 ---
 name: disclosure-schedules-distressed-ma
-description: "Wenn es um Disclosure Schedules in Corporate-Kanzlei geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. Auswahlstichwort: Disclosure Schedules Distressed M&A; Arbeitsfeld: Corporate-Kanzlei."
+description: "Für Disclosure Schedules: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt. Fachgebiet: Corporate-Kanzlei. Route: disclosure-schedules-distressed-ma."
 ---
 
 # Disclosure Schedules

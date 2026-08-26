@@ -1,6 +1,6 @@
 ---
 name: mandat-triage-transport-speditionsrecht
-description: "Wenn es um Ersteinordnung neuer Mandate im Transport- und Speditionsrecht: Vertragstyp, national vs in Fachanwalt Transport Speditionsrecht geht: klärt Rolle, Ziel, Frist, Unterlagen und den passenden nächsten Fachskill; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Ersteinordnung neuer Mandate im Transport- und Speditionsrecht: Vertragstyp, national vs: routet Rolle, Frist, Unterlagen und Fachschritt; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Ersteinordnung neuer Mandate im Transport- und Speditionsrecht: Vertragstyp, national vs

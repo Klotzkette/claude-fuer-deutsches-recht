@@ -1,6 +1,6 @@
 ---
 name: qualitaetsmanagement-fristen-und-vier-augen-organisati
-description: "Wenn es um Qualitaetsmanagement Fristen Und Vier Augen Organisati in Berufsrecht Anwälte geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Qualitätsmanagement Fristen und Vier Augen Organisati: prüft Frist, Form, Zuständigkeit und Eilbedarf; Ergebnis: Fristen- und Risikoampel."
 ---
 
 # Anwälte: qualitaetsmanagement fristen und vier augen - Organisationspflichten, Prävention, Team-Anweisung und Fristenkontrolle

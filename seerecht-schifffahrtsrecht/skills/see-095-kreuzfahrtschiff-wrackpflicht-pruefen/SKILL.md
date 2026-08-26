@@ -1,6 +1,6 @@
 ---
 name: see-095-kreuzfahrtschiff-wrackpflicht-pruefen
-description: "Wenn es um Kreuzfahrtschiff Wrackpflicht Pruefen in See- und Schifffahrtsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Kreuzfahrtschiff Wrackpflicht Prüfen: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Schnittstellenkarte mit Zuständigkeits- und Nachweisfragen."
 ---
 
 # Kreuzfahrtschiff Wrackpflicht Pruefen

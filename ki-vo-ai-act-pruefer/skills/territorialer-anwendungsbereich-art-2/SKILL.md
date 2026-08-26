@@ -1,6 +1,6 @@
 ---
 name: territorialer-anwendungsbereich-art-2
-description: "Wenn es um Territorialer Anwendungsbereich — Art. 2 europäischer Technikregulierungsrahmen in europäischem Technikregulierungsrecht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
+description: "Für Territorialer Anwendungsbereich — Art. 2 europäischer Technikregulierungsrahmen: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Territorialer Anwendungsbereich — Art. 2 KI-VO

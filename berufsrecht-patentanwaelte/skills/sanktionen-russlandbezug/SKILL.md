@@ -1,6 +1,6 @@
 ---
 name: sanktionen-russlandbezug
-description: "Wenn es um Sanktionen Russlandbezug in Berufsrecht Patentanwälte geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Sanktionen Russlandbezug: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Patentanwälte: sanktionen und russlandbezug - Organisationspflichten, Prävention, Team-Anweisung und Fristenkontrolle

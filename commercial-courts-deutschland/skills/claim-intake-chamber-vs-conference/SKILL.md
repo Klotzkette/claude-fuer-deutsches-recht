@@ -1,6 +1,6 @@
 ---
 name: claim-intake-chamber-vs-conference
-description: "Wenn es um Claim Intake in commercial-courts-deutschland geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Chronologie mit Belegmatrix und Widerspruchsliste."
+description: "Für Claim Intake: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Claim Intake

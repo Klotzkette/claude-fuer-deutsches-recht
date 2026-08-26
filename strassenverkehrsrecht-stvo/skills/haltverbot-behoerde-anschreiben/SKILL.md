@@ -1,6 +1,6 @@
 ---
 name: haltverbot-behoerde-anschreiben
-description: "Wenn es um Haltverbot Behörde Anschreiben in Straßenverkehrsrecht StVO geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Haltverbot Behörde Anschreiben: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt. Fachgebiet: Straßenverkehrsrecht StVO. Route: haltverbot-behoerde-anschreiben."
 ---
 
 # Haltverbot Behörde Anschreiben

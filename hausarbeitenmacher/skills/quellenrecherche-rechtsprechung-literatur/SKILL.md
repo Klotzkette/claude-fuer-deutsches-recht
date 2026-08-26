@@ -1,6 +1,6 @@
 ---
 name: quellenrecherche-rechtsprechung-literatur
-description: "Wenn es um Quellen-Recherche — Rechtsprechung und Literatur in hausarbeitenmacher — Didaktisches Plugin für juristische geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Quellen-Recherche — Rechtsprechung und Literatur: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Quellen-Recherche — Rechtsprechung und Literatur

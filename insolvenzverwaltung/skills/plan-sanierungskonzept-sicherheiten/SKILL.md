@@ -1,6 +1,6 @@
 ---
 name: plan-sanierungskonzept-sicherheiten
-description: "Wenn es um Sanierungskonzept für Insolvenzplan und StaRUG in Insolvenzverwaltung - IV-Cockpit geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Sanierungskonzept für Insolvenzplan und StaRUG: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Sanierungskonzept für Insolvenzplan und StaRUG

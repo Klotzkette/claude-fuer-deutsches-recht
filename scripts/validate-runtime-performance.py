@@ -18,12 +18,29 @@ from pathlib import Path
 REPO = Path(__file__).resolve().parent.parent
 MARKETPLACE = REPO / ".claude-plugin" / "marketplace.json"
 
-MAX_SKILLS_PER_PLUGIN = 500
-MAX_DESCRIPTION_CHARS_PER_PLUGIN = 120_000
+MAX_SKILLS_PER_PLUGIN = 320
+MAX_DESCRIPTION_CHARS_PER_PLUGIN = 55_000
 MAX_SKILL_LINES = 500
 MAX_REFERENCE_BYTES = 96 * 1024
 MAX_PLUGIN_FILES = 5_000
 MAX_PLUGIN_BYTES = 200 * 1024 * 1024
+MAX_TOTAL_SKILLS = 23_000
+MAX_TOTAL_DESCRIPTION_CHARS = 3_600_000
+MAX_ROUTER_REFERENCE_BYTES = 40 * 1024
+
+RUNTIME_ROUTERS = {
+    "hoai-leistungsphasen-praxis": {f"lph-{phase:02d}-arbeitsrouter" for phase in range(1, 10)},
+    "kartellrecht-marktabgrenzung-pruefung": {"internationale-kartellrechts-jurisdiktionen"},
+    "datenschutzrecht": {"meldung-deutsche-aufsichtsbehoerde"},
+    "steuerrecht-anwalt-und-berater": {
+        "dba-alle-abkommen-laendermatrix-2026",
+        "lohnabrechnung-und-arbeitgeberpflichten",
+        "bwa-analyse-und-mandantenbericht",
+        "sanierungsgewinn-steuerpruefung",
+    },
+    "grosskanzlei-corporate-ma": {"beirat-gestaltung-und-governance"},
+    "haushaltsrecht-bho-bund-laender": {"bho-normen-und-titelpruefung"},
+}
 
 FRONTMATTER_RE = re.compile(r"\A---\n(?P<frontmatter>.*?)\n---(?:\n|\Z)", re.DOTALL)
 DESCRIPTION_RE = re.compile(r"^description:\s*(?P<value>.+?)\s*$", re.MULTILINE)
@@ -60,10 +77,15 @@ def plugin_metrics(plugin: dict[str, object]) -> dict[str, object]:
     embedded_catalogs: list[str] = []
     long_skills: list[tuple[str, int]] = []
     large_references: list[tuple[str, int]] = []
+    large_router_references: list[tuple[str, int]] = []
+    old_selector_phrases: list[str] = []
 
     for skill_path in skill_files:
         text = skill_path.read_text(encoding="utf-8")
         description_chars += description_length(skill_path, text)
+        frontmatter = FRONTMATTER_RE.match(text)
+        if frontmatter and "Wenn es um " in frontmatter.group("frontmatter"):
+            old_selector_phrases.append(str(skill_path.relative_to(REPO)))
         lines = len(text.splitlines())
         longest_skill = max(longest_skill, lines)
         if lines > MAX_SKILL_LINES:
@@ -75,6 +97,11 @@ def plugin_metrics(plugin: dict[str, object]) -> dict[str, object]:
         size = reference_path.stat().st_size
         if size > MAX_REFERENCE_BYTES:
             large_references.append((str(reference_path.relative_to(REPO)), size))
+        if (
+            reference_path.parent.parent.name in RUNTIME_ROUTERS.get(name, set())
+            and size > MAX_ROUTER_REFERENCE_BYTES
+        ):
+            large_router_references.append((str(reference_path.relative_to(REPO)), size))
 
     files = [path for path in plugin_dir.rglob("*") if path.is_file()]
     return {
@@ -86,8 +113,48 @@ def plugin_metrics(plugin: dict[str, object]) -> dict[str, object]:
         "bytes": sum(path.stat().st_size for path in files),
         "long_skills": long_skills,
         "large_references": large_references,
+        "large_router_references": large_router_references,
         "embedded_catalogs": embedded_catalogs,
+        "old_selector_phrases": old_selector_phrases,
     }
+
+
+def runtime_route_errors(plugin_dir: Path, name: str) -> list[str]:
+    errors: list[str] = []
+    skills_dir = plugin_dir / "skills"
+    slugs = {path.parent.name for path in skills_dir.glob("*/SKILL.md")}
+    for router in RUNTIME_ROUTERS.get(name, set()):
+        if router not in slugs:
+            errors.append(f"{name}: Laufzeitrouter fehlt: {router}")
+
+    forbidden: set[str] = set()
+    if name == "hoai-leistungsphasen-praxis":
+        forbidden.update(slug for slug in slugs if re.fullmatch(r"lph-\d{2}-.+", slug) and not slug.endswith("-arbeitsrouter"))
+    elif name == "kartellrecht-marktabgrenzung-pruefung":
+        forbidden.update(slug for slug in slugs if slug.startswith("jurisdiktion-"))
+    elif name == "steuerrecht-anwalt-und-berater":
+        forbidden.update(slug for slug in slugs if slug.startswith("lohn-"))
+        forbidden.update(slug for slug in slugs if slug.startswith("bwa-") and slug != "bwa-analyse-und-mandantenbericht")
+        forbidden.update(slug for slug in slugs if slug.startswith("sanierungsgewinn-") and slug != "sanierungsgewinn-steuerpruefung")
+    elif name == "grosskanzlei-corporate-ma":
+        forbidden.update(slug for slug in slugs if slug.startswith("beirat-") and slug != "beirat-gestaltung-und-governance")
+    elif name == "haushaltsrecht-bho-bund-laender":
+        forbidden.update(slug for slug in slugs if slug.startswith("bho-") and slug != "bho-normen-und-titelpruefung")
+    if forbidden:
+        errors.append(f"{name}: wieder eingeführte Serienrouten: {', '.join(sorted(forbidden)[:8])}")
+
+    alias_prefixes = ("spezial-", "dsv-", "gk-", "anw-", "rom-neu-")
+    duplicate_aliases = []
+    for slug in slugs:
+        for prefix in alias_prefixes:
+            if slug.startswith(prefix) and slug[len(prefix) :] in slugs:
+                duplicate_aliases.append(slug)
+                break
+    if duplicate_aliases:
+        errors.append(
+            f"{name}: doppelte Kern-/Spezialrouten: {', '.join(sorted(duplicate_aliases)[:8])}"
+        )
+    return errors
 
 
 def main() -> int:
@@ -131,11 +198,20 @@ def main() -> int:
                 f"{path}: {size} Bytes überschreiten das Referenzbudget von "
                 f"{MAX_REFERENCE_BYTES}; an Abschnittsgrenzen teilen"
             )
+        for path, size in item["large_router_references"]:
+            errors.append(
+                f"{path}: {size} Bytes überschreiten das Abrufbudget von "
+                f"{MAX_ROUTER_REFERENCE_BYTES} für Laufzeitrouter"
+            )
         for path in item["embedded_catalogs"]:
             errors.append(
                 f"{path}: vollständige Fachmodulkarte im Einstiegsskill; "
                 "nach references/fachmodule.md auslagern"
             )
+        for path in item["old_selector_phrases"]:
+            errors.append(f"{path}: alte ausufernde Wenn-es-um-Auswahlfloskel")
+        source = str(plugin.get("source") or f"./{name}")
+        errors.extend(runtime_route_errors((REPO / source).resolve(), name))
 
     print("Größte Plugin-Routingbudgets:")
     for item in sorted(metrics, key=lambda value: int(value["description_chars"]), reverse=True)[:10]:
@@ -144,10 +220,16 @@ def main() -> int:
             f"{item['description_chars']} Beschreibungszeichen, "
             f"längster Skill {item['longest_skill']} Zeilen"
         )
-    print(
-        f"Gesamt: {sum(int(item['skills']) for item in metrics)} Skills, "
-        f"{sum(int(item['description_chars']) for item in metrics)} Beschreibungszeichen"
-    )
+    total_skills = sum(int(item["skills"]) for item in metrics)
+    total_descriptions = sum(int(item["description_chars"]) for item in metrics)
+    print(f"Gesamt: {total_skills} Skills, {total_descriptions} Beschreibungszeichen")
+    if total_skills > MAX_TOTAL_SKILLS:
+        errors.append(f"Gesamt: {total_skills} Skills überschreiten das Budget von {MAX_TOTAL_SKILLS}")
+    if total_descriptions > MAX_TOTAL_DESCRIPTION_CHARS:
+        errors.append(
+            f"Gesamt: {total_descriptions} Beschreibungszeichen überschreiten das Budget von "
+            f"{MAX_TOTAL_DESCRIPTION_CHARS}"
+        )
 
     if errors:
         print(f"validate-runtime-performance: {len(errors)} Fehler", file=sys.stderr)

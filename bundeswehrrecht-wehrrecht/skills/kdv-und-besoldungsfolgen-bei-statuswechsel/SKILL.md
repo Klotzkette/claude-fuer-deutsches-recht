@@ -1,6 +1,6 @@
 ---
 name: kdv-und-besoldungsfolgen-bei-statuswechsel
-description: "Wenn es um KDV und Besoldungsfolgen bei Statuswechsel in Bundeswehrrecht und Wehrrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für KDV und Besoldungsfolgen bei Statuswechsel: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # KDV und Besoldungsfolgen bei Statuswechsel

@@ -1,6 +1,6 @@
 ---
 name: insolvenz-eines-krankenhauses-versorgungssicherung
-description: "Wenn es um Insolvenz eines Krankenhauses Versorgungssicherung in Krankenhausrecht geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
+description: "Für Insolvenz eines Krankenhauses Versorgungssicherung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Insolvenz eines Krankenhauses Versorgungssicherung

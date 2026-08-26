@@ -1,6 +1,6 @@
 ---
 name: anwalt-steuerberater-personalakte
-description: "Wenn es um Anwalt Und Steuerberater Briefing in Start-up-HR-Personalabteilung Berlin geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Anwalt und Steuerberater Briefing: ordnet Akte, Belege und Lücken; Ergebnis: Schnittstellenkarte mit Zuständigkeits- und Nachweisfragen."
 ---
 
 # Anwalt Und Steuerberater Briefing

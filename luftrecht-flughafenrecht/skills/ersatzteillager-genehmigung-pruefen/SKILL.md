@@ -1,6 +1,6 @@
 ---
 name: ersatzteillager-genehmigung-pruefen
-description: "Wenn es um Ersatzteillager – Genehmigung prüfen in Luftrecht und Flughafenrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Ersatzteillager – Genehmigung prüfen: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Ersatzteillager – Genehmigung prüfen

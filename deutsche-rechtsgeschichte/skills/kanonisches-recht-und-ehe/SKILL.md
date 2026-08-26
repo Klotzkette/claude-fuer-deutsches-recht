@@ -1,6 +1,6 @@
 ---
 name: kanonisches-recht-und-ehe
-description: "Wenn es um Kanonisches Recht und Eherecht in Deutsche Rechtsgeschichte geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Kanonisches Recht und Eherecht: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Kanonisches Recht und Eherecht

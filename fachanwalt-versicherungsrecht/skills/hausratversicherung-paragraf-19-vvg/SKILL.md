@@ -1,6 +1,6 @@
 ---
 name: hausratversicherung-paragraf-19-vvg
-description: "Wenn es um Hausratversicherung Paragraf 19 VVG in Fachanwalt Versicherungsrecht geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Hausratversicherung Paragraf 19 VVG: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Hausratversicherung § 19 VVG

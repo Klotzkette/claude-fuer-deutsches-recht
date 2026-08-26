@@ -1,6 +1,6 @@
 ---
 name: altvertraege-dokumentenmatrix-und-lueckenliste
-description: "Wenn es um Altvertraege: Dokumentenmatrix, Lückenliste und Nachforderung in Vertragsausfüller geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Dokumentenmatrix mit Nachforderungsliste."
+description: "Für Altverträge: Dokumentenmatrix, Lückenliste und Nachforderung: ordnet Akte, Belege und Lücken; Ergebnis: Dokumentenmatrix mit Nachforderungsliste."
 ---
 
 # Altvertraege: Dokumentenmatrix, Lückenliste und Nachforderung

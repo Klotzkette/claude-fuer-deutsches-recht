@@ -1,6 +1,6 @@
 ---
 name: addison-bwa-konfiguration-tipps
-description: "Wenn es um Addison BWA-Konfiguration in Steuerrecht – Steuerberater und Anwälte geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Addison BWA-Konfiguration: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Addison BWA-Konfiguration

@@ -1,6 +1,6 @@
 ---
 name: bautraeger-bonitaetspruefung-warnsignale
-description: "Wenn es um Bautraeger-Bonitaetspruefung Warnsignale in Fachanwalt Bau Architektenrecht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Tatbestands- oder Anspruchsmatrix mit Gegenargumenten."
+description: "Für Bauträger-Bonitätsprüfung Warnsignale: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Tatbestands- oder Anspruchsmatrix."
 ---
 
 # Bautraeger-Bonitaetspruefung Warnsignale

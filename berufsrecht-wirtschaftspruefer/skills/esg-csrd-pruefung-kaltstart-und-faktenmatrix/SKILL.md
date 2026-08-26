@@ -1,6 +1,6 @@
 ---
 name: esg-csrd-pruefung-kaltstart-und-faktenmatrix
-description: "Wenn es um Esg Csrd Prüfung Kaltstart Und Faktenmatrix in Berufsrecht Wirtschaftsprüfer geht: klärt Rolle, Ziel, Frist, Unterlagen und den passenden nächsten Fachskill; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Esg Csrd Prüfung Kaltstart und Faktenmatrix: routet Rolle, Frist, Unterlagen und Fachschritt; Ergebnis: Tatbestands- oder Anspruchsmatrix."
 ---
 
 # Wirtschaftsprüfer: esg csrd prüfung - Kaltstart mit Faktenmatrix, Risikoampel und fehlenden Unterlagen

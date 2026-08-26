@@ -1,6 +1,6 @@
 ---
 name: ausschuss-landesrecht-beschluss-bauen
-description: "Wenn es um Ausschuss Landesrecht Routen in Kommunalrecht der Länder geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Ausschuss Landesrecht Routen: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Ausschuss Landesrecht Routen

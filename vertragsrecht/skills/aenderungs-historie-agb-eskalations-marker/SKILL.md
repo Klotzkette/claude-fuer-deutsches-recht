@@ -1,6 +1,6 @@
 ---
 name: aenderungs-historie-agb-eskalations-marker
-description: "Wenn es um Nachtragsverwaltung in Vertragsrecht geht: entwickelt Verhandlungsziel, Vergleichskorridor und Eskalationspfad; liefert eine Verhandlungs- oder Eskalationslinie mit Optionen."
+description: "Für Nachtragsverwaltung: entwickelt Ziel, Vergleich und Eskalation; Ergebnis: Verhandlungs- oder Eskalationslinie."
 ---
 
 # Nachtragsverwaltung

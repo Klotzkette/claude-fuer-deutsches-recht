@@ -1,6 +1,6 @@
 ---
 name: foto-im-wahlraum-und-stimmzettel
-description: "Wenn es um Foto Im Wahlraum Und Stimmzettel in Wahlkampfrecht Praxis geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Foto im Wahlraum und Stimmzettel: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Foto Im Wahlraum Und Stimmzettel

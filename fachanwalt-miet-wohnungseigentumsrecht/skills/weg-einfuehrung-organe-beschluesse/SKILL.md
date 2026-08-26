@@ -1,6 +1,6 @@
 ---
 name: weg-einfuehrung-organe-beschluesse
-description: "Wenn es um Wohnungseigentumsrecht-Einfuehrung: Eigentuemerversammlung, Verwalter, Verwaltungsbeirat in Fachanwalt Miet- und Wohnungseigentumsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Wohnungseigentumsrecht-Einführung: Eigentümerversammlung, Verwalter, Verwaltungsbeirat: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Wohnungseigentumsrecht-Einfuehrung: Eigentuemerversammlung, Verwalter, Verwaltungsbeirat

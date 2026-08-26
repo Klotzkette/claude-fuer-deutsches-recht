@@ -1,6 +1,6 @@
 ---
 name: sachverhalt-neutral-darstellen
-description: "Wenn es um Sachverhalt neutral darstellen in E-Mail-Umformulierer geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Sachverhalt neutral darstellen: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Schnittstellenkarte mit Zuständigkeits- und Nachweisfragen."
 ---
 
 # Sachverhalt neutral darstellen

@@ -7,20 +7,20 @@ Diese Vollprüfung enthält top-15 von 60 Skills des Plugins `barrierefreiheit-w
 ## Inhaltsverzeichnis
 
 1. **juristischer-argumentationskern** — Schaltet sich ein, wenn in Barrierefreiheit Web Checker ein juristisches Arbeitsprodukt tragfähig begründet werden muss;…
-2. **einstieg-routing** — Wenn es um Einstieg und Routing in Barrierefreiheit Web Checker geht: klärt Rolle, Ziel, Frist, Unterlagen und den passe…
-3. **barrierefreiheits-erstpruefung-und-mandatsziel** — Wenn es um Barrierefreiheits: Erstprüfung, Rollenklärung und Mandatsziel in Barrierefreiheit Web Checker geht: klärt Rol…
-4. **scope-bfsg-screenreader-semantik-abnahme** — Wenn es um Scope: BFSG, BITV, WAD, freiwilliger Standard in Barrierefreiheit Web Checker geht: ordnet Sachverhalt, Norm,…
-5. **kontrast-farbe-motion-responsive** — Wenn es um Kontrast, Farbe, Motion, Responsive in Barrierefreiheit Web Checker geht: ordnet Sachverhalt, Norm, Beweislas…
-6. **audit-barrierefreiheits-bfsg** — Wenn es um Audit: Schriftsatz-, Brief- und Memo-Bausteine in Barrierefreiheit Web Checker geht: erstellt den passenden E…
-7. **pdfs-compliance-dokumentation-und-akte** — Wenn es um Pdfs: Compliance-Dokumentation und Aktenvermerk in Barrierefreiheit Web Checker geht: ordnet Akteninhalt, Bel…
-8. **schulung-und-rolle-accessibility-champion** — Wenn es um Schulung und Champion-Modell in Barrierefreiheit Web Checker geht: ordnet Sachverhalt, Norm, Beweislast, Gege…
-9. **screenreader-semantik-aria** — Wenn es um Screenreader, Semantik, ARIA in Barrierefreiheit Web Checker geht: ordnet Sachverhalt, Norm, Beweislast, Gege…
-10. **bf-pdf-schriftsaetze-versand** — Wenn es um BF: PDF-Schriftsatz-Versand in Barrierefreiheit Web Checker geht: ordnet Sachverhalt, Norm, Beweislast, Gegen…
-11. **tastatur-fokus-ueberwachungsstelle** — Wenn es um Tastatur, Fokus, Navigation in Barrierefreiheit Web Checker geht: ordnet Sachverhalt, Norm, Beweislast, Gegen…
-12. **formulare-zahlen-schwellen-und-berechnung** — Wenn es um Formulare: Zahlen, Schwellenwerte und Berechnung in Barrierefreiheit Web Checker geht: rechnet Schwellen, Bet…
-13. **wcag-risikoampel-und-gegenargumente** — Wenn es um Wcag: Risikoampel, Gegenargumente und Verteidigungslinien in Barrierefreiheit Web Checker geht: zerlegt Ergeb…
-14. **bf-kiosk-selbstbedienung-mediendienste** — Wenn es um BF: Kiosk-Terminals in Barrierefreiheit Web Checker geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargument…
-15. **bf-kanzleiwebsite-konkret** — Wenn es um BF: Kanzleiwebsite in Barrierefreiheit Web Checker geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente…
+2. **einstieg-routing** — Für Einstieg und Routing: routet Rolle, Frist, Unterlagen und Fachschritt; Ergebnis: Prüfprodukt mit Risiko und nächstem…
+3. **barrierefreiheits-erstpruefung-und-mandatsziel** — Für Barrierefreiheits: Erstprüfung, Rollenklärung und Mandatsziel: routet Rolle, Frist, Unterlagen und Fachschritt; Erge…
+4. **workflow-kaltstart-und-routing** — Für Kaltstart und Routing: routet Rolle, Frist, Unterlagen und Fachschritt; Ergebnis: Prüfprodukt mit Risiko und nächste…
+5. **anschluss-routing** — Für Anschluss-Routing: routet Rolle, Frist, Unterlagen und Fachschritt; Ergebnis: Prüfprodukt mit Risiko und nächstem Sc…
+6. **mandantenkommunikation-redteam-qualitygate** — Für Mandantenkommunikation: prüft Ergebnis, Beweislast und Gegenposition; Ergebnis: Gegenprüfung mit Beweis- und Fristen…
+7. **quellen-livecheck** — Für Rechtsquellen-Livecheck: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Sc…
+8. **roadmap-internationaler-bezug-und-schnittstellen** — Für Roadmap: Internationaler Bezug und Schnittstellen: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Schnittstell…
+9. **workflow-redteam-qualitygate** — Für Red-Team Qualitygate: prüft Ergebnis, Beweislast und Gegenposition; Ergebnis: Gegenprüfung mit Beweis- und Fristench…
+10. **workflow-chronologie-und-belegmatrix** — Für Chronologie und Belegmatrix: ordnet Akte, Belege und Lücken; Ergebnis: Chronologie mit Beleg- und Widerspruchsmatrix…
+11. **ecommerce-mandantenkommunikation-entscheidungsvorlage** — Für Ecommerce: Mandantenkommunikation und Entscheidungsvorlage: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Man…
+12. **output-waehlen** — Für Output wählen: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt. Fac…
+13. **workflow-unterlagen-lueckenliste** — Für Unterlagen- und Lückenliste: ordnet Akte, Belege und Lücken; Ergebnis: Dokumentenmatrix mit Nachforderungsliste. Fac…
+14. **formulare-zahlen-schwellen-und-berechnung** — Für Formulare: Zahlen, Schwellenwerte und Berechnung: rechnet Beträge, Schwellen und Varianten; Ergebnis: Berechnungstab…
+15. **erklaerung-interessen-formulare-pdfs** — Für Erklärung: Mehrparteienkonflikt und Interessenmatrix: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Einreichu…
 
 ---
 
@@ -141,7 +141,7 @@ Ausgangspunkt für dieses Plugin: Anspruchsteller für anspruchsbegründende Tat
 
 ## Skill: `einstieg-routing`
 
-_Wenn es um Einstieg und Routing in Barrierefreiheit Web Checker geht: klärt Rolle, Ziel, Frist, Unterlagen und den passenden nächsten Fachskill; liefert eine Fristen- und Risikoampel mit Sofortschritten._
+_Für Einstieg und Routing: routet Rolle, Frist, Unterlagen und Fachschritt; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt. Fachgebiet: Barrierefreiheit Web Checker._
 
 # Einstieg und Routing
 
@@ -185,7 +185,7 @@ Dieser Einstieg routet **Barrierefreiheit Web Checker** vom ersten Sachverhalt z
 
 ## Skill: `barrierefreiheits-erstpruefung-und-mandatsziel`
 
-_Wenn es um Barrierefreiheits: Erstprüfung, Rollenklärung und Mandatsziel in Barrierefreiheit Web Checker geht: klärt Rolle, Ziel, Frist, Unterlagen und den passenden nächsten Fachskill; liefert eine Fristen- und Risikoampel mit Sofortschritten._
+_Für Barrierefreiheits: Erstprüfung, Rollenklärung und Mandatsziel: routet Rolle, Frist, Unterlagen und Fachschritt; Ergebnis: Tatbestands- oder Anspruchsmatrix._
 
 # Barrierefreiheits: Erstprüfung, Rollenklärung und Mandatsziel
 
@@ -243,133 +243,194 @@ Vollumfängliches Audit aller Seiten/Funktionen vs. risikobasiertes Stichprobena
 
 ---
 
-## Skill: `scope-bfsg-screenreader-semantik-abnahme`
+## Skill: `workflow-kaltstart-und-routing`
 
-_Wenn es um Scope: BFSG, BITV, WAD, freiwilliger Standard in Barrierefreiheit Web Checker geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen._
+_Für Kaltstart und Routing: routet Rolle, Frist, Unterlagen und Fachschritt; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt. Fachgebiet: Barrierefreiheit Web Checker._
 
-# Scope: BFSG, BITV, WAD, freiwilliger Standard
+# Kaltstart und Routing
 
-## Arbeitsweg
+## Aufgabe
+Nutze diesen Workflow-Skill für Kaltstart und Routing: führt vom ersten Satz oder Dokument in den passenden Arbeitsweg, erkennt Rolle, Ziel, Risiko und Anschluss-Skills.
 
-- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
-- Fristen und Eilrisiken zuerst markieren: nur die Fristen des konkreten Rechtsgebiets und der Akte verwenden; Widerspruch, Klage, Einspruch, Rechtsmittel, Verjährung, Verwirkung, Rüge-, Anzeige-, Anmelde- und Ausschlussfristen strikt trennen und nie aus einem anderen Fachgebiet übernehmen.
-- Tragende Normen verifizieren: BFSG; WCAG — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
-- Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
-- Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
+## Kaltstart
+Wenn Material vorliegt, arbeite zuerst mit dem Material. Stelle nur Rückfragen, die für die nächste Weiche nötig sind:
 
-## Spezialwissen
+1. Wer fragt in welcher Rolle?
+2. Was ist das gewünschte Ergebnis?
+3. Gibt es Fristen, Termine, Zustellungen, Zahlungen oder Sanktionen?
+4. Welche Unterlagen, Daten oder Belege liegen bereits vor?
 
-Dieser Einstieg öffnet den Arbeitsgang, wenn unklar ist, ob eine Website rechtlich barrierefrei sein muss und nach welchem Maßstab.
+## Arbeitsworkflow
+1. Rolle, Ziel, Frist und Unterlagenlage in höchstens fünf Fragen klären.
+2. Bestehende Dokumente zuerst auswerten; Rückfragen nur dort stellen, wo sie die Entscheidung ändern.
+3. Passende Spezialskills aus diesem Plugin vorschlagen und begründen.
+4. Ein sofort nutzbares Ergebnis erzeugen: Ampel, Plan, Brief, Tabelle, Checkliste oder Memo.
 
-## Prüffragen
+## Routing-Diagnose Barrierefreiheit
+- **"Privatwirtschaftliches Angebot (E-Commerce, Banking, Personenverkehr usw.)"** → **BFSG** (Barrierefreiheitsstärkungsgesetz, gilt seit **28.06.2025**); Adressaten nach § 3 BFSG, ausgenommen Kleinstunternehmen nach § 3 Abs. 3 BFSG.
+- **"Öffentliche Stelle (Bund/Land/Kommune)"** → **BITV 2.0** (Bund) und Landesrecht; Grundlage: BGG, Richtlinie (EU) 2016/2102.
+- **"B2B-Software, B2B-Webseite"** → BFSG i.d.R. nicht anwendbar (nur B2C-Verbraucherprodukte/-dienstleistungen).
+- **"Bestehendes Produkt vor 28.06.2025"** → Übergangsregelungen § 38 BFSG: Selbstbedienungsterminals 15 Jahre.
+- **"Beschwerde / Schlichtung"** → § 16 BFSG Marktüberwachung; § 21 BFSG Schlichtungsstelle.
 
-1. Wer betreibt das Angebot?
-2. Richtet sich das Angebot an Verbraucher?
-3. Wird online ein Vertrag angebahnt oder geschlossen?
-4. Handelt es sich um eine öffentliche Stelle oder um ein privates Unternehmen?
-5. Ist es Website, mobile App, Webshop, Banking, Verkehr, Telekommunikation, E-Book, Ticketing oder nur Information?
-6. Gibt es Kleinstunternehmens-, Altbestands- oder Übergangsfragen?
-7. Gibt es Vergabe-, Fördermittel- oder vertragliche Anforderungen unabhängig vom Gesetz?
+## Praxis-Tipp
+BFSG erfasst nicht alle Branchen, sondern den abschließenden Katalog § 1 Abs. 2/3 BFSG (Computerhardware, Selbstbedienungsterminals, Verbraucherendgeräte für elektronische Kommunikation, audiovisuelle Mediendienste, Personenverkehr, Bankendienstleistungen, E-Books, elektronischer Geschäftsverkehr). Außerhalb des Katalogs: keine BFSG-Pflicht — aber AGG, BGG, ggf. tarifvertraglich.
 
-## Ergebnisformat
+## Output-Standard
+- Kurzbild: worum es geht, was gesichert ist, was offen ist.
+- Prüf- oder Bearbeitungsmatrix mit den entscheidenden Punkten.
+- Konkreter nächster Schritt mit Frist, Zuständigkeit und Unterlagen.
+- Bei Außenkommunikation: knapper, sachlicher Textbaustein ohne unnötige Nebenangaben.
 
-| Frage | Befund | Folge |
-| --- | --- | --- |
-| Öffentliche Stelle? | [...] | BITV/WAD prüfen |
-| BFSG-Dienstleistung? | [...] | BFSG/BFSGV prüfen |
-| E-Commerce? | [...] | Checkout und Vertragsstrecke prüfen |
-| Nur B2B/Information? | [...] | Pflicht offen/freiwillig |
-| Standardmaßstab | [...] | EN 301 549 / WCAG |
-
-## Wichtig
-
-Nicht jede Website fällt automatisch unter das BFSG. Aber wenn eine Website Teil einer erfassten Dienstleistung ist, insbesondere einer elektronischen Geschäftsverkehrsdienstleistung, reicht ein hübscher statischer Auftritt nicht. Der gesamte digitale Weg bis zum Vertrag muss nutzbar sein.
-
-## Erfasste Dienstleistungen nach § 1 Abs. 3 BFSG
-- Telekommunikationsdienste (außer Maschine-zu-Maschine)
-- Personenbeförderungs-Webseiten und -Apps (Echtzeitinformationen, Buchung, Tickets)
-- Bankdienstleistungen für Verbraucher
-- E-Books und Lesesoftware
-- Dienstleistungen im elektronischen Geschäftsverkehr (Online-Shops, Marktplätze)
-- Audiovisuelle Mediendienste (Zugang zu Inhalten, nicht die Inhalte selbst)
-
-## Erfasste Produkte nach § 1 Abs. 2 BFSG
-- Hardware/Betriebssysteme für Universal-Computer für Verbraucher
-- Selbstbedienungsterminals (Geldautomaten, Ticketautomaten, Check-in-Automaten)
-- Verbraucher-Endgeräte für Telekommunikations- und audiovisuelle Mediendienste
-- E-Book-Lesegeräte
-
-## Ausnahmen
-- **Kleinstunternehmen** (§ 3 Nr. 17 BFSG: < 10 Beschäftigte und ≤ 2 Mio. EUR Jahresumsatz/-bilanzsumme), die **Dienstleistungen** erbringen — diese Ausnahme gilt nicht für Produkte!
-- **Unverhältnismäßige Belastung** (§ 17 BFSG): nur mit dokumentierter Bewertung anhand der in § 17 Abs. 2 BFSG genannten Kriterien.
-- **Grundlegende Veränderung** (§ 16 BFSG): wenn die Anforderung das Wesen des Produkts/der Dienstleistung verändern würde.
-
-## Übergangsfristen (§§ 38, 39 BFSG)
-- 28.06.2025: Pflicht für neu in Verkehr gebrachte Produkte und neu erbrachte Dienstleistungen.
-- Selbstbedienungsterminals: Übergangsfrist bis längstens 27.06.2040 für bestehende Geräte.
-- Vor 28.06.2025 geschlossene Dienstleistungsverträge: Geltung erst zum Vertragsende oder nach 5 Jahren.
-
-## Marktüberwachung und Sanktionen
-- Zuständige Marktüberwachungsbehörde nach § 19 BFSG ist je nach Bundesland geregelt; bundesweit koordinierend ist die Bundesanstalt für Arbeitsschutz und Arbeitsmedizin (BAuA) für Produkte; für Dienstleistungen das Eisenbahn-Bundesamt bzw. die Landesbehörden.
-- Bußgeld nach § 37 BFSG bis 100.000 EUR; bei Verstößen gegen Kennzeichnungspflichten bis 10.000 EUR.
+## Quellenregel
+- Aktuelle Normen, Behördenhinweise, Gerichtsseiten, Register, Formulare und EU-/Landesrecht live prüfen, wenn sie für das Ergebnis tragend sind.
+- Rechtsprechung nur mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle ausgeben.
+- Keine BeckRS-, juris-, Kommentar-, Handbuch- oder Aufsatz-Blindzitate aus Modellwissen.
+- Unsicherheiten und Annahmen ausdrücklich markieren.
 
 ---
 
-## Skill: `kontrast-farbe-motion-responsive`
+## Skill: `anschluss-routing`
 
-_Wenn es um Kontrast, Farbe, Motion, Responsive in Barrierefreiheit Web Checker geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt._
+_Für Anschluss-Routing: routet Rolle, Frist, Unterlagen und Fachschritt; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt. Fachgebiet: Barrierefreiheit Web Checker._
 
-# Kontrast, Farbe, Motion, Responsive
+# Anschluss-Routing
+
+## Einsatzlage
+
+Dieses Anschluss-Routing für **Barrierefreiheit Web Checker** wählt nach dem ersten Ergebnis die passende Vertiefung, Eskalation, Fristensicherung oder Dokumentenerstellung.
+
+## Fachlandkarte dieses Plugins
+
+- `abnahme-formular-portal-und-einreichung` — Abnahme Formular Portal und Einreichung
+- `agentur-abnahme-vergabe` — Agentur Abnahme Vergabe
+- `audit-barrierefreiheits-bfsg` — Audit Barrierefreiheits Bfsg
+- `automatisierter-audit-axe-lighthouse` — Automatisierter Audit AXE Lighthouse
+- `barrierefreiheit-fehlerkatalog` — Barrierefreiheit Fehlerkatalog
+- `barrierefreiheits-erstpruefung-und-mandatsziel` — Barrierefreiheits Erstpruefung und Mandatsziel
+- `bf-kanzleiwebsite-konkret` — BF Kanzleiwebsite Konkret
+- `bf-kiosk-selbstbedienung-mediendienste` — BF Kiosk Selbstbedienung Mediendienste
+- `bf-mediendienste-untertitel-spezial` — BF Mediendienste Untertitel Spezial
+- `bf-pdf-schriftsaetze-versand` — BF PDF Schriftsaetze Versand
+- `bfsg-tatbestand-beweis-und-belege` — Bfsg Tatbestand Beweis und Belege
+- `bfsg-zeitleiste-ecommerce-checkout-en301549` — Bfsg Zeitleiste Ecommerce Checkout En301549
+- `bfsgv-schulung-fristennotiz-agentur-abnahme` — Bfsgv Schulung Fristennotiz Agentur Abnahme
+- `dokumente-intake` — Dokumente Intake
+- `einstieg-routing` — Einstieg Routing
 
 ## Arbeitsweg
 
-- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
-- Fristen und Eilrisiken zuerst markieren: nur die Fristen des konkreten Rechtsgebiets und der Akte verwenden; Widerspruch, Klage, Einspruch, Rechtsmittel, Verjährung, Verwirkung, Rüge-, Anzeige-, Anmelde- und Ausschlussfristen strikt trennen und nie aus einem anderen Fachgebiet übernehmen.
-- Tragende Normen verifizieren: BFSG; WCAG — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
-- Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
-- Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
+- Ergebnis sichten: Welche Web-Barrierefreiheit-Fragen sind nach diesem Skill beantwortet, welche bleiben offen oder neu entstehen?
+- Anschlussweichen identifizieren: drohende Frist (BFSG Geltungsbeginn 28.06.2025, BITV-Erklärung jährlich aktualisieren, Beschwerde § 7 BFSG), notwendige Dokumente (Barrierefreiheitserklärung, WCAG-Audit-Bericht, Schlichtungsantrag, Konformitätserklärung BFSG), nächste Verfahrensstufe oder Sachgebiet.
+- Konkreten Folge-Skill aus der Fachlandkarte oben benennen — nicht generisch "weitermachen", sondern Skill-Slug nennen.
+- Eskalation an Webseitenbetreiber, Bundes-/Landesbarrierefreiheitsbeauftragter, Schlichtungsstelle BFSG, Marktüberwachung oder Spezialisten klären, wenn der Vorgang die Skill-Grenze überschreitet.
+- Mandantenkommunikation vorbereiten: Was muss der Mandant tun, bis wann, welche Unterlagen bringen, welche Risiken sind offen?
 
-## Spezialwissen
+## Qualitätsanker
 
-Dieses Fachmodul prüft visuelle und responsive Barrierefreiheit.
-
-## Prüfungslinien
-
-- Text- und Komponenten-Kontrast.
-- Informationen nicht nur durch Farbe.
-- Zoom bis 200 Prozent ohne Funktionsverlust.
-- Reflow bei schmaler Ansicht.
-- Textabstände und Zeilenhöhen.
-- Animationen, Parallax, Autoplay, blinkende Inhalte.
-- prefers-reduced-motion respektieren.
-- Touch-Zielgrößen und mobile Bedienbarkeit.
-
-## Matrix
-
-| Komponente | Problem | Nutzerwirkung | Fix |
-| --- | --- | --- | --- |
-| Button | Kontrast zu niedrig | nicht erkennbar | Farbe/Border anpassen |
-| Fehlermeldung | nur rot | Farbwahrnehmung | Icon + Text |
-| Slider | Autoplay | Bewegung/Bedienung | Pause/Stop + Motion |
-
-## Priorität
-
-Kontrast und Reflow sind oft schnell zu beheben und stark nutzerwirksam. Animationsprobleme werden gern unterschätzt, weil sie nur manche Nutzer hart treffen.
-
-## Schneller Arbeitsmodus
-
-- Lege den Scope fest: Website, App, PDF, Checkout, Formular, Intranet oder öffentliche Stelle; dazu Normrahmen BFSG/BITV/WAD/EN 301 549/WCAG.
-- Beurteile nicht nur formal, sondern aus Nutzersicht: Tastatur, Screenreader, Zoom/Reflow, Kontrast, Fehlermeldungen, Zeitlimits und Dokumentzugang.
-- Automatische Scanner sind nur Startpunkt. Markiere False Positives, manuelle Nachpruefung und reproduzierbare Testschritte.
-- Formuliere Fixes als Entwickler-Tickets mit Komponente, Problem, Nutzerwirkung, Normbezug, Prioritaet und Re-Test.
+- Normen und Rechtsprechung nach `references/quellenhygiene.md` und `references/zitierweise.md` behandeln.
+- Wenn eine Spezialfrage sichtbar wird, den passenden Skill nennen und kurz erklären, warum genau dieser Arbeitsgang passt.
+- Bei Zeitdruck zuerst Frist, Zuständigkeit, Form und Beweislast sichern.
 
 ---
 
-## Skill: `audit-barrierefreiheits-bfsg`
+## Skill: `mandantenkommunikation-redteam-qualitygate`
 
-_Wenn es um Audit: Schriftsatz-, Brief- und Memo-Bausteine in Barrierefreiheit Web Checker geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik._
+_Für Mandantenkommunikation: prüft Ergebnis, Beweislast und Gegenposition; Ergebnis: Gegenprüfung mit Beweis- und Fristencheck. Fachgebiet: Barrierefreiheit Web Checker._
 
-# Audit: Schriftsatz-, Brief- und Memo-Bausteine
+# Mandantenkommunikation
+
+## Arbeitsauftrag
+
+Dieser Arbeitsgang macht **Mandantenkommunikation** im Bereich **barrierefreiheit-web-checker** sofort bearbeitbar: erst Akte lesen, dann Rollen, Ziel, Fristen, Belege und Entscheidungspunkte ordnen. Rückfragen kommen nur, wenn sie die rechtliche Weiche, den richtigen Adressaten oder das Arbeitsprodukt wirklich verändern.
+
+## Aktenstart ohne Leerlauf
+
+1. Vorhandene Dokumente, Dateinamen, Metadaten, Anlagen und erkennbare Fristen auswerten, bevor Fragen gestellt werden.
+2. Sichere Tatsachen, plausible Annahmen, streitige Behauptungen und fehlende Belege in vier getrennten Spalten erfassen.
+3. Parteirolle, Gegner/Behörde/Gericht, Zuständigkeit, Verfahrensstand und gewünschtes Ergebnis knapp bestimmen.
+4. Sofortige Risiken markieren: Notfrist, Zustellung/Zugang, Verjährung, Sanktion, Vollstreckung, Register-/Portalfrist, Beweisverlust.
+5. Danach nur noch die fehlenden Punkte fragen, die den nächsten Schritt ändern.
+
+## Fachliche Anker
+
+- BFSG/BFSGV, BGG, BITV 2.0, WCAG/EN 301 549, AGG und Verwaltungsverfahrensrecht je nach Adressat.
+- Adressat, Produkt/Dienstleistung, Frist, Ausnahme, technische Barriere, Nachweis und Abhilfe getrennt ausgeben.
+- Bei leichter Sprache: juristische Richtigkeit behalten, Fachwörter erklären und keine Rechte verkürzen.
+
+## Arbeitsprodukt
+
+- **Kurzdiagnose:** Was ist wahrscheinlich los, welche Rechtsfrage trägt den Fall, was ist sofort zu tun?
+- **Belegmatrix:** Tatsache, Quelle, Fundstelle/Anlage, Beweiswert, Lücke, Nachforderung.
+- **Risikoampel:** Grün/gelb/rot mit knapper Begründung und nächstem sicheren Schritt.
+- **Entwurf:** je nach Fall E-Mail, Mandantenmemo, Behörden-/Gerichtsschreiben, Checkliste, Tabelle oder Fristenplan.
+- **Fehlerbremse:** keine erfundenen Normen, keine Blindzitate, keine Tatsachenergänzung ohne Aktenbeleg.
+
+## Ergänzende Hinweise
+
+## Mandantenkommunikation Barrierefreiheit
+- **Anrede + Bezug:** "In Sachen [Mandant] / Ihre BFSG-Konformität"
+- **Sachstand kurz:** Anwendungsbereich BFSG (welcher Katalog-Tatbestand), Audit-Stand, Mängelübersicht (Critical/Major/Minor).
+- **Empfehlung:** Reihenfolge der Behebung — zuerst Critical (Tastatur, Screenreader, Kontrast, Formularlabels), dann Major, dann Minor.
+- **Risikoampel** mit Bezug auf § 37 BFSG (Bußgeld bis 100.000 EUR) und Marktüberwachung § 19 BFSG.
+- **Frist:** BFSG seit 28.06.2025; bei laufender Marktüberwachung konkrete Behördenfrist.
+- **Kostenhinweis:** RVG/Honorarvereinbarung; bei Audit ggf. Pauschalabrede.
+- **Klarheit über Reichweite:** Audit-Methodik (WCAG 2.1 AA via EN 301 549), getestete Seiten/Funktionen — keine Generalaussage aus Stichprobe.
+
+## Praxis-Tipp
+Vermeiden Sie die Botschaft "barrierefrei" oder "nicht barrierefrei". Korrekt ist immer: "konform zu WCAG 2.1 AA, geprüft am [Datum] auf [Geltungsbereich]". Die Differenz zwischen Stichprobe und Generalaussage ist haftungsrelevant.
+
+---
+
+## Skill: `quellen-livecheck`
+
+_Für Rechtsquellen-Livecheck: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt. Fachgebiet: Barrierefreiheit Web Checker._
+
+# Rechtsquellen-Livecheck
+
+## Einsatzlage
+
+Dieser Quellen-Livecheck für **Barrierefreiheit Web Checker** trennt amtliche Normfassung, frei prüfbare Rechtsprechung, Behördenhinweise, Formularstand und offene Aktualitätsrisiken.
+
+## Fachlandkarte dieses Plugins
+
+- `abnahme-formular-portal-und-einreichung` — Abnahme Formular Portal und Einreichung
+- `agentur-abnahme-vergabe` — Agentur Abnahme Vergabe
+- `audit-barrierefreiheits-bfsg` — Audit Barrierefreiheits Bfsg
+- `automatisierter-audit-axe-lighthouse` — Automatisierter Audit AXE Lighthouse
+- `barrierefreiheit-fehlerkatalog` — Barrierefreiheit Fehlerkatalog
+- `barrierefreiheits-erstpruefung-und-mandatsziel` — Barrierefreiheits Erstpruefung und Mandatsziel
+- `bf-kanzleiwebsite-konkret` — BF Kanzleiwebsite Konkret
+- `bf-kiosk-selbstbedienung-mediendienste` — BF Kiosk Selbstbedienung Mediendienste
+- `bf-mediendienste-untertitel-spezial` — BF Mediendienste Untertitel Spezial
+- `bf-pdf-schriftsaetze-versand` — BF PDF Schriftsaetze Versand
+- `bfsg-tatbestand-beweis-und-belege` — Bfsg Tatbestand Beweis und Belege
+- `bfsg-zeitleiste-ecommerce-checkout-en301549` — Bfsg Zeitleiste Ecommerce Checkout En301549
+- `bfsgv-schulung-fristennotiz-agentur-abnahme` — Bfsgv Schulung Fristennotiz Agentur Abnahme
+- `anschluss-routing` — Anschluss Routing
+- `dokumente-intake` — Dokumente Intake
+
+## Arbeitsweg
+
+- Tragende Normen (BFSG, BITV 2.0, EU 2016/2102, EAA-RL 2019/882, WCAG 2.1 / 2.2 (AA), DIN EN 301 549) zuerst amtlich verifizieren: gesetze-im-internet.de oder spezialisiertes Bundesgesetzblatt-Portal; nicht aus Modellwissen finalisieren.
+- Rechtsprechung nur mit vollständiger Zitatkette: Gericht, Senat, Entscheidungsform, Datum, Aktenzeichen, Fundstelle (BGHZ/BVerfGE/amtl. Sammlung) und frei prüfbare Quelle (dejure.org, openJur, Pressemitteilungen des Gerichts, BGH-/BVerfG-Datenbank).
+- Paywall-Quellen (juris, beck-online) nicht als alleinige Verifikation nutzen; immer eine freie Bestätigung beilegen.
+- Dynamische Bereiche im Web-Barrierefreiheit (Rechtsverordnungen, Verwaltungspraxis, Mietspiegel, Tarife) gesondert tagesaktuell prüfen, weil Modellwissen veraltet ist.
+- Quellenstand und offene Unsicherheit im Output sichtbar machen — kein Pseudo-Zitat ohne Live-Check.
+
+## Qualitätsanker
+
+- Normen und Rechtsprechung nach `references/quellenhygiene.md` und `references/zitierweise.md` behandeln.
+- Wenn eine Spezialfrage sichtbar wird, den passenden Skill nennen und kurz erklären, warum genau dieser Arbeitsgang passt.
+- Bei Zeitdruck zuerst Frist, Zuständigkeit, Form und Beweislast sichern.
+
+---
+
+## Skill: `roadmap-internationaler-bezug-und-schnittstellen`
+
+_Für Roadmap: Internationaler Bezug und Schnittstellen: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Schnittstellenkarte mit Zuständigkeits- und Nachweisfragen._
+
+# Roadmap: Internationaler Bezug und Schnittstellen
 
 ## Normenanker
 
@@ -394,7 +455,7 @@ Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei pr
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
-## Spezialwissen: Audit: Schriftsatz-, Brief- und Memo-Bausteine
+## Spezialwissen: Roadmap: Internationaler Bezug und Schnittstellen
 - **Normen-/Quellenanker:** BFSG, BFSGV, BITV, EN, WCAG.
 
 ## Fallweichen
@@ -408,31 +469,115 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 
 ## Arbeitsworkflow
 1. **Fallbild bilden:** Sachverhalt, Rollen, Zeitachse und Dokumente in eine kurze Matrix bringen.
-2. **Rechtsrahmen setzen:** Normen, Zuständigkeiten, Fristen, Formfragen und Verfahrensstand zum Themenfeld **Audit** prüfen.
+2. **Rechtsrahmen setzen:** Normen, Zuständigkeiten, Fristen, Formfragen und Verfahrensstand zum Themenfeld **Roadmap** prüfen.
 3. **Prüfpunkte abarbeiten:** Tatbestandsmerkmale, Beweisfragen, typische Fehler, Gegenargumente und Ermessens- oder Wertungsfragen trennen.
 4. **Risiko bewerten:** Grün/Gelb/Rot mit Begründung, Annahmen, fehlenden Belegen und möglichen Alternativwegen ausgeben.
 5. **Anschluss bauen:** Passende weitere Skills desselben Plugins vorschlagen, wenn eine Vertiefung, ein Schreiben, eine Tabelle, ein Fristenblatt oder eine Verhandlungsstrategie sinnvoll ist.
 
 ---
 
-## Skill: `pdfs-compliance-dokumentation-und-akte`
+## Skill: `workflow-redteam-qualitygate`
 
-_Wenn es um Pdfs: Compliance-Dokumentation und Aktenvermerk in Barrierefreiheit Web Checker geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt._
+_Für Red-Team Qualitygate: prüft Ergebnis, Beweislast und Gegenposition; Ergebnis: Gegenprüfung mit Beweis- und Fristencheck. Fachgebiet: Barrierefreiheit Web Checker._
 
-# Pdfs: Compliance-Dokumentation und Aktenvermerk
+# Red-Team Qualitygate
+
+## Arbeitsauftrag
+
+Dieser Arbeitsgang macht **Red-Team Qualitygate** im Bereich **barrierefreiheit-web-checker** sofort bearbeitbar: erst Akte lesen, dann Rollen, Ziel, Fristen, Belege und Entscheidungspunkte ordnen. Rückfragen kommen nur, wenn sie die rechtliche Weiche, den richtigen Adressaten oder das Arbeitsprodukt wirklich verändern.
+
+## Aktenstart ohne Leerlauf
+
+1. Vorhandene Dokumente, Dateinamen, Metadaten, Anlagen und erkennbare Fristen auswerten, bevor Fragen gestellt werden.
+2. Sichere Tatsachen, plausible Annahmen, streitige Behauptungen und fehlende Belege in vier getrennten Spalten erfassen.
+3. Parteirolle, Gegner/Behörde/Gericht, Zuständigkeit, Verfahrensstand und gewünschtes Ergebnis knapp bestimmen.
+4. Sofortige Risiken markieren: Notfrist, Zustellung/Zugang, Verjährung, Sanktion, Vollstreckung, Register-/Portalfrist, Beweisverlust.
+5. Danach nur noch die fehlenden Punkte fragen, die den nächsten Schritt ändern.
+
+## Fachliche Anker
+
+- BFSG/BFSGV, BGG, BITV 2.0, WCAG/EN 301 549, AGG und Verwaltungsverfahrensrecht je nach Adressat.
+- Adressat, Produkt/Dienstleistung, Frist, Ausnahme, technische Barriere, Nachweis und Abhilfe getrennt ausgeben.
+- Bei leichter Sprache: juristische Richtigkeit behalten, Fachwörter erklären und keine Rechte verkürzen.
+
+## Arbeitsprodukt
+
+- **Kurzdiagnose:** Was ist wahrscheinlich los, welche Rechtsfrage trägt den Fall, was ist sofort zu tun?
+- **Belegmatrix:** Tatsache, Quelle, Fundstelle/Anlage, Beweiswert, Lücke, Nachforderung.
+- **Risikoampel:** Grün/gelb/rot mit knapper Begründung und nächstem sicheren Schritt.
+- **Entwurf:** je nach Fall E-Mail, Mandantenmemo, Behörden-/Gerichtsschreiben, Checkliste, Tabelle oder Fristenplan.
+- **Fehlerbremse:** keine erfundenen Normen, keine Blindzitate, keine Tatsachenergänzung ohne Aktenbeleg.
+
+## Ergänzende Hinweise
+
+## Red-Team-Prüfpunkte Barrierefreiheit
+1. **Anwendungsbereich BFSG (§ 1 BFSG):** Liegt das konkrete Produkt/die Dienstleistung im abschließenden Katalog? Bei Verneinung: keine BFSG-Pflicht — auch nicht analog.
+2. **Adressat:** Wirtschaftsakteur § 3 BFSG; Ausnahme Kleinstunternehmen § 3 Abs. 3 BFSG (< 10 Beschäftigte und < 2 Mio. EUR Jahresumsatz/Bilanzsumme).
+3. **BFSG vs. BITV 2.0:** Öffentliche Stellen → BITV 2.0 (Bund) / Landesrecht. Privatwirtschaft → BFSG. Diese Trennung wird häufig vermischt.
+4. **Geltungsbeginn:** BFSG seit 28.06.2025; bestehende Produkte mit Übergang § 38 BFSG.
+5. **Norm-Bezug:** EN 301 549 (harmonisierte Norm) inkorporiert WCAG 2.1 AA. Konformitätsvermutung über EN-Norm; davon abweichend ist Begründungslast.
+6. **Audit-Reichweite:** Wurde tatsächlich repräsentativ getestet (Seiten + Funktionen + Geräte + Hilfsmittel)?
+7. **Halluzinations-Check:** Keine erfundenen WCAG-Erfolgskriterien oder BITV-Anhang-Bezüge.
+
+## Praxis-Tipp
+Verbreiteter Fehler: ein Software-Anbieter wird beraten, "Sie müssen WCAG erfüllen", ohne dass die konkrete Subsumtion unter den BFSG-Katalog § 1 Abs. 2/3 BFSG geleistet wurde. Auch ein B2B-Produkt fällt regelmäßig nicht unter BFSG, was eine bedeutsame Risikoabschätzung verändert.
+
+---
+
+## Skill: `workflow-chronologie-und-belegmatrix`
+
+_Für Chronologie und Belegmatrix: ordnet Akte, Belege und Lücken; Ergebnis: Chronologie mit Beleg- und Widerspruchsmatrix. Fachgebiet: Barrierefreiheit Web Checker._
+
+# Chronologie und Belegmatrix
+
+## Arbeitsauftrag
+
+Dieser Arbeitsgang macht **Chronologie und Belegmatrix** im Bereich **barrierefreiheit-web-checker** sofort bearbeitbar: erst Akte lesen, dann Rollen, Ziel, Fristen, Belege und Entscheidungspunkte ordnen. Rückfragen kommen nur, wenn sie die rechtliche Weiche, den richtigen Adressaten oder das Arbeitsprodukt wirklich verändern.
+
+## Aktenstart ohne Leerlauf
+
+1. Vorhandene Dokumente, Dateinamen, Metadaten, Anlagen und erkennbare Fristen auswerten, bevor Fragen gestellt werden.
+2. Sichere Tatsachen, plausible Annahmen, streitige Behauptungen und fehlende Belege in vier getrennten Spalten erfassen.
+3. Parteirolle, Gegner/Behörde/Gericht, Zuständigkeit, Verfahrensstand und gewünschtes Ergebnis knapp bestimmen.
+4. Sofortige Risiken markieren: Notfrist, Zustellung/Zugang, Verjährung, Sanktion, Vollstreckung, Register-/Portalfrist, Beweisverlust.
+5. Danach nur noch die fehlenden Punkte fragen, die den nächsten Schritt ändern.
+
+## Fachliche Anker
+
+- BFSG/BFSGV, BGG, BITV 2.0, WCAG/EN 301 549, AGG und Verwaltungsverfahrensrecht je nach Adressat.
+- Adressat, Produkt/Dienstleistung, Frist, Ausnahme, technische Barriere, Nachweis und Abhilfe getrennt ausgeben.
+- Bei leichter Sprache: juristische Richtigkeit behalten, Fachwörter erklären und keine Rechte verkürzen.
+
+## Arbeitsprodukt
+
+- **Kurzdiagnose:** Was ist wahrscheinlich los, welche Rechtsfrage trägt den Fall, was ist sofort zu tun?
+- **Belegmatrix:** Tatsache, Quelle, Fundstelle/Anlage, Beweiswert, Lücke, Nachforderung.
+- **Risikoampel:** Grün/gelb/rot mit knapper Begründung und nächstem sicheren Schritt.
+- **Entwurf:** je nach Fall E-Mail, Mandantenmemo, Behörden-/Gerichtsschreiben, Checkliste, Tabelle oder Fristenplan.
+- **Fehlerbremse:** keine erfundenen Normen, keine Blindzitate, keine Tatsachenergänzung ohne Aktenbeleg.
+
+---
+
+## Skill: `ecommerce-mandantenkommunikation-entscheidungsvorlage`
+
+_Für Ecommerce: Mandantenkommunikation und Entscheidungsvorlage: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Mandantennachricht oder Entscheidungsvorlage._
+
+# Ecommerce: Mandantenkommunikation und Entscheidungsvorlage
 
 ## Normenanker
 
 Vor einer rechtlichen Schlussfolgerung diese Anker am aktuellen Normtext prüfen; Spezial- und Landesrecht nur hinzunehmen, wenn es den konkreten Auftrag traegt:
 
-- `§ 241 Abs. 2 BGB` — Rücksichtnahme-, Schutz- und Organisationspflichten.
-- `§ 242 BGB` — Treu und Glauben als Korrektiv enger Klausel- und Anspruchsarbeit.
-- `§ 280 Abs. 1 BGB` — Pflichtverletzung, Vertretenmuessen, Schaden.
-- `§ 286 Abs. 1 BGB` — Verzug und Fristlogik.
-- `§ 195 BGB` — regelmäßige Verjährung.
-- `§ 199 Abs. 1 BGB` — Beginn der regelmäßigen Verjährung.
-- `§ 253 Abs. 2 ZPO` — Bestimmtheit von Antrag und Klagegrund.
-- `§ 138 Abs. 1 ZPO` — Wahrheitspflicht und vollstaendiger Tatsachenvortrag.
+- `§ 1353 Abs. 1 BGB` — eheliche Lebensgemeinschaft.
+- `§ 1360 BGB` — Familienunterhalt.
+- `§ 1565 Abs. 1 BGB` — Scheidung.
+- `§ 1570 BGB` — Betreuungsunterhalt.
+- `§ 1601 BGB` — Verwandtenunterhalt.
+- `§ 1626 Abs. 1 BGB` — elterliche Sorge.
+- `§ 1671 BGB` — Sorgerechtsuebertragung.
+- `§ 1684 BGB` — Umgangsrecht.
+- `§ 23a Abs. 1 GVG` — Familiengerichtsbarkeit.
+- `§ 113 FamFG` — Verfahrensregeln in Familienstreitsachen.
 
 Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei prüfbare Quelle vorliegen; keine BeckRS-/juris-Blindzitate verwenden.
 
@@ -444,7 +589,7 @@ Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei pr
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
-## Spezialwissen: Pdfs: Compliance-Dokumentation und Aktenvermerk
+## Spezialwissen: Ecommerce: Mandantenkommunikation und Entscheidungsvorlage
 - **Normen-/Quellenanker:** BFSG, BFSGV, BITV, EN, WCAG.
 
 ## Fallweichen
@@ -458,212 +603,105 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 
 ## Arbeitsworkflow
 1. **Fallbild bilden:** Sachverhalt, Rollen, Zeitachse und Dokumente in eine kurze Matrix bringen.
-2. **Rechtsrahmen setzen:** Normen, Zuständigkeiten, Fristen, Formfragen und Verfahrensstand zum Themenfeld **Pdfs** prüfen.
+2. **Rechtsrahmen setzen:** Normen, Zuständigkeiten, Fristen, Formfragen und Verfahrensstand zum Themenfeld **Ecommerce** prüfen.
 3. **Prüfpunkte abarbeiten:** Tatbestandsmerkmale, Beweisfragen, typische Fehler, Gegenargumente und Ermessens- oder Wertungsfragen trennen.
 4. **Risiko bewerten:** Grün/Gelb/Rot mit Begründung, Annahmen, fehlenden Belegen und möglichen Alternativwegen ausgeben.
 5. **Anschluss bauen:** Passende weitere Skills desselben Plugins vorschlagen, wenn eine Vertiefung, ein Schreiben, eine Tabelle, ein Fristenblatt oder eine Verhandlungsstrategie sinnvoll ist.
 
 ---
 
-## Skill: `schulung-und-rolle-accessibility-champion`
+## Skill: `output-waehlen`
 
-_Wenn es um Schulung und Champion-Modell in Barrierefreiheit Web Checker geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt._
+_Für Output wählen: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt. Fachgebiet: Barrierefreiheit Web Checker._
 
-# Schulung und Champion-Modell
+# Output wählen
+
+## Einsatzlage
+
+Diese Output-Weiche für **Barrierefreiheit Web Checker** entscheidet, ob Memo, Antrag, Schriftsatz, Tabelle, Risikoampel, Fragenliste oder Mandantenbrief der richtige nächste Schritt ist.
+
+## Fachlandkarte dieses Plugins
+
+- `abnahme-formular-portal-und-einreichung` — Abnahme Formular Portal und Einreichung
+- `agentur-abnahme-vergabe` — Agentur Abnahme Vergabe
+- `audit-barrierefreiheits-bfsg` — Audit Barrierefreiheits Bfsg
+- `automatisierter-audit-axe-lighthouse` — Automatisierter Audit AXE Lighthouse
+- `barrierefreiheit-fehlerkatalog` — Barrierefreiheit Fehlerkatalog
+- `barrierefreiheits-erstpruefung-und-mandatsziel` — Barrierefreiheits Erstpruefung und Mandatsziel
+- `bf-kanzleiwebsite-konkret` — BF Kanzleiwebsite Konkret
+- `bf-kiosk-selbstbedienung-mediendienste` — BF Kiosk Selbstbedienung Mediendienste
+- `bf-mediendienste-untertitel-spezial` — BF Mediendienste Untertitel Spezial
+- `bf-pdf-schriftsaetze-versand` — BF PDF Schriftsaetze Versand
+- `bfsg-tatbestand-beweis-und-belege` — Bfsg Tatbestand Beweis und Belege
+- `bfsg-zeitleiste-ecommerce-checkout-en301549` — Bfsg Zeitleiste Ecommerce Checkout En301549
+- `bfsgv-schulung-fristennotiz-agentur-abnahme` — Bfsgv Schulung Fristennotiz Agentur Abnahme
+- `anschluss-routing` — Anschluss Routing
+- `dokumente-intake` — Dokumente Intake
 
 ## Arbeitsweg
 
-- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
-- Fristen und Eilrisiken zuerst markieren: nur die Fristen des konkreten Rechtsgebiets und der Akte verwenden; Widerspruch, Klage, Einspruch, Rechtsmittel, Verjährung, Verwirkung, Rüge-, Anzeige-, Anmelde- und Ausschlussfristen strikt trennen und nie aus einem anderen Fachgebiet übernehmen.
-- Tragende Normen verifizieren: BFSG; WCAG — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
-- Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
-- Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
+- Ergebnistyp bestimmen: Schriftsatz an Webseitenbetreiber, Bundes-/Landesbarrierefreiheitsbeauftragter, Schlichtungsstelle BFSG, Marktüberwachung, Mandantenmemo, Risikobericht, Vertragsentwurf, Entscheidungsvorlage, Behörden-Stellungnahme — was braucht der Mandant wirklich?
+- Pflichtformate festlegen: Tenor / Antrag / Begründung (Anspruchsgrundlage, Tatbestand, Subsumtion, Ergebnis); konkrete Norm-Pinpoints im Web-Barrierefreiheit (BFSG, BITV 2.0, EU 2016/2102, EAA-RL 2019/882, WCAG 2.1 / 2.2 (AA), DIN EN 301 549) einarbeiten.
+- Adressat-Klarheit: Sprache, Detailtiefe und juristische Vorbildung des Empfängers berücksichtigen; bei Mandant ohne Vorbildung Klartext-Zusammenfassung voranstellen.
+- Beweis- und Anlagenstruktur planen (chronologisch, thematisch, K- und B-Anlagen); Bezugnahmen sauber kennzeichnen.
+- Quellenfußnoten und Zitierweise sichern; offene Punkte und Annahmen explizit als solche kennzeichnen.
 
-## Spezialwissen: Schulung und Champion-Modell
-- **Normen-/Quellenanker:** QA.
+## Qualitätsanker
 
-## Fallweichen
-Frage zu Beginn nur ab, was für den naechsten Schritt unverzichtbar ist. Wenn Material vorliegt, mit dem Material arbeiten und nur eine gezielte Rueckfrage stellen.
-
-1. **Rolle und Ziel:** Wer fragt, welche Rolle, welcher gewuenschte Output (Memo, Schriftsatz, Tabelle, Checkliste)?
-2. **Sachverhalt:** Welche unstreitigen Tatsachen liegen vor, was ist streitig, was fehlt noch?
-3. **Fristen:** Gibt es Termine, Fristen, eilbeduerftige Schritte?
-4. **Unterlagen:** Welche Dokumente, Bescheide, Verträge, Auszuege liegen vor?
-5. **Format:** Wie ausfuehrlich, für wen, in welcher Tonalitaet?
-
-## Prüfraster
-
-Der Output muss als verwertbares Arbeitsprodukt aufgebaut sein:
-
-1. **Sachverhalt fixieren** - streitige und unstreitige Tatsachen trennen, Lueckentafel.
-2. **Rechtliche Einordnung** - einschlaegige Normen, zuständige Stellen, Verfahrensart, Darlegungs-/Beweislast und nur verifizierte Rechtsprechung.
-3. **Prüfung im Gutachtenstil** - Obersatz, Definition, Subsumtion, Zwischenergebnis.
-4. **Handlungsempfehlung** - konkret, mit naechstem Schritt, verantwortlicher Person, Frist.
-
-## Plugin-Kontext
-Dieses Fachmodul arbeitet den konkreten Schwerpunkt aus, prüft Aktenlage, Normen, Fristen, Belege und Gegenargumente und erzeugt einen unmittelbar nutzbaren nächsten Schritt.
-
-## Output-Module
-- Strukturierter Prüfvermerk im Gutachtenstil mit klaren Ueberschriften.
-- Tabellen und Checklisten, wo das die Lesbarkeit erhoeht.
-- Anschreiben-, Antrags- oder Klageschriftsatz-Geruest, wenn die Aufgabe das verlangt.
-- Quellenliste mit Gericht, Datum, Aktenzeichen, frei prüfbarem Link.
-
-## Was dieser Arbeitsgang nicht macht
-- Kein Ersatz für eine vollstaendige Mandantenberatung.
-- Keine Festlegung des Mandanten ohne dessen ausdrueckliche Entscheidung.
-- Keine Bewertung von Tatsachen, die nicht durch Unterlagen oder klare Mandantenangaben gedeckt sind.
-- Bei erkennbaren Interessenkonflikten oder Berufsrechtsfragen Hinweis an den fallfuehrenden Anwalt.
+- Normen und Rechtsprechung nach `references/quellenhygiene.md` und `references/zitierweise.md` behandeln.
+- Wenn eine Spezialfrage sichtbar wird, den passenden Skill nennen und kurz erklären, warum genau dieser Arbeitsgang passt.
+- Bei Zeitdruck zuerst Frist, Zuständigkeit, Form und Beweislast sichern.
 
 ---
 
-## Skill: `screenreader-semantik-aria`
+## Skill: `workflow-unterlagen-lueckenliste`
 
-_Wenn es um Screenreader, Semantik, ARIA in Barrierefreiheit Web Checker geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt._
+_Für Unterlagen- und Lückenliste: ordnet Akte, Belege und Lücken; Ergebnis: Dokumentenmatrix mit Nachforderungsliste. Fachgebiet: Barrierefreiheit Web Checker._
 
-# Screenreader, Semantik, ARIA
+# Unterlagen- und Lückenliste
 
-## Arbeitsweg
+## Aufgabe
+Nutze diesen Workflow-Skill für Unterlagen- und Lückenliste: erstellt eine präzise Nachforderungsliste statt allgemeiner Fragebögen.
 
-- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
-- Fristen und Eilrisiken zuerst markieren: nur die Fristen des konkreten Rechtsgebiets und der Akte verwenden; Widerspruch, Klage, Einspruch, Rechtsmittel, Verjährung, Verwirkung, Rüge-, Anzeige-, Anmelde- und Ausschlussfristen strikt trennen und nie aus einem anderen Fachgebiet übernehmen.
-- Tragende Normen verifizieren: BFSG; WCAG — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
-- Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
-- Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
+## Kaltstart
+Wenn Material vorliegt, arbeite zuerst mit dem Material. Stelle nur Rückfragen, die für die nächste Weiche nötig sind:
 
-## Spezialwissen
+1. Wer fragt in welcher Rolle?
+2. Was ist das gewünschte Ergebnis?
+3. Gibt es Fristen, Termine, Zustellungen, Zahlungen oder Sanktionen?
+4. Welche Unterlagen, Daten oder Belege liegen bereits vor?
 
-Anwendungsfall: die Website optisch funktioniert, aber semantisch unklar ist.
+## Arbeitsworkflow
+1. Rolle, Ziel, Frist und Unterlagenlage in höchstens fünf Fragen klären.
+2. Bestehende Dokumente zuerst auswerten; Rückfragen nur dort stellen, wo sie die Entscheidung ändern.
+3. Passende Spezialskills aus diesem Plugin vorschlagen und begründen.
+4. Ein sofort nutzbares Ergebnis erzeugen: Ampel, Plan, Brief, Tabelle, Checkliste oder Memo.
 
-## Prüfschritte
+## Output-Standard
+- Kurzbild: worum es geht, was gesichert ist, was offen ist.
+- Prüf- oder Bearbeitungsmatrix mit den entscheidenden Punkten.
+- Konkreter nächster Schritt mit Frist, Zuständigkeit und Unterlagen.
+- Bei Außenkommunikation: knapper, sachlicher Textbaustein ohne unnötige Nebenangaben.
 
-1. Seitentitel und Sprache.
-2. Landmarken: header, nav, main, footer, aside.
-3. Überschriftenstruktur.
-4. Links und Buttons mit verständlichem Namen.
-5. Formularlabels und Fehlermeldungen.
-6. Bilder und Icons mit sinnvollen Alternativen oder dekorativer Ausblendung.
-7. ARIA nur dort, wo native HTML-Semantik nicht reicht.
-8. Live-Regionen für dynamische Statusmeldungen.
+<!-- BEGIN ausformulierungspflicht (autogen) -->
+> **Ausformulierungspflicht und Formatstandard.** Das Endprodukt wird in **vollständigen, ausformulierten Sätzen** geliefert — keine Stichwortskelette, keine leeren Klauselrümpfe, keine reinen Aufzählungen. Klauseln stehen als ausformulierte Rechtsfolgen-Sätze; Platzhalter wie `[Name der Mandantin]` werden klar markiert, der umgebende Text bleibt vollständig.
+>
+> **Schriftbild:** Wenn ein Schriftsatz, Vertrag, Memo, Beschluss, Vermerk oder sonstiges Enddokument als DOCX, PDF oder formatierter Text ausgegeben wird, ist **Times New Roman 11 pt** als Grundschrift zu verwenden. Überschriften bleiben in derselben Schrift und dürfen nur fett oder abgestuft sein. Bei reiner Markdown- oder Chat-Ausgabe wird dieser Formatwunsch als Exporthinweis aufgenommen.
+>
+> **Nummerierung:** Gliederung ausschließlich dezimal (`1`, `1.1`, `1.1.1` und so weiter). Keine römischen Ziffern, keine Buchstaben- oder Mischgliederung.
+<!-- END ausformulierungspflicht (autogen) -->
 
-## Merksatz
-
-Schlechtes HTML wird durch ARIA selten besser. Erst native Semantik, dann ARIA gezielt.
-
-## Schneller Arbeitsmodus
-
-- Lege den Scope fest: Website, App, PDF, Checkout, Formular, Intranet oder öffentliche Stelle; dazu Normrahmen BFSG/BITV/WAD/EN 301 549/WCAG.
-- Beurteile nicht nur formal, sondern aus Nutzersicht: Tastatur, Screenreader, Zoom/Reflow, Kontrast, Fehlermeldungen, Zeitlimits und Dokumentzugang.
-- Automatische Scanner sind nur Startpunkt. Markiere False Positives, manuelle Nachpruefung und reproduzierbare Testschritte.
-- Formuliere Fixes als Entwickler-Tickets mit Komponente, Problem, Nutzerwirkung, Normbezug, Prioritaet und Re-Test.
-
----
-
-## Skill: `bf-pdf-schriftsaetze-versand`
-
-_Wenn es um BF: PDF-Schriftsatz-Versand in Barrierefreiheit Web Checker geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt._
-
-# BF: PDF-Schriftsatz-Versand
-
-## Arbeitsweg
-
-- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
-- Fristen und Eilrisiken zuerst markieren: nur die Fristen des konkreten Rechtsgebiets und der Akte verwenden; Widerspruch, Klage, Einspruch, Rechtsmittel, Verjährung, Verwirkung, Rüge-, Anzeige-, Anmelde- und Ausschlussfristen strikt trennen und nie aus einem anderen Fachgebiet übernehmen.
-- Tragende Normen verifizieren: BFSG; WCAG — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
-- Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
-- Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
-
-## Spezialwissen: BF: PDF-Schriftsatz-Versand
-- **Normen-/Quellenanker:** PDF, OCR, BF.
-
-## Fallweichen
-Frage zu Beginn nur ab, was für den naechsten Schritt unverzichtbar ist. Wenn Material vorliegt, mit dem Material arbeiten und nur eine gezielte Rueckfrage stellen.
-
-1. **Rolle und Ziel:** Wer fragt, welche Rolle, welcher gewuenschte Output (Memo, Schriftsatz, Tabelle, Checkliste)?
-2. **Sachverhalt:** Welche unstreitigen Tatsachen liegen vor, was ist streitig, was fehlt noch?
-3. **Fristen:** Gibt es Termine, Fristen, eilbeduerftige Schritte?
-4. **Unterlagen:** Welche Dokumente, Bescheide, Verträge, Auszuege liegen vor?
-5. **Format:** Wie ausfuehrlich, für wen, in welcher Tonalitaet?
-
-## Prüfraster
-
-Der Output muss als verwertbares Arbeitsprodukt aufgebaut sein:
-
-1. **Sachverhalt fixieren** - streitige und unstreitige Tatsachen trennen, Lueckentafel.
-2. **Rechtliche Einordnung** - einschlaegige Normen, Rechtsprechung BGH/BVerfG/EuGH, Literatur.
-3. **Prüfung im Gutachtenstil** - Obersatz, Definition, Subsumtion, Zwischenergebnis.
-4. **Handlungsempfehlung** - konkret, mit naechstem Schritt, verantwortlicher Person, Frist.
-
-## Plugin-Kontext
-Dieses Fachmodul arbeitet den konkreten Schwerpunkt aus, prüft Aktenlage, Normen, Fristen, Belege und Gegenargumente und erzeugt einen unmittelbar nutzbaren nächsten Schritt.
-
-## Output-Module
-- Strukturierter Prüfvermerk im Gutachtenstil mit klaren Ueberschriften.
-- Tabellen und Checklisten, wo das die Lesbarkeit erhoeht.
-- Anschreiben-, Antrags- oder Klageschriftsatz-Geruest, wenn die Aufgabe das verlangt.
-- Quellenliste mit Gericht, Datum, Aktenzeichen, frei prüfbarem Link.
-
-## Was dieser Arbeitsgang nicht macht
-- Kein Ersatz für eine vollstaendige Mandantenberatung.
-- Keine Festlegung des Mandanten ohne dessen ausdrueckliche Entscheidung.
-- Keine Bewertung von Tatsachen, die nicht durch Unterlagen oder klare Mandantenangaben gedeckt sind.
-- Bei erkennbaren Interessenkonflikten oder Berufsrechtsfragen Hinweis an den fallfuehrenden Anwalt.
-
----
-
-## Skill: `tastatur-fokus-ueberwachungsstelle`
-
-_Wenn es um Tastatur, Fokus, Navigation in Barrierefreiheit Web Checker geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt._
-
-# Tastatur, Fokus, Navigation
-
-## Arbeitsweg
-
-- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
-- Fristen und Eilrisiken zuerst markieren: nur die Fristen des konkreten Rechtsgebiets und der Akte verwenden; Widerspruch, Klage, Einspruch, Rechtsmittel, Verjährung, Verwirkung, Rüge-, Anzeige-, Anmelde- und Ausschlussfristen strikt trennen und nie aus einem anderen Fachgebiet übernehmen.
-- Tragende Normen verifizieren: BFSG; WCAG — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
-- Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
-- Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
-
-## Spezialwissen
-
-Dieses Fachmodul trägt die wichtigste manuelle Prüfung: Kann man die Website ohne Maus bedienen?
-
-## Prüfpfad
-
-1. Tab-Reihenfolge ab Startseite.
-2. Skiplink oder direkter Sprung zum Hauptinhalt.
-3. Sichtbarer Fokus in allen Zuständen.
-4. Menüs, Submenüs, Filter, Slider, Accordions.
-5. Modale, Cookie-Banner, Warenkorb, Login.
-6. Fokus bleibt nicht gefangen und geht nach Schließen sinnvoll zurück.
-7. Alle interaktiven Elemente sind erreichbar und auslösbar.
-
-## Protokoll
-
-| URL | Element | Problem | Reproduktion | Priorität | Fix |
-| --- | --- | --- | --- | --- | --- |
-
-## Red Flags
-
-- Fokus unsichtbar.
-- Cookie-Banner blockiert Tastatur.
-- Menü öffnet per Hover, aber nicht per Tastatur.
-- Modal lässt Fokus im Hintergrund weiterlaufen.
-- Buttons sind als div gebaut.
-
-## Schneller Arbeitsmodus
-
-- Lege den Scope fest: Website, App, PDF, Checkout, Formular, Intranet oder öffentliche Stelle; dazu Normrahmen BFSG/BITV/WAD/EN 301 549/WCAG.
-- Beurteile nicht nur formal, sondern aus Nutzersicht: Tastatur, Screenreader, Zoom/Reflow, Kontrast, Fehlermeldungen, Zeitlimits und Dokumentzugang.
-- Automatische Scanner sind nur Startpunkt. Markiere False Positives, manuelle Nachpruefung und reproduzierbare Testschritte.
-- Formuliere Fixes als Entwickler-Tickets mit Komponente, Problem, Nutzerwirkung, Normbezug, Prioritaet und Re-Test.
+## Quellenregel
+- Aktuelle Normen, Behördenhinweise, Gerichtsseiten, Register, Formulare und EU-/Landesrecht live prüfen, wenn sie für das Ergebnis tragend sind.
+- Rechtsprechung nur mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle ausgeben.
+- Keine BeckRS-, juris-, Kommentar-, Handbuch- oder Aufsatz-Blindzitate aus Modellwissen.
+- Unsicherheiten und Annahmen ausdrücklich markieren.
 
 ---
 
 ## Skill: `formulare-zahlen-schwellen-und-berechnung`
 
-_Wenn es um Formulare: Zahlen, Schwellenwerte und Berechnung in Barrierefreiheit Web Checker geht: rechnet Schwellen, Beträge, Varianten und Kontrollannahmen durch; liefert eine Berechnungstabelle mit Schwellen, Annahmen und Kontrollfragen._
+_Für Formulare: Zahlen, Schwellenwerte und Berechnung: rechnet Beträge, Schwellen und Varianten; Ergebnis: Berechnungstabelle mit Annahmen und Kontrollfragen._
 
 # Formulare: Zahlen, Schwellenwerte und Berechnung
 
@@ -729,11 +767,11 @@ Bei Formularen ist die häufigste Barriere kein Tastatur-Mangel, sondern fehlend
 
 ---
 
-## Skill: `wcag-risikoampel-und-gegenargumente`
+## Skill: `erklaerung-interessen-formulare-pdfs`
 
-_Wenn es um Wcag: Risikoampel, Gegenargumente und Verteidigungslinien in Barrierefreiheit Web Checker geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten._
+_Für Erklärung: Mehrparteienkonflikt und Interessenmatrix: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Einreichungsplan mit Form- und Nachweischeck._
 
-# Wcag: Risikoampel, Gegenargumente und Verteidigungslinien
+# Erklaerung: Mehrparteienkonflikt und Interessenmatrix
 
 ## Normenanker
 
@@ -758,7 +796,7 @@ Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei pr
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
-## Spezialwissen: Wcag: Risikoampel, Gegenargumente und Verteidigungslinien
+## Spezialwissen: Erklaerung: Mehrparteienkonflikt und Interessenmatrix
 - **Normen-/Quellenanker:** BFSG, BFSGV, BITV, EN, WCAG.
 
 ## Fallweichen
@@ -772,133 +810,10 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 
 ## Arbeitsworkflow
 1. **Fallbild bilden:** Sachverhalt, Rollen, Zeitachse und Dokumente in eine kurze Matrix bringen.
-2. **Rechtsrahmen setzen:** Normen, Zuständigkeiten, Fristen, Formfragen und Verfahrensstand zum Themenfeld **WCAG** prüfen.
+2. **Rechtsrahmen setzen:** Normen, Zuständigkeiten, Fristen, Formfragen und Verfahrensstand zum Themenfeld **Erklaerung** prüfen.
 3. **Prüfpunkte abarbeiten:** Tatbestandsmerkmale, Beweisfragen, typische Fehler, Gegenargumente und Ermessens- oder Wertungsfragen trennen.
 4. **Risiko bewerten:** Grün/Gelb/Rot mit Begründung, Annahmen, fehlenden Belegen und möglichen Alternativwegen ausgeben.
 5. **Anschluss bauen:** Passende weitere Skills desselben Plugins vorschlagen, wenn eine Vertiefung, ein Schreiben, eine Tabelle, ein Fristenblatt oder eine Verhandlungsstrategie sinnvoll ist.
-
-## Risikoampel WCAG-Findings
-- **Rot — Blocker**: Funktion ohne Tastatur unbedienbar (SC 2.1.1), kein Texterzeichnis (Captcha ohne Alternative SC 1.1.1), Kontrast unter 3:1 für UI-Bestandteile (SC 1.4.11), Sprache der Seite nicht ausgezeichnet (SC 3.1.1).
-- **Gelb — wesentlich beeinträchtigend**: Fokus-Sichtbarkeit unzureichend (SC 2.4.7), Linktexte nicht aussagekräftig (SC 2.4.4), Formularlabels fehlen (SC 3.3.2), Zoom 200 % verursacht horizontales Scrollen (SC 1.4.10).
-- **Grün — Optimierung**: Konsistente Navigation (SC 3.2.3), redundante Eingaben (SC 3.3.7 — neu in WCAG 2.2), Erkennungsmerkmale für Tastaturfokus (SC 2.4.11 — neu in WCAG 2.2).
-
-## Typische Gegenargumente und Erwiderung
-- **"Nur wenige Nutzer betroffen"**: § 17 Abs. 2 BFSG nennt die geschätzte Inanspruchnahme als einen, nicht den einzigen Faktor. Aktuell ca. 7,8 Mio. Menschen in Deutschland mit Schwerbehinderung.
-- **"WCAG 2.2 ist nicht verpflichtend"**: korrekt, da EN 301 549 noch auf WCAG 2.1 verweist. Gegenargument bleibt vorerst tragfähig; in Abnahme-Verträgen kann WCAG 2.2 dennoch privatautonom geschuldet sein.
-- **"Drittinhalte sind nicht beeinflussbar"**: Anhang 1 BFSGV Nr. 7 verpflichtet zur Sicherung der Barrierefreiheit auch bei Drittinhalten, soweit kontrollierbar. Auswahl- und Konfigurationspflichten greifen.
-- **"Beta-Status"**: keine Ausnahme im BFSG; entscheidend ist Inverkehrbringen oder Erbringen der Dienstleistung gegenüber Verbrauchern.
-
-## Verteidigungslinien
-1. **Konformitätsvermutung** durch Anwendung EN 301 549 + Prüfbericht
-2. **Schrittweise Nachbesserung** mit dokumentierter Roadmap und Marktüberwachung in Verhandlung halten
-3. **Unverhältnismäßige Belastung** nur mit vollständiger Bewertung nach § 17 BFSG; freiwilliger Mitteleinsatz erforderlich (§ 17 Abs. 4)
-
-## Trade-off
-Auf "unverhältnismäßige Belastung" sollte sich nur stützen, wer wirklich keine Mittel zur Herstellung der Barrierefreiheit findet — die Behörde fordert nicht selten Nachbesserung mit fester Frist statt vollständiger Bußgeldverfügung.
-
----
-
-## Skill: `bf-kiosk-selbstbedienung-mediendienste`
-
-_Wenn es um BF: Kiosk-Terminals in Barrierefreiheit Web Checker geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt._
-
-# BF: Kiosk-Terminals
-
-## Arbeitsweg
-
-- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
-- Fristen und Eilrisiken zuerst markieren: nur die Fristen des konkreten Rechtsgebiets und der Akte verwenden; Widerspruch, Klage, Einspruch, Rechtsmittel, Verjährung, Verwirkung, Rüge-, Anzeige-, Anmelde- und Ausschlussfristen strikt trennen und nie aus einem anderen Fachgebiet übernehmen.
-- Tragende Normen verifizieren: BFSG; WCAG — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
-- Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
-- Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
-
-## Spezialwissen: BF: Kiosk-Terminals
-- **Normen-/Quellenanker:** BFSG, EN, BF.
-
-## Fallweichen
-Frage zu Beginn nur ab, was für den naechsten Schritt unverzichtbar ist. Wenn Material vorliegt, mit dem Material arbeiten und nur eine gezielte Rueckfrage stellen.
-
-1. **Rolle und Ziel:** Wer fragt, welche Rolle, welcher gewuenschte Output (Memo, Schriftsatz, Tabelle, Checkliste)?
-2. **Sachverhalt:** Welche unstreitigen Tatsachen liegen vor, was ist streitig, was fehlt noch?
-3. **Fristen:** Gibt es Termine, Fristen, eilbeduerftige Schritte?
-4. **Unterlagen:** Welche Dokumente, Bescheide, Verträge, Auszuege liegen vor?
-5. **Format:** Wie ausfuehrlich, für wen, in welcher Tonalitaet?
-
-## Prüfraster
-
-Der Output muss als verwertbares Arbeitsprodukt aufgebaut sein:
-
-1. **Sachverhalt fixieren** - streitige und unstreitige Tatsachen trennen, Lueckentafel.
-2. **Rechtliche Einordnung** - einschlaegige Normen, Rechtsprechung BGH/BVerfG/EuGH, Literatur.
-3. **Prüfung im Gutachtenstil** - Obersatz, Definition, Subsumtion, Zwischenergebnis.
-4. **Handlungsempfehlung** - konkret, mit naechstem Schritt, verantwortlicher Person, Frist.
-
-## Plugin-Kontext
-Dieses Fachmodul arbeitet den konkreten Schwerpunkt aus, prüft Aktenlage, Normen, Fristen, Belege und Gegenargumente und erzeugt einen unmittelbar nutzbaren nächsten Schritt.
-
-## Output-Module
-- Strukturierter Prüfvermerk im Gutachtenstil mit klaren Ueberschriften.
-- Tabellen und Checklisten, wo das die Lesbarkeit erhoeht.
-- Anschreiben-, Antrags- oder Klageschriftsatz-Geruest, wenn die Aufgabe das verlangt.
-- Quellenliste mit Gericht, Datum, Aktenzeichen, frei prüfbarem Link.
-
-## Was dieser Arbeitsgang nicht macht
-- Kein Ersatz für eine vollstaendige Mandantenberatung.
-- Keine Festlegung des Mandanten ohne dessen ausdrueckliche Entscheidung.
-- Keine Bewertung von Tatsachen, die nicht durch Unterlagen oder klare Mandantenangaben gedeckt sind.
-- Bei erkennbaren Interessenkonflikten oder Berufsrechtsfragen Hinweis an den fallfuehrenden Anwalt.
-
----
-
-## Skill: `bf-kanzleiwebsite-konkret`
-
-_Wenn es um BF: Kanzleiwebsite in Barrierefreiheit Web Checker geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt._
-
-# BF: Kanzleiwebsite
-
-## Arbeitsweg
-
-- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
-- Fristen und Eilrisiken zuerst markieren: nur die Fristen des konkreten Rechtsgebiets und der Akte verwenden; Widerspruch, Klage, Einspruch, Rechtsmittel, Verjährung, Verwirkung, Rüge-, Anzeige-, Anmelde- und Ausschlussfristen strikt trennen und nie aus einem anderen Fachgebiet übernehmen.
-- Tragende Normen verifizieren: BFSG; WCAG — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
-- Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
-- Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
-
-## Spezialwissen: BF: Kanzleiwebsite
-- **Normen-/Quellenanker:** BFSG, WAVE, BF.
-
-## Fallweichen
-Frage zu Beginn nur ab, was für den naechsten Schritt unverzichtbar ist. Wenn Material vorliegt, mit dem Material arbeiten und nur eine gezielte Rueckfrage stellen.
-
-1. **Rolle und Ziel:** Wer fragt, welche Rolle, welcher gewuenschte Output (Memo, Schriftsatz, Tabelle, Checkliste)?
-2. **Sachverhalt:** Welche unstreitigen Tatsachen liegen vor, was ist streitig, was fehlt noch?
-3. **Fristen:** Gibt es Termine, Fristen, eilbeduerftige Schritte?
-4. **Unterlagen:** Welche Dokumente, Bescheide, Verträge, Auszuege liegen vor?
-5. **Format:** Wie ausfuehrlich, für wen, in welcher Tonalitaet?
-
-## Prüfraster
-
-Der Output muss als verwertbares Arbeitsprodukt aufgebaut sein:
-
-1. **Sachverhalt fixieren** - streitige und unstreitige Tatsachen trennen, Lueckentafel.
-2. **Rechtliche Einordnung** - einschlaegige Normen, Rechtsprechung BGH/BVerfG/EuGH, Literatur.
-3. **Prüfung im Gutachtenstil** - Obersatz, Definition, Subsumtion, Zwischenergebnis.
-4. **Handlungsempfehlung** - konkret, mit naechstem Schritt, verantwortlicher Person, Frist.
-
-## Plugin-Kontext
-Dieses Fachmodul arbeitet den konkreten Schwerpunkt aus, prüft Aktenlage, Normen, Fristen, Belege und Gegenargumente und erzeugt einen unmittelbar nutzbaren nächsten Schritt.
-
-## Output-Module
-- Strukturierter Prüfvermerk im Gutachtenstil mit klaren Ueberschriften.
-- Tabellen und Checklisten, wo das die Lesbarkeit erhoeht.
-- Anschreiben-, Antrags- oder Klageschriftsatz-Geruest, wenn die Aufgabe das verlangt.
-- Quellenliste mit Gericht, Datum, Aktenzeichen, frei prüfbarem Link.
-
-## Was dieser Arbeitsgang nicht macht
-- Kein Ersatz für eine vollstaendige Mandantenberatung.
-- Keine Festlegung des Mandanten ohne dessen ausdrueckliche Entscheidung.
-- Keine Bewertung von Tatsachen, die nicht durch Unterlagen oder klare Mandantenangaben gedeckt sind.
-- Bei erkennbaren Interessenkonflikten oder Berufsrechtsfragen Hinweis an den fallfuehrenden Anwalt.
 
 ---
 

@@ -1,6 +1,6 @@
 ---
 name: tk-regulierungsakte-tk-akteneinsicht
-description: "Wenn es um TK-Regulierungsakte: Nummernverwaltung — Fristen- und Bescheidanalyse in Bundesnetzagentur-Verfahren geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für TK-Regulierungsakte: Nummernverwaltung — Fristen- und Bescheidanalyse: ordnet Akte, Belege und Lücken; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # TK-Regulierungsakte: Nummernverwaltung — Fristen- und Bescheidanalyse

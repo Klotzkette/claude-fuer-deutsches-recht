@@ -1,6 +1,6 @@
 ---
 name: hafenvertiefung-beteiligung-pruefen
-description: "Wenn es um Hafenvertiefung Beteiligung Prüfen in Umweltschutzverband Verbandsklage geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
+description: "Für Hafenvertiefung Beteiligung Prüfen: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt. Fachgebiet: Umweltschutzverband Verbandsklage. Route: hafenvertiefung-beteiligung-pruefen."
 ---
 
 # Hafenvertiefung Beteiligung Prüfen

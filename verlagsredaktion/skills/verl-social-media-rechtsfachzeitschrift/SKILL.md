@@ -1,6 +1,6 @@
 ---
 name: verl-social-media-rechtsfachzeitschrift
-description: "Wenn es um Social-Media-Beitrag fuer Fachzeitschrift in Verlagsredaktion geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Social-Media-Beitrag für Fachzeitschrift: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt. Fachgebiet: Verlagsredaktion. Route: verl-social-media-rechtsfachzeitschrift."
 ---
 
 # Social-Media-Beitrag fuer Fachzeitschrift

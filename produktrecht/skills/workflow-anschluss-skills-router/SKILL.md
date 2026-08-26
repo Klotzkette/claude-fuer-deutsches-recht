@@ -1,6 +1,6 @@
 ---
 name: workflow-anschluss-skills-router
-description: "Wenn es um Anschluss-Skills Router in Produkthaftung und Produktrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Anschluss-Skills Router: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt. Fachgebiet: Produkthaftung und Produktrecht."
 ---
 
 # Anschluss-Skills Router

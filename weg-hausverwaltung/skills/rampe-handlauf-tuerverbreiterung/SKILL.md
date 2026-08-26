@@ -1,6 +1,6 @@
 ---
 name: rampe-handlauf-tuerverbreiterung
-description: "Wenn es um Rampe, Handlauf, Türverbreiterung im Gemeinschaftsbereich in WEG- und Hausverwaltung geht: rechnet Schwellen, Beträge, Varianten und Kontrollannahmen durch; liefert eine Berechnungstabelle mit Schwellen, Annahmen und Kontrollfragen."
+description: "Für Rampe, Handlauf, Türverbreiterung im Gemeinschaftsbereich: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Rampe, Handlauf, Türverbreiterung im Gemeinschaftsbereich

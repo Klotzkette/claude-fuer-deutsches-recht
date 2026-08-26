@@ -1,6 +1,6 @@
 ---
 name: compliance-schulung-vorstand
-description: "Wenn es um Compliance Schulung Vorstand in Wahlkampfrecht Praxis geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Compliance Schulung Vorstand: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Compliance Schulung Vorstand

@@ -1,6 +1,6 @@
 ---
 name: bereicherungsrecht-vergleich
-description: "Wenn es um Bereicherungsrecht Vergleich in Römisches Recht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Bereicherungsrecht Vergleich: entwickelt Ziel, Vergleich und Eskalation; Ergebnis: Verhandlungs- oder Eskalationslinie."
 ---
 
 # Bereicherungsrecht Vergleich

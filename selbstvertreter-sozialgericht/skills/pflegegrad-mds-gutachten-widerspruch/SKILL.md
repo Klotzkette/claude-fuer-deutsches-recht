@@ -1,6 +1,6 @@
 ---
 name: pflegegrad-mds-gutachten-widerspruch
-description: "Wenn es um Pflegegrad Mds Gutachten Widerspruch in selbstvertreter-sozialgericht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Pflegegrad Mds Gutachten Widerspruch: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Pflegegrad Mds Gutachten Widerspruch

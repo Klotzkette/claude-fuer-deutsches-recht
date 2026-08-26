@@ -1,6 +1,6 @@
 ---
 name: originalismus-gesetzgebungsmaterialien
-description: "Wenn es um Originalismus und Gesetzgebungsmaterialien in Deutschland in Methodenlehre bürgerliches Recht geht: entwickelt Verhandlungsziel, Vergleichskorridor und Eskalationspfad; liefert eine Verhandlungs- oder Eskalationslinie mit Optionen."
+description: "Für Originalismus und Gesetzgebungsmaterialien in Deutschland: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Originalismus und Gesetzgebungsmaterialien in Deutschland

@@ -1,6 +1,6 @@
 ---
 name: batterie-ladeinfrastruktur-und-brandschutz
-description: "Wenn es um Batterie, Ladeinfrastruktur und Brandschutz bei mobilen Robotern in robotik-recht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Batterie, Ladeinfrastruktur und Brandschutz bei mobilen Robotern: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Batterie, Ladeinfrastruktur und Brandschutz bei mobilen Robotern

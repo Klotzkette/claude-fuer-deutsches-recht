@@ -1,6 +1,6 @@
 ---
 name: medizinische-gutachten-strategie-laien
-description: "Wenn es um Medizinische Gutachten — Ihre Strategie in selbstvertreter-sozialgericht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Medizinische Gutachten — Ihre Strategie: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Verhandlungs- oder Eskalationslinie."
 ---
 
 # Medizinische Gutachten — Ihre Strategie

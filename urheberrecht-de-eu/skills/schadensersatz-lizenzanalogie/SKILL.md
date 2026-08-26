@@ -1,6 +1,6 @@
 ---
 name: schadensersatz-lizenzanalogie
-description: "Wenn es um Schadensersatz und Lizenzanalogie in Urheberrecht DE EU geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Schadensersatz und Lizenzanalogie: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Schadensersatz und Lizenzanalogie

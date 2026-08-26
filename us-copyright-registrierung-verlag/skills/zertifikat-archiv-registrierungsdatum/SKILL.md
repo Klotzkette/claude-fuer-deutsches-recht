@@ -1,6 +1,6 @@
 ---
 name: zertifikat-archiv-registrierungsdatum
-description: "Wenn es um Zertifikat, Archiv und Registrierungsdatum in US Copyright Act und Registrierung für deutsche Verlage geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
+description: "Für Zertifikat, Archiv und Registrierungsdatum: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Zertifikat, Archiv und Registrierungsdatum

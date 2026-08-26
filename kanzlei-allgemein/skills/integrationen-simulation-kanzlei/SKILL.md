@@ -1,6 +1,6 @@
 ---
 name: integrationen-simulation-kanzlei
-description: "Wenn es um Integrationen und Simulationsmodus in Kanzlei-Allgemein geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Integrationen und Simulationsmodus: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Integrationen und Simulationsmodus

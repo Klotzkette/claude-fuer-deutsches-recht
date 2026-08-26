@@ -1,6 +1,6 @@
 ---
 name: briefe-erstberatung-rdg-konform
-description: "Wenn es um Briefe: Zahlen, Schwellenwerte und Berechnung in Plugin für die studentische Rechtsberatungsstelle geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
+description: "Für Briefe: Zahlen, Schwellenwerte und Berechnung: erstellt Entwurf mit Antrag, Beweis und Anlagen; Ergebnis: Schriftsatz mit Begründungs- und Anlagenlogik."
 ---
 
 # Briefe: Zahlen, Schwellenwerte und Berechnung

@@ -1,6 +1,6 @@
 ---
 name: oeffentlicher-raum-fraport-grundrechtsbindung
-description: "Wenn es um Öffentlicher Raum: Fraport und Grundrechtsbindung in Verhältnismäßigkeitsprüfer geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen."
+description: "Für Öffentlicher Raum: Fraport und Grundrechtsbindung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Öffentlicher Raum: Fraport und Grundrechtsbindung

@@ -1,6 +1,6 @@
 ---
 name: agb-preisanpassung-energie-stromgvv-gasgvv
-description: "Wenn es um Agb Preisanpassung Energie Stromgvv Gasgvv in AGB-Recht-Prüfer geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für AGB Preisanpassung Energie Stromgvv Gasgvv: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Agb Preisanpassung Energie Stromgvv Gasgvv

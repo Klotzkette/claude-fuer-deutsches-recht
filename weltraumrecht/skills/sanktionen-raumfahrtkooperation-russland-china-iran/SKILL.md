@@ -1,6 +1,6 @@
 ---
 name: sanktionen-raumfahrtkooperation-russland-china-iran
-description: "Wenn es um Weltraumrecht: Sanktionen: Raumfahrtkooperation Russland, China, Iran in Weltraumrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Weltraumrecht: Sanktionen: Raumfahrtkooperation Russland, China, Iran: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Weltraumrecht: Sanktionen: Raumfahrtkooperation Russland, China, Iran

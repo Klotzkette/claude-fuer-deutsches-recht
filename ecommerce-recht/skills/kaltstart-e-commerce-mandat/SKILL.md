@@ -1,6 +1,6 @@
 ---
 name: kaltstart-e-commerce-mandat
-description: "Wenn es um Kaltstart E-Commerce Mandat in E-Commerce-Recht geht: klärt Rolle, Ziel, Frist, Unterlagen und den passenden nächsten Fachskill; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Kaltstart E-Commerce Mandat: routet Rolle, Frist, Unterlagen und Fachschritt; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Kaltstart E-Commerce Mandat

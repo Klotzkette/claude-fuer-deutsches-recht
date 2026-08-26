@@ -1,6 +1,6 @@
 ---
 name: laienhilfe-buergergeld-bedarf
-description: "Wenn es um Laienhilfe: Buergergeld Bedarf in Fachanwalt Sozialrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Laienhilfe: Bürgergeld Bedarf: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Laienhilfe: Buergergeld Bedarf

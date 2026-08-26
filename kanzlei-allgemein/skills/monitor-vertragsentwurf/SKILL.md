@@ -1,6 +1,6 @@
 ---
 name: monitor-vertragsentwurf
-description: "Wenn es um Fristen- und Action-Monitor in Kanzlei-Allgemein geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Fristen- und Action-Monitor: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Fristen- und Action-Monitor

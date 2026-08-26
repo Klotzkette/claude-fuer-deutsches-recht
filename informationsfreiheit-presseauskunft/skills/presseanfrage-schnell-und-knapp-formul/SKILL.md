@@ -1,6 +1,6 @@
 ---
 name: presseanfrage-schnell-und-knapp-formul
-description: "Wenn es um Presseanfrage Schnell Und Knapp Formul in Informationsfreiheit und Presseauskunft geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
+description: "Für Presseanfrage Schnell und Knapp Formul: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Presseanfrage Schnell Und Knapp Formul

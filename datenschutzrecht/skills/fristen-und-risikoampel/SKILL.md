@@ -1,6 +1,6 @@
 ---
 name: fristen-und-risikoampel
-description: "Wenn es um Fristen- und Risikoampel in Datenschutzrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Chronologie mit Belegmatrix und Widerspruchsliste."
+description: "Für Fristen- und Risikoampel: prüft Frist, Form, Zuständigkeit und Eilbedarf; Ergebnis: Fristen- und Risikoampel. Fachgebiet: Datenschutzrecht."
 ---
 
 # Fristen- und Risikoampel

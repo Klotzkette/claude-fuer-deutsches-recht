@@ -1,6 +1,6 @@
 ---
 name: stellungnahme-pressepolitik-jahresbericht
-description: "Wenn es um NKR-Stellungnahme — Pressepolitik und Jahresbericht in Normenkontrollrat (NKR) — Prüfung von Gesetzentwuerfen geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. Auswahlstichwort: Stellungnahme Pressepolitik Jahresbericht; Arbeitsfeld: Normenkontrollrat (NKR) — Prüfung von Gesetzentwuerfen."
+description: "Für NKR-Stellungnahme — Pressepolitik und Jahresbericht: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt. Fachgebiet: Normenkontrollrat (NKR) — Prüfung von Gesetzentwürfen. Route: stellungnahme-pressepolitik-jahresbericht."
 ---
 
 # NKR-Stellungnahme — Pressepolitik und Jahresbericht

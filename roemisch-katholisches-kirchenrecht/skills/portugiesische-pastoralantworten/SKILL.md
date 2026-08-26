@@ -1,6 +1,6 @@
 ---
 name: portugiesische-pastoralantworten
-description: "Wenn es um Portugiesische Pastoralantworten in Römisch-katholisches Kirchenrecht CIC und Katechismus geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
+description: "Für Portugiesische Pastoralantworten: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt. Fachgebiet: Römisch-katholisches Kirchenrecht CIC und Katechismus. Route: portugiesische-pastoralantworten."
 ---
 
 # Portugiesische Pastoralantworten

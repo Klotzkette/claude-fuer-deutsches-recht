@@ -1,6 +1,6 @@
 ---
 name: ki-einsatz-bei-gutachten-mandatsseite
-description: "Wenn es um digitale Werkzeuge-Einsatz bei Gutachten — Mandatsseite (Großkanzlei) in Großkanzlei Corporate/M&A geht: entwickelt Verhandlungsziel, Vergleichskorridor und Eskalationspfad; liefert eine Verhandlungs- oder Eskalationslinie mit Optionen."
+description: "Für digitale Werkzeuge-Einsatz bei Gutachten — Mandatsseite (Großkanzlei): ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # KI-Einsatz bei Gutachten — Mandatsseite (Großkanzlei)

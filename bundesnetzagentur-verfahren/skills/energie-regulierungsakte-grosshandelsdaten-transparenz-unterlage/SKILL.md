@@ -1,6 +1,6 @@
 ---
 name: energie-regulierungsakte-grosshandelsdaten-transparenz-unterlage
-description: "Wenn es um Energie-Regulierungsakte: Großhandelsdaten Transparenz — Unterlagenanforderung in Bundesnetzagentur-Verfahren geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Dokumentenmatrix mit Nachforderungsliste."
+description: "Für Energie-Regulierungsakte: Großhandelsdaten Transparenz — Unterlagenanforderung: ordnet Akte, Belege und Lücken; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Energie-Regulierungsakte: Großhandelsdaten Transparenz — Unterlagenanforderung

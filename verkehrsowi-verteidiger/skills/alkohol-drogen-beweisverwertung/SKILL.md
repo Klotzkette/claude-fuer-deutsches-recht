@@ -1,6 +1,6 @@
 ---
 name: alkohol-drogen-beweisverwertung
-description: "Wenn es um Alkohol und Drogen — Paragraf 24a StVG in VerkehrsOWi-Verteidiger geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Alkohol und Drogen — Paragraf 24a StVG: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Beweislast- und Substantiierungsmatrix."
 ---
 
 # Alkohol und Drogen — § 24a StVG

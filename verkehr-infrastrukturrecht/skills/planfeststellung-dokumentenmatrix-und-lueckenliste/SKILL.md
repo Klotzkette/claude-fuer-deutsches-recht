@@ -1,6 +1,6 @@
 ---
 name: planfeststellung-dokumentenmatrix-und-lueckenliste
-description: "Wenn es um Planfeststellung: Dokumentenmatrix, Lückenliste und Nachforderung in Verkehrs- und Infrastrukturrecht geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Dokumentenmatrix mit Nachforderungsliste."
+description: "Für Planfeststellung: Dokumentenmatrix, Lückenliste und Nachforderung: ordnet Akte, Belege und Lücken; Ergebnis: Dokumentenmatrix mit Nachforderungsliste."
 ---
 
 # Planfeststellung: Dokumentenmatrix, Lückenliste und Nachforderung

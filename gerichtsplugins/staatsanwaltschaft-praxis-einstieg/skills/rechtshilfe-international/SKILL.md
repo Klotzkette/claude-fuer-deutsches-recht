@@ -1,6 +1,6 @@
 ---
 name: rechtshilfe-international
-description: "Wenn es um Internationale Rechtshilfe in Staatsanwaltschaft Praxis-Einstieg geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen."
+description: "Für Internationale Rechtshilfe: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Schnittstellenkarte mit Zuständigkeits- und Nachweisfragen. Fachgebiet: Staatsanwaltschaft Praxis-Einstieg. Route: rechtshilfe-international."
 ---
 
 # Internationale Rechtshilfe

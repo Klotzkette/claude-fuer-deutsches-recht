@@ -1,6 +1,6 @@
 ---
 name: wirtschaftspruefer-unabhaengigkeit-bei-pie-pruefung-organisatio
-description: "Wenn es um Wirtschaftspruefer Unabhaengigkeit Bei Pie Prüfung Organisatio in Berufsrecht Wirtschaftsprüfer geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Wirtschaftsprüfer Unabhängigkeit bei Pie Prüfung Organisatio: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Tatbestands- oder Anspruchsmatrix."
 ---
 
 # Wirtschaftsprüfer: unabhaengigkeit bei pie pruefung - Organisationspflichten, Prävention, Team-Anweisung und Fristenkontrolle

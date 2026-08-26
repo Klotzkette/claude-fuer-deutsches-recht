@@ -1,6 +1,6 @@
 ---
 name: v392-praxisraster-richter-sozialgericht
-description: "Wenn es um Praxisraster Sozialgericht in Sozialgericht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Beweislast- und Substantiierungsmatrix."
+description: "Für Praxisraster Sozialgericht: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Praxisraster Sozialgericht

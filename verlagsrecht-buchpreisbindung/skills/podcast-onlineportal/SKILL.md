@@ -1,6 +1,6 @@
 ---
 name: podcast-onlineportal
-description: "Wenn es um Verl-035 · Podcast und Verlag: Content-Recycling in Verlagsrecht und Buchpreisbindung geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Verl-035 · Podcast und Verlag: Content-Recycling: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Einreichungsplan mit Form- und Nachweischeck."
 ---
 
 # Verl-035 · Podcast und Verlag: Content-Recycling

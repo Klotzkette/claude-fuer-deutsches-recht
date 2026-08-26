@@ -1,6 +1,6 @@
 ---
 name: psd3-psr-vorschau-gap-analysis
-description: "Wenn es um PSD3/PSR Vorschau in Bank-Rechtsabteilung geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen."
+description: "Für PSD3/PSR Vorschau: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # PSD3/PSR Vorschau

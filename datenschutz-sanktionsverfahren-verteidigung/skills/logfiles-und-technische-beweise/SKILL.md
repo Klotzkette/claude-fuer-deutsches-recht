@@ -1,6 +1,6 @@
 ---
 name: logfiles-und-technische-beweise
-description: "Wenn es um Logfiles und technische Beweise in Datenschutz-Sanktionsverfahren und Verteidigung geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Logfiles und technische Beweise: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Beweislast- und Substantiierungsmatrix."
 ---
 
 # Logfiles und technische Beweise

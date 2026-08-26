@@ -1,6 +1,6 @@
 ---
 name: azubi-zeugnis-analyse
-description: "Wenn es um Ausbildungszeugnis-Analyse (Azubi-Zeugnis) in Arbeitszeugnis-Analyse geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Ausbildungszeugnis-Analyse (Azubi-Zeugnis): ordnet Norm, Beweislast und Gegenargument; Ergebnis: Schnittstellenkarte mit Zuständigkeits- und Nachweisfragen."
 ---
 
 # Ausbildungszeugnis-Analyse (Azubi-Zeugnis)

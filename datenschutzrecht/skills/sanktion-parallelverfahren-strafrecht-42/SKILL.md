@@ -1,6 +1,6 @@
 ---
 name: sanktion-parallelverfahren-strafrecht-42
-description: "Wenn es um Parallelverfahren Paragraf 42 BDSG und Strafrecht in Datenschutzrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Parallelverfahren Paragraf 42 BDSG und Strafrecht: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt. Fachgebiet: Datenschutzrecht."
 ---
 
 # Parallelverfahren § 42 BDSG und Strafrecht

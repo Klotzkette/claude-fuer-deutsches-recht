@@ -1,6 +1,6 @@
 ---
 name: rechtsmittel-gegen-dienstaufsicht-kaltstart-und-faktenma
-description: "Wenn es um Rechtsmittel Gegen Dienstaufsicht Kaltstart Und Faktenma in Berufsrecht Notare geht: klärt Rolle, Ziel, Frist, Unterlagen und den passenden nächsten Fachskill; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Rechtsmittel gegen Dienstaufsicht Kaltstart und Faktenma: routet Rolle, Frist, Unterlagen und Fachschritt; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Notare: rechtsmittel gegen dienstaufsicht - Kaltstart mit Faktenmatrix, Risikoampel und fehlenden Unterlagen

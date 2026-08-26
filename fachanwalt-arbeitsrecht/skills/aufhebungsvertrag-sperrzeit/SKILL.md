@@ -1,6 +1,6 @@
 ---
 name: aufhebungsvertrag-sperrzeit
-description: "Wenn es um Aufhebungsvertrag Sperrzeit in Fachanwalt Arbeitsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Aufhebungsvertrag Sperrzeit: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Aufhebungsvertrag mit Sperrzeit-Vermeidung nach Paragraf 159 SGB III bei Eigeninitiative oder drohender Kündigung

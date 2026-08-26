@@ -1,6 +1,6 @@
 ---
 name: drg-040-menschenrechte-und-emrk-rezeption
-description: "Wenn es um Menschenrechte Und Emrk Rezeption in Deutsche Rechtsgeschichte geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Menschenrechte und Emrk Rezeption: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Menschenrechte Und Emrk Rezeption

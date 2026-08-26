@@ -1,6 +1,6 @@
 ---
 name: persoenlichen-angriff-sachlichkeitsgebot
-description: "Wenn es um Persönlichen Angriff entschärfen in E-Mail-Umformulierer geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. Auswahlstichwort: Persoenlichen Angriff Sachlichkeitsgebot; Arbeitsfeld: E-Mail-Umformulierer."
+description: "Für Persönlichen Angriff entschärfen: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt. Fachgebiet: E-Mail-Umformulierer. Route: persoenlichen-angriff-sachlichkeitsgebot."
 ---
 
 # Persönlichen Angriff entschärfen

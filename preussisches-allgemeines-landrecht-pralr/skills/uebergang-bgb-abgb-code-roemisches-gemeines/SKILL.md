@@ -1,6 +1,6 @@
 ---
 name: uebergang-bgb-abgb-code-roemisches-gemeines
-description: "Wenn es um Übergang zum BGB in Preußisches Allgemeines Landrecht geht: entwickelt Verhandlungsziel, Vergleichskorridor und Eskalationspfad; liefert eine Verhandlungs- oder Eskalationslinie mit Optionen. Auswahlstichwort: Uebergang BGB Abgb Code Roemisches Gemeines; Arbeitsfeld: Preußisches Allgemeines Landrecht."
+description: "Für Übergang zum BGB: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt. Fachgebiet: Preußisches Allgemeines Landrecht. Route: uebergang-bgb-abgb-code-roemisches-gemeines."
 ---
 
 # Übergang zum BGB

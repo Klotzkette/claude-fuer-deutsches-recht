@@ -1,6 +1,6 @@
 ---
 name: hochrisiko-genauigkeit-robustheit
-description: "Wenn es um Genauigkeit, Robustheit und Cybersicherheit — Art. 15 europäischer Technikregulierungsrahmen in europäischem Technikregulierungsrecht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt. Auswahlstichwort: Hochrisiko Genauigkeit Robustheit; Arbeitsfeld: europäischem Technikregulierungsrecht."
+description: "Für Genauigkeit, Robustheit und Cybersicherheit — Art. 15 europäischer Technikregulierungsrahmen: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt. Fachgebiet: europäischem Technikregulierungsrecht. Route: hochrisiko-genauigkeit-robustheit."
 ---
 
 # Genauigkeit, Robustheit und Cybersicherheit — Art. 15 KI-VO

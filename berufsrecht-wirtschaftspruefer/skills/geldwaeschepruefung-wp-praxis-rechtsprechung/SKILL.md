@@ -1,6 +1,6 @@
 ---
 name: geldwaeschepruefung-wp-praxis-rechtsprechung
-description: "Wenn es um Geldwaeschepruefung Wp Praxis Rechtsprechung in Berufsrecht Wirtschaftsprüfer geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Gegenprüfung mit Fehler-, Beweis- und Fristencheck."
+description: "Für Geldwäscheprüfung Wp Praxis Rechtsprechung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Tatbestands- oder Anspruchsmatrix."
 ---
 
 # Wirtschaftsprüfer: geldwaeschepruefung wp praxis - Rechtsprechungscheck, stärkste Gegenansicht und Red-Team-Korrektur

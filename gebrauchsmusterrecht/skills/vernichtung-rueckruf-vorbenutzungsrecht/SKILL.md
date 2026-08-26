@@ -1,6 +1,6 @@
 ---
 name: vernichtung-rueckruf-vorbenutzungsrecht
-description: "Wenn es um Vernichtung Rueckruf Und Entfernung in gebrauchsmusterrecht geht: entwickelt Verhandlungsziel, Vergleichskorridor und Eskalationspfad; liefert eine Verhandlungs- oder Eskalationslinie mit Optionen."
+description: "Für Vernichtung Rückruf und Entfernung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Vernichtung Rueckruf Und Entfernung

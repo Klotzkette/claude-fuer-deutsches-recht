@@ -1,6 +1,6 @@
 ---
 name: aussenwirtschaft-vzta-antrag-qualitaetsgate
-description: "Wenn es um VZTA Antrag Qualitaetsgate in Außenwirtschaft, Sanktionen, Zoll und CBAM geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für VZTA Antrag Qualitätsgate: erstellt Entwurf mit Antrag, Beweis und Anlagen; Ergebnis: Gegenprüfung mit Beweis- und Fristencheck."
 ---
 
 # VZTA Antrag Qualitaetsgate

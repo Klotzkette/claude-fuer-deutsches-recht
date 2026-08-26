@@ -1,6 +1,6 @@
 ---
 name: rechnung
-description: "Wenn es um Rechnungsvorbereitung und Abschluss in Kanzlei-Allgemein geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Rechnungsvorbereitung und Abschluss: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Rechnungsvorbereitung und Abschluss

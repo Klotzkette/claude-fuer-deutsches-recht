@@ -1,6 +1,6 @@
 ---
 name: olg-boykott-beschlussfaehigkeit
-description: "Wenn es um Olg Boykott Beschlussfaehigkeit in Gesellschaftsrechtliche Treuepflicht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen."
+description: "Für Olg Boykott Beschlussfähigkeit: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Olg Boykott Beschlussfaehigkeit

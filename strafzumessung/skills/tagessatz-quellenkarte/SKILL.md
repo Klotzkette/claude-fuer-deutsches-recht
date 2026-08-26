@@ -1,6 +1,6 @@
 ---
 name: tagessatz-quellenkarte
-description: "Wenn es um Tagessatz Quellenkarte in Strafzumessung geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Tatbestands- oder Anspruchsmatrix mit Gegenargumenten."
+description: "Für Tagessatz Quellenkarte: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Tagessatz Quellenkarte

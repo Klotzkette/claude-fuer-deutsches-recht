@@ -1,6 +1,6 @@
 ---
 name: luft-106-slot-sicherheitsauflage-bewerten
-description: "Wenn es um Slot Sicherheitsauflage Bewerten in Luftrecht und Flughafenrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Slot Sicherheitsauflage Bewerten: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Slot Sicherheitsauflage Bewerten

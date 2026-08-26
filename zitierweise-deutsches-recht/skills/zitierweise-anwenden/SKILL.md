@@ -1,6 +1,6 @@
 ---
 name: zitierweise-anwenden
-description: "Wenn es um Deutsche juristische Zitierweise anwenden (v4.1) in Zitierweise deutsches Recht geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen."
+description: "Für Deutsche juristische Zitierweise anwenden (v4.1): ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Deutsche juristische Zitierweise anwenden (v4.1)

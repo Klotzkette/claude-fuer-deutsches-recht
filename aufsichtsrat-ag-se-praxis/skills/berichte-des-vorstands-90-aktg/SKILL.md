@@ -1,6 +1,6 @@
 ---
 name: berichte-des-vorstands-90-aktg
-description: "Wenn es um Berichte Des Vorstands 90 Aktg in AG/SE-Aufsichtsrat Praxis geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
+description: "Für Berichte des Vorstands 90 Aktg: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Berichte Des Vorstands 90 Aktg

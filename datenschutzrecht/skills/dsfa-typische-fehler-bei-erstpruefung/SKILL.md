@@ -1,6 +1,6 @@
 ---
 name: dsfa-typische-fehler-bei-erstpruefung
-description: "Wenn es um Typische Fehler bei der DSFA-Erstpruefung in Datenschutzrecht geht: klärt Rolle, Ziel, Frist, Unterlagen und den passenden nächsten Fachskill; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Typische Fehler bei der DSFA-Erstprüfung: routet Rolle, Frist, Unterlagen und Fachschritt; Ergebnis: Tatbestands- oder Anspruchsmatrix."
 ---
 
 # Typische Fehler bei der DSFA-Erstpruefung

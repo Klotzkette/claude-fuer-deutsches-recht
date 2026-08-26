@@ -1,6 +1,6 @@
 ---
 name: versorgungsausgleich-totalrevision-und-tod
-description: "Wenn es um Versorgungsausgleich Totalrevision Und Tod in Fachanwalt Familienrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Versorgungsausgleich Totalrevision und Tod: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Prüft Abänderungsverfahren nach Paragraf 51 VersAusglG, Besitzschutz in der gesetzlichen Rentenversicherung, Tod eines Ehegatten und die Grenze zwischen Änderungsgrund und Fehlerkorrektur.

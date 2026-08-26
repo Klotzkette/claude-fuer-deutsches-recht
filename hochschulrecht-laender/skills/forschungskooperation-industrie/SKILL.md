@@ -1,6 +1,6 @@
 ---
 name: forschungskooperation-industrie
-description: "Wenn es um Forschungskooperation mit Industrie in Hochschulrecht der Bundesländer geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Forschungskooperation mit Industrie: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Forschungskooperation mit Industrie

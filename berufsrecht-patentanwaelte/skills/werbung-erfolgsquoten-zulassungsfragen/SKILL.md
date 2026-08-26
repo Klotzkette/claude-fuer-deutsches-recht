@@ -1,6 +1,6 @@
 ---
 name: werbung-erfolgsquoten-zulassungsfragen
-description: "Wenn es um Werbung Erfolgsquoten Zulassungsfragen in Berufsrecht Patentanwälte geht: klärt Rolle, Ziel, Frist, Unterlagen und den passenden nächsten Fachskill; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Werbung Erfolgsquoten Zulassungsfragen: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Patentanwälte: werbung mit erfolgsquoten - Kaltstart mit Faktenmatrix, Risikoampel und fehlenden Unterlagen

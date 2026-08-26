@@ -1,6 +1,6 @@
 ---
 name: bess-bimschg-und-4-bimschv
-description: "Wenn es um BImSchG-Screening für Batteriespeicher in Energierecht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
+description: "Für BImSchG-Screening für Batteriespeicher: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # BImSchG-Screening für Batteriespeicher

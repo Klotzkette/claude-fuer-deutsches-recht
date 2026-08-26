@@ -1,6 +1,6 @@
 ---
 name: beweiswuerdigung-richter-cisg-dsgvo
-description: "Wenn es um Beweiswürdigung mit haendischem Richter-Input in Urteilsbauer und Relationsmacher geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. Auswahlstichwort: Beweiswuerdigung Richter Cisg Dsgvo; Arbeitsfeld: Urteilsbauer und Relationsmacher."
+description: "Für Beweiswürdigung mit händischem Richter-Input: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Beweislast- und Substantiierungsmatrix. Fachgebiet: Urteilsbauer und Relationsmacher. Route: beweiswuerdigung-richter-cisg-dsgvo."
 ---
 
 # Beweiswürdigung mit haendischem Richter-Input

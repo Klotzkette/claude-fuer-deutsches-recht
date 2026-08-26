@@ -1,6 +1,6 @@
 ---
 name: professional-indemnity-profit-per
-description: "Wenn es um Berufshaftpflicht und Claims in Kanzlei Management geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Berufshaftpflicht und Claims: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Berufshaftpflicht und Claims

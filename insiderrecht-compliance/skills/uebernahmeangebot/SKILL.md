@@ -1,6 +1,6 @@
 ---
 name: uebernahmeangebot
-description: "Wenn es um Übernahmeangebot – MAR und WpÜG in Insiderrecht Compliance geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
+description: "Für Übernahmeangebot – MAR und WpÜG: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Übernahmeangebot – MAR und WpÜG

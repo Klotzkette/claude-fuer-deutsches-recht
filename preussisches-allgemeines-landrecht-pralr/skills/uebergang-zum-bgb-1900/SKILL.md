@@ -1,6 +1,6 @@
 ---
 name: uebergang-zum-bgb-1900
-description: "Wenn es um Übergang zum BGB in Preußisches Allgemeines Landrecht geht: entwickelt Verhandlungsziel, Vergleichskorridor und Eskalationspfad; liefert eine Verhandlungs- oder Eskalationslinie mit Optionen. Auswahlstichwort: Uebergang Zum BGB 1900; Arbeitsfeld: Preußisches Allgemeines Landrecht."
+description: "Für Übergang zum BGB: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt. Fachgebiet: Preußisches Allgemeines Landrecht. Route: uebergang-zum-bgb-1900."
 ---
 
 # Übergang zum BGB

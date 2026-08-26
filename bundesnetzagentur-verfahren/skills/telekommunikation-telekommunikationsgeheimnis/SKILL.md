@@ -1,6 +1,6 @@
 ---
 name: telekommunikation-telekommunikationsgeheimnis
-description: "Wenn es um Telekommunikation: Telekommunikationsgeheimnis in Bundesnetzagentur-Verfahren geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
+description: "Für Telekommunikation: Telekommunikationsgeheimnis: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Telekommunikation: Telekommunikationsgeheimnis

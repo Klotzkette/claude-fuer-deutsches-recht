@@ -1,6 +1,6 @@
 ---
 name: krankenkassen-arzneimittel-31-sgb-v
-description: "Wenn es um Krankenkassen Arzneimittel 31 Sgb V in selbstvertreter-sozialgericht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Krankenkassen Arzneimittel 31 SGB V: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Krankenkassen Arzneimittel 31 Sgb V

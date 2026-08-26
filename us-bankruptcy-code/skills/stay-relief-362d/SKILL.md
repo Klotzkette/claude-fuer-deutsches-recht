@@ -1,6 +1,6 @@
 ---
 name: stay-relief-362d
-description: "Wenn es um Stay Relief Paragraf 362(d) in US Bankruptcy Code geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Stay Relief Paragraf 362(d): ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Stay Relief § 362(d)

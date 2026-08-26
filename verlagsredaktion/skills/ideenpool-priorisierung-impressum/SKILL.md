@@ -1,6 +1,6 @@
 ---
 name: ideenpool-priorisierung-impressum
-description: "Wenn es um Ideenpool und Priorisierung in Verlagsredaktion geht: entwickelt Verhandlungsziel, Vergleichskorridor und Eskalationspfad; liefert eine Verhandlungs- oder Eskalationslinie mit Optionen."
+description: "Für Ideenpool und Priorisierung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Ideenpool und Priorisierung

@@ -1,6 +1,6 @@
 ---
 name: einziehung-drittbetroffene-anhoerung
-description: "Wenn es um Einziehung mit Drittbetroffenen in Staatsanwaltschaft Praxis-Einstieg geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Beweislast- und Substantiierungsmatrix."
+description: "Für Einziehung mit Drittbetroffenen: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Einziehung mit Drittbetroffenen

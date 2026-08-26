@@ -1,6 +1,6 @@
 ---
 name: rechtsanwaltliche-vollmacht
-description: "Wenn es um Anwaltliche Vollmacht in Kriegsdienstverweigerung und Wehrdienst geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
+description: "Für Anwaltliche Vollmacht: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Anwaltliche Vollmacht

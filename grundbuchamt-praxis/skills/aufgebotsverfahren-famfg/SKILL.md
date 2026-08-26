@@ -1,6 +1,6 @@
 ---
 name: aufgebotsverfahren-famfg
-description: "Wenn es um Aufgebotsverfahren planen in Grundbuchamt Praxis geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Aufgebotsverfahren planen: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Aufgebotsverfahren planen

@@ -1,6 +1,6 @@
 ---
 name: 05-rentenversicherung-pruefung
-description: "Wenn es um 05 Rentenversicherung Prüfung in Sozialgericht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Tatbestands- oder Anspruchsmatrix mit Gegenargumenten."
+description: "Für 05 Rentenversicherung Prüfung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Tatbestands- oder Anspruchsmatrix."
 ---
 
 # 05 Rentenversicherung Prüfung

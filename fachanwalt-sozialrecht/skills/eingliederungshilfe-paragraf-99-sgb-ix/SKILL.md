@@ -1,6 +1,6 @@
 ---
 name: eingliederungshilfe-paragraf-99-sgb-ix
-description: "Wenn es um Eingliederungshilfe Paragraf 99 sgb ix in Fachanwalt Sozialrecht geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Eingliederungshilfe Paragraf 99 SGB ix: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Eingliederungshilfe § 99 sgb ix

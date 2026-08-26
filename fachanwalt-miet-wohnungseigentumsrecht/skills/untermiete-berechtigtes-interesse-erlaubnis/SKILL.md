@@ -1,6 +1,6 @@
 ---
 name: untermiete-berechtigtes-interesse-erlaubnis
-description: "Prüft den Anspruch auf Erlaubnis zur teilweisen Untervermietung. Klärt nachträglich entstandenes Interesse, verbleibenden Gewahrsam, Person des Untermieters, Überbelegung, Zumutbarkeit und Zuschlag und liefert vollständiges Erlaubnisverlangen, Klageantrag und Kündigungsrisiko."
+description: "Für Erlaubnis zur Untervermietung prüfen: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Erlaubnis zur Untervermietung prüfen

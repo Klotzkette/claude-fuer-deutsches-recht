@@ -1,6 +1,6 @@
 ---
 name: see-011-pfaendung-und-arrest-schiff
-description: "Wenn es um Pfaendung Und Arrest Schiff in See- und Schifffahrtsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Pfändung und Arrest Schiff: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Pfaendung Und Arrest Schiff

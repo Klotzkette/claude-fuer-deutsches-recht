@@ -1,6 +1,6 @@
 ---
 name: dsfa-fuer-ki-systeme-schnittstelle-art-26-kivo
-description: "Wenn es um DSFA für digitale Werkzeuge-Systeme an der Schnittstelle zur digitale Werkzeuge-Verordnung: Koordination Art in Datenschutzrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für DSFA für digitale Werkzeuge-Systeme an der Schnittstelle zur digitale Werkzeuge-Verordnung: Koordination Art: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # DSFA für KI-Systeme an der Schnittstelle zur KI-Verordnung: Koordination Art

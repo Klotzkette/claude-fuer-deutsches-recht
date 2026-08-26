@@ -1,6 +1,6 @@
 ---
 name: impfpflicht-tauglichkeit-musterung
-description: "Wenn es um Impfpflicht, Tauglichkeit und Musterung in Bundeswehrrecht und Wehrrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Impfpflicht, Tauglichkeit und Musterung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Impfpflicht, Tauglichkeit und Musterung

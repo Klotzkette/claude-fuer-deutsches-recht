@@ -1,6 +1,6 @@
 ---
 name: plan-integrierte-kommandocenter
-description: "Wenn es um Integrierte Planrechnung für Plan und Sanierungskonzept in Insolvenzverwaltung - IV-Cockpit geht: rechnet Schwellen, Beträge, Varianten und Kontrollannahmen durch; liefert eine Berechnungstabelle mit Schwellen, Annahmen und Kontrollfragen."
+description: "Für Integrierte Planrechnung für Plan und Sanierungskonzept: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Integrierte Planrechnung für Plan und Sanierungskonzept

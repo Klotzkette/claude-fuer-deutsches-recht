@@ -1,6 +1,6 @@
 ---
 name: honorarzone-bewertungspunkte-objektliste
-description: "Wenn es um Honorarzone, Bewertungspunkte Und Objektliste in HOAI Leistungsphasen Praxis geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
+description: "Für Honorarzone, Bewertungspunkte und Objektliste: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Honorarzone, Bewertungspunkte Und Objektliste

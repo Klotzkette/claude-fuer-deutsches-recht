@@ -1,6 +1,6 @@
 ---
 name: drg-neu-007-norddeutscher-bund-verfassung-1867
-description: "Wenn es um Deutsche Rechtsgeschichte: Norddeutscher Bund Verfassung 1867 in Deutsche Rechtsgeschichte geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Deutsche Rechtsgeschichte: Norddeutscher Bund Verfassung 1867: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Schnittstellenkarte mit Zuständigkeits- und Nachweisfragen."
 ---
 
 # Deutsche Rechtsgeschichte: Norddeutscher Bund Verfassung 1867

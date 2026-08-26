@@ -1,6 +1,6 @@
 ---
 name: tia-us-fisa-702-und-eo-12333-bewertung
-description: "Wenn es um US-Ueberwachungsgrundlagen FISA 702 und EO 12333 für das TIA in Datenschutzrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für US-Überwachungsgrundlagen FISA 702 und EO 12333 für das TIA: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # US-Ueberwachungsgrundlagen FISA 702 und EO 12333 für das TIA

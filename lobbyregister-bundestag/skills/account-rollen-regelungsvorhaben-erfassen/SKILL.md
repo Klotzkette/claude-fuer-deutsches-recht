@@ -1,6 +1,6 @@
 ---
 name: account-rollen-regelungsvorhaben-erfassen
-description: "Wenn es um Portal-Account und Rollen in Lobbyregister Bundestag geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Portal-Account und Rollen: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Portal-Account und Rollen

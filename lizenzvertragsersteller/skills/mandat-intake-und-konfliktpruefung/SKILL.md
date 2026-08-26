@@ -1,6 +1,6 @@
 ---
 name: mandat-intake-und-konfliktpruefung
-description: "Wenn es um Mandatsannahme und Konfliktpruefung in Lizenzvertragsersteller geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Mandatsannahme und Konfliktprüfung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Tatbestands- oder Anspruchsmatrix."
 ---
 
 # Mandatsannahme und Konfliktpruefung

@@ -1,6 +1,6 @@
 ---
 name: habilitation-hausrecht-campus-hochschularchiv
-description: "Wenn es um Habilitation in Hochschulrecht der Bundesländer geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Habilitation: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Habilitation

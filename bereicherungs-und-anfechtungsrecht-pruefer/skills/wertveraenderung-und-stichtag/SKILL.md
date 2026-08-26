@@ -1,6 +1,6 @@
 ---
 name: wertveraenderung-und-stichtag
-description: "Wenn es um Wertveränderung und Bewertungsstichtag in bereicherungs-und-anfechtungsrecht-prüfer geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Wertveränderung und Bewertungsstichtag: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Wertveränderung und Bewertungsstichtag

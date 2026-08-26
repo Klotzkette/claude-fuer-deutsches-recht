@@ -1,6 +1,6 @@
 ---
 name: marktueberwachung-unterlagenvorlage
-description: "Wenn es um Marktüberwachung Unterlagenvorlage in robotik-recht geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Dokumentenmatrix mit Nachforderungsliste."
+description: "Für Marktüberwachung Unterlagenvorlage: ordnet Akte, Belege und Lücken; Ergebnis: Dokumentenmatrix mit Nachforderungsliste."
 ---
 
 # Marktüberwachung Unterlagenvorlage

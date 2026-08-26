@@ -1,6 +1,6 @@
 ---
 name: softwareupdate-als-produktbezogener-dienst
-description: "Wenn es um Softwareupdate als produktbezogener Dienst in robotik-recht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Softwareupdate als produktbezogener Dienst: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Schnittstellenkarte mit Zuständigkeits- und Nachweisfragen."
 ---
 
 # Softwareupdate als produktbezogener Dienst

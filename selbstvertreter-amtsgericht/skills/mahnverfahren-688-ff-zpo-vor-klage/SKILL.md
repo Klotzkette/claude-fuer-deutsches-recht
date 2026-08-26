@@ -1,6 +1,6 @@
 ---
 name: mahnverfahren-688-ff-zpo-vor-klage
-description: "Wenn es um Mahnbescheid statt Klage: schnell und billig in selbstvertreter-amtsgericht geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
+description: "Für Mahnbescheid statt Klage: schnell und billig: erstellt Entwurf mit Antrag, Beweis und Anlagen; Ergebnis: Schriftsatz mit Begründungs- und Anlagenlogik."
 ---
 
 # Mahnbescheid statt Klage: schnell und billig

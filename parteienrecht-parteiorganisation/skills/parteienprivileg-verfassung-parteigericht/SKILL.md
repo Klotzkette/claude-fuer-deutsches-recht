@@ -1,6 +1,6 @@
 ---
 name: parteienprivileg-verfassung-parteigericht
-description: "Wenn es um Parteienprivileg und Verfassung in Parteienrecht und Parteiorganisation geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. Auswahlstichwort: Parteienprivileg Verfassung Parteigericht; Arbeitsfeld: Parteienrecht und Parteiorganisation."
+description: "Für Parteienprivileg und Verfassung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt. Fachgebiet: Parteienrecht und Parteiorganisation. Route: parteienprivileg-verfassung-parteigericht."
 ---
 
 # Parteienprivileg und Verfassung

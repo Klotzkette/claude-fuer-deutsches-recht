@@ -1,6 +1,6 @@
 ---
 name: 02-grosse-relation-zivilrecht
-description: "Wenn es um 02 Große Relation Zivilrecht in Zivilkammer am Landgericht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Beweislast- und Substantiierungsmatrix."
+description: "Für 02 Große Relation Zivilrecht: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # 02 Große Relation Zivilrecht

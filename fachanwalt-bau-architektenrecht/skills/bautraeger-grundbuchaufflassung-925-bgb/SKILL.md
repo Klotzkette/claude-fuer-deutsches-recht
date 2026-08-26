@@ -1,6 +1,6 @@
 ---
 name: bautraeger-grundbuchaufflassung-925-bgb
-description: "Wenn es um Aufflassung nach Paragraf 925 BGB beim Bautraegervertrag in Fachanwalt Bau Architektenrecht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
+description: "Für Aufflassung nach Paragraf 925 BGB beim Bauträgervertrag: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Aufflassung nach § 925 BGB beim Bautraegervertrag

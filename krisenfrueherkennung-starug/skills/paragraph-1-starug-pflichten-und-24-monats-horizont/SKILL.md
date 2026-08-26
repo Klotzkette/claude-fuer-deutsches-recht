@@ -1,6 +1,6 @@
 ---
 name: paragraph-1-starug-pflichten-und-24-monats-horizont
-description: "Trennt die fortlaufende Krisenfrüherkennungs- und Reaktionspflicht nach Paragraf 1 StaRUG sauber von der regelmäßigen 24-Monats-Prognose nach Paragraf 18 Absatz 2 InsO. Liefert Pflichtenmemo, Organ- und Eskalationsmatrix, dokumentiertes Frühwarnsystem sowie Liquiditäts- und Maßnahmenkalender."
+description: "Trennt die fortlaufende Krisenfrüherkennungs- und Reaktionspflicht nach Paragraf 1 StaRUG sauber von der regelmäßigen 24-Monats-Prognose nach Paragraf 18 Absatz 2 InsO."
 ---
 
 # 1. Paragraf 1 StaRUG und die 24-Monats-Prognose richtig verbinden

@@ -1,6 +1,6 @@
 ---
 name: kuendigungsbutton-312k-bgb
-description: "Wenn es um Kündigungsbutton Paragraf 312k BGB in E-Commerce-Recht geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
+description: "Für Kündigungsbutton Paragraf 312k BGB: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Kündigungsbutton § 312k BGB

@@ -1,6 +1,6 @@
 ---
 name: rechtsabteilung-legal-tech-dd-mit-halluzinationsschutz
-description: "Wenn es um Rechtsabteilung Legal Tech Dd Mit Halluzinationsschutz in Großkanzlei Corporate/M&A geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Rechtsabteilung Legal Tech Dd mit Halluzinationsschutz: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Rechtsabteilungs-Fachmodul für Legal Tech DD mit Halluzinationsschutz: AI-gestützte DD wird mit Quellenregister, Privilege-Log und Red-Flag-Audit kontrolliert

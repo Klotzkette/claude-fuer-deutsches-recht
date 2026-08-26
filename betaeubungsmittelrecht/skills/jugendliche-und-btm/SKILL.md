@@ -1,6 +1,6 @@
 ---
 name: jugendliche-und-btm
-description: "Wenn es um Jugendliche Und Btm in Betäubungsmittelrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Jugendliche und Btm: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Jugendliche Und Btm

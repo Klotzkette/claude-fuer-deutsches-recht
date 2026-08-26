@@ -1,6 +1,6 @@
 ---
 name: governance-aufsichtsbehoerden-art-70
-description: "Wenn es um Governance und Aufsichtsbehörden — Art. 70 ff. europäischer Technikregulierungsrahmen in europäischem Technikregulierungsrecht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
+description: "Für Governance und Aufsichtsbehörden — Art. 70 ff. europäischer Technikregulierungsrahmen: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Governance und Aufsichtsbehörden — Art. 70 ff. KI-VO

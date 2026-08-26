@@ -1,6 +1,6 @@
 ---
 name: china-utility-model-vergleich
-description: "Wenn es um China Utility Model Vergleich in gebrauchsmusterrecht geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
+description: "Für China Utility Model Vergleich: entwickelt Ziel, Vergleich und Eskalation; Ergebnis: Verhandlungs- oder Eskalationslinie."
 ---
 
 # China Utility Model Vergleich

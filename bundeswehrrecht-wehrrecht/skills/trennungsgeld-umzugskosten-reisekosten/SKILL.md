@@ -1,6 +1,6 @@
 ---
 name: trennungsgeld-umzugskosten-reisekosten
-description: "Wenn es um Trennungsgeld, Umzugskosten und Reisekosten in Bundeswehrrecht und Wehrrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Trennungsgeld, Umzugskosten und Reisekosten: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Trennungsgeld, Umzugskosten und Reisekosten

@@ -1,6 +1,6 @@
 ---
 name: nachfrage-quellenkarte
-description: "Wenn es um Nachfrage Quellenkarte in Kartellrecht — Marktabgrenzungsprüfung geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Tatbestands- oder Anspruchsmatrix mit Gegenargumenten."
+description: "Für Nachfrage Quellenkarte: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Nachfrage Quellenkarte

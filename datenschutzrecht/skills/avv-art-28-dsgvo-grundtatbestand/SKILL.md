@@ -1,6 +1,6 @@
 ---
 name: avv-art-28-dsgvo-grundtatbestand
-description: "Wenn es um Auftragsverarbeitung Art. 28 DSGVO – Grundtatbestand in Datenschutzrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Auftragsverarbeitung Art. 28 DSGVO – Grundtatbestand: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Tatbestands- oder Anspruchsmatrix."
 ---
 
 # Auftragsverarbeitung Art. 28 DSGVO – Grundtatbestand

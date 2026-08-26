@@ -1,6 +1,6 @@
 ---
 name: podcast-zeitschriftenbeitrag-powerpoint
-description: "Wenn es um Podcast zu Zeitschriftenbeitrag in Verlagsredaktion geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
+description: "Für Podcast zu Zeitschriftenbeitrag: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Podcast zu Zeitschriftenbeitrag

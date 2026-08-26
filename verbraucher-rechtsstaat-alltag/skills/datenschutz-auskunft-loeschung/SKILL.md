@@ -1,6 +1,6 @@
 ---
 name: datenschutz-auskunft-loeschung
-description: "Wenn es um Datenschutz Auskunft und Löschung in Verbraucher im Rechtsstaat Alltag geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Datenschutz Auskunft und Löschung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Datenschutz Auskunft und Löschung

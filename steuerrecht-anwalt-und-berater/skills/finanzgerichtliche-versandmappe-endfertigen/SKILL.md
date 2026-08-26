@@ -1,6 +1,6 @@
 ---
 name: finanzgerichtliche-versandmappe-endfertigen
-description: "Endfertigt finanzgerichtliche Klage, Aussetzungsantrag, Nichtzulassungsbeschwerde oder Revision: liest Bescheide, Einspruchsentscheidung, Bekanntgabe- und Berechnungsdaten zuerst, prüft Streitjahre, Antrag, Klagefrist, Vertretungsrolle und beA- oder beSt-Weg, ordnet Steuererklärungen, Bilanzen und Nachweise zu und liefert einzelne PDF-Anlagen mit Manifest und Eingangskontrolle."
+description: "Endfertigt finanzgerichtliche Klage, Aussetzungsantrag, Nichtzulassungsbeschwerde oder Revision: liest Bescheide, Einspruchsentscheidung, Bekanntgabe- und Berechnungsdaten zuerst, prüft Streitjahre, Antrag, Klagefrist, Vertretungsrolle und beA- oder beSt-Weg, ordnet Steuererklärungen, Bilanzen und Nachweise zu und liefert einzelne PDF-Anlagen mit Manifest."
 ---
 
 # Finanzgerichtliche Versandmappe endfertigen

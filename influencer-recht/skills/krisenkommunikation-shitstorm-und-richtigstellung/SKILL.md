@@ -1,6 +1,6 @@
 ---
 name: krisenkommunikation-shitstorm-und-richtigstellung
-description: "Wenn es um Influencer-Recht: Krisenkommunikation – Shitstorm und Richtigstellung in Influencer-Recht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
+description: "Für Influencer-Recht: Krisenkommunikation – Shitstorm und Richtigstellung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Influencer-Recht: Krisenkommunikation – Shitstorm und Richtigstellung

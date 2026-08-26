@@ -1,6 +1,6 @@
 ---
 name: vowi-handyverstoss-akteneinsicht-alkohol
-description: "Wenn es um VOWi: Handyverstoss in VerkehrsOWi-Verteidiger geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
+description: "Für VOWi: Handyverstoss: ordnet Akte, Belege und Lücken; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # VOWi: Handyverstoss

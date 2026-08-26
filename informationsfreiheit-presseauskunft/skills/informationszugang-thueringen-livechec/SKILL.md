@@ -1,6 +1,6 @@
 ---
 name: informationszugang-thueringen-livechec
-description: "Wenn es um Informationszugang Thueringen Livechec in Informationsfreiheit und Presseauskunft geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
+description: "Für Informationszugang Thüringen Livechec: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Informationszugang Thueringen Livechec

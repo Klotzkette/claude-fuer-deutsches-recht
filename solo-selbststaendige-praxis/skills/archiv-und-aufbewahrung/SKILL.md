@@ -1,6 +1,6 @@
 ---
 name: archiv-und-aufbewahrung
-description: "Wenn es um Dokumente und Kommunikation: Plant aufbewahrung in Solo-Selbstständige Praxis geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Dokumente und Kommunikation: Plant aufbewahrung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Dokumente und Kommunikation: Plant aufbewahrung

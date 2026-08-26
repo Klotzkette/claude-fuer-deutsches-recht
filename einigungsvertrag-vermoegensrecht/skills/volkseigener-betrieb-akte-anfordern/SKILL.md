@@ -1,6 +1,6 @@
 ---
 name: volkseigener-betrieb-akte-anfordern
-description: "Wenn es um Volkseigener Betrieb Akte Anfordern in Einigungsvertrag und Vermögensrecht geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
+description: "Für Volkseigener Betrieb Akte Anfordern: ordnet Akte, Belege und Lücken; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Volkseigener Betrieb Akte Anfordern

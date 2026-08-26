@@ -1,6 +1,6 @@
 ---
 name: umwelt-owi-mandantenbrief-schreiben
-description: "Wenn es um Umwelt Owi Mandantenbrief Schreiben in Ordnungswidrigkeitenrecht geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
+description: "Für Umwelt Owi Mandantenbrief Schreiben: erstellt Entwurf mit Antrag, Beweis und Anlagen; Ergebnis: Schriftsatz mit Begründungs- und Anlagenlogik."
 ---
 
 # Umwelt Owi Mandantenbrief Schreiben

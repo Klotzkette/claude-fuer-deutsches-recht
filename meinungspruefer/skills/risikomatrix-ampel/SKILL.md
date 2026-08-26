@@ -1,6 +1,6 @@
 ---
 name: risikomatrix-ampel
-description: "Wenn es um Risikomatrix Ampel in Meinungsprüfer geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Risikomatrix Ampel: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Risikomatrix Ampel

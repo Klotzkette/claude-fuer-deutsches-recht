@@ -1,6 +1,6 @@
 ---
 name: strafbefehl-rechtsprechungsrecherche
-description: "Wenn es um Rechtsprechungsrecherche im Strafbefehlsverfahren in Strafbefehl-Verteidiger geht: entwickelt Verhandlungsziel, Vergleichskorridor und Eskalationspfad; liefert eine Verhandlungs- oder Eskalationslinie mit Optionen."
+description: "Für Rechtsprechungsrecherche im Strafbefehlsverfahren: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Rechtsprechungsrecherche im Strafbefehlsverfahren

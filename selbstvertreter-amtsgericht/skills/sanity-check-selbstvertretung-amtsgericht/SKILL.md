@@ -1,6 +1,6 @@
 ---
 name: sanity-check-selbstvertretung-amtsgericht
-description: "Wenn es um Sanity-Check Selbstvertretung Amtsgericht in selbstvertreter-amtsgericht geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
+description: "Für Sanity-Check Selbstvertretung Amtsgericht: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Sanity-Check Selbstvertretung Amtsgericht

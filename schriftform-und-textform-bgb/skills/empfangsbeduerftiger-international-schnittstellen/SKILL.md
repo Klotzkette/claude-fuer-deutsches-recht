@@ -1,6 +1,6 @@
 ---
 name: empfangsbeduerftiger-international-schnittstellen
-description: "Wenn es um Empfangsbeduerftiger: Internationaler Bezug und Schnittstellen in Schriftform und Textform im BGB geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Empfangsbeduerftiger: Internationaler Bezug und Schnittstellen: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Schnittstellenkarte mit Zuständigkeits- und Nachweisfragen."
 ---
 
 # Empfangsbeduerftiger: Internationaler Bezug und Schnittstellen

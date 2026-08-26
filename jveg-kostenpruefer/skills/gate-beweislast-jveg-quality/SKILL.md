@@ -1,6 +1,6 @@
 ---
 name: gate-beweislast-jveg-quality
-description: "Wenn es um Gate: Beweislast, Darlegungslast und Substantiierung in JVEG-Kostenprüfer geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Gate: Beweislast, Darlegungslast und Substantiierung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Beweislast- und Substantiierungsmatrix."
 ---
 
 # Gate: Beweislast, Darlegungslast und Substantiierung

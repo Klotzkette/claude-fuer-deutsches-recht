@@ -1,6 +1,6 @@
 ---
 name: markenbewertung-asset-deal-insolvenz
-description: "Wenn es um Markenbewertung, Asset Deal und Insolvenz in markenrecht-fashion-luxus geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
+description: "Für Markenbewertung, Asset Deal und Insolvenz: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Markenbewertung, Asset Deal und Insolvenz

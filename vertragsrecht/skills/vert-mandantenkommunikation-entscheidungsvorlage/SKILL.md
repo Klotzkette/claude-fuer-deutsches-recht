@@ -1,6 +1,6 @@
 ---
 name: vert-mandantenkommunikation-entscheidungsvorlage
-description: "Wenn es um Vert: Mandantenkommunikation und Entscheidungsvorlage in Vertragsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Vert: Mandantenkommunikation und Entscheidungsvorlage: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Mandantennachricht oder Entscheidungsvorlage."
 ---
 
 # Vert: Mandantenkommunikation und Entscheidungsvorlage

@@ -1,6 +1,6 @@
 ---
 name: lebensmittel-haccp-rueckverfolgung
-description: "Wenn es um Lebensmittel: HACCP und Rückverfolgung in Berichtspflichten-Erlediger geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Gegenprüfung mit Fehler-, Beweis- und Fristencheck."
+description: "Für Lebensmittel: HACCP und Rückverfolgung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Lebensmittel: HACCP und Rückverfolgung

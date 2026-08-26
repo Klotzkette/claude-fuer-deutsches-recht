@@ -1,6 +1,6 @@
 ---
 name: cra-produkt-lager-intralogistikflotte
-description: "Wenn es um CRA für Roboter mit digitalen Elementen in robotik-recht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. Auswahlstichwort: Cra Produkt Lager Intralogistikflotte; Arbeitsfeld: robotik-recht."
+description: "Für CRA für Roboter mit digitalen Elementen: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt. Fachgebiet: robotik-recht. Route: cra-produkt-lager-intralogistikflotte."
 ---
 
 # CRA für Roboter mit digitalen Elementen

@@ -1,6 +1,6 @@
 ---
 name: rechtsprechung-fehlerkatalog
-description: "Wenn es um Rechtsprechung Fehlerkatalog in Liquiditätsplanung — Power geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Rechtsprechung Fehlerkatalog: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Rechtsprechung Fehlerkatalog

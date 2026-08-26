@@ -1,6 +1,6 @@
 ---
 name: vergabesenat-quellenkarte
-description: "Wenn es um Vergabesenat Quellenkarte in Fachanwalt Vergaberecht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Tatbestands- oder Anspruchsmatrix mit Gegenargumenten."
+description: "Für Vergabesenat Quellenkarte: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Vergabesenat Quellenkarte

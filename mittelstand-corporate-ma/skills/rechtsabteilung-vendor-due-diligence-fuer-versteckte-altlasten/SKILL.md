@@ -1,6 +1,6 @@
 ---
 name: rechtsabteilung-vendor-due-diligence-fuer-versteckte-altlasten
-description: "Wenn es um Rechtsabteilung: Vendor Due Diligence für versteckte Altlasten in Mittelstands-Corporate/M&A geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
+description: "Für Rechtsabteilung: Vendor Due Diligence für versteckte Altlasten: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Rechtsabteilung: Vendor Due Diligence für versteckte Altlasten

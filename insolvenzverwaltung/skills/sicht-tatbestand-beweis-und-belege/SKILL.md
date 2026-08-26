@@ -1,6 +1,6 @@
 ---
 name: sicht-tatbestand-beweis-und-belege
-description: "Wenn es um Sicht Tatbestand Beweis Und Belege in Insolvenzverwaltung - IV-Cockpit geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Beweislast- und Substantiierungsmatrix."
+description: "Für Sicht Tatbestand Beweis und Belege: ordnet Akte, Belege und Lücken; Ergebnis: Beweislast- und Substantiierungsmatrix."
 ---
 
 # Sicht: Tatbestandsmerkmale, Beweisfragen und Beleglage im Insolvenzverwaltung: fachlich vertieftes Modul mit Normenradar (InsO/StaRUG/SGB III), Tatbestands-/Beweislastmatrix, Fristen- und Formcheck, Gegenargumenten, Fehlerbremse und direkt nutzbarem Arbeitsprodukt.
@@ -51,3 +51,7 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 - **§ 134 InsO Unentgeltliche Leistung:** Letzte 4 Jahre vor Antrag anfechtbar; objektiver Tatbestand reicht.
 - **§ 15b InsO Zahlungsverbot:** Geschäftsführerhaftung für Zahlungen nach Insolvenzreife; Privilegierung für Zahlungen "im ordnungsgemäßen Geschäftsgang" (§ 15b Abs. 2 InsO, Stand prüfen).
 - **Beleglage Verwalter:** Kontoauszüge, Buchhaltung, Korrespondenz Schuldner-Gläubiger, Liquiditätsstatus zum Zahlungszeitpunkt, Mahnungen, Stundungsverhandlungen — Verwalter trägt grds. Darlegungslast für Kenntnis.
+
+## Vertiefung bei Bedarf
+
+- Bei `spezial-sicht-tatbestand-beweis-und-belege` beziehungsweise Sicht: Tatbestandsmerkmale, Beweisfragen und Beleglage: [die zusätzliche Vertiefung laden](./references/vertiefung-spezial-sicht-tatbestand-beweis-und-belege.md).

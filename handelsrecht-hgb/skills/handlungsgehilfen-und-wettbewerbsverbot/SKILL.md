@@ -1,6 +1,6 @@
 ---
 name: handlungsgehilfen-und-wettbewerbsverbot
-description: "Wenn es um Handlungsgehilfen und Wettbewerbsverbot in Handelsrecht HGB geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Handlungsgehilfen und Wettbewerbsverbot: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Handlungsgehilfen und Wettbewerbsverbot

@@ -1,6 +1,6 @@
 ---
 name: atmp-classification-cat
-description: "Wenn es um Atmp Classification Cat in Fachanwalt Medizinrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Atmp Classification Cat: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # ATMP-Klassifizierung und CAT-Route: moderner Medizinrechts-Skill für Einordnung als Gentherapeutikum, somatische Zelltherapie, Tissue Engineering oder kombiniertes ATMP

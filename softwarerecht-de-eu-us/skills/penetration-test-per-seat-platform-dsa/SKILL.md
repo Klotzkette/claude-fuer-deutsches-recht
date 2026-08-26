@@ -1,6 +1,6 @@
 ---
 name: penetration-test-per-seat-platform-dsa
-description: "Wenn es um Penetration Test Terms in Softwarerecht Deutschland/EU/International/USA geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Penetration Test Terms: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Penetration Test Terms

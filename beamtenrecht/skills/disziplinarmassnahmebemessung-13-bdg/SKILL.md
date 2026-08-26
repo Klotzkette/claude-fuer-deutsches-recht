@@ -1,6 +1,6 @@
 ---
 name: disziplinarmassnahmebemessung-13-bdg
-description: "Wenn es um Disziplinarmassnahmebemessung Paragraf 13 BDG in Beamtenrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Disziplinarmassnahmebemessung Paragraf 13 BDG: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Disziplinarmassnahmebemessung § 13 BDG

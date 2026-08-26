@@ -1,6 +1,6 @@
 ---
 name: partnerkreis-flohzirkus-partnerverguetung
-description: "Wenn es um Partnerkreis und Flohzirkus-Dynamik in Kanzlei Management geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Partnerkreis und Flohzirkus-Dynamik: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Partnerkreis und Flohzirkus-Dynamik

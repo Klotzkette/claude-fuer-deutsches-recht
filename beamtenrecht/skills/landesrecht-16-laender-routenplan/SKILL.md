@@ -1,6 +1,6 @@
 ---
 name: landesrecht-16-laender-routenplan
-description: "Wenn es um Landesrecht - 16-Länder-Routenplan in Beamtenrecht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
+description: "Für Landesrecht - 16-Länder-Routenplan: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Landesrecht - 16-Länder-Routenplan

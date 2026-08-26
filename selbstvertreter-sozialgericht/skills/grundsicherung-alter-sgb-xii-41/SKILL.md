@@ -1,6 +1,6 @@
 ---
 name: grundsicherung-alter-sgb-xii-41
-description: "Wenn es um Grundsicherung Alter Sgb Xii 41 in selbstvertreter-sozialgericht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Grundsicherung Alter SGB Xii 41: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Grundsicherung Alter Sgb Xii 41

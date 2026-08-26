@@ -1,6 +1,6 @@
 ---
 name: auswanderung-rente-ins-ausland-zahlung
-description: "Wenn es um auswanderung-rente-ins-ausland-zahlung in Rentenprüfer geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen."
+description: "Für auswanderung-rente-ins-ausland-zahlung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Schnittstellenkarte mit Zuständigkeits- und Nachweisfragen."
 ---
 
 # auswanderung-rente-ins-ausland-zahlung

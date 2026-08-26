@@ -1,6 +1,6 @@
 ---
 name: verbraucherverband-abhilfeklage-musterfeststellung-w-uklag
-description: "Wenn es um Abhilfeklage Oder Musterfeststellung W in Verbraucherschutzverband Durchsetzung geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
+description: "Für Abhilfeklage oder Musterfeststellung W: erstellt Entwurf mit Antrag, Beweis und Anlagen; Ergebnis: Schriftsatz mit Begründungs- und Anlagenlogik."
 ---
 
 # Abhilfeklage Oder Musterfeststellung W

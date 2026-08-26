@@ -1,6 +1,6 @@
 ---
 name: auslaenderrecht-warnwoerter-barrierefreie
-description: "Wenn es um Ausländerrecht Warnwoerter in Juristische Sprache Deutsch als Zweitsprache geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Ausländerrecht Warnwörter: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt. Fachgebiet: Juristische Sprache Deutsch als Zweitsprache. Route: auslaenderrecht-warnwoerter-barrierefreie."
 ---
 
 # Ausländerrecht Warnwoerter

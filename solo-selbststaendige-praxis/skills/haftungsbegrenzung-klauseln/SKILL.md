@@ -1,6 +1,6 @@
 ---
 name: haftungsbegrenzung-klauseln
-description: "Wenn es um Versicherung Haftung und Risiko: Entwirft wirksame haftungsbegrenzung ohne agb-falle in Solo-Selbstständige Praxis geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Versicherung Haftung und Risiko: Entwirft wirksame haftungsbegrenzung ohne AGB-falle: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Versicherung Haftung und Risiko: Entwirft wirksame haftungsbegrenzung ohne agb-falle

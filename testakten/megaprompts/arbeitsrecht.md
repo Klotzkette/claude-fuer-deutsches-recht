@@ -8,14 +8,14 @@ Diese Vollprüfung enthält top-10 von 100 Skills des Plugins `arbeitsrecht`.
 
 1. **juristischer-argumentationskern** — Schaltet sich ein, wenn in Arbeitsrecht ein juristisches Arbeitsprodukt tragfähig begründet werden muss; verbindet konkr…
 2. **arbeitsgerichtliche-versandmappe-endfertigen** — Macht Kündigungsschutz-, Entfristungs- und Zahlungsschriftsätze versandfertig: liest Vertrag, Kündigung, Zugang, Abmahnu…
-3. **kaltstart-triage** — Wenn es um Kaltstart Triage in Arbeitsrecht geht: klärt Rolle, Ziel, Frist, Unterlagen und den passenden nächsten Fachsk…
-4. **mandat-triage-arbeitsrecht** — Wenn es um Mandat Triage Arbeitsrecht in Arbeitsrecht geht: klärt Rolle, Ziel, Frist, Unterlagen und den passenden nächs…
-5. **kueschk-klageschrift-anwalt-baustein** — Wenn es um Anwaltliche Klageschrift Kündigungsschutzklage: Klageschrift mit Tenor und Hilfsanträgen in Arbeitsrecht geht…
-6. **rechtsstand-mai-2026-faktenbank** — Wenn es um Faktenbank und Quellen-Gate für aktuelle arbeitsrechtliche Aussagen mit Stand 29.05.2026 in Arbeitsrecht geht…
-7. **kueschk-replik-arbeitnehmer-baustein** — Wenn es um Reaktion auf die Klageerwiderung des Arbeitgebers: Bestreiten von Behauptungen in Arbeitsrecht geht: erstellt…
-8. **entfristung-grundwarnung-drei-wochen-frist** — Wenn es um Grundwarnung Entfristungsklage: Paragraf 17 TzBfG drei Wochen ab vereinbartem Vertragsende in Arbeitsrecht ge…
-9. **entfristung-guetetermin-und-kammertermin-sprechzettel** — Wenn es um Sprechzettel für Guetetermin und Kammertermin in der Entfristungsklage: Antragsstellung in Arbeitsrecht geht:…
-10. **kueschk-stricken-anwalt-risiko-und-vergleichsdruck** — Wenn es um KERNSKILL: Warnung vor der Stricken-Strategie des Arbeitgeberanwalts in Arbeitsrecht geht: erstellt den passe…
+3. **kaltstart-triage** — Für Kaltstart Triage: routet Rolle, Frist, Unterlagen und Fachschritt; Ergebnis: Prüfprodukt mit Risiko und nächstem Sch…
+4. **mandat-triage-arbeitsrecht** — Für Mandat Triage Arbeitsrecht: routet Rolle, Frist, Unterlagen und Fachschritt; Ergebnis: Prüfprodukt mit Risiko und nä…
+5. **kueschk-klageschrift-anwalt-baustein** — Für Anwaltliche Klageschrift Kündigungsschutzklage: Klageschrift mit Tenor und Hilfsanträgen: erstellt Entwurf mit Antra…
+6. **zugang-neu-002-einwurf-einschreiben-auslieferung-inhalt** — Für Arbeitsrecht: Einwurf-Einschreiben Auslieferungsbeleg und Inhaltseinwand: ordnet Norm, Beweislast und Gegenargument;…
+7. **kueschk-triage-laie-oder-anwalt** — Für KERNEINSTIEG Kündigungsschutzklage: fragt zuerst ob Anwalt oder Verbraucher-Laie: routet Rolle, Frist, Unterlagen un…
+8. **zugang-neu-003-bote-liest-kuendigung-inhalt-umschlag** — Für Arbeitsrecht: Bote liest Kündigung Inhalt Umschlag und Zeugenbeweis: ordnet Norm, Beweislast und Gegenargument; Erge…
+9. **zugang-neu-004-persoenliche-uebergabe-empfangsverweigerung** — Für Arbeitsrecht: Persönliche Übergabe Empfangsverweigerung und Zeugen: ordnet Norm, Beweislast und Gegenargument; Ergeb…
+10. **zugang-neu-006-kuendigung-per-bea-e-mail-fax-schriftformfallen** — Für Arbeitsrecht: Kündigung per beA E-Mail Fax und Schriftformfallen: ordnet Norm, Beweislast und Gegenargument; Ergebni…
 
 ---
 
@@ -171,7 +171,7 @@ Liefere Versanddateien, Anlagenverzeichnis, Fristen- und Betragsblatt, Manifest 
 
 ## Skill: `kaltstart-triage`
 
-_Wenn es um Kaltstart Triage in Arbeitsrecht geht: klärt Rolle, Ziel, Frist, Unterlagen und den passenden nächsten Fachskill; liefert eine Fristen- und Risikoampel mit Sofortschritten._
+_Für Kaltstart Triage: routet Rolle, Frist, Unterlagen und Fachschritt; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt. Fachgebiet: Arbeitsrecht._
 
 ## Direktstart: lesen, entscheiden, liefern
 
@@ -491,7 +491,7 @@ Drei aktuelle Leitentscheidungen, die über das Arbeitsrecht in den letzten zwoe
 
 ## Skill: `mandat-triage-arbeitsrecht`
 
-_Wenn es um Mandat Triage Arbeitsrecht in Arbeitsrecht geht: klärt Rolle, Ziel, Frist, Unterlagen und den passenden nächsten Fachskill; liefert eine Fristen- und Risikoampel mit Sofortschritten._
+_Für Mandat Triage Arbeitsrecht: routet Rolle, Frist, Unterlagen und Fachschritt; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt._
 
 # Eingangs-Abfrage für arbeitsrechtliche Mandate — Mandant fragt nach Kündigung Aufhebungsvertrag Abmahnung Lohn Urlaub Befristung Betriebsuebergang Diskriminierung oder Betriebsrats-Streit
 
@@ -725,7 +725,7 @@ Drei aktuelle Leitentscheidungen, die über das Arbeitsrecht in den letzten zwoe
 
 ## Skill: `kueschk-klageschrift-anwalt-baustein`
 
-_Wenn es um Anwaltliche Klageschrift Kündigungsschutzklage: Klageschrift mit Tenor und Hilfsanträgen in Arbeitsrecht geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik._
+_Für Anwaltliche Klageschrift Kündigungsschutzklage: Klageschrift mit Tenor und Hilfsanträgen: erstellt Entwurf mit Antrag, Beweis und Anlagen; Ergebnis: Schriftsatz mit Begründungs- und Anlagenlogik._
 
 # Anwaltliche Klageschrift Kündigungsschutzklage: Klageschrift mit Tenor und Hilfsanträgen
 
@@ -904,12 +904,74 @@ Hinweis: Keine Rechtsberatung. Mechanische Prüfung anhand vom Nutzer behauptete
 
 ---
 
-## Skill: `rechtsstand-mai-2026-faktenbank`
+## Skill: `zugang-neu-002-einwurf-einschreiben-auslieferung-inhalt`
 
-_Wenn es um Faktenbank und Quellen-Gate für aktuelle arbeitsrechtliche Aussagen mit Stand 29.05.2026 in Arbeitsrecht geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt._
+_Für Arbeitsrecht: Einwurf-Einschreiben Auslieferungsbeleg und Inhaltseinwand: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Schnittstellenkarte mit Zuständigkeits- und Nachweisfragen._
 
-# Faktenbank und Quellen-Gate für aktuelle arbeitsrechtliche Aussagen mit Stand 29.05.2026
+# Arbeitsrecht: Einwurf-Einschreiben Auslieferungsbeleg und Inhaltseinwand
 
+## Aufgabe
+
+Dieser Skill bearbeitet **Einwurf-Einschreiben Auslieferungsbeleg und Inhaltseinwand** im Bereich **Arbeitsrecht**. Er soll nicht schematisch antworten, sondern zuerst die praktische Lage sortieren: Wer handelt, welche Unterlagen liegen vor, welche Frist läuft, welche Behörde oder Gegenpartei entscheidet und welches Ergebnis gebraucht wird.
+
+## Kaltstart in 6 Fragen
+
+1. Welche Rolle hat die Nutzerin: Mandant, Unternehmen, Behörde, Kanzlei, Gericht, Verlag, Betreiber, Investor oder Betroffene?
+2. Geht es um Prüfung, Entwurf, Verteidigung, Anmeldung, Register, Frist, Verhandlung, Compliance, Streit oder Dokumentation?
+3. Welche Dokumente liegen vor und welche fehlen: Vertrag, Bescheid, Registerauszug, Screenshot, E-Mail, Rechnung, Gutachten, Normtext, Protokoll?
+4. Welche Rechtsordnung, Branche, Epoche, Sprache oder technische Umgebung ist betroffen?
+5. Welche Entscheidung muss heute fallen und welche Punkte dürfen erst nach Live-Check beantwortet werden?
+6. Soll das Ergebnis als Ampel, Memo, Klausel, Antrag, Fristenplan, Behördenschreiben, Red-Team oder Dashboard kommen?
+
+## Prüfprogramm
+
+- Sachverhalt in Tatsachen, Annahmen, Wertungen und offene Beweisfragen zerlegen.
+- Normtext und aktuelle Rechtsprechung live prüfen
+- Form, Frist, Zuständigkeit und Beweis getrennt behandeln
+- Keine BeckRS- oder Literatur-Blindzitate
+- Ergebnis immer in Handlungsschritt übersetzen
+- Zuständigkeit, Form, Frist, Beweislast, Vollzug und Rechtsbehelf immer getrennt ausgeben.
+- Bei historischen, internationalen oder technischen Begriffen erst übersetzen, dann rechtlich einordnen.
+- Keine Scheingenauigkeit: Wenn Quelle, Normstand oder Rechtsprechung fehlen, einen Live-Check als nächsten Schritt formulieren.
+
+## Typische Fallen
+
+- Ein Begriff klingt vertraut, hat aber in der konkreten Rechtsordnung oder Praxis eine andere Funktion.
+- Zuständigkeit, Form oder Zustellung wird übersehen, obwohl der materielle Punkt gut aussieht.
+- Eine Behauptung wird aus Modellwissen mit einer Fundstelle versehen. Das ist verboten; erst prüfen, dann zitieren.
+- Der Output ist juristisch richtig, hilft aber der Nutzerin operativ nicht. Deshalb immer nächste Handlung und Dokumentationsspur liefern.
+
+## Output
+
+- Memo
+- Checkliste
+- Mustertext
+- Fristenplan
+- Red-Team
+
+---
+
+## Skill: `kueschk-triage-laie-oder-anwalt`
+
+_Für KERNEINSTIEG Kündigungsschutzklage: fragt zuerst ob Anwalt oder Verbraucher-Laie: routet Rolle, Frist, Unterlagen und Fachschritt; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt._
+
+# KERNEINSTIEG Kündigungsschutzklage: fragt zuerst ob Anwalt oder Verbraucher-Laie
+
+
+## Direktstart: lesen, entscheiden, liefern
+
+Beginne nicht mit einem Fragenkatalog. Wenn Material vorliegt, lies es zuerst und starte mit einer verwertbaren Arbeitshypothese:
+
+- Frist oder Sofortrisiko.
+- erkannte Rolle, Zielrichtung und Verfahrensstand.
+- tragende Tatsachen aus dem Material.
+- bester nächster Arbeitsschritt mit direkt nutzbarem Output.
+
+Frage höchstens zwei Punkte nach, und nur wenn ohne diese Antwort der nächste Schritt falsch oder riskant würde. Fehlt Material vollständig, verlange nicht allgemein alle Unterlagen, sondern nenne die drei wichtigsten Dokumente und arbeite mit sichtbaren Annahmen weiter.
+
+Starte mit einem Arbeitsprodukt, nicht mit einer Inventarliste: Kurzvermerk, Fristenblatt, Prüfmatrix, Entwurf, Fragenliste oder Entscheidungsvorschlag. Routing ist nur Mittel zum Zweck. Wenn ein Fachskill eindeutig passt, arbeite unmittelbar in dessen Richtung weiter.
+
+Arbeitsmodus: Liefere zuerst einen nutzbaren Zwischenstand in höchstens sieben Sätzen und dann den nächsten konkreten Schritt. Frage nur nach, wenn Frist, Zuständigkeit, Beweis, Betrag oder Rechtsfolge sonst nicht belastbar bestimmbar sind. Tabellen nur für Fristen, Belege, Beträge, Varianten oder Streitstoff.
 
 ## Arbeitsweg
 
@@ -919,495 +981,243 @@ _Wenn es um Faktenbank und Quellen-Gate für aktuelle arbeitsrechtliche Aussagen
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
-**Fokus:** Faktenbank und Quellen-Gate für aktuelle arbeitsrechtliche Aussagen mit Stand 29.05.2026. Dieses Fachmodul dient als Quellen-Gate vor Ausgaben zu BAG-/BSG-Rechtsprechung, Statusfeststellung, AGG/Equal Pay, Urlaub, Freistellung, Kündigung, Arbeitszeit und Lohn/SV. Zitiert nur Gericht, Entscheidungsform, Datum, Aktenzeichen und frei prüfbare Quelle.
+**Fokus:** KERNEINSTIEG Kündigungsschutzklage: fragt zuerst ob Anwalt oder Verbraucher-Laie; bei Laie ständige Warnungen und dringende Empfehlung anwaltlicher Beratung; kein Mandatsverhältnis; leitet zu passenden Folge-Skills; zentraler Startpunkt für das gesamte KueschK-Workflow-Buendel.
 
-### Rechtsstand Mai 2026 — Faktenbank Arbeitsrecht
+### KüSchK-Triage: Laie oder Anwalt?
 
 ## Fachlicher Kern — Arbeitsrecht
-- **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `Rechtsstand Mai 2026 — Faktenbank Arbeitsrecht` und löse die dort angelegte Fachfrage; arbeite mit konkreten Tatbestandsmerkmalen, Beweisfragen und dem unmittelbar benötigten Arbeitsprodukt. Routingfragen bleiben Hilfsmittel, wenn Frist, Zuständigkeit oder Verfahrensart offen sind.
+- **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `KüSchK-Triage: Laie oder Anwalt?` und löse die dort angelegte Fachfrage; arbeite mit konkreten Tatbestandsmerkmalen, Beweisfragen und dem unmittelbar benötigten Arbeitsprodukt. Routingfragen bleiben Hilfsmittel, wenn Frist, Zuständigkeit oder Verfahrensart offen sind.
 - **Arbeitsmodus:** Zuerst Status, Zugang, Frist, Beteiligungsrechte, Sonderkündigungsschutz, Beweislast und prozessualen nächsten Schritt sichern; dann erst Materiellrecht vertiefen.
 - **Outputpflicht:** Fristenblatt, Zugangsmatrix, Beweisangebot, Mandantenmail, Betriebsrats-/Gegnerbrief oder Klage-/Erwiderungsbaustein.
 - **Fehlerbremse:** Tragende Normen/Entscheidungen live oder aus der Akte verifizieren; Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei prüfbarer Quelle. Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen.
 
-## Verifizierte Rechtsprechungsanker
+## Eröffnungsfrage (PFLICHT, immer zuerst)
 
-| Thema | Gesicherter Anker | Tragende Aussage für den | Freie Quelle |
-|---|---|---|---|
-| Mindesturlaub und Vergleich | BAG, Urteil vom 03.06.2025, 9 AZR 104/24 | Auf gesetzlichen Mindesturlaub kann während des bestehenden Arbeitsverhältnisses nicht wirksam durch gerichtlichen Vergleich verzichtet werden; Paragraf 13 Abs. 1 Satz 3 BUrlG sperrt Abweichungen zu Lasten des Arbeitnehmers. | https://www.bundesarbeitsgericht.de/entscheidung/9-azr-104-24/ |
-| Entgeltgleichheit / Paarvergleich | BAG, Urteil vom 23.10.2025, 8 AZR 300/24 | Für den Anspruch auf gleiches Entgelt kann ein Paarvergleich genügen; bei geringerer Vergütung einer Frau für gleiche oder gleichwertige Arbeit greift die Vermutung einer Benachteiligung wegen des Geschlechts. | https://www.bundesarbeitsgericht.de/entscheidung/8-azr-300-24/ |
-| Freistellungsklausel und Dienstwagen | BAG, Urteil vom 25.03.2026, 5 AZR 108/25 | Eine AGB-Klausel, die den Arbeitgeber im gekündigten Arbeitsverhältnis pauschal zur Freistellung und zum Widerruf der Dienstwagennutzung berechtigt, kann unangemessen sein; konkrete Interessenabwägung nötig. | https://www.bundesarbeitsgericht.de/presse/wirksamkeit-einer-freistellungsklausel-widerruf-der-dienstwagennutzung/ |
-| Status Honorarlehrkraft | BSG, Urteil vom 05.11.2024, B 12 BA 3/23 R | Statusprüfung bleibt einzelfallbezogen; Vertragsbezeichnung und Parteiwille tragen nicht, wenn tatsächliche Eingliederung und fehlendes Unternehmerrisiko für Beschäftigung sprechen. | https://www.bsg.bund.de/SharedDocs/Entscheidungen/DE/2024/2024_11_05_B_12_BA_03_23_R.html |
-| Status in fremder Betriebsorganisation | BSG, Urteil vom 12.06.2024, B 12 BA 2/22 R | Bei Tätigkeiten in einer fremden Arbeitsorganisation sind Eingliederung, Weisungsbindung, eigene Betriebsmittel, Preis-/Personalrisiko und unternehmerische Freiheit konkret zu prüfen. | https://www.bsg.bund.de/SharedDocs/Entscheidungen/DE/2024/2024_06_12_B_12_BA_02_22_R.html |
+Das System stellt **als erste und wichtigste Frage**:
 
-## Norm- und Praxisanker
+> "Bist du Rechtsanwältin / Rechtsanwalt oder nutzt du dieses System als Verbraucher / Laie ohne anwaltliche Zulassung?"
 
-| Thema | Normen | Workflow-Hinweis |
-|---|---|---|
-| Kündigungsschutz | Paragrafen 1, 4, 7, 9, 10, 12, 17, 18 KSchG; Paragrafen 622, 626 BGB; Paragraf 102 BetrVG | Erst Frist/Zugang und Sonderkündigungsschutz sichern, dann Grund, Sozialauswahl, Betriebsrat, Massenentlassung, Weiterbeschäftigung und Vergleichsdruck prüfen. |
-| Befristung und Schriftform | Paragraf 14 Abs. 4, Paragrafen 16, 17 TzBfG; Paragrafen 126, 126a, 623 BGB | Befristungsabrede vor Arbeitsbeginn schriftlich oder mit wirksamer QES; Scan/einfache Signatur reicht nicht. Dreiwochenfrist ab vereinbartem Ende. |
-| Urlaub | Paragrafen 1, 3, 7, 13 BUrlG | Mindesturlaub nicht durch Vergleich im laufenden Arbeitsverhältnis preisgeben; bei Beendigung Urlaubsabgeltung getrennt prüfen. |
-| AGG / Equal Pay | Paragrafen 1, 7, 15, 22 AGG; EntgTranspG | Erst Vergleichsperson und gleiche/gleichwertige Arbeit, dann Vermutung, Rechtfertigung, Fristen und Auskunfts-/Dokumentationslage. |
-| Status/Scheinselbständigkeit | Paragraf 611a BGB; Paragrafen 7, 7a, 28p SGB IV; Paragraf 266a StGB | Tatsächliche Durchführung vor Vertragstext; bei hohem Risiko DRV-Statusfeststellung, SV-Nachberechnung und Strafbarkeitsrisiko getrennt dokumentieren. |
-| Arbeitszeit und Mindestlohn | ArbZG, MiLoG, NachwG, EFZG | Bei Arbeitszeit immer Aufzeichnung, Bereitschaft/Überstunden, Ausschlussfristen, Mindestlohnfestigkeit und Beweislast getrennt prüfen. |
+Es werden nur zwei Antworten akzeptiert:
+- **Anwalt/Anwältin** → Weiterleitung zu anwaltlichen Bausteinen
+- **Verbraucher/Laie** → Weiterleitung zu Laien-Bausteinen **mit umfassender Warnung**
 
-## Ausgabe-Standard
+## Pfad A: Anwalt / Anwältin
 
-Jede aktuelle arbeitsrechtliche Antwort enthält am Ende kurz:
+Für Anwälte gilt:
+- Kein dauernder Warnkopf erforderlich (Berufsrecht und Haftungsbewusstsein vorausgesetzt)
+- Anwaltliche Klageschrifts-Bausteine verfügbar (Skill `kueschk-klageschrift-anwalt-baustein`)
+- Hinweis auf Dokumentationspflichten nach Paragraf 43a BRAO
+- Fristencheck Paragraf 4 KSchG trotzdem sofort
 
-1. **Gesicherte Quellen:** Normen und ggf. Gerichtsentscheidungen mit Datum/Aktenzeichen/Link.
-2. **Nicht verifiziert:** Alles, was nicht frei/amtlich geprüft werden konnte.
-3. **Nächster Fachmodul:** aus diesem Plugin, z. B. `kuendigungs-pruefung`, `arbeitnehmer-status`, `lohnsteuer-sozialversicherung`, `agg-pruefung-bewerber-und-beschaeftigte`, `aufhebungsvertrag` oder `entfristung-schriftform-14-abs-4-erkennen`.
+## Pfad B: Verbraucher / Laie
+
+Bei Angabe "Verbraucher" oder "Laie" erscheint folgender **Pflicht-Warnblock**, der in jedem Folge-Output wiederholt wird:
 
 ---
 
-## Skill: `kueschk-replik-arbeitnehmer-baustein`
+**WICHTIGE WARNUNG – BITTE GENAU LESEN**
 
-_Wenn es um Reaktion auf die Klageerwiderung des Arbeitgebers: Bestreiten von Behauptungen in Arbeitsrecht geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik._
+Du bist dabei, rechtliche Schritte einzuleiten, ohne Anwalt zu sein. Das ist gesetzlich erlaubt (Paragraf 11 Abs. 1 ArbGG: kein Anwaltszwang in erster Instanz vor dem Arbeitsgericht), birgt aber erhebliche Risiken:
 
-# Reaktion auf die Klageerwiderung des Arbeitgebers: Bestreiten von Behauptungen
+1. **Drei-Wochen-Frist Paragraf 4 KSchG**: Verpasst du diese Frist, gilt die Kündigung als wirksam — ohne Ausnahme.
+2. **Falsche Anspruchsgrundlage**: Wenn dein Betrieb weniger als zehn Arbeitnehmer hat oder du noch keine sechs Monate beschäftigt bist, gilt das KSchG möglicherweise gar nicht.
+3. **Kein Mandatsverhältnis**: Dieses System ist kein Anwalt, übernimmt keine rechtliche Verantwortung und haftet nicht.
+4. **Mechanische Prüfung**: Das System prüft nur das, was du eingibst. Falsche oder unvollständige Angaben führen zu falschen Ergebnissen.
 
-
-## Arbeitsweg
-
-- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
-- Fristen und Eilrisiken zuerst markieren: nur die Fristen des konkreten Rechtsgebiets und der Akte verwenden; Widerspruch, Klage, Einspruch, Rechtsmittel, Verjährung, Verwirkung, Rüge-, Anzeige-, Anmelde- und Ausschlussfristen strikt trennen und nie aus einem anderen Fachgebiet übernehmen.
-- Tragende Normen verifizieren: die im Plugin-Kontext einschlägigen Normen über gesetze-im-internet.de, dejure.org, eur-lex.europa.eu und die amtlichen Bundes-/Landesportale live prüfen — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
-- Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
-- Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
-
-**Fokus:** Reaktion auf die Klageerwiderung des Arbeitgebers: Bestreiten von Behauptungen; Anforderungen an die Substantiierungstiefe; Replik-Baustein mit typischen Gegenargumenten; Beweismittel-Strategie für den Kammertermin.
-
-### Replik des Arbeitnehmers auf Klageerwiderung
-
-## Fachlicher Kern — Arbeitsrecht
-- **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `Replik des Arbeitnehmers auf Klageerwiderung` und löse die dort angelegte Fachfrage; arbeite mit konkreten Tatbestandsmerkmalen, Beweisfragen und dem unmittelbar benötigten Arbeitsprodukt. Routingfragen bleiben Hilfsmittel, wenn Frist, Zuständigkeit oder Verfahrensart offen sind.
-- **Arbeitsmodus:** Zuerst Status, Zugang, Frist, Beteiligungsrechte, Sonderkündigungsschutz, Beweislast und prozessualen nächsten Schritt sichern; dann erst Materiellrecht vertiefen.
-- **Outputpflicht:** Fristenblatt, Zugangsmatrix, Beweisangebot, Mandantenmail, Betriebsrats-/Gegnerbrief oder Klage-/Erwiderungsbaustein.
-- **Fehlerbremse:** Tragende Normen/Entscheidungen live oder aus der Akte verifizieren; Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei prüfbarer Quelle. Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen.
-
-## Ablauf nach der Klageerwiderung
-
-1. Klageerwiderung des Arbeitgebers eingeht (meist nach dem Gütetermin oder vor dem Kammertermin)
-2. Kläger (Arbeitnehmer) kann hierauf replizieren
-3. Replik muss substanziell sein — bloßes Pauschalbestreiten genügt nicht
-
-## Replik-Baustein
+**Dringende Empfehlung**: Suche sofort einen Rechtsanwalt oder eine Rechtsanwältin für Arbeitsrecht auf, idealerweise über den Anwaltssuchdienst der Rechtsanwaltskammern oder über Gewerkschaftsberatung (wenn gewerkschaftlich organisiert). Viele Anwältinnen bieten eine Erstberatung zu Festpreisen an.
 
 ---
 
-**[RUBRUM wie Klageschrift]**
+## Folge-Skills nach Triage
 
-**Replik des Klägers**
-
-auf die Klageerwiderung der Beklagten vom [DATUM DER KLAGEERWIDERUNG]
-
-Der Kläger nimmt zu den Ausführungen der Beklagten wie folgt Stellung:
-
-**I. Zum Vortrag über die Betriebsgröße [falls bestritten]**
-
-Die Beklagte behauptet, der Betrieb beschäftige regelmäßig weniger als zehn Arbeitnehmer. Dies wird ausdrücklich bestritten. Zum Beweis: [ZEUGEN ODER UNTERLAGEN]. Tatsächlich sind im Betrieb zum Stichtag [DATUM] folgende Arbeitnehmer beschäftigt gewesen: [AUFLISTUNG soweit bekannt].
-
-**II. Zum behaupteten Kündigungsgrund**
-
-*Bei betriebsbedingter Kündigung:*
-
-*Bei verhaltensbedingter Kündigung:*
-Eine Abmahnung wurde nie ausgesprochen. Dies ist unstreitig. Ohne vorherige Abmahnung ist die verhaltensbedingte Kündigung unverhältnismäßig.
-
-**III. Zur behaupteten Sozialauswahl [bei betriebsbed. Kündigung]**
-
-Die Beklagte hat keine nachvollziehbare Sozialauswahl-Tabelle vorgelegt. Der Kläger bestreitet, dass die Sozialauswahl ordnungsgemäß durchgeführt wurde. Kollegin K (Sozialdaten: Alter [ALTER], Betriebszugehörigkeit [DAUER], keine Unterhaltspflichten) ist mit dem Kläger vergleichbar. Sie hätte nach Maßgabe des Paragraf 1 Abs. 3 KSchG vorrangig entlassen werden müssen.
-
-**IV. Zur Betriebsratsanhörung [sofern streitig]**
-
-Die von der Beklagten vorgelegten Anhörungsunterlagen sind unvollständig. [KONKRET BENENNEN WELCHE ANGABEN FEHLEN].
-
-**V. Beweisangebote**
-
-- [BEWEISMITTEL KONKRET BENENNEN]
-- Zeugenvernehmung: [NAME], [ANSCHRIFT], zum Beweis: [TATSACHENBEHAUPTUNG]
-
----
-
-## Triage zu Beginn — kläre vor Erstellung der Replik
-
-1. Liegt die Klageerwiderung des Arbeitgebers vollständig vor?
-2. Auf welche Art von Kündigungsgrund stützt der Arbeitgeber seine Verteidigung (betriebsbedingt/verhaltensbedingt/personenbedingt)?
-3. Sind neue Tatsachen oder Unterlagen in der Klageerwiderung aufgetaucht, die nicht in der Klageschrift berücksichtigt wurden?
-4. Steht ein Kammertermin kurz bevor (Replik sollte mindestens eine Woche vor Termin eingehen)?
-
-**Schrittfolge Replik:**
-```
-Step 1: Klageerwiderung vollständig lesen, neue Tatsachen markieren
-Step 2: Jede neue Behauptung: bestreiten oder konzedieren
-Step 3: Darlegungslast des Arbeitgebers prüfen — genügt sein Vortrag?
-Step 4: Gegenbeweise benennen (Zeugen, Dokumente)
-Step 5: Betriebsratsanhörung konkret angreifen falls fehlerhaft
-Step 6: Schriftsatz fristgerecht einreichen
-```
+| Nächster Schritt | Skill |
+|---|---|
+| Grundwarnung und Haftungsausschluss | `kueschk-grundwarnung-falsche-wiese-und-haftung` |
+| KSchG-Anwendbarkeit prüfen | `kueschk-anwendbarkeit-kschg-pruefen` |
+| Frist und Zugang prüfen | `kueschk-frist-und-zugang-pruefen` |
+| Sonderkündigungsschutz prüfen | `kueschk-sonderkuendigungsschutz-checkliste` |
+| Formfehler prüfen | `kueschk-formfehler-pruefen` |
+| Klageschrift Laie | `kueschk-klageschrift-laie-baustein` |
+| Klageschrift Anwalt | `kueschk-klageschrift-anwalt-baustein` |
 
 ## Zentrale Normen
 
-- **Paragraf 1 Abs. 2 Satz 4 KSchG** — Darlegungs- und Beweislast beim Arbeitgeber für Kündigungsgrund
-- **Paragraf 1 Abs. 3 Satz 3 KSchG** — Darlegungs- und Beweislast beim Arbeitgeber für Sozialauswahl
-- **Paragraf 102 Abs. 1 BetrVG** — Betriebsratsanhörung vor Kündigung (Fehler = Unwirksamkeit)
-- **Paragraf 138 Abs. 2, 3 ZPO i.V.m. Paragraf 46 Abs. 2 ArbGG** — Erklärungslast über Tatsachenbehauptungen der Gegenseite
-- **Paragraf 139 ZPO** — Richterliche Hinweispflicht; Gericht fördert vollständigen Vortrag
+- **Paragraf 11 Abs. 1 ArbGG** — Kein Anwaltszwang vor dem Arbeitsgericht erste Instanz
+- **Paragraf 11 Abs. 4 ArbGG** — Anwaltszwang ab Berufung vor dem LAG
+- **Paragraf 4 KSchG** — Drei-Wochen-Klagefrist (absolute Ausschlussfrist)
+- **Paragraf 23 KSchG** — Geltungsbereich KSchG (über 10 Arbeitnehmer)
+- **Paragraf 1 Abs. 1 KSchG** — Wartezeit sechs Monate
+- **Paragraf 43a BRAO** — Dokumentationspflichten für Anwälte (Beratung über Risiken)
+- **Paragraf 626 BGB** — Fristlose Kündigung aus wichtigem Grund (besondere Triage: andere Fristen)
 
-## Substantiierungstiefe — Was wird erwartet?
+## Keine Vorwegnahme des Ergebnisses
 
-Das Gericht erwartet **konkretes, substantiiertes Bestreiten**. Pauschal "Wird bestritten" genügt nicht, wenn der Arbeitgeber seinerseits substantiiert vorgetragen hat. Der Arbeitnehmer muss dann die konkrete Tatsache benennen, die er bestreitet, und wenn möglich Gegenbeweis anbieten.
+Der Skill liefert noch keine inhaltliche Prüfung der Kündigung. Er stellt ausschließlich die Weichenfrage, welche den gesamten nachfolgenden prägt.
 
 ---
 
 Hinweis: Keine Rechtsberatung. Mechanische Prüfung anhand vom Nutzer behaupteter Tatsachen. Falsche Sachverhaltsangabe oder falsche Anspruchsgrundlage entwertet das Ergebnis. Dringende Empfehlung anwaltlicher Beratung, insbesondere wegen der Drei-Wochen-Fristen.
 
+Du könntest auf der falschen Wiese unterwegs sein. Dieses System kann das nicht prüfen.
+
 > Quellenregel: Entscheidungen nur nach Prüfung einer amtlichen oder frei zugänglichen Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage ausgeben.
 
 ---
 
-## Skill: `entfristung-grundwarnung-drei-wochen-frist`
+## Skill: `zugang-neu-003-bote-liest-kuendigung-inhalt-umschlag`
 
-_Wenn es um Grundwarnung Entfristungsklage: Paragraf 17 TzBfG drei Wochen ab vereinbartem Vertragsende in Arbeitsrecht geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert eine Fristen- und Risikoampel mit Sofortschritten._
+_Für Arbeitsrecht: Bote liest Kündigung Inhalt Umschlag und Zeugenbeweis: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Schnittstellenkarte mit Zuständigkeits- und Nachweisfragen._
 
-# Grundwarnung Entfristungsklage: Paragraf 17 TzBfG drei Wochen ab vereinbartem Vertragsende
+# Arbeitsrecht: Bote liest Kündigung Inhalt Umschlag und Zeugenbeweis
 
+## Aufgabe
 
-## Arbeitsweg
+Dieser Skill bearbeitet **Bote liest Kündigung Inhalt Umschlag und Zeugenbeweis** im Bereich **Arbeitsrecht**. Er soll nicht schematisch antworten, sondern zuerst die praktische Lage sortieren: Wer handelt, welche Unterlagen liegen vor, welche Frist läuft, welche Behörde oder Gegenpartei entscheidet und welches Ergebnis gebraucht wird.
 
-- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
-- Fristen und Eilrisiken zuerst markieren: nur die Fristen des konkreten Rechtsgebiets und der Akte verwenden; Widerspruch, Klage, Einspruch, Rechtsmittel, Verjährung, Verwirkung, Rüge-, Anzeige-, Anmelde- und Ausschlussfristen strikt trennen und nie aus einem anderen Fachgebiet übernehmen.
-- Tragende Normen verifizieren: die im Plugin-Kontext einschlägigen Normen über gesetze-im-internet.de, dejure.org, eur-lex.europa.eu und die amtlichen Bundes-/Landesportale live prüfen — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
-- Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
-- Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
+## Kaltstart in 6 Fragen
 
-**Fokus:** Grundwarnung Entfristungsklage: Paragraf 17 TzBfG drei Wochen ab vereinbartem Vertragsende; absolute Ausschlussfrist; Paragraf 17 Satz 2 TzBfG i.V.m. Paragraf 7 KSchG Fiktion Wirksamkeit der Befristung bei Fristversaeumnis; Fristberechnung; nachtraegliche Zulassung.
+1. Welche Rolle hat die Nutzerin: Mandant, Unternehmen, Behörde, Kanzlei, Gericht, Verlag, Betreiber, Investor oder Betroffene?
+2. Geht es um Prüfung, Entwurf, Verteidigung, Anmeldung, Register, Frist, Verhandlung, Compliance, Streit oder Dokumentation?
+3. Welche Dokumente liegen vor und welche fehlen: Vertrag, Bescheid, Registerauszug, Screenshot, E-Mail, Rechnung, Gutachten, Normtext, Protokoll?
+4. Welche Rechtsordnung, Branche, Epoche, Sprache oder technische Umgebung ist betroffen?
+5. Welche Entscheidung muss heute fallen und welche Punkte dürfen erst nach Live-Check beantwortet werden?
+6. Soll das Ergebnis als Ampel, Memo, Klausel, Antrag, Fristenplan, Behördenschreiben, Red-Team oder Dashboard kommen?
 
-### Grundwarnung: Dreiwochenfrist Paragraf 17 TzBfG
+## Prüfprogramm
 
-## Fachlicher Kern — Arbeitsrecht
-- **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `Grundwarnung: Dreiwochenfrist Paragraf 17 TzBfG` und löse die dort angelegte Fachfrage; arbeite mit konkreten Tatbestandsmerkmalen, Beweisfragen und dem unmittelbar benötigten Arbeitsprodukt. Routingfragen bleiben Hilfsmittel, wenn Frist, Zuständigkeit oder Verfahrensart offen sind.
-- **Arbeitsmodus:** Zuerst Status, Zugang, Frist, Beteiligungsrechte, Sonderkündigungsschutz, Beweislast und prozessualen nächsten Schritt sichern; dann erst Materiellrecht vertiefen.
-- **Outputpflicht:** Fristenblatt, Zugangsmatrix, Beweisangebot, Mandantenmail, Betriebsrats-/Gegnerbrief oder Klage-/Erwiderungsbaustein.
-- **Fehlerbremse:** Tragende Normen/Entscheidungen live oder aus der Akte verifizieren; Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei prüfbarer Quelle. Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen.
+- Sachverhalt in Tatsachen, Annahmen, Wertungen und offene Beweisfragen zerlegen.
+- Normtext und aktuelle Rechtsprechung live prüfen
+- Form, Frist, Zuständigkeit und Beweis getrennt behandeln
+- Keine BeckRS- oder Literatur-Blindzitate
+- Ergebnis immer in Handlungsschritt übersetzen
+- Zuständigkeit, Form, Frist, Beweislast, Vollzug und Rechtsbehelf immer getrennt ausgeben.
+- Bei historischen, internationalen oder technischen Begriffen erst übersetzen, dann rechtlich einordnen.
+- Keine Scheingenauigkeit: Wenn Quelle, Normstand oder Rechtsprechung fehlen, einen Live-Check als nächsten Schritt formulieren.
 
-## Zentrale Normen
+## Typische Fallen
 
-- Paragraf 17 TzBfG — Klagefrist 3 Wochen ab vereinbartem Vertragsende
-- Paragraf 7 KSchG (analog) — Fiktionswirkung bei Fristversäumnis (Befristung gilt als wirksam)
-- Paragraf 5 KSchG (analog) — Nachträgliche Zulassung bei unverschuldeter Versäumnis
-- Paragrafen 187, 188 BGB — Fristberechnung
-- Paragraf 193 BGB — Verlängerung bei Wochenende/Feiertag
-- Paragraf 15 Abs. 5 TzBfG — Unbefristetes Arbeitsverhältnis bei Weiterbeschäftigung ohne Widerspruch
+- Ein Begriff klingt vertraut, hat aber in der konkreten Rechtsordnung oder Praxis eine andere Funktion.
+- Zuständigkeit, Form oder Zustellung wird übersehen, obwohl der materielle Punkt gut aussieht.
+- Eine Behauptung wird aus Modellwissen mit einer Fundstelle versehen. Das ist verboten; erst prüfen, dann zitieren.
+- Der Output ist juristisch richtig, hilft aber der Nutzerin operativ nicht. Deshalb immer nächste Handlung und Dokumentationsspur liefern.
 
-## Die Norm — Paragraf 17 TzBfG (vollständig)
+## Output
 
-> **Satz 1:** Will der Arbeitnehmer geltend machen, dass die Befristung eines Arbeitsvertrags rechtsunwirksam ist, so muss er innerhalb von drei Wochen nach dem vereinbarten Ende des befristeten Arbeitsvertrags Klage beim Arbeitsgericht auf Feststellung erheben, dass das Arbeitsverhältnis auf Grund der Befristung nicht beendet ist.
+- Memo
+- Checkliste
+- Mustertext
+- Fristenplan
+- Red-Team
+
+<!-- BEGIN ausformulierungspflicht (autogen) -->
+> **Ausformulierungspflicht und Formatstandard.** Das Endprodukt wird in **vollständigen, ausformulierten Sätzen** geliefert — keine Stichwortskelette, keine leeren Klauselrümpfe, keine reinen Aufzählungen. Klauseln stehen als ausformulierte Rechtsfolgen-Sätze; Platzhalter wie `[Name der Mandantin]` werden klar markiert, der umgebende Text bleibt vollständig.
 >
-> **Satz 2:** Die Paragrafen 5 bis 7 des Kündigungsschutzgesetzes gelten entsprechend.
-
-## Schritt-für-Schritt-Prüfung der Frist
-
-### Schritt 1: Fristbeginn bestimmen
-
-Die Frist beginnt mit dem **vereinbarten** Ende des Arbeitsvertrags (laut Vertragsurkunde), nicht dem tatsächlichen Ende.
-
-**Fristbeginn-Entscheidungsbaum:**
-```
-Vertrag sagt: "befristet bis 31.03.2025"
-→ Fristbeginn: 01.04.2025 (Paragraf 187 Abs. 1 BGB — Anfangstag zählt nicht)
-→ Fristende: 22.04.2025 um 24:00 Uhr (3 × 7 Tage = 21 Tage, Paragrafen 188 Abs. 2, 187 Abs. 1 BGB)
-→ Fällt 22.04.2025 auf Samstag/Sonntag/Feiertag: nächster Werktag (Paragraf 193 BGB)
-```
-
-**Besonderheit Weiterbeschäftigung:**
-Arbeitnehmer wird nach dem 31.03.2025 noch weiterbeschäftigt → Frist läuft trotzdem ab 01.04.2025. Weiterbeschäftigung hemmt den Fristlauf NICHT.
-
-### Schritt 2: Fristende berechnen
-
-```
-Fristende = Vereinbartes Vertragsende + 1 Tag (Paragraf 187 Abs. 1 BGB) + 21 Tage
-
-Beispiel:
- Vereinbartes Ende: 31.03.2025
- Fristbeginn: 01.04.2025
- Fristende: 21.04.2025 (Montag) → letzter Tag für Klageeingang beim ArbG
-```
-
-### Schritt 3: Versäumnis feststellen?
-
-**Ist die Frist bereits abgelaufen?**
-- Ja → Paragraf 7 KSchG analog: Befristung gilt als wirksam. Nur noch nachträgliche Zulassung (Paragraf 5 KSchG) möglich.
-- Nein → Sofort Klage erheben (Skill: `entfristung-klageschrift-laie-baustein` oder `entfristung-klageschrift-anwalt-baustein`)
-
-### Schritt 4: Nachträgliche Zulassung prüfen (Paragraf 5 KSchG analog)
-
-Falls Frist versäumt:
-- War die Versäumnis unverschuldet? (z.B. schwere Krankheit, Naturkatastrophe, fehlerhafter Behördenrat)
-- Frist für Zulassungsantrag: 2 Wochen nach Wegfall des Hindernisses
-- Antrag gleichzeitig mit der Klage einreichen
-- Prüfungsmaßstab: streng — bloße Rechtsunkenntnis genügt nicht
-
-## Entscheidungsbaum
-
-```
-Ist Frist noch nicht abgelaufen?
-├── Ja → Klage sofort einreichen → entfristung-klageschrift-laie/anwalt-baustein
-└── Nein → War Versäumnis unverschuldet?
- ├── Ja → Antrag auf nachträgliche Zulassung (Paragraf 5 KSchG) + Klage gleichzeitig
- └── Nein → Befristung gilt als wirksam (Paragraf 7 KSchG) — kein Rechtsmittel mehr
-```
-
-## Sofortprüfungs-Checkliste (Abfrage an Nutzer)
-
-1. Wann endet der Vertrag laut Vertragsurkunde? (Datum exakt)
-2. Ist dieses Datum bereits abgelaufen?
-3. Falls abgelaufen: seit wie vielen Tagen?
-4. Wurde Klage bereits erhoben?
-5. Wird der Arbeitnehmer noch weiterbeschäftigt?
-
-## Besonderheit: Mehrere Befristungen
-
-Bei aufeinanderfolgenden befristeten Verträgen:
-- Jeder Vertrag hat seine eigene Frist
-- Die Frist beginnt mit dem Ende des **jeweils letzten Vertrags**
-- Frühere Verträge können nach Fristablauf nicht mehr angegriffen werden
-- **Konsequenz:** Bei mehrfacher Verlängerung läuft die Frist nur beim letzten Vertrag
+> **Schriftbild:** Wenn ein Schriftsatz, Vertrag, Memo, Beschluss, Vermerk oder sonstiges Enddokument als DOCX, PDF oder formatierter Text ausgegeben wird, ist **Times New Roman 11 pt** als Grundschrift zu verwenden. Überschriften bleiben in derselben Schrift und dürfen nur fett oder abgestuft sein. Bei reiner Markdown- oder Chat-Ausgabe wird dieser Formatwunsch als Exporthinweis aufgenommen.
+>
+> **Nummerierung:** Gliederung ausschließlich dezimal (`1`, `1.1`, `1.1.1` und so weiter). Keine römischen Ziffern, keine Buchstaben- oder Mischgliederung.
+<!-- END ausformulierungspflicht (autogen) -->
 
 ---
 
-Hinweis: Keine Rechtsberatung. Mechanische Prüfung anhand vom Nutzer behaupteter Tatsachen. Falsche Sachverhaltsangabe oder falsche Anspruchsgrundlage entwertet das Ergebnis. Dringende Empfehlung anwaltlicher Beratung, insbesondere wegen der Drei-Wochen-Fristen.
+## Skill: `zugang-neu-004-persoenliche-uebergabe-empfangsverweigerung`
 
-Du könntest auf der falschen Wiese unterwegs sein. Dieses System kann das nicht prüfen.
+_Für Arbeitsrecht: Persönliche Übergabe Empfangsverweigerung und Zeugen: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Schnittstellenkarte mit Zuständigkeits- und Nachweisfragen._
 
-> Quellenregel: Entscheidungen nur nach Prüfung einer amtlichen oder frei zugänglichen Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage ausgeben.
+# Arbeitsrecht: Persönliche Übergabe Empfangsverweigerung und Zeugen
 
----
+## Aufgabe
 
-## Skill: `entfristung-guetetermin-und-kammertermin-sprechzettel`
+Dieser Skill bearbeitet **Persönliche Übergabe Empfangsverweigerung und Zeugen** im Bereich **Arbeitsrecht**. Er soll nicht schematisch antworten, sondern zuerst die praktische Lage sortieren: Wer handelt, welche Unterlagen liegen vor, welche Frist läuft, welche Behörde oder Gegenpartei entscheidet und welches Ergebnis gebraucht wird.
 
-_Wenn es um Sprechzettel für Guetetermin und Kammertermin in der Entfristungsklage: Antragsstellung in Arbeitsrecht geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert eine Fristen- und Risikoampel mit Sofortschritten._
+## Kaltstart in 6 Fragen
 
-# Sprechzettel für Guetetermin und Kammertermin in der Entfristungsklage: Antragsstellung
+1. Welche Rolle hat die Nutzerin: Mandant, Unternehmen, Behörde, Kanzlei, Gericht, Verlag, Betreiber, Investor oder Betroffene?
+2. Geht es um Prüfung, Entwurf, Verteidigung, Anmeldung, Register, Frist, Verhandlung, Compliance, Streit oder Dokumentation?
+3. Welche Dokumente liegen vor und welche fehlen: Vertrag, Bescheid, Registerauszug, Screenshot, E-Mail, Rechnung, Gutachten, Normtext, Protokoll?
+4. Welche Rechtsordnung, Branche, Epoche, Sprache oder technische Umgebung ist betroffen?
+5. Welche Entscheidung muss heute fallen und welche Punkte dürfen erst nach Live-Check beantwortet werden?
+6. Soll das Ergebnis als Ampel, Memo, Klausel, Antrag, Fristenplan, Behördenschreiben, Red-Team oder Dashboard kommen?
 
+## Prüfprogramm
 
-## Arbeitsweg
+- Sachverhalt in Tatsachen, Annahmen, Wertungen und offene Beweisfragen zerlegen.
+- Normtext und aktuelle Rechtsprechung live prüfen
+- Form, Frist, Zuständigkeit und Beweis getrennt behandeln
+- Keine BeckRS- oder Literatur-Blindzitate
+- Ergebnis immer in Handlungsschritt übersetzen
+- Zuständigkeit, Form, Frist, Beweislast, Vollzug und Rechtsbehelf immer getrennt ausgeben.
+- Bei historischen, internationalen oder technischen Begriffen erst übersetzen, dann rechtlich einordnen.
+- Keine Scheingenauigkeit: Wenn Quelle, Normstand oder Rechtsprechung fehlen, einen Live-Check als nächsten Schritt formulieren.
 
-- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
-- Fristen und Eilrisiken zuerst markieren: nur die Fristen des konkreten Rechtsgebiets und der Akte verwenden; Widerspruch, Klage, Einspruch, Rechtsmittel, Verjährung, Verwirkung, Rüge-, Anzeige-, Anmelde- und Ausschlussfristen strikt trennen und nie aus einem anderen Fachgebiet übernehmen.
-- Tragende Normen verifizieren: die im Plugin-Kontext einschlägigen Normen über gesetze-im-internet.de, dejure.org, eur-lex.europa.eu und die amtlichen Bundes-/Landesportale live prüfen — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
-- Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
-- Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
+## Typische Fallen
 
-**Fokus:** Sprechzettel für Guetetermin und Kammertermin in der Entfristungsklage: Antragsstellung; Kernargumente Schriftformmangel und Sachgrundmangel; Vergleichsstrategie; Vorbereitung Zeugenvernehmung; Verhandlungsposition; Normen Paragraf 54 und Paragraf 57 ArbGG.
+- Ein Begriff klingt vertraut, hat aber in der konkreten Rechtsordnung oder Praxis eine andere Funktion.
+- Zuständigkeit, Form oder Zustellung wird übersehen, obwohl der materielle Punkt gut aussieht.
+- Eine Behauptung wird aus Modellwissen mit einer Fundstelle versehen. Das ist verboten; erst prüfen, dann zitieren.
+- Der Output ist juristisch richtig, hilft aber der Nutzerin operativ nicht. Deshalb immer nächste Handlung und Dokumentationsspur liefern.
 
-### Gütetermin und Kammertermin: Sprechzettel Entfristungsklage
+## Output
 
-## Fachlicher Kern — Arbeitsrecht
-- **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `Gütetermin und Kammertermin: Sprechzettel Entfristungsklage` und löse die dort angelegte Fachfrage; arbeite mit konkreten Tatbestandsmerkmalen, Beweisfragen und dem unmittelbar benötigten Arbeitsprodukt. Routingfragen bleiben Hilfsmittel, wenn Frist, Zuständigkeit oder Verfahrensart offen sind.
-- **Arbeitsmodus:** Zuerst Status, Zugang, Frist, Beteiligungsrechte, Sonderkündigungsschutz, Beweislast und prozessualen nächsten Schritt sichern; dann erst Materiellrecht vertiefen.
-- **Outputpflicht:** Fristenblatt, Zugangsmatrix, Beweisangebot, Mandantenmail, Betriebsrats-/Gegnerbrief oder Klage-/Erwiderungsbaustein.
-- **Fehlerbremse:** Tragende Normen/Entscheidungen live oder aus der Akte verifizieren; Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei prüfbarer Quelle. Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen.
-
-## Triage zu Beginn — kläre vor der Verhandlungsvorbereitung
-
-1. Gütetermin (Paragraf 54 ArbGG) oder Kammertermin (Paragraf 57 ArbGG)?
-2. Welcher Unwirksamkeitsgrund wird verfolgt? (Schriftformmangel / kein Sachgrund / Vorbeschäftigungsverbot)
-3. Ist ein Weiterbeschäftigungsantrag gestellt?
-4. Vergleichsbereitschaft des Mandanten — welche Untergrenze bei Abfindung?
-5. Liegt ein Vergleichsangebot der Gegenseite vor?
-
-## Zentrale Normen
-
-- Paragraf 54 ArbGG — Gütetermin (Vorsitzender allein, kein Urteil möglich)
-- Paragraf 57 ArbGG — Kammertermin (Vollbesetzung, Urteil möglich)
-- Paragraf 17 TzBfG — Klagefrist als formale Zulässigkeitsvoraussetzung
-- Paragrafen 14 Abs. 4, 16 TzBfG — Schriftformmangel und Rechtsfolge
-- Paragraf 14 Abs. 1 TzBfG — Sachgrundprüfung
-- Paragrafen 9, 10 KSchG i.V.m. Paragraf 17 Satz 2 TzBfG — Auflösungsantrag auf Abfindung
-- Paragraf 12a ArbGG — Kein Kostenerstattungsanspruch für Rechtsanwalt in erster Instanz
-
-## Gütetermin (Paragraf 54 ArbGG)
-
-**Was passiert:** Erster Termin vor dem Vorsitzenden allein. Ziel: gütliche Einigung. Kein Urteil möglich.
-
-### Einstieg (wenn Richter nach dem Sachverhalt fragt)
-"Ich begehre die Feststellung, dass mein Arbeitsverhältnis nicht durch die Befristung im Vertrag vom [DATUM] zum [VEREINBARTES ENDE] beendet wurde. Die Befristung ist unwirksam, weil [HAUPTGRUND: z.B.: der Vertrag wurde über DocuSign digital unterzeichnet — die Schriftform nach Paragraf 14 Abs. 4 TzBfG ist damit nicht gewahrt]."
-
-### Bei Rückfragen zur Vertragsunterzeichnung
-"Ich erhielt den Vertrag per E-Mail / über das Online-Portal [NAME]. Ich habe ihn dort elektronisch unterschrieben. Eine Originalurkunde mit eigenhändiger Unterschrift habe ich nie erhalten."
-
-### Wenn Richter auf Vergleich drängt
-**Strategie:**
-1. Nicht sofort ablehnen — Erstvorschlag der Gegenseite erfragen
-2. Zahlen nicht spontan nennen — "Ich benötige kurz Bedenkzeit, bevor ich ein konkretes Angebot mache"
-3. Orientierung: 0.5 bis 1 Bruttomonatsverdienst pro Beschäftigungsjahr (analog KüSchK-Faustformel) + evtl. Aufschlag für starken Schriftformmangel-Fall
-4. Vergleich niemals unter Druck im Gütetermin unterschreiben — Checkliste `entfristung-vergleichsverhandlung-checkliste` durchgehen
-5. Befristungs-Prüfung: Vergleich enthält Beendigungsdatum? Dann Sperrzeit-Risiko bei der Arbeitsagentur prüfen (Paragraf 159 SGB III)
-
-## Kammertermin (Paragraf 57 ArbGG)
-
-### Antragstellung (wenn Richter nach Anträgen fragt)
-"Ich halte meine Klageanträge vollumfänglich aufrecht. Ich beantrage:
-1. Festzustellen, dass das Arbeitsverhältnis der Parteien über den [DATUM] hinaus als unbefristetes Arbeitsverhältnis fortbesteht.
-2. Die Beklagte zu verurteilen, mich als [BERUFSBEZEICHNUNG] zu unveränderten Arbeitsbedingungen weiterzubeschäftigen."
-
-### Wenn Gegenseite behauptet, Vertrag sei ordnungsgemäß unterschrieben
-
-### Wenn Sachgrund behauptet wird
-"Die Beklagte hat keinen konkreten Sachgrund nach Paragraf 14 Abs. 1 TzBfG dargelegt. Der behauptete [SACHGRUND] lag bei Vertragsschluss nicht vor / trägt die Befristungsdauer nicht. Der Arbeitgeber trägt die Darlegungs- und Beweislast für das Vorliegen des Sachgrunds."
-
-### Wenn Gericht den Fall für schwach hält
-"Selbst wenn dem Gericht der Hauptantrag zweifelhaft erscheint, weise ich auf folgende alternative Angriffspunkte hin: [HILFSANTRAG — z.B. Vorbeschäftigungsverbot / fehlende Sachgrunddarlegung / Kettenbefristung]."
-
-## Kernargumente — Schriftformmangel (Paragraf 14 Abs. 4 TzBfG)
-
-1. **Norm:** Paragraf 14 Abs. 4 TzBfG: Schriftform ist konstitutive Wirksamkeitsvoraussetzung der Befristungsabrede
-2. **Inhalt:** Paragraf 126 BGB: eigenhändige Unterschrift auf Urkunde; elektronische Form nur bei echter QES nach Paragraf 126a BGB
-3. Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-4. Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-5. **Rechtsfolge:** Paragraf 16 Satz 1 TzBfG: Vertrag gilt als auf unbestimmte Zeit geschlossen — automatisch, ohne gerichtliche Gestaltung
-
-## Kernargumente — Fehlender Sachgrund (Paragraf 14 Abs. 1 TzBfG)
-
-1. Sachgrund muss **bei Vertragsschluss** vorgelegen haben — keine Rückwirkung
-2. Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-3. Behaupteter Sachgrund muss **konkrete Befristungsdauer** tragen
-4. Dauerbeschäftigung auf der Stelle nach Vertragsende widerlegt vorübergehenden Bedarf (Paragraf 14 Abs. 1 Nr. 1 TzBfG)
-
-## Praxistipps
-
-- Alle Unterlagen mitbringen: Arbeitsvertrag (auch wenn nur als PDF), E-Mails über Vertragsschluss, Screenshots des Signier-Portals
-- Bei Unklarheiten: Um Schriftsatzfrist bitten statt spontan Stellung zu nehmen (Paragraf 56 ArbGG)
-- Kein Vergleich unter Druck unterschreiben — Bedenk- und Prüfzeit erbitten
-- Paragraf 12a ArbGG: In erster Instanz zahlt jede Seite ihren Anwalt selbst — kein Kostenerstattungsrisiko für Anwalt des Gegners
-
-## Entscheidungsbaum Verhandlungsstrategie
-
-```
-Gütetermin:
-├── Klarer Schriftformmangel (E-Mail, Scan, einfache Signatur oder Signaturportal ohne echte qES) → Starke Position → Vergleich nur mit gutem Angebot
-├── Sachgrundmangel, wenig Beweise → Mittlere Position → Vergleichsbereitschaft signalisieren
-└── Fristversäumnis wurde nicht geheilt → Klage unzulässig → sofort prüfen ob Zulassungsantrag möglich
-
-Kammertermin:
-├── Nur einfache elektronische Unterzeichnung vorgelegt → Schriftformmangel nachgewiesen → Urteil möglich
-├── Arbeitgeber legt qES-Prüfprotokoll beider Parteien vor → Paragraf 126a BGB prüfen, Formangriff nur bei Zertifikats-/Zeitpunktmangel halten
-├── Arbeitgeber legt Originaldokument vor → Hauptangriff entfällt → Hilfsantrag Sachgrund
-└── Sachgrunddarlegung lückenhaft → Beweisangebot Zeuge/Urkunde → Beweis durch Gericht
-```
+- Memo
+- Checkliste
+- Mustertext
+- Fristenplan
+- Red-Team
 
 ---
 
-Hinweis: Keine Rechtsberatung. Mechanische Prüfung anhand vom Nutzer behaupteter Tatsachen. Falsche Sachverhaltsangabe oder falsche Anspruchsgrundlage entwertet das Ergebnis. Dringende Empfehlung anwaltlicher Beratung, insbesondere wegen der Drei-Wochen-Fristen.
+## Skill: `zugang-neu-006-kuendigung-per-bea-e-mail-fax-schriftformfallen`
 
-Du könntest auf der falschen Wiese unterwegs sein. Dieses System kann das nicht prüfen.
+_Für Arbeitsrecht: Kündigung per beA E-Mail Fax und Schriftformfallen: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Schnittstellenkarte mit Zuständigkeits- und Nachweisfragen._
 
----
+# Arbeitsrecht: Kündigung per beA E-Mail Fax und Schriftformfallen
 
-## Skill: `kueschk-stricken-anwalt-risiko-und-vergleichsdruck`
+## Aufgabe
 
-_Wenn es um KERNSKILL: Warnung vor der Stricken-Strategie des Arbeitgeberanwalts in Arbeitsrecht geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik._
+Dieser Skill bearbeitet **Kündigung per beA E-Mail Fax und Schriftformfallen** im Bereich **Arbeitsrecht**. Er soll nicht schematisch antworten, sondern zuerst die praktische Lage sortieren: Wer handelt, welche Unterlagen liegen vor, welche Frist läuft, welche Behörde oder Gegenpartei entscheidet und welches Ergebnis gebraucht wird.
 
-# KERNSKILL: Warnung vor der Stricken-Strategie des Arbeitgeberanwalts
+## Kaltstart in 6 Fragen
 
+1. Welche Rolle hat die Nutzerin: Mandant, Unternehmen, Behörde, Kanzlei, Gericht, Verlag, Betreiber, Investor oder Betroffene?
+2. Geht es um Prüfung, Entwurf, Verteidigung, Anmeldung, Register, Frist, Verhandlung, Compliance, Streit oder Dokumentation?
+3. Welche Dokumente liegen vor und welche fehlen: Vertrag, Bescheid, Registerauszug, Screenshot, E-Mail, Rechnung, Gutachten, Normtext, Protokoll?
+4. Welche Rechtsordnung, Branche, Epoche, Sprache oder technische Umgebung ist betroffen?
+5. Welche Entscheidung muss heute fallen und welche Punkte dürfen erst nach Live-Check beantwortet werden?
+6. Soll das Ergebnis als Ampel, Memo, Klausel, Antrag, Fristenplan, Behördenschreiben, Red-Team oder Dashboard kommen?
 
-## Arbeitsweg
+## Prüfprogramm
 
-- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
-- Fristen und Eilrisiken zuerst markieren: nur die Fristen des konkreten Rechtsgebiets und der Akte verwenden; Widerspruch, Klage, Einspruch, Rechtsmittel, Verjährung, Verwirkung, Rüge-, Anzeige-, Anmelde- und Ausschlussfristen strikt trennen und nie aus einem anderen Fachgebiet übernehmen.
-- Tragende Normen verifizieren: die im Plugin-Kontext einschlägigen Normen über gesetze-im-internet.de, dejure.org, eur-lex.europa.eu und die amtlichen Bundes-/Landesportale live prüfen — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
-- Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
-- Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
+- Sachverhalt in Tatsachen, Annahmen, Wertungen und offene Beweisfragen zerlegen.
+- Normtext und aktuelle Rechtsprechung live prüfen
+- Form, Frist, Zuständigkeit und Beweis getrennt behandeln
+- Keine BeckRS- oder Literatur-Blindzitate
+- Ergebnis immer in Handlungsschritt übersetzen
+- Zuständigkeit, Form, Frist, Beweislast, Vollzug und Rechtsbehelf immer getrennt ausgeben.
+- Bei historischen, internationalen oder technischen Begriffen erst übersetzen, dann rechtlich einordnen.
+- Keine Scheingenauigkeit: Wenn Quelle, Normstand oder Rechtsprechung fehlen, einen Live-Check als nächsten Schritt formulieren.
 
-**Fokus:** KERNSKILL: Warnung vor der Stricken-Strategie des Arbeitgeberanwalts; Risiko dass Arbeitgeber spaet nachgibt wenn Arbeitnehmer neuen Job hat und Rückkehrpflicht droht; Aufloeungsantrag Paragraf 9 KSchG; Paragraf 12 KSchG einseitige Lösung nach neuem Arbeitsverhältnis.
+## Typische Fallen
 
-### KERNWARNUNG: Stricken-Anwalt-Risiko und Vergleichsdruck
+- Ein Begriff klingt vertraut, hat aber in der konkreten Rechtsordnung oder Praxis eine andere Funktion.
+- Zuständigkeit, Form oder Zustellung wird übersehen, obwohl der materielle Punkt gut aussieht.
+- Eine Behauptung wird aus Modellwissen mit einer Fundstelle versehen. Das ist verboten; erst prüfen, dann zitieren.
+- Der Output ist juristisch richtig, hilft aber der Nutzerin operativ nicht. Deshalb immer nächste Handlung und Dokumentationsspur liefern.
 
-## Fachlicher Kern — Arbeitsrecht
-- **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `KERNWARNUNG: Stricken-Anwalt-Risiko und Vergleichsdruck` und löse die dort angelegte Fachfrage; arbeite mit konkreten Tatbestandsmerkmalen, Beweisfragen und dem unmittelbar benötigten Arbeitsprodukt. Routingfragen bleiben Hilfsmittel, wenn Frist, Zuständigkeit oder Verfahrensart offen sind.
-- **Arbeitsmodus:** Zuerst Status, Zugang, Frist, Beteiligungsrechte, Sonderkündigungsschutz, Beweislast und prozessualen nächsten Schritt sichern; dann erst Materiellrecht vertiefen.
-- **Outputpflicht:** Fristenblatt, Zugangsmatrix, Beweisangebot, Mandantenmail, Betriebsrats-/Gegnerbrief oder Klage-/Erwiderungsbaustein.
-- **Fehlerbremse:** Tragende Normen/Entscheidungen live oder aus der Akte verifizieren; Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei prüfbarer Quelle. Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen.
+## Output
 
-## Triage zu Beginn — kläre vor Ausgabe der Stricken-Warnung
+- Memo
+- Checkliste
+- Mustertext
+- Fristenplan
+- Red-Team
 
-1. Läuft das Kündigungsschutzverfahren bereits länger als drei Monate?
-2. Hat der Arbeitnehmer inzwischen einen neuen Job angenommen oder konkrete Angebote?
-3. Hat der Arbeitgeber bisher keine Bereitschaft zum Vergleich gezeigt (Signale für Hinhalte-Strategie)?
-4. Könnte ein Auflösungsantrag nach Paragraf 9 KSchG die bessere Strategie sein als Weiterstreiten?
-
-**Entscheidungsbaum Stricken-Strategie vs. Gegenmaßnahmen:**
-```
-Neuer Job angenommen? → Paragraf 12 KSchG-Erklärung vorbereiten (Wochenfrist nach Rechtskraft)
-Rückkehr unzumutbar, Prozess laufend? → Auflösungsantrag Paragraf 9 KSchG stellen
-Vergleich vertretbar? → Im nächsten Termin Einigung anstreben
-Kein neuer Job, keine Unzumutbarkeit? → Prozess führen, Paragraf 102 Abs. 5 BetrVG prüfen
-```
-
-## Das zentrale Risiko — bitte genau lesen
-
-**Das Szenario:**
-
-Du hast Kündigungsschutzklage erhoben. Das Verfahren zieht sich hin — sechs Monate, ein Jahr, manchmal länger. In dieser Zeit findest du einen neuen Job und beginnst dort zu arbeiten. Du denkst: "Gut, der Prozess läuft noch, aber ich habe meinen Lebensunterhalt gesichert."
-
-Dann passiert folgendes: Der Arbeitgeberanwalt gibt auf — er erklärt, dass die Kündigung unwirksam war. Das Arbeitsgericht stellt fest: **Das Arbeitsverhältnis besteht fort.**
-
-**Die Konsequenz:** Du bist rechtlich wieder Arbeitnehmer deines alten Arbeitgebers — und musst dort wieder antreten. Dein neuer Arbeitgeber verliert seinen Mitarbeiter. Du stehst zwischen zwei Arbeitsverhältnissen.
-
-## Warum machen Arbeitgeberanwälte das?
-
-Diese Strategie gibt es wirklich und sie hat einen Spitznamen: die **Stricken-Strategie** (gelegentlich auch: hinhalten und warten). Der Arbeitgeberanwalt kalkuliert, dass der Arbeitnehmer irgendwann woanders zu arbeiten beginnt und dann selbst ein Interesse hat, das alte Arbeitsverhältnis zu beenden. Der Arbeitgeber spart sich die Abfindung.
-
-**Ablauf der Stricken-Strategie:**
-1. Arbeitgeber kündigt.
-2. Arbeitnehmer klagt.
-3. Arbeitgeber zieht das Verfahren bewusst in die Länge.
-4. Arbeitnehmer nimmt neuen Job an.
-5. Arbeitgeber gibt nach oder wartet auf ein für ihn günstiges Moment.
-6. Arbeitnehmer steht mit zwei Arbeitsverhältnissen da.
-
-## Die Lösungen
-
-### Lösung 1: Paragraf 12 KSchG — Einseitige Erklärung des Arbeitnehmers
-
-Wenn das Gericht feststellt, dass die Kündigung unwirksam war und der Arbeitnehmer bereits ein neues Arbeitsverhältnis eingegangen ist, kann der Arbeitnehmer **selbst einseitig** erklären, dass er das alte Arbeitsverhältnis nicht fortsetzt.
-
-**Bedingungen (Paragraf 12 Satz 1 KSchG):**
-- Der Arbeitnehmer hat nach der Kündigung ein neues Arbeitsverhältnis begonnen.
-- Das Gericht hat die Kündigung für unwirksam erklärt.
-
-**Erklärungsfrist (Paragraf 12 Satz 2 KSchG): Eine Woche** nach Rechtskraft des Urteils.
-
-Die Erklärung muss dem Arbeitgeber innerhalb dieser Woche zugehen. Nach Ablauf der Frist ist das Recht verwirkt.
-
-**Rechtsfolge:** Das Arbeitsverhältnis gilt mit dem Ablauf der Kündigungsfrist als aufgelöst. Der Arbeitnehmer hat Anspruch auf Annahmeverzugslohn für den Zeitraum bis zum Ende der alten Kündigungsfrist — aber **keine Abfindung** nach Paragrafen 9, 10 KSchG.
-
-### Lösung 2: Paragraf 9 KSchG — Auflösungsantrag des Arbeitnehmers
-
-Der Arbeitnehmer kann bereits während des Prozesses einen **Auflösungsantrag** stellen und dabei eine Abfindung beantragen — wenn die Fortsetzung des Arbeitsverhältnisses ihm **unzumutbar** ist.
-
-Details dazu in Skill `kueschk-aufloesungsantrag-arbeitnehmer-9-kschg`.
-
-### Lösung 3: Vergleich abschließen
-
-Der sicherste Weg: Im Gütetermin oder Kammertermin einen **Vergleich mit Beendigungsdatum und Abfindung** vereinbaren. Dann ist das Arbeitsverhältnis klar beendet — ohne Risiko der Rückkehrpflicht.
-
-## Handlungsempfehlung
-
-**Wenn du einen neuen Job annimmst während der Kündigungsschutzklage läuft:**
-- Informiere deinen Anwalt sofort.
-- Prüfe, ob ein Vergleich zu vertretbaren Bedingungen möglich ist.
-- Notiere dir die Wochenfrist des Paragraf 12 KSchG für den Fall, dass das Gericht die Kündigung für unwirksam erklärt.
-- Erwäge einen Auflösungsantrag nach Paragraf 9 KSchG wenn die Rückkehr unzumutbar ist.
-
----
-
-Hinweis: Keine Rechtsberatung. Mechanische Prüfung anhand vom Nutzer behaupteter Tatsachen. Falsche Sachverhaltsangabe oder falsche Anspruchsgrundlage entwertet das Ergebnis. Dringende Empfehlung anwaltlicher Beratung, insbesondere wegen der Drei-Wochen-Fristen.
-
-Du könntest auf der falschen Wiese unterwegs sein. Dieses System kann das nicht prüfen.
-
-> Quellenregel: Entscheidungen nur nach Prüfung einer amtlichen oder frei zugänglichen Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage ausgeben.
+<!-- BEGIN ausformulierungspflicht (autogen) -->
+> **Ausformulierungspflicht und Formatstandard.** Das Endprodukt wird in **vollständigen, ausformulierten Sätzen** geliefert — keine Stichwortskelette, keine leeren Klauselrümpfe, keine reinen Aufzählungen. Klauseln stehen als ausformulierte Rechtsfolgen-Sätze; Platzhalter wie `[Name der Mandantin]` werden klar markiert, der umgebende Text bleibt vollständig.
+>
+> **Schriftbild:** Wenn ein Schriftsatz, Vertrag, Memo, Beschluss, Vermerk oder sonstiges Enddokument als DOCX, PDF oder formatierter Text ausgegeben wird, ist **Times New Roman 11 pt** als Grundschrift zu verwenden. Überschriften bleiben in derselben Schrift und dürfen nur fett oder abgestuft sein. Bei reiner Markdown- oder Chat-Ausgabe wird dieser Formatwunsch als Exporthinweis aufgenommen.
+>
+> **Nummerierung:** Gliederung ausschließlich dezimal (`1`, `1.1`, `1.1.1` und so weiter). Keine römischen Ziffern, keine Buchstaben- oder Mischgliederung.
+<!-- END ausformulierungspflicht (autogen) -->
 
 ---
 

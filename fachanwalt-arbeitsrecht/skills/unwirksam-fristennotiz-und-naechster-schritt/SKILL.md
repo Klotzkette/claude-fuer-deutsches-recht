@@ -1,6 +1,6 @@
 ---
 name: unwirksam-fristennotiz-und-naechster-schritt
-description: "Wenn es um Unwirksam Fristennotiz Und Naechster Schritt in Fachanwalt Arbeitsrecht geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Unwirksam Fristennotiz und Nächster Schritt: prüft Frist, Form, Zuständigkeit und Eilbedarf; Ergebnis: Fristen- und Risikoampel."
 ---
 
 # Unwirksamkeit erkannt — Fristennotiz und nächster Schritt: sofortige Handlungsanleitung nach erkanntem Unwirksamkeitsgrund (Schriftform, BR-Anhörung, Sonderkündigungsschutz, Massenentlassung, Befristungsfehler) — Fristberechnung, Klageweg und Mandantenkommunikation.
@@ -139,3 +139,7 @@ Wiedervorlage: [Datum — 2 Tage vor Fristablauf als Sicherheitspolster]
 ## Was dieser Arbeitsgang nicht macht
 - Keine automatische Fristenberechnung; individuelle Prüfung bleibt notwendig.
 - Keine Mandantenvertretung ohne ausdrücklichen Auftrag.
+
+## Vertiefung bei Bedarf
+
+- Bei `spezial-unwirksam-fristennotiz-und-naechster-schritt` beziehungsweise Unwirksam: Fristennotiz und nächster Schritt: [die zusätzliche Vertiefung laden](./references/vertiefung-spezial-unwirksam-fristennotiz-und-naechster-schritt.md).

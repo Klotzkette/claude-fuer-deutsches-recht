@@ -1,6 +1,6 @@
 ---
 name: familienversicherung-kv-statusfeststellung
-description: "Wenn es um Familienversicherung: Einkommensgrenze und Minijob in Krankenkassenrecht und Krankenversicherung geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Familienversicherung: Einkommensgrenze und Minijob: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Familienversicherung: Einkommensgrenze und Minijob

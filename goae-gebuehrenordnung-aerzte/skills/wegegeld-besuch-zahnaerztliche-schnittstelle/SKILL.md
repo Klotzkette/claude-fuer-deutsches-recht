@@ -1,6 +1,6 @@
 ---
 name: wegegeld-besuch-zahnaerztliche-schnittstelle
-description: "Wenn es um Wegegeld Besuch mehrere Patienten in GOÄ Gebührenordnung für Ärzte geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Berechnungstabelle mit Schwellen, Annahmen und Kontrollfragen."
+description: "Für Wegegeld Besuch mehrere Patienten: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Wegegeld Besuch mehrere Patienten

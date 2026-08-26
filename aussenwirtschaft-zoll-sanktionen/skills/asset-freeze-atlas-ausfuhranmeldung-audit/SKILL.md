@@ -1,6 +1,6 @@
 ---
 name: asset-freeze-atlas-ausfuhranmeldung-audit
-description: "Wenn es um Asset Freeze: Sofortmassnahmen beim Einfrieren sanktionierten Vermögens in Außenwirtschaft, Sanktionen, Zoll und CBAM geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Asset Freeze: Sofortmassnahmen beim Einfrieren sanktionierten Vermögens: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Asset Freeze: Sofortmassnahmen beim Einfrieren sanktionierten Vermögens

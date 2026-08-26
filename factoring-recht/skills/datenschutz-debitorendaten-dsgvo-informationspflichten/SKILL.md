@@ -1,6 +1,6 @@
 ---
 name: datenschutz-debitorendaten-dsgvo-informationspflichten
-description: "Wenn es um Datenschutz Debitorendaten DSGVO Informationspflichten in Factoring-Recht geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
+description: "Für Datenschutz Debitorendaten DSGVO Informationspflichten: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Datenschutz Debitorendaten DSGVO Informationspflichten

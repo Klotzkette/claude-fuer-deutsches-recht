@@ -1,6 +1,6 @@
 ---
 name: verordnung-mehrparteien-konflikt-und-interessen
-description: "Wenn es um Verordnung: Mehrparteienkonflikt und Interessenmatrix in diesem Spezialbereich geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Beweislast- und Substantiierungsmatrix."
+description: "Für Verordnung: Mehrparteienkonflikt und Interessenmatrix: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Verordnung: Mehrparteienkonflikt und Interessenmatrix

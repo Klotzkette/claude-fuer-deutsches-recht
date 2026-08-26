@@ -1,6 +1,6 @@
 ---
 name: restschuldbefreiungsantrag
-description: "Wenn es um Restschuldbefreiungsantrag in Verbraucherinsolvenz und Schuldenbereinigung geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Restschuldbefreiungsantrag: erstellt Entwurf mit Antrag, Beweis und Anlagen; Ergebnis: Schriftsatz mit Begründungs- und Anlagenlogik."
 ---
 
 # Restschuldbefreiungsantrag: Frist, Wirkung, Laufzeit, Obliegenheiten und gefährliche Altfehler.

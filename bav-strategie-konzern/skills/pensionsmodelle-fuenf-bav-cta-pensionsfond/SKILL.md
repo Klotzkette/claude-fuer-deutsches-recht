@@ -1,6 +1,6 @@
 ---
 name: pensionsmodelle-fuenf-bav-cta-pensionsfond
-description: "Wenn es um Pensionsmodelle — Die fünf Durchführungswege der betrieblichen Altersversorgung in BAV Strategie Konzern — Treuenfels Yamamoto Rechtsanwälte geht: entwickelt Verhandlungsziel, Vergleichskorridor und Eskalationspfad; liefert eine Verhandlungs- oder Eskalationslinie mit Optionen."
+description: "Für Pensionsmodelle — die fünf Durchführungswege der betrieblichen Altersversorgung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Pensionsmodelle — Die fünf Durchführungswege der betrieblichen Altersversorgung

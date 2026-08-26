@@ -1,6 +1,6 @@
 ---
 name: laienhilfe-vergleich-sozialgericht
-description: "Wenn es um Laienverstaendlicher Sozialrechts-Skill zu Vergleich Sozialgericht in Fachanwalt Sozialrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Laienverständlicher Sozialrechts-Skill zu Vergleich Sozialgericht: entwickelt Ziel, Vergleich und Eskalation; Ergebnis: Verhandlungs- oder Eskalationslinie."
 ---
 
 # Laienverstaendlicher Sozialrechts-Skill zu Vergleich Sozialgericht

@@ -1,6 +1,6 @@
 ---
 name: 04-betriebsuebergang-und-tarif
-description: "Wenn es um 04 Betriebsübergang und Tarif in Arbeitsgericht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für 04 Betriebsübergang und Tarif: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # 04 Betriebsübergang und Tarif

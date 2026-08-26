@@ -1,6 +1,6 @@
 ---
 name: eilrechtsschutz-drohende-einberufung
-description: "Wenn es um Eilrechtsschutz bei Einberufung in Kriegsdienstverweigerung und Wehrdienst geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Eilrechtsschutz bei Einberufung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Eilrechtsschutz bei Einberufung

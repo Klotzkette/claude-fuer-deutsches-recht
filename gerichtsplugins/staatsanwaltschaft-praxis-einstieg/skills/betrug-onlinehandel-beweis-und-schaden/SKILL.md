@@ -1,6 +1,6 @@
 ---
 name: betrug-onlinehandel-beweis-und-schaden
-description: "Wenn es um Betrug im Onlinehandel: Beweis, Schaden, Einstellungs- oder Anklagereife in Staatsanwaltschaft Praxis-Einstieg geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
+description: "Für Betrug im Onlinehandel: Beweis, Schaden, Einstellungs- oder Anklagereife: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Beweislast- und Substantiierungsmatrix."
 ---
 
 # Betrug im Onlinehandel: Beweis, Schaden, Einstellungs- oder Anklagereife

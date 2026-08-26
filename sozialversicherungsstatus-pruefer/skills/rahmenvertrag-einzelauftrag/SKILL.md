@@ -1,6 +1,6 @@
 ---
 name: rahmenvertrag-einzelauftrag
-description: "Wenn es um Rahmenvertrag und Einzelauftrag in Sozialversicherungsstatus-Prüfer / DRV-Statusfeststellung geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Rahmenvertrag und Einzelauftrag: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Rahmenvertrag und Einzelauftrag

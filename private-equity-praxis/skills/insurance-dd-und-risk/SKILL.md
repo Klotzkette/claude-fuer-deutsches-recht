@@ -1,6 +1,6 @@
 ---
 name: insurance-dd-und-risk
-description: "Wenn es um Insurance DD und Risk Allocation in Private Equity Praxis geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Insurance DD und Risk Allocation: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Insurance DD und Risk Allocation

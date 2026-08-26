@@ -1,6 +1,6 @@
 ---
 name: behoerdenkommunikation-bekanntgabe-social
-description: "Wenn es um Knapp, freundlich, rechtlich klar in Versammlungsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Knapp, freundlich, rechtlich klar: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Knapp, freundlich, rechtlich klar

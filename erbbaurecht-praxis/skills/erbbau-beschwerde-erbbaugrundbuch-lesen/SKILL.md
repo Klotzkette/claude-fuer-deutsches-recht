@@ -1,6 +1,6 @@
 ---
 name: erbbau-beschwerde-erbbaugrundbuch-lesen
-description: "Wenn es um Grundbuchstreit im Erbbaurecht in Erbbaurecht Praxis geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Grundbuchstreit im Erbbaurecht: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Grundbuchstreit im Erbbaurecht

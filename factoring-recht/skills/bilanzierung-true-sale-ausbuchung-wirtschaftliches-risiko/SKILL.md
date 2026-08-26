@@ -1,6 +1,6 @@
 ---
 name: bilanzierung-true-sale-ausbuchung-wirtschaftliches-risiko
-description: "Wenn es um Bilanzierung True Sale Ausbuchung wirtschaftliches Risiko in Factoring-Recht geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
+description: "Für Bilanzierung True Sale Ausbuchung wirtschaftliches Risiko: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Bilanzierung True Sale Ausbuchung wirtschaftliches Risiko

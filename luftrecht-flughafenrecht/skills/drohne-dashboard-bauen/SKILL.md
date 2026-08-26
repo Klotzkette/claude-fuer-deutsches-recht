@@ -1,6 +1,6 @@
 ---
 name: drohne-dashboard-bauen
-description: "Wenn es um Drohne – Dashboard bauen in Luftrecht und Flughafenrecht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
+description: "Für Drohne – Dashboard bauen: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Drohne – Dashboard bauen

@@ -1,6 +1,6 @@
 ---
 name: beistand-im-kirchlichen-strafverfahren
-description: "Wenn es um Beistand im kirchlichen Strafverfahren in Römisch-katholisches Kirchenrecht CIC und Katechismus geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Beweislast- und Substantiierungsmatrix. Auswahlstichwort: Beistand Im Kirchlichen Strafverfahren; Arbeitsfeld: Römisch-katholisches Kirchenrecht CIC und Katechismus."
+description: "Für Beistand im kirchlichen Strafverfahren: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt. Fachgebiet: Römisch-katholisches Kirchenrecht CIC und Katechismus. Route: beistand-im-kirchlichen-strafverfahren."
 ---
 
 # Beistand im kirchlichen Strafverfahren

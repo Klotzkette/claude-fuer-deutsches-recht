@@ -1,6 +1,6 @@
 ---
 name: europaeischer-haftbefehl-sta-praxis
-description: "Wenn es um Europäischer Haftbefehl aus StA-Sicht in Staatsanwaltschaft Praxis-Einstieg geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Beweislast- und Substantiierungsmatrix."
+description: "Für Europäischer Haftbefehl aus StA-Sicht: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Schnittstellenkarte mit Zuständigkeits- und Nachweisfragen."
 ---
 
 # Europäischer Haftbefehl aus StA-Sicht

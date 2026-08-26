@@ -1,6 +1,6 @@
 ---
 name: weg-protokoll-behoerden-gerichts-registerweg
-description: "Wenn es um Protokoll: Behörden-, Gerichts- oder Registerweg in WEG- und Hausverwaltung geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Protokoll: Behörden-, Gerichts- oder Registerweg: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Einreichungsplan mit Form- und Nachweischeck."
 ---
 
 # Protokoll: Behörden-, Gerichts- oder Registerweg

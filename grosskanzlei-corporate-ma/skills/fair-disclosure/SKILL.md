@@ -1,6 +1,6 @@
 ---
 name: fair-disclosure
-description: "Wenn es um Fair Disclosure und Knowledge in Großkanzlei Corporate/M&A geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Fair Disclosure und Knowledge: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt. Fachgebiet: Großkanzlei Corporate/M&A."
 ---
 
 # Fair Disclosure und Knowledge

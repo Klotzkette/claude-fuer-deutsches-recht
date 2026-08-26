@@ -1,6 +1,6 @@
 ---
 name: bea-passive-berufsausuebungsgesellschaft
-description: "Wenn es um Bea Passive Berufsausuebungsgesellschaft in Berufsrecht Anwälte geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Gegenprüfung mit Fehler-, Beweis- und Fristencheck."
+description: "Für Bea Passive Berufsausübungsgesellschaft: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Anwälte: bea passive nutzung und empfangsbekenntnis - Rechtsprechungscheck, stärkste Gegenansicht und Red-Team-Korrektur

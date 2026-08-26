@@ -1,6 +1,6 @@
 ---
 name: bedingungen-aufschiebend-aufloesend-fristen
-description: "Wenn es um Bedingungen aufschiebend, aufloesend, Fristen in diesem Spezialbereich geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Bedingungen aufschiebend, auflösend, Fristen: prüft Frist, Form, Zuständigkeit und Eilbedarf; Ergebnis: Fristen- und Risikoampel."
 ---
 
 # Bedingungen aufschiebend, aufloesend, Fristen

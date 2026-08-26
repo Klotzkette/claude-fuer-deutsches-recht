@@ -1,6 +1,6 @@
 ---
 name: sustainability-linked-loan-greenwashing
-description: "Wenn es um SLL und Greenwashing in Bank-Rechtsabteilung geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
+description: "Für SLL und Greenwashing: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # SLL und Greenwashing

@@ -1,6 +1,6 @@
 ---
 name: betriebspruefung
-description: "Wenn es um Betriebspruefung in Berufsrecht Steuerberater geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Gegenprüfung mit Fehler-, Beweis- und Fristencheck."
+description: "Für Betriebsprüfung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Tatbestands- oder Anspruchsmatrix."
 ---
 
 # Steuerberater: betriebspruefung rollenabgrenzung - Rechtsprechungscheck, stärkste Gegenansicht und Red-Team-Korrektur

@@ -1,6 +1,6 @@
 ---
 name: workflow-privacy-by-design-sprint
-description: "Wenn es um Privacy-by-Design-Sprint in robotik-recht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt. Auswahlstichwort: Workflow Privacy By Design Sprint; Arbeitsfeld: robotik-recht."
+description: "Für Privacy-by-Design-Sprint: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt. Fachgebiet: robotik-recht. Route: workflow-privacy-by-design-sprint."
 ---
 
 # Privacy-by-Design-Sprint

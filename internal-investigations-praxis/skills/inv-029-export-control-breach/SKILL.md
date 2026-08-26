@@ -1,6 +1,6 @@
 ---
 name: inv-029-export-control-breach
-description: "Wenn es um Internal Investigation: Export Control Breach in Internal Investigations Praxis geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Beweislast- und Substantiierungsmatrix."
+description: "Für Internal Investigation: Export Control Breach: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Internal Investigation: Export Control Breach

@@ -1,6 +1,6 @@
 ---
 name: see-010-bergung-und-wrack
-description: "Wenn es um Bergung Und Wrack in See- und Schifffahrtsrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Bergung und Wrack: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Bergung Und Wrack

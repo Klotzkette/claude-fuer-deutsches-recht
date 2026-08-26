@@ -1,6 +1,6 @@
 ---
 name: fdi-und-fusionskontrolle-bei-minderheit
-description: "Wenn es um FDI und Fusionskontrolle bei Minderheit in Venture Capital Geber geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für FDI und Fusionskontrolle bei Minderheit: prüft Ergebnis, Beweislast und Gegenposition; Ergebnis: Gegenprüfung mit Beweis- und Fristencheck."
 ---
 
 # FDI und Fusionskontrolle bei Minderheit

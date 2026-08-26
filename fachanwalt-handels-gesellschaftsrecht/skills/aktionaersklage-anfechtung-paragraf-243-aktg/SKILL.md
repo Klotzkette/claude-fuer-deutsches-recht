@@ -1,6 +1,6 @@
 ---
 name: aktionaersklage-anfechtung-paragraf-243-aktg
-description: "Wenn es um Aktionaersklage Anfechtung Paragraf 243 AktG in Fachanwalt Handels- und Gesellschaftsrecht geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Aktionärsklage Anfechtung Paragraf 243 AktG: erstellt Entwurf mit Antrag, Beweis und Anlagen; Ergebnis: Schriftsatz mit Begründungs- und Anlagenlogik."
 ---
 
 # Aktionaersklage Anfechtung § 243 AktG

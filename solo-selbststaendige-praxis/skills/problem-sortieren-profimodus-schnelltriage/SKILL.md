@@ -1,6 +1,6 @@
 ---
 name: problem-sortieren-profimodus-schnelltriage
-description: "Wenn es um Kaltstart und Orientierung: Trennt rechtliches problem in Solo-Selbstständige Praxis geht: klärt Rolle, Ziel, Frist, Unterlagen und den passenden nächsten Fachskill; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Kaltstart und Orientierung: Trennt rechtliches problem: routet Rolle, Frist, Unterlagen und Fachschritt; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Kaltstart und Orientierung: Trennt rechtliches problem

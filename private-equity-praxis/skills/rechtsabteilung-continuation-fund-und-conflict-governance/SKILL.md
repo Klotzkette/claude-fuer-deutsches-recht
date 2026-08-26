@@ -1,6 +1,6 @@
 ---
 name: rechtsabteilung-continuation-fund-und-conflict-governance
-description: "Wenn es um Rechtsabteilung: Continuation Fund und Conflict Governance in Private Equity Praxis geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
+description: "Für Rechtsabteilung: Continuation Fund und Conflict Governance: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Rechtsabteilung: Continuation Fund und Conflict Governance

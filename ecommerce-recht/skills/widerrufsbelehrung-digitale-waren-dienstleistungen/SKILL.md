@@ -1,6 +1,6 @@
 ---
 name: widerrufsbelehrung-digitale-waren-dienstleistungen
-description: "Wenn es um Widerrufsbelehrung digitale Waren Dienstleistungen in E-Commerce-Recht geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Widerrufsbelehrung digitale Waren Dienstleistungen: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Widerrufsbelehrung digitale Waren Dienstleistungen

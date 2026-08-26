@@ -1,6 +1,6 @@
 ---
 name: massenschaden-datenmodell
-description: "Wenn es um Massenschaden Datenmodell in AGB-Recht-Prüfer geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Dokumentenmatrix mit Nachforderungsliste. Auswahlstichwort: Massenschaden Datenmodell; Arbeitsfeld: AGB-Recht-Prüfer."
+description: "Für Massenschaden Datenmodell: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt. Fachgebiet: AGB-Recht-Prüfer. Route: massenschaden-datenmodell."
 ---
 
 # Massenschaden Datenmodell

@@ -1,6 +1,6 @@
 ---
 name: notfallmodus-frist-heute
-description: "Wenn es um Notfallmodus Frist Heute in Juristische Sprache Deutsch als Zweitsprache geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Notfallmodus Frist Heute: prüft Frist, Form, Zuständigkeit und Eilbedarf; Ergebnis: Fristen- und Risikoampel."
 ---
 
 # Notfallmodus Frist Heute

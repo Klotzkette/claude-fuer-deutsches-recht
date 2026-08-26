@@ -1,6 +1,6 @@
 ---
 name: hoefe-sonderfall-edge-case
-description: "Wenn es um Hoefe: Sonderfall und Edge-Case-Prüfung in Fachanwalt Agrarrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Höfe: Sonderfall und Edge-Case-Prüfung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Hoefe: Sonderfall und Edge-Case-Prüfung

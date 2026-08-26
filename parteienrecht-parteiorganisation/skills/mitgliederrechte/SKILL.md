@@ -1,6 +1,6 @@
 ---
 name: mitgliederrechte
-description: "Wenn es um Mitgliederrechte in Parteienrecht und Parteiorganisation geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik. Auswahlstichwort: Mitgliederrechte; Arbeitsfeld: Parteienrecht und Parteiorganisation."
+description: "Für Mitgliederrechte: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt. Fachgebiet: Parteienrecht und Parteiorganisation. Route: mitgliederrechte."
 ---
 
 # Mitgliederrechte

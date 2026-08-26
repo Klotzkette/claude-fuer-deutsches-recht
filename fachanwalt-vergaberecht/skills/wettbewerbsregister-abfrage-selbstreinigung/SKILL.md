@@ -1,6 +1,6 @@
 ---
 name: wettbewerbsregister-abfrage-selbstreinigung
-description: "Wenn es um Wettbewerbsregister Abfrage Selbstreinigung in Fachanwalt Vergaberecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Wettbewerbsregister Abfrage Selbstreinigung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Einreichungsplan mit Form- und Nachweischeck."
 ---
 
 # Wettbewerbsregister, Ausschlussgruende und Selbstreinigung praktisch bearbeiten: Abfragepflicht, Paragraphen 123/124 GWB, Paragraph 125 GWB, Compliance-Maßnahmen und Nachweise.

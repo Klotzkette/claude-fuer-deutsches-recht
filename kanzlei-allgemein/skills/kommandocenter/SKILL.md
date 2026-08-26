@@ -1,6 +1,6 @@
 ---
 name: kommandocenter
-description: "Wenn es um Kommandocenter in Kanzlei-Allgemein geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Kommandocenter: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt. Fachgebiet: Kanzlei-Allgemein."
 ---
 
 # Kommandocenter

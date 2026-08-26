@@ -1,6 +1,6 @@
 ---
 name: robe-werbung-und-gerichtstermin-kammerantwort-und-verf
-description: "Wenn es um Robe Werbung Und Gerichtstermin Kammerantwort Und Verf in Berufsrecht Anwälte geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Verhandlungs- oder Eskalationslinie mit Optionen."
+description: "Für Robe Werbung und Gerichtstermin Kammerantwort und Verf: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Anwälte: robe werbung und gerichtstermin - Kammerantwort mit Verfahrensstrategie, Tonlage und Belegplan

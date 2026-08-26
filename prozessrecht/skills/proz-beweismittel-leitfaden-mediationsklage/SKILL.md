@@ -1,6 +1,6 @@
 ---
 name: proz-beweismittel-leitfaden-mediationsklage
-description: "Wenn es um Proz: Beweismittel in Prozessrecht geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
+description: "Für Proz: Beweismittel: erstellt Entwurf mit Antrag, Beweis und Anlagen; Ergebnis: Schriftsatz mit Begründungs- und Anlagenlogik."
 ---
 
 # Proz: Beweismittel

@@ -1,6 +1,6 @@
 ---
 name: jus-staatsexamen-vorbereitung-spezial
-description: "Wenn es um JuS: Staatsexamen-Vorbereitung in Jurastudium geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für JuS: Staatsexamen-Vorbereitung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # JuS: Staatsexamen-Vorbereitung

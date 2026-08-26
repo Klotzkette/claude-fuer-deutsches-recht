@@ -1,6 +1,6 @@
 ---
 name: grundbuchantrag-rangstelle-notarielle
-description: "Wenn es um Notariat im Alltag: Grundbuchantrag – Rangstelle, Zwischenverfügung, Nachreichung in Notariat im Alltag geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
+description: "Für Notariat im Alltag: Grundbuchantrag – Rangstelle, Zwischenverfügung, Nachreichung: erstellt Entwurf mit Antrag, Beweis und Anlagen; Ergebnis: Schriftsatz mit Begründungs- und Anlagenlogik."
 ---
 
 # Notariat im Alltag: Grundbuchantrag – Rangstelle, Zwischenverfügung, Nachreichung

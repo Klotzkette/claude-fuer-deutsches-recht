@@ -1,6 +1,6 @@
 ---
 name: intercreditor-und-sicherheitenagent
-description: "Wenn es um Intercreditor, Security Agent und Sicherheitenpool in Private Equity Praxis geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Intercreditor, Security Agent und Sicherheitenpool: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Intercreditor, Security Agent und Sicherheitenpool

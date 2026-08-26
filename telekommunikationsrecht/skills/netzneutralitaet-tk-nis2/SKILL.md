@@ -1,6 +1,6 @@
 ---
 name: netzneutralitaet-tk-nis2
-description: "Wenn es um Netzneutralität, Zero-Rating und Drosselung in Telekommunikationsrecht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen."
+description: "Für Netzneutralität, Zero-Rating und Drosselung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Schnittstellenkarte mit Zuständigkeits- und Nachweisfragen."
 ---
 
 # Netzneutralität, Zero-Rating und Drosselung

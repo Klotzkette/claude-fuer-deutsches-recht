@@ -1,6 +1,6 @@
 ---
 name: pruefungsrecht-saarland-sachsen-anhalt
-description: "Wenn es um Prüfungsrecht Saarland in Prüfungsrecht an Hochschulen und Universitäten geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Prüfungsrecht Saarland: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Tatbestands- oder Anspruchsmatrix. Fachgebiet: Prüfungsrecht an Hochschulen und Universitäten. Route: pruefungsrecht-saarland-sachsen-anhalt."
 ---
 
 # Prüfungsrecht Saarland

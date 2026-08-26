@@ -1,6 +1,6 @@
 ---
 name: meth-anspruchsgrundlage-pyramide-bauleiter
-description: "Wenn es um Anspruchsgrundlagen-Pyramide im Bauleitungsrecht in Methodenlehre bürgerliches Recht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Anspruchsgrundlagen-Pyramide im Bauleitungsrecht: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Tatbestands- oder Anspruchsmatrix."
 ---
 
 # Anspruchsgrundlagen-Pyramide im Bauleitungsrecht

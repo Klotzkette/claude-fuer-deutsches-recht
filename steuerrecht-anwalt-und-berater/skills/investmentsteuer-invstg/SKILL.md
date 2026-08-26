@@ -1,6 +1,6 @@
 ---
 name: investmentsteuer-invstg
-description: "Wenn es um Investmentsteuerrecht — InvStG 2018 in der Anwendung in Steuerrecht – Steuerberater und Anwälte geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Investmentsteuerrecht — InvStG 2018 in der Anwendung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Schnittstellenkarte mit Zuständigkeits- und Nachweisfragen."
 ---
 
 # Investmentsteuerrecht — InvStG 2018 in der Anwendung

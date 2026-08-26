@@ -1,6 +1,6 @@
 ---
 name: agb-einbeziehung-schnittstelle-paragraphen-305-310
-description: "Wenn es um Agb Einbeziehung Schnittstelle Paragraphen 305 310 in BGB AT Prüfer geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Gegenprüfung mit Fehler-, Beweis- und Fristencheck."
+description: "Für AGB Einbeziehung Schnittstelle Paragraphen 305 310: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Agb Einbeziehung Schnittstelle Paragraphen 305 310

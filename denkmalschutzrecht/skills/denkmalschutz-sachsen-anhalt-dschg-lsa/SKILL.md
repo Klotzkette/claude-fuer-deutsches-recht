@@ -1,6 +1,6 @@
 ---
 name: denkmalschutz-sachsen-anhalt-dschg-lsa
-description: "Wenn es um Denkmalschutz Sachsen-Anhalt (DSchG-LSA) in Denkmalschutzrecht — Bundesweiter Rahmen und sechzehn geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Denkmalschutz Sachsen-Anhalt (DSchG-LSA): ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Denkmalschutz Sachsen-Anhalt (DSchG-LSA)

@@ -1,6 +1,6 @@
 ---
 name: kaltstart-triage
-description: "Wenn es um Robotik-Recht-Kompass in robotik-recht geht: klärt Rolle, Ziel, Frist, Unterlagen und den passenden nächsten Fachskill; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen."
+description: "Für Robotik-Recht-Kompass: routet Rolle, Frist, Unterlagen und Fachschritt; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Robotik-Recht-Kompass

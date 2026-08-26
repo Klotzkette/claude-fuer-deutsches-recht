@@ -1,6 +1,6 @@
 ---
 name: steuerhinterziehung-akteneinsicht
-description: "Wenn es um Steuerhinterziehung Paragraf 370 AO in Strafanzeige-Vorbereiter geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen."
+description: "Für Steuerhinterziehung Paragraf 370 AO: ordnet Akte, Belege und Lücken; Ergebnis: Schnittstellenkarte mit Zuständigkeits- und Nachweisfragen."
 ---
 
 # Steuerhinterziehung § 370 AO

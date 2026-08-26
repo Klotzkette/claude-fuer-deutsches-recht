@@ -1,6 +1,6 @@
 ---
 name: denkmalschutz-nordrhein-westfalen-dschg-nrw
-description: "Wenn es um Denkmalschutz Nordrhein-Westfalen (DSchG-NRW) in Denkmalschutzrecht — Bundesweiter Rahmen und sechzehn geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Denkmalschutz Nordrhein-Westfalen (DSchG-NRW): ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Denkmalschutz Nordrhein-Westfalen (DSchG-NRW)

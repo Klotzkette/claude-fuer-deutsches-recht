@@ -1,6 +1,6 @@
 ---
 name: sektvo-dokumentenmatrix-und-lueckenliste
-description: "Wenn es um Sektvo: Dokumentenmatrix, Lückenliste und Nachforderung in Fachanwalt Vergaberecht geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Dokumentenmatrix mit Nachforderungsliste."
+description: "Für Sektvo: Dokumentenmatrix, Lückenliste und Nachforderung: ordnet Akte, Belege und Lücken; Ergebnis: Dokumentenmatrix mit Nachforderungsliste."
 ---
 
 # Sektvo: Dokumentenmatrix, Lückenliste und Nachforderung

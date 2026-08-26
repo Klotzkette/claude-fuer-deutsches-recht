@@ -1,6 +1,6 @@
 ---
 name: sanktion-sanktionsmandat-schlussprodukt
-description: "Wenn es um Schlussprodukt des Sanktionsmandats planen in Datenschutzrecht geht: entwickelt Verhandlungsziel, Vergleichskorridor und Eskalationspfad; liefert eine Verhandlungs- oder Eskalationslinie mit Optionen."
+description: "Für Schlussprodukt des Sanktionsmandats planen: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt. Fachgebiet: Datenschutzrecht."
 ---
 
 # Schlussprodukt des Sanktionsmandats planen

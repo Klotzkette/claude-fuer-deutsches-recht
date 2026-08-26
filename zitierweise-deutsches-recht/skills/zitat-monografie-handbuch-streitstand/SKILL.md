@@ -1,6 +1,6 @@
 ---
 name: zitat-monografie-handbuch-streitstand
-description: "Wenn es um Monografie/Handbuch zitieren in Zitierweise deutsches Recht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. Auswahlstichwort: Zitat Monografie Handbuch Streitstand; Arbeitsfeld: Zitierweise deutsches Recht."
+description: "Für Monografie/Handbuch zitieren: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt. Fachgebiet: Zitierweise deutsches Recht. Route: zitat-monografie-handbuch-streitstand."
 ---
 
 # Monografie/Handbuch zitieren

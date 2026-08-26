@@ -1,6 +1,6 @@
 ---
 name: extremismus-verdachtsfall-geheimschutz
-description: "Wenn es um Extremismus-Verdachtsfall und Sicherheitsrecht in Bundeswehrrecht und Wehrrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Extremismus-Verdachtsfall und Sicherheitsrecht: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Extremismus-Verdachtsfall und Sicherheitsrecht

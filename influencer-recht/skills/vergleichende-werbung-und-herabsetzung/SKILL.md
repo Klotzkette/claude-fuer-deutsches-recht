@@ -1,6 +1,6 @@
 ---
 name: vergleichende-werbung-und-herabsetzung
-description: "Wenn es um Influencer-Recht: Vergleichende Werbung und Herabsetzung in Influencer-Recht geht: entwickelt Verhandlungsziel, Vergleichskorridor und Eskalationspfad; liefert eine Verhandlungs- oder Eskalationslinie mit Optionen."
+description: "Für Influencer-Recht: Vergleichende Werbung und Herabsetzung: entwickelt Ziel, Vergleich und Eskalation; Ergebnis: Verhandlungs- oder Eskalationslinie."
 ---
 
 # Influencer-Recht: Vergleichende Werbung und Herabsetzung

@@ -1,6 +1,6 @@
 ---
 name: stufen-theorie-interessen-versorgungssystem
-description: "Wenn es um Stufen: Compliance-Dokumentation und Aktenvermerk in BAV Strategie Konzern — Treuenfels Yamamoto Rechtsanwälte geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Verhandlungs- oder Eskalationslinie mit Optionen."
+description: "Für Stufen: Compliance-Dokumentation und Aktenvermerk: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Stufen: Compliance-Dokumentation und Aktenvermerk

@@ -1,6 +1,6 @@
 ---
 name: evvollzug-neu-004-bea-zustellung-einstweiliger-rechtsschutz
-description: "Wenn es um Gewerblicher Rechtsschutz: beA Zustellung einstweiliger Rechtsschutz Risiken in Plugin: Gewerblicher Rechtsschutz geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Gewerblicher Rechtsschutz: beA Zustellung einstweiliger Rechtsschutz Risiken: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Schnittstellenkarte mit Zuständigkeits- und Nachweisfragen."
 ---
 
 # Gewerblicher Rechtsschutz: beA Zustellung einstweiliger Rechtsschutz Risiken

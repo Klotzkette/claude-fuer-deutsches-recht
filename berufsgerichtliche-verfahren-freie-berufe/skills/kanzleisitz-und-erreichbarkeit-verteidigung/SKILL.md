@@ -1,6 +1,6 @@
 ---
 name: kanzleisitz-und-erreichbarkeit-verteidigung
-description: "Wenn es um Kanzleisitz und Erreichbarkeit: Verteidigungs- und Kammerantwort in Berufsgerichtliche Verfahren Freie Berufe geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
+description: "Für Kanzleisitz und Erreichbarkeit: Verteidigungs- und Kammerantwort: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Kanzleisitz und Erreichbarkeit: Verteidigungs- und Kammerantwort

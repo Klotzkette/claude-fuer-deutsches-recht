@@ -1,6 +1,6 @@
 ---
 name: abwaegungszustaendigkeit-institutionen
-description: "Wenn es um Abwägungszuständigkeit: Welche Institution darf abwägen? in Methodenlehre bürgerliches Recht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
+description: "Für Abwägungszuständigkeit: Welche Institution darf abwägen?: prüft Frist, Form, Zuständigkeit und Eilbedarf; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Abwägungszuständigkeit: Welche Institution darf abwägen?

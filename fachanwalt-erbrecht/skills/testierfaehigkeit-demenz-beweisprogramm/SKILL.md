@@ -1,6 +1,6 @@
 ---
 name: testierfaehigkeit-demenz-beweisprogramm
-description: "Prüft Testierfähigkeit bei Demenz, Delir, Medikation und wechselnder Orientierung bezogen auf den genauen Errichtungszeitpunkt. Ordnet Krankenunterlagen, Zeugen und Sachverständigenbeweis, trennt Diagnose von Funktionsbeeinträchtigung und liefert Beweisbeschluss, Erbscheinsvortrag und Risikoanalyse."
+description: "Prüft Testierfähigkeit bei Demenz, Delir, Medikation und wechselnder Orientierung bezogen auf den genauen Errichtungszeitpunkt."
 ---
 
 # Testierfähigkeit bei kognitiver Beeinträchtigung prüfen

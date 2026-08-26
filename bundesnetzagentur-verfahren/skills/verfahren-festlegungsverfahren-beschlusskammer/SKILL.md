@@ -1,6 +1,6 @@
 ---
 name: verfahren-festlegungsverfahren-beschlusskammer
-description: "Wenn es um Verfahren: Festlegungsverfahren Beschlusskammer in Bundesnetzagentur-Verfahren geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
+description: "Für Verfahren: Festlegungsverfahren Beschlusskammer: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Verfahren: Festlegungsverfahren Beschlusskammer

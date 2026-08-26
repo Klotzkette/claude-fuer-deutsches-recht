@@ -1,6 +1,6 @@
 ---
 name: rom-neu-006-etruskisch-vorformen-quellenarmut-ritualrecht
-description: "Wenn es um Römisches Recht: Etruskische Rechtsvorformen Quellenarmut und Ritualrecht in Römisches Recht geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Römisches Recht: Etruskische Rechtsvorformen Quellenarmut und Ritualrecht: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Schnittstellenkarte mit Zuständigkeits- und Nachweisfragen."
 ---
 
 # Römisches Recht: Etruskische Rechtsvorformen Quellenarmut und Ritualrecht

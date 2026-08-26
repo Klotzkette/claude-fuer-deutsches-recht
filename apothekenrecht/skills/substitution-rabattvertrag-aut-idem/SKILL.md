@@ -1,6 +1,6 @@
 ---
 name: substitution-rabattvertrag-aut-idem
-description: "Wenn es um Substitution Rabattvertrag Aut-idem in Apothekenrecht geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
+description: "Für Substitution Rabattvertrag Aut-idem: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Substitution Rabattvertrag Aut-idem

@@ -1,6 +1,6 @@
 ---
 name: fachberaterbezeichnung-kammerantwort-und-verfahren
-description: "Wenn es um Fachberaterbezeichnung Kammerantwort Und Verfahren in Berufsrecht Steuerberater geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Verhandlungs- oder Eskalationslinie mit Optionen."
+description: "Für Fachberaterbezeichnung Kammerantwort und Verfahren: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Steuerberater: fachberaterbezeichnung - Kammerantwort mit Verfahrensstrategie, Tonlage und Belegplan

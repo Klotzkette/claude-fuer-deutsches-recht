@@ -1,6 +1,6 @@
 ---
 name: mahnbescheid
-description: "Wenn es um Mahnverfahren – Paragrafen 688 ff. ZPO in Prozessrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Mahnverfahren – Paragrafen 688 ff. ZPO: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Mahnverfahren – Paragrafen 688 ff. ZPO

@@ -1,6 +1,6 @@
 ---
 name: normenkontrolle-satzungsnormenkontrolle-47-vwgo
-description: "Wenn es um Normenkontrolle Satzungsnormenkontrolle 47 Vwgo in Normenkontrolle Bauleitplanung — Paragraf 47 VwGO geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Normenkontrolle Satzungsnormenkontrolle 47 VwGO: prüft Ergebnis, Beweislast und Gegenposition; Ergebnis: Gegenprüfung mit Beweis- und Fristencheck."
 ---
 
 # Allgemeine Satzungsnormenkontrolle nach § 47 VwGO: kommunale Satzungen, Landesrechtsverordnungen, Landesrechtseröffnung und Abgrenzung zur Inzidentkontrolle.

@@ -1,6 +1,6 @@
 ---
 name: strafrecht-spezial-verletzung-buchfuehrungspflicht-283b-stgb
-description: "Wenn es um Strafrecht Spezial Verletzung Buchfuehrungspflicht 283b Stgb in Fachanwalt Strafrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Strafrecht Spezial Verletzung Buchführungspflicht 283b Stgb: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Verletzung der Buchfuehrungspflicht nach Paragraph 283b StGB als selbständiger Tatbestand neben Paragraph 283 StGB

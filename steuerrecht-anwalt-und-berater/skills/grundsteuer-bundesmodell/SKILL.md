@@ -1,6 +1,6 @@
 ---
 name: grundsteuer-bundesmodell
-description: "Wenn es um Grundsteuer — Reform 2025 Bundesmodell und Ländermodelle in Steuerrecht – Steuerberater und Anwälte geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Grundsteuer — Reform 2025 Bundesmodell und Ländermodelle: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Schnittstellenkarte mit Zuständigkeits- und Nachweisfragen. Fachgebiet: Steuerrecht – Steuerberater und Anwälte. Route: grundsteuer-bundesmodell."
 ---
 
 # Grundsteuer — Reform 2025 Bundesmodell und Ländermodelle

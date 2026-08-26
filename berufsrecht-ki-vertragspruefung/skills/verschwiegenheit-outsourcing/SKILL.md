@@ -1,6 +1,6 @@
 ---
 name: verschwiegenheit-outsourcing
-description: "Wenn es um Berufsrechtliche: Erstprüfung, Rollenklärung und Mandatsziel in diesem Spezialbereich geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Berufsrechtliche: Erstprüfung, Rollenklärung und Mandatsziel: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt. Fachgebiet: anwaltlichem Berufsrecht und Vertragsprüfung. Route: verschwiegenheit-outsourcing."
 ---
 
 # Berufsrechtliche: Erstprüfung, Rollenklärung und Mandatsziel

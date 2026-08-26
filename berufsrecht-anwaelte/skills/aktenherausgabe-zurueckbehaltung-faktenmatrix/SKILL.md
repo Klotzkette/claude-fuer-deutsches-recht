@@ -1,6 +1,6 @@
 ---
 name: aktenherausgabe-zurueckbehaltung-faktenmatrix
-description: "Wenn es um Aktenherausgabe Zurueckbehaltung Faktenmatrix in Berufsrecht Anwälte geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Aktenherausgabe Zurückbehaltung Faktenmatrix: ordnet Akte, Belege und Lücken; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Anwälte: aktenherausgabe und zurueckbehaltung - Kaltstart mit Faktenmatrix, Risikoampel und fehlenden Unterlagen

@@ -1,6 +1,6 @@
 ---
 name: strassenverkehr-einspruch-begruenden
-description: "Wenn es um Strassenverkehr Einspruch Begruenden in Ordnungswidrigkeitenrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Strassenverkehr Einspruch Begründen: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Strassenverkehr Einspruch Begruenden

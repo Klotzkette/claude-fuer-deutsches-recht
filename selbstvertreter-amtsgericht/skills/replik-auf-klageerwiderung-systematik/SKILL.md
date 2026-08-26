@@ -1,6 +1,6 @@
 ---
 name: replik-auf-klageerwiderung-systematik
-description: "Wenn es um Replik: Wie Sie als Kläger auf die Klageerwiderung antworten in selbstvertreter-amtsgericht geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
+description: "Für Replik: Wie Sie als Kläger auf die Klageerwiderung antworten: erstellt Entwurf mit Antrag, Beweis und Anlagen; Ergebnis: Schriftsatz mit Begründungs- und Anlagenlogik."
 ---
 
 # Replik: Wie Sie als Kläger auf die Klageerwiderung antworten

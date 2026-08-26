@@ -1,6 +1,6 @@
 ---
 name: bmds-verwaltungsdigitalisierung
-description: "Wenn es um Verwaltungsdigitalisierung und Registermodernisierung (BMDS) in Legistik-Werkstatt geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert einen Einreichungsplan mit Form-, Portal- und Nachweischeck. Auswahlstichwort: Bmds Verwaltungsdigitalisierung; Arbeitsfeld: Legistik-Werkstatt."
+description: "Für Verwaltungsdigitalisierung und Registermodernisierung (BMDS): ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Verwaltungsdigitalisierung und Registermodernisierung (BMDS)

@@ -1,6 +1,6 @@
 ---
 name: sepsis-diagnoseverzug
-description: "Wenn es um Sepsis Diagnoseverzug in Fachanwalt Medizinrecht geht: entwickelt Verhandlungsziel, Vergleichskorridor und Eskalationspfad; liefert eine Verhandlungs- oder Eskalationslinie mit Optionen."
+description: "Für Sepsis Diagnoseverzug: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Sepsis-Diagnoseverzug: moderner Medizinrechts-Skill für Infektzeichen, Labor, Eskalation, Antibiotikagabe, SOP und Kausalitätsstreit

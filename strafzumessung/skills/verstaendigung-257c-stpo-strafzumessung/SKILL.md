@@ -1,6 +1,6 @@
 ---
 name: verstaendigung-257c-stpo-strafzumessung
-description: "Wenn es um Verstaendigung im Strafverfahren Paragraf 257c StPO und Strafzumessung in Strafzumessung geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Verständigung im Strafverfahren Paragraf 257c StPO und Strafzumessung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Verstaendigung im Strafverfahren § 257c StPO und Strafzumessung

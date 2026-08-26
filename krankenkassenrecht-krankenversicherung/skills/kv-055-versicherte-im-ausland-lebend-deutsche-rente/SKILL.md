@@ -1,6 +1,6 @@
 ---
 name: kv-055-versicherte-im-ausland-lebend-deutsche-rente
-description: "Wenn es um Krankenversicherung: Versicherte im Ausland lebend deutsche Rente in Krankenkassenrecht und Krankenversicherung geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Krankenversicherung: Versicherte im Ausland lebend deutsche Rente: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Schnittstellenkarte mit Zuständigkeits- und Nachweisfragen."
 ---
 
 # Krankenversicherung: Versicherte im Ausland lebend deutsche Rente

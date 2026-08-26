@@ -1,6 +1,6 @@
 ---
 name: ppa-cppa-vertragsspezialitaeten
-description: "Wenn es um PPA und CPPA: Spezialitaeten in Energierecht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
+description: "Für PPA und CPPA: Spezialitäten: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # PPA und CPPA: Spezialitaeten

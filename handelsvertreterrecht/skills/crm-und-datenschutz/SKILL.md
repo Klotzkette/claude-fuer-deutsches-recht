@@ -1,6 +1,6 @@
 ---
 name: crm-und-datenschutz
-description: "Wenn es um CRM-Systeme und Datenschutz im Handelsvertretervertrag nach DSGVO und Paragraf 88 HGB in Handelsvertreterrecht und Vertriebsverträge geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für CRM-Systeme und Datenschutz im Handelsvertretervertrag nach DSGVO und Paragraf 88 HGB: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # CRM-Systeme und Datenschutz im Handelsvertretervertrag nach DSGVO und § 88 HGB

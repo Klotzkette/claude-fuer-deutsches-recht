@@ -1,6 +1,6 @@
 ---
 name: geschaeftsordnung-vorstand-gruendung
-description: "Wenn es um Geschäftsordnung Vorstand in Vereinsrecht und Vereinsmanager geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Geschäftsordnung Vorstand: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt. Fachgebiet: Vereinsrecht und Vereinsmanager."
 ---
 
 # Geschäftsordnung Vorstand

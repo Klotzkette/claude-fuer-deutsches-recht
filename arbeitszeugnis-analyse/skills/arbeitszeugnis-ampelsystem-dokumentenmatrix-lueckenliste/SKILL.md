@@ -1,6 +1,6 @@
 ---
 name: arbeitszeugnis-ampelsystem-dokumentenmatrix-lueckenliste
-description: "Wenn es um Ampelsystem: Dokumentenmatrix, Lückenliste und Nachforderung in Arbeitszeugnis-Analyse geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Ampelsystem: Dokumentenmatrix, Lückenliste und Nachforderung: ordnet Akte, Belege und Lücken; Ergebnis: Dokumentenmatrix mit Nachforderungsliste."
 ---
 
 # Ampelsystem: Dokumentenmatrix, Lückenliste und Nachforderung

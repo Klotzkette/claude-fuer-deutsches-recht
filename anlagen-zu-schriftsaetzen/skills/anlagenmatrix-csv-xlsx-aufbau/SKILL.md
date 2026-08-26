@@ -1,6 +1,6 @@
 ---
 name: anlagenmatrix-csv-xlsx-aufbau
-description: "Wenn es um Anlagenmatrix CSV/XLSX Aufbau in Anlagen zu Schriftsätzen geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
+description: "Für Anlagenmatrix CSV/XLSX Aufbau: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Anlagenmatrix CSV/XLSX Aufbau

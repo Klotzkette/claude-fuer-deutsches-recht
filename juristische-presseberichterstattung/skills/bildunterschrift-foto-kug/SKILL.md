@@ -1,6 +1,6 @@
 ---
 name: bildunterschrift-foto-kug
-description: "Wenn es um Bildunterschrift und Foto KUG in Juristische Presseberichterstattung geht: prüft Fotoauswahl, Bildunterschrift, Einwilligung, Zeitgeschichte, Beiwerk und Schutz unbeteiligter Personen."
+description: "Für Bildunterschrift und Foto KUG: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Bildunterschrift und Foto KUG

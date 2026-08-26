@@ -1,6 +1,6 @@
 ---
 name: bea-passive-nutzung
-description: "Wenn es um Bea Passive Nutzung in Berufsrecht Anwälte geht: klärt Rolle, Ziel, Frist, Unterlagen und den passenden nächsten Fachskill; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Bea Passive Nutzung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Anwälte: bea passive nutzung und empfangsbekenntnis - Kaltstart mit Faktenmatrix, Risikoampel und fehlenden Unterlagen

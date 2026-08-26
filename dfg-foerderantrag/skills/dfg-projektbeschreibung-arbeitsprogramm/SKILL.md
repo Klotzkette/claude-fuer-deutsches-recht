@@ -1,6 +1,6 @@
 ---
 name: dfg-projektbeschreibung-arbeitsprogramm
-description: "Wenn es um Projektbeschreibung und Arbeitsprogramm in DFG-Förderantrag geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
+description: "Für Projektbeschreibung und Arbeitsprogramm: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Projektbeschreibung und Arbeitsprogramm

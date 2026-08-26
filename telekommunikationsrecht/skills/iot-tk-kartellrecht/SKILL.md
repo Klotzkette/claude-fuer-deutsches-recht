@@ -1,6 +1,6 @@
 ---
 name: iot-tk-kartellrecht
-description: "Wenn es um IoT, M2M und SIM-Karten in Telekommunikationsrecht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
+description: "Für IoT, M2M und SIM-Karten: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # IoT, M2M und SIM-Karten

@@ -1,6 +1,6 @@
 ---
 name: boutique-tatbestand-beweis-und-belege
-description: "Wenn es um Boutique: Tatbestandsmerkmale, Beweisfragen und Beleglage in markenrecht-fashion-luxus geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Beweislast- und Substantiierungsmatrix."
+description: "Für Boutique: Tatbestandsmerkmale, Beweisfragen und Beleglage: ordnet Akte, Belege und Lücken; Ergebnis: Beweislast- und Substantiierungsmatrix."
 ---
 
 # Boutique: Tatbestandsmerkmale, Beweisfragen und Beleglage

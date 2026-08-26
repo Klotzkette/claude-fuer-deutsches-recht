@@ -1,6 +1,6 @@
 ---
 name: long-covid-erwerbsminderung-gdb-reha-beweis
-description: "Wenn es um Long Covid Erwerbsminderung Gdb Reha Beweis in Fachanwalt Sozialrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Long Covid Erwerbsminderung Gdb Reha Beweis: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Beweislast- und Substantiierungsmatrix."
 ---
 
 # Führt Sozialrechtsmandate zu Long Covid, postviraler Fatigue, ME/CFS und psychisch-somatischen Abgrenzungen durch Krankenversicherung, Rentenversicherung, Versorgungsamt und Sozialgericht.

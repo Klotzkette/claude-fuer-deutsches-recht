@@ -1,6 +1,6 @@
 ---
 name: patientenaufklaerung-robotik
-description: "Wenn es um Patientenaufklärung Robotik in robotik-recht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Patientenaufklärung Robotik: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Patientenaufklärung Robotik

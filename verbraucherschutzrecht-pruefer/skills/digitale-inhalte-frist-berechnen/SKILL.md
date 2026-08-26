@@ -1,6 +1,6 @@
 ---
 name: digitale-inhalte-frist-berechnen
-description: "Wenn es um Digitale Inhalte Frist Berechnen in Verbraucherschutzrecht Prüfer geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Digitale Inhalte Frist Berechnen: prüft Frist, Form, Zuständigkeit und Eilbedarf; Ergebnis: Fristen- und Risikoampel."
 ---
 
 # Digitale Inhalte Frist Berechnen

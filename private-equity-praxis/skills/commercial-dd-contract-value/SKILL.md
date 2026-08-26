@@ -1,6 +1,6 @@
 ---
 name: commercial-dd-contract-value
-description: "Wenn es um Commercial DD und Vertragswert in Private Equity Praxis geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Commercial DD und Vertragswert: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Commercial DD und Vertragswert

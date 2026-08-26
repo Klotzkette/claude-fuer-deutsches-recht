@@ -1,6 +1,6 @@
 ---
 name: frist-eilversand-schiedsverfahren-anlagenband
-description: "Wenn es um Frist, Eilversand und Anlagenband im Schiedsverfahren in Anlagen zu Schriftsätzen geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Frist, Eilversand und Anlagenband im Schiedsverfahren: prüft Frist, Form, Zuständigkeit und Eilbedarf; Ergebnis: Fristen- und Risikoampel."
 ---
 
 # Frist, Eilversand und Anlagenband im Schiedsverfahren

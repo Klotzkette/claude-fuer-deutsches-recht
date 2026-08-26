@@ -1,6 +1,6 @@
 ---
 name: notwehr-paragraf-32-stgb
-description: "Wenn es um Notwehr Paragraf 32 StGB in Fachanwalt Strafrecht geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Notwehr Paragraf 32 StGB: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Notwehr § 32 StGB

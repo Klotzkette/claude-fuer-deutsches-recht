@@ -1,6 +1,6 @@
 ---
 name: digital-products-international
-description: "Wenn es um Digitale Produkte im internationalen Handel in Internationales Handelsrecht und Lex Mercatoria geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Digitale Produkte im internationalen Handel: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Schnittstellenkarte mit Zuständigkeits- und Nachweisfragen."
 ---
 
 # Digitale Produkte im internationalen Handel

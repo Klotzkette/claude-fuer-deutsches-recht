@@ -1,6 +1,6 @@
 ---
 name: pruefungsangst-und-psychische-erkrankung
-description: "Wenn es um Prüfungsangst Und Psychische Erkrankung in Prüfungsrecht an Hochschulen und Universitäten geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Prüfungsangst und Psychische Erkrankung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Tatbestands- oder Anspruchsmatrix."
 ---
 
 # Prüfungsangst Und Psychische Erkrankung

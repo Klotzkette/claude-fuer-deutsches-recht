@@ -1,6 +1,6 @@
 ---
 name: airline-zustaendigkeit-pruefen
-description: "Wenn es um Airline – Zuständigkeit prüfen in Luftrecht und Flughafenrecht geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
+description: "Für Airline – Zuständigkeit prüfen: prüft Frist, Form, Zuständigkeit und Eilbedarf; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Airline – Zuständigkeit prüfen

@@ -1,6 +1,6 @@
 ---
 name: bankrecht-regress-nach-avalzahlung
-description: "Wenn es um Bankrecht Regress Nach Avalzahlung in Fachanwalt Bank Kapitalmarktrecht geht: entwickelt Verhandlungsziel, Vergleichskorridor und Eskalationspfad; liefert eine Verhandlungs- oder Eskalationslinie mit Optionen."
+description: "Für Bankrecht Regress nach Avalzahlung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Regress nach Aval-, Bürgschafts- oder Garantiezahlung im Bankmandat prüfen: § 774 BGB, Aufwendungsersatz, Kontobelastung, Sicherheiten, Mitbürgen, Insolvenz, Anfechtung und Vergleich.

@@ -1,6 +1,6 @@
 ---
 name: beweismatrix-logauswertung
-description: "Wenn es um Beweismatrix und Logauswertung in robotik-recht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. Auswahlstichwort: Beweismatrix Logauswertung; Arbeitsfeld: robotik-recht."
+description: "Für Beweismatrix und Logauswertung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Beweislast- und Substantiierungsmatrix. Fachgebiet: robotik-recht. Route: beweismatrix-logauswertung."
 ---
 
 # Beweismatrix und Logauswertung

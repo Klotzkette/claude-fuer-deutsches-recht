@@ -1,6 +1,6 @@
 ---
 name: frage-an-zeugen-stellen-orientierung
-description: "Wenn es um Fragen an Zeugen stellen: Orientierung in Schöffen und Handelsrichter Praxis geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen."
+description: "Für Fragen an Zeugen stellen: Orientierung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Schnittstellenkarte mit Zuständigkeits- und Nachweisfragen."
 ---
 
 # Fragen an Zeugen stellen: Orientierung

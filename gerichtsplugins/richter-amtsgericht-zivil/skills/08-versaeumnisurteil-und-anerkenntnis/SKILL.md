@@ -1,6 +1,6 @@
 ---
 name: 08-versaeumnisurteil-und-anerkenntnis
-description: "Wenn es um 08 Versäumnisurteil und Anerkenntnis in Richter Amtsgericht Zivilsachen geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen."
+description: "Für 08 Versäumnisurteil und Anerkenntnis: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Schnittstellenkarte mit Zuständigkeits- und Nachweisfragen."
 ---
 
 # 08 Versäumnisurteil und Anerkenntnis

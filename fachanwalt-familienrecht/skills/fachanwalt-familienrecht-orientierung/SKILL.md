@@ -1,6 +1,6 @@
 ---
 name: fachanwalt-familienrecht-orientierung
-description: "Wenn es um Fachanwalt für Familienrecht — Orientierung in Fachanwalt Familienrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Fachanwalt für Familienrecht — Orientierung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Fachanwalt für Familienrecht — Orientierung

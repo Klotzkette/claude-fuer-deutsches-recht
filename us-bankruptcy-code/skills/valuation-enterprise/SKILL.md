@@ -1,6 +1,6 @@
 ---
 name: valuation-enterprise
-description: "Wenn es um Enterprise Valuation in US Bankruptcy Code geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Enterprise Valuation: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Enterprise Valuation

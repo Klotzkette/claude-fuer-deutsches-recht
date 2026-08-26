@@ -1,6 +1,6 @@
 ---
 name: livequellen-g-ba-bmg-land-pruefen
-description: "Wenn es um Livequellen G-BA BMG Land prüfen in Krankenhausrecht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Tatbestands- oder Anspruchsmatrix mit Gegenargumenten."
+description: "Für Livequellen G-BA BMG Land prüfen: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Livequellen G-BA BMG Land prüfen

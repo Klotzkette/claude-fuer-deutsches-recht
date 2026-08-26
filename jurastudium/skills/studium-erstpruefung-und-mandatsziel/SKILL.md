@@ -1,6 +1,6 @@
 ---
 name: studium-erstpruefung-und-mandatsziel
-description: "Wenn es um Studium: Erstprüfung, Rollenklärung und Mandatsziel in Jurastudium geht: klärt Rolle, Ziel, Frist, Unterlagen und den passenden nächsten Fachskill; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Studium: Erstprüfung, Rollenklärung und Mandatsziel: routet Rolle, Frist, Unterlagen und Fachschritt; Ergebnis: Tatbestands- oder Anspruchsmatrix."
 ---
 
 # Studium: Erstprüfung, Rollenklärung und Mandatsziel

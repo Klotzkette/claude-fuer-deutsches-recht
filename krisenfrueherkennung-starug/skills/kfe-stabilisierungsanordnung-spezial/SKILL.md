@@ -1,6 +1,6 @@
 ---
 name: kfe-stabilisierungsanordnung-spezial
-description: "Wenn es um KFE: Stabilisierungsanordnung in Krisenfrüherkennung und StaRUG-Management geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für KFE: Stabilisierungsanordnung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # KFE: Stabilisierungsanordnung

@@ -1,6 +1,6 @@
 ---
 name: freundlicher
-description: "Wenn es um Freundlicher Deal-Copilot in Großkanzlei Corporate/M&A geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Freundlicher Deal-Copilot: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Schnittstellenkarte mit Zuständigkeits- und Nachweisfragen. Fachgebiet: Großkanzlei Corporate/M&A."
 ---
 
 # Freundlicher Deal-Copilot

@@ -1,6 +1,6 @@
 ---
 name: konto-gesperrt-bank
-description: "Wenn es um Konto gesperrt durch Bank in Verbraucher im Rechtsstaat Alltag geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Konto gesperrt durch Bank: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Konto gesperrt durch Bank

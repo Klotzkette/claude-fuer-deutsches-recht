@@ -1,6 +1,6 @@
 ---
 name: drittwirkung-grundrechte-mittelbar
-description: "Wenn es um Mittelbare Drittwirkung — Grundrechte im Privatrecht durch Verhältnismäßigkeit in Verhältnismäßigkeitsprüfer geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Mittelbare Drittwirkung — Grundrechte im Privatrecht durch Verhältnismäßigkeit: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Mittelbare Drittwirkung — Grundrechte im Privatrecht durch Verhältnismäßigkeit

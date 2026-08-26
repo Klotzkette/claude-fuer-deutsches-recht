@@ -1,6 +1,6 @@
 ---
 name: kv-047-hospiz-palliativversorgung-und-sapv
-description: "Wenn es um Krankenversicherung: Hospiz Palliativversorgung und SAPV in Krankenkassenrecht und Krankenversicherung geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Krankenversicherung: Hospiz Palliativversorgung und SAPV: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Krankenversicherung: Hospiz Palliativversorgung und SAPV

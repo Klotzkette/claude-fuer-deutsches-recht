@@ -1,6 +1,6 @@
 ---
 name: dienstaufsicht-beschwerde
-description: "Wenn es um Dienstaufsicht Beschwerde in Berufsrecht Notare geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Gegenprüfung mit Fehler-, Beweis- und Fristencheck."
+description: "Für Dienstaufsicht Beschwerde: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Notare: dienstaufsicht beschwerde - Rechtsprechungscheck, stärkste Gegenansicht und Red-Team-Korrektur

@@ -1,6 +1,6 @@
 ---
 name: buergerliches-abschlussprodukt-und-uebergabe
-description: "Wenn es um Buergerliches Abschlussprodukt Und Uebergabe in Methodenlehre bürgerliches Recht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Bürgerliches Abschlussprodukt und Übergabe: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt. Fachgebiet: Methodenlehre bürgerliches Recht. Route: buergerliches-abschlussprodukt-und-uebergabe."
 ---
 
 # Dieses Skill definiert und strukturiert das juristische Abschlussprodukt eines zivilrechtlichen Mandats und leitet die methodisch korrekte Übergabe an den Mandanten an
@@ -98,3 +98,7 @@ unmittelbare Konsequenzen für die Überzeugungskraft vor Gericht und in der Ver
 oder widersprüchliche Argumentation wird von gut vorbereiteten Gegenseiten ausgenutzt und kann einen
 substanziell starken Fall erheblich schwächen. Die konsequente Anwendung methodischer Prinzipien
 schützt die eigene Position und macht sie resilient gegenüber Angriffen.
+
+## Vertiefung bei Bedarf
+
+- Bei `spezial-buergerliches-abschlussprodukt-und-uebergabe` beziehungsweise Buergerliches: Abschlussprodukt und Übergabe: [die zusätzliche Vertiefung laden](./references/vertiefung-spezial-buergerliches-abschlussprodukt-und-uebergabe.md).

@@ -1,6 +1,6 @@
 ---
 name: bauwirtschaft-soka-behg
-description: "Wenn es um Bauwirtschaft SOKA und Meldepflichten in Berichtspflichten-Erlediger geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
+description: "Für Bauwirtschaft SOKA und Meldepflichten: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Bauwirtschaft SOKA und Meldepflichten

@@ -1,6 +1,6 @@
 ---
 name: beirat-fakultativer-aufsichtsrat-52-gmbhg
-description: "Wenn es um Beirat Fakultativer Aufsichtsrat 52 Gmbhg in Gesellschaftsrecht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
+description: "Für Beirat Fakultativer Aufsichtsrat 52 GmbHG: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt. Fachgebiet: Gesellschaftsrecht."
 ---
 
 # Beirat Fakultativer Aufsichtsrat 52 Gmbhg

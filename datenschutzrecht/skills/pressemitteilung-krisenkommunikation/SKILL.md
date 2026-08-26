@@ -1,6 +1,6 @@
 ---
 name: pressemitteilung-krisenkommunikation
-description: "Wenn es um Pressemitteilung und Krisenkommunikation bei Datenschutzvorfall in Datenschutzrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Pressemitteilung und Krisenkommunikation bei Datenschutzvorfall: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Pressemitteilung und Krisenkommunikation bei Datenschutzvorfall
@@ -52,3 +52,7 @@ Sperrfristen: erst nach Information der Betroffenen oder gleichzeitig veröffent
 
 - `dsv-kommunikationssperre` deckt die internen Sprachregelungen ab.
 - `dsv-benachrichtigung-art-34-betroffene` deckt die individuelle Benachrichtigung ab.
+
+## Vertiefung bei Bedarf
+
+- Bei `dsv-pressemitteilung-krisenkommunikation` beziehungsweise Entwirft eine Pressemitteilung und begleitende Krisenkommunikation bei einem Datenschutzvorfall mit öffentlicher Wahrnehmung: [die zusätzliche Vertiefung laden](./references/vertiefung-dsv-pressemitteilung-krisenkommunikation.md).

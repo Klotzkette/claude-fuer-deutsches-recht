@@ -1,6 +1,6 @@
 ---
 name: abstimmung-mit-autor-feedback-kanal
-description: "Wenn es um Abstimmung mit Autorin (Feedback-Kanal) in Verlagsredaktion geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Verhandlungs- oder Eskalationslinie mit Optionen."
+description: "Für Abstimmung mit Autorin (Feedback-Kanal): ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Abstimmung mit Autorin (Feedback-Kanal)

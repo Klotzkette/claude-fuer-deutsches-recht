@@ -1,6 +1,6 @@
 ---
 name: historischer-normzweck-erster-schritt
-description: "Wenn es um Historischer Normzweck: Methodik als erster Auslegungsschritt in Methodenlehre bürgerliches Recht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Historischer Normzweck: Methodik als erster Auslegungsschritt: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Tatbestands- oder Anspruchsmatrix."
 ---
 
 # Historischer Normzweck: Methodik als erster Auslegungsschritt

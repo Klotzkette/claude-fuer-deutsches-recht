@@ -1,6 +1,6 @@
 ---
 name: verlegerrecht-historisch-und-heutige-grenzen
-description: "Wenn es um Verl-043 · Verlegerrecht: Historisch und heutige Grenzen in Verlagsrecht und Buchpreisbindung geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Verl-043 · Verlegerrecht: Historisch und heutige Grenzen: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Schnittstellenkarte mit Zuständigkeits- und Nachweisfragen."
 ---
 
 # Verl-043 · Verlegerrecht: Historisch und heutige Grenzen

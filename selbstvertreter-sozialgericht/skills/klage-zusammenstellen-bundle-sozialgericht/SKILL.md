@@ -1,6 +1,6 @@
 ---
 name: klage-zusammenstellen-bundle-sozialgericht
-description: "Wenn es um Die Klage als komplettes Paket zusammenstellen in selbstvertreter-sozialgericht geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
+description: "Für Die Klage als komplettes Paket zusammenstellen: erstellt Entwurf mit Antrag, Beweis und Anlagen; Ergebnis: Schriftsatz mit Begründungs- und Anlagenlogik."
 ---
 
 # Die Klage als komplettes Paket zusammenstellen

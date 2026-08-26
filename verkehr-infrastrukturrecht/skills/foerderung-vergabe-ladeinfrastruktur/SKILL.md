@@ -1,6 +1,6 @@
 ---
 name: foerderung-vergabe-ladeinfrastruktur
-description: "Wenn es um Foerderrecht und Vergabe — Verkehrsinfrastruktur in Verkehrs- und Infrastrukturrecht geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
+description: "Für Förderrecht und Vergabe — Verkehrsinfrastruktur: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Foerderrecht und Vergabe — Verkehrsinfrastruktur

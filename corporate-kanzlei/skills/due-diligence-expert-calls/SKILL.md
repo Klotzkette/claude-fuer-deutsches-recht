@@ -1,6 +1,6 @@
 ---
 name: due-diligence-expert-calls
-description: "Wenn es um Due Diligence Reporting in Corporate-Kanzlei geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. Auswahlstichwort: Due Diligence Expert Calls; Arbeitsfeld: Corporate-Kanzlei."
+description: "Für Due Diligence Reporting: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt. Fachgebiet: Corporate-Kanzlei. Route: due-diligence-expert-calls."
 ---
 
 # Due Diligence Reporting

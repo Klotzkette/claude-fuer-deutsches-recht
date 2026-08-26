@@ -1,6 +1,6 @@
 ---
 name: aeussere-form-und-briefkopf
-description: "Wenn es um Aeussere Form und Briefkopf pruefen in Arbeitszeugnispruefer geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
+description: "Für Äußere Form und Briefkopf prüfen: erstellt Entwurf mit Antrag, Beweis und Anlagen; Ergebnis: Schriftsatz mit Begründungs- und Anlagenlogik."
 ---
 
 # Aeussere Form und Briefkopf pruefen

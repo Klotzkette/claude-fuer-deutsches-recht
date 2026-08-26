@@ -1,6 +1,6 @@
 ---
 name: wirtschaftspruefer-interessenkollision-beratung-und-pruefung-or
-description: "Wenn es um Wirtschaftspruefer Interessenkollision Beratung Und Prüfung Or in Berufsrecht Wirtschaftsprüfer geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Wirtschaftsprüfer Interessenkollision Beratung und Prüfung Or: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Tatbestands- oder Anspruchsmatrix."
 ---
 
 # Wirtschaftsprüfer: interessenkollision beratung und pruefung - Organisationspflichten, Prävention, Team-Anweisung und Fristenkontrolle

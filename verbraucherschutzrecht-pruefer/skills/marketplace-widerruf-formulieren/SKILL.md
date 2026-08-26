@@ -1,6 +1,6 @@
 ---
 name: marketplace-widerruf-formulieren
-description: "Wenn es um Marketplace Widerruf Formulieren in Verbraucherschutzrecht Prüfer geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Marketplace Widerruf Formulieren: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Marketplace Widerruf Formulieren

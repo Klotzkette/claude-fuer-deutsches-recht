@@ -1,6 +1,6 @@
 ---
 name: grundbegriffe-und-rechtsquellen
-description: "Wenn es um Grundbegriffe und Rechtsquellen in Denkmalschutzrecht — Bundesweiter Rahmen und sechzehn geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen."
+description: "Für Grundbegriffe und Rechtsquellen: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Grundbegriffe und Rechtsquellen

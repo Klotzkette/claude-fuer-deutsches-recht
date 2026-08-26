@@ -1,6 +1,6 @@
 ---
 name: lph8-bauueberwachung-hochhaus-statik-fassade
-description: "Wenn es um Bauueberwachung Hochhaus Statik und Fassade (LPH 8) in HOAI Leistungsphasen Praxis geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Bauüberwachung Hochhaus Statik und Fassade (LPH 8): ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Bauueberwachung Hochhaus Statik und Fassade (LPH 8)

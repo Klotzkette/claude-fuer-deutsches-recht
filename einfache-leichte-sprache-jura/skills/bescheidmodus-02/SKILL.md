@@ -1,6 +1,6 @@
 ---
 name: bescheidmodus-02
-description: "Wenn es um ELS-J: Bescheidmodus in Einfache und Leichte Sprache für juristische Texte geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. Auswahlstichwort: Bescheidmodus 02; Arbeitsfeld: Einfache und Leichte Sprache für juristische Texte."
+description: "Für ELS-J: Bescheidmodus: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt. Fachgebiet: Einfache und Leichte Sprache für juristische Texte. Route: bescheidmodus-02."
 ---
 
 # ELS-J: Bescheidmodus

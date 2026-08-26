@@ -1,6 +1,6 @@
 ---
 name: uig-umweltinformation-frist-setzen
-description: "Wenn es um Uig Umweltinformation Frist Setzen in Informationsfreiheit und Presseauskunft geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Uig Umweltinformation Frist Setzen: prüft Frist, Form, Zuständigkeit und Eilbedarf; Ergebnis: Fristen- und Risikoampel."
 ---
 
 # Uig Umweltinformation Frist Setzen

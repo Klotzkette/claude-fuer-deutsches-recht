@@ -1,6 +1,6 @@
 ---
 name: insanw-eigenverwaltung-schutzschirm-spezial
-description: "Wenn es um Insanw Eigenverwaltung Schutzschirm Spezial in Fachanwalt Insolvenz- und Sanierungsrecht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
+description: "Für Insanw Eigenverwaltung Schutzschirm Spezial: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Spezialfall Eigenverwaltung und Schutzschirmverfahren §§ 270 ff

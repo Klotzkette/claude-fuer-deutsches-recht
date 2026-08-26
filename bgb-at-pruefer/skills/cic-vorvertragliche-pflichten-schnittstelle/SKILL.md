@@ -1,6 +1,6 @@
 ---
 name: cic-vorvertragliche-pflichten-schnittstelle
-description: "Wenn es um Culpa in contrahendo — Vorvertragliche Pflichten Paragrafen 280 und 311 BGB in BGB AT Prüfer geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Culpa in contrahendo — Vorvertragliche Pflichten Paragrafen 280 und 311 BGB: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Culpa in contrahendo — Vorvertragliche Pflichten §§ 280 und 311 BGB

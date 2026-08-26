@@ -1,6 +1,6 @@
 ---
 name: religioese-weltanschauliche-gruende
-description: "Wenn es um Religiöse und weltanschauliche Gründe in Kriegsdienstverweigerung und Wehrdienst geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Religiöse und weltanschauliche Gründe: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Religiöse und weltanschauliche Gründe

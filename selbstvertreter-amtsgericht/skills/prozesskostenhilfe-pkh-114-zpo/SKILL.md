@@ -1,6 +1,6 @@
 ---
 name: prozesskostenhilfe-pkh-114-zpo
-description: "Wenn es um Prozesskostenhilfe (PKH): Klage trotz Geldknappheit in selbstvertreter-amtsgericht geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
+description: "Für Prozesskostenhilfe (PKH): Klage trotz Geldknappheit: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Prozesskostenhilfe (PKH): Klage trotz Geldknappheit

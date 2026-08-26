@@ -1,6 +1,6 @@
 ---
 name: mandatsperspektive-quellenkarte
-description: "Wenn es um Mandatsperspektive Quellenkarte in Normenkontrolle Bauleitplanung — Paragraf 47 VwGO geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Tatbestands- oder Anspruchsmatrix mit Gegenargumenten."
+description: "Für Mandatsperspektive Quellenkarte: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Mandatsperspektive Quellenkarte

@@ -1,6 +1,6 @@
 ---
 name: on-prem-lizenzvertrag
-description: "Wenn es um On-Premise-Lizenzvertrag in Softwarerecht Deutschland/EU/International/USA geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für On-Premise-Lizenzvertrag: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # On-Premise-Lizenzvertrag

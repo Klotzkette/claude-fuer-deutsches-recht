@@ -1,6 +1,6 @@
 ---
 name: legal-tech-mandatskuendigung-unzeit
-description: "Wenn es um Legal Tech Mandatskuendigung Unzeit in Berufsrecht Anwälte geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Legal Tech Mandatskündigung Unzeit: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Anwälte: legal tech rdg grenze - Organisationspflichten, Prävention, Team-Anweisung und Fristenkontrolle

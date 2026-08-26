@@ -1,6 +1,6 @@
 ---
 name: zwitterrecht-historisch
-description: "Wenn es um Pralr Zwitterrecht Historisch Medizinisch Rechtsfolgen in Preußisches Allgemeines Landrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Pralr Zwitterrecht Historisch Medizinisch Rechtsfolgen: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Pralr Zwitterrecht Historisch Medizinisch Rechtsfolgen

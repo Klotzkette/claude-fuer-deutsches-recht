@@ -1,6 +1,6 @@
 ---
 name: entwicklungsplan-learning-budget
-description: "Wenn es um Entwicklungsplan Learning Budget in Start-up-HR-Personalabteilung Berlin geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Entwicklungsplan Learning Budget: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Entwicklungsplan Learning Budget

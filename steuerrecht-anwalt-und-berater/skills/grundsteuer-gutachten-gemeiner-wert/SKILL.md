@@ -1,6 +1,6 @@
 ---
 name: grundsteuer-gutachten-gemeiner-wert
-description: "Wenn es um Grundsteuer: Gemeiner Wert und Gutachtenstrategie in Steuerrecht – Steuerberater und Anwälte geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Beweislast- und Substantiierungsmatrix."
+description: "Für Grundsteuer: Gemeiner Wert und Gutachtenstrategie: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Schnittstellenkarte mit Zuständigkeits- und Nachweisfragen."
 ---
 
 # Grundsteuer: Gemeiner Wert und Gutachtenstrategie

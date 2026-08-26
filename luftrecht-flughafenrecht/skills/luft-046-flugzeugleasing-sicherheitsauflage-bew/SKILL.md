@@ -1,6 +1,6 @@
 ---
 name: luft-046-flugzeugleasing-sicherheitsauflage-bew
-description: "Wenn es um Flugzeugleasing Sicherheitsauflage Bew in Luftrecht und Flughafenrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Flugzeugleasing Sicherheitsauflage Bew: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Schnittstellenkarte mit Zuständigkeits- und Nachweisfragen."
 ---
 
 # Flugzeugleasing Sicherheitsauflage Bew

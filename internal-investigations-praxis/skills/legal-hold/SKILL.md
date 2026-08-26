@@ -1,6 +1,6 @@
 ---
 name: legal-hold
-description: "Wenn es um Legal Hold in Internal Investigations Praxis geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Beweislast- und Substantiierungsmatrix."
+description: "Für Legal Hold: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt. Fachgebiet: Internal Investigations Praxis."
 ---
 
 # Legal Hold

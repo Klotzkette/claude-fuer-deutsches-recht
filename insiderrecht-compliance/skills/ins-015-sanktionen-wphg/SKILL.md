@@ -1,6 +1,6 @@
 ---
 name: ins-015-sanktionen-wphg
-description: "Wenn es um Sanktionen und Verteidigung in Insiderrecht Compliance geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Verhandlungs- oder Eskalationslinie mit Optionen."
+description: "Für Sanktionen und Verteidigung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Sanktionen und Verteidigung

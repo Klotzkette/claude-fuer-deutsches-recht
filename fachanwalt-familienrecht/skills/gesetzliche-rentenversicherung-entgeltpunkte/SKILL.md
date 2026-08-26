@@ -1,6 +1,6 @@
 ---
 name: gesetzliche-rentenversicherung-entgeltpunkte
-description: "Wenn es um Gesetzliche Rentenversicherung Entgeltpunkte in Fachanwalt Familienrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Gesetzliche Rentenversicherung Entgeltpunkte: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Gesetzliche Rentenversicherung Entgeltpunkte: prüft die einschlägigen Voraussetzungen, Dokumente, Risiken und Ausnahmen

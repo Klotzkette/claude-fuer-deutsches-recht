@@ -1,6 +1,6 @@
 ---
 name: krankenhausreform-leistungsgruppen
-description: "Wenn es um Krankenhausreform Leistungsgruppen Routing in Krankenhausrecht geht: klärt Rolle, Ziel, Frist, Unterlagen und den passenden nächsten Fachskill; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
+description: "Für Krankenhausreform Leistungsgruppen Routing: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Krankenhausreform Leistungsgruppen Routing

@@ -1,6 +1,6 @@
 ---
 name: aussenwirtschaft-swiss-sanctions-touchpoint
-description: "Wenn es um Schweizer Sanktionen als Touchpoint: EmbG und SECO-Listen im EU-Mandat in Außenwirtschaft, Sanktionen, Zoll und CBAM geht: entwickelt Verhandlungsziel, Vergleichskorridor und Eskalationspfad; liefert eine Verhandlungs- oder Eskalationslinie mit Optionen."
+description: "Für Schweizer Sanktionen als Touchpoint: EmbG und SECO-Listen im EU-Mandat: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Schweizer Sanktionen als Touchpoint: EmbG und SECO-Listen im EU-Mandat

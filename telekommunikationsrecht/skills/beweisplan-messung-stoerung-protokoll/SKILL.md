@@ -1,6 +1,6 @@
 ---
 name: beweisplan-messung-stoerung-protokoll
-description: "Wenn es um Beweisplan: Messung, Störung, Protokoll in Telekommunikationsrecht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Beweislast- und Substantiierungsmatrix."
+description: "Für Beweisplan: Messung, Störung, Protokoll: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Beweislast- und Substantiierungsmatrix."
 ---
 
 # Beweisplan: Messung, Störung, Protokoll

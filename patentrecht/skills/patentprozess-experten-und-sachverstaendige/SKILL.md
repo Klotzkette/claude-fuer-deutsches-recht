@@ -1,6 +1,6 @@
 ---
 name: patentprozess-experten-und-sachverstaendige
-description: "Wenn es um Patentprozess: Experten und Sachverständige in patentrecht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
+description: "Für Patentprozess: Experten und Sachverständige: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Patentprozess: Experten und Sachverständige

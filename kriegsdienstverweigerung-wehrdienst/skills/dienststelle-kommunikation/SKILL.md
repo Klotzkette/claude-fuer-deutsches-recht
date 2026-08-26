@@ -1,6 +1,6 @@
 ---
 name: dienststelle-kommunikation
-description: "Wenn es um Kommunikation mit Dienststelle in Kriegsdienstverweigerung und Wehrdienst geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Kommunikation mit Dienststelle: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Kommunikation mit Dienststelle

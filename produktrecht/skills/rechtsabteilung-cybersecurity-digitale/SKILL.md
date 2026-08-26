@@ -1,6 +1,6 @@
 ---
 name: rechtsabteilung-cybersecurity-digitale
-description: "Wenn es um Rechtsabteilung: Cybersecurity als Produktsicherheitsmerkmal in Produkthaftung und Produktrecht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
+description: "Für Rechtsabteilung: Cybersecurity als Produktsicherheitsmerkmal: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Rechtsabteilung: Cybersecurity als Produktsicherheitsmerkmal

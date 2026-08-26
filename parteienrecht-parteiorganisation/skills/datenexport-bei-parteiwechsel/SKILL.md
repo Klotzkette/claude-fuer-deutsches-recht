@@ -1,6 +1,6 @@
 ---
 name: datenexport-bei-parteiwechsel
-description: "Wenn es um Daten und Parteiwechsel in Parteienrecht und Parteiorganisation geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Daten und Parteiwechsel: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Daten und Parteiwechsel

@@ -1,6 +1,6 @@
 ---
 name: geringfuegigkeit-minijob
-description: "Wenn es um Geringfügigkeit und Minijob in Sozialversicherungsstatus-Prüfer / DRV-Statusfeststellung geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Geringfügigkeit und Minijob: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Geringfügigkeit und Minijob

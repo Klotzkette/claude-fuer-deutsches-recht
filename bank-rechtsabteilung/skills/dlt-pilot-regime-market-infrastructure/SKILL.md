@@ -1,6 +1,6 @@
 ---
 name: dlt-pilot-regime-market-infrastructure
-description: "Wenn es um DLT Pilot Regime in Bank-Rechtsabteilung geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen."
+description: "Für DLT Pilot Regime: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # DLT Pilot Regime

@@ -1,6 +1,6 @@
 ---
 name: dsgvo-auskunft
-description: "Wenn es um DSGVO-Auskunftsrecht (Art. 15 DSGVO) in Datenschutzrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für DSGVO-Auskunftsrecht (Art. 15 DSGVO): ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # DSGVO-Auskunftsrecht (Art. 15 DSGVO)

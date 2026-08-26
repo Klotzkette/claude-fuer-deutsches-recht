@@ -1,6 +1,6 @@
 ---
 name: retouren-reklamationen
-description: "Wenn es um Retouren und Reklamationen — Auswirkungen auf die Provision nach Paragraf 87a HGB in Handelsvertreterrecht und Vertriebsverträge geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Retouren und Reklamationen — Auswirkungen auf die Provision nach Paragraf 87a HGB: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Retouren und Reklamationen — Auswirkungen auf die Provision nach § 87a HGB

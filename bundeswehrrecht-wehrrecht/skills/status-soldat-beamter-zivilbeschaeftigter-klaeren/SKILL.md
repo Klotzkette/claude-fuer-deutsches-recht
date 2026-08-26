@@ -1,6 +1,6 @@
 ---
 name: status-soldat-beamter-zivilbeschaeftigter-klaeren
-description: "Wenn es um Status klären: Soldat, Beamter oder Zivilbeschäftigter in Bundeswehrrecht und Wehrrecht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
+description: "Für Status klären: Soldat, Beamter oder Zivilbeschäftigter: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Status klären: Soldat, Beamter oder Zivilbeschäftigter

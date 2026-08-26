@@ -1,6 +1,6 @@
 ---
 name: urheberrecht-markenrecht
-description: "Wenn es um IP-Strafanzeige Urheber/Marke/Design in Strafanzeige-Vorbereiter geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
+description: "Für IP-Strafanzeige Urheber/Marke/Design: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # IP-Strafanzeige Urheber/Marke/Design

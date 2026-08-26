@@ -1,6 +1,6 @@
 ---
 name: vollmacht-und-anmeldung-oeffentliche-beglaubigung
-description: "Wenn es um Anmeldung und Vollmacht formfest machen in Handelsregister Praxis geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Anmeldung und Vollmacht formfest machen: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Anmeldung und Vollmacht formfest machen

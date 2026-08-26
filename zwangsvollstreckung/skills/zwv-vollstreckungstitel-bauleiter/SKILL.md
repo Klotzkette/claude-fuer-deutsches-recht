@@ -1,6 +1,6 @@
 ---
 name: zwv-vollstreckungstitel-bauleiter
-description: "Wenn es um ZwV: Vollstreckungstitel Bauleiter in Zwangsvollstreckung geht: entwickelt Verhandlungsziel, Vergleichskorridor und Eskalationspfad; liefert eine Verhandlungs- oder Eskalationslinie mit Optionen."
+description: "Für ZwV: Vollstreckungstitel Bauleiter: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # ZwV: Vollstreckungstitel Bauleiter

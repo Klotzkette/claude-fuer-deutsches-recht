@@ -1,6 +1,6 @@
 ---
 name: geschgehg-haeusliche
-description: "Wenn es um GeschGehG Paragraf 23 Strafanzeige in Strafanzeige-Vorbereiter geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
+description: "Für GeschGehG Paragraf 23 Strafanzeige: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Schnittstellenkarte mit Zuständigkeits- und Nachweisfragen."
 ---
 
 # GeschGehG § 23 Strafanzeige

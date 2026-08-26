@@ -1,6 +1,6 @@
 ---
 name: kfw-foerderung-pflegekasse-bafa-barriere
-description: "Wenn es um KfW, Pflegekasse und BAFA: Förderung für Barrierefreiheits-Maßnahmen koordinieren in WEG- und Hausverwaltung geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen."
+description: "Für KfW, Pflegekasse und BAFA: Förderung für Barrierefreiheits-Maßnahmen koordinieren: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # KfW, Pflegekasse und BAFA: Förderung für Barrierefreiheits-Maßnahmen koordinieren

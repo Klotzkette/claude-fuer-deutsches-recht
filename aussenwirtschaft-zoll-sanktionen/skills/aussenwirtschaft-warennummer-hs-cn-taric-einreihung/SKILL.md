@@ -1,6 +1,6 @@
 ---
 name: aussenwirtschaft-warennummer-hs-cn-taric-einreihung
-description: "Wenn es um Wareneinreihung HS/KN/TARIC: Allgemeine Vorschriften und Problemfelder in Außenwirtschaft, Sanktionen, Zoll und CBAM geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Wareneinreihung HS/KN/TARIC: Allgemeine Vorschriften und Problemfelder: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Wareneinreihung HS/KN/TARIC: Allgemeine Vorschriften und Problemfelder

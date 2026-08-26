@@ -1,6 +1,6 @@
 ---
 name: ihl-055-anti-corruption-fcpa-ukba
-description: "Wenn es um Anti Corruption Fcpa Ukba in Internationales Handelsrecht und Lex Mercatoria geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Anti Corruption Fcpa Ukba: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Anti Corruption Fcpa Ukba

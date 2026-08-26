@@ -1,6 +1,6 @@
 ---
 name: cannabis-akteneinsicht-vorbereiten
-description: "Wenn es um Cannabis Akteneinsicht Vorbereiten in Betäubungsmittelrecht geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen."
+description: "Für Cannabis Akteneinsicht Vorbereiten: ordnet Akte, Belege und Lücken; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Cannabis Akteneinsicht Vorbereiten

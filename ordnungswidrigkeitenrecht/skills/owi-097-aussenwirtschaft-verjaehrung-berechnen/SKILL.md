@@ -1,6 +1,6 @@
 ---
 name: owi-097-aussenwirtschaft-verjaehrung-berechnen
-description: "Wenn es um Aussenwirtschaft Verjaehrung Berechnen in Ordnungswidrigkeitenrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Außenwirtschaft Verjährung Berechnen: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt. Fachgebiet: Ordnungswidrigkeitenrecht. Route: owi-097-aussenwirtschaft-verjaehrung-berechnen."
 ---
 
 # Aussenwirtschaft Verjaehrung Berechnen

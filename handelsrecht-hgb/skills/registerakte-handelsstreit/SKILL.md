@@ -1,6 +1,6 @@
 ---
 name: registerakte-handelsstreit
-description: "Wenn es um Registerakte und Lückenliste in Handelsrecht HGB geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert einen Einreichungsplan mit Form-, Portal- und Nachweischeck."
+description: "Für Registerakte und Lückenliste: ordnet Akte, Belege und Lücken; Ergebnis: Einreichungsplan mit Form- und Nachweischeck."
 ---
 
 # Registerakte und Lückenliste

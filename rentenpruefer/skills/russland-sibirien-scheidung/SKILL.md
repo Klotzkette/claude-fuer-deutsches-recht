@@ -1,6 +1,6 @@
 ---
 name: russland-sibirien-scheidung
-description: "Wenn es um russland-sibirien-zeiten-und-frg in Rentenprüfer geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Beweislast- und Substantiierungsmatrix."
+description: "Für russland-sibirien-zeiten-und-frg: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # russland-sibirien-zeiten-und-frg

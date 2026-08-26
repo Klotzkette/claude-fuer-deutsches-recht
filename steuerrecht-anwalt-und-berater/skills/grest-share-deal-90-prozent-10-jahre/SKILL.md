@@ -1,6 +1,6 @@
 ---
 name: grest-share-deal-90-prozent-10-jahre
-description: "Wenn es um GrESt: Share Deal, 90 % und 10 Jahre in Steuerrecht – Steuerberater und Anwälte geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für GrESt: Share Deal, 90 % und 10 Jahre: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # GrESt: Share Deal, 90 % und 10 Jahre

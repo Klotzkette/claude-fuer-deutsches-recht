@@ -1,6 +1,6 @@
 ---
 name: car-t-haftung-klinik
-description: "Wenn es um Car T Haftung Klinik in Fachanwalt Medizinrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Car T Haftung Klinik: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # CAR-T-Behandlung: Klinikhaftung: moderner Medizinrechts-Skill für CAR-T-Aufklärung, Zytokinfreisetzung, Neurotoxizität, Patientenselektion und Klinikorganisation

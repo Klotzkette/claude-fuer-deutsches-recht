@@ -1,6 +1,6 @@
 ---
 name: spezial-pflichtverteidigung-livequellen-und-rechtsprechungscheck
-description: "Wenn es um Pflichtverteidigung: Livequellen- und Rechtsprechungscheck in Strafbefehl-Verteidiger geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Pflichtverteidigung: Livequellen- und Rechtsprechungscheck: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Pflichtverteidigung: Livequellen- und Rechtsprechungscheck

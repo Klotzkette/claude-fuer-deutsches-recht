@@ -1,6 +1,6 @@
 ---
 name: eisenbahn-digital-services-trusted-flagger
-description: "Wenn es um Transparenzberichte nach DSA: Art. 15. 24. 42 in Bundesnetzagentur-Verfahren geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
+description: "Für Transparenzberichte nach DSA: Art. 15. 24. 42: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Transparenzberichte nach DSA: Art. 15, 24, 42

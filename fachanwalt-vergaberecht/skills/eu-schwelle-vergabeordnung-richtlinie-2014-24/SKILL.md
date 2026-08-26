@@ -1,6 +1,6 @@
 ---
 name: eu-schwelle-vergabeordnung-richtlinie-2014-24
-description: "Berechnet den vergaberechtlichen Auftragswert und prüft Schwellenwert, Losbildung und unzulässige Aufteilung. Liefert Stichtags- und Rechenblatt, Beschaffungszusammenhang, Verfahrenswahl, Dokumentationsvermerk sowie Rüge- oder Verteidigungskern."
+description: "Berechnet den vergaberechtlichen Auftragswert und prüft Schwellenwert, Losbildung und unzulässige Aufteilung."
 ---
 
 # 1. Auftragswert und EU-Schwelle

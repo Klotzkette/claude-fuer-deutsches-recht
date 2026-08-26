@@ -1,6 +1,6 @@
 ---
 name: patr-software-pr-einfuehrung
-description: "Wenn es um PatR: Software digitale Werkzeuge Patentierbarkeit in patentrecherche geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für PatR: Software digitale Werkzeuge Patentierbarkeit: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # PatR: Software KI Patentierbarkeit

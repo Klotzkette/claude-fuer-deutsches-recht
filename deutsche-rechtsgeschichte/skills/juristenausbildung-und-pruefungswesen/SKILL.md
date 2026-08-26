@@ -1,6 +1,6 @@
 ---
 name: juristenausbildung-und-pruefungswesen
-description: "Wenn es um Juristenausbildung und Prüfungswesen in Deutsche Rechtsgeschichte geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Juristenausbildung und Prüfungswesen: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Tatbestands- oder Anspruchsmatrix. Fachgebiet: Deutsche Rechtsgeschichte. Route: juristenausbildung-und-pruefungswesen."
 ---
 
 # Juristenausbildung und Prüfungswesen

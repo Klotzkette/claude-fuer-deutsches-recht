@@ -1,6 +1,6 @@
 ---
 name: unterhalt-selbstaendige-einkommensaufklaerung
-description: "Wenn es um Unterhalt Selbstaendige Einkommensaufklaerung in Fachanwalt Familienrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Unterhalt Selbständige Einkommensaufklärung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Unterhalt bei Selbstständigen: Einkommensermittlung, Privatentnahmen, Steuerbescheid, BWA, Wohnvorteil und fiktives Einkommen.

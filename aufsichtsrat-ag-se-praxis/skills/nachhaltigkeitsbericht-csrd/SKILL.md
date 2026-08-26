@@ -1,6 +1,6 @@
 ---
 name: nachhaltigkeitsbericht-csrd
-description: "Wenn es um Nachhaltigkeitsbericht Csrd in AG/SE-Aufsichtsrat Praxis geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
+description: "Für Nachhaltigkeitsbericht Csrd: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Nachhaltigkeitsbericht Csrd

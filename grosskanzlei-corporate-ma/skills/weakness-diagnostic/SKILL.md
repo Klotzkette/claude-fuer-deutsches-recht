@@ -1,6 +1,6 @@
 ---
 name: weakness-diagnostic
-description: "Wenn es um Weakness Diagnostic Coach in Großkanzlei Corporate/M&A geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt. Auswahlstichwort: Weakness Diagnostic; Arbeitsfeld: Großkanzlei Corporate/M&A."
+description: "Für Weakness Diagnostic Coach: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt. Fachgebiet: Großkanzlei Corporate/M&A. Route: weakness-diagnostic."
 ---
 
 # Weakness Diagnostic Coach

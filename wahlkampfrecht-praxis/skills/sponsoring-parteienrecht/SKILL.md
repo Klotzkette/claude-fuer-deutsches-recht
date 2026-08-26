@@ -1,6 +1,6 @@
 ---
 name: sponsoring-parteienrecht
-description: "Wenn es um Sponsoring Parteienrecht in Wahlkampfrecht Praxis geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Sponsoring Parteienrecht: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Sponsoring Parteienrecht

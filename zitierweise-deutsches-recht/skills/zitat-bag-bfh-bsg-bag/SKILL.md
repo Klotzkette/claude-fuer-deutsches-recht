@@ -1,6 +1,6 @@
 ---
 name: zitat-bag-bfh-bsg-bag
-description: "Wenn es um Fachgerichtsbarkeit zitieren in Zitierweise deutsches Recht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. Auswahlstichwort: Zitat Bag Bfh Bsg Bag; Arbeitsfeld: Zitierweise deutsches Recht."
+description: "Für Fachgerichtsbarkeit zitieren: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt. Fachgebiet: Zitierweise deutsches Recht. Route: zitat-bag-bfh-bsg-bag."
 ---
 
 # Fachgerichtsbarkeit zitieren

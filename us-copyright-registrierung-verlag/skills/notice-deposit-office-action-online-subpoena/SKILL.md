@@ -1,6 +1,6 @@
 ---
 name: notice-deposit-office-action-online-subpoena
-description: "Wenn es um Notice, Deposit und Registration Chapter 4 in US Copyright Act und Registrierung für deutsche Verlage geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
+description: "Für Notice, Deposit und Registration Chapter 4: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Notice, Deposit und Registration Chapter 4

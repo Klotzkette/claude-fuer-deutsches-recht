@@ -1,6 +1,6 @@
 ---
 name: data-act-bei-backup-export
-description: "Wenn es um Data Act und Zugang zu IoT-Daten — Verhältnis zum Datenbankherstellerrecht in Datenbankrecht und Datenbankherstellerrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Data Act und Zugang zu IoT-Daten — Verhältnis zum Datenbankherstellerrecht: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Data Act und Zugang zu IoT-Daten — Verhältnis zum Datenbankherstellerrecht

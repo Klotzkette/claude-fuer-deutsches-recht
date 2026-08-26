@@ -1,6 +1,6 @@
 ---
 name: heroin-akteneinsicht-vorbereiten
-description: "Wenn es um Heroin Akteneinsicht Vorbereiten in Betäubungsmittelrecht geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen."
+description: "Für Heroin Akteneinsicht Vorbereiten: ordnet Akte, Belege und Lücken; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Heroin Akteneinsicht Vorbereiten

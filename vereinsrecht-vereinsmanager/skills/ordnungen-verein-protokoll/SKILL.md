@@ -1,6 +1,6 @@
 ---
 name: ordnungen-verein-protokoll
-description: "Wenn es um Vereinsordnungen in Vereinsrecht und Vereinsmanager geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Vereinsordnungen: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Vereinsordnungen

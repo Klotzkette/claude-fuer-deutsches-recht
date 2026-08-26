@@ -1,6 +1,6 @@
 ---
 name: 08-starug-restrukturierungssache-anzeigen
-description: "Wenn es um 08 StaRUG Restrukturierungssache Anzeigen in Insolvenz- und Restrukturierungsgericht am Amtsgericht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für 08 StaRUG Restrukturierungssache Anzeigen: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # 08 StaRUG Restrukturierungssache Anzeigen

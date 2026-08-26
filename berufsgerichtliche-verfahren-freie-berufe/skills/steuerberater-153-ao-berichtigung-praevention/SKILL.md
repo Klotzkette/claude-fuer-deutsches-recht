@@ -1,6 +1,6 @@
 ---
 name: steuerberater-153-ao-berichtigung-praevention
-description: "Wenn es um Steuerberater Paragraf 153 AO Berichtigung: Präventions- und Organisationspaket in Berufsgerichtliche Verfahren Freie Berufe geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen."
+description: "Für Steuerberater Paragraf 153 AO Berichtigung: Präventions- und Organisationspaket: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Schnittstellenkarte mit Zuständigkeits- und Nachweisfragen."
 ---
 
 # Steuerberater § 153 AO Berichtigung: Präventions- und Organisationspaket

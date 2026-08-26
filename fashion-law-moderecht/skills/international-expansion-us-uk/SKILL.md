@@ -1,6 +1,6 @@
 ---
 name: international-expansion-us-uk
-description: "Wenn es um International Expansion Us Uk in fashion-law-moderecht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen."
+description: "Für International Expansion Us Uk: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Schnittstellenkarte mit Zuständigkeits- und Nachweisfragen."
 ---
 
 # International Expansion Us Uk

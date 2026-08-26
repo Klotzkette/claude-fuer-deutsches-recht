@@ -1,6 +1,6 @@
 ---
 name: anwaelte-versorgungswerk-arbeitslosigkeit
-description: "Wenn es um anwaelte-versorgungswerk-spezial in Rentenprüfer geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für anwaelte-versorgungswerk-spezial: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # anwaelte-versorgungswerk-spezial

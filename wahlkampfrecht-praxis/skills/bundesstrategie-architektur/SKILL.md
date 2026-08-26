@@ -1,6 +1,6 @@
 ---
 name: bundesstrategie-architektur
-description: "Wenn es um Bundesstrategie Architektur in Wahlkampfrecht Praxis geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Bundesstrategie Architektur: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Verhandlungs- oder Eskalationslinie."
 ---
 
 # Bundesstrategie Architektur

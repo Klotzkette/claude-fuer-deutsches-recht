@@ -1,6 +1,6 @@
 ---
 name: qualitaetsgate-leasingakte-lessons
-description: "Wenn es um Qualitätsgate: Leasingakte in Leasingrecht Praxis geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Gegenprüfung mit Fehler-, Beweis- und Fristencheck."
+description: "Für Qualitätsgate: Leasingakte: ordnet Akte, Belege und Lücken; Ergebnis: Gegenprüfung mit Beweis- und Fristencheck."
 ---
 
 # Qualitätsgate: Leasingakte

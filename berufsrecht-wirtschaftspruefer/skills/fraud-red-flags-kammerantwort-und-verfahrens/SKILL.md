@@ -1,6 +1,6 @@
 ---
 name: fraud-red-flags-kammerantwort-und-verfahrens
-description: "Wenn es um Fraud Red Flags Kammerantwort Und Verfahrens in Berufsrecht Wirtschaftsprüfer geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Verhandlungs- oder Eskalationslinie mit Optionen."
+description: "Für Fraud Red Flags Kammerantwort und Verfahrens: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Wirtschaftsprüfer: fraud red flags - Kammerantwort mit Verfahrensstrategie, Tonlage und Belegplan

@@ -1,6 +1,6 @@
 ---
 name: widerspruchsfrist-und-zustellung-sgb
-description: "Wenn es um Widerspruchsfrist Und Zustellung Sgb in Fachanwalt Sozialrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Widerspruchsfrist und Zustellung SGB: prüft Frist, Form, Zuständigkeit und Eilbedarf; Ergebnis: Fristen- und Risikoampel."
 ---
 
 # Anwalt muss bei eingehendem oder ausgehendem Bescheid klären ob und wann die Widerspruchsfrist laeuft und ob Zustellungsmaengel die Frist beeinflussen

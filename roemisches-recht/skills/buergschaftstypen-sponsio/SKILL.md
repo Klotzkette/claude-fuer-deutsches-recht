@@ -1,6 +1,6 @@
 ---
 name: buergschaftstypen-sponsio
-description: "Wenn es um Rom 134 Buergschaftstypen Sponsio Fidepromissio Fideiussio in Römisches Recht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. Auswahlstichwort: Buergschaftstypen Sponsio; Arbeitsfeld: Römisches Recht."
+description: "Für Rom 134 Bürgschaftstypen Sponsio Fidepromissio Fideiussio: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt. Fachgebiet: Römisches Recht. Route: buergschaftstypen-sponsio."
 ---
 
 # Rom 134 Buergschaftstypen Sponsio Fidepromissio Fideiussio

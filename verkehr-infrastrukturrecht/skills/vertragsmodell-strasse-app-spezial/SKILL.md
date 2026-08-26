@@ -1,6 +1,6 @@
 ---
 name: vertragsmodell-strasse-app-spezial
-description: "Wenn es um OePNV-App und Plattform in Verkehrs- und Infrastrukturrecht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
+description: "Für ÖPNV-App und Plattform: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # OePNV-App und Plattform

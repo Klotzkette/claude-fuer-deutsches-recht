@@ -1,6 +1,6 @@
 ---
 name: fernabsatzvertrag-312c-bgb
-description: "Wenn es um Fernabsatzvertrag Paragraf 312c BGB in E-Commerce-Recht geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
+description: "Für Fernabsatzvertrag Paragraf 312c BGB: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Fernabsatzvertrag § 312c BGB

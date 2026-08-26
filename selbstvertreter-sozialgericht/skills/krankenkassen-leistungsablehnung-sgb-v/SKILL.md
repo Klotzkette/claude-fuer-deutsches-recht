@@ -1,6 +1,6 @@
 ---
 name: krankenkassen-leistungsablehnung-sgb-v
-description: "Wenn es um Streit mit der Krankenkasse — SGB V in selbstvertreter-sozialgericht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Streit mit der Krankenkasse — SGB V: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Streit mit der Krankenkasse — SGB V

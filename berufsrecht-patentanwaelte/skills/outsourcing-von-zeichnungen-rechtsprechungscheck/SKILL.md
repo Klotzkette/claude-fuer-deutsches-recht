@@ -1,6 +1,6 @@
 ---
 name: outsourcing-von-zeichnungen-rechtsprechungscheck
-description: "Wenn es um Outsourcing Von Zeichnungen Rechtsprechungscheck in Berufsrecht Patentanwälte geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Gegenprüfung mit Fehler-, Beweis- und Fristencheck."
+description: "Für Outsourcing von Zeichnungen Rechtsprechungscheck: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Patentanwälte: outsourcing von zeichnungen - Rechtsprechungscheck, stärkste Gegenansicht und Red-Team-Korrektur

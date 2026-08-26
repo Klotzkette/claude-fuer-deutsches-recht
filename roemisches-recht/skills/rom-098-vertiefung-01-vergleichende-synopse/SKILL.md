@@ -1,6 +1,6 @@
 ---
 name: rom-098-vertiefung-01-vergleichende-synopse
-description: "Wenn es um Vertiefung 01 Vergleichende Synopse in Römisches Recht geht: entwickelt Verhandlungsziel, Vergleichskorridor und Eskalationspfad; liefert eine Verhandlungs- oder Eskalationslinie mit Optionen."
+description: "Für Vertiefung 01 Vergleichende Synopse: entwickelt Ziel, Vergleich und Eskalation; Ergebnis: Verhandlungs- oder Eskalationslinie."
 ---
 
 # Vertiefung 01 Vergleichende Synopse

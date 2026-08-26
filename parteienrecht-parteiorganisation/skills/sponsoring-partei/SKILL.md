@@ -1,6 +1,6 @@
 ---
 name: sponsoring-partei
-description: "Wenn es um Sponsoring und Veranstaltungen in Parteienrecht und Parteiorganisation geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Sponsoring und Veranstaltungen: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Sponsoring und Veranstaltungen

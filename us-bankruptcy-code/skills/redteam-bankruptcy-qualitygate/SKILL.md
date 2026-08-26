@@ -1,6 +1,6 @@
 ---
 name: redteam-bankruptcy-qualitygate
-description: "Wenn es um Bankruptcy Red-Team Qualitygate in US Bankruptcy Code geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Bankruptcy Red-Team Qualitygate: prüft Ergebnis, Beweislast und Gegenposition; Ergebnis: Gegenprüfung mit Beweis- und Fristencheck."
 ---
 
 # Bankruptcy Red-Team Qualitygate

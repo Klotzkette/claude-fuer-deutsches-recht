@@ -1,6 +1,6 @@
 ---
 name: restructuring-waiver-amend-extend
-description: "Wenn es um Amend & Extend und Restrukturierung in Private Equity Praxis geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Amend & Extend und Restrukturierung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Amend & Extend und Restrukturierung

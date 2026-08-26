@@ -1,6 +1,6 @@
 ---
 name: adhaesion-formular-portal-und-einreichung
-description: "Wenn es um Adhaesion: Formular, Portal und Einreichungslogik in Fachanwalt Strafrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Adhäsion: Formular, Portal und Einreichungslogik: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Einreichungsplan mit Form- und Nachweischeck."
 ---
 
 # Adhaesion: Formular, Portal und Einreichungslogik

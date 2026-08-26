@@ -1,6 +1,6 @@
 ---
 name: honorarstreit-und-unabhaengigkeit-organisati
-description: "Wenn es um Honorarstreit Und Unabhaengigkeit Organisati in Berufsrecht Wirtschaftsprüfer geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Honorarstreit und Unabhängigkeit Organisati: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Wirtschaftsprüfer: honorarstreit und unabhaengigkeit - Organisationspflichten, Prävention, Team-Anweisung und Fristenkontrolle

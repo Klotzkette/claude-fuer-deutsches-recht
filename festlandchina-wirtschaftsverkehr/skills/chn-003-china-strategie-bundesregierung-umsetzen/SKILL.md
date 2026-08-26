@@ -1,6 +1,6 @@
 ---
 name: chn-003-china-strategie-bundesregierung-umsetzen
-description: "Wenn es um China Strategie Bundesregierung Umsetzen in China-Wirtschaftsverkehr geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für China Strategie Bundesregierung Umsetzen: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Verhandlungs- oder Eskalationslinie."
 ---
 
 # China Strategie Bundesregierung Umsetzen

@@ -1,6 +1,6 @@
 ---
 name: kontenklaerung-drv
-description: "Wenn es um kontenklaerung-drv in Rentenprüfer geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
+description: "Für kontenklärung-DRV: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # kontenklaerung-drv

@@ -1,6 +1,6 @@
 ---
 name: kein-risiko-dokumentation
-description: "Wenn es um Kein-Risiko-Dokumentation nach Art. 33 Abs. 5 DSGVO in Datenschutzrecht geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
+description: "Für Kein-Risiko-Dokumentation nach Art. 33 Abs. 5 DSGVO: ordnet Akte, Belege und Lücken; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Kein-Risiko-Dokumentation nach Art. 33 Abs. 5 DSGVO
@@ -46,3 +46,7 @@ Art. 33 Abs. 5; Art. 5 Abs. 2 DSGVO; Erwägungsgrund 85.
 - `dsv-bussgeldverteidigung-art-83` und `dsv-schadensersatz-art-82` decken die anwaltliche Nachbearbeitung ab.
 
 - `dsv-interne-dokumentation-art-33-abs-5` deckt die Dokumentation auch für gemeldete Faelle ab.
+
+## Vertiefung bei Bedarf
+
+- Bei `dsv-kein-risiko-dokumentation` beziehungsweise Erstellt die interne Dokumentation eines Datenschutzvorfalls, der nicht an die Aufsichtsbehörde gemeldet wird, weil voraussichtlich kein Risiko für die Rechte und Freiheiten besteht: [die zusätzliche Vertiefung laden](./references/vertiefung-dsv-kein-risiko-dokumentation.md).

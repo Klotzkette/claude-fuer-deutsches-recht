@@ -1,6 +1,6 @@
 ---
 name: geldwaesche-bei-ip-transaktionen-rechtsprechungs
-description: "Wenn es um Geldwaesche Bei Ip Transaktionen Rechtsprechungs in Berufsrecht Patentanwälte geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Gegenprüfung mit Fehler-, Beweis- und Fristencheck."
+description: "Für Geldwäsche bei Ip Transaktionen Rechtsprechungs: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Patentanwälte: geldwaesche bei ip transaktionen - Rechtsprechungscheck, stärkste Gegenansicht und Red-Team-Korrektur

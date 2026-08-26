@@ -8,12 +8,12 @@ Diese Vollprüfung enthält top-8 von 162 Skills (gekürzt für das Arbeitsfenst
 
 1. **juristischer-argumentationskern** — Schaltet sich ein, wenn in Krankenkassenrecht Krankenversicherung ein juristisches Arbeitsprodukt tragfähig begründet we…
 2. **krankenkassenprozess-versandmappe-endfertigen** — Endfertigt sozialgerichtliche Leistungs-, Hilfsmittel-, Arzneimittel- und Krankengeldverfahren gegen Krankenkasse oder P…
-3. **kaltstart-triage** — Wenn es um Kaltstart Triage in Krankenkassenrecht und Krankenversicherung geht: klärt Rolle, Ziel, Frist, Unterlagen und…
-4. **reha-vor-rente-zustaendigkeit-krankenkasse-rentenversiche** — Wenn es um Reha vor Rente: Zuständigkeit Krankenkasse vs. Rentenversicherung in Krankenkassenrecht und Krankenversicheru…
-5. **kv-014-psychotherapie-kostenerstattung-systemversagen-akut** — Wenn es um Krankenversicherung: Psychotherapie Kostenerstattung Systemversagen und Akutbehandlung in Krankenkassenrecht …
-6. **kv-005-krankengeld-anspruch-au-blockfrist-nahtlosigkeit** — Wenn es um Krankenversicherung: Krankengeld Anspruch Arbeitsunfähigkeit Blockfrist Nahtlosigkeit in Krankenkassenrecht u…
-7. **kv-019-grenzgaenger-auslandskv-koordination** — Wenn es um Krankenversicherung: Grenzgänger Auslandskrankenversicherung und Koordinierungsrecht in Krankenkassenrecht un…
-8. **kv-001-kaltstart-krankenversicherung-bescheid-rechnung-und-frist** — Wenn es um Krankenversicherung: Kaltstart Krankenversicherung Bescheid Rechnung und Frist in Krankenkassenrecht und Kran…
+3. **kaltstart-triage** — Für Kaltstart Triage: routet Rolle, Frist, Unterlagen und Fachschritt; Ergebnis: Prüfprodukt mit Risiko und nächstem Sch…
+4. **kv-019-grenzgaenger-auslandskv-koordination** — Für Krankenversicherung: Grenzgänger Auslandskrankenversicherung und Koordinierungsrecht: ordnet Norm, Beweislast und Ge…
+5. **kv-030-pkv-beitragsanpassung-treuhaender-begruendung-verjaehrung** — Für Krankenversicherung: PKV Beitragsanpassung Treuhänder Begründung und Verjährung: ordnet Norm, Beweislast und Gegenar…
+6. **kv-004-beitragsschuld-saeumniszuschlag-und-ruhen-der-leistung** — Für Krankenversicherung: Beitragsschuld Säumniszuschlag und Ruhen der Leistung: ordnet Norm, Beweislast und Gegenargumen…
+7. **kv-010-reha-rente-zustaendigkeit-kasse-rente** — Für Krankenversicherung: Reha vor Rente Zuständigkeit Krankenkasse Rentenversicherung: prüft Frist, Form, Zuständigkeit …
+8. **kv-014-psychotherapie-kostenerstattung-systemversagen-akut** — Für Krankenversicherung: Psychotherapie Kostenerstattung Systemversagen und Akutbehandlung: ordnet Norm, Beweislast und …
 
 ---
 
@@ -138,7 +138,7 @@ Ausgangspunkt für dieses Plugin: Leistungsträger ermittelt von Amts wegen; Ver
 
 ## Skill: `krankenkassenprozess-versandmappe-endfertigen`
 
-_Endfertigt sozialgerichtliche Leistungs-, Hilfsmittel-, Arzneimittel- und Krankengeldverfahren gegen Krankenkasse oder Pflegekasse: liest Bescheidkette, MD-Gutachten, Verordnung, Befunde, Kostenangebot und Widerspruchsakte zuerst, prüft Antrag und Eilbedarf, ordnet medizinische Tatsachen zu und liefert geschützte Einzel-PDFs mit SGG-Form- und Eingangskontrolle._
+_Endfertigt sozialgerichtliche Leistungs-, Hilfsmittel-, Arzneimittel- und Krankengeldverfahren gegen Krankenkasse oder Pflegekasse: liest Bescheidkette, MD-Gutachten, Verordnung, Befunde, Kostenangebot und Widerspruchsakte zuerst, prüft Antrag und Eilbedarf, ordnet medizinische Tatsachen zu und liefert geschützte Einzel-PDFs mit SGG-Form- und._
 
 # Krankenkassenprozess-Versandmappe endfertigen
 
@@ -164,7 +164,7 @@ Liefere Schriftsatz, Bescheidkette, medizinische Tatbestandsmatrix, Einzelanlage
 
 ## Skill: `kaltstart-triage`
 
-_Wenn es um Kaltstart Triage in Krankenkassenrecht und Krankenversicherung geht: klärt Rolle, Ziel, Frist, Unterlagen und den passenden nächsten Fachskill; liefert eine Fristen- und Risikoampel mit Sofortschritten._
+_Für Kaltstart Triage: routet Rolle, Frist, Unterlagen und Fachschritt; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt. Fachgebiet: Krankenkassenrecht und Krankenversicherung._
 
 ## Direktstart: lesen, entscheiden, liefern
 
@@ -205,199 +205,9 @@ Tragende Anker: SGB V, VVG §§ 192 ff., MB/KK. Tatsächliche Fundstellen werden
 
 ---
 
-## Skill: `reha-vor-rente-zustaendigkeit-krankenkasse-rentenversiche`
-
-_Wenn es um Reha vor Rente: Zuständigkeit Krankenkasse vs. Rentenversicherung in Krankenkassenrecht und Krankenversicherung geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt._
-
-# Reha vor Rente: Zuständigkeit Krankenkasse vs. Rentenversicherung
-
-## Arbeitsweg
-
-- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
-- Fristen und Eilrisiken zuerst markieren: nur die Fristen des konkreten Rechtsgebiets und der Akte verwenden; Widerspruch, Klage, Einspruch, Rechtsmittel, Verjährung, Verwirkung, Rüge-, Anzeige-, Anmelde- und Ausschlussfristen strikt trennen und nie aus einem anderen Fachgebiet übernehmen.
-- Tragende Normen verifizieren: SGB V §§ 27, 39, 92, 109, 137, 295, 301, RisikoStruktAusglV, SGB IV, SGB X, SGG — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
-- Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
-- Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
-
-## Skill-Zweck
-
-Rehabilitation ist häufig Streitgegenstand: **Wer ist zuständig – Krankenkasse oder Rentenversicherung?** Kläre Zuständigkeitsabgrenzung, Nahtlosigkeit und die Folgen der falschen Antragstellung.
-
-## Rechtlicher Rahmen
-
-- **§ 40 SGB V** – Leistungen zur medizinischen Rehabilitation (GKV-Zuständigkeit)
-- **§§ 9–31 SGB VI** – Leistungen zur Teilhabe (Rentenversicherung, med. + berufliche Reha)
-- **§ 14 SGB IX** – Erstattungspflicht des erstangegangenen Trägers; Weiterleitung innerhalb 2 Wochen
-- **§ 15 SGB IX** – Selbstbeschaffung bei Versagen des Trägers
-- **§ 16 SGB VI** – „Reha vor Rente" (RvR): Versicherter muss Reha nicht ablehnen wenn Rentenversicherung fordert
-- **§ 51 SGB V** – GKV kann Versicherte bei drohender Erwerbsminderung auf Reha-Antrag verweisen
-- **SGB IX §§ 4, 6, 14, 15** – Leistungsrecht, Zuständigkeit, Erstattung
-- BSG B 1 KR 10/20 R (Reha-Zuständigkeit GKV vs. RV)
-
-## Zuständigkeitsmatrix
-
-| Leistungstyp | Primär zuständig | Sekundär/Nachrang |
-|--------------|-----------------|-------------------|
-| Med. Reha ohne RV-Bezug | Krankenkasse § 40 SGB V | – |
-| Med. Reha bei Erwerbsminderungsrisiko | Deutsche Rentenversicherung § 9 SGB VI | GKV subsidiär |
-| Berufliche Rehabilitation | Deutsche Rentenversicherung, Bundesagentur | Krankenkasse nicht zuständig |
-| Anschlussrehabilitation (AHB) | Rentenversicherung oder GKV je nach Zuweisung | Krankenhaus koordiniert |
-
-## Prüfprogramm
-
-### Schritt 1 – Zuständigkeit bestimmen
-- Hat der Versicherte ausreichende Wartezeit bei Rentenversicherung (15 Jahre) für § 9 SGB VI?
-- Besteht Erwerbsminderungsrisiko? (droht Erwerbsminderungsrente)
-- Wenn ja: Rentenversicherung primär zuständig → Antrag dort stellen
-
-### Schritt 2 – § 14 SGB IX: Erstangegangener Träger
-- Antrag bei falscher Stelle eingereicht: Träger muss innerhalb 2 Wochen weiterleiten
-- Wenn Weiterleitung versäumt: Erstangegangener Träger haftet und muss leisten
-- Wichtig: Versicherter stellt Antrag bei GKV, obwohl RV zuständig → GKV muss leisten und holt sich Geld von RV zurück
-
-### Schritt 3 – § 51 SGB V: GKV-Reha-Verweis
-- GKV kann verlangen, dass Versicherter Reha-Antrag bei RV stellt wenn Krankengeld-Anspruch erschöpft droht
-- Verweigert Versicherter: GKV kann Krankengeld einstellen
-- Reha-Antrag gilt als Rentenantrag! (§ 51 Abs. 3 SGB V) – darauf hinweisen
-
-### Schritt 4 – Selbstbeschaffung § 15 SGB IX
-- Träger verweigert oder verzögert Leistung rechtswidrig → Versicherter kann selbst beschaffen
-- Voraussetzung: Anspruch besteht, Versagen des Trägers, notfallmäßige Beschaffung
-- Erstattung: volle Kosten der gleichwertigen Leistung
-
-### Schritt 5 – Nahtlosigkeit Krankengeld-Reha
-- Übergang Krankengeld → Übergangsgeld (Reha) muss nahtlos sein
-- Übergangsgeld: 68 % / 75 % des Regelentgelts (§ 20 SGB VI)
-- Rentenversicherung muss Beginn der Reha-Leistung zeitnah koordinieren
-
-## Typische Fallen
-
-- **Reha-Antrag = Rentenantrag**: § 51 Abs. 3 SGB V; Versicherte werden oft nicht aufgeklärt.
-- **Anschlussrehabilitation verpasst**: AHB muss im Krankenhaus beantragt werden; nachträgliche Beantragung möglich, aber schwieriger.
-- **Berufliche Reha vergessen**: Nur medizinische Reha beantragt; berufliche Reha hätte Erwerbsfähigkeit erhalten.
-- **MDK-Verneinung der Reha-Notwendigkeit**: Gegengutachten des behandelnden Arztes; BSG-Maßstab: nicht Heilung, sondern Verbesserung der Teilhabe.
-
-## Output-Formate
-
-- Reha-Antrag (Muster DRV/GKV)
-- Zuständigkeitseinrede-Schreiben
-- § 51 SGB V-Widerspruch (Reha-Aufforderung)
-- Selbstbeschaffungs-Erstattungsantrag
-- Übergangsgeld-Berechnungsblatt
-
-## Quellen
-
-- [§ 40 SGB V – Medizinische Rehabilitation](https://www.gesetze-im-internet.de/sgb_5/__40.html)
-- [§ 14 SGB IX – Erstangegangener Träger](https://www.gesetze-im-internet.de/sgb_9_2018/__14.html)
-- [§ 9 SGB VI – Reha vor Rente](https://www.gesetze-im-internet.de/sgb_6/__9.html)
-- [§ 51 SGB V – Reha-Verweis](https://www.gesetze-im-internet.de/sgb_5/__51.html)
-- [Deutsche Rentenversicherung – Rehabilitation](https://www.deutsche-rentenversicherung.de)
-- [BSG Entscheidungssuche](https://www.bsg.bund.de/DE/Entscheidungen/entscheidungen_node.html)
-- [dejure.org SGB IX § 14](https://dejure.org/gesetze/SGB_IX/14.html)
-
----
-
-## Skill: `kv-014-psychotherapie-kostenerstattung-systemversagen-akut`
-
-_Wenn es um Krankenversicherung: Psychotherapie Kostenerstattung Systemversagen und Akutbehandlung in Krankenkassenrecht und Krankenversicherung geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten._
-
-# Krankenversicherung: Psychotherapie Kostenerstattung Systemversagen und Akutbehandlung
-
-## Aufgabe
-
-Dieser Skill bearbeitet **Psychotherapie Kostenerstattung Systemversagen und Akutbehandlung** im Bereich **Krankenversicherung**. Er soll nicht schematisch antworten, sondern zuerst die praktische Lage sortieren: Wer handelt, welche Unterlagen liegen vor, welche Frist läuft, welche Behörde oder Gegenpartei entscheidet und welches Ergebnis gebraucht wird.
-
-## Kaltstart in 6 Fragen
-
-1. Welche Rolle hat die Nutzerin: Mandant, Unternehmen, Behörde, Kanzlei, Gericht, Verlag, Betreiber, Investor oder Betroffene?
-2. Geht es um Prüfung, Entwurf, Verteidigung, Anmeldung, Register, Frist, Verhandlung, Compliance, Streit oder Dokumentation?
-3. Welche Dokumente liegen vor und welche fehlen: Vertrag, Bescheid, Registerauszug, Screenshot, E-Mail, Rechnung, Gutachten, Normtext, Protokoll?
-4. Welche Rechtsordnung, Branche, Epoche, Sprache oder technische Umgebung ist betroffen?
-5. Welche Entscheidung muss heute fallen und welche Punkte dürfen erst nach Live-Check beantwortet werden?
-6. Soll das Ergebnis als Ampel, Memo, Klausel, Antrag, Fristenplan, Behördenschreiben, Red-Team oder Dashboard kommen?
-
-## Prüfprogramm
-
-- Sachverhalt in Tatsachen, Annahmen, Wertungen und offene Beweisfragen zerlegen.
-- SGB V, SGB X, SGG, VVG und Tarifbedingungen trennen
-- Medizinische Notwendigkeit, Wirtschaftlichkeit und Beweis getrennt prüfen
-- GKV-Sachleistung und PKV-Kostenerstattung nicht vermischen
-- Frist und Rechtsweg sofort markieren
-- Zuständigkeit, Form, Frist, Beweislast, Vollzug und Rechtsbehelf immer getrennt ausgeben.
-- Bei historischen, internationalen oder technischen Begriffen erst übersetzen, dann rechtlich einordnen.
-- Keine Scheingenauigkeit: Wenn Quelle, Normstand oder Rechtsprechung fehlen, einen Live-Check als nächsten Schritt formulieren.
-
-## Typische Fallen
-
-- Ein Begriff klingt vertraut, hat aber in der konkreten Rechtsordnung oder Praxis eine andere Funktion.
-- Zuständigkeit, Form oder Zustellung wird übersehen, obwohl der materielle Punkt gut aussieht.
-- Eine Behauptung wird aus Modellwissen mit einer Fundstelle versehen. Das ist verboten; erst prüfen, dann zitieren.
-- Der Output ist juristisch richtig, hilft aber der Nutzerin operativ nicht. Deshalb immer nächste Handlung und Dokumentationsspur liefern.
-
-## Output
-
-- Bescheidanalyse
-- Widerspruch
-- Eilantrag
-- PKV-Leistungsbrief
-- Befundanforderung
-- Fristenplan
-- Laienerklärung
-
----
-
-## Skill: `kv-005-krankengeld-anspruch-au-blockfrist-nahtlosigkeit`
-
-_Wenn es um Krankenversicherung: Krankengeld Anspruch Arbeitsunfähigkeit Blockfrist Nahtlosigkeit in Krankenkassenrecht und Krankenversicherung geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten._
-
-# Krankenversicherung: Krankengeld Anspruch Arbeitsunfähigkeit Blockfrist Nahtlosigkeit
-
-## Aufgabe
-
-Dieser Skill bearbeitet **Krankengeld Anspruch Arbeitsunfähigkeit Blockfrist Nahtlosigkeit** im Bereich **Krankenversicherung**. Er soll nicht schematisch antworten, sondern zuerst die praktische Lage sortieren: Wer handelt, welche Unterlagen liegen vor, welche Frist läuft, welche Behörde oder Gegenpartei entscheidet und welches Ergebnis gebraucht wird.
-
-## Kaltstart in 6 Fragen
-
-1. Welche Rolle hat die Nutzerin: Mandant, Unternehmen, Behörde, Kanzlei, Gericht, Verlag, Betreiber, Investor oder Betroffene?
-2. Geht es um Prüfung, Entwurf, Verteidigung, Anmeldung, Register, Frist, Verhandlung, Compliance, Streit oder Dokumentation?
-3. Welche Dokumente liegen vor und welche fehlen: Vertrag, Bescheid, Registerauszug, Screenshot, E-Mail, Rechnung, Gutachten, Normtext, Protokoll?
-4. Welche Rechtsordnung, Branche, Epoche, Sprache oder technische Umgebung ist betroffen?
-5. Welche Entscheidung muss heute fallen und welche Punkte dürfen erst nach Live-Check beantwortet werden?
-6. Soll das Ergebnis als Ampel, Memo, Klausel, Antrag, Fristenplan, Behördenschreiben, Red-Team oder Dashboard kommen?
-
-## Prüfprogramm
-
-- Sachverhalt in Tatsachen, Annahmen, Wertungen und offene Beweisfragen zerlegen.
-- SGB V, SGB X, SGG, VVG und Tarifbedingungen trennen
-- Medizinische Notwendigkeit, Wirtschaftlichkeit und Beweis getrennt prüfen
-- GKV-Sachleistung und PKV-Kostenerstattung nicht vermischen
-- Frist und Rechtsweg sofort markieren
-- Zuständigkeit, Form, Frist, Beweislast, Vollzug und Rechtsbehelf immer getrennt ausgeben.
-- Bei historischen, internationalen oder technischen Begriffen erst übersetzen, dann rechtlich einordnen.
-- Keine Scheingenauigkeit: Wenn Quelle, Normstand oder Rechtsprechung fehlen, einen Live-Check als nächsten Schritt formulieren.
-
-## Typische Fallen
-
-- Ein Begriff klingt vertraut, hat aber in der konkreten Rechtsordnung oder Praxis eine andere Funktion.
-- Zuständigkeit, Form oder Zustellung wird übersehen, obwohl der materielle Punkt gut aussieht.
-- Eine Behauptung wird aus Modellwissen mit einer Fundstelle versehen. Das ist verboten; erst prüfen, dann zitieren.
-- Der Output ist juristisch richtig, hilft aber der Nutzerin operativ nicht. Deshalb immer nächste Handlung und Dokumentationsspur liefern.
-
-## Output
-
-- Bescheidanalyse
-- Widerspruch
-- Eilantrag
-- PKV-Leistungsbrief
-- Befundanforderung
-- Fristenplan
-- Laienerklärung
-
----
-
 ## Skill: `kv-019-grenzgaenger-auslandskv-koordination`
 
-_Wenn es um Krankenversicherung: Grenzgänger Auslandskrankenversicherung und Koordinierungsrecht in Krankenkassenrecht und Krankenversicherung geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten._
+_Für Krankenversicherung: Grenzgänger Auslandskrankenversicherung und Koordinierungsrecht: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Schnittstellenkarte mit Zuständigkeits- und Nachweisfragen._
 
 # Krankenversicherung: Grenzgänger Auslandskrankenversicherung und Koordinierungsrecht
 
@@ -444,15 +254,15 @@ Dieser Skill bearbeitet **Grenzgänger Auslandskrankenversicherung und Koordinie
 
 ---
 
-## Skill: `kv-001-kaltstart-krankenversicherung-bescheid-rechnung-und-frist`
+## Skill: `kv-030-pkv-beitragsanpassung-treuhaender-begruendung-verjaehrung`
 
-_Wenn es um Krankenversicherung: Kaltstart Krankenversicherung Bescheid Rechnung und Frist in Krankenkassenrecht und Krankenversicherung geht: klärt Rolle, Ziel, Frist, Unterlagen und den passenden nächsten Fachskill; liefert eine Fristen- und Risikoampel mit Sofortschritten._
+_Für Krankenversicherung: PKV Beitragsanpassung Treuhänder Begründung und Verjährung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Schnittstellenkarte mit Zuständigkeits- und Nachweisfragen._
 
-# Krankenversicherung: Kaltstart Krankenversicherung Bescheid Rechnung und Frist
+# Krankenversicherung: PKV Beitragsanpassung Treuhänder Begründung und Verjährung
 
 ## Aufgabe
 
-Dieser Skill bearbeitet **Kaltstart Krankenversicherung Bescheid Rechnung und Frist** im Bereich **Krankenversicherung**. Er soll nicht schematisch antworten, sondern zuerst die praktische Lage sortieren: Wer handelt, welche Unterlagen liegen vor, welche Frist läuft, welche Behörde oder Gegenpartei entscheidet und welches Ergebnis gebraucht wird.
+Dieser Skill bearbeitet **PKV Beitragsanpassung Treuhänder Begründung und Verjährung** im Bereich **Krankenversicherung**. Er soll nicht schematisch antworten, sondern zuerst die praktische Lage sortieren: Wer handelt, welche Unterlagen liegen vor, welche Frist läuft, welche Behörde oder Gegenpartei entscheidet und welches Ergebnis gebraucht wird.
 
 ## Kaltstart in 6 Fragen
 
@@ -491,13 +301,152 @@ Dieser Skill bearbeitet **Kaltstart Krankenversicherung Bescheid Rechnung und Fr
 - Fristenplan
 - Laienerklärung
 
-<!-- BEGIN ausformulierungspflicht (autogen) -->
-> **Ausformulierungspflicht und Formatstandard.** Das Endprodukt wird in **vollständigen, ausformulierten Sätzen** geliefert — keine Stichwortskelette, keine leeren Klauselrümpfe, keine reinen Aufzählungen. Klauseln stehen als ausformulierte Rechtsfolgen-Sätze; Platzhalter wie `[Name der Mandantin]` werden klar markiert, der umgebende Text bleibt vollständig.
->
-> **Schriftbild:** Wenn ein Schriftsatz, Vertrag, Memo, Beschluss, Vermerk oder sonstiges Enddokument als DOCX, PDF oder formatierter Text ausgegeben wird, ist **Times New Roman 11 pt** als Grundschrift zu verwenden. Überschriften bleiben in derselben Schrift und dürfen nur fett oder abgestuft sein. Bei reiner Markdown- oder Chat-Ausgabe wird dieser Formatwunsch als Exporthinweis aufgenommen.
->
-> **Nummerierung:** Gliederung ausschließlich dezimal (`1`, `1.1`, `1.1.1` und so weiter). Keine römischen Ziffern, keine Buchstaben- oder Mischgliederung.
-<!-- END ausformulierungspflicht (autogen) -->
+---
+
+## Skill: `kv-004-beitragsschuld-saeumniszuschlag-und-ruhen-der-leistung`
+
+_Für Krankenversicherung: Beitragsschuld Säumniszuschlag und Ruhen der Leistung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Schnittstellenkarte mit Zuständigkeits- und Nachweisfragen._
+
+# Krankenversicherung: Beitragsschuld Säumniszuschlag und Ruhen der Leistung
+
+## Aufgabe
+
+Dieser Skill bearbeitet **Beitragsschuld Säumniszuschlag und Ruhen der Leistung** im Bereich **Krankenversicherung**. Er soll nicht schematisch antworten, sondern zuerst die praktische Lage sortieren: Wer handelt, welche Unterlagen liegen vor, welche Frist läuft, welche Behörde oder Gegenpartei entscheidet und welches Ergebnis gebraucht wird.
+
+## Kaltstart in 6 Fragen
+
+1. Welche Rolle hat die Nutzerin: Mandant, Unternehmen, Behörde, Kanzlei, Gericht, Verlag, Betreiber, Investor oder Betroffene?
+2. Geht es um Prüfung, Entwurf, Verteidigung, Anmeldung, Register, Frist, Verhandlung, Compliance, Streit oder Dokumentation?
+3. Welche Dokumente liegen vor und welche fehlen: Vertrag, Bescheid, Registerauszug, Screenshot, E-Mail, Rechnung, Gutachten, Normtext, Protokoll?
+4. Welche Rechtsordnung, Branche, Epoche, Sprache oder technische Umgebung ist betroffen?
+5. Welche Entscheidung muss heute fallen und welche Punkte dürfen erst nach Live-Check beantwortet werden?
+6. Soll das Ergebnis als Ampel, Memo, Klausel, Antrag, Fristenplan, Behördenschreiben, Red-Team oder Dashboard kommen?
+
+## Prüfprogramm
+
+- Sachverhalt in Tatsachen, Annahmen, Wertungen und offene Beweisfragen zerlegen.
+- SGB V, SGB X, SGG, VVG und Tarifbedingungen trennen
+- Medizinische Notwendigkeit, Wirtschaftlichkeit und Beweis getrennt prüfen
+- GKV-Sachleistung und PKV-Kostenerstattung nicht vermischen
+- Frist und Rechtsweg sofort markieren
+- Zuständigkeit, Form, Frist, Beweislast, Vollzug und Rechtsbehelf immer getrennt ausgeben.
+- Bei historischen, internationalen oder technischen Begriffen erst übersetzen, dann rechtlich einordnen.
+- Keine Scheingenauigkeit: Wenn Quelle, Normstand oder Rechtsprechung fehlen, einen Live-Check als nächsten Schritt formulieren.
+
+## Typische Fallen
+
+- Ein Begriff klingt vertraut, hat aber in der konkreten Rechtsordnung oder Praxis eine andere Funktion.
+- Zuständigkeit, Form oder Zustellung wird übersehen, obwohl der materielle Punkt gut aussieht.
+- Eine Behauptung wird aus Modellwissen mit einer Fundstelle versehen. Das ist verboten; erst prüfen, dann zitieren.
+- Der Output ist juristisch richtig, hilft aber der Nutzerin operativ nicht. Deshalb immer nächste Handlung und Dokumentationsspur liefern.
+
+## Output
+
+- Bescheidanalyse
+- Widerspruch
+- Eilantrag
+- PKV-Leistungsbrief
+- Befundanforderung
+- Fristenplan
+- Laienerklärung
+
+---
+
+## Skill: `kv-010-reha-rente-zustaendigkeit-kasse-rente`
+
+_Für Krankenversicherung: Reha vor Rente Zuständigkeit Krankenkasse Rentenversicherung: prüft Frist, Form, Zuständigkeit und Eilbedarf; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt._
+
+# Krankenversicherung: Reha vor Rente Zuständigkeit Krankenkasse Rentenversicherung
+
+## Aufgabe
+
+Dieser Skill bearbeitet **Reha vor Rente Zuständigkeit Krankenkasse Rentenversicherung** im Bereich **Krankenversicherung**. Er soll nicht schematisch antworten, sondern zuerst die praktische Lage sortieren: Wer handelt, welche Unterlagen liegen vor, welche Frist läuft, welche Behörde oder Gegenpartei entscheidet und welches Ergebnis gebraucht wird.
+
+## Kaltstart in 6 Fragen
+
+1. Welche Rolle hat die Nutzerin: Mandant, Unternehmen, Behörde, Kanzlei, Gericht, Verlag, Betreiber, Investor oder Betroffene?
+2. Geht es um Prüfung, Entwurf, Verteidigung, Anmeldung, Register, Frist, Verhandlung, Compliance, Streit oder Dokumentation?
+3. Welche Dokumente liegen vor und welche fehlen: Vertrag, Bescheid, Registerauszug, Screenshot, E-Mail, Rechnung, Gutachten, Normtext, Protokoll?
+4. Welche Rechtsordnung, Branche, Epoche, Sprache oder technische Umgebung ist betroffen?
+5. Welche Entscheidung muss heute fallen und welche Punkte dürfen erst nach Live-Check beantwortet werden?
+6. Soll das Ergebnis als Ampel, Memo, Klausel, Antrag, Fristenplan, Behördenschreiben, Red-Team oder Dashboard kommen?
+
+## Prüfprogramm
+
+- Sachverhalt in Tatsachen, Annahmen, Wertungen und offene Beweisfragen zerlegen.
+- SGB V, SGB X, SGG, VVG und Tarifbedingungen trennen
+- Medizinische Notwendigkeit, Wirtschaftlichkeit und Beweis getrennt prüfen
+- GKV-Sachleistung und PKV-Kostenerstattung nicht vermischen
+- Frist und Rechtsweg sofort markieren
+- Zuständigkeit, Form, Frist, Beweislast, Vollzug und Rechtsbehelf immer getrennt ausgeben.
+- Bei historischen, internationalen oder technischen Begriffen erst übersetzen, dann rechtlich einordnen.
+- Keine Scheingenauigkeit: Wenn Quelle, Normstand oder Rechtsprechung fehlen, einen Live-Check als nächsten Schritt formulieren.
+
+## Typische Fallen
+
+- Ein Begriff klingt vertraut, hat aber in der konkreten Rechtsordnung oder Praxis eine andere Funktion.
+- Zuständigkeit, Form oder Zustellung wird übersehen, obwohl der materielle Punkt gut aussieht.
+- Eine Behauptung wird aus Modellwissen mit einer Fundstelle versehen. Das ist verboten; erst prüfen, dann zitieren.
+- Der Output ist juristisch richtig, hilft aber der Nutzerin operativ nicht. Deshalb immer nächste Handlung und Dokumentationsspur liefern.
+
+## Output
+
+- Bescheidanalyse
+- Widerspruch
+- Eilantrag
+- PKV-Leistungsbrief
+- Befundanforderung
+- Fristenplan
+- Laienerklärung
+
+---
+
+## Skill: `kv-014-psychotherapie-kostenerstattung-systemversagen-akut`
+
+_Für Krankenversicherung: Psychotherapie Kostenerstattung Systemversagen und Akutbehandlung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt._
+
+# Krankenversicherung: Psychotherapie Kostenerstattung Systemversagen und Akutbehandlung
+
+## Aufgabe
+
+Dieser Skill bearbeitet **Psychotherapie Kostenerstattung Systemversagen und Akutbehandlung** im Bereich **Krankenversicherung**. Er soll nicht schematisch antworten, sondern zuerst die praktische Lage sortieren: Wer handelt, welche Unterlagen liegen vor, welche Frist läuft, welche Behörde oder Gegenpartei entscheidet und welches Ergebnis gebraucht wird.
+
+## Kaltstart in 6 Fragen
+
+1. Welche Rolle hat die Nutzerin: Mandant, Unternehmen, Behörde, Kanzlei, Gericht, Verlag, Betreiber, Investor oder Betroffene?
+2. Geht es um Prüfung, Entwurf, Verteidigung, Anmeldung, Register, Frist, Verhandlung, Compliance, Streit oder Dokumentation?
+3. Welche Dokumente liegen vor und welche fehlen: Vertrag, Bescheid, Registerauszug, Screenshot, E-Mail, Rechnung, Gutachten, Normtext, Protokoll?
+4. Welche Rechtsordnung, Branche, Epoche, Sprache oder technische Umgebung ist betroffen?
+5. Welche Entscheidung muss heute fallen und welche Punkte dürfen erst nach Live-Check beantwortet werden?
+6. Soll das Ergebnis als Ampel, Memo, Klausel, Antrag, Fristenplan, Behördenschreiben, Red-Team oder Dashboard kommen?
+
+## Prüfprogramm
+
+- Sachverhalt in Tatsachen, Annahmen, Wertungen und offene Beweisfragen zerlegen.
+- SGB V, SGB X, SGG, VVG und Tarifbedingungen trennen
+- Medizinische Notwendigkeit, Wirtschaftlichkeit und Beweis getrennt prüfen
+- GKV-Sachleistung und PKV-Kostenerstattung nicht vermischen
+- Frist und Rechtsweg sofort markieren
+- Zuständigkeit, Form, Frist, Beweislast, Vollzug und Rechtsbehelf immer getrennt ausgeben.
+- Bei historischen, internationalen oder technischen Begriffen erst übersetzen, dann rechtlich einordnen.
+- Keine Scheingenauigkeit: Wenn Quelle, Normstand oder Rechtsprechung fehlen, einen Live-Check als nächsten Schritt formulieren.
+
+## Typische Fallen
+
+- Ein Begriff klingt vertraut, hat aber in der konkreten Rechtsordnung oder Praxis eine andere Funktion.
+- Zuständigkeit, Form oder Zustellung wird übersehen, obwohl der materielle Punkt gut aussieht.
+- Eine Behauptung wird aus Modellwissen mit einer Fundstelle versehen. Das ist verboten; erst prüfen, dann zitieren.
+- Der Output ist juristisch richtig, hilft aber der Nutzerin operativ nicht. Deshalb immer nächste Handlung und Dokumentationsspur liefern.
+
+## Output
+
+- Bescheidanalyse
+- Widerspruch
+- Eilantrag
+- PKV-Leistungsbrief
+- Befundanforderung
+- Fristenplan
+- Laienerklärung
 
 ---
 

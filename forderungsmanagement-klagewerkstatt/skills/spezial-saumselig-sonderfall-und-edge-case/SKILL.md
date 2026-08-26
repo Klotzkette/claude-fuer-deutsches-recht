@@ -1,6 +1,6 @@
 ---
 name: spezial-saumselig-sonderfall-und-edge-case
-description: "Wenn es um Saumselig: Sonderfall und Edge-Case-Prüfung in Forderungsmanagement — Klagewerkstatt geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
+description: "Für Saumselig: Sonderfall und Edge-Case-Prüfung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Saumselig: Sonderfall und Edge-Case-Prüfung

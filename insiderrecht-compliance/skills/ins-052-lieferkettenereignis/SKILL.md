@@ -1,6 +1,6 @@
 ---
 name: ins-052-lieferkettenereignis
-description: "Wenn es um Insiderrecht: Lieferkettenereignis in Insiderrecht Compliance geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Beweislast- und Substantiierungsmatrix."
+description: "Für Insiderrecht: Lieferkettenereignis: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Insiderrecht: Lieferkettenereignis

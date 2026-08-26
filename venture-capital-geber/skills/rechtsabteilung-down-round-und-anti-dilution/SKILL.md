@@ -1,6 +1,6 @@
 ---
 name: rechtsabteilung-down-round-und-anti-dilution
-description: "Wenn es um Rechtsabteilung: Down Round und Anti-Dilution in Venture Capital Geber geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Chronologie mit Belegmatrix und Widerspruchsliste."
+description: "Für Rechtsabteilung: Down Round und Anti-Dilution: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Rechtsabteilung: Down Round und Anti-Dilution

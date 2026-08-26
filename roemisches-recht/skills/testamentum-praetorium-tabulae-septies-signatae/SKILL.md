@@ -1,6 +1,6 @@
 ---
 name: testamentum-praetorium-tabulae-septies-signatae
-description: "Wenn es um Rom 144 Testamentum Praetorium Tabulae Septies Signatae in Römisches Recht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. Auswahlstichwort: Testamentum Praetorium Tabulae Septies Signatae; Arbeitsfeld: Römisches Recht."
+description: "Für Rom 144 Testamentum Praetorium Tabulae Septies Signatae: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt. Fachgebiet: Römisches Recht. Route: testamentum-praetorium-tabulae-septies-signatae."
 ---
 
 # Rom 144 Testamentum Praetorium Tabulae Septies Signatae

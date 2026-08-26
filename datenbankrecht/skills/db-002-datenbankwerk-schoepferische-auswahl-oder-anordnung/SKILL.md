@@ -1,6 +1,6 @@
 ---
 name: db-002-datenbankwerk-schoepferische-auswahl-oder-anordnung
-description: "Wenn es um Datenbankrecht: Datenbankwerk schöpferische Auswahl oder Anordnung in Datenbankrecht und Datenbankherstellerrecht geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Datenbankrecht: Datenbankwerk schöpferische Auswahl oder Anordnung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Datenbankrecht: Datenbankwerk schöpferische Auswahl oder Anordnung

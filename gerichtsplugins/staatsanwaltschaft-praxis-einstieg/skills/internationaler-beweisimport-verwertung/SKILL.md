@@ -1,6 +1,6 @@
 ---
 name: internationaler-beweisimport-verwertung
-description: "Wenn es um Internationaler Beweisimport und Verwertung in Staatsanwaltschaft Praxis-Einstieg geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Beweislast- und Substantiierungsmatrix."
+description: "Für Internationaler Beweisimport und Verwertung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Beweislast- und Substantiierungsmatrix."
 ---
 
 # Internationaler Beweisimport und Verwertung

@@ -1,6 +1,6 @@
 ---
 name: anhoerung-richtig-behandeln
-description: "Wenn es um Anhörung Richtig Behandeln in Ordnungswidrigkeitenrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Anhörung Richtig Behandeln: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt. Fachgebiet: Ordnungswidrigkeitenrecht. Route: anhoerung-richtig-behandeln."
 ---
 
 # Anhörung Richtig Behandeln

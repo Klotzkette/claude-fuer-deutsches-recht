@@ -7,19 +7,19 @@ Diese Vollprüfung enthält alle 14 Skills des Plugins `richter-finanzgericht`.
 ## Inhaltsverzeichnis
 
 1. **juristischer-argumentationskern** — Schaltet sich ein, wenn in Richter Finanzgericht ein juristisches Arbeitsprodukt tragfähig begründet werden muss; verbin…
-2. **99-finale-entscheidung-volltext** — Wenn es um Finale Entscheidung als Volltext (Urteil Finanzgericht) in Finanzgericht geht: ordnet Sachverhalt, Norm, Bewe…
-3. **09-urteil-finanzgericht-und-revision** — Wenn es um 09 Urteil Finanzgericht und Revision in Finanzgericht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargume…
-4. **04-steuerbescheid-pruefen** — Wenn es um 04 Steuerbescheid Prüfen in Finanzgericht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und näch…
-5. **05-est-pruefungsschema** — Wenn es um 05 ESt Prüfungsschema in Finanzgericht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächste…
-6. **06-ust-pruefungsschema** — Wenn es um 06 USt Prüfungsschema in Finanzgericht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächste…
-7. **01-zulaessigkeit-finanzgerichtsklage** — Wenn es um 01 Zulässigkeit Finanzgerichtsklage in Finanzgericht geht: erstellt den passenden Entwurf aus Sachverhalt, No…
-8. **10-entscheidungsvorschlag-finanzgericht** — Wenn es um 10 Entscheidungsvorschlag Finanzgericht in Finanzgericht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenarg…
-9. **prozessuale-kniffe-und-rechtsprechungsanker** — Wenn es um Prozessuale Kniffe und Rechtsprechungsanker in Finanzgericht geht: prüft Frist, Form, Zuständigkeit, Rechtswe…
-10. **07-koerperschaft-und-gewerbesteuer** — Wenn es um 07 Körperschaft und Gewerbesteuer in Finanzgericht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofo…
-11. **08-schaetzung-und-betriebspruefung** — Wenn es um 08 Schaetzung und Betriebsprüfung in Finanzgericht geht: entwickelt Verhandlungsziel, Vergleichskorridor und …
-12. **v392-praxisraster-richter-finanzgericht** — Wenn es um Praxisraster Finanzgericht in Finanzgericht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nä…
-13. **03-aussetzung-der-vollziehung** — Wenn es um 03 Aussetzung Der Vollziehung in Finanzgericht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortma…
-14. **02-amtsermittlung-finanzgericht** — Wenn es um 02 Amtsermittlung Finanzgericht in Finanzgericht geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen…
+2. **prozessuale-kniffe-und-rechtsprechungsanker** — Für Prozessuale Kniffe und Rechtsprechungsanker: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Ri…
+3. **99-finale-entscheidung-volltext** — Für Finale Entscheidung als Volltext (Urteil Finanzgericht): ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfpr…
+4. **07-koerperschaft-und-gewerbesteuer** — Für 07 Körperschaft und Gewerbesteuer: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Schnittstellenkarte mit Zust…
+5. **01-zulaessigkeit-finanzgerichtsklage** — Für 01 Zulässigkeit Finanzgerichtsklage: erstellt Entwurf mit Antrag, Beweis und Anlagen; Ergebnis: Schriftsatz mit Begr…
+6. **04-steuerbescheid-pruefen** — Für 04 Steuerbescheid Prüfen: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Schnittstellenkarte mit Zuständigkeit…
+7. **10-entscheidungsvorschlag-finanzgericht** — Für 10 Entscheidungsvorschlag Finanzgericht: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko…
+8. **09-urteil-finanzgericht-und-revision** — Für 09 Urteil Finanzgericht und Revision: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko un…
+9. **02-amtsermittlung-finanzgericht** — Für 02 Amtsermittlung Finanzgericht: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und näc…
+10. **03-aussetzung-der-vollziehung** — Für 03 Aussetzung der Vollziehung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächs…
+11. **v392-praxisraster-richter-finanzgericht** — Für Praxisraster Finanzgericht: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem…
+12. **08-schaetzung-und-betriebspruefung** — Für 08 Schätzung und Betriebsprüfung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Tatbestands- oder Anspruchsma…
+13. **05-est-pruefungsschema** — Für 05 ESt Prüfungsschema: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Tatbestands- oder Anspruchsmatrix.
+14. **06-ust-pruefungsschema** — Für 06 USt Prüfungsschema: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Tatbestands- oder Anspruchsmatrix.
 
 ---
 
@@ -145,9 +145,72 @@ Dieser Skill trennt Steuerbescheid, Einspruchsentscheidung, Klagegrund, Mitwirku
 
 ---
 
+## Skill: `prozessuale-kniffe-und-rechtsprechungsanker`
+
+_Für Prozessuale Kniffe und Rechtsprechungsanker: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt. Fachgebiet: Finanzgericht._
+
+# Prozessuale Kniffe und Rechtsprechungsanker
+
+Nutze diesen Skill, wenn ein öffentlich-rechtliches Verfahren entscheidungsreif, eilrechtsschutzfest oder verhandlungsreif gemacht werden soll. Der Skill verbindet Amtsermittlung, Beteiligtenvortrag, Hinweismanagement und Tenor.
+
+## Leitanker
+
+- Paragraf 76 FGO, Paragraf 69 FGO und Paragraf 96 FGO: Amtsermittlung, Eilrechtsschutz und Beweiswürdigung als Grundgerüst.
+- Artikel 103 Absatz 1 GG: entscheidungserheblicher Vortrag muss zur Kenntnis genommen und erwogen werden.
+- Paragraf 60 FGO: notwendige Beiladung als frühes Stoppschild prüfen.
+- Paragraf 76 Absatz 2 FGO: richterliche Hinweise verhindern Überraschungen und klären Anträge.
+- BVerfG, 19.05.1992 - 1 BvR 986/91: keine unerwartete Entscheidungswendung ohne Gehör.
+
+## Verfahrenskniffe
+
+| Lage | Kniff | Fehlerbremse |
+| --- | --- | --- |
+| unklarer Antrag | Antrag auslegen und Hinweis erteilen | nicht am Rechtsschutzziel vorbeientscheiden |
+| Eilrechtsschutz | Anordnungsanspruch und Anordnungsgrund oder Suspensiveffekt trennen | Folgenabwägung sichtbar machen |
+| schwieriger Sachverhalt | Beweisthema und Amtsermittlung planen | keine pauschale Aktenübernahme |
+| Drittbetroffenheit | Beiladung früh prüfen | keine unvollständige Rechtskraft |
+| Ermessen | Ausfall, Fehlgebrauch, Überschreitung und Reduktion trennen | keine eigene Zweckmäßigkeit einsetzen |
+| AdV | Vollziehung, Fälligkeit und Stundung trennen | Aussetzung nicht als Stundung behandeln |
+
+## Arbeitsmodus
+
+1. Bestimme zuerst Entscheidungsreife, Zuständigkeit, Besetzung, Verfahrensart und den nächsten irreversiblen Schritt.
+2. Trenne Tatsachen, Norm, Beweis, Verfahrensrecht, Ermessen und Tenorfolge.
+3. Suche den prozessualen Hebel, der den Fall wirklich entscheidet: Hinweis, Beweisbeschluss, Auflage, Beiladung, Verbindung, Abtrennung, Einstellung, Beschluss oder Urteil.
+4. Formuliere jede Maßnahme so, dass sie aktenkundig, fristfest und rechtsmittelrobust ist.
+5. Baue am Ende eine Glanzkontrolle: Gehör, Begründung, Beweiswürdigung, Tenor, Nebenentscheidungen, Rechtsmittel.
+
+## Output-Matrix
+
+| Kniff | Normanker | Aktenbeleg | Risiko | Formulierung | nächster Schritt |
+| --- | --- | --- | --- | --- | --- |
+| Hinweis | | | Überraschung | | |
+| Beweis | | | Lücke | | |
+| Verfahrensleitung | | | Verzögerung | | |
+| Entscheidung | | | Rechtsmittel | | |
+
+## Tenoranker
+
+Der Tenor muss Rechtsschutzart, Verwaltungsakt oder Leistungsbegehren, Kosten und Vollstreckung eindeutig erfassen. Bei Eilentscheidungen werden Reichweite, Dauer und Vollzugsfolge gesondert formuliert.
+
+## Finanzgerichtliche Spezialweichen
+
+| Lage | Prüfkern | Fehlerbremse |
+| --- | --- | --- |
+| Aussetzung der Vollziehung | ernstliche Zweifel oder unbillige Härte, Sicherheitsleistung, Vollziehungsstand | AdV hemmt Vollziehung, ersetzt aber keine steuerliche Stundung |
+| Schätzung | Schätzungsbefugnis, Methode, Plausibilität und Sicherheitszuschlag | Schätzung darf nicht Strafcharakter bekommen |
+| Einspruchsentscheidung | Beschwer, Klagefrist, Änderungsnorm, Verböserung | Streitgegenstand nicht überdehnen |
+| Beweislast | objektive Feststellungslast und Mitwirkungspflichten | Auslandssachverhalt und Beweisnähe gesondert |
+
+## Beitrag zum Streitstoff in diesem Verfahren
+
+Dieser Skill trennt Steuerbescheid, Einspruchsentscheidung, Klagegrund, Mitwirkung, Schätzung, Beweisangebot und Entscheidungsreife. Er macht sichtbar, welche Tatsache aus Buchführung, Prüfungsbericht, Steuerakte oder Parteivortrag stammt und welche Aufklärungsanordnung nach FGO-Logik erforderlich bleibt.
+
+---
+
 ## Skill: `99-finale-entscheidung-volltext`
 
-_Wenn es um Finale Entscheidung als Volltext (Urteil Finanzgericht) in Finanzgericht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen._
+_Für Finale Entscheidung als Volltext (Urteil Finanzgericht): ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt._
 
 # Finale Entscheidung als Volltext (Urteil Finanzgericht)
 
@@ -253,15 +316,15 @@ Dieser Skill trennt Steuerbescheid, Einspruchsentscheidung, Klagegrund, Mitwirku
 
 ---
 
-## Skill: `09-urteil-finanzgericht-und-revision`
+## Skill: `07-koerperschaft-und-gewerbesteuer`
 
-_Wenn es um 09 Urteil Finanzgericht und Revision in Finanzgericht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen._
+_Für 07 Körperschaft und Gewerbesteuer: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Schnittstellenkarte mit Zuständigkeits- und Nachweisfragen._
 
-# 09 Urteil Finanzgericht und Revision
+# 07 Körperschaft und Gewerbesteuer
 
 ## Zweck
 
-Urteil Paragraf 105 FGO: Tatbestand, Entscheidungsgründe, Tenor; Revision Paragraf 115 FGO an BFH (grundsaetzliche Bedeutung, Fortbildung des Rechts, Divergenz), Nichtzulassungsbeschwerde
+Körperschaftsteuer: Subjektsteuerpflicht Paragraf 1 KStG, Einkommensermittlung Paragraf 8 KStG i.V.m. EStG, verdeckte Gewinnausschuettung Paragraf 8 Abs. 3; Gewerbesteuer Paragrafen 2 und 7-9 GewStG
 
 ## Rolle
 
@@ -288,203 +351,19 @@ Strukturierter Arbeitsstand: Prüfungspunkte, Zitate, offene Fragen, Vorschlag z
 
 ## Anker-Rechtsprechung
 
-- Paragrafen 96, 105 und 115 FGO: Überzeugungsbildung, Urteilsgründe und Revisionszulassung sind tragende Stationen des FG-Urteils.
-- Paragraf 100 FGO: Aufhebung, Änderung oder Verpflichtung zur Neubescheidung hängen von Spruchreife und Berechnungskompetenz ab.
-- Paragraf 119 FGO: Absolute Revisionsgründe sind bei Besetzung, Gehör und Begründungsmängeln mitzudenken.
-- Paragraf 135 FGO: Kostenentscheidung folgt dem Obsiegen und Unterliegen, aber auch Erledigung und Teilabhilfe sind sauber abzubilden.
-- Ständige Rechtsprechung des BFH zur Revisionszulassung: Grundsatzbedeutung, Divergenz und Verfahrensmangel müssen im Urteil konkret geprüft werden; konkrete Fundstelle vor produktiver Zitierung verifizieren.
-
-## Prüfungsschema in Stufen
-
-1. Urteil Finanzgericht und Revision: Einspruchsentscheidung, Klagefrist, Klagebefugnis, Vorverfahren und finanzgerichtliche Zuständigkeit zuerst prüfen.
-2. Amtsermittlung und Mitwirkungspflichten in ein konkretes Aufklärungsprogramm übersetzen.
-3. Streitige Besteuerungsgrundlagen tabellarisch nach Bescheid, Antrag, Finanzamtsauffassung und Klägervortrag ordnen.
-4. Revision oder Nichtzulassungsbeschwerde nur bei grundsätzlicher Bedeutung, Divergenz oder Verfahrensmangel vorbereiten.
-5. Urteil mit Tenor zur Bescheidänderung, Kosten und vorläufiger Vollstreckbarkeit fassen.
-
-## Typische Fallstricke
-
-- AdV wird wie Hauptsache entschieden, ohne ernstliche Zweifel oder unbillige Haerte zu trennen.
-- Schaetzung nach Paragraf 162 AO wird als Sanktion statt als Erkenntnismittel behandelt.
-- DBA wird faelschlich als steuerbegründende Norm verwendet.
-- Steuerakten enthalten geschuetzte Daten; Paragraf 353b StGB und Paragraf 43 DRiG sind zwingend zu beachten.
-
-## Tenor-Bausteine bzw. Beschluss-Bausteine
-
-### Baustein A
-
-```text
-Die Vollziehung des Bescheids vom [Datum] wird in Höhe von [Betrag] bis einen Monat nach Bekanntgabe der Einspruchsentscheidung ausgesetzt.
-```
-
-### Baustein B
-
-```text
-Das Finanzamt wird aufgefordert, die Steuerakten, Betriebsprüfungsarbeitsakten und die Berechnung zu [Streitpunkt] vollständig vorzulegen.
-```
-
-## Benachbarte Skills
-
-- **Davor**: `08-schaetzung-und-betriebspruefung` - Vorgelagerten Skill nutzen, wenn der Aktenstand noch nicht bis Urteil Finanzgericht und Revision trägt.
-- **Danach**: `10-entscheidungsvorschlag-finanzgericht` - Folgeskill nutzen, sobald Urteil Finanzgericht und Revision entscheidungs- oder verfügungsreif vorbereitet ist.
-
-## Gerichtliche Arbeitsprodukt-Schärfung
-
-- Rolle: Finanzgericht. Der Skill spricht aus der Binnenperspektive des Spruchkörpers und erzeugt Gerichtsbescheid, Urteil, AdV-Beschluss oder Hinweisverfügung; er ersetzt keine anwaltliche Strategie und keine Parteiberatung.
-- Pflichtstamm: Paragrafen 40, 69, 76, 96, 100 FGO und Paragrafen 164, 165, 173 AO. Normen werden im Ergebnis nur verwendet, wenn sie zum konkreten Aktenproblem passen; fehlende Spezialnormen werden als Prüfbedarf markiert.
-- Verfügungssprache: Jede Ausgabe endet mit einer konkreten Anschlussverfügung, etwa Anhörung, Fristsetzung, Hinweis, Beweisbeschluss, Terminierung, Abgabe, Vorlage oder Entscheidungsentwurf.
-- Stop-Kriterium: Sobald Aktengeheimnis, richterliche Unabhängigkeit, Geschäftsverteilung, Befangenheit, nicht geklärte Zuständigkeit oder ein unaufgeklärter Grundrechtseingriff berührt ist, wird nicht weiter simuliert, sondern eine Vorlage- oder Prüfverfügung formuliert.
-
-## Beitrag zum Streitstoff in diesem Verfahren
-
-Dieser Skill trennt Steuerbescheid, Einspruchsentscheidung, Klagegrund, Mitwirkung, Schätzung, Beweisangebot und Entscheidungsreife. Er macht sichtbar, welche Tatsache aus Buchführung, Prüfungsbericht, Steuerakte oder Parteivortrag stammt und welche Aufklärungsanordnung nach FGO-Logik erforderlich bleibt.
-
----
-
-## Skill: `04-steuerbescheid-pruefen`
-
-_Wenn es um 04 Steuerbescheid Prüfen in Finanzgericht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen._
-
-# 04 Steuerbescheid Prüfen
-
-## Zweck
-
-Prüfung des angegriffenen Steuerbescheids: formelle Rechtmaessigkeit (Begründung Paragraf 121 AO, Bekanntgabe Paragraf 122), materielle Prüfung der Steuerart
-
-## Rolle
-
-
-Werkstatt-Assistent für den Finanzrichter am Finanzgericht (Senat nach Paragraf 5 FGO, Einzelrichter nach Paragraf 6 FGO). Klage gegen Steuerbescheide, Aussetzung der Vollziehung, Vorlage an BFH oder EuGH. Amtsermittlungsgrundsatz.
-
-## Rechtsrahmen
-
-FGO, AO, EStG, KStG, GewStG, UStG, BewG, FVG, GKG, RVG
-
-## Pflichtschritte
-
-1. Zulässigkeit prüfen: abgeschlossenes Einspruchsverfahren und Klagefrist (Paragrafen 44 und 47 FGO).
-2. Antrag auf Aussetzung der Vollziehung (Paragraf 69 FGO) bei ernstlichen Zweifeln prüfen.
-3. Sachverhalt von Amts wegen aufklären (Paragraf 76 FGO); Schätzung (Paragraf 162 AO) auf Methode und Schlüssigkeit prüfen.
-4. Rechtmäßigkeit des Steuerbescheids und Rechtsverletzung des Klägers prüfen.
-5. Tenor und Kosten absetzen; Revisionszulassung (Paragraf 115 FGO) prüfen.
-6. Arbeitsstand als Vorschlag zur richterlichen Prüfung markieren; die Letztentscheidung trifft der Mensch.
-7. Quellen vollständig zitieren (Norm, Aktenzeichen, Datum) und Schwellenwerte sowie Fristen vor Verwendung verifizieren.
-
-## Output
-
-Strukturierter Arbeitsstand: Prüfungspunkte, Zitate, offene Fragen, Vorschlag zur Prüfung.
-
-<!-- BEGIN ausformulierungspflicht (autogen) -->
-> **Ausformulierungspflicht und Formatstandard.** Das Endprodukt wird in **vollständigen, ausformulierten Sätzen** geliefert — keine Stichwortskelette, keine leeren Klauselrümpfe, keine reinen Aufzählungen. Klauseln stehen als ausformulierte Rechtsfolgen-Sätze; Platzhalter wie `[Name der Mandantin]` werden klar markiert, der umgebende Text bleibt vollständig.
->
-> **Schriftbild:** Wenn ein Schriftsatz, Vertrag, Memo, Beschluss, Vermerk oder sonstiges Enddokument als DOCX, PDF oder formatierter Text ausgegeben wird, ist **Times New Roman 11 pt** als Grundschrift zu verwenden. Überschriften bleiben in derselben Schrift und dürfen nur fett oder abgestuft sein. Bei reiner Markdown- oder Chat-Ausgabe wird dieser Formatwunsch als Exporthinweis aufgenommen.
->
-> **Nummerierung:** Gliederung ausschließlich dezimal (`1`, `1.1`, `1.1.1` und so weiter). Keine römischen Ziffern, keine Buchstaben- oder Mischgliederung.
-<!-- END ausformulierungspflicht (autogen) -->
-
-## Anker-Rechtsprechung
-
-- Paragrafen 118, 119, 121 und 157 AO: Verwaltungsakt, Bestimmtheit, Begründung und Steuerfestsetzung tragen die Bescheidprüfung.
-- Paragrafen 169 bis 171 AO: Festsetzungsverjährung, Ablaufhemmung und Änderungssperren sind gesondert zu prüfen.
-- Paragrafen 172 bis 177 AO: Änderungsnorm, Vertrauensschutz und Saldierung bestimmen die Änderbarkeit.
-- Paragraf 68 FGO: Änderungsbescheid wird unter den gesetzlichen Voraussetzungen Gegenstand des Klageverfahrens.
-- Ständige Rechtsprechung des BFH zu Änderungsbescheiden: Ohne tragfähige Korrekturvorschrift bleibt ein materiell falscher Bescheid trotzdem bestandskräftig; konkrete Fundstelle vor produktiver Zitierung verifizieren.
-
-## Prüfungsschema in Stufen
-
-1. Steuerbescheid Prüfen: Steuerart, Streitjahr, Bescheidlage, Änderungsnorm und streitige Besteuerungsgrundlage zuerst festlegen.
-2. Tatbestandsmerkmale der materiellen Steuernorm mit Buchführung, Erklärung, Betriebsprüfung und Schätzung abgleichen.
-3. Feststellungslast, Mitwirkungspflichten, Auslandssachverhalte und Schätzungsbefugnis getrennt prüfen.
-4. DBA, Unionsrecht oder Missbrauchsnormen nur einziehen, wenn sie den nationalen Tatbestand tatsächlich begrenzen oder auslösen.
-5. Tenor mit Änderung des Bescheids, Neuberechnung durch das Finanzamt und Kostenentscheidung vorbereiten.
-
-## Typische Fallstricke
-
-- AdV wird wie Hauptsache entschieden, ohne ernstliche Zweifel oder unbillige Haerte zu trennen.
-- Schaetzung nach Paragraf 162 AO wird als Sanktion statt als Erkenntnismittel behandelt.
-- DBA wird faelschlich als steuerbegründende Norm verwendet.
-- Steuerakten enthalten geschuetzte Daten; Paragraf 353b StGB und Paragraf 43 DRiG sind zwingend zu beachten.
-
-## Tenor-Bausteine bzw. Beschluss-Bausteine
-
-### Baustein A
-
-```text
-Die Vollziehung des Bescheids vom [Datum] wird in Höhe von [Betrag] bis einen Monat nach Bekanntgabe der Einspruchsentscheidung ausgesetzt.
-```
-
-### Baustein B
-
-```text
-Das Finanzamt wird aufgefordert, die Steuerakten, Betriebsprüfungsarbeitsakten und die Berechnung zu [Streitpunkt] vollständig vorzulegen.
-```
-
-## Benachbarte Skills
-
-- **Davor**: `03-aussetzung-der-vollziehung` - Vorgelagerten Skill nutzen, wenn der Aktenstand noch nicht bis Steuerbescheid Prüfen trägt.
-- **Danach**: `05-est-pruefungsschema` - Folgeskill nutzen, sobald Steuerbescheid Prüfen entscheidungs- oder verfügungsreif vorbereitet ist.
-
-## Gerichtliche Arbeitsprodukt-Schärfung
-
-- Rolle: Finanzgericht. Der Skill spricht aus der Binnenperspektive des Spruchkörpers und erzeugt Gerichtsbescheid, Urteil, AdV-Beschluss oder Hinweisverfügung; er ersetzt keine anwaltliche Strategie und keine Parteiberatung.
-- Pflichtstamm: Paragrafen 40, 69, 76, 96, 100 FGO und Paragrafen 164, 165, 173 AO. Normen werden im Ergebnis nur verwendet, wenn sie zum konkreten Aktenproblem passen; fehlende Spezialnormen werden als Prüfbedarf markiert.
-- Verfügungssprache: Jede Ausgabe endet mit einer konkreten Anschlussverfügung, etwa Anhörung, Fristsetzung, Hinweis, Beweisbeschluss, Terminierung, Abgabe, Vorlage oder Entscheidungsentwurf.
-- Stop-Kriterium: Sobald Aktengeheimnis, richterliche Unabhängigkeit, Geschäftsverteilung, Befangenheit, nicht geklärte Zuständigkeit oder ein unaufgeklärter Grundrechtseingriff berührt ist, wird nicht weiter simuliert, sondern eine Vorlage- oder Prüfverfügung formuliert.
-
-## Beitrag zum Streitstoff in diesem Verfahren
-
-Dieser Skill trennt Steuerbescheid, Einspruchsentscheidung, Klagegrund, Mitwirkung, Schätzung, Beweisangebot und Entscheidungsreife. Er macht sichtbar, welche Tatsache aus Buchführung, Prüfungsbericht, Steuerakte oder Parteivortrag stammt und welche Aufklärungsanordnung nach FGO-Logik erforderlich bleibt.
-
----
-
-## Skill: `05-est-pruefungsschema`
-
-_Wenn es um 05 ESt Prüfungsschema in Finanzgericht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen._
-
-# 05 ESt Prüfungsschema
-
-## Zweck
-
-Einkommensteuer-Prüfung: Einkunftsart, Einkunftsermittlung (Paragrafen 4 und 5 EStG oder Paragraf 11 EStG), Sonderausgaben, außergewoehnliche Belastungen, Tarif Paragraf 32a EStG
-
-## Rolle
-
-
-Werkstatt-Assistent für den Finanzrichter am Finanzgericht (Senat nach Paragraf 5 FGO, Einzelrichter nach Paragraf 6 FGO). Klage gegen Steuerbescheide, Aussetzung der Vollziehung, Vorlage an BFH oder EuGH. Amtsermittlungsgrundsatz.
-
-## Rechtsrahmen
-
-FGO, AO, EStG, KStG, GewStG, UStG, BewG, FVG, GKG, RVG
-
-## Pflichtschritte
-
-1. Zulässigkeit prüfen: abgeschlossenes Einspruchsverfahren und Klagefrist (Paragrafen 44 und 47 FGO).
-2. Antrag auf Aussetzung der Vollziehung (Paragraf 69 FGO) bei ernstlichen Zweifeln prüfen.
-3. Sachverhalt von Amts wegen aufklären (Paragraf 76 FGO); Schätzung (Paragraf 162 AO) auf Methode und Schlüssigkeit prüfen.
-4. Rechtmäßigkeit des Steuerbescheids und Rechtsverletzung des Klägers prüfen.
-5. Tenor und Kosten absetzen; Revisionszulassung (Paragraf 115 FGO) prüfen.
-6. Arbeitsstand als Vorschlag zur richterlichen Prüfung markieren; die Letztentscheidung trifft der Mensch.
-7. Quellen vollständig zitieren (Norm, Aktenzeichen, Datum) und Schwellenwerte sowie Fristen vor Verwendung verifizieren.
-
-## Output
-
-Strukturierter Arbeitsstand: Prüfungspunkte, Zitate, offene Fragen, Vorschlag zur Prüfung.
-
-## Anker-Rechtsprechung
-
-- Paragrafen 2, 8, 9, 10, 19, 20 und 22 EStG: Einkunftsart, Einnahmen, Werbungskosten, Sonderausgaben und sonstige Einkünfte sind getrennte Stationen.
+- BFH, Urteil vom 15.03.2023 - I R 41/19, frei nachweisbar über BFH und dejure: Abweichendes Verhalten zwischen Kapitalgesellschaft und Gesellschafter indiziert bei Fremdvergleichsverstoß die gesellschaftliche Veranlassung einer verdeckten Gewinnausschüttung.
+- BFH, Urteil vom 11.11.2015 - I R 26/15, frei nachweisbar über dejure: Arbeitszeitkonten beherrschender Gesellschafter-Geschäftsführer sind am Fremdvergleich und an der Organstellung zu messen.
+- BVerfG, Beschluss vom 08.07.2021 - 1 BvR 2237/14 und 1 BvR 2422/17, BVerfGE 158, 282: Gesetzliche Verzinsung von Steuernachforderungen und Steuererstattungen muss realitätsgerecht und verhältnismäßig ausgestaltet sein.
 - BFH, Urteil vom 04.11.2021 - VI R 22/19, BStBl. II 2022, 562: Doppelbesteuerungsabkommen begründen grundsätzlich keine Steuerpflicht, sondern begrenzen oder verteilen nationale Besteuerung.
-- Paragraf 49 EStG: Beschränkte Steuerpflicht verlangt einen nationalen Inlandsanknüpfungstatbestand vor DBA-Begrenzung, soweit das Gesetz nicht ausdrücklich anders anknüpft.
-- Paragraf 162 AO: Schätzung darf Besteuerungsgrundlagen nur nachvollziehbar und methodisch plausibel ersetzen.
-- Ständige Rechtsprechung des BFH zu Werbungskosten: Veranlassungszusammenhang, objektiver Bezug und private Mitveranlassung sind konkret zu begründen; konkrete Fundstelle vor produktiver Zitierung verifizieren.
+- Ständige Rechtsprechung zu Paragraf 8 Abs. 3 Satz 2 KStG: Vorteilsgewährung, gesellschaftliche Veranlassung und außerbilanzielle Korrektur müssen getrennt begründet werden; konkrete Fundstelle vor produktiver Zitierung verifizieren.
 
 ## Prüfungsschema in Stufen
 
-1. ESt Prüfungsschema: Steuerart, Streitjahr, Bescheidlage, Änderungsnorm und streitige Besteuerungsgrundlage zuerst festlegen.
-2. Tatbestandsmerkmale der materiellen Steuernorm mit Buchführung, Erklärung, Betriebsprüfung und Schätzung abgleichen.
-3. Feststellungslast, Mitwirkungspflichten, Auslandssachverhalte und Schätzungsbefugnis getrennt prüfen.
-4. DBA, Unionsrecht oder Missbrauchsnormen nur einziehen, wenn sie den nationalen Tatbestand tatsächlich begrenzen oder auslösen.
-5. Tenor mit Änderung des Bescheids, Neuberechnung durch das Finanzamt und Kostenentscheidung vorbereiten.
+1. Körperschaftsteuerliche Subjektsteuerpflicht nach Paragraf 1 KStG und gewerbesteuerlichen Steuergegenstand nach Paragraf 2 GewStG getrennt feststellen.
+2. Streitige Einkommenskorrektur bestimmen: verdeckte Gewinnausschüttung, verdeckte Einlage, nicht abziehbare Betriebsausgabe, Hinzurechnung oder Kürzung.
+3. Bei verdeckter Gewinnausschüttung Vermögensminderung, Veranlassung durch das Gesellschaftsverhältnis, Fremdvergleich und außerbilanzielle Hinzurechnung sichtbar nacheinander prüfen.
+4. Gewerbesteuermessbetrag aus Gewinn, Hinzurechnungen nach Paragraf 8 GewStG, Kürzungen nach Paragraf 9 GewStG und Verlustvorträgen rechnerisch nachvollziehen.
+5. Tenor so fassen, dass Bescheidänderung, Neuberechnung durch das Finanzamt und Kostenentscheidung ohne zweite Sachprüfung vollziehbar sind.
 
 ## Typische Fallstricke
 
@@ -509,96 +388,8 @@ Das Finanzamt wird aufgefordert, die Steuerakten, Betriebsprüfungsarbeitsakten 
 
 ## Benachbarte Skills
 
-- **Davor**: `04-steuerbescheid-pruefen` - Vorgelagerten Skill nutzen, wenn der Aktenstand noch nicht bis ESt Prüfungsschema trägt.
-- **Danach**: `06-ust-pruefungsschema` - Folgeskill nutzen, sobald ESt Prüfungsschema entscheidungs- oder verfügungsreif vorbereitet ist.
-
-## Gerichtliche Arbeitsprodukt-Schärfung
-
-- Rolle: Finanzgericht. Der Skill spricht aus der Binnenperspektive des Spruchkörpers und erzeugt Gerichtsbescheid, Urteil, AdV-Beschluss oder Hinweisverfügung; er ersetzt keine anwaltliche Strategie und keine Parteiberatung.
-- Pflichtstamm: Paragrafen 40, 69, 76, 96, 100 FGO und Paragrafen 164, 165, 173 AO. Normen werden im Ergebnis nur verwendet, wenn sie zum konkreten Aktenproblem passen; fehlende Spezialnormen werden als Prüfbedarf markiert.
-- Verfügungssprache: Jede Ausgabe endet mit einer konkreten Anschlussverfügung, etwa Anhörung, Fristsetzung, Hinweis, Beweisbeschluss, Terminierung, Abgabe, Vorlage oder Entscheidungsentwurf.
-- Stop-Kriterium: Sobald Aktengeheimnis, richterliche Unabhängigkeit, Geschäftsverteilung, Befangenheit, nicht geklärte Zuständigkeit oder ein unaufgeklärter Grundrechtseingriff berührt ist, wird nicht weiter simuliert, sondern eine Vorlage- oder Prüfverfügung formuliert.
-
-## Beitrag zum Streitstoff in diesem Verfahren
-
-Dieser Skill trennt Steuerbescheid, Einspruchsentscheidung, Klagegrund, Mitwirkung, Schätzung, Beweisangebot und Entscheidungsreife. Er macht sichtbar, welche Tatsache aus Buchführung, Prüfungsbericht, Steuerakte oder Parteivortrag stammt und welche Aufklärungsanordnung nach FGO-Logik erforderlich bleibt.
-
----
-
-## Skill: `06-ust-pruefungsschema`
-
-_Wenn es um 06 USt Prüfungsschema in Finanzgericht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen._
-
-# 06 USt Prüfungsschema
-
-## Zweck
-
-Umsatzsteuer: Steuerbarkeit Paragraf 1 UStG, Steuerpflicht und Steuerbefreiung Paragraf 4, Bemessungsgrundlage Paragraf 10, Vorsteuerabzug Paragraf 15, Rechnungsanforderungen Paragraf 14
-
-## Rolle
-
-
-Werkstatt-Assistent für den Finanzrichter am Finanzgericht (Senat nach Paragraf 5 FGO, Einzelrichter nach Paragraf 6 FGO). Klage gegen Steuerbescheide, Aussetzung der Vollziehung, Vorlage an BFH oder EuGH. Amtsermittlungsgrundsatz.
-
-## Rechtsrahmen
-
-FGO, AO, EStG, KStG, GewStG, UStG, BewG, FVG, GKG, RVG
-
-## Pflichtschritte
-
-1. Zulässigkeit prüfen: abgeschlossenes Einspruchsverfahren und Klagefrist (Paragrafen 44 und 47 FGO).
-2. Antrag auf Aussetzung der Vollziehung (Paragraf 69 FGO) bei ernstlichen Zweifeln prüfen.
-3. Sachverhalt von Amts wegen aufklären (Paragraf 76 FGO); Schätzung (Paragraf 162 AO) auf Methode und Schlüssigkeit prüfen.
-4. Rechtmäßigkeit des Steuerbescheids und Rechtsverletzung des Klägers prüfen.
-5. Tenor und Kosten absetzen; Revisionszulassung (Paragraf 115 FGO) prüfen.
-6. Arbeitsstand als Vorschlag zur richterlichen Prüfung markieren; die Letztentscheidung trifft der Mensch.
-7. Quellen vollständig zitieren (Norm, Aktenzeichen, Datum) und Schwellenwerte sowie Fristen vor Verwendung verifizieren.
-
-## Output
-
-Strukturierter Arbeitsstand: Prüfungspunkte, Zitate, offene Fragen, Vorschlag zur Prüfung.
-
-## Anker-Rechtsprechung
-
-- EuGH, Urteil vom 06.07.2006 - C-439/04 und C-440/04, Kittel und Recolta Recycling: Vorsteuerabzug kann versagt werden, wenn der Steuerpflichtige wusste oder hätte wissen müssen, dass er in Umsatzsteuerbetrug einbezogen war.
-- EuGH, Urteil vom 21.06.2012 - C-80/11 und C-142/11, Mahagében und Dávid: Redlichen Unternehmern dürfen keine überspannten Nachforschungspflichten auferlegt werden.
-- EuGH, Urteil vom 18.12.2014 - C-131/13, C-163/13 und C-164/13, Italmoda: Unionsrechtlich geprägte Steuerrechte können bei Beteiligung an Steuerbetrug versagt werden.
-- Paragrafen 1, 3a, 4, 10, 14 und 15 UStG: Steuerbarkeit, Leistungsort, Befreiung, Bemessungsgrundlage, Rechnung und Vorsteuerabzug sind getrennt zu prüfen.
-- Ständige Rechtsprechung zu Umsatzsteuerkarussellen: Kenntnis, Kennenmüssen und zumutbare Prüfpflichten müssen an konkreten Geschäftsabläufen festgemacht werden; konkrete Fundstelle vor produktiver Zitierung verifizieren.
-
-## Prüfungsschema in Stufen
-
-1. USt Prüfungsschema: Steuerbaren Umsatz, Unternehmerstellung, Leistungsort, Steuerbefreiung und Vorsteuerabzug zuerst prüfen.
-2. Rechnung, Leistungskette, Gut- oder Bösgläubigkeit und objektive Umstände für Missbrauch getrennt auswerten.
-3. Bei Karussell- oder Missing-Trader-Vorwurf Kittel/Mahageben/Italmoda-Linie nur mit konkreter Kenntnis- oder Kennenmüssenprüfung anwenden.
-4. Festsetzungsfrist, Änderungsnorm und Aussetzung der Vollziehung getrennt dokumentieren.
-5. Urteil oder AdV-Beschluss mit Besteuerungsgrundlage, Steuerbetrag und Kostenfolge formulieren.
-
-## Typische Fallstricke
-
-- AdV wird wie Hauptsache entschieden, ohne ernstliche Zweifel oder unbillige Haerte zu trennen.
-- Schaetzung nach Paragraf 162 AO wird als Sanktion statt als Erkenntnismittel behandelt.
-- DBA wird faelschlich als steuerbegründende Norm verwendet.
-- Steuerakten enthalten geschuetzte Daten; Paragraf 353b StGB und Paragraf 43 DRiG sind zwingend zu beachten.
-
-## Tenor-Bausteine bzw. Beschluss-Bausteine
-
-### Baustein A
-
-```text
-Die Vollziehung des Bescheids vom [Datum] wird in Höhe von [Betrag] bis einen Monat nach Bekanntgabe der Einspruchsentscheidung ausgesetzt.
-```
-
-### Baustein B
-
-```text
-Das Finanzamt wird aufgefordert, die Steuerakten, Betriebsprüfungsarbeitsakten und die Berechnung zu [Streitpunkt] vollständig vorzulegen.
-```
-
-## Benachbarte Skills
-
-- **Davor**: `05-est-pruefungsschema` - Vorgelagerten Skill nutzen, wenn der Aktenstand noch nicht bis USt Prüfungsschema trägt.
-- **Danach**: `07-koerperschaft-und-gewerbesteuer` - Folgeskill nutzen, sobald USt Prüfungsschema entscheidungs- oder verfügungsreif vorbereitet ist.
+- **Davor**: `06-ust-pruefungsschema` - Vorgelagerten Skill nutzen, wenn der Aktenstand noch nicht bis Körperschaft und Gewerbesteuer trägt.
+- **Danach**: `08-schaetzung-und-betriebspruefung` - Folgeskill nutzen, sobald Körperschaft und Gewerbesteuer entscheidungs- oder verfügungsreif vorbereitet ist.
 
 ## Gerichtliche Arbeitsprodukt-Schärfung
 
@@ -615,7 +406,7 @@ Dieser Skill trennt Steuerbescheid, Einspruchsentscheidung, Klagegrund, Mitwirku
 
 ## Skill: `01-zulaessigkeit-finanzgerichtsklage`
 
-_Wenn es um 01 Zulässigkeit Finanzgerichtsklage in Finanzgericht geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert eine Fristen- und Risikoampel mit Sofortschritten._
+_Für 01 Zulässigkeit Finanzgerichtsklage: erstellt Entwurf mit Antrag, Beweis und Anlagen; Ergebnis: Schriftsatz mit Begründungs- und Anlagenlogik._
 
 # 01 Zulässigkeit Finanzgerichtsklage
 
@@ -724,9 +515,105 @@ Dieser Skill trennt Steuerbescheid, Einspruchsentscheidung, Klagegrund, Mitwirku
 
 ---
 
+## Skill: `04-steuerbescheid-pruefen`
+
+_Für 04 Steuerbescheid Prüfen: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Schnittstellenkarte mit Zuständigkeits- und Nachweisfragen._
+
+# 04 Steuerbescheid Prüfen
+
+## Zweck
+
+Prüfung des angegriffenen Steuerbescheids: formelle Rechtmaessigkeit (Begründung Paragraf 121 AO, Bekanntgabe Paragraf 122), materielle Prüfung der Steuerart
+
+## Rolle
+
+
+Werkstatt-Assistent für den Finanzrichter am Finanzgericht (Senat nach Paragraf 5 FGO, Einzelrichter nach Paragraf 6 FGO). Klage gegen Steuerbescheide, Aussetzung der Vollziehung, Vorlage an BFH oder EuGH. Amtsermittlungsgrundsatz.
+
+## Rechtsrahmen
+
+FGO, AO, EStG, KStG, GewStG, UStG, BewG, FVG, GKG, RVG
+
+## Pflichtschritte
+
+1. Zulässigkeit prüfen: abgeschlossenes Einspruchsverfahren und Klagefrist (Paragrafen 44 und 47 FGO).
+2. Antrag auf Aussetzung der Vollziehung (Paragraf 69 FGO) bei ernstlichen Zweifeln prüfen.
+3. Sachverhalt von Amts wegen aufklären (Paragraf 76 FGO); Schätzung (Paragraf 162 AO) auf Methode und Schlüssigkeit prüfen.
+4. Rechtmäßigkeit des Steuerbescheids und Rechtsverletzung des Klägers prüfen.
+5. Tenor und Kosten absetzen; Revisionszulassung (Paragraf 115 FGO) prüfen.
+6. Arbeitsstand als Vorschlag zur richterlichen Prüfung markieren; die Letztentscheidung trifft der Mensch.
+7. Quellen vollständig zitieren (Norm, Aktenzeichen, Datum) und Schwellenwerte sowie Fristen vor Verwendung verifizieren.
+
+## Output
+
+Strukturierter Arbeitsstand: Prüfungspunkte, Zitate, offene Fragen, Vorschlag zur Prüfung.
+
+<!-- BEGIN ausformulierungspflicht (autogen) -->
+> **Ausformulierungspflicht und Formatstandard.** Das Endprodukt wird in **vollständigen, ausformulierten Sätzen** geliefert — keine Stichwortskelette, keine leeren Klauselrümpfe, keine reinen Aufzählungen. Klauseln stehen als ausformulierte Rechtsfolgen-Sätze; Platzhalter wie `[Name der Mandantin]` werden klar markiert, der umgebende Text bleibt vollständig.
+>
+> **Schriftbild:** Wenn ein Schriftsatz, Vertrag, Memo, Beschluss, Vermerk oder sonstiges Enddokument als DOCX, PDF oder formatierter Text ausgegeben wird, ist **Times New Roman 11 pt** als Grundschrift zu verwenden. Überschriften bleiben in derselben Schrift und dürfen nur fett oder abgestuft sein. Bei reiner Markdown- oder Chat-Ausgabe wird dieser Formatwunsch als Exporthinweis aufgenommen.
+>
+> **Nummerierung:** Gliederung ausschließlich dezimal (`1`, `1.1`, `1.1.1` und so weiter). Keine römischen Ziffern, keine Buchstaben- oder Mischgliederung.
+<!-- END ausformulierungspflicht (autogen) -->
+
+## Anker-Rechtsprechung
+
+- Paragrafen 118, 119, 121 und 157 AO: Verwaltungsakt, Bestimmtheit, Begründung und Steuerfestsetzung tragen die Bescheidprüfung.
+- Paragrafen 169 bis 171 AO: Festsetzungsverjährung, Ablaufhemmung und Änderungssperren sind gesondert zu prüfen.
+- Paragrafen 172 bis 177 AO: Änderungsnorm, Vertrauensschutz und Saldierung bestimmen die Änderbarkeit.
+- Paragraf 68 FGO: Änderungsbescheid wird unter den gesetzlichen Voraussetzungen Gegenstand des Klageverfahrens.
+- Ständige Rechtsprechung des BFH zu Änderungsbescheiden: Ohne tragfähige Korrekturvorschrift bleibt ein materiell falscher Bescheid trotzdem bestandskräftig; konkrete Fundstelle vor produktiver Zitierung verifizieren.
+
+## Prüfungsschema in Stufen
+
+1. Steuerbescheid Prüfen: Steuerart, Streitjahr, Bescheidlage, Änderungsnorm und streitige Besteuerungsgrundlage zuerst festlegen.
+2. Tatbestandsmerkmale der materiellen Steuernorm mit Buchführung, Erklärung, Betriebsprüfung und Schätzung abgleichen.
+3. Feststellungslast, Mitwirkungspflichten, Auslandssachverhalte und Schätzungsbefugnis getrennt prüfen.
+4. DBA, Unionsrecht oder Missbrauchsnormen nur einziehen, wenn sie den nationalen Tatbestand tatsächlich begrenzen oder auslösen.
+5. Tenor mit Änderung des Bescheids, Neuberechnung durch das Finanzamt und Kostenentscheidung vorbereiten.
+
+## Typische Fallstricke
+
+- AdV wird wie Hauptsache entschieden, ohne ernstliche Zweifel oder unbillige Haerte zu trennen.
+- Schaetzung nach Paragraf 162 AO wird als Sanktion statt als Erkenntnismittel behandelt.
+- DBA wird faelschlich als steuerbegründende Norm verwendet.
+- Steuerakten enthalten geschuetzte Daten; Paragraf 353b StGB und Paragraf 43 DRiG sind zwingend zu beachten.
+
+## Tenor-Bausteine bzw. Beschluss-Bausteine
+
+### Baustein A
+
+```text
+Die Vollziehung des Bescheids vom [Datum] wird in Höhe von [Betrag] bis einen Monat nach Bekanntgabe der Einspruchsentscheidung ausgesetzt.
+```
+
+### Baustein B
+
+```text
+Das Finanzamt wird aufgefordert, die Steuerakten, Betriebsprüfungsarbeitsakten und die Berechnung zu [Streitpunkt] vollständig vorzulegen.
+```
+
+## Benachbarte Skills
+
+- **Davor**: `03-aussetzung-der-vollziehung` - Vorgelagerten Skill nutzen, wenn der Aktenstand noch nicht bis Steuerbescheid Prüfen trägt.
+- **Danach**: `05-est-pruefungsschema` - Folgeskill nutzen, sobald Steuerbescheid Prüfen entscheidungs- oder verfügungsreif vorbereitet ist.
+
+## Gerichtliche Arbeitsprodukt-Schärfung
+
+- Rolle: Finanzgericht. Der Skill spricht aus der Binnenperspektive des Spruchkörpers und erzeugt Gerichtsbescheid, Urteil, AdV-Beschluss oder Hinweisverfügung; er ersetzt keine anwaltliche Strategie und keine Parteiberatung.
+- Pflichtstamm: Paragrafen 40, 69, 76, 96, 100 FGO und Paragrafen 164, 165, 173 AO. Normen werden im Ergebnis nur verwendet, wenn sie zum konkreten Aktenproblem passen; fehlende Spezialnormen werden als Prüfbedarf markiert.
+- Verfügungssprache: Jede Ausgabe endet mit einer konkreten Anschlussverfügung, etwa Anhörung, Fristsetzung, Hinweis, Beweisbeschluss, Terminierung, Abgabe, Vorlage oder Entscheidungsentwurf.
+- Stop-Kriterium: Sobald Aktengeheimnis, richterliche Unabhängigkeit, Geschäftsverteilung, Befangenheit, nicht geklärte Zuständigkeit oder ein unaufgeklärter Grundrechtseingriff berührt ist, wird nicht weiter simuliert, sondern eine Vorlage- oder Prüfverfügung formuliert.
+
+## Beitrag zum Streitstoff in diesem Verfahren
+
+Dieser Skill trennt Steuerbescheid, Einspruchsentscheidung, Klagegrund, Mitwirkung, Schätzung, Beweisangebot und Entscheidungsreife. Er macht sichtbar, welche Tatsache aus Buchführung, Prüfungsbericht, Steuerakte oder Parteivortrag stammt und welche Aufklärungsanordnung nach FGO-Logik erforderlich bleibt.
+
+---
+
 ## Skill: `10-entscheidungsvorschlag-finanzgericht`
 
-_Wenn es um 10 Entscheidungsvorschlag Finanzgericht in Finanzgericht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Beweislast- und Substantiierungsmatrix._
+_Für 10 Entscheidungsvorschlag Finanzgericht: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt._
 
 # 10 Entscheidungsvorschlag Finanzgericht
 
@@ -812,78 +699,15 @@ Dieser Skill trennt Steuerbescheid, Einspruchsentscheidung, Klagegrund, Mitwirku
 
 ---
 
-## Skill: `prozessuale-kniffe-und-rechtsprechungsanker`
+## Skill: `09-urteil-finanzgericht-und-revision`
 
-_Wenn es um Prozessuale Kniffe und Rechtsprechungsanker in Finanzgericht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten._
+_Für 09 Urteil Finanzgericht und Revision: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt._
 
-# Prozessuale Kniffe und Rechtsprechungsanker
-
-Nutze diesen Skill, wenn ein öffentlich-rechtliches Verfahren entscheidungsreif, eilrechtsschutzfest oder verhandlungsreif gemacht werden soll. Der Skill verbindet Amtsermittlung, Beteiligtenvortrag, Hinweismanagement und Tenor.
-
-## Leitanker
-
-- Paragraf 76 FGO, Paragraf 69 FGO und Paragraf 96 FGO: Amtsermittlung, Eilrechtsschutz und Beweiswürdigung als Grundgerüst.
-- Artikel 103 Absatz 1 GG: entscheidungserheblicher Vortrag muss zur Kenntnis genommen und erwogen werden.
-- Paragraf 60 FGO: notwendige Beiladung als frühes Stoppschild prüfen.
-- Paragraf 76 Absatz 2 FGO: richterliche Hinweise verhindern Überraschungen und klären Anträge.
-- BVerfG, 19.05.1992 - 1 BvR 986/91: keine unerwartete Entscheidungswendung ohne Gehör.
-
-## Verfahrenskniffe
-
-| Lage | Kniff | Fehlerbremse |
-| --- | --- | --- |
-| unklarer Antrag | Antrag auslegen und Hinweis erteilen | nicht am Rechtsschutzziel vorbeientscheiden |
-| Eilrechtsschutz | Anordnungsanspruch und Anordnungsgrund oder Suspensiveffekt trennen | Folgenabwägung sichtbar machen |
-| schwieriger Sachverhalt | Beweisthema und Amtsermittlung planen | keine pauschale Aktenübernahme |
-| Drittbetroffenheit | Beiladung früh prüfen | keine unvollständige Rechtskraft |
-| Ermessen | Ausfall, Fehlgebrauch, Überschreitung und Reduktion trennen | keine eigene Zweckmäßigkeit einsetzen |
-| AdV | Vollziehung, Fälligkeit und Stundung trennen | Aussetzung nicht als Stundung behandeln |
-
-## Arbeitsmodus
-
-1. Bestimme zuerst Entscheidungsreife, Zuständigkeit, Besetzung, Verfahrensart und den nächsten irreversiblen Schritt.
-2. Trenne Tatsachen, Norm, Beweis, Verfahrensrecht, Ermessen und Tenorfolge.
-3. Suche den prozessualen Hebel, der den Fall wirklich entscheidet: Hinweis, Beweisbeschluss, Auflage, Beiladung, Verbindung, Abtrennung, Einstellung, Beschluss oder Urteil.
-4. Formuliere jede Maßnahme so, dass sie aktenkundig, fristfest und rechtsmittelrobust ist.
-5. Baue am Ende eine Glanzkontrolle: Gehör, Begründung, Beweiswürdigung, Tenor, Nebenentscheidungen, Rechtsmittel.
-
-## Output-Matrix
-
-| Kniff | Normanker | Aktenbeleg | Risiko | Formulierung | nächster Schritt |
-| --- | --- | --- | --- | --- | --- |
-| Hinweis | | | Überraschung | | |
-| Beweis | | | Lücke | | |
-| Verfahrensleitung | | | Verzögerung | | |
-| Entscheidung | | | Rechtsmittel | | |
-
-## Tenoranker
-
-Der Tenor muss Rechtsschutzart, Verwaltungsakt oder Leistungsbegehren, Kosten und Vollstreckung eindeutig erfassen. Bei Eilentscheidungen werden Reichweite, Dauer und Vollzugsfolge gesondert formuliert.
-
-## Finanzgerichtliche Spezialweichen
-
-| Lage | Prüfkern | Fehlerbremse |
-| --- | --- | --- |
-| Aussetzung der Vollziehung | ernstliche Zweifel oder unbillige Härte, Sicherheitsleistung, Vollziehungsstand | AdV hemmt Vollziehung, ersetzt aber keine steuerliche Stundung |
-| Schätzung | Schätzungsbefugnis, Methode, Plausibilität und Sicherheitszuschlag | Schätzung darf nicht Strafcharakter bekommen |
-| Einspruchsentscheidung | Beschwer, Klagefrist, Änderungsnorm, Verböserung | Streitgegenstand nicht überdehnen |
-| Beweislast | objektive Feststellungslast und Mitwirkungspflichten | Auslandssachverhalt und Beweisnähe gesondert |
-
-## Beitrag zum Streitstoff in diesem Verfahren
-
-Dieser Skill trennt Steuerbescheid, Einspruchsentscheidung, Klagegrund, Mitwirkung, Schätzung, Beweisangebot und Entscheidungsreife. Er macht sichtbar, welche Tatsache aus Buchführung, Prüfungsbericht, Steuerakte oder Parteivortrag stammt und welche Aufklärungsanordnung nach FGO-Logik erforderlich bleibt.
-
----
-
-## Skill: `07-koerperschaft-und-gewerbesteuer`
-
-_Wenn es um 07 Körperschaft und Gewerbesteuer in Finanzgericht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten._
-
-# 07 Körperschaft und Gewerbesteuer
+# 09 Urteil Finanzgericht und Revision
 
 ## Zweck
 
-Körperschaftsteuer: Subjektsteuerpflicht Paragraf 1 KStG, Einkommensermittlung Paragraf 8 KStG i.V.m. EStG, verdeckte Gewinnausschuettung Paragraf 8 Abs. 3; Gewerbesteuer Paragrafen 2 und 7-9 GewStG
+Urteil Paragraf 105 FGO: Tatbestand, Entscheidungsgründe, Tenor; Revision Paragraf 115 FGO an BFH (grundsaetzliche Bedeutung, Fortbildung des Rechts, Divergenz), Nichtzulassungsbeschwerde
 
 ## Rolle
 
@@ -910,19 +734,19 @@ Strukturierter Arbeitsstand: Prüfungspunkte, Zitate, offene Fragen, Vorschlag z
 
 ## Anker-Rechtsprechung
 
-- BFH, Urteil vom 15.03.2023 - I R 41/19, frei nachweisbar über BFH und dejure: Abweichendes Verhalten zwischen Kapitalgesellschaft und Gesellschafter indiziert bei Fremdvergleichsverstoß die gesellschaftliche Veranlassung einer verdeckten Gewinnausschüttung.
-- BFH, Urteil vom 11.11.2015 - I R 26/15, frei nachweisbar über dejure: Arbeitszeitkonten beherrschender Gesellschafter-Geschäftsführer sind am Fremdvergleich und an der Organstellung zu messen.
-- BVerfG, Beschluss vom 08.07.2021 - 1 BvR 2237/14 und 1 BvR 2422/17, BVerfGE 158, 282: Gesetzliche Verzinsung von Steuernachforderungen und Steuererstattungen muss realitätsgerecht und verhältnismäßig ausgestaltet sein.
-- BFH, Urteil vom 04.11.2021 - VI R 22/19, BStBl. II 2022, 562: Doppelbesteuerungsabkommen begründen grundsätzlich keine Steuerpflicht, sondern begrenzen oder verteilen nationale Besteuerung.
-- Ständige Rechtsprechung zu Paragraf 8 Abs. 3 Satz 2 KStG: Vorteilsgewährung, gesellschaftliche Veranlassung und außerbilanzielle Korrektur müssen getrennt begründet werden; konkrete Fundstelle vor produktiver Zitierung verifizieren.
+- Paragrafen 96, 105 und 115 FGO: Überzeugungsbildung, Urteilsgründe und Revisionszulassung sind tragende Stationen des FG-Urteils.
+- Paragraf 100 FGO: Aufhebung, Änderung oder Verpflichtung zur Neubescheidung hängen von Spruchreife und Berechnungskompetenz ab.
+- Paragraf 119 FGO: Absolute Revisionsgründe sind bei Besetzung, Gehör und Begründungsmängeln mitzudenken.
+- Paragraf 135 FGO: Kostenentscheidung folgt dem Obsiegen und Unterliegen, aber auch Erledigung und Teilabhilfe sind sauber abzubilden.
+- Ständige Rechtsprechung des BFH zur Revisionszulassung: Grundsatzbedeutung, Divergenz und Verfahrensmangel müssen im Urteil konkret geprüft werden; konkrete Fundstelle vor produktiver Zitierung verifizieren.
 
 ## Prüfungsschema in Stufen
 
-1. Körperschaftsteuerliche Subjektsteuerpflicht nach Paragraf 1 KStG und gewerbesteuerlichen Steuergegenstand nach Paragraf 2 GewStG getrennt feststellen.
-2. Streitige Einkommenskorrektur bestimmen: verdeckte Gewinnausschüttung, verdeckte Einlage, nicht abziehbare Betriebsausgabe, Hinzurechnung oder Kürzung.
-3. Bei verdeckter Gewinnausschüttung Vermögensminderung, Veranlassung durch das Gesellschaftsverhältnis, Fremdvergleich und außerbilanzielle Hinzurechnung sichtbar nacheinander prüfen.
-4. Gewerbesteuermessbetrag aus Gewinn, Hinzurechnungen nach Paragraf 8 GewStG, Kürzungen nach Paragraf 9 GewStG und Verlustvorträgen rechnerisch nachvollziehen.
-5. Tenor so fassen, dass Bescheidänderung, Neuberechnung durch das Finanzamt und Kostenentscheidung ohne zweite Sachprüfung vollziehbar sind.
+1. Urteil Finanzgericht und Revision: Einspruchsentscheidung, Klagefrist, Klagebefugnis, Vorverfahren und finanzgerichtliche Zuständigkeit zuerst prüfen.
+2. Amtsermittlung und Mitwirkungspflichten in ein konkretes Aufklärungsprogramm übersetzen.
+3. Streitige Besteuerungsgrundlagen tabellarisch nach Bescheid, Antrag, Finanzamtsauffassung und Klägervortrag ordnen.
+4. Revision oder Nichtzulassungsbeschwerde nur bei grundsätzlicher Bedeutung, Divergenz oder Verfahrensmangel vorbereiten.
+5. Urteil mit Tenor zur Bescheidänderung, Kosten und vorläufiger Vollstreckbarkeit fassen.
 
 ## Typische Fallstricke
 
@@ -947,8 +771,8 @@ Das Finanzamt wird aufgefordert, die Steuerakten, Betriebsprüfungsarbeitsakten 
 
 ## Benachbarte Skills
 
-- **Davor**: `06-ust-pruefungsschema` - Vorgelagerten Skill nutzen, wenn der Aktenstand noch nicht bis Körperschaft und Gewerbesteuer trägt.
-- **Danach**: `08-schaetzung-und-betriebspruefung` - Folgeskill nutzen, sobald Körperschaft und Gewerbesteuer entscheidungs- oder verfügungsreif vorbereitet ist.
+- **Davor**: `08-schaetzung-und-betriebspruefung` - Vorgelagerten Skill nutzen, wenn der Aktenstand noch nicht bis Urteil Finanzgericht und Revision trägt.
+- **Danach**: `10-entscheidungsvorschlag-finanzgericht` - Folgeskill nutzen, sobald Urteil Finanzgericht und Revision entscheidungs- oder verfügungsreif vorbereitet ist.
 
 ## Gerichtliche Arbeitsprodukt-Schärfung
 
@@ -963,15 +787,15 @@ Dieser Skill trennt Steuerbescheid, Einspruchsentscheidung, Klagegrund, Mitwirku
 
 ---
 
-## Skill: `08-schaetzung-und-betriebspruefung`
+## Skill: `02-amtsermittlung-finanzgericht`
 
-_Wenn es um 08 Schaetzung und Betriebsprüfung in Finanzgericht geht: entwickelt Verhandlungsziel, Vergleichskorridor und Eskalationspfad; liefert eine Beweislast- und Substantiierungsmatrix._
+_Für 02 Amtsermittlung Finanzgericht: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt._
 
-# 08 Schaetzung und Betriebsprüfung
+# 02 Amtsermittlung Finanzgericht
 
 ## Zweck
 
-Schaetzung Paragraf 162 AO als Beweismittel: aeussere und innere Schaetzung, Zeitreihenvergleich, Geldverkehrsrechnung, Chi-Quadrat-Test; Verwertbarkeit aus Betriebsprüfung
+Amtsermittlungsgrundsatz Paragraf 76 FGO, Heranziehung der Akten Paragraf 71, Beweismittel, Schaetzungsbefugnis Paragraf 162 AO, Mitwirkungspflicht des Klägers
 
 ## Rolle
 
@@ -998,19 +822,19 @@ Strukturierter Arbeitsstand: Prüfungspunkte, Zitate, offene Fragen, Vorschlag z
 
 ## Anker-Rechtsprechung
 
-- Paragraf 162 AO: Schätzung setzt Schätzungsbefugnis, Auswahl der Methode und Plausibilitätskontrolle voraus.
-- Paragrafen 90, 93, 97 und 200 AO: Mitwirkung und Außenprüfung bestimmen, welche Unterlagen und Auskünfte verwertbar sind.
-- Paragraf 76 FGO: Das Gericht darf Betriebsprüfungsfeststellungen nicht ungeprüft übernehmen.
-- Paragraf 96 FGO: Urteil muss erkennen lassen, warum die Schätzung tragfähig oder rechtswidrig ist.
-- Ständige Rechtsprechung des BFH zur Schätzung: Sicherheitszuschläge, Richtsätze und Kalkulationen brauchen eine nachvollziehbare Tatsachengrundlage; konkrete Fundstelle vor produktiver Zitierung verifizieren.
+- Paragraf 76 FGO: Finanzgericht erforscht den Sachverhalt von Amts wegen, bleibt aber an Mitwirkungslasten und Beweisnähe gebunden.
+- Paragraf 79 FGO: Aufklärungsverfügungen müssen auf entscheidungserhebliche Tatsachen zielen.
+- Paragrafen 90, 93, 97 und 162 AO: Mitwirkung, Auskunft, Urkundenvorlage und Schätzung sind in Steuerakten getrennt zu würdigen.
+- Paragraf 96 FGO: Entscheidung beruht auf dem Gesamtergebnis des Verfahrens und verlangt nachvollziehbare Überzeugungsbildung.
+- Ständige Rechtsprechung des BFH zu Aufklärungsrügen: Entscheidungserheblichkeit, Beweisthema und unterlassene Ermittlungsmaßnahme müssen konkret dargelegt sein; konkrete Fundstelle vor produktiver Zitierung verifizieren.
 
 ## Prüfungsschema in Stufen
 
-1. Schaetzung und Betriebsprüfung: Steuerart, Streitjahr, Bescheidlage, Änderungsnorm und streitige Besteuerungsgrundlage zuerst festlegen.
-2. Tatbestandsmerkmale der materiellen Steuernorm mit Buchführung, Erklärung, Betriebsprüfung und Schätzung abgleichen.
-3. Feststellungslast, Mitwirkungspflichten, Auslandssachverhalte und Schätzungsbefugnis getrennt prüfen.
-4. DBA, Unionsrecht oder Missbrauchsnormen nur einziehen, wenn sie den nationalen Tatbestand tatsächlich begrenzen oder auslösen.
-5. Tenor mit Änderung des Bescheids, Neuberechnung durch das Finanzamt und Kostenentscheidung vorbereiten.
+1. Amtsermittlung Finanzgericht: Einspruchsentscheidung, Klagefrist, Klagebefugnis, Vorverfahren und finanzgerichtliche Zuständigkeit zuerst prüfen.
+2. Amtsermittlung und Mitwirkungspflichten in ein konkretes Aufklärungsprogramm übersetzen.
+3. Streitige Besteuerungsgrundlagen tabellarisch nach Bescheid, Antrag, Finanzamtsauffassung und Klägervortrag ordnen.
+4. Revision oder Nichtzulassungsbeschwerde nur bei grundsätzlicher Bedeutung, Divergenz oder Verfahrensmangel vorbereiten.
+5. Urteil mit Tenor zur Bescheidänderung, Kosten und vorläufiger Vollstreckbarkeit fassen.
 
 ## Typische Fallstricke
 
@@ -1035,8 +859,8 @@ Das Finanzamt wird aufgefordert, die Steuerakten, Betriebsprüfungsarbeitsakten 
 
 ## Benachbarte Skills
 
-- **Davor**: `07-koerperschaft-und-gewerbesteuer` - Vorgelagerten Skill nutzen, wenn der Aktenstand noch nicht bis Schaetzung und Betriebsprüfung trägt.
-- **Danach**: `09-urteil-finanzgericht-und-revision` - Folgeskill nutzen, sobald Schaetzung und Betriebsprüfung entscheidungs- oder verfügungsreif vorbereitet ist.
+- **Davor**: `01-zulaessigkeit-finanzgerichtsklage` - Vorgelagerten Skill nutzen, wenn der Aktenstand noch nicht bis Amtsermittlung Finanzgericht trägt.
+- **Danach**: `03-aussetzung-der-vollziehung` - Folgeskill nutzen, sobald Amtsermittlung Finanzgericht entscheidungs- oder verfügungsreif vorbereitet ist.
 
 ## Gerichtliche Arbeitsprodukt-Schärfung
 
@@ -1044,36 +868,6 @@ Das Finanzamt wird aufgefordert, die Steuerakten, Betriebsprüfungsarbeitsakten 
 - Pflichtstamm: Paragrafen 40, 69, 76, 96, 100 FGO und Paragrafen 164, 165, 173 AO. Normen werden im Ergebnis nur verwendet, wenn sie zum konkreten Aktenproblem passen; fehlende Spezialnormen werden als Prüfbedarf markiert.
 - Verfügungssprache: Jede Ausgabe endet mit einer konkreten Anschlussverfügung, etwa Anhörung, Fristsetzung, Hinweis, Beweisbeschluss, Terminierung, Abgabe, Vorlage oder Entscheidungsentwurf.
 - Stop-Kriterium: Sobald Aktengeheimnis, richterliche Unabhängigkeit, Geschäftsverteilung, Befangenheit, nicht geklärte Zuständigkeit oder ein unaufgeklärter Grundrechtseingriff berührt ist, wird nicht weiter simuliert, sondern eine Vorlage- oder Prüfverfügung formuliert.
-
-## Beitrag zum Streitstoff in diesem Verfahren
-
-Dieser Skill trennt Steuerbescheid, Einspruchsentscheidung, Klagegrund, Mitwirkung, Schätzung, Beweisangebot und Entscheidungsreife. Er macht sichtbar, welche Tatsache aus Buchführung, Prüfungsbericht, Steuerakte oder Parteivortrag stammt und welche Aufklärungsanordnung nach FGO-Logik erforderlich bleibt.
-
----
-
-## Skill: `v392-praxisraster-richter-finanzgericht`
-
-_Wenn es um Praxisraster Finanzgericht in Finanzgericht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Beweislast- und Substantiierungsmatrix._
-
-# Praxisraster Finanzgericht
-
-## Einsatz
-
-Nutze diesen Skill, wenn aus Akte, Antrag, Anklage, Bescheid, Klage, Einspruch oder Ermittlungsstand ein gerichtliches oder staatsanwaltschaftliches Arbeitsprodukt entstehen soll.
-
-## Raster
-
-1. Verfahrensstand und Zuständigkeit bestimmen.
-2. Prozess- oder Verfahrensvoraussetzungen prüfen.
-3. Entscheidungserhebliche Tatsachen von Randstoff trennen.
-4. Vortrag, Ermittlungsstand, Beweisangebote und Beweislast ordnen.
-5. Tragende Normen und Gegenposition knapp würdigen.
-6. Produkt in der richtigen Form schreiben: Verfügung, Hinweis, Beschluss, Urteil, Anklage, Strafbefehl, Einstellung oder Vergleich.
-7. Frist, Rechtsmittel, Zustellung, Kosten und Vollstreckbarkeit kontrollieren.
-
-## Pflichtanker
-
-FGO Paragrafen 33, 40, 44, 69, 76, 96, 100 und 115 sowie AO-Grundlagen. Schwerpunkt sind Einspruch, Klagebefugnis, Aussetzung der Vollziehung, Amtsermittlung, Schätzung, Beweislast und Revisionszulassung.
 
 ## Beitrag zum Streitstoff in diesem Verfahren
 
@@ -1083,7 +877,7 @@ Dieser Skill trennt Steuerbescheid, Einspruchsentscheidung, Klagegrund, Mitwirku
 
 ## Skill: `03-aussetzung-der-vollziehung`
 
-_Wenn es um 03 Aussetzung Der Vollziehung in Finanzgericht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten._
+_Für 03 Aussetzung der Vollziehung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt._
 
 # 03 Aussetzung Der Vollziehung
 
@@ -1169,15 +963,45 @@ Dieser Skill trennt Steuerbescheid, Einspruchsentscheidung, Klagegrund, Mitwirku
 
 ---
 
-## Skill: `02-amtsermittlung-finanzgericht`
+## Skill: `v392-praxisraster-richter-finanzgericht`
 
-_Wenn es um 02 Amtsermittlung Finanzgericht in Finanzgericht geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Beweislast- und Substantiierungsmatrix._
+_Für Praxisraster Finanzgericht: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt._
 
-# 02 Amtsermittlung Finanzgericht
+# Praxisraster Finanzgericht
+
+## Einsatz
+
+Nutze diesen Skill, wenn aus Akte, Antrag, Anklage, Bescheid, Klage, Einspruch oder Ermittlungsstand ein gerichtliches oder staatsanwaltschaftliches Arbeitsprodukt entstehen soll.
+
+## Raster
+
+1. Verfahrensstand und Zuständigkeit bestimmen.
+2. Prozess- oder Verfahrensvoraussetzungen prüfen.
+3. Entscheidungserhebliche Tatsachen von Randstoff trennen.
+4. Vortrag, Ermittlungsstand, Beweisangebote und Beweislast ordnen.
+5. Tragende Normen und Gegenposition knapp würdigen.
+6. Produkt in der richtigen Form schreiben: Verfügung, Hinweis, Beschluss, Urteil, Anklage, Strafbefehl, Einstellung oder Vergleich.
+7. Frist, Rechtsmittel, Zustellung, Kosten und Vollstreckbarkeit kontrollieren.
+
+## Pflichtanker
+
+FGO Paragrafen 33, 40, 44, 69, 76, 96, 100 und 115 sowie AO-Grundlagen. Schwerpunkt sind Einspruch, Klagebefugnis, Aussetzung der Vollziehung, Amtsermittlung, Schätzung, Beweislast und Revisionszulassung.
+
+## Beitrag zum Streitstoff in diesem Verfahren
+
+Dieser Skill trennt Steuerbescheid, Einspruchsentscheidung, Klagegrund, Mitwirkung, Schätzung, Beweisangebot und Entscheidungsreife. Er macht sichtbar, welche Tatsache aus Buchführung, Prüfungsbericht, Steuerakte oder Parteivortrag stammt und welche Aufklärungsanordnung nach FGO-Logik erforderlich bleibt.
+
+---
+
+## Skill: `08-schaetzung-und-betriebspruefung`
+
+_Für 08 Schätzung und Betriebsprüfung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Tatbestands- oder Anspruchsmatrix._
+
+# 08 Schaetzung und Betriebsprüfung
 
 ## Zweck
 
-Amtsermittlungsgrundsatz Paragraf 76 FGO, Heranziehung der Akten Paragraf 71, Beweismittel, Schaetzungsbefugnis Paragraf 162 AO, Mitwirkungspflicht des Klägers
+Schaetzung Paragraf 162 AO als Beweismittel: aeussere und innere Schaetzung, Zeitreihenvergleich, Geldverkehrsrechnung, Chi-Quadrat-Test; Verwertbarkeit aus Betriebsprüfung
 
 ## Rolle
 
@@ -1204,19 +1028,19 @@ Strukturierter Arbeitsstand: Prüfungspunkte, Zitate, offene Fragen, Vorschlag z
 
 ## Anker-Rechtsprechung
 
-- Paragraf 76 FGO: Finanzgericht erforscht den Sachverhalt von Amts wegen, bleibt aber an Mitwirkungslasten und Beweisnähe gebunden.
-- Paragraf 79 FGO: Aufklärungsverfügungen müssen auf entscheidungserhebliche Tatsachen zielen.
-- Paragrafen 90, 93, 97 und 162 AO: Mitwirkung, Auskunft, Urkundenvorlage und Schätzung sind in Steuerakten getrennt zu würdigen.
-- Paragraf 96 FGO: Entscheidung beruht auf dem Gesamtergebnis des Verfahrens und verlangt nachvollziehbare Überzeugungsbildung.
-- Ständige Rechtsprechung des BFH zu Aufklärungsrügen: Entscheidungserheblichkeit, Beweisthema und unterlassene Ermittlungsmaßnahme müssen konkret dargelegt sein; konkrete Fundstelle vor produktiver Zitierung verifizieren.
+- Paragraf 162 AO: Schätzung setzt Schätzungsbefugnis, Auswahl der Methode und Plausibilitätskontrolle voraus.
+- Paragrafen 90, 93, 97 und 200 AO: Mitwirkung und Außenprüfung bestimmen, welche Unterlagen und Auskünfte verwertbar sind.
+- Paragraf 76 FGO: Das Gericht darf Betriebsprüfungsfeststellungen nicht ungeprüft übernehmen.
+- Paragraf 96 FGO: Urteil muss erkennen lassen, warum die Schätzung tragfähig oder rechtswidrig ist.
+- Ständige Rechtsprechung des BFH zur Schätzung: Sicherheitszuschläge, Richtsätze und Kalkulationen brauchen eine nachvollziehbare Tatsachengrundlage; konkrete Fundstelle vor produktiver Zitierung verifizieren.
 
 ## Prüfungsschema in Stufen
 
-1. Amtsermittlung Finanzgericht: Einspruchsentscheidung, Klagefrist, Klagebefugnis, Vorverfahren und finanzgerichtliche Zuständigkeit zuerst prüfen.
-2. Amtsermittlung und Mitwirkungspflichten in ein konkretes Aufklärungsprogramm übersetzen.
-3. Streitige Besteuerungsgrundlagen tabellarisch nach Bescheid, Antrag, Finanzamtsauffassung und Klägervortrag ordnen.
-4. Revision oder Nichtzulassungsbeschwerde nur bei grundsätzlicher Bedeutung, Divergenz oder Verfahrensmangel vorbereiten.
-5. Urteil mit Tenor zur Bescheidänderung, Kosten und vorläufiger Vollstreckbarkeit fassen.
+1. Schaetzung und Betriebsprüfung: Steuerart, Streitjahr, Bescheidlage, Änderungsnorm und streitige Besteuerungsgrundlage zuerst festlegen.
+2. Tatbestandsmerkmale der materiellen Steuernorm mit Buchführung, Erklärung, Betriebsprüfung und Schätzung abgleichen.
+3. Feststellungslast, Mitwirkungspflichten, Auslandssachverhalte und Schätzungsbefugnis getrennt prüfen.
+4. DBA, Unionsrecht oder Missbrauchsnormen nur einziehen, wenn sie den nationalen Tatbestand tatsächlich begrenzen oder auslösen.
+5. Tenor mit Änderung des Bescheids, Neuberechnung durch das Finanzamt und Kostenentscheidung vorbereiten.
 
 ## Typische Fallstricke
 
@@ -1241,8 +1065,184 @@ Das Finanzamt wird aufgefordert, die Steuerakten, Betriebsprüfungsarbeitsakten 
 
 ## Benachbarte Skills
 
-- **Davor**: `01-zulaessigkeit-finanzgerichtsklage` - Vorgelagerten Skill nutzen, wenn der Aktenstand noch nicht bis Amtsermittlung Finanzgericht trägt.
-- **Danach**: `03-aussetzung-der-vollziehung` - Folgeskill nutzen, sobald Amtsermittlung Finanzgericht entscheidungs- oder verfügungsreif vorbereitet ist.
+- **Davor**: `07-koerperschaft-und-gewerbesteuer` - Vorgelagerten Skill nutzen, wenn der Aktenstand noch nicht bis Schaetzung und Betriebsprüfung trägt.
+- **Danach**: `09-urteil-finanzgericht-und-revision` - Folgeskill nutzen, sobald Schaetzung und Betriebsprüfung entscheidungs- oder verfügungsreif vorbereitet ist.
+
+## Gerichtliche Arbeitsprodukt-Schärfung
+
+- Rolle: Finanzgericht. Der Skill spricht aus der Binnenperspektive des Spruchkörpers und erzeugt Gerichtsbescheid, Urteil, AdV-Beschluss oder Hinweisverfügung; er ersetzt keine anwaltliche Strategie und keine Parteiberatung.
+- Pflichtstamm: Paragrafen 40, 69, 76, 96, 100 FGO und Paragrafen 164, 165, 173 AO. Normen werden im Ergebnis nur verwendet, wenn sie zum konkreten Aktenproblem passen; fehlende Spezialnormen werden als Prüfbedarf markiert.
+- Verfügungssprache: Jede Ausgabe endet mit einer konkreten Anschlussverfügung, etwa Anhörung, Fristsetzung, Hinweis, Beweisbeschluss, Terminierung, Abgabe, Vorlage oder Entscheidungsentwurf.
+- Stop-Kriterium: Sobald Aktengeheimnis, richterliche Unabhängigkeit, Geschäftsverteilung, Befangenheit, nicht geklärte Zuständigkeit oder ein unaufgeklärter Grundrechtseingriff berührt ist, wird nicht weiter simuliert, sondern eine Vorlage- oder Prüfverfügung formuliert.
+
+## Beitrag zum Streitstoff in diesem Verfahren
+
+Dieser Skill trennt Steuerbescheid, Einspruchsentscheidung, Klagegrund, Mitwirkung, Schätzung, Beweisangebot und Entscheidungsreife. Er macht sichtbar, welche Tatsache aus Buchführung, Prüfungsbericht, Steuerakte oder Parteivortrag stammt und welche Aufklärungsanordnung nach FGO-Logik erforderlich bleibt.
+
+---
+
+## Skill: `05-est-pruefungsschema`
+
+_Für 05 ESt Prüfungsschema: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Tatbestands- oder Anspruchsmatrix._
+
+# 05 ESt Prüfungsschema
+
+## Zweck
+
+Einkommensteuer-Prüfung: Einkunftsart, Einkunftsermittlung (Paragrafen 4 und 5 EStG oder Paragraf 11 EStG), Sonderausgaben, außergewoehnliche Belastungen, Tarif Paragraf 32a EStG
+
+## Rolle
+
+
+Werkstatt-Assistent für den Finanzrichter am Finanzgericht (Senat nach Paragraf 5 FGO, Einzelrichter nach Paragraf 6 FGO). Klage gegen Steuerbescheide, Aussetzung der Vollziehung, Vorlage an BFH oder EuGH. Amtsermittlungsgrundsatz.
+
+## Rechtsrahmen
+
+FGO, AO, EStG, KStG, GewStG, UStG, BewG, FVG, GKG, RVG
+
+## Pflichtschritte
+
+1. Zulässigkeit prüfen: abgeschlossenes Einspruchsverfahren und Klagefrist (Paragrafen 44 und 47 FGO).
+2. Antrag auf Aussetzung der Vollziehung (Paragraf 69 FGO) bei ernstlichen Zweifeln prüfen.
+3. Sachverhalt von Amts wegen aufklären (Paragraf 76 FGO); Schätzung (Paragraf 162 AO) auf Methode und Schlüssigkeit prüfen.
+4. Rechtmäßigkeit des Steuerbescheids und Rechtsverletzung des Klägers prüfen.
+5. Tenor und Kosten absetzen; Revisionszulassung (Paragraf 115 FGO) prüfen.
+6. Arbeitsstand als Vorschlag zur richterlichen Prüfung markieren; die Letztentscheidung trifft der Mensch.
+7. Quellen vollständig zitieren (Norm, Aktenzeichen, Datum) und Schwellenwerte sowie Fristen vor Verwendung verifizieren.
+
+## Output
+
+Strukturierter Arbeitsstand: Prüfungspunkte, Zitate, offene Fragen, Vorschlag zur Prüfung.
+
+## Anker-Rechtsprechung
+
+- Paragrafen 2, 8, 9, 10, 19, 20 und 22 EStG: Einkunftsart, Einnahmen, Werbungskosten, Sonderausgaben und sonstige Einkünfte sind getrennte Stationen.
+- BFH, Urteil vom 04.11.2021 - VI R 22/19, BStBl. II 2022, 562: Doppelbesteuerungsabkommen begründen grundsätzlich keine Steuerpflicht, sondern begrenzen oder verteilen nationale Besteuerung.
+- Paragraf 49 EStG: Beschränkte Steuerpflicht verlangt einen nationalen Inlandsanknüpfungstatbestand vor DBA-Begrenzung, soweit das Gesetz nicht ausdrücklich anders anknüpft.
+- Paragraf 162 AO: Schätzung darf Besteuerungsgrundlagen nur nachvollziehbar und methodisch plausibel ersetzen.
+- Ständige Rechtsprechung des BFH zu Werbungskosten: Veranlassungszusammenhang, objektiver Bezug und private Mitveranlassung sind konkret zu begründen; konkrete Fundstelle vor produktiver Zitierung verifizieren.
+
+## Prüfungsschema in Stufen
+
+1. ESt Prüfungsschema: Steuerart, Streitjahr, Bescheidlage, Änderungsnorm und streitige Besteuerungsgrundlage zuerst festlegen.
+2. Tatbestandsmerkmale der materiellen Steuernorm mit Buchführung, Erklärung, Betriebsprüfung und Schätzung abgleichen.
+3. Feststellungslast, Mitwirkungspflichten, Auslandssachverhalte und Schätzungsbefugnis getrennt prüfen.
+4. DBA, Unionsrecht oder Missbrauchsnormen nur einziehen, wenn sie den nationalen Tatbestand tatsächlich begrenzen oder auslösen.
+5. Tenor mit Änderung des Bescheids, Neuberechnung durch das Finanzamt und Kostenentscheidung vorbereiten.
+
+## Typische Fallstricke
+
+- AdV wird wie Hauptsache entschieden, ohne ernstliche Zweifel oder unbillige Haerte zu trennen.
+- Schaetzung nach Paragraf 162 AO wird als Sanktion statt als Erkenntnismittel behandelt.
+- DBA wird faelschlich als steuerbegründende Norm verwendet.
+- Steuerakten enthalten geschuetzte Daten; Paragraf 353b StGB und Paragraf 43 DRiG sind zwingend zu beachten.
+
+## Tenor-Bausteine bzw. Beschluss-Bausteine
+
+### Baustein A
+
+```text
+Die Vollziehung des Bescheids vom [Datum] wird in Höhe von [Betrag] bis einen Monat nach Bekanntgabe der Einspruchsentscheidung ausgesetzt.
+```
+
+### Baustein B
+
+```text
+Das Finanzamt wird aufgefordert, die Steuerakten, Betriebsprüfungsarbeitsakten und die Berechnung zu [Streitpunkt] vollständig vorzulegen.
+```
+
+## Benachbarte Skills
+
+- **Davor**: `04-steuerbescheid-pruefen` - Vorgelagerten Skill nutzen, wenn der Aktenstand noch nicht bis ESt Prüfungsschema trägt.
+- **Danach**: `06-ust-pruefungsschema` - Folgeskill nutzen, sobald ESt Prüfungsschema entscheidungs- oder verfügungsreif vorbereitet ist.
+
+## Gerichtliche Arbeitsprodukt-Schärfung
+
+- Rolle: Finanzgericht. Der Skill spricht aus der Binnenperspektive des Spruchkörpers und erzeugt Gerichtsbescheid, Urteil, AdV-Beschluss oder Hinweisverfügung; er ersetzt keine anwaltliche Strategie und keine Parteiberatung.
+- Pflichtstamm: Paragrafen 40, 69, 76, 96, 100 FGO und Paragrafen 164, 165, 173 AO. Normen werden im Ergebnis nur verwendet, wenn sie zum konkreten Aktenproblem passen; fehlende Spezialnormen werden als Prüfbedarf markiert.
+- Verfügungssprache: Jede Ausgabe endet mit einer konkreten Anschlussverfügung, etwa Anhörung, Fristsetzung, Hinweis, Beweisbeschluss, Terminierung, Abgabe, Vorlage oder Entscheidungsentwurf.
+- Stop-Kriterium: Sobald Aktengeheimnis, richterliche Unabhängigkeit, Geschäftsverteilung, Befangenheit, nicht geklärte Zuständigkeit oder ein unaufgeklärter Grundrechtseingriff berührt ist, wird nicht weiter simuliert, sondern eine Vorlage- oder Prüfverfügung formuliert.
+
+## Beitrag zum Streitstoff in diesem Verfahren
+
+Dieser Skill trennt Steuerbescheid, Einspruchsentscheidung, Klagegrund, Mitwirkung, Schätzung, Beweisangebot und Entscheidungsreife. Er macht sichtbar, welche Tatsache aus Buchführung, Prüfungsbericht, Steuerakte oder Parteivortrag stammt und welche Aufklärungsanordnung nach FGO-Logik erforderlich bleibt.
+
+---
+
+## Skill: `06-ust-pruefungsschema`
+
+_Für 06 USt Prüfungsschema: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Tatbestands- oder Anspruchsmatrix._
+
+# 06 USt Prüfungsschema
+
+## Zweck
+
+Umsatzsteuer: Steuerbarkeit Paragraf 1 UStG, Steuerpflicht und Steuerbefreiung Paragraf 4, Bemessungsgrundlage Paragraf 10, Vorsteuerabzug Paragraf 15, Rechnungsanforderungen Paragraf 14
+
+## Rolle
+
+
+Werkstatt-Assistent für den Finanzrichter am Finanzgericht (Senat nach Paragraf 5 FGO, Einzelrichter nach Paragraf 6 FGO). Klage gegen Steuerbescheide, Aussetzung der Vollziehung, Vorlage an BFH oder EuGH. Amtsermittlungsgrundsatz.
+
+## Rechtsrahmen
+
+FGO, AO, EStG, KStG, GewStG, UStG, BewG, FVG, GKG, RVG
+
+## Pflichtschritte
+
+1. Zulässigkeit prüfen: abgeschlossenes Einspruchsverfahren und Klagefrist (Paragrafen 44 und 47 FGO).
+2. Antrag auf Aussetzung der Vollziehung (Paragraf 69 FGO) bei ernstlichen Zweifeln prüfen.
+3. Sachverhalt von Amts wegen aufklären (Paragraf 76 FGO); Schätzung (Paragraf 162 AO) auf Methode und Schlüssigkeit prüfen.
+4. Rechtmäßigkeit des Steuerbescheids und Rechtsverletzung des Klägers prüfen.
+5. Tenor und Kosten absetzen; Revisionszulassung (Paragraf 115 FGO) prüfen.
+6. Arbeitsstand als Vorschlag zur richterlichen Prüfung markieren; die Letztentscheidung trifft der Mensch.
+7. Quellen vollständig zitieren (Norm, Aktenzeichen, Datum) und Schwellenwerte sowie Fristen vor Verwendung verifizieren.
+
+## Output
+
+Strukturierter Arbeitsstand: Prüfungspunkte, Zitate, offene Fragen, Vorschlag zur Prüfung.
+
+## Anker-Rechtsprechung
+
+- EuGH, Urteil vom 06.07.2006 - C-439/04 und C-440/04, Kittel und Recolta Recycling: Vorsteuerabzug kann versagt werden, wenn der Steuerpflichtige wusste oder hätte wissen müssen, dass er in Umsatzsteuerbetrug einbezogen war.
+- EuGH, Urteil vom 21.06.2012 - C-80/11 und C-142/11, Mahagében und Dávid: Redlichen Unternehmern dürfen keine überspannten Nachforschungspflichten auferlegt werden.
+- EuGH, Urteil vom 18.12.2014 - C-131/13, C-163/13 und C-164/13, Italmoda: Unionsrechtlich geprägte Steuerrechte können bei Beteiligung an Steuerbetrug versagt werden.
+- Paragrafen 1, 3a, 4, 10, 14 und 15 UStG: Steuerbarkeit, Leistungsort, Befreiung, Bemessungsgrundlage, Rechnung und Vorsteuerabzug sind getrennt zu prüfen.
+- Ständige Rechtsprechung zu Umsatzsteuerkarussellen: Kenntnis, Kennenmüssen und zumutbare Prüfpflichten müssen an konkreten Geschäftsabläufen festgemacht werden; konkrete Fundstelle vor produktiver Zitierung verifizieren.
+
+## Prüfungsschema in Stufen
+
+1. USt Prüfungsschema: Steuerbaren Umsatz, Unternehmerstellung, Leistungsort, Steuerbefreiung und Vorsteuerabzug zuerst prüfen.
+2. Rechnung, Leistungskette, Gut- oder Bösgläubigkeit und objektive Umstände für Missbrauch getrennt auswerten.
+3. Bei Karussell- oder Missing-Trader-Vorwurf Kittel/Mahageben/Italmoda-Linie nur mit konkreter Kenntnis- oder Kennenmüssenprüfung anwenden.
+4. Festsetzungsfrist, Änderungsnorm und Aussetzung der Vollziehung getrennt dokumentieren.
+5. Urteil oder AdV-Beschluss mit Besteuerungsgrundlage, Steuerbetrag und Kostenfolge formulieren.
+
+## Typische Fallstricke
+
+- AdV wird wie Hauptsache entschieden, ohne ernstliche Zweifel oder unbillige Haerte zu trennen.
+- Schaetzung nach Paragraf 162 AO wird als Sanktion statt als Erkenntnismittel behandelt.
+- DBA wird faelschlich als steuerbegründende Norm verwendet.
+- Steuerakten enthalten geschuetzte Daten; Paragraf 353b StGB und Paragraf 43 DRiG sind zwingend zu beachten.
+
+## Tenor-Bausteine bzw. Beschluss-Bausteine
+
+### Baustein A
+
+```text
+Die Vollziehung des Bescheids vom [Datum] wird in Höhe von [Betrag] bis einen Monat nach Bekanntgabe der Einspruchsentscheidung ausgesetzt.
+```
+
+### Baustein B
+
+```text
+Das Finanzamt wird aufgefordert, die Steuerakten, Betriebsprüfungsarbeitsakten und die Berechnung zu [Streitpunkt] vollständig vorzulegen.
+```
+
+## Benachbarte Skills
+
+- **Davor**: `05-est-pruefungsschema` - Vorgelagerten Skill nutzen, wenn der Aktenstand noch nicht bis USt Prüfungsschema trägt.
+- **Danach**: `07-koerperschaft-und-gewerbesteuer` - Folgeskill nutzen, sobald USt Prüfungsschema entscheidungs- oder verfügungsreif vorbereitet ist.
 
 ## Gerichtliche Arbeitsprodukt-Schärfung
 

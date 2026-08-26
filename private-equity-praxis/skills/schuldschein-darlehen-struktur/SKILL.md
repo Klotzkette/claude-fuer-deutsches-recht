@@ -1,6 +1,6 @@
 ---
 name: schuldschein-darlehen-struktur
-description: "Wenn es um Schuldscheindarlehen: Struktur und Dokumente in Private Equity Praxis geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Schuldscheindarlehen: Struktur und Dokumente: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Schuldscheindarlehen: Struktur und Dokumente

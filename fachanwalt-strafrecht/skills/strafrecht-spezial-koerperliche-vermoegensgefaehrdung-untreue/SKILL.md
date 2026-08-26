@@ -1,6 +1,6 @@
 ---
 name: strafrecht-spezial-koerperliche-vermoegensgefaehrdung-untreue
-description: "Wenn es um Konkrete Vermögensgefaehrdung als Schadensaequivalent bei Paragraph 266 StGB in Fachanwalt Strafrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Konkrete Vermögensgefährdung als Schadensäquivalent bei Paragraph 266 StGB: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Schnittstellenkarte mit Zuständigkeits- und Nachweisfragen."
 ---
 
 # Konkrete Vermögensgefaehrdung als Schadensaequivalent bei Paragraph 266 StGB

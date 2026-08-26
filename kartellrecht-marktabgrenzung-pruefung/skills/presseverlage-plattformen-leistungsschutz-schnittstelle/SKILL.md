@@ -1,6 +1,6 @@
 ---
 name: presseverlage-plattformen-leistungsschutz-schnittstelle
-description: "Wenn es um Presseverlage Plattformen Leistungsschutz Schnittstelle in Kartellrecht — Marktabgrenzungsprüfung geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen."
+description: "Für Presseverlage Plattformen Leistungsschutz Schnittstelle: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Presseverlage Plattformen Leistungsschutz Schnittstelle

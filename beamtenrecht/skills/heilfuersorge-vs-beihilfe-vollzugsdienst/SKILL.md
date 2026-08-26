@@ -1,6 +1,6 @@
 ---
 name: heilfuersorge-vs-beihilfe-vollzugsdienst
-description: "Wenn es um Heilfürsorge versus Beihilfe — Vollzugsdienst und Soldaten in Beamtenrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Heilfürsorge versus Beihilfe — Vollzugsdienst und Soldaten: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Heilfürsorge versus Beihilfe — Vollzugsdienst und Soldaten

@@ -1,6 +1,6 @@
 ---
 name: stb-lohn-sv-meldungen-dakota-svnet
-description: "Wenn es um SV-Meldungen ueber sv.net oder DAKOTA in Steuerrecht – Steuerberater und Anwälte geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für SV-Meldungen über sv.net oder DAKOTA: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # SV-Meldungen ueber sv.net oder DAKOTA

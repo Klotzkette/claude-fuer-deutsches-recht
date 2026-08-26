@@ -1,6 +1,6 @@
 ---
 name: strafrecht-spezial-btmg-29-grundtatbestand
-description: "Wenn es um BtMG-Grundtatbestand Paragraf 29 Abs in Fachanwalt Strafrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für BtMG-Grundtatbestand Paragraf 29 Abs: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Tatbestands- oder Anspruchsmatrix."
 ---
 
 # BtMG-Grundtatbestand § 29 Abs

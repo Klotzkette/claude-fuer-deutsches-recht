@@ -1,6 +1,6 @@
 ---
 name: verteidigungsausgaben-sperre-bewerten
-description: "Wenn es um Verteidigungsausgaben Sperre Bewerten in Haushaltsrecht BHO Bund und Länder geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Verteidigungsausgaben Sperre Bewerten: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Verteidigungsausgaben Sperre Bewerten

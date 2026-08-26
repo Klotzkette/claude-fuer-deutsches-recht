@@ -1,6 +1,6 @@
 ---
 name: zulassung-und-widerruf-organisationspflicht-und-p
-description: "Wenn es um Zulassung Und Widerruf Organisationspflicht Und P in Berufsrecht Steuerberater geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Zulassung und Widerruf Organisationspflicht und P: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Steuerberater: zulassung und widerruf - Organisationspflichten, Prävention, Team-Anweisung und Fristenkontrolle

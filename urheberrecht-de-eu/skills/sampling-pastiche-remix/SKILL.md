@@ -1,6 +1,6 @@
 ---
 name: sampling-pastiche-remix
-description: "Wenn es um Sampling, Pastiche, Remix und Parodie in Urheberrecht DE EU geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Sampling, Pastiche, Remix und Parodie: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Sampling, Pastiche, Remix und Parodie

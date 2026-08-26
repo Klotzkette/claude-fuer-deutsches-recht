@@ -1,6 +1,6 @@
 ---
 name: dsr-rechtsgrundlage-bauleiter
-description: "Wenn es um DSR: Rechtsgrundlage Bauleiter in Datenschutzrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für DSR: Rechtsgrundlage Bauleiter: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # DSR: Rechtsgrundlage Bauleiter

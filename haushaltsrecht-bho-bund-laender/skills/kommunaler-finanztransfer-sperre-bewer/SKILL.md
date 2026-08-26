@@ -1,6 +1,6 @@
 ---
 name: kommunaler-finanztransfer-sperre-bewer
-description: "Wenn es um Kommunaler Finanztransfer Sperre Bewer in Haushaltsrecht BHO Bund und Länder geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Kommunaler Finanztransfer Sperre Bewer: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Kommunaler Finanztransfer Sperre Bewer

@@ -1,6 +1,6 @@
 ---
 name: revision-sta-verfahrensruegen-vorpruefung
-description: "Wenn es um Revision der Staatsanwaltschaft: Vorprüfung in Staatsanwaltschaft Praxis-Einstieg geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Beweislast- und Substantiierungsmatrix."
+description: "Für Revision der Staatsanwaltschaft: Vorprüfung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Tatbestands- oder Anspruchsmatrix."
 ---
 
 # Revision der Staatsanwaltschaft: Vorprüfung

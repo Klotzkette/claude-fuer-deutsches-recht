@@ -1,6 +1,6 @@
 ---
 name: sondergerichte-und-justizgeschichte
-description: "Wenn es um Sondergerichte und NS-Justizgeschichte in Deutsche Rechtsgeschichte geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Sondergerichte und NS-Justizgeschichte: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Sondergerichte und NS-Justizgeschichte

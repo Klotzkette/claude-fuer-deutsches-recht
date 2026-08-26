@@ -1,6 +1,6 @@
 ---
 name: bildrechte-kug-beiwerk-oeffentlichkeit
-description: "Wenn es um Influencer-Recht: Bildrechte – KUG, Beiwerk und Öffentlichkeit in Influencer-Recht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
+description: "Für Influencer-Recht: Bildrechte – KUG, Beiwerk und Öffentlichkeit: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Influencer-Recht: Bildrechte – KUG, Beiwerk und Öffentlichkeit

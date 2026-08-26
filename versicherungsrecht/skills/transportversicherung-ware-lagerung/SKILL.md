@@ -1,6 +1,6 @@
 ---
 name: transportversicherung-ware-lagerung
-description: "Wenn es um Transportversicherung: Ware, Lagerung, Lieferkette in Versicherungsrecht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
+description: "Für Transportversicherung: Ware, Lagerung, Lieferkette: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Transportversicherung: Ware, Lagerung, Lieferkette

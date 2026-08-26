@@ -7,20 +7,20 @@ Diese Vollprüfung enthält top-15 von 51 Skills des Plugins `fashion-law-modere
 ## Inhaltsverzeichnis
 
 1. **juristischer-argumentationskern** — Schaltet sich ein, wenn in Fashion Law Moderecht ein juristisches Arbeitsprodukt tragfähig begründet werden muss; verbin…
-2. **kaltstart-triage** — Wenn es um Allgemein in fashion-law-moderecht geht: klärt Rolle, Ziel, Frist, Unterlagen und den passenden nächsten Fach…
-3. **size-fit-retouren-und-dark-patterns** — Wenn es um Size Fit Retouren Und Dark Patterns in fashion-law-moderecht geht: ordnet Sachverhalt, Norm, Beweislast, Gege…
-4. **produkthaftung-defective-garment** — Wenn es um Produkt Haftung Defective Garment in fashion-law-moderecht geht: ordnet Sachverhalt, Norm, Beweislast, Gegena…
-5. **lizenz-collaboration-ma-brand** — Wenn es um Lizenz Collaboration Co Branding in fashion-law-moderecht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenar…
-6. **kaltstart-interview** — Wenn es um Fashion Law Kaltstart Interview in fashion-law-moderecht geht: klärt Rolle, Ziel, Frist, Unterlagen und den p…
-7. **model-release-persoenlichkeitsrechte** — Wenn es um Model Release Persoenlichkeitsrechte in fashion-law-moderecht geht: ordnet Sachverhalt, Norm, Beweislast, Geg…
-8. **plattformsales-dsa-pricing-sales** — Wenn es um Plattformsales Dsa Marketplace in fashion-law-moderecht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargu…
-9. **handelsvertreter-showroom-influencer-social** — Wenn es um Handelsvertreter Und Showroom in fashion-law-moderecht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargum…
-10. **metaverse-nft-model-release** — Wenn es um Metaverse Nft Digital Fashion in fashion-law-moderecht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargum…
-11. **employment-creatives-fashion** — Wenn es um Employment Creatives Fashion in fashion-law-moderecht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargume…
-12. **forced-labour-foto-video** — Wenn es um Forced Labour Und Importstop in fashion-law-moderecht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargume…
-13. **brand-enforcement-markenportfolio** — Wenn es um Brand Enforcement Abmahnung in fashion-law-moderecht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumen…
-14. **e-commerce-employment-creatives** — Wenn es um E Commerce Widerruf Fashion in fashion-law-moderecht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumen…
-15. **reach-chemikalien-textilien** — Wenn es um Reach Chemikalien Textilien in fashion-law-moderecht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumen…
+2. **kaltstart-triage** — Für Allgemein: routet Rolle, Frist, Unterlagen und Fachschritt; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt. F…
+3. **kinderkleidung-und-besondere-sicherheitsrisiken** — Für Kinderkleidung und Besondere Sicherheitsrisiken: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mi…
+4. **international-expansion-us-uk** — Für International Expansion Us Uk: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Schnittstellenkarte mit Zuständi…
+5. **textilkennzeichnung-eu-upcycling-repair** — Für Textilkennzeichnung Eu 1007: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Schnittstellenkarte mit Zuständigk…
+6. **mandantenmemo-strategie-manufacturing** — Für Mandantenmemo Fashion Strategie: erstellt Entwurf mit Antrag, Beweis und Anlagen; Ergebnis: Schriftsatz mit Begründu…
+7. **insolvenz-retail-international-expansion** — Für Insolvenz Retail Stock: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Schnittstellenkarte mit Zuständigkeits-…
+8. **kaltstart-interview** — Für Fashion Law Kaltstart Interview: routet Rolle, Frist, Unterlagen und Fachschritt; Ergebnis: Prüfprodukt mit Risiko u…
+9. **litigation-eilverfahren-produkthaftung** — Für Litigation und Eilverfahren Fashion: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und…
+10. **model-release-persoenlichkeitsrechte** — Für Model Release Persönlichkeitsrechte: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und…
+11. **size-fit-retouren-und-dark-patterns** — Für Size Fit Retouren und Dark Patterns: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und…
+12. **produkthaftung-defective-garment** — Für Produkt Haftung Defective Garment: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und n…
+13. **influencer-social-media-kampagne** — Für Influencer Social Media Kampagne: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nä…
+14. **lizenz-collaboration-ma-brand** — Für Lizenz Collaboration Co Branding: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nä…
+15. **plattformsales-dsa-pricing-sales** — Für Plattformsales Dsa Marketplace: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und näch…
 
 ---
 
@@ -140,7 +140,7 @@ Ausgangspunkt für dieses Plugin: Anspruchsteller für Schutzrecht, Rechtekette,
 
 ## Skill: `kaltstart-triage`
 
-_Wenn es um Allgemein in fashion-law-moderecht geht: klärt Rolle, Ziel, Frist, Unterlagen und den passenden nächsten Fachskill; liefert eine Fristen- und Risikoampel mit Sofortschritten._
+_Für Allgemein: routet Rolle, Frist, Unterlagen und Fachschritt; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt. Fachgebiet: fashion-law-moderecht._
 
 # Allgemein
 
@@ -179,11 +179,11 @@ Kaltstart für Modeunternehmen, Kanzlei oder Rechtsabteilung.
 
 ---
 
-## Skill: `size-fit-retouren-und-dark-patterns`
+## Skill: `kinderkleidung-und-besondere-sicherheitsrisiken`
 
-_Wenn es um Size Fit Retouren Und Dark Patterns in fashion-law-moderecht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt._
+_Für Kinderkleidung und Besondere Sicherheitsrisiken: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt._
 
-# Size Fit Retouren Und Dark Patterns
+# Kinderkleidung Und Besondere Sicherheitsrisiken
 
 ## Arbeitsweg
 
@@ -195,15 +195,15 @@ _Wenn es um Size Fit Retouren Und Dark Patterns in fashion-law-moderecht geht: o
 
 ## Wann dieser Skill hilft
 
-Der Online-Shop kämpft mit Retouren, Größenberatung, Checkout-Kommunikation oder aggressiven UX-Mustern.
+Eine Kollektion umfasst Baby-, Kinder- oder Jugendmode oder Accessoires mit erhöhtem Sicherheitsrisiko.
 
 ## Prüfpunkte
 
-- Prüfen, ob Größen- und Passformangaben belegbar, verständlich und konsistent sind.
-- Widerruf, Rücksendekosten, Retourenlabel, Fristen und Ausnahmen sauber darstellen.
-- Knappheitsanzeigen, Countdown, Preselection, Bundles und Newsletter-Opt-ins auf Irreführung prüfen.
-- Datenschutz bei Fit-Tools und Profiling mitdenken.
-- Kundenbeschwerden als Belegquelle für systemische UX-Probleme nutzen.
+- Produktgruppe, Altersziel, Vertriebsländer und Wirtschaftsakteure klären.
+- Prüfberichte, technische Spezifikation, Warnhinweise und Rückverfolgbarkeit abgleichen.
+- Beschwerden und Beinahe-Schäden als Frühwarnsignal behandeln.
+- GPSR-, Produkthaftungs-, UWG- und Rückrufrisiken zusammenführen.
+- Keine vermeintliche Freigabe ohne technische Produktprüfung ausgeben.
 
 ## Quellen-Hardening
 
@@ -214,11 +214,11 @@ Der Online-Shop kämpft mit Retouren, Größenberatung, Checkout-Kommunikation o
 
 ---
 
-## Skill: `produkthaftung-defective-garment`
+## Skill: `international-expansion-us-uk`
 
-_Wenn es um Produkt Haftung Defective Garment in fashion-law-moderecht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt._
+_Für International Expansion Us Uk: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Schnittstellenkarte mit Zuständigkeits- und Nachweisfragen._
 
-# Produkt Haftung Defective Garment
+# International Expansion Us Uk
 
 ## Arbeitsweg
 
@@ -230,7 +230,7 @@ _Wenn es um Produkt Haftung Defective Garment in fashion-law-moderecht geht: ord
 
 ## Wann dieser Skill hilft
 
-Produkt verursacht Schaden oder Risiko.
+Brand geht in neue Märkte.
 
 ## Prüfpunkte
 
@@ -248,11 +248,11 @@ Produkt verursacht Schaden oder Risiko.
 
 ---
 
-## Skill: `lizenz-collaboration-ma-brand`
+## Skill: `textilkennzeichnung-eu-upcycling-repair`
 
-_Wenn es um Lizenz Collaboration Co Branding in fashion-law-moderecht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt._
+_Für Textilkennzeichnung Eu 1007: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Schnittstellenkarte mit Zuständigkeits- und Nachweisfragen._
 
-# Lizenz Collaboration Co Branding
+# Textilkennzeichnung Eu 1007
 
 ## Arbeitsweg
 
@@ -264,7 +264,75 @@ _Wenn es um Lizenz Collaboration Co Branding in fashion-law-moderecht geht: ordn
 
 ## Wann dieser Skill hilft
 
-Zwei Brands oder Creator arbeiten zusammen.
+Kleidungsstücke sollen in der EU verkauft werden.
+
+## Prüfpunkte
+
+- Sachverhalt und Rolle sauber erfassen: Wer handelt, wer ist Rechteinhaber, wer ist Gegner, welches Produkt oder welche Kollektion ist betroffen?
+- Fristen, Registerstand, Veröffentlichungen, Vertragslage und Beweisunterlagen früh sichern.
+- Materielle Prüfung und Verfahrensstrategie trennen: Ein gutes Ergebnis sagt nicht nur, ob etwas möglich ist, sondern wie man es belegt, vorbereitet und durchsetzt.
+- Unsichere Tatsachen offen markieren und mit präzisen Rückfragen schließen.
+
+## Quellen-Hardening
+
+- Normen, Amtsinformationen, Registerdaten, Formulare, Gebühren und Fristen vor belastbarer Ausgabe live in den offiziellen Quellen prüfen.
+- Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und amtlicher oder frei zugänglicher Quelle verwenden.
+- Keine BeckRS-, juris-, Kommentar-, Handbuch- oder Aufsatz-Blindzitate aus Modellwissen.
+- Ausländisches Recht nur als Struktur, Risiko- und Local-Counsel-Briefing ausgeben, wenn keine aktuelle lokale Prüfung vorliegt.
+
+---
+
+## Skill: `mandantenmemo-strategie-manufacturing`
+
+_Für Mandantenmemo Fashion Strategie: erstellt Entwurf mit Antrag, Beweis und Anlagen; Ergebnis: Schriftsatz mit Begründungs- und Anlagenlogik._
+
+# Mandantenmemo Fashion Strategie
+
+## Arbeitsweg
+
+- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
+- Fristen und Eilrisiken zuerst markieren: MarkenG § 47 Schutzdauer 10 Jahre verlängerbar, DesignG § 6 Neuheitsschonfrist 12 Monate, UWG § 4 Nr. 3 keine starre Frist (wettbewerbliche Eigenart), Zollbeschlagnahme VO 608/2013.
+- Tragende Normen verifizieren: MarkenG §§ 4, 14, 15, 24, DesignG §§ 1 ff., UrhG §§ 2 Abs. 1 Nr. 4, 69, UWG §§ 3, 4 Nr. 3, 6 (Nachahmungsschutz), GGV (VO 6/2002), TextilKennzVO (EU 1007/2011), LkSG, AGB-Recht — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
+- Zuständige Stelle bestimmen und Adressaten richtig wählen: Modemarke, Designer, Hersteller, Händler, DPMA/EUIPO, Zollbehörde (Markenpiraterie), LG (Marken-/Designsenate), Influencer/Agentur.
+- Dokumente und Beweismittel sammeln und auf Lücken prüfen: Lookbook, Designanmeldung, Markenanmeldung, Abmahnung, Lizenzvertrag, Lieferkettengesetz-Bericht, Influencer-Kooperationsvertrag, AGB Online-Shop, Rückrufkonzept — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
+
+## Wann dieser Skill hilft
+
+Geschäftsführung oder Gründer brauchen Entscheidung.
+
+## Prüfpunkte
+
+- Sachverhalt und Rolle sauber erfassen: Wer handelt, wer ist Rechteinhaber, wer ist Gegner, welches Produkt oder welche Kollektion ist betroffen?
+- Fristen, Registerstand, Veröffentlichungen, Vertragslage und Beweisunterlagen früh sichern.
+- Materielle Prüfung und Verfahrensstrategie trennen: Ein gutes Ergebnis sagt nicht nur, ob etwas möglich ist, sondern wie man es belegt, vorbereitet und durchsetzt.
+- Unsichere Tatsachen offen markieren und mit präzisen Rückfragen schließen.
+
+## Quellen-Hardening
+
+- Normen, Amtsinformationen, Registerdaten, Formulare, Gebühren und Fristen vor belastbarer Ausgabe live in den offiziellen Quellen prüfen.
+- Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und amtlicher oder frei zugänglicher Quelle verwenden.
+- Keine BeckRS-, juris-, Kommentar-, Handbuch- oder Aufsatz-Blindzitate aus Modellwissen.
+- Ausländisches Recht nur als Struktur, Risiko- und Local-Counsel-Briefing ausgeben, wenn keine aktuelle lokale Prüfung vorliegt.
+
+---
+
+## Skill: `insolvenz-retail-international-expansion`
+
+_Für Insolvenz Retail Stock: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Schnittstellenkarte mit Zuständigkeits- und Nachweisfragen._
+
+# Insolvenz Retail Stock
+
+## Arbeitsweg
+
+- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
+- Fristen und Eilrisiken zuerst markieren: MarkenG § 47 Schutzdauer 10 Jahre verlängerbar, DesignG § 6 Neuheitsschonfrist 12 Monate, UWG § 4 Nr. 3 keine starre Frist (wettbewerbliche Eigenart), Zollbeschlagnahme VO 608/2013.
+- Tragende Normen verifizieren: MarkenG §§ 4, 14, 15, 24, DesignG §§ 1 ff., UrhG §§ 2 Abs. 1 Nr. 4, 69, UWG §§ 3, 4 Nr. 3, 6 (Nachahmungsschutz), GGV (VO 6/2002), TextilKennzVO (EU 1007/2011), LkSG, AGB-Recht — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
+- Zuständige Stelle bestimmen und Adressaten richtig wählen: Modemarke, Designer, Hersteller, Händler, DPMA/EUIPO, Zollbehörde (Markenpiraterie), LG (Marken-/Designsenate), Influencer/Agentur.
+- Dokumente und Beweismittel sammeln und auf Lücken prüfen: Lookbook, Designanmeldung, Markenanmeldung, Abmahnung, Lizenzvertrag, Lieferkettengesetz-Bericht, Influencer-Kooperationsvertrag, AGB Online-Shop, Rückrufkonzept — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
+
+## Wann dieser Skill hilft
+
+Retail-Partner oder Brand gerät in Krise.
 
 ## Prüfpunkte
 
@@ -284,7 +352,7 @@ Zwei Brands oder Creator arbeiten zusammen.
 
 ## Skill: `kaltstart-interview`
 
-_Wenn es um Fashion Law Kaltstart Interview in fashion-law-moderecht geht: klärt Rolle, Ziel, Frist, Unterlagen und den passenden nächsten Fachskill; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt._
+_Für Fashion Law Kaltstart Interview: routet Rolle, Frist, Unterlagen und Fachschritt; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt._
 
 # Fashion Law Kaltstart Interview
 
@@ -323,9 +391,43 @@ Ein Modefall startet ohne saubere Akte.
 
 ---
 
+## Skill: `litigation-eilverfahren-produkthaftung`
+
+_Für Litigation und Eilverfahren Fashion: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt._
+
+# Litigation Und Eilverfahren Fashion
+
+## Arbeitsweg
+
+- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
+- Fristen und Eilrisiken zuerst markieren: MarkenG § 47 Schutzdauer 10 Jahre verlängerbar, DesignG § 6 Neuheitsschonfrist 12 Monate, UWG § 4 Nr. 3 keine starre Frist (wettbewerbliche Eigenart), Zollbeschlagnahme VO 608/2013.
+- Tragende Normen verifizieren: MarkenG §§ 4, 14, 15, 24, DesignG §§ 1 ff., UrhG §§ 2 Abs. 1 Nr. 4, 69, UWG §§ 3, 4 Nr. 3, 6 (Nachahmungsschutz), GGV (VO 6/2002), TextilKennzVO (EU 1007/2011), LkSG, AGB-Recht — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
+- Zuständige Stelle bestimmen und Adressaten richtig wählen: Modemarke, Designer, Hersteller, Händler, DPMA/EUIPO, Zollbehörde (Markenpiraterie), LG (Marken-/Designsenate), Influencer/Agentur.
+- Dokumente und Beweismittel sammeln und auf Lücken prüfen: Lookbook, Designanmeldung, Markenanmeldung, Abmahnung, Lizenzvertrag, Lieferkettengesetz-Bericht, Influencer-Kooperationsvertrag, AGB Online-Shop, Rückrufkonzept — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
+
+## Wann dieser Skill hilft
+
+Schnelles Verfahren ist nötig.
+
+## Prüfpunkte
+
+- Sachverhalt und Rolle sauber erfassen: Wer handelt, wer ist Rechteinhaber, wer ist Gegner, welches Produkt oder welche Kollektion ist betroffen?
+- Fristen, Registerstand, Veröffentlichungen, Vertragslage und Beweisunterlagen früh sichern.
+- Materielle Prüfung und Verfahrensstrategie trennen: Ein gutes Ergebnis sagt nicht nur, ob etwas möglich ist, sondern wie man es belegt, vorbereitet und durchsetzt.
+- Unsichere Tatsachen offen markieren und mit präzisen Rückfragen schließen.
+
+## Quellen-Hardening
+
+- Normen, Amtsinformationen, Registerdaten, Formulare, Gebühren und Fristen vor belastbarer Ausgabe live in den offiziellen Quellen prüfen.
+- Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und amtlicher oder frei zugänglicher Quelle verwenden.
+- Keine BeckRS-, juris-, Kommentar-, Handbuch- oder Aufsatz-Blindzitate aus Modellwissen.
+- Ausländisches Recht nur als Struktur, Risiko- und Local-Counsel-Briefing ausgeben, wenn keine aktuelle lokale Prüfung vorliegt.
+
+---
+
 ## Skill: `model-release-persoenlichkeitsrechte`
 
-_Wenn es um Model Release Persoenlichkeitsrechte in fashion-law-moderecht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen._
+_Für Model Release Persönlichkeitsrechte: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt._
 
 # Model Release Persoenlichkeitsrechte
 
@@ -357,9 +459,146 @@ Kampagnenfotos oder Runway-Material sollen genutzt werden.
 
 ---
 
+## Skill: `size-fit-retouren-und-dark-patterns`
+
+_Für Size Fit Retouren und Dark Patterns: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt._
+
+# Size Fit Retouren Und Dark Patterns
+
+## Arbeitsweg
+
+- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
+- Fristen und Eilrisiken zuerst markieren: MarkenG § 47 Schutzdauer 10 Jahre verlängerbar, DesignG § 6 Neuheitsschonfrist 12 Monate, UWG § 4 Nr. 3 keine starre Frist (wettbewerbliche Eigenart), Zollbeschlagnahme VO 608/2013.
+- Tragende Normen verifizieren: MarkenG §§ 4, 14, 15, 24, DesignG §§ 1 ff., UrhG §§ 2 Abs. 1 Nr. 4, 69, UWG §§ 3, 4 Nr. 3, 6 (Nachahmungsschutz), GGV (VO 6/2002), TextilKennzVO (EU 1007/2011), LkSG, AGB-Recht — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
+- Zuständige Stelle bestimmen und Adressaten richtig wählen: Modemarke, Designer, Hersteller, Händler, DPMA/EUIPO, Zollbehörde (Markenpiraterie), LG (Marken-/Designsenate), Influencer/Agentur.
+- Dokumente und Beweismittel sammeln und auf Lücken prüfen: Lookbook, Designanmeldung, Markenanmeldung, Abmahnung, Lizenzvertrag, Lieferkettengesetz-Bericht, Influencer-Kooperationsvertrag, AGB Online-Shop, Rückrufkonzept — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
+
+## Wann dieser Skill hilft
+
+Der Online-Shop kämpft mit Retouren, Größenberatung, Checkout-Kommunikation oder aggressiven UX-Mustern.
+
+## Prüfpunkte
+
+- Prüfen, ob Größen- und Passformangaben belegbar, verständlich und konsistent sind.
+- Widerruf, Rücksendekosten, Retourenlabel, Fristen und Ausnahmen sauber darstellen.
+- Knappheitsanzeigen, Countdown, Preselection, Bundles und Newsletter-Opt-ins auf Irreführung prüfen.
+- Datenschutz bei Fit-Tools und Profiling mitdenken.
+- Kundenbeschwerden als Belegquelle für systemische UX-Probleme nutzen.
+
+## Quellen-Hardening
+
+- Normen, Amtsinformationen, Registerdaten, Formulare, Gebühren und Fristen vor belastbarer Ausgabe live in den offiziellen Quellen prüfen.
+- Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und amtlicher oder frei zugänglicher Quelle verwenden.
+- Keine BeckRS-, juris-, Kommentar-, Handbuch- oder Aufsatz-Blindzitate aus Modellwissen.
+- Ausländisches Recht nur als Struktur, Risiko- und Local-Counsel-Briefing ausgeben, wenn keine aktuelle lokale Prüfung vorliegt.
+
+---
+
+## Skill: `produkthaftung-defective-garment`
+
+_Für Produkt Haftung Defective Garment: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt._
+
+# Produkt Haftung Defective Garment
+
+## Arbeitsweg
+
+- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
+- Fristen und Eilrisiken zuerst markieren: MarkenG § 47 Schutzdauer 10 Jahre verlängerbar, DesignG § 6 Neuheitsschonfrist 12 Monate, UWG § 4 Nr. 3 keine starre Frist (wettbewerbliche Eigenart), Zollbeschlagnahme VO 608/2013.
+- Tragende Normen verifizieren: MarkenG §§ 4, 14, 15, 24, DesignG §§ 1 ff., UrhG §§ 2 Abs. 1 Nr. 4, 69, UWG §§ 3, 4 Nr. 3, 6 (Nachahmungsschutz), GGV (VO 6/2002), TextilKennzVO (EU 1007/2011), LkSG, AGB-Recht — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
+- Zuständige Stelle bestimmen und Adressaten richtig wählen: Modemarke, Designer, Hersteller, Händler, DPMA/EUIPO, Zollbehörde (Markenpiraterie), LG (Marken-/Designsenate), Influencer/Agentur.
+- Dokumente und Beweismittel sammeln und auf Lücken prüfen: Lookbook, Designanmeldung, Markenanmeldung, Abmahnung, Lizenzvertrag, Lieferkettengesetz-Bericht, Influencer-Kooperationsvertrag, AGB Online-Shop, Rückrufkonzept — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
+
+## Wann dieser Skill hilft
+
+Produkt verursacht Schaden oder Risiko.
+
+## Prüfpunkte
+
+- Sachverhalt und Rolle sauber erfassen: Wer handelt, wer ist Rechteinhaber, wer ist Gegner, welches Produkt oder welche Kollektion ist betroffen?
+- Fristen, Registerstand, Veröffentlichungen, Vertragslage und Beweisunterlagen früh sichern.
+- Materielle Prüfung und Verfahrensstrategie trennen: Ein gutes Ergebnis sagt nicht nur, ob etwas möglich ist, sondern wie man es belegt, vorbereitet und durchsetzt.
+- Unsichere Tatsachen offen markieren und mit präzisen Rückfragen schließen.
+
+## Quellen-Hardening
+
+- Normen, Amtsinformationen, Registerdaten, Formulare, Gebühren und Fristen vor belastbarer Ausgabe live in den offiziellen Quellen prüfen.
+- Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und amtlicher oder frei zugänglicher Quelle verwenden.
+- Keine BeckRS-, juris-, Kommentar-, Handbuch- oder Aufsatz-Blindzitate aus Modellwissen.
+- Ausländisches Recht nur als Struktur, Risiko- und Local-Counsel-Briefing ausgeben, wenn keine aktuelle lokale Prüfung vorliegt.
+
+---
+
+## Skill: `influencer-social-media-kampagne`
+
+_Für Influencer Social Media Kampagne: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt._
+
+# Influencer Social Media Kampagne
+
+## Arbeitsweg
+
+- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
+- Fristen und Eilrisiken zuerst markieren: MarkenG § 47 Schutzdauer 10 Jahre verlängerbar, DesignG § 6 Neuheitsschonfrist 12 Monate, UWG § 4 Nr. 3 keine starre Frist (wettbewerbliche Eigenart), Zollbeschlagnahme VO 608/2013.
+- Tragende Normen verifizieren: MarkenG §§ 4, 14, 15, 24, DesignG §§ 1 ff., UrhG §§ 2 Abs. 1 Nr. 4, 69, UWG §§ 3, 4 Nr. 3, 6 (Nachahmungsschutz), GGV (VO 6/2002), TextilKennzVO (EU 1007/2011), LkSG, AGB-Recht — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
+- Zuständige Stelle bestimmen und Adressaten richtig wählen: Modemarke, Designer, Hersteller, Händler, DPMA/EUIPO, Zollbehörde (Markenpiraterie), LG (Marken-/Designsenate), Influencer/Agentur.
+- Dokumente und Beweismittel sammeln und auf Lücken prüfen: Lookbook, Designanmeldung, Markenanmeldung, Abmahnung, Lizenzvertrag, Lieferkettengesetz-Bericht, Influencer-Kooperationsvertrag, AGB Online-Shop, Rückrufkonzept — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
+
+## Wann dieser Skill hilft
+
+Eine Kampagne steht an oder ist schiefgelaufen.
+
+## Prüfpunkte
+
+- Sachverhalt und Rolle sauber erfassen: Wer handelt, wer ist Rechteinhaber, wer ist Gegner, welches Produkt oder welche Kollektion ist betroffen?
+- Fristen, Registerstand, Veröffentlichungen, Vertragslage und Beweisunterlagen früh sichern.
+- Materielle Prüfung und Verfahrensstrategie trennen: Ein gutes Ergebnis sagt nicht nur, ob etwas möglich ist, sondern wie man es belegt, vorbereitet und durchsetzt.
+- Unsichere Tatsachen offen markieren und mit präzisen Rückfragen schließen.
+
+## Quellen-Hardening
+
+- Normen, Amtsinformationen, Registerdaten, Formulare, Gebühren und Fristen vor belastbarer Ausgabe live in den offiziellen Quellen prüfen.
+- Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und amtlicher oder frei zugänglicher Quelle verwenden.
+- Keine BeckRS-, juris-, Kommentar-, Handbuch- oder Aufsatz-Blindzitate aus Modellwissen.
+- Ausländisches Recht nur als Struktur, Risiko- und Local-Counsel-Briefing ausgeben, wenn keine aktuelle lokale Prüfung vorliegt.
+
+---
+
+## Skill: `lizenz-collaboration-ma-brand`
+
+_Für Lizenz Collaboration Co Branding: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt._
+
+# Lizenz Collaboration Co Branding
+
+## Arbeitsweg
+
+- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
+- Fristen und Eilrisiken zuerst markieren: MarkenG § 47 Schutzdauer 10 Jahre verlängerbar, DesignG § 6 Neuheitsschonfrist 12 Monate, UWG § 4 Nr. 3 keine starre Frist (wettbewerbliche Eigenart), Zollbeschlagnahme VO 608/2013.
+- Tragende Normen verifizieren: MarkenG §§ 4, 14, 15, 24, DesignG §§ 1 ff., UrhG §§ 2 Abs. 1 Nr. 4, 69, UWG §§ 3, 4 Nr. 3, 6 (Nachahmungsschutz), GGV (VO 6/2002), TextilKennzVO (EU 1007/2011), LkSG, AGB-Recht — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
+- Zuständige Stelle bestimmen und Adressaten richtig wählen: Modemarke, Designer, Hersteller, Händler, DPMA/EUIPO, Zollbehörde (Markenpiraterie), LG (Marken-/Designsenate), Influencer/Agentur.
+- Dokumente und Beweismittel sammeln und auf Lücken prüfen: Lookbook, Designanmeldung, Markenanmeldung, Abmahnung, Lizenzvertrag, Lieferkettengesetz-Bericht, Influencer-Kooperationsvertrag, AGB Online-Shop, Rückrufkonzept — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
+
+## Wann dieser Skill hilft
+
+Zwei Brands oder Creator arbeiten zusammen.
+
+## Prüfpunkte
+
+- Sachverhalt und Rolle sauber erfassen: Wer handelt, wer ist Rechteinhaber, wer ist Gegner, welches Produkt oder welche Kollektion ist betroffen?
+- Fristen, Registerstand, Veröffentlichungen, Vertragslage und Beweisunterlagen früh sichern.
+- Materielle Prüfung und Verfahrensstrategie trennen: Ein gutes Ergebnis sagt nicht nur, ob etwas möglich ist, sondern wie man es belegt, vorbereitet und durchsetzt.
+- Unsichere Tatsachen offen markieren und mit präzisen Rückfragen schließen.
+
+## Quellen-Hardening
+
+- Normen, Amtsinformationen, Registerdaten, Formulare, Gebühren und Fristen vor belastbarer Ausgabe live in den offiziellen Quellen prüfen.
+- Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und amtlicher oder frei zugänglicher Quelle verwenden.
+- Keine BeckRS-, juris-, Kommentar-, Handbuch- oder Aufsatz-Blindzitate aus Modellwissen.
+- Ausländisches Recht nur als Struktur, Risiko- und Local-Counsel-Briefing ausgeben, wenn keine aktuelle lokale Prüfung vorliegt.
+
+---
+
 ## Skill: `plattformsales-dsa-pricing-sales`
 
-_Wenn es um Plattformsales Dsa Marketplace in fashion-law-moderecht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt._
+_Für Plattformsales Dsa Marketplace: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt._
 
 # Plattformsales Dsa Marketplace
 
@@ -374,244 +613,6 @@ _Wenn es um Plattformsales Dsa Marketplace in fashion-law-moderecht geht: ordnet
 ## Wann dieser Skill hilft
 
 Verkauf läuft über Marktplätze.
-
-## Prüfpunkte
-
-- Sachverhalt und Rolle sauber erfassen: Wer handelt, wer ist Rechteinhaber, wer ist Gegner, welches Produkt oder welche Kollektion ist betroffen?
-- Fristen, Registerstand, Veröffentlichungen, Vertragslage und Beweisunterlagen früh sichern.
-- Materielle Prüfung und Verfahrensstrategie trennen: Ein gutes Ergebnis sagt nicht nur, ob etwas möglich ist, sondern wie man es belegt, vorbereitet und durchsetzt.
-- Unsichere Tatsachen offen markieren und mit präzisen Rückfragen schließen.
-
-## Quellen-Hardening
-
-- Normen, Amtsinformationen, Registerdaten, Formulare, Gebühren und Fristen vor belastbarer Ausgabe live in den offiziellen Quellen prüfen.
-- Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und amtlicher oder frei zugänglicher Quelle verwenden.
-- Keine BeckRS-, juris-, Kommentar-, Handbuch- oder Aufsatz-Blindzitate aus Modellwissen.
-- Ausländisches Recht nur als Struktur, Risiko- und Local-Counsel-Briefing ausgeben, wenn keine aktuelle lokale Prüfung vorliegt.
-
----
-
-## Skill: `handelsvertreter-showroom-influencer-social`
-
-_Wenn es um Handelsvertreter Und Showroom in fashion-law-moderecht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt._
-
-# Handelsvertreter Und Showroom
-
-## Arbeitsweg
-
-- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
-- Fristen und Eilrisiken zuerst markieren: MarkenG § 47 Schutzdauer 10 Jahre verlängerbar, DesignG § 6 Neuheitsschonfrist 12 Monate, UWG § 4 Nr. 3 keine starre Frist (wettbewerbliche Eigenart), Zollbeschlagnahme VO 608/2013.
-- Tragende Normen verifizieren: MarkenG §§ 4, 14, 15, 24, DesignG §§ 1 ff., UrhG §§ 2 Abs. 1 Nr. 4, 69, UWG §§ 3, 4 Nr. 3, 6 (Nachahmungsschutz), GGV (VO 6/2002), TextilKennzVO (EU 1007/2011), LkSG, AGB-Recht — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
-- Zuständige Stelle bestimmen und Adressaten richtig wählen: Modemarke, Designer, Hersteller, Händler, DPMA/EUIPO, Zollbehörde (Markenpiraterie), LG (Marken-/Designsenate), Influencer/Agentur.
-- Dokumente und Beweismittel sammeln und auf Lücken prüfen: Lookbook, Designanmeldung, Markenanmeldung, Abmahnung, Lizenzvertrag, Lieferkettengesetz-Bericht, Influencer-Kooperationsvertrag, AGB Online-Shop, Rückrufkonzept — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
-
-## Wann dieser Skill hilft
-
-Vertriebspartner werden eingesetzt.
-
-## Prüfpunkte
-
-- Sachverhalt und Rolle sauber erfassen: Wer handelt, wer ist Rechteinhaber, wer ist Gegner, welches Produkt oder welche Kollektion ist betroffen?
-- Fristen, Registerstand, Veröffentlichungen, Vertragslage und Beweisunterlagen früh sichern.
-- Materielle Prüfung und Verfahrensstrategie trennen: Ein gutes Ergebnis sagt nicht nur, ob etwas möglich ist, sondern wie man es belegt, vorbereitet und durchsetzt.
-- Unsichere Tatsachen offen markieren und mit präzisen Rückfragen schließen.
-
-## Quellen-Hardening
-
-- Normen, Amtsinformationen, Registerdaten, Formulare, Gebühren und Fristen vor belastbarer Ausgabe live in den offiziellen Quellen prüfen.
-- Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und amtlicher oder frei zugänglicher Quelle verwenden.
-- Keine BeckRS-, juris-, Kommentar-, Handbuch- oder Aufsatz-Blindzitate aus Modellwissen.
-- Ausländisches Recht nur als Struktur, Risiko- und Local-Counsel-Briefing ausgeben, wenn keine aktuelle lokale Prüfung vorliegt.
-
----
-
-## Skill: `metaverse-nft-model-release`
-
-_Wenn es um Metaverse Nft Digital Fashion in fashion-law-moderecht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt._
-
-# Metaverse Nft Digital Fashion
-
-## Arbeitsweg
-
-- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
-- Fristen und Eilrisiken zuerst markieren: MarkenG § 47 Schutzdauer 10 Jahre verlängerbar, DesignG § 6 Neuheitsschonfrist 12 Monate, UWG § 4 Nr. 3 keine starre Frist (wettbewerbliche Eigenart), Zollbeschlagnahme VO 608/2013.
-- Tragende Normen verifizieren: MarkenG §§ 4, 14, 15, 24, DesignG §§ 1 ff., UrhG §§ 2 Abs. 1 Nr. 4, 69, UWG §§ 3, 4 Nr. 3, 6 (Nachahmungsschutz), GGV (VO 6/2002), TextilKennzVO (EU 1007/2011), LkSG, AGB-Recht — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
-- Zuständige Stelle bestimmen und Adressaten richtig wählen: Modemarke, Designer, Hersteller, Händler, DPMA/EUIPO, Zollbehörde (Markenpiraterie), LG (Marken-/Designsenate), Influencer/Agentur.
-- Dokumente und Beweismittel sammeln und auf Lücken prüfen: Lookbook, Designanmeldung, Markenanmeldung, Abmahnung, Lizenzvertrag, Lieferkettengesetz-Bericht, Influencer-Kooperationsvertrag, AGB Online-Shop, Rückrufkonzept — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
-
-## Wann dieser Skill hilft
-
-Digitale Modeprodukte werden angeboten.
-
-## Prüfpunkte
-
-- Sachverhalt und Rolle sauber erfassen: Wer handelt, wer ist Rechteinhaber, wer ist Gegner, welches Produkt oder welche Kollektion ist betroffen?
-- Fristen, Registerstand, Veröffentlichungen, Vertragslage und Beweisunterlagen früh sichern.
-- Materielle Prüfung und Verfahrensstrategie trennen: Ein gutes Ergebnis sagt nicht nur, ob etwas möglich ist, sondern wie man es belegt, vorbereitet und durchsetzt.
-- Unsichere Tatsachen offen markieren und mit präzisen Rückfragen schließen.
-
-## Quellen-Hardening
-
-- Normen, Amtsinformationen, Registerdaten, Formulare, Gebühren und Fristen vor belastbarer Ausgabe live in den offiziellen Quellen prüfen.
-- Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und amtlicher oder frei zugänglicher Quelle verwenden.
-- Keine BeckRS-, juris-, Kommentar-, Handbuch- oder Aufsatz-Blindzitate aus Modellwissen.
-- Ausländisches Recht nur als Struktur, Risiko- und Local-Counsel-Briefing ausgeben, wenn keine aktuelle lokale Prüfung vorliegt.
-
----
-
-## Skill: `employment-creatives-fashion`
-
-_Wenn es um Employment Creatives Fashion in fashion-law-moderecht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt._
-
-# Employment Creatives Fashion
-
-## Arbeitsweg
-
-- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
-- Fristen und Eilrisiken zuerst markieren: MarkenG § 47 Schutzdauer 10 Jahre verlängerbar, DesignG § 6 Neuheitsschonfrist 12 Monate, UWG § 4 Nr. 3 keine starre Frist (wettbewerbliche Eigenart), Zollbeschlagnahme VO 608/2013.
-- Tragende Normen verifizieren: MarkenG §§ 4, 14, 15, 24, DesignG §§ 1 ff., UrhG §§ 2 Abs. 1 Nr. 4, 69, UWG §§ 3, 4 Nr. 3, 6 (Nachahmungsschutz), GGV (VO 6/2002), TextilKennzVO (EU 1007/2011), LkSG, AGB-Recht — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
-- Zuständige Stelle bestimmen und Adressaten richtig wählen: Modemarke, Designer, Hersteller, Händler, DPMA/EUIPO, Zollbehörde (Markenpiraterie), LG (Marken-/Designsenate), Influencer/Agentur.
-- Dokumente und Beweismittel sammeln und auf Lücken prüfen: Lookbook, Designanmeldung, Markenanmeldung, Abmahnung, Lizenzvertrag, Lieferkettengesetz-Bericht, Influencer-Kooperationsvertrag, AGB Online-Shop, Rückrufkonzept — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
-
-## Wann dieser Skill hilft
-
-Personalfragen betreffen Modebetrieb.
-
-## Prüfpunkte
-
-- Sachverhalt und Rolle sauber erfassen: Wer handelt, wer ist Rechteinhaber, wer ist Gegner, welches Produkt oder welche Kollektion ist betroffen?
-- Fristen, Registerstand, Veröffentlichungen, Vertragslage und Beweisunterlagen früh sichern.
-- Materielle Prüfung und Verfahrensstrategie trennen: Ein gutes Ergebnis sagt nicht nur, ob etwas möglich ist, sondern wie man es belegt, vorbereitet und durchsetzt.
-- Unsichere Tatsachen offen markieren und mit präzisen Rückfragen schließen.
-
-## Quellen-Hardening
-
-- Normen, Amtsinformationen, Registerdaten, Formulare, Gebühren und Fristen vor belastbarer Ausgabe live in den offiziellen Quellen prüfen.
-- Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und amtlicher oder frei zugänglicher Quelle verwenden.
-- Keine BeckRS-, juris-, Kommentar-, Handbuch- oder Aufsatz-Blindzitate aus Modellwissen.
-- Ausländisches Recht nur als Struktur, Risiko- und Local-Counsel-Briefing ausgeben, wenn keine aktuelle lokale Prüfung vorliegt.
-
----
-
-## Skill: `forced-labour-foto-video`
-
-_Wenn es um Forced Labour Und Importstop in fashion-law-moderecht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt._
-
-# Forced Labour Und Importstop
-
-## Arbeitsweg
-
-- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
-- Fristen und Eilrisiken zuerst markieren: MarkenG § 47 Schutzdauer 10 Jahre verlängerbar, DesignG § 6 Neuheitsschonfrist 12 Monate, UWG § 4 Nr. 3 keine starre Frist (wettbewerbliche Eigenart), Zollbeschlagnahme VO 608/2013.
-- Tragende Normen verifizieren: MarkenG §§ 4, 14, 15, 24, DesignG §§ 1 ff., UrhG §§ 2 Abs. 1 Nr. 4, 69, UWG §§ 3, 4 Nr. 3, 6 (Nachahmungsschutz), GGV (VO 6/2002), TextilKennzVO (EU 1007/2011), LkSG, AGB-Recht — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
-- Zuständige Stelle bestimmen und Adressaten richtig wählen: Modemarke, Designer, Hersteller, Händler, DPMA/EUIPO, Zollbehörde (Markenpiraterie), LG (Marken-/Designsenate), Influencer/Agentur.
-- Dokumente und Beweismittel sammeln und auf Lücken prüfen: Lookbook, Designanmeldung, Markenanmeldung, Abmahnung, Lizenzvertrag, Lieferkettengesetz-Bericht, Influencer-Kooperationsvertrag, AGB Online-Shop, Rückrufkonzept — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
-
-## Wann dieser Skill hilft
-
-Ware oder Supplier steht unter Verdacht.
-
-## Prüfpunkte
-
-- Sachverhalt und Rolle sauber erfassen: Wer handelt, wer ist Rechteinhaber, wer ist Gegner, welches Produkt oder welche Kollektion ist betroffen?
-- Fristen, Registerstand, Veröffentlichungen, Vertragslage und Beweisunterlagen früh sichern.
-- Materielle Prüfung und Verfahrensstrategie trennen: Ein gutes Ergebnis sagt nicht nur, ob etwas möglich ist, sondern wie man es belegt, vorbereitet und durchsetzt.
-- Unsichere Tatsachen offen markieren und mit präzisen Rückfragen schließen.
-
-## Quellen-Hardening
-
-- Normen, Amtsinformationen, Registerdaten, Formulare, Gebühren und Fristen vor belastbarer Ausgabe live in den offiziellen Quellen prüfen.
-- Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und amtlicher oder frei zugänglicher Quelle verwenden.
-- Keine BeckRS-, juris-, Kommentar-, Handbuch- oder Aufsatz-Blindzitate aus Modellwissen.
-- Ausländisches Recht nur als Struktur, Risiko- und Local-Counsel-Briefing ausgeben, wenn keine aktuelle lokale Prüfung vorliegt.
-
----
-
-## Skill: `brand-enforcement-markenportfolio`
-
-_Wenn es um Brand Enforcement Abmahnung in fashion-law-moderecht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt._
-
-# Brand Enforcement Abmahnung
-
-## Arbeitsweg
-
-- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
-- Fristen und Eilrisiken zuerst markieren: MarkenG § 47 Schutzdauer 10 Jahre verlängerbar, DesignG § 6 Neuheitsschonfrist 12 Monate, UWG § 4 Nr. 3 keine starre Frist (wettbewerbliche Eigenart), Zollbeschlagnahme VO 608/2013.
-- Tragende Normen verifizieren: MarkenG §§ 4, 14, 15, 24, DesignG §§ 1 ff., UrhG §§ 2 Abs. 1 Nr. 4, 69, UWG §§ 3, 4 Nr. 3, 6 (Nachahmungsschutz), GGV (VO 6/2002), TextilKennzVO (EU 1007/2011), LkSG, AGB-Recht — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
-- Zuständige Stelle bestimmen und Adressaten richtig wählen: Modemarke, Designer, Hersteller, Händler, DPMA/EUIPO, Zollbehörde (Markenpiraterie), LG (Marken-/Designsenate), Influencer/Agentur.
-- Dokumente und Beweismittel sammeln und auf Lücken prüfen: Lookbook, Designanmeldung, Markenanmeldung, Abmahnung, Lizenzvertrag, Lieferkettengesetz-Bericht, Influencer-Kooperationsvertrag, AGB Online-Shop, Rückrufkonzept — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
-
-## Wann dieser Skill hilft
-
-Ein Copycat soll angegangen werden.
-
-## Prüfpunkte
-
-- Sachverhalt und Rolle sauber erfassen: Wer handelt, wer ist Rechteinhaber, wer ist Gegner, welches Produkt oder welche Kollektion ist betroffen?
-- Fristen, Registerstand, Veröffentlichungen, Vertragslage und Beweisunterlagen früh sichern.
-- Materielle Prüfung und Verfahrensstrategie trennen: Ein gutes Ergebnis sagt nicht nur, ob etwas möglich ist, sondern wie man es belegt, vorbereitet und durchsetzt.
-- Unsichere Tatsachen offen markieren und mit präzisen Rückfragen schließen.
-
-## Quellen-Hardening
-
-- Normen, Amtsinformationen, Registerdaten, Formulare, Gebühren und Fristen vor belastbarer Ausgabe live in den offiziellen Quellen prüfen.
-- Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und amtlicher oder frei zugänglicher Quelle verwenden.
-- Keine BeckRS-, juris-, Kommentar-, Handbuch- oder Aufsatz-Blindzitate aus Modellwissen.
-- Ausländisches Recht nur als Struktur, Risiko- und Local-Counsel-Briefing ausgeben, wenn keine aktuelle lokale Prüfung vorliegt.
-
----
-
-## Skill: `e-commerce-employment-creatives`
-
-_Wenn es um E Commerce Widerruf Fashion in fashion-law-moderecht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt._
-
-# E Commerce Widerruf Fashion
-
-## Arbeitsweg
-
-- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
-- Fristen und Eilrisiken zuerst markieren: MarkenG § 47 Schutzdauer 10 Jahre verlängerbar, DesignG § 6 Neuheitsschonfrist 12 Monate, UWG § 4 Nr. 3 keine starre Frist (wettbewerbliche Eigenart), Zollbeschlagnahme VO 608/2013.
-- Tragende Normen verifizieren: MarkenG §§ 4, 14, 15, 24, DesignG §§ 1 ff., UrhG §§ 2 Abs. 1 Nr. 4, 69, UWG §§ 3, 4 Nr. 3, 6 (Nachahmungsschutz), GGV (VO 6/2002), TextilKennzVO (EU 1007/2011), LkSG, AGB-Recht — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
-- Zuständige Stelle bestimmen und Adressaten richtig wählen: Modemarke, Designer, Hersteller, Händler, DPMA/EUIPO, Zollbehörde (Markenpiraterie), LG (Marken-/Designsenate), Influencer/Agentur.
-- Dokumente und Beweismittel sammeln und auf Lücken prüfen: Lookbook, Designanmeldung, Markenanmeldung, Abmahnung, Lizenzvertrag, Lieferkettengesetz-Bericht, Influencer-Kooperationsvertrag, AGB Online-Shop, Rückrufkonzept — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
-
-## Wann dieser Skill hilft
-
-Online-Shop oder Drop steht vor Launch.
-
-## Prüfpunkte
-
-- Sachverhalt und Rolle sauber erfassen: Wer handelt, wer ist Rechteinhaber, wer ist Gegner, welches Produkt oder welche Kollektion ist betroffen?
-- Fristen, Registerstand, Veröffentlichungen, Vertragslage und Beweisunterlagen früh sichern.
-- Materielle Prüfung und Verfahrensstrategie trennen: Ein gutes Ergebnis sagt nicht nur, ob etwas möglich ist, sondern wie man es belegt, vorbereitet und durchsetzt.
-- Unsichere Tatsachen offen markieren und mit präzisen Rückfragen schließen.
-
-## Quellen-Hardening
-
-- Normen, Amtsinformationen, Registerdaten, Formulare, Gebühren und Fristen vor belastbarer Ausgabe live in den offiziellen Quellen prüfen.
-- Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und amtlicher oder frei zugänglicher Quelle verwenden.
-- Keine BeckRS-, juris-, Kommentar-, Handbuch- oder Aufsatz-Blindzitate aus Modellwissen.
-- Ausländisches Recht nur als Struktur, Risiko- und Local-Counsel-Briefing ausgeben, wenn keine aktuelle lokale Prüfung vorliegt.
-
----
-
-## Skill: `reach-chemikalien-textilien`
-
-_Wenn es um Reach Chemikalien Textilien in fashion-law-moderecht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt._
-
-# Reach Chemikalien Textilien
-
-## Arbeitsweg
-
-- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
-- Fristen und Eilrisiken zuerst markieren: MarkenG § 47 Schutzdauer 10 Jahre verlängerbar, DesignG § 6 Neuheitsschonfrist 12 Monate, UWG § 4 Nr. 3 keine starre Frist (wettbewerbliche Eigenart), Zollbeschlagnahme VO 608/2013.
-- Tragende Normen verifizieren: MarkenG §§ 4, 14, 15, 24, DesignG §§ 1 ff., UrhG §§ 2 Abs. 1 Nr. 4, 69, UWG §§ 3, 4 Nr. 3, 6 (Nachahmungsschutz), GGV (VO 6/2002), TextilKennzVO (EU 1007/2011), LkSG, AGB-Recht — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
-- Zuständige Stelle bestimmen und Adressaten richtig wählen: Modemarke, Designer, Hersteller, Händler, DPMA/EUIPO, Zollbehörde (Markenpiraterie), LG (Marken-/Designsenate), Influencer/Agentur.
-- Dokumente und Beweismittel sammeln und auf Lücken prüfen: Lookbook, Designanmeldung, Markenanmeldung, Abmahnung, Lizenzvertrag, Lieferkettengesetz-Bericht, Influencer-Kooperationsvertrag, AGB Online-Shop, Rückrufkonzept — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
-
-## Wann dieser Skill hilft
-
-Material- oder Laborberichte liegen vor.
 
 ## Prüfpunkte
 

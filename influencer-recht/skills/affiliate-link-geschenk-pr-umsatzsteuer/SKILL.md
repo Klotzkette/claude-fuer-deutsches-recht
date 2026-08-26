@@ -1,6 +1,6 @@
 ---
 name: affiliate-link-geschenk-pr-umsatzsteuer
-description: "Wenn es um Influencer-Recht: Affiliate-Link, Rabattcode und Provision in Influencer-Recht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen."
+description: "Für Influencer-Recht: Affiliate-Link, Rabattcode und Provision: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Schnittstellenkarte mit Zuständigkeits- und Nachweisfragen."
 ---
 
 # Influencer-Recht: Affiliate-Link, Rabattcode und Provision

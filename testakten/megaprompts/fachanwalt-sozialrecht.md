@@ -8,12 +8,12 @@ Diese Vollprüfung enthält top-8 von 115 Skills (gekürzt für das Arbeitsfenst
 
 1. **juristischer-argumentationskern** — Schaltet sich ein, wenn in Fachanwalt Sozialrecht ein juristisches Arbeitsprodukt tragfähig begründet werden muss; verbi…
 2. **sozialgerichtliche-versandmappe-endfertigen** — Endfertigt sozialgerichtliche Klage, Eilantrag, Klagebegründung, Berufung oder Beschwerde: liest Verwaltungs- und Gerich…
-3. **kaltstart-triage** — Wenn es um Kaltstart Triage in Fachanwalt Sozialrecht geht: klärt Rolle, Ziel, Frist, Unterlagen und den passenden nächs…
-4. **mandat-triage-sozialrecht** — Wenn es um Mandat Triage Sozialrecht in Fachanwalt Sozialrecht geht: klärt Rolle, Ziel, Frist, Unterlagen und den passen…
-5. **fachanwalt-sozialrecht-orientierung** — Wenn es um Fachanwalt für Sozialrecht — Orientierung in Fachanwalt Sozialrecht geht: prüft Frist, Form, Zuständigkeit, R…
-6. **erstgespraech-mandatsannahme** — Wenn es um Erstgespraech Mandatsannahme in Fachanwalt Sozialrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und …
-7. **grundsicherung-meldeversaeumnis-paragraf-32-sgb-ii** — Prüft Leistungsminderungen nach einem versäumten Jobcenter-Termin anhand von Paragraf 32 SGB II: wirksame Meldeaufforder…
-8. **krankengeld-au-folgefeststellung-paragraf-46-sgb-v** — Prüft Krankengeld bei verspäteter oder lückenhafter Folgefeststellung der Arbeitsunfähigkeit, trennt Anspruchsentstehung…
+3. **kaltstart-triage** — Für Kaltstart Triage: routet Rolle, Frist, Unterlagen und Fachschritt; Ergebnis: Prüfprodukt mit Risiko und nächstem Sch…
+4. **mandat-triage-sozialrecht** — Für Mandat Triage Sozialrecht: routet Rolle, Frist, Unterlagen und Fachschritt; Ergebnis: Prüfprodukt mit Risiko und näc…
+5. **fachanwalt-sozialrecht-orientierung** — Für Fachanwalt für Sozialrecht — Orientierung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risi…
+6. **erstgespraech-mandatsannahme** — Für Erstgespräch Mandatsannahme: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächste…
+7. **krankengeld-au-folgefeststellung-paragraf-46-sgb-v** — Prüft Krankengeld bei verspäteter oder lückenhafter Folgefeststellung der Arbeitsunfähigkeit, trennt Anspruchsentstehung…
+8. **grundsicherung-meldeversaeumnis-paragraf-32-sgb-ii** — Prüft Leistungsminderungen nach einem versäumten Jobcenter-Termin anhand von Paragraf 32 SGB II: wirksame Meldeaufforder…
 
 ---
 
@@ -138,7 +138,7 @@ Ausgangspunkt für dieses Plugin: Leistungsträger ermittelt von Amts wegen; Ver
 
 ## Skill: `sozialgerichtliche-versandmappe-endfertigen`
 
-_Endfertigt sozialgerichtliche Klage, Eilantrag, Klagebegründung, Berufung oder Beschwerde: liest Verwaltungs- und Gerichtsakte zuerst, gleicht Bescheid und Widerspruchsbescheid mit Antrag und Streitgegenstand ab, ordnet Befunde, Gutachten, Versicherungsverläufe und Leistungsberechnungen zu und liefert eine barrierearme beA-Versandmappe mit fortgeführtem K-/B-Anlagenkreis._
+_Endfertigt sozialgerichtliche Klage, Eilantrag, Klagebegründung, Berufung oder Beschwerde: liest Verwaltungs- und Gerichtsakte zuerst, gleicht Bescheid und Widerspruchsbescheid mit Antrag und Streitgegenstand ab, ordnet Befunde, Gutachten, Versicherungsverläufe und Leistungsberechnungen zu und liefert eine barrierearme beA-Versandmappe mit fortgeführtem._
 
 # Sozialgerichtliche Versandmappe endfertigen
 
@@ -177,7 +177,7 @@ Liefere Schriftsatz, Bescheidkette, Einzelanlagen, medizinische Fundstellenmatri
 
 ## Skill: `kaltstart-triage`
 
-_Wenn es um Kaltstart Triage in Fachanwalt Sozialrecht geht: klärt Rolle, Ziel, Frist, Unterlagen und den passenden nächsten Fachskill; liefert eine Fristen- und Risikoampel mit Sofortschritten._
+_Für Kaltstart Triage: routet Rolle, Frist, Unterlagen und Fachschritt; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt. Fachgebiet: Fachanwalt Sozialrecht._
 
 ## Direktstart: lesen, entscheiden, liefern
 
@@ -316,7 +316,7 @@ Hinweis: Dieser Skill stärkt die anwaltliche Arbeit, indem er Workflow, Intake 
 
 ## Skill: `mandat-triage-sozialrecht`
 
-_Wenn es um Mandat Triage Sozialrecht in Fachanwalt Sozialrecht geht: klärt Rolle, Ziel, Frist, Unterlagen und den passenden nächsten Fachskill; liefert eine Fristen- und Risikoampel mit Sofortschritten._
+_Für Mandat Triage Sozialrecht: routet Rolle, Frist, Unterlagen und Fachschritt; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt._
 
 # Neues sozialrechtliches Mandat: Sekretariat oder Anwalt muss Sachgebiet klären und zum richtigen Skill weiterleiten
 
@@ -508,7 +508,7 @@ Arbeitsmodus: Liefere zuerst einen nutzbaren Zwischenstand in höchstens sieben 
 
 ## Skill: `fachanwalt-sozialrecht-orientierung`
 
-_Wenn es um Fachanwalt für Sozialrecht — Orientierung in Fachanwalt Sozialrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten._
+_Für Fachanwalt für Sozialrecht — Orientierung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt._
 
 # Fachanwalt für Sozialrecht — Orientierung
 
@@ -590,7 +590,7 @@ Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwiss
 
 ## Skill: `erstgespraech-mandatsannahme`
 
-_Wenn es um Erstgespraech Mandatsannahme in Fachanwalt Sozialrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten._
+_Für Erstgespräch Mandatsannahme: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt. Fachgebiet: Fachanwalt Sozialrecht._
 
 # Strukturierter Erstgespraechsleitfaden für Sozialrecht (SGB I-XIV): Erfassung der Konstellation, Konflikt- und GwG-Check, Vollmacht, Streitwert/Gebührenvereinbarung, Fristen-Erstprognose und Handlungsweichen.
 
@@ -773,9 +773,43 @@ Frueheres Mandat mit derselben Gegnerin oder gleichem Sachzusammenhang. Prüfung
 
 ---
 
+## Skill: `krankengeld-au-folgefeststellung-paragraf-46-sgb-v`
+
+_Prüft Krankengeld bei verspäteter oder lückenhafter Folgefeststellung der Arbeitsunfähigkeit, trennt Anspruchsentstehung, Mitgliedschaftserhalt, Arztkontakt und Zurechnung und erstellt eine taggenaue AU-, Fristen- und Beweismatrix für Widerspruch oder Klage._
+
+# Krankengeld und AU-Folgefeststellung prüfen
+
+## 1. Normenanker
+
+- Paragraf 44 SGB V: Anspruch auf Krankengeld.
+- Paragraf 46 SGB V: Entstehung und zeitliche Sicherung des Anspruchs bei ärztlicher Feststellung.
+- Paragraf 192 Absatz 1 Nummer 2 SGB V: Erhalt der Mitgliedschaft bei Krankengeldbezug oder Krankengeldanspruch.
+- Paragrafen 84 und 87 SGG: Widerspruchs- und Klagefrist.
+
+## 2. Verifizierte Rechtsprechungsanker
+
+- BSG, Urteil vom 26.03.2020 - B 3 KR 9/19 R: Nach der dort anwendbaren alten Rechtslage konnte eine vom Vertragsarzt aus nichtmedizinischen Gründen veranlasste Verschiebung eines rechtzeitig vereinbarten Termins der Krankenkasse zugerechnet werden. Die Entscheidung begründet keine allgemeine Heilung jeder Bescheinigungslücke.
+- BSG, Urteil vom 21.09.2023 - B 3 KR 11/22 R: Für den Mitgliedschaftserhalt ist die zeitgerechte ärztliche Feststellung nach Paragraf 46 SGB V entscheidend; Ausnahmen setzen voraus, dass der Versicherte alles ihm Mögliche und Zumutbare getan hat und das Hindernis dem Verantwortungsbereich der Krankenkasse zuzurechnen ist.
+
+## 3. Prüfprogramm
+
+1. Beschäftigungsende, Versicherungsstatus und bisherigen Krankengeldzeitraum taggenau erfassen.
+2. Jede AU-Feststellung mit Untersuchung, Feststellungsdatum, bescheinigtem Zeitraum und Übermittlung an die Krankenkasse in eine Zeitachse eintragen.
+3. Zeitlich anwendbare Fassung des Paragraf 46 SGB V bestimmen.
+4. Prüfen, ob die Folgefeststellung am gesetzlich erforderlichen Tag erfolgt ist.
+5. Bei einer Lücke klären, wann der Versicherte Kontakt aufnahm, welchen Termin er verlangte, wer ihn verschob und ob eine persönliche oder zulässige andere ärztliche Feststellung stattfand.
+6. Zurechnung nicht allein aus einem Arztfehler ableiten; Beratung, Terminsteuerung, Vertrauenstatbestand und eigenes zumutbares Verhalten belegen.
+7. Bescheid, Rechtsbehelf und Fristen prüfen; medizinische Arbeitsunfähigkeit und versicherungsrechtliche Anspruchserhaltung getrennt begründen.
+
+## 4. Ausgabe
+
+Liefere eine Tagesachse, eine Lücken- und Zurechnungsmatrix, eine Fristenampel und einen ausformulierten Widerspruch oder eine Klagebegründung mit konkreten Beweisangeboten.
+
+---
+
 ## Skill: `grundsicherung-meldeversaeumnis-paragraf-32-sgb-ii`
 
-_Prüft Leistungsminderungen nach einem versäumten Jobcenter-Termin anhand von Paragraf 32 SGB II: wirksame Meldeaufforderung, zulässiger Meldezweck, Belehrung, Zugang, wichtiger Grund, Härte, Minderungszeitraum und Eilrechtsschutz. Liefert Bescheidprüfung, Fristenblatt und Widerspruchs- oder Eilantragsbaustein._
+_Prüft Leistungsminderungen nach einem versäumten Jobcenter-Termin anhand von Paragraf 32 SGB II: wirksame Meldeaufforderung, zulässiger Meldezweck, Belehrung, Zugang, wichtiger Grund, Härte, Minderungszeitraum und Eilrechtsschutz._
 
 # Meldeversäumnis in der Grundsicherung prüfen
 
@@ -819,40 +853,6 @@ Liefere eine Bescheidmatrix mit den Spalten Tatbestandsmerkmal, Aktenbeleg, Einw
 - Anhörung und Antwort des Leistungsberechtigten
 - Nachweise zum wichtigen Grund und zur außergewöhnlichen Härte
 - Bewilligungsbescheid, Kontoauszüge und aktuelle Bedarfsbelege für den Eilantrag
-
----
-
-## Skill: `krankengeld-au-folgefeststellung-paragraf-46-sgb-v`
-
-_Prüft Krankengeld bei verspäteter oder lückenhafter Folgefeststellung der Arbeitsunfähigkeit, trennt Anspruchsentstehung, Mitgliedschaftserhalt, Arztkontakt und Zurechnung und erstellt eine taggenaue AU-, Fristen- und Beweismatrix für Widerspruch oder Klage._
-
-# Krankengeld und AU-Folgefeststellung prüfen
-
-## 1. Normenanker
-
-- Paragraf 44 SGB V: Anspruch auf Krankengeld.
-- Paragraf 46 SGB V: Entstehung und zeitliche Sicherung des Anspruchs bei ärztlicher Feststellung.
-- Paragraf 192 Absatz 1 Nummer 2 SGB V: Erhalt der Mitgliedschaft bei Krankengeldbezug oder Krankengeldanspruch.
-- Paragrafen 84 und 87 SGG: Widerspruchs- und Klagefrist.
-
-## 2. Verifizierte Rechtsprechungsanker
-
-- BSG, Urteil vom 26.03.2020 - B 3 KR 9/19 R: Nach der dort anwendbaren alten Rechtslage konnte eine vom Vertragsarzt aus nichtmedizinischen Gründen veranlasste Verschiebung eines rechtzeitig vereinbarten Termins der Krankenkasse zugerechnet werden. Die Entscheidung begründet keine allgemeine Heilung jeder Bescheinigungslücke.
-- BSG, Urteil vom 21.09.2023 - B 3 KR 11/22 R: Für den Mitgliedschaftserhalt ist die zeitgerechte ärztliche Feststellung nach Paragraf 46 SGB V entscheidend; Ausnahmen setzen voraus, dass der Versicherte alles ihm Mögliche und Zumutbare getan hat und das Hindernis dem Verantwortungsbereich der Krankenkasse zuzurechnen ist.
-
-## 3. Prüfprogramm
-
-1. Beschäftigungsende, Versicherungsstatus und bisherigen Krankengeldzeitraum taggenau erfassen.
-2. Jede AU-Feststellung mit Untersuchung, Feststellungsdatum, bescheinigtem Zeitraum und Übermittlung an die Krankenkasse in eine Zeitachse eintragen.
-3. Zeitlich anwendbare Fassung des Paragraf 46 SGB V bestimmen.
-4. Prüfen, ob die Folgefeststellung am gesetzlich erforderlichen Tag erfolgt ist.
-5. Bei einer Lücke klären, wann der Versicherte Kontakt aufnahm, welchen Termin er verlangte, wer ihn verschob und ob eine persönliche oder zulässige andere ärztliche Feststellung stattfand.
-6. Zurechnung nicht allein aus einem Arztfehler ableiten; Beratung, Terminsteuerung, Vertrauenstatbestand und eigenes zumutbares Verhalten belegen.
-7. Bescheid, Rechtsbehelf und Fristen prüfen; medizinische Arbeitsunfähigkeit und versicherungsrechtliche Anspruchserhaltung getrennt begründen.
-
-## 4. Ausgabe
-
-Liefere eine Tagesachse, eine Lücken- und Zurechnungsmatrix, eine Fristenampel und einen ausformulierten Widerspruch oder eine Klagebegründung mit konkreten Beweisangeboten.
 
 ---
 

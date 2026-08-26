@@ -1,6 +1,6 @@
 ---
 name: konten-kassenfuehrung-miet-pachtverwaltung
-description: "Wenn es um Konten, Kasse und Buchführung in ZVG-Zwangsverwaltung - Verwalter-Cockpit geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen."
+description: "Für Konten, Kasse und Buchführung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Konten, Kasse und Buchführung

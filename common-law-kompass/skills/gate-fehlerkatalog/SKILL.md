@@ -1,6 +1,6 @@
 ---
 name: gate-fehlerkatalog
-description: "Wenn es um Gate Fehlerkatalog in Common-Law-Kompass für deutsche Wirtschaftsjuristen geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Gate Fehlerkatalog: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt. Fachgebiet: Common-Law-Kompass für deutsche Wirtschaftsjuristen."
 ---
 
 # Gate Fehlerkatalog

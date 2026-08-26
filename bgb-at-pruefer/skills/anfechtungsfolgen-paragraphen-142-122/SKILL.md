@@ -1,6 +1,6 @@
 ---
 name: anfechtungsfolgen-paragraphen-142-122
-description: "Wenn es um Anfechtungsfolgen — Paragrafen 142 und 122 BGB in BGB AT Prüfer geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Beweislast- und Substantiierungsmatrix. Auswahlstichwort: Anfechtungsfolgen Paragraphen 142 122; Arbeitsfeld: BGB AT Prüfer."
+description: "Für Anfechtungsfolgen — Paragrafen 142 und 122 BGB: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Anfechtungsfolgen — §§ 142 und 122 BGB

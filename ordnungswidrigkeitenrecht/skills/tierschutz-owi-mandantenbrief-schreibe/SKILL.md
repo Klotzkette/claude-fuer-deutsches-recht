@@ -1,6 +1,6 @@
 ---
 name: tierschutz-owi-mandantenbrief-schreibe
-description: "Wenn es um Tierschutz Owi Mandantenbrief Schreibe in Ordnungswidrigkeitenrecht geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert einen verwertbaren Entwurf mit Anträgen, Begründung und Anlagenlogik."
+description: "Für Tierschutz Owi Mandantenbrief Schreibe: erstellt Entwurf mit Antrag, Beweis und Anlagen; Ergebnis: Schriftsatz mit Begründungs- und Anlagenlogik."
 ---
 
 # Tierschutz Owi Mandantenbrief Schreibe

@@ -1,6 +1,6 @@
 ---
 name: wunschermittlung-unterstuetzte-entscheidung
-description: "Wenn es um Wunschermittlung und unterstützte Entscheidung in Betreuungsrecht geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen."
+description: "Für Wunschermittlung und unterstützte Entscheidung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Wunschermittlung und unterstützte Entscheidung

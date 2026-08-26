@@ -1,6 +1,6 @@
 ---
 name: off-label-rare-disease
-description: "Wenn es um Off Label Rare Disease in Fachanwalt Medizinrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Off Label Rare Disease: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Off-Label bei seltener Erkrankung: moderner Medizinrechts-Skill für Off-Label-Use, Seltenheit, Datenlage, lebensbedrohliche Erkrankung und GKV-Erstattung

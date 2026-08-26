@@ -1,6 +1,6 @@
 ---
 name: rechtsabteilung-kartellschadenersatz-nach-behoerdenentscheidung
-description: "Wenn es um Rechtsabteilung: Kartellschadenersatz nach Behördenentscheidung in Kartellrecht — Marktabgrenzungsprüfung geht: ordnet Akteninhalt, Belege, Lücken und Nachforderungen; liefert eine Chronologie mit Belegmatrix und Widerspruchsliste."
+description: "Für Rechtsabteilung: Kartellschadenersatz nach Behördenentscheidung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Rechtsabteilung: Kartellschadenersatz nach Behördenentscheidung

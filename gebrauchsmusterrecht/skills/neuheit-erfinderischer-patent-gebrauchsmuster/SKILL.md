@@ -1,6 +1,6 @@
 ---
 name: neuheit-erfinderischer-patent-gebrauchsmuster
-description: "Wenn es um Neuheit Und Erfinderischer Schritt in gebrauchsmusterrecht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen."
+description: "Für Neuheit und Erfinderischer Schritt: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Schnittstellenkarte mit Zuständigkeits- und Nachweisfragen."
 ---
 
 # Neuheit Und Erfinderischer Schritt

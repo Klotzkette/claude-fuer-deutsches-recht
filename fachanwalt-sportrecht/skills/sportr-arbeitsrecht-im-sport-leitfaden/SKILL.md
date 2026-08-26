@@ -1,6 +1,6 @@
 ---
 name: sportr-arbeitsrecht-im-sport-leitfaden
-description: "Wenn es um Sportr Arbeitsrecht Im Sport Leitfaden in Fachanwalt Sportrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Sportr Arbeitsrecht im Sport Leitfaden: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Leitfaden Arbeitsrecht im Sport: Spielervertrag als befristeter Arbeitsvertrag, Befristungsrecht BAG, Transferregeln FIFA / DFB, Trainerverträge

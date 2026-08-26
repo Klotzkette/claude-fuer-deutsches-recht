@@ -1,6 +1,6 @@
 ---
 name: kontoanalyse-risikoampel-und-gegenargumente
-description: "Wenn es um Kontoanalyse: Risikoampel, Gegenargumente und Verteidigungslinien in Betreuungsrecht geht: zerlegt Ergebnis, Frist, Zuständigkeit, Beweislast und Gegenposition; liefert eine Fristen- und Risikoampel mit Sofortschritten. Auswahlstichwort: Kontoanalyse Risikoampel Und Gegenargumente; Arbeitsfeld: Betreuungsrecht."
+description: "Für Kontoanalyse: Risikoampel, Gegenargumente und Verteidigungslinien: prüft Ergebnis, Beweislast und Gegenposition; Ergebnis: Fristen- und Risikoampel. Fachgebiet: Betreuungsrecht. Route: kontoanalyse-risikoampel-und-gegenargumente."
 ---
 
 # Kontoanalyse: Risikoampel, Gegenargumente und Verteidigungslinien

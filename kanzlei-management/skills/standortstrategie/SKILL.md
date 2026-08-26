@@ -1,6 +1,6 @@
 ---
 name: standortstrategie
-description: "Wenn es um Standortstrategie und Büroflächen in Kanzlei Management geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Standortstrategie und Büroflächen: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Verhandlungs- oder Eskalationslinie."
 ---
 
 # Standortstrategie und Büroflächen

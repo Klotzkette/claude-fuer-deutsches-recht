@@ -1,6 +1,6 @@
 ---
 name: produkthaftpflicht-rueckrufkosten
-description: "Wenn es um Produkthaftpflicht und Rückrufkosten in Versicherungsrecht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen."
+description: "Für Produkthaftpflicht und Rückrufkosten: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Produkthaftpflicht und Rückrufkosten

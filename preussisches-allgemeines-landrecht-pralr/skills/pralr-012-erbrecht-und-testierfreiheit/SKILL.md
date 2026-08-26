@@ -1,6 +1,6 @@
 ---
 name: pralr-012-erbrecht-und-testierfreiheit
-description: "Wenn es um Erbrecht in Preußisches Allgemeines Landrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten. Auswahlstichwort: Pralr 012 Erbrecht Und Testierfreiheit; Arbeitsfeld: Preußisches Allgemeines Landrecht."
+description: "Für Erbrecht: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt. Fachgebiet: Preußisches Allgemeines Landrecht. Route: pralr-012-erbrecht-und-testierfreiheit."
 ---
 
 # Erbrecht

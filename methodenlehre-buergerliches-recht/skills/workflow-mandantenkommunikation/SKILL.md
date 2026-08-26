@@ -1,6 +1,6 @@
 ---
 name: workflow-mandantenkommunikation
-description: "Wenn es um Workflow Mandantenkommunikation in Methodenlehre bürgerliches Recht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Workflow Mandantenkommunikation: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Mandantennachricht oder Entscheidungsvorlage. Fachgebiet: Methodenlehre bürgerliches Recht."
 ---
 
 # Dieses Skill strukturiert die anwaltliche Mandantenkommunikation im Verlauf zivilrechtlicher Mandate

@@ -1,6 +1,6 @@
 ---
 name: rechtsgrund-und-behaltensgrund-pruefen
-description: "Wenn es um Rechtsgrund und Behaltensgrund prüfen in bereicherungs-und-anfechtungsrecht-prüfer geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Rechtsgrund und Behaltensgrund prüfen: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Rechtsgrund und Behaltensgrund prüfen

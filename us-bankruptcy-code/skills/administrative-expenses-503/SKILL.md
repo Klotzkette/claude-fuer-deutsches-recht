@@ -1,6 +1,6 @@
 ---
 name: administrative-expenses-503
-description: "Wenn es um Administrative Expenses Paragraf 503 in US Bankruptcy Code geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert ein direkt nutzbares Arbeitsprodukt mit Prüfpunkten, Risiken und nächstem Schritt."
+description: "Für Administrative Expenses Paragraf 503: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Administrative Expenses § 503

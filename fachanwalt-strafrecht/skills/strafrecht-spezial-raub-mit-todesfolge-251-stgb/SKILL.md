@@ -1,6 +1,6 @@
 ---
 name: strafrecht-spezial-raub-mit-todesfolge-251-stgb
-description: "Wenn es um Raub mit Todesfolge nach Paragraf 251 StGB in Fachanwalt Strafrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Raub mit Todesfolge nach Paragraf 251 StGB: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Raub mit Todesfolge nach § 251 StGB

@@ -1,6 +1,6 @@
 ---
 name: bruecke-einwendung-bauen
-description: "Wenn es um Bruecke Einwendung Bauen in Straßenrecht und Infrastruktur geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Brücke Einwendung Bauen: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Bruecke Einwendung Bauen

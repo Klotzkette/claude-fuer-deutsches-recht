@@ -1,6 +1,6 @@
 ---
 name: verbraucherinsolvenz-mehrparteienkonflikt
-description: "Wenn es um Verbraucherinsolvenz: Mehrparteienkonflikt und Interessenmatrix in Insolvenzrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Verbraucherinsolvenz: Mehrparteienkonflikt und Interessenmatrix: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Verbraucherinsolvenz: Mehrparteienkonflikt und Interessenmatrix

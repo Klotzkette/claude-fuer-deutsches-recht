@@ -1,6 +1,6 @@
 ---
 name: fristenbuch-steuerrecht
-description: "Wenn es um Fristenbuch Steuerrecht in Steuerrecht – Steuerberater und Anwälte geht: erstellt den passenden Entwurf aus Sachverhalt, Norm, Beweis und Antrag; liefert eine Fristen- und Risikoampel mit Sofortschritten. Auswahlstichwort: Fristenbuch Steuerrecht; Arbeitsfeld: Steuerrecht – Steuerberater und Anwälte."
+description: "Für Fristenbuch Steuerrecht: prüft Frist, Form, Zuständigkeit und Eilbedarf; Ergebnis: Fristen- und Risikoampel. Fachgebiet: Steuerrecht – Steuerberater und Anwälte. Route: fristenbuch-steuerrecht."
 ---
 
 # Fristenbuch Steuerrecht

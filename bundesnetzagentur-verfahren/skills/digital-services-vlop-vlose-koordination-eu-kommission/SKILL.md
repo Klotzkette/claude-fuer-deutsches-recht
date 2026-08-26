@@ -1,6 +1,6 @@
 ---
 name: digital-services-vlop-vlose-koordination-eu-kommission
-description: "Wenn es um VLOP/VLOSE-Koordination zwischen EU-Kommission und BNetzA in Bundesnetzagentur-Verfahren geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen."
+description: "Für VLOP/VLOSE-Koordination zwischen EU-Kommission und BNetzA: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Schnittstellenkarte mit Zuständigkeits- und Nachweisfragen."
 ---
 
 # VLOP/VLOSE-Koordination zwischen EU-Kommission und BNetzA

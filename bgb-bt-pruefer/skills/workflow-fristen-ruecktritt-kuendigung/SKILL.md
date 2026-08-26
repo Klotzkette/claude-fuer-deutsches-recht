@@ -1,6 +1,6 @@
 ---
 name: workflow-fristen-ruecktritt-kuendigung
-description: "Wenn es um Fristen für Rücktritt, Kündigung, Minderung, Mängelrechte in BGB BT Prüfer geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Fristen für Rücktritt, Kündigung, Minderung, Mängelrechte: prüft Frist, Form, Zuständigkeit und Eilbedarf; Ergebnis: Fristen- und Risikoampel."
 ---
 # Fristen für Rücktritt, Kündigung, Minderung, Mängelrechte
 

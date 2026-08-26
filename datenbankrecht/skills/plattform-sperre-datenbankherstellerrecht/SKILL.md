@@ -1,6 +1,6 @@
 ---
 name: plattform-sperre-datenbankherstellerrecht
-description: "Wenn es um Plattformsperre wegen Data Extraction — Berechtigung und Rechtsschutz in Datenbankrecht und Datenbankherstellerrecht geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Plattformsperre wegen Data Extraction — Berechtigung und Rechtsschutz: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Plattformsperre wegen Data Extraction — Berechtigung und Rechtsschutz

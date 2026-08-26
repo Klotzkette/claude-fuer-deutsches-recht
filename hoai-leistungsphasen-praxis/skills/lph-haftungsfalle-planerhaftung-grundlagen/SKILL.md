@@ -1,6 +1,6 @@
 ---
 name: lph-haftungsfalle-planerhaftung-grundlagen
-description: "Wenn es um LPH 9 Objektbetreuung: Identifiziert typische haftungsrisiken und beweisvorsorge in HOAI Leistungsphasen Praxis geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für LPH 9 Objektbetreuung: Identifiziert typische haftungsrisiken und beweisvorsorge: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # LPH 9 Objektbetreuung: Identifiziert typische haftungsrisiken und beweisvorsorge

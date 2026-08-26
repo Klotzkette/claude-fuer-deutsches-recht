@@ -1,6 +1,6 @@
 ---
 name: durch-interessen
-description: "Wenn es um Mehrparteienkonflikt und Interessenmatrix im NDA-Abgleich in NDA-Abgleich geht: prüft Frist, Form, Zuständigkeit, Rechtsweg und Sofortmaßnahmen; liefert eine Fristen- und Risikoampel mit Sofortschritten."
+description: "Für Mehrparteienkonflikt und Interessenmatrix im NDA-Abgleich: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
 # Mehrparteienkonflikt und Interessenmatrix im NDA-Abgleich
