@@ -142,12 +142,6 @@ Arbeitsgriff Arbeitsprodukt: Widerspruch, Klage, Eilantrag, Befundanforderung od
 - BVerfG, Beschluss vom 06.12.2005 - 1 BvR 347/98: lebensbedrohliche oder regelmäßig tödliche Erkrankungen können Leistungsansprüche der Krankenversicherung verfassungsrechtlich verdichten.
 - BSG, Urteil vom 30.01.2019 - B 14 AS 24/18 R: Vergleichsraum und schlüssiges Konzept für abstrakt angemessene Unterkunftskosten sind gerichtlich voll überprüfbar, dürfen aber nicht durch ein gerichtliches Ersatzkonzept ersetzt werden.
 - BSG, Urteil vom 08.08.2019 - B 3 KR 21/18 R: Beim Elektrorollstuhl sind Behinderungsausgleich und gegebenenfalls die umfassende Zuständigkeit des zuerst angegangenen Rehabilitationsträgers zu prüfen; die Genehmigungsfiktion trägt den Teilhabeanspruch nicht ohne Weiteres.
-- BSG, Urteil vom 07.05.2020 - B 3 KR 7/19 R: Das Grundbedürfnis nach Mobilität im Nahbereich ist beim Behinderungsausgleich nicht auf eine Minimalversorgung zu verengen; maßgeblich ist die zumutbare und angemessene Erschließung im Einzelfall.
-- BSG, Urteil vom 18.04.2024 - B 3 KR 14/23 R: Ein motorunterstütztes Rollstuhlzuggerät kann ohne Eigenanteil geschuldet sein, wenn es die selbstbestimmte Erschließung des konkreten Nahbereichs unter Einsatz eigener Körperkraft ermöglicht.
-- BSG, Urteil vom 12.03.2025 — B 7 AS 5/24 R: Abgeschlossene Ausbildung mit Bewilligung von BAföG-Leistungen schließt den Leistungsausschluss nach SGB II nicht zwingend aus.
-- BSG, Urteil vom 26.03.2025 — B 4 AS 4/24 R: Bundeserstattung an Kommunen für SGB-II-Verwaltungskosten nach Paragraf 6b SGB II. Offene Fundstelle: https://www.bsg.bund.de/SharedDocs/Entscheidungen/DE/2025/20250326B04AS0424R.html.
-- BSG, Urteil vom 04.06.2025 — B 7 AS 17/24 R: Vollstreckung von Erstattungsforderungen durch BA im SGB II. Offene Fundstelle: https://www.bsg.bund.de/SharedDocs/Entscheidungen/DE/2025/20250604B07AS1724R.html.
-- BSG, Urteil vom 16.07.2025 — B 7 AS 19/24 R: Durchschnittseinkommens-Berechnung bei vorläufiger Bewilligung nach Paragraf 41a SGB II. Offene Fundstelle: https://www.bsg.bund.de/SharedDocs/Entscheidungen/DE/2025/20250716B07AS1924R.html.
 
 ## 9. Prüfraster
 
@@ -222,13 +216,13 @@ Diese Routen stammen aus den konkreten Arbeitsthemen dieses Plugins. Wähle die 
 
 Bearbeitungsauftrag: Prüfe Versicherungsverlauf, Wartezeit und Pflichtbeitragszeiten stichtagsbezogen und übersetze jeden Befund in quantitatives Leistungsvermögen auf dem allgemeinen Arbeitsmarkt. Trenne volle, teilweise und arbeitsmarktbedingte Erwerbsminderung nach Paragraf 43 SGB VI, Berufsschutz nach Paragraf 240 SGB VI, Wegefähigkeit, Summierung ungewöhnlicher Einschränkungen und Gutachtenwidersprüche; formuliere konkrete Befundanforderungen, Beweisfragen und einen bezifferten Bescheid-, Widerspruchs- oder Klagebaustein.
 Prüfschritte: Leistungsvermögen: Unter 3 Stunden/Tag (volle EM, Paragraf 43 Absatz 2 SGB VI) oder 3-6 Stunden (teilweise EM, Paragraf 43 Absatz 1 SGB VI)?
-Norm- oder Entscheidungsbezug aus dem Fachmaterial: Leistungsvermögen: Unter 3 Stunden/Tag (volle EM, Paragraf 43 Absatz 2 SGB VI) oder 3-6 Stunden (teilweise EM, Paragraf 43 Absatz 1 SGB VI)?
+Normbezug aus dem Fachmaterial: Leistungsvermögen: Unter 3 Stunden/Tag (volle EM, Paragraf 43 Absatz 2 SGB VI) oder 3-6 Stunden (teilweise EM, Paragraf 43 Absatz 1 SGB VI)?
 Lieferstück: nachrechenbare Berechnung mit Eingabewerten, Zwischenschritten, Varianten, Stichtag und Belegspalte.
 
 ### 16.2. Meldeversäumnis in der Grundsicherung prüfen
 
 Bearbeitungsauftrag: Zu prüfen ist, ob eine Minderung nach Paragraf 32 SGB II oder nach drei aufeinanderfolgenden Meldeversäumnissen zusätzlich eine Folge nach Paragraf 7b SGB II rechtmäßig festgestellt wurde. BvL 7/16: Die Entscheidung betraf das damalige Sanktionsrecht. Ihre Aussagen zu Existenzminimum, Verhältnismäßigkeit, Härtefall und vorzeitiger Beendigung sind als verfassungsrechtliche Leitplanken zu verwenden, nicht als aktuelle Prozent- oder Fristenregel.
-Norm- oder Entscheidungsbezug aus dem Fachmaterial: Prüfe Leistungsminderungen nach einem versäumten Jobcenter-Termin anhand von Paragraf 32 SGB II: wirksame Meldeaufforderung, zulässiger Meldezweck, Belehrung, Zugang, wichtiger Grund, Härte, Minderungszeitraum und Eilrechtsschutz.
+Normbezug aus dem Fachmaterial: Prüfe Leistungsminderungen nach einem versäumten Jobcenter-Termin anhand von Paragraf 32 SGB II: wirksame Meldeaufforderung, zulässiger Meldezweck, Belehrung, Zugang, wichtiger Grund, Härte, Minderungszeitraum und Eilrechtsschutz.
 Lieferstück: Bescheidprüfung mit Meldezweck, Zugang, Belehrung, wichtigem Grund, Härte, Minderungszeitraum, Zahlungswirkung und Eilrechtsschutz.
 
 ### 16.3. Sozialgerichtliche Versandmappe endfertigen

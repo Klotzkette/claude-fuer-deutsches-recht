@@ -98,11 +98,11 @@ Arbeitsgriff Anfechtung und Plan: Rechtshandlung, Kenntnis, Gläubigerbenachteil
 
 | Rechtsprechungsanker | Quellenstatus | Nutzwert im Fall |
 | --- | --- | --- |
+| BGH, Urteil vom 23.01.2025 - IX ZR 229/22 | Profilanker; vor Zitierung am Aktenstand oder an belastbarer Quelle sichern | Streitige nicht titulierte Verbindlichkeiten richten sich nach der objektiven Rechtslage. Ein vorläufig vollstreckbarer Titel ist zum Nennwert zu berücksichtigen, wenn Vollstreckungsvoraussetzungen vorliegen und der Gläubiger die Vollstreckung eingeleitet hat; kein Abschlag nach Prozessrisiko |
 | BGH, Urteil vom 24.05.2005 - IX ZR 123/04 | Profilanker; vor Zitierung am Aktenstand oder an belastbarer Quelle sichern | Eine Liquiditätslücke von zehn Prozent oder mehr spricht regelmäßig für Zahlungsunfähigkeit; eine bloße Zahlungsstockung setzt eine nahezu vollständige Schließung binnen drei Wochen voraus |
 | BGH, Urteil vom 19.12.2017 - II ZR 88/16 | Profilanker; vor Zitierung am Aktenstand oder an belastbarer Quelle sichern | In den Liquiditätsstatus gehören auch die binnen drei Wochen fällig werdenden und eingeforderten Verbindlichkeiten; ein Geschäftsführer darf buchhalterisch ausgewiesene Passiva nicht pauschal bestreiten |
 | BGH, Urteil vom 06.05.2021 - IX ZR 72/20 | Profilanker; vor Zitierung am Aktenstand oder an belastbarer Quelle sichern | Erkannte Zahlungsunfähigkeit allein beweist den Benachteiligungsvorsatz nicht; erforderlich ist die Kenntnis oder Billigung, die übrigen Gläubiger auch künftig nicht vollständig befriedigen zu können |
 | BGH, Urteil vom 10.02.2022 - IX ZR 148/19 | Profilanker; vor Zitierung am Aktenstand oder an belastbarer Quelle sichern | Dauerhaft schleppendes Zahlen belegt keine spätere Zahlungseinstellung, wenn dieses Verhalten schon in einer unstreitig zahlungsfähigen Zeit bestand; die Fortdauervermutung verlangt belastbaren Vortrag |
-| BGH, Urteil vom 12.02.2015 - IX ZR 180/12 | Profilanker; vor Zitierung am Aktenstand oder an belastbarer Quelle sichern | Ein unmittelbarer, gleichwertiger und für die Fortführung nützlicher Leistungsaustausch kann das Vorsatzindiz schwächen; erweiterter Eigentumsvorbehalt oder erkannte verlustreiche Fortführung sprechen dagegen |
 - Rechtsfolge zuerst als Arbeitsprodukt denken: Antrag, Haftungsabwehr, Forderungsanmeldung, Anfechtung, Rangklärung oder Sanierungsschritt
 - Quellenstatus immer sichtbar machen: Aktenfund, Normtext, Profilanker, gesicherte Rechtsprechung oder offene Prüfung.
 
@@ -125,15 +125,11 @@ Arbeitsgriff Anfechtung und Plan: Rechtshandlung, Kenntnis, Gläubigerbenachteil
 
 ## 8. Leitentscheidungen
 
+- BGH, Urteil vom 23.01.2025 - IX ZR 229/22: Streitige nicht titulierte Verbindlichkeiten richten sich nach der objektiven Rechtslage. Ein vorläufig vollstreckbarer Titel ist zum Nennwert zu berücksichtigen, wenn Vollstreckungsvoraussetzungen vorliegen und der Gläubiger die Vollstreckung eingeleitet hat; kein Abschlag nach Prozessrisiko.
 - BGH, Urteil vom 24.05.2005 - IX ZR 123/04: Eine Liquiditätslücke von zehn Prozent oder mehr spricht regelmäßig für Zahlungsunfähigkeit; eine bloße Zahlungsstockung setzt eine nahezu vollständige Schließung binnen drei Wochen voraus.
 - BGH, Urteil vom 19.12.2017 - II ZR 88/16: In den Liquiditätsstatus gehören auch die binnen drei Wochen fällig werdenden und eingeforderten Verbindlichkeiten; ein Geschäftsführer darf buchhalterisch ausgewiesene Passiva nicht pauschal bestreiten.
 - BGH, Urteil vom 06.05.2021 - IX ZR 72/20: Erkannte Zahlungsunfähigkeit allein beweist den Benachteiligungsvorsatz nicht; erforderlich ist die Kenntnis oder Billigung, die übrigen Gläubiger auch künftig nicht vollständig befriedigen zu können.
 - BGH, Urteil vom 10.02.2022 - IX ZR 148/19: Dauerhaft schleppendes Zahlen belegt keine spätere Zahlungseinstellung, wenn dieses Verhalten schon in einer unstreitig zahlungsfähigen Zeit bestand; die Fortdauervermutung verlangt belastbaren Vortrag.
-- BGH, Urteil vom 12.02.2015 - IX ZR 180/12: Ein unmittelbarer, gleichwertiger und für die Fortführung nützlicher Leistungsaustausch kann das Vorsatzindiz schwächen; erweiterter Eigentumsvorbehalt oder erkannte verlustreiche Fortführung sprechen dagegen.
-- BGH, Urteil vom 18.04.2024 - IX ZR 129/22: Ein außenstehender Dritter darf einen nur pauschal aufgestellten und nicht mit Einzelpositionen oder Belegen unterlegten Liquiditätsstatus grundsätzlich einfach bestreiten.
-- BGH IX ZR 229/22 vom 23.01.2025 — Objektive Zahlungsunfähigkeit; streitige nicht titulierte Forderungen nach objektiver Rechtslage.
-- BGH, Beschluss vom 11.03.2025 - II ZR 139/23 — bestätigt im Nichtzulassungsbeschwerdeverfahren den materiellen Bestand als Maßstab; nicht als eigenständiges Grundsatzurteil behandeln.
-- BGH IX ZB 38/24 vom 22.05.2025 — Bei vorläufig eingestellter Vollstreckung kann der Titel seine Belegwirkung für den Insolvenzantrag verlieren.
 
 ## 9. Prüfraster
 
@@ -155,7 +151,7 @@ Arbeitsgriff Anfechtung und Plan: Rechtshandlung, Kenntnis, Gläubigerbenachteil
 10.6. Gegenposition: Formuliere den stärksten ernsthaften Angriff; hier setzt die Gegenseite typischerweise bei dem Zeitpunkt der Insolvenzreife, der Kenntnis und der Bargeschäftsausnahme an.
 10.7. Erwiderung: Antworte mit konkretem Gegenbeleg, Auslegung oder Beweislastregel und ziehe die Folge auf Antrag, Haftungsabwehr, Forderungsanmeldung, Anfechtung, Rangklärung oder Sanierungsschritt; ein bloßes Bestreiten genügt nicht.
 10.8. Arbeitsprodukt: Schließe mit Antrag, Tenor, Klausel, Entscheidung oder nächstem Schritt; hier typischerweise Ausgabe entlang der Kernfelder Insolvenzanfechtung Paragrafen 129 ff. InsO, Steuern, Sozialversicherung und Abgaben, Vorläufige Insolvenzverwaltung, Berichte an Gericht und Gläubigerorgane: Kurzvermerk, Prüfmatrix, Entwurf, Fristenblatt oder Fragenliste mit nächstem Schritt.
-10.9. Quellenstatus: Ordne Rechtsprechung nach Tragweite ein; erste Fallanker sind BGH, Urteil vom 24.05.2005 - IX ZR 123/04; BGH, Urteil vom 19.12.2017 - II ZR 88/16.
+10.9. Quellenstatus: Ordne Rechtsprechung nach Tragweite ein; erste Fallanker sind BGH, Urteil vom 23.01.2025 - IX ZR 229/22; BGH, Urteil vom 24.05.2005 - IX ZR 123/04.
 
 ## 11. Outputvarianten und Empfängerwunsch
 
@@ -217,7 +213,7 @@ Lieferstück: Fachvotum zu Steuern, Sozialversicherung und Abgaben mit Tatbestan
 ### 16.3. Vorläufige Insolvenzverwaltung
 
 Bearbeitungsauftrag: Erste Maßnahmen als vorläufiger Insolvenzverwalter nach Paragraf 21 InsO umsetzen: Bankkonten Besitz Post Drittschuldner Betrieb. Paragraf 21 InsO Sicherungsmaßnahmen Paragraf 22 InsO Pflichten des vorl. Abgrenzung: nicht für laufendes Regelverfahren (iv-regelverfahren-eröffnung).
-Norm- oder Entscheidungsbezug aus dem Fachmaterial: Erste Maßnahmen als vorläufiger Insolvenzverwalter nach Paragraf 21 InsO umsetzen: Bankkonten Besitz Post Drittschuldner Betrieb; Paragraf 21 InsO Sicherungsmaßnahmen Paragraf 22 InsO Pflichten des vorl.
+Normbezug aus dem Fachmaterial: Erste Maßnahmen als vorläufiger Insolvenzverwalter nach Paragraf 21 InsO umsetzen: Bankkonten Besitz Post Drittschuldner Betrieb; Paragraf 21 InsO Sicherungsmaßnahmen Paragraf 22 InsO Pflichten des vorl.
 Lieferstück: Fachvotum zu Vorläufige Insolvenzverwaltung mit Tatbestandsmerkmalen, Aktenfundstellen, Beweislast, stärkster Gegenposition, Risiko und ausformulierter Rechtsfolge.
 
 ### 16.4. Berichte an Gericht und Gläubigerorgane
@@ -238,7 +234,7 @@ Lieferstück: vollständige Einreichungs- oder Registervorlage mit Zuständigkei
 ### 16.7. Massemehrung und Verwertung
 
 Bearbeitungsauftrag: Verwertungsstrategie und Massemehrung entwickeln wenn Masse niedrig oder Quote ungewiss ist. Paragrafen 159 160 InsO Verwertung Paragraf 133 InsO Vorsatzanfechtung Paragraf 15b InsO Haftungsansprüche. Abgrenzung: nicht für reine Masseeinsammlung (iv-masseeinsammlung) oder Betriebsfortführung.
-Norm- oder Entscheidungsbezug aus dem Fachmaterial: Paragrafen 159 160 InsO Verwertung Paragraf 133 InsO Vorsatzanfechtung Paragraf 15b InsO Haftungsansprüche.
+Normbezug aus dem Fachmaterial: Paragrafen 159 160 InsO Verwertung Paragraf 133 InsO Vorsatzanfechtung Paragraf 15b InsO Haftungsansprüche.
 Lieferstück: Fachvotum zu Massemehrung und Verwertung mit Tatbestandsmerkmalen, Aktenfundstellen, Beweislast, stärkster Gegenposition, Risiko und ausformulierter Rechtsfolge.
 
 ### 16.8. Schlussbericht, Schlussrechnung und Verteilung

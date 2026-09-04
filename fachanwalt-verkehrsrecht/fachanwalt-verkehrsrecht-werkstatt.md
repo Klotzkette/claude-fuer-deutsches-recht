@@ -192,20 +192,20 @@ Diese Routen stammen aus den konkreten Arbeitsthemen dieses Plugins. Wähle die 
 
 Bearbeitungsauftrag: Einspruchsfrist zwei Wochen ab Bekanntgabe Paragraf 67 OWiG; Vier-Tages-Zustellungsfiktion seit 01.01.2025. Welche Ordnungswidrigkeit liegt zugrunde — Geschwindigkeitsüberschreitung, Rotlichtverstoß, Abstand, Handy Paragraf 23 Absatz 1a StVO, Alkohol Paragraf 24a StVG? Gibt es berufliche Abhängigkeit vom Führerschein (Außendienst, Pflege, Handwerk) — Härtefall Paragraf 4 Absatz 4 BKatV?
 Prüfschritte: Wann war die Tatzeit und wann wurde der Bußgeldbescheid zugestellt; Vier-Tages-Zustellungsfiktion seit 01.01.2025 (PostModG, Paragraf 51 Absatz 1 OWiG in Verbindung mit Paragraf 4 Absatz 2 VwZG).
-Norm- oder Entscheidungsbezug aus dem Fachmaterial: Einspruchsfrist zwei Wochen ab Bekanntgabe Paragraf 67 OWiG; Vier-Tages-Zustellungsfiktion seit 01.01.2025 (PostModG, Paragraf 51 Absatz 1 OWiG in Verbindung mit Paragraf 4 Absatz 2 VwZG); Wann war die Tatzeit und wann wurde der Bußgeldbescheid zugestellt.
+Normbezug aus dem Fachmaterial: Einspruchsfrist zwei Wochen ab Bekanntgabe Paragraf 67 OWiG; Vier-Tages-Zustellungsfiktion seit 01.01.2025 (PostModG, Paragraf 51 Absatz 1 OWiG in Verbindung mit Paragraf 4 Absatz 2 VwZG); Wann war die Tatzeit und wann wurde der Bußgeldbescheid zugestellt.
 Lieferstück: frist- und formgerechter Entwurf mit Antrag, tragenden Tatsachen, Beweisangeboten, Anlagen und Einreichungsweg.
 
 ### 16.2. Unfall mit autonomem Fahrzeug oder Frage zur Haftung bei automatisiertem Fahren
 
 Bearbeitungsauftrag: Bearbeite Unfall mit autonomem Fahrzeug oder Frage zur Haftung bei automatisiertem Fahren: ereignis, Frist, Haftungsquote, Beweismittel, Schaden, Einwand und Zahlungs- oder Einspruchsziel sofort sortieren. Zerlege Anspruchsgrund, Pflichtenkreis, Pflichtverletzung, Zurechnung, Kausalität und Schaden; ordne Einwendungen, Mitverantwortung, Verjährung, Beweislast, Versicherung und jede bezifferte Rechtsfolge den konkreten Aktenbelegen zu.
 Prüfschritte: Fahrzeug + autonomes System (SAE-Level 2/3/4); Aktivitätszustand zum Unfallzeitpunkt (autonom / manuell); Übergabe-Anforderungen vom System an Fahrer; Paragraf 1a–1l StVG — Autonomes Fahren (Reform 2017, 2021 weitere Stufen); Paragraf 7 StVG — Halter-Gefährdungshaftung.
-Norm- oder Entscheidungsbezug aus dem Fachmaterial: Fahrzeug + autonomes System (SAE-Level 2/3/4); Aktivitätszustand zum Unfallzeitpunkt (autonom / manuell); Black-Box-Daten Paragraf 1g StVG; Übergabe-Anforderungen vom System an Fahrer; Reaktion Fahrer; Hersteller-Recall bekannt?; Fahrzeug + autonomes System (SAE-Level 2/3/4); Aktivitätszustand zum Unfallzeitpunkt (autonom / manuell).
+Normbezug aus dem Fachmaterial: Fahrzeug + autonomes System (SAE-Level 2/3/4); Aktivitätszustand zum Unfallzeitpunkt (autonom / manuell); Black-Box-Daten Paragraf 1g StVG; Übergabe-Anforderungen vom System an Fahrer; Reaktion Fahrer; Hersteller-Recall bekannt?; Fahrzeug + autonomes System (SAE-Level 2/3/4); Aktivitätszustand zum Unfallzeitpunkt (autonom / manuell).
 Lieferstück: gewichtete Prüfmatrix mit Tatbestandsmerkmalen, Fundstellen, Gegenposition, Beweislast, Risiko und Empfehlung.
 
 ### 16.3. Fahrerlaubnis-Entzug
 
 Bearbeitungsauftrag: Wurde die Fahrerlaubnis strafgerichtlich nach Paragraf 69 StGB oder verwaltungsrechtlich nach Paragraf 3 StVG entzogen? Welches Anlassdelikt — Trunkenheitsfahrt Paragrafen 316, 315c StGB (BAK?), Drogenfahrt Paragraf 24a StVG, Unfallflucht Paragraf 142 StGB, Nötigung Paragraf 240 StGB, Punktestand Paragraf 4 Absatz 5 StVG? Ist MPU bereits angeordnet oder zu erwarten — Anlassgründe Paragraf 13 FeV (Alkohol) oder Paragraf 14 FeV (Drogen/Punkte)?
-Norm- oder Entscheidungsbezug aus dem Fachmaterial: Wurde die Fahrerlaubnis strafgerichtlich nach Paragraf 69 StGB oder verwaltungsrechtlich nach Paragraf 3 StVG entzogen?; Liegt vorläufige Entziehung Paragraf 111a StPO vor?
+Normbezug aus dem Fachmaterial: Wurde die Fahrerlaubnis strafgerichtlich nach Paragraf 69 StGB oder verwaltungsrechtlich nach Paragraf 3 StVG entzogen?; Liegt vorläufige Entziehung Paragraf 111a StPO vor?
 Lieferstück: Fachvotum zu Fahrerlaubnis-Entzug mit Tatbestandsmerkmalen, Aktenfundstellen, Beweislast, stärkster Gegenposition, Risiko und ausformulierter Rechtsfolge.
 
 ### 16.4. Kaskoleistung und Aufklärungsobliegenheit prüfen
@@ -216,14 +216,14 @@ Lieferstück: Fachvotum zu Kaskoleistung und Aufklärungsobliegenheit prüfen mi
 ### 16.5. Mandant hat OWi-Bußgeldbescheid erhalten und Anwalt prüft ob Einspruch sinnvoll ist
 
 Bearbeitungsauftrag: Welche Tat liegt zugrunde — Geschwindigkeitsüberschreitung, Rotlichtverstoß, Abstandsverstoß, Handyverstoß, Alkohol Paragraf 24a StVG, Drogen? Einspruchsfrist Paragraf 67 Absatz 1 OWiG zwei Wochen; Verjährungsprüfung Paragraf 26 Absatz 3 StVG drei Monate ab Tatzeit. Wurde eine Anhörung gemäß Paragraf 55 OWiG vor Bescheiderlass durchgeführt?
-Norm- oder Entscheidungsbezug aus dem Fachmaterial: Welche Tat liegt zugrunde — Geschwindigkeitsüberschreitung, Rotlichtverstoß, Abstandsverstoß, Handyverstoß, Alkohol Paragraf 24a StVG, Drogen?
+Normbezug aus dem Fachmaterial: Welche Tat liegt zugrunde — Geschwindigkeitsüberschreitung, Rotlichtverstoß, Abstandsverstoß, Handyverstoß, Alkohol Paragraf 24a StVG, Drogen?
 Lieferstück: frist- und formgerechter Entwurf mit Antrag, tragenden Tatsachen, Beweisangeboten, Anlagen und Einreichungsweg.
 
 ### 16.6. Versicherer hat Regulierung angeboten und Anwalt verhandelt Quotenerhöhung oder Vergleich
 
 Bearbeitungsauftrag: Bearbeite Versicherer hat Regulierung angeboten und Anwalt verhandelt Quotenerhöhung oder Vergleich: ereignis, Frist, Haftungsquote, Beweismittel, Schaden, Einwand und Zahlungs- oder Einspruchsziel sofort sortieren. Rechne ausschließlich aus belegten Eingabewerten mit Stichtag, Einheit, Zwischenstufen, Rundung und Gegenprobe; führe zu jeder Zahl Quelle, Rechtsgrund, Beweislast, offene Annahme und Auswirkung einer belastbaren Alternativrechnung.
 Prüfschritte: Unfallhergang (Polizei, Foto, Zeugen); Mandant (geschädigter Insasse / Fahrer / Halter); Versicherer-Reaktion (Anerkenntnis %, Ablehnung); Schadensart (Sachschaden, Personenschaden, Unterhaltsausfall); Paragraf 7 StVG — Halter-Gefährdungshaftung.
-Norm- oder Entscheidungsbezug aus dem Fachmaterial: Unfallhergang (Polizei, Foto, Zeugen); Mandant (geschädigter Insasse / Fahrer / Halter); Versicherer-Reaktion (Anerkenntnis %, Ablehnung); Schadensart (Sachschaden, Personenschaden, Unterhaltsausfall); Streitwert; Paragraf 7 StVG — Halter-Gefährdungshaftung; Paragraf 18; Unfallhergang (Polizei, Foto, Zeugen).
+Normbezug aus dem Fachmaterial: Unfallhergang (Polizei, Foto, Zeugen); Mandant (geschädigter Insasse / Fahrer / Halter); Versicherer-Reaktion (Anerkenntnis %, Ablehnung); Schadensart (Sachschaden, Personenschaden, Unterhaltsausfall); Streitwert; Paragraf 7 StVG — Halter-Gefährdungshaftung; Paragraf 18; Unfallhergang (Polizei, Foto, Zeugen).
 Lieferstück: nachrechenbare Berechnung mit Eingabewerten, Zwischenschritten, Varianten, Stichtag und Belegspalte.
 
 ### 16.7. Verkehrsprozess-Versandmappe endfertigen

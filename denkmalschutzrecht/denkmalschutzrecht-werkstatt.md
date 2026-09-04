@@ -77,9 +77,9 @@ Arbeitsgriff Arbeitsprodukt: Erlaubnisantrag, Maßnahmenbeschreibung, Zumutbarke
 
 | Ebene | Fallfrage | Anker | Sofortausgabe |
 | --- | --- | --- | --- |
-| Fallkern | Förderung und steuerliche Abschreibung | GG Artikel 14 und Artikel 70 | Sofortvermerk mit Ergebnisrichtung, Risiko und nächstem Schritt |
+| Fallkern | Denkmalschutz Bayern (BayDSchG) | GG Artikel 14 und Artikel 70 | Sofortvermerk mit Ergebnisrichtung, Risiko und nächstem Schritt |
 | Zulässigkeit und Frist | Frist, Form, Zuständigkeit, Rolle und statthafter Weg | Denkmalschutzgesetz des zuständigen Landes | Fristenblatt oder Prozess-/Verfahrensroute |
-| Begründetheit | Denkmalschutz Bayern (BayDSchG) | Denkmalschutzgesetz des zuständigen Landes | Tatbestandsmatrix mit Beleg und Gegenargument |
+| Begründetheit | Widerspruch und Klagewege im Denkmalrecht | Denkmalschutzgesetz des zuständigen Landes | Tatbestandsmatrix mit Beleg und Gegenargument |
 | Rechtsfolge | Erlaubnisantrag, Maßnahmenbeschreibung, Zumutbarkeitsrechnung, Behördenantwort, Widerspruch oder Steuerbescheinigungsunterlage erstellen | Nachweisachse Vorhaben und Bestand: historische Substanz, geplante Maßnahme, Material, Gestaltung, Nutzung, Statik, Energie und Alternativen dokumentieren | Antrag, Entwurf, Entscheidungsvorschlag oder Mandantenbrief |
 
 ## 5. Normenanker, Tatbestandswichtigkeiten und Beweislast
@@ -96,9 +96,7 @@ Arbeitsgriff Arbeitsprodukt: Erlaubnisantrag, Maßnahmenbeschreibung, Zumutbarke
 
 ## 6. Rechtsprechungsanker, Quellenstatus und Rechtsfolgen
 
-| Rechtsprechungsanker | Quellenstatus | Nutzwert im Fall |
-| --- | --- | --- |
-| BVerfG, Beschluss vom 2. März 1999, 1 BvL 7/91, BVerfGE 100 Seite 226 | aus Skillmaterial extrahierter Anker; vor Zitierung am Aktenstand oder an belastbarer Quelle sichern | Denkmalschutz muss die Belange des Eigentümers berücksichtigen |
+- Rechtsprechung nur zitieren, wenn Gericht, Datum und Aktenzeichen sicher sind; sonst als Recherche- und Prüfbedarf mit konkreter Fallfrage markieren.
 - Rechtsfolge zuerst als Arbeitsprodukt denken: Erlaubnisantrag, Maßnahmenbeschreibung, Zumutbarkeitsrechnung, Behördenantwort, Widerspruch oder Steuerbescheinigungsunterlage erstellen
 - Quellenstatus immer sichtbar machen: Aktenfund, Normtext, Profilanker, gesicherte Rechtsprechung oder offene Prüfung.
 
@@ -120,7 +118,7 @@ Arbeitsgriff Arbeitsprodukt: Erlaubnisantrag, Maßnahmenbeschreibung, Zumutbarke
 
 ## 8. Leitentscheidungen
 
-- BVerfG, Beschluss vom 2. März 1999, 1 BvL 7/91, BVerfGE 100 Seite 226: Denkmalschutz muss die Belange des Eigentümers berücksichtigen.
+- Rechtsprechung nur mit Datum, Gericht und Aktenzeichen verwenden, wenn sie aus Unterlagen oder belastbarer Quelle sicher belegt ist; sonst als Prüfbedarf markieren.
 
 ## 9. Prüfraster
 
@@ -136,13 +134,13 @@ Arbeitsgriff Arbeitsprodukt: Erlaubnisantrag, Maßnahmenbeschreibung, Zumutbarke
 
 10.1. Kernsatz: Benenne Parteirolle, Ziel und die begehrte oder abzuwehrende Rechtsfolge aus diesem Arbeitsfeld: Erlaubnisantrag, Maßnahmenbeschreibung, Zumutbarkeitsrechnung, Behördenantwort, Widerspruch oder Steuerbescheinigungsunterlage erstellen.
 10.2. Tragende Regel: Stelle den einschlägigen Normsatz voran und ordne ihn dem konkreten Streitpunkt zu; erste Anker sind GG Artikel 14 und Artikel 70; Denkmalschutzgesetz des zuständigen Landes.
-10.3. Tatbestandsmerkmal: Arbeite zuerst den entscheidenden Fachpunkt aus, regelmäßig Förderung und steuerliche Abschreibung.
+10.3. Tatbestandsmerkmal: Arbeite zuerst den entscheidenden Fachpunkt aus, regelmäßig Denkmalschutz Bayern (BayDSchG).
 10.4. Aktenfund: Nenne Datum, Beteiligten, Handlung, Betrag und genaue Fundstelle; im Bereich Denkmalschutz- und Denkmalpflegerecht der Länder tragen regelmäßig die vorgelegten Urkunden, Bescheide und Korrespondenz den Nachweis. Eine streitige Behauptung bleibt als solche bezeichnet.
 10.5. Beweislast: Nachweisachse Vorhaben und Bestand: historische Substanz, geplante Maßnahme, Material, Gestaltung, Nutzung, Statik, Energie und Alternativen dokumentieren. Zeige ausdrücklich, welche Folge ein offener Beweis hat.
 10.6. Gegenposition: Formuliere den stärksten ernsthaften Angriff; hier setzt die Gegenseite typischerweise bei welche Substanz oder Erscheinung ist aus welchem fachlichen Grund denkmalwert an.
 10.7. Erwiderung: Antworte mit konkretem Gegenbeleg, Auslegung oder Beweislastregel und ziehe die Folge auf Erlaubnisantrag, Maßnahmenbeschreibung, Zumutbarkeitsrechnung, Behördenantwort, Widerspruch oder Steuerbescheinigungsunterlage erstellen; ein bloßes Bestreiten genügt nicht.
 10.8. Arbeitsprodukt: Schließe mit Antrag, Tenor, Klausel, Entscheidung oder nächstem Schritt; hier typischerweise Denkmalblatt: Objekt, Landesnorm, Denkmalart, Schutzgrund, Bestand, Vorhaben, Beeinträchtigung, Alternative und Beleg; Zumutbarkeitsrechnung: Erhaltungsaufwand, Förderung, Steuervorteil, Ertrag, Restwert, Zeitraum, Alternative und Quellenstatus.
-10.9. Quellenstatus: Ordne Rechtsprechung nach Tragweite ein; erste Fallanker sind BVerfG, Beschluss vom 2. März 1999, 1 BvL 7/91, BVerfGE 100 Seite 226.
+10.9. Quellenstatus: Ordne Rechtsprechung nach Tragweite ein; erste Fallanker sind erst nach verifizierter Recherche einzusetzen.
 
 ## 11. Outputvarianten und Empfängerwunsch
 
@@ -176,92 +174,88 @@ Die Landkarte dient der schnellen Auswahl. Sie ersetzt nicht die darunter ausfor
 
 | Arbeitsfeld | Entscheidende Weiche | Erstes Lieferstück |
 | --- | --- | --- |
-| Förderung und steuerliche Abschreibung | Bearbeite Förderung und steuerliche Abschreibung: bescheid, Bekanntgabe, Einspruchsfrist, Besteuerungsgrundlage, Beleg, Schätzung und Aussetzungsbedarf getrennt prüfen. | Fachvotum zu Förderung und steuerliche Abschreibung mit Tatbestandsmerkmalen, Aktenfundstellen, Beweislast, stärkster Gegenposition, Risiko und ausformulierter Rechtsfolge |
 | Denkmalschutz Bayern (BayDSchG) | Zitiergrundlage: amtliche Landesgesetz-Datenbank gesetze-bayern.de. Erlaubnis nach Artikel 6 BayDSchG ist zentraler Verfahrensschritt für Veränderungen. | Fachvotum zu Denkmalschutz Bayern (BayDSchG) mit Tatbestandsmerkmalen, Aktenfundstellen, Beweislast, stärkster Gegenposition, Risiko und ausformulierter Rechtsfolge |
 | Widerspruch und Klagewege im Denkmalrecht | Anfechtungsklage: Paragraf 42 Absatz 1 Alternative 1 VwGO gegen belastende Verwaltungsakte wie Eintragung, Erlaubnisversagung, Untersagung oder Beseitigungsanordnung. | frist- und formgerechter Entwurf mit Antrag, tragenden Tatsachen, Beweisangeboten, Anlagen und Einreichungsweg |
-| Art. 70 GG, Art. 73 GG — Länderzuständigkeit im Denkmalschutz | Bearbeite Art. 70 GG, Art. 73 GG — Länderzuständigkeit im Denkmalschutz entlang der Denkmalschutz- und Denkmalpflegerecht der Länder-Prüflinie: Objekt und Landesrecht: Adresse, Flurstück, Denkmalart, Listeneintrag. | Fachvotum zu Art. 70 GG, Art. 73 GG — Länderzuständigkeit im Denkmalschutz mit Tatbestandsmerkmalen, Aktenfundstellen, Beweislast, stärkster Gegenposition, Risiko. |
 | Bußgeld- und Ordnungswidrigkeitsverfahren | OWiG: Verfahren nach den allgemeinen Regeln des Ordnungswidrigkeitenrechts; Verteidigung im Verwaltungsverfahren und im verwaltungsbehördlichen Bußgeldverfahren. | Fachvotum zu Bußgeld- und Ordnungswidrigkeitsverfahren mit Tatbestandsmerkmalen, Aktenfundstellen, Beweislast, stärkster Gegenposition, Risiko und ausformulierter Rechtsfolge |
 | Verfahrensgrundsätze nach VwVfG | Bearbeite Verfahrensgrundsätze nach VwVfG entlang der Denkmalschutz- und Denkmalpflegerecht der Länder-Prüflinie: Objekt und Landesrecht: Adresse, Flurstück, Denkmalart, Listeneintrag, Schutzumfang, Umgebung. | Fachvotum zu Verfahrensgrundsätze nach VwVfG mit Tatbestandsmerkmalen, Aktenfundstellen, Beweislast, stärkster Gegenposition, Risiko und ausformulierter Rechtsfolge |
 | Bodendenkmäler und Grabungsgenehmigung in Bayern | Bayern hat ein besonders strenges Bodendenkmalregime: Grabungen, Erdbewegungen und sogar Sondiergänge in Verdachtsflächen sind genehmigungspflichtig nach Artikel 7 BayDSchG. | Fachvotum zu Bodendenkmäler und Grabungsgenehmigung in Bayern mit Tatbestandsmerkmalen, Aktenfundstellen, Beweislast, stärkster Gegenposition, Risiko und ausformulierter. |
 | Enteignung, Übernahme und Entschädigung im Denkmalschutz | Denkmalschutzbestimmungen sind grundsätzlich Inhalts- und Schrankenbestimmungen des Eigentums nach Artikel 14 Absatz 1 Satz 2 GG. | Fachvotum zu Enteignung, Übernahme und Entschädigung im Denkmalschutz mit Tatbestandsmerkmalen, Aktenfundstellen, Beweislast, stärkster Gegenposition, Risiko und ausformulierter. |
 | Grundbegriffe und Rechtsquellen | Bearbeite Grundbegriffe und Rechtsquellen entlang der Denkmalschutz- und Denkmalpflegerecht der Länder-Prüflinie: Objekt und Landesrecht: Adresse, Flurstück, Denkmalart, Listeneintrag, Schutzumfang, Umgebung. | Fachvotum zu Grundbegriffe und Rechtsquellen mit Tatbestandsmerkmalen, Aktenfundstellen, Beweislast, stärkster Gegenposition, Risiko und ausformulierter Rechtsfolge |
+| Rechtsprechungsanker Denkmalrecht | Tragende Aussage: Erhaltungspflichten am Baudenkmal sind Inhalts- und Schrankenbestimmung des Eigentums; bei unzumutbarer Belastung muss das Landesgesetz einen Ausgleichsmechanismus vorsehen | Fachvotum zu Rechtsprechungsanker Denkmalrecht mit Tatbestandsmerkmalen, Aktenfundstellen, Beweislast, stärkster Gegenposition, Risiko und ausformulierter Rechtsfolge |
+| Art. 14 GG — Eigentum und Denkmalschutz | Bearbeite Art. 14 GG — Eigentum und Denkmalschutz als konkreten Vorgang im Gebiet Denkmalschutz- und Denkmalpflegerecht der Länder | Fachvotum zu Art. 14 GG — Eigentum und Denkmalschutz mit Tatbestandsmerkmalen, Aktenfundstellen, Beweislast, stärkster Gegenposition, Risiko und ausformulierter Rechtsfolge |
 
 ## 16. Fachspezifische Praxisrouten
 
 Diese Routen stammen aus den konkreten Arbeitsthemen dieses Plugins. Wähle die sachnächste Route, liefere deren ersten verwertbaren Baustein sofort und vertiefe nur die Punkte, die das Ergebnis tatsächlich ändern.
 
-### 16.1. Förderung und steuerliche Abschreibung
-
-Bearbeitungsauftrag: Bearbeite Förderung und steuerliche Abschreibung: bescheid, Bekanntgabe, Einspruchsfrist, Besteuerungsgrundlage, Beleg, Schätzung und Aussetzungsbedarf getrennt prüfen. Verbinde den konkreten Aktenfund mit Tatbestandsmerkmal, Gegenposition, Beweislast, Rechtsfolge und dem nächsten vollständig ausformulierten Arbeitsprodukt. Fachstation: Erlaubnis und Abwägung: Tatbestand, Belange, Eigentümerinteresse, Erhaltungsoption, Wirtschaftlichkeit, Förderung und Zumutbarkeit prüfen.
-Prüfschritte: Paragraf 7i EStG (Vermietung): erhöhte Absetzungen für Herstellungskosten an Baudenkmälern bis zu 9 Prozent in den ersten acht Jahren und 7 Prozent in den folgenden vier Jahren; voraussetzt, dass die Aufwendungen zur Erhaltung des Denkmals oder seiner sinnvollen Nutzung erforderlich sind und die Denkmalbehörde dies bescheinigt; Paragraf 10f EStG (selbstgenutzt): Sonderausgabenabzug für vergleichbare Aufwendungen am selbstgenutzten Baudenkmal, 9 Prozent über zehn Jahre; Paragraf 11b EStG: bestimmte Erhaltungsaufwendungen können auf zwei bis fünf Jahre verteilt werden; Paragraf 10g EStG: schutzwürdige Kulturgüter, die nicht selbstgenutzt und nicht vermietet sind.
-Norm- oder Entscheidungsbezug aus dem Fachmaterial: Paragraf 7i EStG (Vermietung): erhöhte Absetzungen für Herstellungskosten an Baudenkmälern bis zu 9 Prozent in den ersten acht Jahren und 7 Prozent in den folgenden vier Jahren.
-Lieferstück: Fachvotum zu Förderung und steuerliche Abschreibung mit Tatbestandsmerkmalen, Aktenfundstellen, Beweislast, stärkster Gegenposition, Risiko und ausformulierter Rechtsfolge.
-
-### 16.2. Denkmalschutz Bayern (BayDSchG)
+### 16.1. Denkmalschutz Bayern (BayDSchG)
 
 Bearbeitungsauftrag: Zitiergrundlage: amtliche Landesgesetz-Datenbank gesetze-bayern.de. Erlaubnis nach Artikel 6 BayDSchG ist zentraler Verfahrensschritt für Veränderungen. Bodendenkmäler nach Artikel 1 Absatz 4 BayDSchG mit Genehmigungspflicht für Grabungen nach Artikel 7 BayDSchG.
 Prüfschritte: Gesetzesbezeichnung: Gesetz zum Schutz und zur Pflege der Denkmäler (Bayerisches Denkmalschutzgesetz); Oberste Denkmalschutzbehörde: Bayerisches Staatsministerium für Wissenschaft und Kunst; Obere Denkmalschutzbehörde: Bezirksregierungen (Oberbayern, Niederbayern, Oberpfalz, Oberfranken, Mittelfranken, Unterfranken, Schwaben); Untere Denkmalschutzbehörde: Landratsämter und kreisfreie Städte (Kreisverwaltungsbehörden); Fachbehörde: Bayerisches Landesamt für Denkmalpflege mit Sitz in München und Außenstellen.
 Lieferstück: Fachvotum zu Denkmalschutz Bayern (BayDSchG) mit Tatbestandsmerkmalen, Aktenfundstellen, Beweislast, stärkster Gegenposition, Risiko und ausformulierter Rechtsfolge.
 
-### 16.3. Widerspruch und Klagewege im Denkmalrecht
+### 16.2. Widerspruch und Klagewege im Denkmalrecht
 
 Bearbeitungsauftrag: Anfechtungsklage: Paragraf 42 Absatz 1 Alternative 1 VwGO gegen belastende Verwaltungsakte wie Eintragung, Erlaubnisversagung, Untersagung oder Beseitigungsanordnung. Verpflichtungsklage: Paragraf 42 Absatz 1 Alternative 2 VwGO auf Erteilung einer beantragten und versagten Erlaubnis; bei Spruchreife auf konkrete Erteilung, sonst auf Neubescheidung. Eilrechtsschutz: Paragraf 80 Absatz 5 VwGO bei sofort vollziehbarer Untersagung; Paragraf 123 VwGO bei drohender, nicht durch Verwaltungsakt geregelter Maßnahme.
 Prüfschritte: Widerspruch: Paragrafen 68 und folgende VwGO, soweit das jeweilige Land ein Widerspruchsverfahren noch vorsieht; Einige Länder (etwa Niedersachsen, Bayern in Teilen) haben das Vorverfahren weitgehend abgeschafft; dann führt die Klage unmittelbar zum Verwaltungsgericht.
 Lieferstück: frist- und formgerechter Entwurf mit Antrag, tragenden Tatsachen, Beweisangeboten, Anlagen und Einreichungsweg.
 
-### 16.4. Art. 70 GG, Art. 73 GG — Länderzuständigkeit im Denkmalschutz
-
-Bearbeitungsauftrag: Bearbeite Art. 70 GG, Art. 73 GG — Länderzuständigkeit im Denkmalschutz entlang der Denkmalschutz- und Denkmalpflegerecht der Länder-Prüflinie: Objekt und Landesrecht: Adresse, Flurstück, Denkmalart, Listeneintrag, Schutzumfang, Umgebung.
-Prüfschritte: Artikel 70 GG Grundregel: Wo der Bund keine Zuständigkeit hat, regeln die Länder; Artikel 73 GG abschließende Bundesaufgaben (Verteidigung, auswärtige Beziehungen, Bundesgrenzschutz, …): Denkmalschutz nicht dabei; Artikel 74 GG konkurrierende Gesetzgebung: Denkmalschutz nicht dabei; Bauplanungsrecht ist in Artikel 74 Absatz 1 Nummer 18 GG geregelt; Artikel 14 GG und Artikel 3 GG wirken in jedes Landesgesetz hinein.
-Norm- oder Entscheidungsbezug aus dem Fachmaterial: Artikel 70 GG Grundregel: Wo der Bund keine Zuständigkeit hat, regeln die Länder; Artikel 73 GG abschließende Bundesaufgaben (Verteidigung, auswärtige Beziehungen, Bundesgrenzschutz, …): Denkmalschutz nicht dabei; Artikel 70 GG Grundregel: Wo der Bund keine Zuständigkeit hat, regeln die Länder.
-Lieferstück: Fachvotum zu Art. 70 GG, Art. 73 GG — Länderzuständigkeit im Denkmalschutz mit Tatbestandsmerkmalen, Aktenfundstellen, Beweislast, stärkster Gegenposition, Risiko und ausformulierter Rechtsfolge.
-
-### 16.5. Bußgeld- und Ordnungswidrigkeitsverfahren
+### 16.3. Bußgeld- und Ordnungswidrigkeitsverfahren
 
 Bearbeitungsauftrag: OWiG: Verfahren nach den allgemeinen Regeln des Ordnungswidrigkeitenrechts; Verteidigung im Verwaltungsverfahren und im verwaltungsbehördlichen Bußgeldverfahren. Paragraf 304 StGB — Sachbeschädigung: Bei vorsätzlicher Beschädigung eines Denkmals kommt der Straftatbestand der gemeinschädlichen Sachbeschädigung in Betracht; die Voraussetzungen müssen gerichtsfest belegt sein. Stand die Erlaubnis nach Aktenlage in Aussicht?
 Prüfschritte: Bußgeldtatbestände der Landesgesetze: Jede Landesregelung enthält einen Katalog mit Geldbußen bis zu sechsstelligen Beträgen für schwere Verstöße; Bezug nehmen die Tatbestände typischerweise auf unerlaubte Veränderung, unerlaubte Beseitigung, unerlaubte Verbringung, Verstoß gegen Genehmigungsauflagen, Verstoß gegen Vorlagepflichten bei Bodenfunden; Tatbestandlich: Wurde tatsächlich eine erlaubnispflichtige Maßnahme durchgeführt?
 Lieferstück: Fachvotum zu Bußgeld- und Ordnungswidrigkeitsverfahren mit Tatbestandsmerkmalen, Aktenfundstellen, Beweislast, stärkster Gegenposition, Risiko und ausformulierter Rechtsfolge.
 
-### 16.6. Verfahrensgrundsätze nach VwVfG
+### 16.4. Verfahrensgrundsätze nach VwVfG
 
 Bearbeitungsauftrag: Bearbeite Verfahrensgrundsätze nach VwVfG entlang der Denkmalschutz- und Denkmalpflegerecht der Länder-Prüflinie: Objekt und Landesrecht: Adresse, Flurstück, Denkmalart, Listeneintrag, Schutzumfang, Umgebung und zuständige Behörden feststellen.
 Prüfschritte: Im Denkmalschutzverfahren ist die Verwaltungsverfahrensregelung des jeweiligen Landes (Landes-VwVfG) maßgeblich; sie ist inhaltsgleich mit dem Bundes-VwVfG; Folgende Verfahrensregeln werden im Denkmalrecht regelmäßig relevant:; Paragraf 28 VwVfG — Anhörung: vor jedem belastenden Verwaltungsakt zwingend; Heilung im Widerspruchsverfahren grundsätzlich möglich, aber bei wesentlichen Tatsachen nicht.
 Lieferstück: Fachvotum zu Verfahrensgrundsätze nach VwVfG mit Tatbestandsmerkmalen, Aktenfundstellen, Beweislast, stärkster Gegenposition, Risiko und ausformulierter Rechtsfolge.
 
-### 16.7. Bodendenkmäler und Grabungsgenehmigung in Bayern
+### 16.5. Bodendenkmäler und Grabungsgenehmigung in Bayern
 
 Bearbeitungsauftrag: Bayern hat ein besonders strenges Bodendenkmalregime: Grabungen, Erdbewegungen und sogar Sondiergänge in Verdachtsflächen sind genehmigungspflichtig nach Artikel 7 BayDSchG. Funde unterliegen dem Schatzregal nach Artikel 8 BayDSchG, das Eigentum geht in vielen Konstellationen auf den Freistaat über. Vor Mandatsverwendung Norm-Anker in gesetze-bayern.de und die jeweils aktuelle Verwaltungspraxis des Bayerischen Landesamts für Denkmalpflege vor Verwendung anhand einer belastbaren Quelle prüfen.
-Norm- oder Entscheidungsbezug aus dem Fachmaterial: Bayern hat ein besonders strenges Bodendenkmalregime: Grabungen, Erdbewegungen und sogar Sondiergänge in Verdachtsflächen sind genehmigungspflichtig nach Artikel 7 BayDSchG.
+Normbezug aus dem Fachmaterial: Bayern hat ein besonders strenges Bodendenkmalregime: Grabungen, Erdbewegungen und sogar Sondiergänge in Verdachtsflächen sind genehmigungspflichtig nach Artikel 7 BayDSchG.
 Lieferstück: Fachvotum zu Bodendenkmäler und Grabungsgenehmigung in Bayern mit Tatbestandsmerkmalen, Aktenfundstellen, Beweislast, stärkster Gegenposition, Risiko und ausformulierter Rechtsfolge.
 
-### 16.8. Enteignung, Übernahme und Entschädigung im Denkmalschutz
+### 16.6. Enteignung, Übernahme und Entschädigung im Denkmalschutz
 
 Bearbeitungsauftrag: Denkmalschutzbestimmungen sind grundsätzlich Inhalts- und Schrankenbestimmungen des Eigentums nach Artikel 14 Absatz 1 Satz 2 GG. Eine Eigentumsbelastung wird nicht allein deshalb zur Enteignung, weil sie wirtschaftlich schwer wiegt. Zuerst ist zu prüfen, ob das konkrete Landesrecht durch Genehmigung, Ausnahme, Befreiung, Förderung, Ausgleich oder Übernahme eine unverhältnismäßige Belastung vermeidet.
 Prüfschritte: Lies Bescheid, Denkmaleintragung, Nutzungs- und Sanierungskonzept, Kostenangebote, Förderbescheide, Ertragsdaten und Eigentumsnachweise zuerst; Liefere eine vorläufige Einordnung, ob noch eine zumutbare Nutzung, eine Genehmigungs- oder Ausnahmegestaltung, ein gesetzlicher Ausgleich, ein Übernahmeanspruch oder ein Enteignungsvorgang zu prüfen ist; Frage zunächst nur nach Bundesland und konkret angegriffener Maßnahme, wenn beides nicht aus der Akte hervorgeht.
-Norm- oder Entscheidungsbezug aus dem Fachmaterial: Prüfe unzumutbare denkmalrechtliche Eigentumsbelastungen, Ausgleich, Übernahme und Enteignung anhand des konkret geltenden Landesrechts und Artikel 14 GG.
+Normbezug aus dem Fachmaterial: Prüfe unzumutbare denkmalrechtliche Eigentumsbelastungen, Ausgleich, Übernahme und Enteignung anhand des konkret geltenden Landesrechts und Artikel 14 GG.
 Lieferstück: Fachvotum zu Enteignung, Übernahme und Entschädigung im Denkmalschutz mit Tatbestandsmerkmalen, Aktenfundstellen, Beweislast, stärkster Gegenposition, Risiko und ausformulierter Rechtsfolge.
 
-### 16.9. Grundbegriffe und Rechtsquellen
+### 16.7. Grundbegriffe und Rechtsquellen
 
 Bearbeitungsauftrag: Bearbeite Grundbegriffe und Rechtsquellen entlang der Denkmalschutz- und Denkmalpflegerecht der Länder-Prüflinie: Objekt und Landesrecht: Adresse, Flurstück, Denkmalart, Listeneintrag, Schutzumfang, Umgebung und zuständige Behörden feststellen.
 Prüfschritte: Fragestellung des Mandats, in der ein Begriff oder eine Rechtsquellenfrage offen ist; Landesrecht ist die maßgebliche Rechtsschicht für die materielle Schutzentscheidung: Eintragung, erlaubnispflichtige Maßnahmen, Bußgeldtatbestände, Enteignung, Förderzusagen des Landes; Artikel 73, 74 GG weisen den Denkmalschutz ausdrücklich nicht der konkurrierenden Bundesgesetzgebung zu; Zuständigkeit liegt nach Artikel 70 GG bei den Ländern; Artikel 14 GG rahmt die Eigentumsgarantie ein: Inhalts- und Schrankenbestimmung durch das Landesgesetz, ggf.
 Lieferstück: Fachvotum zu Grundbegriffe und Rechtsquellen mit Tatbestandsmerkmalen, Aktenfundstellen, Beweislast, stärkster Gegenposition, Risiko und ausformulierter Rechtsfolge.
 
-### 16.10. Rechtsprechungsanker Denkmalrecht
+### 16.8. Rechtsprechungsanker Denkmalrecht
 
 Bearbeitungsauftrag: Tragende Aussage: Erhaltungspflichten am Baudenkmal sind Inhalts- und Schrankenbestimmung des Eigentums; bei unzumutbarer Belastung muss das Landesgesetz einen Ausgleichsmechanismus vorsehen.
 Prüfschritte: BVerfG-Linie zum Eigentumsgrundrecht in der Baufreiheit — weitere Beschlüsse zur Verhältnismäßigkeit von Veränderungsverboten; konkrete Aktenzeichen vor Mandatsverwendung in der BVerfG-Entscheidungsdatenbank vor Verwendung anhand einer belastbaren Quelle prüfen; BVerwG-Linien zum Begriff der Denkmaleigenschaft — der Denkmalbegriff erfordert ein gesteigertes öffentliches Erhaltungsinteresse; Konkrete Aktenzeichen vor Mandatsverwendung in der BVerwG-Entscheidungsdatenbank vor Verwendung anhand einer belastbaren Quelle prüfen.
-Norm- oder Entscheidungsbezug aus dem Fachmaterial: BVerfG, Beschluss vom 02.03.1999, 1 BvL 7/91, BVerfGE 100 Seite 226 — Rheinland-Pfalz-Beschluss zum DSchPflG.
 Lieferstück: Fachvotum zu Rechtsprechungsanker Denkmalrecht mit Tatbestandsmerkmalen, Aktenfundstellen, Beweislast, stärkster Gegenposition, Risiko und ausformulierter Rechtsfolge.
 
-### 16.11. Erlaubnispflichtige Maßnahmen
+### 16.9. Art. 14 GG — Eigentum und Denkmalschutz
+
+Bearbeitungsauftrag: Bearbeite Art. 14 GG — Eigentum und Denkmalschutz als konkreten Vorgang im Gebiet Denkmalschutz- und Denkmalpflegerecht der Länder.
+Prüfschritte: Wird die Belastung unzumutbar, muss das Landesgesetz einen Ausgleichsmechanismus vorsehen (Übernahmeanspruch, Entschädigung, finanzielle Hilfe); Fundstelle bitte vor Verwendung in der BVerfG-Entscheidungsdatenbank verifizieren; Artikel 14 Absatz 1 Satz 1 GG Eigentumsgarantie; Artikel 14 Absatz 2 GG Sozialbindung; Artikel 14 Absatz 3 GG Enteignung nur durch oder aufgrund eines Gesetzes mit ausdrücklicher Regelung von Art und Ausmaß der Entschädigung.
+Lieferstück: Fachvotum zu Art. 14 GG — Eigentum und Denkmalschutz mit Tatbestandsmerkmalen, Aktenfundstellen, Beweislast, stärkster Gegenposition, Risiko und ausformulierter Rechtsfolge.
+
+### 16.10. Erlaubnispflichtige Maßnahmen
 
 Bearbeitungsauftrag: In allen sechzehn Landesgesetzen sind folgende Maßnahmen an eingetragenen Baudenkmälern erlaubnispflichtig:. Schriftlicher Antrag mit Planunterlagen, Begründung der Maßnahme, Erläuterung der Auswirkungen auf die Denkmalsubstanz und die Denkmalwürdigkeit. Zuständige Behörde nach Landesrecht (untere Denkmalschutzbehörde, oft beim Landkreis oder bei der kreisfreien Stadt; Landesamt für Denkmalpflege als Fachbehörde mit Beteiligungsrecht).
 Prüfschritte: Veränderung der Substanz oder des äußeren Erscheinungsbilds; Verbringung oder Umsetzung an einen anderen Ort; Wiederherstellung oder Rekonstruktion in den ursprünglichen Zustand, soweit dies in das geschützte Bild eingreift; Errichtung baulicher Anlagen in der näheren Umgebung, soweit sie das geschützte Erscheinungsbild beeinträchtigen.
 Lieferstück: Fachvotum zu Erlaubnispflichtige Maßnahmen mit Tatbestandsmerkmalen, Aktenfundstellen, Beweislast, stärkster Gegenposition, Risiko und ausformulierter Rechtsfolge.
 
-### 16.12. Montanregion Erzgebirge und Muskauer Park als UNESCO-Welterbe in Sachsen
+### 16.11. Montanregion Erzgebirge und Muskauer Park als UNESCO-Welterbe in Sachsen
 
 Bearbeitungsauftrag: Die Montanregion Erzgebirge/Krušnohoří umfasst sächsische und tschechische Bergbaulandschaften, darunter Teilgebiete um Freiberg, Schneeberg, Annaberg-Frohnau, Marienberg und Altenberg; das Mansfelder Land gehört nicht zu dieser Welterbestätte. Der Muskauer Park bildet beiderseits der deutsch-polnischen Grenze eine gestalterische Einheit. Konkrete Paragrafen und gegebenenfalls Welterbe-Managementplan-Vorgaben vor Verwendung anhand einer belastbaren Quelle prüfen.
 Prüfschritte: Sachsen verbindet zwei grenzüberschreitende Welterbestätten; Mandatslagen: Bauvorhaben in Kern- und Pufferzonen, Nachnutzung bergbaulicher Anlagen, Halden- und Wasserwirtschaft, Restitutionsfragen und Bauleitplanung in Sicht- oder Landschaftskorridoren.
 Lieferstück: Fachvotum zu Montanregion Erzgebirge und Muskauer Park als UNESCO-Welterbe in Sachsen mit Tatbestandsmerkmalen, Aktenfundstellen, Beweislast, stärkster Gegenposition, Risiko und ausformulierter Rechtsfolge.
+
+### 16.12. Schlösser, Gutsanlagen und Restitution in Brandenburg
+
+Bearbeitungsauftrag: Brandenburg verzeichnet rund 600 Schlösser und Gutsanlagen, viele in unklarer oder mehrstufig restituierter Eigentumslage. Mandatsfälle vereinen das Vermögensgesetz (VermG) als Restitutionsgrundlage, das BbgDSchG als Erhaltungs- und Erlaubnisregime und die Förderprogramme der Stiftung Brandenburgische Gedenkstaetten und der Stiftung Preussische Schlösser und Gaerten. Bei Welterbestätten ICOMOS-Stellungnahmen und State of Conservation-Berichte berücksichtigen.
+Lieferstück: Fachvotum zu Schlösser, Gutsanlagen und Restitution in Brandenburg mit Tatbestandsmerkmalen, Aktenfundstellen, Beweislast, stärkster Gegenposition, Risiko und ausformulierter Rechtsfolge.

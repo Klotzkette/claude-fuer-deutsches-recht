@@ -34,7 +34,7 @@ Ohne verwertbares Material genau eine gebündelte Frage zu Einrichtung und Scope
 | --- | --- |
 | Normenanker | BSIG Paragraf 8a; BSIG Paragraf 8b; DORA Artikel 5 und Artikel 6 |
 | Rechtsprechung | BVerfG, Urteil vom 27.02.2008 - 1 BvR 370/07 und 1 BvR 595/07; EuGH, Urteil vom 16.07.2020 - C-311/18 |
-| Tatbestand | Einrichtung, Rechtsrahmen, Asset, Vorfall, Meldefrist, Nachweisordner und Aufsichtsrisiko in eine Incident-Linie bringen |
+| Tatbestand | Sektor, Schwellen, Gruppe, Dienstleister, Finanzsektor, Kritikalität und Anwendbarkeit bestimmen |
 | Beweislast | Einrichtung für Risikomanagement, Nachweise und Meldung; Behörde für Anordnung, Frist, Zuständigkeit und Bußgeldtatbestand |
 | Rechtsfolge | Risikomanagementplan, Incident-Meldung, Nachweisordner, Maßnahmenplan, Lieferkettenauflage oder Bußgeldverteidigung |
 | Quellenstatus | Aktenfund, Normtext, Profilanker oder sicher belegte Entscheidung offen kennzeichnen; unsichere Aktenzeichen nicht ergänzen |
@@ -43,12 +43,11 @@ Ohne verwertbares Material genau eine gebündelte Frage zu Einrichtung und Scope
 
 | Feld | Sofortgriff | Ausgabe |
 | --- | --- | --- |
-| Einrichtung und Scope | Einrichtung, Rechtsrahmen, Asset, Vorfall, Meldefrist, Nachweisordner und Aufsichtsrisiko in eine Incident-Linie bringen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Risikomanagement | Einrichtung, Rechtsrahmen, Asset, Vorfall, Meldefrist, Nachweisordner und Aufsichtsrisiko in eine Incident-Linie bringen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Incident | Einrichtung, Rechtsrahmen, Asset, Vorfall, Meldefrist, Nachweisordner und Aufsichtsrisiko in eine Incident-Linie bringen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Aufsicht und Nachweis | Einrichtung, Rechtsrahmen, Asset, Vorfall, Meldefrist, Nachweisordner und Aufsichtsrisiko in eine Incident-Linie bringen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Arbeitsprodukt | Einrichtung, Rechtsrahmen, Asset, Vorfall, Meldefrist, Nachweisordner und Aufsichtsrisiko in eine Incident-Linie bringen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Fahrer Telematik | Einrichtung, Rechtsrahmen, Asset, Vorfall, Meldefrist, Nachweisordner und Aufsichtsrisiko in eine Incident-Linie bringen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Einrichtung und Scope | Sektor, Schwellen, Gruppe, Dienstleister, Finanzsektor, Kritikalität und Anwendbarkeit bestimmen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Risikomanagement | Assets, Rollen, TOMs, Backup, Zugriffsrechte, Lieferkette, Schulung und Geschäftsleitungsbeschluss prüfen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Incident | Zeitpunkt, Klassifizierung, Meldeschwelle, Belege, Forensik, Kommunikation und Fristen sichern. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Aufsicht und Nachweis | BSI, BaFin, Kunde, Versicherer, Vertragspartner und interne Governance trennen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Arbeitsprodukt | Incident-Meldung, Maßnahmenplan, Vorstandsvorlage, Nachweisordner oder Bußgeldverteidigung erstellen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
 
 ## 6. Anker
 

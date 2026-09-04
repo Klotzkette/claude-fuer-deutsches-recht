@@ -130,8 +130,6 @@ Arbeitsgriff Arbeitsprodukt: Deckungsmemo, Anspruchsschreiben, Ablehnungsschreib
 - BGH, Urteil vom 22.06.2011 - IV ZR 225/10: Bei grob fahrlässiger Herbeiführung des Versicherungsfalls kann die Kürzung nach Paragraf 81 Absatz 2 VVG ausnahmsweise bis auf null reichen; erforderlich ist eine Einzelfallabwägung.
 - BGH, Urteil vom 12.03.2014 - IV ZR 306/13: Bei arglistiger Verletzung der vorvertraglichen Anzeigepflicht kann der Versicherer trotz fehlender Belehrung nach Paragraf 19 Absatz 5 VVG zurücktreten.
 - BGH, Urteil vom 07.05.2014 - IV ZR 76/11: Bei nicht ordnungsgemäß belehrten Altverträgen der Lebens- und Rentenversicherung nach dem Policenmodell konnte das Widerspruchsrecht trotz der damaligen Jahresfrist fortbestehen; die Rückabwicklung berücksichtigt den genossenen Versicherungsschutz.
-- BGH IV ZR 153/20, Urt. v. 14.7.2021 — Versicherungsfall BU: Eintritt erst nach Ablauf des sechs-monatigen Prognosezeitraums. Quelle: juris.bundesgerichtshof.de.
-- BGH IV ZR 19/18, Urt. v. 26.6.2019 — Vergleichsverweisung; tatsächlich erzieltes Einkommen ist nicht ohne Weiteres auf Vergleichszeitpunkt fortzuschreiben. Quelle: juris.bundesgerichtshof.de.
 
 ## 9. Prüfraster
 
@@ -152,7 +150,7 @@ Arbeitsgriff Arbeitsprodukt: Deckungsmemo, Anspruchsschreiben, Ablehnungsschreib
 10.5. Beweislast: Versicherungsnehmer für Versicherungsfall und Schaden; Versicherer für Ausschluss, Obliegenheitsverletzung und Kürzung. Zeige ausdrücklich, welche Folge ein offener Beweis hat.
 10.6. Gegenposition: Formuliere den stärksten ernsthaften Angriff; hier setzt die Gegenseite typischerweise bei der Versicherungsfall nach Zeit, Ort, Ursache und Schaden belegt an.
 10.7. Erwiderung: Antworte mit konkretem Gegenbeleg, Auslegung oder Beweislastregel und ziehe die Folge auf Deckung, Kürzung, Ablehnung, Regulierung, Regress oder Klageantrag; ein bloßes Bestreiten genügt nicht.
-10.8. Arbeitsprodukt: Schließe mit Antrag, Tenor, Klausel, Entscheidung oder nächstem Schritt; hier typischerweise Ausgabe entlang der Kernfelder Regress-Abwehr, Do Deckungsabwehr, Prüfung von Versicherungsschadenfällen und Deckungsablehnungen nach VVG, Vergleichsverhandlung Strategie: Kurzvermerk, Prüfmatrix, Entwurf, Fristenblatt oder Fragenliste mit nächstem Schritt.
+10.8. Arbeitsprodukt: Schließe mit Antrag, Tenor, Klausel, Entscheidung oder nächstem Schritt; hier typischerweise Ausgabe entlang der Kernfelder Regress-Abwehr, Do Deckungsabwehr, Vergleichsverhandlung Strategie, Deckungsanfrage und Leistungsablehnung prüfen: Kurzvermerk, Prüfmatrix, Entwurf, Fristenblatt oder Fragenliste mit nächstem Schritt.
 10.9. Quellenstatus: Ordne Rechtsprechung nach Tragweite ein; erste Fallanker sind BGH, Urteil vom 10.03.2016 - I ZR 147/14; BGH, Urteil vom 30.11.2017 - I ZR 143/16.
 
 ## 11. Outputvarianten und Empfängerwunsch
@@ -189,10 +187,10 @@ Die Landkarte dient der schnellen Auswahl. Sie ersetzt nicht die darunter ausfor
 | --- | --- | --- |
 | Regress-Abwehr | Der Forderungsübergang erfolgt kraft Gesetzes nach Paragrafen 116 SGB X, 86 VVG, 76 BeamtVG. | Fachvotum zu Regress-Abwehr mit Tatbestandsmerkmalen, Aktenfundstellen, Beweislast, stärkster Gegenposition, Risiko und ausformulierter Rechtsfolge |
 | Do Deckungsabwehr | Lege Anspruchserhebung, Police, AVB, Nachträge und Ablehnung in der zeitlich richtigen Fassung nebeneinander. | Fachvotum zu Do Deckungsabwehr mit Tatbestandsmerkmalen, Aktenfundstellen, Beweislast, stärkster Gegenposition, Risiko und ausformulierter Rechtsfolge |
-| Prüfung von Versicherungsschadenfällen und Deckungsablehnungen nach VVG | Anzeigepflicht Paragraf 30 VVG; Fristversäumnis kann Obliegenheitsverletzung sein. | gewichtete Prüfmatrix mit Tatbestandsmerkmalen, Fundstellen, Gegenposition, Beweislast, Risiko und Empfehlung |
 | Vergleichsverhandlung Strategie | Beziffere Versicherungsfall, unstreitige Mindestleistung, streitige Deckungs- oder Höhenfragen, Abwehrkosten, Zinsen und Prozessrisiko aus Police und Belegen. | Verhandlungsblatt zu Vergleichsverhandlung Strategie mit Ziel, Mindestposition, Tauschmasse, Risiko, Regelungstext und Vollzug |
+| Deckungsanfrage und Leistungsablehnung prüfen | Versicherungssparte und versichertes Interesse bestimmen. Primären Deckungstatbestand, räumlichen und zeitlichen Geltungsbereich sowie Versicherungssumme feststellen. | Fachvotum zu Deckungsanfrage und Leistungsablehnung prüfen mit Tatbestandsmerkmalen, Aktenfundstellen, Beweislast, stärkster Gegenposition, Risiko und ausformulierter Rechtsfolge |
 | Deckungsklage | Welche Klageart ist erforderlich — Leistungsklage auf bezifferten Betrag oder Feststellungsklage auf künftige Rentenpflicht (Paragraf 256 ZPO)? | frist- und formgerechter Entwurf mit Antrag, tragenden Tatsachen, Beweisangeboten, Anlagen und Einreichungsweg |
-| Klage bei abgelehnter Berufsunfähigkeitsversicherungs-Leistung | Bestimme Beruf, konkrete zuletzt in gesunden Tagen ausgeübte Einzeltätigkeiten und deren Zeitanteile und gleiche sie mit medizinisch belegten Einschränkungen ab. | frist- und formgerechter Entwurf mit Antrag, tragenden Tatsachen, Beweisangeboten, Anlagen und Einreichungsweg |
+| Klage aus der Berufsunfähigkeitsversicherung | Bestimme Beruf, konkrete zuletzt in gesunden Tagen ausgeübte Einzeltätigkeiten und deren Zeitanteile und gleiche sie mit medizinisch belegten Einschränkungen ab. | frist- und formgerechter Entwurf mit Antrag, tragenden Tatsachen, Beweisangeboten, Anlagen und Einreichungsweg |
 | Versicherungsprozess-Versandmappe endfertigen | Ordne jede Klausel der richtigen Bedingungsfassung und jedem Schadenereignis den zugehörigen Nachweis zu. | Fachvotum zu Versicherungsprozess-Versandmappe endfertigen mit Tatbestandsmerkmalen, Aktenfundstellen, Beweislast, stärkster Gegenposition, Risiko und ausformulierter Rechtsfolge |
 | Abrechnung des Rückkaufswerts | Ordne jeder Zahl Dokument, Datum und Seite zu. Vertragsart und anwendbare Fassung des VVG bestimmen. Bei klassischen Verträgen Deckungskapital und Rechnungsgrundlagen nach Paragraf 169 Absatz 3 VVG anfordern | Fachvotum zu Abrechnung des Rückkaufswerts mit Tatbestandsmerkmalen, Aktenfundstellen, Beweislast, stärkster Gegenposition, Risiko und ausformulierter Rechtsfolge |
 | Bauleiter Versicherungsvertragsprüfung | Bearbeite Bauleiter Versicherungsvertragsprüfung entlang der Versicherungsrecht-Prüflinie: Vertrag und Sparte: Versicherungsart, Versicherungsnehmer, versicherte Person, Risiko, Laufzeit und Bedingungen erfassen. | verhandlungsfähige Fassung mit Ausgangstext, Änderung, Begründung, Rückfallposition und Vollzugscheck |
@@ -213,17 +211,17 @@ Bearbeitungsauftrag: Lege Anspruchserhebung, Police, AVB, Nachträge und Ablehnu
 Prüfschritte: Vermögens-Schäden durch Geschäftsführer; gegenwärtige Organmitglieder und weitere ausdrücklich benannte Personen; ehemalige oder erst später bestellte Personen nur nach dem persönlichen und zeitlichen Deckungsumfang der konkreten Police; Claims-made-Zeitpunkt, Rückwärtsdeckung, Nachmeldefrist und Kontinuitätsdatum getrennt aus Police, AVB und Nachträgen feststellen.
 Lieferstück: Fachvotum zu Do Deckungsabwehr mit Tatbestandsmerkmalen, Aktenfundstellen, Beweislast, stärkster Gegenposition, Risiko und ausformulierter Rechtsfolge.
 
-### 16.3. Prüfung von Versicherungsschadenfällen und Deckungsablehnungen nach VVG
-
-Bearbeitungsauftrag: Anzeigepflicht Paragraf 30 VVG; Fristversäumnis kann Obliegenheitsverletzung sein. Welche Ablehnungsgründe nennt der Versicherer im Schreiben — vorvertragliche Anzeigepflicht Paragraf 19 VVG, Obliegenheitsverletzung Paragrafen 28/31 VVG, grob fahrlässige Herbeiführung Paragraf 81 VVG, Risikoausschluss, Versicherungsfall-Definition, Unterversicherung Paragraf 75 VVG? Wurden die Antragsfragen schriftlich gestellt und beantwortet — vollständiger Antragsfragebogen vorhanden?
-Prüfschritte: Welche Versicherungssparte — Hausrat, Gebäude, Haftpflicht, BU, Leben, Kranken, Rechtsschutz, Kfz-Kasko, Cyber, D&O?
-Lieferstück: gewichtete Prüfmatrix mit Tatbestandsmerkmalen, Fundstellen, Gegenposition, Beweislast, Risiko und Empfehlung.
-
-### 16.4. Vergleichsverhandlung Strategie
+### 16.3. Vergleichsverhandlung Strategie
 
 Bearbeitungsauftrag: Beziffere Versicherungsfall, unstreitige Mindestleistung, streitige Deckungs- oder Höhenfragen, Abwehrkosten, Zinsen und Prozessrisiko aus Police und Belegen. Bei BU-Leistungen Zukunftsrente, Nachprüfung und Gesundheitsentwicklung, bei Sachschäden Wiederherstellung, Zeitwert und Regress gesondert regeln; formuliere Abgeltungsumfang, Fälligkeit, Widerruf, Kosten und Fortbestand anderer Ansprüche.
 Prüfschritte: Sachverhalte aus dem Bereich Versicherungsvertragsrecht (Personen- und Sachversicherung), in denen eine außergerichtliche oder prozessbegleitende Einigung sinnvoll erscheint; Typische Konstellationen: Vergleich BU-Rentenhöhe, Sachschaden-Regulierung; Sowohl in der außergerichtlichen Phase (vor Klage) als auch im laufenden Prozess (Güteverhandlung, Hauptverhandlung); BATNA (Best Alternative to Negotiated Agreement): Was passiert, wenn wir uns nicht einigen; Kosten- und Zeit-Prognose Prozess, Erfolgsaussichten-Quote, Vollstreckungsrisiko.
 Lieferstück: Verhandlungsblatt zu Vergleichsverhandlung Strategie mit Ziel, Mindestposition, Tauschmasse, Risiko, Regelungstext und Vollzug.
+
+### 16.4. Deckungsanfrage und Leistungsablehnung prüfen
+
+Bearbeitungsauftrag: Versicherungssparte und versichertes Interesse bestimmen. Primären Deckungstatbestand, räumlichen und zeitlichen Geltungsbereich sowie Versicherungssumme feststellen. Einwendungen des Versicherers einzeln zuordnen: Risikoausschluss, vorvertragliche Anzeigepflicht, vertragliche Obliegenheit, Auskunftspflicht, Herbeiführung des Versicherungsfalls, Unterversicherung oder fehlende Fälligkeit.
+Prüfschritte: Lies zuerst Police, vollständige AVB-Fassung, Nachträge, Antrag und Gesundheits- oder Risikofragen, Schadensanzeige, Auskunftsverlangen, eingereichte Belege und Ablehnungsschreiben; Erstelle eine Zeitachse von Vertragsschluss, Versicherungsfall, Kenntnis, Anzeige, Nachfragen, Antworten und Leistungsentscheidung; Frage nur nach Unterlagen, deren Fehlen eine konkrete Deckungs- oder Fristfrage offenlässt.
+Lieferstück: Fachvotum zu Deckungsanfrage und Leistungsablehnung prüfen mit Tatbestandsmerkmalen, Aktenfundstellen, Beweislast, stärkster Gegenposition, Risiko und ausformulierter Rechtsfolge.
 
 ### 16.5. Deckungsklage
 
@@ -231,10 +229,10 @@ Bearbeitungsauftrag: Welche Klageart ist erforderlich — Leistungsklage auf bez
 Prüfschritte: Wurde außergerichtlich vollständig die Leistung gefordert und ist die Ablehnung endgültig; Liegt ein ausdrückliches Ablehnungsschreiben vor?
 Lieferstück: frist- und formgerechter Entwurf mit Antrag, tragenden Tatsachen, Beweisangeboten, Anlagen und Einreichungsweg.
 
-### 16.6. Klage bei abgelehnter Berufsunfähigkeitsversicherungs-Leistung
+### 16.6. Klage aus der Berufsunfähigkeitsversicherung
 
 Bearbeitungsauftrag: Bestimme Beruf, konkrete zuletzt in gesunden Tagen ausgeübte Einzeltätigkeiten und deren Zeitanteile und gleiche sie mit medizinisch belegten Einschränkungen ab. Grad, Prognosezeitraum, fingierte oder tatsächliche Verweisung und Nachprüfung folgen ausschließlich der Police und den maßgeblichen AVB; keine pauschale Fünfzig-Prozent- oder Sechsmonatsregel ohne Klauselbeleg. Liefere Tätigkeitsbild, medizinische Beweisfragen, Rentenberechnung und passenden Feststellungs- oder Zahlungsantrag.
-Prüfschritte: Berufsunfähigkeit = über 50 % Beeinträchtigung in der letzten beruflichen Tätigkeit; Dauerhaft (typisch über 6 Monate prognostiziert); Konkret: spezifischer letzter Beruf; "Wenn Versicherter zumutbare andere Tätigkeit ausüben kann, ist nicht BU"; Verweisung auf vergleichbare Berufe.
+Prüfschritte: Lies Police, vollständige AVB-Fassung, Nachträge, Leistungsantrag, Tätigkeitsbeschreibung, medizinische Unterlagen, Antragsfragen, Versicherer-Gutachten und Ablehnung; Erstelle sofort eine Klausel- und Beweismatrix; Frage nur nach Tatsachen, die für versicherten Beruf, vertraglichen Leistungsgrad, Prognose oder Rückschau, Verweisung, Leistungsbeginn oder einen Einwand des Versicherers fehlen.
 Lieferstück: frist- und formgerechter Entwurf mit Antrag, tragenden Tatsachen, Beweisangeboten, Anlagen und Einreichungsweg.
 
 ### 16.7. Versicherungsprozess-Versandmappe endfertigen
@@ -254,17 +252,17 @@ Lieferstück: Fachvotum zu Abrechnung des Rückkaufswerts mit Tatbestandsmerkmal
 Bearbeitungsauftrag: Bearbeite Bauleiter Versicherungsvertragsprüfung entlang der Versicherungsrecht-Prüflinie: Vertrag und Sparte: Versicherungsart, Versicherungsnehmer, versicherte Person, Risiko, Laufzeit und Bedingungen erfassen. Lege Regelungsziel und tatsächlichen Ablauf offen, prüfe Definitionen, Haupt- und Nebenpflichten, Bedingungen, Laufzeit, Beendigung, Haftung, Form, zwingendes Recht und Vollzug und liefere Klausel, Rückfallposition und Abschlusskontrolle.
 Lieferstück: verhandlungsfähige Fassung mit Ausgangstext, Änderung, Begründung, Rückfallposition und Vollzugscheck.
 
-### 16.10. Klagestrategie gegen Versicherer nach erfolgloser außergerichtlicher Korrespondenz
-
-Bearbeitungsauftrag: Bearbeite Klagestrategie gegen Versicherer nach erfolgloser außergerichtlicher Korrespondenz entlang der Versicherungsrecht-Prüflinie: Vertrag und Sparte: Versicherungsart, Versicherungsnehmer, versicherte Person, Risiko, Laufzeit und Bedingungen. Isoliere angegriffene Entscheidung und Rechtsschutzziel, sichere Statthaftigkeit, Beschwer, Zuständigkeit, Frist, Form und Beteiligte und formuliere aus Tatsachen, Beweisen und stärkster Gegenposition einen bestimmten Antrag mit Einreichungsweg.
-Lieferstück: frist- und formgerechter Entwurf mit Antrag, tragenden Tatsachen, Beweisangeboten, Anlagen und Einreichungsweg.
-
-### 16.11. Cyber-Versicherung bei Ransomware mit Sanktionsrisiko und Geldwäscherecht
+### 16.10. Cyber-Versicherung bei Ransomware mit Sanktionsrisiko und Geldwäscherecht
 
 Bearbeitungsauftrag: Liegt der vollständige Versicherungsvertrag (Cyber-Police) mit GDV-Musterbedingungen oder individuellen Klauseln vor — insbesondere: Enthält die Police eine Sanctions Limitation Clause? Wurde das BSI (bei KRITIS) und das LKA Cybercrime informiert? Welche Backup-Optionen bestehen — wurde eine Datenwiederherstellung ohne Zahlung versucht?
 Lieferstück: Fachvotum zu Cyber-Versicherung bei Ransomware mit Sanktionsrisiko und Geldwäscherecht mit Tatbestandsmerkmalen, Aktenfundstellen, Beweislast, stärkster Gegenposition, Risiko und ausformulierter Rechtsfolge.
 
-### 16.12. Gebäudeversicherung Paragraf 86 VVG
+### 16.11. Gebäudeversicherung Paragraf 86 VVG
 
 Bearbeitungsauftrag: Bearbeite Gebäudeversicherung Paragraf 86 VVG entlang der Versicherungsrecht-Prüflinie: Vertrag und Sparte: Versicherungsart, Versicherungsnehmer, versicherte Person, Risiko, Laufzeit und Bedingungen erfassen.
 Lieferstück: Fachvotum zu Gebäudeversicherung Paragraf 86 VVG mit Tatbestandsmerkmalen, Aktenfundstellen, Beweislast, stärkster Gegenposition, Risiko und ausformulierter Rechtsfolge.
+
+### 16.12. Haftpflicht Paragraf 100 VVG
+
+Bearbeitungsauftrag: Bearbeite Haftpflicht Paragraf 100 VVG entlang der Versicherungsrecht-Prüflinie: Vertrag und Sparte: Versicherungsart, Versicherungsnehmer, versicherte Person, Risiko, Laufzeit und Bedingungen erfassen.
+Lieferstück: Fachvotum zu Haftpflicht Paragraf 100 VVG mit Tatbestandsmerkmalen, Aktenfundstellen, Beweislast, stärkster Gegenposition, Risiko und ausformulierter Rechtsfolge.

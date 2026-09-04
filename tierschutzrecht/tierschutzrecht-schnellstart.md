@@ -44,7 +44,7 @@ Ohne verwertbares Material genau eine gebündelte Frage zu Tier, Haltung und Zei
 | Feld | Sofortgriff | Ausgabe |
 | --- | --- | --- |
 | Tier, Haltung und Zeitpunkt | Art, Anzahl, Kennzeichnung, Eigentum, Halter, Standort, Nutzung und maßgeblichen Kontrollzeitpunkt feststellen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Tatsachen und Beweis | Tierzustand, Schmerzen, Leiden, Schäden, Versorgung, Stall- oder Transportbedingungen, Fotos, Befunde, Zeugen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Tatsachen und Beweis | Tierzustand, Schmerzen, Leiden, Schäden, Versorgung, Stall- oder Transportbedingungen, Fotos, Befunde, Zeugen und tierärztliche Bewertung getrennt sichern. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
 | Pflicht und Verantwortlicher | Konkrete Anforderung, Erlaubnislage, Adressat, Verschulden und mögliche Mehrpersonenverantwortung bestimmen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
 
 ## 6. Anker

@@ -80,7 +80,7 @@ Entscheidungsgriff Arbeitsprodukt: Hinweisverfügung, Beweisbeschluss, Vergleich
 | Streit- und Verfahrenskern | Berufungsverfahren Paragraf 511 ff | ZPO Paragraf 139 | richterlicher Arbeitsvermerk mit nächster Verfügung |
 | Zulässigkeit und Gehör | Antrag, Zuständigkeit, Parteistellung, Frist und Anhörung | ZPO Paragraf 253 und Paragraf 138 | Hinweis-, Auflagen- oder Zwischenentscheidungsentwurf |
 | Beweis und Würdigung | Frühe Erste Verfügung Paragraf 139 | Parteivortrag, Amtsermittlung, Darlegungs- und Beweislast werden getrennt; jeder entscheidungstragende Befund erhält eine genaue Aktenstelle | Beweisplan oder Beweisbeschluss mit Entscheidungsreife |
-| Tenor und Anschluss | Hinweisverfügung, Beweisbeschluss, Vergleichsvorschlag oder Urteil mit Tenor ausformulieren | BVerfG, Beschluss vom 30.04.2003 - 1 PBvU 1/02, BVerfGE 107, 395 | Tenor, Gründe, Kosten, Vollstreckbarkeit und Rechtsmittelbelehrung |
+| Tenor und Anschluss | Hinweisverfügung, Beweisbeschluss, Vergleichsvorschlag oder Urteil mit Tenor ausformulieren | ZPO Paragraf 253 und Paragraf 138 | Tenor, Gründe, Kosten, Vollstreckbarkeit und Rechtsmittelbelehrung |
 
 ## 5. Rechtsanker, Entscheidungsmerkmale, Beweislast und Tenorfolge
 
@@ -96,11 +96,7 @@ Entscheidungsgriff Arbeitsprodukt: Hinweisverfügung, Beweisbeschluss, Vergleich
 
 ## 6. Rechtsprechungsanker, Quellenstatus und Entscheidungswirkung
 
-| Rechtsprechungsanker | Quellenstatus | Nutzwert im Fall |
-| --- | --- | --- |
-| BVerfG, Beschluss vom 30.04.2003 - 1 PBvU 1/02, BVerfGE 107, 395 | aus Skillmaterial extrahierter Anker; vor Zitierung am Aktenstand oder an belastbarer Quelle sichern | Rechtliches Gehör verlangt, dass entscheidungserheblicher Vortrag erkennbar zur Kenntnis genommen und erwogen wird |
-| BGH, Beschluss vom 24.07.2018 - VI ZR 599/16 | aus Skillmaterial extrahierter Anker; vor Zitierung am Aktenstand oder an belastbarer Quelle sichern | Geänderten, präzisierten oder berichtigten Parteivortrag nicht allein wegen des Widerspruchs zum früheren Vortrag ausblenden |
-| BGH, Urteil vom 01.10.2019 - VI ZR 164/18 | aus Skillmaterial extrahierter Anker; vor Zitierung am Aktenstand oder an belastbarer Quelle sichern | Auch bei einer Häufung von Indizien bleibt das Beweismaß des Paragraf 286 ZPO bestehen; Beweisfrage und spätere Würdigung dürfen nicht auf eine bloße Wahrscheinlichkeitsprüfung verkürzt werden |
+- Rechtsprechung nur zitieren, wenn Gericht, Datum und Aktenzeichen sicher sind; sonst als Recherche- und Prüfbedarf mit konkreter Fallfrage markieren.
 - Rechtsfolge zuerst als Arbeitsprodukt denken: Hinweisverfügung, Beweisbeschluss, Vergleichsvorschlag oder Urteil mit Tenor ausformulieren
 - Quellenstatus immer sichtbar machen: Aktenfund, Normtext, Profilanker, gesicherte Rechtsprechung oder offene Prüfung.
 
@@ -115,17 +111,15 @@ Entscheidungsgriff Arbeitsprodukt: Hinweisverfügung, Beweisbeschluss, Vergleich
 - Paragraf 495a ZPO wird angeordnet, ohne Streitwertgrenze und Gehörsbedarf zu prüfen; im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
 - Paragrafen 313, 313a ZPO; Paragrafen 91 ff; im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
 - Paragraf 139 ZPO: Hinweise früh, konkret und aktenkundig; keine Überraschungsentscheidung; im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
-- Artikel 103 Absatz 1 GG: entscheidungserheblicher Vortrag muss zur Kenntnis genommen und erwogen werden; im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
 - Paragraf 286 ZPO: freie Beweiswürdigung mit Gesamtwürdigung aller erheblichen Indizien; im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
 - Paragraf 287 ZPO: Schadensschätzung bei tragfähiger Grundlage; im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
 - Paragraf 296 ZPO: Präklusion nur bei Verzögerung, Verschulden und dokumentierter Prozessförderung; im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
 - Paragraf 278 ZPO: Vergleich nur mit Risikobild, Vollstreckbarkeit und Nebenfolgen; im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
+- GVG Paragraf 71, ZPO Paragraf 253, 138, 139, 278, 286 und 313; im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
 
 ## 8. Leitentscheidungen
 
-- BVerfG, Beschluss vom 30.04.2003 - 1 PBvU 1/02, BVerfGE 107, 395: Rechtliches Gehör verlangt, dass entscheidungserheblicher Vortrag erkennbar zur Kenntnis genommen und erwogen wird.
-- BGH, Beschluss vom 24.07.2018 - VI ZR 599/16: Geänderten, präzisierten oder berichtigten Parteivortrag nicht allein wegen des Widerspruchs zum früheren Vortrag ausblenden.
-- BGH, Urteil vom 01.10.2019 - VI ZR 164/18: Auch bei einer Häufung von Indizien bleibt das Beweismaß des Paragraf 286 ZPO bestehen; Beweisfrage und spätere Würdigung dürfen nicht auf eine bloße Wahrscheinlichkeitsprüfung verkürzt werden.
+- Rechtsprechung nur mit Datum, Gericht und Aktenzeichen verwenden, wenn sie aus Unterlagen oder belastbarer Quelle sicher belegt ist; sonst als Prüfbedarf markieren.
 
 ## 9. Prüfraster
 
@@ -147,7 +141,7 @@ Entscheidungsgriff Arbeitsprodukt: Hinweisverfügung, Beweisbeschluss, Vergleich
 10.6. Gegenposition: Formuliere den stärksten Gegenantrag oder die tragfähigste abweichende Würdigung; sie setzt typischerweise bei welche Tatsache ist streitig, beweisbedürftig und wem zur Last an.
 10.7. Würdigung: Antworte mit Aktenbeleg, Beweiswürdigung, Auslegung oder Beweislastregel und ziehe die Folge auf Hinweisverfügung, Beweisbeschluss, Vergleichsvorschlag oder Urteil mit Tenor ausformulieren.
 10.8. Förmliches Produkt: Schließe mit Relationszeile: Anspruch, Klägervortrag, Bestreiten, Beweislast, Beweismittel, Ergebnis; Beweisbeschluss: Beweisthema, Beweismittel, Auflagen, Vorschuss, Termin; Rubrum, Tenor, Gründe, Nebenentscheidungen und Anschlussverfügung müssen zusammenpassen.
-10.9. Rechtsprechungsstatus: Ordne jede Entscheidung nach Bindungswirkung und Aussagekern ein; erste Fallanker sind BVerfG, Beschluss vom 30.04.2003 - 1 PBvU 1/02, BVerfGE 107, 395; BGH, Beschluss vom 24.07.2018 - VI ZR 599/16.
+10.9. Rechtsprechungsstatus: Ordne jede Entscheidung nach Bindungswirkung und Aussagekern ein; erste Fallanker sind erst nach verifizierter Recherche einzusetzen.
 
 ## 11. Outputvarianten und Empfängerwunsch
 
@@ -183,13 +177,13 @@ Die Landkarte dient der schnellen Auswahl. Sie ersetzt nicht die darunter ausfor
 | --- | --- | --- |
 | Berufungsverfahren Paragraf 511 ff | Statthaftigkeit und funktionelle Zuständigkeit klären: Berufungssumme über sechshundert Euro oder Zulassung (Paragraf 511 ZPO), Landgericht als Berufungsgericht nach Paragraf 119 GVG. | Entscheidungsbaustein zu Berufungsverfahren Paragraf 511 ff mit Antrag, Aktenfund, Rechtsmaßstab, Beweisfolge, Gegenposition, Tenoroption und nächster Verfügung |
 | Frühe Erste Verfügung Paragraf 139 | Frühe Erste Verfügung Paragraf 139: Streitgegenstand und Anträge fixieren, dann Klägerstation, Beklagtenstation und Beweisstation trennen. | entscheidungsreifer Entwurf mit Tenor oder Verfügungssatz, Streitstoff, Beweiswürdigung und Nebenentscheidungen |
+| Große Relation Zivilrecht | Große Relation Zivilrecht: Streitgegenstand und Anträge fixieren, dann Klägerstation, Beklagtenstation und Beweisstation trennen. | entscheidungsreifer Entwurf mit Tenor oder Verfügungssatz, Streitstoff, Beweiswürdigung und Nebenentscheidungen |
 | Finale Entscheidung als Volltext (Urteil Zivilkammer) | ZPO; Paragrafen 708, 709 ZPO für vorläufige Vollstreckbarkeit beim Landgericht. Vor der Volltext-Erstellung müssen die vorbereitenden Skills dieses Plugins durchlaufen sein. | entscheidungsreifer Entwurf mit Tenor oder Verfügungssatz, Streitstoff, Beweiswürdigung und Nebenentscheidungen |
+| Vergleich und Mediation | Vergleich und Mediation: Anerkenntnis, Säumnis, Vergleich, Erledigung und Klagerücknahme als unterschiedliche Prozesslagen trennen. | Verhandlungsblatt zu Vergleich und Mediation mit Ziel, Mindestposition, Tauschmasse, Risiko, Regelungstext und Vollzug |
+| Zeugenbeweis und Parteivernehmung | Zeugenbeweis und Parteivernehmung: Beweisthema, Beweislast und Beweismittel vor Ladung oder Gutachtenanordnung präzise festlegen. | Beweismatrix zu Zeugenbeweis und Parteivernehmung mit Tatfrage, Beweislast, Beweismittel, Fundstelle, Gegenposition und Folge eines offenen Nachweises |
 | Beweisbeschluss und Sachverständiger | Beweisbeschluss und Sachverständiger: Beweisthema, Beweislast und Beweismittel vor Ladung oder Gutachtenanordnung präzise festlegen. Sachverständigenbeweis nur bei Fachfrage anordnen. | entscheidungsreifer Entwurf mit Tenor oder Verfügungssatz, Streitstoff, Beweiswürdigung und Nebenentscheidungen |
 | Entscheidungsvorschlag Kammer | Entscheidungsvorschlag Kammer: Entscheidungsart, Entscheidungsreife, Hauptsachetenor und Nebenentscheidungen zuerst bestimmen. | Entscheidungsbaustein zu Entscheidungsvorschlag Kammer mit Antrag, Aktenfund, Rechtsmaßstab, Beweisfolge, Gegenposition, Tenoroption und nächster Verfügung |
 | Kostenentscheidung und Streitwert | Kostenentscheidung und Streitwert: Entscheidungsart, Entscheidungsreife, Hauptsachetenor und Nebenentscheidungen zuerst bestimmen. | Entscheidungsbaustein zu Kostenentscheidung und Streitwert mit Antrag, Aktenfund, Rechtsmaßstab, Beweisfolge, Gegenposition, Tenoroption und nächster Verfügung |
-| Urteil Großes Zivilurteil | Urteil Großes Zivilurteil: Entscheidungsart, Entscheidungsreife, Hauptsachetenor und Nebenentscheidungen zuerst bestimmen. | entscheidungsreifer Entwurf mit Tenor oder Verfügungssatz, Streitstoff, Beweiswürdigung und Nebenentscheidungen |
-| Zeugenbeweis und Parteivernehmung | Zeugenbeweis und Parteivernehmung: Beweisthema, Beweislast und Beweismittel vor Ladung oder Gutachtenanordnung präzise festlegen. | Beweismatrix zu Zeugenbeweis und Parteivernehmung mit Tatfrage, Beweislast, Beweismittel, Fundstelle, Gegenposition und Folge eines offenen Nachweises |
-| Große Relation Zivilrecht | Große Relation Zivilrecht: Streitgegenstand und Anträge fixieren, dann Klägerstation, Beklagtenstation und Beweisstation trennen. | entscheidungsreifer Entwurf mit Tenor oder Verfügungssatz, Streitstoff, Beweiswürdigung und Nebenentscheidungen |
 
 ## 16. Fachspezifische Praxisrouten
 
@@ -198,72 +192,66 @@ Diese Routen stammen aus den konkreten Arbeitsthemen dieses Plugins. Wähle die 
 ### 16.1. Berufungsverfahren Paragraf 511 ff
 
 Bearbeitungsauftrag: Statthaftigkeit und funktionelle Zuständigkeit klären: Berufungssumme über sechshundert Euro oder Zulassung (Paragraf 511 ZPO), Landgericht als Berufungsgericht nach Paragraf 119 GVG. Fristen und Form prüfen: Einlegung binnen eines Monats (Paragraf 517 ZPO), Begründung binnen zwei Monaten (Paragraf 520 Absatz 2 ZPO), Anforderungen des Paragraf 520 Absatz 3 ZPO an die Begründung.
-Norm- oder Entscheidungsbezug aus dem Fachmaterial: BVerfG, Beschluss vom 30.04.2003; 1 PBvU 1/02, BVerfGE 107, 395: Rechtliches Gehör verlangt, dass entscheidungserheblicher Vortrag erkennbar zur Kenntnis genommen und erwogen wird.
 Lieferstück: Entscheidungsbaustein zu Berufungsverfahren Paragraf 511 ff mit Antrag, Aktenfund, Rechtsmaßstab, Beweisfolge, Gegenposition, Tenoroption und nächster Verfügung.
 
 ### 16.2. Frühe Erste Verfügung Paragraf 139
 
 Bearbeitungsauftrag: Frühe Erste Verfügung Paragraf 139: Streitgegenstand und Anträge fixieren, dann Klägerstation, Beklagtenstation und Beweisstation trennen. Klägervortrag auf Schlüssigkeit prüfen und fehlende Tatsachen als Hinweis nach Paragraf 139 ZPO formulieren. Beklagtenvortrag auf Erheblichkeit prüfen; Einwendungen, Einreden, Aufrechnung und Widerklage getrennt behandeln.
-Prüfschritte: Einen aufklärungsbedürftigen Widerspruch im Hinweis nach Paragraf 139 ZPO konkret benennen.
-Norm- oder Entscheidungsbezug aus dem Fachmaterial: BVerfG, Beschluss vom 30.04.2003; 1 PBvU 1/02, BVerfGE 107, 395: Rechtliches Gehör verlangt, dass entscheidungserheblicher Vortrag erkennbar zur Kenntnis genommen und erwogen wird; Einen aufklärungsbedürftigen Widerspruch im Hinweis nach Paragraf 139 ZPO konkret benennen.
+Prüfschritte: VI ZR 599/16: Geänderten, präzisierten oder berichtigten Parteivortrag nicht allein wegen des Widerspruchs zum früheren Vortrag ausblenden; einen aufklärungsbedürftigen Widerspruch im Hinweis nach Paragraf 139 ZPO konkret benennen.
+Normbezug aus dem Fachmaterial: VI ZR 599/16: Geänderten, präzisierten oder berichtigten Parteivortrag nicht allein wegen des Widerspruchs zum früheren Vortrag ausblenden; einen aufklärungsbedürftigen Widerspruch im Hinweis nach Paragraf 139 ZPO konkret benennen.
 Lieferstück: entscheidungsreifer Entwurf mit Tenor oder Verfügungssatz, Streitstoff, Beweiswürdigung und Nebenentscheidungen.
 
-### 16.3. Finale Entscheidung als Volltext (Urteil Zivilkammer)
+### 16.3. Große Relation Zivilrecht
+
+Bearbeitungsauftrag: Große Relation Zivilrecht: Streitgegenstand und Anträge fixieren, dann Klägerstation, Beklagtenstation und Beweisstation trennen. Klägervortrag auf Schlüssigkeit prüfen und fehlende Tatsachen als Hinweis nach Paragraf 139 ZPO formulieren.
+Prüfschritte: VI ZR 599/16: Geänderten Vortrag in der Parteistation verarbeiten; Widersprüche beeinflussen gegebenenfalls die Würdigung, beseitigen den Vortrag aber nicht; VI ZR 164/18: Indizien in einer Gesamtschau würdigen, ohne das Beweismaß des Paragraf 286 ZPO auf eine bloß erhebliche Wahrscheinlichkeit abzusenken.
+Lieferstück: entscheidungsreifer Entwurf mit Tenor oder Verfügungssatz, Streitstoff, Beweiswürdigung und Nebenentscheidungen.
+
+### 16.4. Finale Entscheidung als Volltext (Urteil Zivilkammer)
 
 Bearbeitungsauftrag: ZPO; Paragrafen 708, 709 ZPO für vorläufige Vollstreckbarkeit beim Landgericht. Vor der Volltext-Erstellung müssen die vorbereitenden Skills dieses Plugins durchlaufen sein. Fehlt eines dieser Stücke, weist der Skill darauf hin und unterbricht die Volltext-Erstellung, bevor er Phantasie produziert.
 Prüfschritte: Rubrum mit allen Parteien, Vertretern und Aktenzeichen; vollständig erfasster Sachverhalt und Streitstand; geprüfte Anspruchsgrundlagen oder Tatbestandsmerkmale mit Subsumtion; Tenor-Skizze mit Entscheidungsformel zu Hauptsache, Kosten und vorläufiger Vollstreckbarkeit oder Rechtsmittelbelehrung.
 Lieferstück: entscheidungsreifer Entwurf mit Tenor oder Verfügungssatz, Streitstoff, Beweiswürdigung und Nebenentscheidungen.
 
-### 16.4. Beweisbeschluss und Sachverständiger
-
-Bearbeitungsauftrag: Beweisbeschluss und Sachverständiger: Beweisthema, Beweislast und Beweismittel vor Ladung oder Gutachtenanordnung präzise festlegen. Sachverständigenbeweis nur bei Fachfrage anordnen; Beweisfrage, Anknüpfungstatsachen und Vorschuss konkret formulieren. Parteianhörung, Parteivernehmung und richterliche Würdigung voneinander trennen.
-Prüfschritte: Beweisfrage und spätere Würdigung dürfen nicht auf eine bloße Wahrscheinlichkeitsprüfung verkürzt werden.
-Norm- oder Entscheidungsbezug aus dem Fachmaterial: BVerfG, Beschluss vom 30.04.2003; 1 PBvU 1/02, BVerfGE 107, 395: Rechtliches Gehör verlangt, dass entscheidungserheblicher Vortrag erkennbar zur Kenntnis genommen und erwogen wird.
-Lieferstück: entscheidungsreifer Entwurf mit Tenor oder Verfügungssatz, Streitstoff, Beweiswürdigung und Nebenentscheidungen.
-
-### 16.5. Entscheidungsvorschlag Kammer
-
-Bearbeitungsauftrag: Entscheidungsvorschlag Kammer: Entscheidungsart, Entscheidungsreife, Hauptsachetenor und Nebenentscheidungen zuerst bestimmen. Rechtsmittel, Berufungssumme, Zulassung und Beschwer so kontrollieren, dass die Geschäftsstelle korrekt belehren kann. Berufungsrechtliche Bindungen nach Paragrafen 513 und 529 und 531 ZPO werden wie erste Instanz behandelt.
-Norm- oder Entscheidungsbezug aus dem Fachmaterial: BVerfG, Beschluss vom 30.04.2003; 1 PBvU 1/02, BVerfGE 107, 395: Rechtliches Gehör verlangt, dass entscheidungserheblicher Vortrag erkennbar zur Kenntnis genommen und erwogen wird.
-Lieferstück: Entscheidungsbaustein zu Entscheidungsvorschlag Kammer mit Antrag, Aktenfund, Rechtsmaßstab, Beweisfolge, Gegenposition, Tenoroption und nächster Verfügung.
-
-### 16.6. Kostenentscheidung und Streitwert
-
-Bearbeitungsauftrag: Kostenentscheidung und Streitwert: Entscheidungsart, Entscheidungsreife, Hauptsachetenor und Nebenentscheidungen zuerst bestimmen. Tenor in Hauptsache, Zinsen, Nebenforderungen, Kosten, Vollstreckbarkeit und Streitwert zerlegen. Berufungsrechtliche Bindungen nach Paragrafen 513 und 529 und 531 ZPO werden wie erste Instanz behandelt.
-Norm- oder Entscheidungsbezug aus dem Fachmaterial: BVerfG, Beschluss vom 30.04.2003; 1 PBvU 1/02, BVerfGE 107, 395: Rechtliches Gehör verlangt, dass entscheidungserheblicher Vortrag erkennbar zur Kenntnis genommen und erwogen wird.
-Lieferstück: Entscheidungsbaustein zu Kostenentscheidung und Streitwert mit Antrag, Aktenfund, Rechtsmaßstab, Beweisfolge, Gegenposition, Tenoroption und nächster Verfügung.
-
-### 16.7. Urteil Großes Zivilurteil
-
-Bearbeitungsauftrag: Urteil Großes Zivilurteil: Entscheidungsart, Entscheidungsreife, Hauptsachetenor und Nebenentscheidungen zuerst bestimmen. Rechtsmittel, Berufungssumme, Zulassung und Beschwer so kontrollieren, dass die Geschäftsstelle korrekt belehren kann. Berufungsrechtliche Bindungen nach Paragrafen 513 und 529 und 531 ZPO werden wie erste Instanz behandelt.
-Norm- oder Entscheidungsbezug aus dem Fachmaterial: BVerfG, Beschluss vom 30.04.2003; 1 PBvU 1/02, BVerfGE 107, 395: Rechtliches Gehör verlangt, dass entscheidungserheblicher Vortrag erkennbar zur Kenntnis genommen und erwogen wird.
-Lieferstück: entscheidungsreifer Entwurf mit Tenor oder Verfügungssatz, Streitstoff, Beweiswürdigung und Nebenentscheidungen.
-
-### 16.8. Zeugenbeweis und Parteivernehmung
-
-Bearbeitungsauftrag: Zeugenbeweis und Parteivernehmung: Beweisthema, Beweislast und Beweismittel vor Ladung oder Gutachtenanordnung präzise festlegen. Zeugenbeweis nach konkreter Wahrnehmung, Erreichbarkeit, Ladungsfähigkeit und Aussagekern prüfen. Parteianhörung, Parteivernehmung und richterliche Würdigung voneinander trennen.
-Prüfschritte: Eine erhebliche Wahrscheinlichkeit genügt nicht für die volle Überzeugung nach Paragraf 286 ZPO.
-Norm- oder Entscheidungsbezug aus dem Fachmaterial: BVerfG, Beschluss vom 30.04.2003; 1 PBvU 1/02, BVerfGE 107, 395: Rechtliches Gehör verlangt, dass entscheidungserheblicher Vortrag erkennbar zur Kenntnis genommen und erwogen wird; Eine erhebliche Wahrscheinlichkeit genügt nicht für die volle Überzeugung nach Paragraf 286 ZPO.
-Lieferstück: Beweismatrix zu Zeugenbeweis und Parteivernehmung mit Tatfrage, Beweislast, Beweismittel, Fundstelle, Gegenposition und Folge eines offenen Nachweises.
-
-### 16.9. Große Relation Zivilrecht
-
-Bearbeitungsauftrag: Große Relation Zivilrecht: Streitgegenstand und Anträge fixieren, dann Klägerstation, Beklagtenstation und Beweisstation trennen. Klägervortrag auf Schlüssigkeit prüfen und fehlende Tatsachen als Hinweis nach Paragraf 139 ZPO formulieren.
-Norm- oder Entscheidungsbezug aus dem Fachmaterial: BVerfG, Beschluss vom 30.04.2003; 1 PBvU 1/02, BVerfGE 107, 395: Rechtliches Gehör verlangt, dass entscheidungserheblicher Vortrag erkennbar zur Kenntnis genommen und erwogen wird.
-Lieferstück: entscheidungsreifer Entwurf mit Tenor oder Verfügungssatz, Streitstoff, Beweiswürdigung und Nebenentscheidungen.
-
-### 16.10. Praxisraster Landgericht Zivilkammer
-
-Bearbeitungsauftrag: Frist, Rechtsmittel, Zustellung, Kosten und Vollstreckbarkeit kontrollieren. GVG Paragraf 71, ZPO Paragraf 253, 138, 139, 278, 286 und.
-Lieferstück: Entscheidungsbaustein zu Praxisraster Landgericht Zivilkammer mit Antrag, Aktenfund, Rechtsmaßstab, Beweisfolge, Gegenposition, Tenoroption und nächster Verfügung.
-
-### 16.11. Vergleich und Mediation
+### 16.5. Vergleich und Mediation
 
 Bearbeitungsauftrag: Vergleich und Mediation: Anerkenntnis, Säumnis, Vergleich, Erledigung und Klagerücknahme als unterschiedliche Prozesslagen trennen. Zeitpunkt und Umfang bestimmen: vor oder nach Rechtshängigkeit, vollständig oder teilweise, einseitig oder übereinstimmend.
-Norm- oder Entscheidungsbezug aus dem Fachmaterial: BVerfG, Beschluss vom 30.04.2003; 1 PBvU 1/02, BVerfGE 107, 395: Rechtliches Gehör verlangt, dass entscheidungserheblicher Vortrag erkennbar zur Kenntnis genommen und erwogen wird.
+Prüfschritte: III ZR 156/12: Bei Erledigung vor Rechtshängigkeit und anschließender Klagerücknahme bestehen für einen materiell-rechtlichen Kostenerstattungsanspruch die Wege über Paragraf 269 Absatz 3 Satz 3 und Absatz 4 ZPO oder eine gesonderte Leistungsklage; Vergleich und Kostenregelung müssen den gewählten Weg eindeutig erledigen.
 Lieferstück: Verhandlungsblatt zu Vergleich und Mediation mit Ziel, Mindestposition, Tauschmasse, Risiko, Regelungstext und Vollzug.
 
-### 16.12. Eingang und Besetzung
+### 16.6. Zeugenbeweis und Parteivernehmung
+
+Bearbeitungsauftrag: Zeugenbeweis und Parteivernehmung: Beweisthema, Beweislast und Beweismittel vor Ladung oder Gutachtenanordnung präzise festlegen. Zeugenbeweis nach konkreter Wahrnehmung, Erreichbarkeit, Ladungsfähigkeit und Aussagekern prüfen. Parteianhörung, Parteivernehmung und richterliche Würdigung voneinander trennen.
+Prüfschritte: VI ZR 164/18: Bei einem Indizienbeweis die Indiztatsachen und denkbaren Alternativerklärungen offenlegen; eine erhebliche Wahrscheinlichkeit genügt nicht für die volle Überzeugung nach Paragraf 286 ZPO.
+Normbezug aus dem Fachmaterial: VI ZR 164/18: Bei einem Indizienbeweis die Indiztatsachen und denkbaren Alternativerklärungen offenlegen; eine erhebliche Wahrscheinlichkeit genügt nicht für die volle Überzeugung nach Paragraf 286 ZPO.
+Lieferstück: Beweismatrix zu Zeugenbeweis und Parteivernehmung mit Tatfrage, Beweislast, Beweismittel, Fundstelle, Gegenposition und Folge eines offenen Nachweises.
+
+### 16.7. Beweisbeschluss und Sachverständiger
+
+Bearbeitungsauftrag: Beweisbeschluss und Sachverständiger: Beweisthema, Beweislast und Beweismittel vor Ladung oder Gutachtenanordnung präzise festlegen. Sachverständigenbeweis nur bei Fachfrage anordnen; Beweisfrage, Anknüpfungstatsachen und Vorschuss konkret formulieren. Parteianhörung, Parteivernehmung und richterliche Würdigung voneinander trennen.
+Lieferstück: entscheidungsreifer Entwurf mit Tenor oder Verfügungssatz, Streitstoff, Beweiswürdigung und Nebenentscheidungen.
+
+### 16.8. Entscheidungsvorschlag Kammer
+
+Bearbeitungsauftrag: Entscheidungsvorschlag Kammer: Entscheidungsart, Entscheidungsreife, Hauptsachetenor und Nebenentscheidungen zuerst bestimmen. Rechtsmittel, Berufungssumme, Zulassung und Beschwer so kontrollieren, dass die Geschäftsstelle korrekt belehren kann. Berufungsrechtliche Bindungen nach Paragrafen 513 und 529 und 531 ZPO werden wie erste Instanz behandelt.
+Lieferstück: Entscheidungsbaustein zu Entscheidungsvorschlag Kammer mit Antrag, Aktenfund, Rechtsmaßstab, Beweisfolge, Gegenposition, Tenoroption und nächster Verfügung.
+
+### 16.9. Kostenentscheidung und Streitwert
+
+Bearbeitungsauftrag: Kostenentscheidung und Streitwert: Entscheidungsart, Entscheidungsreife, Hauptsachetenor und Nebenentscheidungen zuerst bestimmen. Tenor in Hauptsache, Zinsen, Nebenforderungen, Kosten, Vollstreckbarkeit und Streitwert zerlegen. Berufungsrechtliche Bindungen nach Paragrafen 513 und 529 und 531 ZPO werden wie erste Instanz behandelt.
+Lieferstück: Entscheidungsbaustein zu Kostenentscheidung und Streitwert mit Antrag, Aktenfund, Rechtsmaßstab, Beweisfolge, Gegenposition, Tenoroption und nächster Verfügung.
+
+### 16.10. Urteil Großes Zivilurteil
+
+Bearbeitungsauftrag: Urteil Großes Zivilurteil: Entscheidungsart, Entscheidungsreife, Hauptsachetenor und Nebenentscheidungen zuerst bestimmen. Rechtsmittel, Berufungssumme, Zulassung und Beschwer so kontrollieren, dass die Geschäftsstelle korrekt belehren kann. Berufungsrechtliche Bindungen nach Paragrafen 513 und 529 und 531 ZPO werden wie erste Instanz behandelt.
+Lieferstück: entscheidungsreifer Entwurf mit Tenor oder Verfügungssatz, Streitstoff, Beweiswürdigung und Nebenentscheidungen.
+
+### 16.11. Eingang und Besetzung
 
 Bearbeitungsauftrag: Bearbeite Eingang und Besetzung entlang der Zivilrichterliche Arbeit: Relation, Verhandlung und Urteil-Prüflinie: Aktenaufnahme: Parteien, Anträge, Verfahrensstand, Fristen und Zuständigkeit sichern.
 Lieferstück: Entscheidungsbaustein zu Eingang und Besetzung mit Antrag, Aktenfund, Rechtsmaßstab, Beweisfolge, Gegenposition, Tenoroption und nächster Verfügung.
+
+### 16.12. Praxisraster Landgericht Zivilkammer
+
+Bearbeitungsauftrag: Frist, Rechtsmittel, Zustellung, Kosten und Vollstreckbarkeit kontrollieren.
+Lieferstück: Entscheidungsbaustein zu Praxisraster Landgericht Zivilkammer mit Antrag, Aktenfund, Rechtsmaßstab, Beweisfolge, Gegenposition, Tenoroption und nächster Verfügung.

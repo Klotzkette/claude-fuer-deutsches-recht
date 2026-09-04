@@ -1,13 +1,13 @@
 ---
 name: 25-adhaesionsverfahren-paragraf-403
-description: "Für 25 Adhäsionsverfahren Paragraf 403: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
+description: "Prüft einen Adhäsionsantrag nach StPO Paragrafen 403 bis 406c auf Beteiligtenstellung, Bestimmtheit, zivilrechtliche Anspruchsgrundlage, Beweisbedarf und Eignung zur Erledigung im Strafverfahren. Erstellt Stellungnahme, Hinweis- oder Antragsbaustein mit Kosten-, Vollstreckungs- und Rechtsmittelkontrolle."
 ---
 
-# 25 Adhaesionsverfahren Paragraf 403
+# Adhäsionsverfahren Paragraf 403
 
 ## Zweck
 
-Adhaesionsantrag des Verletzten im Strafverfahren (Paragrafen 403 bis 406c StPO), Pruefung der Zulässigkeit und Eignung zur Mitverhandlung, Abtrennung nach Paragraf 406 Abs. 1 Satz 6 StPO, Schnittstelle zum Opferschutz und zur Verfahrensoekonomie
+Adhäsionsantrag des Verletzten im Strafverfahren nach StPO Paragrafen 403 bis 406c: Zulässigkeit, bestimmte Antragstellung, zivilrechtliche Anspruchsgrundlage, Beweisbedarf und Eignung zur Erledigung im Strafverfahren. Das Gericht kann nach StPO Paragraf 406 Absatz 1 ganz oder teilweise entscheiden oder unter den gesetzlichen Voraussetzungen von einer Entscheidung absehen; Satz 6 schränkt dieses Absehen bei Schmerzensgeldanträgen ein und enthält keine Abtrennungsregel.
 
 ## Rolle
 
@@ -39,12 +39,12 @@ Strukturierter Arbeitsstand: Pruefungspunkte, Zitate, offene Fragen, Vorschlag z
 > **Nummerierung:** Gliederung ausschließlich dezimal (`1`, `1.1`, `1.1.1` und so weiter). Keine römischen Ziffern, keine Buchstaben- oder Mischgliederung.
 <!-- END ausformulierungspflicht (autogen) -->
 
-## Normen & Rechtsprechung
+## Normen und Rechtsprechung
 
-- BVerfG, Urteil vom 19.03.2013 - 2 BvR 2628/10, 2 BvR 2883/10 und 2 BvR 2155/11, BVerfGE 133, 168: Verständigungen und verfahrensbeendende Absprachen brauchen Transparenz, Belehrung und Protokollierung.
-- BVerfG, Urteil vom 27.02.2008 - 1 BvR 370/07 und 1 BvR 595/07, BVerfGE 120, 274: Heimliche Zugriffe auf informationstechnische Systeme berühren das Grundrecht auf Gewährleistung der Vertraulichkeit und Integrität informationstechnischer Systeme.
-- EuGH, Urteil vom 30.04.2024 - C-670/22, M.N.: Übermittelte EncroChat-Daten verlangen eine unionsrechtlich tragfähige Rechtshilfe- und Verwertbarkeitsprüfung.
-- EuGH, Urteil vom 05.12.2023 - C-807/21, Deutsche Wohnen: Unternehmensgeldbußen nach Datenschutzrecht setzen unionsrechtlich geprägte Zurechnung und Verschulden voraus.
+- StPO Paragrafen 403 bis 406c: Antrag, Anhörung, Entscheidung, Absehen, Vergleich, Vollstreckung, Rechtsmittel und Kosten.
+- StPO Paragraf 406 Absatz 1 Satz 3 bis Satz 6: Absehen bei Unzulässigkeit, Unbegründetheit oder fehlender Eignung; bei Schmerzensgeld darf wegen fehlender Eignung nur unter den engeren Voraussetzungen des Satzes 6 abgesehen werden.
+- BGB Paragraf 249 ff. und Paragraf 253: Anspruch und Schadensumfang; Anspruchsgrundlage und Aktivlegitimation einschließlich Anspruchsübergang etwa nach SGB X Paragraf 116 gesondert prüfen.
+- Rechtsprechung nur einfügen, wenn sie gerade Antrag, Anspruch, Beweismaß oder Absehensentscheidung trägt; Verständigungs-, Telekommunikations- und Datenschutzentscheidungen sind keine Adhäsionsanker.
 
 ## Prüf- und Arbeitslogik
 

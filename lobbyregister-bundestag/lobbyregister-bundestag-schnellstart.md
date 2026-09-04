@@ -34,7 +34,7 @@ Ohne verwertbares Material genau eine gebündelte Frage zu Kontakt und Adressat,
 | --- | --- |
 | Normenanker | LobbyRG Paragraf 1; LobbyRG Paragraf 2; LobbyRG Paragraf 3 |
 | Rechtsprechung | BVerfG, Urteil vom 04.07.2007 - 2 BvE 1/06 u.a |
-| Tatbestand | Adressat, Interessenvertretung, Registrierungspflicht, Ausnahme, Angaben, Aktualisierung und Sanktionsrisiko sofort prüfen |
+| Tatbestand | Bundestag, Bundesregierung, Ministerium, Referat, Abgeordneter oder Mitarbeiterebene bestimmen |
 | Beweislast | Registerpflichtiger für Ausnahme, Angaben, Aktualisierung und Dokumentation; Behörde für Tatbestand, Ermessen und Verstoß |
 | Rechtsfolge | Registrierung, Aktualisierung, Verhaltenskodex-Prüfung, Stellungnahme, Fristenblatt oder Bußgeldabwehr |
 | Quellenstatus | Aktenfund, Normtext, Profilanker oder sicher belegte Entscheidung offen kennzeichnen; unsichere Aktenzeichen nicht ergänzen |
@@ -43,12 +43,11 @@ Ohne verwertbares Material genau eine gebündelte Frage zu Kontakt und Adressat,
 
 | Feld | Sofortgriff | Ausgabe |
 | --- | --- | --- |
-| Kontakt und Adressat | Adressat, Interessenvertretung, Registrierungspflicht, Ausnahme, Angaben, Aktualisierung und Sanktionsrisiko sofort prüfen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Pflicht und Ausnahme | Adressat, Interessenvertretung, Registrierungspflicht, Ausnahme, Angaben, Aktualisierung und Sanktionsrisiko sofort prüfen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Registerinhalt | Adressat, Interessenvertretung, Registrierungspflicht, Ausnahme, Angaben, Aktualisierung und Sanktionsrisiko sofort prüfen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Verhalten und Nachweis | Adressat, Interessenvertretung, Registrierungspflicht, Ausnahme, Angaben, Aktualisierung und Sanktionsrisiko sofort prüfen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Arbeitsprodukt | Adressat, Interessenvertretung, Registrierungspflicht, Ausnahme, Angaben, Aktualisierung und Sanktionsrisiko sofort prüfen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Fristen- und Quartalsmonitor | Adressat, Interessenvertretung, Registrierungspflicht, Ausnahme, Angaben, Aktualisierung und Sanktionsrisiko sofort prüfen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Kontakt und Adressat | Bundestag, Bundesregierung, Ministerium, Referat, Abgeordneter oder Mitarbeiterebene bestimmen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Pflicht und Ausnahme | Interessenvertretung, Schwellen, Bagatellen, Mandatsgeheimnis, Arbeitsrecht und Verbändeausnahme trennen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Registerinhalt | Mandant, Regelungsvorhaben, Finanzangaben, Zuwendungen, Auftraggeberkette und Aktualisierung prüfen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Verhalten und Nachweis | Kodex, Kontaktvermerk, Unterlagen, Freigabe, interne Verantwortlichkeit und Fristen sichern. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Arbeitsprodukt | Registermatrix, Aktualisierungstext, Fristenblatt, Vorstandsmemo oder Bußgeldverteidigung erstellen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
 
 ## 6. Anker
 
@@ -57,7 +56,7 @@ Ohne verwertbares Material genau eine gebündelte Frage zu Kontakt und Adressat,
 - LobbyRG Paragraf 3: einzutragende Angaben.
 - LobbyRG Paragraf 4: Aktualisierung und jährliche Bestätigung.
 - Paragraf 2 Abs. 2 LobbyRG — Tätigkeitsbezogene Ausnahmen: u; im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
-- Paragraf 2 Abs. 3 LobbyRG — Persönliche/strukturelle Ausnahmen: Hauptkommunal/-länderebenen, Religionsgemeinschaften des öffentlichen Rechts, politische Parteien, einzelne; im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
+- Paragraf 2 Abs. 3 LobbyRG — Persönliche/strukturelle Ausnahmen: Hauptkommunal/-länderebenen, Religionsgemeinschaften des öffentlichen Rechts, politische Parteien, einzelne Bürgeranfragen, Wissenschaftsbetrieb auf Forschungsbasis; im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
 - BVerfG, Urteil vom 04.07.2007 - 2 BvE 1/06 u.a.: Offenlegungspflichten für Bundestagsabgeordnete zeigen den verfassungsrechtlichen Transparenzrahmen parlamentarischer Interessenlagen.
 
 ## 7. Antwortform

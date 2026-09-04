@@ -7,20 +7,20 @@ Diese Vollprüfung enthält top-15 von 32 Skills des Plugins `staatsanwaltschaft
 ## Inhaltsverzeichnis
 
 1. **juristischer-argumentationskern** — Schaltet sich ein, wenn in Staatsanwaltschaft Amtsanwaltschaft ein juristisches Arbeitsprodukt tragfähig begründet werde…
-2. **prozessuale-kniffe-und-rechtsprechungsanker** — Für Prozessuale Kniffe und Rechtsprechungsanker: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Ri…
-3. **23-klageerzwingung-und-beschwerdebescheid-paragraf-172** — Für 23 Klageerzwingung und Beschwerdebescheid Paragraf 172: erstellt Entwurf mit Antrag, Beweis und Anlagen; Ergebnis: S…
-4. **28-internationale-rechtshilfe-und-eu-haftbefehl** — Für 28 Internationale Rechtshilfe und EU Haftbefehl: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Schnittstellen…
-5. **02-zustaendigkeit-sta-und-amtsanwaltschaft** — Für 02 Zuständigkeit Staatsanwaltschaft und Amtsanwaltschaft: prüft Frist, Form, Zuständigkeit und Eilbedarf; Ergebnis: …
-6. **07-telekommunikationsueberwachung-und-verdeckte-massnahmen** — Für 07 Telekommunikationsüberwachung und Verdeckte Maßnahmen: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfp…
-7. **06-vorlaeufige-festnahme-und-eilkompetenz** — Für 06 Vorläufige Festnahme und Eilkompetenz: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Schnittstellenkarte m…
-8. **15-antrag-beschleunigtes-verfahren-paragraf-417** — Für 15 Antrag Beschleunigtes Verfahren Paragraf 417: erstellt Entwurf mit Antrag, Beweis und Anlagen; Ergebnis: Schrifts…
-9. **26-opferschutz-nebenklage-und-verletztenrechte** — Für 26 Opferschutz Nebenklage und Verletztenrechte: erstellt Entwurf mit Antrag, Beweis und Anlagen; Ergebnis: Schriftsa…
-10. **11-einstellung-aus-opportunitaet-paragraf-153-und-153a** — Für 11 Einstellung aus Opportunität Paragraf 153 und 153a: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprod…
-11. **v392-praxisraster-staatsanwaltschaft-amtsanwaltschaft** — Für Praxisraster Staatsanwaltschaft und Amtsanwaltschaft: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodu…
-12. **05-haftbefehlsantrag-und-untersuchungshaft** — Für 05 Haftbefehlsantrag und Untersuchungshaft: erstellt Entwurf mit Antrag, Beweis und Anlagen; Ergebnis: Schriftsatz m…
-13. **13-strafbefehlsantrag-paragraf-407** — Für Strafbefehlsantrag nach Paragraf 407 StPO: erstellt Entwurf mit Antrag, Beweis und Anlagen; Ergebnis: Schriftsatz mi…
-14. **04-durchsuchung-und-beschlagnahme-antrag** — Für 04 Durchsuchung und Beschlagnahme Antrag: erstellt Entwurf mit Antrag, Beweis und Anlagen; Ergebnis: Schriftsatz mit…
-15. **24-abschlussverfuegung-und-entscheidungsvorschlag** — Für 24 Abschlussverfügung und Entscheidungsvorschlag: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt m…
+2. **27-wiederaufnahme-zuungunsten-paragraf-362** — Prüft die Wiederaufnahme zuungunsten eines rechtskräftig Freigesprochenen oder Verurteilten ausschließlich nach den wirk…
+3. **25-adhaesionsverfahren-paragraf-403** — Prüft einen Adhäsionsantrag nach StPO Paragrafen 403 bis 406c auf Beteiligtenstellung, Bestimmtheit, zivilrechtliche Ans…
+4. **prozessuale-kniffe-und-rechtsprechungsanker** — Für Prozessuale Kniffe und Rechtsprechungsanker: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Ri…
+5. **23-klageerzwingung-und-beschwerdebescheid-paragraf-172** — Für 23 Klageerzwingung und Beschwerdebescheid Paragraf 172: erstellt Entwurf mit Antrag, Beweis und Anlagen; Ergebnis: S…
+6. **28-internationale-rechtshilfe-und-eu-haftbefehl** — Für 28 Internationale Rechtshilfe und EU Haftbefehl: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Schnittstellen…
+7. **02-zustaendigkeit-sta-und-amtsanwaltschaft** — Für 02 Zuständigkeit Staatsanwaltschaft und Amtsanwaltschaft: prüft Frist, Form, Zuständigkeit und Eilbedarf; Ergebnis: …
+8. **07-telekommunikationsueberwachung-und-verdeckte-massnahmen** — Für 07 Telekommunikationsüberwachung und Verdeckte Maßnahmen: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfp…
+9. **06-vorlaeufige-festnahme-und-eilkompetenz** — Für 06 Vorläufige Festnahme und Eilkompetenz: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Schnittstellenkarte m…
+10. **15-antrag-beschleunigtes-verfahren-paragraf-417** — Für 15 Antrag Beschleunigtes Verfahren Paragraf 417: erstellt Entwurf mit Antrag, Beweis und Anlagen; Ergebnis: Schrifts…
+11. **26-opferschutz-nebenklage-und-verletztenrechte** — Für 26 Opferschutz Nebenklage und Verletztenrechte: erstellt Entwurf mit Antrag, Beweis und Anlagen; Ergebnis: Schriftsa…
+12. **11-einstellung-aus-opportunitaet-paragraf-153-und-153a** — Für 11 Einstellung aus Opportunität Paragraf 153 und 153a: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprod…
+13. **v392-praxisraster-staatsanwaltschaft-amtsanwaltschaft** — Für Praxisraster Staatsanwaltschaft und Amtsanwaltschaft: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodu…
+14. **05-haftbefehlsantrag-und-untersuchungshaft** — Für 05 Haftbefehlsantrag und Untersuchungshaft: erstellt Entwurf mit Antrag, Beweis und Anlagen; Ergebnis: Schriftsatz m…
+15. **13-strafbefehlsantrag-paragraf-407** — Für Strafbefehlsantrag nach Paragraf 407 StPO: erstellt Entwurf mit Antrag, Beweis und Anlagen; Ergebnis: Schriftsatz mi…
 
 ---
 
@@ -146,6 +146,196 @@ Dieser Skill trägt zur staatsanwaltschaftlichen Streitstoff-Sortierung bei, ind
 
 ---
 
+## Skill: `27-wiederaufnahme-zuungunsten-paragraf-362`
+
+_Prüft die Wiederaufnahme zuungunsten eines rechtskräftig Freigesprochenen oder Verurteilten ausschließlich nach den wirksamen Tatbeständen der StPO Paragraf 362 Nummern 1 bis 4. Erstellt einen Zulässigkeits- und Begründetheitsvermerk mit Rechtskraftumfang, Wiederaufnahmegrund, Beleg, Kausalität und Verfahrensschritten._
+
+# Wiederaufnahme Zuungunsten Paragraf 362
+
+## Zweck
+
+Antrag der Staatsanwaltschaft auf Wiederaufnahme zuungunsten des Angeklagten nach StPO Paragraf 362, formale Anforderungen nach StPO Paragraf 366 und zweistufiges Verfahren nach StPO Paragrafen 367 bis 373a. StPO Paragraf 362 Nummer 5 ist aufgrund des Urteils des Bundesverfassungsgerichts vom 31.10.2023 - 2 BvR 900/22 nichtig und darf nicht angewendet werden.
+
+## Rolle
+
+
+Werkstatt-Assistent für den Amtsanwalt bei der Staatsanwaltschaft (Paragraf 142 GVG: Strafsachen in Zuständigkeit des Strafrichters am Amtsgericht). Anklage, Strafbefehl, Einstellung, OWi-Übernahme. Objektivitätspflicht nach Paragraf 160 Abs. 2 StPO.
+
+## Rechtsrahmen
+
+StPO, StGB, GVG, GG, RiStBV, OrgStA
+
+## Pflichtschritte
+
+1. Akteninhalt sichten und Strukturmerkmale extrahieren.
+2. Einschlaegige Normen identifizieren und zitieren.
+3. Pruefungsschema anwenden, Tatbestandsmerkmale und Verfahrensvoraussetzungen durchpruefen.
+4. Be- und entlastende Punkte herausarbeiten (Paragraf 160 Abs. 2 StPO); ggf. Hinweise und Antraege formulieren.
+5. Ergebnis dokumentieren und als Vorschlag zur dezernatlichen Pruefung markieren.
+6. Quellen vollstaendig zitieren (Norm + Aktenzeichen + Datum).
+
+## Output
+
+Strukturierter Arbeitsstand: Pruefungspunkte, Zitate, offene Fragen, Vorschlag zur Pruefung.
+
+<!-- BEGIN ausformulierungspflicht (autogen) -->
+> **Ausformulierungspflicht und Formatstandard.** Das Endprodukt wird in **vollständigen, ausformulierten Sätzen** geliefert — keine Stichwortskelette, keine leeren Klauselrümpfe, keine reinen Aufzählungen. Klauseln stehen als ausformulierte Rechtsfolgen-Sätze; Platzhalter wie `[Name der Mandantin]` werden klar markiert, der umgebende Text bleibt vollständig.
+>
+> **Schriftbild:** Wenn ein Schriftsatz, Vertrag, Memo, Beschluss, Vermerk oder sonstiges Enddokument als DOCX, PDF oder formatierter Text ausgegeben wird, ist **Times New Roman 11 pt** als Grundschrift zu verwenden. Überschriften bleiben in derselben Schrift und dürfen nur fett oder abgestuft sein. Bei reiner Markdown- oder Chat-Ausgabe wird dieser Formatwunsch als Exporthinweis aufgenommen.
+>
+> **Nummerierung:** Gliederung ausschließlich dezimal (`1`, `1.1`, `1.1.1` und so weiter). Keine römischen Ziffern, keine Buchstaben- oder Mischgliederung.
+<!-- END ausformulierungspflicht (autogen) -->
+
+## Normen und Rechtsprechung
+
+- GG Artikel 103 Absatz 3 und StPO Paragraf 362 Nummern 1 bis 4: Schutz der Rechtskraft und eng begrenzte Wiederaufnahmegründe.
+- StPO Paragrafen 364 bis 370: fehlende Kausalität, Antragsform, Zuständigkeit, Additionsverfahren und Probationsverfahren.
+- BVerfG, Urteil vom 31.10.2023 - 2 BvR 900/22: GG Artikel 103 Absatz 3 verbietet eine Wiederaufnahme aufgrund neuer Tatsachen oder Beweismittel; StPO Paragraf 362 Nummer 5 ist unvereinbar mit dem Grundgesetz und nichtig. Der amtliche Normtext weist die Nichtigkeit in einer Fußnote aus.
+- Neue Tatsachen oder verbesserte Ermittlungsmethoden allein eröffnen keine Wiederaufnahme zuungunsten. Es muss einer der wirksamen Tatbestände der Nummern 1 bis 4 vollständig belegt sein.
+
+## Prüf- und Arbeitslogik
+
+1. Wiederaufnahme Zuungunsten Paragraf 362: Ermittlungsergebnis, hinreichenden Tatverdacht und richtige Abschlussart zuerst prüfen.
+2. Einstellung nach Paragraf 170 Abs. 2 StPO, Opportunität, Strafbefehl, Anklage, Sicherungsverfahren oder Wiederaufnahme nicht vermengen.
+3. Tat, Tatzeit, Tatort und gesetzliche Merkmale für jeden Beschuldigten getrennt darstellen.
+4. Nebenentscheidungen wie Einziehung, Adhäsion, Mitteilungen, Kosten und Asservate in die Abschlussverfügung aufnehmen.
+5. Ausgangsverfügung mit Adressaten, Rechtsbehelfen, Fristen und Zustellungen vollzugsfähig machen.
+
+## Typische Fallstricke
+
+- Die Wiederaufnahmegründe werden über StPO Paragraf 362 Nummern 1 bis 4 hinaus ausgedehnt oder auf die nichtige Nummer 5 gestützt; der Antrag ist unzulässig.
+- Der verfassungsrechtliche Rahmen aus Art. 103 Abs. 3 GG wird nicht reflektiert.
+- Die Beweismittel sind nicht hinreichend dargelegt; der Antrag bleibt formal mangelhaft.
+- Der Antrag erschoepft sich in einer abweichenden Beweiswuerdigung statt in neuen Tatsachen oder Beweismitteln.
+
+## Antrags- bzw. Verfügungs-Bausteine
+
+### Baustein A
+
+```text
+Es wird verfügt: Die Polizei wird gebeten, zu [Beweisthema] binnen [Frist] ergänzend zu ermitteln und dabei insbesondere [konkretes Beweismittel] zu sichern. Die Maßnahme ist auf [Umfang] zu beschränken; Berufsgeheimnisse und Zufallsfunde sind gesondert zu kennzeichnen.
+```
+
+### Baustein B
+
+```text
+Nach dem derzeitigen Aktenstand besteht ein Anfangsverdacht wegen [Tatvorwurf]. Vor einer Abschlussentscheidung sind noch [offene Tatsache], [Verwertbarkeitsfrage] und [Zuständigkeitsfrage] zu klären.
+```
+
+## Benachbarte Skills
+
+- **Davor**: `26-opferschutz-nebenklage-und-verletztenrechte` - Vorgelagerten Skill nutzen, wenn der Aktenstand noch nicht bis Wiederaufnahme Zuungunsten Paragraf 362 trägt.
+- **Danach**: `28-internationale-rechtshilfe-und-eu-haftbefehl` - Folgeskill nutzen, sobald Wiederaufnahme Zuungunsten Paragraf 362 entscheidungs- oder verfügungsreif vorbereitet ist.
+
+## Staatsanwaltschaftliches Arbeitsprodukt und Vorlagegrenzen
+
+- Rolle: Amtsanwalt und staatsanwaltschaftlicher Sitzungsvertreter im amtsgerichtlichen Bereich. Der Skill denkt aus der objektiven Legalitäts- und Sachleitungsrolle, nicht aus Verteidiger- oder Opfervertreterperspektive.
+- Pflichtstamm: Paragraf 152 Absatz 2, Paragraf 160, Paragraf 163, Paragraf 170, Paragraf 407 StPO; bei Ordnungswidrigkeiten Paragrafen 46, 47, 67, 69, 71, 72, 73, 74, 79, 80 OWiG.
+- Arbeitsprodukt: Bußgeld- oder Strafverfahrensvermerk, Sitzungsverfügung, Strafbefehlsantrag, Einstellungsverfügung oder Rechtsmittelvermerk. Jede Ausgabe enthält Aktenzeichen, Tatvorwurf, Beweisstand, Verfügung, Frist und nächste Kontrolle.
+- Beweis- und Eingriffsdisziplin: Durchsuchung, Beschlagnahme, Telekommunikationsdaten, U-Haft, Vermögensarrest, Presseauskunft und Verfahrensabgabe werden nur mit Richtervorbehalt, Zuständigkeit und Verhältnismäßigkeit als eigener Prüfzeile behandelt.
+- Stop-Kriterium: Bei Aktengeheimnis, Pressebezug, Amtshaftungsrisiko, möglichem Beweisverwertungsverbot, Befangenheit oder unklarem Richtervorbehalt wird eine Vorlage an Abteilungsleitung oder Gericht formuliert.
+
+## Beitrag zum Streitstoff in diesem Verfahren
+
+Dieser Skill trägt zur staatsanwaltschaftlichen Streitstoff-Sortierung bei, indem Sachverhalts-Eckdaten, Beweismittel, rechtliche Würdigung und Anschlussverfügung getrennt werden. Die Prüfung bleibt an Paragraf 152 Absatz 2 StPO, Paragraf 160 StPO, Paragraf 163 StPO und Paragraf 170 StPO angebunden. Jede Abschlussentscheidung benennt Beweisstand, Strafbarkeitsschwerpunkt, Ermessens- oder Opportunitätsfrage und den nächsten Verfahrensschritt.
+
+---
+
+## Skill: `25-adhaesionsverfahren-paragraf-403`
+
+_Prüft einen Adhäsionsantrag nach StPO Paragrafen 403 bis 406c auf Beteiligtenstellung, Bestimmtheit, zivilrechtliche Anspruchsgrundlage, Beweisbedarf und Eignung zur Erledigung im Strafverfahren. Erstellt Stellungnahme, Hinweis- oder Antragsbaustein mit Kosten-, Vollstreckungs- und Rechtsmittelkontrolle._
+
+# Adhäsionsverfahren Paragraf 403
+
+## Zweck
+
+Adhäsionsantrag des Verletzten im Strafverfahren nach StPO Paragrafen 403 bis 406c: Zulässigkeit, bestimmte Antragstellung, zivilrechtliche Anspruchsgrundlage, Beweisbedarf und Eignung zur Erledigung im Strafverfahren. Das Gericht kann nach StPO Paragraf 406 Absatz 1 ganz oder teilweise entscheiden oder unter den gesetzlichen Voraussetzungen von einer Entscheidung absehen; Satz 6 schränkt dieses Absehen bei Schmerzensgeldanträgen ein und enthält keine Abtrennungsregel.
+
+## Rolle
+
+
+Werkstatt-Assistent für den Amtsanwalt bei der Staatsanwaltschaft (Paragraf 142 GVG: Strafsachen in Zuständigkeit des Strafrichters am Amtsgericht). Anklage, Strafbefehl, Einstellung, OWi-Übernahme. Objektivitätspflicht nach Paragraf 160 Abs. 2 StPO.
+
+## Rechtsrahmen
+
+StPO, BGB, ZPO, GVG, RiStBV, OrgStA, RVG
+
+## Pflichtschritte
+
+1. Akteninhalt sichten und Strukturmerkmale extrahieren.
+2. Einschlaegige Normen identifizieren und zitieren.
+3. Pruefungsschema anwenden, Tatbestandsmerkmale und Verfahrensvoraussetzungen durchpruefen.
+4. Be- und entlastende Punkte herausarbeiten (Paragraf 160 Abs. 2 StPO); ggf. Hinweise und Antraege formulieren.
+5. Ergebnis dokumentieren und als Vorschlag zur dezernatlichen Pruefung markieren.
+6. Quellen vollstaendig zitieren (Norm + Aktenzeichen + Datum).
+
+## Output
+
+Strukturierter Arbeitsstand: Pruefungspunkte, Zitate, offene Fragen, Vorschlag zur Pruefung.
+
+<!-- BEGIN ausformulierungspflicht (autogen) -->
+> **Ausformulierungspflicht und Formatstandard.** Das Endprodukt wird in **vollständigen, ausformulierten Sätzen** geliefert — keine Stichwortskelette, keine leeren Klauselrümpfe, keine reinen Aufzählungen. Klauseln stehen als ausformulierte Rechtsfolgen-Sätze; Platzhalter wie `[Name der Mandantin]` werden klar markiert, der umgebende Text bleibt vollständig.
+>
+> **Schriftbild:** Wenn ein Schriftsatz, Vertrag, Memo, Beschluss, Vermerk oder sonstiges Enddokument als DOCX, PDF oder formatierter Text ausgegeben wird, ist **Times New Roman 11 pt** als Grundschrift zu verwenden. Überschriften bleiben in derselben Schrift und dürfen nur fett oder abgestuft sein. Bei reiner Markdown- oder Chat-Ausgabe wird dieser Formatwunsch als Exporthinweis aufgenommen.
+>
+> **Nummerierung:** Gliederung ausschließlich dezimal (`1`, `1.1`, `1.1.1` und so weiter). Keine römischen Ziffern, keine Buchstaben- oder Mischgliederung.
+<!-- END ausformulierungspflicht (autogen) -->
+
+## Normen und Rechtsprechung
+
+- StPO Paragrafen 403 bis 406c: Antrag, Anhörung, Entscheidung, Absehen, Vergleich, Vollstreckung, Rechtsmittel und Kosten.
+- StPO Paragraf 406 Absatz 1 Satz 3 bis Satz 6: Absehen bei Unzulässigkeit, Unbegründetheit oder fehlender Eignung; bei Schmerzensgeld darf wegen fehlender Eignung nur unter den engeren Voraussetzungen des Satzes 6 abgesehen werden.
+- BGB Paragraf 249 ff. und Paragraf 253: Anspruch und Schadensumfang; Anspruchsgrundlage und Aktivlegitimation einschließlich Anspruchsübergang etwa nach SGB X Paragraf 116 gesondert prüfen.
+- Rechtsprechung nur einfügen, wenn sie gerade Antrag, Anspruch, Beweismaß oder Absehensentscheidung trägt; Verständigungs-, Telekommunikations- und Datenschutzentscheidungen sind keine Adhäsionsanker.
+
+## Prüf- und Arbeitslogik
+
+1. Adhaesionsverfahren Paragraf 403: Anfangsverdacht, Verfahrensrolle, Delikt, Beweisziel und erste Ermittlungsrichtung zuerst bestimmen.
+2. Zuständigkeit, Abgabe, Trennung oder Verbindung von Verfahren aktenkundig begründen.
+3. Ermittlungsauftrag an Polizei oder Fachbehörde mit konkretem Beweisthema, Frist und Eingriffsgrenze formulieren.
+4. Beschuldigtenrechte, Verletztenrechte, Zeugenschutz und Aktengeheimnis sichtbar absichern.
+5. Wiedervorlage mit Entscheidungsziel festlegen: Nachermittlung, Einstellung, Strafbefehl, Anklage oder Sondermaßnahme.
+
+## Typische Fallstricke
+
+- Die Verletzteneigenschaft wird nicht geprueft, obwohl sie über die Zulässigkeit entscheidet.
+- Der Antrag ist nicht beziffert oder nicht hinreichend bestimmt; die Mitverhandlung scheitert an Paragraf 404 Abs. 1 StPO.
+- Die Eignung zur Mitverhandlung wird unkritisch bejaht; das Strafverfahren wird durch die Zivilfrage erheblich verzoegert.
+- Die Stellungnahme der Staatsanwaltschaft fehlt oder bleibt formularhaft.
+
+## Antrags- bzw. Verfügungs-Bausteine
+
+### Baustein A
+
+```text
+Es wird verfügt: Die Polizei wird gebeten, zu [Beweisthema] binnen [Frist] ergänzend zu ermitteln und dabei insbesondere [konkretes Beweismittel] zu sichern. Die Maßnahme ist auf [Umfang] zu beschränken; Berufsgeheimnisse und Zufallsfunde sind gesondert zu kennzeichnen.
+```
+
+### Baustein B
+
+```text
+Nach dem derzeitigen Aktenstand besteht ein Anfangsverdacht wegen [Tatvorwurf]. Vor einer Abschlussentscheidung sind noch [offene Tatsache], [Verwertbarkeitsfrage] und [Zuständigkeitsfrage] zu klären.
+```
+
+## Benachbarte Skills
+
+- **Davor**: `24-abschlussverfuegung-und-entscheidungsvorschlag` - Vorgelagerten Skill nutzen, wenn der Aktenstand noch nicht bis Adhaesionsverfahren Paragraf 403 trägt.
+- **Danach**: `26-opferschutz-nebenklage-und-verletztenrechte` - Folgeskill nutzen, sobald Adhaesionsverfahren Paragraf 403 entscheidungs- oder verfügungsreif vorbereitet ist.
+
+## Staatsanwaltschaftliches Arbeitsprodukt und Vorlagegrenzen
+
+- Rolle: Amtsanwalt und staatsanwaltschaftlicher Sitzungsvertreter im amtsgerichtlichen Bereich. Der Skill denkt aus der objektiven Legalitäts- und Sachleitungsrolle, nicht aus Verteidiger- oder Opfervertreterperspektive.
+- Pflichtstamm: Paragraf 152 Absatz 2, Paragraf 160, Paragraf 163, Paragraf 170, Paragraf 407 StPO; bei Ordnungswidrigkeiten Paragrafen 46, 47, 67, 69, 71, 72, 73, 74, 79, 80 OWiG.
+- Arbeitsprodukt: Bußgeld- oder Strafverfahrensvermerk, Sitzungsverfügung, Strafbefehlsantrag, Einstellungsverfügung oder Rechtsmittelvermerk. Jede Ausgabe enthält Aktenzeichen, Tatvorwurf, Beweisstand, Verfügung, Frist und nächste Kontrolle.
+- Beweis- und Eingriffsdisziplin: Durchsuchung, Beschlagnahme, Telekommunikationsdaten, U-Haft, Vermögensarrest, Presseauskunft und Verfahrensabgabe werden nur mit Richtervorbehalt, Zuständigkeit und Verhältnismäßigkeit als eigener Prüfzeile behandelt.
+- Stop-Kriterium: Bei Aktengeheimnis, Pressebezug, Amtshaftungsrisiko, möglichem Beweisverwertungsverbot, Befangenheit oder unklarem Richtervorbehalt wird eine Vorlage an Abteilungsleitung oder Gericht formuliert.
+
+## Beitrag zum Streitstoff in diesem Verfahren
+
+Dieser Skill trägt zur staatsanwaltschaftlichen Streitstoff-Sortierung bei, indem Sachverhalts-Eckdaten, Beweismittel, rechtliche Würdigung und Anschlussverfügung getrennt werden. Die Prüfung bleibt an Paragraf 152 Absatz 2 StPO, Paragraf 160 StPO, Paragraf 163 StPO und Paragraf 170 StPO angebunden. Jede Abschlussentscheidung benennt Beweisstand, Strafbarkeitsschwerpunkt, Ermessens- oder Opportunitätsfrage und den nächsten Verfahrensschritt.
+
+---
+
 ## Skill: `prozessuale-kniffe-und-rechtsprechungsanker`
 
 _Für Prozessuale Kniffe und Rechtsprechungsanker: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt. Fachgebiet: Staatsanwaltschaft und Amtsanwaltschaft._
@@ -243,10 +433,9 @@ Strukturierter Arbeitsstand: Pruefungspunkte, Zitate, offene Fragen, Vorschlag z
 
 ## Normen & Rechtsprechung
 
-- BVerfG, Urteil vom 19.03.2013 - 2 BvR 2628/10, 2 BvR 2883/10 und 2 BvR 2155/11, BVerfGE 133, 168: Verständigungen und verfahrensbeendende Absprachen brauchen Transparenz, Belehrung und Protokollierung.
-- BVerfG, Urteil vom 27.02.2008 - 1 BvR 370/07 und 1 BvR 595/07, BVerfGE 120, 274: Heimliche Zugriffe auf informationstechnische Systeme berühren das Grundrecht auf Gewährleistung der Vertraulichkeit und Integrität informationstechnischer Systeme.
-- EuGH, Urteil vom 30.04.2024 - C-670/22, M.N.: Übermittelte EncroChat-Daten verlangen eine unionsrechtlich tragfähige Rechtshilfe- und Verwertbarkeitsprüfung.
-- EuGH, Urteil vom 05.12.2023 - C-807/21, Deutsche Wohnen: Unternehmensgeldbußen nach Datenschutzrecht setzen unionsrechtlich geprägte Zurechnung und Verschulden voraus.
+- StPO Paragrafen 171 bis 177: Einstellungsbescheid, Vorschaltbeschwerde, Klageerzwingungsantrag und gerichtliche Entscheidung.
+- Frist, Verletztenstellung, formgerechte geschlossene Sachdarstellung und Darlegung des hinreichenden Tatverdachts getrennt prüfen.
+- Der Beschwerdebescheid setzt sich mit den tragenden Einwänden und Beweisanregungen konkret auseinander; bloße Bezugnahme genügt für ein belastbares Arbeitsprodukt nicht.
 
 ## Prüf- und Arbeitslogik
 
@@ -515,10 +704,10 @@ Strukturierter Arbeitsstand: Pruefungspunkte, Zitate, offene Fragen, Vorschlag z
 
 ## Normen & Rechtsprechung
 
-- BVerfG, Urteil vom 19.03.2013 - 2 BvR 2628/10, 2 BvR 2883/10 und 2 BvR 2155/11, BVerfGE 133, 168: Verständigungen und verfahrensbeendende Absprachen brauchen Transparenz, Belehrung und Protokollierung.
-- BVerfG, Urteil vom 27.02.2008 - 1 BvR 370/07 und 1 BvR 595/07, BVerfGE 120, 274: Heimliche Zugriffe auf informationstechnische Systeme berühren das Grundrecht auf Gewährleistung der Vertraulichkeit und Integrität informationstechnischer Systeme.
-- EuGH, Urteil vom 30.04.2024 - C-670/22, M.N.: Übermittelte EncroChat-Daten verlangen eine unionsrechtlich tragfähige Rechtshilfe- und Verwertbarkeitsprüfung.
-- EuGH, Urteil vom 05.12.2023 - C-807/21, Deutsche Wohnen: Unternehmensgeldbußen nach Datenschutzrecht setzen unionsrechtlich geprägte Zurechnung und Verschulden voraus.
+- BVerfG, Urteil vom 27.02.2008 - 1 BvR 370/07 und 1 BvR 595/07: Heimliche Zugriffe auf informationstechnische Systeme berühren das Grundrecht auf Gewährleistung der Vertraulichkeit und Integrität informationstechnischer Systeme; der Anker ist auf verdeckte Systemzugriffe und nicht auf jede Telekommunikationsmaßnahme beschränkt.
+- BVerfG, Urteil vom 24.06.2025 - 1 BvR 180/23: Quellen-Telekommunikationsüberwachung und Online-Durchsuchung sind nach Eingriffsintensität, Straftatenkatalog, Kernbereichsschutz und Verhältnismäßigkeit eigenständig zu prüfen.
+- EuGH, Urteil vom 30.04.2024 - C-670/22, M.N.: Bei EncroChat-Daten sind Voraussetzungen der Europäischen Ermittlungsanordnung, Unterrichtungspflichten und nationale Verwertungsfolgen getrennt zu prüfen; die Entscheidung ist kein allgemeiner Freibrief für übermittelte Kommunikationsdaten.
+- StPO Paragrafen 100a bis 100e sowie Paragrafen 101 und 110d: Eingriffsnorm, Katalogtat, Subsidiarität, Richtervorbehalt, Kernbereich, Benachrichtigung und Löschung für jede Maßnahme gesondert dokumentieren.
 
 ## Prüf- und Arbeitslogik
 
@@ -602,10 +791,9 @@ Strukturierter Arbeitsstand: Pruefungspunkte, Zitate, offene Fragen, Vorschlag z
 
 ## Normen & Rechtsprechung
 
-- BVerfG, Urteil vom 19.03.2013 - 2 BvR 2628/10, 2 BvR 2883/10 und 2 BvR 2155/11, BVerfGE 133, 168: Verständigungen und verfahrensbeendende Absprachen brauchen Transparenz, Belehrung und Protokollierung.
-- BVerfG, Urteil vom 27.02.2008 - 1 BvR 370/07 und 1 BvR 595/07, BVerfGE 120, 274: Heimliche Zugriffe auf informationstechnische Systeme berühren das Grundrecht auf Gewährleistung der Vertraulichkeit und Integrität informationstechnischer Systeme.
-- EuGH, Urteil vom 30.04.2024 - C-670/22, M.N.: Übermittelte EncroChat-Daten verlangen eine unionsrechtlich tragfähige Rechtshilfe- und Verwertbarkeitsprüfung.
-- EuGH, Urteil vom 05.12.2023 - C-807/21, Deutsche Wohnen: Unternehmensgeldbußen nach Datenschutzrecht setzen unionsrechtlich geprägte Zurechnung und Verschulden voraus.
+- StPO Paragraf 127: Voraussetzungen, Verhältnismäßigkeit und unverzügliche richterliche Vorführung bei vorläufiger Festnahme.
+- StPO Paragraf 128 sowie GG Artikel 104: richterliche Entscheidung, Freiheitsgarantien und Dokumentation des zeitlichen Ablaufs.
+- Gefahr im Verzug nicht formelhaft annehmen; Tatsachengrundlage, Erreichbarkeit des Richters und zeitkritische Maßnahme aktenkundig machen.
 
 ## Prüf- und Arbeitslogik
 
@@ -697,10 +885,9 @@ Strukturierter Arbeitsstand: Pruefungspunkte, Zitate, offene Fragen, Vorschlag z
 
 ## Normen & Rechtsprechung
 
-- BVerfG, Urteil vom 19.03.2013 - 2 BvR 2628/10, 2 BvR 2883/10 und 2 BvR 2155/11, BVerfGE 133, 168: Verständigungen und verfahrensbeendende Absprachen brauchen Transparenz, Belehrung und Protokollierung.
-- BVerfG, Urteil vom 27.02.2008 - 1 BvR 370/07 und 1 BvR 595/07, BVerfGE 120, 274: Heimliche Zugriffe auf informationstechnische Systeme berühren das Grundrecht auf Gewährleistung der Vertraulichkeit und Integrität informationstechnischer Systeme.
-- EuGH, Urteil vom 30.04.2024 - C-670/22, M.N.: Übermittelte EncroChat-Daten verlangen eine unionsrechtlich tragfähige Rechtshilfe- und Verwertbarkeitsprüfung.
-- EuGH, Urteil vom 05.12.2023 - C-807/21, Deutsche Wohnen: Unternehmensgeldbußen nach Datenschutzrecht setzen unionsrechtlich geprägte Zurechnung und Verschulden voraus.
+- StPO Paragrafen 417 bis 420: Antrag, Eignung der Sache, Ladung, Beweisaufnahme und Rechtsfolgenbegrenzung im beschleunigten Verfahren.
+- Einfacher Sachverhalt und klare Beweislage anhand erreichbarer Beweismittel belegen; bloßer Zeitdruck genügt nicht.
+- Verteidigungsrechte, notwendige Verteidigung, Ladungsfrist und realistische Durchführbarkeit am vorgesehenen Termin gesondert sichern.
 
 ## Prüf- und Arbeitslogik
 
@@ -792,10 +979,9 @@ Strukturierter Arbeitsstand: Pruefungspunkte, Zitate, offene Fragen, Vorschlag z
 
 ## Normen & Rechtsprechung
 
-- BVerfG, Urteil vom 19.03.2013 - 2 BvR 2628/10, 2 BvR 2883/10 und 2 BvR 2155/11, BVerfGE 133, 168: Verständigungen und verfahrensbeendende Absprachen brauchen Transparenz, Belehrung und Protokollierung.
-- BVerfG, Urteil vom 27.02.2008 - 1 BvR 370/07 und 1 BvR 595/07, BVerfGE 120, 274: Heimliche Zugriffe auf informationstechnische Systeme berühren das Grundrecht auf Gewährleistung der Vertraulichkeit und Integrität informationstechnischer Systeme.
-- EuGH, Urteil vom 30.04.2024 - C-670/22, M.N.: Übermittelte EncroChat-Daten verlangen eine unionsrechtlich tragfähige Rechtshilfe- und Verwertbarkeitsprüfung.
-- EuGH, Urteil vom 05.12.2023 - C-807/21, Deutsche Wohnen: Unternehmensgeldbußen nach Datenschutzrecht setzen unionsrechtlich geprägte Zurechnung und Verschulden voraus.
+- StPO Paragrafen 395 bis 402 sowie Paragrafen 406d bis 406l: Nebenklage, Beistand, Information, Akteneinsicht und Schutzrechte des Verletzten.
+- Beteiligtenstellung, Anschlusstat, Beiordnung, Schutzbedarf, Zustellanschrift und Informationswunsch für jede verletzte Person gesondert erfassen.
+- Schutzmaßnahmen dürfen Beschuldigtenrechte und Wahrheitsfindung nicht verdecken; konkrete Gefahr, geringstmöglicher Eingriff und Verfahrensdokumentation ausweisen.
 
 ## Prüf- und Arbeitslogik
 
@@ -879,10 +1065,9 @@ Strukturierter Arbeitsstand: Pruefungspunkte, Zitate, offene Fragen, Vorschlag z
 
 ## Normen & Rechtsprechung
 
-- BVerfG, Urteil vom 19.03.2013 - 2 BvR 2628/10, 2 BvR 2883/10 und 2 BvR 2155/11, BVerfGE 133, 168: Verständigungen und verfahrensbeendende Absprachen brauchen Transparenz, Belehrung und Protokollierung.
-- BVerfG, Urteil vom 27.02.2008 - 1 BvR 370/07 und 1 BvR 595/07, BVerfGE 120, 274: Heimliche Zugriffe auf informationstechnische Systeme berühren das Grundrecht auf Gewährleistung der Vertraulichkeit und Integrität informationstechnischer Systeme.
-- EuGH, Urteil vom 30.04.2024 - C-670/22, M.N.: Übermittelte EncroChat-Daten verlangen eine unionsrechtlich tragfähige Rechtshilfe- und Verwertbarkeitsprüfung.
-- EuGH, Urteil vom 05.12.2023 - C-807/21, Deutsche Wohnen: Unternehmensgeldbußen nach Datenschutzrecht setzen unionsrechtlich geprägte Zurechnung und Verschulden voraus.
+- StPO Paragraf 153 und Paragraf 153a: geringe Schuld, fehlendes oder durch Auflagen beseitigbares öffentliches Interesse, Zustimmung und Verfahrensstufe.
+- Auflage, Höhe, Leistungsfähigkeit, Erfüllungsfrist und Erfüllungsnachweis ohne starre Prozentsätze bestimmen.
+- Die Einstellung mangels Tatverdachts nach StPO Paragraf 170 Absatz 2 hat Vorrang vor einer Opportunitätseinstellung, wenn kein hinreichender Tatverdacht besteht.
 
 ## Prüf- und Arbeitslogik
 
@@ -1115,197 +1300,6 @@ Dieser Skill prüft, ob ein Verfahren strafbefehlsgeeignet ist, und formuliert e
 - Kein Strafbefehlsantrag ohne hinreichenden Tatverdacht.
 - Keine bloße Polizeizusammenfassung als Tatvorwurf.
 - Keine Nebenfolge ohne gesetzliche Grundlage.
-
-## Beitrag zum Streitstoff in diesem Verfahren
-
-Dieser Skill trägt zur staatsanwaltschaftlichen Streitstoff-Sortierung bei, indem Sachverhalts-Eckdaten, Beweismittel, rechtliche Würdigung und Anschlussverfügung getrennt werden. Die Prüfung bleibt an Paragraf 152 Absatz 2 StPO, Paragraf 160 StPO, Paragraf 163 StPO und Paragraf 170 StPO angebunden. Jede Abschlussentscheidung benennt Beweisstand, Strafbarkeitsschwerpunkt, Ermessens- oder Opportunitätsfrage und den nächsten Verfahrensschritt.
-
----
-
-## Skill: `04-durchsuchung-und-beschlagnahme-antrag`
-
-_Für 04 Durchsuchung und Beschlagnahme Antrag: erstellt Entwurf mit Antrag, Beweis und Anlagen; Ergebnis: Schriftsatz mit Begründungs- und Anlagenlogik._
-
-# 04 Durchsuchung und Beschlagnahme Antrag
-
-## Zweck
-
-Antrag auf richterliche Anordnung der Durchsuchung (Paragrafen 102 bis 105 StPO) und Beschlagnahme (Paragrafen 94 bis 98 StPO), Verhaeltnismaessigkeit, Gefahr im Verzug, Richtervorbehalt
-
-## Rolle
-
-
-Werkstatt-Assistent für den Amtsanwalt bei der Staatsanwaltschaft (Paragraf 142 GVG: Strafsachen in Zuständigkeit des Strafrichters am Amtsgericht). Anklage, Strafbefehl, Einstellung, OWi-Übernahme. Objektivitätspflicht nach Paragraf 160 Abs. 2 StPO.
-
-## Rechtsrahmen
-
-StPO, StGB, GVG, JGG, OWiG, RiStBV, OrgStA, StVollstrO, BZRG, RVG
-
-## Pflichtschritte
-
-1. Akteninhalt sichten und Strukturmerkmale extrahieren.
-2. Einschlaegige Normen identifizieren und zitieren.
-3. Pruefungsschema anwenden, Tatbestandsmerkmale und Verfahrensvoraussetzungen durchpruefen.
-4. Be- und entlastende Punkte herausarbeiten (Paragraf 160 Abs. 2 StPO); ggf. Hinweise und Antraege formulieren.
-5. Ergebnis dokumentieren und als Vorschlag zur dezernatlichen Pruefung markieren.
-6. Quellen vollstaendig zitieren (Norm + Aktenzeichen + Datum).
-
-## Output
-
-Strukturierter Arbeitsstand: Pruefungspunkte, Zitate, offene Fragen, Vorschlag zur Pruefung.
-
-<!-- BEGIN ausformulierungspflicht (autogen) -->
-> **Ausformulierungspflicht und Formatstandard.** Das Endprodukt wird in **vollständigen, ausformulierten Sätzen** geliefert — keine Stichwortskelette, keine leeren Klauselrümpfe, keine reinen Aufzählungen. Klauseln stehen als ausformulierte Rechtsfolgen-Sätze; Platzhalter wie `[Name der Mandantin]` werden klar markiert, der umgebende Text bleibt vollständig.
->
-> **Schriftbild:** Wenn ein Schriftsatz, Vertrag, Memo, Beschluss, Vermerk oder sonstiges Enddokument als DOCX, PDF oder formatierter Text ausgegeben wird, ist **Times New Roman 11 pt** als Grundschrift zu verwenden. Überschriften bleiben in derselben Schrift und dürfen nur fett oder abgestuft sein. Bei reiner Markdown- oder Chat-Ausgabe wird dieser Formatwunsch als Exporthinweis aufgenommen.
->
-> **Nummerierung:** Gliederung ausschließlich dezimal (`1`, `1.1`, `1.1.1` und so weiter). Keine römischen Ziffern, keine Buchstaben- oder Mischgliederung.
-<!-- END ausformulierungspflicht (autogen) -->
-
-## Normen & Rechtsprechung
-
-- BVerfG, Beschluss vom 20.02.2001 - 2 BvR 1444/00, BVerfGE 103, 142: Gefahr im Verzug darf den Richtervorbehalt nur bei dokumentierter Eilbedürftigkeit verdrängen.
-- BVerfG, Beschluss vom 12.04.2005 - 2 BvR 1027/02, BVerfGE 113, 29: Durchsuchung und Beschlagnahme bei Berufsgeheimnisträgern verlangen gesteigerte Verhältnismäßigkeit und Schutz vertraulicher Mandatskommunikation.
-- BVerfG, Urteil vom 19.03.2013 - 2 BvR 2628/10, 2 BvR 2883/10 und 2 BvR 2155/11, BVerfGE 133, 168: Verständigungen und verfahrensbeendende Absprachen brauchen Transparenz, Belehrung und Protokollierung.
-- BVerfG, Urteil vom 27.02.2008 - 1 BvR 370/07 und 1 BvR 595/07, BVerfGE 120, 274: Heimliche Zugriffe auf informationstechnische Systeme berühren das Grundrecht auf Gewährleistung der Vertraulichkeit und Integrität informationstechnischer Systeme.
-- EuGH, Urteil vom 30.04.2024 - C-670/22, M.N.: Übermittelte EncroChat-Daten verlangen eine unionsrechtlich tragfähige Rechtshilfe- und Verwertbarkeitsprüfung.
-
-## Prüf- und Arbeitslogik
-
-1. Durchsuchung und Beschlagnahme Antrag: Anfangsverdacht, Maßnahmeziel, Datenquelle, Richtervorbehalt und Verhältnismäßigkeit zuerst prüfen.
-2. Herkunft, Integrität, Rechtshilfeweg, Zuordnung zum Beschuldigten und Verteidigungszugang für jeden Datensatz dokumentieren.
-3. Durchsuchung, Beschlagnahme, Telekommunikationsüberwachung und digitale Sicherung strikt nach Eingriffsnorm trennen.
-4. Berufsgeheimnisse, Kernbereichsschutz, Zufallsfunde und Löschungspflichten vor der Auswertung markieren.
-5. Antrag oder Verfügung mit Tatvorwurf, Beweismittel, Begrenzung, Vollzugsauftrag und Dokumentationspflicht formulieren.
-
-## Typische Fallstricke
-
-- Gefahr im Verzug wird ohne einzelfallbezogene Tatsachen angenommen und damit der Richtervorbehalt umgangen.
-- Der Antrag bezeichnet die gesuchten Beweismittel zu unbestimmt und wird damit angreifbar.
-- Zufallsfunde (Paragraf 108 StPO) und Beschlagnahmeverbote (Paragraf 97 StPO) werden nicht bedacht.
-- Verhaeltnismaessigkeit wird nicht dokumentiert, obwohl die Massnahme tief in Art. 13 GG eingreift.
-
-## Antrags- bzw. Verfügungs-Bausteine
-
-### Baustein A
-
-```text
-Es wird verfügt: Die Polizei wird gebeten, zu [Beweisthema] binnen [Frist] ergänzend zu ermitteln und dabei insbesondere [konkretes Beweismittel] zu sichern. Die Maßnahme ist auf [Umfang] zu beschränken; Berufsgeheimnisse und Zufallsfunde sind gesondert zu kennzeichnen.
-```
-
-### Baustein B
-
-```text
-Nach dem derzeitigen Aktenstand besteht ein Anfangsverdacht wegen [Tatvorwurf]. Vor einer Abschlussentscheidung sind noch [offene Tatsache], [Verwertbarkeitsfrage] und [Zuständigkeitsfrage] zu klären.
-```
-
-## Benachbarte Skills
-
-- **Davor**: `03-ermittlungsfuehrung-und-ermittlungsanweisung` - Vorgelagerten Skill nutzen, wenn der Aktenstand noch nicht bis Durchsuchung und Beschlagnahme Antrag trägt.
-- **Danach**: `05-haftbefehlsantrag-und-untersuchungshaft` - Folgeskill nutzen, sobald Durchsuchung und Beschlagnahme Antrag entscheidungs- oder verfügungsreif vorbereitet ist.
-
-## Staatsanwaltschaftliches Arbeitsprodukt und Vorlagegrenzen
-
-- Rolle: Amtsanwalt und staatsanwaltschaftlicher Sitzungsvertreter im amtsgerichtlichen Bereich. Der Skill denkt aus der objektiven Legalitäts- und Sachleitungsrolle, nicht aus Verteidiger- oder Opfervertreterperspektive.
-- Pflichtstamm: Paragraf 152 Absatz 2, Paragraf 160, Paragraf 163, Paragraf 170, Paragraf 407 StPO; bei Ordnungswidrigkeiten Paragrafen 46, 47, 67, 69, 71, 72, 73, 74, 79, 80 OWiG.
-- Arbeitsprodukt: Bußgeld- oder Strafverfahrensvermerk, Sitzungsverfügung, Strafbefehlsantrag, Einstellungsverfügung oder Rechtsmittelvermerk. Jede Ausgabe enthält Aktenzeichen, Tatvorwurf, Beweisstand, Verfügung, Frist und nächste Kontrolle.
-- Beweis- und Eingriffsdisziplin: Durchsuchung, Beschlagnahme, Telekommunikationsdaten, U-Haft, Vermögensarrest, Presseauskunft und Verfahrensabgabe werden nur mit Richtervorbehalt, Zuständigkeit und Verhältnismäßigkeit als eigener Prüfzeile behandelt.
-- Stop-Kriterium: Bei Aktengeheimnis, Pressebezug, Amtshaftungsrisiko, möglichem Beweisverwertungsverbot, Befangenheit oder unklarem Richtervorbehalt wird eine Vorlage an Abteilungsleitung oder Gericht formuliert.
-
-## Beitrag zum Streitstoff in diesem Verfahren
-
-Dieser Skill trägt zur staatsanwaltschaftlichen Streitstoff-Sortierung bei, indem Sachverhalts-Eckdaten, Beweismittel, rechtliche Würdigung und Anschlussverfügung getrennt werden. Die Prüfung bleibt an Paragraf 152 Absatz 2 StPO, Paragraf 160 StPO, Paragraf 163 StPO und Paragraf 170 StPO angebunden. Jede Abschlussentscheidung benennt Beweisstand, Strafbarkeitsschwerpunkt, Ermessens- oder Opportunitätsfrage und den nächsten Verfahrensschritt.
-
----
-
-## Skill: `24-abschlussverfuegung-und-entscheidungsvorschlag`
-
-_Für 24 Abschlussverfügung und Entscheidungsvorschlag: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt._
-
-# 24 Abschlussverfuegung und Entscheidungsvorschlag
-
-## Zweck
-
-Strukturierte Abschlussverfuegung des Dezernats: Gesamtwuerdigung des Ermittlungsergebnisses, Entscheidung zwischen Anklage, Strafbefehl, Einstellung und Maßregel, Verfügungstechnik, Risikohinweise, ausdrueckliche Markierung als Vorschlag
-
-## Rolle
-
-
-Werkstatt-Assistent für den Amtsanwalt bei der Staatsanwaltschaft (Paragraf 142 GVG: Strafsachen in Zuständigkeit des Strafrichters am Amtsgericht). Anklage, Strafbefehl, Einstellung, OWi-Übernahme. Objektivitätspflicht nach Paragraf 160 Abs. 2 StPO.
-
-## Rechtsrahmen
-
-StPO, StGB, GVG, JGG, OWiG, RiStBV, OrgStA, StVollstrO, BZRG, RVG
-
-## Pflichtschritte
-
-1. Akteninhalt sichten und Strukturmerkmale extrahieren.
-2. Einschlaegige Normen identifizieren und zitieren.
-3. Pruefungsschema anwenden, Tatbestandsmerkmale und Verfahrensvoraussetzungen durchpruefen.
-4. Be- und entlastende Punkte herausarbeiten (Paragraf 160 Abs. 2 StPO); ggf. Hinweise und Antraege formulieren.
-5. Ergebnis dokumentieren und als Vorschlag zur dezernatlichen Pruefung markieren.
-6. Quellen vollstaendig zitieren (Norm + Aktenzeichen + Datum).
-
-## Output
-
-Strukturierter Arbeitsstand: Pruefungspunkte, Zitate, offene Fragen, Vorschlag zur Pruefung.
-
-<!-- BEGIN ausformulierungspflicht (autogen) -->
-> **Ausformulierungspflicht und Formatstandard.** Das Endprodukt wird in **vollständigen, ausformulierten Sätzen** geliefert — keine Stichwortskelette, keine leeren Klauselrümpfe, keine reinen Aufzählungen. Klauseln stehen als ausformulierte Rechtsfolgen-Sätze; Platzhalter wie `[Name der Mandantin]` werden klar markiert, der umgebende Text bleibt vollständig.
->
-> **Schriftbild:** Wenn ein Schriftsatz, Vertrag, Memo, Beschluss, Vermerk oder sonstiges Enddokument als DOCX, PDF oder formatierter Text ausgegeben wird, ist **Times New Roman 11 pt** als Grundschrift zu verwenden. Überschriften bleiben in derselben Schrift und dürfen nur fett oder abgestuft sein. Bei reiner Markdown- oder Chat-Ausgabe wird dieser Formatwunsch als Exporthinweis aufgenommen.
->
-> **Nummerierung:** Gliederung ausschließlich dezimal (`1`, `1.1`, `1.1.1` und so weiter). Keine römischen Ziffern, keine Buchstaben- oder Mischgliederung.
-<!-- END ausformulierungspflicht (autogen) -->
-
-## Normen & Rechtsprechung
-
-- BVerfG, Urteil vom 19.03.2013 - 2 BvR 2628/10, 2 BvR 2883/10 und 2 BvR 2155/11, BVerfGE 133, 168: Verständigungen und verfahrensbeendende Absprachen brauchen Transparenz, Belehrung und Protokollierung.
-- BVerfG, Urteil vom 27.02.2008 - 1 BvR 370/07 und 1 BvR 595/07, BVerfGE 120, 274: Heimliche Zugriffe auf informationstechnische Systeme berühren das Grundrecht auf Gewährleistung der Vertraulichkeit und Integrität informationstechnischer Systeme.
-- EuGH, Urteil vom 30.04.2024 - C-670/22, M.N.: Übermittelte EncroChat-Daten verlangen eine unionsrechtlich tragfähige Rechtshilfe- und Verwertbarkeitsprüfung.
-- EuGH, Urteil vom 05.12.2023 - C-807/21, Deutsche Wohnen: Unternehmensgeldbußen nach Datenschutzrecht setzen unionsrechtlich geprägte Zurechnung und Verschulden voraus.
-
-## Prüf- und Arbeitslogik
-
-1. Abschlussverfuegung und Entscheidungsvorschlag: Ermittlungsergebnis, hinreichenden Tatverdacht und richtige Abschlussart zuerst prüfen.
-2. Einstellung nach Paragraf 170 Abs. 2 StPO, Opportunität, Strafbefehl, Anklage, Sicherungsverfahren oder Wiederaufnahme nicht vermengen.
-3. Tat, Tatzeit, Tatort und gesetzliche Merkmale für jeden Beschuldigten getrennt darstellen.
-4. Nebenentscheidungen wie Einziehung, Adhäsion, Mitteilungen, Kosten und Asservate in die Abschlussverfügung aufnehmen.
-5. Ausgangsverfügung mit Adressaten, Rechtsbehelfen, Fristen und Zustellungen vollzugsfähig machen.
-
-## Typische Fallstricke
-
-- Die Abschlussentscheidung waehlt den Verfahrensweg, ohne den hinreichenden Tatverdacht je Tat zu pruefen.
-- Notwendige Bescheide an Verletzte oder Anzeigeerstatter werden in der Verfügung vergessen.
-- Nebenentscheidungen wie Einziehung oder Kosten werden nicht mitverfuegt.
-- Die Verfügung wird als Letztentscheid formuliert statt als Vorschlag zur dezernatlichen Pruefung.
-
-## Antrags- bzw. Verfügungs-Bausteine
-
-### Baustein A
-
-```text
-Es wird verfügt: Die Polizei wird gebeten, zu [Beweisthema] binnen [Frist] ergänzend zu ermitteln und dabei insbesondere [konkretes Beweismittel] zu sichern. Die Maßnahme ist auf [Umfang] zu beschränken; Berufsgeheimnisse und Zufallsfunde sind gesondert zu kennzeichnen.
-```
-
-### Baustein B
-
-```text
-Nach dem derzeitigen Aktenstand besteht ein Anfangsverdacht wegen [Tatvorwurf]. Vor einer Abschlussentscheidung sind noch [offene Tatsache], [Verwertbarkeitsfrage] und [Zuständigkeitsfrage] zu klären.
-```
-
-## Benachbarte Skills
-
-- **Davor**: `23-klageerzwingung-und-beschwerdebescheid-paragraf-172` - Vorgelagerten Skill nutzen, wenn der Aktenstand noch nicht bis Abschlussverfuegung und Entscheidungsvorschlag trägt.
-- **Danach**: `25-adhaesionsverfahren-paragraf-403` - Folgeskill nutzen, sobald Abschlussverfuegung und Entscheidungsvorschlag entscheidungs- oder verfügungsreif vorbereitet ist.
-
-## Staatsanwaltschaftliches Arbeitsprodukt und Vorlagegrenzen
-
-- Rolle: Amtsanwalt und staatsanwaltschaftlicher Sitzungsvertreter im amtsgerichtlichen Bereich. Der Skill denkt aus der objektiven Legalitäts- und Sachleitungsrolle, nicht aus Verteidiger- oder Opfervertreterperspektive.
-- Pflichtstamm: Paragraf 152 Absatz 2, Paragraf 160, Paragraf 163, Paragraf 170, Paragraf 407 StPO; bei Ordnungswidrigkeiten Paragrafen 46, 47, 67, 69, 71, 72, 73, 74, 79, 80 OWiG.
-- Arbeitsprodukt: Bußgeld- oder Strafverfahrensvermerk, Sitzungsverfügung, Strafbefehlsantrag, Einstellungsverfügung oder Rechtsmittelvermerk. Jede Ausgabe enthält Aktenzeichen, Tatvorwurf, Beweisstand, Verfügung, Frist und nächste Kontrolle.
-- Beweis- und Eingriffsdisziplin: Durchsuchung, Beschlagnahme, Telekommunikationsdaten, U-Haft, Vermögensarrest, Presseauskunft und Verfahrensabgabe werden nur mit Richtervorbehalt, Zuständigkeit und Verhältnismäßigkeit als eigener Prüfzeile behandelt.
-- Stop-Kriterium: Bei Aktengeheimnis, Pressebezug, Amtshaftungsrisiko, möglichem Beweisverwertungsverbot, Befangenheit oder unklarem Richtervorbehalt wird eine Vorlage an Abteilungsleitung oder Gericht formuliert.
 
 ## Beitrag zum Streitstoff in diesem Verfahren
 

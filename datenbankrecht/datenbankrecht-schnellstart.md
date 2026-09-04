@@ -34,7 +34,7 @@ Ohne verwertbares Material genau eine gebündelte Frage zu Schutzgegenstand, Inv
 | --- | --- |
 | Normenanker | UrhG Paragraf 87a; UrhG Paragraf 87b; UrhG Paragraf 87c |
 | Rechtsprechung | EuGH, Urteil vom 09.11.2004 - C-203/02; EuGH, Urteil vom 09.10.2008 - C-304/07 |
-| Tatbestand | Schutztyp, Investition, Zugriffspfad, entnommene Datenmenge, Lizenz, Schranke und Beweissicherung als Datenbankmatrix ordnen |
+| Tatbestand | Datenbankwerk, Herstellerrecht, Geschäftsgeheimnis, Vertrag oder bloße Datenquelle trennen |
 | Beweislast | Rechteinhaber für Schutzgegenstand, Investition, wesentliche Entnahme und Wiederverwendung; Nutzer für Lizenz, Schranke, Erlaubnis und Datenherkunft |
 | Rechtsfolge | Unterlassung, Auskunft, Lizenz, Schadensersatz, API-Regel, Schrankenprüfung oder Abwehrschreiben |
 | Quellenstatus | Aktenfund, Normtext, Profilanker oder sicher belegte Entscheidung offen kennzeichnen; unsichere Aktenzeichen nicht ergänzen |
@@ -43,12 +43,11 @@ Ohne verwertbares Material genau eine gebündelte Frage zu Schutzgegenstand, Inv
 
 | Feld | Sofortgriff | Ausgabe |
 | --- | --- | --- |
-| Schutzgegenstand | Schutztyp, Investition, Zugriffspfad, entnommene Datenmenge, Lizenz, Schranke und Beweissicherung als Datenbankmatrix ordnen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Investition und Inhaberschaft | Schutztyp, Investition, Zugriffspfad, entnommene Datenmenge, Lizenz, Schranke und Beweissicherung als Datenbankmatrix ordnen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Nutzungsvorgang | Schutztyp, Investition, Zugriffspfad, entnommene Datenmenge, Lizenz, Schranke und Beweissicherung als Datenbankmatrix ordnen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Einwendungen | Schutztyp, Investition, Zugriffspfad, entnommene Datenmenge, Lizenz, Schranke und Beweissicherung als Datenbankmatrix ordnen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Arbeitsprodukt | Schutztyp, Investition, Zugriffspfad, entnommene Datenmenge, Lizenz, Schranke und Beweissicherung als Datenbankmatrix ordnen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| API-Nutzung, Rate-Limits und Vertragsbruch im Datenbankrecht | Schutztyp, Investition, Zugriffspfad, entnommene Datenmenge, Lizenz, Schranke und Beweissicherung als Datenbankmatrix ordnen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Schutzgegenstand | Datenbankwerk, Herstellerrecht, Geschäftsgeheimnis, Vertrag oder bloße Datenquelle trennen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Investition und Inhaberschaft | Beschaffung, Überprüfung, Darstellung, Finanzierung, Mitarbeiterleistung und Rechtekette belegen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Nutzungsvorgang | Entnahme, Wiederverwendung, API-Zugriff, Export, Abgleich, Metasuche oder Training digitaler Systeme präzise beschreiben. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Einwendungen | Lizenz, Erschöpfung, Schranke, Vertragserlaubnis, rechtmäßiger Zugang und Nutzungsvorbehalt prüfen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Arbeitsprodukt | Abmahnung, Abwehrschreiben, Lizenzklausel, API-Regel, Beweismatrix oder Schadensschätzung erstellen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
 
 ## 6. Anker
 
@@ -60,6 +59,8 @@ Ohne verwertbares Material genau eine gebündelte Frage zu Schutzgegenstand, Inv
 - Paragraf 314 BGB: Kündigung von Dauerschuldverhältnissen aus wichtigem Grund bei schwerwiegendem Vertragsbruch; im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
 - Paragraf 307 BGB: AGB-Kontrolle — Rate-Limit-Klauseln müssen klar, verständlich und nicht unangemessen benachteiligend sein; im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
 - Paragraf 87b UrhG: Urheberrechtlicher Anspruch neben dem Vertragsanspruch bei wesentlicher Entnahme; im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
+- EuGH, Urteil vom 09.11.2004 - C-203/02: British Horseracing Board grenzt Erzeugen von Daten von Investition in Beschaffung, Überprüfung und Darstellung ab.
+- EuGH, Urteil vom 09.10.2008 - C-304/07: Directmedia präzisiert Entnahme bei Übernahme von Datenbankinhalten.
 
 ## 7. Antwortform
 

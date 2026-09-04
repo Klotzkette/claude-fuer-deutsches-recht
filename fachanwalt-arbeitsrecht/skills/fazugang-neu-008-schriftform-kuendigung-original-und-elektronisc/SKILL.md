@@ -1,120 +1,72 @@
 ---
 name: fazugang-neu-008-schriftform-kuendigung-original-und-elektronisc
-description: "Für Fazugang Neu 008 Schriftform Kündigung Original und Elektronisc: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Schnittstellenkarte mit Zuständigkeits- und Nachweisfragen."
+description: "Prüft Kündigungsschreiben auf Originalunterschrift, Vertretung, Vollmachtsnachweis und Zugang. Trennt Zurückweisung und Klagefrist, berücksichtigt elektronische Gerichtsschriftsätze und erstellt Rügeschreiben, Fristenblatt oder Kündigungsschutzantrag."
 ---
 
-# Schriftform Kündigung Paragraf 623 BGB: Originalunterschrift zwingend, Faksimile unzulässig, elektronische Kommunikation (E-Mail, WhatsApp, Fax, Teams) genügt nicht
+# Schriftform, Vollmacht und Zugang einer Kündigung
 
+## 1. Mit dem Kündigungsschreiben anfangen
 
-## Arbeitsweg
+Lies zuerst Kündigung, Umschlag, Zustellnachweis, Unterschriftsseite und beigefügte Vollmacht im freigegebenen Ordner. Übernimm belegte Daten in das Fristenblatt. Frage nur nach dem tatsächlich erhaltenen Original und dem Zugangstag, soweit diese Informationen fehlen. Ein Scan beweist nicht, dass ausschließlich ein Scan zugegangen ist.
 
-- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
-- Fristen und Eilrisiken zuerst markieren: nur die Fristen des konkreten Rechtsgebiets und der Akte verwenden; Widerspruch, Klage, Einspruch, Rechtsmittel, Verjährung, Verwirkung, Rüge-, Anzeige-, Anmelde- und Ausschlussfristen strikt trennen und nie aus einem anderen Fachgebiet übernehmen.
-- Tragende Normen verifizieren: KSchG; BetrVG; TzBfG; EntgTranspG — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
-- Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
-- Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
+Arbeite je Kündigung getrennt: Erklärender, Unterzeichner, Vertretungsgrund, Übermittlungsweg, Zugang, Kenntnis vom fehlenden Vollmachtsnachweis, Zurückweisung und Klageeingang. Bei mehreren Kündigungen darf eine rechtzeitig angegriffene Erklärung die Prüfung der anderen nicht verdrängen.
 
-**Fokus:** Schriftform Kündigung Paragraf 623 BGB: Originalunterschrift zwingend, Faksimile unzulässig, elektronische Kommunikation (E-Mail, WhatsApp, Fax, Teams) genügt nicht. Vollmachtsrüge Paragraf 174 BGB, Konsequenzen und Heilung.
+## 2. Form und Verfahrensweg unterscheiden
 
-### Schriftform der Kündigung — Original und elektronische Kommunikation
+| Erklärung oder Übermittlung | Maßstab | Nächster Prüfschritt |
+| --- | --- | --- |
+| Kündigung oder Aufhebungsvertrag außerhalb des Gerichtsverfahrens | Paragrafen 623 und 126 BGB; elektronische Form ausgeschlossen | Eigenhändig unterschriebenes Original beziehungsweise gesetzlich zugelassene Formersetzung prüfen |
+| Nur E-Mail, Messenger-Nachricht, Fax oder PDF mit Unterschriftsbild | Kein unterschriebenes Original beim Empfänger; auch eine qualifizierte elektronische Signatur ersetzt hier die Schriftform nicht | Zugang einer späteren Originalerklärung gesondert feststellen |
+| Klar erkennbare Kündigung in elektronischem vorbereitendem Gerichtsschriftsatz | Paragraf 46h ArbGG in Verbindung mit Paragraf 46c ArbGG | Ordnungsgemäße Einreichung und Zustellung oder Mitteilung an den Empfänger belegen |
+| Befristungsabrede | Paragraf 14 Absatz 4 TzBfG, nicht Paragraf 623 BGB | Form grundsätzlich auch nach Paragrafen 126 Absatz 3 und 126a BGB prüfbar; bloßes Unterschriftsbild genügt nicht |
+| Vereinbarung über Beendigung mit Erreichen der Regelaltersgrenze | Paragraf 41 Absatz 3 SGB VI in der aktuellen Fassung | Textform-Sonderregel nicht auf beliebige Befristungen oder Kündigungen übertragen |
 
-## Fachlicher Kern — Arbeitsrecht
-- **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `Schriftform der Kündigung — Original und elektronische Kommunikation` und löse die dort angelegte Fachfrage; arbeite mit konkreten Tatbestandsmerkmalen, Beweisfragen und dem unmittelbar benötigten Arbeitsprodukt. Routingfragen bleiben Hilfsmittel, wenn Frist, Zuständigkeit oder Verfahrensart offen sind.
-- **Arbeitsmodus:** Zuerst Status, Zugang, Frist, Beteiligungsrechte, Sonderkündigungsschutz, Beweislast und prozessualen nächsten Schritt sichern; dann erst Materiellrecht vertiefen.
-- **Outputpflicht:** Fristenblatt, Zugangsmatrix, Beweisangebot, Mandantenmail, Betriebsrats-/Gegnerbrief oder Klage-/Erwiderungsbaustein.
-- **Fehlerbremse:** Tragende Normen/Entscheidungen live oder aus der Akte verifizieren; Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei prüfbarer Quelle. Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen.
+Paragraf 126 Absatz 1 BGB verlangt eine eigenhändige Namensunterschrift oder ein notariell beglaubigtes Handzeichen. Eine bloße Paraphe ist nicht schon deshalb ausreichend, weil ihr Urheber bekannt ist. Das tatsächliche Schriftbild und die Umstände prüfen; keine Echtheit aus dem Scan behaupten.
 
-## Einstieg
-Wenn eine Kündigung vorliegt, sofort prüfen:
+Bei Paragraf 46h ArbGG reicht eine direkte Nachricht an den Gegner nicht. Gerichtseinreichung, erkennbare materiellrechtliche Erklärung und gerichtliche Zustellung oder Mitteilung sind getrennte Voraussetzungen. Die Norm gilt seit dem 17. Juli 2024. Eine formnichtige Erklärung aus früherer Zeit wird dadurch nicht nachträglich wirksam.
 
-1. **Wie wurde die Kündigung übermittelt?** Brief, E-Mail, WhatsApp, Fax, Teams, mündlich?
-2. **Liegt eine eigenhändig unterzeichnete Originalurkunde vor?** Handunterschrift (keine Druckunterschrift, kein Faksimile)?
-3. **Wer hat unterzeichnet?** Ist diese Person zur Kündigung befugt?
-4. **War eine Vollmacht beigefügt?** Im Original oder nur in Kopie?
-5. **Hat der Mandant die mangelhafte Vollmacht unverzüglich zurückgewiesen?**
+## 3. Vertretung und Vollmachtsnachweis getrennt prüfen
 
-## Paragraf 623 BGB — Schriftform zwingend
+### 3.1. Vollmachtsurkunde fehlt
 
-### Wortlaut und Anwendungsbereich
-Paragraf 623 BGB: Die Beendigung von Arbeitsverhältnissen durch Kündigung oder Auflösungsvertrag sowie die Befristung bedürfen zu ihrer Wirksamkeit der Schriftform; die elektronische Form ist ausgeschlossen.
+Paragraf 174 BGB betrifft grundsätzlich einen Vertreter mit rechtsgeschäftlicher Vollmacht. Prüfe die Originalurkunde, ihren Umfang und eine vorherige Information durch den Vollmachtgeber nach Satz 2. Eine Kopie oder die bloße Behauptung des Unterzeichners, er dürfe kündigen, ersetzt diesen Nachweis nicht ohne Weiteres.
 
-**Anwendung auf:**
-- Ordentliche Kündigung
-- Außerordentliche Kündigung (Paragraf 626 BGB)
-- Aufhebungsvertrag
-- Befristungsabrede (Paragraf 14 Abs. 4 TzBfG)
+Organstellung ist von rechtsgeschäftlicher Vollmacht zu unterscheiden. Bei Gesamtvertretung prüfe Satzung, Registerlage und eine Ermächtigung einzelner Organmitglieder; hier kann Paragraf 174 BGB entsprechend eingreifen. Bei Personalleitern ist festzuhalten, ob der Arbeitgeber dem Empfänger die konkrete Person und ihre Funktion bekannt gemacht hat. Bei Prokuristen Registerinhalt und Publizitätswirkung prüfen, nicht allein auf die Berufsbezeichnung vertrauen.
 
-### Was ist Schriftform nach Paragraf 126 BGB?
-- Eigenhändige Namensunterschrift (Paragraf 126 Abs. 1 BGB)
-- Unterzeichnung mit vollem Namen oder zumindest als Unterschrift identifizierbares Handzeichen
-- Kein Faksimile-Stempel (Gummistempel mit vorgedruckter Unterschrift)
-- Keine eingescannte Unterschrift im PDF
-- Keine digitale Signatur (außer qualifizierte elektronische Signatur nach eIDAS — aber Paragraf 623 BGB schließt elektronische Form ausdrücklich aus!)
+### 3.2. Zurückweisung sofort vorbereiten
 
-### Elektronische Form ausdrücklich ausgeschlossen
-Paragraf 623 BGB nennt explizit: „die elektronische Form ist ausgeschlossen". Das bedeutet:
-- E-Mail = nichtig, auch mit eingescannter Unterschrift
-- WhatsApp-Nachricht = nichtig
-- Fax = streitig; h.M. und BAG-Linie: Fax genügt nicht, da nur Kopie übertragen wird
-- Teams/Zoom-Nachricht = nichtig
-- SMS = nichtig
-- Mündliche Kündigung = nichtig
+Erfasse den Zeitpunkt tatsächlicher Kenntnis von Kündigung und fehlender Vollmachtsurkunde. Eine Zurückweisung später als eine Woche ist ohne besondere Umstände regelmäßig nicht mehr unverzüglich. Das ist keine garantierte Wochenfrist: Verzögerungsgründe und Überlegungsbedarf dokumentieren und möglichst umgehend handeln.
 
-**Rechtsfolge:** Kündigung ist nach Paragraf 125 BGB nichtig — nicht nur unwirksam. Kein Fristlauf Paragraf 4 KSchG für eine nichtige Kündigung!
+Erstelle ein absendefertiges Schreiben mit Kündigungsdatum, Zugangstag, Unterzeichner und ausdrücklicher Zurückweisung wegen fehlender Vorlage der Vollmachtsurkunde. Prüfe Ausschlussgründe nach Paragraf 174 Satz 2 und Paragraf 242 BGB. Bei anwaltlicher Zurückweisung auch deren Vollmachtsnachweis sichern; Zugang beim richtigen Empfänger belegen.
 
-## Fax-Sonderfall
+### 3.3. Vertretungsmacht fehlt tatsächlich
 
-### Streitstand
-- **H.M. und BAG-Linie:** Fax genügt nicht für Paragraf 623 BGB, da nur ein Abbild der Urkunde übertragen wird, nicht die Originalurkunde selbst. Schriftform erfordert das Original beim Empfänger.
-- **Mindermeinung:** Fax bei bekanntem Absender als ausreichend diskutiert.
-- **Praxis-Empfehlung:** Nie auf Fax allein verlassen; immer Original nachsenden.
+Fehlende Vollmacht und fehlender Vollmachtsbeleg sind verschiedene Fehler. Paragraf 180 BGB einschließlich der dort geregelten Ausnahmen gesondert prüfen. Eine mögliche Genehmigung samt Zugang ist nicht mit dem Nachreichen einer Urkunde nach bereits wirksamer Zurückweisung gleichzusetzen.
 
-## Vollmacht und Paragraf 174 BGB
+## 4. Klagefrist nicht durch die Rüge verlieren
 
-### Zurückweisungsrecht
-Hat eine bevollmächtigte Person (nicht der gesetzliche Vertreter selbst) die Kündigung unterzeichnet und liegt keine Originalvollmacht bei, kann der Empfänger die Kündigung nach Paragraf 174 BGB unverzüglich zurückweisen.
+Bei schriftlich zugegangener Arbeitgeberkündigung die Dreiwochenfrist nach Paragraf 4 KSchG sichern; bei außerordentlicher Kündigung auch Paragraf 13 KSchG beachten. Eine Zurückweisung nach Paragraf 174 BGB ersetzt die Klage nicht. Die Behauptung, eine Kündigung sei nichtig oder unwirksam, beseitigt die Klagefrist nicht pauschal.
 
-**Rechtsfolge der Zurückweisung:** Die Kündigung ist unwirksam; der Fristlauf beginnt nicht.
+Nur wenn die gesetzliche Schriftform tatsächlich nicht gewahrt ist, greift der auf eine schriftliche Kündigung zugeschnittene Fristbeginn nicht in gleicher Weise. Bei unklarer Unterschrift, streitigem Originalzugang oder zweifelhafter Vertretung vorsorglich vom frühesten ernsthaft in Betracht kommenden Zugang rechnen und fristwahrend vorgehen. Die Sonderregel des Paragraf 4 Satz 4 KSchG bei behördlicher Zustimmung und mögliche spätere Genehmigung einer Vertretererklärung gesondert erfassen.
 
-**Wichtig: Unverzüglich!**
-- „Unverzüglich" = ohne schuldhaftes Zögern (Paragraf 121 Abs. 1 BGB), also in aller Regel sofort oder zumindest innerhalb weniger Tage
-- Wartet der Empfänger zu lange (> 1–2 Wochen), kann das Zurückweisungsrecht verwirkt sein
+Eine erneute formgerechte Kündigung wirkt nicht rückwirkend. Für sie Zugang, Klagefrist und Beendigungstermin eigenständig berechnen; die Kündigungsfrist ergibt sich aus Gesetz, Tarifvertrag oder wirksamer Vereinbarung, nicht automatisch aus einem neuen Dreiwochenzeitraum.
 
-### Wer muss Vollmacht im Original beifügen?
-- Bei handlungsbevollmächtigten Mitarbeitern (Personalabteilung, HR): Originalvollmacht beifügen oder Kündigung durch Organ unterzeichnen lassen
-- Bei Prokuristen: Prokura ist im Handelsregister eingetragen; Paragraf 174 Satz 2 BGB: Kenntnis der Vollmacht schließt Zurückweisungsrecht aus
-- Bei gesetzlichen Vertretern (GmbH-GF, Vorstand AG): keine Vollmacht nötig; Eintragung im Handelsregister genügt
+## 5. Quellen und begrenzte Rechtsprechungsanker
 
-## Prüfschema Schriftform
+- [BAG, Urteil vom 7. Mai 2026, 2 AZR 130/25](https://www.bundesarbeitsgericht.de/entscheidung/2-azr-130-25/): Einzelne Mitglieder eines gesamtvertretungsbefugten GmbH-Aufsichtsrats können einen gesonderten Ermächtigungsnachweis benötigen; Organmitgliedschaft allein schließt die entsprechende Anwendung von Paragraf 174 BGB nicht aus. Der Fall betraf ein als Arbeitsverhältnis festgestelltes Anstellungsverhältnis. Die dort unwirksame elektronische Schriftsatzkündigung stammte von 2023; daraus kein Verbot trotz des später eingeführten Paragraf 46h ArbGG ableiten.
+- [BAG, Urteil vom 8. Dezember 2011, 6 AZR 354/10](https://www.bundesarbeitsgericht.de/entscheidung/6-azr-354-10/): Einzelfallabhängige Unverzüglichkeit; nach mehr als einer Woche ohne besondere Umstände regelmäßig verspätete Zurückweisung. Tragenden Kenntniszeitpunkt belegen.
+- [BAG, Urteil vom 6. September 2012, 2 AZR 858/11](https://www.bundesarbeitsgericht.de/entscheidung/2-azr-858-11/): Beim Handeln ohne Vertretungsmacht kann der Zugang einer Genehmigung für den Fristbeginn maßgeblich werden. Nicht auf die bloß fehlende Vollmachtsurkunde übertragen.
+- Amtliche Normen: [Paragraf 623 BGB](https://www.gesetze-im-internet.de/bgb/__623.html), [Paragraf 126 BGB](https://www.gesetze-im-internet.de/bgb/__126.html), [Paragraf 174 BGB](https://www.gesetze-im-internet.de/bgb/__174.html), [Paragraf 4 KSchG](https://www.gesetze-im-internet.de/kschg/__4.html), [Paragraf 46h ArbGG](https://www.gesetze-im-internet.de/arbgg/__46h.html), [Paragraf 41 SGB VI](https://www.gesetze-im-internet.de/sgb_6/__41.html).
 
-| Prüfpunkt | Ergebnis | Konsequenz |
-|---|---|---|
-| 1. Handunterschrift (keine Kopie)? | Ja / Nein | Nein → Paragraf 125 BGB nichtig |
-| 2. Faksimile-Stempel? | Ja / Nein | Ja → nichtig |
-| 3. Elektronische Übermittlung (E-Mail, WhatsApp etc.)? | Ja / Nein | Ja → nichtig |
-| 4. Fax? | Ja / Nein | Ja → h.M. nichtig |
-| 5. Vollmacht beigefügt (Original)? | Ja / Nein | Nein → Paragraf 174 BGB-Rüge möglich |
-| 6. Zurückweisung nach Paragraf 174 BGB unverzüglich? | Ja / Nein | Zu spät → Verwirkung |
+Quellenstand: 4. September 2026. Vor Verwendung den für Erklärung und Zugang maßgeblichen Rechtsstand feststellen.
 
-## Musterschreiben: Zurückweisung nach Paragraf 174 BGB
+## 6. Verwendbares Ergebnis liefern
 
-> „Sehr geehrte Damen und Herren,
->
-> ich habe am [Datum] eine auf den [Datum] datierte Kündigung meines Arbeitsverhältnisses erhalten, die von [Name der Person] unterzeichnet wurde.
->
-> Da dieser Kündigung keine Originalvollmacht beigefügt war, aus der die Bevollmächtigung zur Kündigung hervorgeht, weise ich die Kündigung hiermit gemäß Paragraf 174 BGB zurück.
->
-> [Ort, Datum, Unterschrift]"
+Liefere zuerst eine knappe Entscheidung: welcher Form- oder Vertretungsfehler konkret belegt ist, was noch fehlt und welcher fristwahrende Schritt jetzt ansteht. Danach folgen das gewählte vollständige Rügeschreiben oder der Kündigungsschutzantrag und dieses Fristenblatt:
 
-## Heilung des Schriftformfehlers
+| Kündigung | Form und Originalbeleg | Zugang und Beweis | Vollmacht oder Organvertretung | Rüge und Zugang | Klagefrist und Sicherheitsfrist |
+| --- | --- | --- | --- | --- | --- |
 
-Eine nichtige Kündigung kann nicht geheilt werden. Der Arbeitgeber muss eine neue, formwirksame Kündigung ausstellen und zustellen. Neue Kündigungsfrist und neue Paragraf 4 KSchG-Klagefrist beginnen ab dem neuen Zugangsdatum.
+Keine bloße Tabellenhülle abgeben: belegte Felder ausfüllen, offene Angaben ausdrücklich kennzeichnen und pro Streitpunkt ein passendes Beweisangebot formulieren. Für die Dokumentausgabe dezimale Gliederung, ausreichende Abstände und möglichst Times New Roman 11 Punkt verwenden.
 
-## Anschluss-Skills
-- `fazugang-neu-001-kuendigung-durch-boten-beweisvermerk-und-prozessstrategie` für Zustellungsdokumentation
-- `ar-kuendigungspruefung-workflow` für vollständige Kündigungsprüfung
-- `spezial-fao-fristen-form-und-zuständigkeit` für Verfahrensfragen
-
-## Was dieser Arbeitsgang nicht macht
-- Keine individuelle Prognose über Zurückweisungsrecht bei konkretem Fall ohne vollständige Sachverhaltskenntnis.
-- Keine Aussage zu internationalen Schriftformerfordernissen.
+Für vertiefte Zugangstatsachen zu `fazugang-neu-001-kuendigung-durch-boten-beweisvermerk` wechseln; die vollständige materielle Kündigungsprüfung übernimmt `ar-kuendigungspruefung-workflow`. Die hier gesicherten Fristen und Belege dabei mitgeben.

@@ -34,7 +34,7 @@ Ohne verwertbares Material genau eine gebündelte Frage zu Auslands-Zergliederun
 | --- | --- |
 | Normenanker | Brüssel-Ia-VO Artikel 4, 7 und 25; Rom-I-VO Artikel 3 und 4; Rom-II-VO Artikel 4 |
 | Rechtsprechung | aus Akte und belastbarer Quelle ableiten |
-| Tatbestand | Parteien mit Sitzstaaten, Vertragsklauseln zu Rechtswahl, Gerichtsstand und Schiedsverfahren, Anknüpfungsmomente |
+| Tatbestand | Parteien mit Sitzstaaten, Vertragsklauseln zu Rechtswahl, Gerichtsstand und Schiedsverfahren, Anknüpfungsmomente und Fristen als Raster erfassen |
 | Beweislast | Anspruchsteller für Anknüpfung, Zuständigkeit und Vollstreckbarkeit; Gegner für Gerichtsstand, ordre public und Einreden |
 | Rechtsfolge | Zuständigkeitsrüge, Rechtswahlvermerk, Anerkennung, Vollstreckung oder Schiedsstrategie |
 | Quellenstatus | Aktenfund, Normtext, Profilanker oder sicher belegte Entscheidung offen kennzeichnen; unsichere Aktenzeichen nicht ergänzen |
@@ -43,12 +43,11 @@ Ohne verwertbares Material genau eine gebündelte Frage zu Auslands-Zergliederun
 
 | Feld | Sofortgriff | Ausgabe |
 | --- | --- | --- |
-| Auslands-Zergliederung | Parteien mit Sitzstaaten, Vertragsklauseln zu Rechtswahl, Gerichtsstand und Schiedsverfahren, Anknüpfungsmomente. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Forum | Internationale Zuständigkeit prüfen (Brüssel-Ia-VO, Gerichtsstandsklausel, Schiedsvereinbarung). | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Anwendbares Recht | Rechtswahl und objektive Anknüpfung nach Rom I und Rom II bestimmen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Auslands-Zergliederung | Parteien mit Sitzstaaten, Vertragsklauseln zu Rechtswahl, Gerichtsstand und Schiedsverfahren, Anknüpfungsmomente und Fristen als Raster erfassen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Forum | Internationale Zuständigkeit prüfen (Brüssel-Ia-VO, Gerichtsstandsklausel, Schiedsvereinbarung); Torpedo- und Parallelverfahrensrisiken benennen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Anwendbares Recht | Rechtswahl und objektive Anknüpfung nach Rom I und Rom II bestimmen; CISG-Anwendbarkeit und Abwahl gesondert prüfen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
 | Materielle Prüfung nach dem berufenen Recht | Bei ausländischem Recht Ermittlungsweg nach Paragraf 293 ZPO benennen statt Inhalte zu erfinden. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Durchsetzung | Anerkennung und Vollstreckung, Schiedsspruch nach dem New Yorker Übereinkommen, Zustellung ins Ausland. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Anti-Korruption China: FCPA/Paragraf 299 StGB/CN-Recht | Bearbeite Anti-Korruption China: FCPA/Paragraf 299 StGB/CN-Recht: bei ausländischem Recht Ermittlungsweg. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Durchsetzung | Anerkennung und Vollstreckung, Schiedsspruch nach dem New Yorker Übereinkommen, Zustellung ins Ausland sowie Sanktions- und Exportkontrollfilter vor jedem Vollzugsschritt. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
 
 ## 6. Anker
 

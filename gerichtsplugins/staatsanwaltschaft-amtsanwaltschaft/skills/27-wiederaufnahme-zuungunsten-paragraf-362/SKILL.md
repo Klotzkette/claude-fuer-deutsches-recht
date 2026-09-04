@@ -1,13 +1,13 @@
 ---
 name: 27-wiederaufnahme-zuungunsten-paragraf-362
-description: "Für 27 Wiederaufnahme Zuungunsten Paragraf 362: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
+description: "Prüft die Wiederaufnahme zuungunsten eines rechtskräftig Freigesprochenen oder Verurteilten ausschließlich nach den wirksamen Tatbeständen der StPO Paragraf 362 Nummern 1 bis 4. Erstellt einen Zulässigkeits- und Begründetheitsvermerk mit Rechtskraftumfang, Wiederaufnahmegrund, Beleg, Kausalität und Verfahrensschritten."
 ---
 
-# 27 Wiederaufnahme Zuungunsten Paragraf 362
+# Wiederaufnahme Zuungunsten Paragraf 362
 
 ## Zweck
 
-Antrag der Staatsanwaltschaft auf Wiederaufnahme zuungunsten des Verurteilten oder Freigesprochenen (Paragraf 362 StPO), Prüfungsschema der Wiederaufnahmegruende, formale Anforderungen (Paragraf 366 StPO), Verfahren nach Paragrafen 367 bis 373a StPO
+Antrag der Staatsanwaltschaft auf Wiederaufnahme zuungunsten des Angeklagten nach StPO Paragraf 362, formale Anforderungen nach StPO Paragraf 366 und zweistufiges Verfahren nach StPO Paragrafen 367 bis 373a. StPO Paragraf 362 Nummer 5 ist aufgrund des Urteils des Bundesverfassungsgerichts vom 31.10.2023 - 2 BvR 900/22 nichtig und darf nicht angewendet werden.
 
 ## Rolle
 
@@ -39,12 +39,12 @@ Strukturierter Arbeitsstand: Pruefungspunkte, Zitate, offene Fragen, Vorschlag z
 > **Nummerierung:** Gliederung ausschließlich dezimal (`1`, `1.1`, `1.1.1` und so weiter). Keine römischen Ziffern, keine Buchstaben- oder Mischgliederung.
 <!-- END ausformulierungspflicht (autogen) -->
 
-## Normen & Rechtsprechung
+## Normen und Rechtsprechung
 
-- BVerfG, Urteil vom 19.03.2013 - 2 BvR 2628/10, 2 BvR 2883/10 und 2 BvR 2155/11, BVerfGE 133, 168: Verständigungen und verfahrensbeendende Absprachen brauchen Transparenz, Belehrung und Protokollierung.
-- BVerfG, Urteil vom 27.02.2008 - 1 BvR 370/07 und 1 BvR 595/07, BVerfGE 120, 274: Heimliche Zugriffe auf informationstechnische Systeme berühren das Grundrecht auf Gewährleistung der Vertraulichkeit und Integrität informationstechnischer Systeme.
-- EuGH, Urteil vom 30.04.2024 - C-670/22, M.N.: Übermittelte EncroChat-Daten verlangen eine unionsrechtlich tragfähige Rechtshilfe- und Verwertbarkeitsprüfung.
-- EuGH, Urteil vom 05.12.2023 - C-807/21, Deutsche Wohnen: Unternehmensgeldbußen nach Datenschutzrecht setzen unionsrechtlich geprägte Zurechnung und Verschulden voraus.
+- GG Artikel 103 Absatz 3 und StPO Paragraf 362 Nummern 1 bis 4: Schutz der Rechtskraft und eng begrenzte Wiederaufnahmegründe.
+- StPO Paragrafen 364 bis 370: fehlende Kausalität, Antragsform, Zuständigkeit, Additionsverfahren und Probationsverfahren.
+- BVerfG, Urteil vom 31.10.2023 - 2 BvR 900/22: GG Artikel 103 Absatz 3 verbietet eine Wiederaufnahme aufgrund neuer Tatsachen oder Beweismittel; StPO Paragraf 362 Nummer 5 ist unvereinbar mit dem Grundgesetz und nichtig. Der amtliche Normtext weist die Nichtigkeit in einer Fußnote aus.
+- Neue Tatsachen oder verbesserte Ermittlungsmethoden allein eröffnen keine Wiederaufnahme zuungunsten. Es muss einer der wirksamen Tatbestände der Nummern 1 bis 4 vollständig belegt sein.
 
 ## Prüf- und Arbeitslogik
 
@@ -56,7 +56,7 @@ Strukturierter Arbeitsstand: Pruefungspunkte, Zitate, offene Fragen, Vorschlag z
 
 ## Typische Fallstricke
 
-- Die Wiederaufnahmegruende werden über den Wortlaut des Paragraf 362 StPO hinaus ausgedehnt; der Antrag ist unzulaessig.
+- Die Wiederaufnahmegründe werden über StPO Paragraf 362 Nummern 1 bis 4 hinaus ausgedehnt oder auf die nichtige Nummer 5 gestützt; der Antrag ist unzulässig.
 - Der verfassungsrechtliche Rahmen aus Art. 103 Abs. 3 GG wird nicht reflektiert.
 - Die Beweismittel sind nicht hinreichend dargelegt; der Antrag bleibt formal mangelhaft.
 - Der Antrag erschoepft sich in einer abweichenden Beweiswuerdigung statt in neuen Tatsachen oder Beweismitteln.

@@ -1,135 +1,114 @@
 ---
 name: verstaendigung-257c-toa-46a
-description: "Für Verständigung 257c Toa 46a: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
+description: "Prüft Verständigung, Täter-Opfer-Ausgleich und Einstellung getrennt nach Verfahrensstand, Beweislage, zulässigem Gegenstand, Transparenzpflichten und Rechtsfolgen. Erstellt eine belastbare Optionenmatrix, Gesprächsleitlinie, Dokumentationskontrolle und den passenden Antrag oder Verteidigungsvermerk."
 ---
 
-# Verständigung § 257c StPO und Taeter-Opfer-Ausgleich § 46a StGB vorbereiten: Anwendungsfall Strafverteidiger prüft ob Einigung durch Deal Einstellung oder TOA für Mandanten vorteilhaft ist
+# Verständigung, Täter-Opfer-Ausgleich und konsensuale Erledigung
 
+## 1. Direktauftrag
 
-## Arbeitsbereich
+Lies zuerst die vollständige Akte und ordne jeden Tatkomplex nach Vorwurf, Beweismittel, Einlassung, Verwertbarkeit, Strafrahmen und realistischem Verfahrensausgang. Vergleiche erst danach die rechtlich eröffneten Erledigungswege. Empfiehl vor belastbarer Akteneinsicht weder Geständnis noch Zahlung oder Verständigung.
 
-**Orientierung** ordnet den Fall über die tragenden Prüfungslinien: Orientierung im Strafrecht-Mandat und Fallrouting, Untersuchungshaft und Haftprüfung nach §§ 112 ff, Verständigung § 257c StPO und Taeter-Opfer-Ausgleich § 46a. Arbeite zuerst die tragende Rechtsfrage heraus; Nebenaspekte werden nur verarbeitet, soweit sie Frist, Zuständigkeit, Beweislast oder das konkrete Arbeitsprodukt tatsächlich beeinflussen.
+Beginne mit einer Optionenmatrix. Sie trennt Verständigung nach StPO Paragraf 257c, Einstellung nach StPO Paragraf 153a, Täter-Opfer-Ausgleich nach StGB Paragraf 46a und Adhäsionsverfahren nach StPO Paragrafen 403 bis 406c. Für jeden Weg nennt sie Voraussetzungen, Nutzen, Preis, Bindungsrisiko, Dokumentationspflicht, Zustimmungserfordernis und Rückfallposition.
 
-## Arbeitsweg
+Frage nur nach Tatsachen, die Zulässigkeit, Strafrahmen, Beweislage, Leistungsfähigkeit, Opferinteresse oder Entscheidung des Mandanten tatsächlich verändern.
 
-- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
-- Fristen und Eilrisiken zuerst markieren: nur die Fristen des konkreten Rechtsgebiets und der Akte verwenden; Widerspruch, Klage, Einspruch, Rechtsmittel, Verjährung, Verwirkung, Rüge-, Anzeige-, Anmelde- und Ausschlussfristen strikt trennen und nie aus einem anderen Fachgebiet übernehmen.
-- Tragende Normen verifizieren: StGB §§ 13, 22, 23, 25, 32, 35, 46, 47, 56, 57, StPO §§ 100a, 102, 105, 112, 136, 137, 140, 147, 152, 153a, 244, 257c, 261, 264, 265, 267, 304, 341, 344, 349; StPO; StGB — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
-- Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
-- Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
+## 2. Eingaben
 
-**Fokus:** Verständigung § 257c StPO und Taeter-Opfer-Ausgleich § 46a StGB vorbereiten: Anwendungsfall Strafverteidiger prüft ob Einigung durch Deal Einstellung oder TOA für Mandanten vorteilhaft ist. § 257c StPO Verständigung Gestaendnis gegen Strafrahmen, § 46a StGB Taeter-Opfer-Ausgleich Strafmilderung, § 153a StPO Einstellung gegen Auflage. Prüfraster Verständigungs-Eignung beurteilen, Gestaendnis-Risiken prüfen, TOA-Bereitschaft Opfer, Mandant belehren. Output Verständigungs-Strategie-Memo mit Gespraeachsskript und Belehrungsprotokoll. Abgrenzung zu Plaedoyer-Vorbereitung für Hauptverhandlung und zu Einlassung.
+- vollständige Ermittlungs- oder Gerichtsakte einschließlich Registerauskunft
+- Anklage, Strafbefehl oder konkreter Tatvorwurf mit Verfahrensstand
+- belastende und entlastende Beweismittel sowie bekannte Verwertungsfragen
+- bisherige Einlassung und dokumentierte Erörterungen mit Gericht oder Staatsanwaltschaft
+- Schadenspositionen, Leistungsfähigkeit und bereits erbrachte Wiedergutmachung
+- Haltung und Schutzinteressen des Verletzten, soweit rechtmäßig bekannt
+- Verteidigungsziel, akzeptable Rechtsfolgen und nicht verhandelbare Grenzen
 
-### Verständigung § 257c StPO / TOA § 46a StGB
+## 3. Rechtliche Trennung
 
-## Zweck
+### 3.1 Verständigung nach StPO Paragraf 257c
 
-Strafrechtliche Erledigungs-Formen jenseits der Hauptverhandlung: **Verständigung § 257c StPO** (Strafrahmen gegen Geständnis), **Täter-Opfer-Ausgleich § 46a StGB** (Strafmilderung), **§ 153a StPO Einstellung gegen Auflage**, **Adhäsionsverfahren § 403 StPO** (Schmerzensgeld im Strafverfahren).
+1. Eignung des Falls und Verfahrensstand feststellen.
+2. Zulässigen Gegenstand abgrenzen: Rechtsfolgen, verfahrensbezogene Maßnahmen und Prozessverhalten. Schuldspruch und Maßregeln sind nicht disponibel.
+3. Inhalt des gerichtlichen Vorschlags, Ober- und Untergrenze sowie zugrunde liegende Strafzumessungserwägungen protokollfest erfassen.
+4. Zustimmung des Angeklagten und der Staatsanwaltschaft sowie Belehrung nach StPO Paragraf 257c Absatz 5 sichern.
+5. Mitteilung nach StPO Paragraf 243 Absatz 4 und Protokollierung nach StPO Paragraf 273 Absatz 1a einschließlich Negativmitteilung prüfen.
+6. Bindungswegfall, Verwertungsverbot für das Geständnis und Verbot des Rechtsmittelverzichts nach StPO Paragraf 302 Absatz 1 Satz 2 erläutern.
+7. Geständnis mit dem übrigen Beweisergebnis abgleichen. Wahrheitserforschung und schuldangemessene Strafe bleiben zwingend.
 
-## Eingaben
+Eine feste Prozentzahl für einen Geständnisrabatt darf weder berechnet noch zugesagt werden. Das Geständnis ist nur ein individuell zu gewichtender Strafzumessungsumstand.
 
-- Tatbestand (Strafrahmen)
-- Beweislage (Geständnis-Bereitschaft?)
-- Opfer / Geschädigte Person
-- Wirtschaftliche Verhältnisse (Geldauflage)
-- Vorstrafen
-- Verfahrensphase (Ermittlung, Anklage, Hauptverhandlung)
+### 3.2 Einstellung nach StPO Paragraf 153a
 
-## Rechtlicher Rahmen
+1. Prüfen, ob Auflagen oder Weisungen das öffentliche Interesse beseitigen können und die Schwere der Schuld nicht entgegensteht.
+2. Zuständiges Organ und erforderliche Zustimmungen anhand des Verfahrensstands bestimmen.
+3. Art, Höhe, Empfänger, Leistungsfähigkeit, Erfüllungsfrist und Nachweis der Auflage fallbezogen begründen.
+4. Vorläufige Einstellung, Erfüllungskontrolle, endgültige Einstellung und Folgen eines Scheiterns getrennt darstellen.
+5. Register-, Kosten- und Nebenfolgen nur nach konkreter Rechtsgrundlage erläutern.
 
-- **§ 257c StPO** — Verständigung über Strafrahmen
-- **§ 257c Abs. 5 StPO** — Belehrungspflicht
-- **§ 153a StPO** — Einstellung gegen Auflage
-- **§ 46a StGB** — TOA als Strafmilderung
-- **§ 403 ff. StPO** — Adhäsionsverfahren
+Es gibt keine feste Schadensquote für eine Geldauflage. Schuldgewicht, öffentliches Interesse, Leistungsfähigkeit, Wiedergutmachung und Verhältnismäßigkeit bestimmen die Einzelfalllösung.
 
-### Leitentscheidungen (Stand Mai 2026)
+### 3.3 Täter-Opfer-Ausgleich nach StGB Paragraf 46a
 
-- BGH, Urteil vom 20.11.2025 — 4 StR 232/25 (4. Strafsenat): TOA bei sexuellem Missbrauch — § 46a Nr. 1 StGB setzt friedensstiftenden kommunikativen Prozess voraus, der eine Verantwortungsübernahme des Täters erkennen lässt; bloße Schadenswiedergutmachung ohne kommunikatives Element genügt nicht. Offene Fundstelle: https://dejure.org/dienste/vernetzung/rechtsprechung?Gericht=BGH&Datum=20.11.2025&Aktenzeichen=4+StR+232/25
-- BGH, Beschluss des Großen Senats für Strafsachen vom 03.02.2025 — GSSt 1/24: Cannabisbesitz neben Handeltreiben nach KCanG — bei Vorrätighalten teils zum gewinnbringenden Absatz, teils zum Eigenkonsum tritt der Besitz nach Konkurrenzgrundsätzen zurück, sofern die Eigenkonsummenge die straffreien Grenzen des § 3 KCanG nicht überschreitet; sanktionsfreie Mengen sind aus der Einziehung herauszunehmen. Offene Fundstelle: https://dejure.org/dienste/vernetzung/rechtsprechung?Text=GSSt+1/24
-- BGH, Beschluss vom 15.07.2025 — 2 StR 644/24 (2. Strafsenat): KCanG-Strafzumessung — die in § 1 Nr. 8 ff. KCanG gezogene gesetzliche Wertung ist als bestimmender Strafzumessungsgrund zu berücksichtigen. Offene Fundstelle: https://dejure.org/dienste/vernetzung/rechtsprechung?Text=2+StR+644/24
-- Hinweis zu § 257c StPO: Es gibt keine vom Modell verifizierte BGH-Leitentscheidung 2025/2026, die § 257c StPO neu fasst; weitere Entscheidungen vor Verwendung live in dejure.org / openjur.de prüfen.
+1. Nummer 1 und Nummer 2 des StGB Paragraf 46a getrennt prüfen.
+2. Bei Nummer 1 den kommunikativen, auf Ausgleich gerichteten Prozess, die Verantwortungsübernahme und das Opferinteresse dokumentieren.
+3. Bei Nummer 2 die persönliche Leistung oder den persönlichen Verzicht und den überwiegenden oder vollständigen Schadensausgleich prüfen.
+4. Schutz des Verletzten wahren; Kontakt weder erzwingen noch taktisch instrumentalisieren.
+5. Erst bei erfülltem Tatbestand die fakultative Strafrahmenmilderung nach StGB Paragraf 49 Absatz 1 oder das gesetzlich begrenzte Absehen von Strafe prüfen.
 
-## ADR-Pfade im Strafrecht
+### 3.4 Adhäsionsverfahren
 
-### Pfad 1 — § 153a StPO Einstellung gegen Auflage
+Das Adhäsionsverfahren ist keine Verständigung. Prüfe Antrag, zivilrechtliche Anspruchsgrundlage, Aktivlegitimation, Bestimmtheit, Beweisbedarf, Eignung zur Erledigung im Strafverfahren, Kosten und Vollstreckbarkeit eigenständig nach StPO Paragrafen 403 bis 406c.
 
-- Geringe Schuld
-- Geldauflage (typisch an gemeinnützige Einrichtung)
-- Kein Eintrag ins BZR
-- StA / Gericht-Zustimmung
+## 4. Beweis- und Entscheidungsarbeit
 
-### Pfad 2 — Verständigung § 257c StPO
+Für jeden Tatkomplex eine Zeile anlegen:
 
-- Geständnis gegen Strafrahmen-Limit
-- Belehrungs-Pflicht zwingend
-- Geständnis-Rabatt 25-33 %
-- Hauptverhandlung verkürzt
+| Punkt | Aktenfund | Verteidigung | Gegenposition | Auswirkung auf Erledigungsweg |
+| --- | --- | --- | --- | --- |
+| Tat und Beteiligung | konkrete Fundstelle | belastbare Einlassung | stärkster Angriff | offen, günstig oder sperrend |
+| Beweisverwertung | Herkunft und Maßnahme | Rüge und Rechtsfolge | Heilung oder Widerspruch | Verhandlungswert |
+| Schaden und Folgen | Beleg und Betrag | Bestreiten oder Anerkennen | Berechnung des Verletzten | Ausgleichsbedarf |
+| Strafzumessung | belegter Umstand | Gewicht zugunsten | Gewicht zulasten | vertretbarer Korridor |
 
-### Pfad 3 — TOA § 46a StGB
+Unsichere Tatsachen bleiben offen. Weder Geständnistext noch Wiedergutmachung dürfen Tatsachen anerkennen, die nach Aktenlage ungeklärt oder rechtlich unerheblich sind.
 
-- Aussöhnung mit Opfer
-- Schadenswiedergutmachung
-- Strafmilderung § 49 StGB (analog) bis Strafrahmen-Verschiebung
-- Bewertung durch Konfliktstellen / Schlichtungsstellen
+## 5. Verifizierte Rechtsprechungsanker
 
-### Pfad 4 — Adhäsionsverfahren § 403 StPO
+- BVerfG, Urteil vom 19.03.2013 - 2 BvR 2628/10, 2 BvR 2883/10 und 2 BvR 2155/11: Das gesetzliche Verständigungsregime ist abschließend; informelle Absprachen sind unzulässig. Schuldprinzip, Wahrheitserforschung, Transparenz, Belehrung und Dokumentation bleiben maßgeblich.
+- BGH, Urteil vom 20.11.2025 - 4 StR 232/25: Für StGB Paragraf 46a Nummer 1 ist ein kommunikativer, auf Ausgleich gerichteter Prozess mit Verantwortungsübernahme erforderlich; Zahlung allein ersetzt diesen Prozess nicht. Die Aussage ist nur für den Täter-Opfer-Ausgleich, nicht für Verständigung oder Einstellung einzusetzen.
 
-- Geschädigter macht zivilrechtlichen Anspruch im Strafverfahren geltend
-- Schmerzensgeld + Schadensersatz
-- Bei Anerkennung: Vollstreckungs-Titel im Strafurteil
+Weitere Entscheidungen nur verwenden, wenn amtlicher Volltext, Gericht, Datum, Aktenzeichen, tragender Satz und Einsatzgrenze geprüft sind. Entscheidungen zu Cannabis, Einziehung oder verdeckten Ermittlungsmaßnahmen sind keine allgemeinen Anker für Verständigung oder Täter-Opfer-Ausgleich.
 
-### Pfad 5 — Strafbefehl § 407 StPO
+## 6. Workflow
 
-- Schriftliches Verfahren
-- Bis 360 Tagessätze Geldstrafe oder 1 Jahr zur Bewährung
-- Einspruch 2 Wochen
+1. Akteneinsicht vervollständigen und Tatkomplexmatrix erstellen.
+2. Schuldspruchrisiko und Strafrahmen ohne Verständigung berechnen.
+3. Mandantenziel, Aussagefreiheit, Leistungsfähigkeit und Opferinteressen klären.
+4. Nur tatsächlich eröffnete Erledigungswege in der Optionenmatrix vergleichen.
+5. Gesprächsmandat mit Ziel, Untergrenze, zulässigen Zugeständnissen und Abbruchkriterien festlegen.
+6. Jede Erörterung mit Beteiligten, Zeitpunkt, Inhalt, Vorschlag und Reaktion dokumentieren.
+7. Vor Zustimmung die gesetzlichen Mitteilungs-, Belehrungs- und Protokollpflichten prüfen.
+8. Geständnis oder Erklärung eng am gesicherten Sachverhalt formulieren und mit der Akte abgleichen.
+9. Nach Hauptverhandlung Protokoll, Urteil, Bindungsfragen und statthafte Rechtsmittel kontrollieren.
 
-## Workflow
+## 7. Arbeitsprodukte
 
-### Phase 1 — Akteneinsicht § 147 StPO
+Je nach Auftrag zuerst eines dieser Produkte vollständig liefern:
 
-- Vollakteneinsicht
-- Beweislage beurteilen
-- Geständnis-Strategie planen
+- Optionenmatrix mit Empfehlung und Abbruchkriterien
+- vertraulicher Mandantenvermerk mit Folgen jeder Alternative
+- Gesprächsleitlinie für Gericht oder Staatsanwaltschaft
+- protokollfähiger Verständigungsvorschlag innerhalb der gesetzlichen Grenzen
+- Entwurf einer Einlassung oder eines Geständnisses mit ausdrücklich offenen Punkten
+- Antrag oder Stellungnahme zu StPO Paragraf 153a
+- Dokumentations- und Revisionskontrolle für StPO Paragrafen 243, 257c, 273 und 302
+- TOA-Fahrplan mit Schutzgrenzen, Leistung, Nachweis und Rückfallposition
 
-### Phase 2 — TOA-Versuch
+## 8. Schlusskontrolle
 
-- Konfliktstelle einschalten
-- Opfer-Kontakt aufnehmen
-- Schadenswiedergutmachung
-- Schriftliche TOA-Vereinbarung
-
-### Phase 3 — Verständigungs-Gespräch StA / Gericht
-
-- Strafrahmen verhandeln
-- Geständnis-Umfang
-- Auflagen (Anti-Aggressionstraining, Drogen-Therapie etc.)
-
-### Phase 4 — Hauptverhandlung mit Verständigung
-
-- Belehrung § 257c V durch Gericht
-- Geständnis abgeben
-- Strafrahmen-Bestätigung
-
-### Phase 5 — Bei Scheitern
-
-- Streitige Hauptverhandlung
-- Beweisanträge
-- Volles Urteil
-
-## Strategie und Taktik
-
-- TOA-Strategie nach BGH 20.11.2025 — 4 StR 232/25: friedensstiftender kommunikativer Prozess (Aussöhnungsversuch, Verantwortungsübernahme) muss dokumentiert sein; reine Zahlung an Opfer reicht für § 46a Nr. 1 StGB nicht. Weitere Rechtsprechung vor Ausgabe live in dejure.org / openjur.de prüfen.
-- **Geständnis nach Akteneinsicht**: nie vorab; Beweislage muss geprüft sein
-- **TOA-Strategie**: Schadenswiedergutmachung sichtbar machen (Zahlungsplan)
-- **Vorstrafen**: bei nicht-Geständigem Verteidigungs-Pfad häufig vorteilhaft
-- **Bei Wirtschaftsstraftaten**: § 153a-Auflage orientiert sich an 30 % des Schadens
-
-## Quellen und Updates (Stand Mai 2026)
-
-- BGH 20.11.2025 — 4 StR 232/25 (TOA § 46a Nr. 1 StGB, sexueller Missbrauch): https://dejure.org/dienste/vernetzung/rechtsprechung?Gericht=BGH&Datum=20.11.2025&Aktenzeichen=4+StR+232/25
-- BGH (GSSt) 03.02.2025 — GSSt 1/24 (KCanG, Cannabisbesitz vs. Handeltreiben, sanktionsfreie Mengen): https://dejure.org/dienste/vernetzung/rechtsprechung?Text=GSSt+1/24
-- BGH 15.07.2025 — 2 StR 644/24 (KCanG-Strafzumessung): https://dejure.org/dienste/vernetzung/rechtsprechung?Text=2+StR+644/24
-- KCanG (Konsumcannabisgesetz) in Kraft seit 01.04.2024 (BGBl. I 2024 Nr. 109): https://dejure.org/BGBl/2024/BGBl._I_Nr._109
-- Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff. Aktenzeichen und Volltext vor Verwendung in dejure.org bzw. openjur.de verifizieren.
+1. Sind die vier Erledigungswege rechtlich und sprachlich getrennt?
+2. Beruht die Empfehlung auf vollständiger Akteneinsicht und einer sichtbaren Gegenposition?
+3. Werden weder Schuldspruch noch Maßregeln oder Rechtsmittelverzicht zum Gegenstand einer Verständigung gemacht?
+4. Sind Mitteilung, Belehrung, Protokollierung und Bindungswegfall kontrolliert?
+5. Fehlen unbelegte Strafrabatte, Schadensquoten und Erfolgszusagen?
+6. Ist der gewählte Text sofort verwendbar und der nächste fristgebundene Schritt benannt?

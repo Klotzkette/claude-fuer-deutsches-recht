@@ -34,7 +34,7 @@ Ohne verwertbares Material genau eine gebündelte Frage zu Schutzweg und Frist, 
 | --- | --- |
 | Normenanker | GebrMG Paragraf 1 bis Paragraf 3; GebrMG Paragraf 4 und Paragraf 5; GebrMG Paragraf 7 |
 | Rechtsprechung | BGH, Beschluss vom 20.06.2006 - X ZB 27/05 |
-| Tatbestand | Abzweigung, Schonfrist, Schutzanspruch, Recherche, ungeprüften Rechtsbestand, Verletzung und Löschungsrisiko getrennt sichern |
+| Tatbestand | Eigenanmeldung oder Abzweigung, Priorität, Erledigung der Patentanmeldung, Schonfrist und maximale Schutzdauer sichern |
 | Beweislast | Inhaber für eingetragenen Anspruch, Rechtsbestand und Verletzung; Gegner für Löschungsgrund, Vorbenutzung, Erschöpfung oder sonstige Einrede |
 | Rechtsfolge | Anmeldung, Abzweigung, Recherche, Löschung, Unterlassung, Auskunft, Schadensersatz oder einstweilige Verfügung |
 | Quellenstatus | Aktenfund, Normtext, Profilanker oder sicher belegte Entscheidung offen kennzeichnen; unsichere Aktenzeichen nicht ergänzen |
@@ -43,12 +43,11 @@ Ohne verwertbares Material genau eine gebündelte Frage zu Schutzweg und Frist, 
 
 | Feld | Sofortgriff | Ausgabe |
 | --- | --- | --- |
-| Schutzweg und Frist | Abzweigung, Schonfrist, Schutzanspruch, Recherche, ungeprüften Rechtsbestand, Verletzung und Löschungsrisiko getrennt sichern. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Schutzgegenstand | Abzweigung, Schonfrist, Schutzanspruch, Recherche, ungeprüften Rechtsbestand, Verletzung und Löschungsrisiko getrennt sichern. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Rechtsbestand | Abzweigung, Schonfrist, Schutzanspruch, Recherche, ungeprüften Rechtsbestand, Verletzung und Löschungsrisiko getrennt sichern. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Schutzbereich und Verletzung | Abzweigung, Schonfrist, Schutzanspruch, Recherche, ungeprüften Rechtsbestand, Verletzung und Löschungsrisiko getrennt sichern. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Arbeitsprodukt | Abzweigung, Schonfrist, Schutzanspruch, Recherche, ungeprüften Rechtsbestand, Verletzung und Löschungsrisiko getrennt sichern. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Beschwerde Bpatg | Abzweigung, Schonfrist, Schutzanspruch, Recherche, ungeprüften Rechtsbestand, Verletzung und Löschungsrisiko getrennt sichern. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Schutzweg und Frist | Eigenanmeldung oder Abzweigung, Priorität, Erledigung der Patentanmeldung, Schonfrist und maximale Schutzdauer sichern. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Schutzgegenstand | Technische Lehre, zulässiger Sachanspruch, ausgeschlossene Verfahren und klare Anspruchsmerkmale bestimmen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Rechtsbestand | Recherche, Neuheit, erfinderischen Schritt, Offenbarung, Erweiterung und Löschungsangriff dokumentieren. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Schutzbereich und Verletzung | Anspruch, Beschreibung, Zeichnungen, angegriffene Ausführung, Ausnahmen und Einreden vergleichen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Arbeitsprodukt | Anmeldung, Abzweigungserklärung, Rechercheauftrag, Löschungsantrag, Abmahnung, Klage oder Verfügungsantrag erstellen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
 
 ## 6. Anker
 

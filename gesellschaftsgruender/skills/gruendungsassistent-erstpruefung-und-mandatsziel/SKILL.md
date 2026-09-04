@@ -59,7 +59,7 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 | Form | Mindestkapital | Gründungskosten | Haftung | Notar | Geeignet für |
 | --- | --- | --- | --- | --- | --- |
 | GbR (Paragraf 705 ff. BGB, MoPeG-novelliert) | kein | gering | unbeschränkt persönlich Paragraf 721 BGB | nicht zwingend; Gesellschaftsregister Paragraf 707 BGB optional (eGbR) | nicht-kaufmännische Personenzusammenschlüsse |
-| OHG (Paragraf 105 ff. HGB) | kein | gering | unbeschränkt persönlich Paragraf 128 HGB | HR-Anmeldung notariell | Kaufleute, Kleinbetriebe |
+| OHG (Paragraf 105 ff. HGB) | kein | gering | unbeschränkt persönlich nach Paragraf 126 HGB; beim Eintritt in eine bestehende OHG auch für Altverbindlichkeiten nach Paragraf 127 HGB | HR-Anmeldung notariell | Kaufleute, Kleinbetriebe |
 | KG (Paragraf 161 ff. HGB) | kein, Haftsumme frei wählbar | gering | Komplementär unbeschränkt; Kommanditist auf Haftsumme Paragraf 171 HGB | notarielle HR-Anmeldung | Investoren-Beteiligung |
 | GmbH & Co. KG | GmbH 25.000 EUR | mittel | Komplementär-GmbH | notariell | Mittelstand, Steueroptimierung |
 | UG (haftungsbeschränkt) Paragraf 5a GmbHG | 1 EUR Stammkapital, Aufstockungspflicht Paragraf 5a Abs. 3 GmbHG (25 % Gewinn) | gering, Musterprotokoll Paragraf 2 Abs. 1a GmbHG | begrenzt | notariell, vereinfachte Online-Gründung möglich (DiRUG) | Bootstrap-Startup |

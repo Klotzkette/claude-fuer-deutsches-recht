@@ -116,7 +116,7 @@ Arbeitsgriff Arbeitsprodukt: Vollstreckungsauftrag, PfÜB-Entwurf, Forderungsauf
 - Paragraf 694 ZPO — Widerspruchsfrist (2 Wochen ab Zustellung); im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
 - Paragraf 204 Abs. 1 Nr. 3 BGB — Verjährungshemmung durch Zustellung des Mahnbescheids; im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
 - Paragraf 167 ZPO — Rückwirkung der Zustellung bei "demnächst"-Zustellung; im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
-- Paragraf 688 ZPO – Statthaftigkeit: Geldforderungen aus Vertrag, gerichtlich oder schiedsgerichtlich nicht bereits erhoben, Forderung nicht von Gegenleistung abhängig; im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
+- Paragraf 688 ZPO – Statthaftigkeit: Geldforderungen aus Vertrag, gerichtlich oder schiedsgerichtlich nicht bereits erhoben, Forderung nicht von Gegenleistung abhängig (Ausnahme: Gegenleistung erbracht); im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
 
 ## 8. Leitentscheidungen
 
@@ -194,7 +194,6 @@ Diese Routen stammen aus den konkreten Arbeitsthemen dieses Plugins. Wähle die 
 
 Bearbeitungsauftrag: ZVG, Beitritt nach Paragraf 27 ZVG, geringstes Gebot, Bargebot, Verteilungstermin, vorrangige Rechte und Zwangshypothek nach Paragraf 866 ZPO. Output: ausformulierter ZVG-Antrag und Versteigerungsstrategie. Abgrenzung zu notarielle-urkunde-grundschuld für die Titelgrundlage und zwv-zwangsversteigerung-grundstück-spezial für Vertiefungsfragen.
 Prüfschritte: Gläubiger hat Grundschuld oder Hypothek und will eine Immobilie des Schuldners versteigern lassen; Prüfraster: Anordnungsantrag nach Paragrafen 15 und folgende ZVG, Beitritt nach Paragraf 27 ZVG, geringstes Gebot, Bargebot, Verteilungstermin, vorrangige Rechte und Zwangshypothek nach Paragraf 866 ZPO.
-Norm- oder Entscheidungsbezug aus dem Fachmaterial: Gläubiger hat Grundschuld oder Hypothek und will eine Immobilie des Schuldners versteigern lassen; Prüfraster: Anordnungsantrag nach Paragrafen 15 und folgende ZVG, Beitritt nach Paragraf 27 ZVG, geringstes Gebot, Bargebot, Verteilungstermin, vorrangige Rechte und Zwangshypothek nach Paragraf 866.
 Lieferstück: frist- und formgerechter Entwurf mit Antrag, tragenden Tatsachen, Beweisangeboten, Anlagen und Einreichungsweg.
 
 ### 16.2. Drei-Säulen-Prüfung: Titel, Klausel, Zustellung
@@ -217,20 +216,20 @@ Lieferstück: Fachvotum zu Schuldnerabwehr in der Zwangsvollstreckung mit Tatbes
 
 Bearbeitungsauftrag: Schuldner nicht in Insolvenz (Paragraf 89 InsO – sonst Stop). Paragraf 829 ZPO – Pfändung einer Geldforderung. Paragraf 835 ZPO – Überweisung an Zahlungs statt oder zur Einziehung.
 Prüfschritte: Vollstreckbarer Titel liegt vor (Drei-Säulen-Prüfung grün – sonst zurück an titel-klausel-zustellung); Bankverbindung des Schuldners bekannt oder zu ermitteln (dann erst kontensuche-drittschuldner); Paragraf 833a ZPO – Pfändung eines Kontoguthabens, Moratorium von vier Wochen; Paragraf 850k ZPO – Pfändungsschutzkonto (P-Konto); Paragraf 850c ZPO – Pfändungsfreigrenze für Arbeitseinkommen (mittelbar bei Lohnüberweisung).
-Norm- oder Entscheidungsbezug aus dem Fachmaterial: Vollstreckbarer Titel liegt vor (Drei-Säulen-Prüfung grün – sonst zurück an titel-klausel-zustellung); Bankverbindung des Schuldners bekannt oder zu ermitteln (dann erst kontensuche-drittschuldner); Schuldner nicht in Insolvenz (Paragraf 89 InsO – sonst Stop).
+Normbezug aus dem Fachmaterial: Vollstreckbarer Titel liegt vor (Drei-Säulen-Prüfung grün – sonst zurück an titel-klausel-zustellung); Bankverbindung des Schuldners bekannt oder zu ermitteln (dann erst kontensuche-drittschuldner); Schuldner nicht in Insolvenz (Paragraf 89 InsO – sonst Stop).
 Lieferstück: Fachvotum zu PfÜB Bankkonto mit Tatbestandsmerkmalen, Aktenfundstellen, Beweislast, stärkster Gegenposition, Risiko und ausformulierter Rechtsfolge.
 
 ### 16.6. Vollstreckung aus notarieller Grundschuldurkunde
 
 Bearbeitungsauftrag: Gläubiger hat eine notarielle Grundschuldurkunde und will vollstrecken. Prüfraster: Unterwerfung nach Paragraf 794 Absatz 1 Nummer 5 ZPO, dinglicher und persönlicher Titel, Klauselumschreibung nach Paragraf 727 ZPO, Sicherungsabrede, Kündigung und Sechsmonatsfrist nach Paragraf 1193 BGB sowie ZVG oder PfÜB als Vollstreckungsweg. Abgrenzung zu zvg-antrag-gläubiger und titel-klausel-zustellung.
-Norm- oder Entscheidungsbezug aus dem Fachmaterial: Prüfraster: Unterwerfung nach Paragraf 794 Absatz 1 Nummer 5 ZPO, dinglicher und persönlicher Titel, Klauselumschreibung nach Paragraf 727 ZPO, Sicherungsabrede, Kündigung und Sechsmonatsfrist.
+Normbezug aus dem Fachmaterial: Prüfraster: Unterwerfung nach Paragraf 794 Absatz 1 Nummer 5 ZPO, dinglicher und persönlicher Titel, Klauselumschreibung nach Paragraf 727 ZPO, Sicherungsabrede, Kündigung und Sechsmonatsfrist.
 Lieferstück: Fachvotum zu Vollstreckung aus notarieller Grundschuldurkunde mit Tatbestandsmerkmalen, Aktenfundstellen, Beweislast, stärkster Gegenposition, Risiko und ausformulierter Rechtsfolge.
 
 ### 16.7. Vollstreckungsbescheid und Folgeverfahren
 
 Bearbeitungsauftrag: Bearbeite Vollstreckungsbescheid und Folgeverfahren: titel, Klausel, Zustellung, Forderungsstand, Zugriffsziel, Antrag, Schuldnerschutz und Anlagen prüfen. Verbinde den konkreten Aktenfund mit Tatbestandsmerkmal, Gegenposition, Beweislast, Rechtsfolge und dem nächsten vollständig ausformulierten Arbeitsprodukt.
 Prüfschritte: Mahnbescheid wurde erlassen und Gläubiger muss entscheiden wie es weitergeht; Paragraf 699 ZPO Vollstreckungsbescheid Online-Mahnportal; Prüfraster: Beantragung VB Reaktion auf Einspruch Paragraf 700 ZPO Übergang streitiges Verfahren Wirkung VB als Titel Klausel kraft Gesetzes Paragraf 796 Absatz 1; Output: VB-Antrag oder Strategie-Empfehlung nach Einspruch; Abgrenzung zu mahnbescheid-online-mobiliar-gv (Mahnbescheid-Antrag) und kommandocenter.
-Norm- oder Entscheidungsbezug aus dem Fachmaterial: Paragraf 699 ZPO Vollstreckungsbescheid Online-Mahnportal; Mahnbescheid wurde erlassen und Gläubiger muss entscheiden wie es weitergeht; Paragraf 699 ZPO Vollstreckungsbescheid Online-Mahnportal.
+Normbezug aus dem Fachmaterial: Paragraf 699 ZPO Vollstreckungsbescheid Online-Mahnportal.
 Lieferstück: Fachvotum zu Vollstreckungsbescheid und Folgeverfahren mit Tatbestandsmerkmalen, Aktenfundstellen, Beweislast, stärkster Gegenposition, Risiko und ausformulierter Rechtsfolge.
 
 ### 16.8. Vollstreckungsschutz Paragraf 765a ZPO — Härtefall
@@ -242,13 +241,13 @@ Lieferstück: Fachvotum zu Vollstreckungsschutz Paragraf 765a ZPO — Härtefall
 ### 16.9. Räumung Paragraf 885 ZPO / Berliner Räumung Paragraf 885a ZPO
 
 Bearbeitungsauftrag: Prüfraster: Räumungstitel Klausel Zustellung Mitbewohner Kinder Untermieter Drittwiderspruch Paragraf 771 Vollstreckungsschutz Paragraf 765a ZPO Berliner Modell Paragraf 885a ZPO beschränkter Räumungsauftrag. Output: Räumungsauftrag an GV und Strategie-Memo. Abgrenzung zu abwehr-schuldner (Schuldnerseite) und mobiliar-gv-auftrag (Mobiliar).
-Norm- oder Entscheidungsbezug aus dem Fachmaterial: Paragraf 885 ZPO Räumungsvollstreckung.
+Normbezug aus dem Fachmaterial: Paragraf 885 ZPO Räumungsvollstreckung.
 Lieferstück: Fachvotum zu Räumung Paragraf 885 ZPO / Berliner Räumung Paragraf 885a ZPO mit Tatbestandsmerkmalen, Aktenfundstellen, Beweislast, stärkster Gegenposition, Risiko und ausformulierter Rechtsfolge.
 
 ### 16.10. Vermögensauskunft
 
 Bearbeitungsauftrag: Prüfraster: Antrag beim GV Sperrfrist 2 Jahre Paragraf 802d ZPO Eintragung Schuldnerverzeichnis Paragraf 882b ZPO Erzwingungshaft Paragraf 802g ZPO. Output: Auftrag Vermögensauskunft GV und Auswertungsprotokoll Vermögensverzeichnis. Abgrenzung zu kontensuche-drittschuldner (Drittauskunfte) und mobiliar-gv-auftrag (Pfändung nach Ermittlung).
-Norm- oder Entscheidungsbezug aus dem Fachmaterial: Paragraf 802c ZPO Vermögensauskunft EV; Prüfraster: Antrag beim GV Sperrfrist 2 Jahre Paragraf 802d ZPO Eintragung Schuldnerverzeichnis Paragraf 882b ZPO Erzwingungshaft Paragraf 802g ZPO.
+Normbezug aus dem Fachmaterial: Paragraf 802c ZPO Vermögensauskunft EV; Prüfraster: Antrag beim GV Sperrfrist 2 Jahre Paragraf 802d ZPO Eintragung Schuldnerverzeichnis Paragraf 882b ZPO Erzwingungshaft Paragraf 802g ZPO.
 Lieferstück: Fachvotum zu Vermögensauskunft mit Tatbestandsmerkmalen, Aktenfundstellen, Beweislast, stärkster Gegenposition, Risiko und ausformulierter Rechtsfolge.
 
 ### 16.11. Spezialfall Zwangsversteigerung Grundstück ZVG

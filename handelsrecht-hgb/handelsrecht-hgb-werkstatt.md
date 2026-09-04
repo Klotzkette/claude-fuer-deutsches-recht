@@ -77,9 +77,9 @@ Arbeitsgriff Arbeitsprodukt: Registeranmeldung, Vertragsklausel, Rüge, Provisio
 
 | Ebene | Fallfrage | Anker | Sofortausgabe |
 | --- | --- | --- | --- |
-| Fallkern | Rechtsabteilung: Kaufmännisches Bestätigungsschreiben im Konzernalltag | HGB Paragraf 1 bis Paragraf 6 | Sofortvermerk mit Ergebnisrichtung, Risiko und nächstem Schritt |
+| Fallkern | Rechtsabteilung: Handelskauf-Mängelrüge nach Paragraf 377 HGB | HGB Paragraf 1 bis Paragraf 6 | Sofortvermerk mit Ergebnisrichtung, Risiko und nächstem Schritt |
 | Zulässigkeit und Frist | Frist, Form, Zuständigkeit, Rolle und statthafter Weg | HGB Paragraf 15 und Paragraf 17 bis Paragraf 37 | Fristenblatt oder Prozess-/Verfahrensroute |
-| Begründetheit | Firma Paragrafen 17 ff. HGB | HGB Paragraf 15 und Paragraf 17 bis Paragraf 37 | Tatbestandsmatrix mit Beleg und Gegenargument |
+| Begründetheit | Handelskauf-Fristenampel | HGB Paragraf 15 und Paragraf 17 bis Paragraf 37 | Tatbestandsmatrix mit Beleg und Gegenargument |
 | Rechtsfolge | Registeranmeldung, Vertragsklausel, Rüge, Provisionsabrechnung, Buchauszugsverlangen, Kündigung oder Klageentwurf erstellen | Nachweisachse Vertretung: Organ, Prokura, Handlungsvollmacht, Rechtsschein, Umfang und Nachweis der Vertretungsmacht prüfen | Antrag, Entwurf, Entscheidungsvorschlag oder Mandantenbrief |
 
 ## 5. Normenanker, Tatbestandswichtigkeiten und Beweislast
@@ -128,12 +128,12 @@ Arbeitsgriff Arbeitsprodukt: Registeranmeldung, Vertragsklausel, Rüge, Provisio
 
 10.1. Kernsatz: Benenne Parteirolle, Ziel und die begehrte oder abzuwehrende Rechtsfolge aus diesem Arbeitsfeld: Registeranmeldung, Vertragsklausel, Rüge, Provisionsabrechnung, Buchauszugsverlangen, Kündigung oder Klageentwurf erstellen.
 10.2. Tragende Regel: Stelle den einschlägigen Normsatz voran und ordne ihn dem konkreten Streitpunkt zu; erste Anker sind HGB Paragraf 1 bis Paragraf 6; HGB Paragraf 15 und Paragraf 17 bis Paragraf 37.
-10.3. Tatbestandsmerkmal: Arbeite zuerst den entscheidenden Fachpunkt aus, regelmäßig Rechtsabteilung: Kaufmännisches Bestätigungsschreiben im Konzernalltag.
+10.3. Tatbestandsmerkmal: Arbeite zuerst den entscheidenden Fachpunkt aus, regelmäßig Rechtsabteilung: Handelskauf-Mängelrüge nach Paragraf 377 HGB.
 10.4. Aktenfund: Nenne Datum, Beteiligten, Handlung, Betrag und genaue Fundstelle; im Bereich Handelsrecht tragen regelmäßig die vorgelegten Urkunden, Bescheide und Korrespondenz den Nachweis. Eine streitige Behauptung bleibt als solche bezeichnet.
 10.5. Beweislast: Nachweisachse Vertretung: Organ, Prokura, Handlungsvollmacht, Rechtsschein, Umfang und Nachweis der Vertretungsmacht prüfen. Zeige ausdrücklich, welche Folge ein offener Beweis hat.
 10.6. Gegenposition: Formuliere den stärksten ernsthaften Angriff; hier setzt die Gegenseite typischerweise bei wer handelte mit welcher Vertretungsmacht und welcher Rechtsschein greift an.
 10.7. Erwiderung: Antworte mit konkretem Gegenbeleg, Auslegung oder Beweislastregel und ziehe die Folge auf Registeranmeldung, Vertragsklausel, Rüge, Provisionsabrechnung, Buchauszugsverlangen, Kündigung oder Klageentwurf erstellen; ein bloßes Bestreiten genügt nicht.
-10.8. Arbeitsprodukt: Schließe mit Antrag, Tenor, Klausel, Entscheidung oder nächstem Schritt; hier typischerweise Ausgabe entlang der Kernfelder Rechtsabteilung: Kaufmännisches Bestätigungsschreiben im Konzernalltag, Firma Paragrafen 17 ff. HGB, Handelskauf-Fristenampel, Mängelrüge Paragraf 377 HGB: Kurzvermerk, Prüfmatrix, Entwurf, Fristenblatt oder Fragenliste mit nächstem Schritt.
+10.8. Arbeitsprodukt: Schließe mit Antrag, Tenor, Klausel, Entscheidung oder nächstem Schritt; hier typischerweise Ausgabe entlang der Kernfelder Rechtsabteilung: Handelskauf-Mängelrüge nach Paragraf 377 HGB, Handelskauf-Fristenampel, Firma Paragrafen 17 ff. HGB, Rechtsabteilung: Kaufmännisches Bestätigungsschreiben im Konzernalltag: Kurzvermerk, Prüfmatrix, Entwurf, Fristenblatt oder Fragenliste mit nächstem Schritt.
 10.9. Quellenstatus: Ordne Rechtsprechung nach Tragweite ein; erste Fallanker sind erst nach verifizierter Recherche einzusetzen.
 
 ## 11. Outputvarianten und Empfängerwunsch
@@ -168,76 +168,76 @@ Die Landkarte dient der schnellen Auswahl. Sie ersetzt nicht die darunter ausfor
 
 | Arbeitsfeld | Entscheidende Weiche | Erstes Lieferstück |
 | --- | --- | --- |
-| Rechtsabteilung: Kaufmännisches Bestätigungsschreiben im Konzernalltag | Kaufmannseigenschaft, Registerlage, Vertretungsmacht, Handelsbrauch, Rüge-/Untersuchungsobliegenheit, Sicherheiten und Prozessbeweis trennen. | versandfertiges Schreiben mit Betreff, Sachverhaltskern, Rechtsgrund, konkretem Begehren, Frist und Anlagenverzeichnis |
-| Firma Paragrafen 17 ff. HGB | Schlage nach jedem Zwischenergebnis zwei bis fünf passende Anschluss-Skills aus demselben Plugin vor. Keine Kommentar-, Aufsatz- oder BeckRS/Juris-Blindzitate. | Fachvotum zu Firma Paragrafen 17 ff. HGB mit Tatbestandsmerkmalen, Aktenfundstellen, Beweislast, stärkster Gegenposition, Risiko und ausformulierter Rechtsfolge |
-| Handelskauf-Fristenampel | Tragende Gesetzesstände live gegen amtliche/frei zugängliche Quellen prüfen. Rechtsprechung nur mit Gericht, Datum, Aktenzeichen und überprüfbarer Quelle verwenden. | Fristenblatt zu Handelskauf-Fristenampel mit Auslöser, Beginn, Ende, Vorfrist, Beleg, Sofortmaßnahme und Verantwortlichem |
-| Mängelrüge Paragraf 377 HGB | Liefere zuerst eine Kurzantwort mit Risikoampel, danach den Prüfpfad. Schlage nach jedem Zwischenergebnis zwei bis fünf passende Anschluss-Skills aus demselben Plugin vor. | Fachvotum zu Mängelrüge Paragraf 377 HGB mit Tatbestandsmerkmalen, Aktenfundstellen, Beweislast, stärkster Gegenposition, Risiko und ausformulierter Rechtsfolge |
-| Prozessuale HGB-Beweisfragen | Zerlege den Fall in Tatsachen, Normen, Streitpunkte, Beweisfragen und methodische Wertungen. Keine Kommentar-, Aufsatz- oder BeckRS/Juris-Blindzitate. | Beweismatrix zu Prozessuale HGB-Beweisfragen mit Tatfrage, Beweislast, Beweismittel, Fundstelle, Gegenposition und Folge eines offenen Nachweises |
 | Rechtsabteilung: Handelskauf-Mängelrüge nach Paragraf 377 HGB | Bearbeite Rechtsabteilung: Handelskauf-Mängelrüge nach Paragraf 377 HGB entlang der Handelsrecht-Prüflinie: Status und Register: Kaufmann, Unternehmensträger, Firma, Eintragung, Bekanntmachung und Vertrauenslage. | Fachvotum zu Rechtsabteilung: Handelskauf-Mängelrüge nach Paragraf 377 HGB mit Tatbestandsmerkmalen, Aktenfundstellen, Beweislast, stärkster Gegenposition, Risiko. |
-| Status und Register | Kaufmann, Unternehmensträger, Firma, Eintragung, Bekanntmachung und Vertrauenslage bestimmen | vollständige Einreichungs- oder Registervorlage mit Zuständigkeit, Pflichtfeldern, Nachweisen, Freigabe und Vollzugskontrolle |
-| Vertretung | Organ, Prokura, Handlungsvollmacht, Rechtsschein, Umfang und Nachweis der Vertretungsmacht prüfen | Fachvotum zu Vertretung mit Tatbestandsmerkmalen, Aktenfundstellen, Beweislast, stärkster Gegenposition, Risiko und ausformulierter Rechtsfolge |
-| Geschäft | Vertragstyp, beiderseitiges Handelsgeschäft, Handelsbrauch, kaufmännisches Bestätigungsschreiben und AGB einordnen | Fachvotum zu Geschäft mit Tatbestandsmerkmalen, Aktenfundstellen, Beweislast, stärkster Gegenposition, Risiko und ausformulierter Rechtsfolge |
+| Handelskauf-Fristenampel | Rechtsprechung nur mit Gericht, Datum, Aktenzeichen und überprüfbarer Quelle verwenden. Bei Unsicherheit die Annahme ausdrücklich markieren und eine Rückfrage oder Quellenprüfung auslösen | Fristenblatt zu Handelskauf-Fristenampel mit Auslöser, Beginn, Ende, Vorfrist, Beleg, Sofortmaßnahme und Verantwortlichem |
+| Firma Paragrafen 17 ff. HGB | Kaufmannseigenschaft, Registerlage, Vertretungsmacht, Handelsbrauch, Rüge-/Untersuchungsobliegenheit, Sicherheiten und Prozessbeweis trennen | Fachvotum zu Firma Paragrafen 17 ff. HGB mit Tatbestandsmerkmalen, Aktenfundstellen, Beweislast, stärkster Gegenposition, Risiko und ausformulierter Rechtsfolge |
+| Rechtsabteilung: Kaufmännisches Bestätigungsschreiben im Konzernalltag | Kaufmannseigenschaft, Registerlage, Vertretungsmacht, Handelsbrauch, Rüge-/Untersuchungsobliegenheit, Sicherheiten und Prozessbeweis trennen. | versandfertiges Schreiben mit Betreff, Sachverhaltskern, Rechtsgrund, konkretem Begehren, Frist und Anlagenverzeichnis |
+| Rechtsabteilung: Kommissionsgeschäft und Plattformhändler | Bearbeite Rechtsabteilung: Kommissionsgeschäft und Plattformhändler entlang der Handelsrecht-Prüflinie: Status und Register: Kaufmann, Unternehmensträger, Firma, Eintragung, Bekanntmachung und Vertrauenslage bestimmen | Fachvotum zu Rechtsabteilung: Kommissionsgeschäft und Plattformhändler mit Tatbestandsmerkmalen, Aktenfundstellen, Beweislast, stärkster Gegenposition, Risiko und ausformulierter. |
+| Rechtsabteilung: Lagerhalter- und Speditionshaftung | Bearbeite Rechtsabteilung: Lagerhalter- und Speditionshaftung entlang der Handelsrecht-Prüflinie: Status und Register: Kaufmann, Unternehmensträger, Firma, Eintragung, Bekanntmachung und Vertrauenslage bestimmen. | gewichtete Prüfmatrix mit Tatbestandsmerkmalen, Fundstellen, Gegenposition, Beweislast, Risiko und Empfehlung |
+| Rechtsabteilung: Prokura und Grundstücksgeschäft | Bearbeite Rechtsabteilung: Prokura und Grundstücksgeschäft entlang der Handelsrecht-Prüflinie: Vertretung: Organ, Prokura, Handlungsvollmacht, Rechtsschein, Umfang und Nachweis der Vertretungsmacht prüfen | Fachvotum zu Rechtsabteilung: Prokura und Grundstücksgeschäft mit Tatbestandsmerkmalen, Aktenfundstellen, Beweislast, stärkster Gegenposition, Risiko und ausformulierter. |
+| Output Register/Gutachten/Klage | Bearbeite Output Register/Gutachten/Klage entlang der Handelsrecht-Prüflinie: Status und Register: Kaufmann, Unternehmensträger, Firma, Eintragung, Bekanntmachung und Vertrauenslage bestimmen. | frist- und formgerechter Entwurf mit Antrag, tragenden Tatsachen, Beweisangeboten, Anlagen und Einreichungsweg |
+| Registerakte und Lückenliste | Bearbeite Registerakte und Lückenliste entlang der Handelsrecht-Prüflinie: Status und Register: Kaufmann, Unternehmensträger, Firma, Eintragung, Bekanntmachung und Vertrauenslage bestimmen. | vollständige Einreichungs- oder Registervorlage mit Zuständigkeit, Pflichtfeldern, Nachweisen, Freigabe und Vollzugskontrolle |
 
 ## 16. Fachspezifische Praxisrouten
 
 Diese Routen stammen aus den konkreten Arbeitsthemen dieses Plugins. Wähle die sachnächste Route, liefere deren ersten verwertbaren Baustein sofort und vertiefe nur die Punkte, die das Ergebnis tatsächlich ändern.
 
-### 16.1. Rechtsabteilung: Kaufmännisches Bestätigungsschreiben im Konzernalltag
-
-Bearbeitungsauftrag: Kaufmannseigenschaft, Registerlage, Vertretungsmacht, Handelsbrauch, Rüge-/Untersuchungsobliegenheit, Sicherheiten und Prozessbeweis trennen. Liefere eine fallbezogene Norm / Tatsache / Beleg / Wertung / Gegenargument / nächster Schritt-Matrix und einen direkt nutzbaren Textbaustein, wenn der Nutzer einen Entwurf braucht. Tatbestand, Dokumentenbeweis, Zuständigkeit, Frist, Rechtsfolge, Gegenargument und Eskalationsweg getrennt entscheiden; keine bloße To-do-Liste liefern.
-Lieferstück: versandfertiges Schreiben mit Betreff, Sachverhaltskern, Rechtsgrund, konkretem Begehren, Frist und Anlagenverzeichnis.
-
-### 16.2. Firma Paragrafen 17 ff. HGB
-
-Bearbeitungsauftrag: Schlage nach jedem Zwischenergebnis zwei bis fünf passende Anschluss-Skills aus demselben Plugin vor. Keine Kommentar-, Aufsatz- oder BeckRS/Juris-Blindzitate. Tragende Gesetzesstände live gegen amtliche/frei zugängliche Quellen prüfen.
-Lieferstück: Fachvotum zu Firma Paragrafen 17 ff. HGB mit Tatbestandsmerkmalen, Aktenfundstellen, Beweislast, stärkster Gegenposition, Risiko und ausformulierter Rechtsfolge.
-
-### 16.3. Handelskauf-Fristenampel
-
-Bearbeitungsauftrag: Tragende Gesetzesstände live gegen amtliche/frei zugängliche Quellen prüfen. Rechtsprechung nur mit Gericht, Datum, Aktenzeichen und überprüfbarer Quelle verwenden. Bei Unsicherheit die Annahme ausdrücklich markieren und eine Rückfrage oder Quellenprüfung auslösen.
-Lieferstück: Fristenblatt zu Handelskauf-Fristenampel mit Auslöser, Beginn, Ende, Vorfrist, Beleg, Sofortmaßnahme und Verantwortlichem.
-
-### 16.4. Mängelrüge Paragraf 377 HGB
-
-Bearbeitungsauftrag: Liefere zuerst eine Kurzantwort mit Risikoampel, danach den Prüfpfad. Schlage nach jedem Zwischenergebnis zwei bis fünf passende Anschluss-Skills aus demselben Plugin vor. Zuerst klären, ob beide Parteien Kaufleute sind und der Kauf für beide Seiten ein Handelsgeschäft ist.
-Lieferstück: Fachvotum zu Mängelrüge Paragraf 377 HGB mit Tatbestandsmerkmalen, Aktenfundstellen, Beweislast, stärkster Gegenposition, Risiko und ausformulierter Rechtsfolge.
-
-### 16.5. Prozessuale HGB-Beweisfragen
-
-Bearbeitungsauftrag: Zerlege den Fall in Tatsachen, Normen, Streitpunkte, Beweisfragen und methodische Wertungen. Keine Kommentar-, Aufsatz- oder BeckRS/Juris-Blindzitate. Tragende Gesetzesstände live gegen amtliche/frei zugängliche Quellen prüfen.
-Lieferstück: Beweismatrix zu Prozessuale HGB-Beweisfragen mit Tatfrage, Beweislast, Beweismittel, Fundstelle, Gegenposition und Folge eines offenen Nachweises.
-
-### 16.6. Rechtsabteilung: Handelskauf-Mängelrüge nach Paragraf 377 HGB
+### 16.1. Rechtsabteilung: Handelskauf-Mängelrüge nach Paragraf 377 HGB
 
 Bearbeitungsauftrag: Bearbeite Rechtsabteilung: Handelskauf-Mängelrüge nach Paragraf 377 HGB entlang der Handelsrecht-Prüflinie: Status und Register: Kaufmann, Unternehmensträger, Firma, Eintragung, Bekanntmachung und Vertrauenslage bestimmen.
 Lieferstück: Fachvotum zu Rechtsabteilung: Handelskauf-Mängelrüge nach Paragraf 377 HGB mit Tatbestandsmerkmalen, Aktenfundstellen, Beweislast, stärkster Gegenposition, Risiko und ausformulierter Rechtsfolge.
 
-### 16.7. Status und Register
+### 16.2. Handelskauf-Fristenampel
 
-Bearbeitungsauftrag: Kaufmann, Unternehmensträger, Firma, Eintragung, Bekanntmachung und Vertrauenslage bestimmen.
+Bearbeitungsauftrag: Rechtsprechung nur mit Gericht, Datum, Aktenzeichen und überprüfbarer Quelle verwenden. Bei Unsicherheit die Annahme ausdrücklich markieren und eine Rückfrage oder Quellenprüfung auslösen.
+Lieferstück: Fristenblatt zu Handelskauf-Fristenampel mit Auslöser, Beginn, Ende, Vorfrist, Beleg, Sofortmaßnahme und Verantwortlichem.
+
+### 16.3. Firma Paragrafen 17 ff. HGB
+
+Bearbeitungsauftrag: Kaufmannseigenschaft, Registerlage, Vertretungsmacht, Handelsbrauch, Rüge-/Untersuchungsobliegenheit, Sicherheiten und Prozessbeweis trennen.
+Lieferstück: Fachvotum zu Firma Paragrafen 17 ff. HGB mit Tatbestandsmerkmalen, Aktenfundstellen, Beweislast, stärkster Gegenposition, Risiko und ausformulierter Rechtsfolge.
+
+### 16.4. Rechtsabteilung: Kaufmännisches Bestätigungsschreiben im Konzernalltag
+
+Bearbeitungsauftrag: Kaufmannseigenschaft, Registerlage, Vertretungsmacht, Handelsbrauch, Rüge-/Untersuchungsobliegenheit, Sicherheiten und Prozessbeweis trennen. Tatbestand, Dokumentenbeweis, Zuständigkeit, Frist, Rechtsfolge, Gegenargument und Eskalationsweg getrennt entscheiden; keine bloße To-do-Liste liefern.
+Lieferstück: versandfertiges Schreiben mit Betreff, Sachverhaltskern, Rechtsgrund, konkretem Begehren, Frist und Anlagenverzeichnis.
+
+### 16.5. Rechtsabteilung: Kommissionsgeschäft und Plattformhändler
+
+Bearbeitungsauftrag: Bearbeite Rechtsabteilung: Kommissionsgeschäft und Plattformhändler entlang der Handelsrecht-Prüflinie: Status und Register: Kaufmann, Unternehmensträger, Firma, Eintragung, Bekanntmachung und Vertrauenslage bestimmen.
+Lieferstück: Fachvotum zu Rechtsabteilung: Kommissionsgeschäft und Plattformhändler mit Tatbestandsmerkmalen, Aktenfundstellen, Beweislast, stärkster Gegenposition, Risiko und ausformulierter Rechtsfolge.
+
+### 16.6. Rechtsabteilung: Lagerhalter- und Speditionshaftung
+
+Bearbeitungsauftrag: Bearbeite Rechtsabteilung: Lagerhalter- und Speditionshaftung entlang der Handelsrecht-Prüflinie: Status und Register: Kaufmann, Unternehmensträger, Firma, Eintragung, Bekanntmachung und Vertrauenslage bestimmen. Zerlege Anspruchsgrund, Pflichtenkreis, Pflichtverletzung, Zurechnung, Kausalität und Schaden; ordne Einwendungen, Mitverantwortung, Verjährung, Beweislast, Versicherung und jede bezifferte Rechtsfolge den konkreten Aktenbelegen zu.
+Lieferstück: gewichtete Prüfmatrix mit Tatbestandsmerkmalen, Fundstellen, Gegenposition, Beweislast, Risiko und Empfehlung.
+
+### 16.7. Rechtsabteilung: Prokura und Grundstücksgeschäft
+
+Bearbeitungsauftrag: Bearbeite Rechtsabteilung: Prokura und Grundstücksgeschäft entlang der Handelsrecht-Prüflinie: Vertretung: Organ, Prokura, Handlungsvollmacht, Rechtsschein, Umfang und Nachweis der Vertretungsmacht prüfen.
+Lieferstück: Fachvotum zu Rechtsabteilung: Prokura und Grundstücksgeschäft mit Tatbestandsmerkmalen, Aktenfundstellen, Beweislast, stärkster Gegenposition, Risiko und ausformulierter Rechtsfolge.
+
+### 16.8. Output Register/Gutachten/Klage
+
+Bearbeitungsauftrag: Bearbeite Output Register/Gutachten/Klage entlang der Handelsrecht-Prüflinie: Status und Register: Kaufmann, Unternehmensträger, Firma, Eintragung, Bekanntmachung und Vertrauenslage bestimmen. Isoliere angegriffene Entscheidung und Rechtsschutzziel, sichere Statthaftigkeit, Beschwer, Zuständigkeit, Frist, Form und Beteiligte und formuliere aus Tatsachen, Beweisen und stärkster Gegenposition einen bestimmten Antrag mit Einreichungsweg.
+Lieferstück: frist- und formgerechter Entwurf mit Antrag, tragenden Tatsachen, Beweisangeboten, Anlagen und Einreichungsweg.
+
+### 16.9. Registerakte und Lückenliste
+
+Bearbeitungsauftrag: Bearbeite Registerakte und Lückenliste entlang der Handelsrecht-Prüflinie: Status und Register: Kaufmann, Unternehmensträger, Firma, Eintragung, Bekanntmachung und Vertrauenslage bestimmen. Bestimme zuständige Stelle, Pflichtigen, Auslöser, Frist und Pflichtfelder, führe jeden Eintrag auf einen Tatsachenbeleg zurück und liefere freigabefähige Meldung oder Bericht samt Übermittlungsnachweis, Korrekturweg und Anschlusskontrolle.
 Lieferstück: vollständige Einreichungs- oder Registervorlage mit Zuständigkeit, Pflichtfeldern, Nachweisen, Freigabe und Vollzugskontrolle.
 
-### 16.8. Vertretung
+### 16.10. Firmenfortführung Paragrafen 21-25 HGB
 
-Bearbeitungsauftrag: Organ, Prokura, Handlungsvollmacht, Rechtsschein, Umfang und Nachweis der Vertretungsmacht prüfen.
-Lieferstück: Fachvotum zu Vertretung mit Tatbestandsmerkmalen, Aktenfundstellen, Beweislast, stärkster Gegenposition, Risiko und ausformulierter Rechtsfolge.
+Bearbeitungsauftrag: Bearbeite Firmenfortführung Paragrafen 21-25 HGB entlang der Handelsrecht-Prüflinie: Status und Register: Kaufmann, Unternehmensträger, Firma, Eintragung, Bekanntmachung und Vertrauenslage bestimmen.
+Lieferstück: Fachvotum zu Firmenfortführung Paragrafen 21-25 HGB mit Tatbestandsmerkmalen, Aktenfundstellen, Beweislast, stärkster Gegenposition, Risiko und ausformulierter Rechtsfolge.
 
-### 16.9. Geschäft
+### 16.11. Formkaufmann Paragraf 6 HGB
 
-Bearbeitungsauftrag: Vertragstyp, beiderseitiges Handelsgeschäft, Handelsbrauch, kaufmännisches Bestätigungsschreiben und AGB einordnen.
-Lieferstück: Fachvotum zu Geschäft mit Tatbestandsmerkmalen, Aktenfundstellen, Beweislast, stärkster Gegenposition, Risiko und ausformulierter Rechtsfolge.
+Bearbeitungsauftrag: Bearbeite Formkaufmann Paragraf 6 HGB entlang der Handelsrecht-Prüflinie: Status und Register: Kaufmann, Unternehmensträger, Firma, Eintragung, Bekanntmachung und Vertrauenslage bestimmen.
+Lieferstück: Fachvotum zu Formkaufmann Paragraf 6 HGB mit Tatbestandsmerkmalen, Aktenfundstellen, Beweislast, stärkster Gegenposition, Risiko und ausformulierter Rechtsfolge.
 
-### 16.10. Leistungsstörung
+### 16.12. Frachtvertrag Paragrafen 407 ff. HGB
 
-Bearbeitungsauftrag: Lieferung, Untersuchung, Rüge, Fixtermin, Zurückbehaltung, Provision, Ausgleich oder Transporthaftung mit Belegen verbinden.
-Lieferstück: Fachvotum zu Leistungsstörung mit Tatbestandsmerkmalen, Aktenfundstellen, Beweislast, stärkster Gegenposition, Risiko und ausformulierter Rechtsfolge.
-
-### 16.11. Frachtvertrag Paragrafen 407 ff. HGB
-
-Bearbeitungsauftrag: Bearbeite Frachtvertrag Paragrafen 407 ff. HGB: Kaufmann, Unternehmensträger, Firma, Eintragung, Bekanntmachung und Vertrauenslage bestimmen.
+Bearbeitungsauftrag: Bearbeite Frachtvertrag Paragrafen 407 ff. HGB: frachtvertrag Paragrafen 407 und folgende HGB. Lege Regelungsziel und tatsächlichen Ablauf offen, prüfe Definitionen, Haupt- und Nebenpflichten, Bedingungen, Laufzeit, Beendigung, Haftung, Form, zwingendes Recht und Vollzug und liefere Klausel, Rückfallposition und Abschlusskontrolle.
 Lieferstück: verhandlungsfähige Fassung mit Ausgangstext, Änderung, Begründung, Rückfallposition und Vollzugscheck.
-
-### 16.12. Kommanditistenhaftung Paragrafen 171, 172 HGB
-
-Bearbeitungsauftrag: Bearbeite Kommanditistenhaftung Paragrafen 171, 172 HGB: Kaufmann, Unternehmensträger, Firma, Eintragung, Bekanntmachung und Vertrauenslage bestimmen.
-Lieferstück: gewichtete Prüfmatrix mit Tatbestandsmerkmalen, Fundstellen, Gegenposition, Beweislast, Risiko und Empfehlung.

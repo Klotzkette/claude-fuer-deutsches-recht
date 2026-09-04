@@ -181,34 +181,34 @@ Diese Routen stammen aus den konkreten Arbeitsthemen dieses Plugins. Wähle die 
 ### 16.1. AGB-konforme Klauseln nach Paragrafen 305-310 BGB
 
 Bearbeitungsauftrag: Drafting und Prüfung von Allgemeinen Geschäftsbedingungen nach Paragrafen 305-310 BGB. Klärt den AGB-Begriff (vorformuliert, mehrfach verwendet, gestellt), Einbeziehung im Verbraucher- und Unternehmergeschäft sowie Inhaltskontrolle nach Paragraf 307 BGB Generalklausel und Transparenzgebot, Paragraf 308 BGB Klauselverbote mit Wertungsmöglichkeit und Paragraf 309 BGB Klauselverbote ohne Wertungsmöglichkeit. Behandelt die Ausstrahlungswirkung der Verbote des Paragraf 308 und Paragraf 309 BGB auf B2B-Verträge nach Paragraf 307 BGB.
-Norm- oder Entscheidungsbezug aus dem Fachmaterial: Klärt den AGB-Begriff (vorformuliert, mehrfach verwendet, gestellt), Einbeziehung im Verbraucher- und Unternehmergeschäft sowie Inhaltskontrolle nach Paragraf 307 BGB Generalklausel.
+Normbezug aus dem Fachmaterial: Klärt den AGB-Begriff (vorformuliert, mehrfach verwendet, gestellt), Einbeziehung im Verbraucher- und Unternehmergeschäft sowie Inhaltskontrolle nach Paragraf 307 BGB Generalklausel.
 Lieferstück: verhandlungsfähige Fassung mit Ausgangstext, Änderung, Begründung, Rückfallposition und Vollzugscheck.
 
 ### 16.2. Haftungsausschluss und Haftungsbegrenzung
 
-Bearbeitungsauftrag: Pflichtgrenzen Paragraf 276 Absatz 3 BGB (Vorsatz nie ausschließbar), Paragraf 309 Nummer 7 BGB (AGB-Klauselverbote für Vorsatz grobe Fahrlässigkeit Kardinalpflichten Körperschaden), Paragraf 444 BGB (arglistig verschwiegener Mangel), Paragraf 11 ProdHaftG (zwingend bei Personenschaden). Versicherungsschutz (Höhe der Haftpflichtversicherung). Paragraf 276 Absatz 3 BGB: Haftung wegen Vorsatzes kann dem Schuldner im voraus nicht erlassen werden.
-Norm- oder Entscheidungsbezug aus dem Fachmaterial: Pflichtgrenzen Paragraf 276 Absatz 3 BGB (Vorsatz nie ausschließbar), Paragraf 309 Nummer 7 BGB (AGB-Klauselverbote für Vorsatz grobe Fahrlässigkeit Kardinalpflichten Körperschaden), Paragraf 444 BGB.
+Bearbeitungsauftrag: Pflichtgrenzen Paragraf 276 Absatz 3 BGB (Vorsatz nie ausschließbar), Paragraf 309 Nummer 7 BGB (AGB-Klauselverbote für Vorsatz grobe Fahrlässigkeit Kardinalpflichten Körperschaden), Paragraf 444 BGB (arglistig verschwiegener Mangel), Paragraf 11 ProdHaftG (zwingend bei Personenschaden). Versicherungsschutz (Höhe der Haftpflichtversicherung).
+Prüfschritte: Haftungsklauseln im deutschen Recht sauber bauen; Drafting-Strategien Summenbegrenzung Zeitbegrenzung Ausschluss mittelbarer Schäden; Mit Tabelle B2B vs B2C und Mustertexten.
+Normbezug aus dem Fachmaterial: Pflichtgrenzen Paragraf 276 Absatz 3 BGB (Vorsatz nie ausschließbar), Paragraf 309 Nummer 7 BGB (AGB-Klauselverbote für Vorsatz grobe Fahrlässigkeit Kardinalpflichten Körperschaden), Paragraf 444 BGB.
 Lieferstück: gewichtete Prüfmatrix mit Tatbestandsmerkmalen, Fundstellen, Gegenposition, Beweislast, Risiko und Empfehlung.
 
 ### 16.3. Bedingungen aufschiebend, auflösend, Fristen
 
 Bearbeitungsauftrag: Bearbeite Bedingungen aufschiebend, auflösend, Fristen: maßgebliche Version, Fundstelle, Signatur, Zahl, Widerspruch, Lücke, Zielprodukt und reproduzierbare Übergabe verbinden. Rekonstruiere Auslöser und Zugang, qualifiziere die Frist, berechne Beginn und Ende kalendarisch und prüfe Hemmung, Ablaufhemmung, Vorfrist, Zugangsnachweis und statthafte Fristrettung getrennt für materielles und Verfahrensrecht.
 Prüfschritte: Konditionalbedarf (Closing-Conditions, Vertragsende, Optionsrechte, Genehmigungen); Vertragstyp (M&A, Lieferantenvertrag, Mietvertrag, Optionsvertrag); Zeitliche Vorgaben (Long Stop Date, Fälligkeit); Paragraf 158 BGB: Aufschiebende und auflösende Bedingung; Paragraf 159 BGB: Rückbeziehung der Wirkung durch Parteivereinbarung möglich.
-Norm- oder Entscheidungsbezug aus dem Fachmaterial: Konditionalbedarf (Closing-Conditions, Vertragsende, Optionsrechte, Genehmigungen); Vertragstyp (M&A, Lieferantenvertrag, Mietvertrag, Optionsvertrag); Zeitliche Vorgaben (Long Stop Date, Fälligkeit); Paragraf 158 BGB: Aufschiebende und auflösende Bedingung.
 Lieferstück: Fristenblatt zu Bedingungen aufschiebend, auflösend, Fristen mit Auslöser, Beginn, Ende, Vorfrist, Beleg, Sofortmaßnahme und Verantwortlichem.
 
 ### 16.4. Definitionen-Klauseln stringent
 
 Bearbeitungsauftrag: Bearbeite Definitionen-Klauseln stringent: maßgebliche Version, Fundstelle, Signatur, Zahl, Widerspruch, Lücke, Zielprodukt und reproduzierbare Übergabe verbinden. Lege Regelungsziel und tatsächlichen Ablauf offen, prüfe Definitionen, Haupt- und Nebenpflichten, Bedingungen, Laufzeit, Beendigung, Haftung, Form, zwingendes Recht und Vollzug und liefere Klausel, Rückfallposition und Abschlusskontrolle.
 Prüfschritte: Liste der zu definierenden Begriffe (oder Auftrag, sie zu identifizieren); Position im Vertrag: zentraler Abschnitt vs; Paragraf 305c Absatz 2 BGB: Unklarheitenregel zulasten des Verwenders; Inkonsistente Begriffe gehen zulasten des AGB-Verwenders; Paragraf 307 Absatz 1 Satz 2 BGB: Transparenzgebot.
-Norm- oder Entscheidungsbezug aus dem Fachmaterial: Inline; Paragraf 305c Absatz 2 BGB: Unklarheitenregel zulasten des Verwenders; Liste der zu definierenden Begriffe (oder Auftrag, sie zu identifizieren); Position im Vertrag: zentraler Abschnitt vs; Paragraf 305c Absatz 2 BGB: Unklarheitenregel zulasten des Verwenders; Inkonsistente Begriffe gehen zulasten des AGB-Verwenders.
+Normbezug aus dem Fachmaterial: Inline; Paragraf 305c Absatz 2 BGB: Unklarheitenregel zulasten des Verwenders; Liste der zu definierenden Begriffe (oder Auftrag, sie zu identifizieren); Position im Vertrag: zentraler Abschnitt vs; Paragraf 305c Absatz 2 BGB: Unklarheitenregel zulasten des Verwenders; Inkonsistente Begriffe gehen zulasten des AGB-Verwenders.
 Lieferstück: verhandlungsfähige Fassung mit Ausgangstext, Änderung, Begründung, Rückfallposition und Vollzugscheck.
 
 ### 16.5. Dokumentarchitektur: Vertrag und Schriftsatz
 
 Bearbeitungsauftrag: Bearbeite Dokumentarchitektur: Vertrag und Schriftsatz: maßgebliche Version, Fundstelle, Signatur, Zahl, Widerspruch, Lücke, Zielprodukt und reproduzierbare Übergabe verbinden. Lege Regelungsziel und tatsächlichen Ablauf offen, prüfe Definitionen, Haupt- und Nebenpflichten, Bedingungen, Laufzeit, Beendigung, Haftung, Form, zwingendes Recht und Vollzug und liefere Klausel, Rückfallposition und Abschlusskontrolle.
 Prüfschritte: Dokumenttyp und Untertyp (Kaufvertrag, Lieferantenvertrag, Klage, Klageerwiderung, Antrag); Komplexitätsgrad (einfach, mittel, M&A-Niveau); Vorliegende Vorentwürfe oder Term Sheet; Paragraf 253 Absatz 2 ZPO: Pflichtbestandteile der Klageschrift; Paragraf 130 ZPO: Allgemeiner Schriftsatz-Inhalt.
-Norm- oder Entscheidungsbezug aus dem Fachmaterial: Dokumenttyp und Untertyp (Kaufvertrag, Lieferantenvertrag, Klage, Klageerwiderung, Antrag); Komplexitätsgrad (einfach, mittel, M&A-Niveau); Parteien und Rollen; Vorliegende Vorentwürfe oder Term Sheet; Paragraf 253 Absatz 2 ZPO: Pflichtbestandteile der Klageschrift.
+Normbezug aus dem Fachmaterial: Dokumenttyp und Untertyp (Kaufvertrag, Lieferantenvertrag, Klage, Klageerwiderung, Antrag); Komplexitätsgrad (einfach, mittel, M&A-Niveau); Parteien und Rollen; Vorliegende Vorentwürfe oder Term Sheet; Paragraf 253 Absatz 2 ZPO: Pflichtbestandteile der Klageschrift.
 Lieferstück: verhandlungsfähige Fassung mit Ausgangstext, Änderung, Begründung, Rückfallposition und Vollzugscheck.
 
 ### 16.6. Geheimhaltung, NDA und Vertraulichkeit
@@ -226,14 +226,14 @@ Lieferstück: geprüftes Übergabepaket zu Force Majeure und Paragraf 313 BGB (W
 ### 16.8. IP-Rechteübertragung und Lizenzen
 
 Bearbeitungsauftrag: Urheberrecht (UrhG) kennt keine vollständige Übertragung des Stammrechts (Paragraf 29 UrhG); zulässig ist nur die Einräumung von Nutzungsrechten als einfache oder ausschließliche Lizenz mit räumlicher, zeitlicher und inhaltlicher Beschränkung. Liefere Mustertexte für Lizenzklausel (Marke) und Urheberrechtsklausel (Werk und Software). Welche Schutzrechte sind betroffen (Urheberrecht, Marke, Patent, Geschmacksmuster, Topographien, Geschäftsgeheimnis)?
-Norm- oder Entscheidungsbezug aus dem Fachmaterial: Urheberrecht (UrhG) kennt keine vollständige Übertragung des Stammrechts (Paragraf 29 UrhG); zulässig ist nur die Einräumung von Nutzungsrechten als einfache oder ausschließliche Lizenz mit räumlicher, zeitlicher und inhaltlicher Beschränkung.
+Normbezug aus dem Fachmaterial: Urheberrecht (UrhG) kennt keine vollständige Übertragung des Stammrechts (Paragraf 29 UrhG); zulässig ist nur die Einräumung von Nutzungsrechten als einfache oder ausschließliche Lizenz mit räumlicher, zeitlicher und inhaltlicher Beschränkung.
 Lieferstück: verhandlungsfähige Fassung mit Ausgangstext, Änderung, Begründung, Rückfallposition und Vollzugscheck.
 
 ### 16.9. Klageerwiderung und substantiiertes Bestreiten
 
 Bearbeitungsauftrag: Bearbeite Klageerwiderung und substantiiertes Bestreiten: maßgebliche Version, Fundstelle, Signatur, Zahl, Widerspruch, Lücke, Zielprodukt und reproduzierbare Übergabe verbinden. Isoliere angegriffene Entscheidung und Rechtsschutzziel, sichere Statthaftigkeit, Beschwer, Zuständigkeit, Frist, Form und Beteiligte und formuliere aus Tatsachen, Beweisen und stärkster Gegenposition einen bestimmten Antrag mit Einreichungsweg.
 Prüfschritte: Klageschrift (Antrag, Begründung, Anlagen); Beklagtenmandat und dessen Sicht des Sachverhalts; Frist nach Paragraf 277 ZPO (Klageerwiderungsfrist nach gerichtlicher Anordnung); Eigene Beweismittel (Urkunden, Zeugen, Sachverständige); Gegenforderungen (für Aufrechnung oder Hilfsantrag).
-Norm- oder Entscheidungsbezug aus dem Fachmaterial: Klageschrift (Antrag, Begründung, Anlagen); Beklagtenmandat und dessen Sicht des Sachverhalts; Frist nach Paragraf 277 ZPO (Klageerwiderungsfrist nach gerichtlicher Anordnung); Eigene Beweismittel (Urkunden, Zeugen, Sachverständige); Gegenforderungen; Klageschrift (Antrag, Begründung, Anlagen); Beklagtenmandat und dessen Sicht des Sachverhalts.
+Normbezug aus dem Fachmaterial: Klageschrift (Antrag, Begründung, Anlagen); Beklagtenmandat und dessen Sicht des Sachverhalts; Frist nach Paragraf 277 ZPO (Klageerwiderungsfrist nach gerichtlicher Anordnung); Eigene Beweismittel (Urkunden, Zeugen, Sachverständige); Gegenforderungen; Klageschrift (Antrag, Begründung, Anlagen); Beklagtenmandat und dessen Sicht des Sachverhalts.
 Lieferstück: frist- und formgerechter Entwurf mit Antrag, tragenden Tatsachen, Beweisangeboten, Anlagen und Einreichungsweg.
 
 ### 16.10. Vertragsstrafe nach Paragrafen 339-345 BGB
@@ -251,5 +251,5 @@ Lieferstück: verhandlungsfähige Fassung mit Ausgangstext, Änderung, Begründu
 ### 16.12. B2B vs. B2C Klauselstrategie
 
 Bearbeitungsauftrag: B2C unter strengem Verbraucherschutz (Paragrafen 13 und 14 BGB sowie Paragraf 305 II BGB und Paragrafen 308 und 309 BGB direkt anwendbar). B2B im Geschäftsverkehr nach Paragraf 310 I BGB erleichtert, aber mit Ausstrahlungswirkung der Klauselverbote über Paragraf 307 BGB. Branche und Regulierung (Telekommunikation, Banking, Energie, Bau).
-Norm- oder Entscheidungsbezug aus dem Fachmaterial: B2C unter strengem Verbraucherschutz (Paragrafen 13 und 14 BGB sowie Paragraf 305 II BGB und Paragrafen 308 und 309 BGB direkt anwendbar).
+Normbezug aus dem Fachmaterial: B2C unter strengem Verbraucherschutz (Paragrafen 13 und 14 BGB sowie Paragraf 305 II BGB und Paragrafen 308 und 309 BGB direkt anwendbar).
 Lieferstück: verhandlungsfähige Fassung mit Ausgangstext, Änderung, Begründung, Rückfallposition und Vollzugscheck.

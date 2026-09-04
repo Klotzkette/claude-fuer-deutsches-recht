@@ -211,14 +211,14 @@ Lieferstück: Fachvotum zu Ausschluss nach Paragraf 814 BGB — Kenntnis der Nic
 ### 16.4. Einreden und Verteidigung des Anfechtungsgegners — AnfG
 
 Bearbeitungsauftrag: Auf welchen Anfechtungstatbestand stützt der klagende Gläubiger seinen Anspruch (Paragraf 3 oder Paragraf 4 AnfG)? Paragraf 3 AnfG — Vorsatzanfechtung (Kenntnis des Anfechtungsgegners als Tatbestandsmerkmal). Paragraf 142 InsO — Bargeschäftsprivileg (analoge Anwendung im AnfG str.).
-Norm- oder Entscheidungsbezug aus dem Fachmaterial: Auf welchen Anfechtungstatbestand stützt der klagende Gläubiger seinen Anspruch (Paragraf 3 oder Paragraf 4 AnfG)?
+Normbezug aus dem Fachmaterial: Auf welchen Anfechtungstatbestand stützt der klagende Gläubiger seinen Anspruch (Paragraf 3 oder Paragraf 4 AnfG)?
 Lieferstück: Fachvotum zu Einreden und Verteidigung des Anfechtungsgegners — AnfG mit Tatbestandsmerkmalen, Aktenfundstellen, Beweislast, stärkster Gegenposition, Risiko und ausformulierter Rechtsfolge.
 
 ### 16.5. Konkurrenz: Bereicherung, Anfechtung und Vindikation
 
 Bearbeitungsauftrag: Fehlt ein Rechtsgrund für das Behaltendürfen (→ Paragraf 812 BGB), oder liegt eine Gläubigerbenachteiligung vor. Haben sowohl Paragraf 812 BGB als auch ein Anfechtungsanspruch Erfolg — wie wird Doppelbefriedigung vermieden? Hat der Anfechtungsgegner nach Paragraf 144 InsO eine Gegenleistung zurückerhalten, die den parallelen Bereicherungsanspruch tilgt?
 Prüfschritte: Besteht noch Eigentum des Anspruchstellers am streitigen Gegenstand (→ Paragraf 985 BGB vorrangig)?
-Norm- oder Entscheidungsbezug aus dem Fachmaterial: Besteht noch Eigentum des Anspruchstellers am streitigen Gegenstand (→ Paragraf 985 BGB vorrangig)?
+Normbezug aus dem Fachmaterial: Besteht noch Eigentum des Anspruchstellers am streitigen Gegenstand (→ Paragraf 985 BGB vorrangig)?
 Lieferstück: Fachvotum zu Konkurrenz: Bereicherung, Anfechtung und Vindikation mit Tatbestandsmerkmalen, Aktenfundstellen, Beweislast, stärkster Gegenposition, Risiko und ausformulierter Rechtsfolge.
 
 ### 16.6. Bereicherung eines Dritten — Paragraf 822 BGB
@@ -250,12 +250,11 @@ Lieferstück: Fachvotum zu Eigentumsnutzung und sachenrechtliche Zuweisung mit T
 ### 16.11. Entreicherung: Beweislast und Substantiierung
 
 Bearbeitungsauftrag: Anwendungsfall: wenn Paragraf 818 Absatz 3 BGB konkret behauptet oder angegriffen werden muss. Prüfe Rechtsgrund und Behaltensgrund getrennt. Kontrolliere, ob Paragraf 818 BGB den Anspruch erweitert, begrenzt oder verschärft.
-Norm- oder Entscheidungsbezug aus dem Fachmaterial: Anwendungsfall: wenn Paragraf 818 Absatz 3 BGB konkret behauptet oder angegriffen werden muss.
+Normbezug aus dem Fachmaterial: Anwendungsfall: wenn Paragraf 818 Absatz 3 BGB konkret behauptet oder angegriffen werden muss.
 Lieferstück: Beweismatrix zu Entreicherung: Beweislast und Substantiierung mit Tatfrage, Beweislast, Beweismittel, Fundstelle, Gegenposition und Folge eines offenen Nachweises.
 
 ### 16.12. Familien- und Partnerzuwendungen
 
 Bearbeitungsauftrag: Output: Zuordnungs-Matrix unbenannte Zuwendung vs. Abgrenzung: nicht Zugewinnausgleich Paragrafen 1372 und folgende Anwendungsfall: private Zuwendungen zwischen Näheverhältnis, Zweckbindung und Spezialrecht stehen.
 Prüfschritte: Paragrafen 1372 und folgende und Paragraf 1568a BGB; Prüfraster: Prüfe das Spezialrecht vor dem allgemeinen Bereicherungsrecht; Übernimm Schutzwertungen in Saldo, Wertersatz und Entreicherung; Trenne Rückabwicklung, Schadensersatz und öffentlich-rechtliche Erstattung; Abgrenzung: nicht Zugewinnausgleich Paragrafen 1372 und folgende BGB.
-Norm- oder Entscheidungsbezug aus dem Fachmaterial: Paragrafen 1372 und folgende und Paragraf 1568a BGB; Prüfraster: Prüfe das Spezialrecht vor dem allgemeinen Bereicherungsrecht; Übernimm Schutzwertungen in Saldo, Wertersatz und Entreicherung; Trenne Rückabwicklung, Schadensersatz und öffentlich-rechtliche Erstattung.
 Lieferstück: Fachvotum zu Familien- und Partnerzuwendungen mit Tatbestandsmerkmalen, Aktenfundstellen, Beweislast, stärkster Gegenposition, Risiko und ausformulierter Rechtsfolge.

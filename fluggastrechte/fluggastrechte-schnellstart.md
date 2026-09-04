@@ -45,8 +45,8 @@ Ohne verwertbares Material genau eine gebündelte Frage zu Buchung und Reichweit
 | --- | --- | --- |
 | Buchung und Reichweite | Fluggast, Buchungscode, ausführendes Unternehmen, Abflug, Ziel, einheitliche Buchung und Anwendungsbereich sichern. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
 | Ereignis und Zeit | Nichtbeförderung, Annullierung oder Verspätung trennen und tatsächliche Öffnung der Flugzeugtür am Endziel belegen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Anspruch | Entfernung, Ankunftsverlust, Vorabinformation, Ersatzbeförderung, Kürzung, Betreuung und Ausgleich getrennt. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Entlastung | Behauptetes Ereignis, externe Beherrschbarkeit, Ursächlichkeit und jede konkret zumutbare Maßnahme. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Anspruch | Entfernung, Ankunftsverlust, Vorabinformation, Ersatzbeförderung, Kürzung, Betreuung und Ausgleich getrennt berechnen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Entlastung | Behauptetes Ereignis, externe Beherrschbarkeit, Ursächlichkeit und jede konkret zumutbare Maßnahme des Unternehmens prüfen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
 | Verfahren | Anspruchsgegner, Abtretung, Verjährung oder Ausschlussfrist, Gerichtsstand, Belege und Zustellung ordnen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
 | Arbeitsprodukt | Forderungsschreiben, Belegmatrix, Erwiderung auf Standardausrede, Mahnung, Klage oder Vergleich erstellen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
 

@@ -34,7 +34,7 @@ Ohne verwertbares Material genau eine gebündelte Frage zu Aktenkern, Anspruch, 
 | --- | --- |
 | Normenanker | BGB Paragraf 241 und Paragraf 280; BGB Paragraf 286 und Paragraf 288; BGB Paragraf 362 |
 | Rechtsprechung | BGH, Beschluss vom 28.02.2012 - VIII ZR 124/11; BGH, Urteil vom 04.05.2011 - VIII ZR 171/10 |
-| Tatbestand | Vertrag, Leistung, Rechnung, Fälligkeit, Verzug, Einwendung, Beweis und Klage- oder Vollstreckungsweg klagereif ordnen |
+| Tatbestand | Vertrag, Bestellung, Lieferung, Abnahme, Rechnung, Mahnung, Zahlung und Einwendung chronologisch ordnen |
 | Beweislast | Gläubiger für Vertrag, Fälligkeit, Verzug und Belegkette; Schuldner für Erfüllung, Einwendung, Aufrechnung und Verjährung |
 | Rechtsfolge | Mahnung, Klageentwurf, Mahnbescheid, Anspruchsmatrix, Vergleichsvorschlag oder Vollstreckungsauftrag |
 | Quellenstatus | Aktenfund, Normtext, Profilanker oder sicher belegte Entscheidung offen kennzeichnen; unsichere Aktenzeichen nicht ergänzen |
@@ -43,12 +43,11 @@ Ohne verwertbares Material genau eine gebündelte Frage zu Aktenkern, Anspruch, 
 
 | Feld | Sofortgriff | Ausgabe |
 | --- | --- | --- |
-| Aktenkern | Vertrag, Leistung, Rechnung, Fälligkeit, Verzug, Einwendung, Beweis und Klage- oder Vollstreckungsweg klagereif ordnen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Anspruch | Vertrag, Leistung, Rechnung, Fälligkeit, Verzug, Einwendung, Beweis und Klage- oder Vollstreckungsweg klagereif ordnen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Einwendungen | Vertrag, Leistung, Rechnung, Fälligkeit, Verzug, Einwendung, Beweis und Klage- oder Vollstreckungsweg klagereif ordnen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Prozess und Titel | Vertrag, Leistung, Rechnung, Fälligkeit, Verzug, Einwendung, Beweis und Klage- oder Vollstreckungsweg klagereif ordnen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Arbeitsprodukt | Vertrag, Leistung, Rechnung, Fälligkeit, Verzug, Einwendung, Beweis und Klage- oder Vollstreckungsweg klagereif ordnen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| AGB Kontrolle Factoringklauseln B2B | Vertrag, Leistung, Rechnung, Fälligkeit, Verzug, Einwendung, Beweis und Klage- oder Vollstreckungsweg klagereif ordnen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Aktenkern | Vertrag, Bestellung, Lieferung, Abnahme, Rechnung, Mahnung, Zahlung und Einwendung chronologisch ordnen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Anspruch | Hauptforderung, Nebenforderung, Zinsen, Kosten, Verzug und Verjährung getrennt rechnen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Einwendungen | Erfüllung, Mangel, Aufrechnung, Zurückbehaltung, Stundung, Verjährung und Vertretung prüfen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Prozess und Titel | Zuständigkeit, Beweis, Anlagen, Antrag, Mahnverfahren, Klage und Vollstreckung planen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Arbeitsprodukt | Klagefreigabe, Mahnschreiben, Klageentwurf, Vergleichsvorschlag oder Vollstreckungsauftrag erstellen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
 
 ## 6. Anker
 

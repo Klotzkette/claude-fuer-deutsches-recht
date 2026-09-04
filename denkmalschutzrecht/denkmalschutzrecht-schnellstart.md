@@ -33,7 +33,7 @@ Ohne verwertbares Material genau eine gebündelte Frage zu Objekt und Landesrech
 | Punkt | Sofortgriff |
 | --- | --- |
 | Normenanker | GG Artikel 14 und Artikel 70; Denkmalschutzgesetz des zuständigen Landes; BauGB und Landesbauordnung |
-| Rechtsprechung | BVerfG, Beschluss vom 2. März 1999, 1 BvL 7/91, BVerfGE 100 Seite 226 |
+| Rechtsprechung | aus Akte und belastbarer Quelle ableiten |
 | Tatbestand | Adresse, Flurstück, Denkmalart, Listeneintrag, Schutzumfang, Umgebung und zuständige Behörden feststellen |
 | Beweislast | Nachweisachse Vorhaben und Bestand: historische Substanz, geplante Maßnahme, Material, Gestaltung, Nutzung, Statik, Energie und Alternativen dokumentieren |
 | Rechtsfolge | Erlaubnisantrag, Maßnahmenbeschreibung, Zumutbarkeitsrechnung, Behördenantwort, Widerspruch oder Steuerbescheinigungsunterlage erstellen |
@@ -44,7 +44,7 @@ Ohne verwertbares Material genau eine gebündelte Frage zu Objekt und Landesrech
 | Feld | Sofortgriff | Ausgabe |
 | --- | --- | --- |
 | Objekt und Landesrecht | Adresse, Flurstück, Denkmalart, Listeneintrag, Schutzumfang, Umgebung und zuständige Behörden feststellen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Vorhaben und Bestand | Historische Substanz, geplante Maßnahme, Material, Gestaltung, Nutzung, Statik, Energie und Alternativen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Vorhaben und Bestand | Historische Substanz, geplante Maßnahme, Material, Gestaltung, Nutzung, Statik, Energie und Alternativen dokumentieren. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
 | Erlaubnis und Abwägung | Tatbestand, Belange, Eigentümerinteresse, Erhaltungsoption, Wirtschaftlichkeit, Förderung und Zumutbarkeit prüfen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
 
 

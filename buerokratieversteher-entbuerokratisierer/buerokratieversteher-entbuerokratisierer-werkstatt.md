@@ -179,10 +179,10 @@ Die Landkarte dient der schnellen Auswahl. Sie ersetzt nicht die darunter ausfor
 | Bußgeld-Anhörung | Rechtsgrundlagen: Paragraf 55 OWiG (Anhörung Betroffener), Paragraf 46 Absatz 1 OWiG iVm Paragrafen 136 Absatz 1 Satz 2, 163a StPO (Schweigerecht), Paragraf 67 OWiG (Einspruch gegen Bußgeldbescheid, Frist zwei Wochen). | geprüftes Übergabepaket zu Bußgeld-Anhörung mit Eingangsstand, maßgeblicher Fassung, Qualitätsnachweis, Fehlteilliste, Freigabe und Öffnungsprobe |
 | Eilantrag Notfall | Sozialgericht: Paragraf 86b SGG (Anordnung/Wiederherstellung) — gerichtskostenfrei (Paragraf 183 SGG). | frist- und formgerechter Entwurf mit Antrag, tragenden Tatsachen, Beweisangeboten, Anlagen und Einreichungsweg |
 | Elterngeld | Drei Modelle: Basiselterngeld (Paragraf 2 BEEG, 65-67 % Nettoeinkommen, 300-1 800 EUR/Monat, 12 Monate + 2 Partnermonate), ElterngeldPlus (Paragraf 4 BEEG, halbe Höhe, doppelte Dauer), Partnerschaftsbonus. | geprüftes Übergabepaket zu Elterngeld mit Eingangsstand, maßgeblicher Fassung, Qualitätsnachweis, Fehlteilliste, Freigabe und Öffnungsprobe |
-| Ausländerbehörde | Rechtsgrundlagen: AufenthG. | geprüftes Übergabepaket zu Ausländerbehörde mit Eingangsstand, maßgeblicher Fassung, Qualitätsnachweis, Fehlteilliste, Freigabe und Öffnungsprobe |
 | BAföG | BAföG (Auszubildende), Paragraf 11 BAföG (Bedarf), Paragraf 21 BAföG (Einkommen), Paragraf 27 BAföG (Vermögen). | geprüftes Übergabepaket zu BAföG mit Eingangsstand, maßgeblicher Fassung, Qualitätsnachweis, Fehlteilliste, Freigabe und Öffnungsprobe |
-| Bürgergeld / Jobcenter | Juli 2026 sieht Paragraf 31a SGB II grundsätzlich 30 Prozent vor; Paragraf 31a Absatz 7 enthält für die willentliche Nichtaufnahme einer tatsächlich und unmittelbar möglichen zumutbaren Arbeit eine engere Sonderfolge. | geprüftes Übergabepaket zu Bürgergeld / Jobcenter mit Eingangsstand, maßgeblicher Fassung, Qualitätsnachweis, Fehlteilliste, Freigabe und Öffnungsprobe |
+| Ausländerbehörde | Rechtsgrundlagen: AufenthG. | geprüftes Übergabepaket zu Ausländerbehörde mit Eingangsstand, maßgeblicher Fassung, Qualitätsnachweis, Fehlteilliste, Freigabe und Öffnungsprobe |
 | Ermessen verstehen | VwVfG Paragraf 40 Ermessen, "entsprechend dem Zweck der Ermächtigung, in den gesetzlichen Grenzen". VwGO Paragraf 114 gerichtliche Überprüfung nur eingeschränkt. VwVfG Paragraf 39 Begründungspflicht. | geprüftes Übergabepaket zu Ermessen verstehen mit Eingangsstand, maßgeblicher Fassung, Qualitätsnachweis, Fehlteilliste, Freigabe und Öffnungsprobe |
+| IFG/UIG/VIG-Anfrage | I S. 2722; daneben Landes-IFG, NRW IFG/VIG, Berlin-IFG etc., UIG (Umweltinformationsgesetz iVm UI-RL 2003/4/EG), VIG. zwei bei Umfang (Paragraf 3 Absatz 3 UIG), VIG einen Monat (Paragraf 5 Absatz 2 VIG). | geprüftes Übergabepaket zu IFG/UIG/VIG-Anfrage mit Eingangsstand, maßgeblicher Fassung, Qualitätsnachweis, Fehlteilliste, Freigabe und Öffnungsprobe |
 
 ## 16. Fachspezifische Praxisrouten
 
@@ -192,69 +192,66 @@ Diese Routen stammen aus den konkreten Arbeitsthemen dieses Plugins. Wähle die 
 
 Bearbeitungsauftrag: Beratungshilfe nach BerHG: außergerichtliche Beratung/Vertretung, Antrag beim Amtsgericht am Wohnsitz (Paragraf 4 BerHG); Mandantenanteil derzeit 15 Euro Eigenbeitrag, sonst staatlich getragen. ZPO (Zivilprozess), Paragraf 76 FamFG (VKH Familienverfahren), Paragraf 166 VwGO (Verwaltungsgericht), Paragraf 73a SGG (Sozialgericht), Paragraf 142 FGO (Finanzgericht). Ratenzahlung möglich nach Paragraf 115 Absatz 2 ZPO; Überprüfung nach vier Jahren (Paragraf 120a ZPO), Rückforderung bei wirtschaftlicher Besserung.
 Prüfschritte: PKH/VKH: Paragrafen 114 und folgende ZPO (Zivilprozess), Paragraf 76 FamFG (VKH Familienverfahren), Paragraf 166 VwGO (Verwaltungsgericht), Paragraf 73a SGG (Sozialgericht), Paragraf 142 FGO (Finanzgericht); Voraussetzungen: persönliche und wirtschaftliche Bedürftigkeit + hinreichende Erfolgsaussicht und nicht mutwillig (Paragraf 114 Absatz 1 ZPO); Unterlagen: Formular "Erklärung über die persönlichen und wirtschaftlichen Verhältnisse" (gerichtliches Vordruck), aktuelle Einkommensnachweise, Mietvertrag, Kontoauszüge der letzten Monate, Schuldenliste.
-Norm- oder Entscheidungsbezug aus dem Fachmaterial: Beratungshilfe nach BerHG: außergerichtliche Beratung/Vertretung, Antrag beim Amtsgericht am Wohnsitz (Paragraf 4 BerHG); Mandantenanteil derzeit 15 Euro Eigenbeitrag, sonst staatlich getragen; PKH/VKH: Paragrafen 114 und folgende.
+Normbezug aus dem Fachmaterial: Beratungshilfe nach BerHG: außergerichtliche Beratung/Vertretung, Antrag beim Amtsgericht am Wohnsitz (Paragraf 4 BerHG); Mandantenanteil derzeit 15 Euro Eigenbeitrag, sonst staatlich getragen; PKH/VKH: Paragrafen 114 und folgende.
 Lieferstück: geprüftes Übergabepaket zu Beratungshilfe und PKH mit Eingangsstand, maßgeblicher Fassung, Qualitätsnachweis, Fehlteilliste, Freigabe und Öffnungsprobe.
 
 ### 16.2. Rückforderung und Aufhebung
 
 Bearbeitungsauftrag: Vertrauensschutz: Paragraf 48 Absatz 2 VwVfG / Paragraf 45 Absatz 2 SGB X — geschützt, wenn Begünstigter Leistung verbraucht hat und keine grobe Fahrlässigkeit/falsche Angaben vorliegen. Anhörung zwingend nach Paragraf 28 VwVfG / Paragraf 24 SGB X — Verstoß ist heilbar im Widerspruchsverfahren (Paragraf 41 Absatz 2 VwVfG, Paragraf 41 Absatz 2 SGB X). Ratenzahlung/Stundung: Paragraf 76 BHO/LHO, Paragraf 222 AO (Steuern), Paragraf 76 SGB IV; Antrag formlos mit Einkommens-/Vermögensaufstellung.
 Prüfschritte: Rechtsgrundlagen: Paragrafen 48, 49 VwVfG (rechtswidriger/rechtmäßiger Verwaltungsakt), Paragrafen 45, 48 SGB X (Sozialrecht), Paragrafen 130, 131 AO (Steuerrecht), Paragraf 50 SGB X (Erstattung); Vier-Jahres-Frist nach Paragraf 48 Absatz 4 VwVfG ab Kenntnis aller Rücknahmevoraussetzungen; Ohne Anhörung trotzdem Widerspruch einlegen und auf den Verfahrensmangel hinweisen.
-Norm- oder Entscheidungsbezug aus dem Fachmaterial: Rechtsgrundlagen: Paragrafen 48, 49 VwVfG (rechtswidriger/rechtmäßiger Verwaltungsakt), Paragrafen 45, 48 SGB X (Sozialrecht), Paragrafen 130, 131 AO (Steuerrecht), Paragraf 50 SGB X (Erstattung).
+Normbezug aus dem Fachmaterial: Rechtsgrundlagen: Paragrafen 48, 49 VwVfG (rechtswidriger/rechtmäßiger Verwaltungsakt), Paragrafen 45, 48 SGB X (Sozialrecht), Paragrafen 130, 131 AO (Steuerrecht), Paragraf 50 SGB X (Erstattung).
 Lieferstück: geprüftes Übergabepaket zu Rückforderung und Aufhebung mit Eingangsstand, maßgeblicher Fassung, Qualitätsnachweis, Fehlteilliste, Freigabe und Öffnungsprobe.
 
 ### 16.3. Bußgeld-Anhörung
 
 Bearbeitungsauftrag: Rechtsgrundlagen: Paragraf 55 OWiG (Anhörung Betroffener), Paragraf 46 Absatz 1 OWiG iVm Paragrafen 136 Absatz 1 Satz 2, 163a StPO (Schweigerecht), Paragraf 67 OWiG (Einspruch gegen Bußgeldbescheid, Frist zwei Wochen). Als Zeuge gilt Wahrheitspflicht, aber Auskunftsverweigerungsrecht nach Paragraf 55 StPO (Selbstbelastung) und Paragraf 52 StPO (Angehörige). Verjährung: regelmäßig drei Monate nach Paragraf 26 Absatz 3 StVG bei Verkehrsordnungswidrigkeiten, unterbrochen durch Anhörung (Paragraf 33 OWiG); nach Bescheid sechs Monate.
 Prüfschritte: Zeugenfragebogen unterscheiden: Als Betroffener besteht keine Pflicht zur Selbstbelastung — Personalien (Paragraf 111 OWiG) jedoch angeben; Fahrerermittlung: Bei nicht zuzuordnender Tat droht Fahrtenbuchauflage (Paragraf 31a StVZO) — Behörde muss zuvor angemessen ermittelt haben; Foto im Bußgeldbescheid genau prüfen.
-Norm- oder Entscheidungsbezug aus dem Fachmaterial: Rechtsgrundlagen: Paragraf 55 OWiG (Anhörung Betroffener), Paragraf 46 Absatz 1 OWiG iVm Paragrafen 136 Absatz 1 Satz 2, 163a StPO (Schweigerecht), Paragraf 67 OWiG (Einspruch gegen Bußgeldbescheid, Frist zwei Wochen); Anhörungsbogen vs.
+Normbezug aus dem Fachmaterial: Rechtsgrundlagen: Paragraf 55 OWiG (Anhörung Betroffener), Paragraf 46 Absatz 1 OWiG iVm Paragrafen 136 Absatz 1 Satz 2, 163a StPO (Schweigerecht), Paragraf 67 OWiG (Einspruch gegen Bußgeldbescheid, Frist zwei Wochen); Anhörungsbogen vs.
 Lieferstück: geprüftes Übergabepaket zu Bußgeld-Anhörung mit Eingangsstand, maßgeblicher Fassung, Qualitätsnachweis, Fehlteilliste, Freigabe und Öffnungsprobe.
 
 ### 16.4. Eilantrag Notfall
 
 Bearbeitungsauftrag: Sozialgericht: Paragraf 86b SGG (Anordnung/Wiederherstellung) — gerichtskostenfrei (Paragraf 183 SGG). Anordnungsanspruch und Anordnungsgrund müssen glaubhaft gemacht werden (Paragraf 920 Absatz 2 ZPO iVm Paragraf 123 Absatz 3 VwGO) — eidesstattliche Versicherung, Atteste, Lohnabrechnungen, Mietvertrag, Kontoauszüge konkret beifügen.
 Prüfschritte: Verwaltungsgericht: Paragraf 80 Absatz 5 VwGO (Antrag auf Anordnung/Wiederherstellung der aufschiebenden Wirkung), Paragraf 123 VwGO (einstweilige Anordnung); Typische Notlagen: drohende Stromsperre (Paragraf 19 Absatz 2 StromGVV — Sperrandrohung 4 Wochen), drohende Räumung (Paragraf 940a ZPO), Abschiebung (Paragraf 123 VwGO gegen Ausländerbehörde, Paragraf 80 Absatz 5 gegen sofort vollziehbare Abschiebungsanordnung), Kindesentzug (Paragraf 1666 BGB iVm Paragraf 49 FamFG).
-Norm- oder Entscheidungsbezug aus dem Fachmaterial: Verwaltungsgericht: Paragraf 80 Absatz 5 VwGO (Antrag auf Anordnung/Wiederherstellung der aufschiebenden Wirkung), Paragraf 123 VwGO (einstweilige Anordnung); Sozialgericht: Paragraf 86b SGG (Anordnung/Wiederherstellung) — gerichtskostenfrei (Paragraf 183 SGG).
+Normbezug aus dem Fachmaterial: Verwaltungsgericht: Paragraf 80 Absatz 5 VwGO (Antrag auf Anordnung/Wiederherstellung der aufschiebenden Wirkung), Paragraf 123 VwGO (einstweilige Anordnung); Sozialgericht: Paragraf 86b SGG (Anordnung/Wiederherstellung) — gerichtskostenfrei (Paragraf 183 SGG).
 Lieferstück: frist- und formgerechter Entwurf mit Antrag, tragenden Tatsachen, Beweisangeboten, Anlagen und Einreichungsweg.
 
 ### 16.5. Elterngeld
 
 Bearbeitungsauftrag: Drei Modelle: Basiselterngeld (Paragraf 2 BEEG, 65-67 % Nettoeinkommen, 300-1 800 EUR/Monat, 12 Monate + 2 Partnermonate), ElterngeldPlus (Paragraf 4 BEEG, halbe Höhe, doppelte Dauer), Partnerschaftsbonus (4 zusätzliche Monate bei Teilzeit beider Eltern). Anspruch nur, wenn der Berechtigte das Kind selbst betreut und höchstens 32 Wochenstunden erwerbstätig ist (Paragraf 1 Absatz 6 BEEG). Antrag bei Elterngeldstelle (Land); rückwirkend nur drei Monate (Paragraf 7 Absatz 1 BEEG) — zeitnah stellen!
 Prüfschritte: Rechtsgrundlage: BEEG (Bundeselterngeld- und Elternzeitgesetz); Einkommensgrenzen ab 1.4.2024: Paare mit zu versteuerndem Einkommen über 200 000 EUR / Alleinerziehende über 150 000 EUR — kein Anspruch (Paragraf 1 Absatz 8 BEEG); ab 1.4.2025 für Paare weiter abgesenkt (genauer Wert über aktuelle Quelle prüfen); Bezugszeitraum: Geburts­monat bis vollendetes.
-Norm- oder Entscheidungsbezug aus dem Fachmaterial: Drei Modelle: Basiselterngeld (Paragraf 2 BEEG, 65-67 % Nettoeinkommen, 300-1 800 EUR/Monat, 12 Monate + 2 Partnermonate), ElterngeldPlus (Paragraf 4 BEEG, halbe Höhe, doppelte Dauer), Partnerschaftsbonus; Rechtsgrundlage: BEEG (Bundeselterngeld- und Elternzeitgesetz).
+Normbezug aus dem Fachmaterial: Drei Modelle: Basiselterngeld (Paragraf 2 BEEG, 65-67 % Nettoeinkommen, 300-1 800 EUR/Monat, 12 Monate + 2 Partnermonate), ElterngeldPlus (Paragraf 4 BEEG, halbe Höhe, doppelte Dauer), Partnerschaftsbonus.
 Lieferstück: geprüftes Übergabepaket zu Elterngeld mit Eingangsstand, maßgeblicher Fassung, Qualitätsnachweis, Fehlteilliste, Freigabe und Öffnungsprobe.
 
-### 16.6. Ausländerbehörde
-
-Bearbeitungsauftrag: Rechtsgrundlagen: AufenthG (Visum Paragraf 6, Aufenthaltserlaubnis Paragrafen 7, 16 und folgende , 18 und folgende , 28; Niederlassungserlaubnis Paragraf 9; Daueraufenthalt-EU Paragraf 9a), AufenthV, FreizügG/EU für Unionsbürger, AsylG für Schutzsuchende. Nebenbestimmungen (Paragraf 12 AufenthG): Erwerbstätigkeit, Wohnsitz, räumliche Beschränkung; sehr wichtig, bevor Arbeitsverhältnis begonnen wird — Paragraf 4a Absatz 5 AufenthG verbietet sonst Beschäftigung mit Bußgeld/Strafbarkeit.
-Prüfschritte: Fiktionsbescheinigung (Paragraf 81 Absatz 3, 4 AufenthG): Schutzwirkung bei rechtzeitigem Verlängerungsantrag — Termin vor Ablauf zwingend; Online-Antrag oder Mailantrag dokumentieren.
-Norm- oder Entscheidungsbezug aus dem Fachmaterial: Rechtsgrundlagen: AufenthG (Visum Paragraf 6, Aufenthaltserlaubnis Paragrafen 7, 16 und folgende , 18 und folgende , 28; Niederlassungserlaubnis Paragraf 9; Daueraufenthalt-EU Paragraf 9a), AufenthV, FreizügG/EU für Unionsbürger, AsylG für Schutzsuchende.
-Lieferstück: geprüftes Übergabepaket zu Ausländerbehörde mit Eingangsstand, maßgeblicher Fassung, Qualitätsnachweis, Fehlteilliste, Freigabe und Öffnungsprobe.
-
-### 16.7. BAföG
+### 16.6. BAföG
 
 Bearbeitungsauftrag: BAföG (Auszubildende), Paragraf 11 BAföG (Bedarf), Paragraf 21 BAföG (Einkommen), Paragraf 27 BAföG (Vermögen). Vorausleistung nach Paragraf 36 BAföG, wenn Eltern Unterhalt nicht zahlen — wichtig: Anspruch geht auf das Amt über (Paragraf 37 BAföG, Übergangsanspruch). Praktiker-Tipp: Antrag formlos online stellen reicht zur Fristwahrung (Förderbeginn ab Monat der Antragstellung, Paragraf 15 Absatz 1 BAföG) — Eingangsbestätigung sichern; Widerspruchsfrist gegen Bescheid einen Monat (Paragraf 70 VwGO).
 Prüfschritte: Anspruchsgrundlage: Paragrafen 1 und folgende BAföG (Auszubildende), Paragraf 11 BAföG (Bedarf), Paragraf 21 BAföG (Einkommen), Paragraf 27 BAföG (Vermögen); Leistungsnachweis nach Paragraf 48 BAföG ab.
-Norm- oder Entscheidungsbezug aus dem Fachmaterial: Anspruchsgrundlage: Paragrafen 1 und folgende BAföG (Auszubildende), Paragraf 11 BAföG (Bedarf), Paragraf 21 BAföG (Einkommen), Paragraf 27 BAföG (Vermögen); Anspruchsgrundlage: Paragrafen 1 und folgende BAföG (Auszubildende), Paragraf 11 BAföG (Bedarf), Paragraf 21 BAföG (Einkommen), Paragraf 27 BAföG (Vermögen); Leistungsnachweis nach Paragraf 48 BAföG ab.
+Normbezug aus dem Fachmaterial: Anspruchsgrundlage: Paragrafen 1 und folgende BAföG (Auszubildende), Paragraf 11 BAföG (Bedarf), Paragraf 21 BAföG (Einkommen), Paragraf 27 BAföG (Vermögen); Anspruchsgrundlage: Paragrafen 1 und folgende BAföG (Auszubildende), Paragraf 11 BAföG (Bedarf), Paragraf 21 BAföG (Einkommen), Paragraf 27 BAföG (Vermögen); Leistungsnachweis nach Paragraf 48 BAföG ab.
 Lieferstück: geprüftes Übergabepaket zu BAföG mit Eingangsstand, maßgeblicher Fassung, Qualitätsnachweis, Fehlteilliste, Freigabe und Öffnungsprobe.
 
-### 16.8. Bürgergeld / Jobcenter
+### 16.7. Ausländerbehörde
 
-Bearbeitungsauftrag: Juli 2026 sieht Paragraf 31a SGB II grundsätzlich 30 Prozent vor; Paragraf 31a Absatz 7 enthält für die willentliche Nichtaufnahme einer tatsächlich und unmittelbar möglichen zumutbaren Arbeit eine engere Sonderfolge. KdU: Angemessenheit nach schlüssigem Konzept der Kommune; bei Aufforderung zu Umzug strenge Anforderungen, Karenzzeit Paragraf 22 Absatz 1 Satz 2 SGB II beachten. Aufhebung/Erstattung: Paragrafen 45, 48 SGB X iVm Paragraf 40 SGB II.
-Prüfschritte: Rechtsgrundlagen: Paragrafen 19 und folgende SGB II (Regelbedarf), Paragraf 22 SGB II (Kosten der Unterkunft und Heizung), Paragrafen 31 und folgende SGB II (Leistungsminderung), Paragraf 60 SGB I (Mitwirkungspflicht).
-Norm- oder Entscheidungsbezug aus dem Fachmaterial: Rechtsgrundlagen: Paragrafen 19 und folgende SGB II (Regelbedarf), Paragraf 22 SGB II (Kosten der Unterkunft und Heizung), Paragrafen 31 und folgende SGB II (Leistungsminderung), Paragraf 60 SGB I (Mitwirkungspflicht).
-Lieferstück: geprüftes Übergabepaket zu Bürgergeld / Jobcenter mit Eingangsstand, maßgeblicher Fassung, Qualitätsnachweis, Fehlteilliste, Freigabe und Öffnungsprobe.
+Bearbeitungsauftrag: Rechtsgrundlagen: AufenthG (Visum Paragraf 6, Aufenthaltserlaubnis Paragrafen 7, 16 und folgende , 18 und folgende , 28; Niederlassungserlaubnis Paragraf 9; Daueraufenthalt-EU Paragraf 9a), AufenthV, FreizügG/EU für Unionsbürger, AsylG für Schutzsuchende. Nebenbestimmungen (Paragraf 12 AufenthG): Erwerbstätigkeit, Wohnsitz, räumliche Beschränkung; sehr wichtig, bevor Arbeitsverhältnis begonnen wird — Paragraf 4a Absatz 5 AufenthG verbietet sonst Beschäftigung mit Bußgeld/Strafbarkeit.
+Normbezug aus dem Fachmaterial: Rechtsgrundlagen: AufenthG (Visum Paragraf 6, Aufenthaltserlaubnis Paragrafen 7, 16 und folgende , 18 und folgende , 28; Niederlassungserlaubnis Paragraf 9; Daueraufenthalt-EU Paragraf 9a), AufenthV, FreizügG/EU für Unionsbürger, AsylG für Schutzsuchende.
+Lieferstück: geprüftes Übergabepaket zu Ausländerbehörde mit Eingangsstand, maßgeblicher Fassung, Qualitätsnachweis, Fehlteilliste, Freigabe und Öffnungsprobe.
 
-### 16.9. Ermessen verstehen
+### 16.8. Ermessen verstehen
 
 Bearbeitungsauftrag: VwVfG Paragraf 40 Ermessen, "entsprechend dem Zweck der Ermächtigung, in den gesetzlichen Grenzen". VwGO Paragraf 114 gerichtliche Überprüfung nur eingeschränkt. VwVfG Paragraf 39 Begründungspflicht; Paragraf 39 Absatz 1 S. 3 Ermessensgründe.
 Prüfschritte: Viele behördliche Entscheidungen liegen nicht in der gebundenen Anwendung der Norm, sondern im Ermessen der Behörde (Kennzeichen: "kann", "soll", "kann anordnen"); Ermessen erlaubt Spielraum — verlangt aber Prüfung der Belange und Begründung; Wer Ermessen versteht, kann gezielt argumentieren; Steht im Gesetz "kann" oder "soll" (= Ermessen); Welche Belange muss die Behörde abwägen.
 Lieferstück: geprüftes Übergabepaket zu Ermessen verstehen mit Eingangsstand, maßgeblicher Fassung, Qualitätsnachweis, Fehlteilliste, Freigabe und Öffnungsprobe.
 
-### 16.10. IFG/UIG/VIG-Anfrage
+### 16.9. IFG/UIG/VIG-Anfrage
 
 Bearbeitungsauftrag: I S. 2722; daneben Landes-IFG, NRW IFG/VIG, Berlin-IFG etc., UIG (Umweltinformationsgesetz iVm UI-RL 2003/4/EG), VIG. zwei bei Umfang (Paragraf 3 Absatz 3 UIG), VIG einen Monat (Paragraf 5 Absatz 2 VIG); Untätigkeit nach drei Monaten ermöglicht Klage (Paragraf 75 VwGO). Anhörung des Dritten zwingend (Paragraf 8 IFG, Paragraf 9 UIG, Paragraf 5 VIG).
 Prüfschritte: Drei getrennte Regime: IFG (Bundes-IFG vom 5.9.2005, BGBl; daneben Landes-IFG, NRW IFG/VIG, Berlin-IFG etc.), UIG (Umweltinformationsgesetz iVm UI-RL 2003/4/EG), VIG.
 Lieferstück: geprüftes Übergabepaket zu IFG/UIG/VIG-Anfrage mit Eingangsstand, maßgeblicher Fassung, Qualitätsnachweis, Fehlteilliste, Freigabe und Öffnungsprobe.
+
+### 16.10. Bürgergeld / Jobcenter
+
+Bearbeitungsauftrag: Juli 2026 sieht Paragraf 31a SGB II grundsätzlich 30 Prozent vor; Paragraf 31a Absatz 7 enthält für die willentliche Nichtaufnahme einer tatsächlich und unmittelbar möglichen zumutbaren Arbeit eine engere Sonderfolge. KdU: Angemessenheit nach schlüssigem Konzept der Kommune; bei Aufforderung zu Umzug strenge Anforderungen, Karenzzeit Paragraf 22 Absatz 1 Satz 2 SGB II beachten. Aufhebung/Erstattung: Paragrafen 45, 48 SGB X iVm Paragraf 40 SGB II.
+Lieferstück: geprüftes Übergabepaket zu Bürgergeld / Jobcenter mit Eingangsstand, maßgeblicher Fassung, Qualitätsnachweis, Fehlteilliste, Freigabe und Öffnungsprobe.
 
 ### 16.11. Frist Sofortcheck
 
@@ -266,5 +263,5 @@ Lieferstück: gewichtete Prüfmatrix mit Tatbestandsmerkmalen, Fundstellen, Gege
 
 Bearbeitungsauftrag: Verzögerung: Untätigkeitsklage nach drei Monaten (Paragraf 75 VwGO).
 Prüfschritte: Rechtsgrundlagen: Paragraf 10 StAG (Anspruchseinbürgerung), Paragraf 8 StAG (Ermessenseinbürgerung), Paragraf 9 StAG (Ehegatten); Seit Reform 2024 (Inkrafttreten 27.6.2024): Mindestaufenthalt fünf statt acht Jahre, drei Jahre bei besonderer Integration (Paragraf 10 Absatz 3 StAG); Mehrstaatigkeit grundsätzlich zugelassen (Streichung Paragraf 12 StAG aF); Voraussetzungen: gesicherter Lebensunterhalt ohne Sozialleistungsbezug.
-Norm- oder Entscheidungsbezug aus dem Fachmaterial: Rechtsgrundlagen: Paragraf 10 StAG (Anspruchseinbürgerung), Paragraf 8 StAG (Ermessenseinbürgerung), Paragraf 9 StAG (Ehegatten); Rechtsgrundlagen: Paragraf 10 StAG (Anspruchseinbürgerung), Paragraf 8 StAG (Ermessenseinbürgerung), Paragraf 9 StAG (Ehegatten).
+Normbezug aus dem Fachmaterial: Rechtsgrundlagen: Paragraf 10 StAG (Anspruchseinbürgerung), Paragraf 8 StAG (Ermessenseinbürgerung), Paragraf 9 StAG (Ehegatten).
 Lieferstück: geprüftes Übergabepaket zu Einbürgerung mit Eingangsstand, maßgeblicher Fassung, Qualitätsnachweis, Fehlteilliste, Freigabe und Öffnungsprobe.

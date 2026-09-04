@@ -230,7 +230,7 @@ Lieferstück: versandfertiges Schreiben mit Betreff, Sachverhaltskern, Rechtsgru
 ### 16.6. Datenbankherstellerrecht gegen Ex-Mitarbeiter — Datenexport und Wettbewerbsverbot
 
 Bearbeitungsauftrag: Datenbankherstellerrecht und arbeitsrechtliche Ansprüche gegen ausscheidende Mitarbeiter: Paragraf 87b UrhG bei Datenexport, GeschGehG Paragraf 4 bei Geheimnisverrat, nachvertragliches Wettbewerbsverbot (Paragraf 74 HGB), Herausgabe- und Unterlassungsansprüche sowie Kündigung und Schadensersatz. Vertriebsleiter hat beim Ausscheiden den vollständigen Datenbankexport aller Kundendaten mitgenommen und arbeitet nun beim direkten Wettbewerber.
-Norm- oder Entscheidungsbezug aus dem Fachmaterial: Datenbankherstellerrecht und arbeitsrechtliche Ansprüche gegen ausscheidende Mitarbeiter: Paragraf 87b UrhG bei Datenexport, GeschGehG Paragraf 4 bei Geheimnisverrat, nachvertragliches Wettbewerbsverbot (Paragraf 74 HGB), Herausgabe- und Unterlassungsansprüche sowie Kündigung.
+Normbezug aus dem Fachmaterial: Datenbankherstellerrecht und arbeitsrechtliche Ansprüche gegen ausscheidende Mitarbeiter: Paragraf 87b UrhG bei Datenexport, GeschGehG Paragraf 4 bei Geheimnisverrat, nachvertragliches Wettbewerbsverbot (Paragraf 74 HGB), Herausgabe- und Unterlassungsansprüche sowie Kündigung.
 Lieferstück: Fachvotum zu Datenbankherstellerrecht gegen Ex-Mitarbeiter — Datenexport und Wettbewerbsverbot mit Tatbestandsmerkmalen, Aktenfundstellen, Beweislast, stärkster Gegenposition, Risiko und ausformulierter Rechtsfolge.
 
 ### 16.7. API-Nutzung, Rate-Limits und Vertragsbruch im Datenbankrecht
@@ -260,11 +260,11 @@ Lieferstück: Fachvotum zu Datenbankrecht für Agrar- und Sensordaten — Präzi
 ### 16.11. Data Act und Zugang zu IoT-Daten — Verhältnis zum Datenbankherstellerrecht
 
 Bearbeitungsauftrag: Data Act (EU-VO 2023/2854) und Zugang zu IoT-Daten im Verhältnis zum Datenbankherstellerrecht: Artikel 4-8 Data Act (Nutzerzugangsrechte), Artikel 17 (Wechselrecht Cloud), Verhältnis zu Paragrafen 87a-87e UrhG, Betriebs- und Geschäftsgeheimnisschutz als Grenze und Datenschutz-Grundverordnung-Schnittmenge. Maschinenbauer (IoT-Gerätehersteller) fragt, welche Datenzugangspflichten der Data Act für seine Sensordaten begründet und ob das Datenbankherstellerrecht dem entgegensteht.
-Norm- oder Entscheidungsbezug aus dem Fachmaterial: Data Act (EU-VO 2023/2854) und Zugang zu IoT-Daten im Verhältnis zum Datenbankherstellerrecht: Artikel 4-8 Data Act (Nutzerzugangsrechte), Artikel 17 (Wechselrecht Cloud), Verhältnis zu Paragrafen 87a-87e UrhG, Betriebs- und Geschäftsgeheimnisschutz als Grenze und Datenschutz-Grundverordnung-Schnittmenge.
+Normbezug aus dem Fachmaterial: Data Act (EU-VO 2023/2854) und Zugang zu IoT-Daten im Verhältnis zum Datenbankherstellerrecht: Artikel 4-8 Data Act (Nutzerzugangsrechte), Artikel 17 (Wechselrecht Cloud), Verhältnis zu Paragrafen 87a-87e UrhG, Betriebs- und Geschäftsgeheimnisschutz als Grenze und Datenschutz-Grundverordnung-Schnittmenge.
 Lieferstück: Fristenblatt zu Data Act und Zugang zu IoT-Daten — Verhältnis zum Datenbankherstellerrecht mit Auslöser, Beginn, Ende, Vorfrist, Beleg, Sofortmaßnahme und Verantwortlichem.
 
-### 16.12. Lizenzanalogie und Unterlassungsvertrag im Datenbankrecht
+### 16.12. Datenbankrecht in AGB-Klauseln — Inhaltskontrolle und Gestaltung
 
-Bearbeitungsauftrag: Lizenzanalogie und Unterlassungsvertragsgestaltung im Datenbankrecht: Berechnung der Lizenzanalogie nach Paragraf 97 Absatz 2 UrhG für Datenbankherstellerrechts-Verletzungen, Unterlassungsvertrags-Klauseln (Vertragsstrafe nach Paragraf 339 BGB) als Alternative zur Klage und Abgrenzung von Abschlusserklärung zu titulierter Unterlassung. Verletzer hat nach Abmahnung eine Unterlassungserklärung abgegeben — Datenbankbetreiber fragt, ob die Vertragsstrafe angemessen und vollstreckbar ist.
-Norm- oder Entscheidungsbezug aus dem Fachmaterial: Lizenzanalogie und Unterlassungsvertragsgestaltung im Datenbankrecht: Berechnung der Lizenzanalogie nach Paragraf 97 Absatz 2 UrhG für Datenbankherstellerrechts-Verletzungen, Unterlassungsvertrags-Klauseln (Vertragsstrafe nach Paragraf 339 BGB) als Alternative zur Klage.
+Bearbeitungsauftrag: Datenbankbetreiber überarbeitet seine AGB und will datenbankrechtsrelevante Klauseln (Nutzungsverbote, Auslesen-Verbot, TDM-Opt-out) rechtssicher formulieren. Anwalt soll bestehende AGB eines SaaS-Anbieters auf unwirksame Klauseln prüfen, die alle Datenbankrechte auf den Anbieter übertragen. Inhaltskontrolle nach Paragraf 307 BGB: Sind die Klauseln transparent (Verständlichkeitsgebot), klar und nicht unangemessen benachteiligend?
+Prüfschritte: Startup hat eine Abmahnung erhalten, weil seine AGB keine ausreichenden Auslesen-Verbote enthalten, und muss sie überarbeiten.
 Lieferstück: verhandlungsfähige Fassung mit Ausgangstext, Änderung, Begründung, Rückfallposition und Vollzugscheck.

@@ -79,7 +79,7 @@ Arbeitsgriff Arbeitsprodukt: Klagefreigabe, Mahnschreiben, Klageentwurf, Verglei
 | --- | --- | --- | --- |
 | Fallkern | KWG-Erlaubnispflicht Factoring nach Paragraf 1 Abs. 1a Satz 2 Nr. 9 KWG | BGB Paragraf 241 und Paragraf 280 | Sofortvermerk mit Ergebnisrichtung, Risiko und nächstem Schritt |
 | Zulässigkeit und Frist | Frist, Form, Zuständigkeit, Rolle und statthafter Weg | BGB Paragraf 286 und Paragraf 288 | Fristenblatt oder Prozess-/Verfahrensroute |
-| Begründetheit | Aufsichtsrechtliche Schnellampel KWG ZAG | BGB Paragraf 286 und Paragraf 288 | Tatbestandsmatrix mit Beleg und Gegenargument |
+| Begründetheit | BaFin Tatbestand Factoring laufender Forderungsankauf Rahmenvertrag | BGB Paragraf 286 und Paragraf 288 | Tatbestandsmatrix mit Beleg und Gegenargument |
 | Rechtsfolge | Mahnung, Klageentwurf, Mahnbescheid, Anspruchsmatrix, Vergleichsvorschlag oder Vollstreckungsauftrag | Gläubiger für Vertrag, Fälligkeit, Verzug und Belegkette; Schuldner für Erfüllung, Einwendung, Aufrechnung und Verjährung | Antrag, Entwurf, Entscheidungsvorschlag oder Mandantenbrief |
 
 ## 5. Normenanker, Tatbestandswichtigkeiten und Beweislast
@@ -144,7 +144,7 @@ Arbeitsgriff Arbeitsprodukt: Klagefreigabe, Mahnschreiben, Klageentwurf, Verglei
 10.5. Beweislast: Gläubiger für Vertrag, Fälligkeit, Verzug und Belegkette; Schuldner für Erfüllung, Einwendung, Aufrechnung und Verjährung. Zeige ausdrücklich, welche Folge ein offener Beweis hat.
 10.6. Gegenposition: Formuliere den stärksten ernsthaften Angriff; hier setzt die Gegenseite typischerweise bei welche Belege tragen Leistung, Rechnung, Zugang und Verzug an.
 10.7. Erwiderung: Antworte mit konkretem Gegenbeleg, Auslegung oder Beweislastregel und ziehe die Folge auf Mahnung, Klageentwurf, Mahnbescheid, Anspruchsmatrix, Vergleichsvorschlag oder Vollstreckungsauftrag; ein bloßes Bestreiten genügt nicht.
-10.8. Arbeitsprodukt: Schließe mit Antrag, Tenor, Klausel, Entscheidung oder nächstem Schritt; hier typischerweise Ausgabe entlang der Kernfelder KWG-Erlaubnispflicht Factoring nach Paragraf 1 Abs. 1a Satz 2 Nr. 9 KWG, Aufsichtsrechtliche Schnellampel KWG ZAG, BaFin Tatbestand Factoring laufender Forderungsankauf Rahmenvertrag, Debitorenkommunikation und Abtretungsanzeige: Kurzvermerk, Prüfmatrix, Entwurf, Fristenblatt oder Fragenliste.
+10.8. Arbeitsprodukt: Schließe mit Antrag, Tenor, Klausel, Entscheidung oder nächstem Schritt; hier typischerweise Ausgabe entlang der Kernfelder KWG-Erlaubnispflicht Factoring nach Paragraf 1 Abs. 1a Satz 2 Nr. 9 KWG, BaFin Tatbestand Factoring laufender Forderungsankauf Rahmenvertrag, Debitorenkommunikation und Abtretungsanzeige, AGB Kontrolle Factoringklauseln B2B: Kurzvermerk, Prüfmatrix, Entwurf, Fristenblatt oder Fragenliste.
 10.9. Quellenstatus: Ordne Rechtsprechung nach Tragweite ein; erste Fallanker sind BGH, Beschluss vom 28.02.2012 - VIII ZR 124/11; BGH, Urteil vom 04.05.2011 - VIII ZR 171/10.
 
 ## 11. Outputvarianten und Empfängerwunsch
@@ -180,14 +180,14 @@ Die Landkarte dient der schnellen Auswahl. Sie ersetzt nicht die darunter ausfor
 | Arbeitsfeld | Entscheidende Weiche | Erstes Lieferstück |
 | --- | --- | --- |
 | KWG-Erlaubnispflicht Factoring nach Paragraf 1 Abs. 1a Satz 2 Nr. 9 KWG | KWG Erlaubnispflicht Factoring Paragraf 1 Absatz 1a Satz 2 Nummer 9 KWG: prüft die einschlägigen Voraussetzungen, Dokumente, Risiken und Ausnahmen. | Fachvotum zu KWG-Erlaubnispflicht Factoring nach Paragraf 1 Abs. 1a Satz 2 Nr. 9 KWG mit Tatbestandsmerkmalen, Aktenfundstellen, Beweislast, stärkster Gegenposition, Risiko. |
-| Aufsichtsrechtliche Schnellampel KWG ZAG | Erzeuge eine konkrete Prüf- oder Entscheidungsmatrix mit Norm, Tatbestand, Beleg, Einwand, Risikoampel und nächstem Schritt; Anschluss-Skills nur bei echter Vertiefung nennen. | Kontrollvermerk zu Aufsichtsrechtliche Schnellampel KWG ZAG mit Pflicht, Ist-Nachweis, Abweichung, Risiko, Verantwortlichem, Frist und Freigabe |
 | BaFin Tatbestand Factoring laufender Forderungsankauf Rahmenvertrag | BaFin Tatbestand Factoring laufender Forderungsankauf Rahmenvertrag: prüft die einschlägigen Voraussetzungen, Dokumente, Risiken und Ausnahmen. | verhandlungsfähige Fassung mit Ausgangstext, Änderung, Begründung, Rückfallposition und Vollzugscheck |
 | Debitorenkommunikation und Abtretungsanzeige | Die Abtretungsanzeige ist der formale Akt, mit dem die Abtretung der Forderung dem Debitor mitgeteilt wird. | vollständige Einreichungs- oder Registervorlage mit Zuständigkeit, Pflichtfeldern, Nachweisen, Freigabe und Vollzugskontrolle |
+| AGB Kontrolle Factoringklauseln B2B | AGB Kontrolle Factoringklauseln B2B: prüft die einschlägigen Voraussetzungen, Dokumente, Risiken und Ausnahmen. | verhandlungsfähige Fassung mit Ausgangstext, Änderung, Begründung, Rückfallposition und Vollzugscheck |
+| Aufsichtsrechtliche Schnellampel KWG ZAG | Echtes/unechtes Factoring, Forderungsbestand, Abtretbarkeit, Einwendungen, Debitoreninformation, Insolvenzrisiko und Refinanzierung trennen. | Kontrollvermerk zu Aufsichtsrechtliche Schnellampel KWG ZAG mit Pflicht, Ist-Nachweis, Abweichung, Risiko, Verantwortlichem, Frist und Freigabe |
+| Bilanzierung True Sale Ausbuchung wirtschaftliches Risiko | Bilanzierung True Sale Ausbuchung wirtschaftliches Risiko: prüft die einschlägigen Voraussetzungen, Dokumente, Risiken und Ausnahmen. | Fachvotum zu Bilanzierung True Sale Ausbuchung wirtschaftliches Risiko mit Tatbestandsmerkmalen, Aktenfundstellen, Beweislast, stärkster Gegenposition, Risiko und ausformulierter. |
 | Debitorenschutz Einwendungen Paragraf 404 BGB Aufrechnung Paragraf 406 BGB | Debitorenschutz Einwendungen Paragraf 404 BGB Aufrechnung Paragraf 406 BGB: prüft die einschlägigen Voraussetzungen, Dokumente, Risiken und Ausnahmen. | Fachvotum zu Debitorenschutz Einwendungen Paragraf 404 BGB Aufrechnung Paragraf 406 BGB mit Tatbestandsmerkmalen, Aktenfundstellen, Beweislast, stärkster Gegenposition, Risiko. |
 | Abtretbarkeit Forderungen Paragraf 398 BGB und Abtretungsverbote | Abtretbarkeit Forderungen Paragraf 398 BGB und Abtretungsverbote: prüft die einschlägigen Voraussetzungen, Dokumente, Risiken und Ausnahmen. | Fachvotum zu Abtretbarkeit Forderungen Paragraf 398 BGB und Abtretungsverbote mit Tatbestandsmerkmalen, Aktenfundstellen, Beweislast, stärkster Gegenposition, Risiko. |
-| Abtretungsverbot Paragraf 354a HGB Handelsgeschäft | Abtretungsverbot Paragraf 354a HGB Handelsgeschäft: prüft die einschlägigen Voraussetzungen, Dokumente, Risiken und Ausnahmen. | Fachvotum zu Abtretungsverbot Paragraf 354a HGB Handelsgeschäft mit Tatbestandsmerkmalen, Aktenfundstellen, Beweislast, stärkster Gegenposition, Risiko und ausformulierter. |
-| AGB Kontrolle Factoringklauseln B2B | AGB Kontrolle Factoringklauseln B2B: prüft die einschlägigen Voraussetzungen, Dokumente, Risiken und Ausnahmen. | verhandlungsfähige Fassung mit Ausgangstext, Änderung, Begründung, Rückfallposition und Vollzugscheck |
-| Inkasso RDG Abgrenzung Forderungsmanagement | Inkasso RDG Abgrenzung Forderungsmanagement: prüft die einschlägigen Voraussetzungen, Dokumente, Risiken und Ausnahmen. | Fachvotum zu Inkasso RDG Abgrenzung Forderungsmanagement mit Tatbestandsmerkmalen, Aktenfundstellen, Beweislast, stärkster Gegenposition, Risiko und ausformulierter Rechtsfolge |
+| Auditrechte Stichproben Forderungsprüfung | Auditrechte Stichproben Forderungsprüfung: prüft die einschlägigen Voraussetzungen, Dokumente, Risiken und Ausnahmen. | gewichtete Prüfmatrix mit Tatbestandsmerkmalen, Fundstellen, Gegenposition, Beweislast, Risiko und Empfehlung |
 
 ## 16. Fachspezifische Praxisrouten
 
@@ -196,63 +196,62 @@ Diese Routen stammen aus den konkreten Arbeitsthemen dieses Plugins. Wähle die 
 ### 16.1. KWG-Erlaubnispflicht Factoring nach Paragraf 1 Abs. 1a Satz 2 Nr. 9 KWG
 
 Bearbeitungsauftrag: KWG Erlaubnispflicht Factoring Paragraf 1 Absatz 1a Satz 2 Nummer 9 KWG: prüft die einschlägigen Voraussetzungen, Dokumente, Risiken und Ausnahmen. Prüfe, ob ein Factoring-Geschäftsmodell unter die Erlaubnispflicht nach Paragraf 1 Absatz 1a Satz 2 Nummer 9 KWG fällt. Zentrale Fragen sind: Liegt echtes oder unechtes Factoring vor?
-Norm- oder Entscheidungsbezug aus dem Fachmaterial: KWG Erlaubnispflicht Factoring Paragraf 1 Absatz 1a Satz 2 Nummer 9 KWG: prüft die einschlägigen Voraussetzungen, Dokumente, Risiken und Ausnahmen.
+Normbezug aus dem Fachmaterial: KWG Erlaubnispflicht Factoring Paragraf 1 Absatz 1a Satz 2 Nummer 9 KWG: prüft die einschlägigen Voraussetzungen, Dokumente, Risiken und Ausnahmen.
 Lieferstück: Fachvotum zu KWG-Erlaubnispflicht Factoring nach Paragraf 1 Abs. 1a Satz 2 Nr. 9 KWG mit Tatbestandsmerkmalen, Aktenfundstellen, Beweislast, stärkster Gegenposition, Risiko und ausformulierter Rechtsfolge.
 
-### 16.2. Aufsichtsrechtliche Schnellampel KWG ZAG
+### 16.2. BaFin Tatbestand Factoring laufender Forderungsankauf Rahmenvertrag
 
-Bearbeitungsauftrag: Erzeuge eine konkrete Prüf- oder Entscheidungsmatrix mit Norm, Tatbestand, Beleg, Einwand, Risikoampel und nächstem Schritt; Anschluss-Skills nur bei echter Vertiefung nennen. Im Factoring lauert die aufsichtsrechtliche Frage als ständige Hintergrundsorge: Greift das KWG mit Erlaubnispflicht (Paragraf 32 KWG, Finanzdienstleistungsinstitut)?
-Lieferstück: Kontrollvermerk zu Aufsichtsrechtliche Schnellampel KWG ZAG mit Pflicht, Ist-Nachweis, Abweichung, Risiko, Verantwortlichem, Frist und Freigabe.
-
-### 16.3. BaFin Tatbestand Factoring laufender Forderungsankauf Rahmenvertrag
-
-Bearbeitungsauftrag: BaFin Tatbestand Factoring laufender Forderungsankauf Rahmenvertrag: prüft die einschlägigen Voraussetzungen, Dokumente, Risiken und Ausnahmen. Erzeuge eine konkrete Prüf- oder Entscheidungsmatrix mit Norm, Tatbestand, Beleg, Einwand, Risikoampel und nächstem Schritt; Anschluss-Skills nur bei echter Vertiefung nennen. Der Tatbestand des Factorings in Paragraf 1 Absatz 1a Satz 2 Nummer 9 KWG ist auf drei Tragesäulen aufgebaut.
+Bearbeitungsauftrag: BaFin Tatbestand Factoring laufender Forderungsankauf Rahmenvertrag: prüft die einschlägigen Voraussetzungen, Dokumente, Risiken und Ausnahmen. Echtes/unechtes Factoring, Forderungsbestand, Abtretbarkeit, Einwendungen, Debitoreninformation, Insolvenzrisiko und Refinanzierung trennen. Der Tatbestand des Factorings in Paragraf 1 Absatz 1a Satz 2 Nummer 9 KWG ist auf drei Tragesäulen aufgebaut.
 Lieferstück: verhandlungsfähige Fassung mit Ausgangstext, Änderung, Begründung, Rückfallposition und Vollzugscheck.
 
-### 16.4. Debitorenkommunikation und Abtretungsanzeige
+### 16.3. Debitorenkommunikation und Abtretungsanzeige
 
 Bearbeitungsauftrag: Die Abtretungsanzeige ist der formale Akt, mit dem die Abtretung der Forderung dem Debitor mitgeteilt wird. Sie verändert den Schuldnerschutz: Vor Anzeige darf der Debitor nach Paragraf 407 BGB an den Altgläubiger zahlen mit befreiender Wirkung; nach Anzeige nur noch an den Neugläubiger (Paragraf 409 BGB). Die Anzeige ist nicht zwingend für die Wirksamkeit der Abtretung, aber für die operative Umlenkung der Zahlungen.
 Lieferstück: vollständige Einreichungs- oder Registervorlage mit Zuständigkeit, Pflichtfeldern, Nachweisen, Freigabe und Vollzugskontrolle.
 
-### 16.5. Debitorenschutz Einwendungen Paragraf 404 BGB Aufrechnung Paragraf 406 BGB
-
-Bearbeitungsauftrag: Debitorenschutz Einwendungen Paragraf 404 BGB Aufrechnung Paragraf 406 BGB: prüft die einschlägigen Voraussetzungen, Dokumente, Risiken und Ausnahmen. Echtes/unechtes Factoring, Forderungsbestand, Abtretbarkeit, Einwendungen, Debitoreninformation, Insolvenzrisiko und Refinanzierung trennen. Erzeuge eine konkrete Prüf- oder Entscheidungsmatrix mit Norm, Tatbestand, Beleg, Einwand, Risikoampel und nächstem Schritt; Anschluss-Skills nur bei echter Vertiefung nennen.
-Norm- oder Entscheidungsbezug aus dem Fachmaterial: Debitorenschutz Einwendungen Paragraf 404 BGB Aufrechnung Paragraf 406 BGB: prüft die einschlägigen Voraussetzungen, Dokumente, Risiken und Ausnahmen.
-Lieferstück: Fachvotum zu Debitorenschutz Einwendungen Paragraf 404 BGB Aufrechnung Paragraf 406 BGB mit Tatbestandsmerkmalen, Aktenfundstellen, Beweislast, stärkster Gegenposition, Risiko und ausformulierter Rechtsfolge.
-
-### 16.6. Abtretbarkeit Forderungen Paragraf 398 BGB und Abtretungsverbote
-
-Bearbeitungsauftrag: Abtretbarkeit Forderungen Paragraf 398 BGB und Abtretungsverbote: prüft die einschlägigen Voraussetzungen, Dokumente, Risiken und Ausnahmen. Echtes/unechtes Factoring, Forderungsbestand, Abtretbarkeit, Einwendungen, Debitoreninformation, Insolvenzrisiko und Refinanzierung trennen. Erzeuge eine konkrete Prüf- oder Entscheidungsmatrix mit Norm, Tatbestand, Beleg, Einwand, Risikoampel und nächstem Schritt; Anschluss-Skills nur bei echter Vertiefung nennen.
-Norm- oder Entscheidungsbezug aus dem Fachmaterial: Abtretbarkeit Forderungen Paragraf 398 BGB und Abtretungsverbote: prüft die einschlägigen Voraussetzungen, Dokumente, Risiken und Ausnahmen.
-Lieferstück: Fachvotum zu Abtretbarkeit Forderungen Paragraf 398 BGB und Abtretungsverbote mit Tatbestandsmerkmalen, Aktenfundstellen, Beweislast, stärkster Gegenposition, Risiko und ausformulierter Rechtsfolge.
-
-### 16.7. Abtretungsverbot Paragraf 354a HGB Handelsgeschäft
-
-Bearbeitungsauftrag: Abtretungsverbot Paragraf 354a HGB Handelsgeschäft: prüft die einschlägigen Voraussetzungen, Dokumente, Risiken und Ausnahmen. Echtes/unechtes Factoring, Forderungsbestand, Abtretbarkeit, Einwendungen, Debitoreninformation, Insolvenzrisiko und Refinanzierung trennen. Erzeuge eine konkrete Prüf- oder Entscheidungsmatrix mit Norm, Tatbestand, Beleg, Einwand, Risikoampel und nächstem Schritt; Anschluss-Skills nur bei echter Vertiefung nennen.
-Norm- oder Entscheidungsbezug aus dem Fachmaterial: Abtretungsverbot Paragraf 354a HGB Handelsgeschäft: prüft die einschlägigen Voraussetzungen, Dokumente, Risiken und Ausnahmen.
-Lieferstück: Fachvotum zu Abtretungsverbot Paragraf 354a HGB Handelsgeschäft mit Tatbestandsmerkmalen, Aktenfundstellen, Beweislast, stärkster Gegenposition, Risiko und ausformulierter Rechtsfolge.
-
-### 16.8. AGB Kontrolle Factoringklauseln B2B
+### 16.4. AGB Kontrolle Factoringklauseln B2B
 
 Bearbeitungsauftrag: AGB Kontrolle Factoringklauseln B2B: prüft die einschlägigen Voraussetzungen, Dokumente, Risiken und Ausnahmen. Damit unterliegen sie der AGB-Kontrolle nach Paragrafen 305 und folgende Auch im B2B-Verhältnis gelten die Inhaltskontrollen der Paragrafen 307 BGB – die Klauselverbote der Paragrafen 308 und 309 BGB greifen nicht direkt, sind aber als Indikatoren für die Unangemessenheit im Rahmen des Paragraf 307 BGB heranzuziehen.
 Lieferstück: verhandlungsfähige Fassung mit Ausgangstext, Änderung, Begründung, Rückfallposition und Vollzugscheck.
 
-### 16.9. Inkasso RDG Abgrenzung Forderungsmanagement
+### 16.5. Aufsichtsrechtliche Schnellampel KWG ZAG
 
-Bearbeitungsauftrag: Inkasso RDG Abgrenzung Forderungsmanagement: prüft die einschlägigen Voraussetzungen, Dokumente, Risiken und Ausnahmen. Echtes/unechtes Factoring, Forderungsbestand, Abtretbarkeit, Einwendungen, Debitoreninformation, Insolvenzrisiko und Refinanzierung trennen. Erzeuge eine konkrete Prüf- oder Entscheidungsmatrix mit Norm, Tatbestand, Beleg, Einwand, Risikoampel und nächstem Schritt; Anschluss-Skills nur bei echter Vertiefung nennen.
-Lieferstück: Fachvotum zu Inkasso RDG Abgrenzung Forderungsmanagement mit Tatbestandsmerkmalen, Aktenfundstellen, Beweislast, stärkster Gegenposition, Risiko und ausformulierter Rechtsfolge.
+Bearbeitungsauftrag: Echtes/unechtes Factoring, Forderungsbestand, Abtretbarkeit, Einwendungen, Debitoreninformation, Insolvenzrisiko und Refinanzierung trennen. Im Factoring lauert die aufsichtsrechtliche Frage als ständige Hintergrundsorge: Greift das KWG mit Erlaubnispflicht (Paragraf 32 KWG, Finanzdienstleistungsinstitut)?
+Lieferstück: Kontrollvermerk zu Aufsichtsrechtliche Schnellampel KWG ZAG mit Pflicht, Ist-Nachweis, Abweichung, Risiko, Verantwortlichem, Frist und Freigabe.
 
-### 16.10. KYC GwG Factoringinstitut wirtschaftlich Berechtigte
+### 16.6. Bilanzierung True Sale Ausbuchung wirtschaftliches Risiko
 
-Bearbeitungsauftrag: KYC GwG Factoringinstitut wirtschaftlich Berechtigte: prüft die einschlägigen Voraussetzungen, Dokumente, Risiken und Ausnahmen. Echtes/unechtes Factoring, Forderungsbestand, Abtretbarkeit, Einwendungen, Debitoreninformation, Insolvenzrisiko und Refinanzierung trennen. Erzeuge eine konkrete Prüf- oder Entscheidungsmatrix mit Norm, Tatbestand, Beleg, Einwand, Risikoampel und nächstem Schritt; Anschluss-Skills nur bei echter Vertiefung nennen.
-Lieferstück: Fachvotum zu KYC GwG Factoringinstitut wirtschaftlich Berechtigte mit Tatbestandsmerkmalen, Aktenfundstellen, Beweislast, stärkster Gegenposition, Risiko und ausformulierter Rechtsfolge.
+Bearbeitungsauftrag: Bilanzierung True Sale Ausbuchung wirtschaftliches Risiko: prüft die einschlägigen Voraussetzungen, Dokumente, Risiken und Ausnahmen. Echtes/unechtes Factoring, Forderungsbestand, Abtretbarkeit, Einwendungen, Debitoreninformation, Insolvenzrisiko und Refinanzierung trennen. Für den Factoringkunden ist die bilanzielle Ausbuchung der Forderung (Off-Balance) oft das eigentliche Geschäftsziel.
+Lieferstück: Fachvotum zu Bilanzierung True Sale Ausbuchung wirtschaftliches Risiko mit Tatbestandsmerkmalen, Aktenfundstellen, Beweislast, stärkster Gegenposition, Risiko und ausformulierter Rechtsfolge.
 
-### 16.11. Auditrechte Stichproben Forderungsprüfung
+### 16.7. Debitorenschutz Einwendungen Paragraf 404 BGB Aufrechnung Paragraf 406 BGB
 
-Bearbeitungsauftrag: Auditrechte Stichproben Forderungsprüfung: prüft die einschlägigen Voraussetzungen, Dokumente, Risiken und Ausnahmen. Erzeuge eine konkrete Prüf- oder Entscheidungsmatrix mit Norm, Tatbestand, Beleg, Einwand, Risikoampel und nächstem Schritt; Anschluss-Skills nur bei echter Vertiefung nennen. Der Factor kauft Forderungen, ohne sie einzeln im Ankaufzeitpunkt vollständig prüfen zu können.
+Bearbeitungsauftrag: Debitorenschutz Einwendungen Paragraf 404 BGB Aufrechnung Paragraf 406 BGB: prüft die einschlägigen Voraussetzungen, Dokumente, Risiken und Ausnahmen. Echtes/unechtes Factoring, Forderungsbestand, Abtretbarkeit, Einwendungen, Debitoreninformation, Insolvenzrisiko und Refinanzierung trennen.
+Normbezug aus dem Fachmaterial: Debitorenschutz Einwendungen Paragraf 404 BGB Aufrechnung Paragraf 406 BGB: prüft die einschlägigen Voraussetzungen, Dokumente, Risiken und Ausnahmen.
+Lieferstück: Fachvotum zu Debitorenschutz Einwendungen Paragraf 404 BGB Aufrechnung Paragraf 406 BGB mit Tatbestandsmerkmalen, Aktenfundstellen, Beweislast, stärkster Gegenposition, Risiko und ausformulierter Rechtsfolge.
+
+### 16.8. Abtretbarkeit Forderungen Paragraf 398 BGB und Abtretungsverbote
+
+Bearbeitungsauftrag: Abtretbarkeit Forderungen Paragraf 398 BGB und Abtretungsverbote: prüft die einschlägigen Voraussetzungen, Dokumente, Risiken und Ausnahmen. Echtes/unechtes Factoring, Forderungsbestand, Abtretbarkeit, Einwendungen, Debitoreninformation, Insolvenzrisiko und Refinanzierung trennen.
+Normbezug aus dem Fachmaterial: Abtretbarkeit Forderungen Paragraf 398 BGB und Abtretungsverbote: prüft die einschlägigen Voraussetzungen, Dokumente, Risiken und Ausnahmen.
+Lieferstück: Fachvotum zu Abtretbarkeit Forderungen Paragraf 398 BGB und Abtretungsverbote mit Tatbestandsmerkmalen, Aktenfundstellen, Beweislast, stärkster Gegenposition, Risiko und ausformulierter Rechtsfolge.
+
+### 16.9. Auditrechte Stichproben Forderungsprüfung
+
+Bearbeitungsauftrag: Auditrechte Stichproben Forderungsprüfung: prüft die einschlägigen Voraussetzungen, Dokumente, Risiken und Ausnahmen. Echtes/unechtes Factoring, Forderungsbestand, Abtretbarkeit, Einwendungen, Debitoreninformation, Insolvenzrisiko und Refinanzierung trennen. Der Factor kauft Forderungen, ohne sie einzeln im Ankaufzeitpunkt vollständig prüfen zu können.
 Lieferstück: gewichtete Prüfmatrix mit Tatbestandsmerkmalen, Fundstellen, Gegenposition, Beweislast, Risiko und Empfehlung.
 
-### 16.12. Auslandsfactoring Import Export Two-Factor-System
+### 16.10. Debitorenbrief höflich aber rechtssicher
 
-Bearbeitungsauftrag: Auslandsfactoring Import Export Two-Factor-System: prüft die einschlägigen Voraussetzungen, Dokumente, Risiken und Ausnahmen. Echtes/unechtes Factoring, Forderungsbestand, Abtretbarkeit, Einwendungen, Debitoreninformation, Insolvenzrisiko und Refinanzierung trennen. Erzeuge eine konkrete Prüf- oder Entscheidungsmatrix mit Norm, Tatbestand, Beleg, Einwand, Risikoampel und nächstem Schritt; Anschluss-Skills nur bei echter Vertiefung nennen.
-Lieferstück: Fachvotum zu Auslandsfactoring Import Export Two-Factor-System mit Tatbestandsmerkmalen, Aktenfundstellen, Beweislast, stärkster Gegenposition, Risiko und ausformulierter Rechtsfolge.
+Bearbeitungsauftrag: Debitorenbrief höflich aber rechtssicher: prüft die einschlägigen Voraussetzungen, Dokumente, Risiken und Ausnahmen. Echtes/unechtes Factoring, Forderungsbestand, Abtretbarkeit, Einwendungen, Debitoreninformation, Insolvenzrisiko und Refinanzierung trennen. Der erste Brief, den ein Debitor vom Factor erhält, prägt die gesamte Folgekommunikation.
+Lieferstück: Fachvotum zu Debitorenbrief höflich aber rechtssicher mit Tatbestandsmerkmalen, Aktenfundstellen, Beweislast, stärkster Gegenposition, Risiko und ausformulierter Rechtsfolge.
+
+### 16.11. Drittschuldneranzeige und stille Zession
+
+Bearbeitungsauftrag: Drittschuldneranzeige und stille Zession: prüft die einschlägigen Voraussetzungen, Dokumente, Risiken und Ausnahmen. Echtes/unechtes Factoring, Forderungsbestand, Abtretbarkeit, Einwendungen, Debitoreninformation, Insolvenzrisiko und Refinanzierung trennen. Eine stille Zession ist eine Forderungsabtretung, von der der Drittschuldner (Debitor) nichts weiß.
+Lieferstück: vollständige Einreichungs- oder Registervorlage mit Zuständigkeit, Pflichtfeldern, Nachweisen, Freigabe und Vollzugskontrolle.
+
+### 16.12. Echtes und unechtes Factoring Risikoverteilung
+
+Bearbeitungsauftrag: Echtes und unechtes Factoring Risikoverteilung: prüft die einschlägigen Voraussetzungen, Dokumente, Risiken und Ausnahmen. Echtes/unechtes Factoring, Forderungsbestand, Abtretbarkeit, Einwendungen, Debitoreninformation, Insolvenzrisiko und Refinanzierung trennen. Die wichtigste Grundunterscheidung des Factoringrechts: echtes Factoring versus unechtes Factoring.
+Lieferstück: Fachvotum zu Echtes und unechtes Factoring Risikoverteilung mit Tatbestandsmerkmalen, Aktenfundstellen, Beweislast, stärkster Gegenposition, Risiko und ausformulierter Rechtsfolge.

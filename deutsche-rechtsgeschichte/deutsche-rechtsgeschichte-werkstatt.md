@@ -187,7 +187,7 @@ Lieferstück: quellenkritische Darstellung mit Textzeuge, Fassung, Übersetzung,
 ### 16.2. Schuldrecht und Vertragsfreiheit
 
 Bearbeitungsauftrag: Das BGB-Schuldrecht 1900 (Buch II, Paragrafen 241-853) war Ausdruck der liberalen Vertragsfreiheit: Parteien können im Rahmen des Gesetzes jeden Inhalt vereinbaren (Paragraf 311 Absatz 1 BGB). Einschränkungen: Sittenwidrigkeit (Paragraf 138 BGB), Treu und Glauben (Paragraf 242 BGB). I 2001, 3138 integrierte AGB-Recht ins BGB, schuf Paragraf 433 Absatz 1 S. 2 (Mangelfreiheit), neues Verjährungs- und Leistungsstörungsrecht.
-Norm- oder Entscheidungsbezug aus dem Fachmaterial: Das BGB-Schuldrecht 1900 (Buch II, Paragrafen 241-853) war Ausdruck der liberalen Vertragsfreiheit: Parteien können im Rahmen des Gesetzes jeden Inhalt vereinbaren (Paragraf 311 Absatz 1 BGB).
+Normbezug aus dem Fachmaterial: Das BGB-Schuldrecht 1900 (Buch II, Paragrafen 241-853) war Ausdruck der liberalen Vertragsfreiheit: Parteien können im Rahmen des Gesetzes jeden Inhalt vereinbaren (Paragraf 311 Absatz 1 BGB).
 Lieferstück: quellenkritische Darstellung mit Textzeuge, Fassung, Übersetzung, zeitgenössischer Funktion und heutiger Anschlussfrage.
 
 ### 16.3. Schweigespirale in Fakultäten und Justiz
@@ -216,7 +216,7 @@ Lieferstück: quellenkritische Darstellung mit Textzeuge, Fassung, Übersetzung,
 ### 16.7. Arbeitsrecht: von der Gewerbeordnung bis zum BetrVG
 
 Bearbeitungsauftrag: Das moderne Arbeitsrecht entstand schrittweise aus dem Gewerberecht. NDB 1869, 245 schaffte die Zunftverfassung ab und erkannte Koalitionsfreiheit an (Paragraf 152 GewO). Das NS-Regime schaffte Gewerkschaften 1933 ab und ersetzte sie durch die Deutsche Arbeitsfront.
-Norm- oder Entscheidungsbezug aus dem Fachmaterial: NDB 1869, 245 schaffte die Zunftverfassung ab und erkannte Koalitionsfreiheit an (Paragraf 152 GewO).
+Normbezug aus dem Fachmaterial: NDB 1869, 245 schaffte die Zunftverfassung ab und erkannte Koalitionsfreiheit an (Paragraf 152 GewO).
 Lieferstück: quellenkritische Darstellung mit Textzeuge, Fassung, Übersetzung, zeitgenössischer Funktion und heutiger Anschlussfrage.
 
 ### 16.8. Archivfund in heutige Argumentation

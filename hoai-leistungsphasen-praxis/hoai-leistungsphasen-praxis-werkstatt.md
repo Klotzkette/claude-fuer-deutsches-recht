@@ -79,7 +79,7 @@ Arbeitsgriff Arbeitsprodukt: Leistungsstandsmatrix, Honorarprüfung, Nachtragsan
 | --- | --- | --- | --- |
 | Fallkern | LPH 2 Vorplanung: Ordnet digitale modelle | BGB Paragraf 650p und Paragraf 650q | Sofortvermerk mit Ergebnisrichtung, Risiko und nächstem Schritt |
 | Zulässigkeit und Frist | Frist, Form, Zuständigkeit, Rolle und statthafter Weg | BGB Paragraf 650r und Paragraf 650s | Fristenblatt oder Prozess-/Verfahrensroute |
-| Begründetheit | HOAI Querschnitt | BGB Paragraf 650r und Paragraf 650s | Tatbestandsmatrix mit Beleg und Gegenargument |
+| Begründetheit | LPH 1 Grundlagenermittlung: Prüft bewertungsanteil | BGB Paragraf 650r und Paragraf 650s | Tatbestandsmatrix mit Beleg und Gegenargument |
 | Rechtsfolge | Leistungsstandsmatrix, Honorarblatt, Nachtragsangebot, Bedenkenhinweis, Mängelvermerk oder Projektbericht | Planer für beauftragte und erbrachte Leistung sowie Honorarparameter; Auftraggeber für Mangel, Änderungsanordnung, Zahlung und mitwirkungsbedingte Störung | Antrag, Entwurf, Entscheidungsvorschlag oder Mandantenbrief |
 
 ## 5. Normenanker, Tatbestandswichtigkeiten und Beweislast
@@ -183,10 +183,10 @@ Die Landkarte dient der schnellen Auswahl. Sie ersetzt nicht die darunter ausfor
 | Arbeitsfeld | Entscheidende Weiche | Erstes Lieferstück |
 | --- | --- | --- |
 | LPH 2 Vorplanung: Ordnet digitale modelle | Zuerst den Vertragsschluss datieren und die anwendbare HOAI-Fassung bestimmen. Altverträge nicht mit dem Preisrecht der HOAI 2021 prüfen. | Fachvotum zu LPH 2 Vorplanung: Ordnet digitale modelle mit Tatbestandsmerkmalen, Aktenfundstellen, Beweislast, stärkster Gegenposition, Risiko und ausformulierter Rechtsfolge |
-| HOAI Querschnitt | Altverträge nicht mit dem Preisrecht der HOAI 2021 prüfen. Für die HOAI 2021 gelten insbesondere Paragraf 4 für anrechenbare Kosten, Paragraf 5 für Honorarzonen, Paragraf 6 für die Honorarermittlung und Paragraf 7. | Fachvotum zu HOAI Querschnitt mit Tatbestandsmerkmalen, Aktenfundstellen, Beweislast, stärkster Gegenposition, Risiko und ausformulierter Rechtsfolge |
 | LPH 1 Grundlagenermittlung: Prüft bewertungsanteil | Zuerst den Vertragsschluss datieren und die anwendbare HOAI-Fassung bestimmen. Altverträge nicht mit dem Preisrecht der HOAI 2021 prüfen. | Fachvotum zu LPH 1 Grundlagenermittlung: Prüft bewertungsanteil mit Tatbestandsmerkmalen, Aktenfundstellen, Beweislast, stärkster Gegenposition, Risiko und ausformulierter. |
 | LPH 8 Objektüberwachung - Bauüberwachung und Dokumentation | Praktischer Kern: Baustellensteuerung, Qualitätskontrolle, Termin/Kosten, Rechnungsprüfung, Abnahme und Dokumentation. Altverträge nicht mit dem Preisrecht der HOAI 2021 prüfen. | Akten- und Belegmatrix zu LPH 8 Objektüberwachung - Bauüberwachung und Dokumentation mit Datum, Urheber, Fundstelle, Widerspruch, Fehlteil und nächstem Bearbeitungsschritt |
 | Baugrund, Altlasten und Untersuchungsbedarf | Anlage 10 HOAI LPH 1/2: Untersuchungsbedarf und Auswahl fachlich Beteiligter. Altverträge nicht mit dem Preisrecht der HOAI 2021 prüfen. | Fachvotum zu Baugrund, Altlasten und Untersuchungsbedarf mit Tatbestandsmerkmalen, Aktenfundstellen, Beweislast, stärkster Gegenposition, Risiko und ausformulierter Rechtsfolge |
+| HOAI Querschnitt | Altverträge nicht mit dem Preisrecht der HOAI 2021 prüfen. Für die HOAI 2021 gelten insbesondere Paragraf 4 für anrechenbare Kosten, Paragraf 5 für Honorarzonen, Paragraf 6 für die Honorarermittlung und Paragraf 7. | Fachvotum zu HOAI Querschnitt mit Tatbestandsmerkmalen, Aktenfundstellen, Beweislast, stärkster Gegenposition, Risiko und ausformulierter Rechtsfolge |
 | Anrechenbare Kosten, DIN 276 und Kostengruppen | Bearbeite Anrechenbare Kosten, DIN 276 und Kostengruppen: vertragsjahr, Leistungsbild, Leistungsphase, geschuldeter Erfolg, Leistungsstand, Honorar, Nachtrag und Haftungsbeleg trennen. | Fachvotum zu Anrechenbare Kosten, DIN 276 und Kostengruppen mit Tatbestandsmerkmalen, Aktenfundstellen, Beweislast, stärkster Gegenposition, Risiko und ausformulierter Rechtsfolge |
 | Fördermittel, Vergabebindung und Rückforderung | Droht Rückforderung wegen Dokumentations- oder Vergabefehler? Prüfe, ob Beratung, Nachweisführung oder Mittelabruf als besondere Leistung gesondert vereinbart werden müssen. | Fachvotum zu Fördermittel, Vergabebindung und Rückforderung mit Tatbestandsmerkmalen, Aktenfundstellen, Beweislast, stärkster Gegenposition, Risiko und ausformulierter Rechtsfolge |
 | Abnahmeprotokoll und Förder-ERP in der Bauüberwachung LPH 8 | Abnahmeprotokoll und ERP-Buchung sind dabei untrennbar verknüpft. Schule Energetische Sanierung KfW 55 Förderung: Abnahmeprotokoll mit Energieberater, Prüfzertifikat nach KfW-Merkblatt, Förderbetrag 1.2 Mio. | Fachvotum zu Abnahmeprotokoll und Förder-ERP in der Bauüberwachung LPH 8 mit Tatbestandsmerkmalen, Aktenfundstellen, Beweislast, stärkster Gegenposition, Risiko. |
@@ -202,34 +202,34 @@ Bearbeitungsauftrag: Zuerst den Vertragsschluss datieren und die anwendbare HOAI
 Prüfschritte: Fehlende Unterlagen und offene Entscheidungen; kurzer Textbaustein für Bauherr, Planer, Unternehmer oder Anwalt; Praktischer Kern: Grundlagen analysieren, Planungskonzept mit Alternativen, Kostenschätzung, Vorverhandlungen und Entscheidungsgrundlage; Bewertungsanker Gebäude/Innenräume: 7 %; Warnung: Nicht automatisch auf andere HOAI-Leistungsbilder übertragen.
 Lieferstück: Fachvotum zu LPH 2 Vorplanung: Ordnet digitale modelle mit Tatbestandsmerkmalen, Aktenfundstellen, Beweislast, stärkster Gegenposition, Risiko und ausformulierter Rechtsfolge.
 
-### 16.2. HOAI Querschnitt
-
-Bearbeitungsauftrag: Altverträge nicht mit dem Preisrecht der HOAI 2021 prüfen. Für die HOAI 2021 gelten insbesondere Paragraf 4 für anrechenbare Kosten, Paragraf 5 für Honorarzonen, Paragraf 6 für die Honorarermittlung und Paragraf 7 für die Honorarvereinbarung in Textform; ergänzend Paragrafen 8 bis 13 und das konkrete Leistungsbild samt Anlage prüfen. Architekten- und Ingenieurvertrag nach BGB Paragrafen 650p bis 650t, Vergütung und Abschläge ergänzend nach BGB Paragrafen 631, 632 und 632a prüfen.
-Prüfschritte: Konkreter Text- oder Tabellenbaustein; Zuerst den Vertragsschluss datieren und die anwendbare HOAI-Fassung bestimmen; Sie nur einbeziehen, wenn sie wirksam vereinbart und für eine konkrete Bauleistung oder Schnittstelle tatsächlich einschlägig ist.
-Lieferstück: Fachvotum zu HOAI Querschnitt mit Tatbestandsmerkmalen, Aktenfundstellen, Beweislast, stärkster Gegenposition, Risiko und ausformulierter Rechtsfolge.
-
-### 16.3. LPH 1 Grundlagenermittlung: Prüft bewertungsanteil
+### 16.2. LPH 1 Grundlagenermittlung: Prüft bewertungsanteil
 
 Bearbeitungsauftrag: Zuerst den Vertragsschluss datieren und die anwendbare HOAI-Fassung bestimmen. Altverträge nicht mit dem Preisrecht der HOAI 2021 prüfen. Für die HOAI 2021 gelten insbesondere Paragraf 4 für anrechenbare Kosten, Paragraf 5 für Honorarzonen, Paragraf 6 für die Honorarermittlung und Paragraf 7 für die Honorarvereinbarung in Textform.
 Prüfschritte: Fehlende Unterlagen und offene Entscheidungen; kurzer Textbaustein für Bauherr, Planer, Unternehmer oder Anwalt; Praktischer Kern: Aufgabenstellung klären, Ortsbesichtigung, Untersuchungsbedarf, Beteiligte auswählen, Ergebnisse dokumentieren; Bewertungsanker Gebäude/Innenräume: 2 %; Warnung: Nicht automatisch auf andere HOAI-Leistungsbilder übertragen.
 Lieferstück: Fachvotum zu LPH 1 Grundlagenermittlung: Prüft bewertungsanteil mit Tatbestandsmerkmalen, Aktenfundstellen, Beweislast, stärkster Gegenposition, Risiko und ausformulierter Rechtsfolge.
 
-### 16.4. LPH 8 Objektüberwachung - Bauüberwachung und Dokumentation
+### 16.3. LPH 8 Objektüberwachung - Bauüberwachung und Dokumentation
 
 Bearbeitungsauftrag: Praktischer Kern: Baustellensteuerung, Qualitätskontrolle, Termin/Kosten, Rechnungsprüfung, Abnahme und Dokumentation. Altverträge nicht mit dem Preisrecht der HOAI 2021 prüfen. Für die HOAI 2021 gelten insbesondere Paragraf 4 für anrechenbare Kosten, Paragraf 5 für Honorarzonen, Paragraf 6 für die Honorarermittlung und Paragraf 7 für die Honorarvereinbarung in Textform.
 Prüfschritte: Fehlende Unterlagen und offene Entscheidungen; kurzer Textbaustein für Bauherr, Planer, Unternehmer oder Anwalt; Bewertungsanker Gebäude/Innenräume: 32 %; Warnung: Nicht automatisch auf andere HOAI-Leistungsbilder übertragen; erst Leistungsbild und Anlage live bestimmen.
 Lieferstück: Akten- und Belegmatrix zu LPH 8 Objektüberwachung - Bauüberwachung und Dokumentation mit Datum, Urheber, Fundstelle, Widerspruch, Fehlteil und nächstem Bearbeitungsschritt.
 
-### 16.5. Baugrund, Altlasten und Untersuchungsbedarf
+### 16.4. Baugrund, Altlasten und Untersuchungsbedarf
 
 Bearbeitungsauftrag: Anlage 10 HOAI LPH 1/2: Untersuchungsbedarf und Auswahl fachlich Beteiligter. Altverträge nicht mit dem Preisrecht der HOAI 2021 prüfen. Für die HOAI 2021 gelten insbesondere Paragraf 4 für anrechenbare Kosten, Paragraf 5 für Honorarzonen, Paragraf 6 für die Honorarermittlung und Paragraf 7 für die Honorarvereinbarung in Textform; ergänzend Paragrafen 8 bis 13 und das konkrete Leistungsbild samt Anlage prüfen.
 Lieferstück: Fachvotum zu Baugrund, Altlasten und Untersuchungsbedarf mit Tatbestandsmerkmalen, Aktenfundstellen, Beweislast, stärkster Gegenposition, Risiko und ausformulierter Rechtsfolge.
+
+### 16.5. HOAI Querschnitt
+
+Bearbeitungsauftrag: Altverträge nicht mit dem Preisrecht der HOAI 2021 prüfen. Für die HOAI 2021 gelten insbesondere Paragraf 4 für anrechenbare Kosten, Paragraf 5 für Honorarzonen, Paragraf 6 für die Honorarermittlung und Paragraf 7 für die Honorarvereinbarung in Textform; ergänzend Paragrafen 8 bis 13 und das konkrete Leistungsbild samt Anlage prüfen. Architekten- und Ingenieurvertrag nach BGB Paragrafen 650p bis 650t, Vergütung und Abschläge ergänzend nach BGB Paragrafen 631, 632 und 632a prüfen.
+Prüfschritte: Konkreter Text- oder Tabellenbaustein; Zuerst den Vertragsschluss datieren und die anwendbare HOAI-Fassung bestimmen.
+Lieferstück: Fachvotum zu HOAI Querschnitt mit Tatbestandsmerkmalen, Aktenfundstellen, Beweislast, stärkster Gegenposition, Risiko und ausformulierter Rechtsfolge.
 
 ### 16.6. Anrechenbare Kosten, DIN 276 und Kostengruppen
 
 Bearbeitungsauftrag: Bearbeite Anrechenbare Kosten, DIN 276 und Kostengruppen: vertragsjahr, Leistungsbild, Leistungsphase, geschuldeter Erfolg, Leistungsstand, Honorar, Nachtrag und Haftungsbeleg trennen. Rechne ausschließlich aus belegten Eingabewerten mit Stichtag, Einheit, Zwischenstufen, Rundung und Gegenprobe; führe zu jeder Zahl Quelle, Rechtsgrund, Beweislast, offene Annahme und Auswirkung einer belastbaren Alternativrechnung.
 Prüfschritte: Paragraf 4 HOAI: anrechenbare Kosten, ortsübliche Preise, Umsatzsteuer, mitzuverarbeitende Bausubstanz; Paragraf 6 HOAI: Grundlagen des Honorars; Für Gebäude/Innenräume zusätzlich Paragrafen 34, 35 HOAI und Anlage.
-Norm- oder Entscheidungsbezug aus dem Fachmaterial: Paragraf 4 HOAI: anrechenbare Kosten, ortsübliche Preise, Umsatzsteuer, mitzuverarbeitende Bausubstanz; Paragraf 6 HOAI: Grundlagen des Honorars; Für Gebäude/Innenräume zusätzlich Paragrafen 34, 35 HOAI und Anlage.
+Normbezug aus dem Fachmaterial: Paragraf 4 HOAI: anrechenbare Kosten, ortsübliche Preise, Umsatzsteuer, mitzuverarbeitende Bausubstanz; Paragraf 6 HOAI: Grundlagen des Honorars; Für Gebäude/Innenräume zusätzlich Paragrafen 34, 35 HOAI und Anlage.
 Lieferstück: Fachvotum zu Anrechenbare Kosten, DIN 276 und Kostengruppen mit Tatbestandsmerkmalen, Aktenfundstellen, Beweislast, stärkster Gegenposition, Risiko und ausformulierter Rechtsfolge.
 
 ### 16.7. Fördermittel, Vergabebindung und Rückforderung
@@ -252,7 +252,7 @@ Lieferstück: Fachvotum zu Sachverständigenfragen zu Planungsfehlern mit Tatbes
 ### 16.10. Honorarzone, Bewertungspunkte und Objektliste
 
 Bearbeitungsauftrag: Bearbeite Honorarzone, Bewertungspunkte und Objektliste: vertragsjahr, Leistungsbild, Leistungsphase, geschuldeter Erfolg, Leistungsstand, Honorar, Nachtrag und Haftungsbeleg trennen. Verbinde den konkreten Aktenfund mit Tatbestandsmerkmal, Gegenposition, Beweislast, Rechtsfolge und dem nächsten vollständig ausformulierten Arbeitsprodukt. Fachstation: Honorar und Nachtrag: Honorarvereinbarung, anrechenbare Kosten, Honorarzone, Satz, Umbauzuschlag, Nebenkosten, Abschläge und Änderungsleistung berechnen.
-Norm- oder Entscheidungsbezug aus dem Fachmaterial: Paragraf 5 HOAI: Honorarzonen; Paragraf 35 HOAI und Anlage 10 Objektlisten/Bewertungsmerkmale für Gebäude und Innenräume.
+Normbezug aus dem Fachmaterial: Paragraf 5 HOAI: Honorarzonen; Paragraf 35 HOAI und Anlage 10 Objektlisten/Bewertungsmerkmale für Gebäude und Innenräume.
 Lieferstück: nachrechenbare Berechnung mit Eingabewerten, Zwischenschritten, Varianten, Stichtag und Belegspalte.
 
 ### 16.11. Leistungsphase 2: Vorplanung
@@ -264,5 +264,5 @@ Lieferstück: Fachvotum zu Leistungsphase 2: Vorplanung mit Tatbestandsmerkmalen
 ### 16.12. LPH 4 Genehmigungsrisiko, Bauantrag und Auflagen
 
 Bearbeitungsauftrag: Bearbeite LPH 4 Genehmigungsrisiko, Bauantrag und Auflagen: vertragsjahr, Leistungsbild, Leistungsphase, geschuldeter Erfolg, Leistungsstand, Honorar, Nachtrag und Haftungsbeleg trennen. Bestimme den konkreten Erlaubnis- oder Zulassungstatbestand, Antragsteller, persönliche und sachliche Voraussetzungen, Drittbeteiligung, vollständige Nachweise, Nebenbestimmungen, Bekanntgabe und den passenden Rechtsschutz.
-Norm- oder Entscheidungsbezug aus dem Fachmaterial: Anlage 10 HOAI LPH 4; Paragraf 10 HOAI bei vergütungsrelevanter Planungsänderung.
+Normbezug aus dem Fachmaterial: Anlage 10 HOAI LPH 4; Paragraf 10 HOAI bei vergütungsrelevanter Planungsänderung.
 Lieferstück: frist- und formgerechter Entwurf mit Antrag, tragenden Tatsachen, Beweisangeboten, Anlagen und Einreichungsweg.

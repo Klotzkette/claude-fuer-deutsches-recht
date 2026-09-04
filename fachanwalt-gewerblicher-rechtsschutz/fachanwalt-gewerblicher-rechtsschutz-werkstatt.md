@@ -79,7 +79,7 @@ Arbeitsgriff Arbeitsprodukt: Portfoliovermerk, Anspruchsmatrix, Abmahnung, Unter
 | --- | --- | --- | --- |
 | Fallkern | EV-Vollziehungscheck | MarkenG Paragraf 14, PatG Paragraf 139 und DesignG Paragraf 42 | Sofortvermerk mit Ergebnisrichtung, Risiko und nächstem Schritt |
 | Zulässigkeit und Frist | Frist, Form, Zuständigkeit, Rolle und statthafter Weg | UWG Paragraf 3, Paragraf 4 und Paragraf 8 | Fristenblatt oder Prozess-/Verfahrensroute |
-| Begründetheit | Abmahnung | UWG Paragraf 3, Paragraf 4 und Paragraf 8 | Tatbestandsmatrix mit Beleg und Gegenargument |
+| Begründetheit | DPMA-Mehrparteienkonflikt und Interessen | UWG Paragraf 3, Paragraf 4 und Paragraf 8 | Tatbestandsmatrix mit Beleg und Gegenargument |
 | Rechtsfolge | Portfoliovermerk, Abmahnung, Schutzschrift, einstweilige Verfügung, Hauptsache, Amtsverfahren, Vergleich oder Lizenz | Anspruchsteller für Schutzrecht, Rechtekette, Verletzung und Dringlichkeit; Gegner für Rechtsbestand, Lizenz, Erschöpfung, Verfall oder sonstige Einrede | Antrag, Entwurf, Entscheidungsvorschlag oder Mandantenbrief |
 
 ## 5. Normenanker, Tatbestandswichtigkeiten und Beweislast
@@ -96,10 +96,7 @@ Arbeitsgriff Arbeitsprodukt: Portfoliovermerk, Anspruchsmatrix, Abmahnung, Unter
 
 ## 6. Rechtsprechungsanker, Quellenstatus und Rechtsfolgen
 
-| Rechtsprechungsanker | Quellenstatus | Nutzwert im Fall |
-| --- | --- | --- |
-| BGH, Urteil vom 14.01.2021 - I ZR 40/20, STELLA | aus Skillmaterial extrahierter Anker; vor Zitierung am Aktenstand oder an belastbarer Quelle sichern | Für den maßgeblichen Fünfjahreszeitraum ist bei einer dem amtlichen Antrag nachfolgenden Verfallsklage grundsätzlich der Eingang des Antrags beim Deutschen Patent- und Markenamt maßgeblich |
-| BAG, Urteil vom 22.03.2017, 10 AZR 448/15 | aus Skillmaterial extrahierter Anker; vor Zitierung am Aktenstand oder an belastbarer Quelle sichern | Ein Wettbewerbsverbot ohne Zusage einer Karenzentschädigung ist nichtig; eine salvatorische Klausel heilt den Mangel nicht |
+- Rechtsprechung nur zitieren, wenn Gericht, Datum und Aktenzeichen sicher sind; sonst als Recherche- und Prüfbedarf mit konkreter Fallfrage markieren.
 - Rechtsfolge zuerst als Arbeitsprodukt denken: Portfoliovermerk, Abmahnung, Schutzschrift, einstweilige Verfügung, Hauptsache, Amtsverfahren, Vergleich oder Lizenz
 - Quellenstatus immer sichtbar machen: Aktenfund, Normtext, Profilanker, gesicherte Rechtsprechung oder offene Prüfung.
 
@@ -121,8 +118,7 @@ Arbeitsgriff Arbeitsprodukt: Portfoliovermerk, Anspruchsmatrix, Abmahnung, Unter
 
 ## 8. Leitentscheidungen
 
-- BGH, Urteil vom 14.01.2021 - I ZR 40/20, STELLA: Für den maßgeblichen Fünfjahreszeitraum ist bei einer dem amtlichen Antrag nachfolgenden Verfallsklage grundsätzlich der Eingang des Antrags beim Deutschen Patent- und Markenamt maßgeblich.
-- BAG, Urteil vom 22.03.2017, 10 AZR 448/15: Ein Wettbewerbsverbot ohne Zusage einer Karenzentschädigung ist nichtig; eine salvatorische Klausel heilt den Mangel nicht.
+- Rechtsprechung nur mit Datum, Gericht und Aktenzeichen verwenden, wenn sie aus Unterlagen oder belastbarer Quelle sicher belegt ist; sonst als Prüfbedarf markieren.
 
 ## 9. Prüfraster
 
@@ -143,8 +139,8 @@ Arbeitsgriff Arbeitsprodukt: Portfoliovermerk, Anspruchsmatrix, Abmahnung, Unter
 10.5. Beweislast: Anspruchsteller für Schutzrecht, Rechtekette, Verletzung und Dringlichkeit; Gegner für Rechtsbestand, Lizenz, Erschöpfung, Verfall oder sonstige Einrede. Zeige ausdrücklich, welche Folge ein offener Beweis hat.
 10.6. Gegenposition: Formuliere den stärksten ernsthaften Angriff; hier setzt die Gegenseite typischerweise bei wer ist aktiv- und passivlegitimiert und welche Rechtekette ist belegt an.
 10.7. Erwiderung: Antworte mit konkretem Gegenbeleg, Auslegung oder Beweislastregel und ziehe die Folge auf Portfoliovermerk, Abmahnung, Schutzschrift, einstweilige Verfügung, Hauptsache, Amtsverfahren, Vergleich oder Lizenz; ein bloßes Bestreiten genügt nicht.
-10.8. Arbeitsprodukt: Schließe mit Antrag, Tenor, Klausel, Entscheidung oder nächstem Schritt; hier typischerweise Ausgabe entlang der Kernfelder EV-Vollziehungscheck, Abmahnung, DPMA-Mehrparteienkonflikt und Interessen, Gewerblichen Rechtsschutz-Mandat einordnen und Bearbeitungsroute bestimmen: Kurzvermerk, Prüfmatrix, Entwurf, Fristenblatt oder Fragenliste mit nächstem Schritt.
-10.9. Quellenstatus: Ordne Rechtsprechung nach Tragweite ein; erste Fallanker sind BGH, Urteil vom 14.01.2021 - I ZR 40/20, STELLA; BAG, Urteil vom 22.03.2017, 10 AZR 448/15.
+10.8. Arbeitsprodukt: Schließe mit Antrag, Tenor, Klausel, Entscheidung oder nächstem Schritt; hier typischerweise Ausgabe entlang der Kernfelder EV-Vollziehungscheck, DPMA-Mehrparteienkonflikt und Interessen, Abmahnung, Designrecht in der Praxis: Kurzvermerk, Prüfmatrix, Entwurf, Fristenblatt oder Fragenliste mit nächstem Schritt.
+10.9. Quellenstatus: Ordne Rechtsprechung nach Tragweite ein; erste Fallanker sind erst nach verifizierter Recherche einzusetzen.
 
 ## 11. Outputvarianten und Empfängerwunsch
 
@@ -179,14 +175,14 @@ Die Landkarte dient der schnellen Auswahl. Sie ersetzt nicht die darunter ausfor
 | Arbeitsfeld | Entscheidende Weiche | Erstes Lieferstück |
 | --- | --- | --- |
 | EV-Vollziehungscheck | UWG: Gesetzliche Dringlichkeitsvermutung (Paragraf 12 Absatz 1 UWG), aber Selbstwiderlegung bei zu langem Zuwarten nach Kenntnis des Verstoßes. Markenrecht / PatG / DesignG: Keine gesetzliche Vermutung. | gewichtete Prüfmatrix mit Tatbestandsmerkmalen, Fundstellen, Gegenposition, Beweislast, Risiko und Empfehlung |
-| Abmahnung | Seit der UWG-Reform 2020 muss die Abmahnung folgende Pflichtangaben enthalten: Rechtsfolge mangelhafter Abmahnung: Keine Kostentragungspflicht; ggf. | versandfertiges Schreiben mit Betreff, Sachverhaltskern, Rechtsgrund, konkretem Begehren, Frist und Anlagenverzeichnis |
 | DPMA-Mehrparteienkonflikt und Interessen | Der Widerspruch richtet sich nach Paragraf 42 MarkenG und muss innerhalb von drei Monaten nach dem Tag der Veröffentlichung der Eintragung erhoben werden. | Fachvotum zu DPMA-Mehrparteienkonflikt und Interessen mit Tatbestandsmerkmalen, Aktenfundstellen, Beweislast, stärkster Gegenposition, Risiko und ausformulierter Rechtsfolge |
-| Gewerblichen Rechtsschutz-Mandat einordnen und Bearbeitungsroute bestimmen | DesignG: Schutzfähigkeit Neuheit und Eigenart Paragrafen 2 und folgende ; Schutzdauer 25 Jahre Paragraf 27 DesignG; Ansprüche Paragrafen 38 und folgende UWG: Generalklausel Paragraf 3; Tatbestände Paragrafen 3a-7. | verhandlungsfähige Fassung mit Ausgangstext, Änderung, Begründung, Rückfallposition und Vollzugscheck |
+| Abmahnung | Seit der UWG-Reform 2020 muss die Abmahnung folgende Pflichtangaben enthalten: Rechtsfolge mangelhafter Abmahnung: Keine Kostentragungspflicht; ggf. | versandfertiges Schreiben mit Betreff, Sachverhaltskern, Rechtsgrund, konkretem Begehren, Frist und Anlagenverzeichnis |
 | Designrecht in der Praxis | Schutzausschluss Paragraf 3 DesignG: rein technisch bedingt? Neuheit und Eigenart bei Anmeldung (Paragraf 2 DesignG, Artikel 5–6 GGV): vorbekannter Formenschatz? | Fachvotum zu Designrecht in der Praxis mit Tatbestandsmerkmalen, Aktenfundstellen, Beweislast, stärkster Gegenposition, Risiko und ausformulierter Rechtsfolge |
 | Fachanwalt Gewerblicher Rechtsschutz Designverletzung | Welcher Schutztitel liegt vor — eingetragenes deutsches Design (DPMA), eingetragenes Gemeinschaftsgeschmacksmuster (EUIPO) oder nicht eingetragenes Gemeinschaftsgeschmacksmuster. | Fachvotum zu Fachanwalt Gewerblicher Rechtsschutz Designverletzung mit Tatbestandsmerkmalen, Aktenfundstellen, Beweislast, stärkster Gegenposition, Risiko und ausformulierter. |
 | Markenanmeldung: Compliance, Dokumentation und Aktenführung | Ziel: Identische oder ähnliche Zeichen im gleichen oder ähnlichen Waren-/Dienstleistungsbereich aufdecken (Paragraf 9 MarkenG, Artikel 8 UMV). | vollständige Einreichungs- oder Registervorlage mit Zuständigkeit, Pflichtfeldern, Nachweisen, Freigabe und Vollzugskontrolle |
 | Schutzrechtsportfolio-Pflege | Benutzungspflicht: Deutsche Marke: ernsthafte Benutzung innerhalb von 5 Jahren nach Eintragung (Paragraf 26 MarkenG); Nichtbenutzung = Verfallsrisiko (Paragraf 49 MarkenG). | Fachvotum zu Schutzrechtsportfolio-Pflege mit Tatbestandsmerkmalen, Aktenfundstellen, Beweislast, stärkster Gegenposition, Risiko und ausformulierter Rechtsfolge |
 | Einstweilige Verfügung: Beweislast und Darlegungslast | Kein voller Beweis nötig (Paragraf 294 ZPO): überwiegende Wahrscheinlichkeit genügt. Faustregel nach Kammer: Hamburg ~4 Wochen; München ~4 Wochen; Düsseldorf ~4 Wochen; Köln ~6 Wochen (Einzelfälle variieren). | entscheidungsreifer Entwurf mit Tenor oder Verfügungssatz, Streitstoff, Beweiswürdigung und Nebenentscheidungen |
+| Gewerblichen Rechtsschutz-Mandat einordnen und Bearbeitungsroute bestimmen | DesignG: Schutzfähigkeit Neuheit und Eigenart Paragrafen 2 und folgende ; Schutzdauer 25 Jahre Paragraf 27 DesignG; Ansprüche Paragrafen 38 und folgende UWG: Generalklausel Paragraf 3; Tatbestände Paragrafen 3a-7. | verhandlungsfähige Fassung mit Ausgangstext, Änderung, Begründung, Rückfallposition und Vollzugscheck |
 
 ## 16. Fachspezifische Praxisrouten
 
@@ -196,67 +192,66 @@ Diese Routen stammen aus den konkreten Arbeitsthemen dieses Plugins. Wähle die 
 
 Bearbeitungsauftrag: UWG: Gesetzliche Dringlichkeitsvermutung (Paragraf 12 Absatz 1 UWG), aber Selbstwiderlegung bei zu langem Zuwarten nach Kenntnis des Verstoßes. Markenrecht / PatG / DesignG: Keine gesetzliche Vermutung; Dringlichkeit ist darzulegen und glaubhaft zu machen (Paragraf 920 ZPO). Paragraf 191, Paragraf 192 ZPO oder Eintragung in Register (bei Immaterialgütern wenn möglich).
 Prüfschritte: Kenntniszeitpunkt dokumentieren: Screenshot, E-Mail, Kaufbeleg mit Datum; Frist: 1 Monat ab Zustellung des Beschlusses an den Antragsteller; Vollziehungshandlung: Zustellung an den Antragsgegner (Paragraf 929 Absatz 2 in Verbindung mit Paragraf 191, Paragraf 192 ZPO) oder Eintragung in Register (bei Immaterialgütern wenn möglich); Sobald Verstoß bekannt: sofort dokumentieren (Screenshot, Kaufmuster, Datum); Abmahnung und Reaktionsfrist (1–2 Werktage bei Dringlichkeit) zügig setzen.
-Norm- oder Entscheidungsbezug aus dem Fachmaterial: UWG: Gesetzliche Dringlichkeitsvermutung (Paragraf 12 Absatz 1 UWG), aber Selbstwiderlegung bei zu langem Zuwarten nach Kenntnis des Verstoßes.
+Normbezug aus dem Fachmaterial: UWG: Gesetzliche Dringlichkeitsvermutung (Paragraf 12 Absatz 1 UWG), aber Selbstwiderlegung bei zu langem Zuwarten nach Kenntnis des Verstoßes.
 Lieferstück: gewichtete Prüfmatrix mit Tatbestandsmerkmalen, Fundstellen, Gegenposition, Beweislast, Risiko und Empfehlung.
 
-### 16.2. Abmahnung
-
-Bearbeitungsauftrag: Seit der UWG-Reform 2020 muss die Abmahnung folgende Pflichtangaben enthalten: Rechtsfolge mangelhafter Abmahnung: Keine Kostentragungspflicht; ggf. Keine spezifischen gesetzlichen Formerfordernisse wie Paragraf 13 UWG; aber Vollmachtsnachweis (Paragraf 174 BGB) und klare Anspruchsdarlegung sind Best Practice. Praxis-Hinweis: Abmahnung immer per Einschreiben / beA senden und parallel per E-Mail (als Vorabkopie) – damit Reaktionsfrist sofort läuft, falls E-Mail akzeptiert wird.
-Prüfschritte: Sofortiges Anerkenntnis Paragraf 93 ZPO; Markenanmeldung, Widerspruch, Löschungsantrag: dpma.de/service/e-dienste; DPMA.online: vollständige Verfahrensabwicklung; Authentifizierung: ELSTER-Zertifikat oder eID; Unionsmarken, GGM-Anmeldungen, Widerspruchsverfahren: euipo.europa.eu/ohimportal.
-Norm- oder Entscheidungsbezug aus dem Fachmaterial: Sofortiges Anerkenntnis Paragraf 93 ZPO; Keine spezifischen gesetzlichen Formerfordernisse wie Paragraf 13 UWG; Sofortiges Anerkenntnis Paragraf 93 ZPO; Markenanmeldung, Widerspruch, Löschungsantrag: dpma.de/service/e-dienste; DPMA.online: vollständige Verfahrensabwicklung; Authentifizierung: ELSTER-Zertifikat oder eID.
-Lieferstück: versandfertiges Schreiben mit Betreff, Sachverhaltskern, Rechtsgrund, konkretem Begehren, Frist und Anlagenverzeichnis.
-
-### 16.3. DPMA-Mehrparteienkonflikt und Interessen
+### 16.2. DPMA-Mehrparteienkonflikt und Interessen
 
 Bearbeitungsauftrag: Der Widerspruch richtet sich nach Paragraf 42 MarkenG und muss innerhalb von drei Monaten nach dem Tag der Veröffentlichung der Eintragung erhoben werden. Widerspruchsgrund und älteres Recht nach Paragraf 42 Absatz 2 MarkenG exakt bezeichnen. Auf beiderseitigen Antrag ist nach Paragraf 42 Absatz 4 MarkenG eine mindestens zweimonatige Einigungsfrist einzuräumen.
 Prüfschritte: Lies Registerauszüge, Veröffentlichungsdaten, Zustellungen, Widersprüche, Benutzungsunterlagen und Parallelverfahren; Beginne sofort mit einer Verfahrenskarte; frage nur nach fehlenden Tatsachen, die Frist, Antragsbefugnis oder Verfahrenswahl ändern; Paragraf 41 MarkenG regelt Eintragung, Veröffentlichung und Markeninformation; Ein Widerspruch kann nach Absatz 3 mehrere ältere Rechte desselben Inhabers bündeln.
 Lieferstück: Fachvotum zu DPMA-Mehrparteienkonflikt und Interessen mit Tatbestandsmerkmalen, Aktenfundstellen, Beweislast, stärkster Gegenposition, Risiko und ausformulierter Rechtsfolge.
 
-### 16.4. Gewerblichen Rechtsschutz-Mandat einordnen und Bearbeitungsroute bestimmen
+### 16.3. Abmahnung
 
-Bearbeitungsauftrag: DesignG: Schutzfähigkeit Neuheit und Eigenart Paragrafen 2 und folgende ; Schutzdauer 25 Jahre Paragraf 27 DesignG; Ansprüche Paragrafen 38 und folgende UWG: Generalklausel Paragraf 3; Tatbestände Paragrafen 3a-7; Anspruchsberechtigte Paragrafen 8 und folgende ; Aufwendungsersatz Paragraf 13 Absatz 3; Missbrauch Paragraf 8c UWG. PatG / GebrMG: Patentverletzung Paragraf 139 PatG.
-Prüfschritte: Theoretischer Lehrgang: 120 Zeitstunden gewerblicher Rechtsschutz (FAO Paragraf 4); Bereiche Paragraf 14k FAO: Marken-, Design-, Patent- und Gebrauchsmusterrecht, Sortenschutz, Wettbewerbsrecht (UWG), Bezüge zum Urheberrecht und Kartellrecht; MarkenG: Schutzfähigkeit Paragrafen 3, 8; Schutzdauer Paragrafen 47 und folgende; Verletzungsansprüche Paragrafen 14, 18,.
-Norm- oder Entscheidungsbezug aus dem Fachmaterial: Theoretischer Lehrgang: 120 Zeitstunden gewerblicher Rechtsschutz (FAO Paragraf 4); Praktischer Nachweis: 80 Fälle in den letzten drei Jahren, davon mindestens 50 rechtsförmlich; Theoretischer Lehrgang: 120 Zeitstunden gewerblicher Rechtsschutz (FAO Paragraf 4).
-Lieferstück: verhandlungsfähige Fassung mit Ausgangstext, Änderung, Begründung, Rückfallposition und Vollzugscheck.
+Bearbeitungsauftrag: Seit der UWG-Reform 2020 muss die Abmahnung folgende Pflichtangaben enthalten: Rechtsfolge mangelhafter Abmahnung: Keine Kostentragungspflicht; ggf. Keine spezifischen gesetzlichen Formerfordernisse wie Paragraf 13 UWG; aber Vollmachtsnachweis (Paragraf 174 BGB) und klare Anspruchsdarlegung sind Best Practice.
+Prüfschritte: Sofortiges Anerkenntnis Paragraf 93 ZPO; Praxis-Hinweis: Abmahnung immer per Einschreiben / beA senden und parallel per E-Mail (als Vorabkopie) – damit Reaktionsfrist sofort läuft, falls E-Mail akzeptiert wird; Markenanmeldung, Widerspruch, Löschungsantrag: dpma.de/service/e-dienste; DPMA.online: vollständige Verfahrensabwicklung; Authentifizierung: ELSTER-Zertifikat oder eID.
+Normbezug aus dem Fachmaterial: Sofortiges Anerkenntnis Paragraf 93 ZPO; Keine spezifischen gesetzlichen Formerfordernisse wie Paragraf 13 UWG.
+Lieferstück: versandfertiges Schreiben mit Betreff, Sachverhaltskern, Rechtsgrund, konkretem Begehren, Frist und Anlagenverzeichnis.
 
-### 16.5. Designrecht in der Praxis
+### 16.4. Designrecht in der Praxis
 
 Bearbeitungsauftrag: Schutzausschluss Paragraf 3 DesignG: rein technisch bedingt? Neuheit und Eigenart bei Anmeldung (Paragraf 2 DesignG, Artikel 5–6 GGV): vorbekannter Formenschatz? Eingetragener Inhaber (Paragraf 7 DesignG, DPMA/EUIPO-Registerauszug).
 Prüfschritte: Schritt 1 – Schutzfähigkeit des Klagedesigns; Liegt eine Anmeldung beim DPMA (nationales Design) oder EUIPO (eingetragenes GGM) vor; Nicht eingetragenes GGM: Offenbarung im EWR feststellbar, Frist 3 Jahre eingehalten; Übereinstimmender oder verwechslungsfähiger Gesamteindruck beim informierten Benutzer; Gestaltungsfreiheit des Entwerfers: enger Formenschatz = kleiner Schutzbereich.
 Lieferstück: Fachvotum zu Designrecht in der Praxis mit Tatbestandsmerkmalen, Aktenfundstellen, Beweislast, stärkster Gegenposition, Risiko und ausformulierter Rechtsfolge.
 
-### 16.6. Fachanwalt Gewerblicher Rechtsschutz Designverletzung
+### 16.5. Fachanwalt Gewerblicher Rechtsschutz Designverletzung
 
 Bearbeitungsauftrag: Welcher Schutztitel liegt vor — eingetragenes deutsches Design (DPMA), eingetragenes Gemeinschaftsgeschmacksmuster (EUIPO) oder nicht eingetragenes Gemeinschaftsgeschmacksmuster (GGV Artikel 11, 3 Jahre ab Erstoffenbarung)? Liegt eine Voroffenbarung des Klagedesigns vor (Paragraf 5 DesignG: Neuheitsschonfrist 12 Monate)? Welcher Gestaltungsfreiraum besteht im Marktsegment (Paragraf 38 Absatz 2 S. 2 DesignG) — enge technische Vorgaben oder breite Gestaltungsfreiheit?
-Norm- oder Entscheidungsbezug aus dem Fachmaterial: Welcher Schutztitel liegt vor — eingetragenes deutsches Design (DPMA), eingetragenes Gemeinschaftsgeschmacksmuster (EUIPO) oder nicht eingetragenes Gemeinschaftsgeschmacksmuster (GGV Artikel 11, 3 Jahre ab Erstoffenbarung)?
+Normbezug aus dem Fachmaterial: Welcher Schutztitel liegt vor — eingetragenes deutsches Design (DPMA), eingetragenes Gemeinschaftsgeschmacksmuster (EUIPO) oder nicht eingetragenes Gemeinschaftsgeschmacksmuster (GGV Artikel 11, 3 Jahre ab Erstoffenbarung)?
 Lieferstück: Fachvotum zu Fachanwalt Gewerblicher Rechtsschutz Designverletzung mit Tatbestandsmerkmalen, Aktenfundstellen, Beweislast, stärkster Gegenposition, Risiko und ausformulierter Rechtsfolge.
 
-### 16.7. Markenanmeldung: Compliance, Dokumentation und Aktenführung
+### 16.6. Markenanmeldung: Compliance, Dokumentation und Aktenführung
 
 Bearbeitungsauftrag: Ziel: Identische oder ähnliche Zeichen im gleichen oder ähnlichen Waren-/Dienstleistungsbereich aufdecken (Paragraf 9 MarkenG, Artikel 8 UMV). Freihaltebedürfnis: Beschreibende Angaben (Paragraf 8 Absatz 2 Nummer 2 MarkenG). Fehlende Unterscheidungskraft (Paragraf 8 Absatz 2 Nummer 1 MarkenG).
 Prüfschritte: Täuschungsgeeignetheit, Sittenwidrigkeit; Waren und Dienstleistungen in 45 Klassen (Nizza-Abkommen); Korrekte Klassenzuordnung entscheidend für Schutzbereich; Zu enge Klassenwahl → Lücken im Schutz; Zu breite Klassenwahl → Benutzungspflicht schwer zu erfüllen.
-Norm- oder Entscheidungsbezug aus dem Fachmaterial: Ziel: Identische oder ähnliche Zeichen im gleichen oder ähnlichen Waren-/Dienstleistungsbereich aufdecken (Paragraf 9 MarkenG, Artikel 8 UMV); Freihaltebedürfnis: Beschreibende Angaben (Paragraf 8 Absatz 2 Nummer 2 MarkenG).
+Normbezug aus dem Fachmaterial: Ziel: Identische oder ähnliche Zeichen im gleichen oder ähnlichen Waren-/Dienstleistungsbereich aufdecken (Paragraf 9 MarkenG, Artikel 8 UMV); Freihaltebedürfnis: Beschreibende Angaben (Paragraf 8 Absatz 2 Nummer 2 MarkenG).
 Lieferstück: vollständige Einreichungs- oder Registervorlage mit Zuständigkeit, Pflichtfeldern, Nachweisen, Freigabe und Vollzugskontrolle.
 
-### 16.8. Schutzrechtsportfolio-Pflege
+### 16.7. Schutzrechtsportfolio-Pflege
 
 Bearbeitungsauftrag: Benutzungspflicht: Deutsche Marke: ernsthafte Benutzung innerhalb von 5 Jahren nach Eintragung (Paragraf 26 MarkenG); Nichtbenutzung = Verfallsrisiko (Paragraf 49 MarkenG). Einschränkung des Waren-/Dienstleistungsverzeichnisses (Beschränkungsantrag DPMA/EUIPO). Nationale Phase eines PCT-Patents nur in Schlüsselmärkten weiterverfolgen.
 Prüfschritte: Aktive Benutzung des Schutzrechts (Marke) oder laufende Entwicklung / Produktion; Wettbewerber in der Branche präsent; Schutzrecht als Abwehrmittel wertvoll; Lizenzeinnahmen oder Lizenzierungspotenzial; Aufgabe / Nichtfortsetzung sinnvoll wenn.
-Norm- oder Entscheidungsbezug aus dem Fachmaterial: Benutzungspflicht: Deutsche Marke: ernsthafte Benutzung innerhalb von 5 Jahren nach Eintragung (Paragraf 26 MarkenG); Nichtbenutzung = Verfallsrisiko (Paragraf 49 MarkenG).
+Normbezug aus dem Fachmaterial: Benutzungspflicht: Deutsche Marke: ernsthafte Benutzung innerhalb von 5 Jahren nach Eintragung (Paragraf 26 MarkenG); Nichtbenutzung = Verfallsrisiko (Paragraf 49 MarkenG).
 Lieferstück: Fachvotum zu Schutzrechtsportfolio-Pflege mit Tatbestandsmerkmalen, Aktenfundstellen, Beweislast, stärkster Gegenposition, Risiko und ausformulierter Rechtsfolge.
 
-### 16.9. Einstweilige Verfügung: Beweislast und Darlegungslast
+### 16.8. Einstweilige Verfügung: Beweislast und Darlegungslast
 
 Bearbeitungsauftrag: Kein voller Beweis nötig (Paragraf 294 ZPO): überwiegende Wahrscheinlichkeit genügt. Faustregel nach Kammer: Hamburg ~4 Wochen; München ~4 Wochen; Düsseldorf ~4 Wochen; Köln ~6 Wochen (Einzelfälle variieren). Bei bestimmten Sachverhalten (Verletzungsumfang, Herstellungsprozesse, Lieferkette) obliegt dem Antragsgegner eine sekundäre Darlegungslast, wenn er die Informationen exklusiv besitzt.
 Prüfschritte: Eidesstattliche Versicherung des Mandanten als zentrales Instrument; Sachverständige können auch im EV-Verfahren eingesetzt werden, aber zeitkritisch; Dringlichkeit ist widerlegt, wenn der Antragsteller zu lange zugewartet hat nach Kenntnis vom Verstoß; Tipp: Kenntniszeitpunkt genau dokumentieren; BGH-Grundsatz: Wer über Informationen allein verfügt, muss substantiiert bestreiten oder darlegen.
-Norm- oder Entscheidungsbezug aus dem Fachmaterial: Kein voller Beweis nötig (Paragraf 294 ZPO): überwiegende Wahrscheinlichkeit genügt; Eidesstattliche Versicherung des Mandanten als zentrales Instrument; Sachverständige können auch im EV-Verfahren eingesetzt werden, aber zeitkritisch.
+Normbezug aus dem Fachmaterial: Kein voller Beweis nötig (Paragraf 294 ZPO): überwiegende Wahrscheinlichkeit genügt; Eidesstattliche Versicherung des Mandanten als zentrales Instrument; Sachverständige können auch im EV-Verfahren eingesetzt werden, aber zeitkritisch.
 Lieferstück: entscheidungsreifer Entwurf mit Tenor oder Verfügungssatz, Streitstoff, Beweiswürdigung und Nebenentscheidungen.
+
+### 16.9. Gewerblichen Rechtsschutz-Mandat einordnen und Bearbeitungsroute bestimmen
+
+Bearbeitungsauftrag: DesignG: Schutzfähigkeit Neuheit und Eigenart Paragrafen 2 und folgende ; Schutzdauer 25 Jahre Paragraf 27 DesignG; Ansprüche Paragrafen 38 und folgende UWG: Generalklausel Paragraf 3; Tatbestände Paragrafen 3a-7; Anspruchsberechtigte Paragrafen 8 und folgende ; Aufwendungsersatz Paragraf 13 Absatz 3; Missbrauch Paragraf 8c UWG. PatG / GebrMG: Patentverletzung Paragraf 139 PatG.
+Normbezug aus dem Fachmaterial: Theoretischer Lehrgang: 120 Zeitstunden gewerblicher Rechtsschutz (FAO Paragraf 4); Praktischer Nachweis: 80 Fälle in den letzten drei Jahren, davon mindestens 50 rechtsförmlich.
+Lieferstück: verhandlungsfähige Fassung mit Ausgangstext, Änderung, Begründung, Rückfallposition und Vollzugscheck.
 
 ### 16.10. Influencer-Marketing und UWG
 
 Bearbeitungsauftrag: Mitbewerber des werbenden Unternehmens (Paragraf 8 Absatz 3 Nummer 1 UWG). Verbraucherverbände (Paragraf 8 Absatz 3 Nummer 3 UWG), z.B. Ist der Abmahner aktivlegitimiert (Paragraf 8 Absatz 3 UWG)?
 Prüfschritte: Anforderungen BGH: Kennzeichnung muss unverzüglich erkennbar sein, also vor dem eigentlichen Inhalt oder direkt darunter; nicht erst am Ende oder in Kleindruck; Marktüberwachungsbehörden (LFÄ, Landesmedienanstalten); Häufige Streitwerte: 5.000–30.000 € je nach Reichweite des Influencers und wirtschaftlicher Bedeutung; Prüfpunkte bei eingehender Abmahnung.
-Norm- oder Entscheidungsbezug aus dem Fachmaterial: Typische Abmahner:; Mitbewerber des werbenden Unternehmens (Paragraf 8 Absatz 3 Nummer 1 UWG).
+Normbezug aus dem Fachmaterial: Typische Abmahner:; Mitbewerber des werbenden Unternehmens (Paragraf 8 Absatz 3 Nummer 1 UWG).
 Lieferstück: Fachvotum zu Influencer-Marketing und UWG mit Tatbestandsmerkmalen, Aktenfundstellen, Beweislast, stärkster Gegenposition, Risiko und ausformulierter Rechtsfolge.
 
 ### 16.11. Widerspruch gegen Markenanmeldung beim DPMA oder EUIPO einlegen oder abwehren

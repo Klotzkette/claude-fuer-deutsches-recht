@@ -1,17 +1,20 @@
 ---
 name: account-sperre-soziales-netzwerk-rechtsbehelfe-art-20-23-dsa
-description: "Für Account-Sperre — Rechtsbehelfe nach Art. 20 bis 23 DSA: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
+description: "Prüft Kontosperre, Inhaltsentfernung, Reichweiten- oder Monetarisierungsbeschränkung nach DSA Artikel 14 sowie 17 und 20 bis 23 sowie Vertragsrecht. Erstellt Beweissicherung, interne Beschwerde, Antrag zur Streitbeilegung und bei Eilbedarf einen gerichtlichen Freischaltungs- oder Unterlassungsantrag."
 ---
 
 # Account-Sperre — Rechtsbehelfe nach Art. 20 bis 23 DSA
 
-## Arbeitsweg
+## Direktauftrag
 
-- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
-- Fristen und Eilrisiken zuerst markieren: DSA Art. 16 Notice-and-Action unverzügliche Reaktion, Art. 24 jährlicher Transparenzbericht, Art. 34 Risikoassessment jährlich/bei Bedarf, DMA Art. 11 Compliance-Bericht 6 Monate nach Benennung.
-- Tragende Normen verifizieren: Digital Services Act (VO 2022/2065) Art. 4-15 (Haftung), 16-22 (Meldung), 24-32 (mittelgroße/VLOP), 33-43 (sehr große), 50-66 (Aufsicht), Digital Markets Act (VO 2022/1925) Art. 3 (Gatekeeper), 5-7 (Pflichten), DDG, TMG (außer Kraft), NetzDG (auslaufend) — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
-- Zuständige Stelle bestimmen und Adressaten richtig wählen: Anbieter Vermittlungsdienst / Hosting / Online-Plattform / sehr große Online-Plattform (VLOP) / Suchmaschine (VLOSE), BNetzA als DSC, EU-KOM (DMA-Vollzug), nationaler Koordinator, Beschwerdeführer.
-- Dokumente und Beweismittel sammeln und auf Lücken prüfen: AGB nach Art. 14 DSA, Transparenzbericht, Risikoassessment, Compliance-Officer-Konzept, Streitbeilegung Art. 21 DSA, DSC-Meldung, DMA-Compliance-Bericht — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
+Bearbeite Account-Sperre — Rechtsbehelfe nach Art. 20 bis 23 DSA entlang der Digitale Plattformregulierung-Prüflinie: Vorgang: Meldung, Sperre, Ranking, Werbung, Empfehlungssystem, Händlernachverfolgung, Beschwerde oder behördliche Maßnahme erfassen. Arbeite die für diesen Gegenstand entscheidende Fachstation aus: Vorgang: Meldung, Sperre, Ranking, Werbung, Empfehlungssystem, Händlernachverfolgung, Beschwerde oder behördliche Maßnahme erfassen Maßgebliche Kontrollfrage: Welche konkrete technische und wirtschaftliche Funktion übt der Dienst aus.
+
+- Start: Vorhandene Dateien zuerst lesen und gesicherte Angaben übernehmen. Im Arbeitsmodus `Fallbearbeitung` unmittelbar mit dem Arbeitsprodukt beginnen: Account-Sperre — Rechtsbehelfe nach Art. 20 bis 23 DSA-Prüfvermerk mit Ergebnis, Gegenposition, Beleglücken und nächstem Schritt.
+- Tatbestand und Beweis: Ordne jedem entscheidungserheblichen Merkmal einen Aktenfund oder eine ausdrücklich bezeichnete Lücke zu; bloße Plausibilität ersetzt weder Vortrag noch Beweis.
+- Kernnormen: DSA Artikel 3 bis Artikel 6: Rollen, Vermittlungsdienste und Haftungsprivilegien nach Dienstetyp. DSA Artikel 20 bis Artikel 23: internes Beschwerdesystem, außergerichtliche Streitbeilegung, vertrauenswürdige Hinweisgeber und Missbrauchsschutz.
+- Rechtsprechung: EuGH, Urteil vom 12.07.2011 - C-324/09: L'Oréal gegen eBay betrifft die frühere unionsrechtliche Haftungs- und Unterlassungsordnung für Online-Marktplätze; die Aussage ist bei heutigen Fällen mit dem DSA abzugleichen.
+- Einsatzgrenze: Normfassung und tragende Aussage am amtlichen Volltext prüfen; eine Entscheidung nicht auf andere Tatbestands-, Beweis- oder Verfahrensstufen übertragen.
+- Abschluss: Das Ergebnis muss `Account-Sperre — Rechtsbehelfe nach Art. 20 bis 23 DSA` konkret beantworten, die stärkste Gegenposition verarbeiten und den nächsten verwendbaren Text, Antrag, Rechenweg oder Vollzugsschritt liefern.
 
 ## Ausgangslage
 
@@ -28,13 +31,13 @@ Nutzer wird auf einer Online-Plattform gesperrt (Account-Sperre, Schattensperre,
  - **Rechtliche oder vertragliche Grundlage** und Erklärung warum sie passt
  - Information über **Beschwerdemöglichkeiten** (Art. 20, 21)
 - Versand in **DSA Transparency Database** (öffentlich)
-- **Fehlt eine wirksame Begründung, ist die Sperre formal rechtswidrig** — schon hier ansetzen
+- Eine fehlende oder unzureichende Begründung ist ein eigenständiger Verfahrensverstoß. Ob auch die Sperre aufzuheben ist, wird gesondert nach Vertrag, anwendbarem Recht und materieller Berechtigung geprüft.
 
 ### Stufe 2 — Internes Beschwerdesystem (Art. 20 DSA)
 
-- Plattform muss **wirksames, leicht zugängliches, kostenfreies, sechsmonatiges Beschwerdesystem** bereithalten
-- **Menschliche Überprüfung** in nicht-automatisierter Form bei manueller Beschwerde
-- Frist: zügig zu entscheiden; keine starre Frist im DSA, aber **unverzüglich** und in der Regel innerhalb weniger Wochen
+- Plattform muss ein wirksames, leicht zugängliches und kostenfreies elektronisches Beschwerdesystem anbieten. Die Beschwerdemöglichkeit besteht mindestens sechs Monate ab Mitteilung der Entscheidung.
+- Die Entscheidung darf nicht ausschließlich automatisiert getroffen werden und muss unter Aufsicht angemessen qualifizierten Personals erfolgen.
+- Über Beschwerden ist zeitnah, sorgfältig, nicht willkürlich und objektiv zu entscheiden. Der DSA setzt keine feste Bearbeitungsfrist von wenigen Wochen.
 - Entscheidung wieder begründet und mit Hinweis auf Art. 21
 
 ### Stufe 3 — Außergerichtliche Streitbeilegung (Art. 21 DSA)
@@ -65,7 +68,7 @@ Nutzer wird auf einer Online-Plattform gesperrt (Account-Sperre, Schattensperre,
 
 - **Verbrauchersache:** Art. 17 ff. Brüssel-Ia-VO — Klage am Wohnsitz des Verbrauchers
 - **Gewerbliche Sache:** Erfüllungsort, Art. 7 Nr. 1 Brüssel-Ia
-- Wenn Plattform außerhalb EU: nationale Zustellungsregeln; **Art. 13 DSA-Vertreter** dient nicht zwingend als Zustellungsadresse für Zivilklagen, kann aber als Anhaltspunkt für Niederlassung dienen (siehe Skill `zustellung-und-vertreter-art-13-dsa-art-37-dma`)
+- Wenn die Plattform keine Niederlassung in der Union hat: Zustellungsrecht und internationale Zuständigkeit eigenständig prüfen. Der Vertreter nach DSA Artikel 13 ist nicht automatisch Zustellungsbevollmächtigter für eine Zivilklage und begründet keine Niederlassung.
 
 ## Anspruchspaket
 
@@ -95,18 +98,18 @@ Nutzer wird auf einer Online-Plattform gesperrt (Account-Sperre, Schattensperre,
 
 ## Schnittstelle Strafrecht
 
-Bei Sperrgrund "illegal content" prüfen, ob tatsächlich Straftatbestand erfüllt (§§ 185 ff., 86, 86a, 130 StGB, § 33 BDSG). Anwaltsstrategie: Sperre angreifen, ohne dem Mandanten neuen Strafvorwurf zu generieren.
+Bei Sperrgrund "rechtswidriger Inhalt" die konkret behauptete zivil-, straf- oder öffentlich-rechtliche Verbotsnorm prüfen. Äußerungsdelikte können insbesondere StGB Paragrafen 86, 86a, 130 und 185 ff. betreffen. BDSG Paragraf 33 ist keine Strafnorm. Eine Stellungnahme darf keine unnötigen neuen Tatsachen einräumen.
 
 ## Zentrale Normen (Paragrafenkette)
 
-- Art. 17, 20, 21, 23 DSA (VO 2022/2065) — Begründungspflicht, internes Beschwerdesystem, außergerichtliche Streitbeilegung, Transparenzberichte
+- DSA Artikel 17, 20, 21 und 23 - Begründungspflicht, internes Beschwerdesystem, außergerichtliche Streitbeilegung und Maßnahmen gegen missbräuchliche Nutzung; Transparenzberichte folgen insbesondere aus DSA Artikel 15 und 24.
 - §§ 307, 241 Abs. 2 BGB — AGB-Kontrolle und Rücksichtnahmepflichten
 - §§ 935, 940 ZPO — Einstweilige Verfügung
 - Art. 11 GRCh — Meinungsfreiheit
 
 ## Faktische Updates (Stand 05/2026)
 
-- **DSA — vollumfaenglich anwendbar:** DSA-Pflichten sind seit dem 17.02.2024 verbindlich. Art. 20-23 DSA (interne Beschwerde, ADR, vetted flaggers, Maßnahmen gegen Missbrauch) gelten für alle Online-Plattformen und Hosting-Dienste.
+- DSA - anwendbar seit dem 17.02.2024: DSA Artikel 20 bis 23 gelten für Online-Plattformen, vorbehaltlich der Ausnahme für Kleinst- und Kleinunternehmen nach DSA Artikel 19; für sehr große Online-Plattformen greift diese Ausnahme nicht. Ein bloßer Hostingdienst ist nicht allein deshalb Online-Plattform.
 - **DDG (Digitale-Dienste-Gesetz):** Das deutsche DDG ist 14.05.2024 in Kraft getreten (BGBl 2024 I Nr. 149); enthaelt nationale Durchfuehrungsbestimmungen, Bestimmung der BNetzA als DSC, Sanktionsregime, Klagebefugnisse, Verbraucher- und Datenschutz-Schnittstellen. Quelle: bgbl.de, bundesnetzagentur.de.
 - **ADR-Stellen Art. 21 DSA:** Liste der von der BNetzA zertifizierten Streitbeilegungsstellen live über bundesnetzagentur.de prüfen.
 - **BGH-Linie zu Account-Sperren:** Aktuelle Rechtsprechung zur AGB-Kontrolle der Sperr-Klauseln (BGH III. ZS) live über dejure.org prüfen. DSA ergaenzt die BGH-Linie (insb. zu Verfahrenspflichten, Begruendungstiefe, Art. 14 Abs. 4 DSA).

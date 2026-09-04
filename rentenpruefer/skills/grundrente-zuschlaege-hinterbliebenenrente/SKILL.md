@@ -3,7 +3,7 @@ name: grundrente-zuschlaege-hinterbliebenenrente
 description: "Für grundrente-und-zuschlaege: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
-# grundrente-und-zuschlaege
+# Grundrente und Zuschläge
 
 ## Normenanker
 

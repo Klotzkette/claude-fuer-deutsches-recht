@@ -92,7 +92,7 @@ Arbeitsgriff Arbeitsprodukt: Kundenanschreiben, Aufsichtsmemo, Klageentwurf, Ver
 | BGB Paragraf 675f | Zahlungsdiensterahmenvertrag und Zahlungsdienstepflichten | Kunde für Beratungssituation, Schaden und Kausalität; Bank für Aufklärung, Beratungsdokumentation, Autorisierung, Ausnahme und Organisationspflicht | Beratungsprotokoll, Erstattungsanspruch, Zahlungsdienstehaftung, Aufsichtsvermerk, Vertragsklausel oder Verteidigungslinie |
 | BGB Paragraf 675u und Paragraf 675v | Haftung bei nicht autorisierten Zahlungsvorgängen | Kunde für Beratungssituation, Schaden und Kausalität; Bank für Aufklärung, Beratungsdokumentation, Autorisierung, Ausnahme und Organisationspflicht | Beratungsprotokoll, Erstattungsanspruch, Zahlungsdienstehaftung, Aufsichtsvermerk, Vertragsklausel oder Verteidigungslinie |
 | BGB Paragraf 765 und Paragraf 766 | Bürgschaft und Schriftform | Kunde für Beratungssituation, Schaden und Kausalität; Bank für Aufklärung, Beratungsdokumentation, Autorisierung, Ausnahme und Organisationspflicht | Beratungsprotokoll, Erstattungsanspruch, Zahlungsdienstehaftung, Aufsichtsvermerk, Vertragsklausel oder Verteidigungslinie |
-| Paragraf 24 Abs. 1 KWG – laufende Anzeigepflichten | Nr. 1 Organpersonen (sofort), Nr. 11 qualifizierte Beteiligung (vor Vollzug), Nr. 12 Unterschreiten 10 % (unverzüglich), Nr. 14 enge | Kunde für Beratungssituation, Schaden und Kausalität; Bank für Aufklärung, Beratungsdokumentation, Autorisierung, Ausnahme und Organisationspflicht | Beratungsprotokoll, Erstattungsanspruch, Zahlungsdienstehaftung, Aufsichtsvermerk, Vertragsklausel oder Verteidigungslinie |
+| Paragraf 24 Abs. 1 KWG – laufende Anzeigepflichten | Nr. 1 Organpersonen (sofort), Nr. 11 qualifizierte Beteiligung (vor Vollzug), Nr. 12 Unterschreiten 10 % (unverzüglich), Nr. 14 enge Verbindungen, Nr. 16 Beteiligungen an Unternehmen, Nr. 19 wesentliche IT-Auslagerungen | Kunde für Beratungssituation, Schaden und Kausalität; Bank für Aufklärung, Beratungsdokumentation, Autorisierung, Ausnahme und Organisationspflicht | Beratungsprotokoll, Erstattungsanspruch, Zahlungsdienstehaftung, Aufsichtsvermerk, Vertragsklausel oder Verteidigungslinie |
 
 ## 6. Rechtsprechungsanker, Quellenstatus und Rechtsfolgen
 
@@ -113,7 +113,7 @@ Arbeitsgriff Arbeitsprodukt: Kundenanschreiben, Aufsichtsmemo, Klageentwurf, Ver
 - BGB Paragraf 675f: Zahlungsdiensterahmenvertrag und Zahlungsdienstepflichten.
 - BGB Paragraf 675u und Paragraf 675v: Haftung bei nicht autorisierten Zahlungsvorgängen.
 - BGB Paragraf 765 und Paragraf 766: Bürgschaft und Schriftform.
-- Paragraf 24 Abs. 1 KWG – laufende Anzeigepflichten: Nr. 1 Organpersonen (sofort), Nr. 11 qualifizierte Beteiligung (vor Vollzug), Nr. 12 Unterschreiten 10 % (unverzüglich), Nr. 14 enge; im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
+- Paragraf 24 Abs. 1 KWG – laufende Anzeigepflichten: Nr. 1 Organpersonen (sofort), Nr. 11 qualifizierte Beteiligung (vor Vollzug), Nr. 12 Unterschreiten 10 % (unverzüglich), Nr. 14 enge Verbindungen, Nr. 16 Beteiligungen an Unternehmen, Nr. 19 wesentliche IT-Auslagerungen; im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
 - Paragraf 24 Abs. 1a KWG – Geschäftsführer-Änderungen bei Finanzholdings; Abs. 3a Finanzkonglomerate; im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
 - Paragraf 25h KWG – interne Sicherungsmaßnahmen von Instituten; die Verdachtsmeldepflicht folgt aus Paragraf 43 GwG, das weitere Meldeverfahren aus Paragrafen 43 bis 48 GwG; im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
 - Paragraf 2c KWG – Inhaberkontrolle: Anzeige Erwerb (60-Werktage-Frist), Veräußerung, Überschreiten jeder Schwelle (10/20/30/50 %); InhKontrollV-Formulare; im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
@@ -197,21 +197,20 @@ Diese Routen stammen aus den konkreten Arbeitsthemen dieses Plugins. Wähle die 
 
 Bearbeitungsauftrag: Erstelle einen operativen Anzeigenkalender für KWG-Institute nach der Anzeigenverordnung (AnzV) und Paragraf 24 KWG. Paragraf 24 Absatz 1 KWG – laufende Anzeigepflichten: Nummer 1 Organpersonen (sofort), Nummer 11 qualifizierte Beteiligung (vor Vollzug), Nummer 12 Unterschreiten 10 % (unverzüglich), Nummer 14 enge Verbindungen, Nummer 16 Beteiligungen an Unternehmen, Nummer 19 wesentliche IT-Auslagerungen. Paragraf 24 Absatz 1a KWG – Geschäftsführer-Änderungen bei Finanzholdings.
 Prüfschritte: Er deckt alle meldepflichtigen Ereignisse ab: Organpersonenwechsel, qualifizierte Beteiligungen, enge Verbindungen, Auslagerungen, Vergütungssysteme, Millionenkredite und LEI-Aktualisierungen; Einreichweg (BaFin-Portal oder Bundesbank-Meldewesen) und Unterlagen werden für jede Anzeige konkret benannt.
-Norm- oder Entscheidungsbezug aus dem Fachmaterial: Erstelle einen operativen Anzeigenkalender für KWG-Institute nach der Anzeigenverordnung (AnzV) und Paragraf 24 KWG.
+Normbezug aus dem Fachmaterial: Erstelle einen operativen Anzeigenkalender für KWG-Institute nach der Anzeigenverordnung (AnzV) und Paragraf 24 KWG.
 Lieferstück: vollständige Einreichungs- oder Registervorlage mit Zuständigkeit, Pflichtfeldern, Nachweisen, Freigabe und Vollzugskontrolle.
 
 ### 16.2. Geschäftsleiterbestellung nach KWG und ZAG
 
 Bearbeitungsauftrag: Begleitet die vollständige Geschäftsleiterbestellung bei KWG-Instituten und ZAG-Zahlungsinstituten: von der frühzeitigen Fit-and-Proper-Prüfung über die Absichtsanzeige bis zur Vollzugsanzeige. Paragraf 25c KWG entsprechend; bei KAGB-Verwaltungsgesellschaften Paragraf 18 KAGB. Paragraf 25c Absatz 4 KWG – Mandatshöchstzahl bei bedeutenden Instituten: 1 Exekutivmandat + 2 Nicht-Exekutivmandate.
 Prüfschritte: Er deckt Zuverlässigkeit, fachliche Eignung, Zeitbudget und Doppelmandate ab; Paragraf 25c Absatz 1 KWG – Zuverlässigkeit und fachliche Eignung; Mindestvoraussetzungen für jede Geschäftsleiterin; Paragraf 25c Absatz 2 KWG – Zeitbudget: ausreichende Zeitkapazität.
-Norm- oder Entscheidungsbezug aus dem Fachmaterial: Er deckt Zuverlässigkeit, fachliche Eignung, Zeitbudget und Doppelmandate ab; Paragraf 25c Absatz 1 KWG – Zuverlässigkeit und fachliche Eignung; Mindestvoraussetzungen für jede Geschäftsleiterin; Paragraf 25c Absatz 2 KWG – Zeitbudget: ausreichende Zeitkapazität.
+Normbezug aus dem Fachmaterial: Er deckt Zuverlässigkeit, fachliche Eignung, Zeitbudget und Doppelmandate ab; Paragraf 25c Absatz 1 KWG – Zuverlässigkeit und fachliche Eignung; Mindestvoraussetzungen für jede Geschäftsleiterin; Paragraf 25c Absatz 2 KWG – Zeitbudget: ausreichende Zeitkapazität.
 Lieferstück: Fachvotum zu Geschäftsleiterbestellung nach KWG und ZAG mit Tatbestandsmerkmalen, Aktenfundstellen, Beweislast, stärkster Gegenposition, Risiko und ausformulierter Rechtsfolge.
 
 ### 16.3. Bankaufsichtsrecht KWG/MaRisk-Triage
 
 Bearbeitungsauftrag: Prüfe, welche bankaufsichtsrechtlichen Pflichten ein konkreter Vorgang auslöst, und ordnet ihn den einschlägigen KWG-Normen und MaRisk-Modulen zu. Die Triage deckt Risikomanagement, Compliance, interne Revision, Auslagerung und Aufsichtskommunikation ab. Paragraf 25b KWG – Auslagerung von Aktivitäten und Prozessen.
 Prüfschritte: Ergebnis ist kein Lehrbuch, sondern ein verwertbarer nächster Schritt: Vermerk, Entscheidungsvorlage, Risikoampel oder Gremienunterlage; Paragraf 25a KWG – Besondere organisatorische Pflichten: Risikomanagement, Compliance-Funktion, Interne Revision, Risikocontrolling; a–f konkretisiert die Mindestanforderungen.
-Norm- oder Entscheidungsbezug aus dem Fachmaterial: Ergebnis ist kein Lehrbuch, sondern ein verwertbarer nächster Schritt: Vermerk, Entscheidungsvorlage, Risikoampel oder Gremienunterlage; Paragraf 25a KWG – Besondere organisatorische Pflichten: Risikomanagement, Compliance-Funktion, Interne Revision, Risikocontrolling.
 Lieferstück: Kontrollvermerk zu Bankaufsichtsrecht KWG/MaRisk-Triage mit Pflicht, Ist-Nachweis, Abweichung, Risiko, Verantwortlichem, Frist und Freigabe.
 
 ### 16.4. KWG-Erlaubnis und Inhaberkontrolle
@@ -222,7 +221,7 @@ Lieferstück: Kontrollvermerk zu KWG-Erlaubnis und Inhaberkontrolle mit Pflicht,
 ### 16.5. Avalrahmenlinie und Kautionsaval
 
 Bearbeitungsauftrag: Avalrahmen und Kautionsaval in der Bankpraxis prüfen: Kreditgeschäft, Avalprovision, Limit, Sicherheiten, Abrufrisiko, Text der Garantie/Bürgschaft, Paragraf 1 KWG, Paragrafen 765 und folgende BGB, Paragrafen 349 und 350 HGB und Regress sauber dokumentieren. Kautionsaval, Anzahlungsaval, Gewährleistungsaval, Vertragserfüllungsaval, Zollaval, Steueraval, Prozessbürgschaft oder Sondertext.
-Norm- oder Entscheidungsbezug aus dem Fachmaterial: Avalrahmen und Kautionsaval in der Bankpraxis prüfen: Kreditgeschäft, Avalprovision, Limit, Sicherheiten, Abrufrisiko, Text der Garantie/Bürgschaft, Paragraf 1 KWG, Paragrafen 765 und folgende BGB, Paragrafen 349 und 350 HGB und Regress sauber dokumentieren.
+Normbezug aus dem Fachmaterial: Avalrahmen und Kautionsaval in der Bankpraxis prüfen: Kreditgeschäft, Avalprovision, Limit, Sicherheiten, Abrufrisiko, Text der Garantie/Bürgschaft, Paragraf 1 KWG, Paragrafen 765 und folgende BGB, Paragrafen 349 und 350 HGB und Regress sauber dokumentieren.
 Lieferstück: Fachvotum zu Avalrahmenlinie und Kautionsaval mit Tatbestandsmerkmalen, Aktenfundstellen, Beweislast, stärkster Gegenposition, Risiko und ausformulierter Rechtsfolge.
 
 ### 16.6. APP-Fraud Bank

@@ -25,17 +25,20 @@ Nutze diesen Skill, wenn eine W&I-Versicherung in den Deal einbezogen wird und d
 
 ## Prüfraster
 
-1. DD-Befund als Known, Unknown oder Datenraumlücke einordnen.
-2. SPA-Garantie und Police Coverage nebeneinanderlegen.
-3. Exclusion-Risiko bewerten: allgemein, spezifisch, verhandelbar, nicht versicherbar.
-4. Q&A für Underwriter formulieren, ohne neue unnötige Risiken zu öffnen.
-5. Closing-Dokumentation vorbereiten: No-Claims, Bring-Down, Disclosure Update.
+1. DD-Befund als bekannt, unbekannt oder Datenraumlücke einordnen und den jeweiligen Wissensgeber benennen.
+2. SPA-Garantie, Disclosure, in Textform gestellte Underwriting-Frage und Police-Deckung nebeneinanderlegen.
+3. Ausschlussrisiko bewerten: allgemein, spezifisch, verhandelbar oder nach Police nicht versicherbar.
+4. Underwriting-Antwort vollständig, präzise und belegt auf die konkrete Frage zuschneiden; Tatsachen, Rechtsbewertung und verbleibende Unsicherheit trennen.
+5. Rollenbezogene Wissensmatrix führen: Versicherungsnehmer, Organ, Abschlussvertreter, Makler, Deal-Team, DD-Berater, Versicherungsvertreter und Underwriter nicht gleichsetzen.
+6. Closing-Dokumentation vorbereiten: No-Claims-Erklärung, Bring-Down und Disclosure-Aktualisierung jeweils gegen Police-Definitionen prüfen.
 
 ## Rechtsprechungs- und Normanker
 
-- Paragraf 166 BGB: Wissenszurechnung über Vertreterstellung als Kernanker für Deal-Team-, Organ- und Beraterwissen; Knowledge-Definition im SPA, Disclosure Letter und Policy-Exclusions immer getrennt auswerten.
-- Paragraf 69 und Paragraf 70 VVG nur prüfen, wenn es wirklich um einen Versicherungsvertreter geht. Broker-, Makler- und Underwriter-Kommunikation nicht ohne saubere Rollenprüfung darunter ziehen.
-- Paragraf 19 VVG: vorvertragliche Anzeigeobliegenheit als Leitplanke für vollständige, aber nicht unnötig risikovergrößernde Underwriting-Antworten.
+- Paragrafen 19 bis 22 VVG: Anknüpfungspunkt sind die dem Versicherungsnehmer bekannten gefahrerheblichen Umstände, nach denen der Versicherer in Textform gefragt hat. Rechtsfolge, Geltendmachungsfrist, Kausalität und Arglist einzeln prüfen; bei einem Großrisiko zusätzlich Paragraf 210 VVG und die Police berücksichtigen.
+- Paragraf 20 VVG: Kenntnis und Arglist eines Vertreters werden nur in der gesetzlich beschriebenen Abschlussvertretung berücksichtigt. Die Vorschrift rechnet weder das Wissen des gesamten Deal-Teams noch jedes Beraterwissen pauschal zu.
+- Paragraf 166 BGB: Nur bei einer konkreten Vertretung für die maßgebliche Willenserklärung einsetzen; anschließend Vollmacht, Weisungslage und betroffene Erklärung bestimmen.
+- Paragrafen 59 und 61 VVG: Vermittlerrolle sauber einordnen. Paragraf 61 VVG betrifft Beratung und Dokumentation durch den Versicherungsvermittler, nicht die Leistungsfreiheit des Versicherers.
+- Paragrafen 69 und 70 VVG: Empfangs- und Kenntnisregeln nur auf einen Versicherungsvertreter anwenden. Makler-, Berater- und Underwriter-Kommunikation nicht ohne Rollenprüfung darunter ziehen.
 - Paragraf 133 und 157 BGB: Auslegung von SPA- und Police-Begriffen im Zusammenspiel.
 - Rechtsprechung nur einsetzen, wenn sie die konkrete Wissenszurechnung, Anzeigeobliegenheit, Auslegung oder Deckungsfrage trägt; Organhaftungsentscheidungen sind kein Ersatz für die Auslegung von SPA, Disclosure Letter und Police.
 

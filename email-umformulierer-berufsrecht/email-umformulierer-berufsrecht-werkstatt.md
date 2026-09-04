@@ -209,7 +209,7 @@ Lieferstück: Fachvotum zu Ironie und Sarkasmus eliminieren mit Tatbestandsmerkm
 
 Bearbeitungsauftrag: Bearbeite Kollegialitätsgebot-Prüfung entlang der Berufsrecht der rechts- und wirtschaftsberatenden Berufe-Prüflinie: Berufsträger und Pflichtenkreis: Kammerzugehörigkeit, Statusfragen und einschlägiges Berufsgesetz feststellen.
 Prüfschritte: E-Mail auf Einhaltung des Kollegialitätsgebots gegenüber Kollegen prüfen; Paragraf 43a Absatz 3 BRAO Paragraf 26 BORA Kollegialität; Prüfraster: kollegiale Formulierungen fehlende Abwertungen sachliche Kritik professioneller Umgangston; Output: Kollegialitäts-Prüfprotokoll Korrekturvorschläge; Abgrenzung: nicht für Mandantenkommunikation.
-Norm- oder Entscheidungsbezug aus dem Fachmaterial: Paragraf 43a Absatz 3 BRAO Paragraf 26 BORA Kollegialität; E-Mail auf Einhaltung des Kollegialitätsgebots gegenüber Kollegen prüfen; Paragraf 43a Absatz 3 BRAO Paragraf 26 BORA Kollegialität; Prüfraster: kollegiale Formulierungen fehlende Abwertungen sachliche Kritik professioneller Umgangston; Output: Kollegialitäts-Prüfprotokoll Korrekturvorschläge.
+Normbezug aus dem Fachmaterial: Paragraf 43a Absatz 3 BRAO Paragraf 26 BORA Kollegialität.
 Lieferstück: gewichtete Prüfmatrix mit Tatbestandsmerkmalen, Fundstellen, Gegenposition, Beweislast, Risiko und Empfehlung.
 
 ### 16.5. Persönlichen Angriff entschärfen

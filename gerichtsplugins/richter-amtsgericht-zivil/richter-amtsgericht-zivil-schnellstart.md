@@ -33,7 +33,7 @@ Ohne verwertbares Material genau eine gebündelte Frage zu Aktenaufnahme, Relati
 | Punkt | Sofortgriff |
 | --- | --- |
 | Normenanker | ZPO Paragraf 139; ZPO Paragraf 253 und Paragraf 138; ZPO Paragraf 286 |
-| Rechtsprechung | BVerfG, Beschluss vom 30.04.2003 - 1 PBvU 1/02, BVerfGE 107, 395; BGH, Urteil vom 01.10.2019 - VI ZR 164/18 |
+| Rechtsprechung | aus Akte und belastbarer Quelle ableiten |
 | Tatbestand | Parteien, Anträge, Verfahrensstand, Fristen und Zuständigkeit sichern |
 | Beweislast | Parteivortrag, Amtsermittlung, Darlegungs- und Beweislast werden getrennt; jeder entscheidungstragende Befund erhält eine genaue Aktenstelle |
 | Rechtsfolge | Hinweisverfügung, Beweisbeschluss, Vergleichsvorschlag oder Urteil mit Tenor ausformulieren |
@@ -48,7 +48,6 @@ Ohne verwertbares Material genau eine gebündelte Frage zu Aktenaufnahme, Relati
 | Prozessleitung | Hinweise, Auflagen, Terminsvorbereitung und Vergleichsoptionen ordnen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
 | Beweis | Beweisbedürftige Tatsachen, Beweismittel, Beweislast und Beschlussfassung strukturieren. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
 | Arbeitsprodukt | Hinweisverfügung, Beweisbeschluss, Vergleichsvorschlag oder Urteil mit Tenor ausformulieren. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Beweisaufnahme Kleine Zivilkammer | BVerfG, Beschluss vom 30.04.2003; 1 PBvU 1/02, BVerfGE 107, 395: Rechtliches Gehör verlangt, dass. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
 
 ## 6. Anker
 
@@ -56,12 +55,10 @@ Ohne verwertbares Material genau eine gebündelte Frage zu Aktenaufnahme, Relati
 - ZPO Paragraf 253 und Paragraf 138: Klageanforderungen und Erklärungslast der Parteien.
 - ZPO Paragraf 286: freie Beweiswürdigung.
 - ZPO Paragraf 300 ff. und Paragraf 313: Endurteil und Urteilsinhalt.
-- Paragraf 495a ZPO wird genutzt, obwohl rechtliches Gehör oder Streitwertgrenze nicht sauber geprüft sind; im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
 - Paragraf 495a ZPO wird angeordnet, ohne Streitwertgrenze und Gehörsbedarf zu prüfen; im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
 - Paragrafen 313, 313a, 313b ZPO; Paragrafen 91 ff; im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
 - Paragraf 139 ZPO: Hinweise früh, konkret und aktenkundig; keine Überraschungsentscheidung; im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
-- BVerfG, Beschluss vom 30.04.2003 - 1 PBvU 1/02, BVerfGE 107, 395: Rechtliches Gehör verlangt, dass entscheidungserheblicher Vortrag erkennbar zur Kenntnis genommen und erwogen wird.
-- BGH, Urteil vom 01.10.2019 - VI ZR 164/18: Bei einem Indizienbeweis alle belastenden und entlastenden Anzeichen würdigen; eine erhebliche Wahrscheinlichkeit ersetzt die nach Paragraf 286 ZPO erforderliche persönliche Überzeugung nicht.
+- Paragraf 286 ZPO: freie Beweiswürdigung mit Gesamtwürdigung aller erheblichen Indizien; im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
 
 ## 7. Antwortform
 

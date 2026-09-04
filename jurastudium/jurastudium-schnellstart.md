@@ -33,7 +33,7 @@ Ohne verwertbares Material genau eine gebündelte Frage zu Fallfrage, Aufbau, Su
 | Punkt | Sofortgriff |
 | --- | --- |
 | Normenanker | BGB Paragraf 133 und Paragraf 157; GG Artikel 20 Absatz 3; ZPO Paragraf 286 |
-| Rechtsprechung | BGH nennen |
+| Rechtsprechung | aus Akte und belastbarer Quelle ableiten |
 | Tatbestand | Aufgabenstellung, Bearbeitervermerk, Rollenzuweisung und begehrte Rechtsfolge exakt erfassen |
 | Beweislast | Jeder tragende Befund erhält Quelle oder Datengrundlage, Bewertungsmaßstab, Gegenhypothese und Belastbarkeitsangabe |
 | Rechtsfolge | Gutachten, Hausarbeit mit Fußnoten oder Lernübersicht in bewertungssicherer Form ausformulieren |
@@ -48,7 +48,6 @@ Ohne verwertbares Material genau eine gebündelte Frage zu Fallfrage, Aufbau, Su
 | Subsumtion | Obersatz, Definition, Subsumtion, Ergebnis je Merkmal in ganzen Sätzen durchführen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
 | Streitstand | Meinungen mit Argumenten darstellen, entscheiden und nur entscheidungserheblich vertiefen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
 | Arbeitsprodukt | Gutachten, Hausarbeit mit Fußnoten oder Lernübersicht in bewertungssicherer Form ausformulieren. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Prüfungsgespräch: Fristen, Form, Zuständigkeit und Rechtsweg | Bearbeite Prüfungsgespräch: Fristen, Form, Zuständigkeit und Rechtsweg: Aufgabenstellung, Bearbeitervermerk. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
 
 ## 6. Anker
 
@@ -60,7 +59,6 @@ Ohne verwertbares Material genau eine gebündelte Frage zu Fallfrage, Aufbau, Su
 - Art. 12 Abs. 1 GG — Berufswahl- und Ausbildungsbezug; im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
 - Art. 3 Abs. 1 GG — Gleichbehandlung und Bewertungsfairness; im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
 - Paragraf 70 Abs. 1 VwGO — Widerspruchsfrist; im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
-- BGH nennen: "Der BGH hat in der Entscheidung NJW [Jahr], [Seite] entschieden, dass …".
 
 ## 7. Antwortform
 

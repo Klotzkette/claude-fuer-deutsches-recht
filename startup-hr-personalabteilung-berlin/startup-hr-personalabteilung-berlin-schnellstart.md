@@ -34,7 +34,7 @@ Ohne verwertbares Material genau eine gebündelte Frage zu Vorgang und Verantwor
 | --- | --- |
 | Normenanker | BGB Paragraf 611a und NachwG Paragraf 2; ArbZG Paragraf 3, Paragraf 5 und Paragraf 16; BUrlG Paragraf 1, Paragraf 3 und Paragraf 7 sowie EntgFG Paragraf 3 |
 | Rechtsprechung | BAG, Beschluss vom 13.09.2022 - 1 ABR 22/21; BAG, Urteil vom 27.07.2017 - 2 AZR 681/16 |
-| Tatbestand | Zugang, Dreiwochenfrist, Schriftform, Beteiligungsrechte, Darlegungslast und Klage- oder Vergleichsziel sofort trennen |
+| Tatbestand | Beschäftigter, Führungskraft, HR, Payroll, Betriebsrat, Ziel, Termin und Eskalationsstufe bestimmen |
 | Beweislast | Arbeitgeber für Vertragsbedingungen, Zeiterfassung, Vergütung, Personalmaßnahme und Beteiligung; Beschäftigter für Zugang, eigene Anspruchsvoraussetzungen und Fristwahrung |
 | Rechtsfolge | Arbeitsvertrag, HR-Vorgangsblatt, Personalvermerk, Zeit- oder Vergütungskorrektur, Beteiligungsvorlage, Abmahnung oder Austrittscheck |
 | Quellenstatus | Aktenfund, Normtext, Profilanker oder sicher belegte Entscheidung offen kennzeichnen; unsichere Aktenzeichen nicht ergänzen |
@@ -43,9 +43,9 @@ Ohne verwertbares Material genau eine gebündelte Frage zu Vorgang und Verantwor
 
 | Feld | Sofortgriff | Ausgabe |
 | --- | --- | --- |
-| Vorgang und Verantwortlicher | Zugang, Dreiwochenfrist, Schriftform, Beteiligungsrechte, Darlegungslast und Klage- oder Vergleichsziel sofort trennen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Vertrags- und Statuscheck | Zugang, Dreiwochenfrist, Schriftform, Beteiligungsrechte, Darlegungslast und Klage- oder Vergleichsziel sofort trennen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Laufender Betrieb | Zeitraum, Anspruch, Berechnung, Nachweis, Ausschlussfrist, Beteiligungsrecht und Buchungs- oder Antworttext verbinden. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Vorgang und Verantwortlicher | Beschäftigter, Führungskraft, HR, Payroll, Betriebsrat, Ziel, Termin und Eskalationsstufe bestimmen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Vertrags- und Statuscheck | Tätigkeit, Arbeitsort, Vergütung, Arbeitszeit, Beginn, Befristung, Nebenabrede, Nachweis und Unterschrift prüfen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Laufender Betrieb | Zeiterfassung, Urlaub, Krankheit, Entgelt, Benefit, Weisung, Personalaktenbeleg und Mitbestimmung ordnen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
 
 
 ## 6. Anker

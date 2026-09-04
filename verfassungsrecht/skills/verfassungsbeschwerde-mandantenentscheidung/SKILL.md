@@ -1,6 +1,6 @@
 ---
 name: verfassungsbeschwerde-mandantenentscheidung
-description: "Für Verfassungsbeschwerde: Mandantenkommunikation und Entscheidungsvorlage: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
+description: "Übersetzt die Prüfung einer Verfassungsbeschwerde in eine verständliche Mandantenentscheidung: Beschwerdegegenstand, Beschwerdebefugnis, Rechtswegerschöpfung, Subsidiarität, Frist, Annahmerisiko und Ziel. Erstellt Entscheidungsvorlage, Fristenblatt und eine belastbare Empfehlung ohne Erfolgsgarantie."
 ---
 
 # Verfassungsbeschwerde: Mandantenkommunikation und Entscheidungsvorlage
@@ -9,18 +9,15 @@ description: "Für Verfassungsbeschwerde: Mandantenkommunikation und Entscheidun
 
 Vor einer rechtlichen Schlussfolgerung diese Anker am aktuellen Normtext prüfen; Spezial- und Landesrecht nur hinzunehmen, wenn es den konkreten Auftrag traegt:
 
-- `§ 1353 Abs. 1 BGB` — eheliche Lebensgemeinschaft.
-- `§ 1360 BGB` — Familienunterhalt.
-- `§ 1565 Abs. 1 BGB` — Scheidung.
-- `§ 1570 BGB` — Betreuungsunterhalt.
-- `§ 1601 BGB` — Verwandtenunterhalt.
-- `§ 1626 Abs. 1 BGB` — elterliche Sorge.
-- `§ 1671 BGB` — Sorgerechtsuebertragung.
-- `§ 1684 BGB` — Umgangsrecht.
-- `§ 23a Abs. 1 GVG` — Familiengerichtsbarkeit.
-- `§ 113 FamFG` — Verfahrensregeln in Familienstreitsachen.
+- GG Artikel 93 Absatz 1 Nummer 4a: verfassungsrechtliche Zuständigkeit für Verfassungsbeschwerden.
+- BVerfGG Paragrafen 13 Nummer 8a und 90: Statthaftigkeit, Beschwerdegegenstand, Beschwerdebefugnis und Rechtswegerschöpfung.
+- BVerfGG Paragraf 23 Absatz 1 und Paragraf 92: Form, Begründung und Bezeichnung des verletzten Rechts sowie des beanstandeten Handelns oder Unterlassens.
+- BVerfGG Paragraf 93: Monatsfrist gegen Entscheidungen und Jahresfrist gegen Gesetze oder sonstige Hoheitsakte; Fristauslöser und vollständige Begründung gesondert sichern.
+- BVerfGG Paragraf 93a: Annahme zur Entscheidung; grundsätzliche Bedeutung oder Durchsetzung der in BVerfGG Paragraf 90 Absatz 1 genannten Rechte.
+- BVerfGG Paragraf 32: einstweilige Anordnung mit eigenständiger Zulässigkeits- und Folgenabwägung.
+- BVerfGG Paragraf 34 Absatz 2: Missbrauchsgebühr als gesondert zu erläuterndes Kostenrisiko.
 
-Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei prüfbare Quelle vorliegen; keine BeckRS-/juris-Blindzitate verwenden.
+Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen, tragender Satz und amtlicher Volltext geprüft sind. Fachgerichtliche Fehler genügen nicht; der spezifische Verfassungsverstoß und die Auseinandersetzung mit tragenden Gründen der angegriffenen Entscheidung müssen substantiiert werden.
 
 ## Arbeitsweg
 

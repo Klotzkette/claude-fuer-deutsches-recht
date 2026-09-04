@@ -1,6 +1,6 @@
 ---
 name: ar-konkurrenzklausel-spezial
-description: "Für Ar Konkurrenzklausel Spezial: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
+description: "Nachvertragliches Wettbewerbsverbot: Prüft Schriftform, Urkundenaushändigung, Karenzentschädigung, Arbeitgeberinteresse, Reichweite, Verzicht, Anrechnung und Vertragsstrafe; erstellt Klauselprüfung und Zahlungsrechnung."
 ---
 
 # Nachvertragliches Wettbewerbsverbot Paragrafen 74–75d HGB analog: Karenzentschädigung ≥ 50 %, Schriftform, Verbindlichkeit, Freistellung durch Arbeitgeber, Verwirkung, Verstoß und Vertragsstrafe
@@ -55,14 +55,10 @@ Die Paragrafen 74 ff. HGB gelten unmittelbar für Handlungsgehilfen (Paragraf 59
 ## Karenzentschädigung — Berechnung
 
 ### Bezugsgröße
-50 % der zuletzt bezogenen vertragsmäßigen Leistungen (Paragraf 74 Abs. 2 HGB), also:
-- Grundgehalt (Durchschnitt der letzten 12 Monate)
-- Regelmäßige Provisionen und Prämien
-- Geldwerte Sonderleistungen (Dienstwagen zur privaten Nutzung, Zuschüsse)
-- Nicht: unregelmäßige Sonderzahlungen, einmalige Boni
+Mindestens 50 Prozent der zuletzt bezogenen vertragsmäßigen Leistungen (Paragraf 74 Absatz 2 HGB). Feste Bezüge sind nach dem letzten vertraglichen Stand anzusetzen. Wechselnde Bezüge, insbesondere Provisionen, sind nach Paragraf 74b Absatz 2 HGB grundsätzlich aus dem Durchschnitt der letzten drei Jahre zu ermitteln; bei kürzerer Vertragsdauer ist deren Dauer maßgeblich. Sachbezüge wie die private Dienstwagennutzung sind mit ihrem Wert einzubeziehen. Einmalige oder mehrjährige Leistungen sind nicht pauschal auszublenden, sondern nach Rechtsgrund und Bezugszeitraum zuzuordnen.
 
 ### Anrechnung anderweitigen Erwerbs Paragraf 74c HGB
-Anderweitiger Verdienst wird angerechnet, soweit die Summe aus Entschädigung und Erwerb 110 % des letzten Gehalts übersteigt. Arbeitnehmer muss anderweitigen Erwerb mitteilen.
+Anderweitiger Erwerb sowie böswillig unterlassener Erwerb werden nach Paragraf 74c HGB angerechnet, soweit Karenzentschädigung und Erwerb zusammen 110 Prozent der zuletzt bezogenen vertragsmäßigen Leistungen übersteigen. Musste der Arbeitnehmer wegen des Verbots seinen Wohnort verlegen, gilt die gesetzliche Schwelle von 125 Prozent. Der Arbeitgeber kann die geschuldete Auskunft und auf Verlangen Nachweise über den Erwerb fordern.
 
 ### Musterberechnung
 ```
@@ -79,12 +75,13 @@ Effektive Entschädigung: 1.450 €/Monat
 ## Freistellung durch Arbeitgeber
 
 ### Freistellungsrecht Paragraf 75a HGB
-Der Arbeitgeber kann den Arbeitnehmer vor Beendigung des Arbeitsverhältnisses schriftlich vom Wettbewerbsverbot freistellen. Dann:
-- Kein Entschädigungsanspruch ab dem Zeitpunkt der Freistellung
-- Ausnahme: Freistellung in der Absicht, den Arbeitnehmer in seiner wirtschaftlichen Freiheit zu schädigen (treuwidrig)
+Der Arbeitgeber kann vor Beendigung des Arbeitsverhältnisses schriftlich auf das Wettbewerbsverbot verzichten. Dann:
+- Der Arbeitnehmer wird mit Zugang der Erklärung von der Wettbewerbsbindung frei.
+- Die Pflicht zur Karenzentschädigung endet nicht sofort, sondern erst ein Jahr nach Zugang der Verzichtserklärung (Paragraf 75a HGB).
+- Zeitpunkt und nachweisbarer Zugang sind deshalb in einer eigenen Fristzeile festzuhalten.
 
-### Freistellungserklärung nach Vertragsende
-Nicht möglich; das Wettbewerbsverbot entsteht mit der Beendigung des Arbeitsverhältnisses.
+### Verzicht nach Vertragsende
+Ein einseitiger Verzicht nach Paragraf 75a HGB ist nach Beendigung des Arbeitsverhältnisses nicht mehr möglich. Eine einvernehmliche Aufhebung bleibt als gesonderte Vereinbarung zu prüfen.
 
 ## Verstoß und Rechtsfolgen
 
@@ -98,7 +95,7 @@ Nicht möglich; das Wettbewerbsverbot entsteht mit der Beendigung des Arbeitsver
 - Schadensersatzpflicht; bei Vereinbarung einer Vertragsstrafe diese als Mindestsatz
 
 ### AGB-Kontrolle Vertragsstrafe
-Klauseln mit Vertragsstrafe unterliegen Paragraf 307 BGB. Unangemessen hoch → Reduzierung auf das zulässige Maß (nicht Nichtigkeit im Arbeitsrecht, da Paragraf 343 BGB-Kontrolle durch Gericht).
+Vorformulierte Vertragsstrafenklauseln unterliegen Paragraf 307 BGB. Ist die Klausel wegen unangemessener Höhe oder intransparenter Kumulation unwirksam, wird sie nicht durch Paragraf 343 BGB auf ein zulässiges Maß herabgesetzt; eine geltungserhaltende Reduktion findet nicht statt. Paragraf 343 BGB bleibt für eine wirksam und individuell vereinbarte Vertragsstrafe relevant. BAG, Urteil vom 17.03.2022 - 8 AZR 332/21 ist als Anker für die fehlende Herabsetzung einer unwirksamen Formularvertragsstrafe nur innerhalb seines Klausel- und Streitgegenstands einzusetzen.
 
 ## Prüfschema Konkurrenzklausel
 
@@ -111,7 +108,7 @@ Klauseln mit Vertragsstrafe unterliegen Paragraf 307 BGB. Unangemessen hoch → 
 7. Wenn Verstoß behauptet: Beweis des Verstoßes, Schadensberechnung, Vertragsstrafe
 
 ## Muster: Freistellungserklärung (Kurzform)
-> „Die [Arbeitgeberin] erklärt hiermit, die [Arbeitnehmerin / den Arbeitnehmer] mit sofortiger Wirkung von dem im Arbeitsvertrag vom [Datum] vereinbarten nachvertraglichen Wettbewerbsverbot freizustellen. Die Pflicht zur Zahlung der Karenzentschädigung entfällt ab dem [Datum] der Zustellung dieser Erklärung."
+> „Die [Arbeitgeberin] verzichtet hiermit gemäß Paragraf 75a HGB mit Wirkung ab Zugang dieser Erklärung auf das im Arbeitsvertrag vom [Datum] vereinbarte nachvertragliche Wettbewerbsverbot. Der Arbeitnehmer ist ab Zugang nicht mehr an das Verbot gebunden. Die Verpflichtung zur Zahlung der Karenzentschädigung endet nach Ablauf eines Jahres seit Zugang dieser Erklärung, mithin mit Ablauf des [Datum]."
 
 ## Anschluss-Skills
 - `ar-aufhebungsvertrag-praxis` wenn das Wettbewerbsverbot in einen Aufhebungsvertrag eingebettet ist

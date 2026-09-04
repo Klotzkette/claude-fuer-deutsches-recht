@@ -91,8 +91,8 @@ Arbeitsgriff Arbeitsprodukt: Gutachten, Hausarbeit mit Fußnoten oder Lernübers
 | ZPO Paragraf 286 | freie Beweiswürdigung als Maßstab tatsächlicher Feststellungen in der Falllösung | Jeder tragende Befund erhält Quelle oder Datengrundlage, Bewertungsmaßstab, Gegenhypothese und Belastbarkeitsangabe | Gutachten, Hausarbeit mit Fußnoten oder Lernübersicht in bewertungssicherer Form ausformulieren |
 | DRiG Paragraf 5 ff | Ausbildungs- und Prüfungsrahmen der Juristenausbildung | Jeder tragende Befund erhält Quelle oder Datengrundlage, Bewertungsmaßstab, Gegenhypothese und Belastbarkeitsangabe | Gutachten, Hausarbeit mit Fußnoten oder Lernübersicht in bewertungssicherer Form ausformulieren |
 | Landesjustizausbildungsgesetze und JAO | Prüfungsanforderungen und zulässige Hilfsmittel | Jeder tragende Befund erhält Quelle oder Datengrundlage, Bewertungsmaßstab, Gegenhypothese und Belastbarkeitsangabe | Gutachten, Hausarbeit mit Fußnoten oder Lernübersicht in bewertungssicherer Form ausformulieren |
-| Paragrafen 186 bis 193 BGB | Fristberechnung; Beginn, Ende und Verlängerung von Fristen | Jeder tragende Befund erhält Quelle oder Datengrundlage, Bewertungsmaßstab, Gegenhypothese und Belastbarkeitsangabe | Gutachten, Hausarbeit mit Fußnoten oder Lernübersicht in bewertungssicherer Form ausformulieren |
 | Paragraf 125 BGB | Nichtigkeit wegen Formmangels; Grundregel für formunwirksame Rechtsgeschäfte | Jeder tragende Befund erhält Quelle oder Datengrundlage, Bewertungsmaßstab, Gegenhypothese und Belastbarkeitsangabe | Gutachten, Hausarbeit mit Fußnoten oder Lernübersicht in bewertungssicherer Form ausformulieren |
+| Paragraf 311b Abs. 1 BGB | Formpflicht und Heilung bei Grundstücksverträgen | Jeder tragende Befund erhält Quelle oder Datengrundlage, Bewertungsmaßstab, Gegenhypothese und Belastbarkeitsangabe | Gutachten, Hausarbeit mit Fußnoten oder Lernübersicht in bewertungssicherer Form ausformulieren |
 
 ## 6. Quellen-, Rechtsprechungs- und Belastbarkeitsstatus
 
@@ -107,7 +107,6 @@ Arbeitsgriff Arbeitsprodukt: Gutachten, Hausarbeit mit Fußnoten oder Lernübers
 - ZPO Paragraf 286: freie Beweiswürdigung als Maßstab tatsächlicher Feststellungen in der Falllösung.
 - DRiG Paragraf 5 ff.: Ausbildungs- und Prüfungsrahmen der Juristenausbildung.
 - Landesjustizausbildungsgesetze und JAO: Prüfungsanforderungen und zulässige Hilfsmittel.
-- Paragrafen 186 bis 193 BGB — Fristberechnung; Beginn, Ende und Verlängerung von Fristen; im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
 - Paragraf 125 BGB — Nichtigkeit wegen Formmangels; Grundregel für formunwirksame Rechtsgeschäfte; im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
 - Paragraf 311b Abs. 1 BGB — Formpflicht und Heilung bei Grundstücksverträgen; im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
 - Paragrafen 195, 199 BGB — Regelverjährung und Beginn der Verjährungsfrist; im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
@@ -115,6 +114,7 @@ Arbeitsgriff Arbeitsprodukt: Gutachten, Hausarbeit mit Fußnoten oder Lernübers
 - Paragrafen 12, 29, 32 ZPO — Allgemeiner und besonderer Gerichtsstand; im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
 - Art. 2 Abs. 1 GG — Vertragsfreiheit als Grundrecht, das staatliche Eingriffe rechtfertigungspflichtig macht; im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
 - Paragraf 138 BGB — Sittenwidrigkeit als Eingriffsermächtigung, aber begrenzt durch Schutzbedürfnis der schwächeren Partei; im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
+- Paragraf 307 BGB — AGB-Inhaltskontrolle als typisierter Schutz für Verbraucher und Unternehmer mit eingeschränkter Verhandlungsposition; im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
 
 ## 8. Leitentscheidungen und tragende Quellen
 
@@ -177,12 +177,12 @@ Die Landkarte dient der schnellen Auswahl. Sie ersetzt nicht die darunter ausfor
 | Anspruchsgrundlagen-Pyramide im Bauleitungsrecht | Es ist methodisch zu klären, welche Anspruchsgrundlagen in Frage kommen: Werkvertrag nach Paragraf 634 BGB, Pflichtverletzung nach Paragraf 280 BGB, Deliktsrecht nach Paragraf 823 BGB. | Teilbefund zu Anspruchsgrundlagen-Pyramide im Bauleitungsrecht mit Leitfrage, Maßstab, belastbarer Quelle, Gegenhypothese, Unsicherheitsgrad und nächstem Arbeitsschritt |
 | Freiheitlicher Paternalismus-Check im Vertragsrecht | Ein AGB-Klausel wird vom Gericht nach Paragraf 307 BGB für unwirksam erklärt, obwohl der Vertragspartner ein erfahrener Unternehmer war und die Klausel bewusst akzeptiert hat. | verhandlungsfähige Fassung mit Ausgangstext, Änderung, Begründung, Rückfallposition und Vollzugscheck |
 | Methodenlehre und Rechtsanwendung im bürgerlichen Recht (Anwaltsperspektive) | Du argumentierst mit einer Generalklausel (Paragraf 138 BGB, Paragraf 242 BGB, Paragraf 826 BGB, „wichtiger Grund", „Treu und Glauben") und musst ihre Auffangstellung begründen. | Teilbefund zu Methodenlehre und Rechtsanwendung im bürgerlichen Recht (Anwaltsperspektive) mit Leitfrage, Maßstab, belastbarer Quelle, Gegenhypothese, Unsicherheitsgrad. |
-| Unionsrechtskonforme Beweislast und Darlegungslast | Das Skill prüft, ob die unionsrechtliche Vermutung der Mangelhaftigkeit bei Gefahrübergang (Paragraf 477 BGB, Artikel 11 Warenkauf-Richtlinie) zu einer Beweislastumkehr führt, die dem Verkäufer die Beweislast auferlegt. | Beweismatrix zu Unionsrechtskonforme Beweislast und Darlegungslast mit Tatfrage, Beweislast, Beweismittel, Fundstelle, Gegenposition und Folge eines offenen Nachweises |
-| Verjährung, Fristennotiz und nächste Schritte | Das Skill berechnet, ob der Schadensersatzanspruch noch durchsetzbar ist (Paragrafen 195, 199 BGB), und prüft, wann der Mandant von Schaden und Schädiger Kenntnis erlangt hat. | Fristenblatt zu Verjährung, Fristennotiz und nächste Schritte mit Auslöser, Beginn, Ende, Vorfrist, Beleg, Sofortmaßnahme und Verantwortlichem |
 | Begründung, Anhörung und Adressatenfähigkeit | Prüfe insbesondere Paragraf 139 ZPO und Artikel 103 Absatz 1 GG. Begründungsfähigkeit testen: Kann das Ergebnis in Tatbestand, Subsumtion, Beweiswürdigung und Rechtsfolge nachvollziehbar erklärt werden? | Teilbefund zu Begründung, Anhörung und Adressatenfähigkeit mit Leitfrage, Maßstab, belastbarer Quelle, Gegenhypothese, Unsicherheitsgrad und nächstem Arbeitsschritt |
 | BVerfG-Grenzen richterlicher Rechtsfortbildung | Ein Zivilgericht weitet die Haftung nach Paragraf 823 BGB durch richterrechtliche Rechtsfortbildung auf eine Fallgruppe aus, die der Gesetzgeber erkennbar nicht erfassen wollte. | Teilbefund zu BVerfG-Grenzen richterlicher Rechtsfortbildung mit Leitfrage, Maßstab, belastbarer Quelle, Gegenhypothese, Unsicherheitsgrad und nächstem Arbeitsschritt |
-| Generalklauseln als Abwägungslenker im Zivilrecht | Ein Gericht will einen Vertrag nach Paragraf 242 BGB wegen geänderter Umstände anpassen. | verhandlungsfähige Fassung mit Ausgangstext, Änderung, Begründung, Rückfallposition und Vollzugscheck |
 | Konservative Methodenkritik: Gesetzesbindung und Texttreue | Ein Rechtswissenschaftler verfasst eine Anmerkung, in der er dies als Verletzung der Gesetzesbindung und als Usurpation gesetzgeberischer Kompetenz kritisiert. | Teilbefund zu Konservative Methodenkritik: Gesetzesbindung und Texttreue mit Leitfrage, Maßstab, belastbarer Quelle, Gegenhypothese, Unsicherheitsgrad und nächstem Arbeitsschritt |
+| Abwägung: Gewichtung und Intensität kollidierender Rechtspositionen | Intensität des Eingriffs (Existenzverlust) vs. Zwei Nachbarn streiten über eine Baumhecke, die Licht entzieht. | Teilbefund zu Abwägung: Gewichtung und Intensität kollidierender Rechtspositionen mit Leitfrage, Maßstab, belastbarer Quelle, Gegenhypothese, Unsicherheitsgrad. |
+| Abwägungslast und Non-liquet: Entscheiden bei unsicherer Abwägungsgrundlage | Es stellt sich die Frage, ob Paragraf 830 BGB, Beweislasterleichterungen oder der Anscheinsbeweis greifen. | Teilbefund zu Abwägungslast und Non-liquet: Entscheiden bei unsicherer Abwägungsgrundlage mit Leitfrage, Maßstab, belastbarer Quelle, Gegenhypothese, Unsicherheitsgrad. |
+| American Legal Realism und Critical Legal Studies | Zwei verwandte rechtskritische Stroemungen aus den USA, die das deutsche Methodendenken aus der Außenperspektive in Frage stellen. | Teilbefund zu American Legal Realism und Critical Legal Studies mit Leitfrage, Maßstab, belastbarer Quelle, Gegenhypothese, Unsicherheitsgrad und nächstem Arbeitsschritt |
 
 ## 16. Fachspezifische Praxisrouten
 
@@ -203,47 +203,47 @@ Lieferstück: verhandlungsfähige Fassung mit Ausgangstext, Änderung, Begründu
 Bearbeitungsauftrag: Du argumentierst mit einer Generalklausel (Paragraf 138 BGB, Paragraf 242 BGB, Paragraf 826 BGB, „wichtiger Grund", „Treu und Glauben") und musst ihre Auffangstellung begründen. Du strukturierst ein Memo, einen internen Vermerk oder einen Schriftsatz. Du musst eine Lücke schließen (Analogie, teleologische Reduktion, Erst-Recht-Schluss, Umkehrschluss).
 Lieferstück: Teilbefund zu Methodenlehre und Rechtsanwendung im bürgerlichen Recht (Anwaltsperspektive) mit Leitfrage, Maßstab, belastbarer Quelle, Gegenhypothese, Unsicherheitsgrad und nächstem Arbeitsschritt.
 
-### 16.4. Unionsrechtskonforme Beweislast und Darlegungslast
-
-Bearbeitungsauftrag: Das Skill prüft, ob die unionsrechtliche Vermutung der Mangelhaftigkeit bei Gefahrübergang (Paragraf 477 BGB, Artikel 11 Warenkauf-Richtlinie) zu einer Beweislastumkehr führt, die dem Verkäufer die Beweislast auferlegt. Eine Arbeitnehmerin behauptet diskriminierende Entlassung. Das Skill analysiert, ob die Beweislasterleichterung der Antidiskriminierungsrichtlinie (Richtlinie 2006/54/EG) für das Zivilgericht bindend ist und wie sie prozessstrategisch eingesetzt wird.
-Lieferstück: Beweismatrix zu Unionsrechtskonforme Beweislast und Darlegungslast mit Tatfrage, Beweislast, Beweismittel, Fundstelle, Gegenposition und Folge eines offenen Nachweises.
-
-### 16.5. Verjährung, Fristennotiz und nächste Schritte
-
-Bearbeitungsauftrag: Das Skill berechnet, ob der Schadensersatzanspruch noch durchsetzbar ist (Paragrafen 195, 199 BGB), und prüft, wann der Mandant von Schaden und Schädiger Kenntnis erlangt hat. Ein Unternehmer hat gegen eine fehlerhafte Lieferung keine Mängelrüge erhoben. Das Skill prüft, ob die kaufrechtliche Verjährung (Paragraf 438 BGB) abgelaufen ist, und untersucht, ob eine Hemmung durch Verhandlungen (Paragraf 203 BGB) eingetreten ist.
-Lieferstück: Fristenblatt zu Verjährung, Fristennotiz und nächste Schritte mit Auslöser, Beginn, Ende, Vorfrist, Beleg, Sofortmaßnahme und Verantwortlichem.
-
-### 16.6. Begründung, Anhörung und Adressatenfähigkeit
+### 16.4. Begründung, Anhörung und Adressatenfähigkeit
 
 Bearbeitungsauftrag: Prüfe insbesondere Paragraf 139 ZPO und Artikel 103 Absatz 1 GG. Begründungsfähigkeit testen: Kann das Ergebnis in Tatbestand, Subsumtion, Beweiswürdigung und Rechtsfolge nachvollziehbar erklärt werden? Adressatenfähigkeit sichern: Die unterlegene Partei muss erkennen können, welches Verhalten rechtlich falsch war und welche Norm dafür trägt.
 Lieferstück: Teilbefund zu Begründung, Anhörung und Adressatenfähigkeit mit Leitfrage, Maßstab, belastbarer Quelle, Gegenhypothese, Unsicherheitsgrad und nächstem Arbeitsschritt.
 
-### 16.7. BVerfG-Grenzen richterlicher Rechtsfortbildung
+### 16.5. BVerfG-Grenzen richterlicher Rechtsfortbildung
 
 Bearbeitungsauftrag: Ein Zivilgericht weitet die Haftung nach Paragraf 823 BGB durch richterrechtliche Rechtsfortbildung auf eine Fallgruppe aus, die der Gesetzgeber erkennbar nicht erfassen wollte. Der Mandant will Verfassungsbeschwerde einlegen und braucht die verfassungsrechtliche Begründung. Der Vermieter rügt, dies überschreite die Grenzen der Normauslegung und stelle eine unzulässige Gesetzeskorrektur dar.
 Lieferstück: Teilbefund zu BVerfG-Grenzen richterlicher Rechtsfortbildung mit Leitfrage, Maßstab, belastbarer Quelle, Gegenhypothese, Unsicherheitsgrad und nächstem Arbeitsschritt.
 
-### 16.8. Generalklauseln als Abwägungslenker im Zivilrecht
-
-Bearbeitungsauftrag: Ein Gericht will einen Vertrag nach Paragraf 242 BGB wegen geänderter Umstände anpassen. Bei der Sittenwidrigkeitsprüfung nach Paragraf 138 BGB ist streitig, welche gesellschaftlichen Wertungsmaßstäbe heranzuziehen sind. Das Skill klärt, ob allgemeine gesellschaftliche Anschauungen oder normative Leitlinien aus dem Gesetz selbst maßgebend sind.
-Lieferstück: verhandlungsfähige Fassung mit Ausgangstext, Änderung, Begründung, Rückfallposition und Vollzugscheck.
-
-### 16.9. Konservative Methodenkritik: Gesetzesbindung und Texttreue
+### 16.6. Konservative Methodenkritik: Gesetzesbindung und Texttreue
 
 Bearbeitungsauftrag: Ein Rechtswissenschaftler verfasst eine Anmerkung, in der er dies als Verletzung der Gesetzesbindung und als Usurpation gesetzgeberischer Kompetenz kritisiert. Das Skill hilft, diese Kritik methodisch zu strukturieren und auf ihre Tragfähigkeit zu prüfen. In der Diskussion über die Reichweite des Paragraf 242 BGB wird argumentiert, dass die extensive Rechtsfortbildung über Treu und Glauben zu Rechtsunsicherheit geführt hat.
 Lieferstück: Teilbefund zu Konservative Methodenkritik: Gesetzesbindung und Texttreue mit Leitfrage, Maßstab, belastbarer Quelle, Gegenhypothese, Unsicherheitsgrad und nächstem Arbeitsschritt.
 
-### 16.10. Abwägung: Gewichtung und Intensität kollidierender Rechtspositionen
+### 16.7. Abwägung: Gewichtung und Intensität kollidierender Rechtspositionen
 
 Bearbeitungsauftrag: Intensität des Eingriffs (Existenzverlust) vs. Zwei Nachbarn streiten über eine Baumhecke, die Licht entzieht. Zwischen Paragraf 903 BGB (Eigentümerfreiheit) und Paragraf 906 BGB (Duldungspflicht) steht eine Abwägung nach Ortsüblichkeit und Wesentlichkeit der Beeinträchtigung.
 Lieferstück: Teilbefund zu Abwägung: Gewichtung und Intensität kollidierender Rechtspositionen mit Leitfrage, Maßstab, belastbarer Quelle, Gegenhypothese, Unsicherheitsgrad und nächstem Arbeitsschritt.
 
-### 16.11. Abwägungslast und Non-liquet: Entscheiden bei unsicherer Abwägungsgrundlage
+### 16.8. Abwägungslast und Non-liquet: Entscheiden bei unsicherer Abwägungsgrundlage
 
 Bearbeitungsauftrag: Es stellt sich die Frage, ob Paragraf 830 BGB, Beweislasterleichterungen oder der Anscheinsbeweis greifen. Bei der Sittenwidrigkeitsprüfung nach Paragraf 138 BGB liegen Indizien vor, die für und gegen eine Übervorteilung sprechen. Das Gericht muss entscheiden, welche Seite die Last trägt, die Abwägungsunklarheit aufzulösen.
 Lieferstück: Teilbefund zu Abwägungslast und Non-liquet: Entscheiden bei unsicherer Abwägungsgrundlage mit Leitfrage, Maßstab, belastbarer Quelle, Gegenhypothese, Unsicherheitsgrad und nächstem Arbeitsschritt.
 
-### 16.12. American Legal Realism und Critical Legal Studies
+### 16.9. American Legal Realism und Critical Legal Studies
 
 Bearbeitungsauftrag: Zwei verwandte rechtskritische Stroemungen aus den USA, die das deutsche Methodendenken aus der Außenperspektive in Frage stellen. Legal Realism (American Legal Realism, 1920er-1940er Jahre): Juristische Entscheidungen sind nicht logische Ableitungen aus Normen, sondern Resultat sozialer, psychologischer und politischer Faktoren. Critical Legal Studies (CLS, ab 1970er): Recht ist nicht neutral, sondern Ausdruck und Reproduktion von Machtverhältnissen.
 Lieferstück: Teilbefund zu American Legal Realism und Critical Legal Studies mit Leitfrage, Maßstab, belastbarer Quelle, Gegenhypothese, Unsicherheitsgrad und nächstem Arbeitsschritt.
+
+### 16.10. Auslegung versus Rechtsfortbildung: Grenzprotokoll
+
+Bearbeitungsauftrag: Ein Gericht wendet Paragraf 242 BGB auf einen Fall an, der nach Wortlaut der einschlägigen Norm eigentlich nicht erfasst wird. Ein Anwalt möchte für seinen Mandanten eine günstige Auslegung einer Klausel in einem Langzeitvertrag durchsetzen, die über den klaren Wortlaut hinausgeht. Er benötigt eine Begründung, die den Übergang zur Rechtsfortbildung methodisch legitimiert.
+Lieferstück: Teilbefund zu Auslegung versus Rechtsfortbildung: Grenzprotokoll mit Leitfrage, Maßstab, belastbarer Quelle, Gegenhypothese, Unsicherheitsgrad und nächstem Arbeitsschritt.
+
+### 16.11. Diskurstheorie und juristische Argumentation (Habermas / Alexy)
+
+Bearbeitungsauftrag: Die Diskurstheorie ist eine moderne Rechtstheorie, die das Recht in den Begründungsprozess der demokratischen Gesellschaft einbettet. Hauptvertreter im philosophischen Bereich ist Juergen Habermas; ihre Übertragung auf die juristische Methodenlehre stammt von Robert Alexy. Im juristischen Diskurs gelten zusätzlich besondere Regeln (Gesetzesbindung, Präzedenz-Berücksichtigung, Dogmatik).
+Lieferstück: Teilbefund zu Diskurstheorie und juristische Argumentation (Habermas / Alexy) mit Leitfrage, Maßstab, belastbarer Quelle, Gegenhypothese, Unsicherheitsgrad und nächstem Arbeitsschritt.
+
+### 16.12. Formale Legalität vs. Einzelfallgerechtigkeit
+
+Bearbeitungsauftrag: Normanknüpfung suchen: Gibt es Paragrafen 138, 242, 313, 315, 307 und folgende , 826 BGB, Schutzpflichten, Treu- und-Glauben-Einwendungen, Verwirkung, Rechtsmissbrauch oder verfassungskonforme Auslegung? Kompetenzgrenze prüfen: Wird eine gesetzgeberische Wertung angewandt, fortentwickelt oder ersetzt? Verallgemeinerbarkeit testen: Kann der Korrekturmaßstab für künftige Fälle klar beschrieben werden?
+Lieferstück: Teilbefund zu Formale Legalität vs. Einzelfallgerechtigkeit mit Leitfrage, Maßstab, belastbarer Quelle, Gegenhypothese, Unsicherheitsgrad und nächstem Arbeitsschritt.

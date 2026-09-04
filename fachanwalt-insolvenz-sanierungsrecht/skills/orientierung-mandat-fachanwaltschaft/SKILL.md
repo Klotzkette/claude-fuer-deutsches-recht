@@ -3,7 +3,7 @@ name: orientierung-mandat-fachanwaltschaft
 description: "Für Orientierung Mandat Fachanwaltschaft: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt. Fachgebiet: Fachanwalt Insolvenz- und Sanierungsrecht."
 ---
 
-# Orientierung im Insolvenz- und Sanierungsrecht für Mandate und Fachanwaltschaft nach § 14 FAO
+# Orientierung im Insolvenz- und Sanierungsrecht für Mandate und Fachanwaltschaft nach Paragraf 14 FAO
 
 
 ## Arbeitsweg
@@ -24,10 +24,14 @@ description: "Für Orientierung Mandat Fachanwaltschaft: ordnet Norm, Beweislast
 - **Outputpflicht:** Krisenzeitachse, Liquiditätsstatus, Anfechtungsmatrix, Sicherheitenradar, IDW-S6-/Sanierungscheck, Register-/Grundbuch-Nachweispaket oder Schriftsatzbaustein.
 - **Fehlerbremse:** Tragende Normen/Entscheidungen live oder aus der Akte verifizieren; Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei prüfbarer Quelle. Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen.
 
-## FAO-Voraussetzungen (§ 14 FAO)
+## FAO-Voraussetzungen nach den Paragrafen 4, 4a, 5 und 14 FAO
 
-- Lehrgang 120 Stunden + drei Klausuren.
-- 60 Fälle in den letzten drei Jahren, davon mindestens 40 Fälle aus dem Insolvenzrecht und mindestens 20 rechtsförmliche Verfahren oder Aufgaben als Insolvenzverwalter, Sachwalter oder Sanierungsgeschäftsführer.
+- Theoretische Kenntnisse: Fachlehrgang mit mindestens 120 Zeitstunden; für die betriebswirtschaftlichen Grundlagen im Insolvenzrecht kommen 60 Zeitstunden hinzu. Zeiten für Leistungskontrollen werden nicht eingerechnet.
+- Leistungskontrollen: mindestens drei bestandene schriftliche Aufsichtsarbeiten in Präsenzform aus verschiedenen Lehrgangsbereichen, jeweils eine bis fünf Zeitstunden und insgesamt mindestens 15 Zeitstunden.
+- Praktische Erfahrung: innerhalb der letzten fünf Jahre vor Antragstellung persönlich und weisungsfrei bearbeitete Fälle.
+- Verfahrenspraxis: mindestens fünf eröffnete Verfahren aus dem ersten bis sechsten Teil der InsO als Insolvenzverwalter oder als Verfahrenskoordinator nach Paragraf 269e InsO; in zwei Verfahren muss der Schuldner bei Eröffnung mehr als fünf Arbeitnehmer beschäftigen.
+- Weitere Fallpraxis: 60 Fälle aus mindestens sieben der in Paragraf 14 Nummer 1 und 2 FAO bestimmten Gebiete. Ersetzungen der fünf Verfahren richten sich genau nach Paragraf 5 Absatz 1 Buchstabe g Nummer 3 FAO; für jedes ersetzte Verfahren sind zusätzlich acht Fälle nach Nummer 4 nachzuweisen.
+- Maßgeblich ist die [FAO in der seit 1. Dezember 2025 geltenden Fassung](https://www.brak.de/fileadmin/02_fuer_anwaelte/berufsrecht/028-FAO_Stand_01.12.2025.pdf).
 
 ## Wichtige Normen
 
@@ -63,7 +67,7 @@ description: "Für Orientierung Mandat Fachanwaltschaft: ordnet Norm, Beweislast
 
 - **Antragspflicht** § 15a Abs. 1 S. 1 InsO — bei Zahlungsunfähigkeit ohne schuldhaftes Zögern, spätestens drei Wochen; bei Überschuldung sechs Wochen.
 - **Insolvenzanfechtung** §§ 129 ff. InsO — Anfechtungsfristen drei bis zehn Jahre rückwärts ab Antragstellung.
-- **Forderungsanmeldung** §§ 28, 174 InsO — bis zum Schlusstermin; verspätete Anmeldung möglich, ggf. Kostenfolge.
+- **Forderungsanmeldung:** Das Insolvenzgericht setzt die Anmeldefrist im Eröffnungsbeschluss nach Paragraf 28 Absatz 1 InsO. Eine spätere Anmeldung wird nach Paragraf 177 InsO geprüft und kann Kosten auslösen; der Schlusstermin ist keine gesetzliche Anmeldefrist.
 - **Berufung gegen Eröffnungsbeschluss** § 34 InsO — sofortige Beschwerde § 6 InsO, ggf. zwei Wochen.
 
 ## Hauptgerichte

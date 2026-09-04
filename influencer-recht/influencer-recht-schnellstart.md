@@ -34,7 +34,7 @@ Ohne verwertbares Material genau eine gebündelte Frage zu Content und Gegenleis
 | --- | --- |
 | Normenanker | UWG Paragraf 3, Paragraf 5, Paragraf 5a, Paragraf 8 und Paragraf 13; Medienstaatsvertrag Paragraf 22; DDG Paragraf 5 |
 | Rechtsprechung | aus Akte und belastbarer Quelle ableiten |
-| Tatbestand | Kanal, Format, Zeitpunkt, Zielgruppe, Auftraggeber, Zahlung, Geschenk, Affiliate-Link, Eigenmarke und Freigabe |
+| Tatbestand | Kanal, Format, Zeitpunkt, Zielgruppe, Auftraggeber, Zahlung, Geschenk, Affiliate-Link, Eigenmarke und Freigabe erfassen |
 | Beweislast | Nachweisachse Kennzeichnung und Claim: kommerziellen Zweck, Erkennbarkeit, Platzierung, Sprache, Werbeaussage, Nachweis und Produktspezialrecht prüfen |
 | Rechtsfolge | Content-Freigabe, Kennzeichnungszeile, Brand-Deal-Redline, Rechte-Schedule, Plattformbeschwerde oder Abmahnantwort erstellen |
 | Quellenstatus | Aktenfund, Normtext, Profilanker oder sicher belegte Entscheidung offen kennzeichnen; unsichere Aktenzeichen nicht ergänzen |
@@ -43,9 +43,9 @@ Ohne verwertbares Material genau eine gebündelte Frage zu Content und Gegenleis
 
 | Feld | Sofortgriff | Ausgabe |
 | --- | --- | --- |
-| Content und Gegenleistung | Kanal, Format, Zeitpunkt, Zielgruppe, Auftraggeber, Zahlung, Geschenk, Affiliate-Link, Eigenmarke und Freigabe. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Content und Gegenleistung | Kanal, Format, Zeitpunkt, Zielgruppe, Auftraggeber, Zahlung, Geschenk, Affiliate-Link, Eigenmarke und Freigabe erfassen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
 | Kennzeichnung und Claim | Kommerziellen Zweck, Erkennbarkeit, Platzierung, Sprache, Werbeaussage, Nachweis und Produktspezialrecht prüfen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Rechte und Vertrag | Musik, Bild, Person, Marke, UGC, Nutzungsgebiet, Dauer, Exklusivität, Bearbeitung, Whitelisting und Vergütung. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Rechte und Vertrag | Musik, Bild, Person, Marke, UGC, Nutzungsgebiet, Dauer, Exklusivität, Bearbeitung, Whitelisting und Vergütung ordnen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
 
 
 ## 6. Anker

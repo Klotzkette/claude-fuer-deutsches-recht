@@ -214,7 +214,7 @@ Lieferstück: entscheidungsreifer Entwurf mit Tenor oder Verfügungssatz, Streit
 
 Bearbeitungsauftrag: Rolle des Mandanten: Verbraucher, Unternehmen, Verband (qualifizierte Einrichtung Paragraf 4 UKlaG, Verbraucherzentrale, BVDW, BNE, vzbv). Frist (Verbraucherrechte häufig kurz nach Paragraf 56 TKG; Verjährung Paragraf 195 BGB). Beschwerde im Eisenbahnbereich (Paragraf 66 ERegG) für Unternehmen.
 Prüfschritte: Gegnerunternehmen (TK-Anbieter, Netzbetreiber, Postdienstleister, EVU/EIU, Online-Plattform); Beschwerdegegenstand mit Tatsachenkern; Vorprozessuale Schritte (Schlichtung, vorgerichtliche Aufforderung).
-Norm- oder Entscheidungsbezug aus dem Fachmaterial: Rolle des Mandanten: Verbraucher, Unternehmen, Verband (qualifizierte Einrichtung Paragraf 4 UKlaG, Verbraucherzentrale, BVDW, BNE, vzbv); Sektor und konkrete Norm; Gegnerunternehmen (TK-Anbieter, Netzbetreiber, Postdienstleister, EVU/EIU, Online-Plattform).
+Normbezug aus dem Fachmaterial: Rolle des Mandanten: Verbraucher, Unternehmen, Verband (qualifizierte Einrichtung Paragraf 4 UKlaG, Verbraucherzentrale, BVDW, BNE, vzbv); Sektor und konkrete Norm; Gegnerunternehmen (TK-Anbieter, Netzbetreiber, Postdienstleister, EVU/EIU, Online-Plattform).
 Lieferstück: frist- und formgerechter Entwurf mit Antrag, tragenden Tatsachen, Beweisangeboten, Anlagen und Einreichungsweg.
 
 ### 16.6. Verfahren: Eilrechtsschutz Paragraf 80 VwGO
@@ -232,7 +232,7 @@ Lieferstück: Fristenblatt zu Aktenzugang, Geschäftsgeheimnisse, Schwärzung be
 
 Bearbeitungsauftrag: Sofortige Vollziehbarkeit angeordnet (Paragraf 80 Absatz 2 Nummer 4 VwGO) oder kraft Gesetzes ausgeschlossene Suspensiveffekt. Frist (in der Regel keine starre Eilfrist, aber Rechtsschutzbedürfnis erlischt bei Untätigkeit). Verwaltungsakt mit sofortiger Vollziehbarkeit: Paragraf 80 Absatz 5 VwGO.
 Prüfschritte: Angegriffener Akt: Verwaltungsakt (Bußgeld, Untersagung, Anordnung) oder Realhandeln/Unterlassen; Hauptsacheverfahren bereits anhängig; Drohender Schaden, Reversibilität, Marktwirkung, Verbraucherbezug.
-Norm- oder Entscheidungsbezug aus dem Fachmaterial: Angegriffener Akt: Verwaltungsakt (Bußgeld, Untersagung, Anordnung) oder Realhandeln/Unterlassen; Sofortige Vollziehbarkeit angeordnet (Paragraf 80 Absatz 2 Nummer 4 VwGO) oder kraft Gesetzes ausgeschlossene Suspensiveffekt; Paragraf 137 Absatz 1 TKG.
+Normbezug aus dem Fachmaterial: Angegriffener Akt: Verwaltungsakt (Bußgeld, Untersagung, Anordnung) oder Realhandeln/Unterlassen; Sofortige Vollziehbarkeit angeordnet (Paragraf 80 Absatz 2 Nummer 4 VwGO) oder kraft Gesetzes ausgeschlossene Suspensiveffekt; Paragraf 137 Absatz 1 TKG.
 Lieferstück: Fachvotum zu Eilverfahren beim Verwaltungsgericht in BNetzA-Sachen mit Tatbestandsmerkmalen, Aktenfundstellen, Beweislast, stärkster Gegenposition, Risiko und ausformulierter Rechtsfolge.
 
 ### 16.9. Post: Arbeitsbedingungen Postmarkt Schnittstelle
@@ -240,20 +240,17 @@ Lieferstück: Fachvotum zu Eilverfahren beim Verwaltungsgericht in BNetzA-Sachen
 Bearbeitungsauftrag: Normen- und Behördenanker: PostG, Universaldienst, Entgelt-/Teilleistungszugang, Qualitätsvorgaben, Beschwerde- und Schlichtungsstrukturen sowie aktuelle BNetzA-Festlegungen. Beleglogik: Jede Zahl, Schwelle, Netzkomponente, Frist oder technische Behauptung braucht Quelle: Bescheid, Konsultationsdokument, Erhebungsbogen, Registerauszug, Vertrag, Messdaten, Ticket oder Behördenmail.
 Lieferstück: Fachvotum zu Post: Arbeitsbedingungen Postmarkt Schnittstelle mit Tatbestandsmerkmalen, Aktenfundstellen, Beweislast, stärkster Gegenposition, Risiko und ausformulierter Rechtsfolge.
 
-### 16.10. Außergerichtliche Streitbeilegungsstelle nach Art. 21 DSA
+### 16.10. Stellungnahme und Compliance-Aktionsplan
 
-Bearbeitungsauftrag: Rolle: Antragsteller (Nutzer), Plattform, Streitbeilegungsstelle, BNetzA. Gebührenstruktur (für Verbraucher kostenfrei; Plattform trägt Verfahrenskosten Artikel 21 Absatz 5 DSA). Artikel 16-Notice und Artikel 20-Beschwerde bei der Plattform vorgeschaltet.
-Prüfschritte: Verfahrensgegenstand (Plattformentscheidung mit Verfahrensnummer, Zeitpunkt, betroffener Inhalt, betroffenes Konto, Statement of Reasons nach Artikel 17 DSA); zuständiger Mitgliedstaat (Sitzlandprinzip Artikel 56 DSA); Frist Artikel 16 DSA (interne Beschwerde) bzw; Artikel 20 DSA (interne Streitbeilegung der Plattform) bereits durchlaufen; Verfahrenssprache und gewünschte Entscheidungstiefe.
-Norm- oder Entscheidungsbezug aus dem Fachmaterial: Verfahrensgegenstand (Plattformentscheidung mit Verfahrensnummer, Zeitpunkt, betroffener Inhalt, betroffenes Konto, Statement of Reasons nach Artikel 17 DSA); Plattform und ggf; Zuständiger Mitgliedstaat (Sitzlandprinzip Artikel 56 DSA).
-Lieferstück: Fachvotum zu Außergerichtliche Streitbeilegungsstelle nach Art. 21 DSA mit Tatbestandsmerkmalen, Aktenfundstellen, Beweislast, stärkster Gegenposition, Risiko und ausformulierter Rechtsfolge.
+Bearbeitungsauftrag: Bearbeite Stellungnahme und Compliance-Aktionsplan entlang der Regulierungs- und Wirtschaftsverwaltungsrecht-Prüflinie: Arbeitsprodukt: Auskunftsantwort, Stellungnahme, Rechtsbehelf oder Informationszugangsantrag ausformulieren.
+Lieferstück: versandfertiges Schreiben mit Betreff, Sachverhaltskern, Rechtsgrund, konkretem Begehren, Frist und Anlagenverzeichnis.
 
-### 16.11. Energie: BBPlG Leitungsvorhaben
+### 16.11. Telekommunikation: Campusnetze 5G
 
-Bearbeitungsauftrag: Normen- und Behördenanker: EnWG, ARegV, StromNEV/GasNEV, MsbG, EEG, KWKG, REMIT, NABEG und die einschlägige Beschlusskammerpraxis der BNetzA. Beleglogik: Jede Zahl, Schwelle, Netzkomponente, Frist oder technische Behauptung braucht Quelle: Bescheid, Konsultationsdokument, Erhebungsbogen, Registerauszug, Vertrag, Messdaten, Ticket oder Behördenmail.
-Lieferstück: Fachvotum zu Energie: BBPlG Leitungsvorhaben mit Tatbestandsmerkmalen, Aktenfundstellen, Beweislast, stärkster Gegenposition, Risiko und ausformulierter Rechtsfolge.
+Bearbeitungsauftrag: Bearbeite Telekommunikation: Campusnetze 5G entlang der Regulierungs- und Wirtschaftsverwaltungsrecht-Prüflinie: Behörde und Verfahren: zuständige Aufsicht, Verfahrensart, Verfahrensstand und Aktenzeichen feststellen.
+Lieferstück: Fachvotum zu Telekommunikation: Campusnetze 5G mit Tatbestandsmerkmalen, Aktenfundstellen, Beweislast, stärkster Gegenposition, Risiko und ausformulierter Rechtsfolge.
 
-### 16.12. Anreizsetzungssystem im Eisenbahnverkehr (ASS) nach Paragraf 39 ERegG
+### 16.12. TK-Regulierungsakte: TKG Marktregulierung beträchtliche Marktmacht — Rechtsmittel-Check
 
-Bearbeitungsauftrag: Anwendungsbereich (Personen- und Güterverkehr unterschiedlich), Verspätungsdefinition (in Deutschland regelmäßig ab 6 Minuten), Ausnahmen (höhere Gewalt, Streik, gegenseitige Verursachung). Quelle (Leit- und Steuerungssystem, automatisierte Erfassung), Datenqualität, Audit. Malus bei verspätetem EVU, Kappung, Übergangsfristen, sektorbezogene Differenzierung (Personenfern, Personennah, Güter).
-Prüfschritte: Aktuell geltendes Anreizsystem (Schienennetz-Benutzungsbedingungen SNB); Konkrete Streitpunkte (Schwellenwerte, Verspätungs- und Stornierungsdefinition, Datengrundlage, Sanktionierung); Verfahrensstand bei der BNetzA (Konsultation, Festlegungsentwurf, Beschluss); Schnittstellen zu Trassenpreissystem und Stationspreissystem.
-Lieferstück: Fachvotum zu Anreizsetzungssystem im Eisenbahnverkehr (ASS) nach Paragraf 39 ERegG mit Tatbestandsmerkmalen, Aktenfundstellen, Beweislast, stärkster Gegenposition, Risiko und ausformulierter Rechtsfolge.
+Bearbeitungsauftrag: Bearbeite TK-Regulierungsakte: TKG Marktregulierung beträchtliche Marktmacht — Rechtsmittel-Check als konkreten Vorgang im Gebiet Regulierungs- und Wirtschaftsverwaltungsrecht. Isoliere angegriffene Entscheidung und Rechtsschutzziel, sichere Statthaftigkeit, Beschwer, Zuständigkeit, Frist, Form und Beteiligte und formuliere aus Tatsachen, Beweisen und stärkster Gegenposition einen bestimmten Antrag mit Einreichungsweg. Normenanker: TKG: Marktregulierung, Frequenz- und Nummernverwaltung, Kundenschutz.
+Lieferstück: frist- und formgerechter Entwurf mit Antrag, tragenden Tatsachen, Beweisangeboten, Anlagen und Einreichungsweg.

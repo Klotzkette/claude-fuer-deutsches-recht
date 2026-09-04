@@ -79,7 +79,7 @@ Arbeitsgriff Arbeitsprodukt: Registeranmeldung, Vertragsklausel, Rüge, Provisio
 | --- | --- | --- | --- |
 | Fallkern | Statuscheck Handelsvertreter nach Paragraf 84 HGB | HGB Paragraf 1 bis Paragraf 6 | Sofortvermerk mit Ergebnisrichtung, Risiko und nächstem Schritt |
 | Zulässigkeit und Frist | Frist, Form, Zuständigkeit, Rolle und statthafter Weg | HGB Paragraf 15 und Paragraf 17 bis Paragraf 37 | Fristenblatt oder Prozess-/Verfahrensroute |
-| Begründetheit | Kundenliste und Herausgabepflicht bei Vertragsende nach Paragraf 88 HGB | HGB Paragraf 15 und Paragraf 17 bis Paragraf 37 | Tatbestandsmatrix mit Beleg und Gegenargument |
+| Begründetheit | EU-Handelsvertreterrichtlinie 86/653/EWG und ihre Umsetzung im deutschen HGB | HGB Paragraf 15 und Paragraf 17 bis Paragraf 37 | Tatbestandsmatrix mit Beleg und Gegenargument |
 | Rechtsfolge | Registeranmeldung, Vertragsklausel, Rüge, Provisionsabrechnung, Buchauszugsverlangen, Kündigung oder Klageentwurf erstellen | Nachweisachse Vertretung: Organ, Prokura, Handlungsvollmacht, Rechtsschein, Umfang und Nachweis der Vertretungsmacht prüfen | Antrag, Entwurf, Entscheidungsvorschlag oder Mandantenbrief |
 
 ## 5. Normenanker, Tatbestandswichtigkeiten und Beweislast
@@ -141,7 +141,7 @@ Arbeitsgriff Arbeitsprodukt: Registeranmeldung, Vertragsklausel, Rüge, Provisio
 10.5. Beweislast: Nachweisachse Vertretung: Organ, Prokura, Handlungsvollmacht, Rechtsschein, Umfang und Nachweis der Vertretungsmacht prüfen. Zeige ausdrücklich, welche Folge ein offener Beweis hat.
 10.6. Gegenposition: Formuliere den stärksten ernsthaften Angriff; hier setzt die Gegenseite typischerweise bei wer handelte mit welcher Vertretungsmacht und welcher Rechtsschein greift an.
 10.7. Erwiderung: Antworte mit konkretem Gegenbeleg, Auslegung oder Beweislastregel und ziehe die Folge auf Registeranmeldung, Vertragsklausel, Rüge, Provisionsabrechnung, Buchauszugsverlangen, Kündigung oder Klageentwurf erstellen; ein bloßes Bestreiten genügt nicht.
-10.8. Arbeitsprodukt: Schließe mit Antrag, Tenor, Klausel, Entscheidung oder nächstem Schritt; hier typischerweise Ausgabe entlang der Kernfelder Statuscheck Handelsvertreter nach Paragraf 84 HGB, Kundenliste und Herausgabepflicht bei Vertragsende nach Paragraf 88 HGB, Vollstreckung des Buchauszugsanspruchs nach Paragraf 87c HGB und Paragraf 888 ZPO, Alleinvertreter und Bezirksprovision nach Paragraf 87 Abs. 2 HGB: Kurzvermerk, Prüfmatrix.
+10.8. Arbeitsprodukt: Schließe mit Antrag, Tenor, Klausel, Entscheidung oder nächstem Schritt; hier typischerweise Ausgabe entlang der Kernfelder Statuscheck Handelsvertreter nach Paragraf 84 HGB, EU-Handelsvertreterrichtlinie 86/653/EWG und ihre Umsetzung im deutschen HGB, Kundenliste und Herausgabepflicht bei Vertragsende nach Paragraf 88 HGB, Alleinvertreter und Bezirksprovision nach Paragraf 87 Abs. 2 HGB: Kurzvermerk, Prüfmatrix.
 10.9. Quellenstatus: Ordne Rechtsprechung nach Tragweite ein; erste Fallanker sind erst nach verifizierter Recherche einzusetzen.
 
 ## 11. Outputvarianten und Empfängerwunsch
@@ -177,8 +177,8 @@ Die Landkarte dient der schnellen Auswahl. Sie ersetzt nicht die darunter ausfor
 | Arbeitsfeld | Entscheidende Weiche | Erstes Lieferstück |
 | --- | --- | --- |
 | Statuscheck Handelsvertreter nach Paragraf 84 HGB | Unterstützt bei rechtlichen Fragen rund um Statuscheck Handelsvertreter nach Paragraf 84 HGB. | gewichtete Prüfmatrix mit Tatbestandsmerkmalen, Fundstellen, Gegenposition, Beweislast, Risiko und Empfehlung |
+| EU-Handelsvertreterrichtlinie 86/653/EWG und ihre Umsetzung im deutschen HGB | Unterstützt bei rechtlichen Fragen rund um EU-Handelsvertreterrichtlinie 86/653/EWG und ihre Umsetzung im deutschen HGB. | Fachvotum zu EU-Handelsvertreterrichtlinie 86/653/EWG und ihre Umsetzung im deutschen HGB mit Tatbestandsmerkmalen, Aktenfundstellen, Beweislast, stärkster Gegenposition, Risiko. |
 | Kundenliste und Herausgabepflicht bei Vertragsende nach Paragraf 88 HGB | Unterstützt bei rechtlichen Fragen rund um Kundenliste und Herausgabepflicht bei Vertragsende nach Paragraf 88 HGB. Handelsvertreter X nutzt die Kundenliste nach Vertragsende weiter für eigene Akquise. | verhandlungsfähige Fassung mit Ausgangstext, Änderung, Begründung, Rückfallposition und Vollzugscheck |
-| Vollstreckung des Buchauszugsanspruchs nach Paragraf 87c HGB und Paragraf 888 ZPO | Unterstützt bei rechtlichen Fragen rund um Vollstreckung des Buchauszugsanspruchs nach Paragraf 87c HGB und Paragraf 888 ZPO. Handelsvertreter X hat ein rechtskräftiges Urteil auf Erteilung des Buchauszugs. | Fachvotum zu Vollstreckung des Buchauszugsanspruchs nach Paragraf 87c HGB und Paragraf 888 ZPO mit Tatbestandsmerkmalen, Aktenfundstellen, Beweislast, stärkster Gegenposition. |
 | Alleinvertreter und Bezirksprovision nach Paragraf 87 Abs. 2 HGB | Unterstützt bei rechtlichen Fragen rund um Alleinvertreter und Bezirksprovision nach Paragraf 87 Absatz 2 HGB. | Fachvotum zu Alleinvertreter und Bezirksprovision nach Paragraf 87 Abs. 2 HGB mit Tatbestandsmerkmalen, Aktenfundstellen, Beweislast, stärkster Gegenposition, Risiko. |
 | Anmeldung des Ausgleichsanspruchs nach Paragraf 89b Abs. 4 HGB | Unterstützt bei rechtlichen Fragen rund um Anmeldung des Ausgleichsanspruchs nach Paragraf 89b Absatz 4 HGB. Handelsvertreter X hat das Vertreterverhältnis mit Unternehmer Y im März beendet. | vollständige Einreichungs- oder Registervorlage mit Zuständigkeit, Pflichtfeldern, Nachweisen, Freigabe und Vollzugskontrolle |
 | Ausgleichsanspruch im Kfz-Vertrieb — Handelsvertreter oder Vertragshändler? | Unterstützt bei rechtlichen Fragen rund um Ausgleichsanspruch im Kfz-Vertrieb — Handelsvertreter oder Vertragshändler? Kfz-Händler X war jahrelang als Vertragshändler für Hersteller Y tätig. | verhandlungsfähige Fassung mit Ausgangstext, Änderung, Begründung, Rückfallposition und Vollzugscheck |
@@ -194,35 +194,34 @@ Diese Routen stammen aus den konkreten Arbeitsthemen dieses Plugins. Wähle die 
 
 Bearbeitungsauftrag: Unterstützt bei rechtlichen Fragen rund um Statuscheck Handelsvertreter nach Paragraf 84 HGB. Unternehmer Y möchte wissen, ob sein neuer Vertriebspartner X als Handelsvertreter nach Paragraf 84 HGB oder als angestellter Reisender einzustufen ist. Anwältin A prüft vor Abschluss eines neuen Vertrages, ob die vorgesehene Vertragsstruktur die Handelsvertreter-Eigenschaft nach Paragraf 84 HGB erfüllt.
 Prüfschritte: Er deckt HGB Paragrafen 84–92c und die EU-Handelsvertreterrichtlinie 86/653/EWG ab; Ziel: konkrete, umsetzbare Ergebnisse für Handelsvertreter und Unternehmer; Zwingende Normen (Paragraf 92c HGB) schützen den Handelsvertreter auch bei ausländischer Rechtswahl; BGH und EuGH haben zentrale Rechtsfragen durch Leitentscheidungen geprägt; Handelsvertreter X wird von der Deutschen Rentenversicherung geprüft.
-Norm- oder Entscheidungsbezug aus dem Fachmaterial: Unterstützt bei rechtlichen Fragen rund um Statuscheck Handelsvertreter nach Paragraf 84 HGB; Er deckt HGB Paragrafen 84–92c und die EU-Handelsvertreterrichtlinie 86/653/EWG ab; Ziel: konkrete, umsetzbare Ergebnisse für Handelsvertreter und Unternehmer; Zwingende Normen (Paragraf 92c HGB) schützen den Handelsvertreter auch bei ausländischer Rechtswahl.
+Normbezug aus dem Fachmaterial: Unterstützt bei rechtlichen Fragen rund um Statuscheck Handelsvertreter nach Paragraf 84 HGB.
 Lieferstück: gewichtete Prüfmatrix mit Tatbestandsmerkmalen, Fundstellen, Gegenposition, Beweislast, Risiko und Empfehlung.
 
-### 16.2. Kundenliste und Herausgabepflicht bei Vertragsende nach Paragraf 88 HGB
+### 16.2. EU-Handelsvertreterrichtlinie 86/653/EWG und ihre Umsetzung im deutschen HGB
+
+Bearbeitungsauftrag: Unterstützt bei rechtlichen Fragen rund um EU-Handelsvertreterrichtlinie 86/653/EWG und ihre Umsetzung im deutschen HGB. Ziel sind konkrete, umsetzbare Ergebnisse: Schriftsätze, Berechnungen, Vertragsentwürfe und Prüfvermerke. Sowohl die Handelsvertreter- als auch die Unternehmerseite werden abgedeckt.
+Prüfschritte: Er deckt die wichtigsten Normen des deutschen Handelsvertreterrechts nach HGB Paragrafen 84–92c ab und bezieht die EU-Handelsvertreterrichtlinie 86/653/EWG sowie BGH- und EuGH-Rechtsprechung ein; Handelsvertreter X beruft sich gegenüber Unternehmer Y auf Artikel 17 RL 86/653/EWG, weil das deutsche Paragraf 89b HGB in seinem Fall zu einem geringeren Ausgleich führt als die Richtlinie fordert; Unternehmer Y versucht, den Ausgleich durch eine Vertragsklausel auszuschließen; Handelsvertreter X prüft, ob Artikel 19 RL 86/653/EWG dem entgegensteht.
+Lieferstück: Fachvotum zu EU-Handelsvertreterrichtlinie 86/653/EWG und ihre Umsetzung im deutschen HGB mit Tatbestandsmerkmalen, Aktenfundstellen, Beweislast, stärkster Gegenposition, Risiko und ausformulierter Rechtsfolge.
+
+### 16.3. Kundenliste und Herausgabepflicht bei Vertragsende nach Paragraf 88 HGB
 
 Bearbeitungsauftrag: Unterstützt bei rechtlichen Fragen rund um Kundenliste und Herausgabepflicht bei Vertragsende nach Paragraf 88 HGB. Handelsvertreter X nutzt die Kundenliste nach Vertragsende weiter für eigene Akquise; Unternehmer Y klagt auf Unterlassung und Schadensersatz. Herausgabepflicht des Handelsvertreters nach Paragraf 88 HGB und Paragraf 667 BGB analog bestimmen.
 Prüfschritte: Er deckt die wichtigsten Normen des deutschen Handelsvertreterrechts nach HGB Paragrafen 84–92c ab und bezieht die EU-Handelsvertreterrichtlinie 86/653/EWG sowie BGH- und EuGH-Rechtsprechung ein; Ziel: konkrete, umsetzbare Ergebnisse für Handelsvertreter und Unternehmer; Unternehmer Y verlangt nach Vertragsende von Handelsvertreter X die Herausgabe aller Kundenlisten und Kontaktdaten; Handelsvertreter X verweigert die Herausgabe der Kundenliste und beruft sich auf ein Zurückbehaltungsrecht wegen offener Provisionen.
-Norm- oder Entscheidungsbezug aus dem Fachmaterial: Unterstützt bei rechtlichen Fragen rund um Kundenliste und Herausgabepflicht bei Vertragsende nach Paragraf 88 HGB.
+Normbezug aus dem Fachmaterial: Unterstützt bei rechtlichen Fragen rund um Kundenliste und Herausgabepflicht bei Vertragsende nach Paragraf 88 HGB.
 Lieferstück: verhandlungsfähige Fassung mit Ausgangstext, Änderung, Begründung, Rückfallposition und Vollzugscheck.
-
-### 16.3. Vollstreckung des Buchauszugsanspruchs nach Paragraf 87c HGB und Paragraf 888 ZPO
-
-Bearbeitungsauftrag: Unterstützt bei rechtlichen Fragen rund um Vollstreckung des Buchauszugsanspruchs nach Paragraf 87c HGB und Paragraf 888 ZPO. Handelsvertreter X hat ein rechtskräftiges Urteil auf Erteilung des Buchauszugs; Unternehmer Y kommt dem Urteil nicht nach; X beantragt Zwangsgeld nach Paragraf 888 ZPO. Unternehmer Y legt einen unvollständigen Buchauszug vor und behauptet, mehr Daten nicht zu haben; X beantragt ergänzendes Zwangsgeld und bereitet Schadensersatzklage vor.
-Prüfschritte: Er deckt die wichtigsten Normen des deutschen Handelsvertreterrechts nach HGB Paragrafen 84–92c ab und bezieht die EU-Handelsvertreterrichtlinie 86/653/EWG sowie BGH- und EuGH-Rechtsprechung ein; Ziel sind konkrete, umsetzbare Ergebnisse: Schriftsätze, Berechnungen, Vertragsentwürfe und Prüfvermerke; Sowohl die Handelsvertreter- als auch die Unternehmerseite werden abgedeckt.
-Norm- oder Entscheidungsbezug aus dem Fachmaterial: Unterstützt bei rechtlichen Fragen rund um Vollstreckung des Buchauszugsanspruchs nach Paragraf 87c HGB und Paragraf 888 ZPO.
-Lieferstück: Fachvotum zu Vollstreckung des Buchauszugsanspruchs nach Paragraf 87c HGB und Paragraf 888 ZPO mit Tatbestandsmerkmalen, Aktenfundstellen, Beweislast, stärkster Gegenposition, Risiko und ausformulierter Rechtsfolge.
 
 ### 16.4. Alleinvertreter und Bezirksprovision nach Paragraf 87 Abs. 2 HGB
 
 Bearbeitungsauftrag: Unterstützt bei rechtlichen Fragen rund um Alleinvertreter und Bezirksprovision nach Paragraf 87 Absatz 2 HGB. Der Skill zielt auf konkrete, umsetzbare Ergebnisse: Schriftsätze, Berechnungen, Vertragsentwürfe und Prüfvermerke. Alleinvertreter A stellt fest, dass Unternehmer U direkte Vertragsabschlüsse mit Kunden im Vertragsgebiet des A tätigt, ohne diesem Provision zu zahlen; A klagt auf Bezirksprovision nach Paragraf 87 Absatz 2 HGB.
 Prüfschritte: Er deckt die wichtigsten Normen des deutschen Handelsvertreterrechts nach HGB Paragrafen 84–92c ab und bezieht die EU-Handelsvertreterrichtlinie 86/653/EWG sowie einschlägige BGH- und EuGH-Rechtsprechung ein; Sowohl die Handelsvertreter- als auch die Unternehmerseite werden abgedeckt; Unternehmer U hat einen zweiten Handelsvertreter im gleichen Gebiet eingesetzt; Alleinvertreter A macht Schadensersatz und Unterlassung geltend.
-Norm- oder Entscheidungsbezug aus dem Fachmaterial: Unterstützt bei rechtlichen Fragen rund um Alleinvertreter und Bezirksprovision nach Paragraf 87 Absatz 2 HGB.
+Normbezug aus dem Fachmaterial: Unterstützt bei rechtlichen Fragen rund um Alleinvertreter und Bezirksprovision nach Paragraf 87 Absatz 2 HGB.
 Lieferstück: Fachvotum zu Alleinvertreter und Bezirksprovision nach Paragraf 87 Abs. 2 HGB mit Tatbestandsmerkmalen, Aktenfundstellen, Beweislast, stärkster Gegenposition, Risiko und ausformulierter Rechtsfolge.
 
 ### 16.5. Anmeldung des Ausgleichsanspruchs nach Paragraf 89b Abs. 4 HGB
 
 Bearbeitungsauftrag: Unterstützt bei rechtlichen Fragen rund um Anmeldung des Ausgleichsanspruchs nach Paragraf 89b Absatz 4 HGB. Handelsvertreter X hat das Vertreterverhältnis mit Unternehmer Y im März beendet; X prüft, bis wann er den Ausgleichsanspruch anmelden muss und was die Anmeldung enthalten soll. Unternehmer Y bestreitet den Ausgleich mit dem Argument, die Anmeldung sei nach Ablauf der Jahresfrist des Paragraf 89b Absatz 4 HGB erfolgt.
 Prüfschritte: Er deckt die wichtigsten Normen des deutschen Handelsvertreterrechts nach HGB Paragrafen 84–92c ab und bezieht die EU-Handelsvertreterrichtlinie 86/653/EWG sowie BGH- und EuGH-Rechtsprechung ein; Ziel sind konkrete, umsetzbare Ergebnisse: Schriftsätze, Berechnungen, Vertragsentwürfe und Prüfvermerke; Sowohl die Handelsvertreter- als auch die Unternehmerseite werden abgedeckt.
-Norm- oder Entscheidungsbezug aus dem Fachmaterial: Unterstützt bei rechtlichen Fragen rund um Anmeldung des Ausgleichsanspruchs nach Paragraf 89b Absatz 4 HGB.
+Normbezug aus dem Fachmaterial: Unterstützt bei rechtlichen Fragen rund um Anmeldung des Ausgleichsanspruchs nach Paragraf 89b Absatz 4 HGB.
 Lieferstück: vollständige Einreichungs- oder Registervorlage mit Zuständigkeit, Pflichtfeldern, Nachweisen, Freigabe und Vollzugskontrolle.
 
 ### 16.6. Ausgleichsanspruch im Kfz-Vertrieb — Handelsvertreter oder Vertragshändler?
@@ -241,14 +240,14 @@ Lieferstück: Beweismatrix zu Beweissicherung im Handelsvertreterstreit nach Par
 
 Bearbeitungsauftrag: Unterstützt bei rechtlichen Fragen rund um CRM-Systeme und Datenschutz im Handelsvertretervertrag nach Datenschutz-Grundverordnung und Paragraf 88 HGB. Unternehmer Y stellt seinem Handelsvertreter X ein CRM-System zur Verfügung; nach Kündigung verweigert X die Herausgabe der darin gespeicherten Kundendaten. Handelsvertreter X pflegt Kundendaten in seinem eigenen CRM; nach Vertragsende beansprucht Unternehmer Y die Übertragung aller Daten nach Paragraf 88 HGB.
 Prüfschritte: Er deckt die wichtigsten Normen des deutschen Handelsvertreterrechts nach HGB Paragrafen 84–92c ab und bezieht die EU-Handelsvertreterrichtlinie 86/653/EWG sowie BGH- und EuGH-Rechtsprechung ein; Ziel sind konkrete, umsetzbare Ergebnisse: Schriftsätze, Berechnungen, Vertragsentwürfe und Prüfvermerke; Sowohl die Handelsvertreter- als auch die Unternehmerseite werden abgedeckt.
-Norm- oder Entscheidungsbezug aus dem Fachmaterial: Unterstützt bei rechtlichen Fragen rund um CRM-Systeme und Datenschutz im Handelsvertretervertrag nach Datenschutz-Grundverordnung und Paragraf 88 HGB.
+Normbezug aus dem Fachmaterial: Unterstützt bei rechtlichen Fragen rund um CRM-Systeme und Datenschutz im Handelsvertretervertrag nach Datenschutz-Grundverordnung und Paragraf 88 HGB.
 Lieferstück: verhandlungsfähige Fassung mit Ausgangstext, Änderung, Begründung, Rückfallposition und Vollzugscheck.
 
 ### 16.9. Delkredere-Haftung des Handelsvertreters nach Paragraf 86b HGB
 
 Bearbeitungsauftrag: Unterstützt bei rechtlichen Fragen rund um Delkredere-Haftung des Handelsvertreters nach Paragraf 86b HGB. Handelsvertreter X hat in seinem Vertrag eine Delkredereklausel unterzeichnet; Unternehmer Y macht ihn für den Forderungsausfall eines Kunden haftbar. Unternehmer Y zahlt dem Handelsvertreter X keine gesonderte Delkredereprovision, obwohl X eine Einstandspflicht übernommen hat; X klärt seinen Anspruch nach Paragraf 86b Absatz 2 HGB.
 Prüfschritte: Er deckt die wichtigsten Normen des deutschen Handelsvertreterrechts nach HGB Paragrafen 84–92c ab und bezieht die EU-Handelsvertreterrichtlinie 86/653/EWG sowie BGH- und EuGH-Rechtsprechung ein; Ziel sind konkrete, umsetzbare Ergebnisse: Schriftsätze, Berechnungen, Vertragsentwürfe und Prüfvermerke; Sowohl die Handelsvertreter- als auch die Unternehmerseite werden abgedeckt.
-Norm- oder Entscheidungsbezug aus dem Fachmaterial: Unterstützt bei rechtlichen Fragen rund um Delkredere-Haftung des Handelsvertreters nach Paragraf 86b HGB.
+Normbezug aus dem Fachmaterial: Unterstützt bei rechtlichen Fragen rund um Delkredere-Haftung des Handelsvertreters nach Paragraf 86b HGB.
 Lieferstück: gewichtete Prüfmatrix mit Tatbestandsmerkmalen, Fundstellen, Gegenposition, Beweislast, Risiko und Empfehlung.
 
 ### 16.10. Deutscher Handelsvertreter für ausländischen Unternehmer — Rechtsschutz und Gerichtsstand
@@ -267,5 +266,5 @@ Lieferstück: Fachvotum zu E-Commerce und Marketplace-Vertrieb im Handelsvertret
 
 Bearbeitungsauftrag: Unterstützt bei rechtlichen Fragen rund um Provisionsabrechnung und Buchauszug nach Paragraf 87c HGB. Der Skill zielt auf konkrete, umsetzbare Ergebnisse: Schriftsätze, Berechnungen, Vertragsentwürfe und Prüfvermerke. Handelsvertreter X stellt fest, dass Unternehmer Y seit 18 Monaten keine vollständige Provisionsabrechnung übermittelt; X verlangt Buchauszug über alle vermittelten und abgeschlossenen Geschäfte nach Paragraf 87c Absatz 2 HGB.
 Prüfschritte: Er deckt die wichtigsten Normen des deutschen Handelsvertreterrechts nach HGB Paragrafen 84–92c ab und bezieht die EU-Handelsvertreterrichtlinie 86/653/EWG sowie einschlägige BGH- und EuGH-Rechtsprechung ein; Sowohl die Handelsvertreter- als auch die Unternehmerseite werden abgedeckt; Unternehmer Y bestreitet, dass bestimmte Kunden vom Bezirk des X umfasst waren; X klagt auf Erteilung des Buchauszugs und ergänzende Auskunft.
-Norm- oder Entscheidungsbezug aus dem Fachmaterial: Unterstützt bei rechtlichen Fragen rund um Provisionsabrechnung und Buchauszug nach Paragraf 87c HGB.
+Normbezug aus dem Fachmaterial: Unterstützt bei rechtlichen Fragen rund um Provisionsabrechnung und Buchauszug nach Paragraf 87c HGB.
 Lieferstück: Fachvotum zu Provisionsabrechnung und Buchauszug nach Paragraf 87c HGB mit Tatbestandsmerkmalen, Aktenfundstellen, Beweislast, stärkster Gegenposition, Risiko und ausformulierter Rechtsfolge.

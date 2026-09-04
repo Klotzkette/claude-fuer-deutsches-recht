@@ -192,21 +192,20 @@ Diese Routen stammen aus den konkreten Arbeitsthemen dieses Plugins. Wähle die 
 
 Bearbeitungsauftrag: Bearbeite Ordnungsmittelantrag (Paragraf 890 ZPO) nach Unterlassungstitel: schutzrecht, Inhaber, Priorität, Registerstand, Verletzung, Beweis, Eilbedarf und parallele Anspruchsgrundlagen getrennt prüfen. Lege Regelungsziel und tatsächlichen Ablauf offen, prüfe Definitionen, Haupt- und Nebenpflichten, Bedingungen, Laufzeit, Beendigung, Haftung, Form, zwingendes Recht und Vollzug und liefere Klausel, Rückfallposition und Abschlusskontrolle.
 Prüfschritte: Paragraf 890 Absatz 1 ZPO – Vollstreckung eines Unterlassungsurteils durch Ordnungsgeld (bis 250.000 EUR) oder Ordnungshaft (bis sechs Monate pro Verstoß); Paragraf 890 Absatz 2 ZPO – Androhungsgebot: Ordnungsmittel dürfen nur vollstreckt werden, wenn sie vorab angedroht wurden; Paragraf 891 ZPO – Verfahren bei Ordnungsmittelantrag: Antrag des Gläubigers, rechtliches Gehör des Schuldners, Beschluss des Vollstreckungsgerichts; Paragraf 928 ZPO – Anwendbarkeit der allgemeinen Vollstreckungsvorschriften auf EV; Paragraf 936 ZPO – Anwendbarkeit der Arrestvorschriften.
-Norm- oder Entscheidungsbezug aus dem Fachmaterial: Paragraf 890 Absatz 1 ZPO – Vollstreckung eines Unterlassungsurteils durch Ordnungsgeld (bis 250.000 EUR) oder Ordnungshaft (bis sechs Monate pro Verstoß); Paragraf 890 Absatz 1 ZPO – Vollstreckung eines Unterlassungsurteils durch Ordnungsgeld (bis 250.000 EUR) oder Ordnungshaft (bis sechs Monate pro Verstoß).
+Normbezug aus dem Fachmaterial: Paragraf 890 Absatz 1 ZPO – Vollstreckung eines Unterlassungsurteils durch Ordnungsgeld (bis 250.000 EUR) oder Ordnungshaft (bis sechs Monate pro Verstoß).
 Lieferstück: frist- und formgerechter Entwurf mit Antrag, tragenden Tatsachen, Beweisangeboten, Anlagen und Einreichungsweg.
 
 ### 16.2. Urheberrechtliche Abmahnung – Paragraf 97a UrhG
 
 Bearbeitungsauftrag: Bearbeite Urheberrechtliche Abmahnung – Paragraf 97a UrhG: schutzrecht, Inhaber, Priorität, Registerstand, Verletzung, Beweis, Eilbedarf und parallele Anspruchsgrundlagen getrennt prüfen. Verbinde den konkreten Aktenfund mit Tatbestandsmerkmal, Gegenposition, Beweislast, Rechtsfolge und dem nächsten vollständig ausformulierten Arbeitsprodukt. Fachstation: Verfahrensstrategie: Abmahnung, Schutzschrift, einstweilige Verfügung, Hauptsache, Amtsverfahren und Aussetzung koordinieren.
 Prüfschritte: Urheber oder Lizenznehmer erhielt unerlaubte Nutzung (Bild Text Video) oder Mandant erhielt Abmahnung wegen Urheberrechtsverletzung; Paragraf 97a UrhG Abmahnung und Unterlassung; Prüfraster: modifizierte Unterlassungserklärung Deckelung Abmahnkosten Paragraf 97a Absatz 3 UrhG im privaten Bereich Filesharing-Praxis Lizenzanalogie Paragraf 97 Absatz 2 UrhG Schadensersatz; Output: Abmahnungsentwurf oder Reaktions-Memo auf erhaltene Abmahnung; Abgrenzung zu unterlassungsverlangen (MarkenG UWG PatG) und verletzungs-triage (Erstentscheidung).
-Norm- oder Entscheidungsbezug aus dem Fachmaterial: Paragraf 97a UrhG Abmahnung und Unterlassung; Urheber oder Lizenznehmer erhielt unerlaubte Nutzung (Bild Text Video) oder Mandant erhielt Abmahnung wegen Urheberrechtsverletzung; Paragraf 97a UrhG Abmahnung und Unterlassung.
+Normbezug aus dem Fachmaterial: Paragraf 97a UrhG Abmahnung und Unterlassung.
 Lieferstück: versandfertiges Schreiben mit Betreff, Sachverhaltskern, Rechtsgrund, konkretem Begehren, Frist und Anlagenverzeichnis.
 
 ### 16.3. Notice-and-Take-Down / Meldeverfahren
 
 Bearbeitungsauftrag: (kein Argument) → fragen: "Sollen wir eine Meldung senden, auf eine eingegangene reagieren oder eine Gegenvorstellung formulieren?" Haftung des Hostproviders / Vermittlerdienstleister:. Paragraf 10 DDG / Paragraf 10 TMG — Haftungsprivileg für Hostprovider: Haftung erst bei Kenntnis und Nichtentfernen nach Hinweis (Notice-and-Take-Down-Mechanismus). Artikel 16 DSA (Digital Services Act, EU 2022/2065) — Meldeverfahren für Plattformen mit mehr als 45 Mio.
 Prüfschritte: Senden + Kontext oder Pfad zur Meldungsunterlage; --reagieren + Pfad zur oder eingefügte eingegangene Meldung; Paragraf 7 Absatz 1 DDG / Paragraf 7 Absatz 1 TMG (Paragraf 10 TMG a.F.) — Kein Hostprovider ist verpflichtet, gespeicherte Inhalte zu überwachen; erst nach Kenntnis von konkreter Rechtsverletzung entsteht Handlungspflicht (Reaktionspflicht nach BGH-Rspr.).
-Norm- oder Entscheidungsbezug aus dem Fachmaterial: Senden + Kontext oder Pfad zur Meldungsunterlage; --reagieren + Pfad zur oder eingefügte eingegangene Meldung; Paragraf 7 Absatz 1 DDG / Paragraf 7 Absatz 1 TMG (Paragraf 10 TMG a.F.) — Kein Hostprovider ist verpflichtet, gespeicherte Inhalte zu überwachen.
 Lieferstück: Fachvotum zu Notice-and-Take-Down / Meldeverfahren mit Tatbestandsmerkmalen, Aktenfundstellen, Beweislast, stärkster Gegenposition, Risiko und ausformulierter Rechtsfolge.
 
 ### 16.4. Verfügungs-Versandmappe endfertigen
@@ -219,7 +218,7 @@ Lieferstück: entscheidungsreifer Entwurf mit Tenor oder Verfügungssatz, Streit
 
 Bearbeitungsauftrag: Bearbeite GewR: Einstweilige Verfügung – Eilverfahren Spezial: schutzrecht, Inhaber, Priorität, Registerstand, Verletzung, Beweis, Eilbedarf und parallele Anspruchsgrundlagen getrennt prüfen. Entwirf die im Fachverfahren richtige Entscheidungsform mit bestimmtem Ausspruch, festgestelltem Sachverhalt, offen gelegter Beweiswürdigung, tragender Subsumtion, Nebenentscheidungen und nur tatsächlich statthaftem Rechtsbehelf.
 Prüfschritte: Paragrafen 935, 940 ZPO – Verfügungsanspruch und Verfügungsgrund als Doppelvoraussetzung der einstweiligen Verfügung; Paragraf 937 Absatz 2 ZPO – Beschlussverfügung ohne mündliche Verhandlung bei Dringlichkeit; Paragraf 920 ZPO – Glaubhaftmachung; eidesstattliche Versicherung als zentrales Beweismittel; Paragraf 938 ZPO – Ermessen des Gerichts bei Ausgestaltung des Tenors.
-Norm- oder Entscheidungsbezug aus dem Fachmaterial: Paragrafen 935, 940 ZPO – Verfügungsanspruch und Verfügungsgrund als Doppelvoraussetzung der einstweiligen Verfügung; Paragraf 937 Absatz 2 ZPO – Beschlussverfügung ohne mündliche Verhandlung bei Dringlichkeit; Paragraf 920 ZPO – Glaubhaftmachung.
+Normbezug aus dem Fachmaterial: Paragrafen 935, 940 ZPO – Verfügungsanspruch und Verfügungsgrund als Doppelvoraussetzung der einstweiligen Verfügung; Paragraf 937 Absatz 2 ZPO – Beschlussverfügung ohne mündliche Verhandlung bei Dringlichkeit; Paragraf 920 ZPO – Glaubhaftmachung.
 Lieferstück: entscheidungsreifer Entwurf mit Tenor oder Verfügungssatz, Streitstoff, Beweiswürdigung und Nebenentscheidungen.
 
 ### 16.6. Markenrecherche – Risikoampel und Gegenargumente
@@ -259,5 +258,5 @@ Lieferstück: vollständige Einreichungs- oder Registervorlage mit Zuständigkei
 
 Bearbeitungsauftrag: Ausschließlicher Lizenznehmer hat eigenes Klagerecht, wenn Lizenz entsprechende Klausel enthält (Paragraf 30 Absatz 3 MarkenG). [ ] Art der Lizenz: Ausschließlich oder nicht ausschließlich? [ ] Lizenzvertrag: Regelung zur Verletzungsverfolgung vorhanden?
 Prüfschritte: Szenario: Markeninhaber hat exklusive Lizenz an Unternehmen B vergeben; Nicht-ausschließlicher Lizenznehmer: Kein eigenständiges Klagerecht; muss Markeninhaber zur Klageerhebung auffordern; Problem: Wenn Lizenznehmer klagt, muss Markeninhaber häufig als Partei beigeladen werden; Abstimmung Markeninhaber / Lizenznehmer vor Klageerhebung.
-Norm- oder Entscheidungsbezug aus dem Fachmaterial: Rechtslage:; Ausschließlicher Lizenznehmer hat eigenes Klagerecht, wenn Lizenz entsprechende Klausel enthält (Paragraf 30 Absatz 3 MarkenG).
+Normbezug aus dem Fachmaterial: Rechtslage:; Ausschließlicher Lizenznehmer hat eigenes Klagerecht, wenn Lizenz entsprechende Klausel enthält (Paragraf 30 Absatz 3 MarkenG).
 Lieferstück: Fachvotum zu Mehrparteien-Konstellationen und Interessenkonflikte mit Tatbestandsmerkmalen, Aktenfundstellen, Beweislast, stärkster Gegenposition, Risiko und ausformulierter Rechtsfolge.

@@ -92,7 +92,7 @@ Arbeitsgriff Rechtsfolge: Strafrahmen, Milderung, Nebenfolgen, Bewährung und Ei
 | StPO Paragraf 261 | freie richterliche Beweiswürdigung | Tatnachweis beim Staat; Verteidigung markiert Zweifel, Verwertungsverbote, Alternativerklärung und Strafzumessungsstoff | Einstellung, Anklage, Freispruchslinie, Beweisantrag, Rechtsmittel oder Strafzumessungsvorschlag |
 | StPO Paragraf 267 | Urteilsgründe im Strafurteil | Tatnachweis beim Staat; Verteidigung markiert Zweifel, Verwertungsverbote, Alternativerklärung und Strafzumessungsstoff | Einstellung, Anklage, Freispruchslinie, Beweisantrag, Rechtsmittel oder Strafzumessungsvorschlag |
 | StGB Paragraf 46 | Strafzumessung | Tatnachweis beim Staat; Verteidigung markiert Zweifel, Verwertungsverbote, Alternativerklärung und Strafzumessungsstoff | Einstellung, Anklage, Freispruchslinie, Beweisantrag, Rechtsmittel oder Strafzumessungsvorschlag |
-| GG | Art. 1 (Menschenwürde), 2 (Persönlichkeitsrecht), 5 (Meinungsfreiheit), 12 (Berufsfreiheit), 13 (Wohnung), 14 (Eigentum), 19 IV (Rechtsweg), 20 III (Rechtsstaat), 103 II | Tatnachweis beim Staat; Verteidigung markiert Zweifel, Verwertungsverbote, Alternativerklärung und Strafzumessungsstoff | Einstellung, Anklage, Freispruchslinie, Beweisantrag, Rechtsmittel oder Strafzumessungsvorschlag |
+| GG | Art. 1 (Menschenwürde), 2 (Persönlichkeitsrecht), 5 (Meinungsfreiheit), 12 (Berufsfreiheit), 13 (Wohnung), 14 (Eigentum), 19 IV (Rechtsweg), 20 III (Rechtsstaat), 103 II (nulla poena), 104 (Freiheitsentziehung) | Tatnachweis beim Staat; Verteidigung markiert Zweifel, Verwertungsverbote, Alternativerklärung und Strafzumessungsstoff | Einstellung, Anklage, Freispruchslinie, Beweisantrag, Rechtsmittel oder Strafzumessungsvorschlag |
 
 ## 6. Rechtsprechungsanker, Quellenstatus und Rechtsfolgen
 
@@ -114,7 +114,7 @@ Arbeitsgriff Rechtsfolge: Strafrahmen, Milderung, Nebenfolgen, Bewährung und Ei
 - StPO Paragraf 261: freie richterliche Beweiswürdigung.
 - StPO Paragraf 267: Urteilsgründe im Strafurteil.
 - StGB Paragraf 46: Strafzumessung.
-- GG: Art. 1 (Menschenwürde), 2 (Persönlichkeitsrecht), 5 (Meinungsfreiheit), 12 (Berufsfreiheit), 13 (Wohnung), 14 (Eigentum), 19 IV (Rechtsweg), 20 III (Rechtsstaat), 103 II; im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
+- GG: Art. 1 (Menschenwürde), 2 (Persönlichkeitsrecht), 5 (Meinungsfreiheit), 12 (Berufsfreiheit), 13 (Wohnung), 14 (Eigentum), 19 IV (Rechtsweg), 20 III (Rechtsstaat), 103 II (nulla poena), 104 (Freiheitsentziehung); im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
 - EMRK: Art. 5 (Freiheit), 6 (faires Verfahren, Aussage- und Verteidigungsrechte), 7 (nulla poena), 8 (Privatsphäre); im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
 - Paragrafen 395 Abs. 1 Nr. 3, 396 Abs. 1 StPO; im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
 - Paragraf 406e Abs. 4 StPO; im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
@@ -126,7 +126,6 @@ Arbeitsgriff Rechtsfolge: Strafrahmen, Milderung, Nebenfolgen, Bewährung und Ei
 - BGH, Urteil vom 26.04.2017 - 2 StR 247/16: Für sogenannte legendierte Kontrollen besteht kein allgemeiner Vorrang der StPO vor dem Gefahrenabwehrrecht; die strafprozessuale Verwertbarkeit präventiv gewonnener Beweise richtet sich nach StPO Paragraf 161 Absatz 2 Satz 1.
 - BVerfG, Urteil vom 19.03.2013 - 2 BvR 2628/10: Verständigung im Strafverfahren verlangt Transparenz und Dokumentation.
 - BGH, Beschluss vom 27.11.2018 - 5 StR 566/18: Ein Beweisverwertungsverbot kommt in Betracht, wenn der Richtervorbehalt bei einer Durchsuchung bewusst missachtet oder in gleichgewichtig grober Weise verkannt wird.
-- BVerfG, Beschluss vom 23. September 2025, 2 BvR 625/25: Die Verfassungsbeschwerde gegen eine auf ANOM-Daten gestützte Verurteilung wurde nicht zur Entscheidung angenommen.
 
 ## 9. Prüfraster
 
@@ -188,9 +187,9 @@ Die Landkarte dient der schnellen Auswahl. Sie ersetzt nicht die darunter ausfor
 | Chat-Control CSAM Anwaltsgeheimnis und Paragraf 53 StPO Zeugnisverweigerungsrecht | Vorschlag COM(2022) 209 "ChatControl 2.0" — Pflicht-Scanning aller Kommunikationsdienste auf CSAM-Material und Grooming. EU-Datenschutzbeauftragter EDPS-Stellungnahme (2022) — sieht Verstoß gegen Grundrechte. | Fachvotum zu Chat-Control CSAM Anwaltsgeheimnis und Paragraf 53 StPO Zeugnisverweigerungsrecht mit Tatbestandsmerkmalen, Aktenfundstellen, Beweislast, stärkster Gegenposition. |
 | Insolvenzantrag der Staatsanwaltschaft gegen Angeklagte/n | Die Konstellation ist strafverteidigungspraktisch gefährlich: Gleichzeitig laufen ein Strafverfahren (Schweigerecht nach Paragraf 136 StPO) und ein Insolvenzverfahren (Mitwirkungspflicht nach Paragraf 97 InsO). | frist- und formgerechter Entwurf mit Antrag, tragenden Tatsachen, Beweisangeboten, Anlagen und Einreichungsweg |
 | Sitzungspolizei Paragrafen 176 ff | Wurde Verteidiger durch Wortentzug Paragraf 176 GVG, durch Sitzungsausschluss Paragraf 177 GVG oder durch Ordnungsmittel Paragraf 178 GVG sanktioniert? Paragraf 177 GVG: Sitzungsausschluss bei Störung. | Fachvotum zu Sitzungspolizei Paragrafen 176 ff mit Tatbestandsmerkmalen, Aktenfundstellen, Beweislast, stärkster Gegenposition, Risiko und ausformulierter Rechtsfolge |
-| Untreue nach Paragraf 266 StGB prüfen | Wirtschaftlicher Misserfolg allein ist keine Untreue; Pflicht, Entscheidungsspielraum, Nachteil und Vorsatz müssen für jeden Vorgang konkret bewiesen werden. | Fachvotum zu Untreue nach Paragraf 266 StGB prüfen mit Tatbestandsmerkmalen, Aktenfundstellen, Beweislast, stärkster Gegenposition, Risiko und ausformulierter Rechtsfolge |
 | Verständigung im Strafverfahren kontrollieren | Der Skill wahrt Wahrheitsermittlung, Schuldangemessenheit, Transparenz und die besonderen Anforderungen einer späteren Verfahrensrüge. | Fachvotum zu Verständigung im Strafverfahren kontrollieren mit Tatbestandsmerkmalen, Aktenfundstellen, Beweislast, stärkster Gegenposition, Risiko und ausformulierter Rechtsfolge |
 | Plädoyer für Strafverteidigung vorbereiten und strukturieren | Bearbeite Plädoyer für Strafverteidigung vorbereiten und strukturieren: tatkomplex, Norm, Beweismittel, Einlassung, Verwertbarkeit, Frist und Rechtsfolge zeilenweise prüfen. | Fachvotum zu Plädoyer für Strafverteidigung vorbereiten und strukturieren mit Tatbestandsmerkmalen, Aktenfundstellen, Beweislast, stärkster Gegenposition, Risiko. |
+| Substantiierter Schriftsatzkern für Strafverfahren Einspruch und Revision | Bearbeite Substantiierter Schriftsatzkern für Strafverfahren Einspruch und Revision: tatkomplex, Norm, Beweismittel, Einlassung, Verwertbarkeit, Frist und Rechtsfolge zeilenweise prüfen. | frist- und formgerechter Entwurf mit Antrag, tragenden Tatsachen, Beweisangeboten, Anlagen und Einreichungsweg |
 
 ## 16. Fachspezifische Praxisrouten
 
@@ -200,13 +199,13 @@ Diese Routen stammen aus den konkreten Arbeitsthemen dieses Plugins. Wähle die 
 
 Bearbeitungsauftrag: Revision: Einlegung nach Paragraf 341 StPO binnen einer Woche; Revisionsanträge und Begründung nach Paragraf 345 StPO grundsätzlich binnen eines Monats nach Ablauf der Einlegungsfrist, bei späterer Zustellung des Urteils ab Zustellung; Verteidiger-/Anwaltsunterschrift für die Begründung beachten. Einfache Beschwerde: Statthaftigkeit nach Paragraf 304 StPO prüfen. Wiedereinsetzung: Paragraf 44 StPO und Folgevorschriften streng prüfen.
 Prüfschritte: Strafbefehl: Einspruch nach Paragraf 410 StPO binnen zwei Wochen ab Zustellung; Berufung: Einlegung nach Paragraf 314 StPO binnen einer Woche ab Verkündung; Sofortige Beschwerde: nur wo gesetzlich vorgesehen; vollständiger Einspruch oder Beschränkung,; Möglichkeit Entscheidung nach Aktenlage bei Beschränkung auf Tagessatzhöhe.
-Norm- oder Entscheidungsbezug aus dem Fachmaterial: Strafbefehl: Einspruch nach Paragraf 410 StPO binnen zwei Wochen ab Zustellung; Berufung: Einlegung nach Paragraf 314 StPO binnen einer Woche ab Verkündung; Revision: Einlegung nach Paragraf 341 StPO binnen einer Woche; Strafbefehl: Einspruch nach Paragraf 410 StPO binnen zwei Wochen ab Zustellung.
+Normbezug aus dem Fachmaterial: Strafbefehl: Einspruch nach Paragraf 410 StPO binnen zwei Wochen ab Zustellung; Berufung: Einlegung nach Paragraf 314 StPO binnen einer Woche ab Verkündung; Revision: Einlegung nach Paragraf 341 StPO binnen einer Woche.
 Lieferstück: frist- und formgerechter Entwurf mit Antrag, tragenden Tatsachen, Beweisangeboten, Anlagen und Einreichungsweg.
 
 ### 16.2. Strafprozessuale Versandmappe endfertigen
 
 Bearbeitungsauftrag: Bestimme, ob Revision, Revisionsbegründung, Berufung, deren Begründung, Privatklage, Nebenklageanschluss, Adhäsionsantrag, Haftbeschwerde, Beweisantrag oder sonstige Erklärung vorliegt. StPO Paragraf 32d erfasst nicht jede Erklärung gleichermaßen. StPO Paragraf 32a regelt elektronische Dokumente; StPO Paragraf 32d enthält die zwingend elektronisch zu übermittelnden Erklärungen.
-Prüfschritte: Lies Schriftsatz, Urteil oder Beschluss, Sitzungsprotokoll, Zustellungsnachweise, Vollmacht, Aktenauszüge und vorhandene Anlagen; Übernimm den vorhandenen gerichtlichen oder kanzleiinternen Anlagenkreis; Erfinde kein K-/B-Schema, wenn die Strafakte andere Bezeichnungen nutzt; Stemple nur einzureichende Anlagen und jede ihrer Seiten rechts oben; Vermeide Namen von Geschädigten, Gesundheitsdaten, Tatvorwürfe oder Haftorte in Dateinamen.
+Prüfschritte: Lies Schriftsatz, Urteil oder Beschluss, Sitzungsprotokoll, Zustellungsnachweise, Vollmacht, Aktenauszüge und vorhandene Anlagen; Übernimm den vorhandenen gerichtlichen oder kanzleiinternen Anlagenkreis; Erfinde kein K-/B-Schema, wenn die Strafakte andere Bezeichnungen nutzt; Stemple nur einzureichende Anlagen und jede ihrer Seiten rechts oben.
 Lieferstück: Fachvotum zu Strafprozessuale Versandmappe endfertigen mit Tatbestandsmerkmalen, Aktenfundstellen, Beweislast, stärkster Gegenposition, Risiko und ausformulierter Rechtsfolge.
 
 ### 16.3. Hauptverhandlung im Strafverfahren vorbereiten
@@ -225,36 +224,36 @@ Lieferstück: Fachvotum zu Chat-Control CSAM Anwaltsgeheimnis und Paragraf 53 St
 
 Bearbeitungsauftrag: Die Konstellation ist strafverteidigungspraktisch gefährlich: Gleichzeitig laufen ein Strafverfahren (Schweigerecht nach Paragraf 136 StPO) und ein Insolvenzverfahren (Mitwirkungspflicht nach Paragraf 97 InsO). Wer ist Antragsteller (Finanzamt, Staatsanwaltschaft, Sozialversicherungsträger, privater Gläubiger)? Gegen wen richtet sich der Antrag – gegen Sie persönlich oder gegen eine von Ihnen geführte Gesellschaft (GmbH, AG, Einzelkaufmann)?
 Prüfschritte: Mandantschaft versteht die Doppelgleisigkeit oft nicht; Fehler in einem Verfahren können das andere ruinieren.
-Norm- oder Entscheidungsbezug aus dem Fachmaterial: Die Konstellation ist strafverteidigungspraktisch gefährlich: Gleichzeitig laufen ein Strafverfahren (Schweigerecht nach Paragraf 136 StPO) und ein Insolvenzverfahren (Mitwirkungspflicht nach Paragraf 97 InsO).
+Normbezug aus dem Fachmaterial: Die Konstellation ist strafverteidigungspraktisch gefährlich: Gleichzeitig laufen ein Strafverfahren (Schweigerecht nach Paragraf 136 StPO) und ein Insolvenzverfahren (Mitwirkungspflicht nach Paragraf 97 InsO).
 Lieferstück: frist- und formgerechter Entwurf mit Antrag, tragenden Tatsachen, Beweisangeboten, Anlagen und Einreichungsweg.
 
 ### 16.6. Sitzungspolizei Paragrafen 176 ff
 
 Bearbeitungsauftrag: Wurde Verteidiger durch Wortentzug Paragraf 176 GVG, durch Sitzungsausschluss Paragraf 177 GVG oder durch Ordnungsmittel Paragraf 178 GVG sanktioniert? Paragraf 177 GVG: Sitzungsausschluss bei Störung. Paragraf 178 GVG: Ordnungsgeld bei Ungebühr.
-Norm- oder Entscheidungsbezug aus dem Fachmaterial: Wurde Verteidiger durch Wortentzug Paragraf 176 GVG, durch Sitzungsausschluss Paragraf 177 GVG oder durch Ordnungsmittel Paragraf 178 GVG sanktioniert?
+Normbezug aus dem Fachmaterial: Wurde Verteidiger durch Wortentzug Paragraf 176 GVG, durch Sitzungsausschluss Paragraf 177 GVG oder durch Ordnungsmittel Paragraf 178 GVG sanktioniert?
 Lieferstück: Fachvotum zu Sitzungspolizei Paragrafen 176 ff mit Tatbestandsmerkmalen, Aktenfundstellen, Beweislast, stärkster Gegenposition, Risiko und ausformulierter Rechtsfolge.
 
-### 16.7. Untreue nach Paragraf 266 StGB prüfen
-
-Bearbeitungsauftrag: Wirtschaftlicher Misserfolg allein ist keine Untreue; Pflicht, Entscheidungsspielraum, Nachteil und Vorsatz müssen für jeden Vorgang konkret bewiesen werden. Vermögensbetreuungspflicht, Pflichtverletzung und Nachteil müssen eigenständig festgestellt werden; der Nachteil ist wirtschaftlich nachvollziehbar zu ermitteln und darf nicht in der Pflichtverletzung aufgehen. Die verfassungsgerichtliche Entscheidung ist kein Beleg dafür, dass jede riskante oder nachträglich verlustreiche Investition pflichtwidrig ist.
-Prüfschritte: Eine unternehmerische Entscheidung, Zahlung, Kreditvergabe, Vergütung oder Vermögensverschiebung soll pflichtwidrig und nachteilig gewesen sein.
-Lieferstück: Fachvotum zu Untreue nach Paragraf 266 StGB prüfen mit Tatbestandsmerkmalen, Aktenfundstellen, Beweislast, stärkster Gegenposition, Risiko und ausformulierter Rechtsfolge.
-
-### 16.8. Verständigung im Strafverfahren kontrollieren
+### 16.7. Verständigung im Strafverfahren kontrollieren
 
 Bearbeitungsauftrag: Der Skill wahrt Wahrheitsermittlung, Schuldangemessenheit, Transparenz und die besonderen Anforderungen einer späteren Verfahrensrüge. StR 234/13: Die Belehrung nach Paragraf 257c Absatz 5 StPO muss vor der Zustimmung des Angeklagten zur Verständigung erfolgen. Ihr Fehlen ist für die revisionsrechtliche Beruhensprüfung erheblich.
 Prüfschritte: Gericht und Verfahrensbeteiligte erörtern ein Geständnis und einen Strafrahmen oder es bestehen Hinweise auf eine informelle Absprache.
 Lieferstück: Fachvotum zu Verständigung im Strafverfahren kontrollieren mit Tatbestandsmerkmalen, Aktenfundstellen, Beweislast, stärkster Gegenposition, Risiko und ausformulierter Rechtsfolge.
 
-### 16.9. Plädoyer für Strafverteidigung vorbereiten und strukturieren
+### 16.8. Plädoyer für Strafverteidigung vorbereiten und strukturieren
 
 Bearbeitungsauftrag: Bearbeite Plädoyer für Strafverteidigung vorbereiten und strukturieren: tatkomplex, Norm, Beweismittel, Einlassung, Verwertbarkeit, Frist und Rechtsfolge zeilenweise prüfen. Verbinde den konkreten Aktenfund mit Tatbestandsmerkmal, Gegenposition, Beweislast, Rechtsfolge und dem nächsten vollständig ausformulierten Arbeitsprodukt. Fachstation: Prozessuales: Zuständigkeit, Verwertungsverbote, Fristen, Pflichtverteidigung und Anträge vorbereiten; den nächsten fristwahrenden Schritt zuerst.
 Lieferstück: Fachvotum zu Plädoyer für Strafverteidigung vorbereiten und strukturieren mit Tatbestandsmerkmalen, Aktenfundstellen, Beweislast, stärkster Gegenposition, Risiko und ausformulierter Rechtsfolge.
 
-### 16.10. Substantiierter Schriftsatzkern für Strafverfahren Einspruch und Revision
+### 16.9. Substantiierter Schriftsatzkern für Strafverfahren Einspruch und Revision
 
 Bearbeitungsauftrag: Bearbeite Substantiierter Schriftsatzkern für Strafverfahren Einspruch und Revision: tatkomplex, Norm, Beweismittel, Einlassung, Verwertbarkeit, Frist und Rechtsfolge zeilenweise prüfen. Isoliere angegriffene Entscheidung und Rechtsschutzziel, sichere Statthaftigkeit, Beschwer, Zuständigkeit, Frist, Form und Beteiligte und formuliere aus Tatsachen, Beweisen und stärkster Gegenposition einen bestimmten Antrag mit Einreichungsweg.
 Lieferstück: frist- und formgerechter Entwurf mit Antrag, tragenden Tatsachen, Beweisangeboten, Anlagen und Einreichungsweg.
+
+### 16.10. Untreue nach Paragraf 266 StGB prüfen
+
+Bearbeitungsauftrag: Wirtschaftlicher Misserfolg allein ist keine Untreue; Pflicht, Entscheidungsspielraum, Nachteil und Vorsatz müssen für jeden Vorgang konkret bewiesen werden. Vermögensbetreuungspflicht, Pflichtverletzung und Nachteil müssen eigenständig festgestellt werden; der Nachteil ist wirtschaftlich nachvollziehbar zu ermitteln und darf nicht in der Pflichtverletzung aufgehen.
+Prüfschritte: Eine unternehmerische Entscheidung, Zahlung, Kreditvergabe, Vergütung oder Vermögensverschiebung soll pflichtwidrig und nachteilig gewesen sein.
+Lieferstück: Fachvotum zu Untreue nach Paragraf 266 StGB prüfen mit Tatbestandsmerkmalen, Aktenfundstellen, Beweislast, stärkster Gegenposition, Risiko und ausformulierter Rechtsfolge.
 
 ### 16.11. Schriftliche Einlassung des Beschuldigten vorbereiten oder Schweigen Paragraf 136 StPO
 
@@ -266,5 +265,5 @@ Lieferstück: Fachvotum zu Schriftliche Einlassung des Beschuldigten vorbereiten
 
 Bearbeitungsauftrag: Mandantengespräch zur Sachlage erfolgt Tabelle aller in der Akte erwähnten Personen: Zeitleiste in Tag-Stunde-Format:. SV1 Rechtsmediziner Pro Tat-Element (objektiver Tatbestand: Wer Wann Wo Wie): Inkonsistenzen markieren — jede Abweichung ist möglicher Ansatzpunkt.
 Prüfschritte: Akteneinsicht Paragraf 147 StPO gewährt; 49 und folgende Vermessungs- und Spurensicherungs-Protokoll.
-Norm- oder Entscheidungsbezug aus dem Fachmaterial: Akteneinsicht Paragraf 147 StPO gewährt; Akte als PDF mit OCR; Mandantengespräch zur Sachlage erfolgt Tabelle aller in der Akte erwähnten Personen: Zeitleiste in Tag-Stunde-Format:; Bl; Akteneinsicht Paragraf 147 StPO gewährt; 49 und folgende Vermessungs- und Spurensicherungs-Protokoll.
+Normbezug aus dem Fachmaterial: Akteneinsicht Paragraf 147 StPO gewährt; Akte als PDF mit OCR; Mandantengespräch zur Sachlage erfolgt Tabelle aller in der Akte erwähnten Personen: Zeitleiste in Tag-Stunde-Format:; Bl; Akteneinsicht Paragraf 147 StPO gewährt; 49 und folgende Vermessungs- und Spurensicherungs-Protokoll.
 Lieferstück: Akten- und Belegmatrix zu Strukturierte Auswertung der Strafakte nach Akteneinsicht Paragraf 147 StPO mit Datum, Urheber, Fundstelle, Widerspruch, Fehlteil und nächstem Bearbeitungsschritt.

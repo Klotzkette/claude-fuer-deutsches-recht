@@ -47,7 +47,7 @@ Arbeite danach in drei Ebenen: Aktenkern, Gegenargument, Arbeitsprodukt. Keine V
 
 - Frist läuft binnen drei Arbeitstagen ab und Unterlagen fehlen.
 - Betriebsratsanhörung, Massenentlassung, Schwangerschaft, Schwerbehinderung oder Compliance-Verdacht ist ungeklärt.
-- Befristung wurde nicht in Papieroriginal oder echter qualifizierter elektronischer Signatur geschlossen.
+- Befristungsform ist zweifelhaft: Schriftform oder qualifizierte elektronische Signatur und einschlägige Sonderregel, insbesondere SGB VI Paragraf 41 Absatz 3, prüfen.
 - Wenn Identität, Vollmacht, Fristbeginn oder Verfahrensstand nicht tragfähig bestimmbar sind, wird zuerst eine knappe Lückenliste erzeugt.
 - Wenn das gewünschte Ergebnis eine endgültige Rechtsentscheidung verlangt, wird nur ein belastbarer Entwurf mit offen markierten Prüfpunkten ausgegeben.
 
@@ -89,8 +89,8 @@ Arbeitsgriff Arbeitsprodukt: Vertrag, Personalvermerk, Anhörung, Abmahnung, Bet
 | BGB Paragraf 611a | Arbeitsvertrag und Weisungsgebundenheit | Wer sich auf den Zugang einer Erklärung beruft, beweist ihn; bei einer Arbeitgeberkündigung daher regelmäßig der Arbeitgeber. Der Arbeitgeber trägt außerdem Kündigungsgrund, ordnungsgemäße Betriebsratsanhörung und Erfüllung; der Arbeitnehmer Arbeitsleistung, eigene Anspruchsvoraussetzungen, rechtzeitige Klageerhebung und Gegenbelege | Vertrag, Personalvermerk, Zeit- oder Vergütungskorrektur, Beteiligungsvorlage, Abmahnung, Feststellungsklage, Vergleich oder Abwicklung |
 | BGB Paragraf 241 Absatz 2, Paragraf 612a und GewO Paragraf 106 | Rücksichtnahme, Maßregelungsverbot und Weisungsrecht | Wer sich auf den Zugang einer Erklärung beruft, beweist ihn; bei einer Arbeitgeberkündigung daher regelmäßig der Arbeitgeber. Der Arbeitgeber trägt außerdem Kündigungsgrund, ordnungsgemäße Betriebsratsanhörung und Erfüllung; der Arbeitnehmer Arbeitsleistung, eigene Anspruchsvoraussetzungen, rechtzeitige Klageerhebung und Gegenbelege | Vertrag, Personalvermerk, Zeit- oder Vergütungskorrektur, Beteiligungsvorlage, Abmahnung, Feststellungsklage, Vergleich oder Abwicklung |
 | KSchG Paragraf 1, Paragraf 4 und Paragraf 7 | soziale Rechtfertigung, Dreiwochenfrist und Wirksamkeitsfiktion | Wer sich auf den Zugang einer Erklärung beruft, beweist ihn; bei einer Arbeitgeberkündigung daher regelmäßig der Arbeitgeber. Der Arbeitgeber trägt außerdem Kündigungsgrund, ordnungsgemäße Betriebsratsanhörung und Erfüllung; der Arbeitnehmer Arbeitsleistung, eigene Anspruchsvoraussetzungen, rechtzeitige Klageerhebung und Gegenbelege | Vertrag, Personalvermerk, Zeit- oder Vergütungskorrektur, Beteiligungsvorlage, Abmahnung, Feststellungsklage, Vergleich oder Abwicklung |
-| BGB Paragraf 623 und Paragraf 626 | Schriftform, wichtiger Grund und Erklärungsfrist | Wer sich auf den Zugang einer Erklärung beruft, beweist ihn; bei einer Arbeitgeberkündigung daher regelmäßig der Arbeitgeber. Der Arbeitgeber trägt außerdem Kündigungsgrund, ordnungsgemäße Betriebsratsanhörung und Erfüllung; der Arbeitnehmer Arbeitsleistung, eigene Anspruchsvoraussetzungen, rechtzeitige Klageerhebung und Gegenbelege | Vertrag, Personalvermerk, Zeit- oder Vergütungskorrektur, Beteiligungsvorlage, Abmahnung, Feststellungsklage, Vergleich oder Abwicklung |
-| TzBfG Paragraf 14 bis Paragraf 17 | Befristung, Schriftform, Rechtsfolge und Befristungskontrollklage | Wer sich auf den Zugang einer Erklärung beruft, beweist ihn; bei einer Arbeitgeberkündigung daher regelmäßig der Arbeitgeber. Der Arbeitgeber trägt außerdem Kündigungsgrund, ordnungsgemäße Betriebsratsanhörung und Erfüllung; der Arbeitnehmer Arbeitsleistung, eigene Anspruchsvoraussetzungen, rechtzeitige Klageerhebung und Gegenbelege | Vertrag, Personalvermerk, Zeit- oder Vergütungskorrektur, Beteiligungsvorlage, Abmahnung, Feststellungsklage, Vergleich oder Abwicklung |
+| BGB Paragraf 623 und Paragraf 626 | Schriftform, wichtiger Grund und Erklärungsfrist; elektronische Gerichtsschriftsätze gesondert nach ArbGG Paragraf 46h prüfen | Wer sich auf den Zugang einer Erklärung beruft, beweist ihn; bei einer Arbeitgeberkündigung daher regelmäßig der Arbeitgeber. Der Arbeitgeber trägt außerdem Kündigungsgrund, ordnungsgemäße Betriebsratsanhörung und Erfüllung; der Arbeitnehmer Arbeitsleistung, eigene Anspruchsvoraussetzungen, rechtzeitige Klageerhebung und Gegenbelege | Vertrag, Personalvermerk, Zeit- oder Vergütungskorrektur, Beteiligungsvorlage, Abmahnung, Feststellungsklage, Vergleich oder Abwicklung |
+| TzBfG Paragraf 14 bis Paragraf 17 | Befristung, Form, Rechtsfolge und Befristungskontrollklage; Textform für die Regelaltersgrenzenvereinbarung nach SGB VI Paragraf 41 Absatz 3 abgrenzen | Wer sich auf den Zugang einer Erklärung beruft, beweist ihn; bei einer Arbeitgeberkündigung daher regelmäßig der Arbeitgeber. Der Arbeitgeber trägt außerdem Kündigungsgrund, ordnungsgemäße Betriebsratsanhörung und Erfüllung; der Arbeitnehmer Arbeitsleistung, eigene Anspruchsvoraussetzungen, rechtzeitige Klageerhebung und Gegenbelege | Vertrag, Personalvermerk, Zeit- oder Vergütungskorrektur, Beteiligungsvorlage, Abmahnung, Feststellungsklage, Vergleich oder Abwicklung |
 | BetrVG Paragraf 87 und Paragraf 102 | Mitbestimmung und Anhörung des Betriebsrats vor Kündigung | Wer sich auf den Zugang einer Erklärung beruft, beweist ihn; bei einer Arbeitgeberkündigung daher regelmäßig der Arbeitgeber. Der Arbeitgeber trägt außerdem Kündigungsgrund, ordnungsgemäße Betriebsratsanhörung und Erfüllung; der Arbeitnehmer Arbeitsleistung, eigene Anspruchsvoraussetzungen, rechtzeitige Klageerhebung und Gegenbelege | Vertrag, Personalvermerk, Zeit- oder Vergütungskorrektur, Beteiligungsvorlage, Abmahnung, Feststellungsklage, Vergleich oder Abwicklung |
 | AGG Paragraf 7, Paragraf 12 und Paragraf 15 | Benachteiligungsverbot, Schutzpflichten und Entschädigung | Wer sich auf den Zugang einer Erklärung beruft, beweist ihn; bei einer Arbeitgeberkündigung daher regelmäßig der Arbeitgeber. Der Arbeitgeber trägt außerdem Kündigungsgrund, ordnungsgemäße Betriebsratsanhörung und Erfüllung; der Arbeitnehmer Arbeitsleistung, eigene Anspruchsvoraussetzungen, rechtzeitige Klageerhebung und Gegenbelege | Vertrag, Personalvermerk, Zeit- oder Vergütungskorrektur, Beteiligungsvorlage, Abmahnung, Feststellungsklage, Vergleich oder Abwicklung |
 
@@ -99,10 +99,10 @@ Arbeitsgriff Arbeitsprodukt: Vertrag, Personalvermerk, Anhörung, Abmahnung, Bet
 | Rechtsprechungsanker | Quellenstatus | Nutzwert im Fall |
 | --- | --- | --- |
 | BAG, Urteil vom 30.01.2025 - 2 AZR 68/24 | Profilanker; vor Zitierung am Aktenstand oder an belastbarer Quelle sichern | Der Arbeitgeber trägt die Darlegungs- und Beweislast für den Zugang seines Kündigungsschreibens; Einlieferungsbeleg und Sendungsverlauf des Einwurf-Einschreibens begründen für sich allein keinen Anscheinsbeweis |
+| BAG, Urteil vom 07.05.2026 - 2 AZR 130/25 | Profilanker; vor Zitierung am Aktenstand oder an belastbarer Quelle sichern | Bei einzelnen Mitgliedern eines gesamtvertretungsbefugten GmbH-Aufsichtsrats ist der Ermächtigungsnachweis gesondert zu prüfen; Paragraf 174 BGB kann entsprechend gelten. Die elektronische Kündigung des Falls lag vor Einführung des Paragraf 46h ArbGG |
 | BVerfG, Beschluss vom 06.06.2018 - 1 BvL 7/14 und 1 BvR 1375/14 | Profilanker; vor Zitierung am Aktenstand oder an belastbarer Quelle sichern | Vorbeschäftigungsverbot des TzBfG bleibt verfassungskonform, verlangt aber verfassungskonforme Begrenzung in atypischen Fällen |
 | BAG Großer Senat, Beschluss vom 27.02.1985 - GS 1/84 | Profilanker; vor Zitierung am Aktenstand oder an belastbarer Quelle sichern | allgemeiner Weiterbeschäftigungsanspruch nach obsiegendem erstinstanzlichem Kündigungsschutzurteil |
 | BAG, Urteil vom 24.08.2023 - 2 AZR 17/23 | Profilanker; vor Zitierung am Aktenstand oder an belastbarer Quelle sichern | Bei beleidigenden Äußerungen in einer Chatgruppe hängt die Vertraulichkeitserwartung von Größe, Zusammensetzung, Beteiligung und Medium ab; der Arbeitnehmer muss ihre Berechtigung darlegen |
-| BAG, Urteil vom 27.07.2017 - 2 AZR 681/16 | Profilanker; vor Zitierung am Aktenstand oder an belastbarer Quelle sichern | Ein Keylogger ohne durch konkrete Tatsachen begründeten Verdacht einer Straftat oder schweren Pflichtverletzung ist unzulässig; darauf beruhender Vortrag kann unverwertbar sein |
 - Rechtsfolge zuerst als Arbeitsprodukt denken: Vertrag, Personalvermerk, Zeit- oder Vergütungskorrektur, Beteiligungsvorlage, Abmahnung, Feststellungsklage, Vergleich oder Abwicklung
 - Quellenstatus immer sichtbar machen: Aktenfund, Normtext, Profilanker, gesicherte Rechtsprechung oder offene Prüfung.
 
@@ -111,12 +111,11 @@ Arbeitsgriff Arbeitsprodukt: Vertrag, Personalvermerk, Anhörung, Abmahnung, Bet
 - BGB Paragraf 611a: Arbeitsvertrag und Weisungsgebundenheit.
 - BGB Paragraf 241 Absatz 2, Paragraf 612a und GewO Paragraf 106: Rücksichtnahme, Maßregelungsverbot und Weisungsrecht.
 - KSchG Paragraf 1, Paragraf 4 und Paragraf 7: soziale Rechtfertigung, Dreiwochenfrist und Wirksamkeitsfiktion.
-- BGB Paragraf 623 und Paragraf 626: Schriftform, wichtiger Grund und Erklärungsfrist.
-- TzBfG Paragraf 14 bis Paragraf 17: Befristung, Schriftform, Rechtsfolge und Befristungskontrollklage.
+- BGB Paragraf 623 und Paragraf 626: Schriftform, wichtiger Grund und Erklärungsfrist; elektronische Gerichtsschriftsätze gesondert nach ArbGG Paragraf 46h prüfen.
+- TzBfG Paragraf 14 bis Paragraf 17: Befristung, Form, Rechtsfolge und Befristungskontrollklage; Textform für die Regelaltersgrenzenvereinbarung nach SGB VI Paragraf 41 Absatz 3 abgrenzen.
 - BetrVG Paragraf 87 und Paragraf 102: Mitbestimmung und Anhörung des Betriebsrats vor Kündigung.
 - AGG Paragraf 7, Paragraf 12 und Paragraf 15: Benachteiligungsverbot, Schutzpflichten und Entschädigung.
 - ArbZG, BUrlG und EntgFG: Arbeitszeit, Erholungsurlaub und Entgeltfortzahlung im laufenden Arbeitsverhältnis.
-- Paragraf 15 Datenschutz-Grundverordnung: Betroffenenauskunft kann im Prozess zur Ermittlung von Beweismitteln genutzt werden; im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
 - Paragraf 623 BGB: Schriftform der Beendigung; elektronische Form ist ausgeschlossen; im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
 - Paragrafen 145 bis 147 BGB: Angebot, Bindung und sofortige Annahme unter Anwesenden; im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
 - Paragrafen 123, 124 und 142 BGB: widerrechtliche Drohung oder Täuschung, Anfechtungsfrist und Rückwirkung; im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
@@ -124,20 +123,15 @@ Arbeitsgriff Arbeitsprodukt: Vertrag, Personalvermerk, Anhörung, Abmahnung, Bet
 - Paragraf 312g BGB vermittelt bei einem arbeitsrechtlichen Aufhebungsvertrag grundsätzlich kein allgemeines Widerrufsrecht; Sonderkonstellationen gesondert prüfen; im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
 - Paragraf 159 SGB III — Sperrzeit; im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
 - Paragraf 158 SGB III — Ruhen bei Abfindung (wenn Kündigungsfrist nicht eingehalten); im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
+- Paragraf 623 BGB — Schriftform Aufhebungsvertrag; im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
 
 ## 8. Leitentscheidungen
 
 - BAG, Urteil vom 30.01.2025 - 2 AZR 68/24: Der Arbeitgeber trägt die Darlegungs- und Beweislast für den Zugang seines Kündigungsschreibens; Einlieferungsbeleg und Sendungsverlauf des Einwurf-Einschreibens begründen für sich allein keinen Anscheinsbeweis.
+- BAG, Urteil vom 07.05.2026 - 2 AZR 130/25: Bei einzelnen Mitgliedern eines gesamtvertretungsbefugten GmbH-Aufsichtsrats ist der Ermächtigungsnachweis gesondert zu prüfen; Paragraf 174 BGB kann entsprechend gelten. Die elektronische Kündigung des Falls lag vor Einführung des Paragraf 46h ArbGG.
 - BVerfG, Beschluss vom 06.06.2018 - 1 BvL 7/14 und 1 BvR 1375/14: Vorbeschäftigungsverbot des TzBfG bleibt verfassungskonform, verlangt aber verfassungskonforme Begrenzung in atypischen Fällen.
 - BAG Großer Senat, Beschluss vom 27.02.1985 - GS 1/84: allgemeiner Weiterbeschäftigungsanspruch nach obsiegendem erstinstanzlichem Kündigungsschutzurteil.
 - BAG, Urteil vom 24.08.2023 - 2 AZR 17/23: Bei beleidigenden Äußerungen in einer Chatgruppe hängt die Vertraulichkeitserwartung von Größe, Zusammensetzung, Beteiligung und Medium ab; der Arbeitnehmer muss ihre Berechtigung darlegen.
-- BAG, Urteil vom 27.07.2017 - 2 AZR 681/16: Ein Keylogger ohne durch konkrete Tatsachen begründeten Verdacht einer Straftat oder schweren Pflichtverletzung ist unzulässig; darauf beruhender Vortrag kann unverwertbar sein.
-- ArbG Berlin, Urteil vom 28.09.2021 - 36 Ca 15296/20: einfache elektronische Signatur wahrt die Schriftform einer Befristung nicht.
-- LAG Berlin-Brandenburg, Urteil vom 16.03.2022 - 23 Sa 1133/21: Scan der Unterschrift wahrt TzBfG-Schriftform nicht und wird nach Arbeitsaufnahme nicht rückwirkend geheilt.
-- ArbG Gera, Urteil vom 07.03.2024 - 2 Ca 936/23: echte qualifizierte elektronische Signatur kann TzBfG-Schriftform wahren.
-- BAG 8 AZR 61/24 (20.02.2025): Kein Datenschutz-Grundverordnung-Schadensersatz allein wegen „Störgefühls"; überprüfbarer Kontrollverlust erforderlich.
-- BAG, Urteil vom 7. Februar 2019 - 6 AZR 75/18: Das Gebot fairen Verhandelns schützt die Entscheidungsfreiheit im Weg zum Vertragsschluss.
-- BAG, Urteil vom 24. Februar 2022 - 6 AZR 333/21: Ein nur sofort annehmbares Angebot und die verweigerte weitere Bedenkzeit sind für sich allein nicht unfair.
 
 ## 9. Prüfraster
 
@@ -159,7 +153,7 @@ Arbeitsgriff Arbeitsprodukt: Vertrag, Personalvermerk, Anhörung, Abmahnung, Bet
 10.6. Gegenposition: Formuliere den stärksten ernsthaften Angriff; hier setzt die Gegenseite typischerweise bei Fristversäumnis, fehlerhafter Anhörung oder unzureichender Sozialauswahl an.
 10.7. Erwiderung: Antworte mit konkretem Gegenbeleg, Auslegung oder Beweislastregel und ziehe die Folge auf Vertrag, Personalvermerk, Zeit- oder Vergütungskorrektur, Beteiligungsvorlage, Abmahnung, Feststellungsklage, Vergleich oder Abwicklung; ein bloßes Bestreiten genügt nicht.
 10.8. Arbeitsprodukt: Schließe mit Antrag, Tenor, Klausel, Entscheidung oder nächstem Schritt; hier typischerweise Klageantrag: Es wird festgestellt, dass das Arbeitsverhältnis der Parteien durch die Kündigung vom [Datum] nicht aufgelöst worden ist; Befristungsantrag: Es wird festgestellt, dass das Arbeitsverhältnis nicht aufgrund der Befristung vom [Datum] mit Ablauf des [Datum] geendet hat.
-10.9. Quellenstatus: Ordne Rechtsprechung nach Tragweite ein; erste Fallanker sind BAG, Urteil vom 30.01.2025 - 2 AZR 68/24; BVerfG, Beschluss vom 06.06.2018 - 1 BvL 7/14 und 1 BvR 1375/14.
+10.9. Quellenstatus: Ordne Rechtsprechung nach Tragweite ein; erste Fallanker sind BAG, Urteil vom 30.01.2025 - 2 AZR 68/24; BAG, Urteil vom 07.05.2026 - 2 AZR 130/25.
 
 ## 11. Outputvarianten und Empfängerwunsch
 
@@ -195,10 +189,10 @@ Die Landkarte dient der schnellen Auswahl. Sie ersetzt nicht die darunter ausfor
 | --- | --- | --- |
 | Anhörung des Betriebsrats (Paragraf 102 BetrVG) | Bearbeite Anhörung des Betriebsrats (Paragraf 102 BetrVG): zugang, Dreiwochenfrist, Schriftform, Beteiligungsrechte, Darlegungslast und Klage- oder Vergleichsziel sofort trennen. | Fachvotum zu Anhörung des Betriebsrats (Paragraf 102 BetrVG) mit Tatbestandsmerkmalen, Aktenfundstellen, Beweislast, stärkster Gegenposition, Risiko und ausformulierter Rechtsfolge |
 | Fachanwaltsblick Arbeitsrecht | Trenne Individualarbeitsrecht, kollektives Arbeitsrecht und sozialrechtliche Folgefragen. Ordne das Mandat einem Schwerpunkt aus FAO Paragraf 10 zu und benenne Schnittstellen, ohne die Kernprüfung auszulagern. | Fachvotum zu Fachanwaltsblick Arbeitsrecht mit Tatbestandsmerkmalen, Aktenfundstellen, Beweislast, stärkster Gegenposition, Risiko und ausformulierter Rechtsfolge |
-| Abmahnung und Personalaktenentfernung prüfen | AZR 782/11: Eine unberechtigte Abmahnung ist zu entfernen, wenn sie unbestimmt ist, falsche Tatsachen enthält, das Verhalten rechtlich falsch bewertet oder unverhältnismäßig ist. | versandfertiges Schreiben mit Betreff, Sachverhaltskern, Rechtsgrund, konkretem Begehren, Frist und Anlagenverzeichnis |
 | Arbeitsgerichtliche Versandmappe endfertigen | Typische Belegfolge ist nicht schematisch, sondern folgt dem Vortrag: Vertrag, Kündigung und Zugang, Vollmacht oder Anhörung, Abmahnungen, Abrechnungen, Zeiterfassung, Schriftverkehr. | Fachvotum zu Arbeitsgerichtliche Versandmappe endfertigen mit Tatbestandsmerkmalen, Aktenfundstellen, Beweislast, stärkster Gegenposition, Risiko und ausformulierter Rechtsfolge |
+| Schriftform, Vollmacht und Zugang einer Kündigung | Lies zuerst Kündigung, Umschlag, Zustellnachweis, Unterschriftsseite und beigefügte Vollmacht im freigegebenen Ordner. | Fristenblatt zu Schriftform, Vollmacht und Zugang einer Kündigung mit Auslöser, Beginn, Ende, Vorfrist, Beleg, Sofortmaßnahme und Verantwortlichem |
+| Abmahnung und Personalaktenentfernung prüfen | AZR 782/11: Eine unberechtigte Abmahnung ist zu entfernen, wenn sie unbestimmt ist, falsche Tatsachen enthält, das Verhalten rechtlich falsch bewertet oder unverhältnismäßig ist. | versandfertiges Schreiben mit Betreff, Sachverhaltskern, Rechtsgrund, konkretem Begehren, Frist und Anlagenverzeichnis |
 | Aufhebungsvertrag und faires Verhandeln prüfen | Ein Arbeitnehmer hat einen Aufhebungsvertrag in einem überraschenden Gespräch unterschrieben und beruft sich auf Druck, Krankheit, sprachliche Unterlegenheit, unzutreffende Vorwürfe oder eine angedrohte Kündigung. | verhandlungsfähige Fassung mit Ausgangstext, Änderung, Begründung, Rückfallposition und Vollzugscheck |
-| Kündigung wegen Minderleistung prüfen | AZR 667/02: Der Arbeitnehmer schuldet keine objektive Durchschnittsleistung, sondern Arbeit unter angemessener Ausschöpfung seiner persönlichen Leistungsfähigkeit. | Fachvotum zu Kündigung wegen Minderleistung prüfen mit Tatbestandsmerkmalen, Aktenfundstellen, Beweislast, stärkster Gegenposition, Risiko und ausformulierter Rechtsfolge |
 | Fachanwalt Arbeitsrecht BAG Equal Pay Paarvergleich | Liegt eine konkrete Entgeltdifferenz zwischen der Mandantin und einem männlichen Kollegen vor? Verrichten beide gleiche oder gleichwertige Arbeit (Tätigkeit, Anforderungen, Verantwortung, Belastung)? | Verhandlungsblatt zu Fachanwalt Arbeitsrecht BAG Equal Pay Paarvergleich mit Ziel, Mindestposition, Tauschmasse, Risiko, Regelungstext und Vollzug |
 | Kontrolle im Homeoffice rechtmäßig gestalten | Ein Arbeitgeber will Bildschirmaufzeichnungen, Tastaturprotokolle, Aktivitätsdaten oder Kamerabilder aus dem Homeoffice erheben oder bereits erhobene Daten arbeitsrechtlich verwerten. | Kontrollvermerk zu Kontrolle im Homeoffice rechtmäßig gestalten mit Pflicht, Ist-Nachweis, Abweichung, Risiko, Verantwortlichem, Frist und Freigabe |
 | Leiharbeitnehmer bei der Betriebsratswahl prüfen | ABR 69/11: Regelmäßig eingesetzte Leiharbeitnehmer sind bei der für die Betriebsratsgröße maßgeblichen Belegschaftsstärke des Entleiherbetriebs zu berücksichtigen. | Fachvotum zu Leiharbeitnehmer bei der Betriebsratswahl prüfen mit Tatbestandsmerkmalen, Aktenfundstellen, Beweislast, stärkster Gegenposition, Risiko und ausformulierter. |
@@ -211,7 +205,7 @@ Diese Routen stammen aus den konkreten Arbeitsthemen dieses Plugins. Wähle die 
 
 Bearbeitungsauftrag: Bearbeite Anhörung des Betriebsrats (Paragraf 102 BetrVG): zugang, Dreiwochenfrist, Schriftform, Beteiligungsrechte, Darlegungslast und Klage- oder Vergleichsziel sofort trennen. Verbinde den konkreten Aktenfund mit Tatbestandsmerkmal, Gegenposition, Beweislast, Rechtsfolge und dem nächsten vollständig ausformulierten Arbeitsprodukt. Fachstation: Konflikt und Trennung: Anhörung, Verdacht, Beweisgewinnung, Abmahnung, Kündigungsgrund, Beteiligungsrechte, Zugang und Klagefrist ordnen.
 Prüfschritte: Gibt es einen Betriebsrat im Betrieb; — Paragraf 1 BetrVG: mindestens 5 wahlberechtigte, 3 wählbare Arbeitnehmer; Betriebsabgrenzung nach Paragraf 1 BetrVG beachten.
-Norm- oder Entscheidungsbezug aus dem Fachmaterial: Paragraf 1 BetrVG: mindestens 5 wahlberechtigte, 3 wählbare Arbeitnehmer; Betriebsabgrenzung nach Paragraf 1 BetrVG beachten; Gibt es einen Betriebsrat im Betrieb; — Paragraf 1 BetrVG: mindestens 5 wahlberechtigte, 3 wählbare Arbeitnehmer; Betriebsabgrenzung nach Paragraf 1 BetrVG beachten.
+Normbezug aus dem Fachmaterial: Paragraf 1 BetrVG: mindestens 5 wahlberechtigte, 3 wählbare Arbeitnehmer; Betriebsabgrenzung nach Paragraf 1 BetrVG beachten; Gibt es einen Betriebsrat im Betrieb; — Paragraf 1 BetrVG: mindestens 5 wahlberechtigte, 3 wählbare Arbeitnehmer; Betriebsabgrenzung nach Paragraf 1 BetrVG beachten.
 Lieferstück: Fachvotum zu Anhörung des Betriebsrats (Paragraf 102 BetrVG) mit Tatbestandsmerkmalen, Aktenfundstellen, Beweislast, stärkster Gegenposition, Risiko und ausformulierter Rechtsfolge.
 
 ### 16.2. Fachanwaltsblick Arbeitsrecht
@@ -220,29 +214,26 @@ Bearbeitungsauftrag: Trenne Individualarbeitsrecht, kollektives Arbeitsrecht und
 Prüfschritte: Werte zuerst Arbeitsvertrag, Nachträge, Abrechnungen, Zeitdaten, Personalakte, Betriebsratsunterlagen und Zustellnachweise aus; Liefere dann eine Fristenampel und den ersten verwertbaren Baustein; Frage nur nach Tatsachen, die Kündigungsschutz, Befristung, Anspruchshöhe, Ausschlussfrist oder Beweisführung ändern.
 Lieferstück: Fachvotum zu Fachanwaltsblick Arbeitsrecht mit Tatbestandsmerkmalen, Aktenfundstellen, Beweislast, stärkster Gegenposition, Risiko und ausformulierter Rechtsfolge.
 
-### 16.3. Abmahnung und Personalaktenentfernung prüfen
-
-Bearbeitungsauftrag: AZR 782/11: Eine unberechtigte Abmahnung ist zu entfernen, wenn sie unbestimmt ist, falsche Tatsachen enthält, das Verhalten rechtlich falsch bewertet oder unverhältnismäßig ist. Eine berechtigte Abmahnung ist erst zu entfernen, wenn das gerügte Verhalten für das Arbeitsverhältnis unter jedem rechtlichen Gesichtspunkt bedeutungslos geworden ist. AZR 593/09: Der Entfernungsanspruch folgt aus der Beeinträchtigung des beruflichen Fortkommens und des Persönlichkeitsrechts; Inhalt und Funktion der konkreten Abmahnung sind maßgeblich.
-Prüfschritte: Ein Arbeitnehmer verlangt die Entfernung einer Abmahnung; Zu unterscheiden sind eine von Anfang an rechtswidrige Abmahnung und eine ursprünglich berechtigte Abmahnung, deren weiterer Verbleib später jede rechtliche Bedeutung verloren haben soll.
-Lieferstück: versandfertiges Schreiben mit Betreff, Sachverhaltskern, Rechtsgrund, konkretem Begehren, Frist und Anlagenverzeichnis.
-
-### 16.4. Arbeitsgerichtliche Versandmappe endfertigen
+### 16.3. Arbeitsgerichtliche Versandmappe endfertigen
 
 Bearbeitungsauftrag: Typische Belegfolge ist nicht schematisch, sondern folgt dem Vortrag: Vertrag, Kündigung und Zugang, Vollmacht oder Anhörung, Abmahnungen, Abrechnungen, Zeiterfassung, Schriftverkehr. Jede Seite trägt rechts oben die endgültige Bezeichnung. Hauptdokument und jede Anlage werden getrennt als lesbare PDF ausgegeben.
 Prüfschritte: Lies Klage oder Erwiderung, Arbeitsvertrag und Nachträge, Kündigungsurkunde samt Umschlag oder Zustellnachweis, Abmahnungen, Betriebsratsunterlagen, Lohnabrechnungen, Arbeitszeitdaten, BEM-Unterlagen und gerichtliche Verfügungen; Liefere sofort Frist- und Belegmatrix; Frage nach Gestaltung nur, wenn weder Kanzleivorlage noch Alt-Schriftsatz den Stil erkennen lassen; Klägeranlagen beginnen oder laufen als K, Beklagtenanlagen als B; Replik und Duplik setzen die höchste vergebene Nummer fort.
 Lieferstück: Fachvotum zu Arbeitsgerichtliche Versandmappe endfertigen mit Tatbestandsmerkmalen, Aktenfundstellen, Beweislast, stärkster Gegenposition, Risiko und ausformulierter Rechtsfolge.
 
-### 16.5. Aufhebungsvertrag und faires Verhandeln prüfen
+### 16.4. Schriftform, Vollmacht und Zugang einer Kündigung
+
+Bearbeitungsauftrag: Lies zuerst Kündigung, Umschlag, Zustellnachweis, Unterschriftsseite und beigefügte Vollmacht im freigegebenen Ordner. Arbeite je Kündigung getrennt: Erklärender, Unterzeichner, Vertretungsgrund, Übermittlungsweg, Zugang, Kenntnis vom fehlenden Vollmachtsnachweis, Zurückweisung und Klageeingang. Paragraf 126 Absatz 1 BGB verlangt eine eigenhändige Namensunterschrift oder ein notariell beglaubigtes Handzeichen.
+Lieferstück: Fristenblatt zu Schriftform, Vollmacht und Zugang einer Kündigung mit Auslöser, Beginn, Ende, Vorfrist, Beleg, Sofortmaßnahme und Verantwortlichem.
+
+### 16.5. Abmahnung und Personalaktenentfernung prüfen
+
+Bearbeitungsauftrag: AZR 782/11: Eine unberechtigte Abmahnung ist zu entfernen, wenn sie unbestimmt ist, falsche Tatsachen enthält, das Verhalten rechtlich falsch bewertet oder unverhältnismäßig ist. Eine berechtigte Abmahnung ist erst zu entfernen, wenn das gerügte Verhalten für das Arbeitsverhältnis unter jedem rechtlichen Gesichtspunkt bedeutungslos geworden ist. AZR 593/09: Der Entfernungsanspruch folgt aus der Beeinträchtigung des beruflichen Fortkommens und des Persönlichkeitsrechts; Inhalt und Funktion der konkreten Abmahnung sind maßgeblich.
+Lieferstück: versandfertiges Schreiben mit Betreff, Sachverhaltskern, Rechtsgrund, konkretem Begehren, Frist und Anlagenverzeichnis.
+
+### 16.6. Aufhebungsvertrag und faires Verhandeln prüfen
 
 Bearbeitungsauftrag: Ein Arbeitnehmer hat einen Aufhebungsvertrag in einem überraschenden Gespräch unterschrieben und beruft sich auf Druck, Krankheit, sprachliche Unterlegenheit, unzutreffende Vorwürfe oder eine angedrohte Kündigung. Eine schuldhafte Verletzung kann einen Anspruch auf Herstellung des Zustands begründen, der ohne den Aufhebungsvertrag bestünde. AZR 333/21: Ein nur sofort annehmbares Angebot und die verweigerte weitere Bedenkzeit sind für sich allein nicht unfair.
-Prüfschritte: Nicht jede harte Verhandlung ist unfair; entscheidend sind Zustandekommen, Entscheidungsfreiheit und konkrete Gesamtumstände.
 Lieferstück: verhandlungsfähige Fassung mit Ausgangstext, Änderung, Begründung, Rückfallposition und Vollzugscheck.
-
-### 16.6. Kündigung wegen Minderleistung prüfen
-
-Bearbeitungsauftrag: AZR 667/02: Der Arbeitnehmer schuldet keine objektive Durchschnittsleistung, sondern Arbeit unter angemessener Ausschöpfung seiner persönlichen Leistungsfähigkeit. Er darf das Verhältnis von Leistung und Gegenleistung nicht willkürlich beeinträchtigen. AZR 536/06: Eine längerfristige deutliche Unterschreitung des Durchschnitts vergleichbarer Arbeitnehmer kann ein Indiz dafür sein, dass die persönliche Leistungsfähigkeit nicht ausgeschöpft wird.
-Prüfschritte: Zuerst ist zu klären, ob der Arbeitnehmer nicht leisten will, nicht leisten kann oder ob die Kennzahlen ungeeignet, verzerrt oder durch Arbeitsbedingungen verursacht sind.
-Lieferstück: Fachvotum zu Kündigung wegen Minderleistung prüfen mit Tatbestandsmerkmalen, Aktenfundstellen, Beweislast, stärkster Gegenposition, Risiko und ausformulierter Rechtsfolge.
 
 ### 16.7. Fachanwalt Arbeitsrecht BAG Equal Pay Paarvergleich
 
@@ -267,8 +258,7 @@ Lieferstück: vollständige Einreichungs- oder Registervorlage mit Zuständigkei
 ### 16.11. Späten Widerspruch beim Betriebsübergang prüfen
 
 Bearbeitungsauftrag: Ein Arbeitnehmer wurde möglicherweise unvollständig über einen Betriebsübergang unterrichtet und erwägt erst Monate oder Jahre später den Widerspruch. AZR 6/21: Es gibt für die Verwirkung keine starre Höchst- oder Mindestfrist. AZR 201/18: Ordnungsgemäße Unterrichtung, Beginn der Monatsfrist, Disposition über das Arbeitsverhältnis und Verwirkung sind getrennt zu prüfen; Darlegungs- und Beweislast folgen dem jeweils streitigen Merkmal.
-Prüfschritte: Eine fehlerhafte Unterrichtung hält die Monatsfrist offen, schützt aber nicht automatisch vor Verwirkung.
-Norm- oder Entscheidungsbezug aus dem Fachmaterial: Prüfe einen späten Widerspruch gegen den Übergang des Arbeitsverhältnisses nach Paragraf 613a BGB.
+Normbezug aus dem Fachmaterial: Prüfe einen späten Widerspruch gegen den Übergang des Arbeitsverhältnisses nach Paragraf 613a BGB.
 Lieferstück: frist- und formgerechter Entwurf mit Antrag, tragenden Tatsachen, Beweisangeboten, Anlagen und Einreichungsweg.
 
 ### 16.12. Urlaub und Urlaubsabgeltung zeitlich richtig prüfen

@@ -34,7 +34,7 @@ Ohne verwertbares Material genau eine gebündelte Frage zu Werk und Rechtskette,
 | --- | --- |
 | Normenanker | 17 U.S.C. Sections 101 bis 106A; 17 U.S.C. Sections 201 bis 205; 17 U.S.C. Sections 107 bis 122 |
 | Rechtsprechung | aus Akte und belastbarer Quelle ableiten |
-| Tatbestand | Werk, Rechtekette, Nutzungshandlung, Lizenz, Schranke, Beweis und Anspruchsziel verdichten |
+| Tatbestand | Werktyp, Entstehung, Urheber, Beschäftigung oder Auftrag, Transfers, Territorium, Veröffentlichung und Varianten feststellen |
 | Beweislast | Darlegungs- und Nachweisfrage für US Copyright, Registrierung und Rechteverwertung: Welche Handlung verletzt welches ausschließliche Recht und welche Verteidigung ist tatsachenbasiert |
 | Rechtsfolge | Registration Worksheet, rights-chain schedule, DMCA notice, response, infringement memo, complaint outline oder deal redline erstellen |
 | Quellenstatus | Aktenfund, Normtext, Profilanker oder sicher belegte Entscheidung offen kennzeichnen; unsichere Aktenzeichen nicht ergänzen |
@@ -43,12 +43,11 @@ Ohne verwertbares Material genau eine gebündelte Frage zu Werk und Rechtskette,
 
 | Feld | Sofortgriff | Ausgabe |
 | --- | --- | --- |
-| Werk und Rechtskette | Werk, Rechtekette, Nutzungshandlung, Lizenz, Schranke, Beweis und Anspruchsziel verdichten. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Registrierung | Claimant, author, dates, publication status, work made for hire, excluded material, limitation of claim, deposit. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Rechte und Verteidigung | Konkrete Nutzung, substantial similarity, access, license, fair use, first sale, safe harbor oder andere Schranke. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Remedies und Forum | Registrierungstiming, actual oder statutory damages, profits, injunction, fees, limitation period, CCB. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Arbeitsprodukt | Registration Worksheet, rights-chain schedule, DMCA notice, response, infringement memo, complaint outline. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Advertising und Promotional Campaigns | Werk, Rechtekette, Nutzungshandlung, Lizenz, Schranke, Beweis und Anspruchsziel verdichten. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Werk und Rechtskette | Werktyp, Entstehung, Urheber, Beschäftigung oder Auftrag, Transfers, Territorium, Veröffentlichung und Varianten feststellen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Registrierung | Claimant, author, dates, publication status, work made for hire, excluded material, limitation of claim, deposit und certification prüfen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Rechte und Verteidigung | Konkrete Nutzung, substantial similarity, access, license, fair use, first sale, safe harbor oder andere Schranke ordnen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Remedies und Forum | Registrierungstiming, actual oder statutory damages, profits, injunction, fees, limitation period, CCB oder federal court bestimmen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Arbeitsprodukt | Registration Worksheet, rights-chain schedule, DMCA notice, response, infringement memo, complaint outline oder deal redline erstellen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
 
 ## 6. Anker
 

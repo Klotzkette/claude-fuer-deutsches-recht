@@ -44,11 +44,10 @@ Ohne verwertbares Material genau eine gebündelte Frage zu Betrieb und Rolle, Pr
 | Feld | Sofortgriff | Ausgabe |
 | --- | --- | --- |
 | Betrieb und Rolle | Inhaber, Erlaubnis, Filiale, Leitung, Personal, Verantwortlichkeit und konkrete Betriebsstätte feststellen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Produkt und Vorgang | Arzneimittel, Rezeptur, Defektur, Verschreibung, Abgabe, Substitution, Import, Versand oder Heimversorgung. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Produkt und Vorgang | Arzneimittel, Rezeptur, Defektur, Verschreibung, Abgabe, Substitution, Import, Versand oder Heimversorgung einordnen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
 | Betriebsablauf und Nachweis | Beschaffung, Prüfung, Lagerung, Herstellung, Beratung, Abgabe, Dokumentation und Rückruf nachvollziehen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
 | Leistungs- und Aufsichtsweg | SGB-V-Abgabe, Retaxation, Erlaubnis, Anzeige, Beanstandung, Ordnungsverfügung oder Strafbezug trennen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Arbeitsprodukt | Erlaubnis- oder Anzeigeunterlage, SOP, Versorgungsvertrag, Retaxationswiderspruch, Aufsichtsantwort. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Beschwerdemanagement Patient Kunden | Bearbeite Beschwerdemanagement Patient Kunden: Inhaber, Erlaubnis, Filiale, Leitung, Personal, Verantwortlichkeit. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Arbeitsprodukt | Erlaubnis- oder Anzeigeunterlage, SOP, Versorgungsvertrag, Retaxationswiderspruch, Aufsichtsantwort oder Maßnahmenplan erstellen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
 
 ## 6. Anker
 

@@ -1,6 +1,6 @@
 ---
 name: verl-aussagensicherheit-pruefung
-description: "Für Aussagensicherheits-Prüfung (\"darf das so im Druck?\"): ordnet Norm, Beweislast und Gegenargument; Ergebnis: Tatbestands- oder Anspruchsmatrix."
+description: "Kontrolliert die Belegbarkeit veröffentlichungsreifer Aussagen. Ordnet Behauptung, Beleg, Gegenposition und Veröffentlichungsrisiko ein und erstellt eine Aussagenmatrix mit präzisen Überarbeitungsvorschlägen für die Redaktion."
 ---
 
 # Aussagensicherheits-Pruefung ("darf das so im Druck?")

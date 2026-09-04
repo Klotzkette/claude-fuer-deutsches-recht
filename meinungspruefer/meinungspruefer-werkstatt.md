@@ -128,11 +128,6 @@ Arbeitsgriff Arbeitsprodukt: Verfassungsbeschwerde, Stellungnahme, Normenkontrol
 - BVerfG, Beschluss vom 14.02.1973 - 1 BvR 112/65: Soraya stärkt Persönlichkeitsrecht und richterliche Rechtsfortbildung.
 - BVerfG, Urteil vom 15.12.1983 - 1 BvR 209/83 u.a.: Volkszählung entwickelt informationelle Selbstbestimmung.
 - BVerfG, Urteil vom 24.05.2006 - 2 BvR 669/04: Artikel 16 Absatz 1 GG schließt die zeitnahe Rücknahme einer durch eigene Täuschung erschlichenen Einbürgerung nicht grundsätzlich aus; die Rücknahme braucht eine hinreichend bestimmte gesetzliche Grundlage.
-- EuGH, Urteil vom 16.12.2008 - C-73/07, Satakunnan Markkinapörssi und Satamedia: Journalistische Zwecke sind funktional zu verstehen; Datenschutz darf öffentliche Information nicht pauschal ersticken.
-- EuGH, Urteil vom 14.02.2019 - C-345/17, Buivids: Auch Einzelpersonen können journalistische Zwecke verfolgen; Veröffentlichung von Polizeivideo braucht Abwägung mit Datenschutz.
-- EuGH, Urteil vom 24.09.2019 - C-507/17, Google/CNIL: De-Referenzierung muss räumlich und grundrechtlich austariert werden; kein Automatismus weltweiter Löschung.
-- EuGH, Urteil vom 03.10.2019 - C-18/18, Glawischnig-Piesczek/Facebook Ireland: Gerichte können Plattformen zur Entfernung identischer und unter Umständen gleichwertiger rechtswidriger Inhalte verpflichten; keine allgemeine Überwachung.
-- EuGH, Urteil vom 26.04.2022 - C-401/19, Polen/Parlament und Rat: Uploadfilter-Regime brauchen wirksame Schutzvorkehrungen für rechtmäßige Kommunikation, einschließlich Zitat, Kritik, Rezension, Karikatur, Parodie und Pastiche.
 
 ## 9. Prüfraster
 
@@ -195,8 +190,8 @@ Die Landkarte dient der schnellen Auswahl. Sie ersetzt nicht die darunter ausfor
 | Risikomatrix Ampel | Trenne strikt: Tatsachenbehauptung, Werturteil, gemischte Äußerung, Satire/Spott, Schmähungs- oder Prangerkontext. | Fachvotum zu Risikomatrix Ampel mit Tatbestandsmerkmalen, Aktenfundstellen, Beweislast, stärkster Gegenposition, Risiko und ausformulierter Rechtsfolge |
 | Strafantrag und Verfahren | Deliktspfad: Paragraf 185, Paragraf 186, Paragraf 187, Paragraf 188 StGB. Frist: regelmäßig drei Monate ab Kenntnis von Tat und Täter, Paragraf 77b StGB. | frist- und formgerechter Entwurf mit Antrag, tragenden Tatsachen, Beweisangeboten, Anlagen und Einreichungsweg |
 | "Lackaffe" und ähnliche Spottbegriffe | Zusatzvorwürfe: Kommt ein unbelegter Tatsachenkern hinzu? Ein einzelner Spottbegriff mit erkennbarem Sachanlass ist nicht automatisch Formalbeleidigung oder Schmähkritik. | Fachvotum zu "Lackaffe" und ähnliche Spottbegriffe mit Tatbestandsmerkmalen, Aktenfundstellen, Beweislast, stärkster Gegenposition, Risiko und ausformulierter Rechtsfolge |
-| Paragraf 186 StGB - üble Nachrede | Rechtfertigung: Paragraf 193 StGB und Artikel 5 GG. Qualifikation: Paragraf 188 Absatz 2 StGB nur bei Personen des politischen Lebens und weiteren Voraussetzungen. keine stärkere Behauptung formulieren als die Akte trägt | Fachvotum zu Paragraf 186 StGB - üble Nachrede mit Tatbestandsmerkmalen, Aktenfundstellen, Beweislast, stärkster Gegenposition, Risiko und ausformulierter Rechtsfolge |
-| Paragraf 193 StGB - Wahrnehmung berechtigter Interessen | Bearbeite Paragraf 193 StGB - Wahrnehmung berechtigter Interessen entlang der Verfassungsrecht-Prüflinie: Beschwerdegegenstand, Hoheitsakt, Beschwerdeführer und Frist feststellen | Fachvotum zu Paragraf 193 StGB - Wahrnehmung berechtigter Interessen mit Tatbestandsmerkmalen, Aktenfundstellen, Beweislast, stärkster Gegenposition, Risiko und ausformulierter. |
+| Paragraf 193 StGB - Wahrnehmung berechtigter Interessen | Bearbeite Paragraf 193 StGB; Wahrnehmung berechtigter Interessen entlang der Verfassungsrecht-Prüflinie: Beschwerdegegenstand, Hoheitsakt, Beschwerdeführer und Frist feststellen | Fachvotum zu Paragraf 193 StGB - Wahrnehmung berechtigter Interessen mit Tatbestandsmerkmalen, Aktenfundstellen, Beweislast, stärkster Gegenposition, Risiko und ausformulierter. |
+| Presse, Plattformen und DSA-Schnittstelle | Plattformtyp: soziales Netzwerk, berufliches Netzwerk, Bewertungsportal, Presse, Forum. | Fachvotum zu Presse, Plattformen und DSA-Schnittstelle mit Tatbestandsmerkmalen, Aktenfundstellen, Beweislast, stärkster Gegenposition, Risiko und ausformulierter Rechtsfolge |
 
 ## 16. Fachspezifische Praxisrouten
 
@@ -205,7 +200,7 @@ Diese Routen stammen aus den konkreten Arbeitsthemen dieses Plugins. Wähle die 
 ### 16.1. Zivilrechtliche Äußerungsansprüche
 
 Bearbeitungsauftrag: Prüfe zivilrechtliche Ansprüche bei Äußerungen: Unterlassung, Beseitigung, Widerruf, Richtigstellung, Geldentschädigung, Paragraf 823 BGB, Paragraf 824 BGB und Paragraf 1004 BGB analog. Paragraf 824 BGB: kreditgefährdende unwahre Tatsachen über Unternehmen oder berufliches Fortkommen. Paragraf 823 Absatz 2 BGB: Schutzgesetze wie Paragrafen 185 ff.
-Norm- oder Entscheidungsbezug aus dem Fachmaterial: Prüfe zivilrechtliche Ansprüche bei Äußerungen: Unterlassung, Beseitigung, Widerruf, Richtigstellung, Geldentschädigung, Paragraf 823 BGB, Paragraf 824 BGB und Paragraf 1004 BGB analog.
+Normbezug aus dem Fachmaterial: Prüfe zivilrechtliche Ansprüche bei Äußerungen: Unterlassung, Beseitigung, Widerruf, Richtigstellung, Geldentschädigung, Paragraf 823 BGB, Paragraf 824 BGB und Paragraf 1004 BGB analog.
 Lieferstück: Fachvotum zu Zivilrechtliche Äußerungsansprüche mit Tatbestandsmerkmalen, Aktenfundstellen, Beweislast, stärkster Gegenposition, Risiko und ausformulierter Rechtsfolge.
 
 ### 16.2. EGMR-Art.-10-Rechtsprechung
@@ -224,7 +219,7 @@ Lieferstück: Fachvotum zu EuGH und Art. 11 GRCh mit Tatbestandsmerkmalen, Akten
 
 Bearbeitungsauftrag: Bearbeite Europarecht: EMRK und Grundrechtecharta entlang der Verfassungsrecht-Prüflinie: Beschwerdegegenstand, Hoheitsakt, Beschwerdeführer und Frist feststellen.
 Prüfschritte: Artikel 10 EMRK schützt Freiheit der Meinungsäußerung; Einschränkungen müssen gesetzlich vorgesehen, legitim und in einer demokratischen Gesellschaft notwendig sein; Artikel 11 GRCh schützt Freiheit der Meinungsäußerung und Informationsfreiheit im Unionsrecht; Sie soll prüfen, ob die deutsche Lösung konventions- und unionsrechtsfreundlich ist:; EGMR: demokratische Notwendigkeit, Werturteil/Tatsachengrundlage, Artikel 8/Artikel 10Abwägung, Sanktion und chilling effect.
-Norm- oder Entscheidungsbezug aus dem Fachmaterial: Artikel 10 EMRK schützt Freiheit der Meinungsäußerung; Einschränkungen müssen gesetzlich vorgesehen, legitim und in einer demokratischen Gesellschaft notwendig sein; Artikel 11 GRCh schützt Freiheit der Meinungsäußerung und Informationsfreiheit im Unionsrecht; Artikel 10 EMRK schützt Freiheit der Meinungsäußerung.
+Normbezug aus dem Fachmaterial: Artikel 10 EMRK schützt Freiheit der Meinungsäußerung; Einschränkungen müssen gesetzlich vorgesehen, legitim und in einer demokratischen Gesellschaft notwendig sein; Artikel 11 GRCh schützt Freiheit der Meinungsäußerung und Informationsfreiheit im Unionsrecht.
 Lieferstück: Fachvotum zu Europarecht: EMRK und Grundrechtecharta mit Tatbestandsmerkmalen, Aktenfundstellen, Beweislast, stärkster Gegenposition, Risiko und ausformulierter Rechtsfolge.
 
 ### 16.5. Risikomatrix Ampel
@@ -236,7 +231,7 @@ Lieferstück: Fachvotum zu Risikomatrix Ampel mit Tatbestandsmerkmalen, Aktenfun
 ### 16.6. Strafantrag und Verfahren
 
 Bearbeitungsauftrag: Deliktspfad: Paragraf 185, Paragraf 186, Paragraf 187, Paragraf 188 StGB. Frist: regelmäßig drei Monate ab Kenntnis von Tat und Täter, Paragraf 77b StGB. Starte mit Wortlaut, Medium, Adressat, Anlass, Vor- und Nachgeschichte, Reichweite, Betroffenem und vorhandenen Belegen.
-Norm- oder Entscheidungsbezug aus dem Fachmaterial: Deliktspfad: Paragraf 185, Paragraf 186, Paragraf 187, Paragraf 188 StGB.
+Normbezug aus dem Fachmaterial: Deliktspfad: Paragraf 185, Paragraf 186, Paragraf 187, Paragraf 188 StGB.
 Lieferstück: frist- und formgerechter Entwurf mit Antrag, tragenden Tatsachen, Beweisangeboten, Anlagen und Einreichungsweg.
 
 ### 16.7. "Lackaffe" und ähnliche Spottbegriffe
@@ -245,30 +240,30 @@ Bearbeitungsauftrag: Zusatzvorwürfe: Kommt ein unbelegter Tatsachenkern hinzu? 
 Prüfschritte: "Lackaffe" ist ein abwertender Spottbegriff; Ob daraus eine strafbare Beleidigung oder eine zulässige, wenn auch unfreundliche Meinungsäußerung wird, hängt stark vom Kontext ab; Sachbezug: Wird Auftreten, Kommunikation oder Amtsführung im Zusammenhang mit einer Sachfrage kritisiert; Betroffene Person: Privatperson, Vorgesetzter, Bürgermeister, Dienstleister; Situation: spontane hitzige Äußerung oder vorbereitete Kampagne.
 Lieferstück: Fachvotum zu "Lackaffe" und ähnliche Spottbegriffe mit Tatbestandsmerkmalen, Aktenfundstellen, Beweislast, stärkster Gegenposition, Risiko und ausformulierter Rechtsfolge.
 
-### 16.8. Paragraf 186 StGB - üble Nachrede
+### 16.8. Paragraf 193 StGB - Wahrnehmung berechtigter Interessen
 
-Bearbeitungsauftrag: Rechtfertigung: Paragraf 193 StGB und Artikel 5 GG. Qualifikation: Paragraf 188 Absatz 2 StGB nur bei Personen des politischen Lebens und weiteren Voraussetzungen. keine stärkere Behauptung formulieren als die Akte trägt.
-Prüfschritte: Nutze ihn, wenn eine Äußerung einem Menschen eine konkrete Tatsache zuschreibt, die verächtlich machen oder in der öffentlichen Meinung herabwürdigen kann, und die Wahrheit nicht sicher belegbar ist.
-Lieferstück: Fachvotum zu Paragraf 186 StGB - üble Nachrede mit Tatbestandsmerkmalen, Aktenfundstellen, Beweislast, stärkster Gegenposition, Risiko und ausformulierter Rechtsfolge.
-
-### 16.9. Paragraf 193 StGB - Wahrnehmung berechtigter Interessen
-
-Bearbeitungsauftrag: Bearbeite Paragraf 193 StGB - Wahrnehmung berechtigter Interessen entlang der Verfassungsrecht-Prüflinie: Beschwerdegegenstand, Hoheitsakt, Beschwerdeführer und Frist feststellen.
+Bearbeitungsauftrag: Bearbeite Paragraf 193 StGB; Wahrnehmung berechtigter Interessen entlang der Verfassungsrecht-Prüflinie: Beschwerdegegenstand, Hoheitsakt, Beschwerdeführer und Frist feststellen.
 Prüfschritte: Paragraf 193 StGB ist die einfachrechtliche Brücke, über die Artikel 5 GG in viele Ehrschutzfälle hineinwirkt; Er ist besonders wichtig bei Beschwerden, Bewertungen, arbeitsbezogenen Konflikten, Schulstreit, Mandatskritik und rechtlicher Selbstverteidigung.
-Norm- oder Entscheidungsbezug aus dem Fachmaterial: Paragraf 193 StGB ist die einfachrechtliche Brücke, über die Artikel 5 GG in viele Ehrschutzfälle hineinwirkt; Paragraf 193 StGB ist die einfachrechtliche Brücke, über die Artikel 5 GG in viele Ehrschutzfälle hineinwirkt.
+Normbezug aus dem Fachmaterial: Paragraf 193 StGB ist die einfachrechtliche Brücke, über die Artikel 5 GG in viele Ehrschutzfälle hineinwirkt; Paragraf 193 StGB ist die einfachrechtliche Brücke, über die Artikel 5 GG in viele Ehrschutzfälle hineinwirkt.
 Lieferstück: Fachvotum zu Paragraf 193 StGB - Wahrnehmung berechtigter Interessen mit Tatbestandsmerkmalen, Aktenfundstellen, Beweislast, stärkster Gegenposition, Risiko und ausformulierter Rechtsfolge.
 
-### 16.10. Presse, Plattformen und DSA-Schnittstelle
+### 16.9. Presse, Plattformen und DSA-Schnittstelle
 
 Bearbeitungsauftrag: Plattformtyp: soziales Netzwerk, berufliches Netzwerk, Bewertungsportal, Presse, Forum. Prüfen, ob unionsrechtliche Sicherungen greifen: keine allgemeine Überwachung, Beschwerdeweg, nachvollziehbare Begründung, Schutz rechtmäßiger Inhalte. Bei Tatsachen: Wahrheit, Sorgfalt, Verdacht, Anhörung.
 Prüfschritte: Dieses Fachmodul bei Onlineveröffentlichungen, Plattformmeldungen, Account-Sperrungen, Bewertungsportalen und journalistischen Beiträgen; Wer meldet: Betroffener, Arbeitgeber, Behörde, Dritter; Ziel: Löschung, Sperrung, Gegendarstellung, Wiederherstellung, Auskunft; Rechtsgrundlage: Persönlichkeitsrecht, Strafrecht, Nutzungsbedingungen, DSA-Meldeweg; Beweis: URL, Screenshot, Zeitstempel, Profil, Reichweite.
 Lieferstück: Fachvotum zu Presse, Plattformen und DSA-Schnittstelle mit Tatbestandsmerkmalen, Aktenfundstellen, Beweislast, stärkster Gegenposition, Risiko und ausformulierter Rechtsfolge.
 
-### 16.11. Rechtsvergleich USA: Supreme Court
+### 16.10. Rechtsvergleich USA: Supreme Court
 
 Bearbeitungsauftrag: Deutsche Einordnung zuerst: Meinung/Tatsache, Artikel 5 GG, Ehrschutz, Strafrecht, Zivilrecht. Falsity und provable fact: Ist die Aussage als beweisbare Tatsachenbehauptung lesbar oder rhetorische Übertreibung? Sanktion: damages, injunctive relief, criminal sanction, platform decision.
 Prüfschritte: Mandant fragt nach internationaler Kommunikationsstrategie; Unternehmen, Plattform oder Person agiert in Deutschland und den USA; Es geht um public figure, Amtsträgerkritik, Satire, Parodie, tatsächliche Falschbehauptung oder Drohung; Schriftsatz oder Memo soll zeigen, warum US-Recht nicht einfach deutsche Beleidigungsprüfung ersetzt.
 Lieferstück: Verhandlungsblatt zu Rechtsvergleich USA: Supreme Court mit Ziel, Mindestposition, Tauschmasse, Risiko, Regelungstext und Vollzug.
+
+### 16.11. Art. 5 GG - Abwägung
+
+Bearbeitungsauftrag: Bearbeite Art. 5 GG - Abwägung: bearbeite Artikel 5 GG; Abwägung entlang der Verfassungsrecht-Prüflinie: Beschwerdegegenstand, Hoheitsakt, Beschwerdeführer und Frist feststellen. Verbinde den konkreten Aktenfund mit Tatbestandsmerkmal, Gegenposition, Beweislast, Rechtsfolge und dem nächsten vollständig ausformulierten Arbeitsprodukt.
+Normbezug aus dem Fachmaterial: Artikel 5 GG schützt auch scharfe, polemische und verletzende Meinungen.
+Lieferstück: Fachvotum zu Art. 5 GG - Abwägung mit Tatbestandsmerkmalen, Aktenfundstellen, Beweislast, stärkster Gegenposition, Risiko und ausformulierter Rechtsfolge.
 
 ### 16.12. Beweissicherung
 

@@ -1,6 +1,6 @@
 ---
 name: datenschutz-schadensersatz-art-82-dsgvo
-description: "Für Datenschutz Schadensersatz — Gerichtsstreit nach Art. 82 DSGVO: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt. Fachgebiet: Datenschutzrecht. Route: datenschutz-schadensersatz-art-82-dsgvo."
+description: "Prüft DSGVO Artikel 82 nach Verstoß, materiellem oder immateriellem Schaden, Kausalität, Verschuldensvermutung und Entlastung. Erstellt eine beweisfähige Schadenschronologie, Anspruchsmatrix, Bezifferung und das passende Anspruchs- oder Abwehrschreiben nach aktueller EuGH- und BGH-Rechtsprechung."
 ---
 
 # Datenschutz Schadensersatz — Gerichtsstreit nach Art. 82 DSGVO
@@ -15,7 +15,7 @@ Sieben-Fragen-Diagnose:
 2. **Welcher konkrete Verstoss?** Norm und Sachverhalt — nicht pauschal "DSGVO verletzt".
 3. **Kausalitaet:** Welcher Schaden hat sich aus welchem Verstoss konkret entwickelt? Kausalkette schriftlich.
 4. **Schadensart:** Materiell (Vermögen) und/oder immateriell (Gefuehl, Kontrollverlust, Sorge)? Höhe geschaetzt?
-5. **Beweislast:** Wer muss was beweisen — Verantwortlicher entlastet sich nach Art. 82 III DSGVO, dass er nicht verantwortlich ist; Kläger muss Verstoss und Schaden darlegen.
+5. Beweislast: Der Anspruchsteller legt Verstoß, konkreten Schaden und Kausalität dar. Er muss kein Verschulden des Verantwortlichen beweisen; dieses wird vermutet. Der Verantwortliche kann sich nach DSGVO Artikel 82 Absatz 3 entlasten, wenn er nachweist, in keinerlei Hinsicht für den schadensauslösenden Umstand verantwortlich zu sein.
 6. **Verjährung:** Art. 82 selbst regelt nichts; nach BGH-Rspr. § 195 BGB drei Jahre ab Kenntnis.
 7. **Anspruchskonkurrenz:** UWG, BDSG § 83, deliktische Ansprueche §§ 823 ff. BGB?
 
@@ -27,9 +27,9 @@ Sieben-Fragen-Diagnose:
 - **Art. 82 IV DSGVO** Gesamtschuld bei mehreren Verantwortlichen.
 - **EuGH C-300/21 Oesterreichische Post** (Urteil 04.05.2023): Kein blosser Verstoss reicht; konkreter Schaden notwendig; keine Erheblichkeitsschwelle.
 - **EuGH C-340/21 Bulgarian Sofia** (Urteil 14.12.2023): Auch blosse Sorge vor Datenmissbrauch kann immaterieller Schaden sein; Verantwortlicher hat TOM-Pflicht und Beweislast für Geeignetheit; Hackerangriff allein entlastet nicht.
-- **EuGH C-687/21 MediaMarkt** (Urteil 25.01.2024): Befürchtungen Betroffener können Schaden begruenden; konkretes Ausmass und Kausalitaet sind zu prüfen.
-- **EuGH, Urt. v. 11.04.2024 - C-741/21 (juris GmbH):** Verschulden und Schaden — Art. 82 DSGVO setzt Verschulden voraus; Höhe nach nationalem Recht, aber unter Beachtung Effektivitaet und Äquivalenz.
-- **EuGH C-456/22 VX/Saale** (Urteil 14.12.2023): Schadensersatz hat kompensatorische und keine Straffunktion; auch geringe Schadenshoehen möglich.
+- EuGH, Urteil vom 25.01.2024 - C-687/21, MediaMarktSaturn: Der Anspruchsteller muss einen tatsächlichen Schaden darlegen. Steht fest, dass der unbefugte Empfänger die Daten nicht zur Kenntnis genommen hat, begründet die bloße hypothetische Missbrauchsbefürchtung keinen immateriellen Schaden.
+- EuGH, Urteil vom 11.04.2024 - C-741/21, juris: Der Anspruchsteller muss kein Verschulden des Verantwortlichen beweisen; das Verschulden wird vermutet. Der Verantwortliche trägt die Entlastung nach DSGVO Artikel 82 Absatz 3. Die Bemessung folgt nationalem Recht unter Wahrung von Äquivalenz und Effektivität.
+- EuGH, Urteil vom 14.12.2023 - C-456/22, Gemeinde Ummendorf: Eine nationale Bagatellschwelle für immaterielle Schäden ist unzulässig. Der Anspruchsteller muss gleichwohl Folgen nachweisen, die einen vom bloßen Verstoß verschiedenen Schaden bilden.
 - BGH, Urteil vom 18.11.2024 - VI ZR 10/24: Schon ein nachgewiesener kurzzeitiger Kontrollverlust kann ein immaterieller Schaden sein; eine missbräuchliche Verwendung oder zusätzliche spürbare Nachteile sind nicht erforderlich. Anspruchsteller müssen den tatsächlichen Kontrollverlust und dessen Verursachung durch den Verstoß darlegen und beweisen.
 - **Art. 79 II DSGVO** Gerichtsstand am Sitz des Verantwortlichen oder gewoehnlichen Aufenthaltsort des Betroffenen.
 - **§ 195 BGB** drei Jahre.
@@ -107,5 +107,5 @@ Sieben-Fragen-Diagnose:
 - EuGH C-340/21 Bulgarian Sofia, Urteil 14.12.2023.
 - EuGH C-687/21 MediaMarkt, Urteil 25.01.2024.
 - EuGH, Urt. v. 11.04.2024 - C-741/21 (juris GmbH), vor Ausgabe über curia.europa.eu verifizieren.
-- EuGH C-456/22 VX gegen Saale, Urteil 14.12.2023.
+- EuGH C-456/22, Gemeinde Ummendorf, Urteil vom 14.12.2023.
 - Keine Aufsatzfundstellen aus Modellwissen.

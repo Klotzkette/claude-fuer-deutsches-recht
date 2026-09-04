@@ -77,9 +77,9 @@ Produktionsgriff Mandat abschließen: Ergebnis, offene Vollstreckung, Rechnung, 
 
 | Ebene | Fallfrage | Anker | Sofortausgabe |
 | --- | --- | --- | --- |
-| Eingang | Schatten-Systeme Aufdeckung | BRAO Paragraf 43a Absatz 2 und Absatz 4 | Dokumentenregister mit maßgeblicher Fassung |
+| Eingang | Berufsrecht-Bausteine | BRAO Paragraf 43a Absatz 2 und Absatz 4 | Dokumentenregister mit maßgeblicher Fassung |
 | Form und Technik | Dateityp, Lesbarkeit, Benennung, Signatur und Ausgabeweg | BRAO Paragraf 43e | Prüfprotokoll mit konkreter Korrektur |
-| Vollständigkeit | Berufsrecht-Bausteine | Verantwortlicher Bearbeiter für Annahme, Vollmacht, Frist, Freigabe und Versandnachweis; Mandant für Identitäts-, Sachverhalts- und Entscheidungsangaben | Anlagen- und Fehlteilliste mit Verantwortlichem |
+| Vollständigkeit | Datenschutz-Grundverordnung-Compliance-Bausteine | Verantwortlicher Bearbeiter für Annahme, Vollmacht, Frist, Freigabe und Versandnachweis; Mandant für Identitäts-, Sachverhalts- und Entscheidungsangaben | Anlagen- und Fehlteilliste mit Verantwortlichem |
 | Freigabe und Übergabe | Mandatsblatt, Fristenkontrolle, Arbeitsauftrag, Versandprotokoll, Budgetbericht, Rechnung oder Abschlussblatt | Öffnungsprobe, Freigabe und Übergabenachweis | fertiges Exportpaket oder Übergabevermerk |
 
 ## 5. Anforderungen, Qualitätsmerkmale, Nachweis und Ausgabe
@@ -126,7 +126,7 @@ Produktionsgriff Mandat abschließen: Ergebnis, offene Vollstreckung, Rechnung, 
 
 10.1. Produktionsziel: Benenne Empfänger, Dokumenttyp, maßgebliche Fassung, Freigabestatus und Ausgabeformat.
 10.2. Verbindliche Vorgabe: Ordne Form, Signatur, Dateityp, Benennung oder Übermittlungsweg zu; erste Anker sind BRAO Paragraf 43a Absatz 2 und Absatz 4; BRAO Paragraf 43e.
-10.3. Kritischer Arbeitspunkt: Bearbeite zuerst Schatten-Systeme Aufdeckung; Inhalt und technische Umsetzung werden gemeinsam geprüft.
+10.3. Kritischer Arbeitspunkt: Bearbeite zuerst Berufsrecht-Bausteine; Inhalt und technische Umsetzung werden gemeinsam geprüft.
 10.4. Fundstelle: Nenne Eingangsdatei, Seite, Absatz, Zelle, Nachricht oder Anlage; im Bereich Kanzleibetrieb und Mandatssteuerung sind dies regelmäßig die Eingangsdateien, maßgeblichen Fassungen, Anlagen und Übergabevorgaben.
 10.5. Nachweis: Verantwortlicher Bearbeiter für Annahme, Vollmacht, Frist, Freigabe und Versandnachweis; Mandant für Identitäts-, Sachverhalts- und Entscheidungsangaben. Jede Änderung bleibt zur Ausgangsfassung rückführbar.
 10.6. Fehlerbild: Prüfe die stärkste Übergabe- oder Freigabestörung; sie liegt typischerweise bei Interessenkontrolle, Identität, Vollmacht und verantwortlicher Bearbeiter belegt.
@@ -166,84 +166,82 @@ Die Landkarte dient der schnellen Auswahl. Sie ersetzt nicht die darunter ausfor
 
 | Arbeitsfeld | Entscheidende Weiche | Erstes Lieferstück |
 | --- | --- | --- |
-| Schatten-Systeme Aufdeckung | Dieser Arbeitsgang beschreibt Methoden zur Erkennung und zum konstruktiven Umgang mit Schatten-Systeme. | geprüftes Übergabepaket zu Schatten-Systeme Aufdeckung mit Eingangsstand, maßgeblicher Fassung, Qualitätsnachweis, Fehlteilliste, Freigabe und Öffnungsprobe |
 | Berufsrecht-Bausteine | Bearbeite Berufsrecht-Bausteine: mandat, Interessenkontrolle, Vollmacht, Frist, Verantwortlicher, Freigabe, Versandnachweis, Budget und Wiedervorlage sichern. | geprüftes Übergabepaket zu Berufsrecht-Bausteine mit Eingangsstand, maßgeblicher Fassung, Qualitätsnachweis, Fehlteilliste, Freigabe und Öffnungsprobe |
 | Datenschutz-Grundverordnung-Compliance-Bausteine | Bearbeite Datenschutz-Grundverordnung-Compliance-Bausteine: mandat, Interessenkontrolle, Vollmacht, Frist, Verantwortlicher, Freigabe, Versandnachweis, Budget und Wiedervorlage sichern. | Kontrollvermerk zu Datenschutz-Grundverordnung-Compliance-Bausteine mit Pflicht, Ist-Nachweis, Abweichung, Risiko, Verantwortlichem, Frist und Freigabe |
 | Kennzeichnungspflichten für Veröffentlichungen | Kennzeichnungspflichten für System-generierte Inhalte in Kanzlei-Veröffentlichungen prüfen: Anwendungsfall Kanzlei veröffentlicht System-unterstützte Artikel Blog-Posts Pressemitteilungen oder Mandantenbriefe und muss. | geprüftes Übergabepaket zu Kennzeichnungspflichten für Veröffentlichungen mit Eingangsstand, maßgeblicher Fassung, Qualitätsnachweis, Fehlteilliste, Freigabe und Öffnungsprobe |
 | Richtlinien-Update-Zyklus | Dieser Arbeitsgang legt einen strukturierten Update-Zyklus fest, der sicherstellt, dass die Richtlinie stets aktuell bleibt. | geprüftes Übergabepaket zu Richtlinien-Update-Zyklus mit Eingangsstand, maßgeblicher Fassung, Qualitätsnachweis, Fehlteilliste, Freigabe und Öffnungsprobe |
-| Auftragsverarbeitungsvertrag prüfen | Auftragsverarbeitungsvertrag nach Artikel 28 Datenschutz-Grundverordnung bei System-Anbietern prüfen: Anwendungsfall Kanzlei schließt Vertrag mit System-Dienstleister und muss AVV auf Datenschutz-Grundverordnung-Konformität prüfen. | verhandlungsfähige Fassung mit Ausgangstext, Änderung, Begründung, Rückfallposition und Vollzugscheck |
 | Bias und Diskriminierung Prüfung | Bearbeite Bias und Diskriminierung Prüfung: mandat, Interessenkontrolle, Vollmacht, Frist, Verantwortlicher, Freigabe, Versandnachweis, Budget und Wiedervorlage sichern. | gewichtete Prüfmatrix mit Tatbestandsmerkmalen, Fundstellen, Gegenposition, Beweislast, Risiko und Empfehlung |
 | Kanzlei-Kontext-Analyse | Bevor eine System-Nutzungsrichtlinie erstellt oder angepasst wird, muss der konkrete Kanzlei-Kontext systematisch erfasst werden. | gewichtete Prüfmatrix mit Tatbestandsmerkmalen, Fundstellen, Gegenposition, Beweislast, Risiko und Empfehlung |
 | Musterklauseln IT-Vertrag | Musterklauseln für IT-Verträge mit System-Dienstleistern in Kanzleien: Anwendungsfall Kanzlei verhandelt Vertrag mit System-Anbieter und braucht Klauseln zu Verschwiegenheit Training-Opt-out Löschpflichten und Haftung. | verhandlungsfähige Fassung mit Ausgangstext, Änderung, Begründung, Rückfallposition und Vollzugscheck |
+| Prompting-Leitfaden | Bearbeite Prompting-Leitfaden: mandat, Interessenkontrolle, Vollmacht, Frist, Verantwortlicher, Freigabe, Versandnachweis, Budget und Wiedervorlage sichern. | geprüftes Übergabepaket zu Prompting-Leitfaden mit Eingangsstand, maßgeblicher Fassung, Qualitätsnachweis, Fehlteilliste, Freigabe und Öffnungsprobe |
+| Schatten-Systeme Aufdeckung | Dieser Arbeitsgang beschreibt Methoden zur Erkennung und zum konstruktiven Umgang mit Schatten-Systeme. | geprüftes Übergabepaket zu Schatten-Systeme Aufdeckung mit Eingangsstand, maßgeblicher Fassung, Qualitätsnachweis, Fehlteilliste, Freigabe und Öffnungsprobe |
 
 ## 16. Fachspezifische Praxisrouten
 
 Diese Routen stammen aus den konkreten Arbeitsthemen dieses Plugins. Wähle die sachnächste Route, liefere deren ersten verwertbaren Baustein sofort und vertiefe nur die Punkte, die das Ergebnis tatsächlich ändern.
 
-### 16.1. Schatten-Systeme Aufdeckung
-
-Bearbeitungsauftrag: Dieser Arbeitsgang beschreibt Methoden zur Erkennung und zum konstruktiven Umgang mit Schatten-Systeme. Paragraf 43a Absatz 2 BRAO, Paragraf 203 StGB: Jede Übermittlung von Mandatsgeheimnissen an nicht autorisierte externe Dienste kann eine Verletzung der Verschwiegenheitspflicht darstellen — auch wenn der Mitarbeiter dies nicht beabsichtigt. Paragraf 87 Absatz 1 Nummer 6 BetrVG: Mitbestimmungsrecht des Betriebsrats bei technischer Überwachung von Mitarbeitern.
-Prüfschritte: "Schatten-Systeme" bezeichnet die heimliche oder geduldete Nutzung nicht autorisierter System-Systeme und Chatbots durch Mitarbeiter im Kanzleibetrieb — oft mit privaten Accounts und ohne Wissen der Kanzleiführung; Diese Praxis gefährdet Datenschutz, Anwaltsgeheimnis und Compliance erheblich; Dieser Skill beschreibt Methoden zur Erkennung und zum konstruktiven Umgang mit Schatten-Systeme; Artikel 5 Datenschutz-Grundverordnung: Rechenschaftspflicht des Verantwortlichen — die Kanzlei muss darlegen können, dass Daten rechtmäßig verarbeitet werden.
-Lieferstück: geprüftes Übergabepaket zu Schatten-Systeme Aufdeckung mit Eingangsstand, maßgeblicher Fassung, Qualitätsnachweis, Fehlteilliste, Freigabe und Öffnungsprobe.
-
-### 16.2. Berufsrecht-Bausteine
+### 16.1. Berufsrecht-Bausteine
 
 Bearbeitungsauftrag: Bearbeite Berufsrecht-Bausteine: mandat, Interessenkontrolle, Vollmacht, Frist, Verantwortlicher, Freigabe, Versandnachweis, Budget und Wiedervorlage sichern. Verbinde den konkreten Aktenfund mit Tatbestandsmerkmal, Gegenposition, Beweislast, Rechtsfolge und dem nächsten vollständig ausformulierten Arbeitsprodukt.
 Prüfschritte: Berufsrechtliche Textbausteine für System-Nutzungsrichtlinien in Kanzleien: Anwendungsfall Kanzlei erstellt Systemrichtlinie und braucht präzise Bausteine zu Verschwiegenheit Sorgfaltspflicht und Eigenverantwortung; Paragraf 43 BRAO Gewissenhaftigkeit, Paragraf 43a Absatz 2 BRAO Verschwiegenheit, Paragraf 43e BRAO IT-Dienstleister, Paragraf 203 StGB Berufsgeheimnis, BRAK-Hinweise 12/2024 DAV-Stellungnahme 32/2025; Prüfraster Verschwiegenheitspflicht beim System-Einsatz, Haftung für System-Output OLG Koblenz, eigenverantwortliche Endkontrolle; Output Bausteine-Sammlung mit konkreten Formulierungen für Kanzlei-Richtlinie; Abgrenzung zu Datenschutz-Grundverordnung-Compliance-Bausteine und zu Musterklauseln-IT.
 Lieferstück: geprüftes Übergabepaket zu Berufsrecht-Bausteine mit Eingangsstand, maßgeblicher Fassung, Qualitätsnachweis, Fehlteilliste, Freigabe und Öffnungsprobe.
 
-### 16.3. Datenschutz-Grundverordnung-Compliance-Bausteine
+### 16.2. Datenschutz-Grundverordnung-Compliance-Bausteine
 
 Bearbeitungsauftrag: Bearbeite Datenschutz-Grundverordnung-Compliance-Bausteine: mandat, Interessenkontrolle, Vollmacht, Frist, Verantwortlicher, Freigabe, Versandnachweis, Budget und Wiedervorlage sichern. Verbinde den konkreten Aktenfund mit Tatbestandsmerkmal, Gegenposition, Beweislast, Rechtsfolge und dem nächsten vollständig ausformulierten Arbeitsprodukt.
 Prüfschritte: Datenschutz-Grundverordnung-Textbausteine für System-Nutzungsrichtlinien in Kanzleien: Anwendungsfall Kanzlei erstellt oder aktualisiert Systemrichtlinie und benötigt prazise datenschutzrechtliche Formulierungen; Artikel 2 Absatz 1 Datenschutz-Grundverordnung Anwendungsbereich, Artikel 6 Datenschutz-Grundverordnung Rechtsgrundlage, Artikel 9 Datenschutz-Grundverordnung besondere Kategorien, Artikel 28 Datenschutz-Grundverordnung AVV; Prüfraster Datenminimierung, Zweckbindung, Drittlandtransfer, Anonymisierung, AVV-Pflicht, Löschkonzept; Output Datenschutz-Grundverordnung-Bausteine-Sammlung anpassbar für Kanzlei-Profil mit Normreferenzen; Abgrenzung zu Auftragsverarbeitungsvertrag-Prüfen und zu Anonymisierung-Pseudonymisierung.
 Lieferstück: Kontrollvermerk zu Datenschutz-Grundverordnung-Compliance-Bausteine mit Pflicht, Ist-Nachweis, Abweichung, Risiko, Verantwortlichem, Frist und Freigabe.
 
-### 16.4. Kennzeichnungspflichten für Veröffentlichungen
+### 16.3. Kennzeichnungspflichten für Veröffentlichungen
 
 Bearbeitungsauftrag: Kennzeichnungspflichten für System-generierte Inhalte in Kanzlei-Veröffentlichungen prüfen: Anwendungsfall Kanzlei veröffentlicht System-unterstützte Artikel Blog-Posts Pressemitteilungen oder Mandantenbriefe und muss Kennzeichnungspflichten einhalten. Artikel 50 Absatz 4 Regulierungsrahmen Kennzeichnungspflicht, Paragraf 43 BRAO Sorgfaltspflicht, UrhG Urheberrecht System-Content. Prüfraster Anwendungsbereich Artikel 50 Absatz 4, redaktionelle Verantwortung als Ausnahme, Best-Practice-Hinweise transparente Kommunikation.
 Lieferstück: geprüftes Übergabepaket zu Kennzeichnungspflichten für Veröffentlichungen mit Eingangsstand, maßgeblicher Fassung, Qualitätsnachweis, Fehlteilliste, Freigabe und Öffnungsprobe.
 
-### 16.5. Richtlinien-Update-Zyklus
+### 16.4. Richtlinien-Update-Zyklus
 
 Bearbeitungsauftrag: Dieser Arbeitsgang legt einen strukturierten Update-Zyklus fest, der sicherstellt, dass die Richtlinie stets aktuell bleibt. Paragraf 43 BRAO: Gewissenhaftigkeit umfasst die laufende Anpassung der Kanzlei-Compliance an neue Rechtsentwicklungen. BRAK-Hinweise 12/2024 und DAV-Stellungnahme 32/2025 werden fortgeschrieben.
 Prüfschritte: Eine System-Nutzungsrichtlinie ist kein statisches Dokument; Gleichzeitig entstehen neue Regulierungsebenen (Regulierungsrahmen-Durchführungsrechtsakte, nationale Umsetzungsgesetze) und neue Gerichtsentscheidungen; Dieser Skill legt einen strukturierten Update-Zyklus fest, der sicherstellt, dass die Richtlinie stets aktuell bleibt; Artikel 4 Regulierungsrahmen: System-Kompetenz muss auf dem aktuellen Stand gehalten werden — was eine aktuelle Richtlinie voraussetzt; Artikel 5 Absatz 2 Datenschutz-Grundverordnung: Rechenschaftspflicht erfordert, dass die getroffenen Maßnahmen dem aktuellen Stand entsprechen.
 Lieferstück: geprüftes Übergabepaket zu Richtlinien-Update-Zyklus mit Eingangsstand, maßgeblicher Fassung, Qualitätsnachweis, Fehlteilliste, Freigabe und Öffnungsprobe.
 
-### 16.6. Auftragsverarbeitungsvertrag prüfen
-
-Bearbeitungsauftrag: Auftragsverarbeitungsvertrag nach Artikel 28 Datenschutz-Grundverordnung bei System-Anbietern prüfen: Anwendungsfall Kanzlei schließt Vertrag mit System-Dienstleister und muss AVV auf Datenschutz-Grundverordnung-Konformität prüfen. Artikel 28 Datenschutz-Grundverordnung AVV-Pflicht, Paragraf 43e BRAO IT-Dienstleister, Regulierungsrahmen Betreiberpflichten. Jeder System-Dienstleister, der im Auftrag der Kanzlei personenbezogene Daten verarbeitet, muss als Auftragsverarbeiter nach Artikel 28 Datenschutz-Grundverordnung vertraglich gebunden werden.
-Norm- oder Entscheidungsbezug aus dem Fachmaterial: Auftragsverarbeitungsvertrag nach Artikel 28 Datenschutz-Grundverordnung bei System-Anbietern prüfen: Anwendungsfall Kanzlei schließt Vertrag mit System-Dienstleister und muss AVV auf Datenschutz-Grundverordnung-Konformität prüfen; Artikel 28 Datenschutz-Grundverordnung AVV-Pflicht, Paragraf 43e BRAO IT-Dienstleister, Regulierungsrahmen Betreiberpflichten.
-Lieferstück: verhandlungsfähige Fassung mit Ausgangstext, Änderung, Begründung, Rückfallposition und Vollzugscheck.
-
-### 16.7. Bias und Diskriminierung Prüfung
+### 16.5. Bias und Diskriminierung Prüfung
 
 Bearbeitungsauftrag: Bearbeite Bias und Diskriminierung Prüfung: mandat, Interessenkontrolle, Vollmacht, Frist, Verantwortlicher, Freigabe, Versandnachweis, Budget und Wiedervorlage sichern. Verbinde den konkreten Aktenfund mit Tatbestandsmerkmal, Gegenposition, Beweislast, Rechtsfolge und dem nächsten vollständig ausformulierten Arbeitsprodukt.
 Prüfschritte: System-Systeme werden auf Basis großer Textmengen trainiert, die Verzerrungen und gesellschaftliche Vorurteile enthalten können; Diese "Bias" können sich in den Outputs der System-Systeme widerspiegeln und zu Diskriminierungen führen — besonders kritisch bei Personalentscheidungen, aber auch bei der Mandantenberatung zu diskriminierungsrechtlichen Fragen; Kanzleien müssen ihre Mitarbeitern befähigen, Bias zu erkennen und zu korrigieren; Paragrafen 1, 7 AGG (Allgemeines Gleichbehandlungsgesetz): Diskriminierungsverbot aufgrund von Rasse, Geschlecht, Religion, Behinderung, Alter oder sexueller Identität — gilt für Beschäftigung und privatrechtliche Verträge, damit auch für Mandatsbeziehungen.
 Lieferstück: gewichtete Prüfmatrix mit Tatbestandsmerkmalen, Fundstellen, Gegenposition, Beweislast, Risiko und Empfehlung.
 
-### 16.8. Kanzlei-Kontext-Analyse
+### 16.6. Kanzlei-Kontext-Analyse
 
 Bearbeitungsauftrag: Bevor eine System-Nutzungsrichtlinie erstellt oder angepasst wird, muss der konkrete Kanzlei-Kontext systematisch erfasst werden. Paragraf 43 BRAO verpflichtet zur gewissenhaften Berufsausübung, was eine angemessene organisatorische Ausstattung einschließt. Für Syndikus-Anwälte gelten zusätzlich Paragrafen 46 ff.
 Prüfschritte: Größe, Rechtsgebiete, Mandantenstruktur und vorhandene IT-Infrastruktur bestimmen maßgeblich, welche Anforderungen an Datenschutz, Berufsrecht und Compliance gelten und wie streng die Richtlinie ausgestaltet sein muss; Artikel 4 Regulierungsrahmen verlangt kontextspezifische System-Kompetenz, also auf das konkrete Einsatzszenario zugeschnittene Kenntnisse; Für Syndikus-Anwälte gelten zusätzlich Paragrafen 46 und folgende BRAO mit besonderen Verschwiegenheitsregelungen gegenüber dem Arbeitgeber.
 Lieferstück: gewichtete Prüfmatrix mit Tatbestandsmerkmalen, Fundstellen, Gegenposition, Beweislast, Risiko und Empfehlung.
 
-### 16.9. Musterklauseln IT-Vertrag
+### 16.7. Musterklauseln IT-Vertrag
 
 Bearbeitungsauftrag: Musterklauseln für IT-Verträge mit System-Dienstleistern in Kanzleien: Anwendungsfall Kanzlei verhandelt Vertrag mit System-Anbieter und braucht Klauseln zu Verschwiegenheit Training-Opt-out Löschpflichten und Haftung. Paragraf 43e BRAO Verschwiegenheits-Erklärung, Artikel 28 Datenschutz-Grundverordnung AVV, Paragraf 203 StGB Berufsgeheimnis. Prüfraster Verschwiegenheits- und Paragraf 43e-Erklärung, Training-Opt-out, Löschpflichten, Auditrrechte, Haftungsregelung, Subprozessoren-Genehmigung.
 Lieferstück: verhandlungsfähige Fassung mit Ausgangstext, Änderung, Begründung, Rückfallposition und Vollzugscheck.
 
-### 16.10. Prompting-Leitfaden
+### 16.8. Prompting-Leitfaden
 
 Bearbeitungsauftrag: Bearbeite Prompting-Leitfaden: mandat, Interessenkontrolle, Vollmacht, Frist, Verantwortlicher, Freigabe, Versandnachweis, Budget und Wiedervorlage sichern. Verbinde den konkreten Aktenfund mit Tatbestandsmerkmal, Gegenposition, Beweislast, Rechtsfolge und dem nächsten vollständig ausformulierten Arbeitsprodukt.
 Prüfschritte: Ein "Prompt" ist eine Instruktion an ein System-System — vergleichbar damit, wie man eine Kollegin oder einen Mitarbeiter um Unterstützung bittet; Effektives Prompten ist eine Kernkompetenz beim System-Einsatz in der juristischen Praxis; Dieser Skill vermittelt die Vier-Elemente-Methode und praxiserprobte Tipps für den juristischen Kontext; Artikel 4 Regulierungsrahmen: Pflicht zur System-Kompetenz — die Fähigkeit zum effektiven und sicheren Prompten ist eine zentrale Komponente dieser Kompetenz; Artikel 3 Nummer 56 Regulierungsrahmen: System-Kompetenz umfasst das Wissen, System-Systeme sachkundig einzusetzen.
 Lieferstück: geprüftes Übergabepaket zu Prompting-Leitfaden mit Eingangsstand, maßgeblicher Fassung, Qualitätsnachweis, Fehlteilliste, Freigabe und Öffnungsprobe.
 
-### 16.11. Urheberrecht-Bausteine
+### 16.9. Schatten-Systeme Aufdeckung
+
+Bearbeitungsauftrag: Dieser Arbeitsgang beschreibt Methoden zur Erkennung und zum konstruktiven Umgang mit Schatten-Systeme. Paragraf 43a Absatz 2 BRAO, Paragraf 203 StGB: Jede Übermittlung von Mandatsgeheimnissen an nicht autorisierte externe Dienste kann eine Verletzung der Verschwiegenheitspflicht darstellen — auch wenn der Mitarbeiter dies nicht beabsichtigt. Paragraf 87 Absatz 1 Nummer 6 BetrVG: Mitbestimmungsrecht des Betriebsrats bei technischer Überwachung von Mitarbeitern.
+Lieferstück: geprüftes Übergabepaket zu Schatten-Systeme Aufdeckung mit Eingangsstand, maßgeblicher Fassung, Qualitätsnachweis, Fehlteilliste, Freigabe und Öffnungsprobe.
+
+### 16.10. Urheberrecht-Bausteine
 
 Bearbeitungsauftrag: Urheberrechtliche Bausteine für System-Nutzungsrichtlinien in Kanzleien: Anwendungsfall Kanzlei will wissen ob System-generierte Texte urheberrechtlich schützbar sind und welche Texte als Eingabe hochgeladen werden dürfen. Paragraf 2 Absatz 2 UrhG geistige Schöpfung, Paragraf 5 UrhG amtliche Werke, amtliche/freie Quellen oder lizenzierte Datenbanken Lizenzbedingungen. Output Urheberrechts-Bausteine für Kanzlei-Richtlinie mit Upload-Verbotsliste.
 Lieferstück: geprüftes Übergabepaket zu Urheberrecht-Bausteine mit Eingangsstand, maßgeblicher Fassung, Qualitätsnachweis, Fehlteilliste, Freigabe und Öffnungsprobe.
 
-### 16.12. Anonymisierung und Pseudonymisierung
+### 16.11. Anonymisierung und Pseudonymisierung
 
 Bearbeitungsauftrag: Anonymisierung und Pseudonymisierung von Mandatsdaten vor System-Eingabe: Anwendungsfall Anwalt will Mandatsdokument in System-System eingeben und muss Namen Adressen Aktenzeichen und Identifikatoren schützen. Artikel 4 Nummer 5 Datenschutz-Grundverordnung Pseudonymisierung, Artikel 2 Absatz 1 Datenschutz-Grundverordnung Anwendungsbereich, Paragraf 43a BRAO Verschwiegenheit. Die Anonymisierung von Mandatsdaten vor der Eingabe in System-Systeme ist eine der wichtigsten praktischen Schutzmaßnahmen in der Kanzlei.
 Lieferstück: geprüftes Übergabepaket zu Anonymisierung und Pseudonymisierung mit Eingangsstand, maßgeblicher Fassung, Qualitätsnachweis, Fehlteilliste, Freigabe und Öffnungsprobe.
+
+### 16.12. Automatisierte Entscheidungen Art. 22 Datenschutz-Grundverordnung
+
+Bearbeitungsauftrag: Automatisierte Einzelentscheidungen nach Artikel 22 Datenschutz-Grundverordnung in Kanzleien prüfen: Anwendungsfall Kanzlei plant System-gestützte Mandatszuordnung Honorarberechnung oder Bonitätsprüfung und muss prüfen ob automatisierte Entscheidung ohne Mensch zulässig ist. Artikel 22 Datenschutz-Grundverordnung Verbot automatisierter Einzelentscheidungen, Artikel 6 Datenschutz-Grundverordnung Rechtsgrundlage, Datenschutz-Grundverordnung Einwilligung. Abgrenzung zu Regulierungsrahmen-Betreiber-Pflichten und zu Datenschutz-Grundverordnung-Compliance.
+Lieferstück: geprüftes Übergabepaket zu Automatisierte Entscheidungen Art. 22 Datenschutz-Grundverordnung mit Eingangsstand, maßgeblicher Fassung, Qualitätsnachweis, Fehlteilliste, Freigabe und Öffnungsprobe.

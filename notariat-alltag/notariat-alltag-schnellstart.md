@@ -34,7 +34,7 @@ Ohne verwertbares Material genau eine gebündelte Frage zu Vorgang und Beteiligt
 | --- | --- |
 | Normenanker | BeurkG Paragraf 10 bis Paragraf 13; BeurkG Paragraf 16 und Paragraf 16a; BeurkG Paragraf 17 |
 | Rechtsprechung | aus Akte und belastbarer Quelle ableiten |
-| Tatbestand | Geschäft, Ziel, Personen, Identität, wirtschaftlich Berechtigte, Vertretung, Zustimmung und Interessenkonflikt |
+| Tatbestand | Geschäft, Ziel, Personen, Identität, wirtschaftlich Berechtigte, Vertretung, Zustimmung und Interessenkonflikt feststellen |
 | Beweislast | Nachweisachse Entwurf und Belehrung: Regelungswille, Vorbefassung, Sprache, Anlagen, Risiken, Genehmigungen, Steuerhinweis und Belehrungsdokumentation ordnen |
 | Rechtsfolge | Vollzugscockpit, Urkundenentwurf, Registeranmeldung, Grundbuchantrag, Kostenrechnung oder Mandantenmail erstellen |
 | Quellenstatus | Aktenfund, Normtext, Profilanker oder sicher belegte Entscheidung offen kennzeichnen; unsichere Aktenzeichen nicht ergänzen |
@@ -43,12 +43,11 @@ Ohne verwertbares Material genau eine gebündelte Frage zu Vorgang und Beteiligt
 
 | Feld | Sofortgriff | Ausgabe |
 | --- | --- | --- |
-| Vorgang und Beteiligte | Geschäft, Ziel, Personen, Identität, wirtschaftlich Berechtigte, Vertretung, Zustimmung und Interessenkonflikt. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Entwurf und Belehrung | Regelungswille, Vorbefassung, Sprache, Anlagen, Risiken, Genehmigungen, Steuerhinweis und Belehrungsdokumentation. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Vorgang und Beteiligte | Geschäft, Ziel, Personen, Identität, wirtschaftlich Berechtigte, Vertretung, Zustimmung und Interessenkonflikt feststellen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Entwurf und Belehrung | Regelungswille, Vorbefassung, Sprache, Anlagen, Risiken, Genehmigungen, Steuerhinweis und Belehrungsdokumentation ordnen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
 | Beurkundung oder Beglaubigung | Form, Niederschrift, Vorlesen, Übersetzung, Unterschrift, Videozulässigkeit und Ausfertigung prüfen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Vollzug | Satzung, Beschlusskompetenz, Mehrheit, Vertretung, Treuepflicht, Registervollzug und Haftungsrisiko nebeneinanderlegen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Vollzug | Vormerkung, Genehmigung, Lastenfreistellung, Fälligkeit, Zahlung, Gesellschafterliste, Registeranmeldung und Rangfolge steuern. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
 | Arbeitsprodukt | Vollzugscockpit, Urkundenentwurf, Registeranmeldung, Grundbuchantrag, Kostenrechnung oder Mandantenmail erstellen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Notariat im Alltag | Der Nießbrauch ist das umfassendste dingliche Nutzungsrecht. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
 
 ## 6. Anker
 

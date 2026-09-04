@@ -200,7 +200,7 @@ Lieferstück: gewichtete Prüfmatrix mit Tatbestandsmerkmalen, Fundstellen, Gege
 
 Bearbeitungsauftrag: Der Verlag erstellt entweder selbst eine Gutschrift für die Autorin (UStG Paragraf 14 Absatz 2 Satz 2) oder erhält eine Honorarrechnung. Der Skill führt durch Pflichtangaben, Steuersätze, Sonderfälle (Kleinunternehmer, Auslandsautor, KSK) und liefert Mustertexte für häufige Konstellationen. Steuerstatus: Regelbesteuert, Kleinunternehmer (UStG Paragraf 19), nicht steuerbar?
 Prüfschritte: In beiden Fällen muss die Rechnung formal korrekt sein, sonst entfällt der Vorsteuerabzug.
-Norm- oder Entscheidungsbezug aus dem Fachmaterial: Der Verlag erstellt entweder selbst eine Gutschrift für die Autorin (UStG Paragraf 14 Absatz 2 Satz 2) oder erhält eine Honorarrechnung.
+Normbezug aus dem Fachmaterial: Der Verlag erstellt entweder selbst eine Gutschrift für die Autorin (UStG Paragraf 14 Absatz 2 Satz 2) oder erhält eine Honorarrechnung.
 Lieferstück: nachrechenbare Berechnung mit Eingabewerten, Zwischenschritten, Varianten, Stichtag und Belegspalte.
 
 ### 16.3. Impressums-Pflicht und Prüfung

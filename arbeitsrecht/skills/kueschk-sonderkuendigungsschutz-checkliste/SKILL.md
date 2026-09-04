@@ -45,9 +45,9 @@ Keiner der obigen? → Nur allgemeiner KSchG-Schutz
 
 ### 1. Schwangerschaft und Mutterschutz Paragraf 17 MuSchG
 
-- Kündigung ist **absolut verboten** während der Schwangerschaft und bis vier Monate nach der Entbindung (Paragraf 17 Abs. 1 MuSchG).
-- Ausnahme: Behördliche Zustimmung der zuständigen Aufsichtsbehörde (Paragraf 17 Abs. 2 MuSchG) — nur bei gravierenden betrieblichen Gründen.
-- Die Kündigung ist auch wirksam, wenn der Arbeitgeber zum Zeitpunkt des Ausspruchs keine Kenntnis von der Schwangerschaft hatte, sofern die Arbeitnehmerin innerhalb von zwei Wochen nach Zugang der Kündigung mitteilt, dass sie schwanger ist (Paragraf 17 Abs. 1 Satz 2 MuSchG).
+- Die Kündigung ist während der Schwangerschaft und bis zum Ende der Schutzfrist nach der Entbindung, mindestens jedoch bis vier Monate nach der Entbindung, grundsätzlich unzulässig (Paragraf 17 Absatz 1 MuSchG). Für eine Fehlgeburt nach der zwölften Schwangerschaftswoche gilt der gesetzlich bestimmte Nachschutz.
+- Ausnahme: Die zuständige oberste Landesbehörde oder die von ihr bestimmte Stelle kann die Kündigung in besonderen Fällen ausnahmsweise für zulässig erklären. Der Kündigungsgrund darf nicht mit Schwangerschaft, Fehlgeburt oder Geburt zusammenhängen; die schriftliche Kündigung muss den zulässigen Kündigungsgrund angeben (Paragraf 17 Absatz 2 MuSchG).
+- War dem Arbeitgeber die Schwangerschaft oder Entbindung bei Zugang der Kündigung unbekannt, greift das Verbot, wenn die Arbeitnehmerin ihn innerhalb von zwei Wochen informiert. Eine unverschuldete Fristversäumnis kann durch unverzügliche Nachholung geheilt werden; Zugang und Hinderungsgrund sind zu sichern.
 
 **Frage:** Besteht oder bestand zum Zeitpunkt der Kündigung eine Schwangerschaft?
 
@@ -55,7 +55,7 @@ Keiner der obigen? → Nur allgemeiner KSchG-Schutz
 
 - Kündigung ist **verboten** ab Inanspruchnahme der Elternzeit bis zu deren Ende.
 - Ausnahme: Behördliche Zustimmung der zuständigen Arbeitsschutzbehörde (Paragraf 18 Abs. 1 Satz 2 BEEG).
-- Schutz beginnt bereits mit Anmeldung der Elternzeit: frühestens acht Wochen vor Beginn.
+- Der Schutz beginnt mit dem Elternzeitverlangen, frühestens acht Wochen vor einer Elternzeit bis zum vollendeten dritten Lebensjahr und frühestens 14 Wochen vor einer Elternzeit zwischen dem dritten Geburtstag und dem vollendeten achten Lebensjahr.
 
 **Frage:** Befindet sich der Arbeitnehmer in Elternzeit oder hat er Elternzeit angemeldet?
 
@@ -63,7 +63,7 @@ Keiner der obigen? → Nur allgemeiner KSchG-Schutz
 
 - Kündigung bedarf der **vorherigen Zustimmung des Integrationsamtes** (Paragraf 168 SGB IX).
 - Gilt für Arbeitnehmer mit anerkannter Schwerbehinderung (GdB ≥ 50) und gleichgestellte Personen (GdB 30 oder 40 mit Gleichstellung durch Agentur für Arbeit).
-- Widerspruch des Integrationsamts → Kündigung unwirksam ohne Zustimmung.
+- Ohne vorherige Zustimmung des Integrationsamts ist die Kündigung grundsätzlich unwirksam; Ausnahmen und die Grenzen bei fehlender oder verspäteter Kenntnis des Arbeitgebers sind gesondert zu prüfen.
 - Sonderfall: Bei außerordentlicher Kündigung Zustimmung innerhalb von zwei Wochen beantragen (Paragraf 174 Abs. 3 SGB IX).
 
 **Frage:** Besteht eine anerkannte Schwerbehinderung oder Gleichstellung?
@@ -77,7 +77,7 @@ Keiner der obigen? → Nur allgemeiner KSchG-Schutz
 
 **Frage:** Ist der Arbeitnehmer Mitglied des Betriebsrats, der JAV oder eines ähnlichen Gremiums?
 
-### 5. Datenschutzbeauftragter Paragraf 38 Abs. 2 BDSG i.V.m. Paragraf 6 Abs. 4 DSGVO
+### 5. Datenschutzbeauftragter nach Artikel 38 Absatz 3 DSGVO und Paragrafen 6 Absatz 4, 38 Absatz 2 BDSG
 
 - Datenschutzbeauftragte genießen besonderen Abberufungsschutz und können nicht wegen ihrer Tätigkeit als DSB gekündigt werden.
 - Kündigung ist nur aus wichtigem Grund nach Paragraf 626 BGB zulässig (Paragraf 38 Abs. 2 BDSG).
@@ -87,19 +87,15 @@ Keiner der obigen? → Nur allgemeiner KSchG-Schutz
 
 | Schutztatbestand | Rechtsgrundlage |
 |---|---|
-| Altersteilzeit | Paragraf 4 AltTZG |
 | Auszubildende nach Probezeit | Paragraf 22 Abs. 2 BBiG |
 | Wehrdienstleistende | Paragraf 2 ArbPlSchG |
-| Mitglieder Einigungsstelle | Paragraf 76 Abs. 8 BetrVG analog |
 
 ## Folge bei Sonderkündigungsschutz
 
-Liegt ein Sonderkündigungsschutz vor: Die Kündigung ist in der Regel schwebend unwirksam oder von vornherein nichtig, wenn behördliche Zustimmungen nicht eingeholt wurden. Die Drei-Wochen-Frist nach Paragraf 4 KSchG läuft trotzdem — sie muss auch bei Sonderkündigungsschutz eingehalten werden!
+Liegt Sonderkündigungsschutz vor, ist für jeden Tatbestand gesondert zu bestimmen, ob ein Kündigungsverbot, ein Zustimmungsvorbehalt oder nur ein besonderer Prüfmaßstab gilt. Fehlt eine gesetzlich erforderliche vorherige Zustimmung oder Zulässigerklärung, ist die Kündigung grundsätzlich unwirksam. Die Dreiwochenfrist nach Paragraf 4 KSchG bleibt dennoch zu sichern; der Unwirksamkeitsgrund muss rechtzeitig gerichtlich geltend gemacht werden.
 
 ---
 
-Hinweis: Keine Rechtsberatung. Mechanische Prüfung anhand vom Nutzer behaupteter Tatsachen. Falsche Sachverhaltsangabe oder falsche Anspruchsgrundlage entwertet das Ergebnis. Dringende Empfehlung anwaltlicher Beratung, insbesondere wegen der Drei-Wochen-Fristen.
-
-Du könntest auf der falschen Wiese unterwegs sein. Dieses System kann das nicht prüfen.
+Ausgabe: Schutzstatus, Kenntniszeitpunkt, Mitteilung, erforderliche Behördenentscheidung, Betriebsrats- und Schwerbehindertenvertretungsbeteiligung, Kündigungszugang und Klagefrist in einer belegten Zeitleiste ausweisen. Kein Schutzmerkmal und keine Zustimmung aus bloßen Angaben vermuten.
 
 > Quellenregel: Entscheidungen nur nach Prüfung einer amtlichen oder frei zugänglichen Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage ausgeben.

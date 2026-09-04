@@ -46,7 +46,8 @@ Ohne verwertbares Material genau eine gebündelte Frage zu Krankenhaus und Verso
 | Krankenhaus und Versorgungsauftrag | Träger, Standort, Fachabteilung, Planstatus, Zulassung, Leistungsgruppe und Einzugsgebiet feststellen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
 | Planung und Qualität | Bedarf, Erreichbarkeit, Fallzahlen, Personal, Struktur, Kooperation, Prognose und Auswahlentscheidung prüfen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
 | Finanzierung und Entgelt | Investition, Betriebskosten, Budget, Erlös, Zu- oder Abschlag, Prüfung, Verhandlung und Schiedsstelle ordnen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-
+| Betrieb und Aufsicht | Organisation, Hygiene, Notfallversorgung, Meldeweg, Qualitätsabweichung und aufsichtsrechtliche Maßnahme trennen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Arbeitsprodukt | Planantrag, Auswahlvermerk, Budgetposition, Schiedsstellenantrag, Aufsichtsantwort oder gerichtlicher Antrag erstellen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
 
 ## 6. Anker
 

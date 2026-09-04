@@ -42,7 +42,7 @@ Der Höchstzeitraum darf nur genutzt werden, soweit ernsthafte und aussichtsreic
 
 ## 1.5 Streitige und titulierte Forderungen
 
-Nach BGH, Urteil vom 23. Januar 2025, IX ZR 229/22, ist die objektive Rechtslage maßgeblich:
+Nach BGH, Urteil vom 23. Januar 2025, IX ZR 229/22, ECLI:DE:BGH:2025:230125UIXZR229.22.0, Randnummern 34 bis 35, ist die objektive Rechtslage maßgeblich:
 
 1. Besteht eine fällige Forderung objektiv, ist sie grundsätzlich einzustellen, auch wenn sie bestritten wird.
 2. Besteht sie objektiv nicht oder ist sie nicht fällig, begründet sie keine Zahlungsunfähigkeit.
@@ -50,7 +50,7 @@ Nach BGH, Urteil vom 23. Januar 2025, IX ZR 229/22, ist die objektive Rechtslage
 4. Liegt ein vorläufig vollstreckbarer Titel vor, bestehen die Vollstreckungsvoraussetzungen und hat der Gläubiger die Vollstreckung eingeleitet, ist die Forderung im Nennwert zu berücksichtigen.
 5. Wer eine Forderung herausnimmt, muss Anspruch, Fälligkeit, Einreden, Titel- und Vollstreckungsstand mit einer belastbaren Beleg- und Rechtsprüfung dokumentieren.
 
-Subjektive Rechtsirrtümer nur getrennt vom objektiven Status prüfen. IX ZR 229/22 behandelt hierfür einen engen Korridor bei seit langem umstrittenen, höchstrichterlich ungeklärten Rechtsfragen; die Auslegung eines Vertrags, an dem der Schuldner selbst mitgewirkt hat, wird dadurch nicht ohne Weiteres entschuldigt.
+Subjektive Rechtsirrtümer nur getrennt vom objektiven Status prüfen. Randnummer 27 der Entscheidung behandelt im Kontext der Vorsatzanfechtung einen engen Korridor bei seit langem umstrittenen, höchstrichterlich ungeklärten Rechtsfragen; die Auslegung eines Vertrags, an dem der Schuldner selbst mitgewirkt hat, wird dadurch nicht ohne Weiteres entschuldigt. Diese Aussage entscheidet weder den objektiven Eintritt der Antragspflicht noch abschließend das Verschulden in einem späteren Verfahren nach Paragraf 15a oder Paragraf 15b InsO. Ein Rechtsgutachten kann die Sorgfalts- und Kenntnislage dokumentieren, ändert aber den objektiven Forderungsbestand nicht und gewährleistet keine Entlastung.
 
 ## 1.6 Überschuldung nach Paragraf 19 InsO
 
@@ -109,4 +109,4 @@ Drohende Zahlungsunfähigkeit nach Paragraf 18 InsO kann eine Restrukturierungsr
 - [Paragraf 17 InsO](https://www.gesetze-im-internet.de/inso/__17.html)
 - [Paragraf 19 InsO](https://www.gesetze-im-internet.de/inso/__19.html)
 - [BGH, Urteil vom 24. Mai 2005, IX ZR 123/04](https://juris.bundesgerichtshof.de/cgi-bin/bgh_notp/document.py?Art=en&Blank=1&Datum=2005-5&Gericht=bgh&Seite=2&Sort=1026&anz=93&nr=8691&pos=63)
-- [BGH, Urteil vom 23. Januar 2025, IX ZR 229/22](https://juris.bundesgerichtshof.de/cgi-bin/bgh_notp/document.py?Art=en&Datum=2025&Gericht=bgh&Seite=27&anz=1008&nr=88908&pos=818)
+- [BGH, Urteil vom 23. Januar 2025, IX ZR 229/22, ECLI:DE:BGH:2025:230125UIXZR229.22.0](https://juris.bundesgerichtshof.de/cgi-bin/rechtsprechung/document.py?Art=en&Blank=1.pdf&Datum=Aktuell&Gericht=bgh&Sort=12288&anz=1152&nr=140413&pos=16)

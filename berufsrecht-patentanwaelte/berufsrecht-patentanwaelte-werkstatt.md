@@ -173,11 +173,11 @@ Die Landkarte dient der schnellen Auswahl. Sie ersetzt nicht die darunter ausfor
 | Fristenkontrolle | Baue aus PAO, BOPA und den Verfahrensregeln von DPMA, BPatG und EPA und der konkreten Zustellung oder Verfahrenshandlung ein Fristenblatt mit Beginn, Ende, Vorfrist, Verantwortlichem, Gegenkontrolle, Ausgangsnachweis. | Fristenblatt zu Fristenkontrolle mit Auslöser, Beginn, Ende, Vorfrist, Beleg, Sofortmaßnahme und Verantwortlichem |
 | Aktenführung | Ordne die Unterlagen nach PAO, BOPA und den Verfahrensregeln von DPMA, BPatG und EPA in Original, Bearbeitungsstand, Frist, Zugriffsrecht, Verschwiegenheit, Aufbewahrung und Herausgabe. | Akten- und Belegmatrix zu Aktenführung mit Datum, Urheber, Fundstelle, Widerspruch, Fehlteil und nächstem Bearbeitungsschritt |
 | Berufsgericht und Disziplinarverfahren | Zerlege den Vorwurf nach PAO, BOPA und den Verfahrensregeln von DPMA, BPatG und EPA in konkrete Berufspflicht, Tatsachenbasis, Verschulden, Anhörung, Akteneinsicht, mögliche Maßnahme und Rechtsbehelf. | Fachvotum zu Berufsgericht und Disziplinarverfahren mit Tatbestandsmerkmalen, Aktenfundstellen, Beweislast, stärkster Gegenposition, Risiko und ausformulierter Rechtsfolge |
+| Beteiligtenkommunikation | Bearbeite Beteiligtenkommunikation anhand von PAO, BOPA und den Verfahrensregeln von DPMA, BPatG und EPA: ordne Schutzrechtsauftrag, Priorität, Frist, Vertretung, Vergütung und Haftung nach sicherer Tatsache. | Fachvotum zu Beteiligtenkommunikation mit Tatbestandsmerkmalen, Aktenfundstellen, Beweislast, stärkster Gegenposition, Risiko und ausformulierter Rechtsfolge |
 | Cross-Border | Bestimme Herkunftsberuf, Niederlassung oder vorübergehende Dienstleistung, Berufsbezeichnung, Registrierung, Kollisions- und Verschwiegenheitsregeln sowie Zuständigkeit nach PAO, BOPA und den Verfahrensregeln von DPMA. | Fachvotum zu Cross-Border mit Tatbestandsmerkmalen, Aktenfundstellen, Beweislast, stärkster Gegenposition, Risiko und ausformulierter Rechtsfolge |
 | Entscheidungsvorlage | Verdichte Schutzrechtsauftrag, Priorität, Frist, Vertretung, Vergütung und Haftung anhand von PAO, BOPA und den Verfahrensregeln von DPMA, BPatG und EPA zu einer Entscheidungsvorlage mit gesichertem Sachverhalt. | Fachvotum zu Entscheidungsvorlage mit Tatbestandsmerkmalen, Aktenfundstellen, Beweislast, stärkster Gegenposition, Risiko und ausformulierter Rechtsfolge |
 | Honorar, Gebühren und Vergütung | Prüfe Auftrag, Vergütungsabrede, gesetzlichen Gebührenmaßstab, Vorschuss, Fälligkeit, Abrechnung, Aufklärung und Einwendungen nach PAO, BOPA und den Verfahrensregeln von DPMA, BPatG und EPA. | nachrechenbare Berechnung mit Eingabewerten, Zwischenschritten, Varianten, Stichtag und Belegspalte |
-| Berufsausübungsgesellschaft | Prüfe nach PAO, BOPA und den Verfahrensregeln von DPMA, BPatG und EPA zulässige Gesellschafter und Geschäftsleitung, berufliche Unabhängigkeit, Mehrheit, Firma, Register, Versicherung, interne Konfliktregeln und Vollzug. | Fachvotum zu Berufsausübungsgesellschaft mit Tatbestandsmerkmalen, Aktenfundstellen, Beweislast, stärkster Gegenposition, Risiko und ausformulierter Rechtsfolge |
-| Fachbezeichnung | Bearbeite Fachbezeichnung anhand von PAO, BOPA und den Verfahrensregeln von DPMA, BPatG und EPA: ordne Schutzrechtsauftrag, Priorität, Frist, Vertretung, Vergütung und Haftung nach sicherer Tatsache, Berufspflicht. | Fachvotum zu Fachbezeichnung mit Tatbestandsmerkmalen, Aktenfundstellen, Beweislast, stärkster Gegenposition, Risiko und ausformulierter Rechtsfolge |
+| IT, Cloud, algorithmische Systeme und Outsourcing | Bearbeite IT, Cloud, algorithmische Systeme und Outsourcing anhand von PAO, BOPA und den Verfahrensregeln von DPMA, BPatG und EPA: ordne Schutzrechtsauftrag, Priorität, Frist, Vertretung, Vergütung und Haftung nach sicherer Tatsache. | Fachvotum zu IT, Cloud, algorithmische Systeme und Outsourcing mit Tatbestandsmerkmalen, Aktenfundstellen, Beweislast, stärkster Gegenposition, Risiko und ausformulierter Rechtsfolge |
 
 ## 16. Fachspezifische Praxisrouten
 
@@ -203,42 +203,42 @@ Lieferstück: Akten- und Belegmatrix zu Aktenführung mit Datum, Urheber, Fundst
 Bearbeitungsauftrag: Zerlege den Vorwurf nach PAO, BOPA und den Verfahrensregeln von DPMA, BPatG und EPA in konkrete Berufspflicht, Tatsachenbasis, Verschulden, Anhörung, Akteneinsicht, mögliche Maßnahme und Rechtsbehelf; ordne Schutzrechtsauftrag, Priorität, Frist, Vertretung, Vergütung und Haftung den einzelnen Vorwürfen und Belegen zu.
 Lieferstück: Fachvotum zu Berufsgericht und Disziplinarverfahren mit Tatbestandsmerkmalen, Aktenfundstellen, Beweislast, stärkster Gegenposition, Risiko und ausformulierter Rechtsfolge.
 
-### 16.5. Cross-Border
+### 16.5. Beteiligtenkommunikation
+
+Bearbeitungsauftrag: Bearbeite Beteiligtenkommunikation anhand von PAO, BOPA und den Verfahrensregeln von DPMA, BPatG und EPA: ordne Schutzrechtsauftrag, Priorität, Frist, Vertretung, Vergütung und Haftung nach sicherer Tatsache, Berufspflicht, Nachweis, Gegenposition, Risiko und nächster Handlung.
+Lieferstück: Fachvotum zu Beteiligtenkommunikation mit Tatbestandsmerkmalen, Aktenfundstellen, Beweislast, stärkster Gegenposition, Risiko und ausformulierter Rechtsfolge.
+
+### 16.6. Cross-Border
 
 Bearbeitungsauftrag: Bestimme Herkunftsberuf, Niederlassung oder vorübergehende Dienstleistung, Berufsbezeichnung, Registrierung, Kollisions- und Verschwiegenheitsregeln sowie Zuständigkeit nach PAO, BOPA und den Verfahrensregeln von DPMA, BPatG und EPA; halte lokale Beratungspflichten und Haftungsdeckung getrennt fest.
 Lieferstück: Fachvotum zu Cross-Border mit Tatbestandsmerkmalen, Aktenfundstellen, Beweislast, stärkster Gegenposition, Risiko und ausformulierter Rechtsfolge.
 
-### 16.6. Entscheidungsvorlage
+### 16.7. Entscheidungsvorlage
 
 Bearbeitungsauftrag: Verdichte Schutzrechtsauftrag, Priorität, Frist, Vertretung, Vergütung und Haftung anhand von PAO, BOPA und den Verfahrensregeln von DPMA, BPatG und EPA zu einer Entscheidungsvorlage mit gesichertem Sachverhalt, Pflichtenkreis, Handlungsalternativen, Berufsrisiko, Kosten, Freigabe und dokumentiertem nächsten Schritt.
 Lieferstück: Fachvotum zu Entscheidungsvorlage mit Tatbestandsmerkmalen, Aktenfundstellen, Beweislast, stärkster Gegenposition, Risiko und ausformulierter Rechtsfolge.
 
-### 16.7. Honorar, Gebühren und Vergütung
+### 16.8. Honorar, Gebühren und Vergütung
 
 Bearbeitungsauftrag: Prüfe Auftrag, Vergütungsabrede, gesetzlichen Gebührenmaßstab, Vorschuss, Fälligkeit, Abrechnung, Aufklärung und Einwendungen nach PAO, BOPA und den Verfahrensregeln von DPMA, BPatG und EPA; rechne Schutzrechtsauftrag, Priorität, Frist, Vertretung, Vergütung und Haftung mit belegten Werten nach.
 Lieferstück: nachrechenbare Berechnung mit Eingabewerten, Zwischenschritten, Varianten, Stichtag und Belegspalte.
 
-### 16.8. Berufsausübungsgesellschaft
+### 16.9. IT, Cloud, algorithmische Systeme und Outsourcing
 
-Bearbeitungsauftrag: Prüfe nach PAO, BOPA und den Verfahrensregeln von DPMA, BPatG und EPA zulässige Gesellschafter und Geschäftsleitung, berufliche Unabhängigkeit, Mehrheit, Firma, Register, Versicherung, interne Konfliktregeln und Vollzug der Berufsausübungsgesellschaft.
-Lieferstück: Fachvotum zu Berufsausübungsgesellschaft mit Tatbestandsmerkmalen, Aktenfundstellen, Beweislast, stärkster Gegenposition, Risiko und ausformulierter Rechtsfolge.
+Bearbeitungsauftrag: Bearbeite IT, Cloud, algorithmische Systeme und Outsourcing anhand von PAO, BOPA und den Verfahrensregeln von DPMA, BPatG und EPA: ordne Schutzrechtsauftrag, Priorität, Frist, Vertretung, Vergütung und Haftung nach sicherer Tatsache, Berufspflicht, Nachweis, Gegenposition, Risiko und nächster Handlung.
+Lieferstück: Fachvotum zu IT, Cloud, algorithmische Systeme und Outsourcing mit Tatbestandsmerkmalen, Aktenfundstellen, Beweislast, stärkster Gegenposition, Risiko und ausformulierter Rechtsfolge.
 
-### 16.9. Fachbezeichnung
+### 16.10. Kammeraufsicht und Rüge
 
-Bearbeitungsauftrag: Bearbeite Fachbezeichnung anhand von PAO, BOPA und den Verfahrensregeln von DPMA, BPatG und EPA: ordne Schutzrechtsauftrag, Priorität, Frist, Vertretung, Vergütung und Haftung nach sicherer Tatsache, Berufspflicht, Nachweis, Gegenposition, Risiko und nächster Handlung.
-Lieferstück: Fachvotum zu Fachbezeichnung mit Tatbestandsmerkmalen, Aktenfundstellen, Beweislast, stärkster Gegenposition, Risiko und ausformulierter Rechtsfolge.
+Bearbeitungsauftrag: Bearbeite Kammeraufsicht und Rüge anhand von PAO, BOPA und den Verfahrensregeln von DPMA, BPatG und EPA: ordne Schutzrechtsauftrag, Priorität, Frist, Vertretung, Vergütung und Haftung nach sicherer Tatsache, Berufspflicht, Nachweis, Gegenposition, Risiko und nächster Handlung.
+Lieferstück: Kontrollvermerk zu Kammeraufsicht und Rüge mit Pflicht, Ist-Nachweis, Abweichung, Risiko, Verantwortlichem, Frist und Freigabe.
 
-### 16.10. Fortbildung
+### 16.11. Kooperation mit anderen Berufen
 
-Bearbeitungsauftrag: Bearbeite Fortbildung anhand von PAO, BOPA und den Verfahrensregeln von DPMA, BPatG und EPA: ordne Schutzrechtsauftrag, Priorität, Frist, Vertretung, Vergütung und Haftung nach sicherer Tatsache, Berufspflicht, Nachweis, Gegenposition, Risiko und nächster Handlung.
-Lieferstück: Fachvotum zu Fortbildung mit Tatbestandsmerkmalen, Aktenfundstellen, Beweislast, stärkster Gegenposition, Risiko und ausformulierter Rechtsfolge.
+Bearbeitungsauftrag: Bearbeite Kooperation mit anderen Berufen anhand von PAO, BOPA und den Verfahrensregeln von DPMA, BPatG und EPA: ordne Schutzrechtsauftrag, Priorität, Frist, Vertretung, Vergütung und Haftung nach sicherer Tatsache, Berufspflicht, Nachweis, Gegenposition, Risiko und nächster Handlung.
+Lieferstück: Fachvotum zu Kooperation mit anderen Berufen mit Tatbestandsmerkmalen, Aktenfundstellen, Beweislast, stärkster Gegenposition, Risiko und ausformulierter Rechtsfolge.
 
-### 16.11. Patentanwälte
+### 16.12. Protokoll und Nachbereitung
 
-Bearbeitungsauftrag: Bearbeite Patentanwälte anhand von PAO, BOPA und den Verfahrensregeln von DPMA, BPatG und EPA: ordne Schutzrechtsauftrag, Priorität, Frist, Vertretung, Vergütung und Haftung nach sicherer Tatsache, Berufspflicht, Nachweis, Gegenposition, Risiko und nächster Handlung.
-Lieferstück: Fachvotum zu Patentanwälte mit Tatbestandsmerkmalen, Aktenfundstellen, Beweislast, stärkster Gegenposition, Risiko und ausformulierter Rechtsfolge.
-
-### 16.12. Berufsträger und Pflichtenkreis
-
-Bearbeitungsauftrag: Bearbeite Berufsträger und Pflichtenkreis anhand von PAO, BOPA und den Verfahrensregeln von DPMA, BPatG und EPA: ordne Schutzrechtsauftrag, Priorität, Frist, Vertretung, Vergütung und Haftung nach sicherer Tatsache, Berufspflicht, Nachweis, Gegenposition, Risiko und nächster Handlung.
-Lieferstück: Fachvotum zu Berufsträger und Pflichtenkreis mit Tatbestandsmerkmalen, Aktenfundstellen, Beweislast, stärkster Gegenposition, Risiko und ausformulierter Rechtsfolge.
+Bearbeitungsauftrag: Bearbeite Protokoll und Nachbereitung anhand von PAO, BOPA und den Verfahrensregeln von DPMA, BPatG und EPA: ordne Schutzrechtsauftrag, Priorität, Frist, Vertretung, Vergütung und Haftung nach sicherer Tatsache, Berufspflicht, Nachweis, Gegenposition, Risiko und nächster Handlung.
+Lieferstück: Fachvotum zu Protokoll und Nachbereitung mit Tatbestandsmerkmalen, Aktenfundstellen, Beweislast, stärkster Gegenposition, Risiko und ausformulierter Rechtsfolge.

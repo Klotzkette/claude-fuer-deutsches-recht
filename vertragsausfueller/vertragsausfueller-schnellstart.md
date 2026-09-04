@@ -48,7 +48,6 @@ Ohne verwertbares Material genau eine gebündelte Frage zu Geschäftsmodell und 
 | Risikoallokation | Haftung, Freistellung, Gewährleistung, Vertragsstrafe und Sicherheiten austarieren. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
 | Kontrolle | AGB-Festigkeit, Transparenz, Kollision mit zwingendem Recht und Wechselwirkungen prüfen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
 | Arbeitsprodukt | Vollständigen Vertragstext mit Präambel, Definitionen, Klauseln und Schlussbestimmungen ausformulieren. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Altvertrag nachziehen | Bearbeite Altvertrag nachziehen: Leistung, Gegenleistung, Rollen, Konzernbezug und Verhandlungsmacht feststellen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
 
 ## 6. Anker
 
@@ -58,7 +57,7 @@ Ohne verwertbares Material genau eine gebündelte Frage zu Geschäftsmodell und 
 - GeschGehG: Schutz von Geschäftsgeheimnissen und angemessene Geheimhaltungsmaßnahmen.
 - Paragraf 305, 305c BGB — Einbeziehung und Auslegung von AGB; im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
 - Paragraf 307 ff; im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
-- Paragraf 578 Absatz 1 in Verbindung mit Paragraf 550 BGB — Textform langfristiger Grundstücks- und Gewerberaummietverträge; im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
+- Paragraf 578 Absatz 1 in Verbindung mit Paragraf 550 BGB — Textform langfristiger Grundstücks- und Gewerberaummietverträge; bei älteren Vertragsketten Artikel 229 Paragraf 70 EGBGB prüfen; im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
 - Paragraf 195 BGB — Verjährung (regelmäßig 3 Jahre); im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
 
 ## 7. Antwortform

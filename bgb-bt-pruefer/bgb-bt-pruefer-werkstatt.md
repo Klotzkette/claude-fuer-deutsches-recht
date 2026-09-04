@@ -77,7 +77,7 @@ Arbeitsgriff Beweis und Textprodukt: Anspruchsmatrix, Redline, Mahnung, Rücktri
 
 | Ebene | Fallfrage | Anker | Sofortausgabe |
 | --- | --- | --- | --- |
-| Fallkern | Kaufrecht: Abweichung von objektiven Anforderungen Paragraf 476 BGB | BGB Paragraf 104 bis Paragraf 185 | Sofortvermerk mit Ergebnisrichtung, Risiko und nächstem Schritt |
+| Fallkern | Gefahrübergang und Versendungskauf | BGB Paragraf 104 bis Paragraf 185 | Sofortvermerk mit Ergebnisrichtung, Risiko und nächstem Schritt |
 | Zulässigkeit und Frist | Frist, Form, Zuständigkeit, Rolle und statthafter Weg | BGB Paragraf 241, Paragraf 280, Paragraf 281 und Paragraf 286 | Fristenblatt oder Prozess-/Verfahrensroute |
 | Begründetheit | Amtlicher BGB-BT-Normcheck | BGB Paragraf 241, Paragraf 280, Paragraf 281 und Paragraf 286 | Tatbestandsmatrix mit Beleg und Gegenargument |
 | Rechtsfolge | Anspruchsmatrix, Klauselprüfung, Mahnung, Rücktritt, Minderung, Klageentwurf, Redline oder Vergleich | Anspruchsteller für Vertrag, Pflichtverletzung, Mangel, Schaden und Kausalität; Gegner für Einwendungen, Ausschluss, Erfüllung und Verjährung | Antrag, Entwurf, Entscheidungsvorschlag oder Mandantenbrief |
@@ -136,7 +136,7 @@ Arbeitsgriff Beweis und Textprodukt: Anspruchsmatrix, Redline, Mahnung, Rücktri
 
 10.1. Kernsatz: Benenne Parteirolle, Ziel und die begehrte oder abzuwehrende Rechtsfolge aus diesem Arbeitsfeld: Anspruchsmatrix, Klauselprüfung, Mahnung, Rücktritt, Minderung, Klageentwurf, Redline oder Vergleich.
 10.2. Tragende Regel: Stelle den einschlägigen Normsatz voran und ordne ihn dem konkreten Streitpunkt zu; erste Anker sind BGB Paragraf 104 bis Paragraf 185; BGB Paragraf 241, Paragraf 280, Paragraf 281 und Paragraf 286.
-10.3. Tatbestandsmerkmal: Arbeite zuerst den entscheidenden Fachpunkt aus, regelmäßig Kaufrecht: Abweichung von objektiven Anforderungen Paragraf 476 BGB.
+10.3. Tatbestandsmerkmal: Arbeite zuerst den entscheidenden Fachpunkt aus, regelmäßig Gefahrübergang und Versendungskauf.
 10.4. Aktenfund: Nenne Datum, Beteiligten, Handlung, Betrag und genaue Fundstelle; im Bereich Bürgerliches Recht und Vertragsrecht tragen regelmäßig Vertragsurkunde, Korrespondenz, Rechnungen und Übergabeprotokoll den Nachweis. Eine streitige Behauptung bleibt als solche bezeichnet.
 10.5. Beweislast: Anspruchsteller für Vertrag, Pflichtverletzung, Mangel, Schaden und Kausalität; Gegner für Einwendungen, Ausschluss, Erfüllung und Verjährung. Zeige ausdrücklich, welche Folge ein offener Beweis hat.
 10.6. Gegenposition: Formuliere den stärksten ernsthaften Angriff; hier setzt die Gegenseite typischerweise bei Zugang, Verjährung und der Auslegung der Vereinbarung an.
@@ -176,24 +176,25 @@ Die Landkarte dient der schnellen Auswahl. Sie ersetzt nicht die darunter ausfor
 
 | Arbeitsfeld | Entscheidende Weiche | Erstes Lieferstück |
 | --- | --- | --- |
-| Kaufrecht: Abweichung von objektiven Anforderungen Paragraf 476 BGB | Prüfe eigene Vorabinformation und ausdrückliche gesonderte Vereinbarung; einfache Klausel, Checkbox-Salat oder technische Fußnote reicht nicht automatisch. | Fachvotum zu Kaufrecht: Abweichung von objektiven Anforderungen Paragraf 476 BGB mit Tatbestandsmerkmalen, Aktenfundstellen, Beweislast, stärkster Gegenposition, Risiko. |
+| Gefahrübergang und Versendungskauf | Bestimme zuerst, ob ein Verbrauchsgüterkauf vorliegt. Ordne erst danach den Gefahrübergang zu. | Fachvotum zu Gefahrübergang und Versendungskauf mit Tatbestandsmerkmalen, Aktenfundstellen, Beweislast, stärkster Gegenposition, Risiko und ausformulierter Rechtsfolge |
 | Amtlicher BGB-BT-Normcheck | BGB AT als Vorfrage prüfen: Vertragsschluss, Form, Stellvertretung, Anfechtung, Verjährung. ZPO-Durchsetzung prüfen, wenn ein Schriftsatz, Mahnbescheid, Eilantrag oder Beweisverfahren entstehen soll. | gewichtete Prüfmatrix mit Tatbestandsmerkmalen, Fundstellen, Gegenposition, Beweislast, Risiko und Empfehlung |
-| Arbeitsnaher Dienstvertrag im BGB | Anspruchsgrundlage, Vertragstyp/Mischvertrag, Pflichtverletzung, Vertretenmüssen, Schaden, Einwendung und Beweisfrage sauber trennen. | verhandlungsfähige Fassung mit Ausgangstext, Änderung, Begründung, Rückfallposition und Vollzugscheck |
-| Bereicherungsrecht: Leistungskondiktion | Liefere eine fallbezogene Norm / Tatsache / Beleg / Wertung / Gegenargument / nächster Schritt-Matrix und einen direkt nutzbaren Textbaustein, wenn der Nutzer einen Entwurf braucht. | Fachvotum zu Bereicherungsrecht: Leistungskondiktion mit Tatbestandsmerkmalen, Aktenfundstellen, Beweislast, stärkster Gegenposition, Risiko und ausformulierter Rechtsfolge |
 | Vertragstypen und Mischvertrag Router | Anspruchsgrundlage, Vertragstyp/Mischvertrag, Pflichtverletzung, Vertretenmüssen, Schaden, Einwendung und Beweisfrage sauber trennen. Liegt ein reiner Vertragstyp vor oder mehrere Elemente in einem Vertrag? | verhandlungsfähige Fassung mit Ausgangstext, Änderung, Begründung, Rückfallposition und Vollzugscheck |
+| Bereicherungsrecht: Leistungskondiktion | Anspruchsgrundlage, Vertragstyp/Mischvertrag, Pflichtverletzung, Vertretenmüssen, Schaden, Einwendung und Beweisfrage sauber trennen. BGB: condictio indebiti (Leistung ohne Rechtsgrund). | Fachvotum zu Bereicherungsrecht: Leistungskondiktion mit Tatbestandsmerkmalen, Aktenfundstellen, Beweislast, stärkster Gegenposition, Risiko und ausformulierter Rechtsfolge |
 | Pacht, Leihe und Verwahrung BGB | Pacht Paragrafen 581 und folgende , Leihe Paragrafen 598 und folgende BGB: Leihe (unentgeltliche Gebrauchsüberlassung). Paragraf 600 BGB: Haftungsprivileg des Verleihers | Fachvotum zu Pacht, Leihe und Verwahrung BGB mit Tatbestandsmerkmalen, Aktenfundstellen, Beweislast, stärkster Gegenposition, Risiko und ausformulierter Rechtsfolge |
+| Verbrauchsgüterkauf und Waren mit digitalen Elementen | Prüfe Verbrauchsgüterkäufe und Waren mit digitalen Elementen nach den Paragrafen 474 bis 477 BGB; Trenne Warenkauf und Digitalvertrag, Updatepflicht, Nacherfüllung, Abweichungsvereinbarung, Verjährung und Beweislast | Fachvotum zu Verbrauchsgüterkauf und Waren mit digitalen Elementen mit Tatbestandsmerkmalen, Aktenfundstellen, Beweislast, stärkster Gegenposition, Risiko und ausformulierter. |
+| Arbeitsnaher Dienstvertrag im BGB | Anspruchsgrundlage, Vertragstyp/Mischvertrag, Pflichtverletzung, Vertretenmüssen, Schaden, Einwendung und Beweisfrage sauber trennen | verhandlungsfähige Fassung mit Ausgangstext, Änderung, Begründung, Rückfallposition und Vollzugscheck |
 | BT-Fristen, Erklärungen und Zugang | Bearbeite BT-Fristen, Erklärungen und Zugang: anspruchsgrundlage, Vertragsschluss, Pflichtverletzung oder Mangel, Einwendung, Frist, Beweislast und Rechtsfolge sauber abschichten. | Fristenblatt zu BT-Fristen, Erklärungen und Zugang mit Auslöser, Beginn, Ende, Vorfrist, Beleg, Sofortmaßnahme und Verantwortlichem |
 | Deliktsrecht: Haftung für Verrichtungen Paragraf 831 BGB | Bearbeite Deliktsrecht: Haftung für Verrichtungen Paragraf 831 BGB: anspruchsgrundlage, Vertragsschluss, Pflichtverletzung oder Mangel, Einwendung, Frist, Beweislast und Rechtsfolge sauber abschichten. | gewichtete Prüfmatrix mit Tatbestandsmerkmalen, Fundstellen, Gegenposition, Beweislast, Risiko und Empfehlung |
-| Kaufvertrag Grundschema Paragraf 433 BGB | Bearbeite Kaufvertrag Grundschema Paragraf 433 BGB: anspruchsgrundlage, Vertragsschluss, Pflichtverletzung oder Mangel, Einwendung, Frist, Beweislast und Rechtsfolge sauber abschichten. | verhandlungsfähige Fassung mit Ausgangstext, Änderung, Begründung, Rückfallposition und Vollzugscheck |
 
 ## 16. Fachspezifische Praxisrouten
 
 Diese Routen stammen aus den konkreten Arbeitsthemen dieses Plugins. Wähle die sachnächste Route, liefere deren ersten verwertbaren Baustein sofort und vertiefe nur die Punkte, die das Ergebnis tatsächlich ändern.
 
-### 16.1. Kaufrecht: Abweichung von objektiven Anforderungen Paragraf 476 BGB
+### 16.1. Gefahrübergang und Versendungskauf
 
-Bearbeitungsauftrag: Prüfe eigene Vorabinformation und ausdrückliche gesonderte Vereinbarung; einfache Klausel, Checkbox-Salat oder technische Fußnote reicht nicht automatisch. Wann wurden Ware, digitale Elemente, Updates und Reparaturversuch bereitgestellt? Welches Arbeitsprodukt wird gebraucht: Anspruchsmatrix, Mandantenbrief, Klageentwurf, Händlerantwort, Beweis- und Fristenplan?
-Lieferstück: Fachvotum zu Kaufrecht: Abweichung von objektiven Anforderungen Paragraf 476 BGB mit Tatbestandsmerkmalen, Aktenfundstellen, Beweislast, stärkster Gegenposition, Risiko und ausformulierter Rechtsfolge.
+Bearbeitungsauftrag: Bestimme zuerst, ob ein Verbrauchsgüterkauf vorliegt. Ordne erst danach den Gefahrübergang zu; frage nur nach dem Auftraggeber des Transporteurs, dessen vorheriger Benennung und dem Ort der geschuldeten Leistung, wenn diese Tatsachen nicht belegt sind. Der Verkäufer versendet die Sache auf Verlangen des Käufers an einen anderen Ort als den Erfüllungsort.
+Prüfschritte: Lies Kaufvertrag, Lieferklausel, Bestellung des Transporteurs, Versand- und Zustellnachweise, Schadensprotokoll und Kommunikation zur Auswahl des Beförderers.
+Lieferstück: Fachvotum zu Gefahrübergang und Versendungskauf mit Tatbestandsmerkmalen, Aktenfundstellen, Beweislast, stärkster Gegenposition, Risiko und ausformulierter Rechtsfolge.
 
 ### 16.2. Amtlicher BGB-BT-Normcheck
 
@@ -201,52 +202,52 @@ Bearbeitungsauftrag: BGB AT als Vorfrage prüfen: Vertragsschluss, Form, Stellve
 Prüfschritte: Vertragliche Beziehung bestimmen: Kauf, Miete, Darlehen, Dienst, Werk, Auftrag/Geschäftsbesorgung, Bürgschaft, Vergleich oder Mischvertrag.
 Lieferstück: gewichtete Prüfmatrix mit Tatbestandsmerkmalen, Fundstellen, Gegenposition, Beweislast, Risiko und Empfehlung.
 
-### 16.3. Arbeitsnaher Dienstvertrag im BGB
-
-Bearbeitungsauftrag: Anspruchsgrundlage, Vertragstyp/Mischvertrag, Pflichtverletzung, Vertretenmüssen, Schaden, Einwendung und Beweisfrage sauber trennen. Liefere eine fallbezogene Norm / Tatsache / Beleg / Wertung / Gegenargument / nächster Schritt-Matrix und einen direkt nutzbaren Textbaustein, wenn der Nutzer einen Entwurf braucht.
-Lieferstück: verhandlungsfähige Fassung mit Ausgangstext, Änderung, Begründung, Rückfallposition und Vollzugscheck.
-
-### 16.4. Bereicherungsrecht: Leistungskondiktion
-
-Bearbeitungsauftrag: Liefere eine fallbezogene Norm / Tatsache / Beleg / Wertung / Gegenargument / nächster Schritt-Matrix und einen direkt nutzbaren Textbaustein, wenn der Nutzer einen Entwurf braucht. BGB: condictio indebiti (Leistung ohne Rechtsgrund). BGB: condictio ob causam finitam (Rechtsgrund entfällt nachträglich).
-Lieferstück: Fachvotum zu Bereicherungsrecht: Leistungskondiktion mit Tatbestandsmerkmalen, Aktenfundstellen, Beweislast, stärkster Gegenposition, Risiko und ausformulierter Rechtsfolge.
-
-### 16.5. Vertragstypen und Mischvertrag Router
+### 16.3. Vertragstypen und Mischvertrag Router
 
 Bearbeitungsauftrag: Anspruchsgrundlage, Vertragstyp/Mischvertrag, Pflichtverletzung, Vertretenmüssen, Schaden, Einwendung und Beweisfrage sauber trennen. Liegt ein reiner Vertragstyp vor oder mehrere Elemente in einem Vertrag? Welches Vertragsrecht soll für Mängelrechte, Kündigung oder Haftung gelten?
 Lieferstück: verhandlungsfähige Fassung mit Ausgangstext, Änderung, Begründung, Rückfallposition und Vollzugscheck.
 
-### 16.6. Pacht, Leihe und Verwahrung BGB
+### 16.4. Bereicherungsrecht: Leistungskondiktion
+
+Bearbeitungsauftrag: Anspruchsgrundlage, Vertragstyp/Mischvertrag, Pflichtverletzung, Vertretenmüssen, Schaden, Einwendung und Beweisfrage sauber trennen. BGB: condictio indebiti (Leistung ohne Rechtsgrund). BGB: condictio ob causam finitam (Rechtsgrund entfällt nachträglich).
+Lieferstück: Fachvotum zu Bereicherungsrecht: Leistungskondiktion mit Tatbestandsmerkmalen, Aktenfundstellen, Beweislast, stärkster Gegenposition, Risiko und ausformulierter Rechtsfolge.
+
+### 16.5. Pacht, Leihe und Verwahrung BGB
 
 Bearbeitungsauftrag: Pacht Paragrafen 581 und folgende , Leihe Paragrafen 598 und folgende BGB: Leihe (unentgeltliche Gebrauchsüberlassung). Paragraf 600 BGB: Haftungsprivileg des Verleihers.
 Lieferstück: Fachvotum zu Pacht, Leihe und Verwahrung BGB mit Tatbestandsmerkmalen, Aktenfundstellen, Beweislast, stärkster Gegenposition, Risiko und ausformulierter Rechtsfolge.
 
-### 16.7. BT-Fristen, Erklärungen und Zugang
+### 16.6. Verbrauchsgüterkauf und Waren mit digitalen Elementen
+
+Bearbeitungsauftrag: Prüfe Verbrauchsgüterkäufe und Waren mit digitalen Elementen nach den Paragrafen 474 bis 477 BGB; Trenne Warenkauf und Digitalvertrag, Updatepflicht, Nacherfüllung, Abweichungsvereinbarung, Verjährung und Beweislast.
+Lieferstück: Fachvotum zu Verbrauchsgüterkauf und Waren mit digitalen Elementen mit Tatbestandsmerkmalen, Aktenfundstellen, Beweislast, stärkster Gegenposition, Risiko und ausformulierter Rechtsfolge.
+
+### 16.7. Arbeitsnaher Dienstvertrag im BGB
+
+Bearbeitungsauftrag: Anspruchsgrundlage, Vertragstyp/Mischvertrag, Pflichtverletzung, Vertretenmüssen, Schaden, Einwendung und Beweisfrage sauber trennen.
+Lieferstück: verhandlungsfähige Fassung mit Ausgangstext, Änderung, Begründung, Rückfallposition und Vollzugscheck.
+
+### 16.8. BT-Fristen, Erklärungen und Zugang
 
 Bearbeitungsauftrag: Bearbeite BT-Fristen, Erklärungen und Zugang: anspruchsgrundlage, Vertragsschluss, Pflichtverletzung oder Mangel, Einwendung, Frist, Beweislast und Rechtsfolge sauber abschichten. Rekonstruiere Auslöser und Zugang, qualifiziere die Frist, berechne Beginn und Ende kalendarisch und prüfe Hemmung, Ablaufhemmung, Vorfrist, Zugangsnachweis und statthafte Fristrettung getrennt für materielles und Verfahrensrecht. Normenanker: BGB Paragraf 104 bis Paragraf 185: Geschäftsfähigkeit, Willenserklärung, Zugang, Anfechtung, Stellvertretung und Zustimmung.
 Lieferstück: Fristenblatt zu BT-Fristen, Erklärungen und Zugang mit Auslöser, Beginn, Ende, Vorfrist, Beleg, Sofortmaßnahme und Verantwortlichem.
 
-### 16.8. Deliktsrecht: Haftung für Verrichtungen Paragraf 831 BGB
+### 16.9. Deliktsrecht: Haftung für Verrichtungen Paragraf 831 BGB
 
 Bearbeitungsauftrag: Bearbeite Deliktsrecht: Haftung für Verrichtungen Paragraf 831 BGB: anspruchsgrundlage, Vertragsschluss, Pflichtverletzung oder Mangel, Einwendung, Frist, Beweislast und Rechtsfolge sauber abschichten. Zerlege Anspruchsgrund, Pflichtenkreis, Pflichtverletzung, Zurechnung, Kausalität und Schaden; ordne Einwendungen, Mitverantwortung, Verjährung, Beweislast, Versicherung und jede bezifferte Rechtsfolge den konkreten Aktenbelegen zu. Normenanker: HGB Paragraf 377: Untersuchungs- und Rügeobliegenheit im Handelskauf.
 Lieferstück: gewichtete Prüfmatrix mit Tatbestandsmerkmalen, Fundstellen, Gegenposition, Beweislast, Risiko und Empfehlung.
 
-### 16.9. Kaufvertrag Grundschema Paragraf 433 BGB
+### 16.10. Kaufvertrag Grundschema Paragraf 433 BGB
 
 Bearbeitungsauftrag: Bearbeite Kaufvertrag Grundschema Paragraf 433 BGB: anspruchsgrundlage, Vertragsschluss, Pflichtverletzung oder Mangel, Einwendung, Frist, Beweislast und Rechtsfolge sauber abschichten. Lege Regelungsziel und tatsächlichen Ablauf offen, prüfe Definitionen, Haupt- und Nebenpflichten, Bedingungen, Laufzeit, Beendigung, Haftung, Form, zwingendes Recht und Vollzug und liefere Klausel, Rückfallposition und Abschlusskontrolle. Normenanker: HGB Paragraf 377: Untersuchungs- und Rügeobliegenheit im Handelskauf.
 Lieferstück: verhandlungsfähige Fassung mit Ausgangstext, Änderung, Begründung, Rückfallposition und Vollzugscheck.
 
-### 16.10. Maklervertrag und Provision Paragrafen 652 ff. BGB
+### 16.11. Maklervertrag und Provision Paragrafen 652 ff. BGB
 
 Bearbeitungsauftrag: Bearbeite Maklervertrag und Provision Paragrafen 652 ff. BGB: anspruchsgrundlage, Vertragsschluss, Pflichtverletzung oder Mangel, Einwendung, Frist, Beweislast und Rechtsfolge sauber abschichten. Lege Regelungsziel und tatsächlichen Ablauf offen, prüfe Definitionen, Haupt- und Nebenpflichten, Bedingungen, Laufzeit, Beendigung, Haftung, Form, zwingendes Recht und Vollzug und liefere Klausel, Rückfallposition und Abschlusskontrolle.
 Lieferstück: verhandlungsfähige Fassung mit Ausgangstext, Änderung, Begründung, Rückfallposition und Vollzugscheck.
 
-### 16.11. Produzentenhaftung und Verkehrssicherung
+### 16.12. Produzentenhaftung und Verkehrssicherung
 
 Bearbeitungsauftrag: Bearbeite Produzentenhaftung und Verkehrssicherung: anspruchsgrundlage, Vertragsschluss, Pflichtverletzung oder Mangel, Einwendung, Frist, Beweislast und Rechtsfolge sauber abschichten. Zerlege Anspruchsgrund, Pflichtenkreis, Pflichtverletzung, Zurechnung, Kausalität und Schaden; ordne Einwendungen, Mitverantwortung, Verjährung, Beweislast, Versicherung und jede bezifferte Rechtsfolge den konkreten Aktenbelegen zu.
 Lieferstück: gewichtete Prüfmatrix mit Tatbestandsmerkmalen, Fundstellen, Gegenposition, Beweislast, Risiko und Empfehlung.
-
-### 16.12. Reisevertrag und Pauschalreise Paragrafen 651a ff. BGB
-
-Bearbeitungsauftrag: Bearbeite Reisevertrag und Pauschalreise Paragrafen 651a ff. BGB: anspruchsgrundlage, Vertragsschluss, Pflichtverletzung oder Mangel, Einwendung, Frist, Beweislast und Rechtsfolge sauber abschichten. Lege Regelungsziel und tatsächlichen Ablauf offen, prüfe Definitionen, Haupt- und Nebenpflichten, Bedingungen, Laufzeit, Beendigung, Haftung, Form, zwingendes Recht und Vollzug und liefere Klausel, Rückfallposition und Abschlusskontrolle.
-Lieferstück: verhandlungsfähige Fassung mit Ausgangstext, Änderung, Begründung, Rückfallposition und Vollzugscheck.

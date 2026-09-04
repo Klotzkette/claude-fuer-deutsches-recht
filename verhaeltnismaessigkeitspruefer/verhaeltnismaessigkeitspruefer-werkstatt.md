@@ -79,7 +79,7 @@ Arbeitsgriff Arbeitsprodukt: Verfassungsbeschwerde, Stellungnahme, Normenkontrol
 | --- | --- | --- | --- |
 | Fallkern | ASCII-Prüfungsschema Verhältnismäßigkeit | GG Artikel 1 Absatz 1 | Sofortvermerk mit Ergebnisrichtung, Risiko und nächstem Schritt |
 | Zulässigkeit und Frist | Frist, Form, Zuständigkeit, Rolle und statthafter Weg | GG Artikel 2 Absatz 1 | Fristenblatt oder Prozess-/Verfahrensroute |
-| Begründetheit | Lüth Urteil BVerfGE 7 198 | GG Artikel 2 Absatz 1 | Tatbestandsmatrix mit Beleg und Gegenargument |
+| Begründetheit | Absolute Grenze: Wesensgehalt Art 19 II GG | GG Artikel 2 Absatz 1 | Tatbestandsmatrix mit Beleg und Gegenargument |
 | Rechtsfolge | Nichtannahmerisiko, Verfassungsbeschwerde, Eilantrag, Normenkontrolle oder Verhältnismäßigkeitsprüfung | Beschwerdeführer für Grundrechtsbetroffenheit, Subsidiarität und Frist; Staat für Eingriff, Schranke und Verhältnismäßigkeit | Antrag, Entwurf, Entscheidungsvorschlag oder Mandantenbrief |
 
 ## 5. Normenanker, Tatbestandswichtigkeiten und Beweislast
@@ -120,8 +120,8 @@ Arbeitsgriff Arbeitsprodukt: Verfassungsbeschwerde, Stellungnahme, Normenkontrol
 - Art. 93 Abs. 1 Nr. 4a GG: Verfassungsbeschwerde; im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
 - Art. 20 Abs. 3 GG: Bindung an Recht und Gesetz; Rechtsschutz darf nicht leerlaufen; im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
 - Paragraf 80 Abs. 5 VwGO, Paragraf 123 VwGO: fachgerichtliche Eilrechtsschutz-Vorläufer; im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
-- Art. 3 Abs. 2 und Abs. 3 GG verschärfen den allgemeinen Gleichheitssatz für bestimmte Merkmale; im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
 - Art. 3 Abs. 2 und Abs. 3 GG sind lex specialis; im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
+- Art. 3 Abs. 3 GG übersehen — wenn das Differenzierungsmerkmal in Abs. 3 aufgeführt ist, gelten strengere Massstaebe; eigene Prüfung erforderlich; im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
 
 ## 8. Leitentscheidungen
 
@@ -130,9 +130,6 @@ Arbeitsgriff Arbeitsprodukt: Verfassungsbeschwerde, Stellungnahme, Normenkontrol
 - BVerfG, Beschluss vom 14.02.1973 - 1 BvR 112/65: Soraya stärkt Persönlichkeitsrecht und richterliche Rechtsfortbildung.
 - BVerfG, Urteil vom 15.12.1983 - 1 BvR 209/83 u.a.: Volkszählung entwickelt informationelle Selbstbestimmung.
 - BVerfG, Urteil vom 24.05.2006 - 2 BvR 669/04: Artikel 16 Absatz 1 GG schließt die zeitnahe Rücknahme einer durch eigene Täuschung erschlichenen Einbürgerung nicht grundsätzlich aus; die Rücknahme braucht eine hinreichend bestimmte gesetzliche Grundlage.
-- BVerfG, Beschluss vom 21.01.2025, 2 BvQ 2/25, und Beschluss vom 06.06.2025, 2 BvQ 39/25: aktuelle Kammerformel zu Paragraf 32 Abs. 1 BVerfGG mit Folgenabwägung bei offenem Hauptsacheausgang.
-- EuGH Rs. C-144/04 Mangold — Altersdiskriminierung und Unionsrechtsanwendung.
-- EuGH Rs. C-555/07 Kücükdeveci — unmittelbare Wirkung des Diskriminierungsverbots.
 
 ## 9. Prüfraster
 
@@ -153,7 +150,7 @@ Arbeitsgriff Arbeitsprodukt: Verfassungsbeschwerde, Stellungnahme, Normenkontrol
 10.5. Beweislast: Beschwerdeführer für Grundrechtsbetroffenheit, Subsidiarität und Frist; Staat für Eingriff, Schranke und Verhältnismäßigkeit. Zeige ausdrücklich, welche Folge ein offener Beweis hat.
 10.6. Gegenposition: Formuliere den stärksten ernsthaften Angriff; hier setzt die Gegenseite typischerweise bei welcher Hoheitsakt und welche Frist sind entscheidend an.
 10.7. Erwiderung: Antworte mit konkretem Gegenbeleg, Auslegung oder Beweislastregel und ziehe die Folge auf Nichtannahmerisiko, Verfassungsbeschwerde, Eilantrag, Normenkontrolle oder Verhältnismäßigkeitsprüfung; ein bloßes Bestreiten genügt nicht.
-10.8. Arbeitsprodukt: Schließe mit Antrag, Tenor, Klausel, Entscheidung oder nächstem Schritt; hier typischerweise Ausgabe entlang der Kernfelder ASCII-Prüfungsschema Verhältnismäßigkeit, Lüth Urteil BVerfGE 7 198, AGG-Systematik und Verhältnismäßigkeit als Rechtfertigung, Dänemark Proportionalitetsprincip: Kurzvermerk, Prüfmatrix, Entwurf, Fristenblatt oder Fragenliste mit nächstem Schritt.
+10.8. Arbeitsprodukt: Schließe mit Antrag, Tenor, Klausel, Entscheidung oder nächstem Schritt; hier typischerweise Ausgabe entlang der Kernfelder ASCII-Prüfungsschema Verhältnismäßigkeit, Absolute Grenze: Wesensgehalt Art 19 II GG, AGG-Systematik und Verhältnismäßigkeit als Rechtfertigung, Dänemark Proportionalitetsprincip: Kurzvermerk, Prüfmatrix, Entwurf, Fristenblatt oder Fragenliste mit nächstem Schritt.
 10.9. Quellenstatus: Ordne Rechtsprechung nach Tragweite ein; erste Fallanker sind BVerfG, Urteil vom 15.01.1958 - 1 BvR 400/51; BVerfG, Urteil vom 11.06.1958 - 1 BvR 596/56.
 
 ## 11. Outputvarianten und Empfängerwunsch
@@ -189,14 +186,14 @@ Die Landkarte dient der schnellen Auswahl. Sie ersetzt nicht die darunter ausfor
 | Arbeitsfeld | Entscheidende Weiche | Erstes Lieferstück |
 | --- | --- | --- |
 | ASCII-Prüfungsschema Verhältnismäßigkeit | Es muss die vier Stufen der Verhältnismäßigkeit, die Schranken-Schranken und bei kollidierendem Verfassungsrecht die praktische Konkordanz sichtbar machen. | gewichtete Prüfmatrix mit Tatbestandsmerkmalen, Fundstellen, Gegenposition, Beweislast, Risiko und Empfehlung |
-| Lüth Urteil BVerfGE 7 198 | Filmverleih Domnick erlangte vor Zivilgericht Hamburg eine Unterlassungsverfügung nach Paragraf 826 BGB. Pressefreiheit Art 5 I GG strahlt auf Auslegung von Paragraf 826 BGB aus. | entscheidungsreifer Entwurf mit Tenor oder Verfügungssatz, Streitstoff, Beweiswürdigung und Nebenentscheidungen |
+| Absolute Grenze: Wesensgehalt Art 19 II GG | "In keinem Falle darf ein Grundrecht in seinem Wesensgehalt angetastet werden." (Art 19 II GG) Wesensgehalt ist das, was nach umfassender Verhältnismäßigkeitsprüfung übrig bleibt. | Fachvotum zu Absolute Grenze: Wesensgehalt Art 19 II GG mit Tatbestandsmerkmalen, Aktenfundstellen, Beweislast, stärkster Gegenposition, Risiko und ausformulierter Rechtsfolge |
 | AGG-Systematik und Verhältnismäßigkeit als Rechtfertigung | Zivilrechtlicher Teil in den Paragraphen 19 bis 21 AGG für Massengeschäfte und privatrechtliche Versicherungen. Unmittelbare Benachteiligung — Anknüpfung direkt an ein Merkmal aus Paragraph 1 AGG. | Fachvotum zu AGG-Systematik und Verhältnismäßigkeit als Rechtfertigung mit Tatbestandsmerkmalen, Aktenfundstellen, Beweislast, stärkster Gegenposition, Risiko und ausformulierter. |
 | Dänemark Proportionalitetsprincip | EMRK wurde durch Inkorporationsgesetz Nr 285/1992 in dänisches Recht übernommen; Prüfungsmaßstab für Eingriffe in Praxis überwiegend EMRK-förmig. | Fachvotum zu Dänemark Proportionalitetsprincip mit Tatbestandsmerkmalen, Aktenfundstellen, Beweislast, stärkster Gegenposition, Risiko und ausformulierter Rechtsfolge |
 | Klausurschema Verhältnismäßigkeit — kompakt | "Die Maßnahme ist erforderlich, wenn kein milderes gleich effektives Mittel zur Verfügung steht. Milder ist das Mittel, das die Grundrechte des Betroffenen weniger beeinträchtigt. | Fachvotum zu Klausurschema Verhältnismäßigkeit — kompakt mit Tatbestandsmerkmalen, Aktenfundstellen, Beweislast, stärkster Gegenposition, Risiko und ausformulierter Rechtsfolge |
-| Strafrecht Strafzumessung Verhältnismäßigkeit | Bearbeite Strafrecht Strafzumessung Verhältnismäßigkeit: tatkomplex, Norm, Beweismittel, Einlassung, Verwertbarkeit, Frist und Rechtsfolge zeilenweise prüfen. | Fachvotum zu Strafrecht Strafzumessung Verhältnismäßigkeit mit Tatbestandsmerkmalen, Aktenfundstellen, Beweislast, stärkster Gegenposition, Risiko und ausformulierter Rechtsfolge |
 | Volkszählung BVerfGE 65 1 | Volkszählungsgesetz 1983 sollte umfassende statistische Erhebung durchführen mit Verknüpfung Melderegister, Wirtschaftsdaten und Personenmerkmalen. | Fachvotum zu Volkszählung BVerfGE 65 1 mit Tatbestandsmerkmalen, Aktenfundstellen, Beweislast, stärkster Gegenposition, Risiko und ausformulierter Rechtsfolge |
-| Absolute Grenze: Menschenwürdiges Existenzminimum | Der Staat darf das Existenzminimum nicht unterschreiten – auch nicht aus haushalts- oder fiskalpolitischen Gründen. | Fachvotum zu Absolute Grenze: Menschenwürdiges Existenzminimum mit Tatbestandsmerkmalen, Aktenfundstellen, Beweislast, stärkster Gegenposition, Risiko und ausformulierter. |
-| Besondere Gleichheitssätze — Art. 3 Abs. 2 und Abs. 3 GG | Satz 1 enthält das individuelle Gleichberechtigungsgebot. Satz 2 hat seit der Verfassungsänderung von 1994 einen positiven Förderauftrag des Staates: tatsächliche Durchsetzung der Gleichberechtigung und Beseitigung. | Fachvotum zu Besondere Gleichheitssätze — Art. 3 Abs. 2 und Abs. 3 GG mit Tatbestandsmerkmalen, Aktenfundstellen, Beweislast, stärkster Gegenposition, Risiko und ausformulierter. |
+| Online Durchsuchung BVerfGE 120 274 | Nordrhein-westfälisches Verfassungsschutzgesetz erlaubte heimliche Online-Durchsuchung informationstechnischer Systeme. Online-Durchsuchung darf nur unter strengen Voraussetzungen:. | Fachvotum zu Online Durchsuchung BVerfGE 120 274 mit Tatbestandsmerkmalen, Aktenfundstellen, Beweislast, stärkster Gegenposition, Risiko und ausformulierter Rechtsfolge |
+| Polen TK Zasada Proporcjonalnosci | Die Konstytucja Rzeczypospolitej Polskiej vom 2 April 1997 enthält einen modernen Grundrechtskatalog (Art 30 bis 86). | Fachvotum zu Polen TK Zasada Proporcjonalnosci mit Tatbestandsmerkmalen, Aktenfundstellen, Beweislast, stärkster Gegenposition, Risiko und ausformulierter Rechtsfolge |
+| Schutzpflichtdimension — Verhältnismäßigkeit als Untermassverbot | Schutzbedürftigkeit der Betroffenen die nicht selbst hinreichend schützen können. Schutzmöglichkeit des Staates durch Gesetzgebung Verwaltung oder Rechtsprechung. | Fachvotum zu Schutzpflichtdimension — Verhältnismäßigkeit als Untermassverbot mit Tatbestandsmerkmalen, Aktenfundstellen, Beweislast, stärkster Gegenposition, Risiko. |
 
 ## 16. Fachspezifische Praxisrouten
 
@@ -206,14 +203,13 @@ Diese Routen stammen aus den konkreten Arbeitsthemen dieses Plugins. Wähle die 
 
 Bearbeitungsauftrag: Es muss die vier Stufen der Verhältnismäßigkeit, die Schranken-Schranken und bei kollidierendem Verfassungsrecht die praktische Konkordanz sichtbar machen. Nutze das ASCII-Schema für Schriftsatzanlage, Klausur, Mandatsmemo oder Verwaltungsvermerk. GG Artikel 20 Absatz 3: Gesetzesbindung und Verhältnismäßigkeit als rechtsstaatlicher Maßstab.
 Prüfschritte: Fülle jede Box mit einer konkreten Tatsache und einer Norm, sonst bleibt es Dekoration; GG Artikel 1 Absatz 1, Artikel 2 Absatz 1, Artikel 5, Artikel 8, Artikel 12, Artikel 14 je nach Grundrecht; GG Artikel 19 Absatz 2 und Absatz 4: Wesensgehalt und Rechtsschutz; GRCh Artikel 52 Absatz 1 bei Unionsrechtsbezug; BVerfG-Rechtsprechung nur mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle einsetzen.
-Norm- oder Entscheidungsbezug aus dem Fachmaterial: Fülle jede Box mit einer konkreten Tatsache und einer Norm, sonst bleibt es Dekoration; GG Artikel 1 Absatz 1, Artikel 2 Absatz 1, Artikel 5, Artikel 8, Artikel 12, Artikel 14 je nach Grundrecht; GG Artikel 19 Absatz 2 und Absatz 4: Wesensgehalt und Rechtsschutz.
 Lieferstück: gewichtete Prüfmatrix mit Tatbestandsmerkmalen, Fundstellen, Gegenposition, Beweislast, Risiko und Empfehlung.
 
-### 16.2. Lüth Urteil BVerfGE 7 198
+### 16.2. Absolute Grenze: Wesensgehalt Art 19 II GG
 
-Bearbeitungsauftrag: Filmverleih Domnick erlangte vor Zivilgericht Hamburg eine Unterlassungsverfügung nach Paragraf 826 BGB. Pressefreiheit Art 5 I GG strahlt auf Auslegung von Paragraf 826 BGB aus. Die Wertordnung strahlt durch Generalklauseln wie Paragraf 826 BGB, Paragraf 138 BGB, Paragraf 242 BGB in das Privatrecht aus.
-Prüfschritte: Erich Lüth rief Anfang der fünfziger Jahre als Hamburger Pressechef zum Boykott des Films Unsterbliche Geliebte von Veit Harlan auf; Harlan war zur NS-Zeit Regisseur des Hetzfilms Jud Süß; Aufhebung der Zivilgerichtsentscheidung; Grundrechte sind nicht nur Abwehrrechte gegen den Staat, sondern auch objektive Wertordnung des Grundgesetzes; Verhältnismäßigkeit als Methodik dringt ins Privatrecht ein.
-Lieferstück: entscheidungsreifer Entwurf mit Tenor oder Verfügungssatz, Streitstoff, Beweiswürdigung und Nebenentscheidungen.
+Bearbeitungsauftrag: "In keinem Falle darf ein Grundrecht in seinem Wesensgehalt angetastet werden." (Art 19 II GG) Wesensgehalt ist das, was nach umfassender Verhältnismäßigkeitsprüfung übrig bleibt. In dieser Lesart hat Art 19 II GG keinen eigenständigen Bedeutungsgewinn neben dem Übermassverbot.
+Prüfschritte: Sie wird vom BVerfG nicht ausdrücklich vertreten, klingt aber in pragmatischen Linien an; Wesensgehalt ist ein harter Kernbereich jedes Grundrechts, der jeder Abwägung entzogen ist; So vom BVerfG vor allem in den Fallgruppen Wohnungsüberwachung, Telekommunikationsüberwachung, Lauschangriff und Online-Durchsuchung verwendet; BVerfGE 109, 279 (Großer Lauschangriff): Wohnungsüberwachung muss Kernbereichsschutz gewährleisten; BVerfGE 113, 348 (Präventive Telekommunikationsüberwachung Niedersachsen): Kernbereichsschutz im Vorfeld.
+Lieferstück: Fachvotum zu Absolute Grenze: Wesensgehalt Art 19 II GG mit Tatbestandsmerkmalen, Aktenfundstellen, Beweislast, stärkster Gegenposition, Risiko und ausformulierter Rechtsfolge.
 
 ### 16.3. AGG-Systematik und Verhältnismäßigkeit als Rechtfertigung
 
@@ -233,47 +229,44 @@ Bearbeitungsauftrag: "Die Maßnahme ist erforderlich, wenn kein milderes gleich 
 Prüfschritte: "Die Maßnahme ist geeignet, wenn sie den verfolgten Zweck zu fördern vermag; Erforderlich ist nicht volle Zweckerreichung; ausreichend ist Förderung." Prüfraster: Tatsachenebene (fördert empirisch?) — Prognosenebene (Einschätzungsspielraum bei Unsicherheit); "Die Maßnahme ist angemessen, wenn die Schwere des Eingriffs nicht außer Verhältnis zum Gewicht des Zwecks steht.
 Lieferstück: Fachvotum zu Klausurschema Verhältnismäßigkeit — kompakt mit Tatbestandsmerkmalen, Aktenfundstellen, Beweislast, stärkster Gegenposition, Risiko und ausformulierter Rechtsfolge.
 
-### 16.6. Strafrecht Strafzumessung Verhältnismäßigkeit
-
-Bearbeitungsauftrag: Bearbeite Strafrecht Strafzumessung Verhältnismäßigkeit: tatkomplex, Norm, Beweismittel, Einlassung, Verwertbarkeit, Frist und Rechtsfolge zeilenweise prüfen. Verbinde den konkreten Aktenfund mit Tatbestandsmerkmal, Gegenposition, Beweislast, Rechtsfolge und dem nächsten vollständig ausformulierten Arbeitsprodukt.
-Prüfschritte: Paragraf 46 I StGB: "Die Schuld des Täters ist Grundlage für die Zumessung der Strafe; Fördert die Strafe einen dieser Zwecke; Verwarnung mit Strafvorbehalt Paragraf 59 StGB; Absehen von Strafe Paragraf 60 StGB; Verfahrenseinstellung Paragrafen 153 153a StPO.
-Norm- oder Entscheidungsbezug aus dem Fachmaterial: Paragraf 46 I StGB: "Die Schuld des Täters ist Grundlage für die Zumessung der Strafe; Paragraf 46 I StGB: "Die Schuld des Täters ist Grundlage für die Zumessung der Strafe; Fördert die Strafe einen dieser Zwecke; Verwarnung mit Strafvorbehalt Paragraf 59 StGB; Absehen von Strafe Paragraf 60 StGB; Verfahrenseinstellung Paragrafen 153 153a StPO.
-Lieferstück: Fachvotum zu Strafrecht Strafzumessung Verhältnismäßigkeit mit Tatbestandsmerkmalen, Aktenfundstellen, Beweislast, stärkster Gegenposition, Risiko und ausformulierter Rechtsfolge.
-
-### 16.7. Volkszählung BVerfGE 65 1
+### 16.6. Volkszählung BVerfGE 65 1
 
 Bearbeitungsauftrag: Volkszählungsgesetz 1983 sollte umfassende statistische Erhebung durchführen mit Verknüpfung Melderegister, Wirtschaftsdaten und Personenmerkmalen. Volkszählungsgesetz teilweise verfassungswidrig (insbesondere Verknüpfungs- und Abgleichsregelungen). "Unter den Bedingungen der modernen Datenverarbeitung wird der Schutz des Einzelnen gegen unbegrenzte Erhebung, Speicherung, Verwendung und Weitergabe seiner persönlichen Daten von dem allgemeinen Persönlichkeitsrecht umfasst.
 Prüfschritte: Massenproteste, Verfassungsbeschwerden; Aus Art 2 I GG in Verbindung mit Art 1 I GG (allgemeines Persönlichkeitsrecht) leitet das BVerfG das Recht auf informationelle Selbstbestimmung ab: die Befugnis des Einzelnen, grundsätzlich selbst über die Preisgabe und Verwendung seiner persönlichen Daten zu bestimmen.
-Norm- oder Entscheidungsbezug aus dem Fachmaterial: Senat 1 BVerfG, Urteil 15.12.1983, BVerfGE 65, 1 (Volkszählung).
 Lieferstück: Fachvotum zu Volkszählung BVerfGE 65 1 mit Tatbestandsmerkmalen, Aktenfundstellen, Beweislast, stärkster Gegenposition, Risiko und ausformulierter Rechtsfolge.
 
-### 16.8. Absolute Grenze: Menschenwürdiges Existenzminimum
-
-Bearbeitungsauftrag: Der Staat darf das Existenzminimum nicht unterschreiten – auch nicht aus haushalts- oder fiskalpolitischen Gründen. Beide Normen verbunden ergeben ein Leistungsgrundrecht: der Staat schuldet das materielle Existenzminimum plus das soziokulturelle Existenzminimum (Teilhabe am gesellschaftlichen, kulturellen und politischen Leben). Art 1 I iVm Art 20 I GG gewährt ein einklagbares Recht auf Sicherung des menschenwürdigen Existenzminimums.
-Prüfschritte: Diese Grenze hat das BVerfG aus Art 1 I GG in Verbindung mit dem Sozialstaatsprinzip Art 20 I GG entwickelt; Art 1 I GG: Menschenwürde als objektiver Wert und subjektives Recht; Art 20 I GG: Sozialstaatsprinzip als Konkretisierungsauftrag.
-Lieferstück: Fachvotum zu Absolute Grenze: Menschenwürdiges Existenzminimum mit Tatbestandsmerkmalen, Aktenfundstellen, Beweislast, stärkster Gegenposition, Risiko und ausformulierter Rechtsfolge.
-
-### 16.9. Besondere Gleichheitssätze — Art. 3 Abs. 2 und Abs. 3 GG
-
-Bearbeitungsauftrag: Satz 1 enthält das individuelle Gleichberechtigungsgebot. Satz 2 hat seit der Verfassungsänderung von 1994 einen positiven Förderauftrag des Staates: tatsächliche Durchsetzung der Gleichberechtigung und Beseitigung bestehender Nachteile. Fördermaßnahmen zugunsten von Frauen können durch Satz 2 gerechtfertigt sein wenn sie verhältnismäßig ausgestaltet sind.
-Prüfschritte: Differenzierungen nach dem Geschlecht sind grundsätzlich verboten; Ausnahme nur bei zwingenden biologischen Unterschieden oder zur Lösung tatsächlich bestehender Konfliktlagen; Niemand darf wegen Geschlecht Abstammung Rasse Sprache Heimat und Herkunft Glauben religiöser oder politischer Anschauungen benachteiligt oder bevorzugt werden; Anknüpfung an diese Merkmale ist grundsätzlich unzulässig.
-Lieferstück: Fachvotum zu Besondere Gleichheitssätze — Art. 3 Abs. 2 und Abs. 3 GG mit Tatbestandsmerkmalen, Aktenfundstellen, Beweislast, stärkster Gegenposition, Risiko und ausformulierter Rechtsfolge.
-
-### 16.10. Online Durchsuchung BVerfGE 120 274
+### 16.7. Online Durchsuchung BVerfGE 120 274
 
 Bearbeitungsauftrag: Nordrhein-westfälisches Verfassungsschutzgesetz erlaubte heimliche Online-Durchsuchung informationstechnischer Systeme. Online-Durchsuchung darf nur unter strengen Voraussetzungen:. Verfahrensregeln für Auswertung, Speicherung, Löschung.
 Prüfschritte: Verfassungsbeschwerde mehrerer Kläger; Aus dem allgemeinen Persönlichkeitsrecht Art 2 I GG in Verbindung mit Art 1 I GG entwickelt das BVerfG das IT-Grundrecht auf Gewährleistung der Vertraulichkeit und Integrität informationstechnischer Systeme; konkrete Gefahr für überragend wichtige Rechtsgüter (Leib, Leben, Freiheit der Person, Bestand des Staates, Existenz von Menschen); Kernbereichsschutz privater Lebensgestaltung (Daten nicht auswerten, sofort löschen, wenn Kernbereich berührt).
-Norm- oder Entscheidungsbezug aus dem Fachmaterial: Senat 1 BVerfG, Urteil 27.02.2008, BVerfGE 120, 274 (Online-Durchsuchung).
 Lieferstück: Fachvotum zu Online Durchsuchung BVerfGE 120 274 mit Tatbestandsmerkmalen, Aktenfundstellen, Beweislast, stärkster Gegenposition, Risiko und ausformulierter Rechtsfolge.
 
-### 16.11. Polen TK Zasada Proporcjonalnosci
+### 16.8. Polen TK Zasada Proporcjonalnosci
 
 Bearbeitungsauftrag: Die Konstytucja Rzeczypospolitej Polskiej vom 2 April 1997 enthält einen modernen Grundrechtskatalog (Art 30 bis 86). Zentrale Schranken-Schranke ist Art 31 III Konstytucji: Ograniczenia w zakresie korzystania z konstytucyjnych wolnosci i praw moga byc ustanawiane tylko w ustawie i tylko wtedy gdy sa konieczne w demokratycznym panstwie dla jego bezpieczenstwa lub porzadku publicznego badz dla ochrony srodowiska zdrowia i moralnosci publicznej albo wolnosci i praw innych osob. Damit enthält Art 31 III Konstytucji vier Elemente.
 Prüfschritte: Ograniczenia te nie moga naruszac istoty wolnosci i praw; Gesetzesvorbehalt (tylko w ustawie),; Erforderlichkeit in einer demokratischen Gesellschaft (konieczne w demokratycznym panstwie),; Wesensgehalt (nie moga naruszac istoty wolnosci i praw).
 Lieferstück: Fachvotum zu Polen TK Zasada Proporcjonalnosci mit Tatbestandsmerkmalen, Aktenfundstellen, Beweislast, stärkster Gegenposition, Risiko und ausformulierter Rechtsfolge.
 
-### 16.12. Schutzpflichtdimension — Verhältnismäßigkeit als Untermassverbot
+### 16.9. Schutzpflichtdimension — Verhältnismäßigkeit als Untermassverbot
 
 Bearbeitungsauftrag: Schutzbedürftigkeit der Betroffenen die nicht selbst hinreichend schützen können. Schutzmöglichkeit des Staates durch Gesetzgebung Verwaltung oder Rechtsprechung. Verfassungsbeschwerden von Menschen mit Behinderungen die im Falle einer pandemiebedingten intensivmedizinischen Triage befürchteten benachteiligt zu werden weil ärztliche Leitlinien auf das Kriterium klinischer Erfolgsaussicht abstellten.
 Prüfschritte: Abwehrfunktion — klassische Funktion gegenüber dem Staat; Schutzfunktion — positive Pflicht des Staates zu schützen; Teilhabefunktion — Anspruch auf gleichberechtigte Teilhabe; Objektive Wertordnung — Ausstrahlung in alle Rechtsgebiete; Schutzpflicht und objektive Wertordnung überlappen aber sind nicht identisch.
 Lieferstück: Fachvotum zu Schutzpflichtdimension — Verhältnismäßigkeit als Untermassverbot mit Tatbestandsmerkmalen, Aktenfundstellen, Beweislast, stärkster Gegenposition, Risiko und ausformulierter Rechtsfolge.
+
+### 16.10. Südafrika Section 36 Übersicht
+
+Bearbeitungsauftrag: Section 36 Constitution of the Republic of South Africa 1996: Limitation of rights. Section 36 enthält eine generalisierte Limitation Clause für alle Grundrechte der Bill of Rights. formelle Anforderungen: law of general application (Gesetzesvorbehalt, Bestimmtheit, Allgemeinheit).
+Prüfschritte: (1) The rights in the Bill of Rights may be limited only in terms of law of general application to the extent that the limitation is reasonable and justifiable in an open and democratic society based on human dignity, equality and freedom, taking into account all relevant factors, including: (a) the nature of the right; (b) the importance of the purpose of the limitation; (c) the nature and extent of the limitation; (d) the relation between the limitation and its purpose; and (e) less restrictive means to achieve the purpose.
+Lieferstück: Fachvotum zu Südafrika Section 36 Übersicht mit Tatbestandsmerkmalen, Aktenfundstellen, Beweislast, stärkster Gegenposition, Risiko und ausformulierter Rechtsfolge.
+
+### 16.11. Österreich VfGH Verhältnismäßigkeit
+
+Bearbeitungsauftrag: Staatsgrundgesetz 1867 (StGG) über die allgemeinen Rechte der Staatsbürger,. moderne Grundrechte (z B Datenschutz DSG, Art 1 Bundesverfassung). Der Verfassungsgerichtshof prüft Eingriffe im Sachlichkeitsgebot (Art 7 B-VG / Art 2 StGG) und über die EMRK in einer der deutschen Lehre sehr nahen Form.
+Prüfschritte: EMRK seit 1964 im Verfassungsrang (BGBl Nr 59/1964),; Eingriffsbefugnisse stehen unter Gesetzesvorbehalt (formelles Bundesgesetz oder Landesgesetz); Prüfung erfolgt über Art 140 B-VG (Normenkontrolle) oder über Erkenntnisbeschwerden.
+Lieferstück: Fachvotum zu Österreich VfGH Verhältnismäßigkeit mit Tatbestandsmerkmalen, Aktenfundstellen, Beweislast, stärkster Gegenposition, Risiko und ausformulierter Rechtsfolge.
+
+### 16.12. Apotheken Urteil BVerfGE 7 377
+
+Bearbeitungsauftrag: Bayerisches Apothekenrecht knüpfte Apotheken-Neukonzessionen an Beduerfnisnachweis (objektive Voraussetzung). Art 12 I GG enthält ein einheitliches Grundrecht der Berufsfreiheit, aber drei Eingriffsintensitäten mit gestaffelten Rechtfertigungsanforderungen: Wie wird der Beruf ausgeübt? Welche Marktbedingungen müssen erfüllt sein?
+Prüfschritte: Kläger wollte ohne Beduerfnisnachweis Apotheke eröffnen; Beduerfnisprüfung als objektive Voraussetzung nicht erforderlich; subjektive Voraussetzungen (Examen, Approbation) genügen; Beispiel: Ladenoeffnungszeiten, Werbebeschränkungen; Rechtfertigung: jede vernuenftige Erwägung des Gemeinwohls.
+Lieferstück: entscheidungsreifer Entwurf mit Tenor oder Verfügungssatz, Streitstoff, Beweiswürdigung und Nebenentscheidungen.

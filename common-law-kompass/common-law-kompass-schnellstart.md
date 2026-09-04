@@ -44,11 +44,10 @@ Ohne verwertbares Material genau eine gebündelte Frage zu Rechtsraum und Quelle
 | Feld | Sofortgriff | Ausgabe |
 | --- | --- | --- |
 | Rechtsraum und Quelle | Staat, Bundesstaat, Gericht, Datum, Primärquelle, Bindungswirkung und mögliche Abweichung feststellen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Begriff und Funktion | Originalbegriff im Vertrags- oder Prozesskontext erklären, deutsche false friends markieren und Rechtsfolge. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Vertragstechnik | Operative Pflicht, Risikozuweisung, knowledge qualifier, disclosure, remedy, limitation und Durchsetzbarkeit. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Prozess und Beweis | Pleading standard, disclosure oder discovery, privilege, witness evidence, expert evidence, costs und enforcement. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Begriff und Funktion | Originalbegriff im Vertrags- oder Prozesskontext erklären, deutsche false friends markieren und Rechtsfolge benennen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Vertragstechnik | Operative Pflicht, Risikozuweisung, knowledge qualifier, disclosure, remedy, limitation und Durchsetzbarkeit abgleichen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Prozess und Beweis | Pleading standard, disclosure oder discovery, privilege, witness evidence, expert evidence, costs und enforcement ordnen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
 | Arbeitsprodukt | Bilingualer Clause Mark-up, Jurisdiktionsmemo, Discovery-Plan, Client Explainer oder Verhandlungsposition erstellen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Common Law: Vertragsklauseln | Bearbeite Common Law: Vertragsklauseln: Staat, Bundesstaat, Gericht, Datum, Primärquelle, Bindungswirkung. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
 
 ## 6. Anker
 

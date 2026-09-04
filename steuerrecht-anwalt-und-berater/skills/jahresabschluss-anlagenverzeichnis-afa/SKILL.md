@@ -1,119 +1,139 @@
 ---
 name: jahresabschluss-anlagenverzeichnis-afa
-description: "Für Anlagenverzeichnis und AfA — Jahresabschluss-Aktualisierung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
+description: "Erstellt und prüft Anlagenspiegel und steuerliches Anlagenverzeichnis, stimmt Zugänge, Abgänge und Abschreibungen ab und dokumentiert HGB-Größenklasse, AfA und offene Belege."
 ---
 
-# Anlagenverzeichnis und AfA — Jahresabschluss-Aktualisierung
+# Anlagenverzeichnis und AfA im Jahresabschluss
 
-## Fachlicher Anker
+## 1. Auftrag
 
-- **Normen:** § 6a, § 268 Abs. 2 HGB, § 7g.
-- **Entscheidungs-/Quellenanker:** Tragende Rechtsprechung nur mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle einsetzen; keine Entscheidung aus Modellwissen erzwingen.
-- **Quellenhygiene:** `references/quellenhygiene.md` und `references/zitierweise.md` beachten.
+Führe Anlagenbuchhaltung, Hauptbuch, Belege und Vorjahresabschluss zu einem nachrechenbaren Anlagenspiegel und steuerlichen Anlagenverzeichnis zusammen. Liefere keine bloße Summenübersicht: Jeder Zugang, Abgang, jede Umbuchung, Zuschreibung und Abschreibung muss auf ein Wirtschaftsgut, einen Beleg und einen Buchungssatz zurückgeführt werden können.
 
-## Kernsachverhalt
+## 2. Rechtliche Einordnung
 
-Der Anlagenspiegel (Anlagenverzeichnis) bildet die Bestandsentwicklung des Anlagevermoegens über das Geschäftsjahr ab: Anfangsbestand, Zugaenge, Abgaenge, Abschreibungen, Zuschreibungen, Endbestand. Im Jahresabschluss ist er Pflicht-Bestandteil bei mittelgrossen und großen Kapitalgesellschaften (§ 268 Abs. 2 HGB).
+### 2.1 Handelsrechtlicher Anlagenspiegel
 
-## Kaltstart-Rueckfragen
+Paragraf 284 Absatz 3 HGB verlangt im Anhang eine gesonderte Aufgliederung der Entwicklung der einzelnen Posten des Anlagevermögens. Ausgehend von den gesamten Anschaffungs- und Herstellungskosten sind Zugänge, Abgänge, Umbuchungen, Zuschreibungen und Abschreibungen gesondert darzustellen. Die Abschreibungen sind außerdem mit Anfangs- und Endbestand, Jahresbewegung sowie Änderungen aus Zu- und Abgängen und Umbuchungen auszuweisen.
 
-1. Welche Anlagengruppen sind vorhanden (immaterielle WG, Sachanlagen, Finanzanlagen)?
-2. Welche Zugaenge im Jahr (Investitionen)?
-3. Welche Abgaenge (Verkauf, Verschrottung, Entnahme)?
-4. Welche AfA-Methode (linear, degressiv, Leistungs-AfA)?
-5. Sonderabschreibungen § 7g, § 7b, § 6b EStG?
-6. Welche Nutzungsdauern laut AfA-Tabelle?
-7. Welche Investitionsabzugsbetraege § 7g EStG anstehend?
-8. Welche GWG-Konfiguration (Wahlrecht 800 EUR oder Pool 1.000 EUR)?
+Paragraf 268 Absatz 2 HGB ist aufgehoben und darf nicht mehr als Rechtsgrundlage des Anlagenspiegels angegeben werden. Kleine Kapitalgesellschaften brauchen die Angabe nach Paragraf 284 Absatz 3 HGB aufgrund der Erleichterung in Paragraf 288 Absatz 1 Nummer 1 HGB nicht zu machen. Für mittelgroße und große Kapitalgesellschaften besteht diese Erleichterung nicht.
 
-## Rechtlicher Rahmen
+### 2.2 Größenklasse nach Paragraf 267 HGB
 
-### Primaernormen
+Die Einordnung folgt jeweils aus mindestens zwei der drei Merkmale. Die Rechtsfolgen einer Über- oder Unterschreitung treten grundsätzlich erst ein, wenn die betreffenden Merkmale an zwei aufeinanderfolgenden Abschlussstichtagen vorliegen. Bei Umwandlung oder Neugründung gilt die gesetzliche Sonderregel für den ersten Abschlussstichtag; beim Formwechsel ist die Einschränkung des Paragrafen 267 Absatz 4 Satz 3 HGB zu beachten.
 
-**§ 247 HGB** — Anlagevermoegen-Definition.
+| Größenklasse | Bilanzsumme | Umsatzerlöse | Arbeitnehmer | Zuordnungsregel |
+| --- | ---: | ---: | ---: | --- |
+| klein | höchstens 7500000 Euro | höchstens 15000000 Euro | höchstens 50 | mindestens zwei Merkmale nicht überschritten |
+| mittelgroß | höchstens 25000000 Euro | höchstens 50000000 Euro | höchstens 250 | mindestens zwei Schwellen der kleinen Klasse überschritten und mindestens zwei obere Schwellen nicht überschritten |
+| groß | mehr als 25000000 Euro | mehr als 50000000 Euro | mehr als 250 | mindestens zwei obere Schwellen überschritten; kapitalmarktorientierte Kapitalgesellschaften gelten stets als groß |
 
-**§ 253 HGB** — Bewertung mit fortgefuehrten Anschaffungs-/Herstellungskosten.
+Für Kleinstkapitalgesellschaften sind zusätzlich die Schwellen des Paragrafen 267a HGB zu prüfen: 450000 Euro Bilanzsumme, 900000 Euro Umsatzerlöse und zehn Arbeitnehmer; mindestens zwei Merkmale dürfen nicht überschritten sein.
 
-**§ 268 Abs. 2 HGB** — Anlagenspiegel-Pflicht.
+### 2.3 Bewertung und steuerliche Abschreibung
 
-**§ 6 EStG** — Bewertung.
+- Paragraf 247 HGB: Zuordnung zum Anlagevermögen.
+- Paragraf 253 HGB: handelsrechtliche Bewertung und planmäßige beziehungsweise außerplanmäßige Abschreibung.
+- Paragraf 6 EStG: steuerliche Bewertung und geringwertige Wirtschaftsgüter.
+- Paragraf 7 EStG: lineare, leistungsbezogene und gesetzlich zugelassene degressive AfA.
+- Paragraf 7g EStG: Investitionsabzugsbetrag und Sonderabschreibung für kleine und mittlere Betriebe.
 
-**§ 7 EStG** — AfA-Methoden.
+Paragraf 6a EStG betrifft Pensionsrückstellungen und ist kein Anker für das Anlagenverzeichnis.
 
-**§ 7g EStG** — IAB und Sonderabschreibung.
+## 3. Aktenaufnahme
 
-**§ 7b EStG** — Sonderabschreibung Wohnungsbau (befristet).
+Arbeite zunächst mit den vorhandenen Anlagenkonten, Buchungsjournalen, Rechnungen, Verträgen, Zahlungsbelegen, Inventurlisten und Vorjahreswerten. Frage anschließend nur gezielt nach fehlenden Unterlagen:
 
-**§ 6 Abs. 2 EStG** — GWG bis 800 EUR.
+1. Welcher Abschlussstichtag und welche Rechtsform sind betroffen?
+2. Welche HGB-Größenklasse ergibt sich für beide Vergleichsjahre?
+3. Welche Anlagenklassen und Konten werden geführt?
+4. Welche Zugänge, nachträglichen Anschaffungskosten und Eigenleistungen sind gebucht?
+5. Welche Abgänge, Verschrottungen, Entnahmen und Versicherungsfälle liegen vor?
+6. Welche Wirtschaftsgüter wurden umgebucht, aufgeteilt oder zu einer Bewertungseinheit zusammengeführt?
+7. Welche handels- und steuerrechtlichen Nutzungsdauern sowie Abschreibungsmethoden wurden angesetzt?
+8. Welche Investitionsabzugsbeträge, Sonderabschreibungen oder geringwertigen Wirtschaftsgüter sind betroffen?
 
-**§ 6 Abs. 2a EStG** — Pool-Abschreibung 250-1.000 EUR.
+## 4. Abstimmungsworkflow
 
-### Verwaltungsanweisungen
+### 4.1 Anfangsbestand sichern
 
-- BMF AfA-Tabellen.
-- § 7g EStG in der Fassung des JStG 2020 (massgeblich ab 01.01.2020; Sonder-AfA 40 Prozent, IAB 50 Prozent); aktuelle Gesetzesfassung auf gesetze-im-internet.de.
+Übernimm die fortgeführten Anschaffungs- und Herstellungskosten, kumulierten Abschreibungen und Buchwerte aus dem festgestellten Vorjahresabschluss. Jede Abweichung zur Anlagenbuchhaltung kommt auf eine Differenzenliste und wird nicht stillschweigend auf den Endbestand gebucht.
 
-## Workflow
+### 4.2 Zugänge prüfen
 
-### Phase 1 — Anlagenspiegel-Struktur
+Ordne jedem Zugang Inventarnummer, Anschaffungsdatum, Lieferant, Rechnungsnummer, Kontierung, Standort, Kostenstelle und Nutzungsbeginn zu. Trenne Kaufpreis, einzeln zurechenbare Anschaffungsnebenkosten, nachträgliche Anschaffungskosten und nicht aktivierungsfähigen Aufwand. Bei selbst geschaffenen Vermögensgegenständen sind Herstellungskosten und handelsrechtliche Aktivierungsfragen gesondert zu dokumentieren.
 
+### 4.3 Abgänge und Umbuchungen prüfen
+
+Dokumentiere Abgangsdatum, Abgangsgrund, Erlös, Restbuchwert, ausgebuchte kumulierte Abschreibung und Ergebniswirkung. Bei Teilabgängen muss die Aufteilungsmethode nachvollziehbar sein. Umbuchungen dürfen den Gesamtbestand nicht verändern und brauchen eine eindeutige Gegenposition.
+
+### 4.4 Abschreibung bestimmen
+
+| Methode | Voraussetzungen und Kontrolle |
+| --- | --- |
+| Lineare AfA | Paragraf 7 Absatz 1 EStG; betriebsgewöhnliche Nutzungsdauer, zeitanteilige AfA im Zugangsjahr |
+| Leistungs-AfA | Paragraf 7 Absatz 1 Satz 6 EStG; wirtschaftliche Begründung und messbarer Leistungsnachweis |
+| Degressive AfA | Paragraf 7 Absatz 2 EStG; bewegliche Wirtschaftsgüter des Anlagevermögens, angeschafft oder hergestellt nach dem 30. Juni 2025 und vor dem 1. Januar 2028; höchstens das Dreifache des linearen Satzes und höchstens 30 Prozent |
+| Elektrofahrzeug-AfA | Paragraf 7 Absatz 2a EStG; begünstigtes Elektrofahrzeug, Anschaffung nach dem 30. Juni 2025 und vor dem 1. Januar 2028; gesetzliche Staffel und Ausschluss paralleler Sonderabschreibung prüfen |
+| Sonderabschreibung | Paragraf 7g Absatz 5 und 6 EStG; insgesamt bis zu 40 Prozent im Anschaffungs- oder Herstellungsjahr und den vier Folgejahren bei erfüllter Gewinngrenze und Nutzungsvoraussetzung, jedoch nach Paragraf 52 Absatz 16 Satz 6 EStG nur für nach dem 31. Dezember 2023 angeschaffte oder hergestellte Wirtschaftsgüter; für vor dem 1. Januar 2024 angeschaffte oder hergestellte Wirtschaftsgüter bleibt die frühere Fassung mit insgesamt bis zu 20 Prozent maßgeblich |
+
+Die amtlichen AfA-Tabellen sind eine verwaltungsseitige Schätzungshilfe für die betriebsgewöhnliche Nutzungsdauer. Weicht die Akte davon ab, sind technische, wirtschaftliche und tatsächliche Nutzungsumstände zu belegen; die Tabelle ist weder Gesetz noch Ersatz für die Einzelfallprüfung.
+
+### 4.5 Investitionsabzugsbetrag nach Paragraf 7g EStG
+
+1. Begünstigt sind künftige Investitionen in abnutzbare bewegliche Wirtschaftsgüter des Anlagevermögens bei erfüllter Nutzungs- oder Vermietungsvoraussetzung.
+2. Der Abzug beträgt bis zu 50 Prozent der voraussichtlichen Anschaffungs- oder Herstellungskosten.
+3. Der Gewinn darf vor Investitionsabzugsbetrag und Hinzurechnung 200000 Euro nicht überschreiten.
+4. Die Summe der im Abzugsjahr und in den drei Vorjahren abgezogenen, noch nicht hinzugerechneten oder rückgängig gemachten Beträge darf je Betrieb 200000 Euro nicht übersteigen.
+5. Erfolgt bis zum Ende des dritten auf das Abzugsjahr folgenden Wirtschaftsjahrs keine passende Hinzurechnung, ist der Abzug nach Paragraf 7g Absatz 3 EStG rückgängig zu machen.
+6. Handelsrechtlicher Buchwert, steuerlicher Buchwert und außerbilanzielle Korrektur sind getrennt fortzuschreiben.
+
+### 4.6 Geringwertige Wirtschaftsgüter
+
+Prüfe das Sofortabschreibungswahlrecht nach Paragraf 6 Absatz 2 EStG und den Sammelposten nach Paragraf 6 Absatz 2a EStG anhand der im Anschaffungsjahr geltenden Wertgrenzen. Halte Wahlrecht, Nettoanschaffungskosten, Vorsteuerabzugsberechtigung und wirtschaftliche Selbstständigkeit je Wirtschaftsgut fest. Innerhalb des Wirtschaftsjahrs muss die Behandlung systematisch konsistent sein.
+
+## 5. Rechen- und Belegschema
+
+```text
+ANLAGENSPIEGEL [GESCHÄFTSJAHR]
+
+Posten | AHK Anfang | Zugang | Abgang | Umbuchung | Zuschreibung | AHK Ende
+Posten | kumulierte AfA Anfang | AfA Jahr | Änderung aus Abgang/Umbuchung | kumulierte AfA Ende
+Posten | Buchwert Anfang | Buchwert Ende
+
+KONTROLLGLEICHUNGEN
+AHK Ende = AHK Anfang + Zugang - Abgang +/- Umbuchung
+Buchwert Ende = AHK Ende - kumulierte AfA Ende
+Summe Buchwerte Ende = Bilanzposten Anlagevermögen
 ```
-ANLAGENSPIEGEL [Geschaeftsjahr]
-Position | AHK Anfang | Zugang | Abgang | Umgliederung | Endbestand AHK | Kum. AfA Anfang | AfA des Jahres | Abgang AfA | Kum. AfA Ende | Buchwert Anfang | Buchwert Ende
-Immaterielle WG | [X] | [Y] | [Z] | - | [A] | [B] | [C] | [Z] | [D] | [E] | [F]
-Sachanlagen | ...
-Finanzanlagen | ...
-```
 
-### Phase 2 — Zugaenge
+Ergänze je Anlagenklasse eine Einzelpostenliste mit Inventarnummer, Beleg, Nutzungsbeginn, Methode, Nutzungsdauer, AfA-Satz, Jahres-AfA, kumulierter AfA und Restbuchwert.
 
-- Anschaffungskosten (incl. Anschaffungsnebenkosten).
-- Herstellungskosten (Eigenbau).
-- Aktivierungswahlrechte für immaterielle WG.
+## 6. Ergebnis
 
-### Phase 3 — Abgaenge
+1. HGB-Größenklassenvermerk mit zwei Vergleichsjahren.
+2. Anlagenspiegel nach Paragraf 284 Absatz 3 HGB oder dokumentierte Befreiung nach Paragraf 288 HGB.
+3. Steuerliches Anlagenverzeichnis mit AfA- und Wahlrechtskennzeichen.
+4. Abstimmung zur Bilanz und zum Hauptbuch.
+5. Differenzen- und Belegliste mit Verantwortlichem und Klärungsfrist.
+6. Überleitungsrechnung zwischen Handels- und Steuerbilanz.
 
-- Verkauf: Buchwert ausbuchen, Erloes gegenrechnen.
-- Verschrottung: voll abschreiben.
-- Entnahme (Personenges): Privatanteil.
+## 7. Qualitätskontrolle
 
-### Phase 4 — AfA-Methoden
+1. Gehen alle Anfangsbestände aus dem Vorjahr hervor?
+2. Stimmen Zugänge und Abgänge mit Journal, Belegen und Zahlungsdaten überein?
+3. Sind Nutzungsbeginn und zeitanteilige AfA dokumentiert?
+4. Sind HGB- und Steuerwerte sowie außerbilanzielle Korrekturen getrennt?
+5. Stimmen Endbuchwerte mit Hauptbuch und Bilanz überein?
+6. Ist jede Abweichung von AfA-Tabellen oder Vorjahresmethode begründet?
+7. Wurde Paragraf 284 Absatz 3 HGB statt des aufgehobenen Paragrafen 268 Absatz 2 HGB verwendet?
 
-| Methode | Anwendung |
-|---|---|
-| Linear (§ 7 Abs. 1 EStG) | Standard nach AfA-Tabelle |
-| Degressiv (§ 7 Abs. 2 EStG) | Wachstumschancengesetz 2024: bewegliche WG 01.04.2024-31.12.2024 max. 20 %, 2-fach linear. Ab 01.07.2025 (Investitionsbooster): bewegliche WG max. 30 %, 3-fach linear, befristet bis 31.12.2027 (Koalitionsvertrag 2025). Für neue Zugaenge 2026: 30 %-Regel prüfen. |
-| Leistungs-AfA (§ 7 Abs. 1 S. 6 EStG) | Bewegliche WG mit messbarer Leistung |
-| Sonder-AfA § 7g Abs. 5 EStG | KMU: bis 40 % der AHK (für Anschaffungen ab 01.01.2024; für Anschaffungen vor 01.01.2024: 20 %; JStG 2020), frei verteilbar auf Anschaffungsjahr und 4 Folgejahre; Gewinngrenze 200.000 EUR im Vorjahr (§ 7g Abs. 6 EStG) |
-| Sonder-AfA § 7b EStG | Mietwohnungsneubau: 5 % p.a. für 4 Jahre; Bauantrag nach 31.12.2022 und vor 01.10.2029; EH-40-Standard mit QNG-Siegel; Baukostengrenze 5.200 EUR/m²; Foerderhoechstgrenze 4.000 EUR/m² (Stand: Wachstumschancengesetz 2024, BGBl. 2024 I Nr. 108) |
+## 8. Amtliche Quellen
 
-### Phase 5 — Investitionsabzugsbetrag § 7g EStG
-
-- IAB: bis zu 50 % der voraussichtlichen Anschaffungs- oder Herstellungskosten ausserbilanziell gewinnmindernd vor der Anschaffung; Hoechstbetrag 200.000 EUR im Wirtschaftsjahr (Werte aktuellen Stand prüfen).
-- Voraussetzung: einheitliche Gewinngrenze 200.000 EUR (durch das JStG 2020 für alle Einkunftsarten); aktuellen Stand fortlaufend prüfen.
-- IAB ist ausserbilanzielle Gewinnminderung (keine handelsrechtliche Ruecklage; nur in der steuerlichen Gewinnermittlung).
-- Investitionsfrist: bis zum Ende des **dritten** auf das Abzugsjahr **folgenden** Wirtschaftsjahres (§ 7g Abs. 3 S. 1 EStG) — insgesamt also rund 4 Jahre Zeit einschliesslich des Abzugsjahres.
-- Aufloesung im Jahr der tatsaechlichen Investition gegen Hinzurechnung; bei Wegfall der Voraussetzungen rueckwirkende Aufloesung mit Anpassung des Veranlagungsjahres und Verzinsung gem. § 233a AO.
-
-### Phase 6 — GWG
-
-- Sofortabschreibung bis 800 EUR netto.
-- Pool-Abschreibung 250-1.000 EUR (5 Jahre).
-- Wahlrecht im Wirtschaftsjahr einheitlich.
-
-## Strategie und Praxis-Tipps
-
-- Anlagenspiegel ist Pflicht bei mittelgrossen/großen Kapitalgesellschaften (§ 288 HGB).
-- AfA-Tabellen sind nicht zwingend (BMF-Tabellen sind Verwaltungsanweisung, aber praktisch verbindlich).
-- IAB § 7g EStG: gestaltungsstark, aber 3-Jahres-Frist beachten.
-- GWG-Wahlrecht jaehrlich, aber einheitlich im Wirtschaftsjahr.
-
-## Quellen und Updates
-
-Stand: 05/2026.
-
-- HGB §§ 247, 253, 268, 288.
-- EStG §§ 5, 6, 7, 7b, 7g.
-- BMF AfA-Tabellen.
-- Hinweis: degressive AfA 2026 nach § 7 Abs. 2 EStG: Investitionsbooster ab 01.07.2025 (max. 30 %, 3-fach linear, bis 31.12.2027) gilt für neue Zugaenge. Für Zugaenge 01.04.2024-31.12.2024: max. 20 %, 2-fach linear.
-- Hinweis: § 7g EStG Sonder-AfA 40 Prozent und IAB 50 Prozent stabil seit JStG 2020 (für Anschaffungen ab 01.01.2024); Gewinngrenze 200.000 EUR.
+1. Paragraf 267 HGB: https://www.gesetze-im-internet.de/hgb/__267.html
+2. Paragraf 267a HGB: https://www.gesetze-im-internet.de/hgb/__267a.html
+3. Paragraf 284 Absatz 3 HGB: https://www.gesetze-im-internet.de/hgb/__284.html
+4. Paragraf 288 HGB: https://www.gesetze-im-internet.de/hgb/__288.html
+5. Paragraf 7 EStG: https://www.gesetze-im-internet.de/estg/__7.html
+6. Paragraf 7g EStG: https://www.gesetze-im-internet.de/estg/__7g.html
+7. Paragraf 52 Absatz 16 EStG: https://www.gesetze-im-internet.de/estg/__52.html
+8. Amtliche AfA-Tabellen: https://www.bundesfinanzministerium.de/Web/DE/Themen/Steuern/Steuerverwaltungu-Steuerrecht/Betriebspruefung/AfA_Tabellen/afa_tabellen.html

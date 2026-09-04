@@ -79,7 +79,7 @@ Arbeitsgriff Arbeitsprodukt: Verfassungsbeschwerde, Stellungnahme, Normenkontrol
 | --- | --- | --- | --- |
 | Fallkern | Finale Entscheidung als Volltext (Beschluss oder Urteil BVerfG) | GG Artikel 1 Absatz 1 | Sofortvermerk mit Ergebnisrichtung, Risiko und nächstem Schritt |
 | Zulässigkeit und Frist | Frist, Form, Zuständigkeit, Rolle und statthafter Weg | GG Artikel 2 Absatz 1 | Fristenblatt oder Prozess-/Verfahrensroute |
-| Begründetheit | Entscheidungsvorschlag Kammer BVerfG | GG Artikel 2 Absatz 1 | Tatbestandsmatrix mit Beleg und Gegenargument |
+| Begründetheit | Prozessuale Kniffe und Rechtsprechungsanker | GG Artikel 2 Absatz 1 | Tatbestandsmatrix mit Beleg und Gegenargument |
 | Rechtsfolge | Nichtannahmerisiko, Verfassungsbeschwerde, Eilantrag, Normenkontrolle oder Verhältnismäßigkeitsprüfung | Beschwerdeführer für Grundrechtsbetroffenheit, Subsidiarität und Frist; Staat für Eingriff, Schranke und Verhältnismäßigkeit | Antrag, Entwurf, Entscheidungsvorschlag oder Mandantenbrief |
 
 ## 5. Normenanker, Tatbestandswichtigkeiten und Beweislast
@@ -128,8 +128,6 @@ Arbeitsgriff Arbeitsprodukt: Verfassungsbeschwerde, Stellungnahme, Normenkontrol
 - BVerfG, Beschluss vom 14.02.1973 - 1 BvR 112/65: Soraya stärkt Persönlichkeitsrecht und richterliche Rechtsfortbildung.
 - BVerfG, Urteil vom 15.12.1983 - 1 BvR 209/83 u.a.: Volkszählung entwickelt informationelle Selbstbestimmung.
 - BVerfG, Urteil vom 24.05.2006 - 2 BvR 669/04: Artikel 16 Absatz 1 GG schließt die zeitnahe Rücknahme einer durch eigene Täuschung erschlichenen Einbürgerung nicht grundsätzlich aus; die Rücknahme braucht eine hinreichend bestimmte gesetzliche Grundlage.
-- BVerfG, Beschluss vom 24.02.1971 - 1 BvR 435/68, BVerfGE 30, 173, Mephisto: Kunstfreiheit und Persönlichkeitsrecht sind fallbezogen abzuwägen.
-- BVerfG, Urteil vom 05.06.1973 - 1 BvR 536/72, BVerfGE 35, 202, Lebach: Berichterstattung und Resozialisierungsinteresse sind konkret zu gewichten.
 
 ## 9. Prüfraster
 
@@ -150,7 +148,7 @@ Arbeitsgriff Arbeitsprodukt: Verfassungsbeschwerde, Stellungnahme, Normenkontrol
 10.5. Beweislast: Beschwerdeführer für Grundrechtsbetroffenheit, Subsidiarität und Frist; Staat für Eingriff, Schranke und Verhältnismäßigkeit. Zeige ausdrücklich, welche Folge ein offener Beweis hat.
 10.6. Gegenposition: Formuliere den stärksten ernsthaften Angriff; hier setzt die Gegenseite typischerweise bei welcher Hoheitsakt und welche Frist sind entscheidend an.
 10.7. Erwiderung: Antworte mit konkretem Gegenbeleg, Auslegung oder Beweislastregel und ziehe die Folge auf Nichtannahmerisiko, Verfassungsbeschwerde, Eilantrag, Normenkontrolle oder Verhältnismäßigkeitsprüfung; ein bloßes Bestreiten genügt nicht.
-10.8. Arbeitsprodukt: Schließe mit Antrag, Tenor, Klausel, Entscheidung oder nächstem Schritt; hier typischerweise Ausgabe entlang der Kernfelder Finale Entscheidung als Volltext (Beschluss oder Urteil BVerfG), Entscheidungsvorschlag Kammer BVerfG, Prozessuale Kniffe und Rechtsprechungsanker, Subsidiarität und Frist: Kurzvermerk, Prüfmatrix, Entwurf, Fristenblatt oder Fragenliste mit nächstem Schritt.
+10.8. Arbeitsprodukt: Schließe mit Antrag, Tenor, Klausel, Entscheidung oder nächstem Schritt; hier typischerweise Ausgabe entlang der Kernfelder Finale Entscheidung als Volltext (Beschluss oder Urteil BVerfG), Prozessuale Kniffe und Rechtsprechungsanker, Entscheidungsvorschlag Kammer BVerfG, Fachgerichtliche Entscheidung prüfen: Kurzvermerk, Prüfmatrix, Entwurf, Fristenblatt oder Fragenliste mit nächstem Schritt.
 10.9. Quellenstatus: Ordne Rechtsprechung nach Tragweite ein; erste Fallanker sind BVerfG, Urteil vom 15.01.1958 - 1 BvR 400/51; BVerfG, Urteil vom 11.06.1958 - 1 BvR 596/56.
 
 ## 11. Outputvarianten und Empfängerwunsch
@@ -186,14 +184,14 @@ Die Landkarte dient der schnellen Auswahl. Sie ersetzt nicht die darunter ausfor
 | Arbeitsfeld | Entscheidende Weiche | Erstes Lieferstück |
 | --- | --- | --- |
 | Finale Entscheidung als Volltext (Beschluss oder Urteil BVerfG) | Vor der Volltext-Erstellung müssen die vorbereitenden Skills dieses Plugins durchlaufen sein. Tenor-Skizze mit Entscheidungsformel zu Hauptsache, Kosten und vorläufiger Vollstreckbarkeit oder Rechtsmittelbelehrung. | entscheidungsreifer Entwurf mit Tenor oder Verfügungssatz, Streitstoff, Beweiswürdigung und Nebenentscheidungen |
-| Entscheidungsvorschlag Kammer BVerfG | Entwirf die verfassungsgerichtliche Entscheidung aus Beschwerdegegenstand, Zulässigkeit, Annahmevoraussetzungen der Paragrafen 93a und 93b BVerfGG und tragender Grundrechtsprüfung. | Fachvotum zu Entscheidungsvorschlag Kammer BVerfG mit Tatbestandsmerkmalen, Aktenfundstellen, Beweislast, stärkster Gegenposition, Risiko und ausformulierter Rechtsfolge |
 | Prozessuale Kniffe und Rechtsprechungsanker | Trenne Beschwerdegegenstand, Beschwerdebefugnis, Rechtswegerschöpfung, materielle Subsidiarität, Monats- oder Jahresfrist, substantiierte Grundrechtsrüge und Annahmegrund. | Fachvotum zu Prozessuale Kniffe und Rechtsprechungsanker mit Tatbestandsmerkmalen, Aktenfundstellen, Beweislast, stärkster Gegenposition, Risiko und ausformulierter Rechtsfolge |
+| Entscheidungsvorschlag Kammer BVerfG | Bearbeite Entscheidungsvorschlag Kammer BVerfG entlang der Verfassungsrecht-Prüflinie: Beschwerdegegenstand, Hoheitsakt, Beschwerdeführer und Frist feststellen. | Fachvotum zu Entscheidungsvorschlag Kammer BVerfG mit Tatbestandsmerkmalen, Aktenfundstellen, Beweislast, stärkster Gegenposition, Risiko und ausformulierter Rechtsfolge |
+| Fachgerichtliche Entscheidung prüfen | Bearbeite Fachgerichtliche Entscheidung prüfen entlang der Verfassungsrecht-Prüflinie: Beschwerdegegenstand, Hoheitsakt, Beschwerdeführer und Frist feststellen. | Fachvotum zu Fachgerichtliche Entscheidung prüfen mit Tatbestandsmerkmalen, Aktenfundstellen, Beweislast, stärkster Gegenposition, Risiko und ausformulierter Rechtsfolge |
+| Nichtannahmebeschluss Entwurf | Bearbeite Nichtannahmebeschluss Entwurf entlang der Verfassungsrecht-Prüflinie: Beschwerdegegenstand, Hoheitsakt, Beschwerdeführer und Frist feststellen. | entscheidungsreifer Entwurf mit Tenor oder Verfügungssatz, Streitstoff, Beweiswürdigung und Nebenentscheidungen |
 | Subsidiarität und Frist | Bearbeite Subsidiarität und Frist entlang der Verfassungsrecht-Prüflinie: Beschwerdegegenstand, Hoheitsakt, Beschwerdeführer und Frist feststellen. | Fristenblatt zu Subsidiarität und Frist mit Auslöser, Beginn, Ende, Vorfrist, Beleg, Sofortmaßnahme und Verantwortlichem |
 | Annahme Prüfung Paragraf 93A | Bearbeite Annahme Prüfung Paragraf 93A entlang der Verfassungsrecht-Prüflinie: Beschwerdegegenstand, Hoheitsakt, Beschwerdeführer und Frist feststellen | gewichtete Prüfmatrix mit Tatbestandsmerkmalen, Fundstellen, Gegenposition, Beweislast, Risiko und Empfehlung |
 | Rechtswegerschöpfung Paragraf 90 Abs 2 | Bearbeite Rechtswegerschöpfung Paragraf 90 Abs 2 entlang der Verfassungsrecht-Prüflinie: Beschwerdegegenstand, Hoheitsakt, Beschwerdeführer und Frist feststellen | Fachvotum zu Rechtswegerschöpfung Paragraf 90 Abs 2 mit Tatbestandsmerkmalen, Aktenfundstellen, Beweislast, stärkster Gegenposition, Risiko und ausformulierter Rechtsfolge |
 | Grundrechtsdogmatik prüfen | Bearbeite Grundrechtsdogmatik prüfen entlang der Verfassungsrecht-Prüflinie: Beschwerdegegenstand, Hoheitsakt, Beschwerdeführer und Frist feststellen | Fachvotum zu Grundrechtsdogmatik prüfen mit Tatbestandsmerkmalen, Aktenfundstellen, Beweislast, stärkster Gegenposition, Risiko und ausformulierter Rechtsfolge |
-| Kammer und Senat Zuständigkeit | Bearbeite Kammer und Senat Zuständigkeit entlang der Verfassungsrecht-Prüflinie: Beschwerdegegenstand, Hoheitsakt, Beschwerdeführer und Frist feststellen | Fachvotum zu Kammer und Senat Zuständigkeit mit Tatbestandsmerkmalen, Aktenfundstellen, Beweislast, stärkster Gegenposition, Risiko und ausformulierter Rechtsfolge |
-| Votum Wissenschaftlicher Mitarbeiter | Bearbeite Votum Wissenschaftlicher Mitarbeiter entlang der Verfassungsrecht-Prüflinie: Beschwerdegegenstand, Hoheitsakt, Beschwerdeführer und Frist feststellen | Fachvotum zu Votum Wissenschaftlicher Mitarbeiter mit Tatbestandsmerkmalen, Aktenfundstellen, Beweislast, stärkster Gegenposition, Risiko und ausformulierter Rechtsfolge |
 
 ## 16. Fachspezifische Praxisrouten
 
@@ -203,67 +201,60 @@ Diese Routen stammen aus den konkreten Arbeitsthemen dieses Plugins. Wähle die 
 
 Bearbeitungsauftrag: Vor der Volltext-Erstellung müssen die vorbereitenden Skills dieses Plugins durchlaufen sein. Tenor-Skizze mit Entscheidungsformel zu Hauptsache, Kosten und vorläufiger Vollstreckbarkeit oder Rechtsmittelbelehrung. Fehlt eines dieser Stücke, weist der Skill darauf hin und unterbricht die Volltext-Erstellung, bevor er Phantasie produziert.
 Prüfschritte: Paragrafen 93a und folgende BVerfGG für Annahme; Paragraf 95 BVerfGG für Tenor bei Erfolg; Rubrum mit allen Parteien, Vertretern und Aktenzeichen; vollständig erfasster Sachverhalt und Streitstand; geprüfte Anspruchsgrundlagen oder Tatbestandsmerkmale mit Subsumtion.
-Norm- oder Entscheidungsbezug aus dem Fachmaterial: Paragrafen 90 und folgende BVerfGG; Paragrafen 93a und folgende BVerfGG für Annahme; Paragraf 95 BVerfGG für Tenor bei Erfolg; Paragrafen 93a und folgende BVerfGG für Annahme; Paragraf 95 BVerfGG für Tenor bei Erfolg; Rubrum mit allen Parteien, Vertretern und Aktenzeichen; vollständig erfasster Sachverhalt und Streitstand.
+Normbezug aus dem Fachmaterial: Paragrafen 90 und folgende BVerfGG; Paragrafen 93a und folgende BVerfGG für Annahme; Paragraf 95 BVerfGG für Tenor bei Erfolg; Paragrafen 93a und folgende BVerfGG für Annahme; Paragraf 95 BVerfGG für Tenor bei Erfolg; Rubrum mit allen Parteien, Vertretern und Aktenzeichen; vollständig erfasster Sachverhalt und Streitstand.
 Lieferstück: entscheidungsreifer Entwurf mit Tenor oder Verfügungssatz, Streitstoff, Beweiswürdigung und Nebenentscheidungen.
 
-### 16.2. Entscheidungsvorschlag Kammer BVerfG
-
-Bearbeitungsauftrag: Entwirf die verfassungsgerichtliche Entscheidung aus Beschwerdegegenstand, Zulässigkeit, Annahmevoraussetzungen der Paragrafen 93a und 93b BVerfGG und tragender Grundrechtsprüfung. Bei Nichtannahme keine Sachentscheidung vortäuschen; bei Stattgabe Entscheidungsform und Rechtsfolge nach Paragraf 95 BVerfGG bestimmen. Fachgerichtliche Rechtsanwendung nur am spezifischen Verfassungsrecht messen und Rubrum, Tenor, Gründe sowie Kostenfolge widerspruchsfrei halten.
-Norm- oder Entscheidungsbezug aus dem Fachmaterial: BVerfG, Urteil vom 15.01.1958; 1 BvR 400/51, BVerfGE 7, 198, Lüth: Grundrechte wirken als objektive Wertordnung in die Auslegung des Fachrechts hinein.
-Lieferstück: Fachvotum zu Entscheidungsvorschlag Kammer BVerfG mit Tatbestandsmerkmalen, Aktenfundstellen, Beweislast, stärkster Gegenposition, Risiko und ausformulierter Rechtsfolge.
-
-### 16.3. Prozessuale Kniffe und Rechtsprechungsanker
+### 16.2. Prozessuale Kniffe und Rechtsprechungsanker
 
 Bearbeitungsauftrag: Trenne Beschwerdegegenstand, Beschwerdebefugnis, Rechtswegerschöpfung, materielle Subsidiarität, Monats- oder Jahresfrist, substantiierte Grundrechtsrüge und Annahmegrund. Prüfe fachgerichtliche Gehörsrüge, Nachschieben innerhalb der Begründungsfrist, Aktenbezug und einen Antrag nach Paragraf 32 BVerfGG; liefere Zulässigkeitsvotum, Annahmeprognose und gegebenenfalls eine echte Folgenabwägung statt verkappter Hauptsacheprüfung.
 Lieferstück: Fachvotum zu Prozessuale Kniffe und Rechtsprechungsanker mit Tatbestandsmerkmalen, Aktenfundstellen, Beweislast, stärkster Gegenposition, Risiko und ausformulierter Rechtsfolge.
 
-### 16.4. Subsidiarität und Frist
+### 16.3. Entscheidungsvorschlag Kammer BVerfG
+
+Bearbeitungsauftrag: Bearbeite Entscheidungsvorschlag Kammer BVerfG entlang der Verfassungsrecht-Prüflinie: Beschwerdegegenstand, Hoheitsakt, Beschwerdeführer und Frist feststellen. Entwirf die im Fachverfahren richtige Entscheidungsform mit bestimmtem Ausspruch, festgestelltem Sachverhalt, offen gelegter Beweiswürdigung, tragender Subsumtion, Nebenentscheidungen und nur tatsächlich statthaftem Rechtsbehelf.
+Lieferstück: Fachvotum zu Entscheidungsvorschlag Kammer BVerfG mit Tatbestandsmerkmalen, Aktenfundstellen, Beweislast, stärkster Gegenposition, Risiko und ausformulierter Rechtsfolge.
+
+### 16.4. Fachgerichtliche Entscheidung prüfen
+
+Bearbeitungsauftrag: Bearbeite Fachgerichtliche Entscheidung prüfen entlang der Verfassungsrecht-Prüflinie: Beschwerdegegenstand, Hoheitsakt, Beschwerdeführer und Frist feststellen. Entwirf die im Fachverfahren richtige Entscheidungsform mit bestimmtem Ausspruch, festgestelltem Sachverhalt, offen gelegter Beweiswürdigung, tragender Subsumtion, Nebenentscheidungen und nur tatsächlich statthaftem Rechtsbehelf.
+Lieferstück: Fachvotum zu Fachgerichtliche Entscheidung prüfen mit Tatbestandsmerkmalen, Aktenfundstellen, Beweislast, stärkster Gegenposition, Risiko und ausformulierter Rechtsfolge.
+
+### 16.5. Nichtannahmebeschluss Entwurf
+
+Bearbeitungsauftrag: Bearbeite Nichtannahmebeschluss Entwurf entlang der Verfassungsrecht-Prüflinie: Beschwerdegegenstand, Hoheitsakt, Beschwerdeführer und Frist feststellen. Entwirf die im Fachverfahren richtige Entscheidungsform mit bestimmtem Ausspruch, festgestelltem Sachverhalt, offen gelegter Beweiswürdigung, tragender Subsumtion, Nebenentscheidungen und nur tatsächlich statthaftem Rechtsbehelf.
+Lieferstück: entscheidungsreifer Entwurf mit Tenor oder Verfügungssatz, Streitstoff, Beweiswürdigung und Nebenentscheidungen.
+
+### 16.6. Subsidiarität und Frist
 
 Bearbeitungsauftrag: Bearbeite Subsidiarität und Frist entlang der Verfassungsrecht-Prüflinie: Beschwerdegegenstand, Hoheitsakt, Beschwerdeführer und Frist feststellen. Rekonstruiere Auslöser und Zugang, qualifiziere die Frist, berechne Beginn und Ende kalendarisch und prüfe Hemmung, Ablaufhemmung, Vorfrist, Zugangsnachweis und statthafte Fristrettung getrennt für materielles und Verfahrensrecht.
-Norm- oder Entscheidungsbezug aus dem Fachmaterial: BVerfG, Urteil vom 15.01.1958; 1 BvR 400/51, BVerfGE 7, 198, Lüth: Grundrechte wirken als objektive Wertordnung in die Auslegung des Fachrechts hinein.
 Lieferstück: Fristenblatt zu Subsidiarität und Frist mit Auslöser, Beginn, Ende, Vorfrist, Beleg, Sofortmaßnahme und Verantwortlichem.
 
-### 16.5. Annahme Prüfung Paragraf 93A
+### 16.7. Annahme Prüfung Paragraf 93A
 
 Bearbeitungsauftrag: Bearbeite Annahme Prüfung Paragraf 93A entlang der Verfassungsrecht-Prüflinie: Beschwerdegegenstand, Hoheitsakt, Beschwerdeführer und Frist feststellen.
 Lieferstück: gewichtete Prüfmatrix mit Tatbestandsmerkmalen, Fundstellen, Gegenposition, Beweislast, Risiko und Empfehlung.
 
-### 16.6. Rechtswegerschöpfung Paragraf 90 Abs 2
+### 16.8. Rechtswegerschöpfung Paragraf 90 Abs 2
 
 Bearbeitungsauftrag: Bearbeite Rechtswegerschöpfung Paragraf 90 Abs 2 entlang der Verfassungsrecht-Prüflinie: Beschwerdegegenstand, Hoheitsakt, Beschwerdeführer und Frist feststellen.
-Norm- oder Entscheidungsbezug aus dem Fachmaterial: BVerfG, Urteil vom 15.01.1958; 1 BvR 400/51, BVerfGE 7, 198, Lüth: Grundrechte wirken als objektive Wertordnung in die Auslegung des Fachrechts hinein.
 Lieferstück: Fachvotum zu Rechtswegerschöpfung Paragraf 90 Abs 2 mit Tatbestandsmerkmalen, Aktenfundstellen, Beweislast, stärkster Gegenposition, Risiko und ausformulierter Rechtsfolge.
 
-### 16.7. Grundrechtsdogmatik prüfen
+### 16.9. Grundrechtsdogmatik prüfen
 
 Bearbeitungsauftrag: Bearbeite Grundrechtsdogmatik prüfen entlang der Verfassungsrecht-Prüflinie: Beschwerdegegenstand, Hoheitsakt, Beschwerdeführer und Frist feststellen.
-Norm- oder Entscheidungsbezug aus dem Fachmaterial: BVerfG, Urteil vom 15.01.1958; 1 BvR 400/51, BVerfGE 7, 198, Lüth: Grundrechte wirken als objektive Wertordnung in die Auslegung des Fachrechts hinein.
 Lieferstück: Fachvotum zu Grundrechtsdogmatik prüfen mit Tatbestandsmerkmalen, Aktenfundstellen, Beweislast, stärkster Gegenposition, Risiko und ausformulierter Rechtsfolge.
 
-### 16.8. Kammer und Senat Zuständigkeit
+### 16.10. Kammer und Senat Zuständigkeit
 
 Bearbeitungsauftrag: Bearbeite Kammer und Senat Zuständigkeit entlang der Verfassungsrecht-Prüflinie: Beschwerdegegenstand, Hoheitsakt, Beschwerdeführer und Frist feststellen.
-Norm- oder Entscheidungsbezug aus dem Fachmaterial: BVerfG, Urteil vom 15.01.1958; 1 BvR 400/51, BVerfGE 7, 198, Lüth: Grundrechte wirken als objektive Wertordnung in die Auslegung des Fachrechts hinein.
 Lieferstück: Fachvotum zu Kammer und Senat Zuständigkeit mit Tatbestandsmerkmalen, Aktenfundstellen, Beweislast, stärkster Gegenposition, Risiko und ausformulierter Rechtsfolge.
 
-### 16.9. Votum Wissenschaftlicher Mitarbeiter
+### 16.11. Votum Wissenschaftlicher Mitarbeiter
 
 Bearbeitungsauftrag: Bearbeite Votum Wissenschaftlicher Mitarbeiter entlang der Verfassungsrecht-Prüflinie: Beschwerdegegenstand, Hoheitsakt, Beschwerdeführer und Frist feststellen.
-Norm- oder Entscheidungsbezug aus dem Fachmaterial: BVerfG, Beschluss vom 30.04.2003; 1 PBvU 1/02, BVerfGE 107, 395: Rechtliches Gehör und effektiver Rechtsschutz verlangen eine fachgerichtliche Möglichkeit zur Selbstkorrektur entscheidungserheblicher Gehörsverstöße.
 Lieferstück: Fachvotum zu Votum Wissenschaftlicher Mitarbeiter mit Tatbestandsmerkmalen, Aktenfundstellen, Beweislast, stärkster Gegenposition, Risiko und ausformulierter Rechtsfolge.
 
-### 16.10. Substantiierungs Prüfung Paragraf 92
+### 16.12. Substantiierungs Prüfung Paragraf 92
 
 Bearbeitungsauftrag: Bearbeite Substantiierungs Prüfung Paragraf 92 entlang der Verfassungsrecht-Prüflinie: Beschwerdegegenstand, Hoheitsakt, Beschwerdeführer und Frist feststellen.
-Norm- oder Entscheidungsbezug aus dem Fachmaterial: BVerfG, Urteil vom 15.01.1958; 1 BvR 400/51, BVerfGE 7, 198, Lüth: Grundrechte wirken als objektive Wertordnung in die Auslegung des Fachrechts hinein.
 Lieferstück: gewichtete Prüfmatrix mit Tatbestandsmerkmalen, Fundstellen, Gegenposition, Beweislast, Risiko und Empfehlung.
-
-### 16.11. Beschwerdegegenstand, Hoheitsakt
-
-Bearbeitungsauftrag: Beschwerdegegenstand, Hoheitsakt, Beschwerdeführer und Frist feststellen.
-Lieferstück: frist- und formgerechter Entwurf mit Antrag, tragenden Tatsachen, Beweisangeboten, Anlagen und Einreichungsweg.
-
-### 16.12. Zulässigkeit
-
-Bearbeitungsauftrag: Rechtswegerschöpfung, Subsidiarität, Beschwerdebefugnis und Form prüfen.
-Lieferstück: Fachvotum zu Zulässigkeit mit Tatbestandsmerkmalen, Aktenfundstellen, Beweislast, stärkster Gegenposition, Risiko und ausformulierter Rechtsfolge.

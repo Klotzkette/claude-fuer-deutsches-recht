@@ -178,11 +178,11 @@ Die Landkarte dient der schnellen Auswahl. Sie ersetzt nicht die darunter ausfor
 | --- | --- | --- |
 | Anwaltsschriftsatz-Stilrichtlinie | Bearbeite Anwaltsschriftsatz-Stilrichtlinie: antrag, Streitgegenstand, Schlüssigkeit, Erheblichkeit, Beweislast, Verfügung und Tenor in eine Relation bringen. | Entscheidungsbaustein zu Anwaltsschriftsatz-Stilrichtlinie mit Antrag, Aktenfund, Rechtsmaßstab, Beweisfolge, Gegenposition, Tenoroption und nächster Verfügung |
 | Verwaltungsprozess-Modus (VwGO) | Aktenauszug für VwGO-Verfahren erstellen: Anfechtungs- Verpflichtungsklage Berufung Paragraf 124 VwGO Revision Paragraf 132 VwGO Eilrechtsschutz Paragrafen 80 123 VwGO. | Entscheidungsbaustein zu Verwaltungsprozess-Modus (VwGO) mit Antrag, Aktenfund, Rechtsmaßstab, Beweisfolge, Gegenposition, Tenoroption und nächster Verfügung |
-| Arbeitsgerichtsverfahren-Modus (ArbGG) | Abgrenzung zu zivilprozess-modus (ZPO) und sozialgerichtsverfahren-modus (SGG). → Klagefrist 3 Wochen ab Zugang (Paragraf 4 KSchG) — sofort prüfen! | Entscheidungsbaustein zu Arbeitsgerichtsverfahren-Modus (ArbGG) mit Antrag, Aktenfund, Rechtsmaßstab, Beweisfolge, Gegenposition, Tenoroption und nächster Verfügung |
 | Sozialgerichtsverfahren-Modus (SGG) | Aktenauszug für SGG-Verfahren erstellen: Klage Berufung Paragrafen 143 und folgende SGG Eilantrag Paragraf 86b SGG Widerspruchsverfahren. (Paragraf 86b SGG — einstweilige Anordnung oder aufschiebende Wirkung) | Entscheidungsbaustein zu Sozialgerichtsverfahren-Modus (SGG) mit Antrag, Aktenfund, Rechtsmaßstab, Beweisfolge, Gegenposition, Tenoroption und nächster Verfügung |
 | AkzG: Aktenauszug Bauleiter | Bearbeite AkzG: Aktenauszug Bauleiter: antrag, Streitgegenstand, Schlüssigkeit, Erheblichkeit, Beweislast, Verfügung und Tenor in eine Relation bringen. | Akten- und Belegmatrix zu AkzG: Aktenauszug Bauleiter mit Datum, Urheber, Fundstelle, Widerspruch, Fehlteil und nächstem Bearbeitungsschritt |
 | Fristen und Terminkalender | Bearbeite Fristen und Terminkalender: antrag, Streitgegenstand, Schlüssigkeit, Erheblichkeit, Beweislast, Verfügung und Tenor in eine Relation bringen. | Fristenblatt zu Fristen und Terminkalender mit Auslöser, Beginn, Ende, Vorfrist, Beleg, Sofortmaßnahme und Verantwortlichem |
 | Schwerpunktthemen-Identifikation | Bearbeite Schwerpunktthemen-Identifikation: antrag, Streitgegenstand, Schlüssigkeit, Erheblichkeit, Beweislast, Verfügung und Tenor in eine Relation bringen. | Entscheidungsbaustein zu Schwerpunktthemen-Identifikation mit Antrag, Aktenfund, Rechtsmaßstab, Beweisfolge, Gegenposition, Tenoroption und nächster Verfügung |
+| Arbeitsgerichtsverfahren-Modus (ArbGG) | Abgrenzung zu zivilprozess-modus (ZPO) und sozialgerichtsverfahren-modus (SGG). → Klagefrist 3 Wochen ab Zugang (Paragraf 4 KSchG) — sofort prüfen! | Entscheidungsbaustein zu Arbeitsgerichtsverfahren-Modus (ArbGG) mit Antrag, Aktenfund, Rechtsmaßstab, Beweisfolge, Gegenposition, Tenoroption und nächster Verfügung |
 | Beweismittel — Gegenüberstellung | Welche Beweismittel sind angeboten aber noch nicht erhoben? Wurden Beweismittel vom Gericht als präkludiert zurückgewiesen (Paragrafen 296, 531 ZPO)? | Beweismatrix zu Beweismittel — Gegenüberstellung mit Tatfrage, Beweislast, Beweismittel, Fundstelle, Gegenposition und Folge eines offenen Nachweises |
 | Einleitungssatz-Generator | Bearbeite Einleitungssatz-Generator: antrag, Streitgegenstand, Schlüssigkeit, Erheblichkeit, Beweislast, Verfügung und Tenor in eine Relation bringen. | Entscheidungsbaustein zu Einleitungssatz-Generator mit Antrag, Aktenfund, Rechtsmaßstab, Beweisfolge, Gegenposition, Tenoroption und nächster Verfügung |
 
@@ -194,44 +194,43 @@ Diese Routen stammen aus den konkreten Arbeitsthemen dieses Plugins. Wähle die 
 
 Bearbeitungsauftrag: Bearbeite Anwaltsschriftsatz-Stilrichtlinie: antrag, Streitgegenstand, Schlüssigkeit, Erheblichkeit, Beweislast, Verfügung und Tenor in eine Relation bringen. Verbinde den konkreten Aktenfund mit Tatbestandsmerkmal, Gegenposition, Beweislast, Rechtsfolge und dem nächsten vollständig ausformulierten Arbeitsprodukt.
 Prüfschritte: Paragraf 130 ZPO — Pflichtinhalt anwaltlicher Schriftsätze (Bezeichnung der Partei, Anträge, Tatsachen, Beweismittel); Paragraf 131 ZPO — Beizufügende Schriftstücke und Anlagen; Paragraf 253 Absatz 2 ZPO — Klageschrift: bestimmter Antrag, Sachverhalt, Benennung Gericht; Paragraf 520 Absatz 3 ZPO — Berufungsbegründung: Bezeichnung der Angriffspunkte, neues Vorbringen; Paragraf 551 Absatz 3 ZPO — Revisionsbegründung: Angabe der Revisionsgründe.
-Norm- oder Entscheidungsbezug aus dem Fachmaterial: Paragraf 130 ZPO — Pflichtinhalt anwaltlicher Schriftsätze (Bezeichnung der Partei, Anträge, Tatsachen, Beweismittel); Paragraf 131 ZPO — Beizufügende Schriftstücke und Anlagen; Paragraf 253 Absatz 2 ZPO — Klageschrift: bestimmter Antrag, Sachverhalt, Benennung Gericht.
+Normbezug aus dem Fachmaterial: Paragraf 130 ZPO — Pflichtinhalt anwaltlicher Schriftsätze (Bezeichnung der Partei, Anträge, Tatsachen, Beweismittel); Paragraf 131 ZPO — Beizufügende Schriftstücke und Anlagen; Paragraf 253 Absatz 2 ZPO — Klageschrift: bestimmter Antrag, Sachverhalt, Benennung Gericht.
 Lieferstück: Entscheidungsbaustein zu Anwaltsschriftsatz-Stilrichtlinie mit Antrag, Aktenfund, Rechtsmaßstab, Beweisfolge, Gegenposition, Tenoroption und nächster Verfügung.
 
 ### 16.2. Verwaltungsprozess-Modus (VwGO)
 
 Bearbeitungsauftrag: Aktenauszug für VwGO-Verfahren erstellen: Anfechtungs- Verpflichtungsklage Berufung Paragraf 124 VwGO Revision Paragraf 132 VwGO Eilrechtsschutz Paragrafen 80 123 VwGO. (Klagefrist 1 Monat ab Zustellung — Paragraf 74 VwGO!) 2. (Paragraf 80 Absatz 5 VwGO oder Paragraf 123 VwGO).
-Norm- oder Entscheidungsbezug aus dem Fachmaterial: Aktenauszug für VwGO-Verfahren erstellen: Anfechtungs- Verpflichtungsklage Berufung Paragraf 124 VwGO Revision Paragraf 132 VwGO Eilrechtsschutz Paragrafen 80 123 VwGO.
+Normbezug aus dem Fachmaterial: Aktenauszug für VwGO-Verfahren erstellen: Anfechtungs- Verpflichtungsklage Berufung Paragraf 124 VwGO Revision Paragraf 132 VwGO Eilrechtsschutz Paragrafen 80 123 VwGO.
 Lieferstück: Entscheidungsbaustein zu Verwaltungsprozess-Modus (VwGO) mit Antrag, Aktenfund, Rechtsmaßstab, Beweisfolge, Gegenposition, Tenoroption und nächster Verfügung.
 
-### 16.3. Arbeitsgerichtsverfahren-Modus (ArbGG)
-
-Bearbeitungsauftrag: Abgrenzung zu zivilprozess-modus (ZPO) und sozialgerichtsverfahren-modus (SGG). → Klagefrist 3 Wochen ab Zugang (Paragraf 4 KSchG) — sofort prüfen!
-Prüfschritte: Aktenauszug für ArbGG-Verfahren erstellen: Gütetermin Kammerverfahren Urteilsverfahren Beschlussverfahren; KSchG-Dreiwochenfrist Paragraf 4 KSchG Berufung Paragraf 64 ArbGG Revision Paragraf 72 ArbGG; Normen ArbGG Paragrafen 2 54 64 72 KSchG Paragrafen.
-Norm- oder Entscheidungsbezug aus dem Fachmaterial: KSchG-Dreiwochenfrist Paragraf 4 KSchG Berufung Paragraf 64 ArbGG Revision Paragraf 72 ArbGG; Aktenauszug für ArbGG-Verfahren erstellen: Gütetermin Kammerverfahren Urteilsverfahren Beschlussverfahren; KSchG-Dreiwochenfrist Paragraf 4 KSchG Berufung Paragraf 64 ArbGG Revision Paragraf 72 ArbGG; Normen ArbGG Paragrafen 2 54 64 72 KSchG Paragrafen.
-Lieferstück: Entscheidungsbaustein zu Arbeitsgerichtsverfahren-Modus (ArbGG) mit Antrag, Aktenfund, Rechtsmaßstab, Beweisfolge, Gegenposition, Tenoroption und nächster Verfügung.
-
-### 16.4. Sozialgerichtsverfahren-Modus (SGG)
+### 16.3. Sozialgerichtsverfahren-Modus (SGG)
 
 Bearbeitungsauftrag: Aktenauszug für SGG-Verfahren erstellen: Klage Berufung Paragrafen 143 und folgende SGG Eilantrag Paragraf 86b SGG Widerspruchsverfahren. (Paragraf 86b SGG — einstweilige Anordnung oder aufschiebende Wirkung).
-Norm- oder Entscheidungsbezug aus dem Fachmaterial: Aktenauszug für SGG-Verfahren erstellen: Klage Berufung Paragrafen 143 und folgende SGG Eilantrag Paragraf 86b SGG Widerspruchsverfahren.
+Normbezug aus dem Fachmaterial: Aktenauszug für SGG-Verfahren erstellen: Klage Berufung Paragrafen 143 und folgende SGG Eilantrag Paragraf 86b SGG Widerspruchsverfahren.
 Lieferstück: Entscheidungsbaustein zu Sozialgerichtsverfahren-Modus (SGG) mit Antrag, Aktenfund, Rechtsmaßstab, Beweisfolge, Gegenposition, Tenoroption und nächster Verfügung.
 
-### 16.5. AkzG: Aktenauszug Bauleiter
+### 16.4. AkzG: Aktenauszug Bauleiter
 
 Bearbeitungsauftrag: Bearbeite AkzG: Aktenauszug Bauleiter: antrag, Streitgegenstand, Schlüssigkeit, Erheblichkeit, Beweislast, Verfügung und Tenor in eine Relation bringen. Verbinde den konkreten Aktenfund mit Tatbestandsmerkmal, Gegenposition, Beweislast, Rechtsfolge und dem nächsten vollständig ausformulierten Arbeitsprodukt.
 Lieferstück: Akten- und Belegmatrix zu AkzG: Aktenauszug Bauleiter mit Datum, Urheber, Fundstelle, Widerspruch, Fehlteil und nächstem Bearbeitungsschritt.
 
-### 16.6. Fristen und Terminkalender
+### 16.5. Fristen und Terminkalender
 
 Bearbeitungsauftrag: Bearbeite Fristen und Terminkalender: antrag, Streitgegenstand, Schlüssigkeit, Erheblichkeit, Beweislast, Verfügung und Tenor in eine Relation bringen. Rekonstruiere Auslöser und Zugang, qualifiziere die Frist, berechne Beginn und Ende kalendarisch und prüfe Hemmung, Ablaufhemmung, Vorfrist, Zugangsnachweis und statthafte Fristrettung getrennt für materielles und Verfahrensrecht.
 Lieferstück: Fristenblatt zu Fristen und Terminkalender mit Auslöser, Beginn, Ende, Vorfrist, Beleg, Sofortmaßnahme und Verantwortlichem.
 
-### 16.7. Schwerpunktthemen-Identifikation
+### 16.6. Schwerpunktthemen-Identifikation
 
 Bearbeitungsauftrag: Bearbeite Schwerpunktthemen-Identifikation: antrag, Streitgegenstand, Schlüssigkeit, Erheblichkeit, Beweislast, Verfügung und Tenor in eine Relation bringen. Verbinde den konkreten Aktenfund mit Tatbestandsmerkmal, Gegenposition, Beweislast, Rechtsfolge und dem nächsten vollständig ausformulierten Arbeitsprodukt.
 Prüfschritte: Hat das Gericht bereits Hinweise nach Paragraf 139 ZPO erteilt, auf welche Punkte es ankommt?
-Norm- oder Entscheidungsbezug aus dem Fachmaterial: Hat das Gericht bereits Hinweise nach Paragraf 139 ZPO erteilt, auf welche Punkte es ankommt?
+Normbezug aus dem Fachmaterial: Hat das Gericht bereits Hinweise nach Paragraf 139 ZPO erteilt, auf welche Punkte es ankommt?
 Lieferstück: Entscheidungsbaustein zu Schwerpunktthemen-Identifikation mit Antrag, Aktenfund, Rechtsmaßstab, Beweisfolge, Gegenposition, Tenoroption und nächster Verfügung.
+
+### 16.7. Arbeitsgerichtsverfahren-Modus (ArbGG)
+
+Bearbeitungsauftrag: Abgrenzung zu zivilprozess-modus (ZPO) und sozialgerichtsverfahren-modus (SGG). → Klagefrist 3 Wochen ab Zugang (Paragraf 4 KSchG) — sofort prüfen!
+Normbezug aus dem Fachmaterial: KSchG-Dreiwochenfrist Paragraf 4 KSchG Berufung Paragraf 64 ArbGG Revision Paragraf 72 ArbGG.
+Lieferstück: Entscheidungsbaustein zu Arbeitsgerichtsverfahren-Modus (ArbGG) mit Antrag, Aktenfund, Rechtsmaßstab, Beweisfolge, Gegenposition, Tenoroption und nächster Verfügung.
 
 ### 16.8. Beweismittel — Gegenüberstellung
 

@@ -79,7 +79,7 @@ Arbeitsgriff Arbeitsprodukt: Checkout-Matrix, UX-Korrekturen, AGB-Redline, Wider
 | --- | --- | --- | --- |
 | Fallkern | Fernabsatzvertrag Paragraf 312c BGB | BGB Paragraf 312 ff. und EGBGB Artikel 246a | Sofortvermerk mit Ergebnisrichtung, Risiko und nächstem Schritt |
 | Zulässigkeit und Frist | Frist, Form, Zuständigkeit, Rolle und statthafter Weg | BGB Paragraf 312j und Paragraf 312k | Fristenblatt oder Prozess-/Verfahrensroute |
-| Begründetheit | Impressum / Anbieterkennzeichnung nach DDG | BGB Paragraf 312j und Paragraf 312k | Tatbestandsmatrix mit Beleg und Gegenargument |
+| Begründetheit | OSS und IOSS im E-Commerce | BGB Paragraf 312j und Paragraf 312k | Tatbestandsmatrix mit Beleg und Gegenargument |
 | Rechtsfolge | Checkout-Matrix, UX-Korrekturen, AGB-Redline, Widerrufs- oder Kündigungstext, Abmahnantwort oder Verfügungsakte erstellen | Nachweisachse Durchsetzung und Beweis: Testkauf, Log, Version, Zeitstempel, Abmahnung, Unterlassungsumfang, Dringlichkeit und Abhilfe ordnen | Antrag, Entwurf, Entscheidungsvorschlag oder Mandantenbrief |
 
 ## 5. Normenanker, Tatbestandswichtigkeiten und Beweislast
@@ -96,9 +96,7 @@ Arbeitsgriff Arbeitsprodukt: Checkout-Matrix, UX-Korrekturen, AGB-Redline, Wider
 
 ## 6. Rechtsprechungsanker, Quellenstatus und Rechtsfolgen
 
-| Rechtsprechungsanker | Quellenstatus | Nutzwert im Fall |
-| --- | --- | --- |
-| EuGH C-186/16 (Andriciuc) und C-26/13 (Kasler) | aus Skillmaterial extrahierter Anker; vor Zitierung am Aktenstand oder an belastbarer Quelle sichern | Klauselkontrolle – curia.europa.eu |
+- Rechtsprechung nur zitieren, wenn Gericht, Datum und Aktenzeichen sicher sind; sonst als Recherche- und Prüfbedarf mit konkreter Fallfrage markieren.
 - Rechtsfolge zuerst als Arbeitsprodukt denken: Checkout-Matrix, UX-Korrekturen, AGB-Redline, Widerrufs- oder Kündigungstext, Abmahnantwort oder Verfügungsakte erstellen
 - Quellenstatus immer sichtbar machen: Aktenfund, Normtext, Profilanker, gesicherte Rechtsprechung oder offene Prüfung.
 
@@ -121,7 +119,7 @@ Arbeitsgriff Arbeitsprodukt: Checkout-Matrix, UX-Korrekturen, AGB-Redline, Wider
 
 ## 8. Leitentscheidungen
 
-- EuGH C-186/16 (Andriciuc) und C-26/13 (Kasler) zur Klauselkontrolle – curia.europa.eu.
+- Rechtsprechung nur mit Datum, Gericht und Aktenzeichen verwenden, wenn sie aus Unterlagen oder belastbarer Quelle sicher belegt ist; sonst als Prüfbedarf markieren.
 
 ## 9. Prüfraster
 
@@ -143,7 +141,7 @@ Arbeitsgriff Arbeitsprodukt: Checkout-Matrix, UX-Korrekturen, AGB-Redline, Wider
 10.6. Gegenposition: Formuliere den stärksten ernsthaften Angriff; hier setzt die Gegenseite typischerweise bei wann und mit welchem Text kommt der Vertrag zustande und welcher Gesamtpreis wird unmittelbar vorher gezeigt an.
 10.7. Erwiderung: Antworte mit konkretem Gegenbeleg, Auslegung oder Beweislastregel und ziehe die Folge auf Checkout-Matrix, UX-Korrekturen, AGB-Redline, Widerrufs- oder Kündigungstext, Abmahnantwort oder Verfügungsakte erstellen; ein bloßes Bestreiten genügt nicht.
 10.8. Arbeitsprodukt: Schließe mit Antrag, Tenor, Klausel, Entscheidung oder nächstem Schritt; hier typischerweise Journey-Matrix: Schritt, Seite, Nutzeraktion, Pflichtinformation, Ist-Text, Rechtsanker, Beleg, Fehler und Korrektur; Produktregime: Produkt, Vertragsart, Bereitstellung, Update, Mangel, Frist, Abhilfe, Rücktritt oder Minderung und Beweis.
-10.9. Quellenstatus: Ordne Rechtsprechung nach Tragweite ein; erste Fallanker sind EuGH C-186/16 (Andriciuc) und C-26/13 (Kasler).
+10.9. Quellenstatus: Ordne Rechtsprechung nach Tragweite ein; erste Fallanker sind erst nach verifizierter Recherche einzusetzen.
 
 ## 11. Outputvarianten und Empfängerwunsch
 
@@ -178,14 +176,14 @@ Die Landkarte dient der schnellen Auswahl. Sie ersetzt nicht die darunter ausfor
 | Arbeitsfeld | Entscheidende Weiche | Erstes Lieferstück |
 | --- | --- | --- |
 | Fernabsatzvertrag Paragraf 312c BGB | Ein Fernabsatzvertrag ist ein Vertrag zwischen Unternehmer und Verbraucher, der unter ausschließlicher Verwendung von Fernkommunikationsmitteln (Internet, Telefon, E-Mail) und im Rahmen eines organisierten. | verhandlungsfähige Fassung mit Ausgangstext, Änderung, Begründung, Rückfallposition und Vollzugscheck |
+| OSS und IOSS im E-Commerce | Ordne grenzüberschreitende B2C-Umsätze dem Union-OSS nach Paragraf 18j UStG, dem IOSS nach Paragraf 18k UStG oder dem allgemeinen Besteuerungsverfahren zu. | Fachvotum zu OSS und IOSS im E-Commerce mit Tatbestandsmerkmalen, Aktenfundstellen, Beweislast, stärkster Gegenposition, Risiko und ausformulierter Rechtsfolge |
 | Impressum / Anbieterkennzeichnung nach DDG | Mai 2024 ist das Digitale-Dienste-Gesetz (DDG) in Kraft und ersetzt das TMG. Paragraf 5 DDG regelt die Anbieterkennzeichnungspflicht für geschäftsmäßige, in der Regel gegen Entgelt angebotene Telemedien. | Fachvotum zu Impressum / Anbieterkennzeichnung nach DDG mit Tatbestandsmerkmalen, Aktenfundstellen, Beweislast, stärkster Gegenposition, Risiko und ausformulierter Rechtsfolge |
 | AGB im Online-Shop – Einbeziehung Paragraf 305 BGB | Allgemeine Geschäftsbedingungen (AGB) werden nur Vertragsbestandteil, wenn sie wirksam einbezogen wurden (Paragraf 305 II BGB) und einer Inhaltskontrolle. | Fachvotum zu AGB im Online-Shop – Einbeziehung Paragraf 305 BGB mit Tatbestandsmerkmalen, Aktenfundstellen, Beweislast, stärkster Gegenposition, Risiko und ausformulierter. |
 | Widerrufsrecht Verbraucher Paragrafen 355 312g BGB | Bei Fernabsatz- und außerhalb von Geschäftsräumen geschlossenen Verträgen steht dem Verbraucher ein Widerrufsrecht von 14 Tagen zu. | Fachvotum zu Widerrufsrecht Verbraucher Paragrafen 355 312g BGB mit Tatbestandsmerkmalen, Aktenfundstellen, Beweislast, stärkster Gegenposition, Risiko und ausformulierter. |
 | Abmahnung UWG Unterlassungserklärung | Trenne Shop-Frontend, Bestellstrecke, Informationspflicht, Preis, Widerruf, Mängelrecht, Werbung, Tracking und Plattform-/Marketplace-Pflichten. | versandfertiges Schreiben mit Betreff, Sachverhaltskern, Rechtsgrund, konkretem Begehren, Frist und Anlagenverzeichnis |
 | Gewährleistung digitale Produkte Warenkauf Paragrafen 327 ff 434 ff BGB | Zuerst trennen: reine digitale Inhalte/Dienstleistungen nach Paragrafen 327 und folgende BGB, Ware mit digitalen Elementen nach Paragrafen 475b, 475c BGB oder klassischer Warenkauf nach Paragrafen 433, 434 BGB. | Fachvotum zu Gewährleistung digitale Produkte Warenkauf Paragrafen 327 ff 434 ff BGB mit Tatbestandsmerkmalen, Aktenfundstellen, Beweislast, stärkster Gegenposition, Risiko. |
-| Button-Lösung Paragraf 312j BGB | Bearbeite Button-Lösung Paragraf 312j BGB entlang der Onlinehandel, Plattformen und digitale Verbraucherprozesse-Prüflinie: Nutzerstrecke aufnehmen: Gerät, URL, Land, Sprache, Nutzerrolle, Produkt, Warenkorb, Checkout. | Fachvotum zu Button-Lösung Paragraf 312j BGB mit Tatbestandsmerkmalen, Aktenfundstellen, Beweislast, stärkster Gegenposition, Risiko und ausformulierter Rechtsfolge |
 | Shop Check Checkout Widerruf Impressum | Trenne Shop-Frontend, Bestellstrecke, Informationspflicht, Preis, Widerruf, Mängelrecht, Werbung, Tracking und Plattform-/Marketplace-Pflichten. | gewichtete Prüfmatrix mit Tatbestandsmerkmalen, Fundstellen, Gegenposition, Beweislast, Risiko und Empfehlung |
-| Rechtsabteilung: Cross-Border-Shop EU-Verbraucherrecht | Bearbeite Rechtsabteilung: Cross-Border-Shop EU-Verbraucherrecht entlang der Onlinehandel, Plattformen und digitale Verbraucherprozesse-Prüflinie: Nutzerstrecke aufnehmen: Gerät, URL, Land, Sprache, Nutzerrolle. | Fachvotum zu Rechtsabteilung: Cross-Border-Shop EU-Verbraucherrecht mit Tatbestandsmerkmalen, Aktenfundstellen, Beweislast, stärkster Gegenposition, Risiko und ausformulierter. |
+| Button-Lösung Paragraf 312j BGB | Bearbeite Button-Lösung Paragraf 312j BGB als konkreten Vorgang im Gebiet Onlinehandel, Plattformen und digitale Verbraucherprozesse | Fachvotum zu Button-Lösung Paragraf 312j BGB mit Tatbestandsmerkmalen, Aktenfundstellen, Beweislast, stärkster Gegenposition, Risiko und ausformulierter Rechtsfolge |
 
 ## 16. Fachspezifische Praxisrouten
 
@@ -195,60 +193,61 @@ Diese Routen stammen aus den konkreten Arbeitsthemen dieses Plugins. Wähle die 
 
 Bearbeitungsauftrag: Ein Fernabsatzvertrag ist ein Vertrag zwischen Unternehmer und Verbraucher, der unter ausschließlicher Verwendung von Fernkommunikationsmitteln (Internet, Telefon, E-Mail) und im Rahmen eines organisierten Vertriebssystems geschlossen wird (Paragraf 312c BGB). Er löst zahlreiche besondere Pflichten aus: Informationspflichten (Artikel 246a EGBGB), Widerrufsrecht (Paragraf 312g BGB), Button-Lösung (Paragraf 312j BGB), Bestellbestätigung (Paragraf 312i BGB). Der Skill ordnet die Voraussetzungen und das Zusammenspiel der Folgepflichten.
 Prüfschritte: Wer sind die Vertragsparteien (Verbraucher, Unternehmer); Welche Vertriebsform (Webshop, Telefon, E-Mail, Messenger, Social Commerce); Vertragstyp (Waren, digitale Inhalte, Dienstleistung, Mischformen); Ist es ein organisierter Vertriebsweg oder Einzelgeschäft; Welche Information wurde wann wie gegeben.
-Norm- oder Entscheidungsbezug aus dem Fachmaterial: Ein Fernabsatzvertrag ist ein Vertrag zwischen Unternehmer und Verbraucher, der unter ausschließlicher Verwendung von Fernkommunikationsmitteln (Internet, Telefon, E-Mail) und im Rahmen eines organisierten Vertriebssystems geschlossen wird (Paragraf 312c BGB).
+Normbezug aus dem Fachmaterial: Ein Fernabsatzvertrag ist ein Vertrag zwischen Unternehmer und Verbraucher, der unter ausschließlicher Verwendung von Fernkommunikationsmitteln (Internet, Telefon, E-Mail) und im Rahmen eines organisierten Vertriebssystems geschlossen wird (Paragraf 312c BGB).
 Lieferstück: verhandlungsfähige Fassung mit Ausgangstext, Änderung, Begründung, Rückfallposition und Vollzugscheck.
 
-### 16.2. Impressum / Anbieterkennzeichnung nach DDG
+### 16.2. OSS und IOSS im E-Commerce
+
+Bearbeitungsauftrag: Ordne grenzüberschreitende B2C-Umsätze dem Union-OSS nach Paragraf 18j UStG, dem IOSS nach Paragraf 18k UStG oder dem allgemeinen Besteuerungsverfahren zu. Ist der Empfänger Unternehmer oder ein in Paragraf 3a Absatz 5 Satz 1 UStG bezeichneter Nichtunternehmer? Wird aus einem EU-Mitgliedstaat oder unmittelbar aus dem Drittlandsgebiet geliefert?
+Prüfschritte: Erstelle eine Umsatzmatrix je Bestimmungsland, eine Fristenübersicht und eine Liste der fehlenden Transaktionsnachweise; Verbrauchervertragsrecht gehört nicht zum Kern dieses Skills; Lies zuerst Shop-Export, Rechnungen, Zahlungsdaten, Versandnachweise, Retouren, Plattformabrechnungen und bisherige Umsatzsteuererklärungen; Frage danach nur zu offenen Weichen.
+Lieferstück: Fachvotum zu OSS und IOSS im E-Commerce mit Tatbestandsmerkmalen, Aktenfundstellen, Beweislast, stärkster Gegenposition, Risiko und ausformulierter Rechtsfolge.
+
+### 16.3. Impressum / Anbieterkennzeichnung nach DDG
 
 Bearbeitungsauftrag: Mai 2024 ist das Digitale-Dienste-Gesetz (DDG) in Kraft und ersetzt das TMG. Paragraf 5 DDG regelt die Anbieterkennzeichnungspflicht für geschäftsmäßige, in der Regel gegen Entgelt angebotene Telemedien. Zusätzlich greifen Paragraf 18 MStV (Telemedien mit journalistisch-redaktionellem Charakter).
 Lieferstück: Fachvotum zu Impressum / Anbieterkennzeichnung nach DDG mit Tatbestandsmerkmalen, Aktenfundstellen, Beweislast, stärkster Gegenposition, Risiko und ausformulierter Rechtsfolge.
 
-### 16.3. AGB im Online-Shop – Einbeziehung Paragraf 305 BGB
+### 16.4. AGB im Online-Shop – Einbeziehung Paragraf 305 BGB
 
 Bearbeitungsauftrag: Allgemeine Geschäftsbedingungen (AGB) werden nur Vertragsbestandteil, wenn sie wirksam einbezogen wurden (Paragraf 305 II BGB) und einer Inhaltskontrolle. Im Online-Shop entscheidet die Einbeziehung über die gesamte Vertragsgrundlage (Lieferung, Mängelhaftung, Eigentumsvorbehalt, Streitbeilegung). Der Skill ordnet Einbeziehung, Klauseltypen und Inhaltskontrolle.
 Lieferstück: Fachvotum zu AGB im Online-Shop – Einbeziehung Paragraf 305 BGB mit Tatbestandsmerkmalen, Aktenfundstellen, Beweislast, stärkster Gegenposition, Risiko und ausformulierter Rechtsfolge.
 
-### 16.4. Widerrufsrecht Verbraucher Paragrafen 355 312g BGB
+### 16.5. Widerrufsrecht Verbraucher Paragrafen 355 312g BGB
 
 Bearbeitungsauftrag: Bei Fernabsatz- und außerhalb von Geschäftsräumen geschlossenen Verträgen steht dem Verbraucher ein Widerrufsrecht von 14 Tagen zu. Der Skill ordnet Voraussetzungen, Ausnahmen (Paragraf 312g II BGB), Rechtsfolgen und Belehrungspflichten. Sind Ausnahmen einschlägig (Paragraf 312g II BGB)?
 Lieferstück: Fachvotum zu Widerrufsrecht Verbraucher Paragrafen 355 312g BGB mit Tatbestandsmerkmalen, Aktenfundstellen, Beweislast, stärkster Gegenposition, Risiko und ausformulierter Rechtsfolge.
 
-### 16.5. Abmahnung UWG Unterlassungserklärung
+### 16.6. Abmahnung UWG Unterlassungserklärung
 
 Bearbeitungsauftrag: Trenne Shop-Frontend, Bestellstrecke, Informationspflicht, Preis, Widerruf, Mängelrecht, Werbung, Tracking und Plattform-/Marketplace-Pflichten. Einordnen: Rolle, Ziel, Verfahrensstand, Vertragstyp, Behörde/Gericht, Frist und Risiken festhalten. Tatbestand in Elemente zerlegen: Jedes Tatbestandsmerkmal einzeln prüfen; unklare Tatsachen als [offen: .] markieren.
 Lieferstück: versandfertiges Schreiben mit Betreff, Sachverhaltskern, Rechtsgrund, konkretem Begehren, Frist und Anlagenverzeichnis.
 
-### 16.6. Gewährleistung digitale Produkte Warenkauf Paragrafen 327 ff 434 ff BGB
+### 16.7. Gewährleistung digitale Produkte Warenkauf Paragrafen 327 ff 434 ff BGB
 
 Bearbeitungsauftrag: Zuerst trennen: reine digitale Inhalte/Dienstleistungen nach Paragrafen 327 und folgende BGB, Ware mit digitalen Elementen nach Paragrafen 475b, 475c BGB oder klassischer Warenkauf nach Paragrafen 433, 434 BGB. Die Regelfrist für kaufrechtliche Mängelansprüche beträgt nach Paragraf 438 Absatz 1 Nummer 3 BGB zwei Jahre.
 Lieferstück: Fachvotum zu Gewährleistung digitale Produkte Warenkauf Paragrafen 327 ff 434 ff BGB mit Tatbestandsmerkmalen, Aktenfundstellen, Beweislast, stärkster Gegenposition, Risiko und ausformulierter Rechtsfolge.
-
-### 16.7. Button-Lösung Paragraf 312j BGB
-
-Bearbeitungsauftrag: Bearbeite Button-Lösung Paragraf 312j BGB entlang der Onlinehandel, Plattformen und digitale Verbraucherprozesse-Prüflinie: Nutzerstrecke aufnehmen: Gerät, URL, Land, Sprache, Nutzerrolle, Produkt, Warenkorb, Checkout, Bestätigung, Konto.
-Lieferstück: Fachvotum zu Button-Lösung Paragraf 312j BGB mit Tatbestandsmerkmalen, Aktenfundstellen, Beweislast, stärkster Gegenposition, Risiko und ausformulierter Rechtsfolge.
 
 ### 16.8. Shop Check Checkout Widerruf Impressum
 
 Bearbeitungsauftrag: Trenne Shop-Frontend, Bestellstrecke, Informationspflicht, Preis, Widerruf, Mängelrecht, Werbung, Tracking und Plattform-/Marketplace-Pflichten. Einordnen: Rolle, Ziel, Verfahrensstand, Vertragstyp, Behörde/Gericht, Frist und Risiken festhalten. Tatbestand in Elemente zerlegen: Jedes Tatbestandsmerkmal einzeln prüfen.
 Lieferstück: gewichtete Prüfmatrix mit Tatbestandsmerkmalen, Fundstellen, Gegenposition, Beweislast, Risiko und Empfehlung.
 
-### 16.9. Rechtsabteilung: Cross-Border-Shop EU-Verbraucherrecht
+### 16.9. Button-Lösung Paragraf 312j BGB
 
-Bearbeitungsauftrag: Bearbeite Rechtsabteilung: Cross-Border-Shop EU-Verbraucherrecht entlang der Onlinehandel, Plattformen und digitale Verbraucherprozesse-Prüflinie: Nutzerstrecke aufnehmen: Gerät, URL, Land, Sprache, Nutzerrolle, Produkt, Warenkorb, Checkout.
-Lieferstück: Fachvotum zu Rechtsabteilung: Cross-Border-Shop EU-Verbraucherrecht mit Tatbestandsmerkmalen, Aktenfundstellen, Beweislast, stärkster Gegenposition, Risiko und ausformulierter Rechtsfolge.
+Bearbeitungsauftrag: Bearbeite Button-Lösung Paragraf 312j BGB als konkreten Vorgang im Gebiet Onlinehandel, Plattformen und digitale Verbraucherprozesse.
+Lieferstück: Fachvotum zu Button-Lösung Paragraf 312j BGB mit Tatbestandsmerkmalen, Aktenfundstellen, Beweislast, stärkster Gegenposition, Risiko und ausformulierter Rechtsfolge.
 
 ### 16.10. Kündigungsbutton Paragraf 312k BGB
 
-Bearbeitungsauftrag: Bearbeite Kündigungsbutton Paragraf 312k BGB: zugang, Dreiwochenfrist, Schriftform, Beteiligungsrechte, Darlegungslast und Klage- oder Vergleichsziel sofort trennen. Verbinde den konkreten Aktenfund mit Tatbestandsmerkmal, Gegenposition, Beweislast, Rechtsfolge und dem nächsten vollständig ausformulierten Arbeitsprodukt. Normenanker: UWG Paragraf 3, Paragraf 5, Paragraf 5a, Paragraf 8 und Paragraf 13 sowie PAngV: Marktverhalten, Irreführung, Information, Durchsetzung und Preise.
+Bearbeitungsauftrag: Bearbeite Kündigungsbutton Paragraf 312k BGB als konkreten Vorgang im Gebiet Onlinehandel, Plattformen und digitale Verbraucherprozesse.
 Lieferstück: Fachvotum zu Kündigungsbutton Paragraf 312k BGB mit Tatbestandsmerkmalen, Aktenfundstellen, Beweislast, stärkster Gegenposition, Risiko und ausformulierter Rechtsfolge.
 
-### 16.11. Rechtsabteilung: Dark Patterns und Verbraucherwiderruf
+### 16.11. Rechtsabteilung: Cross-Border-Shop EU-Verbraucherrecht
 
-Bearbeitungsauftrag: Bearbeite Rechtsabteilung: Dark Patterns und Verbraucherwiderruf entlang der Onlinehandel, Plattformen und digitale Verbraucherprozesse-Prüflinie: Nutzerstrecke aufnehmen: Gerät, URL, Land, Sprache, Nutzerrolle, Produkt, Warenkorb, Checkout.
+Bearbeitungsauftrag: Bearbeite Rechtsabteilung: Cross-Border-Shop EU-Verbraucherrecht als konkreten Vorgang im Gebiet Onlinehandel, Plattformen und digitale Verbraucherprozesse.
+Lieferstück: Fachvotum zu Rechtsabteilung: Cross-Border-Shop EU-Verbraucherrecht mit Tatbestandsmerkmalen, Aktenfundstellen, Beweislast, stärkster Gegenposition, Risiko und ausformulierter Rechtsfolge.
+
+### 16.12. Rechtsabteilung: Dark Patterns und Verbraucherwiderruf
+
+Bearbeitungsauftrag: Bearbeite Rechtsabteilung: Dark Patterns und Verbraucherwiderruf als konkreten Vorgang im Gebiet Onlinehandel, Plattformen und digitale Verbraucherprozesse.
 Lieferstück: Fachvotum zu Rechtsabteilung: Dark Patterns und Verbraucherwiderruf mit Tatbestandsmerkmalen, Aktenfundstellen, Beweislast, stärkster Gegenposition, Risiko und ausformulierter Rechtsfolge.
-
-### 16.12. Rechtsabteilung: Influencer- und Affiliate-Shop
-
-Bearbeitungsauftrag: Bearbeite Rechtsabteilung: Influencer- und Affiliate-Shop entlang der Onlinehandel, Plattformen und digitale Verbraucherprozesse-Prüflinie: Nutzerstrecke aufnehmen: Gerät, URL, Land, Sprache, Nutzerrolle, Produkt, Warenkorb, Checkout, Bestätigung.
-Lieferstück: Fachvotum zu Rechtsabteilung: Influencer- und Affiliate-Shop mit Tatbestandsmerkmalen, Aktenfundstellen, Beweislast, stärkster Gegenposition, Risiko und ausformulierter Rechtsfolge.

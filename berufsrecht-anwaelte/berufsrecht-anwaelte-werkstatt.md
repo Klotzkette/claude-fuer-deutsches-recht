@@ -179,12 +179,12 @@ Die Landkarte dient der schnellen Auswahl. Sie ersetzt nicht die darunter ausfor
 | Anwälte Geldwäsche Risikoanalyse Kanzlei Rechtsprechungscheck | Bearbeite Anwälte Geldwäsche Risikoanalyse Kanzlei Rechtsprechungscheck anhand von BRAO, BORA und RVG: ordne Mandat, Interessenkollision, Handakte, Frist, Vergütung und Haftung nach sicherer Tatsache, Berufspflicht. | gewichtete Prüfmatrix mit Tatbestandsmerkmalen, Fundstellen, Gegenposition, Beweislast, Risiko und Empfehlung |
 | Berufshaftpflicht | Bestimme Pflichtenkreis und Auftragsumfang nach BRAO, BORA und RVG, trenne Pflichtverletzung, Kausalität und Schaden, sichere Verjährung und Versicherungsanzeige und baue für Mandat, Interessenkollision, Handakte. | Fachvotum zu Berufshaftpflicht mit Tatbestandsmerkmalen, Aktenfundstellen, Beweislast, stärkster Gegenposition, Risiko und ausformulierter Rechtsfolge |
 | Fristenkontrolle | Baue aus BRAO, BORA und RVG und der konkreten Zustellung oder Verfahrenshandlung ein Fristenblatt mit Beginn, Ende, Vorfrist, Verantwortlichem, Gegenkontrolle, Ausgangsnachweis und Wiedereinsetzungsreserve. | Fristenblatt zu Fristenkontrolle mit Auslöser, Beginn, Ende, Vorfrist, Beleg, Sofortmaßnahme und Verantwortlichem |
+| System-Dienstleister nach Paragraf 43e BRAO in der Praxis | Bearbeite System-Dienstleister nach Paragraf 43e BRAO in der Praxis anhand von BRAO, BORA und RVG: ordne Mandat, Interessenkollision, Handakte, Frist, Vergütung und Haftung nach sicherer Tatsache, Berufspflicht, Nachweis. | Fachvotum zu System-Dienstleister nach Paragraf 43e BRAO in der Praxis mit Tatbestandsmerkmalen, Aktenfundstellen, Beweislast, stärkster Gegenposition, Risiko und ausformulierter. |
 | Aktenführung | Ordne die Unterlagen nach BRAO, BORA und RVG in Original, Bearbeitungsstand, Frist, Zugriffsrecht, Verschwiegenheit, Aufbewahrung und Herausgabe. | Akten- und Belegmatrix zu Aktenführung mit Datum, Urheber, Fundstelle, Widerspruch, Fehlteil und nächstem Bearbeitungsschritt |
 | Anwaltliche Nebentätigkeit | Bearbeite Anwaltliche Nebentätigkeit anhand von BRAO, BORA und RVG: ordne Mandat, Interessenkollision, Handakte, Frist, Vergütung und Haftung nach sicherer Tatsache, Berufspflicht, Nachweis, Gegenposition, Risiko. | Fachvotum zu Anwaltliche Nebentätigkeit mit Tatbestandsmerkmalen, Aktenfundstellen, Beweislast, stärkster Gegenposition, Risiko und ausformulierter Rechtsfolge |
 | Anwaltsgerichtliche Anschuldigung | Bearbeite Anwaltsgerichtliche Anschuldigung anhand von BRAO, BORA und RVG: ordne Mandat, Interessenkollision, Handakte, Frist, Vergütung und Haftung nach sicherer Tatsache, Berufspflicht, Nachweis, Gegenposition, Risiko. | Fachvotum zu Anwaltsgerichtliche Anschuldigung mit Tatbestandsmerkmalen, Aktenfundstellen, Beweislast, stärkster Gegenposition, Risiko und ausformulierter Rechtsfolge |
 | Bea Passive Nutzung | Bearbeite Bea Passive Nutzung anhand von BRAO, BORA und RVG: ordne Mandat, Interessenkollision, Handakte, Frist, Vergütung und Haftung nach sicherer Tatsache, Berufspflicht, Nachweis, Gegenposition, Risiko und nächster. | Fachvotum zu Bea Passive Nutzung mit Tatbestandsmerkmalen, Aktenfundstellen, Beweislast, stärkster Gegenposition, Risiko und ausformulierter Rechtsfolge |
 | Berufsgericht und Disziplinarverfahren | Zerlege den Vorwurf nach BRAO, BORA und RVG in konkrete Berufspflicht, Tatsachenbasis, Verschulden, Anhörung, Akteneinsicht, mögliche Maßnahme und Rechtsbehelf. | Fachvotum zu Berufsgericht und Disziplinarverfahren mit Tatbestandsmerkmalen, Aktenfundstellen, Beweislast, stärkster Gegenposition, Risiko und ausformulierter Rechtsfolge |
-| Berufsrechtliche | Bearbeite Berufsrechtliche anhand von BRAO, BORA und RVG: ordne Mandat, Interessenkollision, Handakte, Frist, Vergütung und Haftung nach sicherer Tatsache, Berufspflicht, Nachweis, Gegenposition, Risiko und nächster. | Fachvotum zu Berufsrechtliche mit Tatbestandsmerkmalen, Aktenfundstellen, Beweislast, stärkster Gegenposition, Risiko und ausformulierter Rechtsfolge |
 
 ## 16. Fachspezifische Praxisrouten
 
@@ -206,47 +206,47 @@ Lieferstück: Fachvotum zu Berufshaftpflicht mit Tatbestandsmerkmalen, Aktenfund
 Bearbeitungsauftrag: Baue aus BRAO, BORA und RVG und der konkreten Zustellung oder Verfahrenshandlung ein Fristenblatt mit Beginn, Ende, Vorfrist, Verantwortlichem, Gegenkontrolle, Ausgangsnachweis und Wiedereinsetzungsreserve; ordne dabei Mandat, Interessenkollision, Handakte, Frist, Vergütung und Haftung.
 Lieferstück: Fristenblatt zu Fristenkontrolle mit Auslöser, Beginn, Ende, Vorfrist, Beleg, Sofortmaßnahme und Verantwortlichem.
 
-### 16.4. Aktenführung
+### 16.4. System-Dienstleister nach Paragraf 43e BRAO in der Praxis
+
+Bearbeitungsauftrag: Bearbeite System-Dienstleister nach Paragraf 43e BRAO in der Praxis anhand von BRAO, BORA und RVG: ordne Mandat, Interessenkollision, Handakte, Frist, Vergütung und Haftung nach sicherer Tatsache, Berufspflicht, Nachweis, Gegenposition, Risiko und nächster Handlung.
+Lieferstück: Fachvotum zu System-Dienstleister nach Paragraf 43e BRAO in der Praxis mit Tatbestandsmerkmalen, Aktenfundstellen, Beweislast, stärkster Gegenposition, Risiko und ausformulierter Rechtsfolge.
+
+### 16.5. Aktenführung
 
 Bearbeitungsauftrag: Ordne die Unterlagen nach BRAO, BORA und RVG in Original, Bearbeitungsstand, Frist, Zugriffsrecht, Verschwiegenheit, Aufbewahrung und Herausgabe; sichere für Mandat, Interessenkollision, Handakte, Frist, Vergütung und Haftung einen prüfbaren Akten- und Übergabenachweis.
 Lieferstück: Akten- und Belegmatrix zu Aktenführung mit Datum, Urheber, Fundstelle, Widerspruch, Fehlteil und nächstem Bearbeitungsschritt.
 
-### 16.5. Anwaltliche Nebentätigkeit
+### 16.6. Anwaltliche Nebentätigkeit
 
 Bearbeitungsauftrag: Bearbeite Anwaltliche Nebentätigkeit anhand von BRAO, BORA und RVG: ordne Mandat, Interessenkollision, Handakte, Frist, Vergütung und Haftung nach sicherer Tatsache, Berufspflicht, Nachweis, Gegenposition, Risiko und nächster Handlung.
 Lieferstück: Fachvotum zu Anwaltliche Nebentätigkeit mit Tatbestandsmerkmalen, Aktenfundstellen, Beweislast, stärkster Gegenposition, Risiko und ausformulierter Rechtsfolge.
 
-### 16.6. Anwaltsgerichtliche Anschuldigung
+### 16.7. Anwaltsgerichtliche Anschuldigung
 
 Bearbeitungsauftrag: Bearbeite Anwaltsgerichtliche Anschuldigung anhand von BRAO, BORA und RVG: ordne Mandat, Interessenkollision, Handakte, Frist, Vergütung und Haftung nach sicherer Tatsache, Berufspflicht, Nachweis, Gegenposition, Risiko und nächster Handlung.
 Lieferstück: Fachvotum zu Anwaltsgerichtliche Anschuldigung mit Tatbestandsmerkmalen, Aktenfundstellen, Beweislast, stärkster Gegenposition, Risiko und ausformulierter Rechtsfolge.
 
-### 16.7. Bea Passive Nutzung
+### 16.8. Bea Passive Nutzung
 
 Bearbeitungsauftrag: Bearbeite Bea Passive Nutzung anhand von BRAO, BORA und RVG: ordne Mandat, Interessenkollision, Handakte, Frist, Vergütung und Haftung nach sicherer Tatsache, Berufspflicht, Nachweis, Gegenposition, Risiko und nächster Handlung.
 Lieferstück: Fachvotum zu Bea Passive Nutzung mit Tatbestandsmerkmalen, Aktenfundstellen, Beweislast, stärkster Gegenposition, Risiko und ausformulierter Rechtsfolge.
 
-### 16.8. Berufsgericht und Disziplinarverfahren
+### 16.9. Berufsgericht und Disziplinarverfahren
 
 Bearbeitungsauftrag: Zerlege den Vorwurf nach BRAO, BORA und RVG in konkrete Berufspflicht, Tatsachenbasis, Verschulden, Anhörung, Akteneinsicht, mögliche Maßnahme und Rechtsbehelf; ordne Mandat, Interessenkollision, Handakte, Frist, Vergütung und Haftung den einzelnen Vorwürfen und Belegen zu.
 Lieferstück: Fachvotum zu Berufsgericht und Disziplinarverfahren mit Tatbestandsmerkmalen, Aktenfundstellen, Beweislast, stärkster Gegenposition, Risiko und ausformulierter Rechtsfolge.
 
-### 16.9. Berufsrechtliche
+### 16.10. Berufsrechtliche
 
 Bearbeitungsauftrag: Bearbeite Berufsrechtliche anhand von BRAO, BORA und RVG: ordne Mandat, Interessenkollision, Handakte, Frist, Vergütung und Haftung nach sicherer Tatsache, Berufspflicht, Nachweis, Gegenposition, Risiko und nächster Handlung.
 Lieferstück: Fachvotum zu Berufsrechtliche mit Tatbestandsmerkmalen, Aktenfundstellen, Beweislast, stärkster Gegenposition, Risiko und ausformulierter Rechtsfolge.
 
-### 16.10. Beschwerde bei Rechtsanwaltskammer Kammerantwort und V
+### 16.11. Beschwerde bei Rechtsanwaltskammer Kammerantwort und V
 
 Bearbeitungsauftrag: Bearbeite Beschwerde bei Rechtsanwaltskammer Kammerantwort und V anhand von BRAO, BORA und RVG: ordne Mandat, Interessenkollision, Handakte, Frist, Vergütung und Haftung nach sicherer Tatsache, Berufspflicht, Nachweis, Gegenposition, Risiko und nächster Handlung.
 Lieferstück: frist- und formgerechter Entwurf mit Antrag, tragenden Tatsachen, Beweisangeboten, Anlagen und Einreichungsweg.
 
-### 16.11. Beweisführung Berufsverfahren
+### 16.12. Beteiligtenkommunikation
 
-Bearbeitungsauftrag: Bearbeite Beweisführung Berufsverfahren anhand von BRAO, BORA und RVG: ordne Mandat, Interessenkollision, Handakte, Frist, Vergütung und Haftung nach sicherer Tatsache, Berufspflicht, Nachweis, Gegenposition, Risiko und nächster Handlung.
-Lieferstück: Beweismatrix zu Beweisführung Berufsverfahren mit Tatfrage, Beweislast, Beweismittel, Fundstelle, Gegenposition und Folge eines offenen Nachweises.
-
-### 16.12. Cross-Border
-
-Bearbeitungsauftrag: Bestimme Herkunftsberuf, Niederlassung oder vorübergehende Dienstleistung, Berufsbezeichnung, Registrierung, Kollisions- und Verschwiegenheitsregeln sowie Zuständigkeit nach BRAO, BORA und RVG; halte lokale Beratungspflichten und Haftungsdeckung getrennt fest.
-Lieferstück: Fachvotum zu Cross-Border mit Tatbestandsmerkmalen, Aktenfundstellen, Beweislast, stärkster Gegenposition, Risiko und ausformulierter Rechtsfolge.
+Bearbeitungsauftrag: Bearbeite Beteiligtenkommunikation anhand von BRAO, BORA und RVG: ordne Mandat, Interessenkollision, Handakte, Frist, Vergütung und Haftung nach sicherer Tatsache, Berufspflicht, Nachweis, Gegenposition, Risiko und nächster Handlung.
+Lieferstück: Fachvotum zu Beteiligtenkommunikation mit Tatbestandsmerkmalen, Aktenfundstellen, Beweislast, stärkster Gegenposition, Risiko und ausformulierter Rechtsfolge.

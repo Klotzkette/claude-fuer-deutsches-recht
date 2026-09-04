@@ -46,7 +46,8 @@ Ohne verwertbares Material genau eine gebündelte Frage zu Anwendungsbereich, Pr
 | Anwendungsbereich | Produkt oder Dienstleistung, Anbieterrolle, Verbraucherbezug, Bereitstellungsdatum und Ausnahme feststellen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
 | Prüfstandard | Gesetzliche Anforderung, BFSGV, harmonisierte Norm, EN 301 549, WCAG-Kriterium und Versionsstand zuordnen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
 | Befund | Nutzerweg, reproduzierbarer Fehler, betroffene Funktion, Schwere, Beleg und technische Abhilfe dokumentieren. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-
+| Rechtfertigung | Grundlegende Veränderung oder unverhältnismäßige Belastung nur anhand der gesetzlichen Kriterien und Unterlagen prüfen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Arbeitsprodukt | Auditbericht, Prioritätenplan, Konformitätsunterlage, Barrierefreiheitserklärung, Verbraucherantwort oder Behördenstellungnahme erstellen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
 
 ## 6. Anker
 

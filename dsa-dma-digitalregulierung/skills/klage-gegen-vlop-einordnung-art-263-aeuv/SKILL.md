@@ -1,6 +1,6 @@
 ---
 name: klage-gegen-vlop-einordnung-art-263-aeuv
-description: "Für Klage gegen Designations-Beschluss — Art. 263 AEUV: erstellt Entwurf mit Antrag, Beweis und Anlagen; Ergebnis: Schriftsatz mit Begründungs- und Anlagenlogik."
+description: "Bereitet die Nichtigkeitsklage eines adressierten Unternehmens gegen eine VLOP- oder Gatekeeper-Benennung vor. Prüft Klagefrist, anfechtbaren Akt, Klagegründe, Beweisakte, Vertraulichkeit und Eilrechtsschutz und erstellt eine einreichungsfähige Klageschrift nach AEUV Artikel 263 sowie Verfahrensordnung des Gerichts."
 ---
 
 # Klage gegen Designations-Beschluss — Art. 263 AEUV
@@ -9,13 +9,16 @@ description: "Für Klage gegen Designations-Beschluss — Art. 263 AEUV: erstell
 
 Nichtigkeitsklage gegen Designations-Beschluss der Kommission (VLOP nach DSA oder Gatekeeper nach DMA): Grossplattform will Designation anfechten. Normen: Art. 263 Abs. 4 AEUV (Nichtigkeitsklage EuG), Art. 33 DSA (VLOP-Designation), Art. 3 DMA (Gatekeeper-Designation), Art. 278-279 AEUV (Eilrechtsschutz). Prüfraster: Klagebefugnis (Adressat, individuell betroffen), Klagegründe (Unzuständigkeit, Formfehler, Vertragsverletzung, Ermessensmissbrauch), Frist 2 Monate. Output Klageschrift-Geruest EuG, Eilrechtsschutz-Antrag. Abgrenzung: VLOP-Pflichten siehe dsa-vlop-vlose-einordnung-und-pflichten; Gatekeeper-Schwellen siehe dma-gatekeeper-schwellen-und-kernplattformdienste. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
 
-## Arbeitsweg
+## Direktauftrag
 
-- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
-- Fristen und Eilrisiken zuerst markieren: DSA Art. 16 Notice-and-Action unverzügliche Reaktion, Art. 24 jährlicher Transparenzbericht, Art. 34 Risikoassessment jährlich/bei Bedarf, DMA Art. 11 Compliance-Bericht 6 Monate nach Benennung.
-- Tragende Normen verifizieren: Digital Services Act (VO 2022/2065) Art. 4-15 (Haftung), 16-22 (Meldung), 24-32 (mittelgroße/VLOP), 33-43 (sehr große), 50-66 (Aufsicht), Digital Markets Act (VO 2022/1925) Art. 3 (Gatekeeper), 5-7 (Pflichten), DDG, TMG (außer Kraft), NetzDG (auslaufend) — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
-- Zuständige Stelle bestimmen und Adressaten richtig wählen: Anbieter Vermittlungsdienst / Hosting / Online-Plattform / sehr große Online-Plattform (VLOP) / Suchmaschine (VLOSE), BNetzA als DSC, EU-KOM (DMA-Vollzug), nationaler Koordinator, Beschwerdeführer.
-- Dokumente und Beweismittel sammeln und auf Lücken prüfen: AGB nach Art. 14 DSA, Transparenzbericht, Risikoassessment, Compliance-Officer-Konzept, Streitbeilegung Art. 21 DSA, DSC-Meldung, DMA-Compliance-Bericht — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
+Lies Designationsbeschluss, Zustellnachweis und Verwaltungsakte zuerst. Bestimme den exakt angefochtenen Akt, sichere die Klagefrist nach AEUV Artikel 263 Absatz 6 und ordne jeden Klagegrund einer bestimmten Passage des Beschlusses, einem Beleg und der stärksten Verteidigung der Kommission zu. Prüfe Eilrechtsschutz nach AEUV Artikel 278 und 279 getrennt.
+
+- Start: Unmittelbar mit Fristenblatt, Klagegrund-Beleg-Matrix und Klageanträgen beginnen; nur entscheidungserhebliche Lücken nachfragen.
+- Tatbestand und Beweis: Nutzerzahlen, Dienstfunktion, Konzernzurechnung, Kommissionsmethode, Anhörung, Begründung und wirtschaftliche Folgen jeweils durch konkrete Aktenfundstellen belegen.
+- Kernnormen: DSA Artikel 3 bis Artikel 6: Rollen, Vermittlungsdienste und Haftungsprivilegien nach Dienstetyp. DSA Artikel 34, Artikel 35 und Artikel 40: systemische Risikobewertung, Risikominderung und Datenzugang bei sehr großen Diensten.
+- Rechtsprechung: Kein Urteil nur zur Dekoration einsetzen. Rechtsprechung erst verwenden, wenn Gericht, Datum, Aktenzeichen, tragender Satz und Übertragungsgrenze in einer amtlichen oder frei zugänglichen Volltextquelle geprüft sind.
+- Einsatzgrenze: Normfassung und tragende Aussage am amtlichen Volltext prüfen; eine Entscheidung nicht auf andere Tatbestands-, Beweis- oder Verfahrensstufen übertragen.
+- Abschluss: Das Ergebnis muss `Klage gegen Designations-Beschluss — Art. 263 AEUV` konkret beantworten, die stärkste Gegenposition verarbeiten und den nächsten verwendbaren Text, Antrag, Rechenweg oder Vollzugsschritt liefern.
 
 ## Zuständigkeit
 
@@ -85,7 +88,7 @@ Bei DSA-Designation und DMA-Gatekeeper-Benennung ist das Unternehmen **Adressat 
 ## Streitwert und Kosten
 
 - Verfahren ist **gebührenfrei**
-- Anwaltszwang (Art. 19 EuG-Satzung — Rechtsanwalt zugelassen in einem Mitgliedstaat)
+- Vertretungsanforderungen nach Artikel 19 der Satzung des Gerichtshofs der Europäischen Union und Verfahrensordnung des Gerichts; Unabhängigkeit und Vertretungsbefugnis des Rechtsanwalts prüfen
 - Eigene Kosten und ggf. Kosten der Kommission bei Unterliegen
 
 ## Strategie
@@ -99,13 +102,15 @@ Bei DSA-Designation und DMA-Gatekeeper-Benennung ist das Unternehmen **Adressat 
 ## Fallstricke
 
 - Sprache der Klage: Klage muss in einer EU-Amtssprache und in der **Verfahrenssprache** abgefasst werden
-- Unterschriebene Original-Vollmacht mit Anwaltsausweis
-- **Anlagenverzeichnis** und Übersetzungen
-- **Schutzschriften** für sensible Geschäftsgeheimnisse beantragen
+- Vertretungsnachweis und Angaben zum vertretungsberechtigten Rechtsanwalt nach Verfahrensordnung und den aktuellen Praktischen Durchführungsbestimmungen; keine pauschale Originalvollmacht oder Ausweiskopie verlangen
+- Anlagenverzeichnis, Fundstellen, Verfahrenssprache und erforderliche Übersetzungen
+- Für vertrauliche Informationen einen begründeten Antrag auf vertrauliche Behandlung und eine nicht vertrauliche Fassung nach den Verfahrensregeln vorbereiten; keine deutsche Schutzschriftterminologie verwenden
 
 ## Aktuelle Rechtsprechung
 
-- Rechtsprechung live prüfen: Keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über amtliche oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
+- Gericht, Urteil vom 03.09.2025 - T-348/23, Zalando gegen Kommission: erste gerichtliche Prüfung einer VLOP-Benennung; Plattformbegriff, aktive Nutzer, Rechtssicherheit, Gleichbehandlung, Verhältnismäßigkeit und Begründung wurden im konkreten Benennungsfall geprüft. Das Rechtsmittel C-724/25 P ist bei Verwendung des Urteils als Präjudiz kenntlich zu machen.
+- Gericht, Urteil vom 08.07.2026 - verbundene Rechtssachen T-1079/23, T-1080/23 und T-214/24, Apple gegen Kommission: Die Klagen zur Gatekeeper-Benennung von App Store und iOS blieben ohne Erfolg; die Angriffe im Zusammenhang mit iMessage waren teilweise unzulässig. Den jeweiligen Klagegegenstand und die konkrete Zulässigkeitsbegründung nicht verallgemeinern.
+- Vor Ausgabe Verfahrensstand, Rechtsmittel und amtlichen Volltext über CURIA prüfen.
 
 ## Zentrale Normen (Paragrafenkette)
 

@@ -77,9 +77,9 @@ Entwurfsgriff Arbeitsprodukt: Term Sheet, SPA-Klauseln, DD-Report-Kapitel, Gremi
 
 | Ebene | Fallfrage | Anker | Sofortausgabe |
 | --- | --- | --- | --- |
-| Geschäfts- und Regelungskern | Dokumenten-Upload und Datenextraktion | BGB Paragraf 433 und Paragraf 453 | Entwurfsvermerk mit Ziel- und Rückfallposition |
+| Geschäfts- und Regelungskern | Handelsregisteranmeldung Kapitalerhöhung | BGB Paragraf 433 und Paragraf 453 | Entwurfsvermerk mit Ziel- und Rückfallposition |
 | Mechanik und Fassung | Definition, Tatbestand, Leistung, Anpassung, Haftung und Rechtsbehelf | GmbHG Paragraf 15 | Klausel oder Redline mit Varianten |
-| Nachweis und Freigabe | Handelsregisteranmeldung Kapitalerhöhung | Jede Partei belegt die von ihr übernommenen Garantien, Bedingungen und Vollzugshandlungen; der Bearbeiter führt DD-Fund, Q&A, Disclosure, Freigabe, Zahlung und Registervollzug lückenlos auf den Vertragsmechanismus zurück | Gremien-, Bedingungs- und Dokumentenmatrix |
+| Nachweis und Freigabe | KYC / AML / Geldwäscheprävention | Jede Partei belegt die von ihr übernommenen Garantien, Bedingungen und Vollzugshandlungen; der Bearbeiter führt DD-Fund, Q&A, Disclosure, Freigabe, Zahlung und Registervollzug lückenlos auf den Vertragsmechanismus zurück | Gremien-, Bedingungs- und Dokumentenmatrix |
 | Vollzug | Term Sheet, Bid Grid, Due-Diligence-Bericht, SPA- oder Beteiligungsklausel, Gremienvorlage, Signing- und Closing-Set oder Post-Closing-Plan | Verantwortlicher, Termin und Erfüllungsnachweis | Signing-, Closing- oder Registerliste |
 
 ## 5. Rechtsanker, Regelungsmechanik, Nachweis und Vollzug
@@ -117,7 +117,7 @@ Entwurfsgriff Arbeitsprodukt: Term Sheet, SPA-Klauseln, DD-Report-Kapitel, Gremi
 - Paragraf 126 BGB (Schriftform – auf Verlangen zusätzlich); im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
 - Paragraf 128 BGB (Notarielle Beurkundung – nur falls erforderlich); im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
 - Paragraf 15 Abs. 3, Abs. 4 GmbHG (Beurkundungspflicht Anteilsübertragung); im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
-- Paragrafen 133 und 157 BGB (Auslegung mehrdeutiger Verträge) → Artikel 3 Rom-I-VO (Rechtswahl) → Paragraf 5 BeurkG (Urkundssprache) → Paragraf 55 Absatz 1 GmbHG; im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
+- Paragrafen 133 und 157 BGB (Auslegung mehrdeutiger Verträge) → Artikel 3 Rom-I-VO (Rechtswahl) → Paragraf 5 BeurkG (Urkundssprache) → Paragraf 55 Absatz 1 GmbHG (Form der Übernahmeerklärung); im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
 - Paragraf 126b BGB (Textform), Paragraf 126 BGB (Schriftform); im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
 - Paragrafen 133, 157 BGB (Auslegung) → Paragraf 305c Abs. 2 BGB (Unklarheitenregelung AGB) → Paragraf 184 GVG (Amtssprache) → Paragrafen 55 Abs. 2, 56 GmbHG (Beurkundung, Sacheinlage); im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
 - Paragraf 241 Abs. 2 BGB — Rücksichtnahme-, Schutz- und Organisationspflichten; im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
@@ -143,7 +143,7 @@ Entwurfsgriff Arbeitsprodukt: Term Sheet, SPA-Klauseln, DD-Report-Kapitel, Gremi
 
 10.1. Regelungsziel: Benenne Parteien, Geschäftsziel, gewünschte Rechtswirkung und Vollzugszustand: Term Sheet, Bid Grid, Due-Diligence-Bericht, SPA- oder Beteiligungsklausel, Gremienvorlage, Signing- und Closing-Set oder Post-Closing-Plan.
 10.2. Rechtsrahmen: Stelle zwingende Grenze und dispositiven Gestaltungsspielraum voran; erste Anker sind BGB Paragraf 433 und Paragraf 453; GmbHG Paragraf 15.
-10.3. Mechanik: Arbeite zuerst Dokumenten-Upload und Datenextraktion; Definition, Tatbestand, Leistung, Anpassung, Haftung und Rechtsbehelf müssen ineinandergreifen.
+10.3. Mechanik: Arbeite zuerst Handelsregisteranmeldung Kapitalerhöhung; Definition, Tatbestand, Leistung, Anpassung, Haftung und Rechtsbehelf müssen ineinandergreifen.
 10.4. Dokumentstand: Nenne Fassung, Datum, Klausel, Datenraumfund, Beschluss oder Q&A-Antwort; im Bereich M&A, Beteiligungs- und Finanzierungstransaktionen tragen regelmäßig Process Letter, Datenraumindex, Q&A, Due-Diligence-Berichte, Term Sheet, SPA oder Beteiligungsvertrag, Disclosure Letter, Gremienbeschlüsse und Closing Checklist den Nachweis.
 10.5. Nachweis und Freigabe: Jede Partei belegt die von ihr übernommenen Garantien, Bedingungen und Vollzugshandlungen; der Bearbeiter führt DD-Fund, Q&A, Disclosure, Freigabe, Zahlung und Registervollzug lückenlos auf den Vertragsmechanismus zurück. Zeige die Folge eines offenen Parameters oder fehlenden Beschlusses.
 10.6. Gegenposition: Formuliere die stärkste Verhandlungsposition der anderen Seite; sie setzt typischerweise bei Datenraumlücken, unklarer Risikozuweisung, Kaufpreismechanik, Wissensqualifikation, Haftungsgrenzen und unerfüllten Vollzugsbedingungen an.
@@ -183,90 +183,89 @@ Die Landkarte dient der schnellen Auswahl. Sie ersetzt nicht die darunter ausfor
 
 | Arbeitsfeld | Entscheidende Weiche | Erstes Lieferstück |
 | --- | --- | --- |
-| Dokumenten-Upload und Datenextraktion | Inventarisiere jede eingehende Datei nach Quelle, Gesellschaft, Workstream, Dokumenttyp, Datum, Parteien, Laufzeit, Change-of-Control, Kündigung, Haftung, Wertbezug und Dublette. | Akten- und Belegmatrix zu Dokumenten-Upload und Datenextraktion mit Datum, Urheber, Fundstelle, Widerspruch, Fehlteil und nächstem Bearbeitungsschritt |
 | Handelsregisteranmeldung Kapitalerhöhung | Leite aus Kapitalmaßnahme und Beschlussfolge Anmeldung, notarielle Form, Vertretung, Versicherungen, Gesellschafterliste, Satzungsbescheinigung, Einzahlungs- oder Sacheinlagenbeleg und Registerdatei ab. | vollständige Einreichungs- oder Registervorlage mit Zuständigkeit, Pflichtfeldern, Nachweisen, Freigabe und Vollzugskontrolle |
 | KYC / AML / Geldwäscheprävention | Identifiziere Mandant, Zielgesellschaft, Erwerber, Finanzierer und wirtschaftlich Berechtigte, dokumentiere Eigentums- und Kontrollkette, Mittelherkunft, PEP- und Sanktionsbezug, Risikoeinstufung, verstärkte Sorgfalt. | Entwurfsbaustein zu KYC / AML / Geldwäscheprävention mit Geschäftsziel, Rechtswirkung, Risikozuweisung, Verhandlungsvariante, Freigabe und Vollzugsschritt |
-| Sacheinlagebericht und Werthaltigkeit der Forderung | Forderungsbewertung: Ist die Forderung des Lenders werthaltig. Paragraf 9 GmbHG (Differenzhaftung Gesellschafter bei Überbewertung der Sacheinlage). | Entwurfsbaustein zu Sacheinlagebericht und Werthaltigkeit der Forderung mit Geschäftsziel, Rechtswirkung, Risikozuweisung, Verhandlungsvariante, Freigabe und Vollzugsschritt |
 | Einsprachige Vertragsfassung (nur DE) | Bestimme verbindliche Vertragssprache und reine Arbeitsübersetzung, führe Definitionen, Zahlen, Querverweise, Anlagen und Unterschriftsblöcke parallel und regle bei mehreren Fassungen den Vorrang ausdrücklich. | verhandlungsfähige Fassung mit Ausgangstext, Änderung, Begründung, Rückfallposition und Vollzugscheck |
 | Formfehler und Heilungs-Timeline | Textform Paragraf 126b BGB ausreichend (Lenders Beweis-Sicherheit). Notarielle Beurkundung zwingend Paragraf 15 Absatz 3 GmbHG bei Verfügung über existierende Anteile. | Entwurfsbaustein zu Formfehler und Heilungs-Timeline mit Geschäftsziel, Rechtswirkung, Risikozuweisung, Verhandlungsvariante, Freigabe und Vollzugsschritt |
 | Gesellschafterbeschluss vorbereiten (vor Unterzeichnung) | Bestimme Beschlusskompetenz, Satzungsgrundlage, Einladung oder Verzicht, Teilnahme, Mehrheit, Stimmverbote, genaue Kapital- oder Vertragsmaßnahme, Vollzugsvollmacht und Wirksamkeitszeitpunkt. | entscheidungsreifer Entwurf mit Tenor oder Verfügungssatz, Streitstoff, Beweiswürdigung und Nebenentscheidungen |
+| Sacheinlagebericht und Werthaltigkeit der Forderung | Forderungsbewertung: Ist die Forderung des Lenders werthaltig. Paragraf 9 GmbHG (Differenzhaftung Gesellschafter bei Überbewertung der Sacheinlage). | Entwurfsbaustein zu Sacheinlagebericht und Werthaltigkeit der Forderung mit Geschäftsziel, Rechtswirkung, Risikozuweisung, Verhandlungsvariante, Freigabe und Vollzugsschritt |
 | Wandlungsprüfung – Trigger Liquidation Event | B GmbHG (Share Deal – Abtretung Anteile über fünfzig Prozent). Paragraf 15 Absatz 3, Absatz 4 GmbHG (Anteilsübertragung – notarielle Beurkundung). | gewichtete Prüfmatrix mit Tatbestandsmerkmalen, Fundstellen, Gegenposition, Beweislast, Risiko und Empfehlung |
 | Elektronische Unterzeichnung (DocuSign / Adobe Sign) | Archivierungspflicht: zehn Jahre für steuerrelevante Dokumente (Paragraf 147 AO). Paragraf 126b BGB (Textform ausreichend; DocuSign erfüllt dies). | Entwurfsbaustein zu Elektronische Unterzeichnung (DocuSign / Adobe Sign) mit Geschäftsziel, Rechtswirkung, Risikozuweisung, Verhandlungsvariante, Freigabe und Vollzugsschritt |
+| Mehrere parallele Wandeldarlehen | Qualifiziere Finanzierungsinstrument, Rückzahlung, Zins, Laufzeit, Rang, Wandlungsereignis, Bewertungsobergrenze, Abschlag, Bezugsrechte und Verwässerung. | Entwurfsbaustein zu Mehrere parallele Wandeldarlehen mit Geschäftsziel, Rechtswirkung, Risikozuweisung, Verhandlungsvariante, Freigabe und Vollzugsschritt |
 
 ## 16. Fachspezifische Praxisrouten
 
 Diese Routen stammen aus den konkreten Arbeitsthemen dieses Plugins. Wähle die sachnächste Route, liefere deren ersten verwertbaren Baustein sofort und vertiefe nur die Punkte, die das Ergebnis tatsächlich ändern.
 
-### 16.1. Dokumenten-Upload und Datenextraktion
-
-Bearbeitungsauftrag: Inventarisiere jede eingehende Datei nach Quelle, Gesellschaft, Workstream, Dokumenttyp, Datum, Parteien, Laufzeit, Change-of-Control, Kündigung, Haftung, Wertbezug und Dublette; bewahre Original, Fundstelle und Versionsstand und überführe nur geprüfte Extrakte in DD-Matrix, Q&A und Vertragsentwurf.
-Prüfschritte: Hochgeladene Dokumente: Term Sheet, Share Purchase Agreement (SPA), Investor Rights Agreement (IRA), Shareholders Agreement (SHA), Beteiligungsvertrag; Gesuchte Parameter: Pre-Money, Post-Money, Investitionsvolumen, Anteilsklassen, Nennwert, Vesting, ESOP, Liquidationspräferenzen, Anti-Dilution; Paragraf 15 GmbHG (Anteilsklassen und Übertragung); Paragraf 272 HGB (Eigenkapitalausweis nach Klassen); Paragraf 194 AktG analog (Wandelschuldverschreibungen und Klassen – Orientierung) Paragraf 12 HGB in Verbindung mit.
-Lieferstück: Akten- und Belegmatrix zu Dokumenten-Upload und Datenextraktion mit Datum, Urheber, Fundstelle, Widerspruch, Fehlteil und nächstem Bearbeitungsschritt.
-
-### 16.2. Handelsregisteranmeldung Kapitalerhöhung
+### 16.1. Handelsregisteranmeldung Kapitalerhöhung
 
 Bearbeitungsauftrag: Leite aus Kapitalmaßnahme und Beschlussfolge Anmeldung, notarielle Form, Vertretung, Versicherungen, Gesellschafterliste, Satzungsbescheinigung, Einzahlungs- oder Sacheinlagenbeleg und Registerdatei ab; gleiche Unterzeichnung, Einreichung, Zwischenverfügung, Eintragung und Closing-Nachweis in einer Vollzugskette ab.
 Prüfschritte: Vollständiges Notar-Paket (aus notar-paket-übermittlung); Zuständiges Amtsgericht / Handelsregister (nach Sitz der Gesellschaft); Paragraf 57 GmbHG (Anmeldung der Kapitalerhöhung: durch Geschäftsführerin, notarielle Beglaubigung); Paragraf 57a GmbHG (Inhalt der Anmeldung: neue Gesellschafterliste, Nachweis Sacheinlage); Paragraf 9c GmbHG (Prüfung durch das Registergericht – materielle Prüfung).
-Norm- oder Entscheidungsbezug aus dem Fachmaterial: Vollständiges Notar-Paket (aus notar-paket-übermittlung); Zuständiges Amtsgericht / Handelsregister (nach Sitz der Gesellschaft); Handelsregisternummer (HRB); Beauftragter Notar; Paragraf 57 GmbHG; Vollständiges Notar-Paket (aus notar-paket-übermittlung); Zuständiges Amtsgericht / Handelsregister (nach Sitz der Gesellschaft).
+Normbezug aus dem Fachmaterial: Vollständiges Notar-Paket (aus notar-paket-übermittlung); Zuständiges Amtsgericht / Handelsregister (nach Sitz der Gesellschaft); Handelsregisternummer (HRB); Beauftragter Notar; Paragraf 57 GmbHG.
 Lieferstück: vollständige Einreichungs- oder Registervorlage mit Zuständigkeit, Pflichtfeldern, Nachweisen, Freigabe und Vollzugskontrolle.
 
-### 16.3. KYC / AML / Geldwäscheprävention
+### 16.2. KYC / AML / Geldwäscheprävention
 
 Bearbeitungsauftrag: Identifiziere Mandant, Zielgesellschaft, Erwerber, Finanzierer und wirtschaftlich Berechtigte, dokumentiere Eigentums- und Kontrollkette, Mittelherkunft, PEP- und Sanktionsbezug, Risikoeinstufung, verstärkte Sorgfalt und Freigabe; sperre Datenraumzugang, Geldfluss oder Closing bis offene Identitäts- und Trefferfragen geklärt sind.
 Prüfschritte: Alle Parteien mit vollständigen Identifikationsdaten (aus parteien-erfassen); Darlehensbetrag und Herkunft der Mittel (Lender); HR-Auszüge, Gesellschafterlisten, Organogramme der beteiligten Unternehmen; Berufsausübungserlaubnis des Beraters (Rechtsanwalt: Pflicht nach Paragraf 2 Absatz 1 Nummer 10 GwG); Paragraf 2 Absatz 1 Nummer 10 GwG (Rechtsanwälte als Verpflichtete bei Unternehmenstransaktionen).
 Lieferstück: Entwurfsbaustein zu KYC / AML / Geldwäscheprävention mit Geschäftsziel, Rechtswirkung, Risikozuweisung, Verhandlungsvariante, Freigabe und Vollzugsschritt.
 
-### 16.4. Sacheinlagebericht und Werthaltigkeit der Forderung
-
-Bearbeitungsauftrag: Forderungsbewertung: Ist die Forderung des Lenders werthaltig. Paragraf 9 GmbHG (Differenzhaftung Gesellschafter bei Überbewertung der Sacheinlage). Paragraf 8 Absatz 2 Satz 1 GmbHG (Versicherung der Geschäftsführer in der HR-Anmeldung der Kapitalerhöhung, dass die Einlagen ordnungsgemäß bewirkt und endgültig zur freien Verfügung der Geschäftsführer stehen).
-Prüfschritte: Wandlungssumme (Darlehensbetrag + aufgelaufene Zinsen); Aktuelle Bilanz der Gesellschaft (letzte Jahresabschluss oder aktuelle BWA); Zahlungsfähigkeit der Gesellschaft (Liquiditätsstand); Forderungsbewertung: Ist die Forderung des Lenders werthaltig.
-Lieferstück: Entwurfsbaustein zu Sacheinlagebericht und Werthaltigkeit der Forderung mit Geschäftsziel, Rechtswirkung, Risikozuweisung, Verhandlungsvariante, Freigabe und Vollzugsschritt.
-
-### 16.5. Einsprachige Vertragsfassung (nur DE)
+### 16.3. Einsprachige Vertragsfassung (nur DE)
 
 Bearbeitungsauftrag: Bestimme verbindliche Vertragssprache und reine Arbeitsübersetzung, führe Definitionen, Zahlen, Querverweise, Anlagen und Unterschriftsblöcke parallel und regle bei mehreren Fassungen den Vorrang ausdrücklich; kontrolliere jede Änderung gegen die maßgebliche Fassung, ohne Rechtsbegriffe scheinpräzise zu übertragen.
 Prüfschritte: Fertiger Inhalt der deutschen Spalte der bilingualen Fassung (aus bilinguale-vertragserstellung); Gewünschte Schriftgröße und Zeilenabstand (Standard: Times New Roman 12 pt, 1.5-facher Zeilenabstand); Seitenränder: Standard 2.5 cm ringsum; Paragraf 126b BGB (Textform), Paragraf 126 BGB (Schriftform); Paragraf 10.1 Sprachklausel (nur DE-Fassung ohne EN-Spalte – dennoch materiell identisch mit bilingualer Fassung).
 Lieferstück: verhandlungsfähige Fassung mit Ausgangstext, Änderung, Begründung, Rückfallposition und Vollzugscheck.
 
-### 16.6. Formfehler und Heilungs-Timeline
+### 16.4. Formfehler und Heilungs-Timeline
 
 Bearbeitungsauftrag: Textform Paragraf 126b BGB ausreichend (Lenders Beweis-Sicherheit). Notarielle Beurkundung zwingend Paragraf 15 Absatz 3 GmbHG bei Verfügung über existierende Anteile. Bei Wandlung durch Kapitalerhöhung: Dreiviertelmehrheit nach Paragraf 53 Absatz 2 GmbHG und notarielle Beurkundung des Beschlusses nach Absatz 3 getrennt prüfen.
 Prüfschritte: Wandeldarlehensvertrag (Form und Datum); Wandlungs-Erklärung (falls erfolgt); Insolvenz-Lage Gesellschaft.
 Lieferstück: Entwurfsbaustein zu Formfehler und Heilungs-Timeline mit Geschäftsziel, Rechtswirkung, Risikozuweisung, Verhandlungsvariante, Freigabe und Vollzugsschritt.
 
-### 16.7. Gesellschafterbeschluss vorbereiten (vor Unterzeichnung)
+### 16.5. Gesellschafterbeschluss vorbereiten (vor Unterzeichnung)
 
 Bearbeitungsauftrag: Bestimme Beschlusskompetenz, Satzungsgrundlage, Einladung oder Verzicht, Teilnahme, Mehrheit, Stimmverbote, genaue Kapital- oder Vertragsmaßnahme, Vollzugsvollmacht und Wirksamkeitszeitpunkt; liefere Beschlusstext, Protokoll, Unterschriftslauf und Register- oder Closing-Anschluss ohne Lücke.
 Prüfschritte: Gesellschaft: Firma, HRB, Stammkapital, Gesellschafterinnen mit Anteilen; Beschlussthema: Grundsatzbeschluss Wandeldarlehen + Bereitschaft Kapitalerhöhung; Abstimmungsquorum: einstimmig oder Mehrheitsbeschluss nach Satzung; Einberufungsform: schriftlich, E-Mail oder Vollversammlung ohne Einberufung; Paragraf 46 Nummer 5 GmbHG (Gesellschafterversammlung zur Aufnahme neuer Gesellschafter).
 Lieferstück: entscheidungsreifer Entwurf mit Tenor oder Verfügungssatz, Streitstoff, Beweiswürdigung und Nebenentscheidungen.
 
-### 16.8. Wandlungsprüfung – Trigger Liquidation Event
+### 16.6. Sacheinlagebericht und Werthaltigkeit der Forderung
+
+Bearbeitungsauftrag: Forderungsbewertung: Ist die Forderung des Lenders werthaltig. Paragraf 9 GmbHG (Differenzhaftung Gesellschafter bei Überbewertung der Sacheinlage). Paragraf 8 Absatz 2 Satz 1 GmbHG (Versicherung der Geschäftsführer in der HR-Anmeldung der Kapitalerhöhung, dass die Einlagen ordnungsgemäß bewirkt und endgültig zur freien Verfügung der Geschäftsführer stehen).
+Lieferstück: Entwurfsbaustein zu Sacheinlagebericht und Werthaltigkeit der Forderung mit Geschäftsziel, Rechtswirkung, Risikozuweisung, Verhandlungsvariante, Freigabe und Vollzugsschritt.
+
+### 16.7. Wandlungsprüfung – Trigger Liquidation Event
 
 Bearbeitungsauftrag: B GmbHG (Share Deal – Abtretung Anteile über fünfzig Prozent). Paragraf 15 Absatz 3, Absatz 4 GmbHG (Anteilsübertragung – notarielle Beurkundung). Paragraf 20 UmwStG analog (steuerliche Behandlung der Wandlung bei Tauschvorgang) Share Deal.
 Prüfschritte: Vertragsdokument des Exits (SPA, APA, Fusionsvertrag, IPO-Prospekt); Transaktionswert und Art der Transaktion; Darlehensbetrag + aufgelaufene Zinsen zum Stichtag; Vereinbarte Liquidationspräferenz.
-Norm- oder Entscheidungsbezug aus dem Fachmaterial: B bis d, Paragraf 4.10 Satz 2; Vertragsdokument des Exits (SPA, APA, Fusionsvertrag, IPO-Prospekt); Transaktionswert und Art der Transaktion; Darlehensbetrag + aufgelaufene Zinsen zum Stichtag; Vereinbarte Liquidationspräferenz.
+Normbezug aus dem Fachmaterial: B bis d, Paragraf 4.10 Satz 2; Vertragsdokument des Exits (SPA, APA, Fusionsvertrag, IPO-Prospekt); Transaktionswert und Art der Transaktion; Darlehensbetrag + aufgelaufene Zinsen zum Stichtag; Vereinbarte Liquidationspräferenz.
 Lieferstück: gewichtete Prüfmatrix mit Tatbestandsmerkmalen, Fundstellen, Gegenposition, Beweislast, Risiko und Empfehlung.
 
-### 16.9. Elektronische Unterzeichnung (DocuSign / Adobe Sign)
+### 16.8. Elektronische Unterzeichnung (DocuSign / Adobe Sign)
 
 Bearbeitungsauftrag: Archivierungspflicht: zehn Jahre für steuerrelevante Dokumente (Paragraf 147 AO). Paragraf 126b BGB (Textform ausreichend; DocuSign erfüllt dies). Paragraf 126a BGB (Elektronische Form mit QES – höhere Stufe, nicht erforderlich für Wandeldarlehen).
 Prüfschritte: Unterzeichner (Name, E-Mail-Adresse, Mobilnummer für SMS-OTP); Gewünschte Authentifizierungsstufe (E-Mail-OTP, SMS-OTP, QES nach eIDAS); erst Gesellschaft, dann Gesellschafterinnen, zuletzt Lender.
 Lieferstück: Entwurfsbaustein zu Elektronische Unterzeichnung (DocuSign / Adobe Sign) mit Geschäftsziel, Rechtswirkung, Risikozuweisung, Verhandlungsvariante, Freigabe und Vollzugsschritt.
 
-### 16.10. Mehrere parallele Wandeldarlehen
+### 16.9. Mehrere parallele Wandeldarlehen
 
 Bearbeitungsauftrag: Qualifiziere Finanzierungsinstrument, Rückzahlung, Zins, Laufzeit, Rang, Wandlungsereignis, Bewertungsobergrenze, Abschlag, Bezugsrechte und Verwässerung; prüfe Organbeschlüsse, notarielle oder registerliche Umsetzung, Insolvenzrang und die Cap-Table-Wirkung in Base-, Downside- und Exit-Szenario.
 Prüfschritte: Liste aller Wandeldarlehen: Lender, Betrag, Datum, Laufzeit, Cap, Discount, MFN-Klausel; Aktuelles Wandlungsereignis: für welche Lenders gilt es; Vertragliche Stack-Order oder Gleichrangigkeit; Vollverwässerte Anteile vor Wandlung aller Lenders; Paragraf 4.7 Wandeldarlehensvertrag (MFN-Klausel: günstigere Rechte automatisch gültig).
 Lieferstück: Entwurfsbaustein zu Mehrere parallele Wandeldarlehen mit Geschäftsziel, Rechtswirkung, Risikozuweisung, Verhandlungsvariante, Freigabe und Vollzugsschritt.
 
-### 16.11. Wandelereignis – Eingang Wandlungserklärung
+### 16.10. Wandelereignis – Eingang Wandlungserklärung
 
 Bearbeitungsauftrag: Verankere Wandelereignis – Eingang Wandlungserklärung in Dealphase, Parteien, Datenraumfund, Wertwirkung, Vertragsabbildung, Freigabe, Vollzug und verantwortlichem Owner. Verbinde den konkreten Aktenfund mit Tatbestandsmerkmal, Gegenposition, Beweislast, Rechtsfolge und dem nächsten vollständig ausformulierten Arbeitsprodukt.
 Prüfschritte: Wandlungserklärung (Dokument oder E-Mail) des Lenders; Wandeldarlehensvertrag (Paragrafen 4.1, 4.4 zur Fristenprüfung); Datum der Wandlungsmitteilung der Gesellschaft (falls bereits erfolgt); Datum des Wandlungsereignisses (Qualified Financing, Maturity, Liquidation Event); Paragraf 126b BGB (Textform: Wandlungserklärung muss in Textform erfolgen).
 Lieferstück: Entwurfsbaustein zu Wandelereignis – Eingang Wandlungserklärung mit Geschäftsziel, Rechtswirkung, Risikozuweisung, Verhandlungsvariante, Freigabe und Vollzugsschritt.
 
-### 16.12. Wandlung – Kommunikation und Paketverteilung
+### 16.11. Wandlung – Kommunikation und Paketverteilung
 
 Bearbeitungsauftrag: Verankere Wandlung – Kommunikation und Paketverteilung in Dealphase, Parteien, Datenraumfund, Wertwirkung, Vertragsabbildung, Freigabe, Vollzug und verantwortlichem Owner. Verbinde den konkreten Aktenfund mit Tatbestandsmerkmal, Gegenposition, Beweislast, Rechtsfolge und dem nächsten vollständig ausformulierten Arbeitsprodukt.
 Prüfschritte: Bestätigte Wandlungsberechnung (aus wandlungspreis-berechnung); Adressen aller Parteien (Lender, Gesellschaft, Gesellschafterinnen, Steuerberater, Buchhaltung); Datum der Wandlungserklärung und der Bestätigung; Cap-Table Post-Money (aus cap-table-update-pre-post); Buchungsanweisungen: Ausbuchung Verbindlichkeit (Darlehensbetrag + Zinsen), Einbuchung Eigenkapital.
 Lieferstück: Entwurfsbaustein zu Wandlung – Kommunikation und Paketverteilung mit Geschäftsziel, Rechtswirkung, Risikozuweisung, Verhandlungsvariante, Freigabe und Vollzugsschritt.
+
+### 16.12. Wandlungsausschluss-Prüfung
+
+Bearbeitungsauftrag: Verankere Wandlungsausschluss-Prüfung in Dealphase, Parteien, Datenraumfund, Wertwirkung, Vertragsabbildung, Freigabe, Vollzug und verantwortlichem Owner. Rekonstruiere Auslöser und Zugang, qualifiziere die Frist, berechne Beginn und Ende kalendarisch und prüfe Hemmung, Ablaufhemmung, Vorfrist, Zugangsnachweis und statthafte Fristrettung getrennt für materielles und Verfahrensrecht.
+Prüfschritte: Wandeldarlehensvertrag (Paragrafen 4.4, 4.10); Datum der Wandlungserklärung des Lenders; Frühere Wandlungsereignisse und Ausübungserklärungen; Etwaige Verzichtserklärungen des Lenders; Gesellschaftervertrag (SHA) – enthält er weitere Ausschlüsse.
+Lieferstück: gewichtete Prüfmatrix mit Tatbestandsmerkmalen, Fundstellen, Gegenposition, Beweislast, Risiko und Empfehlung.

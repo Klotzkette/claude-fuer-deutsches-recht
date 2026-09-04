@@ -129,7 +129,6 @@ Entscheidungsgriff Arbeitsprodukt: Anklagesatz, Eröffnungsbeschluss, Verfügung
 - BGH, Urteil vom 26.04.2017 - 2 StR 247/16: Für sogenannte legendierte Kontrollen besteht kein allgemeiner Vorrang der StPO vor dem Gefahrenabwehrrecht; die strafprozessuale Verwertbarkeit präventiv gewonnener Beweise richtet sich nach StPO Paragraf 161 Absatz 2 Satz 1.
 - BVerfG, Urteil vom 19.03.2013 - 2 BvR 2628/10: Verständigung im Strafverfahren verlangt Transparenz und Dokumentation.
 - BGH, Beschluss vom 27.11.2018 - 5 StR 566/18: Ein Beweisverwertungsverbot kommt in Betracht, wenn der Richtervorbehalt bei einer Durchsuchung bewusst missachtet oder in gleichgewichtig grober Weise verkannt wird.
-- BGH, Beschluss vom 30.05.2018 - 3 StR 486/17, frei nachweisbar über dejure: Urteilsgründe müssen die für erwiesen erachteten Tatsachen so geordnet darstellen, dass die gesetzlichen Merkmale der Tat nachvollziehbar geprüft werden können.
 
 ## 9. Prüfraster
 
@@ -193,7 +192,7 @@ Die Landkarte dient der schnellen Auswahl. Sie ersetzt nicht die darunter ausfor
 | Prozessuale Kniffe und Rechtsprechungsanker | Bearbeite Prozessuale Kniffe und Rechtsprechungsanker: tatkomplex, Norm, Beweismittel, Einlassung, Verwertbarkeit, Frist und Rechtsfolge zeilenweise prüfen. | Entscheidungsbaustein zu Prozessuale Kniffe und Rechtsprechungsanker mit Antrag, Aktenfund, Rechtsmaßstab, Beweisfolge, Gegenposition, Tenoroption und nächster Verfügung |
 | Beweiswürdigung Strafkammer | Sucheinstiege; Aktenzeichen, Datum und Fundstelle werden vor produktiver Zitierung über Rechtsprechung-im-Internet oder dejure verifiziert und nie aus dem Modellwissen ergänzt | Beweismatrix zu Beweiswürdigung Strafkammer mit Tatfrage, Beweislast, Beweismittel, Fundstelle, Gegenposition und Folge eines offenen Nachweises |
 | Maßnahmen Paragraf 61 StGB | Maßnahmen Paragraf 61 StGB: Schuldspruch, Freispruch, Einstellung, Maßregel, Einziehung und Nebenfolgen getrennt prüfen | Entscheidungsbaustein zu Maßnahmen Paragraf 61 StGB mit Antrag, Aktenfund, Rechtsmaßstab, Beweisfolge, Gegenposition, Tenoroption und nächster Verfügung |
-| Praxisraster Landgericht Strafkammer | Frist, Rechtsmittel, Zustellung, Kosten und Vollstreckbarkeit kontrollieren. StPO Paragraf 199, 203, 207, 244, 257c, 261 und | Entscheidungsbaustein zu Praxisraster Landgericht Strafkammer mit Antrag, Aktenfund, Rechtsmaßstab, Beweisfolge, Gegenposition, Tenoroption und nächster Verfügung |
+| Rechtsmittelbelehrung Strafkammer | Rechtsmittelbelehrung Strafkammer: Schuldspruch, Freispruch, Einstellung, Maßregel, Einziehung und Nebenfolgen getrennt prüfen | frist- und formgerechter Entwurf mit Antrag, tragenden Tatsachen, Beweisangeboten, Anlagen und Einreichungsweg |
 
 ## 16. Fachspezifische Praxisrouten
 
@@ -203,25 +202,22 @@ Diese Routen stammen aus den konkreten Arbeitsthemen dieses Plugins. Wähle die 
 
 Bearbeitungsauftrag: Bearbeite Finale Entscheidung als Volltext (Urteil Strafkammer): tatkomplex, Norm, Beweismittel, Einlassung, Verwertbarkeit, Frist und Rechtsfolge zeilenweise prüfen. Entwirf die im Fachverfahren richtige Entscheidungsform mit bestimmtem Ausspruch, festgestelltem Sachverhalt, offen gelegter Beweiswürdigung, tragender Subsumtion, Nebenentscheidungen und nur tatsächlich statthaftem Rechtsbehelf.
 Prüfschritte: Paragrafen 76 und folgende StGB bei Maßregeln; Paragrafen 73 und folgende StGB bei Einziehung; Vor der Volltext-Erstellung müssen die vorbereitenden Skills dieses Plugins durchlaufen sein; Rubrum mit allen Parteien, Vertretern und Aktenzeichen; vollständig erfasster Sachverhalt und Streitstand.
-Norm- oder Entscheidungsbezug aus dem Fachmaterial: Paragraf 267 StPO; Paragraf 46 StGB; Paragrafen 76 und folgende StGB bei Maßregeln; Paragrafen 73 und folgende StGB bei Einziehung.
+Normbezug aus dem Fachmaterial: Paragraf 267 StPO; Paragraf 46 StGB; Paragrafen 76 und folgende StGB bei Maßregeln; Paragrafen 73 und folgende StGB bei Einziehung.
 Lieferstück: entscheidungsreifer Entwurf mit Tenor oder Verfügungssatz, Streitstoff, Beweiswürdigung und Nebenentscheidungen.
 
 ### 16.2. Hauptverhandlung Große Strafkammer
 
 Bearbeitungsauftrag: Bearbeite Hauptverhandlung Große Strafkammer: tatkomplex, Norm, Beweismittel, Einlassung, Verwertbarkeit, Frist und Rechtsfolge zeilenweise prüfen. Fixiere gesicherten Streitstand, Interessen, Mindestziel und objektive Kriterien, rechne Kosten- und Vollstreckungsrisiko und formuliere Vergleichskorridor, Rückfallposition, Regelungspunkte, Vollmacht und belastbaren Vollzug. Fachstation: Verfahrensstand: Ermittlungsabschluss, Anklagereife, Eröffnung, Hauptverhandlung oder Rechtsmittel feststellen.
-Norm- oder Entscheidungsbezug aus dem Fachmaterial: BGH, Urteil vom 30.07.1999; 1 StR 618/98, BGHSt 45, 164: Wird ausnahmsweise ein aussagepsychologisches Glaubhaftigkeitsgutachten eingeholt, muss es hypothesengeleitet, transparent und nach dem wissenschaftlichen Methodenstand alternative Entstehungserklärungen prüfen.
 Lieferstück: Verhandlungsblatt zu Hauptverhandlung Große Strafkammer mit Ziel, Mindestposition, Tauschmasse, Risiko, Regelungstext und Vollzug.
 
 ### 16.3. Entscheidungsvorschlag Strafkammer
 
 Bearbeitungsauftrag: Bearbeite Entscheidungsvorschlag Strafkammer: tatkomplex, Norm, Beweismittel, Einlassung, Verwertbarkeit, Frist und Rechtsfolge zeilenweise prüfen. Entwirf die im Fachverfahren richtige Entscheidungsform mit bestimmtem Ausspruch, festgestelltem Sachverhalt, offen gelegter Beweiswürdigung, tragender Subsumtion, Nebenentscheidungen und nur tatsächlich statthaftem Rechtsbehelf.
-Norm- oder Entscheidungsbezug aus dem Fachmaterial: BGH, Urteil vom 30.07.1999; 1 StR 618/98, BGHSt 45, 164: Wird ausnahmsweise ein aussagepsychologisches Glaubhaftigkeitsgutachten eingeholt, muss es hypothesengeleitet, transparent und nach dem wissenschaftlichen Methodenstand alternative Entstehungserklärungen prüfen.
 Lieferstück: Entscheidungsbaustein zu Entscheidungsvorschlag Strafkammer mit Antrag, Aktenfund, Rechtsmaßstab, Beweisfolge, Gegenposition, Tenoroption und nächster Verfügung.
 
 ### 16.4. Berufung Strafkammer
 
 Bearbeitungsauftrag: Bearbeite Berufung Strafkammer: tatkomplex, Norm, Beweismittel, Einlassung, Verwertbarkeit, Frist und Rechtsfolge zeilenweise prüfen. Verbinde den konkreten Aktenfund mit Tatbestandsmerkmal, Gegenposition, Beweislast, Rechtsfolge und dem nächsten vollständig ausformulierten Arbeitsprodukt.
-Norm- oder Entscheidungsbezug aus dem Fachmaterial: BGH, Urteil vom 30.07.1999; 1 StR 618/98, BGHSt 45, 164: Wird ausnahmsweise ein aussagepsychologisches Glaubhaftigkeitsgutachten eingeholt, muss es hypothesengeleitet, transparent und nach dem wissenschaftlichen Methodenstand alternative Entstehungserklärungen prüfen.
 Lieferstück: Entscheidungsbaustein zu Berufung Strafkammer mit Antrag, Aktenfund, Rechtsmaßstab, Beweisfolge, Gegenposition, Tenoroption und nächster Verfügung.
 
 ### 16.5. Eröffnungsverfahren Strafkammer
@@ -242,28 +238,24 @@ Lieferstück: Beweismatrix zu Beweiswürdigung Strafkammer mit Tatfrage, Beweisl
 ### 16.8. Maßnahmen Paragraf 61 StGB
 
 Bearbeitungsauftrag: Maßnahmen Paragraf 61 StGB: Schuldspruch, Freispruch, Einstellung, Maßregel, Einziehung und Nebenfolgen getrennt prüfen.
-Norm- oder Entscheidungsbezug aus dem Fachmaterial: BVerfG, Urteil vom 19.03.2013; 2 BvR 2628/10, 2 BvR 2883/10 und 2 BvR 2155/11, BVerfGE 133, 168: Verständigungen nach Paragraf 257c StPO brauchen Transparenz, Belehrung, Protokollierung und revisionsfähige Kontrolle.
 Lieferstück: Entscheidungsbaustein zu Maßnahmen Paragraf 61 StGB mit Antrag, Aktenfund, Rechtsmaßstab, Beweisfolge, Gegenposition, Tenoroption und nächster Verfügung.
 
-### 16.9. Praxisraster Landgericht Strafkammer
-
-Bearbeitungsauftrag: Frist, Rechtsmittel, Zustellung, Kosten und Vollstreckbarkeit kontrollieren. StPO Paragraf 199, 203, 207, 244, 257c, 261 und.
-Lieferstück: Entscheidungsbaustein zu Praxisraster Landgericht Strafkammer mit Antrag, Aktenfund, Rechtsmaßstab, Beweisfolge, Gegenposition, Tenoroption und nächster Verfügung.
-
-### 16.10. Rechtsmittelbelehrung Strafkammer
+### 16.9. Rechtsmittelbelehrung Strafkammer
 
 Bearbeitungsauftrag: Rechtsmittelbelehrung Strafkammer: Schuldspruch, Freispruch, Einstellung, Maßregel, Einziehung und Nebenfolgen getrennt prüfen.
-Norm- oder Entscheidungsbezug aus dem Fachmaterial: BVerfG, Urteil vom 19.03.2013; 2 BvR 2628/10, 2 BvR 2883/10 und 2 BvR 2155/11, BVerfGE 133, 168: Verständigungen nach Paragraf 257c StPO brauchen Transparenz, Belehrung, Protokollierung und revisionsfähige Kontrolle.
 Lieferstück: frist- und formgerechter Entwurf mit Antrag, tragenden Tatsachen, Beweisangeboten, Anlagen und Einreichungsweg.
+
+### 16.10. Praxisraster Landgericht Strafkammer
+
+Bearbeitungsauftrag: Frist, Rechtsmittel, Zustellung, Kosten und Vollstreckbarkeit kontrollieren.
+Lieferstück: Entscheidungsbaustein zu Praxisraster Landgericht Strafkammer mit Antrag, Aktenfund, Rechtsmaßstab, Beweisfolge, Gegenposition, Tenoroption und nächster Verfügung.
 
 ### 16.11. Beweisanträge und Ablehnung
 
 Bearbeitungsauftrag: Bearbeite Beweisanträge und Ablehnung: tatkomplex, Norm, Beweismittel, Einlassung, Verwertbarkeit, Frist und Rechtsfolge zeilenweise prüfen. Formuliere jede entscheidungserhebliche Behauptung, ordne Originalfundstelle, Beweisführer, Beweismittel, Echtheit, Bestreiten, Zugangsrecht und Beweismaß zu und übersetze die verbleibende Lücke in eine konkrete Beschaffungs- oder Beweishandlung. Normenanker: StPO Paragraf 244: Beweisaufnahme, Aufklärungspflicht und Ablehnungsgründe für Beweisanträge.
-Norm- oder Entscheidungsbezug aus dem Fachmaterial: BGH, Urteil vom 30.07.1999; 1 StR 618/98, BGHSt 45, 164: Wird ausnahmsweise ein aussagepsychologisches Glaubhaftigkeitsgutachten eingeholt, muss es hypothesengeleitet, transparent und nach dem wissenschaftlichen Methodenstand alternative Entstehungserklärungen prüfen.
 Lieferstück: Beweismatrix zu Beweisanträge und Ablehnung mit Tatfrage, Beweislast, Beweismittel, Fundstelle, Gegenposition und Folge eines offenen Nachweises.
 
 ### 16.12. Urteilsbegründung nach Paragraf 267 StPO
 
 Bearbeitungsauftrag: Bearbeite Urteilsbegründung nach Paragraf 267 StPO: tatkomplex, Norm, Beweismittel, Einlassung, Verwertbarkeit, Frist und Rechtsfolge zeilenweise prüfen. Entwirf die im Fachverfahren richtige Entscheidungsform mit bestimmtem Ausspruch, festgestelltem Sachverhalt, offen gelegter Beweiswürdigung, tragender Subsumtion, Nebenentscheidungen und nur tatsächlich statthaftem Rechtsbehelf. Normenanker: StPO Paragraf 170: Anklageerhebung oder Einstellung nach Abschluss der Ermittlungen.
-Norm- oder Entscheidungsbezug aus dem Fachmaterial: BGH, Urteil vom 30.07.1999; 1 StR 618/98, BGHSt 45, 164: Wird ausnahmsweise ein aussagepsychologisches Glaubhaftigkeitsgutachten eingeholt, muss es hypothesengeleitet, transparent und nach dem wissenschaftlichen Methodenstand alternative Entstehungserklärungen prüfen.
 Lieferstück: entscheidungsreifer Entwurf mit Tenor oder Verfügungssatz, Streitstoff, Beweiswürdigung und Nebenentscheidungen.

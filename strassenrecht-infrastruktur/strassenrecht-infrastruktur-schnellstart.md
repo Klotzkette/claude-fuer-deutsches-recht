@@ -34,7 +34,7 @@ Ohne verwertbares Material genau eine gebündelte Frage zu Straße und Regime, N
 | --- | --- |
 | Normenanker | FStrG Paragraf 2; FStrG Paragraf 5; FStrG Paragraf 7 und Paragraf 8 |
 | Rechtsprechung | aus Akte und belastbarer Quelle ableiten |
-| Tatbestand | Straßenabschnitt, Straßenklasse, Baulastträger, Widmung, Ortsdurchfahrt und anwendbares Bundes- oder Landesrecht |
+| Tatbestand | Straßenabschnitt, Straßenklasse, Baulastträger, Widmung, Ortsdurchfahrt und anwendbares Bundes- oder Landesrecht feststellen |
 | Beweislast | Darlegungs- und Nachweisfrage für Öffentliches Straßen- und Wegerecht: Welche Plan-, Zustimmungs- oder Erlaubnisentscheidung ist für das konkrete Vorhaben erforderlich |
 | Rechtsfolge | Erlaubnisantrag, Einwendung, Kostenvermerk, Kreuzungsvereinbarung, Widerspruch, Eilantrag oder Behördenentscheidung erstellen |
 | Quellenstatus | Aktenfund, Normtext, Profilanker oder sicher belegte Entscheidung offen kennzeichnen; unsichere Aktenzeichen nicht ergänzen |
@@ -43,12 +43,11 @@ Ohne verwertbares Material genau eine gebündelte Frage zu Straße und Regime, N
 
 | Feld | Sofortgriff | Ausgabe |
 | --- | --- | --- |
-| Straße und Regime | Straßenabschnitt, Straßenklasse, Baulastträger, Widmung, Ortsdurchfahrt und anwendbares Bundes- oder Landesrecht. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Straße und Regime | Straßenabschnitt, Straßenklasse, Baulastträger, Widmung, Ortsdurchfahrt und anwendbares Bundes- oder Landesrecht feststellen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
 | Nutzung oder Vorhaben | Gemeingebrauch, Anliegergebrauch, Sondernutzung, Zufahrt, Anbau, Kreuzung, Ausbau oder Neubau genau abgrenzen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
 | Verfahren und Beteiligung | Erlaubnis, Zustimmung, Planfeststellung, Einziehung, Anhörung, Trägerbeteiligung, Einwendung und Bekanntgabe ordnen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
 | Lasten und Rechtsschutz | Bau-, Unterhaltungs-, Folgekosten, Entschädigung, Duldung, Sofortvollzug und statthaften Rechtsbehelf prüfen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Arbeitsprodukt | Erlaubnisantrag, Einwendung, Kostenvermerk, Kreuzungsvereinbarung, Widerspruch, Eilantrag. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Aktenplan Infrastruktur | Bearbeite Aktenplan Infrastruktur: Straßenabschnitt, Straßenklasse, Baulastträger, Widmung, Ortsdurchfahrt. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Arbeitsprodukt | Erlaubnisantrag, Einwendung, Kostenvermerk, Kreuzungsvereinbarung, Widerspruch, Eilantrag oder Behördenentscheidung erstellen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
 
 ## 6. Anker
 

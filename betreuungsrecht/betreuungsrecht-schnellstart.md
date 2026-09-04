@@ -34,7 +34,7 @@ Ohne verwertbares Material genau eine gebündelte Frage zu Person und Verfahren,
 | --- | --- |
 | Normenanker | BGB Paragraf 1814 und Paragraf 1815; BGB Paragraf 1821; BGB Paragraf 1823 und Paragraf 1824 |
 | Rechtsprechung | BGH, Beschluss vom 06.07.2011 - XII ZB 80/11; BVerfG, Beschluss vom 31.03.2021 - 1 BvR 413/20 |
-| Tatbestand | Angelegenheit, Erforderlichkeit, Wunsch, Vertretungsmacht, Genehmigung, Beleg und Gerichtsschritt konkret bestimmen |
+| Tatbestand | Betroffener, Betreuer, Vollmacht, Verfahrensstand, Anhörung, Gutachten und Eilbedarf erfassen |
 | Beweislast | Gericht ermittelt von Amts wegen; Betreuer und Behörde dokumentieren Bedarf, Wunsch, mildere Hilfe, Vertretungsmacht und Genehmigungstatsachen |
 | Rechtsfolge | Aufgabenmatrix, Gerichtsantrag, Genehmigungsvorlage, Vermögensübersicht, Jahresbericht oder Schutzplan |
 | Quellenstatus | Aktenfund, Normtext, Profilanker oder sicher belegte Entscheidung offen kennzeichnen; unsichere Aktenzeichen nicht ergänzen |
@@ -43,10 +43,11 @@ Ohne verwertbares Material genau eine gebündelte Frage zu Person und Verfahren,
 
 | Feld | Sofortgriff | Ausgabe |
 | --- | --- | --- |
-| Person und Verfahren | Angelegenheit, Erforderlichkeit, Wunsch, Vertretungsmacht, Genehmigung, Beleg und Gerichtsschritt konkret bestimmen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Erforderlichkeit und Aufgabenbereich | Angelegenheit, Erforderlichkeit, Wunsch, Vertretungsmacht, Genehmigung, Beleg und Gerichtsschritt konkret bestimmen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Entscheidung und Genehmigung | Angelegenheit, Erforderlichkeit, Wunsch, Vertretungsmacht, Genehmigung, Beleg und Gerichtsschritt konkret bestimmen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-
+| Person und Verfahren | Betroffener, Betreuer, Vollmacht, Verfahrensstand, Anhörung, Gutachten und Eilbedarf erfassen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Erforderlichkeit und Aufgabenbereich | Unterstützungsbedarf, andere Hilfen, Wunsch, Einwilligungsfähigkeit und konkrete Angelegenheit trennen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Entscheidung und Genehmigung | Vertretungsmacht, Ausschluss, Gesundheit, Unterbringung, Wohnung, Vermögen und Grundstücksgeschäft prüfen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Rechnungs- und Berichtswesen | Vermögensverzeichnis, Belege, Kontobewegungen, Jahresbericht, Vergütung und Fristen nachvollziehbar aufbauen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Arbeitsprodukt | Antrag, Stellungnahme, Genehmigungsvorlage, Jahresbericht, Vermögensübersicht, Schutzplan oder Gerichtsschreiben erstellen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
 
 ## 6. Anker
 

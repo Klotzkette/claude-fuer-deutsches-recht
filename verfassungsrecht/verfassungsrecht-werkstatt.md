@@ -130,9 +130,6 @@ Arbeitsgriff Arbeitsprodukt: Verfassungsbeschwerde, Stellungnahme, Normenkontrol
 - BVerfG, Beschluss vom 14.02.1973 - 1 BvR 112/65: Soraya stärkt Persönlichkeitsrecht und richterliche Rechtsfortbildung.
 - BVerfG, Urteil vom 15.12.1983 - 1 BvR 209/83 u.a.: Volkszählung entwickelt informationelle Selbstbestimmung.
 - BVerfG, Urteil vom 24.05.2006 - 2 BvR 669/04: Artikel 16 Absatz 1 GG schließt die zeitnahe Rücknahme einer durch eigene Täuschung erschlichenen Einbürgerung nicht grundsätzlich aus; die Rücknahme braucht eine hinreichend bestimmte gesetzliche Grundlage.
-- BVerfG, Beschluss vom 27.01.2026, 2 BvE 14/25, amtliche Fundstelle: [https://www.bundesverfassungsgericht.de/SharedDocs/Entscheidungen/DE/2026/01/es20260127_2bve001425.html].
-- BVerfG, Urteil vom 23.09.2025, 1 BvR 1796/23, Altersgrenze Anwaltsnotare: gesetzliche Altersgrenze für Anwaltsnotarinnen und Anwaltsnotare verletzt Art. 12 Abs. 1 GG, wenn der gesetzgeberische Zweck unter den tatsächlichen Marktbedingungen nicht mehr trägt.
-- BVerfG, Beschluss vom 27.01.2026, 1 BvR 2637/21, Fleischwirtschaft: Fremdpersonal- und Kooperationsverbot im Kernbereich der Fleischwirtschaft wurde im Ergebnis nicht beanstandet.
 
 ## 9. Prüfraster
 
@@ -153,7 +150,7 @@ Arbeitsgriff Arbeitsprodukt: Verfassungsbeschwerde, Stellungnahme, Normenkontrol
 10.5. Beweislast: Beschwerdeführer für Grundrechtsbetroffenheit, Subsidiarität und Frist; Staat für Eingriff, Schranke und Verhältnismäßigkeit. Zeige ausdrücklich, welche Folge ein offener Beweis hat.
 10.6. Gegenposition: Formuliere den stärksten ernsthaften Angriff; hier setzt die Gegenseite typischerweise bei welcher Hoheitsakt und welche Frist sind entscheidend an.
 10.7. Erwiderung: Antworte mit konkretem Gegenbeleg, Auslegung oder Beweislastregel und ziehe die Folge auf Nichtannahmerisiko, Verfassungsbeschwerde, Eilantrag, Normenkontrolle oder Verhältnismäßigkeitsprüfung; ein bloßes Bestreiten genügt nicht.
-10.8. Arbeitsprodukt: Schließe mit Antrag, Tenor, Klausel, Entscheidung oder nächstem Schritt; hier typischerweise Ausgabe entlang der Kernfelder Parteiverbot und Finanzierungsausschluss, BVerfG-Prozessarten-Navigator, Verfassungsbeschwerde-Versandmappe endfertigen, Gesetzentwurf — GG-Konformität prüfen (Gesetzgebersicht): Kurzvermerk, Prüfmatrix, Entwurf, Fristenblatt oder Fragenliste mit nächstem Schritt.
+10.8. Arbeitsprodukt: Schließe mit Antrag, Tenor, Klausel, Entscheidung oder nächstem Schritt; hier typischerweise Ausgabe entlang der Kernfelder Parteiverbot und Finanzierungsausschluss, BVerfG-Prozessarten-Navigator, Gleichheit, Existenzminimum und Schutzpflicht, Verfassungsbeschwerde-Versandmappe endfertigen: Kurzvermerk, Prüfmatrix, Entwurf, Fristenblatt oder Fragenliste mit nächstem Schritt.
 10.9. Quellenstatus: Ordne Rechtsprechung nach Tragweite ein; erste Fallanker sind BVerfG, Urteil vom 15.01.1958 - 1 BvR 400/51; BVerfG, Urteil vom 11.06.1958 - 1 BvR 596/56.
 
 ## 11. Outputvarianten und Empfängerwunsch
@@ -190,12 +187,12 @@ Die Landkarte dient der schnellen Auswahl. Sie ersetzt nicht die darunter ausfor
 | --- | --- | --- |
 | Parteiverbot und Finanzierungsausschluss | Dieser Arbeitsgang prüft Parteiverbotsverfahren nach Artikel 21 Absatz 2 und 4 GG sowie Verfahren auf Ausschluss von staatlicher Finanzierung nach Artikel 21 Absatz 3 GG. | Fachvotum zu Parteiverbot und Finanzierungsausschluss mit Tatbestandsmerkmalen, Aktenfundstellen, Beweislast, stärkster Gegenposition, Risiko und ausformulierter Rechtsfolge |
 | BVerfG-Prozessarten-Navigator | Ein Gesetz soll abstrakt kontrolliert werden: abstrakte Normenkontrolle; Antragstellerkreis streng prüfen. Ein Fachgericht hält ein Gesetz für verfassungswidrig: konkrete Normenkontrolle. | Fachvotum zu BVerfG-Prozessarten-Navigator mit Tatbestandsmerkmalen, Aktenfundstellen, Beweislast, stärkster Gegenposition, Risiko und ausformulierter Rechtsfolge |
+| Gleichheit, Existenzminimum und Schutzpflicht | BvR 1541/20 -: Artikel 3 Absatz 3 Satz 2 GG begründet einen Schutzauftrag gegen behinderungsbezogene Benachteiligung. | Fachvotum zu Gleichheit, Existenzminimum und Schutzpflicht mit Tatbestandsmerkmalen, Aktenfundstellen, Beweislast, stärkster Gegenposition, Risiko und ausformulierter Rechtsfolge |
 | Verfassungsbeschwerde-Versandmappe endfertigen | Ordne angegriffene Entscheidungen zuerst, danach Zustellnachweise, entscheidungserhebliche Schriftsätze, Beweismittel und Vollmacht. | frist- und formgerechter Entwurf mit Antrag, tragenden Tatsachen, Beweisangeboten, Anlagen und Einreichungsweg |
 | Gesetzentwurf — GG-Konformität prüfen (Gesetzgebersicht) | Gesetzentwurf auf Grundgesetz-Konformität prüfen bevor Gesetzgebungsverfahren eingeleitet wird. | Fachvotum zu Gesetzentwurf — GG-Konformität prüfen (Gesetzgebersicht) mit Tatbestandsmerkmalen, Aktenfundstellen, Beweislast, stärkster Gegenposition, Risiko und ausformulierter. |
 | Gesetzgebungskompetenz prüfen | Prüfe Beschwerdegegenstand, Beschwerdebefugnis, Rechtswegerschöpfung, Frist, Prüfungsmaßstab, Einschätzungsprärogative und Folgenabwägung. | Fachvotum zu Gesetzgebungskompetenz prüfen mit Tatbestandsmerkmalen, Aktenfundstellen, Beweislast, stärkster Gegenposition, Risiko und ausformulierter Rechtsfolge |
 | Grundrechtsprüfung | Grundrechtsprüfung nach dem Drei-Stufen-Schema durchführen wenn staatliche Maßnahme Grundrecht berührt. | gewichtete Prüfmatrix mit Tatbestandsmerkmalen, Fundstellen, Gegenposition, Beweislast, Risiko und Empfehlung |
 | Verhältnismäßigkeit (Vier-Stufen-Prüfung) | Prüfe Beschwerdegegenstand, Beschwerdebefugnis, Rechtswegerschöpfung, Frist, Prüfungsmaßstab, Einschätzungsprärogative und Folgenabwägung. Die Verhältnismäßigkeit ist die wichtigste Schranken-Schranke. | gewichtete Prüfmatrix mit Tatbestandsmerkmalen, Fundstellen, Gegenposition, Beweislast, Risiko und Empfehlung |
-| Art. 12 GG: Berufsfreiheit und Regulierungsdichte | Bearbeite Art. 12 GG: Berufsfreiheit und Regulierungsdichte entlang der Verfassungsrecht-Prüflinie: Beschwerdegegenstand, Hoheitsakt, Beschwerdeführer und Frist feststellen | Fachvotum zu Art. 12 GG: Berufsfreiheit und Regulierungsdichte mit Tatbestandsmerkmalen, Aktenfundstellen, Beweislast, stärkster Gegenposition, Risiko und ausformulierter. |
 | Formelle Verfassungsmäßigkeit prüfen | Formelle Verfassungsmäßigkeit eines Gesetzes prüfen: Kompetenz Verfahren Form. Abgrenzung: nicht für materielle Verfassungsmäßigkeit (grundrechtsprüfung). | Fachvotum zu Formelle Verfassungsmäßigkeit prüfen mit Tatbestandsmerkmalen, Aktenfundstellen, Beweislast, stärkster Gegenposition, Risiko und ausformulierter Rechtsfolge |
 
 ## 16. Fachspezifische Praxisrouten
@@ -206,7 +203,7 @@ Diese Routen stammen aus den konkreten Arbeitsthemen dieses Plugins. Wähle die 
 
 Bearbeitungsauftrag: Dieser Arbeitsgang prüft Parteiverbotsverfahren nach Artikel 21 Absatz 2 und 4 GG sowie Verfahren auf Ausschluss von staatlicher Finanzierung nach Artikel 21 Absatz 3 GG. Landesregierungen tragen kein Parteiverbotsverfahren; bei Nicht-Parteien ist an Artikel 9 Absatz 2 GG und Vereinsrecht zu denken. Schutzgut: Freiheitliche demokratische Grundordnung im Kern auf Menschenwürde, Demokratieprinzip und Rechtsstaatlichkeit zurückführen.
 Prüfschritte: Er eignet sich für Ministerialvermerke, Fraktionsvorlagen, wissenschaftliche Gutachten, Prozessrisikoanalysen und die Abgrenzung zu Verfassungsschutzbeobachtung oder Vereinsverbot.
-Norm- oder Entscheidungsbezug aus dem Fachmaterial: Dieser Arbeitsgang prüft Parteiverbotsverfahren nach Artikel 21 Absatz 2 und 4 GG sowie Verfahren auf Ausschluss von staatlicher Finanzierung nach Artikel 21 Absatz 3 GG.
+Normbezug aus dem Fachmaterial: Dieser Arbeitsgang prüft Parteiverbotsverfahren nach Artikel 21 Absatz 2 und 4 GG sowie Verfahren auf Ausschluss von staatlicher Finanzierung nach Artikel 21 Absatz 3 GG.
 Lieferstück: Fachvotum zu Parteiverbot und Finanzierungsausschluss mit Tatbestandsmerkmalen, Aktenfundstellen, Beweislast, stärkster Gegenposition, Risiko und ausformulierter Rechtsfolge.
 
 ### 16.2. BVerfG-Prozessarten-Navigator
@@ -215,64 +212,59 @@ Bearbeitungsauftrag: Ein Gesetz soll abstrakt kontrolliert werden: abstrakte Nor
 Prüfschritte: Dieser Arbeitsgang entscheidet, welches Verfahren vor dem Bundesverfassungsgericht überhaupt statthaft ist; Er verhindert, dass jeder verfassungsrechtliche Streit reflexhaft als Verfassungsbeschwerde behandelt wird; Er ist besonders wichtig, wenn Verfassungsorgane, Fraktionen, Abgeordnete, Parteien, Landesregierungen, Gerichte, Kommunen oder Bürger unterschiedliche Anträge stellen wollen.
 Lieferstück: Fachvotum zu BVerfG-Prozessarten-Navigator mit Tatbestandsmerkmalen, Aktenfundstellen, Beweislast, stärkster Gegenposition, Risiko und ausformulierter Rechtsfolge.
 
-### 16.3. Verfassungsbeschwerde-Versandmappe endfertigen
+### 16.3. Gleichheit, Existenzminimum und Schutzpflicht
+
+Bearbeitungsauftrag: BvR 1541/20 -: Artikel 3 Absatz 3 Satz 2 GG begründet einen Schutzauftrag gegen behinderungsbezogene Benachteiligung. In der konkreten Triage-Konstellation verdichtete er sich wegen der Gefahr für Leben und struktureller Ungleichheit zu einer Schutzpflicht. Die Entscheidung prüfte den Eingriff in Artikel 12 Absatz 1 GG und beendete die Rechtfertigungsprüfung bei der formellen Verfassungswidrigkeit.
+Lieferstück: Fachvotum zu Gleichheit, Existenzminimum und Schutzpflicht mit Tatbestandsmerkmalen, Aktenfundstellen, Beweislast, stärkster Gegenposition, Risiko und ausformulierter Rechtsfolge.
+
+### 16.4. Verfassungsbeschwerde-Versandmappe endfertigen
 
 Bearbeitungsauftrag: Ordne angegriffene Entscheidungen zuerst, danach Zustellnachweise, entscheidungserhebliche Schriftsätze, Beweismittel und Vollmacht. Das Register nennt Datum, Gericht, Aktenzeichen, Seiten und die Rüge, für die das Dokument benötigt wird. Bürger ohne anwaltliche Einreichung dürfen weiterhin schriftlich oder per Telefax handeln.
 Prüfschritte: Lies jede angegriffene Entscheidung vollständig, dazu Zustellnachweise, Anhörungsrüge, fachgerichtliche Schriftsätze, Vollmacht und Entwurf; Erzeuge eine Kette von Ausgangsentscheidung bis letztinstanzlicher Entscheidung mit Datum, Aktenzeichen, Zustellung, gerügtem Grundrecht und genauer Fundstelle; Verwende eine neutrale, durchgängige Anlagenfolge statt automatisch K/B; Jede Seite trägt rechts oben ihre Bezeichnung.
 Lieferstück: frist- und formgerechter Entwurf mit Antrag, tragenden Tatsachen, Beweisangeboten, Anlagen und Einreichungsweg.
 
-### 16.4. Gesetzentwurf — GG-Konformität prüfen (Gesetzgebersicht)
+### 16.5. Gesetzentwurf — GG-Konformität prüfen (Gesetzgebersicht)
 
 Bearbeitungsauftrag: Gesetzentwurf auf Grundgesetz-Konformität prüfen bevor Gesetzgebungsverfahren eingeleitet wird. Prüfraster: formelle Verfassungsmäßigkeit Grundrechte Artikel 20 GG Rechtsstaatsprinzip Verhältnismäßigkeit EU-Recht-Konformität. Prüfe Beschwerdegegenstand, Beschwerdebefugnis, Rechtswegerschöpfung, Frist, Prüfungsmaßstab, Einschätzungsprärogative und Folgenabwägung.
-Norm- oder Entscheidungsbezug aus dem Fachmaterial: Artikel 1 20 GG Grundprinzipien Artikel 70-80 GG Gesetzgebung.
+Normbezug aus dem Fachmaterial: Artikel 1 20 GG Grundprinzipien Artikel 70-80 GG Gesetzgebung.
 Lieferstück: Fachvotum zu Gesetzentwurf — GG-Konformität prüfen (Gesetzgebersicht) mit Tatbestandsmerkmalen, Aktenfundstellen, Beweislast, stärkster Gegenposition, Risiko und ausformulierter Rechtsfolge.
 
-### 16.5. Gesetzgebungskompetenz prüfen
+### 16.6. Gesetzgebungskompetenz prüfen
 
 Bearbeitungsauftrag: Prüfe Beschwerdegegenstand, Beschwerdebefugnis, Rechtswegerschöpfung, Frist, Prüfungsmaßstab, Einschätzungsprärogative und Folgenabwägung. Bei Überschneidungen: Schwerpunkt der Regelung entscheidet, nicht die formale Benennung. Rspr. Grundregel Artikel 70 Absatz 1 GG: Länder haben das Recht der Gesetzgebung, soweit das GG nicht dem Bund Gesetzgebungsbefugnisse verleiht.
 Lieferstück: Fachvotum zu Gesetzgebungskompetenz prüfen mit Tatbestandsmerkmalen, Aktenfundstellen, Beweislast, stärkster Gegenposition, Risiko und ausformulierter Rechtsfolge.
 
-### 16.6. Grundrechtsprüfung
+### 16.7. Grundrechtsprüfung
 
 Bearbeitungsauftrag: Grundrechtsprüfung nach dem Drei-Stufen-Schema durchführen wenn staatliche Maßnahme Grundrecht berührt. Prüfraster: Schutzbereich Eingriff Rechtfertigung verfassungsrechtliche Schranken Wesensgehalt Artikel 19 Absatz 2 GG Verhältnismäßigkeit. Prüfe Beschwerdegegenstand, Beschwerdebefugnis, Rechtswegerschöpfung, Frist, Prüfungsmaßstab, Einschätzungsprärogative und Folgenabwägung.
-Norm- oder Entscheidungsbezug aus dem Fachmaterial: Artikel 1-19 GG Grundrechte Artikel 20 Absatz 3 GG Verhältnismäßigkeit.
+Normbezug aus dem Fachmaterial: Artikel 1-19 GG Grundrechte Artikel 20 Absatz 3 GG Verhältnismäßigkeit.
 Lieferstück: gewichtete Prüfmatrix mit Tatbestandsmerkmalen, Fundstellen, Gegenposition, Beweislast, Risiko und Empfehlung.
 
-### 16.7. Verhältnismäßigkeit (Vier-Stufen-Prüfung)
+### 16.8. Verhältnismäßigkeit (Vier-Stufen-Prüfung)
 
 Bearbeitungsauftrag: Prüfe Beschwerdegegenstand, Beschwerdebefugnis, Rechtswegerschöpfung, Frist, Prüfungsmaßstab, Einschätzungsprärogative und Folgenabwägung. Die Verhältnismäßigkeit ist die wichtigste Schranken-Schranke. Sie wurzelt im Rechtsstaatsprinzip (Artikel 20 Absatz 3 GG) und im Wesen der Grundrechte selbst.
 Lieferstück: gewichtete Prüfmatrix mit Tatbestandsmerkmalen, Fundstellen, Gegenposition, Beweislast, Risiko und Empfehlung.
 
-### 16.8. Art. 12 GG: Berufsfreiheit und Regulierungsdichte
-
-Bearbeitungsauftrag: Bearbeite Art. 12 GG: Berufsfreiheit und Regulierungsdichte entlang der Verfassungsrecht-Prüflinie: Beschwerdegegenstand, Hoheitsakt, Beschwerdeführer und Frist feststellen.
-Prüfschritte: Amtliche Fundstelle: [https://www.bundesverfassungsgericht.de/SharedDocs/Entscheidungen/DE/2025/09/rs202509231bvr179623.html]; amtliche Fundstelle: [https://www.bundesverfassungsgericht.de/SharedDocs/Entscheidungen/DE/2026/01/rs202601271bvr263721.html].
-Norm- oder Entscheidungsbezug aus dem Fachmaterial: BVerfG, Urteil vom 11.06.1958, 1 BvR 596/56, Apothekenurteil: klassische Drei-Stufen-Theorie der Berufsfreiheit.
-Lieferstück: Fachvotum zu Art. 12 GG: Berufsfreiheit und Regulierungsdichte mit Tatbestandsmerkmalen, Aktenfundstellen, Beweislast, stärkster Gegenposition, Risiko und ausformulierter Rechtsfolge.
-
 ### 16.9. Formelle Verfassungsmäßigkeit prüfen
 
 Bearbeitungsauftrag: Formelle Verfassungsmäßigkeit eines Gesetzes prüfen: Kompetenz Verfahren Form. Abgrenzung: nicht für materielle Verfassungsmäßigkeit (grundrechtsprüfung). Prüfe Beschwerdegegenstand, Beschwerdebefugnis, Rechtswegerschöpfung, Frist, Prüfungsmaßstab, Einschätzungsprärogative und Folgenabwägung.
-Norm- oder Entscheidungsbezug aus dem Fachmaterial: Artikel 70 und folgende GG Gesetzgebungskompetenzen Artikel 76 und folgende GG Gesetzgebungsverfahren; Prüfraster: Gesetzgebungskompetenz Bund/Land Artikel 70-74 GG Verfahren Artikel 76-78 GG Ausfertigung Artikel 82 GG.
+Normbezug aus dem Fachmaterial: Artikel 70 und folgende GG Gesetzgebungskompetenzen Artikel 76 und folgende GG Gesetzgebungsverfahren; Prüfraster: Gesetzgebungskompetenz Bund/Land Artikel 70-74 GG Verfahren Artikel 76-78 GG Ausfertigung Artikel 82 GG.
 Lieferstück: Fachvotum zu Formelle Verfassungsmäßigkeit prüfen mit Tatbestandsmerkmalen, Aktenfundstellen, Beweislast, stärkster Gegenposition, Risiko und ausformulierter Rechtsfolge.
 
-### 16.10. Digitaler Staat, Polizei und Überwachung
+### 16.10. Art. 5 GG: Meinung, Presse und Mehrdeutigkeit
+
+Bearbeitungsauftrag: BvR 400/51, Lüth: Wechselwirkungslehre und objektive Wertordnung.
+Prüfschritte: 1 BvR 400/51, Lüth: Wechselwirkungslehre und objektive Wertordnung; a., "Soldaten sind Mörder": mehrdeutige kollektive Äußerungen dürfen nicht ohne verfassungskonforme Deutung strafrechtlich verengt werden; amtliche Fundstelle: [https://www.bundesverfassungsgericht.de/SharedDocs/Entscheidungen/DE/2025/07/rk202507281bvr194924.html]; amtliche Fundstelle: [https://www.bundesverfassungsgericht.de/SharedDocs/Entscheidungen/DE/2025/12/rk202512111bvr098625.html].
+Lieferstück: Fachvotum zu Art. 5 GG: Meinung, Presse und Mehrdeutigkeit mit Tatbestandsmerkmalen, Aktenfundstellen, Beweislast, stärkster Gegenposition, Risiko und ausformulierter Rechtsfolge.
+
+### 16.11. Digitaler Staat, Polizei und Überwachung
 
 Bearbeitungsauftrag: Bearbeite Digitaler Staat, Polizei und Überwachung entlang der Verfassungsrecht-Prüflinie: Beschwerdegegenstand, Hoheitsakt, Beschwerdeführer und Frist feststellen.
 Prüfschritte: Amtliche Fundstelle: [https://www.bundesverfassungsgericht.de/SharedDocs/Entscheidungen/DE/2024/11/ls202411141bvl000322.html]; amtliche Fundstelle: [https://www.bundesverfassungsgericht.de/SharedDocs/Entscheidungen/DE/2025/06/rs202506241bvr246619.html].
-Norm- oder Entscheidungsbezug aus dem Fachmaterial: BVerfG, Beschluss vom 14.11.2024, 1 BvL 3/22, PolG NRW Observation: längerfristige Observation unter Anfertigung von Bildaufnahmen und Bildaufzeichnungen ist ohne hinreichende Eingriffsschwelle mit dem Grundgesetz unvereinbar.
 Lieferstück: Fachvotum zu Digitaler Staat, Polizei und Überwachung mit Tatbestandsmerkmalen, Aktenfundstellen, Beweislast, stärkster Gegenposition, Risiko und ausformulierter Rechtsfolge.
 
-### 16.11. Organstreit: Bundestag, Fraktion und Opposition
+### 16.12. Organstreit: Bundestag, Fraktion und Opposition
 
 Bearbeitungsauftrag: Antragsgegenstand: konkrete Maßnahme oder Unterlassung. Antragsbefugnis: mögliche Verletzung eigener verfassungsrechtlicher Rechte. Frist: sechs Monate ab Bekanntwerden der Maßnahme oder Unterlassung.
 Prüfschritte: Amtliche Fundstelle: [https://www.bundesverfassungsgericht.de/SharedDocs/Entscheidungen/DE/2026/01/es20260127_2bve001425.html]; Geschäftsordnungs- oder Höflichkeitsfragen werden nicht automatisch zu verfassungsrechtlichen Ansprüchen.
-Norm- oder Entscheidungsbezug aus dem Fachmaterial: BVerfG, Beschluss vom 27.01.2026, 2 BvE 14/25, Otto-Wels-Saal: Das Grundgesetz vermittelt Fraktionen keinen Anspruch auf einen bestimmten symbolträchtigen Sitzungssaal.
 Lieferstück: Fachvotum zu Organstreit: Bundestag, Fraktion und Opposition mit Tatbestandsmerkmalen, Aktenfundstellen, Beweislast, stärkster Gegenposition, Risiko und ausformulierter Rechtsfolge.
-
-### 16.12. Gleichheit, Existenzminimum und Schutzpflicht
-
-Bearbeitungsauftrag: Vor Zitierung Randnummern auf bundesverfassungsgericht.de oder frei zugänglicher Quelle prüfen.
-Prüfschritte: Amtliche Fundstelle: [https://www.bundesverfassungsgericht.de/SharedDocs/Entscheidungen/DE/2025/09/rs202509231bvr228423.html]; amtliche Fundstelle: [https://www.bundesverfassungsgericht.de/SharedDocs/Entscheidungen/DE/2026/04/ls202604151bvl000521.html].
-Norm- oder Entscheidungsbezug aus dem Fachmaterial: BVerfG, Beschluss vom 16.12.2021, 1 BvR 1541/20: Der Gesetzgeber muss Vorkehrungen treffen, damit Menschen mit Behinderung bei pandemiebedingter Triage nicht benachteiligt werden.
-Lieferstück: Fachvotum zu Gleichheit, Existenzminimum und Schutzpflicht mit Tatbestandsmerkmalen, Aktenfundstellen, Beweislast, stärkster Gegenposition, Risiko und ausformulierter Rechtsfolge.

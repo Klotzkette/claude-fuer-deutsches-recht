@@ -183,7 +183,7 @@ Diese Routen stammen aus den konkreten Arbeitsthemen dieses Plugins. Wähle die 
 ### 16.1. BAFA Dual-Use-Check: Genehmigungspflichten für China-Exporte
 
 Bearbeitungsauftrag: BAFA-Dual-Use-Genehmigungsprüfung für Exporte nach VR China: EU-VO 2021/821 Anhang I (AL-Listung), Catch-All-Klausel Artikel 4 Absatz 1, End-User-Zertifikat (EUC), Ablehnungsgründe, Strafbarkeit Paragrafen 17 AWG, Unterschied Ausfuhrgenehmigung und Vermarktungsgenehmigung, Einzelfall-Anträge BAFA. Ordne Lieferant, Werk, Datenfluss, Zahlungsweg, Exportgut, politisches Risiko, IP-Leck und Exit-Szenario getrennt. Begleitet Mandanten und Berater im Wirtschaftsverkehr mit der Volksrepublik China.
-Norm- oder Entscheidungsbezug aus dem Fachmaterial: BAFA-Dual-Use-Genehmigungsprüfung für Exporte nach VR China: EU-VO 2021/821 Anhang I (AL-Listung), Catch-All-Klausel Artikel 4 Absatz 1, End-User-Zertifikat (EUC), Ablehnungsgründe, Strafbarkeit Paragrafen 17 AWG, Unterschied Ausfuhrgenehmigung und Vermarktungsgenehmigung.
+Normbezug aus dem Fachmaterial: BAFA-Dual-Use-Genehmigungsprüfung für Exporte nach VR China: EU-VO 2021/821 Anhang I (AL-Listung), Catch-All-Klausel Artikel 4 Absatz 1, End-User-Zertifikat (EUC), Ablehnungsgründe, Strafbarkeit Paragrafen 17 AWG, Unterschied Ausfuhrgenehmigung und Vermarktungsgenehmigung.
 Lieferstück: gewichtete Prüfmatrix mit Tatbestandsmerkmalen, Fundstellen, Gegenposition, Beweislast, Risiko und Empfehlung.
 
 ### 16.2. Kapitalverkehrskontrollen China: SAFE/CIPS und Zahlungsrisiken
@@ -234,11 +234,10 @@ Lieferstück: Fachvotum zu Vermögensschutz und Cash-Repatriierung China: SAFE u
 
 ### 16.11. De Risking Nicht Decoupling
 
-Bearbeitungsauftrag: Bearbeite De Risking Nicht Decoupling entlang der Internationales Wirtschaftsrecht und grenzüberschreitende Fälle-Prüflinie: Auslands-Zergliederung: Parteien mit Sitzstaaten, Vertragsklauseln zu Rechtswahl, Gerichtsstand und Schiedsverfahren.
+Bearbeitungsauftrag: Bearbeite De Risking Nicht Decoupling als konkreten Vorgang im Gebiet Internationales Wirtschaftsrecht und grenzüberschreitende Fälle.
 Lieferstück: Fachvotum zu De Risking Nicht Decoupling mit Tatbestandsmerkmalen, Aktenfundstellen, Beweislast, stärkster Gegenposition, Risiko und ausformulierter Rechtsfolge.
 
-### 16.12. Elektronik und Halbleiter: Exportkontrolle und US/EU-Regulierung
+### 16.12. Cloud und ERP in China: ICP/MLPS/Datenlokalisierung
 
-Bearbeitungsauftrag: Fall 2: Eine Rechtsabteilung benötigt einen Prüfbericht zu Electronics And Semiconductors für ein laufendes China-Projekt. Fall 3: Ein Vorstand bittet um ein Board-Paper zu Electronics And Semiconductors im Kontext der De-risking-Strategie. Relevante Normen identifizieren: AWG Paragrafen 55 und folgende , AWV Paragrafen 55-62a als Ausgangspunkt.
-Prüfschritte: Fall 1: Ein Unternehmen fragt nach konkreten Handlungspflichten im Bereich Electronics And Semiconductors beim Chinageschäft.
-Lieferstück: Kontrollvermerk zu Elektronik und Halbleiter: Exportkontrolle und US/EU-Regulierung mit Pflicht, Ist-Nachweis, Abweichung, Risiko, Verantwortlichem, Frist und Freigabe.
+Bearbeitungsauftrag: Bearbeite Cloud und ERP in China: ICP/MLPS/Datenlokalisierung als konkreten Vorgang im Gebiet Internationales Wirtschaftsrecht und grenzüberschreitende Fälle.
+Lieferstück: Fachvotum zu Cloud und ERP in China: ICP/MLPS/Datenlokalisierung mit Tatbestandsmerkmalen, Aktenfundstellen, Beweislast, stärkster Gegenposition, Risiko und ausformulierter Rechtsfolge.

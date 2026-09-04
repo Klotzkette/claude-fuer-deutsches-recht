@@ -177,12 +177,12 @@ Die Landkarte dient der schnellen Auswahl. Sie ersetzt nicht die darunter ausfor
 | Offboarding — Account-Sperre und Datenübergabe | Welcher Trennungstyp: ordentliche Kündigung, fristlose Kündigung nach Paragraf 626 BGB, Aufhebungsvertrag, Befristungsende, Eigenkündigung, Tod, Insolvenz? | Fachvotum zu Offboarding — Account-Sperre und Datenübergabe mit Tatbestandsmerkmalen, Aktenfundstellen, Beweislast, stärkster Gegenposition, Risiko und ausformulierter Rechtsfolge |
 | Betriebsrat Gründung Reagieren | Trenne HR-Operations, arbeitsrechtliche Pflicht, Datenschutzrisiko, Führungskommunikation, Lohnabrechnung und dokumentierten nächsten Schritt. | Fachvotum zu Betriebsrat Gründung Reagieren mit Tatbestandsmerkmalen, Aktenfundstellen, Beweislast, stärkster Gegenposition, Risiko und ausformulierter Rechtsfolge |
 | Abmahnung Entwurf und Risiko | Trenne HR-Operations, arbeitsrechtliche Pflicht, Datenschutzrisiko, Führungskommunikation, Lohnabrechnung und dokumentierten nächsten Schritt. Frage nur nach, wenn die Antwort den nächsten Schritt wirklich verändert | versandfertiges Schreiben mit Betreff, Sachverhaltskern, Rechtsgrund, konkretem Begehren, Frist und Anlagenverzeichnis |
-| Arbeitsvertrag Founder Nahe Schlüsselrolle | Frage nur nach, wenn die Antwort den nächsten Schritt wirklich verändert | verhandlungsfähige Fassung mit Ausgangstext, Änderung, Begründung, Rückfallposition und Vollzugscheck |
-| Vorgang und Verantwortlicher | Beschäftigter, Führungskraft, HR, Payroll, Betriebsrat, Ziel, Termin und Eskalationsstufe bestimmen | versandfertiges Schreiben mit Betreff, Sachverhaltskern, Rechtsgrund, konkretem Begehren, Frist und Anlagenverzeichnis |
-| Vertrags- und Statuscheck | Tätigkeit, Arbeitsort, Vergütung, Arbeitszeit, Beginn, Befristung, Nebenabrede, Nachweis und Unterschrift prüfen | verhandlungsfähige Fassung mit Ausgangstext, Änderung, Begründung, Rückfallposition und Vollzugscheck |
-| Laufender Betrieb | Zeiterfassung, Urlaub, Krankheit, Entgelt, Benefit, Weisung, Personalaktenbeleg und Mitbestimmung ordnen | Fachvotum zu Laufender Betrieb mit Tatbestandsmerkmalen, Aktenfundstellen, Beweislast, stärkster Gegenposition, Risiko und ausformulierter Rechtsfolge |
-| Beschwerde und Konflikt | Meldung, Schutzpflicht, Anhörung, Untersuchung, Beweisgewinnung, Vertraulichkeit, Abmahnung und Gleichbehandlung trennen | frist- und formgerechter Entwurf mit Antrag, tragenden Tatsachen, Beweisangeboten, Anlagen und Einreichungsweg |
-| Trennung und Output | Beteiligung, Form, Zugang, Frist, Zeugnis, Rückgabe, Payroll-Abschluss und Vertrags-, Memo- oder Prozessprodukt erstellen | Fachvotum zu Trennung und Output mit Tatbestandsmerkmalen, Aktenfundstellen, Beweislast, stärkster Gegenposition, Risiko und ausformulierter Rechtsfolge |
+| Policy Rollout Change Kommunikation | Bearbeite Policy Rollout Change Kommunikation: arbeitsvertrag, aktuelle Maßnahme, Frist, Form, Beteiligungsrecht, Beleg und nächstes Personal- oder Prozessdokument ordnen. | Fachvotum zu Policy Rollout Change Kommunikation mit Tatbestandsmerkmalen, Aktenfundstellen, Beweislast, stärkster Gegenposition, Risiko und ausformulierter Rechtsfolge |
+| Praktikanten Werkstudenten Trainees | Bearbeite Praktikanten Werkstudenten Trainees: arbeitsvertrag, aktuelle Maßnahme, Frist, Form, Beteiligungsrecht, Beleg und nächstes Personal- oder Prozessdokument ordnen. | Fachvotum zu Praktikanten Werkstudenten Trainees mit Tatbestandsmerkmalen, Aktenfundstellen, Beweislast, stärkster Gegenposition, Risiko und ausformulierter Rechtsfolge |
+| Pre Employment Screening Background Check | Bearbeite Pre Employment Screening Background Check: arbeitsvertrag, aktuelle Maßnahme, Frist, Form, Beteiligungsrecht, Beleg und nächstes Personal- oder Prozessdokument ordnen. | gewichtete Prüfmatrix mit Tatbestandsmerkmalen, Fundstellen, Gegenposition, Beweislast, Risiko und Empfehlung |
+| Probearbeit Schnuppertag und Assessment | Bearbeite Probearbeit Schnuppertag und Assessment: arbeitsvertrag, aktuelle Maßnahme, Frist, Form, Beteiligungsrecht, Beleg und nächstes Personal- oder Prozessdokument ordnen. | Fachvotum zu Probearbeit Schnuppertag und Assessment mit Tatbestandsmerkmalen, Aktenfundstellen, Beweislast, stärkster Gegenposition, Risiko und ausformulierter Rechtsfolge |
+| Psychische Belastung Krise Suizidale Äußerung | Bearbeite Psychische Belastung Krise Suizidale Äußerung: arbeitsvertrag, aktuelle Maßnahme, Frist, Form, Beteiligungsrecht, Beleg und nächstes Personal- oder Prozessdokument ordnen. | Fachvotum zu Psychische Belastung Krise Suizidale Äußerung mit Tatbestandsmerkmalen, Aktenfundstellen, Beweislast, stärkster Gegenposition, Risiko und ausformulierter Rechtsfolge |
+| Recruiting AGG Stellenanzeige | Bearbeite Recruiting AGG Stellenanzeige: meldung, Schutzpflicht, Anhörung, Vertraulichkeit, Beleg, Maßnahme und Benachteiligungsrisiko in einer Fallakte trennen. | vollständige Einreichungs- oder Registervorlage mit Zuständigkeit, Pflichtfeldern, Nachweisen, Freigabe und Vollzugskontrolle |
 
 ## 16. Fachspezifische Praxisrouten
 
@@ -204,47 +204,47 @@ Lieferstück: Fachvotum zu Betriebsrat Gründung Reagieren mit Tatbestandsmerkma
 Bearbeitungsauftrag: Trenne HR-Operations, arbeitsrechtliche Pflicht, Datenschutzrisiko, Führungskommunikation, Lohnabrechnung und dokumentierten nächsten Schritt. Frage nur nach, wenn die Antwort den nächsten Schritt wirklich verändert.
 Lieferstück: versandfertiges Schreiben mit Betreff, Sachverhaltskern, Rechtsgrund, konkretem Begehren, Frist und Anlagenverzeichnis.
 
-### 16.4. Arbeitsvertrag Founder Nahe Schlüsselrolle
+### 16.4. Policy Rollout Change Kommunikation
 
-Bearbeitungsauftrag: Frage nur nach, wenn die Antwort den nächsten Schritt wirklich verändert.
-Lieferstück: verhandlungsfähige Fassung mit Ausgangstext, Änderung, Begründung, Rückfallposition und Vollzugscheck.
+Bearbeitungsauftrag: Bearbeite Policy Rollout Change Kommunikation: arbeitsvertrag, aktuelle Maßnahme, Frist, Form, Beteiligungsrecht, Beleg und nächstes Personal- oder Prozessdokument ordnen. Verbinde den konkreten Aktenfund mit Tatbestandsmerkmal, Gegenposition, Beweislast, Rechtsfolge und dem nächsten vollständig ausformulierten Arbeitsprodukt.
+Lieferstück: Fachvotum zu Policy Rollout Change Kommunikation mit Tatbestandsmerkmalen, Aktenfundstellen, Beweislast, stärkster Gegenposition, Risiko und ausformulierter Rechtsfolge.
 
-### 16.5. Vorgang und Verantwortlicher
+### 16.5. Praktikanten Werkstudenten Trainees
 
-Bearbeitungsauftrag: Beschäftigter, Führungskraft, HR, Payroll, Betriebsrat, Ziel, Termin und Eskalationsstufe bestimmen.
-Lieferstück: versandfertiges Schreiben mit Betreff, Sachverhaltskern, Rechtsgrund, konkretem Begehren, Frist und Anlagenverzeichnis.
+Bearbeitungsauftrag: Bearbeite Praktikanten Werkstudenten Trainees: arbeitsvertrag, aktuelle Maßnahme, Frist, Form, Beteiligungsrecht, Beleg und nächstes Personal- oder Prozessdokument ordnen. Verbinde den konkreten Aktenfund mit Tatbestandsmerkmal, Gegenposition, Beweislast, Rechtsfolge und dem nächsten vollständig ausformulierten Arbeitsprodukt.
+Lieferstück: Fachvotum zu Praktikanten Werkstudenten Trainees mit Tatbestandsmerkmalen, Aktenfundstellen, Beweislast, stärkster Gegenposition, Risiko und ausformulierter Rechtsfolge.
 
-### 16.6. Vertrags- und Statuscheck
+### 16.6. Pre Employment Screening Background Check
 
-Bearbeitungsauftrag: Tätigkeit, Arbeitsort, Vergütung, Arbeitszeit, Beginn, Befristung, Nebenabrede, Nachweis und Unterschrift prüfen.
-Lieferstück: verhandlungsfähige Fassung mit Ausgangstext, Änderung, Begründung, Rückfallposition und Vollzugscheck.
+Bearbeitungsauftrag: Bearbeite Pre Employment Screening Background Check: arbeitsvertrag, aktuelle Maßnahme, Frist, Form, Beteiligungsrecht, Beleg und nächstes Personal- oder Prozessdokument ordnen. Verbinde den konkreten Aktenfund mit Tatbestandsmerkmal, Gegenposition, Beweislast, Rechtsfolge und dem nächsten vollständig ausformulierten Arbeitsprodukt.
+Lieferstück: gewichtete Prüfmatrix mit Tatbestandsmerkmalen, Fundstellen, Gegenposition, Beweislast, Risiko und Empfehlung.
 
-### 16.7. Laufender Betrieb
+### 16.7. Probearbeit Schnuppertag und Assessment
 
-Bearbeitungsauftrag: Zeiterfassung, Urlaub, Krankheit, Entgelt, Benefit, Weisung, Personalaktenbeleg und Mitbestimmung ordnen.
-Lieferstück: Fachvotum zu Laufender Betrieb mit Tatbestandsmerkmalen, Aktenfundstellen, Beweislast, stärkster Gegenposition, Risiko und ausformulierter Rechtsfolge.
+Bearbeitungsauftrag: Bearbeite Probearbeit Schnuppertag und Assessment: arbeitsvertrag, aktuelle Maßnahme, Frist, Form, Beteiligungsrecht, Beleg und nächstes Personal- oder Prozessdokument ordnen. Verbinde den konkreten Aktenfund mit Tatbestandsmerkmal, Gegenposition, Beweislast, Rechtsfolge und dem nächsten vollständig ausformulierten Arbeitsprodukt.
+Lieferstück: Fachvotum zu Probearbeit Schnuppertag und Assessment mit Tatbestandsmerkmalen, Aktenfundstellen, Beweislast, stärkster Gegenposition, Risiko und ausformulierter Rechtsfolge.
 
-### 16.8. Beschwerde und Konflikt
+### 16.8. Psychische Belastung Krise Suizidale Äußerung
 
-Bearbeitungsauftrag: Meldung, Schutzpflicht, Anhörung, Untersuchung, Beweisgewinnung, Vertraulichkeit, Abmahnung und Gleichbehandlung trennen.
-Lieferstück: frist- und formgerechter Entwurf mit Antrag, tragenden Tatsachen, Beweisangeboten, Anlagen und Einreichungsweg.
+Bearbeitungsauftrag: Bearbeite Psychische Belastung Krise Suizidale Äußerung: arbeitsvertrag, aktuelle Maßnahme, Frist, Form, Beteiligungsrecht, Beleg und nächstes Personal- oder Prozessdokument ordnen. Verbinde den konkreten Aktenfund mit Tatbestandsmerkmal, Gegenposition, Beweislast, Rechtsfolge und dem nächsten vollständig ausformulierten Arbeitsprodukt.
+Lieferstück: Fachvotum zu Psychische Belastung Krise Suizidale Äußerung mit Tatbestandsmerkmalen, Aktenfundstellen, Beweislast, stärkster Gegenposition, Risiko und ausformulierter Rechtsfolge.
 
-### 16.9. Trennung und Output
+### 16.9. Recruiting AGG Stellenanzeige
 
-Bearbeitungsauftrag: Beteiligung, Form, Zugang, Frist, Zeugnis, Rückgabe, Payroll-Abschluss und Vertrags-, Memo- oder Prozessprodukt erstellen.
-Lieferstück: Fachvotum zu Trennung und Output mit Tatbestandsmerkmalen, Aktenfundstellen, Beweislast, stärkster Gegenposition, Risiko und ausformulierter Rechtsfolge.
+Bearbeitungsauftrag: Bearbeite Recruiting AGG Stellenanzeige: meldung, Schutzpflicht, Anhörung, Vertraulichkeit, Beleg, Maßnahme und Benachteiligungsrisiko in einer Fallakte trennen. Bestimme zuständige Stelle, Pflichtigen, Auslöser, Frist und Pflichtfelder, führe jeden Eintrag auf einen Tatsachenbeleg zurück und liefere freigabefähige Meldung oder Bericht samt Übermittlungsnachweis, Korrekturweg und Anschlusskontrolle.
+Lieferstück: vollständige Einreichungs- oder Registervorlage mit Zuständigkeit, Pflichtfeldern, Nachweisen, Freigabe und Vollzugskontrolle.
 
-### 16.10. Arbeitsvertrag Befristung TzBfG
+### 16.10. Remote Work Policy
 
-Bearbeitungsauftrag: Bearbeite Arbeitsvertrag Befristung TzBfG: Tätigkeit, Arbeitsort, Vergütung, Arbeitszeit, Beginn, Befristung, Nebenabrede, Nachweis und Unterschrift prüfen.
-Lieferstück: verhandlungsfähige Fassung mit Ausgangstext, Änderung, Begründung, Rückfallposition und Vollzugscheck.
+Bearbeitungsauftrag: Bearbeite Remote Work Policy: arbeitsvertrag, aktuelle Maßnahme, Frist, Form, Beteiligungsrecht, Beleg und nächstes Personal- oder Prozessdokument ordnen. Verbinde den konkreten Aktenfund mit Tatbestandsmerkmal, Gegenposition, Beweislast, Rechtsfolge und dem nächsten vollständig ausformulierten Arbeitsprodukt.
+Lieferstück: Fachvotum zu Remote Work Policy mit Tatbestandsmerkmalen, Aktenfundstellen, Beweislast, stärkster Gegenposition, Risiko und ausformulierter Rechtsfolge.
 
-### 16.11. Arbeitsvertrag Englisch Deutsch Bilingual
+### 16.11. Retention Risk Map
 
-Bearbeitungsauftrag: Bearbeite Arbeitsvertrag Englisch Deutsch Bilingual: Beschäftigter, Führungskraft, HR, Payroll, Betriebsrat, Ziel, Termin und Eskalationsstufe bestimmen.
-Lieferstück: verhandlungsfähige Fassung mit Ausgangstext, Änderung, Begründung, Rückfallposition und Vollzugscheck.
+Bearbeitungsauftrag: Bearbeite Retention Risk Map: arbeitsvertrag, aktuelle Maßnahme, Frist, Form, Beteiligungsrecht, Beleg und nächstes Personal- oder Prozessdokument ordnen. Verbinde den konkreten Aktenfund mit Tatbestandsmerkmal, Gegenposition, Beweislast, Rechtsfolge und dem nächsten vollständig ausformulierten Arbeitsprodukt.
+Lieferstück: Fachvotum zu Retention Risk Map mit Tatbestandsmerkmalen, Aktenfundstellen, Beweislast, stärkster Gegenposition, Risiko und ausformulierter Rechtsfolge.
 
-### 16.12. Arbeitsvertrag Remote Hybrid Berlin
+### 16.12. Rollenrechte HR Team und Founder
 
-Bearbeitungsauftrag: Bearbeite Arbeitsvertrag Remote Hybrid Berlin: Beschäftigter, Führungskraft, HR, Payroll, Betriebsrat, Ziel, Termin und Eskalationsstufe bestimmen.
-Lieferstück: verhandlungsfähige Fassung mit Ausgangstext, Änderung, Begründung, Rückfallposition und Vollzugscheck.
+Bearbeitungsauftrag: Bearbeite Rollenrechte HR Team und Founder: arbeitsvertrag, aktuelle Maßnahme, Frist, Form, Beteiligungsrecht, Beleg und nächstes Personal- oder Prozessdokument ordnen. Verbinde den konkreten Aktenfund mit Tatbestandsmerkmal, Gegenposition, Beweislast, Rechtsfolge und dem nächsten vollständig ausformulierten Arbeitsprodukt.
+Lieferstück: Fachvotum zu Rollenrechte HR Team und Founder mit Tatbestandsmerkmalen, Aktenfundstellen, Beweislast, stärkster Gegenposition, Risiko und ausformulierter Rechtsfolge.

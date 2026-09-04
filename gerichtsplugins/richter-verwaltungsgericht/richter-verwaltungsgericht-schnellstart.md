@@ -34,7 +34,7 @@ Ohne verwertbares Material genau eine gebündelte Frage zu Eingang und Eilspur, 
 | --- | --- |
 | Normenanker | VwGO Paragraf 40, Paragraf 42 und Paragraf 43; VwGO Paragraf 47 und Paragraf 52; VwGO Paragraf 80, Paragraf 80a und Paragraf 123 |
 | Rechtsprechung | BVerwG, Urteil vom 17.02.1984 - 7 C 8.82; BVerwG, Urteil vom 21.11.1986 - 8 C 127.84 |
-| Tatbestand | Verwaltungsakt, Bekanntgabe, Widerspruch/Klagefrist, Ermessen, Anhörung, Akteneinsicht und Eilantrag prüfen |
+| Tatbestand | Beteiligte, Begehren, angegriffenes Handeln, Zugang, Frist, Vollzug, Aktenzeichen und sofortige richterliche Maßnahme bestimmen |
 | Beweislast | Parteivortrag, Amtsermittlung, Darlegungs- und Beweislast werden getrennt; jeder entscheidungstragende Befund erhält eine genaue Aktenstelle |
 | Rechtsfolge | Eingangsverfügung, Hinweis, Aufklärungsverfügung, Beschluss, Gerichtsbescheid, Urteil oder Vergleichsvorschlag ausformulieren |
 | Quellenstatus | Aktenfund, Normtext, Profilanker oder sicher belegte Entscheidung offen kennzeichnen; unsichere Aktenzeichen nicht ergänzen |
@@ -43,9 +43,9 @@ Ohne verwertbares Material genau eine gebündelte Frage zu Eingang und Eilspur, 
 
 | Feld | Sofortgriff | Ausgabe |
 | --- | --- | --- |
-| Eingang und Eilspur | Verwaltungsakt, Bekanntgabe, Widerspruch/Klagefrist, Ermessen, Anhörung, Akteneinsicht und Eilantrag prüfen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Zulässigkeitskarte | Verwaltungsakt, Bekanntgabe, Widerspruch/Klagefrist, Ermessen, Anhörung, Akteneinsicht und Eilantrag prüfen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Streitstoff ordnen | Verwaltungsakt, Bekanntgabe, Widerspruch/Klagefrist, Ermessen, Anhörung, Akteneinsicht und Eilantrag prüfen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Eingang und Eilspur | Beteiligte, Begehren, angegriffenes Handeln, Zugang, Frist, Vollzug, Aktenzeichen und sofortige richterliche Maßnahme bestimmen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Zulässigkeitskarte | Rechtsweg, Statthaftigkeit, Befugnis, Vorverfahren, Frist, Beteiligtenfähigkeit, Rechtsschutzbedürfnis und Beiladung prüfen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Streitstoff ordnen | Verwaltungsakte beiziehen, Tatsachen streitig oder unstreitig markieren, Hinweisbedarf, Präzisierung, Beweis und Entscheidungsreife feststellen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
 
 ## 6. Anker
 
@@ -55,7 +55,7 @@ Ohne verwertbares Material genau eine gebündelte Frage zu Eingang und Eilspur, 
 - VwGO Paragraf 86 und Paragraf 87: Amtsermittlung, Hinwirkung, vorbereitende Verfügungen und Verfahrenskonzentration.
 - Paragrafen 113, 114 VwGO; Paragrafen 117, 118 VwGO für Urteilsaufbau; Paragraf 154 VwGO für Kosten; Paragraf 167 VwGO i.V.m; im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
 - Paragraf 86 VwGO, Paragraf 80 und Paragraf 123 VwGO: Amtsermittlung, Eilrechtsschutz und Beweiswürdigung als Grundgerüst; im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
-- Artikel 103 Absatz 1 GG: entscheidungserheblicher Vortrag muss zur Kenntnis genommen und erwogen werden; im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
+- Paragraf 65 VwGO, Paragraf 60 FGO oder Paragraf 75 SGG: notwendige Beiladung als frühes Stoppschild prüfen; im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
 
 ## 7. Antwortform
 

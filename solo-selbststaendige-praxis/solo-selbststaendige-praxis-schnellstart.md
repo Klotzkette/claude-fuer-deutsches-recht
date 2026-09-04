@@ -48,7 +48,7 @@ Ohne verwertbares Material genau eine gebündelte Frage zu Status und Anmeldung,
 | Rechnung und Steuern | Pflichtangaben, Umsatzsteuerstatus, Fälligkeit, Ausgabe, Beleg, Abgabe und Rücklage ordnen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
 | Zahlungsausfall | Leistungsnachweis, Fälligkeit, Verzug, Mahnung, Einwendung, Mahn- oder Klageweg und Vollstreckbarkeit bestimmen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
 | Versicherung und Haftung | Tätigkeitsrisiko, Deckung, Ausschluss, Schadenanzeige, Selbstbehalt und Haftungsbegrenzung abgleichen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Liquidität und Krise | offene Forderungen, Abgaben, fixe Kosten, Reserve, Fortführungsentscheidung und nächsten sicheren Schritt berechnen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Liquidität und Krise | Offene Forderungen, Abgaben, fixe Kosten, Reserve, Fortführungsentscheidung und nächsten sicheren Schritt berechnen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
 
 ## 6. Anker
 

@@ -176,9 +176,9 @@ Die Landkarte dient der schnellen Auswahl. Sie ersetzt nicht die darunter ausfor
 | Akten- und Grundstücksaufnahme | Bei Überbau und Grenzverwirrung früh Vermessung erwägen. Bei Wegerechten Grundbuch, Baulasten und tatsächliche Nutzung getrennt prüfen. | Akten- und Belegmatrix zu Akten- und Grundstücksaufnahme mit Datum, Urheber, Fundstelle, Widerspruch, Fehlteil und nächstem Bearbeitungsschritt |
 | Beweissicherung, Ortstermin und Fotos | Frage zuerst nach Bundesland, Grundstücksgrenze, Lageplan/Vermessung, Fotos, Datum, Beteiligten und bisheriger Eskalation. Behandle Chatnachrichten und Fotos als Beweisansatz, nicht als feststehende Tatsache. | Fristenblatt zu Beweissicherung, Ortstermin und Fotos mit Auslöser, Beginn, Ende, Vorfrist, Beleg, Sofortmaßnahme und Verantwortlichem |
 | Einfriedung, Zaun, Mauer und Hecke | Öffentlich-rechtliche Genehmigungsfreiheit nicht mit zivilrechtlicher Zulässigkeit verwechseln. | Fachvotum zu Einfriedung, Zaun, Mauer und Hecke mit Tatbestandsmerkmalen, Aktenfundstellen, Beweislast, stärkster Gegenposition, Risiko und ausformulierter Rechtsfolge |
-| Grenzbaum und Grenzanlage | Frage zuerst nach Bundesland, Grundstücksgrenze, Lageplan/Vermessung, Fotos, Datum, Beteiligten und bisheriger Eskalation. | Fachvotum zu Grenzbaum und Grenzanlage mit Tatbestandsmerkmalen, Aktenfundstellen, Beweislast, stärkster Gegenposition, Risiko und ausformulierter Rechtsfolge |
 | Immissionen: Lärm, Geruch, Rauch, Licht | Art der Einwirkung: Geräusch, Geruch, Rauch, Ruß, Wärme, Licht, Erschütterung, ähnliche Einwirkung. | Fachvotum zu Immissionen: Lärm, Geruch, Rauch, Licht mit Tatbestandsmerkmalen, Aktenfundstellen, Beweislast, stärkster Gegenposition, Risiko und ausformulierter Rechtsfolge |
 | Landesnachbarrecht-Router | Behandle Chatnachrichten und Fotos als Beweisansatz, nicht als feststehende Tatsache. Markiere, was gemessen, besichtigt oder sachverständig geklärt werden muss. | Fachvotum zu Landesnachbarrecht-Router mit Tatbestandsmerkmalen, Aktenfundstellen, Beweislast, stärkster Gegenposition, Risiko und ausformulierter Rechtsfolge |
+| Vergleich, Mediation und Nachbarschaftsfrieden | Sortiere den Konflikt in getrennte Stränge: Grenze/Überbau, Pflanzen/Überhang, Immissionen, Bau/Vertiefung, Zugang/Notweg, Gefahr, Vergleich. | Verhandlungsblatt zu Vergleich, Mediation und Nachbarschaftsfrieden mit Ziel, Mindestposition, Tauschmasse, Risiko, Regelungstext und Vollzug |
 
 ## 16. Fachspezifische Praxisrouten
 
@@ -188,7 +188,7 @@ Diese Routen stammen aus den konkreten Arbeitsthemen dieses Plugins. Wähle die 
 
 Bearbeitungsauftrag: Bearbeite Drohender Einsturz und gefährliche Anlage entlang der Nachbarrecht und Grundstückskonflikte-Prüflinie: Grundstücke und Beteiligte: Grundbuch, Flurstück, Eigentümer, Besitzer, Grenze, Dienstbarkeit, Baulast und Zuständigkeit sichern.
 Prüfschritte: Paragraf 907 BGB: Gefahr drohende Anlage auf Nachbargrundstück; Paragraf 908 BGB: drohender Gebäudeeinsturz oder Ablösung von Gebäudeteilen; Paragraf 823 BGB und Verkehrssicherungspflichten; Öffentlich-rechtliche Gefahrenabwehr: Bauaufsicht/Ordnungsamt; Nicht selbst sichern, wenn dadurch Gefahr oder Besitzverletzung entsteht.
-Norm- oder Entscheidungsbezug aus dem Fachmaterial: Paragraf 907 BGB: Gefahr drohende Anlage auf Nachbargrundstück; Paragraf 908 BGB: drohender Gebäudeeinsturz oder Ablösung von Gebäudeteilen; Paragraf 823 BGB und Verkehrssicherungspflichten; Öffentlich-rechtliche Gefahrenabwehr: Bauaufsicht/Ordnungsamt.
+Normbezug aus dem Fachmaterial: Paragraf 907 BGB: Gefahr drohende Anlage auf Nachbargrundstück; Paragraf 908 BGB: drohender Gebäudeeinsturz oder Ablösung von Gebäudeteilen; Paragraf 823 BGB und Verkehrssicherungspflichten; Öffentlich-rechtliche Gefahrenabwehr: Bauaufsicht/Ordnungsamt.
 Lieferstück: Fachvotum zu Drohender Einsturz und gefährliche Anlage mit Tatbestandsmerkmalen, Aktenfundstellen, Beweislast, stärkster Gegenposition, Risiko und ausformulierter Rechtsfolge.
 
 ### 16.2. Horrorfall-Aktenauswertung
@@ -219,35 +219,34 @@ Bearbeitungsauftrag: Öffentlich-rechtliche Genehmigungsfreiheit nicht mit zivil
 Prüfschritte: Ist eine Einfriedung verlangt worden; Höhe, Material, Standort, Abstand, Kosten; Bebauungsplan, Gestaltungssatzung, Vorgartensatzung, Denkmalschutz?
 Lieferstück: Fachvotum zu Einfriedung, Zaun, Mauer und Hecke mit Tatbestandsmerkmalen, Aktenfundstellen, Beweislast, stärkster Gegenposition, Risiko und ausformulierter Rechtsfolge.
 
-### 16.7. Grenzbaum und Grenzanlage
-
-Bearbeitungsauftrag: Frage zuerst nach Bundesland, Grundstücksgrenze, Lageplan/Vermessung, Fotos, Datum, Beteiligten und bisheriger Eskalation. Sortiere den Konflikt in getrennte Stränge: Grenze/Überbau, Pflanzen/Überhang, Immissionen, Bau/Vertiefung, Zugang/Notweg, Gefahr, Vergleich. Behandle Chatnachrichten und Fotos als Beweisansatz, nicht als feststehende Tatsache.
-Prüfschritte: Steht der Stamm tatsächlich auf der Grenze; Dient die Anlage beiden Grundstücken; Gibt es äußere Merkmale für Alleineigentum; Welche Nutzung ist aus Beschaffenheit ableitbar; Darf die Anlage beseitigt oder verändert werden.
-Lieferstück: Fachvotum zu Grenzbaum und Grenzanlage mit Tatbestandsmerkmalen, Aktenfundstellen, Beweislast, stärkster Gegenposition, Risiko und ausformulierter Rechtsfolge.
-
-### 16.8. Immissionen: Lärm, Geruch, Rauch, Licht
+### 16.7. Immissionen: Lärm, Geruch, Rauch, Licht
 
 Bearbeitungsauftrag: Art der Einwirkung: Geräusch, Geruch, Rauch, Ruß, Wärme, Licht, Erschütterung, ähnliche Einwirkung. Sortiere den Konflikt in getrennte Stränge: Grenze/Überbau, Pflanzen/Überhang, Immissionen, Bau/Vertiefung, Zugang/Notweg, Gefahr, Vergleich. Behandle Chatnachrichten und Fotos als Beweisansatz, nicht als feststehende Tatsache.
 Prüfschritte: Wesentlichkeit: Dauer, Häufigkeit, Intensität, Tageszeit, Richtwerte; Ortsüblichkeit: Wohngebiet, Dorfgebiet, Gewerbe, Saison, Vorbelastung; Vermeidbarkeit und Zumutbarkeit von Schutzmaßnahmen; Messungen nur sinnvoll mit Methodik; Behördenvorgänge: Ordnungsamt, Immissionsschutz, Bauamt.
 Lieferstück: Fachvotum zu Immissionen: Lärm, Geruch, Rauch, Licht mit Tatbestandsmerkmalen, Aktenfundstellen, Beweislast, stärkster Gegenposition, Risiko und ausformulierter Rechtsfolge.
 
-### 16.9. Landesnachbarrecht-Router
+### 16.8. Landesnachbarrecht-Router
 
 Bearbeitungsauftrag: Behandle Chatnachrichten und Fotos als Beweisansatz, nicht als feststehende Tatsache. Markiere, was gemessen, besichtigt oder sachverständig geklärt werden muss. Priorisiere befriedende Lösungen, aber sichere Fristen, Besitzschutz und Eilrechtsschutz sichtbar ab.
 Prüfschritte: Für Nordrhein-Westfalen sind insbesondere das Nachbarrechtsgesetz NRW, Einfriedungsvorschriften und Pflanzenabstände zu prüfen; Konkrete Normen immer am aktuellen amtlichen Landesrecht abgleichen; Frage zuerst nach Bundesland, Grundstücksgrenze, Lageplan/Vermessung, Fotos, Datum, Beteiligten und bisheriger Eskalation; Sortiere den Konflikt in getrennte Stränge: Grenze/Überbau, Pflanzen/Überhang, Immissionen, Bau/Vertiefung, Zugang/Notweg, Gefahr, Vergleich.
 Lieferstück: Fachvotum zu Landesnachbarrecht-Router mit Tatbestandsmerkmalen, Aktenfundstellen, Beweislast, stärkster Gegenposition, Risiko und ausformulierter Rechtsfolge.
 
-### 16.10. Vergleich, Mediation und Nachbarschaftsfrieden
+### 16.9. Vergleich, Mediation und Nachbarschaftsfrieden
 
 Bearbeitungsauftrag: Sortiere den Konflikt in getrennte Stränge: Grenze/Überbau, Pflanzen/Überhang, Immissionen, Bau/Vertiefung, Zugang/Notweg, Gefahr, Vergleich. Markiere, was gemessen, besichtigt oder sachverständig geklärt werden muss. Priorisiere befriedende Lösungen, aber sichere Fristen, Besitzschutz und Eilrechtsschutz sichtbar ab.
 Prüfschritte: Erledigung und keine Präjudizwirkung, wenn gewünscht; Frieden heißt nicht Nachgeben ohne Akte; Erst Rechte kennen, dann verhandeln; Frage zuerst nach Bundesland, Grundstücksgrenze, Lageplan/Vermessung, Fotos, Datum, Beteiligten und bisheriger Eskalation; Behandle Chatnachrichten und Fotos als Beweisansatz, nicht als feststehende Tatsache.
 Lieferstück: Verhandlungsblatt zu Vergleich, Mediation und Nachbarschaftsfrieden mit Ziel, Mindestposition, Tauschmasse, Risiko, Regelungstext und Vollzug.
 
-### 16.11. Überbau-Prüfung
+### 16.10. Überbau-Prüfung
 
 Bearbeitungsauftrag: Gebäude/bauliche Anlage: Paragraf 912 BGB betrifft den Überbau bei Errichtung eines Gebäudes. Andere Anlagen können über Paragraf 1004 BGB laufen. Rechtsfolge: Duldung gegen Geldrente oder Beseitigung/Unterlassung.
 Prüfschritte: Was ragt über: Gebäude, Garage, Carport, Dämmung, Dachüberstand, Fundament, Mauer; War die Grenze bekannt, vermessen, markiert; Wurde vor oder sofort nach Grenzüberschreitung widersprochen; Liegt Vorsatz oder grobe Fahrlässigkeit nahe; Gibt es Baugenehmigung, Lageplan, Vermesser, Bauunternehmer.
 Lieferstück: gewichtete Prüfmatrix mit Tatbestandsmerkmalen, Fundstellen, Gegenposition, Beweislast, Risiko und Empfehlung.
+
+### 16.11. Aufforderungsschreiben an den Nachbarn
+
+Bearbeitungsauftrag: Frage zuerst nach Bundesland, Grundstücksgrenze, Lageplan/Vermessung, Fotos, Datum, Beteiligten und bisheriger Eskalation. Sortiere den Konflikt in getrennte Stränge: Grenze/Überbau, Pflanzen/Überhang, Immissionen, Bau/Vertiefung, Zugang/Notweg, Gefahr, Vergleich. Behandle Chatnachrichten und Fotos als Beweisansatz, nicht als feststehende Tatsache.
+Lieferstück: versandfertiges Schreiben mit Betreff, Sachverhaltskern, Rechtsgrund, konkretem Begehren, Frist und Anlagenverzeichnis.
 
 ### 16.12. Anspruchslandkarte BGB-Nachbarrecht
 

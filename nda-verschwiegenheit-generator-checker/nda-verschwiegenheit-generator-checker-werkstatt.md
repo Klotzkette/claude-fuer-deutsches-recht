@@ -235,7 +235,7 @@ Lieferstück: verhandlungsfähige Fassung mit Ausgangstext, Änderung, Begründu
 Bearbeitungsauftrag: Ordne Information, Zweckbindung, Empfänger, Laufzeit, Rückgabe/Löschung, erlaubte Offenlegung, Vertragsstrafe, Injunctive Relief und Whistleblowing-Ausnahme. Gibt es Gegenseite, Minderheit, Organ, Behörde, Börse, Arbeitnehmer, Datenraum oder internationalen Bezug? Im M&A-/Finanzierungsfall Informationsfluss staffeln: Teaser, CIM, Management Presentation, Q&A, Datenraum, Clean Team.
 Lieferstück: Akten- und Belegmatrix zu Offenlegung in Pitch und Datenraum mit Datum, Urheber, Fundstelle, Widerspruch, Fehlteil und nächstem Bearbeitungsschritt.
 
-### 16.12. Betriebsrat und Personalgespraech
+### 16.12. Datenschutz Datenschutz-Grundverordnung und Auftragsverarbeitung
 
-Bearbeitungsauftrag: Bearbeite Betriebsrat und Personalgespraech: zugang, Dreiwochenfrist, Schriftform, Beteiligungsrechte, Darlegungslast und Klage- oder Vergleichsziel sofort trennen. Verbinde den konkreten Aktenfund mit Tatbestandsmerkmal, Gegenposition, Beweislast, Rechtsfolge und dem nächsten vollständig ausformulierten Arbeitsprodukt.
-Lieferstück: Entwurfsbaustein zu Betriebsrat und Personalgespraech mit Geschäftsziel, Rechtswirkung, Risikozuweisung, Verhandlungsvariante, Freigabe und Vollzugsschritt.
+Bearbeitungsauftrag: Bearbeite Datenschutz Datenschutz-Grundverordnung und Auftragsverarbeitung entlang der Vertragsgestaltung und Vertragspraxis-Prüflinie: Geschäftsmodell und Parteien: Leistung, Gegenleistung, Rollen, Konzernbezug und Verhandlungsmacht feststellen.
+Lieferstück: Entwurfsbaustein zu Datenschutz Datenschutz-Grundverordnung und Auftragsverarbeitung mit Geschäftsziel, Rechtswirkung, Risikozuweisung, Verhandlungsvariante, Freigabe und Vollzugsschritt.

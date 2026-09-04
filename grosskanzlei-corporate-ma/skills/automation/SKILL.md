@@ -50,7 +50,8 @@ Art. 17 MAR (Ad-hoc-Publizitaet; Insiderinformationen) — Paragraf 33 ff. WpHG 
 |---|---|---|---|---|
 | Fusionskontrolle BKartA | Paragraf 35 ff. GWB | Vertraglich (typisch 3-6 Monate) | Regulatory-Lead | < 14 Tage bis Frist |
 | FDI-Screening BMWK | Paragraf 55 ff. AWV | Vertraglich / gesetzlich | Regulatory-Lead | Behördenanfrage unbeantwortet |
-| AR-Zustimmungsbeschluss | Paragraf 179a AktG | Vor Closing | Corporate-Lead | 21 Tage vor Closing |
+| Aufsichtsratszustimmung zu einem Vorbehaltsgeschäft | Paragraf 111 Absatz 4 AktG; Satzung oder Aufsichtsratsbeschluss | Vor Vornahme des Vorbehaltsgeschäfts; bei vereinbarter Vollzugsbedingung jedenfalls vor Closing | Corporate-Lead | 21 Tage vor Closing |
+| Hauptversammlungsbeschluss zur Übertragung des ganzen Gesellschaftsvermögens | Paragraf 179a AktG | Vor Closing, wenn der Tatbestand erfüllt ist | Corporate-Lead | 21 Tage vor Closing |
 | CoC-Zustimmungen (Tier 1-3) | Vertragliche Klauseln | SPA-Frist | Vertragslegal | Verweigerung oder Schweigen |
 | Gesellschafterliste Paragraf 40 GmbHG | Paragraf 40 GmbHG | Unverzueglich nach Closing | Corporate-Lead | > 14 Tage nach Closing |
 

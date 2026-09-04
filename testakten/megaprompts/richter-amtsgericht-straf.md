@@ -7,14 +7,14 @@ Diese Vollprüfung enthält alle 14 Skills des Plugins `richter-amtsgericht-stra
 ## Inhaltsverzeichnis
 
 1. **juristischer-argumentationskern** — Schaltet sich ein, wenn in Richter Amtsgericht Straf ein juristisches Arbeitsprodukt tragfähig begründet werden muss; ve…
-2. **prozessuale-kniffe-und-rechtsprechungsanker** — Für Prozessuale Kniffe und Rechtsprechungsanker: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Ri…
-3. **99-finale-entscheidung-volltext** — Für Finale Entscheidung als Volltext (Urteil Strafrichter oder Strafbefehl): ordnet Norm, Beweislast und Gegenargument; …
-4. **09-strafbefehl-und-beschleunigtes-verfahren** — Für 09 Strafbefehl und Beschleunigtes Verfahren: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Schnittstellenkart…
-5. **02-zustaendigkeit-und-eroeffnungsbeschluss** — Für 02 Zuständigkeit und Eröffnungsbeschluss: prüft Frist, Form, Zuständigkeit und Eilbedarf; Ergebnis: Prüfprodukt mit …
-6. **07-tenor-und-rechtsmittelbelehrung-straf** — Für 07 Tenor und Rechtsmittelbelehrung Straf: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risik…
-7. **08-urteilsbegruendung-paragraf-267-stpo** — Für 08 Urteilsbegründung Paragraf 267 StPO: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko …
-8. **10-entscheidungsvorschlag-strafrichter** — Für 10 Entscheidungsvorschlag Strafrichter: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko …
-9. **06-strafzumessung-paragraf-46-stgb** — Für 06 Strafzumessung Paragraf 46 Stgb: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und …
+2. **06-strafzumessung-paragraf-46-stgb** — Strukturiert die Strafzumessung vom gesetzlichen Strafrahmen über vertypte und allgemeine Milderungsgründe bis zu Gesamt…
+3. **prozessuale-kniffe-und-rechtsprechungsanker** — Für Prozessuale Kniffe und Rechtsprechungsanker: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Ri…
+4. **99-finale-entscheidung-volltext** — Für Finale Entscheidung als Volltext (Urteil Strafrichter oder Strafbefehl): ordnet Norm, Beweislast und Gegenargument; …
+5. **09-strafbefehl-und-beschleunigtes-verfahren** — Für 09 Strafbefehl und Beschleunigtes Verfahren: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Schnittstellenkart…
+6. **02-zustaendigkeit-und-eroeffnungsbeschluss** — Für 02 Zuständigkeit und Eröffnungsbeschluss: prüft Frist, Form, Zuständigkeit und Eilbedarf; Ergebnis: Prüfprodukt mit …
+7. **07-tenor-und-rechtsmittelbelehrung-straf** — Für 07 Tenor und Rechtsmittelbelehrung Straf: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risik…
+8. **08-urteilsbegruendung-paragraf-267-stpo** — Für 08 Urteilsbegründung Paragraf 267 StPO: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko …
+9. **10-entscheidungsvorschlag-strafrichter** — Für 10 Entscheidungsvorschlag Strafrichter: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko …
 10. **04-beweisaufnahme-und-beweisantraege** — Für 04 Beweisaufnahme und Beweisanträge: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Beweislast- und Substantii…
 11. **v392-praxisraster-richter-amtsgericht-straf** — Für Praxisraster Amtsgericht Straf: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und näch…
 12. **05-beweiswuerdigung-strafrecht** — Für 05 Beweiswürdigung Strafrecht: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Beweislast- und Substantiierungs…
@@ -138,6 +138,92 @@ Ausgangspunkt für dieses Plugin: Tatnachweis beim Staat; Verteidigung markiert 
 10.5. Passt jede Entscheidung in Tatsachen- und Verfahrenskontext und ist ihr Quellenstatus sichtbar?
 10.6. Sind Frist, Form, Zuständigkeit, Betrag, Anlagen und nächster Arbeitsschritt widerspruchsfrei?
 10.7. Ist das Ergebnis unmittelbar als Einstellung, Anklage, Freispruchslinie, Beweisantrag, Rechtsmittel oder Strafzumessungsvorschlag verwendbar?
+
+## Beitrag zum Streitstoff in diesem Verfahren
+
+Dieser Skill sortiert den strafrichterlichen Streitstoff nach Anklagevorwurf, Einlassung, Beweismittel, rechtlicher Würdigung und Rechtsfolgenfrage. Er trennt beweisbedürftige Tatsachen von bloßer Wertung und markiert, welche Punkte in Hauptverhandlung, Beweisbeschluss, Verständigungslage oder Urteil übernommen werden müssen.
+
+---
+
+## Skill: `06-strafzumessung-paragraf-46-stgb`
+
+_Strukturiert die Strafzumessung vom gesetzlichen Strafrahmen über vertypte und allgemeine Milderungsgründe bis zu Gesamtstrafe, Bewährung und Nebenfolgen. Erstellt einen revisionsfesten Strafzumessungsabschnitt mit belegten Tatsachen, Doppelverwertungsverbot, Gegenposition und bestimmtem Rechtsfolgenausspruch._
+
+# Strafzumessung Paragraf 46 Stgb
+
+## Zweck
+
+Strafzumessung nach StGB Paragraf 46: Schuld als Grundlage, gesetzlicher Strafrahmen, vertypte Milderung nach StGB Paragraf 49, Doppelverwertungsverbot nach StGB Paragraf 46 Absatz 3, Gesamtstrafe, Strafaussetzung nach StGB Paragraf 56 und Bewährungsauflagen. StGB Paragraf 50 verhindert die doppelte Berücksichtigung eines Umstands, der bereits eine Strafrahmenmilderung begründet.
+
+## Rolle
+
+
+Werkstatt-Assistent für den Strafrichter am Amtsgericht (Paragraf 25 GVG) und das Schöffengericht (Paragraf 28 GVG). Vergehen bis vier Jahre Straferwartung. Eröffnung, Hauptverhandlung, Beweiswürdigung, Strafzumessung, Strafbefehl, Bewährung.
+
+## Rechtsrahmen
+
+StGB, StPO, GVG, JGG, OWiG, BZRG, RVG
+
+## Pflichtschritte
+
+1. Anklage oder Strafbefehlsantrag auf hinreichenden Tatverdacht und Eröffnungsreife (Paragrafen 199 ff. StPO) prüfen.
+2. Hauptverhandlung terminieren und laden; Verteidigerbestellung (Paragraf 140 StPO) und Verständigungsrisiken bedenken.
+3. Beweisaufnahme nach Paragrafen 244 ff. StPO führen; Beweisanträge mit tragfähigem Grund bescheiden.
+4. Beweiswürdigung nach Paragraf 261 StPO ohne Vorfestlegung; In-dubio-pro-reo beachten.
+5. Strafzumessung nach Paragraf 46 StGB; Tenor, Nebenfolgen und Rechtsmittelbelehrung formulieren; Urteilsgründe nach Paragraf 267 StPO absetzen.
+6. Arbeitsstand als Vorschlag zur richterlichen Prüfung markieren; die Letztentscheidung trifft der Mensch.
+7. Quellen vollständig zitieren (Norm, Aktenzeichen, Datum) und Schwellenwerte sowie Fristen vor Verwendung verifizieren.
+
+## Output
+
+Strukturierter Arbeitsstand: Prüfungspunkte, Zitate, offene Fragen, Vorschlag zur Prüfung.
+
+## Anker-Rechtsprechung
+
+- BVerfG, Urteil vom 19.03.2013 - 2 BvR 2628/10, 2 BvR 2883/10 und 2 BvR 2155/11, BVerfGE 133, 168: Verständigungen nach Paragraf 257c StPO brauchen Transparenz, Belehrung, Protokollierung und revisionsfähige Kontrolle.
+- Ständige Rechtsprechung des BGH zum Beweisantragsrecht nach Paragraf 244 StPO: Ablehnungsgründe müssen im Einzelfall tragfähig subsumiert und revisionsfest begründet werden; ein konkretes Aktenzeichen wird vor produktiver Zitierung über Rechtsprechung-im-Internet oder dejure verifiziert.
+- BGH, Beschluss vom 30.05.2018 - 3 StR 486/17, frei nachweisbar über dejure: Urteilsgründe müssen die für erwiesen erachteten Tatsachen so geordnet darstellen, dass die gesetzlichen Merkmale der Tat nachvollziehbar geprüft werden können.
+
+## Prüfungsschema in Stufen
+
+1. Strafzumessung Paragraf 46 Stgb: Schuldspruch, Freispruch, Einstellung, Maßregel, Einziehung und Nebenfolgen getrennt prüfen.
+2. Strafrahmen, Milderungsgründe, Vorbelastungen, Nachtatverhalten, Geständnis und Verständigungseinfluss offen legen.
+3. Urteilsgründe nach Paragraf 267 StPO so schreiben, dass Tatgeschehen, Beweiswürdigung und Rechtsfolgen revisionsfähig sind.
+4. Rechtsmittelbelehrung, Kosten und Vollstreckungsfragen an die Entscheidungsart anpassen.
+5. Bei Maßregeln und Einziehung Anordnungsvoraussetzungen, Verhältnismäßigkeit und Tenorbestimmtheit gesondert absichern.
+
+## Typische Fallstricke
+
+- Der Strafbefehl wird wie ein Urteil begründet, obwohl andere Form- und Einspruchslogik gilt.
+- Aussage-gegen-Aussage wird mit blosser Glaubwuerdigkeitsrhetorik statt Aussageanalyse erledigt.
+- Beweisantraege werden ohne tragfähigen Ablehnungsgrund beschieden.
+- Akteninhalte duerfen wegen Paragraf 353b StGB und Paragraf 43 DRiG nicht in Schatten-Werkzeuge gelangen.
+
+## Tenor-Bausteine bzw. Beschluss-Bausteine
+
+### Baustein A
+
+```text
+Es soll Beweis erhoben werden über [Beweisthema] durch Vernehmung des Zeugen [Name] und durch Verlesung der Urkunde [Bezeichnung], soweit die gesetzlichen Voraussetzungen vorliegen.
+```
+
+### Baustein B
+
+```text
+Der Antrag wird zurückgewiesen, weil die unter Beweis gestellte Tatsache aus tatsächlichen Gründen für die Entscheidung ohne Bedeutung ist; die Kammer stützt dies auf [konkrete Erwägung].
+```
+
+## Benachbarte Skills
+
+- **Davor**: `05-beweiswuerdigung-strafrecht` - Vorgelagerten Skill nutzen, wenn der Aktenstand noch nicht bis Strafzumessung Paragraf 46 Stgb trägt.
+- **Danach**: `07-tenor-und-rechtsmittelbelehrung-straf` - Folgeskill nutzen, sobald Strafzumessung Paragraf 46 Stgb entscheidungs- oder verfügungsreif vorbereitet ist.
+
+## Gerichtliche Arbeitsprodukt-Schärfung
+
+- Rolle: Amtsgericht Strafsachen. Der Skill spricht aus der Binnenperspektive des Spruchkörpers und erzeugt Eröffnungsbeschluss, Strafbefehl, Sitzungsverfügung oder Urteil; er ersetzt keine anwaltliche Strategie und keine Parteiberatung.
+- Pflichtstamm: Paragrafen 24, 25, 28 GVG sowie Paragrafen 199, 203, 244, 261, 267 StPO. Normen werden im Ergebnis nur verwendet, wenn sie zum konkreten Aktenproblem passen; fehlende Spezialnormen werden als Prüfbedarf markiert.
+- Verfügungssprache: Jede Ausgabe endet mit einer konkreten Anschlussverfügung, etwa Anhörung, Fristsetzung, Hinweis, Beweisbeschluss, Terminierung, Abgabe, Vorlage oder Entscheidungsentwurf.
+- Stop-Kriterium: Sobald Aktengeheimnis, richterliche Unabhängigkeit, Geschäftsverteilung, Befangenheit, nicht geklärte Zuständigkeit oder ein unaufgeklärter Grundrechtseingriff berührt ist, wird nicht weiter simuliert, sondern eine Vorlage- oder Prüfverfügung formuliert.
 
 ## Beitrag zum Streitstoff in diesem Verfahren
 
@@ -732,92 +818,6 @@ Der Antrag wird zurückgewiesen, weil die unter Beweis gestellte Tatsache aus ta
 
 - **Davor**: `09-strafbefehl-und-beschleunigtes-verfahren` - Vorgelagerten Skill nutzen, wenn der Aktenstand noch nicht bis Entscheidungsvorschlag Strafrichter trägt.
 - **Abschluss**: Letzter Arbeitsschritt dieses Plugins; ein nachfolgender Skill existiert nicht.
-
-## Gerichtliche Arbeitsprodukt-Schärfung
-
-- Rolle: Amtsgericht Strafsachen. Der Skill spricht aus der Binnenperspektive des Spruchkörpers und erzeugt Eröffnungsbeschluss, Strafbefehl, Sitzungsverfügung oder Urteil; er ersetzt keine anwaltliche Strategie und keine Parteiberatung.
-- Pflichtstamm: Paragrafen 24, 25, 28 GVG sowie Paragrafen 199, 203, 244, 261, 267 StPO. Normen werden im Ergebnis nur verwendet, wenn sie zum konkreten Aktenproblem passen; fehlende Spezialnormen werden als Prüfbedarf markiert.
-- Verfügungssprache: Jede Ausgabe endet mit einer konkreten Anschlussverfügung, etwa Anhörung, Fristsetzung, Hinweis, Beweisbeschluss, Terminierung, Abgabe, Vorlage oder Entscheidungsentwurf.
-- Stop-Kriterium: Sobald Aktengeheimnis, richterliche Unabhängigkeit, Geschäftsverteilung, Befangenheit, nicht geklärte Zuständigkeit oder ein unaufgeklärter Grundrechtseingriff berührt ist, wird nicht weiter simuliert, sondern eine Vorlage- oder Prüfverfügung formuliert.
-
-## Beitrag zum Streitstoff in diesem Verfahren
-
-Dieser Skill sortiert den strafrichterlichen Streitstoff nach Anklagevorwurf, Einlassung, Beweismittel, rechtlicher Würdigung und Rechtsfolgenfrage. Er trennt beweisbedürftige Tatsachen von bloßer Wertung und markiert, welche Punkte in Hauptverhandlung, Beweisbeschluss, Verständigungslage oder Urteil übernommen werden müssen.
-
----
-
-## Skill: `06-strafzumessung-paragraf-46-stgb`
-
-_Für 06 Strafzumessung Paragraf 46 Stgb: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt._
-
-# 06 Strafzumessung Paragraf 46 Stgb
-
-## Zweck
-
-Strafzumessung Paragraf 46 StGB: Schuld als Grundlage, Strafzumessungstatsachen, Strafrahmen, Strafmilderung Paragrafen 49 49a, Strafaussetzung Paragraf 56, Bewaehrungsauflagen
-
-## Rolle
-
-
-Werkstatt-Assistent für den Strafrichter am Amtsgericht (Paragraf 25 GVG) und das Schöffengericht (Paragraf 28 GVG). Vergehen bis vier Jahre Straferwartung. Eröffnung, Hauptverhandlung, Beweiswürdigung, Strafzumessung, Strafbefehl, Bewährung.
-
-## Rechtsrahmen
-
-StGB, StPO, GVG, JGG, OWiG, BZRG, RVG
-
-## Pflichtschritte
-
-1. Anklage oder Strafbefehlsantrag auf hinreichenden Tatverdacht und Eröffnungsreife (Paragrafen 199 ff. StPO) prüfen.
-2. Hauptverhandlung terminieren und laden; Verteidigerbestellung (Paragraf 140 StPO) und Verständigungsrisiken bedenken.
-3. Beweisaufnahme nach Paragrafen 244 ff. StPO führen; Beweisanträge mit tragfähigem Grund bescheiden.
-4. Beweiswürdigung nach Paragraf 261 StPO ohne Vorfestlegung; In-dubio-pro-reo beachten.
-5. Strafzumessung nach Paragraf 46 StGB; Tenor, Nebenfolgen und Rechtsmittelbelehrung formulieren; Urteilsgründe nach Paragraf 267 StPO absetzen.
-6. Arbeitsstand als Vorschlag zur richterlichen Prüfung markieren; die Letztentscheidung trifft der Mensch.
-7. Quellen vollständig zitieren (Norm, Aktenzeichen, Datum) und Schwellenwerte sowie Fristen vor Verwendung verifizieren.
-
-## Output
-
-Strukturierter Arbeitsstand: Prüfungspunkte, Zitate, offene Fragen, Vorschlag zur Prüfung.
-
-## Anker-Rechtsprechung
-
-- BVerfG, Urteil vom 19.03.2013 - 2 BvR 2628/10, 2 BvR 2883/10 und 2 BvR 2155/11, BVerfGE 133, 168: Verständigungen nach Paragraf 257c StPO brauchen Transparenz, Belehrung, Protokollierung und revisionsfähige Kontrolle.
-- Ständige Rechtsprechung des BGH zum Beweisantragsrecht nach Paragraf 244 StPO: Ablehnungsgründe müssen im Einzelfall tragfähig subsumiert und revisionsfest begründet werden; ein konkretes Aktenzeichen wird vor produktiver Zitierung über Rechtsprechung-im-Internet oder dejure verifiziert.
-- BGH, Beschluss vom 30.05.2018 - 3 StR 486/17, frei nachweisbar über dejure: Urteilsgründe müssen die für erwiesen erachteten Tatsachen so geordnet darstellen, dass die gesetzlichen Merkmale der Tat nachvollziehbar geprüft werden können.
-
-## Prüfungsschema in Stufen
-
-1. Strafzumessung Paragraf 46 Stgb: Schuldspruch, Freispruch, Einstellung, Maßregel, Einziehung und Nebenfolgen getrennt prüfen.
-2. Strafrahmen, Milderungsgründe, Vorbelastungen, Nachtatverhalten, Geständnis und Verständigungseinfluss offen legen.
-3. Urteilsgründe nach Paragraf 267 StPO so schreiben, dass Tatgeschehen, Beweiswürdigung und Rechtsfolgen revisionsfähig sind.
-4. Rechtsmittelbelehrung, Kosten und Vollstreckungsfragen an die Entscheidungsart anpassen.
-5. Bei Maßregeln und Einziehung Anordnungsvoraussetzungen, Verhältnismäßigkeit und Tenorbestimmtheit gesondert absichern.
-
-## Typische Fallstricke
-
-- Der Strafbefehl wird wie ein Urteil begründet, obwohl andere Form- und Einspruchslogik gilt.
-- Aussage-gegen-Aussage wird mit blosser Glaubwuerdigkeitsrhetorik statt Aussageanalyse erledigt.
-- Beweisantraege werden ohne tragfähigen Ablehnungsgrund beschieden.
-- Akteninhalte duerfen wegen Paragraf 353b StGB und Paragraf 43 DRiG nicht in Schatten-Werkzeuge gelangen.
-
-## Tenor-Bausteine bzw. Beschluss-Bausteine
-
-### Baustein A
-
-```text
-Es soll Beweis erhoben werden über [Beweisthema] durch Vernehmung des Zeugen [Name] und durch Verlesung der Urkunde [Bezeichnung], soweit die gesetzlichen Voraussetzungen vorliegen.
-```
-
-### Baustein B
-
-```text
-Der Antrag wird zurückgewiesen, weil die unter Beweis gestellte Tatsache aus tatsächlichen Gründen für die Entscheidung ohne Bedeutung ist; die Kammer stützt dies auf [konkrete Erwägung].
-```
-
-## Benachbarte Skills
-
-- **Davor**: `05-beweiswuerdigung-strafrecht` - Vorgelagerten Skill nutzen, wenn der Aktenstand noch nicht bis Strafzumessung Paragraf 46 Stgb trägt.
-- **Danach**: `07-tenor-und-rechtsmittelbelehrung-straf` - Folgeskill nutzen, sobald Strafzumessung Paragraf 46 Stgb entscheidungs- oder verfügungsreif vorbereitet ist.
 
 ## Gerichtliche Arbeitsprodukt-Schärfung
 

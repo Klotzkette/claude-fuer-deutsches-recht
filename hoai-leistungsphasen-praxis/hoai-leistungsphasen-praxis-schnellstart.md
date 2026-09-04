@@ -34,7 +34,7 @@ Ohne verwertbares Material genau eine gebündelte Frage zu Vertrag und Zeitstand
 | --- | --- |
 | Normenanker | BGB Paragraf 650p und Paragraf 650q; BGB Paragraf 650r und Paragraf 650s; BGB Paragraf 633, Paragraf 634 und Paragraf 640 |
 | Rechtsprechung | EuGH, Urteil vom 04.07.2019 - C-377/17; EuGH, Urteil vom 18.01.2022 - C-261/20 |
-| Tatbestand | Vertragsjahr, Leistungsbild, Leistungsphase, geschuldeter Erfolg, Leistungsstand, Honorar, Nachtrag und Haftungsbeleg trennen |
+| Tatbestand | Abschlussdatum, HOAI-Fassung, Parteien, Objekt, Leistungsbild, Stufenabruf, Zielfindung und vereinbarter Erfolg erfassen |
 | Beweislast | Planer für beauftragte und erbrachte Leistung sowie Honorarparameter; Auftraggeber für Mangel, Änderungsanordnung, Zahlung und mitwirkungsbedingte Störung |
 | Rechtsfolge | Leistungsstandsmatrix, Honorarblatt, Nachtragsangebot, Bedenkenhinweis, Mängelvermerk oder Projektbericht |
 | Quellenstatus | Aktenfund, Normtext, Profilanker oder sicher belegte Entscheidung offen kennzeichnen; unsichere Aktenzeichen nicht ergänzen |
@@ -43,9 +43,9 @@ Ohne verwertbares Material genau eine gebündelte Frage zu Vertrag und Zeitstand
 
 | Feld | Sofortgriff | Ausgabe |
 | --- | --- | --- |
-| Vertrag und Zeitstand | Vertragsjahr, Leistungsbild, Leistungsphase, geschuldeter Erfolg, Leistungsstand, Honorar, Nachtrag und Haftungsbeleg trennen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Leistungsstand | Vertragsjahr, Leistungsbild, Leistungsphase, geschuldeter Erfolg, Leistungsstand, Honorar, Nachtrag und Haftungsbeleg trennen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Honorar und Nachtrag | Vertragsjahr, Leistungsbild, Leistungsphase, geschuldeter Erfolg, Leistungsstand, Honorar, Nachtrag und Haftungsbeleg trennen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Vertrag und Zeitstand | Abschlussdatum, HOAI-Fassung, Parteien, Objekt, Leistungsbild, Stufenabruf, Zielfindung und vereinbarter Erfolg erfassen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Leistungsstand | Leistungsphasen, Grund- und Besondere Leistungen, Teilleistungen, Planstände, Freigaben, Protokolle und offene Schnittstellen belegen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Honorar und Nachtrag | Honorarvereinbarung, anrechenbare Kosten, Honorarzone, Satz, Umbauzuschlag, Nebenkosten, Abschläge und Änderungsleistung berechnen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
 
 
 ## 6. Anker

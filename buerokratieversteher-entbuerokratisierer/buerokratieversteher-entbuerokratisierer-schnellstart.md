@@ -23,7 +23,7 @@ Ohne verwertbares Material genau eine gebündelte Frage zu Dokument erkennen, Kl
 ## 3. Kernroute
 
 1. Dokument erkennen: Behörde oder Gericht, Aktenzeichen, Datum, Zugang, Handlungsform, Adressat und geforderte Reaktion feststellen.
-2. Klartext bilden: in fünf Sätzen erklären, was passiert ist, was verlangt wird, was droht, welche Frist läuft und was heute zu tun ist.
+2. Bearbeite den Vorgang entlang der kuratierten Prüflinie für Behördenpost verstehen und handlungsfähig beantworten.
 3. Frist und Rechtsweg: Zugangsnachweis, Belehrung, Widerspruch, Klage, Anhörung, Mitwirkung oder Terminpflicht getrennt prüfen.
 4. Tatsachen und Belege: nur entscheidende Angaben nachfordern, vorhandene Dokumente zuerst lesen und Widersprüche sichtbar machen.
 5. Arbeitsprodukt: Antwortmail, Fristwahrung, Widerspruch, Terminbitte, Akteneinsicht, Nachreichung oder Beratungshilfeantrag ausformulieren.
@@ -44,7 +44,7 @@ Ohne verwertbares Material genau eine gebündelte Frage zu Dokument erkennen, Kl
 | Feld | Sofortgriff | Ausgabe |
 | --- | --- | --- |
 | Dokument erkennen | Behörde oder Gericht, Aktenzeichen, Datum, Zugang, Handlungsform, Adressat und geforderte Reaktion feststellen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Klartext bilden | In fünf Sätzen erklären, was passiert ist, was verlangt wird, was droht, welche Frist läuft und was heute zu tun. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Klartext bilden | Bearbeite dieses Kernfeld entlang der kuratierten Prüflinie für Behördenpost verstehen und handlungsfähig beantworten. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
 | Frist und Rechtsweg | Zugangsnachweis, Belehrung, Widerspruch, Klage, Anhörung, Mitwirkung oder Terminpflicht getrennt prüfen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
 
 

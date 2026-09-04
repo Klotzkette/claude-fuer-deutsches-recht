@@ -34,7 +34,7 @@ Ohne verwertbares Material genau eine gebündelte Frage zu Eingangskontrolle, St
 | --- | --- |
 | Normenanker | FGO Paragraf 33 und Paragraf 40; FGO Paragraf 44 und Paragraf 47; FGO Paragraf 56 und Paragraf 69 |
 | Rechtsprechung | BFH, Beschluss vom 11.09.2024 - XI B 18/24; BFH, Beschluss vom 13.12.2024 - IX B 101/24 |
-| Tatbestand | Bescheid, Bekanntgabe, Einspruchsfrist, Besteuerungsgrundlage, Beleg, Schätzung und Aussetzungsbedarf getrennt prüfen |
+| Tatbestand | Steuerart, Zeitraum, Bescheid, Änderungsstand, Einspruchsentscheidung, Bekanntgabe, Antrag, Klagefrist und Zahlungslage erfassen |
 | Beweislast | Parteivortrag, Amtsermittlung, Darlegungs- und Beweislast werden getrennt; jeder entscheidungstragende Befund erhält eine genaue Aktenstelle |
 | Rechtsfolge | Eingangsverfügung, Aufklärungsanordnung, Aussetzungsbeschluss, Hinweis, Gerichtsbescheid, Urteil oder Vergleichsvorschlag erstellen |
 | Quellenstatus | Aktenfund, Normtext, Profilanker oder sicher belegte Entscheidung offen kennzeichnen; unsichere Aktenzeichen nicht ergänzen |
@@ -43,9 +43,9 @@ Ohne verwertbares Material genau eine gebündelte Frage zu Eingangskontrolle, St
 
 | Feld | Sofortgriff | Ausgabe |
 | --- | --- | --- |
-| Eingangskontrolle | Bescheid, Bekanntgabe, Einspruchsfrist, Besteuerungsgrundlage, Beleg, Schätzung und Aussetzungsbedarf getrennt prüfen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Streitgegenstand | Bescheid, Bekanntgabe, Einspruchsfrist, Besteuerungsgrundlage, Beleg, Schätzung und Aussetzungsbedarf getrennt prüfen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Zulässigkeit und Eilspur | Bescheid, Bekanntgabe, Einspruchsfrist, Besteuerungsgrundlage, Beleg, Schätzung und Aussetzungsbedarf getrennt prüfen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Eingangskontrolle | Steuerart, Zeitraum, Bescheid, Änderungsstand, Einspruchsentscheidung, Bekanntgabe, Antrag, Klagefrist und Zahlungslage erfassen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Streitgegenstand | Angefochtener Verwaltungsakt, Teilanfechtung, Besteuerungsgrundlage, Verböserung, Klageänderung und Bindungswirkung bestimmen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Zulässigkeit und Eilspur | Vorverfahren, Beschwer, Vollmacht, Frist, Wiedereinsetzung, Aussetzung und Sicherheitsleistung prüfen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
 
 
 ## 6. Anker

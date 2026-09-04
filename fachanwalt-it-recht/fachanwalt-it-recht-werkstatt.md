@@ -102,7 +102,6 @@ Arbeitsgriff Arbeitsprodukt: IT-Vertragsklausel, Mängelrüge, Abnahmeprotokoll,
 | BGH, Urteil vom 15.11.2006 - XII ZR 120/04 | Profilanker; vor Zitierung am Aktenstand oder an belastbarer Quelle sichern | Application-Service-Providing kann mietvertragliche Elemente tragen |
 | BGH, Urteil vom 04.03.2010 - III ZR 79/09 | Profilanker; vor Zitierung am Aktenstand oder an belastbarer Quelle sichern | Internet-System-Vertrag ist regelmäßig werkvertraglich geprägt |
 | BGH, Urteil vom 26.07.2012 - VII ZR 262/11 | Profilanker; vor Zitierung am Aktenstand oder an belastbarer Quelle sichern | Eine Entgeltklausel für einen Eintrag in ein Internet-Branchenverzeichnis ist überraschend und wird nicht Vertragsbestandteil, wenn die Leistung nach dem Erscheinungsbild des Formulars unentgeltlich wirkt und die Vergütung drucktechnisch unauffällig verborgen ist |
-| EuGH C-311/18 Schrems II (Urteil 16.07.2020) | aus Skillmaterial extrahierter Anker; vor Zitierung am Aktenstand oder an belastbarer Quelle sichern | EuGH C-311/18 Schrems II (Urteil 16.07.2020) |
 - Rechtsfolge zuerst als Arbeitsprodukt denken: Abnahme, Nacherfüllung, SLA-Gutschrift, Rechteklärung, Change Request oder Haftungsvorschlag
 - Quellenstatus immer sichtbar machen: Aktenfund, Normtext, Profilanker, gesicherte Rechtsprechung oder offene Prüfung.
 
@@ -129,7 +128,6 @@ Arbeitsgriff Arbeitsprodukt: IT-Vertragsklausel, Mängelrüge, Abnahmeprotokoll,
 - BGH, Urteil vom 15.11.2006 - XII ZR 120/04: Application-Service-Providing kann mietvertragliche Elemente tragen.
 - BGH, Urteil vom 04.03.2010 - III ZR 79/09: Internet-System-Vertrag ist regelmäßig werkvertraglich geprägt.
 - BGH, Urteil vom 26.07.2012 - VII ZR 262/11: Eine Entgeltklausel für einen Eintrag in ein Internet-Branchenverzeichnis ist überraschend und wird nicht Vertragsbestandteil, wenn die Leistung nach dem Erscheinungsbild des Formulars unentgeltlich wirkt und die Vergütung drucktechnisch unauffällig verborgen ist.
-- EuGH C-311/18 Schrems II (Urteil 16.07.2020).
 
 ## 9. Prüfraster
 
@@ -208,7 +206,7 @@ Lieferstück: vollständige Einreichungs- oder Registervorlage mit Zuständigkei
 
 Bearbeitungsauftrag: Bestimme, welche natürliche Person von welcher Kredit-, Bonitäts- oder Versicherungsentscheidung betroffen ist und welchen tatsächlichen Einfluss das System auf das Ergebnis hat. Prüfe zuerst Artikel 6 Absatz 2 in Verbindung mit Anhang III der Verordnung (EU) 2024/1689. Prüfe die Ausnahme des Artikels 6 Absatz 3 anhand der konkreten Funktion.
 Prüfschritte: Lies Zweckbeschreibung, Modell- und Datenfluss, Anbieterunterlagen, Entscheidungskette, menschliche Eingriffe, Protokolle und Betroffeneninformation.
-Norm- oder Entscheidungsbezug aus dem Fachmaterial: Prüfe automatisierte Kreditwürdigkeits- und Risikobewertung nach der Verordnung (EU) 2024/1689 und Artikel 22 Datenschutz-Grundverordnung.
+Normbezug aus dem Fachmaterial: Prüfe automatisierte Kreditwürdigkeits- und Risikobewertung nach der Verordnung (EU) 2024/1689 und Artikel 22 Datenschutz-Grundverordnung.
 Lieferstück: Fachvotum zu Automatisierte Kredit- und Risikobewertung mit Tatbestandsmerkmalen, Aktenfundstellen, Beweislast, stärkster Gegenposition, Risiko und ausformulierter Rechtsfolge.
 
 ### 16.3. Cyber-Vorfall-Sofortmaßnahmen Ransomware Datenleck Hack
@@ -226,7 +224,7 @@ Lieferstück: Fachvotum zu Drittstaatliches Herausgabeverlangen datenschutzrecht
 
 Bearbeitungsauftrag: Streit-Phase (Vor-Vertrag, laufender Vertrag, Beendigung, Post-Term). EU-ODR-VO (EU) 524/2013 — Online-Streitbeilegung B2C. Paragraf 651a BGB — Pauschalreise (IT-Sonderfall).
 Prüfschritte: Vertragstyp (SaaS, IaaS, PaaS, On-Premise-Lizenz, IT-Projekt); Streit-Gegenstand (Datenschutz, SLA, Mangelhaftung, Kündigung); Regulierungsrahmen Artikel 85 — Beschwerdebearbeitung; Artikel 28 Datenschutz-Grundverordnung — AVV-Streitigkeiten; Gesellschaft für Recht und Informatik.
-Norm- oder Entscheidungsbezug aus dem Fachmaterial: Vertragstyp (SaaS, IaaS, PaaS, On-Premise-Lizenz, IT-Projekt); Streit-Gegenstand (Datenschutz, SLA, Mangelhaftung, Kündigung); Regulierungsrahmen Artikel 85 — Beschwerdebearbeitung; Artikel 28 Datenschutz-Grundverordnung — AVV-Streitigkeiten; Gesellschaft für Recht und Informatik.
+Normbezug aus dem Fachmaterial: Vertragstyp (SaaS, IaaS, PaaS, On-Premise-Lizenz, IT-Projekt); Streit-Gegenstand (Datenschutz, SLA, Mangelhaftung, Kündigung); Regulierungsrahmen Artikel 85 — Beschwerdebearbeitung; Artikel 28 Datenschutz-Grundverordnung — AVV-Streitigkeiten; Gesellschaft für Recht und Informatik.
 Lieferstück: verhandlungsfähige Fassung mit Ausgangstext, Änderung, Begründung, Rückfallposition und Vollzugscheck.
 
 ### 16.6. SaaS-Vertragsverhandlung mit Datenschutz Verfügbarkeit Vendor-Lock-in und Exit-Klausel
@@ -262,7 +260,7 @@ Lieferstück: Fachvotum zu Unternehmensbußgeld nach Artikel 83 Datenschutz-Grun
 Bearbeitungsauftrag: Bearbeite Itil sla Vertragsstrafe: leistungssoll, Abnahme, SLA, Rechtekette, Datenschutz, Haftung, Change Request und Beleglage zusammenführen. Lege Regelungsziel und tatsächlichen Ablauf offen, prüfe Definitionen, Haupt- und Nebenpflichten, Bedingungen, Laufzeit, Beendigung, Haftung, Form, zwingendes Recht und Vollzug und liefere Klausel, Rückfallposition und Abschlusskontrolle.
 Lieferstück: verhandlungsfähige Fassung mit Ausgangstext, Änderung, Begründung, Rückfallposition und Vollzugscheck.
 
-### 16.12. Hacking Haftung Paragraf 823 BGB it Sicherheit
+### 16.12. Plattformmoderation und Rechtsbehelf
 
-Bearbeitungsauftrag: Bearbeite Hacking Haftung Paragraf 823 BGB it Sicherheit: leistungssoll, Abnahme, SLA, Rechtekette, Datenschutz, Haftung, Change Request und Beleglage zusammenführen. Zerlege Anspruchsgrund, Pflichtenkreis, Pflichtverletzung, Zurechnung, Kausalität und Schaden; ordne Einwendungen, Mitverantwortung, Verjährung, Beweislast, Versicherung und jede bezifferte Rechtsfolge den konkreten Aktenbelegen zu. Normenanker: BGB Paragraf 634: Rechte bei Mängeln des Werkes.
-Lieferstück: gewichtete Prüfmatrix mit Tatbestandsmerkmalen, Fundstellen, Gegenposition, Beweislast, Risiko und Empfehlung.
+Bearbeitungsauftrag: Steuert Plattformfälle nach der Verordnung (EU) 2022/2065 von Nutzungsbedingungen und Meldung bis Begründung, Beschwerde und gerichtlicher Abhilfe.
+Lieferstück: Fachvotum zu Plattformmoderation und Rechtsbehelf mit Tatbestandsmerkmalen, Aktenfundstellen, Beweislast, stärkster Gegenposition, Risiko und ausformulierter Rechtsfolge.

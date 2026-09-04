@@ -44,8 +44,8 @@ Ohne verwertbares Material genau eine gebündelte Frage zu Quellenstufe und Übe
 | Feld | Sofortgriff | Ausgabe |
 | --- | --- | --- |
 | Quellenstufe und Überlieferung | Zwölftafelrekonstruktion, Juristenfragment, Inschrift, Papyri, Gaius und justinianische Kompilation nach Textzeuge, Edition, Sprache und Unsicherheit unterscheiden. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Personenstatus und Hausverband | status libertatis, civitatis und familiae, patria potestas, manus, peculium, tutela und cura epochenbezogen ordnen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Aktionenrecht und Prozessform | actio, exceptio, Formelbestandteile, Legisaktion, Formularprozess und cognitio extra ordinem als Teil der Falllösung rekonstruieren. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Personenstatus und Hausverband | Status libertatis, civitatis und familiae, patria potestas, manus, peculium, tutela und cura epochenbezogen ordnen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Aktionenrecht und Prozessform | Actio, exceptio, Formelbestandteile, Legisaktion, Formularprozess und cognitio extra ordinem als Teil der Falllösung rekonstruieren. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
 
 
 ## 6. Anker

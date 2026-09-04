@@ -33,8 +33,8 @@ Ohne verwertbares Material genau eine gebündelte Frage zu Vorgang und Frist, St
 | Punkt | Sofortgriff |
 | --- | --- |
 | Normenanker | BGB Paragraf 611a; BGB Paragraf 241 Absatz 2, Paragraf 612a und GewO Paragraf 106; KSchG Paragraf 1, Paragraf 4 und Paragraf 7 |
-| Rechtsprechung | BAG, Urteil vom 30.01.2025 - 2 AZR 68/24; BVerfG, Beschluss vom 06.06.2018 - 1 BvL 7/14 und 1 BvR 1375/14 |
-| Tatbestand | Zugang, Dreiwochenfrist, Schriftform, Beteiligungsrechte, Darlegungslast und Klage- oder Vergleichsziel sofort trennen |
+| Rechtsprechung | BAG, Urteil vom 30.01.2025 - 2 AZR 68/24; BAG, Urteil vom 07.05.2026 - 2 AZR 130/25 |
+| Tatbestand | Einstellung, Vertragsänderung, Vergütung, Fehlzeit, Beschwerde, Abmahnung, Kündigung oder Befristungsende kalendarisch sichern |
 | Beweislast | Wer sich auf den Zugang einer Erklärung beruft, beweist ihn; bei einer Arbeitgeberkündigung daher regelmäßig der Arbeitgeber. Der Arbeitgeber trägt außerdem Kündigungsgrund, ordnungsgemäße Betriebsratsanhörung und Erfüllung; der Arbeitnehmer Arbeitsleistung, eigene Anspruchsvoraussetzungen, rechtzeitige Klageerhebung und Gegenbelege |
 | Rechtsfolge | Vertrag, Personalvermerk, Zeit- oder Vergütungskorrektur, Beteiligungsvorlage, Abmahnung, Feststellungsklage, Vergleich oder Abwicklung |
 | Quellenstatus | Aktenfund, Normtext, Profilanker oder sicher belegte Entscheidung offen kennzeichnen; unsichere Aktenzeichen nicht ergänzen |
@@ -43,9 +43,9 @@ Ohne verwertbares Material genau eine gebündelte Frage zu Vorgang und Frist, St
 
 | Feld | Sofortgriff | Ausgabe |
 | --- | --- | --- |
-| Vorgang und Frist | Zugang, Dreiwochenfrist, Schriftform, Beteiligungsrechte, Darlegungslast und Klage- oder Vergleichsziel sofort trennen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Status und Regelwerk | Zugang, Dreiwochenfrist, Schriftform, Beteiligungsrechte, Darlegungslast und Klage- oder Vergleichsziel sofort trennen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Laufendes Arbeitsverhältnis | Meldung, Schutzpflicht, Anhörung, Vertraulichkeit, Beleg, Maßnahme und Benachteiligungsrisiko in einer Fallakte trennen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Vorgang und Frist | Einstellung, Vertragsänderung, Vergütung, Fehlzeit, Beschwerde, Abmahnung, Kündigung oder Befristungsende kalendarisch sichern. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Status und Regelwerk | Arbeitnehmerstellung, Vertrag, Nachweis, Tarifbindung, Betriebsvereinbarung, Betriebsrat und Vertretungsmacht klären. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Laufendes Arbeitsverhältnis | Arbeitszeit, Vergütung, Urlaub, Krankheit, Weisung, Gleichbehandlung, Arbeitsschutz und Dokumentation getrennt prüfen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
 
 
 ## 6. Anker
@@ -53,11 +53,11 @@ Ohne verwertbares Material genau eine gebündelte Frage zu Vorgang und Frist, St
 - BGB Paragraf 611a: Arbeitsvertrag und Weisungsgebundenheit.
 - BGB Paragraf 241 Absatz 2, Paragraf 612a und GewO Paragraf 106: Rücksichtnahme, Maßregelungsverbot und Weisungsrecht.
 - KSchG Paragraf 1, Paragraf 4 und Paragraf 7: soziale Rechtfertigung, Dreiwochenfrist und Wirksamkeitsfiktion.
-- BGB Paragraf 623 und Paragraf 626: Schriftform, wichtiger Grund und Erklärungsfrist.
-- Paragraf 15 Datenschutz-Grundverordnung: Betroffenenauskunft kann im Prozess zur Ermittlung von Beweismitteln genutzt werden; im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
+- BGB Paragraf 623 und Paragraf 626: Schriftform, wichtiger Grund und Erklärungsfrist; elektronische Gerichtsschriftsätze gesondert nach ArbGG Paragraf 46h prüfen.
 - Paragraf 623 BGB: Schriftform der Beendigung; elektronische Form ist ausgeschlossen; im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
 - Paragrafen 145 bis 147 BGB: Angebot, Bindung und sofortige Annahme unter Anwesenden; im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
 - Paragrafen 123, 124 und 142 BGB: widerrechtliche Drohung oder Täuschung, Anfechtungsfrist und Rückwirkung; im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
+- Paragrafen 241 Absatz 2, 280 Absatz 1, 311 Absatz 2 und 249 BGB: vorvertragliche Rücksichtnahmepflicht, Schadensersatz und Naturalrestitution; im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
 
 ## 7. Antwortform
 

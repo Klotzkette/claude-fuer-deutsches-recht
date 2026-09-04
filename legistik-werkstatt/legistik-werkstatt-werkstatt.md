@@ -245,19 +245,18 @@ Lieferstück: Fachvotum zu Verbraucherschutz und Wettbewerbsrecht (UWG) (BMJV) m
 
 ### 16.10. Begründung allgemein und besonders
 
-Bearbeitungsauftrag: Eine gute Begründung erleichtert Auslegung und Vollzug, eine schlechte führt zu Streit. Erforderlichkeitsklausel Artikel 72 Absatz 2 GG, falls einschlägig. Weitere Gesetzesfolgen (gleichstellungspolitisch, demografisch, geschlechtsspezifisch, ökologisch) Pro Artikel und pro Paragraf.
+Bearbeitungsauftrag: Eine gute Begründung erleichtert Auslegung und Vollzug, eine schlechte führt zu Streit. Erforderlichkeitsklausel Artikel 72 Absatz 2 GG, falls einschlägig.
 Prüfschritte: Warum ist eine Regelung erforderlich; In zehn bis zwanzig Sätzen den Kern des Entwurfs darstellen; Welche Alternativen wurden erwogen, warum verworfen; Verweis auf Artikel 70 und folgende GG bzw; Bezug zu Primärrecht (EUV / AEUV / Charta), Sekundärrecht (RL / VO), EuGH-Rechtsprechung.
-Norm- oder Entscheidungsbezug aus dem Fachmaterial: Warum ist eine Regelung erforderlich; In zehn bis zwanzig Sätzen den Kern des Entwurfs darstellen; Welche Alternativen wurden erwogen, warum verworfen; Verweis auf Artikel 70 und folgende GG bzw; Bezug zu Primärrecht (EUV / AEUV / Charta), Sekundärrecht (RL / VO), EuGH-Rechtsprechung.
+Normbezug aus dem Fachmaterial: Warum ist eine Regelung erforderlich; In zehn bis zwanzig Sätzen den Kern des Entwurfs darstellen; Welche Alternativen wurden erwogen, warum verworfen; Verweis auf Artikel 70 und folgende GG bzw; Bezug zu Primärrecht (EUV / AEUV / Charta), Sekundärrecht (RL / VO), EuGH-Rechtsprechung.
 Lieferstück: Fachvotum zu Begründung allgemein und besonders mit Tatbestandsmerkmalen, Aktenfundstellen, Beweislast, stärkster Gegenposition, Risiko und ausformulierter Rechtsfolge.
 
 ### 16.11. Verbändeanhörung und Ressortabstimmung
 
-Bearbeitungsauftrag: Bei Eile: zwei Wochen (mit Begründung) Tabelle: Zu jeder kritischen Position eine eigene Position formulieren. GGO-Verfahren: Bestimmung durch Geschäftsordnung der Bundesregierung. Alle Ressorts, deren Geschäftsbereich betroffen ist.
+Bearbeitungsauftrag: Bei Eile: zwei Wochen (mit Begründung) Tabelle: Zu jeder kritischen Position eine eigene Position formulieren. GGO-Verfahren: Bestimmung durch Geschäftsordnung der Bundesregierung.
 Prüfschritte: DIHK, ZDH, BDI, BDA, DGB (Wirtschaft, Arbeit); Sozialverband VdK, Sozialverband Deutschland (Sozialrecht); BvD, Stiftung Datenschutz (Datenschutz); Verbraucherzentrale Bundesverband (Verbraucherschutz); Bitkom, eco, ZVEI (IT, Telekommunikation).
 Lieferstück: Fachvotum zu Verbändeanhörung und Ressortabstimmung mit Tatbestandsmerkmalen, Aktenfundstellen, Beweislast, stärkster Gegenposition, Risiko und ausformulierter Rechtsfolge.
 
-### 16.12. Berufsrecht der Heilberufe und Approbation (BMG)
+### 16.12. Agrar- und Förderungsrecht (GAK; GAP) (BMLEH)
 
-Bearbeitungsauftrag: Vierter und tiefster Skill in der Ressort-Kette: Sachfeld-Kompass für das Spezialthema Berufsrecht der Heilberufe und Approbation im Geschäftsbereich BMG. Konkrete Sachfrage oder konkretes Normvorhaben in diesem Sachbereich Kernbestand des Sachfelds: BApO; BAeOAusbV; KrPflG; PflBG; PsychThG; HebG; ZahnHeilkundeG; AppO. Approbationsbehörden der Länder; Ärzte- und Zahnärztekammern; BMG.
-Prüfschritte: Liefere dem Normgeber Normbestand, Akteure, EU-Bezug und Prüfpunkte für dieses eine Sachfeld; Auftragsblatt aus legistik-auftragsaufnahme; Ressort-Kompass aus legw-ressort-bmg; Aufgabenmatrix aus legw-ressortaufgaben-bmg; Prüfreihenfolge: Verfassungsrang vor Bundesgesetz vor Rechtsverordnung vor Verwaltungsvorschrift.
-Lieferstück: Fachvotum zu Berufsrecht der Heilberufe und Approbation (BMG) mit Tatbestandsmerkmalen, Aktenfundstellen, Beweislast, stärkster Gegenposition, Risiko und ausformulierter Rechtsfolge.
+Bearbeitungsauftrag: Bearbeite Agrar- und Förderungsrecht (GAK; GAP) (BMLEH) entlang der Staatsorganisation, Haushalts- und Normsetzungspraxis-Prüflinie: Normvorhaben oder Vorgang: Regelungsziel, Ebene, Ermächtigungsgrundlage und Zuständigkeit feststellen.
+Lieferstück: Fachvotum zu Agrar- und Förderungsrecht (GAK; GAP) (BMLEH) mit Tatbestandsmerkmalen, Aktenfundstellen, Beweislast, stärkster Gegenposition, Risiko und ausformulierter Rechtsfolge.

@@ -6,12 +6,12 @@ Kernauftrag: Spezialplugin für Vertretung und Verteidigung in datenschutzrechtl
 
 ## 1. Sofortstart nach Eingangslage
 
-- Dateien oder Ordner: Zuerst Verarbeitungsverzeichnis, Auftragsverarbeitungsvertrag, Löschkonzept und Meldeformular lesen. Mit Verarbeitungsvorgang und Rollen bestimmen beginnen und das Arbeitsprodukt „Erststand zu Verarbeitungsvorgang und Rollen bestimmen“ liefern.
-- Konkreter Auftrag: Das verlangte Arbeitsprodukt „Erststand zu Verarbeitungsvorgang und Rollen bestimmen“ sofort erzeugen; kein Lagebild voranstellen. Annahmen nur am betroffenen Ergebnis markieren.
-- Nur Prompt oder Skill gestartet: Aus Dateinamen und Inhalt zwischen Verarbeitungsvorgang und Rollen bestimmen, Rechtsgrundlage, Zweckbindung und Datenminimierung, Informationspflichten, Betroffenenrechte routen und einen Erststand liefern, nicht nach dem Auftrag fragen.
+- Dateien oder Ordner: Zuerst Verarbeitungsverzeichnis, Auftragsverarbeitungsvertrag, Löschkonzept und Meldeformular lesen. Mit Verarbeitungsvorgang und Rollen bestimmen beginnen und das Arbeitsprodukt „Erststand zu Datenschutzrecht“ liefern.
+- Konkreter Auftrag: Das verlangte Arbeitsprodukt „Erststand zu Datenschutzrecht“ sofort erzeugen; kein Lagebild voranstellen. Annahmen nur am betroffenen Ergebnis markieren.
+- Nur Prompt oder Skill gestartet: Aus Dateinamen und Inhalt zwischen Datenschutzrecht, Rechtsgrundlage, Zweckbindung und Datenminimierung, Informationspflichten, Betroffenenrechte routen und einen Erststand liefern, nicht nach dem Auftrag fragen.
 - Folgewunsch: Aktenfunde, Berechnungen, Quellen und offene Punkte beibehalten; nur die verlangte Dimension ändern, nicht neu beginnen.
 
-Ohne verwertbares Material genau eine gebündelte Frage zu Verarbeitungsvorgang und Rollen bestimmen, Rechtsgrundlage, Zweckbindung und Datenminimierung, Informationspflichten, Betroffenenrechte und Empfänger stellen; „offen“ ist zulässig. Bei großen Ordnern nach den ersten entscheidungserheblichen Dateien einen Teilstand liefern und ungelesene oder unlesbare Dateien benennen. Passende Fachskills intern als Teilroute nutzen.
+Ohne verwertbares Material genau eine gebündelte Frage zu Datenschutzrecht, Rechtsgrundlage, Zweckbindung und Datenminimierung, Informationspflichten, Betroffenenrechte und Empfänger stellen; „offen“ ist zulässig. Bei großen Ordnern nach den ersten entscheidungserheblichen Dateien einen Teilstand liefern und ungelesene oder unlesbare Dateien benennen. Passende Fachskills intern als Teilroute nutzen.
 
 ## 2. Fachlicher Direktstart
 
@@ -34,7 +34,7 @@ Ohne verwertbares Material genau eine gebündelte Frage zu Verarbeitungsvorgang 
 | --- | --- |
 | Normenanker | Datenschutz-Grundverordnung Artikel 5; Datenschutz-Grundverordnung Artikel 6; Datenschutz-Grundverordnung Artikel 12 bis Artikel 15 |
 | Rechtsprechung | EuGH, Urteil vom 16.07.2020 - C-311/18; EuGH, Urteil vom 04.05.2023 - C-300/21 |
-| Tatbestand | Rolle, Rechtsgrundlage, Betroffenenrecht, Frist, TOMs, Auftragsverarbeitung und Aufsichtsrisiko dokumentieren |
+| Tatbestand | Verarbeitungsvorgang und Rollen bestimmen |
 | Beweislast | Verantwortlicher für Rechtmäßigkeit, TOMs und Rechenschaft; Betroffener für Schaden und Kausalität bei Ersatzansprüchen |
 | Rechtsfolge | Auskunft, Löschung, Meldung, Anordnung, Schadensersatz oder Aufsichtsantwort |
 | Quellenstatus | Aktenfund, Normtext, Profilanker oder sicher belegte Entscheidung offen kennzeichnen; unsichere Aktenzeichen nicht ergänzen |
@@ -43,12 +43,10 @@ Ohne verwertbares Material genau eine gebündelte Frage zu Verarbeitungsvorgang 
 
 | Feld | Sofortgriff | Ausgabe |
 | --- | --- | --- |
-| Verarbeitungsvorgang und Rollen bestimmen | Rolle, Rechtsgrundlage, Betroffenenrecht, Frist, TOMs, Auftragsverarbeitung und Aufsichtsrisiko dokumentieren. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Rechtsgrundlage, Zweckbindung und Datenminimierung prüfen | Rolle, Rechtsgrundlage, Betroffenenrecht, Frist, TOMs, Auftragsverarbeitung und Aufsichtsrisiko dokumentieren. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Informationspflichten, Betroffenenrechte und Fristen strukturieren | Rolle, Rechtsgrundlage, Betroffenenrecht, Frist, TOMs, Auftragsverarbeitung und Aufsichtsrisiko dokumentieren. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Technische und organisatorische Maßnahmen sowie Auftragsverarbeitung | Rolle, Rechtsgrundlage, Betroffenenrecht, Frist, TOMs, Auftragsverarbeitung und Aufsichtsrisiko dokumentieren. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Datenpanne, Aufsichtsverfahren | Rolle, Rechtsgrundlage, Betroffenenrecht, Frist, TOMs, Auftragsverarbeitung und Aufsichtsrisiko dokumentieren. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Art. 78 Rechtsschutz | Rolle, Rechtsgrundlage, Betroffenenrecht, Frist, TOMs, Auftragsverarbeitung und Aufsichtsrisiko dokumentieren. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Datenschutzrecht | Verarbeitungsvorgang und Rollen bestimmen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Rechtsgrundlage, Zweckbindung und Datenminimierung prüfen | Rechtsgrundlage, Zweckbindung und Datenminimierung prüfen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Informationspflichten, Betroffenenrechte und Fristen strukturieren | Informationspflichten, Betroffenenrechte und Fristen strukturieren. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Datenpanne, Aufsichtsverfahren | Datenpanne, Aufsichtsverfahren, Schadensersatz und Löschkonzept bearbeiten. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
 
 ## 6. Anker
 
@@ -60,16 +58,18 @@ Ohne verwertbares Material genau eine gebündelte Frage zu Verarbeitungsvorgang 
 - Art. 58, 78, 83 Datenschutz-Grundverordnung; im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
 - Art. 31 und Art. 58 Datenschutz-Grundverordnung; im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
 - Art. 83 Abs. 2 Datenschutz-Grundverordnung; im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
+- EuGH, Urteil vom 16.07.2020 - C-311/18: Schrems II verlangt tragfähige Prüfung internationaler Datentransfers.
+- EuGH, Urteil vom 04.05.2023 - C-300/21: immaterieller Schadensersatz nach Datenschutz-Grundverordnung verlangt Schaden, Verstoß und Kausalität.
 
 ## 7. Antwortform
 
 7.1. Ergebnis: Rolle und Ziel benennen; erste Rechtsfolge: Auskunft, Löschung, Meldung, Anordnung, Schadensersatz oder Aufsichtsantwort.
 7.2. Norm: Datenschutz-Grundverordnung Artikel 5; Datenschutz-Grundverordnung Artikel 6 mit dem entscheidenden Merkmal verbinden.
-7.3. Aktenfund: Für „Verarbeitungsvorgang und Rollen bestimmen“ Tatsache, Datum und Fundstelle nennen.
+7.3. Aktenfund: Für „Datenschutzrecht“ Tatsache, Datum und Fundstelle nennen.
 7.4. Beweis: Verantwortlicher für Rechtmäßigkeit, TOMs und Rechenschaft; Betroffener für Schaden und Kausalität bei Ersatzansprüchen. Offene Folgen aussprechen.
 7.5. Gegenposition: Den stärksten Einwand fair und vollständig formulieren. Schwerpunkt: Rechtsgrundlage, Erforderlichkeit und Meldefristen.
 7.6. Erwiderung: Gegenbeleg, Auslegung oder Lastregel nennen und Restrisiko abstufen.
-7.7. Ausgang: Das Arbeitsprodukt „Erststand zu Verarbeitungsvorgang und Rollen bestimmen“ liefern; mit Frist, Kernlücke und nächstem Dokument schließen.
+7.7. Ausgang: Das Arbeitsprodukt „Erststand zu Datenschutzrecht“ liefern; mit Frist, Kernlücke und nächstem Dokument schließen.
 
 ## 8. Stop
 

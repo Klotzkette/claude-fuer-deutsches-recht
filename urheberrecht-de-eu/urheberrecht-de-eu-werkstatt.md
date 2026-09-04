@@ -77,9 +77,9 @@ Arbeitsgriff Arbeitsprodukt: Rechteclearing, Abmahnung, Lizenzklausel, Unterlass
 
 | Ebene | Fallfrage | Anker | Sofortausgabe |
 | --- | --- | --- | --- |
-| Fallkern | Abmahnung nach Paragraf 97a UrhG beantworten | UrhG Paragraf 2 | Sofortvermerk mit Ergebnisrichtung, Risiko und nächstem Schritt |
+| Fallkern | Computerprogramm nach Paragrafen 69a ff. UrhG | UrhG Paragraf 2 | Sofortvermerk mit Ergebnisrichtung, Risiko und nächstem Schritt |
 | Zulässigkeit und Frist | Frist, Form, Zuständigkeit, Rolle und statthafter Weg | UrhG Paragraf 15 | Fristenblatt oder Prozess-/Verfahrensroute |
-| Begründetheit | Computerprogramm nach Paragrafen 69a ff. UrhG | UrhG Paragraf 15 | Tatbestandsmatrix mit Beleg und Gegenargument |
+| Begründetheit | Musikwerk, Melodie, Harmonie und Rhythmus | UrhG Paragraf 15 | Tatbestandsmatrix mit Beleg und Gegenargument |
 | Rechtsfolge | Abmahnung, Unterlassung, Auskunft, Schadensersatz, Löschung, Widerspruch oder Verteidigung | Rechteinhaber für Schutzrecht, Inhaberschaft und Nutzung; Gegner für Einrede, Lizenz, Erschöpfung oder Nichtbenutzung | Antrag, Entwurf, Entscheidungsvorschlag oder Mandantenbrief |
 
 ## 5. Normenanker, Tatbestandswichtigkeiten und Beweislast
@@ -130,7 +130,6 @@ Arbeitsgriff Arbeitsprodukt: Rechteclearing, Abmahnung, Lizenzklausel, Unterlass
 - EuGH, Urteil vom 03.07.2012 - C-128/11: UsedSoft behandelt Erschöpfung bei Softwaredownloads.
 - EuGH, Urteil vom 29.07.2019 - C-476/17: Pelham konkretisiert Sampling, Vervielfältigung und Kunstfreiheit.
 - BGH, Urteil vom 12.11.2009 - I ZR 166/07: marions-kochbuch behandelt Lichtbildschutz und Online-Nutzung.
-- BGH I ZR 121/08 (Sommer unseres Lebens).
 
 ## 9. Prüfraster
 
@@ -146,12 +145,12 @@ Arbeitsgriff Arbeitsprodukt: Rechteclearing, Abmahnung, Lizenzklausel, Unterlass
 
 10.1. Kernsatz: Benenne Parteirolle, Ziel und die begehrte oder abzuwehrende Rechtsfolge aus diesem Arbeitsfeld: Abmahnung, Unterlassung, Auskunft, Schadensersatz, Löschung, Widerspruch oder Verteidigung.
 10.2. Tragende Regel: Stelle den einschlägigen Normsatz voran und ordne ihn dem konkreten Streitpunkt zu; erste Anker sind UrhG Paragraf 2; UrhG Paragraf 15.
-10.3. Tatbestandsmerkmal: Arbeite zuerst den entscheidenden Fachpunkt aus, regelmäßig Abmahnung nach Paragraf 97a UrhG beantworten.
+10.3. Tatbestandsmerkmal: Arbeite zuerst den entscheidenden Fachpunkt aus, regelmäßig Computerprogramm nach Paragrafen 69a ff. UrhG.
 10.4. Aktenfund: Nenne Datum, Beteiligten, Handlung, Betrag und genaue Fundstelle; im Bereich Urheber- und Medienrecht tragen regelmäßig die vorgelegten Urkunden, Bescheide und Korrespondenz den Nachweis. Eine streitige Behauptung bleibt als solche bezeichnet.
 10.5. Beweislast: Rechteinhaber für Schutzrecht, Inhaberschaft und Nutzung; Gegner für Einrede, Lizenz, Erschöpfung oder Nichtbenutzung. Zeige ausdrücklich, welche Folge ein offener Beweis hat.
 10.6. Gegenposition: Formuliere den stärksten ernsthaften Angriff; hier setzt die Gegenseite typischerweise bei wer hat welche Rechte in welcher Kette erworben an.
 10.7. Erwiderung: Antworte mit konkretem Gegenbeleg, Auslegung oder Beweislastregel und ziehe die Folge auf Abmahnung, Unterlassung, Auskunft, Schadensersatz, Löschung, Widerspruch oder Verteidigung; ein bloßes Bestreiten genügt nicht.
-10.8. Arbeitsprodukt: Schließe mit Antrag, Tenor, Klausel, Entscheidung oder nächstem Schritt; hier typischerweise Ausgabe entlang der Kernfelder Abmahnung nach Paragraf 97a UrhG beantworten, Computerprogramm nach Paragrafen 69a ff. UrhG, Musikwerk, Melodie, Harmonie und Rhythmus, Sampling, Pastiche, Remix und Parodie: Kurzvermerk, Prüfmatrix, Entwurf, Fristenblatt oder Fragenliste mit nächstem Schritt.
+10.8. Arbeitsprodukt: Schließe mit Antrag, Tenor, Klausel, Entscheidung oder nächstem Schritt; hier typischerweise Ausgabe entlang der Kernfelder Computerprogramm nach Paragrafen 69a ff. UrhG, Musikwerk, Melodie, Harmonie und Rhythmus, Sampling, Pastiche, Remix und Parodie, Songtext, Lyrics und Sprachwerk: Kurzvermerk, Prüfmatrix, Entwurf, Fristenblatt oder Fragenliste mit nächstem Schritt.
 10.9. Quellenstatus: Ordne Rechtsprechung nach Tragweite ein; erste Fallanker sind EuGH, Urteil vom 16.07.2009 - C-5/08; EuGH, Urteil vom 13.02.2014 - C-466/12.
 
 ## 11. Outputvarianten und Empfängerwunsch
@@ -186,76 +185,76 @@ Die Landkarte dient der schnellen Auswahl. Sie ersetzt nicht die darunter ausfor
 
 | Arbeitsfeld | Entscheidende Weiche | Erstes Lieferstück |
 | --- | --- | --- |
-| Abmahnung nach Paragraf 97a UrhG beantworten | Werk, Schutzfähigkeit, Rechtekette, Nutzungshandlung, Schranke, Vergütung, Auskunft/Unterlassung/Schadensersatz und Beweis sichern. | versandfertiges Schreiben mit Betreff, Sachverhaltskern, Rechtsgrund, konkretem Begehren, Frist und Anlagenverzeichnis |
 | Computerprogramm nach Paragrafen 69a ff. UrhG | Dieser Arbeitsgang trennt Programm-Ausdruck von Funktion, Schnittstelle, Idee und technischem Ergebnis. | Fachvotum zu Computerprogramm nach Paragrafen 69a ff. UrhG mit Tatbestandsmerkmalen, Aktenfundstellen, Beweislast, stärkster Gegenposition, Risiko und ausformulierter Rechtsfolge |
 | Musikwerk, Melodie, Harmonie und Rhythmus | Dieser Arbeitsgang macht Musik streitfähig prüfbar, ohne Musiktheorie und Urheberrecht zu vermischen. | Fachvotum zu Musikwerk, Melodie, Harmonie und Rhythmus mit Tatbestandsmerkmalen, Aktenfundstellen, Beweislast, stärkster Gegenposition, Risiko und ausformulierter Rechtsfolge |
-| Sampling, Pastiche, Remix und Parodie | Erzeuge eine konkrete Prüf- oder Entscheidungsmatrix mit Norm, Tatbestand, Beleg, Einwand, Risikoampel und nächstem Schritt; Anschluss-Skills nur bei echter Vertiefung nennen. | Fachvotum zu Sampling, Pastiche, Remix und Parodie mit Tatbestandsmerkmalen, Aktenfundstellen, Beweislast, stärkster Gegenposition, Risiko und ausformulierter Rechtsfolge |
-| Songtext, Lyrics und Sprachwerk | Erzeuge eine konkrete Prüf- oder Entscheidungsmatrix mit Norm, Tatbestand, Beleg, Einwand, Risikoampel und nächstem Schritt; Anschluss-Skills nur bei echter Vertiefung nennen. | Fachvotum zu Songtext, Lyrics und Sprachwerk mit Tatbestandsmerkmalen, Aktenfundstellen, Beweislast, stärkster Gegenposition, Risiko und ausformulierter Rechtsfolge |
-| Tonaufnahme und Leistungsschutzrechte | Erzeuge eine konkrete Prüf- oder Entscheidungsmatrix mit Norm, Tatbestand, Beleg, Einwand, Risikoampel und nächstem Schritt; Anschluss-Skills nur bei echter Vertiefung nennen. | Fachvotum zu Tonaufnahme und Leistungsschutzrechte mit Tatbestandsmerkmalen, Aktenfundstellen, Beweislast, stärkster Gegenposition, Risiko und ausformulierter Rechtsfolge |
-| Werkhöhe und Schöpfungshöhe prüfen | Erzeuge eine konkrete Prüf- oder Entscheidungsmatrix mit Norm, Tatbestand, Beleg, Einwand, Risikoampel und nächstem Schritt; Anschluss-Skills nur bei echter Vertiefung nennen. | Fachvotum zu Werkhöhe und Schöpfungshöhe prüfen mit Tatbestandsmerkmalen, Aktenfundstellen, Beweislast, stärkster Gegenposition, Risiko und ausformulierter Rechtsfolge |
-| Schutzgegenstand | Werkart, Schöpfungshöhe, Lichtbild, Datenbank oder Leistungsschutzrecht bestimmen | Fachvotum zu Schutzgegenstand mit Tatbestandsmerkmalen, Aktenfundstellen, Beweislast, stärkster Gegenposition, Risiko und ausformulierter Rechtsfolge |
-| Rechtekette | Urheber, Rechteinhaber, Lizenz, Gebiet, Dauer, Nutzungsart und Weitergabe prüfen | Fachvotum zu Rechtekette mit Tatbestandsmerkmalen, Aktenfundstellen, Beweislast, stärkster Gegenposition, Risiko und ausformulierter Rechtsfolge |
+| Sampling, Pastiche, Remix und Parodie | Dieser Arbeitsgang führt durch die Interessenabwägung zwischen Kunstfreiheit, Eigentum, Erkennbarkeit, Transformationsgrad und Lizenzpraxis | Fachvotum zu Sampling, Pastiche, Remix und Parodie mit Tatbestandsmerkmalen, Aktenfundstellen, Beweislast, stärkster Gegenposition, Risiko und ausformulierter Rechtsfolge |
+| Songtext, Lyrics und Sprachwerk | Dieser Arbeitsgang behandelt Songtexte ohne fremde Lyrics zu reproduzieren und trennt literarischen Ausdruck von Alltagsphrase | Fachvotum zu Songtext, Lyrics und Sprachwerk mit Tatbestandsmerkmalen, Aktenfundstellen, Beweislast, stärkster Gegenposition, Risiko und ausformulierter Rechtsfolge |
+| Werkhöhe und Schöpfungshöhe prüfen | Dieser Arbeitsgang trennt Idee, Stil, Technik, Methode, Genre und nicht schutzfähige Gemeinplätze von konkretem Ausdruck | Fachvotum zu Werkhöhe und Schöpfungshöhe prüfen mit Tatbestandsmerkmalen, Aktenfundstellen, Beweislast, stärkster Gegenposition, Risiko und ausformulierter Rechtsfolge |
+| Bearbeitung und Umgestaltung | Bearbeite Bearbeitung und Umgestaltung: werk, Rechtekette, Nutzungshandlung, Lizenz, Schranke, Beweis und Anspruchsziel verdichten. | Fachvotum zu Bearbeitung und Umgestaltung mit Tatbestandsmerkmalen, Aktenfundstellen, Beweislast, stärkster Gegenposition, Risiko und ausformulierter Rechtsfolge |
+| Beweisforensik, Versionen und Hashes | Bearbeite Beweisforensik, Versionen und Hashes: werk, Rechtekette, Nutzungshandlung, Lizenz, Schranke, Beweis und Anspruchsziel verdichten. | Beweismatrix zu Beweisforensik, Versionen und Hashes mit Tatfrage, Beweislast, Beweismittel, Fundstelle, Gegenposition und Folge eines offenen Nachweises |
+| System-Klauseln in Urheberverträgen | Bearbeite System-Klauseln in Urheberverträgen: werk, Rechtekette, Nutzungshandlung, Lizenz, Schranke, Beweis und Anspruchsziel verdichten. | verhandlungsfähige Fassung mit Ausgangstext, Änderung, Begründung, Rückfallposition und Vollzugscheck |
+| Angemessene Vergütung und Bestseller | Bearbeite Angemessene Vergütung und Bestseller: werk, Rechtekette, Nutzungshandlung, Lizenz, Schranke, Beweis und Anspruchsziel verdichten. | Fachvotum zu Angemessene Vergütung und Bestseller mit Tatbestandsmerkmalen, Aktenfundstellen, Beweislast, stärkster Gegenposition, Risiko und ausformulierter Rechtsfolge |
 
 ## 16. Fachspezifische Praxisrouten
 
 Diese Routen stammen aus den konkreten Arbeitsthemen dieses Plugins. Wähle die sachnächste Route, liefere deren ersten verwertbaren Baustein sofort und vertiefe nur die Punkte, die das Ergebnis tatsächlich ändern.
 
-### 16.1. Abmahnung nach Paragraf 97a UrhG beantworten
-
-Bearbeitungsauftrag: Werk, Schutzfähigkeit, Rechtekette, Nutzungshandlung, Schranke, Vergütung, Auskunft/Unterlassung/Schadensersatz und Beweis sichern. Erzeuge eine konkrete Prüf- oder Entscheidungsmatrix mit Norm, Tatbestand, Beleg, Einwand, Risikoampel und nächstem Schritt; Anschluss-Skills nur bei echter Vertiefung nennen. Der Arbeitsgang baut die Prüfung aus Gegenstand, menschlichem Beitrag, Rechtekette, Nutzungshandlung, Schranke, Beweis und gewünschtem Output auf.
-Lieferstück: versandfertiges Schreiben mit Betreff, Sachverhaltskern, Rechtsgrund, konkretem Begehren, Frist und Anlagenverzeichnis.
-
-### 16.2. Computerprogramm nach Paragrafen 69a ff. UrhG
+### 16.1. Computerprogramm nach Paragrafen 69a ff. UrhG
 
 Bearbeitungsauftrag: Dieser Arbeitsgang trennt Programm-Ausdruck von Funktion, Schnittstelle, Idee und technischem Ergebnis. Er arbeitet nicht mit Bauchgefühl, sondern baut die Prüfung aus Gegenstand, menschlichem Beitrag, Rechtekette, Nutzungshandlung, Schranke, Beweis und gewünschtem Output auf. Gegenstand fixieren: Werk, Aufnahme, Code, Datenbank, Promptlog, System-Output, Vertrag, Plattformpost oder konkrete Nutzung.
 Lieferstück: Fachvotum zu Computerprogramm nach Paragrafen 69a ff. UrhG mit Tatbestandsmerkmalen, Aktenfundstellen, Beweislast, stärkster Gegenposition, Risiko und ausformulierter Rechtsfolge.
 
-### 16.3. Musikwerk, Melodie, Harmonie und Rhythmus
+### 16.2. Musikwerk, Melodie, Harmonie und Rhythmus
 
 Bearbeitungsauftrag: Dieser Arbeitsgang macht Musik streitfähig prüfbar, ohne Musiktheorie und Urheberrecht zu vermischen. Er arbeitet nicht mit Bauchgefühl, sondern baut die Prüfung aus Gegenstand, menschlichem Beitrag, Rechtekette, Nutzungshandlung, Schranke, Beweis und gewünschtem Output auf. Gegenstand fixieren: Werk, Aufnahme, Code, Datenbank, Promptlog, System-Output, Vertrag, Plattformpost oder konkrete Nutzung.
 Lieferstück: Fachvotum zu Musikwerk, Melodie, Harmonie und Rhythmus mit Tatbestandsmerkmalen, Aktenfundstellen, Beweislast, stärkster Gegenposition, Risiko und ausformulierter Rechtsfolge.
 
-### 16.4. Sampling, Pastiche, Remix und Parodie
+### 16.3. Sampling, Pastiche, Remix und Parodie
 
-Bearbeitungsauftrag: Erzeuge eine konkrete Prüf- oder Entscheidungsmatrix mit Norm, Tatbestand, Beleg, Einwand, Risikoampel und nächstem Schritt; Anschluss-Skills nur bei echter Vertiefung nennen. Dieser Arbeitsgang führt durch die Interessenabwägung zwischen Kunstfreiheit, Eigentum, Erkennbarkeit, Transformationsgrad und Lizenzpraxis. Er arbeitet nicht mit Bauchgefühl, sondern baut die Prüfung aus Gegenstand, menschlichem Beitrag, Rechtekette, Nutzungshandlung, Schranke, Beweis und gewünschtem Output auf.
+Bearbeitungsauftrag: Dieser Arbeitsgang führt durch die Interessenabwägung zwischen Kunstfreiheit, Eigentum, Erkennbarkeit, Transformationsgrad und Lizenzpraxis.
 Lieferstück: Fachvotum zu Sampling, Pastiche, Remix und Parodie mit Tatbestandsmerkmalen, Aktenfundstellen, Beweislast, stärkster Gegenposition, Risiko und ausformulierter Rechtsfolge.
 
-### 16.5. Songtext, Lyrics und Sprachwerk
+### 16.4. Songtext, Lyrics und Sprachwerk
 
-Bearbeitungsauftrag: Erzeuge eine konkrete Prüf- oder Entscheidungsmatrix mit Norm, Tatbestand, Beleg, Einwand, Risikoampel und nächstem Schritt; Anschluss-Skills nur bei echter Vertiefung nennen. Dieser Arbeitsgang behandelt Songtexte ohne fremde Lyrics zu reproduzieren und trennt literarischen Ausdruck von Alltagsphrase. Er arbeitet nicht mit Bauchgefühl, sondern baut die Prüfung aus Gegenstand, menschlichem Beitrag, Rechtekette, Nutzungshandlung, Schranke, Beweis und gewünschtem Output auf.
+Bearbeitungsauftrag: Dieser Arbeitsgang behandelt Songtexte ohne fremde Lyrics zu reproduzieren und trennt literarischen Ausdruck von Alltagsphrase.
 Lieferstück: Fachvotum zu Songtext, Lyrics und Sprachwerk mit Tatbestandsmerkmalen, Aktenfundstellen, Beweislast, stärkster Gegenposition, Risiko und ausformulierter Rechtsfolge.
 
-### 16.6. Tonaufnahme und Leistungsschutzrechte
+### 16.5. Werkhöhe und Schöpfungshöhe prüfen
 
-Bearbeitungsauftrag: Erzeuge eine konkrete Prüf- oder Entscheidungsmatrix mit Norm, Tatbestand, Beleg, Einwand, Risikoampel und nächstem Schritt; Anschluss-Skills nur bei echter Vertiefung nennen. Dieser Arbeitsgang verhindert den typischen Fehler, nur Komposition und Text zu prüfen, obwohl die Tonaufnahme separat geschützt ist. Er arbeitet nicht mit Bauchgefühl, sondern baut die Prüfung aus Gegenstand, menschlichem Beitrag, Rechtekette, Nutzungshandlung, Schranke, Beweis und gewünschtem Output auf.
-Lieferstück: Fachvotum zu Tonaufnahme und Leistungsschutzrechte mit Tatbestandsmerkmalen, Aktenfundstellen, Beweislast, stärkster Gegenposition, Risiko und ausformulierter Rechtsfolge.
-
-### 16.7. Werkhöhe und Schöpfungshöhe prüfen
-
-Bearbeitungsauftrag: Erzeuge eine konkrete Prüf- oder Entscheidungsmatrix mit Norm, Tatbestand, Beleg, Einwand, Risikoampel und nächstem Schritt; Anschluss-Skills nur bei echter Vertiefung nennen. Dieser Arbeitsgang trennt Idee, Stil, Technik, Methode, Genre und nicht schutzfähige Gemeinplätze von konkretem Ausdruck. Er arbeitet nicht mit Bauchgefühl, sondern baut die Prüfung aus Gegenstand, menschlichem Beitrag, Rechtekette, Nutzungshandlung, Schranke, Beweis und gewünschtem Output auf.
+Bearbeitungsauftrag: Dieser Arbeitsgang trennt Idee, Stil, Technik, Methode, Genre und nicht schutzfähige Gemeinplätze von konkretem Ausdruck.
 Lieferstück: Fachvotum zu Werkhöhe und Schöpfungshöhe prüfen mit Tatbestandsmerkmalen, Aktenfundstellen, Beweislast, stärkster Gegenposition, Risiko und ausformulierter Rechtsfolge.
 
-### 16.8. Schutzgegenstand
+### 16.6. Bearbeitung und Umgestaltung
 
-Bearbeitungsauftrag: Werkart, Schöpfungshöhe, Lichtbild, Datenbank oder Leistungsschutzrecht bestimmen.
-Lieferstück: Fachvotum zu Schutzgegenstand mit Tatbestandsmerkmalen, Aktenfundstellen, Beweislast, stärkster Gegenposition, Risiko und ausformulierter Rechtsfolge.
-
-### 16.9. Rechtekette
-
-Bearbeitungsauftrag: Urheber, Rechteinhaber, Lizenz, Gebiet, Dauer, Nutzungsart und Weitergabe prüfen.
-Lieferstück: Fachvotum zu Rechtekette mit Tatbestandsmerkmalen, Aktenfundstellen, Beweislast, stärkster Gegenposition, Risiko und ausformulierter Rechtsfolge.
-
-### 16.10. Nutzung
-
-Bearbeitungsauftrag: Vervielfältigung, öffentliche Wiedergabe, Bearbeitung, Upload, Plattform und System-Bezug trennen.
-Lieferstück: Fachvotum zu Nutzung mit Tatbestandsmerkmalen, Aktenfundstellen, Beweislast, stärkster Gegenposition, Risiko und ausformulierter Rechtsfolge.
-
-### 16.11. Schranken
-
-Bearbeitungsauftrag: Zitat, Unterricht, Text und Data Mining, Privatkopie und Berichterstattung konkret anwenden.
-Lieferstück: Fachvotum zu Schranken mit Tatbestandsmerkmalen, Aktenfundstellen, Beweislast, stärkster Gegenposition, Risiko und ausformulierter Rechtsfolge.
-
-### 16.12. Bearbeitung und Umgestaltung
-
-Bearbeitungsauftrag: Bearbeite Bearbeitung und Umgestaltung: Vervielfältigung, öffentliche Wiedergabe, Bearbeitung, Upload, Plattform und System-Bezug trennen.
+Bearbeitungsauftrag: Bearbeite Bearbeitung und Umgestaltung: werk, Rechtekette, Nutzungshandlung, Lizenz, Schranke, Beweis und Anspruchsziel verdichten. Verbinde den konkreten Aktenfund mit Tatbestandsmerkmal, Gegenposition, Beweislast, Rechtsfolge und dem nächsten vollständig ausformulierten Arbeitsprodukt. Fachstation: Nutzung: Vervielfältigung, öffentliche Wiedergabe, Bearbeitung, Upload, Plattform und System-Bezug trennen.
 Lieferstück: Fachvotum zu Bearbeitung und Umgestaltung mit Tatbestandsmerkmalen, Aktenfundstellen, Beweislast, stärkster Gegenposition, Risiko und ausformulierter Rechtsfolge.
+
+### 16.7. Beweisforensik, Versionen und Hashes
+
+Bearbeitungsauftrag: Bearbeite Beweisforensik, Versionen und Hashes: werk, Rechtekette, Nutzungshandlung, Lizenz, Schranke, Beweis und Anspruchsziel verdichten. Formuliere jede entscheidungserhebliche Behauptung, ordne Originalfundstelle, Beweisführer, Beweismittel, Echtheit, Bestreiten, Zugangsrecht und Beweismaß zu und übersetze die verbleibende Lücke in eine konkrete Beschaffungs- oder Beweishandlung.
+Lieferstück: Beweismatrix zu Beweisforensik, Versionen und Hashes mit Tatfrage, Beweislast, Beweismittel, Fundstelle, Gegenposition und Folge eines offenen Nachweises.
+
+### 16.8. System-Klauseln in Urheberverträgen
+
+Bearbeitungsauftrag: Bearbeite System-Klauseln in Urheberverträgen: werk, Rechtekette, Nutzungshandlung, Lizenz, Schranke, Beweis und Anspruchsziel verdichten. Lege Regelungsziel und tatsächlichen Ablauf offen, prüfe Definitionen, Haupt- und Nebenpflichten, Bedingungen, Laufzeit, Beendigung, Haftung, Form, zwingendes Recht und Vollzug und liefere Klausel, Rückfallposition und Abschlusskontrolle.
+Lieferstück: verhandlungsfähige Fassung mit Ausgangstext, Änderung, Begründung, Rückfallposition und Vollzugscheck.
+
+### 16.9. Angemessene Vergütung und Bestseller
+
+Bearbeitungsauftrag: Bearbeite Angemessene Vergütung und Bestseller: werk, Rechtekette, Nutzungshandlung, Lizenz, Schranke, Beweis und Anspruchsziel verdichten. Verbinde den konkreten Aktenfund mit Tatbestandsmerkmal, Gegenposition, Beweislast, Rechtsfolge und dem nächsten vollständig ausformulierten Arbeitsprodukt.
+Lieferstück: Fachvotum zu Angemessene Vergütung und Bestseller mit Tatbestandsmerkmalen, Aktenfundstellen, Beweislast, stärkster Gegenposition, Risiko und ausformulierter Rechtsfolge.
+
+### 16.10. Verjährung, Dringlichkeit und Fristen
+
+Bearbeitungsauftrag: Bearbeite Verjährung, Dringlichkeit und Fristen: werk, Rechtekette, Nutzungshandlung, Lizenz, Schranke, Beweis und Anspruchsziel verdichten. Rekonstruiere Auslöser und Zugang, qualifiziere die Frist, berechne Beginn und Ende kalendarisch und prüfe Hemmung, Ablaufhemmung, Vorfrist, Zugangsnachweis und statthafte Fristrettung getrennt für materielles und Verfahrensrecht.
+Lieferstück: Fristenblatt zu Verjährung, Dringlichkeit und Fristen mit Auslöser, Beginn, Ende, Vorfrist, Beleg, Sofortmaßnahme und Verantwortlichem.
+
+### 16.11. Musikvertrag und Release-Paket
+
+Bearbeitungsauftrag: Bearbeite Musikvertrag und Release-Paket: werk, Rechtekette, Nutzungshandlung, Lizenz, Schranke, Beweis und Anspruchsziel verdichten. Lege Regelungsziel und tatsächlichen Ablauf offen, prüfe Definitionen, Haupt- und Nebenpflichten, Bedingungen, Laufzeit, Beendigung, Haftung, Form, zwingendes Recht und Vollzug und liefere Klausel, Rückfallposition und Abschlusskontrolle.
+Lieferstück: verhandlungsfähige Fassung mit Ausgangstext, Änderung, Begründung, Rückfallposition und Vollzugscheck.
+
+### 16.12. Abmahnung nach Paragraf 97a UrhG beantworten
+
+Bearbeitungsauftrag: Bearbeite Abmahnung nach Paragraf 97a UrhG beantworten: werk, Rechtekette, Nutzungshandlung, Lizenz, Schranke, Beweis und Anspruchsziel verdichten. Verbinde den konkreten Aktenfund mit Tatbestandsmerkmal, Gegenposition, Beweislast, Rechtsfolge und dem nächsten vollständig ausformulierten Arbeitsprodukt. Fachstation: Arbeitsprodukt: Rechteclearing, Abmahnung, Lizenzklausel, Unterlassungserklärung oder Verteidigungsmemo formulieren. Normenanker: UrhG Paragraf 97: Unterlassung und Schadensersatz.
+Lieferstück: versandfertiges Schreiben mit Betreff, Sachverhaltskern, Rechtsgrund, konkretem Begehren, Frist und Anlagenverzeichnis.

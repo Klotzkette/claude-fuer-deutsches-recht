@@ -92,7 +92,7 @@ Arbeitsgriff Arbeitsprodukt: Besitzübernahmeprotokoll, Mieteranschreiben, Objek
 | ZVG Paragraf 154 und Paragraf 155 | Teilungsplan, laufende Ausgaben, öffentliche Lasten, Verteilung und Rechnungslegung | Darlegungs- und Nachweisfrage für Zwangsverwaltung und Objektbewirtschaftung nach dem ZVG: Welche Maßnahme ist zur Erhaltung oder ordnungsgemäßen Nutzung nötig und genehmigungs- oder finanzierungsbedürftig | Besitzübernahmeprotokoll, Mieteranschreiben, Objektbudget, Zwischenbericht, Rechnungslegung oder Teilungsplan erstellen |
 | Zwangsverwalterverordnung | Bestellung, Geschäftsführung, Konten, Berichte, Vergütung und Abrechnung | Darlegungs- und Nachweisfrage für Zwangsverwaltung und Objektbewirtschaftung nach dem ZVG: Welche Maßnahme ist zur Erhaltung oder ordnungsgemäßen Nutzung nötig und genehmigungs- oder finanzierungsbedürftig | Besitzübernahmeprotokoll, Mieteranschreiben, Objektbudget, Zwischenbericht, Rechnungslegung oder Teilungsplan erstellen |
 | BGB-Mietrecht, WEG, InsO und Grundbuchrecht | nur an der jeweiligen Objekt-, Miet-, Rang- oder Insolvenzschnittstelle | Darlegungs- und Nachweisfrage für Zwangsverwaltung und Objektbewirtschaftung nach dem ZVG: Welche Maßnahme ist zur Erhaltung oder ordnungsgemäßen Nutzung nötig und genehmigungs- oder finanzierungsbedürftig | Besitzübernahmeprotokoll, Mieteranschreiben, Objektbudget, Zwischenbericht, Rechnungslegung oder Teilungsplan erstellen |
-| Paragraf 153 ZVG (Einnahmen aus Nutzungen) → Paragraf 152 ZVG (Pflichten Verwaltung) → Paragraf 13 ZwVwV | Paragraf 153 ZVG (Einnahmen aus Nutzungen) → Paragraf 152 ZVG (Pflichten Verwaltung) → Paragraf 13 ZwVwV (Buchführung) → Paragraf 14 ZwVwV (Jahresrechnung) → Paragraf 675 BGB | Darlegungs- und Nachweisfrage für Zwangsverwaltung und Objektbewirtschaftung nach dem ZVG: Welche Maßnahme ist zur Erhaltung oder ordnungsgemäßen Nutzung nötig und genehmigungs- oder finanzierungsbedürftig | Besitzübernahmeprotokoll, Mieteranschreiben, Objektbudget, Zwischenbericht, Rechnungslegung oder Teilungsplan erstellen |
+| Paragraf 153 ZVG (Einnahmen aus Nutzungen) → Paragraf 152 ZVG (Pflichten Verwaltung) → Paragraf 13 ZwVwV | Paragraf 153 ZVG (Einnahmen aus Nutzungen) → Paragraf 152 ZVG (Pflichten Verwaltung) → Paragraf 13 ZwVwV (Buchführung) → Paragraf 14 ZwVwV (Jahresrechnung) → Paragraf 675 BGB (Geschäftsbesorgungsvertrag) → Paragraf 667 BGB | Darlegungs- und Nachweisfrage für Zwangsverwaltung und Objektbewirtschaftung nach dem ZVG: Welche Maßnahme ist zur Erhaltung oder ordnungsgemäßen Nutzung nötig und genehmigungs- oder finanzierungsbedürftig | Besitzübernahmeprotokoll, Mieteranschreiben, Objektbudget, Zwischenbericht, Rechnungslegung oder Teilungsplan erstellen |
 
 ## 6. Rechtsprechungsanker, Quellenstatus und Rechtsfolgen
 
@@ -108,8 +108,8 @@ Arbeitsgriff Arbeitsprodukt: Besitzübernahmeprotokoll, Mieteranschreiben, Objek
 - ZVG Paragraf 154 und Paragraf 155: Teilungsplan, laufende Ausgaben, öffentliche Lasten, Verteilung und Rechnungslegung.
 - Zwangsverwalterverordnung: Bestellung, Geschäftsführung, Konten, Berichte, Vergütung und Abrechnung.
 - BGB-Mietrecht, WEG, InsO und Grundbuchrecht: nur an der jeweiligen Objekt-, Miet-, Rang- oder Insolvenzschnittstelle.
-- Paragraf 153 ZVG (Einnahmen aus Nutzungen) → Paragraf 152 ZVG (Pflichten Verwaltung) → Paragraf 13 ZwVwV (Buchführung) → Paragraf 14 ZwVwV (Jahresrechnung) → Paragraf 675 BGB; im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
-- Paragraf 152 ZVG (Rechte/Pflichten Verwalter) → Paragraf 153 ZVG (Einziehung Nutzungen) → Paragraf 57 ZVG (Schutz der Mieter) → Paragrafen 535 566 BGB (Mietrecht) → Paragrafen 8-9; im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
+- Paragraf 153 ZVG (Einnahmen aus Nutzungen) → Paragraf 152 ZVG (Pflichten Verwaltung) → Paragraf 13 ZwVwV (Buchführung) → Paragraf 14 ZwVwV (Jahresrechnung) → Paragraf 675 BGB (Geschäftsbesorgungsvertrag) → Paragraf 667 BGB (Herausgabe Treuhandgelder) → Paragraf 280 BGB (Schadensersatz Treuhandvermischung); im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
+- Paragraf 152 ZVG (Rechte/Pflichten Verwalter) → Paragraf 153 ZVG (Einziehung Nutzungen) → Paragraf 57 ZVG (Schutz der Mieter) → Paragrafen 535 566 BGB (Mietrecht) → Paragrafen 8-9 ZwVwV (laufende Verwaltung) → Paragraf 581 BGB (Pachtvertrag) → Paragrafen 596-599 BGB (Pächterschutz); im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
 - Paragrafen 146-161 ZVG — Kernvorschriften der Zwangsverwaltung; im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
 - Paragraf 155 ZVG — Einnahmen und Ausgaben; Verteilung; im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
 - Paragraf 161 ZVG — Rechnungslegungspflicht; im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
@@ -192,7 +192,7 @@ Diese Routen stammen aus den konkreten Arbeitsthemen dieses Plugins. Wähle die 
 ### 16.1. Aktenanlage und Objektcockpit
 
 Bearbeitungsauftrag: Aktenanlage und Objektcockpit für den Zwangsverwalter nach Paragrafen 146 und folgende Normen Paragrafen 146 152 ZVG Bestellung Paragraf 154 ZVG Pflichten Paragraf 155 ZVG Einnahmen Ausgaben. Output Vollständiges Objektcockpit als Arbeitsbasis für alle Folge-Skills der Zwangsverwaltung.
-Norm- oder Entscheidungsbezug aus dem Fachmaterial: Normen Paragrafen 146 152 ZVG Bestellung Paragraf 154 ZVG Pflichten Paragraf 155 ZVG Einnahmen Ausgaben.
+Normbezug aus dem Fachmaterial: Normen Paragrafen 146 152 ZVG Bestellung Paragraf 154 ZVG Pflichten Paragraf 155 ZVG Einnahmen Ausgaben.
 Lieferstück: Akten- und Belegmatrix zu Aktenanlage und Objektcockpit mit Datum, Urheber, Fundstelle, Widerspruch, Fehlteil und nächstem Bearbeitungsschritt.
 
 ### 16.2. Berichtswesen an das Vollstreckungsgericht
@@ -223,13 +223,13 @@ Lieferstück: Fristenblatt zu Teilnahme am Versteigerungstermin mit Auslöser, B
 ### 16.7. Verteilungsplan Paragraf 155 ZVG
 
 Bearbeitungsauftrag: Verteilungsplan nach Paragraf 155 ZVG für die Auszahlung von Einnahmen in der Zwangsverwaltung. Normen Paragraf 155 ZVG Verteilung Paragraf 10 ZVG Rangklassen Paragraf 154 ZVG Kosten Verwaltervergütung. Output Verteilungsplan mit Rangfolge Beträgen Auszahlungsnachweis und Gerichtsbericht.
-Norm- oder Entscheidungsbezug aus dem Fachmaterial: Verteilungsplan nach Paragraf 155 ZVG für die Auszahlung von Einnahmen in der Zwangsverwaltung.
+Normbezug aus dem Fachmaterial: Verteilungsplan nach Paragraf 155 ZVG für die Auszahlung von Einnahmen in der Zwangsverwaltung.
 Lieferstück: Fachvotum zu Verteilungsplan Paragraf 155 ZVG mit Tatbestandsmerkmalen, Aktenfundstellen, Beweislast, stärkster Gegenposition, Risiko und ausformulierter Rechtsfolge.
 
 ### 16.8. Besitzerlangung und Objektaufnahme
 
 Bearbeitungsauftrag: Besitzerlangung über das Zwangsverwaltungsobjekt nach Paragraf 150 ZVG. Normen Paragraf 150 ZVG Besitzübernahme Paragraf 151 ZVG Rechte und Pflichten Paragraf 535 BGB Mietverhältnisse. Abgrenzung zu zvg-aktenanlage-objektcockpit und zvg-berichtswesen-gericht.
-Norm- oder Entscheidungsbezug aus dem Fachmaterial: Besitzerlangung über das Zwangsverwaltungsobjekt nach Paragraf 150 ZVG.
+Normbezug aus dem Fachmaterial: Besitzerlangung über das Zwangsverwaltungsobjekt nach Paragraf 150 ZVG.
 Lieferstück: Fachvotum zu Besitzerlangung und Objektaufnahme mit Tatbestandsmerkmalen, Aktenfundstellen, Beweislast, stärkster Gegenposition, Risiko und ausformulierter Rechtsfolge.
 
 ### 16.9. Bieterangebot bewerten
@@ -245,11 +245,11 @@ Lieferstück: Fachvotum zu Öffentliche Lasten und grundstücksbezogene Abgaben 
 ### 16.11. Miet- und Pachtverwaltung
 
 Bearbeitungsauftrag: Miet- und Pachtverwaltung in der Zwangsverwaltung einschließlich Vertragsübernahme und Zahlungseinzug. Normen Paragraf 152 ZVG Mieteinzug Paragrafen 535 und folgende BGB Mietrecht Paragraf 150 ZVG Vorausverfügungen des Schuldners.
-Norm- oder Entscheidungsbezug aus dem Fachmaterial: Normen Paragraf 152 ZVG Mieteinzug Paragrafen 535 und folgende.
+Normbezug aus dem Fachmaterial: Normen Paragraf 152 ZVG Mieteinzug Paragrafen 535 und folgende.
 Lieferstück: Fachvotum zu Miet- und Pachtverwaltung mit Tatbestandsmerkmalen, Aktenfundstellen, Beweislast, stärkster Gegenposition, Risiko und ausformulierter Rechtsfolge.
 
 ### 16.12. Mieteinzug und Rückstände
 
 Bearbeitungsauftrag: Mieteinzug und Rückstandsbehandlung in der Zwangsverwaltung. Normen Paragraf 152 ZVG Mieteinzugspflicht Paragraf 543 BGB fristlose Kündigung Paragraf 286 BGB Verzug. Abgrenzung zu zvg-miet-und-pachtverwaltung und zvg-räumung-kündigung.
-Norm- oder Entscheidungsbezug aus dem Fachmaterial: Normen Paragraf 152 ZVG Mieteinzugspflicht Paragraf 543 BGB fristlose Kündigung Paragraf 286 BGB Verzug.
+Normbezug aus dem Fachmaterial: Normen Paragraf 152 ZVG Mieteinzugspflicht Paragraf 543 BGB fristlose Kündigung Paragraf 286 BGB Verzug.
 Lieferstück: Fachvotum zu Mieteinzug und Rückstände mit Tatbestandsmerkmalen, Aktenfundstellen, Beweislast, stärkster Gegenposition, Risiko und ausformulierter Rechtsfolge.

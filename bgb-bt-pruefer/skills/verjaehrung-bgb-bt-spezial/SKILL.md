@@ -16,10 +16,10 @@ Verjährungsfristen im BGB Besonderer Teil prüfen: Sonderfristen für Kaufrecht
 
 ## Normanker
 
-- § 438 BGB: Verjährung beim Kaufvertrag (2 Jahre; 5 Jahre für Bauwerke; 30 Jahre bei arglistigem Verschweigen)
+- Paragraf 438 BGB: zwei Jahre im Regelfall, fünf Jahre in den Fällen des Absatzes 1 Nummer 2 und 30 Jahre nur bei den Rechtsmängeln des Absatzes 1 Nummer 1; bei Arglist gilt Absatz 3.
 - § 548 BGB: Verjährung bei Miet- und Pachtrecht (6 Monate nach Rückgabe)
-- § 634a BGB: Verjährung beim Werkvertrag (2 Jahre; 5 Jahre für Bauwerke; 10 Jahre bei Arglist)
-- § 852 BGB: Verjährung deliktischer Bereicherungsansprüche (10 Jahre)
+- Paragraf 634a BGB: zwei oder fünf Jahre je nach Werk; bei Arglist gilt nach Absatz 3 die regelmäßige Verjährung, bei Bauwerken jedoch nicht vor Ablauf von fünf Jahren.
+- Paragraf 852 BGB: Herausgabe des durch unerlaubte Handlung Erlangten auch nach Verjährung des Schadensersatzanspruchs; zehn Jahre ab Entstehung, kenntnisunabhängig spätestens 30 Jahre ab Verletzungshandlung oder Schadensereignis.
 - §§ 195 und 199 BGB: Regelverjährung (3 Jahre; Beginn mit Kenntnis oder grob fahrlässiger Unkenntnis)
 - §§ 203 ff. BGB: Hemmung und Neubeginn der Verjährung
 
@@ -34,20 +34,20 @@ Verjährungsfristen im BGB Besonderer Teil prüfen: Sonderfristen für Kaufrecht
 ## Prüfraster
 
 1. Anspruchsgrundlage und Sonderfristen-Norm bestimmen
-2. Kaufrecht: § 438 Abs. 1 BGB (2 Jahre ab Übergabe; 5 Jahre für Bauwerke; 30 Jahre bei Arglist)
+2. Kaufrecht: Paragraf 438 BGB mit zwei Jahren im Regelfall, fünf Jahren in den Fällen des Absatzes 1 Nummer 2 und 30 Jahren nur für die Rechtsmängel des Absatzes 1 Nummer 1; bei Arglist regelmäßige Verjährung nach Absatz 3.
 3. Mietrecht: § 548 Abs. 1 BGB (6 Monate nach Rückgabe) für Vermieterersatzansprüche
 4. Werkvertragsrecht: § 634a BGB (2 Jahre bei Bewegungssachen; 5 Jahre für Bauwerke)
-5. Deliktsrecht: §§ 195 und 199 BGB (3 Jahre ab Kenntnis); § 852 BGB für Bereicherungsanspruch (10 Jahre)
+5. Deliktsrecht: Schadensersatz nach den Paragrafen 195 und 199 BGB; den Herausgabeanspruch aus Paragraf 852 BGB mit zehn Jahren ab Entstehung und der kenntnisunabhängigen 30-Jahres-Höchstfrist gesondert berechnen.
 6. Hemmungstatbestände: §§ 203-213 BGB (Verhandlungen, gerichtliche Geltendmachung)
 7. Neubeginn nach § 212 BGB: Anerkenntnis, Abschlagszahlung, Sicherheitsleistung
-8. Arglist-Verlängerungen: § 438 Abs. 3 und § 634a Abs. 3 BGB
+8. Arglist-Sonderregeln: Paragrafen 438 Absatz 3 und 634a Absatz 3 BGB führen in die regelmäßige Verjährung nach den Paragrafen 195 und 199 BGB; für die jeweiligen Bauwerksfälle bleibt die gesetzliche Fünfjahresuntergrenze bestehen.
 
 ## Fallstricke
 
 - § 548 BGB (Miet) beginnt mit Rückgabe der Mietsache, nicht mit Kenntnis des Vermieters.
-- Arglist verlängert Verjährung bei Kauf auf 30 Jahre; bei Werkvertrag auf 10 Jahre.
+- Arglist führt weder beim Kauf noch beim Werkvertrag pauschal zu einer 30- oder zehnjährigen Frist. Regelmäßige Frist, Kenntnisbeginn, Anspruchsart und kenntnisunabhängige Höchstfrist sind getrennt zu berechnen.
 - Hemmung durch Verhandlungen (§ 203 BGB) setzt echten Austausch voraus; bloße Ablehnung genügt nicht.
-- Verjährung des Bereicherungsanspruchs nach § 852 BGB (10 Jahre) als 'Restschaden' neben § 823 BGB.
+- Paragraf 852 BGB gewährt nach Verjährung des deliktischen Schadensersatzanspruchs nur Herausgabe des aus der unerlaubten Handlung Erlangten. Die Zehnjahresfrist ab Entstehung und die 30-Jahres-Höchstfrist ab Verletzungshandlung oder Schadensereignis sind beide zu beachten.
 
 ## Stoppschilder
 
@@ -68,3 +68,6 @@ Verjährungsfristen im BGB Besonderer Teil prüfen: Sonderfristen für Kaufrecht
 - https://www.gesetze-im-internet.de/bgb/__438.html
 - https://www.gesetze-im-internet.de/bgb/__548.html
 - https://www.gesetze-im-internet.de/bgb/__634a.html
+- https://www.gesetze-im-internet.de/bgb/__195.html
+- https://www.gesetze-im-internet.de/bgb/__199.html
+- https://www.gesetze-im-internet.de/bgb/__852.html

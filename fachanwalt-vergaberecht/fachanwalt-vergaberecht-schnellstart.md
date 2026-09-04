@@ -34,7 +34,7 @@ Ohne verwertbares Material genau eine gebündelte Frage zu Vergabeart und Schwel
 | --- | --- |
 | Normenanker | GWB Paragraf 97; GWB Paragraf 134; GWB Paragraf 160 |
 | Rechtsprechung | EuGH, Urteil vom 11.01.2005 - C-26/03; EuGH, Urteil vom 13.10.2005 - C-458/03 |
-| Tatbestand | Rügefrist, Vergabeunterlagen, Zuschlagskriterium, Dokumentation, Bieterfrage und Nachprüfungsantrag sofort abgleichen |
+| Tatbestand | Auftraggeber, Auftragsgegenstand, Schätzung, Verfahrensart und Fristen klären |
 | Beweislast | Auftraggeber für Dokumentation und Wertung; Bieter für Rüge, Interesse, Rechtsverletzung und drohenden Schaden |
 | Rechtsfolge | Rüge, Bieterfrage, Nachprüfungsantrag, Wertungskorrektur, Zuschlagsstopp oder Dokumentationsvermerk |
 | Quellenstatus | Aktenfund, Normtext, Profilanker oder sicher belegte Entscheidung offen kennzeichnen; unsichere Aktenzeichen nicht ergänzen |
@@ -43,12 +43,11 @@ Ohne verwertbares Material genau eine gebündelte Frage zu Vergabeart und Schwel
 
 | Feld | Sofortgriff | Ausgabe |
 | --- | --- | --- |
-| Vergabeart und Schwelle | Rügefrist, Vergabeunterlagen, Zuschlagskriterium, Dokumentation, Bieterfrage und Nachprüfungsantrag sofort abgleichen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Vergabeunterlagen | Rügefrist, Vergabeunterlagen, Zuschlagskriterium, Dokumentation, Bieterfrage und Nachprüfungsantrag sofort abgleichen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Rüge | Rügefrist, Vergabeunterlagen, Zuschlagskriterium, Dokumentation, Bieterfrage und Nachprüfungsantrag sofort abgleichen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Nachprüfung | Rügefrist, Vergabeunterlagen, Zuschlagskriterium, Dokumentation, Bieterfrage und Nachprüfungsantrag sofort abgleichen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Arbeitsprodukt | Rügefrist, Vergabeunterlagen, Zuschlagskriterium, Dokumentation, Bieterfrage und Nachprüfungsantrag sofort abgleichen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Ausschluss Bieter Paragraf 124 GWB | Rügefrist, Vergabeunterlagen, Zuschlagskriterium, Dokumentation, Bieterfrage und Nachprüfungsantrag sofort abgleichen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Vergabeart und Schwelle | Auftraggeber, Auftragsgegenstand, Schätzung, Verfahrensart und Fristen klären. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Vergabeunterlagen | Eignung, Zuschlagskriterien, Leistungsbeschreibung, Vertragsbedingungen und Nebenangebote prüfen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Rüge | Erkennbaren Fehler, Kenntnisdatum, Frist und konkrete Abhilfe sauber formulieren. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Nachprüfung | Antragsbefugnis, Rügepräklusion, Zuschlagsverbot und Sachantrag vor Vergabekammer aufbauen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Arbeitsprodukt | Rügeschreiben, Nachprüfungsantrag, Auftraggebervermerk oder Wertungsmemo erstellen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
 
 ## 6. Anker
 
@@ -60,6 +59,8 @@ Ohne verwertbares Material genau eine gebündelte Frage zu Vergabeart und Schwel
 - Paragraf 160 Abs. 2 und 3 GWB; im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
 - Paragraf 241 Abs. 2 BGB — Rücksichtnahme-, Schutz- und Organisationspflichten; im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
 - Paragraf 242 BGB — Treu und Glauben als Korrektiv enger Klausel- und Anspruchsarbeit; im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
+- EuGH, Urteil vom 11.01.2005 - C-26/03: Stadt Halle begrenzt vergabefreie Inhouse-Vergaben.
+- EuGH, Urteil vom 13.10.2005 - C-458/03: Parking Brixen konkretisiert Transparenzpflichten bei Konzessionen.
 
 ## 7. Antwortform
 

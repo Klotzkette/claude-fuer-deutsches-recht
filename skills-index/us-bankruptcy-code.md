@@ -1,6 +1,6 @@
 # us-bankruptcy-code
 
-**101 Skills** · Stand `v441.0.0`
+**101 Skills** · Stand `v442.0.0`
 
 [Repository-Start](../README.md) · [Skill-Gesamtübersicht](../SKILLS.md) · [Plugin-README](../us-bankruptcy-code/README.md) · [Download-Index](../ASSET_INDEX.md) · [Testakten](../testakten/README.md)
 

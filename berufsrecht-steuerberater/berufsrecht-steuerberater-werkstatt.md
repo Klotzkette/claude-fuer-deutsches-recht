@@ -178,9 +178,9 @@ Die Landkarte dient der schnellen Auswahl. Sie ersetzt nicht die darunter ausfor
 | Entscheidungsvorlage | Verdichte Mandatsumfang, Bekanntgabe, Frist, Handakte, Gebühren, Berichtigung und Haftung anhand von StBerG, BOStB, StBVV und AO zu einer Entscheidungsvorlage mit gesichertem Sachverhalt, Pflichtenkreis. | Fachvotum zu Entscheidungsvorlage mit Tatbestandsmerkmalen, Aktenfundstellen, Beweislast, stärkster Gegenposition, Risiko und ausformulierter Rechtsfolge |
 | Fristenkontrolle | Baue aus StBerG, BOStB, StBVV und AO und der konkreten Zustellung oder Verfahrenshandlung ein Fristenblatt mit Beginn, Ende, Vorfrist, Verantwortlichem, Gegenkontrolle, Ausgangsnachweis und Wiedereinsetzungsreserve. | Fristenblatt zu Fristenkontrolle mit Auslöser, Beginn, Ende, Vorfrist, Beleg, Sofortmaßnahme und Verantwortlichem |
 | Berufsausübungsgesellschaft | Prüfe nach StBerG, BOStB, StBVV und AO zulässige Gesellschafter und Geschäftsleitung, berufliche Unabhängigkeit, Mehrheit, Firma, Register, Versicherung, interne Konfliktregeln und Vollzug der Berufsausübungsgesellschaft | Fachvotum zu Berufsausübungsgesellschaft mit Tatbestandsmerkmalen, Aktenfundstellen, Beweislast, stärkster Gegenposition, Risiko und ausformulierter Rechtsfolge |
+| Beteiligtenkommunikation | Bearbeite Beteiligtenkommunikation anhand von StBerG, BOStB, StBVV und AO: ordne Mandatsumfang, Bekanntgabe, Frist, Handakte, Gebühren, Berichtigung und Haftung nach sicherer Tatsache, Berufspflicht, Nachweis. | Fachvotum zu Beteiligtenkommunikation mit Tatbestandsmerkmalen, Aktenfundstellen, Beweislast, stärkster Gegenposition, Risiko und ausformulierter Rechtsfolge |
 | Fachbezeichnung | Bearbeite Fachbezeichnung anhand von StBerG, BOStB, StBVV und AO: ordne Mandatsumfang, Bekanntgabe, Frist, Handakte, Gebühren, Berichtigung und Haftung nach sicherer Tatsache, Berufspflicht, Nachweis, Gegenposition. | Fachvotum zu Fachbezeichnung mit Tatbestandsmerkmalen, Aktenfundstellen, Beweislast, stärkster Gegenposition, Risiko und ausformulierter Rechtsfolge |
 | Fortbildung | Bearbeite Fortbildung anhand von StBerG, BOStB, StBVV und AO: ordne Mandatsumfang, Bekanntgabe, Frist, Handakte, Gebühren, Berichtigung und Haftung nach sicherer Tatsache, Berufspflicht, Nachweis, Gegenposition, Risiko. | Fachvotum zu Fortbildung mit Tatbestandsmerkmalen, Aktenfundstellen, Beweislast, stärkster Gegenposition, Risiko und ausformulierter Rechtsfolge |
-| Geldwäsche und KYC | Bearbeite Geldwäsche und KYC anhand von StBerG, BOStB, StBVV und AO: ordne Mandatsumfang, Bekanntgabe, Frist, Handakte, Gebühren, Berichtigung und Haftung nach sicherer Tatsache, Berufspflicht, Nachweis, Gegenposition. | Fachvotum zu Geldwäsche und KYC mit Tatbestandsmerkmalen, Aktenfundstellen, Beweislast, stärkster Gegenposition, Risiko und ausformulierter Rechtsfolge |
 
 ## 16. Fachspezifische Praxisrouten
 
@@ -199,7 +199,6 @@ Lieferstück: Fachvotum zu Berufsgericht und Disziplinarverfahren mit Tatbestand
 ### 16.3. Berufshaftpflicht
 
 Bearbeitungsauftrag: Bestimme Pflichtenkreis und Auftragsumfang nach StBerG, BOStB, StBVV und AO, trenne Pflichtverletzung, Kausalität und Schaden, sichere Verjährung und Versicherungsanzeige und baue für Mandatsumfang, Bekanntgabe, Frist, Handakte, Gebühren, Berichtigung und Haftung eine belastbare Anspruchs- und Verteidigungsmatrix.
-Norm- oder Entscheidungsbezug aus dem Fachmaterial: BGH, Urteil vom 14.06.2012; IX ZR 145/11: Eine möglicherweise drittschützende Haftung für einen Insolvenzverschleppungsschaden setzt nach dieser Entscheidung einen ausdrücklichen Auftrag zur Prüfung der Insolvenzreife voraus.
 Lieferstück: Fachvotum zu Berufshaftpflicht mit Tatbestandsmerkmalen, Aktenfundstellen, Beweislast, stärkster Gegenposition, Risiko und ausformulierter Rechtsfolge.
 
 ### 16.4. Entscheidungsvorlage
@@ -217,32 +216,32 @@ Lieferstück: Fristenblatt zu Fristenkontrolle mit Auslöser, Beginn, Ende, Vorf
 Bearbeitungsauftrag: Prüfe nach StBerG, BOStB, StBVV und AO zulässige Gesellschafter und Geschäftsleitung, berufliche Unabhängigkeit, Mehrheit, Firma, Register, Versicherung, interne Konfliktregeln und Vollzug der Berufsausübungsgesellschaft.
 Lieferstück: Fachvotum zu Berufsausübungsgesellschaft mit Tatbestandsmerkmalen, Aktenfundstellen, Beweislast, stärkster Gegenposition, Risiko und ausformulierter Rechtsfolge.
 
-### 16.7. Fachbezeichnung
+### 16.7. Beteiligtenkommunikation
+
+Bearbeitungsauftrag: Bearbeite Beteiligtenkommunikation anhand von StBerG, BOStB, StBVV und AO: ordne Mandatsumfang, Bekanntgabe, Frist, Handakte, Gebühren, Berichtigung und Haftung nach sicherer Tatsache, Berufspflicht, Nachweis, Gegenposition, Risiko und nächster Handlung.
+Lieferstück: Fachvotum zu Beteiligtenkommunikation mit Tatbestandsmerkmalen, Aktenfundstellen, Beweislast, stärkster Gegenposition, Risiko und ausformulierter Rechtsfolge.
+
+### 16.8. Fachbezeichnung
 
 Bearbeitungsauftrag: Bearbeite Fachbezeichnung anhand von StBerG, BOStB, StBVV und AO: ordne Mandatsumfang, Bekanntgabe, Frist, Handakte, Gebühren, Berichtigung und Haftung nach sicherer Tatsache, Berufspflicht, Nachweis, Gegenposition, Risiko und nächster Handlung.
 Lieferstück: Fachvotum zu Fachbezeichnung mit Tatbestandsmerkmalen, Aktenfundstellen, Beweislast, stärkster Gegenposition, Risiko und ausformulierter Rechtsfolge.
 
-### 16.8. Fortbildung
+### 16.9. Fortbildung
 
 Bearbeitungsauftrag: Bearbeite Fortbildung anhand von StBerG, BOStB, StBVV und AO: ordne Mandatsumfang, Bekanntgabe, Frist, Handakte, Gebühren, Berichtigung und Haftung nach sicherer Tatsache, Berufspflicht, Nachweis, Gegenposition, Risiko und nächster Handlung.
 Lieferstück: Fachvotum zu Fortbildung mit Tatbestandsmerkmalen, Aktenfundstellen, Beweislast, stärkster Gegenposition, Risiko und ausformulierter Rechtsfolge.
 
-### 16.9. Geldwäsche und KYC
+### 16.10. Geldwäsche und KYC
 
 Bearbeitungsauftrag: Bearbeite Geldwäsche und KYC anhand von StBerG, BOStB, StBVV und AO: ordne Mandatsumfang, Bekanntgabe, Frist, Handakte, Gebühren, Berichtigung und Haftung nach sicherer Tatsache, Berufspflicht, Nachweis, Gegenposition, Risiko und nächster Handlung.
 Lieferstück: Fachvotum zu Geldwäsche und KYC mit Tatbestandsmerkmalen, Aktenfundstellen, Beweislast, stärkster Gegenposition, Risiko und ausformulierter Rechtsfolge.
 
-### 16.10. Honorar, Gebühren und Vergütung
+### 16.11. Homeoffice
+
+Bearbeitungsauftrag: Bearbeite Homeoffice anhand von StBerG, BOStB, StBVV und AO: ordne Mandatsumfang, Bekanntgabe, Frist, Handakte, Gebühren, Berichtigung und Haftung nach sicherer Tatsache, Berufspflicht, Nachweis, Gegenposition, Risiko und nächster Handlung.
+Lieferstück: Fachvotum zu Homeoffice mit Tatbestandsmerkmalen, Aktenfundstellen, Beweislast, stärkster Gegenposition, Risiko und ausformulierter Rechtsfolge.
+
+### 16.12. Honorar, Gebühren und Vergütung
 
 Bearbeitungsauftrag: Prüfe Auftrag, Vergütungsabrede, gesetzlichen Gebührenmaßstab, Vorschuss, Fälligkeit, Abrechnung, Aufklärung und Einwendungen nach StBerG, BOStB, StBVV und AO; rechne Mandatsumfang, Bekanntgabe, Frist, Handakte, Gebühren, Berichtigung und Haftung mit belegten Werten nach.
 Lieferstück: nachrechenbare Berechnung mit Eingabewerten, Zwischenschritten, Varianten, Stichtag und Belegspalte.
-
-### 16.11. Steuerberater
-
-Bearbeitungsauftrag: Bearbeite Steuerberater anhand von StBerG, BOStB, StBVV und AO: ordne Mandatsumfang, Bekanntgabe, Frist, Handakte, Gebühren, Berichtigung und Haftung nach sicherer Tatsache, Berufspflicht, Nachweis, Gegenposition, Risiko und nächster Handlung.
-Lieferstück: Fachvotum zu Steuerberater mit Tatbestandsmerkmalen, Aktenfundstellen, Beweislast, stärkster Gegenposition, Risiko und ausformulierter Rechtsfolge.
-
-### 16.12. Berufsträger und Pflichtenkreis
-
-Bearbeitungsauftrag: Bearbeite Berufsträger und Pflichtenkreis anhand von StBerG, BOStB, StBVV und AO: ordne Mandatsumfang, Bekanntgabe, Frist, Handakte, Gebühren, Berichtigung und Haftung nach sicherer Tatsache, Berufspflicht, Nachweis, Gegenposition, Risiko und nächster Handlung.
-Lieferstück: Fachvotum zu Berufsträger und Pflichtenkreis mit Tatbestandsmerkmalen, Aktenfundstellen, Beweislast, stärkster Gegenposition, Risiko und ausformulierter Rechtsfolge.

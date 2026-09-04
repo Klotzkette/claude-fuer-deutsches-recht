@@ -1,92 +1,74 @@
 ---
 name: erwerbsgeschaeft-dienst-formnichtigkeit
-description: "Für Ermächtigung zu Erwerbsgeschäften — Paragrafen 112 und 113 BGB: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt. Fachgebiet: BGB AT Prüfer. Route: erwerbsgeschaeft-dienst-formnichtigkeit."
+description: "Prüft die Teilgeschäftsfähigkeit Minderjähriger beim selbständigen Erwerbsgeschäft und im Dienst- oder Arbeitsverhältnis nach den Paragrafen 112 und 113 BGB; trennt Ermächtigung, Reichweite, Einzelgenehmigung und Rücknahme."
 ---
 
-# Ermächtigung zu Erwerbsgeschäften — §§ 112 und 113 BGB
+# Erwerbsgeschäft und Dienst- oder Arbeitsverhältnis
 
-## Arbeitsweg
+## 1. Direktauftrag
 
-- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
-- Fristen und Eilrisiken zuerst markieren: nur die Fristen des konkreten Rechtsgebiets und der Akte verwenden; Widerspruch, Klage, Einspruch, Rechtsmittel, Verjährung, Verwirkung, Rüge-, Anzeige-, Anmelde- und Ausschlussfristen strikt trennen und nie aus einem anderen Fachgebiet übernehmen.
-- Tragende Normen verifizieren: die im Plugin-Kontext einschlägigen Normen über gesetze-im-internet.de, dejure.org, eur-lex.europa.eu und die amtlichen Bundes-/Landesportale live prüfen — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
-- Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
-- Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
+Ordne den konkreten Vertrag zuerst entweder dem selbständigen Erwerbsgeschäft nach Paragraf 112 BGB oder einem Dienst- oder Arbeitsverhältnis nach Paragraf 113 BGB zu. Lies Ermächtigung, familiengerichtliche Entscheidung, Arbeits- oder Geschäftsunterlagen und eine spätere Einschränkung vollständig. Prüfe danach nur noch Reichweite, Fortbestand und Rechtsfolge des konkreten Geschäfts.
 
-## Mandantenfall
+## 2. Benötigte Unterlagen
 
-- 16-jähriger betreibt mit Elternzustimmung einen Online-Shop — welche Verträge kann er selbstständig schließen?
-- Minderjährige geht einem Nebenjob nach — welche Reichweite hat die elterliche Ermächtigung nach § 113 BGB?
-- Klausurkonstellation: Minderjähriger schließt Liefervertrag für seinen Betrieb — wirksam oder nicht?
+1. Erklärung des gesetzlichen Vertreters mit Datum und genauer Reichweite.
+2. Bei Paragraf 112 BGB die familiengerichtliche Genehmigung.
+3. Gewerbeanmeldung, Geschäftsmodell, Verträge und laufende Geschäftspraxis.
+4. Bei Paragraf 113 BGB Arbeitsvertrag, Nebenabreden und spätere Änderungen.
+5. Rücknahme oder Einschränkung der Ermächtigung einschließlich Zugangsnachweis.
+6. Das konkret zu beurteilende Rechtsgeschäft samt Gegenleistung und Sicherheiten.
 
-## Erste Schritte
+## 3. Prüfraster
 
-1. Ermächtigung nach § 112 BGB prüfen: Elternzustimmung und Genehmigung des Familiengerichts.
-2. Umfang der Ermächtigung: Alle Rechtsgeschäfte, die der Betrieb des Erwerbsgeschäfts gewöhnlich mit sich bringt.
-3. § 113 BGB: Ermächtigung zu Dienst- oder Arbeitsverhältnis — hier reicht elterliche Erlaubnis ohne Gericht.
-4. Grenzen: Rechtsgeschäfte, die den Rahmen des konkreten Erwerbsgeschäfts überschreiten, sind nicht erfasst.
-5. Widerruf der Ermächtigung: § 112 Abs. 2 BGB ermöglicht Widerruf durch gesetzlichen Vertreter.
-6. Rechtsfolge: Im Rahmen der Ermächtigung ist der Minderjährige unbeschränkt geschäftsfähig.
+### 3.1 Richtige Fachroute
 
-## Rechtsrahmen
+1. Selbständiger Betrieb eines Erwerbsgeschäfts: Paragraf 112 BGB.
+2. Eintritt in ein Dienst- oder Arbeitsverhältnis: Paragraf 113 BGB.
+3. Bloßes einzelnes Alltagsgeschäft außerhalb dieser Bereiche: allgemeine Regeln der Paragrafen 106 bis 111 BGB.
 
-- § 112 Abs. 1 BGB: Ermächtigung zum selbstständigen Betrieb eines Erwerbsgeschäfts.
-- § 112 Abs. 2 BGB: Widerruf der Ermächtigung durch gesetzlichen Vertreter oder Familiengericht.
-- § 113 Abs. 1 BGB: Ermächtigung zu Dienst- oder Arbeitsverhältnis.
-- § 113 Abs. 3 BGB: Gilt nicht für Rechtsgeschäfte, die nicht das Arbeitsverhältnis betreffen.
-- §§ 1626 ff. BGB: Elterliche Sorge als Grundlage der Ermächtigung.
+### 3.2 Erwerbsgeschäft nach Paragraf 112 BGB
 
-## Prüfraster
+1. Der gesetzliche Vertreter muss den Minderjährigen zum selbständigen Betrieb ermächtigt haben.
+2. Die Ermächtigung setzt nach Paragraf 112 Absatz 1 BGB die Genehmigung des Familiengerichts voraus. Paragraf 1643 BGB ist nicht die unmittelbare Ermächtigungsgrundlage.
+3. Der Minderjährige ist nur für Rechtsgeschäfte unbeschränkt geschäftsfähig, welche der konkrete Geschäftsbetrieb mit sich bringt.
+4. Ausgenommen bleiben Geschäfte, zu denen bereits der gesetzliche Vertreter einer familiengerichtlichen Genehmigung bedarf. Die jeweils einschlägige Genehmigungsnorm ist konkret zu bestimmen.
+5. Nach Paragraf 112 Absatz 2 BGB kann nur der gesetzliche Vertreter die Ermächtigung zurücknehmen, und auch dies nur mit Genehmigung des Familiengerichts.
 
-1. Ermächtigung nach § 112 oder § 113 BGB: Welche Norm ist einschlägig?
-2. Form der Ermächtigung: § 112 BGB erfordert Genehmigung des Familiengerichts; § 113 BGB nicht.
-3. Umfang: Fällt das konkrete Rechtsgeschäft in den Bereich des Erwerbsgeschäfts oder Arbeitsverhältnisses?
-4. Widerruf der Ermächtigung: Hat ihn der Erklärungsempfänger gekannt?
-5. Rechtsfolge bei wirksamer Ermächtigung: Unbeschränkte Geschäftsfähigkeit für diesen Bereich.
-6. Rechtsfolge bei fehlendem Umfang: Zurück zu § 106 BGB (beschränkte Geschäftsfähigkeit).
+### 3.3 Dienst oder Arbeit nach Paragraf 113 BGB
 
-## Typische Fallstricke
+1. Die Ermächtigung des gesetzlichen Vertreters muss sich auf ein Dienst- oder Arbeitsverhältnis der gestatteten Art beziehen.
+2. Erfasst sind dessen Eingehung, Aufhebung und die Erfüllung der daraus entstehenden Verpflichtungen.
+3. Nicht erfasst sind Verträge, zu denen der gesetzliche Vertreter einer familiengerichtlichen Genehmigung bedarf.
+4. Der gesetzliche Vertreter kann die Ermächtigung nach Paragraf 113 Absatz 2 BGB zurücknehmen oder einschränken.
+5. Ist der gesetzliche Vertreter ein Vormund und verweigert er die Ermächtigung, kann das Familiengericht sie unter den Voraussetzungen des Paragrafen 113 Absatz 3 BGB ersetzen. Dies ist keine allgemeine Genehmigungsvoraussetzung des Paragrafen 113 BGB.
+6. Eine für einen Einzelfall erteilte Ermächtigung gilt im Zweifel nach Paragraf 113 Absatz 4 BGB für Verhältnisse derselben Art.
 
-- § 112 BGB erfordert Familiengericht-Genehmigung — ohne diese ist die Ermächtigung unwirksam.
-- Umfang der Ermächtigung ist auf das Erwerbsgeschäft beschränkt — kein Generalfreibrief.
-- Widerruf nach § 112 Abs. 2 BGB wirkt ex nunc — frühere Verträge bleiben wirksam.
-- § 113 BGB gilt nur für das Arbeitsverhältnis, nicht für sonstige Verträge des Minderjährigen.
+### 3.4 Reichweite und Rechtsfolge
 
-## Output
+1. Tätigkeit, Betriebszweck und gewöhnliche Geschäftsvorgänge konkret beschreiben.
+2. Das streitige Geschäft danach einordnen, ob es betrieblich oder arbeitsvertraglich veranlasst und von typischer Art ist.
+3. Sicherheiten, Grundstücksgeschäfte, ungewöhnliche Dauerschulden und private Geschäfte gesondert prüfen.
+4. Bei fehlender oder überschrittener Ermächtigung die Wirksamkeit nach den Paragrafen 106 bis 111 BGB beurteilen; nicht vorschnell Nichtigkeit annehmen.
+5. Eine Rücknahme wirkt für die Zukunft. Für jedes Geschäft sind Abschlusszeitpunkt und Fortbestand der Ermächtigung festzustellen.
 
-- Prüfungsschema §§ 112 und 113 BGB mit Umfangsbestimmung
-- Abgrenzungstabelle: § 112 BGB vs. § 113 BGB
-- Gutachtenstil-Abschnitt zur Ermächtigung und ihren Grenzen
-- Klausurlösungsskizze für konkreten Vertragsfall
+## 4. Fallmatrix
 
-## Quellen
+| Weiche | Feststellung | Beleg | Folge |
+| --- | --- | --- | --- |
+| Paragraf 112 oder 113 BGB | Erwerbsgeschäft / Arbeit | Vertragszweck | richtige Normroute |
+| Ermächtigung | erteilt / nicht erteilt / unklar | Erklärung | besondere Geschäftsfähigkeit |
+| Gerichtliche Mitwirkung | erforderlich und vorhanden? | Beschluss | Wirksamkeit der Ermächtigung |
+| Reichweite | umfasst / überschritten | Geschäftspraxis und Vertrag | unmittelbare Bindung oder allgemeine Minderjährigenregeln |
+| Rücknahme | Datum und Umfang | Zugangsnachweis | Wirkung für spätere Geschäfte |
 
-- [§ 112 BGB — gesetze-im-internet.de](https://www.gesetze-im-internet.de/bgb/__112.html)
-- [§ 113 BGB — gesetze-im-internet.de](https://www.gesetze-im-internet.de/bgb/__113.html)
-- [§ 107 BGB — gesetze-im-internet.de](https://www.gesetze-im-internet.de/bgb/__107.html)
-- [dejure.org § 112 BGB](https://dejure.org/gesetze/BGB/112.html)
-- [dejure.org § 113 BGB](https://dejure.org/gesetze/BGB/113.html)
+## 5. Arbeitsprodukt
 
-## Vertiefung
+Erstelle eine knappe Gegenüberstellung der Paragrafen 112 und 113 BGB, danach eine fallbezogene Wirksamkeitsprüfung des konkreten Geschäfts. Der Ergebnissatz muss benennen, aufgrund welcher Ermächtigung der Minderjährige für genau dieses Geschäft unbeschränkt geschäftsfähig war oder weshalb eine Zustimmung beziehungsweise Genehmigung noch benötigt wird.
 
-### Reichweite der Ermächtigung nach §§ 112 und 113 BGB
+## 6. Amtliche Quellen
 
-§ 112 BGB: Ermächtigung zum selbstständigen Betrieb eines Erwerbsgeschäfts. Der Minderjährige
-gilt als voll geschäftsfähig für alle Rechtsgeschäfte, die das Erwerbsgeschäft mit sich bringt.
-Ausnahme: Grundstückserwerb und ähnliche umfassende Verpflichtungen.
-
-§ 113 BGB: Ermächtigung zum Dienst- oder Arbeitsverhältnis. Der Minderjährige ist für das
-spezifische Arbeits- oder Dienstverhältnis voll geschäftsfähig — nicht für alle Geschäfte.
-
-### Gerichtliche Genehmigung
-
-Für § 112 BGB ist die Genehmigung des Familiengerichts erforderlich (§ 1643 BGB). Diese dient
-dem Schutz des Minderjährigen vor unüberschaubaren Verpflichtungen durch die Eltern.
-
-### Klausur-Checkliste §§ 112 und 113 BGB
-
-- Ermächtigung nach § 112 BGB (Erwerbsgeschäft) oder § 113 BGB (Arbeitsvertrag)?
-- Familiengerichtliche Genehmigung nach § 1643 BGB vorhanden?
-- Reichweite der Ermächtigung: Welche Geschäfte sind damit erfasst?
-- Ausnahmen: Grundstückserwerb und ähnlich weitreichende Verpflichtungen?
-- Widerruf der Ermächtigung: Wirkung für laufende Verträge?
+- [Paragraf 112 BGB](https://www.gesetze-im-internet.de/bgb/__112.html)
+- [Paragraf 113 BGB](https://www.gesetze-im-internet.de/bgb/__113.html)
+- [Paragraf 106 BGB](https://www.gesetze-im-internet.de/bgb/__106.html)
+- [Paragraf 107 BGB](https://www.gesetze-im-internet.de/bgb/__107.html)
+- [Paragraf 108 BGB](https://www.gesetze-im-internet.de/bgb/__108.html)

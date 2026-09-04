@@ -111,12 +111,12 @@ Entscheidungsgriff Arbeitsprodukt: Klageschrift, Klageerwiderung, Hinweisverfüg
 - GVG Paragraf 23 und Paragraf 71: sachliche Zuständigkeit von Amts- und Landgericht.
 - Paragraf 371 ZPO — Augenscheinsbeweis; im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
 - Paragraf 371a ZPO — Elektronische Dokumente; im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
-- Paragraf 286 ZPO — Freie Beweiswürdigung; Gericht entscheidet, ob es überzeugt ist; im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
 - Paragraf 138 ZPO — Wahrheitspflicht; sekundäre Darlegungslast; im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
 - Paragraf 280 I 2 BGB, Paragraf 7 II StVG, Paragraf 836 BGB — Beispiele Beweislast-Umkehr; im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
 - Paragraf 433 II BGB (Kaufpreis); im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
 - Paragraf 823 I BGB (Delikt); im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
 - Paragraf 812 BGB (Bereicherung); im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
+- Paragraf 286 ZPO: Das Gericht muss überzeugt sein; im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
 
 ## 8. Leitentscheidungen
 
@@ -194,14 +194,14 @@ Diese Routen stammen aus den konkreten Arbeitsthemen dieses Plugins. Wähle die 
 
 Bearbeitungsauftrag: Wenn Ihre Beschwer 1.000 EUR oder weniger beträgt, ist Berufung grundsätzlich nicht statthaft (Paragraf 511 II Nummer 1 ZPO, Fassung seit 01.01.2026). Achtung Übergangsfälle (Paragraf 47 EGZPO): Für Verfahren, in denen die anzufechtende Entscheidung bis einschließlich 31.12.2025 verkündet bzw. In solchen Fällen ist Berufung ohne Zulassung schon ab einer Beschwer von mehr als 600 EUR möglich.
 Prüfschritte: Eine Berufung ist in dieser Konstellation nur möglich, wenn das Amtsgericht selbst die Berufung in seinem Urteil ausdrücklich zugelassen hat (Paragraf 511 II Nummer 2 ZPO in Verbindung mit Paragraf 511 IV ZPO); Prüfen Sie zuerst, in welche Phase Ihr Verfahren fällt; Wichtig: Die Zulassung erfolgt nur durch das erstinstanzliche Gericht (AG).
-Norm- oder Entscheidungsbezug aus dem Fachmaterial: Wenn Ihre Beschwer 1.000 EUR oder weniger beträgt, ist Berufung grundsätzlich nicht statthaft (Paragraf 511 II Nummer 1 ZPO, Fassung seit 01.01.2026).
+Normbezug aus dem Fachmaterial: Wenn Ihre Beschwer 1.000 EUR oder weniger beträgt, ist Berufung grundsätzlich nicht statthaft (Paragraf 511 II Nummer 1 ZPO, Fassung seit 01.01.2026).
 Lieferstück: Entscheidungsbaustein zu Berufungs-Zulassung bei Beschwer bis 1.000 EUR mit Antrag, Aktenfund, Rechtsmaßstab, Beweisfolge, Gegenposition, Tenoroption und nächster Verfügung.
 
 ### 16.2. Gerichtskostenvorschuss: Klage wird erst nach Zahlung zugestellt
 
 Bearbeitungsauftrag: Wenn Sie Klage einreichen, zieht das Gericht vor der Zustellung an den Beklagten einen Vorschuss von Ihnen ein (Paragraf 12 GKG). Gerichtskostenvorschuss: Vorab-Zahlung der Gerichtskosten, bevor das Gericht zustellt. Paragraf 167 ZPO "demnächst": Wenn die Zustellung "demnächst" erfolgt, wirkt sie auf den Tag der Klageeinreichung zurück — wichtig für Frist-Wahrung.
 Prüfschritte: Erst wenn der Vorschuss eingegangen ist, wird der Beklagte zugestellt; Wenn Sie den Vorschuss nicht oder zu spät zahlen, wird auch die Verjährung nicht in voller Höhe gehemmt (Paragraf 167 ZPO — "demnächst"-Wirkung kann ausfallen); Sie reichen Klage ein und wollen den Vorschuss vorbereiten; Sie haben Klage eingereicht und nichts gehört; Sie haben finanzielle Schwierigkeiten beim Vorschuss.
-Norm- oder Entscheidungsbezug aus dem Fachmaterial: Wenn Sie Klage einreichen, zieht das Gericht vor der Zustellung an den Beklagten einen Vorschuss von Ihnen ein (Paragraf 12 GKG); Erst wenn der Vorschuss eingegangen ist, wird der Beklagte zugestellt.
+Normbezug aus dem Fachmaterial: Wenn Sie Klage einreichen, zieht das Gericht vor der Zustellung an den Beklagten einen Vorschuss von Ihnen ein (Paragraf 12 GKG).
 Lieferstück: frist- und formgerechter Entwurf mit Antrag, tragenden Tatsachen, Beweisangeboten, Anlagen und Einreichungsweg.
 
 ### 16.3. Verbrauchergerichtsstand: Klagen am eigenen Wohnsitz
@@ -220,21 +220,21 @@ Lieferstück: frist- und formgerechter Entwurf mit Antrag, tragenden Tatsachen, 
 
 Bearbeitungsauftrag: Feststellungsklage: Klage auf Feststellung eines Rechtsverhältnisses (Paragraf 256 ZPO). Stufenklage: Klage in Stufen (erst Auskunft, dann Eid, dann Zahlung — Paragraf 254 ZPO). Paragraf 253 II Nummer 2 ZPO — Bestimmter Antrag.
 Prüfschritte: Er bestimmt, was das Gericht im Erfolgsfall entscheidet; Er muss "bestimmt" sein (Paragraf 253 II Nummer 2 ZPO) — also so konkret, dass aus dem Urteil heraus vollstreckt werden kann; Ein unbestimmter Antrag führt zur Abweisung als unzulässig; Sie sind unsicher, was alles in den Antrag muss; Sie wollen mehrere Anträge stellen (Hauptantrag + Hilfsanträge).
-Norm- oder Entscheidungsbezug aus dem Fachmaterial: Er muss "bestimmt" sein (Paragraf 253 II Nummer 2 ZPO) — also so konkret, dass aus dem Urteil heraus vollstreckt werden kann; Er bestimmt, was das Gericht im Erfolgsfall entscheidet; Er muss "bestimmt" sein (Paragraf 253 II Nummer 2 ZPO) — also so konkret, dass aus dem Urteil heraus vollstreckt werden kann.
+Normbezug aus dem Fachmaterial: Er muss "bestimmt" sein (Paragraf 253 II Nummer 2 ZPO) — also so konkret, dass aus dem Urteil heraus vollstreckt werden kann.
 Lieferstück: frist- und formgerechter Entwurf mit Antrag, tragenden Tatsachen, Beweisangeboten, Anlagen und Einreichungsweg.
 
 ### 16.6. Dolmetscher im Verfahren
 
 Bearbeitungsauftrag: Verfahrenssprache ist Deutsch (Paragraf 184 GVG). Dolmetscher: Person, die zwischen Verfahrenssprache und einer anderen Sprache übersetzt. Paragraf 184 GVG — Verfahrenssprache Deutsch.
 Prüfschritte: Wenn Sie nicht ausreichend Deutsch können, hat das Verfahren ein Sprach-Problem; Paragraf 185 GVG sieht Dolmetscher vor; Diese Skill zeigt, wann und wie Sie Dolmetscher beantragen; Sie sprechen kein oder wenig Deutsch; Ein Zeuge spricht eine fremde Sprache.
-Norm- oder Entscheidungsbezug aus dem Fachmaterial: Verfahrenssprache ist Deutsch (Paragraf 184 GVG); Paragraf 185 GVG sieht Dolmetscher vor; Wenn Sie nicht ausreichend Deutsch können, hat das Verfahren ein Sprach-Problem; Paragraf 185 GVG sieht Dolmetscher vor; Diese Skill zeigt, wann und wie Sie Dolmetscher beantragen; Sie sprechen kein oder wenig Deutsch; Ein Zeuge spricht eine fremde Sprache.
+Normbezug aus dem Fachmaterial: Verfahrenssprache ist Deutsch (Paragraf 184 GVG); Wenn Sie nicht ausreichend Deutsch können, hat das Verfahren ein Sprach-Problem; Paragraf 185 GVG sieht Dolmetscher vor; Diese Skill zeigt, wann und wie Sie Dolmetscher beantragen; Sie sprechen kein oder wenig Deutsch; Ein Zeuge spricht eine fremde Sprache.
 Lieferstück: Entscheidungsbaustein zu Dolmetscher im Verfahren mit Antrag, Aktenfund, Rechtsmaßstab, Beweisfolge, Gegenposition, Tenoroption und nächster Verfügung.
 
 ### 16.7. Klage in Papierform einreichen
 
 Bearbeitungsauftrag: Bearbeite Klage in Papierform einreichen: antrag, Streitgegenstand, Schlüssigkeit, Erheblichkeit, Beweislast, Verfügung und Tenor in eine Relation bringen. Isoliere angegriffene Entscheidung und Rechtsschutzziel, sichere Statthaftigkeit, Beschwer, Zuständigkeit, Frist, Form und Beteiligte und formuliere aus Tatsachen, Beweisen und stärkster Gegenposition einen bestimmten Antrag mit Einreichungsweg.
 Prüfschritte: Bürger dürfen weiterhin in Papierform einreichen; Es gibt kein Paragraf 130d-ZPO-Pflicht für Sie; Diese Skill zeigt, wie Sie sauber Papier-Klagen aufbauen, mit der richtigen Anzahl Abschriften, dem richtigen Versandweg und mit Beweis für Fristwahrung; Sie wollen klassisch per Post einreichen; Sie haben kein MJP-Konto und keine Zeit, eines einzurichten.
-Norm- oder Entscheidungsbezug aus dem Fachmaterial: Es gibt kein Paragraf 130d-ZPO-Pflicht für Sie; Bürger dürfen weiterhin in Papierform einreichen; Es gibt kein Paragraf 130d-ZPO-Pflicht für Sie; Diese Skill zeigt, wie Sie sauber Papier-Klagen aufbauen, mit der richtigen Anzahl Abschriften, dem richtigen Versandweg und mit Beweis für Fristwahrung; Sie wollen klassisch per Post einreichen.
+Normbezug aus dem Fachmaterial: Es gibt kein Paragraf 130d-ZPO-Pflicht für Sie.
 Lieferstück: frist- und formgerechter Entwurf mit Antrag, tragenden Tatsachen, Beweisangeboten, Anlagen und Einreichungsweg.
 
 ### 16.8. Vereinfachtes Verfahren bis 1.000 EUR (Paragraf 495a ZPO)

@@ -34,7 +34,7 @@ Ohne verwertbares Material genau eine gebündelte Frage zu Tatkarte, Vorwerfbark
 | --- | --- |
 | Normenanker | OWiG Paragraf 1, Paragraf 10 und Paragraf 12; OWiG Paragraf 17; OWiG Paragraf 30 und Paragraf 130 |
 | Rechtsprechung | BVerfG, Beschluss vom 12.11.2020 - 2 BvR 1616/18 |
-| Tatbestand | Spezialnorm, Tattag, Tatort, Handlung oder Unterlassen, Betroffener, Vertreter, Unternehmen und Nebenbeteiligte |
+| Tatbestand | Spezialnorm, Tattag, Tatort, Handlung oder Unterlassen, Betroffener, Vertreter, Unternehmen und Nebenbeteiligte bestimmen |
 | Beweislast | Nachweisachse Beweiszugang: Akte, Messreihe, Rohdaten, Bedienungsanleitung, Schulung, Urkunde, Zeuge, Einlassung und entlastende Fremddaten gezielt anfordern |
 | Rechtsfolge | Akteneinsicht, Einlassungsvermerk, Einspruch, Entbindungsantrag, Beweisantrag, Einstellungsanregung oder Rechtsbeschwerdebaustein erstellen |
 | Quellenstatus | Aktenfund, Normtext, Profilanker oder sicher belegte Entscheidung offen kennzeichnen; unsichere Aktenzeichen nicht ergänzen |
@@ -43,12 +43,12 @@ Ohne verwertbares Material genau eine gebündelte Frage zu Tatkarte, Vorwerfbark
 
 | Feld | Sofortgriff | Ausgabe |
 | --- | --- | --- |
-| Tatkarte | Spezialnorm, Tattag, Tatort, Handlung oder Unterlassen, Betroffener, Vertreter, Unternehmen und Nebenbeteiligte. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Vorwerfbarkeit | Objektives Merkmal, Wissensstand, Vorsatz, Fahrlässigkeit, Verbotsirrtum, Zumutbarkeit und individuelle. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Verfahrenschronologie | Kenntnis, Anhörung, Ermittlungsmaßnahme, Unterbrechung, Bescheiderlass, Zustellung, Einspruch und gerichtliche. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Beweiszugang | Akte, Messreihe, Rohdaten, Bedienungsanleitung, Schulung, Urkunde, Zeuge, Einlassung und entlastende Fremddaten. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Sanktionsseite | Regelsatz, Abweichung, wirtschaftliche Verhältnisse, Vorteil, Einziehung, Nebenfolge, Verband und Gesamtbelastung. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Arbeitsprodukt | Akteneinsicht, Einlassungsvermerk, Einspruch, Entbindungsantrag, Beweisantrag, Einstellungsanregung. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Tatkarte | Spezialnorm, Tattag, Tatort, Handlung oder Unterlassen, Betroffener, Vertreter, Unternehmen und Nebenbeteiligte bestimmen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Vorwerfbarkeit | Objektives Merkmal, Wissensstand, Vorsatz, Fahrlässigkeit, Verbotsirrtum, Zumutbarkeit und individuelle Verantwortungszuweisung prüfen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Verfahrenschronologie | Kenntnis, Anhörung, Ermittlungsmaßnahme, Unterbrechung, Bescheiderlass, Zustellung, Einspruch und gerichtliche Vorlage erfassen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Beweiszugang | Akte, Messreihe, Rohdaten, Bedienungsanleitung, Schulung, Urkunde, Zeuge, Einlassung und entlastende Fremddaten gezielt anfordern. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Sanktionsseite | Regelsatz, Abweichung, wirtschaftliche Verhältnisse, Vorteil, Einziehung, Nebenfolge, Verband und Gesamtbelastung berechnen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Arbeitsprodukt | Akteneinsicht, Einlassungsvermerk, Einspruch, Entbindungsantrag, Beweisantrag, Einstellungsanregung oder Rechtsbeschwerdebaustein erstellen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
 
 ## 6. Anker
 

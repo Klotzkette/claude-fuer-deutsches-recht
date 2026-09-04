@@ -92,17 +92,17 @@ Arbeitsgriff Anfechtung und Plan: Rechtshandlung, Kenntnis, Gläubigerbenachteil
 | InsO Paragraf 129 bis Paragraf 147 | Insolvenzanfechtung | Verwalter oder Anspruchsteller für Insolvenzreife, Benachteiligung und Kenntnis; Geschäftsleitung für Entlastung und Dokumentation | Antrag, Haftungsabwehr, Forderungsanmeldung, Anfechtung, Rangklärung oder Sanierungsschritt |
 | InsO Paragraf 174 | Forderungsanmeldung | Verwalter oder Anspruchsteller für Insolvenzreife, Benachteiligung und Kenntnis; Geschäftsleitung für Entlastung und Dokumentation | Antrag, Haftungsabwehr, Forderungsanmeldung, Anfechtung, Rangklärung oder Sanierungsschritt |
 | StaRUG Paragraf 1 | Krisenfrüherkennungspflichten | Verwalter oder Anspruchsteller für Insolvenzreife, Benachteiligung und Kenntnis; Geschäftsleitung für Entlastung und Dokumentation | Antrag, Haftungsabwehr, Forderungsanmeldung, Anfechtung, Rangklärung oder Sanierungsschritt |
-| BGB Paragrafen 765 ff., 138; InsO Forderungsprüfung | BGB Paragrafen 765 ff., 138; InsO Forderungsprüfung | Verwalter oder Anspruchsteller für Insolvenzreife, Benachteiligung und Kenntnis; Geschäftsleitung für Entlastung und Dokumentation | Antrag, Haftungsabwehr, Forderungsanmeldung, Anfechtung, Rangklärung oder Sanierungsschritt |
+| InsO Paragrafen 35, 36, 203, 286, 287, 290, 295, 300, 301, 302, 304, 305 | InsO Paragrafen 35, 36, 203, 286, 287, 290, 295, 300, 301, 302, 304, 305 | Verwalter oder Anspruchsteller für Insolvenzreife, Benachteiligung und Kenntnis; Geschäftsleitung für Entlastung und Dokumentation | Antrag, Haftungsabwehr, Forderungsanmeldung, Anfechtung, Rangklärung oder Sanierungsschritt |
 
 ## 6. Rechtsprechungsanker, Quellenstatus und Rechtsfolgen
 
 | Rechtsprechungsanker | Quellenstatus | Nutzwert im Fall |
 | --- | --- | --- |
+| BGH, Urteil vom 23.01.2025 - IX ZR 229/22 | Profilanker; vor Zitierung am Aktenstand oder an belastbarer Quelle sichern | Streitige nicht titulierte Verbindlichkeiten richten sich nach der objektiven Rechtslage. Ein vorläufig vollstreckbarer Titel ist zum Nennwert zu berücksichtigen, wenn Vollstreckungsvoraussetzungen vorliegen und der Gläubiger die Vollstreckung eingeleitet hat; kein Abschlag nach Prozessrisiko |
 | BGH, Urteil vom 24.05.2005 - IX ZR 123/04 | Profilanker; vor Zitierung am Aktenstand oder an belastbarer Quelle sichern | Eine Liquiditätslücke von zehn Prozent oder mehr spricht regelmäßig für Zahlungsunfähigkeit; eine bloße Zahlungsstockung setzt eine nahezu vollständige Schließung binnen drei Wochen voraus |
 | BGH, Urteil vom 19.12.2017 - II ZR 88/16 | Profilanker; vor Zitierung am Aktenstand oder an belastbarer Quelle sichern | In den Liquiditätsstatus gehören auch die binnen drei Wochen fällig werdenden und eingeforderten Verbindlichkeiten; ein Geschäftsführer darf buchhalterisch ausgewiesene Passiva nicht pauschal bestreiten |
 | BGH, Urteil vom 06.05.2021 - IX ZR 72/20 | Profilanker; vor Zitierung am Aktenstand oder an belastbarer Quelle sichern | Erkannte Zahlungsunfähigkeit allein beweist den Benachteiligungsvorsatz nicht; erforderlich ist die Kenntnis oder Billigung, die übrigen Gläubiger auch künftig nicht vollständig befriedigen zu können |
 | BGH, Urteil vom 10.02.2022 - IX ZR 148/19 | Profilanker; vor Zitierung am Aktenstand oder an belastbarer Quelle sichern | Dauerhaft schleppendes Zahlen belegt keine spätere Zahlungseinstellung, wenn dieses Verhalten schon in einer unstreitig zahlungsfähigen Zeit bestand; die Fortdauervermutung verlangt belastbaren Vortrag |
-| BGH, Urteil vom 12.02.2015 - IX ZR 180/12 | Profilanker; vor Zitierung am Aktenstand oder an belastbarer Quelle sichern | Ein unmittelbarer, gleichwertiger und für die Fortführung nützlicher Leistungsaustausch kann das Vorsatzindiz schwächen; erweiterter Eigentumsvorbehalt oder erkannte verlustreiche Fortführung sprechen dagegen |
 - Rechtsfolge zuerst als Arbeitsprodukt denken: Antrag, Haftungsabwehr, Forderungsanmeldung, Anfechtung, Rangklärung oder Sanierungsschritt
 - Quellenstatus immer sichtbar machen: Aktenfund, Normtext, Profilanker, gesicherte Rechtsprechung oder offene Prüfung.
 
@@ -114,25 +114,18 @@ Arbeitsgriff Anfechtung und Plan: Rechtshandlung, Kenntnis, Gläubigerbenachteil
 - InsO Paragraf 129 bis Paragraf 147: Insolvenzanfechtung.
 - InsO Paragraf 174: Forderungsanmeldung.
 - StaRUG Paragraf 1: Krisenfrüherkennungspflichten.
-- BGB Paragrafen 765 ff., 138; InsO Forderungsprüfung; im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
-- InsO Paragrafen 300, 301; Datenschutz-Grundverordnung; Verbraucherrecht; im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
-- Datenschutz-Grundverordnung Art. 5, 6, 9; Berufsgeheimnis je nach Beratung; im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
-- InsO Paragraf 302; InsO Paragraf 174 Abs. 2; BGB Paragraf 823; im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
-- InsO Paragraf 305; ZPO-Fristen analog über InsO Paragraf 4; im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
-- InsO Paragraf 304; AO Paragrafen 69, 34; Paragraf 266a StGB; Paragraf 15a InsO; im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
-- InsO Paragrafen 47, 49 ff.; BGB Sicherheiten; im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
-- InsO Paragraf 305 Abs. 1 Nr. 3; InsO Paragrafen 174, 175; im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
+- InsO Paragrafen 35, 36, 203, 286, 287, 290, 295, 300, 301, 302, 304, 305; im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
+- ZPO Paragrafen 850 ff., 850k, 882c, 882e, 882f; im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
+- Datenschutz-Grundverordnung Art. 5 Abs. 1 lit; im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
+- BDSG Paragraf 31 nur als nationalen Scoring-/Auskunftei-Anker prüfen; Vorrang und Vollharmonisierung der Datenschutz-Grundverordnung beachten; im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
 
 ## 8. Leitentscheidungen
 
+- BGH, Urteil vom 23.01.2025 - IX ZR 229/22: Streitige nicht titulierte Verbindlichkeiten richten sich nach der objektiven Rechtslage. Ein vorläufig vollstreckbarer Titel ist zum Nennwert zu berücksichtigen, wenn Vollstreckungsvoraussetzungen vorliegen und der Gläubiger die Vollstreckung eingeleitet hat; kein Abschlag nach Prozessrisiko.
 - BGH, Urteil vom 24.05.2005 - IX ZR 123/04: Eine Liquiditätslücke von zehn Prozent oder mehr spricht regelmäßig für Zahlungsunfähigkeit; eine bloße Zahlungsstockung setzt eine nahezu vollständige Schließung binnen drei Wochen voraus.
 - BGH, Urteil vom 19.12.2017 - II ZR 88/16: In den Liquiditätsstatus gehören auch die binnen drei Wochen fällig werdenden und eingeforderten Verbindlichkeiten; ein Geschäftsführer darf buchhalterisch ausgewiesene Passiva nicht pauschal bestreiten.
 - BGH, Urteil vom 06.05.2021 - IX ZR 72/20: Erkannte Zahlungsunfähigkeit allein beweist den Benachteiligungsvorsatz nicht; erforderlich ist die Kenntnis oder Billigung, die übrigen Gläubiger auch künftig nicht vollständig befriedigen zu können.
 - BGH, Urteil vom 10.02.2022 - IX ZR 148/19: Dauerhaft schleppendes Zahlen belegt keine spätere Zahlungseinstellung, wenn dieses Verhalten schon in einer unstreitig zahlungsfähigen Zeit bestand; die Fortdauervermutung verlangt belastbaren Vortrag.
-- BGH, Urteil vom 12.02.2015 - IX ZR 180/12: Ein unmittelbarer, gleichwertiger und für die Fortführung nützlicher Leistungsaustausch kann das Vorsatzindiz schwächen; erweiterter Eigentumsvorbehalt oder erkannte verlustreiche Fortführung sprechen dagegen.
-- BGH, Beschluss vom 26.09.2024 - IX ZB 5/24: Restschuldbefreiung sperrt eine Nachtragsverteilung nicht, wenn der Gegenstand zur Insolvenzmasse gehört.
-- EuGH, Urteil vom 07.12.2023 - C-26/22 und C-64/22, SCHUFA Holding (Restschuldbefreiung): Auskunfteien dürfen Daten aus öffentlichen Insolvenzregistern nicht länger speichern als das öffentliche Register, wenn dadurch die Registerlöschung praktisch unterlaufen.
-- BGH, Urteil vom 18.12.2025 - I ZR 97/25: Bei von Vertragspartnern gemeldeten Zahlungsstörungen folgt die längstmögliche Speicherdauer nicht automatisch aus der Löschfrist anderer Register; Art. 6 Abs. 1 lit. f Datenschutz-Grundverordnung verlangt eine konkrete Interessenabwägung.
 
 ## 9. Prüfraster
 
@@ -154,7 +147,7 @@ Arbeitsgriff Anfechtung und Plan: Rechtshandlung, Kenntnis, Gläubigerbenachteil
 10.6. Gegenposition: Formuliere den stärksten ernsthaften Angriff; hier setzt die Gegenseite typischerweise bei dem Zeitpunkt der Insolvenzreife, der Kenntnis und der Bargeschäftsausnahme an.
 10.7. Erwiderung: Antworte mit konkretem Gegenbeleg, Auslegung oder Beweislastregel und ziehe die Folge auf Antrag, Haftungsabwehr, Forderungsanmeldung, Anfechtung, Rangklärung oder Sanierungsschritt; ein bloßes Bestreiten genügt nicht.
 10.8. Arbeitsprodukt: Schließe mit Antrag, Tenor, Klausel, Entscheidung oder nächstem Schritt; hier typischerweise Ausgabe entlang der Kernfelder Schuldnerstatus und Verfahrenszugang, Gläubiger- und Forderungsverzeichnis, Vermögen, Einkommen und Pfändbarkeit, Außergerichtlicher Einigungsversuch: Kurzvermerk, Prüfmatrix, Entwurf, Fristenblatt oder Fragenliste mit nächstem Schritt.
-10.9. Quellenstatus: Ordne Rechtsprechung nach Tragweite ein; erste Fallanker sind BGH, Urteil vom 24.05.2005 - IX ZR 123/04; BGH, Urteil vom 19.12.2017 - II ZR 88/16.
+10.9. Quellenstatus: Ordne Rechtsprechung nach Tragweite ein; erste Fallanker sind BGH, Urteil vom 23.01.2025 - IX ZR 229/22; BGH, Urteil vom 24.05.2005 - IX ZR 123/04.
 
 ## 11. Outputvarianten und Empfängerwunsch
 

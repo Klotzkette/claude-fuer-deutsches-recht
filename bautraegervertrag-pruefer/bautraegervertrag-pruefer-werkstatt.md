@@ -172,7 +172,6 @@ Diese Routen stammen aus den konkreten Arbeitsthemen dieses Plugins. Wähle die 
 
 Bearbeitungsauftrag: Bearbeite Verbraucherbauvertrag, Bauträgervertrag, Widerruf und Unterlagen: vertragssoll, Nachtrag, Behinderung, Abnahme, Mangel, Kostenfolge, Beweis und Gutachterfrage in eine Bauakte bringen. Lege Regelungsziel und tatsächlichen Ablauf offen, prüfe Definitionen, Haupt- und Nebenpflichten, Bedingungen, Laufzeit, Beendigung, Haftung, Form, zwingendes Recht und Vollzug und liefere Klausel, Rückfallposition und Abschlusskontrolle.
 Prüfschritte: Dieser Arbeitsgang verhindert falsche Widerrufs- und Verbraucherbauvertragsberatung; er übernimmt einige, aber nicht alle Verbraucherbauvertragsregeln; Paragraf 650i BGB: Bau eines neuen Gebäudes oder erheblicher Umbau durch Unternehmer für Verbraucher; Paragraf 650u BGB: Bau-/Umbaupflicht plus Eigentumsübertragung oder Erbbaurecht; Paragraf 650l BGB-Widerruf ist beim beurkundeten Bauträgervertrag über Paragraf 650u Absatz 2 BGB ausgeschlossen.
-Norm- oder Entscheidungsbezug aus dem Fachmaterial: Dieser Arbeitsgang verhindert falsche Widerrufs- und Verbraucherbauvertragsberatung; er übernimmt einige, aber nicht alle Verbraucherbauvertragsregeln; Paragraf 650i BGB: Bau eines neuen Gebäudes oder erheblicher Umbau durch Unternehmer für Verbraucher.
 Lieferstück: verhandlungsfähige Fassung mit Ausgangstext, Änderung, Begründung, Rückfallposition und Vollzugscheck.
 
 ### 13.2. KfW/GEG, Förderung und Unterlagenpflicht Paragraf 650n BGB
@@ -233,7 +232,7 @@ Lieferstück: verhandlungsfähige Fassung mit Ausgangstext, Änderung, Begründu
 
 Bearbeitungsauftrag: Bearbeite Quellenhygiene, Rechtsprechungsanker und Bug-Hunt: vertragssoll, Nachtrag, Behinderung, Abnahme, Mangel, Kostenfolge, Beweis und Gutachterfrage in eine Bauakte bringen. Verbinde den konkreten Aktenfund mit Tatbestandsmerkmal, Gegenposition, Beweislast, Rechtsfolge und dem nächsten vollständig ausformulierten Arbeitsprodukt.
 Prüfschritte: DIN-Norm nicht als anerkannte Regel der Technik behandeln; Vollständige Fertigstellung nicht mit Bezugsfertigkeit oder bloßer Abnahmereife verwechseln; Paragraf 650l BGB-Widerruf nicht für beurkundete Bauträgerverträge annehmen; Paragraf 650m Absatz 1 BGB nicht als Bauträger-Hauptregel nutzen; Baugruppen-GbR nicht mit MaBV-Ratenplan prüfen.
-Norm- oder Entscheidungsbezug aus dem Fachmaterial: DIN-Norm nicht als anerkannte Regel der Technik behandeln; Vollständige Fertigstellung nicht mit Bezugsfertigkeit oder bloßer Abnahmereife verwechseln; Paragraf 650l BGB-Widerruf nicht für beurkundete Bauträgerverträge annehmen; DIN-Norm nicht als anerkannte Regel der Technik behandeln.
+Normbezug aus dem Fachmaterial: DIN-Norm nicht als anerkannte Regel der Technik behandeln; Vollständige Fertigstellung nicht mit Bezugsfertigkeit oder bloßer Abnahmereife verwechseln; Paragraf 650l BGB-Widerruf nicht für beurkundete Bauträgerverträge annehmen.
 Lieferstück: quellenkritische Darstellung mit Textzeuge, Fassung, Übersetzung, zeitgenössischer Funktion und heutiger Anschlussfrage.
 
 ### 13.12. Verhandlung und Drei-Dokumente-Paket

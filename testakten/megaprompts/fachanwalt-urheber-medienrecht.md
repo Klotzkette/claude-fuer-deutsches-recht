@@ -13,9 +13,9 @@ Diese Vollprüfung enthält top-10 von 78 Skills des Plugins `fachanwalt-urheber
 5. **fachanwalt-urheber-medienrecht-orientierung** — Für Fachanwalt für Urheber- und Medienrecht — Orientierung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfpro…
 6. **erstgespraech-mandatsannahme** — Für Erstgespräch im Urheber- und Medienrechtsmandat strukturieren und Mandat sauber aufnehmen: ordnet Norm, Beweislast u…
 7. **erstpruefung-und-mandatsziel** — Für Fachanwalt: Erstprüfung, Rollenklärung und Mandatsziel: routet Rolle, Frist, Unterlagen und Fachschritt; Ergebnis: T…
-8. **kanzlei-formular-portal-und-einreichung** — Für Kanzlei: Formular, Portal und Einreichungslogik: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Einreichungspl…
-9. **eigenen-risikoampel-und-gegenargumente** — Für Eigenen: Risikoampel, Gegenargumente und Verteidigungslinien: prüft Ergebnis, Beweislast und Gegenposition; Ergebnis…
-10. **urheber-abmahnung-pruefen** — Für Urheberrechtsabmahnung auf Berechtigung Formwirksamkeit und Reaktionsstrategie prüfen: ordnet Norm, Beweislast und G…
+8. **tdm-44b-urhg-ki-training-opt-out** — Plant und dokumentiert einen maschinenlesbaren Rechtevorbehalt gegen Text und Data Mining nach Paragraf 44b UrhG. Prüft …
+9. **fachanwalt-urheber-medienrecht-tdm-44b-urhg-ki-training-opt-out** — Prüft Ansprüche wegen Text und Data Mining für Modelltraining. Trennt Rechtekette, konkrete Vervielfältigung, Rechtevorb…
+10. **kanzlei-formular-portal-und-einreichung** — Für Kanzlei: Formular, Portal und Einreichungslogik: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Einreichungspl…
 
 ---
 
@@ -607,6 +607,157 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 
 ---
 
+## Skill: `tdm-44b-urhg-ki-training-opt-out`
+
+_Plant und dokumentiert einen maschinenlesbaren Rechtevorbehalt gegen Text und Data Mining nach Paragraf 44b UrhG. Prüft Schutzgegenstand, Rechtekette, rechtmäßigen Zugang, Forschungsschranke und Datenbankrecht und liefert Vorbehaltstext, Umsetzungsplan und zeitlich nachvollziehbare Belegakte._
+
+# Rechtevorbehalt gegen Text und Data Mining
+
+## 1. Zweck und Direktstart
+
+Erstelle aus den vorgelegten Webseitenfassungen, Rechteverträgen und technischen Protokollen eine konkrete Vorbehalts- und Belegakte. Lies diese Unterlagen zuerst. Frage nur nach, wenn Rechtsinhaberschaft, betroffener Bestand, Veröffentlichungsweg oder maßgeblicher Zeitpunkt offen sind.
+
+Trenne die Gestaltung eines künftigen Vorbehalts von Ansprüchen wegen vergangener Handlungen. Ein heute veröffentlichter Vorbehalt beweist nicht, dass frühere Vervielfältigungen unzulässig waren.
+
+## 2. Eingaben und Tatsachenkarte
+
+| Eingabe | Auswertung | Bedeutung |
+| --- | --- | --- |
+| Originaldatei und Veröffentlichungsnachweis | Urheber, Werkart, Fassung, Erstveröffentlichung | Schutzgegenstand und Identität |
+| Rechtevertrag | ausschließliche Rechte, Gebiet, Zeitraum, Nutzungsarten | Berechtigung zur Erklärung und Anspruchsdurchsetzung |
+| URL, Zugangsdaten und Nutzungsbedingungen | öffentlicher oder beschränkter Zugang, Vertragslage | rechtmäßiger Zugang |
+| Vorbehalt und technische Fassung | Inhalt, Reichweite, Abrufbarkeit, Zeitstempel | Maschinenlesbarkeit und zeitliche Zuordnung |
+| Serverprotokoll oder Datensatznachweis | Akteur, Zeitpunkt, Datei, konkrete Handlung | Nutzungsspur, getrennt von technischen Vermutungen |
+| Angaben zur Forschungseinrichtung | Zweck, Organisation, Finanzierung, Unternehmenseinfluss | eigenständige Prüfung von Paragraf 60d UrhG |
+
+## 3. Ablauf
+
+### 3.1. Schutz und Rechtekette
+
+Unterscheide Werk nach Paragraf 2 UrhG, Lichtbild nach Paragraf 72 UrhG, Datenbankwerk und Datenbankherstellerrecht nach Paragrafen 87a ff. UrhG. Eine Webseite oder Sammlung ist nicht schon wegen ihrer Existenz in jedem Bestandteil geschützt. Ordne jedem Inhalt den berechtigten Urheber oder Nutzungsrechtsinhaber zu.
+
+### 3.2. Nutzungshandlung
+
+Trenne Abruf, Vervielfältigung, Aufbereitung, Analyse, Datensatzbildung, Weitergabe, Modelltraining und spätere Ausgabe. Prüfe für jede Handlung Akteur, Ort, Zeitpunkt, Schutzrecht und Erlaubnis. Die bloße Ähnlichkeit einer Ausgabe belegt nicht automatisch die behauptete Nutzungskette.
+
+### 3.3. Allgemeine Schranke
+
+[Paragraf 44b UrhG](https://www.gesetze-im-internet.de/urhg/__44b.html) verlangt eine automatisierte Analyse zur Informationsgewinnung und rechtmäßig zugängliche Werke. Nicht mehr benötigte Vervielfältigungen sind zu löschen. Bei online zugänglichen Werken ist der Rechtevorbehalt nach Absatz 3 nur wirksam, wenn er maschinenlesbar erfolgt.
+
+Ein fehlender Vorbehalt beantwortet nicht, ob überhaupt eine von Paragraf 44b erfasste Handlung, rechtmäßiger Zugang oder eine andere Verletzung vorliegt. Umgekehrt begründet ein wirksamer Vorbehalt allein noch keinen Schadensersatzanspruch.
+
+### 3.4. Technische Umsetzung
+
+Bestimme den Vorbehalt für den tatsächlichen Veröffentlichungsweg: Webseite, Dateimetadaten, Auslieferungsschnittstelle oder Datenbestand. Prüfe Werkbezug, berechtigten Erklärenden, eindeutige Reichweite, maschinelle Abrufbarkeit und widerspruchsfreie Fassungen. Keine einzelne technische Konvention wird pauschal als immer ausreichend behandelt.
+
+Liefere eine Klartexterklärung und eine für das tatsächlich eingesetzte System geeignete technische Fassung. Teste die Abrufbarkeit an einer konkreten Inhaltsadresse. Sichere Quelltext, Antwortheader, Datei, technische Steuerdatei, Versionsstand und Zeitstempel. Eine für Menschen lesbare Erläuterung ersetzt die erforderliche Maschinenlesbarkeit nicht.
+
+### 3.5. Forschung und Datenbankrecht
+
+[Paragraf 60d UrhG](https://www.gesetze-im-internet.de/urhg/__60d.html) ist eigenständig zu prüfen: Forschungszweck, berechtigte Organisation, nicht kommerzielle Zwecke beziehungsweise Reinvestition oder öffentlicher Auftrag sowie ausschließender Einfluss und bevorzugter Zugang eines privaten Unternehmens. Eine spätere kommerzielle Verwendung beantwortet diese Voraussetzungen nicht allein.
+
+Bei Datenbanken verweist [Paragraf 87c Absatz 1 Nummer 4 UrhG](https://www.gesetze-im-internet.de/urhg/__87c.html) auf Paragraf 44b; Nummer 5 betrifft die Forschung nach Paragraf 60d. Nummer 3 betrifft Unterricht und Lehre.
+
+## 4. Rechtsprechung und Quellenstatus
+
+LG Hamburg, Urteil vom 27. September 2024, 310 O 227/23: Der konkrete Download einer Fotografie zur Erstellung eines Bild-Text-Datensatzes wurde im Forschungszusammenhang geprüft. Die Entscheidung erlaubt keine pauschale Aussage zur Zulässigkeit sämtlicher Trainingsstufen. Der amtliche Einstieg ist die [Mitteilung des Gerichts](https://justiz.hamburg.de/gerichte/oberlandesgericht/gerichtspressestelle/ki-und-urheberrecht-landgericht-hamburg-weist-klage-ab-1157660).
+
+OLG Hamburg, Urteil vom 10. Dezember 2025, 5 U 104/24: Nach der [amtlichen Mitteilung](https://justiz.hamburg.de/gerichte/oberlandesgericht/gerichtspressestelle/ki-und-urheberrecht-hanseatisches-oberlandesgericht-weist-berufung-zurueck-1126528) trugen sowohl Paragraf 44b wegen fehlender Maschinenlesbarkeit des damaligen Vorbehalts als auch Paragraf 60d die Zurückweisung. Die Revision wurde zugelassen. Maßgeblich sind die konkrete technische Fassung und die Organisationsverhältnisse, nicht eine allgemeine Freigabe des Modelltrainings.
+
+Pressemitteilungen sind als solche zu kennzeichnen. Vor Verwendung im Schriftsatz den Volltext und aktuellen Verfahrensstand prüfen. Nur die tatsächlich tragende Aussage mit genauer Fundstelle übernehmen; Tatsachenabweichungen des Mandats ausdrücklich verarbeiten. Zitierweise nach `references/zitierweise.md`.
+
+## 5. Ausgabeformat
+
+Liefere einen individualisierten Vorbehaltstext, einen Umsetzungsplan mit Verantwortlichem und Termin sowie eine Belegtabelle: Inhalt, Rechteinhaber, technische Fassung, Fundort, Geltungsbeginn, Nachweis und offene Frage. Der Vorbehalt enthält einen Lizenzkontakt und grenzt erfasste Inhalte und Nutzungen verständlich ab.
+
+Endtexte sind vollständig ausformuliert. Formatierte Dokumente verwenden, soweit technisch möglich, Times New Roman 11 pt und dezimale Gliederung. Offene Angaben werden sichtbar bezeichnet; keine leeren Klauselskelette ausgeben.
+
+## 6. Varianten und Schlusskontrolle
+
+Bei einem Fotografen mit eigenem Portfolio steht der werkbezogene Vorbehalt samt Metadaten im Vordergrund. Bei einem Verlag sind Rechtekette und Auslieferungswege je Bestand zu unterscheiden. Bei einer Forschungseinrichtung ist zunächst Paragraf 60d zu prüfen. Bei einer bereits belegten Verletzung folgt die gesonderte Anspruchsprüfung nach Paragrafen 97 ff. UrhG.
+
+Kontrolliere zuletzt: Werkidentität, Berechtigung, richtige Nutzungshandlung, maßgeblicher Zeitpunkt, maschinenlesbare Fassung, eigenständige Forschungsschranke, richtige Datenbanknorm und nachgewiesene statt nur vermutete Nutzung.
+
+---
+
+## Skill: `fachanwalt-urheber-medienrecht-tdm-44b-urhg-ki-training-opt-out`
+
+_Prüft Ansprüche wegen Text und Data Mining für Modelltraining. Trennt Rechtekette, konkrete Vervielfältigung, Rechtevorbehalt, Forschungsschranke und spätere Nutzung, entwickelt eine Beweisstrategie und erstellt Abmahnung, bestimmte Klageanträge, Erwiderung oder Lizenzvorschlag._
+
+# Anspruchsdurchsetzung bei Text und Data Mining
+
+## 1. Zweck und Direktstart
+
+Lies die Akte und beginne mit einer Anspruchs- und Beweismatrix. Frage nur nach, wenn Anspruchsgegner, Rechteinhaberschaft, konkrete Nutzungshandlung oder Eilbedürftigkeit nicht bestimmbar sind. Erstelle anschließend das gewünschte Arbeitsprodukt: Erstbewertung, Abmahnung, Klage, Erwiderung, Eilantrag oder Lizenzvorschlag.
+
+## 2. Eingaben
+
+Benötigt werden Originalwerk, Rechtekette, behauptete Nutzungsnachweise, Veröffentlichungs- und Vorbehaltsfassungen, technische Protokolle, Korrespondenz und Angaben zum Anspruchsgegner. Stelle vorhandene Tatsachen, Fremdauskünfte und technische Schlussfolgerungen getrennt dar.
+
+## 3. Anspruchsprüfung
+
+### 3.1. Aktivlegitimation und Handlung
+
+Prüfe Urheberschaft, ausschließliche Nutzungsrechte, Rechtegebiet, Laufzeit und Prozessführungsbefugnis für jeden Schutzgegenstand. Unterscheide Werk, Lichtbild, Datenbankwerk und Datenbankherstellerrecht.
+
+Zerlege den Ablauf in Abruf, Vervielfältigung, Aufbereitung, Analyse, Datensatzbildung, Vorhalten, Weitergabe, Training und Ausgabe. Ordne jeder Handlung einen Akteur, Zeitpunkt, Ort, Beleg und Erlaubnistatbestand zu. Ein allgemeiner Vorwurf zum Modelltraining ersetzt keinen konkreten Verletzungsvortrag.
+
+### 3.2. Schranken
+
+| Station | Norm | Tatsachenfrage |
+| --- | --- | --- |
+| Allgemeines Text und Data Mining | Paragraf 44b Absätze 1 und 2 UrhG | automatisierte Analyse, rechtmäßiger Zugang, erforderliche Kopie und Löschung |
+| Rechtevorbehalt | Paragraf 44b Absatz 3 UrhG | Berechtigung, Werkbezug, Zeitpunkt und Maschinenlesbarkeit bei Onlinewerken |
+| Wissenschaftliche Forschung | Paragraf 60d UrhG | Forschungszweck, privilegierte Organisation, Unternehmenseinfluss und bevorzugter Zugang |
+| Datenbankherstellerrecht | Paragrafen 87a bis 87c UrhG | wesentlicher Teil oder wiederholte systematische Entnahme; Nummer 4 für Paragraf 44b, Nummer 5 für Paragraf 60d |
+| Unionsrechtlicher Rahmen | Artikel 4 Richtlinie EU 2019/790 | unionsrechtskonforme Auslegung des Vorbehalts und der allgemeinen Schranke |
+
+Ein fehlender Vorbehalt entscheidet nur über einen Teil der Prüfung. Ein wirksamer Vorbehalt beseitigt die Erlaubnis nach Paragraf 44b Absatz 2, belegt aber weder die Verletzungshandlung noch Verschulden und Schaden. Paragraf 60d ist eigenständig zu prüfen.
+
+### 3.3. Beweis und Darlegung
+
+Der Anspruchsteller muss Schutzgegenstand, Rechteinhaberschaft und konkrete Verletzung substantiiert darlegen. Der auf eine Schranke gestützte Einwand ist anhand ihrer Voraussetzungen zu prüfen. Bestimme die Darlegungs- und Beweislast für jedes streitige Merkmal; begründe jede behauptete sekundäre Darlegungslast gesondert.
+
+Erstelle eine Tabelle mit Behauptung, Konkretisierung, Beleg, Gegenposition, Beweismittel und verbleibendem Risiko. Eine Systemausgabe oder allgemeine Datensatzbeschreibung begründet keine automatische Beweisvermutung für jede behauptete Trainingshandlung.
+
+### 3.4. Rechtsfolgen
+
+[Paragraf 97 Absatz 1 UrhG](https://www.gesetze-im-internet.de/urhg/__97.html): Prüfe Wiederholungs- oder Erstbegehungsgefahr. Begrenze den Unterlassungsantrag auf die bestimmte Verletzungsform. Werk, Nutzung und Reichweite müssen vollstreckbar bezeichnet sein.
+
+Paragraf 97 Absatz 2 UrhG: Prüfe Verschulden und wähle konkrete Schadensberechnung, Verletzergewinn oder Lizenzanalogie anhand der Tatsachen. Ein Lizenzwert ist zu begründen; keine pauschalen Beträge oder Multiplikatoren erfinden.
+
+[Paragraf 101 UrhG](https://www.gesetze-im-internet.de/urhg/__101.html): Prüfe Verletzungslage, Anspruchsgegner, Gewerbsmäßigkeit, konkrete Information und Verhältnismäßigkeit. Die Norm ist kein allgemeiner Anspruch auf Offenlegung sämtlicher Trainingsdaten. Auskunft über Herkunft und Vertriebswege, Rechnungslegung und prozessuale Vorlage sind nach ihrer jeweiligen Grundlage zu unterscheiden.
+
+Paragraf 98 UrhG: Vernichtung und Rückruf an den konkreten Gegenstand und die Verhältnismäßigkeit binden. Paragraf 102 UrhG: Verjährung mit Entstehung, Kenntnis, Höchstfrist und Hemmung nach dem BGB berechnen.
+
+### 3.5. Abmahnung und Prozess
+
+Eine Abmahnung nach Paragraf 97a UrhG benennt Werk, Rechtekette, Handlung, Beleg und Forderung. Unterlassung, Auskunft, Beseitigung, Kosten und Schadensersatz werden getrennt begründet. Die Frist folgt Dringlichkeit und zumutbarer Reaktionsmöglichkeit.
+
+Im Eilverfahren Verfügungsanspruch, Verfügungsgrund, Bestimmtheit, Glaubhaftmachung und konkrete Dringlichkeitspraxis prüfen. In der Hauptsache jeden Antrag mit seinem Tatsachenblock und den Anlagen verbinden. Sachverständigenfragen betreffen technische Tatsachen; die Rechtsanwendung bleibt beim Gericht.
+
+## 4. Rechtsprechung und Quellenpflicht
+
+LG Hamburg, Urteil vom 27. September 2024, 310 O 227/23, betrifft den Download einer Fotografie für einen Bild-Text-Datensatz im konkreten Forschungszusammenhang. Nutze die Entscheidung für Paragraf 60d und die dort erörterte Vorbehaltslage, ohne sie auf sämtliche Modellnutzungen auszudehnen. Die [amtliche Pressemitteilung](https://justiz.hamburg.de/gerichte/oberlandesgericht/gerichtspressestelle/ki-und-urheberrecht-landgericht-hamburg-weist-klage-ab-1157660) ist ein Rechercheeinstieg, kein Volltextzitat.
+
+OLG Hamburg, Urteil vom 10. Dezember 2025, 5 U 104/24: Die [amtliche Mitteilung](https://justiz.hamburg.de/gerichte/oberlandesgericht/gerichtspressestelle/ki-und-urheberrecht-hanseatisches-oberlandesgericht-weist-berufung-zurueck-1126528) nennt zusätzlich Paragraf 44b als tragende Grundlage, weil der konkrete Vorbehalt nicht maschinenlesbar war, und bestätigt die Forschungsschranke. Revision zugelassen. Beide Begründungswege sind bei einer Abgrenzung zu behandeln.
+
+Vor dem Schriftsatz dem amtlichen Volltext und aktuellen Folgeentscheidungen nachgehen. Erfasse genaue Fundstelle, tragenden Satz, Sachverhaltsabweichung und Verfahrensstand. Ausländische Fair-Use-Entscheidungen ersetzen die deutsche und unionsrechtliche Schrankenprüfung nicht. Zitierweise nach `references/zitierweise.md`.
+
+## 5. Ausgabeformat
+
+Liefere eine begründete Chancen-Risiken-Entscheidung, Anspruchs- und Beweismatrix und den konkret beauftragten Entwurf. Endprodukte bestehen aus vollständigen Sätzen; keine bloßen Klauselskelette oder Stichwortausgaben. Formatierte Dokumente verwenden, soweit technisch möglich, Times New Roman 11 pt und dezimale Gliederung.
+
+Die stärkste Gegenposition wird ausdrücklich verarbeitet: fehlende Rechte, nicht nachgewiesene Handlung, rechtmäßiger Zugang, verspäteter Vorbehalt, Forschungsschranke, unerhebliche Datenbankentnahme, fehlendes Verschulden, unbelegter Schaden, Unbestimmtheit oder Verjährung.
+
+## 6. Anwendungsvarianten
+
+Bei einer belegten Kopie trotz rechtzeitigem Vorbehalt stehen Handlung und Schranken im Vordergrund. Bei einem bloß ähnlichen Output beginnt die Arbeit mit einer belastbaren Nutzungshypothese und Beweissicherung. Bei einem Forschungsdatensatz sind Organisation und Zweck entscheidend. Bei gewünschter Lizenzierung werden Nutzungsumfang, Bestand, Dauer, Vergütung und Nachweisrechte ausgehandelt; kollektive Lizenzen richten sich gegebenenfalls nach Paragrafen 51 ff. VGG.
+
+Die Schlusskontrolle verbindet Antrag, Tatsachen, Norm, Beweis, Gegenposition und nächsten Verfahrensschritt. Kein Anspruch wird allein aus einem Rechtevorbehalt abgeleitet.
+
+---
+
 ## Skill: `kanzlei-formular-portal-und-einreichung`
 
 _Für Kanzlei: Formular, Portal und Einreichungslogik: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Einreichungsplan mit Form- und Nachweischeck. Fachgebiet: Fachanwalt Urheber Medienrecht._
@@ -642,352 +793,6 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 3. **Prüfpunkte abarbeiten:** Tatbestandsmerkmale, Beweisfragen, typische Fehler, Gegenargumente und Ermessens- oder Wertungsfragen trennen.
 4. **Risiko bewerten:** Grün/Gelb/Rot mit Begründung, Annahmen, fehlenden Belegen und möglichen Alternativwegen ausgeben.
 5. **Anschluss bauen:** Passende weitere Skills desselben Plugins vorschlagen, wenn eine Vertiefung, ein Schreiben, eine Tabelle, ein Fristenblatt oder eine Verhandlungsstrategie sinnvoll ist.
-
----
-
-## Skill: `eigenen-risikoampel-und-gegenargumente`
-
-_Für Eigenen: Risikoampel, Gegenargumente und Verteidigungslinien: prüft Ergebnis, Beweislast und Gegenposition; Ergebnis: Fristen- und Risikoampel. Fachgebiet: Fachanwalt Urheber Medienrecht._
-
-# Eigenen: Risikoampel, Gegenargumente und Verteidigungslinien
-
-
-## Arbeitsweg
-
-- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
-- Fristen und Eilrisiken zuerst markieren: UrhG § 102 Verjährung 3/10 Jahre, § 97a Abmahnung Erstattung nur bei Berechtigung, § 41 Rückrufsrecht nach 2 Jahren, FAO § 5 36 Monate Praxis.
-- Tragende Normen verifizieren: FAO § 14k, UrhG §§ 1-69, 72, 73, 81, 87a-h, 95a, 97, 97a, 101, 103, VGG, KUG §§ 22, 23, MStV, JMStV, NetzDG (auslaufend), TMG/DDG, EU-RL 2019/790 (DSM) — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
-- Zuständige Stelle bestimmen und Adressaten richtig wählen: Urheber, Verwertungsgesellschaft (VG Wort, GEMA, GVL), Verleger, Sendeunternehmen, Plattformbetreiber, Landesmedienanstalt, ZAK, LG (Urheber-/Medienkammer).
-- Dokumente und Beweismittel sammeln und auf Lücken prüfen: Lizenzvertrag, Wahrnehmungsvertrag VG, Abmahnung, Unterlassungserklärung, einstweilige Verfügung, Schadensersatzklage, Gegendarstellung, NetzDG/DSA-Meldung — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
-
-**Fokus:** Eigenen: Risikoampel, Gegenargumente und Verteidigungslinien.
-
-## Spezialwissen: Eigenen: Risikoampel, Gegenargumente und Verteidigungslinien
-- **Normen-/Quellenanker:** UrhG, UWG, KUG.
-
-## Fallweichen
-Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur Rückfragen, die die nächste Weiche verändern:
-
-1. Welche Rolle hat die fragende Person und wer ist Gegenüber?
-2. Welches konkrete Ziel soll erreicht oder verhindert werden?
-3. Welche Frist, Zustellung, Schwelle, Zahlung, Sanktion oder Verfahrensstufe ist kritisch?
-4. Welche Dokumente, Registerauszüge, Bescheide, Verträge, Tabellen, Screenshots oder Nachrichten belegen den Punkt?
-5. Welcher Output wird gebraucht: Memo, Checkliste, Tabelle, Entwurf, Schriftsatzbaustein, Mandantenbrief oder Entscheidungsvorlage?
-
-## Arbeitsworkflow
-1. **Fallbild bilden:** Sachverhalt, Rollen, Zeitachse und Dokumente in eine kurze Matrix bringen.
-2. **Rechtsrahmen setzen:** Normen, Zuständigkeiten, Fristen, Formfragen und Verfahrensstand zum Themenfeld **Eigenen** prüfen.
-3. **Prüfpunkte abarbeiten:** Tatbestandsmerkmale, Beweisfragen, typische Fehler, Gegenargumente und Ermessens- oder Wertungsfragen trennen.
-4. **Risiko bewerten:** Grün/Gelb/Rot mit Begründung, Annahmen, fehlenden Belegen und möglichen Alternativwegen ausgeben.
-5. **Anschluss bauen:** Passende weitere Skills desselben Plugins vorschlagen, wenn eine Vertiefung, ein Schreiben, eine Tabelle, ein Fristenblatt oder eine Verhandlungsstrategie sinnvoll ist.
-
----
-
-## Skill: `urheber-abmahnung-pruefen`
-
-_Für Urheberrechtsabmahnung auf Berechtigung Formwirksamkeit und Reaktionsstrategie prüfen: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt._
-
-# Urheberrechtsabmahnung auf Berechtigung Formwirksamkeit und Reaktionsstrategie prüfen
-
-
-## Arbeitsweg
-
-- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
-- Fristen und Eilrisiken zuerst markieren: UrhG § 102 Verjährung 3/10 Jahre, § 97a Abmahnung Erstattung nur bei Berechtigung, § 41 Rückrufsrecht nach 2 Jahren, FAO § 5 36 Monate Praxis.
-- Tragende Normen verifizieren: FAO § 14k, UrhG §§ 1-69, 72, 73, 81, 87a-h, 95a, 97, 97a, 101, 103, VGG, KUG §§ 22, 23, MStV, JMStV, NetzDG (auslaufend), TMG/DDG, EU-RL 2019/790 (DSM) — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
-- Zuständige Stelle bestimmen und Adressaten richtig wählen: Urheber, Verwertungsgesellschaft (VG Wort, GEMA, GVL), Verleger, Sendeunternehmen, Plattformbetreiber, Landesmedienanstalt, ZAK, LG (Urheber-/Medienkammer).
-- Dokumente und Beweismittel sammeln und auf Lücken prüfen: Lizenzvertrag, Wahrnehmungsvertrag VG, Abmahnung, Unterlassungserklärung, einstweilige Verfügung, Schadensersatzklage, Gegendarstellung, NetzDG/DSA-Meldung — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
-
-**Fokus:** Urheberrechtsabmahnung auf Berechtigung Formwirksamkeit und Reaktionsstrategie prüfen. § 97a UrhG § 97 UrhG Unterlassung Schadensersatz. Prüfraster: Schutzfähigkeit Verletzungshandlung Abmahnberechtigung UE Vertragsstrafe Kosten Gegenwehr. Output: Abmahnprüfmemo Reaktionsstrategie modifizierte UE. Abgrenzung: nicht für Filesharing-Verteidigung (fachanwalt-urheber-medienrecht-filesharing-verteidigung).
-
-### Urheber-Abmahnung prüfen
-
-## Kernsachverhalt & Mandantenfragen
-
-Eine urheberrechtliche Abmahnung ist kein Routineschreiben. Die Fehler der Empfänger – unbedachte Anerkenntnis, vorbehaltlose Unterlassungserklärung, überhöhter Streitwert – kosten oft mehr als eine sofortige anwaltliche Reaktion. Gleichzeitig ist die Abmahnung für den Abmahner das strategische Instrument, um Wiederholungsgefahr zu dokumentieren und einen Vollstreckungstitel zu schaffen.
-
-**8 Kaltstart-Rückfragen:**
-
-1. Was ist der genaue Vorwurf? Welches Werk soll verletzt worden sein (Foto, Text, Musik, Software)? Wie lautet die Verletzungshandlung?
-2. Wann wurde die Abmahnung erhalten und welche Frist zur Unterlassungserklärung ist gesetzt?
-3. Ist der Mandant Verbraucher oder Unternehmer? Bei Verbraucher-Abmahnung: § 97a Abs. 3 UrhG (Streitwertbegrenzung EUR 1.000) prüfen.
-4. Welche Beweise legt der Abmahner für die Rechtsverletzung vor (Screenshot, Logfile, IP-Adressen-Auskunft)?
-5. Hat der Mandant die Verletzungshandlung begangen oder könnte ein Dritter (Familie, Untermieter, Gäste im WLAN) verantwortlich sein?
-6. Wurde bereits eine Reaktion abgegeben oder etwas anerkannt, das Ansprüche auslösen könnte?
-7. Hat der Abmahner die Aktivlegitimation belegt (Lizenzkette, Originalurheber, VG-Auftrag)?
-8. Liegt eine "massenhaft" aussehende Abmahnung vor oder ein individualisiertes Schreiben?
-
----
-- **Was will der Mandant wirklich erreichen?** (Nicht: was steht im Standardweg, sondern: welches Ergebnis ist für den Mandanten persoenlich/wirtschaftlich das beste? Manchmal ist der schnellere Vergleich besser als der formal "richtige" Weg.)
-
-## Rechtsgrundlagen
-
-| Norm | Inhalt |
-|---|---|
-| § 2 UrhG | Werkarten und Schöpfungshöhe; persönliche geistige Schöpfung |
-| § 2 Abs. 2 UrhG | Werkdefinition: Individualität als Mindestschwelle |
-| § 7 UrhG | Urheber: stets natürliche Person der Schöpfung |
-| § 15 UrhG | Ausschließliche Verwertungsrechte: Übersicht |
-| § 16 UrhG | Vervielfältigungsrecht |
-| § 17 UrhG | Verbreitungsrecht |
-| § 19a UrhG | Recht der öffentlichen Zugänglichmachung (Internet, Filesharing) |
-| § 31 UrhG | Nutzungsrechte; ausschließliche Lizenz = Aktivlegitimation |
-| § 51 UrhG | Zitatrecht; Voraussetzungen: Beleg, Erkennbarkeit |
-| § 51a UrhG | Karikatur, Parodie, Pastiche (seit 2021) |
-| § 53 UrhG | Privatkopie; nicht aus rechtswidriger Quelle |
-| § 59 UrhG | Panoramafreiheit |
-| § 69a UrhG | Software-Schutz; niedrige Schöpfungsschwelle |
-| § 72 UrhG | Lichtbilder (einfache Fotos): 50 Jahre Schutzfrist |
-| § 97 Abs. 1 UrhG | Unterlassungsanspruch |
-| § 97 Abs. 2 UrhG | Schadensersatz: drei Berechnungsalternativen |
-| § 97a UrhG | Abmahnung: Form, Inhalt, Kostendeckelung |
-| § 97a Abs. 3 UrhG | Streitwertbegrenzung EUR 1.000 bei Verbraucher-Abmahnung |
-| § 97a Abs. 4 UrhG | Kostenerstattung bei unberechtigter Abmahnung |
-| § 101 UrhG | Auskunftsanspruch gegen Verletzer und Dritte |
-| § 102 UrhG | Verjährung: 3 Jahre / 10 Jahre Restschadensersatz |
-
----
-
-## Leitentscheidungen
-
-| Aktenzeichen | Gericht / Datum | Leitsatz |
-|---|---|---|
-
----
-
-## Prüfschema Urheber-Abmahnung
-
-| Schritt | Inhalt | Grundlage |
-|---|---|---|
-| 1 | Werkqualität: Werkart prüfen (§ 2 UrhG); persönliche geistige Schöpfung vorhanden? Kleine Münze ausreichend | § 2 UrhG |
-| 2 | Aktivlegitimation: Ist Abmahner Urheber, Inhaber ausschließlicher Lizenz oder VG-Wahrnehmungsberechtigter? Lizenzkette dokumentiert? | §§ 7, 31 UrhG |
-| 3 | Verletzungshandlung: Welcher Tatbestand (§§ 16, 17, 19a UrhG)? Zeitpunkt und Umfang der Handlung? | §§ 16, 17, 19a UrhG |
-| 5 | Schranken prüfen: Zitatrecht § 51, Parodie § 51a, Privatkopie § 53, Panoramafreiheit § 59? | §§ 51, 51a, 53, 59 UrhG |
-| 6 | Formelle Abmahnprüfung: § 97a Abs. 2 UrhG – Werk benannt, Verletzung konkret, Frist gesetzt, Vollmacht vorgelegt? | § 97a Abs. 2 UrhG |
-| 7 | Verbraucher-Abmahnung: § 97a Abs. 3 UrhG – Streitwert begrenzt auf EUR 1.000 bei einfach gelagerter Verletzung | § 97a Abs. 3 UrhG |
-| 9 | Unterlassungserklärung prüfen: Ist die vorformulierte Erklärung zu weit gefasst? Modifizierung nötig? | § 97a UrhG |
-| 10 | Verjährung prüfen: 3 Jahre ab Kenntnis (§ 102 UrhG i.V.m. § 195 BGB); Restschadensersatz 10 Jahre | § 102 UrhG |
-| 11 | Strategie festlegen: modifizierte UE, Zurückweisung, Vergleich, negative Feststellungsklage | § 256 ZPO |
-| 12 | Unberechtigte Abmahnung: Gegenanspruch § 97a Abs. 4 UrhG prüfen | § 97a Abs. 4 UrhG |
-
----
-
-## Strategische Optionen (vor dem Template entscheiden)
-
-Bevor das Template eins-zu-eins gefuellt wird, ist zu prüfen welche Variante zur Mandantenkonstellation passt. Das Template ist **eine** moegliche Form — nicht die einzige.
-
-| Konstellation | Empfohlener Weg |
-|---|---|
-| Standard — Abmahnung Urheberrecht prüfen und reagieren | Gegendarstellung / UE; Template unten |
-| Variante A — Abmahnung berechtigt | Modifizierte UE mit Kostenvorbehalt; Vergleich anstreben |
-| Variante B — Abmahnung unberechtigte Schutzrechtsverwarnung | Schadensersatz gegen Abmahner prüfen § 97a Abs. 4 UrhG |
-| Variante C — Massenabmahnung / Abmahnmissbrauch | § 8c UWG Missbrauchseinwand; Beschwerde bei Verband |
-
-Wenn die Mandantenkonstellation **nicht** ins Standardschema passt, ist das Template anzupassen oder durch ein anderes Skill abzuloesen — nicht das Mandat in das Schema zu pressen.
-
-## Schriftsatzbausteine
-
-### Baustein 1 – Modifizierte Unterlassungserklärung (Hamburger Brauch)
-
-```
-[Name des Mandanten, Anschrift]
-
-An [Abmahnkanzlei]
-Aktenzeichen Abmahner: [...]
-
-Modifizierte strafbewehrte Unterlassungserklärung
-(ohne Anerkennung einer Rechtspflicht)
-
-Hiermit verpflichtet sich [Name des Mandanten],
-
-es unter Vermeidung einer für jeden Fall der schuldhaften
-Zuwiderhandlung zu zahlenden Vertragsstrafe, deren Höhe
-von der Gläubigerseite nach billigem Ermessen (§ 315 BGB)
-zu bestimmen und im Streitfall durch das zuständige Gericht
-zu überprüfen ist,
-
-zu unterlassen,
-
-das Werk [genaue Bezeichnung: z.B. Lichtbild mit Beschreibung,
-Datum der Aufnahme / Erstveröffentlichung]
-
-ohne Einwilligung der Rechteinhaberin zu vervielfältigen
-(§ 16 UrhG) oder öffentlich zugänglich zu machen (§ 19a UrhG).
-
-Diese Erklärung:
-1. gilt ausschließlich für die benannte konkrete Verletzungsform
- und kerngleiche Handlungen
-2. enthält kein Anerkenntnis bzgl. Schadensersatz, Auskunft
- oder Kostenforderungen
-3. begrenzt die Kostenforderung auf § 97a Abs. 3 UrhG soweit
- der Mandant als Verbraucher ohne gewerbliche Tätigkeit gehandelt hat
-
-[Datum]
-[Unterschrift Mandant]
-[Begleitschreiben: kein Anerkenntnis]
-```
-
-### Baustein 2 – Antwortschreiben: Zurückweisung mangels Aktivlegitimation
-
-```
-An [Abmahnkanzlei]
-Aktenzeichen: [...]
-
-Ihre Abmahnung vom [Datum]
-
-Sehr geehrte Damen und Herren,
-
-wir zeigen die anwaltliche Vertretung des/der [Mandant] an.
-
-Ihre Abmahnung wird aus folgenden Gründen zurückgewiesen:
-
-I. Fehlende Aktivlegitimation
-
-Sie haben bislang nicht belegt, dass Ihre Mandantschaft Inhaber
-ausschließlicher Nutzungsrechte an dem in Rede stehenden Werk ist.
-
-Insbesondere fehlt:
-– Nachweis der Urheberschaft (Name des Urhebers, Zeitpunkt der Schöpfung)
-– Lizenzkette (Übertragungsvertrag mit Nachweis der ausschließlichen Lizenz)
-– Bei VG: Wahrnehmungsvertrag für den in Frage stehenden Nutzungsbereich
-
-Wir fordern Sie auf, die Aktivlegitimation innerhalb von [7] Tagen vollständig zu belegen.
-
-II. Bestreiten der Verletzungshandlung
-
-[ggf.: Der Internet-Anschluss des Mandanten wurde zum behaupteten
-Zeitpunkt auch von [Dritten] genutzt. Sekundäre Darlegungslast
-kommen [Familienangehörige, Gäste] in Betracht.]
-
-III. Streitwertbegrenzung § 97a Abs. 3 UrhG
-
-Der Mandant ist Verbraucher. Die einfach gelagerte Verletzung
-außerhalb gewerblicher Tätigkeit begrenzt den Streitwert für die
-Berechnung der Abmahnkosten auf EUR 1.000 (§ 97a Abs. 3 UrhG).
-
-[Ort, Datum]
-[Unterschrift Kanzlei]
-```
-
-### Baustein 3 – Negative Feststellungsklage (bei unberechtigter Abmahnung)
-
-```
-AN DAS LANDGERICHT [...]
-
-Kläger: [Mandant, Anschrift]
-Beklagte: [Abmahner, Anschrift]
-
-Streitwert: [nach Abmahnforderung]
-
-KLAGEBEGRÜNDUNG – NEGATIVE FESTSTELLUNGSKLAGE
-
-Die Klage richtet sich gegen unberechtigte Inanspruchnahme
-durch die beklagte Partei.
-
-Es wird beantragt festzustellen, dass dem Beklagten gegenüber
-dem Kläger aus der Nutzung des Werks [Bezeichnung] keinerlei
-urheberrechtliche Ansprüche – insbesondere nicht auf Unterlassung,
-Schadensersatz oder Auskunft – zustehen.
-
-Begründung:
-[Werkqualität verneint: Das verwendete Bild/Text ist gemeinfrei
-/ unterschreitet die Schöpfungshöhe § 2 Abs. 2 UrhG / ist ein
-Lichtbild § 72 UrhG mit abgelaufener Schutzfrist]
-ODER
-[Aktivlegitimation fehlt: Beklagte hat Rechtekette nicht belegt]
-ODER
-[Erlaubnissachverhalt: Nutzung war durch § 51 UrhG Zitatrecht /
-§ 51a UrhG Parodie gerechtfertigt]
-
-[Ort, Datum, Unterschrift]
-```
-
---- vor Versand klären ---
-1. Welches Verhandlungsziel hat der Mandant? [Bestand / Abfindung / Reputation / Schnelle Loesung]
-2. Welche Kompromisslinien sind absolut? [Mindestabfindung / Freistellung / Zeugnisformulierung]
-3. Sind Anschlusswege erwuenscht? [Mediation / Direktgespraech / Settlement vor Klageerhebung]
-
----
-
-## Beweislast
-
-| Konstellation | Beweislast |
-|---|---|
-| Werkqualität | Abmahner trägt Schutzwürdigkeit; bei bekanntem Werktyp (Foto, Text) vermutet; bei sehr kurzem Text: bestreiten möglich |
-| Aktivlegitimation | Abmahner trägt Urheberschaft und Lizenzkette vollständig |
-| Verletzungshandlung (Filesharing) | Abmahner trägt IP-Adressen-Zuordnung und Zeitpunkt; Anschlussinhaber bedient sekundäre Darlegungslast |
-| Schranke (Zitatrecht, Parodie) | Nutzer/Beklagte trägt Voraussetzungen der Schranke |
-
----
-
-## Fristen und Verjährung
-
-| Frist | Inhalt | Norm |
-|---|---|---|
-| Gesetzte Frist (typisch 5–14 Tage) | Frist zur Abgabe der Unterlassungserklärung; bei Überschreitung droht einstweilige Verfügung | § 97a UrhG |
-| 3 Jahre | Regelverjährung Schadensersatz; ab Kenntnis von Verletzung und Person | § 102 UrhG, § 195 BGB |
-| 10 Jahre | Restschadensersatz ohne Kenntnis | § 102 UrhG |
-| Sofort | Negative Feststellungsklage: nach Erhalt der Abmahnung möglich; schafft günstigen Gerichtsstand | § 256 ZPO |
-
----
-
-## Typische Gegenargumente
-
-| Gegenargument | Erwiderung |
-|---|---|
-| "Foto ist ohne Quelle verwendet und damit urheberrechtlich verletzt" | Werkqualität nach § 72 UrhG (Lichtbild) prüfen; Schöpfungshöhe für Lichtbildwerk höher; Quellenangabe allein heilt Verletzung nicht, zeigt aber fehlenden Vorsatz |
-| "Vorformulierte Unterlassungserklärung muss so unterschrieben werden" | Nein; modifizierte Erklärung ist zulässig und beseitigt ebenfalls die Wiederholungsgefahr wenn Hamburger Brauch eingehalten |
-
----
-
-## Streitwert / Kosten
-
-| Position | Berechnung |
-|---|---|
-| Abmahnkosten (Verbraucher, einfach gelagert) | § 97a Abs. 3 UrhG: Gegenstandswert EUR 1.000 → ca. EUR 124 Anwaltsgebühr (VV-RVG 2300, 1,3) |
-| Abmahnkosten (Unternehmen, gewerblich) | Streitwert EUR 6.000–50.000 je nach Werk und Reichweite; EUR 500–2.000 Anwaltskosten |
-| Verletzeraufschlag | Umstritten; BGH lässt bis 100 % zu; in der Praxis oft 50–100 % |
-| Unberechtigte Abmahnung | § 97a Abs. 4 UrhG: Kostenerstattung; Streitwert = Abmahnforderung |
-
----
-
-## Strategische Empfehlung
-
-| Situation | Empfehlung |
-|---|---|
-| Berechtigte Verletzung, Verbraucher | Modifizierte UE abgeben; Kosten auf § 97a Abs. 3 UrhG begrenzen; Schadensersatz verhandeln |
-| Filesharing, unklare Täterschaft | Sekundäre Darlegungslast bedienen; Alternativtäter benennen; keine UE-Abgabe ohne Prüfung |
-| Gewerbliche Bildnutzung ohne Lizenz | Unterlassungserklärung modifiziert; Lizenzanalogie verhandeln; keine Wildwest-Zahlung |
-| Seriell wirkende Massenabmahnung | § 97a Abs. 4 UrhG prüfen; Anzeige beim zuständigen Gericht; Schutzschrift |
-| Verjährung droht auszulaufen | Negative Feststellungsklage vor Ablauf der Verjährung des Abmahners |
-
----
-
-## Anschluss-Skills
-
-- `fachanwalt-urheber-medienrecht-abmahnung-pruefen` – ergänzende Tiefenprüfung
-- `fachanwalt-urheber-medienrecht-mod-erklaerung` – modifizierte Unterlassungserklärung
-- `gegendarstellung-presse` – bei persönlichkeitsrechtlichen Aspekten
-- `fachanwalt-urheber-medienrecht-tdm-44b-urhg-ki-training-opt-out` – bei KI-Training-Themen
-
----
-
-## Triage-Fragen bei Urheber-Abmahnungs-Prüfung
-
-Bevor die Handlungsempfehlung ausgesprochen wird, klaere:
-1. Besteht Werkqualitaet (§ 2 II UrhG — persoenlich-geistige Schoepfung, Schoeupfungshoehe)?
-2. Ist der Abmahnende tatsaechlich der Rechteinhaber oder ein autorisierter Lizenznehmer (Aktivlegitimation)?
-3. Greift eine gesetzliche Schranke — Zitat, Parodie, Unterrichtsgebrauch, TDM?
-4. Wurde die Frist zur Reaktion auf die Abmahnung korrekt berechnet (regelmaeßig 7-14 Tage, Fristbeginn = Zugang)?
-
-## Aktuelle Rechtsprechung
-
-
-
-
----
-
-> Quellenregel: Entscheidungen nur nach Prüfung einer amtlichen oder frei zugänglichen Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage ausgeben.
 
 ---
 

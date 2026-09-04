@@ -44,11 +44,10 @@ Ohne verwertbares Material genau eine gebündelte Frage zu Rechnung und Behandlu
 | Feld | Sofortgriff | Ausgabe |
 | --- | --- | --- |
 | Rechnung und Behandlung | Arzt, Zahlungspflichtiger, Behandlungsdatum, Leistung, Diagnosebezug, Rechnung, Fälligkeit und Einwendung erfassen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Ziffernkette | Leistungsinhalt, Ausschlüsse, Zielleistung, Nebeneinanderberechnung, Analogansatz und Dokumentation positionsweise. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Faktor und Betrag | Leistungsgruppe, Schwellen- und Höchstsatz, individuelle Begründung, Punktzahl, Punktwert, Minderung und Rechenweg. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Ziffernkette | Leistungsinhalt, Ausschlüsse, Zielleistung, Nebeneinanderberechnung, Analogansatz und Dokumentation positionsweise prüfen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Faktor und Betrag | Leistungsgruppe, Schwellen- und Höchstsatz, individuelle Begründung, Punktzahl, Punktwert, Minderung und Rechenweg kontrollieren. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
 | Sonderweg | Honorarvereinbarung, Wahlleistung, Auslagen, Wegegeld, Basistarif, Beihilfe oder PKV-Erstattung getrennt bewerten. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Arbeitsprodukt | Korrigierte Rechnung, Ziffern- und Faktormatrix, Begründungstext, Einwendung, Zahlungsaufforderung. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Fälligkeit Verzug Mahnung Honorarklage | Bearbeite Fälligkeit Verzug Mahnung Honorarklage: Arzt, Zahlungspflichtiger, Behandlungsdatum, Leistung. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Arbeitsprodukt | Korrigierte Rechnung, Ziffern- und Faktormatrix, Begründungstext, Einwendung, Zahlungsaufforderung oder Klagebaustein erstellen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
 
 ## 6. Anker
 

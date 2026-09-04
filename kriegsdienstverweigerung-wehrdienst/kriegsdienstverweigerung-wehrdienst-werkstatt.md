@@ -77,9 +77,9 @@ Arbeitsgriff Arbeitsprodukt: Widerspruch, Eilantrag, Klage, Stellungnahme oder b
 
 | Ebene | Fallfrage | Anker | Sofortausgabe |
 | --- | --- | --- | --- |
-| Fallkern | Ablehnungsbescheid analysieren | BeamtStG und BBG | Sofortvermerk mit Ergebnisrichtung, Risiko und nächstem Schritt |
+| Fallkern | Sachstandsanfrage mit Frist | BeamtStG und BBG | Sofortvermerk mit Ergebnisrichtung, Risiko und nächstem Schritt |
 | Zulässigkeit und Frist | Frist, Form, Zuständigkeit, Rolle und statthafter Weg | SG und WPflG | Fristenblatt oder Prozess-/Verfahrensroute |
-| Begründetheit | Eilrechtsschutz bei Einberufung | SG und WPflG | Tatbestandsmatrix mit Beleg und Gegenargument |
+| Begründetheit | Untätigkeitsklage Paragraf 75 VwGO | SG und WPflG | Tatbestandsmatrix mit Beleg und Gegenargument |
 | Rechtsfolge | Widerspruch, Eilantrag, Klage, Stellungnahme oder behördlicher Bescheidentwurf ausformulieren | Darlegungs- und Nachweisfrage für Öffentlicher Dienst, Sicherheits- und Migrationsrecht: Auf welchen Tatsachen beruht die Gefahren- oder Eignungsprognose | Antrag, Entwurf, Entscheidungsvorschlag oder Mandantenbrief |
 
 ## 5. Normenanker, Tatbestandswichtigkeiten und Beweislast
@@ -132,7 +132,7 @@ Arbeitsgriff Arbeitsprodukt: Widerspruch, Eilantrag, Klage, Stellungnahme oder b
 
 10.1. Kernsatz: Benenne Parteirolle, Ziel und die begehrte oder abzuwehrende Rechtsfolge aus diesem Arbeitsfeld: Widerspruch, Eilantrag, Klage, Stellungnahme oder behördlicher Bescheidentwurf ausformulieren.
 10.2. Tragende Regel: Stelle den einschlägigen Normsatz voran und ordne ihn dem konkreten Streitpunkt zu; erste Anker sind BeamtStG und BBG; SG und WPflG.
-10.3. Tatbestandsmerkmal: Arbeite zuerst den entscheidenden Fachpunkt aus, regelmäßig Ablehnungsbescheid analysieren.
+10.3. Tatbestandsmerkmal: Arbeite zuerst den entscheidenden Fachpunkt aus, regelmäßig Sachstandsanfrage mit Frist.
 10.4. Aktenfund: Nenne Datum, Beteiligten, Handlung, Betrag und genaue Fundstelle; im Bereich Öffentlicher Dienst, Sicherheits- und Migrationsrecht tragen regelmäßig die vorgelegten Urkunden, Bescheide und Korrespondenz den Nachweis. Eine streitige Behauptung bleibt als solche bezeichnet.
 10.5. Beweislast: Darlegungs- und Nachweisfrage für Öffentlicher Dienst, Sicherheits- und Migrationsrecht: Auf welchen Tatsachen beruht die Gefahren- oder Eignungsprognose. Zeige ausdrücklich, welche Folge ein offener Beweis hat.
 10.6. Gegenposition: Formuliere den stärksten ernsthaften Angriff; hier setzt die Gegenseite typischerweise bei Anhörung, Begründung und Zuständigkeit gewahrt an.
@@ -172,78 +172,77 @@ Die Landkarte dient der schnellen Auswahl. Sie ersetzt nicht die darunter ausfor
 
 | Arbeitsfeld | Entscheidende Weiche | Erstes Lieferstück |
 | --- | --- | --- |
-| Ablehnungsbescheid analysieren | Prüfe Widerspruch, Klage, Paragraf 75 VwGO, Paragraf 80 VwGO, Paragraf 123 VwGO und besondere KDVG-Fristen. Die Antwort muss den konkreten Status, das Datum, die Behörde und die aktuelle Verfahrenslage aufnehmen. | Fachvotum zu Ablehnungsbescheid analysieren mit Tatbestandsmerkmalen, Aktenfundstellen, Beweislast, stärkster Gegenposition, Risiko und ausformulierter Rechtsfolge |
-| Eilrechtsschutz bei Einberufung | Prüfe Widerspruch, Klage, Paragraf 75 VwGO, Paragraf 80 VwGO, Paragraf 123 VwGO und besondere KDVG-Fristen. Prüfe Paragraf 80 oder Paragraf 123 VwGO bei drohendem Dienst an der Waffe. | Fachvotum zu Eilrechtsschutz bei Einberufung mit Tatbestandsmerkmalen, Aktenfundstellen, Beweislast, stärkster Gegenposition, Risiko und ausformulierter Rechtsfolge |
-| Klage ohne normale Berufung | Prüfe Widerspruch, Klage, Paragraf 75 VwGO, Paragraf 80 VwGO, Paragraf 123 VwGO und besondere KDVG-Fristen. Erklärt Paragraf 10 KDVG und warum erstinstanzliche Sorgfalt besonders wichtig ist. | frist- und formgerechter Entwurf mit Antrag, tragenden Tatsachen, Beweisangeboten, Anlagen und Einreichungsweg |
+| Sachstandsanfrage mit Frist | Gewissensentscheidung, politisches Motiv, Status, Zuständigkeit, Bescheid, Untätigkeit, Frist und gerichtlicher Rechtsschutz trennen. | Fristenblatt zu Sachstandsanfrage mit Frist mit Auslöser, Beginn, Ende, Vorfrist, Beleg, Sofortmaßnahme und Verantwortlichem |
 | Untätigkeitsklage Paragraf 75 VwGO | Prüfe Widerspruch, Klage, Paragraf 75 VwGO, Paragraf 80 VwGO, Paragraf 123 VwGO und besondere KDVG-Fristen. | frist- und formgerechter Entwurf mit Antrag, tragenden Tatsachen, Beweisangeboten, Anlagen und Einreichungsweg |
-| Widerspruchsfristen Sonderlagen | Prüfe Widerspruch, Klage, Paragraf 75 VwGO, Paragraf 80 VwGO, Paragraf 123 VwGO und besondere KDVG-Fristen. Prüfe normale und verkürzte Widerspruchsfristen, insbesondere Paragraf 11 KDVG. | frist- und formgerechter Entwurf mit Antrag, tragenden Tatsachen, Beweisangeboten, Anlagen und Einreichungsweg |
-| Akteneinsicht KDV | Prüfe Widerspruch, Klage, Paragraf 75 VwGO, Paragraf 80 VwGO, Paragraf 123 VwGO und besondere KDVG-Fristen. Routet Akteneinsicht bei BAFzA, BAPersBw und Gericht. | Akten- und Belegmatrix zu Akteneinsicht KDV mit Datum, Urheber, Fundstelle, Widerspruch, Fehlteil und nächstem Bearbeitungsschritt |
-| Eidesstattliche Versicherung Grenzen | Prüfe Widerspruch, Klage, Paragraf 75 VwGO, Paragraf 80 VwGO, Paragraf 123 VwGO und besondere KDVG-Fristen. Prüfe, ob eidesstattliche Versicherungen zulässig oder sinnvoll sind. | Fachvotum zu Eidesstattliche Versicherung Grenzen mit Tatbestandsmerkmalen, Aktenfundstellen, Beweislast, stärkster Gegenposition, Risiko und ausformulierter Rechtsfolge |
-| Einstweilige Anordnung Paragraf 123 | Prüfe Widerspruch, Klage, Paragraf 75 VwGO, Paragraf 80 VwGO, Paragraf 123 VwGO und besondere KDVG-Fristen. Prüfe vorläufige Regelung ohne passenden Paragraf80-Fall. | Fachvotum zu Einstweilige Anordnung Paragraf 123 mit Tatbestandsmerkmalen, Aktenfundstellen, Beweislast, stärkster Gegenposition, Risiko und ausformulierter Rechtsfolge |
-| Gerichtsakte aufbauen | Prüfe Widerspruch, Klage, Paragraf 75 VwGO, Paragraf 80 VwGO, Paragraf 123 VwGO und besondere KDVG-Fristen. Ordne Tatsachen, Gewissen, Belege und Verfahrensfehler gerichtsfest. | Akten- und Belegmatrix zu Gerichtsakte aufbauen mit Datum, Urheber, Fundstelle, Widerspruch, Fehlteil und nächstem Bearbeitungsschritt |
+| Wirkung des Antrags | Erklärt Paragraf 3 KDVG, Paragraf 11 KDVG und die Sonderwirkung des Paragraf 13 Absatz 3. Erklärt Paragraf 3 KDVG, Paragraf 11 KDVG und die Sonderwirkung des Paragraf 13 Absatz 3. | frist- und formgerechter Entwurf mit Antrag, tragenden Tatsachen, Beweisangeboten, Anlagen und Einreichungsweg |
+| Einmonatsfrist Nachforderung | Prüfe Monatsfrist zur Vervollständigung nach Paragraf 7 KDVG. Bei KDV ist die innere Gewissensentscheidung nicht vollständig beweisbar wie eine äußere Tatsache. | Fristenblatt zu Einmonatsfrist Nachforderung mit Auslöser, Beginn, Ende, Vorfrist, Beleg, Sofortmaßnahme und Verantwortlichem |
+| Fristenkalender KDV | Erstelle Fristenkalender für Antrag, Nachreichung, Anhörung, Widerspruch, Paragraf 75 und Paragraf 13. Bei KDV ist die innere Gewissensentscheidung nicht vollständig beweisbar wie eine äußere Tatsache. | Fristenblatt zu Fristenkalender KDV mit Auslöser, Beginn, Ende, Vorfrist, Beleg, Sofortmaßnahme und Verantwortlichem |
+| Neunmonats-Sollfrist Paragraf 13 | Nutzt Paragraf 13 Absatz 2 KDVG als Argument gegen unbegrenztes Liegenlassen. Bei KDV ist die innere Gewissensentscheidung nicht vollständig beweisbar wie eine äußere Tatsache. | Fristenblatt zu Neunmonats-Sollfrist Paragraf 13 mit Auslöser, Beginn, Ende, Vorfrist, Beleg, Sofortmaßnahme und Verantwortlichem |
+| Vorrang aktive Soldaten | Nutzt Paragraf 4 KDVG für vorrangige Entscheidung bei laufendem Dienst. Bei KDV ist die innere Gewissensentscheidung nicht vollständig beweisbar wie eine äußere Tatsache. | Fachvotum zu Vorrang aktive Soldaten mit Tatbestandsmerkmalen, Aktenfundstellen, Beweislast, stärkster Gegenposition, Risiko und ausformulierter Rechtsfolge |
+| Aktenvernichtung Paragraf 12 KDVG | Welche Personengruppe liegt vor: ungedient, wehrpflichtig, FWDL, SaZ, Berufssoldat, Reservist, frühere Soldatin/früherer Soldat oder Sonderfall? | Akten- und Belegmatrix zu Aktenvernichtung Paragraf 12 KDVG mit Datum, Urheber, Fundstelle, Widerspruch, Fehlteil und nächstem Bearbeitungsschritt |
+| Anschreiben kurz und würdig | Erstelle ein kurzes Anschreiben mit Artikel 4Berufung und Anlagenliste. Bei KDV ist die innere Gewissensentscheidung nicht vollständig beweisbar wie eine äußere Tatsache. | versandfertiges Schreiben mit Betreff, Sachverhaltskern, Rechtsgrund, konkretem Begehren, Frist und Anlagenverzeichnis |
 
 ## 16. Fachspezifische Praxisrouten
 
 Diese Routen stammen aus den konkreten Arbeitsthemen dieses Plugins. Wähle die sachnächste Route, liefere deren ersten verwertbaren Baustein sofort und vertiefe nur die Punkte, die das Ergebnis tatsächlich ändern.
 
-### 16.1. Ablehnungsbescheid analysieren
-
-Bearbeitungsauftrag: Prüfe Widerspruch, Klage, Paragraf 75 VwGO, Paragraf 80 VwGO, Paragraf 123 VwGO und besondere KDVG-Fristen. Die Antwort muss den konkreten Status, das Datum, die Behörde und die aktuelle Verfahrenslage aufnehmen. Bei KDV ist die innere Gewissensentscheidung nicht vollständig beweisbar wie eine äußere Tatsache; sie muss aber persönlich, plausibel und widerspruchsbewusst dargestellt werden.
-Lieferstück: Fachvotum zu Ablehnungsbescheid analysieren mit Tatbestandsmerkmalen, Aktenfundstellen, Beweislast, stärkster Gegenposition, Risiko und ausformulierter Rechtsfolge.
-
-### 16.2. Eilrechtsschutz bei Einberufung
-
-Bearbeitungsauftrag: Prüfe Widerspruch, Klage, Paragraf 75 VwGO, Paragraf 80 VwGO, Paragraf 123 VwGO und besondere KDVG-Fristen. Prüfe Paragraf 80 oder Paragraf 123 VwGO bei drohendem Dienst an der Waffe. Bei KDV ist die innere Gewissensentscheidung nicht vollständig beweisbar wie eine äußere Tatsache; sie muss aber persönlich, plausibel und widerspruchsbewusst dargestellt werden.
-Lieferstück: Fachvotum zu Eilrechtsschutz bei Einberufung mit Tatbestandsmerkmalen, Aktenfundstellen, Beweislast, stärkster Gegenposition, Risiko und ausformulierter Rechtsfolge.
-
-### 16.3. Klage ohne normale Berufung
-
-Bearbeitungsauftrag: Prüfe Widerspruch, Klage, Paragraf 75 VwGO, Paragraf 80 VwGO, Paragraf 123 VwGO und besondere KDVG-Fristen. Erklärt Paragraf 10 KDVG und warum erstinstanzliche Sorgfalt besonders wichtig ist. Bei KDV ist die innere Gewissensentscheidung nicht vollständig beweisbar wie eine äußere Tatsache; sie muss aber persönlich, plausibel und widerspruchsbewusst dargestellt werden.
-Lieferstück: frist- und formgerechter Entwurf mit Antrag, tragenden Tatsachen, Beweisangeboten, Anlagen und Einreichungsweg.
-
-### 16.4. Untätigkeitsklage Paragraf 75 VwGO
-
-Bearbeitungsauftrag: Prüfe Widerspruch, Klage, Paragraf 75 VwGO, Paragraf 80 VwGO, Paragraf 123 VwGO und besondere KDVG-Fristen. Gibt es bereits Antrag, Eingangsbestätigung, Personenkennziffer, Musterungsbescheid, BAFzA-Schreiben, Anhörung oder Bescheid? Geht es um Kriegsdienst mit der Waffe als Gewissensproblem oder um Politik, Gesundheit, Angst, Karriere, Familie oder Totalverweigerung?
-Prüfschritte: Prüfe Rechtsschutz bei Nichtbescheidung und grenzt diffuse Untätigkeitsbeschwerde ab; sie muss aber persönlich, plausibel und widerspruchsbewusst dargestellt werden.
-Norm- oder Entscheidungsbezug aus dem Fachmaterial: Prüfe Widerspruch, Klage, Paragraf 75 VwGO, Paragraf 80 VwGO, Paragraf 123 VwGO und besondere KDVG-Fristen.
-Lieferstück: frist- und formgerechter Entwurf mit Antrag, tragenden Tatsachen, Beweisangeboten, Anlagen und Einreichungsweg.
-
-### 16.5. Widerspruchsfristen Sonderlagen
-
-Bearbeitungsauftrag: Prüfe Widerspruch, Klage, Paragraf 75 VwGO, Paragraf 80 VwGO, Paragraf 123 VwGO und besondere KDVG-Fristen. Prüfe normale und verkürzte Widerspruchsfristen, insbesondere Paragraf 11 KDVG. Bei KDV ist die innere Gewissensentscheidung nicht vollständig beweisbar wie eine äußere Tatsache; sie muss aber persönlich, plausibel und widerspruchsbewusst dargestellt werden.
-Lieferstück: frist- und formgerechter Entwurf mit Antrag, tragenden Tatsachen, Beweisangeboten, Anlagen und Einreichungsweg.
-
-### 16.6. Akteneinsicht KDV
-
-Bearbeitungsauftrag: Prüfe Widerspruch, Klage, Paragraf 75 VwGO, Paragraf 80 VwGO, Paragraf 123 VwGO und besondere KDVG-Fristen. Routet Akteneinsicht bei BAFzA, BAPersBw und Gericht. Bei KDV ist die innere Gewissensentscheidung nicht vollständig beweisbar wie eine äußere Tatsache; sie muss aber persönlich, plausibel und widerspruchsbewusst dargestellt werden.
-Lieferstück: Akten- und Belegmatrix zu Akteneinsicht KDV mit Datum, Urheber, Fundstelle, Widerspruch, Fehlteil und nächstem Bearbeitungsschritt.
-
-### 16.7. Eidesstattliche Versicherung Grenzen
-
-Bearbeitungsauftrag: Prüfe Widerspruch, Klage, Paragraf 75 VwGO, Paragraf 80 VwGO, Paragraf 123 VwGO und besondere KDVG-Fristen. Prüfe, ob eidesstattliche Versicherungen zulässig oder sinnvoll sind. Bei KDV ist die innere Gewissensentscheidung nicht vollständig beweisbar wie eine äußere Tatsache; sie muss aber persönlich, plausibel und widerspruchsbewusst dargestellt werden.
-Lieferstück: Fachvotum zu Eidesstattliche Versicherung Grenzen mit Tatbestandsmerkmalen, Aktenfundstellen, Beweislast, stärkster Gegenposition, Risiko und ausformulierter Rechtsfolge.
-
-### 16.8. Einstweilige Anordnung Paragraf 123
-
-Bearbeitungsauftrag: Prüfe Widerspruch, Klage, Paragraf 75 VwGO, Paragraf 80 VwGO, Paragraf 123 VwGO und besondere KDVG-Fristen. Prüfe vorläufige Regelung ohne passenden Paragraf80-Fall. Bei KDV ist die innere Gewissensentscheidung nicht vollständig beweisbar wie eine äußere Tatsache; sie muss aber persönlich, plausibel und widerspruchsbewusst dargestellt werden.
-Lieferstück: Fachvotum zu Einstweilige Anordnung Paragraf 123 mit Tatbestandsmerkmalen, Aktenfundstellen, Beweislast, stärkster Gegenposition, Risiko und ausformulierter Rechtsfolge.
-
-### 16.9. Gerichtsakte aufbauen
-
-Bearbeitungsauftrag: Prüfe Widerspruch, Klage, Paragraf 75 VwGO, Paragraf 80 VwGO, Paragraf 123 VwGO und besondere KDVG-Fristen. Ordne Tatsachen, Gewissen, Belege und Verfahrensfehler gerichtsfest. Bei KDV ist die innere Gewissensentscheidung nicht vollständig beweisbar wie eine äußere Tatsache; sie muss aber persönlich, plausibel und widerspruchsbewusst dargestellt werden.
-Lieferstück: Akten- und Belegmatrix zu Gerichtsakte aufbauen mit Datum, Urheber, Fundstelle, Widerspruch, Fehlteil und nächstem Bearbeitungsschritt.
-
-### 16.10. Gesetzliche Vertreter
-
-Bearbeitungsauftrag: Prüfe Widerspruch, Klage, Paragraf 75 VwGO, Paragraf 80 VwGO, Paragraf 123 VwGO und besondere KDVG-Fristen. Erklärt Rechte gesetzlicher Vertreter im Widerspruchs- und Gerichtsverfahren. Bei KDV ist die innere Gewissensentscheidung nicht vollständig beweisbar wie eine äußere Tatsache; sie muss aber persönlich, plausibel und widerspruchsbewusst dargestellt werden.
-Lieferstück: Fachvotum zu Gesetzliche Vertreter mit Tatbestandsmerkmalen, Aktenfundstellen, Beweislast, stärkster Gegenposition, Risiko und ausformulierter Rechtsfolge.
-
-### 16.11. Rechtsbehelfsbelehrung prüfen
-
-Bearbeitungsauftrag: Prüfe Widerspruch, Klage, Paragraf 75 VwGO, Paragraf 80 VwGO, Paragraf 123 VwGO und besondere KDVG-Fristen. Prüfe Bescheide auf richtige Rechtsbehelfsbelehrung und Fristfolgen. Bei KDV ist die innere Gewissensentscheidung nicht vollständig beweisbar wie eine äußere Tatsache; sie muss aber persönlich, plausibel und widerspruchsbewusst dargestellt werden.
-Lieferstück: Fachvotum zu Rechtsbehelfsbelehrung prüfen mit Tatbestandsmerkmalen, Aktenfundstellen, Beweislast, stärkster Gegenposition, Risiko und ausformulierter Rechtsfolge.
-
-### 16.12. Sachstandsanfrage mit Frist
+### 16.1. Sachstandsanfrage mit Frist
 
 Bearbeitungsauftrag: Gewissensentscheidung, politisches Motiv, Status, Zuständigkeit, Bescheid, Untätigkeit, Frist und gerichtlicher Rechtsschutz trennen. Prüfe Widerspruch, Klage, Paragraf 75 VwGO, Paragraf 80 VwGO, Paragraf 123 VwGO und besondere KDVG-Fristen. Formuliere gezielte Sachstandsanfragen vor Eskalation in Paragraf 75 VwGO.
 Lieferstück: Fristenblatt zu Sachstandsanfrage mit Frist mit Auslöser, Beginn, Ende, Vorfrist, Beleg, Sofortmaßnahme und Verantwortlichem.
+
+### 16.2. Untätigkeitsklage Paragraf 75 VwGO
+
+Bearbeitungsauftrag: Prüfe Widerspruch, Klage, Paragraf 75 VwGO, Paragraf 80 VwGO, Paragraf 123 VwGO und besondere KDVG-Fristen. Gibt es bereits Antrag, Eingangsbestätigung, Personenkennziffer, Musterungsbescheid, BAFzA-Schreiben, Anhörung oder Bescheid? Geht es um Kriegsdienst mit der Waffe als Gewissensproblem oder um Politik, Gesundheit, Angst, Karriere, Familie oder Totalverweigerung?
+Lieferstück: frist- und formgerechter Entwurf mit Antrag, tragenden Tatsachen, Beweisangeboten, Anlagen und Einreichungsweg.
+
+### 16.3. Wirkung des Antrags
+
+Bearbeitungsauftrag: Erklärt Paragraf 3 KDVG, Paragraf 11 KDVG und die Sonderwirkung des Paragraf 13 Absatz 3. Erklärt Paragraf 3 KDVG, Paragraf 11 KDVG und die Sonderwirkung des Paragraf 13 Absatz 3. Bei KDV ist die innere Gewissensentscheidung nicht vollständig beweisbar wie eine äußere Tatsache.
+Lieferstück: frist- und formgerechter Entwurf mit Antrag, tragenden Tatsachen, Beweisangeboten, Anlagen und Einreichungsweg.
+
+### 16.4. Einmonatsfrist Nachforderung
+
+Bearbeitungsauftrag: Prüfe Monatsfrist zur Vervollständigung nach Paragraf 7 KDVG. Bei KDV ist die innere Gewissensentscheidung nicht vollständig beweisbar wie eine äußere Tatsache; sie muss aber persönlich, plausibel und widerspruchsbewusst dargestellt werden. Welche Personengruppe liegt vor: ungedient, wehrpflichtig, FWDL, SaZ, Berufssoldat, Reservist, frühere Soldatin/früherer Soldat oder Sonderfall?
+Lieferstück: Fristenblatt zu Einmonatsfrist Nachforderung mit Auslöser, Beginn, Ende, Vorfrist, Beleg, Sofortmaßnahme und Verantwortlichem.
+
+### 16.5. Fristenkalender KDV
+
+Bearbeitungsauftrag: Erstelle Fristenkalender für Antrag, Nachreichung, Anhörung, Widerspruch, Paragraf 75 und Paragraf 13. Bei KDV ist die innere Gewissensentscheidung nicht vollständig beweisbar wie eine äußere Tatsache; sie muss aber persönlich, plausibel und widerspruchsbewusst dargestellt werden. Welche Personengruppe liegt vor: ungedient, wehrpflichtig, FWDL, SaZ, Berufssoldat, Reservist, frühere Soldatin/früherer Soldat oder Sonderfall?
+Lieferstück: Fristenblatt zu Fristenkalender KDV mit Auslöser, Beginn, Ende, Vorfrist, Beleg, Sofortmaßnahme und Verantwortlichem.
+
+### 16.6. Neunmonats-Sollfrist Paragraf 13
+
+Bearbeitungsauftrag: Nutzt Paragraf 13 Absatz 2 KDVG als Argument gegen unbegrenztes Liegenlassen. Bei KDV ist die innere Gewissensentscheidung nicht vollständig beweisbar wie eine äußere Tatsache; sie muss aber persönlich, plausibel und widerspruchsbewusst dargestellt werden. Welche Personengruppe liegt vor: ungedient, wehrpflichtig, FWDL, SaZ, Berufssoldat, Reservist, frühere Soldatin/früherer Soldat oder Sonderfall?
+Lieferstück: Fristenblatt zu Neunmonats-Sollfrist Paragraf 13 mit Auslöser, Beginn, Ende, Vorfrist, Beleg, Sofortmaßnahme und Verantwortlichem.
+
+### 16.7. Vorrang aktive Soldaten
+
+Bearbeitungsauftrag: Nutzt Paragraf 4 KDVG für vorrangige Entscheidung bei laufendem Dienst. Bei KDV ist die innere Gewissensentscheidung nicht vollständig beweisbar wie eine äußere Tatsache; sie muss aber persönlich, plausibel und widerspruchsbewusst dargestellt werden. Welche Personengruppe liegt vor: ungedient, wehrpflichtig, FWDL, SaZ, Berufssoldat, Reservist, frühere Soldatin/früherer Soldat oder Sonderfall?
+Lieferstück: Fachvotum zu Vorrang aktive Soldaten mit Tatbestandsmerkmalen, Aktenfundstellen, Beweislast, stärkster Gegenposition, Risiko und ausformulierter Rechtsfolge.
+
+### 16.8. Aktenvernichtung Paragraf 12 KDVG
+
+Bearbeitungsauftrag: Welche Personengruppe liegt vor: ungedient, wehrpflichtig, FWDL, SaZ, Berufssoldat, Reservist, frühere Soldatin/früherer Soldat oder Sonderfall? Gibt es bereits Antrag, Eingangsbestätigung, Personenkennziffer, Musterungsbescheid, BAFzA-Schreiben, Anhörung oder Bescheid? Geht es um Kriegsdienst mit der Waffe als Gewissensproblem oder um Politik, Gesundheit, Angst, Karriere, Familie oder Totalverweigerung?
+Prüfschritte: Schützt Gewissens-, Gesundheits-, Personal- und Verfahrensdaten vor unnötiger Offenlegung; Erklärt Aufbewahrung und Löschung von KDV-Akten.
+Lieferstück: Akten- und Belegmatrix zu Aktenvernichtung Paragraf 12 KDVG mit Datum, Urheber, Fundstelle, Widerspruch, Fehlteil und nächstem Bearbeitungsschritt.
+
+### 16.9. Anschreiben kurz und würdig
+
+Bearbeitungsauftrag: Erstelle ein kurzes Anschreiben mit Artikel 4Berufung und Anlagenliste. Bei KDV ist die innere Gewissensentscheidung nicht vollständig beweisbar wie eine äußere Tatsache; sie muss aber persönlich, plausibel und widerspruchsbewusst dargestellt werden. Welche Personengruppe liegt vor: ungedient, wehrpflichtig, FWDL, SaZ, Berufssoldat, Reservist, frühere Soldatin/früherer Soldat oder Sonderfall?
+Lieferstück: versandfertiges Schreiben mit Betreff, Sachverhaltskern, Rechtsgrund, konkretem Begehren, Frist und Anlagenverzeichnis.
+
+### 16.10. Eilrechtsschutz bei Einberufung
+
+Bearbeitungsauftrag: Prüfe Widerspruch, Klage, Paragraf 75 VwGO, Paragraf 80 VwGO, Paragraf 123 VwGO und besondere KDVG-Fristen. Prüfe Paragraf 80 oder Paragraf 123 VwGO bei drohendem Dienst an der Waffe.
+Lieferstück: Fachvotum zu Eilrechtsschutz bei Einberufung mit Tatbestandsmerkmalen, Aktenfundstellen, Beweislast, stärkster Gegenposition, Risiko und ausformulierter Rechtsfolge.
+
+### 16.11. Widerspruchsfristen Sonderlagen
+
+Bearbeitungsauftrag: Prüfe Widerspruch, Klage, Paragraf 75 VwGO, Paragraf 80 VwGO, Paragraf 123 VwGO und besondere KDVG-Fristen. Prüfe normale und verkürzte Widerspruchsfristen, insbesondere Paragraf 11 KDVG.
+Lieferstück: frist- und formgerechter Entwurf mit Antrag, tragenden Tatsachen, Beweisangeboten, Anlagen und Einreichungsweg.
+
+### 16.12. Ablehnungsbescheid analysieren
+
+Bearbeitungsauftrag: Prüfe Widerspruch, Klage, Paragraf 75 VwGO, Paragraf 80 VwGO, Paragraf 123 VwGO und besondere KDVG-Fristen. Die Antwort muss den konkreten Status, das Datum, die Behörde und die aktuelle Verfahrenslage aufnehmen.
+Lieferstück: Fachvotum zu Ablehnungsbescheid analysieren mit Tatbestandsmerkmalen, Aktenfundstellen, Beweislast, stärkster Gegenposition, Risiko und ausformulierter Rechtsfolge.

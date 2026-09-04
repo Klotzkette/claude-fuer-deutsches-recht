@@ -1,17 +1,20 @@
 ---
 name: konkurrentenschutz-bestenauslese-art-richter
-description: "Für Konkurrentenschutz — Bestenauslese nach Art. 33 Abs. 2 GG: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
+description: "Prüft beamtenrechtlichen Konkurrentenschutz nach GG Artikel 33 Absatz 2: Anforderungsprofil, dienstliche Beurteilungen, Binnendifferenzierung, Auswahlvermerk, Beteiligung und drohende Ernennung. Erstellt Akteneinsichtsantrag, Auswahlmatrix und einen fristgerechten Antrag nach VwGO Paragraf 123."
 ---
 
 # Konkurrentenschutz — Bestenauslese nach Art. 33 Abs. 2 GG
 
-## Arbeitsweg
+## Direktauftrag
 
-- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
-- Fristen und Eilrisiken zuerst markieren: Widerspruch 1 Monat (VwGO § 70), Disziplinarverfahren nach BDG, Beihilfeantrag i.d.R. 1 Jahr, Beförderung-Auswahlentscheidung Bewährungsfristen.
-- Tragende Normen verifizieren: BeamtStG §§ 3, 4, 21-25, 30, 33-41, BBG, BBesG, BeamtVG, LBG der Länder, GG Art. 33 Abs. 4 und 5, BDG, LDG, VwGO §§ 126 ff., LPVG/BPersVG — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
-- Zuständige Stelle bestimmen und Adressaten richtig wählen: Dienstherr (Bund/Land/Kommune), Beamter, Dienstvorgesetzter, Personalrat, Personalvertretung, Disziplinarvorgesetzter, VG, OVG, BVerwG (2. Senat).
-- Dokumente und Beweismittel sammeln und auf Lücken prüfen: Ernennungsurkunde, dienstliche Beurteilung, Konkurrentenklage, Disziplinarverfügung, Versorgungsbescheid, Beihilfeantrag, Personalratsentscheidung — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
+Sichere vor einer Ernennung sofort Auswahlmitteilung, Auswahlvermerk, Stellenausschreibung und dienstliche Beurteilungen. Vergleiche Anforderungsprofil, Statusämter, Beurteilungszeiträume, Gesamturteile, Einzelmerkmale und Hilfskriterien; prüfe Fehlerkausalität und formuliere bei drohendem Vollzug einen Antrag nach VwGO Paragraf 123.
+
+- Start: Vorhandene Dateien zuerst lesen und gesicherte Angaben übernehmen. Im Arbeitsmodus `Fallbearbeitung` unmittelbar mit dem Arbeitsprodukt beginnen: Konkurrentenschutz — Bestenauslese nach Art. 33 Abs. 2 GG-Prüfvermerk mit Ergebnis, Gegenposition, Beleglücken und nächstem Schritt.
+- Tatbestand und Beweis: Ordne jedem entscheidungserheblichen Merkmal einen Aktenfund oder eine ausdrücklich bezeichnete Lücke zu; bloße Plausibilität ersetzt weder Vortrag noch Beweis.
+- Kernnormen: GG Artikel 33 Absatz 2, BBG Paragraf 9 oder BeamtStG Paragraf 9 sowie VwGO Paragraf 123; zusätzlich das jeweils geltende Laufbahn-, Beurteilungs- und Beteiligungsrecht.
+- Rechtsprechung: BVerwG, Beschluss vom 03.03.2025 - 2 VR 4.24: Eine fiktive Fortschreibung dienstlicher Beurteilungen benötigt eine hinreichende gesetzliche Grundlage. BVerwG, Beschluss vom 13.05.2025 - 2 VR 5.24: Ungeklärte Zweifel an der gesundheitlichen Eignung des ausgewählten Bewerbers können den Bewerbungsverfahrensanspruch des Konkurrenten verletzen; aussagekräftige ältere Beurteilungen sind einzubeziehen.
+- Einsatzgrenze: Normfassung und tragende Aussage am amtlichen Volltext prüfen; eine Entscheidung nicht auf andere Tatbestands-, Beweis- oder Verfahrensstufen übertragen.
+- Abschluss: Das Ergebnis muss `Konkurrentenschutz — Bestenauslese nach Art. 33 Abs. 2 GG` konkret beantworten, die stärkste Gegenposition verarbeiten und den nächsten verwendbaren Text, Antrag, Rechenweg oder Vollzugsschritt liefern.
 
 ## 1. Zweck und Anwendungsfall
 

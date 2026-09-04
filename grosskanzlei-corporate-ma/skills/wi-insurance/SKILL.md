@@ -111,11 +111,15 @@ Vor Mandatsarbeit sind Interessenkonflikte nach Paragraf 43a BRAO und Paragraf 3
 
 ## Zentrale Rechtsgrundlagen
 
-- Paragraf 443, 311 BGB — selbständige Garantie als Haftungsgrundlage; W&I-Versicherung tritt als Schuldnerin ein wenn Garantie verletzt
-- Paragraf 61 VVG — Obliegenheitsverletzung bei arglistiger Taeusching: Versicherung kann leistungsfrei werden; gilt auch für bewusste Falschaussagen in Underwriting-Unterlagen
-- Paragraf 123 BGB — arglistige Taeusching durch Verkaeufer: Disclosure Letter schutzt nicht bei Arglist; Versicherer kann Regress nehmen
-- Paragraf 254 BGB — Mitverschulden des Kaeuf ers: mangelnde DD koennte Versicherungsanspruch mindern
-- Art. 22 DSGVO — Entscheidung durch automatisierte Verarbeitung: bei KI-gestuetzter DD koennte Bewertung Versicherungsanspruch beeinflussen; Transparenzpflicht
+- SPA-Garantien und Freistellungen einerseits sowie die W&I-Police andererseits sind getrennte Verträge. Deckung, Ausschlüsse, Selbstbehalt, Wissensdefinition und Regress folgen zuerst dem jeweiligen Wortlaut; Paragraf 443 BGB ist keine allgemeine Anspruchsgrundlage für M&A-Garantien.
+- Paragrafen 19 bis 22 VVG: Vorvertraglich sind die dem Versicherungsnehmer bekannten gefahrerheblichen Umstände anzuzeigen, nach denen der Versicherer in Textform gefragt hat. Rechtsfolge, Monatsfrist, Kausalität und Arglist getrennt prüfen.
+- Paragraf 20 VVG: Wird der Versicherungsvertrag durch einen Vertreter des Versicherungsnehmers geschlossen, werden für die dort genannten Vorschriften Kenntnis und Arglist des Vertreters und des Versicherungsnehmers berücksichtigt. Daraus folgt keine pauschale Zurechnung des Wissens jedes Deal-Team-Mitglieds oder Beraters.
+- Paragraf 28 VVG: Die Vorschrift betrifft die Verletzung einer vertraglich vereinbarten Obliegenheit. Leistungsfreiheit oder Kürzung setzen die vertragliche Anknüpfung sowie die gesetzlichen Voraussetzungen zu Verschulden, Kausalität und gegebenenfalls Belehrung voraus; sie folgen nicht automatisch aus einer Datenraumlücke.
+- Paragrafen 59 und 61 VVG: Erst die Rolle als Versicherungsvertreter oder Versicherungsmakler bestimmen; Paragraf 61 VVG regelt dessen Beratungs- und Dokumentationspflichten und ist keine Leistungsfreiheitsnorm des Versicherers.
+- Paragraf 166 BGB: Wissenszurechnung setzt eine konkrete Vertretung bei der maßgeblichen Willenserklärung voraus. Organ-, Deal-Team-, Makler- und Beraterwissen nicht ohne Prüfung von Funktion, Vollmacht, Police und Knowledge-Definition zusammenziehen.
+- Paragrafen 69 und 70 VVG: Empfangs- und Kenntniszurechnung betreffen den Versicherungsvertreter auf Versichererseite; sie gelten nicht ohne Rollenprüfung für Versicherungsmakler oder sonstige Underwriting-Beteiligte.
+- Paragraf 123 BGB und Paragraf 22 VVG: Eine Anfechtung des Versicherungsvertrags wegen arglistiger Täuschung erfordert eine Täuschung im Versicherungsverhältnis und deren konkrete Zurechnung. Verkäuferarglist begründet nicht automatisch Arglist des Versicherungsnehmers; Regress folgt nur aus den einschlägigen Vertrags- oder Gesetzesregeln.
+- Paragraf 210 VVG: Bei Großrisiken zuerst prüfen, welche VVG-Regeln abdingbar sind und welche abweichenden Police-Klauseln wirksam vereinbart wurden.
 
 ## Aktuelle Rechtsprechung
 
@@ -124,13 +128,13 @@ Vor Mandatsarbeit sind Interessenkonflikte nach Paragraf 43a BRAO und Paragraf 3
 ## Schritt-für-Schritt-Workflow
 
 1. **W&I-Struktur entscheiden:** Buy-side (Kaeufer versichert sich gegen Garantienverletzung des Verkaeuf ers) vs. Sell-side (Verkaeufer versichert seine Haftung); Buy-side in Europa Standard
-2. **Underwriting-Unterlagen zusammenstellen:** Vollstaendiger DD-Report, Red-Flag-Report, Disclosure Letter, DD-Fragenliste und Antworten, SPA-Entwurf
+2. **Underwriting-Unterlagen zusammenstellen:** Vollständiger DD-Report, Red-Flag-Report, Disclosure Letter, SPA-Entwurf sowie jede in Textform gestellte Underwriting-Frage mit der freigegebenen Antwort und ihrem Wissensgeber.
 3. **AI-DD-Transparenz-Erklaerung:** falls KI-gestuetzte Datenraumanalyse eingesetzt — Methodik, Prüftiefe, Human-in-the-loop-Verfahren an Underwriter kommunizieren
-4. **Deckungsausschluesse verhandeln:** bekannte Risiken, Environmental, Cyber, Steuern (oft Teil-Ausschluss), Pension Deficits; Ausschlussliste mit SPA-Risiken abgleichen
+4. **Deckungsausschlüsse verhandeln:** Bekannte Risiken, Umwelt, Cyber, Steuern, Pensionslasten und Rechtsstreitigkeiten positionsgenau zwischen DD-Befund, Disclosure, SPA und Police abgleichen; offene Tatsachen nicht vorschnell als bekannten Schaden behandeln.
 5. **Materiality Auslesen vereinbaren:** bei Auslesen wird die Materiality-Schwelle der SPA-Garantien für Versicherungsansprueche ignoriert
 6. **Synthetic Warranties:** für Garantien, die nicht im SPA stehen, aber Underwriter versichern wollen; separater Synthetic Warranty Schedule
 7. **Bindungsbestaetigung einholen:** Underwriter Confirmation als W&I-Closing CP
-8. **Notification-Pflichten postClosing:** Garantieverletzung innerhalb der Notification-Frist (haeufig 7 Tage nach Kenntnis) dem Versicherer melden
+8. **Anzeige nach dem Versicherungsfall:** Police-Frist, Adressat, Form, Mindestinhalt und maßgebliche Knowledge-Personen feststellen. Eine behauptete Obliegenheitsverletzung nach Paragraf 28 VVG anschließend nach Vertragsklausel, Verschulden, Kausalität und Belehrung prüfen.
 
 ## Entscheidungsbaum
 
@@ -169,9 +173,9 @@ BINDUNGSBESTAETIGUNG FRIST: bis [DATUM]
 
 ## Rote Schwellen
 
-- Unvollstaendiger DD-Report an Underwriter: Underwriter kann Deckung anfechten
-- Bekannte Risiken nicht discloset: Arglist; Versicherung wird leistungsfrei (Paragraf 28 VVG)
-- Notification-Frist versaeumt: Deckungsverlust
+- Unvollständiger DD-Report: Keine automatische Anfechtung unterstellen; konkrete Textformfrage, Kenntnis des Versicherungsnehmers, Zurechnung, Police-Wortlaut und Rechte nach den Paragrafen 19 bis 22 VVG prüfen.
+- Nicht offengelegtes bekanntes Risiko: Vorvertragliche Anzeige nach den Paragrafen 19 bis 22 VVG und vertragliche Obliegenheit nach Paragraf 28 VVG auseinanderhalten; Arglist, Kausalität und Großrisikenregelung gesondert prüfen.
+- Versäumte Anzeige- oder Mitwirkungsfrist: Deckungsverlust nicht pauschal behaupten; wirksame Obliegenheit, Fristbeginn, Verschulden, Kausalität, Belehrung und abweichende Police-Regelung prüfen.
 
 ## Standardausgabe
 

@@ -96,9 +96,7 @@ Entwurfsgriff Arbeitsprodukt: Beschlussvorschlag, Organmemo, Anteilsübertragung
 
 ## 6. Rechtsprechungsanker, Quellenstatus und Risikozuweisung
 
-| Rechtsprechungsanker | Quellenstatus | Nutzwert im Fall |
-| --- | --- | --- |
-| BGH, Beschluss vom 14.06.2016 - II ZB 10/15, betraf Paragraf 166 HGB in der bis Ende 2023 geltenden Fassung | aus Skillmaterial extrahierter Anker; vor Zitierung am Aktenstand oder an belastbarer Quelle sichern | BGH, Beschluss vom 14.06.2016 - II ZB 10/15, betraf Paragraf 166 HGB in der bis Ende 2023 geltenden Fassung |
+- Rechtsprechung nur zitieren, wenn Gericht, Datum und Aktenzeichen sicher sind; sonst als Recherche- und Prüfbedarf mit konkreter Fallfrage markieren.
 - Rechtsfolge zuerst als Arbeitsprodukt denken: Beschlussfassung, Anfechtung, Organhaftung, Registervollzug, Abberufung oder Vergleich
 - Quellenstatus immer sichtbar machen: Aktenfund, Normtext, Profilanker, gesicherte Rechtsprechung oder offene Prüfung.
 
@@ -121,7 +119,7 @@ Entwurfsgriff Arbeitsprodukt: Beschlussvorschlag, Organmemo, Anteilsübertragung
 
 ## 8. Leitentscheidungen
 
-- BGH, Beschluss vom 14.06.2016 - II ZB 10/15, betraf Paragraf 166 HGB in der bis Ende 2023 geltenden Fassung.
+- Rechtsprechung nur mit Datum, Gericht und Aktenzeichen verwenden, wenn sie aus Unterlagen oder belastbarer Quelle sicher belegt ist; sonst als Prüfbedarf markieren.
 
 ## 9. Prüfraster
 
@@ -143,7 +141,7 @@ Entwurfsgriff Arbeitsprodukt: Beschlussvorschlag, Organmemo, Anteilsübertragung
 10.6. Gegenposition: Formuliere die stärkste Verhandlungsposition der anderen Seite; sie setzt typischerweise bei Ladungs- und Beschlussmängeln sowie der Vertretungsmacht an.
 10.7. Rückfallposition: Antworte mit konkreter Alternativfassung, Preis- oder Vollzugsausgleich und zeige die Auswirkung auf Beschlussfassung, Anfechtung, Organhaftung, Registervollzug, Abberufung oder Vergleich.
 10.8. Entwurf und Vollzug: Schließe mit Ausgabe entlang der Kernfelder Fachanwalt Handels Gesellschaftsrecht Geschäftsführerhaftung, Fachanwalt Hgr Dlt Pilotregime Token, Gesellschaftsprozess-Versandmappe endfertigen, Informationsrecht des Kommanditisten prüfen: Kurzvermerk, Prüfmatrix, Entwurf, Fristenblatt oder Fragenliste mit nächstem Schritt; Verantwortlicher, Termin, Bedingung und Erfüllungsnachweis sind ausformuliert.
-10.9. Quellenstatus: Rechtsprechung wird nach Tragweite und Vertragsbezug eingeordnet; erste Fallanker sind BGH, Beschluss vom 14.06.2016 - II ZB 10/15, betraf Paragraf 166 HGB.
+10.9. Quellenstatus: Rechtsprechung wird nach Tragweite und Vertragsbezug eingeordnet; erste Fallanker sind erst nach verifizierter Recherche einzusetzen.
 
 ## 11. Outputvarianten und Empfängerwunsch
 
@@ -195,13 +193,13 @@ Diese Routen stammen aus den konkreten Arbeitsthemen dieses Plugins. Wähle die 
 
 Bearbeitungsauftrag: Ist die Business Judgement Rule anwendbar — handelt es sich um eine unternehmerische Ermessensentscheidung auf angemessener Informationsgrundlage? Besteht eine D&O-Versicherung — bei AG-Vorstand zwingender Selbstbehalt 10 % bis 1.5-faches Festvergütung (Paragraf 93 Absatz 2 S. 3 AktG)? Rechtsprechung: keine Entscheidung aus Modellwissen zitieren.
 Prüfschritte: Welche Rechtsform ist betroffen — GmbH (Paragraf 43 GmbHG), AG (Paragraf 93 AktG), GmbH & Co.
-Norm- oder Entscheidungsbezug aus dem Fachmaterial: Welche Rechtsform ist betroffen — GmbH (Paragraf 43 GmbHG), AG (Paragraf 93 AktG), GmbH & Co; KG (Paragraf 43 GmbHG analog)?
+Normbezug aus dem Fachmaterial: Welche Rechtsform ist betroffen — GmbH (Paragraf 43 GmbHG), AG (Paragraf 93 AktG), GmbH & Co; KG (Paragraf 43 GmbHG analog)?
 Lieferstück: gewichtete Prüfmatrix mit Tatbestandsmerkmalen, Fundstellen, Gegenposition, Beweislast, Risiko und Empfehlung.
 
 ### 16.2. Fachanwalt Hgr Dlt Pilotregime Token
 
 Bearbeitungsauftrag: Welcher Wertpapiertyp soll tokenisiert werden — Inhaberaktie (Paragraf 10 AktG), Namensaktie (Paragraf 67 AktG), Schuldverschreibung oder Investmentanteil? Ist die Satzung der Aktiengesellschaft auf "elektronische Wertpapiere als Krypto-Wertpapiere" ausgerichtet? Sind DORA-Anforderungen (seit 17.1.2025) bereits in der IT-Governance abgebildet?
-Norm- oder Entscheidungsbezug aus dem Fachmaterial: Welcher Wertpapiertyp soll tokenisiert werden — Inhaberaktie (Paragraf 10 AktG), Namensaktie (Paragraf 67 AktG), Schuldverschreibung oder Investmentanteil?
+Normbezug aus dem Fachmaterial: Welcher Wertpapiertyp soll tokenisiert werden — Inhaberaktie (Paragraf 10 AktG), Namensaktie (Paragraf 67 AktG), Schuldverschreibung oder Investmentanteil?
 Lieferstück: Entwurfsbaustein zu Fachanwalt Hgr Dlt Pilotregime Token mit Geschäftsziel, Rechtswirkung, Risikozuweisung, Verhandlungsvariante, Freigabe und Vollzugsschritt.
 
 ### 16.3. Gesellschaftsprozess-Versandmappe endfertigen
@@ -213,7 +211,7 @@ Lieferstück: Entwurfsbaustein zu Gesellschaftsprozess-Versandmappe endfertigen 
 ### 16.4. Informationsrecht des Kommanditisten prüfen
 
 Bearbeitungsauftrag: II ZB 10/15, betraf Paragraf 166 HGB in der bis Ende 2023 geltenden Fassung. Danach war das außerordentliche Informationsrecht an einen wichtigen Grund gebunden und nach Eignung, Erforderlichkeit sowie den Interessen der Gesellschaft zu begrenzen. Januar 2024 erweiterten gesetzlichen Anspruch wieder auf das alte Regelungsmodell zu verkürzen; ihre Abwägungserwägungen können bei Umfang und Missbrauchskontrolle weiterhin Orientierung geben.
-Norm- oder Entscheidungsbezug aus dem Fachmaterial: Prüfe Informations-, Auskunfts- und Einsichtsrechte des Kommanditisten nach dem seit 2024 geltenden Paragraf 166 HGB, ordnet Altgesellschaften und Vertragsklauseln ein und erstellt ein bestimmtes Informationsverlangen samt Erforderlichkeits.
+Normbezug aus dem Fachmaterial: Prüfe Informations-, Auskunfts- und Einsichtsrechte des Kommanditisten nach dem seit 2024 geltenden Paragraf 166 HGB, ordnet Altgesellschaften und Vertragsklauseln ein und erstellt ein bestimmtes Informationsverlangen samt Erforderlichkeits.
 Lieferstück: Entwurfsbaustein zu Informationsrecht des Kommanditisten prüfen mit Geschäftsziel, Rechtswirkung, Risikozuweisung, Verhandlungsvariante, Freigabe und Vollzugsschritt.
 
 ### 16.5. Gesellschaftervertrag

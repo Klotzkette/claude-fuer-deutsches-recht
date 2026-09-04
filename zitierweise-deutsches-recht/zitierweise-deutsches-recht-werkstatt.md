@@ -77,9 +77,9 @@ Arbeitsgriff Arbeitsprodukt: Kurzvermerk, Gutachten, Schriftsatzkern, Mandantenb
 
 | Ebene | Fallfrage | Anker | Sofortausgabe |
 | --- | --- | --- | --- |
-| Arbeitsfrage | Deutsche juristische Zitierweise anwenden (v4.1) | GG Artikel 20 Absatz 3 | Kurzbefund mit Maßstab und offener Annahme |
+| Arbeitsfrage | BVerfG-Entscheidung zitieren | GG Artikel 20 Absatz 3 | Kurzbefund mit Maßstab und offener Annahme |
 | Quellen- und Datenbasis | Fundstellen, Datengrundlage, Geltungsstand und Belastbarkeit | BGB Paragraf 133 und Paragraf 157 | Evidenz- oder Rechenmatrix mit Kontrollspur |
-| Gegenhypothese | BVerfG-Entscheidung zitieren | BGB Paragraf 133 und Paragraf 157 | Argumentvergleich mit tragendem Unterschied |
+| Gegenhypothese | Deutsche juristische Zitierweise anwenden (v4.1) | BGB Paragraf 133 und Paragraf 157 | Argumentvergleich mit tragendem Unterschied |
 | Arbeitsprodukt | Subsumtionsmatrix, Kurzvermerk, Gutachten, Schriftsatzkern, Mandantenbrief oder Zitierkontrolle | Anspruchsteller für anspruchsbegründende Tatsachen und Belegkette; Gegner für Einwendungen; offene Tatsachen niemals durch Rechtsbehauptungen ersetzen | ausformuliertes Gutachten-, Lösungs-, Antrags- oder Bewertungsstück |
 
 ## 5. Maßstäbe, Kernfragen, Evidenz und Folgerung
@@ -135,7 +135,7 @@ Arbeitsgriff Arbeitsprodukt: Kurzvermerk, Gutachten, Schriftsatzkern, Mandantenb
 
 10.1. Arbeitsfrage: Benenne Prüfgegenstand, Maßstab, Adressat und gewünschtes Teilprodukt.
 10.2. Tragender Maßstab: Stelle Norm, Ausschreibungskriterium, Bewertungsmaßstab oder methodische Regel voran; erste Anker sind GG Artikel 20 Absatz 3; BGB Paragraf 133 und Paragraf 157.
-10.3. Kernprüfung: Bearbeite zuerst Deutsche juristische Zitierweise anwenden (v4.1) und formuliere die entscheidende überprüfbare Aussage.
+10.3. Kernprüfung: Bearbeite zuerst BVerfG-Entscheidung zitieren und formuliere die entscheidende überprüfbare Aussage.
 10.4. Fundstelle: Nenne Dokument, Seite, Datensatz, Rechenschritt oder Quelle; im Bereich Juristische Methodik und Arbeitstechnik sind dies regelmäßig die vorgelegte Aufgabenbeschreibung, Datengrundlage, Quellen und Berechnungen.
 10.5. Evidenz: Anspruchsteller für anspruchsbegründende Tatsachen und Belegkette; Gegner für Einwendungen; offene Tatsachen niemals durch Rechtsbehauptungen ersetzen. Trenne Befund, Annahme und Schlussfolgerung.
 10.6. Gegenhypothese: Prüfe die stärkste alternative Erklärung oder Bewertung; sie setzt typischerweise bei welche Tatsache ist für welches Tatbestandsmerkmal entscheidungserheblich an.
@@ -175,8 +175,8 @@ Die Landkarte dient der schnellen Auswahl. Sie ersetzt nicht die darunter ausfor
 
 | Arbeitsfeld | Entscheidende Weiche | Erstes Lieferstück |
 | --- | --- | --- |
-| Deutsche juristische Zitierweise anwenden (v4.1) | Aktiviere ihn, sobald juristische Quellen zitiert, geprüft oder umformatiert werden — in Memos, Schriftsätzen, Mandantenkommunikation oder Belegapparaten. | Teilbefund zu Deutsche juristische Zitierweise anwenden (v4.1) mit Leitfrage, Maßstab, belastbarer Quelle, Gegenhypothese, Unsicherheitsgrad und nächstem Arbeitsschritt |
 | BVerfG-Entscheidung zitieren | Bearbeite BVerfG-Entscheidung zitieren: rechtsfrage, Normmerkmal, Tatsache, Aktenfund, Subsumtion, Gegenargument und Endprodukt zeilenweise verknüpfen. | Teilbefund zu BVerfG-Entscheidung zitieren mit Leitfrage, Maßstab, belastbarer Quelle, Gegenhypothese, Unsicherheitsgrad und nächstem Arbeitsschritt |
+| Deutsche juristische Zitierweise anwenden (v4.1) | Aktiviere ihn, sobald juristische Quellen zitiert, geprüft oder umformatiert werden — in Memos, Schriftsätzen, Mandantenkommunikation oder Belegapparaten. | Teilbefund zu Deutsche juristische Zitierweise anwenden (v4.1) mit Leitfrage, Maßstab, belastbarer Quelle, Gegenhypothese, Unsicherheitsgrad und nächstem Arbeitsschritt |
 | Zit: Internationale Urteile | Bearbeite Zit: Internationale Urteile: rechtsfrage, Normmerkmal, Tatsache, Aktenfund, Subsumtion, Gegenargument und Endprodukt zeilenweise verknüpfen. | entscheidungsreifer Entwurf mit Tenor oder Verfügungssatz, Streitstoff, Beweiswürdigung und Nebenentscheidungen |
 | Paywallfreie, prüfbare Rechtsprechungsbelege ohne Blindzitate | Bearbeite Paywallfreie, prüfbare Rechtsprechungsbelege ohne Blindzitate: rechtsfrage, Normmerkmal, Tatsache, Aktenfund, Subsumtion, Gegenargument und Endprodukt zeilenweise verknüpfen. | Teilbefund zu Paywallfreie, prüfbare Rechtsprechungsbelege ohne Blindzitate mit Leitfrage, Maßstab, belastbarer Quelle, Gegenhypothese, Unsicherheitsgrad. |
 | Leitsatz-Entscheidung | Bearbeite Leitsatz-Entscheidung: rechtsfrage, Normmerkmal, Tatsache, Aktenfund, Subsumtion, Gegenargument und Endprodukt zeilenweise verknüpfen. | Teilbefund zu Leitsatz-Entscheidung mit Leitfrage, Maßstab, belastbarer Quelle, Gegenhypothese, Unsicherheitsgrad und nächstem Arbeitsschritt |
@@ -189,16 +189,16 @@ Die Landkarte dient der schnellen Auswahl. Sie ersetzt nicht die darunter ausfor
 
 Diese Routen stammen aus den konkreten Arbeitsthemen dieses Plugins. Wähle die sachnächste Route, liefere deren ersten verwertbaren Baustein sofort und vertiefe nur die Punkte, die das Ergebnis tatsächlich ändern.
 
-### 16.1. Deutsche juristische Zitierweise anwenden (v4.1)
-
-Bearbeitungsauftrag: Aktiviere ihn, sobald juristische Quellen zitiert, geprüft oder umformatiert werden — in Memos, Schriftsätzen, Mandantenkommunikation oder Belegapparaten. Der Skill ist zuerst eine Halluzinationsbremse: keine Fundstelle ohne echte Quelle. Du prüfst einen vorhandenen Text auf korrekte Zitierweise.
-Prüfschritte: Dieser Arbeitsgang verkörpert die Klotzkette-Hauszitierweise in der Fassung v4.1; Diese Hauszitierweise ist eine pragmatische Repository-Konvention; Sie ist innerhalb dieses Repositories verbindlich, nicht in der Welt; Wissenschaftliche Texte (Dissertationen, Habilitationen, Theoriezeitschriften) verwenden vielfach ausführlichere Notationen; Beide Vorgehen sind legitim, solange dokumentintern konsistent.
-Lieferstück: Teilbefund zu Deutsche juristische Zitierweise anwenden (v4.1) mit Leitfrage, Maßstab, belastbarer Quelle, Gegenhypothese, Unsicherheitsgrad und nächstem Arbeitsschritt.
-
-### 16.2. BVerfG-Entscheidung zitieren
+### 16.1. BVerfG-Entscheidung zitieren
 
 Bearbeitungsauftrag: Bearbeite BVerfG-Entscheidung zitieren: rechtsfrage, Normmerkmal, Tatsache, Aktenfund, Subsumtion, Gegenargument und Endprodukt zeilenweise verknüpfen. Entwirf die im Fachverfahren richtige Entscheidungsform mit bestimmtem Ausspruch, festgestelltem Sachverhalt, offen gelegter Beweiswürdigung, tragender Subsumtion, Nebenentscheidungen und nur tatsächlich statthaftem Rechtsbehelf.
 Lieferstück: Teilbefund zu BVerfG-Entscheidung zitieren mit Leitfrage, Maßstab, belastbarer Quelle, Gegenhypothese, Unsicherheitsgrad und nächstem Arbeitsschritt.
+
+### 16.2. Deutsche juristische Zitierweise anwenden (v4.1)
+
+Bearbeitungsauftrag: Aktiviere ihn, sobald juristische Quellen zitiert, geprüft oder umformatiert werden — in Memos, Schriftsätzen, Mandantenkommunikation oder Belegapparaten. Der Skill ist zuerst eine Halluzinationsbremse: keine Fundstelle ohne echte Quelle. Du prüfst einen vorhandenen Text auf korrekte Zitierweise.
+Prüfschritte: Dieser Arbeitsgang verkörpert die Klotzkette-Hauszitierweise in der Fassung v4.1; Diese Hauszitierweise ist eine pragmatische Repository-Konvention; Sie ist innerhalb dieses Repositories verbindlich, nicht in der Welt; Wissenschaftliche Texte (Dissertationen, Habilitationen, Theoriezeitschriften) verwenden vielfach ausführlichere Notationen.
+Lieferstück: Teilbefund zu Deutsche juristische Zitierweise anwenden (v4.1) mit Leitfrage, Maßstab, belastbarer Quelle, Gegenhypothese, Unsicherheitsgrad und nächstem Arbeitsschritt.
 
 ### 16.3. Zit: Internationale Urteile
 

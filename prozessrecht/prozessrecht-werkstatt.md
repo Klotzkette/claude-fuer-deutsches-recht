@@ -80,7 +80,7 @@ Entscheidungsgriff Arbeitsprodukt: Klageschrift, Klageerwiderung, Hinweisverfüg
 | Streit- und Verfahrenskern | Klage, Streitgegenstand und bestimmter Antrag | ZPO Paragraf 253 | richterlicher Arbeitsvermerk mit nächster Verfügung |
 | Zulässigkeit und Gehör | Antrag, Zuständigkeit, Parteistellung, Frist und Anhörung | ZPO Paragraf 130, Paragraf 130a und Paragraf 130d | Hinweis-, Auflagen- oder Zwischenentscheidungsentwurf |
 | Beweis und Würdigung | Rechtsweg, Zuständigkeit und Verweisung | Kläger für schlüssigen Vortrag und Beweisangebot; Beklagter für erhebliche Einwendungen; Gericht führt über Hinweise und Beweisbeschluss | Beweisplan oder Beweisbeschluss mit Entscheidungsreife |
-| Tenor und Anschluss | Klage, Erwiderung, Relation, Hinweisverfügung, Beweisbeschluss, Urteil, Tenor oder Anlagenverzeichnis | BGH, Urteil vom 18.04.2013 - III ZR 156/12 | Tenor, Gründe, Kosten, Vollstreckbarkeit und Rechtsmittelbelehrung |
+| Tenor und Anschluss | Klage, Erwiderung, Relation, Hinweisverfügung, Beweisbeschluss, Urteil, Tenor oder Anlagenverzeichnis | ZPO Paragraf 130, Paragraf 130a und Paragraf 130d | Tenor, Gründe, Kosten, Vollstreckbarkeit und Rechtsmittelbelehrung |
 
 ## 5. Rechtsanker, Entscheidungsmerkmale, Beweislast und Tenorfolge
 
@@ -96,11 +96,7 @@ Entscheidungsgriff Arbeitsprodukt: Klageschrift, Klageerwiderung, Hinweisverfüg
 
 ## 6. Rechtsprechungsanker, Quellenstatus und Entscheidungswirkung
 
-| Rechtsprechungsanker | Quellenstatus | Nutzwert im Fall |
-| --- | --- | --- |
-| BGH, Urteil vom 18.04.2013 - III ZR 156/12 | aus Skillmaterial extrahierter Anker; vor Zitierung am Aktenstand oder an belastbarer Quelle sichern | Die Möglichkeit eines Kostenantrags nach Paragraf 269 Abs. 3 Satz 3 und Abs. 4 ZPO hindert eine materiell-rechtliche Kostenerstattungsklage nicht; der summarische Kostenweg ist nicht gleich sicher und wirkungsvoll |
-| BGH, Beschluss vom 13.12.2006 - XII ZB 71/04 | aus Skillmaterial extrahierter Anker; vor Zitierung am Aktenstand oder an belastbarer Quelle sichern | Die Entscheidung behandelt Auslegung, Umdeutung und Widerruf einer Klagerücknahme sowie die Unverzüglichkeit nach dem damaligen Paragraf 269 Absatz 3 Satz 3 ZPO |
-| BGH, Beschluss vom 11.01.2022 - VIII ZB 44/21 | aus Skillmaterial extrahierter Anker; vor Zitierung am Aktenstand oder an belastbarer Quelle sichern | Paragraf 269 Absatz 3 Satz 2 Halbsatz 2 Alternative 2 ZPO erlaubt grundsätzlich nicht, einen gegenläufigen materiell-rechtlichen Kostenerstattungsanspruch in die prozessuale Kostenentscheidung einzubauen |
+- Rechtsprechung nur zitieren, wenn Gericht, Datum und Aktenzeichen sicher sind; sonst als Recherche- und Prüfbedarf mit konkreter Fallfrage markieren.
 - Rechtsfolge zuerst als Arbeitsprodukt denken: Klage, Erwiderung, Relation, Hinweisverfügung, Beweisbeschluss, Urteil, Tenor oder Anlagenverzeichnis
 - Quellenstatus immer sichtbar machen: Aktenfund, Normtext, Profilanker, gesicherte Rechtsprechung oder offene Prüfung.
 
@@ -117,16 +113,14 @@ Entscheidungsgriff Arbeitsprodukt: Klageschrift, Klageerwiderung, Hinweisverfüg
 - Paragrafen 339 ff; im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
 - Paragraf 257 HGB; Paragraf 147 AO (Aufbewahrungsfristen); im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
 - Paragraf 274 StGB (Urkundenunterdrückung), Paragraf 339 StGB (Rechtsbeugung, nur für Richter und Beamte); im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
-- Paragrafen 675 und 666 BGB — Auskunft und Rechenschaft aus dem anwaltlichen Geschäftsbesorgungsvertrag; im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
+- Paragrafen 675 und 666 BGB — Auskunft und Rechenschaft aus dem anwaltlichen Geschäftsbesorgungsvertrag; der externe Bevollmächtigte teilt erforderliche Nachrichten mit und gibt auf Verlangen Auskunft über den Bearbeitungsstand; im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
 - Paragraf 43a Absatz 4 BRAO — Verbot der Vertretung widerstreitender Interessen; vor einer Statusweitergabe ist zu prüfen, ob Mandate, Beteiligte oder Informationsräume kollidieren; im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
 - Paragraf 43a Abs. 2 BRAO — Vertraulichkeit; die Statuskorrespondenz mit externen Bevollmächtigten ist durch die gemeinsame Verschwiegenheitspflicht geschützt; im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
 - Paragraf 49b BRAO; Paragrafen 2 ff; im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
 
 ## 8. Leitentscheidungen
 
-- BGH, Urteil vom 18.04.2013 - III ZR 156/12: Die Möglichkeit eines Kostenantrags nach Paragraf 269 Abs. 3 Satz 3 und Abs. 4 ZPO hindert eine materiell-rechtliche Kostenerstattungsklage nicht; der summarische Kostenweg ist nicht gleich sicher und wirkungsvoll.
-- BGH, Beschluss vom 13.12.2006 - XII ZB 71/04: Die Entscheidung behandelt Auslegung, Umdeutung und Widerruf einer Klagerücknahme sowie die Unverzüglichkeit nach dem damaligen Paragraf 269 Absatz 3 Satz 3 ZPO.
-- BGH, Beschluss vom 11.01.2022 - VIII ZB 44/21: Paragraf 269 Absatz 3 Satz 2 Halbsatz 2 Alternative 2 ZPO erlaubt grundsätzlich nicht, einen gegenläufigen materiell-rechtlichen Kostenerstattungsanspruch in die prozessuale Kostenentscheidung einzubauen.
+- Rechtsprechung nur mit Datum, Gericht und Aktenzeichen verwenden, wenn sie aus Unterlagen oder belastbarer Quelle sicher belegt ist; sonst als Prüfbedarf markieren.
 
 ## 9. Prüfraster
 
@@ -148,7 +142,7 @@ Entscheidungsgriff Arbeitsprodukt: Klageschrift, Klageerwiderung, Hinweisverfüg
 10.6. Gegenposition: Formuliere den stärksten Gegenantrag oder die tragfähigste abweichende Würdigung; sie setzt typischerweise bei Substantiierung, Beweisantritt und Präklusion an.
 10.7. Würdigung: Antworte mit Aktenbeleg, Beweiswürdigung, Auslegung oder Beweislastregel und ziehe die Folge auf Klage, Erwiderung, Relation, Hinweisverfügung, Beweisbeschluss, Urteil, Tenor oder Anlagenverzeichnis.
 10.8. Förmliches Produkt: Schließe mit Relationszeile: Anspruch, Klägertatsache, Bestreiten, Einwendung, Replik, Beweislast, Beweismittel und Entscheidung als Tabelle; Hinweisverfügung: Das Gericht weist darauf hin, dass [Punkt] bisher nicht schlüssig/erheblich/beweisbelegt ist; Frist bis [Datum]; Rubrum, Tenor, Gründe, Nebenentscheidungen und Anschlussverfügung müssen zusammenpassen.
-10.9. Rechtsprechungsstatus: Ordne jede Entscheidung nach Bindungswirkung und Aussagekern ein; erste Fallanker sind BGH, Urteil vom 18.04.2013 - III ZR 156/12; BGH, Beschluss vom 13.12.2006 - XII ZB 71/04.
+10.9. Rechtsprechungsstatus: Ordne jede Entscheidung nach Bindungswirkung und Aussagekern ein; erste Fallanker sind erst nach verifizierter Recherche einzusetzen.
 
 ## 11. Outputvarianten und Empfängerwunsch
 

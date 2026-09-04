@@ -29,9 +29,9 @@ Diese Unterlagenprüfung für **Insolvenzrecht** benennt fehlende Dokumente, str
 
 ## Arbeitsweg
 
-- Sollkatalog aufstellen: Welche Dokumente brauche ich für die konkrete Insolvenzrecht-Frage zwingend (Insolvenzantrag, Gläubigerverzeichnis, Forderungsanmeldung, Insolvenztabelle, Berichts- und Schlusstermin, Insolvenzplan, Restrukturierungsplan (StaRUG))?
+- Sollkatalog aufstellen: Welche Dokumente brauche ich für die konkrete Insolvenzrechtsfrage zwingend (Insolvenzantrag, Eröffnungsbeschluss mit Anmeldefrist, Gläubigerverzeichnis, Forderungsanmeldung, Insolvenztabelle, Protokolle des Berichts- und Prüfungstermins, Verteilungsverzeichnis nach Paragraf 188 InsO, Schlussrechnung und Beschluss zum Schlusstermin nach Paragraf 197 InsO, Insolvenzplan oder Restrukturierungsplan nach dem StaRUG)?
 - Ist-Abgleich: Welche Dokumente sind vorhanden, welche fehlen, welche sind unvollständig, undatiert oder ohne Unterschrift?
-- Lückenliste priorisieren nach: fristrelevant (§ 15a Abs. 1 InsO Antragsfrist 3 Wochen bei ZU, 6 Wochen bei Überschuldung, § 28 InsO Anmeldefrist, § 188 InsO Schlusstermin), beweisrelevant, formerheblich.
+- Lückenliste priorisieren nach: fristrelevant (Antragspflicht nach Paragraf 15a Absatz 1 InsO ohne schuldhaftes Zögern, gesetzliche Höchstgrenzen von drei Wochen bei Zahlungsunfähigkeit und sechs Wochen bei Überschuldung, gerichtliche Anmeldefrist nach Paragraf 28 Absatz 1 InsO), beweisrelevant und formerheblich. Verteilungsverzeichnis nach Paragraf 188 InsO und Schlusstermin nach Paragraf 197 InsO nicht verwechseln.
 - Rückfrageschreiben an Schuldner, IV/SV/Restrukturierungsbeauftragter, Gläubigerausschuss, Insolvenzgericht, Gläubiger, Geschäftsführer (§ 15a-Adressat) entwerfen — Wer hat das Dokument, woher kann es beschafft werden, bis wann?
 - Bei behördlichen Lücken: Akteneinsichtsrecht (z. B. § 29 VwVfG, § 147 StPO, § 25 SGB X) prüfen und nutzen.
 

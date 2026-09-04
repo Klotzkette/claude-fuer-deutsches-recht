@@ -142,11 +142,6 @@ Arbeitsgriff Arbeitsprodukt: Widerspruch, Klage, Eilantrag, Befundanforderung od
 - BVerfG, Beschluss vom 06.12.2005 - 1 BvR 347/98: lebensbedrohliche oder regelmäßig tödliche Erkrankungen können Leistungsansprüche der Krankenversicherung verfassungsrechtlich verdichten.
 - BSG, Urteil vom 30.01.2019 - B 14 AS 24/18 R: Vergleichsraum und schlüssiges Konzept für abstrakt angemessene Unterkunftskosten sind gerichtlich voll überprüfbar, dürfen aber nicht durch ein gerichtliches Ersatzkonzept ersetzt werden.
 - BSG, Urteil vom 08.08.2019 - B 3 KR 21/18 R: Beim Elektrorollstuhl sind Behinderungsausgleich und gegebenenfalls die umfassende Zuständigkeit des zuerst angegangenen Rehabilitationsträgers zu prüfen; die Genehmigungsfiktion trägt den Teilhabeanspruch nicht ohne Weiteres.
-- BSG, Urteil vom 07.05.2020 - B 3 KR 7/19 R: Das Grundbedürfnis nach Mobilität im Nahbereich ist beim Behinderungsausgleich nicht auf eine Minimalversorgung zu verengen; maßgeblich ist die zumutbare und angemessene Erschließung im Einzelfall.
-- BSG, Urteil vom 18.04.2024 - B 3 KR 14/23 R: Ein motorunterstütztes Rollstuhlzuggerät kann ohne Eigenanteil geschuldet sein, wenn es die selbstbestimmte Erschließung des konkreten Nahbereichs unter Einsatz eigener Körperkraft ermöglicht.
-- BSG, Urteil vom 28.05.2019 - B 1 KR 32/18 R, frei nachweisbar über sozialgerichtsbarkeit.de/dejure: Krankenhausbehandlung und neue Methoden verlangen die Abgrenzung von Standard, Potential und Einzelfallanspruch.
-- BVerfG, Urteil vom 18.07.2012 - 1 BvL 10/10 und 1 BvL 2/11, BVerfGE 132, 134: Das menschenwürdige Existenzminimum darf nicht migrationspolitisch relativiert werden.
-- BVerfG, 19.05.1992 - 1 BvR 986/91: keine unerwartete Entscheidungswendung ohne Gehör.
 
 ## 9. Prüfraster
 

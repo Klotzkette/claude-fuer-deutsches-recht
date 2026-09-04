@@ -3,7 +3,7 @@ name: oeffentlicher-dienst-vbl-und-zusatzversorgung
 description: "Für oeffentlicher-dienst-vbl-und-zusatzversorgung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
-# oeffentlicher-dienst-vbl-und-zusatzversorgung
+# Öffentlicher Dienst: VBL und Zusatzversorgung
 
 ## Aufgabe
 

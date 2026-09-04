@@ -33,8 +33,8 @@ Ohne verwertbares Material genau eine gebündelte Frage zu Status und Dienstherr
 | Punkt | Sofortgriff |
 | --- | --- |
 | Normenanker | GG Artikel 33 Absatz 2 und Absatz 5; BeamtStG und jeweiliges Landesbeamtengesetz oder BBG; Bundes- oder Landeslaufbahnrecht |
-| Rechtsprechung | BVerwG, 11.10.2016 - 2 C 11.15 als verifizierter Anker zu Art. 33; BVerfG, 05.05.2015 - 2 BvL 17/09 u.a |
-| Tatbestand | Ernennung, Statusamt, Funktion, Laufbahn, Dienststelle, anwendbares Bundes- oder Landesrecht und Stichtag |
+| Rechtsprechung | BVerwG, Beschluss vom 03.03.2025 - 2 VR 4.24; BVerwG, Beschluss vom 13.05.2025 - 2 VR 5.24 |
+| Tatbestand | Ernennung, Statusamt, Funktion, Laufbahn, Dienststelle, anwendbares Bundes- oder Landesrecht und Stichtag feststellen |
 | Beweislast | Darlegungs- und Nachweisfrage für Beamten-, Richterdienst-, Besoldungs- und Versorgungsrecht: Welche dienstlichen und medizinischen Tatsachen sind durch welche Akte oder welches Gutachten belegt |
 | Rechtsfolge | Widerspruch, Konkurrenteneilantrag, Beurteilungseinwand, Gutachtenfragen, Besoldungsantrag oder Disziplinarerwiderung erstellen |
 | Quellenstatus | Aktenfund, Normtext, Profilanker oder sicher belegte Entscheidung offen kennzeichnen; unsichere Aktenzeichen nicht ergänzen |
@@ -43,9 +43,10 @@ Ohne verwertbares Material genau eine gebündelte Frage zu Status und Dienstherr
 
 | Feld | Sofortgriff | Ausgabe |
 | --- | --- | --- |
-| Status und Dienstherr | Ernennung, Statusamt, Funktion, Laufbahn, Dienststelle, anwendbares Bundes- oder Landesrecht und Stichtag. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Status und Dienstherr | Ernennung, Statusamt, Funktion, Laufbahn, Dienststelle, anwendbares Bundes- oder Landesrecht und Stichtag feststellen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
 | Personalentscheidung | Anforderungsprofil, Bewerberkreis, Beurteilungen, Auswahlvermerk, Beteiligungen und Ernennungsstand prüfen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Dienst und Gesundheit | Weisung, Beschäftigung, Arbeitszeit, Fürsorge, Dienstunfall, Dienstfähigkeit, Gutachten und anderweitige. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Dienst und Gesundheit | Weisung, Beschäftigung, Arbeitszeit, Fürsorge, Dienstunfall, Dienstfähigkeit, Gutachten und anderweitige Verwendung ordnen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+
 
 ## 6. Anker
 
@@ -55,7 +56,8 @@ Ohne verwertbares Material genau eine gebündelte Frage zu Status und Dienstherr
 - Bundes- oder Landesbesoldungs- und Versorgungsrecht: Amt, Stufe, Zuschlag, Ruhegehalt, Anrechnung und Stichtag.
 - Art. 33 Abs. 2 GG: Bestenauslese nach Eignung, Befähigung und fachlicher Leistung; im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
 - Art. 74 Abs. 1 Nr. 27 GG und Art. 70 GG: Statusrechtliche Bundeskompetenz, Laufbahn/Besoldung/Versorgung der Länder grundsätzlich Landesrecht; im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
-- Art. 98 Abs. 2 GG: Wenn ein Bundesrichter im Amt oder außer Amts gegen die Grundsätze des Grundgesetzes oder gegen die verfassungsmäßige Ordnung verstößt, kann; im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
+- Art. 98 Abs. 5 GG ermöglicht analoge Vorschriften in den Ländern; landesrechtliche Vorschriften unterschiedlich; im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
+- Art. 97 GG, Art. 98 GG, Art. 101 GG, Paragraf 21e GVG sowie DRiG Paragrafen 25, 26, 39, 61 ff; im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
 
 ## 7. Antwortform
 

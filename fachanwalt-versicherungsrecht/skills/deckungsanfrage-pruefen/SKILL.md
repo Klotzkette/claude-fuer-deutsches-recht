@@ -1,321 +1,114 @@
 ---
 name: deckungsanfrage-pruefen
-description: "Für Prüfung von Versicherungsschadenfällen und Deckungsablehnungen nach VVG: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
+description: "Prüft Deckung, Fälligkeit und Einwendungen des Versicherers anhand von Police, AVB und Versicherungsfall; trennt Schadensanzeige, Auskunft, vertragliche Obliegenheit sowie vorvertragliche Anzeigepflicht und erstellt die passende Leistungsanforderung."
 ---
 
-# Prüfung von Versicherungsschadenfaellen und Deckungsablehnungen nach VVG
-
-
-## Arbeitsweg
+# Deckungsanfrage und Leistungsablehnung prüfen
 
-- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
-- Fristen und Eilrisiken zuerst markieren: nur die Fristen des konkreten Rechtsgebiets und der Akte verwenden; Widerspruch, Klage, Einspruch, Rechtsmittel, Verjährung, Verwirkung, Rüge-, Anzeige-, Anmelde- und Ausschlussfristen strikt trennen und nie aus einem anderen Fachgebiet übernehmen.
-- Tragende Normen verifizieren: SGB V §§ 27, 39, 92, 109, 137, 295, 301, RisikoStruktAusglV, SGB IV, SGB X, SGG — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
-- Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
-- Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
+## 1. Direktauftrag
 
-**Fokus:** Prüfung von Versicherungsschadenfaellen und Deckungsablehnungen nach VVG. Anwendungsfall Versicherung hat Leistung abgelehnt oder eingeschraenkt und Mandant will wissen ob Klage Aussicht hat. Normen §§ 1 28 VVG § 19 VVG vorvertragliche Anzeigepflicht § 81 VVG grob fahrlässig § 14 VVG Fälligkeit. Prüfraster Versicherungsfall-Definition Bedingungswerk Obliegenheitsverletzung Risikoausschluss Vorsatz grobe Fahrlässigkeit Kausalität Stichtage. Output Strukturierte Stellungnahme zur Deckungsablehnung mit AVB-Auslegung nach §§ 305 ff. BGB Handlungsempfehlung und Klageeinschaetzung. Abgrenzung zu fachanwalt-versicherungsrecht-leistungsablehnung-prüfen und klage-versicherer-strategie.
+Lies zuerst Police, vollständige AVB-Fassung, Nachträge, Antrag und Gesundheits- oder Risikofragen, Schadensanzeige, Auskunftsverlangen, eingereichte Belege und Ablehnungsschreiben. Erstelle eine Zeitachse von Vertragsschluss, Versicherungsfall, Kenntnis, Anzeige, Nachfragen, Antworten und Leistungsentscheidung. Frage nur nach Unterlagen, deren Fehlen eine konkrete Deckungs- oder Fristfrage offenlässt.
 
-### Deckungsanfrage prüfen
-
-## Kaltstart-Rückfragen
+## 2. Eingangsweichen
 
-1. Welche Versicherungssparte — Hausrat, Gebäude, Haftpflicht, BU, Leben, Kranken, Rechtsschutz, Kfz-Kasko, Cyber, D&O? Die Sparte bestimmt den Prüfpfad.
-2. Wann ist der Versicherungsfall eingetreten und wann wurde dem Versicherer angezeigt? Anzeigepflicht § 30 VVG; Fristversäumnis kann Obliegenheitsverletzung sein.
-3. Welche Ablehnungsgründe nennt der Versicherer im Schreiben — vorvertragliche Anzeigepflicht § 19 VVG, Obliegenheitsverletzung §§ 28/31 VVG, grob fahrlässige Herbeiführung § 81 VVG, Risikoausschluss, Versicherungsfall-Definition, Unterversicherung § 75 VVG?
-4. Liegt das vollständige Bedingungswerk (AVB, Tarif, sämtliche Zusätze) in der geltenden Fassung zum Vertragsschluss vor?
-5. Wurden die Antragsfragen schriftlich gestellt und beantwortet — vollständiger Antragsfragebogen vorhanden?
-6. Bestehen Beweismittel für den Schaden — Polizeibericht, Fotos, Sachverständigengutachten, ärztliche Atteste, Rechnungen?
-7. Hat der Versicherer gemäß § 14 VVG den Schaden nach Abschluss der nötigen Erhebungen fällig gestellt oder verzögert?
-8. Wurde die Ombudsstelle Versicherungen eingeschaltet (hemmt Verjährung § 204 BGB)?
-- **Was will der Mandant wirklich erreichen?** (Nicht: was steht im Standardweg, sondern: welches Ergebnis ist für den Mandanten persoenlich/wirtschaftlich das beste? Manchmal ist der schnellere Vergleich besser als der formal "richtige" Weg.)
+1. Versicherungssparte und versichertes Interesse bestimmen.
+2. Primären Deckungstatbestand, räumlichen und zeitlichen Geltungsbereich sowie Versicherungssumme feststellen.
+3. Einwendungen des Versicherers einzeln zuordnen: Risikoausschluss, vorvertragliche Anzeigepflicht, vertragliche Obliegenheit, Auskunftspflicht, Herbeiführung des Versicherungsfalls, Unterversicherung oder fehlende Fälligkeit.
+4. Für jeden Einwand Norm, AVB-Klausel, Tatsachenkern, Beleg, Beweislast und Rechtsfolge getrennt ausweisen.
+5. Erst danach das passende Arbeitsprodukt wählen: Deckungsanfrage, Erwiderung auf Ablehnung, Abschlagsverlangen, Klageentwurf oder Vergleichsvorschlag.
 
-## Rechtsgrundlagen
+## 3. Deckung und AVB
 
-### Normtexte (Kernauszug)
+### 3.1 Primärer Versicherungsschutz
 
-- **§ 1 VVG** — Versicherer verpflichtet sich, das vereinbarte Risiko zu tragen; VN zahlt Prämie.
-- **§ 14 Abs. 1 VVG** — Fälligkeit: Leistung des Versicherers wird nach Abschluss der zur Feststellung des Versicherungsfalls und des Umfangs der Leistung nötigen Erhebungen fällig. Keine Verzögerung durch unnötige Prüfungen.
-- **§ 14 Abs. 2 VVG** — Abschlagszahlung: Steht Leistungspflicht dem Grunde nach fest, kann VN nach einem Monat Abschlagszahlung verlangen.
-- **§ 19 VVG** — Vorvertragliche Anzeigepflicht: VN hat vor Vertragsschluss gefahrerhebliche Umstände, nach denen der Versicherer schriftlich gefragt hat, anzuzeigen. Unvollständige Antwort kann Rücktritt, Kündigung, Anpassung oder Leistungsfreiheit (§ 21 VVG) begründen; bei Vorsatz: Leistungsfreiheit (§ 21 Abs. 2 VVG).
-- **§ 21 VVG** — Rechtsfolgen Anzeigepflicht-Verletzung; Rücktritt (§ 21 Abs. 1), Kündigung (§ 21 Abs. 3), Anpassung (§ 19 Abs. 4); Ausschluss bei Kenntnis des Versicherers.
-- **§ 28 VVG** — Obliegenheitsverletzung nach Vertragsschluss; Leistungsfreiheit nur bei Vorsatz oder grober Fahrlässigkeit; bei einfacher Fahrlässigkeit quotale Leistung; Kausalitätserfordernis (Ausnahme bei Arglist).
-- **§ 31 VVG** — Auskunfts- und Belegpflicht; unverzügliche Meldepflicht; korrekte Auskunft über schadensrelevante Umstände.
-- **§ 75 VVG** — Unterversicherung; proportionale Kürzung der Leistung.
-- **§ 81 VVG** — Herbeiführung des Versicherungsfalls; Vorsatz: keine Leistung; grobe Fahrlässigkeit: quotale Kürzung nach Schwere.
-- **§ 86 VVG** — Regress des Versicherers auf Dritte; Forderungsübergang nach Leistung.
-- **§§ 305–310 BGB** — AGB-Kontrolle; § 305c Abs. 2 BGB Unklarheitenregel gegen Verwender; § 307 BGB Intransparenz.
+1. Der Versicherungsnehmer muss den Eintritt des Versicherungsfalls nach der vereinbarten primären Risikobeschreibung und den beanspruchten Leistungsumfang darlegen und beweisen.
+2. Versicherungsbeginn, Prämienstatus, Nachträge, Wartezeiten und vereinbarte Selbstbehalte anhand der Urkunden feststellen.
+3. Risikoausschlüsse nicht in die primäre Deckungsbeschreibung hineinlesen. Der Versicherer trägt grundsätzlich die Darlegungs- und Beweislast für die Voraussetzungen eines Ausschlusses.
+4. AVB aus Sicht eines durchschnittlichen, um Verständnis bemühten Versicherungsnehmers auslegen. Wortlaut, erkennbarer Sinnzusammenhang, Unklarheitenregel des Paragrafen 305c Absatz 2 BGB und Transparenzkontrolle des Paragrafen 307 BGB getrennt prüfen.
 
-### Leitentscheidungen (Stand Mai 2026; jeweils Volltext in offener Quelle aufrufen)
+### 3.2 Schadensanzeige, Auskunft und Obliegenheit auseinanderhalten
 
-| Gericht | Aktenzeichen | Datum | Kernaussage | Offene Quelle |
-|---|---|---|---|---|
-| BGH IV. ZS | IV ZR 153/20 | 14.7.2021 | Versicherungsfall BU: Eintritt nach Ablauf der bedingungsgemäßen sechs-monatigen Prognosezeit | juris.bundesgerichtshof.de |
-| BGH IV. ZS | IV ZR 32/24 | 12.3.2025 | Krankentagegeld: Ersetzung unwirksamer Versicherungsbedingungen nach Paragraf 164 Absatz 1 VVG setzt mindestens die Voraussetzungen ergänzender Vertragsauslegung voraus | bundesgerichtshof.de |
-| BGH IV. ZS | IV ZR 70/25 | 22.4.2026 | PKV-Beitragsanpassung: keine zusätzliche Mitteilung erforderlich, dass die Veränderung der Rechnungsgrundlage nicht nur vorübergehend ist; materielle Darlegungs- und Beweislast beim Versicherer | juris.bundesgerichtshof.de |
-| BGH IV. ZS | IV ZR 86/24 | 15.10.2025 | Verkehrs-Rechtsschutz: Unklare VRB-Klauseln zur Ersatzfahrzeuganschaffung gehen nach Paragraf 305c Absatz 2 BGB zulasten des Versicherers | bundesgerichtshof.de |
-| BGH VI. ZS | VI ZR 183/22 | 28.1.2025 | DSGVO-Schadensersatz hat nur Ausgleichsfunktion, keine Straffunktion (SCHUFA) | juris.bundesgerichtshof.de |
+1. Schadensanzeige nach Paragraf 30 VVG: Der Versicherungsfall ist nach Kenntnis unverzüglich anzuzeigen. Prüfe tatsächliche Kenntnis, Anzeigezeitpunkt, Inhalt und Zugang. Hat der Versicherer rechtzeitig anderweitig Kenntnis erlangt, ist Paragraf 30 Absatz 2 VVG einzubeziehen.
+2. Auskunft und Belege nach Paragraf 31 VVG: Erst ein Verlangen des Versicherers eröffnet die gesetzliche Auskunftspflicht. Erfasst sind nur Informationen, die zur Feststellung des Versicherungsfalls oder des Leistungsumfangs erforderlich sind, und Belege, deren Beschaffung billigerweise zugemutet werden kann.
+3. Vertragliche Obliegenheit nach Paragraf 28 VVG: Zuerst wirksame AVB-Klausel, Pflichtinhalt, Zeitpunkt und Verschulden bestimmen. Vorsatz kann bei entsprechender Vereinbarung zur Leistungsfreiheit führen; grobe Fahrlässigkeit erlaubt eine verschuldensangemessene Kürzung. Einfache Fahrlässigkeit löst nach Paragraf 28 Absatz 2 VVG keine Quote aus.
+4. Kausalitätsgegenbeweis nach Paragraf 28 Absatz 3 VVG: Die Leistung bleibt geschuldet, soweit die Verletzung weder für Eintritt oder Feststellung des Versicherungsfalls noch für Feststellung oder Umfang der Leistungspflicht ursächlich war. Bei Arglist greift diese Ausnahme nicht.
+5. Belehrung nach Paragraf 28 Absatz 4 VVG: Bei einer nach dem Versicherungsfall bestehenden vertraglichen Auskunfts- oder Aufklärungsobliegenheit setzt vollständige oder teilweise Leistungsfreiheit eine gesonderte Mitteilung in Textform über diese Rechtsfolge voraus.
+6. Die Schadensanzeige darf nicht als Auskunftsverlangen behandelt werden; ein unvollständig beantwortetes Auskunftsverlangen darf nicht ohne Prüfung einer vertraglichen Obliegenheit unmittelbar in Paragraf 28 VVG eingeordnet werden.
 
-Hinweis: Reihenfolge neueste zuerst. Vor Versand jedes Aktenzeichen in offener Quelle (juris.bundesgerichtshof.de, dejure.org, openjur.de) aufrufen und Randnummer einsetzen.
+### 3.3 Fälligkeit und Abschlagszahlung nach Paragraf 14 VVG
 
-## Prüfschema in Tabellenform
+1. Die Geldleistung wird kraft Gesetzes fällig, sobald die zur Feststellung des Versicherungsfalls und des Leistungsumfangs notwendigen Erhebungen beendet sind. Der Versicherer stellt den Anspruch nicht erst durch eine eigene Erklärung fällig.
+2. Für jede noch offene Erhebung angeben, weshalb sie notwendig ist, wer sie beschaffen kann und ob der Versicherer die Prüfung ohne sachlichen Grund verzögert.
+3. Sind die Erhebungen einen Monat nach Anzeige des Versicherungsfalls noch nicht beendet, kann der Versicherungsnehmer einen Abschlag in Höhe des Betrags verlangen, den der Versicherer voraussichtlich mindestens zahlen muss.
+4. Ein bereits dem Grunde nach vollständig feststehender Anspruch ist keine zusätzliche Voraussetzung des Paragrafen 14 Absatz 2 VVG. Entscheidend ist ein belastbar bestimmbarer Mindestbetrag.
+5. Der Monatslauf ist nur gehemmt, solange die Erhebungen infolge eines Verschuldens des Versicherungsnehmers nicht beendet werden können.
+6. Verzug und Verzugszinsen erst auf der Grundlage von Fälligkeit, Zugang einer Mahnung oder eines gesetzlichen Mahnungsersatzes und der richtigen Zinsnorm berechnen.
 
-**Vorab:** Der untenstehende ist die typische Standardlinie. Wenn die Mandantenlage abweicht (siehe "Strategische Optionen" oben), sind die Schritte entsprechend zu verkuerzen, umzustellen oder durch ein anderes Skill zu ersetzen — der ist Leitfaden, nicht Pflichtprogramm.
+### 3.4 Vorvertragliche Anzeigepflicht nach den Paragrafen 19, 21 und 22 VVG
 
-| Nr. | Prüfschritt | Norm | Ergebnis / Konsequenz |
-|---|---|---|---|
-| 1 | Versicherungsfall-Definition nach AVB erfüllt? | AVB; § 1 VVG | Definition exakt lesen; Auslegung § 305c Abs. 2 BGB |
-| 2 | Zeitlicher Deckungsrahmen (Versicherungsdauer)? | Police; § 2 VVG | Rückwärtsversicherung § 2 VVG prüfen |
-| 3 | Vorvertragliche Anzeigepflicht verletzt? | §§ 19, 21 VVG | Welche Fragen wurden schriftlich gestellt? Antworten korrekt? |
-| 4 | Obliegenheitsverletzung vor/nach Versicherungsfall? | §§ 28, 31 VVG | Vorsatz → voll leistungsfrei; grobe Fahrlässigkeit → quotal |
-| 5 | Belehrung § 19 Abs. 5 VVG ordnungsgemäß erfolgt? | § 19 Abs. 5 VVG | Ohne formgemäße Belehrung kein Rücktritt / keine Anfechtung des Versicherers |
-| 6 | Risikoausschluss eingreifend? | AVB; §§ 305c, 307 BGB | AGB-Kontrolle; Intransparenz → unwirksam |
-| 7 | AVB-Klausel wirksam — Transparenz? | § 307 Abs. 1 S. 2 BGB | Unklare Ausschlussklausel → gegen Verwender ausgelegen |
-| 8 | Leistungsumfang korrekt — Versicherungssumme, Selbstbehalt? | Police; § 75 VVG | Unterversicherung prüfen; Deckungsrahmen |
-| 9 | Fälligkeit § 14 VVG eingetreten? | § 14 VVG | Nötige Erhebungen abgeschlossen? Verzögerung durch Versicherer? |
-| 10 | Abschlagszahlung § 14 Abs. 2 VVG möglich? | § 14 Abs. 2 VVG | Feststehendes Minimum nach 1 Monat ab Anzeige |
-| 11 | Verzug eingetreten? | §§ 286, 288 BGB | Mahnung oder Fristablauf; Zinsen 5 % + Basiszins |
-| 12 | Kausalitätsgegenbeweis bei Obliegenheit § 28 Abs. 3 VVG? | § 28 Abs. 3 VVG | Obliegenheitsverletzung war für Schaden nicht kausal → kein Verlust |
-| 13 | Verjährung Versicherungsanspruch? | § 195 BGB; § 12 VVG a.F. | 3 Jahre ab Kenntnisstand |
-| 14 | Ombudsstelle einschalten (Hemmung)? | § 204 BGB | Hemmung Verjährung während Verfahren |
-| 15 | Sparten-Besonderheiten beachtet? | Spartenrecht | BU/Leben/Kranken haben eigene Sonderregeln |
+1. Gefahrerheblicher Umstand: War der Umstand dem Versicherungsnehmer bekannt und hatte der Versicherer danach in Textform gefragt?
+2. Frage und Antwort: Wortlaut, Reichweite, Verständlichkeit, Antwortdatum und Beteiligung eines Vermittlers anhand des Antrags feststellen.
+3. Paragraf 19 Absatz 2 VVG: Rücktritt setzt eine Verletzung der Anzeigepflicht voraus; Verschuldensgrad und Ausschlusstatbestände sind gesondert zu prüfen.
+4. Paragraf 19 Absatz 3 VVG: Fehlen Vorsatz und grobe Fahrlässigkeit, ist der Rücktritt ausgeschlossen; unter den gesetzlichen Voraussetzungen bleibt ein Kündigungsrecht.
+5. Paragraf 19 Absatz 4 VVG: Hätte der Versicherer auch bei Kenntnis, aber zu anderen Bedingungen abgeschlossen, sind Rücktritt und Kündigung nach Maßgabe der Norm ausgeschlossen und die Vertragsänderung ist zu prüfen.
+6. Paragraf 19 Absatz 5 VVG: Die Rechte aus den Absätzen 2 bis 4 setzen eine gesonderte Belehrung in Textform voraus und sind bei Kenntnis des Versicherers ausgeschlossen.
+7. Paragraf 21 Absatz 1 VVG: Das gewählte Recht muss innerhalb eines Monats ab Kenntnis schriftlich und unter Angabe der tragenden Umstände ausgeübt werden.
+8. Paragraf 21 Absatz 2 VVG: Nach Eintritt des Versicherungsfalls sind Leistungsfreiheit, Kausalitätsgegenbeweis und Arglistfolge anhand der konkreten Ausübungserklärung zu prüfen.
+9. Paragraf 21 Absatz 3 VVG: Die Rechte aus Paragraf 19 Absätze 2 bis 4 erlöschen grundsätzlich nach fünf Jahren, bei vorsätzlicher oder arglistiger Verletzung nach zehn Jahren; die gesetzliche Ausnahme für vorher eingetretene Versicherungsfälle beachten.
+10. Paragraf 22 VVG: Die Anfechtung wegen arglistiger Täuschung bleibt unberührt. Eine fehlende Belehrung nach Paragraf 19 Absatz 5 VVG schließt daher nicht automatisch eine Anfechtung aus.
 
-## Sparten-Besonderheiten
+### 3.5 Herbeiführung des Versicherungsfalls nach Paragraf 81 VVG
 
-### Berufsunfähigkeit
+1. Kausal relevante Handlung und Verschuldensgrad konkret bestimmen.
+2. Bei Vorsatz besteht nach Absatz 1 keine Leistungspflicht.
+3. Bei grober Fahrlässigkeit ist nach Absatz 2 eine Einzelfallquote nach der Schwere des Verschuldens zu bilden; feste Standardquoten sind unzulässig.
+4. Einfache Fahrlässigkeit berechtigt nicht zur Kürzung nach Paragraf 81 VVG.
+5. Behauptung, Gegenbeweis und Indizien zur subjektiven Seite getrennt darstellen.
 
-- Berufsbild zum Zeitpunkt der Berufsunfähigkeit maßgeblich (nicht zuletzt ausgeübte Tätigkeit vor Kündigung).
-- Grad mindestens 50 % (übliche AVB-Grenze); seltener 25 % oder 33 %.
-- Sechs-Monats-Prognose: voraussichtliche Berufsunfähigkeit für mindestens sechs Monate; Versicherungsfall tritt erst nach Ablauf der Prognosezeit ein (BGH, Urt. v. 14.7.2021, IV ZR 153/20 — Quelle: juris.bundesgerichtshof.de).
-- Abstrakte Verweisung auf Vergleichsberuf: nach st. Rspr. BGH IV. ZS heute auf konkret ausgeübte Verweisungstätigkeit beschränkt; bei älteren AVB sorgfältig prüfen.
+## 4. Spartenbezogene Rechtsprechungsanker
 
-### Lebensversicherung
+Diese Entscheidungen nur verwenden, wenn Sparte und Klauseltyp wirklich passen:
 
-- Selbsttötung § 161 VVG: Karenzzeit 3 Jahre; danach Todesfallleistung auch bei Suizid.
-- Vorvertragliche Anzeigepflicht: häufig Streit über Kenntnis von Vorerkrankungen.
-- Widerruf bei fehlerhafter / fehlender Belehrung: keine starre Frist (EuGH, Urt. v. 19.12.2013, C-209/12 — Endress / Allianz; vor Versand Volltext auf curia.europa.eu aufrufen).
+1. BGH, Urteil vom 12. März 2025, IV ZR 32/24: Die Ersetzung einer unwirksamen Klausel in der Krankentagegeldversicherung nach Paragraf 164 Absatz 1 VVG setzt mindestens die Voraussetzungen einer ergänzenden Vertragsauslegung voraus.
+2. BGH, Urteil vom 15. Oktober 2025, IV ZR 86/24: Bei der Auslegung einer Rechtsschutzklausel zur Ersatzfahrzeuganschaffung ist der konkrete Klauselwortlaut maßgeblich; verbleibende Unklarheiten gehen nach Paragraf 305c Absatz 2 BGB zulasten des Verwenders.
+3. Bei Berufsunfähigkeit nicht mit pauschalen Werten arbeiten, sondern zum Skill berufsunfaehigkeit-klage verzweigen und dort Leistungsgrad, Prognosezeitraum und Verweisung ausschließlich aus Police und AVB ableiten.
 
-### Krankenversicherung (PKV)
+## 5. Prüfmatrix
 
-- Medizinische Notwendigkeit: objektive Indikation, nicht ärztliches Ermessen allein.
-- Wissenschaftlich anerkannte Methode; Behandlung im Leistungsrahmen des GOÄ.
-- Beihilfekonformität bei kombinierten Tarifen.
+| Streitpunkt | Norm oder Klausel | Tatsachenkern | Beleg | Beweislast | Rechtsfolge |
+| --- | --- | --- | --- | --- | --- |
+| Versicherungsfall | Police und AVB |  |  | Versicherungsnehmer |  |
+| Ausschluss | AVB |  |  | Versicherer |  |
+| Schadensanzeige | Paragraf 30 VVG |  |  |  |  |
+| Auskunft oder Beleg | Paragraf 31 VVG |  |  |  |  |
+| vertragliche Obliegenheit | Paragraf 28 VVG |  |  | geteilt nach Tatbestand |  |
+| vorvertragliche Anzeige | Paragrafen 19, 21 und 22 VVG |  |  | Versicherer; Gegenbeweise gesondert |  |
+| Fälligkeit | Paragraf 14 Absatz 1 VVG |  |  |  |  |
+| Mindestabschlag | Paragraf 14 Absatz 2 VVG |  |  | Versicherungsnehmer |  |
 
-### Rechtsschutz
+## 6. Arbeitsprodukte
 
-- Rechtsschutzfall-Definition exakt prüfen: Tatbestand des Versicherungsfalls (Datum entscheidend!).
-- Wartezeiten 3 Monate in vielen Tarifen; Vorvertraglichkeit ausgeschlossen.
-- Deckungszusage einholen vor Klageerhebung.
+### 6.1 Deckungsprüfung
 
-## Strategische Optionen (vor dem Template entscheiden)
+Liefere eine kurze Deckungsantwort, danach die vollständige Matrix. Jede Ablehnungsbegründung des Versicherers erhält eine eigene Gegenprüfung. Offene Punkte werden als konkrete Beleganforderung formuliert, nicht als allgemeine Fragenliste.
 
-Bevor das Template eins-zu-eins gefuellt wird, ist zu prüfen welche Variante zur Mandantenkonstellation passt. Das Template ist **eine** moegliche Form — nicht die einzige.
+### 6.2 Abschlagsverlangen
 
-| Konstellation | Empfohlener Weg |
-|---|---|
-| Standard — Deckungsanfrage an Versicherer stellen | Deckungsanfrageschreiben nach Checkliste; Template unten |
-| Variante A — Versicherer hat bereits abgelehnt | Direkt zu Deckungsklage-Skill wechseln |
-| Variante B — Deckung unklar mehrere Policen parallel | Alle Policen prüfend Anfragen koordiniert stellen |
-| Variante C — Mandant will schnelle Zahlung ohne Rechtsstreit | Verhandlungsstrategie vor Fristsetzung; Klage nur als letztes Mittel |
+Formuliere den bereits sicher bestimmbaren Mindestbetrag, das Datum der Schadensanzeige, den Ablauf des Monats, die noch offenen Erhebungen und weshalb deren Verzögerung nicht vom Versicherungsnehmer verschuldet ist. Verlange nur den voraussichtlich mindestens geschuldeten Betrag.
 
-Wenn die Mandantenkonstellation **nicht** ins Standardschema passt, ist das Template anzupassen oder durch ein anderes Skill abzuloesen — nicht das Mandat in das Schema zu pressen.
+### 6.3 Erwiderung oder Klage
 
-## Schriftsatzbausteine
+Ordne Antrag, versprochenen Versicherungsschutz, Eintritt des Versicherungsfalls, Leistungsumfang, Fälligkeit und jede Einwendung in dieser Reihenfolge. Beweisangebote unmittelbar nach der jeweils zu beweisenden Tatsache einfügen. Anlagen nach Police, AVB, Anzeige, Belegen, Auskunftskorrespondenz und Ablehnung ordnen.
 
-### Baustein 1 — Stellungnahme zur Deckungsablehnung
+## 7. Amtliche Quellen
 
-```
-An [Versicherer]
-[Adresse]
-Versicherungsnummer: [Nr]
-Schadennummer: [Nr]
-
-Betr.: Stellungnahme zur Deckungsablehnung vom [Datum]
-
-Sehr geehrte Damen und Herren,
-
-wir vertreten die rechtlichen Interessen von [VN-Name] und
-nehmen zu Ihrer Ablehnung vom [Datum] wie folgt Stellung.
-
-I. Versicherungsfall liegt vor
-
-Der Versicherungsfall ist am [Datum] eingetreten durch
-[Beschreibung]. Die AVB-Definition [Klausel, Ziffer] lautet:
-"[Wortlaut]". Der eingetretene Schaden erfüllt diese Voraussetzungen,
-weil [konkrete Subsumtion].
-
-II. Ablehnungsgrund trägt nicht
-
-[Variante A — Obliegenheitsverletzung §§ 28, 31 VVG:]
-Eine Obliegenheitsverletzung liegt nicht vor. Die Anzeige
-des Versicherungsfalls erfolgte unverzüglich am [Datum], also
-innerhalb der in § [X] AVB vorgesehenen Frist.
-
-Selbst wenn eine leichte Obliegenheitsverletzung anzunehmen
-wäre, entfällt die Leistungsfreiheit nach § 28 Abs. 3 VVG,
-weil die Verletzung für den Schadenseintritt nicht kausal war:
-[Begründung Kausalität fehlt].
-
-[Variante B — Risikoausschluss unwirksam:]
-Die von Ihnen angeführte Ausschlussklausel [Ziffer X AVB]
-ist nach § 307 Abs. 1 Satz 2 BGB intransparent und daher
-unwirksam. Ein durchschnittlicher VN kann die Reichweite
-des Ausschlusses nicht erkennen (§ 307 Abs. 1 S. 2 BGB).
-Bei Unklarheit ist nach § 305c Abs. 2 BGB gegen den Verwender
-(Sie als Versicherer) auszulegen.
-
-III. Fälligkeit und Abschlagszahlung
-
-Die zur Feststellung des Versicherungsfalls nötigen Erhebungen
-sind abgeschlossen (Polizeibericht Anlage K1; Sachverständigen-
-gutachten Anlage K2). Der Leistungsanspruch ist gemäß § 14
-Abs. 1 VVG fällig.
-
-Wir fordern Sie auf, EUR [Betrag] bis [Datum + 2 Wochen] zu
-zahlen. Nach Ablauf der Frist treten Verzugsfolgen ein (§§ 280,
-286 BGB; Zinsen 5 Prozentpunkte über Basiszinssatz).
-
-Anlagen
-K1: Polizeibericht / Schadensbelege
-K2: Sachverständigengutachten
-K3: Vollmacht
-
-Mit freundlichen Grüßen
-[Rechtsanwälte]
-```
-
-### Baustein 2 — Abschlagszahlungsanforderung § 14 Abs. 2 VVG
-
-```
-Sehr geehrte Damen und Herren,
-
-der Versicherungsfall ist eingetreten und eine Leistungs-
-pflicht dem Grunde nach steht fest. Die vollständige
-Schadensermittlung dauert an, jedoch ist bereits jetzt
-ein Mindestbetrag in Höhe von EUR [X] gesichert.
-
-Gemäß § 14 Abs. 2 VVG verlangen wir hiermit Abschlags-
-zahlung in Höhe von EUR [X], da seit der Schadensanzeige
-am [Datum] mehr als ein Monat vergangen ist.
-
-Bitte überweisen Sie den Betrag bis [Datum + 14 Tage].
-
-[Rechtsanwälte]
-```
-
-### Baustein 3 — Grob fahrlässige Herbeiführung § 81 VVG abwehren
-
-```
-IV. § 81 VVG — grob fahrlässige Herbeiführung
-
-Ihr Einwand, unser Mandant habe den Versicherungsfall grob
-fahrlässig herbeigeführt, greift nicht durch.
-
-Grobe Fahrlässigkeit liegt nach st. Rspr. nur vor, wenn die
-verkehrserforderliche Sorgfalt in besonders schwerem Maße
-verletzt und das Naheliegendste außer Acht gelassen wurde
-(konkrete BGH-Entscheidung mit Aktenzeichen vor Versand in
-juris.bundesgerichtshof.de aufrufen und Randnummer einfügen).
-
-Im Streitfall [konkrete Beschreibung Verhalten] entspricht
-dem Sorgfaltsmaßstab eines verständigen Durchschnittsmenschen.
-Es liegt allenfalls leichte Fahrlässigkeit vor. § 81 VVG
-ist daher nicht einschlägig; jedenfalls wäre nur eine minimale
-quotale Kürzung gerechtfertigt.
-
-[Hilfsweise für Quotelung:]
-Selbst bei Annahme grober Fahrlässigkeit wäre die Kürzung
-auf maximal [X] % begrenzt, da [Schwere und Umstände].
-```
-
---- vor Versand klären ---
-1. Welches Verhandlungsziel hat der Mandant? [Durchsetzung des Anspruchs / Vergleich / Reputationsschutz / schnelle Loesung]
-2. Welche Kompromisslinien sind absolut? [Mindestforderung / Zeitrahmen / Formerfordernis]
-3. Sind Anschlusswege erwuenscht? [Mediation / Direktgesprach / Einigung vor Fristablauf]
-
-Schlussabsatz Variante A (kooperativ):
-Wir regen eine guetliche Einigung an und stehen für ein klärenden Gesprach zur Verfuegung. Eine einvernehmliche Loesung erspart beiden Seiten Zeit und Kosten.
-
-Schlussabsatz Variante B (formal-streng):
-Eine aussergerichtliche Einigung kommt nur in Betracht wenn die Gegenseite innerhalb von [X] Tagen einen akzeptablen Vorschlag unterbreitet. Anderenfalls werden wir alle rechtlichen Schritte einleiten.
-
-## Beweislast und Darlegungslast
-
-| Frage | Beweislast |
-|---|---|
-| Eintritt des Versicherungsfalls | VN (Mandant) |
-| Schadenshöhe | VN |
-| Vorvertragliche Anzeigepflicht-Verletzung | Versicherer |
-| Obliegenheitsverletzung und Grad | Versicherer |
-| Kausalität Obliegenheitsverletzung → Schaden | VN (Exkulpationsbeweis § 28 Abs. 3 VVG) |
-| Grob fahrlässige Herbeiführung § 81 VVG | Versicherer |
-| Unwirksamkeit AVB-Klausel | VN (aber Transparenzprüfung von Amts wegen) |
-
-## Fristen und Verjährung
-
-| Frist | Dauer | Anker | Norm |
-|---|---|---|---|
-| Fälligkeit Versicherungsleistung | nach Abschluss nötiger Erhebungen | Abschluss der Ermittlungen | § 14 Abs. 1 VVG |
-| Abschlagszahlung | 1 Monat nach Schadensanzeige | Schadensanzeige | § 14 Abs. 2 VVG |
-| Verjährung Versicherungsanspruch | 3 Jahre | Jahresende der Kenntnis | §§ 195, 199 BGB |
-| Hemmung durch Ombudsstelle | Dauer + 6 Monate | Einleitung | § 204 BGB |
-| Hemmung durch Verhandlungen | Dauer der Verhandlungen | Beginn | § 203 BGB |
-| Anzeigepflicht-Verstoß Rüge (Rücktritt) | 1 Monat nach Kenntnis | Kenntnis des Versicherers | § 21 Abs. 1 VVG |
-
-## Typische Gegenargumente und Reaktion
-
-| Einwand Versicherer | Reaktion |
-|---|---|
-| Vorvertragliche Anzeigepflicht verletzt — alle Fragen falsch beantwortet | Antragsfragen vorlegen; Wortlaut der Frage entscheidend; bei Unklarheit Auslegung gegen Verwender § 305c Abs. 2 BGB |
-| Obliegenheitsverletzung durch verspätete Anzeige | AVB-Frist prüfen; § 28 Abs. 3 VVG: Kausalität fehlt? Leistungsfreiheit entfällt |
-| Bedingungsanpassung nach Unwirksamkeit | BGH, Urteil vom 12. März 2025, IV ZR 32/24 — Paragraf 164 Absatz 1 VVG setzt mindestens die Voraussetzungen ergänzender Vertragsauslegung voraus; sparten- und klauselspezifisch prüfen |
-| Risikoausschluss klar und eindeutig | Wortlaut-Analyse; § 307 BGB Transparenzprüfung |
-| Versicherungsfall nicht eingetreten — AVB-Definition | Auslegung AVB-Definition nach § 305c Abs. 2 BGB bei Unklarheit zugunsten VN |
-| Zahlung ist nicht fällig (noch in Prüfung) | § 14 VVG: Verzögerung nicht unbegrenzt; Abschlagszahlung nach 1 Monat |
-
-## Streitwert und Kosten
-
-- Gegenstandswert für RA-Gebühren = Versicherungsleistung (Hauptforderung).
-- Außergerichtliche Anwaltskosten ab Verzug erstattungsfähig als Schadensersatz (§§ 280, 286 BGB).
-- Klageverfahren: AG bis EUR 10000, LG darüber; bei BU-Rente Streitwert nach § 9 ZPO (3,5-facher Jahreswert).
-- Ombudsmann-Verfahren: kostenlos für VN; Versicherer gebunden bis EUR 10000 (Empfehlung Ombudsmann bindend bei bis zu EUR 10000).
-
-## Strategische Empfehlung
-
-| Situation | Empfehlung |
-|---|---|
-| Einfacher Sachschaden, Ablehnung ohne Substanz | Fristsetzung 2 Wochen; bei Ausbleiben direkt Klage |
-| BU-Versicherung, Streit über Grad | Ärztliches Gutachten auf Kosten des Mandanten; SV-Beauftragung |
-| Risikoausschluss-Klausel | AGB-Rechtsprechung vertiefen; § 307 Abs. 1 S. 2 BGB Transparenzgebot |
-| Ombudsstelle sinnvoll | Bei geringerem Streitwert bis EUR 10000; Empfehlung bindend bis dieser Grenze |
-| Verjährung naht | Ombudsmann-Verfahren einleiten; Klage vorbereiten |
-
-## Anschluss-Skills
-
-- `klage-versicherer-strategie` — Klagestrategie nach erfolgloser außergerichtlicher Phase
-- `fachanwalt-versicherungsrecht-deckungsklage` — formale Klageschrift
-- `fachanwalt-versicherungsrecht-regress-abwehr` — Regress des Versicherers abwehren
-
-## Quellen
-
-Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
-
-## Vertiefung — Aktuelle Rechtsprechung und Normen
-
-### Leitsatz-Zitate (Stand Mai 2026)
-
-Vor Versand jeweils Volltext aus offener Quelle aufrufen (juris.bundesgerichtshof.de, dejure.org, openjur.de):
-
-1. **BGH, Urteil vom 12. März 2025, IV ZR 32/24** — Krankentagegeld: Ersetzung unwirksamer Versicherungsbedingungen nach Paragraf 164 Absatz 1 VVG setzt mindestens die Voraussetzungen ergänzender Vertragsauslegung voraus; Paragraf 4 Absatz 2 MB/KT 2009 begrenzt den Anspruch nicht auf einen dem tatsächlichen Nettoeinkommen entsprechenden Tagessatz.
-2. **BGH, Urteil vom 22. April 2026, IV ZR 70/25** — PKV-Beitragsanpassung; formelle Mitteilung nach Paragraf 203 Absatz 5 VVG und materielle Rechtmäßigkeit samt Beweislast strikt trennen.
-3. **BGH, Urteil vom 15. Oktober 2025, IV ZR 86/24** — Verkehrs-Rechtsschutz: Unklare VRB-Klauseln zur Ersatzfahrzeuganschaffung gehen nach Paragraf 305c Absatz 2 BGB zulasten des Versicherers; je nach Bedingungswortlaut kann auch ein Ereignis vor Zulassung des Ersatzfahrzeugs gedeckt sein.
-4. **BGH, Urt. v. 14.7.2021, IV ZR 153/20** — Versicherungsfall BU nach Ablauf der sechs-monatigen Prognosezeit.
-5. **EuGH, Urt. v. 19.12.2013, C-209/12 (Endress / Allianz)** — Widerruf bei fehlerhafter Belehrung bei Lebensversicherung; offene Quelle: curia.europa.eu.
-
-### Normen-Ergänzung
-
-§ 14 VVG (Fälligkeit Versicherungsleistung, Zahlungsverzug) → § 28 Abs. 3 VVG (Kausalitätsgegenbeweis) → §§ 305c, 307 BGB (AVB-Auslegung, Inhaltskontrolle) → § 203 BGB (Hemmung Verjährung durch Verhandlungen) → § 288 BGB (Verzugszinsen 5 Prozentpunkte über Basiszins)
-
-### Quellenregel
-
-Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
+- [Paragraf 14 VVG](https://www.gesetze-im-internet.de/vvg_2008/__14.html)
+- [Paragraf 19 VVG](https://www.gesetze-im-internet.de/vvg_2008/__19.html)
+- [Paragraf 21 VVG](https://www.gesetze-im-internet.de/vvg_2008/__21.html)
+- [Paragraf 22 VVG](https://www.gesetze-im-internet.de/vvg_2008/__22.html)
+- [Paragraf 28 VVG](https://www.gesetze-im-internet.de/vvg_2008/__28.html)
+- [Paragraf 30 VVG](https://www.gesetze-im-internet.de/vvg_2008/__30.html)
+- [Paragraf 31 VVG](https://www.gesetze-im-internet.de/vvg_2008/__31.html)
+- [Paragraf 81 VVG](https://www.gesetze-im-internet.de/vvg_2008/__81.html)
+- [BGH, Urteil vom 12. März 2025, IV ZR 32/24](https://juris.bundesgerichtshof.de/cgi-bin/rechtsprechung/document.py?Art=pm&Blank=1&Datum=2025&Gericht=bgh&file=dokument.pdf&linked=urt&nr=141060)
+- [BGH, Urteil vom 15. Oktober 2025, IV ZR 86/24](https://juris.bundesgerichtshof.de/cgi-bin/rechtsprechung/document.py?Art=pm&Blank=1&Datum=2025&Gericht=bgh&file=dokument.pdf&linked=urt&nr=143351)

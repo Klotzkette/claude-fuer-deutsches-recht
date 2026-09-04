@@ -98,11 +98,11 @@ Arbeitsgriff Anfechtung und Plan: Rechtshandlung, Kenntnis, Gläubigerbenachteil
 
 | Rechtsprechungsanker | Quellenstatus | Nutzwert im Fall |
 | --- | --- | --- |
+| BGH, Urteil vom 23.01.2025 - IX ZR 229/22 | Profilanker; vor Zitierung am Aktenstand oder an belastbarer Quelle sichern | Streitige nicht titulierte Verbindlichkeiten richten sich nach der objektiven Rechtslage. Ein vorläufig vollstreckbarer Titel ist zum Nennwert zu berücksichtigen, wenn Vollstreckungsvoraussetzungen vorliegen und der Gläubiger die Vollstreckung eingeleitet hat; kein Abschlag nach Prozessrisiko |
 | BGH, Urteil vom 24.05.2005 - IX ZR 123/04 | Profilanker; vor Zitierung am Aktenstand oder an belastbarer Quelle sichern | Eine Liquiditätslücke von zehn Prozent oder mehr spricht regelmäßig für Zahlungsunfähigkeit; eine bloße Zahlungsstockung setzt eine nahezu vollständige Schließung binnen drei Wochen voraus |
 | BGH, Urteil vom 19.12.2017 - II ZR 88/16 | Profilanker; vor Zitierung am Aktenstand oder an belastbarer Quelle sichern | In den Liquiditätsstatus gehören auch die binnen drei Wochen fällig werdenden und eingeforderten Verbindlichkeiten; ein Geschäftsführer darf buchhalterisch ausgewiesene Passiva nicht pauschal bestreiten |
 | BGH, Urteil vom 06.05.2021 - IX ZR 72/20 | Profilanker; vor Zitierung am Aktenstand oder an belastbarer Quelle sichern | Erkannte Zahlungsunfähigkeit allein beweist den Benachteiligungsvorsatz nicht; erforderlich ist die Kenntnis oder Billigung, die übrigen Gläubiger auch künftig nicht vollständig befriedigen zu können |
 | BGH, Urteil vom 10.02.2022 - IX ZR 148/19 | Profilanker; vor Zitierung am Aktenstand oder an belastbarer Quelle sichern | Dauerhaft schleppendes Zahlen belegt keine spätere Zahlungseinstellung, wenn dieses Verhalten schon in einer unstreitig zahlungsfähigen Zeit bestand; die Fortdauervermutung verlangt belastbaren Vortrag |
-| BGH, Urteil vom 12.02.2015 - IX ZR 180/12 | Profilanker; vor Zitierung am Aktenstand oder an belastbarer Quelle sichern | Ein unmittelbarer, gleichwertiger und für die Fortführung nützlicher Leistungsaustausch kann das Vorsatzindiz schwächen; erweiterter Eigentumsvorbehalt oder erkannte verlustreiche Fortführung sprechen dagegen |
 - Rechtsfolge zuerst als Arbeitsprodukt denken: Antrag, Haftungsabwehr, Forderungsanmeldung, Anfechtung, Rangklärung oder Sanierungsschritt
 - Quellenstatus immer sichtbar machen: Aktenfund, Normtext, Profilanker, gesicherte Rechtsprechung oder offene Prüfung.
 
@@ -116,17 +116,15 @@ Arbeitsgriff Anfechtung und Plan: Rechtshandlung, Kenntnis, Gläubigerbenachteil
 - StaRUG Paragraf 1: Krisenfrüherkennungspflichten.
 - Paragraf 28 VVG bei Obliegenheits-Verletzung; im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
 - Paragraf 13 InsO Eigenantrag: schriftlich beim Insolvenzgericht (Amtsgericht), Vermögensverzeichnis, Gläubigerverzeichnis, Lohnliste, Bilanz; im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
-- Paragraf 17 Abs. 2 S. 2 InsO Vermutung: Zahlungsunfähigkeit wird in der Regel angenommen bei Zahlungseinstellung; im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
+- Paragraf 17 Abs. 2 S. 2 InsO Vermutung: Zahlungsunfähigkeit wird in der Regel angenommen bei Zahlungseinstellung (objektives Verhalten — Nichtzahlung an mehrere Gläubiger, Lohn, Steuer, Sozialversicherung); im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
 
 ## 8. Leitentscheidungen
 
+- BGH, Urteil vom 23.01.2025 - IX ZR 229/22: Streitige nicht titulierte Verbindlichkeiten richten sich nach der objektiven Rechtslage. Ein vorläufig vollstreckbarer Titel ist zum Nennwert zu berücksichtigen, wenn Vollstreckungsvoraussetzungen vorliegen und der Gläubiger die Vollstreckung eingeleitet hat; kein Abschlag nach Prozessrisiko.
 - BGH, Urteil vom 24.05.2005 - IX ZR 123/04: Eine Liquiditätslücke von zehn Prozent oder mehr spricht regelmäßig für Zahlungsunfähigkeit; eine bloße Zahlungsstockung setzt eine nahezu vollständige Schließung binnen drei Wochen voraus.
 - BGH, Urteil vom 19.12.2017 - II ZR 88/16: In den Liquiditätsstatus gehören auch die binnen drei Wochen fällig werdenden und eingeforderten Verbindlichkeiten; ein Geschäftsführer darf buchhalterisch ausgewiesene Passiva nicht pauschal bestreiten.
 - BGH, Urteil vom 06.05.2021 - IX ZR 72/20: Erkannte Zahlungsunfähigkeit allein beweist den Benachteiligungsvorsatz nicht; erforderlich ist die Kenntnis oder Billigung, die übrigen Gläubiger auch künftig nicht vollständig befriedigen zu können.
 - BGH, Urteil vom 10.02.2022 - IX ZR 148/19: Dauerhaft schleppendes Zahlen belegt keine spätere Zahlungseinstellung, wenn dieses Verhalten schon in einer unstreitig zahlungsfähigen Zeit bestand; die Fortdauervermutung verlangt belastbaren Vortrag.
-- BGH, Urteil vom 12.02.2015 - IX ZR 180/12: Ein unmittelbarer, gleichwertiger und für die Fortführung nützlicher Leistungsaustausch kann das Vorsatzindiz schwächen; erweiterter Eigentumsvorbehalt oder erkannte verlustreiche Fortführung sprechen dagegen.
-- BGH IV ZR 66/25 vom 19.11.2025 — Wissentlichkeitsausschluss in D&O-Bedingungen erfordert positive Kenntnis des Versicherten von der konkreten Pflichtverletzung.
-- BGH II ZR 206/22 vom 23.07.2024 — Haftung des ausgeschiedenen Geschäftsführers für Neugläubigerschäden bleibt bestehen, solange die durch ihn geschaffene Gefährdungslage fortwirkt. Auswirkung auf D&O-Deckung in der Nachhaftungsphase.
 
 ## 9. Prüfraster
 
@@ -148,7 +146,7 @@ Arbeitsgriff Anfechtung und Plan: Rechtshandlung, Kenntnis, Gläubigerbenachteil
 10.6. Gegenposition: Formuliere den stärksten ernsthaften Angriff; hier setzt die Gegenseite typischerweise bei dem Zeitpunkt der Insolvenzreife, der Kenntnis und der Bargeschäftsausnahme an.
 10.7. Erwiderung: Antworte mit konkretem Gegenbeleg, Auslegung oder Beweislastregel und ziehe die Folge auf Antrag, Haftungsabwehr, Forderungsanmeldung, Anfechtung, Rangklärung oder Sanierungsschritt; ein bloßes Bestreiten genügt nicht.
 10.8. Arbeitsprodukt: Schließe mit Antrag, Tenor, Klausel, Entscheidung oder nächstem Schritt; hier typischerweise Ausgabe entlang der Kernfelder Insolvenzanfechtungsrechte prüfen, Konzerninsolvenz — Koordination, Sanierungsgewinn — IV-Haftung für versäumte Paragraph 3a-Anträge, Forderungsanmeldung im Insolvenzverfahren — Gläubiger-Sicht (Paragrafen 174-177 InsO): Kurzvermerk, Prüfmatrix, Entwurf, Fristenblatt oder Fragenliste.
-10.9. Quellenstatus: Ordne Rechtsprechung nach Tragweite ein; erste Fallanker sind BGH, Urteil vom 24.05.2005 - IX ZR 123/04; BGH, Urteil vom 19.12.2017 - II ZR 88/16.
+10.9. Quellenstatus: Ordne Rechtsprechung nach Tragweite ein; erste Fallanker sind BGH, Urteil vom 23.01.2025 - IX ZR 229/22; BGH, Urteil vom 24.05.2005 - IX ZR 123/04.
 
 ## 11. Outputvarianten und Empfängerwunsch
 
@@ -204,7 +202,7 @@ Lieferstück: Fachvotum zu Insolvenzanfechtungsrechte prüfen mit Tatbestandsmer
 ### 16.2. Konzerninsolvenz — Koordination
 
 Bearbeitungsauftrag: Prüfraster Konzerninsolvenz Paragrafen 269a-269i InsO Konzern-Gerichtsstand Paragraf 3a InsO Gruppen-Folgeverfahren Paragraf 3d InsO. Konzernbegriff Paragraf 18 AktG verbundene Unternehmen Paragraf 15 AktG insolvenzrechtliche Unternehmensgruppe Paragraf 3e InsO. Konzern-Verwalter Paragraf 269e InsO Koordinations-Plan Paragraf 269h InsO EuInsVO Artikel 56 ff.
-Norm- oder Entscheidungsbezug aus dem Fachmaterial: Prüfraster Konzerninsolvenz Paragrafen 269a-269i InsO Konzern-Gerichtsstand Paragraf 3a InsO Gruppen-Folgeverfahren Paragraf 3d InsO.
+Normbezug aus dem Fachmaterial: Prüfraster Konzerninsolvenz Paragrafen 269a-269i InsO Konzern-Gerichtsstand Paragraf 3a InsO Gruppen-Folgeverfahren Paragraf 3d InsO.
 Lieferstück: Fachvotum zu Konzerninsolvenz — Koordination mit Tatbestandsmerkmalen, Aktenfundstellen, Beweislast, stärkster Gegenposition, Risiko und ausformulierter Rechtsfolge.
 
 ### 16.3. Sanierungsgewinn — IV-Haftung für versäumte Paragraph 3a-Anträge
@@ -216,19 +214,19 @@ Lieferstück: gewichtete Prüfmatrix mit Tatbestandsmerkmalen, Fundstellen, Gege
 ### 16.4. Forderungsanmeldung im Insolvenzverfahren — Gläubiger-Sicht (Paragrafen 174-177 InsO)
 
 Bearbeitungsauftrag: Gläubiger meldet Forderung im Insolvenzverfahren an Paragrafen 174-177 InsO: Fristen Form Anlagen Rang Paragraf 39 InsO Vorsatz Paragraf 174 Absatz 2 InsO nachträgliche Anmeldung Paragraf 177 InsO Prüfungstermin Paragraf 176 Bestreiten Paragraf 178 Tabelle Paragraf 179 InsO.
-Norm- oder Entscheidungsbezug aus dem Fachmaterial: Gläubiger meldet Forderung im Insolvenzverfahren an Paragrafen 174-177 InsO: Fristen Form Anlagen Rang Paragraf 39 InsO Vorsatz Paragraf 174 Absatz 2 InsO nachträgliche Anmeldung Paragraf 177 InsO Prüfungstermin Paragraf 176 Bestreiten Paragraf 178 Tabelle Paragraf 179 InsO.
+Normbezug aus dem Fachmaterial: Gläubiger meldet Forderung im Insolvenzverfahren an Paragrafen 174-177 InsO: Fristen Form Anlagen Rang Paragraf 39 InsO Vorsatz Paragraf 174 Absatz 2 InsO nachträgliche Anmeldung Paragraf 177 InsO Prüfungstermin Paragraf 176 Bestreiten Paragraf 178 Tabelle Paragraf 179 InsO.
 Lieferstück: vollständige Einreichungs- oder Registervorlage mit Zuständigkeit, Pflichtfeldern, Nachweisen, Freigabe und Vollzugskontrolle.
 
 ### 16.5. Antragspflicht 15A InsO
 
 Bearbeitungsauftrag: Analysiere die Insolvenzantragspflicht des Geschäftsleiters nach Paragraf 15a InsO, zivil- und strafrechtliche Folgen sowie Zahlungen nach Paragraf 15b InsO. Lädt bei Antragspflicht, Insolvenzverschleppung, Drei- oder Sechswochen-Höchstfrist und Zahlungsverbot. Trenne objektiven Eintritt des Insolvenzgrunds, unverzügliche Antragspflicht, Verschulden, Schaden, Beweislast und gewünschten Output.
-Norm- oder Entscheidungsbezug aus dem Fachmaterial: Analysiere die Insolvenzantragspflicht des Geschäftsleiters nach Paragraf 15a InsO, zivil- und strafrechtliche Folgen sowie Zahlungen nach Paragraf 15b InsO.
+Normbezug aus dem Fachmaterial: Analysiere die Insolvenzantragspflicht des Geschäftsleiters nach Paragraf 15a InsO, zivil- und strafrechtliche Folgen sowie Zahlungen nach Paragraf 15b InsO.
 Lieferstück: frist- und formgerechter Entwurf mit Antrag, tragenden Tatsachen, Beweisangeboten, Anlagen und Einreichungsweg.
 
 ### 16.6. Insolvenzgeld nach Paragraf 165 SGB III
 
 Bearbeitungsauftrag: Arbeitnehmer eines insolventen Unternehmens will Insolvenzgeld beantragen oder Insolvenzverwalter bearbeitet Insolvenzgeld-Anmeldungen. Insolvenz-Ereignis Paragraf 165 Absatz 1 SGB III Eröffnung Abweisung mangels Masse Vollstreckungs-Aussichtslosigkeit. Antragsfrist zwei Monate Paragraf 324 SGB III Vor-Finanzierung Banken bis 75 Prozent.
-Norm- oder Entscheidungsbezug aus dem Fachmaterial: Prüfraster Paragraf 165 und folgende SGB III Anspruchs-Voraussetzungen Arbeitsentgelt letzte drei Monate vor Insolvenz-Ereignis.
+Normbezug aus dem Fachmaterial: Prüfraster Paragraf 165 und folgende SGB III Anspruchs-Voraussetzungen Arbeitsentgelt letzte drei Monate vor Insolvenz-Ereignis.
 Lieferstück: Fachvotum zu Insolvenzgeld nach Paragraf 165 SGB III mit Tatbestandsmerkmalen, Aktenfundstellen, Beweislast, stärkster Gegenposition, Risiko und ausformulierter Rechtsfolge.
 
 ### 16.7. Sanierungsgewinn — frühe Vorbereitung vor Insolvenzantrag oder StaRUG-Anzeige
@@ -251,13 +249,12 @@ Lieferstück: gewichtete Prüfmatrix mit Tatbestandsmerkmalen, Fundstellen, Gege
 Bearbeitungsauftrag: Bearbeite Insolvenz: NPL-Kreditkauf und KrZwMG: liquiditätsstatus, Fälligkeit, Fortbestehensprognose, Antragspflicht, Beweislast und Sanierungsoption in einer Entscheidungslinie ordnen. Verbinde den konkreten Aktenfund mit Tatbestandsmerkmal, Gegenposition, Beweislast, Rechtsfolge und dem nächsten vollständig ausformulierten Arbeitsprodukt.
 Lieferstück: Fachvotum zu Insolvenz: NPL-Kreditkauf und KrZwMG mit Tatbestandsmerkmalen, Aktenfundstellen, Beweislast, stärkster Gegenposition, Risiko und ausformulierter Rechtsfolge.
 
-### 16.11. Insolvenzgerichtliche Versandmappe endfertigen
-
-Bearbeitungsauftrag: Prüfe Antragsberechtigung, Schuldneridentität, Insolvenzgrund, Forderung, Rechtsschutzinteresse und Glaubhaftmachung. Bei Anfechtungs-, Feststellungs- oder Haftungsklage gelten K und B entsprechend Parteirolle. Ordne Vertrag, Rechnung, Fälligkeit, Zahlung, Kenntnisindizien, Insolvenzeröffnung und Verwalterbestellung den Behauptungen zu.
-Prüfschritte: Lies Antrag oder Klage, Forderungsunterlagen, Titel, Vollstreckungsnachweise, Liquiditätsstatus, Registerauszug und gerichtliche Vorgaben.
-Lieferstück: Fachvotum zu Insolvenzgerichtliche Versandmappe endfertigen mit Tatbestandsmerkmalen, Aktenfundstellen, Beweislast, stärkster Gegenposition, Risiko und ausformulierter Rechtsfolge.
-
-### 16.12. Internationales Insolvenzrecht Drittstaaten — Inzidentprüfung
+### 16.11. Internationales Insolvenzrecht Drittstaaten — Inzidentprüfung
 
 Bearbeitungsauftrag: Bearbeite Internationales Insolvenzrecht Drittstaaten — Inzidentprüfung: cOMI, internationale Zuständigkeit, EuInsVO-Anerkennung, betroffene ausländische Gläubiger, Zustellung, Sprache und grenzüberschreitenden Vollzug des Plans sichern. Verbinde den konkreten Aktenfund mit Tatbestandsmerkmal, Gegenposition, Beweislast, Rechtsfolge und dem nächsten vollständig ausformulierten Arbeitsprodukt.
 Lieferstück: gewichtete Prüfmatrix mit Tatbestandsmerkmalen, Fundstellen, Gegenposition, Beweislast, Risiko und Empfehlung.
+
+### 16.12. Liquiditätsvorschau als insolvenzrechtliches Beweismittel
+
+Bearbeitungsauftrag: Bearbeite Liquiditätsvorschau als insolvenzrechtliches Beweismittel: liquiditätsstatus, Fälligkeit, Fortbestehensprognose, Antragspflicht, Beweislast und Sanierungsoption in einer Entscheidungslinie ordnen. Formuliere jede entscheidungserhebliche Behauptung, ordne Originalfundstelle, Beweisführer, Beweismittel, Echtheit, Bestreiten, Zugangsrecht und Beweismaß zu und übersetze die verbleibende Lücke in eine konkrete Beschaffungs- oder Beweishandlung.
+Lieferstück: Beweismatrix zu Liquiditätsvorschau als insolvenzrechtliches Beweismittel mit Tatfrage, Beweislast, Beweismittel, Fundstelle, Gegenposition und Folge eines offenen Nachweises.

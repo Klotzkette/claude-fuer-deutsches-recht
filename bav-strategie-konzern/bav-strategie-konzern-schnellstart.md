@@ -34,7 +34,7 @@ Ohne verwertbares Material genau eine gebündelte Frage zu Bestand erfassen, Ans
 | --- | --- |
 | Normenanker | BetrAVG Paragraf 1 und Paragraf 1a; BetrAVG Paragraf 1b und Paragraf 2; BetrAVG Paragraf 3 und Paragraf 4 |
 | Rechtsprechung | BAG, Urteil vom 19.06.2012 - 3 AZR 408/10; BAG, Urteil vom 14.07.2015 - 3 AZR 517/13 |
-| Tatbestand | Rechtsgrundlage, Zusageart, Durchführungsweg, Begünstigte, Finanzierung, Leistungsform, Anpassung und Sicherung |
+| Tatbestand | Rechtsgrundlage, Zusageart, Durchführungsweg, Begünstigte, Finanzierung, Leistungsform, Anpassung und Sicherung je Versorgungssystem dokumentieren |
 | Beweislast | Jede Partei- und Gremienannahme erhält Dokumentbeleg, Freigabestatus und Vollzugsnachweis; offene Parameter bleiben als Entscheidungspunkt sichtbar |
 | Rechtsfolge | Versorgungssystem-Matrix, Besitzstandsrechnung, Versorgungsordnung, Betriebsvereinbarung, Entscheidungsvorlage, Due-Diligence-Bericht oder Umsetzungsplan erstellen |
 | Quellenstatus | Aktenfund, Normtext, Profilanker oder sicher belegte Entscheidung offen kennzeichnen; unsichere Aktenzeichen nicht ergänzen |
@@ -43,10 +43,9 @@ Ohne verwertbares Material genau eine gebündelte Frage zu Bestand erfassen, Ans
 
 | Feld | Sofortgriff | Ausgabe |
 | --- | --- | --- |
-| Bestand erfassen | Rechtsgrundlage, Zusageart, Durchführungsweg, Begünstigte, Finanzierung, Leistungsform, Anpassung und Sicherung. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Anspruch rechnen | Versicherungsverlauf, Wartezeit, Entgeltpunkte, Rentenbeginn, Bescheidfehler und Widerspruchsfrist nach SGB VI nachrechnen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Haftung und Deckung | Arbeitsrechtliche Zusage, externer Versorgungsträger, Einstandspflicht, PSV-Schutz, Rückdeckung, CTA. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-
+| Bestand erfassen | Rechtsgrundlage, Zusageart, Durchführungsweg, Begünstigte, Finanzierung, Leistungsform, Anpassung und Sicherung je Versorgungssystem dokumentieren. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Anspruch rechnen | Dienstzeit, Unverfallbarkeit, ratierliche Anwartschaft, Entgeltumwandlung, Arbeitgeberzuschuss, Leistungsfall und Rentenanpassung nachvollziehbar berechnen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Haftung und Deckung | Arbeitsrechtliche Zusage, externer Versorgungsträger, Einstandspflicht, PSV-Schutz, Rückdeckung, CTA und Bilanzwirkung strikt trennen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
 
 ## 6. Anker
 
@@ -55,9 +54,8 @@ Ohne verwertbares Material genau eine gebündelte Frage zu Bestand erfassen, Ans
 - BetrAVG Paragraf 3 und Paragraf 4: Abfindung und Übertragung von Anwartschaften oder Versorgungsverpflichtungen.
 - BetrAVG Paragraf 7 bis Paragraf 15: Insolvenzsicherung durch den Pensions-Sicherungs-Verein und gesetzlicher Forderungsübergang.
 - Paragraf 1b BetrAVG: Unverfallbarkeit; im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
-- Paragraf 16 BetrAVG: Anpassungsprüfungspflicht alle drei Jahre; im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
+- Paragraf 16 BetrAVG: Anpassungsprüfungspflicht alle drei Jahre (Trade-off: vermeidbar nur durch Festschreibungsklausel mit garantiertem 1 %-Pfad nach Paragraf 16 Abs. 3 Nr. 1 BetrAVG; sonst Bindung an Verbraucherpreisindex); im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
 - Paragrafen 7-15 BetrAVG: PSV-Insolvenzschutz; jährliche Beitragspflicht zum 31.03; im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
-- Paragraf 4 BetrAVG: Übertragung bei Arbeitgeberwechsel binnen eines Jahres; im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
 
 ## 7. Antwortform
 

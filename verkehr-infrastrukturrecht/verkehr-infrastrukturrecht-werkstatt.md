@@ -201,7 +201,7 @@ Lieferstück: Fachvotum zu Förderrecht und Vergabe — Verkehrsinfrastruktur mi
 ### 16.2. Sondernutzung öffentlicher Strassenflächen
 
 Bearbeitungsauftrag: Bundesstrasse: Paragraf 8 FStrG; Gemeindestrasse: Paragraf 16 StrWG (je nach Bundesland); unterschiedliche Zuständigkeiten. Paragraf 8 FStrG — Sondernutzung an Bundesfernstrassen; Erlaubnis erforderlich; widerruflich. Paragraf 16 StrWG NRW (als Muster) — Sondernutzung an Gemeindestrassen; Gebühren; Auflagenpraxis.
-Norm- oder Entscheidungsbezug aus dem Fachmaterial: Bundesstrasse: Paragraf 8 FStrG; Gemeindestrasse: Paragraf 16 StrWG (je nach Bundesland); unterschiedliche Zuständigkeiten.
+Normbezug aus dem Fachmaterial: Bundesstrasse: Paragraf 8 FStrG; Gemeindestrasse: Paragraf 16 StrWG (je nach Bundesland); unterschiedliche Zuständigkeiten.
 Lieferstück: Fachvotum zu Sondernutzung öffentlicher Strassenflächen mit Tatbestandsmerkmalen, Aktenfundstellen, Beweislast, stärkster Gegenposition, Risiko und ausformulierter Rechtsfolge.
 
 ### 16.3. Ladeinfrastruktur Elektromobilität

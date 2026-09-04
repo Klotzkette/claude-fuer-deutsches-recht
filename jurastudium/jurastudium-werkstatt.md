@@ -79,7 +79,7 @@ Arbeitsgriff Arbeitsprodukt: Gutachten, Hausarbeit mit Fußnoten oder Lernübers
 | --- | --- | --- | --- |
 | Arbeitsfrage | Karteikarten-Drill | BGB Paragraf 133 und Paragraf 157 | Kurzbefund mit Maßstab und offener Annahme |
 | Quellen- und Datenbasis | Fundstellen, Datengrundlage, Geltungsstand und Belastbarkeit | GG Artikel 20 Absatz 3 | Evidenz- oder Rechenmatrix mit Kontrollspur |
-| Gegenhypothese | Lerneinheit | BGH nennen | Argumentvergleich mit tragendem Unterschied |
+| Gegenhypothese | Lerneinheit | GG Artikel 20 Absatz 3 | Argumentvergleich mit tragendem Unterschied |
 | Arbeitsprodukt | Gutachten, Hausarbeit mit Fußnoten oder Lernübersicht in bewertungssicherer Form ausformulieren | Jeder tragende Befund erhält Quelle oder Datengrundlage, Bewertungsmaßstab, Gegenhypothese und Belastbarkeitsangabe | ausformuliertes Gutachten-, Lösungs-, Antrags- oder Bewertungsstück |
 
 ## 5. Maßstäbe, Kernfragen, Evidenz und Folgerung
@@ -96,9 +96,7 @@ Arbeitsgriff Arbeitsprodukt: Gutachten, Hausarbeit mit Fußnoten oder Lernübers
 
 ## 6. Quellen-, Rechtsprechungs- und Belastbarkeitsstatus
 
-| Rechtsprechungsanker | Quellenstatus | Nutzwert im Fall |
-| --- | --- | --- |
-| BGH nennen | aus Skillmaterial extrahierter Anker; vor Zitierung am Aktenstand oder an belastbarer Quelle sichern | "Der BGH hat in der Entscheidung NJW [Jahr], [Seite] entschieden, dass …" |
+- Rechtsprechung und sonstige Leitquellen nur mit gesichertem Aussagekern verwenden; eine noch offene Fundstelle wird als präziser Recherchebedarf bezeichnet.
 - Folgerung zuerst als prüfbares Arbeitsprodukt denken: Gutachten, Hausarbeit mit Fußnoten oder Lernübersicht in bewertungssicherer Form ausformulieren
 - Quellenstatus immer sichtbar machen: Aktenfund, Primärquelle, Sekundärquelle, Datengrundlage, gesicherte Entscheidung oder offene Recherche.
 
@@ -120,7 +118,7 @@ Arbeitsgriff Arbeitsprodukt: Gutachten, Hausarbeit mit Fußnoten oder Lernübers
 
 ## 8. Leitentscheidungen und tragende Quellen
 
-- BGH nennen: "Der BGH hat in der Entscheidung NJW [Jahr], [Seite] entschieden, dass …".
+- Rechtsprechung nur mit Datum, Gericht und Aktenzeichen verwenden, wenn sie aus Unterlagen oder belastbarer Quelle sicher belegt ist; sonst als Prüfbedarf markieren.
 
 ## 9. Prüfraster
 
@@ -142,7 +140,7 @@ Arbeitsgriff Arbeitsprodukt: Gutachten, Hausarbeit mit Fußnoten oder Lernübers
 10.6. Gegenhypothese: Prüfe die stärkste alternative Erklärung oder Bewertung; sie setzt typischerweise bei welche Anspruchsgrundlagen kommen in welcher Reihenfolge in Betracht an.
 10.7. Belastbarkeit: Antworte mit Gegenbeleg, Kontrollrechnung, methodischem Unterschied oder begrenzter Aussage; ein bloßes Etikett genügt nicht.
 10.8. Arbeitsprodukt: Schließe mit Gutachtensatz: Obersatz, Definition, Subsumtion mit Sachverhaltszitat, Zwischenergebnis; Meinungsstreit: Ansicht eins mit Argument, Ansicht zwei mit Argument, Stellungnahme mit tragendem Grund und einem ausdrücklich benannten nächsten Prüf- oder Redaktionsschritt.
-10.9. Quellenstatus: Trenne Primärquelle, Sekundärquelle, Aktenfund, Datengrundlage und offene Recherche; erste Anker sind BGH nennen.
+10.9. Quellenstatus: Trenne Primärquelle, Sekundärquelle, Aktenfund, Datengrundlage und offene Recherche; erste Anker sind erst nach verifizierter Recherche einzusetzen.
 
 ## 11. Outputvarianten und Empfängerwunsch
 
@@ -181,10 +179,10 @@ Die Landkarte dient der schnellen Auswahl. Sie ersetzt nicht die darunter ausfor
 | Methodenlehre — Grundlagen | Ist "Sache" in Paragraf 90 BGB auch ein Tier? Greift Paragraf 823 I BGB auch bei reinen Vermögensschäden? Verweisungen (Paragraf 90a BGB → Paragraf 90 BGB), Generalklauseln (Paragraf 242 BGB), Legaldefinitionen | Teilbefund zu Methodenlehre — Grundlagen mit Leitfrage, Maßstab, belastbarer Quelle, Gegenhypothese, Unsicherheitsgrad und nächstem Arbeitsschritt |
 | Prüfungsgespräch nach AG-Tradition | "Paragraf 242 StGB Diebstahl", "Paragraf 812 BGB Bereicherungsrecht", "Ermessen im Verwaltungsrecht". Nutzer nennt es — oder es wird aus Schwachstellen im Lernplan gezogen. | gewichtete Prüfmatrix mit Tatbestandsmerkmalen, Fundstellen, Gegenposition, Beweislast, Risiko und Empfehlung |
 | Staatsexamen-Lernplan | Prüfungsziel (Erstes Staatsexamen / Referendariat / Zweites Staatsexamen). Bundesland (JAG/JAPrO — Pflichtstoff variiert). Paragraf 5d DRiG — gemeinsamer Pflichtfachkern für alle Bundesländer | Teilbefund zu Staatsexamen-Lernplan mit Leitfrage, Maßstab, belastbarer Quelle, Gegenhypothese, Unsicherheitsgrad und nächstem Arbeitsschritt |
-| Juristische Schreibberatung | Optional: Aufgabenstellung oder Bewertungsrichtlinien des Betreuers Wissenschaftlicher juristischer Stil folgt Konventionen, die in Stil- und Methodenhandbüchern sowie in den Zitierregeln der großen Fachzeitschriften. | Teilbefund zu Juristische Schreibberatung mit Leitfrage, Maßstab, belastbarer Quelle, Gegenhypothese, Unsicherheitsgrad und nächstem Arbeitsschritt |
 | Lernstruktur-Builder | Bestand: Neubau oder Erweiterung einer bestehenden Struktur. Format (klassische Gliederung A./I./1./a), Fließtext-Gerüst, Paragraphenübersicht, Flussdiagramm-Skizze Der Prüfungsstoff des Ersten Staatsexamens. | Teilbefund zu Lernstruktur-Builder mit Leitfrage, Maßstab, belastbarer Quelle, Gegenhypothese, Unsicherheitsgrad und nächstem Arbeitsschritt |
 | Rechtsgeschichte für Juristen | Dient die Rechtsgeschichte als Examensvorbereitung oder als Verständnis-Vertiefung? Gibt es Verbindungslinien zwischen Rechtsgeschichte und geltendem Recht? | Teilbefund zu Rechtsgeschichte für Juristen mit Leitfrage, Maßstab, belastbarer Quelle, Gegenhypothese, Unsicherheitsgrad und nächstem Arbeitsschritt |
 | Tatbestände lernen für Jurastudium und Examensvorbereitung | Welcher Tatbestand soll erarbeitet werden (Paragraf 242 StGB, Paragraf 280 BGB, Paragraf 823 BGB, etc.)? Paragrafen 242, 263, 212 StGB — Straf-Kerntatbestände für Drill-Lernen. | Teilbefund zu Tatbestände lernen für Jurastudium und Examensvorbereitung mit Leitfrage, Maßstab, belastbarer Quelle, Gegenhypothese, Unsicherheitsgrad und nächstem Arbeitsschritt |
+| Gutachtenstil-Übung | "Schwerpunkt: Kausalität im Deliktsrecht" Der Gutachtenstil ist keine Gesetzesnorm, sondern methodische Grundlage deutschen juristischen Denkens | gewichtete Prüfmatrix mit Tatbestandsmerkmalen, Fundstellen, Gegenposition, Beweislast, Risiko und Empfehlung |
 
 ## 16. Fachspezifische Praxisrouten
 
@@ -194,7 +192,7 @@ Diese Routen stammen aus den konkreten Arbeitsthemen dieses Plugins. Wähle die 
 
 Bearbeitungsauftrag: "BGB AT Willenserklärung", "Paragraf 242 StGB", "Allgemeines Verwaltungsrecht Ermessen". Prüfungsziel (Erstes Staatsexamen, Zweites Staatsexamen, Klausur, Hausarbeit) Karteikarten aus bereitgestellten Materialien sind vorrangig. Quellenregel: Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff; keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen.
 Prüfschritte: Quelle (Skript, Lernblatt, eigene Notizen — optional, aber für genaue Karten erforderlich); Kartenanzahl (Standard: 10–20 pro Einheit); Definitionen oder Streitstände ohne zuverlässige Quelle werden mit [PRÜFEN] markiert; Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen zitieren; Literatur nur nutzen, wenn der Nutzer die Quelle bereitstellt oder ein lizenzierter Live-Zugriff sie verifiziert.
-Norm- oder Entscheidungsbezug aus dem Fachmaterial: "BGB AT Willenserklärung", "Paragraf 242 StGB", "Allgemeines Verwaltungsrecht Ermessen"; Quelle (Skript, Lernblatt, eigene Notizen — optional, aber für genaue Karten erforderlich); Kartenanzahl (Standard: 10–20 pro Einheit); Prüfungsziel.
+Normbezug aus dem Fachmaterial: "BGB AT Willenserklärung", "Paragraf 242 StGB", "Allgemeines Verwaltungsrecht Ermessen"; Quelle (Skript, Lernblatt, eigene Notizen — optional, aber für genaue Karten erforderlich); Kartenanzahl (Standard: 10–20 pro Einheit); Prüfungsziel.
 Lieferstück: Teilbefund zu Karteikarten-Drill mit Leitfrage, Maßstab, belastbarer Quelle, Gegenhypothese, Unsicherheitsgrad und nächstem Arbeitsschritt.
 
 ### 16.2. Lerneinheit
@@ -213,7 +211,7 @@ Lieferstück: Teilbefund zu Methodenlehre — Grundlagen mit Leitfrage, Maßstab
 
 Bearbeitungsauftrag: "Paragraf 242 StGB Diebstahl", "Paragraf 812 BGB Bereicherungsrecht", "Ermessen im Verwaltungsrecht". Nutzer nennt es — oder es wird aus Schwachstellen im Lernplan gezogen. Wenn ein Thema konsequent vermieden wird, ist es das richtige für diese Sitzung.
 Prüfschritte: Optional: Schwierigkeit (Grundstudium / Hauptstudium / Examensniveau); Optional: Schwachstellen aus früheren Sitzungen (aus Profil oder Lernplan) Das Frage-Antwort-Gespräch orientiert sich an Examensrelevanz und kanonischer Auslegung; Maßgebliche Quellen für Frage-Formulierung und Korrektheit der Kontrollantworten: Rechtsprechung: Quellenregel für Kontrollantworten:; Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen zitieren; Literatur nur nutzen, wenn der Nutzer die Quelle bereitstellt oder ein lizenzierter Live-Zugriff sie verifiziert.
-Norm- oder Entscheidungsbezug aus dem Fachmaterial: "Paragraf 242 StGB Diebstahl", "Paragraf 812 BGB Bereicherungsrecht", "Ermessen im Verwaltungsrecht"; Optional: Schwierigkeit (Grundstudium / Hauptstudium / Examensniveau); Optional: Schwachstellen aus früheren Sitzungen.
+Normbezug aus dem Fachmaterial: "Paragraf 242 StGB Diebstahl", "Paragraf 812 BGB Bereicherungsrecht", "Ermessen im Verwaltungsrecht"; Optional: Schwierigkeit (Grundstudium / Hauptstudium / Examensniveau); Optional: Schwachstellen aus früheren Sitzungen.
 Lieferstück: gewichtete Prüfmatrix mit Tatbestandsmerkmalen, Fundstellen, Gegenposition, Beweislast, Risiko und Empfehlung.
 
 ### 16.5. Staatsexamen-Lernplan
@@ -222,43 +220,42 @@ Bearbeitungsauftrag: Prüfungsziel (Erstes Staatsexamen / Referendariat / Zweite
 Prüfschritte: Prüfungstermin (konkret oder ungefähr); Schwache Rechtsgebiete (Eigenangabe oder aus Lernverlauf); Starke Rechtsgebiete (weniger Priorität, aber nicht vernachlässigt); Stunden pro Woche (realistisch, nicht aspirativ); Freie Tage (Ruhetage — Pläne ohne Erholung brechen in Woche 3 zusammen).
 Lieferstück: Teilbefund zu Staatsexamen-Lernplan mit Leitfrage, Maßstab, belastbarer Quelle, Gegenhypothese, Unsicherheitsgrad und nächstem Arbeitsschritt.
 
-### 16.6. Juristische Schreibberatung
-
-Bearbeitungsauftrag: Optional: Aufgabenstellung oder Bewertungsrichtlinien des Betreuers Wissenschaftlicher juristischer Stil folgt Konventionen, die in Stil- und Methodenhandbüchern sowie in den Zitierregeln der großen Fachzeitschriften kodifiziert sind. Möllers, Juristische Arbeitstechnik und wissenschaftliches Arbeiten,.
-Prüfschritte: Entwurf (als Text einfügen oder Pfad angeben); Textsorte (Hausarbeit, Seminararbeit, Dissertation, Aufsatz, Klausur im Urteilsstil); Rechtsgebiet und Problemstellung (kurze Angabe); Prüfungsmaßstab (Examensarbeit / Seminarnote / Einreichung bei JuS, JA, NJW-etc.); Byrd/Lehmann, Zitierfibel für Juristen,.
-Lieferstück: Teilbefund zu Juristische Schreibberatung mit Leitfrage, Maßstab, belastbarer Quelle, Gegenhypothese, Unsicherheitsgrad und nächstem Arbeitsschritt.
-
-### 16.7. Lernstruktur-Builder
+### 16.6. Lernstruktur-Builder
 
 Bearbeitungsauftrag: Bestand: Neubau oder Erweiterung einer bestehenden Struktur. Format (klassische Gliederung A./I./1./a), Fließtext-Gerüst, Paragraphenübersicht, Flussdiagramm-Skizze Der Prüfungsstoff des Ersten Staatsexamens ist in den Juristenausbildungsgesetzen der Bundesländer definiert. Die Lernstruktur folgt dem jeweils geltenden Pflichtstoffkatalog.
 Prüfschritte: BGB AT, Schuldrecht AT, Schuldrecht BT, Sachenrecht, StGB AT, StGB BT, VerwR AT, VerwR BT, Öffentliches Recht, Europarecht, Zivilprozessrecht; Prüfungsordnung / Bundesland.
 Lieferstück: Teilbefund zu Lernstruktur-Builder mit Leitfrage, Maßstab, belastbarer Quelle, Gegenhypothese, Unsicherheitsgrad und nächstem Arbeitsschritt.
 
-### 16.8. Rechtsgeschichte für Juristen
+### 16.7. Rechtsgeschichte für Juristen
 
 Bearbeitungsauftrag: Dient die Rechtsgeschichte als Examensvorbereitung oder als Verständnis-Vertiefung? Gibt es Verbindungslinien zwischen Rechtsgeschichte und geltendem Recht? "Pandektistik", "BGB 1900", "Volksgerichtshof", "Radbruchsche Formel", "Mauerschützenprozesse", "EWG bis Lissabon", "GG-Genese", "Frankfurter Paulskirche".
 Prüfschritte: Welche Epoche oder welches Thema steht im Fokus: römisches Recht, BGB-Entstehung, NS-Recht, SED-Unrecht, GG-Genese, EU-Entwicklung?
 Lieferstück: Teilbefund zu Rechtsgeschichte für Juristen mit Leitfrage, Maßstab, belastbarer Quelle, Gegenhypothese, Unsicherheitsgrad und nächstem Arbeitsschritt.
 
-### 16.9. Tatbestände lernen für Jurastudium und Examensvorbereitung
+### 16.8. Tatbestände lernen für Jurastudium und Examensvorbereitung
 
 Bearbeitungsauftrag: Welcher Tatbestand soll erarbeitet werden (Paragraf 242 StGB, Paragraf 280 BGB, Paragraf 823 BGB, etc.)? Paragrafen 242, 263, 212 StGB — Straf-Kerntatbestände für Drill-Lernen. Paragrafen 40, 42 VwGO — VwR-Grundtatbestände für Drill-Lernen.
-Norm- oder Entscheidungsbezug aus dem Fachmaterial: Welcher Tatbestand soll erarbeitet werden (Paragraf 242 StGB, Paragraf 280 BGB, Paragraf 823 BGB, etc.)?
+Normbezug aus dem Fachmaterial: Welcher Tatbestand soll erarbeitet werden (Paragraf 242 StGB, Paragraf 280 BGB, Paragraf 823 BGB, etc.)?
 Lieferstück: Teilbefund zu Tatbestände lernen für Jurastudium und Examensvorbereitung mit Leitfrage, Maßstab, belastbarer Quelle, Gegenhypothese, Unsicherheitsgrad und nächstem Arbeitsschritt.
 
-### 16.10. Gutachtenstil-Übung
+### 16.9. Gutachtenstil-Übung
 
-Bearbeitungsauftrag: "Schwerpunkt: Kausalität im Deliktsrecht" Der Gutachtenstil ist keine Gesetzesnorm, sondern methodische Grundlage deutschen juristischen Denkens. Looschelders/Roth, Juristische Methodik im Prozess der Rechtsanwendung,.
-Prüfschritte: Sachverhalt (eigener Übungssachverhalt oder skill-generierter Klausurfall); Lösung des Studentenn (als Text einfügen); Rechtsgebiet (BGB AT, Schuldrecht, Sachenrecht, StGB AT/BT, VerwR, Öffentliches Recht etc.); Prüfungsformat (Erste Prüfung / Zweite Staatsprüfung / Hausarbeit / Seminararbeit); Maßgeblich sind: Methodenlehre und Auslegungslehre.
+Bearbeitungsauftrag: "Schwerpunkt: Kausalität im Deliktsrecht" Der Gutachtenstil ist keine Gesetzesnorm, sondern methodische Grundlage deutschen juristischen Denkens.
+Prüfschritte: Sachverhalt (eigener Übungssachverhalt oder skill-generierter Klausurfall); Lösung des Studentenn (als Text einfügen); Rechtsgebiet (BGB AT, Schuldrecht, Sachenrecht, StGB AT/BT, VerwR, Öffentliches Recht etc.); Prüfungsformat (Erste Prüfung / Zweite Staatsprüfung / Hausarbeit / Seminararbeit).
 Lieferstück: gewichtete Prüfmatrix mit Tatbestandsmerkmalen, Fundstellen, Gegenposition, Beweislast, Risiko und Empfehlung.
 
-### 16.11. Lernstrategien für Jura
+### 16.10. Lernstrategien für Jura
 
 Bearbeitungsauftrag: Welche Lernstrategie soll eingesetzt oder verbessert werden: Spaced Repetition, Retrieval Practice, Interleaving? Gibt es konkrete Schwachstellen (Vergessen nach kurzer Zeit, Subsumtionsprobleme, Zeitdruck)? Wie viel Zeit steht pro Lerneinheit zur Verfügung?
 Prüfschritte: In welcher Studienphase befindet sich der Nutzer (Grundstudium, Examensvorbereitung, Wiederholung)?
 Lieferstück: Teilbefund zu Lernstrategien für Jura mit Leitfrage, Maßstab, belastbarer Quelle, Gegenhypothese, Unsicherheitsgrad und nächstem Arbeitsschritt.
 
-### 16.12. AG/Seminar-Vorbereitung (Cold-Call-Prep)
+### 16.11. AG/Seminar-Vorbereitung (Cold-Call-Prep)
 
 Bearbeitungsauftrag: Bearbeite AG/Seminar-Vorbereitung (Cold-Call-Prep) entlang der Juristische Ausbildung und Falllösung-Prüflinie: Fallfrage: Aufgabenstellung, Bearbeitervermerk, Rollenzuweisung und begehrte Rechtsfolge exakt erfassen.
 Lieferstück: Teilbefund zu AG/Seminar-Vorbereitung (Cold-Call-Prep) mit Leitfrage, Maßstab, belastbarer Quelle, Gegenhypothese, Unsicherheitsgrad und nächstem Arbeitsschritt.
+
+### 16.12. Examensvorbereitungs-Fragen
+
+Bearbeitungsauftrag: Bearbeite Examensvorbereitungs-Fragen entlang der Juristische Ausbildung und Falllösung-Prüflinie: Fallfrage: Aufgabenstellung, Bearbeitervermerk, Rollenzuweisung und begehrte Rechtsfolge exakt erfassen.
+Lieferstück: Teilbefund zu Examensvorbereitungs-Fragen mit Leitfrage, Maßstab, belastbarer Quelle, Gegenhypothese, Unsicherheitsgrad und nächstem Arbeitsschritt.

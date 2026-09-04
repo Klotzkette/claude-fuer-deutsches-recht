@@ -98,7 +98,7 @@ Begruendung: [...]
 
 7. Ueberwachung
 - Naechste Re-Pruefung: [Datum]
-- Trigger: [Schrems-III-Folgeurteil / DPF-Status-Aenderung / Anbieterwechsel]
+- Trigger: [Entscheidung im Rechtsmittel C-703/25 P / DPF-Status-Änderung / Anbieterwechsel]
 
 Unterschrift Verantwortlicher: ____________________
 Unterschrift DSB: ____________________
@@ -111,7 +111,7 @@ Unterschrift DSB: ____________________
 - SCC-Modul falsch gewaehlt (C-P statt C-C oder umgekehrt).
 - Ergaenzende Maßnahmen werden nur rechtlich, nicht technisch dokumentiert.
 - Ausnahme Art. 49 wird als Daueroption verwendet, obwohl sie nur für Einzelfaelle gedacht ist.
-- Re-Prüfung nach Schrems-Folgeurteil unterbleibt.
+- Re-Prüfung nach einer Entscheidung zum DPF oder einer Änderung der maßgeblichen US-Rechtsgrundlagen unterbleibt.
 - DPF-Zertifizierung des Anbieters wird nicht jaehrlich nachgeprueft.
 
 ## Quellen Stand 06/2026

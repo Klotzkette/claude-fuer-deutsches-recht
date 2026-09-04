@@ -178,11 +178,11 @@ Die Landkarte dient der schnellen Auswahl. Sie ersetzt nicht die darunter ausfor
 | Methodenlehre und Auslegung | "Treu und Glauben" Paragraf 242 BGB — Generalklausel, immer auslegungsbedürftig. "Wichtiger Grund" Paragraf 626 BGB — unbestimmter Rechtsbegriff. | Teilbefund zu Methodenlehre und Auslegung mit Leitfrage, Maßstab, belastbarer Quelle, Gegenhypothese, Unsicherheitsgrad und nächstem Arbeitsschritt |
 | Professor erkennen und Strategie wählen | Wer hat die Aufgabe gestellt — welcher Lehrstuhl/Professor? Paragraf 1 Absatz 1 BRAO — Anwaltliche Unabhängigkeit als Berufsziel: wird im Studium durch eigenständiges Denken vorbereitet. | Teilbefund zu Professor erkennen und Strategie wählen mit Leitfrage, Maßstab, belastbarer Quelle, Gegenhypothese, Unsicherheitsgrad und nächstem Arbeitsschritt |
 | Verfassungsrecht — Grundrechts-Prüfung | Deutsche Grundrechte (Artikel 8, Artikel 9, Artikel 11, Artikel 12, Artikel 16): nur deutsche Staatsangehörige. Jedermanns-Rechte (Artikel 1-7, Artikel 10, Artikel 13, Artikel 14): alle natürlichen Personen. | gewichtete Prüfmatrix mit Tatbestandsmerkmalen, Fundstellen, Gegenposition, Beweislast, Risiko und Empfehlung |
-| Öffentliches Recht — Statthaftigkeit, Zulässigkeit, Begründetheit | Streit Bürger-Bürger über öffentlich-rechtliche Norm → Schau, ob Ausgangsfrage ÖR. Paragraf 80 V VwGO bei Verwaltungsakten mit sofortiger Vollziehung. | Teilbefund zu Öffentliches Recht — Statthaftigkeit, Zulässigkeit, Begründetheit mit Leitfrage, Maßstab, belastbarer Quelle, Gegenhypothese, Unsicherheitsgrad. |
 | Strafrecht — Drei-Stufen-Aufbau: Tatbestand, Rechtswidrigkeit, Schuld | Student prüft Strafbarkeit in der Hausarbeit: Drei-Stufen-Schema Tatbestand Rechtswidrigkeit Schuld. Paragrafen 242 263 223 212 StGB Versuch Paragraf 22 StGB Rücktritt Paragraf 24 StGB Konkurrenzen. | Teilbefund zu Strafrecht — Drei-Stufen-Aufbau: Tatbestand, Rechtswidrigkeit, Schuld mit Leitfrage, Maßstab, belastbarer Quelle, Gegenhypothese, Unsicherheitsgrad. |
 | Gutachtenstil und Urteilsstil | Bearbeite Gutachtenstil und Urteilsstil entlang der Juristische Ausbildung und Falllösung-Prüflinie: Fallfrage: Aufgabenstellung, Bearbeitervermerk, Rollenzuweisung und begehrte Rechtsfolge exakt erfassen. | entscheidungsreifer Entwurf mit Tenor oder Verfügungssatz, Streitstoff, Beweiswürdigung und Nebenentscheidungen |
 | Rechtstheorie und Rechtsphilosophie — Anbindung | Sittengesetz / Sittenwidrigkeit Paragraf 138 BGB, Paragraf 226a StGB. Wenn die Lehrkraft explizit auf Praktisches abstellt Recht ist das, was als Recht gesetzt ist. | Teilbefund zu Rechtstheorie und Rechtsphilosophie — Anbindung mit Leitfrage, Maßstab, belastbarer Quelle, Gegenhypothese, Unsicherheitsgrad und nächstem Arbeitsschritt |
 | Europarecht — Anwendbarkeit, Vorrang, Vorabentscheidung | Student bearbeitet Hausarbeit mit Europarecht-Bezug: Anwendungsvorrang Verordnung direkt anwendbar Richtlinie richtlinienkonforme Auslegung Vorabentscheidungsverfahren. | Teilbefund zu Europarecht — Anwendbarkeit, Vorrang, Vorabentscheidung mit Leitfrage, Maßstab, belastbarer Quelle, Gegenhypothese, Unsicherheitsgrad und nächstem Arbeitsschritt |
+| Selbst-Kontrolle vor Abgabe | Wie viel Zeit bleibt noch bis zur Abgabe für den Endcheck? Paragraf 276 BGB — Verschulden: Maßstab für erforderliche Sorgfalt (Analogie: Hausarbeits-Endcheck). | Kontrollvermerk zu Selbst-Kontrolle vor Abgabe mit Pflicht, Ist-Nachweis, Abweichung, Risiko, Verantwortlichem, Frist und Freigabe |
 
 ## 16. Fachspezifische Praxisrouten
 
@@ -208,51 +208,51 @@ Lieferstück: Teilbefund zu Professor erkennen und Strategie wählen mit Leitfra
 ### 16.4. Verfassungsrecht — Grundrechts-Prüfung
 
 Bearbeitungsauftrag: Deutsche Grundrechte (Artikel 8, Artikel 9, Artikel 11, Artikel 12, Artikel 16): nur deutsche Staatsangehörige. Jedermanns-Rechte (Artikel 1-7, Artikel 10, Artikel 13, Artikel 14): alle natürlichen Personen. Juristische Personen Artikel 19 III GG, soweit "wesensmäßig".
-Norm- oder Entscheidungsbezug aus dem Fachmaterial: Deutsche Grundrechte (Artikel 8, Artikel 9, Artikel 11, Artikel 12, Artikel 16): nur deutsche Staatsangehörige; Jedermanns-Rechte (Artikel 1-7, Artikel 10, Artikel 13, Artikel 14): alle natürlichen Personen; Juristische Personen Artikel 19 III GG, soweit "wesensmäßig"; Was schützt das Grundrecht?
+Normbezug aus dem Fachmaterial: Deutsche Grundrechte (Artikel 8, Artikel 9, Artikel 11, Artikel 12, Artikel 16): nur deutsche Staatsangehörige; Jedermanns-Rechte (Artikel 1-7, Artikel 10, Artikel 13, Artikel 14): alle natürlichen Personen; Juristische Personen Artikel 19 III GG, soweit "wesensmäßig"; Was schützt das Grundrecht?
 Lieferstück: gewichtete Prüfmatrix mit Tatbestandsmerkmalen, Fundstellen, Gegenposition, Beweislast, Risiko und Empfehlung.
 
-### 16.5. Öffentliches Recht — Statthaftigkeit, Zulässigkeit, Begründetheit
-
-Bearbeitungsauftrag: Streit Bürger-Bürger über öffentlich-rechtliche Norm → Schau, ob Ausgangsfrage ÖR. Paragraf 80 V VwGO bei Verwaltungsakten mit sofortiger Vollziehung. Paragraf 123 VwGO einstweilige Anordnung Möglichkeit, dass der Kläger in eigenen Rechten verletzt ist.
-Prüfschritte: Öffentlich-rechtlich (nicht zivil- oder strafrechtlich); Nicht-verfassungs-rechtlich (sonst BVerfG); Keine ausschließliche Sonderzuweisung; Streit zwischen Bürger und Behörde → typisch öffentlich-rechtlich; Streit zwischen zwei Behörden über behördliche Maßnahme → öffentlich-rechtlich.
-Lieferstück: Teilbefund zu Öffentliches Recht — Statthaftigkeit, Zulässigkeit, Begründetheit mit Leitfrage, Maßstab, belastbarer Quelle, Gegenhypothese, Unsicherheitsgrad und nächstem Arbeitsschritt.
-
-### 16.6. Strafrecht — Drei-Stufen-Aufbau: Tatbestand, Rechtswidrigkeit, Schuld
+### 16.5. Strafrecht — Drei-Stufen-Aufbau: Tatbestand, Rechtswidrigkeit, Schuld
 
 Bearbeitungsauftrag: Student prüft Strafbarkeit in der Hausarbeit: Drei-Stufen-Schema Tatbestand Rechtswidrigkeit Schuld. Paragrafen 242 263 223 212 StGB Versuch Paragraf 22 StGB Rücktritt Paragraf 24 StGB Konkurrenzen. Gibt es Hinweise auf Versuch, Vollendung oder Rücktritt nach Paragraf 24 StGB?
-Norm- oder Entscheidungsbezug aus dem Fachmaterial: Paragrafen 242 263 223 212 StGB Versuch Paragraf 22 StGB Rücktritt Paragraf 24 StGB Konkurrenzen.
+Normbezug aus dem Fachmaterial: Paragrafen 242 263 223 212 StGB Versuch Paragraf 22 StGB Rücktritt Paragraf 24 StGB Konkurrenzen.
 Lieferstück: Teilbefund zu Strafrecht — Drei-Stufen-Aufbau: Tatbestand, Rechtswidrigkeit, Schuld mit Leitfrage, Maßstab, belastbarer Quelle, Gegenhypothese, Unsicherheitsgrad und nächstem Arbeitsschritt.
 
-### 16.7. Gutachtenstil und Urteilsstil
+### 16.6. Gutachtenstil und Urteilsstil
 
 Bearbeitungsauftrag: Bearbeite Gutachtenstil und Urteilsstil entlang der Juristische Ausbildung und Falllösung-Prüflinie: Fallfrage: Aufgabenstellung, Bearbeitervermerk, Rollenzuweisung und begehrte Rechtsfolge exakt erfassen. Entwirf die im Fachverfahren richtige Entscheidungsform mit bestimmtem Ausspruch, festgestelltem Sachverhalt, offen gelegter Beweiswürdigung, tragender Subsumtion, Nebenentscheidungen und nur tatsächlich statthaftem Rechtsbehelf.
 Prüfschritte: Handelt es sich um eine Hausarbeit (immer Gutachtenstil) oder einen Schriftsatz (Urteilsstil)?
 Lieferstück: entscheidungsreifer Entwurf mit Tenor oder Verfügungssatz, Streitstoff, Beweiswürdigung und Nebenentscheidungen.
 
-### 16.8. Rechtstheorie und Rechtsphilosophie — Anbindung
+### 16.7. Rechtstheorie und Rechtsphilosophie — Anbindung
 
 Bearbeitungsauftrag: Sittengesetz / Sittenwidrigkeit Paragraf 138 BGB, Paragraf 226a StGB. Wenn die Lehrkraft explizit auf Praktisches abstellt Recht ist das, was als Recht gesetzt ist. Hans Kelsen (Reine Rechtslehre, 1934 / 1960): Recht als Stufenbau von Normen, Grundnorm an der Spitze.
 Prüfschritte: Grundlagen-Streit zwischen Auslegungs-Methoden; Grundrechts-Kollision (Praktische Konkordanz, Wesentlichkeits-Lehre); Anwendung neuer EU-Rechtsakte mit grundlegendem Bezug (Regulierungsrahmen, GDPR).
-Norm- oder Entscheidungsbezug aus dem Fachmaterial: Grundlagen-Streit zwischen Auslegungs-Methoden; Sittengesetz / Sittenwidrigkeit Paragraf 138 BGB, Paragraf 226a StGB; Naturrecht-Argumentation.
+Normbezug aus dem Fachmaterial: Grundlagen-Streit zwischen Auslegungs-Methoden; Sittengesetz / Sittenwidrigkeit Paragraf 138 BGB, Paragraf 226a StGB; Naturrecht-Argumentation.
 Lieferstück: Teilbefund zu Rechtstheorie und Rechtsphilosophie — Anbindung mit Leitfrage, Maßstab, belastbarer Quelle, Gegenhypothese, Unsicherheitsgrad und nächstem Arbeitsschritt.
 
-### 16.9. Europarecht — Anwendbarkeit, Vorrang, Vorabentscheidung
+### 16.8. Europarecht — Anwendbarkeit, Vorrang, Vorabentscheidung
 
 Bearbeitungsauftrag: Student bearbeitet Hausarbeit mit Europarecht-Bezug: Anwendungsvorrang Verordnung direkt anwendbar Richtlinie richtlinienkonforme Auslegung Vorabentscheidungsverfahren. Prüfraster Primärrecht-Sekundärrecht-Unterscheidung Anwendungsvorrang-Prüfung CILFIT-Ausnahmen. Abgrenzung zu methodenlehre-auslegung (allgemein) und verfassungsrecht-grundrechtsprüfung (GG).
-Norm- oder Entscheidungsbezug aus dem Fachmaterial: Artikel 267 AEUV Marleasing EuGH-Linien Grundfreiheiten Grundrechte-Charta GRCh.
+Normbezug aus dem Fachmaterial: Artikel 267 AEUV Marleasing EuGH-Linien Grundfreiheiten Grundrechte-Charta GRCh.
 Lieferstück: Teilbefund zu Europarecht — Anwendbarkeit, Vorrang, Vorabentscheidung mit Leitfrage, Maßstab, belastbarer Quelle, Gegenhypothese, Unsicherheitsgrad und nächstem Arbeitsschritt.
 
-### 16.10. Selbst-Kontrolle vor Abgabe
+### 16.9. Selbst-Kontrolle vor Abgabe
 
 Bearbeitungsauftrag: Wie viel Zeit bleibt noch bis zur Abgabe für den Endcheck? Paragraf 276 BGB — Verschulden: Maßstab für erforderliche Sorgfalt (Analogie: Hausarbeits-Endcheck). Paragraf 138 Absatz 1 ZPO — Wahrheitspflicht: Selbstkontrolle sichert Korrektheit der Tatsachengrundlage.
 Lieferstück: Kontrollvermerk zu Selbst-Kontrolle vor Abgabe mit Pflicht, Ist-Nachweis, Abweichung, Risiko, Verantwortlichem, Frist und Freigabe.
 
-### 16.11. Student prüft zivilrechtliche Ansprüche in der Hausarbeit
+### 16.10. Student prüft zivilrechtliche Ansprüche in der Hausarbeit
 
 Bearbeitungsauftrag: Gibt es Einreden oder Einwendungen (Erlöschung, Verjährung, Paragraf 320 BGB)? Paragrafen 433, 634, 611, 677 BGB — Vertragsrecht als erste Prüfungsstufe der V-C-G-D-D-B. Paragraf 311 Absatz 2 BGB — Culpa in contrahendo als vorvertragliche Haftung.
 Lieferstück: Teilbefund zu Student prüft zivilrechtliche Ansprüche in der Hausarbeit mit Leitfrage, Maßstab, belastbarer Quelle, Gegenhypothese, Unsicherheitsgrad und nächstem Arbeitsschritt.
 
-### 16.12. Zitierweise in der juristischen Hausarbeit
+### 16.11. Zitierweise in der juristischen Hausarbeit
 
 Bearbeitungsauftrag: Unklare Fundstellen als Prüfbedarf markieren. Wenn Aktenzeichen oder Datum fehlen: [Rechtsprechung prüfen: Gericht/Fundstelle vorhanden, aber Datum oder Aktenzeichen fehlt.] Wenn nur eine Datenbanknummer vorhanden ist: [Datenbankfundstelle prüfen: nicht übernehmen, bevor Gericht, Datum, Aktenzeichen und Inhalt verifiziert sind.] Bei mehreren Belegen.
 Lieferstück: Teilbefund zu Zitierweise in der juristischen Hausarbeit mit Leitfrage, Maßstab, belastbarer Quelle, Gegenhypothese, Unsicherheitsgrad und nächstem Arbeitsschritt.
+
+### 16.12. Bearbeitungs-Plan erstellen
+
+Bearbeitungsauftrag: Wie viele Wochen bis zur Abgabe — und gibt es Meilensteine (Gliederungs-Abgabe, Zwischengespräch)? Welche Bibliotheksressourcen stehen zur Verfügung (amtliche/freie Quellen oder lizenzierte Datenbanken bei vorhandenem Zugang, physische Kommentare)? Gibt es persönliche Kapazitätseinschränkungen (Nebenjob, Pflege, Krankheit)?
+Prüfschritte: Welche Art von Hausarbeit (GuP, Anfänger, Fortgeschrittene, Examen, Seminar) mit welchem Seitenumfang?
+Lieferstück: Teilbefund zu Bearbeitungs-Plan erstellen mit Leitfrage, Maßstab, belastbarer Quelle, Gegenhypothese, Unsicherheitsgrad und nächstem Arbeitsschritt.

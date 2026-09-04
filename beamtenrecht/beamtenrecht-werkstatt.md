@@ -91,18 +91,15 @@ Arbeitsgriff Arbeitsprodukt: Widerspruch, Konkurrenteneilantrag, Beurteilungsein
 | Bundes- oder Landeslaufbahnrecht | Zugang, Befähigung, Probezeit, Beförderung und Verwendungsanforderungen | Darlegungs- und Nachweisfrage für Beamten-, Richterdienst-, Besoldungs- und Versorgungsrecht: Welche dienstlichen und medizinischen Tatsachen sind durch welche Akte oder welches Gutachten belegt | Widerspruch, Konkurrenteneilantrag, Beurteilungseinwand, Gutachtenfragen, Besoldungsantrag oder Disziplinarerwiderung erstellen |
 | Bundes- oder Landesbesoldungs- und Versorgungsrecht | Amt, Stufe, Zuschlag, Ruhegehalt, Anrechnung und Stichtag | Darlegungs- und Nachweisfrage für Beamten-, Richterdienst-, Besoldungs- und Versorgungsrecht: Welche dienstlichen und medizinischen Tatsachen sind durch welche Akte oder welches Gutachten belegt | Widerspruch, Konkurrenteneilantrag, Beurteilungseinwand, Gutachtenfragen, Besoldungsantrag oder Disziplinarerwiderung erstellen |
 | Bundes- oder Landesdisziplinargesetz | Einleitung, Ermittlungen, Maßnahmen, Bemessung und Rechtsschutz | Darlegungs- und Nachweisfrage für Beamten-, Richterdienst-, Besoldungs- und Versorgungsrecht: Welche dienstlichen und medizinischen Tatsachen sind durch welche Akte oder welches Gutachten belegt | Widerspruch, Konkurrenteneilantrag, Beurteilungseinwand, Gutachtenfragen, Besoldungsantrag oder Disziplinarerwiderung erstellen |
-| VwGO Paragraf 80 Absatz 5 und Paragraf 123 | Eilrechtsschutz insbesondere vor Ernennung eines Konkurrenten oder Vollzug einer Maßnahme | Darlegungs- und Nachweisfrage für Beamten-, Richterdienst-, Besoldungs- und Versorgungsrecht: Welche dienstlichen und medizinischen Tatsachen sind durch welche Akte oder welches Gutachten belegt | Widerspruch, Konkurrenteneilantrag, Beurteilungseinwand, Gutachtenfragen, Besoldungsantrag oder Disziplinarerwiderung erstellen |
+| VwGO Paragraf 80 Absatz 5 und Paragraf 123 | Anfechtungs- und Verpflichtungssituation unterscheiden; Konkurrentenschutz vor Ernennung regelmäßig nach Paragraf 123 sichern | Darlegungs- und Nachweisfrage für Beamten-, Richterdienst-, Besoldungs- und Versorgungsrecht: Welche dienstlichen und medizinischen Tatsachen sind durch welche Akte oder welches Gutachten belegt | Widerspruch, Konkurrenteneilantrag, Beurteilungseinwand, Gutachtenfragen, Besoldungsantrag oder Disziplinarerwiderung erstellen |
 | Art. 33 Abs. 2 GG | Bestenauslese nach Eignung, Befähigung und fachlicher Leistung | Darlegungs- und Nachweisfrage für Beamten-, Richterdienst-, Besoldungs- und Versorgungsrecht: Welche dienstlichen und medizinischen Tatsachen sind durch welche Akte oder welches Gutachten belegt | Widerspruch, Konkurrenteneilantrag, Beurteilungseinwand, Gutachtenfragen, Besoldungsantrag oder Disziplinarerwiderung erstellen |
 
 ## 6. Rechtsprechungsanker, Quellenstatus und Rechtsfolgen
 
 | Rechtsprechungsanker | Quellenstatus | Nutzwert im Fall |
 | --- | --- | --- |
-| BVerwG, 11.10.2016 - 2 C 11.15 als verifizierter Anker zu Art. 33 Abs. 2 GG und Eignungsanforderungen bei Höchstaltersgrenzen | aus Skillmaterial extrahierter Anker; vor Zitierung am Aktenstand oder an belastbarer Quelle sichern | BVerwG, 11.10.2016 - 2 C 11.15 als verifizierter Anker zu Art. 33 Abs. 2 GG und Eignungsanforderungen bei Höchstaltersgrenzen |
-| BVerfG, 05.05.2015 - 2 BvL 17/09 u.a | aus Skillmaterial extrahierter Anker; vor Zitierung am Aktenstand oder an belastbarer Quelle sichern | R-Besoldung Sachsen-Anhalt; Parameterprüfung zur amtsangemessenen Alimentation |
-| BVerfG, 04.05.2020 - 2 BvL 4/18 | aus Skillmaterial extrahierter Anker; vor Zitierung am Aktenstand oder an belastbarer Quelle sichern | R-Besoldung Berlin; Mindestabstand und Alimentation |
-| BVerfG, 04.05.2020 - 2 BvL 6/17 u.a | aus Skillmaterial extrahierter Anker; vor Zitierung am Aktenstand oder an belastbarer Quelle sichern | kinderreiche Richterfamilien und Familienzuschlag |
-| BVerfG, 17.09.2025 - 2 BvL 20/17 u.a | aus Skillmaterial extrahierter Anker; vor Zitierung am Aktenstand oder an belastbarer Quelle sichern | Berliner A-Besoldung; Prekaritätsschwelle und Dreischritt |
+| BVerwG, Beschluss vom 03.03.2025 - 2 VR 4.24 | Profilanker; vor Zitierung am Aktenstand oder an belastbarer Quelle sichern | Fiktive Beurteilungsfortschreibung benötigt eine hinreichende gesetzliche Grundlage; übergangsweise Verwaltungspraxis und ernsthafte Auswahlchance bleiben gesondert zu prüfen |
+| BVerwG, Beschluss vom 13.05.2025 - 2 VR 5.24 | Profilanker; vor Zitierung am Aktenstand oder an belastbarer Quelle sichern | Ungeklärte Zweifel an der gesundheitlichen Eignung des ausgewählten Bewerbers können den Bewerbungsverfahrensanspruch verletzen; aussagekräftige ältere Beurteilungen sind einzubeziehen |
 - Rechtsfolge zuerst als Arbeitsprodukt denken: Widerspruch, Konkurrenteneilantrag, Beurteilungseinwand, Gutachtenfragen, Besoldungsantrag oder Disziplinarerwiderung erstellen
 - Quellenstatus immer sichtbar machen: Aktenfund, Normtext, Profilanker, gesicherte Rechtsprechung oder offene Prüfung.
 
@@ -113,10 +110,9 @@ Arbeitsgriff Arbeitsprodukt: Widerspruch, Konkurrenteneilantrag, Beurteilungsein
 - Bundes- oder Landeslaufbahnrecht: Zugang, Befähigung, Probezeit, Beförderung und Verwendungsanforderungen.
 - Bundes- oder Landesbesoldungs- und Versorgungsrecht: Amt, Stufe, Zuschlag, Ruhegehalt, Anrechnung und Stichtag.
 - Bundes- oder Landesdisziplinargesetz: Einleitung, Ermittlungen, Maßnahmen, Bemessung und Rechtsschutz.
-- VwGO Paragraf 80 Absatz 5 und Paragraf 123: Eilrechtsschutz insbesondere vor Ernennung eines Konkurrenten oder Vollzug einer Maßnahme.
+- VwGO Paragraf 80 Absatz 5 und Paragraf 123: Anfechtungs- und Verpflichtungssituation unterscheiden; Konkurrentenschutz vor Ernennung regelmäßig nach Paragraf 123 sichern.
 - Art. 33 Abs. 2 GG: Bestenauslese nach Eignung, Befähigung und fachlicher Leistung; im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
 - Art. 74 Abs. 1 Nr. 27 GG und Art. 70 GG: Statusrechtliche Bundeskompetenz, Laufbahn/Besoldung/Versorgung der Länder grundsätzlich Landesrecht; im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
-- Art. 98 Abs. 2 GG: Wenn ein Bundesrichter im Amt oder außer Amts gegen die Grundsätze des Grundgesetzes oder gegen die verfassungsmäßige Ordnung verstößt, kann; im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
 - Art. 98 Abs. 5 GG ermöglicht analoge Vorschriften in den Ländern; landesrechtliche Vorschriften unterschiedlich; im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
 - Art. 97 GG, Art. 98 GG, Art. 101 GG, Paragraf 21e GVG sowie DRiG Paragrafen 25, 26, 39, 61 ff; im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
 - Paragraf 24 AGG erstreckt das AGG auf Beamtinnen und Beamte mit Modifikationen; im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
@@ -124,11 +120,8 @@ Arbeitsgriff Arbeitsprodukt: Widerspruch, Konkurrenteneilantrag, Beurteilungsein
 
 ## 8. Leitentscheidungen
 
-- BVerwG, 11.10.2016 - 2 C 11.15 als verifizierter Anker zu Art. 33 Abs. 2 GG und Eignungsanforderungen bei Höchstaltersgrenzen.
-- BVerfG, 05.05.2015 - 2 BvL 17/09 u.a.: R-Besoldung Sachsen-Anhalt; Parameterprüfung zur amtsangemessenen Alimentation.
-- BVerfG, 04.05.2020 - 2 BvL 4/18: R-Besoldung Berlin; Mindestabstand und Alimentation.
-- BVerfG, 04.05.2020 - 2 BvL 6/17 u.a.: kinderreiche Richterfamilien und Familienzuschlag.
-- BVerfG, 17.09.2025 - 2 BvL 20/17 u.a.: Berliner A-Besoldung; Prekaritätsschwelle und Dreischritt.
+- BVerwG, Beschluss vom 03.03.2025 - 2 VR 4.24: Fiktive Beurteilungsfortschreibung benötigt eine hinreichende gesetzliche Grundlage; übergangsweise Verwaltungspraxis und ernsthafte Auswahlchance bleiben gesondert zu prüfen.
+- BVerwG, Beschluss vom 13.05.2025 - 2 VR 5.24: Ungeklärte Zweifel an der gesundheitlichen Eignung des ausgewählten Bewerbers können den Bewerbungsverfahrensanspruch verletzen; aussagekräftige ältere Beurteilungen sind einzubeziehen.
 
 ## 9. Prüfraster
 
@@ -150,7 +143,7 @@ Arbeitsgriff Arbeitsprodukt: Widerspruch, Konkurrenteneilantrag, Beurteilungsein
 10.6. Gegenposition: Formuliere den stärksten ernsthaften Angriff; hier setzt die Gegenseite typischerweise bei welche formelle oder materielle Auswahl-, Beurteilungs- oder Beteiligungsregel ist entscheidend an.
 10.7. Erwiderung: Antworte mit konkretem Gegenbeleg, Auslegung oder Beweislastregel und ziehe die Folge auf Widerspruch, Konkurrenteneilantrag, Beurteilungseinwand, Gutachtenfragen, Besoldungsantrag oder Disziplinarerwiderung erstellen; ein bloßes Bestreiten genügt nicht.
 10.8. Arbeitsprodukt: Schließe mit Antrag, Tenor, Klausel, Entscheidung oder nächstem Schritt; hier typischerweise Statusblatt: Dienstherr, Rechtskreis, Statusamt, Funktion, Laufbahn, Maßnahme, Stichtag, Beteiligung, Frist und Aktenfund; Auswahlmatrix: Anforderung, Bewerber, Beurteilung, Hilfskriterium, Dokumentation, Fehler, Auswirkung und Eilantrag.
-10.9. Quellenstatus: Ordne Rechtsprechung nach Tragweite ein; erste Fallanker sind BVerwG, 11.10.2016 - 2 C 11.15 als verifizierter Anker zu Art. 33; BVerfG, 05.05.2015 - 2 BvL 17/09 u.a.
+10.9. Quellenstatus: Ordne Rechtsprechung nach Tragweite ein; erste Fallanker sind BVerwG, Beschluss vom 03.03.2025 - 2 VR 4.24; BVerwG, Beschluss vom 13.05.2025 - 2 VR 5.24.
 
 ## 11. Outputvarianten und Empfängerwunsch
 
@@ -186,12 +179,12 @@ Die Landkarte dient der schnellen Auswahl. Sie ersetzt nicht die darunter ausfor
 | --- | --- | --- |
 | Besold Konkurrentenschutz Eilrechtsschutz Ernennungssper | Antrag Paragraf 123 VwGO: Ernennungssperre, damit Wartezeit zur Klage gewährt wird. Anordnungsgrund: dringliche Folgen, wenn Ernennung erfolgt (irreversible Eingabe = abgeschlossene Personalentscheidung). | nachrechenbare Berechnung mit Eingabewerten, Zwischenschritten, Varianten, Stichtag und Belegspalte |
 | Amtsärztliches Gutachten Dienstunfähigkeit | Amtsärztliches Gutachten (falls vorliegend). Beamter ist verpflichtet, sich der amtsärztlichen Untersuchung zu unterziehen (Paragraf 44 BBG). | gewichtete Prüfmatrix mit Tatbestandsmerkmalen, Fundstellen, Gegenposition, Beweislast, Risiko und Empfehlung |
-| Dienstgericht für Richter | Bearbeite Dienstgericht für Richter entlang der Beamten-, Richterdienst-, Besoldungs- und Versorgungsrecht-Prüflinie: Status und Dienstherr: Ernennung, Statusamt, Funktion, Laufbahn, Dienststelle, anwendbares Bundes. | Fachvotum zu Dienstgericht für Richter mit Tatbestandsmerkmalen, Aktenfundstellen, Beweislast, stärkster Gegenposition, Risiko und ausformulierter Rechtsfolge |
 | AGG und Paragraf 9 BBG — Anspruchskonkurrenz im Auswahlverfahren | Skill zum Verhältnis von AGG-Diskriminierungsschutz und beamtenrechtlichem Bewerbungsverfahrensanspruch nach Paragraf 9 BBG bzw. | Fachvotum zu AGG und Paragraf 9 BBG — Anspruchskonkurrenz im Auswahlverfahren mit Tatbestandsmerkmalen, Aktenfundstellen, Beweislast, stärkster Gegenposition, Risiko. |
 | BeamtStG, BBG und Landesrecht richtig abgrenzen | Das BeamtStG ist kein vollständiges Beamtenhandbuch. Für Bundesbeamte ist das BBG Ausgangspunkt; daneben stehen BBesG, BeamtVG, BDG und Laufbahnverordnungen. Entlassung, Verlust der Beamtenrechte, Ruhestand | Fachvotum zu BeamtStG, BBG und Landesrecht richtig abgrenzen mit Tatbestandsmerkmalen, Aktenfundstellen, Beweislast, stärkster Gegenposition, Risiko und ausformulierter Rechtsfolge |
 | Altersteilzeit Paragraf 93 BBG — Blockmodell und Teilzeitmodell | Skill zur Altersteilzeit der Beamten nach Paragraf 93 BBG bzw. Klärt die zwei Modelle Teilzeitmodell und Blockmodell die Bezügehöhe während Aktiv- und Freistellungsphase die Auswirkungen auf das Ruhegehalt. | Fachvotum zu Altersteilzeit Paragraf 93 BBG — Blockmodell und Teilzeitmodell mit Tatbestandsmerkmalen, Aktenfundstellen, Beweislast, stärkster Gegenposition, Risiko. |
 | Amtsangemessene Alimentation | Status und Rechtsquelle: Bundesrecht, Landesrecht oder Richterrecht trennen; Normen live gegen amtliche Quellen prüfen. | Fachvotum zu Amtsangemessene Alimentation mit Tatbestandsmerkmalen, Aktenfundstellen, Beweislast, stärkster Gegenposition, Risiko und ausformulierter Rechtsfolge |
 | Begrenzte Dienstfähigkeit nach Paragraf 27 BBG | Skill zur begrenzten Dienstfähigkeit nach Paragraf 27 BBG bzw. Klärt die Voraussetzungen für die Reduzierung der Arbeitszeit anstatt Versetzung in den Ruhestand das Verhältnis zu Paragraf 26 BBG Dienstunfähigkeit. | Fachvotum zu Begrenzte Dienstfähigkeit nach Paragraf 27 BBG mit Tatbestandsmerkmalen, Aktenfundstellen, Beweislast, stärkster Gegenposition, Risiko und ausformulierter Rechtsfolge |
+| Dienstgericht für Richter | Bearbeite Dienstgericht für Richter als konkreten Vorgang im Gebiet Beamten-, Richterdienst-, Besoldungs- und Versorgungsrecht | Fachvotum zu Dienstgericht für Richter mit Tatbestandsmerkmalen, Aktenfundstellen, Beweislast, stärkster Gegenposition, Risiko und ausformulierter Rechtsfolge |
 | Konkurrentenklage — einstweiliger Rechtsschutz nach Paragraf 123 VwGO | Statusamt und Besoldungsgruppe des Mandanten. Form: Schriftsatz an das zuständige Verwaltungsgericht; Vertretung durch Rechtsanwalt nicht zwingend, aber im OVG zwingend (Paragraf 67 IV VwGO). | nachrechenbare Berechnung mit Eingabewerten, Zwischenschritten, Varianten, Stichtag und Belegspalte |
 
 ## 16. Fachspezifische Praxisrouten
@@ -202,7 +195,7 @@ Diese Routen stammen aus den konkreten Arbeitsthemen dieses Plugins. Wähle die 
 
 Bearbeitungsauftrag: Antrag Paragraf 123 VwGO: Ernennungssperre, damit Wartezeit zur Klage gewährt wird. Anordnungsgrund: dringliche Folgen, wenn Ernennung erfolgt (irreversible Eingabe = abgeschlossene Personalentscheidung). Die tragende Achse ist Artikel 33 Absatz 2 GG: Bewerbungsverfahrensanspruch, dokumentierte Auswahlentscheidung, aktuelle dienstliche Beurteilungen und effektiver Rechtsschutz vor Ernennung.
 Prüfschritte: Artikel 33 Absatz 2 GG: Bestenauslese; Paragraf 9 BBG / BeamtStG: Auswahlverfahren; Paragraf 123 VwGO: Einstweilige Anordnung; Auswahlentscheidung des Dienstherrn; Anordnungsanspruch: Anspruch auf rechtmäßige Auswahl.
-Norm- oder Entscheidungsbezug aus dem Fachmaterial: Artikel 33 Absatz 2 GG: Bestenauslese; Paragraf 9 BBG / BeamtStG: Auswahlverfahren; Paragraf 123 VwGO: Einstweilige Anordnung; Bei Beförderungsstelle / Neuernennung; Mehrere Bewerber; Auswahlentscheidung des Dienstherrn; Artikel 33 Absatz 2 GG: Bestenauslese; Paragraf 9 BBG / BeamtStG: Auswahlverfahren; Paragraf 123 VwGO: Einstweilige Anordnung.
+Normbezug aus dem Fachmaterial: Artikel 33 Absatz 2 GG: Bestenauslese; Paragraf 9 BBG / BeamtStG: Auswahlverfahren; Paragraf 123 VwGO: Einstweilige Anordnung; Bei Beförderungsstelle / Neuernennung; Mehrere Bewerber; Auswahlentscheidung des Dienstherrn; Artikel 33 Absatz 2 GG: Bestenauslese; Paragraf 9 BBG / BeamtStG: Auswahlverfahren; Paragraf 123 VwGO: Einstweilige Anordnung.
 Lieferstück: nachrechenbare Berechnung mit Eingabewerten, Zwischenschritten, Varianten, Stichtag und Belegspalte.
 
 ### 16.2. Amtsärztliches Gutachten Dienstunfähigkeit
@@ -211,41 +204,41 @@ Bearbeitungsauftrag: Amtsärztliches Gutachten (falls vorliegend). Beamter ist v
 Prüfschritte: Untersuchungsaufforderung des Dienstherrn; Schriftliche, hinreichend bestimmte Aufforderung mit Angabe des konkreten Anlasses, der Untersuchungsstelle, des Umfangs der Untersuchung und der Folgen unterlassener Mitwirkung; Pauschale oder unbestimmte Aufforderungen sind rechtswidrig (BVerwG-Rechtsprechung, konkret vor Zitat frei prüfen); Verweigerung kann zu Ruhestandsversetzung gemäß Vermutungsregelung führen.
 Lieferstück: gewichtete Prüfmatrix mit Tatbestandsmerkmalen, Fundstellen, Gegenposition, Beweislast, Risiko und Empfehlung.
 
-### 16.3. Dienstgericht für Richter
-
-Bearbeitungsauftrag: Bearbeite Dienstgericht für Richter entlang der Beamten-, Richterdienst-, Besoldungs- und Versorgungsrecht-Prüflinie: Status und Dienstherr: Ernennung, Statusamt, Funktion, Laufbahn, Dienststelle, anwendbares Bundes- oder Landesrecht und Stichtag.
-Prüfschritte: Beanstandeter Vorgang (Disziplinarverfügung, Maßnahme der Dienstaufsicht, Geschäftsverteilungsbeschluss); Statusamt (Bundes- oder Landesrichter); Paragraf 62 DRiG: Dienstgericht des Bundes für Bundesrichter, Dienstgerichte der Länder für Landesrichter; Paragraf 78 DRiG: Disziplinarsachen, Statussachen, Prüfung nach Paragraf 26 DRiG; Dienstgericht: Drei Berufsrichter, zwei ehrenamtliche Richter (in Disziplinarsachen) bzw.
-Norm- oder Entscheidungsbezug aus dem Fachmaterial: Beanstandeter Vorgang (Disziplinarverfügung, Maßnahme der Dienstaufsicht, Geschäftsverteilungsbeschluss); Statusamt (Bundes- oder Landesrichter); Spruchkörper-Besetzung; Antrag im Detail; Paragraf 62 DRiG: Dienstgericht des Bundes für Bundesrichter, Dienstgerichte.
-Lieferstück: Fachvotum zu Dienstgericht für Richter mit Tatbestandsmerkmalen, Aktenfundstellen, Beweislast, stärkster Gegenposition, Risiko und ausformulierter Rechtsfolge.
-
-### 16.4. AGG und Paragraf 9 BBG — Anspruchskonkurrenz im Auswahlverfahren
+### 16.3. AGG und Paragraf 9 BBG — Anspruchskonkurrenz im Auswahlverfahren
 
 Bearbeitungsauftrag: Skill zum Verhältnis von AGG-Diskriminierungsschutz und beamtenrechtlichem Bewerbungsverfahrensanspruch nach Paragraf 9 BBG bzw. Klärt Anwendbarkeit der AGG-Vorschriften auf Auswahlverfahren der öffentlichen Hand Beweislastregeln Anhörung und Anspruchskonkurrenz zum bewerbungsverfahrensrechtlichen Anspruch nach Artikel 33 II GG. Verweist auf schwerbehinderte-bewerber-165-SGB-9.
 Lieferstück: Fachvotum zu AGG und Paragraf 9 BBG — Anspruchskonkurrenz im Auswahlverfahren mit Tatbestandsmerkmalen, Aktenfundstellen, Beweislast, stärkster Gegenposition, Risiko und ausformulierter Rechtsfolge.
 
-### 16.5. BeamtStG, BBG und Landesrecht richtig abgrenzen
+### 16.4. BeamtStG, BBG und Landesrecht richtig abgrenzen
 
 Bearbeitungsauftrag: Das BeamtStG ist kein vollständiges Beamtenhandbuch. Für Bundesbeamte ist das BBG Ausgangspunkt; daneben stehen BBesG, BeamtVG, BDG und Laufbahnverordnungen. Entlassung, Verlust der Beamtenrechte, Ruhestand.
 Prüfschritte: Handelt die Bundesbehörde, ein Land, eine Kommune, Universität, Kammer, Rundfunkanstalt oder sonstige Körperschaft; Geht es um Statusrechte oder um Laufbahn/Besoldung/Versorgung; Gibt es eine Speziallaufbahn: Polizei, Schule, Justizvollzug, Feuerwehr, Steuerverwaltung, Hochschule; Es setzt gemeinsame statusrechtliche Eckpunkte für Landes- und Kommunalbeamte; Details der Laufbahn, Besoldung, Versorgung und des Verfahrens stehen in Landesgesetzen.
 Lieferstück: Fachvotum zu BeamtStG, BBG und Landesrecht richtig abgrenzen mit Tatbestandsmerkmalen, Aktenfundstellen, Beweislast, stärkster Gegenposition, Risiko und ausformulierter Rechtsfolge.
 
-### 16.6. Altersteilzeit Paragraf 93 BBG — Blockmodell und Teilzeitmodell
+### 16.5. Altersteilzeit Paragraf 93 BBG — Blockmodell und Teilzeitmodell
 
 Bearbeitungsauftrag: Skill zur Altersteilzeit der Beamten nach Paragraf 93 BBG bzw. Klärt die zwei Modelle Teilzeitmodell und Blockmodell die Bezügehöhe während Aktiv- und Freistellungsphase die Auswirkungen auf das Ruhegehalt und auf den Versorgungsabschlag nach Paragraf 14 BeamtVG. Paragraf 93 BBG (Bund); für Länder entsprechende Vorschriften.
-Norm- oder Entscheidungsbezug aus dem Fachmaterial: Skill zur Altersteilzeit der Beamten nach Paragraf 93 BBG bzw; Paragraf 9 BeamtStG in Verbindung mit den Landesregelungen.
+Normbezug aus dem Fachmaterial: Skill zur Altersteilzeit der Beamten nach Paragraf 93 BBG bzw; Paragraf 9 BeamtStG in Verbindung mit den Landesregelungen.
 Lieferstück: Fachvotum zu Altersteilzeit Paragraf 93 BBG — Blockmodell und Teilzeitmodell mit Tatbestandsmerkmalen, Aktenfundstellen, Beweislast, stärkster Gegenposition, Risiko und ausformulierter Rechtsfolge.
 
-### 16.7. Amtsangemessene Alimentation
+### 16.6. Amtsangemessene Alimentation
 
 Bearbeitungsauftrag: Status und Rechtsquelle: Bundesrecht, Landesrecht oder Richterrecht trennen; Normen live gegen amtliche Quellen prüfen. Eingriff und Ziel: Verwaltungsakt, dienstliche Weisung, Auswahlentscheidung, Realakt oder bloße Kommunikation einordnen. Materielle Prüfung: Tatbestand, Ermessen, Beteiligung, Begründung, Gleichbehandlung, Fürsorge und Verhältnismäßigkeit prüfen.
 Prüfschritte: Welcher Status liegt vor: Beamter, Richter, Bewerber, Anwärter, Tarifbeschäftigter, Wahlbeamter oder Mischfall; Welcher Dienstherr und welches Bundesland sind betroffen; Gibt es einen Bescheid, eine Beurteilung, eine Ausschreibung, einen Auswahlvermerk oder eine Verfügung mit Datum und Zugang; Welche Frist läuft und welches Ergebnis soll erreicht werden; Welche Unterlagen fehlen noch: Personalakte, Beurteilungsbeiträge, amtsärztliches Gutachten, Berechnungsblatt, Beteiligungsvermerk?
 Lieferstück: Fachvotum zu Amtsangemessene Alimentation mit Tatbestandsmerkmalen, Aktenfundstellen, Beweislast, stärkster Gegenposition, Risiko und ausformulierter Rechtsfolge.
 
-### 16.8. Begrenzte Dienstfähigkeit nach Paragraf 27 BBG
+### 16.7. Begrenzte Dienstfähigkeit nach Paragraf 27 BBG
 
 Bearbeitungsauftrag: Skill zur begrenzten Dienstfähigkeit nach Paragraf 27 BBG bzw. Klärt die Voraussetzungen für die Reduzierung der Arbeitszeit anstatt Versetzung in den Ruhestand das Verhältnis zu Paragraf 26 BBG Dienstunfähigkeit die Bezügehöhe bei begrenzter Dienstfähigkeit und die Auswirkungen auf die Versorgungsanwartschaft. Restliche Dienstleistung ist mit mindestens 50 v.
-Norm- oder Entscheidungsbezug aus dem Fachmaterial: Skill zur begrenzten Dienstfähigkeit nach Paragraf 27 BBG bzw; Paragraf 27 BeamtStG; Klärt die Voraussetzungen für die Reduzierung der Arbeitszeit anstatt Versetzung in den Ruhestand das Verhältnis zu Paragraf 26 BBG Dienstunfähigkeit die Bezügehöhe bei begrenzter.
+Normbezug aus dem Fachmaterial: Skill zur begrenzten Dienstfähigkeit nach Paragraf 27 BBG bzw; Paragraf 27 BeamtStG; Klärt die Voraussetzungen für die Reduzierung der Arbeitszeit anstatt Versetzung in den Ruhestand das Verhältnis zu Paragraf 26 BBG Dienstunfähigkeit die Bezügehöhe bei begrenzter.
 Lieferstück: Fachvotum zu Begrenzte Dienstfähigkeit nach Paragraf 27 BBG mit Tatbestandsmerkmalen, Aktenfundstellen, Beweislast, stärkster Gegenposition, Risiko und ausformulierter Rechtsfolge.
+
+### 16.8. Dienstgericht für Richter
+
+Bearbeitungsauftrag: Bearbeite Dienstgericht für Richter als konkreten Vorgang im Gebiet Beamten-, Richterdienst-, Besoldungs- und Versorgungsrecht.
+Prüfschritte: Beanstandeter Vorgang (Disziplinarverfügung, Maßnahme der Dienstaufsicht, Geschäftsverteilungsbeschluss); Statusamt (Bundes- oder Landesrichter); Paragraf 62 DRiG: Dienstgericht des Bundes für Bundesrichter, Dienstgerichte der Länder für Landesrichter; Paragraf 78 DRiG: Disziplinarsachen, Statussachen, Prüfung nach Paragraf 26 DRiG; Dienstgericht: Drei Berufsrichter, zwei ehrenamtliche Richter (in Disziplinarsachen) bzw.
+Normbezug aus dem Fachmaterial: Beanstandeter Vorgang (Disziplinarverfügung, Maßnahme der Dienstaufsicht, Geschäftsverteilungsbeschluss); Statusamt (Bundes- oder Landesrichter); Spruchkörper-Besetzung; Antrag im Detail; Paragraf 62 DRiG: Dienstgericht des Bundes für Bundesrichter, Dienstgerichte.
+Lieferstück: Fachvotum zu Dienstgericht für Richter mit Tatbestandsmerkmalen, Aktenfundstellen, Beweislast, stärkster Gegenposition, Risiko und ausformulierter Rechtsfolge.
 
 ### 16.9. Konkurrentenklage — einstweiliger Rechtsschutz nach Paragraf 123 VwGO
 

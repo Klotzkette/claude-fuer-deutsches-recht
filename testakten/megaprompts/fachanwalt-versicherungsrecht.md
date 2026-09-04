@@ -14,8 +14,8 @@ Diese Vollprüfung enthält top-10 von 91 Skills des Plugins `fachanwalt-versich
 6. **fachanwalt-versicherungsrecht-orientierung** — Für Fachanwalt für Versicherungsrecht — Orientierung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt m…
 7. **erstgespraech-mandatsannahme** — Für Erstgespräch Mandatsannahme: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächste…
 8. **erstpruefung-und-mandatsziel** — Für Fachanwalt: Erstprüfung, Rollenklärung und Mandatsziel: routet Rolle, Frist, Unterlagen und Fachschritt; Ergebnis: T…
-9. **fachanwalt-versicherungsrecht-deckungsklage** — Für Deckungsklage: erstellt Entwurf mit Antrag, Beweis und Anlagen; Ergebnis: Schriftsatz mit Begründungs- und Anlagenlo…
-10. **schnittstelle-zahlen-schwellen-und-berechnung** — Für Schnittstelle: Zahlen, Schwellenwerte und Berechnung: rechnet Beträge, Schwellen und Varianten; Ergebnis: Berechnung…
+9. **berufsunfaehigkeit-klage** — Erstellt und prüft Klagen auf Leistungen aus einer Berufsunfähigkeitsversicherung; leitet Leistungsgrad, Prognosezeitrau…
+10. **deckungsanfrage-pruefen** — Prüft Deckung, Fälligkeit und Einwendungen des Versicherers anhand von Police, AVB und Versicherungsfall; trennt Schaden…
 
 ---
 
@@ -835,377 +835,264 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 
 ---
 
-## Skill: `fachanwalt-versicherungsrecht-deckungsklage`
+## Skill: `berufsunfaehigkeit-klage`
 
-_Für Deckungsklage: erstellt Entwurf mit Antrag, Beweis und Anlagen; Ergebnis: Schriftsatz mit Begründungs- und Anlagenlogik. Fachgebiet: Fachanwalt Versicherungsrecht. Route: fachanwalt-versicherungsrecht-deckungsklage._
+_Erstellt und prüft Klagen auf Leistungen aus einer Berufsunfähigkeitsversicherung; leitet Leistungsgrad, Prognosezeitraum und Verweisung aus der konkreten AVB-Fassung ab und verbindet Berufsbild, medizinische Einschränkungen, Beweisangebote und Anträge._
 
-# Deckungsklage
+# Klage aus der Berufsunfähigkeitsversicherung
 
-## Kaltstart-Rückfragen
+## 1. Direktauftrag
 
-1. Wurde außergerichtlich vollständig die Leistung gefordert und ist die Ablehnung endgültig? Liegt ein ausdrückliches Ablehnungsschreiben vor?
-2. Bei BU-Versicherung: Liegt ein Berufsunfähigkeitsgutachten und liegen ärztliche Atteste vor? Ist der Grad der BU von mindestens 50 % ärztlich belegt?
-3. Welche Klageart ist erforderlich — Leistungsklage auf bezifferten Betrag oder Feststellungsklage auf künftige Rentenpflicht (§ 256 ZPO)?
-4. Welcher Streitwert ergibt sich — bei wiederkehrenden Leistungen 3,5-facher Jahreswert (§ 9 ZPO); gedeckelt wenn Restlaufzeit kürzer?
-5. Besteht Rechtsschutzversicherung — Deckungszusage eingeholt? Oder ist PKH (§ 114 ZPO) zu beantragen?
-6. Sind alle Vertragsunterlagen (Police, AVB-Fassung zum Vertragsschluss, Antragsformular, sämtliche Schriftwechsel) vorhanden?
-7. Droht Verjährung (3 Jahre ab Jahresende der Kenntnis §§ 195, 199 BGB)? Hemmung durch Ombudsstelle § 204 BGB aktiv?
-8. Ist eine Streitverkündung an den Versicherungsmakler/Vermittler erforderlich (bei Beratungsfehlern)?
-- **Was will der Mandant wirklich erreichen?** (Nicht: was steht im Standardweg, sondern: welches Ergebnis ist fuer den Mandanten persoenlich/wirtschaftlich das beste? Manchmal ist der schnellere Vergleich besser als der formal "richtige" Weg.)
+Lies Police, vollständige AVB-Fassung, Nachträge, Leistungsantrag, Tätigkeitsbeschreibung, medizinische Unterlagen, Antragsfragen, Versicherer-Gutachten und Ablehnung. Erstelle sofort eine Klausel- und Beweismatrix. Frage nur nach Tatsachen, die für versicherten Beruf, vertraglichen Leistungsgrad, Prognose oder Rückschau, Verweisung, Leistungsbeginn oder einen Einwand des Versicherers fehlen.
 
-## Rechtsgrundlagen
+## 2. Zentrale Vertragsweichen
 
-### Normtexte (Kernauszug)
+| Weiche | Aus der Akte zu entnehmen | Keine pauschale Annahme |
+| --- | --- | --- |
+| versicherter Leistungsgrad | konkrete Prozentgrenze oder Teilstaffel | 50 Prozent sind häufig, aber nicht gesetzlich festgelegt |
+| zeitliche Voraussetzung | Prognose, Rückschau, Fiktion und Leistungsbeginn | sechs Monate sind häufig, aber AVB-abhängig |
+| Verweisung | keine, abstrakte, konkrete oder kombinierte Klausel | abstrakte Verweisung ist nicht stets ausgeschlossen |
+| versicherter Beruf | zuletzt in gesunden Tagen konkret ausgeübte Tätigkeit | Berufsbezeichnung allein genügt nicht |
+| Leistung | Rente, Beitragsbefreiung, Dynamik, Karenz | Umfang und Beginn aus Police und AVB |
+| Nachprüfung | Klausel und Änderungsmitteilung | nicht mit Erstprüfung vermischen |
 
-- **§ 1 VVG** — Materielle Anspruchsgrundlage; Versicherungspflicht des VR.
-- **§ 14 VVG** — Fälligkeit nach Abschluss der zur Feststellung nötigen Erhebungen; Verzug ab Mahnung oder Fristablauf.
-- **§ 215 VVG** — Örtliche Zuständigkeit: VN kann am Wohnsitz / gewöhnlichen Aufenthalt klagen; auch Sitz des VR wählbar.
-- **§ 23 Nr. 1 GVG** — Sachliche Zuständigkeit AG: bis EUR 10000 (ab 01.01.2026 Justizreform).
-- **§ 71 Abs. 1 GVG** — Sachliche Zuständigkeit LG: ab EUR 10000.
-- **§ 9 ZPO** — Streitwert wiederkehrender Leistungen: 3,5-facher Jahreswert; gedeckelter Wert bei kürzerer Restlaufzeit.
-- **§ 114 ZPO** — PKH bei wirtschaftlicher Bedürftigkeit und hinreichenden Erfolgsaussichten; Beiordnung eines RA.
-- **§ 379 ZPO** — Sachverständigenvorschuss; bei PKH Übernahme durch Staatskasse.
-- **§ 72 ZPO** — Streitverkündung; Makler, Vermittler bei Beratungspflichtverletzung einbeziehen.
-- **§§ 195, 199, 204 BGB** — Verjährung 3 Jahre; Hemmung durch Ombudsstelle und Verhandlungen.
+## 3. Materielle Prüfung
 
-### Leitentscheidungen
+### 3.1 Gesetzlicher Ausgangspunkt und AVB
 
-| Gericht | Aktenzeichen | Datum | Kernaussage |
-|---|---|---|---|
+1. Paragraf 172 Absatz 2 VVG beschreibt Berufsunfähigkeit als vollständige oder teilweise, voraussichtlich dauerhafte Unfähigkeit, den zuletzt ausgeübten Beruf in seiner gesunden Ausgestaltung weiter auszuüben.
+2. Eine feste Schwelle von 50 Prozent und ein fester Sechsmonatszeitraum stehen nicht in Paragraf 172 VVG. Beide Werte dürfen nur verwendet werden, wenn sie in der maßgeblichen AVB-Fassung vereinbart sind.
+3. Zitiere im Gutachten und in der Klage den vollständigen Wortlaut der einschlägigen Leistungsdefinition, einschließlich Prognose-, Rückschau-, Fiktions- und Verweisungsklauseln.
+4. Bestimme getrennt Eintritt des Versicherungsfalls, Beginn der geschuldeten Leistung und einen etwaigen rückwirkenden Leistungszeitraum.
 
+### 3.2 Versicherter Beruf
 
-## Prüfschema in Tabellenform
+1. Die letzte Tätigkeit so beschreiben, wie sie ohne gesundheitliche Beeinträchtigung tatsächlich ausgestaltet war.
+2. Prägende Einzelverrichtungen, Arbeitszeitanteile, körperliche und geistige Anforderungen, Verantwortung, Arbeitsumgebung und nicht delegierbare Aufgaben mit Belegen darstellen.
+3. Eine bloße Stellenbeschreibung genügt nicht, wenn tatsächliche Arbeitsabläufe abweichen.
+4. Selbständige zusätzlich zu Leitung, Akquise, Kalkulation, Personalführung und eigener Facharbeit befragen; Vertreter- oder Delegationsmöglichkeiten konkret belegen.
+5. Tätigkeitsänderungen vor dem behaupteten Versicherungsfall zeitlich einordnen und freiwillige von gesundheitsbedingten Änderungen trennen.
 
+### 3.3 Gesundheitliche Einschränkung und Leistungsgrad
 
-**Vorab:** Der untenstehende Workflow ist die typische Standardlinie. Wenn die Mandantenlage abweicht (siehe "Strategische Optionen" oben), sind die Schritte entsprechend zu verkuerzen, umzustellen oder durch ein anderes Skill zu ersetzen — der Workflow ist Leitfaden, nicht Pflichtprogramm.
+1. Jede Diagnose einer konkreten beruflichen Verrichtung zuordnen.
+2. Medizinische Befunde, funktionelle Einschränkung, Häufigkeit, Dauer, Belastbarkeit, Nebenwirkungen und Wechselwirkungen getrennt erfassen.
+3. Der Leistungsgrad folgt der AVB-Methode. Zeitanteile allein entscheiden nicht, wenn eine prägende Kerntätigkeit ausfällt oder verbleibende Tätigkeiten wirtschaftlich beziehungsweise organisatorisch keinen sinnvollen Berufszuschnitt mehr ergeben.
+4. Behandelnde Ärzte sollen Befunde und Funktionsfolgen beschreiben; die rechtliche Bewertung der bedingungsgemäßen Berufsunfähigkeit bleibt dem Gericht vorbehalten.
+5. Widersprüche zwischen Behandlungsakte, Leistungsantrag, Alltagsschilderung und Gutachten vor Klageerhebung offen auflösen.
 
-| Nr. | Prüfschritt | Norm | Konsequenz |
-|---|---|---|---|
-| 1 | Außergerichtlich endgültige Ablehnung? | § 14 VVG | Klage erst nach endgültiger Ablehnung sinnvoll |
-| 2 | Klageart — Leistung oder Feststellung? | §§ 253, 256 ZPO | BU-Rente: Feststellungsantrag; Sachschaden: Leistungsantrag |
-| 3 | Sachliche Zuständigkeit (Streitwert)? | §§ 23, 71 GVG; § 9 ZPO | BU 3,5-facher Jahreswert; Sachschaden = Hauptforderung |
-| 4 | Örtliche Zuständigkeit nach § 215 VVG? | § 215 VVG | Wohnsitz VN bevorzugt; auch Sitz VR möglich |
-| 5 | Verjährung geprüft? | §§ 195, 199, 203, 204 BGB | Hemmung dokumentieren |
-| 6 | Vollständige Vertragsunterlagen vorhanden? | AVB; Police; Antrag | Ohne AVB-Fassung zum Vertragsschluss: schwer zu klagen |
-| 7 | Beweise zum Versicherungsfall vollständig? | ZPO §§ 371, 373, 402 | SV-Gutachten, Zeugen, Urkunden benennen |
-| 8 | PKH-Antrag vorbereitet? | § 114 ZPO | Einkommensverhältnisse, hinreichende Erfolgsaussicht |
-| 9 | Rechtsschutz-Deckungszusage eingeholt? | Rechtsschutz-AVB | Deckungszusage vor Klageerhebung erforderlich |
-| 10 | Sachverständigenvorschuss eingeplant? | § 379 ZPO | Ca. EUR 2000–5000 für Medizin-SV |
-| 11 | Streitverkündung Makler/Vermittler? | § 72 ZPO | Verjährungswirkung; Bindungswirkung für Folgeprozess |
-| 12 | Vorläufige Vollstreckbarkeit beantragt? | § 708 Nr. 11 ZPO | Standardantrag in Klage |
-| 13 | Zinsen berechnet? | §§ 280, 286, 288 BGB | Ab Verzugseinritt; 5 % über Basiszinssatz |
-| 14 | Außergerichtliche Anwaltskosten berechnet? | § 249 BGB; RVG | 1,3 Geschäftsgebühr aus Gegenstandswert |
+### 3.4 Prognose, Rückschau und Leistungsbeginn
 
-## Strategische Optionen (vor dem Template entscheiden)
+1. Enthalten die AVB eine Prognosealternative, ist zu prüfen, ob bereits am behaupteten Stichtag voraussichtlich für den vereinbarten Zeitraum Berufsunfähigkeit bestand.
+2. Enthalten die AVB eine Rückschaualternative, sind tatsächliche Dauer und genauer Eintritt nach dem Klauselwortlaut zu bestimmen.
+3. BGH, Urteil vom 14. Juli 2021, IV ZR 153/20: Bei der dort geprüften Klausel führten Prognose- und Rückschaualternative zu unterschiedlichen Eintrittszeitpunkten. Die Prognosealternative konnte den Versicherungsfall zu Beginn des Sechsmonatszeitraums begründen; bei der Rückschaualternative trat er mangels eines Zusatzes wie „von Beginn an“ erst nach Ablauf der sechs Monate ein.
+4. Diese Entscheidung belegt keine allgemeine Sechsmonatsregel. Sie verlangt eine genaue Auslegung der im konkreten Vertrag verwendeten Alternativen.
 
-Bevor das Template eins-zu-eins gefuellt wird, ist zu pruefen welche Variante zur Mandantenkonstellation passt. Das Template ist **eine** moegliche Form — nicht die einzige.
+### 3.5 Verweisung
 
-| Konstellation | Empfohlener Weg |
-|---|---|
-| Standard — Deckungsklage gegen Versicherer | Klageschrift nach Pruefschema; Template unten |
-| Variante A — Versicherer hat nur teilweise abgelehnt | Klage auf Differenzbetrag; Vergleich zu voller Deckung anstreben |
-| Variante B — Verjaehrung droht innerhalb 3 Monaten | Klage sofort; Verhandlung parallel |
-| Variante C — Mandant will keine Eskalation Folgegeschaeft | Mediation oder Ombudsmann-Verfahren zuerst; Klage danach |
+1. Nach Paragraf 172 Absatz 3 VVG kann als weitere Leistungsvoraussetzung eine andere Tätigkeit vereinbart werden, welche Ausbildung und Fähigkeiten entspricht und die bisherige Lebensstellung wahrt.
+2. Ob der Versicherer abstrakt auf eine nur mögliche Tätigkeit oder konkret auf eine tatsächlich ausgeübte Tätigkeit verweisen darf, entscheidet allein der AVB-Wortlaut.
+3. Bei abstrakter Verweisung muss die benannte Tätigkeit in ihrer tatsächlichen Ausgestaltung erreichbar sein und Ausbildung, Fähigkeiten sowie bisheriger Lebensstellung entsprechen.
+4. Bei konkreter Verweisung sind tatsächliche Tätigkeit, Einkommen, soziale Wertschätzung, Qualifikation, Verantwortung und Entwicklungsmöglichkeiten zu vergleichen.
+5. BGH, Urteil vom 26. Juni 2019, IV ZR 19/18: Beim Einkommensvergleich für die Verweisbarkeit ist das vor Geltendmachung der Berufsunfähigkeit tatsächlich erzielte Einkommen grundsätzlich nicht auf den Vergleichszeitpunkt fortzuschreiben.
+6. Nicht formulieren, abstrakte Verweisung sei nach ständiger Rechtsprechung stets unzulässig. Eine solche Aussage ist ohne entsprechende Vertragsklausel falsch.
 
-Wenn die Mandantenkonstellation **nicht** ins Standardschema passt, ist das Template anzupassen oder durch ein anderes Skill abzuloesen — nicht das Mandat in das Schema zu pressen.
+### 3.6 Vorvertragliche Anzeigepflicht und weitere Einwendungen
 
+1. Bei einem Einwand nach Paragraf 19 VVG genaue Frage in Textform, Kenntnis des Versicherungsnehmers, Antwort und behauptete Abweichung feststellen.
+2. Rücktritt, Kündigung und Vertragsanpassung nach Paragraf 19 Absätze 2 bis 5 VVG voneinander trennen.
+3. Ausübung, Monatsfrist, Begründung, Kausalitätsgegenbeweis und Erlöschensfristen nach Paragraf 21 VVG prüfen.
+4. Eine Anfechtung wegen arglistiger Täuschung bleibt nach Paragraf 22 VVG gesondert möglich; fehlende Belehrung nach Paragraf 19 Absatz 5 VVG schließt sie nicht automatisch aus.
+5. Nachvertragliche Auskunfts- oder Aufklärungsobliegenheiten nicht mit der vorvertraglichen Anzeige vermischen.
 
-## Schriftsatzbausteine
+## 4. Darlegung und Beweis
 
-### Baustein 1 — Vollständige Klageschrift BU-Versicherung
+### 4.1 Tätigkeitsbild
 
-```
-An das Landgericht [Ort]
-— Zivilkammer —
+Für jede prägende Verrichtung angeben:
 
-KLAGESCHRIFT
+| Verrichtung | Anteil und Häufigkeit | konkrete Anforderungen | gesundheitliche Einschränkung | Beleg oder Zeuge |
+| --- | --- | --- | --- | --- |
+|  |  |  |  |  |
 
-[Vorname Nachname], geb. [Datum], [Adresse]
-                                        — Kläger —
-Prozessbevollmächtigte:
-Rechtsanwältinnen/Rechtsanwälte [Kanzlei, Adresse]
+Zeitanteile müssen in sich schlüssig sein. Ergänze typische Arbeitstage, Spitzenbelastungen und unverzichtbare Einzeltätigkeiten.
 
-gegen
+### 4.2 Medizinische Beweisfragen
 
-[Versicherungs-AG], vertreten durch den Vorstand,
-[Adresse]
-                                        — Beklagte —
+1. Welche gesicherten Befunde bestanden am behaupteten Stichtag?
+2. Welche konkreten Funktionen waren in welchem Umfang beeinträchtigt?
+3. Wie wirkten sich diese Einschränkungen auf jede prägende Berufstätigkeit aus?
+4. Welche Dauer war am Stichtag nach der vereinbarten Prognose zu erwarten oder rückblickend festzustellen?
+5. Welche Angaben beruhen auf objektiven Befunden, welche auf nachvollziehbarer Eigenanamnese?
+6. Welche Behandlung, Medikation oder Hilfsmittel waren zumutbar und tatsächlich verfügbar?
 
-wegen Berufsunfähigkeitsleistung
-Streitwert: vorläufig EUR ____ (3,5 × [Jahresrente])
+Beweisangebote unmittelbar der jeweiligen Tatsache zuordnen. Ein Privatgutachten qualifiziert den Parteivortrag, ersetzt aber regelmäßig nicht den gerichtlichen Sachverständigenbeweis.
 
-I. ANTRÄGE
+## 5. Klageaufbau
 
-1. Es wird festgestellt, dass die Beklagte verpflichtet ist,
-   dem Kläger aus dem Berufsunfähigkeitsversicherungsvertrag,
-   Police Nr. [Nr.], Anlage K1, ab dem [Datum] eine monatliche
-   Berufsunfähigkeitsrente von EUR [Betrag] sowie Befreiung von
-   der Beitragszahlungspflicht zu leisten, solange und soweit
-   beim Kläger Berufsunfähigkeit von mindestens 50 % in seiner
-   zuletzt ausgeübten Tätigkeit als [Beruf] besteht.
+### 5.1 Anträge
 
-2. Die Beklagte wird verurteilt, an den Kläger für den Zeitraum
-   [Beginn] bis [aktuell] rückständige Renten in Höhe von
-   EUR [Summe] nebst Zinsen in Höhe von 5 Prozentpunkten über
-   dem Basiszinssatz seit [Datum] zu zahlen.
-
-3. Die Beklagte wird verurteilt, an den Kläger vorgerichtliche
-   Anwaltskosten in Höhe von EUR [Berechnung nach RVG] zu zahlen.
-
-4. Die Kosten des Rechtsstreits trägt die Beklagte.
-
-5. Das Urteil ist gegen Sicherheitsleistung in Höhe von 110 %
-   vorläufig vollstreckbar.
-
-II. SACHVERHALT
-
-Der Kläger unterhält bei der Beklagten eine
-Berufsunfähigkeitszusatzversicherung (Police Nr. [Nr.]),
-abgeschlossen am [Datum], monatliche Rente EUR [Betrag],
-Beitragsbefreiung bei BU (Anlage K1 Police; Anlage K2 AVB).
-
-Seit [Datum] ist der Kläger infolge [Erkrankung/Diagnose,
-ICD-Code: [X]] nicht mehr in der Lage, seinen zuletzt als
-[Beruf] ausgeübten Beruf zu mindestens 50 % auszuüben.
-
-Sein Berufsbild umfasste im Einzelnen folgende Tätigkeiten:
-1. [Tätigkeit, Zeitanteil %]
-2. [Tätigkeit, Zeitanteil %]
-3. [Tätigkeit, Zeitanteil %]
-[Detailbeschreibung der körperlichen/kognitiven Anforderungen]
-
-Der Kläger meldete die Berufsunfähigkeit am [Datum] bei der
-Beklagten an (Anlage K3). Die Beklagte lehnte die Leistung
-mit Schreiben vom [Datum] ab (Anlage K4).
-
-III. FESTSTELLUNGSINTERESSE
-
-Die Beklagte bestreitet die Leistungspflicht dem Grunde nach.
-Das Feststellungsinteresse gemäß § 256 ZPO ist gegeben —
-
-IV. RECHTLICHE WÜRDIGUNG
-
-1. Versicherungsfall — Berufsunfähigkeit liegt vor
-   Der Kläger ist nach ärztlichen Attesten (Anlagen K5–K8)
-   und nach dem SV-Gutachten [Name] vom [Datum] (Anlage K9)
-   seit [Datum] zu mindestens 50 % berufsunfähig bezogen
-
-2. Keine Obliegenheitsverletzung
-   [Ablehnungsgrund Versicherer + Widerlegung]
-
-3. Kein Risikoausschluss einschlägig
-   [AVB-Ausschluss-Klausel prüfen + ggf. Transparenzrüge]
-
-V. BEWEISANGEBOTE
-
-- Anlage K1: Police
-- Anlage K2: AVB (Fassung [Datum/Version])
-- Anlage K3: Schadensmeldung
-- Anlage K4: Ablehnungsschreiben
-- Anlage K5–K8: Ärztliche Atteste/Befundberichte
-- Anlage K9: SV-Gutachten (ggf. gerichtliche Bestellung
-  beantragt: Medizinischer SV des Fachgebiets [X])
-- Zeuge: Behandelnder Arzt [Name, Adresse] zum Beweis der
-  Diagnose und des Verlaufs
-- Parteivernehmung Kläger § 448 ZPO zur Berufstätigkeit
-  (hilfsweise)
-
-[Kanzlei]
-```
-
-### Baustein 2 — PKH-Erklärung und Antrag (Kurzschema)
-
-```
-ANTRAG AUF PROZESSKOSTENHILFE
-gemäß § 114 ZPO
-
-mit der Bitte um Beiordnung:
-Rechtsanwalt/Rechtsanwältin [Name, Kanzlei]
-
-I. Wirtschaftliche Bedürftigkeit
-Monatliches Nettoeinkommen: EUR [Betrag]
-Abzüge: [Kosten Unterkunft, Unterhalt etc.]
-Verfügbares Einkommen: EUR [unter Freibetrag]
-Erklärung mit Belegen: Anlage PKH 1-4
-
-II. Hinreichende Erfolgsaussichten
-Die Klage ist hinreichend aussichtsreich, da
-[Zusammenfassung Ablehnungsgründe + Widerlegung].
-
-III. Bitte um Ratenzahlung
-Monatlich EUR [Betrag] ab [Datum].
-
-[Kanzlei]
-```
-
-### Baustein 3 — Streitverkündung an Versicherungsmakler
-
-```
-STREITVERKÜNDUNG § 72 ZPO
-
-In dem Rechtsstreit [Az] verkünden wir dem
-
-[Makler/Vermittler GmbH], [Adresse]
-
-den Streit.
-
-Für den Fall, dass die Klage gegen die Beklagte Versicherungs-AG
-abgewiesen werden sollte, werden wir Ersatzansprüche gegen den
-Streitverkündungsempfänger geltend machen, da er bei Abschluss
-des Versicherungsvertrags nicht korrekt über die Anforderungen
-an die Anzeigepflicht § 19 VVG / die AVB-Klauseln [X] belehrt hat.
-
-Die Streitverkündung erfolgt zur Bindungswirkung für einen
-etwaigen Folgeprozess (§ 74 ZPO).
-
-[Kanzlei]
-```
-
---- vor Versand klaeren ---
-1. Welches Verhandlungsziel hat der Mandant? [Durchsetzung des Anspruchs / Vergleich / Reputationsschutz / schnelle Loesung]
-2. Welche Kompromisslinien sind absolut? [Mindestforderung / Zeitrahmen / Formerfordernis]
-3. Sind Anschlusswege erwuenscht? [Mediation / Direktgesprach / Einigung vor Fristablauf]
-
-Schlussabsatz Variante A (kooperativ):
-Wir regen eine guetliche Einigung an und stehen fuer ein klaerenden Gesprach zur Verfuegung. Eine einvernehmliche Loesung erspart beiden Seiten Zeit und Kosten.
-
-Schlussabsatz Variante B (formal-streng):
-Eine aussergerichtliche Einigung kommt nur in Betracht wenn die Gegenseite innerhalb von [X] Tagen einen akzeptablen Vorschlag unterbreitet. Anderenfalls werden wir alle rechtlichen Schritte einleiten.
-
-
-## Beweislast und Darlegungslast
-
-| Frage | Beweislast |
-|---|---|
-| Eintritt des Versicherungsfalls | Kläger (VN) |
-| Grad der Berufsunfähigkeit | Kläger; SV-Gutachten |
-| Schadenshöhe (Rückstände, künftige Rente) | Kläger (Police-Wert) |
-| Obliegenheitsverletzung | Beklagte (Versicherer) |
-| Kausalität Obliegenheit → Schaden fehlt | Kläger (§ 28 Abs. 3 VVG Exkulpation) |
-| AVB-Klausel wirksam | Beklagte / Gericht (Transparenzprüfung) |
-| Verjährungshemmung | Kläger |
-
-## Fristen und Verjährung
-
-| Frist | Dauer | Anker | Norm |
-|---|---|---|---|
-| Verjährung | 3 Jahre | Jahresende der Kenntnis | §§ 195, 199 BGB |
-| Hemmung Ombudsstelle | Dauer + 6 Monate | Einleitung | § 204 Abs. 1 Nr. 4 BGB |
-| Hemmung Verhandlungen | Dauer | Verhandlungsbeginn | § 203 BGB |
-| Fälligkeit Versicherungsleistung | nach Abschluss Ermittlungen | Abschluss | § 14 Abs. 1 VVG |
-| Streitverkündungsfrist für Regress | abhängig von Anspruch (typisch 3 Jahre) | Kenntnis Mangel | §§ 195, 199 BGB |
-
-## Typische Gegenargumente und Reaktion
-
-| Einwand Versicherer | Reaktion |
-|---|---|
-| BU-Grad unter 50 % | Eigenes SV-Gutachten vorlegen; gerichtlicher SV im Prozess; Berufsbildanalyse detailliert |
-| Verweisung auf Vergleichsberuf | AVB auf abstrakte Verweisung prüfen; neuere AVB schließen häufig aus |
-| Vorvertragliche Anzeigepflicht verletzt | Antragsfragebogen prüfen; Kausalität zwischen Nichtanzeige und Berufsunfähigkeit |
-| PKH-Antrag abzuweisen wegen mangelnder Erfolgsaussichten | Konkrete Ablehnungsbegründung ist schwach; Erfolgsaussicht darlegen |
-| Sachverständigenkosten zu hoch | § 379 ZPO-Vorschuss; bei PKH übernimmt Staatskasse; SV-Beauftragung notwendig |
-
-## Streitwert und Kosten
-
-- BU-Versicherung: 3,5-facher Jahreswert der Rente (§ 9 ZPO); bei 10 Jahren Restlaufzeit und EUR 1500/Monat = EUR 63000 Streitwert.
-- Gerichtskostenvorschuss LG bei Streitwert EUR 63000: ca. EUR 1638 (GKG).
-- Medizinischer SV-Vorschuss: EUR 2500–6000.
-- Bei PKH-Bewilligung: Staatskasse trägt GKG-Vorschuss und SV-Kosten.
-- Rechtsschutzversicherung: Deckungszusage vorab zwingend; ohne Zusage Eigenanteil des Mandanten.
-
-## Strategische Empfehlung
-
-| Situation | Empfehlung |
-|---|---|
-| BU — klarer medizinischer Befund | SV-Gutachten vorab einholen; Klageschrift mit Gutachten einreichen |
-| BU — streitiger Grad | Feststellungsklage; gerichtlicher SV-Beweis; Berufsbild detailliert beschreiben |
-| Sachschaden — Ablehnung ohne Substanz | Direktklage nach 2-Wochen-Fristsetzung |
-| Streitwert unter EUR 10000 | AG-Verfahren; Ombudsstelle prüfen (bindend bis EUR 10000) |
-| Verjährung naht | Klageeinreichung hemmt Verjährung ab Zustellung § 204 Abs. 1 Nr. 1 BGB |
-
-## Anschluss-Skills
-
-- `deckungsanfrage-pruefen` — Vorprüfung vor Klage
-- `klage-versicherer-strategie` — Klagestrategie-Details
-- `fachanwalt-versicherungsrecht-regress-abwehr` — Regress des Versicherers
-
-## Quellen
-
-Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
-
-## Vertiefung — Aktuelle Rechtsprechung und Normen
-
-### Paragrafenkette
-
-§ 256 ZPO (Feststellungsklage bei laufender BU-Rente) → § 215 VVG (örtliche Zuständigkeit Klage VN gegen Versicherer) → §§ 23, 71 GVG (sachliche Zuständigkeit AG/LG nach Streitwert) → § 1 VVG (Hauptleistungspflicht) → § 286 ZPO (Beweislast und freie Beweiswürdigung) → § 402 ZPO (gerichtlicher Sachverständiger) → § 114 ZPO (PKH bei Bedürftigkeit) → § 286 ZPO (Beweiswürdigung Privatgutachten)
-
-### Quellenregel
-
-Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
-## Triage — Sofortprüfung Deckungsklage
-
-1. **Zuständigkeit prüfen:** Streitwert ≤ 10.000 EUR → AG; > 10.000 EUR → LG. Örtlich: Wohnsitz VN (§ 215 VVG) oder Sitz Versicherer (§ 17 ZPO) — Wahlrecht beim Kläger.
-2. **Klageantrag formulieren:** Laufende Rente → Feststellungsantrag § 256 ZPO; rückständige Beträge → Zahlungsantrag beziffert.
-3. **Sachverständigenbeweis vorbereiten:** Privatgutachten als Anlage + Antrag auf gerichtliches Gutachten; Kosten-PKH prüfen.
-4. **PKH-Berechtigung prüfen:** § 114 ZPO — ausreichende Erfolgsaussichten (Gutachtenlage) + Bedürftigkeit.
-5. **Verjährung hemmen:** Bei Verhandlungen § 203 BGB; sonst Klageschrift einreichen vor Ablauf der 3-Jahres-Frist.
+1. Rückständige Rente als bezifferten Zahlungsantrag mit Zeitraum, Monatsbetrag und Zinsbeginn.
+2. Künftige Leistungen in einer prozessual zulässigen, an Police und AVB angepassten Form.
+3. Beitragsbefreiung oder Erstattung gezahlter Beiträge nur verlangen, wenn versichert und rechnerisch belegt.
+4. Nebenforderungen, Dynamik und Überschussbeteiligung getrennt prüfen.
+5. Kein Feststellungs- und Leistungsbegehren doppelt erfassen.
+
+### 5.2 Begründungsfolge
+
+1. Vertrag, Police und maßgebliche AVB.
+2. Versicherter Beruf in gesunden Tagen.
+3. Gesundheitlicher Verlauf und behaupteter Eintrittszeitpunkt.
+4. Zuordnung der Einschränkungen zu den prägenden Tätigkeiten.
+5. Vertraglicher Leistungsgrad und zeitliche Voraussetzung.
+6. Verweisungsklausel und gegebenenfalls Vergleichstätigkeit.
+7. Leistungsbeginn, Rückstände und Beitragsbefreiung.
+8. Einwendungen des Versicherers.
+9. Beweisangebote und Anlagen.
+
+### 5.3 Zuständigkeit, Streitwert und Fristen
+
+1. Sachliche und örtliche Zuständigkeit nach dem bei Einreichung geltenden Gerichtsverfassungs- und Prozessrecht bestimmen; keine feste Wertgrenze aus veraltetem Wissen einsetzen.
+2. Den Wert künftiger wiederkehrender Leistungen nach Paragraf 9 ZPO grundsätzlich mit dem Dreieinhalbfachen des Jahresbetrags ansetzen, soweit nicht die geringere Anspruchsdauer maßgeblich ist. Rückstände und weitere Anträge nach den einschlägigen Wertvorschriften gesondert berechnen.
+3. Verjährung für jede einzelne Leistung nach den Paragrafen 195 und 199 BGB berechnen. Fälligkeit und Kenntnis anhand des konkreten Anspruchs feststellen.
+4. Hemmung durch Verhandlungen nach Paragraf 203 BGB nur bei belegtem Meinungsaustausch annehmen.
+
+## 6. Rechtsprechungsanker
+
+1. BGH, Urteil vom 14. Juli 2021, IV ZR 153/20: klauselspezifische Unterscheidung von Prognose- und Rückschaualternative sowie Eintrittszeitpunkt.
+2. BGH, Urteil vom 26. Juni 2019, IV ZR 19/18: Einkommensvergleich bei Verweisung ohne grundsätzliche Fortschreibung des früher tatsächlich erzielten Einkommens.
+3. BGH, Urteil vom 18. Dezember 2019, IV ZR 65/19: Änderungsmitteilung bei späterem Wegfall einer zunächst bestehenden Berufsunfähigkeit; für Nachprüfungsfälle heranziehen, nicht als Erstprüfungsregel verwenden.
+
+## 7. Arbeitsprodukt
+
+Liefere eine Klageschrift oder Klageprüfung, die den AVB-Wortlaut sichtbar an die Spitze stellt. Füge Tätigkeitsmatrix, medizinische Zuordnung, Leistungsberechnung, Einwendungsmatrix und geordnete Anlagenliste bei. Jede Prozent- oder Zeitangabe muss entweder aus der Police, den AVB oder einem konkret bezeichneten Beleg stammen.
+
+## 8. Amtliche Quellen
+
+- [Paragraf 172 VVG](https://www.gesetze-im-internet.de/vvg_2008/__172.html)
+- [Paragraf 173 VVG](https://www.gesetze-im-internet.de/vvg_2008/__173.html)
+- [Paragraf 174 VVG](https://www.gesetze-im-internet.de/vvg_2008/__174.html)
+- [Paragraf 175 VVG](https://www.gesetze-im-internet.de/vvg_2008/__175.html)
+- [Paragraf 9 ZPO](https://www.gesetze-im-internet.de/zpo/__9.html)
+- [BGH, Urteil vom 14. Juli 2021, IV ZR 153/20](https://juris.bundesgerichtshof.de/cgi-bin/rechtsprechung/document.py?Art=en&Blank=1.pdf&Gericht=bgh&anz=1&nr=120751&pos=0)
+- [BGH, Urteil vom 26. Juni 2019, IV ZR 19/18](https://juris.bundesgerichtshof.de/cgi-bin/rechtsprechung/document.py?Art=en&Blank=1.pdf&Datum=2019-6-26&Gericht=bgh&Sort=3&anz=22&nr=97412&pos=13)
+- [BGH, Urteil vom 18. Dezember 2019, IV ZR 65/19](https://juris.bundesgerichtshof.de/cgi-bin/rechtsprechung/document.py?Art=en&Blank=1.pdf&Datum=2019-12-18&Gericht=bgh&anz=33&nr=103178&pos=20)
 
 ---
 
-> Quellenregel: Entscheidungen nur nach Prüfung einer amtlichen oder frei zugänglichen Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage ausgeben.
+## Skill: `deckungsanfrage-pruefen`
 
----
+_Prüft Deckung, Fälligkeit und Einwendungen des Versicherers anhand von Police, AVB und Versicherungsfall; trennt Schadensanzeige, Auskunft, vertragliche Obliegenheit sowie vorvertragliche Anzeigepflicht und erstellt die passende Leistungsanforderung._
 
-## Skill: `schnittstelle-zahlen-schwellen-und-berechnung`
+# Deckungsanfrage und Leistungsablehnung prüfen
 
-_Für Schnittstelle: Zahlen, Schwellenwerte und Berechnung: rechnet Beträge, Schwellen und Varianten; Ergebnis: Berechnungstabelle mit Annahmen und Kontrollfragen. Fachgebiet: Fachanwalt Versicherungsrecht._
+## 1. Direktauftrag
 
-# Schnittstelle: Zahlen, Schwellenwerte und Berechnung
+Lies zuerst Police, vollständige AVB-Fassung, Nachträge, Antrag und Gesundheits- oder Risikofragen, Schadensanzeige, Auskunftsverlangen, eingereichte Belege und Ablehnungsschreiben. Erstelle eine Zeitachse von Vertragsschluss, Versicherungsfall, Kenntnis, Anzeige, Nachfragen, Antworten und Leistungsentscheidung. Frage nur nach Unterlagen, deren Fehlen eine konkrete Deckungs- oder Fristfrage offenlässt.
 
+## 2. Eingangsweichen
 
-## Normenanker
+1. Versicherungssparte und versichertes Interesse bestimmen.
+2. Primären Deckungstatbestand, räumlichen und zeitlichen Geltungsbereich sowie Versicherungssumme feststellen.
+3. Einwendungen des Versicherers einzeln zuordnen: Risikoausschluss, vorvertragliche Anzeigepflicht, vertragliche Obliegenheit, Auskunftspflicht, Herbeiführung des Versicherungsfalls, Unterversicherung oder fehlende Fälligkeit.
+4. Für jeden Einwand Norm, AVB-Klausel, Tatsachenkern, Beleg, Beweislast und Rechtsfolge getrennt ausweisen.
+5. Erst danach das passende Arbeitsprodukt wählen: Deckungsanfrage, Erwiderung auf Ablehnung, Abschlagsverlangen, Klageentwurf oder Vergleichsvorschlag.
 
-Vor einer rechtlichen Schlussfolgerung diese Anker am aktuellen Normtext prüfen; Spezial- und Landesrecht nur hinzunehmen, wenn es den konkreten Auftrag traegt:
+## 3. Deckung und AVB
 
-- `§ 241 Abs. 2 BGB` — Rücksichtnahme-, Schutz- und Organisationspflichten.
-- `§ 242 BGB` — Treu und Glauben als Korrektiv enger Klausel- und Anspruchsarbeit.
-- `§ 280 Abs. 1 BGB` — Pflichtverletzung, Vertretenmuessen, Schaden.
-- `§ 286 Abs. 1 BGB` — Verzug und Fristlogik.
-- `§ 195 BGB` — regelmäßige Verjährung.
-- `§ 199 Abs. 1 BGB` — Beginn der regelmäßigen Verjährung.
-- `§ 253 Abs. 2 ZPO` — Bestimmtheit von Antrag und Klagegrund.
-- `§ 138 Abs. 1 ZPO` — Wahrheitspflicht und vollstaendiger Tatsachenvortrag.
+### 3.1 Primärer Versicherungsschutz
 
-Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei prüfbare Quelle vorliegen; keine BeckRS-/juris-Blindzitate verwenden.
+1. Der Versicherungsnehmer muss den Eintritt des Versicherungsfalls nach der vereinbarten primären Risikobeschreibung und den beanspruchten Leistungsumfang darlegen und beweisen.
+2. Versicherungsbeginn, Prämienstatus, Nachträge, Wartezeiten und vereinbarte Selbstbehalte anhand der Urkunden feststellen.
+3. Risikoausschlüsse nicht in die primäre Deckungsbeschreibung hineinlesen. Der Versicherer trägt grundsätzlich die Darlegungs- und Beweislast für die Voraussetzungen eines Ausschlusses.
+4. AVB aus Sicht eines durchschnittlichen, um Verständnis bemühten Versicherungsnehmers auslegen. Wortlaut, erkennbarer Sinnzusammenhang, Unklarheitenregel des Paragrafen 305c Absatz 2 BGB und Transparenzkontrolle des Paragrafen 307 BGB getrennt prüfen.
 
-## Arbeitsweg
+### 3.2 Schadensanzeige, Auskunft und Obliegenheit auseinanderhalten
 
-- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
-- Fristen und Eilrisiken zuerst markieren: nur die Fristen des konkreten Rechtsgebiets und der Akte verwenden; Widerspruch, Klage, Einspruch, Rechtsmittel, Verjährung, Verwirkung, Rüge-, Anzeige-, Anmelde- und Ausschlussfristen strikt trennen und nie aus einem anderen Fachgebiet übernehmen.
-- Tragende Normen verifizieren: SGB V §§ 27, 39, 92, 109, 137, 295, 301, RisikoStruktAusglV, SGB IV, SGB X, SGG — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
-- Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
-- Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
+1. Schadensanzeige nach Paragraf 30 VVG: Der Versicherungsfall ist nach Kenntnis unverzüglich anzuzeigen. Prüfe tatsächliche Kenntnis, Anzeigezeitpunkt, Inhalt und Zugang. Hat der Versicherer rechtzeitig anderweitig Kenntnis erlangt, ist Paragraf 30 Absatz 2 VVG einzubeziehen.
+2. Auskunft und Belege nach Paragraf 31 VVG: Erst ein Verlangen des Versicherers eröffnet die gesetzliche Auskunftspflicht. Erfasst sind nur Informationen, die zur Feststellung des Versicherungsfalls oder des Leistungsumfangs erforderlich sind, und Belege, deren Beschaffung billigerweise zugemutet werden kann.
+3. Vertragliche Obliegenheit nach Paragraf 28 VVG: Zuerst wirksame AVB-Klausel, Pflichtinhalt, Zeitpunkt und Verschulden bestimmen. Vorsatz kann bei entsprechender Vereinbarung zur Leistungsfreiheit führen; grobe Fahrlässigkeit erlaubt eine verschuldensangemessene Kürzung. Einfache Fahrlässigkeit löst nach Paragraf 28 Absatz 2 VVG keine Quote aus.
+4. Kausalitätsgegenbeweis nach Paragraf 28 Absatz 3 VVG: Die Leistung bleibt geschuldet, soweit die Verletzung weder für Eintritt oder Feststellung des Versicherungsfalls noch für Feststellung oder Umfang der Leistungspflicht ursächlich war. Bei Arglist greift diese Ausnahme nicht.
+5. Belehrung nach Paragraf 28 Absatz 4 VVG: Bei einer nach dem Versicherungsfall bestehenden vertraglichen Auskunfts- oder Aufklärungsobliegenheit setzt vollständige oder teilweise Leistungsfreiheit eine gesonderte Mitteilung in Textform über diese Rechtsfolge voraus.
+6. Die Schadensanzeige darf nicht als Auskunftsverlangen behandelt werden; ein unvollständig beantwortetes Auskunftsverlangen darf nicht ohne Prüfung einer vertraglichen Obliegenheit unmittelbar in Paragraf 28 VVG eingeordnet werden.
 
-**Fokus:** Schnittstelle: Zahlen, Schwellenwerte und Berechnung.
+### 3.3 Fälligkeit und Abschlagszahlung nach Paragraf 14 VVG
 
-## Spezialwissen: Schnittstelle: Zahlen, Schwellenwerte und Berechnung
-- **Normen-/Quellenanker:** VVG, VAG.
+1. Die Geldleistung wird kraft Gesetzes fällig, sobald die zur Feststellung des Versicherungsfalls und des Leistungsumfangs notwendigen Erhebungen beendet sind. Der Versicherer stellt den Anspruch nicht erst durch eine eigene Erklärung fällig.
+2. Für jede noch offene Erhebung angeben, weshalb sie notwendig ist, wer sie beschaffen kann und ob der Versicherer die Prüfung ohne sachlichen Grund verzögert.
+3. Sind die Erhebungen einen Monat nach Anzeige des Versicherungsfalls noch nicht beendet, kann der Versicherungsnehmer einen Abschlag in Höhe des Betrags verlangen, den der Versicherer voraussichtlich mindestens zahlen muss.
+4. Ein bereits dem Grunde nach vollständig feststehender Anspruch ist keine zusätzliche Voraussetzung des Paragrafen 14 Absatz 2 VVG. Entscheidend ist ein belastbar bestimmbarer Mindestbetrag.
+5. Der Monatslauf ist nur gehemmt, solange die Erhebungen infolge eines Verschuldens des Versicherungsnehmers nicht beendet werden können.
+6. Verzug und Verzugszinsen erst auf der Grundlage von Fälligkeit, Zugang einer Mahnung oder eines gesetzlichen Mahnungsersatzes und der richtigen Zinsnorm berechnen.
 
-## Fallweichen
-Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur Rückfragen, die die nächste Weiche verändern:
+### 3.4 Vorvertragliche Anzeigepflicht nach den Paragrafen 19, 21 und 22 VVG
 
-1. Welche Rolle hat die fragende Person und wer ist Gegenüber?
-2. Welches konkrete Ziel soll erreicht oder verhindert werden?
-3. Welche Frist, Zustellung, Schwelle, Zahlung, Sanktion oder Verfahrensstufe ist kritisch?
-4. Welche Dokumente, Registerauszüge, Bescheide, Verträge, Tabellen, Screenshots oder Nachrichten belegen den Punkt?
-5. Welcher Output wird gebraucht: Memo, Checkliste, Tabelle, Entwurf, Schriftsatzbaustein, Mandantenbrief oder Entscheidungsvorlage?
+1. Gefahrerheblicher Umstand: War der Umstand dem Versicherungsnehmer bekannt und hatte der Versicherer danach in Textform gefragt?
+2. Frage und Antwort: Wortlaut, Reichweite, Verständlichkeit, Antwortdatum und Beteiligung eines Vermittlers anhand des Antrags feststellen.
+3. Paragraf 19 Absatz 2 VVG: Rücktritt setzt eine Verletzung der Anzeigepflicht voraus; Verschuldensgrad und Ausschlusstatbestände sind gesondert zu prüfen.
+4. Paragraf 19 Absatz 3 VVG: Fehlen Vorsatz und grobe Fahrlässigkeit, ist der Rücktritt ausgeschlossen; unter den gesetzlichen Voraussetzungen bleibt ein Kündigungsrecht.
+5. Paragraf 19 Absatz 4 VVG: Hätte der Versicherer auch bei Kenntnis, aber zu anderen Bedingungen abgeschlossen, sind Rücktritt und Kündigung nach Maßgabe der Norm ausgeschlossen und die Vertragsänderung ist zu prüfen.
+6. Paragraf 19 Absatz 5 VVG: Die Rechte aus den Absätzen 2 bis 4 setzen eine gesonderte Belehrung in Textform voraus und sind bei Kenntnis des Versicherers ausgeschlossen.
+7. Paragraf 21 Absatz 1 VVG: Das gewählte Recht muss innerhalb eines Monats ab Kenntnis schriftlich und unter Angabe der tragenden Umstände ausgeübt werden.
+8. Paragraf 21 Absatz 2 VVG: Nach Eintritt des Versicherungsfalls sind Leistungsfreiheit, Kausalitätsgegenbeweis und Arglistfolge anhand der konkreten Ausübungserklärung zu prüfen.
+9. Paragraf 21 Absatz 3 VVG: Die Rechte aus Paragraf 19 Absätze 2 bis 4 erlöschen grundsätzlich nach fünf Jahren, bei vorsätzlicher oder arglistiger Verletzung nach zehn Jahren; die gesetzliche Ausnahme für vorher eingetretene Versicherungsfälle beachten.
+10. Paragraf 22 VVG: Die Anfechtung wegen arglistiger Täuschung bleibt unberührt. Eine fehlende Belehrung nach Paragraf 19 Absatz 5 VVG schließt daher nicht automatisch eine Anfechtung aus.
 
-## Arbeitsworkflow
-1. **Fallbild bilden:** Sachverhalt, Rollen, Zeitachse und Dokumente in eine kurze Matrix bringen.
-2. **Rechtsrahmen setzen:** Normen, Zuständigkeiten, Fristen, Formfragen und Verfahrensstand zum Themenfeld **Schnittstelle** prüfen.
-3. **Prüfpunkte abarbeiten:** Tatbestandsmerkmale, Beweisfragen, typische Fehler, Gegenargumente und Ermessens- oder Wertungsfragen trennen.
-4. **Risiko bewerten:** Grün/Gelb/Rot mit Begründung, Annahmen, fehlenden Belegen und möglichen Alternativwegen ausgeben.
-5. **Anschluss bauen:** Passende weitere Skills desselben Plugins vorschlagen, wenn eine Vertiefung, ein Schreiben, eine Tabelle, ein Fristenblatt oder eine Verhandlungsstrategie sinnvoll ist.
+### 3.5 Herbeiführung des Versicherungsfalls nach Paragraf 81 VVG
+
+1. Kausal relevante Handlung und Verschuldensgrad konkret bestimmen.
+2. Bei Vorsatz besteht nach Absatz 1 keine Leistungspflicht.
+3. Bei grober Fahrlässigkeit ist nach Absatz 2 eine Einzelfallquote nach der Schwere des Verschuldens zu bilden; feste Standardquoten sind unzulässig.
+4. Einfache Fahrlässigkeit berechtigt nicht zur Kürzung nach Paragraf 81 VVG.
+5. Behauptung, Gegenbeweis und Indizien zur subjektiven Seite getrennt darstellen.
+
+## 4. Spartenbezogene Rechtsprechungsanker
+
+Diese Entscheidungen nur verwenden, wenn Sparte und Klauseltyp wirklich passen:
+
+1. BGH, Urteil vom 12. März 2025, IV ZR 32/24: Die Ersetzung einer unwirksamen Klausel in der Krankentagegeldversicherung nach Paragraf 164 Absatz 1 VVG setzt mindestens die Voraussetzungen einer ergänzenden Vertragsauslegung voraus.
+2. BGH, Urteil vom 15. Oktober 2025, IV ZR 86/24: Bei der Auslegung einer Rechtsschutzklausel zur Ersatzfahrzeuganschaffung ist der konkrete Klauselwortlaut maßgeblich; verbleibende Unklarheiten gehen nach Paragraf 305c Absatz 2 BGB zulasten des Verwenders.
+3. Bei Berufsunfähigkeit nicht mit pauschalen Werten arbeiten, sondern zum Skill berufsunfaehigkeit-klage verzweigen und dort Leistungsgrad, Prognosezeitraum und Verweisung ausschließlich aus Police und AVB ableiten.
+
+## 5. Prüfmatrix
+
+| Streitpunkt | Norm oder Klausel | Tatsachenkern | Beleg | Beweislast | Rechtsfolge |
+| --- | --- | --- | --- | --- | --- |
+| Versicherungsfall | Police und AVB |  |  | Versicherungsnehmer |  |
+| Ausschluss | AVB |  |  | Versicherer |  |
+| Schadensanzeige | Paragraf 30 VVG |  |  |  |  |
+| Auskunft oder Beleg | Paragraf 31 VVG |  |  |  |  |
+| vertragliche Obliegenheit | Paragraf 28 VVG |  |  | geteilt nach Tatbestand |  |
+| vorvertragliche Anzeige | Paragrafen 19, 21 und 22 VVG |  |  | Versicherer; Gegenbeweise gesondert |  |
+| Fälligkeit | Paragraf 14 Absatz 1 VVG |  |  |  |  |
+| Mindestabschlag | Paragraf 14 Absatz 2 VVG |  |  | Versicherungsnehmer |  |
+
+## 6. Arbeitsprodukte
+
+### 6.1 Deckungsprüfung
+
+Liefere eine kurze Deckungsantwort, danach die vollständige Matrix. Jede Ablehnungsbegründung des Versicherers erhält eine eigene Gegenprüfung. Offene Punkte werden als konkrete Beleganforderung formuliert, nicht als allgemeine Fragenliste.
+
+### 6.2 Abschlagsverlangen
+
+Formuliere den bereits sicher bestimmbaren Mindestbetrag, das Datum der Schadensanzeige, den Ablauf des Monats, die noch offenen Erhebungen und weshalb deren Verzögerung nicht vom Versicherungsnehmer verschuldet ist. Verlange nur den voraussichtlich mindestens geschuldeten Betrag.
+
+### 6.3 Erwiderung oder Klage
+
+Ordne Antrag, versprochenen Versicherungsschutz, Eintritt des Versicherungsfalls, Leistungsumfang, Fälligkeit und jede Einwendung in dieser Reihenfolge. Beweisangebote unmittelbar nach der jeweils zu beweisenden Tatsache einfügen. Anlagen nach Police, AVB, Anzeige, Belegen, Auskunftskorrespondenz und Ablehnung ordnen.
+
+## 7. Amtliche Quellen
+
+- [Paragraf 14 VVG](https://www.gesetze-im-internet.de/vvg_2008/__14.html)
+- [Paragraf 19 VVG](https://www.gesetze-im-internet.de/vvg_2008/__19.html)
+- [Paragraf 21 VVG](https://www.gesetze-im-internet.de/vvg_2008/__21.html)
+- [Paragraf 22 VVG](https://www.gesetze-im-internet.de/vvg_2008/__22.html)
+- [Paragraf 28 VVG](https://www.gesetze-im-internet.de/vvg_2008/__28.html)
+- [Paragraf 30 VVG](https://www.gesetze-im-internet.de/vvg_2008/__30.html)
+- [Paragraf 31 VVG](https://www.gesetze-im-internet.de/vvg_2008/__31.html)
+- [Paragraf 81 VVG](https://www.gesetze-im-internet.de/vvg_2008/__81.html)
+- [BGH, Urteil vom 12. März 2025, IV ZR 32/24](https://juris.bundesgerichtshof.de/cgi-bin/rechtsprechung/document.py?Art=pm&Blank=1&Datum=2025&Gericht=bgh&file=dokument.pdf&linked=urt&nr=141060)
+- [BGH, Urteil vom 15. Oktober 2025, IV ZR 86/24](https://juris.bundesgerichtshof.de/cgi-bin/rechtsprechung/document.py?Art=pm&Blank=1&Datum=2025&Gericht=bgh&file=dokument.pdf&linked=urt&nr=143351)
 
 ---
 

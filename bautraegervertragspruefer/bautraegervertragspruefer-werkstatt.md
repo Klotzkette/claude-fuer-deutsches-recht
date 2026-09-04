@@ -220,76 +220,72 @@ Diese Routen stammen aus den konkreten Arbeitsthemen dieses Plugins. Wähle die 
 
 Bearbeitungsauftrag: Bearbeite Bauträgervertrag-Qualifikation: vertragssoll, Nachtrag, Behinderung, Abnahme, Mangel, Kostenfolge, Beweis und Gutachterfrage in eine Bauakte bringen. Lege Regelungsziel und tatsächlichen Ablauf offen, prüfe Definitionen, Haupt- und Nebenpflichten, Bedingungen, Laufzeit, Beendigung, Haftung, Form, zwingendes Recht und Vollzug und liefere Klausel, Rückfallposition und Abschlusskontrolle.
 Prüfschritte: Zu Beginn jeder Vollanalyse und immer wenn unklar ist, ob der vorliegende Vertrag ein Bauträgervertrag nach Paragraf 650u BGB ist — z; Paragraf 650u Absatz 1 BGB: Bauträgervertrag liegt vor, wenn der Unternehmer Errichtung oder grundlegende Sanierung eines Gebäudes schuldet und zugleich Eigentum oder Erbbaurecht überträgt oder begründet; Paragraf 650u Absatz 2 BGB: beim Bauträgervertrag ausgeschlossen sind Paragrafen 648, 648a, 650b bis 650e, 650k Absatz 1, 650l und 650m Absatz 1; nicht ausgeschlossen sind Paragraf 650j, 650k Absätze 2 und 3, 650m Absatz 2, 650n; Paragraf 650v BGB: Abschlagszahlungen nur nach MaBV.
-Norm- oder Entscheidungsbezug aus dem Fachmaterial: Zu Beginn jeder Vollanalyse und immer wenn unklar ist, ob der vorliegende Vertrag ein Bauträgervertrag nach Paragraf 650u BGB ist — z.
+Normbezug aus dem Fachmaterial: Zu Beginn jeder Vollanalyse und immer wenn unklar ist, ob der vorliegende Vertrag ein Bauträgervertrag nach Paragraf 650u BGB ist — z.
 Lieferstück: verhandlungsfähige Fassung mit Ausgangstext, Änderung, Begründung, Rückfallposition und Vollzugscheck.
 
-### 12.2. AGB-Kontrolle Klauseln
-
-Bearbeitungsauftrag: Bearbeite AGB-Kontrolle Klauseln: vertragssoll, Nachtrag, Behinderung, Abnahme, Mangel, Kostenfolge, Beweis und Gutachterfrage in eine Bauakte bringen. Lege Regelungsziel und tatsächlichen Ablauf offen, prüfe Definitionen, Haupt- und Nebenpflichten, Bedingungen, Laufzeit, Beendigung, Haftung, Form, zwingendes Recht und Vollzug und liefere Klausel, Rückfallposition und Abschlusskontrolle.
-Prüfschritte: Sobald der Bauträger Klauseln vorformuliert und für mehrere Erwerber verwendet — was beim Bauträgervertrag der Regelfall ist, auch wenn ein Notar den Entwurf erstellt hat; Paragraf 305c Absatz 2 BGB: Unklarheiten gehen zulasten des Verwenders; Paragraf 307 BGB: unangemessene Benachteiligung und Intransparenz als Generalklausel; Paragraf 308 BGB: Klauselverbote mit Wertungsmöglichkeit, insbesondere Nummer 1 und Nummer 4; Paragraf 309 BGB: Klauselverbote ohne Wertungsmöglichkeit, insbesondere Nummern 2, 3, 12 und.
-Norm- oder Entscheidungsbezug aus dem Fachmaterial: Sobald der Bauträger Klauseln vorformuliert und für mehrere Erwerber verwendet — was beim Bauträgervertrag der Regelfall ist, auch wenn ein Notar den Entwurf erstellt hat; Paragraf 305c Absatz 2 BGB: Unklarheiten gehen zulasten des Verwenders.
-Lieferstück: verhandlungsfähige Fassung mit Ausgangstext, Änderung, Begründung, Rückfallposition und Vollzugscheck.
-
-### 12.3. Gemeinschaft zieht Mängelrechte an sich
+### 12.2. Gemeinschaft zieht Mängelrechte an sich
 
 Bearbeitungsauftrag: Bearbeite Gemeinschaft zieht Mängelrechte an sich: vertragssoll, Nachtrag, Behinderung, Abnahme, Mangel, Kostenfolge, Beweis und Gutachterfrage in eine Bauakte bringen. Verbinde den konkreten Aktenfund mit Tatbestandsmerkmal, Gegenposition, Beweislast, Rechtsfolge und dem nächsten vollständig ausformulierten Arbeitsprodukt.
 Prüfschritte: Wenn Mängel am Gemeinschaftseigentum von mehreren Erwerbern oder der gesamten Gemeinschaft der Wohnungseigentümer geltend gemacht werden sollen, wenn ein einzelner Erwerber nicht allein klagen kann oder will, oder wenn der Bauträger einwendet, der Prozessführungsbefugnis der Gemeinschaft fehle es am wirksamen Beschluss; Paragraf 9a WEG: Die Gemeinschaft der Wohnungseigentümer verwaltet das gemeinschaftliche Eigentum im eigenen Namen; Paragraf 19 WEG: Mehrheitsbeschluss zur Beauftragung mit Mängelgeltendmachung im Rahmen ordnungsmäßiger Verwaltung; Paragraf 18 WEG: Anspruch jedes Wohnungseigentümers auf ordnungsmäßige Verwaltung.
 Lieferstück: Fachvotum zu Gemeinschaft zieht Mängelrechte an sich mit Tatbestandsmerkmalen, Aktenfundstellen, Beweislast, stärkster Gegenposition, Risiko und ausformulierter Rechtsfolge.
 
-### 12.4. WEG-Beschluss-Anfechtung
+### 12.3. WEG-Beschluss-Anfechtung
 
 Bearbeitungsauftrag: Bearbeite WEG-Beschluss-Anfechtung: vertragssoll, Nachtrag, Behinderung, Abnahme, Mangel, Kostenfolge, Beweis und Gutachterfrage in eine Bauakte bringen. Entwirf die im Fachverfahren richtige Entscheidungsform mit bestimmtem Ausspruch, festgestelltem Sachverhalt, offen gelegter Beweiswürdigung, tragender Subsumtion, Nebenentscheidungen und nur tatsächlich statthaftem Rechtsbehelf.
 Prüfschritte: Wenn eine Eigentümerversammlung einen Beschluss gefasst hat, der die Mängelgeltendmachung am Gemeinschaftseigentum, die Abnahme, die Verwalterwahl, die Kostenverteilung, die Beauftragung von Sachverständigen oder die Vergemeinschaftung von Mängelrechten betrifft; Auch bei Beschlüssen des Erstverwalters in der Anfangsphase der Gemeinschaft; Paragraf 18 WEG: jeder Wohnungseigentümer hat das Recht auf ordnungsmäßige Verwaltung des gemeinschaftlichen Eigentums; Paragraf 19 WEG: Umfang und Gegenstände ordnungsmäßiger Verwaltung; Mehrheitsbeschlüsse im Rahmen ordnungsmäßiger Verwaltung.
 Lieferstück: entscheidungsreifer Entwurf mit Tenor oder Verfügungssatz, Streitstoff, Beweiswürdigung und Nebenentscheidungen.
 
-### 12.5. Abnahme Gemeinschaftseigentum
+### 12.4. Abnahme Gemeinschaftseigentum
 
 Bearbeitungsauftrag: Sobald der Vertrag die Abnahme des Gemeinschaftseigentums von einer anderen Person als dem einzelnen Erwerber abhängig macht — insbesondere beim Erstverwalter, einer bauträgereigenen Tochtergesellschaft, einem vom Bauträger benannten Sachverständigen, drei aus der Erwerbergemeinschaft gewählten Vertretern oder einer WEG-Mehrheit ohne individuelles Prüfrecht. Paragraf 309 Nummer 8 Buchstabe b BGB: in Verbindung mit Nachzüglerklauseln, die Verjährungsbeginn vorverlagern.
 Prüfschritte: Auch bei Nachzüglerklauseln wie „die Abnahme des Gemeinschaftseigentums ist bereits erfolgt"; Paragraf 307 BGB: unangemessene Benachteiligung als Grundlage für Unwirksamkeit aller Abnahmeklauseln, die dem Erwerber sein individuelles Prüf- und Abnahmerecht entziehen; Paragraf 640 BGB: Abnahme als Werkvertragsinstitut; bleibt beim Bauträgervertrag grundsätzlich anwendbar.
-Norm- oder Entscheidungsbezug aus dem Fachmaterial: Auch bei Nachzüglerklauseln wie „die Abnahme des Gemeinschaftseigentums ist bereits erfolgt"; Paragraf 307 BGB: unangemessene Benachteiligung als Grundlage für Unwirksamkeit aller Abnahmeklauseln, die dem Erwerber sein individuelles Prüf- und Abnahmerecht entziehen.
 Lieferstück: Fachvotum zu Abnahme Gemeinschaftseigentum mit Tatbestandsmerkmalen, Aktenfundstellen, Beweislast, stärkster Gegenposition, Risiko und ausformulierter Rechtsfolge.
 
-### 12.6. Bauzeitenplan und Verzug
+### 12.5. Bauzeitenplan und Verzug
 
 Bearbeitungsauftrag: Bearbeite Bauzeitenplan und Verzug: vertragssoll, Nachtrag, Behinderung, Abnahme, Mangel, Kostenfolge, Beweis und Gutachterfrage in eine Bauakte bringen. Verbinde den konkreten Aktenfund mit Tatbestandsmerkmal, Gegenposition, Beweislast, Rechtsfolge und dem nächsten vollständig ausformulierten Arbeitsprodukt.
 Prüfschritte: Wenn der Bauträger den vereinbarten Fertigstellungstermin nicht einhält, sich auf höhere Gewalt, Lieferketten, Witterung oder Behördenverfahren beruft, oder wenn der Vertrag für den Verzugseintritt eine zusätzliche Mahnung trotz kalendarisch bestimmtem Termin verlangt; Paragraf 286 Absatz 2 Nummer 1 BGB: Mahnung entbehrlich, wenn für die Leistung ein kalendarisch bestimmter Zeitpunkt vereinbart ist; Paragraf 286 Absatz 4 BGB: Keine Haftung bei nicht zu vertretenden Leistungshindernissen; Paragraf 307 BGB: Klausel, die trotz kalendarischem Termin zusätzliche Mahnung mit Nachfrist verlangt, ist unwirksam; Paragraf 313 BGB: Wegfall der Geschäftsgrundlage nur als enges Korrektiv.
 Lieferstück: Fachvotum zu Bauzeitenplan und Verzug mit Tatbestandsmerkmalen, Aktenfundstellen, Beweislast, stärkster Gegenposition, Risiko und ausformulierter Rechtsfolge.
 
-### 12.7. MaBV-Sicherheit Paragraf 7 prüfen
+### 12.6. MaBV-Sicherheit Paragraf 7 prüfen
 
 Bearbeitungsauftrag: Wenn der Vertrag statt eines Paragraf-3-Ratenplans mit Vormerkung und Freistellung eine Paragraf-7-Bürgschaft als Sicherungsalternative vorsieht, oder wenn beide Modelle scheinbar kombiniert werden. Paragraf 7 Absatz 1 MaBV: Sicherheit für alle etwaigen Ansprüche des Auftraggebers auf Rückgewähr oder Auszahlung der ihm entgegengenommenen Vermögenswerte.
 Prüfschritte: Auch wenn eine Bürgschaft nur als dekorativer Zusatz zum Ratenplan erscheint; Paragraf 7 Absatz 1 Satz 4 MaBV: Bei Eigentums- oder Erbbaurechtsübertragung muss die Sicherheit aufrechterhalten werden, bis Paragraf 3 Absatz 1 MaBV erfüllt ist und das Vertragsobjekt vollständig fertiggestellt ist; Paragraf 12 MaBV: Abweichungen zulasten des Auftraggebers unzulässig; Paragraf 650v BGB: MaBV ist die einzig zulässige Grundlage für Abschlagszahlungen beim Bauträgervertrag.
-Norm- oder Entscheidungsbezug aus dem Fachmaterial: Auch wenn eine Bürgschaft nur als dekorativer Zusatz zum Ratenplan erscheint; Paragraf 7 Absatz 1 Satz 4 MaBV: Bei Eigentums- oder Erbbaurechtsübertragung muss die Sicherheit aufrechterhalten werden, bis Paragraf 3 Absatz 1 MaBV erfüllt ist und das Vertragsobjekt vollständig fertiggestellt ist.
 Lieferstück: Fachvotum zu MaBV-Sicherheit Paragraf 7 prüfen mit Tatbestandsmerkmalen, Aktenfundstellen, Beweislast, stärkster Gegenposition, Risiko und ausformulierter Rechtsfolge.
 
-### 12.8. Teilungserklärung und Gemeinschaftsordnung
+### 12.7. Teilungserklärung und Gemeinschaftsordnung
 
 Bearbeitungsauftrag: Bearbeite Teilungserklärung und Gemeinschaftsordnung: vertragssoll, Nachtrag, Behinderung, Abnahme, Mangel, Kostenfolge, Beweis und Gutachterfrage in eine Bauakte bringen. Lege Regelungsziel und tatsächlichen Ablauf offen, prüfe Definitionen, Haupt- und Nebenpflichten, Bedingungen, Laufzeit, Beendigung, Haftung, Form, zwingendes Recht und Vollzug und liefere Klausel, Rückfallposition und Abschlusskontrolle.
 Prüfschritte: Wenn der Vertrag dem Bauträger das Recht gibt, die Teilungserklärung oder Gemeinschaftsordnung nach Beurkundung einseitig zu ändern oder wenn der Erwerber verpflichtet wird, späteren Änderungen zuzustimmen, ohne dass triftige Gründe im Einzelnen benannt sind; Auch bei Untergemeinschaften, Stimmrechtsklauseln, Kostenverteilungsänderungen und Sondernutzungsrechtszuordnungen; Paragraf 8 WEG: Teilung durch den teilenden Eigentümer; Grundlage für die Begründung von Wohnungseigentum; Paragraf 308 Nummer 4 BGB: Änderungsvorbehalte nur mit triftigen, konkret benannten Gründen zulässig.
 Lieferstück: Fachvotum zu Teilungserklärung und Gemeinschaftsordnung mit Tatbestandsmerkmalen, Aktenfundstellen, Beweislast, stärkster Gegenposition, Risiko und ausformulierter Rechtsfolge.
 
-### 12.9. Auflassungsvormerkung und Grundbuch
-
-Bearbeitungsauftrag: Bearbeite Auflassungsvormerkung und Grundbuch: vertragssoll, Nachtrag, Behinderung, Abnahme, Mangel, Kostenfolge, Beweis und Gutachterfrage in eine Bauakte bringen. Verbinde den konkreten Aktenfund mit Tatbestandsmerkmal, Gegenposition, Beweislast, Rechtsfolge und dem nächsten vollständig ausformulierten Arbeitsprodukt.
-Prüfschritte: Vor der ersten Zahlung, bei der Prüfung des MaBV-Fälligkeitsrahmens nach Paragraf 3 Absatz 1 MaBV, bei Freistellungsproblemen, bei Klauseln zur Löschung der Vormerkung durch einseitige Bauträgererklärung und in der Insolvenz des Bauträgers; Paragraf 883 BGB: Auflassungsvormerkung sichert den Übereignungsanspruch; wirkt bei Insolvenz des Bauträgers nach Paragraf 106 Insolvenzordnung; Paragraf 3 Absatz 1 MaBV: Vor erster Zahlung muss die Vormerkung an vereinbarter Rangstelle eingetragen und die Freistellung nicht zu übernehmender Grundpfandrechte gesichert sein.
-Norm- oder Entscheidungsbezug aus dem Fachmaterial: Vor der ersten Zahlung, bei der Prüfung des MaBV-Fälligkeitsrahmens nach Paragraf 3 Absatz 1 MaBV, bei Freistellungsproblemen, bei Klauseln zur Löschung der Vormerkung durch einseitige Bauträgererklärung und in der Insolvenz des Bauträgers.
-Lieferstück: Fachvotum zu Auflassungsvormerkung und Grundbuch mit Tatbestandsmerkmalen, Aktenfundstellen, Beweislast, stärkster Gegenposition, Risiko und ausformulierter Rechtsfolge.
-
-### 12.10. Preisanpassung und Sonderwünsche
+### 12.8. Preisanpassung und Sonderwünsche
 
 Bearbeitungsauftrag: Bearbeite Preisanpassung und Sonderwünsche: vertragssoll, Nachtrag, Behinderung, Abnahme, Mangel, Kostenfolge, Beweis und Gutachterfrage in eine Bauakte bringen. Verbinde den konkreten Aktenfund mit Tatbestandsmerkmal, Gegenposition, Beweislast, Rechtsfolge und dem nächsten vollständig ausformulierten Arbeitsprodukt.
 Prüfschritte: Wenn der Vertrag eine Preisanpassungsklausel enthält, die den Bauträger bei Kostensteigerungen zur Erhöhung des Kaufpreises berechtigt, oder wenn Sonderwünsche außerhalb des MaBV-Ratenplans sofort zahlbar gestellt werden; Paragraf 309 Nummer 1 BGB: keine kurzfristige Preiserhöhung in den ersten vier Monaten nach Vertragsschluss; Paragraf 307 Absatz 1 BGB: Preisanpassungsklausel ohne Saldierung (nur Erhöhung, keine Weitergabe gesunkener Kosten) ist unwirksam wegen Verschiebung des Äquivalenzverhältnisses; Paragraf 307 Absatz 1 Satz 2 BGB: Transparenzgebot — Anlass, Bezugsgrößen und Berechnungsweg müssen klar und überschaubar sein.
 Lieferstück: Fachvotum zu Preisanpassung und Sonderwünsche mit Tatbestandsmerkmalen, Aktenfundstellen, Beweislast, stärkster Gegenposition, Risiko und ausformulierter Rechtsfolge.
 
-### 12.11. Verbraucherstatus prüfen
-
-Bearbeitungsauftrag: Bearbeite Verbraucherstatus prüfen: vertragssoll, Nachtrag, Behinderung, Abnahme, Mangel, Kostenfolge, Beweis und Gutachterfrage in eine Bauakte bringen. Verbinde den konkreten Aktenfund mit Tatbestandsmerkmal, Gegenposition, Beweislast, Rechtsfolge und dem nächsten vollständig ausformulierten Arbeitsprodukt.
-Prüfschritte: Sobald der Erwerber eine natürliche Person ist, insbesondere bei Gewerbeeinheiten, privaten Kapitalanlagen, gemischter Nutzung oder wenn der Bauträger behauptet, der Erwerber sei Unternehmer; Auch bei WEG-Nachzüglern und bei Mitgliedern einer Baugruppen-GbR ist der Status zu klären; Paragraf 13 BGB: Verbraucher ist jede natürliche Person, die ein Rechtsgeschäft zu Zwecken abschließt, die überwiegend weder ihrer gewerblichen noch selbstständigen beruflichen Tätigkeit zugerechnet werden können; Paragraf 14 BGB: Unternehmer handelt in Ausübung gewerblicher oder selbstständiger beruflicher Tätigkeit.
-Lieferstück: Fachvotum zu Verbraucherstatus prüfen mit Tatbestandsmerkmalen, Aktenfundstellen, Beweislast, stärkster Gegenposition, Risiko und ausformulierter Rechtsfolge.
-
-### 12.12. Baubeschreibung und Bausoll prüfen
+### 12.9. Baubeschreibung und Bausoll prüfen
 
 Bearbeitungsauftrag: Bearbeite Baubeschreibung und Bausoll prüfen: vertragssoll, Nachtrag, Behinderung, Abnahme, Mangel, Kostenfolge, Beweis und Gutachterfrage in eine Bauakte bringen. Verbinde den konkreten Aktenfund mit Tatbestandsmerkmal, Gegenposition, Beweislast, Rechtsfolge und dem nächsten vollständig ausformulierten Arbeitsprodukt.
 Prüfschritte: Sobald die Baubeschreibung nicht datiert, nicht mitbeurkundet, nur pauschal referenziert oder inhaltlich unvollständig ist; Ebenso bei Klauseln wie „mittlere Art und Güte", „gleichwertiges Fabrikat", „nach Wahl des Verkäufers" oder „Bemusterung im Standard des Bauträgers"; Paragraf 650j BGB: Pflicht zur Übergabe einer Baubeschreibung nach Maßgabe des Artikels 249 EGBGB; gilt auch beim Bauträgervertrag, nicht ausgeschlossen durch Paragraf 650u Absatz 2 BGB; Paragraf 650k Absatz 2 BGB: Unklarheiten gehen zulasten des Unternehmers.
 Lieferstück: Fachvotum zu Baubeschreibung und Bausoll prüfen mit Tatbestandsmerkmalen, Aktenfundstellen, Beweislast, stärkster Gegenposition, Risiko und ausformulierter Rechtsfolge.
+
+### 12.10. HOAI, Bauüberwachung und private Bauüberwachung
+
+Bearbeitungsauftrag: Bearbeite HOAI, Bauüberwachung und private Bauüberwachung: vertragssoll, Nachtrag, Behinderung, Abnahme, Mangel, Kostenfolge, Beweis und Gutachterfrage in eine Bauakte bringen. Verbinde den konkreten Aktenfund mit Tatbestandsmerkmal, Gegenposition, Beweislast, Rechtsfolge und dem nächsten vollständig ausformulierten Arbeitsprodukt.
+Prüfschritte: Wenn der Vertrag keine Aussage darüber enthält, wer die Ausführungsplanung (Leistungsphase 5) und die Objektüberwachung (Leistungsphase 8) schuldet; wenn die Bauüberwachung nur intern durch den Bauträger selbst erfolgt; wenn der Vertrag dem Erwerber den Baustellenzutritt mit eigenen Sachverständigen verbietet oder wenn technische Qualitätsgates fehlen; Paragraf 34 HOAI in Verbindung mit Anlage 10.1 HOAI: Leistungsbild Gebäude und Innenräume, neun Leistungsphasen; Leistungsphase 8 ist Objektüberwachung, Bauüberwachung und Dokumentation — dies ist primär Honorarrecht, aber belastbares Organisationsraster für die Prüfung der Planungs- und Überwachungslogik.
+Lieferstück: Fachvotum zu HOAI, Bauüberwachung und private Bauüberwachung mit Tatbestandsmerkmalen, Aktenfundstellen, Beweislast, stärkster Gegenposition, Risiko und ausformulierter Rechtsfolge.
+
+### 12.11. Paragraf 309 Nummer 12 BGB — Tatsachenbestätigung und Beweislast
+
+Bearbeitungsauftrag: Auch Klauseln, die die Beweislast für Mängel oder Verzug vor Abnahme auf den Erwerber verschieben. Paragraf 309 Nummer 12 Buchstabe a BGB: Klauselverbot ohne Wertungsmöglichkeit — Beweislastverschiebung für Umstände im Verantwortungsbereich des Verwenders ist unwirksam. Paragraf 309 Nummer 12 Buchstabe b BGB: Klauselverbot ohne Wertungsmöglichkeit — pauschale Bestätigung von Tatsachen durch den anderen Vertragsteil.
+Prüfschritte: Sobald der Vertrag eine Klausel enthält, die den Erwerber etwas „bestätigen", „erkennen", „akzeptieren" oder „als erhalten quittieren" lässt — insbesondere Unterlagenerhalt, Kenntnis von Baubeschreibung oder Teilungserklärung, Prüfung der Unterlagen, Belehrung durch den Notar, Vollständigkeit der Ausstattung oder Mangelfreiheit bei Übergabe; Empfang, Kenntnis, Prüfung ist unwirksam.
+Lieferstück: Beweismatrix zu Paragraf 309 Nummer 12 BGB — Tatsachenbestätigung und Beweislast mit Tatfrage, Beweislast, Beweismittel, Fundstelle, Gegenposition und Folge eines offenen Nachweises.
+
+### 12.12. Fälligkeitsmitteilung prüfen
+
+Bearbeitungsauftrag: Bearbeite Fälligkeitsmitteilung prüfen: vertragssoll, Nachtrag, Behinderung, Abnahme, Mangel, Kostenfolge, Beweis und Gutachterfrage in eine Bauakte bringen. Verbinde den konkreten Aktenfund mit Tatbestandsmerkmal, Gegenposition, Beweislast, Rechtsfolge und dem nächsten vollständig ausformulierten Arbeitsprodukt.
+Prüfschritte: Jedes Mal, wenn der Bauträger oder der Notar eine Rate als fällig mitteilt; Auch wenn die finanzierende Bank den Erwerber zur Zahlung auffordert oder der Bauträger Verzug anmahnt; Paragraf 3 Absatz 1 MaBV: kumulative Voraussetzungen für die erste Zahlung — wirksamer Vertrag ohne einseitige Rücktrittsrechte des Bauträgers, Auflassungsvormerkung, Freistellung, Baugenehmigung oder ordnungsgemäße Bestätigung; Paragraf 3 Absatz 2 MaBV: Baufortschritts-Kopplung für jede weitere Rate; bis zu sieben Teilbeträge nach tatsächlichem Bautenstand.
+Lieferstück: Fachvotum zu Fälligkeitsmitteilung prüfen mit Tatbestandsmerkmalen, Aktenfundstellen, Beweislast, stärkster Gegenposition, Risiko und ausformulierter Rechtsfolge.
 <!-- END fachrouten-werkstatt (autogen) -->

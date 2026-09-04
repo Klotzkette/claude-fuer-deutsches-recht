@@ -111,12 +111,12 @@ Arbeitsgriff Beweis und Textprodukt: Anspruchsmatrix, Redline, Mahnung, Rücktri
 - HGB Paragraf 377: Untersuchungs- und Rügeobliegenheit im Handelskauf.
 - Paragraf 121 BGB: Unverzügliche Anfechtung bei Irrtum — ohne schuldhaftes Zögern nach Kenntnis; im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
 - Paragraf 124 BGB: Jahresfrist bei arglistiger Täuschung oder Drohung; absolute Höchstfrist 10 Jahre; im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
-- Paragraf 144 BGB: Bestätigung des anfechtbaren Rechtsgeschäfts schließt Anfechtung aus; im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
 - Paragraf 119 BGB: Irrtumsanfechtungsgrundlage für Paragraf 121 BGB-Frist; im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
 - Paragraf 123 BGB: Anfechtungsgrundlage für Paragraf 124 BGB-Frist; im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
 - Paragraf 130 BGB: Zugang der Anfechtungserklärung als Zeitpunkt für Fristwahrung; im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
 - Paragraf 121 BGB (unverzüglich nach Kenntnis): Grundsätzlich gilt eine kurze Zeitspanne von einigen Tagen; im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
 - Paragraf 124 BGB (bei Paragrafen 123 und 124 BGB): Ein Jahr ab Entdeckung der Täuschung oder Ende der Zwangslage; im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
+- Paragraf 147 Abs. 1 BGB: Annahme unter Anwesenden sofort; im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
 
 ## 8. Leitentscheidungen
 
@@ -194,13 +194,13 @@ Diese Routen stammen aus den konkreten Arbeitsthemen dieses Plugins. Wähle die 
 
 Bearbeitungsauftrag: Formvorschrift identifizieren: Schriftform (Paragraf 126 BGB), Textform (Paragraf 126b BGB), elektronische Form (Paragraf 126a BGB), notarielle Beurkundung (Paragraf 128 BGB). Rechtsfolge nach Paragraf 125 BGB: Nichtigkeit bei gesetzlicher Form. Heilungsmöglichkeit prüfen: Paragraf 311b Absatz 1 S. 2 BGB (Grundstück), Paragraf 518 Absatz 2 BGB (Schenkung).
 Prüfschritte: Mandant hat Grundstückskaufvertrag mündlich geschlossen — Paragraf 311b Absatz 1 BGB, Heilung durch Auflassung und Eintragung; Mandant schließt Bürgschaft ohne Schriftform nach Paragraf 766 BGB — Nichtigkeit, keine Heilung möglich; Klausurkonstellation: Formnichtige Vereinbarung — kann sie durch nachfolgendes Erfüllungsverhalten geheilt werden?
-Norm- oder Entscheidungsbezug aus dem Fachmaterial: Mandant hat Grundstückskaufvertrag mündlich geschlossen — Paragraf 311b Absatz 1 BGB, Heilung durch Auflassung und Eintragung; Mandant schließt Bürgschaft ohne Schriftform nach Paragraf 766 BGB — Nichtigkeit, keine Heilung möglich?
+Normbezug aus dem Fachmaterial: Mandant hat Grundstückskaufvertrag mündlich geschlossen — Paragraf 311b Absatz 1 BGB, Heilung durch Auflassung und Eintragung; Mandant schließt Bürgschaft ohne Schriftform nach Paragraf 766 BGB — Nichtigkeit, keine Heilung möglich?
 Lieferstück: Fachvotum zu Form und Prozessform — Paragrafen 125 bis 129 BGB mit Tatbestandsmerkmalen, Aktenfundstellen, Beweislast, stärkster Gegenposition, Risiko und ausformulierter Rechtsfolge.
 
 ### 16.2. Anfechtungsfrist Erklärung Annahmefrist
 
 Bearbeitungsauftrag: Prüfe Anfechtungsfrist und Bestätigungstatbestand: Frist bei Irrtumsanfechtung nach Paragraf 121 BGB (unverzüglich) und bei arglistiger Täuschung nach Paragraf 124 BGB (ein Jahr), Fristbeginn, Bestätigung nach Paragraf 144 BGB als Ausschlussgrund. Käufer hat Täuschung entdeckt, aber mehrere Monate gewartet — ist die Jahresfrist des Paragraf 124 BGB noch offen? Bei Paragrafen 119 und 120 BGB: Paragraf 121 BGB — unverzüglich nach Kenntnis des Anfechtungsgrunds.
-Norm- oder Entscheidungsbezug aus dem Fachmaterial: Prüfe Anfechtungsfrist und Bestätigungstatbestand: Frist bei Irrtumsanfechtung nach Paragraf 121 BGB (unverzüglich) und bei arglistiger Täuschung nach Paragraf 124 BGB (ein Jahr), Fristbeginn, Bestätigung nach Paragraf 144 BGB als Ausschlussgrund.
+Normbezug aus dem Fachmaterial: Prüfe Anfechtungsfrist und Bestätigungstatbestand: Frist bei Irrtumsanfechtung nach Paragraf 121 BGB (unverzüglich) und bei arglistiger Täuschung nach Paragraf 124 BGB (ein Jahr), Fristbeginn, Bestätigung nach Paragraf 144 BGB als Ausschlussgrund.
 Lieferstück: Fristenblatt zu Anfechtungsfrist Erklärung Annahmefrist mit Auslöser, Beginn, Ende, Vorfrist, Beleg, Sofortmaßnahme und Verantwortlichem.
 
 ### 16.3. Annahmefrist und verspätete Annahme — Paragrafen 147 bis 149 BGB
@@ -213,7 +213,7 @@ Lieferstück: Fristenblatt zu Annahmefrist und verspätete Annahme — Paragrafe
 
 Bearbeitungsauftrag: Bedingung oder Befristung bestimmen: aufschiebende (Paragraf 158 Absatz 1 BGB) oder auflösende Bedingung (Paragraf 158 Absatz 2 BGB)? Rückwirkung nach Paragraf 159 BGB: nur wenn Parteien dies vereinbart haben. Vereitelung nach Paragraf 162 BGB: Partei hat treuwidrig den Eintritt verhindert oder herbeigeführt.
 Prüfschritte: Mandant schließt Kaufvertrag unter der Bedingung, dass er seinen alten Wagen verkauft — Wirkung bei Eintritt oder Ausbleiben der Bedingung; Vertragspartei vereitelt arglistig den Bedingungseintritt — Paragraf 162 BGB Rechtsfolge; Klausurkonstellation: Vertrag mit Befristung (Zeitbestimmung) — wann tritt Wirkung ein, wann erlischt sie?
-Norm- oder Entscheidungsbezug aus dem Fachmaterial: Mandant schließt Kaufvertrag unter der Bedingung, dass er seinen alten Wagen verkauft — Wirkung bei Eintritt oder Ausbleiben der Bedingung; Vertragspartei vereitelt arglistig den Bedingungseintritt — Paragraf 162 BGB Rechtsfolge?
+Normbezug aus dem Fachmaterial: Mandant schließt Kaufvertrag unter der Bedingung, dass er seinen alten Wagen verkauft — Wirkung bei Eintritt oder Ausbleiben der Bedingung; Vertragspartei vereitelt arglistig den Bedingungseintritt — Paragraf 162 BGB Rechtsfolge?
 Lieferstück: Fristenblatt zu Bedingung und Befristung — Paragrafen 158 bis 163 BGB mit Auslöser, Beginn, Ende, Vorfrist, Beleg, Sofortmaßnahme und Verantwortlichem.
 
 ### 16.5. Minderjährige und Fehlsubsumtionen — Paragrafen 104 bis 113 BGB
@@ -238,14 +238,14 @@ Lieferstück: Fachvotum zu Schweigen und Erklärungswert mit Tatbestandsmerkmale
 
 Bearbeitungsauftrag: Ermächtigung nach Paragraf 112 BGB prüfen: Elternzustimmung und Genehmigung des Familiengerichts. Paragraf 113 BGB: Ermächtigung zu Dienst- oder Arbeitsverhältnis — hier reicht elterliche Erlaubnis ohne Gericht. Widerruf der Ermächtigung: Paragraf 112 Absatz 2 BGB ermöglicht Widerruf durch gesetzlichen Vertreter.
 Prüfschritte: 16-jähriger betreibt mit Elternzustimmung einen Online-Shop — welche Verträge kann er selbstständig schließen; Minderjährige geht einem Nebenjob nach — welche Reichweite hat die elterliche Ermächtigung nach Paragraf 113 BGB; Klausurkonstellation: Minderjähriger schließt Liefervertrag für seinen Betrieb — wirksam oder nicht?
-Norm- oder Entscheidungsbezug aus dem Fachmaterial: 16-jähriger betreibt mit Elternzustimmung einen Online-Shop — welche Verträge kann er selbstständig schließen; Minderjährige geht einem Nebenjob nach — welche Reichweite hat die elterliche Ermächtigung nach Paragraf 113 BGB?
+Normbezug aus dem Fachmaterial: 16-jähriger betreibt mit Elternzustimmung einen Online-Shop — welche Verträge kann er selbstständig schließen; Minderjährige geht einem Nebenjob nach — welche Reichweite hat die elterliche Ermächtigung nach Paragraf 113 BGB?
 Lieferstück: Fachvotum zu Ermächtigung zu Erwerbsgeschäften — Paragrafen 112 und 113 BGB mit Tatbestandsmerkmalen, Aktenfundstellen, Beweislast, stärkster Gegenposition, Risiko und ausformulierter Rechtsfolge.
 
 ### 16.9. Formnichtigkeit — Paragrafen 125 bis 129 BGB
 
 Bearbeitungsauftrag: Einschlägige Formvorschrift bestimmen: gesetzliche Form (Paragraf 125 S. 1 BGB) oder vereinbarte Form (Paragraf 125 S. 2 BGB). Rechtsfolge nach Paragraf 125 BGB: Nichtigkeit. Teilnichtigkeit nach Paragraf 139 BGB: Erfasst Nichtigkeit nur Teil des Vertrags?
 Prüfschritte: Mandant hat mündlich eine Bürgschaft übernommen — unwirksam nach Paragraf 766 BGB, keine Heilung möglich; Grundstückskaufvertrag in einfacher Schriftform — Formmangel nach Paragraf 311b Absatz 1 BGB, Heilung durch Auflassung; Klausurkonstellation: Vertrag unterschrieben, Anlagen fehlen — vollständige Formnichtigkeit oder Teilnichtigkeit?
-Norm- oder Entscheidungsbezug aus dem Fachmaterial: Mandant hat mündlich eine Bürgschaft übernommen — unwirksam nach Paragraf 766 BGB, keine Heilung möglich; Grundstückskaufvertrag in einfacher Schriftform — Formmangel nach Paragraf 311b Absatz 1 BGB, Heilung durch Auflassung?
+Normbezug aus dem Fachmaterial: Mandant hat mündlich eine Bürgschaft übernommen — unwirksam nach Paragraf 766 BGB, keine Heilung möglich; Grundstückskaufvertrag in einfacher Schriftform — Formmangel nach Paragraf 311b Absatz 1 BGB, Heilung durch Auflassung?
 Lieferstück: Fachvotum zu Formnichtigkeit — Paragrafen 125 bis 129 BGB mit Tatbestandsmerkmalen, Aktenfundstellen, Beweislast, stärkster Gegenposition, Risiko und ausformulierter Rechtsfolge.
 
 ### 16.10. Taschengeldparagraph — Paragraf 110 BGB
@@ -257,7 +257,7 @@ Lieferstück: Fachvotum zu Taschengeldparagraph — Paragraf 110 BGB mit Tatbest
 ### 16.11. AGB-Einbeziehung und Inhaltskontrolle — Paragrafen 305 bis 310 BGB
 
 Bearbeitungsauftrag: Prüfe AGB-Einbeziehung nach Paragrafen 305 bis 310 BGB: ausdrücklicher und konkludenter Hinweis, zumutbare Kenntnisnahmemöglichkeit, Überraschungsklauseln Paragraf 305c BGB, Inhaltskontrolle Paragrafen 307 bis 309 BGB. Klausurkonstellation: Hotelgast akzeptiert Hausordnung beim Check-in — Einbeziehung nach Paragraf 305 Absatz 2 BGB. Anwendungsbereich prüfen: Verbraucher oder Unternehmer (Paragraf 310 BGB beachten).
-Norm- oder Entscheidungsbezug aus dem Fachmaterial: Prüfe AGB-Einbeziehung nach Paragrafen 305 bis 310 BGB: ausdrücklicher und konkludenter Hinweis, zumutbare Kenntnisnahmemöglichkeit, Überraschungsklauseln Paragraf 305c BGB, Inhaltskontrolle Paragrafen 307 bis 309 BGB.
+Normbezug aus dem Fachmaterial: Prüfe AGB-Einbeziehung nach Paragrafen 305 bis 310 BGB: ausdrücklicher und konkludenter Hinweis, zumutbare Kenntnisnahmemöglichkeit, Überraschungsklauseln Paragraf 305c BGB, Inhaltskontrolle Paragrafen 307 bis 309 BGB.
 Lieferstück: Kontrollvermerk zu AGB-Einbeziehung und Inhaltskontrolle — Paragrafen 305 bis 310 BGB mit Pflicht, Ist-Nachweis, Abweichung, Risiko, Verantwortlichem, Frist und Freigabe.
 
 ### 16.12. Anfechtung erst nach Auslegung

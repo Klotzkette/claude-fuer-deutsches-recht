@@ -143,13 +143,6 @@ Arbeitsgriff Arbeitsprodukt: Mängelrüge, Nachtragsbewertung, Abnahmeprotokoll,
 - BGH, Urteil vom 24.01.2008 - VII ZR 280/05: Bedenkenhinweis muss rechtzeitig, inhaltlich klar und adressatengerecht erfolgen.
 - BGH, Urteil vom 10.10.2013 - VII ZR 19/12: Eine formularmäßige Verkürzung der Verjährung von Mängelansprüchen gegen Architekten auf zwei Jahre ab Abnahme ist unwirksam; eine Teilabnahme folgt nicht schon aus einer Vertragsklausel, nach der die Verjährung mit Abnahme der letzten Unternehmerleistung beginnt.
 - BGH, Urteil vom 25.06.2015 - VII ZR 220/14: Verlangt der Unternehmer Ersatz der Kosten einer durch ein mangelhaftes Vorgewerk verursachten Nachbesserung, muss er darlegen, welche Maßnahmen der Mängelbeseitigung dienten; eine Vermutung für sämtliche Drittunternehmerleistungen besteht nicht.
-- BVerwG, Urteil vom 29.01.2009 - 4 C 15.07: Folgekostenverträge können bei mehreren Plangebieten tragfähig sein, wenn ein transparentes Gesamtkonzept die Kausalität belegt.
-- BVerwG, Urteil vom 25.06.2014 - 4 CN 4.13: Bebauungsplan-Festsetzungen brauchen eine passende Rechtsgrundlage im Festsetzungskatalog.
-- BVerwG, Urteil vom 01.12.2010 - 9 C 8.09: Nach der damals geltenden Fassung des BauGB war Paragraf 124 die Spezialregelung für Erschließungsverträge; für heutige Verträge sind BauGB Paragraf 11 Absatz 1 Satz 2 Nummer 1 und der nun anders geregelte Paragraf 124 zugrunde zu legen.
-- BGH, Urteil vom 22.12.2000 - VII ZR 310/99: Weicht eine Abschlagszahlungsvereinbarung zum Nachteil des Erwerbers von Paragraf 3 Absatz 2 MaBV ab, ist die gesamte Zahlungsvereinbarung nichtig; der übrige Vertrag bleibt bestehen.
-- BGH, Urteil vom 22.03.2007 - VII ZR 268/05: Bei einer nach Paragraf 3 und 12 MaBV in Verbindung mit Paragraf 134 BGB nichtigen Zahlungsvereinbarung kann der Erwerber verbotswidrig vor Fälligkeit entgegengenommene Zahlungen grundsätzlich bereicherungsrechtlich.
-- BGH, Urteil vom 27.10.2011 - VII ZR 84/09: Auch bei einer nach Baufortschritt fälligen Rate kann der Erwerber wegen bereits aufgetretener Mängel einen angemessenen Betrag zurückbehalten.
-- BGH VII ZR 68/24, VII ZR 108/24, VII ZR 88/25 und V ZR 91/25 nur mit frei prüfbarer Quelle verwenden. Keine BeckRS-/juris-Blindzitate.
 
 ## 9. Prüfraster
 
@@ -224,7 +217,7 @@ Diese Routen stammen aus den konkreten Arbeitsthemen dieses Plugins. Wähle die 
 
 Bearbeitungsauftrag: Bearbeite WEG-Abgeschlossenheitsbescheinigung beim Bauträgervertrag: vertragssoll, Nachtrag, Behinderung, Abnahme, Mangel, Kostenfolge, Beweis und Gutachterfrage in eine Bauakte bringen. Lege Regelungsziel und tatsächlichen Ablauf offen, prüfe Definitionen, Haupt- und Nebenpflichten, Bedingungen, Laufzeit, Beendigung, Haftung, Form, zwingendes Recht und Vollzug und liefere Klausel, Rückfallposition und Abschlusskontrolle.
 Prüfschritte: Paragraf 7 Absatz 4 WEG (alt) / Paragraf 3 Absatz 2 WEG (neu): Abgeschlossenheitsbescheinigung der zuständigen Behörde (idR Bauaufsicht) bestätigt die in sich abgeschlossene Beschaffenheit jeder Wohnungs- oder Teileigentumseinheit; Wohnungen sind räumlich abgegrenzt; Eingang nach außen oder von einem Gemeinschaftsraum; Ohne Abgeschlossenheitsbescheinigung keine wirksame Teilung; Wohnung "geht durch" eine andere Wohnung.
-Norm- oder Entscheidungsbezug aus dem Fachmaterial: Paragraf 7 Absatz 4 WEG (alt) / Paragraf 3 Absatz 2 WEG (neu): Abgeschlossenheitsbescheinigung der zuständigen Behörde (idR Bauaufsicht) bestätigt die in sich abgeschlossene Beschaffenheit jeder Wohnungs- oder Teileigentumseinheit; Wohnungen sind räumlich abgegrenzt.
+Normbezug aus dem Fachmaterial: Paragraf 7 Absatz 4 WEG (alt) / Paragraf 3 Absatz 2 WEG (neu): Abgeschlossenheitsbescheinigung der zuständigen Behörde (idR Bauaufsicht) bestätigt die in sich abgeschlossene Beschaffenheit jeder Wohnungs- oder Teileigentumseinheit; Wohnungen sind räumlich abgegrenzt.
 Lieferstück: verhandlungsfähige Fassung mit Ausgangstext, Änderung, Begründung, Rückfallposition und Vollzugscheck.
 
 ### 16.2. Bauträgervertrag: Verbraucher, MaBV, AGB und Abnahme
@@ -237,20 +230,20 @@ Lieferstück: verhandlungsfähige Fassung mit Ausgangstext, Änderung, Begründu
 
 Bearbeitungsauftrag: BGB Paragraf 650p und Paragraf 650q: Architekten- und Ingenieurvertrag. BGB Paragraf 633 und Paragraf 634: Mangel und Rechte des Bestellers. BauGB Paragraf 30 und Paragraf 31: Planbindung und Befreiung als Genehmigungsrisiko.
 Prüfschritte: Dieser Arbeitsgang prüft, wann Planer wegen falscher Bebauungsplanlektüre, unzulässiger Ausnutzung, fehlender Befreiung oder übersehener örtlicher Bauvorschriften haften; BGB Paragraf 280: Schadensersatz wegen Pflichtverletzung; HOAI Leistungsphasen 2 bis 4: Grundlagenermittlung, Vorplanung, Entwurfsplanung und Genehmigungsplanung als Pflichtenkontext; 4 CN 4.13, Fundstelle ECLI:DE:BVerwG:2014:250614U4CN4.13.0: Die Festsetzung Laubmischwald findet keine tragfähige Grundlage in Paragraf 9 Absatz 1 Nummer 18 Buchstabe b BauGB, wenn sie die zulässige Festsetzungssystematik verlässt.
-Norm- oder Entscheidungsbezug aus dem Fachmaterial: Dieser Arbeitsgang prüft, wann Planer wegen falscher Bebauungsplanlektüre, unzulässiger Ausnutzung, fehlender Befreiung oder übersehener örtlicher Bauvorschriften haften; BGB Paragraf 650p und Paragraf 650q: Architekten- und Ingenieurvertrag.
+Normbezug aus dem Fachmaterial: Dieser Arbeitsgang prüft, wann Planer wegen falscher Bebauungsplanlektüre, unzulässiger Ausnutzung, fehlender Befreiung oder übersehener örtlicher Bauvorschriften haften; BGB Paragraf 650p und Paragraf 650q: Architekten- und Ingenieurvertrag.
 Lieferstück: gewichtete Prüfmatrix mit Tatbestandsmerkmalen, Fundstellen, Gegenposition, Beweislast, Risiko und Empfehlung.
 
 ### 16.4. Haftung und Rückabwicklung städtebaulicher Verträge
 
 Bearbeitungsauftrag: VwVfG Paragraf 59: Nichtigkeit öffentlich-rechtlicher Verträge. BGB Paragraf 242: Treu-und-Glauben-Korrektur bei Rückabwicklung. BGB Paragraf 280: Haftung bei Pflichtverletzung in Anschlussverträgen.
 Prüfschritte: Dieser Arbeitsgang prüft Rückzahlungs-, Regress- und Haftungsfragen, wenn städtebauliche Vertragsleistungen rechtsgrundlos, unangemessen, formfehlerhaft oder planungsrechtlich überholt sind; BauGB Paragraf 11 Absatz 2 und Absatz 3: Angemessenheit und Schriftform; BGB Paragraf 812: Rückforderung ohne Rechtsgrund als zivilrechtlicher Referenzrahmen; 4 C 15.07, Fundstelle ECLI:DE:BVerwG:2009:290109U4C15.07.0: Ein Folgekostenvertrag kann auch bei mehreren Bebauungsplangebieten tragfähig sein, wenn ein transparentes gemeindliches Gesamtkonzept die Kausalität der Folgemaßnahmen nachvollziehbar belegt.
-Norm- oder Entscheidungsbezug aus dem Fachmaterial: Dieser Arbeitsgang prüft Rückzahlungs-, Regress- und Haftungsfragen, wenn städtebauliche Vertragsleistungen rechtsgrundlos, unangemessen, formfehlerhaft oder planungsrechtlich überholt sind; BauGB Paragraf 11 Absatz 2 und Absatz 3: Angemessenheit und Schriftform.
+Normbezug aus dem Fachmaterial: Dieser Arbeitsgang prüft Rückzahlungs-, Regress- und Haftungsfragen, wenn städtebauliche Vertragsleistungen rechtsgrundlos, unangemessen, formfehlerhaft oder planungsrechtlich überholt sind; BauGB Paragraf 11 Absatz 2 und Absatz 3: Angemessenheit und Schriftform.
 Lieferstück: gewichtete Prüfmatrix mit Tatbestandsmerkmalen, Fundstellen, Gegenposition, Beweislast, Risiko und Empfehlung.
 
 ### 16.5. Abnahme des Bauwerks unter Vorbehalt von Mängeln erklären
 
 Bearbeitungsauftrag: Welche Abnahmeform liegt vor — förmlich (Begehungsprotokoll), konkludent (Ingebrauchnahme), fiktiv (Paragraf 640 Absatz 2 BGB nach Fristablauf), VOB/B Paragraf 12? Bestehen Vertragsstrafenansprüche wegen Bauzeitüberschreitung (Paragraf 339 BGB) — wurde Vorbehalt nach Paragraf 341 Absatz 3 BGB bei Abnahme erklärt? Sollen einzelne Werkteile abgenommen werden (Teilabnahme Paragraf 640 Absatz 1 Satz 2 BGB) oder Gesamtabnahme?
-Norm- oder Entscheidungsbezug aus dem Fachmaterial: Welche Abnahmeform liegt vor — förmlich (Begehungsprotokoll), konkludent (Ingebrauchnahme), fiktiv (Paragraf 640 Absatz 2 BGB nach Fristablauf), VOB/B Paragraf 12?
+Normbezug aus dem Fachmaterial: Welche Abnahmeform liegt vor — förmlich (Begehungsprotokoll), konkludent (Ingebrauchnahme), fiktiv (Paragraf 640 Absatz 2 BGB nach Fristablauf), VOB/B Paragraf 12?
 Lieferstück: Fachvotum zu Abnahme des Bauwerks unter Vorbehalt von Mängeln erklären mit Tatbestandsmerkmalen, Aktenfundstellen, Beweislast, stärkster Gegenposition, Risiko und ausformulierter Rechtsfolge.
 
 ### 16.6. Abriss eines Baudenkmals prüfen
@@ -273,7 +266,6 @@ Lieferstück: vollständige Einreichungs- oder Registervorlage mit Zuständigkei
 ### 16.9. Bauvertragsnachtrag richtig einordnen
 
 Bearbeitungsauftrag: Diese Entscheidung betrifft Paragraf 2 Absatz 3 Nummer 2 VOB/B. Sie ist weder ein allgemeiner Preisbildungsanker für geänderte oder zusätzliche Leistungen nach VOB/B noch für Paragraf 650c BGB. Vertrag, Einbeziehung und Inhaltskontrolle der VOB/B, Leistungsverzeichnis, Pläne, Baubeschreibung und Rangfolge der Unterlagen feststellen.
-Prüfschritte: Vor jeder Preisberechnung ist die Fallgruppe und das wirksam vereinbarte Vertragsregime festzulegen.
 Lieferstück: verhandlungsfähige Fassung mit Ausgangstext, Änderung, Begründung, Rückfallposition und Vollzugscheck.
 
 ### 16.10. Nachbarklage gegen eine Baugenehmigung prüfen

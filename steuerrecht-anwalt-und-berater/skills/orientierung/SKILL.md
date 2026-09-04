@@ -1,73 +1,76 @@
 ---
 name: orientierung
-description: "Für Anwalt im Steuerrecht — Orientierung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
+description: "Ordnet steuerrechtliche Mandate nach Steuerart, Verfahrensstand und Frist, weist die aktuellen Fachanwaltsanforderungen aus und führt zum passenden Prüf- oder Entwurfsworkflow."
 ---
 
-# Anwalt im Steuerrecht — Orientierung
+# Anwalt im Steuerrecht: Orientierung
 
-## Fachlicher Anker
+## 1. Auftrag
 
-- **Normen:** § 6a, §§ 122, §§ 347.
-- **Entscheidungs-/Quellenanker:** Tragende Rechtsprechung nur mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle einsetzen; keine Entscheidung aus Modellwissen erzwingen.
-- **Quellenhygiene:** `references/quellenhygiene.md` und `references/zitierweise.md` beachten.
+Ordne das Mandat zuerst nach Steuerart, Verfahrensstand, Bekanntgabedatum und gewünschtem Arbeitsprodukt. Arbeite bei klarer Aktenlage unmittelbar mit den vorhandenen Bescheiden, Erklärungen, Prüfungsberichten und Berechnungen. Frage nur nach solchen Tatsachen, ohne die sich Frist, Zuständigkeit oder nächster Verfahrensschritt nicht belastbar bestimmen lassen.
 
-## Wichtige Normen
+## 2. Verfahrensanker
 
-| Bereich | Norm |
-|---|---|
-| Allgemeines Steuerverfahrensrecht | AO (Abgabenordnung), insbes. §§ 122, 169 ff. (Festsetzungsverjährung), §§ 347 ff. (Einspruch), §§ 193 ff. (Außenprüfung) |
-| Einkommensteuer | EStG, EStDV |
-| Körperschaftsteuer | KStG, KStDV |
-| Umsatzsteuer | UStG, UStDV; MwStSystRL 2006/112/EG |
-| Gewerbesteuer | GewStG |
-| Erbschaft- und Schenkungsteuer | ErbStG, BewG |
-| Grunderwerbsteuer | GrEStG |
-| Finanzgerichtsverfahren | FGO (Finanzgerichtsordnung) |
-| Steuerstrafrecht | §§ 369 ff. AO (Steuerstraftaten), § 371 AO (Selbstanzeige), §§ 370a, 378 AO (Leichtfertige Steuerverkürzung) |
+- Bekanntgabe: Paragraf 122 AO.
+- Einspruch: Paragrafen 347 bis 367 AO.
+- Aussetzung der Vollziehung: Paragraf 361 AO und Paragraf 69 FGO.
+- Festsetzungsverjährung: Paragrafen 169 bis 171 AO.
+- Außenprüfung: Paragrafen 193 bis 207 AO.
+- Finanzgerichtliches Verfahren: FGO, insbesondere Paragrafen 40, 47, 69 und 115 FGO.
+- Steuerstrafrecht: Paragrafen 369 bis 376 AO; Selbstanzeige nach Paragraf 371 AO; leichtfertige Steuerverkürzung nach Paragraf 378 AO.
 
-## Typische Mandate
+Der frühere Paragraf 370a AO ist aufgehoben und darf weder als Tatbestand noch als Strafrahmen verwendet werden.
 
-- Einspruch gegen Steuerbescheid mit AdV-Antrag.
-- Begleitung der Außenprüfung (Betriebsprüfung) bis zur Schlussbesprechung.
-- Klage vor dem Finanzgericht und Revision beim Bundesfinanzhof.
-- Steuerstrafverfahren und Selbstanzeige nach § 371 AO.
-- Anträge auf Stundung (§ 222 AO), Erlass (§§ 163, 227 AO), Vollstreckungsaufschub (§ 258 AO).
-- Verbindliche Auskunft (§ 89 Abs. 2 AO).
+## 3. Mandats-Triage
 
-## Fristen
+| Prüffeld | Leitfrage | Sofortprodukt |
+| --- | --- | --- |
+| Bekanntgabe | Wann und auf welchem Weg ging welcher Verwaltungsakt zu? | Fristenblatt mit Fristbeginn, Fristende und Zugangsnachweis |
+| Verfahrensstand | Erklärung, Veranlagung, Einspruch, Außenprüfung, Klage oder Vollstreckung? | Verfahrenskarte mit zuständiger Stelle |
+| Steuerart | Einkommen-, Körperschaft-, Umsatz-, Gewerbe-, Erbschaft-, Schenkung- oder Grunderwerbsteuer? | Normen- und Zuständigkeitsmatrix |
+| Regelungsziel | Aufhebung, Änderung, Stundung, Erlass, Vollstreckungsaufschub oder verbindliche Auskunft? | Antragsskizze mit Haupt- und Hilfsbegehren |
+| Tatsachen und Belege | Welche Buchung, Urkunde, Lieferung, Zahlung oder Bewertung trägt den Streit? | Belegmatrix mit Lücken und Beweisrisiken |
 
-- **Einspruch** § 355 Abs. 1 AO — ein Monat ab Bekanntgabe.
-- **Klage Finanzgericht** § 47 Abs. 1 FGO — ein Monat ab Bekanntgabe der Einspruchsentscheidung.
-- **Festsetzungsverjährung** § 169 AO — regelmäßig vier Jahre; bei leichtfertiger Steuerverkürzung fünf Jahre, bei Steuerhinterziehung zehn Jahre.
-- **Aussetzung der Vollziehung** § 361 AO und § 69 FGO — jederzeit, bis Bestandskraft.
-- **Erklärungsfristen** § 149 AO iVm § 150 AO; vertretene Steuerpflichtige Februar des Zweitfolgejahres.
-- **Zugangsfiktion einfacher Brief** § 122 Abs. 2 Nr. 1 AO — seit PostModG 1.1.2025 vier Tage (vorher drei).
+## 4. Typische Mandate
 
-## Hauptgerichte
+1. Einspruch gegen einen Steuerbescheid und gesonderte Prüfung der Aussetzung der Vollziehung.
+2. Begleitung einer Außenprüfung bis zur Schlussbesprechung und Auswertung des Prüfungsberichts.
+3. Klage vor dem Finanzgericht, Nichtzulassungsbeschwerde oder Revision zum Bundesfinanzhof.
+4. Steuerstrafverfahren einschließlich Prüfung einer Selbstanzeige, ohne steuerliches und strafprozessuales Verfahren zu vermengen.
+5. Stundung nach Paragraf 222 AO, abweichende Festsetzung nach Paragraf 163 AO, Erlass nach Paragraf 227 AO oder Vollstreckungsaufschub nach Paragraf 258 AO.
+6. Verbindliche Auskunft nach Paragraf 89 Absatz 2 AO.
 
-- Finanzgericht (FG) — erste Instanz; Senatsbesetzung.
-- Bundesfinanzhof (BFH) — Revisionsinstanz, München.
-- Strafgericht (AG/LG Wirtschaftsstrafkammer) bei Steuerstrafverfahren.
+## 5. Fristenkontrolle
 
-## Berufsverband
+- Einspruch: grundsätzlich ein Monat nach Bekanntgabe nach Paragraf 355 Absatz 1 AO.
+- Klage: grundsätzlich ein Monat nach Bekanntgabe der Einspruchsentscheidung nach Paragraf 47 Absatz 1 FGO.
+- Festsetzungsfrist: grundsätzlich vier Jahre; bei leichtfertiger Steuerverkürzung fünf Jahre, bei Steuerhinterziehung zehn Jahre nach Paragraf 169 Absatz 2 AO.
+- Bekanntgabevermutung bei einfachem Inlandsbrief: seit dem 1. Januar 2025 grundsätzlich vier Tage nach Aufgabe zur Post nach Paragraf 122 Absatz 2 Nummer 1 AO; tatsächlichen Zugang und Ausnahmen stets gesondert prüfen.
+- Erklärungsfristen: Paragraf 149 AO in der für den betroffenen Besteuerungszeitraum geltenden Fassung prüfen; keine pauschale Dauerfrist aus einem anderen Veranlagungsjahr übernehmen.
 
-- Arbeitsgemeinschaft Steuerrecht im DAV.
-- Deutscher Steuerberaterverband DStV (für Bezug zur StB-Praxis).
+## 6. Ergebnisstandard
 
-## Schnittstellen
+Liefere je nach Auftrag ein Fristenblatt, einen Einspruchs- oder Klageentwurf, einen Vermerk zur materiellen Rechtslage, eine Belegmatrix oder eine nachrechenbare Steuerberechnung. Trenne feststehende Tatsachen, streitige Tatsachen, Rechtsfragen und Rechenannahmen. Rechtsprechung darf nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen, enger Aussage und frei prüfbarer Quelle tragend verwendet werden.
 
-- **`stb-`-Skills im selben Plugin** für Steuerberater-spezifische Workflows (BWA-/SuSa-/Bilanzpruefung, Liquiditaetsvorschau).
-- **`kanzlei-allgemein`** für Fristen, Versand, Aktenführung.
-- **`fachanwalt-handels-gesellschaftsrecht`** bei Tax-Aspekten der Unternehmensberatung.
-- **`fachanwalt-insolvenz-sanierungsrecht`** bei Steuerforderungen in der Insolvenz.
+## 7. Schnittstellen
 
-## Anhang — FAO-Voraussetzungen (§ 9 FAO)
+- `stb-`-Skills im selben Plugin für Buchhaltung, BWA, Summen- und Saldenlisten, Bilanzprüfung und Liquiditätsvorschau.
+- `kanzlei-allgemein` für Fristen, Versand und Aktenführung.
+- `fachanwalt-handels-gesellschaftsrecht` für gesellschaftsrechtliche Strukturfragen.
+- `fachanwalt-insolvenz-sanierungsrecht` für Steuerforderungen, Haftung und Gestaltung in Krise und Insolvenz.
 
-Nur relevant für den Erwerb des Fachanwaltstitels "Fachanwalt für Steuerrecht":
+## 8. Fachanwalt für Steuerrecht
 
-- Lehrgang 120 Stunden + drei Klausuren.
-- 50 Faelle in den letzten drei Jahren aus dem Steuerrecht, davon Bezug zu mindestens drei der in § 9 Nr. 1 bis 3 FAO genannten Bereiche und zu allen drei Bereichen in der Falldokumentation; mindestens fuenf rechtsfoermliche Verfahren vor Finanzgerichten oder vergleichbare Verfahren.
+Für den Erwerb der Fachanwaltsbezeichnung gelten nach der FAO in der Fassung vom 1. Dezember 2025 insbesondere:
 
-Inhaltlich-fachlich macht der Fachanwaltstitel keinen Unterschied — alle Skills in diesem Plugin (`anw-*`) sind sowohl für Fachanwaeltinnen/Fachanwaelte als auch für alle anderen Anwaeltinnen/Anwaelte im Steuerrecht gleichermassen nutzbar.
+1. Paragraf 3 FAO: dreijährige Zulassung und Tätigkeit innerhalb der letzten sechs Jahre vor Antragstellung.
+2. Paragraf 4 Absatz 1 FAO: mindestens 120 Zeitstunden Fachlehrgang; im Steuerrecht kommen 40 Zeitstunden für Buchhaltung und Bilanzwesen hinzu.
+3. Paragraf 4a FAO: mindestens drei bestandene schriftliche Leistungskontrollen aus verschiedenen Lehrgangsbereichen mit insgesamt mindestens 15 Zeitstunden.
+4. Paragraf 5 Absatz 1 Buchstabe b FAO: 50 persönlich und weisungsfrei bearbeitete Fälle innerhalb der letzten fünf Jahre aus allen in Paragraf 9 FAO genannten Bereichen.
+5. Jede in Paragraf 9 Nummer 3 FAO genannte Steuerart muss mit mindestens fünf Fällen vertreten sein; mindestens zehn Fälle müssen rechtsförmliche Verfahren, also Einspruchs- oder Klageverfahren, sein.
 
-> Quellenregel: Entscheidungen nur nach Prüfung einer amtlichen oder frei zugänglichen Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage ausgeben.
+Die Fachanwaltsbezeichnung ändert nicht den materiell-rechtlichen Prüfungsmaßstab dieses Plugins.
+
+## 9. Amtliche Quelle
+
+Fachanwältin- und Fachanwaltsordnung in der am 4. September 2026 geltenden Fassung vom 1. Dezember 2025: https://www.brak.de/fileadmin/02_fuer_anwaelte/berufsrecht/028-FAO_Stand_01.12.2025.pdf

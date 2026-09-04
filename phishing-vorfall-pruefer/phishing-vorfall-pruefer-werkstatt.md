@@ -79,7 +79,7 @@ Arbeitsgriff Arbeitsprodukt: Reklamation mit Frist, Beleganforderung, Schlichtun
 | --- | --- | --- | --- |
 | Fallkern | Phishing-Vorfall prüfen | BGB Paragraf 675j | Sofortvermerk mit Ergebnisrichtung, Risiko und nächstem Schritt |
 | Zulässigkeit und Frist | Frist, Form, Zuständigkeit, Rolle und statthafter Weg | BGB Paragraf 675l | Fristenblatt oder Prozess-/Verfahrensroute |
-| Begründetheit | Strafanzeige Paragraf 263a StGB | BGB Paragraf 675l | Tatbestandsmatrix mit Beleg und Gegenargument |
+| Begründetheit | TAN-Verfahren und Haftung | BGB Paragraf 675l | Tatbestandsmatrix mit Beleg und Gegenargument |
 | Rechtsfolge | Sperr- und Rückholauftrag, Zahlungsmatrix, Erstattungsverlangen, Beleganforderung, Schlichtungsantrag, Klage oder Klageabwehr | Die Bank belegt Authentifizierung, ordnungsgemäße Aufzeichnung, Störungsfreiheit und ihren Gegenanspruch; der Zahler schildert den abweichenden Ablauf, seine Anzeige und entlastende Umstände konkret | Antrag, Entwurf, Entscheidungsvorschlag oder Mandantenbrief |
 
 ## 5. Normenanker, Tatbestandswichtigkeiten und Beweislast
@@ -173,14 +173,14 @@ Die Landkarte dient der schnellen Auswahl. Sie ersetzt nicht die darunter ausfor
 | Arbeitsfeld | Entscheidende Weiche | Erstes Lieferstück |
 | --- | --- | --- |
 | Phishing-Vorfall prüfen | Prüfe Phishing-Vorfall im Online-Banking oder Zahlungsverkehr auf Erstattungsansprüche gegen Zahlungsdienstleister. | Fachvotum zu Phishing-Vorfall prüfen mit Tatbestandsmerkmalen, Aktenfundstellen, Beweislast, stärkster Gegenposition, Risiko und ausformulierter Rechtsfolge |
-| Strafanzeige Paragraf 263a StGB | Bearbeite Strafanzeige Paragraf 263a StGB entlang der Phishing und nicht autorisierte Zahlungsvorgänge-Prüflinie: Anspruch und Gegenanspruch: Erstattung nach BGB Paragraf 675u, Anzeigeobliegenheit, Autorisierung, grobe. | vollständige Einreichungs- oder Registervorlage mit Zuständigkeit, Pflichtfeldern, Nachweisen, Freigabe und Vollzugskontrolle |
-| BaFin-Beschwerde gegen Bank | Bearbeite BaFin-Beschwerde gegen Bank entlang der Phishing und nicht autorisierte Zahlungsvorgänge-Prüflinie: Sofortsicherung: Konto und Zugänge sperren, Bankanzeige, Rückrufversuch, Polizei, Geräte. | frist- und formgerechter Entwurf mit Antrag, tragenden Tatsachen, Beweisangeboten, Anlagen und Einreichungsweg |
-| Phish: Banking-Trojaner Haftung | Bearbeite Phish: Banking-Trojaner Haftung entlang der Phishing und nicht autorisierte Zahlungsvorgänge-Prüflinie: Sofortsicherung: Konto und Zugänge sperren, Bankanzeige, Rückrufversuch, Polizei, Geräte. | gewichtete Prüfmatrix mit Tatbestandsmerkmalen, Fundstellen, Gegenposition, Beweislast, Risiko und Empfehlung |
-| Phishing + Arbeitnehmerhaftung | Bearbeite Phishing + Arbeitnehmerhaftung entlang der Phishing und nicht autorisierte Zahlungsvorgänge-Prüflinie: Sofortsicherung: Konto und Zugänge sperren, Bankanzeige, Rückrufversuch, Polizei, Geräte. | gewichtete Prüfmatrix mit Tatbestandsmerkmalen, Fundstellen, Gegenposition, Beweislast, Risiko und Empfehlung |
-| Cyberversicherung prüfen | Bearbeite Cyberversicherung prüfen entlang der Phishing und nicht autorisierte Zahlungsvorgänge-Prüflinie: Anspruch und Gegenanspruch: Erstattung nach BGB Paragraf 675u, Anzeigeobliegenheit, Autorisierung, grobe. | Fachvotum zu Cyberversicherung prüfen mit Tatbestandsmerkmalen, Aktenfundstellen, Beweislast, stärkster Gegenposition, Risiko und ausformulierter Rechtsfolge |
-| beA-Notfall bei Anwalts-PC | Bearbeite beA-Notfall bei Anwalts-PC entlang der Phishing und nicht autorisierte Zahlungsvorgänge-Prüflinie: Sofortsicherung: Konto und Zugänge sperren, Bankanzeige, Rückrufversuch, Polizei, Geräte. | Fachvotum zu beA-Notfall bei Anwalts-PC mit Tatbestandsmerkmalen, Aktenfundstellen, Beweislast, stärkster Gegenposition, Risiko und ausformulierter Rechtsfolge |
 | TAN-Verfahren und Haftung | Bearbeite TAN-Verfahren und Haftung entlang der Phishing und nicht autorisierte Zahlungsvorgänge-Prüflinie: Sofortsicherung: Konto und Zugänge sperren, Bankanzeige, Rückrufversuch, Polizei, Geräte. | gewichtete Prüfmatrix mit Tatbestandsmerkmalen, Fundstellen, Gegenposition, Beweislast, Risiko und Empfehlung |
+| BaFin-Beschwerde gegen Bank | Bearbeite BaFin-Beschwerde gegen Bank als konkreten Vorgang im Gebiet Phishing und nicht autorisierte Zahlungsvorgänge. | frist- und formgerechter Entwurf mit Antrag, tragenden Tatsachen, Beweisangeboten, Anlagen und Einreichungsweg |
+| Phishing + Arbeitnehmerhaftung | Bearbeite Phishing + Arbeitnehmerhaftung als konkreten Vorgang im Gebiet Phishing und nicht autorisierte Zahlungsvorgänge. Zerlege Anspruchsgrund, Pflichtenkreis, Pflichtverletzung, Zurechnung, Kausalität und Schaden. | gewichtete Prüfmatrix mit Tatbestandsmerkmalen, Fundstellen, Gegenposition, Beweislast, Risiko und Empfehlung |
 | Phish: CEO-Fraud Konzern | Bearbeite Phish: CEO-Fraud Konzern entlang der Phishing und nicht autorisierte Zahlungsvorgänge-Prüflinie: Sofortsicherung: Konto und Zugänge sperren, Bankanzeige, Rückrufversuch, Polizei, Geräte. | Fachvotum zu Phish: CEO-Fraud Konzern mit Tatbestandsmerkmalen, Aktenfundstellen, Beweislast, stärkster Gegenposition, Risiko und ausformulierter Rechtsfolge |
+| beA-Notfall bei Anwalts-PC | Bearbeite beA-Notfall bei Anwalts-PC als konkreten Vorgang im Gebiet Phishing und nicht autorisierte Zahlungsvorgänge | Fachvotum zu beA-Notfall bei Anwalts-PC mit Tatbestandsmerkmalen, Aktenfundstellen, Beweislast, stärkster Gegenposition, Risiko und ausformulierter Rechtsfolge |
+| Cyberversicherung prüfen | Bearbeite Cyberversicherung prüfen als konkreten Vorgang im Gebiet Phishing und nicht autorisierte Zahlungsvorgänge | Fachvotum zu Cyberversicherung prüfen mit Tatbestandsmerkmalen, Aktenfundstellen, Beweislast, stärkster Gegenposition, Risiko und ausformulierter Rechtsfolge |
+| Zivilklage gegen Bank | Bearbeite Zivilklage gegen Bank entlang der Phishing und nicht autorisierte Zahlungsvorgänge-Prüflinie: Sofortsicherung: Konto und Zugänge sperren, Bankanzeige, Rückrufversuch, Polizei, Geräte- und Kommunikationsbelege. | frist- und formgerechter Entwurf mit Antrag, tragenden Tatsachen, Beweisangeboten, Anlagen und Einreichungsweg |
+| Phish: Incident-Triage | Bearbeite Phish: Incident-Triage entlang der Phishing und nicht autorisierte Zahlungsvorgänge-Prüflinie: Sofortsicherung: Konto und Zugänge sperren, Bankanzeige, Rückrufversuch, Polizei, Geräte- und Kommunikationsbelege. | Fachvotum zu Phish: Incident-Triage mit Tatbestandsmerkmalen, Aktenfundstellen, Beweislast, stärkster Gegenposition, Risiko und ausformulierter Rechtsfolge |
 
 ## 16. Fachspezifische Praxisrouten
 
@@ -191,57 +191,57 @@ Diese Routen stammen aus den konkreten Arbeitsthemen dieses Plugins. Wähle die 
 Bearbeitungsauftrag: Prüfe Phishing-Vorfall im Online-Banking oder Zahlungsverkehr auf Erstattungsansprüche gegen Zahlungsdienstleister. Normen Paragraf 675v BGB Haftung Zahler grobe Fahrlässigkeit Paragraf 675u BGB Erstattungsanspruch Artikel 33 Artikel 34 Datenschutz-Grundverordnung Meldepflichten. Abgrenzung zu fachanwalt-it-recht-cyber-vorfall-sofortmaßnahmen und datenschutzrecht-Plugin.
 Lieferstück: Fachvotum zu Phishing-Vorfall prüfen mit Tatbestandsmerkmalen, Aktenfundstellen, Beweislast, stärkster Gegenposition, Risiko und ausformulierter Rechtsfolge.
 
-### 16.2. Strafanzeige Paragraf 263a StGB
+### 16.2. TAN-Verfahren und Haftung
 
-Bearbeitungsauftrag: Bearbeite Strafanzeige Paragraf 263a StGB entlang der Phishing und nicht autorisierte Zahlungsvorgänge-Prüflinie: Anspruch und Gegenanspruch: Erstattung nach BGB Paragraf 675u, Anzeigeobliegenheit, Autorisierung, grobe Fahrlässigkeit, starke. Bestimme zuständige Stelle, Pflichtigen, Auslöser, Frist und Pflichtfelder, führe jeden Eintrag auf einen Tatsachenbeleg zurück und liefere freigabefähige Meldung oder Bericht samt Übermittlungsnachweis, Korrekturweg und Anschlusskontrolle.
-Lieferstück: vollständige Einreichungs- oder Registervorlage mit Zuständigkeit, Pflichtfeldern, Nachweisen, Freigabe und Vollzugskontrolle.
+Bearbeitungsauftrag: Bearbeite TAN-Verfahren und Haftung entlang der Phishing und nicht autorisierte Zahlungsvorgänge-Prüflinie: Sofortsicherung: Konto und Zugänge sperren, Bankanzeige, Rückrufversuch, Polizei, Geräte- und Kommunikationsbelege sowie Fristen dokumentieren. Zerlege Anspruchsgrund, Pflichtenkreis, Pflichtverletzung, Zurechnung, Kausalität und Schaden; ordne Einwendungen, Mitverantwortung, Verjährung, Beweislast, Versicherung und jede bezifferte Rechtsfolge den konkreten Aktenbelegen zu.
+Lieferstück: gewichtete Prüfmatrix mit Tatbestandsmerkmalen, Fundstellen, Gegenposition, Beweislast, Risiko und Empfehlung.
 
 ### 16.3. BaFin-Beschwerde gegen Bank
 
-Bearbeitungsauftrag: Bearbeite BaFin-Beschwerde gegen Bank entlang der Phishing und nicht autorisierte Zahlungsvorgänge-Prüflinie: Sofortsicherung: Konto und Zugänge sperren, Bankanzeige, Rückrufversuch, Polizei, Geräte- und Kommunikationsbelege sowie Fristen. Isoliere angegriffene Entscheidung und Rechtsschutzziel, sichere Statthaftigkeit, Beschwer, Zuständigkeit, Frist, Form und Beteiligte und formuliere aus Tatsachen, Beweisen und stärkster Gegenposition einen bestimmten Antrag mit Einreichungsweg.
+Bearbeitungsauftrag: Bearbeite BaFin-Beschwerde gegen Bank als konkreten Vorgang im Gebiet Phishing und nicht autorisierte Zahlungsvorgänge. Isoliere angegriffene Entscheidung und Rechtsschutzziel, sichere Statthaftigkeit, Beschwer, Zuständigkeit, Frist, Form und Beteiligte und formuliere aus Tatsachen, Beweisen und stärkster Gegenposition einen bestimmten Antrag mit Einreichungsweg.
 Lieferstück: frist- und formgerechter Entwurf mit Antrag, tragenden Tatsachen, Beweisangeboten, Anlagen und Einreichungsweg.
 
-### 16.4. Phish: Banking-Trojaner Haftung
+### 16.4. Phishing + Arbeitnehmerhaftung
 
-Bearbeitungsauftrag: Bearbeite Phish: Banking-Trojaner Haftung entlang der Phishing und nicht autorisierte Zahlungsvorgänge-Prüflinie: Sofortsicherung: Konto und Zugänge sperren, Bankanzeige, Rückrufversuch, Polizei, Geräte- und Kommunikationsbelege sowie Fristen. Zerlege Anspruchsgrund, Pflichtenkreis, Pflichtverletzung, Zurechnung, Kausalität und Schaden; ordne Einwendungen, Mitverantwortung, Verjährung, Beweislast, Versicherung und jede bezifferte Rechtsfolge den konkreten Aktenbelegen zu.
+Bearbeitungsauftrag: Bearbeite Phishing + Arbeitnehmerhaftung als konkreten Vorgang im Gebiet Phishing und nicht autorisierte Zahlungsvorgänge. Zerlege Anspruchsgrund, Pflichtenkreis, Pflichtverletzung, Zurechnung, Kausalität und Schaden; ordne Einwendungen, Mitverantwortung, Verjährung, Beweislast, Versicherung und jede bezifferte Rechtsfolge den konkreten Aktenbelegen zu.
 Lieferstück: gewichtete Prüfmatrix mit Tatbestandsmerkmalen, Fundstellen, Gegenposition, Beweislast, Risiko und Empfehlung.
 
-### 16.5. Phishing + Arbeitnehmerhaftung
-
-Bearbeitungsauftrag: Bearbeite Phishing + Arbeitnehmerhaftung entlang der Phishing und nicht autorisierte Zahlungsvorgänge-Prüflinie: Sofortsicherung: Konto und Zugänge sperren, Bankanzeige, Rückrufversuch, Polizei, Geräte- und Kommunikationsbelege sowie Fristen. Zerlege Anspruchsgrund, Pflichtenkreis, Pflichtverletzung, Zurechnung, Kausalität und Schaden; ordne Einwendungen, Mitverantwortung, Verjährung, Beweislast, Versicherung und jede bezifferte Rechtsfolge den konkreten Aktenbelegen zu.
-Lieferstück: gewichtete Prüfmatrix mit Tatbestandsmerkmalen, Fundstellen, Gegenposition, Beweislast, Risiko und Empfehlung.
-
-### 16.6. Cyberversicherung prüfen
-
-Bearbeitungsauftrag: Bearbeite Cyberversicherung prüfen entlang der Phishing und nicht autorisierte Zahlungsvorgänge-Prüflinie: Anspruch und Gegenanspruch: Erstattung nach BGB Paragraf 675u, Anzeigeobliegenheit, Autorisierung, grobe Fahrlässigkeit, starke.
-Lieferstück: Fachvotum zu Cyberversicherung prüfen mit Tatbestandsmerkmalen, Aktenfundstellen, Beweislast, stärkster Gegenposition, Risiko und ausformulierter Rechtsfolge.
-
-### 16.7. beA-Notfall bei Anwalts-PC
-
-Bearbeitungsauftrag: Bearbeite beA-Notfall bei Anwalts-PC entlang der Phishing und nicht autorisierte Zahlungsvorgänge-Prüflinie: Sofortsicherung: Konto und Zugänge sperren, Bankanzeige, Rückrufversuch, Polizei, Geräte- und Kommunikationsbelege sowie Fristen.
-Lieferstück: Fachvotum zu beA-Notfall bei Anwalts-PC mit Tatbestandsmerkmalen, Aktenfundstellen, Beweislast, stärkster Gegenposition, Risiko und ausformulierter Rechtsfolge.
-
-### 16.8. TAN-Verfahren und Haftung
-
-Bearbeitungsauftrag: Bearbeite TAN-Verfahren und Haftung entlang der Phishing und nicht autorisierte Zahlungsvorgänge-Prüflinie: Sofortsicherung: Konto und Zugänge sperren, Bankanzeige, Rückrufversuch, Polizei, Geräte- und Kommunikationsbelege sowie Fristen. Zerlege Anspruchsgrund, Pflichtenkreis, Pflichtverletzung, Zurechnung, Kausalität und Schaden; ordne Einwendungen, Mitverantwortung, Verjährung, Beweislast, Versicherung und jede bezifferte Rechtsfolge den konkreten Aktenbelegen zu.
-Lieferstück: gewichtete Prüfmatrix mit Tatbestandsmerkmalen, Fundstellen, Gegenposition, Beweislast, Risiko und Empfehlung.
-
-### 16.9. Phish: CEO-Fraud Konzern
+### 16.5. Phish: CEO-Fraud Konzern
 
 Bearbeitungsauftrag: Bearbeite Phish: CEO-Fraud Konzern entlang der Phishing und nicht autorisierte Zahlungsvorgänge-Prüflinie: Sofortsicherung: Konto und Zugänge sperren, Bankanzeige, Rückrufversuch, Polizei, Geräte- und Kommunikationsbelege sowie Fristen dokumentieren.
 Lieferstück: Fachvotum zu Phish: CEO-Fraud Konzern mit Tatbestandsmerkmalen, Aktenfundstellen, Beweislast, stärkster Gegenposition, Risiko und ausformulierter Rechtsfolge.
 
-### 16.10. Zivilklage gegen Bank
+### 16.6. beA-Notfall bei Anwalts-PC
+
+Bearbeitungsauftrag: Bearbeite beA-Notfall bei Anwalts-PC als konkreten Vorgang im Gebiet Phishing und nicht autorisierte Zahlungsvorgänge.
+Lieferstück: Fachvotum zu beA-Notfall bei Anwalts-PC mit Tatbestandsmerkmalen, Aktenfundstellen, Beweislast, stärkster Gegenposition, Risiko und ausformulierter Rechtsfolge.
+
+### 16.7. Cyberversicherung prüfen
+
+Bearbeitungsauftrag: Bearbeite Cyberversicherung prüfen als konkreten Vorgang im Gebiet Phishing und nicht autorisierte Zahlungsvorgänge.
+Lieferstück: Fachvotum zu Cyberversicherung prüfen mit Tatbestandsmerkmalen, Aktenfundstellen, Beweislast, stärkster Gegenposition, Risiko und ausformulierter Rechtsfolge.
+
+### 16.8. Zivilklage gegen Bank
 
 Bearbeitungsauftrag: Bearbeite Zivilklage gegen Bank entlang der Phishing und nicht autorisierte Zahlungsvorgänge-Prüflinie: Sofortsicherung: Konto und Zugänge sperren, Bankanzeige, Rückrufversuch, Polizei, Geräte- und Kommunikationsbelege sowie Fristen dokumentieren. Isoliere angegriffene Entscheidung und Rechtsschutzziel, sichere Statthaftigkeit, Beschwer, Zuständigkeit, Frist, Form und Beteiligte und formuliere aus Tatsachen, Beweisen und stärkster Gegenposition einen bestimmten Antrag mit Einreichungsweg.
 Lieferstück: frist- und formgerechter Entwurf mit Antrag, tragenden Tatsachen, Beweisangeboten, Anlagen und Einreichungsweg.
 
-### 16.11. Paragraf 675u BGB Prüfraster
-
-Bearbeitungsauftrag: Bearbeite Paragraf 675u BGB Prüfraster entlang der Phishing und nicht autorisierte Zahlungsvorgänge-Prüflinie: Anspruch und Gegenanspruch: Erstattung nach BGB Paragraf 675u, Anzeigeobliegenheit, Autorisierung, grobe Fahrlässigkeit, starke.
-Lieferstück: Fachvotum zu Paragraf 675u BGB Prüfraster mit Tatbestandsmerkmalen, Aktenfundstellen, Beweislast, stärkster Gegenposition, Risiko und ausformulierter Rechtsfolge.
-
-### 16.12. Phish: Incident-Triage
+### 16.9. Phish: Incident-Triage
 
 Bearbeitungsauftrag: Bearbeite Phish: Incident-Triage entlang der Phishing und nicht autorisierte Zahlungsvorgänge-Prüflinie: Sofortsicherung: Konto und Zugänge sperren, Bankanzeige, Rückrufversuch, Polizei, Geräte- und Kommunikationsbelege sowie Fristen dokumentieren.
 Lieferstück: Fachvotum zu Phish: Incident-Triage mit Tatbestandsmerkmalen, Aktenfundstellen, Beweislast, stärkster Gegenposition, Risiko und ausformulierter Rechtsfolge.
+
+### 16.10. Anschreiben an die Bank
+
+Bearbeitungsauftrag: Bearbeite Anschreiben an die Bank entlang der Phishing und nicht autorisierte Zahlungsvorgänge-Prüflinie: Sofortsicherung: Konto und Zugänge sperren, Bankanzeige, Rückrufversuch, Polizei, Geräte- und Kommunikationsbelege sowie Fristen dokumentieren.
+Lieferstück: versandfertiges Schreiben mit Betreff, Sachverhaltskern, Rechtsgrund, konkretem Begehren, Frist und Anlagenverzeichnis.
+
+### 16.11. Banking-App-Malware-Fälle
+
+Bearbeitungsauftrag: Bearbeite Banking-App-Malware-Fälle entlang der Phishing und nicht autorisierte Zahlungsvorgänge-Prüflinie: Sofortsicherung: Konto und Zugänge sperren, Bankanzeige, Rückrufversuch, Polizei, Geräte- und Kommunikationsbelege sowie Fristen dokumentieren.
+Lieferstück: Fachvotum zu Banking-App-Malware-Fälle mit Tatbestandsmerkmalen, Aktenfundstellen, Beweislast, stärkster Gegenposition, Risiko und ausformulierter Rechtsfolge.
+
+### 16.12. Phish: Meldepflichten
+
+Bearbeitungsauftrag: Bearbeite Phish: Meldepflichten entlang der Phishing und nicht autorisierte Zahlungsvorgänge-Prüflinie: Sofortsicherung: Konto und Zugänge sperren, Bankanzeige, Rückrufversuch, Polizei, Geräte- und Kommunikationsbelege sowie Fristen dokumentieren.
+Lieferstück: Fachvotum zu Phish: Meldepflichten mit Tatbestandsmerkmalen, Aktenfundstellen, Beweislast, stärkster Gegenposition, Risiko und ausformulierter Rechtsfolge.

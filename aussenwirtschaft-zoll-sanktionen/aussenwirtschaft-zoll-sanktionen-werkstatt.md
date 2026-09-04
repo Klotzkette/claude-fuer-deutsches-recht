@@ -176,13 +176,13 @@ Die Landkarte dient der schnellen Auswahl. Sie ersetzt nicht die darunter ausfor
 | --- | --- | --- |
 | Asset Freeze Sofortmaßnahmen | Bereitstellungsverbot Artikel 2 Absatz 2 — auch keine mittelbare Zurverfügungstellung. | Fachvotum zu Asset Freeze Sofortmaßnahmen mit Tatbestandsmerkmalen, Aktenfundstellen, Beweislast, stärkster Gegenposition, Risiko und ausformulierter Rechtsfolge |
 | BAFA-Nullbescheid: Verbindliche Feststellung der Genehmigungsfreiheit | Nullbescheid-Antrag an BAFA stellen (formloser Antrag mit vollständiger Sachverhaltsdarstellung). Positive Entscheidung (Nullbescheid) archivieren; für nachfolgende Ausfuhren als Beleg nutzen. | Fachvotum zu BAFA-Nullbescheid: Verbindliche Feststellung der Genehmigungsfreiheit mit Tatbestandsmerkmalen, Aktenfundstellen, Beweislast, stärkster Gegenposition, Risiko. |
-| Audit-Trail: Revisionssichere Freigabedokumentation im Außenhandel | Aufbau und Pflege revisionssicherer Audit-Trails für Exportkontroll-Freigaben: Dokumentationsstandards nach AWG Paragraf 14 und AWV Paragraf 24 (Aufbewahrungsfristen) sowie Anforderungen der EU-Dual-Use-VO Artikel 20. | Akten- und Belegmatrix zu Audit-Trail: Revisionssichere Freigabedokumentation im Außenhandel mit Datum, Urheber, Fundstelle, Widerspruch, Fehlteil und nächstem Bearbeitungsschritt |
-| Antidumping-Erstattung und Review: Margenkorrektur und Rückforderung | Erstattung zu viel gezahlter Antidumping-Zölle und Auslosung von Revisionsverfahren nach Artikel 11 VO (EU) 2016/1036: Rückerstattungsantrag (Artikel 11 Absatz 8), Interim-Review und Sunset-Review. | Fachvotum zu Antidumping-Erstattung und Review: Margenkorrektur und Rückforderung mit Tatbestandsmerkmalen, Aktenfundstellen, Beweislast, stärkster Gegenposition, Risiko. |
-| AWV Beteiligungsmeldungen | Welche Dokumente liegen vor: Rechnung, Bestellung, technische Beschreibung, HS-/KN-Code, TARIC-Auszug, Sanktionsscreening, Endverbleibserklärung, Vertrag, E-Mail, ATLAS-/BAFA-/Zollbescheid? | vollständige Einreichungs- oder Registervorlage mit Zuständigkeit, Pflichtfeldern, Nachweisen, Freigabe und Vollzugskontrolle |
-| Dual-Use-Ausfuhrkontrolle: Klassifizierung und Genehmigungspfad | Dual-Use-Prüfung für Güter, Software und Technologie nach VO (EU) 2021/821 Anhang I und AWG Paragrafen 8 und folgende : Güterklassifizierung, Genehmigungspflicht, Catch-All nach Artikel 4, Technologietransfer. | Kontrollvermerk zu Dual-Use-Ausfuhrkontrolle: Klassifizierung und Genehmigungspfad mit Pflicht, Ist-Nachweis, Abweichung, Risiko, Verantwortlichem, Frist und Freigabe |
-| Lieferkettensorgfaltspflichten im Außenhandel: LkSG und CSDDD | Elektronikhersteller importiert Rohstoffe aus Kongo (Mineralien); Konfliktmineralien und LkSG-Pflichten. LkSG-Pflichtenzeitplan prüfen: Ab wann anwendbar (Mitarbeiterzahl) für das Unternehmen? | Fachvotum zu Lieferkettensorgfaltspflichten im Außenhandel: LkSG und CSDDD mit Tatbestandsmerkmalen, Aktenfundstellen, Beweislast, stärkster Gegenposition, Risiko. |
-| Zollschuldentstehung und Haftung: Schuldner Nacherhebung und Erlass | Trenne die reguläre Einfuhrzollschuld nach UZK Artikel 77 von der Zollschuld wegen Pflichtverletzung nach UZK Artikel 79. | gewichtete Prüfmatrix mit Tatbestandsmerkmalen, Fundstellen, Gegenposition, Beweislast, Risiko und Empfehlung |
-| ATLAS-Einfuhr-Abgabenbescheid: Prüfen und anfechten | Abgabenbescheid vollständig lesen; Zollwert, KN-Code, angewendeter Zollsatz, Abgabenhöhe protokollieren. Zollwertberechnung nach Transaktionswert (Artikel 70 UZK) oder Methoden-Kaskade prüfen. | Fachvotum zu ATLAS-Einfuhr-Abgabenbescheid: Prüfen und anfechten mit Tatbestandsmerkmalen, Aktenfundstellen, Beweislast, stärkster Gegenposition, Risiko und ausformulierter. |
+| AWV-Beteiligungsmeldungen: Direktinvestitionen und Bundesbank-Meldepflicht | Bearbeite AWV-Beteiligungsmeldungen: Direktinvestitionen und Bundesbank-Meldepflicht als konkreten Vorgang im Gebiet Transport-, See- und Außenhandelsrecht. | vollständige Einreichungs- oder Registervorlage mit Zuständigkeit, Pflichtfeldern, Nachweisen, Freigabe und Vollzugskontrolle |
+| Incoterms und Exportkontrolle: Verantwortung und Haftungslücken | Bearbeite Incoterms und Exportkontrolle: Verantwortung und Haftungslücken entlang der Transport-, See- und Außenhandelsrecht-Prüflinie: Transport- und Vertragskette: Absender, Frachtführer, Unterfrachtführer, Empfänger. | gewichtete Prüfmatrix mit Tatbestandsmerkmalen, Fundstellen, Gegenposition, Beweislast, Risiko und Empfehlung |
+| Legal Hold und Datenextraktion bei Außenwirtschafts-Ermittlungen | Bearbeite Legal Hold und Datenextraktion bei Außenwirtschafts-Ermittlungen entlang der Transport-, See- und Außenhandelsrecht-Prüflinie: Transport- und Vertragskette: Absender, Frachtführer, Unterfrachtführer, Empfänger. | Fachvotum zu Legal Hold und Datenextraktion bei Außenwirtschafts-Ermittlungen mit Tatbestandsmerkmalen, Aktenfundstellen, Beweislast, stärkster Gegenposition, Risiko. |
+| Nichtpräferenzieller Ursprung und Made-in-Bezeichnung: Berechnung und Nachweis | Bearbeite Nichtpräferenzieller Ursprung und Made-in-Bezeichnung: Berechnung und Nachweis als konkreten Vorgang im Gebiet Transport-, See- und Außenhandelsrecht. | nachrechenbare Berechnung mit Eingabewerten, Zwischenschritten, Varianten, Stichtag und Belegspalte |
+| Passive Veredelung: Bewilligung, Warenidentität und Zollwertberechnung | Bearbeite Passive Veredelung: Bewilligung, Warenidentität und Zollwertberechnung als konkreten Vorgang im Gebiet Transport-, See- und Außenhandelsrecht. | nachrechenbare Berechnung mit Eingabewerten, Zwischenschritten, Varianten, Stichtag und Belegspalte |
+| Sammelgenehmigungen und AGG für Dual-Use-Exporte: Beantragung und Nutzung | Bearbeite Sammelgenehmigungen und AGG für Dual-Use-Exporte: Beantragung und Nutzung als konkreten Vorgang im Gebiet Transport-, See- und Außenhandelsrecht. | frist- und formgerechter Entwurf mit Antrag, tragenden Tatsachen, Beweisangeboten, Anlagen und Einreichungsweg |
+| Exportkontrolle für Verschlüsselungssoftware: Kryptografie und Dual-Use-Kategorie 5 | Bearbeite Exportkontrolle für Verschlüsselungssoftware: Kryptografie und Dual-Use-Kategorie 5: exportkontrolle für Verschlüsselungssoftware: Kryptografie und Dual-Use-Kategorie. | Kontrollvermerk zu Exportkontrolle für Verschlüsselungssoftware: Kryptografie und Dual-Use-Kategorie 5 mit Pflicht, Ist-Nachweis, Abweichung, Risiko, Verantwortlichem, Frist. |
 
 ## 16. Fachspezifische Praxisrouten
 
@@ -191,70 +191,61 @@ Diese Routen stammen aus den konkreten Arbeitsthemen dieses Plugins. Wähle die 
 ### 16.1. Asset Freeze Sofortmaßnahmen
 
 Bearbeitungsauftrag: Bereitstellungsverbot Artikel 2 Absatz 2 — auch keine mittelbare Zurverfügungstellung. Meldepflichten: Paragraf 23 Absatz 2 AWG iVm Paragraf 19 AWV — Anzeige an Deutsche Bundesbank (Servicezentrum Finanzsanktionen, GS Sanctions Reporting) unverzüglich; bei finanzieller Sphäre auch BaFin/FIU informieren, falls AML-Trigger. Eigentumstest 50 %+: Eigentum oder Kontrolle einer gelisteten Person — Best-Practice EU-Leitlinien (Anti-Circumvention Guidance) und Empfehlungen der EU-Kommission.
-Norm- oder Entscheidungsbezug aus dem Fachmaterial: I VO 269/2014 für RU oder VO 753/2011 für Afghanistan, KP-VO 1509/2020: Sofortige Einfrierung aller Gelder/wirtschaftlicher Ressourcen (Artikel 2 Absatz 1 VO 269/2014 oder entsprechende).
+Prüfschritte: I VO 269/2014 für RU oder VO 753/2011 für Afghanistan, KP-VO 1509/2020: Sofortige Einfrierung aller Gelder/wirtschaftlicher Ressourcen (Artikel 2 Absatz 1 VO 269/2014 oder entsprechende); Mehrstufige Beteiligungsketten und faktische Kontrolle.
+Normbezug aus dem Fachmaterial: I VO 269/2014 für RU oder VO 753/2011 für Afghanistan, KP-VO 1509/2020: Sofortige Einfrierung aller Gelder/wirtschaftlicher Ressourcen (Artikel 2 Absatz 1 VO 269/2014 oder entsprechende).
 Lieferstück: Fachvotum zu Asset Freeze Sofortmaßnahmen mit Tatbestandsmerkmalen, Aktenfundstellen, Beweislast, stärkster Gegenposition, Risiko und ausformulierter Rechtsfolge.
 
 ### 16.2. BAFA-Nullbescheid: Verbindliche Feststellung der Genehmigungsfreiheit
 
 Bearbeitungsauftrag: Nullbescheid-Antrag an BAFA stellen (formloser Antrag mit vollständiger Sachverhaltsdarstellung). Positive Entscheidung (Nullbescheid) archivieren; für nachfolgende Ausfuhren als Beleg nutzen. Änderungen in Warenbeschreibung oder Verwendungszweck können Nullbescheid ungültig machen.
-Prüfschritte: Exporteur ist unsicher ob Maschine mit bestimmten Parametern unter Dual-Use-Güterliste fällt; Unternehmen möchte sichere Dokumentationsbasis vor Export in Dual-Use-Grauzone; Zollagent benötigt Beleg für ATLAS, dass Ware nicht genehmigungspflichtig ist.
 Lieferstück: Fachvotum zu BAFA-Nullbescheid: Verbindliche Feststellung der Genehmigungsfreiheit mit Tatbestandsmerkmalen, Aktenfundstellen, Beweislast, stärkster Gegenposition, Risiko und ausformulierter Rechtsfolge.
 
-### 16.3. Audit-Trail: Revisionssichere Freigabedokumentation im Außenhandel
+### 16.3. AWV-Beteiligungsmeldungen: Direktinvestitionen und Bundesbank-Meldepflicht
 
-Bearbeitungsauftrag: Aufbau und Pflege revisionssicherer Audit-Trails für Exportkontroll-Freigaben: Dokumentationsstandards nach AWG Paragraf 14 und AWV Paragraf 24 (Aufbewahrungsfristen) sowie Anforderungen der EU-Dual-Use-VO Artikel 20. Output: Audit-Trail-Struktur und Dokumentationsrichtlinie. BAFA prüft Exporteur nach wiederholten Genehmigungsanträgen; Auditoren verlangen vollständigen Freigabe-Trail.
-Norm- oder Entscheidungsbezug aus dem Fachmaterial: Aufbau und Pflege revisionssicherer Audit-Trails für Exportkontroll-Freigaben: Dokumentationsstandards nach AWG Paragraf 14 und AWV Paragraf 24 (Aufbewahrungsfristen) sowie Anforderungen der EU-Dual-Use-VO Artikel 20.
-Lieferstück: Akten- und Belegmatrix zu Audit-Trail: Revisionssichere Freigabedokumentation im Außenhandel mit Datum, Urheber, Fundstelle, Widerspruch, Fehlteil und nächstem Bearbeitungsschritt.
-
-### 16.4. Antidumping-Erstattung und Review: Margenkorrektur und Rückforderung
-
-Bearbeitungsauftrag: Erstattung zu viel gezahlter Antidumping-Zölle und Auslosung von Revisionsverfahren nach Artikel 11 VO (EU) 2016/1036: Rückerstattungsantrag (Artikel 11 Absatz 8), Interim-Review und Sunset-Review. Fallkonstellation: Importeur hat überhohten Antidumping-Zoll gezahlt und möchte Erstattung oder Margenkorrektur. Maßnahme gegen bestimmten Warenwert läuft in 12 Monaten aus; Frage nach Sunset-Review und Auswirkungen.
-Norm- oder Entscheidungsbezug aus dem Fachmaterial: Erstattung zu viel gezahlter Antidumping-Zölle und Auslosung von Revisionsverfahren nach Artikel 11 VO (EU) 2016/1036: Rückerstattungsantrag (Artikel 11 Absatz 8), Interim-Review und Sunset-Review.
-Lieferstück: Fachvotum zu Antidumping-Erstattung und Review: Margenkorrektur und Rückforderung mit Tatbestandsmerkmalen, Aktenfundstellen, Beweislast, stärkster Gegenposition, Risiko und ausformulierter Rechtsfolge.
-
-### 16.5. AWV Beteiligungsmeldungen
-
-Bearbeitungsauftrag: Welche Dokumente liegen vor: Rechnung, Bestellung, technische Beschreibung, HS-/KN-Code, TARIC-Auszug, Sanktionsscreening, Endverbleibserklärung, Vertrag, E-Mail, ATLAS-/BAFA-/Zollbescheid? Was eilt: Lieferung, Zollabfertigung, Zahlung, Closing, Behördenfrist, Ermittlungsdruck oder interne Freigabe? Sachverhalt einfrieren: Beteiligte, Güter, Werte, Länder, Transportweg, Zahlungsweg und Zeitpunkt tabellarisch erfassen.
-Prüfschritte: Wer fragt: Exporteur, Importeur, Spediteur, Bank, Konzernmutter, Forschungseinrichtung, Erwerber, Lieferant oder Berater; Welche Ware, Software, Technologie, Dienstleistung, Zahlung, Beteiligung oder Vertragsbeziehung ist betroffen; Welche Länder, Parteien, Eigentums- und Kontrollverhältnisse, Endverwender und Zwischenhändler sind sichtbar.
+Bearbeitungsauftrag: Bearbeite AWV-Beteiligungsmeldungen: Direktinvestitionen und Bundesbank-Meldepflicht als konkreten Vorgang im Gebiet Transport-, See- und Außenhandelsrecht. Bestimme zuständige Stelle, Pflichtigen, Auslöser, Frist und Pflichtfelder, führe jeden Eintrag auf einen Tatsachenbeleg zurück und liefere freigabefähige Meldung oder Bericht samt Übermittlungsnachweis, Korrekturweg und Anschlusskontrolle.
 Lieferstück: vollständige Einreichungs- oder Registervorlage mit Zuständigkeit, Pflichtfeldern, Nachweisen, Freigabe und Vollzugskontrolle.
 
-### 16.6. Dual-Use-Ausfuhrkontrolle: Klassifizierung und Genehmigungspfad
+### 16.4. Incoterms und Exportkontrolle: Verantwortung und Haftungslücken
 
-Bearbeitungsauftrag: Dual-Use-Prüfung für Güter, Software und Technologie nach VO (EU) 2021/821 Anhang I und AWG Paragrafen 8 und folgende : Güterklassifizierung, Genehmigungspflicht, Catch-All nach Artikel 4, Technologietransfer, BAFA-Genehmigungsantrag über ELAN-K2. Output: Klassifizierungsdossier und Genehmigungspfad. Ware/Software/Technologie technisch vollständig beschreiben (Parameter, Spezifikation, Verwendungszweck).
-Norm- oder Entscheidungsbezug aus dem Fachmaterial: Dual-Use-Prüfung für Güter, Software und Technologie nach VO (EU) 2021/821 Anhang I und AWG Paragrafen 8 und folgende : Güterklassifizierung, Genehmigungspflicht, Catch-All nach Artikel 4, Technologietransfer, BAFA-Genehmigungsantrag über ELAN-K2.
-Lieferstück: Kontrollvermerk zu Dual-Use-Ausfuhrkontrolle: Klassifizierung und Genehmigungspfad mit Pflicht, Ist-Nachweis, Abweichung, Risiko, Verantwortlichem, Frist und Freigabe.
-
-### 16.7. Lieferkettensorgfaltspflichten im Außenhandel: LkSG und CSDDD
-
-Bearbeitungsauftrag: Elektronikhersteller importiert Rohstoffe aus Kongo (Mineralien); Konfliktmineralien und LkSG-Pflichten. LkSG-Pflichtenzeitplan prüfen: Ab wann anwendbar (Mitarbeiterzahl) für das Unternehmen? [ ] LkSG-Anwendbarkeit geprüft (Mitarbeiterzahl, Umsatz)?
-Prüfschritte: Importeur bezieht Textilien aus Bangladesch; LkSG-Risikoanalyse und Maßnahmenplan erforderlich; CSDDD-Umsetzung erfordert Due Diligence für gesamte Lieferkette inkl.
-Lieferstück: Fachvotum zu Lieferkettensorgfaltspflichten im Außenhandel: LkSG und CSDDD mit Tatbestandsmerkmalen, Aktenfundstellen, Beweislast, stärkster Gegenposition, Risiko und ausformulierter Rechtsfolge.
-
-### 16.8. Zollschuldentstehung und Haftung: Schuldner Nacherhebung und Erlass
-
-Bearbeitungsauftrag: Trenne die reguläre Einfuhrzollschuld nach UZK Artikel 77 von der Zollschuld wegen Pflichtverletzung nach UZK Artikel 79. Rekonstruiere Zollanmeldung, Überlassung, besonderes Verfahren, verletzte Pflicht, Tatzeit, Warenwert, Abgabenberechnung und alle als Zollschuldner in Betracht kommenden Personen; ordne Wissen, Beteiligung, Gesamtschuld, Nacherhebung, Erlass oder Erstattung je Person den konkreten Zoll- und Beförderungsunterlagen zu.
+Bearbeitungsauftrag: Bearbeite Incoterms und Exportkontrolle: Verantwortung und Haftungslücken entlang der Transport-, See- und Außenhandelsrecht-Prüflinie: Transport- und Vertragskette: Absender, Frachtführer, Unterfrachtführer, Empfänger und Dokumente feststellen. Zerlege Anspruchsgrund, Pflichtenkreis, Pflichtverletzung, Zurechnung, Kausalität und Schaden; ordne Einwendungen, Mitverantwortung, Verjährung, Beweislast, Versicherung und jede bezifferte Rechtsfolge den konkreten Aktenbelegen zu.
 Lieferstück: gewichtete Prüfmatrix mit Tatbestandsmerkmalen, Fundstellen, Gegenposition, Beweislast, Risiko und Empfehlung.
 
-### 16.9. ATLAS-Einfuhr-Abgabenbescheid: Prüfen und anfechten
+### 16.5. Legal Hold und Datenextraktion bei Außenwirtschafts-Ermittlungen
 
-Bearbeitungsauftrag: Abgabenbescheid vollständig lesen; Zollwert, KN-Code, angewendeter Zollsatz, Abgabenhöhe protokollieren. Zollwertberechnung nach Transaktionswert (Artikel 70 UZK) oder Methoden-Kaskade prüfen. KN-Code gegenüber Warenbeschreibung und allgemeinen Einreihungsvorschriften (AEV) prüfen.
-Prüfschritte: Importeur erhält Nachzollbescheid über abweichenden Zollwert (Lizenzgebühren nicht einbezogen); Zollbescheid wendet Antidumping-Zoll an, obwohl Ursprungszeugnis auf Präferenzursprung verweist; Pharma-Importeur streitet über die Einreihung im Zolltarif.
-Lieferstück: Fachvotum zu ATLAS-Einfuhr-Abgabenbescheid: Prüfen und anfechten mit Tatbestandsmerkmalen, Aktenfundstellen, Beweislast, stärkster Gegenposition, Risiko und ausformulierter Rechtsfolge.
+Bearbeitungsauftrag: Bearbeite Legal Hold und Datenextraktion bei Außenwirtschafts-Ermittlungen entlang der Transport-, See- und Außenhandelsrecht-Prüflinie: Transport- und Vertragskette: Absender, Frachtführer, Unterfrachtführer, Empfänger und Dokumente feststellen.
+Lieferstück: Fachvotum zu Legal Hold und Datenextraktion bei Außenwirtschafts-Ermittlungen mit Tatbestandsmerkmalen, Aktenfundstellen, Beweislast, stärkster Gegenposition, Risiko und ausformulierter Rechtsfolge.
 
-### 16.10. BAFA-Genehmigungsverfahren: Einzel- Sammel- und Globalgenehmigung
+### 16.6. Nichtpräferenzieller Ursprung und Made-in-Bezeichnung: Berechnung und Nachweis
 
-Bearbeitungsauftrag: Exporteur beantragt Einzelgenehmigung für Lieferung von Laseranlagen nach China; Bearbeitung läuft seit 3 Monaten. Genehmigungsart bestimmen: Einzel-, Sammel- oder Globalgenehmigung? Bearbeitungsfristen nach AWG Paragraf 22 Absatz 1 kalkulieren; Untätigkeitsklage bei Fristablauf prüfen.
-Prüfschritte: Unternehmen mit laufenden Lieferbeziehungen in Länder der Partnerliste möchte auf Sammelgenehmigung umstellen; Widerspruchsmöglichkeit und Erfolgschancen prüfen.
-Lieferstück: Fachvotum zu BAFA-Genehmigungsverfahren: Einzel- Sammel- und Globalgenehmigung mit Tatbestandsmerkmalen, Aktenfundstellen, Beweislast, stärkster Gegenposition, Risiko und ausformulierter Rechtsfolge.
+Bearbeitungsauftrag: Bearbeite Nichtpräferenzieller Ursprung und Made-in-Bezeichnung: Berechnung und Nachweis als konkreten Vorgang im Gebiet Transport-, See- und Außenhandelsrecht. Rechne ausschließlich aus belegten Eingabewerten mit Stichtag, Einheit, Zwischenstufen, Rundung und Gegenprobe; führe zu jeder Zahl Quelle, Rechtsgrund, Beweislast, offene Annahme und Auswirkung einer belastbaren Alternativrechnung.
+Lieferstück: nachrechenbare Berechnung mit Eingabewerten, Zwischenschritten, Varianten, Stichtag und Belegspalte.
 
-### 16.11. Präferenzkalkulation und Lieferantenerklärung: Nachweis des Präferenzursprungs
+### 16.7. Passive Veredelung: Bewilligung, Warenidentität und Zollwertberechnung
 
-Bearbeitungsauftrag: Berechnung und Dokumentation des präferenziellen Ursprungs nach UZK Artikel 64 und DA Anhang 22-03: Listenregeln, HS-Wechsel, Wertschwell, vollständige Gewinnung, Kumulierungsmöglichkeiten, Lieferantenerklärung nach VO (EU) 1207/2001 und VO (EU) 2015/2447. Unternehmen hat Zulieferer in mehreren EU-Ländern; bilaterale Kumulierung nach GSP-Regeln. Handelsabkommen mit Bestimmungsland identifizieren (KOREU, CETA, EU-UK, EPA) und Ursprungsprotokoll abrufen.
-Norm- oder Entscheidungsbezug aus dem Fachmaterial: Berechnung und Dokumentation des präferenziellen Ursprungs nach UZK Artikel 64 und DA Anhang 22-03: Listenregeln, HS-Wechsel, Wertschwell, vollständige Gewinnung, Kumulierungsmöglichkeiten, Lieferantenerklärung nach VO (EU) 1207/2001 und VO (EU) 2015/2447.
-Lieferstück: Fachvotum zu Präferenzkalkulation und Lieferantenerklärung: Nachweis des Präferenzursprungs mit Tatbestandsmerkmalen, Aktenfundstellen, Beweislast, stärkster Gegenposition, Risiko und ausformulierter Rechtsfolge.
+Bearbeitungsauftrag: Bearbeite Passive Veredelung: Bewilligung, Warenidentität und Zollwertberechnung als konkreten Vorgang im Gebiet Transport-, See- und Außenhandelsrecht. Rechne ausschließlich aus belegten Eingabewerten mit Stichtag, Einheit, Zwischenstufen, Rundung und Gegenprobe; führe zu jeder Zahl Quelle, Rechtsgrund, Beweislast, offene Annahme und Auswirkung einer belastbaren Alternativrechnung.
+Lieferstück: nachrechenbare Berechnung mit Eingabewerten, Zwischenschritten, Varianten, Stichtag und Belegspalte.
 
-### 16.12. AML/KYC und Sanktionen: Risikobasierte Kundenprüfung und Sanktionsscreening
+### 16.8. Sammelgenehmigungen und AGG für Dual-Use-Exporte: Beantragung und Nutzung
 
-Bearbeitungsauftrag: Identifizierungspflicht auslösen: Ist Geschäftsbeziehung gemäß Paragrafen 10 GwG begründet? UBO-Ermittlung nach Paragraf 3 GwG und Artikel 3 Nummer 6.
-Prüfschritte: Bank erhalt Zahlungsauftrag aus UAE mit unklaren UBO-Angaben; Fragestellung Sanktions-Treffer möglich; Handelsunternehmen onboardet neuen Kunden aus der Tuerkei; interne KYC-Abteilung fordert enhanced due diligence.
-Lieferstück: gewichtete Prüfmatrix mit Tatbestandsmerkmalen, Fundstellen, Gegenposition, Beweislast, Risiko und Empfehlung.
+Bearbeitungsauftrag: Bearbeite Sammelgenehmigungen und AGG für Dual-Use-Exporte: Beantragung und Nutzung als konkreten Vorgang im Gebiet Transport-, See- und Außenhandelsrecht. Bestimme den konkreten Erlaubnis- oder Zulassungstatbestand, Antragsteller, persönliche und sachliche Voraussetzungen, Drittbeteiligung, vollständige Nachweise, Nebenbestimmungen, Bekanntgabe und den passenden Rechtsschutz. Normenanker: AWG und Dual-Use-Verordnung: Genehmigungspflichten und Sanktionslistenprüfung im Außenhandel.
+Lieferstück: frist- und formgerechter Entwurf mit Antrag, tragenden Tatsachen, Beweisangeboten, Anlagen und Einreichungsweg.
+
+### 16.9. Exportkontrolle für Verschlüsselungssoftware: Kryptografie und Dual-Use-Kategorie 5
+
+Bearbeitungsauftrag: Bearbeite Exportkontrolle für Verschlüsselungssoftware: Kryptografie und Dual-Use-Kategorie 5: exportkontrolle für Verschlüsselungssoftware: Kryptografie und Dual-Use-Kategorie. Verbinde den konkreten Aktenfund mit Tatbestandsmerkmal, Gegenposition, Beweislast, Rechtsfolge und dem nächsten vollständig ausformulierten Arbeitsprodukt. Normenanker: AWG und Dual-Use-Verordnung: Genehmigungspflichten und Sanktionslistenprüfung im Außenhandel.
+Lieferstück: Kontrollvermerk zu Exportkontrolle für Verschlüsselungssoftware: Kryptografie und Dual-Use-Kategorie 5 mit Pflicht, Ist-Nachweis, Abweichung, Risiko, Verantwortlichem, Frist und Freigabe.
+
+### 16.10. Zollstrafrecht und Selbstkorrektur: Strafbarkeit Bußgeld und Selbstanzeige
+
+Bearbeitungsauftrag: Bearbeite Zollstrafrecht und Selbstkorrektur: Strafbarkeit Bußgeld und Selbstanzeige als konkreten Vorgang im Gebiet Transport-, See- und Außenhandelsrecht. Bestimme zuständige Stelle, Pflichtigen, Auslöser, Frist und Pflichtfelder, führe jeden Eintrag auf einen Tatsachenbeleg zurück und liefere freigabefähige Meldung oder Bericht samt Übermittlungsnachweis, Korrekturweg und Anschlusskontrolle.
+Lieferstück: vollständige Einreichungs- oder Registervorlage mit Zuständigkeit, Pflichtfeldern, Nachweisen, Freigabe und Vollzugskontrolle.
+
+### 16.11. UK-Sanktionen als Touchpoint: SAMLA und OFSI nach Brexit
+
+Bearbeitungsauftrag: Bearbeite UK-Sanktionen als Touchpoint: SAMLA und OFSI nach Brexit entlang der Transport-, See- und Außenhandelsrecht-Prüflinie: Transport- und Vertragskette: Absender, Frachtführer, Unterfrachtführer, Empfänger und Dokumente feststellen.
+Lieferstück: Fachvotum zu UK-Sanktionen als Touchpoint: SAMLA und OFSI nach Brexit mit Tatbestandsmerkmalen, Aktenfundstellen, Beweislast, stärkster Gegenposition, Risiko und ausformulierter Rechtsfolge.
+
+### 16.12. vZTA-Antrag: Qualitätsgate für verbindliche Zolltarifauskünfte
+
+Bearbeitungsauftrag: Bearbeite vZTA-Antrag: Qualitätsgate für verbindliche Zolltarifauskünfte entlang der Transport-, See- und Außenhandelsrecht-Prüflinie: Transport- und Vertragskette: Absender, Frachtführer, Unterfrachtführer, Empfänger und Dokumente feststellen.
+Lieferstück: frist- und formgerechter Entwurf mit Antrag, tragenden Tatsachen, Beweisangeboten, Anlagen und Einreichungsweg.

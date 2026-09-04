@@ -147,13 +147,6 @@ Arbeitsgriff Arbeitsprodukt: Normenkontrollantrag, Verteidigungsschriftsatz, Hei
 - BVerwG, Urteil vom 01.12.2010 - 9 C 8.09: Nach der damals geltenden Fassung des BauGB war Paragraf 124 die Spezialregelung für Erschließungsverträge; für heutige Verträge sind BauGB Paragraf 11 Absatz 1 Satz 2 Nummer 1 und der nun anders geregelte Paragraf 124 zugrunde zu legen.
 - BVerwG, Urteil vom 25.01.2021 - 9 C 1.19: Der Durchführungsvertrag nach BauGB Paragraf 12 bezieht sich auf die Einzelerschließung und Durchführung eines Vorhabens.
 - BVerwG, Urteil vom 25.06.2014 - 4 CN 4.13: Eine Festsetzung braucht eine passende Rechtsgrundlage im BauGB-Festsetzungskatalog oder in zugelassenem Landesrecht.
-- BVerwG, Beschluss vom 20.06.2017 - 4 BN 30.16: BauGB Paragraf 13a setzt eine echte Maßnahme der Innenentwicklung voraus.
-- BVerwG, Urteil vom 25.06.2020 - 4 CN 5.18: Das beschleunigte Verfahren verlangt eine eigenständige Prüfung der Innenentwicklungsqualität.
-- BVerwG, Urteil vom 25.01.2021 - 9 C 1.19, Fundstelle ECLI:DE:BVerwG:2021:250121U9C1.19.0: Der Durchführungsvertrag nach Paragraf 12 BauGB bezieht sich auf die Einzelerschließung und Durchführung eines Vorhabens im vorhabenbezogenen Bebauungsplan.
-- BVerwG, Beschluss vom 02.05.2018 - 4 BN 7.18, Fundstelle ECLI:DE:BVerwG:2018:020518B4BN7.18.0: Der Vorhaben- und Erschließungsplan muss zusammen mit dem Durchführungsvertrag die Kubatur des Vorhabens im Wesentlichen festlegen.
-- BVerwG, Urteil vom 26.4.2007 – 4 CN 3.06 (Bekanntmachung).
-- BVerwG, Beschluss vom 15.4.1988 – 4 N 4.87 (Anstoßfunktion).
-- BVerwG 17.06.2020, 4 CN 6.18: Anforderungen an die Bekanntmachung von Bebauungsplänen — Anstossfunktion und Fristbeginn Paragraf 47 Abs. 2 VwGO. Quelle: bverwg.de.
 
 ## 9. Prüfraster
 
@@ -228,35 +221,35 @@ Diese Routen stammen aus den konkreten Arbeitsthemen dieses Plugins. Wähle die 
 
 Bearbeitungsauftrag: Dieser Arbeitsgang prüft Erschließungsverträge nach aktuellem BauGB, trennt sie von Folgekostenverträgen und Erschließungsbeiträgen und behandelt den heutigen Paragraf 124 als Erschließungspflicht nach abgelehntem zumutbarem Vertragsangebot. BauGB Paragraf 124: heutige Erschließungspflicht der Gemeinde nach Ablehnung eines zumutbaren Angebots über die Erschließung. VwVfG Paragraf 59: Nichtigkeit öffentlich-rechtlicher Verträge bei Verstoß gegen zwingendes Recht.
 Prüfschritte: Maßgeblichen Vertrags- und Gesetzeszeitpunkt immer zuerst feststellen; BauGB Paragraf 11 Absatz 1 Satz 2 Nummer 1: Vorbereitung oder Durchführung städtebaulicher Maßnahmen einschließlich der Erschließung durch den Vertragspartner auf eigene Kosten; BauGB Paragraf 123: Erschließungslast der Gemeinde; BauGB Paragrafen 127 bis 135: Erschließungsbeiträge als abgabenrechtlicher Vergleichsmaßstab.
-Norm- oder Entscheidungsbezug aus dem Fachmaterial: Prüfe Erschließungsverträge nach BauGB Paragraf 11 Absatz 1 Satz 2 Nummer 1, grenzt die heutige Erschließungspflicht nach Paragraf 124 und das Beitragsrecht ab und liefert eine belastbare Vertrags-, Kosten- und Nichtigkeitsprüfung; Maßgeblichen Vertrags- und Gesetzeszeitpunkt immer zuerst feststellen.
+Normbezug aus dem Fachmaterial: Prüfe Erschließungsverträge nach BauGB Paragraf 11 Absatz 1 Satz 2 Nummer 1, grenzt die heutige Erschließungspflicht nach Paragraf 124 und das Beitragsrecht ab und liefert eine belastbare Vertrags-, Kosten- und Nichtigkeitsprüfung.
 Lieferstück: verhandlungsfähige Fassung mit Ausgangstext, Änderung, Begründung, Rückfallposition und Vollzugscheck.
 
 ### 16.2. Allgemeine Satzungsnormenkontrolle nach Paragraf 47 VwGO
 
 Bearbeitungsauftrag: VwGO Paragraf 47 Absatz 1 Nummer 2; jeweiliges Landesausführungsgesetz; Kommunalrecht. Vor jeder Ausgabe muss das jeweilige Landesrecht geprüft werden, weil Paragraf 47 Absatz 1 Nummer 2 VwGO die Normenkontrolle außerhalb der BauGB-Fälle nur eröffnet, soweit Landesrecht dies bestimmt. Statthaftigkeit: Paragraf 47 Absatz 1 Nummer 1 oder Nummer 2 VwGO, Landesrechtseröffnung, Rang unter Landesgesetz.
 Prüfschritte: Dieser Arbeitsgang löst Paragraf 47 VwGO aus der reinen Bauleitplanung; Er prüft, ob eine im Rang unter dem Landesgesetz stehende Rechtsvorschrift direkt vor dem OVG/VGH überprüft werden kann oder ob nur eine Inzidentkontrolle im Verfahren gegen einen Einzelakt passt.
-Norm- oder Entscheidungsbezug aus dem Fachmaterial: Dieser Arbeitsgang löst Paragraf 47 VwGO aus der reinen Bauleitplanung; Dieser Arbeitsgang löst Paragraf 47 VwGO aus der reinen Bauleitplanung; Er prüft, ob eine im Rang unter dem Landesgesetz stehende Rechtsvorschrift direkt vor dem OVG/VGH überprüft werden kann oder ob nur eine Inzidentkontrolle im Verfahren gegen einen Einzelakt passt.
+Normbezug aus dem Fachmaterial: Dieser Arbeitsgang löst Paragraf 47 VwGO aus der reinen Bauleitplanung; Dieser Arbeitsgang löst Paragraf 47 VwGO aus der reinen Bauleitplanung; Er prüft, ob eine im Rang unter dem Landesgesetz stehende Rechtsvorschrift direkt vor dem OVG/VGH überprüft werden kann oder ob nur eine Inzidentkontrolle im Verfahren gegen einen Einzelakt passt.
 Lieferstück: Kontrollvermerk zu Allgemeine Satzungsnormenkontrolle nach Paragraf 47 VwGO mit Pflicht, Ist-Nachweis, Abweichung, Risiko, Verantwortlichem, Frist und Freigabe.
 
 ### 16.3. Artenschutz und Naturschutz in der Bauleitplanung
 
 Bearbeitungsauftrag: Bearbeite Artenschutz und Naturschutz in der Bauleitplanung: vertragssoll, Nachtrag, Behinderung, Abnahme, Mangel, Kostenfolge, Beweis und Gutachterfrage in eine Bauakte bringen. Verbinde den konkreten Aktenfund mit Tatbestandsmerkmal, Gegenposition, Beweislast, Rechtsfolge und dem nächsten vollständig ausformulierten Arbeitsprodukt.
 Prüfschritte: Bürger oder Naturschutzverband greift Bebauungsplan wegen unzureichender Artenschutzprüfung an; Paragraf 44 BNatSchG Zugriffsverbote Paragraf 45 Absatz 7 BNatSchG Ausnahme; Prüfraster: spezielle artenschutzrechtliche Prüfung (saP) CEF-Maßnahmen Eingriffsregelung Paragraf 1a Absatz 3 BauGB FFH-Verträglichkeit Paragraf 34 BNatSchG; Stadtbezogene Arten Mauersegler Schwalben Fledermäuse; Output: Artenschutz-Prüfprotokoll und Angriffspunkte Normenkontrolle.
-Norm- oder Entscheidungsbezug aus dem Fachmaterial: Paragraf 44 BNatSchG Zugriffsverbote Paragraf 45 Absatz 7 BNatSchG Ausnahme; Bürger oder Naturschutzverband greift Bebauungsplan wegen unzureichender Artenschutzprüfung an; Paragraf 44 BNatSchG Zugriffsverbote Paragraf 45 Absatz 7 BNatSchG Ausnahme.
+Normbezug aus dem Fachmaterial: Paragraf 44 BNatSchG Zugriffsverbote Paragraf 45 Absatz 7 BNatSchG Ausnahme.
 Lieferstück: Fachvotum zu Artenschutz und Naturschutz in der Bauleitplanung mit Tatbestandsmerkmalen, Aktenfundstellen, Beweislast, stärkster Gegenposition, Risiko und ausformulierter Rechtsfolge.
 
 ### 16.4. Benutzungssatzungen kommunaler Einrichtungen
 
 Bearbeitungsauftrag: VwGO Paragraf 47; Kommunalordnungen; Grundrechte; Gebührenrecht. Vor jeder Ausgabe muss das jeweilige Landesrecht geprüft werden, weil Paragraf 47 Absatz 1 Nummer 2 VwGO die Normenkontrolle außerhalb der BauGB-Fälle nur eröffnet, soweit Landesrecht dies bestimmt. Statthaftigkeit: Paragraf 47 Absatz 1 Nummer 1 oder Nummer 2 VwGO, Landesrechtseröffnung, Rang unter Landesgesetz.
 Prüfschritte: Dieser Arbeitsgang löst Paragraf 47 VwGO aus der reinen Bauleitplanung; Er prüft, ob eine im Rang unter dem Landesgesetz stehende Rechtsvorschrift direkt vor dem OVG/VGH überprüft werden kann oder ob nur eine Inzidentkontrolle im Verfahren gegen einen Einzelakt passt.
-Norm- oder Entscheidungsbezug aus dem Fachmaterial: Dieser Arbeitsgang löst Paragraf 47 VwGO aus der reinen Bauleitplanung; Dieser Arbeitsgang löst Paragraf 47 VwGO aus der reinen Bauleitplanung; Er prüft, ob eine im Rang unter dem Landesgesetz stehende Rechtsvorschrift direkt vor dem OVG/VGH überprüft werden kann oder ob nur eine Inzidentkontrolle im Verfahren gegen einen Einzelakt passt.
+Normbezug aus dem Fachmaterial: Dieser Arbeitsgang löst Paragraf 47 VwGO aus der reinen Bauleitplanung; Dieser Arbeitsgang löst Paragraf 47 VwGO aus der reinen Bauleitplanung; Er prüft, ob eine im Rang unter dem Landesgesetz stehende Rechtsvorschrift direkt vor dem OVG/VGH überprüft werden kann oder ob nur eine Inzidentkontrolle im Verfahren gegen einen Einzelakt passt.
 Lieferstück: Fachvotum zu Benutzungssatzungen kommunaler Einrichtungen mit Tatbestandsmerkmalen, Aktenfundstellen, Beweislast, stärkster Gegenposition, Risiko und ausformulierter Rechtsfolge.
 
 ### 16.5. Bestimmtheit und Erforderlichkeit von Festsetzungen
 
 Bearbeitungsauftrag: BauGB Paragraf 1 Absatz 3: Erforderlichkeit der Bauleitplanung. BauGB Paragraf 2 Absatz 3: Ermittlung und Bewertung des Abwägungsmaterials. BauGB Paragraf 214 Absatz 1 und Absatz 3: Beachtlichkeit von Ermittlungs-, Bewertungs- und Abwägungsfehlern.
 Prüfschritte: Dieser Arbeitsgang prüft, ob eine Festsetzung so klar ist, dass Bauaufsicht, Eigentümer und Gericht sie anwenden können, und ob sie städtebaulich erforderlich ist; BauGB Paragraf 1 Absatz 7: Abwägungsgebot; BauGB Paragraf 9: Rechtsgrundlage und Regelungsgrenzen; 4 CN 4.13, Fundstelle ECLI:DE:BVerwG:2014:250614U4CN4.13.0: Die Festsetzung Laubmischwald findet keine tragfähige Grundlage in Paragraf 9 Absatz 1 Nummer 18 Buchstabe b BauGB, wenn sie die zulässige Festsetzungssystematik verlässt.
-Norm- oder Entscheidungsbezug aus dem Fachmaterial: Dieser Arbeitsgang prüft, ob eine Festsetzung so klar ist, dass Bauaufsicht, Eigentümer und Gericht sie anwenden können, und ob sie städtebaulich erforderlich ist; BauGB Paragraf 1 Absatz 3: Erforderlichkeit der Bauleitplanung; BauGB Paragraf 1 Absatz 7: Abwägungsgebot.
+Normbezug aus dem Fachmaterial: Dieser Arbeitsgang prüft, ob eine Festsetzung so klar ist, dass Bauaufsicht, Eigentümer und Gericht sie anwenden können, und ob sie städtebaulich erforderlich ist; BauGB Paragraf 1 Absatz 3: Erforderlichkeit der Bauleitplanung; BauGB Paragraf 1 Absatz 7: Abwägungsgebot.
 Lieferstück: Fachvotum zu Bestimmtheit und Erforderlichkeit von Festsetzungen mit Tatbestandsmerkmalen, Aktenfundstellen, Beweislast, stärkster Gegenposition, Risiko und ausformulierter Rechtsfolge.
 
 ### 16.6. Festsetzungskatalog nach BauGB Paragraf 9 und BauNVO
@@ -268,7 +261,7 @@ Lieferstück: Fachvotum zu Festsetzungskatalog nach BauGB Paragraf 9 und BauNVO 
 ### 16.7. Polizeiverordnungen und Gefahrenabwehrsätze
 
 Bearbeitungsauftrag: Polizeiverordnungen und Gefahrenabwehrsätze: Normadressat, Bestimmtheit, Verhältnismäßigkeit, Ermächtigungsgrundlage und Eilrechtsschutz; Normanker: VwGO Paragraf 47; Polizei-/Ordnungsrecht der Länder; Artikel 2 und 8 und 12 und 14 GG; macht Paragraf 47 VwGO als allgemeines Satzungs- und Rechtsverordnungswerkzeug nutzbar. Dieser Skill löst Paragraf 47 VwGO aus der reinen Bauleitplanung. VwGO Paragraf 47; Polizei-/Ordnungsrecht der Länder; Artikel 2, 8, 12, 14 GG.
-Norm- oder Entscheidungsbezug aus dem Fachmaterial: Polizeiverordnungen und Gefahrenabwehrsätze: Normadressat, Bestimmtheit, Verhältnismäßigkeit, Ermächtigungsgrundlage und Eilrechtsschutz; Normanker: VwGO Paragraf 47; Polizei-/Ordnungsrecht der Länder; Artikel 2 und 8 und 12 und 14 GG.
+Normbezug aus dem Fachmaterial: Polizeiverordnungen und Gefahrenabwehrsätze: Normadressat, Bestimmtheit, Verhältnismäßigkeit, Ermächtigungsgrundlage und Eilrechtsschutz; Normanker: VwGO Paragraf 47; Polizei-/Ordnungsrecht der Länder; Artikel 2 und 8 und 12 und 14 GG.
 Lieferstück: Fachvotum zu Polizeiverordnungen und Gefahrenabwehrsätze mit Tatbestandsmerkmalen, Aktenfundstellen, Beweislast, stärkster Gegenposition, Risiko und ausformulierter Rechtsfolge.
 
 ### 16.8. Beteiligung — frühzeitig und förmlich
@@ -280,7 +273,7 @@ Lieferstück: Fachvotum zu Beteiligung — frühzeitig und förmlich mit Tatbest
 
 Bearbeitungsauftrag: Dieser Arbeitsgang löst Paragraf 47 VwGO aus der reinen Bauleitplanung. Vor jeder Ausgabe muss das jeweilige Landesrecht geprüft werden, weil Paragraf 47 Absatz 1 Nummer 2 VwGO die Normenkontrolle außerhalb der BauGB-Fälle nur eröffnet, soweit Landesrecht dies bestimmt. Statthaftigkeit: Paragraf 47 Absatz 1 Nummer 1 oder Nummer 2 VwGO, Landesrechtseröffnung, Rang unter Landesgesetz.
 Prüfschritte: Er prüft, ob eine im Rang unter dem Landesgesetz stehende Rechtsvorschrift direkt vor dem OVG/VGH überprüft werden kann oder ob nur eine Inzidentkontrolle im Verfahren gegen einen Einzelakt passt; Äquivalenz- und Kostendeckungsprinzip.
-Norm- oder Entscheidungsbezug aus dem Fachmaterial: Dieser Arbeitsgang löst Paragraf 47 VwGO aus der reinen Bauleitplanung.
+Normbezug aus dem Fachmaterial: Dieser Arbeitsgang löst Paragraf 47 VwGO aus der reinen Bauleitplanung.
 Lieferstück: Fachvotum zu Kommunalabgaben- und Beitragssatzungen mit Tatbestandsmerkmalen, Aktenfundstellen, Beweislast, stärkster Gegenposition, Risiko und ausformulierter Rechtsfolge.
 
 ### 16.10. Jahresfrist Paragraf 47 Abs. 2 VwGO
@@ -292,7 +285,7 @@ Lieferstück: Fristenblatt zu Jahresfrist Paragraf 47 Abs. 2 VwGO mit Auslöser,
 ### 16.11. Normenkontrolle oder Inzidentkontrolle
 
 Bearbeitungsauftrag: Er prüft, ob eine im Rang unter dem Landesgesetz stehende Rechtsvorschrift direkt vor dem OVG/VGH überprüft werden kann oder ob nur eine Inzidentkontrolle im Verfahren gegen einen Einzelakt passt. Vor jeder Ausgabe muss das jeweilige Landesrecht geprüft werden, weil Paragraf 47 Absatz 1 Nummer 2 VwGO die Normenkontrolle außerhalb der BauGB-Fälle nur eröffnet, soweit Landesrecht dies bestimmt. Statthaftigkeit: Paragraf 47 Absatz 1 Nummer 1 oder Nummer 2 VwGO, Landesrechtseröffnung, Rang unter Landesgesetz.
-Norm- oder Entscheidungsbezug aus dem Fachmaterial: Dieser Arbeitsgang löst Paragraf 47 VwGO aus der reinen Bauleitplanung.
+Normbezug aus dem Fachmaterial: Dieser Arbeitsgang löst Paragraf 47 VwGO aus der reinen Bauleitplanung.
 Lieferstück: Kontrollvermerk zu Normenkontrolle oder Inzidentkontrolle mit Pflicht, Ist-Nachweis, Abweichung, Risiko, Verantwortlichem, Frist und Freigabe.
 
 ### 16.12. Anpassungsgebot — Flächennutzungsplan

@@ -34,7 +34,7 @@ Ohne verwertbares Material genau eine gebündelte Frage zu Verpflichteter und Pr
 | --- | --- |
 | Normenanker | GwG Paragraf 2; GwG Paragraf 5; GwG Paragraf 10 und Paragraf 11 |
 | Rechtsprechung | EuGH, Urteil vom 26.06.2007 - C-305/05; EuGH, Urteil vom 22.11.2022 - C-37/20 und C-601/20 |
-| Tatbestand | Verpflichtetenrolle, Kunde, wirtschaftlich Berechtigter, Risiko, Mittelherkunft, Verdachtsschwelle und Dokumentation trennen |
+| Tatbestand | Branche, Mandat, Transaktion, Kunde, wirtschaftlich Berechtigter und Risikoland erfassen |
 | Beweislast | Verpflichteter für Risikoanalyse, Identifizierung, wirtschaftlich Berechtigte und Monitoring; Behörde für Verstoß, Verschulden und Sanktion |
 | Rechtsfolge | Risikoanalyse, KYC-Nachforderung, Verdachtsmeldeprüfung, Transparenzregistervermerk, Aufsichtsantwort oder Bußgeldabwehr |
 | Quellenstatus | Aktenfund, Normtext, Profilanker oder sicher belegte Entscheidung offen kennzeichnen; unsichere Aktenzeichen nicht ergänzen |
@@ -43,12 +43,11 @@ Ohne verwertbares Material genau eine gebündelte Frage zu Verpflichteter und Pr
 
 | Feld | Sofortgriff | Ausgabe |
 | --- | --- | --- |
-| Verpflichteter und Produkt | Verpflichtetenrolle, Kunde, wirtschaftlich Berechtigter, Risiko, Mittelherkunft, Verdachtsschwelle und Dokumentation trennen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Risikoanalyse und KYC | Verpflichtetenrolle, Kunde, wirtschaftlich Berechtigter, Risiko, Mittelherkunft, Verdachtsschwelle und Dokumentation trennen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Monitoring und Meldung | Verpflichtetenrolle, Kunde, wirtschaftlich Berechtigter, Risiko, Mittelherkunft, Verdachtsschwelle und Dokumentation trennen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Transparenzregister | Verpflichtetenrolle, Kunde, wirtschaftlich Berechtigter, Risiko, Mittelherkunft, Verdachtsschwelle und Dokumentation trennen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Arbeitsprodukt | Verpflichtetenrolle, Kunde, wirtschaftlich Berechtigter, Risiko, Mittelherkunft, Verdachtsschwelle und Dokumentation trennen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| GwG: Tatbestandsmerkmale, Beweisfragen und Beleglage | Verpflichtetenrolle, Kunde, wirtschaftlich Berechtigter, Risiko, Mittelherkunft, Verdachtsschwelle und Dokumentation trennen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Verpflichteter und Produkt | Branche, Mandat, Transaktion, Kunde, wirtschaftlich Berechtigter und Risikoland erfassen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Risikoanalyse und KYC | Identität, Vertretung, Eigentumskette, PEP, Sanktionen, Zweck und Mittelherkunft prüfen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Monitoring und Meldung | Auffälligkeit, Verdachtsschwelle, Dokumentation, FIU-Weg, Tipping-off und Sperren abgrenzen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Transparenzregister | Wirtschaftlich Berechtigte, Mitteilungen, Unstimmigkeit, Einsicht und Datenschutzgrenzen prüfen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Arbeitsprodukt | KYC-Nachforderung, Risikoentscheidung, Verdachtsmeldevermerk, Aufsichtsschreiben oder Bußgeldabwehr erstellen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
 
 ## 6. Anker
 
@@ -60,6 +59,8 @@ Ohne verwertbares Material genau eine gebündelte Frage zu Verpflichteter und Pr
 - Paragraf 2 GwG (Verpflichtete); im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
 - Paragraf 3 GwG (Wirtschaftlich Berechtigte); im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
 - Paragrafen 5-8 GwG (Risikoanalyse, Risikomanagement, interne Sicherungsmaßnahmen); im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
+- EuGH, Urteil vom 26.06.2007 - C-305/05: Ordre des barreaux begrenzt und bestätigt Geldwäschemeldepflichten im Lichte anwaltlicher Berufsausübung.
+- EuGH, Urteil vom 22.11.2022 - C-37/20 und C-601/20: Öffentlicher Zugriff auf Transparenzregisterdaten wirtschaftlich Berechtigter bedarf strenger Grundrechtsbegrenzung.
 
 ## 7. Antwortform
 

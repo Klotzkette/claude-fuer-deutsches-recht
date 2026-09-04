@@ -98,11 +98,11 @@ Arbeitsgriff Anfechtung und Plan: Rechtshandlung, Kenntnis, Gläubigerbenachteil
 
 | Rechtsprechungsanker | Quellenstatus | Nutzwert im Fall |
 | --- | --- | --- |
+| BGH, Urteil vom 23.01.2025 - IX ZR 229/22 | Profilanker; vor Zitierung am Aktenstand oder an belastbarer Quelle sichern | Streitige nicht titulierte Verbindlichkeiten richten sich nach der objektiven Rechtslage. Ein vorläufig vollstreckbarer Titel ist zum Nennwert zu berücksichtigen, wenn Vollstreckungsvoraussetzungen vorliegen und der Gläubiger die Vollstreckung eingeleitet hat; kein Abschlag nach Prozessrisiko |
 | BGH, Urteil vom 24.05.2005 - IX ZR 123/04 | Profilanker; vor Zitierung am Aktenstand oder an belastbarer Quelle sichern | Eine Liquiditätslücke von zehn Prozent oder mehr spricht regelmäßig für Zahlungsunfähigkeit; eine bloße Zahlungsstockung setzt eine nahezu vollständige Schließung binnen drei Wochen voraus |
 | BGH, Urteil vom 19.12.2017 - II ZR 88/16 | Profilanker; vor Zitierung am Aktenstand oder an belastbarer Quelle sichern | In den Liquiditätsstatus gehören auch die binnen drei Wochen fällig werdenden und eingeforderten Verbindlichkeiten; ein Geschäftsführer darf buchhalterisch ausgewiesene Passiva nicht pauschal bestreiten |
 | BGH, Urteil vom 06.05.2021 - IX ZR 72/20 | Profilanker; vor Zitierung am Aktenstand oder an belastbarer Quelle sichern | Erkannte Zahlungsunfähigkeit allein beweist den Benachteiligungsvorsatz nicht; erforderlich ist die Kenntnis oder Billigung, die übrigen Gläubiger auch künftig nicht vollständig befriedigen zu können |
 | BGH, Urteil vom 10.02.2022 - IX ZR 148/19 | Profilanker; vor Zitierung am Aktenstand oder an belastbarer Quelle sichern | Dauerhaft schleppendes Zahlen belegt keine spätere Zahlungseinstellung, wenn dieses Verhalten schon in einer unstreitig zahlungsfähigen Zeit bestand; die Fortdauervermutung verlangt belastbaren Vortrag |
-| BGH, Urteil vom 12.02.2015 - IX ZR 180/12 | Profilanker; vor Zitierung am Aktenstand oder an belastbarer Quelle sichern | Ein unmittelbarer, gleichwertiger und für die Fortführung nützlicher Leistungsaustausch kann das Vorsatzindiz schwächen; erweiterter Eigentumsvorbehalt oder erkannte verlustreiche Fortführung sprechen dagegen |
 - Rechtsfolge zuerst als Arbeitsprodukt denken: Antrag, Haftungsabwehr, Forderungsanmeldung, Anfechtung, Rangklärung oder Sanierungsschritt
 - Quellenstatus immer sichtbar machen: Aktenfund, Normtext, Profilanker, gesicherte Rechtsprechung oder offene Prüfung.
 
@@ -125,13 +125,11 @@ Arbeitsgriff Anfechtung und Plan: Rechtshandlung, Kenntnis, Gläubigerbenachteil
 
 ## 8. Leitentscheidungen
 
+- BGH, Urteil vom 23.01.2025 - IX ZR 229/22: Streitige nicht titulierte Verbindlichkeiten richten sich nach der objektiven Rechtslage. Ein vorläufig vollstreckbarer Titel ist zum Nennwert zu berücksichtigen, wenn Vollstreckungsvoraussetzungen vorliegen und der Gläubiger die Vollstreckung eingeleitet hat; kein Abschlag nach Prozessrisiko.
 - BGH, Urteil vom 24.05.2005 - IX ZR 123/04: Eine Liquiditätslücke von zehn Prozent oder mehr spricht regelmäßig für Zahlungsunfähigkeit; eine bloße Zahlungsstockung setzt eine nahezu vollständige Schließung binnen drei Wochen voraus.
 - BGH, Urteil vom 19.12.2017 - II ZR 88/16: In den Liquiditätsstatus gehören auch die binnen drei Wochen fällig werdenden und eingeforderten Verbindlichkeiten; ein Geschäftsführer darf buchhalterisch ausgewiesene Passiva nicht pauschal bestreiten.
 - BGH, Urteil vom 06.05.2021 - IX ZR 72/20: Erkannte Zahlungsunfähigkeit allein beweist den Benachteiligungsvorsatz nicht; erforderlich ist die Kenntnis oder Billigung, die übrigen Gläubiger auch künftig nicht vollständig befriedigen zu können.
 - BGH, Urteil vom 10.02.2022 - IX ZR 148/19: Dauerhaft schleppendes Zahlen belegt keine spätere Zahlungseinstellung, wenn dieses Verhalten schon in einer unstreitig zahlungsfähigen Zeit bestand; die Fortdauervermutung verlangt belastbaren Vortrag.
-- BGH, Urteil vom 12.02.2015 - IX ZR 180/12: Ein unmittelbarer, gleichwertiger und für die Fortführung nützlicher Leistungsaustausch kann das Vorsatzindiz schwächen; erweiterter Eigentumsvorbehalt oder erkannte verlustreiche Fortführung sprechen dagegen.
-- BGH IX ZR 114/23 vom 19.12.2024 — Anforderungen an die Individualisierung der Forderung iSd Paragraf 174 Abs. 2 InsO; bei Abtretung müssen Zedent und Zessionar jeweils separat anmelden und einen eigenen Prüfungstermin durchlaufen.
-- BGH IX ZR 127/24 vom 13.11.2025 (Wirecard) — Aktionärs-Schadensersatzforderungen sind in der Insolvenz der AG keine einfachen Insolvenzforderungen iSd Paragraf 38 InsO; Nachrang.
 
 ## 9. Prüfraster
 
@@ -153,7 +151,7 @@ Arbeitsgriff Anfechtung und Plan: Rechtshandlung, Kenntnis, Gläubigerbenachteil
 10.6. Gegenposition: Formuliere den stärksten ernsthaften Angriff; hier setzt die Gegenseite typischerweise bei dem Zeitpunkt der Insolvenzreife, der Kenntnis und der Bargeschäftsausnahme an.
 10.7. Erwiderung: Antworte mit konkretem Gegenbeleg, Auslegung oder Beweislastregel und ziehe die Folge auf Antrag, Haftungsabwehr, Forderungsanmeldung, Anfechtung, Rangklärung oder Sanierungsschritt; ein bloßes Bestreiten genügt nicht.
 10.8. Arbeitsprodukt: Schließe mit Antrag, Tenor, Klausel, Entscheidung oder nächstem Schritt; hier typischerweise Ausgabe entlang der Kernfelder Schuldnerwiderspruch nach Paragraf 184 InsO, Verteilung bei bestrittenen Forderungen, Formalprüfung nach Paragraf 174 InsO, Nachforderung und Mängelschreiben: Kurzvermerk, Prüfmatrix, Entwurf, Fristenblatt oder Fragenliste mit nächstem Schritt.
-10.9. Quellenstatus: Ordne Rechtsprechung nach Tragweite ein; erste Fallanker sind BGH, Urteil vom 24.05.2005 - IX ZR 123/04; BGH, Urteil vom 19.12.2017 - II ZR 88/16.
+10.9. Quellenstatus: Ordne Rechtsprechung nach Tragweite ein; erste Fallanker sind BGH, Urteil vom 23.01.2025 - IX ZR 229/22; BGH, Urteil vom 24.05.2005 - IX ZR 123/04.
 
 ## 11. Outputvarianten und Empfängerwunsch
 
@@ -204,31 +202,30 @@ Diese Routen stammen aus den konkreten Arbeitsthemen dieses Plugins. Wähle die 
 ### 16.1. Schuldnerwiderspruch nach Paragraf 184 InsO
 
 Bearbeitungsauftrag: Schuldnerwiderspruch nach Paragraf 184 InsO prüfen und Fristen einhalten: Anwendungsfall Schuldner widerspricht Forderung und bei titulierten Forderungen läuft Monatsfrist für Aufnahme des Rechtsstreits. Paragraf 184 InsO Schuldnerwiderspruch, Paragraf 179 InsO Feststellungsklage, Paragraf 183 InsO Wirkung bei Schuldnerwiderspruch. Abgrenzung zu Streitige-Forderung-179-180 und zu Prüfungstermin-176.
-Norm- oder Entscheidungsbezug aus dem Fachmaterial: Schuldnerwiderspruch nach Paragraf 184 InsO prüfen und Fristen einhalten: Anwendungsfall Schuldner widerspricht Forderung und bei titulierten Forderungen läuft Monatsfrist für Aufnahme des Rechtsstreits.
+Normbezug aus dem Fachmaterial: Schuldnerwiderspruch nach Paragraf 184 InsO prüfen und Fristen einhalten: Anwendungsfall Schuldner widerspricht Forderung und bei titulierten Forderungen läuft Monatsfrist für Aufnahme des Rechtsstreits.
 Lieferstück: frist- und formgerechter Entwurf mit Antrag, tragenden Tatsachen, Beweisangeboten, Anlagen und Einreichungsweg.
 
 ### 16.2. Verteilung bei bestrittenen Forderungen
 
 Bearbeitungsauftrag: Verteilung bei bestrittenen Forderungen nach Paragraf 189 InsO: Anwendungsfall Insolvenzverwalter bereitet Abschlags- oder Schlussverteilung vor und muss bestrittene Forderungen korrekt zurückbehalten oder ausklammern. Paragraf 189 InsO Berücksichtigung bestrittener Forderungen, Paragraf 196 InsO Schlussverteilung, Paragraf 188 InsO Abschlagsverteilung. Output Verteilungsprotokoll für bestrittene Forderungen mit Rückbehalt-Berechnung.
-Norm- oder Entscheidungsbezug aus dem Fachmaterial: Verteilung bei bestrittenen Forderungen nach Paragraf 189 InsO: Anwendungsfall Insolvenzverwalter bereitet Abschlags- oder Schlussverteilung vor und muss bestrittene Forderungen korrekt zurückbehalten oder ausklammern.
+Normbezug aus dem Fachmaterial: Verteilung bei bestrittenen Forderungen nach Paragraf 189 InsO: Anwendungsfall Insolvenzverwalter bereitet Abschlags- oder Schlussverteilung vor und muss bestrittene Forderungen korrekt zurückbehalten oder ausklammern.
 Lieferstück: Fachvotum zu Verteilung bei bestrittenen Forderungen mit Tatbestandsmerkmalen, Aktenfundstellen, Beweislast, stärkster Gegenposition, Risiko und ausformulierter Rechtsfolge.
 
 ### 16.3. Formalprüfung nach Paragraf 174 InsO
 
 Bearbeitungsauftrag: Formalprüfung Forderungsanmeldung nach Paragraf 174 InsO: Anwendungsfall Insolvenzverwalter oder Prüfungsstelle prüft ob eingegangene Anmeldung Mindestangaben hat und tabellenfähig ist. Paragraf 174 InsO Pflichtinhalt, Paragraf 175 InsO Tabelle, Paragraf 176 InsO Prüfungstermin. Abgrenzung zu Grund-Betrag-Zinsen für inhaltliche Prüfung und zu Intake-Kanalcheck.
-Norm- oder Entscheidungsbezug aus dem Fachmaterial: Formalprüfung Forderungsanmeldung nach Paragraf 174 InsO: Anwendungsfall Insolvenzverwalter oder Prüfungsstelle prüft ob eingegangene Anmeldung Mindestangaben hat und tabellenfähig ist.
 Lieferstück: gewichtete Prüfmatrix mit Tatbestandsmerkmalen, Fundstellen, Gegenposition, Beweislast, Risiko und Empfehlung.
 
 ### 16.4. Nachforderung und Mängelschreiben
 
 Bearbeitungsauftrag: Mängel- und Nachforderungsschreiben bei unvollständigen Insolvenzanmeldungen: Anwendungsfall Forderungsanmeldung nach Paragraf 174 InsO hat Mängel und Insolvenzverwalter muss Gläubiger präzise und freundlich zur Ergänzung auffordern. Paragraf 174 InsO Pflichtangaben, Paragraf 176 InsO Prüfungstermin. Output vollständiges Mängelschreiben mit konkreten Nachforderungen und Reaktionsfrist.
-Norm- oder Entscheidungsbezug aus dem Fachmaterial: Mängel- und Nachforderungsschreiben bei unvollständigen Insolvenzanmeldungen: Anwendungsfall Forderungsanmeldung nach Paragraf 174 InsO hat Mängel und Insolvenzverwalter muss Gläubiger präzise und freundlich zur Ergänzung auffordern.
+Normbezug aus dem Fachmaterial: Mängel- und Nachforderungsschreiben bei unvollständigen Insolvenzanmeldungen: Anwendungsfall Forderungsanmeldung nach Paragraf 174 InsO hat Mängel und Insolvenzverwalter muss Gläubiger präzise und freundlich zur Ergänzung auffordern.
 Lieferstück: versandfertiges Schreiben mit Betreff, Sachverhaltskern, Rechtsgrund, konkretem Begehren, Frist und Anlagenverzeichnis.
 
 ### 16.5. Nachträgliche Anmeldung nach Paragraf 177 InsO
 
 Bearbeitungsauftrag: Verspätete und nachträgliche Forderungsanmeldungen nach Paragraf 177 InsO: Anwendungsfall Gläubiger meldet Forderung nach Ablauf der Anmeldefrist an oder ändert bereits angemeldete Forderung. Paragraf 177 InsO Nachtragsanmeldung, Paragraf 176 InsO Prüfungstermin, Paragraf 5 InsO Sondertermin. Abgrenzung zu Formalprüfung-174 für rechtzeitige Anmeldungen und zu Prüfungstermin-176.
-Norm- oder Entscheidungsbezug aus dem Fachmaterial: Verspätete und nachträgliche Forderungsanmeldungen nach Paragraf 177 InsO: Anwendungsfall Gläubiger meldet Forderung nach Ablauf der Anmeldefrist an oder ändert bereits angemeldete Forderung.
+Normbezug aus dem Fachmaterial: Verspätete und nachträgliche Forderungsanmeldungen nach Paragraf 177 InsO: Anwendungsfall Gläubiger meldet Forderung nach Ablauf der Anmeldefrist an oder ändert bereits angemeldete Forderung.
 Lieferstück: vollständige Einreichungs- oder Registervorlage mit Zuständigkeit, Pflichtfeldern, Nachweisen, Freigabe und Vollzugskontrolle.
 
 ### 16.6. Streitige Forderung und Feststellungsklage
@@ -239,13 +236,13 @@ Lieferstück: frist- und formgerechter Entwurf mit Antrag, tragenden Tatsachen, 
 ### 16.7. Aktenanlage und Batchregister
 
 Bearbeitungsauftrag: Batchregister für Massenverfahren Insolvenzforderungsanmeldung anlegen: Anwendungsfall Insolvenzverwalter oder Prüfungsstelle erhält umfangreichen Stapel Forderungsanmeldungen nach Paragraf 174 InsO und muss strukturiertes Register aufbauen. Paragraf 175 InsO Tabelle, Paragraf 176 InsO Prüfungstermin. Output Batchregister mit Eingangsprotokoll, Statusübersicht und Fristenliste.
-Norm- oder Entscheidungsbezug aus dem Fachmaterial: Batchregister für Massenverfahren Insolvenzforderungsanmeldung anlegen: Anwendungsfall Insolvenzverwalter oder Prüfungsstelle erhält umfangreichen Stapel Forderungsanmeldungen nach Paragraf 174 InsO und muss strukturiertes Register aufbauen.
+Normbezug aus dem Fachmaterial: Batchregister für Massenverfahren Insolvenzforderungsanmeldung anlegen: Anwendungsfall Insolvenzverwalter oder Prüfungsstelle erhält umfangreichen Stapel Forderungsanmeldungen nach Paragraf 174 InsO und muss strukturiertes Register aufbauen.
 Lieferstück: vollständige Einreichungs- oder Registervorlage mit Zuständigkeit, Pflichtfeldern, Nachweisen, Freigabe und Vollzugskontrolle.
 
 ### 16.8. Prüfungstermin vorbereiten
 
 Bearbeitungsauftrag: Prüfungstermin nach Paragraf 176 InsO vorbereiten: Anwendungsfall Prüfungstermin beim Insolvenzgericht naht und Insolvenzverwalter muss Einzelforderungen, Widersprüche und Erörterungspunkte aufbereiten. Paragraf 176 InsO Prüfungstermin, Paragraf 178 InsO Tabelle Feststellung. Abgrenzung zu Prüfentscheidung und zu Streitige-Forderung-179-180.
-Norm- oder Entscheidungsbezug aus dem Fachmaterial: Prüfungstermin nach Paragraf 176 InsO vorbereiten: Anwendungsfall Prüfungstermin beim Insolvenzgericht naht und Insolvenzverwalter muss Einzelforderungen, Widersprüche und Erörterungspunkte aufbereiten; Paragraf 176 InsO Prüfungstermin, Paragraf 178 InsO Tabelle Feststellung.
+Normbezug aus dem Fachmaterial: Prüfungstermin nach Paragraf 176 InsO vorbereiten: Anwendungsfall Prüfungstermin beim Insolvenzgericht naht und Insolvenzverwalter muss Einzelforderungen, Widersprüche und Erörterungspunkte aufbereiten; Paragraf 176 InsO Prüfungstermin, Paragraf 178 InsO Tabelle Feststellung.
 Lieferstück: gewichtete Prüfmatrix mit Tatbestandsmerkmalen, Fundstellen, Gegenposition, Beweislast, Risiko und Empfehlung.
 
 ### 16.9. Qualitätsgate und Plausibilitätskontrolle
@@ -256,13 +253,12 @@ Lieferstück: Kontrollvermerk zu Qualitätsgate und Plausibilitätskontrolle mit
 ### 16.10. Tabellenauszug und Feststellungswirkung
 
 Bearbeitungsauftrag: Tabellenauszug und Feststellungswirkung nach Paragraf 178 InsO: Anwendungsfall Forderung ist festgestellt und Gläubiger fragt nach Status oder Insolvenzverwalter muss Tabellenauszug als vollstreckbaren Titel erstellen. Paragraf 178 InsO Feststellungswirkung, Paragraf 201 InsO Nachhaftung. Output Tabellenauszug mit Feststellungsprotokoll und Vollstreckungshinweis.
-Norm- oder Entscheidungsbezug aus dem Fachmaterial: Tabellenauszug und Feststellungswirkung nach Paragraf 178 InsO: Anwendungsfall Forderung ist festgestellt und Gläubiger fragt nach Status oder Insolvenzverwalter muss Tabellenauszug als vollstreckbaren Titel erstellen.
+Normbezug aus dem Fachmaterial: Tabellenauszug und Feststellungswirkung nach Paragraf 178 InsO: Anwendungsfall Forderung ist festgestellt und Gläubiger fragt nach Status oder Insolvenzverwalter muss Tabellenauszug als vollstreckbaren Titel erstellen.
 Lieferstück: Fachvotum zu Tabellenauszug und Feststellungswirkung mit Tatbestandsmerkmalen, Aktenfundstellen, Beweislast, stärkster Gegenposition, Risiko und ausformulierter Rechtsfolge.
 
 ### 16.11. Tabellenimport nach Paragraf 175 InsO
 
 Bearbeitungsauftrag: Tabelleneintrag und Tabellenimport nach Paragraf 175 InsO: Anwendungsfall Forderungen sind geprüft und müssen in gerichtliche Tabelle überführt werden oder CSV-Import in Verwaltungssoftware vorbereitet werden. Paragraf 175 InsO Tabelle, Paragraf 176 InsO Prüfungstermin, InsO-Table-Standard. Abgrenzung zu Prüfentscheidung und zu Tabellenauszug-178.
-Norm- oder Entscheidungsbezug aus dem Fachmaterial: Tabelleneintrag und Tabellenimport nach Paragraf 175 InsO: Anwendungsfall Forderungen sind geprüft und müssen in gerichtliche Tabelle überführt werden oder CSV-Import in Verwaltungssoftware vorbereitet werden.
 Lieferstück: Fachvotum zu Tabellenimport nach Paragraf 175 InsO mit Tatbestandsmerkmalen, Aktenfundstellen, Beweislast, stärkster Gegenposition, Risiko und ausformulierter Rechtsfolge.
 
 ### 16.12. Grund, Betrag und Zinsen

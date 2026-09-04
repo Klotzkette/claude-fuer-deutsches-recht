@@ -13,7 +13,7 @@ Diese Vollprüfung enthält top-8 von 106 Skills (gekürzt für das Arbeitsfenst
 5. **fachanwalt-arbeitsrecht-orientierung** — Für Fachanwalt für Arbeitsrecht — Orientierung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Ris…
 6. **erstgespraech-mandatsannahme** — Für Erstgespräch Mandatsannahme: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächste…
 7. **erstpruefung-und-mandatsziel** — Für Erstprüfung und Mandatsziel: routet Rolle, Frist, Unterlagen und Fachschritt; Ergebnis: Tatbestands- oder Anspruchsm…
-8. **v392-fachanwaltsblick-fachanwalt-arbeitsrecht** — Schaltet den fachanwaltlichen Arbeitsrechtsblick für Kündigung, Befristung, Vergütung, Arbeitszeit, Betriebsverfassung u…
+8. **fazugang-neu-008-schriftform-kuendigung-original-und-elektronisc** — Prüft Kündigungsschreiben auf Originalunterschrift, Vertretung, Vollmachtsnachweis und Zugang. Trennt Zurückweisung und …
 
 ---
 
@@ -191,7 +191,7 @@ _Für Anwalts-Dashboard Fachanwalt Arbeitsrecht: routet Rolle, Frist, Unterlagen
 | --- | --- | --- |
 | Rolle | Wen vertrete ich? (Mandant · Gegenseite · Mehrere) | Mandantenmail, Vertretungsbestellung |
 | Verfahrensstand | Vorprozessual · außergerichtlich · Klage · Rechtsmittel · Vollstreckung | Vorhandene Schriftsätze, Eingangsstempel |
-| Eilfrist | **Paragraf 4 KSchG: 3 Wochen** ab Zugang Kündigung. Daneben Paragraf 626 II BGB (außerordentlich, 2 Wochen ab Kenntnis), Paragraf 15 IV AGG (2 Monate Geltendmachung), Paragraf 17 KSchG (Massenentlassungsanzeige), Paragraf 9 MuSchG, Paragraf 613a VI BGB (1 Monat Widerspruch). | Frist aus Zugangs-/Kenntnisdatum berechnen |
+| Eilfrist | **Paragraf 4 KSchG: drei Wochen** ab Zugang der Kündigung. Daneben: Erklärungsfrist nach Paragraf 626 Absatz 2 BGB, Geltendmachungsfrist nach Paragraf 15 Absatz 4 AGG, Anzeige vor Massenentlassungen nach Paragraf 17 KSchG, Kündigungsverbot und behördliche Zulässigerklärung nach Paragraf 17 MuSchG sowie einmonatige Widerspruchsfrist nach Paragraf 613a Absatz 6 BGB. | Auslöser, Zugang, Beginn und Ende für jede Frist getrennt berechnen |
 | Hauptanspruch | Kündigungsschutz Paragrafen 1, 4, 7 KSchG · Lohn Paragrafen 611a, 614, 615 BGB (Annahmeverzug) · Schadensersatz Paragrafen 280 I, 823 BGB · AGG-Entschädigung Paragrafen 7, 15 AGG · Betriebsübergang Paragraf 613a BGB. | Sachverhaltsabgleich mit Tatbestandsmerkmalen |
 | Zuständigkeit | Arbeitsgericht am Arbeitsort (Paragraf 48 ArbGG, Paragraf 17 ZPO). Streitwert KSchG-Klage: 1/4 Bruttojahresgehalt (Paragraf 42 II GKG). | Gesetz, Vertrag, Gerichtsstandsklausel |
 
@@ -787,45 +787,77 @@ Falls RSV vorhanden: Deckungsanfrage sofort stellen; RSV-Selbstbehalt klären; R
 
 ---
 
-## Skill: `v392-fachanwaltsblick-fachanwalt-arbeitsrecht`
+## Skill: `fazugang-neu-008-schriftform-kuendigung-original-und-elektronisc`
 
-_Schaltet den fachanwaltlichen Arbeitsrechtsblick für Kündigung, Befristung, Vergütung, Arbeitszeit, Betriebsverfassung und Vertragsgestaltung ein; priorisiert Fristen, Darlegungslast und ein unmittelbar verwendbares Mandats- oder Prozessprodukt._
+_Prüft Kündigungsschreiben auf Originalunterschrift, Vertretung, Vollmachtsnachweis und Zugang. Trennt Zurückweisung und Klagefrist, berücksichtigt elektronische Gerichtsschriftsätze und erstellt Rügeschreiben, Fristenblatt oder Kündigungsschutzantrag._
 
-# Fachanwaltsblick Arbeitsrecht
+# Schriftform, Vollmacht und Zugang einer Kündigung
 
-## 1. Aktenstart
+## 1. Mit dem Kündigungsschreiben anfangen
 
-Werte zuerst Arbeitsvertrag, Nachträge, Abrechnungen, Zeitdaten, Personalakte, Betriebsratsunterlagen und Zustellnachweise aus. Liefere dann eine Fristenampel und den ersten verwertbaren Baustein. Frage nur nach Tatsachen, die Kündigungsschutz, Befristung, Anspruchshöhe, Ausschlussfrist oder Beweisführung ändern.
+Lies zuerst Kündigung, Umschlag, Zustellnachweis, Unterschriftsseite und beigefügte Vollmacht im freigegebenen Ordner. Übernimm belegte Daten in das Fristenblatt. Frage nur nach dem tatsächlich erhaltenen Original und dem Zugangstag, soweit diese Informationen fehlen. Ein Scan beweist nicht, dass ausschließlich ein Scan zugegangen ist.
 
-## 2. Fachanwaltliche Einordnung
+Arbeite je Kündigung getrennt: Erklärender, Unterzeichner, Vertretungsgrund, Übermittlungsweg, Zugang, Kenntnis vom fehlenden Vollmachtsnachweis, Zurückweisung und Klageeingang. Bei mehreren Kündigungen darf eine rechtzeitig angegriffene Erklärung die Prüfung der anderen nicht verdrängen.
 
-2.1. Trenne Individualarbeitsrecht, kollektives Arbeitsrecht und sozialrechtliche Folgefragen. Ordne das Mandat einem Schwerpunkt aus FAO Paragraf 10 zu und benenne Schnittstellen, ohne die Kernprüfung auszulagern.
+## 2. Form und Verfahrensweg unterscheiden
 
-2.2. Bei Beendigung prüfe Zugang, Schriftform, Vertretung, Betriebsratsanhörung, Sonderkündigungsschutz, Kündigungsgrund, Frist und Dreiwochenfrist in dieser Reihenfolge.
+| Erklärung oder Übermittlung | Maßstab | Nächster Prüfschritt |
+| --- | --- | --- |
+| Kündigung oder Aufhebungsvertrag außerhalb des Gerichtsverfahrens | Paragrafen 623 und 126 BGB; elektronische Form ausgeschlossen | Eigenhändig unterschriebenes Original beziehungsweise gesetzlich zugelassene Formersetzung prüfen |
+| Nur E-Mail, Messenger-Nachricht, Fax oder PDF mit Unterschriftsbild | Kein unterschriebenes Original beim Empfänger; auch eine qualifizierte elektronische Signatur ersetzt hier die Schriftform nicht | Zugang einer späteren Originalerklärung gesondert feststellen |
+| Klar erkennbare Kündigung in elektronischem vorbereitendem Gerichtsschriftsatz | Paragraf 46h ArbGG in Verbindung mit Paragraf 46c ArbGG | Ordnungsgemäße Einreichung und Zustellung oder Mitteilung an den Empfänger belegen |
+| Befristungsabrede | Paragraf 14 Absatz 4 TzBfG, nicht Paragraf 623 BGB | Form grundsätzlich auch nach Paragrafen 126 Absatz 3 und 126a BGB prüfbar; bloßes Unterschriftsbild genügt nicht |
+| Vereinbarung über Beendigung mit Erreichen der Regelaltersgrenze | Paragraf 41 Absatz 3 SGB VI in der aktuellen Fassung | Textform-Sonderregel nicht auf beliebige Befristungen oder Kündigungen übertragen |
 
-2.3. Bei Vergütung und Arbeitszeit führe Anspruchszeitraum, vereinbarte Sollzeit, dokumentierte Istzeit, Vergütungsabrede, Ausschlussfristen, Erfüllung und Darlegungslast positionsweise zusammen.
+Paragraf 126 Absatz 1 BGB verlangt eine eigenhändige Namensunterschrift oder ein notariell beglaubigtes Handzeichen. Eine bloße Paraphe ist nicht schon deshalb ausreichend, weil ihr Urheber bekannt ist. Das tatsächliche Schriftbild und die Umstände prüfen; keine Echtheit aus dem Scan behaupten.
 
-2.4. Bei Befristung sichere Vertragsschluss, Unterzeichnung, Beginn, Sachgrund, Vorbeschäftigung und Klagefrist nach TzBfG Paragraf 17 mit konkreten Daten.
+Bei Paragraf 46h ArbGG reicht eine direkte Nachricht an den Gegner nicht. Gerichtseinreichung, erkennbare materiellrechtliche Erklärung und gerichtliche Zustellung oder Mitteilung sind getrennte Voraussetzungen. Die Norm gilt seit dem 17. Juli 2024. Eine formnichtige Erklärung aus früherer Zeit wird dadurch nicht nachträglich wirksam.
 
-2.5. Bei Betriebsverfassungsfragen trenne Zuständigkeit, Beteiligungstatbestand, Zeitpunkt, Unterrichtung, Beschlussfassung und Rechtsfolge eines Fehlers.
+## 3. Vertretung und Vollmachtsnachweis getrennt prüfen
 
-## 3. Rechtsprechungsanker
+### 3.1. Vollmachtsurkunde fehlt
 
-3.1. BVerfG, Beschluss vom 06.06.2018 - 1 BvL 7/14 und 1 BvR 1375/14: Das Vorbeschäftigungsverbot des TzBfG ist verfassungskonform auszulegen; atypische Fälle verlangen eine fallbezogene Prüfung.
+Paragraf 174 BGB betrifft grundsätzlich einen Vertreter mit rechtsgeschäftlicher Vollmacht. Prüfe die Originalurkunde, ihren Umfang und eine vorherige Information durch den Vollmachtgeber nach Satz 2. Eine Kopie oder die bloße Behauptung des Unterzeichners, er dürfe kündigen, ersetzt diesen Nachweis nicht ohne Weiteres.
 
-3.2. BAG Großer Senat, Beschluss vom 27.02.1985 - GS 1/84: Nach einem erstinstanzlich erfolgreichen Kündigungsschutzurteil kann ein allgemeiner Weiterbeschäftigungsanspruch bestehen.
+Organstellung ist von rechtsgeschäftlicher Vollmacht zu unterscheiden. Bei Gesamtvertretung prüfe Satzung, Registerlage und eine Ermächtigung einzelner Organmitglieder; hier kann Paragraf 174 BGB entsprechend eingreifen. Bei Personalleitern ist festzuhalten, ob der Arbeitgeber dem Empfänger die konkrete Person und ihre Funktion bekannt gemacht hat. Bei Prokuristen Registerinhalt und Publizitätswirkung prüfen, nicht allein auf die Berufsbezeichnung vertrauen.
 
-3.3. BAG, Urteil vom 24.08.2023 - 2 AZR 17/23: Bei Äußerungen in einer Chatgruppe hängt die berechtigte Vertraulichkeitserwartung insbesondere von Größe, Zusammensetzung und Inhalt der Gruppe ab.
+### 3.2. Zurückweisung sofort vorbereiten
 
-3.4. BAG, Urteil vom 27.07.2017 - 2 AZR 681/16: Eine anlasslose Keylogger-Überwachung kann zu einem prozessualen Verwertungsverbot führen.
+Erfasse den Zeitpunkt tatsächlicher Kenntnis von Kündigung und fehlender Vollmachtsurkunde. Eine Zurückweisung später als eine Woche ist ohne besondere Umstände regelmäßig nicht mehr unverzüglich. Das ist keine garantierte Wochenfrist: Verzögerungsgründe und Überlegungsbedarf dokumentieren und möglichst umgehend handeln.
 
-## 4. Fertige Arbeitsprodukte
+Erstelle ein absendefertiges Schreiben mit Kündigungsdatum, Zugangstag, Unterzeichner und ausdrücklicher Zurückweisung wegen fehlender Vorlage der Vollmachtsurkunde. Prüfe Ausschlussgründe nach Paragraf 174 Satz 2 und Paragraf 242 BGB. Bei anwaltlicher Zurückweisung auch deren Vollmachtsnachweis sichern; Zugang beim richtigen Empfänger belegen.
 
-Gib je nach Auftrag eine Klageschrift oder Erwiderung mit bestimmten Anträgen, einen Vergleichsvorschlag mit Folgenmatrix, eine Abmahnung mit konkret bezeichnetem Verhalten, eine Betriebsratsvorlage, eine Anspruchsberechnung oder einen Mandantenbrief aus. Jeder tragende Absatz folgt der Kette Rechtsfolge, Norm, konkrete Tatsache, Aktenfund, Beweislast, Gegenargument und Antwort.
+### 3.3. Vertretungsmacht fehlt tatsächlich
 
-## 5. Schlusskontrolle
+Fehlende Vollmacht und fehlender Vollmachtsbeleg sind verschiedene Fehler. Paragraf 180 BGB einschließlich der dort geregelten Ausnahmen gesondert prüfen. Eine mögliche Genehmigung samt Zugang ist nicht mit dem Nachreichen einer Urkunde nach bereits wirksamer Zurückweisung gleichzusetzen.
 
-Prüfe Frist, Form, Zugang, Vertretung, Beteiligung, Darlegungslast, Beweisangebot, Antrag, Annahmeverzugsfolgen, Zeugnis, Arbeitspapiere und Kosten. Unsichere Tatsachen werden als offene Punkte ausgewiesen und nicht ergänzt.
+## 4. Klagefrist nicht durch die Rüge verlieren
+
+Bei schriftlich zugegangener Arbeitgeberkündigung die Dreiwochenfrist nach Paragraf 4 KSchG sichern; bei außerordentlicher Kündigung auch Paragraf 13 KSchG beachten. Eine Zurückweisung nach Paragraf 174 BGB ersetzt die Klage nicht. Die Behauptung, eine Kündigung sei nichtig oder unwirksam, beseitigt die Klagefrist nicht pauschal.
+
+Nur wenn die gesetzliche Schriftform tatsächlich nicht gewahrt ist, greift der auf eine schriftliche Kündigung zugeschnittene Fristbeginn nicht in gleicher Weise. Bei unklarer Unterschrift, streitigem Originalzugang oder zweifelhafter Vertretung vorsorglich vom frühesten ernsthaft in Betracht kommenden Zugang rechnen und fristwahrend vorgehen. Die Sonderregel des Paragraf 4 Satz 4 KSchG bei behördlicher Zustimmung und mögliche spätere Genehmigung einer Vertretererklärung gesondert erfassen.
+
+Eine erneute formgerechte Kündigung wirkt nicht rückwirkend. Für sie Zugang, Klagefrist und Beendigungstermin eigenständig berechnen; die Kündigungsfrist ergibt sich aus Gesetz, Tarifvertrag oder wirksamer Vereinbarung, nicht automatisch aus einem neuen Dreiwochenzeitraum.
+
+## 5. Quellen und begrenzte Rechtsprechungsanker
+
+- [BAG, Urteil vom 7. Mai 2026, 2 AZR 130/25](https://www.bundesarbeitsgericht.de/entscheidung/2-azr-130-25/): Einzelne Mitglieder eines gesamtvertretungsbefugten GmbH-Aufsichtsrats können einen gesonderten Ermächtigungsnachweis benötigen; Organmitgliedschaft allein schließt die entsprechende Anwendung von Paragraf 174 BGB nicht aus. Der Fall betraf ein als Arbeitsverhältnis festgestelltes Anstellungsverhältnis. Die dort unwirksame elektronische Schriftsatzkündigung stammte von 2023; daraus kein Verbot trotz des später eingeführten Paragraf 46h ArbGG ableiten.
+- [BAG, Urteil vom 8. Dezember 2011, 6 AZR 354/10](https://www.bundesarbeitsgericht.de/entscheidung/6-azr-354-10/): Einzelfallabhängige Unverzüglichkeit; nach mehr als einer Woche ohne besondere Umstände regelmäßig verspätete Zurückweisung. Tragenden Kenntniszeitpunkt belegen.
+- [BAG, Urteil vom 6. September 2012, 2 AZR 858/11](https://www.bundesarbeitsgericht.de/entscheidung/2-azr-858-11/): Beim Handeln ohne Vertretungsmacht kann der Zugang einer Genehmigung für den Fristbeginn maßgeblich werden. Nicht auf die bloß fehlende Vollmachtsurkunde übertragen.
+- Amtliche Normen: [Paragraf 623 BGB](https://www.gesetze-im-internet.de/bgb/__623.html), [Paragraf 126 BGB](https://www.gesetze-im-internet.de/bgb/__126.html), [Paragraf 174 BGB](https://www.gesetze-im-internet.de/bgb/__174.html), [Paragraf 4 KSchG](https://www.gesetze-im-internet.de/kschg/__4.html), [Paragraf 46h ArbGG](https://www.gesetze-im-internet.de/arbgg/__46h.html), [Paragraf 41 SGB VI](https://www.gesetze-im-internet.de/sgb_6/__41.html).
+
+Quellenstand: 4. September 2026. Vor Verwendung den für Erklärung und Zugang maßgeblichen Rechtsstand feststellen.
+
+## 6. Verwendbares Ergebnis liefern
+
+Liefere zuerst eine knappe Entscheidung: welcher Form- oder Vertretungsfehler konkret belegt ist, was noch fehlt und welcher fristwahrende Schritt jetzt ansteht. Danach folgen das gewählte vollständige Rügeschreiben oder der Kündigungsschutzantrag und dieses Fristenblatt:
+
+| Kündigung | Form und Originalbeleg | Zugang und Beweis | Vollmacht oder Organvertretung | Rüge und Zugang | Klagefrist und Sicherheitsfrist |
+| --- | --- | --- | --- | --- | --- |
+
+Keine bloße Tabellenhülle abgeben: belegte Felder ausfüllen, offene Angaben ausdrücklich kennzeichnen und pro Streitpunkt ein passendes Beweisangebot formulieren. Für die Dokumentausgabe dezimale Gliederung, ausreichende Abstände und möglichst Times New Roman 11 Punkt verwenden.
+
+Für vertiefte Zugangstatsachen zu `fazugang-neu-001-kuendigung-durch-boten-beweisvermerk` wechseln; die vollständige materielle Kündigungsprüfung übernimmt `ar-kuendigungspruefung-workflow`. Die hier gesicherten Fristen und Belege dabei mitgeben.
 
 ---
 

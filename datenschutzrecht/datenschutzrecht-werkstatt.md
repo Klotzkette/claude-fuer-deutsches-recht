@@ -92,7 +92,7 @@ Arbeitsgriff Prüfstation: Datenpanne, Aufsichtsverfahren, Schadensersatz und L�
 | Datenschutz-Grundverordnung Artikel 28 | Auftragsverarbeitung | Verantwortlicher für Rechtmäßigkeit, TOMs und Rechenschaft; Betroffener für Schaden und Kausalität bei Ersatzansprüchen | Auskunft, Löschung, Meldung, Anordnung, Schadensersatz oder Aufsichtsantwort |
 | Datenschutz-Grundverordnung Artikel 32 | Sicherheit der Verarbeitung | Verantwortlicher für Rechtmäßigkeit, TOMs und Rechenschaft; Betroffener für Schaden und Kausalität bei Ersatzansprüchen | Auskunft, Löschung, Meldung, Anordnung, Schadensersatz oder Aufsichtsantwort |
 | Datenschutz-Grundverordnung Artikel 33 und Artikel 34 | Meldung von Verletzungen des Schutzes personenbezogener Daten | Verantwortlicher für Rechtmäßigkeit, TOMs und Rechenschaft; Betroffener für Schaden und Kausalität bei Ersatzansprüchen | Auskunft, Löschung, Meldung, Anordnung, Schadensersatz oder Aufsichtsantwort |
-| Art. 82 Abs. 1 Datenschutz-Grundverordnung | Jeder, der wegen eines Verstoßes gegen die Datenschutz-Grundverordnung einen materiellen oder immateriellen Schaden erlitten hat, hat Anspruch auf Schadenersatz | Verantwortlicher für Rechtmäßigkeit, TOMs und Rechenschaft; Betroffener für Schaden und Kausalität bei Ersatzansprüchen | Auskunft, Löschung, Meldung, Anordnung, Schadensersatz oder Aufsichtsantwort |
+| Art. 82 Abs. 1 Datenschutz-Grundverordnung | Jeder, der wegen eines Verstoßes gegen die Datenschutz-Grundverordnung einen materiellen oder immateriellen Schaden erlitten hat, hat Anspruch auf Schadenersatz gegen den Verantwortlichen oder den Auftragsverarbeiter | Verantwortlicher für Rechtmäßigkeit, TOMs und Rechenschaft; Betroffener für Schaden und Kausalität bei Ersatzansprüchen | Auskunft, Löschung, Meldung, Anordnung, Schadensersatz oder Aufsichtsantwort |
 
 ## 6. Rechtsprechungsanker, Quellenstatus und Rechtsfolgen
 
@@ -114,14 +114,14 @@ Arbeitsgriff Prüfstation: Datenpanne, Aufsichtsverfahren, Schadensersatz und L�
 - Datenschutz-Grundverordnung Artikel 28: Auftragsverarbeitung.
 - Datenschutz-Grundverordnung Artikel 32: Sicherheit der Verarbeitung.
 - Datenschutz-Grundverordnung Artikel 33 und Artikel 34: Meldung von Verletzungen des Schutzes personenbezogener Daten.
-- Art. 82 Abs. 1 Datenschutz-Grundverordnung: Jeder, der wegen eines Verstoßes gegen die Datenschutz-Grundverordnung einen materiellen oder immateriellen Schaden erlitten hat, hat Anspruch auf Schadenersatz; im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
+- Art. 82 Abs. 1 Datenschutz-Grundverordnung: Jeder, der wegen eines Verstoßes gegen die Datenschutz-Grundverordnung einen materiellen oder immateriellen Schaden erlitten hat, hat Anspruch auf Schadenersatz gegen den Verantwortlichen oder den Auftragsverarbeiter; im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
 - Art. 82 Abs. 2 Datenschutz-Grundverordnung: Verantwortlicher haftet für den Schaden, den eine seiner Verarbeitungen verursacht hat; im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
-- Art. 82 Abs. 3 Datenschutz-Grundverordnung: Befreiung, wenn nachgewiesen wird, dass der Schaden in keiner Weise zu vertreten ist; im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
 - Art. 82 Abs. 4 Datenschutz-Grundverordnung: Gesamtschuldnerische Haftung mehrerer Verantwortlicher / Auftragsverarbeiter, wenn an demselben Verarbeitungsvorgang beteiligt; im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
 - Art. 82 Abs. 5 Datenschutz-Grundverordnung: Innenregress nach Mass des Verschuldensanteils; im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
 - Art. 28 Abs. 10 Datenschutz-Grundverordnung: Bei Überschreiten der Weisungen wird Auftragsverarbeiter zum Verantwortlichen; im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
 - Art. 82, Art. 28 Abs. 4, Art. 28 Abs. 10, Art. 83 Datenschutz-Grundverordnung; im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
 - Paragraf 307, Paragraf 309 Nr. 7 BGB (AGB-rechtliche Schranken); im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
+- Art. 28 Abs. 3 lit; im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
 
 ## 8. Leitentscheidungen
 
@@ -130,7 +130,6 @@ Arbeitsgriff Prüfstation: Datenpanne, Aufsichtsverfahren, Schadensersatz und L�
 - EuGH, Urteil vom 05.12.2023 - C-683/21: Verantwortlichkeit setzt Einfluss auf Zwecke und Mittel der Verarbeitung voraus.
 - EuGH, Urteil vom 07.12.2023 - C-634/21: automatisiertes Scoring kann an Artikel 22 Datenschutz-Grundverordnung scheitern.
 - BVerfG, Urteil vom 15.12.1983 - 1 BvR 209/83 u.a.: informationelle Selbstbestimmung als verfassungsrechtlicher Leitanker.
-- EuGH C-26/22 SCHUFA, Urteil 07.12.2023.
 
 ## 9. Prüfraster
 
@@ -209,7 +208,7 @@ Lieferstück: Fachvotum zu AVV im Konzern und in Multi-Party-Konstellationen mit
 ### 16.2. Datenschutz-Bußgeldverfahren — Verteidigung nach Art. 83 Datenschutz-Grundverordnung
 
 Bearbeitungsauftrag: Sie brauchen den Skill, sobald die Aufsichtsbehörde förmlich ein Bußgeldverfahren eingeleitet hat: Anhörung nach Paragraf 55 OWiG, Bußgeldbescheid nach Paragraf 65 OWiG oder laufende Einspruchsfrist nach Paragraf 67 OWiG. Federführend nach Artikel 56 Datenschutz-Grundverordnung (One-Stop-Shop)? Artikel 5, 6, 9, 13, 14, 15, 17, 25, 28, 30, 32, 33, 34, 35, 37 Datenschutz-Grundverordnung — und welche Sanktionsstufe Artikel 83 Absatz 4 (10 Mio./2 Prozent) oder Artikel 83 Absatz 5/6 (20 Mio./4 Prozent)?
-Norm- oder Entscheidungsbezug aus dem Fachmaterial: Sie brauchen den Skill, sobald die Aufsichtsbehörde förmlich ein Bußgeldverfahren eingeleitet hat: Anhörung nach Paragraf 55 OWiG, Bußgeldbescheid nach Paragraf 65 OWiG oder laufende Einspruchsfrist nach Paragraf 67 OWiG.
+Normbezug aus dem Fachmaterial: Sie brauchen den Skill, sobald die Aufsichtsbehörde förmlich ein Bußgeldverfahren eingeleitet hat: Anhörung nach Paragraf 55 OWiG, Bußgeldbescheid nach Paragraf 65 OWiG oder laufende Einspruchsfrist nach Paragraf 67 OWiG.
 Lieferstück: Fachvotum zu Datenschutz-Bußgeldverfahren — Verteidigung nach Art. 83 Datenschutz-Grundverordnung mit Tatbestandsmerkmalen, Aktenfundstellen, Beweislast, stärkster Gegenposition, Risiko und ausformulierter Rechtsfolge.
 
 ### 16.3. Bußgeldverteidigung Art. 83 Datenschutz-Grundverordnung nach Datenschutzvorfall
@@ -222,7 +221,7 @@ Lieferstück: Fachvotum zu Bußgeldverteidigung Art. 83 Datenschutz-Grundverordn
 
 Bearbeitungsauftrag: Art der betroffenen Daten: Kategorien (Artikel 9/10 Datenschutz-Grundverordnung?), Datenmenge, Anzahl betroffener Personen (geschätzt). Entdeckungsdatum: Wann hat der Verantwortliche Kenntnis erlangt? Auftragsverarbeiter beteiligt?: Liegt ein Vorfall beim AVV-Partner vor (Artikel 33 Absatz 2 Datenschutz-Grundverordnung)?
 Prüfschritte: Beschreibung des Vorfalls: Was ist wann und wie passiert; (Zeitpunkt der Entdeckung, vermutlicher Zeitpunkt des Eintritts); Betroffene Personen: Kunden, Mitarbeiter, Minderjährige, vulnerable Gruppen; Auswirkungen: Welche Konsequenzen (Diskriminierung, Identitätsdiebstahl, finanzielle Schäden, Rufschädigung) drohen; Zugang/Kontrolle: Haben Unbefugte Daten eingesehen, kopiert, vernichtet oder verändert.
-Norm- oder Entscheidungsbezug aus dem Fachmaterial: (Zeitpunkt der Entdeckung, vermutlicher Zeitpunkt des Eintritts); Art der betroffenen Daten: Kategorien (Artikel 9/10 Datenschutz-Grundverordnung?), Datenmenge, Anzahl betroffener Personen (geschätzt); Betroffene.
+Normbezug aus dem Fachmaterial: (Zeitpunkt der Entdeckung, vermutlicher Zeitpunkt des Eintritts); Art der betroffenen Daten: Kategorien (Artikel 9/10 Datenschutz-Grundverordnung?), Datenmenge, Anzahl betroffener Personen (geschätzt); Betroffene.
 Lieferstück: vollständige Einreichungs- oder Registervorlage mit Zuständigkeit, Pflichtfeldern, Nachweisen, Freigabe und Vollzugskontrolle.
 
 ### 16.5. Sammelklagen-Prävention nach Massendatenpanne

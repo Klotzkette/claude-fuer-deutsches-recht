@@ -47,8 +47,7 @@ Ohne verwertbares Material genau eine gebündelte Frage zu Information, Person u
 | Person und Handlung | Insiderstatus, Besitzzeitpunkt, Handel, Empfehlung, Offenlegung, Marktsondierung oder Eigengeschäft trennen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
 | Ad-hoc-Entscheidung | Veröffentlichung, Aufschubvoraussetzungen, Interessen, Irreführungsrisiko, Vertraulichkeit und Protokoll prüfen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
 | Kontrollen | Insiderliste, Handelsverbotszeitraum, Freigabe, Eigengeschäftsmeldung, Datenzugriff und Eskalation dokumentieren. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Arbeitsprodukt | Insidervermerk, Aufschubentscheidung, Ad-hoc-Mitteilung, Marktsondierungsakte, Meldung oder Behördenantwort. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Ad-hoc-Publizität nach Art. 17 MAR | Artikel 17 VO (EU) 596/2014 (MAR) verpflichtet Emittenten, Insiderinformationen so bald wie möglich. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Arbeitsprodukt | Insidervermerk, Aufschubentscheidung, Ad-hoc-Mitteilung, Marktsondierungsakte, Meldung oder Behördenantwort erstellen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
 
 ## 6. Anker
 
@@ -56,6 +55,7 @@ Ohne verwertbares Material genau eine gebündelte Frage zu Information, Person u
 - MAR Artikel 8 und Artikel 14: Insidergeschäfte, Empfehlungen, Veranlassung und unrechtmäßige Offenlegung.
 - MAR Artikel 17: unverzügliche Veröffentlichung und dokumentierter Aufschub der Ad-hoc-Mitteilung.
 - MAR Artikel 18 und Artikel 19: Insiderlisten und Eigengeschäfte von Führungskräften.
+- Art. 17 VO (EU) 596/2014 (MAR) verpflichtet Emittenten, Insiderinformationen so bald wie möglich zu veröffentlichen; im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
 - Paragrafen 48–50 WpHG; im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
 - Datenschutz-Grundverordnung Art. 5 (Datenminimierung): https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32016R0679; im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
 

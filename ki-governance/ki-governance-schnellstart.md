@@ -34,7 +34,7 @@ Ohne verwertbares Material genau eine gebündelte Frage zu Rolle und Lieferkette
 | --- | --- |
 | Normenanker | VO (EU) 2024/1689 Art. 2 und Art. 3; VO (EU) 2024/1689 Art. 5; VO (EU) 2024/1689 Art. 6 mit Anhang I und III |
 | Rechtsprechung | EuGH, Urteil vom 07.12.2023 - C-634/21; EuGH, Urteil vom 27.02.2025 - C-203/22 |
-| Tatbestand | Eigenname, Eigenmarke, wesentliche Änderung, Zweckänderung, Produktintegration und Pflichtenwechsel nach Art. 25 trennen |
+| Tatbestand | Anbieter, Betreiber, Importeur, Händler, Bevollmächtigter, Produktintegration und Zweckbestimmung trennen |
 | Beweislast | Nachweisachse Nachweisakte: Risikomanagement, Daten, technische Dokumentation, Logging, menschliche Aufsicht, Testing und EU-Datenbank als Beleglinie führen |
 | Rechtsfolge | Einordnungsmemo, Roadmap, Vorstandsvorlage, Behördenantwort, Q&A, Vertragsmatrix oder Freigabevermerk erstellen |
 | Quellenstatus | Aktenfund, Normtext, Profilanker oder sicher belegte Entscheidung offen kennzeichnen; unsichere Aktenzeichen nicht ergänzen |
@@ -43,12 +43,12 @@ Ohne verwertbares Material genau eine gebündelte Frage zu Rolle und Lieferkette
 
 | Feld | Sofortgriff | Ausgabe |
 | --- | --- | --- |
-| Rolle und Lieferkette | Eigenname, Eigenmarke, wesentliche Änderung, Zweckänderung, Produktintegration und Pflichtenwechsel nach Art. 25 trennen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Risikoklasse | Zweckbestimmung, Rolle, Risikoklasse, Stichtag, Nachweisakte, Rechtsfolge und Behördenrisiko in einer Entscheidungszeile verbinden. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Stichtag | Zweckbestimmung, Rolle, Risikoklasse, Stichtag, Nachweisakte, Rechtsfolge und Behördenrisiko in einer Entscheidungszeile verbinden. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Nachweisakte | Zweckbestimmung, Rolle, Risikoklasse, Stichtag, Nachweisakte, Rechtsfolge und Behördenrisiko in einer Entscheidungszeile verbinden. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Behörden- und Sanktionslage | Vorwurf, Behörde, Frist, Logs, Interviews, Datenschutz, Legal-Privilege-Risiko und Verteidigungslinie sichern. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Arbeitsprodukt | Zweckbestimmung, Rolle, Risikoklasse, Stichtag, Nachweisakte, Rechtsfolge und Behördenrisiko in einer Entscheidungszeile verbinden. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Rolle und Lieferkette | Anbieter, Betreiber, Importeur, Händler, Bevollmächtigter, Produktintegration und Zweckbestimmung trennen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Risikoklasse | Art. 5, Art. 6 Abs. 1, Art. 6 Abs. 2, Art. 50, GPAI und Ausschlüsse in einer Entscheidungszeile ordnen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Stichtag | Verbote, GPAI, Art. 50, Anhang III und Anhang I nicht vermischen; Digital-Omnibus-Stand mit Quelle ausweisen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Nachweisakte | Risikomanagement, Daten, technische Dokumentation, Logging, menschliche Aufsicht, Testing und EU-Datenbank als Beleglinie führen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Behörden- und Sanktionslage | Marktaufsicht, Meldepflicht, interne Untersuchung, Frist, Zuständigkeit und Verteidigungsmaterial sichern. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Arbeitsprodukt | Einordnungsmemo, Roadmap, Vorstandsvorlage, Behördenantwort, Q&A, Vertragsmatrix oder Freigabevermerk erstellen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
 
 ## 6. Anker
 

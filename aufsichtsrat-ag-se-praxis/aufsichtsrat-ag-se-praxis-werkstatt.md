@@ -110,9 +110,9 @@ Entwurfsgriff Arbeitsprodukt: Beschlussvorschlag, Organmemo, Anteilsübertragung
 - AktG Paragraf 93: Sorgfaltspflicht und Verantwortlichkeit des Vorstands.
 - Paragraf 93/Paragraf 116 AktG: Business Judgment Rule nur bei informierter, interessenfreier, unternehmerischer Entscheidung; im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
 - Paragraf 90 AktG als Mindestlinie nutzen: Berichtsanlässe, Berichtstiefe, Nachfragen, Sonderberichte und Eskalation bei Ausweichen; im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
-- Paragraf 25d Abs. 1 KWG – Anforderungen an Mitglieder des Aufsichtsorgans: Zuverlässigkeit, ausreichende Sachkunde zur Wahrnehmung der Kontrollfunktion; im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
-- Paragraf 25d Abs. 3 KWG – Kollektiver Sachverstand des Aufsichtsorgans: Gesamtgremium muss Kenntnisse in Bankgeschäft, Risikomanagement, Rechnungslegung, Vergütung, Regulierung und IT; im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
-- Paragraf 25d Abs. 8 KWG – Mandatshöchstzahl: bei bedeutenden Instituten (Paragraf 1 Abs. 3c KWG) maximal 1 Exekutivmandat + 2 Nicht-Exekutivmandate oder 4 Nicht-Exekutivmandate; im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
+- Paragraf 25d Abs. 1 KWG – Anforderungen an Mitglieder des Aufsichtsorgans: Zuverlässigkeit, ausreichende Sachkunde zur Wahrnehmung der Kontrollfunktion; eigenverantwortliche Beurteilung von Entscheidungen der Geschäftsleitung; im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
+- Paragraf 25d Abs. 3 KWG – Kollektiver Sachverstand des Aufsichtsorgans: Gesamtgremium muss Kenntnisse in Bankgeschäft, Risikomanagement, Rechnungslegung, Vergütung, Regulierung und IT abdecken; Eignungsmatrix erforderlich; im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
+- Paragraf 25d Abs. 8 KWG – Mandatshöchstzahl: bei bedeutenden Instituten (Paragraf 1 Abs. 3c KWG) maximal 1 Exekutivmandat + 2 Nicht-Exekutivmandate oder 4 Nicht-Exekutivmandate; Konzernprivileg zählt als ein Mandat; im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
 - Paragraf 25d Abs. 9 KWG – Vergütungsausschuss: Pflicht bei bedeutenden Instituten; mindestens 3 Mitglieder; Unabhängigkeit; Überwachung Vergütungspolitik (InstVergV); im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
 - Paragraf 25d Abs. 11 KWG – Risikoausschuss: Pflicht bei bedeutenden Instituten; Risikostrategie, Risikoappetit, ICAAP/ILAAP-Überwachung; Bericht an Gesamtgremium; im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
 - Paragraf 36 Abs. 3 KWG – Abberufung von Aufsichtsratsmitgliedern durch BaFin: bei dauerhafter Ungeeignetheit oder Unzuverlässigkeit; BaFin-Anhörungspflicht; Klagerecht beim VG Frankfurt; im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
@@ -193,7 +193,7 @@ Diese Routen stammen aus den konkreten Arbeitsthemen dieses Plugins. Wähle die 
 
 Bearbeitungsauftrag: Prüfe die bankaufsichtsrechtlichen Anforderungen an Aufsichtsratsmitglieder von KWG-Instituten nach Paragraf 25d KWG. Paragraf 25d Absatz 1 KWG – Anforderungen an Mitglieder des Aufsichtsorgans: Zuverlässigkeit, ausreichende Sachkunde zur Wahrnehmung der Kontrollfunktion; eigenverantwortliche Beurteilung von Entscheidungen der Geschäftsleitung. Paragraf 25d Absatz 3 KWG – Kollektiver Sachverstand des Aufsichtsorgans: Gesamtgremium muss Kenntnisse in Bankgeschäft, Risikomanagement, Rechnungslegung, Vergütung, Regulierung und IT abdecken.
 Prüfschritte: Er verknüpft die Eignungsanforderungen (Zuverlässigkeit, Sachverstand, Zeitbudget) mit den Mandatshöchstzahlen, dem kollektiven Sachverstand und der BaFin-Kommunikation; Grundlage sind Paragraf 25d KWG, EBA/GL/2021/06 und das BaFin-Merkblatt Aufsichtsorgan.
-Norm- oder Entscheidungsbezug aus dem Fachmaterial: Prüfe die bankaufsichtsrechtlichen Anforderungen an Aufsichtsratsmitglieder von KWG-Instituten nach Paragraf 25d KWG; Er verknüpft die Eignungsanforderungen (Zuverlässigkeit, Sachverstand, Zeitbudget) mit den Mandatshöchstzahlen, dem kollektiven Sachverstand und der BaFin-Kommunikation.
+Normbezug aus dem Fachmaterial: Prüfe die bankaufsichtsrechtlichen Anforderungen an Aufsichtsratsmitglieder von KWG-Instituten nach Paragraf 25d KWG; Er verknüpft die Eignungsanforderungen (Zuverlässigkeit, Sachverstand, Zeitbudget) mit den Mandatshöchstzahlen, dem kollektiven Sachverstand und der BaFin-Kommunikation.
 Lieferstück: Kontrollvermerk zu Aufsichtsrat Bank: KWG-Fit-and-Proper-Anforderungen mit Pflicht, Ist-Nachweis, Abweichung, Risiko, Verantwortlichem, Frist und Freigabe.
 
 ### 16.2. Geschäftsordnung Vorstand
@@ -246,7 +246,7 @@ Lieferstück: verhandlungsfähige Fassung mit Ausgangstext, Änderung, Begründu
 Bearbeitungsauftrag: Bearbeite Beschlussfähigkeit: satzung, Beschlusskompetenz, Mehrheit, Vertretung, Treuepflicht, Registervollzug und Haftungsrisiko nebeneinanderlegen. Entwirf die im Fachverfahren richtige Entscheidungsform mit bestimmtem Ausspruch, festgestelltem Sachverhalt, offen gelegter Beweiswürdigung, tragender Subsumtion, Nebenentscheidungen und nur tatsächlich statthaftem Rechtsbehelf.
 Lieferstück: entscheidungsreifer Entwurf mit Tenor oder Verfügungssatz, Streitstoff, Beweiswürdigung und Nebenentscheidungen.
 
-### 16.12. Distressed und Insolvenznähe
+### 16.12. Haftungsradar
 
-Bearbeitungsauftrag: Bearbeite Distressed und Insolvenznähe: liquiditätsstatus, Fälligkeit, Fortbestehensprognose, Antragspflicht, Beweislast und Sanierungsoption in einer Entscheidungslinie ordnen. Verbinde den konkreten Aktenfund mit Tatbestandsmerkmal, Gegenposition, Beweislast, Rechtsfolge und dem nächsten vollständig ausformulierten Arbeitsprodukt.
-Lieferstück: Entwurfsbaustein zu Distressed und Insolvenznähe mit Geschäftsziel, Rechtswirkung, Risikozuweisung, Verhandlungsvariante, Freigabe und Vollzugsschritt.
+Bearbeitungsauftrag: Bearbeite Haftungsradar: satzung, Beschlusskompetenz, Mehrheit, Vertretung, Treuepflicht, Registervollzug und Haftungsrisiko nebeneinanderlegen. Zerlege Anspruchsgrund, Pflichtenkreis, Pflichtverletzung, Zurechnung, Kausalität und Schaden; ordne Einwendungen, Mitverantwortung, Verjährung, Beweislast, Versicherung und jede bezifferte Rechtsfolge den konkreten Aktenbelegen zu.
+Lieferstück: gewichtete Prüfmatrix mit Tatbestandsmerkmalen, Fundstellen, Gegenposition, Beweislast, Risiko und Empfehlung.

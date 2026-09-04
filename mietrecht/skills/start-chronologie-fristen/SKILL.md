@@ -229,7 +229,7 @@ Ein Alleinstellungsmerkmal ist die Einbindung offizieller Mietspiegel-Quellen f�
 - Stand: 05/2026
 - Gesetzesfassungen zum Stand-Datum (BGB, BetrKV, HeizkostenV, WEG, ZPO, WiStrG 1954)
 - Leitlinien Rechtsprechung 2024/2025:
- - BGH, Urt. v. 09.07.2025 – Az. VIII ZR 287/23 — Schonfristzahlung § 569 Abs. 3 Nr. 2 BGB heilt nur fristlose, nicht ordentliche Kuendigung. Quelle: https://dejure.org/dienste/vernetzung/rechtsprechung?Gericht=BGH&Datum=09.07.2025&Aktenzeichen=VIII+ZR+287/23
+ - BGH, Urteil vom 23.07.2025, VIII ZR 287/23: Die Schonfristzahlung nach Paragraf 569 Absatz 3 Nummer 2 BGB beseitigt die fristlose Kündigung, nicht automatisch die hilfsweise ordentliche Kündigung. Deren Voraussetzungen sind nach Paragraf 573 BGB gesondert zu prüfen. [Amtlicher Volltext](https://juris.bundesgerichtshof.de/cgi-bin/rechtsprechung/document.py?Gericht=bgh&Art=en&nr=142465&Blank=1.pdf).
  - BGH, Urt. v. 24.09.2025 – Az. VIII ZR 289/23 — Anforderungen an Eigenbedarfsbegruendung § 573 Abs. 3 BGB; Eigenbedarf wirksam auch bei spaeterem Verkauf.
  - BGH, Urt. v. 27.11.2024 – Az. VIII ZR 159/23 — qES-Wohnraumkuendigung und Zugang (siehe schriftform-und-textform-bgb).
 - Justizstandort-Stärkungsgesetz (BGBl. 2025 I Nr. 318): ab 01.01.2026 liegt die allgemeine Wertzuständigkeit des Amtsgerichts nach Paragraf 23 Nummer 1 GVG bei bis zu zehntausend Euro. Für Wohnraummietsachen gilt unabhängig davon Paragraf 23 Nummer 2a GVG: Amtsgericht ausschließlich und streitwertunabhängig, auch bei verbundener Räumungs- und Zahlungsklage; in erster Instanz kein Anwaltszwang nach Paragraf 78 Absatz 1 Satz 1 ZPO im Umkehrschluss. Gewerberaummiete bleibt wertabhängig: bis zehntausend Euro Amtsgericht, darüber Landgericht nach Paragraf 71 Absatz 1 GVG mit Anwaltszwang.

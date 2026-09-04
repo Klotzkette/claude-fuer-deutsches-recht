@@ -79,7 +79,7 @@ Arbeitsgriff Arbeitsprodukt: Europarechtsmemo, Vorlagefragen, Umsetzungscheck, V
 | --- | --- | --- | --- |
 | Fallkern | EU: Petitionsausschuss | EUV Artikel 4 Absatz 3 und Artikel 5 | Sofortvermerk mit Ergebnisrichtung, Risiko und nächstem Schritt |
 | Zulässigkeit und Frist | Frist, Form, Zuständigkeit, Rolle und statthafter Weg | EUV Artikel 19 und AEUV Artikel 267 | Fristenblatt oder Prozess-/Verfahrensroute |
-| Begründetheit | Vertragsverletzung und Durchsetzung | EUV Artikel 19 und AEUV Artikel 267 | Tatbestandsmatrix mit Beleg und Gegenargument |
+| Begründetheit | EU-Grundrechte und Charta | EUV Artikel 19 und AEUV Artikel 267 | Tatbestandsmatrix mit Beleg und Gegenargument |
 | Rechtsfolge | Wirkungsmatrix, Grundfreiheitenprüfung, Vorlagefrage, Umsetzungscheck, Stellungnahme oder Rechtsschutzvermerk | Wer sich auf Unionsrecht beruft, belegt Anwendungsbereich und anspruchstragende Tatsachen; Staat oder Organ trägt Rechtfertigung, Ausnahme und Verhältnismäßigkeit | Antrag, Entwurf, Entscheidungsvorschlag oder Mandantenbrief |
 
 ## 5. Normenanker, Tatbestandswichtigkeiten und Beweislast
@@ -183,14 +183,14 @@ Die Landkarte dient der schnellen Auswahl. Sie ersetzt nicht die darunter ausfor
 | Arbeitsfeld | Entscheidende Weiche | Erstes Lieferstück |
 | --- | --- | --- |
 | EU: Petitionsausschuss | Anrufung des Petitionsausschusses des Europäischen Parlaments nach Artikel 24 II, 227 AEUV. Ergänzung zu Klage Artikel 263/265 AEUV oder Beschwerde an Europäischen Bürgerbeauftragten (Artikel 228 AEUV) bzw. | Fachvotum zu EU: Petitionsausschuss mit Tatbestandsmerkmalen, Aktenfundstellen, Beweislast, stärkster Gegenposition, Risiko und ausformulierter Rechtsfolge |
-| Vertragsverletzung und Durchsetzung | Das Template ist eine mögliche Form — nicht die einzige. Wenn die Mandantenkonstellation nicht ins Standardschema passt, ist das Template anzupassen oder durch ein anderes Skill abzulösen — nicht das Mandat. | verhandlungsfähige Fassung mit Ausgangstext, Änderung, Begründung, Rückfallposition und Vollzugscheck |
+| EU-Grundrechte und Charta | Prüfraster: Anwendungsbereich Artikel 51 GRC beruertes Recht Einschränkung Artikel 52 GRC Wesensgehalt Verhältnismäßigkeit. Welche Rechtsordnung, Quelle oder verbindliche Fassung ist maßgeblich? | Fachvotum zu EU-Grundrechte und Charta mit Tatbestandsmerkmalen, Aktenfundstellen, Beweislast, stärkster Gegenposition, Risiko und ausformulierter Rechtsfolge |
 | Europarecht: Vorlageverfahren Art. 267 | Bearbeite Europarecht: Vorlageverfahren Art. 267: unionsnorm, Rechtsakt, Anwendungsbereich, unmittelbare Wirkung, Vorrang, Rechtfertigung und Rechtsschutzroute trennen. | Fachvotum zu Europarecht: Vorlageverfahren Art. 267 mit Tatbestandsmerkmalen, Aktenfundstellen, Beweislast, stärkster Gegenposition, Risiko und ausformulierter Rechtsfolge |
 | Nationales Verfahren und Effektivität | Wenn Rechtsquelle, Wirkung, Verfahren oder Frist unklar sind. Europarecht-Kompass arbeitet freundlich, präzise und verzeihend. Der Stil darf leicht sein, aber nie auf Kosten der juristischen Trennschärfe | Fachvotum zu Nationales Verfahren und Effektivität mit Tatbestandsmerkmalen, Aktenfundstellen, Beweislast, stärkster Gegenposition, Risiko und ausformulierter Rechtsfolge |
 | Vorrang und unmittelbare Wirkung | Wenn Rechtsquelle, Wirkung, Verfahren oder Frist unklar sind. Vorrang nicht mit Nichtigkeit der nationalen Norm gleichsetzen. Der Stil darf leicht sein, aber nie auf Kosten der juristischen Trennschärfe | Fachvotum zu Vorrang und unmittelbare Wirkung mit Tatbestandsmerkmalen, Aktenfundstellen, Beweislast, stärkster Gegenposition, Risiko und ausformulierter Rechtsfolge |
 | EU-Rechtsquellen, Charta und Vorlageweiche | Bearbeite EU-Rechtsquellen, Charta und Vorlageweiche: unionsnorm, Rechtsakt, Anwendungsbereich, unmittelbare Wirkung, Vorrang, Rechtfertigung und Rechtsschutzroute trennen. | Fachvotum zu EU-Rechtsquellen, Charta und Vorlageweiche mit Tatbestandsmerkmalen, Aktenfundstellen, Beweislast, stärkster Gegenposition, Risiko und ausformulierter Rechtsfolge |
+| EU: Vertragsverletzung Art. 258 | Bearbeite EU: Vertragsverletzung Art. 258: unionsnorm, Rechtsakt, Anwendungsbereich, unmittelbare Wirkung, Vorrang, Rechtfertigung und Rechtsschutzroute trennen. | verhandlungsfähige Fassung mit Ausgangstext, Änderung, Begründung, Rückfallposition und Vollzugscheck |
+| EU-Wettbewerb und Kartellrecht | Kartell- und Wettbewerbsrecht nach Artikel 101 102 AEUV prüfen wenn Absprachen Marktmissbrauch oder Zusammenschlüsse in Frage stehen. wenn Rechtsquelle, Wirkung, Verfahren oder Frist unklar sind. | Fachvotum zu EU-Wettbewerb und Kartellrecht mit Tatbestandsmerkmalen, Aktenfundstellen, Beweislast, stärkster Gegenposition, Risiko und ausformulierter Rechtsfolge |
 | EU: Zuständigkeiten | Unionsbezug prüfen — Fällt die Materie in den Anwendungsbereich des Unionsrechts (Artikel 51 GRC)? Rechtswegerschöpfung prüfen (bei Untätigkeitsklage Artikel 265 AEUV: vorherige Aufforderung). | Fachvotum zu EU: Zuständigkeiten mit Tatbestandsmerkmalen, Aktenfundstellen, Beweislast, stärkster Gegenposition, Risiko und ausformulierter Rechtsfolge |
-| EU-Grundrechte und Charta | Prüfraster: Anwendungsbereich Artikel 51 GRC beruertes Recht Einschränkung Artikel 52 GRC Wesensgehalt Verhältnismäßigkeit. Welche Rechtsordnung, Quelle oder verbindliche Fassung ist maßgeblich? | Fachvotum zu EU-Grundrechte und Charta mit Tatbestandsmerkmalen, Aktenfundstellen, Beweislast, stärkster Gegenposition, Risiko und ausformulierter Rechtsfolge |
-| Beihilfen, Förderungen und Vergabe | Charta nicht ohne Durchführung von Unionsrecht anwenden. Europarecht-Kompass arbeitet freundlich, präzise und verzeihend. Der Stil darf leicht sein, aber nie auf Kosten der juristischen Trennschärfe | Fachvotum zu Beihilfen, Förderungen und Vergabe mit Tatbestandsmerkmalen, Aktenfundstellen, Beweislast, stärkster Gegenposition, Risiko und ausformulierter Rechtsfolge |
 
 ## 16. Fachspezifische Praxisrouten
 
@@ -199,14 +199,14 @@ Diese Routen stammen aus den konkreten Arbeitsthemen dieses Plugins. Wähle die 
 ### 16.1. EU: Petitionsausschuss
 
 Bearbeitungsauftrag: Anrufung des Petitionsausschusses des Europäischen Parlaments nach Artikel 24 II, 227 AEUV. Ergänzung zu Klage Artikel 263/265 AEUV oder Beschwerde an Europäischen Bürgerbeauftragten (Artikel 228 AEUV) bzw. Kommission als "Hüterin der Verträge" (Artikel 258 AEUV — Vertragsverletzungsverfahren).
-Norm- oder Entscheidungsbezug aus dem Fachmaterial: Anrufung des Petitionsausschusses des Europäischen Parlaments nach Artikel 24 II, 227 AEUV.
+Normbezug aus dem Fachmaterial: Anrufung des Petitionsausschusses des Europäischen Parlaments nach Artikel 24 II, 227 AEUV.
 Lieferstück: Fachvotum zu EU: Petitionsausschuss mit Tatbestandsmerkmalen, Aktenfundstellen, Beweislast, stärkster Gegenposition, Risiko und ausformulierter Rechtsfolge.
 
-### 16.2. Vertragsverletzung und Durchsetzung
+### 16.2. EU-Grundrechte und Charta
 
-Bearbeitungsauftrag: Das Template ist eine mögliche Form — nicht die einzige. Wenn die Mandantenkonstellation nicht ins Standardschema passt, ist das Template anzupassen oder durch ein anderes Skill abzulösen — nicht das Mandat in das Schema zu pressen. Vorrang nicht mit Nichtigkeit der nationalen Norm gleichsetzen.
-Prüfschritte: Wenn deutsche Kategorien die EU-Eigenlogik verdecken könnten; wenn Rechtsquelle, Wirkung, Verfahren oder Frist unklar sind; Welche Rechtsordnung, Quelle oder verbindliche Fassung ist maßgeblich; Welche Partei oder Rolle vertreten wir; Soll mit echten, geschwärzten oder simulierten Daten gearbeitet werden.
-Lieferstück: verhandlungsfähige Fassung mit Ausgangstext, Änderung, Begründung, Rückfallposition und Vollzugscheck.
+Bearbeitungsauftrag: Prüfraster: Anwendungsbereich Artikel 51 GRC beruertes Recht Einschränkung Artikel 52 GRC Wesensgehalt Verhältnismäßigkeit. Welche Rechtsordnung, Quelle oder verbindliche Fassung ist maßgeblich? Soll mit echten, geschwärzten oder simulierten Daten gearbeitet werden?
+Normbezug aus dem Fachmaterial: Artikel 51 GRC Anwendungsbereich Artikel 6 EUV.
+Lieferstück: Fachvotum zu EU-Grundrechte und Charta mit Tatbestandsmerkmalen, Aktenfundstellen, Beweislast, stärkster Gegenposition, Risiko und ausformulierter Rechtsfolge.
 
 ### 16.3. Europarecht: Vorlageverfahren Art. 267
 
@@ -230,36 +230,33 @@ Lieferstück: Fachvotum zu Vorrang und unmittelbare Wirkung mit Tatbestandsmerkm
 Bearbeitungsauftrag: Bearbeite EU-Rechtsquellen, Charta und Vorlageweiche: unionsnorm, Rechtsakt, Anwendungsbereich, unmittelbare Wirkung, Vorrang, Rechtfertigung und Rechtsschutzroute trennen. Verbinde den konkreten Aktenfund mit Tatbestandsmerkmal, Gegenposition, Beweislast, Rechtsfolge und dem nächsten vollständig ausformulierten Arbeitsprodukt.
 Lieferstück: Fachvotum zu EU-Rechtsquellen, Charta und Vorlageweiche mit Tatbestandsmerkmalen, Aktenfundstellen, Beweislast, stärkster Gegenposition, Risiko und ausformulierter Rechtsfolge.
 
-### 16.7. EU: Zuständigkeiten
+### 16.7. EU: Vertragsverletzung Art. 258
+
+Bearbeitungsauftrag: Bearbeite EU: Vertragsverletzung Art. 258: unionsnorm, Rechtsakt, Anwendungsbereich, unmittelbare Wirkung, Vorrang, Rechtfertigung und Rechtsschutzroute trennen. Lege Regelungsziel und tatsächlichen Ablauf offen, prüfe Definitionen, Haupt- und Nebenpflichten, Bedingungen, Laufzeit, Beendigung, Haftung, Form, zwingendes Recht und Vollzug und liefere Klausel, Rückfallposition und Abschlusskontrolle.
+Lieferstück: verhandlungsfähige Fassung mit Ausgangstext, Änderung, Begründung, Rückfallposition und Vollzugscheck.
+
+### 16.8. EU-Wettbewerb und Kartellrecht
+
+Bearbeitungsauftrag: Kartell- und Wettbewerbsrecht nach Artikel 101 102 AEUV prüfen wenn Absprachen Marktmissbrauch oder Zusammenschlüsse in Frage stehen. wenn Rechtsquelle, Wirkung, Verfahren oder Frist unklar sind. Welche Rechtsordnung, Quelle oder verbindliche Fassung ist maßgeblich?
+Normbezug aus dem Fachmaterial: Kartell- und Wettbewerbsrecht nach Artikel 101 102 AEUV prüfen wenn Absprachen Marktmissbrauch oder Zusammenschlüsse in Frage stehen; Artikel 101 102 AEUV Paragraf 1 GWB VO 1/2003.
+Lieferstück: Fachvotum zu EU-Wettbewerb und Kartellrecht mit Tatbestandsmerkmalen, Aktenfundstellen, Beweislast, stärkster Gegenposition, Risiko und ausformulierter Rechtsfolge.
+
+### 16.9. EU: Zuständigkeiten
 
 Bearbeitungsauftrag: Unionsbezug prüfen — Fällt die Materie in den Anwendungsbereich des Unionsrechts (Artikel 51 GRC)? Rechtswegerschöpfung prüfen (bei Untätigkeitsklage Artikel 265 AEUV: vorherige Aufforderung). Frist prüfen (Artikel 263 VI AEUV: zwei Monate ab Bekanntgabe oder Kenntnis).
 Lieferstück: Fachvotum zu EU: Zuständigkeiten mit Tatbestandsmerkmalen, Aktenfundstellen, Beweislast, stärkster Gegenposition, Risiko und ausformulierter Rechtsfolge.
 
-### 16.8. EU-Grundrechte und Charta
-
-Bearbeitungsauftrag: Prüfraster: Anwendungsbereich Artikel 51 GRC beruertes Recht Einschränkung Artikel 52 GRC Wesensgehalt Verhältnismäßigkeit. Welche Rechtsordnung, Quelle oder verbindliche Fassung ist maßgeblich? Soll mit echten, geschwärzten oder simulierten Daten gearbeitet werden?
-Norm- oder Entscheidungsbezug aus dem Fachmaterial: Artikel 51 GRC Anwendungsbereich Artikel 6 EUV.
-Lieferstück: Fachvotum zu EU-Grundrechte und Charta mit Tatbestandsmerkmalen, Aktenfundstellen, Beweislast, stärkster Gegenposition, Risiko und ausformulierter Rechtsfolge.
-
-### 16.9. Beihilfen, Förderungen und Vergabe
-
-Bearbeitungsauftrag: Charta nicht ohne Durchführung von Unionsrecht anwenden. Europarecht-Kompass arbeitet freundlich, präzise und verzeihend. Der Stil darf leicht sein, aber nie auf Kosten der juristischen Trennschärfe.
-Prüfschritte: Wenn deutsche Kategorien die EU-Eigenlogik verdecken könnten; wenn Rechtsquelle, Wirkung, Verfahren oder Frist unklar sind; Welche Rechtsordnung, Quelle oder verbindliche Fassung ist maßgeblich; Welche Partei oder Rolle vertreten wir; Soll mit echten, geschwärzten oder simulierten Daten gearbeitet werden.
-Lieferstück: Fachvotum zu Beihilfen, Förderungen und Vergabe mit Tatbestandsmerkmalen, Aktenfundstellen, Beweislast, stärkster Gegenposition, Risiko und ausformulierter Rechtsfolge.
-
-### 16.10. EU-Wettbewerb und Kartellrecht
-
-Bearbeitungsauftrag: Kartell- und Wettbewerbsrecht nach Artikel 101 102 AEUV prüfen wenn Absprachen Marktmissbrauch oder Zusammenschlüsse in Frage stehen. wenn Rechtsquelle, Wirkung, Verfahren oder Frist unklar sind. Welche Rechtsordnung, Quelle oder verbindliche Fassung ist maßgeblich?
-Norm- oder Entscheidungsbezug aus dem Fachmaterial: Kartell- und Wettbewerbsrecht nach Artikel 101 102 AEUV prüfen wenn Absprachen Marktmissbrauch oder Zusammenschlüsse in Frage stehen; Artikel 101 102 AEUV Paragraf 1 GWB VO 1/2003.
-Lieferstück: Fachvotum zu EU-Wettbewerb und Kartellrecht mit Tatbestandsmerkmalen, Aktenfundstellen, Beweislast, stärkster Gegenposition, Risiko und ausformulierter Rechtsfolge.
-
-### 16.11. EU: State-Aid-Notifikation
+### 16.10. EU: State-Aid-Notifikation
 
 Bearbeitungsauftrag: Bearbeite EU: State-Aid-Notifikation: unionsnorm, Rechtsakt, Anwendungsbereich, unmittelbare Wirkung, Vorrang, Rechtfertigung und Rechtsschutzroute trennen. Verbinde den konkreten Aktenfund mit Tatbestandsmerkmal, Gegenposition, Beweislast, Rechtsfolge und dem nächsten vollständig ausformulierten Arbeitsprodukt.
 Lieferstück: Fachvotum zu EU: State-Aid-Notifikation mit Tatbestandsmerkmalen, Aktenfundstellen, Beweislast, stärkster Gegenposition, Risiko und ausformulierter Rechtsfolge.
 
+### 16.11. Beihilfen, Förderungen und Vergabe
+
+Bearbeitungsauftrag: Charta nicht ohne Durchführung von Unionsrecht anwenden. Europarecht-Kompass arbeitet freundlich, präzise und verzeihend. Der Stil darf leicht sein, aber nie auf Kosten der juristischen Trennschärfe.
+Lieferstück: Fachvotum zu Beihilfen, Förderungen und Vergabe mit Tatbestandsmerkmalen, Aktenfundstellen, Beweislast, stärkster Gegenposition, Risiko und ausformulierter Rechtsfolge.
+
 ### 16.12. Verordnung, Beschluss und Soft Law
 
 Bearbeitungsauftrag: Richtlinie, Verordnung, Beschluss und Soft Law nicht vermischen. Europarecht-Kompass arbeitet freundlich, präzise und verzeihend. Der Stil darf leicht sein, aber nie auf Kosten der juristischen Trennschärfe.
-Prüfschritte: Wenn deutsche Kategorien die EU-Eigenlogik verdecken könnten; wenn Rechtsquelle, Wirkung, Verfahren oder Frist unklar sind; Welche Rechtsordnung, Quelle oder verbindliche Fassung ist maßgeblich; Welche Partei oder Rolle vertreten wir; Soll mit echten, geschwärzten oder simulierten Daten gearbeitet werden.
 Lieferstück: entscheidungsreifer Entwurf mit Tenor oder Verfügungssatz, Streitstoff, Beweiswürdigung und Nebenentscheidungen.

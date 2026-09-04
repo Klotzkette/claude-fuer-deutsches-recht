@@ -1,6 +1,6 @@
 ---
 name: schimpfwort-lackaffe-und-spott
-description: "Für \"Lackaffe\" und ähnliche Spottbegriffe: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
+description: "Prüft Spottbegriffe wie Lackaffe anhand Wortlaut, Anlass, Kontext, Adressat und Reichweite. Trennt Tatsachenkern, Werturteil, persönliche Herabsetzung und ernsthafte Gegenposition und liefert eine begründete Einschätzung der konkreten Äußerung."
 ---
 
 # "Lackaffe" und ähnliche Spottbegriffe

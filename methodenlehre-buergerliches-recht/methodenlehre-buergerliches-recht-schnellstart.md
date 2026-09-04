@@ -48,7 +48,6 @@ Ohne verwertbares Material genau eine gebündelte Frage zu Fallfrage, Aufbau, Su
 | Subsumtion | Obersatz, Definition, Subsumtion, Ergebnis je Merkmal in ganzen Sätzen durchführen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
 | Streitstand | Meinungen mit Argumenten darstellen, entscheiden und nur entscheidungserheblich vertiefen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
 | Arbeitsprodukt | Gutachten, Hausarbeit mit Fußnoten oder Lernübersicht in bewertungssicherer Form ausformulieren. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Bürgerlichen Fristen Form und Zuständigkeit | Bearbeite Bürgerlichen Fristen Form und Zuständigkeit: Aufgabenstellung, Bearbeitervermerk, Rollenzuweisung. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
 
 ## 6. Anker
 
@@ -56,10 +55,10 @@ Ohne verwertbares Material genau eine gebündelte Frage zu Fallfrage, Aufbau, Su
 - GG Artikel 20 Absatz 3: Bindung an Gesetz und Recht als Rahmen der Rechtsanwendung.
 - ZPO Paragraf 286: freie Beweiswürdigung als Maßstab tatsächlicher Feststellungen in der Falllösung.
 - DRiG Paragraf 5 ff.: Ausbildungs- und Prüfungsrahmen der Juristenausbildung.
-- Paragrafen 186 bis 193 BGB — Fristberechnung; Beginn, Ende und Verlängerung von Fristen; im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
 - Paragraf 125 BGB — Nichtigkeit wegen Formmangels; Grundregel für formunwirksame Rechtsgeschäfte; im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
 - Paragraf 311b Abs. 1 BGB — Formpflicht und Heilung bei Grundstücksverträgen; im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
 - Paragrafen 195, 199 BGB — Regelverjährung und Beginn der Verjährungsfrist; im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
+- Paragrafen 23, 71 GVG — Sachliche Zuständigkeit nach Streitwert; im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
 
 ## 7. Antwortform
 

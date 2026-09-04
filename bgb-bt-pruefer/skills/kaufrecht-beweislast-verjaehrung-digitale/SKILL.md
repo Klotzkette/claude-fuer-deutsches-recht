@@ -37,7 +37,7 @@ Beweislastumkehr nach § 477 BGB, Verjährungsfristen nach § 438 BGB und besond
 2. Beweislastumkehr nach § 477 BGB: Mangel innerhalb von einem Jahr nach Gefahrübergang vermutet
 3. Widerlegung der Vermutung: Verkäufer muss beweisen, dass kein Mangel bei Übergabe bestand
 4. Ausnahme: Beweislastumkehr passt nicht mit Art der Sache oder Art des Mangels zusammen
-5. Verjährung nach § 438 Abs. 1 BGB: Regelfrist zwei Jahre, fünf Jahre bei Bauwerken, 30 Jahre bei arglistig verschwiegenem Mangel
+5. Verjährung nach Paragraf 438 BGB: regelmäßig zwei Jahre, bei den in Absatz 1 Nummer 2 genannten Fällen fünf Jahre und nur bei den Rechtsmängeln des Absatzes 1 Nummer 1 30 Jahre. Bei arglistigem Verschweigen gilt nach Absatz 3 die regelmäßige Verjährungsfrist; im Fall des Absatzes 1 Nummer 2 tritt Verjährung nicht vor Ablauf von fünf Jahren ein.
 6. Ware mit digitalen Elementen nach § 475b BGB: Updatepflichten und längere Mängelprüfung
 7. Dauerhafte Bereitstellung digitaler Elemente nach § 475c BGB: Verjährung besonders berechnen
 8. Verjährungsbeginn: Ablieferung der Sache
@@ -47,7 +47,7 @@ Beweislastumkehr nach § 477 BGB, Verjährungsfristen nach § 438 BGB und besond
 - § 477 BGB-Frist wurde 2022 von sechs Monaten auf ein Jahr verlängert; altes Recht nicht anwenden.
 - Beweislastumkehr schlägt nicht durch, wenn Art des Mangels mit Mängel-bei-Gefahrübergang unvereinbar ist.
 - Digitale Elemente mit Updatepflicht verlängern effektiv die Mängelhaftungsphase.
-- Arglistig verschwiegener Mangel: dreißigjährige Verjährungsfrist nach § 438 Abs. 3 BGB.
+- Arglistig verschwiegener Mangel: regelmäßige Verjährung nach den Paragrafen 438 Absatz 3, 195 und 199 BGB, keine pauschale 30-jährige Frist. Die kenntnisunabhängigen Höchstfristen des Paragrafen 199 BGB sind getrennt nach Anspruchsart zu prüfen.
 
 ## Stoppschilder
 
@@ -67,4 +67,6 @@ Beweislastumkehr nach § 477 BGB, Verjährungsfristen nach § 438 BGB und besond
 
 - https://www.gesetze-im-internet.de/bgb/__477.html
 - https://www.gesetze-im-internet.de/bgb/__438.html
+- https://www.gesetze-im-internet.de/bgb/__195.html
+- https://www.gesetze-im-internet.de/bgb/__199.html
 - https://www.gesetze-im-internet.de/bgb/__475b.html

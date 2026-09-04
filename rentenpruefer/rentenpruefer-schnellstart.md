@@ -34,7 +34,7 @@ Ohne verwertbares Material genau eine gebündelte Frage zu Rentenauftrag, Versic
 | --- | --- |
 | Normenanker | SGB VI Paragraf 35; SGB VI Paragraf 36 und Paragraf 38; SGB VI Paragraf 43 |
 | Rechtsprechung | BSG, Urteil vom 11.12.2019 - B 13 R 7/18 R; BSG, Urteil vom 21.03.2018 - B 13 R 19/14 R |
-| Tatbestand | Versicherungsverlauf, Wartezeit, Entgeltpunkte, Rentenbeginn, Bescheidfehler und Widerspruchsfrist nach SGB VI nachrechnen |
+| Tatbestand | Rentenart, Rentenbeginn, Zielmonat, Bescheidstand, Frist und gewünschtes Arbeitsprodukt bestimmen |
 | Beweislast | Versicherter belegt Zeiten, Lücken und medizinische Tatsachen; Träger muss Versicherungsverlauf und Bescheid nachvollziehbar begründen |
 | Rechtsfolge | Kontenklärung, Rentenberechnung, Widerspruch, Nachzahlung, Statusfeststellung oder Klage |
 | Quellenstatus | Aktenfund, Normtext, Profilanker oder sicher belegte Entscheidung offen kennzeichnen; unsichere Aktenzeichen nicht ergänzen |
@@ -43,12 +43,12 @@ Ohne verwertbares Material genau eine gebündelte Frage zu Rentenauftrag, Versic
 
 | Feld | Sofortgriff | Ausgabe |
 | --- | --- | --- |
-| Rentenauftrag | Versicherungsverlauf, Wartezeit, Entgeltpunkte, Rentenbeginn, Bescheidfehler und Widerspruchsfrist nach SGB VI nachrechnen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Versicherungsverlauf | Versicherungsverlauf, Wartezeit, Entgeltpunkte, Rentenbeginn, Bescheidfehler und Widerspruchsfrist nach SGB VI nachrechnen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Anspruch und Höhe | Versicherungsverlauf, Wartezeit, Entgeltpunkte, Rentenbeginn, Bescheidfehler und Widerspruchsfrist nach SGB VI nachrechnen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Hinterbliebene und Familie | Versicherungsverlauf, Wartezeit, Entgeltpunkte, Rentenbeginn, Bescheidfehler und Widerspruchsfrist nach SGB VI nachrechnen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Private und betriebliche Ebene | Versicherungsverlauf, Wartezeit, Entgeltpunkte, Rentenbeginn, Bescheidfehler und Widerspruchsfrist nach SGB VI nachrechnen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Rechtsweg | Versicherungsverlauf, Wartezeit, Entgeltpunkte, Rentenbeginn, Bescheidfehler und Widerspruchsfrist nach SGB VI nachrechnen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Rentenauftrag | Rentenart, Rentenbeginn, Zielmonat, Bescheidstand, Frist und gewünschtes Arbeitsprodukt bestimmen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Versicherungsverlauf | Monate, Lücken, Kindererziehung, Pflege, Arbeitslosigkeit, Minijob, Ausland und Nachversicherung tabellarisch klären. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Anspruch und Höhe | Wartezeit, Entgeltpunkte, Abschläge, Zuschläge, Hinzuverdienst, Kranken- und Pflegeversicherung getrennt rechnen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Hinterbliebene und Familie | Ehezeit, Sterbevierteljahr, große oder kleine Witwenrente, Waisenrente und Einkommensanrechnung prüfen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Private und betriebliche Ebene | Riester, Basisrente, Direktversicherung, VBL, Unterstützungskasse und Kapitalwahlrechte in die Nettobetrachtung einbauen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Rechtsweg | Bescheidfehler, Widerspruch, Klage, Beweisnot, Auskunftsantrag und Nachzahlungsstrategie ausformulieren. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
 
 ## 6. Anker
 

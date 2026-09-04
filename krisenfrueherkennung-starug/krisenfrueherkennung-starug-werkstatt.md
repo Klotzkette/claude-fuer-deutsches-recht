@@ -79,7 +79,7 @@ Arbeitsgriff Arbeitsprodukt: Prognosevermerk, StaRUG-Anzeige, Planentwurf, Gläu
 | --- | --- | --- | --- |
 | Fallkern | Cross-Class-Cram-Down und Rangfolge nach dem StaRUG | StaRUG Paragraf 1 | Sofortvermerk mit Ergebnisrichtung, Risiko und nächstem Schritt |
 | Zulässigkeit und Frist | Frist, Form, Zuständigkeit, Rolle und statthafter Weg | InsO Paragraf 15a und Paragraf 15b | Fristenblatt oder Prozess-/Verfahrensroute |
-| Begründetheit | Stabilisierungsanordnung nach Paragrafen 49 bis 59 StaRUG | InsO Paragraf 15a und Paragraf 15b | Tatbestandsmatrix mit Beleg und Gegenargument |
+| Begründetheit | Fortbestehensprognose — Zweistufiges Modell nach IDW S 11 | InsO Paragraf 15a und Paragraf 15b | Tatbestandsmatrix mit Beleg und Gegenargument |
 | Rechtsfolge | Prognosevermerk, StaRUG-Anzeige, Planentwurf, Gläubigerkommunikation oder Gremienvorlage ausformulieren | Nachweisachse Prognose: Fortbestehensprognose mit Planungsrechnung, Prämissen und Dokumentation belastbar machen | Antrag, Entwurf, Entscheidungsvorschlag oder Mandantenbrief |
 
 ## 5. Normenanker, Tatbestandswichtigkeiten und Beweislast
@@ -98,11 +98,11 @@ Arbeitsgriff Arbeitsprodukt: Prognosevermerk, StaRUG-Anzeige, Planentwurf, Gläu
 
 | Rechtsprechungsanker | Quellenstatus | Nutzwert im Fall |
 | --- | --- | --- |
+| BGH, Urteil vom 23.01.2025 - IX ZR 229/22 | Profilanker; vor Zitierung am Aktenstand oder an belastbarer Quelle sichern | Streitige nicht titulierte Verbindlichkeiten richten sich nach der objektiven Rechtslage. Ein vorläufig vollstreckbarer Titel ist zum Nennwert zu berücksichtigen, wenn Vollstreckungsvoraussetzungen vorliegen und der Gläubiger die Vollstreckung eingeleitet hat; kein Abschlag nach Prozessrisiko |
 | BGH, Urteil vom 24.05.2005 - IX ZR 123/04 | Profilanker; vor Zitierung am Aktenstand oder an belastbarer Quelle sichern | Eine Liquiditätslücke von zehn Prozent oder mehr spricht regelmäßig für Zahlungsunfähigkeit; eine bloße Zahlungsstockung setzt eine nahezu vollständige Schließung binnen drei Wochen voraus |
 | BGH, Urteil vom 19.12.2017 - II ZR 88/16 | Profilanker; vor Zitierung am Aktenstand oder an belastbarer Quelle sichern | In den Liquiditätsstatus gehören auch die binnen drei Wochen fällig werdenden und eingeforderten Verbindlichkeiten; ein Geschäftsführer darf buchhalterisch ausgewiesene Passiva nicht pauschal bestreiten |
 | BGH, Urteil vom 06.05.2021 - IX ZR 72/20 | Profilanker; vor Zitierung am Aktenstand oder an belastbarer Quelle sichern | Erkannte Zahlungsunfähigkeit allein beweist den Benachteiligungsvorsatz nicht; erforderlich ist die Kenntnis oder Billigung, die übrigen Gläubiger auch künftig nicht vollständig befriedigen zu können |
 | BGH, Urteil vom 10.02.2022 - IX ZR 148/19 | Profilanker; vor Zitierung am Aktenstand oder an belastbarer Quelle sichern | Dauerhaft schleppendes Zahlen belegt keine spätere Zahlungseinstellung, wenn dieses Verhalten schon in einer unstreitig zahlungsfähigen Zeit bestand; die Fortdauervermutung verlangt belastbaren Vortrag |
-| BGH, Urteil vom 12.02.2015 - IX ZR 180/12 | Profilanker; vor Zitierung am Aktenstand oder an belastbarer Quelle sichern | Ein unmittelbarer, gleichwertiger und für die Fortführung nützlicher Leistungsaustausch kann das Vorsatzindiz schwächen; erweiterter Eigentumsvorbehalt oder erkannte verlustreiche Fortführung sprechen dagegen |
 - Rechtsfolge zuerst als Arbeitsprodukt denken: Prognosevermerk, StaRUG-Anzeige, Planentwurf, Gläubigerkommunikation oder Gremienvorlage ausformulieren
 - Quellenstatus immer sichtbar machen: Aktenfund, Normtext, Profilanker, gesicherte Rechtsprechung oder offene Prüfung.
 
@@ -125,13 +125,11 @@ Arbeitsgriff Arbeitsprodukt: Prognosevermerk, StaRUG-Anzeige, Planentwurf, Gläu
 
 ## 8. Leitentscheidungen
 
+- BGH, Urteil vom 23.01.2025 - IX ZR 229/22: Streitige nicht titulierte Verbindlichkeiten richten sich nach der objektiven Rechtslage. Ein vorläufig vollstreckbarer Titel ist zum Nennwert zu berücksichtigen, wenn Vollstreckungsvoraussetzungen vorliegen und der Gläubiger die Vollstreckung eingeleitet hat; kein Abschlag nach Prozessrisiko.
 - BGH, Urteil vom 24.05.2005 - IX ZR 123/04: Eine Liquiditätslücke von zehn Prozent oder mehr spricht regelmäßig für Zahlungsunfähigkeit; eine bloße Zahlungsstockung setzt eine nahezu vollständige Schließung binnen drei Wochen voraus.
 - BGH, Urteil vom 19.12.2017 - II ZR 88/16: In den Liquiditätsstatus gehören auch die binnen drei Wochen fällig werdenden und eingeforderten Verbindlichkeiten; ein Geschäftsführer darf buchhalterisch ausgewiesene Passiva nicht pauschal bestreiten.
 - BGH, Urteil vom 06.05.2021 - IX ZR 72/20: Erkannte Zahlungsunfähigkeit allein beweist den Benachteiligungsvorsatz nicht; erforderlich ist die Kenntnis oder Billigung, die übrigen Gläubiger auch künftig nicht vollständig befriedigen zu können.
 - BGH, Urteil vom 10.02.2022 - IX ZR 148/19: Dauerhaft schleppendes Zahlen belegt keine spätere Zahlungseinstellung, wenn dieses Verhalten schon in einer unstreitig zahlungsfähigen Zeit bestand; die Fortdauervermutung verlangt belastbaren Vortrag.
-- BGH, Urteil vom 12.02.2015 - IX ZR 180/12: Ein unmittelbarer, gleichwertiger und für die Fortführung nützlicher Leistungsaustausch kann das Vorsatzindiz schwächen; erweiterter Eigentumsvorbehalt oder erkannte verlustreiche Fortführung sprechen dagegen.
-- BGH IV ZR 66/25 vom 19.11.2025 — D&O-Versicherung: Wissentlichkeitsausschluss erfordert positive Kenntnis pro Pflichtverletzung; Paragraf 15a / Paragraf 15b InsO nicht koppelbar. Stärkt die Deckungsposition des GF und des Insolvenzverwalters.
-- BGH, Urteil vom 23. Januar 2025, IX ZR 229/22.
 
 ## 9. Prüfraster
 
@@ -153,7 +151,7 @@ Arbeitsgriff Arbeitsprodukt: Prognosevermerk, StaRUG-Anzeige, Planentwurf, Gläu
 10.6. Gegenposition: Formuliere den stärksten ernsthaften Angriff; hier setzt die Gegenseite typischerweise bei tragen Planungsrechnung und Prämissen die Fortbestehensprognose an.
 10.7. Erwiderung: Antworte mit konkretem Gegenbeleg, Auslegung oder Beweislastregel und ziehe die Folge auf Prognosevermerk, StaRUG-Anzeige, Planentwurf, Gläubigerkommunikation oder Gremienvorlage ausformulieren; ein bloßes Bestreiten genügt nicht.
 10.8. Arbeitsprodukt: Schließe mit Antrag, Tenor, Klausel, Entscheidung oder nächstem Schritt; hier typischerweise Prognosevermerk: Stichtag, Planungshorizont, Prämissen, Liquiditätsverlauf, Ergebnis, Dokumentation; Planbaustein: Gruppe, Eingriff, Begründung, Vergleichsrechnung, Abstimmungsergebnis.
-10.9. Quellenstatus: Ordne Rechtsprechung nach Tragweite ein; erste Fallanker sind BGH, Urteil vom 24.05.2005 - IX ZR 123/04; BGH, Urteil vom 19.12.2017 - II ZR 88/16.
+10.9. Quellenstatus: Ordne Rechtsprechung nach Tragweite ein; erste Fallanker sind BGH, Urteil vom 23.01.2025 - IX ZR 229/22; BGH, Urteil vom 24.05.2005 - IX ZR 123/04.
 
 ## 11. Outputvarianten und Empfängerwunsch
 
@@ -188,14 +186,14 @@ Die Landkarte dient der schnellen Auswahl. Sie ersetzt nicht die darunter ausfor
 | Arbeitsfeld | Entscheidende Weiche | Erstes Lieferstück |
 | --- | --- | --- |
 | Cross-Class-Cram-Down und Rangfolge nach dem StaRUG | Prüfe, ob die fehlende Zustimmung einer Abstimmungsgruppe nach Paragraf 26 StaRUG ersetzt werden kann. | Fachvotum zu Cross-Class-Cram-Down und Rangfolge nach dem StaRUG mit Tatbestandsmerkmalen, Aktenfundstellen, Beweislast, stärkster Gegenposition, Risiko und ausformulierter. |
-| Stabilisierungsanordnung nach Paragrafen 49 bis 59 StaRUG | Vor Inanspruchnahme der Stabilisierung muss das Restrukturierungsvorhaben nach Paragraf 31 StaRUG beim zuständigen Restrukturierungsgericht angezeigt sein. Paragraf 29 StaRUG bezeichnet die verfügbaren Instrumente. | Fachvotum zu Stabilisierungsanordnung nach Paragrafen 49 bis 59 StaRUG mit Tatbestandsmerkmalen, Aktenfundstellen, Beweislast, stärkster Gegenposition, Risiko und ausformulierter. |
-| Fortbestehensprognose — Zweistufiges Modell nach IDW S 11 | Bearbeite Fortbestehensprognose — Zweistufiges Modell nach IDW S 11 entlang der Sanierung, StaRUG und Krisenfrüherkennung-Prüflinie: Prognose: Fortbestehensprognose mit Planungsrechnung, Prämissen und Dokumentation. | Fachvotum zu Fortbestehensprognose — Zweistufiges Modell nach IDW S 11 mit Tatbestandsmerkmalen, Aktenfundstellen, Beweislast, stärkster Gegenposition, Risiko und ausformulierter. |
+| Fortbestehensprognose — Zweistufiges Modell nach IDW S 11 | Bearbeite Fortbestehensprognose — Zweistufiges Modell nach IDW S 11: liquiditätsstatus, Fälligkeit, Fortbestehensprognose, Antragspflicht, Beweislast und Sanierungsoption in einer Entscheidungslinie ordnen. | Fachvotum zu Fortbestehensprognose — Zweistufiges Modell nach IDW S 11 mit Tatbestandsmerkmalen, Aktenfundstellen, Beweislast, stärkster Gegenposition, Risiko und ausformulierter. |
 | Kennzahlenset und Ampelsystem — StaRUG-konform | Das StaRUG-konforme KPI-Set verbindet betriebswirtschaftliche Standardkennzahlen mit klaren, numerisch definierten Auslösern — so dass jeder Geschäftsführer und jeder Berater sofort erkennt: Grün ist alles in Ordnung. | Fachvotum zu Kennzahlenset und Ampelsystem — StaRUG-konform mit Tatbestandsmerkmalen, Aktenfundstellen, Beweislast, stärkster Gegenposition, Risiko und ausformulierter Rechtsfolge |
 | Frühwarnsystem-Architektur mit Zwei-Jahres-Horizont | Ein Frühwarnsystem nach Paragraf 1 StaRUG ist kein Excel-Sheet in einer Schublade — es ist eine lebende Governance-Struktur. Paragraf 1 StaRUG (Krisenfrüherkennungspflicht). | Fachvotum zu Frühwarnsystem-Architektur mit Zwei-Jahres-Horizont mit Tatbestandsmerkmalen, Aktenfundstellen, Beweislast, stärkster Gegenposition, Risiko und ausformulierter. |
-| Paragraf 1 StaRUG und die 24-Monats-Prognose richtig verbinden | Prüfe, welche Überwachungs-, Reaktions- und Berichtspflichten die Geschäftsleitung nach Paragraf 1 StaRUG treffen. Inhaltlich gilt: Paragraf 1 StaRUG nennt keinen festen 24-Monats-Zeitraum. | Fachvotum zu Paragraf 1 StaRUG und die 24-Monats-Prognose richtig verbinden mit Tatbestandsmerkmalen, Aktenfundstellen, Beweislast, stärkster Gegenposition, Risiko. |
+| Stabilisierungsanordnung nach Paragrafen 49 bis 59 StaRUG | Vor Inanspruchnahme der Stabilisierung muss das Restrukturierungsvorhaben nach Paragraf 31 StaRUG beim zuständigen Restrukturierungsgericht angezeigt sein. Paragraf 29 StaRUG bezeichnet die verfügbaren Instrumente. | Fachvotum zu Stabilisierungsanordnung nach Paragrafen 49 bis 59 StaRUG mit Tatbestandsmerkmalen, Aktenfundstellen, Beweislast, stärkster Gegenposition, Risiko und ausformulierter. |
 | Drohende Zahlungsunfähigkeit nach Paragraf 18 InsO | Bestimme stichtagsbezogen, ob der Schuldner heute zahlungsfähig ist und voraussichtlich seine bestehenden Zahlungspflichten bei Fälligkeit erfüllen kann. | Fachvotum zu Drohende Zahlungsunfähigkeit nach Paragraf 18 InsO mit Tatbestandsmerkmalen, Aktenfundstellen, Beweislast, stärkster Gegenposition, Risiko und ausformulierter. |
-| Krisenmandat sofort belastbar starten | Sichere sichtbare Fristen, Kontostände, Fälligkeiten, Vollstreckungen und Organtermine. Bestimme den Stichtag und trenne sichere Tatsachen, streitige Positionen, Annahmen und fehlende Belege. | verhandlungsfähige Fassung mit Ausgangstext, Änderung, Begründung, Rückfallposition und Vollzugscheck |
 | Krisenstadien-Diagnostik — IDW S 6 Stadienlehre | Die Stadienlehre des IDW S 6 ist mehr als ein akademisches Ordnungsraster. Sie ist das Diagnose-Werkzeug, das den Zeitpunkt der Krisenintervention bestimmt — und damit auch den Zeitpunkt, ab dem Paragraf 1 StaRUG. | Fachvotum zu Krisenstadien-Diagnostik — IDW S 6 Stadienlehre mit Tatbestandsmerkmalen, Aktenfundstellen, Beweislast, stärkster Gegenposition, Risiko und ausformulierter Rechtsfolge |
+| Paragraf 1 StaRUG und die 24-Monats-Prognose richtig verbinden | Prüfe, welche Überwachungs-, Reaktions- und Berichtspflichten die Geschäftsleitung nach Paragraf 1 StaRUG treffen. Inhaltlich gilt: Paragraf 1 StaRUG nennt keinen festen 24-Monats-Zeitraum. | Fachvotum zu Paragraf 1 StaRUG und die 24-Monats-Prognose richtig verbinden mit Tatbestandsmerkmalen, Aktenfundstellen, Beweislast, stärkster Gegenposition, Risiko. |
+| Integrierte Planung — GuV, Bilanz und Cashflow | Wer nur eine GuV-Planung vorlegt, hat keinen Finanzplan. Das Drei-Statement-Modell verknüpft Gewinn- und Verlustrechnung, Bilanz und Kapitalflussrechnung zu einer konsistenten Planung, die jedem Anspruch — ob IDW S 6. | Fachvotum zu Integrierte Planung — GuV, Bilanz und Cashflow mit Tatbestandsmerkmalen, Aktenfundstellen, Beweislast, stärkster Gegenposition, Risiko und ausformulierter Rechtsfolge |
 
 ## 16. Fachspezifische Praxisrouten
 
@@ -207,72 +205,67 @@ Bearbeitungsauftrag: Prüfe, ob die fehlende Zustimmung einer Abstimmungsgruppe 
 Prüfschritte: Lies zuerst Plan, Anlagen, Abstimmungsdokumentation und Bewertungsunterlagen; Frage nur nach fehlenden Zahlen oder Belegen, die eine der gesetzlichen Voraussetzungen verändern; Liefere zuerst eine Tabelle mit diesen Spalten: Danach folgen nur die tragenden Rechenannahmen, die stärkste Gegenposition, die Beleglücken und der nächste gerichtliche Schritt.
 Lieferstück: Fachvotum zu Cross-Class-Cram-Down und Rangfolge nach dem StaRUG mit Tatbestandsmerkmalen, Aktenfundstellen, Beweislast, stärkster Gegenposition, Risiko und ausformulierter Rechtsfolge.
 
-### 16.2. Stabilisierungsanordnung nach Paragrafen 49 bis 59 StaRUG
+### 16.2. Fortbestehensprognose — Zweistufiges Modell nach IDW S 11
 
-Bearbeitungsauftrag: Vor Inanspruchnahme der Stabilisierung muss das Restrukturierungsvorhaben nach Paragraf 31 StaRUG beim zuständigen Restrukturierungsgericht angezeigt sein. Paragraf 29 StaRUG bezeichnet die verfügbaren Instrumente; er ist keine Anzeigevorschrift. Bezeichne nach Paragraf 50 Absatz 1 StaRUG.
-Prüfschritte: Prüfe, ob und gegen welche Gläubiger eine Vollstreckungs- oder Verwertungssperre benötigt wird; Lies zuerst Titel, Vollstreckungsankündigungen, Sicherheitenregister, Restrukturierungskonzept, Finanzplan und bisherige Gerichtsunterlagen; Liefere einen antragsreifen Kern mit genau bezeichnetem Adressatenkreis und Zeitraum; Bezeichne nach Paragraf 50 Absatz 1 StaRUG: 1; beantragte Vollstreckungs- oder Verwertungssperre,.
-Lieferstück: Fachvotum zu Stabilisierungsanordnung nach Paragrafen 49 bis 59 StaRUG mit Tatbestandsmerkmalen, Aktenfundstellen, Beweislast, stärkster Gegenposition, Risiko und ausformulierter Rechtsfolge.
-
-### 16.3. Fortbestehensprognose — Zweistufiges Modell nach IDW S 11
-
-Bearbeitungsauftrag: Bearbeite Fortbestehensprognose — Zweistufiges Modell nach IDW S 11 entlang der Sanierung, StaRUG und Krisenfrüherkennung-Prüflinie: Prognose: Fortbestehensprognose mit Planungsrechnung, Prämissen und Dokumentation belastbar machen.
+Bearbeitungsauftrag: Bearbeite Fortbestehensprognose — Zweistufiges Modell nach IDW S 11: liquiditätsstatus, Fälligkeit, Fortbestehensprognose, Antragspflicht, Beweislast und Sanierungsoption in einer Entscheidungslinie ordnen. Verbinde den konkreten Aktenfund mit Tatbestandsmerkmal, Gegenposition, Beweislast, Rechtsfolge und dem nächsten vollständig ausformulierten Arbeitsprodukt. Fachstation: Prognose: Fortbestehensprognose mit Planungsrechnung, Prämissen und Dokumentation belastbar machen.
 Prüfschritte: Paragraf 19 Absatz 2 InsO lässt bei positiver Fortführungsprognose Fortführungswerte in der Überschuldungsbilanz zu — was den Unterschied zwischen "noch sanierbar" und "Antragspflicht ausgelöst" machen kann; IDW S 11 formalisiert diesen Prüfungsprozess zweistufig; Wer die Fortbestehensprognose nicht aktuell und dokumentiert hält, riskiert die persönliche Haftung — auch wenn das Unternehmen de facto noch fortgeführt werden könnte; Paragraf 19 InsO (Überschuldung als Insolvenzgrund); Prognosezeitraum 12 Monate seit 01.01.2024 (SanInsKG-Verkürzung auf 4 Monate endete 31.12.2023).
-Norm- oder Entscheidungsbezug aus dem Fachmaterial: Paragraf 19 Absatz 2 InsO lässt bei positiver Fortführungsprognose Fortführungswerte in der Überschuldungsbilanz zu — was den Unterschied zwischen "noch sanierbar" und "Antragspflicht ausgelöst" machen kann; IDW S 11 formalisiert diesen Prüfungsprozess zweistufig.
 Lieferstück: Fachvotum zu Fortbestehensprognose — Zweistufiges Modell nach IDW S 11 mit Tatbestandsmerkmalen, Aktenfundstellen, Beweislast, stärkster Gegenposition, Risiko und ausformulierter Rechtsfolge.
 
-### 16.4. Kennzahlenset und Ampelsystem — StaRUG-konform
+### 16.3. Kennzahlenset und Ampelsystem — StaRUG-konform
 
 Bearbeitungsauftrag: Das StaRUG-konforme KPI-Set verbindet betriebswirtschaftliche Standardkennzahlen mit klaren, numerisch definierten Auslösern — so dass jeder Geschäftsführer und jeder Berater sofort erkennt: Grün ist alles in Ordnung, Gelb ist Handlungsbedarf, Rot ist Krisenalarm. Paragraf 1 StaRUG (Früherkennungspflicht mit KPI-basierter Überwachung). Paragraf 18 InsO (drohende Zahlungsunfähigkeit — Liquiditätsreichweite als Schlüsselindikator).
 Prüfschritte: Ein Ampelsystem ohne kalibrierte Schwellenwerte ist eine Farbenspielerei ohne Steuerungsnutzen; (Risikobewertung, Schwellenwerte, Eskalationsstufen).
 Lieferstück: Fachvotum zu Kennzahlenset und Ampelsystem — StaRUG-konform mit Tatbestandsmerkmalen, Aktenfundstellen, Beweislast, stärkster Gegenposition, Risiko und ausformulierter Rechtsfolge.
 
-### 16.5. Frühwarnsystem-Architektur mit Zwei-Jahres-Horizont
+### 16.4. Frühwarnsystem-Architektur mit Zwei-Jahres-Horizont
 
 Bearbeitungsauftrag: Ein Frühwarnsystem nach Paragraf 1 StaRUG ist kein Excel-Sheet in einer Schublade — es ist eine lebende Governance-Struktur. Paragraf 1 StaRUG (Krisenfrüherkennungspflicht). Paragraf 91 Absatz 2 AktG (Risikoüberwachungssystem für AG).
 Prüfschritte: Wer diesen Rahmen nicht in die operative Unternehmenssteuerung integriert, erfüllt die gesetzliche Pflicht nur auf dem Papier — und steht im Haftungsfall ohne belastbaren Nachweis da.
-Norm- oder Entscheidungsbezug aus dem Fachmaterial: Ein Frühwarnsystem nach Paragraf 1 StaRUG ist kein Excel-Sheet in einer Schublade — es ist eine lebende Governance-Struktur.
+Normbezug aus dem Fachmaterial: Ein Frühwarnsystem nach Paragraf 1 StaRUG ist kein Excel-Sheet in einer Schublade — es ist eine lebende Governance-Struktur.
 Lieferstück: Fachvotum zu Frühwarnsystem-Architektur mit Zwei-Jahres-Horizont mit Tatbestandsmerkmalen, Aktenfundstellen, Beweislast, stärkster Gegenposition, Risiko und ausformulierter Rechtsfolge.
 
-### 16.6. Paragraf 1 StaRUG und die 24-Monats-Prognose richtig verbinden
+### 16.5. Stabilisierungsanordnung nach Paragrafen 49 bis 59 StaRUG
 
-Bearbeitungsauftrag: Prüfe, welche Überwachungs-, Reaktions- und Berichtspflichten die Geschäftsleitung nach Paragraf 1 StaRUG treffen. Inhaltlich gilt: Paragraf 1 StaRUG nennt keinen festen 24-Monats-Zeitraum. Dieser Zeitraum folgt aus Paragraf 18 Absatz 2 InsO.
-Prüfschritte: Beurteile getrennt, ob für die Prüfung drohender Zahlungsunfähigkeit nach Paragraf 18 Absatz 2 InsO eine regelmäßig 24 Monate umfassende Liquiditätsprognose erforderlich ist.
-Norm- oder Entscheidungsbezug aus dem Fachmaterial: Trenne die fortlaufende Krisenfrüherkennungs- und Reaktionspflicht nach Paragraf 1 StaRUG sauber von der regelmäßigen 24-Monats-Prognose nach Paragraf 18 Absatz 2 InsO; Beurteile getrennt, ob für die Prüfung drohender Zahlungsunfähigkeit nach Paragraf 18 Absatz 2 InsO eine regelmäßig 24 Monate umfassende Liquiditätsprognose erforderlich ist.
-Lieferstück: Fachvotum zu Paragraf 1 StaRUG und die 24-Monats-Prognose richtig verbinden mit Tatbestandsmerkmalen, Aktenfundstellen, Beweislast, stärkster Gegenposition, Risiko und ausformulierter Rechtsfolge.
+Bearbeitungsauftrag: Vor Inanspruchnahme der Stabilisierung muss das Restrukturierungsvorhaben nach Paragraf 31 StaRUG beim zuständigen Restrukturierungsgericht angezeigt sein. Paragraf 29 StaRUG bezeichnet die verfügbaren Instrumente; er ist keine Anzeigevorschrift. Bezeichne nach Paragraf 50 Absatz 1 StaRUG.
+Lieferstück: Fachvotum zu Stabilisierungsanordnung nach Paragrafen 49 bis 59 StaRUG mit Tatbestandsmerkmalen, Aktenfundstellen, Beweislast, stärkster Gegenposition, Risiko und ausformulierter Rechtsfolge.
 
-### 16.7. Drohende Zahlungsunfähigkeit nach Paragraf 18 InsO
+### 16.6. Drohende Zahlungsunfähigkeit nach Paragraf 18 InsO
 
 Bearbeitungsauftrag: Bestimme stichtagsbezogen, ob der Schuldner heute zahlungsfähig ist und voraussichtlich seine bestehenden Zahlungspflichten bei Fälligkeit erfüllen kann. Trenne aktuelle Zahlungsunfähigkeit, drohende Zahlungsunfähigkeit und Überschuldung in drei eigenständigen Prüfungen. Drohende Zahlungsunfähigkeit liegt vor, wenn der Schuldner voraussichtlich nicht in der Lage sein wird, die bestehenden Zahlungspflichten im Zeitpunkt ihrer Fälligkeit zu erfüllen.
 Prüfschritte: Lies zuerst Bankstände, OPOS, Verträge, Titel, Vollstreckungsunterlagen, Kreditlinien und Planungsdateien; Liefere einen vorläufigen Status aus den vorhandenen Belegen, bevor du Rückfragen stellst; In aller Regel ist ein Prognosezeitraum von 24 Monaten zugrunde zu legen.
-Norm- oder Entscheidungsbezug aus dem Fachmaterial: Prüfe drohende Zahlungsunfähigkeit nach Paragraf 18 InsO aus Liquiditätsstatus, Fälligkeiten und regelmäßig 24-monatiger Prognose.
+Normbezug aus dem Fachmaterial: Prüfe drohende Zahlungsunfähigkeit nach Paragraf 18 InsO aus Liquiditätsstatus, Fälligkeiten und regelmäßig 24-monatiger Prognose.
 Lieferstück: Fachvotum zu Drohende Zahlungsunfähigkeit nach Paragraf 18 InsO mit Tatbestandsmerkmalen, Aktenfundstellen, Beweislast, stärkster Gegenposition, Risiko und ausformulierter Rechtsfolge.
 
-### 16.8. Krisenmandat sofort belastbar starten
-
-Bearbeitungsauftrag: Sichere sichtbare Fristen, Kontostände, Fälligkeiten, Vollstreckungen und Organtermine. Bestimme den Stichtag und trenne sichere Tatsachen, streitige Positionen, Annahmen und fehlende Belege. Ordne den Fall getrennt nach Zahlungsunfähigkeit, Überschuldung, drohender Zahlungsunfähigkeit und bestandsgefährdender Entwicklung ein.
-Prüfschritte: Erfasse zuerst Dateinamen, Änderungsdatum, Dokumentart und Stichtagsbezug; Öffne im ersten Durchgang höchstens fünf tragende Quellen: aktuellen Liquiditätsstatus oder Kontostand, OPOS- oder Fälligkeitsliste, Finanzierungsstand, Vollstreckungs- oder Mahnstück und jüngsten Organbeschluss; Weitere Tabellen, Nachrichten und Planungsstände folgen nur für eine benannte Bilanz-, Prognose- oder Beleglücke; Beginne trotzdem nicht mit einer Inventarliste und frage keine Angaben erneut ab, die sich aus dem Material ergeben.
-Lieferstück: verhandlungsfähige Fassung mit Ausgangstext, Änderung, Begründung, Rückfallposition und Vollzugscheck.
-
-### 16.9. Krisenstadien-Diagnostik — IDW S 6 Stadienlehre
+### 16.7. Krisenstadien-Diagnostik — IDW S 6 Stadienlehre
 
 Bearbeitungsauftrag: Die Stadienlehre des IDW S 6 ist mehr als ein akademisches Ordnungsraster. Sie ist das Diagnose-Werkzeug, das den Zeitpunkt der Krisenintervention bestimmt — und damit auch den Zeitpunkt, ab dem Paragraf 1 StaRUG greift, ab dem Berater warnen müssen und ab dem der Geschäftsführer sein Pflichtenprofil neu kalibrieren muss. Wer das Stadium falsch einschätzt, handelt zu spät — und verliert den Zugang zu den effektiven Sanierungswerkzeugkästen.
-Norm- oder Entscheidungsbezug aus dem Fachmaterial: Sie ist das Diagnose-Werkzeug, das den Zeitpunkt der Krisenintervention bestimmt — und damit auch den Zeitpunkt, ab dem Paragraf 1 StaRUG greift, ab dem Berater warnen müssen und ab.
+Normbezug aus dem Fachmaterial: Sie ist das Diagnose-Werkzeug, das den Zeitpunkt der Krisenintervention bestimmt — und damit auch den Zeitpunkt, ab dem Paragraf 1 StaRUG greift, ab dem Berater warnen müssen und ab.
 Lieferstück: Fachvotum zu Krisenstadien-Diagnostik — IDW S 6 Stadienlehre mit Tatbestandsmerkmalen, Aktenfundstellen, Beweislast, stärkster Gegenposition, Risiko und ausformulierter Rechtsfolge.
 
-### 16.10. Restrukturierungsplan-Architektur
+### 16.8. Paragraf 1 StaRUG und die 24-Monats-Prognose richtig verbinden
 
-Bearbeitungsauftrag: Erstelle oder prüfe einen Restrukturierungsplan vom gestaltbaren Rechtsverhältnis bis zum Vollzug. Prüfe Paragrafen 2 und 3 StaRUG rechtsverhältnisbezogen. Bei gegenseitigen Verträgen ist eine Forderung nur insoweit gestaltbar, als die Gegenleistung bereits erbracht ist.
-Prüfschritte: Beginne mit dem vorhandenen Plan, Datenraum und Finanzmodell; Liefere zuerst die Planlücken, die Gruppen- und Stimmrechtslage sowie den nächsten entscheidungsreifen Baustein; frage nicht erneut nach Unterlagen, die bereits im Ordner liegen; Gestaltbar sind insbesondere Restrukturierungsforderungen, Absonderungsanwartschaften, bestimmte Bedingungen mehrseitiger Finanzierungsverhältnisse, Beteiligungsrechte und unter den Voraussetzungen des Gesetzes gruppeninterne Drittsicherheiten.
-Lieferstück: Fachvotum zu Restrukturierungsplan-Architektur mit Tatbestandsmerkmalen, Aktenfundstellen, Beweislast, stärkster Gegenposition, Risiko und ausformulierter Rechtsfolge.
+Bearbeitungsauftrag: Prüfe, welche Überwachungs-, Reaktions- und Berichtspflichten die Geschäftsleitung nach Paragraf 1 StaRUG treffen. Inhaltlich gilt: Paragraf 1 StaRUG nennt keinen festen 24-Monats-Zeitraum. Dieser Zeitraum folgt aus Paragraf 18 Absatz 2 InsO.
+Normbezug aus dem Fachmaterial: Trenne die fortlaufende Krisenfrüherkennungs- und Reaktionspflicht nach Paragraf 1 StaRUG sauber von der regelmäßigen 24-Monats-Prognose nach Paragraf 18 Absatz 2 InsO.
+Lieferstück: Fachvotum zu Paragraf 1 StaRUG und die 24-Monats-Prognose richtig verbinden mit Tatbestandsmerkmalen, Aktenfundstellen, Beweislast, stärkster Gegenposition, Risiko und ausformulierter Rechtsfolge.
 
-### 16.11. Integrierte Planung — GuV, Bilanz und Cashflow
+### 16.9. Integrierte Planung — GuV, Bilanz und Cashflow
 
 Bearbeitungsauftrag: Wer nur eine GuV-Planung vorlegt, hat keinen Finanzplan. Das Drei-Statement-Modell verknüpft Gewinn- und Verlustrechnung, Bilanz und Kapitalflussrechnung zu einer konsistenten Planung, die jedem Anspruch — ob IDW S 6, IDW S 11 oder Paragraf 1 StaRUG — standhält. Ohne diese Verknüpfung sind Restrukturierungskonzepte nicht belastbar und Fortführungsprognosen nicht fundiert.
 Lieferstück: Fachvotum zu Integrierte Planung — GuV, Bilanz und Cashflow mit Tatbestandsmerkmalen, Aktenfundstellen, Beweislast, stärkster Gegenposition, Risiko und ausformulierter Rechtsfolge.
 
-### 16.12. Rollierende Liquiditätsplanung für 24 Monate
+### 16.10. Rollierende Liquiditätsplanung für 24 Monate
 
 Bearbeitungsauftrag: Baue aus Kontoauszügen, OPOS, Verträgen, Titeln, Steuer- und Sozialversicherungsdaten sowie Finanzierungsunterlagen eine stichtagsbezogene Liquiditätsplanung. Erfasse Kasse, Bankguthaben und tatsächlich frei verfügbare Kreditlinien. Noch zu verhandelnde Finanzierung ist keine sichere Liquidität, sondern eine Maßnahme mit Eintrittswahrscheinlichkeit und Long-Stop-Datum.
 Prüfschritte: Verwende vorhandene Dateien zuerst; Fehlende Angaben werden als konkrete Nachforderung mit Auswirkung auf Status oder Prognose bezeichnet; Jede braucht eigenen Stichtag, eigenen Zweck und nachvollziehbare Quellen; Eine Linie ist nur verfügbar, wenn Ziehungsvoraussetzungen erfüllt sind und keine Kündigung, Sperre oder Covenant-Folge entgegensteht.
-Norm- oder Entscheidungsbezug aus dem Fachmaterial: Erstelle eine rollierende Liquiditätsplanung für Status, Drei-Wochen-Sicht, 13-Wochen-Steuerung und die regelmäßige 24-Monats-Prognose nach Paragraf 18 Absatz 2 InsO.
+Normbezug aus dem Fachmaterial: Erstelle eine rollierende Liquiditätsplanung für Status, Drei-Wochen-Sicht, 13-Wochen-Steuerung und die regelmäßige 24-Monats-Prognose nach Paragraf 18 Absatz 2 InsO.
 Lieferstück: Fachvotum zu Rollierende Liquiditätsplanung für 24 Monate mit Tatbestandsmerkmalen, Aktenfundstellen, Beweislast, stärkster Gegenposition, Risiko und ausformulierter Rechtsfolge.
+
+### 16.11. Dokumentationspflicht und Protokollierung — Beweissicherung für Haftungsprozesse
+
+Bearbeitungsauftrag: Prüfraster: Krisenprotokoll-Templates, Sitzungsvorlagen, Schriftformerfordernis, Beweissicherung für spätere Haftungsprozesse. Output Krisenprotokoll-Vorlage, Sitzungsprotokoll-Template, Dokumentations-Checkliste. Abgrenzung: GF-Haftung in der Krise detail siehe gf-haftung-paragraph-43-gmbhg-und-paragraph-93-aktg; Insolvenzantragspflicht siehe insolvenzantragspflicht-paragraph-15a-inso-und-drei-wochen-frist.
+Lieferstück: gewichtete Prüfmatrix mit Tatbestandsmerkmalen, Fundstellen, Gegenposition, Beweislast, Risiko und Empfehlung.
+
+### 16.12. Geschäftsführerhaftung — Paragraf 43 GmbHG und Paragraf 93 AktG in der Krise
+
+Bearbeitungsauftrag: Geschäftsführerhaftung bei Krisenversagen prüfe und begrenzen: GF oder Berater will Haftungsrisiken einschätzen und Enthaftungsstrategien entwickeln. Prüfraster: Business Judgment Rule in der Krise, Beweislastumkehr, Enthaftungsstrategien (BJR-Dokumentation, Sanierungsberater). Abgrenzung: Dokumentation siehe dokumentationspflicht-und-protokollierung-geschäftsführung; Insolvenzantragspflicht siehe insolvenzantragspflicht-paragraph-15a-inso-und-drei-wochen-frist.
+Lieferstück: gewichtete Prüfmatrix mit Tatbestandsmerkmalen, Fundstellen, Gegenposition, Beweislast, Risiko und Empfehlung.

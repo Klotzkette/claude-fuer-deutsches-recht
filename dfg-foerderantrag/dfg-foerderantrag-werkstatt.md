@@ -182,7 +182,7 @@ Die Landkarte dient der schnellen Auswahl. Sie ersetzt nicht die darunter ausfor
 | Projektbeschreibung und Arbeitsprogramm | Die Projektbeschreibung ist das Herzstück jedes DFG-Antrags. Dieser Skill baut die Projektbeschreibung so, dass sie das wohlwollende Lesen begünstigt. | Teilbefund zu Projektbeschreibung und Arbeitsprogramm mit Leitfrage, Maßstab, belastbarer Quelle, Gegenhypothese, Unsicherheitsgrad und nächstem Arbeitsschritt |
 | Wiedereinreichung nach Ablehnung | Eine Ablehnung ist nicht das Ende, sondern Material. Die Gutachten enthalten typischerweise sehr konkrete Hinweise, wo der Antrag schwach war — und die Wiedereinreichung kann diese Hinweise produktiv nutzen. | Teilbefund zu Wiedereinreichung nach Ablehnung mit Leitfrage, Maßstab, belastbarer Quelle, Gegenhypothese, Unsicherheitsgrad und nächstem Arbeitsschritt |
 | Finanzplan und Module | Der Finanzplan ist ein wissenschaftliches Argument in Zahlen. Alte-Hasen-Faustregel: Personal ist immer der größte Block (typisch 60 bis 85 Prozent). | Teilbefund zu Finanzplan und Module mit Leitfrage, Maßstab, belastbarer Quelle, Gegenhypothese, Unsicherheitsgrad und nächstem Arbeitsschritt |
-| Zwischen- und Abschlussbericht | Bearbeite Zwischen- und Abschlussbericht entlang der Wissenschaftlicher Förderantrag und Begutachtungsverfahren-Prüflinie: Programmfit: Förderlinie, Antragsteller, Karrierephase, Thema, Laufzeit, Volumen, Einreichweg. | Teilbefund zu Zwischen- und Abschlussbericht mit Leitfrage, Maßstab, belastbarer Quelle, Gegenhypothese, Unsicherheitsgrad und nächstem Arbeitsschritt |
+| Zwischen- und Abschlussbericht | Bearbeite Zwischen- und Abschlussbericht als konkreten Vorgang im Gebiet Wissenschaftlicher Förderantrag und Begutachtungsverfahren. | Teilbefund zu Zwischen- und Abschlussbericht mit Leitfrage, Maßstab, belastbarer Quelle, Gegenhypothese, Unsicherheitsgrad und nächstem Arbeitsschritt |
 
 ## 16. Fachspezifische Praxisrouten
 
@@ -238,20 +238,20 @@ Lieferstück: Teilbefund zu Finanzplan und Module mit Leitfrage, Maßstab, belas
 
 ### 16.9. Zwischen- und Abschlussbericht
 
-Bearbeitungsauftrag: Bearbeite Zwischen- und Abschlussbericht entlang der Wissenschaftlicher Förderantrag und Begutachtungsverfahren-Prüflinie: Programmfit: Förderlinie, Antragsteller, Karrierephase, Thema, Laufzeit, Volumen, Einreichweg und formale Ausschlüsse. Bestimme zuständige Stelle, Pflichtigen, Auslöser, Frist und Pflichtfelder, führe jeden Eintrag auf einen Tatsachenbeleg zurück und liefere freigabefähige Meldung oder Bericht samt Übermittlungsnachweis, Korrekturweg und Anschlusskontrolle.
+Bearbeitungsauftrag: Bearbeite Zwischen- und Abschlussbericht als konkreten Vorgang im Gebiet Wissenschaftlicher Förderantrag und Begutachtungsverfahren. Bestimme zuständige Stelle, Pflichtigen, Auslöser, Frist und Pflichtfelder, führe jeden Eintrag auf einen Tatsachenbeleg zurück und liefere freigabefähige Meldung oder Bericht samt Übermittlungsnachweis, Korrekturweg und Anschlusskontrolle.
 Lieferstück: Teilbefund zu Zwischen- und Abschlussbericht mit Leitfrage, Maßstab, belastbarer Quelle, Gegenhypothese, Unsicherheitsgrad und nächstem Arbeitsschritt.
 
-### 16.10. DFG: Eigene Vorarbeiten
+### 16.10. DFG: Grossgeräte und Cluster
 
-Bearbeitungsauftrag: Bearbeite DFG: Eigene Vorarbeiten entlang der Wissenschaftlicher Förderantrag und Begutachtungsverfahren-Prüflinie: Erkenntnislogik: Forschungslücke, präzise Frage, Hypothese, Stand der Forschung, eigene Vorarbeiten und erwarteter Erkenntnisgewinn.
-Lieferstück: Teilbefund zu DFG: Eigene Vorarbeiten mit Leitfrage, Maßstab, belastbarer Quelle, Gegenhypothese, Unsicherheitsgrad und nächstem Arbeitsschritt.
-
-### 16.11. DFG: Grossgeräte und Cluster
-
-Bearbeitungsauftrag: Bearbeite DFG: Grossgeräte und Cluster entlang der Wissenschaftlicher Förderantrag und Begutachtungsverfahren-Prüflinie: Programmfit: Förderlinie, Antragsteller, Karrierephase, Thema, Laufzeit, Volumen, Einreichweg und formale Ausschlüsse.
+Bearbeitungsauftrag: Bearbeite DFG: Grossgeräte und Cluster entlang der Wissenschaftlicher Förderantrag und Begutachtungsverfahren-Prüflinie: Programmfit: Förderlinie, Antragsteller, Karrierephase, Thema, Laufzeit, Volumen, Einreichweg und formale Ausschlüsse feststellen.
 Lieferstück: Teilbefund zu DFG: Grossgeräte und Cluster mit Leitfrage, Maßstab, belastbarer Quelle, Gegenhypothese, Unsicherheitsgrad und nächstem Arbeitsschritt.
 
-### 16.12. DFG: Internationale Kooperation
+### 16.11. Grundsystem DFG-Förderlinien
 
-Bearbeitungsauftrag: Bearbeite DFG: Internationale Kooperation entlang der Wissenschaftlicher Förderantrag und Begutachtungsverfahren-Prüflinie: Programmfit: Förderlinie, Antragsteller, Karrierephase, Thema, Laufzeit, Volumen, Einreichweg und formale Ausschlüsse.
-Lieferstück: Teilbefund zu DFG: Internationale Kooperation mit Leitfrage, Maßstab, belastbarer Quelle, Gegenhypothese, Unsicherheitsgrad und nächstem Arbeitsschritt.
+Bearbeitungsauftrag: Bearbeite Grundsystem DFG-Förderlinien entlang der Wissenschaftlicher Förderantrag und Begutachtungsverfahren-Prüflinie: Programmfit: Förderlinie, Antragsteller, Karrierephase, Thema, Laufzeit, Volumen, Einreichweg und formale Ausschlüsse feststellen.
+Lieferstück: Teilbefund zu Grundsystem DFG-Förderlinien mit Leitfrage, Maßstab, belastbarer Quelle, Gegenhypothese, Unsicherheitsgrad und nächstem Arbeitsschritt.
+
+### 16.12. DFG: Eigene Vorarbeiten
+
+Bearbeitungsauftrag: Bearbeite DFG: Eigene Vorarbeiten als konkreten Vorgang im Gebiet Wissenschaftlicher Förderantrag und Begutachtungsverfahren.
+Lieferstück: Teilbefund zu DFG: Eigene Vorarbeiten mit Leitfrage, Maßstab, belastbarer Quelle, Gegenhypothese, Unsicherheitsgrad und nächstem Arbeitsschritt.

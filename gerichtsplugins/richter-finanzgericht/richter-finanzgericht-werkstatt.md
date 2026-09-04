@@ -109,9 +109,6 @@ Entscheidungsgriff Arbeitsprodukt: Eingangsverfügung, Aufklärungsanordnung, Au
 | --- | --- | --- |
 | BFH, Beschluss vom 11.09.2024 - XI B 18/24 | Profilanker; vor Zitierung am Aktenstand oder an belastbarer Quelle sichern | Akteneinsicht nach FGO Paragraf 78 bezieht sich auf die dem Gericht vorgelegten Akten; Beiziehung, Entscheidungserheblichkeit und Verfahrensrüge sind getrennt darzulegen |
 | BFH, Beschluss vom 13.12.2024 - IX B 101/24 | Profilanker; vor Zitierung am Aktenstand oder an belastbarer Quelle sichern | Über einen beim Finanzgericht gestellten Akteneinsichtsantrag ist auch nach Sachentscheidung zu befinden, solange das Verfahren nicht rechtskräftig abgeschlossen ist; der konkrete Rechtsbehelf bleibt gesondert zu prüfen |
-| BFH, Urteil vom 04.11.2021 - VI R 22/19, BStBl. II 2022, 562 | aus Skillmaterial extrahierter Anker; vor Zitierung am Aktenstand oder an belastbarer Quelle sichern | Doppelbesteuerungsabkommen begründen grundsätzlich keine Steuerpflicht, sondern begrenzen oder verteilen nationale Besteuerung |
-| BVerfG, Beschluss vom 08.07.2021 - 1 BvR 2237/14 und 1 BvR 2422/17, BVerfGE 158, 282 | aus Skillmaterial extrahierter Anker; vor Zitierung am Aktenstand oder an belastbarer Quelle sichern | Steuerliche Zinsen müssen realitätsgerecht und verhältnismäßig ausgestaltet sein |
-| EuGH, Urteil vom 06.07.2006 - C-439/04 und C-440/04, Kittel und Recolta Recycling | aus Skillmaterial extrahierter Anker; vor Zitierung am Aktenstand oder an belastbarer Quelle sichern | Vorsteuerabzug kann versagt werden, wenn der Steuerpflichtige wusste oder hätte wissen müssen, dass er in Umsatzsteuerbetrug einbezogen war |
 - Rechtsfolge zuerst als Arbeitsprodukt denken: Eingangsverfügung, Aufklärungsanordnung, Aussetzungsbeschluss, Hinweis, Gerichtsbescheid, Urteil oder Vergleichsvorschlag erstellen
 - Quellenstatus immer sichtbar machen: Aktenfund, Normtext, Profilanker, gesicherte Rechtsprechung oder offene Prüfung.
 
@@ -138,11 +135,6 @@ Entscheidungsgriff Arbeitsprodukt: Eingangsverfügung, Aufklärungsanordnung, Au
 
 - BFH, Beschluss vom 11.09.2024 - XI B 18/24: Akteneinsicht nach FGO Paragraf 78 bezieht sich auf die dem Gericht vorgelegten Akten; Beiziehung, Entscheidungserheblichkeit und Verfahrensrüge sind getrennt darzulegen.
 - BFH, Beschluss vom 13.12.2024 - IX B 101/24: Über einen beim Finanzgericht gestellten Akteneinsichtsantrag ist auch nach Sachentscheidung zu befinden, solange das Verfahren nicht rechtskräftig abgeschlossen ist; der konkrete Rechtsbehelf bleibt gesondert zu prüfen.
-- BFH, Urteil vom 04.11.2021 - VI R 22/19, BStBl. II 2022, 562: Doppelbesteuerungsabkommen begründen grundsätzlich keine Steuerpflicht, sondern begrenzen oder verteilen nationale Besteuerung.
-- BVerfG, Beschluss vom 08.07.2021 - 1 BvR 2237/14 und 1 BvR 2422/17, BVerfGE 158, 282: Steuerliche Zinsen müssen realitätsgerecht und verhältnismäßig ausgestaltet sein.
-- EuGH, Urteil vom 06.07.2006 - C-439/04 und C-440/04, Kittel und Recolta Recycling: Vorsteuerabzug kann versagt werden, wenn der Steuerpflichtige wusste oder hätte wissen müssen, dass er in Umsatzsteuerbetrug einbezogen war.
-- EuGH, Urteil vom 21.06.2012 - C-80/11 und C-142/11, Mahagében und Dávid: Redlichen Unternehmern dürfen keine überspannten Nachforschungspflichten auferlegt werden.
-- EuGH, Urteil vom 18.12.2014 - C-131/13, C-163/13 und C-164/13, Italmoda: Unionsrechtlich geprägte Steuerrechte können bei Beteiligung an Steuerbetrug versagt werden.
 
 ## 9. Prüfraster
 

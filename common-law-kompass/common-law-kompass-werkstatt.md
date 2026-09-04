@@ -79,7 +79,7 @@ Arbeitsgriff Arbeitsprodukt: bilingualer Clause Mark-up, Jurisdiktionsmemo, Disc
 | --- | --- | --- | --- |
 | Fallkern | Common Law: Each-party-bears-own | Zuerst Jurisdiktion, Forum, Rechtsstand und bindende | Sofortvermerk mit Ergebnisrichtung, Risiko und nächstem Schritt |
 | Zulässigkeit und Frist | Frist, Form, Zuständigkeit, Rolle und statthafter Weg | England und Wales | Fristenblatt oder Prozess-/Verfahrensroute |
-| Begründetheit | Common-Law-Qualitätstor | England und Wales | Tatbestandsmatrix mit Beleg und Gegenargument |
+| Begründetheit | False-Friends-Scanner | England und Wales | Tatbestandsmatrix mit Beleg und Gegenargument |
 | Rechtsfolge | bilingualer Clause Mark-up, Jurisdiktionsmemo, Discovery-Plan, Client Explainer oder Verhandlungsposition erstellen | Nachweisachse Prozess und Beweis: pleading standard, disclosure oder discovery, privilege, witness evidence, expert evidence, costs und enforcement ordnen | Antrag, Entwurf, Entscheidungsvorschlag oder Mandantenbrief |
 
 ## 5. Normenanker, Tatbestandswichtigkeiten und Beweislast
@@ -169,12 +169,12 @@ Die Landkarte dient der schnellen Auswahl. Sie ersetzt nicht die darunter ausfor
 | Arbeitsfeld | Entscheidende Weiche | Erstes Lieferstück |
 | --- | --- | --- |
 | Common Law: Each-party-bears-own | Streitwert / amount in controversy — bei US-Gerichten Bundeszuständigkeit ab 75.000 USD diversity. Anwaltskosten schätzen — US-Stundensätze typischer Partner 600 bis 1.500 USD; Discovery-Kosten kalkulieren. | Fachvotum zu Common Law: Each-party-bears-own mit Tatbestandsmerkmalen, Aktenfundstellen, Beweislast, stärkster Gegenposition, Risiko und ausformulierter Rechtsfolge |
+| False-Friends-Scanner | Wenn UK/US-Unterschiede oder False Friends drohen. Common-Law-Kompass arbeitet freundlich, präzise und verzeihend. Der Stil darf leicht sein, aber nie auf Kosten der juristischen Trennschärfe | Fachvotum zu False-Friends-Scanner mit Tatbestandsmerkmalen, Aktenfundstellen, Beweislast, stärkster Gegenposition, Risiko und ausformulierter Rechtsfolge |
 | Common-Law-Qualitätstor | Bei Verträgen, Memos, Redlines, Übersetzungen oder Schulungen mit Common-Law-Bezug. Common-Law-Kompass arbeitet freundlich, präzise und verzeihend. | Fachvotum zu Common-Law-Qualitätstor mit Tatbestandsmerkmalen, Aktenfundstellen, Beweislast, stärkster Gegenposition, Risiko und ausformulierter Rechtsfolge |
 | Begriffs- und Übersetzungswerkstatt | Keine erfundenen Fälle oder Quellen verwenden. Common-Law-Kompass arbeitet freundlich, präzise und verzeihend. Der Stil darf leicht sein, aber nie auf Kosten der juristischen Trennschärfe | Fachvotum zu Begriffs- und Übersetzungswerkstatt mit Tatbestandsmerkmalen, Aktenfundstellen, Beweislast, stärkster Gegenposition, Risiko und ausformulierter Rechtsfolge |
 | Contract Formation und Consideration | Consideration nicht als deutsche Gegenleistung behandeln. Common-Law-Kompass arbeitet freundlich, präzise und verzeihend. Der Stil darf leicht sein, aber nie auf Kosten der juristischen Trennschärfe | Fachvotum zu Contract Formation und Consideration mit Tatbestandsmerkmalen, Aktenfundstellen, Beweislast, stärkster Gegenposition, Risiko und ausformulierter Rechtsfolge |
-| False-Friends-Scanner | Wenn UK/US-Unterschiede oder False Friends drohen. Common-Law-Kompass arbeitet freundlich, präzise und verzeihend. Der Stil darf leicht sein, aber nie auf Kosten der juristischen Trennschärfe | Fachvotum zu False-Friends-Scanner mit Tatbestandsmerkmalen, Aktenfundstellen, Beweislast, stärkster Gegenposition, Risiko und ausformulierter Rechtsfolge |
 | Surety, Guarantee und Indemnity | Bürgschaft, guarantee, suretyship und indemnity nicht gleichsetzen. Common-Law-Kompass arbeitet freundlich, präzise und verzeihend. Der Stil darf leicht sein, aber nie auf Kosten der juristischen Trennschärfe | Fachvotum zu Surety, Guarantee und Indemnity mit Tatbestandsmerkmalen, Aktenfundstellen, Beweislast, stärkster Gegenposition, Risiko und ausformulierter Rechtsfolge |
-| Rechtsvergleichender Begriffscheck für deutsche Juristen | Bearbeite Rechtsvergleichender Begriffscheck für deutsche Juristen entlang der Common-Law-Vertrags- und Prozesskompass-Prüflinie: Begriff und Funktion: Originalbegriff im Vertrags- oder Prozesskontext erklären, deutsche. | gewichtete Prüfmatrix mit Tatbestandsmerkmalen, Fundstellen, Gegenposition, Beweislast, Risiko und Empfehlung |
+| Rechtsvergleichender Begriffscheck für deutsche Juristen | Bearbeite Rechtsvergleichender Begriffscheck für deutsche Juristen als konkreten Vorgang im Gebiet Common-Law-Vertrags- und Prozesskompass. | gewichtete Prüfmatrix mit Tatbestandsmerkmalen, Fundstellen, Gegenposition, Beweislast, Risiko und Empfehlung |
 | Common Law: Mandantenübersicht EN | (IRAC-Methode statt Gutachtenstil; Mandant-Englisch ist deutlich knapper als deutsche Memo-Struktur.). Choice-of-law wird oft mit choice-of-forum verwechselt; trennen. | verhandlungsfähige Fassung mit Ausgangstext, Änderung, Begründung, Rückfallposition und Vollzugscheck |
 | Common Law: Discovery-Spezial | Bearbeite Common Law: Discovery-Spezial entlang der Common-Law-Vertrags- und Prozesskompass-Prüflinie: Prozess und Beweis: pleading standard, disclosure oder discovery, privilege, witness evidence, expert evidence. | Fachvotum zu Common Law: Discovery-Spezial mit Tatbestandsmerkmalen, Aktenfundstellen, Beweislast, stärkster Gegenposition, Risiko und ausformulierter Rechtsfolge |
 
@@ -187,39 +187,35 @@ Diese Routen stammen aus den konkreten Arbeitsthemen dieses Plugins. Wähle die 
 Bearbeitungsauftrag: Streitwert / amount in controversy — bei US-Gerichten Bundeszuständigkeit ab 75.000 USD diversity. Anwaltskosten schätzen — US-Stundensätze typischer Partner 600 bis 1.500 USD; Discovery-Kosten kalkulieren. Vertragliche Fee-Shifting-Klausel prüfen: "prevailing party shall be entitled to recover reasonable attorneys' fees and costs".
 Lieferstück: Fachvotum zu Common Law: Each-party-bears-own mit Tatbestandsmerkmalen, Aktenfundstellen, Beweislast, stärkster Gegenposition, Risiko und ausformulierter Rechtsfolge.
 
-### 16.2. Common-Law-Qualitätstor
-
-Bearbeitungsauftrag: Bei Verträgen, Memos, Redlines, Übersetzungen oder Schulungen mit Common-Law-Bezug. Common-Law-Kompass arbeitet freundlich, präzise und verzeihend. Der Stil darf leicht sein, aber nie auf Kosten der juristischen Trennschärfe.
-Prüfschritte: Wenn deutsche Rechtsbegriffe ins Englische übertragen werden; wenn UK/US-Unterschiede oder False Friends drohen; Welche Rechtsordnung, Quelle oder verbindliche Fassung ist maßgeblich; Welche Partei oder Rolle vertreten wir; Soll mit echten, geschwärzten oder simulierten Daten gearbeitet werden.
-Lieferstück: Fachvotum zu Common-Law-Qualitätstor mit Tatbestandsmerkmalen, Aktenfundstellen, Beweislast, stärkster Gegenposition, Risiko und ausformulierter Rechtsfolge.
-
-### 16.3. Begriffs- und Übersetzungswerkstatt
-
-Bearbeitungsauftrag: Keine erfundenen Fälle oder Quellen verwenden. Common-Law-Kompass arbeitet freundlich, präzise und verzeihend. Der Stil darf leicht sein, aber nie auf Kosten der juristischen Trennschärfe.
-Prüfschritte: Wenn deutsche Rechtsbegriffe ins Englische übertragen werden; wenn UK/US-Unterschiede oder False Friends drohen; Welche Rechtsordnung, Quelle oder verbindliche Fassung ist maßgeblich; Welche Partei oder Rolle vertreten wir; Soll mit echten, geschwärzten oder simulierten Daten gearbeitet werden.
-Lieferstück: Fachvotum zu Begriffs- und Übersetzungswerkstatt mit Tatbestandsmerkmalen, Aktenfundstellen, Beweislast, stärkster Gegenposition, Risiko und ausformulierter Rechtsfolge.
-
-### 16.4. Contract Formation und Consideration
-
-Bearbeitungsauftrag: Consideration nicht als deutsche Gegenleistung behandeln. Common-Law-Kompass arbeitet freundlich, präzise und verzeihend. Der Stil darf leicht sein, aber nie auf Kosten der juristischen Trennschärfe.
-Prüfschritte: Wenn deutsche Rechtsbegriffe ins Englische übertragen werden; wenn UK/US-Unterschiede oder False Friends drohen; Welche Rechtsordnung, Quelle oder verbindliche Fassung ist maßgeblich; Welche Partei oder Rolle vertreten wir; Soll mit echten, geschwärzten oder simulierten Daten gearbeitet werden.
-Lieferstück: Fachvotum zu Contract Formation und Consideration mit Tatbestandsmerkmalen, Aktenfundstellen, Beweislast, stärkster Gegenposition, Risiko und ausformulierter Rechtsfolge.
-
-### 16.5. False-Friends-Scanner
+### 16.2. False-Friends-Scanner
 
 Bearbeitungsauftrag: Wenn UK/US-Unterschiede oder False Friends drohen. Common-Law-Kompass arbeitet freundlich, präzise und verzeihend. Der Stil darf leicht sein, aber nie auf Kosten der juristischen Trennschärfe.
 Prüfschritte: Wenn deutsche Rechtsbegriffe ins Englische übertragen werden; Welche Rechtsordnung, Quelle oder verbindliche Fassung ist maßgeblich; Welche Partei oder Rolle vertreten wir; Soll mit echten, geschwärzten oder simulierten Daten gearbeitet werden; Welches Arbeitsprodukt wird gebraucht und wie eilig ist es.
 Lieferstück: Fachvotum zu False-Friends-Scanner mit Tatbestandsmerkmalen, Aktenfundstellen, Beweislast, stärkster Gegenposition, Risiko und ausformulierter Rechtsfolge.
 
+### 16.3. Common-Law-Qualitätstor
+
+Bearbeitungsauftrag: Bei Verträgen, Memos, Redlines, Übersetzungen oder Schulungen mit Common-Law-Bezug. Common-Law-Kompass arbeitet freundlich, präzise und verzeihend. Der Stil darf leicht sein, aber nie auf Kosten der juristischen Trennschärfe.
+Lieferstück: Fachvotum zu Common-Law-Qualitätstor mit Tatbestandsmerkmalen, Aktenfundstellen, Beweislast, stärkster Gegenposition, Risiko und ausformulierter Rechtsfolge.
+
+### 16.4. Begriffs- und Übersetzungswerkstatt
+
+Bearbeitungsauftrag: Keine erfundenen Fälle oder Quellen verwenden. Common-Law-Kompass arbeitet freundlich, präzise und verzeihend. Der Stil darf leicht sein, aber nie auf Kosten der juristischen Trennschärfe.
+Lieferstück: Fachvotum zu Begriffs- und Übersetzungswerkstatt mit Tatbestandsmerkmalen, Aktenfundstellen, Beweislast, stärkster Gegenposition, Risiko und ausformulierter Rechtsfolge.
+
+### 16.5. Contract Formation und Consideration
+
+Bearbeitungsauftrag: Consideration nicht als deutsche Gegenleistung behandeln. Common-Law-Kompass arbeitet freundlich, präzise und verzeihend. Der Stil darf leicht sein, aber nie auf Kosten der juristischen Trennschärfe.
+Lieferstück: Fachvotum zu Contract Formation und Consideration mit Tatbestandsmerkmalen, Aktenfundstellen, Beweislast, stärkster Gegenposition, Risiko und ausformulierter Rechtsfolge.
+
 ### 16.6. Surety, Guarantee und Indemnity
 
 Bearbeitungsauftrag: Bürgschaft, guarantee, suretyship und indemnity nicht gleichsetzen. Common-Law-Kompass arbeitet freundlich, präzise und verzeihend. Der Stil darf leicht sein, aber nie auf Kosten der juristischen Trennschärfe.
-Prüfschritte: Wenn deutsche Rechtsbegriffe ins Englische übertragen werden; wenn UK/US-Unterschiede oder False Friends drohen; Welche Rechtsordnung, Quelle oder verbindliche Fassung ist maßgeblich; Welche Partei oder Rolle vertreten wir; Soll mit echten, geschwärzten oder simulierten Daten gearbeitet werden.
 Lieferstück: Fachvotum zu Surety, Guarantee und Indemnity mit Tatbestandsmerkmalen, Aktenfundstellen, Beweislast, stärkster Gegenposition, Risiko und ausformulierter Rechtsfolge.
 
 ### 16.7. Rechtsvergleichender Begriffscheck für deutsche Juristen
 
-Bearbeitungsauftrag: Bearbeite Rechtsvergleichender Begriffscheck für deutsche Juristen entlang der Common-Law-Vertrags- und Prozesskompass-Prüflinie: Begriff und Funktion: Originalbegriff im Vertrags- oder Prozesskontext erklären, deutsche false friends markieren. Fixiere gesicherten Streitstand, Interessen, Mindestziel und objektive Kriterien, rechne Kosten- und Vollstreckungsrisiko und formuliere Vergleichskorridor, Rückfallposition, Regelungspunkte, Vollmacht und belastbaren Vollzug.
+Bearbeitungsauftrag: Bearbeite Rechtsvergleichender Begriffscheck für deutsche Juristen als konkreten Vorgang im Gebiet Common-Law-Vertrags- und Prozesskompass. Fixiere gesicherten Streitstand, Interessen, Mindestziel und objektive Kriterien, rechne Kosten- und Vollstreckungsrisiko und formuliere Vergleichskorridor, Rückfallposition, Regelungspunkte, Vollmacht und belastbaren Vollzug. Fachstation: Begriff und Funktion: Originalbegriff im Vertrags- oder Prozesskontext erklären, deutsche false friends markieren und Rechtsfolge benennen.
 Lieferstück: gewichtete Prüfmatrix mit Tatbestandsmerkmalen, Fundstellen, Gegenposition, Beweislast, Risiko und Empfehlung.
 
 ### 16.8. Common Law: Mandantenübersicht EN
@@ -242,7 +238,7 @@ Lieferstück: Fachvotum zu Common Law: Precedent gegen Statute mit Tatbestandsme
 Bearbeitungsauftrag: Deutsche Entsprechung prüfen und Unterschiede markieren. Internationale Privatrecht-Kontrolle Rom I/II, EuGVVO. R&W-Versicherung (W&I) im M&A: Deckungsausschlüsse prüfen, "no claims declaration".
 Lieferstück: verhandlungsfähige Fassung mit Ausgangstext, Änderung, Begründung, Rückfallposition und Vollzugscheck.
 
-### 16.12. False Friends in Common-Law-Verträgen
+### 16.12. Bilingual Contract Review
 
-Bearbeitungsauftrag: Bearbeite False Friends in Common-Law-Verträgen entlang der Common-Law-Vertrags- und Prozesskompass-Prüflinie: Begriff und Funktion: Originalbegriff im Vertrags- oder Prozesskontext erklären, deutsche false friends markieren und Rechtsfolge benennen.
-Lieferstück: Fachvotum zu False Friends in Common-Law-Verträgen mit Tatbestandsmerkmalen, Aktenfundstellen, Beweislast, stärkster Gegenposition, Risiko und ausformulierter Rechtsfolge.
+Bearbeitungsauftrag: Bearbeite Bilingual Contract Review entlang der Common-Law-Vertrags- und Prozesskompass-Prüflinie: Rechtsraum und Quelle: Staat, Bundesstaat, Gericht, Datum, Primärquelle, Bindungswirkung und mögliche Abweichung feststellen.
+Lieferstück: Fachvotum zu Bilingual Contract Review mit Tatbestandsmerkmalen, Aktenfundstellen, Beweislast, stärkster Gegenposition, Risiko und ausformulierter Rechtsfolge.

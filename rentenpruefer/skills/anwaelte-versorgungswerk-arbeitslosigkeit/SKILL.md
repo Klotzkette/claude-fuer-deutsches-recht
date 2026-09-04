@@ -3,7 +3,7 @@ name: anwaelte-versorgungswerk-arbeitslosigkeit
 description: "Für anwaelte-versorgungswerk-spezial: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
-# anwaelte-versorgungswerk-spezial
+# Anwälte im Versorgungswerk
 
 ## Normenanker
 

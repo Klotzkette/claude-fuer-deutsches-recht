@@ -45,7 +45,7 @@ Ohne verwertbares Material genau eine gebündelte Frage zu Land, Kommune und Vor
 | --- | --- | --- |
 | Land, Kommune und Vorgang | Einschlägige Gemeindeordnung, Hauptsatzung, Geschäftsordnung, Organ, Zuständigkeit und Ziel feststellen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
 | Sitzung und Beschluss | Einladung, Frist, Tagesordnung, Öffentlichkeit, Befangenheit, Beschlussfähigkeit, Mehrheit und Niederschrift prüfen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Materielle Grundlage | Verwaltungsakt, Bekanntgabe, Widerspruch/Klagefrist, Ermessen, Anhörung, Akteneinsicht und Eilantrag prüfen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Materielle Grundlage | Satzungsermächtigung, Abgabe, Einrichtung, Selbstverwaltungsaufgabe, Haushalt oder Aufsichtsmaßnahme subsumieren. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
 
 
 ## 6. Anker

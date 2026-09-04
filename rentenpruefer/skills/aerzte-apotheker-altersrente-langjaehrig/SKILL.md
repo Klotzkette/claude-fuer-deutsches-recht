@@ -3,7 +3,7 @@ name: aerzte-apotheker-altersrente-langjaehrig
 description: "Für aerzte-apotheker-architekten-versorgungswerk: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
-# aerzte-apotheker-architekten-versorgungswerk
+# Ärzte, Apotheker und Architekten: Versorgung im Versorgungswerk
 
 ## Normenanker
 

@@ -77,7 +77,7 @@ Entscheidungsgriff Begründung und Gegenposition: Klagegründe, Verteidigung, Be
 
 | Ebene | Fallfrage | Anker | Sofortausgabe |
 | --- | --- | --- | --- |
-| Streit- und Verfahrenskern | e-Curia Einreichung und Zustellung | EUV Artikel 19 | richterlicher Arbeitsvermerk mit nächster Verfügung |
+| Streit- und Verfahrenskern | e-Curia-Versandmappe endfertigen | EUV Artikel 19 | richterlicher Arbeitsvermerk mit nächster Verfügung |
 | Zulässigkeit und Gehör | Antrag, Zuständigkeit, Parteistellung, Frist und Anhörung | AEUV Artikel 256 | Hinweis-, Auflagen- oder Zwischenentscheidungsentwurf |
 | Beweis und Würdigung | Vertraulichkeit, Beweis und Anlagen | Kläger für Zulässigkeit, Betroffenheit, Frist und Klagegrund; Organ für Rechtmäßigkeit, Ermessen und Verteidigungslinie | Beweisplan oder Beweisbeschluss mit Entscheidungsreife |
 | Tenor und Anschluss | Klageart, Antragssatz, e-Curia-Einreichung, Zwischenantrag, Rechtsmittel oder Kostenlinie | EuGH, Urteil vom 15.07.1963 - 25/62 | Tenor, Gründe, Kosten, Vollstreckbarkeit und Rechtsmittelbelehrung |
@@ -136,7 +136,7 @@ Entscheidungsgriff Begründung und Gegenposition: Klagegründe, Verteidigung, Be
 
 10.1. Entscheidungsziel: Benenne Spruchkörper, Parteistellungen, Streitgegenstand, Antrag und mögliche Entscheidungsfolge: Klageart, Antragssatz, e-Curia-Einreichung, Zwischenantrag, Rechtsmittel oder Kostenlinie.
 10.2. Rechtsmaßstab: Stelle Zuständigkeits-, Verfahrens- und materiellen Normsatz voran; erste Anker sind EUV Artikel 19; AEUV Artikel 256.
-10.3. Entscheidungserheblicher Punkt: Arbeite zuerst e-Curia Einreichung und Zustellung; trenne Zulässigkeit, Tatsachenfeststellung und rechtliche Würdigung.
+10.3. Entscheidungserheblicher Punkt: Arbeite zuerst e-Curia-Versandmappe endfertigen; trenne Zulässigkeit, Tatsachenfeststellung und rechtliche Würdigung.
 10.4. Aktenfund: Nenne Schriftsatz, Datum, Seite, Anlage, Protokollstelle und Parteizuordnung; im Bereich Europäisches Prozessrecht tragen regelmäßig die Anträge, Schriftsätze, Verfügungen, Beweismittel und Zustellnachweise den Nachweis.
 10.5. Darlegung und Beweis: Kläger für Zulässigkeit, Betroffenheit, Frist und Klagegrund; Organ für Rechtmäßigkeit, Ermessen und Verteidigungslinie. Zeige ausdrücklich, ob Hinweis, Beweisaufnahme oder Entscheidung folgt.
 10.6. Gegenposition: Formuliere den stärksten Gegenantrag oder die tragfähigste abweichende Würdigung; sie setzt typischerweise bei welche Frist läuft und wodurch wurde sie ausgelöst an.
@@ -176,79 +176,78 @@ Die Landkarte dient der schnellen Auswahl. Sie ersetzt nicht die darunter ausfor
 
 | Arbeitsfeld | Entscheidende Weiche | Erstes Lieferstück |
 | --- | --- | --- |
-| e-Curia Einreichung und Zustellung | Verfahrensart bestimmen: Vorabentscheidung, Nichtigkeitsklage, Untätigkeit, Vertragsverletzung, Amtshaftung, einstweiliger Rechtsschutz, Rechtsmittel oder Sonderweg EUIPO. | Fristenblatt zu e-Curia Einreichung und Zustellung mit Auslöser, Beginn, Ende, Vorfrist, Beleg, Sofortmaßnahme und Verantwortlichem |
-| Vertraulichkeit, Beweis und Anlagen | Beginne mit einer Anlagen- und Vertraulichkeitsmatrix, nicht mit einer allgemeinen Prozessübersicht. | Beweismatrix zu Vertraulichkeit, Beweis und Anlagen mit Tatfrage, Beweislast, Beweismittel, Fundstelle, Gegenposition und Folge eines offenen Nachweises |
 | e-Curia-Versandmappe endfertigen | Bestimme Gericht oder Gerichtshof, Klageart, Rechtsgrundlage, Verfahrenssprache, Frist, Parteirolle und gegebenenfalls beschleunigtes oder einstweiliges Verfahren. | Entscheidungsbaustein zu e-Curia-Versandmappe endfertigen mit Antrag, Aktenfund, Rechtsmaßstab, Beweisfolge, Gegenposition, Tenoroption und nächster Verfügung |
-| Verfahrensroute | Vorabentscheidung, Nichtigkeitsklage, Untätigkeit, Vertragsverletzung, Amtshaftung, einstweiliger Rechtsschutz, Rechtsmittel oder EUIPO-Folgeweg festlegen | Entscheidungsbaustein zu Verfahrensroute mit Antrag, Aktenfund, Rechtsmaßstab, Beweisfolge, Gegenposition, Tenoroption und nächster Verfügung |
-| Zuständigkeit und Rolle | Gerichtshof, Gericht, Beschwerdekammer oder nationales Gericht sowie Partei-, Organ- oder Interventionsrolle trennen | Entscheidungsbaustein zu Zuständigkeit und Rolle mit Antrag, Aktenfund, Rechtsmaßstab, Beweisfolge, Gegenposition, Tenoroption und nächster Verfügung |
-| Zulässigkeit | Frist, anfechtbarer Akt, unmittelbare und individuelle Betroffenheit, Rechtsschutzinteresse, Vertretung, Sprache und Antrag sichern | Entscheidungsbaustein zu Zulässigkeit mit Antrag, Aktenfund, Rechtsmaßstab, Beweisfolge, Gegenposition, Tenoroption und nächster Verfügung |
-| Einreichung und Anlagen | E-Curia, Dateibenennung, Anlagenverzeichnis, vertrauliche Fassung, Schwärzung und Zustellungsnachweise vorbereiten | Entscheidungsbaustein zu Einreichung und Anlagen mit Antrag, Aktenfund, Rechtsmaßstab, Beweisfolge, Gegenposition, Tenoroption und nächster Verfügung |
-| Begründung und Gegenposition | Klagegründe, Verteidigung, Beweisangebot, Unionsgrundrechte, Verhältnismäßigkeit und stärkstes Gegenargument ordnen | Entscheidungsbaustein zu Begründung und Gegenposition mit Antrag, Aktenfund, Rechtsmaßstab, Beweisfolge, Gegenposition, Tenoroption und nächster Verfügung |
-| Unionsamtshaftung | Beginne mit einem Arbeitsprodukt, nicht mit einer Materialinventur | gewichtete Prüfmatrix mit Tatbestandsmerkmalen, Fundstellen, Gegenposition, Beweislast, Risiko und Empfehlung |
+| Vertraulichkeit, Beweis und Anlagen | Beginne mit einer Anlagen- und Vertraulichkeitsmatrix, nicht mit einer allgemeinen Prozessübersicht. | Beweismatrix zu Vertraulichkeit, Beweis und Anlagen mit Tatfrage, Beweislast, Beweismittel, Fundstelle, Gegenposition und Folge eines offenen Nachweises |
+| Vorlagefragen und Zuständigkeitsverschiebung | Erst der Gerichtshof prüft im zentralen Eingangsverfahren, ob das Ersuchen ausschließlich eines oder mehrere der sechs Sachgebiete aus Artikel 50b der Satzung betrifft und an das Gericht übertragen wird. | Entscheidungsbaustein zu Vorlagefragen und Zuständigkeitsverschiebung mit Antrag, Aktenfund, Rechtsmaßstab, Beweisfolge, Gegenposition, Tenoroption und nächster Verfügung |
+| Einstweiliger Rechtsschutz | Beginne mit einem Arbeitsprodukt, nicht mit einer Materialinventur. Zuständigkeit und Spruchkörperlogik prüfen: Gerichtshof, Gericht, Beschwerdekammer oder nationales Gericht. | Entscheidungsbaustein zu Einstweiliger Rechtsschutz mit Antrag, Aktenfund, Rechtsmaßstab, Beweisfolge, Gegenposition, Tenoroption und nächster Verfügung |
+| e-Curia Einreichung und Zustellung | Bearbeite e-Curia Einreichung und Zustellung: klageart, Zuständigkeit, Frist, Verfahrenssprache, e-Curia, Anlagen, Rechtsschutzinteresse und Antragssatz zuerst sichern. | Fristenblatt zu e-Curia Einreichung und Zustellung mit Auslöser, Beginn, Ende, Vorfrist, Beleg, Sofortmaßnahme und Verantwortlichem |
+| EUIPO vor Beschwerdekammer, EuG und EuGH | Bearbeite EUIPO vor Beschwerdekammer, EuG und EuGH: klageart, Zuständigkeit, Frist, Verfahrenssprache, e-Curia, Anlagen, Rechtsschutzinteresse und Antragssatz zuerst sichern. | frist- und formgerechter Entwurf mit Antrag, tragenden Tatsachen, Beweisangeboten, Anlagen und Einreichungsweg |
+| Fristen und Verfahrenssprache | Bearbeite Fristen und Verfahrenssprache: klageart, Zuständigkeit, Frist, Verfahrenssprache, e-Curia, Anlagen, Rechtsschutzinteresse und Antragssatz zuerst sichern. | Fristenblatt zu Fristen und Verfahrenssprache mit Auslöser, Beginn, Ende, Vorfrist, Beleg, Sofortmaßnahme und Verantwortlichem |
+| Intervention und Streithelfer | Bearbeite Intervention und Streithelfer: klageart, Zuständigkeit, Frist, Verfahrenssprache, e-Curia, Anlagen, Rechtsschutzinteresse und Antragssatz zuerst sichern. | Entscheidungsbaustein zu Intervention und Streithelfer mit Antrag, Aktenfund, Rechtsmaßstab, Beweisfolge, Gegenposition, Tenoroption und nächster Verfügung |
+| Klagebefugnis Privater | Bearbeite Klagebefugnis Privater: klageart, Zuständigkeit, Frist, Verfahrenssprache, e-Curia, Anlagen, Rechtsschutzinteresse und Antragssatz zuerst sichern. | frist- und formgerechter Entwurf mit Antrag, tragenden Tatsachen, Beweisangeboten, Anlagen und Einreichungsweg |
 
 ## 16. Fachspezifische Praxisrouten
 
 Diese Routen stammen aus den konkreten Arbeitsthemen dieses Plugins. Wähle die sachnächste Route, liefere deren ersten verwertbaren Baustein sofort und vertiefe nur die Punkte, die das Ergebnis tatsächlich ändern.
 
-### 16.1. e-Curia Einreichung und Zustellung
-
-Bearbeitungsauftrag: Verfahrensart bestimmen: Vorabentscheidung, Nichtigkeitsklage, Untätigkeit, Vertragsverletzung, Amtshaftung, einstweiliger Rechtsschutz, Rechtsmittel oder Sonderweg EUIPO. Zuständigkeit und Spruchkörperlogik prüfen: Gerichtshof, Gericht, Beschwerdekammer oder nationales Gericht. Zulässigkeit sichern: Frist, anfechtbarer Akt, Klagebefugnis, Vertretung, Verfahrenssprache, Form und Anlagen.
-Prüfschritte: Beginne mit einem Arbeitsprodukt, nicht mit einer Materialinventur; Lege in fünf Sätzen fest: Parteirolle, Verfahrensart, Gericht, Frist und stärkster prozessualer Engpass; Wenn die Zuständigkeit zwischen Gerichtshof und Gericht offen ist, stelle zuerst die Zuständigkeitsfrage, dann erst die materielle Linie.
-Lieferstück: Fristenblatt zu e-Curia Einreichung und Zustellung mit Auslöser, Beginn, Ende, Vorfrist, Beleg, Sofortmaßnahme und Verantwortlichem.
-
-### 16.2. Vertraulichkeit, Beweis und Anlagen
-
-Bearbeitungsauftrag: Beginne mit einer Anlagen- und Vertraulichkeitsmatrix, nicht mit einer allgemeinen Prozessübersicht. Jede Anlage klassifizieren: öffentlich einreichbar, vertraulich gegenüber der Öffentlichkeit, vertraulich gegenüber Streithelfern, vertraulich gegenüber einer Hauptpartei oder sicherheitsbezogen. Für jede Schwärzung den Schutzgrund notieren: Geschäftsgeheimnis, personenbezogenes Datum, Ermittlungs- oder Sicherheitsbezug, internes Entscheidungsdokument oder nicht entscheidungserheblicher Randinhalt.
-Prüfschritte: Lege zuerst fest: Gericht oder Beschwerdekammer, Verfahrensart, Einreichungsfrist, Parteirolle, Sprache, e-Curia-Status und ob eine vertrauliche Fassung, nicht vertrauliche Fassung oder Schwärzung benötigt wird.
-Lieferstück: Beweismatrix zu Vertraulichkeit, Beweis und Anlagen mit Tatfrage, Beweislast, Beweismittel, Fundstelle, Gegenposition und Folge eines offenen Nachweises.
-
-### 16.3. e-Curia-Versandmappe endfertigen
+### 16.1. e-Curia-Versandmappe endfertigen
 
 Bearbeitungsauftrag: Bestimme Gericht oder Gerichtshof, Klageart, Rechtsgrundlage, Verfahrenssprache, Frist, Parteirolle und gegebenenfalls beschleunigtes oder einstweiliges Verfahren. Ordne Anlagen nach der im Schriftsatz verwendeten Bezeichnung, mit eigenem Verzeichnis, Seitenbezug und Kurzbeschreibung. Nach der amtlichen e-Curia-Anleitung gilt eine Obergrenze von 30 MB je Datei.
 Prüfschritte: Direkte Verfahren vor Gericht oder Gerichtshof werden über e-Curia und nicht über beA eingereicht; Lies Entwurf, angegriffene Handlung, Zustell- oder Veröffentlichungsnachweis, Vollmacht oder Vertretungsnachweis, Anlagen und bisherige e-Curia-Mitteilungen zuerst; vermeide den Scan eines aus einem Textprogramm erzeugbaren Dokuments; Eine handschriftliche Unterschrift ist für die e-Curia-Einreichung nicht erforderlich.
 Lieferstück: Entscheidungsbaustein zu e-Curia-Versandmappe endfertigen mit Antrag, Aktenfund, Rechtsmaßstab, Beweisfolge, Gegenposition, Tenoroption und nächster Verfügung.
 
-### 16.4. Verfahrensroute
+### 16.2. Vertraulichkeit, Beweis und Anlagen
 
-Bearbeitungsauftrag: Vorabentscheidung, Nichtigkeitsklage, Untätigkeit, Vertragsverletzung, Amtshaftung, einstweiliger Rechtsschutz, Rechtsmittel oder EUIPO-Folgeweg festlegen.
-Lieferstück: Entscheidungsbaustein zu Verfahrensroute mit Antrag, Aktenfund, Rechtsmaßstab, Beweisfolge, Gegenposition, Tenoroption und nächster Verfügung.
+Bearbeitungsauftrag: Beginne mit einer Anlagen- und Vertraulichkeitsmatrix, nicht mit einer allgemeinen Prozessübersicht. Jede Anlage klassifizieren: öffentlich einreichbar, vertraulich gegenüber der Öffentlichkeit, vertraulich gegenüber Streithelfern, vertraulich gegenüber einer Hauptpartei oder sicherheitsbezogen. Für jede Schwärzung den Schutzgrund notieren: Geschäftsgeheimnis, personenbezogenes Datum, Ermittlungs- oder Sicherheitsbezug, internes Entscheidungsdokument oder nicht entscheidungserheblicher Randinhalt.
+Lieferstück: Beweismatrix zu Vertraulichkeit, Beweis und Anlagen mit Tatfrage, Beweislast, Beweismittel, Fundstelle, Gegenposition und Folge eines offenen Nachweises.
 
-### 16.5. Zuständigkeit und Rolle
+### 16.3. Vorlagefragen und Zuständigkeitsverschiebung
 
-Bearbeitungsauftrag: Gerichtshof, Gericht, Beschwerdekammer oder nationales Gericht sowie Partei-, Organ- oder Interventionsrolle trennen.
-Lieferstück: Entscheidungsbaustein zu Zuständigkeit und Rolle mit Antrag, Aktenfund, Rechtsmaßstab, Beweisfolge, Gegenposition, Tenoroption und nächster Verfügung.
+Bearbeitungsauftrag: Erst der Gerichtshof prüft im zentralen Eingangsverfahren, ob das Ersuchen ausschließlich eines oder mehrere der sechs Sachgebiete aus Artikel 50b der Satzung betrifft und an das Gericht übertragen wird. Das vorlegende nationale Gericht adressiert sein Ersuchen daher nicht unmittelbar an das Gericht. zolltarifliche Einreihung von Waren in die Kombinierte Nomenklatur.
+Normbezug aus dem Fachmaterial: Prüfe die seit 01.10.2024 geltende Teilübertragung von Vorabentscheidungen an das Gericht nach Artikel 50b der Satzung.
+Lieferstück: Entscheidungsbaustein zu Vorlagefragen und Zuständigkeitsverschiebung mit Antrag, Aktenfund, Rechtsmaßstab, Beweisfolge, Gegenposition, Tenoroption und nächster Verfügung.
 
-### 16.6. Zulässigkeit
+### 16.4. Einstweiliger Rechtsschutz
 
-Bearbeitungsauftrag: Frist, anfechtbarer Akt, unmittelbare und individuelle Betroffenheit, Rechtsschutzinteresse, Vertretung, Sprache und Antrag sichern.
-Lieferstück: Entscheidungsbaustein zu Zulässigkeit mit Antrag, Aktenfund, Rechtsmaßstab, Beweisfolge, Gegenposition, Tenoroption und nächster Verfügung.
+Bearbeitungsauftrag: Beginne mit einem Arbeitsprodukt, nicht mit einer Materialinventur. Zuständigkeit und Spruchkörperlogik prüfen: Gerichtshof, Gericht, Beschwerdekammer oder nationales Gericht. Zulässigkeit sichern: Frist, anfechtbarer Akt, Klagebefugnis, Vertretung, Verfahrenssprache, Form und Anlagen.
+Lieferstück: Entscheidungsbaustein zu Einstweiliger Rechtsschutz mit Antrag, Aktenfund, Rechtsmaßstab, Beweisfolge, Gegenposition, Tenoroption und nächster Verfügung.
 
-### 16.7. Einreichung und Anlagen
+### 16.5. e-Curia Einreichung und Zustellung
 
-Bearbeitungsauftrag: E-Curia, Dateibenennung, Anlagenverzeichnis, vertrauliche Fassung, Schwärzung und Zustellungsnachweise vorbereiten.
-Lieferstück: Entscheidungsbaustein zu Einreichung und Anlagen mit Antrag, Aktenfund, Rechtsmaßstab, Beweisfolge, Gegenposition, Tenoroption und nächster Verfügung.
+Bearbeitungsauftrag: Bearbeite e-Curia Einreichung und Zustellung: klageart, Zuständigkeit, Frist, Verfahrenssprache, e-Curia, Anlagen, Rechtsschutzinteresse und Antragssatz zuerst sichern. Verbinde den konkreten Aktenfund mit Tatbestandsmerkmal, Gegenposition, Beweislast, Rechtsfolge und dem nächsten vollständig ausformulierten Arbeitsprodukt. Fachstation: Einreichung und Anlagen: e-Curia, Dateibenennung, Anlagenverzeichnis, vertrauliche Fassung, Schwärzung und Zustellungsnachweise vorbereiten.
+Lieferstück: Fristenblatt zu e-Curia Einreichung und Zustellung mit Auslöser, Beginn, Ende, Vorfrist, Beleg, Sofortmaßnahme und Verantwortlichem.
 
-### 16.8. Begründung und Gegenposition
+### 16.6. EUIPO vor Beschwerdekammer, EuG und EuGH
 
-Bearbeitungsauftrag: Klagegründe, Verteidigung, Beweisangebot, Unionsgrundrechte, Verhältnismäßigkeit und stärkstes Gegenargument ordnen.
-Lieferstück: Entscheidungsbaustein zu Begründung und Gegenposition mit Antrag, Aktenfund, Rechtsmaßstab, Beweisfolge, Gegenposition, Tenoroption und nächster Verfügung.
-
-### 16.9. Unionsamtshaftung
-
-Bearbeitungsauftrag: Beginne mit einem Arbeitsprodukt, nicht mit einer Materialinventur.
-Lieferstück: gewichtete Prüfmatrix mit Tatbestandsmerkmalen, Fundstellen, Gegenposition, Beweislast, Risiko und Empfehlung.
-
-### 16.10. Nichtigkeitsklage nach Art. 263 AEUV
-
-Bearbeitungsauftrag: Prüfe Nichtigkeitsklagen vor dem Gericht der Europäischen Union gegen EU-Rechtsakte: Klagebefugnis, Frist, anfechtbarer Akt, Klagegründe.
+Bearbeitungsauftrag: Bearbeite EUIPO vor Beschwerdekammer, EuG und EuGH: klageart, Zuständigkeit, Frist, Verfahrenssprache, e-Curia, Anlagen, Rechtsschutzinteresse und Antragssatz zuerst sichern. Isoliere angegriffene Entscheidung und Rechtsschutzziel, sichere Statthaftigkeit, Beschwer, Zuständigkeit, Frist, Form und Beteiligte und formuliere aus Tatsachen, Beweisen und stärkster Gegenposition einen bestimmten Antrag mit Einreichungsweg.
 Lieferstück: frist- und formgerechter Entwurf mit Antrag, tragenden Tatsachen, Beweisangeboten, Anlagen und Einreichungsweg.
 
-### 16.11. Fristen und Verfahrenssprache
+### 16.7. Fristen und Verfahrenssprache
 
-Bearbeitungsauftrag: Berechne unionsprozessuale Fristen, Entfernungsfrist, Verfahrenssprache, Zustellungsfolgen und interne Review-Termine für EuGH- und EuG-Verfahren.
+Bearbeitungsauftrag: Bearbeite Fristen und Verfahrenssprache: klageart, Zuständigkeit, Frist, Verfahrenssprache, e-Curia, Anlagen, Rechtsschutzinteresse und Antragssatz zuerst sichern. Rekonstruiere Auslöser und Zugang, qualifiziere die Frist, berechne Beginn und Ende kalendarisch und prüfe Hemmung, Ablaufhemmung, Vorfrist, Zugangsnachweis und statthafte Fristrettung getrennt für materielles und Verfahrensrecht.
 Lieferstück: Fristenblatt zu Fristen und Verfahrenssprache mit Auslöser, Beginn, Ende, Vorfrist, Beleg, Sofortmaßnahme und Verantwortlichem.
 
-### 16.12. Untätigkeitsklage nach Art. 265 AEUV
+### 16.8. Intervention und Streithelfer
 
-Bearbeitungsauftrag: Bereitet Untätigkeitsklagen gegen Organe, Einrichtungen und sonstige Stellen der Union vor, mit Aufforderung zum Tätigwerden, Fristenkontrolle.
+Bearbeitungsauftrag: Bearbeite Intervention und Streithelfer: klageart, Zuständigkeit, Frist, Verfahrenssprache, e-Curia, Anlagen, Rechtsschutzinteresse und Antragssatz zuerst sichern. Verbinde den konkreten Aktenfund mit Tatbestandsmerkmal, Gegenposition, Beweislast, Rechtsfolge und dem nächsten vollständig ausformulierten Arbeitsprodukt.
+Lieferstück: Entscheidungsbaustein zu Intervention und Streithelfer mit Antrag, Aktenfund, Rechtsmaßstab, Beweisfolge, Gegenposition, Tenoroption und nächster Verfügung.
+
+### 16.9. Klagebefugnis Privater
+
+Bearbeitungsauftrag: Bearbeite Klagebefugnis Privater: klageart, Zuständigkeit, Frist, Verfahrenssprache, e-Curia, Anlagen, Rechtsschutzinteresse und Antragssatz zuerst sichern. Isoliere angegriffene Entscheidung und Rechtsschutzziel, sichere Statthaftigkeit, Beschwer, Zuständigkeit, Frist, Form und Beteiligte und formuliere aus Tatsachen, Beweisen und stärkster Gegenposition einen bestimmten Antrag mit Einreichungsweg.
+Lieferstück: frist- und formgerechter Entwurf mit Antrag, tragenden Tatsachen, Beweisangeboten, Anlagen und Einreichungsweg.
+
+### 16.10. Kosten und Prozessrisiko
+
+Bearbeitungsauftrag: Bearbeite Kosten und Prozessrisiko: klageart, Zuständigkeit, Frist, Verfahrenssprache, e-Curia, Anlagen, Rechtsschutzinteresse und Antragssatz zuerst sichern. Rechne ausschließlich aus belegten Eingabewerten mit Stichtag, Einheit, Zwischenstufen, Rundung und Gegenprobe; führe zu jeder Zahl Quelle, Rechtsgrund, Beweislast, offene Annahme und Auswirkung einer belastbaren Alternativrechnung.
+Lieferstück: Entscheidungsbaustein zu Kosten und Prozessrisiko mit Antrag, Aktenfund, Rechtsmaßstab, Beweisfolge, Gegenposition, Tenoroption und nächster Verfügung.
+
+### 16.11. Mündliche Verhandlung und Plädoyer
+
+Bearbeitungsauftrag: Bearbeite Mündliche Verhandlung und Plädoyer: klageart, Zuständigkeit, Frist, Verfahrenssprache, e-Curia, Anlagen, Rechtsschutzinteresse und Antragssatz zuerst sichern. Fixiere gesicherten Streitstand, Interessen, Mindestziel und objektive Kriterien, rechne Kosten- und Vollstreckungsrisiko und formuliere Vergleichskorridor, Rückfallposition, Regelungspunkte, Vollmacht und belastbaren Vollzug.
+Lieferstück: Verhandlungsblatt zu Mündliche Verhandlung und Plädoyer mit Ziel, Mindestposition, Tauschmasse, Risiko, Regelungstext und Vollzug.
+
+### 16.12. Nichtigkeitsklage nach Art. 263 AEUV
+
+Bearbeitungsauftrag: Bearbeite Nichtigkeitsklage nach Art. 263 AEUV: klageart, Zuständigkeit, Frist, Verfahrenssprache, e-Curia, Anlagen, Rechtsschutzinteresse und Antragssatz zuerst sichern. Isoliere angegriffene Entscheidung und Rechtsschutzziel, sichere Statthaftigkeit, Beschwer, Zuständigkeit, Frist, Form und Beteiligte und formuliere aus Tatsachen, Beweisen und stärkster Gegenposition einen bestimmten Antrag mit Einreichungsweg.
 Lieferstück: frist- und formgerechter Entwurf mit Antrag, tragenden Tatsachen, Beweisangeboten, Anlagen und Einreichungsweg.

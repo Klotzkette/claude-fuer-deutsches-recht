@@ -33,8 +33,8 @@ Ohne verwertbares Material genau eine gebündelte Frage zu Person und Status, Zi
 | Punkt | Sofortgriff |
 | --- | --- |
 | Normenanker | AufenthG Paragraf 4, Paragraf 5 und Paragraf 7 ff; AufenthG Paragraf 50 ff; AsylG |
-| Rechtsprechung | EuGH, Urteil vom 19.03.2019, C-163/17, Jawo |
-| Tatbestand | Staatsangehörigkeit, Familienstand, Einreise, aktueller Titel, Antrag, Fiktionswirkung und Aufenthaltsort |
+| Rechtsprechung | aus Akte und belastbarer Quelle ableiten |
+| Tatbestand | Staatsangehörigkeit, Familienstand, Einreise, aktueller Titel, Antrag, Fiktionswirkung und Aufenthaltsort feststellen |
 | Beweislast | Nachweisachse Verfahren und Beweis: Behörde, Auslandsvertretung, BAMF, Anhörung, Identität, Urkunden, Sprach- und Lebensunterhaltsnachweise ordnen |
 | Rechtsfolge | Antragspaket, Anhörungsvorbereitung, Widerspruch, Klage, Eilantrag, Duldungs- oder Einbürgerungsunterlage erstellen |
 | Quellenstatus | Aktenfund, Normtext, Profilanker oder sicher belegte Entscheidung offen kennzeichnen; unsichere Aktenzeichen nicht ergänzen |
@@ -43,7 +43,7 @@ Ohne verwertbares Material genau eine gebündelte Frage zu Person und Status, Zi
 
 | Feld | Sofortgriff | Ausgabe |
 | --- | --- | --- |
-| Person und Status | Staatsangehörigkeit, Familienstand, Einreise, aktueller Titel, Antrag, Fiktionswirkung und Aufenthaltsort. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Person und Status | Staatsangehörigkeit, Familienstand, Einreise, aktueller Titel, Antrag, Fiktionswirkung und Aufenthaltsort feststellen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
 | Ziel und Anspruch | Aufenthalt, Schutz, Familiennachzug, Beschäftigung, Einbürgerung oder Vollzugsabwehr mit richtiger Norm bestimmen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
 | Verfahren und Beweis | Behörde, Auslandsvertretung, BAMF, Anhörung, Identität, Urkunden, Sprach- und Lebensunterhaltsnachweise ordnen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
 

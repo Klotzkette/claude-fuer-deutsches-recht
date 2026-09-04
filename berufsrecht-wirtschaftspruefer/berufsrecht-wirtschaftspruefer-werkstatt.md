@@ -96,9 +96,7 @@ Arbeitsgriff Arbeitsprodukt: Stellungnahme an die Kammer, interne Weisung, Einwi
 
 ## 6. Rechtsprechungsanker, Quellenstatus und Rechtsfolgen
 
-| Rechtsprechungsanker | Quellenstatus | Nutzwert im Fall |
-| --- | --- | --- |
-| BGH, Urteil vom 14. August 2012, WpSt (R) 1/12 | aus Skillmaterial extrahierter Anker; vor Zitierung am Aktenstand oder an belastbarer Quelle sichern | Den Grundsatz der einheitlichen Pflichtverletzung nur bei der Bestimmung des berufsgerichtlichen Verfahrensgegenstands verwenden |
+- Rechtsprechung nur zitieren, wenn Gericht, Datum und Aktenzeichen sicher sind; sonst als Recherche- und Prüfbedarf mit konkreter Fallfrage markieren.
 - Rechtsfolge zuerst als Arbeitsprodukt denken: Stellungnahme an die Kammer, interne Weisung, Einwilligungs- oder Freigabedokument ausformulieren
 - Quellenstatus immer sichtbar machen: Aktenfund, Normtext, Profilanker, gesicherte Rechtsprechung oder offene Prüfung.
 
@@ -122,7 +120,7 @@ Arbeitsgriff Arbeitsprodukt: Stellungnahme an die Kammer, interne Weisung, Einwi
 
 ## 8. Leitentscheidungen
 
-- BGH, Urteil vom 14. August 2012, WpSt (R) 1/12: Den Grundsatz der einheitlichen Pflichtverletzung nur bei der Bestimmung des berufsgerichtlichen Verfahrensgegenstands verwenden.
+- Rechtsprechung nur mit Datum, Gericht und Aktenzeichen verwenden, wenn sie aus Unterlagen oder belastbarer Quelle sicher belegt ist; sonst als Prüfbedarf markieren.
 
 ## 9. Prüfraster
 
@@ -144,7 +142,7 @@ Arbeitsgriff Arbeitsprodukt: Stellungnahme an die Kammer, interne Weisung, Einwi
 10.6. Gegenposition: Formuliere den stärksten ernsthaften Angriff; hier setzt die Gegenseite typischerweise bei die Verschwiegenheit betroffen und liegt eine tragfähige Befreiung oder Ausnahme vor an.
 10.7. Erwiderung: Antworte mit konkretem Gegenbeleg, Auslegung oder Beweislastregel und ziehe die Folge auf Stellungnahme an die Kammer, interne Weisung, Einwilligungs- oder Freigabedokument ausformulieren; ein bloßes Bestreiten genügt nicht.
 10.8. Arbeitsprodukt: Schließe mit Antrag, Tenor, Klausel, Entscheidung oder nächstem Schritt; hier typischerweise Kammer-Stellungnahme: Sachverhalt, betroffene Pflicht, Rechtslage, Entlastung, Ergebnis, Anlagen; Kollisionsvermerk: Beteiligte, frühere Mandate, Prüfweg, Ergebnis, Freigabe mit Datum und Zeichner.
-10.9. Quellenstatus: Ordne Rechtsprechung nach Tragweite ein; erste Fallanker sind BGH, Urteil vom 14. August 2012, WpSt (R) 1/12.
+10.9. Quellenstatus: Ordne Rechtsprechung nach Tragweite ein; erste Fallanker sind erst nach verifizierter Recherche einzusetzen.
 
 ## 11. Outputvarianten und Empfängerwunsch
 
@@ -182,11 +180,11 @@ Die Landkarte dient der schnellen Auswahl. Sie ersetzt nicht die darunter ausfor
 | Fristenkontrolle | Baue aus WPO, BS WP/vBP, HGB und den Vorgaben von WPK und APAS und der konkreten Zustellung oder Verfahrenshandlung ein Fristenblatt mit Beginn, Ende, Vorfrist, Verantwortlichem, Gegenkontrolle, Ausgangsnachweis. | Fristenblatt zu Fristenkontrolle mit Auslöser, Beginn, Ende, Vorfrist, Beleg, Sofortmaßnahme und Verantwortlichem |
 | Aktenführung | Ordne die Unterlagen nach WPO, BS WP/vBP, HGB und den Vorgaben von WPK und APAS in Original, Bearbeitungsstand, Frist, Zugriffsrecht, Verschwiegenheit, Aufbewahrung und Herausgabe. | Akten- und Belegmatrix zu Aktenführung mit Datum, Urheber, Fundstelle, Widerspruch, Fehlteil und nächstem Bearbeitungsschritt |
 | Berufsgericht und Disziplinarverfahren | Zerlege den Vorwurf nach WPO, BS WP/vBP, HGB und den Vorgaben von WPK und APAS in konkrete Berufspflicht, Tatsachenbasis, Verschulden, Anhörung, Akteneinsicht, mögliche Maßnahme und Rechtsbehelf. | Fachvotum zu Berufsgericht und Disziplinarverfahren mit Tatbestandsmerkmalen, Aktenfundstellen, Beweislast, stärkster Gegenposition, Risiko und ausformulierter Rechtsfolge |
+| Beteiligtenkommunikation | Bearbeite Beteiligtenkommunikation anhand von WPO, BS WP/vBP, HGB und den Vorgaben von WPK und APAS: ordne Unabhängigkeit, Auftragsannahme, Prüfungsakte, Bericht, Honorar und Berufsaufsicht nach sicherer Tatsache. | Fachvotum zu Beteiligtenkommunikation mit Tatbestandsmerkmalen, Aktenfundstellen, Beweislast, stärkster Gegenposition, Risiko und ausformulierter Rechtsfolge |
 | Cross-Border | Bestimme Herkunftsberuf, Niederlassung oder vorübergehende Dienstleistung, Berufsbezeichnung, Registrierung, Kollisions- und Verschwiegenheitsregeln sowie Zuständigkeit nach WPO, BS WP/vBP, HGB und den Vorgaben von WPK. | Fachvotum zu Cross-Border mit Tatbestandsmerkmalen, Aktenfundstellen, Beweislast, stärkster Gegenposition, Risiko und ausformulierter Rechtsfolge |
 | Entscheidungsvorlage | Verdichte Unabhängigkeit, Auftragsannahme, Prüfungsakte, Bericht, Honorar und Berufsaufsicht anhand von WPO, BS WP/vBP, HGB und den Vorgaben von WPK und APAS zu einer Entscheidungsvorlage mit gesichertem Sachverhalt. | Fachvotum zu Entscheidungsvorlage mit Tatbestandsmerkmalen, Aktenfundstellen, Beweislast, stärkster Gegenposition, Risiko und ausformulierter Rechtsfolge |
 | Geldwäsche und KYC | Bearbeite Geldwäsche und KYC anhand von WPO, BS WP/vBP, HGB und den Vorgaben von WPK und APAS: ordne Unabhängigkeit, Auftragsannahme, Prüfungsakte, Bericht, Honorar und Berufsaufsicht nach sicherer Tatsache. | Fachvotum zu Geldwäsche und KYC mit Tatbestandsmerkmalen, Aktenfundstellen, Beweislast, stärkster Gegenposition, Risiko und ausformulierter Rechtsfolge |
 | Honorar, Gebühren und Vergütung | Prüfe Auftrag, Vergütungsabrede, gesetzlichen Gebührenmaßstab, Vorschuss, Fälligkeit, Abrechnung, Aufklärung und Einwendungen nach WPO, BS WP/vBP, HGB und den Vorgaben von WPK und APAS. | nachrechenbare Berechnung mit Eingabewerten, Zwischenschritten, Varianten, Stichtag und Belegspalte |
-| Interessenkollision | Bearbeite Interessenkollision anhand von WPO, BS WP/vBP, HGB und den Vorgaben von WPK und APAS: ordne Unabhängigkeit, Auftragsannahme, Prüfungsakte, Bericht, Honorar und Berufsaufsicht nach sicherer Tatsache. | Fachvotum zu Interessenkollision mit Tatbestandsmerkmalen, Aktenfundstellen, Beweislast, stärkster Gegenposition, Risiko und ausformulierter Rechtsfolge |
 
 ## 16. Fachspezifische Praxisrouten
 
@@ -212,42 +210,42 @@ Lieferstück: Akten- und Belegmatrix zu Aktenführung mit Datum, Urheber, Fundst
 Bearbeitungsauftrag: Zerlege den Vorwurf nach WPO, BS WP/vBP, HGB und den Vorgaben von WPK und APAS in konkrete Berufspflicht, Tatsachenbasis, Verschulden, Anhörung, Akteneinsicht, mögliche Maßnahme und Rechtsbehelf; ordne Unabhängigkeit, Auftragsannahme, Prüfungsakte, Bericht, Honorar und Berufsaufsicht den einzelnen Vorwürfen und Belegen zu.
 Lieferstück: Fachvotum zu Berufsgericht und Disziplinarverfahren mit Tatbestandsmerkmalen, Aktenfundstellen, Beweislast, stärkster Gegenposition, Risiko und ausformulierter Rechtsfolge.
 
-### 16.5. Cross-Border
+### 16.5. Beteiligtenkommunikation
+
+Bearbeitungsauftrag: Bearbeite Beteiligtenkommunikation anhand von WPO, BS WP/vBP, HGB und den Vorgaben von WPK und APAS: ordne Unabhängigkeit, Auftragsannahme, Prüfungsakte, Bericht, Honorar und Berufsaufsicht nach sicherer Tatsache, Berufspflicht, Nachweis, Gegenposition, Risiko und nächster Handlung.
+Lieferstück: Fachvotum zu Beteiligtenkommunikation mit Tatbestandsmerkmalen, Aktenfundstellen, Beweislast, stärkster Gegenposition, Risiko und ausformulierter Rechtsfolge.
+
+### 16.6. Cross-Border
 
 Bearbeitungsauftrag: Bestimme Herkunftsberuf, Niederlassung oder vorübergehende Dienstleistung, Berufsbezeichnung, Registrierung, Kollisions- und Verschwiegenheitsregeln sowie Zuständigkeit nach WPO, BS WP/vBP, HGB und den Vorgaben von WPK und APAS; halte lokale Beratungspflichten und Haftungsdeckung getrennt fest.
 Lieferstück: Fachvotum zu Cross-Border mit Tatbestandsmerkmalen, Aktenfundstellen, Beweislast, stärkster Gegenposition, Risiko und ausformulierter Rechtsfolge.
 
-### 16.6. Entscheidungsvorlage
+### 16.7. Entscheidungsvorlage
 
 Bearbeitungsauftrag: Verdichte Unabhängigkeit, Auftragsannahme, Prüfungsakte, Bericht, Honorar und Berufsaufsicht anhand von WPO, BS WP/vBP, HGB und den Vorgaben von WPK und APAS zu einer Entscheidungsvorlage mit gesichertem Sachverhalt, Pflichtenkreis, Handlungsalternativen, Berufsrisiko, Kosten, Freigabe und dokumentiertem nächsten Schritt.
 Lieferstück: Fachvotum zu Entscheidungsvorlage mit Tatbestandsmerkmalen, Aktenfundstellen, Beweislast, stärkster Gegenposition, Risiko und ausformulierter Rechtsfolge.
 
-### 16.7. Geldwäsche und KYC
+### 16.8. Geldwäsche und KYC
 
 Bearbeitungsauftrag: Bearbeite Geldwäsche und KYC anhand von WPO, BS WP/vBP, HGB und den Vorgaben von WPK und APAS: ordne Unabhängigkeit, Auftragsannahme, Prüfungsakte, Bericht, Honorar und Berufsaufsicht nach sicherer Tatsache, Berufspflicht, Nachweis, Gegenposition, Risiko und nächster Handlung.
 Lieferstück: Fachvotum zu Geldwäsche und KYC mit Tatbestandsmerkmalen, Aktenfundstellen, Beweislast, stärkster Gegenposition, Risiko und ausformulierter Rechtsfolge.
 
-### 16.8. Honorar, Gebühren und Vergütung
+### 16.9. Honorar, Gebühren und Vergütung
 
 Bearbeitungsauftrag: Prüfe Auftrag, Vergütungsabrede, gesetzlichen Gebührenmaßstab, Vorschuss, Fälligkeit, Abrechnung, Aufklärung und Einwendungen nach WPO, BS WP/vBP, HGB und den Vorgaben von WPK und APAS; rechne Unabhängigkeit, Auftragsannahme, Prüfungsakte, Bericht, Honorar und Berufsaufsicht mit belegten Werten nach.
 Lieferstück: nachrechenbare Berechnung mit Eingabewerten, Zwischenschritten, Varianten, Stichtag und Belegspalte.
 
-### 16.9. Interessenkollision
+### 16.10. Interessenkollision
 
 Bearbeitungsauftrag: Bearbeite Interessenkollision anhand von WPO, BS WP/vBP, HGB und den Vorgaben von WPK und APAS: ordne Unabhängigkeit, Auftragsannahme, Prüfungsakte, Bericht, Honorar und Berufsaufsicht nach sicherer Tatsache, Berufspflicht, Nachweis, Gegenposition, Risiko und nächster Handlung.
 Lieferstück: Fachvotum zu Interessenkollision mit Tatbestandsmerkmalen, Aktenfundstellen, Beweislast, stärkster Gegenposition, Risiko und ausformulierter Rechtsfolge.
 
-### 16.10. Wirtschaftsprüfer
+### 16.11. IT, Cloud, algorithmische Systeme und Outsourcing
 
-Bearbeitungsauftrag: Bearbeite Wirtschaftsprüfer anhand von WPO, BS WP/vBP, HGB und den Vorgaben von WPK und APAS: ordne Unabhängigkeit, Auftragsannahme, Prüfungsakte, Bericht, Honorar und Berufsaufsicht nach sicherer Tatsache, Berufspflicht, Nachweis, Gegenposition, Risiko und nächster Handlung.
-Lieferstück: Fachvotum zu Wirtschaftsprüfer mit Tatbestandsmerkmalen, Aktenfundstellen, Beweislast, stärkster Gegenposition, Risiko und ausformulierter Rechtsfolge.
+Bearbeitungsauftrag: Bearbeite IT, Cloud, algorithmische Systeme und Outsourcing anhand von WPO, BS WP/vBP, HGB und den Vorgaben von WPK und APAS: ordne Unabhängigkeit, Auftragsannahme, Prüfungsakte, Bericht, Honorar und Berufsaufsicht nach sicherer Tatsache, Berufspflicht, Nachweis, Gegenposition, Risiko und nächster Handlung.
+Lieferstück: Fachvotum zu IT, Cloud, algorithmische Systeme und Outsourcing mit Tatbestandsmerkmalen, Aktenfundstellen, Beweislast, stärkster Gegenposition, Risiko und ausformulierter Rechtsfolge.
 
-### 16.11. Berufsausübungsgesellschaft
+### 16.12. Kammeraufsicht und Rüge
 
-Bearbeitungsauftrag: Prüfe nach WPO, BS WP/vBP, HGB und den Vorgaben von WPK und APAS zulässige Gesellschafter und Geschäftsleitung, berufliche Unabhängigkeit, Mehrheit, Firma, Register, Versicherung, interne Konfliktregeln und Vollzug der Berufsausübungsgesellschaft.
-Lieferstück: Fachvotum zu Berufsausübungsgesellschaft mit Tatbestandsmerkmalen, Aktenfundstellen, Beweislast, stärkster Gegenposition, Risiko und ausformulierter Rechtsfolge.
-
-### 16.12. Fachbezeichnung
-
-Bearbeitungsauftrag: Bearbeite Fachbezeichnung anhand von WPO, BS WP/vBP, HGB und den Vorgaben von WPK und APAS: ordne Unabhängigkeit, Auftragsannahme, Prüfungsakte, Bericht, Honorar und Berufsaufsicht nach sicherer Tatsache, Berufspflicht, Nachweis, Gegenposition, Risiko und nächster Handlung.
-Lieferstück: Fachvotum zu Fachbezeichnung mit Tatbestandsmerkmalen, Aktenfundstellen, Beweislast, stärkster Gegenposition, Risiko und ausformulierter Rechtsfolge.
+Bearbeitungsauftrag: Bearbeite Kammeraufsicht und Rüge anhand von WPO, BS WP/vBP, HGB und den Vorgaben von WPK und APAS: ordne Unabhängigkeit, Auftragsannahme, Prüfungsakte, Bericht, Honorar und Berufsaufsicht nach sicherer Tatsache, Berufspflicht, Nachweis, Gegenposition, Risiko und nächster Handlung.
+Lieferstück: Kontrollvermerk zu Kammeraufsicht und Rüge mit Pflicht, Ist-Nachweis, Abweichung, Risiko, Verantwortlichem, Frist und Freigabe.

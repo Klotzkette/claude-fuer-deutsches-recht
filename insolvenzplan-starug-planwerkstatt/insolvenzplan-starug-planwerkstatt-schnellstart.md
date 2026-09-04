@@ -33,8 +33,8 @@ Ohne verwertbares Material genau eine gebündelte Frage zu Krisenstadium, Progno
 | Punkt | Sofortgriff |
 | --- | --- |
 | Normenanker | StaRUG Paragraf 1; InsO Paragraf 15a und Paragraf 15b; InsO Paragraf 17 bis Paragraf 19 |
-| Rechtsprechung | BGH, Urteil vom 24.05.2005 - IX ZR 123/04; BGH, Urteil vom 19.12.2017 - II ZR 88/16 |
-| Tatbestand | Liquiditätsstatus, Fälligkeit, Fortbestehensprognose, Antragspflicht, Beweislast und Sanierungsoption in einer Entscheidungslinie ordnen |
+| Rechtsprechung | BGH, Urteil vom 23.01.2025 - IX ZR 229/22; BGH, Urteil vom 24.05.2005 - IX ZR 123/04 |
+| Tatbestand | Liquiditätsstatus, Prognosehorizont, Insolvenzreife und Antragspflichten feststellen |
 | Beweislast | Nachweisachse Prognose: Fortbestehensprognose mit Planungsrechnung, Prämissen und Dokumentation belastbar machen |
 | Rechtsfolge | Prognosevermerk, StaRUG-Anzeige, Planentwurf, Gläubigerkommunikation oder Gremienvorlage ausformulieren |
 | Quellenstatus | Aktenfund, Normtext, Profilanker oder sicher belegte Entscheidung offen kennzeichnen; unsichere Aktenzeichen nicht ergänzen |
@@ -43,12 +43,11 @@ Ohne verwertbares Material genau eine gebündelte Frage zu Krisenstadium, Progno
 
 | Feld | Sofortgriff | Ausgabe |
 | --- | --- | --- |
-| Krisenstadium | Liquiditätsstatus, Fälligkeit, Fortbestehensprognose, Antragspflicht, Beweislast und Sanierungsoption in einer Entscheidungslinie ordnen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Krisenstadium | Liquiditätsstatus, Prognosehorizont, Insolvenzreife und Antragspflichten feststellen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
 | Prognose | Fortbestehensprognose mit Planungsrechnung, Prämissen und Dokumentation belastbar machen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Instrumentenwahl | Liquiditätsstatus, Fälligkeit, Fortbestehensprognose, Antragspflicht, Beweislast und Sanierungsoption in einer Entscheidungslinie ordnen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Instrumentenwahl | Freie Sanierung, StaRUG-Rahmen, Eigenverwaltung oder Regelverfahren abwägen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
 | Planarchitektur | Gruppen, Eingriffe, Vergleichsrechnung, Abstimmung und gerichtliche Bestätigung ordnen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Arbeitsprodukt | Liquiditätsstatus, Fälligkeit, Fortbestehensprognose, Antragspflicht, Beweislast und Sanierungsoption in einer Entscheidungslinie ordnen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Abstimmung: Internationaler Bezug und Schnittstellen | Bearbeite Abstimmung: Internationaler Bezug und Schnittstellen: Gruppen, Eingriffe, Vergleichsrechnung, Abstimmung. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Arbeitsprodukt | Prognosevermerk, StaRUG-Anzeige, Planentwurf, Gläubigerkommunikation oder Gremienvorlage ausformulieren. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
 
 ## 6. Anker
 
@@ -56,7 +55,7 @@ Ohne verwertbares Material genau eine gebündelte Frage zu Krisenstadium, Progno
 - InsO Paragraf 15a und Paragraf 15b: Antragspflicht und Zahlungen nach Insolvenzreife.
 - InsO Paragraf 17 bis Paragraf 19: Zahlungsunfähigkeit, drohende Zahlungsunfähigkeit und Überschuldung mit Fortbestehensprognose.
 - StaRUG Paragraf 29 ff.: Instrumente des Stabilisierungs- und Restrukturierungsrahmens.
-- Paragraf 217 InsO (Planoption) → Paragraf 218 InsO (Planvorlage) → Paragrafen 220 und 221 InsO (darstellender und gestaltender Teil) → Paragraf 222 InsO (Gruppen) → Paragrafen 235; im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
+- Paragraf 217 InsO (Planoption) → Paragraf 218 InsO (Planvorlage) → Paragrafen 220 und 221 InsO (darstellender und gestaltender Teil) → Paragraf 222 InsO (Gruppen) → Paragrafen 235 bis 244 InsO (Abstimmung) → Paragraf 245 InsO (gruppenübergreifende Mehrheitsentscheidung) → Paragraf 248 InsO (Bestätigung) → Paragraf 254 InsO (Wirkung) → Paragrafen 2 bis 28 StaRUG (Planreichweite, Inhalt und Annahme) → Paragraf 25 StaRUG (Mehrheiten) → Paragraf 26 StaRUG (gruppenübergreifende Mehrheitsentscheidung); im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
 - Paragrafen 217 bis 269 InsO — Insolvenzplan (Architektur, Gruppen, Anlagen, Abstimmung, Bestätigung, Vollzug); im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
 - Paragrafen 244 und 245 InsO — Abstimmungsmehrheiten und Obstruktionsverbot (Cramdown); im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
 - Paragraf 251 InsO — Minderheitenschutz; im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.

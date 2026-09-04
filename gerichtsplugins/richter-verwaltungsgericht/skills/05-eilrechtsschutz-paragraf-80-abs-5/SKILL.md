@@ -1,92 +1,95 @@
 ---
 name: 05-eilrechtsschutz-paragraf-80-abs-5
-description: "Für 05 Eilrechtsschutz Paragraf 80 Abs 5: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
+description: "Prüft Anträge nach Paragraf 80 Absatz 5 VwGO aus richterlicher Perspektive, trennt Anordnung und Wiederherstellung der aufschiebenden Wirkung und erstellt einen begründeten Eilbeschluss mit Tenor, Kosten und Streitwert."
 ---
 
-# 05 Eilrechtsschutz Paragraf 80 Abs 5
+# Eilrechtsschutz nach Paragraf 80 Absatz 5 VwGO
 
-## Zweck
+## 1. Zweck und Verfahrensgrenze
 
-Eilrechtsschutz Paragraf 80 Abs. 5 VwGO: Anordnung oder Wiederherstellung der aufschiebenden Wirkung, Folgenabwaegung, Erfolgsaussichten der Hauptsache, öffentliches Interesse
+Der Skill bereitet einen richterlichen Eilbeschluss vor, wenn ein Widerspruch oder eine Anfechtungsklage gegen einen Verwaltungsakt keine aufschiebende Wirkung hat. Er ist nicht die Auffangroute für jeden verwaltungsgerichtlichen Eilantrag: Bei einem begehrten vorläufigen Tun oder Unterlassen ist Paragraf 123 VwGO zu prüfen; bei Verwaltungsakten mit Drittwirkung ist Paragraf 80a VwGO einzubeziehen.
 
-## Rolle
+Vorhandene Gerichts- und Behördenakten sind zuerst zu lesen. Der erste Arbeitsstand benennt Antrag, angegriffenen Regelungsteil, Vollziehungsgrund und nächstes entscheidungsreifes Produkt; Rückfragen folgen nur bei einer entscheidungserheblichen Lücke.
 
+## 2. Eingaben
 
-Werkstatt-Assistent für den Verwaltungsrichter am Verwaltungsgericht (Paragrafen 5, 6 VwGO: Kammer mit drei Berufsrichtern und zwei ehrenamtlichen Richtern, Einzelrichter nach Paragraf 6 VwGO). Anfechtung, Verpflichtung, Asylklage, Eilverfahren.
+- Antragsschrift und präziser Antrag;
+- angegriffener Verwaltungsakt mit Zustell- oder Bekanntgabenachweis;
+- Widerspruch, Anfechtungsklage und Eingangsbestätigungen;
+- Anordnung der sofortigen Vollziehung und deren Begründung;
+- vollständige Verwaltungsvorgänge einschließlich Anhörung und Fachstellungnahmen;
+- Angaben zu bereits begonnenem Vollzug, drohenden Folgen und möglichen Sicherungsauflagen;
+- einschlägiges Fachgesetz sowie spezialgesetzliche Regeln zur aufschiebenden Wirkung;
+- Kosten- und Streitwertangaben.
 
-## Rechtsrahmen
+## 3. Statthaftigkeit und Zulässigkeit
 
-VwGO, VwVfG, GG, BVerwGG, GKG, RVG, Fachgesetze (BImSchG, BauGB, AsylG, AufenthG)
+1. Bestimme das Rechtsschutzziel nach Paragraf 88 VwGO und identifiziere jeden angegriffenen Regelungsteil. Maßgeblich ist, ob in der Hauptsache ein belastender Verwaltungsakt mit Widerspruch oder Anfechtungsklage abgewehrt wird.
+2. Prüfe den Ausgangspunkt des Paragrafen 80 Absatz 1 VwGO und sodann den konkreten Entfall der aufschiebenden Wirkung nach Paragraf 80 Absatz 2 Satz 1 Nummer 1 bis 3a VwGO oder aufgrund einer behördlichen Anordnung nach Nummer 4. Ohne einen solchen Entfall fehlt regelmäßig das Bedürfnis für einen Antrag nach Absatz 5.
+3. Formuliere die richtige Rechtsfolge: „anordnen“ in den gesetzlichen Fällen des Paragrafen 80 Absatz 2 Satz 1 Nummer 1 bis 3a VwGO, „wiederherstellen“ bei einer behördlichen Sofortvollzugsanordnung nach Nummer 4.
+4. Prüfe bei Drittwirkung die Antragskonstellation nach Paragraf 80a VwGO und beteilige den Begünstigten oder betroffenen Dritten nach den dafür maßgeblichen Vorschriften.
+5. Prüfe Zuständigkeit des Gerichts der Hauptsache, Antragsbefugnis, Rechtsschutzbedürfnis sowie Statthaftigkeit und Frist des beabsichtigten oder bereits erhobenen Hauptsacherechtsbehelfs. Der Antrag nach Paragraf 80 Absatz 5 VwGO ist bereits vor Erhebung der Anfechtungsklage zulässig.
+6. Nur bei öffentlichen Abgaben und Kosten nach Paragraf 80 Absatz 2 Satz 1 Nummer 1 VwGO ist das behördliche Vorverfahren nach Paragraf 80 Absatz 6 VwGO mit seinen gesetzlichen Ausnahmen gesondert zu prüfen.
+7. Ist der Verwaltungsakt schon vollzogen, entscheide zusätzlich, ob und in welchem Umfang die Aufhebung der Vollziehung nach Paragraf 80 Absatz 5 Satz 3 VwGO beantragt und anzuordnen ist.
 
-## Pflichtschritte
+## 4. Begründetheit
 
-1. Statthafte Klageart bestimmen (Anfechtungs-, Verpflichtungs-, Feststellungs- oder Leistungsklage).
-2. Zulässigkeit prüfen: Klagebefugnis (Paragraf 42 Abs. 2 VwGO), Vorverfahren und Frist (Paragrafen 68 ff. und 74 VwGO).
-3. Eilrechtsschutz prüfen (Paragraf 80 und Paragraf 80a VwGO bei belastenden Akten, Paragraf 123 VwGO sonst).
-4. Sachverhalt von Amts wegen aufklären (Paragraf 86 VwGO); Rechtmäßigkeit des Verwaltungshandelns und Rechtsverletzung prüfen.
-5. Tenor, Kosten und vorläufige Vollstreckbarkeit absetzen; Berufungszulassung (Paragraf 124 VwGO) erwägen.
-6. Arbeitsstand als Vorschlag zur richterlichen Prüfung markieren; die Letztentscheidung trifft der Mensch.
-7. Quellen vollständig zitieren (Norm, Aktenzeichen, Datum) und Schwellenwerte sowie Fristen vor Verwendung verifizieren.
+1. Bei behördlich angeordnetem Sofortvollzug prüfe zuerst eigenständig die formelle Begründung nach Paragraf 80 Absatz 3 VwGO. Erforderlich ist eine auf den Einzelfall bezogene Darlegung des besonderen Vollzugsinteresses; die bloße Wiederholung des Erlassinteresses genügt nicht.
+2. Trenne die formelle Kontrolle der Vollziehungsanordnung von der gerichtlichen Interessenabwägung. Das Gericht trifft eine eigene Abwägungsentscheidung und ersetzt sie nicht durch eine bloße Plausibilitätskontrolle der Behördenbegründung.
+3. Prüfe die Erfolgsaussichten des Hauptsacherechtsbehelfs anhand des im Eilverfahren erreichbaren Erkenntnisstands. Bei voraussichtlicher Rechtswidrigkeit überwiegt regelmäßig das Aussetzungsinteresse; bei voraussichtlicher Rechtmäßigkeit sind gesetzliche Wertungen und das konkrete Vollzugsinteresse zu prüfen.
+4. Bleiben die Erfolgsaussichten offen, führe eine echte Folgenabwägung durch. Stelle Eintrittswahrscheinlichkeit, Schwere, Dauer und Reversibilität der Folgen beider Entscheidungsalternativen gegenüber und gewichte betroffene Grundrechte ausdrücklich.
+5. Prüfe bei bereits vollzogenen Maßnahmen Rückgängigmachung, Sicherungsanordnungen, Befristung und Auflagen. Der Tenor darf nicht mehr gewähren als beantragt, muss aber den betroffenen Regelungsteil und die Vollzugsfolge vollstreckungsfest bezeichnen.
+6. Behandle Kosten nach den Paragrafen 154 ff. VwGO und Streitwert nach den einschlägigen Vorschriften des GKG. Eine Entscheidung über vorläufige Vollstreckbarkeit gehört nicht schematisch in jeden Eilbeschluss.
 
-## Output
+## 5. Rechtsprechungsanker und Einsatzgrenzen
 
-Strukturierter Arbeitsstand: Prüfungspunkte, Zitate, offene Fragen, Vorschlag zur Prüfung.
+- BVerfG, Beschluss vom 12. Mai 2005 - 1 BvR 569/05 -, Randnummern 24 bis 26: Drohen ohne vorläufigen Rechtsschutz schwere und unzumutbare, später nicht mehr zu beseitigende Nachteile, steigen die Anforderungen an die Prüfungstiefe. Ist eine vollständige Klärung nicht möglich, ist eine grundrechtsbezogene Folgenabwägung erforderlich. Die Entscheidung erging in sozialgerichtlichen Eilverfahren und ist nur für diesen verfassungsrechtlichen Maßstab, nicht als pauschales Prüfungsschema jedes Verfahrens nach Paragraf 80 Absatz 5 VwGO heranzuziehen.
+- BVerwG, Beschluss vom 13. September 2011 - 1 VR 1.11 -: Die Entscheidung betrifft die Fortdauer der aufschiebenden Wirkung nach Paragraf 80b Absatz 2 VwGO während eines Revisionsverfahrens und die dafür zuständige Instanz. Sie ist kein allgemeiner Beleg für die Methodik eines erstinstanzlichen Antrags nach Paragraf 80 Absatz 5 VwGO und wird dafür nicht zitiert.
 
-<!-- BEGIN ausformulierungspflicht (autogen) -->
-> **Ausformulierungspflicht und Formatstandard.** Das Endprodukt wird in **vollständigen, ausformulierten Sätzen** geliefert — keine Stichwortskelette, keine leeren Klauselrümpfe, keine reinen Aufzählungen. Klauseln stehen als ausformulierte Rechtsfolgen-Sätze; Platzhalter wie `[Name der Mandantin]` werden klar markiert, der umgebende Text bleibt vollständig.
->
-> **Schriftbild:** Wenn ein Schriftsatz, Vertrag, Memo, Beschluss, Vermerk oder sonstiges Enddokument als DOCX, PDF oder formatierter Text ausgegeben wird, ist **Times New Roman 11 pt** als Grundschrift zu verwenden. Überschriften bleiben in derselben Schrift und dürfen nur fett oder abgestuft sein. Bei reiner Markdown- oder Chat-Ausgabe wird dieser Formatwunsch als Exporthinweis aufgenommen.
->
-> **Nummerierung:** Gliederung ausschließlich dezimal (`1`, `1.1`, `1.1.1` und so weiter). Keine römischen Ziffern, keine Buchstaben- oder Mischgliederung.
-<!-- END ausformulierungspflicht (autogen) -->
+Jeder weitere Rechtsprechungsanker wird vor Aufnahme anhand des amtlichen Volltexts auf Verfahrensart, Fachrecht, tragenden Satz und Übertragungsgrenze geprüft.
 
-## Anker-Rechtsprechung
+## 6. Entscheidungs- und Beweismatrix
 
-- BVerfG, Beschluss vom 12.05.2005 - 1 BvR 569/05, frei nachweisbar über bundesverfassungsgericht.de/dejure: Effektiver Eilrechtsschutz verlangt eine Folgenabwägung, wenn die Hauptsache nicht rechtzeitig geklärt werden kann.
-- Ständige Rechtsprechung des BVerfG zu Art. 19 Abs. 4 GG: Effektiver Rechtsschutz verlangt eine tatsächlich wirksame gerichtliche Kontrolle, besonders bei grundrechtsintensiven Verwaltungsakten; ein konkretes Aktenzeichen wird vor produktiver Zitierung verifiziert.
-- BVerwG, Beschluss vom 13.09.2011 - 1 VR 1.11, frei nachweisbar über Rechtsprechung-im-Internet/dejure: Eilrechtsschutz muss summarische Rechtmäßigkeitsprüfung und Interessenabwägung nachvollziehbar verbinden.
-- Ständige Rechtsprechung des BVerwG zur Ermessenskontrolle nach Paragraf 114 VwGO: Das Gericht prüft Ermessensnichtgebrauch, Ermessensfehlgebrauch, Ermessensüberschreitung und Verfahrensfehler; ein konkretes Aktenzeichen wird vor produktiver Zitierung über Rechtsprechung-im-Internet verifiziert.
+Ordne jede entscheidungserhebliche Frage einer Zeile zu:
 
-## Prüfungsschema in Stufen
+| Prüfpunkt | Aktenfund | Gegenposition | Erkenntnisstand | Auswirkung |
+| --- | --- | --- | --- | --- |
+| Entfall der aufschiebenden Wirkung | [Fundstelle] | [Einwand] | geklärt oder offen | Statthaftigkeit |
+| Form des Sofortvollzugs | [Fundstelle] | [Einwand] | geklärt oder offen | formelle Rechtmäßigkeit |
+| Hauptsacheprognose | [Fundstelle] | [Einwand] | positiv, negativ oder offen | Abwägungsgewicht |
+| Vollzugsfolgen | [Fundstelle] | [Einwand] | reversibel oder irreversibel | Folgenabwägung |
+| Sicherung und Rückabwicklung | [Fundstelle] | [Einwand] | möglich oder ausgeschlossen | Tenor |
 
-1. Eilrechtsschutz Paragraf 80 Abs 5: Statthaften Antrag, Antragsbefugnis, Rechtsschutzbedürfnis und Eilbedürftigkeit zuerst prüfen.
-2. Anordnungsanspruch oder Erfolgsaussichten der Hauptsache vom Anordnungsgrund beziehungsweise Aussetzungsinteresse trennen.
-3. Bei Paragraf 80 Abs. 5 VwGO gesetzliche Sofortvollziehbarkeit, behördliche Anordnung und Begründung nach Paragraf 80 Abs. 3 VwGO prüfen.
-4. Folgenabwägung nur einsetzen, wenn die Erfolgsaussichten offen bleiben; Grundrechtsgewicht ausdrücklich benennen.
-5. Beschluss mit Tenor zur aufschiebenden Wirkung oder einstweiligen Anordnung, Kosten und Streitwert fassen.
+## 7. Arbeitsprodukt
 
-## Typische Fallstricke
+Erzeuge einen vollständig ausformulierten Eilbeschluss mit Rubrum, Anträgen, Tenor, Gründen, Kostenentscheidung und Streitwertfestsetzung. Die Gründe trennen Zulässigkeit, formelle Sofortvollzugskontrolle, Hauptsacheprognose, Interessen- oder Folgenabwägung und gegebenenfalls Vollzugsfolgen. Offene Tatsachen werden nicht erfunden, sondern als konkrete Aufklärungs- oder Anhörungsverfügung ausgewiesen.
 
-- Anfechtungsklage, Verpflichtungsklage und Feststellungsklage werden aus dem Antrag nicht sauber herausgelesen.
-- Eilrechtsschutz nach Paragraf 80 Abs. 5 VwGO wird mit Paragraf 123 VwGO vermischt.
-- Ermessen wird durch eigene Zweckmaessigkeitserwaegungen ersetzt.
-- Aktengeheimnis und Amtsverschwiegenheit nach Paragraf 353b StGB und Paragraf 43 DRiG begrenzen jede externe Verarbeitung.
-
-## Tenor-Bausteine bzw. Beschluss-Bausteine
-
-### Baustein A
-
-```text
-Die aufschiebende Wirkung der Klage gegen den Bescheid vom [Datum] wird angeordnet, soweit [Regelungsteil]. Im Übrigen wird der Antrag abgelehnt.
-```
-
-### Baustein B
+### 7.1 Tenor bei gesetzlichem Entfall
 
 ```text
-Die Behörde wird um Vorlage der vollständigen Verwaltungsvorgänge und um Stellungnahme zu [Ermessensausübung/Anhörung/Zuständigkeit] binnen [Frist] gebeten.
+Die aufschiebende Wirkung der [Klage/des Widerspruchs] gegen [genaue Bezeichnung des Verwaltungsakts] vom [Datum] wird hinsichtlich [Regelungsteil] angeordnet.
 ```
 
-## Benachbarte Skills
+### 7.2 Tenor bei behördlichem Sofortvollzug
 
-- **Davor**: `04-begruendetheit-verpflichtungsklage` - Vorgelagerten Skill nutzen, wenn der Aktenstand noch nicht bis Eilrechtsschutz Paragraf 80 Abs 5 trägt.
-- **Danach**: `06-eilrechtsschutz-paragraf-123` - Folgeskill nutzen, sobald Eilrechtsschutz Paragraf 80 Abs 5 entscheidungs- oder verfügungsreif vorbereitet ist.
+```text
+Die aufschiebende Wirkung der [Klage/des Widerspruchs] gegen [genaue Bezeichnung des Verwaltungsakts] vom [Datum] wird hinsichtlich [Regelungsteil] wiederhergestellt.
+```
 
-## Gerichtliche Arbeitsprodukt-Schärfung
+Das Endprodukt verwendet, soweit technisch möglich, Times New Roman in 11 Punkt und ausschließlich dezimale Gliederung.
 
-- Rolle: Verwaltungsgericht. Der Skill spricht aus der Binnenperspektive des Spruchkörpers und erzeugt Eilbeschluss, Gerichtsbescheid, Urteil, Hinweis oder Vergleichsvorschlag; er ersetzt keine anwaltliche Strategie und keine Parteiberatung.
-- Pflichtstamm: Paragrafen 42, 80, 80a, 86, 88, 113, 123 VwGO. Normen werden im Ergebnis nur verwendet, wenn sie zum konkreten Aktenproblem passen; fehlende Spezialnormen werden als Prüfbedarf markiert.
-- Verfügungssprache: Jede Ausgabe endet mit einer konkreten Anschlussverfügung, etwa Anhörung, Fristsetzung, Hinweis, Beweisbeschluss, Terminierung, Abgabe, Vorlage oder Entscheidungsentwurf.
-- Stop-Kriterium: Sobald Aktengeheimnis, richterliche Unabhängigkeit, Geschäftsverteilung, Befangenheit, nicht geklärte Zuständigkeit oder ein unaufgeklärter Grundrechtseingriff berührt ist, wird nicht weiter simuliert, sondern eine Vorlage- oder Prüfverfügung formuliert.
+## 8. Quellen
+
+- [Paragraf 80 VwGO](https://www.gesetze-im-internet.de/vwgo/__80.html)
+- [Paragraf 80a VwGO](https://www.gesetze-im-internet.de/vwgo/__80a.html)
+- [Paragraf 123 VwGO](https://www.gesetze-im-internet.de/vwgo/__123.html)
+- [BVerfG, Beschluss vom 12. Mai 2005 - 1 BvR 569/05 -](https://www.bundesverfassungsgericht.de/SharedDocs/Entscheidungen/DE/2005/05/rk20050512_1bvr056905.html)
+- [BVerwG, Beschluss vom 13. September 2011 - 1 VR 1.11 -](https://www.bverwg.de/de/130911B1VR1.11.0)
+
+## 9. Benachbarte Skills
+
+- Vorher: `04-begruendetheit-verpflichtungsklage`, wenn die Hauptsache als Verpflichtungsbegehren einzuordnen ist.
+- Danach: `06-eilrechtsschutz-paragraf-123`, wenn kein Fall der Paragrafen 80 oder 80a VwGO vorliegt.
 
 ## Beitrag zum Streitstoff in diesem Verfahren
 

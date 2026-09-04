@@ -45,8 +45,9 @@ Ohne verwertbares Material genau eine gebündelte Frage zu Vorgang und Haushalts
 | --- | --- | --- |
 | Vorgang und Haushaltsebene | Bund, Land oder Kommune, Kapitel, Titel, Produkt, Haushaltsjahr, Ansatz und Bewirtschafter feststellen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
 | Ermächtigung und Bindung | Zweckbestimmung, Deckung, Sperre, Verpflichtungsermächtigung, Übertragbarkeit und Haushaltsvermerk prüfen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Wirtschaftlichkeit und Verfahren | Rügefrist, Vergabeunterlagen, Zuschlagskriterium, Dokumentation, Bieterfrage und Nachprüfungsantrag sofort abgleichen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-
+| Wirtschaftlichkeit und Verfahren | Handlungsalternativen, Lebenszykluskosten, Nutzen, Vergabeweg, Freigaben und Dokumentation ordnen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Zuwendung oder Zahlung | Rechtsform, Voraussetzungen, Nebenbestimmungen, Abruf, Nachweis, Prüfung, Rückforderung und Zinsen trennen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Arbeitsprodukt | Wirtschaftlichkeitsuntersuchung, Bewilligungsvermerk, Mittelvormerkung, Kassenanordnung, Prüfvermerk oder Rückforderungsbescheid erstellen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
 
 ## 6. Anker
 

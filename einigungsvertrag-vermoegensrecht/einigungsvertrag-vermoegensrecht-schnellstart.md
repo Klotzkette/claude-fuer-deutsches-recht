@@ -44,11 +44,10 @@ Ohne verwertbares Material genau eine gebündelte Frage zu Objekt und Zeitachse,
 | Feld | Sofortgriff | Ausgabe |
 | --- | --- | --- |
 | Objekt und Zeitachse | Flurstück, Gebäude, Rechtsträger, Eigentums- und Nutzungswechsel von Vorkriegszeit über DDR bis heute belegen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Quellenkritik | Grundbuch, Liegenschaftskarte, Rechtsträgernachweis, Enteignungsakt, Register, Archivakte, Treuhandvertrag. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Quellenkritik | Grundbuch, Liegenschaftskarte, Rechtsträgernachweis, Enteignungsakt, Register, Archivakte, Treuhandvertrag und Bescheid einordnen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
 | Anspruchspfad | Zuordnung, Restitution, Entschädigung, Sachenrechtsbereinigung, Berichtigung oder Sondergesetz strikt trennen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
 | Verfahren und Einwand | Zuständigkeit, Antrag, Ausschlussfrist, Bestandskraft, Rechtsnachfolge, redlicher Erwerb und Beweislast prüfen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Arbeitsprodukt | Eigentumschronologie, Belegmappe, Archivanfrage, Behördenantrag, Widerspruch, Klage- oder Grundbuchunterlage. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Ausschlussfristen und Bestandskraft | Bearbeite Ausschlussfristen und Bestandskraft: Zuständigkeit, Antrag, Ausschlussfrist, Bestandskraft. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Arbeitsprodukt | Eigentumschronologie, Belegmappe, Archivanfrage, Behördenantrag, Widerspruch, Klage- oder Grundbuchunterlage erstellen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
 
 ## 6. Anker
 

@@ -82,9 +82,9 @@ Arbeitsgriff Arbeitsprodukt: Einordnungsmemo, Roadmap, Vorstandsvorlage, Behörd
 
 | Ebene | Fallfrage | Anker | Sofortausgabe |
 | --- | --- | --- | --- |
-| Fallkern | Biometrie, Emotionserkennung und Polizeigrenzen | VO (EU) 2024/1689 Art. 2 und Art. 3 | Sofortvermerk mit Ergebnisrichtung, Risiko und nächstem Schritt |
+| Fallkern | Harmonisierte Normen und Übergang | VO (EU) 2024/1689 Art. 2 und Art. 3 | Sofortvermerk mit Ergebnisrichtung, Risiko und nächstem Schritt |
 | Zulässigkeit und Frist | Frist, Form, Zuständigkeit, Rolle und statthafter Weg | VO (EU) 2024/1689 Art. 5 | Fristenblatt oder Prozess-/Verfahrensroute |
-| Begründetheit | Fallfremde Textbausteine | VO (EU) 2024/1689 Art. 5 | Tatbestandsmatrix mit Beleg und Gegenargument |
+| Begründetheit | Kanzlei-System-Outsourcing und Berufsgeheimnis | VO (EU) 2024/1689 Art. 5 | Tatbestandsmatrix mit Beleg und Gegenargument |
 | Rechtsfolge | Einordnungsmemo, Roadmap, Vorstandsvorlage, Behördenantwort, Q&A, Vertragsmatrix oder Freigabevermerk erstellen | Nachweisachse Nachweisakte: Risikomanagement, Daten, technische Dokumentation, Logging, menschliche Aufsicht, Testing und EU-Datenbank als Beleglinie führen | Antrag, Entwurf, Entscheidungsvorschlag oder Mandantenbrief |
 
 ## 5. Normenanker, Tatbestandswichtigkeiten und Beweislast
@@ -143,7 +143,7 @@ Arbeitsgriff Arbeitsprodukt: Einordnungsmemo, Roadmap, Vorstandsvorlage, Behörd
 
 10.1. Kernsatz: Benenne Parteirolle, Ziel und die begehrte oder abzuwehrende Rechtsfolge aus diesem Arbeitsfeld: Einordnungsmemo, Roadmap, Vorstandsvorlage, Behördenantwort, Q&A, Vertragsmatrix oder Freigabevermerk erstellen.
 10.2. Tragende Regel: Stelle den einschlägigen Normsatz voran und ordne ihn dem konkreten Streitpunkt zu; erste Anker sind VO (EU) 2024/1689 Art. 2 und Art. 3; VO (EU) 2024/1689 Art. 5.
-10.3. Tatbestandsmerkmal: Arbeite zuerst den entscheidenden Fachpunkt aus, regelmäßig Biometrie, Emotionserkennung und Polizeigrenzen.
+10.3. Tatbestandsmerkmal: Arbeite zuerst den entscheidenden Fachpunkt aus, regelmäßig Harmonisierte Normen und Übergang.
 10.4. Aktenfund: Nenne Datum, Beteiligten, Handlung, Betrag und genaue Fundstelle; im Bereich Europäische Technikregulierung tragen regelmäßig die vorgelegten Urkunden, Bescheide und Korrespondenz den Nachweis. Eine streitige Behauptung bleibt als solche bezeichnet.
 10.5. Beweislast: Nachweisachse Nachweisakte: Risikomanagement, Daten, technische Dokumentation, Logging, menschliche Aufsicht, Testing und EU-Datenbank als Beleglinie führen. Zeige ausdrücklich, welche Folge ein offener Beweis hat.
 10.6. Gegenposition: Formuliere den stärksten ernsthaften Angriff; hier setzt die Gegenseite typischerweise bei welche Rolle hat der Mandant und wer schuldet welche Pflicht an.
@@ -183,95 +183,91 @@ Die Landkarte dient der schnellen Auswahl. Sie ersetzt nicht die darunter ausfor
 
 | Arbeitsfeld | Entscheidende Weiche | Erstes Lieferstück |
 | --- | --- | --- |
-| Biometrie, Emotionserkennung und Polizeigrenzen | Prüfe bei biometrischen Systemen nicht nur „erlaubt/verboten“, sondern Zweck, Ort, Echtzeit/Nachhinein, Datenquelle, Betroffenengruppe, Strafverfolgungsbezug, menschliche Kontrolle und Rechtsgrundlage. | Fachvotum zu Biometrie, Emotionserkennung und Polizeigrenzen mit Tatbestandsmerkmalen, Aktenfundstellen, Beweislast, stärkster Gegenposition, Risiko und ausformulierter Rechtsfolge |
-| Fallfremde Textbausteine | ZPO Paragraf 138 für Wahrheitspflicht und Erklärungslast im Zivilprozess; ZPO Paragrafen 130, 130a für formale Schriftsatzanforderungen. | Fachvotum zu Fallfremde Textbausteine mit Tatbestandsmerkmalen, Aktenfundstellen, Beweislast, stärkster Gegenposition, Risiko und ausformulierter Rechtsfolge |
 | Harmonisierte Normen und Übergang | Der Skill trennt harmonisierte Norm mit Vermutungswirkung, gemeinsame Spezifikation, ISO/IEC-Standard, Branchenpraxis und bloße Herstellerbehauptung. | Fachvotum zu Harmonisierte Normen und Übergang mit Tatbestandsmerkmalen, Aktenfundstellen, Beweislast, stärkster Gegenposition, Risiko und ausformulierter Rechtsfolge |
 | Kanzlei-System-Outsourcing und Berufsgeheimnis | StGB Paragraf 203 und BRAO Paragraf 43a für Berufsgeheimnis/Verschwiegenheit; BRAO Paragraf 43e für Dienstleistereinbindung bei anwaltlicher Berufsausübung prüfen. | Fachvotum zu Kanzlei-System-Outsourcing und Berufsgeheimnis mit Tatbestandsmerkmalen, Aktenfundstellen, Beweislast, stärkster Gegenposition, Risiko und ausformulierter Rechtsfolge |
 | Provider-Deployer-Vertragsmatrix | Bestimme zuerst, wer Anbieter, Betreiber, Importeur, Händler, Produkthersteller, Auftragsverarbeiter oder gemeinsamer Verantwortlicher ist. | verhandlungsfähige Fassung mit Ausgangstext, Änderung, Begründung, Rückfallposition und Vollzugscheck |
-| Strafverfolgung: algorithmische Systeme und Beweisbewertung | Der Skill prüft, ob System-Ergebnisse in Ermittlungsakten, Polizeivermerken oder Beweisanträgen belastbar sind und welche Regulierungsrahmen- und Prozessrisiken entstehen. | Beweismatrix zu Strafverfolgung: algorithmische Systeme und Beweisbewertung mit Tatfrage, Beweislast, Beweismittel, Fundstelle, Gegenposition und Folge eines offenen Nachweises |
 | Art. 4 Regulierungsrahmen — System-Kompetenz als Compliance-Programm | Bearbeite Art. 4 Regulierungsrahmen — System-Kompetenz als Compliance-Programm: adressatenkreis, Rollen, Risikoklasse, Schulungsinhalt, Nachweis, Wiederholung und Verantwortlichkeit dokumentieren. | Kontrollvermerk zu Art. 4 Regulierungsrahmen — System-Kompetenz als Compliance-Programm mit Pflicht, Ist-Nachweis, Abweichung, Risiko, Verantwortlichem, Frist und Freigabe |
-| Polizeiliche algorithmische Systeme und Vertrauenswürdigkeit | Polizeiliche algorithmische Systeme ist nie nur Technikbeschaffung. Prüfe zuerst Zweck, Eingriffstiefe, Datenquelle, Rechtsgrundlage, menschliche Kontrolle, Fehlerfolgen und Nachvollziehbarkeit. | Fachvotum zu Polizeiliche algorithmische Systeme und Vertrauenswürdigkeit mit Tatbestandsmerkmalen, Aktenfundstellen, Beweislast, stärkster Gegenposition, Risiko und ausformulierter Rechtsfolge |
 | EU-Datenbank-Registrierung — Art. 49 und 71 Regulierungsrahmen | Anbieter von Hochrisiko-System-Systemen nach Artikel 6 Absatz 2 in Verbindung mit Anhang III Regulierungsrahmen müssen sich und ihr System in der EU-Datenbank registrieren, bevor sie das System in Verkehr bringen oder in Betrieb nehmen. | Fachvotum zu EU-Datenbank-Registrierung — Art. 49 und 71 Regulierungsrahmen mit Tatbestandsmerkmalen, Aktenfundstellen, Beweislast, stärkster Gegenposition, Risiko und ausformulierter. |
+| Hochrisiko-Systeme bestätigt — die End-to-End-Roadmap | Anbieter hat Hochrisiko-Einstufung des eigenen System-Systems bestätigt und fragt: Was sind jetzt alle nötigen Schritte bis zur CE-Kennzeichnung und Marktfreigabe? End-to-End-Roadmap Hochrisiko-Systeme Artikel 9 bis 49 Regulierungsrahmen. | Fachvotum zu Hochrisiko-Systeme bestätigt — die End-to-End-Roadmap mit Tatbestandsmerkmalen, Aktenfundstellen, Beweislast, stärkster Gegenposition, Risiko und ausformulierter. |
+| Persönlicher Anwendungsbereich — Rollen nach Art. 3 Regulierungsrahmen | Prüfraster: Anbieter Artikel 3 Nummer 3 Betreiber Artikel 3 Nummer 4 Einführer Artikel 3 Nummer 6 Händler Artikel 3 Nummer 7 Produkthersteller Artikel 25 Bevollmächtigter Artikel 22. | Fachvotum zu Persönlicher Anwendungsbereich — Rollen nach Art. 3 Regulierungsrahmen mit Tatbestandsmerkmalen, Aktenfundstellen, Beweislast, stärkster Gegenposition, Risiko und ausformulierter. |
+| Biometrie, Emotionserkennung und Polizeigrenzen | Prüfe bei biometrischen Systemen nicht nur „erlaubt/verboten“, sondern Zweck, Ort, Echtzeit/Nachhinein, Datenquelle, Betroffenengruppe, Strafverfolgungsbezug, menschliche Kontrolle und Rechtsgrundlage. | Fachvotum zu Biometrie, Emotionserkennung und Polizeigrenzen mit Tatbestandsmerkmalen, Aktenfundstellen, Beweislast, stärkster Gegenposition, Risiko und ausformulierter Rechtsfolge |
+| Fallfremde Textbausteine | ZPO Paragraf 138 für Wahrheitspflicht und Erklärungslast im Zivilprozess; ZPO Paragrafen 130, 130a für formale Schriftsatzanforderungen. | Fachvotum zu Fallfremde Textbausteine mit Tatbestandsmerkmalen, Aktenfundstellen, Beweislast, stärkster Gegenposition, Risiko und ausformulierter Rechtsfolge |
 
 ## 16. Fachspezifische Praxisrouten
 
 Diese Routen stammen aus den konkreten Arbeitsthemen dieses Plugins. Wähle die sachnächste Route, liefere deren ersten verwertbaren Baustein sofort und vertiefe nur die Punkte, die das Ergebnis tatsächlich ändern.
 
-### 16.1. Biometrie, Emotionserkennung und Polizeigrenzen
-
-Bearbeitungsauftrag: Prüfe bei biometrischen Systemen nicht nur „erlaubt/verboten“, sondern Zweck, Ort, Echtzeit/Nachhinein, Datenquelle, Betroffenengruppe, Strafverfolgungsbezug, menschliche Kontrolle und Rechtsgrundlage. Datenschutz-Grundverordnung Artikel 9 und BDSG/Landespolizeirecht; StPO bei repressiver Strafverfolgung. GG Artikel 1, 2 Absatz 1, 3, 8, 10, 19 Absatz 4; GRCh Artikel 7, 8,.
-Prüfschritte: Entscheidungsbaum mit Verbotsprüfung, Ausnahmepfad, Hochrisiko-Pflichten, nationaler Eingriffsnorm, DSFA/Fundamental-Rights-Impact, Beschaffungsstopp oder Auflagenkatalog; VO (EU) 2024/1689 Artikel 5: verbotene System-Praktiken, insbesondere bestimmte biometrische und manipulative Einsätze; Artikel 6 und Anhang III Regulierungsrahmen: Hochrisiko-Systeme, u.a; biometrische Identifizierung/Kategorisierung und Strafverfolgung; Artikel 9-15, 26, 27 Regulierungsrahmen: Risikomanagement, Daten, Logging, Transparenz, Aufsicht, Grundrechte-Folgenabschätzung.
-Norm- oder Entscheidungsbezug aus dem Fachmaterial: Entscheidungsbaum mit Verbotsprüfung, Ausnahmepfad, Hochrisiko-Pflichten, nationaler Eingriffsnorm, DSFA/Fundamental-Rights-Impact, Beschaffungsstopp oder Auflagenkatalog; VO (EU) 2024/1689 Artikel 5: verbotene System-Praktiken, insbesondere bestimmte biometrische und manipulative Einsätze.
-Lieferstück: Fachvotum zu Biometrie, Emotionserkennung und Polizeigrenzen mit Tatbestandsmerkmalen, Aktenfundstellen, Beweislast, stärkster Gegenposition, Risiko und ausformulierter Rechtsfolge.
-
-### 16.2. Fallfremde Textbausteine
-
-Bearbeitungsauftrag: ZPO Paragraf 138 für Wahrheitspflicht und Erklärungslast im Zivilprozess; ZPO Paragrafen 130, 130a für formale Schriftsatzanforderungen. StPO/OWiG und VwGO/SGG/FGO jeweils gesondert prüfen: falsche Tatsachen können je nach Verfahren andere Folgen haben. BRAO Paragraf 43a, BORA und Mandatsvertrag für anwaltliche Sorgfalt, Verschwiegenheit und Verantwortung.
-Prüfschritte: System-gestützte Textarbeit produziert manchmal flüssige, aber fremde Inhalte: anderer Fall, falsche Behörde, unpassender Tatvorwurf, erfundene Anlage, falscher Streitgegenstand; Im Prozess kann das die Glaubwürdigkeit zerstören und berufsrechtliche Folgefragen auslösen; StGB Paragrafen 153 und folgende , 164, 263 nur als Warnanker bei bewusst falschen Angaben, falscher Verdächtigung oder Täuschung; Datenschutz/Geheimnisschutz prüfen, wenn fremde Mandatsdaten in den Textbaustein geraten sind.
-Lieferstück: Fachvotum zu Fallfremde Textbausteine mit Tatbestandsmerkmalen, Aktenfundstellen, Beweislast, stärkster Gegenposition, Risiko und ausformulierter Rechtsfolge.
-
-### 16.3. Harmonisierte Normen und Übergang
+### 16.1. Harmonisierte Normen und Übergang
 
 Bearbeitungsauftrag: Der Skill trennt harmonisierte Norm mit Vermutungswirkung, gemeinsame Spezifikation, ISO/IEC-Standard, Branchenpraxis und bloße Herstellerbehauptung. VO (EU) 2024/1689 Artikel 40: harmonisierte Normen und Vermutung der Konformität. Artikel 41 Regulierungsrahmen: gemeinsame Spezifikationen, wenn harmonisierte Normen fehlen oder nicht ausreichen.
 Prüfschritte: In der Übergangsphase der Regulierungsrahmen dürfen Standards nicht als fertige Rechtssicherheit verkauft werden; Tabelle: Pflicht aus Regulierungsrahmen, vorhandener Standard, Status (harmonisiert/Entwurf/ISO/intern), abgedeckte Evidence, verbleibende Lücke, Owner, Aktualisierungsdatum; Warne vor Formulierungen wie „vollständig compliant“, wenn nur Standard-Alignment vorliegt; Artikel 9-15 Regulierungsrahmen: Risikomanagement, Daten, technische Dokumentation, Logging, Transparenz, menschliche Aufsicht, Genauigkeit/Cybersicherheit; Artikel 43 Regulierungsrahmen: Konformitätsbewertung.
 Lieferstück: Fachvotum zu Harmonisierte Normen und Übergang mit Tatbestandsmerkmalen, Aktenfundstellen, Beweislast, stärkster Gegenposition, Risiko und ausformulierter Rechtsfolge.
 
-### 16.4. Kanzlei-System-Outsourcing und Berufsgeheimnis
+### 16.2. Kanzlei-System-Outsourcing und Berufsgeheimnis
 
 Bearbeitungsauftrag: StGB Paragraf 203 und BRAO Paragraf 43a für Berufsgeheimnis/Verschwiegenheit; BRAO Paragraf 43e für Dienstleistereinbindung bei anwaltlicher Berufsausübung prüfen. GeschGehG und vertragliche NDAs, wenn Mandanten Geschäftsgeheimnisse oder Transaktionsdaten liefern. Regulierungsrahmen Artikel 3, Artikel 50 und bei Rechtsanwendungs-/Justiznähe Artikel 6 Absatz 2 i.
 Prüfschritte: BORA, CCBE-/Kammerhinweise und Mandatsvereinbarung nur konkret und aktuell verwenden; keine pauschale "algorithmische Systeme erlaubt/verboten"-Aussage; Datenschutz-Grundverordnung Artikel 5, 6, 28, 32, 44 und folgende für Rollen, Auftragsverarbeitung, TOM und Drittlandtransfer; Regulierungsrahmen Artikel 3, Artikel 50 und bei Rechtsanwendungs-/Justiznähe Artikel 6 Absatz 2 in Verbindung mit Anhang III Nummer 8 prüfen.
-Norm- oder Entscheidungsbezug aus dem Fachmaterial: StGB Paragraf 203 und BRAO Paragraf 43a für Berufsgeheimnis/Verschwiegenheit; BRAO Paragraf 43e für Dienstleistereinbindung bei anwaltlicher Berufsausübung prüfen; BORA, CCBE-/Kammerhinweise und Mandatsvereinbarung nur konkret und aktuell verwenden; BORA, CCBE-/Kammerhinweise und Mandatsvereinbarung nur konkret und aktuell verwenden.
+Normbezug aus dem Fachmaterial: StGB Paragraf 203 und BRAO Paragraf 43a für Berufsgeheimnis/Verschwiegenheit; BRAO Paragraf 43e für Dienstleistereinbindung bei anwaltlicher Berufsausübung prüfen; BORA, CCBE-/Kammerhinweise und Mandatsvereinbarung nur konkret und aktuell verwenden.
 Lieferstück: Fachvotum zu Kanzlei-System-Outsourcing und Berufsgeheimnis mit Tatbestandsmerkmalen, Aktenfundstellen, Beweislast, stärkster Gegenposition, Risiko und ausformulierter Rechtsfolge.
 
-### 16.5. Provider-Deployer-Vertragsmatrix
+### 16.3. Provider-Deployer-Vertragsmatrix
 
 Bearbeitungsauftrag: Bestimme zuerst, wer Anbieter, Betreiber, Importeur, Händler, Produkthersteller, Auftragsverarbeiter oder gemeinsamer Verantwortlicher ist. Vertragsmatrix mit Klausel: Rollen, Dokumentation, Logs, Incident Notice, Audit, Subunternehmer, Datenrechte, Outputrechte, Modelländerungen, Exit, Haftung, Regulator-Anfragen und Nachweisformat. GeschGehG Paragrafen 2, 4: vertrauliche Modell-/Dateninformationen.
 Prüfschritte: Danach werden Regulierungsrahmen-Pflichten, Datenschutz-Grundverordnung-Pflichten und Vertragsklauseln zusammengeführt; VO (EU) 2024/1689 Artikel 3, 16, 17, 18, 19, 26, 27, 53, 54: Rollen und Pflichten; Artikel 9-15 Regulierungsrahmen: technische Pflichtenkette bei Hochrisiko-Systemen; Datenschutz-Grundverordnung Artikel 26, 28, 32, 35: gemeinsame Verantwortlichkeit, Auftragsverarbeitung, Sicherheit, DSFA; BGB Paragrafen 241 Absatz 2, 280, 631 und folgende : Leistungsstörung und Gewährleistung.
-Norm- oder Entscheidungsbezug aus dem Fachmaterial: Danach werden Regulierungsrahmen-Pflichten, Datenschutz-Grundverordnung-Pflichten und Vertragsklauseln zusammengeführt; VO (EU) 2024/1689 Artikel 3, 16, 17, 18, 19, 26, 27, 53, 54: Rollen und Pflichten; Artikel 9-15 Regulierungsrahmen: technische Pflichtenkette bei Hochrisiko-Systemen.
 Lieferstück: verhandlungsfähige Fassung mit Ausgangstext, Änderung, Begründung, Rückfallposition und Vollzugscheck.
 
-### 16.6. Strafverfolgung: algorithmische Systeme und Beweisbewertung
-
-Bearbeitungsauftrag: Der Skill prüft, ob System-Ergebnisse in Ermittlungsakten, Polizeivermerken oder Beweisanträgen belastbar sind und welche Regulierungsrahmen- und Prozessrisiken entstehen. Anhang III Nummer 1, 6 und 8 Regulierungsrahmen gesondert prüfen: Biometrie, Strafverfolgung, Justiz/Prozessentscheidung. StPO Paragrafen 94 und folgende , 98, 100a und folgende , 147, 244, 261 je nach Beweismittel: Sicherstellung/Beschlagnahme, Telekommunikation, Akteneinsicht, Beweisantrag, freie Beweiswürdigung.
-Prüfschritte: Regulierungsrahmen Artikel 3 Nummer 1 für die System-System-Definition; Artikel 6 Absatz 2 in Verbindung mit Anhang III für Hochrisiko-Einstufung; Regulierungsrahmen Artikel 5 bei verbotenen Praktiken nur als Sperrprüfung, insbesondere biometrische Echtzeit-Fernidentifizierung und manipulative Systeme; Regulierungsrahmen Artikel 9 bis 15 für Hochrisiko-Pflichten: Risikomanagement, Datenqualität, technische Dokumentation, Logs, Transparenz, menschliche Aufsicht, Genauigkeit/Robustheit.
-Norm- oder Entscheidungsbezug aus dem Fachmaterial: Der Skill prüft, ob System-Ergebnisse in Ermittlungsakten, Polizeivermerken oder Beweisanträgen belastbar sind und welche Regulierungsrahmen- und Prozessrisiken entstehen; Regulierungsrahmen Artikel 3 Nummer 1 für die System-System-Definition; Artikel 6 Absatz 2 in Verbindung mit Anhang III für Hochrisiko-Einstufung; Regulierungsrahmen Artikel 3 Nummer 1 für die System-System-Definition.
-Lieferstück: Beweismatrix zu Strafverfolgung: algorithmische Systeme und Beweisbewertung mit Tatfrage, Beweislast, Beweismittel, Fundstelle, Gegenposition und Folge eines offenen Nachweises.
-
-### 16.7. Art. 4 Regulierungsrahmen — System-Kompetenz als Compliance-Programm
+### 16.4. Art. 4 Regulierungsrahmen — System-Kompetenz als Compliance-Programm
 
 Bearbeitungsauftrag: Bearbeite Art. 4 Regulierungsrahmen — System-Kompetenz als Compliance-Programm: adressatenkreis, Rollen, Risikoklasse, Schulungsinhalt, Nachweis, Wiederholung und Verantwortlichkeit dokumentieren. Verbinde den konkreten Aktenfund mit Tatbestandsmerkmal, Gegenposition, Beweislast, Rechtsfolge und dem nächsten vollständig ausformulierten Arbeitsprodukt.
 Prüfschritte: Artikel 4 Regulierungsrahmen: Anbieter und Betreiber müssen System-Kompetenz sicherstellen; Artikel 3 Nummer 1, 3, 4, 63 Regulierungsrahmen: System-System, Anbieter, Betreiber, GPAI; Artikel 6, Artikel 26, Artikel 27, Artikel 50 Regulierungsrahmen: Folgepflichten je nach Einsatz; Datenschutz-Grundverordnung, Geheimnisschutz, Urheberrecht und Berufsrecht nur als Schnittstellen markieren, nicht vermischen.
-Norm- oder Entscheidungsbezug aus dem Fachmaterial: Artikel 4 Regulierungsrahmen: Anbieter und Betreiber müssen System-Kompetenz sicherstellen; Artikel 3 Nummer 1, 3, 4, 63 Regulierungsrahmen: System-System, Anbieter, Betreiber, GPAI; Artikel 6, Artikel 26, Artikel 27, Artikel 50 Regulierungsrahmen: Folgepflichten je nach Einsatz.
+Normbezug aus dem Fachmaterial: Artikel 4 Regulierungsrahmen: Anbieter und Betreiber müssen System-Kompetenz sicherstellen; Artikel 3 Nummer 1, 3, 4, 63 Regulierungsrahmen: System-System, Anbieter, Betreiber, GPAI; Artikel 6, Artikel 26, Artikel 27, Artikel 50 Regulierungsrahmen: Folgepflichten je nach Einsatz.
 Lieferstück: Kontrollvermerk zu Art. 4 Regulierungsrahmen — System-Kompetenz als Compliance-Programm mit Pflicht, Ist-Nachweis, Abweichung, Risiko, Verantwortlichem, Frist und Freigabe.
 
-### 16.8. Polizeiliche algorithmische Systeme und Vertrauenswürdigkeit
-
-Bearbeitungsauftrag: Polizeiliche algorithmische Systeme ist nie nur Technikbeschaffung. Prüfe zuerst Zweck, Eingriffstiefe, Datenquelle, Rechtsgrundlage, menschliche Kontrolle, Fehlerfolgen und Nachvollziehbarkeit. VO (EU) 2024/1689 Artikel 5, 6, 9-15, 26, 27: verbotene Praktiken, Hochrisiko, Betreiberpflichten, Grundrechte-Folgenabschätzung.
-Prüfschritte: Standards helfen als Evidence, ersetzen aber keine Eingriffsermächtigung; Erstelle eine Beschaffungs-/Einsatzampel mit Rechtsgrundlage, Datenqualität, Bias-Test, Logging, menschlicher Aufsicht, Löschkonzept, Betroffenenrechten, Fehlerfolgen und Abbruchkriterien; GG Artikel 1, 2 Absatz 1 in Verbindung mit informationeller Selbstbestimmung, Artikel 3, 8, 10, 13, 19 Absatz 4; Datenschutz-Grundverordnung/JI-Richtlinie-Umsetzung im BDSG und Landespolizeirecht je nach Datenverarbeitung; Landespolizeigesetze bei präventivem Einsatz.
-Lieferstück: Fachvotum zu Polizeiliche algorithmische Systeme und Vertrauenswürdigkeit mit Tatbestandsmerkmalen, Aktenfundstellen, Beweislast, stärkster Gegenposition, Risiko und ausformulierter Rechtsfolge.
-
-### 16.9. EU-Datenbank-Registrierung — Art. 49 und 71 Regulierungsrahmen
+### 16.5. EU-Datenbank-Registrierung — Art. 49 und 71 Regulierungsrahmen
 
 Bearbeitungsauftrag: Anbieter von Hochrisiko-System-Systemen nach Artikel 6 Absatz 2 in Verbindung mit Anhang III Regulierungsrahmen müssen sich und ihr System in der EU-Datenbank registrieren, bevor sie das System in Verkehr bringen oder in Betrieb nehmen. Ausnahme: Hochrisiko-System-Systeme nach Artikel 6 Absatz 1 (Sicherheitsbauteile nach Anhang I) werden im Rahmen der sektorbezogenen Konformitätsbewertung registriert — eine separate Registrierung in der Regulierungsrahmen-Datenbank ist nicht gesondert vorgeschrieben (Artikel 49 Absatz 4 Regulierungsrahmen).
 Prüfschritte: Betreiber, die öffentliche Einrichtungen sind (Behörden, staatliche Stellen), müssen sich ebenfalls registrieren, bevor sie ein Hochrisiko-System-System nach Anhang III einsetzen; Dies gilt auch, wenn das System bereits vom Anbieter registriert wurde — Betreiber registrieren ihren Einsatz gesondert; Sind Sie eine Behörde oder sonstige öffentliche Einrichtung?
-Norm- oder Entscheidungsbezug aus dem Fachmaterial: Anbieter von Hochrisiko-System-Systemen nach Artikel 6 Absatz 2 in Verbindung mit Anhang III Regulierungsrahmen müssen sich und ihr System in der EU-Datenbank registrieren, bevor sie das System in Verkehr bringen oder in Betrieb nehmen.
+Normbezug aus dem Fachmaterial: Anbieter von Hochrisiko-System-Systemen nach Artikel 6 Absatz 2 in Verbindung mit Anhang III Regulierungsrahmen müssen sich und ihr System in der EU-Datenbank registrieren, bevor sie das System in Verkehr bringen oder in Betrieb nehmen.
 Lieferstück: Fachvotum zu EU-Datenbank-Registrierung — Art. 49 und 71 Regulierungsrahmen mit Tatbestandsmerkmalen, Aktenfundstellen, Beweislast, stärkster Gegenposition, Risiko und ausformulierter Rechtsfolge.
 
-### 16.10. Hochrisiko-Systeme bestätigt — die End-to-End-Roadmap
+### 16.6. Hochrisiko-Systeme bestätigt — die End-to-End-Roadmap
 
 Bearbeitungsauftrag: Anbieter hat Hochrisiko-Einstufung des eigenen System-Systems bestätigt und fragt: Was sind jetzt alle nötigen Schritte bis zur CE-Kennzeichnung und Marktfreigabe? End-to-End-Roadmap Hochrisiko-Systeme Artikel 9 bis 49 Regulierungsrahmen. Prüfraster: zwölf Schritte Risikomanagementsystem Artikel 9 Datenqualität Artikel 10 technische Dokumentation Artikel 11 Logging Artikel 12 Transparenz Artikel 13 menschliche Aufsicht Artikel 14 Genauigkeit Artikel 15 Konformitätsbewertung Artikel 43 CE-Kennzeichnung Artikel 47 EU-Datenbank Artikel 49 Marktbeobachtung.
-Norm- oder Entscheidungsbezug aus dem Fachmaterial: End-to-End-Roadmap Hochrisiko-Systeme Artikel 9 bis 49 Regulierungsrahmen.
+Normbezug aus dem Fachmaterial: End-to-End-Roadmap Hochrisiko-Systeme Artikel 9 bis 49 Regulierungsrahmen.
 Lieferstück: Fachvotum zu Hochrisiko-Systeme bestätigt — die End-to-End-Roadmap mit Tatbestandsmerkmalen, Aktenfundstellen, Beweislast, stärkster Gegenposition, Risiko und ausformulierter Rechtsfolge.
 
-### 16.11. Persönlicher Anwendungsbereich — Rollen nach Art. 3 Regulierungsrahmen
+### 16.7. Persönlicher Anwendungsbereich — Rollen nach Art. 3 Regulierungsrahmen
 
 Bearbeitungsauftrag: Prüfraster: Anbieter Artikel 3 Nummer 3 Betreiber Artikel 3 Nummer 4 Einführer Artikel 3 Nummer 6 Händler Artikel 3 Nummer 7 Produkthersteller Artikel 25 Bevollmächtigter Artikel 22. Abgrenzung zu rolle-anbieter-prüfen-art-3-nr-3 und rolle-betreiber-prüfen-art-3-nr-4 (detaillierte Rollenentscheidungsbäume). Wer ein System-System oder ein GPAI-Modell entwickelt oder entwickeln lässt und es unter seinem eigenen Namen oder seiner Marke in Verkehr bringt oder in Betrieb nimmt — entgeltlich oder unentgeltlich.
-Norm- oder Entscheidungsbezug aus dem Fachmaterial: Artikel 3 Regulierungsrahmen Rollendefinitionen.
+Normbezug aus dem Fachmaterial: Artikel 3 Regulierungsrahmen Rollendefinitionen.
 Lieferstück: Fachvotum zu Persönlicher Anwendungsbereich — Rollen nach Art. 3 Regulierungsrahmen mit Tatbestandsmerkmalen, Aktenfundstellen, Beweislast, stärkster Gegenposition, Risiko und ausformulierter Rechtsfolge.
 
-### 16.12. GPAI-Modelle — Art. 51 bis 55 Regulierungsrahmen
+### 16.8. Biometrie, Emotionserkennung und Polizeigrenzen
+
+Bearbeitungsauftrag: Prüfe bei biometrischen Systemen nicht nur „erlaubt/verboten“, sondern Zweck, Ort, Echtzeit/Nachhinein, Datenquelle, Betroffenengruppe, Strafverfolgungsbezug, menschliche Kontrolle und Rechtsgrundlage. Datenschutz-Grundverordnung Artikel 9 und BDSG/Landespolizeirecht; StPO bei repressiver Strafverfolgung.
+Prüfschritte: Entscheidungsbaum mit Verbotsprüfung, Ausnahmepfad, Hochrisiko-Pflichten, nationaler Eingriffsnorm, DSFA/Fundamental-Rights-Impact, Beschaffungsstopp oder Auflagenkatalog; VO (EU) 2024/1689 Artikel 5: verbotene System-Praktiken, insbesondere bestimmte biometrische und manipulative Einsätze; Artikel 6 und Anhang III Regulierungsrahmen: Hochrisiko-Systeme, u.a.
+Lieferstück: Fachvotum zu Biometrie, Emotionserkennung und Polizeigrenzen mit Tatbestandsmerkmalen, Aktenfundstellen, Beweislast, stärkster Gegenposition, Risiko und ausformulierter Rechtsfolge.
+
+### 16.9. Fallfremde Textbausteine
+
+Bearbeitungsauftrag: ZPO Paragraf 138 für Wahrheitspflicht und Erklärungslast im Zivilprozess; ZPO Paragrafen 130, 130a für formale Schriftsatzanforderungen. StPO/OWiG und VwGO/SGG/FGO jeweils gesondert prüfen: falsche Tatsachen können je nach Verfahren andere Folgen haben. BRAO Paragraf 43a, BORA und Mandatsvertrag für anwaltliche Sorgfalt, Verschwiegenheit und Verantwortung.
+Prüfschritte: System-gestützte Textarbeit produziert manchmal flüssige, aber fremde Inhalte: anderer Fall, falsche Behörde, unpassender Tatvorwurf, erfundene Anlage, falscher Streitgegenstand.
+Lieferstück: Fachvotum zu Fallfremde Textbausteine mit Tatbestandsmerkmalen, Aktenfundstellen, Beweislast, stärkster Gegenposition, Risiko und ausformulierter Rechtsfolge.
+
+### 16.10. GPAI-Modelle — Art. 51 bis 55 Regulierungsrahmen
 
 Bearbeitungsauftrag: GPAI-Modell (Artikel 3 Nummer 63 Regulierungsrahmen): Ein System-Modell, das mit großer Datenmenge mit selbstüberwachtem Lernen in großem Maßstab trainiert wird und eine Reihe von allgemeinen Aufgaben erfüllen kann, auch wenn es für einen bestimmten spezifischeren Zweck eingesetzt wird. GPAI-System (Artikel 3 Nummer 66 Regulierungsrahmen): Ein System-System, das auf einem GPAI-Modell basiert und für eine Vielzahl von Zwecken eingesetzt werden kann.
 Prüfschritte: Praxisrelevanz: Das GPAI-Modell ist die Grundlage (z.B; ein Chatbot oder eine spezifische Anwendung); Pflichten treffen primär den Modellanbieter; → Detailprüfung: gpai-vorliegen-art-3-nr-63 Anbieter von GPAI-Modellen müssen eine technische Dokumentation erstellen und aktuell halten.
-Norm- oder Entscheidungsbezug aus dem Fachmaterial: GPAI-Modell (Artikel 3 Nummer 63 Regulierungsrahmen): Ein System-Modell, das mit großer Datenmenge mit selbstüberwachtem Lernen in großem Maßstab trainiert wird und eine Reihe von allgemeinen Aufgaben erfüllen kann, auch wenn es für einen bestimmten spezifischeren Zweck eingesetzt wird.
 Lieferstück: Fachvotum zu GPAI-Modelle — Art. 51 bis 55 Regulierungsrahmen mit Tatbestandsmerkmalen, Aktenfundstellen, Beweislast, stärkster Gegenposition, Risiko und ausformulierter Rechtsfolge.
+
+### 16.11. Grundrechte-Folgenabschätzung nach Art. 27 Regulierungsrahmen
+
+Bearbeitungsauftrag: Mache aus Artikel 27 Regulierungsrahmen eine konkrete Prüfung, die nicht nach Ethikpapier aussieht, sondern Entscheidungen, Risiken und Abhilfen dokumentiert. Welche Grundrechte können berührt sein: Gleichbehandlung, Datenschutz, Meinungsfreiheit, Berufsfreiheit, effektiver Rechtsschutz? algorithmische Systeme-Act-Pfad: Bei Grundrechte-Folgenabschätzung nach Artikel 27 Regulierungsrahmen Artikel 3 Regulierungsrahmen, Zweckbestimmung, Anbieter-/Betreiberrolle, Artikel 6 Absatz 2 mit Anhang III, Transparenzpflichten und Sanktionen getrennt prüfen.
+Normbezug aus dem Fachmaterial: Der Skill macht aus Artikel 27 Regulierungsrahmen eine konkrete Prüfung, die nicht nach Ethikpapier aussieht, sondern Entscheidungen, Risiken und Abhilfen dokumentiert.
+Lieferstück: Fachvotum zu Grundrechte-Folgenabschätzung nach Art. 27 Regulierungsrahmen mit Tatbestandsmerkmalen, Aktenfundstellen, Beweislast, stärkster Gegenposition, Risiko und ausformulierter Rechtsfolge.
+
+### 16.12. Warnung: Falsche Wiese — Verwechslung der Rechtsgebiete
+
+Bearbeitungsauftrag: Die Datenschutz-Grundverordnung (Verordnung (EU) 2016/679) regelt den Schutz personenbezogener Daten und gilt für jede Verarbeitung personenbezogener Daten, unabhängig davon, ob algorithmische Systeme eingesetzt wird. Die Regulierungsrahmen (Verordnung (EU) 2024/1689) regelt zusätzliche Anforderungen an System-Systeme als solche: Risikoklassen, Konformitätsbewertung, Transparenzpflichten, menschliche Aufsicht. Praktische Schnittstelle: Artikel 27 Regulierungsrahmen (Grundrechte-Folgenabschätzung für Betreiber) ist eng verzahnt mit Datenschutz-Folgenabschätzung nach Artikel 35 Datenschutz-Grundverordnung.
+Prüfschritte: Häufiges Szenario: Nutzer fragt nach Datenschutzpflichten beim Einsatz eines System-Systems; Beide Regelwerke können gleichzeitig gelten und ergänzen sich; Datenschutz-Grundverordnung-Konformität ersetzt keine Regulierungsrahmen-Konformität; Routing: Wenn primär Datenschutzfragen bestehen → anderes Plugin (Datenschutzrecht).
+Lieferstück: Fachvotum zu Warnung: Falsche Wiese — Verwechslung der Rechtsgebiete mit Tatbestandsmerkmalen, Aktenfundstellen, Beweislast, stärkster Gegenposition, Risiko und ausformulierter Rechtsfolge.

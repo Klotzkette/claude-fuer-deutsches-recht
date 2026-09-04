@@ -198,14 +198,14 @@ Lieferstück: gewichtete Prüfmatrix mit Tatbestandsmerkmalen, Fundstellen, Gege
 ### 16.2. Binnenschiff – Kaufvertrag scopen
 
 Bearbeitungsauftrag: Binnenschiff: Binnenschiffer; Verladungsunternehmen; Kreditinstitut scopet Kaufvertrag für Binnenmotorgüterschiff; Tanker oder Fahrgastschiff: Gewährleistung; Lastenfreistellung; Eigentumsübergang (SchRG Paragraf 2); Zertifikatsstatus; Escrow-Mechanismus. BinSchG Paragrafen 1-133; SchRG Paragrafen 1-75 für eingetragene Binnenschiffe; BinSchRegO. Output: Kaufvertrag-Review-Matrix und Closing-Conditions.
-Norm- oder Entscheidungsbezug aus dem Fachmaterial: Binnenschiff: Binnenschiffer; Verladungsunternehmen; Kreditinstitut scopet Kaufvertrag für Binnenmotorgüterschiff; Tanker oder Fahrgastschiff: Gewährleistung; Lastenfreistellung; Eigentumsübergang (SchRG Paragraf 2); Zertifikatsstatus; Escrow-Mechanismus.
+Normbezug aus dem Fachmaterial: Binnenschiff: Binnenschiffer; Verladungsunternehmen; Kreditinstitut scopet Kaufvertrag für Binnenmotorgüterschiff; Tanker oder Fahrgastschiff: Gewährleistung; Lastenfreistellung; Eigentumsübergang (SchRG Paragraf 2); Zertifikatsstatus; Escrow-Mechanismus.
 Lieferstück: verhandlungsfähige Fassung mit Ausgangstext, Änderung, Begründung, Rückfallposition und Vollzugscheck.
 
 ### 16.3. Charterparty – Schadensfall bei Versicherung melden
 
 Bearbeitungsauftrag: Ein Reeder verzögert die Schadensmeldung; Versicherer beruft sich auf VVG Paragraf 28 Obliegenheitsverletzung. Eine Bank aktiviert MII-Police nach Totalverlust eines hypothekenbelasteten Gechartertes Seeschiff unter Charterparty. Schadensminderungspflicht (VVG Paragraf 82): Notmaßnahmen veranlassen und dokumentieren.
 Prüfschritte: Ein Gechartertes Seeschiff unter Charterparty erleidet Kollisionsschäden; P&I-Club und H&M-Versicherer werden koordiniert informiert.
-Norm- oder Entscheidungsbezug aus dem Fachmaterial: Ein Reeder verzögert die Schadensmeldung; Versicherer beruft sich auf VVG Paragraf 28 Obliegenheitsverletzung.
+Normbezug aus dem Fachmaterial: Ein Reeder verzögert die Schadensmeldung; Versicherer beruft sich auf VVG Paragraf 28 Obliegenheitsverletzung.
 Lieferstück: Fachvotum zu Charterparty – Schadensfall bei Versicherung melden mit Tatbestandsmerkmalen, Aktenfundstellen, Beweislast, stärkster Gegenposition, Risiko und ausformulierter Rechtsfolge.
 
 ### 16.4. Offshore-Schiff – Closing planen
@@ -248,13 +248,12 @@ Bearbeitungsauftrag: ZPO Paragrafen 864-871 Zwangsversteigerung: Zeitaufwand; Ko
 Prüfschritte: Eine Bank will nach Kreditausfall aus der Hypothek am Containerlinienfrachtschiff vollstrecken; Mehrere Gläubiger streiten um den Versteigerungserlös des Containerlinienfrachtschiff; Ein Reeder prüft, ob ein freiwilliger Verkauf günstiger ist als die Zwangsversteigerung.
 Lieferstück: frist- und formgerechter Entwurf mit Antrag, tragenden Tatsachen, Beweisangeboten, Anlagen und Einreichungsweg.
 
-### 16.11. Binnenschiff – Schiffshypothek bestellen
+### 16.11. Dokumenten-Cockpit Schiff – Vollständigkeitsprüfung
 
-Bearbeitungsauftrag: Binnenschiff: Binnenschiffer; Verladungsunternehmen; Kreditinstitut bestellt Schiffshypothek als Sicherheit für Finanzierung eines Binnenmotorgüterschiff; Tanker oder Fahrgastschiff. BinSchG Paragrafen 1-133; SchRG Paragrafen 1-75 für eingetragene Binnenschiffe; BinSchRegO. Notarielle Bestellungsurkunde, Rangstelle, Sicherungsabrede, Zubehör-Mithaftung (SchRG Paragraf 31).
-Lieferstück: Fachvotum zu Binnenschiff – Schiffshypothek bestellen mit Tatbestandsmerkmalen, Aktenfundstellen, Beweislast, stärkster Gegenposition, Risiko und ausformulierter Rechtsfolge.
+Bearbeitungsauftrag: Bearbeite Dokumenten-Cockpit Schiff – Vollständigkeitsprüfung entlang der Transport-, See- und Außenhandelsrecht-Prüflinie: Transport- und Vertragskette: Absender, Frachtführer, Unterfrachtführer, Empfänger und Dokumente feststellen.
+Lieferstück: gewichtete Prüfmatrix mit Tatbestandsmerkmalen, Fundstellen, Gegenposition, Beweislast, Risiko und Empfehlung.
 
-### 16.12. Charterparty einordnen – Vertragstyp und Haftungsmatrix
+### 16.12. Fracht und Konnossement – Prüfung und Schadensabwicklung
 
-Bearbeitungsauftrag: Vertragstyp identifizieren: Voyage Charter (HGB Paragrafen 527-535); Time Charter (HGB Paragrafen 557-569) oder Bareboat Charter (HGB Paragraf 553 Absatz 2). ISM-Code-Zuordnung: Time Charter = Reeder hat DOC/SMC; Bareboat = Bareboat-Charterer übernimmt ISM-Verantwortung. Bunkerkosten-Träger: Voyage Charter = Reeder; Time Charter = Time Charterer (HGB Paragrafen 557-559).
-Prüfschritte: Ein Handelskonzern legt einen NYPE-Chartervertrag vor und fragt, ob er als Time Charterer für Kollisionsschäden haftet die der Kapitän verursacht hat; Ein Finanzinvestor plant den Kauf eines Schiffes und möchte es sofort verbareboaten; Ein Reeder prüft, ob ein Voyage Charter oder Time Charter für eine Einmalfracht vorteilhafter ist.
-Lieferstück: verhandlungsfähige Fassung mit Ausgangstext, Änderung, Begründung, Rückfallposition und Vollzugscheck.
+Bearbeitungsauftrag: Bearbeite Fracht und Konnossement – Prüfung und Schadensabwicklung entlang der Transport-, See- und Außenhandelsrecht-Prüflinie: Transport- und Vertragskette: Absender, Frachtführer, Unterfrachtführer, Empfänger und Dokumente feststellen. Zerlege Anspruchsgrund, Pflichtenkreis, Pflichtverletzung, Zurechnung, Kausalität und Schaden; ordne Einwendungen, Mitverantwortung, Verjährung, Beweislast, Versicherung und jede bezifferte Rechtsfolge den konkreten Aktenbelegen zu. Normenanker: HGB Paragraf 476 ff.
+Lieferstück: gewichtete Prüfmatrix mit Tatbestandsmerkmalen, Fundstellen, Gegenposition, Beweislast, Risiko und Empfehlung.

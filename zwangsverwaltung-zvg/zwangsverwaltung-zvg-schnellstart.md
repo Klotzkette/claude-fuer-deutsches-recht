@@ -34,7 +34,7 @@ Ohne verwertbares Material genau eine gebündelte Frage zu Bestellung und Objekt
 | --- | --- |
 | Normenanker | ZVG Paragraf 146 ff; ZVG Paragraf 148 und Paragraf 149; ZVG Paragraf 152 |
 | Rechtsprechung | aus Akte und belastbarer Quelle ableiten |
-| Tatbestand | Verwaltungsakt, Bekanntgabe, Widerspruch/Klagefrist, Ermessen, Anhörung, Akteneinsicht und Eilantrag prüfen |
+| Tatbestand | Beschluss, Grundbuch, Grundstück, Zubehör, Besitz, Nutzer, Schlüssel, Versicherungen und Gefahrenlage feststellen |
 | Beweislast | Darlegungs- und Nachweisfrage für Zwangsverwaltung und Objektbewirtschaftung nach dem ZVG: Welche Maßnahme ist zur Erhaltung oder ordnungsgemäßen Nutzung nötig und genehmigungs- oder finanzierungsbedürftig |
 | Rechtsfolge | Besitzübernahmeprotokoll, Mieteranschreiben, Objektbudget, Zwischenbericht, Rechnungslegung oder Teilungsplan erstellen |
 | Quellenstatus | Aktenfund, Normtext, Profilanker oder sicher belegte Entscheidung offen kennzeichnen; unsichere Aktenzeichen nicht ergänzen |
@@ -43,10 +43,9 @@ Ohne verwertbares Material genau eine gebündelte Frage zu Bestellung und Objekt
 
 | Feld | Sofortgriff | Ausgabe |
 | --- | --- | --- |
-| Bestellung und Objekt | Verwaltungsakt, Bekanntgabe, Widerspruch/Klagefrist, Ermessen, Anhörung, Akteneinsicht und Eilantrag prüfen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Beschlagnahme und Kommunikation | Vertrag, Rückstand, Mangelanzeige, Kündigungsgrund, Schonfrist, Zuständigkeit und Räumungsrisiko sofort sortieren. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Bewirtschaftung | Vertrag, Rückstand, Mangelanzeige, Kündigungsgrund, Schonfrist, Zuständigkeit und Räumungsrisiko sofort sortieren. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-
+| Bestellung und Objekt | Beschluss, Grundbuch, Grundstück, Zubehör, Besitz, Nutzer, Schlüssel, Versicherungen und Gefahrenlage feststellen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Beschlagnahme und Kommunikation | Schuldner, Mieter, Pächter, Versorger, Kommune, Bank und Gläubiger mit Wirkungsdatum informieren. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Bewirtschaftung | Mietverträge, Sollstellung, Rückstände, Kautionen, Betriebskosten, Instandhaltung, Verkehrssicherung und Vergaben führen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
 
 ## 6. Anker
 
@@ -54,10 +53,9 @@ Ohne verwertbares Material genau eine gebündelte Frage zu Bestellung und Objekt
 - ZVG Paragraf 148 und Paragraf 149: Beschlagnahmewirkung, Verwaltung und Nutzung des Grundstücks.
 - ZVG Paragraf 152: Rechte und Pflichten des Zwangsverwalters, Erhaltung und ordnungsgemäße Nutzung.
 - ZVG Paragraf 154 und Paragraf 155: Teilungsplan, laufende Ausgaben, öffentliche Lasten, Verteilung und Rechnungslegung.
-- Paragraf 153 ZVG (Einnahmen aus Nutzungen) → Paragraf 152 ZVG (Pflichten Verwaltung) → Paragraf 13 ZwVwV (Buchführung) → Paragraf 14 ZwVwV (Jahresrechnung) → Paragraf 675 BGB; im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
-- Paragraf 152 ZVG (Rechte/Pflichten Verwalter) → Paragraf 153 ZVG (Einziehung Nutzungen) → Paragraf 57 ZVG (Schutz der Mieter) → Paragrafen 535 566 BGB (Mietrecht) → Paragrafen 8-9; im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
+- Paragraf 153 ZVG (Einnahmen aus Nutzungen) → Paragraf 152 ZVG (Pflichten Verwaltung) → Paragraf 13 ZwVwV (Buchführung) → Paragraf 14 ZwVwV (Jahresrechnung) → Paragraf 675 BGB (Geschäftsbesorgungsvertrag) → Paragraf 667 BGB (Herausgabe Treuhandgelder) → Paragraf 280 BGB (Schadensersatz Treuhandvermischung); im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
+- Paragraf 152 ZVG (Rechte/Pflichten Verwalter) → Paragraf 153 ZVG (Einziehung Nutzungen) → Paragraf 57 ZVG (Schutz der Mieter) → Paragrafen 535 566 BGB (Mietrecht) → Paragrafen 8-9 ZwVwV (laufende Verwaltung) → Paragraf 581 BGB (Pachtvertrag) → Paragrafen 596-599 BGB (Pächterschutz); im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
 - Paragrafen 146-161 ZVG — Kernvorschriften der Zwangsverwaltung; im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
-- Paragraf 155 ZVG — Einnahmen und Ausgaben; Verteilung; im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
 
 ## 7. Antwortform
 

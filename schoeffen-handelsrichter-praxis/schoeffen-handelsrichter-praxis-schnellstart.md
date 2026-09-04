@@ -44,8 +44,8 @@ Ohne verwertbares Material genau eine gebündelte Frage zu Rolle und Besetzung, 
 | Feld | Sofortgriff | Ausgabe |
 | --- | --- | --- |
 | Rolle und Besetzung | Spruchkörper, Heranziehung, gleiches Stimmrecht, gesetzlichen Richter und rollenbezogene Verfahrensnormen bestimmen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Neutralität und Selbstanzeige | persönlichen oder sachlichen Vorbezug ohne eigene Vorentscheidung unverzüglich gegenüber dem Vorsitz offenlegen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Beweisaufnahme und Fragerecht | offene Tatsachenfrage, Wahrnehmungsgrundlage, Widerspruch, Dolmetscher- oder Gutachterpunkt sitzungsbezogen notieren. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Neutralität und Selbstanzeige | Persönlichen oder sachlichen Vorbezug ohne eigene Vorentscheidung unverzüglich gegenüber dem Vorsitz offenlegen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Beweisaufnahme und Fragerecht | Offene Tatsachenfrage, Wahrnehmungsgrundlage, Widerspruch, Dolmetscher- oder Gutachterpunkt sitzungsbezogen notieren. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
 
 
 ## 6. Anker

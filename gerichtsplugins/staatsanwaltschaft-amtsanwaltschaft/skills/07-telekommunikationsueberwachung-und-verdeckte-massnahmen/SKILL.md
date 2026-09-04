@@ -41,10 +41,10 @@ Strukturierter Arbeitsstand: Pruefungspunkte, Zitate, offene Fragen, Vorschlag z
 
 ## Normen & Rechtsprechung
 
-- BVerfG, Urteil vom 19.03.2013 - 2 BvR 2628/10, 2 BvR 2883/10 und 2 BvR 2155/11, BVerfGE 133, 168: Verständigungen und verfahrensbeendende Absprachen brauchen Transparenz, Belehrung und Protokollierung.
-- BVerfG, Urteil vom 27.02.2008 - 1 BvR 370/07 und 1 BvR 595/07, BVerfGE 120, 274: Heimliche Zugriffe auf informationstechnische Systeme berühren das Grundrecht auf Gewährleistung der Vertraulichkeit und Integrität informationstechnischer Systeme.
-- EuGH, Urteil vom 30.04.2024 - C-670/22, M.N.: Übermittelte EncroChat-Daten verlangen eine unionsrechtlich tragfähige Rechtshilfe- und Verwertbarkeitsprüfung.
-- EuGH, Urteil vom 05.12.2023 - C-807/21, Deutsche Wohnen: Unternehmensgeldbußen nach Datenschutzrecht setzen unionsrechtlich geprägte Zurechnung und Verschulden voraus.
+- BVerfG, Urteil vom 27.02.2008 - 1 BvR 370/07 und 1 BvR 595/07: Heimliche Zugriffe auf informationstechnische Systeme berühren das Grundrecht auf Gewährleistung der Vertraulichkeit und Integrität informationstechnischer Systeme; der Anker ist auf verdeckte Systemzugriffe und nicht auf jede Telekommunikationsmaßnahme beschränkt.
+- BVerfG, Urteil vom 24.06.2025 - 1 BvR 180/23: Quellen-Telekommunikationsüberwachung und Online-Durchsuchung sind nach Eingriffsintensität, Straftatenkatalog, Kernbereichsschutz und Verhältnismäßigkeit eigenständig zu prüfen.
+- EuGH, Urteil vom 30.04.2024 - C-670/22, M.N.: Bei EncroChat-Daten sind Voraussetzungen der Europäischen Ermittlungsanordnung, Unterrichtungspflichten und nationale Verwertungsfolgen getrennt zu prüfen; die Entscheidung ist kein allgemeiner Freibrief für übermittelte Kommunikationsdaten.
+- StPO Paragrafen 100a bis 100e sowie Paragrafen 101 und 110d: Eingriffsnorm, Katalogtat, Subsidiarität, Richtervorbehalt, Kernbereich, Benachrichtigung und Löschung für jede Maßnahme gesondert dokumentieren.
 
 ## Prüf- und Arbeitslogik
 

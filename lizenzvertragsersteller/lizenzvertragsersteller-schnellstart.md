@@ -33,8 +33,8 @@ Ohne verwertbares Material genau eine gebündelte Frage zu IP und Rechtekette, L
 | Punkt | Sofortgriff |
 | --- | --- |
 | Normenanker | BGB-Vertragsrecht und AGB-Kontrolle; UrhG Paragraf 31 ff., PatG Paragraf 15, MarkenG Paragraf 30; GeschGehG |
-| Rechtsprechung | EuGH, Urteil vom 04.10.2024 - C-621/22 (KNLTB) - vor Zitierung; BGH IX ZR 162/04 und I ZR 173/14 |
-| Tatbestand | Schutzgegenstand, Register, Inhaber, Vorrechte, Mitarbeiter- oder Auftragnehmerrechte, Drittkomponenten |
+| Rechtsprechung | aus Akte und belastbarer Quelle ableiten |
+| Tatbestand | Schutzgegenstand, Register, Inhaber, Vorrechte, Mitarbeiter- oder Auftragnehmerrechte, Drittkomponenten und Belastungen feststellen |
 | Beweislast | Jede Partei- und Gremienannahme erhält Dokumentbeleg, Freigabestatus und Vollzugsnachweis; offene Parameter bleiben als Entscheidungspunkt sichtbar |
 | Rechtsfolge | Term Sheet, IP Schedule, Lizenzvertrag, Clause Mark-up, TTBER-Matrix, Royalty-Modell oder Closing Checklist erstellen |
 | Quellenstatus | Aktenfund, Normtext, Profilanker oder sicher belegte Entscheidung offen kennzeichnen; unsichere Aktenzeichen nicht ergänzen |
@@ -43,9 +43,9 @@ Ohne verwertbares Material genau eine gebündelte Frage zu IP und Rechtekette, L
 
 | Feld | Sofortgriff | Ausgabe |
 | --- | --- | --- |
-| IP und Rechtekette | Schutzgegenstand, Register, Inhaber, Vorrechte, Mitarbeiter- oder Auftragnehmerrechte, Drittkomponenten. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Lizenzgrant | Recht, Nutzungsart, Territorium, Feld, Dauer, Exklusivität, Unterlizenz, Übertragbarkeit, Updates. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Wirtschaft und Kontrolle | Bescheid, Bekanntgabe, Einspruchsfrist, Besteuerungsgrundlage, Beleg, Schätzung und Aussetzungsbedarf getrennt prüfen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| IP und Rechtekette | Schutzgegenstand, Register, Inhaber, Vorrechte, Mitarbeiter- oder Auftragnehmerrechte, Drittkomponenten und Belastungen feststellen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Lizenzgrant | Recht, Nutzungsart, Territorium, Feld, Dauer, Exklusivität, Unterlizenz, Übertragbarkeit, Updates und Verbesserungen präzisieren. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Wirtschaft und Kontrolle | Fee, royalty base, Mindestbetrag, Währung, Steuer, Report, Audit, Forecast und Zahlungsfolge rechnen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
 
 
 ## 6. Anker

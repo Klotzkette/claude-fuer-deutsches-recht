@@ -409,20 +409,19 @@ Lieferstück: geprüftes Übergabepaket zu Versandmappe endfertigen mit Eingangs
 
 ### 19.6. Dateinamen und Paketgrenzen prüfen
 
-Bearbeitungsauftrag: Keine Leerzeichen, Umlaute, scharfes S, Klammern oder Sonderzeichen, 4. zweistellige, bei mindestens 100 Dateien dreistellige logische Reihenfolge,.
+Bearbeitungsauftrag: Keine Leerzeichen, Umlaute, scharfes S, Klammern oder Sonderzeichen, 4.
 Prüfschritte: Dieses Plugin nutzt vorsorglich: 1; höchstens 80 Zeichen einschließlich .pdf, 2; ausschließlich A-Z, a-z, 0-9 und Unterstrich im Stamm, 3; zweistellige, bei mindestens 100 Dateien dreistellige logische Reihenfolge, 5; sprechenden Inhalt nach Dokumentart oder Anlagenkennung.
 Lieferstück: geprüftes Übergabepaket zu Dateinamen und Paketgrenzen prüfen mit Eingangsstand, maßgeblicher Fassung, Qualitätsnachweis, Fehlteilliste, Freigabe und Öffnungsprobe.
 
-### 19.7. Störung und Nachreichung dokumentieren
-
-Bearbeitungsauftrag: Bereits übermitteltes, aber für die Bearbeitung ungeeignetes Dokument,.
-Prüfschritte: Nutze diesen Skill nur, wenn eine Einreichung technisch scheitert, das Gericht ein Dokument als ungeeignet beanstandet oder eine korrigierte Fassung nachgereicht werden muss; Er ist keine vorsorgliche Standardstation; vorübergehende technische Unmöglichkeit der elektronischen Übermittlung, 2; bereits übermitteltes, aber für die Bearbeitung ungeeignetes Dokument, 3; falscher Empfänger, falsche Datei, fehlende Signatur oder sonstiger Form-/Bedienfehler.
-Lieferstück: Akten- und Belegmatrix zu Störung und Nachreichung dokumentieren mit Datum, Urheber, Fundstelle, Widerspruch, Fehlteil und nächstem Bearbeitungsschritt.
-
-### 19.8. Signaturweg und Absender prüfen
+### 19.7. Signaturweg und Absender prüfen
 
 Bearbeitungsauftrag: Bearbeite Signaturweg und Absender prüfen: maßgebliche Version, Fundstelle, Signatur, Zahl, Widerspruch, Lücke, Zielprodukt und reproduzierbare Übergabe verbinden. Verbinde den konkreten Aktenfund mit Tatbestandsmerkmal, Gegenposition, Beweislast, Rechtsfolge und dem nächsten vollständig ausformulierten Arbeitsprodukt.
 Lieferstück: geprüftes Übergabepaket zu Signaturweg und Absender prüfen mit Eingangsstand, maßgeblicher Fassung, Qualitätsnachweis, Fehlteilliste, Freigabe und Öffnungsprobe.
+
+### 19.8. Störung und Nachreichung dokumentieren
+
+Bearbeitungsauftrag: Bearbeite Störung und Nachreichung dokumentieren: maßgebliche Version, Fundstelle, Signatur, Zahl, Widerspruch, Lücke, Zielprodukt und reproduzierbare Übergabe verbinden. Verbinde den konkreten Aktenfund mit Tatbestandsmerkmal, Gegenposition, Beweislast, Rechtsfolge und dem nächsten vollständig ausformulierten Arbeitsprodukt. Fachstation: Übergabe: Ergebnis, Quellen, offene Lücken, geprüfte Version, Dateinamen und nächste Handlung dokumentieren.
+Lieferstück: Akten- und Belegmatrix zu Störung und Nachreichung dokumentieren mit Datum, Urheber, Fundstelle, Widerspruch, Fehlteil und nächstem Bearbeitungsschritt.
 
 ### 19.9. Anlagen nummerieren und stempeln
 
@@ -437,7 +436,7 @@ Lieferstück: geprüftes Übergabepaket zu Inventur und Version mit Eingangsstan
 
 ### 19.11. Fundstellenlinie
 
-Bearbeitungsauftrag: jede Aussage, Zahl, Klausel und Frist auf Dokument, Seite, Absatz, Zelle oder Nachricht zurückführen.
+Bearbeitungsauftrag: Jede Aussage, Zahl, Klausel und Frist auf Dokument, Seite, Absatz, Zelle oder Nachricht zurückführen.
 Lieferstück: geprüftes Übergabepaket zu Fundstellenlinie mit Eingangsstand, maßgeblicher Fassung, Qualitätsnachweis, Fehlteilliste, Freigabe und Öffnungsprobe.
 
 ### 19.12. Vergleich und Redline

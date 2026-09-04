@@ -92,7 +92,7 @@ Arbeitsgriff Arbeitsprodukt: Launch-Matrix, Rückrufmemo, Haftungsanalyse, Behö
 | GPSR Artikel 5 | allgemeine Sicherheitsanforderung | Geschädigter für Produktfehler, Schaden und Kausalität; Hersteller oder Händler für Sicherheitserwartung, Warnung, Rückruf und Entlastung | Launch-Freigabe, Warnhinweis, Rückruf, Marktüberwachungsantwort, Haftungsmemo oder Verteidigungsentwurf |
 | GPSR Artikel 9, Artikel 12 und Artikel 14 | Herstellerpflichten, Händlerpflichten und interne Produktsicherheitsverfahren der Wirtschaftsakteure | Geschädigter für Produktfehler, Schaden und Kausalität; Hersteller oder Händler für Sicherheitserwartung, Warnung, Rückruf und Entlastung | Launch-Freigabe, Warnhinweis, Rückruf, Marktüberwachungsantwort, Haftungsmemo oder Verteidigungsentwurf |
 | BGB Paragraf 823 Absatz 1 | deliktische Produzentenhaftung | Geschädigter für Produktfehler, Schaden und Kausalität; Hersteller oder Händler für Sicherheitserwartung, Warnung, Rückruf und Entlastung | Launch-Freigabe, Warnhinweis, Rückruf, Marktüberwachungsantwort, Haftungsmemo oder Verteidigungsentwurf |
-| ProdHaftG (national, vor 09.12.2026) | Beweislast Geschädigter für Fehler, Schaden, Kausalität (Paragraf 1 Abs. 4 ProdHaftG) | Geschädigter für Produktfehler, Schaden und Kausalität; Hersteller oder Händler für Sicherheitserwartung, Warnung, Rückruf und Entlastung | Launch-Freigabe, Warnhinweis, Rückruf, Marktüberwachungsantwort, Haftungsmemo oder Verteidigungsentwurf |
+| ProdHaftG (national, vor 09.12.2026) | Beweislast Geschädigter für Fehler, Schaden, Kausalität (Paragraf 1 Abs. 4 ProdHaftG); Hersteller für Befreiungstatbestände Paragraf 1 Abs. 2 ProdHaftG | Geschädigter für Produktfehler, Schaden und Kausalität; Hersteller oder Händler für Sicherheitserwartung, Warnung, Rückruf und Entlastung | Launch-Freigabe, Warnhinweis, Rückruf, Marktüberwachungsantwort, Haftungsmemo oder Verteidigungsentwurf |
 
 ## 6. Rechtsprechungsanker, Quellenstatus und Rechtsfolgen
 
@@ -112,7 +112,7 @@ Arbeitsgriff Arbeitsprodukt: Launch-Matrix, Rückrufmemo, Haftungsanalyse, Behö
 - GPSR Artikel 5: allgemeine Sicherheitsanforderung.
 - GPSR Artikel 9, Artikel 12 und Artikel 14: Herstellerpflichten, Händlerpflichten und interne Produktsicherheitsverfahren der Wirtschaftsakteure.
 - BGB Paragraf 823 Absatz 1: deliktische Produzentenhaftung.
-- ProdHaftG (national, vor 09.12.2026): Beweislast Geschädigter für Fehler, Schaden, Kausalität (Paragraf 1 Abs. 4 ProdHaftG); im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
+- ProdHaftG (national, vor 09.12.2026): Beweislast Geschädigter für Fehler, Schaden, Kausalität (Paragraf 1 Abs. 4 ProdHaftG); Hersteller für Befreiungstatbestände Paragraf 1 Abs. 2 ProdHaftG; im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
 - ZPO Paragrafen 142, 144 (Anordnung der Vorlage), Paragrafen 421-432 (Urkunden), Paragraf 286 freie Beweiswürdigung; im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
 - Paragraf 810 BGB Einsicht in Urkunden bei rechtlichem Interesse; im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
 - Paragraf 242 BGB Auskunft als Nebenpflicht; im konkreten Sachverhalt als Tatbestands- oder Verfahrensanker prüfen.
@@ -199,7 +199,7 @@ Diese Routen stammen aus den konkreten Arbeitsthemen dieses Plugins. Wähle die 
 
 Bearbeitungsauftrag: Die neue Produkthaftungs-RL 2024/2853 reagiert auf die Beweisnot von Geschädigten bei komplexen, vernetzten und System-gestützten Produkten mit Offenlegungspflichten technischer Unterlagen vor und im Prozess (Artikel 9), Vermutungen zur Fehlerhaftigkeit (Artikel 10) und Vermutungen zur Kausalität (Artikel 10 Absatz 4). Parallel bleibt nationales Prozessrecht (Paragrafen 142, 144, 421-432 ZPO, Paragraf 810 BGB, Paragraf 242 BGB, Auskunfts- und Stufenklage Paragraf 254 ZPO) anwendbar.
 Prüfschritte: Priorisiere diese Instrumente nach Anspruchsziel, Beweisnot, Geheimnisschutz und Prozessrisiko und liefere Schriftsatzpassagen für Kläger- und Herstellerseite.
-Norm- oder Entscheidungsbezug aus dem Fachmaterial: Die neue Produkthaftungs-RL 2024/2853 reagiert auf die Beweisnot von Geschädigten bei komplexen, vernetzten und System-gestützten Produkten mit Offenlegungspflichten technischer Unterlagen vor und im Prozess (Artikel 9), Vermutungen zur Fehlerhaftigkeit (Artikel 10) und Vermutungen.
+Normbezug aus dem Fachmaterial: Die neue Produkthaftungs-RL 2024/2853 reagiert auf die Beweisnot von Geschädigten bei komplexen, vernetzten und System-gestützten Produkten mit Offenlegungspflichten technischer Unterlagen vor und im Prozess (Artikel 9), Vermutungen zur Fehlerhaftigkeit (Artikel 10) und Vermutungen.
 Lieferstück: gewichtete Prüfmatrix mit Tatbestandsmerkmalen, Fundstellen, Gegenposition, Beweislast, Risiko und Empfehlung.
 
 ### 16.2. Datenqualität und Bias in der Human-Robot Interaction (HRI)
@@ -247,7 +247,7 @@ Lieferstück: Fachvotum zu Chirurgie- und OP-Robotik mit Tatbestandsmerkmalen, A
 
 Bearbeitungsauftrag: Robotik-Mandate verbinden technische und juristische Quellen. Falsche Aktenzeichen, veraltete Normenstände oder erfundene Kommentar-Fundstellen zerstören die Glaubwürdigkeit eines Memos und können berufsrechtlich relevant werden (Paragraf 43a Absatz 3 BRAO). beck-online, juris, otto-schmidt, IEEE Xplore, BeckRS, ECLI-Portal.
 Prüfschritte: Dieser Arbeitsgang etabliert einen prüfbaren Quellenprozess: Auswahl, Verifikation, Zitierung, Versionierung – sowohl für EU-Rechtsakte (Regulierungsrahmen, MaschinenVO, CRA, neue ProdHaftRL) als auch für technische Normen (ISO, IEC, DIN, harmonisierte Normen).
-Norm- oder Entscheidungsbezug aus dem Fachmaterial: Falsche Aktenzeichen, veraltete Normenstände oder erfundene Kommentar-Fundstellen zerstören die Glaubwürdigkeit eines Memos und können berufsrechtlich relevant werden (Paragraf 43a Absatz 3 BRAO).
+Normbezug aus dem Fachmaterial: Falsche Aktenzeichen, veraltete Normenstände oder erfundene Kommentar-Fundstellen zerstören die Glaubwürdigkeit eines Memos und können berufsrechtlich relevant werden (Paragraf 43a Absatz 3 BRAO).
 Lieferstück: quellenkritische Darstellung mit Textzeuge, Fassung, Übersetzung, zeitgenössischer Funktion und heutiger Anschlussfrage.
 
 ### 16.11. Batterie, Ladeinfrastruktur und Brandschutz bei mobilen Robotern

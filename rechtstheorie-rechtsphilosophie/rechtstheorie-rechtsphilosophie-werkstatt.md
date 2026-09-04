@@ -176,13 +176,13 @@ Die Landkarte dient der schnellen Auswahl. Sie ersetzt nicht die darunter ausfor
 | --- | --- | --- |
 | Lesefreude Rechtstheorie und Rechtsphilosophie | Formuliere danach zwei gegensätzliche Thesen so stark, dass ein Vertreter der jeweiligen Position sie akzeptieren könnte. Wo endet die begriffliche Analyse und wo beginnt eine normative Entscheidung? | Teilbefund zu Lesefreude Rechtstheorie und Rechtsphilosophie mit Leitfrage, Maßstab, belastbarer Quelle, Gegenhypothese, Unsicherheitsgrad und nächstem Arbeitsschritt |
 | Methodenkritik: Larenz, Canaris, Systemdenken und konkrete Ordnung | Systemdenken und Wertungsjurisprudenz können dogmatisch nützlich sein, wenn sie Widersprüche sichtbar machen und Normzwecke kontrolliert entfalten. | Teilbefund zu Methodenkritik: Larenz, Canaris, Systemdenken und konkrete Ordnung mit Leitfrage, Maßstab, belastbarer Quelle, Gegenhypothese, Unsicherheitsgrad. |
-| Abwägung und Rationalität | Unterscheide deskriptive Theorie, normative These, methodische Folgerung, demokratische Legitimation, richterliche Bindung und Missbrauchsrisiko. | Teilbefund zu Abwägung und Rationalität mit Leitfrage, Maßstab, belastbarer Quelle, Gegenhypothese, Unsicherheitsgrad und nächstem Arbeitsschritt |
-| Adressatenwürde und Rechtssteuerung | Unterscheide deskriptive Theorie, normative These, methodische Folgerung, demokratische Legitimation, richterliche Bindung und Missbrauchsrisiko. | Teilbefund zu Adressatenwürde und Rechtssteuerung mit Leitfrage, Maßstab, belastbarer Quelle, Gegenhypothese, Unsicherheitsgrad und nächstem Arbeitsschritt |
-| Besitz, Rechtsrealismus und praktische Bedürfnisse | Unterscheide deskriptive Theorie, normative These, methodische Folgerung, demokratische Legitimation, richterliche Bindung und Missbrauchsrisiko. | Teilbefund zu Besitz, Rechtsrealismus und praktische Bedürfnisse mit Leitfrage, Maßstab, belastbarer Quelle, Gegenhypothese, Unsicherheitsgrad und nächstem Arbeitsschritt |
-| Besitzdogmatik, historische Schule und Systemdenken | Unterscheide deskriptive Theorie, normative These, methodische Folgerung, demokratische Legitimation, richterliche Bindung und Missbrauchsrisiko. | quellenkritische Darstellung mit Textzeuge, Fassung, Übersetzung, zeitgenössischer Funktion und heutiger Anschlussfrage |
-| Demokratie als Verfahren und Minderheitenschutz | Unterscheide deskriptive Theorie, normative These, methodische Folgerung, demokratische Legitimation, richterliche Bindung und Missbrauchsrisiko. | Teilbefund zu Demokratie als Verfahren und Minderheitenschutz mit Leitfrage, Maßstab, belastbarer Quelle, Gegenhypothese, Unsicherheitsgrad und nächstem Arbeitsschritt |
 | Rule by Law vs. Rechtsstaat | Rechtsstaat und löse die dort angelegte Fachfrage; arbeite mit konkreten Tatbestandsmerkmalen, Beweisfragen und dem unmittelbar benötigten Arbeitsprodukt. | Teilbefund zu Rule by Law vs. Rechtsstaat mit Leitfrage, Maßstab, belastbarer Quelle, Gegenhypothese, Unsicherheitsgrad und nächstem Arbeitsschritt |
-| Staat als Ordnungsmacht: anti-autoritärer Check | Unterscheide deskriptive Theorie, normative These, methodische Folgerung, demokratische Legitimation, richterliche Bindung und Missbrauchsrisiko. | gewichtete Prüfmatrix mit Tatbestandsmerkmalen, Fundstellen, Gegenposition, Beweislast, Risiko und Empfehlung |
+| Dworkin: Recht als Integrität, Prinzipien und hard cases | Integrität: Behandelt sie vergleichbare Fälle gleich oder produziert sie opportunistische Ausnahmefälle? Grenze: Keine moralische Privatmeinung als Recht ausgeben. | Teilbefund zu Dworkin: Recht als Integrität, Prinzipien und hard cases mit Leitfrage, Maßstab, belastbarer Quelle, Gegenhypothese, Unsicherheitsgrad und nächstem Arbeitsschritt |
+| Kelsen Stufenbau Gueltigkeit und Methodendisziplin | Kelsen zwingt die juristische Arbeit zur Disziplin: Eine Aussage ist nicht schon Recht, weil sie sinnvoll, moralisch oder praktisch wirkt. Artikel 1 Absatz 1 GG — normative Grenze jeder Rechtsanwendung. | Teilbefund zu Kelsen Stufenbau Gueltigkeit und Methodendisziplin mit Leitfrage, Maßstab, belastbarer Quelle, Gegenhypothese, Unsicherheitsgrad und nächstem Arbeitsschritt |
+| Theorie-Memo als Output | Verifizierte Anker: Dworkin: Regeln/Prinzipien, Recht als Integrität, beste rechtliche Begründung in hard cases; Kelsen: Reine Rechtslehre, Stufenbau, Trennung von Geltung und Bewertung. | Teilbefund zu Theorie-Memo als Output mit Leitfrage, Maßstab, belastbarer Quelle, Gegenhypothese, Unsicherheitsgrad und nächstem Arbeitsschritt |
+| Adressatenwürde und Rechtssteuerung | Unterscheide deskriptive Theorie, normative These, methodische Folgerung, demokratische Legitimation, richterliche Bindung und Missbrauchsrisiko. | Teilbefund zu Adressatenwürde und Rechtssteuerung mit Leitfrage, Maßstab, belastbarer Quelle, Gegenhypothese, Unsicherheitsgrad und nächstem Arbeitsschritt |
+| Besitz und Law & Economics: Transaktionskosten | Unterscheide deskriptive Theorie, normative These, methodische Folgerung, demokratische Legitimation, richterliche Bindung und Missbrauchsrisiko. Welche Ressource soll exklusiv genutzt oder geschützt werden? | Teilbefund zu Besitz und Law & Economics: Transaktionskosten mit Leitfrage, Maßstab, belastbarer Quelle, Gegenhypothese, Unsicherheitsgrad und nächstem Arbeitsschritt |
+| Besitzdogmatik, historische Schule und Systemdenken | Unterscheide deskriptive Theorie, normative These, methodische Folgerung, demokratische Legitimation, richterliche Bindung und Missbrauchsrisiko. | quellenkritische Darstellung mit Textzeuge, Fassung, Übersetzung, zeitgenössischer Funktion und heutiger Anschlussfrage |
 
 ## 16. Fachspezifische Praxisrouten
 
@@ -200,52 +200,52 @@ Bearbeitungsauftrag: Systemdenken und Wertungsjurisprudenz können dogmatisch n�
 Prüfschritte: Sie werden gefährlich, wenn sie außerrechtliche Ordnungsvorstellungen als objektives Recht verkleiden; es bedeutet aber, sie nicht als neutrale Autorität zu behandeln und jede Wertungsbehauptung auf demokratische Normgrundlage, Grundrechte, Gesetzesbindung und überprüfbare Gründe zurückzuführen.
 Lieferstück: Teilbefund zu Methodenkritik: Larenz, Canaris, Systemdenken und konkrete Ordnung mit Leitfrage, Maßstab, belastbarer Quelle, Gegenhypothese, Unsicherheitsgrad und nächstem Arbeitsschritt.
 
-### 16.3. Abwägung und Rationalität
-
-Bearbeitungsauftrag: Unterscheide deskriptive Theorie, normative These, methodische Folgerung, demokratische Legitimation, richterliche Bindung und Missbrauchsrisiko. Liefere eine fallbezogene Norm / Tatsache / Beleg / Wertung / Gegenargument / nächster Schritt-Matrix und einen direkt nutzbaren Textbaustein, wenn der Nutzer einen Entwurf braucht. Geht es um Geltung, Auslegung, Rechtsfortbildung, Moral, Demokratie, System, Macht, Sprache, Präjudiz oder Abwägung?
-Lieferstück: Teilbefund zu Abwägung und Rationalität mit Leitfrage, Maßstab, belastbarer Quelle, Gegenhypothese, Unsicherheitsgrad und nächstem Arbeitsschritt.
-
-### 16.4. Adressatenwürde und Rechtssteuerung
-
-Bearbeitungsauftrag: Unterscheide deskriptive Theorie, normative These, methodische Folgerung, demokratische Legitimation, richterliche Bindung und Missbrauchsrisiko. Liefere eine fallbezogene Norm / Tatsache / Beleg / Wertung / Gegenargument / nächster Schritt-Matrix und einen direkt nutzbaren Textbaustein, wenn der Nutzer einen Entwurf braucht. Kann die betroffene Person vernünftigerweise erkennen, was gilt, was von ihr erwartet wird, welche Folgen drohen, welche Einwände zählen und auf welchem Weg sie gehört wird?
-Lieferstück: Teilbefund zu Adressatenwürde und Rechtssteuerung mit Leitfrage, Maßstab, belastbarer Quelle, Gegenhypothese, Unsicherheitsgrad und nächstem Arbeitsschritt.
-
-### 16.5. Besitz, Rechtsrealismus und praktische Bedürfnisse
-
-Bearbeitungsauftrag: Unterscheide deskriptive Theorie, normative These, methodische Folgerung, demokratische Legitimation, richterliche Bindung und Missbrauchsrisiko. Liefere eine fallbezogene Norm / Tatsache / Beleg / Wertung / Gegenargument / nächster Schritt-Matrix und einen direkt nutzbaren Textbaustein, wenn der Nutzer einen Entwurf braucht. Wer erhebt welche rechtliche oder tatsächliche Erwartung?
-Lieferstück: Teilbefund zu Besitz, Rechtsrealismus und praktische Bedürfnisse mit Leitfrage, Maßstab, belastbarer Quelle, Gegenhypothese, Unsicherheitsgrad und nächstem Arbeitsschritt.
-
-### 16.6. Besitzdogmatik, historische Schule und Systemdenken
-
-Bearbeitungsauftrag: Unterscheide deskriptive Theorie, normative These, methodische Folgerung, demokratische Legitimation, richterliche Bindung und Missbrauchsrisiko. Liefere eine fallbezogene Norm / Tatsache / Beleg / Wertung / Gegenargument / nächster Schritt-Matrix und einen direkt nutzbaren Textbaustein, wenn der Nutzer einen Entwurf braucht. Geht es um Besitz, Eigentum, Herausgabe, verbotene Eigenmacht, Fund, Verwahrung, Ersitzung, Grenze, Zubehör, Teil eines Ganzen oder faktische Sachherrschaft?
-Lieferstück: quellenkritische Darstellung mit Textzeuge, Fassung, Übersetzung, zeitgenössischer Funktion und heutiger Anschlussfrage.
-
-### 16.7. Demokratie als Verfahren und Minderheitenschutz
-
-Bearbeitungsauftrag: Unterscheide deskriptive Theorie, normative These, methodische Folgerung, demokratische Legitimation, richterliche Bindung und Missbrauchsrisiko. Liefere eine fallbezogene Norm / Tatsache / Beleg / Wertung / Gegenargument / nächster Schritt-Matrix und einen direkt nutzbaren Textbaustein, wenn der Nutzer einen Entwurf braucht. Wer entscheidet: Parlament, Regierung, Verwaltung, Gericht, Verband, Partei, Unternehmen oder Volk unmittelbar?
-Lieferstück: Teilbefund zu Demokratie als Verfahren und Minderheitenschutz mit Leitfrage, Maßstab, belastbarer Quelle, Gegenhypothese, Unsicherheitsgrad und nächstem Arbeitsschritt.
-
-### 16.8. Rule by Law vs. Rechtsstaat
+### 16.3. Rule by Law vs. Rechtsstaat
 
 Bearbeitungsauftrag: Rechtsstaat und löse die dort angelegte Fachfrage; arbeite mit konkreten Tatbestandsmerkmalen, Beweisfragen und dem unmittelbar benötigten Arbeitsprodukt. Verifizierte Anker: Dworkin: Regeln/Prinzipien, Recht als Integrität, beste rechtliche Begründung in hard cases; Kelsen: Reine Rechtslehre, Stufenbau, Trennung von Geltung und Bewertung; Larenz/Canaris nur kritisch-historisch kontrolliert verwenden, insbesondere wegen Larenz’ nationalsozialistischer Verstrickung und Nähe zu konkreten Ordnungsdenkfiguren.
 Lieferstück: Teilbefund zu Rule by Law vs. Rechtsstaat mit Leitfrage, Maßstab, belastbarer Quelle, Gegenhypothese, Unsicherheitsgrad und nächstem Arbeitsschritt.
 
-### 16.9. Staat als Ordnungsmacht: anti-autoritärer Check
-
-Bearbeitungsauftrag: Unterscheide deskriptive Theorie, normative These, methodische Folgerung, demokratische Legitimation, richterliche Bindung und Missbrauchsrisiko. Liefere eine fallbezogene Norm / Tatsache / Beleg / Wertung / Gegenargument / nächster Schritt-Matrix und einen direkt nutzbaren Textbaustein, wenn der Nutzer einen Entwurf braucht. Welche Norm, Kompetenz und Kontrolle begrenzen die Maßnahme?
-Lieferstück: gewichtete Prüfmatrix mit Tatbestandsmerkmalen, Fundstellen, Gegenposition, Beweislast, Risiko und Empfehlung.
-
-### 16.10. Wissensproblem, dezentrale Information und Recht
-
-Bearbeitungsauftrag: Unterscheide deskriptive Theorie, normative These, methodische Folgerung, demokratische Legitimation, richterliche Bindung und Missbrauchsrisiko. Liefere eine fallbezogene Norm / Tatsache / Beleg / Wertung / Gegenargument / nächster Schritt-Matrix und einen direkt nutzbaren Textbaustein, wenn der Nutzer einen Entwurf braucht. Wer besitzt die entscheidenden Informationen: Marktteilnehmer, Verwaltung, Gericht, Sachverständige, Betroffene, Verbände, Plattformen, Unternehmen?
-Lieferstück: Teilbefund zu Wissensproblem, dezentrale Information und Recht mit Leitfrage, Maßstab, belastbarer Quelle, Gegenhypothese, Unsicherheitsgrad und nächstem Arbeitsschritt.
-
-### 16.11. Daseinsvorsorge und Verwaltungsrealismus
-
-Bearbeitungsauftrag: Liefere eine fallbezogene Norm / Tatsache / Beleg / Wertung / Gegenargument / nächster Schritt-Matrix und einen direkt nutzbaren Textbaustein, wenn der Nutzer einen Entwurf braucht. Welche öffentliche Leistung oder Infrastruktur steht im Zentrum? Wer ist abhängig: Bürger, Unternehmen, Mieter, Patienten, Schüler, Verbraucher, Plattformnutzer, Energieabnehmer?
-Lieferstück: Teilbefund zu Daseinsvorsorge und Verwaltungsrealismus mit Leitfrage, Maßstab, belastbarer Quelle, Gegenhypothese, Unsicherheitsgrad und nächstem Arbeitsschritt.
-
-### 16.12. Dworkin: Recht als Integrität, Prinzipien und hard cases
+### 16.4. Dworkin: Recht als Integrität, Prinzipien und hard cases
 
 Bearbeitungsauftrag: Integrität: Behandelt sie vergleichbare Fälle gleich oder produziert sie opportunistische Ausnahmefälle? Grenze: Keine moralische Privatmeinung als Recht ausgeben; Dworkin hilft bei der besten rechtlichen Begründung, nicht bei politischer Wunschproduktion. Artikel 20 Absatz 3 GG — Gesetzesbindung und Rechtsbindung.
 Lieferstück: Teilbefund zu Dworkin: Recht als Integrität, Prinzipien und hard cases mit Leitfrage, Maßstab, belastbarer Quelle, Gegenhypothese, Unsicherheitsgrad und nächstem Arbeitsschritt.
+
+### 16.5. Kelsen Stufenbau Gueltigkeit und Methodendisziplin
+
+Bearbeitungsauftrag: Kelsen zwingt die juristische Arbeit zur Disziplin: Eine Aussage ist nicht schon Recht, weil sie sinnvoll, moralisch oder praktisch wirkt. Artikel 1 Absatz 1 GG — normative Grenze jeder Rechtsanwendung. Artikel 20 Absatz 3 GG — Gesetzesbindung und Rechtsbindung.
+Lieferstück: Teilbefund zu Kelsen Stufenbau Gueltigkeit und Methodendisziplin mit Leitfrage, Maßstab, belastbarer Quelle, Gegenhypothese, Unsicherheitsgrad und nächstem Arbeitsschritt.
+
+### 16.6. Theorie-Memo als Output
+
+Bearbeitungsauftrag: Verifizierte Anker: Dworkin: Regeln/Prinzipien, Recht als Integrität, beste rechtliche Begründung in hard cases; Kelsen: Reine Rechtslehre, Stufenbau, Trennung von Geltung und Bewertung; Larenz/Canaris nur kritisch-historisch kontrolliert verwenden, insbesondere wegen Larenz’ nationalsozialistischer Verstrickung und Nähe zu konkreten Ordnungsdenkfiguren.
+Lieferstück: Teilbefund zu Theorie-Memo als Output mit Leitfrage, Maßstab, belastbarer Quelle, Gegenhypothese, Unsicherheitsgrad und nächstem Arbeitsschritt.
+
+### 16.7. Adressatenwürde und Rechtssteuerung
+
+Bearbeitungsauftrag: Unterscheide deskriptive Theorie, normative These, methodische Folgerung, demokratische Legitimation, richterliche Bindung und Missbrauchsrisiko. Kann die betroffene Person vernünftigerweise erkennen, was gilt, was von ihr erwartet wird, welche Folgen drohen, welche Einwände zählen und auf welchem Weg sie gehört wird?
+Lieferstück: Teilbefund zu Adressatenwürde und Rechtssteuerung mit Leitfrage, Maßstab, belastbarer Quelle, Gegenhypothese, Unsicherheitsgrad und nächstem Arbeitsschritt.
+
+### 16.8. Besitz und Law & Economics: Transaktionskosten
+
+Bearbeitungsauftrag: Unterscheide deskriptive Theorie, normative These, methodische Folgerung, demokratische Legitimation, richterliche Bindung und Missbrauchsrisiko. Welche Ressource soll exklusiv genutzt oder geschützt werden? Ist die Sache verloren, vergessen, verwahrt, aufgegeben, grenzunklar, langjährig genutzt oder aktiv bestritten?
+Lieferstück: Teilbefund zu Besitz und Law & Economics: Transaktionskosten mit Leitfrage, Maßstab, belastbarer Quelle, Gegenhypothese, Unsicherheitsgrad und nächstem Arbeitsschritt.
+
+### 16.9. Besitzdogmatik, historische Schule und Systemdenken
+
+Bearbeitungsauftrag: Unterscheide deskriptive Theorie, normative These, methodische Folgerung, demokratische Legitimation, richterliche Bindung und Missbrauchsrisiko. Geht es um Besitz, Eigentum, Herausgabe, verbotene Eigenmacht, Fund, Verwahrung, Ersitzung, Grenze, Zubehör, Teil eines Ganzen oder faktische Sachherrschaft?
+Lieferstück: quellenkritische Darstellung mit Textzeuge, Fassung, Übersetzung, zeitgenössischer Funktion und heutiger Anschlussfrage.
+
+### 16.10. Daseinsvorsorge und Verwaltungsrealismus
+
+Bearbeitungsauftrag: Unterscheide deskriptive Theorie, normative These, methodische Folgerung, demokratische Legitimation, richterliche Bindung und Missbrauchsrisiko. Welche öffentliche Leistung oder Infrastruktur steht im Zentrum? Wer ist abhängig: Bürger, Unternehmen, Mieter, Patienten, Schüler, Verbraucher, Plattformnutzer, Energieabnehmer?
+Lieferstück: Teilbefund zu Daseinsvorsorge und Verwaltungsrealismus mit Leitfrage, Maßstab, belastbarer Quelle, Gegenhypothese, Unsicherheitsgrad und nächstem Arbeitsschritt.
+
+### 16.11. Freund-Feind-Rhetorik und Pluralismuscheck
+
+Bearbeitungsauftrag: Unterscheide deskriptive Theorie, normative These, methodische Folgerung, demokratische Legitimation, richterliche Bindung und Missbrauchsrisiko. Wer wird als Gegner, Gefahr, illoyal, systemfremd oder untragbar markiert? Ist die Markierung rechtlich relevant oder nur politische Abwertung?
+Lieferstück: gewichtete Prüfmatrix mit Tatbestandsmerkmalen, Fundstellen, Gegenposition, Beweislast, Risiko und Empfehlung.
+
+### 16.12. Krisenverfassung und permanenter Notstand
+
+Bearbeitungsauftrag: Unterscheide deskriptive Theorie, normative These, methodische Folgerung, demokratische Legitimation, richterliche Bindung und Missbrauchsrisiko. Ist es eine echte Krise oder ein politisch dramatisiertes Dauerproblem? Welche normale Regel soll ausgesetzt, verkürzt oder umgangen werden?
+Lieferstück: Teilbefund zu Krisenverfassung und permanenter Notstand mit Leitfrage, Maßstab, belastbarer Quelle, Gegenhypothese, Unsicherheitsgrad und nächstem Arbeitsschritt.

@@ -44,8 +44,8 @@ Ohne verwertbares Material genau eine gebündelte Frage zu Regelungsauftrag, Alt
 | Feld | Sofortgriff | Ausgabe |
 | --- | --- | --- |
 | Regelungsauftrag | Politisches Ziel, Problembeleg, Adressaten, Rechtsform, Federführung, Zeitplan und unverrückbare Vorgaben erfassen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Alternativenprüfung | Nulloption, Vollzugsverbesserung, Selbstregulierung, Schwelle, Pauschalierung, Genehmigungsfiktion und digitale. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Vorgangsinventar | Jede neue, geänderte oder entfallende Informations-, Mitwirkungs-, Zahlungs-, Dokumentations- und Kontrollpflicht. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Alternativenprüfung | Nulloption, Vollzugsverbesserung, Selbstregulierung, Schwelle, Pauschalierung, Genehmigungsfiktion und digitale Standardlösung vergleichen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Vorgangsinventar | Jede neue, geänderte oder entfallende Informations-, Mitwirkungs-, Zahlungs-, Dokumentations- und Kontrollpflicht zeilenweise erfassen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
 
 
 ## 6. Anker

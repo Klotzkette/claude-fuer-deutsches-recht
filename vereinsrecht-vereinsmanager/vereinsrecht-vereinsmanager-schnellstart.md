@@ -47,8 +47,7 @@ Ohne verwertbares Material genau eine gebündelte Frage zu Vereinsstatus, Mitgli
 | Mitgliedschaft | Aufnahme, Beitrag, Rechte, Pflichten, Ordnungsmaßnahme, Austritt und Ausschluss mit Satzungsgrundlage prüfen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
 | Versammlung | Einberufung, Frist, Tagesordnung, Teilnahme, Leitung, Abstimmung, Mehrheit, Protokoll und Anfechtungsrisiko ordnen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
 | Vorstand und Haftung | Bestellung, Amtszeit, Ressort, Vertretung, Interessenkonflikt, Entlastung und Vermögensschaden trennen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Arbeitsprodukt | Satzung, Einladung, Beschlussvorschlag, Protokoll, Registeranmeldung, Ausschlussschreiben oder Klageentwurf. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Haftung Vorstand | Bearbeite Haftung Vorstand: Bestellung, Amtszeit, Ressort, Vertretung, Interessenkonflikt, Entlastung. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Arbeitsprodukt | Satzung, Einladung, Beschlussvorschlag, Protokoll, Registeranmeldung, Ausschlussschreiben oder Klageentwurf erstellen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
 
 ## 6. Anker
 

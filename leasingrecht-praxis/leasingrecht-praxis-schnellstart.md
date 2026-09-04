@@ -33,7 +33,7 @@ Ohne verwertbares Material genau eine gebündelte Frage zu Geschäftsmodell und 
 | Punkt | Sofortgriff |
 | --- | --- |
 | Normenanker | BGB Paragraf 145 ff. und Paragraf 133, Paragraf 157; BGB Paragraf 305 bis Paragraf 310; BGB Paragraf 280 ff. und Paragraf 323 ff |
-| Rechtsprechung | BGH VIII ZR 172/05; BGH, Urteil vom 28.05.2014 - VIII ZR 179/13 und VIII ZR 241/13 |
+| Rechtsprechung | aus Akte und belastbarer Quelle ableiten |
 | Tatbestand | Leistung, Gegenleistung, Rollen, Konzernbezug und Verhandlungsmacht feststellen |
 | Beweislast | Jede Partei- und Gremienannahme erhält Dokumentbeleg, Freigabestatus und Vollzugsnachweis; offene Parameter bleiben als Entscheidungspunkt sichtbar |
 | Rechtsfolge | vollständigen Vertragstext mit Präambel, Definitionen, Klauseln und Schlussbestimmungen ausformulieren |
@@ -48,7 +48,6 @@ Ohne verwertbares Material genau eine gebündelte Frage zu Geschäftsmodell und 
 | Risikoallokation | Haftung, Freistellung, Gewährleistung, Vertragsstrafe und Sicherheiten austarieren. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
 | Kontrolle | AGB-Festigkeit, Transparenz, Kollision mit zwingendem Recht und Wechselwirkungen prüfen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
 | Arbeitsprodukt | Vollständigen Vertragstext mit Präambel, Definitionen, Klauseln und Schlussbestimmungen ausformulieren. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Kfz-Leasing: Kilometervertrag, Restwertvertrag, Rückgabe | Vereinbarte Fahrleistung (z.B. 15.000 km/Jahr); Bei Vertragsende: Mehrkm → Nachzahlung; Wenigerkm → Erstattung. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
 
 ## 6. Anker
 
@@ -60,8 +59,6 @@ Ohne verwertbares Material genau eine gebündelte Frage zu Geschäftsmodell und 
 - Paragrafen 535–548 BGB: Mietrecht analog; im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
 - Paragrafen 506–509 BGB: Verbraucherleasing; im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
 - Paragraf 398 BGB: Abtretung der Gewährleistungsansprüche; im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
-- BGH VIII ZR 172/05: Minderwertklausel muss klar unterscheiden zwischen normaler Abnutzung und übermäßigem Verschleiß.
-- BGH, Urteil vom 28.05.2014 - VIII ZR 179/13 und VIII ZR 241/13 (Restwertgarantie): https://www.bgh.de.
 
 ## 7. Antwortform
 

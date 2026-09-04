@@ -34,7 +34,7 @@ Ohne verwertbares Material genau eine gebündelte Frage zu Vertragssoll, Bauabla
 | --- | --- |
 | Normenanker | BGB Paragraf 631; BGB Paragraf 633; BGB Paragraf 634 |
 | Rechtsprechung | BGH, Urteil vom 22.02.2018 - VII ZR 46/17; BGH, Urteil vom 08.11.2007 - VII ZR 183/05 |
-| Tatbestand | Vertragssoll, Nachtrag, Behinderung, Abnahme, Mangel, Kostenfolge, Beweis und Gutachterfrage in eine Bauakte bringen |
+| Tatbestand | Leistungsbeschreibung, Pläne, Nachträge, Termine, Vergütung und Sicherheiten erfassen |
 | Beweislast | Auftragnehmer für Leistung, Nachtrag und Behinderung; Auftraggeber für Mangel, Abnahmevorbehalt, Zahlungskürzung und Fristsetzung |
 | Rechtsfolge | Nachtrag, Behinderungsanzeige, Abnahme, Mangelrüge, Vergütung, Gutachterfrage oder Sicherung |
 | Quellenstatus | Aktenfund, Normtext, Profilanker oder sicher belegte Entscheidung offen kennzeichnen; unsichere Aktenzeichen nicht ergänzen |
@@ -43,12 +43,12 @@ Ohne verwertbares Material genau eine gebündelte Frage zu Vertragssoll, Bauabla
 
 | Feld | Sofortgriff | Ausgabe |
 | --- | --- | --- |
-| Vertragssoll | Vertragssoll, Nachtrag, Behinderung, Abnahme, Mangel, Kostenfolge, Beweis und Gutachterfrage in eine Bauakte bringen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Bauablauf | Vertragssoll, Nachtrag, Behinderung, Abnahme, Mangel, Kostenfolge, Beweis und Gutachterfrage in eine Bauakte bringen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Mangel | Vertragssoll, Nachtrag, Behinderung, Abnahme, Mangel, Kostenfolge, Beweis und Gutachterfrage in eine Bauakte bringen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Architekt | Vertragssoll, Nachtrag, Behinderung, Abnahme, Mangel, Kostenfolge, Beweis und Gutachterfrage in eine Bauakte bringen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Städtebauliche Verträge | Vertragssoll, Nachtrag, Behinderung, Abnahme, Mangel, Kostenfolge, Beweis und Gutachterfrage in eine Bauakte bringen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Festsetzungen | Vertragssoll, Nachtrag, Behinderung, Abnahme, Mangel, Kostenfolge, Beweis und Gutachterfrage in eine Bauakte bringen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Vertragssoll | Leistungsbeschreibung, Pläne, Nachträge, Termine, Vergütung und Sicherheiten erfassen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Bauablauf | Behinderung, Bedenkenhinweis, Koordination, Abnahme und Dokumentation ordnen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Mangel | Soll-Ist-Abweichung, Verantwortlichkeit, Fristsetzung, Selbstvornahme und Schaden prüfen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Architekt | Leistungsphase, Überwachungspflicht, Kostenkontrolle, Haftungsanteil und Gesamtschuld darstellen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Städtebauliche Verträge | Folgekosten, Erschließung, Durchführungsvertrag, Kausalität und Angemessenheit prüfen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Festsetzungen | Bebauungsplan, BauNVO-Werte, Baufenster, örtliche Bauvorschriften und Befreiungsbedarf in die Planungspflichten übersetzen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
 
 ## 6. Anker
 
@@ -60,6 +60,8 @@ Ohne verwertbares Material genau eine gebündelte Frage zu Vertragssoll, Bauabla
 - Paragraf 640 Absatz 2 BGB: gesetzliche Abnahmefiktion; im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
 - Paragraf 650g BGB: Zustandsfeststellung bei Bauverträgen; im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
 - Paragraf 641 BGB: Fälligkeit der Vergütung; im Sachverhalt als tragenden Norm- oder Verfahrensanker prüfen.
+- BGH, Urteil vom 22.02.2018 - VII ZR 46/17: fiktive Mängelbeseitigungskosten sind im Werkvertragsrecht nicht mehr als Schaden abrechenbar.
+- BGH, Urteil vom 08.11.2007 - VII ZR 183/05: Architekt und Unternehmer können bei Baumangel und Überwachungsfehler gesamtschuldnerisch haften.
 
 ## 7. Antwortform
 

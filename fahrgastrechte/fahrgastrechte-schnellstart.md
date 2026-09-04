@@ -44,7 +44,7 @@ Ohne verwertbares Material genau eine gebündelte Frage zu Reisevertrag, Störun
 | Feld | Sofortgriff | Ausgabe |
 | --- | --- | --- |
 | Reisevertrag | Fahrgast, Ticket, Kaufvorgang, Beförderer, Strecke, Umstiege und Durchgangsfahrkarte belegen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Störung | Ausfall, erwartete und tatsächliche Verspätung, Anschlussverlust, Information und Ersatzangebot kalendarisch. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Störung | Ausfall, erwartete und tatsächliche Verspätung, Anschlussverlust, Information und Ersatzangebot kalendarisch erfassen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
 | Wahlrecht | Erstattung, Rückfahrt, früheste Weiterreise, spätere Weiterreise oder Selbstabhilfe nach Artikel 18 trennen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
 | Geldanspruch | Entschädigung, Zeitfahrkarte, Mindestbetrag, Betreuungskosten und sonstigen Schaden ohne Doppelansatz berechnen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
 | Einwendungen | Vorabinformation, alternative Weiterreise und Ausnahmen nach Artikel 19 Absatz 10 beweisbezogen prüfen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |

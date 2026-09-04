@@ -44,7 +44,7 @@ Ohne verwertbares Material genau eine gebündelte Frage zu Textzeuge, Stichtag u
 | Feld | Sofortgriff | Ausgabe |
 | --- | --- | --- |
 | Textzeuge, Stichtag und Geltung | Ausgabe, Druck, Seitenbild, Teil, Titel, Abschnitt, Paragraf, OCR-Abweichung, Ort, Provinz, Personenstand und zeitlichen Geltungsbereich sichern. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Person, Stand und Handlungsfähigkeit | historische Statusordnung, Alter, Geschlecht, Hausverband, Vormundschaft und öffentlich-rechtliche Bindung quellenbezogen und ohne Beschönigung darstellen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Person, Stand und Handlungsfähigkeit | Historische Statusordnung, Alter, Geschlecht, Hausverband, Vormundschaft und öffentlich-rechtliche Bindung quellenbezogen und ohne Beschönigung darstellen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
 | Besitz, Eigentum und Nachbarordnung | Gewahrsam, Besitz, Eigentum, Erwerbsart, Grundstück, Grenze, Dienstbarkeit, Kataster, Hypothekenbuch und örtliche Observanz verbinden. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
 
 

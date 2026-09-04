@@ -48,7 +48,7 @@ Ohne verwertbares Material genau eine gebündelte Frage zu Zuständigkeit und Re
 | Eheverfahren | Zuständigkeit, Klagegrund, Parteistellung, Urkunden, Zeugen, Ehebandverteidiger und Rechtsmittel erfassen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
 | Kirchliches Strafverfahren | Voruntersuchung, Schutzmaßnahmen, Zuständigkeit, Verteidigung, Beweis, Dekret oder Gerichtsweg trennen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
 | Register und Urkunden | Taufe, Ehe, Austritt, Korrektur, Archiv, Ausfertigung und Offenlegung nach Beweiszweck bearbeiten. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Staatliche Schnittstelle | kirchliche Wirkung, Arbeitsrecht, Personenstand, Datenschutz und staatlichen Rechtsschutz gesondert prüfen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Staatliche Schnittstelle | Kirchliche Wirkung, Arbeitsrecht, Personenstand, Datenschutz und staatlichen Rechtsschutz gesondert prüfen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
 
 ## 6. Anker
 

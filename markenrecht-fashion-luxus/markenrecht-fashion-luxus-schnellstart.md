@@ -34,7 +34,7 @@ Ohne verwertbares Material genau eine gebündelte Frage zu Zeichen und Schutzweg
 | --- | --- |
 | Normenanker | MarkenG Paragraf 4; MarkenG Paragraf 8 und Paragraf 9; MarkenG Paragraf 14 |
 | Rechtsprechung | EuGH, Urteil vom 11.11.1997 - C-251/95; EuGH, Urteil vom 29.09.1998 - C-39/97 |
-| Tatbestand | Zeichen, Priorität, Waren oder Dienstleistungen, Kennzeichnungskraft, Ähnlichkeit, Benutzung, Verwechslungsgefahr und Verfahrensziel verbinden |
+| Tatbestand | Wort, Bild, Form, Klang oder sonstige Markenform, Inhaber, Waren und Dienstleistungen sowie DPMA- oder EUIPO-Weg bestimmen |
 | Beweislast | Markeninhaber oder Widersprechender für Priorität, Kennzeichnungskraft, Benutzung und Kollision; Gegner für Einrede, Nichtbenutzung, Erschöpfung oder Verfall |
 | Rechtsfolge | Anmeldung, Beanstandungsantwort, Widerspruch, Verfall oder Nichtigkeit, Abmahnung, Unterlassung, Auskunft, Schadensersatz oder Lizenz |
 | Quellenstatus | Aktenfund, Normtext, Profilanker oder sicher belegte Entscheidung offen kennzeichnen; unsichere Aktenzeichen nicht ergänzen |
@@ -43,10 +43,11 @@ Ohne verwertbares Material genau eine gebündelte Frage zu Zeichen und Schutzweg
 
 | Feld | Sofortgriff | Ausgabe |
 | --- | --- | --- |
-| Zeichen und Schutzweg | Zeichen, Priorität, Waren oder Dienstleistungen, Kennzeichnungskraft, Ähnlichkeit, Benutzung, Verwechslungsgefahr und Verfahrensziel verbinden. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Eintragungsfähigkeit | Zeichen, Priorität, Waren oder Dienstleistungen, Kennzeichnungskraft, Ähnlichkeit, Benutzung, Verwechslungsgefahr und Verfahrensziel verbinden. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-| Kollision | Zeichen, Priorität, Waren oder Dienstleistungen, Kennzeichnungskraft, Ähnlichkeit, Benutzung, Verwechslungsgefahr und Verfahrensziel verbinden. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
-
+| Zeichen und Schutzweg | Wort, Bild, Form, Klang oder sonstige Markenform, Inhaber, Waren und Dienstleistungen sowie DPMA- oder EUIPO-Weg bestimmen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Eintragungsfähigkeit | Unterscheidungskraft, Freihaltebedürfnis, Täuschung, Bösgläubigkeit und erworbene Verkehrsdurchsetzung getrennt prüfen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Kollision | Priorität, Kennzeichnungskraft, Zeichenähnlichkeit, Waren- oder Dienstleistungsähnlichkeit und angesprochenen Verkehr zusammenführen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Benutzung | Schonfrist, ernsthafte Benutzung, Formabweichung, Gebiet, Zeitraum, Warenumfang und Belege in einer Benutzungsmatrix ordnen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
+| Verfahren und Produkt | Anmeldung, Beanstandungsantwort, Widerspruch, Löschungsantrag, Abmahnung, Klage, Vergleich oder Lizenztext erstellen. | Ergebnisbaustein mit Beleg, Risiko und nächstem Schritt |
 
 ## 6. Anker
 
