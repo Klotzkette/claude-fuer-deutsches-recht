@@ -77,9 +77,9 @@ Arbeitsgriff Arbeitsprodukt: Zeugnisentwurf, Änderungsmatrix, Aufforderungsschr
 
 | Ebene | Fallfrage | Anker | Sofortausgabe |
 | --- | --- | --- | --- |
-| Fallkern | Schlussformel Bewertung | GewO Paragraf 109 | Sofortvermerk mit Ergebnisrichtung, Risiko und nächstem Schritt |
+| Fallkern | Chronologie und Belegmatrix Arbeitszeugnis | GewO Paragraf 109 | Sofortvermerk mit Ergebnisrichtung, Risiko und nächstem Schritt |
 | Zulässigkeit und Frist | Frist, Form, Zuständigkeit, Rolle und statthafter Weg | BGB Paragraf 630 | Fristenblatt oder Prozess-/Verfahrensroute |
-| Begründetheit | Chronologie und Belegmatrix Arbeitszeugnis | BGB Paragraf 630 | Tatbestandsmatrix mit Beleg und Gegenargument |
+| Begründetheit | Schlussformeln im Arbeitszeugnis im Gesamtkontext bewerten | BGB Paragraf 630 | Tatbestandsmatrix mit Beleg und Gegenargument |
 | Rechtsfolge | Zeugnisentwurf, Berichtigungsmatrix, Aufforderungsschreiben, Klageantrag, Vergleichsklausel oder Vollstreckungsschritt | Arbeitnehmer für Berichtigungsziel und bessere Gesamtnote; Arbeitgeber für Wahrheit, Tatsachengrundlage, Auslassungen und formale Erfüllung | Antrag, Entwurf, Entscheidungsvorschlag oder Mandantenbrief |
 
 ## 5. Normenanker, Tatbestandswichtigkeiten und Beweislast
@@ -145,7 +145,7 @@ Arbeitsgriff Arbeitsprodukt: Zeugnisentwurf, Änderungsmatrix, Aufforderungsschr
 
 10.1. Kernsatz: Benenne Parteirolle, Ziel und die begehrte oder abzuwehrende Rechtsfolge aus diesem Arbeitsfeld: Zeugnisentwurf, Berichtigungsmatrix, Aufforderungsschreiben, Klageantrag, Vergleichsklausel oder Vollstreckungsschritt.
 10.2. Tragende Regel: Stelle den einschlägigen Normsatz voran und ordne ihn dem konkreten Streitpunkt zu; erste Anker sind GewO Paragraf 109; BGB Paragraf 630.
-10.3. Tatbestandsmerkmal: Arbeite zuerst den entscheidenden Fachpunkt aus, regelmäßig Schlussformel Bewertung.
+10.3. Tatbestandsmerkmal: Arbeite zuerst den entscheidenden Fachpunkt aus, regelmäßig Chronologie und Belegmatrix Arbeitszeugnis.
 10.4. Aktenfund: Nenne Datum, Beteiligten, Handlung, Betrag und genaue Fundstelle; im Bereich Arbeitszeugnisrecht tragen regelmäßig Zeugnisentwurf, Beurteilungsbogen und Tätigkeitsbeschreibung den Nachweis. Eine streitige Behauptung bleibt als solche bezeichnet.
 10.5. Beweislast: Arbeitnehmer für Berichtigungsziel und bessere Gesamtnote; Arbeitgeber für Wahrheit, Tatsachengrundlage, Auslassungen und formale Erfüllung. Zeige ausdrücklich, welche Folge ein offener Beweis hat.
 10.6. Gegenposition: Formuliere den stärksten ernsthaften Angriff; hier setzt die Gegenseite typischerweise bei der Tatsachengrundlage der Bewertung und der Üblichkeit der Formulierung an.
@@ -185,8 +185,8 @@ Die Landkarte dient der schnellen Auswahl. Sie ersetzt nicht die darunter ausfor
 
 | Arbeitsfeld | Entscheidende Weiche | Erstes Lieferstück |
 | --- | --- | --- |
-| Schlussformel Bewertung | Bearbeite Schlussformel Bewertung: zeugnisart, Tätigkeitsbild, Leistungsnote, Sozialverhalten, Auslassung, Form und konkrete Änderungsfassung in einer Matrix verbinden. | Fachvotum zu Schlussformel Bewertung mit Tatbestandsmerkmalen, Aktenfundstellen, Beweislast, stärkster Gegenposition, Risiko und ausformulierter Rechtsfolge |
 | Chronologie und Belegmatrix Arbeitszeugnis | Baue aus der Akte eine verwertbare Zeugnis-Chronologie. GewO Paragraf 109 Absatz 1-3: Art des Zeugnisses, Klarheit und elektronische Form. | Akten- und Belegmatrix zu Chronologie und Belegmatrix Arbeitszeugnis mit Datum, Urheber, Fundstelle, Widerspruch, Fehlteil und nächstem Bearbeitungsschritt |
+| Schlussformeln im Arbeitszeugnis im Gesamtkontext bewerten | Die folgenden Beispiele sind einzelne Vergleichsausschnitte, keine vollständige Bewertungsfolge. Rückfragen nur zu noch fehlenden, entscheidenden Angaben nach Auswertung des vorhandenen Materials. | Fachvotum zu Schlussformeln im Arbeitszeugnis im Gesamtkontext bewerten mit Tatbestandsmerkmalen, Aktenfundstellen, Beweislast, stärkster Gegenposition, Risiko und ausformulierter. |
 | Arbeitszeugnisse für leitende Positionen | Beispiel 1 – Grüne Führungsaussage (Note 1): "Frau Dr. Hoffmann führte ihre über 80 Mitarbeiter mit klarem Ziel, hoher Empathie und nachhaltigem Erfolg. | Fachvotum zu Arbeitszeugnisse für leitende Positionen mit Tatbestandsmerkmalen, Aktenfundstellen, Beweislast, stärkster Gegenposition, Risiko und ausformulierter Rechtsfolge |
 | Ausbildungszeugnis-Analyse (Azubi-Zeugnis) | Beispiel 1 – Grünes Azubi-Zeugnis: "Herr Müller hat die Ausbildungsinhalte stets schnell und sicher aufgenommen, zeigte großes Interesse an seinem Ausbildungsberuf und zeichnete sich durch hervorragende. | gewichtete Prüfmatrix mit Tatbestandsmerkmalen, Fundstellen, Gegenposition, Beweislast, Risiko und Empfehlung |
 | Geheimcode-Katalog der Zeugnissprache | Beispiel 1 – Positivkette: "stets einsatzbereit, sorgfältig, belastbar, kollegial, zuverlässig" → durchgehend grüne Kette, Note 1-2. | Fachvotum zu Geheimcode-Katalog der Zeugnissprache mit Tatbestandsmerkmalen, Aktenfundstellen, Beweislast, stärkster Gegenposition, Risiko und ausformulierter Rechtsfolge |
@@ -199,18 +199,17 @@ Die Landkarte dient der schnellen Auswahl. Sie ersetzt nicht die darunter ausfor
 
 Diese Routen stammen aus den konkreten Arbeitsthemen dieses Plugins. Wähle die sachnächste Route, liefere deren ersten verwertbaren Baustein sofort und vertiefe nur die Punkte, die das Ergebnis tatsächlich ändern.
 
-### 16.1. Schlussformel Bewertung
-
-Bearbeitungsauftrag: Bearbeite Schlussformel Bewertung: zeugnisart, Tätigkeitsbild, Leistungsnote, Sozialverhalten, Auslassung, Form und konkrete Änderungsfassung in einer Matrix verbinden. Verbinde den konkreten Aktenfund mit Tatbestandsmerkmal, Gegenposition, Beweislast, Rechtsfolge und dem nächsten vollständig ausformulierten Arbeitsprodukt. Fachstation: Klarheit, Wahrheit und Wohlwollen: Geheimcode-Verdacht, Auslassungen, doppeldeutige Formulierungen, Schlussformel und äußere Form prüfen.
-Prüfschritte: Paragraf 109 GewO — Anspruch auf qualifiziertes wohlwollendes Zeugnis; Paragraf 109 Absatz 2 GewO — Klarheits- und Wahrheitspflicht; kodierte Negativaussagen unzulässig Quellenregel: Entscheidungen nur nach Prüfung einer amtlichen oder frei zugänglichen Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage ausgeben; Beispiel 2 – Orange (fehlendes Bedauern): "Wir danken Herrn Klein für seine Arbeit und wünschen ihm für die Zukunft alles Gute." — Kein Bedauern; im Bewerbungsverkehr kühl, rechtlich aber nicht automatisch angreifbar.
-Normbezug aus dem Fachmaterial: Paragraf 109 GewO — Anspruch auf qualifiziertes wohlwollendes Zeugnis; Paragraf 109 Absatz 2 GewO — Klarheits- und Wahrheitspflicht.
-Lieferstück: Fachvotum zu Schlussformel Bewertung mit Tatbestandsmerkmalen, Aktenfundstellen, Beweislast, stärkster Gegenposition, Risiko und ausformulierter Rechtsfolge.
-
-### 16.2. Chronologie und Belegmatrix Arbeitszeugnis
+### 16.1. Chronologie und Belegmatrix Arbeitszeugnis
 
 Bearbeitungsauftrag: Baue aus der Akte eine verwertbare Zeugnis-Chronologie. GewO Paragraf 109 Absatz 1-3: Art des Zeugnisses, Klarheit und elektronische Form. AGG Paragrafen 1, 7, 15 nur bei diskriminierenden Zeugnisformulierungen oder Benachteiligungskontext.
 Prüfschritte: Beginne mit Eintritt, Positionswechseln, Aufgaben, Zielvereinbarungen, Abmahnungen/Lob, Beendigungsgrund, Zeugnisdatum, Entwurfsfassungen und Änderungsverlangen; Spalten: Tatsache, Zeitraum, Beleg/Anlage, Zeugnisstelle, gewünschte Formulierung, Arbeitgeberrisiko, Beweisstärke, offener Nachweis; Markiere harte Belege stärker als bloße Selbsteinschätzungen; BGB Paragrafen 242, 241 Absatz 2: Treu und Glauben, Rücksichtnahme, Wahrheit/Wohlwollen; BGB Paragrafen 195, 199: Verjährung.
 Lieferstück: Akten- und Belegmatrix zu Chronologie und Belegmatrix Arbeitszeugnis mit Datum, Urheber, Fundstelle, Widerspruch, Fehlteil und nächstem Bearbeitungsschritt.
+
+### 16.2. Schlussformeln im Arbeitszeugnis im Gesamtkontext bewerten
+
+Bearbeitungsauftrag: Die folgenden Beispiele sind einzelne Vergleichsausschnitte, keine vollständige Bewertungsfolge. Rückfragen nur zu noch fehlenden, entscheidenden Angaben nach Auswertung des vorhandenen Materials; belegte Angaben nicht erneut erfragen. Beispiel 2 – Orange (fehlendes Bedauern): "Wir danken Herrn Klein für seine Arbeit und wünschen ihm für die Zukunft alles Gute." — Kein Bedauern; im Bewerbungsverkehr kühl, rechtlich aber nicht automatisch angreifbar.
+Prüfschritte: Lies zuerst das vollständige Zeugnis und vorhandene frühere Fassungen; Vergleiche den genauen Wortlaut der Schlussformel mit Leistungsbewertung, Verhalten und Beendigungsangaben; Liefere eine kurze, ausformulierte Bewertung mit Textbelegen, getrennt nach sprachlicher Wirkung und rechtlich zu prüfendem Änderungsziel; ergänze bei Bedarf einen konkreten Formulierungsvorschlag.
+Lieferstück: Fachvotum zu Schlussformeln im Arbeitszeugnis im Gesamtkontext bewerten mit Tatbestandsmerkmalen, Aktenfundstellen, Beweislast, stärkster Gegenposition, Risiko und ausformulierter Rechtsfolge.
 
 ### 16.3. Arbeitszeugnisse für leitende Positionen
 

@@ -57,7 +57,7 @@ Dies dient zugleich der Einhaltung kanzleiinterner Informationssicherheitspflich
 ### Schritt 1: Zulassungsliste lesen (vor jedem Abruf)
 
 Lese `~/.claude/plugins/config/kanzlei-builder-hub/positivliste.yaml`.
-Existiert die Datei nicht, teile dem Nutzer mit: "Keine Zulassungsliste unter [Pfad] gefunden. Führe `/kanzlei-builder-hub:kanzlei-builder-hub-kaltstart-interview` aus, um eine anzulegen — ohne sie gilt jede Quelle als vertrauenswürdig und der Installer hat keine strukturelle Schranke, nur die KI-gestützte Prüfung (die eine gut gestaltete Injection manipulieren kann). Ich fahre im permissiven Modus mit leerer Zulassungsliste fort."
+Existiert die Datei nicht, teile dem Nutzer mit: "Keine Zulassungsliste unter [Pfad] gefunden. Führe `/kanzlei-builder-hub:kaltstart-interview` aus, um eine anzulegen — ohne sie gilt jede Quelle als vertrauenswürdig und der Installer hat keine strukturelle Schranke, nur die KI-gestützte Prüfung (die eine gut gestaltete Injection manipulieren kann). Ich fahre im permissiven Modus mit leerer Zulassungsliste fort."
 
 Prüfe Registry-URL und Herausgeber gegen die Listen `registries` und `publishers`:
 

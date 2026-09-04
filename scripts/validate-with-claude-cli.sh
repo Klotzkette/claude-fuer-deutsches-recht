@@ -1,6 +1,6 @@
 #!/usr/bin/env bash
 # Schaerfere Validierung mit der offiziellen Plugin-CLI.
-# Faengt genau das ab, was der User-Client beim "Install from .zip" prueft.
+# Prüft Manifeste mit der installierten Plugin-CLI; kein interaktiver Importtest.
 #
 # Voraussetzung:
 #   npm install -g @anthropic-ai/claude-code
@@ -50,21 +50,47 @@ else
   validate_one ".claude-plugin/marketplace.json" "marketplace.json"
 
   echo "=== Alle Plugins (strict) ==="
-  python3 -c "
+  # Prozesssubstitution würde einen Fehler beim Einlesen nicht weitergeben.
+  if ! PLUGIN_SOURCES="$(python3 - <<'PY'
 import json
-m = json.load(open('.claude-plugin/marketplace.json'))
-for p in m['plugins']:
-    print(p['name'])
-" | while read -r slug; do
-    if [ -d "$slug" ]; then
-      echo "--- $slug ---"
-      if ! claude plugin validate --strict "$slug" 2>&1 | grep -E '(passed|FAIL|error|warn)' | tail -3; then
+import sys
+
+try:
+    with open('.claude-plugin/marketplace.json', encoding='utf-8') as handle:
+        marketplace = json.load(handle)
+    if not isinstance(marketplace, dict) or not isinstance(marketplace.get('plugins'), list):
+        raise ValueError('plugins muss eine Liste sein')
+    rows = []
+    for index, plugin in enumerate(marketplace['plugins'], start=1):
+        if not isinstance(plugin, dict):
+            raise ValueError(f'Plugin {index}: Objekt erwartet')
+        for field in ('name', 'source'):
+            value = plugin.get(field)
+            if not isinstance(value, str) or not value.strip():
+                raise ValueError(f'Plugin {index}: {field} muss eine nichtleere Zeichenfolge sein')
+            if any(character in value for character in '\t\r\n\0'):
+                raise ValueError(f'Plugin {index}: {field} enthält ungültige Steuerzeichen')
+        rows.append(plugin['name'] + '\t' + plugin['source'])
+    print('\n'.join(rows))
+except (OSError, ValueError) as error:
+    print(f'FEHLER: Marketplace-Quellen nicht lesbar: {error}', file=sys.stderr)
+    sys.exit(1)
+PY
+)"; then
+    exit 1
+  fi
+
+  if [ -n "$PLUGIN_SOURCES" ]; then
+    while IFS=$'\t' read -r slug source; do
+      if [ -d "$source" ]; then
+        echo "--- $slug ---"
+        validate_one "$source" "$slug"
+      else
+        echo "FEHLER: Quelle für $slug fehlt: $source" >&2
         FAILED=$((FAILED + 1))
       fi
-    else
-      echo "WARN: $slug nicht im Repo-Root gefunden" >&2
-    fi
-  done
+    done <<< "$PLUGIN_SOURCES"
+  fi
 fi
 
 if [ "$FAILED" -gt 0 ]; then

@@ -93,14 +93,14 @@ Beim ersten Aufruf führt das Plugin ein Interview durch – zehn bis fünfzehn 
 Das Ergebnis wird in `~/.claude/plugins/config/claude-fuer-deutsches-recht/gewerblicher-rechtsschutz/CLAUDE.md` gespeichert – ein Klartext-Dokument über Ihre Kanzlei, das jeder andere Skill vor dem Start liest.
 
 ```
-/gewerblicher-rechtsschutz:gewerblicher-rechtsschutz-kaltstart-interview
+/gewerblicher-rechtsschutz:kaltstart-interview
 ```
 
 ## Befehle
 
 | Befehl | Funktion |
 |---|---|
-| `/gewerblicher-rechtsschutz:gewerblicher-rechtsschutz-kaltstart-interview` | Ersteinrichtungsinterview ausführen (oder erneut ausführen) |
+| `/gewerblicher-rechtsschutz:kaltstart-interview` | Ersteinrichtungsinterview ausführen (oder erneut ausführen) |
 | `/gewerblicher-rechtsschutz:abmahnung-urheberrecht [Kontext]` | Abmahnung entwerfen oder eingehende Abmahnung triagieren |
 | `/gewerblicher-rechtsschutz:takedown-anweisung [Kontext]` | Notice-and-Action (DSA / § 7 DDG) versenden oder auf eine erhaltene Meldung reagieren |
 | `/gewerblicher-rechtsschutz:markenrecherche [Marke]` | Erste Markenrecherche – Identitäts-/Verwechslungsanalyse, Anwalt zeichnet ab |
@@ -112,7 +112,7 @@ Das Ergebnis wird in `~/.claude/plugins/config/claude-fuer-deutsches-recht/gewer
 | `/gewerblicher-rechtsschutz:schutzrechts-portfolio` | Schutzrechtsregister und Fristenverwaltung – fällige Verlängerungen, eingereichte Anmeldungen |
 | `/gewerblicher-rechtsschutz:markenanmeldung-dpma` | Markenanmeldung beim DPMA Schritt für Schritt |
 | `/gewerblicher-rechtsschutz:abmahnung-urheberrecht` | Urheberrechtliche Abmahnung (insb. Filesharing, § 97a UrhG) |
-| `/gewerblicher-rechtsschutz:gewerblicher-rechtsschutz-mandat-arbeitsbereich` | Mandatsarbeitsbereiche verwalten (nur Mehrmandat-Kanzleien) |
+| `/gewerblicher-rechtsschutz:mandat-arbeitsbereich` | Mandatsarbeitsbereiche verwalten (nur Mehrmandat-Kanzleien) |
 
 ## Skills
 
@@ -172,7 +172,7 @@ Empfohlene Datenbanken für deutsches IP-Recht:
 ### 1. Interview durchführen
 
 ```
-/gewerblicher-rechtsschutz:gewerblicher-rechtsschutz-kaltstart-interview
+/gewerblicher-rechtsschutz:kaltstart-interview
 ```
 
 Zehn bis fünfzehn Minuten. Halten Sie Ihr Schutzrechtsverzeichnis, Markenrichtlinien (falls vorhanden), eine Abmahnvorlage (falls vorhanden) und Ihre OSS-Richtlinie (falls vorhanden) bereit.
@@ -232,7 +232,7 @@ Dieser Pfad überlebt Plugin-Updates. Die mitgelieferte `CLAUDE.md` ist eine Vor
 
 ## Hinweise
 
-- Jeder Skill liest zuerst das Kanzleiprofil. Findet er Platzhalter, stoppt er und fordert Sie auf, `/gewerblicher-rechtsschutz:gewerblicher-rechtsschutz-kaltstart-interview` auszuführen. Es gibt keinen generischen Fallback – eine generische IP-Strategie ist schlechter als gar keine.
+- Jeder Skill liest zuerst das Kanzleiprofil. Findet er Platzhalter, stoppt er und fordert Sie auf, `/gewerblicher-rechtsschutz:kaltstart-interview` auszuführen. Es gibt keinen generischen Fallback – eine generische IP-Strategie ist schlechter als gar keine.
 - Das Versenden einer Abmahnung eröffnet einen Konflikt. Der `/gewerblicher-rechtsschutz:abmahnung-urheberrecht`-Skill sendet nichts selbst; er entwirft, zeigt den Genehmigungsmatrixeintrag an und wartet auf den Genehmiger.
 - `/gewerblicher-rechtsschutz:markenrecherche` und `/gewerblicher-rechtsschutz:fto-triage` sind **erste Triage-Schritte**. Das Ergebnis ist ein Recherchepaket für einen Anwalt, kein Freigabegutachten. Der Skill gibt dies bei jedem Durchlauf an.
 - `/gewerblicher-rechtsschutz:open-source-pruefung` kennzeichnet Lizenzpflichten und -inkompatibilitäten. Er erteilt keine Genehmigung für eine kommerzielle Nutzungsentscheidung – das entscheiden Engineering und Recht gemeinsam.

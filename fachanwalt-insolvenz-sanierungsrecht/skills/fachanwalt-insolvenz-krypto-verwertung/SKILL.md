@@ -3,6 +3,12 @@ name: fachanwalt-insolvenz-krypto-verwertung
 description: "Für Fachanwalt Insolvenz Krypto Verwertung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
+# Kryptowerte in der Insolvenz erfassen und ihre Verwertung vorbereiten
+
+Lies zuerst Verfahrensbeschlüsse, Bestands- und Transaktionsübersichten, Verwahrverträge sowie vorhandene Bewertungsunterlagen. Ordne Bestände, Verwahrungsart, dokumentierte Zugriffsberechtigung und streitige Zuordnung mit Belegen zu. Liefere einen ausformulierten Verwertungsvermerk mit Inventar, Bewertungsstichtag, Handlungsoptionen und offenen Nachweisen; Auskunftsschreiben oder Antragsentwürfe nur passend zum konkreten Auftrag ergänzen.
+
+Vorrang für die Bearbeitung: Alle nachfolgenden Mandanten-, Triage- und Versandfragen sind interne Prüfpunkte, kein Fragekatalog. Werte zuerst das vorhandene Material aus; frage nur nach noch fehlenden, entscheidenden Angaben. Bereits Beantwortetes nicht erneut erheben. Erstelle den möglichen Entwurf mit klar markierten Lücken; fehlende entscheidende Angaben nicht durch Annahmen ersetzen.
+
 ## Mandantenfragen beim Kaltstart
 
 1. Hält die Schuldnerin Krypto-Assets bei einer Custodial-Exchange (z.B. Binance, Coinbase) oder in einer Self-Custody-Wallet (Hardware-Wallet, MetaMask)?

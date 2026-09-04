@@ -56,7 +56,7 @@ Relevante Vorschriften je Bereich (Referenz für Konsistenzprüfung):
 
 CLAUDE.md und Unternehmensprofil lesen. Falls das Plugin-Profil nicht existiert oder noch `[PLATZHALTER]`-Werte enthält:
 
-> Sie haben die Ersteinrichtung noch nicht abgeschlossen. Führen Sie zunächst `/gesellschaftsrecht:gesellschaftsrecht-kaltstart-interview` aus — die Anpassungsfunktion setzt ein bestehendes Praxisprofil voraus.
+> Sie haben die Ersteinrichtung noch nicht abgeschlossen. Führen Sie zunächst `/gesellschaftsrecht:kaltstart-interview` aus — die Anpassungsfunktion setzt ein bestehendes Praxisprofil voraus.
 
 ### Schritt 2: Anpassungsübersicht zeigen
 
@@ -94,7 +94,7 @@ Bei Änderungen an Unternehmensname, Branche, Sitz, Tätigkeitssetting, Rechtsfo
 
 ### Schritt 6: Abschluss
 
-> Fertig. Ihre nächste Ausgabe spiegelt die Änderung wider. Weitere Anpassungen? Sie können `/gesellschaftsrecht:gesellschaftsrecht-anpassen` jederzeit erneut aufrufen.
+> Fertig. Ihre nächste Ausgabe spiegelt die Änderung wider. Weitere Anpassungen? Sie können `/gesellschaftsrecht:anpassen` jederzeit erneut aufrufen.
 
 ## Output-Template
 
@@ -122,7 +122,7 @@ Konflikt erkannt: [BESCHREIBUNG] — Empfehlung: [HANDLUNGSHINWEIS]
 
 --- BESTAEIGUNG ---
 Praxisprofil gespeichert. Naechste Ausgabe verwendet den neuen Wert.
-Weitere Anpassungen: `/gesellschaftsrecht:gesellschaftsrecht-anpassen` erneut aufrufen.
+Weitere Anpassungen: `/gesellschaftsrecht:anpassen` erneut aufrufen.
 ```
 
 ## Rote Schwellen

@@ -1,9 +1,9 @@
 ---
 name: kaltstart-interview
-description: "Für /betreuungsrecht:betreuungsrecht-kaltstart-interview: routet Rolle, Frist, Unterlagen und Fachschritt; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
+description: "Für /betreuungsrecht:kaltstart-interview: routet Rolle, Frist, Unterlagen und Fachschritt; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
-# /betreuungsrecht:betreuungsrecht-kaltstart-interview
+# /betreuungsrecht:kaltstart-interview
 
 ## Direktstart: lesen, entscheiden, liefern
 

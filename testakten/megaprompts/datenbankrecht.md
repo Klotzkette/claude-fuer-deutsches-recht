@@ -139,6 +139,8 @@ Ausgangspunkt für dieses Plugin: Rechteinhaber für Schutzgegenstand, Investiti
 
 _Für Kaltstart Triage: routet Rolle, Frist, Unterlagen und Fachschritt; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt. Fachgebiet: Datenbankrecht und Datenbankherstellerrecht._
 
+# Datenbestand, Schutzrecht und Nutzungsanliegen einordnen
+
 ## Direktstart: lesen, entscheiden, liefern
 
 Beginne nicht mit einem Fragenkatalog. Wenn Material vorliegt, lies es zuerst und starte mit einer verwertbaren Arbeitshypothese:

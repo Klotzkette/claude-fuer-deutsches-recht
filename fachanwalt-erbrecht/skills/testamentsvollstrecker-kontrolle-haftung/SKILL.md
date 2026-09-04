@@ -1,36 +1,46 @@
 ---
 name: testamentsvollstrecker-kontrolle-haftung
-description: "Für Testamentsvollstrecker Kontrolle Haftung: prüft Ergebnis, Beweislast und Gegenposition; Ergebnis: Gegenprüfung mit Beweis- und Fristencheck."
+description: "Prüft Auskunft, Rechnungslegung und Pflichtverletzungen des Testamentsvollstreckers, trennt Entlassung und Schadensersatz und erstellt den jeweils passenden Antrag oder die Haftungsabwehr."
 ---
 
-# Testamentsvollstrecker: Amt, Zeugnis, Auskunft, ordnungsgemäße Verwaltung, Entlassung und Haftung.
+# Testamentsvollstrecker kontrollieren und Ansprüche durchsetzen
 
+## 1. Zweck und Anwendungsfall
 
-## Arbeitsweg
+Für Beanstandung oder Verteidigung der Amtsführung. Ein schlechtes Anlageergebnis oder bloßes Misstrauen ist nicht automatisch ein wichtiger Entlassungsgrund.
 
-- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
-- Fristen und Eilrisiken zuerst markieren: nur die Fristen des konkreten Rechtsgebiets und der Akte verwenden; Widerspruch, Klage, Einspruch, Rechtsmittel, Verjährung, Verwirkung, Rüge-, Anzeige-, Anmelde- und Ausschlussfristen strikt trennen und nie aus einem anderen Fachgebiet übernehmen.
-- Tragende Normen verifizieren: BGB Paragrafen 1922 ff., 1942 ff., 1967, 2032 ff., 2197 ff. und 2303 ff.; FamFG Paragrafen 342 ff.; EuErbVO bei Auslandsbezug. ErbStG und AO nur hinzunehmen, wenn die konkrete Aufgabe eine Steuerschnittstelle hat. Fundstellen über amtliche Gesetzes- und Rechtsprechungsdatenbanken live prüfen; keine ungeprüften Zitate.
-- Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
-- Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
+## 2. Eingaben
 
-**Fokus:** Testamentsvollstrecker: Amt, Zeugnis, Auskunft, ordnungsgemäße Verwaltung, Entlassung und Haftung.; Normanker: BGB §§ 2197 ff., 2218 und 2227 und 2219; fragt Unterlagen, Beweisstand, Fristen und taktische nächste Schritte konkret ab.
+Verfügung, Zeugnis, Annahme, Verzeichnis, Rechnungen, Entscheidungen, Fristen, Korrespondenz, konkrete Beanstandungen, Schäden und mögliche Entlastungserklärungen.
 
-## Fachlicher Kern — Erbrecht
-- **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `Testamentsvollstrecker: Amt, Zeugnis, Auskunft, ordnungsgemäße Verwaltung, Entlassung und Haftung.` und löse die dort angelegte Fachfrage; arbeite mit konkreten Tatbestandsmerkmalen, Beweisfragen und dem unmittelbar benötigten Arbeitsprodukt. Routingfragen bleiben Hilfsmittel, wenn Frist, Zuständigkeit oder Verfahrensart offen sind.
-- **Normenradar:** BGB §§ 1922 ff., 1937, 1942 ff., 1953, 1967, 2032 ff., 2042, 2050 ff., 2078, 2084, 2203 ff., 2303 ff., 2314, 2325, 2333; FamFG §§ 343 ff.; EuErbVO.
-- **Arbeitsmodus:** Erst Erbfolge, Ausschlagung, Nachlassbestand, Haftung und Fristen sichern; dann Pflichtteil, Auskunft/Wertermittlung, Testamentsauslegung, Erbengemeinschaft und internationale Anknüpfung trennen.
-- **Outputpflicht:** Nachlassmatrix, Pflichtteils-/Ergänzungstabelle, Auskunftsverlangen, Erbscheinsantrag, Teilungsplan oder Klagebaustein.
-- **Fehlerbremse:** Tragende Normen/Entscheidungen live oder aus der Akte verifizieren; Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei prüfbarer Quelle. Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen.
+## 3. Ablauf und Checkliste
 
-## Fachkern: Testamentsvollstrecker: Amt, Zeugnis, Auskunft, ordnungsgemäße Verwaltung, Entlassung und Haftung.
+1. Pflicht, Fälligkeit, Empfänger und Befugnis feststellen. Erbeninformation nach BGB Paragrafen 2215 und 2218 von Pflichtteilsauskunft des Erben unterscheiden.
 
-- **Akte (Testamentsvollstrecker: Amt, Zeugnis, Auskunft, ordnungsgemäße Verwaltung, Entlassung und Haftung.):** Amt, Zeugnis, Auskunft, ordnungsgemäße Verwaltung, Entlassung und Haftung.
-- **Prüfachse:** Anspruchsziel, Frist, Beweis, Gegenseite, Gericht/Zuständigkeit, Kostenrisiko und wirtschaftliches Ergebnis werden getrennt.
-- **Arbeitsprodukt:** Schriftsatzkern, Stufenplan, Vergleichslinie oder Mandantenbrief mit Beleg- und Fristenmatrix.
+2. Für jeden Vorgang Entscheidungslage, Informationsbasis, Interessenkonflikt, wirtschaftliche Folge und Beleg sichern. Rückschaufehler vermeiden.
 
-## Normanker
+3. Auskunfts- oder Rechnungslegungsverlangen und gegebenenfalls Abhilfe verlangen. Eine fehlende Abmahnung schließt Entlassung nicht generell aus.
 
-BGB §§ 2197 ff., 2218, 2227, 2219. Rechtsprechung wird nur mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle genannt; bei unsicherem Stand wird ausdrücklich ein Live-Check verlangt.
+4. Wichtigen Grund nach Paragraf 2227, Beteiligtenantrag, Anhörung und Beschwerde zum Nachlassverfahren zuordnen. Schadensersatz nach Paragraf 2219 im Zivilprozess eigenständig begründen.
 
-- BGH, Entscheidung zum einstweiligen Vollstreckungsschutz vom 15.01.2025 - IV ZR 166/24: Der BGH behandelte die Erben als Schuldner der Pflichtteilsauskunft nach BGB Paragraf 2314 Absatz 1 Satz 1. Nicht als abschließendes Sachurteil zu allen Beschaffungsfragen zitieren; Pflichtteilsauskunft, Nachlassverzeichnis nach BGB Paragraf 2215 und Rechenschaft nach Paragraf 2218 auseinanderhalten.
+5. Pflichtverletzung, Verschulden, Kausalität und Schaden sowie Umfang einer Entlastung trennen. Nachfolge im Amt und Sicherung gefährdeter Gegenstände planen.
+
+### 3.1. Referenzen gezielt laden
+
+Bei Entlassung, Haftung oder Entlastung [Kontrolle und Rechtsschutz](references/kontrolle-rechtsschutz.md) laden.
+
+## 4. Quellenpflicht
+
+BGB Paragrafen 2215 bis 2219, 2220 und 2227; FamFG Paragrafen 58 und 63; ZPO für Leistungs- und Schadensersatzklage.
+
+Es gilt die [Zitierweise](../../../references/zitierweise.md). Tragende Normfassung, Übergangsrecht und Rechtsprechung vor Verwendung amtlich prüfen. Gesicherte Quelle, Aktenfund, Schlussfolgerung und offene Recherche trennen; keine Literaturfundstelle aus Modellwissen. Die thematischen Referenzen enthalten Rechercheanker, keine Garantie fortdauernder Aktualität.
+
+## 5. Ausgabeformat
+
+Pflicht- und Beweismatrix, bestimmtes Informationsverlangen, Entlassungsantrag oder bezifferte Schadensersatzklage beziehungsweise Erwiderung.
+
+Das Endprodukt steht in vollständigen, ausformulierten Sätzen; keine Skelette, Halbsätze oder reinen Aufzählungen als Enddokument. Tabellen unterstützen die Begründung. Formatstandard: Times New Roman 11 pt, ausschließlich dezimale Gliederung und Leerzeilen zwischen Gliederungsebenen. Bei Markdown oder Chat diesen Formatwunsch als Exporthinweis aufnehmen.
+
+## 6. Beispiele
+
+Eine eigenmächtige Entnahme und eine bloß schwache Rendite werden getrennt geprüft; die Entlassung ersetzt nicht die Durchsetzung des Rückzahlungsanspruchs.

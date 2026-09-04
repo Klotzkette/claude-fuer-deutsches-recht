@@ -2,18 +2,18 @@
 
 ## Zusammensetzung
 
-Diese Vollprüfung enthält top-8 von 304 Skills (gekürzt für das Arbeitsfenster) des Plugins `agb-recht-pruefer`.
+Diese Vollprüfung enthält top-8 von 273 Skills (gekürzt für das Arbeitsfenster) des Plugins `agb-recht-pruefer`.
 
 ## Inhaltsverzeichnis
 
 1. **juristischer-argumentationskern** — Schaltet sich ein, wenn in Agb Recht Prüfer ein juristisches Arbeitsprodukt tragfähig begründet werden muss; verbindet k…
-2. **kaltstart-triage** — Für AGB-Recht Kommandocenter: routet Rolle, Frist, Unterlagen und Fachschritt; Ergebnis: Prüfprodukt mit Risiko und näch…
+2. **kaltstart-triage** — Ordnet vorgelegte AGB, Vertragsfassungen und Korrespondenz einem konkreten Prüf-, Entwurfs-, Verhandlungs- oder Streitau…
 3. **rechtsabteilung-preisanpassung-bei-dauervertraegen-nach-energiek** — Für Rechtsabteilung: Preisanpassung bei Dauerverträgen nach Energiekosten-Schock: ordnet Norm, Beweislast und Gegenargum…
 4. **rechtsabteilung-vertragsstrafe-in-einheitspreis-und-liefervertra** — Für Rechtsabteilung: Vertragsstrafe in Einheitspreis- und Lieferverträgen: ordnet Norm, Beweislast und Gegenargument; Er…
-5. **rechtsabteilung-haftungsdeckel-fuer-daten-und-ki-schaeden** — Für Rechtsabteilung: Haftungsdeckel für Daten- und digitale Werkzeuge-Schäden: ordnet Norm, Beweislast und Gegenargument…
-6. **rechtsabteilung-vertragsstrafe-einheitspreis** — Für Rechtsabteilung: Vertragsstrafe in Einheitspreis- und Lieferverträgen: ordnet Norm, Beweislast und Gegenargument; Er…
-7. **rechtsabteilung-haftungsdeckel-daten-ki** — Für Rechtsabteilung: Haftungsdeckel für Daten- und digitale Werkzeuge-Schäden: ordnet Norm, Beweislast und Gegenargument…
-8. **rechtsabteilung-zustimmungsfiktion-nach-bank-agb-urteil** — Für Rechtsabteilung: Zustimmungsfiktion nach Bank-AGB-Urteil: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfp…
+5. **rechtsabteilung-vertragsstrafe-einheitspreis** — Für Rechtsabteilung: Vertragsstrafe in Einheitspreis- und Lieferverträgen: ordnet Norm, Beweislast und Gegenargument; Er…
+6. **rechtsabteilung-preisanpassung** — Für Rechtsabteilung: Preisanpassung bei Dauerverträgen nach Energiekosten-Schock: ordnet Norm, Beweislast und Gegenargum…
+7. **haftungsbegrenzung-pruefen-und-formulieren** — Prüft und formuliert die zusammenhängende Haftungsregel in AGB: geschützte Schäden, Verschulden, wesentliche Pflichten, …
+8. **rechtsabteilung-change-control-klauseln** — Für Rechtsabteilung: Change-Control-Klauseln im Konzernvertrag: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prü…
 
 ---
 
@@ -143,74 +143,47 @@ Ausgangspunkt für dieses Plugin: Anspruchsteller für Vertrag, Pflichtverletzun
 
 ## Skill: `kaltstart-triage`
 
-_Für AGB-Recht Kommandocenter: routet Rolle, Frist, Unterlagen und Fachschritt; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt._
+_Ordnet vorgelegte AGB, Vertragsfassungen und Korrespondenz einem konkreten Prüf-, Entwurfs-, Verhandlungs- oder Streitauftrag zu. Liefert einen belegten Erstbefund und führt nur in die für das Ergebnis benötigten Fachprüfungen._
 
-# AGB-Recht Kommandocenter
+# AGB-Auftrag klären und bearbeiten
 
-## Direktstart: lesen, entscheiden, liefern
+## 1. Zweck und Anwendungsfall
 
-Beginne nicht mit einem Fragenkatalog. Wenn Material vorliegt, lies es zuerst und starte mit einer verwertbaren Arbeitshypothese:
+Vorhandenes Material unmittelbar auswerten und das passende Arbeitsergebnis beginnen. Die Auswahl zwischen Prüfung, Entwurf, Verhandlung, Redline, Einführung neuer Bedingungen und Streitbearbeitung erfolgt aus Auftrag und Unterlagen, nicht durch einen vorgelagerten Fragenkatalog. Bei eindeutigem Fachproblem direkt den betreffenden Skill nutzen.
 
-- Frist oder Sofortrisiko.
-- erkannte Rolle, Zielrichtung und Verfahrensstand.
-- tragende Tatsachen aus dem Material.
-- bester nächster Arbeitsschritt mit direkt nutzbarem Output.
+## 2. Eingaben
 
-Frage höchstens zwei Punkte nach, und nur wenn ohne diese Antwort der nächste Schritt falsch oder riskant würde. Fehlt Material vollständig, verlange nicht allgemein alle Unterlagen, sondern nenne die drei wichtigsten Dokumente und arbeite mit sichtbaren Annahmen weiter.
+AGB, Vertrag, Anlagen, Versionen, Screenshots, Bestellablauf und Korrespondenz lesen. Rolle, Regelungsziel, Parteistatus, Vertragsart, Datum, Vertriebskanal und laufende Frist feststellen. Papier, Web, App, Kundenkonto, E-Mail und Portal nach ihrem tatsächlichen Einbeziehungs- und Nachweisablauf unterscheiden.
 
-Starte mit einem Arbeitsprodukt, nicht mit einer Inventarliste: Kurzvermerk, Fristenblatt, Prüfmatrix, Entwurf, Fragenliste oder Entscheidungsvorschlag. Routing ist nur Mittel zum Zweck. Wenn ein Fachskill eindeutig passt, arbeite unmittelbar in dessen Richtung weiter.
+Ohne Material genau eine gebündelte Frage zu den entscheidenden Lücken stellen und die drei wichtigsten fehlenden Unterlagen nennen. Mit ausdrücklich markierten Annahmen weiterarbeiten, soweit Frist, Zuständigkeit, Beweis oder Rechtsfolge dadurch nicht verfälscht werden.
 
-Arbeitsmodus: Liefere zuerst einen nutzbaren Zwischenstand in höchstens sieben Sätzen und dann den nächsten konkreten Schritt. Frage nur nach, wenn Frist, Zuständigkeit, Beweis, Betrag oder Rechtsfolge sonst nicht belastbar bestimmbar sind. Tabellen nur für Fristen, Belege, Beträge, Varianten oder Streitstoff.
+## 3. Ablauf
 
-## Auftrag
+3.1. Einen belegten Erstbefund in höchstens sieben Sätzen liefern: betroffene Klausel, Ziel, Tatsachengrundlage, Sofortrisiko und nächstes Produkt. Keine bloße Inventarliste voranstellen. Tabellen nur für echte Belege, Fristen, Beträge oder Varianten verwenden.
 
-Arbeite als hochpräziser, praxistauglicher Co-Pilot für deutsches AGB-Recht. Der Skill startet immer mit der Weichenstellung: **AGB prüfen**, **AGB entwerfen**, **AGB verhandeln**, **AGB redlinen**, **AGB-Rollout vorbereiten** oder **AGB-Streit/Abmahnung bearbeiten**.
+3.2. Für einen gesamten Bestand [AGB-Prüfung beginnen](https://github.com/Klotzkette/claude-fuer-deutsches-recht/blob/main/agb-recht-pruefer/skills/agb-pruefung-kaltstart/SKILL.md), [Klauselumfang erfassen](https://github.com/Klotzkette/claude-fuer-deutsches-recht/blob/main/agb-recht-pruefer/skills/klauselinventar-und-scope/SKILL.md) oder [Risiken priorisieren](https://github.com/Klotzkette/claude-fuer-deutsches-recht/blob/main/agb-recht-pruefer/skills/agb-risikoklassifizierung-ampel/SKILL.md) auswählen. Einbeziehung, Auslegung, Überraschung, Transparenz, Inhaltskontrolle und Rechtsfolge getrennt halten. Die Auslegungsregeln nach Verfahrensart und Regelungszusammenhang bestimmen.
 
-Ziel ist kein Lehrbuch, sondern ein verwendbares Arbeitsergebnis: Klauselampel, Redline, Ersatzklausel, Legal Note, Mandantenmail, Verhandlungsplaybook, Rolloutplan oder Prozessstrategie.
+3.3. Bei einer konkreten Klausel [Transparenz](https://github.com/Klotzkette/claude-fuer-deutsches-recht/blob/main/agb-recht-pruefer/skills/klauseltransparenz-pruefen/SKILL.md), [Inhalt und Verbote](https://github.com/Klotzkette/claude-fuer-deutsches-recht/blob/main/agb-recht-pruefer/skills/klauselinhalt-und-verbote-pruefen/SKILL.md) oder [Ausfallfolgen](https://github.com/Klotzkette/claude-fuer-deutsches-recht/blob/main/agb-recht-pruefer/skills/klauselausfall-und-vertragsluecke-pruefen/SKILL.md) prüfen. Keine parallelen Durchläufe derselben Generalklausel unter mehreren Namen starten.
 
-## Sofortstart
+3.4. Für einen neuen Gesamtbestand [AGB-Entwurf beginnen](https://github.com/Klotzkette/claude-fuer-deutsches-recht/blob/main/agb-recht-pruefer/skills/agb-entwurf-kaltstart/SKILL.md); für eine einzelne Regelung [Klauselvarianten entwerfen](https://github.com/Klotzkette/claude-fuer-deutsches-recht/blob/main/agb-recht-pruefer/skills/klauselvarianten-entwerfen/SKILL.md). Risikoprofil und Kundengruppe dort als Eingaben verwenden. [Klauselbibliothek](https://github.com/Klotzkette/claude-fuer-deutsches-recht/blob/main/agb-recht-pruefer/skills/klauselbibliothek-aufbau/SKILL.md) nur für Pflege, Freigabe und Wiederverwendung hinzunehmen. Eine Verhandlung oder Redline verbindet Originaltext, Änderung, Begründung und konkrete Rückfallposition.
 
-Wenn der Nutzer Dokumente hochlädt, behandle den Upload als Arbeitsauftrag. Beginne mit:
+3.5. Bei Online-Einbeziehung [Plattform und Checkout](https://github.com/Klotzkette/claude-fuer-deutsches-recht/blob/main/agb-recht-pruefer/skills/plattform-und-online-checkout/SKILL.md) oder [Clickwrap-Nachweise](https://github.com/Klotzkette/claude-fuer-deutsches-recht/blob/main/agb-recht-pruefer/skills/clickwrap-beweisakte/SKILL.md) wählen. [Shop-AGB](https://github.com/Klotzkette/claude-fuer-deutsches-recht/blob/main/agb-recht-pruefer/skills/ecommerce-shop-agb/SKILL.md) und [Marktplatzbedingungen](https://github.com/Klotzkette/claude-fuer-deutsches-recht/blob/main/agb-recht-pruefer/skills/marketplace-agb/SKILL.md) nach Geschäftsmodell getrennt bearbeiten. Vor Einführung neuer Bedingungen Einigungsweg und Freigabe klären; keine Mitteilungen ohne Auftrag versenden.
 
-| Punkt | Prüfung |
-| --- | --- |
-| Material | Welche AGB, Vertragsbedingungen, Screenshots, Versionen oder Anlagen liegen vor? |
-| Ziel | Prüfen, entwerfen, verhandeln, redlinen, rolloutfähig machen oder verteidigen? |
-| Rolle | Verwender, Kunde, Verbraucher, Unternehmer, Plattform, Händler, Verband, Prozessgegner? |
-| Kanal | Papier, Web, App, Checkout, Kundenkonto, E-Mail, Portal, Angebot, Rahmenvertrag? |
-| Rechtsstand | Vor tragenden Aussagen BGB §§ 305 bis 310 und UKlaG auf Gesetze im Internet live prüfen. |
-| Output | Klauselampel, Ersatzfassung, Redline-Kommentar, Memo, Playbook oder Mandantenkommunikation. |
+3.6. Im Streit [UKlaG-Unterlassung](https://github.com/Klotzkette/claude-fuer-deutsches-recht/blob/main/agb-recht-pruefer/skills/uklag-unterlassung-verbandsklage/SKILL.md), [Abmahnreaktion](https://github.com/Klotzkette/claude-fuer-deutsches-recht/blob/main/agb-recht-pruefer/skills/abmahnung-reagieren/SKILL.md), [Unterlassungserklärung ändern](https://github.com/Klotzkette/claude-fuer-deutsches-recht/blob/main/agb-recht-pruefer/skills/unterlassungserklaerung-modifizieren/SKILL.md) oder [Individualklage verteidigen](https://github.com/Klotzkette/claude-fuer-deutsches-recht/blob/main/agb-recht-pruefer/skills/individualklage-verteidigung/SKILL.md) anhand des tatsächlichen Auftrags wählen. Rückzahlung und kollektiv geltend gemachte Abhilfe nicht durch die Klauselprüfung ersetzen.
 
-## Workflow
+3.7. Normstand, offene Tatsachen, stärkste Gegenposition, Nachweise, Versionsstand und nächste Entscheidung beim Ergebnis dokumentieren. Bei Eilbedarf die konkrete Sicherungsmaßnahme zuerst benennen.
 
-1. Klausel zerlegen: einzelne Regelung, wirtschaftlicher Zweck, betroffene Partei, Vertragstyp.
-2. Anwendungsbereich: AGB-Eigenschaft, Einbeziehung, Verbraucher/Unternehmer, Individualabrede.
-3. Auslegung: kundenfeindlichste vertretbare Auslegung, Überraschung, Mehrdeutigkeit.
-4. Inhaltskontrolle: §§ 307 bis 309 BGB, § 310 BGB, Sondermaterie, zwingendes Recht.
-5. Rechtsfolge: Klauselausfall, gesetzliche Ersatzregel, Rückabwicklung, Prozess- oder Verbandsrisiko.
-6. Verbesserung: sichere Fassung, balanced Fassung, aggressive Fassung mit Warnlabel.
-7. Dokumentation: Normstand, Annahmen, offene Tatsachen, Version, Nachweis und Folgeaufgaben.
+## 4. Quellenpflicht
 
-## Routing
+[Zitierweise](https://github.com/Klotzkette/claude-fuer-deutsches-recht/blob/main/references/zitierweise.md) beachten. Die für Einbeziehung, Auslegung und Kontrolle tragenden Paragrafen 305 bis 310 BGB in der maßgeblichen Fassung amtlich prüfen. UKlaG nur bei entsprechendem Verbandsauftrag hinzunehmen. Einschlägige Rechtsprechung mit Gericht, Entscheidungsform, Datum, Aktenzeichen und Randnummer verifizieren; fallbezogene Belege aus den ausgewählten Fachreferenzen nutzen.
 
-- Prüfen: `agb-prüfung-kaltstart`, `klauselinventar-und-scope`, `agb-risikoklassifizierung-ampel`.
-- Entwerfen: `agb-entwurf-kaltstart`, `klausel-entwerfen-low-risk`, `klausel-entwerfen-balanced`, `klauselbibliothek-aufbau`.
-- Normen: `norm-live-check-gesetze-im-internet`, `inhaltskontrolle-307-generalklausel`, `klauselverbote-308-systematik`, `klauselverbote-309-systematik`.
-- Online: `plattform-und-online-checkout`, `clickwrap-beweisakte`, `ecommerce-shop-agb`, `marketplace-agb`.
-- Streit: `uklag-unterlassung-verbandsklage`, `abmahnung-reagieren`, `unterlassungserklärung-modifizieren`, `individualklage-verteidigung`.
+## 5. Ausgabeformat
 
-## Antwortformat
+Das verlangte Klauselvotum, den Entwurf, die Redline, den Verhandlungsvermerk, den Einführungsplan oder die begründete Antwort vollständig ausformulieren. Eine Fragenliste oder Prüfmatrix ist nur ein Zwischenprodukt. Keine Skelette, Halbsätze oder reinen Aufzählungen als Endprodukt. Times New Roman 11 pt, ausschließlich dezimale Gliederung und Leerzeilen verwenden; bei Markdown als Exporthinweis nennen. Bei unzureichendem Material den belastbaren Teil und die entscheidende offene Frage liefern.
 
-```text
-Kurzbild: ...
-Rolle/Kanal: ...
-Normstand: Live-Check BGB §§ 305-310 / UKlaG erforderlich oder erledigt.
-Risikoampel: ...
-Primärer Fachmodul: ...
-Nächster Arbeitsschritt: ...
-```
+## 6. Beispiele
 
-Frage höchstens eine wirklich entscheidende Rückfrage. Wenn genug Material vorliegt, arbeite sofort weiter.
+Eine hochgeladene Haftungsklausel verlangt zuerst einen konkreten Haftungsbefund. Eine Abmahnung verlangt Fristsicherung und eine begründete Reaktion, nicht ungefragt einen kompletten AGB-Neuentwurf.
 
 ---
 
@@ -312,47 +285,6 @@ BGH, Urteil vom 15.02.2024 - VII ZR 42/22; §§ 307, 309 Nr. 6 BGB; § 339 BGB
 
 ---
 
-## Skill: `rechtsabteilung-haftungsdeckel-fuer-daten-und-ki-schaeden`
-
-_Für Rechtsabteilung: Haftungsdeckel für Daten- und digitale Werkzeuge-Schäden: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt. Fachgebiet: AGB-Recht-Prüfer. Route: rechtsabteilung-haftungsdeckel-fuer-daten-und-ki-schaeden._
-
-# Rechtsabteilung: Haftungsdeckel für Daten- und KI-Schäden
-
-## Arbeitsweg
-
-- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
-- Fristen und Eilrisiken zuerst markieren: nur die Fristen des konkreten Rechtsgebiets und der Akte verwenden; Widerspruch, Klage, Einspruch, Rechtsmittel, Verjährung, Verwirkung, Rüge-, Anzeige-, Anmelde- und Ausschlussfristen strikt trennen und nie aus einem anderen Fachgebiet übernehmen.
-- Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
-- Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
-
-## Fachkern: Rechtsabteilung: Haftungsdeckel für Daten- und KI-Schäden
-
-- **Klauselproblem (Rechtsabteilung: Haftungsdeckel für Daten- und KI-Schäden):** Liability Caps bei Software, Daten, KI und Outsourcing werden so geprüft, dass Kardinalpflichten und Personenschäden nicht versehentlich abgeschnitten werden.
-- **AGB-Weiche:** Einbeziehung (§ 305 BGB), überraschende Klausel (§ 305c BGB), Transparenz (§ 307 Abs. 1 S. 2 BGB), Inhaltskontrolle (§§ 307-309 BGB), Rechtsfolge (§ 306 BGB) und Prozess-/Verbandsrisiko sauber trennen.
-- **Beleglogik:** Originalklausel, Vertragsumfeld, Verwendungsnachweis, Verhandlungsspuren, Kundengruppe, Marktstandard und wirtschaftliche Wirkung als Matrix erfassen.
-- **Arbeitsprodukt:** Klauselampel, Redline, Ersatzformulierung, Verhandlungsposition und gerichtsfeste Kurzbegründung mit Live-Check amtlicher Normenquellen.
-
-## Norm- und Rechtsprechungsanker
-
-§§ 307, 309 Nr. 7 BGB; ProdHaftG; Richtlinie EU 2024/2853 als künftiger Rahmen
-
-## Sofortprüfung
-
-1. Geschäftsvorfall präzise benennen: Vertrag, Produkt, Organentscheidung, Behördenschreiben, Claim, Krise oder Prozess.
-2. Dokumente sichern: Vertrag, Nachträge, E-Mails, Beschlussvorlagen, Logs, Rechnungen, Kundenkommunikation und interne Freigaben.
-3. Rechtsfolge trennen: Unwirksamkeit, Schadensersatz, Bußgeld, Unterlassung, Rückabwicklung, Organhaftung oder Meldepflicht.
-4. Beweisproblem markieren: Wer weiß was, welches Dokument trägt, welche Quelle ist nur Behauptung?
-5. Entscheidungsvorlage ausgeben: Ampel, Optionen, Frist, Owner, Eskalation und Formulierungsvorschlag.
-
-## Output für die Rechtsabteilung
-
-- One-page legal memo mit Risikoampel und klarer Empfehlung.
-- Belegmatrix mit Originalquelle, Datum, Verantwortlichem und Lücke.
-- Entwurf für interne Weisung, Vorstandsvorlage, Gegenanwaltsschreiben oder Behördenantwort.
-- Liste der passenden Nachbarskills aus diesem Plugin und angrenzenden Plugins.
-
----
-
 ## Skill: `rechtsabteilung-vertragsstrafe-einheitspreis`
 
 _Für Rechtsabteilung: Vertragsstrafe in Einheitspreis- und Lieferverträgen: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt. Fachgebiet: AGB-Recht-Prüfer. Route: rechtsabteilung-vertragsstrafe-einheitspreis._
@@ -395,22 +327,22 @@ BGH, Urteil vom 15.02.2024 - VII ZR 42/22; §§ 307, 309 Nr. 6 BGB; § 339 BGB
 
 ---
 
-## Skill: `rechtsabteilung-haftungsdeckel-daten-ki`
+## Skill: `rechtsabteilung-preisanpassung`
 
-_Für Rechtsabteilung: Haftungsdeckel für Daten- und digitale Werkzeuge-Schäden: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt. Fachgebiet: AGB-Recht-Prüfer. Route: rechtsabteilung-haftungsdeckel-daten-ki._
+_Für Rechtsabteilung: Preisanpassung bei Dauerverträgen nach Energiekosten-Schock: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt. Fachgebiet: AGB-Recht-Prüfer. Route: rechtsabteilung-preisanpassung._
 
-# Rechtsabteilung: Haftungsdeckel für Daten- und KI-Schäden
+# Rechtsabteilung: Preisanpassung bei Dauerverträgen nach Energiekosten-Schock
 
-## Fachkern: Rechtsabteilung: Haftungsdeckel für Daten- und KI-Schäden
+## Fachkern: Rechtsabteilung: Preisanpassung bei Dauerverträgen nach Energiekosten-Schock
 
-- **Klauselproblem (Rechtsabteilung: Haftungsdeckel für Daten- und KI-Schäden):** Liability Caps bei Software, Daten, KI und Outsourcing werden so geprüft, dass Kardinalpflichten und Personenschäden nicht versehentlich abgeschnitten werden.
+- **Klauselproblem (Rechtsabteilung: Preisanpassung bei Dauerverträgen nach Energiekosten-Schock):** Preisgleitklauseln werden nach Anlass, Parameter, Transparenz, Kündigungsrecht und Mitteilungsmechanik bewertet.
 - **AGB-Weiche:** Einbeziehung (§ 305 BGB), überraschende Klausel (§ 305c BGB), Transparenz (§ 307 Abs. 1 S. 2 BGB), Inhaltskontrolle (§§ 307-309 BGB), Rechtsfolge (§ 306 BGB) und Prozess-/Verbandsrisiko sauber trennen.
 - **Beleglogik:** Originalklausel, Vertragsumfeld, Verwendungsnachweis, Verhandlungsspuren, Kundengruppe, Marktstandard und wirtschaftliche Wirkung als Matrix erfassen.
 - **Arbeitsprodukt:** Klauselampel, Redline, Ersatzformulierung, Verhandlungsposition und gerichtsfeste Kurzbegründung mit Live-Check amtlicher Normenquellen.
 
 ## Norm- und Rechtsprechungsanker
 
-§§ 307, 309 Nr. 7 BGB; ProdHaftG; Richtlinie EU 2024/2853 als künftiger Rahmen
+§§ 307, 308 Nr. 4, 315 BGB; § 24 AVBFernwärmeV analog nur mit Vorsicht; EuGH-Verbraucherleitlinien live prüfen
 
 ## Sofortprüfung
 
@@ -427,31 +359,70 @@ _Für Rechtsabteilung: Haftungsdeckel für Daten- und digitale Werkzeuge-Schäde
 - Entwurf für interne Weisung, Vorstandsvorlage, Gegenanwaltsschreiben oder Behördenantwort.
 - Liste der passenden Nachbarskills aus diesem Plugin und angrenzenden Plugins.
 
+<!-- BEGIN ausformulierungspflicht (autogen) -->
+> **Ausformulierungspflicht und Formatstandard.** Das Endprodukt wird in **vollständigen, ausformulierten Sätzen** geliefert — keine Stichwortskelette, keine leeren Klauselrümpfe, keine reinen Aufzählungen. Klauseln stehen als ausformulierte Rechtsfolgen-Sätze; Platzhalter wie `[Name der Mandantin]` werden klar markiert, der umgebende Text bleibt vollständig.
+>
+> **Schriftbild:** Wenn ein Schriftsatz, Vertrag, Memo, Beschluss, Vermerk oder sonstiges Enddokument als DOCX, PDF oder formatierter Text ausgegeben wird, ist **Times New Roman 11 pt** als Grundschrift zu verwenden. Überschriften bleiben in derselben Schrift und dürfen nur fett oder abgestuft sein. Bei reiner Markdown- oder Chat-Ausgabe wird dieser Formatwunsch als Exporthinweis aufgenommen.
+>
+> **Nummerierung:** Gliederung ausschließlich dezimal (`1`, `1.1`, `1.1.1` und so weiter). Keine römischen Ziffern, keine Buchstaben- oder Mischgliederung.
+<!-- END ausformulierungspflicht (autogen) -->
+
 ---
 
-## Skill: `rechtsabteilung-zustimmungsfiktion-nach-bank-agb-urteil`
+## Skill: `haftungsbegrenzung-pruefen-und-formulieren`
 
-_Für Rechtsabteilung: Zustimmungsfiktion nach Bank-AGB-Urteil: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt. Fachgebiet: AGB-Recht-Prüfer. Route: rechtsabteilung-zustimmungsfiktion-nach-bank-agb-urteil._
+_Prüft und formuliert die zusammenhängende Haftungsregel in AGB: geschützte Schäden, Verschulden, wesentliche Pflichten, Folgeschäden und Haftungshöchstbetrag. Liefert eine abgestimmte Fassung statt isolierter Ausnahme- oder Deckelbausteine._
 
-# Rechtsabteilung: Zustimmungsfiktion nach Bank-AGB-Urteil
+# Haftungsbegrenzung prüfen und formulieren
 
-## Arbeitsweg
+## 1. Zweck und Anwendungsfall
 
-- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
-- Fristen und Eilrisiken zuerst markieren: nur die Fristen des konkreten Rechtsgebiets und der Akte verwenden; Widerspruch, Klage, Einspruch, Rechtsmittel, Verjährung, Verwirkung, Rüge-, Anzeige-, Anmelde- und Ausschlussfristen strikt trennen und nie aus einem anderen Fachgebiet übernehmen.
-- Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
-- Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
+Ausnahme, Haftungsgrund und summenmäßige Begrenzung müssen im Zusammenspiel stimmen. Gewährleistungsrechte, Verjährung, Vertragsstrafe und tatsächliche Schadensberechnung bleiben gesonderte Aufgaben.
 
-## Fachkern: Rechtsabteilung: Zustimmungsfiktion nach Bank-AGB-Urteil
+## 2. Eingaben
 
-- **Klauselproblem (Rechtsabteilung: Zustimmungsfiktion nach Bank-AGB-Urteil):** Klauseln, die Schweigen oder bloße Weiternutzung als Zustimmung behandeln, werden für Preis- und Leistungsänderungen in B2C und B2B auseinandergenommen.
+Gesamte Haftungsregel, Vertragstyp, B2B/B2C, Pflichtenkatalog, geschützte Rechtsgüter, handelnde Personen, Entgelt, Schadensszenarien und Versicherungsschutz. Eine Versicherungssumme belegt nicht die Wirksamkeit eines Haftungsdeckels.
+
+## 3. Ablauf
+
+3.1. Tatbestand der Haftung und Reichweite des Ausschlusses bestimmen. Bei Personenschäden, Verschulden oder Gehilfen [Haftungsausnahmen](https://github.com/Klotzkette/claude-fuer-deutsches-recht/blob/main/agb-recht-pruefer/skills/haftungsbegrenzung-pruefen-und-formulieren/references/haftungsausnahmen.md) laden; eigene Vorsatzhaftung von Gehilfenhaftung unterscheiden.
+
+3.2. Bei wesentlichen Pflichten, Folgeschäden oder Höchstbeträgen [Schadensumfang und Obergrenze](https://github.com/Klotzkette/claude-fuer-deutsches-recht/blob/main/agb-recht-pruefer/skills/haftungsbegrenzung-pruefen-und-formulieren/references/schadensumfang-und-obergrenze.md) lesen. Geschützte Kernleistung konkret benennen. Kein festes Vielfaches des Entgelts als generell zulässig behandeln.
+
+3.3. Alle Absätze auf Widersprüche prüfen: Ausnahmen müssen auch Jahresdeckel, Einzelereignisdeckel und Folgeschadenausschluss erfassen. B2B-Wertungen anhand Paragraf 310 BGB einordnen, nicht schlicht den Verbraucherkatalog kopieren.
+
+3.4. Unwirksamen Umfang nach Paragraf 306 BGB bestimmen; Teilbarkeit nicht pauschal ausschließen. Eine konservative Ersatzfassung liefern. Bei Schäden aus Datenverarbeitung oder Modelldiensten ergänzend den eigenständigen [Datenhaftungsdeckel](https://github.com/Klotzkette/claude-fuer-deutsches-recht/blob/main/agb-recht-pruefer/skills/haftungsdeckel-fuer-daten-und-modelldienste-pruefen/SKILL.md) prüfen, ohne den Grunddurchgang zu wiederholen.
+
+## 4. Quellenpflicht
+
+[Zitierweise](https://github.com/Klotzkette/claude-fuer-deutsches-recht/blob/main/references/zitierweise.md) beachten. Paragrafen 276, 278, 307, 309 Nummer 7 und 310 BGB sowie gegebenenfalls Paragraf 14 ProdHaftG anhand des konkret erfassten Schadens prüfen. Entscheidungen und Grenzen sind in den beiden Referenzen zugeordnet.
+
+## 5. Ausgabeformat
+
+Haftungsmatrix als Zwischenprodukt, danach einheitliche ausformulierte Klausel mit Ausnahmen, konkreten Kernpflichten und begründeter Begrenzung. Endprodukte in vollständigen Sätzen; keine Skelette, Halbsätze oder bloßen Aufzählungen. Times New Roman 11 pt und dezimale Gliederung mit Leerzeilen; bei Markdown Exporthinweis.
+
+## 6. Beispiele
+
+„Haftung maximal ein Jahresentgelt“: Betrag mit vorhersehbaren Schäden vergleichen und Ausnahmebereich prüfen. „Keine indirekten Schäden“: erfasste Schäden bestimmen; eine Übersetzung aus einem ausländischen Vertragsmuster reicht nicht.
+
+---
+
+## Skill: `rechtsabteilung-change-control-klauseln`
+
+_Für Rechtsabteilung: Change-Control-Klauseln im Konzernvertrag: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt. Fachgebiet: AGB-Recht-Prüfer. Route: rechtsabteilung-change-control-klauseln._
+
+# Rechtsabteilung: Change-Control-Klauseln im Konzernvertrag
+
+## Fachkern: Rechtsabteilung: Change-Control-Klauseln im Konzernvertrag
+
+- **Klauselproblem (Rechtsabteilung: Change-Control-Klauseln im Konzernvertrag):** Einseitige Leistungs- und Prozessänderungen werden in komplexen Konzern-Frameworks auf Zumutbarkeit und Governance geprüft.
 - **AGB-Weiche:** Einbeziehung (§ 305 BGB), überraschende Klausel (§ 305c BGB), Transparenz (§ 307 Abs. 1 S. 2 BGB), Inhaltskontrolle (§§ 307-309 BGB), Rechtsfolge (§ 306 BGB) und Prozess-/Verbandsrisiko sauber trennen.
 - **Beleglogik:** Originalklausel, Vertragsumfeld, Verwendungsnachweis, Verhandlungsspuren, Kundengruppe, Marktstandard und wirtschaftliche Wirkung als Matrix erfassen.
 - **Arbeitsprodukt:** Klauselampel, Redline, Ersatzformulierung, Verhandlungsposition und gerichtsfeste Kurzbegründung mit Live-Check amtlicher Normenquellen.
 
 ## Norm- und Rechtsprechungsanker
 
-BGH, Urteil vom 27.04.2021 - XI ZR 26/20; §§ 305, 307 BGB; Zahlungsdienste zusätzlich §§ 675g, 675o BGB
+§§ 305c, 307, 308 Nr. 4 BGB; § 242 BGB; § 314 BGB
 
 ## Sofortprüfung
 

@@ -2,7 +2,7 @@
 
 ## Zusammensetzung
 
-Diese Vollprüfung enthält top-8 von 236 Skills (gekürzt für das Arbeitsfenster) des Plugins `grosskanzlei-corporate-ma`.
+Diese Vollprüfung enthält top-8 von 229 Skills (gekürzt für das Arbeitsfenster) des Plugins `grosskanzlei-corporate-ma`.
 
 ## Inhaltsverzeichnis
 
@@ -11,9 +11,9 @@ Diese Vollprüfung enthält top-8 von 236 Skills (gekürzt für das Arbeitsfenst
 3. **client-update-pack** — Verdichtet einen laufenden Unternehmenskauf für Mandant und Deal-Team zu einem entscheidungsfähigen Statusbericht: Meile…
 4. **gk-sanierungsgewinn-private-equity-und-managementbeteiligung** — Für Sanierungsgewinn – Private Equity und Managementbeteiligung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Pr…
 5. **gk-sanierungsgewinn-debt-equity-swap-und-spa-mechanik** — Für Sanierungsgewinn – Debt-Equity-Swap und SPA-Mechanik: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodu…
-6. **sanierungsgewinn-private-equity** — Für Sanierungsgewinn – Private Equity und Managementbeteiligung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Pr…
-7. **gk-sanierungsgewinn-bmf-ankoppelung-und-strategie** — Für Sanierungsgewinn – BMF-Ankoppelung und Strategie: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Verhandlungs-…
-8. **sanierungsgewinn-debt-equity-swap-spa** — Für Sanierungsgewinn – Debt-Equity-Swap und SPA-Mechanik: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodu…
+6. **due-diligence-bericht** — Verdichtet belegte Due-Diligence-Befunde zum Red-Flag-Bericht, Legal Fact Book oder Management-Memo. Verknüpft jedes wes…
+7. **fusionskontrolle-vollzugsverbot-clean-team** — Prüft vor Signing und Closing, ob Vetorechte, Integrationsmaßnahmen oder Datenzugriffe einen Zusammenschluss vorwegnehme…
+8. **sanierungsgewinn-private-equity** — Für Sanierungsgewinn – Private Equity und Managementbeteiligung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Pr…
 
 ---
 
@@ -137,6 +137,8 @@ Ausgangspunkt für dieses Plugin: Anspruchsteller für Pflichtverletzung, Schade
 ## Skill: `kaltstart-triage`
 
 _Für Kaltstart Triage: routet Rolle, Frist, Unterlagen und Fachschritt; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt. Fachgebiet: Großkanzlei Corporate/M&A._
+
+# Transaktionsunterlagen und nächsten Deal-Schritt bestimmen
 
 ## Direktstart: lesen, entscheiden, liefern
 
@@ -751,6 +753,86 @@ Dieser Skill arbeitet nicht passiv. Er fuehrt den Nutzer freundlich durch Corpor
 
 ---
 
+## Skill: `due-diligence-bericht`
+
+_Verdichtet belegte Due-Diligence-Befunde zum Red-Flag-Bericht, Legal Fact Book oder Management-Memo. Verknüpft jedes wesentliche Finding mit Preis, Garantie, Freistellung oder Vollzugsbedingung und hält Scope, Lücken und Empfängerkreis sichtbar._
+
+# Due-Diligence-Bericht mit Vertragsfolgen erstellen
+
+## 1. Vom vorhandenen Befund zum Bericht
+
+Lies Auftrag, Berichtsentwurf, Datenraumindex, Q&A und vorhandene Teilberichte. Übernimm Transaktion, Mandantenseite, Empfänger, Prüfzeitraum und Materialität. Erstelle zuerst den verlangten Berichtsteil. Ein einzelnes Finding benötigt keinen vollständigen Neustart der Due Diligence; fehlende Prüfungen werden als solche benannt.
+
+## 2. Jede Aussage auf eine Quelle zurückführen
+
+Trenne bestätigte Tatsache, Management-Auskunft, offene Frage und rechtliche Wertung. Benenne Dokument, Fassung, Seite oder Datenraum-ID. Ein leerer Ordner belegt nicht, dass Verträge, Kosten oder Streitigkeiten fehlen. Widersprechen sich Unterlagen, beide Fassungen und die Ergebniswirkung nennen.
+
+Verdichte die Arbeitsstränge Corporate, Commercial, Tax, Finance, Personal, IP/IT, Immobilien, Regulierung und Rechtsstreitigkeiten nur im vereinbarten Umfang. Ungeprüfte Rechtsordnungen und Fachgebiete sind keine bestätigten Negativbefunde. Ein Mandatsvertrag nach Paragraf 675 BGB und die konkret übernommenen Pflichten bestimmen den Umfang; ein Standardbericht verspricht nicht automatisch vollständige Prüfung aller Sachverhalte.
+
+## 3. Finding und Vertragsmechanik koppeln
+
+| Befund und Quelle | Bedeutung für den Erwerb | Empfohlene Reaktion | Noch offen |
+| --- | --- | --- | --- |
+| Konkreter dokumentierter Zustand | Eintrittswahrscheinlichkeit und mögliche Wirkung getrennt | Nachforderung, Preisregel, Garantie, Freistellung, Bedingung oder Integration | Entscheidung, Beleg, Verantwortlicher und Termin |
+
+Keine pauschale Gleichsetzung „rotes Finding = Freistellung“. Ein bekannter konkreter Altfall kann eine gezielte Freistellung verlangen; eine allgemeine Garantie kann bereits durch Disclosure eingeschränkt sein. Ein nicht beschaffbarer Consent lässt sich nicht durch eine Garantie in einen vollziehbaren Vertrag verwandeln. Quantifizierung nur mit Rechnung und belegten Annahmen; keine Risikogewichtung als gesicherter Schaden.
+
+## 4. Datenraum und Aufklärung
+
+[BGH, Urteil vom 15.09.2023, V ZR 77/22](https://juris.bundesgerichtshof.de/cgi-bin/rechtsprechung/document.py?Gericht=bgh&Art=pm&nr=136668&linked=urt&Blank=1&file=dokument.pdf) behandelt einen Immobilienkauf: Ein Datenraum erfüllt eine Aufklärungspflicht nicht schon durch sein Vorhandensein. Entscheidend ist, ob der Verkäufer berechtigt mit Kenntnisnahme rechnen durfte. Für einen Unternehmenskauf ist die Vergleichbarkeit eigens zu begründen; der Fall beweist weder automatische Kenntnis des Käufers noch die Unwirksamkeit jeder Disclosure-Klausel.
+
+Prüfe bei kritischen Unterlagen Upload-Zeitpunkt, Benachrichtigung, Ablage, Auffindbarkeit, verbleibende Prüfzeit und konkrete Nachfragen. Vertragliche Wissensdefinitionen getrennt von tatsächlicher Kenntnis und vorvertraglichen Pflichten nach Paragrafen 241 Absatz 2 und 311 Absatz 2 BGB auswerten.
+
+## 5. Genau das passende Produkt liefern
+
+- Management-Memo: Entscheidung, wichtigste Risiken, verlangte Freigaben und nächste Verhandlungspunkte in ausformulierter Kurzfassung.
+- Red-Flag-Bericht: Nur materialitätsrelevante Befunde, mit Einzelbelegen, Lücken und belastbarer Vertragsreaktion; keine künstliche Seitenquote.
+- Legal Fact Book oder Vollbericht: Geordnete Tatsachenbasis je Arbeitsstrang mit Scope, Grenzen und abgegrenzter Bewertung.
+- W&I-Unterlage: Empfängerkreis, Reliance, festgestellte Risiken und offene Underwriting-Fragen gegen die tatsächlichen Versicherungsbedingungen abgleichen; nicht den Mandantenbericht ungeprüft weiterreichen.
+
+Bei Bedarf die vorhandenen Vorlagen [Befundkarte](https://github.com/Klotzkette/claude-fuer-deutsches-recht/blob/main/grosskanzlei-corporate-ma/assets/templates/dd-finding-card.md) oder [Red-Flag-Bericht](https://github.com/Klotzkette/claude-fuer-deutsches-recht/blob/main/grosskanzlei-corporate-ma/assets/templates/red-flag-report.md) nutzen. Die Vorlage strukturiert, sie ersetzt keine ausgefüllte Aussage. Vor externer Übergabe Fundstellen, Fassungen, widersprüchliche Wertungen und Spezialistenfreigaben prüfen; Versand nicht automatisieren.
+
+---
+
+## Skill: `fusionskontrolle-vollzugsverbot-clean-team`
+
+_Prüft vor Signing und Closing, ob Vetorechte, Integrationsmaßnahmen oder Datenzugriffe einen Zusammenschluss vorwegnehmen. Liefert einen Maßnahmencheck und konkrete Clean-Team-Regeln; Anmeldeprüfung und Informationsaustausch bleiben getrennt._
+
+# Fusionskontrolle: Vollzugsverbot und Clean Team
+
+## 1. Mit der geplanten Handlung beginnen
+
+Lies die vorgelegte SPA-Klausel, Integrationsagenda oder Datenfreigabe. Benenne zuerst die konkrete Handlung, den vorgesehenen Zeitpunkt, handelnde Personen und noch ausstehende Freigaben. Frage nur nach, wenn die Antwort die Zulässigkeit dieser Handlung verändert. Ein bloßer Datenraum-Upload verlangt nicht zuerst eine vollständige Marktstudie.
+
+## 2. Drei Prüfungen auseinanderhalten
+
+1. Zuständigkeit und Anmeldung: Liegt ein Zusammenschluss vor, welche Staaten sind betroffen und welcher Kontrollstand ist bereits dokumentiert? Umsatzschwellen, Transaktionswert und besondere Aufgreiftatbestände anhand des aktuellen Rechts prüfen; eine Freigabe in einem Staat ersetzt keine andere.
+2. Vollzugsverbot: Überträgt ein Zustimmungsrecht oder eine tatsächliche Weisung bereits bestimmenden Einfluss? Prüfe Geschäftsumfang, Schwellen, Budget, Personalentscheidungen und Vertragsabschlüsse einzeln. Reiner Werterhalt und operative Steuerung sind nicht gleichzusetzen.
+3. Wettbewerblicher Informationsaustausch: Auch ohne anmeldepflichtigen Zusammenschluss können individualisierte Preise, Kunden, Margen oder Zukunftsstrategien problematisch sein. Clean-Team-Mitgliedschaft ist keine pauschale Freistellung.
+
+## 3. Maßnahmen statt abstrakter Ampeln
+
+| Gegenstand aus der Akte | Prüffrage | Konkrete Reaktion |
+| --- | --- | --- |
+| Käuferfreigabe für jeden Kundenvertrag | Schützt die Schwelle nur den Unternehmenswert oder steuert sie das Tagesgeschäft? | Zustimmungskatalog mit engerem sachlichem und betragsmäßigem Zuschnitt entwerfen |
+| Aktuelle kundenbezogene Preise | Wer benötigt welche Daten für welchen zulässigen Zweck? | Empfängerkreis, Aggregation, zeitliche Beschränkung und Weitergabekontrolle festlegen |
+| Gemeinsamer Integrationsplan | Planung oder bereits Umsetzung in Personal, Vertrieb oder IT? | Jede Umsetzungsmaßnahme mit Freigabevorbehalt und Verantwortlichem versehen |
+| Schon erfolgter Zugriff oder Eingriff | Welche Datei, Weisung oder Entscheidung wurde wann geteilt? | Tatsachen und Zugriffsprotokoll sichern; weitere betroffene Handlungen bis zur Spezialprüfung sperren |
+
+Liefere auf Wunsch ein Clean-Team-Protokoll: Personen und Rollen, erlaubte Datenarten, Zweck, Zugriffsrechte, zulässige Auswertung, Ausgabekontrolle, Protokollierung und Verfahren bei Fehlzugriff. Gib keine operative Freigabe allein wegen eines unterschriebenen NDA.
+
+## 4. Rechtsanker mit begrenzter Aussage
+
+[Paragraf 41 GWB](https://www.gesetze-im-internet.de/gwb/__41.html) betrifft das deutsche Vollzugsverbot. Auf Unionsebene sind Artikel 4 und 7 der Verordnung 139/2004 zu prüfen; Kartellverbote gesondert nach Artikel 101 AEUV und Paragraf 1 GWB.
+
+[EuGH, Urteil vom 09.11.2023, C-746/21 P, Altice](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:62021CJ0746): Über den Werterhalt hinausgehende Zustimmungsrechte können bereits bestimmenden Einfluss vermitteln. Der dortige Informationsaustausch war ein Beweisanzeichen für Einflussnahme, nicht die Feststellung, jeder Austausch sei bereits Zusammenschlussvollzug. Übertrage den Anker nur nach Vergleich der konkreten Rechte und Handlungen.
+
+## 5. Auslieferung
+
+Erstelle einen ausformulierten Maßnahmenvermerk mit Klauselfundstelle, Beleg, rechtlicher Einordnung, Änderungsvorschlag und Freigabebedarf. Für das Deal-Team ergänze eine kurze Liste „jetzt möglich / nur nach Prüfung / bis zur Freigabe gesperrt“. Eine bevorstehende Frist beschleunigt diese Prüfung, beendet aber nicht die übrige Entwurfsarbeit. Quellenstand und noch nicht geprüfte Jurisdiktionen ausdrücklich nennen; nichts automatisch versenden oder umsetzen.
+
+---
+
 ## Skill: `sanierungsgewinn-private-equity`
 
 _Für Sanierungsgewinn – Private Equity und Managementbeteiligung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt. Fachgebiet: Großkanzlei Corporate/M&A. Route: sanierungsgewinn-private-equity._
@@ -878,256 +960,6 @@ Drei Beobachtungen aus dem Distressed-PE:
 - BMF-Schreiben vom 27.04.2017 – Bundessteuerblatt Stand 06/2026.
 - BFH zur Managementbeteiligung (Abgrenzung Paragraf 17 / Paragraf 19 EStG) – ständige Rspr.; bundesfinanzhof.de.
 - FG Köln, Urteil vom 04.11.2025 - 12 K 1413/25: Eine Steuerbefreiung nach Paragraf 3a EStG setzt den Nachweis von Sanierungsbedürftigkeit, Sanierungsfähigkeit, Sanierungseignung, Sanierungsabsicht und betrieblicher Veranlassung des Schuldenerlasses voraus; die Eignung ist aus Sicht des Erlasszeitpunkts zu beurteilen.
-
----
-
-## Skill: `gk-sanierungsgewinn-bmf-ankoppelung-und-strategie`
-
-_Für Sanierungsgewinn – BMF-Ankoppelung und Strategie: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Verhandlungs- oder Eskalationslinie. Fachgebiet: Großkanzlei Corporate/M&A. Route: gk-sanierungsgewinn-bmf-ankoppelung-und-strategie._
-
-# Sanierungsgewinn – BMF-Ankoppelung und Strategie
-
-## Worum geht es
-
-Die Sanierungsgewinn-Vorschriften des Paragraf 3a EStG und Paragraf 7b GewStG sind nicht selbsterklärend. Ihre Anwendung hängt in der Praxis von **BMF-Schreiben** und **OFD-Verlautbarungen** ab, die die Voraussetzungen konkretisieren. Wer ohne Ankoppelung an die Verwaltungsauffassung in den Antrag geht, riskiert Versagung der Steuerbefreiung. Wer an die Verwaltungsauffassung anknüpft, bekommt Planungssicherheit, verliert aber Argumentationsspielraum bei streitigen Fragen.
-
-Leite die Strategie zur Ankoppelung an die Verwaltungsauffassung aus BMF-Linie, BFH-Risiko, Antragspfad und Dokumentationspaket ab.
-
-## Wann brauchen Sie diesen Skill
-
-- Vor Antrag Paragraf 3a EStG; die Antragsdokumentation muss an die BMF-Auffassung anknüpfen.
-- Vor Antrag Paragraf 89 AO; die Antragsformulierung muss BMF-Sprache nutzen.
-- Bei Streit mit dem Finanzamt; Argumentationslinie an Verwaltungsauffassung oder gegen sie.
-- Bei Gesetzgebungsänderungen, etwa durch das Wachstumschancengesetz oder Folgegesetze.
-- Bei der Verteidigung gegen Paragraf 42 AO-Vorwürfe.
-
-Nicht dieser Skill ist primär, wenn die Verwaltungsauffassung bereits in einer verbindlichen Auskunft fixiert ist; dann gilt die Auskunft.
-
-## Rechtlicher Rahmen
-
-- **Paragraf 3a EStG** – Steuerbefreiung Sanierungsertrag.
-- **Paragraf 3a Abs. 3 EStG** – Verrechnungsreihenfolge.
-- **Paragraf 7b GewStG i. V. m. Paragraf 36 Abs. 2c GewStG** – Gewerbesteuer.
-- **Paragraf 8c KStG / Paragraf 8d KStG** – Verlustvortrag.
-- **BMF-Schreiben vom 27.04.2017** – Umsetzung des Großen-Senats-Beschlusses; Erlassweg-Sanierungserlass; bis zur gesetzlichen Regelung weiter angewendet.
-- **Folge-BMF-Schreiben** – nachfolgende Klarstellungen zu Paragraf 3a EStG; Stand jeweils im Bundessteuerblatt prüfen.
-- **Wachstumschancengesetz** – steuerliche Begleitvorschriften zu Sanierung; Stand 06/2026 prüfen.
-- **AO-Anwendungserlass** zu Paragraf 42 AO und Paragraf 89 AO.
-
-## Workflow / Schritt für Schritt
-
-**Phase 1 – Verwaltungsanweisungen aktuell halten:**
-
-1. BMF-Schreiben vom 27.04.2017 als Ausgangsdokument analysieren.
-2. Nachfolgende BMF-Schreiben prüfen; im Bundessteuerblatt nachschlagen.
-3. OFD-Verlautbarungen der relevanten Oberfinanzdirektionen (insbesondere OFD Frankfurt a. M., Nordrhein-Westfalen).
-4. Aktuelle Gesetzgebung: Wachstumschancengesetz und Folgegesetze.
-
-**Phase 2 – Mandantenspezifische Subsumtion:**
-
-5. Welche Punkte der Verwaltungsauffassung sind im Mandat anwendbar?
-6. Welche Punkte sind problematisch und sollten in der verbindlichen Auskunft besonders adressiert werden?
-7. Gibt es OFD-Verlautbarungen, die im Mandat besonders zu berücksichtigen sind? Beispielsweise zur Frage, ob ein Liquidationsbeschluss als konkludenter Forderungsverzicht zu werten ist (OFD Frankfurt a. M.).
-
-**Phase 3 – Strategie der Ankoppelung:**
-
-8. **Vollkoppelungs-Strategie:** Der Antrag folgt eng der BMF-Auffassung; maximaler Sicherheitsabstand zur Streitlinie. Empfohlen, wenn der Sachverhalt klar ist und keine Sonderfragen vorliegen.
-9. **Teilkoppelungs-Strategie:** Der Antrag folgt der BMF-Auffassung, aber bringt zu einer Sonderfrage eine eigene Rechtsauffassung. Empfohlen, wenn die BMF-Auffassung in einem Punkt nicht überzeugt.
-10. **Gegenkurs-Strategie:** Der Antrag stellt sich offen gegen die BMF-Auffassung. Empfohlen nur bei klarem höchstrichterlichen Rückenwind und in Begleitung des Steuerteams.
-
-**Phase 4 – Gesetzgebung:**
-
-11. **Wachstumschancengesetz und Folgegesetze:** Welche Änderungen wirken im konkreten Mandat? Stand jeweils prüfen.
-12. **Übergangsregelungen** beachten; Stichtagsanknüpfung.
-
-**Phase 5 – Klärung problematischer Sonderfragen:**
-
-13. **Liquidation und konkludenter Verzicht:** Nach Verlautbarung der OFD Frankfurt a. M. ist ein Liquidationsbeschluss kein konkludenter Forderungsverzicht; Verbindlichkeiten bleiben zivilrechtlich auch nach Vermögenslosigkeit erhalten. Diese Auffassung wird in BFH, Urteil vom 26.02.2003 – II R 19/01 bestätigt.
-14. **Mindestbesteuerung Paragraf 10d EStG und Paragraf 3a EStG:** Verwaltungsauffassung Stand 06/2026 prüfen.
-15. **Sanierungsabsicht naher Gläubiger:** strenge Linie der Verwaltung; eigene Dokumentationspflicht.
-
-## Trade-off-Matrix
-
-| Strategie | Risiko | Vorteil | Wann |
-|---|---|---|---|
-| Vollkoppelung BMF | Niedrig | Hohe Closing-Sicherheit | Standard |
-| Teilkoppelung | Mittel | Argumentationsspielraum | Sonderfragen |
-| Gegenkurs | Hoch | Maximale Steuerentlastung | Höchstrichterlicher Rückenwind |
-| Paragraf 89 AO ohne Mandat-Sicherheit | Sehr hoch | Schnelligkeit | Vermeiden |
-
-## Praxistipps der alten Hasen
-
-Drei Beobachtungen zur strategischen BMF-Ankoppelung:
-
-- **„Die BMF-Auffassung ist Verhandlungsmasse, nicht Gesetz."** Sie bindet die Finanzverwaltung intern, nicht die Gerichte und nicht den Steuerpflichtigen. Wer die BMF-Auffassung als Gesetzeskommentar liest, verkennt ihre Funktion. Sie ist ein Verwaltungsausführungsdokument, das im Streitfall vor dem Finanzgericht keinen Beweis hat.
-- **„OFD-Verlautbarungen sind oft präziser als BMF-Schreiben."** Die Oberfinanzdirektionen Frankfurt a. M. und Nordrhein-Westfalen veröffentlichen häufig konkretere Hinweise als das BMF. Diese sollten im Antragsverfahren mitberücksichtigt werden, weil der Sachbearbeiter im Finanzamt sich daran orientiert.
-- **„Wachstumschancengesetz und Folgegesetze laufen weiter."** Der Gesetzgeber justiert die Sanierungsgewinn-Vorschriften kontinuierlich nach. Wer im Mandat Stand 06/2026 nicht prüft, ob seit Anfragestellung Gesetzesänderungen wirksam wurden, läuft Gefahr, auf veralteter Grundlage zu beraten.
-
-## SPA-/Plan-Klausel Mustertexte
-
-**Antragstext mit Verwaltungsanknüpfung:**
-
-> Bezugnahme auf BMF-Schreiben: Die Antragstellerin nimmt für die Würdigung des hier vorgetragenen Sachverhalts Bezug auf das BMF-Schreiben vom 27.04.2017 in der Fassung Stand [Datum]. Die im BMF-Schreiben unter Tz. [X] dargestellten Anforderungen werden im vorliegenden Sachverhalt vollumfänglich erfüllt, wie nachstehend zu zeigen ist.
-
-**Plan-Klausel zur Verwaltungspraxis:**
-
-> Steuerliche Würdigung: Die Parteien gehen unter Bezugnahme auf das BMF-Schreiben vom 27.04.2017 sowie die nachfolgenden Verlautbarungen davon aus, dass der durch den Forderungsverzicht entstehende Ertrag die Voraussetzungen des Paragraf 3a EStG erfüllt. Diese Annahme wird durch die mit Antrag vom [Datum] beantragte verbindliche Auskunft gemäß Paragraf 89 AO bestätigt werden.
-
-**Mandantenmemo-Auszug zur Strategiewahl:**
-
-> Strategie BMF-Ankoppelung: Wir empfehlen, im hier vorliegenden Mandat die Voll-Koppelung an die BMF-Auffassung zu wählen. Die in Tz. [X] des BMF-Schreibens vom 27.04.2017 dargestellte Auslegung deckt den Sachverhalt der Mandantin vollumfänglich; ein Gegenkurs würde die Closing-Sicherheit erheblich gefährden und ist im hier vorliegenden Volumen wirtschaftlich nicht zu vertreten.
-
-## Typische Fehler in komplexer Transaktion
-
-- BMF-Schreiben ohne Aktualitätscheck verwendet; neuere Verlautbarungen übersehen.
-- OFD-Verlautbarungen nicht berücksichtigt; Sachbearbeiter im Finanzamt wendet eigene Linie an.
-- Wachstumschancengesetz oder Folgegesetz übersehen; Übergangsregelung nicht beachtet.
-- Liquidation als konkludenter Forderungsverzicht behauptet; OFD Frankfurt a. M. widerspricht; BFH II R 19/01 widerspricht.
-- Mindestbesteuerung-Frage einseitig im Sinne der aggressiven Auffassung behandelt; Restrisiko nicht aufgezeigt.
-- Gegenkurs-Strategie ohne Steuerteam-Rückendeckung gewählt.
-
-## Querverweise
-
-- Plugin `steuerrecht-anwalt-und-berater`: Detailberatung BMF-Schreiben.
-- Plugin `grosskanzlei-corporate-ma`:
-  - `gk-sanierungsgewinn-3a-estg-praxis-fuer-corporate-ma`
-  - `gk-sanierungsgewinn-vorbescheid-und-verbindliche-auskunft`
-  - `gk-sanierungsgewinn-eu-beihilfe-und-altmark`
-  - `gk-sanierungsgewinn-forderungsverzicht-vs-mantelkauf-8c-kstg`
-
-## Quellen Stand 06/2026
-
-- Paragraf 3a EStG; Paragraf 3a Abs. 3 EStG; Paragraf 7b GewStG; Paragraf 8c KStG; Paragraf 8d KStG; Paragraf 42 AO; Paragraf 89 AO; Paragraf 10d EStG – gesetze-im-internet.de.
-- BMF-Schreiben vom 27.04.2017 – Bundessteuerblatt Stand 06/2026; nachfolgende Verlautbarungen in der Aktualfassung prüfen.
-- OFD Frankfurt a. M., Verlautbarung zur Behandlung von Liquidation und Verzicht – Verlautbarung mit konkretem Datum und Aktenzeichen vom Anwender zu zitieren.
-- BFH, Urteil vom 26.02.2003 – II R 19/01 – prüfbar über bundesfinanzhof.de.
-- FG Köln, Urteil vom 04.11.2025 - 12 K 1413/25: Eine Steuerbefreiung nach Paragraf 3a EStG setzt den Nachweis von Sanierungsbedürftigkeit, Sanierungsfähigkeit, Sanierungseignung, Sanierungsabsicht und betrieblicher Veranlassung des Schuldenerlasses voraus; die Eignung ist aus Sicht des Erlasszeitpunkts zu beurteilen.
-- Wachstumschancengesetz und Folgegesetze – Bundesgesetzblatt, Stand 06/2026 prüfen.
-- BFH (Großer Senat), Beschluss vom 28.11.2016 – GrS 1/15 – bundesfinanzhof.de.
-
-<!-- gk-ma-v61-agentic-boost -->
-
-## V61 Deal-OS Boost
-
-Dieser Skill arbeitet nicht passiv. Er fuehrt den Nutzer freundlich durch Corporate/M&A-Arbeit, zieht fehlende Struktur nach und macht aus Rohmaterial ein verwertbares Deal-Arbeitsergebnis.
-
-- **Anfaenger auffangen:** Wenn der Nutzer unsicher wirkt, Begriffe knapp erklaeren, die Aufgabe in kleine Schritte zerlegen und nach jedem Schritt sagen, woran ein Senior die Qualitaet messen wuerde.
-- **Deal-Phase erkennen:** Screening, NDA, Term Sheet, Datenraum, DD, Markup, Signing, Closing, PMI oder Streit einordnen und den Output daran ausrichten.
-- **Padlet anbieten:** Bei chaotischen oder grossen Aufgaben ein Board mit Karten fuer Parteien, Dokumente, Risiken, Q&A, CPs, Gremien, Register, Owner und Fristen erzeugen.
-- **Tabellen erzwingen:** Bei Review-, DD-, Closing-, Risiko- oder Registeraufgaben mindestens eine Matrix mit Befund, Quelle, Risikoampel, Rechtsfolge, wirtschaftlicher Bedeutung, Owner und naechstem Schritt liefern.
-- **Schwachstellen reparieren:** Juristisch duenne Aussagen, fehlende Belege, falsche Begriffe, unklare Klauselmechanik und unrealistische Timings markieren und direkt bessere Fassungen vorschlagen.
-- **Aktualitaetsdisziplin:** Bei Fusionskontrolle, FDI, FSR, Public M&A, UmwG/UmwStG, StaRUG/InsO, Steuer, Register und Aufsicht immer kenntlich machen, ob ein Live-Check der aktuellen Norm-/Behoerdenlage erforderlich ist.
-- **Human-in-the-loop:** KI-Ergebnisse als Entwurf behandeln. Kritische Rechtsauffassungen, Fundstellen, Zahlen, Fristen und Vertragsfassungen muessen mit Akte, Gesetz, Register oder offizieller Quelle plausibilisiert werden.
-- **Naechster Schritt:** Nie mit einer abstrakten Zusammenfassung enden, wenn ein konkretes Arbeitspaket moeglich ist: Entwurf, Liste, Frage an Mandant/Gegenseite, Datenraumanforderung, Klausel, Board-Note oder Closing-To-do.
-
----
-
-## Skill: `sanierungsgewinn-debt-equity-swap-spa`
-
-_Für Sanierungsgewinn – Debt-Equity-Swap und SPA-Mechanik: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt. Fachgebiet: Großkanzlei Corporate/M&A. Route: sanierungsgewinn-debt-equity-swap-spa._
-
-# Sanierungsgewinn – Debt-Equity-Swap und SPA-Mechanik
-
-## Fachlicher Anker
-
-- **Normenradar:** Paragraf 15, 16, 40, 43, 46 GmbHG; Paragraf 76, 93, 111 AktG; HGB-, UmwG-, GWB- und AWV-Bezug nur, wenn der konkrete Vorgang ihn trägt.
-- **Quellenhygiene:** `references/quellenhygiene.md` und `references/zitierweise.md` beachten.
-
-## Fachkern: Sanierungsgewinn – Debt-Equity-Swap und SPA-Mechanik
-- **Prüfachse:** Ordne den konkreten Auftrag nach Gesellschaftsform, Dokument, Entscheidungsträger, Form, Frist, Beleg und Rechtsfolge; Spezialnormen nur nennen, wenn sie den Fall tragen.
-- **Entscheidende Weiche:** Trenne Sachverhalt, Zuständigkeit, Zustimmung, Haftung, Vollzug und taktischen nächsten Schritt.
-- **Arbeitsprodukt:** Liefere eine verwertbare Matrix mit `Tatsache / Norm / Beleg / Wertung / Gegenargument / nächster Schritt` und bei Bedarf einen ausformulierten Textbaustein.
-
-## Worum geht es
-
-Der Debt-Equity-Swap (DES) ist die zentrale Sanierungsstrukturmaßnahme, in der ein Gläubiger seine Forderung gegen die Schuldnerin als Sacheinlage in die Schuldnerin einbringt und im Gegenzug Anteile erhält. Die Forderung erlischt durch Konfusion mit der Aufnahme in das Vermögen der Schuldnerin. Steuerlich entsteht bei der Schuldnerin ein Ertrag in Höhe der Differenz zwischen Nennwert der Forderung und Werthaltigkeitsanteil; das ist der **klassische Sanierungsertrag**, der Paragraf 3a EStG eröffnet. Auf Gläubigerseite stellt sich die Frage der Werthaltigkeit der eingebrachten Forderung und der gesellschaftsrechtlichen Differenzhaftung nach Paragraf 9 GmbHG / Paragraf 27 AktG.
-
-Bearbeite die gesellschaftsrechtliche und die steuerliche Mechanik mit der SPA-Strukturierung.
-
-## Wann dieses Modul hilft
-
-- Sanierungstransaktion mit einem oder mehreren Hauptgläubigern, die als neue Gesellschafter einsteigen.
-- StaRUG-Plan oder Insolvenzplan mit DES als zentralem Sanierungselement.
-- Refinanzierung eines Bondgläubigers, der seine Forderung in Anteile wandelt.
-- PE-Investor erwirbt Distressed-Debt und wandelt diese in Eigenkapital.
-
-Nicht dieser Skill ist primär, wenn der DES nur theoretisch erwogen wird, aber stattdessen ein reiner Schuldverzicht ohne Anteilseinbringung erfolgt.
-
-## Rechtlicher Rahmen
-
-- **Paragraf 3a EStG** – Sanierungsertrag auf Schuldnerseite.
-- **Paragraf 3a Abs. 3 EStG** – zwingende Verrechnungsreihenfolge.
-- **Paragraf 8 Abs. 3 Satz 2 KStG** – verdeckte Einlage.
-- **Paragraf 5 Abs. 1 EStG** – Bilanzierung Verbindlichkeiten.
-- **Paragraf 55 ff. GmbHG** – Kapitalerhöhung; Sacheinlage; Werthaltigkeitsprüfung.
-- **Paragraf 9 GmbHG** – Differenzhaftung des Einlegers.
-- **Paragraf 182 ff., 27 AktG** – AG-Sacheinlage.
-- **Paragraf 225a InsO** – DES im Insolvenzplan; gesetzliche Erleichterung.
-- **Paragraf 7 Abs. 4 StaRUG** – DES im Restrukturierungsplan.
-- **Paragraf 8c KStG / Paragraf 8d KStG** – Anteilseignerwechsel durch DES.
-
-## / Schritt für Schritt
-
-1. **Forderungs-Inventur.** Welche Forderungen sollen eingebracht werden? Nennwert, Werthaltigkeit, Sicherheiten, Rangverhältnis.
-2. **Werthaltigkeitsprüfung.** Gutachterliche Bewertung der Forderung. Der werthaltige Teil ist die Sacheinlage; der nicht werthaltige Teil ist Sanierungsertrag.
-3. **Gesellschaftsrechtliche Struktur.** Klassisch: Kapitalherabsetzung auf null mit Bezugsrechtsausschluss, dann Kapitalerhöhung mit DES. Im StaRUG/Insolvenzplan: Erleichterungen nach Paragraf 225a InsO / Paragraf 7 Abs. 4 StaRUG.
-4. **Bewertungsverfahren.** Werthaltigkeitsbestätigung durch Wirtschaftsprüfer. Sachgründungsprüfung (Paragraf 33 GmbHG / Paragraf 33 AktG).
-5. **Steuermodell Schuldnerseite.** Sanierungsertrag in Höhe Nennwert minus werthaltiger Teil. Verbrauch der Verlustvorträge nach Paragraf 3a Abs. 3 EStG. Anwendung Paragraf 3a Abs. 1 EStG.
-6. **Steuermodell Gläubigerseite.** Forderungsabschreibung beim Gläubiger; Beteiligung mit Buchwert bzw. gemeinem Wert. Paragraf 17 EStG / Paragraf 8b KStG je nach Rechtsform.
-7. **Paragraf 8c KStG-Test.** DES führt häufig zum Anteilseignerwechsel über 50 %; Verlustvortrag im Grundsatz weg.
-8. **Paragraf 8d KStG-Antrag.** Vor Wirksamwerden des DES Antrag stellen und Fortführungsbindung dokumentieren.
-9. **SPA-Strukturierung.** Investment Agreement, Restructuring Support Agreement, Forderungseinbringungsvertrag, Kapitalerhöhungsbeschluss, Anmeldung Handelsregister.
-10. **Verbindliche Auskunft.** Antrag zu Paragraf 3a EStG und ggf. Paragraf 8d KStG; Vorlauf einplanen.
-
-## Trade-off-Matrix
-
-| Frage | Außerhalb von Insolvenz | StaRUG | Insolvenzplan |
-|---|---|---|---|
-| Erleichterungen DES | keine | Paragraf 7 Abs. 4 StaRUG | Paragraf 225a InsO |
-| Werthaltigkeitsprüfung | streng | erleichtert | erleichtert |
-| Anfechtungsrisiko Gläubiger | hoch (Paragraf 133 InsO) | reduziert | reduziert |
-| Steuerliche Behandlung | Paragraf 3a EStG | Paragraf 3a EStG | Paragraf 3a EStG |
-| Paragraf 8c KStG | wirkt voll | wirkt voll | wirkt voll |
-| Zustimmungserfordernisse | alle Gesellschafter | Mehrheit im Plan | Mehrheit im Plan |
-
-## Praxistipps der alten Hasen
-
-Der DES ist die eleganteste Sanierungsstruktur, aber auch die juristisch heikelste. Drei Beobachtungen aus der Praxis:
-
-- **„Werthaltigkeit ist kein Selbstläufer."** Die Differenzhaftung nach Paragraf 9 GmbHG ist die häufigste Stolperfalle für Investoren, die ohne tragfähige Werthaltigkeitsprüfung in den DES gehen. Die Werthaltigkeit muss durch unabhängigen Wirtschaftsprüfer auf den Tag der Einbringung bestätigt sein.
-- **„Paragraf 8c KStG ist der stille Killer."** Der DES schafft einen Anteilseignerwechsel, und Paragraf 8c KStG vernichtet den Verlustvortrag, den die Schuldnerin gerade noch hatte. Ohne Paragraf 8d KStG-Antrag ist die Verlustnutzung weg, und der Sanierungsertrag nach Paragraf 3a Abs. 3 EStG verbraucht dann nichts mehr – Sanierungsertrag also voll besteuert. Diese Wechselwirkung muss vor Plan-Beschluss durchgerechnet werden.
-- **„Vorratsbeschluss und Bezugsrechtsausschluss."** Die operative Umsetzung über Vorratsbeschluss und Bezugsrechtsausschluss erspart eine zweite Gesellschafterversammlung und beschleunigt die Umsetzung erheblich.
-
-## SPA-/Plan-Klausel Mustertexte
-
-**Investment Agreement DES (Auszug):**
-
-> Debt-Equity-Swap: Mit Eintritt der Bedingungen gemäß Ziffer X verpflichtet sich der Investor, seine in Anlage Y bezeichnete Forderung gegen die Gesellschaft in Höhe von [Betrag] (Nennwert) im Wege der Sacheinlage in die Gesellschaft einzubringen. Im Gegenzug erhält der Investor [Anzahl] neue Geschäftsanteile mit einem Nennbetrag von [Betrag] je Anteil. Die Parteien gehen auf Basis des Werthaltigkeitsgutachtens vom [Datum] davon aus, dass der werthaltige Teil der Forderung [Betrag] beträgt. In Höhe der Differenz zum Nennwert entsteht bei der Gesellschaft ein nach den Voraussetzungen des Paragraf 3a EStG steuerfreier Sanierungsertrag.
-
-**Plan-Klausel im Insolvenzplan (Auszug):**
-
-> Plan-Mechanik DES: Die in der Forderungstabelle eingetragene Forderung der Plan-Gläubigerin in Höhe von [Betrag] wird gemäß Paragraf 225a InsO in eine Beteiligung an der Schuldnerin umgewandelt. Die Plan-Gläubigerin erhält [Anzahl] Geschäftsanteile mit einem Nennbetrag von [Betrag]. Die Werthaltigkeit ist im Wertgutachten gemäß Anlage Z dokumentiert; eine Differenzhaftung ist gemäß Paragraf 254 Abs. 4 InsO ausgeschlossen.
-
-**Tax-Indemnity DES:**
-
-> Tax Indemnity DES: Der Investor stellt die Gesellschaft frei von steuerlichen Mehrbelastungen, die daraus entstehen, dass der durch den Debt-Equity-Swap entstehende Ertrag nicht oder nicht in voller Höhe nach Paragraf 3a EStG steuerfrei gestellt wird.
-
-## Typische Fehler in komplexer Transaktion
-
-- Werthaltigkeitsgutachten wird nach Einbringung erstellt; Differenzhaftung greift.
-- Paragraf 8c KStG-Effekt wird übersehen; nach DES sind die Verlustvorträge weg, und der Sanierungsertrag wird voll besteuert.
-- Paragraf 8d KStG-Antrag wird vergessen oder verspätet gestellt.
-- Sanierungsabsicht der Gläubiger fehlt im Einbringungsvertrag; die Finanzverwaltung verweigert Paragraf 3a EStG.
-- Kapitalherabsetzung auf null wird übersprungen; Altgesellschafter behalten Anteile, die gesellschaftsrechtlich nicht mehr werthaltig sind.
-
-## Quellen Stand 06/2026
-
-- Paragraf 3a EStG; Paragraf 3a Abs. 3 EStG; Paragraf 8 Abs. 3 KStG; Paragraf 8c KStG; Paragraf 8d KStG; Paragraf 7b GewStG – prüfbar über gesetze-im-internet.de.
-- Paragraf 55 ff. GmbHG; Paragraf 9 GmbHG; Paragraf 27, 33, 182 ff. AktG – gesetze-im-internet.de.
-- Paragraf 225a InsO; Paragraf 254 Abs. 4 InsO; Paragraf 7 Abs. 4 StaRUG – gesetze-im-internet.de.
-- BMF-Schreiben vom 27.04.2017 – Verifizierung im Bundessteuerblatt Stand 06/2026.
-- BGH zur Werthaltigkeit bei Sacheinlage – ständige Rspr.; Verifizierung über dejure.org und bundesgerichtshof.de.
-- BFH (Großer Senat), Beschluss vom 28.11.2016 – GrS 1/15 – prüfbar über bundesfinanzhof.de.
 
 ---
 

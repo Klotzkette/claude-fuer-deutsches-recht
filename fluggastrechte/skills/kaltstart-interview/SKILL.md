@@ -1,9 +1,9 @@
 ---
 name: kaltstart-interview
-description: "Für /fluggastrechte:fluggastrechte-kaltstart-interview: routet Rolle, Frist, Unterlagen und Fachschritt; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
+description: "Für /fluggastrechte:kaltstart-interview: routet Rolle, Frist, Unterlagen und Fachschritt; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
-# /fluggastrechte:fluggastrechte-kaltstart-interview
+# /fluggastrechte:kaltstart-interview
 
 ## Direktstart: lesen, entscheiden, liefern
 

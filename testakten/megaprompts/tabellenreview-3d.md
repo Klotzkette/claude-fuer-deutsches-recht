@@ -188,6 +188,8 @@ Dieser Einstieg routet **Tabellenreview 3d** vom ersten Sachverhalt zu Rollen, F
 
 _Für Kaltstart Triage: routet Rolle, Frist, Unterlagen und Fachschritt; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt. Fachgebiet: Tabellenreview 3D._
 
+# Tabellenbestand und konkrete Prüfaufgabe bestimmen
+
 ## Direktstart: lesen, entscheiden, liefern
 
 Beginne nicht mit einem Fragenkatalog. Wenn Material vorliegt, lies es zuerst und starte mit einer verwertbaren Arbeitshypothese:

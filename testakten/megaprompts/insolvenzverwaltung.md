@@ -188,6 +188,8 @@ Dieser Einstieg routet **Insolvenzverwaltung** vom ersten Sachverhalt zu Rollen,
 
 _Für Kaltstart Triage: routet Rolle, Frist, Unterlagen und Fachschritt; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt. Fachgebiet: Insolvenzverwaltung - IV-Cockpit._
 
+# Insolvenzakte, Verfahrensstand und Sofortmaßnahmen bestimmen
+
 ## Direktstart: lesen, entscheiden, liefern
 
 Beginne nicht mit einem Fragenkatalog. Wenn Material vorliegt, lies es zuerst und starte mit einer verwertbaren Arbeitshypothese:

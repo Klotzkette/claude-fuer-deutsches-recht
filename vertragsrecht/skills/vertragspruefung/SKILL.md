@@ -128,7 +128,7 @@ Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwiss
 Lies `~/.claude/plugins/config/klotzkette/vertragsrecht/CLAUDE.md`.
 Enthält es `[PLATZHALTER]`:
 
-> Führen Sie zuerst `/vertragsrecht:vertragsrecht-kaltstart-interview` aus — ich
+> Führen Sie zuerst `/vertragsrecht:kaltstart-interview` aus — ich
 > benötige Ihr Playbook, bevor ich dagegen prüfen kann.
 
 Lies auch `## Prüfungseinstellungen` → `routing_bestätigen`. Fehlt das

@@ -2,7 +2,13 @@
 name: distressed-ma
 description: "Für Distressed M&A: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt. Fachgebiet: Corporate-Kanzlei."
 ---
-Nicht dieser Skill ist vorrangig, wenn zuerst die Gesellschaftsakte selbst angelegt, die Mandatsrolle bestimmt oder ein unklarer Upload triagiert werden muss. Dann beginne mit `/corporate-kanzlei:corporate-kanzlei-kommandocenter` oder `/corporate-kanzlei:corporate-kanzlei-matter-file`. Wenn der Nutzer nur eine Kurzfassung für interne Abstimmung will, arbeite bewusst kürzer und liefere keine lange Prüfarchitektur.
+# Unternehmenskäufe in Krise und Insolvenz strukturieren
+
+Lies zuerst den Kaufvertragsentwurf, die Liquiditätsplanung, vorhandene Verfahrensbeschlüsse und die Unterlagen zum Kaufgegenstand. Bestimme daraus Mandatsseite, Verfahrensstand und geplanten Vollzug. Liefere einen ausformulierten Transaktionsvermerk mit belegten Risiken, offenen Vollzugsvoraussetzungen, Verantwortlichen und Terminen; bei beauftragter Vertragsarbeit ergänze konkrete Klauselfassungen statt einer bloßen Vertragsgliederung.
+
+Vorrang für die Bearbeitung: Alle nachfolgenden Mandanten-, Triage- und Versandfragen sind interne Prüfpunkte, kein Fragekatalog. Werte zuerst das vorhandene Material aus; frage nur nach noch fehlenden, entscheidenden Angaben. Bereits Beantwortetes nicht erneut erheben. Erstelle den möglichen Entwurf mit klar markierten Lücken; fehlende entscheidende Angaben nicht durch Annahmen ersetzen.
+
+Nicht dieser Skill ist vorrangig, wenn zuerst die Gesellschaftsakte selbst angelegt, die Mandatsrolle bestimmt oder ein unklarer Upload triagiert werden muss. Dann beginne mit `/corporate-kanzlei:kommandocenter` oder `/corporate-kanzlei:matter-file`. Wenn der Nutzer nur eine Kurzfassung für interne Abstimmung will, arbeite bewusst kürzer und liefere keine lange Prüfarchitektur.
 
 ## Voraussetzungen und Kontext laden
 Lies zuerst, falls vorhanden, den Matter-Workspace unter `~/.config/claude-fuer-deutsches-recht/corporate-kanzlei/mandate/<slug>/`: `mandat.md`, `history.md`, `chronologie.md`, `fristen.yaml` und den aktuellen Dokumentenlog. Wenn kein Workspace existiert, frage nur die Mindestdaten ab: Gesellschaft, Rechtsform, Rolle, Organstatus, Beschluss-/Registerlage, Frist, gewünschter Output und ob börsen-, konzern- oder regulierungsrelevante Bezüge bestehen.
@@ -59,8 +65,8 @@ Nutze nur frei prüfbare Quellen oder vom Nutzer bereitgestellte/lizenzierte Que
 
 ## Hand-Off zu anderen Skills
 Nach diesem Skill weiter mit:
-- `/corporate-kanzlei:corporate-kanzlei-restructuring-starug-insolvenzplan` - wenn StaRUG, Planoptionen oder Insolvenzplanstruktur geprüft werden.
-- `/corporate-kanzlei:corporate-kanzlei-signing-closing-conditions` - wenn CPs, Closing Deliverables oder Signing Pack koordiniert werden.
+- `/corporate-kanzlei:restructuring-starug-insolvenzplan` - wenn StaRUG, Planoptionen oder Insolvenzplanstruktur geprüft werden.
+- `/corporate-kanzlei:signing-closing-conditions` - wenn CPs, Closing Deliverables oder Signing Pack koordiniert werden.
 
 ## Was dieser Arbeitsgang nicht macht
 - Er ersetzt keine Partner-, Organ- oder Mandantenentscheidung über Beschluss, Signing, Registeranmeldung oder Closing.

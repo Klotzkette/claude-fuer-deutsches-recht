@@ -20,11 +20,11 @@ Die Skill lädt, wenn der Nutzer Mandate anlegen, wechseln, auflisten, schließe
 - **Für `neu`:** Mandantendaten aus dem Aufnahmeinterview (siehe Ablauf, Schritt 2)
 
 **Unterbefehle im Überblick:**
-- `/produktrecht:produktrecht-mandat-arbeitsbereich neu <slug>` — neuen Mandat-Workspace anlegen, Kurzinterview durchführen, `mandat.md` schreiben
-- `/produktrecht:produktrecht-mandat-arbeitsbereich liste` — Mandate mit Status und aktivem Mandat auflisten
-- `/produktrecht:produktrecht-mandat-arbeitsbereich wechsel <slug>` — aktives Mandat setzen
-- `/produktrecht:produktrecht-mandat-arbeitsbereich schließen <slug>` — Mandat archivieren (nie löschen)
-- `/produktrecht:produktrecht-mandat-arbeitsbereich keine` — Mandatskontext deaktivieren, nur auf Kanzleiebene arbeiten
+- `/produktrecht:mandat-arbeitsbereich neu <slug>` — neuen Mandat-Workspace anlegen, Kurzinterview durchführen, `mandat.md` schreiben
+- `/produktrecht:mandat-arbeitsbereich liste` — Mandate mit Status und aktivem Mandat auflisten
+- `/produktrecht:mandat-arbeitsbereich wechsel <slug>` — aktives Mandat setzen
+- `/produktrecht:mandat-arbeitsbereich schließen <slug>` — Mandat archivieren (nie löschen)
+- `/produktrecht:mandat-arbeitsbereich keine` — Mandatskontext deaktivieren, nur auf Kanzleiebene arbeiten
 
 ## Rechtlicher Rahmen
 
@@ -49,7 +49,7 @@ Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwiss
 
 `CLAUDE.md` der Kanzlei lesen und `## Mandats-Workspaces` prüfen.
 
-- Wenn `Aktiviert: ✗` → dem Nutzer mitteilen: "Mandats-Workspaces sind deaktiviert — Sie sind als In-house-Praxis mit einem einzigen Mandanten konfiguriert; das Plugin arbeitet automatisch auf Basis des Kanzleikontexts. Wenn Sie tatsächlich mandantenübergreifend tätig sind, führen Sie `/produktrecht:produktrecht-kaltstart-interview --redo` durch und wählen eine externe Kanzlei-Einstellung. Andernfalls benötigen Sie `/mandat-workspace` nicht."
+- Wenn `Aktiviert: ✗` → dem Nutzer mitteilen: "Mandats-Workspaces sind deaktiviert — Sie sind als In-house-Praxis mit einem einzigen Mandanten konfiguriert; das Plugin arbeitet automatisch auf Basis des Kanzleikontexts. Wenn Sie tatsächlich mandantenübergreifend tätig sind, führen Sie `/produktrecht:kaltstart-interview --redo` durch und wählen eine externe Kanzlei-Einstellung. Andernfalls benötigen Sie `/mandat-workspace` nicht."
 - Wenn `Aktiviert: ✓` → weiter mit dem angegebenen Unterbefehl.
 
 ### Schritt 1: Unterbefehl erkennen und ausführen
@@ -75,7 +75,7 @@ Auf das erste Argument (Unterbefehl) reagieren:
 3. `mandate/<slug>/mandat.md` mit der unten beschriebenen Vorlage anlegen.
 4. `mandate/<slug>/verlauf.md` mit einem "Eröffnet"-Eintrag anlegen.
 5. Leere `mandate/<slug>/notizen.md` anlegen.
-6. **Nicht automatisch wechseln.** Fragen: "Möchten Sie jetzt zu `<slug>` wechseln? (`/produktrecht:produktrecht-mandat-arbeitsbereich wechsel <slug>`)"
+6. **Nicht automatisch wechseln.** Fragen: "Möchten Sie jetzt zu `<slug>` wechseln? (`/produktrecht:mandat-arbeitsbereich wechsel <slug>`)"
 
 ### Schritt 3: Liste ausgeben (nur bei `liste`)
 
@@ -88,7 +88,7 @@ Aktives Mandat mit `*` markieren. Archivierte Mandate unter einer separaten Übe
 
 ### Schritt 4: Mandat wechseln (nur bei `wechsel`)
 
-1. Prüfen, ob `mandate/<slug>/mandat.md` existiert. Falls nicht, `/produktrecht:produktrecht-mandat-arbeitsbereich neu <slug>` vorschlagen.
+1. Prüfen, ob `mandate/<slug>/mandat.md` existiert. Falls nicht, `/produktrecht:mandat-arbeitsbereich neu <slug>` vorschlagen.
 2. Die Zeile `Aktives Mandat:` in der Kanzlei-CLAUDE.md auf `Aktives Mandat: <slug>` aktualisieren.
 3. Zusammenfassung aus `mandat.md` anzeigen, damit der Nutzer das richtige Mandat bestätigen kann.
 
@@ -181,11 +181,11 @@ Aufnahme abgeschlossen. Slug: `[slug]`. Status: aktiv.
 **Sachverhalt:** Kanzlei betreut drei Produktrechtsmandate gleichzeitig: Hersteller A (Maschinenlauf-Review), Hersteller B (Health-Claims-Prüfung Nahrungsergänzung), Unternehmen C (dauerhafter Produktrechtsberater).
 
 ```
-/produktrecht:produktrecht-mandat-arbeitsbereich neu hersteller-a-maschinen-2026
-/produktrecht:produktrecht-mandat-arbeitsbereich neu hersteller-b-health-claims
-/produktrecht:produktrecht-mandat-arbeitsbereich neu unternehmen-c-dauerberatung
-/produktrecht:produktrecht-mandat-arbeitsbereich liste
-/produktrecht:produktrecht-mandat-arbeitsbereich wechsel hersteller-a-maschinen-2026
+/produktrecht:mandat-arbeitsbereich neu hersteller-a-maschinen-2026
+/produktrecht:mandat-arbeitsbereich neu hersteller-b-health-claims
+/produktrecht:mandat-arbeitsbereich neu unternehmen-c-dauerberatung
+/produktrecht:mandat-arbeitsbereich liste
+/produktrecht:mandat-arbeitsbereich wechsel hersteller-a-maschinen-2026
 ```
 
 Nach dem Wechsel zu `hersteller-a-maschinen-2026` liest jede Skill ausschließlich die `mandat.md` dieses Mandats und schreibt Ausgaben in den zugehörigen Ordner. Kontextüberlauf auf `hersteller-b-health-claims` ist ausgeschlossen.

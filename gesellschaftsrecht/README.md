@@ -90,7 +90,7 @@ Abläufe für gesellschaftsrechtliche Mandate in deutschen Kanzleien und Rechtsa
 ## Erster Start
 
 ```
-/gesellschaftsrecht:gesellschaftsrecht-kaltstart-interview
+/gesellschaftsrecht:kaltstart-interview
 ```
 
 Führt durch die Modulauswahl und ein kurzes Zielinterview je aktivem Bereich. Schreibt ein modulares Praxisprofil nach:
@@ -101,14 +101,14 @@ Deine Konfiguration bleibt dort und übersteht Plugin-Updates.
 Dealspezifisches Setup (nur M&A-Modul):
 
 ```
-/gesellschaftsrecht:gesellschaftsrecht-kaltstart-interview --neues-mandat
+/gesellschaftsrecht:kaltstart-interview --neues-mandat
 ```
 
 ## Befehle
 
 | Befehl | Funktion |
 |---|---|
-| `/gesellschaftsrecht:gesellschaftsrecht-kaltstart-interview` | Modulares Kaltstart oder `--neues-mandat` / `--modul [m&a \| organe \| boerse \| compliance]` |
+| `/gesellschaftsrecht:kaltstart-interview` | Modulares Kaltstart oder `--neues-mandat` / `--modul [m&a \| organe \| boerse \| compliance]` |
 | `/gesellschaftsrecht:dd-findings-extraktion [ordner]` | Datenraum-Dokumente lesen, Issues im Hauskatalog extrahieren |
 | `/gesellschaftsrecht:tabellenpruefung` | Tabellarisches Review – eine Zeile pro Dokument, eine Spalte pro Datenpunkt, jede Zelle mit Fundstelle, Excel-Ausgabe |
 | `/gesellschaftsrecht:wesentliche-vertraege-anlage` | Wesentliche-Verträge-Anlage (Disclosure Schedule) aus DD-Findings |

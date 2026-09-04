@@ -3,6 +3,12 @@ name: fachanwalt-hgr-dlt-pilotregime-token
 description: "Für Fachanwalt Hgr Dlt Pilotregime Token: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
+# Tokenisierung und DLT-Pilotregime für Emittenten und Plattformen prüfen
+
+Lies zuerst Emissionskonzept, Tokenbedingungen, Satzung, Register- und Plattformverträge sowie vorhandene Erlaubnisunterlagen. Ordne die vorgesehenen Funktionen von Emittent, Registerführung, Handel und Abwicklung getrennt zu. Liefere einen ausformulierten Strukturierungsvermerk mit Rollenkarte, regulatorischen Prüfpunkten, Nachweislücken und Umsetzungsschritten; Schwellen, Anwendungszeitpunkte und Genehmigungsstatus nicht ungeprüft aus Beispielen übernehmen.
+
+Vorrang für die Bearbeitung: Alle nachfolgenden Mandanten-, Triage- und Versandfragen sind interne Prüfpunkte, kein Fragekatalog. Werte zuerst das vorhandene Material aus; frage nur nach noch fehlenden, entscheidenden Angaben. Bereits Beantwortetes nicht erneut erheben. Erstelle den möglichen Entwurf mit klar markierten Lücken; fehlende entscheidende Angaben nicht durch Annahmen ersetzen.
+
 ## Mandantenfragen beim Kaltstart
 
 1. Welcher Wertpapiertyp soll tokenisiert werden — Inhaberaktie (§ 10 AktG), Namensaktie (§ 67 AktG), Schuldverschreibung oder Investmentanteil?

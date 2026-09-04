@@ -184,6 +184,8 @@ Dieser Einstieg routet **Berufsrecht Ki Vertragspruefung** vom ersten Sachverhal
 
 _Für Kaltstart Triage: routet Rolle, Frist, Unterlagen und Fachschritt; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt. Fachgebiet: anwaltlichem Berufsrecht und Vertragsprüfung._
 
+# Anbietervertrag und berufsrechtliche Einsatzgrenzen einordnen
+
 ## Direktstart: lesen, entscheiden, liefern
 
 Beginne nicht mit einem Fragenkatalog. Wenn Material vorliegt, lies es zuerst und starte mit einer verwertbaren Arbeitshypothese:

@@ -30,7 +30,7 @@ Typische Auslöser:
 - "Mach daraus eine kurze Mandantenunterlage mit Risiken, offenen Punkten und To-dos."
 - "Welche Dokumente, Registerauszüge, Freigaben oder Fristen fehlen noch?"
 
-Nicht dieser Skill ist vorrangig, wenn zuerst das Mandat selbst angelegt, die Deal-Phase bestimmt oder ein unklarer Upload triagiert werden muss. Dann beginne mit `/mittelstand-corporate-ma:mittelstand-corporate-ma-kommandocenter` oder `/mittelstand-corporate-ma:mittelstand-corporate-ma-matter-file`. Wenn der Nutzer nur eine kurze Unternehmer-E-Mail will, arbeite bewusst kürzer und liefere keine lange Prüfarchitektur.
+Nicht dieser Skill ist vorrangig, wenn zuerst das Mandat selbst angelegt, die Deal-Phase bestimmt oder ein unklarer Upload triagiert werden muss. Dann beginne mit `/mittelstand-corporate-ma:mittelstand-corporate-ma-kommandocenter` oder `/mittelstand-corporate-ma:matter-file`. Wenn der Nutzer nur eine kurze Unternehmer-E-Mail will, arbeite bewusst kürzer und liefere keine lange Prüfarchitektur.
 
 ## Voraussetzungen und Kontext laden
 Lies zuerst, falls vorhanden, den Matter-Workspace unter `~/.config/claude-fuer-deutsches-recht/mittelstand-corporate-ma/mandate/<slug>/`: `mandat.md`, `history.md`, `chronologie.md`, `fristen.yaml` und den aktuellen Dokumentenlog. Wenn kein Workspace existiert, frage nur die Mindestdaten ab: Rolle, Deal-Typ, Zielgesellschaft, Käufer/Verkäufer, Steuerberater/Notar, Signing-/Closing-Zeitplan, Budgetrahmen und gewünschtes Output-Format.
@@ -95,10 +95,10 @@ Nutze nur frei prüfbare Quellen oder vom Nutzer bereitgestellte/lizenzierte Que
 
 ## Hand-Off zu anderen Skills
 Nach diesem Skill weiter mit:
-- `/mittelstand-corporate-ma:mittelstand-corporate-ma-regulatory-fdi-merger-control` - wenn Fusionskontrolle, AWV/FDI oder Vollzugsverbot die Deal-Timeline steuern.
-- `/mittelstand-corporate-ma:mittelstand-corporate-ma-conflict-gwg-sanctions` - wenn Mandatsannahme, GwG, Sanktionen oder Interessenkonflikte ungeklärt sind.
+- `/mittelstand-corporate-ma:regulatory-fdi-merger-control` - wenn Fusionskontrolle, AWV/FDI oder Vollzugsverbot die Deal-Timeline steuern.
+- `/mittelstand-corporate-ma:conflict-gwg-sanctions` - wenn Mandatsannahme, GwG, Sanktionen oder Interessenkonflikte ungeklärt sind.
 - `/mittelstand-corporate-ma:mittelstand-corporate-ma-rechtsprechungsrecherche` - als fachlicher Anschluss-Skill.
-- `/mittelstand-corporate-ma:mittelstand-corporate-ma-steps-plan-pmo` - wenn Termine, CPs, Freigaben und Owner in einen belastbaren Transaktionsplan müssen.
+- `/mittelstand-corporate-ma:steps-plan-pmo` - wenn Termine, CPs, Freigaben und Owner in einen belastbaren Transaktionsplan müssen.
 
 ## Was dieser Arbeitsgang nicht macht
 - Er ersetzt keine Partnerentscheidung über Deal-Taktik, Signing-Freigabe oder Closing-Freigabe.

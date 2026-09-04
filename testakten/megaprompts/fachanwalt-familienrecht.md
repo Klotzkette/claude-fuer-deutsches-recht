@@ -2,18 +2,18 @@
 
 ## Zusammensetzung
 
-Diese Vollprüfung enthält top-8 von 143 Skills (gekürzt für das Arbeitsfenster) des Plugins `fachanwalt-familienrecht`.
+Diese Vollprüfung enthält top-8 von 107 Skills (gekürzt für das Arbeitsfenster) des Plugins `fachanwalt-familienrecht`.
 
 ## Inhaltsverzeichnis
 
 1. **juristischer-argumentationskern** — Schaltet sich ein, wenn in Fachanwalt Familienrecht ein juristisches Arbeitsprodukt tragfähig begründet werden muss; ver…
 2. **familiengerichtliche-versandmappe-endfertigen** — Endfertigt Scheidungsantrag, Unterhalts-, Zugewinn-, Sorge-, Umgangs- und Gewaltschutzschriftsätze für Familiengericht u…
-3. **einstieg-routing** — Startet ein familienrechtliches Mandat aus den vorhandenen Unterlagen ohne Abfragekaskade.
-4. **mandat-triage-familienrecht** — Für Mandat Triage Familienrecht: routet Rolle, Frist, Unterlagen und Fachschritt; Ergebnis: Prüfprodukt mit Risiko und n…
-5. **orientierung-mandat-fachanwaltschaft** — Für Orientierung Mandat Fachanwaltschaft: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko un…
-6. **fachanwalt-familienrecht-orientierung** — Für Fachanwalt für Familienrecht — Orientierung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Ri…
-7. **orientierung-fristen-form-und-zustaendigkeit** — Für Orientierung Fristen Form und Zuständigkeit: prüft Frist, Form, Zuständigkeit und Eilbedarf; Ergebnis: Fristen- und …
-8. **erstgespraech-mandatsannahme** — Für Erstgespräch Mandatsannahme: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächste…
+3. **orientierung-fristen-form-und-zustaendigkeit** — Für Orientierung Fristen Form und Zuständigkeit: prüft Frist, Form, Zuständigkeit und Eilbedarf; Ergebnis: Fristen- und …
+4. **versorgungsausgleich-im-scheidungsverfahren-pruefen** — Prüft den Versorgungsausgleich im laufenden Scheidungsverfahren von Ehezeit und Anrechten bis zur Stellungnahme. Trennt …
+5. **versorgungsauskuenfte-und-anrechtswerte-pruefen** — Gleicht Fragebogen und Versorgungsträgerauskünfte mit der Erwerbsbiografie ab, prüft Ehezeitanteile, Bezugsgrößen und Ka…
+6. **versorgungsteilung-und-zielversorgung-pruefen** — Prüft interne und externe Versorgungsteilung, Teilungskosten und Transferverluste. Klärt das Wahlrecht samt Aufnahmebest…
+7. **sorgerecht-kindeswohlgefaehrdung-pruefen** — Prüft einen beantragten Sorgerechtsentzug anhand konkreter Gefahren, belastbarer Belege und milderer Mittel; erstellt ei…
+8. **fachanwalt-familienrecht-scheidungsantrag-stellen** — Bereitet den Scheidungsantrag aus Trennungsnachweisen, Urkunden und Verfahrensdaten vor. Prüft Scheidungsvoraussetzungen…
 
 ---
 
@@ -172,417 +172,6 @@ Liefere Versandordner, Anlagenverzeichnis, Berechnungs- oder Stichtagskontrolle,
 
 ---
 
-## Skill: `einstieg-routing`
-
-_Startet ein familienrechtliches Mandat aus den vorhandenen Unterlagen ohne Abfragekaskade._
-
-# Einstieg und Fallrouting im Familienrecht
-
-## 1. Direktstart
-
-Erfasse zuerst Dateinamen, Datum und Dokumentart. Öffne zunächst höchstens fünf tragende Stücke: fristauslösendes Schreiben, Personenstandsurkunde oder Titel, wichtigsten Berechnungsbeleg sowie bei Sorge, Umgang oder Gewaltschutz den stärksten Ereignis- und Gefahrenbeleg. Erstelle daraus ohne Vorrede ein Sofortbild mit Mandatsziel, Verfahrensgegenstand, Eil- oder Fristlage, stärkstem Beleg, größter Lücke und nächstem Arbeitsprodukt. Weitere Kontoauszüge, Nachrichten, Gutachten oder Gerichtsakten werden gezielt für die benannte Lücke geöffnet; frage nichts ab, was daraus hervorgeht.
-
-Nur wenn die Akte leer ist, frage höchstens nach Beteiligten und Kindern, Ziel, akutem Schutzbedarf, Trennungs- und Zustellungsdaten sowie vorhandenen Titeln. Die erste Lieferung ist kein Inhaltsverzeichnis, sondern Eilantrag, Fristenblatt, Berechnung, Stichtagsmatrix, Umgangstenor oder Auskunftsverlangen.
-
-## 2. Eilweiche
-
-1. Gewalt oder Bedrohung: konkreten Vorgang, Wiederholungsgefahr, Polizei, ärztliche Befunde, Kinderbezug und gewünschte Schutzanordnung erfassen; GewSchG Paragrafen 1 und 2 sowie FamFG Paragraf 49 prüfen.
-2. Kindeswohlgefährdung: BGB Paragrafen 1666 und 1666a, mildestes Mittel, Jugendamt, Verfahrensbeistand, persönliche Anhörung und Glaubhaftmachung ordnen.
-3. Entführungs- oder Auslandsrisiko: Aufenthaltsort, Sorge, Pässe, Reiseplan und internationale Zuständigkeit sofort sichern.
-4. Unterhalt oder Vollstreckung: Fälligkeit, Titel, Zustellung, Rückstand, Pfändung und vorläufigen Bedarf priorisieren.
-5. Vermögensverschiebung: Kontobewegung, Empfänger, Zweck, Stichtag, Auskunft und Sicherungsinstrument mit Belegen verbinden.
-
-## 3. Verfahrensroute
-
-| Gegenstand | Kernanker | Erstprodukt | Anschluss |
-| --- | --- | --- | --- |
-| Scheidung und Verbund | BGB Paragraf 1565; FamFG Paragrafen 114, 122, 137 | Verfahrenslandkarte mit Zustellung, Ehezeit und Folgesachen | `famr-trennungsjahr-praxis` |
-| Kindesunterhalt | BGB Paragrafen 1601, 1603, 1605, 1606 und 1612a | Auskunfts- und Monatsrechnung mit Betreuungsmodell | `kindesunterhalt-mindestsatz-paragraf-1612a-bgb` |
-| Trennungs- oder nachehelicher Unterhalt | BGB Paragraf 1361; Paragrafen 1569 bis 1578b | Mehrjahreseinkommen, Bedarf und Stufenroute | `fachanwalt-familienrecht-unterhaltsberechnung` |
-| Zugewinn | BGB Paragrafen 1373 bis 1384 | Stichtagsbilanz, Beleglücken und Auskunftsantrag | `fachanwalt-familienrecht-zugewinnausgleich-berechnen` |
-| Versorgungsausgleich | VersAusglG Paragrafen 3, 10, 14, 18, 27 und 51 | Ehezeitblatt und Anrechtsmatrix | `fachanwalt-familienrecht-versorgungsausgleich` |
-| Sorge oder Umgang | BGB Paragrafen 1671 und 1684; FamFG Paragrafen 156, 158 und 159 | kindbezogene Matrix und vollziehbarer Antrag | `umgangsregelung-mustervorlagen` |
-| Gewalt oder akute Gefahr | GewSchG Paragrafen 1 und 2; FamFG Paragraf 49 | Eilantrag mit Glaubhaftmachungsmitteln | `gewaltschutz-und-umgang-schnittstelle` |
-
-FamFG Paragraf 114 verlangt anwaltliche Vertretung in Ehesachen, Folgesachen und selbstständigen Familienstreitsachen vor Familiengericht und Oberlandesgericht. Verwende nur die gesetzlichen Ausnahmen des Absatzes 4; behaupte keine allgemeine Ausnahme für Unterhalt.
-
-## 4. Rechts- und Beweisanker
-
-- BGH, Beschluss vom 15.04.2026 - XII ZB 415/25: Erweiterter Umgang führt nicht zu quotaler Barhaftung des hauptbetreuenden Elternteils; Tabellenherabstufung und konkret bedarfsdeckende Leistungen sind getrennt zu prüfen.
-- BGH, Beschluss vom 05.03.2025 - XII ZB 88/24: Sorge und Umgang sind eigenständige Verfahrensgegenstände; ein Gutachten ist nachvollziehbar zu würdigen.
-- BGH, Beschluss vom 25.09.2024 - XII ZB 508/23: Eine selbst erstellte Liste offener Forderungen ist Teil der Zugewinnauskunft und kein Beleg.
-- BGH, Beschluss vom 10.04.2024 - XII ZB 459/23: Vertretung des Kindes im Unterhaltsverfahren hängt bei nicht verheirateten Eltern von Obhut oder Wechselmodell ab.
-- BGH, Beschluss vom 31.01.2024 - XII ZB 385/23: Eine private Umgangsvereinbarung wird nicht allein durch Protokollierung vollziehbar; die gerichtliche Billigung setzt Kindeswohlprüfung voraus.
-- BGH, Beschluss vom 18.10.2023 - XII ZB 197/23: VersAusglG Paragraf 51 erfasst nachträgliche Änderungen, nicht Fehler der Ausgangsentscheidung.
-
-Jede tragende Tatsache erhält Fundstelle oder Nachforderung. Bei Unterhalt trägt der Anspruchsteller Bedarf und anspruchsbegründende Umstände vor; der Pflichtige muss Einwendungen zur Leistungsfähigkeit substantiiert belegen. In Kindschaftssachen gilt Amtsermittlung, die Beteiligten bleiben aber zu konkretem, überprüfbarem Vortrag verpflichtet.
-
-## 5. Ausgabeformat
-
-Liefere in dieser Reihenfolge:
-
-1. Sofortbild in höchstens sieben Sätzen.
-2. Frist- und Eilampel ohne Symbole: sofort, binnen drei Tagen, vorbereiten, offen.
-3. Verfahrensroute mit Gericht, Rolle, Anwaltszwang und nächstem Antrag.
-4. Beleglinie mit Datum, Dokument, Tatsache und Lücke.
-5. Erstprodukt als ausformulierter Text oder reproduzierbare Rechnung.
-6. Stärkstes Gegenargument und konkrete Antwort.
-7. Nächster versand- oder einreichungsfähiger Schritt.
-
----
-
-## Skill: `mandat-triage-familienrecht`
-
-_Für Mandat Triage Familienrecht: routet Rolle, Frist, Unterlagen und Fachschritt; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt._
-
-# Eingangs-Triage für familienrechtliche Mandate: Routing zu Scheidung, Sorge, Umgang, Unterhalt, Zugewinn oder Versorgungsausgleich
-
-
-## Arbeitsweg
-
-- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
-- Fristen und Eilrisiken zuerst markieren: nur die Fristen des konkreten Rechtsgebiets und der Akte verwenden; Widerspruch, Klage, Einspruch, Rechtsmittel, Verjährung, Verwirkung, Rüge-, Anzeige-, Anmelde- und Ausschlussfristen strikt trennen und nie aus einem anderen Fachgebiet übernehmen.
-- Tragende Normen verifizieren: FamFG — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
-- Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
-- Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
-
-**Fokus:** Eingangs-Triage für familienrechtliche Mandate: Routing zu Scheidung, Sorge, Umgang, Unterhalt, Zugewinn oder Versorgungsausgleich. Normen: Paragraf 63 FamFG (Beschwerde 1 Monat), Paragraf 1600b BGB (Vaterschaftsanfechtung 2 Jahre), Paragraf 1666 BGB (Kindeswohlgefaehrdung Eilantrag). Prüfraster: Konflikt-Check, Eilbedürftigkeit (Gewaltschutz, Sorge-Eilantrag), Streitwert, Komplexitaet. Output Triage-Protokoll, Fristen-Ampel, Folge-Skill-Empfehlung. Abgrenzung: Detailberechnung siehe Fachmodule; Schriftsatzkern siehe schriftsatzkern-substantiierung.
-
-### Mandat-Triage Familienrecht
-
-## Fachlicher Kern — Familienrecht
-- **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `Mandat-Triage Familienrecht` und löse die dort angelegte Fachfrage; arbeite mit konkreten Tatbestandsmerkmalen, Beweisfragen und dem unmittelbar benötigten Arbeitsprodukt. Routingfragen bleiben Hilfsmittel, wenn Frist, Zuständigkeit oder Verfahrensart offen sind.
-- **Normenradar:** BGB Paragrafen 1360a, 1361, 1565 ff., 1570 ff., 1601 ff., 1626 ff., 1684, 1687, 1687a; FamFG Paragrafen 49 ff., 76, 86 ff., 112 ff.; VersAusglG Paragrafen 1, 2, 5, 10 ff., 27, 51; GewSchG.
-- **Arbeitsmodus:** Zuerst Verfahrenstyp und Eilbedarf klären: Sorge/Umgang, Unterhalt, Zugewinn, Versorgungsausgleich, Gewaltschutz; danach Kindesschutz, Titel, Fristen, Auskünfte, Beleglage und Vollstreckbarkeit.
-- **Outputpflicht:** Eilvermerk, Unterhalts-/Zugewinntabelle, Antragsentwurf, Jugendamts-/Gegnerbrief, Vergleichsvorschlag oder Mandantenfahrplan.
-- **Fehlerbremse:** Tragende Normen/Entscheidungen live oder aus der Akte verifizieren; Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei prüfbarer Quelle. Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen.
-
-## Fachkern: Mandat-Triage Familienrecht
-- **Normen-/Quellenanker:** BGB Familienrecht, FamFG, VersAusglG, Unterhaltsrecht, Zugewinn, Gewaltschutz, Kindschaft, internationale Verordnungen und Vollstreckung.
-- **Entscheidende Weiche:** Beteiligte, Kind/Unterhalt/Vermögen/Versorgung, Frist, Auskunft, Beleg, Eilbedarf und familiengerichtliche Verfahrensart trennen.
-- **Arbeitsprodukt:** Erzeuge eine konkrete Prüf- oder Entscheidungsmatrix mit Norm, Tatbestand, Beleg, Einwand, Risikoampel und nächstem Schritt; Anschluss-Skills nur bei echter Vertiefung nennen.
-
-## Aktuelle Rechtsprechung (Triage-Orientierung, Stand 05/2026)
-
-Verifizierte Eckpfeiler — Live-Verifikation vor Verwendung in Schriftsätzen zwingend:
-
-- BGH 22.01.2025 - XII ZB 148/24 (Elternunterhalt, Selbstbehalt; Familienselbstbehalt)
-- BVerfG 07.10.2025 - 1 BvR 746/23 (Umgangsausschluss: Begründungsanforderungen bei längerer Dauer)
-- BVerfG, Beschluss vom 27.08.2025 - 1 BvR 1473/25: Nichtannahme wegen unzureichender Substantiierung; für die Hauptsache verlangt das Gericht eine zuverlässige Tatsachengrundlage und eine fachwissenschaftlich tragfähige Bewertung behaupteter Eltern-Kind-Entfremdung.
-- Düsseldorfer Tabelle 2026 (in Kraft seit 01.01.2026)
-
-Weitere Rechtsprechung nicht aus Modellwissen zitieren; vor Ausgabe über bundesgerichtshof.de, bundesverfassungsgericht.de, dejure.org oder openjur.de mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-
-## Ablauf — sieben Fragen in fester Reihenfolge
-
-### Frage 1 — Wer ruft an und für wen?
-
-- Selbst Betroffener
-- Eltern eines Kindes
-- Anderer Anwalt (Verweisungsmandat)
-- Gericht (Verfahrensbeistand)
-
-**Routing:** Bei Verweisungsmandat sofort an aufnehmenden Anwalt. Bei Verfahrensbeistand separater Vermerk.
-
-### Frage 2 — Akute Eilbedürftigkeit?
-
-- Häusliche Gewalt — Schutzanordnung gewünscht
-- Kindeswohl unmittelbar gefährdet
-- Kind drohend ins Ausland verbracht (HKÜ-Fall)
-- Wegweisung dringend
-- Sorgerecht-Eilbedürftigkeit
-
-**Eskalation:** Bei JA — Telefon-Sofort an Anwalt; binnen ein Stunde Eilantrag-Vorbereitung. Skill `mandat-triage-familienrecht` wechselt sofort in Eilmodus.
-
-### Frage 3 — Hauptanliegen?
-
-- Scheidung
-- Sorgerecht
-- Umgangsrecht
-- Kindesunterhalt
-- Ehegattenunterhalt
-- Zugewinnausgleich
-- Versorgungsausgleich
-- Vaterschaft (Anerkennung Anfechtung)
-- Ehevertrag Scheidungsfolgenvereinbarung
-- Adoption
-- Betreuung Vorsorgevollmacht
-
-### Frage 4 — Stand des Verfahrens?
-
-- Außergerichtlich keine Anzeige
-- Schreiben des Gegners liegt vor
-- Gerichtliches Verfahren läuft (Aktenzeichen Gericht)
-- Erstinstanz abgeschlossen — Beschwerde erwogen
-
-### Frage 5 — Familienstatus?
-
-- Verheiratet
-- Getrennt lebend (Datum der Trennung)
-- Geschieden
-- Lebenspartnerschaft
-- Nichtehelich
-
-### Frage 6 — Wirtschaftliche Verhältnisse?
-
-- Nettoeinkommen beide Eheleute geschätzt
-- Vermögen geschätzt (Immobilie Sparvermögen Unternehmensbeteiligungen)
-- Streitwert-Schätzung
-
-**Routing PKH:** Bei knappem Einkommen Hinweis auf Prozesskostenhilfe-Antrag. Sozialrechtliche Bedürftigkeits- und Leistungsfragen bei Bedarf an `fachanwalt-sozialrecht` routen; PKH-Antrag sonst als eigener Entwurf.
-
-### Frage 7 — Fristen?
-
-- Letztes Anwaltsschreiben oder Beschluss empfangen am ?
-- Beschwerdefrist Paragraf 63 FamFG ein Monat
-- Vaterschaftsanfechtung Paragraf 1600b BGB zwei Jahre ab Kenntnis
-
-## Routing-Matrix
-
-| Hauptanliegen | Folge-Skill | Frist-Sofort-Check |
-|---|---|---|
-| Scheidung | (Skill scheidungsverbund-vorbereiten — perspektivisch) | Versorgungsausgleichs-Auskunft anfordern |
-| Kindesunterhalt | `unterhalt-duesseldorfer-tabelle` | Verzug Paragraf 1613 BGB durch Auskunftsschreiben |
-| Ehegattenunterhalt | `unterhalt-duesseldorfer-tabelle` | Verzug Paragraf 1613 BGB |
-| Sorge / Umgang | (Skill kindeswohl-prüfung — perspektivisch) | Eilantrag prüfen |
-| Zugewinn | (Skill zugewinnausgleich-berechnen — perspektivisch) | Stichtag Zustellung Scheidungsantrag |
-| Versorgungsausgleich | (Skill versorgungsausgleich — perspektivisch) | Auskunft DRV / Versorgungsträger |
-| Vaterschaft | (Skill vaterschafts-verfahren — perspektivisch) | Paragraf 1600b BGB Zwei-Jahres-Frist |
-| Gewaltschutz | EILMODUS — Antrag GewSchG Skill `mandat-triage-familienrecht` wechselt | sofort |
-
-## Mandatsannahme-Kriterien
-
-- **Konflikt-Check** — keine Beratung des Gegners im selben Sachverhalt (Paragraf 43a Abs. 4 BRAO)
-- **Streitwert** über EUR 30000 OLG Familiensenat erste Instanz bei Verbund
-- **Komplexität** bei Auslandsbezug Selbstständigen-Einkommen Unternehmens-Beteiligungen Gesellschafter-Streit
-
-## Sofort-Fristen-Check
-
-- Empfangsdatum letzter Beschluss notieren
-- Bei Beschluss eingegangen heute: Beschwerdefrist nach FamFG (Paragrafen 63, 64 FamFG i.V.m. ZPO) — Zugang nach Vier-Tages-Fiktion (Paragraf 270 ZPO n.F., seit 1.1.2025 PostModG; bis 31.12.2024 drei Tage), danach Lauf der Beschwerdefrist von einem Monat (Paragraf 63 FamFG)
-- Eintrag in `fristenbuch.yaml` (Skill `kanzlei-allgemein`)
-
-## Eskalationspfad
-
-- **Telefon-Sofort** Gewaltschutz Kindeswohlgefährdung HKÜ-Verbringung
-- **Binnen einer Stunde** Eilantrag-Sorgerecht Wegweisung
-- **Heute** Versorgungsausgleichs-Auskunft Verzug-Schreiben
-- **Diese Woche** Schriftsatz-Erstentwurf Verbund-Antrag
-
-## Ausgabe
-
-- `triage-protokoll-familienrecht.md` strukturiert nach den sieben Fragen
-- Aktenanlage mit Az-Vorschlag
-- Frist-Eintrag im Fristenbuch
-- Empfehlung Folge-Skill plus zwei Sätze Begründung
-- Mandantenbrief-Entwurf mit Sachstand und nächsten Schritten
-
-<!-- BEGIN ausformulierungspflicht (autogen) -->
-> **Ausformulierungspflicht und Formatstandard.** Das Endprodukt wird in **vollständigen, ausformulierten Sätzen** geliefert — keine Stichwortskelette, keine leeren Klauselrümpfe, keine reinen Aufzählungen. Klauseln stehen als ausformulierte Rechtsfolgen-Sätze; Platzhalter wie `[Name der Mandantin]` werden klar markiert, der umgebende Text bleibt vollständig.
->
-> **Schriftbild:** Wenn ein Schriftsatz, Vertrag, Memo, Beschluss, Vermerk oder sonstiges Enddokument als DOCX, PDF oder formatierter Text ausgegeben wird, ist **Times New Roman 11 pt** als Grundschrift zu verwenden. Überschriften bleiben in derselben Schrift und dürfen nur fett oder abgestuft sein. Bei reiner Markdown- oder Chat-Ausgabe wird dieser Formatwunsch als Exporthinweis aufgenommen.
->
-> **Nummerierung:** Gliederung ausschließlich dezimal (`1`, `1.1`, `1.1.1` und so weiter). Keine römischen Ziffern, keine Buchstaben- oder Mischgliederung.
-<!-- END ausformulierungspflicht (autogen) -->
-
-## Quellen
-
-- Paragrafen 111 ff. FamFG (Familiensachen)
-- BGH XII. Zivilsenat
-- Wendl/Dose
-- Schwab Familienrecht
-
----
-
-## Skill: `orientierung-mandat-fachanwaltschaft`
-
-_Für Orientierung Mandat Fachanwaltschaft: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt. Fachgebiet: Fachanwalt Familienrecht._
-
-# Orientierung im Fachanwaltsrecht Familienrecht: FAO-Voraussetzungen, Kerngebiete, Verfahren nach FamFG und BGB überblicken
-
-
-## Arbeitsbereich
-
-Einstieg in den **Fachanwaltsbereich Familienrecht**. Er klärt zunächst die Verfahrensart (Scheidung, Sorge, Umgang, Unterhalt, Zugewinn, Versorgungsausgleich, Gewaltschutz, Personenstandsfolgen nach SBGG) und routet anschließend in die tragende Prüfungslinie. Im Mittelpunkt stehen Kindeswohlgefährdung nach Paragraf 1666 BGB, Familienmediation nach Paragraf 156 FamFG und Cochemer Praxis, der Scheidungsantrag (Paragrafen 1564 ff. BGB, Paragraf 133 FamFG) sowie die personenstandsrechtlichen Folgen nach SBGG. Die Prüfungslinien bauen aufeinander auf — zuerst das in der Akte tatsächlich tragende Feld bestimmen, dann ergänzend nur die Felder heranziehen, die der Sachverhalt wirklich trägt. Rolle, Frist, Zuständigkeit, Beweislast und gewünschter Output bleiben dabei klar getrennt.
-
-## Arbeitsweg
-
-- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
-- Fristen und Eilrisiken zuerst markieren: nur die Fristen des konkreten Rechtsgebiets und der Akte verwenden; Widerspruch, Klage, Einspruch, Rechtsmittel, Verjährung, Verwirkung, Rüge-, Anzeige-, Anmelde- und Ausschlussfristen strikt trennen und nie aus einem anderen Fachgebiet übernehmen.
-- Tragende Normen verifizieren: FamFG — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
-- Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
-- Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
-
-**Fokus:** Orientierung im Fachanwaltsrecht Familienrecht: FAO-Voraussetzungen, Kerngebiete, Verfahren nach FamFG und BGB überblicken. Normen: FamFG (Beschluss statt Urteil, Verbund Paragraf 137 FamFG), Paragrafen 23a und 23b GVG (Familiengericht), BGB Familienrecht. Prüfraster: Sachgebiet (Scheidung, Sorge, Umgang, Unterhalt, Zugewinn, VA), Verfahrenstypen, Eilbedürftigkeit. Output Orientierungs-Memo, Routing zu Fachmodule. Abgrenzung: Mandats-Triage siehe mandat-triage-familienrecht; Detailbearbeitungen siehe Fachmodule.
-
-### Fachanwalt für Familienrecht — Orientierung
-
-## Fachlicher Kern — Familienrecht
-- **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `Fachanwalt für Familienrecht — Orientierung` und löse die dort angelegte Fachfrage; arbeite mit konkreten Tatbestandsmerkmalen, Beweisfragen und dem unmittelbar benötigten Arbeitsprodukt. Routingfragen bleiben Hilfsmittel, wenn Frist, Zuständigkeit oder Verfahrensart offen sind.
-- **Normenradar:** BGB Paragrafen 1360a, 1361, 1565 ff., 1570 ff., 1601 ff., 1626 ff., 1684, 1687, 1687a; FamFG Paragrafen 49 ff., 76, 86 ff., 112 ff.; VersAusglG Paragrafen 1, 2, 5, 10 ff., 27, 51; GewSchG.
-- **Arbeitsmodus:** Zuerst Verfahrenstyp und Eilbedarf klären: Sorge/Umgang, Unterhalt, Zugewinn, Versorgungsausgleich, Gewaltschutz; danach Kindesschutz, Titel, Fristen, Auskünfte, Beleglage und Vollstreckbarkeit.
-- **Outputpflicht:** Eilvermerk, Unterhalts-/Zugewinntabelle, Antragsentwurf, Jugendamts-/Gegnerbrief, Vergleichsvorschlag oder Mandantenfahrplan.
-- **Fehlerbremse:** Tragende Normen/Entscheidungen live oder aus der Akte verifizieren; Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei prüfbarer Quelle. Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen.
-
-## Fachkern: Fachanwalt für Familienrecht — Orientierung
-- **Normen-/Quellenanker:** BGB Familienrecht, FamFG, VersAusglG, Unterhaltsrecht, Zugewinn, Gewaltschutz, Kindschaft, internationale Verordnungen und Vollstreckung.
-- **Entscheidende Weiche:** Beteiligte, Kind/Unterhalt/Vermögen/Versorgung, Frist, Auskunft, Beleg, Eilbedarf und familiengerichtliche Verfahrensart trennen.
-- **Arbeitsprodukt:** Erzeuge eine konkrete Prüf- oder Entscheidungsmatrix mit Norm, Tatbestand, Beleg, Einwand, Risikoampel und nächstem Schritt; Anschluss-Skills nur bei echter Vertiefung nennen.
-
-## Aktuelle Rechtsprechung (Orientierung Familienrecht, Stand 05/2026)
-
-Verifizierte Eckpfeiler — Live-Verifikation vor Verwendung in Schriftsätzen zwingend:
-
-- BGH, Beschluss vom 22.01.2025 - XII ZB 148/24 (Elternunterhalt; Selbstbehalt verheirateter Unterhaltspflichtiger)
-- BVerfG, Beschluss vom 07.10.2025 - 1 BvR 746/23 (Begründungsanforderungen bei mehrjährigem Umgangsausschluss)
-- BVerfG, Beschluss vom 27.08.2025 - 1 BvR 1473/25: Nichtannahme wegen unzureichender Substantiierung; zugleich Zweifel an einer tragfähigen Tatsachengrundlage für die Hauptsache und Hinweis auf die fachwissenschaftlichen Grenzen des PAS-Konzepts.
-- BVerfG, Beschluss vom 09.04.2025 - 1 BvR 1618/24 (internationale Zuständigkeit nach KSÜ, Sorgerechtswirkungen)
-- Düsseldorfer Tabelle 2026 (in Kraft seit 01.01.2026, OLG Düsseldorf, Pressemitteilung 01.12.2025; Mindestunterhalt nach 7. MUVÄndV vom 15.11.2024, BGBl. 2024 I Nr. 359)
-
-Weitere Entscheidungen nicht aus Modellwissen zitieren; vor Ausgabe über bundesgerichtshof.de, bundesverfassungsgericht.de, dejure.org, openjur.de verifizieren.
-
-## FAO-Voraussetzungen (Paragraf 5 Abs. 1 FAO)
-
-- **Theoretischer Lehrgang** 120 Stunden (Paragraf 4 FAO).
-- **Drei Klausuren** zum Familienrecht (Paragraf 4a FAO).
-- **120 Fälle** in den letzten drei Jahren vor Antrag, davon mindestens 60 streitige Fälle (Paragraf 5 FAO).
-- **Anmeldung** bei der Rechtsanwaltskammer.
-
-## Wichtige Normen
-
-| Bereich | Norm |
-|---|---|
-| BGB Familienrecht | Paragrafen 1297 ff. BGB (Ehe Scheidung) Paragrafen 1601 ff. BGB (Unterhalt) Paragrafen 1626 ff. BGB (Elterliche Sorge) Paragrafen 1684 ff. BGB (Umgangsrecht) Paragrafen 1740 ff. BGB (Adoption) Paragrafen 1773 ff. BGB (Vormundschaft) |
-| Verfahrensrecht | FamFG Paragrafen 111 ff. (Familiensachen) Paragraf 137 FamFG (Scheidungsverbund) Paragrafen 151 ff. FamFG (Kindschaftssachen) |
-| Versorgungsausgleich | VersAusglG |
-| Lebenspartnerschaft | LPartG |
-| Gerichtsverfassung | Paragraf 23a GVG (Familiengericht beim AG) Paragraf 23b GVG |
-| EU- und Völkerrecht | Brüssel IIb-VO (EU) 2019/1111 |
-
-## Typische Mandate
-
-- Scheidung im Verbund (Scheidung + Versorgungsausgleich + Folgesachen)
-- Sorgerechtsverfahren bei getrennt lebenden Eltern
-- Umgangsrechtsstreit
-- Kindesunterhalt nach Düsseldorfer Tabelle
-- Ehegattenunterhalt (Trennungs- und nachehelicher Unterhalt)
-- Zugewinnausgleich
-- Ehevertrag und Scheidungsfolgenvereinbarung
-- Gewaltschutz nach GewSchG
-
-## Wichtige Fristen
-
-- **Beschwerde** Paragraf 63 FamFG — ein Monat.
-- **Sofortige Beschwerde** Paragraf 64 FamFG — zwei Wochen.
-- **Wiedereinsetzung** Paragraf 17 FamFG.
-- **Versorgungsausgleichs-Anträge** parallel zum Scheidungsverfahren.
-- **Anfechtungsfristen** Vaterschaft Paragraf 1600b BGB — zwei Jahre ab Kenntnis.
-
-## Hauptgericht
-
-- **Familiengericht** beim Amtsgericht (Paragraf 23a Abs. 1 Nr. 1 GVG).
-- **OLG-Familiensenat** als Beschwerdegericht (Paragraf 119 GVG).
-- **BGH XII. Zivilsenat** in Familiensachen.
-
-## Berufsverband
-
-- Deutscher Anwaltverein DAV Arbeitsgemeinschaft Familienrecht.
-- Deutsche Gesellschaft für Familienrecht.
-
-## Schnittstellen zu anderen Plugins
-
-- **kanzlei-allgemein** für Fristenbuch Timesheet Versand-Vor-Check.
-- **methodenlehre-buergerliches-recht** und **zitierweise-deutsches-recht** als Hausstandards.
-
-## Hinweis
-
-Dieses Plugin liefert nur die Orientierung. Tiefe Mandatsbearbeitung erfordert die Expertise des Fachanwalts für Familienrecht.
-
----
-
-## Skill: `fachanwalt-familienrecht-orientierung`
-
-_Für Fachanwalt für Familienrecht — Orientierung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt._
-
-# Fachanwalt für Familienrecht — Orientierung
-
-## Aktuelle Rechtsprechung (Orientierung Familienrecht, Stand 05/2026)
-
-Verifizierte Eckpfeiler — Live-Verifikation vor Verwendung in Schriftsätzen zwingend:
-
-- BGH, Beschluss vom 22.01.2025 - XII ZB 148/24 (Elternunterhalt; Selbstbehalt verheirateter Unterhaltspflichtiger)
-- BVerfG, Beschluss vom 07.10.2025 - 1 BvR 746/23 (Begründungsanforderungen bei mehrjährigem Umgangsausschluss)
-- BVerfG, Beschluss vom 27.08.2025 - 1 BvR 1473/25: Nichtannahme wegen unzureichender Substantiierung; zugleich Zweifel an einer tragfähigen Tatsachengrundlage für die Hauptsache und Hinweis auf die fachwissenschaftlichen Grenzen des PAS-Konzepts.
-- BVerfG, Beschluss vom 09.04.2025 - 1 BvR 1618/24 (internationale Zuständigkeit nach KSÜ, Sorgerechtswirkungen)
-- Düsseldorfer Tabelle 2026 (in Kraft seit 01.01.2026, OLG Düsseldorf, Pressemitteilung 01.12.2025; Mindestunterhalt nach 7. MUVÄndV vom 15.11.2024, BGBl. 2024 I Nr. 359)
-
-Weitere Entscheidungen nicht aus Modellwissen zitieren; vor Ausgabe über bundesgerichtshof.de, bundesverfassungsgericht.de, dejure.org, openjur.de verifizieren.
-
-## Quellenregel
-
-Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
-## FAO-Voraussetzungen (Paragraf 5 Abs. 1 FAO)
-
-- **Theoretischer Lehrgang** 120 Stunden (Paragraf 4 FAO).
-- **Drei Klausuren** zum Familienrecht (Paragraf 4a FAO).
-- **120 Fälle** in den letzten drei Jahren vor Antrag, davon mindestens 60 streitige Fälle (Paragraf 5 FAO).
-- **Anmeldung** bei der Rechtsanwaltskammer.
-
-## Wichtige Normen
-
-| Bereich | Norm |
-|---|---|
-| BGB Familienrecht | Paragrafen 1297 ff. BGB (Ehe Scheidung) Paragrafen 1601 ff. BGB (Unterhalt) Paragrafen 1626 ff. BGB (Elterliche Sorge) Paragrafen 1684 ff. BGB (Umgangsrecht) Paragrafen 1740 ff. BGB (Adoption) Paragrafen 1773 ff. BGB (Vormundschaft) |
-| Verfahrensrecht | FamFG Paragrafen 111 ff. (Familiensachen) Paragraf 137 FamFG (Scheidungsverbund) Paragrafen 151 ff. FamFG (Kindschaftssachen) |
-| Versorgungsausgleich | VersAusglG |
-| Lebenspartnerschaft | LPartG |
-| Gerichtsverfassung | Paragraf 23a GVG (Familiengericht beim AG) Paragraf 23b GVG |
-| EU- und Völkerrecht | Brüssel IIb-VO (EU) 2019/1111 |
-
-## Typische Mandate
-
-- Scheidung im Verbund (Scheidung + Versorgungsausgleich + Folgesachen)
-- Sorgerechtsverfahren bei getrennt lebenden Eltern
-- Umgangsrechtsstreit
-- Kindesunterhalt nach Düsseldorfer Tabelle
-- Ehegattenunterhalt (Trennungs- und nachehelicher Unterhalt)
-- Zugewinnausgleich
-- Ehevertrag und Scheidungsfolgenvereinbarung
-- Gewaltschutz nach GewSchG
-
-## Wichtige Fristen
-
-- **Beschwerde** Paragraf 63 FamFG — ein Monat.
-- **Sofortige Beschwerde** Paragraf 64 FamFG — zwei Wochen.
-- **Wiedereinsetzung** Paragraf 17 FamFG.
-- **Versorgungsausgleichs-Anträge** parallel zum Scheidungsverfahren.
-- **Anfechtungsfristen** Vaterschaft Paragraf 1600b BGB — zwei Jahre ab Kenntnis.
-
-## Hauptgericht
-
-- **Familiengericht** beim Amtsgericht (Paragraf 23a Abs. 1 Nr. 1 GVG).
-- **OLG-Familiensenat** als Beschwerdegericht (Paragraf 119 GVG).
-- **BGH XII. Zivilsenat** in Familiensachen.
-
-## Quellenregel
-
-Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
-## Berufsverband
-
-- Deutscher Anwaltverein DAV Arbeitsgemeinschaft Familienrecht.
-- Deutsche Gesellschaft für Familienrecht.
-
-## Schnittstellen zu anderen Plugins
-
-- **kanzlei-allgemein** für Fristenbuch Timesheet Versand-Vor-Check.
-- **methodenlehre-buergerliches-recht** und **zitierweise-deutsches-recht** als Hausstandards.
-
-## Hinweis
-
-Dieses Plugin liefert nur die Orientierung. Tiefe Mandatsbearbeitung erfordert die Expertise des Fachanwalts für Familienrecht.
-
----
-
 ## Skill: `orientierung-fristen-form-und-zustaendigkeit`
 
 _Für Orientierung Fristen Form und Zuständigkeit: prüft Frist, Form, Zuständigkeit und Eilbedarf; Ergebnis: Fristen- und Risikoampel._
@@ -630,184 +219,521 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 
 ---
 
-## Skill: `erstgespraech-mandatsannahme`
+## Skill: `versorgungsausgleich-im-scheidungsverfahren-pruefen`
 
-_Für Erstgespräch Mandatsannahme: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt. Fachgebiet: Fachanwalt Familienrecht._
+_Prüft den Versorgungsausgleich im laufenden Scheidungsverfahren von Ehezeit und Anrechten bis zur Stellungnahme. Trennt Auskunft, Teilung und Ausnahmen und verweist bei Beschwerde oder späterer Anpassung in eigenständige Verfahren._
 
-# Strukturierter Erstgespraechsleitfaden für Familien-, Kindschafts- und Versorgungsausgleichsrecht: Erfassung der Konstellation, Konflikt- und GwG-Check, Vollmacht, Streitwert/Gebührenvereinbarung, Fristen-Erstprognose und Handlungsweichen.
+# Versorgungsausgleich im Scheidungsverfahren prüfen
+
+## 1. Zweck und Anwendungsfall
+
+Für die erstmalige Entscheidung über Versorgungsanrechte bei Scheidung. Ein konkreter Auskunftsfehler geht direkt zu `versorgungsauskuenfte-und-anrechtswerte-pruefen`, ein Streit um interne oder externe Teilung zu `versorgungsteilung-und-zielversorgung-pruefen`. Die beiden Detailaufgaben nicht nochmals als allgemeine Erstprüfung ausführen.
+
+## 2. Eingaben
+
+Heiratsurkunde, Zustellung des Scheidungsantrags, Gericht und Aktenzeichen, Trägerauskünfte, Versicherungs- und Versorgungsverläufe, Teilungsordnungen, Vereinbarungen, Rentenbeginn sowie Auslandsbezug. Den Trennungszeitpunkt nicht als Ehezeitende verwenden.
+
+## 3. Ablauf
+
+### 3.1. Ehezeit und Anrechtsbestand
+
+Lade [Ehezeit, Halbteilung und Fallweichen](https://github.com/Klotzkette/claude-fuer-deutsches-recht/blob/main/fachanwalt-familienrecht/skills/versorgungsausgleich-im-scheidungsverfahren-pruefen/references/ehezeit-anrechte-und-fallweichen.md). Dort stehen Monatsgrenzen, Antrag bei kurzer Ehe, Versorgungsarten, Abgrenzung zum Zugewinn und die anrechtsbezogene Ergebnisstruktur. Die Ehezeit endet am letzten Tag des Monats vor Zustellung. Bei bis zu drei Jahren ist der Antrag eines Ehegatten zu prüfen, nicht automatisch grobe Unbilligkeit anzunehmen.
+
+Erfasse jedes Anrecht mit Inhaber, Träger, Kennung, Ehezeitanteil, Ausgleichswert, Einheit, Kapitalwert und Auskunftsstatus. Fehlende Auskünfte nachfordern; nicht Gesamtvermögen oder Rentenprognosen halbieren.
+
+### 3.2. Sachentscheidung
+
+Prüfe die Teilungsform je Anrecht. Geringfügigkeit, fehlende Ausgleichsreife, Vereinbarung und grobe Unbilligkeit sind unterschiedliche Weichen. Lade nur den einschlägigen eigenständigen Skill: `geringfuegigkeit-18-versausglg`, `nicht-ausgleichsreife-anrechte-19-versausglg`, `vereinbarung-ueber-versorgungsausgleich-6-ff-versausglg` oder `ausschluss-grobe-unbilligkeit-27-versausglg`.
+
+Bei Verzögerung des Scheidungsverfahrens `scheidungsverbund-va-fristenplan` und gegebenenfalls `verbundabtrennung-versorgungsausgleich` nutzen. Eine Abtrennung ersetzt keine Prüfung der einzelnen Anrechte.
+
+### 3.3. Eigenständige Verfahren erhalten
+
+| Lage | Eigenständiger Arbeitsweg |
+| --- | --- |
+| Angriff auf noch anfechtbaren Beschluss | `beschwerde-gegen-va-beschluss-famfg` |
+| Änderung einer Altentscheidung | `abaenderung-versorgungsausgleich-51-versausglg` |
+| Totalrevision mit Todesfall | `versorgungsausgleich-totalrevision-und-tod` |
+| Tod vor Abschluss des Verfahrens | `versorgungsausgleich-verstorbener-paragraf-31-versausglg` |
+| Ausgleich erst nach der Scheidung | `ausgleich-nach-der-scheidung-20-ff-versausglg` |
+| Kürzung trotz Unterhaltspflicht | `anpassung-wegen-unterhalt-33-ff-versausglg` |
+| Invalidität oder besondere Altersgrenze | `anpassung-wegen-invaliditaet-oder-besonderer-haerte` |
+| Tod der ausgleichsberechtigten Person nach Rechtskraft | `tod-eines-ehegatten-anpassung-37-ff-versausglg` |
+| Auskunft oder Vollstreckung nach der Entscheidung | `nachtraegliche-auskunft-und-vollstreckung` |
+
+Entscheidungsdatum, Rechtskraft und anwendbares altes oder neues Recht bestimmen die Route. Eine nachträgliche Änderung ist keine beliebige Reparatur eines ursprünglichen Fehlers.
+
+## 4. Quellenpflicht
+
+Nutze [references/zitierweise.md](https://github.com/Klotzkette/claude-fuer-deutsches-recht/blob/main/references/zitierweise.md) und die [geprüften Rechtsanker](https://github.com/Klotzkette/claude-fuer-deutsches-recht/blob/main/fachanwalt-familienrecht/references/rechtsanker-2026-09-05.md). Verifiziere Teilungsordnung und Versorgungsträgerauskunft zusätzlich am konkreten Fall. Für noch nicht vollständig verifizierte Rechtsprechung keine Randnummern ergänzen.
+
+## 5. Ausgabeformat
+
+Ehezeitblatt und Anrechtsmatrix als Anlagen; ausformulierte Stellungnahme mit getrenntem Ergebnis je Anrecht, offenen Auskünften und nächster Frist. Ausformulierungspflicht und Formatstandard: vollständige Sätze statt Skelett, Times New Roman 11 pt, dezimale Gliederung mit Leerzeilen; bei Markdown Exporthinweis. Beschlussvorschläge brauchen eindeutige Träger, Kennungen, Beträge und Einheiten.
+
+## 6. Beispiele
+
+Bei einer kurzen Ehe zunächst Monatsgrenzen und Antrag prüfen. Liegen nach Rechtskraft neue Rentenauskünfte vor, zuerst Rechtsbehelfsweg und Änderungsgrund bestimmen; nicht die ursprüngliche Scheidungsprüfung wiederholen.
+
+---
+
+## Skill: `versorgungsauskuenfte-und-anrechtswerte-pruefen`
+
+_Gleicht Fragebogen und Versorgungsträgerauskünfte mit der Erwerbsbiografie ab, prüft Ehezeitanteile, Bezugsgrößen und Kapitalwerte und erstellt eine prüffähige Anrechtsmatrix samt konkreter Erläuterungs- oder Korrekturanforderung._
+
+# Versorgungsauskünfte und Anrechtswerte prüfen
+
+## 1. Zweck und Anwendungsfall
+
+Für einen unvollständigen Fragebogen, eine fehlende Trägerantwort, widersprüchliche Werte oder die rechnerische Anrechtsaufbereitung. Dies ist die Sachverhalts- und Bewertungsprüfung, nicht bereits die Wahl der Teilungsform oder eine Beschwerde.
+
+## 2. Eingaben
+
+Gerichtlicher Fragebogen, Heirat und Zustellung, Erwerbsbiografie, Versicherungsnummern, Verträge, Rentenbescheide, Trägerantworten samt Berechnung und Teilungsordnung. Alte und neue Auskunftsversionen nebeneinander erhalten.
+
+## 3. Ablauf
+
+1. Bei Fragebogen, unbekanntem Träger oder fehlender Antwort [Fragebogen und Auskunftsabgleich](https://github.com/Klotzkette/claude-fuer-deutsches-recht/blob/main/fachanwalt-familienrecht/skills/versorgungsauskuenfte-und-anrechtswerte-pruefen/references/fragebogen-und-auskunftsabgleich.md) laden. Diese Referenz ordnet Beschäftigung, Dienstzeiten, private Vorsorge und Auslandszeiten konkreten Anrechten zu und enthält die Erläuterungsanforderung nach Paragraf 220 FamFG.
+2. Bei Zahlenprüfung [Anrechtsmatrix und Bewertung](https://github.com/Klotzkette/claude-fuer-deutsches-recht/blob/main/fachanwalt-familienrecht/skills/versorgungsauskuenfte-und-anrechtswerte-pruefen/references/anrechtsmatrix-und-bewertung.md) laden. Ehezeitanteil, Ausgleichswert und korrespondierenden Kapitalwert in getrennten Spalten führen; Rentenbetrag, Entgeltpunkt und Kapital niemals addieren.
+3. Quelle, Stichtag, Einheit, Rechenweg und Differenz zur Vorversion je Anrecht prüfen. Das Attribut dynamisch oder statisch ersetzt weder Teilungsordnung noch versicherungsmathematische Berechnung.
+4. Unklare Werte nicht mit eigenen Pauschalfaktoren ersetzen. Fordere den fehlenden Rechenschritt und seine Wirkung auf das Ergebnis an. Bei tatsächlichem Streit über systembezogene Bewertung den einschlägigen Trägerskill hinzunehmen.
+5. Für weitere Sachentscheidung `versorgungsteilung-und-zielversorgung-pruefen` nutzen. Ist bereits ein Beschluss bekanntgegeben, Beschwerdefrist separat sichern; eine Rückfrage an den Träger hemmt sie nicht automatisch.
+
+## 4. Quellenpflicht
+
+Paragrafen 5 und 47 VersAusglG sowie Paragraf 220 FamFG nach den [geprüften Rechtsankern](https://github.com/Klotzkette/claude-fuer-deutsches-recht/blob/main/fachanwalt-familienrecht/references/rechtsanker-2026-09-05.md). Tatsachen- und Rechenbelege nach [references/zitierweise.md](https://github.com/Klotzkette/claude-fuer-deutsches-recht/blob/main/references/zitierweise.md) dokumentieren. Systemrecht und konkrete Teilungsordnung nicht durch allgemeine Familienrechtsnormen ersetzen.
+
+## 5. Ausgabeformat
+
+Prüffähige Tabelle mit unveränderten Ausgangswerten, eigener Kontrolle, Differenz und Beleg. Dazu eine ausformulierte Stellungnahme oder Nachforderung. Ausformulierungspflicht: keine bloße Stichwortsammlung als Endprodukt. Formatstandard: Times New Roman 11 pt, dezimale Gliederung mit Leerzeilen; Tabellen dürfen aus Lesbarkeitsgründen ein abweichendes Tabellenlayout erhalten. Bei Markdown Exporthinweis.
+
+## 6. Beispiele
+
+Eine Rentenauskunft verwendet den Zustellungsmonat statt des Vormonats: Abweichung zeigen und neue Ehezeitberechnung anfordern. Ein Kapitalwert fehlt, obwohl der Ausgleichswert in Entgeltpunkten angegeben ist: Trägerermittlung verlangen, nicht mit dem aktuellen Rentenwert improvisieren.
+
+---
+
+## Skill: `versorgungsteilung-und-zielversorgung-pruefen`
+
+_Prüft interne und externe Versorgungsteilung, Teilungskosten und Transferverluste. Klärt das Wahlrecht samt Aufnahmebestätigung der Zielversorgung und liefert eine begründete Stellungnahme mit anrechtsbezogenem Tenorvorschlag._
+
+# Versorgungsteilung und Zielversorgung prüfen
+
+## 1. Zweck und Anwendungsfall
+
+Für einen konkreten Teilungsvorschlag nach vorliegender Auskunft. Interne Teilung, externe Teilung und Zielversorgung bilden einen Entscheidungsablauf, bleiben darin aber rechtlich getrennte Prüfungen. Kein Ersatz für Beschwerde, Härteausschluss oder Anpassung nach Rechtskraft.
+
+## 2. Eingaben
+
+Anrecht, Ehezeitende, Ausgleichswert und Bezugsgröße, Teilungsordnung, Kosten, Trägerverlangen oder Vereinbarung, biometrische Daten, Rentenbeginn und gerichtliche Wahlfrist. Bei Zielwahl zusätzlich Aufnahmebestätigung und steuerliche Folgen.
+
+## 3. Ablauf
+
+1. Lade [Teilungsform, Kosten und Wertvergleich](https://github.com/Klotzkette/claude-fuer-deutsches-recht/blob/main/fachanwalt-familienrecht/skills/versorgungsteilung-und-zielversorgung-pruefen/references/teilungsform-kosten-und-wertvergleich.md). Prüfe interne Teilung als Ausgangspunkt, gleichwertige Teilhabe und Kostenangemessenheit. Eine bestimmte Versorgungsart erzwingt nicht schon für sich die externe Teilung.
+2. Externe Teilung nur auf gesetzlich tragfähigem Weg: Vereinbarung der ausgleichsberechtigten Person mit dem Quellversorgungsträger oder dessen Verlangen innerhalb der maßgeblichen Wertgrenze. Bei Direktzusage oder Unterstützungskasse die Sonderregel des Paragrafen 17 VersAusglG gesondert prüfen.
+3. Bei externer Teilung [Zielversorgung, Wahlfrist und Tenor](https://github.com/Klotzkette/claude-fuer-deutsches-recht/blob/main/fachanwalt-familienrecht/skills/versorgungsteilung-und-zielversorgung-pruefen/references/zielversorgung-wahlfrist-und-tenor.md) laden. Aufnahmefähigkeit, Vergleichsversorgung, steuerliche Zulässigkeit, Wahl und Einverständnisnachweis auseinanderhalten. Die Versorgungsausgleichskasse ist nicht für jedes Anrecht die gesetzliche Auffanglösung.
+4. Zeige Alternative, Rentenwirkung, Kosten und verbleibende Unsicherheit. Ausländische, beamtenrechtliche oder nicht ausgleichsreife Anrechte in ihre eigenständigen Fachwege geben. Keine pauschale Summensaldierung aller Versorgungen.
+5. Formuliere Stellungnahme und Tenorvorschlag je Anrecht. Bei ungeklärter Berechnung zuerst präzise Erläuterung anfordern; keine Zustimmung auf Basis einer bloßen Kapitalwertsumme.
+
+## 4. Quellenpflicht
+
+Die [geprüften Rechtsanker](https://github.com/Klotzkette/claude-fuer-deutsches-recht/blob/main/fachanwalt-familienrecht/references/rechtsanker-2026-09-05.md) enthalten die hier relevanten Paragrafen 10, 11, 13, 14, 15 und 17 VersAusglG sowie Paragraf 222 FamFG. BGH XII ZB 230/16 ist dort mit begrenztem Verifikationsstatus verzeichnet. Volltext und einschlägige Passage vor gerichtlichem Zitat prüfen; [references/zitierweise.md](https://github.com/Klotzkette/claude-fuer-deutsches-recht/blob/main/references/zitierweise.md) beachten.
+
+## 5. Ausgabeformat
+
+Entscheidungsvorlage mit Teilungsgrund, Rechenvergleich, Wahlfrist, Einverständnisnachweis und ausformuliertem Tenorvorschlag. Ausformulierungspflicht und Formatstandard: vollständige Sätze, keine Skelettanträge, Times New Roman 11 pt und dezimale Gliederung mit Leerzeilen. Bei Markdown Exporthinweis. Eine selbstständige Mandantenentscheidung über Wahl oder Vergleich nicht vorwegnehmen.
+
+## 6. Beispiele
+
+Verlangt der Träger externe Teilung, sind zuerst Anrechtsart und ehezeitbezogene Grenze zu prüfen. Wird kein Ziel gewählt, hängt die Auffangversorgung davon ab, ob ein Anrecht im Sinne des Betriebsrentengesetzes vorliegt.
+
+---
+
+## Skill: `sorgerecht-kindeswohlgefaehrdung-pruefen`
+
+_Prüft einen beantragten Sorgerechtsentzug anhand konkreter Gefahren, belastbarer Belege und milderer Mittel; erstellt eine Eingriffsmatrix, einen Beweisplan und einen sofort verwendbaren Antrag oder Erwiderungsbaustein._
+
+# Sorgerecht und Kindeswohlgefährdung prüfen
+
+## Einsatzlage
+
+Jugendamt, Elternteil oder Ergänzungspfleger beantragt die teilweise oder vollständige Entziehung elterlicher Sorge. Der Skill prüft aus anwaltlicher Sicht, ob eine gegenwärtige erhebliche Gefahr belegt ist, welche Teilbereiche betroffen sind und ob Hilfe, Auflage oder Teilentzug als milderes Mittel genügt.
+
+## Normenanker
+
+- BGB Paragraf 1666: gerichtliche Maßnahmen bei Gefährdung des körperlichen, geistigen oder seelischen Kindeswohls.
+- BGB Paragraf 1666a: Vorrang öffentlicher Hilfen, Verhältnismäßigkeit und besondere Anforderungen an die Trennung des Kindes von der Familie.
+- BGB Paragraf 1671: Übertragung der Sorge bei Getrenntleben als eigener Prüfungsweg; nicht mit einer Gefahrenmaßnahme vermengen.
+- FamFG Paragrafen 26 und 157: Amtsermittlung und Erörterung der Kindeswohlgefährdung.
+- FamFG Paragrafen 155, 158 und 159: Beschleunigung, Verfahrensbeistand und persönliche Anhörung des Kindes.
+
+## Rechtsprechungsanker
+
+- BVerfG, Beschluss vom 29.01.2010 - 1 BvR 374/09: Eine Trennung von den Eltern setzt einen bereits eingetretenen Schaden oder eine gegenwärtige Gefahr voraus, bei der sich eine erhebliche Schädigung mit hinreichender Sicherheit voraussehen lässt; bloß bessere Fördermöglichkeiten genügen nicht.
+- BGH, Beschluss vom 27.11.2019 - XII ZB 511/18: Ein geäußerter Kindeswille trägt eine Änderung des Aufenthaltsbestimmungsrechts nicht, wenn er nicht autonom gebildet ist und andere Kindeswohlbelange entgegenstehen.
+- Entscheidungen immer am amtlichen Volltext und am konkreten Eingriffsziel prüfen. Eine Nichtannahmeentscheidung darf nicht als allgemeine Bestätigung der fachgerichtlichen Subsumtion dargestellt werden.
+
+## Prüfprogramm
+
+1. Eingriffsziel trennen: Aufenthaltsbestimmungsrecht, Gesundheitsfürsorge, Schulangelegenheiten, Vermögenssorge oder vollständige Sorge. Für jeden Teilbereich eine eigene Gefahr und Rechtsfolge verlangen.
+2. Gefahrenkern bilden: Schaden, Wahrscheinlichkeit, zeitliche Nähe, betroffene Entwicklung und konkrete Ursache mit Datum und Beleg erfassen. Wertungen des Jugendamts nicht als Tatsachen übernehmen.
+3. Beweisqualität prüfen: Jugendamtsbericht, ärztlicher Befund, Gutachten, Anhörung, Schul- oder Kitabericht und Zeugenaussage nach eigener Wahrnehmung, Aktualität und Widersprüchen ordnen.
+4. Hilfen und mildere Mittel prüfen: Beratung, Familienhilfe, Auflage, Kontrolltermin, Teilpflegschaft und befristete Maßnahme mit ihrer konkreten Eignung gegenüberstellen.
+5. Kindeswille einordnen: Alter, Reife, Stabilität, Entstehung und mögliche Beeinflussung dokumentieren; den Willen weder ignorieren noch allein entscheiden lassen.
+6. Verfahrensschutz sichern: Beschleunigungsgebot, Anhörungen, Verfahrensbeistand, rechtliches Gehör, Gutachtenfragen und Eilbedürftigkeit kontrollieren.
+7. Gegenposition formulieren: stärkste Gefahrenbehauptung, stärkster Beleg, Angriff auf Kausalität oder Aktualität und ein praktisch tragfähiges milderes Mittel ausarbeiten.
+
+## Arbeitsergebnis
+
+- Eingriffsmatrix mit Teilbereich, behaupteter Gefahr, Beleg, Gegenbeleg, mildestem Mittel und verbleibendem Risiko.
+- Antrag oder Erwiderung mit konkretisierter Tatsachendarstellung, Beweisangeboten und abgestuftem Hilfsantrag.
+- Anhörungs- und Gutachtenfragen ohne suggestive Vorwegnahme des Ergebnisses.
+- Sofortvermerk zu Eilbedarf, nächstem Termin und bis dahin erforderlicher Schutzmaßnahme.
+
+## Belege und Aktenlücken
+
+- Jugendamtsberichte mit Datum, Verfasser, Wahrnehmungsquelle und zugrunde liegenden Kontakten.
+- Ärztliche, schulische und pädagogische Unterlagen im vollständigen Wortlaut.
+- Sachverständigengutachten einschließlich Beweisbeschluss, Anknüpfungstatsachen und Ergänzungsfragen.
+- Anhörungsvermerke, Hilfepläne, Umgangsprotokolle und bereits erprobte Hilfen.
+
+## Stop
+
+Keinen endgültigen Sorgerechtsentzug empfehlen, wenn Gefahr, Aktualität, Kausalität oder milderes Mittel nur behauptet sind. Dann zuerst eine priorisierte Beleg- und Anhörungsliste sowie eine befristete Zwischenlösung ausgeben.
+
+---
+
+## Skill: `fachanwalt-familienrecht-scheidungsantrag-stellen`
+
+_Bereitet den Scheidungsantrag aus Trennungsnachweisen, Urkunden und Verfahrensdaten vor. Prüft Scheidungsvoraussetzungen, Zuständigkeit und Verbund und erstellt einen ausformulierten Antrag mit Belegen und Anlagen._
+
+# Scheidungsantrag mit Begründung und Anlagen vorbereiten
+
+## 1. Fachlicher Einstieg
+
+Lies zuerst Heiratsurkunde, Trennungsnachweise, vorhandene Anträge und Vereinbarungen. Prüfe Scheidungsvoraussetzungen, Zuständigkeit, anwaltliche Vertretung und notwendige Angaben nach Paragraf 133 FamFG und beginne mit dem konkreten Antragsentwurf. Die folgenden Fragen dienen nur der Klärung entscheidender Lücken; Scheidung, Versorgungsausgleich und weitere Folgesachen bleiben getrennte Prüfgegenstände.
+
+## Mandantenfragen beim Kaltstart
+
+1. Seit wann leben Sie von Ihrem Ehegatten getrennt — haben Sie das Trennungsdatum dokumentiert (z. B. Auszug, Bankkonto, E-Mail)?
+2. Ist die Scheidung einvernehmlich (beide einverstanden nach mindestens 1 Jahr Trennung), oder verweigert der andere Teil die Zustimmung?
+3. Liegen außergewöhnliche Umstände vor, die eine Härtefallscheidung ohne Trennungsjahr begründen könnten (z. B. schwere häusliche Gewalt)?
+4. Sind minderjährige Kinder vorhanden — besteht Einigkeit über Sorge und Unterhalt?
+5. Haben Sie gemeinsames Vermögen, Immobilien, Unternehmensanteile oder Rentenanwartschaften, die im Versorgungsausgleich relevant sind?
+6. Wie hoch sind die monatlichen Nettoeinkommen beider Ehegatten (relevant für Verfahrenswert und VKH-Prüfung)?
+7. Haben Sie bereits einen Ehevertrag oder Scheidungsfolgenvereinbarung mit Ihrem Ehegatten oder dessen Anwalt ausgehandelt?
+8. Kennen Sie das Datum der Eheschließung und liegt die Heiratsurkunde vor?
+- **Was will der Mandant wirklich erreichen?** (Nicht: was steht im Standardweg, sondern: welches Ergebnis ist fuer den Mandanten persoenlich/wirtschaftlich das beste? Manchmal ist der schnellere Vergleich besser als der formal "richtige" Weg.)
+
+## Rechtsgrundlagen
+
+| Norm | Inhalt |
+|------|--------|
+| Paragraf 1565 BGB | Scheidungsvoraussetzung: Scheitern der Ehe; Trennungsjahr als Regelfall |
+| Paragraf 1565 Abs. 2 BGB | Scheidung vor Ablauf des Trennungsjahres nur bei unzumutbarer Härte |
+| Paragraf 1566 Abs. 1 BGB | Unwiderlegbare Zerrüttungsvermutung bei 1 Jahr Trennung + beiderseitiger Scheidungsantrag |
+| Paragraf 1566 Abs. 2 BGB | Unwiderlegbare Zerrüttungsvermutung bei 3 Jahren Trennung (einseitige Scheidung möglich) |
+| Paragraf 1567 BGB | Definition der Trennung; Trennung innerhalb der Ehewohnung möglich |
+| Paragraf 1568 BGB | Härteklausel: Scheidungsversagung bei außergewöhnlichen Umständen zum Wohl der Kinder oder des anderen Ehegatten |
+| Paragraf 133 FamFG | Antrag auf Ehescheidung; notwendiger Inhalt des Scheidungsantrags |
+| Paragraf 114 FamFG | Anwaltszwang in Ehesachen; kein Selbstauftritt |
+| Paragraf 122 FamFG | Örtliche Zuständigkeit: gemeinsamer gewöhnlicher Aufenthalt; hilfsweise Aufenthalt des Antragsgegners |
+| Paragraf 137 FamFG | Verbundverfahren: Scheidung + Folgesachen (Versorgungsausgleich, Unterhalt, Sorge, Zugewinn) |
+| Paragraf 137 Abs. 2 FamFG | Versorgungsausgleich von Amts wegen im Verbund |
+| Paragraf 142 FamFG | Abtrennung von Folgesachen bei unverhältnismäßiger Verzögerung |
+| Paragraf 43 FamGKG | Verfahrenswert bei Ehescheidung: 3-faches monatliches Nettoeinkommen beider Ehegatten |
+| Paragraf 48 FamGKG | Verfahrenswert Versorgungsausgleich: 10 % des Dreifachen der monatlichen Nettoeinkommen je auszugleichendem Anrecht |
+| Paragraf 76 FamFG | Verfahrenskostenhilfe in Familiensachen; Paragrafen 114 ff. ZPO entsprechend |
+| Paragrafen 1 ff. VersAusglG | Versorgungsausgleich; interne und externe Teilung; Auskunftspflicht der Versorgungsträger |
+| Paragraf 6 VersAusglG | Ausschluss oder Einschränkung des Versorgungsausgleichs durch Vereinbarung |
+| Art. 17 EGBGB | Anzuwendendes Scheidungsrecht bei Auslandsbezug (Haager Scheidungsübereinkommen, Rom III-VO) |
+
+## Leitentscheidungen
+
+| Gericht | Aktenzeichen | Datum | Kernaussage |
+|---------|-------------|-------|-------------|
 
 
-## Arbeitsweg
+## Prüfschema Scheidungsantrag
 
-- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
-- Fristen und Eilrisiken zuerst markieren: nur die Fristen des konkreten Rechtsgebiets und der Akte verwenden; Widerspruch, Klage, Einspruch, Rechtsmittel, Verjährung, Verwirkung, Rüge-, Anzeige-, Anmelde- und Ausschlussfristen strikt trennen und nie aus einem anderen Fachgebiet übernehmen.
-- Tragende Normen verifizieren: FamFG — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
-- Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
-- Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
+**Vorab:** Der untenstehende Workflow ist die typische Standardlinie. Wenn die Mandantenlage abweicht (siehe "Strategische Optionen" oben), sind die Schritte entsprechend zu verkuerzen, umzustellen oder durch ein anderes Skill zu ersetzen — der Workflow ist Leitfaden, nicht Pflichtprogramm.
 
-**Fokus:** Strukturierter Erstgespraechsleitfaden für Familien-, Kindschafts- und Versorgungsausgleichsrecht: Erfassung der Konstellation, Konflikt- und GwG-Check, Vollmacht, Streitwert/Gebührenvereinbarung, Fristen-Erstprognose und Handlungsweichen.
+| Schritt | Prüfpunkt | Norm | Rechtsfolge |
+|---------|-----------|------|-------------|
+| 1 | Ehe wirksam geschlossen? | Paragrafen 1303 ff. BGB; PStG | Voraussetzung; Nichtehe schließt Scheidung aus |
+| 2 | Deutsches Recht anwendbar? | Art. 17 EGBGB; Rom III-VO | Bei Auslandsbezug zuerst Kollisionsrecht prüfen |
+| 3 | Örtliche Zuständigkeit | Paragraf 122 FamFG | Gemeinsamer Aufenthalt; hilfsweise Aufenthalt des Ag.; hilfsweise des AS. |
+| 4 | Scheitern der Ehe feststellbar? | Paragraf 1565 Abs. 1 BGB | Unwiderlegbar bei Paragraf 1566 Abs. 1 oder 2 BGB; sonst Einzelfallprüfung |
+| 5a | Trennungsjahr abgelaufen (> 1 Jahr)? | Paragraf 1566 Abs. 1 BGB | Bei beiderseitigem Antrag: Zerrüttung unwiderlegbar |
+| 5b | Drei Jahre Trennung? | Paragraf 1566 Abs. 2 BGB | Auch einseitig möglich; Zerrüttung unwiderlegbar |
+| 6 | Härteklausel Versagung? | Paragraf 1568 BGB | Ausnahme: Kindeswohl oder schwere Folgen für Ehegatten; praktisch selten |
+| 7 | Verbundsachen? | Paragraf 137 FamFG | Versorgungsausgleich von Amts wegen; andere Folgesachen auf Antrag |
+| 8 | Versorgungsausgleich ausschließbar? | Paragraf 6 VersAusglG | Nur durch notarielle Vereinbarung oder Gerichtsentscheid |
+| 9 | Anwaltszwang beachtet? | Paragraf 114 FamFG | Muss durch Anwalt gestellt werden; Eigenantrag unzulässig |
+| 10 | VKH beantragt wenn nötig? | Paragraf 76 FamFG | Gleichzeitig mit Scheidungsantrag möglich |
 
-### Erstgespraech und Mandatsannahme im Familien-, Kindschafts- und Versorgungsausgleichsrecht
+## Strategische Optionen (vor dem Template entscheiden)
 
-## Fachlicher Kern — Familienrecht
-- **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `Erstgespraech und Mandatsannahme im Familien-, Kindschafts- und Versorgungsausgleichsrecht` und löse die dort angelegte Fachfrage; arbeite mit konkreten Tatbestandsmerkmalen, Beweisfragen und dem unmittelbar benötigten Arbeitsprodukt. Routingfragen bleiben Hilfsmittel, wenn Frist, Zuständigkeit oder Verfahrensart offen sind.
-- **Normenradar:** BGB Paragrafen 1360a, 1361, 1565 ff., 1570 ff., 1601 ff., 1626 ff., 1684, 1687, 1687a; FamFG Paragrafen 49 ff., 76, 86 ff., 112 ff.; VersAusglG Paragrafen 1, 2, 5, 10 ff., 27, 51; GewSchG.
-- **Arbeitsmodus:** Zuerst Verfahrenstyp und Eilbedarf klären: Sorge/Umgang, Unterhalt, Zugewinn, Versorgungsausgleich, Gewaltschutz; danach Kindesschutz, Titel, Fristen, Auskünfte, Beleglage und Vollstreckbarkeit.
-- **Outputpflicht:** Eilvermerk, Unterhalts-/Zugewinntabelle, Antragsentwurf, Jugendamts-/Gegnerbrief, Vergleichsvorschlag oder Mandantenfahrplan.
-- **Fehlerbremse:** Tragende Normen/Entscheidungen live oder aus der Akte verifizieren; Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei prüfbarer Quelle. Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen.
+Bevor das Template eins-zu-eins gefuellt wird, ist zu pruefen welche Variante zur Mandantenkonstellation passt. Das Template ist **eine** moegliche Form — nicht die einzige.
 
-## Fachkern: Erstgespraech und Mandatsannahme im Familien-, Kindschafts- und Versorgungsausgleichsrecht
-- **Normen-/Quellenanker:** BGB Familienrecht, FamFG, VersAusglG, Unterhaltsrecht, Zugewinn, Gewaltschutz, Kindschaft, internationale Verordnungen und Vollstreckung.
-- **Entscheidende Weiche:** Beteiligte, Kind/Unterhalt/Vermögen/Versorgung, Frist, Auskunft, Beleg, Eilbedarf und familiengerichtliche Verfahrensart trennen.
-- **Arbeitsprodukt:** Erzeuge eine konkrete Prüf- oder Entscheidungsmatrix mit Norm, Tatbestand, Beleg, Einwand, Risikoampel und nächstem Schritt; Anschluss-Skills nur bei echter Vertiefung nennen.
+| Konstellation | Empfohlener Weg |
+|---|---|
+| Standard — einvernehmlicher Scheidungsantrag | Muster einvernehmlich unten; VKH-Antrag beachten |
+| Variante A — einseitiger Antrag nach 3 Jahren Trennung | Muster einseitig unten; Haertefall-Ausnahme nicht noetig |
+| Variante B — Haertefall Paragraf 1565 Abs. 2 BGB | Haertefall-Muster unten; hohe Huerden beachten |
+| Variante C — Versorgungsausgleich ist strittig | VA-Ausschluss-Vereinbarung erwaegen; separates VA-Verfahren |
 
-## Wann dieser Arbeitsgang greift
+Wenn die Mandantenkonstellation **nicht** ins Standardschema passt, ist das Template anzupassen oder durch ein anderes Skill abzuloesen — nicht das Mandat in das Schema zu pressen.
 
-- Neue Anfrage aus dem Bereich Familien-, Kindschafts- und Versorgungsausgleichsrecht (Telefon, Mail, Empfehlung, Walk-in).
-- Mandantin oder Mandant beschreibt Sachverhalt unstrukturiert; viele Anlagen ohne System.
-- Vor jeder weiteren fachlichen Bearbeitung: erst Annahme klären, Konflikt- und GwG-Prüfung, Vollmacht, Streitwert/Vereinbarung, Fristen.
+## Schriftsatz-Bausteine
 
-## Phasen des Erstgespraechs
+### Einvernehmlicher Scheidungsantrag (Muster)
 
-### 1. Aufnahme der Konstellation (10-15 Min.)
+```
+An das Amtsgericht – Familiengericht – [Ort]
 
-Standard-Fragenraster für Familien-, Kindschafts- und Versorgungsausgleichsrecht:
+SCHEIDUNGSANTRAG
 
-- Beteiligte (Vor-/Nachname, Geburtsdatum, Anschrift, Rolle: Klägerin/Beklagter, Antragsteller, Beschuldigter)
-- Konflikt-Kern in einem Satz ("Was ist Ihr Ziel?")
-- Konkrete fachliche Stossrichtung: Scheidung, Unterhalt, ZGW, VA, Sorge/Umgang, Gewaltschutz, EheVertrag
-- Bisherige Korrespondenz (Bescheide, Schreiben der Gegenseite, anwaltliche Vertretung der Gegenseite?)
-- **Fristenscreening sofort:** anstehende Klage-/Widerspruchs-/Einspruchsfristen aus den vorgelegten Schreiben (z.B. Scheidungsantrag, Unterhaltsklage, Sorgerechtsantrag, VA-Beschwerde). Frist-Alarm an die Vorbereitung weitergeben.
+In der Familiensache
 
-### 2. Konflikt-Prüfung und GwG-Check (5 Min.)
+[Name Antragsteller/in], [Anschrift]
+– Antragsteller/in –
+Verfahrensbevollmächtigte/r: Rechtsanwalt/Rechtsanwältin [Name], [Kanzleiadresse]
 
-- Konflikt-Check über Mandantsystem: Gegnerin, Streitgegenstand, frueherer Mandant?
-- GwG-Identifizierung: amtlicher Lichtbildausweis (Ausweisscan), bei juristischer Person Handelsregister-/Transparenzregister-Auszug, ggf. wirtschaftlich Berechtigte/n.
-- Risikobewertung (niedrig/mittel/hoch) abhaengig von Mandatscharakter, Bargeld, Auslandsbezug.
-- Doku im Mandatsbogen (Pflicht nach Paragrafen 10 ff. GwG i.V.m. Paragraf 2 Abs. 1 Nr. 10 GwG für RA-Mandate).
+gegen
 
-### 3. Vollmacht und Schweigepflichtentbindung
+[Name Antragsgegner/in], [Anschrift]
+– Antragsgegner/in –
 
-- Allgemeine Prozess-/Aussenvollmacht (BORA, ZPO, FamFG, je nach Fachgebiet).
-- Spezielle Vollmachten: ggf. Akteneinsicht Strafakte, KV-Abrechnungsdaten, Sozialdaten (Schweigepflichtentbindung gegenueber Krankenkasse, Arzt, Behörde).
-- Bei Eheleuten/GbR/GmbH: einzelvollmachtgebende Person und Vertretungsmacht klären.
+beantrage ich namens des/der Antragstellers/in:
 
-### 4. Streitwert und Gebührenvereinbarung
+Die am [Datum] vor dem Standesamt [Ort] (Eheregister-Nr. [X]) geschlossene
+Ehe der Beteiligten wird geschieden.
 
-Standard-Streitwerte im Bereich Familien-, Kindschafts- und Versorgungsausgleichsrecht:
+BEGRÜNDUNG:
 
-- Skizze: Streitwert grob abschaetzen (z.B. Hauptforderung, ggf. + Zinsen, Nebenforderungen).
-- RVG-Pauschalrechnung (Berechnungstool im Plugin) oder Stundenhonorarvereinbarung.
-- Beratungshilfe-/Prozesskostenhilfe-Antrag prüfen, wenn wirtschaftlich angezeigt.
-- Vorschussanforderung nach Paragraf 9 RVG.
+I. Sachverhalt
+Die Beteiligten haben sich am [Datum] getrennt. Seit diesem Zeitpunkt führen
+sie keine eheliche Lebensgemeinschaft mehr (Paragraf 1567 BGB). Das Trennungsjahr
+gemäß Paragraf 1565 Abs. 2 BGB ist abgelaufen. Beide Ehegatten beantragen die
+Scheidung (Paragraf 1566 Abs. 1 BGB).
 
-### 5. Strategie-Erstskizze
+II. Zerrüttung
+Die Ehe der Beteiligten ist gemäß Paragraf 1565 Abs. 1 BGB gescheitert. Die Vermutung
+des Paragraf 1566 Abs. 1 BGB greift ein: Die Beteiligten leben seit mehr als einem Jahr
+getrennt und beantragen beide die Scheidung.
 
-Drei Weichen am Ende des Erstgespraechs:
+III. Versorgungsausgleich
+Es wird beantragt, den Versorgungsausgleich von Amts wegen durchzuführen
+(Paragraf 137 Abs. 2 Nr. 1 FamFG, Paragrafen 1 ff. VersAusglG). Die Beteiligten werden die
+erforderlichen Formulare (Fragebogen des Gerichts) unverzüglich ausfüllen.
 
-- **Mandat annehmen:** vollstaendig (Prüfung + Schriftsatz) oder begrenzt (nur Prüfung/Gutachten).
-- **Verweisen:** wenn Spezialgebiet ausserhalb der Fachanwaltschaft, oertlich unzuständig oder Konflikt.
-- **Ablehnen:** offensichtlich aussichtslos, GwG-Hit, Bauchgefuehl-Vorsicht.
+[Alternativ: Die Beteiligten haben den Versorgungsausgleich notariell ausgeschlossen
+(Anlage: Notarielle Vereinbarung vom [Datum], UR-Nr. [X], Notar [Name], [Ort]).
+Es wird beantragt, gemäß Paragraf 6 VersAusglG von der Durchführung des Versorgungsausgleichs
+abzusehen.]
 
-## Pflicht-Output am Ende
+IV. Verfahrenswert
+Der Verfahrenswert berechnet sich gemäß Paragraf 43 FamGKG:
+Monatliches Nettoeinkommen AS: EUR [X]; Ag: EUR [Y]; Summe: EUR [Z].
+Dreifacher Betrag: EUR [3 × Z].
 
-1. **Mandatsbogen** mit Beteiligten, Konflikt-Check, GwG-Status, Streitwert.
-2. **Frist-Liste** (Sofortfristen, Verjährung, Ausschlussfristen, Beweisanforderungs-Fristen).
-3. **Anlagenverzeichnis** des uebergebenen Datenraums (Stand erstes Sortieren).
-4. **Naechster-Schritt-Plan:** binnen 24/48/72 h, Owner, Output.
-5. **Honorarvereinbarung** unterschrieben oder Vorbehalt notiert.
+[Ort, Datum]
+Rechtsanwalt/Rechtsanwältin [Name]
 
-## Relevante Rechtsgrundlagen und Standards
+Anlagen:
+- Heiratsurkunde
+- ggf. Nachweis Trennungsdatum
+- ggf. Notarielle Vereinbarung (VA-Ausschluss)
+- ggf. VKH-Antrag und Erklärung über persönliche und wirtschaftliche Verhältnisse
+```
 
-- BORA, BRAO, FAO für Fachanwaltschaft Familien-, Kindschafts- und Versorgungsausgleichsrecht.
-- GwG, GwGMeldV, Identifizierungsleitfaden BRAK.
-- Paragrafen 1297 ff. BGB, FamFG, VersAusglG, UVG, GewSchG, IntFamRVG (für fachliche Erstpruefung).
-- DSGVO und BDSG für den Umgang mit Mandantendaten (Art. 6 DSGVO als Rechtsgrundlage, Art. 9 ggf. Gesundheitsdaten).
+### Einseitiger Scheidungsantrag (3 Jahre Trennung)
 
-## Typische Fehler im Erstgespraech
+```
+An das Amtsgericht – Familiengericht – [Ort]
 
-- Frist uebersehen, weil Mandantin sie nicht selber genannt hat (immer aus jedem Schreiben Frist herausziehen).
-- Konflikt-Check nur nach Personennamen, nicht nach Sachzusammenhang (gleiche Liegenschaft, gleicher Sachverhalt).
-- Vollmachtsumfang unklar -> später Streit mit Mandantin über Befugnisse.
-- Honorarvereinbarung muendlich -> Beweisnot bei Streitwert-/Honorar-Streit.
-- GwG: kein Lichtbildausweis erfasst, kein Aktenvermerk über Risikobewertung.
+SCHEIDUNGSANTRAG
 
-## Praxis-Checkliste
+In der Familiensache [...]
 
-- [ ] Personalien und Rolle aller Beteiligten erfasst
-- [ ] Konflikt-Check durchgefuehrt
-- [ ] GwG: Identifizierung + Risikobewertung notiert
-- [ ] Allgemeine Vollmacht unterschrieben
-- [ ] Speziale Vollmacht / Entbindungserklaerung (wo noetig) unterschrieben
-- [ ] Streitwert geschaetzt
-- [ ] Honorarvereinbarung unterschrieben oder ausdruecklich auf RVG verwiesen
-- [ ] Fristenliste angelegt und in Kalender eingetragen
-- [ ] Mandatsbogen vollstaendig
-- [ ] Naechster-Schritt-Plan dem Mandanten kommuniziert (E-Mail-Zusammenfassung)
+beantrage ich namens des/der Antragstellers/in:
 
-## Konkrete Praxis-Konstellationen
+Die am [Datum] vor dem Standesamt [Ort] geschlossene Ehe der Beteiligten
+wird geschieden.
 
-### Konstellation A: Eilbeduerftigkeit
+BEGRÜNDUNG:
 
-Mandantin kommt am Donnerstag, Frist laeuft am Montag (Klage- oder Widerspruchsfrist im Bereich Familien-, Kindschafts- und Versorgungsausgleichsrecht). Handlungs-Sequenz:
+I. Sachverhalt
+Die Beteiligten leben seit dem [Datum] getrennt, mithin seit mehr als drei Jahren.
 
-1. Sofort-Vollmacht und Sofort-Akteneinsicht (per beA, ELSTER, Behördenportal).
-2. Antrag auf Wiedereinsetzung (Paragraf 233 ZPO, Paragraf 60 VwGO, Paragraf 110 AO) als Reserve dokumentieren.
-3. Spaeteste-Stunde-Versand-Plan: beA bevorzugt, mit qualifizierter Signatur und Empfangsbekenntnis.
-4. Honorarvereinbarung NICHT auf Eilzuschlag verzichten - aber transparent kommunizieren.
+II. Zerrüttung
+Die unwiderlegliche Vermutung des Paragraf 1566 Abs. 2 BGB greift ein: Bei dreijähriger
+Trennung gilt die Ehe als unwiderlegbar gescheitert, auch wenn der Antragsgegner/
+die Antragsgegnerin der Scheidung nicht zustimmt.
 
-### Konstellation B: Komplexer Sachverhalt, Datenraum unsortiert
+III. Härteklausel
+Anhaltspunkte für eine Scheidungsversagung nach Paragraf 1568 BGB liegen nicht vor.
+Gemeinsame minderjährige Kinder existieren [nicht / deren Belange wurden gesondert
+geregelt, s. Anlage]. Eine ungewöhnliche Härte für den anderen Ehegatten ist
+nicht dargelegt.
 
-Mandant uebergibt 200+ Dateien (PDF-Scans, E-Mails, Excel-Listen). Vor jeder fachlichen Bewertung:
+[...]
 
-1. Datenraum-Index in Excel: Datum, Absender, Empfaenger, Aktenzeichen, kurze Inhaltszeile.
-2. Chronologischer Verlauf als Zeitstrahl - Spielraum für Verjährungs- und Ausschlussfristen identifizieren.
-3. Loecher im Datenraum gezielt anfordern (Mandantenfragen-Katalog).
+[Ort, Datum]
+Rechtsanwalt/Rechtsanwältin [Name]
+```
 
-### Konstellation C: Interessenkonflikt-Naehe
+### Härtefall-Scheidungsantrag (Paragraf 1565 Abs. 2 BGB)
 
-Frueheres Mandat mit derselben Gegnerin oder gleichem Sachzusammenhang. Prüfung:
+```
+An das Amtsgericht – Familiengericht – [Ort]
 
-1. Paragraf 43a Abs. 4 BRAO und Paragraf 3 BORA - Sachzusammenhang, nicht nur Personenidentitaet.
-2. Einwilligung beider Mandanten in Textform (mit konkreter Beschreibung).
-3. Bei Zweifel: Mandat ablehnen und an Kanzleikollegium ueberweisen.
+SCHEIDUNGSANTRAG IM HÄRTEFALL
 
-## Mandanten-Erwartungsmanagement
+In der Familiensache [...]
 
-- Realistische Erfolgs- und Kostenprognose (nicht "Wir gewinnen sicher").
-- Verfahrensdauer im Bereich Familien-, Kindschafts- und Versorgungsausgleichsrecht: Erfahrungswerte nach Instanz.
-- Vergleichschance vs. streitiges Urteil als Option offen halten.
-- Schriftliche Zusammenfassung des Erstgespraechs binnen 48 h.
+beantrage ich namens des/der Antragstellers/in:
 
-## Honorarvereinbarung - Best Practices
+1. Die am [Datum] vor dem Standesamt [Ort] geschlossene Ehe der Beteiligten
+   wird geschieden.
+2. Es wird festgestellt, dass das Trennungsjahr gemäß Paragraf 1565 Abs. 2 BGB nicht
+   abgewartet werden muss.
 
-- RVG-Basis als Default, Stundenhonorar nur mit gesondertem Hinweis nach Paragraf 3a RVG.
-- Erfolgshonorar nur in den engen Grenzen Paragraf 4a RVG.
-- Vorschuss in Höhe der voraussichtlichen 1. Instanz.
-- Klarstellung: Auslagen-Pauschale, USt, Reisekosten, Sachverstaendigenkosten gesondert.
-- Bei PKH/Beratungshilfe-Mandant: schriftliche Belehrung, dass eigene Beitraege möglich sind.
+BEGRÜNDUNG:
 
-## Mandatsbogen-Muster (Mindestinhalt)
+I. Härteklausel Paragraf 1565 Abs. 2 BGB
+Dem Antragsteller/der Antragstellerin ist die Fortsetzung der Ehe aus folgenden
+Gründen nicht zuzumuten:
 
-- Mandant (Name, Geburtsdatum, Anschrift, Telefon, E-Mail)
-- Gegner (Name, Anschrift, ggf. anwaltliche Vertretung)
-- Kurzbeschreibung Sachverhalt (5-10 Saetze)
-- Ziel des Mandats (eine Zeile)
-- Strittige Fragen (bullet)
-- Geprueft: Konflikt - GwG - Vollmacht
-- Streitwert (Schaetzung)
-- Honorarvereinbarung (RVG/Stunde/Pauschale)
-- Frist-Liste
-- Aktenanlage Datum
-- Naechster-Schritt
+[Schilderung der Härtefallumstände, z. B.: Der Antragsgegner/die Antragsgegnerin
+hat am [Datum] körperliche Gewalt gegen den/die Antragsteller/in ausgeübt.
+Es liegt ein Strafanzeigenprotokoll der Polizeiinspektion [X] vom [Datum] vor.
+Eine einstweilige Schutzanordnung gemäß Paragraf 1 GewSchG wurde vom Amtsgericht [X]
+am [Datum] erlassen (Az. [X]).
 
-## Cross-Refs
+Rechtsprechung live prüfen: Keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über amtliche oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
+Gewalt die Unzumutbarkeit der Ehefortführung begründet und eine Scheidung
+vor Ablauf des Trennungsjahres rechtfertigt.]
 
-- `vergleichsverhandlung-strategie` (im selben Plugin) für den Fall, dass aussergerichtliche Loesung angestrebt wird.
-- `schriftsatzkern-substantiierung` (im selben Plugin) für den Schriftsatzaufbau, wenn Klage/Widerspruch eingereicht wird.
-- Kanzlei-Allgemein-Plugin `kanzlei-allgemein` für Konflikt-, GwG- und PEP-Prüfroutinen.
+[Ort, Datum]
+Rechtsanwalt/Rechtsanwältin [Name]
 
-> Quellenregel: Entscheidungen nur nach Prüfung einer amtlichen oder frei zugänglichen Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage ausgeben.
+Anlagen:
+- Polizeibericht vom [Datum]
+- Beschluss einstweilige Schutzanordnung vom [Datum]
+- ärztliche Atteste (Verletzungsdokumentation)
+```
+
+### VKH-Antrag
+
+```
+An das Amtsgericht – Familiengericht – [Ort]
+
+ANTRAG AUF VERFAHRENSKOSTENHILFE
+
+In der Familiensache [...]
+
+beantragen wir für den/die Antragsteller/in die Bewilligung von
+Verfahrenskostenhilfe ohne Ratenzahlungsanordnung (Paragraf 76 FamFG iVm Paragraf 115 ZPO)
+und beiordnen Rechtsanwalt/Rechtsanwältin [Name] ohne Aufzahlung (Paragraf 121 ZPO).
+
+Anlage: Erklärung über persönliche und wirtschaftliche Verhältnisse (amtl. Vordruck)
+
+[Ort, Datum]
+Rechtsanwalt/Rechtsanwältin [Name]
+```
+
+--- vor Versand klaeren ---
+1. Welches Verhandlungsziel hat der Mandant? [Bestand / Abfindung / Reputation / Schnelle Loesung]
+2. Welche Kompromisslinien sind absolut? [Mindestabfindung / Freistellung / Zeugnisformulierung]
+3. Sind Anschlusswege erwuenscht? [Mediation / Direktgespraech / Settlement vor Klageerhebung]
+
+## Beweislast
+
+| Beweisthema | Beweislast | Beweismittel |
+|------------|-----------|--------------|
+| Trennungsdatum (streitig) | Antragsteller | Auszugsnachweis, Ummeldung, Kontoauszüge, Zeugenaussagen, E-Mails |
+| Scheitern der Ehe bei < 1 Jahr Trennung | Antragsteller | Konkrete Zerrüttungstatsachen, ärztliche Atteste, Strafanzeigen (Paragraf 1565 Abs. 1 BGB) |
+| Härteklausel Paragraf 1565 Abs. 2 BGB | Antragsteller | Polizeiberichte, GewSchG-Beschluss, Atteste, Zeugen |
+| Härteklausel Versagung Paragraf 1568 BGB | Antragsgegner | Nachweis außergewöhnlicher Umstände; praktisch sehr selten erfolgreich |
+| Versorgungsanrechte | Versorgungsträger (Auskunftspflicht Paragraf 220 FamFG) | Amtliche Auskünfte der Rentenkasse, bAV-Anbieter etc. |
+| Nettoeinkommen für Verfahrenswert | Beide Ehegatten (Paragraf 43 FamGKG) | Gehaltsabrechnungen, Steuerbescheide |
+
+## Fristen
+
+| Frist | Inhalt | Norm |
+|-------|--------|------|
+| 1 Jahr | Mindesttrennungszeit vor einvernehmlicher Scheidung | Paragraf 1566 Abs. 1 BGB |
+| 3 Jahre | Mindesttrennungszeit bei einseitiger Scheidung | Paragraf 1566 Abs. 2 BGB |
+| 0 Tage | Härteklausel-Scheidung möglich ab Trennung bei Unzumutbarkeit | Paragraf 1565 Abs. 2 BGB |
+| 1 Monat | Beschwerde gegen Scheidungsbeschluss | Paragraf 63 FamFG |
+| 2 Wochen | Rechtskraftaufschub: Scheidung wird rechtskräftig 2 Wochen nach Beschluss (kein Rechtsmittel) | Paragraf 116 Abs. 3 FamFG |
+| 3 Jahre | Verjährung Zugewinnausgleichsanspruch ab Rechtskraft der Scheidung | Paragraf 1378 Abs. 4 BGB |
+| 1 Jahr | Ausschlussfrist für Antrag auf nachehelichen Unterhalt (Paragraf 1585c) nach Rechtskraft | Prüfen, ob Anschlussvereinbarung nötig |
+
+## Gegenargumente und Reaktion
+
+| Gegenargument | Herkunft | Reaktion |
+|--------------|---------|----------|
+| "Trennungsjahr ist noch nicht voll" | Antragsgegner | Trennungsdatum sorgfältig belegen; ggf. Härtefall Paragraf 1565 Abs. 2 BGB prüfen |
+| "Ehe ist nicht gescheitert — ich will versöhnen" | Antragsgegner | Bei < 1 Jahr Trennung: Prüfung Paragraf 1565 Abs. 1 BGB erforderlich; nach 3 Jahren: Paragraf 1566 Abs. 2 BGB greift unwiderleglich |
+| "Härteklausel Paragraf 1568 BGB: Scheidung schadet den Kindern" | Antragsgegner | Extrem hohe Hürde; BVerfG: Versagung nur bei außergewöhnlichen Umständen; reiner Kindeswunsch nicht ausreichend |
+| "Versorgungsausgleich soll ausgeschlossen werden" | Mandant | Nur notariell oder gerichtlich möglich (Paragraf 6 VersAusglG); anwaltliche Vereinbarung reicht nicht |
+| "Ich bekomme kein Anwalt, zu teuer" | Mandant | VKH Paragraf 76 FamFG; Rechtsschutzversicherung prüfen |
+| "Abtrennung Versorgungsausgleich verlangt" | Antragsgegner | Nur bei unangemessener Verzögerung (Paragraf 142 FamFG); Auskunftspflicht der Versorgungsträger muss erfüllt sein |
+| "Keine Zuständigkeit des deutschen Gerichts" | Antragsgegner | Art. 17 EGBGB + Brüssel IIb-VO (EU) prüfen; Paragraf 98 FamFG bei Ausländern mit gewöhnlichem Aufenthalt in Deutschland |
+
+## Streitwert und Kosten
+
+**Verfahrenswert Ehescheidung (Paragraf 43 FamGKG):**
+3 × (monatliches Nettoeinkommen beider Ehegatten zusammen), mindestens EUR 3.000.
+Beispiel: AS: EUR 3.000 netto/Monat + Ag: EUR 2.500 netto/Monat = EUR 5.500 × 3 = EUR 16.500 Verfahrenswert.
+
+**Gerichtsgebühren (GKG/FamGKG):**
+Aus Verfahrenswert EUR 16.500: Gerichtsgebühr 2.0 (Nr. 1110 KV FamGKG) = ca. EUR 486.
+Bei einvernehmlicher Scheidung Ermäßigung möglich.
+
+**Verfahrenswert Versorgungsausgleich (Paragraf 48 FamGKG):**
+10 % des Dreifachen der monatlichen Nettoeinkommen je auszugleichendem Anrecht.
+Für 2 Anrechte à EUR 16.500: EUR 1.650 × 2 = EUR 3.300 Gesamtzuschlag.
+
+**Anwaltsgebühren (RVG, vereinfacht):**
+- Verfahrensgebühr 1.3 VV RVG aus EUR 16.500 = ca. EUR 840
+- Terminsgebühr 1.2 VV RVG = ca. EUR 775
+- ggf. Einigungsgebühr aus Folgesachen
+- Jeder Ehegatte trägt seine Anwaltskosten; Gerichtskosten werden häufig geteilt.
+
+**VKH:** Bewilligungsfähig bei Einkommen unter Pfändungsfreigrenze; Anwaltszwang macht VKH praktisch unerlässlich.
+
+## Strategische Empfehlung
+
+| Situation | Empfehlung | Begründung |
+|-----------|------------|-----------|
+| Einvernehmliche Scheidung, Trennungsjahr abgelaufen | Scheidungsfolgenvereinbarung notariell vorab; dann gemeinsamer Antrag Paragraf 1566 Abs. 1 BGB | Günstigste und schnellste Variante; ein Anwalt für AS |
+| Streitige Scheidung, < 3 Jahre Trennung | Trennungsdatum minutiös dokumentieren; auf Jahrestag warten; ggf. VA-Ausschluss verhandeln | Verfahrensrisiko bei Streit über Trennungsdatum minimieren |
+| Streitige Scheidung, > 3 Jahre Trennung | Paragraf 1566 Abs. 2 BGB: Sofortige Klage möglich; Paragraf 1568 BGB-Einwand des Ag. abwehren | Antragsgegner kann Scheidung nicht länger verhindern |
+| Häusliche Gewalt / akute Gefährdung | Gleichzeitig: GewSchG-Antrag + Härteklausel Paragraf 1565 Abs. 2 BGB + einstweilige Anordnung VA | Schutz geht vor Verfahrensgeschwindigkeit |
+| Komplexer VA (bAV, Beamtenpension, Auslandsanrechte) | VA frühzeitig mit Versorgungsträgern klären; ggf. Sachverständiger; Abtrennung Paragraf 142 FamFG nur als Notlösung | VA-Fehler führen zu teuren Abänderungsverfahren |
+| Mandant mit geringem Einkommen | VKH-Antrag gleichzeitig; Rechtsschutzversicherung prüfen | Paragraf 76 FamFG; Zugang zum Anwaltszwang-Verfahren sichern |
+
+## Anschluss-Skills
+
+- `unterhalt-berechnen-und-gegenrechnen` — Kindes- und Ehegattenunterhalt nach der Scheidung
+- `fachanwalt-familienrecht-mediation-156-famfg-cochemer` — Mediationsalternative bei Hochkonflikt-Trennungen
+- `fachanwalt-familienrecht-umgangsregelung-mustervorlagen` — Sorge- und Umgangsregelungen im Scheidungsverbund
+- `fachanwalt-familienrecht-sbgg-personenstandswechsel-folgen` — Personenstandsänderungen im Kontext der Scheidung
+
+## Quellen
+
+- Paragraf 1565 BGB: https://www.gesetze-im-internet.de/bgb/__1565.html
+- Paragraf 1566 BGB: https://www.gesetze-im-internet.de/bgb/__1566.html
+- Paragraf 133 FamFG: https://www.gesetze-im-internet.de/famfg/__133.html
+- Paragraf 137 FamFG (Verbund): https://www.gesetze-im-internet.de/famfg/__137.html
+- Paragraf 43 FamGKG: https://www.gesetze-im-internet.de/famgkg/__43.html
+- VersAusglG: https://www.gesetze-im-internet.de/versausglg/
+- BGH XII ZB 277/12: https://juris.bundesgerichtshof.de/cgi-bin/rechtsprechung/document.py?Gericht=bgh&Art=en&az=XII%20ZB%20277/12
+- BGH XII ZB 607/15: https://juris.bundesgerichtshof.de/cgi-bin/rechtsprechung/document.py?Gericht=bgh&Art=en&az=XII%20ZB%20607/15
 
 ---
 

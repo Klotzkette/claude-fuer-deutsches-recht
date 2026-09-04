@@ -24,7 +24,7 @@ description: "Für /anpassen: ordnet Norm, Beweislast und Gegenargument; Ergebni
 1. **Konfiguration lesen.** CLAUDE.md und unternehmens-profil.md lesen. Falls CLAUDE.md nicht
  existiert oder noch `[PLATZHALTER]`-Werte enthält:
 
- > Sie haben noch kein Setup durchgeführt. Führen Sie zuerst `/ki-governance:ki-governance-kaltstart-interview`
+ > Sie haben noch kein Setup durchgeführt. Führen Sie zuerst `/ki-governance:kaltstart-interview`
  > aus – anpassen dient der Anpassung eines bereits vorhandenen Profils.
 
 2. **Anpassbare Karte anzeigen.** Auflisten, was im Profil steht, gruppiert, mit
@@ -81,7 +81,7 @@ description: "Für /anpassen: ordnet Norm, Beweislast und Gegenargument; Ergebni
 6. **Abschluss.**
 
  > Erledigt. Ihr nächstes Ergebnis wird die Änderung widerspiegeln. Noch etwas? Sie können
- > `/ki-governance:ki-governance-anpassen` jederzeit ausführen.
+ > `/ki-governance:anpassen` jederzeit ausführen.
 
 ## Quellen und Zitierweise
 

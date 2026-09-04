@@ -1,6 +1,6 @@
 # legistik-werkstatt
 
-**254 Skills** · Stand `v442.0.1`
+**254 Skills** · Stand `v443.0.0`
 
 [Repository-Start](../README.md) · [Skill-Gesamtübersicht](../SKILLS.md) · [Plugin-README](../legistik-werkstatt/README.md) · [Download-Index](../ASSET_INDEX.md) · [Testakten](../testakten/README.md)
 

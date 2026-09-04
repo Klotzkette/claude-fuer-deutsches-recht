@@ -3,6 +3,12 @@ name: fachanwalt-gewrechts-ki-vo-50-genai
 description: "Für Fachanwalt Gewrechts Ki Vo 50 Genai: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
+# Transparenz und Kennzeichnung generativer KI-Inhalte prüfen
+
+Lies zuerst die konkreten Inhalte, ihre Veröffentlichungskontexte, die Systembeschreibung sowie vorhandene Kennzeichnungs-, Bearbeitungs- und Freigabenachweise. Ordne Rolle, Ausgabeart und geplanten Einsatzzeitpunkt je Anwendungsfall zu. Liefere eine begründete Prüfmatrix zu Transparenz und Kennzeichnung mit Belegstatus und konkreten Umsetzungsschritten; bei einer Abmahnung erstelle stattdessen den beauftragten, ausformulierten Reaktionsentwurf.
+
+Vorrang für die Bearbeitung: Alle nachfolgenden Mandanten-, Triage- und Versandfragen sind interne Prüfpunkte, kein Fragekatalog. Werte zuerst das vorhandene Material aus; frage nur nach noch fehlenden, entscheidenden Angaben. Bereits Beantwortetes nicht erneut erheben. Erstelle den möglichen Entwurf mit klar markierten Lücken; fehlende entscheidende Angaben nicht durch Annahmen ersetzen.
+
 ## Mandantenfragen beim Kaltstart
 
 1. Welches KI-System wird eingesetzt (ChatGPT, Midjourney, Sora, DALL-E, Stable Diffusion, Runway, unternehmensinternes LLM)?

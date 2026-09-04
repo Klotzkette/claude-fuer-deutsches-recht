@@ -1,3 +1,18 @@
+# v443.0.0 - Sprechende Fachaufgaben und gezielte Vertiefung
+
+- Der direkte Auswahlbestand sinkt von 22729 auf 22424 Skills. Arbeitszeugnisgenerator: 41 auf 5; AGB-Prüfung: 304 auf 273; Familienrecht: 143 auf 107; Erbrecht: 86 auf 31; Großkanzlei M&A: 236 auf 229; Preußisches Allgemeines Landrecht: 209 auf 69. Zusammenhängende Aufgaben haben sprechende Namen; benötigte Detailprüfungen bleiben bedarfsgeladen erreichbar.
+- Alle sechs Bereiche erhalten individuell überarbeitete Werkstatt- und Schnellstart-Prompts. Vorhandene Unterlagen und der konkrete Auftrag bestimmen den Einstieg. Entwurf, Gegenrechnung, Rechtsbehelf und bloße Textkorrektur werden nicht durch ein einheitliches Standardprodukt ersetzt.
+- Arbeitszeugnisse unterscheiden Zeugnisart, tatsächliche Tätigkeit, belegte Bewertung, freiwilligen Abschluss, Berichtigung und Erteilungsform. Die Grenzen des BAG-Beschlusses 8 AZB 25/25 vom 7. Mai 2026 und des Teilurteils 2 AZR 96/24 (B) sind dokumentiert. Leistungsformeln bilden keine automatische Einzelwort-Notenskala.
+- Familienrechtliche Rechnungen bleiben monats- und belegbezogen; Versorgungsausgleich trennt Ehezeit, Trägerauskunft, Teilungsform, Zielversorgung und Rechtsbehelf. Im Erbrecht bleiben Erbfolge, Pflichtteil, Ergänzung, Auskunft, Nachlassabwicklung, Steuerfragen und Verfahren eigenständig bearbeitbar.
+- AGB-Aufgaben trennen Kontrollmaßstab, Klauselausfall, Haftungsarchitektur, Rechtswahl, Schiedsvereinbarung und tatsächliche Zustimmung zu Vertragsänderungen. Im Unternehmenskauf werden Bankzustimmungen nicht mehr mit Organbeschlüssen verwechselt; ein Sanierungsgewinn führt nicht ohne entsprechenden Auftrag zu einem Auskunftsantrag.
+- Historische Rechtsaufgaben trennen Textzeugen, Geltungszeit und heutige Anschlussfragen. Bekannte Fehler bei Titelzuordnung, Volljährigkeitsgrenze und historischen Statusregeln wurden auch in den übernommenen Referenztexten korrigiert. Nicht verifizierte Altangaben bleiben ausdrücklich als prüfbedürftig bezeichnet.
+- Fehlende Hauptüberschriften und unklare Anfänge wurden gezielt ergänzt. Über tausend interne Aufrufe mit doppelt vorangestelltem Plugin-Namen führen nun auf das tatsächlich vorhandene Ziel. Das Umstellungsregister dokumentiert geänderte Namen, ohne technische Weiterleitungen vorzutäuschen.
+- Neue Regressionen prüfen Umstellungsziele, erreichbare Vertiefungen, Aufrufnamen, leere Altordner, fachliche Ausgabezuordnung sowie die Fehlerweitergabe der offiziellen Manifestprüfung. Verschachtelte Pluginquellen werden vollständig berücksichtigt. README-Verzeichnisse und Markdown-Downloads sind mit dem neuen Bestand abgeglichen.
+- Die Umlautnormalisierung schützt auch relative Markdown-Dateinamen ohne Verzeichnisanteil. Im Zeugnisgenerator ersetzt die Fachroutenergänzung einen Erstellungsauftrag nicht mehr durch ein Fachvotum; die reduzierte Aufgabenstruktur benötigt keine künstlichen Füllrouten. Die veraltete Erbrechts-Auswahlkarte wurde durch eine vollständige, gezielt ladbare Fachübersicht ersetzt.
+- Prüfungsumfang: Auswahl- und Strukturprüfungen gelten für den gesamten Marketplace; die vertiefte fachliche Überarbeitung betrifft die sechs genannten Bereiche. Quellenstatus und Grenzen sind ausgewiesen. Keine vollständige Neuverifikation sämtlicher Rechtsaussagen und keine Garantie einer bestimmten Antwortzeit oder automatischen Auswahl in jeder Oberfläche. Aktenstücke bleiben unverändert.
+
+---
+
 # v442.0.1 - Klarere Verzeichnisse und verlässliche Downloadwege
 
 - Hauptseite, Plugin-Einstiege und Skill-Detailseiten unterscheiden Installation, Quellbestand, Fachrouter und eigenständige Markdown-Prompts. Die fünf vollständigen Register stehen unmittelbar am Seitenanfang; deutsche und englische Erklärungen führen zum jeweils passenden Dateiformat.

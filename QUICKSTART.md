@@ -106,4 +106,6 @@ Der erste Antwortblock soll bereits Ergebnisrichtung, Fundstelle, Frist oder Ris
 
 Die Skill-Liste zeigt den Quellbestand. Einige Spezialserien werden im installierten Paket über einen Fachrouter geladen und erscheinen nicht einzeln im Menü. Nutze in diesem Fall den zugehörigen Router oder lade für den manuellen Einsatz den Skill samt benötigten Referenzen herunter.
 
+Eine kleinere Auswahl bedeutet nicht weniger Fachwissen: Zusammengehörige Arbeitsschritte werden über eine sprechende Hauptaufgabe geöffnet; Spezialfragen stehen in gezielt verlinkten Vertiefungen. Wähle nach dem gewünschten Ergebnis, etwa „Unterhalt berechnen“ oder „Organbeschlüsse vorbereiten“, nicht nach jedem einzelnen Zwischenschritt. Umbenannte und zusammengeführte Einstiege sind in der [Umstellungsübersicht](./docs/skill-auswahl-und-umstellungen.md) nachvollziehbar. Alte direkte Aufrufnamen müssen nach einem Plugin-Update gegebenenfalls ersetzt werden.
+
 Ausführliche Hinweise zu ZIP-Auswahl, Mac-Downloads und Organisations-Marketplaces stehen in [Installation in einfach](./INSTALLATION_EINFACH.md).

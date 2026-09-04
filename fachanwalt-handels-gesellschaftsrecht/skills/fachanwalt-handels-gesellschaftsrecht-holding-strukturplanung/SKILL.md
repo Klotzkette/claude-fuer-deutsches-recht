@@ -3,6 +3,12 @@ name: fachanwalt-handels-gesellschaftsrecht-holding-strukturplanung
 description: "Für Fachanwalt Handels Gesellschaftsrecht Holding Strukturplanung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
+# Holding-Strukturen für Beteiligungen, Exit und Nachfolge vergleichen
+
+Lies zuerst Beteiligungsübersicht, Gesellschaftsverträge, Registerunterlagen, vorhandene Bewertungen und die dokumentierten Exit- oder Nachfolgeziele. Vergleiche darauf bezogen die geeigneten Strukturvarianten. Liefere eine ausformulierte Entscheidungsvorlage mit Ausgangs- und Zielstruktur, Umsetzungsschritten, Kostenannahmen und ausdrücklich offenen steuerlichen Prüfpunkten; Vertragsbausteine nur für die tatsächlich ausgewählte Gestaltung ausarbeiten.
+
+Vorrang für die Bearbeitung: Alle nachfolgenden Mandanten-, Triage- und Versandfragen sind interne Prüfpunkte, kein Fragekatalog. Werte zuerst das vorhandene Material aus; frage nur nach noch fehlenden, entscheidenden Angaben. Bereits Beantwortetes nicht erneut erheben. Erstelle den möglichen Entwurf mit klar markierten Lücken; fehlende entscheidende Angaben nicht durch Annahmen ersetzen.
+
 ## Mandantenfragen beim Kaltstart
 
 1. Wie ist die aktuelle Struktur — Einzelunternehmen, einfache GmbH, GmbH & Co. KG, AG?

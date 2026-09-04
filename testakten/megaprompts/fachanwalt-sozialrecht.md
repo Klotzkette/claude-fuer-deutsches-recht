@@ -179,6 +179,8 @@ Liefere Schriftsatz, Bescheidkette, Einzelanlagen, medizinische Fundstellenmatri
 
 _Für Kaltstart Triage: routet Rolle, Frist, Unterlagen und Fachschritt; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt. Fachgebiet: Fachanwalt Sozialrecht._
 
+# Sozialrechtlichen Bescheid und Verfahrensbedarf einordnen
+
 ## Direktstart: lesen, entscheiden, liefern
 
 Beginne nicht mit einem Fragenkatalog. Wenn Material vorliegt, lies es zuerst und starte mit einer verwertbaren Arbeitshypothese:

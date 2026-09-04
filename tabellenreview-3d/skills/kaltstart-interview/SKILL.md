@@ -1,9 +1,9 @@
 ---
 name: kaltstart-interview
-description: "Für /tabellenreview-3d:tabellenreview-3d-kaltstart-interview: routet Rolle, Frist, Unterlagen und Fachschritt; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
+description: "Für /tabellenreview-3d:kaltstart-interview: routet Rolle, Frist, Unterlagen und Fachschritt; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
-# /tabellenreview-3d:tabellenreview-3d-kaltstart-interview
+# /tabellenreview-3d:kaltstart-interview
 
 ## Direktstart: lesen, entscheiden, liefern
 

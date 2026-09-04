@@ -2516,6 +2516,7 @@ PROSE_REPLACEMENT_TRIE = build_replacement_trie(PROSE_REPLACEMENTS)
 
 MACHINE_TOKEN_PATTERN = re.compile(
     r"```[\s\S]*?```|~~~[\s\S]*?~~~|`[^`\n]+`|"
+    r"(?<=\]\()[^)\n]+|"
     r"https?://[^\s<>()]+|[A-Za-z0-9._%+-]+@[A-Za-z0-9.-]+\.[A-Za-z]{2,}|"
     r"(?<![\w])(?:~|\.\.?|)?/(?:[A-Za-z0-9._~%+-]+/?)+|"
     r"(?:[A-Za-z0-9._~-]+/)+[A-Za-z0-9._~-]+\.[A-Za-z0-9]{1,10}"
@@ -3284,7 +3285,9 @@ def collect_skill_material(plugin_dir: Path) -> list[dict[str, str]]:
     skill_dirs = [
         sd
         for sd in (plugin_dir / "skills").glob("*")
-        if sd.is_dir() and sd.name != "juristischer-argumentationskern"
+        if sd.is_dir()
+        and (sd / "SKILL.md").is_file()
+        and sd.name != "juristischer-argumentationskern"
     ]
     # Alle Skills liefern Titel und Beschreibung für Auswahl und Routing. Nur
     # bei den 80 fachlich höchst priorisierten Skills wird zusätzlich ein
@@ -4093,8 +4096,10 @@ def quick_grip(profile: ThemenProfil, field: str, detail: str) -> str:
             return "Rechtsnatur des Beirats, Bestellung, Kompetenz, tatsächliche Einflussnahme, Pflichtmaßstab, Anspruchsinhaber, Beschlusslage, Kausalität und Deckung getrennt prüfen"
         if "beirat" in hay and "vergütung" in hay:
             return "Satzungs- oder Vertragsgrundlage, zuständiges Organ, Beschluss, Leistungsbild, Umsatzsteuer, Interessenkonflikt, Fälligkeit und Offenlegung der Beiratsvergütung abstimmen"
-        if "verbindliche auskunft" in hay or "sanierungsgewinn" in hay:
+        if "verbindliche auskunft" in hay:
             return "genau bestimmten, noch nicht verwirklichten Sachverhalt, besondere steuerliche Rechtsfrage, erhebliches Interesse, Gebührenwert, Bindungsumfang und zeitliche Reihenfolge von Auskunft und Umsetzung nach Paragraf 89 AO sichern"
+        if "sanierungsgewinn" in hay:
+            return "Forderungsverzicht, Einlage und Debt-Equity-Swap nach ihrem tatsächlichen Rechtsgeschäft trennen; Steuerbilanz, mögliche Steuerbefreiung, Verlustverbrauch und Vertragsabbildung gesondert prüfen; eine verbindliche Auskunft nur bei entsprechendem Auftrag vorbereiten"
         if "bank" in hay and ("consent" in hay or "change-of-control" in hay):
             return "Change-of-Control-Tatbestand, betroffene Finanzierung, Zustimmungsadressat, Informationspaket, Waiver-Bedingung, Gebühr, Kündigungsfolge und Closing-Bedingung in einer Consent-Matrix verbinden"
         if "bidder" in hay or "vdr" in hay or "process letter" in hay:
@@ -4664,6 +4669,16 @@ def practice_route_output(
     """Leitet aus dem konkreten Fachthema ein passendes Lieferstück ab."""
 
     hay = title.lower()
+    if plugin_slug == "arbeitszeugnisgenerator":
+        if "berichtigen" in hay or "berichtigung" in hay or "prüfen" in hay:
+            return "begründete Änderungsfassung mit belegtem Mangel, konkretem Ersatztext und, soweit beauftragt, Aufforderung oder bestimmtem Antrag; Rechtsprüfung getrennt vom Zeugnistext"
+        if "abschluss" in hay or "schlussformel" in hay:
+            return "ausformulierter Zeugnisabschluss mit passendem Beendigungsbezug, Datum und Unterschriftsblock; Einwilligung, Signatur und frühere Zusagen gesondert prüfen"
+        if "leistung" in hay or "verhalten" in hay:
+            return "individuelle Leistungs- und Verhaltensabschnitte mit belegter Bewertung, stimmiger Gesamtformel und getrennt benannten offenen Tatsachen"
+        if "ausbildung" in hay or "praktikum" in hay:
+            return "vollständiger Ausbildungs- oder Praktikumszeugnisentwurf mit tatsächlichem Lern- und Tätigkeitsbild, Statusprüfung und nur den verlangten zulässigen Bewertungen"
+        return "der beauftragte Zeugnisentwurf oder konkret überarbeitete Zeugnisabschnitt in vollständigen Sätzen; Tatsachenlücken und rechtliche Hinweise außerhalb des Zeugnistextes"
     if plugin_slug == "gesellschaftsrecht-legal-english":
         if any(word in hay for word in ("anti-dilution", "fully diluted", "waterfall", "financial debt", "earn-out")):
             return "zweisprachige Berechnungsmatrix mit Definitionen, Eingabewerten, Zwischenschritten, Kontrollsumme, gesellschaftsrechtlicher Umsetzung und Mandantenhinweis"
@@ -4708,7 +4723,9 @@ def practice_route_output(
             return "BaFin-fähige Erlaubnis-, Registrierungs- und Auslagerungsmatrix mit Schwellenwerten, Geschäftsleiter- und Eigenmittelnachweisen, Funktionslandkarte, Vertragskontrollen, Antragsunterlagen und Zeitplan"
         if any(word in hay for word in ("antitrust", "gun jumping", "clean team", "fusionskontroll")):
             return "Clean-Team-Protokoll, Informationsklassenmatrix, Freigaberegeln, Vollzugsverbote und kartellrechtliche Eskalationsliste"
-        if any(word in hay for word in ("board", "consent", "resolution", "gremien")):
+        if "finanzierungszustimmung" in hay or ("bank" in hay and ("consent" in hay or "change" in hay)):
+            return "Consent-Matrix, Bankanschreiben und Waiver-Entwurf mit Klauselfundstelle, zuständigen Kreditgebern, Bedingungen und Closing-Nachweis"
+        if any(word in hay for word in ("board", "consent", "resolution", "gremien", "organbeschl")):
             return "beschlussfähige Gremienvorlage mit Kompetenz, Informationsgrundlage, Interessenkonflikt, Beschlusstext und Vollzugsauftrag"
         if any(word in hay for word in ("closing", "bible", "archiv", "vollzug")):
             return "Closing-Set mit Conditions-Precedent-Status, Deliverables, Unterschriften, Zahlungsnachweisen, Registervollzug und Abschlussindex"
@@ -4724,8 +4741,10 @@ def practice_route_output(
             return "vollzugsfähiger Nebenvertrag mit Servicekatalog, Leistungsniveau, Preis, Laufzeit, Daten- und IP-Regel, Haftung, Exit, Übergabe und offenen Punkten"
         if "deal-fristen" in hay or "cp-kalender" in hay:
             return "Deal-Kalender mit Pflicht, Vertragsfundstelle, Auslöser, Fälligkeit, Owner, Abhängigkeit, Status, Nachweis und Eskalationsdatum"
-        if "verbindliche auskunft" in hay or "sanierungsgewinn" in hay:
+        if "verbindliche auskunft" in hay:
             return "abstimmungsfähiger Auskunftsantrag mit nicht verwirklichtem Sachverhalt, konkreter Rechtsfrage, Rechtsauffassung, erheblichem Interesse, Gebührenwert, Anlagen und Umsetzungssperre"
+        if "sanierungsgewinn" in hay:
+            return "Steuerfolgenvermerk zur konkreten Sanierungsmaßnahme mit Bilanzwirkung, Voraussetzungen, Verlustverbrauch, Belegen und abgestimmter Vertragsreaktion"
     if profile.key == "sozialstatus":
         if any(word in hay for word in ("beitrag", "haftung", "bescheid")):
             return "Status- und Beitragsmatrix mit Zeitraum, Verfügungssatz, Berechnungszeile, Einwand, Beleg, Vollziehungsrisiko und Widerspruchs- oder Eilantrag"
@@ -6058,7 +6077,9 @@ def practice_route_fallback(profile: ThemenProfil, title: str, plugin_slug: str 
             return "Bestimme AIF- und KVG-Einordnung, Fondsvehikel, Anlegerkreis, Management- und Carry-Struktur, Anlagebedingungen, Vertrieb, Verwahrstelle, Auslagerungen, Genehmigungsbedarf und Reihenfolge der Gründungsdokumente"
         if any(word in hay for word in ("antitrust", "gun jumping", "clean team")):
             return "Trenne freigabefähige von wettbewerblich sensiblen Informationen, lege Clean-Team-Zugriffe, Aggregationsregeln, Protokollierung, Eskalation und Vollzugsgrenzen bis zur Freigabe fest"
-        if any(word in hay for word in ("board", "consent", "resolution")):
+        if "finanzierungszustimmung" in hay or ("bank" in hay and ("consent" in hay or "change" in hay)):
+            return "Prüfe Change-of-Control- und Mandatory-Prepayment-Klauseln, ermittle zuständige Kreditgeber und Mehrheiten und erstelle Consent Request, Waiver-Bedingungen, Gebühren- und Closing-Abhängigkeiten"
+        if any(word in hay for word in ("board", "consent", "resolution", "organbeschl")):
             return "Bestimme zuständiges Organ, Satzungs- und Geschäftsordnungsgrundlage, Informationsstand, Interessenkonflikte, Mehrheit, Beschlusstext, Unterschriftsweg und Vollzug"
         if any(word in hay for word in ("closing", "bible", "archiv")):
             return "Gleiche Signing- und Closing-Verpflichtungen mit Conditions Precedent, Deliverables, Zahlungen, Unterschriften, Registerakten und abschließendem Transaktionsindex ab"
@@ -6076,8 +6097,10 @@ def practice_route_fallback(profile: ThemenProfil, title: str, plugin_slug: str 
             return "Ordne jede materielle Änderung nach Klausel, wirtschaftlicher Wirkung, Risikoverschiebung, Mandantenziel, Rückfallposition, Owner und Freigabestatus und formuliere die nächste Verhandlungsfassung"
         if has_route_term(hay, "ancillary", "tsa", "sla"):
             return "Baue Servicekatalog, Leistungsniveau, Preis, Laufzeit, Abhängigkeiten, Daten- und IP-Zugriff, Haftung, Exit und Übergabe für TSA, SLA und weitere Nebenverträge aus"
-        if "verbindliche auskunft" in hay or "sanierungsgewinn" in hay:
+        if "verbindliche auskunft" in hay:
             return "Fixiere den noch nicht verwirklichten Sachverhalt, die konkrete steuerliche Rechtsfrage, das erhebliche Interesse, den Gebührenwert, den beantragten Bindungsausspruch und die Umsetzung erst nach Auskunft"
+        if "sanierungsgewinn" in hay:
+            return "Ordne die konkrete Sanierungsmaßnahme nach Forderungsverzicht, Einlage oder Debt-Equity-Swap; trenne Bilanzwirkung, Steuerbefreiung, Verlustverbrauch und Vertragsfolge, ohne daraus automatisch einen Auskunftsantrag zu machen"
     if any(word in hay for word in ("erlaubnis", "genehmigung", "zulassung")):
         return enriched_route_fallback(
             profile,

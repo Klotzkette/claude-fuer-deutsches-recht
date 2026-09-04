@@ -1,71 +1,44 @@
 ---
 name: kaltstart-triage
-description: "Für AGB-Recht Kommandocenter: routet Rolle, Frist, Unterlagen und Fachschritt; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
+description: "Ordnet vorgelegte AGB, Vertragsfassungen und Korrespondenz einem konkreten Prüf-, Entwurfs-, Verhandlungs- oder Streitauftrag zu. Liefert einen belegten Erstbefund und führt nur in die für das Ergebnis benötigten Fachprüfungen."
 ---
 
-# AGB-Recht Kommandocenter
+# AGB-Auftrag klären und bearbeiten
 
-## Direktstart: lesen, entscheiden, liefern
+## 1. Zweck und Anwendungsfall
 
-Beginne nicht mit einem Fragenkatalog. Wenn Material vorliegt, lies es zuerst und starte mit einer verwertbaren Arbeitshypothese:
+Vorhandenes Material unmittelbar auswerten und das passende Arbeitsergebnis beginnen. Die Auswahl zwischen Prüfung, Entwurf, Verhandlung, Redline, Einführung neuer Bedingungen und Streitbearbeitung erfolgt aus Auftrag und Unterlagen, nicht durch einen vorgelagerten Fragenkatalog. Bei eindeutigem Fachproblem direkt den betreffenden Skill nutzen.
 
-- Frist oder Sofortrisiko.
-- erkannte Rolle, Zielrichtung und Verfahrensstand.
-- tragende Tatsachen aus dem Material.
-- bester nächster Arbeitsschritt mit direkt nutzbarem Output.
+## 2. Eingaben
 
-Frage höchstens zwei Punkte nach, und nur wenn ohne diese Antwort der nächste Schritt falsch oder riskant würde. Fehlt Material vollständig, verlange nicht allgemein alle Unterlagen, sondern nenne die drei wichtigsten Dokumente und arbeite mit sichtbaren Annahmen weiter.
+AGB, Vertrag, Anlagen, Versionen, Screenshots, Bestellablauf und Korrespondenz lesen. Rolle, Regelungsziel, Parteistatus, Vertragsart, Datum, Vertriebskanal und laufende Frist feststellen. Papier, Web, App, Kundenkonto, E-Mail und Portal nach ihrem tatsächlichen Einbeziehungs- und Nachweisablauf unterscheiden.
 
-Starte mit einem Arbeitsprodukt, nicht mit einer Inventarliste: Kurzvermerk, Fristenblatt, Prüfmatrix, Entwurf, Fragenliste oder Entscheidungsvorschlag. Routing ist nur Mittel zum Zweck. Wenn ein Fachskill eindeutig passt, arbeite unmittelbar in dessen Richtung weiter.
+Ohne Material genau eine gebündelte Frage zu den entscheidenden Lücken stellen und die drei wichtigsten fehlenden Unterlagen nennen. Mit ausdrücklich markierten Annahmen weiterarbeiten, soweit Frist, Zuständigkeit, Beweis oder Rechtsfolge dadurch nicht verfälscht werden.
 
-Arbeitsmodus: Liefere zuerst einen nutzbaren Zwischenstand in höchstens sieben Sätzen und dann den nächsten konkreten Schritt. Frage nur nach, wenn Frist, Zuständigkeit, Beweis, Betrag oder Rechtsfolge sonst nicht belastbar bestimmbar sind. Tabellen nur für Fristen, Belege, Beträge, Varianten oder Streitstoff.
+## 3. Ablauf
 
-## Auftrag
+3.1. Einen belegten Erstbefund in höchstens sieben Sätzen liefern: betroffene Klausel, Ziel, Tatsachengrundlage, Sofortrisiko und nächstes Produkt. Keine bloße Inventarliste voranstellen. Tabellen nur für echte Belege, Fristen, Beträge oder Varianten verwenden.
 
-Arbeite als hochpräziser, praxistauglicher Co-Pilot für deutsches AGB-Recht. Der Skill startet immer mit der Weichenstellung: **AGB prüfen**, **AGB entwerfen**, **AGB verhandeln**, **AGB redlinen**, **AGB-Rollout vorbereiten** oder **AGB-Streit/Abmahnung bearbeiten**.
+3.2. Für einen gesamten Bestand [AGB-Prüfung beginnen](../agb-pruefung-kaltstart/SKILL.md), [Klauselumfang erfassen](../klauselinventar-und-scope/SKILL.md) oder [Risiken priorisieren](../agb-risikoklassifizierung-ampel/SKILL.md) auswählen. Einbeziehung, Auslegung, Überraschung, Transparenz, Inhaltskontrolle und Rechtsfolge getrennt halten. Die Auslegungsregeln nach Verfahrensart und Regelungszusammenhang bestimmen.
 
-Ziel ist kein Lehrbuch, sondern ein verwendbares Arbeitsergebnis: Klauselampel, Redline, Ersatzklausel, Legal Note, Mandantenmail, Verhandlungsplaybook, Rolloutplan oder Prozessstrategie.
+3.3. Bei einer konkreten Klausel [Transparenz](../klauseltransparenz-pruefen/SKILL.md), [Inhalt und Verbote](../klauselinhalt-und-verbote-pruefen/SKILL.md) oder [Ausfallfolgen](../klauselausfall-und-vertragsluecke-pruefen/SKILL.md) prüfen. Keine parallelen Durchläufe derselben Generalklausel unter mehreren Namen starten.
 
-## Sofortstart
+3.4. Für einen neuen Gesamtbestand [AGB-Entwurf beginnen](../agb-entwurf-kaltstart/SKILL.md); für eine einzelne Regelung [Klauselvarianten entwerfen](../klauselvarianten-entwerfen/SKILL.md). Risikoprofil und Kundengruppe dort als Eingaben verwenden. [Klauselbibliothek](../klauselbibliothek-aufbau/SKILL.md) nur für Pflege, Freigabe und Wiederverwendung hinzunehmen. Eine Verhandlung oder Redline verbindet Originaltext, Änderung, Begründung und konkrete Rückfallposition.
 
-Wenn der Nutzer Dokumente hochlädt, behandle den Upload als Arbeitsauftrag. Beginne mit:
+3.5. Bei Online-Einbeziehung [Plattform und Checkout](../plattform-und-online-checkout/SKILL.md) oder [Clickwrap-Nachweise](../clickwrap-beweisakte/SKILL.md) wählen. [Shop-AGB](../ecommerce-shop-agb/SKILL.md) und [Marktplatzbedingungen](../marketplace-agb/SKILL.md) nach Geschäftsmodell getrennt bearbeiten. Vor Einführung neuer Bedingungen Einigungsweg und Freigabe klären; keine Mitteilungen ohne Auftrag versenden.
 
-| Punkt | Prüfung |
-| --- | --- |
-| Material | Welche AGB, Vertragsbedingungen, Screenshots, Versionen oder Anlagen liegen vor? |
-| Ziel | Prüfen, entwerfen, verhandeln, redlinen, rolloutfähig machen oder verteidigen? |
-| Rolle | Verwender, Kunde, Verbraucher, Unternehmer, Plattform, Händler, Verband, Prozessgegner? |
-| Kanal | Papier, Web, App, Checkout, Kundenkonto, E-Mail, Portal, Angebot, Rahmenvertrag? |
-| Rechtsstand | Vor tragenden Aussagen BGB §§ 305 bis 310 und UKlaG auf Gesetze im Internet live prüfen. |
-| Output | Klauselampel, Ersatzfassung, Redline-Kommentar, Memo, Playbook oder Mandantenkommunikation. |
+3.6. Im Streit [UKlaG-Unterlassung](../uklag-unterlassung-verbandsklage/SKILL.md), [Abmahnreaktion](../abmahnung-reagieren/SKILL.md), [Unterlassungserklärung ändern](../unterlassungserklaerung-modifizieren/SKILL.md) oder [Individualklage verteidigen](../individualklage-verteidigung/SKILL.md) anhand des tatsächlichen Auftrags wählen. Rückzahlung und kollektiv geltend gemachte Abhilfe nicht durch die Klauselprüfung ersetzen.
 
-## Workflow
+3.7. Normstand, offene Tatsachen, stärkste Gegenposition, Nachweise, Versionsstand und nächste Entscheidung beim Ergebnis dokumentieren. Bei Eilbedarf die konkrete Sicherungsmaßnahme zuerst benennen.
 
-1. Klausel zerlegen: einzelne Regelung, wirtschaftlicher Zweck, betroffene Partei, Vertragstyp.
-2. Anwendungsbereich: AGB-Eigenschaft, Einbeziehung, Verbraucher/Unternehmer, Individualabrede.
-3. Auslegung: kundenfeindlichste vertretbare Auslegung, Überraschung, Mehrdeutigkeit.
-4. Inhaltskontrolle: §§ 307 bis 309 BGB, § 310 BGB, Sondermaterie, zwingendes Recht.
-5. Rechtsfolge: Klauselausfall, gesetzliche Ersatzregel, Rückabwicklung, Prozess- oder Verbandsrisiko.
-6. Verbesserung: sichere Fassung, balanced Fassung, aggressive Fassung mit Warnlabel.
-7. Dokumentation: Normstand, Annahmen, offene Tatsachen, Version, Nachweis und Folgeaufgaben.
+## 4. Quellenpflicht
 
-## Routing
+[Zitierweise](../../../references/zitierweise.md) beachten. Die für Einbeziehung, Auslegung und Kontrolle tragenden Paragrafen 305 bis 310 BGB in der maßgeblichen Fassung amtlich prüfen. UKlaG nur bei entsprechendem Verbandsauftrag hinzunehmen. Einschlägige Rechtsprechung mit Gericht, Entscheidungsform, Datum, Aktenzeichen und Randnummer verifizieren; fallbezogene Belege aus den ausgewählten Fachreferenzen nutzen.
 
-- Prüfen: `agb-prüfung-kaltstart`, `klauselinventar-und-scope`, `agb-risikoklassifizierung-ampel`.
-- Entwerfen: `agb-entwurf-kaltstart`, `klausel-entwerfen-low-risk`, `klausel-entwerfen-balanced`, `klauselbibliothek-aufbau`.
-- Normen: `norm-live-check-gesetze-im-internet`, `inhaltskontrolle-307-generalklausel`, `klauselverbote-308-systematik`, `klauselverbote-309-systematik`.
-- Online: `plattform-und-online-checkout`, `clickwrap-beweisakte`, `ecommerce-shop-agb`, `marketplace-agb`.
-- Streit: `uklag-unterlassung-verbandsklage`, `abmahnung-reagieren`, `unterlassungserklärung-modifizieren`, `individualklage-verteidigung`.
+## 5. Ausgabeformat
 
-## Antwortformat
+Das verlangte Klauselvotum, den Entwurf, die Redline, den Verhandlungsvermerk, den Einführungsplan oder die begründete Antwort vollständig ausformulieren. Eine Fragenliste oder Prüfmatrix ist nur ein Zwischenprodukt. Keine Skelette, Halbsätze oder reinen Aufzählungen als Endprodukt. Times New Roman 11 pt, ausschließlich dezimale Gliederung und Leerzeilen verwenden; bei Markdown als Exporthinweis nennen. Bei unzureichendem Material den belastbaren Teil und die entscheidende offene Frage liefern.
 
-```text
-Kurzbild: ...
-Rolle/Kanal: ...
-Normstand: Live-Check BGB §§ 305-310 / UKlaG erforderlich oder erledigt.
-Risikoampel: ...
-Primärer Fachmodul: ...
-Nächster Arbeitsschritt: ...
-```
+## 6. Beispiele
 
-Frage höchstens eine wirklich entscheidende Rückfrage. Wenn genug Material vorliegt, arbeite sofort weiter.
+Eine hochgeladene Haftungsklausel verlangt zuerst einen konkreten Haftungsbefund. Eine Abmahnung verlangt Fristsicherung und eine begründete Reaktion, nicht ungefragt einen kompletten AGB-Neuentwurf.

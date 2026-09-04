@@ -26,14 +26,14 @@ Bezeichnung: PrALR: Zweiter Teil Ständeordnung Adel Bürger Bauern
 ALR II 7 - II 9 (Bauernstand, Buergerstand, Adel) ist eines der bekanntesten Beispiele dafür, wie das ALR die staendische Gesellschaft normiert hat. Die Titel sind heute fast vollstaendig obsolet, aber rechtshistorisch zentral.
 
 ### 1.18.4 Wichtige Paragraphen
-- **ALR II 7 §§ 1 ff.** Bauernstand: Gutsuntertaenigkeit, Erbuntertaenigkeit, Frondienste, Spanndienste. Hier zeigt das ALR den noch ungebrochenen Feudalismus: Bauern dürfen ohne Zustimmung des Gutsherrn nicht heiraten, das Gut nicht verlassen, nicht studieren.
-- **ALR II 8 §§ 1 ff.** Buergerstand: Innungen, Zuenfte, staedtisches Buergerrecht, Gewerbefreiheit eingeschraenkt.
-- **ALR II 9 §§ 1 ff.** Adel: Stammgut, Familienfideikommiss, Adelsvorrechte, Gerichtsbarkeit der Patrimonialgerichte.
+- **ALR II 7 Paragrafen  1 ff.** Bauernstand: Gutsuntertaenigkeit, Erbuntertaenigkeit, Frondienste, Spanndienste. Hier zeigt das ALR den noch ungebrochenen Feudalismus: Bauern dürfen ohne Zustimmung des Gutsherrn nicht heiraten, das Gut nicht verlassen, nicht studieren.
+- **ALR II 8 Paragrafen  1 ff.** Buergerstand: Innungen, Zuenfte, staedtisches Buergerrecht, Gewerbefreiheit eingeschraenkt.
+- **ALR II 9 Paragrafen  1 ff.** Adel: Stammgut, Familienfideikommiss, Adelsvorrechte, Gerichtsbarkeit der Patrimonialgerichte.
 
 ### 1.18.5 Heutige Fortwirkung
 - Die Stein-Hardenbergschen Reformen setzten mit dem Oktoberedikt vom 9. Oktober 1807 bei Gutsuntertänigkeit und Grundeigentum an und veränderten die ständische Ordnung tiefgreifend.
 - Reichsdeputationshauptschluss 1803 und Wiener Kongress 1815 veraenderten die Adelsstruktur.
-- Art. 109 WRV (1919) und Art. 123 GG (1949) i.V.m. § 1 NamG haben Adelsvorrechte vollstaendig abgeschafft.
+- Art. 109 WRV (1919) und Art. 123 GG (1949) i.V.m. Paragraf  1 NamG haben Adelsvorrechte vollstaendig abgeschafft.
 - Adelsbezeichnungen gelten nach Artikel 109 Absatz 3 WRV nur als Teil des Namens und dürfen nicht mehr verliehen werden. Für einen heutigen Namensfall zusätzlich das aktuelle Namens- und Personenstandsrecht prüfen; kein historisches Standesrecht fortschreiben.
 
 ### 1.18.6 Beruehmte Faelle / Personen
@@ -73,14 +73,14 @@ Bezeichnung: PrALR: Zweiter Teil Gemeinderecht Städte Dörfer Polizei
 
 Vor einer rechtlichen Schlussfolgerung diese Anker am aktuellen Normtext prüfen; Spezial- und Landesrecht nur hinzunehmen, wenn es den konkreten Auftrag traegt:
 
-- `§ 241 Abs. 2 BGB` — Rücksichtnahme-, Schutz- und Organisationspflichten.
-- `§ 242 BGB` — Treu und Glauben als Korrektiv enger Klausel- und Anspruchsarbeit.
-- `§ 280 Abs. 1 BGB` — Pflichtverletzung, Vertretenmuessen, Schaden.
-- `§ 286 Abs. 1 BGB` — Verzug und Fristlogik.
-- `§ 195 BGB` — regelmäßige Verjährung.
-- `§ 199 Abs. 1 BGB` — Beginn der regelmäßigen Verjährung.
-- `§ 253 Abs. 2 ZPO` — Bestimmtheit von Antrag und Klagegrund.
-- `§ 138 Abs. 1 ZPO` — Wahrheitspflicht und vollstaendiger Tatsachenvortrag.
+- `Paragraf  241 Abs. 2 BGB` — Rücksichtnahme-, Schutz- und Organisationspflichten.
+- `Paragraf  242 BGB` — Treu und Glauben als Korrektiv enger Klausel- und Anspruchsarbeit.
+- `Paragraf  280 Abs. 1 BGB` — Pflichtverletzung, Vertretenmuessen, Schaden.
+- `Paragraf  286 Abs. 1 BGB` — Verzug und Fristlogik.
+- `Paragraf  195 BGB` — regelmäßige Verjährung.
+- `Paragraf  199 Abs. 1 BGB` — Beginn der regelmäßigen Verjährung.
+- `Paragraf  253 Abs. 2 ZPO` — Bestimmtheit von Antrag und Klagegrund.
+- `Paragraf  138 Abs. 1 ZPO` — Wahrheitspflicht und vollstaendiger Tatsachenvortrag.
 
 Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei prüfbare Quelle vorliegen; keine BeckRS-/juris-Blindzitate verwenden.
 
@@ -96,8 +96,8 @@ Bezeichnung: Pralr Zweiter Teil Gemeinderecht Staedte Doerfer Polizei
 ### 1.20.1 Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
-- Fristen und Eilrisiken zuerst markieren: historisch — Verjährung nach ALR-Vorschriften (z. B. 30-jährige actio); heutige Anwendung über Art. 184 ff. EGBGB und § 195 BGB.
-- Tragende Normen verifizieren: ALR Einleitung §§ 1-100, Erster Teil (Personen-/Sachenrecht), Zweiter Teil (Personenstand, Familie, Erbrecht), Allgemeine Gerichtsordnung; abgelöst durch BGB (1900), aber dogmenhistorisch fortwirkend — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
+- Fristen und Eilrisiken zuerst markieren: historisch — Verjährung nach ALR-Vorschriften (z. B. 30-jährige actio); heutige Anwendung über Art. 184 ff. EGBGB und Paragraf  195 BGB.
+- Tragende Normen verifizieren: ALR Einleitung Paragrafen  1-100, Erster Teil (Personen-/Sachenrecht), Zweiter Teil (Personenstand, Familie, Erbrecht), Allgemeine Gerichtsordnung; abgelöst durch BGB (1900), aber dogmenhistorisch fortwirkend — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Rechtshistoriker, Lehrstühle, Restitutionsverfahren mit Altrecht-Bezug, Boden- und Erbschaftsstreite mit historischer Wurzel.
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Rechtsvergleichende Stellungnahme, ALR-Auszug aus historischer Edition, dogmatische Untersuchung, Restitutionsgutachten, Erbschaftsgutachten — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
@@ -105,7 +105,7 @@ Bezeichnung: Pralr Zweiter Teil Gemeinderecht Staedte Doerfer Polizei
 
 - **ALR II 7**: Bauernstand und Doerfer.
 - **ALR II 8**: Buergerstand und Staedte; Innungen.
-- **ALR II 17**: Polizey (Generalklausel § 10).
+- **ALR II 17**: Polizey (Generalklausel Paragraf  10).
 
 ### 1.20.3 Stein-Hardenbergsche Staedteordnung 19.11.1808
 
@@ -158,14 +158,14 @@ Bezeichnung: PrALR: Zweiter Teil Kirchen Schule Armenwesen
 
 Vor einer rechtlichen Schlussfolgerung diese Anker am aktuellen Normtext prüfen; Spezial- und Landesrecht nur hinzunehmen, wenn es den konkreten Auftrag traegt:
 
-- `§ 241 Abs. 2 BGB` — Rücksichtnahme-, Schutz- und Organisationspflichten.
-- `§ 242 BGB` — Treu und Glauben als Korrektiv enger Klausel- und Anspruchsarbeit.
-- `§ 280 Abs. 1 BGB` — Pflichtverletzung, Vertretenmuessen, Schaden.
-- `§ 286 Abs. 1 BGB` — Verzug und Fristlogik.
-- `§ 195 BGB` — regelmäßige Verjährung.
-- `§ 199 Abs. 1 BGB` — Beginn der regelmäßigen Verjährung.
-- `§ 253 Abs. 2 ZPO` — Bestimmtheit von Antrag und Klagegrund.
-- `§ 138 Abs. 1 ZPO` — Wahrheitspflicht und vollstaendiger Tatsachenvortrag.
+- `Paragraf  241 Abs. 2 BGB` — Rücksichtnahme-, Schutz- und Organisationspflichten.
+- `Paragraf  242 BGB` — Treu und Glauben als Korrektiv enger Klausel- und Anspruchsarbeit.
+- `Paragraf  280 Abs. 1 BGB` — Pflichtverletzung, Vertretenmuessen, Schaden.
+- `Paragraf  286 Abs. 1 BGB` — Verzug und Fristlogik.
+- `Paragraf  195 BGB` — regelmäßige Verjährung.
+- `Paragraf  199 Abs. 1 BGB` — Beginn der regelmäßigen Verjährung.
+- `Paragraf  253 Abs. 2 ZPO` — Bestimmtheit von Antrag und Klagegrund.
+- `Paragraf  138 Abs. 1 ZPO` — Wahrheitspflicht und vollstaendiger Tatsachenvortrag.
 
 Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei prüfbare Quelle vorliegen; keine BeckRS-/juris-Blindzitate verwenden.
 
@@ -181,8 +181,8 @@ Bezeichnung: Pralr Zweiter Teil Kirchen Schule Armenwesen
 ### 1.2.1 Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
-- Fristen und Eilrisiken zuerst markieren: historisch — Verjährung nach ALR-Vorschriften (z. B. 30-jährige actio); heutige Anwendung über Art. 184 ff. EGBGB und § 195 BGB.
-- Tragende Normen verifizieren: ALR Einleitung §§ 1-100, Erster Teil (Personen-/Sachenrecht), Zweiter Teil (Personenstand, Familie, Erbrecht), Allgemeine Gerichtsordnung; abgelöst durch BGB (1900), aber dogmenhistorisch fortwirkend — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
+- Fristen und Eilrisiken zuerst markieren: historisch — Verjährung nach ALR-Vorschriften (z. B. 30-jährige actio); heutige Anwendung über Art. 184 ff. EGBGB und Paragraf  195 BGB.
+- Tragende Normen verifizieren: ALR Einleitung Paragrafen  1-100, Erster Teil (Personen-/Sachenrecht), Zweiter Teil (Personenstand, Familie, Erbrecht), Allgemeine Gerichtsordnung; abgelöst durch BGB (1900), aber dogmenhistorisch fortwirkend — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Rechtshistoriker, Lehrstühle, Restitutionsverfahren mit Altrecht-Bezug, Boden- und Erbschaftsstreite mit historischer Wurzel.
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Rechtsvergleichende Stellungnahme, ALR-Auszug aus historischer Edition, dogmatische Untersuchung, Restitutionsgutachten, Erbschaftsgutachten — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
@@ -244,14 +244,14 @@ Bezeichnung: PrALR: Zweiter Teil Staatsdiener Amtspflichten
 
 Vor einer rechtlichen Schlussfolgerung diese Anker am aktuellen Normtext prüfen; Spezial- und Landesrecht nur hinzunehmen, wenn es den konkreten Auftrag traegt:
 
-- `§ 241 Abs. 2 BGB` — Rücksichtnahme-, Schutz- und Organisationspflichten.
-- `§ 242 BGB` — Treu und Glauben als Korrektiv enger Klausel- und Anspruchsarbeit.
-- `§ 280 Abs. 1 BGB` — Pflichtverletzung, Vertretenmuessen, Schaden.
-- `§ 286 Abs. 1 BGB` — Verzug und Fristlogik.
-- `§ 195 BGB` — regelmäßige Verjährung.
-- `§ 199 Abs. 1 BGB` — Beginn der regelmäßigen Verjährung.
-- `§ 253 Abs. 2 ZPO` — Bestimmtheit von Antrag und Klagegrund.
-- `§ 138 Abs. 1 ZPO` — Wahrheitspflicht und vollstaendiger Tatsachenvortrag.
+- `Paragraf  241 Abs. 2 BGB` — Rücksichtnahme-, Schutz- und Organisationspflichten.
+- `Paragraf  242 BGB` — Treu und Glauben als Korrektiv enger Klausel- und Anspruchsarbeit.
+- `Paragraf  280 Abs. 1 BGB` — Pflichtverletzung, Vertretenmuessen, Schaden.
+- `Paragraf  286 Abs. 1 BGB` — Verzug und Fristlogik.
+- `Paragraf  195 BGB` — regelmäßige Verjährung.
+- `Paragraf  199 Abs. 1 BGB` — Beginn der regelmäßigen Verjährung.
+- `Paragraf  253 Abs. 2 ZPO` — Bestimmtheit von Antrag und Klagegrund.
+- `Paragraf  138 Abs. 1 ZPO` — Wahrheitspflicht und vollstaendiger Tatsachenvortrag.
 
 Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei prüfbare Quelle vorliegen; keine BeckRS-/juris-Blindzitate verwenden.
 
@@ -267,15 +267,15 @@ Bezeichnung: Pralr Zweiter Teil Staatsdiener Amtspflichten
 ### 1.4.1 Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
-- Fristen und Eilrisiken zuerst markieren: historisch — Verjährung nach ALR-Vorschriften (z. B. 30-jährige actio); heutige Anwendung über Art. 184 ff. EGBGB und § 195 BGB.
-- Tragende Normen verifizieren: ALR Einleitung §§ 1-100, Erster Teil (Personen-/Sachenrecht), Zweiter Teil (Personenstand, Familie, Erbrecht), Allgemeine Gerichtsordnung; abgelöst durch BGB (1900), aber dogmenhistorisch fortwirkend — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
+- Fristen und Eilrisiken zuerst markieren: historisch — Verjährung nach ALR-Vorschriften (z. B. 30-jährige actio); heutige Anwendung über Art. 184 ff. EGBGB und Paragraf  195 BGB.
+- Tragende Normen verifizieren: ALR Einleitung Paragrafen  1-100, Erster Teil (Personen-/Sachenrecht), Zweiter Teil (Personenstand, Familie, Erbrecht), Allgemeine Gerichtsordnung; abgelöst durch BGB (1900), aber dogmenhistorisch fortwirkend — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Rechtshistoriker, Lehrstühle, Restitutionsverfahren mit Altrecht-Bezug, Boden- und Erbschaftsstreite mit historischer Wurzel.
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Rechtsvergleichende Stellungnahme, ALR-Auszug aus historischer Edition, dogmatische Untersuchung, Restitutionsgutachten, Erbschaftsgutachten — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
 ### 1.4.2 Wichtige Paragraphen
 
-- **ALR II 10 §§ 1-50**: Begriff Staatsdiener; Treuepflicht.
-- **ALR II 10 §§ 100-200**: Disziplinarrecht und Strafverfolgung.
+- **ALR II 10 Paragrafen  1-50**: Begriff Staatsdiener; Treuepflicht.
+- **ALR II 10 Paragrafen  100-200**: Disziplinarrecht und Strafverfolgung.
 
 ### 1.4.3 Hergebrachte Grundsaetze des Berufsbeamtentums
 
@@ -326,11 +326,11 @@ Bezeichnung: PrALR: Zweiter Teil Strafrecht 20 Titel quellenkritisch
 ALR II 20 war das preussische Allgemeine Strafgesetzbuch bis zur Einfuehrung des Preussischen Strafgesetzbuchs 1851 und schliesslich des Reichsstrafgesetzbuchs 1871/1872. ALR II 20 ist umfangreich (über 1500 Paragraphen) und kasuistisch — typisches Beispiel: detaillierte Verbote von Aberglauben, Selbstmord, Spielsucht; Strafkatalog mit Strafgraden bis zu Schandstrafen.
 
 ### 1.5.4 Wichtige Paragraphen
-- **ALR II 20 §§ 1 ff.** Allgemeiner Teil: Schuldfragen, Versuch, Teilnahme, Strafarten.
-- **ALR II 20 §§ 80 ff.** Verbrechen gegen den Staat: Hochverrat, Majestaetsbeleidigung.
-- **ALR II 20 §§ 760 ff.** Sittlichkeitsdelikte: Ehebruch, Unzucht, Konkubinat — extrem kasuistisch.
-- **ALR II 20 §§ 803 ff.** Suizidversuch wurde mit Strafe (Schandbegraebnis) bedroht.
-- **ALR II 20 §§ 1100 ff.** Diebstahl mit differenzierten Strafdrohungen je nach Tatobjekt, sogar je nach Brieftaubenraub.
+- **ALR II 20 Paragrafen  1 ff.** Allgemeiner Teil: Schuldfragen, Versuch, Teilnahme, Strafarten.
+- **ALR II 20 Paragrafen  80 ff.** Verbrechen gegen den Staat: Hochverrat, Majestaetsbeleidigung.
+- **ALR II 20 Paragrafen  760 ff.** Sittlichkeitsdelikte: Ehebruch, Unzucht, Konkubinat — extrem kasuistisch.
+- **ALR II 20 Paragrafen  803 ff.** Suizidversuch wurde mit Strafe (Schandbegraebnis) bedroht.
+- **ALR II 20 Paragrafen  1100 ff.** Diebstahl mit differenzierten Strafdrohungen je nach Tatobjekt, sogar je nach Brieftaubenraub.
 
 ### 1.5.5 Heutige Fortwirkung
 - Heute ohne praktische Geltung. Reichsstrafgesetzbuch 1871/1872 hat ALR II 20 abgeloest, in Preussen ergaenzt durch StPO-PreussGS.
@@ -357,8 +357,8 @@ Bezeichnung: PrALR: Zweiter Teil Strafrecht 20 Titel quellenkritisch
 ### 1.6.1 Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
-- Fristen und Eilrisiken zuerst markieren: historisch — Verjährung nach ALR-Vorschriften (z. B. 30-jährige actio); heutige Anwendung über Art. 184 ff. EGBGB und § 195 BGB.
-- Tragende Normen verifizieren: ALR Einleitung §§ 1-100, Erster Teil (Personen-/Sachenrecht), Zweiter Teil (Personenstand, Familie, Erbrecht), Allgemeine Gerichtsordnung; abgelöst durch BGB (1900), aber dogmenhistorisch fortwirkend — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
+- Fristen und Eilrisiken zuerst markieren: historisch — Verjährung nach ALR-Vorschriften (z. B. 30-jährige actio); heutige Anwendung über Art. 184 ff. EGBGB und Paragraf  195 BGB.
+- Tragende Normen verifizieren: ALR Einleitung Paragrafen  1-100, Erster Teil (Personen-/Sachenrecht), Zweiter Teil (Personenstand, Familie, Erbrecht), Allgemeine Gerichtsordnung; abgelöst durch BGB (1900), aber dogmenhistorisch fortwirkend — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Rechtshistoriker, Lehrstühle, Restitutionsverfahren mit Altrecht-Bezug, Boden- und Erbschaftsstreite mit historischer Wurzel.
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Rechtsvergleichende Stellungnahme, ALR-Auszug aus historischer Edition, dogmatische Untersuchung, Restitutionsgutachten, Erbschaftsgutachten — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
@@ -377,11 +377,11 @@ Bezeichnung: PrALR: Zweiter Teil Strafrecht 20 Titel quellenkritisch
 ALR II 20 war das preussische Allgemeine Strafgesetzbuch bis zur Einfuehrung des Preussischen Strafgesetzbuchs 1851 und schliesslich des Reichsstrafgesetzbuchs 1871/1872. ALR II 20 ist umfangreich (über 1500 Paragraphen) und kasuistisch — typisches Beispiel: detaillierte Verbote von Aberglauben, Selbstmord, Spielsucht; Strafkatalog mit Strafgraden bis zu Schandstrafen.
 
 ### 1.6.5 Wichtige Paragraphen
-- **ALR II 20 §§ 1 ff.** Allgemeiner Teil: Schuldfragen, Versuch, Teilnahme, Strafarten.
-- **ALR II 20 §§ 80 ff.** Verbrechen gegen den Staat: Hochverrat, Majestaetsbeleidigung.
-- **ALR II 20 §§ 760 ff.** Sittlichkeitsdelikte: Ehebruch, Unzucht, Konkubinat — extrem kasuistisch.
-- **ALR II 20 §§ 803 ff.** Suizidversuch wurde mit Strafe (Schandbegraebnis) bedroht.
-- **ALR II 20 §§ 1100 ff.** Diebstahl mit differenzierten Strafdrohungen je nach Tatobjekt, sogar je nach Brieftaubenraub.
+- **ALR II 20 Paragrafen  1 ff.** Allgemeiner Teil: Schuldfragen, Versuch, Teilnahme, Strafarten.
+- **ALR II 20 Paragrafen  80 ff.** Verbrechen gegen den Staat: Hochverrat, Majestaetsbeleidigung.
+- **ALR II 20 Paragrafen  760 ff.** Sittlichkeitsdelikte: Ehebruch, Unzucht, Konkubinat — extrem kasuistisch.
+- **ALR II 20 Paragrafen  803 ff.** Suizidversuch wurde mit Strafe (Schandbegraebnis) bedroht.
+- **ALR II 20 Paragrafen  1100 ff.** Diebstahl mit differenzierten Strafdrohungen je nach Tatobjekt, sogar je nach Brieftaubenraub.
 
 ### 1.6.6 Heutige Fortwirkung
 - Heute ohne praktische Geltung. Reichsstrafgesetzbuch 1871/1872 hat ALR II 20 abgeloest, in Preussen ergaenzt durch StPO-PreussGS.
@@ -424,14 +424,14 @@ Bezeichnung: PrALR: Normkarte Altrecht in heutiger Akte
 
 Vor einer rechtlichen Schlussfolgerung diese Anker am aktuellen Normtext prüfen; Spezial- und Landesrecht nur hinzunehmen, wenn es den konkreten Auftrag traegt:
 
-- `§ 241 Abs. 2 BGB` — Rücksichtnahme-, Schutz- und Organisationspflichten.
-- `§ 242 BGB` — Treu und Glauben als Korrektiv enger Klausel- und Anspruchsarbeit.
-- `§ 280 Abs. 1 BGB` — Pflichtverletzung, Vertretenmuessen, Schaden.
-- `§ 286 Abs. 1 BGB` — Verzug und Fristlogik.
-- `§ 195 BGB` — regelmäßige Verjährung.
-- `§ 199 Abs. 1 BGB` — Beginn der regelmäßigen Verjährung.
-- `§ 253 Abs. 2 ZPO` — Bestimmtheit von Antrag und Klagegrund.
-- `§ 138 Abs. 1 ZPO` — Wahrheitspflicht und vollstaendiger Tatsachenvortrag.
+- `Paragraf  241 Abs. 2 BGB` — Rücksichtnahme-, Schutz- und Organisationspflichten.
+- `Paragraf  242 BGB` — Treu und Glauben als Korrektiv enger Klausel- und Anspruchsarbeit.
+- `Paragraf  280 Abs. 1 BGB` — Pflichtverletzung, Vertretenmuessen, Schaden.
+- `Paragraf  286 Abs. 1 BGB` — Verzug und Fristlogik.
+- `Paragraf  195 BGB` — regelmäßige Verjährung.
+- `Paragraf  199 Abs. 1 BGB` — Beginn der regelmäßigen Verjährung.
+- `Paragraf  253 Abs. 2 ZPO` — Bestimmtheit von Antrag und Klagegrund.
+- `Paragraf  138 Abs. 1 ZPO` — Wahrheitspflicht und vollstaendiger Tatsachenvortrag.
 
 Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei prüfbare Quelle vorliegen; keine BeckRS-/juris-Blindzitate verwenden.
 
@@ -453,11 +453,11 @@ Bezeichnung: PrALR: Normkarte Aufopferung Einleitung 74 75 vertieft
 - Gib am Ende ein nutzbares Produkt aus: Normkarte, Begriffskarte, Vergleichstabelle 1794/1804/heute, Quellenvermerk oder kurzer wissenschaftlicher Arbeitsstand.
 
 
-### 1.8.2 Konkreter ALR-Stoff: Aufopferungsanspruch Einl. §§ 74, 75 ALR
+### 1.8.2 Konkreter ALR-Stoff: Aufopferungsanspruch Einl. Paragrafen  74, 75 ALR
 
 ### 1.8.3 Wortlaut der Schlüsselnormen
-- **Einl. § 74 ALR** "Die einzelnen Rechte und Vortheile der Mitglieder des Staats müssen den Rechten und Pflichten zur Befoerderung des gemeinschaftlichen Wohls, wenn zwischen beiden ein wirklicher Widerspruch (Collision) eintritt, nachstehen."
-- **Einl. § 75 ALR** "Dagegen ist der Staat denjenigen, welcher seine besondren Rechte und Vortheile dem Wohle des gemeinen Wesens aufzuopfern genoethigt wird, zu entschaedigen verbunden."
+- **Einl. Paragraf  74 ALR** "Die einzelnen Rechte und Vortheile der Mitglieder des Staats müssen den Rechten und Pflichten zur Befoerderung des gemeinschaftlichen Wohls, wenn zwischen beiden ein wirklicher Widerspruch (Collision) eintritt, nachstehen."
+- **Einl. Paragraf  75 ALR** "Dagegen ist der Staat denjenigen, welcher seine besondren Rechte und Vortheile dem Wohle des gemeinen Wesens aufzuopfern genoethigt wird, zu entschaedigen verbunden."
 
 ### 1.8.4 Dogmatische Bedeutung
 Diese beiden Paragraphen sind die rechtsgeschichtliche und systematische Grundlage des allgemeinen Aufopferungsanspruchs im deutschen Recht. Sie unterscheiden zwischen der Pflicht des Buergers, sich dem Gemeinwohl zu beugen, und dem korrespondierenden Anspruch auf Entschaedigung. Aus dieser Asymmetrie ist der heute lebende Aufopferungsanspruch entstanden, der vom BGH über das gesamte 20. Jahrhundert hinweg ausdifferenziert wurde.
@@ -469,7 +469,7 @@ Diese beiden Paragraphen sind die rechtsgeschichtliche und systematische Grundla
 
 ### 1.8.6 Verhältnis zu anderen Normen
 - Art. 14 III GG (Enteignung) — fokussiert auf Eigentum.
-- Art. 34 GG mit § 839 BGB (Amtshaftung) — bei rechtswidrigem Verhalten.
+- Art. 34 GG mit Paragraf  839 BGB (Amtshaftung) — bei rechtswidrigem Verhalten.
 - Aufopferungsanspruch fuellt die Luecke für rechtmäßige Eingriffe.
 
 ### 1.8.7 Beruehmte Faelle
@@ -481,7 +481,7 @@ Diese beiden Paragraphen sind die rechtsgeschichtliche und systematische Grundla
 1. Hoheitlicher Eingriff zugunsten der Allgemeinheit?
 2. Eingriffsopfer ist Unbeteiligter bzw. Sonderbetroffener (Sonderopfer)?
 3. Spezialgesetz vorhanden (POG, BVG, InfSchG)? — Vorrang.
-4. Sonst allgemeiner Aufopferungsanspruch nach Einl. §§ 74, 75 ALR.
+4. Sonst allgemeiner Aufopferungsanspruch nach Einl. Paragrafen  74, 75 ALR.
 
 ## 1.12 028-normkarte-aufopferung-einleitung-74-75-vertieft
 
@@ -495,8 +495,8 @@ Bezeichnung: PrALR: Normkarte Aufopferung Einleitung 74 75 vertieft
 ### 1.9.1 Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
-- Fristen und Eilrisiken zuerst markieren: historisch — Verjährung nach ALR-Vorschriften (z. B. 30-jährige actio); heutige Anwendung über Art. 184 ff. EGBGB und § 195 BGB.
-- Tragende Normen verifizieren: ALR Einleitung §§ 1-100, Erster Teil (Personen-/Sachenrecht), Zweiter Teil (Personenstand, Familie, Erbrecht), Allgemeine Gerichtsordnung; abgelöst durch BGB (1900), aber dogmenhistorisch fortwirkend — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
+- Fristen und Eilrisiken zuerst markieren: historisch — Verjährung nach ALR-Vorschriften (z. B. 30-jährige actio); heutige Anwendung über Art. 184 ff. EGBGB und Paragraf  195 BGB.
+- Tragende Normen verifizieren: ALR Einleitung Paragrafen  1-100, Erster Teil (Personen-/Sachenrecht), Zweiter Teil (Personenstand, Familie, Erbrecht), Allgemeine Gerichtsordnung; abgelöst durch BGB (1900), aber dogmenhistorisch fortwirkend — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Rechtshistoriker, Lehrstühle, Restitutionsverfahren mit Altrecht-Bezug, Boden- und Erbschaftsstreite mit historischer Wurzel.
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Rechtsvergleichende Stellungnahme, ALR-Auszug aus historischer Edition, dogmatische Untersuchung, Restitutionsgutachten, Erbschaftsgutachten — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
@@ -509,11 +509,11 @@ Bezeichnung: PrALR: Normkarte Aufopferung Einleitung 74 75 vertieft
 - Gib am Ende ein nutzbares Produkt aus: Normkarte, Begriffskarte, Vergleichstabelle 1794/1804/heute, Quellenvermerk oder kurzer wissenschaftlicher Arbeitsstand.
 
 
-### 1.9.3 Konkreter ALR-Stoff: Aufopferungsanspruch Einl. §§ 74, 75 ALR
+### 1.9.3 Konkreter ALR-Stoff: Aufopferungsanspruch Einl. Paragrafen  74, 75 ALR
 
 ### 1.9.4 Wortlaut der Schlüsselnormen
-- **Einl. § 74 ALR** "Die einzelnen Rechte und Vortheile der Mitglieder des Staats müssen den Rechten und Pflichten zur Befoerderung des gemeinschaftlichen Wohls, wenn zwischen beiden ein wirklicher Widerspruch (Collision) eintritt, nachstehen."
-- **Einl. § 75 ALR** "Dagegen ist der Staat denjenigen, welcher seine besondren Rechte und Vortheile dem Wohle des gemeinen Wesens aufzuopfern genoethigt wird, zu entschaedigen verbunden."
+- **Einl. Paragraf  74 ALR** "Die einzelnen Rechte und Vortheile der Mitglieder des Staats müssen den Rechten und Pflichten zur Befoerderung des gemeinschaftlichen Wohls, wenn zwischen beiden ein wirklicher Widerspruch (Collision) eintritt, nachstehen."
+- **Einl. Paragraf  75 ALR** "Dagegen ist der Staat denjenigen, welcher seine besondren Rechte und Vortheile dem Wohle des gemeinen Wesens aufzuopfern genoethigt wird, zu entschaedigen verbunden."
 
 ### 1.9.5 Dogmatische Bedeutung
 Diese beiden Paragraphen sind die rechtsgeschichtliche und systematische Grundlage des allgemeinen Aufopferungsanspruchs im deutschen Recht. Sie unterscheiden zwischen der Pflicht des Buergers, sich dem Gemeinwohl zu beugen, und dem korrespondierenden Anspruch auf Entschaedigung. Aus dieser Asymmetrie ist der heute lebende Aufopferungsanspruch entstanden, der vom BGH über das gesamte 20. Jahrhundert hinweg ausdifferenziert wurde.
@@ -525,7 +525,7 @@ Diese beiden Paragraphen sind die rechtsgeschichtliche und systematische Grundla
 
 ### 1.9.7 Verhältnis zu anderen Normen
 - Art. 14 III GG (Enteignung) — fokussiert auf Eigentum.
-- Art. 34 GG mit § 839 BGB (Amtshaftung) — bei rechtswidrigem Verhalten.
+- Art. 34 GG mit Paragraf  839 BGB (Amtshaftung) — bei rechtswidrigem Verhalten.
 - Aufopferungsanspruch fuellt die Luecke für rechtmäßige Eingriffe.
 
 ### 1.9.8 Beruehmte Faelle
@@ -537,7 +537,7 @@ Diese beiden Paragraphen sind die rechtsgeschichtliche und systematische Grundla
 1. Hoheitlicher Eingriff zugunsten der Allgemeinheit?
 2. Eingriffsopfer ist Unbeteiligter bzw. Sonderbetroffener (Sonderopfer)?
 3. Spezialgesetz vorhanden (POG, BVG, InfSchG)? — Vorrang.
-4. Sonst allgemeiner Aufopferungsanspruch nach Einl. §§ 74, 75 ALR.
+4. Sonst allgemeiner Aufopferungsanspruch nach Einl. Paragrafen  74, 75 ALR.
 
 ## 1.13 029-normkarte-nachbarrecht-heutiger
 
@@ -551,15 +551,15 @@ Bezeichnung: Pralr Normkarte Nachbarrecht Heutiger Fortwirkungscheck
 ### 1.10.1 Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
-- Fristen und Eilrisiken zuerst markieren: historisch — Verjährung nach ALR-Vorschriften (z. B. 30-jährige actio); heutige Anwendung über Art. 184 ff. EGBGB und § 195 BGB.
-- Tragende Normen verifizieren: ALR Einleitung §§ 1-100, Erster Teil (Personen-/Sachenrecht), Zweiter Teil (Personenstand, Familie, Erbrecht), Allgemeine Gerichtsordnung; abgelöst durch BGB (1900), aber dogmenhistorisch fortwirkend — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
+- Fristen und Eilrisiken zuerst markieren: historisch — Verjährung nach ALR-Vorschriften (z. B. 30-jährige actio); heutige Anwendung über Art. 184 ff. EGBGB und Paragraf  195 BGB.
+- Tragende Normen verifizieren: ALR Einleitung Paragrafen  1-100, Erster Teil (Personen-/Sachenrecht), Zweiter Teil (Personenstand, Familie, Erbrecht), Allgemeine Gerichtsordnung; abgelöst durch BGB (1900), aber dogmenhistorisch fortwirkend — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Rechtshistoriker, Lehrstühle, Restitutionsverfahren mit Altrecht-Bezug, Boden- und Erbschaftsstreite mit historischer Wurzel.
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Rechtsvergleichende Stellungnahme, ALR-Auszug aus historischer Edition, dogmatische Untersuchung, Restitutionsgutachten, Erbschaftsgutachten — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
 ### 1.10.2 ALR-Bestimmungen
 
-- ALR I 23: Grenzbaeume, Grenzhecken, Traufrecht, Überhang, Wegerecht.
-- ALR I 21: Dienstbarkeiten (Wegerecht, Wasserlauf, Hutung, Mast, Trift).
+- Entwurfskorrektur: Teil 1 Titel 23 behandelt Zwangs- und Banngerechtigkeiten, nicht allgemeines Nachbarrecht. Grenze, Traufe, Überhang und Weg anhand der passenden Eigentumsbeschränkung oder Grundstücksgerechtigkeit in Titel 8 beziehungsweise Titel 22 prüfen.
+- Entwurfskorrektur: Titel 21 betrifft Gebrauch und Nutzung; Grundstücksgerechtigkeiten wie die hier gemeinten Weg-, Wasser- oder Hutungsrechte sind in Titel 22 zu suchen. Die konkrete Rechtsart und Fundstelle bestimmen; siehe [Titelordnung](../../../references/historische-quellenpruefung.md).
 
 ### 1.10.3 Heutige Landesnachbarrechtsgesetze
 
@@ -571,11 +571,11 @@ Bezeichnung: Pralr Normkarte Nachbarrecht Heutiger Fortwirkungscheck
 
 ### 1.10.4 BGB-Anker
 
-- § 906 BGB Immissionen.
-- § 910 BGB Überhang.
-- § 912 BGB Ueberbau.
-- § 917 BGB Notweg.
-- § 923 BGB Grenzbaum.
+- Paragraf  906 BGB Immissionen.
+- Paragraf  910 BGB Überhang.
+- Paragraf  912 BGB Ueberbau.
+- Paragraf  917 BGB Notweg.
+- Paragraf  923 BGB Grenzbaum.
 
 ### 1.10.5 Praxisempfehlung
 
@@ -616,14 +616,14 @@ Bezeichnung: PrALR: Normkarte Polizeirecht ohne Anachronismus
 
 Vor einer rechtlichen Schlussfolgerung diese Anker am aktuellen Normtext prüfen; Spezial- und Landesrecht nur hinzunehmen, wenn es den konkreten Auftrag traegt:
 
-- `§ 241 Abs. 2 BGB` — Rücksichtnahme-, Schutz- und Organisationspflichten.
-- `§ 242 BGB` — Treu und Glauben als Korrektiv enger Klausel- und Anspruchsarbeit.
-- `§ 280 Abs. 1 BGB` — Pflichtverletzung, Vertretenmuessen, Schaden.
-- `§ 286 Abs. 1 BGB` — Verzug und Fristlogik.
-- `§ 195 BGB` — regelmäßige Verjährung.
-- `§ 199 Abs. 1 BGB` — Beginn der regelmäßigen Verjährung.
-- `§ 253 Abs. 2 ZPO` — Bestimmtheit von Antrag und Klagegrund.
-- `§ 138 Abs. 1 ZPO` — Wahrheitspflicht und vollstaendiger Tatsachenvortrag.
+- `Paragraf  241 Abs. 2 BGB` — Rücksichtnahme-, Schutz- und Organisationspflichten.
+- `Paragraf  242 BGB` — Treu und Glauben als Korrektiv enger Klausel- und Anspruchsarbeit.
+- `Paragraf  280 Abs. 1 BGB` — Pflichtverletzung, Vertretenmuessen, Schaden.
+- `Paragraf  286 Abs. 1 BGB` — Verzug und Fristlogik.
+- `Paragraf  195 BGB` — regelmäßige Verjährung.
+- `Paragraf  199 Abs. 1 BGB` — Beginn der regelmäßigen Verjährung.
+- `Paragraf  253 Abs. 2 ZPO` — Bestimmtheit von Antrag und Klagegrund.
+- `Paragraf  138 Abs. 1 ZPO` — Wahrheitspflicht und vollstaendiger Tatsachenvortrag.
 
 Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei prüfbare Quelle vorliegen; keine BeckRS-/juris-Blindzitate verwenden.
 
@@ -639,12 +639,12 @@ Bezeichnung: Pralr Normkarte Polizeirecht Ohne Anachronismus
 ### 1.12.1 Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
-- Fristen und Eilrisiken zuerst markieren: historisch — Verjährung nach ALR-Vorschriften (z. B. 30-jährige actio); heutige Anwendung über Art. 184 ff. EGBGB und § 195 BGB.
-- Tragende Normen verifizieren: ALR Einleitung §§ 1-100, Erster Teil (Personen-/Sachenrecht), Zweiter Teil (Personenstand, Familie, Erbrecht), Allgemeine Gerichtsordnung; abgelöst durch BGB (1900), aber dogmenhistorisch fortwirkend — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
+- Fristen und Eilrisiken zuerst markieren: historisch — Verjährung nach ALR-Vorschriften (z. B. 30-jährige actio); heutige Anwendung über Art. 184 ff. EGBGB und Paragraf  195 BGB.
+- Tragende Normen verifizieren: ALR Einleitung Paragrafen  1-100, Erster Teil (Personen-/Sachenrecht), Zweiter Teil (Personenstand, Familie, Erbrecht), Allgemeine Gerichtsordnung; abgelöst durch BGB (1900), aber dogmenhistorisch fortwirkend — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Rechtshistoriker, Lehrstühle, Restitutionsverfahren mit Altrecht-Bezug, Boden- und Erbschaftsstreite mit historischer Wurzel.
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Rechtsvergleichende Stellungnahme, ALR-Auszug aus historischer Edition, dogmatische Untersuchung, Restitutionsgutachten, Erbschaftsgutachten — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
-### 1.12.2 ALR II 17 § 10
+### 1.12.2 ALR II 17 Paragraf  10
 
 "Die noethigen Anstalten zur Erhaltung der öffentlichen Ruhe, Sicherheit und Ordnung, und zur Abwendung der dem Publico, oder einzelnen Mitgliedern desselben, bevorstehenden Gefahren, zu treffen, ist das Amt der Polizey."
 
@@ -665,7 +665,7 @@ Bezeichnung: Pralr Normkarte Polizeirecht Ohne Anachronismus
 
 ### 1.12.6 Heutige Fortwirkung
 
-- Polizeirechtliche Generalklausel: § 1 PolG NRW, § 11 ASOG Berlin etc.
+- Polizeirechtliche Generalklausel: Paragraf  1 PolG NRW, Paragraf  11 ASOG Berlin etc.
 - Kreuzberg-Urteil ist Hintergrund.
 
 ### 1.12.7 Prüfraster
@@ -702,14 +702,14 @@ Bezeichnung: PrALR: Normkarte Zitat mit Link zum Digitalisat
 
 Vor einer rechtlichen Schlussfolgerung diese Anker am aktuellen Normtext prüfen; Spezial- und Landesrecht nur hinzunehmen, wenn es den konkreten Auftrag traegt:
 
-- `§ 241 Abs. 2 BGB` — Rücksichtnahme-, Schutz- und Organisationspflichten.
-- `§ 242 BGB` — Treu und Glauben als Korrektiv enger Klausel- und Anspruchsarbeit.
-- `§ 280 Abs. 1 BGB` — Pflichtverletzung, Vertretenmuessen, Schaden.
-- `§ 286 Abs. 1 BGB` — Verzug und Fristlogik.
-- `§ 195 BGB` — regelmäßige Verjährung.
-- `§ 199 Abs. 1 BGB` — Beginn der regelmäßigen Verjährung.
-- `§ 253 Abs. 2 ZPO` — Bestimmtheit von Antrag und Klagegrund.
-- `§ 138 Abs. 1 ZPO` — Wahrheitspflicht und vollstaendiger Tatsachenvortrag.
+- `Paragraf  241 Abs. 2 BGB` — Rücksichtnahme-, Schutz- und Organisationspflichten.
+- `Paragraf  242 BGB` — Treu und Glauben als Korrektiv enger Klausel- und Anspruchsarbeit.
+- `Paragraf  280 Abs. 1 BGB` — Pflichtverletzung, Vertretenmuessen, Schaden.
+- `Paragraf  286 Abs. 1 BGB` — Verzug und Fristlogik.
+- `Paragraf  195 BGB` — regelmäßige Verjährung.
+- `Paragraf  199 Abs. 1 BGB` — Beginn der regelmäßigen Verjährung.
+- `Paragraf  253 Abs. 2 ZPO` — Bestimmtheit von Antrag und Klagegrund.
+- `Paragraf  138 Abs. 1 ZPO` — Wahrheitspflicht und vollstaendiger Tatsachenvortrag.
 
 Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei prüfbare Quelle vorliegen; keine BeckRS-/juris-Blindzitate verwenden.
 
@@ -725,22 +725,22 @@ Bezeichnung: Pralr Normkarte Zitat Mit Link Zum Digitalisat
 ### 1.14.1 Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
-- Fristen und Eilrisiken zuerst markieren: historisch — Verjährung nach ALR-Vorschriften (z. B. 30-jährige actio); heutige Anwendung über Art. 184 ff. EGBGB und § 195 BGB.
-- Tragende Normen verifizieren: ALR Einleitung §§ 1-100, Erster Teil (Personen-/Sachenrecht), Zweiter Teil (Personenstand, Familie, Erbrecht), Allgemeine Gerichtsordnung; abgelöst durch BGB (1900), aber dogmenhistorisch fortwirkend — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
+- Fristen und Eilrisiken zuerst markieren: historisch — Verjährung nach ALR-Vorschriften (z. B. 30-jährige actio); heutige Anwendung über Art. 184 ff. EGBGB und Paragraf  195 BGB.
+- Tragende Normen verifizieren: ALR Einleitung Paragrafen  1-100, Erster Teil (Personen-/Sachenrecht), Zweiter Teil (Personenstand, Familie, Erbrecht), Allgemeine Gerichtsordnung; abgelöst durch BGB (1900), aber dogmenhistorisch fortwirkend — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Rechtshistoriker, Lehrstühle, Restitutionsverfahren mit Altrecht-Bezug, Boden- und Erbschaftsstreite mit historischer Wurzel.
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Rechtsvergleichende Stellungnahme, ALR-Auszug aus historischer Edition, dogmatische Untersuchung, Restitutionsgutachten, Erbschaftsgutachten — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
 ### 1.14.2 Verbindliche Zitierform
 
-**ALR I 8 § 1** — Teil I (Privatrecht), Titel 8 (Eigentum), Paragraph 1.
+**ALR I 8 Paragraf  1** — Teil I (Privatrecht), Titel 8 (Eigentum), Paragraph 1.
 
 oder:
 
-**ALR Einl. § 74** — Einleitung, Paragraph 74.
+**ALR Einl. Paragraf  74** — Einleitung, Paragraph 74.
 
 oder:
 
-**ALR II 17 § 10** — Teil II (Staats/öffentliches Recht), Titel 17 (Polizey), Paragraph 10.
+**ALR II 17 Paragraf  10** — Teil II (Staats/öffentliches Recht), Titel 17 (Polizey), Paragraph 10.
 
 ### 1.14.3 Verfuegbare Digitalisate
 
@@ -758,7 +758,7 @@ oder:
 
 ### 1.14.5 Subsumtionsbeispiel
 
-Bei Zitierung "ALR Einl. § 74" muss klar sein:
+Bei Zitierung "ALR Einl. Paragraf  74" muss klar sein:
 - Welche Ausgabe?
 - Wortlaut nachvollziehbar?
 - Heutige Anschlussfrage?
@@ -782,14 +782,14 @@ Bezeichnung: 1792 vs. 1794
 
 Vor einer rechtlichen Schlussfolgerung diese Anker am aktuellen Normtext prüfen; Spezial- und Landesrecht nur hinzunehmen, wenn es den konkreten Auftrag traegt:
 
-- `§ 241 Abs. 2 BGB` — Rücksichtnahme-, Schutz- und Organisationspflichten.
-- `§ 242 BGB` — Treu und Glauben als Korrektiv enger Klausel- und Anspruchsarbeit.
-- `§ 280 Abs. 1 BGB` — Pflichtverletzung, Vertretenmuessen, Schaden.
-- `§ 286 Abs. 1 BGB` — Verzug und Fristlogik.
-- `§ 195 BGB` — regelmäßige Verjährung.
-- `§ 199 Abs. 1 BGB` — Beginn der regelmäßigen Verjährung.
-- `§ 253 Abs. 2 ZPO` — Bestimmtheit von Antrag und Klagegrund.
-- `§ 138 Abs. 1 ZPO` — Wahrheitspflicht und vollstaendiger Tatsachenvortrag.
+- `Paragraf  241 Abs. 2 BGB` — Rücksichtnahme-, Schutz- und Organisationspflichten.
+- `Paragraf  242 BGB` — Treu und Glauben als Korrektiv enger Klausel- und Anspruchsarbeit.
+- `Paragraf  280 Abs. 1 BGB` — Pflichtverletzung, Vertretenmuessen, Schaden.
+- `Paragraf  286 Abs. 1 BGB` — Verzug und Fristlogik.
+- `Paragraf  195 BGB` — regelmäßige Verjährung.
+- `Paragraf  199 Abs. 1 BGB` — Beginn der regelmäßigen Verjährung.
+- `Paragraf  253 Abs. 2 ZPO` — Bestimmtheit von Antrag und Klagegrund.
+- `Paragraf  138 Abs. 1 ZPO` — Wahrheitspflicht und vollstaendiger Tatsachenvortrag.
 
 Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei prüfbare Quelle vorliegen; keine BeckRS-/juris-Blindzitate verwenden.
 
@@ -823,22 +823,22 @@ Bezeichnung: 1792 vs. 1794
 
 Vor einer rechtlichen Schlussfolgerung diese Anker am aktuellen Normtext prüfen; Spezial- und Landesrecht nur hinzunehmen, wenn es den konkreten Auftrag traegt:
 
-- `§ 241 Abs. 2 BGB` — Rücksichtnahme-, Schutz- und Organisationspflichten.
-- `§ 242 BGB` — Treu und Glauben als Korrektiv enger Klausel- und Anspruchsarbeit.
-- `§ 280 Abs. 1 BGB` — Pflichtverletzung, Vertretenmuessen, Schaden.
-- `§ 286 Abs. 1 BGB` — Verzug und Fristlogik.
-- `§ 195 BGB` — regelmäßige Verjährung.
-- `§ 199 Abs. 1 BGB` — Beginn der regelmäßigen Verjährung.
-- `§ 253 Abs. 2 ZPO` — Bestimmtheit von Antrag und Klagegrund.
-- `§ 138 Abs. 1 ZPO` — Wahrheitspflicht und vollstaendiger Tatsachenvortrag.
+- `Paragraf  241 Abs. 2 BGB` — Rücksichtnahme-, Schutz- und Organisationspflichten.
+- `Paragraf  242 BGB` — Treu und Glauben als Korrektiv enger Klausel- und Anspruchsarbeit.
+- `Paragraf  280 Abs. 1 BGB` — Pflichtverletzung, Vertretenmuessen, Schaden.
+- `Paragraf  286 Abs. 1 BGB` — Verzug und Fristlogik.
+- `Paragraf  195 BGB` — regelmäßige Verjährung.
+- `Paragraf  199 Abs. 1 BGB` — Beginn der regelmäßigen Verjährung.
+- `Paragraf  253 Abs. 2 ZPO` — Bestimmtheit von Antrag und Klagegrund.
+- `Paragraf  138 Abs. 1 ZPO` — Wahrheitspflicht und vollstaendiger Tatsachenvortrag.
 
 Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei prüfbare Quelle vorliegen; keine BeckRS-/juris-Blindzitate verwenden.
 
 ### 1.16.2 Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
-- Fristen und Eilrisiken zuerst markieren: historisch — Verjährung nach ALR-Vorschriften (z. B. 30-jährige actio); heutige Anwendung über Art. 184 ff. EGBGB und § 195 BGB.
-- Tragende Normen verifizieren: ALR Einleitung §§ 1-100, Erster Teil (Personen-/Sachenrecht), Zweiter Teil (Personenstand, Familie, Erbrecht), Allgemeine Gerichtsordnung; abgelöst durch BGB (1900), aber dogmenhistorisch fortwirkend — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
+- Fristen und Eilrisiken zuerst markieren: historisch — Verjährung nach ALR-Vorschriften (z. B. 30-jährige actio); heutige Anwendung über Art. 184 ff. EGBGB und Paragraf  195 BGB.
+- Tragende Normen verifizieren: ALR Einleitung Paragrafen  1-100, Erster Teil (Personen-/Sachenrecht), Zweiter Teil (Personenstand, Familie, Erbrecht), Allgemeine Gerichtsordnung; abgelöst durch BGB (1900), aber dogmenhistorisch fortwirkend — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Rechtshistoriker, Lehrstühle, Restitutionsverfahren mit Altrecht-Bezug, Boden- und Erbschaftsstreite mit historischer Wurzel.
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Rechtsvergleichende Stellungnahme, ALR-Auszug aus historischer Edition, dogmatische Untersuchung, Restitutionsgutachten, Erbschaftsgutachten — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
@@ -865,12 +865,12 @@ Suchbegriff: `pralr-normblock-00001-00100`
 
 Aktivierungskern: Wenn es um PrALR-Normblock Paragrafen 1-100 in Preußisches Allgemeines Landrecht geht: ordnet Sachverhalt, Norm, Beweislast, Gegenargumente und nächsten Schritt; liefert eine Schnittstellenkarte mit Kollisions-, Zuständigkeits- und Nachweisfragen.
 
-Bezeichnung: PrALR-Normblock §§ 1-100
+Bezeichnung: PrALR-Normblock Paragrafen  1-100
 
 
 ### 1.17.1 Auftrag
 
-Dieser Skill erschließt einen engen Ausschnitt des Preußischen Allgemeinen Landrechts. Er behandelt den Block **§§ 1 bis 100** nicht pauschal, sondern erzeugt auf Anforderung für jede einzelne Vorschrift eine eigene Normkarte.
+Dieser Skill erschließt einen engen Ausschnitt des Preußischen Allgemeinen Landrechts. Er behandelt den Block **Paragrafen  1 bis 100** nicht pauschal, sondern erzeugt auf Anforderung für jede einzelne Vorschrift eine eigene Normkarte.
 
 ### 1.17.2 Arbeitsregel
 

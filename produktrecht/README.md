@@ -93,21 +93,21 @@ Verbindet sich mit Ihrem Launch-Tracker (Jira/Linear), liest zehn vergangene Lau
 Ihre Konfiguration wird unter `~/.claude/plugins/config/claude-fuer-deutsches-recht/produktrecht/CLAUDE.md` gespeichert und überlebt Plugin-Updates.
 
 ```
-/produktrecht:produktrecht-kaltstart-interview
+/produktrecht:kaltstart-interview
 ```
 
 ## Befehle
 
 | Befehl | Funktion |
 |---|---|
-| `/produktrecht:produktrecht-kaltstart-interview` | Kaltstart-Interview |
+| `/produktrecht:kaltstart-interview` | Kaltstart-Interview |
 | `/produktrecht:launch-pruefung [PRD oder Ticket]` | Vollständiger Launch-Review gegen Ihr Framework |
 | `/produktrecht:werbeaussagen-pruefung [Text]` | Werbeaussagen-Prüfung |
 | `/produktrecht:ist-das-ein-problem [Frage]` | Schnelle "Ist-das-ein-Problem?"-Antwort |
 | `/produktrecht:feature-risikobewertung [Feature]` | Tiefgehende Feature-Risikobewertung |
 | `/produktrecht:impressum-pflicht` | Impressumspflichten prüfen (DDG, MStV) |
 | `/produktrecht:preisangaben` | Preisangabenpflichten prüfen (PAngV) |
-| `/produktrecht:produktrecht-mandat-arbeitsbereich` | Mandate verwalten (nur Multi-Mandanten-Praxis) |
+| `/produktrecht:mandat-arbeitsbereich` | Mandate verwalten (nur Multi-Mandanten-Praxis) |
 
 ## Skills
 
@@ -147,7 +147,7 @@ Mit verbundenem Tracker: Kaltstart liest Launch-Historie, launch-prüfung liest 
 ## Schnellstart
 
 ```
-/produktrecht:produktrecht-kaltstart-interview
+/produktrecht:kaltstart-interview
 ```
 
 Dann:
@@ -194,7 +194,7 @@ Ihr Praxisprofil unter `~/.claude/plugins/config/claude-fuer-deutsches-recht/pro
 
 ## Voraussetzungen
 
-Einige Features referenzieren externe Integrationen (Dokumentenmanagementsystem, Launch-Tracker, Fallmanagementsystem, Regulierungs-Feeds). Diese sind nicht mitgeliefert – wenn Sie einen MCP-Server dafür in Ihrer Umgebung haben, verwenden ihn die relevanten Features. Ohne einen fällt das Plugin auf Datei-Upload und manuelle Abläufe zurück. Führen Sie `/produktrecht:produktrecht-kaltstart-interview --check-integrations` aus um zu sehen, was in Ihrer Umgebung verfügbar ist.
+Einige Features referenzieren externe Integrationen (Dokumentenmanagementsystem, Launch-Tracker, Fallmanagementsystem, Regulierungs-Feeds). Diese sind nicht mitgeliefert – wenn Sie einen MCP-Server dafür in Ihrer Umgebung haben, verwenden ihn die relevanten Features. Ohne einen fällt das Plugin auf Datei-Upload und manuelle Abläufe zurück. Führen Sie `/produktrecht:kaltstart-interview --check-integrations` aus um zu sehen, was in Ihrer Umgebung verfügbar ist.
 
 ## Konfiguration
 

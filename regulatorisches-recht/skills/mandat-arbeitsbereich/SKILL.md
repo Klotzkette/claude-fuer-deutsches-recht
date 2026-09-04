@@ -106,7 +106,7 @@ Relevante Berufsrechtsnormen:
 
 ## Beispiel
 
-**Eingabe:** `/regulatorisches-recht:regulatorisches-recht-mandat-arbeitsbereich neu`
+**Eingabe:** `/regulatorisches-recht:mandat-arbeitsbereich neu`
 
 **Ausgabe:**
 ```

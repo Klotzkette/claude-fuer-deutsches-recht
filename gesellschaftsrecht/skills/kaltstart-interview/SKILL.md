@@ -147,7 +147,7 @@ Bei AG zusätzlich: Hauptversammlung (Präsenz, virtuelle HV nach Paragraf 118a 
 
 Zusammenfassung zeigen, Praxisprofil erstellen, Pflege erläutern:
 
-> Ihr Praxisprofil liegt in CLAUDE.md. Änderungen jederzeit direkt oder per `/gesellschaftsrecht:gesellschaftsrecht-kaltstart-interview --redo` möglich. Am häufigsten angepasst: Wesentlichkeitsschwellen, Hausstil für Beschlüsse, Eskalationsmatrix.
+> Ihr Praxisprofil liegt in CLAUDE.md. Änderungen jederzeit direkt oder per `/gesellschaftsrecht:kaltstart-interview --redo` möglich. Am häufigsten angepasst: Wesentlichkeitsschwellen, Hausstil für Beschlüsse, Eskalationsmatrix.
 
 ## Output-Template
 
@@ -202,8 +202,8 @@ Jahresabschluss-Pflichten: [HGB / IFRS]
 | [VDR-NAME] | [VERBUNDEN / NICHT VERBUNDEN] | [DATUM] |
 | Handelsregister | [VERBUNDEN / NICHT VERBUNDEN] | [DATUM] |
 
-_Profil-Pflege: Einzelne Aenderungen per `/gesellschaftsrecht:gesellschaftsrecht-anpassen`.
-Vollstaendige Neueinrichtung per `/gesellschaftsrecht:gesellschaftsrecht-kaltstart-interview --redo`._
+_Profil-Pflege: Einzelne Aenderungen per `/gesellschaftsrecht:anpassen`.
+Vollstaendige Neueinrichtung per `/gesellschaftsrecht:kaltstart-interview --redo`._
 ```
 
 ## Rote Schwellen

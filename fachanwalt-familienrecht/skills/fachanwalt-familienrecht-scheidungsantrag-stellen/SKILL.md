@@ -1,7 +1,13 @@
 ---
 name: fachanwalt-familienrecht-scheidungsantrag-stellen
-description: "Für Fachanwalt Familienrecht Scheidungsantrag Stellen: erstellt Entwurf mit Antrag, Beweis und Anlagen; Ergebnis: Schriftsatz mit Begründungs- und Anlagenlogik."
+description: "Bereitet den Scheidungsantrag aus Trennungsnachweisen, Urkunden und Verfahrensdaten vor. Prüft Scheidungsvoraussetzungen, Zuständigkeit und Verbund und erstellt einen ausformulierten Antrag mit Belegen und Anlagen."
 ---
+
+# Scheidungsantrag mit Begründung und Anlagen vorbereiten
+
+## 1. Fachlicher Einstieg
+
+Lies zuerst Heiratsurkunde, Trennungsnachweise, vorhandene Anträge und Vereinbarungen. Prüfe Scheidungsvoraussetzungen, Zuständigkeit, anwaltliche Vertretung und notwendige Angaben nach Paragraf 133 FamFG und beginne mit dem konkreten Antragsentwurf. Die folgenden Fragen dienen nur der Klärung entscheidender Lücken; Scheidung, Versorgungsausgleich und weitere Folgesachen bleiben getrennte Prüfgegenstände.
 
 ## Mandantenfragen beim Kaltstart
 
@@ -309,7 +315,7 @@ Für 2 Anrechte à EUR 16.500: EUR 1.650 × 2 = EUR 3.300 Gesamtzuschlag.
 
 ## Anschluss-Skills
 
-- `fachanwalt-familienrecht-duesseldorfer-tabelle-unterhalt` — Kindes- und Ehegattenunterhalt nach der Scheidung
+- `unterhalt-berechnen-und-gegenrechnen` — Kindes- und Ehegattenunterhalt nach der Scheidung
 - `fachanwalt-familienrecht-mediation-156-famfg-cochemer` — Mediationsalternative bei Hochkonflikt-Trennungen
 - `fachanwalt-familienrecht-umgangsregelung-mustervorlagen` — Sorge- und Umgangsregelungen im Scheidungsverbund
 - `fachanwalt-familienrecht-sbgg-personenstandswechsel-folgen` — Personenstandsänderungen im Kontext der Scheidung

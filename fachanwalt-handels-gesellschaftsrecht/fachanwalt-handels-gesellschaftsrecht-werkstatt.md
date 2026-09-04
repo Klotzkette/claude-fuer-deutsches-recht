@@ -77,9 +77,9 @@ Entwurfsgriff Arbeitsprodukt: Beschlussvorschlag, Organmemo, Anteilsübertragung
 
 | Ebene | Fallfrage | Anker | Sofortausgabe |
 | --- | --- | --- | --- |
-| Geschäfts- und Regelungskern | Fachanwalt Handels Gesellschaftsrecht Geschäftsführerhaftung | BGB Paragraf 705 | Entwurfsvermerk mit Ziel- und Rückfallposition |
+| Geschäfts- und Regelungskern | Gesellschaftsprozess-Versandmappe endfertigen | BGB Paragraf 705 | Entwurfsvermerk mit Ziel- und Rückfallposition |
 | Mechanik und Fassung | Definition, Tatbestand, Leistung, Anpassung, Haftung und Rechtsbehelf | HGB Paragraf 105 | Klausel oder Redline mit Varianten |
-| Nachweis und Freigabe | Fachanwalt Hgr Dlt Pilotregime Token | Anspruchsteller für Pflichtverletzung, Schaden und Kausalität; Organ oder Gesellschafter für Entlastung, Beschlussbasis und Business Judgment | Gremien-, Bedingungs- und Dokumentenmatrix |
+| Nachweis und Freigabe | Holding-Strukturen für Beteiligungen, Exit und Nachfolge vergleichen | Anspruchsteller für Pflichtverletzung, Schaden und Kausalität; Organ oder Gesellschafter für Entlastung, Beschlussbasis und Business Judgment | Gremien-, Bedingungs- und Dokumentenmatrix |
 | Vollzug | Beschlussfassung, Anfechtung, Organhaftung, Registervollzug, Abberufung oder Vergleich | Verantwortlicher, Termin und Erfüllungsnachweis | Signing-, Closing- oder Registerliste |
 
 ## 5. Rechtsanker, Regelungsmechanik, Nachweis und Vollzug
@@ -135,12 +135,12 @@ Entwurfsgriff Arbeitsprodukt: Beschlussvorschlag, Organmemo, Anteilsübertragung
 
 10.1. Regelungsziel: Benenne Parteien, Geschäftsziel, gewünschte Rechtswirkung und Vollzugszustand: Beschlussfassung, Anfechtung, Organhaftung, Registervollzug, Abberufung oder Vergleich.
 10.2. Rechtsrahmen: Stelle zwingende Grenze und dispositiven Gestaltungsspielraum voran; erste Anker sind BGB Paragraf 705; HGB Paragraf 105.
-10.3. Mechanik: Arbeite zuerst Fachanwalt Handels Gesellschaftsrecht Geschäftsführerhaftung; Definition, Tatbestand, Leistung, Anpassung, Haftung und Rechtsbehelf müssen ineinandergreifen.
+10.3. Mechanik: Arbeite zuerst Gesellschaftsprozess-Versandmappe endfertigen; Definition, Tatbestand, Leistung, Anpassung, Haftung und Rechtsbehelf müssen ineinandergreifen.
 10.4. Dokumentstand: Nenne Fassung, Datum, Klausel, Datenraumfund, Beschluss oder Q&A-Antwort; im Bereich Gesellschaftsrecht tragen regelmäßig Gesellschaftsvertrag, Gesellschafterliste, Beschlussprotokoll und Handelsregisterauszug den Nachweis.
 10.5. Nachweis und Freigabe: Anspruchsteller für Pflichtverletzung, Schaden und Kausalität; Organ oder Gesellschafter für Entlastung, Beschlussbasis und Business Judgment. Zeige die Folge eines offenen Parameters oder fehlenden Beschlusses.
 10.6. Gegenposition: Formuliere die stärkste Verhandlungsposition der anderen Seite; sie setzt typischerweise bei Ladungs- und Beschlussmängeln sowie der Vertretungsmacht an.
 10.7. Rückfallposition: Antworte mit konkreter Alternativfassung, Preis- oder Vollzugsausgleich und zeige die Auswirkung auf Beschlussfassung, Anfechtung, Organhaftung, Registervollzug, Abberufung oder Vergleich.
-10.8. Entwurf und Vollzug: Schließe mit Ausgabe entlang der Kernfelder Fachanwalt Handels Gesellschaftsrecht Geschäftsführerhaftung, Fachanwalt Hgr Dlt Pilotregime Token, Gesellschaftsprozess-Versandmappe endfertigen, Informationsrecht des Kommanditisten prüfen: Kurzvermerk, Prüfmatrix, Entwurf, Fristenblatt oder Fragenliste mit nächstem Schritt; Verantwortlicher, Termin, Bedingung und Erfüllungsnachweis sind ausformuliert.
+10.8. Entwurf und Vollzug: Schließe mit Ausgabe entlang der Kernfelder Gesellschaftsprozess-Versandmappe endfertigen, Holding-Strukturen für Beteiligungen, Exit und Nachfolge vergleichen, Tokenisierung und DLT-Pilotregime für Emittenten und Plattformen prüfen, Informationsrecht des Kommanditisten prüfen: Kurzvermerk, Prüfmatrix, Entwurf, Fristenblatt oder Fragenliste; Verantwortlicher, Termin, Bedingung und Erfüllungsnachweis sind ausformuliert.
 10.9. Quellenstatus: Rechtsprechung wird nach Tragweite und Vertragsbezug eingeordnet; erste Fallanker sind erst nach verifizierter Recherche einzusetzen.
 
 ## 11. Outputvarianten und Empfängerwunsch
@@ -175,38 +175,37 @@ Die Landkarte dient der schnellen Auswahl. Sie ersetzt nicht die darunter ausfor
 
 | Arbeitsfeld | Entscheidende Weiche | Erstes Lieferstück |
 | --- | --- | --- |
-| Fachanwalt Handels Gesellschaftsrecht Geschäftsführerhaftung | Ist die Business Judgement Rule anwendbar — handelt es sich um eine unternehmerische Ermessensentscheidung auf angemessener Informationsgrundlage? | gewichtete Prüfmatrix mit Tatbestandsmerkmalen, Fundstellen, Gegenposition, Beweislast, Risiko und Empfehlung |
-| Fachanwalt Hgr Dlt Pilotregime Token | Welcher Wertpapiertyp soll tokenisiert werden — Inhaberaktie (Paragraf 10 AktG), Namensaktie (Paragraf 67 AktG), Schuldverschreibung oder Investmentanteil? | Entwurfsbaustein zu Fachanwalt Hgr Dlt Pilotregime Token mit Geschäftsziel, Rechtswirkung, Risikozuweisung, Verhandlungsvariante, Freigabe und Vollzugsschritt |
 | Gesellschaftsprozess-Versandmappe endfertigen | Baue eine Organ- und Beschlussmatrix mit Datum, Zuständigkeit, Teilnehmern, Mehrheit und Einwand. | Entwurfsbaustein zu Gesellschaftsprozess-Versandmappe endfertigen mit Geschäftsziel, Rechtswirkung, Risikozuweisung, Verhandlungsvariante, Freigabe und Vollzugsschritt |
+| Holding-Strukturen für Beteiligungen, Exit und Nachfolge vergleichen | Vorrang für die Bearbeitung: Alle nachfolgenden Mandanten-, Triage- und Versandfragen sind interne Prüfpunkte, kein Fragekatalog. Werte zuerst das vorhandene Material aus. | Verhandlungsblatt zu Holding-Strukturen für Beteiligungen, Exit und Nachfolge vergleichen mit Ziel, Mindestposition, Tauschmasse, Risiko, Regelungstext und Vollzug |
+| Tokenisierung und DLT-Pilotregime für Emittenten und Plattformen prüfen | Ordne die vorgesehenen Funktionen von Emittent, Registerführung, Handel und Abwicklung getrennt zu. Werte zuerst das vorhandene Material aus; frage nur nach noch fehlenden, entscheidenden Angaben. | Entwurfsbaustein zu Tokenisierung und DLT-Pilotregime für Emittenten und Plattformen prüfen mit Geschäftsziel, Rechtswirkung, Risikozuweisung, Verhandlungsvariante, Freigabe. |
 | Informationsrecht des Kommanditisten prüfen | II ZB 10/15, betraf Paragraf 166 HGB in der bis Ende 2023 geltenden Fassung. Danach war das außerordentliche Informationsrecht an einen wichtigen Grund gebunden und nach Eignung, Erforderlichkeit sowie den Interessen. | Entwurfsbaustein zu Informationsrecht des Kommanditisten prüfen mit Geschäftsziel, Rechtswirkung, Risikozuweisung, Verhandlungsvariante, Freigabe und Vollzugsschritt |
+| Fachanwalt Handels Gesellschaftsrecht Geschäftsführerhaftung | Bearbeite Fachanwalt Handels Gesellschaftsrecht Geschäftsführerhaftung: satzung, Beschlusskompetenz, Mehrheit, Vertretung, Treuepflicht, Registervollzug und Haftungsrisiko nebeneinanderlegen. | gewichtete Prüfmatrix mit Tatbestandsmerkmalen, Fundstellen, Gegenposition, Beweislast, Risiko und Empfehlung |
 | Gesellschaftervertrag | Bearbeite Gesellschaftervertrag: satzung, Beschlusskompetenz, Mehrheit, Vertretung, Treuepflicht, Registervollzug und Haftungsrisiko nebeneinanderlegen. | verhandlungsfähige Fassung mit Ausgangstext, Änderung, Begründung, Rückfallposition und Vollzugscheck |
 | Grenzüberschreitende Formwechsel und Sitzverlegung nach EU-Mobilitätsrichtlinie und UmwG | Bearbeite Grenzüberschreitende Formwechsel und Sitzverlegung nach EU-Mobilitätsrichtlinie und UmwG: satzung, Beschlusskompetenz, Mehrheit, Vertretung, Treuepflicht, Registervollzug und Haftungsrisiko nebeneinanderlegen. | Entwurfsbaustein zu Grenzüberschreitende Formwechsel und Sitzverlegung nach EU-Mobilitätsrichtlinie und UmwG mit Geschäftsziel, Rechtswirkung, Risikozuweisung. |
 | Handelsregister-Praxis | Bearbeite Handelsregister-Praxis: satzung, Beschlusskompetenz, Mehrheit, Vertretung, Treuepflicht, Registervollzug und Haftungsrisiko nebeneinanderlegen. | vollständige Einreichungs- oder Registervorlage mit Zuständigkeit, Pflichtfeldern, Nachweisen, Freigabe und Vollzugskontrolle |
 | Kanzlei Beweislast und Darlegungslast | Bearbeite Kanzlei Beweislast und Darlegungslast: satzung, Beschlusskompetenz, Mehrheit, Vertretung, Treuepflicht, Registervollzug und Haftungsrisiko nebeneinanderlegen. | Beweismatrix zu Kanzlei Beweislast und Darlegungslast mit Tatfrage, Beweislast, Beweismittel, Fundstelle, Gegenposition und Folge eines offenen Nachweises |
-| Kapitalerhaltung nach Paragraf 30 GmbHG prüfen | Prüfe jede Vermögensverschiebung zum Gesellschafter aus Sicht der Gesellschaft. Vollwertigen Gegenleistungs- oder Rückgewähranspruch am Auszahlungstag prüfen; spätere Entwicklungen nicht rückwirkend einblenden. | Entwurfsbaustein zu Kapitalerhaltung nach Paragraf 30 GmbHG prüfen mit Geschäftsziel, Rechtswirkung, Risikozuweisung, Verhandlungsvariante, Freigabe und Vollzugsschritt |
 
 ## 16. Fachspezifische Praxisrouten
 
 Diese Routen stammen aus den konkreten Arbeitsthemen dieses Plugins. Wähle die sachnächste Route, liefere deren ersten verwertbaren Baustein sofort und vertiefe nur die Punkte, die das Ergebnis tatsächlich ändern.
 
-### 16.1. Fachanwalt Handels Gesellschaftsrecht Geschäftsführerhaftung
-
-Bearbeitungsauftrag: Ist die Business Judgement Rule anwendbar — handelt es sich um eine unternehmerische Ermessensentscheidung auf angemessener Informationsgrundlage? Besteht eine D&O-Versicherung — bei AG-Vorstand zwingender Selbstbehalt 10 % bis 1.5-faches Festvergütung (Paragraf 93 Absatz 2 S. 3 AktG)? Rechtsprechung: keine Entscheidung aus Modellwissen zitieren.
-Prüfschritte: Welche Rechtsform ist betroffen — GmbH (Paragraf 43 GmbHG), AG (Paragraf 93 AktG), GmbH & Co.
-Normbezug aus dem Fachmaterial: Welche Rechtsform ist betroffen — GmbH (Paragraf 43 GmbHG), AG (Paragraf 93 AktG), GmbH & Co; KG (Paragraf 43 GmbHG analog)?
-Lieferstück: gewichtete Prüfmatrix mit Tatbestandsmerkmalen, Fundstellen, Gegenposition, Beweislast, Risiko und Empfehlung.
-
-### 16.2. Fachanwalt Hgr Dlt Pilotregime Token
-
-Bearbeitungsauftrag: Welcher Wertpapiertyp soll tokenisiert werden — Inhaberaktie (Paragraf 10 AktG), Namensaktie (Paragraf 67 AktG), Schuldverschreibung oder Investmentanteil? Ist die Satzung der Aktiengesellschaft auf "elektronische Wertpapiere als Krypto-Wertpapiere" ausgerichtet? Sind DORA-Anforderungen (seit 17.1.2025) bereits in der IT-Governance abgebildet?
-Normbezug aus dem Fachmaterial: Welcher Wertpapiertyp soll tokenisiert werden — Inhaberaktie (Paragraf 10 AktG), Namensaktie (Paragraf 67 AktG), Schuldverschreibung oder Investmentanteil?
-Lieferstück: Entwurfsbaustein zu Fachanwalt Hgr Dlt Pilotregime Token mit Geschäftsziel, Rechtswirkung, Risikozuweisung, Verhandlungsvariante, Freigabe und Vollzugsschritt.
-
-### 16.3. Gesellschaftsprozess-Versandmappe endfertigen
+### 16.1. Gesellschaftsprozess-Versandmappe endfertigen
 
 Bearbeitungsauftrag: Baue eine Organ- und Beschlussmatrix mit Datum, Zuständigkeit, Teilnehmern, Mehrheit und Einwand. Liefere Schriftsatz, Einzelanlagen, Organ- und Beschlussmatrix, Versionsregister, Berechnung, Manifest und Eingangskontrolle. Stoppe bei falscher Satzungsfassung, ungeklärter Vertretung, fehlendem Originalbeschluss oder widersprüchlicher Gesellschafterliste.
 Prüfschritte: Lies Klage oder Erwiderung, Satzung und alle maßgeblichen Fassungen, Registerauszug, Gesellschafterliste, Einberufung, Tagesordnung, Vollmachten, Protokoll, Beschlüsse, Geschäftsordnungen, Organverträge und Bewertungen; Satzungs- und Vertragsfassungen mit Datum und Versionsstand kennzeichnen; Registerauszug, Liste, Einladung, Protokoll, Beschluss und Bewertung getrennt halten; Geschäftsgeheimnisse in Dateinamen vermeiden; vertrauliche Fassungen und Schutzanträge gesondert prüfen.
 Lieferstück: Entwurfsbaustein zu Gesellschaftsprozess-Versandmappe endfertigen mit Geschäftsziel, Rechtswirkung, Risikozuweisung, Verhandlungsvariante, Freigabe und Vollzugsschritt.
+
+### 16.2. Holding-Strukturen für Beteiligungen, Exit und Nachfolge vergleichen
+
+Bearbeitungsauftrag: Vorrang für die Bearbeitung: Alle nachfolgenden Mandanten-, Triage- und Versandfragen sind interne Prüfpunkte, kein Fragekatalog. Werte zuerst das vorhandene Material aus; frage nur nach noch fehlenden, entscheidenden Angaben. Erstelle den möglichen Entwurf mit klar markierten Lücken; fehlende entscheidende Angaben nicht durch Annahmen ersetzen.
+Prüfschritte: Lies zuerst Beteiligungsübersicht, Gesellschaftsverträge, Registerunterlagen, vorhandene Bewertungen und die dokumentierten Exit- oder Nachfolgeziele; Vergleiche darauf bezogen die geeigneten Strukturvarianten; Liefere eine ausformulierte Entscheidungsvorlage mit Ausgangs- und Zielstruktur, Umsetzungsschritten, Kostenannahmen und ausdrücklich offenen steuerlichen Prüfpunkten; Vertragsbausteine nur für die tatsächlich ausgewählte Gestaltung ausarbeiten; Bereits Beantwortetes nicht erneut erheben.
+Lieferstück: Verhandlungsblatt zu Holding-Strukturen für Beteiligungen, Exit und Nachfolge vergleichen mit Ziel, Mindestposition, Tauschmasse, Risiko, Regelungstext und Vollzug.
+
+### 16.3. Tokenisierung und DLT-Pilotregime für Emittenten und Plattformen prüfen
+
+Bearbeitungsauftrag: Ordne die vorgesehenen Funktionen von Emittent, Registerführung, Handel und Abwicklung getrennt zu. Werte zuerst das vorhandene Material aus; frage nur nach noch fehlenden, entscheidenden Angaben. Erstelle den möglichen Entwurf mit klar markierten Lücken; fehlende entscheidende Angaben nicht durch Annahmen ersetzen.
+Prüfschritte: Lies zuerst Emissionskonzept, Tokenbedingungen, Satzung, Register- und Plattformverträge sowie vorhandene Erlaubnisunterlagen; Liefere einen ausformulierten Strukturierungsvermerk mit Rollenkarte, regulatorischen Prüfpunkten, Nachweislücken und Umsetzungsschritten; Schwellen, Anwendungszeitpunkte und Genehmigungsstatus nicht ungeprüft aus Beispielen übernehmen; Vorrang für die Bearbeitung: Alle nachfolgenden Mandanten-, Triage- und Versandfragen sind interne Prüfpunkte, kein Fragekatalog; Bereits Beantwortetes nicht erneut erheben.
+Lieferstück: Entwurfsbaustein zu Tokenisierung und DLT-Pilotregime für Emittenten und Plattformen prüfen mit Geschäftsziel, Rechtswirkung, Risikozuweisung, Verhandlungsvariante, Freigabe und Vollzugsschritt.
 
 ### 16.4. Informationsrecht des Kommanditisten prüfen
 
@@ -214,42 +213,42 @@ Bearbeitungsauftrag: II ZB 10/15, betraf Paragraf 166 HGB in der bis Ende 2023 g
 Normbezug aus dem Fachmaterial: Prüfe Informations-, Auskunfts- und Einsichtsrechte des Kommanditisten nach dem seit 2024 geltenden Paragraf 166 HGB, ordnet Altgesellschaften und Vertragsklauseln ein und erstellt ein bestimmtes Informationsverlangen samt Erforderlichkeits.
 Lieferstück: Entwurfsbaustein zu Informationsrecht des Kommanditisten prüfen mit Geschäftsziel, Rechtswirkung, Risikozuweisung, Verhandlungsvariante, Freigabe und Vollzugsschritt.
 
-### 16.5. Gesellschaftervertrag
+### 16.5. Fachanwalt Handels Gesellschaftsrecht Geschäftsführerhaftung
+
+Bearbeitungsauftrag: Bearbeite Fachanwalt Handels Gesellschaftsrecht Geschäftsführerhaftung: satzung, Beschlusskompetenz, Mehrheit, Vertretung, Treuepflicht, Registervollzug und Haftungsrisiko nebeneinanderlegen. Zerlege Anspruchsgrund, Pflichtenkreis, Pflichtverletzung, Zurechnung, Kausalität und Schaden; ordne Einwendungen, Mitverantwortung, Verjährung, Beweislast, Versicherung und jede bezifferte Rechtsfolge den konkreten Aktenbelegen zu.
+Lieferstück: gewichtete Prüfmatrix mit Tatbestandsmerkmalen, Fundstellen, Gegenposition, Beweislast, Risiko und Empfehlung.
+
+### 16.6. Gesellschaftervertrag
 
 Bearbeitungsauftrag: Bearbeite Gesellschaftervertrag: satzung, Beschlusskompetenz, Mehrheit, Vertretung, Treuepflicht, Registervollzug und Haftungsrisiko nebeneinanderlegen. Lege Regelungsziel und tatsächlichen Ablauf offen, prüfe Definitionen, Haupt- und Nebenpflichten, Bedingungen, Laufzeit, Beendigung, Haftung, Form, zwingendes Recht und Vollzug und liefere Klausel, Rückfallposition und Abschlusskontrolle.
 Lieferstück: verhandlungsfähige Fassung mit Ausgangstext, Änderung, Begründung, Rückfallposition und Vollzugscheck.
 
-### 16.6. Grenzüberschreitende Formwechsel und Sitzverlegung nach EU-Mobilitätsrichtlinie und UmwG
+### 16.7. Grenzüberschreitende Formwechsel und Sitzverlegung nach EU-Mobilitätsrichtlinie und UmwG
 
 Bearbeitungsauftrag: Bearbeite Grenzüberschreitende Formwechsel und Sitzverlegung nach EU-Mobilitätsrichtlinie und UmwG: satzung, Beschlusskompetenz, Mehrheit, Vertretung, Treuepflicht, Registervollzug und Haftungsrisiko nebeneinanderlegen. Verbinde den konkreten Aktenfund mit Tatbestandsmerkmal, Gegenposition, Beweislast, Rechtsfolge und dem nächsten vollständig ausformulierten Arbeitsprodukt.
 Lieferstück: Entwurfsbaustein zu Grenzüberschreitende Formwechsel und Sitzverlegung nach EU-Mobilitätsrichtlinie und UmwG mit Geschäftsziel, Rechtswirkung, Risikozuweisung, Verhandlungsvariante, Freigabe und Vollzugsschritt.
 
-### 16.7. Handelsregister-Praxis
+### 16.8. Handelsregister-Praxis
 
 Bearbeitungsauftrag: Bearbeite Handelsregister-Praxis: satzung, Beschlusskompetenz, Mehrheit, Vertretung, Treuepflicht, Registervollzug und Haftungsrisiko nebeneinanderlegen. Bestimme zuständige Stelle, Pflichtigen, Auslöser, Frist und Pflichtfelder, führe jeden Eintrag auf einen Tatsachenbeleg zurück und liefere freigabefähige Meldung oder Bericht samt Übermittlungsnachweis, Korrekturweg und Anschlusskontrolle.
 Lieferstück: vollständige Einreichungs- oder Registervorlage mit Zuständigkeit, Pflichtfeldern, Nachweisen, Freigabe und Vollzugskontrolle.
 
-### 16.8. Kanzlei Beweislast und Darlegungslast
+### 16.9. Kanzlei Beweislast und Darlegungslast
 
 Bearbeitungsauftrag: Bearbeite Kanzlei Beweislast und Darlegungslast: satzung, Beschlusskompetenz, Mehrheit, Vertretung, Treuepflicht, Registervollzug und Haftungsrisiko nebeneinanderlegen. Formuliere jede entscheidungserhebliche Behauptung, ordne Originalfundstelle, Beweisführer, Beweismittel, Echtheit, Bestreiten, Zugangsrecht und Beweismaß zu und übersetze die verbleibende Lücke in eine konkrete Beschaffungs- oder Beweishandlung.
 Lieferstück: Beweismatrix zu Kanzlei Beweislast und Darlegungslast mit Tatfrage, Beweislast, Beweismittel, Fundstelle, Gegenposition und Folge eines offenen Nachweises.
 
-### 16.9. Kapitalerhaltung nach Paragraf 30 GmbHG prüfen
+### 16.10. Kapitalerhaltung nach Paragraf 30 GmbHG prüfen
 
 Bearbeitungsauftrag: Prüfe jede Vermögensverschiebung zum Gesellschafter aus Sicht der Gesellschaft. Vollwertigen Gegenleistungs- oder Rückgewähranspruch am Auszahlungstag prüfen; spätere Entwicklungen nicht rückwirkend einblenden. Anspruch aus Paragraf 31 GmbHG, Organhaftung, Verjährung und insolvenzrechtliche Anfechtung getrennt berechnen.
 Lieferstück: Entwurfsbaustein zu Kapitalerhaltung nach Paragraf 30 GmbHG prüfen mit Geschäftsziel, Rechtswirkung, Risikozuweisung, Verhandlungsvariante, Freigabe und Vollzugsschritt.
 
-### 16.10. Partgg Verhandlung Vergleich und Eskalation
+### 16.11. Partgg Verhandlung Vergleich und Eskalation
 
 Bearbeitungsauftrag: Bearbeite Partgg Verhandlung Vergleich und Eskalation: satzung, Beschlusskompetenz, Mehrheit, Vertretung, Treuepflicht, Registervollzug und Haftungsrisiko nebeneinanderlegen. Fixiere gesicherten Streitstand, Interessen, Mindestziel und objektive Kriterien, rechne Kosten- und Vollstreckungsrisiko und formuliere Vergleichskorridor, Rückfallposition, Regelungspunkte, Vollmacht und belastbaren Vollzug.
 Lieferstück: Verhandlungsblatt zu Partgg Verhandlung Vergleich und Eskalation mit Ziel, Mindestposition, Tauschmasse, Risiko, Regelungstext und Vollzug.
 
-### 16.11. Vorstandsvertrag AG vorbereiten: Paragrafen 84 ff
+### 16.12. Vorstandsvertrag AG vorbereiten: Paragrafen 84 ff
 
 Bearbeitungsauftrag: Bearbeite Vorstandsvertrag AG vorbereiten: Paragrafen 84 ff: satzung, Beschlusskompetenz, Mehrheit, Vertretung, Treuepflicht, Registervollzug und Haftungsrisiko nebeneinanderlegen. Lege Regelungsziel und tatsächlichen Ablauf offen, prüfe Definitionen, Haupt- und Nebenpflichten, Bedingungen, Laufzeit, Beendigung, Haftung, Form, zwingendes Recht und Vollzug und liefere Klausel, Rückfallposition und Abschlusskontrolle.
 Lieferstück: verhandlungsfähige Fassung mit Ausgangstext, Änderung, Begründung, Rückfallposition und Vollzugscheck.
-
-### 16.12. Beschlussanfechtung
-
-Bearbeitungsauftrag: Bearbeite Beschlussanfechtung: satzung, Beschlusskompetenz, Mehrheit, Vertretung, Treuepflicht, Registervollzug und Haftungsrisiko nebeneinanderlegen. Entwirf die im Fachverfahren richtige Entscheidungsform mit bestimmtem Ausspruch, festgestelltem Sachverhalt, offen gelegter Beweiswürdigung, tragender Subsumtion, Nebenentscheidungen und nur tatsächlich statthaftem Rechtsbehelf.
-Lieferstück: entscheidungsreifer Entwurf mit Tenor oder Verfügungssatz, Streitstoff, Beweiswürdigung und Nebenentscheidungen.

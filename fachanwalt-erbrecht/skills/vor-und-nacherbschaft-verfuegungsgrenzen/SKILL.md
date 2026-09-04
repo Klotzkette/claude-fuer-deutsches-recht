@@ -1,45 +1,46 @@
 ---
 name: vor-und-nacherbschaft-verfuegungsgrenzen
-description: "Für Verfügungsgrenzen bei Vor- und Nacherbschaft prüfen: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
+description: "Prüft Verfügungsgrenzen, Befreiung, Surrogate und Grundbuchschutz bei Vor- und Nacherbschaft und entwickelt Zustimmung, Abwehr, Herausgabe oder Schadensersatz."
 ---
 
-# Verfügungsgrenzen bei Vor- und Nacherbschaft prüfen
+# Verfügungen des Vorerben prüfen und absichern
 
-## 1. Einsatzlage
+## 1. Zweck und Anwendungsfall
 
-Ein Vorerbe verkauft, belastet oder verschenkt einen Vermögenswert, während der Nacherbe eine Beeinträchtigung seiner künftigen Rechtsposition geltend macht. Vor jeder Rechtsfolge sind Nachlasszugehörigkeit, Befreiung und Art der Verfügung präzise zu bestimmen.
+Für konkrete Verkäufe, Belastungen und Schenkungen in gebundener Erbschaft. Erbschaftsgegenstand und Anteil an einer Gemeinschaft sind nicht austauschbar.
 
-## 2. Normenanker
+## 2. Eingaben
 
-- Paragrafen 2100, 2106, 2111 und 2112 BGB: Eintritt der Nacherbfolge, Surrogation und grundsätzliche Verfügungsbefugnis.
-- Paragrafen 2113 bis 2115 und 2136 BGB: beschränkte Wirksamkeit bestimmter Verfügungen, Zwangsvollstreckung und Befreiung des Vorerben.
-- Paragrafen 2120, 2121 und 2130 BGB: Mitwirkung, Verzeichnis und Herausgabe sowie ordnungsgemäße Verwaltung.
-- Paragrafen 51 und 52 GBO sowie Paragrafen 892 und 893 BGB: Nacherbenvermerk und Verkehrsschutz.
+Verfügungen, Erbschein, Nacherbfall und Befreiung, Grundbuch, Erwerbsvertrag, Zuordnung zu Nachlass oder Gesamtgut, Verkehrswert, Erlösfluss und Zustimmungen.
 
-## 3. Rechtsprechungsanker
+## 3. Ablauf und Checkliste
 
-- BGH, Urteil vom 26. Juni 2024 - IV ZR 288/22: Paragraf 2113 BGB erfasst nur Grundstücke, die zur gebundenen Erbschaft gehören. Bei einem zum Gesamtgut einer Gütergemeinschaft gehörenden Grundstück kann die Norm nicht unmittelbar greifen; zugleich kann eine Pflichtverletzung aus der ordnungsgemäßen Verwaltung Schadensersatz auslösen. Die Darlegungs- und Beweislast für die Erforderlichkeit der Verfügung lag dort beim Vorerben.
-- BGH, Beschluss vom 15. März 2007 - V ZB 145/06: Gehört zur Vorerbschaft nur ein Anteil an einer Gesamthand, zu deren Vermögen ein Grundstück zählt, ist zwischen dem gebundenen Anteil und dem Grundstück selbst zu unterscheiden.
-- Die früher angeführte Entscheidung IV ZR 201/13 betrifft keine allgemeine Prüfung der Vor- und Nacherbschaft und wird hierfür nicht verwendet.
+1. Vor-, Nach- und Ersatznacherben, Nacherbfall, Befreiung und Verwaltungsanordnungen auslegen.
 
-## 4. Prüfprogramm
+2. Grundstück, Miteigentum, Gemeinschaftsanteil, Gesamtgut und Surrogat präzise zuordnen. Verpflichtungsgeschäft und dingliche Verfügung trennen.
 
-1. Testament oder Erbvertrag auslegen: Vorerbe, Nacherbe, Ersatznacherbe, Nacherbfall, Befreiung und Verwaltungsanordnungen bestimmen.
-2. Verfügungsgegenstand exakt zuordnen. Grundstück, Miteigentumsanteil, Anteil an Erbengemeinschaft oder Gütergemeinschaft und Surrogat nicht gleichsetzen.
-3. Rechtsgeschäft und dingliche Verfügung trennen. Kaufpreis, Marktwert, Gegenleistung, Schenkungsanteil, Belastung und wirtschaftlicher Zweck feststellen.
-4. Paragraf 2113 Absatz 1 oder Absatz 2 BGB nur anwenden, wenn deren Gegenstand und Voraussetzungen erfüllt sind. Befreiung nach Paragraf 2136 BGB und unentgeltliche Verfügung gesondert prüfen.
-5. Grundbuchlage, Nacherbenvermerk, Kenntnis und guten Glauben des Erwerbers untersuchen. Zustimmung, Pflegerbestellung oder gerichtliche Mitwirkung rechtzeitig planen.
-6. Auch bei wirksamer Verfügung ordnungsgemäße Verwaltung, Surrogation, Auskunft, Sicherheitsleistung und Schadensersatz prüfen. Erlösfluss und Verwendung lückenlos verfolgen.
-7. Rechtsfolge präzisieren: gegenwärtige Verfügungsmacht, relative Unwirksamkeit beim Nacherbfall, Grundbuchberichtigung, Herausgabe, Zustimmung oder Schadensersatz nicht vermischen.
+3. BGB Paragraf 2113 Absatz 1 und 2 nur am richtigen Gegenstand anwenden. Befreiung nach Paragraf 2136 beseitigt nicht jede Grenze unentgeltlicher Verfügungen.
 
-## 5. Arbeitsergebnis
+4. Nacherbenvermerk, Zustimmung, guten Glauben, Pflegerbedarf und Grundbuchnachweis prüfen. Nutzungen und Surrogate getrennt verfolgen.
 
-Erstelle Erbfolgeschema, Bindungs- und Vermögenszuordnung, Verfügungsmatrix, Grundbuchstrategie, Erlösverfolgung und einen ausformulierten Zustimmungs-, Abwehr- oder Schadensersatzentwurf. Sonderkonstellationen der Gesamthand werden sichtbar vom Normalfall getrennt.
+5. Auch bei wirksamer Verfügung Verwaltungspflicht, Sicherheitsleistung, Auskunft und Schadensersatz prüfen. Gegenwärtige Befugnis, relative Unwirksamkeit beim Nacherbfall und Herausgabe sauber unterscheiden.
 
-## 6. Belege und Aktenlücken
+### 3.1. Referenzen gezielt laden
 
-- Testament, Erbvertrag, Eröffnungsniederschrift und Erbschein
-- Grundbuchauszug, Nacherbenvermerk und Erwerbsvertrag
-- Nachlass- und Gesamthandszuordnung des Gegenstands
-- Verkehrswert, Kaufpreisfluss und Verwendung des Erlöses
-- Zustimmungen, Vollmachten und Verwaltungsunterlagen
+Bei Gesamtgut, Erlösverwendung oder Schadensersatz [Verfügung und Surrogate](references/verfuegung-surrogate.md) laden.
+
+## 4. Quellenpflicht
+
+BGB Paragrafen 2100, 2106, 2111 bis 2115, 2120, 2121, 2128, 2130 und 2136; GBO Paragraf 51; BGB Paragrafen 892 und 893.
+
+Es gilt die [Zitierweise](../../../references/zitierweise.md). Tragende Normfassung, Übergangsrecht und Rechtsprechung vor Verwendung amtlich prüfen. Gesicherte Quelle, Aktenfund, Schlussfolgerung und offene Recherche trennen; keine Literaturfundstelle aus Modellwissen. Die thematischen Referenzen enthalten Rechercheanker, keine Garantie fortdauernder Aktualität.
+
+## 5. Ausgabeformat
+
+Bindungs- und Vermögenszuordnung, Verfügungsmatrix, Erlösrechnung und vollständiger Zustimmungs-, Abwehr- oder Schadensersatzentwurf.
+
+Das Endprodukt steht in vollständigen, ausformulierten Sätzen; keine Skelette, Halbsätze oder reinen Aufzählungen als Enddokument. Tabellen unterstützen die Begründung. Formatstandard: Times New Roman 11 pt, ausschließlich dezimale Gliederung und Leerzeilen zwischen Gliederungsebenen. Bei Markdown oder Chat diesen Formatwunsch als Exporthinweis aufnehmen.
+
+## 6. Beispiele
+
+Gehört nur ein Anteil an einer Gütergemeinschaft zur Vorerbschaft, darf die Verfügung über deren Grundstück nicht ungeprüft wie eine Verfügung über ein unmittelbares Nachlassgrundstück behandelt werden.

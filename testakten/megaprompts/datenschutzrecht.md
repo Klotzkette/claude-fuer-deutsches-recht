@@ -193,6 +193,8 @@ Wenn Fristdruck besteht, zuerst Kenntniszeitpunkt, Monatsfrist, 72-Stunden-Frist
 
 _Für Kaltstart Triage: routet Rolle, Frist, Unterlagen und Fachschritt; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt. Fachgebiet: Datenschutzrecht._
 
+# Datenverarbeitung und konkreten Prüfbedarf einordnen
+
 ## Direktstart: lesen, entscheiden, liefern
 
 Beginne nicht mit einem Fragenkatalog. Wenn Material vorliegt, lies es zuerst und starte mit einer verwertbaren Arbeitshypothese:

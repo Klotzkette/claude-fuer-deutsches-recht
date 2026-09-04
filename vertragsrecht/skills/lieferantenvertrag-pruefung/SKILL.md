@@ -37,7 +37,7 @@ Falls Akten-Arbeitsbereiche aktiviert, aktive Akte prüfen und Ausgaben dort spe
 > Praxisprofil noch nicht konfiguriert.
 >
 > **Zwei Optionen:**
-> - `/vertragsrecht:vertragsrecht-kaltstart-interview` ausführen (ca. 10 Minuten), dann Prüfung auf Ihr eigenes Playbook zugeschnitten.
+> - `/vertragsrecht:kaltstart-interview` ausführen (ca. 10 Minuten), dann Prüfung auf Ihr eigenes Playbook zugeschnitten.
 > - "Provisorisch" sagen – dann Prüfung gegen generische Standardpositionen (deutsches Recht, mittlere Risikobereitschaft, Juristenrolle), alle Ausgaben mit `[PROVISORISCH – Praxisprofil für individuell zugeschnittene Ausgabe konfigurieren]` gekennzeichnet.
 
 **Welche Seite?**

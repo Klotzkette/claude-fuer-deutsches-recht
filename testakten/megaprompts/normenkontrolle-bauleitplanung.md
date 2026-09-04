@@ -190,6 +190,8 @@ Dieser Einstieg routet **Normenkontrolle Bauleitplanung** vom ersten Sachverhalt
 
 _Für Kaltstart Triage: routet Rolle, Frist, Unterlagen und Fachschritt; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt. Fachgebiet: Normenkontrolle Bauleitplanung — Paragraf 47 VwGO._
 
+# Bauleitplan, Betroffenheit und Rechtsschutzweg einordnen
+
 ## Direktstart: lesen, entscheiden, liefern
 
 Beginne nicht mit einem Fragenkatalog. Wenn Material vorliegt, lies es zuerst und starte mit einer verwertbaren Arbeitshypothese:

@@ -109,7 +109,7 @@ Dieses Plugin senkt die Zeitkosten für alles **rund um die Rechtsarbeit**, dami
 ## Schnellstart
 
 ```
-/rechtsberatungsstelle:rechtsberatungsstelle-kaltstart-interview   # Anleiter: Beratungsstelle konfigurieren
+/rechtsberatungsstelle:kaltstart-interview   # Anleiter: Beratungsstelle konfigurieren
 /rechtsberatungsstelle:einarbeitung                   # Studentenr: Einarbeitung zum Semesterbeginn
 /rechtsberatungsstelle:mandant-aufnahme          # Neues Mandat aufnehmen
 /rechtsberatungsstelle:memo                   # Gutachtenstil-Memo erstellen

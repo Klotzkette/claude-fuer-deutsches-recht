@@ -102,14 +102,14 @@ bei Ihnen aus? Danach liest es Ihre Seed-Dokumente und lernt Ihre tatsächlichen
 und Ihren Haustil.
 
 ```
-/ki-governance:ki-governance-kaltstart-interview
+/ki-governance:kaltstart-interview
 ```
 
 ## Befehle
 
 | Befehl | Funktion |
 |---|---|
-| `/ki-governance:ki-governance-kaltstart-interview` | Kaltstart-Interview – schreibt Ihr Praxisprofil |
+| `/ki-governance:kaltstart-interview` | Kaltstart-Interview – schreibt Ihr Praxisprofil |
 | `/ki-governance:ki-inventar [list \| add \| edit \| classify \| show]` | KI-Inventar verwalten – Rolle und Risikoklasse je KI-System nach KI-VO erfassen |
 | `/ki-governance:anwendungsfall-triage [Anwendungsfall]` | Use-Case gegen Ihr Register prüfen (genehmigt / bedingt / nie) |
 | `/ki-governance:ki-folgenabschaetzung [Anwendungsfall]` | KI-Folgenabschätzung (FRIA Art. 27 KI-VO + DSFA Art. 35 DSGVO) erstellen |
@@ -117,7 +117,7 @@ und Ihren Haustil.
 | `/ki-governance:regulierungs-luecken-analyse [Rechtsakt]` | Neuen Rechtsakt oder Leitlinie gegen aktuelle Richtlinien/Praxis abgleichen |
 | `/ki-governance:richtlinien-monitor` | Wöchentliche Prüfung auf Richtliniendrift oder direkte Anfrage zu neuer Praxis |
 | `/ki-governance:richtlinien-vorlage` | Erstentwurf einer KI-Richtlinie auf Basis Ihres Praxisprofils erstellen |
-| `/ki-governance:ki-governance-mandat-arbeitsbereich` | Mandatsworkspaces verwalten (nur Kanzleipraxis) – new, list, switch, close, none |
+| `/ki-governance:mandat-arbeitsbereich` | Mandatsworkspaces verwalten (nur Kanzleipraxis) – new, list, switch, close, none |
 
 ## Skills
 
@@ -138,7 +138,7 @@ und Ihren Haustil.
 ### 1. Einrichtung
 
 ```
-/ki-governance:ki-governance-kaltstart-interview
+/ki-governance:kaltstart-interview
 ```
 
 Halten Sie bereit (soweit vorhanden): Ihre KI- oder Acceptable-Use-Richtlinie, eine frühere

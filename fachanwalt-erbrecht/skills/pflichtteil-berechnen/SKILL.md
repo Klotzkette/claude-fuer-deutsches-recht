@@ -1,360 +1,46 @@
 ---
 name: pflichtteil-berechnen
-description: "Für Pflichtteilsanspruch und Pflichtteilsergänzungsanspruch berechnen: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
+description: "Berechnet den ordentlichen Pflichtteil aus belegter gesetzlicher Quote und bereinigtem Nachlass, behandelt Anrechnung und Ausgleichung und liefert eine nachvollziehbare Rechnung mit Gegenprobe."
 ---
 
-# Pflichtteilsanspruch und Pflichtteilsergaenzungsanspruch berechnen
-
-
-## Arbeitsweg
-
-- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
-- Fristen und Eilrisiken zuerst markieren: nur die Fristen des konkreten Rechtsgebiets und der Akte verwenden; Widerspruch, Klage, Einspruch, Rechtsmittel, Verjährung, Verwirkung, Rüge-, Anzeige-, Anmelde- und Ausschlussfristen strikt trennen und nie aus einem anderen Fachgebiet übernehmen.
-- Tragende Normen verifizieren: BGB Paragrafen 1922 ff., 1942 ff., 1967, 2032 ff., 2197 ff. und 2303 ff.; FamFG Paragrafen 342 ff.; EuErbVO bei Auslandsbezug. ErbStG und AO nur hinzunehmen, wenn die konkrete Aufgabe eine Steuerschnittstelle hat. Fundstellen über amtliche Gesetzes- und Rechtsprechungsdatenbanken live prüfen; keine ungeprüften Zitate.
-- Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
-- Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
-
-**Fokus:** Pflichtteilsanspruch und Pflichtteilsergaenzungsanspruch berechnen. §§ 2303 2311 2325 BGB Pflichtteil. Prüfraster: Pflichtteilsquote Nachlasswert Bewertungsstichtag Abzuege Ergaenzungsanspruch Auskunft. Output: Pflichtteilsberechnung mit Rechenweg. Abgrenzung: nicht für Auskunftsklage oder Pflichtteilsklage (schriftsatzkern-substantiierung).
-
-### Pflichtteil und Pflichtteilsergänzung berechnen
-
-## Fachlicher Kern — Erbrecht
-- **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `Pflichtteil und Pflichtteilsergänzung berechnen` und löse die dort angelegte Fachfrage; arbeite mit konkreten Tatbestandsmerkmalen, Beweisfragen und dem unmittelbar benötigten Arbeitsprodukt. Routingfragen bleiben Hilfsmittel, wenn Frist, Zuständigkeit oder Verfahrensart offen sind.
-- **Normenradar:** BGB §§ 1922 ff., 1937, 1942 ff., 1953, 1967, 2032 ff., 2042, 2050 ff., 2078, 2084, 2203 ff., 2303 ff., 2314, 2325, 2333; FamFG §§ 343 ff.; EuErbVO.
-- **Arbeitsmodus:** Erst Erbfolge, Ausschlagung, Nachlassbestand, Haftung und Fristen sichern; dann Pflichtteil, Auskunft/Wertermittlung, Testamentsauslegung, Erbengemeinschaft und internationale Anknüpfung trennen.
-- **Outputpflicht:** Nachlassmatrix, Pflichtteils-/Ergänzungstabelle, Auskunftsverlangen, Erbscheinsantrag, Teilungsplan oder Klagebaustein.
-- **Fehlerbremse:** Tragende Normen/Entscheidungen live oder aus der Akte verifizieren; Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei prüfbarer Quelle. Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen.
-
-## Mandantenfragen beim Kaltstart
-
-1. Wer ist der Erblasser und wann ist der Erbfall eingetreten? Letzter gewöhnlicher Aufenthalt (Gerichtsstand)?
-2. In welchem Verhältnis steht der Mandant zum Erblasser — Abkömmling, Ehegatte, Elternteil? Durch Testament oder Erbvertrag enterbt oder zu wenig bedacht?
-3. Wer sind die übrigen Pflichtteilsberechtigten und die eingesetzten Erben?
-4. Hat der Erblasser Schenkungen in den letzten 10 Jahren getätigt (§ 2325 BGB)? An wen und in welcher Höhe?
-5. Liegt ein Bestandsverzeichnis nach § 2314 BGB vor oder muss es erst eingefordert werden?
-6. Gibt es Vorausempfänge des Pflichtteilsberechtigten mit Anrechnungsbestimmung (§ 2315 BGB)?
-7. Hat der Pflichtteilsberechtigte einen Pflichtteilsverzicht erklärt (§ 2346 BGB)?
-8. Besteht ein Pflichtteilsentzugsgrund nach § 2333 BGB (Straftat gegen Erblasser, Erblasser-nahe Personen)?
-- **Was will der Mandant wirklich erreichen?** (Nicht: was steht im Standardweg, sondern: welches Ergebnis ist für den Mandanten persoenlich/wirtschaftlich das beste? Manchmal ist der schnellere Vergleich besser als der formal "richtige" Weg.)
-
-## Rechtsgrundlagen
-
-| Norm | Inhalt |
-|------|--------|
-| § 2303 BGB | Pflichtteilsrecht — Geldanspruch in Höhe der Hälfte des gesetzlichen Erbteils |
-| § 2304 BGB | Ausschluss des Pflichtteils bei Zuwendung unter Auflage oder Bedingung |
-| § 2305 BGB | Pflichtteil bei Bedachtheit mit weniger als Pflichtteil — Ergänzungsanspruch |
-| § 2309 BGB | Ausschluss durch nähere Verwandte — Enkel nur bei Vorversterben der Kinder |
-| § 2311 BGB | Bewertungsstichtag — Wert des Nachlasses zum Zeitpunkt des Erbfalls |
-| § 2314 BGB | Auskunftsanspruch — Bestandsverzeichnis; SV-Bewertung auf Nachlasskosten |
-| § 2315 BGB | Anrechnung auf Pflichtteil — Vorausempfänge mit Anrechnungsbestimmung |
-| § 2316 BGB | Ausgleichung unter Abkömmlingen — gleichmäßige Behandlung |
-| § 2325 BGB | Pflichtteilsergänzung — Schenkungen letzter 10 Jahre; Abschmelzung 10 % je Jahr |
-| § 2326 BGB | Pflichtteilsergänzung bei Bedachtsein — Ergänzung bis zur vollen Hälfte |
-| § 2327 BGB | Anrechnung Eigengeschenke auf Ergänzungsanspruch |
-| § 2329 BGB | Direktanspruch gegen Beschenkte wenn Nachlass nicht ausreicht |
-| BGB Paragrafen 195 und 199 Absatz 1 | Pflichtteilsanspruch gegen den Erben: drei Jahre ab Jahresschluss bei Anspruchsentstehung und Kenntnis oder grob fahrlässiger Unkenntnis |
-| BGB Paragraf 199 Absatz 3a | Kenntnisunabhängige Höchstfrist von 30 Jahren ab Anspruchsentstehung |
-| BGB Paragraf 2332 | Anspruch gegen den Beschenkten nach BGB Paragraf 2329: Verjährungsbeginn mit dem Erbfall; keine Hemmung allein wegen erforderlicher Ausschlagung |
-| § 2333 BGB | Pflichtteilsentzug — abschließende Gründe |
-| § 2346 BGB | Pflichtteilsverzicht — notariell beurkundeter Verzicht |
-
-## Leitentscheidungen
-
-| Gericht | Aktenzeichen | Datum | Kernaussage |
-|---------|-------------|-------|-------------|
-| BGH IV. Zivilsenat | IV ZR 88/24 | 12.03.2025 | Für die Entstehung des Pflichtteilsanspruchs (§ 199 Abs. 1 Nr. 1 BGB) ist § 2317 Abs. 1 BGB auch dann maßgebend, wenn der Berechtigte zum Zeitpunkt des Erbfalls aufgrund der gesetzlichen Ausübungssperre in § 1600d Abs. 5 BGB an einer Anspruchsdurchsetzung gehindert ist. Für den Pflichtteilsanspruch des nichtehelichen Kindes ist Kenntnis von der wirksamen Vaterschaftsanerkennung oder -feststellung erforderlich. Quelle: bundesgerichtshof.de / dejure.org. |
-| BGH IV. Zivilsenat | IV ZR 93/24 | 02.07.2025 | Das Vermächtnis an den behandelnden Arzt war nicht wegen der konkret geprüften ärztlichen Berufsregel in Verbindung mit BGB Paragrafen 134 und 2171 Absatz 1 unwirksam. Andere Verbote und BGB Paragraf 138 bleiben gesondert zu prüfen. |
-| Weitere Rechtsprechung | Live-Verifikation erforderlich | - | keine weitere Entscheidung aus Modellwissen zitieren; vor Ausgabe offizielle oder frei zugängliche Quelle mit Gericht, Datum, Aktenzeichen und Aussage protokollieren |
-
-## Prüfschema — Stufenweise Pflichtteilsberechnung
-
-**Vorab:** Der untenstehende ist die typische Standardlinie. Wenn die Mandantenlage abweicht (siehe "Strategische Optionen" oben), sind die Schritte entsprechend zu verkuerzen, umzustellen oder durch ein anderes Skill zu ersetzen — der ist Leitfaden, nicht Pflichtprogramm.
-
-| Schritt | Prüfpunkt | Norm | Ergebnis |
-|---------|-----------|------|---------|
-| 1 | Pflichtteilsberechtigung prüfen | § 2303 BGB | Wer ist berechtigt? Abkömmlinge / Ehegatte / Eltern |
-| 2 | Gesetzliche Erbquote ermitteln | §§ 1924 ff. BGB | Quote je Berechtigtem |
-| 3 | Pflichtteilsquote berechnen | § 2303 Abs. 1 Satz 2 | Hälfte der gesetzlichen Erbquote |
-| 4 | Nachlasswert ermitteln | § 2311 BGB | Aktiva minus Passiva am Todestag |
-| 5 | Schenkungen letzter 10 Jahre hinzurechnen | § 2325 BGB | Abschmelzung 10 % je Jahr |
-| 6 | Pflichtteil berechnen | §§ 2303, 2311 BGB | Quote × Nachlasswert |
-| 7 | Pflichtteilsergänzung berechnen | § 2325 BGB | Quote × Schenkungswert |
-| 8 | Anrechnung Vorausempfänge | § 2315 BGB | Minderung Pflichtteil |
-| 9 | Anrechnung Eigengeschenke | § 2327 BGB | Minderung Pflichtteilsergänzung |
-| 10 | Direktanspruch gegen Beschenkte prüfen | § 2329 BGB | Wenn Nachlass insufficient |
-| 11 | Verjährung je Anspruch und Gegner prüfen | BGB Paragrafen 195, 199 und 2332 | Regelbeginn oder besonderer Beginn mit dem Erbfall sauber trennen |
-
-## Schritt 1 — Pflichtteilsberechtigte § 2303 BGB
-
-**Pflichtteilsberechtigt:**
-- Abkömmlinge des Erblassers (Kinder, Enkel wenn Kinder vorverstorben — § 2309 BGB)
-- Ehegatte / eingetragener Lebenspartner (LPartG)
-- Eltern des Erblassers — nur wenn keine Abkömmlinge vorhanden
-
-**Nicht pflichtteilsberechtigt:** Geschwister, Großeltern, Stiefeltern, Stiefkinder (ohne Adoption)
-
-## Schritt 2 — Gesetzliche Erbquoten §§ 1924 ff. BGB
-
-| Konstellation | Gesetzliche Erbquoten |
-|--------------|----------------------|
-| Ehegatte + 2 Kinder (Zugewinngemeinschaft) | Ehegatte 1/2 (1/4 nach § 1931 + 1/4 pauschalierter Zugewinn § 1371); jedes Kind 1/4 |
-| Ehegatte + 1 Kind (Zugewinngemeinschaft) | Ehegatte 1/2; Kind 1/2 |
-| Ehegatte + keine Kinder, Eltern leben | Ehegatte 3/4; Eltern 1/4 |
-| Nur 3 Kinder, kein Ehegatte | Jedes Kind 1/3 |
-| Keine Kinder + Eltern | Jeder Elternteil 1/2 |
-| Ehegatte + keine Kinder + keine Eltern | Ehegatte allein 100 % |
+# Pflichtteil berechnen und Einwendungen bewerten
 
-**Zugewinngemeinschaft Hinweis:** § 1371 BGB pauschaliert den Zugewinn durch Erhöhung der Erbquote um 1/4 ("erbrechtliche Lösung"). Alternativ: bei Ausschlagung güterrechtliche Lösung + kleiner Pflichtteil § 1371 Abs. 3 BGB.
+## 1. Zweck und Anwendungsfall
 
-## Schritt 3 — Pflichtteilsquote
+Für Höhe und Einwendungen des ordentlichen Pflichtteils. Die Auskunftsdurchsetzung und die Schenkungsbewertung haben eigene Fachaufträge; vorhandene Ergebnisse daraus weiterverwenden.
 
-```
-Pflichtteilsquote = 1/2 × gesetzlicher Erbteil
-```
+## 2. Eingaben
 
-| Beispiel | Gesetzlicher Erbteil | Pflichtteilsquote |
-|---------|---------------------|------------------|
-| Einziges Kind enterbt; kein Ehegatte | 1/2 | 1/4 des Nachlasses |
-| Kind 1 enterbt; Ehegatte + Kind 2 (Zugewinn) | 1/4 | 1/8 des Nachlasses |
-| Ehegatte enterbt; 2 Kinder | 1/2 (inkl. Zugewinnzuschlag) | 1/4 des Nachlasses |
-| Kind enterbt bei Zugewinngemeinschaft Ehegatte + 1 Kind | 1/2 | 1/4 des Nachlasses |
+Erbfall, Stammbaum, Güterstand, Verfügungen, Verzicht, Entziehung, Annahme oder Ausschlagung, Aktiv- und Passivnachweise sowie Vorausempfänge.
 
-## Schritt 4 — Nachlassbewertung § 2311 BGB
+## 3. Ablauf und Checkliste
 
-### Aktiva (Stichtag = Todestag)
+1. Berechtigung nach BGB Paragrafen 2303 und 2309 sowie Ausschluss, Restpflichtteil und Wahlrechte prüfen. Geschwister und Stiefkinder ohne Adoption sind nicht allein deshalb pflichtteilsberechtigt.
 
-| Vermögensgegenstand | Bewertungsmethode |
-|--------------------|------------------|
-| Bankguthaben, Barvermögen | Nennwert |
-| Wertpapiere (börsennotiert) | Schlusskurs Todestag |
-| Wertpapiere (nicht börsennotiert) | Ertragswertverfahren |
-| Immobilien | Verkehrswert-Gutachten (SV § 2314 Abs. 1 Satz 2 BGB) |
-| Unternehmensbeteiligungen | IDW S1 oder vereinfachtes Ertragswertverfahren |
-| Hausrat | Zeitwert (geschätzt) |
-| Lebensversicherung | Rückkaufswert (soweit keine Drittbegünstigung) |
+2. Hypothetische gesetzliche Erbquote nachvollziehbar bestimmen; Mitrechnung nach Paragraf 2310, Ehegattenvarianten und Verzichtsfolgen beachten. Pflichtteilsquote ist die Hälfte der maßgeblichen gesetzlichen Quote.
 
-### Passiva
+3. Nachlass zum Erbfall positionsgenau bewerten. Erblasserschulden und Bestattungskosten von grundsätzlich nicht abzugsfähigen Vermächtnissen, Auflagen und Pflichtteilsverbindlichkeiten unterscheiden.
 
-| Verbindlichkeit | Abzugsfähig |
-|----------------|------------|
-| Erblasser-Schulden (Kredit, Steuern, Unterhalt) | Ja |
-| Beerdigungskosten § 1968 BGB | Ja |
-| Pflegekosten letzte Lebensjahre | Ja (soweit nicht bereits bezahlt) |
-| Pflichtteils-Verbindlichkeiten anderer | Ja (als Erbfallschuld) |
+4. Anrechnung nach Paragraf 2315 und Ausgleichung nach Paragraf 2316 mit jeweils eigenem Rechenweg behandeln. Nicht bloß alle Vorausempfänge vom Endbetrag abziehen.
 
-## Schritt 5 — Pflichtteilsergänzung § 2325 BGB
+5. Berechnung, Wertband, Erfüllung und Verzinsung gegenprüfen. Anspruch und Gegner für Verjährung getrennt bestimmen; eine Auskunftsaufforderung hemmt nicht automatisch.
 
-### Abschmelzungsregel
+### 3.1. Referenzen gezielt laden
 
-| Schenkungsjahr vor Erbfall | Anrechnungsquote |
-|---------------------------|-----------------|
-| 1. Jahr (0–12 Monate vor Tod) | 100 % |
-| 2. Jahr | 90 % |
-| 3. Jahr | 80 % |
-| 4. Jahr | 70 % |
-| 5. Jahr | 60 % |
-| 6. Jahr | 50 % |
-| 7. Jahr | 40 % |
-| 8. Jahr | 30 % |
-| 9. Jahr | 20 % |
-| 10. Jahr | 10 % |
-| > 10 Jahre | 0 % — keine Anrechnung |
+Bei jeder Rechnung [Quoten, Werte und Anrechnung](references/quoten-werte-anrechnung.md) laden. Bei Verjährungsfragen [Fristen und Sofortsicherung](../erbfall-mandat-klaeren/references/fristen-sofortsicherung.md) nur für die einschlägige Anspruchsart lesen.
 
-### Ausnahme: Ehegatte-Schenkungen
+## 4. Quellenpflicht
 
-- Schenkung an Ehegatte vor 30 Jahren ist relevant wenn Ehe bei Tod noch bestand
+BGB Paragrafen 2303 bis 2318, 2333 bis 2338, 2346; Paragrafen 195, 199, 203 und 204 für Verjährung.
 
-### Ausnahme: Schenkung unter Nießbrauchsvorbehalt
+Es gilt die [Zitierweise](../../../references/zitierweise.md). Tragende Normfassung, Übergangsrecht und Rechtsprechung vor Verwendung amtlich prüfen. Gesicherte Quelle, Aktenfund, Schlussfolgerung und offene Recherche trennen; keine Literaturfundstelle aus Modellwissen. Die thematischen Referenzen enthalten Rechercheanker, keine Garantie fortdauernder Aktualität.
 
-- Erblasser verschenkt Immobilie aber behält lebenslangen Nießbrauch → Frist ab Tod/Aufgabe Nießbrauch
+## 5. Ausgabeformat
 
-### Bewertung der Schenkung § 2325 Abs. 2 BGB
+Reproduzierbare Pflichtteilsrechnung mit Formel, Betrag, Wertstichtag, Quelle und Einwand pro Position; begründetes Zahlungs- oder Abwehrschreiben. Keine Scheingenauigkeit bei offenen Status- oder Wertfragen.
 
-| Sachtyp | Bewertungsregel |
-|---------|----------------|
-| Geld, Wertpapiere (verbrauchbar) | Wert zum Schenkungszeitpunkt |
+Das Endprodukt steht in vollständigen, ausformulierten Sätzen; keine Skelette, Halbsätze oder reinen Aufzählungen als Enddokument. Tabellen unterstützen die Begründung. Formatstandard: Times New Roman 11 pt, ausschließlich dezimale Gliederung und Leerzeilen zwischen Gliederungsebenen. Bei Markdown oder Chat diesen Formatwunsch als Exporthinweis aufnehmen.
 
-**Inflationsbereinigung:** Schenkungswert × (Verbraucherpreisindex Todestag / Verbraucherpreisindex Schenkungstag)
+## 6. Beispiele
 
-## Berechnungsformel (Gesamtübersicht)
-
-```
-PFLICHTTEILSBERECHNUNG
-
-I. Nettonachlass
- Aktiva zum Todestag: EUR [A]
- - Passiva: EUR [B]
- = Nettonachlass: EUR [C]
-
-II. Pflichtteilsergänzung (Schenkungen)
- Schenkung Nr. 1 vom [Datum]:
- Wert (nicht verbrauchbar — Niederstwert): EUR [X]
- Abschmelzung [X]%: EUR [Y]
- Schenkung Nr. 2 vom [Datum]:
- Wert (verbrauchbar — Nominalbetrag): EUR [X]
- Abschmelzung [X]%: EUR [Y]
- Summe Ergänzungsmasse: EUR [D]
-
-III. Berechnungsbasis
- Nettonachlass + Ergänzungsmasse: EUR [C+D]
-
-IV. Pflichtteilsquote: [X/Y] (z.B. 1/8)
-
-V. Pflichtteilsanspruch:
- Nettonachlass × Quote: EUR [P1]
- Ergänzungsanspruch:
- Ergänzungsmasse × Quote: EUR [P2]
- Gesamt (vor Anrechnung): EUR [P1+P2]
-
-VI. Anrechnung § 2315 BGB (Vorausempfang): EUR [minus A]
- Gesamt-Pflichtteilsanspruch: EUR [Summe]
-```
-
-## Strategische Optionen (vor dem Template entscheiden)
-
-Bevor das Template eins-zu-eins gefuellt wird, ist zu prüfen welche Variante zur Mandantenkonstellation passt. Das Template ist **eine** moegliche Form — nicht die einzige.
-
-| Konstellation | Empfohlener Weg |
-|---|---|
-| Standard — Pflichtteil berechnen | Neunstufiges Schema; Schriftsatzbausteine unten |
-| Variante A — Erbe zahlt freiwillig wenn Betrag klar | Aussergerichtliche Geltendmachung; Klage nur als Backup |
-| Variante B — viele Schenkungen innerhalb von 10 Jahren | Pflichtteilsergaenzung § 2325 BGB Hauptfokus |
-| Variante C — Immobilienwert streitig | Sachverstaendigengutachten einplanen; Stufenklage als Sicherheit |
-
-Wenn die Mandantenkonstellation **nicht** ins Standardschema passt, ist das Template anzupassen oder durch ein anderes Skill abzuloesen — nicht das Mandat in das Schema zu pressen.
-
-## Schriftsatz-Bausteine
-
-### Auskunftsanforderung § 2314 BGB
-
-```
-An die Erben nach [Erblasser]
-[Adresse]
-
-Auskunfts- und Wertermittlungsanspruch nach § 2314 BGB
-
-Sehr geehrte Damen und Herren,
-
-namens und in Vollmacht unseres Mandanten — [Name] als
-Pflichtteilsberechtigter nach dem am [Datum] verstorbenen
-[Erblasser] — fordern wir Sie auf, binnen vier Wochen ein
-notarielles Nachlassverzeichnis nach § 2314 Abs. 1 Satz 3
-BGB vorzulegen.
-
-Das Verzeichnis muss enthalten:
-1. Sämtliche Aktiva und Passiva des Nachlasses zum Todestag
- [Datum], bewertet nach §§ 2311, 2311a BGB
-2. Sämtliche Schenkungen des Erblassers der letzten 10 Jahre
- nach § 2325 BGB (auch gemischte Schenkungen und
- Schenkungen unter Nießbrauchsvorbehalt)
-3. Ausgleichungspflichtige Zuwendungen nach §§ 2315, 2316 BGB
-
-Hinsichtlich der Bewertung von Immobilien und Unternehmen
-verlangen wir bereits jetzt die Hinzuziehung eines vereidigten
-Sachverständigen nach § 2314 Abs. 1 Satz 2 BGB. Die Kosten
-trägt der Nachlass (§ 2314 Abs. 2 BGB).
-
-Nach fruchtlosem Fristablauf werden wir Stufenklage nach
-§ 254 ZPO erheben.
-
-Mit freundlichen Grüßen
-[Kanzlei]
-```
-
-### Stufenklage § 254 ZPO (Antragsformulierung)
-
-```
-Klage
-
-In der Sache [Pflichtteilsberechtigter] ./. [Erben]
-
-beantragen wir:
-
-I. Auskunftsstufe:
- Die Beklagten werden verurteilt, Auskunft über den Bestand
- des Nachlasses nach [Erblasser] zu erteilen durch Vorlage
- eines vollständigen Bestandsverzeichnisses einschließlich
- aller Schenkungen der letzten 10 Jahre.
-
-II. Versicherungsstufe:
- Die Beklagten werden verurteilt, die Richtigkeit des
- vorgelegten Verzeichnisses an Eides statt zu versichern.
-
-III. Zahlungsstufe:
- Die Beklagten werden verurteilt, an den Kläger den sich
- aus der Auskunft ergebenden Pflichtteilsanspruch nebst
- Zinsen in Höhe von 5 Prozentpunkten über dem
- Basiszinssatz seit Klagezustellung zu zahlen.
-```
-
---- vor Versand klären ---
-1. Welches Verhandlungsziel hat der Mandant? [Bestand / Abfindung / Reputation / Schnelle Loesung]
-2. Welche Kompromisslinien sind absolut? [Mindestabfindung / Freistellung / Zeugnisformulierung]
-3. Sind Anschlusswege erwuenscht? [Mediation / Direktgespraech / Settlement vor Klageerhebung]
-
-## Beweislast
-
-| Partei | Beweislastgegenstand | Beweismittel |
-|--------|---------------------|--------------|
-| Pflichtteilsberechtigter | Berechtigung (Verwandtschaft, Ehegatten-Status) | Geburtsurkunde, Heiratsurkunde, Scheidungsurteil |
-| Pflichtteilsberechtigter | Schenkungen § 2325 BGB | Schenkungsvertrag, notarielles Protokoll, Kontobewegungen |
-| Pflichtteilsberechtigter | Wert der Schenkung | SV-Gutachten, Börsenkurs, Kaufpreisnachweis |
-| Erbe | Anrechnungsbestimmung § 2315 BGB | Schriftliche Vereinbarung mit Anrechnungsvorbehalt |
-| Erbe | Pflichtteilsentzug § 2333 BGB | Strafurteil, Beweise für Verfehlung |
-| Erbe | Pflichtteilsverzicht § 2346 BGB | Notarielle Urkunde |
-
-## Fristen
-
-| Frist | Auslöser | Dauer | Folge |
-|-------|---------|-------|-------|
-| Pflichtteilsanspruch gegen den Erben | Anspruchsentstehung und Kenntnis oder grob fahrlässige Unkenntnis | drei Jahre ab Jahresschluss nach BGB Paragrafen 195 und 199 Absatz 1 | Leistung kann nach Verjährungseinrede verweigert werden |
-| Kenntnisunabhängige Höchstfrist | Anspruchsentstehung | 30 Jahre nach BGB Paragraf 199 Absatz 3a | Leistung kann nach Verjährungseinrede verweigert werden |
-| Anspruch gegen den Beschenkten nach BGB Paragraf 2329 | Erbfall | drei Jahre ab Erbfall nach BGB Paragrafen 195, 200 und 2332 Absatz 1 | Leistung kann nach Verjährungseinrede verweigert werden |
-| Auskunftsfrist § 2314 BGB | Setzung im Schreiben | Üblich 4 Wochen | Stufenklage |
-| Direktanspruch nach BGB Paragraf 2329 | Erbfall | drei Jahre ab Erbfall nach BGB Paragraf 2332 Absatz 1 | Verjährung gegen den Beschenkten |
-
-## Gegenargumente und Reaktion
-
-| Gegenargument Erbe | Reaktion |
-|-------------------|---------|
-| "Pflichtteilsverzicht liegt vor" | Prüfen ob notarielle Form § 2346 BGB gewahrt; Anfechtung wegen Irrtum/Täuschung § 2351 BGB |
-| "Vorausempfang anzurechnen" | Anrechnungsbestimmung schriftlich vereinbart? § 2315 BGB; nur bei ausdrücklicher Anrechnung |
-| "Nachlasswert überhöht bewertet" | Eigene SV-Bewertung; Niederstwertprinzip bei nicht verbrauchbaren Sachen |
-
-## Streitwert und Kosten
-
-**Streitwert Pflichtteilsklage:** Bezifferter Pflichtteilsanspruch
-
-**Gerichtsgebühren Beispiel EUR 80.000:**
-- Stufe 1 (Auskunft): Streitwert 25 % der Hauptsache = EUR 20.000 → GKG ca. EUR 588
-- Stufe 3 (Zahlung): EUR 80.000 → GKG ca. EUR 1.962 (3.0)
-- RA-Gebühren gesamt je Partei: ca. EUR 5.000–7.000
-
-**SV-Gutachten Immobilie:** EUR 2.000–6.000 (Nachlasskosten § 2314 Abs. 2 BGB)
-
-## Strategische Empfehlung
-
-| Strategie | Empfehlung | Begründung |
-|-----------|-----------|------------|
-| Verjährung sichern | Anspruch und Gegner bestimmen, Hemmung rechtzeitig mit der passenden Leistungs- oder Stufenklage herbeiführen | Bloße Auskunftsaufforderung hemmt nicht; beim Anspruch gegen den Beschenkten beginnt die Frist nach BGB Paragraf 2332 Absatz 1 mit dem Erbfall |
-| Stufenklage | Bei Auskunftsverweigerung unverzüglich Stufe 1 erheben | Einheitliches Verfahren; effizient |
-| SV frühzeitig | Sachverständigen für Immobilien-/Unternehmens-Bewertung benennen | Basis für Pflichtteilshöhe; auf Nachlasskosten § 2314 Abs. 2 BGB |
-| Schenkungsrecherche | Kontoauszüge Erblasser letzter 10 Jahre vollständig durchsuchen | Häufig unbekannte Schenkungen |
-| Direktanspruch § 2329 | Bei insolventen Erben gegen Beschenkte vorgehen | Sicherungsmechanismus wenn Nachlass aufgebraucht |
-
-## Anschluss-Skills
-
-- `fachanwalt-erbrecht-pflichtteilsberechnung` — vertiefte Pflichtteilsberechnung mit Auskunftsstufe
-- `nachlassinsolvenz-erbenhaftung-begrenzen` — wenn Nachlass überschuldet
-- `fachanwalt-erbrecht-testamentsvollstreckung` — TV-Abwicklung in Pflichtteilskonstellationen
-
-## Quellen
-
-- BGB §§ 2303–2338, 2346, 1924 ff., 1371
-- ZPO § 254
-- Quellenregel: Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff; keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen.
-- Burandt/Rojahn Erbrecht
-- Stand: 05/2026
-
-> Quellenregel: Entscheidungen nur nach Prüfung einer amtlichen oder frei zugänglichen Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage ausgeben.
+Ein einziges enterbtes Kind ohne Ehegatten und weitere Abkömmlinge hat grundsätzlich eine gesetzliche Quote von eins und eine Pflichtteilsquote von einem Halb, nicht einem Viertel.

@@ -3,6 +3,12 @@ name: fachanwalt-handels-gesellschaftsrecht-gesellschafterstreit
 description: "Für Fachanwalt Handels Gesellschaftsrecht Gesellschafterstreit: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
+# Gesellschafterstreit und Beschlussmängel aktennah aufbereiten
+
+Lies zuerst Satzung, Gesellschafterliste, Einladungen, Beschlussprotokolle und die Streitkorrespondenz. Ordne Mandatsrolle, streitigen Beschluss, Abstimmungsverlauf und belegte Daten. Liefere einen ausformulierten Vermerk zu Angriff, Verteidigung und Einigung mit Fristenprüfpunkten; erstelle bei entsprechendem Auftrag den passenden Klage- oder Eilantragsentwurf mit konkretem Beschlusswortlaut und zugeordneten Belegen.
+
+Vorrang für die Bearbeitung: Alle nachfolgenden Mandanten-, Triage- und Versandfragen sind interne Prüfpunkte, kein Fragekatalog. Werte zuerst das vorhandene Material aus; frage nur nach noch fehlenden, entscheidenden Angaben. Bereits Beantwortetes nicht erneut erheben. Erstelle den möglichen Entwurf mit klar markierten Lücken; fehlende entscheidende Angaben nicht durch Annahmen ersetzen.
+
 ## Mandantenfragen beim Kaltstart
 
 1. Welche Rechtsform ist betroffen — GmbH, AG, OHG, KG oder GbR (MoPeG ab 1.1.2024)?

@@ -3,6 +3,12 @@ name: fachanwalt-gewrechts-geschgehg-kollisionen-nda-hinschg-urhg
 description: "Für Fachanwalt Gewrechts Geschgehg Kollisionen Nda Hinschg Urhg: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
+# Geschäftsgeheimnisse im Verhältnis zu NDA, Hinweisgeber- und Urheberrecht prüfen
+
+Lies zuerst die bezeichneten Informationen, Geheimhaltungsvereinbarungen, Zugriffsnachweise und vorhandenen Meldungs- oder Offenlegungsunterlagen. Ordne Information, Beteiligte, Schutzmaßnahmen und Vorgang mit Belegstellen zu. Liefere einen ausformulierten Prüfvermerk, der Geheimnisschutz, vertragliche Bindung, Hinweisgeberschutz und Urheberrecht getrennt bewertet; ergänze nur den beauftragten Klausel- oder Antragsentwurf und die hierfür entscheidenden Beleglücken.
+
+Vorrang für die Bearbeitung: Alle nachfolgenden Mandanten-, Triage- und Versandfragen sind interne Prüfpunkte, kein Fragekatalog. Werte zuerst das vorhandene Material aus; frage nur nach noch fehlenden, entscheidenden Angaben. Bereits Beantwortetes nicht erneut erheben. Erstelle den möglichen Entwurf mit klar markierten Lücken; fehlende entscheidende Angaben nicht durch Annahmen ersetzen.
+
 ## Mandantenfragen beim Kaltstart
 
 1. Um welche Art von Information geht es (Quellcode, Kundenliste, Rezeptur, technisches Verfahren, Algorithmus, Finanzdaten)?

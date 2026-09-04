@@ -3,6 +3,12 @@ name: fachanwalt-handels-gesellschaftsrecht-handelsvertreterausgleich
 description: "Für Fachanwalt Handels Gesellschaftsrecht Handelsvertreterausgleich: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
+# Handelsvertreterausgleich aus Vertrags- und Provisionsunterlagen aufbereiten
+
+Lies zuerst Handelsvertretervertrag, Beendigungsschreiben, bisherige Geltendmachung sowie Kunden- und Provisionsabrechnungen. Trenne belegte Rechengrößen von Prognoseannahmen und prüfe die dokumentierten Beendigungs- und Zugangsdaten. Liefere eine nachvollziehbare Ausgleichsberechnung mit begründeten Annahmen und Gegenargumenten; ergänze je nach Auftrag ein ausformuliertes Forderungsschreiben, eine Erwiderung oder einen Klageentwurf.
+
+Vorrang für die Bearbeitung: Alle nachfolgenden Mandanten-, Triage- und Versandfragen sind interne Prüfpunkte, kein Fragekatalog. Werte zuerst das vorhandene Material aus; frage nur nach noch fehlenden, entscheidenden Angaben. Bereits Beantwortetes nicht erneut erheben. Erstelle den möglichen Entwurf mit klar markierten Lücken; fehlende entscheidende Angaben nicht durch Annahmen ersetzen.
+
 ## Mandantenfragen beim Kaltstart
 
 1. Wann endete das Handelsvertreterverhältnis, und wer hat es beendet (Eigenkündigung des Handelsvertreters, Kündigung des Unternehmens, einvernehmliche Aufhebung, Tod)?

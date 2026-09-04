@@ -190,8 +190,8 @@ Die Landkarte dient der schnellen Auswahl. Sie ersetzt nicht die darunter ausfor
 | --- | --- | --- |
 | Fluggastrechte — Anlagen bauen | JPG / PNG (Boardingpass-Foto, Anzeigetafel-Foto, Quittungs-Foto). Bundle-Option (--bundle): zusätzlich ein einziges PDF SchriftsatzmitAnlagen.pdf mit dem Schriftsatz vorne und allen Anlagen dahinter. | Fachvotum zu Fluggastrechte — Anlagen bauen mit Tatbestandsmerkmalen, Aktenfundstellen, Beweislast, stärkster Gegenposition, Risiko und ausformulierter Rechtsfolge |
 | Erstes Forderungsschreiben bei Fluggastrechten | Ordne den Vorgang als Nichtbeförderung, Annullierung, große Ankunftsverspätung oder Herabstufung ein. Prüfe räumlichen Anwendungsbereich und Ausnahmen der Verordnung (EG) Nummer 261/2004. | versandfertiges Schreiben mit Betreff, Sachverhaltskern, Rechtsgrund, konkretem Begehren, Frist und Anlagenverzeichnis |
-| Klage Amtsgericht Fluggast | Vor Klage bei kleineren Ansprüchen Schlichtungsstelle Luftverkehr (SOEP) versuchen — kostenfrei und meist erfolgreich. | frist- und formgerechter Entwurf mit Antrag, tragenden Tatsachen, Beweisangeboten, Anlagen und Einreichungsweg |
 | Anschlussflug und Reiseplan | Bei einer einheitlichen Buchung mit Anschlussflug ist maßgeblich die Verspätung am Endziel — nicht am Anschlussflughafen. | Fachvotum zu Anschlussflug und Reiseplan mit Tatbestandsmerkmalen, Aktenfundstellen, Beweislast, stärkster Gegenposition, Risiko und ausformulierter Rechtsfolge |
+| Fluggastrechteklage für das Amtsgericht aus Flug- und Zahlungsbelegen entwerfen | Ordne Passagiere, Flugsegmente, Zeitablauf und offene Beträge. Werte zuerst das vorhandene Material aus; frage nur nach noch fehlenden, entscheidenden Angaben. Erstelle den möglichen Entwurf mit klar markierten Lücken. | frist- und formgerechter Entwurf mit Antrag, tragenden Tatsachen, Beweisangeboten, Anlagen und Einreichungsweg |
 | Airline-Standardausreden — Katalog und Gegenargumente | Pauschale Behauptungen ohne Belege reichen nicht. Airline-Argument: technischer Defekt sei außergewöhnlich. Volltext auf curia.europa.eu vor Versand aufrufen und Randnummer (typisch Rn. 24 und folgende ) einsetzen | verhandlungsfähige Fassung mit Ausgangstext, Änderung, Begründung, Rückfallposition und Vollzugscheck |
 | Annullierung Verspätung oder Nichtbeförderung einordnen | Kein Flug mit der konkreten Flugnummer und Datum ist abgehoben. Passagiere werden auf einen anderen Flug umgebucht oder bekommen die Erstattung. | Fachvotum zu Annullierung Verspätung oder Nichtbeförderung einordnen mit Tatbestandsmerkmalen, Aktenfundstellen, Beweislast, stärkster Gegenposition, Risiko und ausformulierter. |
 | Außergewöhnliche Umstände prüfen (Art. 5 Abs. 3 VO 261/2004) | Beweislast liegt bei der Airline (Wortlaut "nachweisen kann"). Die Definition (1) nicht Teil der normalen Tätigkeit des Luftfahrtunternehmens und (2) tatsächlich nicht beherrschbar — st. | Fachvotum zu Außergewöhnliche Umstände prüfen (Art. 5 Abs. 3 VO 261/2004) mit Tatbestandsmerkmalen, Aktenfundstellen, Beweislast, stärkster Gegenposition, Risiko. |
@@ -214,18 +214,17 @@ Bearbeitungsauftrag: Ordne den Vorgang als Nichtbeförderung, Annullierung, gro�
 Prüfschritte: Lies Buchungsbestätigung, Bordkarten, Flugstatus, Mitteilungen der Airline, Ersatzbeförderung und Belege vollständig; Erstelle danach sofort das versandfertige Forderungsschreiben; Frage nur nach fehlenden Angaben, die Anspruch, Betrag, Anspruchsgegner oder Fälligkeit verändern; Identifiziere ausführendes Luftfahrtunternehmen, Flugnummer, Datum, Abflug- und Endziel, einheitliche Buchung sowie planmäßige und tatsächliche Ankunftszeit.
 Lieferstück: versandfertiges Schreiben mit Betreff, Sachverhaltskern, Rechtsgrund, konkretem Begehren, Frist und Anlagenverzeichnis.
 
-### 16.3. Klage Amtsgericht Fluggast
-
-Bearbeitungsauftrag: Vor Klage bei kleineren Ansprüchen Schlichtungsstelle Luftverkehr (SOEP) versuchen — kostenfrei und meist erfolgreich. Bei Erfolg keine Verjährungshemmung allein durch SOEP-Verfahren — Verjährungsprüfung beachten (drei Jahre Paragraf 195 BGB). Artikel 5 Absatz 3 VO (EG) Nummer 261/2004 — Befreiung nur bei außergewöhnlichen Umständen (Beweislast Airline).
-Prüfschritte: Artikel 7 VO (EG) Nummer 261/2004 — Ausgleichszahlung 250/400/600 EUR je nach Distanzklasse; c VO (EG) Nummer 261/2004 — Annullierung.
-Normbezug aus dem Fachmaterial: Vor Klage bei kleineren Ansprüchen Schlichtungsstelle Luftverkehr (SOEP) versuchen — kostenfrei und meist erfolgreich; Bei Erfolg keine Verjährungshemmung allein durch SOEP-Verfahren — Verjährungsprüfung beachten (drei Jahre Paragraf 195 BGB); Artikel 7 VO (EG) Nummer 261/2004 — Ausgleichszahlung 250/400/600 EUR je nach Distanzklasse.
-Lieferstück: frist- und formgerechter Entwurf mit Antrag, tragenden Tatsachen, Beweisangeboten, Anlagen und Einreichungsweg.
-
-### 16.4. Anschlussflug und Reiseplan
+### 16.3. Anschlussflug und Reiseplan
 
 Bearbeitungsauftrag: Bei einer einheitlichen Buchung mit Anschlussflug ist maßgeblich die Verspätung am Endziel — nicht am Anschlussflughafen. Anspruch besteht auch wenn der erste Flug pünktlich war aber der Anschlussflug ausfällt und das Endziel mehr als drei Stunden verspätet erreicht wird. Eine Buchung (ein PNR mit allen Strecken) → Reise als ein Vorgang.
 Prüfschritte: 26.2.2013, C-11/11 (Folkerts) — bei einheitlicher Buchung mit Anschlussflug ist die Verspätung am Endziel maßgeblich; 31.5.2018, C-537/17 (Wegener) — auch bei Anschlussflügen mit teilweisem Abflug außerhalb der EU; 11.7.2019, C-502/18 (CS Flug) — bestätigend; Umgekehrt: erster Flug verspätet aber kurz vor der Drei-Stunden-Schwelle aber Anschluss noch erreicht — kein Anspruch.
 Lieferstück: Fachvotum zu Anschlussflug und Reiseplan mit Tatbestandsmerkmalen, Aktenfundstellen, Beweislast, stärkster Gegenposition, Risiko und ausformulierter Rechtsfolge.
+
+### 16.4. Fluggastrechteklage für das Amtsgericht aus Flug- und Zahlungsbelegen entwerfen
+
+Bearbeitungsauftrag: Ordne Passagiere, Flugsegmente, Zeitablauf und offene Beträge. Werte zuerst das vorhandene Material aus; frage nur nach noch fehlenden, entscheidenden Angaben. Erstelle den möglichen Entwurf mit klar markierten Lücken; fehlende entscheidende Angaben nicht durch Annahmen ersetzen.
+Prüfschritte: Lies zuerst Buchungsbestätigung, Flug- und Störungsnachweise, Forderungsschreiben, Antworten des Luftfahrtunternehmens und Zahlungsbelege; Liefere einen ausformulierten Klageentwurf mit Parteien, konkreten Anträgen, Sachverhalt, fallbezogener Begründung, Beweisangeboten und Anlagenverzeichnis; Zuständigkeit, Fristen und Berechnung vor Kennzeichnung als einreichungsreif prüfen; Vorrang für die Bearbeitung: Alle nachfolgenden Mandanten-, Triage- und Versandfragen sind interne Prüfpunkte, kein Fragekatalog; Bereits Beantwortetes nicht erneut erheben.
+Lieferstück: frist- und formgerechter Entwurf mit Antrag, tragenden Tatsachen, Beweisangeboten, Anlagen und Einreichungsweg.
 
 ### 16.5. Airline-Standardausreden — Katalog und Gegenargumente
 

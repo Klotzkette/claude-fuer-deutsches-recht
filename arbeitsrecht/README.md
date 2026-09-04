@@ -89,7 +89,7 @@ Arbeitsrechtliche Abläufe für Personalabteilungen und Arbeitsrechtler: Einstel
 Fragt ab, in welchen Bundesländern und Ländern Mitarbeiter beschäftigt sind, liest Ihr Personalhandbuch und drei aktuelle Kündigungsunterlagen, erstellt eine standortbezogene Eskalationstabelle und speichert die Kanzlei- oder Unternehmenskonfiguration.
 
 ```
-/arbeitsrecht:arbeitsrecht-kaltstart-interview
+/arbeitsrecht:kaltstart-interview
 ```
 
 Die Konfiguration wird unter `~/.claude/plugins/config/claude-fuer-deutsches-recht/arbeitsrecht/CLAUDE.md` gespeichert und übersteht Plugin-Updates.
@@ -106,7 +106,7 @@ Die Konfiguration wird unter `~/.claude/plugins/config/claude-fuer-deutsches-rec
 
 | Skill | Funktion |
 |---|---|
-| `/arbeitsrecht:arbeitsrecht-kaltstart-interview` | Ersteinrichtung – Standortprofil, Eskalationsregeln, Handbuchwissen |
+| `/arbeitsrecht:kaltstart-interview` | Ersteinrichtung – Standortprofil, Eskalationsregeln, Handbuchwissen |
 | `/arbeitsrecht:rechtsstand-mai-2026-faktenbank` | Quellen-Gate: verifizierte BAG-/BSG-Anker zu Mindesturlaub, Equal Pay, Freistellung und Statusfeststellung; sperrt Blindzitate |
 | `/arbeitsrecht:einstellungspruefung` | Arbeitsvertragsprüfung: Befristung (TzBfG), AGG, AÜG, Nachweisgesetz |
 | `/arbeitsrecht:kuendigungs-pruefung` | Kündigungsprüfung: KSchG, § 102 BetrVG, §§ 622, 626 BGB, Sozialauswahl |
@@ -128,7 +128,7 @@ Die Konfiguration wird unter `~/.claude/plugins/config/claude-fuer-deutsches-rec
 | `/arbeitsrecht:untersuchungs-zusammenfassung` | Zielgruppenspezifische Zusammenfassung (HR, Geschäftsführung, Außenanwalt) |
 | `/arbeitsrecht:handbuch-aktualisierung` | Personalrichtlinien diff und Betriebsvereinbarungsauswirkungen prüfen |
 | `/arbeitsrecht:richtlinien-entwurf [Thema]` | BetrVG-konforme Richtlinie entwerfen, BR-Anhörung planen |
-| `/arbeitsrecht:arbeitsrecht-mandat-arbeitsbereich` | Mandatsakte verwalten (multi-mandant): neu, auflisten, wechseln, schließen, keine |
+| `/arbeitsrecht:mandat-arbeitsbereich` | Mandatsakte verwalten (multi-mandant): neu, auflisten, wechseln, schließen, keine |
 | `/arbeitsrecht:arbeitsrecht-anpassen` | Kanzlei-/Unternehmensprofil gezielt anpassen |
 
 ### Aktuelle verifizierte Rechtsprechung 2025/2026
@@ -326,7 +326,7 @@ English: Complete list of all 100 skills in this plugin. Both links in each row 
 | [`internationale-expansion`](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=arbeitsrecht/skills/internationale-expansion/SKILL.md) | Für Internationale Expansion: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Schnittstellenkarte mit Zuständigkeits- und Nachweisfragen. | [MD herunterladen / Download MD](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=arbeitsrecht/skills/internationale-expansion/SKILL.md) |
 | [`interne-untersuchung`](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=arbeitsrecht/skills/interne-untersuchung/SKILL.md) | Für Interne Untersuchung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt. | [MD herunterladen / Download MD](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=arbeitsrecht/skills/interne-untersuchung/SKILL.md) |
 | [`juristischer-argumentationskern`](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=arbeitsrecht/skills/juristischer-argumentationskern/SKILL.md) | Schaltet sich ein, wenn in Arbeitsrecht ein juristisches Arbeitsprodukt tragfähig begründet werden muss; verbindet konkrete Aktenfundstellen mit Tatbestandsmerkmal, Beweislast, stärkster Gegenposition und Rechtsfolge. | [MD herunterladen / Download MD](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=arbeitsrecht/skills/juristischer-argumentationskern/SKILL.md) |
-| [`kaltstart-interview`](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=arbeitsrecht/skills/kaltstart-interview/SKILL.md) | Für /arbeitsrecht:arbeitsrecht-kaltstart-interview: routet Rolle, Frist, Unterlagen und Fachschritt; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt. | [MD herunterladen / Download MD](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=arbeitsrecht/skills/kaltstart-interview/SKILL.md) |
+| [`kaltstart-interview`](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=arbeitsrecht/skills/kaltstart-interview/SKILL.md) | Für /arbeitsrecht:kaltstart-interview: routet Rolle, Frist, Unterlagen und Fachschritt; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt. | [MD herunterladen / Download MD](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=arbeitsrecht/skills/kaltstart-interview/SKILL.md) |
 | [`kaltstart-triage`](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=arbeitsrecht/skills/kaltstart-triage/SKILL.md) | Für Kaltstart Triage: routet Rolle, Frist, Unterlagen und Fachschritt; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt. Fachgebiet: Arbeitsrecht. | [MD herunterladen / Download MD](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=arbeitsrecht/skills/kaltstart-triage/SKILL.md) |
 | [`kuendigung-zugang-beweiswerkstatt`](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=arbeitsrecht/skills/kuendigung-zugang-beweiswerkstatt/SKILL.md) | Für Kündigung Zugang Beweiswerkstatt: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Beweislast- und Substantiierungsmatrix. | [MD herunterladen / Download MD](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=arbeitsrecht/skills/kuendigung-zugang-beweiswerkstatt/SKILL.md) |
 | [`kuendigungs-pruefung`](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=arbeitsrecht/skills/kuendigungs-pruefung/SKILL.md) | Für Kündigungs Prüfung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Tatbestands- oder Anspruchsmatrix. | [MD herunterladen / Download MD](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=arbeitsrecht/skills/kuendigungs-pruefung/SKILL.md) |

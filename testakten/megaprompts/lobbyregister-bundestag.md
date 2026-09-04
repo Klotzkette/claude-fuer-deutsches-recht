@@ -143,6 +143,8 @@ Ausgangspunkt für dieses Plugin: Registerpflichtiger für Ausnahme, Angaben, Ak
 
 _Für Kaltstart Triage: routet Rolle, Frist, Unterlagen und Fachschritt; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt. Fachgebiet: Lobbyregister Bundestag._
 
+# Interessenvertretung und Registervorgang einordnen
+
 ## Direktstart: lesen, entscheiden, liefern
 
 Beginne nicht mit einem Fragenkatalog. Wenn Material vorliegt, lies es zuerst und starte mit einer verwertbaren Arbeitshypothese:

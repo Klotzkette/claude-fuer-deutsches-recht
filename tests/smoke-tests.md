@@ -31,7 +31,7 @@ Wenn der Output nicht erscheint oder der Skill abbricht: das Plugin ist nicht fu
 
 **Eingang:** `testakten/fortbestehensprognose-paragrafix-gmbh/`.
 
-**Schritt 1 — Kaltstart:** `/insolvenzrecht:insolvenzrecht-kaltstart-interview` → liest Jahresabschluss, ausstehende Forderungen, Bürgschaften, Sanierungsoptionen.
+**Schritt 1 — Kaltstart:** `/insolvenzrecht:kaltstart-interview` → liest Jahresabschluss, ausstehende Forderungen, Bürgschaften, Sanierungsoptionen.
 
 **Schritt 2 — Prognose:** `/insolvenzrecht:liquiditaetsvorschau-insolvenzrechtlich` → 13-Wochen-Plan und Fortbestehensprognose-Skizze.
 
@@ -45,7 +45,7 @@ Wenn der Output nicht erscheint oder der Skill abbricht: das Plugin ist nicht fu
 
 **Eingang:** `testakten/fluggastrechte-familie-braeutigam/`.
 
-**Schritt 1 — Kaltstart:** `/fluggastrechte:fluggastrechte-kaltstart-interview` → erkennt Buchung, Annullierung, Anschlussflug, Passagieranzahl, Entfernung.
+**Schritt 1 — Kaltstart:** `/fluggastrechte:kaltstart-interview` → erkennt Buchung, Annullierung, Anschlussflug, Passagieranzahl, Entfernung.
 
 **Schritt 2 — Anspruch & Schreiben:** Skill für Ausgleichszahlung nach VO (EG) 261/2004.
 
@@ -73,7 +73,7 @@ Wenn der Output nicht erscheint oder der Skill abbricht: das Plugin ist nicht fu
 
 **Eingang:** `testakten/betreuung-hildegard-sauer/`.
 
-**Schritt 1 — Kaltstart:** `/betreuungsrecht:betreuungsrecht-kaltstart-interview` → erkennt Verfahrensart (Erstbestellung / Verlängerung / Aufgabenkreis-Erweiterung), Betroffene, Aufgabenkreise.
+**Schritt 1 — Kaltstart:** `/betreuungsrecht:kaltstart-interview` → erkennt Verfahrensart (Erstbestellung / Verlängerung / Aufgabenkreis-Erweiterung), Betroffene, Aufgabenkreise.
 
 **Schritt 2 — Stellungnahme:** Betreuerstellungnahme nach § 1863 BGB n. F. (Stand BtOG-Reform 2023).
 

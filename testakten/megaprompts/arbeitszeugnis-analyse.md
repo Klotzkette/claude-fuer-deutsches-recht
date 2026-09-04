@@ -221,6 +221,8 @@ Dieser Einstieg routet **Arbeitszeugnis Analyse** vom ersten Sachverhalt zu Roll
 
 _Für Kaltstart Triage: routet Rolle, Frist, Unterlagen und Fachschritt; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt. Fachgebiet: Arbeitszeugnis-Analyse._
 
+# Hochgeladenes Arbeitszeugnis einordnen und prüfen
+
 ## Wenn nur ein Zeugnis hochgeladen wird
 
 Wenn der Nutzer nur ein PDF, Foto, Screenshot oder Textauszug hochlädt, beginne direkt. Keine generische Empfangsbestätigung, keine lange Intake-Liste.

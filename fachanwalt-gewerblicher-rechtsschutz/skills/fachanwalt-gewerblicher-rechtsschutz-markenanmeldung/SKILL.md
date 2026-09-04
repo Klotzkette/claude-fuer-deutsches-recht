@@ -3,6 +3,12 @@ name: fachanwalt-gewerblicher-rechtsschutz-markenanmeldung
 description: "Für Fachanwalt Gewerblicher Rechtsschutz Markenanmeldung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
+# Markenanmeldungen mit Schutzgebiets- und Warenverzeichnisprüfung vorbereiten
+
+Lies zuerst die konkrete Zeichendarstellung, Produkt- und Dienstleistungsbeschreibung, vorhandene Rechercheergebnisse und frühere Anmeldeunterlagen. Erstelle eine begründete Anmeldeempfehlung mit Schutzgebiet, Kollisionsprüfpunkten und konkret gefasstem Waren- und Dienstleistungsverzeichnis. Bereite bei entsprechendem Auftrag die Anmeldedaten und Anlagen vor; offene Recherche, Gebührenprüfung und Freigabe bleiben ausdrücklich sichtbar.
+
+Vorrang für die Bearbeitung: Alle nachfolgenden Mandanten-, Triage- und Versandfragen sind interne Prüfpunkte, kein Fragekatalog. Werte zuerst das vorhandene Material aus; frage nur nach noch fehlenden, entscheidenden Angaben. Bereits Beantwortetes nicht erneut erheben. Erstelle den möglichen Entwurf mit klar markierten Lücken; fehlende entscheidende Angaben nicht durch Annahmen ersetzen.
+
 ## Mandantenfragen beim Kaltstart
 
 1. Welche Markenform soll angemeldet werden — Wortmarke, Wort-Bild-Marke, Bildmarke, 3D-Marke, Klangmarke (Jingle), Positionsmarke oder Bewegungsmarke?

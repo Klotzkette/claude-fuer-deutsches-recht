@@ -1,8 +1,8 @@
 # Skills-Index: Detailseiten pro Plugin
 
-Eine Detailseite pro Plugin mit allen Skills, Beschreibungen und Einzel-Downloads. Stand: `v442.0.1`.
+Eine Detailseite pro Plugin mit allen Skills, Beschreibungen und Einzel-Downloads. Stand: `v443.0.0`.
 
-Die Aufteilung verhindert, dass eine einzige Seite alle 22729 Skillzeilen rendern muss. Die Detailseiten bleiben dadurch schnell und einzeln verlinkbar.
+Die Aufteilung verhindert, dass eine einzige Seite alle 22424 Skillzeilen rendern muss. Die Detailseiten bleiben dadurch schnell und einzeln verlinkbar.
 
 English: Each plugin has one lightweight detail page containing its complete skill list, descriptions and direct Markdown downloads. Open a plugin page to choose a skill; links labelled `Download MD` save the file instead of opening a source preview.
 
@@ -14,7 +14,7 @@ Alphabetisch sortiert: [A](#a) · [B](#b) · [C](#c) · [D](#d) · [E](#e) · [F
 
 ### A
 
-- [agb-recht-pruefer](./agb-recht-pruefer.md) (304 Skills)
+- [agb-recht-pruefer](./agb-recht-pruefer.md) (273 Skills)
 - [aktenaufbereiter-strafrecht](./aktenaufbereiter-strafrecht.md) (60 Skills)
 - [aktenauszug-gerichtsverfahren](./aktenauszug-gerichtsverfahren.md) (59 Skills)
 - [aktienrecht-hauptversammlung-ag-se](./aktienrecht-hauptversammlung-ag-se.md) (101 Skills)
@@ -22,7 +22,7 @@ Alphabetisch sortiert: [A](#a) · [B](#b) · [C](#c) · [D](#d) · [E](#e) · [F
 - [apothekenrecht](./apothekenrecht.md) (66 Skills)
 - [arbeitsrecht](./arbeitsrecht.md) (100 Skills)
 - [arbeitszeugnis-analyse](./arbeitszeugnis-analyse.md) (51 Skills)
-- [arbeitszeugnisgenerator](./arbeitszeugnisgenerator.md) (41 Skills)
+- [arbeitszeugnisgenerator](./arbeitszeugnisgenerator.md) (5 Skills)
 - [arbeitszeugnispruefer](./arbeitszeugnispruefer.md) (31 Skills)
 - [aufsichtsrat-ag-se-praxis](./aufsichtsrat-ag-se-praxis.md) (101 Skills)
 - [aussenwirtschaft-zoll-sanktionen](./aussenwirtschaft-zoll-sanktionen.md) (125 Skills)
@@ -86,8 +86,8 @@ Alphabetisch sortiert: [A](#a) · [B](#b) · [C](#c) · [D](#d) · [E](#e) · [F
 - [fachanwalt-arbeitsrecht](./fachanwalt-arbeitsrecht.md) (106 Skills)
 - [fachanwalt-bank-kapitalmarktrecht](./fachanwalt-bank-kapitalmarktrecht.md) (87 Skills)
 - [fachanwalt-bau-architektenrecht](./fachanwalt-bau-architektenrecht.md) (122 Skills)
-- [fachanwalt-erbrecht](./fachanwalt-erbrecht.md) (86 Skills)
-- [fachanwalt-familienrecht](./fachanwalt-familienrecht.md) (143 Skills)
+- [fachanwalt-erbrecht](./fachanwalt-erbrecht.md) (31 Skills)
+- [fachanwalt-familienrecht](./fachanwalt-familienrecht.md) (107 Skills)
 - [fachanwalt-gewerblicher-rechtsschutz](./fachanwalt-gewerblicher-rechtsschutz.md) (93 Skills)
 - [fachanwalt-handels-gesellschaftsrecht](./fachanwalt-handels-gesellschaftsrecht.md) (81 Skills)
 - [fachanwalt-insolvenz-sanierungsrecht](./fachanwalt-insolvenz-sanierungsrecht.md) (83 Skills)
@@ -125,7 +125,7 @@ Alphabetisch sortiert: [A](#a) · [B](#b) · [C](#c) · [D](#d) · [E](#e) · [F
 - [gesellschaftsrechtliche-treuepflicht](./gesellschaftsrechtliche-treuepflicht.md) (101 Skills)
 - [gewerblicher-rechtsschutz](./gewerblicher-rechtsschutz.md) (82 Skills)
 - [goae-gebuehrenordnung-aerzte](./goae-gebuehrenordnung-aerzte.md) (66 Skills)
-- [grosskanzlei-corporate-ma](./grosskanzlei-corporate-ma.md) (236 Skills)
+- [grosskanzlei-corporate-ma](./grosskanzlei-corporate-ma.md) (229 Skills)
 - [grundbuchamt-praxis](./grundbuchamt-praxis.md) (65 Skills)
 
 ### H
@@ -215,7 +215,7 @@ Alphabetisch sortiert: [A](#a) · [B](#b) · [C](#c) · [D](#d) · [E](#e) · [F
 - [patentrecherche](./patentrecherche.md) (58 Skills)
 - [patentrecht](./patentrecht.md) (61 Skills)
 - [phishing-vorfall-pruefer](./phishing-vorfall-pruefer.md) (61 Skills)
-- [preussisches-allgemeines-landrecht-pralr](./preussisches-allgemeines-landrecht-pralr.md) (209 Skills)
+- [preussisches-allgemeines-landrecht-pralr](./preussisches-allgemeines-landrecht-pralr.md) (69 Skills)
 - [private-equity-praxis](./private-equity-praxis.md) (109 Skills)
 - [produktrecht](./produktrecht.md) (70 Skills)
 - [prozessrecht](./prozessrecht.md) (65 Skills)

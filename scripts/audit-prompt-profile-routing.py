@@ -16,8 +16,18 @@ from themen_profile import EXACT_PROFILE_KEYS, profile_for  # noqa: E402
 
 
 CRITICAL_ROUTES = dict(EXACT_PROFILE_KEYS)
+# Fünf operative Zeugnisaufgaben plus vier Kontextfelder, ohne Füllrouten.
+EXPECTED_ROUTE_COUNTS = {"arbeitszeugnisgenerator": 9}
 
 PROMPT_ASSERTIONS: dict[str, dict[str, tuple[str, ...]]] = {
+    "grosskanzlei-corporate-ma": {
+        "required": ("V ZR 77/22", "C-746/21 P"),
+        "forbidden": ("Das Arbeitsprodukt „Garantiekatalog-Zeile“",),
+    },
+    "arbeitszeugnisgenerator": {
+        "required": ("8 AZB 25/25", "9 AZR 272/22", "9 AZR 584/13"),
+        "forbidden": ("Elektronische Form ist ausgeschlossen",),
+    },
     "fachanwalt-agrarrecht": {
         "required": ("54.000 EUR", "60 Prozent", "BLw 12/11", "LwVfG"),
         "forbidden": (
@@ -503,9 +513,10 @@ def main() -> int:
                             flags=re.M,
                         )
                     )
-                if route_count != 12:
+                expected_count = EXPECTED_ROUTE_COUNTS.get(slug, 12)
+                if route_count != expected_count:
                     problems.append(
-                        f"{path.relative_to(REPO)}: {route_count} statt 12 Fachrouten"
+                        f"{path.relative_to(REPO)}: {route_count} statt {expected_count} Fachrouten"
                     )
                 route_titles = re.findall(
                     rf"^### {re.escape(major)}\.\d+\. (.+)$",
